@@ -1,0 +1,356 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 11_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '11'
+titulo_aula: 'LICITAÇÕES: ÂMBITO DE APLICAÇÃO DA LEI'
+---
+
+# LICITAÇÕES: ÂMBITO DE APLICAÇÃO DA LEI
+
+LICITAÇÕES: ÂMBITO DE APLICAÇÃO DA LEI
+
+ÂMBITO DE APLICAÇÃO DA LEI DE
+                                                                                           ADMINISTRAÇÃO PÚBLICA DIRETA:
+         LICITAÇÕES
+
+                                                                            • União;
+                       AUTARQUIAS
+                                                                            • Estados;
+
+                       FUNDAÇÕES:                                           • DF;
+                                                                            • Municípios;
+                                                                            • Poder Judiciário no exercício da função administrativa;
+            • de direito público;
+            • de direito privado,                                           • Poder Legislativo no exercício da função administrativa.
+
+                           FUNDOS ESPECIAIS
+
+
+                              ENTIDADES CONTROLADAS PELA ADMINISTRAÇÃO PÚBLICA, AINDA QUE INDIRETAMENTE
+
+
+                    EM REGRA, AS EMPRESAS ESTATAIS NÃO SE SUBMETEM À LEI DE LICITAÇÕES
+
+
+            • Possuem Lei própria (Lei 13.303/2016).
+                                                                                                                            DIREITO ADMINISTRATIVO
+                                                                                                                             ESTRATÉGIA CONCURSOS
+                                               
+
+
+---
+
+                                   LICITAÇÕES: OBJETOS DA LEI DE LICITAÇÕES
+
+                                                  A LICITAÇÃO É REALIZADA
+
+              ALIENAÇÃO DE BENS;                                                          OBRAS E SERVIÇOS DE ARQUITETURA E ENGENHARIA;
+
+
+   CONCESSÃO DE DIREITO REAL DE USO DE BENS;                                             TECNOLOGIA DA INFORMAÇÃO E DE COMUNICAÇÃO.
+
+
+                   COMPRA;                                                                              ATENÇÃO:
+
+
+                   LOCAÇÃO;                                                            • contratos celebrados por intermédio de
+                                                                                         Lei especial:
+
+                                                                                          ❑   a concessões e permissões de serviços
+ CONCESSÃO E PERMISSÃO DE USO DE BENS PÚBLICOS;                                               públicos;
+
+                                                                                          ❑   serviços de publicidade prestados por
+                                                                                              intermédio de agências de propaganda.
+
+             PRESTAÇÃO DE SERVIÇOS;                                                    • casos que não se aplica a lei de
+                                                                                         licitações:
+• Abrange os serviços técnico-proﬁssionais                                                ❑   contratos de operação de crédito, interno ou
+  especializados.                                                                             externo, e gestão de dívida pública.
+
+                                                                                                                             DIREITO ADMINISTRATIVO
+                                                                                                                              ESTRATÉGIA CONCURSOS
+                                                  
+
+
+---
+
+                                    LICITAÇÕES: PRINCÍPIOS
+
+                                      PRINCÍPIOS DAS LICITAÇÕES
+
+        PODEM SER:                                                         ❑ EXPRESSOS:
+
+                     • Legalidade;                                                   • Segregação de funções;
+                     • Impessoalidade;                                               • Motivação;
+                     • Moralidade;                                                   • Vinculação ao edital;
+                     • Publicidade;                                                  • Julgamento objetivo;
+                     • Eﬁciência;                                                    • Segurança jurídica;
+                     • Interesse público;                                            • Razoabilidade;
+                     • Probidade administrativa;                                     • Competitividade;
+                     • Igualdade;                                                    • Proporcionalidade;
+                     • Planejamento;                                                 • Celeridade;
+                     • Transparência;                                                • Economicidade;
+                     • Eﬁcácia;                                                      • Desenvolvimento nacional sustentável.
+❑ IMPLÍCITOS.
+
+
+                                                                                                                   DIREITO ADMINISTRATIVO
+                                                                                                                    ESTRATÉGIA CONCURSOS
+                                      
+
+
+---
+
+             LICITAÇÕES: OBJETIVOS
+
+
+              OBJETIVOS DAS LICITAÇÕES:
+
+
+              ❑     ASSEGURAR A SELEÇÃO DA PROPOSTA APTA A GERAR O RESULTADO DE CONTRATAÇÃO
+ASSEGURAR           MAIS VANTAJOSO PARA A ADMINISTRAÇÃO PÚBLICA, INCLUSIVE NO QUE SE REFERE AO
+                    CICLO DE VIDA DO OBJETO;
+
+              ❑     TRATAMENTO ISONÔMICO.
+
+                                  ❑       CONTRATAÇÕES COM SOBREPREÇO.
+
+  EVITAR
+                                    • Valor muito superior aos de mercado.
+
+
+                                  ❑       PREÇOS MANIFESTAMENTE INEXEQUÍVEIS;
+
+                                  ❑       SUPERFATURAMENTO.
+
+              ❑     A INOVAÇÃO;
+INCENTIVAR
+              ❑     O DESENVOLVIMENTO NACIONAL SUSTENTÁVEL.
+
+                                                                                  DIREITO ADMINISTRATIVO
+                                                                                   ESTRATÉGIA CONCURSOS
+              
+
+
+---
+
+MODALIDADES DE LICITAÇÃO                                                               LICITAÇÕES: MODALIDADES
+                                                                                     REPRESENTAM O PROCEDIMENTO DA LICITAÇÃO
+                                                                                                     • serviços técnicos especializados de natureza
+     MODALIDADES EM ESPÉCIE                   ❑   aquisição de bens e serviços                         predominantemente intelectual;
+                                                  comuns;                                            • obras;
+                                                                                                     • serviços de engenharia especiais;
+                                              ❑   não é possível utilizar o
+                 PREGÃO:                                                                             • locações;
+                                                  pregão para:
+                                                                                                     • alienações;
+                                                                                                     • bens e serviços especiais.
+                                   ❑   contratação de bens e serviços especiais;
+                                   ❑   contratação de obras;                                        Obs.: para serviços comuns de engenharia, é
+        CONCORRÊNCIA:                                                                               possível utilizar tanto o pregão quando a
+                                   ❑   contratação de serviços comuns e especiais                   concorrência.
+                                       de engenharia.
+                                                                                                             ❑    escolha de trabalho técnico;
+                                                            CONCURSO:
+                                                                                                             ❑    escolha de trabalho cientíﬁco;
+                           ❑   alienação de bens imóveis;                                                    ❑    escolha de trabalho artístico.
+       LEILÃO:             ❑   alienação de bens móveis inservíveis;                                QUE VISE A CONTRATAR OBJETO:
+
+                           ❑   alienação de bens legalmente apreendidos.                            • com inovação tecnológica ou técnica;
+                                                                                                    • com impossibilidade de a necessidade ser
+                                                                                                       satisfeita sem a adaptação de soluções
+      DIÁLOGO              ❑   modalidade criada pela nova lei de licitações;
+                                                                                                       disponíveis no mercado;
+     COMPETITIVO:
+                           ❑   É restrito às contratações                                           • impossibilidade das especiﬁcações técnicas
+                                                                                                       serem deﬁnidas com precisão suﬁciente.
+                           • divulgação do edital com necessidades e exigências                     COM NECESSIDADE DE DEFINIR E IDENTIFICAR OS MEIOS E AS
+                             prévias;                                                               ALTERNATIVAS QUE POSSAM SATISFAZER NECESSIDADES.
+
+ ❑     Etapas:             • pré-seleção;
+                           • realização dos diálogos;
+                           • divulgação e realização da fase competitiva.                                                                 DIREITO ADMINISTRATIVO
+                                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                       
+
+
+---
+
+                       LICITAÇÕES: CRITÉRIOS DE JULGAMENTO
+
+                    CRITÉRIOS DE JULGAMENTO POR MODALIDADE DE LICITAÇÃO
+
+
+                                                              ❑          MENOR PREÇO;
+            CONCORRÊNCIA:
+                                                              ❑          MELHOR TÉCNICA;
+
+                                                              ❑          MELHOR CONTEÚDO ARTÍSTICO;
+               PREGÃO:
+                                                              ❑          TÉCNICA E PREÇO;
+
+❑   MENOR PREÇO;                                              ❑          MAIOR RETORNO ECONÔMICO;
+
+❑   MAIOR DESCONTO.                                           ❑          MAIOR DESCONTO.
+
+                                                              ❑          MELHOR TÉCNICA;
+              CONCURSO:
+                                                              ❑          MELHOR CONTEÚDO ARTÍSTICO.
+
+                   LEILÃO:                                    ❑          MAIOR LANCE.
+
+         DIÁLOGO COMPETITIVO:                                 ❑          OS DEFINIDOS NO EDITAL.
+
+
+                                                                                                      DIREITO ADMINISTRATIVO
+                                                                                                       ESTRATÉGIA CONCURSOS
+                                    
+
+
+---
+
+                    LICITAÇÃO: CONTRATAÇÃO DIRETA
+
+
+                       CONTRATAÇÃO DIRETA (SEM LICITAÇÃO)
+
+
+                        INEXIGIBILIDADE:                             • fornecedor exclusivo;
+                                                                     • artista consagrado;
+                                                                     • serviço    técnico   proﬁssional,    com
+                                                                       prestador de notória especialização;
+           ❑ inviabilidade de competição;                            • contratação por credenciamento;
+ESPÉCIES
+           ❑ rol exempliﬁcativo:                                     • imóvel em virtude das características e
+                                                                       da localização.
+
+
+                     DISPENSA DE LICITAÇÃO:
+
+
+            • Dispensável:
+
+                   há autorização para não licitar;                 ❑ rol taxativo;
+                   é hipótese discricionária.                       ❑ espécie.
+
+            • Dispensada:
+
+                   a lei manda não licitar;
+
+                   é hipótese vinculada.
+                                                                                                    DIREITO ADMINISTRATIVO
+                                                                                                     ESTRATÉGIA CONCURSOS
+                               
+
+
+---
+
+                               LICITAÇÃO: ALIENAÇÃO DE BENS
+
+ALIENAÇÃO DE BENS
+                                                                 BENS IMÓVEIS:
+
+
+                                                    ❑ licitação na modalidade leilão;
+                                                    ❑ existência de interesse público devidamente justiﬁcado;
+
+       REQUISITOS                                   ❑ avaliação do bem;
+                                                    ❑ autorização legislativa (em regra).
+
+                                                                 BENS MÓVEIS:
+
+
+                                                    ❑ existência de interesse público devidamente justiﬁcado;
+
+      CRITÉRIO DE JULGAMENTO                        ❑ avaliação do bem;
+                                                    ❑ licitação, na modalidade leilão.
+
+           MAIOR LANCE.                                                  • Exceção: Hipóteses de licitação dispensada.
+
+
+                                                                                                                     DIREITO ADMINISTRATIVO
+                                                                                                                      ESTRATÉGIA CONCURSOS
+                                    
+
+
+---
+
+      FASES DA LICITAÇÃO                                                                            LICITAÇÃO: FASES
+                                                                                                    ❑ abrange os atos realizados antes da divulgação
+                  PREPARATÓRIA                       FASE INTERNA:
+                                                                                                      do edital.
+
+  DIVULGAÇÃO DO EDITAL DE LICITAÇÃO
+                                                           PRAZOS:                                  ❑ Diálogo competitivo:    • 25 dias úteis    para
+                                                                                                                                manifestação      de
+                                                                                                                                interesse;
+                                                                                                                              • 60 dias úteis    para
+                                                                                                                                propostas.
+❑ Pregão:                            ❑ Leilão:                       ❑ Concurso:                        ❑ Concorrência:
+• 8 dias úteis para bens;            • 15 dias úteis.                  • 35 dias úteis.                  • Prazos diversos.
+• 10 dias úteis para serviços.
+                                                                                ❑ disputa ﬁnal - apresentação de novos lances;
+          APRESENTAÇÃO DE PROPOSTAS E LANCES
+                                                                                ❑ avaliação do desempenho contratual prévio dos licitantes;
+
+       JULGAMENTO                       DESEMPATE:                              ❑ ações de equidade entre homens e mulheres;
+                                                                                ❑ desenvolvimento de programa de integridade.
+
+                        HABILITAÇÃO:                                                               JURÍDICA;
+
+                                                                                                   TÉCNICA;
+
+                                                                                                    FISCAL;
+                          RECURSAL
+                                                                                                    SOCIAL;
+
+                                                                                                 TRABALHISTA;
+                       HOMOLOGAÇÃO
+                                                                                             ECONÔMICO-FINANCEIRA.                     DIREITO ADMINISTRATIVO
+                                                                                                                                        ESTRATÉGIA CONCURSOS
+                                                        
+
+
+---
+
+               LICITAÇÃO: INSTRUMENTOS AUXILIARES
+
+                       ❑ CREDENCIAMENTO:
+INSTRUMENTOS
+  AUXILIARES            • processo administrativo de chamamento público;
+                        • a Administração Pública convoca interessados em
+                          prestar serviços ou fornecer bens.
+
+  ESPÉCIES             ❑ PRÉ-QUALIFICAÇÃO:
+
+                        • procedimento seletivo prévio à licitação;
+                        • é convocado por meio de edital;
+                        • destina-se à análise das condições de habilitação.
+
+                       ❑ PROCEDIMENTO DE MANIFESTAÇÃO DE INTERESSE.
+
+                       ❑SISTEMA DE REGISTRO DE PREÇOS:
+
+                        • aplicável ao pregão e à concorrência;
+                        • registro formal de preços relativos a prestação de
+                          serviços, a obras e a aquisição e locação de bens
+                          para contratações futuras.
+
+                       ❑ REGISTRO CADASTRAL:
+
+                        • serve para cadastrar os possíveis
+                          fornecedores da administração.                       DIREITO ADMINISTRATIVO
+                                                                                ESTRATÉGIA CONCURSOS
+                       
+
+
+---

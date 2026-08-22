@@ -1,0 +1,4154 @@
+                                                    Aula 04
+                          Receita Federal (Analista Tributário)
+                                                   Estatística
+
+
+
+
+                                                        Autor:
+                                     Equipe Exatas Estratégia
+                                                  Concursos
+
+
+                                             23 de Maio de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Exatas Estratégia Concursos
+      Aula 04
+
+
+
+
+                                                                                     Índice
+1) Medidas de Dispersão.
+..............................................................................................................................................................................................3
+
+2) Amplitude Total.
+..............................................................................................................................................................................................4
+
+3) Amplitude Interquartílica.
+..............................................................................................................................................................................................9
+
+4) Desvios em Relação à Média Aritmética e Mediana.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+5) Desvio Absoluto Médio.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            13
+
+6) Variância.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            20
+
+7) Desvio-Padrão.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            28
+
+8) Coeficiente de Variação (ou Dispersão Relativa).
+..............................................................................................................................................................................................
+                                                                                                                                                                                            34
+
+9) Variância Relativa.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            36
+
+10) Questões Comentadas - Amplitude Total - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+11) Questões Comentadas - Amplitude Interquartílica - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            39
+
+12) Questões Comentadas - Desvios em Relação à Média Aritmética e Mediana - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            42
+
+13) Questões Comentadas - Variância - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            44
+
+14) Questões Comentadas - Desvio-Padrão - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            56
+
+15) Lista de Questões - Amplitude Total - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            65
+
+16) Lista de Questões - Amplitude Interquartílica - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            68
+
+17) Lista de Questões - Desvios em Relação à Média Aritmética e Mediana - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            71
+
+18) Lista de Questões - Variância - FGV -
+..............................................................................................................................................................................................
+                                                                                                                                                                                            73
+
+19) Lista de Questões - Desvio-Padrão - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            79
+
+20) Lista de Questões - Coeficiente de Variação (ou Dispersão Relativa) - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            84
+
+
+
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           89
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                              MEDIDAS DE VARIABILIDADE
+Suponha que você precise avaliar três grupos
+de alunos, cada um com cinco elementos, no
+que diz respeito ao domínio de uma
+determinada matéria. Os testes mostraram os
+seguintes resultados:
+
+
+                      Grupos
+
+                  𝑨 = 𝟕, 𝟕, 𝟕, 𝟕, 𝟕
+                  𝑩 = 𝟓, 𝟔, 𝟕, 𝟖, 𝟗
+               𝑪 = 𝟏, 𝟒, 𝟏𝟎, 𝟏𝟎, 𝟏𝟎
+
+Para analisar esses dados, podemos,
+inicialmente, calcular a média aritmética dos
+três grupos. Concluímos, então, que todos
+possuem a mesma média aritmética (𝑥̅ = 7).
+Contudo, ao observarmos a variação dos
+dados, percebemos que os grupos se
+comportam de maneira diferente, apesar de
+todos possuírem a mesma média.
+
+Nesse caso, a média, embora seja uma medida representativa do conjunto, não indica o grau de
+homogeneidade ou heterogeneidade existente entre os valores que compõem o conjunto. Desse
+modo, precisamos recorrer a procedimentos matemáticos que possibilitem a compreensão da
+discrepância existente entre os valores do conjunto.
+
+As medidas de dispersão (ou variabilidade) são métricas que mostram a variação dos dados de
+um conjunto. Elas podem ser divididas em dois grupos:
+
+    a) medidas de dispersão absoluta:                          b) medidas de dispersão relativa:
+       • amplitude total;                                         • coeficiente de variação (de Pearson);
+       • amplitude interquartílica;                                 e
+       • desvio médio;                                            • variância relativa.
+       • variância; e
+       • desvio-padrão.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                               3
+        www.estrategiaconcursos.com.br                                                                 89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                         AMPLITUDE TOTAL
+A amplitude total (ou simplesmente amplitude) é a diferença entre os valores extremos de um
+conjunto de observações, ou seja, a diferença entre o maior e o menor elemento desse conjunto:
+
+                                                𝑨𝑻 = 𝒙𝒎á𝒙 − 𝒙𝒎í𝒏
+
+No cálculo da amplitude total, desconsideramos os valores da série que se encontram entre os
+extremos, o que pode conduzir a interpretações equivocadas. Com frequência, um valor
+discrepante pode afetar a medida de maneira acentuada.
+
+Além disso, a amplitude total também é sensível ao tamanho de amostra. Normalmente, a
+amplitude total tende a aumentar com o incremento do tamanho da amostra, ainda que não
+proporcionalmente. Ainda, a amplitude total pode apresentar muita variação de uma amostra para
+outra, ainda que extraídas de uma mesma população.
+
+Apesar das limitações dessa medida, há situações em que ela pode ser aplicada de forma
+satisfatória. É o caso, por exemplo, da variação da temperatura em um dia. Também é o caso de
+quando uma compreensão rápida dos dados é mais relevante que a exatidão de um procedimento
+complexo.
+
+
+
+
+Amplitude Total para dados não agrupados
+
+Para dados não agrupados, o cálculo da amplitude total pode ser expresso pela seguinte fórmula:
+
+
+                                                𝑨𝑻 = 𝒙𝒎á𝒙 − 𝒙𝒎í𝒏
+
+em que 𝑥𝑚á𝑥 é o maior elemento; e 𝑥𝑚í𝑛 é o menor elemento do conjunto.
+
+
+
+
+Calcular a amplitude total dos conjuntos apresentados a seguir:
+                                          𝐴 = 50, 50, 50, 50, 50, 50, 50
+
+
+        Receita Federal (Analista Tributário) Estatística                                    4
+        www.estrategiaconcursos.com.br                                                      89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                          𝐵 = 47, 48, 49, 50, 51, 52, 53
+                                          𝐶 = 20, 30, 40, 50, 60, 70, 80
+Aplicando a fórmula anterior para esses dados, obtemos os seguintes resultados:
+                                      𝐴 𝑇 𝐴 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛 = 50 − 50 = 0
+                                      𝐴 𝑇 𝐵 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛 = 53 − 47 = 6
+                                     𝐴 𝑇 𝐶 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛 = 80 − 20 = 60
+Nesse caso, podemos observar que o conjunto A obteve uma amplitude total igual a 0, ou seja, uma
+dispersão nula. Então, significa que os valores não variam entre si. O conjunto B, por sua vez, obteve
+uma amplitude igual a 6. Já a variável C teve uma amplitude total igual a 60.
+Embora o valor da amplitude total seja diferente para os conjuntos A, B e C, todos possuem a mesma
+                                                            ==219a34==
+
+
+
+
+média aritmética (50). Independentemente da média, verificamos que o conjunto A possui
+elementos mais homogêneos do que os conjuntos B e C. E, também, que os elementos do conjunto
+B são mais homogêneos do que os do conjunto C.
+
+
+
+
+Amplitude Total para dados agrupados sem intervalos de classes
+
+Para dados agrupados SEM intervalos de classe, a fórmula usada para a identificação da amplitude
+total é similar à adotada para dados não-agrupados. A única diferença consiste na identificação
+dos valores mínimo e máximo, que agora ocorre por meio de uma tabela de frequências.
+
+
+
+
+Calcular a amplitude total da tabela de frequências apresentada a seguir.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                           5
+        www.estrategiaconcursos.com.br                                                             89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                                  𝒙𝒊              𝒇𝒊
+                                                   1             10
+                                                   3             15
+                                                   5             10
+                                                   7              8
+                                                   9              7
+
+Nesse caso, como 1 e 9 são os valores mínimo e máximo da variável 𝑥𝑖 , temos o seguinte resultado:
+                                                 𝐴 𝑇 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛
+                                                   𝐴𝑇 = 9 − 1 = 8
+
+
+É importante ressaltar que esses valores foram selecionados independentemente da frequência
+associada a eles.
+
+
+
+
+Amplitude Total para dados agrupados em classes
+
+Para dados agrupados em intervalos de classe, podemos definir a amplitude total de duas formas:
+
+1) pela diferença entre o limite superior da última classe (𝑳𝒔𝒖𝒑 ) e o limite inferior da primeira classe
+(𝒍𝒊𝒏𝒇 ), conforme expresso na fórmula a seguir:
+
+                                                  𝑨 = 𝑳𝒔𝒖𝒑 − 𝒍𝒊𝒏𝒇
+
+2) pela diferença entre o ponto médio da última classe (𝑷𝑴ú𝒍𝒕 ) e o ponto médio da primeira classe
+(𝑷𝑴𝒑𝒓𝒊 ), conforme expresso na fórmula a seguir:
+
+                                                 𝑨 = 𝑷𝑴ú𝒍𝒕 − 𝑷𝑴𝒑𝒓𝒊
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                              6
+        www.estrategiaconcursos.com.br                                                                89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Calcular a amplitude total da distribuição de frequências apresentada a seguir:
+
+                                                  Classes     𝑷𝑴i     𝒇𝒊
+                                                   1⊢5          3     5
+                                                   5⊢9          7    10
+                                                  9 ⊢ 13       11    15
+                                                 13 ⊢ 17       15    10
+                                                 17 ⊢ 21       19     5
+                                                   Total             45
+
+Pelo primeiro método, temos que o limite superior da última classe é 21, enquanto o limite inferior
+da primeira classe é 1. Portanto, temos a seguinte amplitude:
+                                                   𝐴 = 𝐿𝑠𝑢𝑝 − 𝑙𝑖𝑛𝑓
+                                                  𝐴 = 21 − 1 = 20
+Pelo segundo método, temos que o ponto médio da última classe é 19, enquanto o ponto médio da
+primeira classe é 3. Portanto, temos a seguinte amplitude:
+                                                𝐴 = 𝑃𝑀ú𝑙𝑡 − 𝑃𝑀𝑝𝑟𝑖
+                                                  𝐴 = 19 − 3 = 16
+Observe que a amplitude é menor pelo segundo método, porque os extremos da distribuição são
+desconsiderados.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                        7
+        www.estrategiaconcursos.com.br                                                          89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Propriedades da Amplitude Total
+
+As principais propriedades da amplitude total são:
+
+        1ª Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+          amplitude do conjunto não é alterada.
+
+
+        2ª Propriedade
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, a amplitude do conjunto fica multiplicada (ou dividida) por essa constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                         8
+        www.estrategiaconcursos.com.br                                                            89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                             AMPLITUDE INTERQUARTÍLICA
+Denominamos de quartis os valores de uma
+série que a dividem em quatro partes iguais,
+isto é, quatro partes contendo o mesmo
+número de elementos (25%). A imagem ao lado
+mostra os quartis de uma distribuição
+hipotética:
+
+Temos, então, 3 quartis (𝑄1 , 𝑄2 e 𝑄3 ) para dividir uma série em quatro partes iguais:
+
+
+ 𝑸𝟏 : o primeiro quartil corresponde à separação dos primeiros 25% de elementos da série.
+                                                            ==219a34==
+
+
+
+
+     𝑸𝟐 : o segundo           corresponde à separação de metade dos elementos da série,
+          quartil             coincidindo com a mediana (𝑸𝟐 = 𝑴𝒅 ).
+
+                              corresponde à separação dos primeiros 75% de elementos da série, ou
+ 𝑸𝟑 : o terceiro quartil
+                              dos últimos 25% de elementos da série.
+
+
+
+A amplitude interquartílica (ou distância                                A amplitude semi-interquartílica (ou desvio
+interquartílica, ou intervalo interquartílico) é o                       quartílico) é definida como a metade desse
+resultado da subtração entre o terceiro quartil                          valor, sendo calculada pela expressão
+e o primeiro quartil:                                                    apresentada a seguir:
+
+                𝑨𝑰𝑸 = 𝑸𝟑 − 𝑸𝟏                                                                𝑸𝟑 − 𝑸𝟏
+                                                                                      𝑫𝑸 =
+                                                                                                𝟐
+
+
+
+
+Reparem que a fórmula da amplitude interquartílica (ou distância interquartílica) é muito parecida
+com a fórmula da amplitude semi-interquartílico (ou desvio quartílico), podendo ser facilmente
+confundida.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                         9
+        www.estrategiaconcursos.com.br                                                                           89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Propriedades da Amplitude Interquartílica
+
+A principais propriedades da amplitude interquartílica e do desvio quartílico são:
+
+        1ª Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+          amplitude interquartílica (e o desvio quartílico) do conjunto não é alterada.
+
+
+
+        2ª Propriedade
+
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, a amplitude interquartílica (e o desvio quartílico) do conjunto fica multiplicada (ou
+          dividida) por essa constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                            10
+        www.estrategiaconcursos.com.br                                                               89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+  DESVIOS EM RELAÇÃO À MÉDIA ARITMÉTICA E MEDIANA
+Antes de apresentarmos as fórmulas para o cálculo do desvio médio e da variância, precisamos
+compreender qual o conceito de desvio em estatística. Um desvio é a distância entre qualquer
+observação do conjunto de dados e uma medida descritiva desse conjunto:
+                                        𝑑𝑒𝑠𝑣𝑖𝑜 = 𝑜𝑏𝑠𝑒𝑟𝑣𝑎çã𝑜 − 𝑚𝑒𝑑𝑖𝑑𝑎
+Em especial, destacamos os desvios em relação à média aritmética e em relação à mediana:
+
+                                                      ̅
+                                             𝒅𝒊 = 𝒙 − 𝒙                  (𝑚é𝑑𝑖𝑎)
+
+ou                                                          ==219a34==
+
+
+
+
+                                          𝒅𝒊 = 𝒙 − 𝑴𝒅 (𝑚𝑒𝑑𝑖𝑎𝑛𝑎)
+
+É natural pensarmos que, quando os desvios em relação a uma medida descritiva são pequenos,
+as observações estão concentradas em torno dessa medida e, portanto, a variabilidade dos dados
+é pequena. Agora, quando os desvios são maiores, significa que as observações estão dispersas
+e, portanto, a variabilidade dos dados é grande.
+
+
+
+
+Propriedades dos Desvios em Relação à Média Aritmética e
+Mediana
+
+As propriedades mais importantes dos desvios são:
+
+        1ª Propriedade
+        • A soma algébrica dos desvios em relação à média é nula.
+
+
+
+
+        2ª Propriedade
+        • A soma dos quadrados dos desvios da sequência de números 𝒙𝒊 , em relação a um
+          número 𝒂, é mínima se 𝒂 for a média aritmética dos números.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                  11
+        www.estrategiaconcursos.com.br                                                     89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+        3ª Propriedade
+        • A soma dos desvios absolutos de uma sequência de números, em relação a um número
+          𝒂, é mínima quando 𝒂 é a mediana dos números.
+
+
+
+
+Caso o número de elemento seja par, a soma dos módulos também será mínima se os desvios forem
+calculados em relação a um dos valores centrais. Isto é, também será mínima a soma dos módulos
+dos desvios calculados em relação a qualquer termo no intervalo [𝑥𝑛 , 𝑥𝑛+1 ], em que 𝑥𝑛 e 𝑥𝑛+1 são
+                                                                           2   2     2       2
+os termos centrais.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                        12
+        www.estrategiaconcursos.com.br                                                           89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                 DESVIO ABSOLUTO MÉDIO
+O desvio absoluto médio, ou simplesmente                              Dia da
+desvio médio, mede a dispersão entre os                                           Número de visualizações
+                                                                     semana
+valores da distribuição e a média dos dados
+coletados. Suponha que se tenha realizado                           Domingo                2.000
+uma semana de revisão para estudantes da                            Segunda                4.000
+área fiscal, obtendo-se a distribuição de
+                                                                      Terça                5.200
+visualizações apresentada na tabela ao lado.
+A semana de revisão teve uma média diária                            Quarta                6.300
+de 4.200 visualizações. Esse resultado,                              Quinta                5.400
+porém, não retrata a realidade com
+                                                                      Sexta                4.100
+fidedignidade, pois alguns dias tiveram mais
+visualizações do que a média; enquanto                               Sábado                2.400
+outros não. Por isso, é importante sabermos
+                                                                      Total             ∑ 𝑓𝑖 = 29.400
+o quão distante a média está em relação aos
+valores reais por ela representados.
+
+
+Para calculá-los, basta subtrairmos o valor da média de cada observação, conforme mostrado a
+seguir:
+
+                       Dia da
+                                     Número de visualizações                        ̅
+                                                                               𝒙𝒊 − 𝒙
+                      semana
+
+                     Domingo                      2.000              2.000 − 4.200 = −2.200
+
+                     Segunda                      4.000               4.000 − 4.200 = −200
+
+                       Terça                      5.200               5.200 − 4.200 = 1000
+
+                      Quarta                      6.300               6.300 − 4.200 = 2.100
+
+                       Quinta                     5.400               5.400 − 4.200 = 1.200
+
+                       Sexta                      4.100               4.100 − 4.200 = −100
+
+                      Sábado                      2.400              2.400 − 4.200 = −1.800
+
+                        Total              ∑ 𝒇𝒊 = 𝟐𝟗. 𝟒𝟎𝟎                        0
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   13
+        www.estrategiaconcursos.com.br                                                                      89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Notem que, ao calcularmos o desvio médio, obtemos resultados positivos e negativos, que se
+anulam ao serem somados. Percebam que existem valores de observações que estão muito
+próximos da média, enquanto outros estão mais distantes.
+Como a soma de todos os desvios médios é sempre igual a zero para qualquer conjunto de dados
+(1.ª propriedade dos desvios), sabemos que ∑𝑛𝑖=1(𝑥 − 𝑥̅ ) não nos fornecerá nenhuma informação
+relevante nem nos ajudará a compreender o que está acontecendo com essa variável.
+Para superar essa dificuldade, podemos utilizar apenas os resultados positivos dos desvios
+calculados. A fórmula do cálculo do desvio médio se apresenta da seguinte maneira:
+
+                                                     ∑𝒏𝒊=𝟏|𝒙𝒊 − 𝒙
+                                                                ̅|
+                                                𝑫𝒎 =
+                                                           𝒏
+em que 𝐷𝑚 representa o desvio médio, |𝑥𝑖 − 𝑥̅ | representa o módulo da diferença entre uma
+determinada observação e a média calculada, 𝑓𝑖 representa a frequência de um determinado valor
+para a variável da distribuição, e 𝑛 representa o total de elementos formados pela distribuição.
+O desvio médio é uma medida de dispersão mais robusta do que a amplitude total e a amplitude
+interquartílica, pois leva em consideração todos os valores do conjunto. O inconveniente dessa
+medida é a operação de módulo, que, por conta de suas características matemáticas, torna difícil
+o estudo de suas propriedades.
+
+
+
+
+Desvio Médio para dados não-agrupados
+
+O desvio absoluto médio (𝐷𝑚 ), de um conjunto de 𝑛 observações 𝑥1 , ⋯ , 𝑥𝑛 , é a média dos valores
+absolutos das diferenças entre as observações e a média. Isto é,
+
+
+                                                     ∑𝒏𝒊=𝟏|𝒙𝒊 − 𝒙
+                                                                ̅|
+                                                𝑫𝒎 =
+                                                           𝒏
+
+As barras verticais indicam a operação de módulo, que é responsável por transformar qualquer
+número negativo em um número positivo, isto é, retornar o valor absoluto.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                      14
+        www.estrategiaconcursos.com.br                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Calcular o desvio médio do conjunto mostrado a seguir:
+                                                      {1, 2, 3, 5, 9}
+
+
+Iniciaremos pelo cálculo da média aritmética:
+                                                1 + 2 + 3 + 5 + 9 20
+                                         𝑥̅ =                    =   =4
+                                                        5          5
+
+
+Vamos montar uma tabela para facilitar o cálculo do desvio médio:
+
+                                    𝒙𝒊              ( 𝒙𝒊 − 𝒙
+                                                           ̅)                | 𝒙𝒊 − 𝒙
+                                                                                    ̅|
+                                    1            (1 − 4) = −3                   3
+                                    2            (2 − 4) = −2                   2
+                                    3            (3 − 4) = −1                   1
+                                    5             (5 − 4) = 1                   1
+                                    9             (9 − 4) = 5                   5
+
+                                                                        ∑ | 𝒙𝒊 − 𝒙
+                                                                                 ̅| = 𝟏𝟐
+
+
+
+Aplicando a fórmula do desvio médio, temos:
+                                         ∑𝐾𝑖=1|𝑥𝑖 − 𝑥̅ | ∑𝐾
+                                                          𝑖=1|𝑥𝑖 − 4|   12
+                               𝐷𝑚 =                     =             =    = 2,4
+                                               𝑛              𝑛         5
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                  15
+        www.estrategiaconcursos.com.br                                                     89
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Desvio Médio para dados agrupados sem intervalo de classe
+
+Quando os valores vierem dispostos em uma tabela de frequências, o desvio médio será calculado
+por meio da seguinte fórmula:
+                                                 ∑𝒎
+                                                  𝒊=𝟏[ |𝒙𝒊 − ̅
+                                                             𝒙 | × 𝒇𝒊 ]
+                                            𝑫𝒎 =
+                                                         ∑ 𝒇𝒊
+
+Em que 𝑚 indica o número de grupos em que os dados estão organizados; e |𝑥𝑖 − 𝑥̅ | representa
+o módulo da diferença entre uma determinada observação e a média calculada.
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou a quantidade de filhos de seus professores,
+obtendo a tabela de frequências apresentada a seguir. Vamos calcular o desvio médio dessa
+distribuição.
+
+                                 Nº de filhos
+                                     por                    𝒇𝒊         𝒙𝒊 × 𝒇𝒊
+                                  professor
+                                        0                   4        0×4=0
+                                        1                   8        1×8=8
+                                        2                   4        2×4=8
+                                        3                   2        3×2=6
+                                        4                   2        4×2=8
+                                 * Pesquisa ∑ 𝑓 = 20 ∑ 𝑥 × 𝑓 = 30
+                                               𝑖        𝑖   𝑖
+                                populacional
+
+
+
+Iniciaremos pelo cálculo da média aritmética:
+
+
+                                     ∑ 𝑥𝑖 × 𝑓𝑖 30
+                              𝑥̅ =            =    = 1,50 𝑓𝑖𝑙ℎ𝑜𝑠 / 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑜𝑟
+                                       ∑ 𝑓𝑖     20
+
+        Receita Federal (Analista Tributário) Estatística                                      16
+        www.estrategiaconcursos.com.br                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Em seguida, adicionaremos uma nova coluna à tabela anterior, em que calcularemos os produtos
+dos desvios absolutos por suas respectivas frequências:
+
+                   Nº de filhos
+                       por                 𝒇𝒊               𝒙𝒊 × 𝒇𝒊          |𝒙𝒊 − 𝒙
+                                                                                   ̅| × 𝒇𝒊
+                    professor
+                          0                 4                 0            |0 − 1,5| × 4 = 6
+
+                          1                 8                 8            |1 − 1,5| × 8 = 4
+
+                          2                 4                 8            |2 − 1,5| × 4 = 2
+
+                          3                 2                 6            |3 − 1,5| × 2 = 3
+
+                          4                 2                 8            |4 − 1,5| × 2 = 5
+
+                    * Pesquisa ∑ 𝑓 = 20 ∑ 𝑥 × 𝑓 = 30 ∑|𝑥 − 𝑥̅ | × 𝑓 = 20
+                                  𝑖        𝑖   𝑖        𝑖          𝑖
+                   populacional
+
+
+
+Por fim, aplicando a fórmula do desvio médio, temos:
+                                                 ∑|𝑥𝑖 − 𝑥̅ | × 𝑓𝑖 20
+                                         𝐷𝑚 =                    =    =1
+                                                      ∑ 𝑓𝑖         20
+
+
+
+
+Desvio Médio para dados agrupados em classes
+
+Se os dados estiverem agrupados em classe, deveremos adotar a mesma convenção que tomamos
+para o cálculo da média, isto é, vamos assumir que todos os valores coincidem com os pontos
+médios das suas respectivas classes:
+
+                                             ∑𝒎
+                                              𝒊=𝟏[ |𝑷𝑴𝒊 − 𝒙
+                                                          ̅ | × 𝒇𝒊 ]
+                                        𝑫𝒎 =
+                                                     ∑ 𝒇𝒊
+
+em que 𝑚 indica o número de classes em que os dados estão organizados; e |𝑃𝑀𝑖 − 𝑥̅ | representa
+o módulo da diferença entre os pontos médios de cada classe e a média calculada.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                      17
+        www.estrategiaconcursos.com.br                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou as estaturas de 40 alunos, obtendo a
+distribuição de frequências apresentada a seguir. Calcule o desvio médio dessa distribuição.
+
+                                                                         Frequência
+                                                Estaturas
+                                                                            (𝒇𝒊 )
+
+                                               150 ⊢ 154                     4
+                                               154 ⊢ 158                     9
+                                                            ==219a34==
+
+
+
+
+                                               158 ⊢ 162                    11
+                                               162 ⊢ 166                     8
+                                               166 ⊢ 170                     5
+                                               170 ⊢ 174                     3
+                                               * Pesquisa                ∑ 𝒇𝒊 = 𝟒𝟎
+                                                amostral
+
+
+
+
+Inicialmente, construiremos uma tabela como a mostrada a seguir:
+
+               Frequência
+  Estaturas                    𝒙𝒊            𝒙𝒊 × 𝒇𝒊                      (𝒙𝒊 − ̅
+                                                                                𝒙)    |𝒙𝒊 − ̅
+                                                                                            𝒙|       |𝒙𝒊 − ̅
+                                                                                                           𝒙| × 𝒇𝒊
+                  (𝒇𝒊 )
+
+ 150 ⊢ 154          4         152              608                           -9          9                36
+ 154 ⊢ 158          9         156            1.404                           -5          5                45
+ 158 ⊢ 162          11        160            1.760                           -1          1                11
+ 162 ⊢ 166          8         164            1.312                           3           3                24
+ 166 ⊢ 170          5         168              840                           7           7                35
+ 170 ⊢ 174          3         172              516                          11          11                33
+  * Pesquisa   ∑ 𝒇𝒊 = 𝟒𝟎              ∑ 𝒙𝒊 × 𝒇𝒊 = 𝟔. 𝟒𝟒𝟎                                         ∑|𝒙𝒊 − 𝒙
+                                                                                                        ̅ | × 𝒇𝒊 = 𝟏𝟖𝟒
+   amostral
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                                18
+        www.estrategiaconcursos.com.br                                                                                   89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Feito isso, podemos calcular a média da distribuição por meio da seguinte fórmula:
+                                                  ∑ 𝑥𝑖 × 𝑓𝑖 6.440
+                                           𝑥̄ =            =      = 161
+                                                    ∑ 𝑓𝑖      40
+
+
+Conhecendo a média, completamos a tabela com as diferenças e os produtos necessários para o
+cálculo do desvio médio. Assim, aplicando a fórmula do desvio médio, temos:
+                                            ∑6𝑖=1|𝑥𝑖 − 𝑥̅| × 𝑓𝑖 184
+                                   𝐷𝑚 =                        =    = 4,6 𝑐𝑚
+                                                   ∑ 𝑓𝑖          40
+
+
+Portanto, o desvio médio para essa distribuição de estaturas é 4,6 𝑐𝑚.
+
+
+
+
+Propriedades do Desvio Médio
+
+As principais propriedades do desvio médio são:
+
+        1ª Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, o
+          desvio médio do conjunto não é alterado.
+
+
+
+        2ª Propriedade
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, o desvio médio do conjunto fica multiplicado (ou dividido) por essa constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                         19
+        www.estrategiaconcursos.com.br                                                            89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                            VARIÂNCIA (𝝈𝟐 )
+Existem outras formas de se eliminar o problema com os números negativos. Além da operação
+de módulo, podemos trabalhar com potências pares. A utilização de potências de expoente par,
+como o número dois, além de transformar números negativos em positivos, simplifica o cálculo.
+
+A variância é determinada pela média dos quadrados dos desvios em relação à média aritmética.
+Por meio dessa medida de dispersão ou variabilidade, podemos avaliar o quanto os dados estão
+dispersos em relação à média aritmética. Nesse sentido, quanto maior a variância, maior a
+dispersão dos dados.
+
+A variância leva em consideração a totalidade dos valores da variável em estudo, e não apenas os
+valores extremos, como faz a amplitude total. Por isso, essa medida de variabilidade é considerada
+muito estável. Além disso, a variância complementa as informações obtidas pelas medidas de
+tendência central.
+
+Até o momento, as medidas que estudamos não sofriam nenhuma alteração quando o cálculo era
+realizado para uma amostra. Contudo, para a variância, devemos levar em consideração essa
+informação, pois há uma pequena diferença entre o cálculo da variância populacional e da
+variância amostral.
+
+                                                                           em que: 𝑥𝑖 é o valor de ordem 𝑖
+ A     variância       populacional         é
+                                                                           assumido pela variável; 𝜇 é a média
+ simbolizada pela letra grega 𝝈      ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝝁)𝟐
+                                  𝟐
+                                 𝝈 =                populacional de 𝑥; 𝜎 2 é a variância
+ (sigma), sendo calculada usando            𝒏
+                                                                           populacional; e 𝑛 é o número de
+ todos os elementos da população:
+                                                                           dados da população.
+
+                                                                           em que: 𝑥𝑖 é o valor de ordem i
+ A variância amostral é simbolizada                                        assumido pela variável; 𝑥̅ é a média
+                                                      ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝒙
+                                                                 ̅)𝟐
+ pela letra 𝒔, sendo calculada a partir          𝒔𝟐 =                      amostral de 𝑥; 𝑠 2 é a variância
+                                                           𝒏−𝟏
+ de uma amostra da população:                                              amostral; e 𝑛 é o número de dados
+                                                                           da amostra.
+
+A variância populacional cumpre o papel de parâmetro populacional, enquanto a variância
+amostral atua como um estimador. A média populacional e a média amostral também possuem
+símbolos diferentes: 𝜇 (parâmetro populacional) e 𝑥̅ (estimador).
+
+Reparem que, quando a variância representa uma descrição da amostra e não da população, caso
+mais frequente em estatística, o denominador das expressões deve ser 𝑛 − 1, em vez de 𝑛. Isso
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   20
+        www.estrategiaconcursos.com.br                                                                      89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+ocorre porque a utilização do divisor (𝑛 − 1) resulta em uma melhor estimativa do parâmetro
+populacional.
+
+Além disso, como a soma dos desvios em relação à média aritmética é sempre nula, apenas (𝑛 − 1)
+dos desvios (𝑥𝑖 − 𝑥̅ ) são independentes, vez que (𝑛 − 1) desvios determinam automaticamente o
+valor desconhecido. Para amostras grandes (𝑛 > 30), não há diferença significativa entre os
+resultados proporcionados pela utilização de qualquer dos dois divisores, 𝑛 ou (𝑛 − 1).
+
+Em determinadas situações, a aplicação dessas fórmulas pode requerer um esforço considerável.
+É o caso do que acontece quando a média não é um número natural, situação em que a obtenção
+da soma dos quadrados dos desvios se torna muito trabalhosa. Por isso, é importante
+aprendermos outras fórmulas que podem nos ajudar no cálculo da variância.
+
+ A fórmula da variância populacional pode
+ ser   expressa      como      a    "média      dos                𝝈𝟐 = ̅̅̅   ̅) 𝟐
+                                                                        𝒙𝟐 − (𝒙
+                                                                                            em que ̅̅̅
+                                                                                                   𝒙𝟐 é a média
+ quadrados menos o quadrado da média"
+                                                                                            dos quadrados; e (𝒙
+                                                                                                              ̅)𝟐
+ Para encontrarmos a variância amostral,                                                    é   o   quadrado   da
+ basta substituirmos 𝒏 por (𝒏 − 𝟏). Isso é                                                  média; e 𝒏 é o tamanho
+                                                             𝟐   ̅̅̅𝟐 − (𝒙           𝒏
+                                                            𝒔 = [𝒙       ̅) 𝟐 ] × (     )   da amostra.
+ equivalente a multiplicarmos a variância                                           𝒏−𝟏
+                         𝒏
+ populacional por (𝒏−𝟏).
+
+
+Por fim, a variância é um número em unidade quadrada em relação à variável em questão, o que
+pode ser considerado um inconveniente. Por isso, essa medida tem pouca utilidade prática na
+estatística descritiva. Por exemplo, se os dados estiverem expressos em quilogramas (Kg), a
+variância estará expressa em quilogramas ao quadrado (Kg²).
+
+
+
+
+Símbolo da variância populacional:
+                                                             𝜎2
+
+Símbolo da variância amostral:
+                                                              𝑠2
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                      21
+        www.estrategiaconcursos.com.br                                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+A variância de um conjunto é zero quando todos os elementos são iguais. Se todos os elementos
+são iguais, a média aritmética do conjunto coincide com o valor dos elementos e todos os desvios
+também são iguais a zero. Logo, a variância também é zero.
+
+A variância é sempre maior ou igual a zero.
+
+
+
+
+Variância para dados não-agrupados
+
+Para dados não agrupados, a variância pode ser expressa por meio das seguintes fórmulas:
+
+                                                                                                 (∑𝒏𝒊=𝟏 𝒙𝒊 )𝟐
+  Para populações                                 ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝝁)𝟐                  ∑𝒏𝒊=𝟏 𝒙𝟐𝒊 −
+                                           𝝈𝟐 =                         𝒐𝒖 𝝈𝟐 =                       𝒏
+                                                            𝒏                                   𝒏
+                                                                                            (∑𝒏𝒊=𝟏 𝒙𝒊 )𝟐
+   Para amostras                                ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝒙
+                                                           ̅) 𝟐                   ∑𝒏𝒊=𝟏 𝒙𝟐𝒊 −
+                                             𝟐
+                                            𝒔 =                         𝑜𝑢 𝒔𝟐 =                  𝒏
+                                                    𝒏 − 𝟏                                𝒏 − 𝟏
+        A relação entre a variância amostral (𝒔𝟐 ) e a variância populacional (𝝈𝟐 ) é dada por:
+                                                              𝒏
+                                                  𝒔𝟐 = (          ) × 𝝈𝟐
+                                                            𝒏 − 𝟏
+
+
+
+
+Calcular a variância amostral do conjunto de números mostrado a seguir:
+
+                                                      {1, 2, 3, 5, 9}
+
+Iniciaremos pelo cálculo da média aritmética:
+
+                                               1 + 2 + 3 + 5 + 9 20
+                                        𝑥̅ =                    =   =4
+                                                       5          5
+
+
+        Receita Federal (Analista Tributário) Estatística                                                       22
+        www.estrategiaconcursos.com.br                                                                          89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Agora, vamos montar uma tabela para facilitar o cálculo da variância:
+
+                                                 𝒙𝒊                             ̅) 𝟐
+                                                                          (𝒙𝒊 − 𝒙
+                                                 1                       (1 − 4)2 = 9
+                                                 2                       (2 − 4)2 = 4
+                                                 3                       (3 − 4)2 = 1
+                                                 5                       (5 − 4)2 = 1
+                                                 9                       (9 − 4)2 = 25
+
+                                                                          (𝑥𝑖 − 𝑥̅ )2 = 40
+
+
+Por fim, aplicando a fórmula da variância amostral, temos:  ==219a34==
+
+
+
+
+                                              ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2    40
+                                       𝑠2 =                    =     = 10
+                                                  𝑛 − 1          5−1
+
+
+
+
+Variância para dados agrupados sem intervalos de classes
+
+Quando os valores vierem dispostos em uma tabela de frequências, a variância será calculada por
+meio de uma das seguintes fórmulas:
+
+
+                                                                                           𝒎    𝟐         (∑𝒎
+                                                                                                            𝒊=𝟏 𝑿𝒊 × 𝒇𝒊 )
+                                                                                                                          𝟐
+                                   ∑𝒎          𝟐
+                                    𝒊=𝟏(𝑿𝒊 − 𝝁) × 𝒇𝒊
+                                                             ∑𝒊=𝟏(𝑿𝒊 × 𝒇𝒊 ) −
+                                𝟐
+                                                     𝒐𝒖 𝝈𝟐 =                                                     𝒏
+ Para populações               𝝈 =
+                                           𝒏                                𝒏
+
+
+                                                                                                       (∑𝒎
+                                                                                                         𝒊=𝟏 𝑿𝒊 × 𝒇𝒊 )
+                                                                                                                       𝟐
+                                      ∑𝒎        ̅)𝟐 × 𝒇𝒊
+                                       𝒊=𝟏(𝑿𝒊 − 𝒙
+                                                                                       ∑𝒎    𝟐
+                                                                                        𝒊=𝟏(𝑿𝒊 × 𝒇𝒊 ) −
+                               𝒔𝟐 =                                       𝑜𝑢 𝒔𝟐 =                             𝒏
+   Para amostras                             𝒏 − 𝟏                                                  𝒏 − 𝟏
+
+
+                                                                                  ∑𝒎
+                                                                                   𝒊=𝟏 𝑿𝒊 ×𝒇𝒊
+                                       Em que: 𝒏 = ∑𝒎      ̅=
+                                                    𝒊=𝟏 𝒇𝒊 𝒙                           𝒏
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                                     23
+        www.estrategiaconcursos.com.br                                                                                        89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou a quantidade de filhos por professor,
+obtendo a tabela de frequências apresentada a seguir. Sendo assim, calcule a variância amostral
+dessa tabela.
+
+                                        Nº de filhos
+                                            por             𝒇𝒊             𝒙𝒊 × 𝒇𝒊
+                                         professor
+                                             0               4         0×4=0
+                                             1               8         1×8=8
+                                             2               4         2×4=8
+                                             3               2         3×2=6
+                                             4               2         4×2=8
+                                         * Pesquisa         𝑓𝑖 = 20    𝑥𝑖 × 𝑓𝑖 = 30
+                                        populacional
+
+
+
+Iniciaremos pelo cálculo da média aritmética:
+                                        ∑ 𝑥𝑖 × 𝑓𝑖 30
+                                 𝑥̅ =            =    = 1,50 𝑓𝑖𝑙ℎ𝑜𝑠 / 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑜𝑟
+                                          ∑ 𝑓𝑖     20
+
+
+Em seguida, adicionaremos uma nova coluna à tabela anterior, em que calcularemos os produtos
+dos quadrados dos desvios por suas respectivas frequências:
+
+                       Nº de filhos
+                           por                𝒇𝒊             𝒙𝒊 × 𝒇𝒊                  ̅)𝟐 × 𝒇𝒊
+                                                                                (𝒙𝒊 − 𝒙
+                        professor
+                             0                   4               0            (0 − 1,5)2 × 4 = 9
+                             1                   8               8            (1 − 1,5)2 × 8 = 2
+                             2                   4               8            (2 − 1,5)2 × 4 = 1
+                             3                   2               6           (3 − 1,5)2 × 2 = 4,5
+                             4                   2               8          (4 − 1,5)2 × 2 = 12,5
+                       * Pesquisa            𝑓𝑖 = 20        𝑥𝑖 × 𝑓𝑖 = 30       (𝑥𝑖 − 𝑥̅ )2 × 𝑓𝑖 = 29
+                      populacional
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                              24
+        www.estrategiaconcursos.com.br                                                                 89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Por fim, aplicando a fórmula do desvio padrão amostral, temos:
+
+                                        2
+                                           ∑(𝑥𝑖 − 𝑥̅ )2 × 𝑓𝑖 29
+                                       𝑠 =                  =    = 1,52
+                                                𝑛−1           19
+
+
+
+
+Variância para dados agrupados em classes
+
+Para dados contínuos agrupados em classes, a variância é calculada por meio das seguintes
+expressões:
+
+
+                                                                                                        𝟐
+                                                                       𝒌     𝟐        (∑𝒌𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 )
+      Para                       ∑𝒌𝒊=𝟏(𝑷𝑴𝒊 − 𝝁)𝟐 × 𝒇𝒊                 ∑𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 −
+                          𝝈𝟐 =                        𝒐𝒖 𝝈𝟐 =                                 𝒏
+   populações                             𝒏                                            𝒏
+
+
+                                                                                                        𝟐
+                                                                       𝒌     𝟐        (∑𝒌𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 )
+                                 ∑𝒌𝒊=𝟏(𝑷𝑴𝒊 − 𝒙
+                                             ̅)𝟐 × 𝒇𝒊                 ∑𝒊=𝟏 𝑷𝑴𝒊 × 𝒇𝒊 −
+                          𝒔𝟐 =                              𝒐𝒖 𝒔𝟐 =                           𝒏
+  Para amostras
+                                            𝒏 − 𝟏                                  𝒏 − 𝟏
+
+
+                                                                  ∑𝒌𝒊=𝟏 𝑷𝑴𝒊 ×𝒇𝒊
+                                     Em que: 𝒏 = ∑𝒌𝒊=𝟏 𝒇𝒊 𝒙
+                                                          ̅=
+                                                                       𝒏
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou as estaturas de 40 alunos, obtendo a
+distribuição de frequências apresentada a seguir. Vamos calcular a variância amostral dessa
+distribuição.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   25
+        www.estrategiaconcursos.com.br                                                                      89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                                               Frequência
+                                                  Estaturas
+                                                                  (𝒇𝒊 )
+
+                                                  150 ⊢ 154        4
+                                                  154 ⊢ 158        9
+                                                  158 ⊢ 162       11
+                                                  162 ⊢ 166        8
+                                                  166 ⊢ 170        5
+                                                  170 ⊢ 174        3
+                                                  * Pesquisa      𝒇𝒊 = 𝟒𝟎
+                                                   amostral
+
+
+Inicialmente, construiremos uma tabela como a mostrada a seguir:
+                Frequência
+  Estaturas                    𝒙𝒊            𝒙𝒊 × 𝒇𝒊            (𝒙𝒊 − ̅
+                                                                      𝒙)          𝒙)𝟐
+                                                                            (𝒙𝒊 − ̅             𝒙)𝟐 × 𝒇𝒊
+                                                                                          (𝒙𝒊 − ̅
+                   (𝒇𝒊 )
+
+ 150 ⊢ 154            4        152            608                  -9          81              324
+ 154 ⊢ 158            9        156           1.404                 -5          25              225
+ 158 ⊢ 162           11        160           1.760                 -1          1                11
+ 162 ⊢ 166            8        164           1.312                 3           9                72
+ 166 ⊢ 170            5        168            840                  7           49              245
+ 170 ⊢ 174            3        172            516                  11         121              363
+  * Pesquisa         𝒇𝒊 = 𝟒𝟎              𝒙𝒊 × 𝒇𝒊 = 𝟔. 𝟒𝟒𝟎                                    ̅)𝟐 × 𝒇𝒊 = 𝟏. 𝟐𝟒𝟎
+                                                                                        (𝒙𝒊 − 𝒙
+ populacional
+
+
+Feito isso, podemos calcular a média da distribuição por meio da seguinte fórmula:
+
+                                                  ∑ 𝑥𝑖 × 𝑓𝑖 6.440
+                                           𝑥̄ =            =      = 161
+                                                    ∑ 𝑓𝑖      40
+
+Conhecendo a média, completamos a tabela com as diferenças e os produtos necessários para o
+cálculo da variância. Agora, aplicando a fórmula da variância amostral, temos:
+
+                 2
+                    ∑𝑘𝑖=1(𝑥𝑖 − 𝑥̅ )2 × 𝑓𝑖 ∑6𝑖=1(𝑥𝑖 − 161)2 × 𝑓𝑖 1.240
+                𝑠 =                      =                     =      = 31,79 𝑐𝑚2
+                          𝑛 − 1                  40 − 1           39
+
+A variância amostral das estaturas é 31, 79 𝑐𝑚2 .
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                     26
+        www.estrategiaconcursos.com.br                                                                        89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Propriedades do Variância
+
+As principais propriedades da variância são:
+
+        1ª Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+          variância do conjunto não é alterada.
+
+
+
+        2ª Propriedade
+
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, a variância do conjunto fica multiplicada (ou dividida) pelo QUADRADO dessa
+          constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                         27
+        www.estrategiaconcursos.com.br                                                            89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                       DESVIO-PADRÃO (𝝈)
+O desvio padrão (𝒔 ou 𝝈) é definido como sendo a raiz quadrada da média aritmética dos
+quadrados dos desvios e, dessa forma, é determinado pela raiz quadrada da variância. É uma das
+medidas de variabilidade mais utilizadas porque é capaz de apontar de forma mais precisa a
+dispersão dos valores em relação à média aritmética.
+
+Valores muito próximos da média resultarão em um desvio-padrão pequeno, enquanto valores
+mais espalhados levarão a desvios maiores. Essa medida será sempre maior ou igual a zero. Ela
+será igual a zero quando todos os elementos do conjunto forem iguais.
+
+O desvio padrão é utilizado para comparar a variabilidade de dois conjuntos de dados diferentes
+quando as médias forem aproximadamente iguais e quando as unidades de medidas para os dois
+conjuntos forem idênticas.
+
+        Fórmula do desvio-padrão populacional                   Fórmula do desvio-padrão amostral
+
+
+                             ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝝁)𝟐                                      ∑𝒏𝒊=𝟏(𝒙𝒊 − 𝒙
+                                                                                            ̅) 𝟐
+                     𝝈=√                                                   𝒔=√
+                                    𝒏                                                 𝒏−𝟏
+
+A utilização do divisor (𝑛 − 1) resulta em uma melhor estimativa do parâmetro populacional. Como
+a soma dos desvios em relação à média aritmética é sempre nula, apenas (𝑛 − 1) dos desvios
+(𝑥𝑖 − 𝑥̅ ) são independentes, uma vez que esses (𝑛 − 1) desvios determinam automaticamente o
+valor desconhecido.
+
+Por fim, o desvio-padrão é expresso nas mesmas unidades dos dados originais. Tanto o desvio
+padrão como a variância são usados como medidas de dispersão ou variabilidade. O uso de uma
+medida ou de outra dependerá da finalidade que se tiver em mente.
+
+
+
+
+Símbolo do desvio-padrão populacional:
+                                                            𝜎
+
+Símbolo do desvio-padrão amostral:
+                                                            𝑠
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                           28
+        www.estrategiaconcursos.com.br                                                              89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+O desvio-padrão será igual a zero quando todos os elementos forem iguais. Se todos os elementos
+forem iguais, a média aritmética do conjunto será igual ao valor dos elementos e todos os desvios
+também serão iguais a zero. Logo, o desvio-padrão também será zero.
+O desvio-padrão é sempre maior ou igual a zero.
+
+
+
+
+Desvio-padrão para dados não agrupados
+
+Para dados não agrupados, o desvio-padrão pode ser expresso por meio das seguintes fórmulas:
+
+
+   Para populações                                            ∑𝒏𝒊=𝟏 𝒅𝟐𝒊    ∑𝒏 (𝒙𝒊 − 𝝁)𝟐
+                                                       𝝈=√              = √ 𝒊=𝟏
+                                                                  𝒏             𝒏
+
+
+                                                              ∑𝑛𝑖=1 𝑑𝑖2    ∑𝑛 (𝑥𝑖 − 𝑥̅ )2
+    Para amostras                                       𝑠=√             = √ 𝑖=1
+                                                               𝑛−1             𝑛−1
+
+
+
+
+Vamos calcular o desvio-padrão amostral do conjunto de números mostrado a seguir:
+                                                     {1, 2, 3, 5, 9}
+Iniciaremos pelo cálculo da média aritmética:
+                                               1 + 2 + 3 + 5 + 9 20
+                                        𝑥̅ =                    =   =4
+                                                       5          5
+Em seguida, montaremos uma tabela para facilitar o cálculo do desvio padrão:
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                     29
+        www.estrategiaconcursos.com.br                                                        89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                               𝒙𝒊                                ̅) 𝟐
+                                                                          ( 𝒙𝒊 − 𝒙
+                                               1                         (1 − 4)2 = 9
+                                               2                         (2 − 4)2 = 4
+                                               3                         (3 − 4)2 = 1
+                                               5                         (5 − 4)2 = 1
+                                               9                         (9 − 4)2 = 25
+
+                                                                          (𝑥𝑖 − 𝑥̅ )2 = 40
+
+Por fim, aplicando a fórmula do desvio padrão temos:        ==219a34==
+
+
+
+
+                                                     40
+                                            𝑠=√         = √10 ≅ 3,16
+                                                    5−1
+
+
+
+
+Desvio-padrão para dados agrupados sem intervalo de Classe
+
+Quando os valores vierem dispostos em uma tabela de frequências, o desvio-padrão será
+calculado por meio de uma das seguintes fórmulas:
+
+
+   Para populações                                     ∑𝒎    𝟐
+                                                        𝒊=𝟏(𝒅𝒊 × 𝒇𝒊 )     ∑𝒎           𝟐
+                                                                           𝒊=𝟏[(𝑿𝒊 − 𝝁) × 𝒇𝒊 ]
+                                               𝝈=√                    = √
+                                                            𝒏                      𝒏
+
+
+                                                        ∑𝑚    2
+                                                         𝑖=1(𝑑𝑖 × 𝑓𝑖 )    ∑𝑚 [(𝑋𝑖 − 𝑥̅ )2 × 𝑓𝑖 ]
+    Para amostras                               𝑠=√                    = √ 𝑖=1
+                                                           𝑛−1                  𝑛−1
+
+                                                                                 ∑𝒎
+                                                                                  𝒊=𝟏 𝑿𝒊 ×𝒇𝒊
+                                         Em que 𝒏 = ∑𝒎        ̅=
+                                                     𝒊=𝟏 𝒇𝒊 e 𝒙                                .
+                                                                                        𝒏
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou a quantidade de filhos de seus professores,
+obtendo a tabela de frequências apresentada a seguir. Vamos calcular o desvio-padrão amostral
+dessa distribuição.
+
+
+        Receita Federal (Analista Tributário) Estatística                                          30
+        www.estrategiaconcursos.com.br                                                             89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                        Nº de filhos
+                                            por             𝒇𝒊             𝒙𝒊 × 𝒇𝒊
+                                         professor
+                                             0               4         0×4=0
+                                             1               8         1×8=8
+                                             2               4         2×4=8
+                                             3               2         3×2=6
+                                             4               2         4×2=8
+                                         * Pesquisa         𝑓𝑖 = 20    𝑥𝑖 × 𝑓𝑖 = 30
+                                        populacional
+
+Iniciaremos pelo cálculo da média aritmética:
+                                        ∑ 𝑋𝑖 × 𝑓𝑖 30
+                                 𝑥̅ =            =    = 1,50 𝑓𝑖𝑙ℎ𝑜𝑠 / 𝑝𝑟𝑜𝑓𝑒𝑠𝑠𝑜𝑟
+                                          ∑ 𝑓𝑖     20
+Em seguida, adicionaremos uma nova coluna à tabela anterior, em que calcularemos os produtos
+dos quadrados dos desvios por suas respectivas frequências:
+
+                       Nº de filhos
+                           por               𝒇𝒊              𝒙𝒊 × 𝒇𝒊                   ̅)𝟐 × 𝒇𝒊
+                                                                                 (𝒙𝒊 − 𝒙
+                        professor
+                             0                4                  0            (0 − 1,5)2 × 4 = 9
+                             1                8                  8            (1 − 1,5)2 × 8 = 2
+                             2                4                  8            (2 − 1,5)2 × 4 = 1
+                             3                2                  6            (3 − 1,5)2 × 2 = 4,5
+                             4                2                  8           (4 − 1,5)2 × 2 = 12,5
+                       * Pesquisa           𝑓𝑖 = 20         𝑥𝑖 × 𝑓𝑖 = 30        (𝑥𝑖 − 𝑥̅ )2 × 𝑓𝑖 = 29
+                      populacional
+
+
+
+Por fim, aplicando a fórmula do desvio padrão amostral, temos:
+                                                                2
+                                                       ∑(𝑥𝑖 − 𝑥
+                                                              ̅) × 𝑓𝑖
+                                                  𝑠= √
+                                                            𝑛−1
+
+                                                       29
+                                                 𝑠=√      = √1,52 ≅ 1,23
+                                                       19
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                               31
+        www.estrategiaconcursos.com.br                                                                  89
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Desvio-padrão para dados agrupados em classes
+
+Quando tivermos que calcular o desvio-padrão para dados agrupados em classes, usaremos as
+mesmas fórmulas para dados sem intervalos de classes, utilizando para 𝑥𝑖 os pontos médios de
+cada classe, mas adotando os mesmos procedimentos.
+
+
+
+  Para populações                                     ∑𝒎    𝟐
+                                                       𝒊=𝟏(𝒅𝒊 × 𝒇𝒊 )    ∑𝒎 [(𝑷𝑴𝒊 − 𝝁)𝟐 × 𝒇𝒊 ]
+                                              𝝈=√                    = √ 𝒊=𝟏
+                                                           𝒏                    𝒏
+
+
+                                                      ∑𝑚    2
+                                                       𝑖=1(𝑑𝑖 × 𝑓𝑖 )     ∑𝑚              2
+                                                                          𝑖=1[(𝑃𝑀𝑖 − 𝑥̅ ) × 𝑓𝑖 ]
+   Para amostras                               𝑠=√                   = √
+                                                         𝑛−1                    𝑛−1
+
+
+
+
+Durante uma pesquisa, o Estratégia Concursos registrou as estaturas de 40 alunos, obtendo a
+distribuição de frequências apresentada a seguir. Vamos calcular o desvio-padrão amostral dessa
+distribuição.
+
+                                                              Frequência
+                                                 Estaturas
+                                                                 (𝒇𝒊 )
+
+                                                150 ⊢ 154         4
+                                                154 ⊢ 158         9
+                                                158 ⊢ 162        11
+                                                162 ⊢ 166         8
+                                                166 ⊢ 170         5
+                                                170 ⊢ 174         3
+                                                 * Pesquisa      𝒇𝒊 = 𝟒𝟎
+                                                  amostral
+
+
+Inicialmente, construiremos uma tabela como a mostrada a seguir:
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                          32
+        www.estrategiaconcursos.com.br                                                             89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                      Frequência
+        Estaturas                  𝒙𝒊             𝒙𝒊 × 𝒇𝒊        (𝒙𝒊 − ̅
+                                                                       𝒙)           𝒙)𝟐
+                                                                              (𝒙𝒊 − ̅             𝒙)𝟐 × 𝒇𝒊
+                                                                                            (𝒙𝒊 − ̅
+                         (𝒇𝒊 )
+
+       150 ⊢ 154          4        152             608             -9            81              324
+       154 ⊢ 158          9        156            1.404            -5            25              225
+       158 ⊢ 162         11        160            1.760            -1            1                11
+       162 ⊢ 166          8        164            1.312             3            9                72
+       166 ⊢ 170          5        168             840              7            49              245
+       170 ⊢ 174          3        172             516             11           121              363
+        * Pesquisa       𝒇𝒊 = 𝟒𝟎              𝒙𝒊 × 𝒇𝒊 = 𝟔. 𝟒𝟒𝟎                                  ̅)𝟐 × 𝒇𝒊 = 𝟏. 𝟐𝟒𝟎
+                                                                                          (𝒙𝒊 − 𝒙
+       populacional
+
+
+Feito isso, podemos calcular a média da distribuição por meio da seguinte fórmula:
+                                                  ∑ 𝑃𝑀𝑖 × 𝑓𝑖 6.440
+                                           𝑥̄ =             =      = 161
+                                                     ∑ 𝑓𝑖     40
+Conhecendo a média, completamos a tabela com as diferenças e os produtos necessários para o
+cálculo do desvio padrão. Agora, aplicando a fórmula do desvio padrão amostral, temos:
+
+            ∑𝑘𝑖=1(𝑃𝑀𝑖 − 𝑥̅ )2 × 𝑓𝑖     ∑6𝑖=1(𝑃𝑀𝑖 − 161)2 × 𝑓𝑖    1.240
+    𝑠=√                            = √                        =√       = √31,79 ≅ 5,64 𝑐𝑚
+                   𝑛−1                         40 − 1              39
+
+O desvio-padrão das estaturas é 5,64 𝑐𝑚. Vimos anteriormente que o desvio médio, para essa
+mesma distribuição, foi de 4,63 𝑐𝑚.
+
+
+
+
+Propriedades do Desvio-padrão
+
+As principais propriedades do desvio-padrão são:
+
+        1ª Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, o
+          desvio-padrão do conjunto não é alterado.
+
+
+
+        2ª Propriedade
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, o desvio-padrão do conjunto fica multiplicado (ou dividido) por essa constante.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                           33
+        www.estrategiaconcursos.com.br                                                                              89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+   COEFICIENTE DE VARIAÇÃO (OU DISPERSÃO RELATIVA)
+Quando os conjuntos de dados estão expressos em unidades diferentes (p.ex., quilogramas e
+centímetros), podemos caracterizar a dispersão ou variabilidade dos dados de maneira relativa ao
+seu valor médio. Nesse sentido, o coeficiente de variação é uma medida de dispersão relativa que
+fornece a variação dos dados em relação à média, podendo ser calculado como:
+
+                                                                                𝝈
+                       Para populações                                   𝑪𝑽 =     × 𝟏𝟎𝟎 (%)
+                                                                                𝝁
+
+                                                                                𝒔
+                        Para amostras                                    𝑪𝑽 =     × 𝟏𝟎𝟎 (%)
+                                                                                ̅
+                                                                                𝒙
+                                                            ==219a34==
+
+
+
+
+                     em que: 𝝈 é o desvio-padrão populacional; 𝝁 é a média
+                     populacional; 𝒔 é o desvio-padrão amostral; e 𝒙
+                                                                   ̅ é a média
+                     amostral.
+
+O coeficiente de variação pode ser interpretado por meio de algumas regras empíricas para a
+distribuição:
+
+
+                       Baixa dispersão                                       𝑪𝑽 < 𝟏𝟓%
+
+                       Média dispersão                                   15% < 𝐶𝑉 < 30%; 𝑒
+
+                      Elevada dispersão                                      𝐶𝑉 > 30%
+
+
+Além disso, quanto menor for o valor do coeficiente de variação, mais homogêneos serão os
+dados, ou seja, menor será a dispersão em torno da média. Por isso, podemos classificar as
+distribuições em homogêneas ou heterogêneas, da seguinte forma:
+
+
+                   Homogênea              dispersão baixa ou média                        𝐶𝑉 < 30%
+
+                  Heterogênea                  dispersão elevada                          𝐶𝑉 > 30%
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                            34
+        www.estrategiaconcursos.com.br                                                               89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Em uma empresa de tecnologia, o salário médio dos homens é de R$ 1800,00 com desvio-padrão de
+R$ 810,00 e o salário médio das mulheres é de R$ 1500,00 com desvio padrão de R$ 705,00. A
+dispersão relativa dos salários dos homens é maior que a das mulheres?
+
+
+Calculando os coeficientes de variação, temos:
+
+
+a) para os homens:
+                                             𝜎𝐻         810
+                                     𝐶𝑉 =       × 100 =      = 45,0%
+                                             𝜇𝐻         1800
+b) para as mulheres:
+                                             𝜎𝑀         705
+                                    𝐶𝑉 =        × 100 =      = 47,0%
+                                             𝜇𝑀         1500
+
+
+Portanto, os salários das mulheres apresentam uma dispersão relativa maior que os salários dos
+homens. Além disso, as duas distribuições possuem uma alta dispersão (𝐶𝑉 > 30%).
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                  35
+        www.estrategiaconcursos.com.br                                                     89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                      VARIÂNCIA RELATIVA
+A variância relativa é uma medida de dispersão relativa que resulta do quociente entre a variância
+absoluta e o quadrado da média. É basicamente o quadrado do coeficiente de variação. Isto é:
+
+
+                                                                     𝝈 𝟐 𝝈𝟐
+                       Para populações                         𝑽𝑹 = ( ) = 𝟐
+                                                                     𝝁   𝝁
+
+                                                                     𝒔 𝟐 𝒔𝟐
+                        Para amostras                          𝑽𝑹 = ( ) = 𝟐
+                                                                     ̅
+                                                                     𝒙   ̅
+                                                                         𝒙
+
+A variância relativa, assim como o coeficiente de variação, é uma medida adimensional, ou seja,
+não tem uma unidade de medida. Repare que tanto o numerador (variância) quanto o
+denominador (quadrado da média) são expressos na mesma unidade de medida, de modo a se
+cancelarem no momento da divisão.
+
+
+
+
+Em uma empresa de tecnologia, o salário médio dos homens é de R$ 1800,00 com desvio-padrão de
+R$ 810,00 e o salário médio das mulheres é de R$ 1500,00 com desvio padrão de R$ 705,00. A
+variância relativa dos salários dos homens é maior que a das mulheres?
+
+Calculando a variância relativa, temos:
+
+a) para os homens:
+                                                        2           2
+                                               𝜎𝐻      810
+                                        𝑉𝑅 = (    ) =(      ) ≅ 0,20
+                                               𝜇𝐻      1800
+
+b) para as mulheres:
+                                                       2             2
+                                              𝜎𝑀                705
+                                       𝑉𝑅 = (    )          = (     ) ≅ 0,22
+                                              𝜇𝑀               1500
+
+Portanto, os salários das mulheres apresentam uma variância relativa maior que os salários dos
+homens.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                      36
+        www.estrategiaconcursos.com.br                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                           QUESTÕES COMENTADAS – FGV
+
+Amplitude Total
+
+1. (FGV/Pref. SJC/2024) Segundo dados do IBGE, o IPCA mensal registrou os seguintes valores entre janeiro
+e julho de 2023 (em %):
+
+                                             Jan/2023                   0,53
+
+                                             Fev/2023                   0,84
+
+                                            Mar/2023                    0,71
+
+                                            Abr/2023                    0,61
+
+                                            Mai/2023                    0,23
+
+                                             Jun/2023                   -0,08
+
+                                             Jul/2023                   0,12
+
+Considerando esse período, a mediana e a amplitude (em %) foram iguais, respectivamente, a
+a) 0,42 e 0,76.
+b) 0,53 e 0,76.
+c) 0,53 e 0,92.
+d) 0,53 e 0,485.
+e) 0,57 e 0,84.
+
+
+Comentários:
+A mediana é o termo central da amostra, ou seja, em um conjunto de dados ordenados a mediana
+corresponde à 50% da amostra. Ordenando os dados da tabela, temos:
+                                   −0,08, 0,12, 0,23,        0,53
+                                                             ⏟         , 0,61, 0,71, 0,84
+                                                        𝑡𝑒𝑟𝑚𝑜 𝑐𝑒𝑡𝑟𝑎𝑙
+
+A amplitude total é a diferença entre o maior e o menor elemento de um conjunto:
+                                                    𝐴 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛
+                                                  𝐴 = 0,84 − (−0,08)
+                                                         𝐴 = 0,92
+Gabarito: C.
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                            37
+         www.estrategiaconcursos.com.br                                                               89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+2. (FGV/DPE-RJ/2014) Dentre as informações coletadas dos cidadãos através do 1º atendimento da
+Defensoria Pública estão as variáveis idade, renda e o número de dependentes. Cada uma é classificada
+em três diferentes níveis A, B e C, com valores de referência conforme a tabela:
+
+            Variáveis                    A                                B    C          D
+
+   Renda Média (R$ 100)                  9                                11   11         17
+
+    Idade Média (anos)                  20                                32   36         48
+
+  Dependentes (pessoas)                  2                                3    3          2
+
+Portanto, as unidades de medida são distintas (R$, anos e pessoas). Mesmo assim, através de uma
+estatística de amplitude, escolhida convenientemente, aqui representada por VB, é possível comparar as
+                                                             ==219a34==
+
+
+
+
+dispersões. Logo, renda, idade e número de dependentes seguem a ordenação
+a) VB (renda) < VB (idade) < VB (dependentes).
+b) VB (renda) < VB (dependentes) < VB (idade).
+c) VB (idade) < VB (dependentes) < VB (renda).
+d) VB (idade) < VB (renda) < VB (dependentes).
+e) VB (dependentes) < VB (renda) < VB (idade).
+
+
+Comentários:
+A amplitude é a diferença entre o valor máximo e o mínimo. Tomando as informações da tabela, temos:
+   •    amplitude para a renda: 17 − 9 = 8;
+   •    amplitude para a idade: 48 − 20 = 28; e
+   •    amplitude para os dependentes: 3 − 2 = 1.
+Logo:
+                                          𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑡𝑒𝑠 < 𝑟𝑒𝑛𝑑𝑎 < 𝑖𝑑𝑎𝑑𝑒
+Gabarito: E.
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                            38
+         www.estrategiaconcursos.com.br                                                               89
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                           QUESTÕES COMENTADAS – FGV
+
+Amplitude Interquartílica
+
+1. (FGV/TRT-PB/2022) Os diagramas a seguir são Box-Plots de notas de cinco turmas de alunos de um
+mesmo colégio numa prova de matemática:
+
+
+
+
+A turma com notas mais homogêneas nessa prova foi a
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+e) 5.
+
+
+Comentários:
+A partir dos dados fornecidos na questão, as medidas que podemos utilizar para identificar o conjunto mais
+homogêneo são a amplitude e a amplitude interquartílica.
+
+                        Amplitude                                           Amplitude Interquartílica
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                              39
+         www.estrategiaconcursos.com.br                                                                 89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+A amplitude resulta da diferença entre o valor máximo e valor mínimo da distribuição. A amplitude
+interquartílica é determinada pela diferença entre o terceiro quartil e o primeiro quartil. Analisando as
+medidas, verificamos que a turma número 3 é a que apresenta dados mais homogêneos.
+Gabarito: C.                                                ==219a34==
+
+
+
+
+2. (FGV/IBGE/2017) A população de um estudo é dividida em quatro estratos, sendo o menor com 10%
+dos indivíduos e os demais com tamanhos acrescidos de dez pontos percentuais, progressivamente. Os
+estratos se distinguem por classes de renda com amplitude constante, sendo maiores quanto menor a
+renda. Sobre os estratos sabe-se que:
+                             𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟏 = 𝟔𝟓 𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟐 = 𝟒𝟓 𝒆 𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟒 = 𝟓
+Onde os valores acima representam os limites inferiores da renda dos extratos, inclusive.
+Portanto, é correto afirmar que:
+a) Tomando os pontos médios das classes como representativos, a renda média é igual a Md(Rd) = 38;
+b) A mediana da distribuição de renda, Me(Rd), é menor que 45 e maior do que ou igual a 25;
+c) Tomando os pontos médios das classes como representativos, a moda da renda é igual a Mo(Rd) = 35;
+d) O valor máximo atingido pela renda nessa distribuição é igual a Mx(Rd) = 85;
+e) O valor do desvio-interquartílico da distribuição de renda deverá ser superior a 50.
+
+
+Comentários:
+O enunciado informou que a amplitude é igual para todas as classes. Observando os limites inferiores dos
+dois primeiros estratos, 65 e 45, concluímos que a amplitude será igual a 20. Assim, temos:
+
+                                        Estrato        Renda             Frequência
+
+                                           1          65⊢85                 10%
+
+                                           2          45⊢65                 20%
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                              40
+        www.estrategiaconcursos.com.br                                                                 89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                           3          25⊢45           30%
+
+                                           4           5⊢25           40%
+
+Ordenando os estratos de forma crescente, com base nos seus limites inferiores, chegamos à seguinte tabela:
+
+                     Estrato        Renda           Frequência         Frequência acumulada
+
+                         4           5⊢25               40%                 40% (≥ 25%)
+
+                         3          25⊢45               30%                 70% (≥ 50%)
+
+                         2          45⊢65               20%                 90% (≥ 75%)
+
+                         1          65⊢85               10%                    100%
+
+Vamos analisar cada uma das alternativas:
+   •   letra A: tomando os pontos médios de cada classe, calculamos a média:
+                              𝑥̅ = (75 × 0,1 + 55 × 0,2 + 35 × 0,3 + 15 × 0,4) = 35
+       Logo, a alternativa está incorreta;
+   •   letra B: a mediana é o valor que ocupa o termo central da amostra, representando 50% do total. Pela
+       frequência acumulada, percebemos que 50% correspondem ao estrato 3, cuja classe é 25 a 45.
+       Portanto, a alternativa está correta;
+   •   letra C: a moda é o termo que mais se repete na amostra. Assim, quem mais se repete representa
+       40% da frequência relativa. Logo será 15, ponto médio da classe 5 a 25. Alternativa incorreta;
+   •   letra D: a renda máxima é o valor que tende a 85, mas não necessariamente será esse valor exato.
+       Alternativa errada
+   •   letra E: primeiro quartil 𝑄1 pode assumir qualquer valor entre 5 e 25, e o terceiro quartil 𝑄3 pode
+       assumir qualquer valor entre 45 e 65. Se pegarmos os pontos médios de cada classe, o desvio
+       interquartílico fica: 𝑄3 − 𝑄1 = 55 − 15 = 40. Portanto, alternativa incorreta.
+Gabarito: B.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                               41
+        www.estrategiaconcursos.com.br                                                                  89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                          QUESTÕES COMENTADAS – FGV
+
+Desvios em Relação à Média Aritmética e Mediana
+
+1. (FGV/SEFAZ MS/2006) Analise as afirmativas a seguir, a respeito da média aritmética:
+I. A soma dos resíduos em relação à média aritmética é sempre igual a zero.
+II. É em relação à média aritmética que a soma dos valores absolutos dos resíduos é mínima.
+III. É em relação à média aritmética que a soma dos quadrados dos resíduos é mínima.
+Assinale:
+a) se somente a afirmativa II estiver correta.
+b) se somente as afirmativas I e II estiverem corretas.
+c) se somente as afirmativas I e III estiverem corretas.
+d) se somente as afirmativas II e III estiverem corretas.
+e) se todas as afirmativas estiverem corretas.
+
+
+Comentários:
+Vamos analisar cada item:
+Item I - Certo. Desenvolvendo a propriedade da média:
+                                                        𝑛
+
+                                                     ∑(𝑥𝑖 − 𝑥̅ ) =
+                                                       𝑖=1
+                                                   𝑛
+
+                                                  ∑(𝑥𝑖 ) − 𝑛 × 𝑥̅ =
+                                                  𝑖=1
+                 ∑𝑥
+Temos que 𝑥̅ = 𝑛 𝑖 logo:
+                                                    𝑛
+                                                                  (∑ 𝑥𝑖 )
+                                               = ∑(𝑥𝑖 ) − 𝑛 ×
+                                                                    𝑛
+                                                   𝑖=1
+                                                        𝑛
+
+                                                 = ∑(𝑥𝑖 ) − (∑ 𝑥𝑖 )
+                                                    𝑖=1
+
+                                                             =0
+Item II - Errado. Essa propriedade é aplicada à mediana e não à média.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                     42
+        www.estrategiaconcursos.com.br                                                        89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+Item III - Certo. Se calculamos os desvios em relação a um valor "y" qualquer, a soma dos quadrados dos
+desvios fica:
+                                                     𝑛
+
+                                                    ∑(𝑥𝑖 − y)2 =
+                                                    𝑖=1
+
+Minimizando a soma temos:
+                                                                         𝑛
+
+                                            2 × (−1) × ∑(𝑥𝑖 − y) = 0
+                                                                         𝑖=1
+                                                     𝑛
+
+                                                    ∑(𝑥𝑖 − y) = 0
+                                                    𝑖=1
+
+Assim temos que y é tal que a soma dos desvios é nula. Logo:==219a34==
+
+
+
+
+                                                            𝑦 = 𝑥̅
+Gabarito: C.
+
+
+2. (FGV/SEFAZ-MS/2006) Analise as afirmativas a seguir, a respeito da mediana:
+I. A soma dos resíduos em relação à mediana é sempre igual a zero.
+II. É em relação à mediana que a soma dos valores absolutos dos resíduos é mínima.
+III. É em relação à mediana que a soma dos quadrados dos resíduos é mínima.
+Assinale:
+a) se somente a afirmativa II estiver correta.
+b) se somente as afirmativas I e II estiverem corretas.
+c) se somente as afirmativas I e III estiverem corretas.
+d) se somente as afirmativas II e III estiverem corretas.
+e) se todas as afirmativas estiverem corretas.
+
+
+Comentários:
+Vamos analisar cada item:
+Para I - Errado. Essa propriedade é aplicada à média e não à mediana.
+Para II - Certo. Quando calculados em relação à mediana a soma dos módulos dos desvios de fato é mínima.
+Para III - Errado. Essa propriedade é aplicada à média e não à mediana.
+Gabarito: A.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                            43
+        www.estrategiaconcursos.com.br                                                               89
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                QUESTÕES COMENTADAS – FGV
+
+Variância
+
+1. (FGV/BANESTES/2023) Considere o seguinte conjunto de n = 5 observações relativas a determinada
+variável:
+                                                           8, 3, 11, 1, 7.
+Em relação a esses dados, avalie as seguintes afirmativas:
+I. A média é igual a 7.
+II. A mediana é igual a 6.
+III. A variância é igual a 16.
+Está correto apenas o que se afirma em
+a) I.
+b) III.
+c) I e II.
+d) I e III.
+e) II e III.
+
+
+Comentários:
+Calculando a média das observações:
+                                  𝑠𝑜𝑚𝑎 8 + 3 + 11 + 1 + 7 30
+                                       = 𝑥̅ =             =   =6
+                                    𝑛              5        5
+Para encontrarmos a mediana, precisamos ordenar os dados:
+                                                        13         ⏟
+                                                                   7       8 11
+                                                              𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+A variância é determinada pela média dos quadrados dos desvios em relação à média aritmética. A variância
+amostral é dada por:
+                                                              ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                       𝑠2 =
+                                                                  𝑛 − 1
+em que: 𝑥𝑖 é o valor de ordem 𝑖 assumido pela variável; 𝑥̅ é a média amostral de 𝑥; 𝑠 2 é a variância amostral;
+e 𝑛 é o número de observações da amostra.
+Como já sabemos o valor da média, vamos calcular os desvios em relação à média. Para isso, podemos
+reescrever os dados em formato de tabela:
+
+                                                𝒙𝒊                     ̅
+                                                                  𝒙𝒊 − 𝒙                ̅) 𝟐
+                                                                                  (𝒙𝒊 − 𝒙
+
+
+
+              Receita Federal (Analista Tributário) Estatística                                             44
+              www.estrategiaconcursos.com.br                                                                89
+
+                                            https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                          8              8−6=2                4
+
+                                          3             3 − 6 = −3            9
+
+                                          11            11 − 6 = 5            25
+
+                                          1             1 − 6 = −5            25
+
+                                          7              7−6=1                1
+
+                                                   Total                      64
+
+Calculando a variância, temos:
+                                                               64
+                                                     𝑠2 =         = 16
+                                                              5−1
+Gabarito: B.
+
+
+2. (FGV/Câmara dos Deputados/2023) Observe a seguinte amostra de notas de cinco alunos:
+6, 6, 8, 10, 10.
+A variância dessas notas, entendida como a média dos quadrados dos desvios em torno da média, é igual
+a
+a) 2,4.
+b) 2,8.
+c) 3,2.
+d) 3,6.
+e) 4,0.
+
+
+Comentários:
+Para calcular a variância das notas, nosso primeiro passo deve ser calcular a média delas. Temos um total de
+5 notas, logo, a média será a soma de todas as notas dividida por 5. Vejamos:
+                                                 6 + 6 + 8 + 10 + 10 40
+                                          𝑥̅ =                      =   =8
+                                                          5           5
+A variância, por sua vez, é calculada como a média dos quadrados dos desvios em torno da média. Vejamos
+como fazer isso:
+                                                           ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                   𝜎2 =
+                                                                 𝑛
+
+
+          Receita Federal (Analista Tributário) Estatística                                              45
+          www.estrategiaconcursos.com.br                                                                 89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+                                  (6 − 8)2 + (6 − 8)2 + (8 − 8)2 + (10 − 8)2 + (10 − 8)2
+                           𝜎2 =
+                                                             5
+
+                                        2
+                                          (−2)2 + (−2)2 + (0)2 + (2)2 + (2)2
+                                      𝜎 =
+                                                          5
+                                                  4+4+0+4+4
+                                             𝜎2 =
+                                                          5
+                                                      16
+                                                 𝜎2 =    = 3,2
+                                                       5
+Logo, a variância das notas é igual a 3,2.
+Gabarito: C.
+
+
+3. (FGV/SEFAZ-MG/2023) Considere a seguinte amostra aleatória simples:
+2, 5, 5, 6, 6, 7, 7, 10.
+A variância amostral que corresponde à estimativa não tendenciosa da variância populacional é
+aproximadamente igual a
+a) 4,5.
+b) 5,1.
+c) 5,5.
+d) 5,8.
+e) 6,2.
+
+
+Comentários:
+Calculando a média da amostra, temos:
+                                            2 + 5 + 5 + 6 + 6 + 7 + 7 + 10 48
+                                    𝑥̅ =                                  =   =6
+                                                          8                 8
+Após calculada a média, podemos aplicar a fórmula da variância:
+
+       2
+         (2 − 6)2 + (5 − 6)2 + (5 − 6)2 + (6 − 6)2 + (6 − 6)2 + (7 − 6)2 + (7 − 6)2 + (10 − 6)2
+     𝑠 =
+                                                 8−1
+
+                           2
+                            (−4)2 + (−1)2 + (−1)2 + (0)2 + (0)2 + (1)2 + (1)2 + (4)2
+                        𝑠 =
+                                                       7
+                                        16 + 1 + 1 + 0 + 0 + 1 + 1 + 16
+                                   𝑠2 =
+                                                       7
+                                                   36
+                                             𝑠2 =     ≅ 5,14
+                                                    7
+Logo, a variância amostral é aproximadamente igual a 5,1.
+
+
+           Receita Federal (Analista Tributário) Estatística                                      46
+           www.estrategiaconcursos.com.br                                                         89
+
+                                           https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+Gabarito: B.
+
+
+4. (FGV/TCE ES/2023) O quadro seguinte apresenta, parcialmente, os valores de uma série ordenada de 80
+observações.
+
+                                1     3,7    3,7     3,7    4,7      5,7   5,7   5,7   5,7   5,7
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                               6,2    6,5    6,5     6,5    6,5      6,5   6,5   6,5   6,5   6,5
+
+                               6,5    6,5     7       7        7     ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                               7,3    7,3    7,3     7,3    7,3      7,3   8,3   9,3   10    10
+
+O 1º e o 3º quartis são, respectivamente, 5,8 e 7,3. A soma dos quadrados das informações é 3.512.
+Após a retirada dos valores atípicos pelo critério dos quartis, a nova série passou a ser simétrica.
+O valor da variância dessa nova série é:
+a) 0,50;
+b) 0,75;
+c) 1,0;
+d) 1,25;
+e) 1,50.
+
+
+Comentários:
+Iniciaremos calculando a distância interquartílica da amostra, que é dada por:
+                                                          𝐷𝐼𝑄 = 𝑄3 − 𝑄1
+A questão já nos deu os valores de 𝑄1 e de 𝑄3 , que correspondem ao primeiro e terceiro quartil,
+respectivamente, então:
+                                                    𝐷𝐼𝑄 = 7,3 − 5,8 = 1,5
+Agora que já sabemos a distância interquartílica, podemos calcular os limites inferior e superior para
+detecção de outliers. Da seguinte forma:
+                                                    𝑙𝑖𝑛𝑓 = 𝑄1 − 1,5 × 𝐷𝐼𝑄
+                                                    𝑙𝑖𝑛𝑓 = 5,8 − 1,5 × 1,5
+
+
+           Receita Federal (Analista Tributário) Estatística                                           47
+           www.estrategiaconcursos.com.br                                                              89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+                                                      𝑙𝑖𝑛𝑓 = 3,55
+
+
+                                                 𝑙𝑠𝑢𝑝 = 𝑄3 + 1,5 × 𝐷𝐼𝑄
+                                                 𝑙𝑠𝑢𝑝 = 7,3 + 1,5 × 1,5
+                                                      𝑙𝑠𝑢𝑝 = 9,55
+Tudo o que for menor que 3,55 e maior que 9,55 é considerado outlier. Dessa forma, vamos remover o
+primeiro e os dois últimos termos da amostra, ou seja, os números 1, 10 e 10. Nossa nova amostra passará
+a ter apenas 77 elementos.
+Observe que a questão já nos deu o valor da soma dos quadrados para a amostra 80 termos:
+                                                     80
+
+                                                    ∑ 𝑥𝑖2 = 3.512
+                                                    𝑖=1
+
+Sendo assim, podemos calcular a soma dos quadrados para a amostra com 77 termos, bastando subtrairmos
+os termos removidos:
+                                                 12 + 102 + 102 = 201
+                                           77
+
+                                          ∑ 𝑥𝑖2 = 3.512 − 201 = 3.311
+                                           𝑖=1
+
+O enunciado nos disse que, após a retirada dos outliers, a nova série passou a ser simétrica, isso quer dizer
+que a média passou a ser igual à mediana. Então, vamos primeiro encontrar a mediana para sabermos quem
+é a média. Ora, se temos uma amostra com 77 termos, a mediana será dada por:
+                                                77 + 1
+                                                       = 39
+                                                  2
+Assim, o termo que ocupa a posição 39 será a nossa mediana. Observando a tabela o valor da mediana é
+igual a 6,5. Logo, a média também é igual a 6,5.
+                                                          𝑀𝑑 = 6,5
+                                                          𝑥̅ = 6,5
+Agora sim, podemos calcular a variância:
+                                                          ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                  𝜎2 =
+                                                                𝑛
+Desenvolvendo o somatório, teremos:
+                                                        ∑𝑛𝑖=1 𝑥𝑖2
+                                                  𝜎2 =            − 𝑥̅ 2
+                                                            𝑛
+                                                        3311
+                                                   𝜎2 =        − 6,52
+                                                          77
+                                                   𝜎 2 = 43 − 42,25
+                                                       𝜎 2 = 0,75
+Gabarito: B.
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 48
+        www.estrategiaconcursos.com.br                                                                    89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+5. (FGV/CGU/2022) O ativo A está gerando grande atração de matemáticos, que conseguiram convencer a
+bolsa de valores a registrar preços baseados em quantidades pouco usuais, como √𝟐 e 𝝅. Durante cinco
+dias foram observados os seguintes preços de dois ativos, A e B, respectivamente:
+                            𝝅     𝟏 𝟏
+                     (√𝟐;     ; 𝟏; ; ) 𝒆 (𝟏𝟎𝟎, 𝟑𝟎; 𝟒𝟎𝟎, 𝟏𝟖; 𝟐𝟎𝟕, 𝟎𝟏; 𝟓𝟎𝟖, 𝟎𝟎; 𝟗𝟏𝟐, 𝟏𝟏)
+                            𝟐     𝟑 𝟔
+Considerando esses valores, sobre a média e a variância dos retornos durante esses cinco dias, é correto
+afirmar que:
+a) os retornos do ativo A têm maior média e maior variância;
+b) os retornos do ativo A têm maior média e menor variância;
+c) os retornos do ativo A têm menor média e maior variância;
+d) os retornos do ativo A têm menor média e menor variância;
+e) a média e a variância dos retornos dos dois ativos são iguais.
+
+
+Comentários:
+Vamos analisar a média dos dois conjuntos. No conjunto A, temos:
+                                       𝜋    1 1
+                                   (√2; ; 1; ; ) ≅ (1,4; 1,6; 1; 0,33; 0,16)
+                                       2    3 6
+A média desse conjunto é próxima de 0,9, pois, somando todos os elementos, obtemos um valor em torno
+de 4,5. Dessa forma, variância do conjunto é mínima, pois os desvios em relação à média (variabilidade do
+conjunto) são pequenos.
+Agora, vamos analisar o conjunto B:
+                                    (100,30; 400,18; 207,01; 508,00; 912,11)
+Agora, a soma dos elementos está próxima de 2125, portanto, a média resulta em um valor em torno de
+425. Analisando a variabilidade do conjunto, percebemos que os dados estão bem dispersos entre si, assim
+a variância do conjunto B será consideravelmente maior que a do conjunto A.
+Então, comparando os dois conjuntos, temos que:
+   •   a média de A é menor que a média de B.
+   •   a variância de A é menor que a variância de B.
+Gabarito: D.
+
+
+6. (FGV/TRT-MA/2022) Uma variável aleatória discreta X tem função de probabilidade dada por:
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                             49
+        www.estrategiaconcursos.com.br                                                                89
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                          Valores de X          0   2     6     8
+
+                                          Probabilidades 0,2 0,3 0,3 0,2
+
+A variância de X é igual a
+a) 7,2.
+b) 7,6.
+c) 8,0.
+d) 8,4.
+e) 8,8.
+
+
+Comentários:
+Antes de determinarmos a variância, precisamos calcular a média da amostra. Para isso, vamos multiplicar
+todos os valores de X por suas respectivas probabilidades. Assim, teremos:
+                                        (0 × 0,2) + (2 × 0,3) + (6 × 0,3) + (8 × 0,2)
+                                 𝑋̅ =
+                                                    0,2 + 0,3 + 0,3 + 0,2
+                                                                4
+                                                         𝑋̅ =     =4
+                                                                1
+Sabendo o valor da média, agora podemos calcular a variância. Para isso, vamos aplicar a fórmula:
+                                                        ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2 × 𝑓𝑖
+                                                 𝜎2 =
+                                                              ∑𝑛𝑖=1 𝑓𝑖
+                          (0 − 4)2 × 0,2 + (2 − 4)2 × 0,3 + (6 − 4)2 × 0,3 + (8 − 4)2 × 0,2
+                   𝜎2 =
+                                                          1
+                                             3,2 + 1,2 + 1,2 + 3,2
+                                       𝜎2 =                        = 8,8
+                                                       1
+Gabarito: E.
+
+
+7. (FGV/SEPOG-RO/2017) Considere a seguinte amostra de notas de alunos: 5,0; 6,0; 5,0; 4,0; 10,0. A
+variância amostral dessas notas pode ser igual a
+a) 5,5.
+b) 6,2.
+c) 6,8.
+d) 7,2.
+e) 9,0.
+
+
+          Receita Federal (Analista Tributário) Estatística                                          50
+          www.estrategiaconcursos.com.br                                                             89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Comentários:
+Inicialmente, vamos calcular a média:
+                                                   5 + 6 + 5 + 4 + 10 30
+                                            𝑥̅ =                     =
+                                                            5          5
+                                                             𝑥̅ = 6
+Agora, calcularemos os desvios de cada nota em relação à média:
+
+                                                        Desvio em
+                                Notas (𝒙𝒊 )          relação à média              ̅)²
+                                                                            (𝒙𝒊 − 𝒙
+                                                               ̅)
+                                                         (𝒙𝒊 − 𝒙
+                                                             ==219a34==
+
+
+
+
+                                      5                5 − 6 = −1              1
+
+                                      6                 6−6=0                  0
+
+                                      5                5 − 6 = −1              1
+
+                                      4                4 − 6 = −2              4
+
+                                     10                10 − 6 = 4              16
+
+                                    Total                                      22
+
+De posse dessa informação, podemos calcular a variância. Devemos lembrar que, por se tratar de uma
+variância amostral, aplicamos 𝑛 − 1.
+                                                        22   22
+                                                𝑠2 =       =    = 5,5
+                                                       5−1    4
+Gabarito: A.
+
+
+8. (FGV/AL-BA/2014) A média das idades de um grupo de 4 amigos é de 36 anos, e o desvio padrão é igual
+a 2. Daqui a cinco anos, a média e a variância das idades desse grupo serão iguais a:
+a) 41 e 4.
+b) 41 e 50.
+c) 56 e 2.
+d) 56 e 50.
+e) 56 e 200.
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                         51
+         www.estrategiaconcursos.com.br                                                            89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+Comentários:
+O desvio padrão e a variância não se alteram com a adição ou subtração de uma constante 𝑐. Sabemos que
+a variância é igual ao desvio padrão ao quadrado. Logo:
+                                                         𝜎 2 = 22
+                                                             𝜎2 = 4
+Como a média era 36 e foram somados mais cinco anos, a nova média também será adicionada de 5
+unidades:
+                                                    𝑥̅ = 36 + 5 = 41
+Gabarito: A.
+
+
+9. (FGV/SEFAZ-RJ/2010) A média, a mediana e a variância das idades de um grupo de vinte pessoas são,
+hoje, iguais, respectivamente, a 34, 35 e 24. Daqui a dez anos, os valores da média, da mediana e da
+variância das idades dessas pessoas serão, respectivamente:
+a) 44, 35 e 34.
+b) 44, 45 e 12.
+c) 44, 45 e 24.
+d) 34, 35 e 12.
+e) 44, 45 e 124.
+
+
+Comentários:
+Ao somarmos uma constante a um conjunto, a média e mediana também aumentarão no valor dessa
+constante. Assim temos que:
+                                                   𝑥̅ = 34 + 10 = 44
+                                                  𝑀𝑑 = 35 + 10 = 45
+Para a variância, temos que a regra é que se somarmos uma constante ela não será alterada. Portanto:
+                                                         𝜎 2 = 24
+Gabarito: C.
+
+
+10. (FGV/SEAD-AP/2010) Os dados a seguir são as quantidades de empregados de cinco pequenas
+empresas: 6, 5, 8, 5, 6.
+A variância da quantidade de empregados dessas cinco empresas é igual a:
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                             52
+         www.estrategiaconcursos.com.br                                                                89
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+a) 0,8.
+b) 1,2.
+c) 1,6.
+d) 2,0.
+e) 2,4.
+
+
+Comentários:
+Queremos calcular a variância, para isso precisamos inicialmente calcular a média de empregados das 5
+empresas:
+                                                        6+5+8+5+6
+                                                 𝑥̅ =
+                                                            5
+                                                              𝑥̅ = 6
+Agora vamos calcular a média dos quadrados:
+
+                                              ̅ = 6² + 5² + 8² + 5² + 6²
+                                              𝑥²
+                                                            5
+                                                       ̅ = 186
+                                                      𝑥²
+                                                            5
+                                                      ̅ = 37,2
+                                                      𝑥²
+Sabemos que a variância é dada pela diferença entre a média dos quadrados e o quadrado da média, logo:
+
+                                                        𝜎 2 = ̅̅̅
+                                                              𝑥 2 − 𝑥̅ 2
+                                                      𝜎 2 = 37,2 − 62
+                                                          𝜎 2 = 1,2
+Gabarito: B.
+
+
+11. (FGV/SEN/2008) A média
+                                                                  𝒏
+                                                          𝟏
+                                                      (𝒙
+                                                       ̅ = ∑ 𝒙𝒊 )
+                                                          𝒏
+                                                                 𝒊=𝟏
+
+e a variância amostral
+                                                                 𝒏
+                                                      𝟏
+                                               (𝒔𝟐 =            ̅) 𝟐 )
+                                                         ∑(𝒙𝒊 − 𝒙
+                                                     𝒏−𝟏
+                                                                𝒊=𝟏
+
+de um conjunto de 20 observações são, respectivamente, 5 e 1. Uma nova observação, de valor igual a 5,
+foi acrescentada ao conjunto inicial, passando-se a ter 21 valores. A nova variância amostral será igual a:
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                             53
+          www.estrategiaconcursos.com.br                                                                89
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+a) 1,10.
+b) 1,05.
+c) 1,00.
+d) 0,95.
+e) 0,90.
+
+
+Comentários:
+Temos que a média inicial vale 5 e que são 20 observações, então:
+                                                                  ∑20
+                                                                   𝑖=1 𝑥𝑖
+                                                           5=
+                                                                    20
+                                                       20
+
+                                                       ∑ 𝑥𝑖 = 20 × 5
+                                                       𝑖=1
+                                                           20
+
+                                                           ∑ 𝑥𝑖 = 100
+                                                           𝑖=1
+
+Agora, vamos acrescentar mais um valor igual a 5 no conjunto e calcular a nova média:
+                                                                     20
+                                                              1
+                                                        𝑥̅ =    ∑ 𝑥𝑖
+                                                             21
+                                                                     𝑖=1
+
+                                                                  100 + 5
+                                                           𝑥̅ =
+                                                                    21
+                                                                    105
+                                                             𝑥̅ =
+                                                                    21
+                                                                 𝑥̅ = 5
+A nova média também vale 5.
+Calculando a nova variância. Temos no enunciado que inicialmente ela vale 1:
+                                                            ∑20
+                                                             𝑖=1(𝑥𝑖 − 5)
+                                                                         2
+                                                     1=
+                                                               20 − 1
+                                                20
+
+                                               ∑(𝑥𝑖 − 5)2 = (20 − 1) × 1
+                                               𝑖=1
+                                                      20
+
+                                                     ∑(𝑥𝑖 − 5)2 = 19
+                                                     𝑖=1
+
+Acrescentando a 21ª observação:
+
+
+
+           Receita Federal (Analista Tributário) Estatística                            54
+           www.estrategiaconcursos.com.br                                               89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+                                                 ∑21         2
+                                                  𝑖=1(𝑥𝑖 − 5) + (5 − 5)
+                                                                        2
+                                          𝑠2 =
+                                                          21 − 1
+                                                          19 + 0
+                                                     𝑠2 =
+                                                            20
+                                                       𝑠 2 = 0,95
+Gabarito: D.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                   55
+        www.estrategiaconcursos.com.br                                      89
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                            QUESTÕES COMENTADAS – FGV
+
+Desvio-Padrão
+
+1. (FGV/Pref. SJC/2024) Considere uma variável aleatória X com os seguintes momentos:
+𝑬(𝑿) = 𝟒.
+𝑬(𝑿𝟐 ) = 𝟐𝟓
+O desvio-padrão de X é igual a:
+a) 3.
+b) 9.
+c) √21.
+d) √29.
+e) 2,5.
+
+
+Comentários:
+A variância pode ser expressa matematicamente por:
+                                                 𝜎 2 = 𝐸(𝑋 2 ) − [𝐸(𝑋)]2
+Substituindo os valores do enunciado na fórmula, temos:
+                                                      𝜎 2 = 25 − (4)2
+                                                       𝜎 2 = 25 − 16
+                                                              𝜎2 = 9
+                                                              𝜎 = √9
+                                                              𝜎=3
+Logo, o desvio padrão é igual a 3.
+Gabarito: A.
+
+
+2. (FGV/RFB/2023) Observe as cinco amostras a seguir:
+
+                               Amostra                               Observações
+
+                                   1                      –5 –3 –1           1    3    5    7
+
+                                   2                           22 26     30       34   38
+
+                                   3                           100     101       102 103
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                     56
+          www.estrategiaconcursos.com.br                                                        89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                  4                                1     2   3     5     10
+
+                                  5                          0,5       2,0   3,5       5,0    6,5
+
+Das cinco, a de menor desvio padrão é a
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+e) 5.
+
+
+Comentários:
+Observando os dados da tabela temos que a amplitude total (ou simplesmente amplitude) é a diferença
+entre os valores extremos de um conjunto de observações, ou seja, a diferença entre o maior e o menor
+elemento desse conjunto:
+                                                    𝐴 = 𝑥𝑚á𝑥 − 𝑥𝑚í𝑛
+Assim temos que a amplitude de cada amostra é:
+                                                  𝐴1 = 7 − (−5) = 12
+                                                  𝐴2 = 38 − 22 = 16
+                                                 𝐴3 = 103 − 100 = 3
+                                                    𝐴4 = 10 − 1 = 9
+                                                  𝐴5 = 6,5 − 0,5 = 6
+Queremos saber o menor desvio padrão. Ora, sabemos que o desvio padrão máximo pode ser dado por:
+                                                      𝐴
+                                                        𝜎max =
+                                                      2
+Então, temos que o desvio padrão máximo é igual a amplitude dividida por 2. calculando para cada amostra
+temos:
+                                                     12
+                                                    𝜎max1 =
+                                                        =6
+                                                      2
+                                                     16
+                                          𝜎max2 =       =8
+                                                      2
+                                                    3
+                                          𝜎max3 = = 1,5
+                                                    2
+                                                     9
+                                          𝜎max4 = = 4,5
+                                                     2
+                                                      6
+                                           𝜎max5 = = 3
+                                                      2
+Portanto, a amostra com o menor desvio padrão é a 3.
+
+
+         Receita Federal (Analista Tributário) Estatística                                           57
+         www.estrategiaconcursos.com.br                                                              89
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+Gabarito: C.
+
+
+3. (FGV/BANESTES/2023) A tabela a seguir apresenta as idades (em anos) de 16 crianças divididas em 4
+grupos de 4 alunos.
+
+                                                  Grupo 1         6     7    8   9
+
+                                                  Grupo 2         7     7    7   9
+
+                                                  Grupo 3         6     7    7   8
+
+                                                  Grupo 4         5     7    8   8
+
+Com base nessas informações, avalie as afirmações.
+I. A média das idades é maior no Grupo 1 que no Grupo 2.
+II. A mediana das idades é maior no Grupo 1 que no Grupo 3.
+III. O grupo 4 é o que apresenta maior desvio-padrão.
+Está correto o que se afirma em
+a) II, apenas.
+b) III, apenas.
+c) I e II, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+
+Comentários:
+Vamos analisar cada uma das afirmativas:
+I - A média das idades é maior no Grupo 1 que no Grupo 2.
+                                         𝑠𝑜𝑚𝑎 6 + 7 + 8 + 9 30
+                                        𝑥̅ 𝐺1 =
+                                              =            =   = 7,5
+                                           𝑛        4        4
+                                         𝑠𝑜𝑚𝑎 7 + 7 + 7 + 9 30
+                                 𝑥̅ 𝐺2 =      =            =   = 7,5
+                                           𝑛        4        4
+Afirmativa errada, pois as duas médias são iguais.
+II - A mediana das idades é maior no Grupo 1 que no Grupo 3. A mediana é o termo central da amostra, nesse
+caso será dada pela média dos dois termos centrais. É importante mencionar que os dados devem estar
+ordenados:
+                                                                             7+8
+                                       𝑀𝑑𝐺1 = 6            7⏟8          9⟹       = 7,5
+                                                     𝑡𝑒𝑟𝑚𝑜𝑠 𝑐𝑒𝑛𝑡𝑟𝑎𝑖𝑠
+                                                                              2
+                                                                             7+7
+                                        𝑀𝑑𝐺3 = 6            7⏟7         8⟹       =7
+                                                      𝑡𝑒𝑟𝑚𝑜𝑠 𝑐𝑒𝑛𝑡𝑟𝑎𝑖𝑠
+                                                                              2
+
+
+            Receita Federal (Analista Tributário) Estatística                                          58
+            www.estrategiaconcursos.com.br                                                             89
+
+                                          https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+Afirmativa correta. No grupo 1, a mediana é maior que no grupo 3.
+III - O grupo 4 é o que apresenta maior desvio-padrão. Temos que quanto maior é amplitude da amostra
+maior é o desvio padrão. Sabendo disso, podemos calcular as amplitudes para verificar qual é o maior desvio
+padrão. Assim, temos que:
+                                                     𝐴𝐺1 = 9 − 6 = 3
+                                                     𝐴𝐺2 = 9 − 7 = 2
+                                                     𝐴𝐺3 = 8 − 6 = 2
+                                                     𝐴𝐺4 = 8 − 5 = 3
+Como as maiores amplitudes estão nos grupos 1 e 4, precisamos calcular o desvio padrão apenas para esses
+dois grupos. Calculando a média do grupo 1:
+                                                   6 + 7 + 8 + 9 30
+                                            𝑥̅ =                =   = 7,5
+                                                         4        4
+O desvio padrão é determinado pela fórmula:
+
+                                                             ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                    𝜎=√
+                                                                    𝑛
+
+                             (6 − 7,5)2 + (7 − 7,5)2 + (8 − 7,5)2 + (9 − 7,5)2   5 √5
+                    𝜎1 = √                                                     =√ =
+                                                     4                           4  2
+
+Calculando a média do grupo 4:
+                                                    5 + 7 + 8 + 8 28
+                                             𝑥̅ =                =   =7
+                                                          4        4
+Desvio padrão do grupo 4:
+
+                                 (5 − 7)2 + (7 − 7)2 + (8 − 7)2 + (8 − 7)2   6 √6
+                        𝜎4 = √                                             =√ =
+                                                     4                       4  2
+
+Portanto, o desvio padrão do grupo 4 é maior. Afirmativa correta.
+Gabarito: D.
+
+
+4. (FGV/TRT-PB/2022) Os dados a seguir são uma amostra de idades:
+26 28 30 32 32 34 36 38
+O desvio padrão dessas idades é igual a
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+
+
+         Receita Federal (Analista Tributário) Estatística                                              59
+         www.estrategiaconcursos.com.br                                                                 89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+e) 6.
+
+
+Comentários:
+Como já sabemos, o desvio padrão amostral é expresso por:
+
+                                                         ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                 𝑠=√
+                                                              𝑛−1
+
+Logo, teremos que calcular a média do conjunto e, em seguida, os desvios em relação à média.
+Começando pela média, temos:
+                                 26 + 28 + 30 + 32 + 32 + 34 + 36 + 38 256
+                          𝑥̅ =                                        =    = 32
+                                                   8                    8
+Para facilitar o cálculo do desvio padrão, podemos montar uma tabela como a seguinte:
+
+                               𝒙𝒊                    ̅
+                                                𝒙𝒊 − 𝒙                            ̅) 𝟐
+                                                                            (𝒙𝒊 − 𝒙
+
+                          26               26 − 32 = −6                     (−6)2 = 36
+
+                          28               28 − 32 = −4                     (−4)2 = 16
+
+                          30               30 − 32 = −2                     (−2)2 = 4
+
+                          32                32 − 32 = 0                      (0)2 = 0
+
+                          32                32 − 32 = 0                      (0)2 = 0
+
+                          34                34 − 32 = 2                      (2)2 = 4
+
+                          36                36 − 32 = 4                     (4)2 = 16
+
+                          38                38 − 32 = 6                     (6)2 = 36
+
+
+                          Soma                                              ̅)𝟐 = 𝟏𝟏𝟐
+                                                                     ∑(𝒙𝒊 − 𝒙
+
+Aplicando a fórmula do desvio padrão amostral, temos:
+
+                                                 112    112
+                                         𝑠=√         =√     = √16 = 4
+                                                 8−1     7
+
+Logo, o desvio padrão da amostra em questão é igual a 4.
+Gabarito: C.
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                      60
+        www.estrategiaconcursos.com.br                                                         89
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+5. (FGV/Pref. Paulínia/2021) Em uma turma de 10 alunos, as notas dos alunos em uma avaliação foram:
+
+                                  6      7    7      8        8             8    8   9   9   10
+
+O desvio padrão dessa lista de notas é, aproximadamente,
+a) 0,8.
+b) 0,9.
+c) 1,1.
+d) 1,3.
+e) 1,5.                                                        ==219a34==
+
+
+
+
+Comentários:
+Calculando a média do conjunto:
+                                      6 + 7 + 7 + 8 + 8 + 8 + 8 + 9 + 9 + 10 80
+                              𝑥̅ =                                          =    =8
+                                                        10                    10
+Temos que o desvio padrão é dado por:
+
+                                                              ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                   𝜎=√
+                                                                     𝑛
+
+em que n é a quantidade de alunos.
+
+          (6 − 8)2 + (7 − 8)2 + (7 − 8)2 + (8 − 8)2 + (8 − 8)2 + (8 − 8)2 + (8 − 8)2 + (9 − 8)2 + (9 − 8)2 + (10 − 8)2
+   𝜎=√
+                                                               10
+
+
+                                             4+1+1+0+0+0+0+1+1+4
+                                      𝜎=√
+                                                      10
+
+                                                                            12
+                                                          𝜎=√
+                                                                            10
+
+                                                         𝜎 = √1,2
+                                                          𝜎 ≅ 1,1
+Gabarito: C.
+
+
+6. (FGV/IMBEL/2021) Considere os números 1, 2, 3, 6, 8.
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                                              61
+          www.estrategiaconcursos.com.br                                                                                 89
+
+                                         https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+O desvio padrão dessa lista de números é, aproximadamente, igual a
+a) 1,7.
+b) 2,1.
+c) 2,6.
+d) 3,0.
+e) 3,4.
+
+
+Comentários:
+Calculando a média do conjunto:
+                                                 1 + 2 + 3 + 6 + 8 20
+                                           𝜇=                     =   =4
+                                                         5          5
+Temos que o desvio padrão é dado por:
+
+                                                              ∑𝑛𝑖=1(𝑥𝑖 − 𝜇)2
+                                                   𝜎=√
+                                                                     𝑛
+
+em que 𝑛 é a quantidade de elementos do conjunto.
+
+                                  (1 − 4)2 + (2 − 4)2 + (3 − 4)2 + (6 − 4)2 + (8 − 4)2
+                          𝜎=√
+                                                           5
+
+                                                       9 + 4 + 1 + 4 + 16
+                                               𝜎=√
+                                                                5
+
+                                                                   34
+                                                          𝜎=√
+                                                                    5
+
+                                                         𝜎 = √6,8
+                                                          𝜎 ≅ 2,6
+Gabarito: C.
+
+
+7. (FGV/IBGE/2016) A partir de uma amostra de tamanho 2n+1, sendo n um número inteiro, elaborou-se
+a distribuição de frequência de tal forma que apenas os dados grupados ficaram disponíveis. Apesar disso,
+é possível determinar com certeza a classe à qual pertence o valor exato:
+a) Da moda;
+b) Da mediana;
+c) Da média;
+
+
+          Receita Federal (Analista Tributário) Estatística                                           62
+          www.estrategiaconcursos.com.br                                                              89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+d) Dos quartis;
+e) Do desvio padrão.
+
+
+Comentários:
+O enunciado diz que a amostra tem tamanho 2𝑛 + 1. Sendo assim, a quantidade de termos será sempre
+ímpar. Nessas condições, a mediana obrigatoriamente ocupará o termo central da amostra, ficando
+posicionada em uma das classes de dados, e não entre duas classes limítrofes.
+Gabarito: B.
+
+
+8. (FGV/TJ-AM/2013) Em relação à medida de desvio padrão, analise as afirmativas a seguir.
+I. Tal medida apresenta a propriedade adimensional.
+II. Tal medida mostra a dispersão dos dados em relação à média.
+III. Tal medida nunca é negativa.
+Assinale:
+a) Se apenas a afirmativa II estiver correta.
+b) Se apenas as afirmativas I e III estiverem corretas.
+c) Se apenas as afirmativas II e III estiverem corretas.
+d) Se apenas as afirmativas I e II estiverem corretas.
+e) Se todas as afirmativas estiverem corretas.
+
+
+Comentários:
+Vamos analisar cada um dos itens:
+    •      item I: falso, pois o desvio padrão tem a mesma unidade de medida que a variável apresentada;
+    •      item II: verdadeiro. O desvio padrão mede a dispersão dos dados, tomando a média como referência;
+    •      item III: verdadeiro. É a raiz quadrada da variância e, portanto, sempre é positiva.
+Gabarito: C.
+
+
+9. (FGV/SEFAZ-RJ/2011) O desvio-padrão da população {2; 4; 2; 4; 2; 4; 2; 4} é
+a) 1,5 .
+b) 1,0 .
+c) 2,5 .
+
+
+            Receita Federal (Analista Tributário) Estatística                                              63
+            www.estrategiaconcursos.com.br                                                                 89
+
+                                          https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+d) 2,0 .
+e) 3,0 .
+
+
+Comentários:
+Vamos inicialmente calcular a média:
+                                                  2+4+2+4+2+4+2+4
+                                           𝑥̅ =
+                                                             8
+                                                            24
+                                                       𝑥̅ =
+                                                             8
+                                                               𝑥̅ = 3
+Agora, vamos calcular a média dos quadrados:
+
+                                     ̅̅̅  2² + 4² + 2² + 4² + 2² + 4² + 2² + 4²
+                                     𝑥2 =
+                                                            8
+                                                           ̅̅̅   80
+                                                           𝑥2 =
+                                                                  8
+                                                           ̅̅̅
+                                                           𝑥 2 = 10
+Sabemos que a variância é dada pela diferença entre a média dos quadrados e o quadrado da média, logo:
+
+                                                        𝜎 2 = ̅̅̅
+                                                              𝑥 2 − 𝑥̅ 2
+                                                     𝜎 2 = 10 − 3² = 1
+O desvio padrão é dado pela raiz quadrada da variância:
+
+                                                               𝜎 = √1
+                                                               𝜎=1
+Gabarito: B.
+
+
+
+
+           Receita Federal (Analista Tributário) Estatística                                        64
+           www.estrategiaconcursos.com.br                                                           89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                 LISTA DE QUESTÕES – FGV
+
+Amplitude Total
+
+1. (FGV/Pref. SJC/2024) Segundo dados do IBGE, o IPCA mensal registrou os seguintes valores entre janeiro
+e julho de 2023 (em %):
+
+                                             Jan/2023               0,53
+
+                                             Fev/2023               0,84
+
+                                             Mar/2023               0,71
+
+                                             Abr/2023               0,61
+
+                                             Mai/2023               0,23
+
+                                             Jun/2023               -0,08
+
+                                             Jul/2023               0,12
+
+Considerando esse período, a mediana e a amplitude (em %) foram iguais, respectivamente, a
+a) 0,42 e 0,76.
+b) 0,53 e 0,76.
+c) 0,53 e 0,92.
+d) 0,53 e 0,485.
+e) 0,57 e 0,84.
+
+
+2. (FGV/DPE-RJ/2014) Dentre as informações coletadas dos cidadãos através do 1º atendimento da
+Defensoria Pública estão as variáveis idade, renda e o número de dependentes. Cada uma é classificada
+em três diferentes níveis A, B e C, com valores de referência conforme a tabela:
+
+            Variáveis                    A                   B              C               D
+
+   Renda Média (R$ 100)                  9                   11             11              17
+
+     Idade Média (anos)                 20                   32             36              48
+
+  Dependentes (pessoas)                  2                   3              3               2
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                            65
+         www.estrategiaconcursos.com.br                                                               89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+Portanto, as unidades de medida são distintas (R$, anos e pessoas). Mesmo assim, através de uma
+estatística de amplitude, escolhida convenientemente, aqui representada por VB, é possível comparar as
+dispersões. Logo, renda, idade e número de dependentes seguem a ordenação
+a) VB (renda) < VB (idade) < VB (dependentes).
+b) VB (renda) < VB (dependentes) < VB (idade).
+c) VB (idade) < VB (dependentes) < VB (renda).
+d) VB (idade) < VB (renda) < VB (dependentes).
+e) VB (dependentes) < VB (renda) < VB (idade).
+
+
+
+                                                            ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                          66
+        www.estrategiaconcursos.com.br                                                             89
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Amplitude Total
+
+  1. LETRA C                                  2. LETRA E
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  67
+       www.estrategiaconcursos.com.br                                     89
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                 LISTA DE QUESTÕES – FGV
+
+Amplitude Interquartílica
+
+1. (FGV/TRT-PB/2022) Os diagramas a seguir são Box-Plots de notas de cinco turmas de alunos de um
+mesmo colégio numa prova de matemática:
+
+
+
+
+A turma com notas mais homogêneas nessa prova foi a
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+e) 5.
+
+
+2. (FGV/IBGE/2017) A população de um estudo é dividida em quatro estratos, sendo o menor com 10%
+dos indivíduos e os demais com tamanhos acrescidos de dez pontos percentuais, progressivamente. Os
+estratos se distinguem por classes de renda com amplitude constante, sendo maiores quanto menor a
+renda. Sobre os estratos sabe-se que:
+                              𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟏 = 𝟔𝟓 𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟐 = 𝟒𝟓 𝒆 𝑹𝒅𝑬𝒔𝒕𝒓𝒂𝒕𝒐𝟒 = 𝟓
+Onde os valores acima representam os limites inferiores da renda dos extratos, inclusive.
+Portanto, é correto afirmar que:
+a) Tomando os pontos médios das classes como representativos, a renda média é igual a Md(Rd) = 38;
+b) A mediana da distribuição de renda, Me(Rd), é menor que 45 e maior do que ou igual a 25;
+c) Tomando os pontos médios das classes como representativos, a moda da renda é igual a Mo(Rd) = 35;
+
+
+         Receita Federal (Analista Tributário) Estatística                                             68
+         www.estrategiaconcursos.com.br                                                                89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+d) O valor máximo atingido pela renda nessa distribuição é igual a Mx(Rd) = 85;
+e) O valor do desvio-interquartílico da distribuição de renda deverá ser superior a 50.
+
+
+
+
+                                                            ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                 69
+        www.estrategiaconcursos.com.br                                                    89
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Amplitude Interquartílica
+
+  1. LETRA C                                  2. LETRA B
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  70
+       www.estrategiaconcursos.com.br                                     89
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+                                LISTA DE QUESTÕES – FGV
+
+Desvios em Relação à Média Aritmética e Mediana
+
+1. (FGV/SEFAZ MS/2006) Analise as afirmativas a seguir, a respeito da média aritmética:
+I. A soma dos resíduos em relação à média aritmética é sempre igual a zero.
+II. É em relação à média aritmética que a soma dos valores absolutos dos resíduos é mínima.
+III. É em relação à média aritmética que a soma dos quadrados dos resíduos é mínima.
+Assinale:
+a) se somente a afirmativa II estiver correta.
+b) se somente as afirmativas I e II estiverem corretas.
+c) se somente as afirmativas I e III estiverem corretas.
+d) se somente as afirmativas II e III estiverem corretas.
+e) se todas as afirmativas estiverem corretas.
+
+
+2. (FGV/SEFAZ-MS/2006) Analise as afirmativas a seguir, a respeito da mediana:
+I. A soma dos resíduos em relação à mediana é sempre igual a zero.
+II. É em relação à mediana que a soma dos valores absolutos dos resíduos é mínima.
+III. É em relação à mediana que a soma dos quadrados dos resíduos é mínima.
+Assinale:
+a) se somente a afirmativa II estiver correta.
+b) se somente as afirmativas I e II estiverem corretas.
+c) se somente as afirmativas I e III estiverem corretas.
+d) se somente as afirmativas II e III estiverem corretas.
+e) se todas as afirmativas estiverem corretas.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                     71
+        www.estrategiaconcursos.com.br                                                        89
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Desvios em Relação à Média Aritmética e Mediana
+
+  1. LETRA C                                  2. LETRA A
+
+
+
+
+                                                           ==219a34==
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  72
+       www.estrategiaconcursos.com.br                                     89
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                      LISTA DE QUESTÕES – FGV
+
+Variância
+
+1. (FGV/BANESTES/2023) Considere o seguinte conjunto de n = 5 observações relativas a determinada
+variável:
+                                                           8, 3, 11, 1, 7.
+Em relação a esses dados, avalie as seguintes afirmativas:
+I. A média é igual a 7.
+II. A mediana é igual a 6.
+III. A variância é igual a 16.
+Está correto apenas o que se afirma em
+a) I.
+b) III.
+c) I e II.
+d) I e III.
+e) II e III.
+
+
+2. (FGV/Câmara dos Deputados/2023) Observe a seguinte amostra de notas de cinco alunos:
+6, 6, 8, 10, 10.
+A variância dessas notas, entendida como a média dos quadrados dos desvios em torno da média, é igual
+a
+a) 2,4.
+b) 2,8.
+c) 3,2.
+d) 3,6.
+e) 4,0.
+
+
+3. (FGV/SEFAZ-MG/2023) Considere a seguinte amostra aleatória simples:
+2, 5, 5, 6, 6, 7, 7, 10.
+A variância amostral que corresponde à estimativa não tendenciosa da variância populacional é
+aproximadamente igual a
+a) 4,5.
+
+
+              Receita Federal (Analista Tributário) Estatística                                   73
+              www.estrategiaconcursos.com.br                                                      89
+
+                                            https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+b) 5,1.
+c) 5,5.
+d) 5,8.
+e) 6,2.
+
+
+4. (FGV/TCE ES/2023) O quadro seguinte apresenta, parcialmente, os valores de uma série ordenada de 80
+observações.
+
+                                1     3,7    3,7    3,7    4,7       5,7   5,7   5,7   5,7   5,7
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                               6,2    6,5    6,5    6,5    6,5       6,5   6,5   6,5   6,5   6,5
+
+                               6,5    6,5     7      7         7     ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                                ...    ...    ...    ...       ...   ...   ...   ...   ...   ...
+
+                               7,3    7,3    7,3    7,3    7,3       7,3   8,3   9,3   10    10
+
+O 1º e o 3º quartis são, respectivamente, 5,8 e 7,3. A soma dos quadrados das informações é 3.512.
+Após a retirada dos valores atípicos pelo critério dos quartis, a nova série passou a ser simétrica.
+O valor da variância dessa nova série é:
+a) 0,50;
+b) 0,75;
+c) 1,0;
+d) 1,25;
+e) 1,50.
+
+
+5. (FGV/CGU/2022) O ativo A está gerando grande atração de matemáticos, que conseguiram convencer a
+bolsa de valores a registrar preços baseados em quantidades pouco usuais, como √𝟐 e 𝝅. Durante cinco
+dias foram observados os seguintes preços de dois ativos, A e B, respectivamente:
+                               𝝅     𝟏 𝟏
+                        (√𝟐;     ; 𝟏; ; ) 𝒆 (𝟏𝟎𝟎, 𝟑𝟎; 𝟒𝟎𝟎, 𝟏𝟖; 𝟐𝟎𝟕, 𝟎𝟏; 𝟓𝟎𝟖, 𝟎𝟎; 𝟗𝟏𝟐, 𝟏𝟏)
+                               𝟐     𝟑 𝟔
+Considerando esses valores, sobre a média e a variância dos retornos durante esses cinco dias, é correto
+afirmar que:
+
+           Receita Federal (Analista Tributário) Estatística                                           74
+           www.estrategiaconcursos.com.br                                                              89
+
+                                         https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+a) os retornos do ativo A têm maior média e maior variância;
+b) os retornos do ativo A têm maior média e menor variância;
+c) os retornos do ativo A têm menor média e maior variância;
+d) os retornos do ativo A têm menor média e menor variância;
+e) a média e a variância dos retornos dos dois ativos são iguais.
+
+
+6. (FGV/TRT-MA/2022) Uma variável aleatória discreta X tem função de probabilidade dada por:
+
+                                         Valores de X         0   2    6     8
+
+                                         Probabilidades 0,2 0,3 0,3 0,2
+
+A variância de X é igual a
+a) 7,2.
+b) 7,6.
+c) 8,0.
+d) 8,4.
+e) 8,8.
+
+
+7. (FGV/SEPOG-RO/2017) Considere a seguinte amostra de notas de alunos: 5,0; 6,0; 5,0; 4,0; 10,0. A
+variância amostral dessas notas pode ser igual a
+a) 5,5.
+b) 6,2.
+c) 6,8.
+d) 7,2.
+e) 9,0.
+
+
+8. (FGV/AL-BA/2014) A média das idades de um grupo de 4 amigos é de 36 anos, e o desvio padrão é igual
+a 2. Daqui a cinco anos, a média e a variância das idades desse grupo serão iguais a:
+a) 41 e 4.
+b) 41 e 50.
+c) 56 e 2.
+d) 56 e 50.
+
+
+          Receita Federal (Analista Tributário) Estatística                                        75
+          www.estrategiaconcursos.com.br                                                           89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+e) 56 e 200.
+
+
+9. (FGV/SEFAZ-RJ/2010) A média, a mediana e a variância das idades de um grupo de vinte pessoas são,
+hoje, iguais, respectivamente, a 34, 35 e 24. Daqui a dez anos, os valores da média, da mediana e da
+variância das idades dessas pessoas serão, respectivamente:
+a) 44, 35 e 34.
+b) 44, 45 e 12.
+c) 44, 45 e 24.
+d) 34, 35 e 12.
+e) 44, 45 e 124.
+                                                               ==219a34==
+
+
+
+
+10. (FGV/SEAD-AP/2010) Os dados a seguir são as quantidades de empregados de cinco pequenas
+empresas: 6, 5, 8, 5, 6.
+A variância da quantidade de empregados dessas cinco empresas é igual a:
+a) 0,8.
+b) 1,2.
+c) 1,6.
+d) 2,0.
+e) 2,4.
+
+
+11. (FGV/SEN/2008) A média
+                                                                             𝒏
+                                                           𝟏
+                                                       (𝒙
+                                                        ̅ = ∑ 𝒙𝒊 )
+                                                           𝒏
+                                                                            𝒊=𝟏
+
+e a variância amostral
+                                                                            𝒏
+                                                   𝟐
+                                                      𝟏
+                                                (𝒔 =            ̅) 𝟐 )
+                                                         ∑(𝒙𝒊 − 𝒙
+                                                     𝒏−𝟏
+                                                                            𝒊=𝟏
+
+de um conjunto de 20 observações são, respectivamente, 5 e 1. Uma nova observação, de valor igual a 5,
+foi acrescentada ao conjunto inicial, passando-se a ter 21 valores. A nova variância amostral será igual a:
+a) 1,10.
+b) 1,05.
+c) 1,00.
+
+
+
+           Receita Federal (Analista Tributário) Estatística                                            76
+           www.estrategiaconcursos.com.br                                                               89
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+d) 0,95.
+e) 0,90.
+
+
+
+
+           Receita Federal (Analista Tributário) Estatística                  77
+           www.estrategiaconcursos.com.br                                     89
+
+                                         https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Variância
+
+  1.   LETRA B                                5.   LETRA D                9. LETRA C
+  2.   LETRA C                                6.   LETRA E                10. LETRA B
+  3.   LETRA B                                7.   LETRA A                11. LETRA D
+  4.   LETRA B                                8.   LETRA A
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                                78
+       www.estrategiaconcursos.com.br                                                   89
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                  LISTA DE QUESTÕES – FGV
+
+Desvio-Padrão
+
+1. (FGV/Pref. SJC/2024) Considere uma variável aleatória X com os seguintes momentos:
+𝑬(𝑿) = 𝟒.
+𝑬(𝑿𝟐 ) = 𝟐𝟓
+O desvio-padrão de X é igual a:
+a) 3.
+b) 9.
+c) √21.
+d) √29.
+e) 2,5.
+
+
+2. (FGV/RFB/2023) Observe as cinco amostras a seguir:
+
+                               Amostra                                  Observações
+
+                                   1                      –5 –3 –1                1       3     5    7
+
+                                   2                           22 26          30       34       38
+
+                                   3                           100        101         102 103
+
+                                   4                                1     2   3       5       10
+
+                                   5                          0,5       2,0   3,5         5,0       6,5
+
+Das cinco, a de menor desvio padrão é a
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+e) 5.
+
+
+3. (FGV/BANESTES/2023) A tabela a seguir apresenta as idades (em anos) de 16 crianças divididas em 4
+grupos de 4 alunos.
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                               79
+          www.estrategiaconcursos.com.br                                                                  89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                                  Grupo 1           6   7   8       9
+
+                                                  Grupo 2           7   7   7       9
+
+                                                  Grupo 3           6   7   7       8
+
+                                                  Grupo 4           5   7   8       8
+
+Com base nessas informações, avalie as afirmações.
+I. A média das idades é maior no Grupo 1 que no Grupo 2.
+II. A mediana das idades é maior no Grupo 1 que no Grupo 3.
+III. O grupo 4 é o que apresenta maior desvio-padrão.
+Está correto o que se afirma em
+a) II, apenas.
+b) III, apenas.
+c) I e II, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+
+4. (FGV/TRT-PB/2022) Os dados a seguir são uma amostra de idades:
+26 28 30 32 32 34 36 38
+O desvio padrão dessas idades é igual a
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+e) 6.
+
+
+5. (FGV/Pref. Paulínia/2021) Em uma turma de 10 alunos, as notas dos alunos em uma avaliação foram:
+
+                                    6     7     7      8        8   8   8       9       9   10
+
+O desvio padrão dessa lista de notas é, aproximadamente,
+a) 0,8.
+b) 0,9.
+
+
+
+            Receita Federal (Analista Tributário) Estatística                                     80
+            www.estrategiaconcursos.com.br                                                        89
+
+                                          https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+c) 1,1.
+d) 1,3.
+e) 1,5.
+
+
+6. (FGV/IMBEL/2021) Considere os números 1, 2, 3, 6, 8.
+O desvio padrão dessa lista de números é, aproximadamente, igual a
+a) 1,7.
+b) 2,1.
+c) 2,6.
+d) 3,0.
+e) 3,4.
+
+
+7. (FGV/IBGE/2016) A partir de uma amostra de tamanho 2n+1, sendo n um número inteiro, elaborou-se
+a distribuição de frequência de tal forma que apenas os dados grupados ficaram disponíveis. Apesar disso,
+é possível determinar com certeza a classe à qual pertence o valor exato:
+a) Da moda;
+b) Da mediana;
+c) Da média;
+d) Dos quartis;
+e) Do desvio padrão.
+
+
+8. (FGV/TJ-AM/2013) Em relação à medida de desvio padrão, analise as afirmativas a seguir.
+I. Tal medida apresenta a propriedade adimensional.
+II. Tal medida mostra a dispersão dos dados em relação à média.
+III. Tal medida nunca é negativa.
+Assinale:
+a) Se apenas a afirmativa II estiver correta.
+b) Se apenas as afirmativas I e III estiverem corretas.
+c) Se apenas as afirmativas II e III estiverem corretas.
+d) Se apenas as afirmativas I e II estiverem corretas.
+e) Se todas as afirmativas estiverem corretas.
+
+
+          Receita Federal (Analista Tributário) Estatística                                           81
+          www.estrategiaconcursos.com.br                                                              89
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+9. (FGV/SEFAZ-RJ/2011) O desvio-padrão da população {2; 4; 2; 4; 2; 4; 2; 4} é
+a) 1,5 .
+b) 1,0 .
+c) 2,5 .
+d) 2,0 .
+e) 3,0 .
+
+
+
+
+                                                               ==219a34==
+
+
+
+
+           Receita Federal (Analista Tributário) Estatística                     82
+           www.estrategiaconcursos.com.br                                        89
+
+                                         https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Desvio-Padrão
+
+  1. LETRA A                                  4. LETRA C                  7. LETRA B
+  2. LETRA C                                  5. LETRA C                  8. LETRA C
+  3. LETRA D                                  6. LETRA C                  9. LETRA B
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                               83
+       www.estrategiaconcursos.com.br                                                  89
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+
+                                 LISTA DE QUESTÕES – FGV
+
+Coeficiente de Variação (ou Dispersão Relativa)
+
+1. (FGV/TJ-AP/2024) Um grupo de funcionários possui desvio padrão salarial igual a R$ 1 mil. Após receber
+um aumento linear de R$ 2,5 mil, o novo coeficiente de variação salarial passou a ser igual a 0,08.
+O percentual médio de aumento salarial foi de:
+a) 5;
+b) 10
+c) 15;
+d) 20;
+e) 25.
+
+
+2. (FGV/PC AM/2022) Suponha que um pesquisador tenha as seguintes informações de uma amostra de
+dados:
+Média = 5
+Variância = 25
+Soma dos desvios absolutos em relação à média = 10
+Tamanho da amostra = 5
+Assim, o coeficiente de variação dessa amostra em termos decimais será igual a
+a) 1.
+b) 2.
+c) √5.
+d) 5.
+e) 10.
+
+
+3. (FGV/IBGE/2017) Alguns economistas estão discutindo sobre a volatilidade dos preços em duas
+economias, relativamente parecidas, tendo como moedas peras (A) e maçãs (B). Sabe-se que as médias
+dos preços são 100 peras e 120 maçãs, respectivamente. É fornecido, ainda, o desvio-padrão dos preços
+em A, igual a 25 peras, e a variância em B, igual a 400 maçãs ao quadrado.
+Considerando as principais medidas estatísticas de dispersão como medidas de volatilidade, é correto
+afirmar que:
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                            84
+         www.estrategiaconcursos.com.br                                                               89
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 04
+
+
+
+a) O desvio padrão dos preços em A é inferior ao de B;
+b) A taxa de conversão da moeda A para B é de 1,2;
+c) A taxa de inflação em A deve ser menor do que em B;
+d) Os preços em B são, em média, mais caros do que em A;
+e) A medida adimensional de dispersão de A é superior à de B.
+
+
+4. (FGV/IBGE/2016) As principais medidas de dispersão utilizadas na estatística são a amplitude (A), a
+variância (Var), o desvio padrão (DP), o coeficiente de variação (CV) e o desvio-interquartílico (DI). Sobre
+o tema, é correto afirmar que:
+a) As medidas acima listadas têm seus valores dependentes, na íntegra, dos valores da distribuição amostral;
+b) A variância apresenta a vantagem de ser diretamente comparável com os valores da distribuição;
+c) É possível afirmar que var(x) ≥ dp(x);
+d) O desvio-interquartílico é sempre superior ou no mínimo igual à amplitude;
+e) O coeficiente de variação é uma medida invariante às mudanças de escala.
+
+
+5. (FGV/AL-BA/2014) A tabela a seguir mostra média e desvio padrão das notas dos alunos em um exame
+nacional em cinco estados diferentes:
+
+                                                        Média      Desvio padrão
+
+                                      Estado I               500            100
+
+                                     Estado II               600            120
+
+                                     Estado III              500            140
+
+                                     Estado IV               450            120
+
+                                     Estado V                600            100
+
+Assinale a opção que indica o Estado que apresentou o menor coeficiente de variação das notas.
+a) I
+b) II
+c) III
+d) IV
+e) V
+
+
+         Receita Federal (Analista Tributário) Estatística                                               85
+         www.estrategiaconcursos.com.br                                                                  89
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+
+6. (FGV/SEN/2008) O coeficiente de variação amostral (em porcentagem) de um conjunto de salários é
+110%.
+Se os salários desse conjunto forem reajustados em 20%, o novo coeficiente de variação amostral será:
+a) 110%.
+b) 112,2%.
+c) 114,2%.
+d) 122%.
+e) 130%.
+
+
+7. (FGV/SEFAZ-RJ/2008) Uma companhia utiliza um sistema de avaliação de desempenho de seus
+funcionários por meio de dois indicadores de performance: Qualidade das tarefas e a Tempestividade com
+que as tarefas são realizadas.
+Os funcionários receberam, na última avaliação, as medidas indicadas na tabela a seguir:
+
+                                                                        Indicador
+                               Medidas
+                                                            Qualidade         Tempestividade
+
+                                Média                          50                   25
+
+                           Desvio-Padrão                      10,0                  6,0
+
+                           Coeficiente de
+                                                               20                   24
+                            Variação %
+
+Com base na tabela, é correto afirmar que:
+a) a média aritmética não é uma boa medida para representar a performance dos funcionários em face do
+elevado nível de dispersão das avaliações.
+b) as avaliações da Qualidade foram mais dispersas do que as avaliações da Tempestividade.
+c) as avaliações da Qualidade foram mais homogêneas do que as da Tempestividade.
+d) os funcionários demoram mais para realizar as tarefas, mas a qualidade das tarefas é melhor.
+e) nada se pode afirmar sem o conhecimento do tamanho da amostra.
+
+
+8. (FGV/SEFAZ RJ/2007) Uma amostra de 100 servidores de uma repartição apresentou média salarial de
+R$ 1.700,00 com uma dispersão de R$ 240,00. Pode-se afirmar que:
+
+
+        Receita Federal (Analista Tributário) Estatística                                               86
+        www.estrategiaconcursos.com.br                                                                  89
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 04
+
+
+
+a) a média aritmética não é uma boa medida para representar a amostra em função do elevado valor do
+desvio-padrão.
+b) a melhor medida para representar a amostra é a remu-neração por unidade de desvio-padrão.
+c) o salário mediano representaria melhor a amostra de-vido ao alto nível de heterogeneidade dos salários
+na amostra.
+d) a amostra não é suficientemente grande para analisar-mos o valor encontrado para a média dos salários.
+e) a média aritmética pode perfeitamente representar os salários da amostra pelo fato de esta apresentar
+uma dispersão relativa inferior a 20%.
+
+
+
+                                                            ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                             87
+        www.estrategiaconcursos.com.br                                                                89
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 04
+
+
+
+
+                                         GABARITO – FGV
+
+Coeficiente de Variação (ou Dispersão Relativa)
+
+  1. LETRA E                                  4. LETRA E                  7. LETRA C
+  2. LETRA A                                  5. LETRA E                  8. LETRA E
+  3. LETRA E                                  6. LETRA A
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                               88
+       www.estrategiaconcursos.com.br                                                  89
+
+                                     https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,465 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_030_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ANAF
+---
+
+# ANAF
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRI
+
+ANAF
+                                                 Profª. Adriana Figueiredo
+
+            
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+VUNESP - 2018 - Prefeitura de Birigui - SP - Professor de Educação
+Infantil
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+VUNESP - 2018 - Prefeitura de Birigui - SP - Professor de Educação
+Infantil
+ Em conformidade com a norma-padrão, as lacunas da tira devem ser preenchidas,
+ respectivamente, com:
+
+ A) Por quê ... Porque
+ B) Porque ... Por quê
+ C) Por que ... Porque
+ D) Porquê ... Porque
+ E) Por que ... Por quê
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+VUNESP - 2019 - IPREMM - SP - Psicólogo Clínico e Organizacional
+A exemplo do que acontece no primeiro parágrafo, a expressão por que foi usada
+conforme a norma-padrão na frase:
+
+ A) Muitos que olham para as estátuas egípcias hoje não entendem o por que de
+ elas não terem nariz.
+ B) Por que muitas deidades tinham a função de transmitir oferendas com a mão
+ esquerda, essa era a mão vandalizada.
+ C) Partes da estátua eram quebradas, por que assim a força da imagem
+ supostamente seria desativada.
+ D) A explicação do por que de apenas algumas partes estarem danificadas não
+ estava apenas no fator tempo.
+ E) Não se sabia por que certas partes em baixo-relevo das estátuas também
+ estavam danificadas.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+VUNESP - 2018 - SAAE de Barretos - SP - Caixa
+Quanto ao uso de porque, porquê e por que, assinale a alternativa que apresenta
+frase corretamente escrita.
+
+ A) Os resultados são tão bons por que o estudo foi realizado com atenção.
+ B) Há sempre um porque por trás de problemas que afetam a mente.
+ C) Porquê esquizofrênicos e bipolares relatam seus sonhos de maneiras
+ diferentes?
+ D) Os pesquisadores foram questionados por que utilizaram um método
+ computacional.
+ E) As entrevistas porquê passaram os pacientes foram feitas no Nordeste.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+FCC - SABESP - Programa de Aprendizagem de Assistente
+Administrativo
+ Até onde terei deixado de perceber para onde se dirigia a Itália porque minha
+ observação era deficiente e até onde porque as curvas do caminho ainda não
+ eram visíveis? (2º parágrafo)
+
+ Os elementos sublinhados acima indicam, no contexto, noção de
+
+ A) finalidade.
+ B) conformidade.
+ C) consequência.
+ D) causa.
+ E) temporalidade.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+AOCP - Prefeitura de Juiz de Fora - MG - Operador de Máquinas I
+ Em relação ao uso dos porquês, assinale a alternativa correta.
+
+ A) Você não vem porque?
+ B) Você não vem por que?
+ C) Por quê você não vem?
+ D) Você não vem por quê?
+ E) Você não vem porquê?
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FCC - TRT - 15ª Região (SP) - Técnico Judiciário - Tecnologia da
+Informação
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+FCC - TRT - 15ª Região (SP) - Técnico Judiciário - Tecnologia da
+Informação
+ é porque estou morto
+
+ O elemento sublinhado acima também pode ser corretamente empregado na
+ lacuna da frase:
+
+ A) Não entendi o ...... da sua atitude na reunião.
+ B) Percebi logo ...... ele demorou para chegar.
+ C) ...... você não confia nas suas ideias?
+ D) Esclareça o ...... da necessidade desse procedimento.
+ E) Os jovens às vezes erram ...... são muito ansiosos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FCC -MPE-CE - Analista Ministerial - Ciências da Computação
+ Atente para as seguintes construções:
+
+ I. Meu coração, não sei porque, bate feliz quando te vê.
+
+ II. Sei que você se aborreceu comigo, só não sei por quê.
+
+ III. Ela partiu sem me esclarecer o porquê de seu descontentamento.
+
+ Está correto o emprego da forma pronominal sublinhada SOMENTE em
+ A) III.
+ B) II e III.
+ C) I e II.
+ D) I e III.
+ E) I.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+INSTITUTO AOCP - 2019 - Prefeitura de Vitória - ES - Agente
+Comunitário de Saúde
+ Em “Mas saibam que é possível que vocês encontrem resistências no caminho.
+ Não porque seus gestores não acreditam em vocês, mas porque a mudança é um
+ processo.”, assinale alternativa correta quanto ao que se afirma a respeito do
+ termo “porque”.
+
+ A) O primeiro “porque”, em destaque, deveria estar acentuado, pois se trata de
+ um substantivo.
+ B) Ambos são formados por pronomes e poderiam ser substituídos por “por qual”.
+ C) Nos dois casos, os termos estão escritos adequadamente.
+ D) O segundo “porque”, em destaque, pode ser substituído pela palavra “motivo”,
+ sem prejuízo semântico.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+INSTITUTO AOCP - 2019 - TJ-MG - Juiz Leigo
+ Assinale a alternativa que justifica corretamente a ortografia do termo em
+ destaque no trecho “Eis por que as primeiras línguas foram cantantes [...]”.
+
+ A) Tem função explicativa à informação que o precede e pode ser substituído por
+ “visto que”.
+ B) Por introduzir um motivo subjetivo à assertiva apresentada previamente,
+ poderia ser substituído por “por qual motivo”.
+ C) Está sendo utilizado em uma pergunta indireta, com função retórica, e
+ encontra-se posicionado na parte inicial da oração.
+ D) Equivale ao substantivo “razão”. Além disso, poderia ser grafado “porque”, pois
+ introduz uma explicação.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+AOCP - CODEM - PA - Analista Fundiário – Advogado
+Em “Os cientistas não sabem explicar o porquê”, a palavra destacada é assim
+escrita, pois
+
+ A) está sendo usada como substantivo, significando “motivo”.
+ B) está sendo utilizada para introduzir uma causa ou explicação.
+ C) funciona como pronome relativo, equivalente a “por qual razão”.
+ D) introduz frase interrogativa.
+ E) está sendo utilizada em final de frase.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FGV - 2016 - COMPESA - Analista de Gestão - Advogado
+ Assinale a frase em que a grafia do vocábulo sublinhado está inadequada.
+
+ A) As autoridades dizem a toda hora que estão profundamente preocupadas com
+ o crime organizado. Por quê? Preferem o crime esculhambado?
+ B) Responda depressa: por que, na máquina escrever, o alfabeto não está em
+ ordem alfabética?
+ C) Quando a mulher diz que depois do marido nunca mais vai querer saber de
+ outro homem é porque pensa que nunca mais vai encontrar outro igual ou porque
+ tem medo de só encontrar outros iguais?
+ D) Por que é que, na estrada, o molenga está sempre na nossa frente e o
+ apressadinho vem sempre atrás?
+ E) Entre o porque e o por quê há mais bobagem gramatical do que sabedoria
+ semântica.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+FGV - Prefeitura de Salvador - BA - Técnico de Nível Médio II –
+Operacional
+ Assinale a frase em que a grafia do vocábulo sublinhado está equivocada.
+
+ A) Por que sentimos calafrios?
+ B) A razão porque sentimos calafrios é conhecida.
+ C) Qual o porquê de sentirmos calafrios?
+ D) Sentimos calafrios porque precisamos defender nossa audição.
+ E) Sentimos calafrios por quê?
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV - TJ-PI - Analista Judiciário - Oficial de Justiça e Avaliador
+ “Isso acontece porque o telefone realmente tira a atenção dos motoristas".
+
+ Nessa frase do texto 1, a forma “porque" aparece corretamente grafada; a frase
+ abaixo em que essa forma deveria ser substituída por “por que" é:
+
+ A) Deixou o celular porque o prejudicava;
+ B) Não sabia porque os aparelhos eram abandonados;
+ C) Desconhecia o porquê de os jovens ficarem viciados;
+ D) Todos viajavam porque lá os celulares eram mais baratos;
+ E) Não usavam celulares porque não confiavam nos aparelhos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+CESPE - 2019 - MPC-PA - Conhecimentos Gerais - Cargos de Nível
+Superior
+ Cada uma das opções a seguir apresenta uma proposta de reescrita para o
+ seguinte trecho do texto CG1A1-I: “Qual é o motivo de a sustentabilidade ser tão
+ importante para a economia?” Imagem associada para resolução da questão
+ Assinale a opção em que a proposta indicada mantém os sentidos e a correção
+ gramatical do texto.
+
+ A) Porque a sustentabilidade é tão importante para a economia?
+ B) Por quê a sustentabilidade é tão importante para a economia?
+ C) Porquê a sustentabilidade é tão importante para a economia?
+ D) Por que a sustentabilidade é tão importante para a economia?
+ E) Pra quê a sustentabilidade é tão importante para a economia?
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE - 2016 - FUNPRESP-EXE - Conhecimentos Básicos - Cargos de 1 a
+6e8
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+CESPE - 2016 - FUNPRESP-EXE - Conhecimentos Básicos - Cargos de 1 a
+6e8
+ Sem prejuízo para a correção gramatical do período, a expressão “por quê" (l.23)
+ poderia ser substituída por o porquê.
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE / CEBRASPE - 2019 - TJ-AM - Analista Judiciário - Analista de
+Sistemas
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+CESPE / CEBRASPE - 2019 - TJ-AM - Analista Judiciário - Analista de
+Sistemas
+ A correção gramatical do texto seria mantida se o vocábulo “porque” (ℓ.23) fosse
+ substituído por por que.
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE - 2018 - SEDUC-AL - Conhecimentos Básicos
+
+ Sem prejuízo da correção gramatical do texto, a locução “Por que” poderia ser
+ substituída por Porque no trecho “Por que falharam os programas de formação?”
+ (l.16).
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+ADAPTADA Prova: CESPE - 2013 - MME - Nível Médio - Conhecimentos
+Básicos - Todos os Cargos
+TÍTULO: Horário de verão — o que é e por que é adotado
+
+ A correção gramatical do texto seria mantida caso se substituísse o trecho “por
+ que é adotado” (título) por porque é adotado?
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE / CEBRASPE - 2019 - Prefeitura de São Cristóvão - SE - Professor
+de Educação Básica - Matemática
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE / CEBRASPE - 2019 - Prefeitura de São Cristóvão - SE - Professor
+de Educação Básica - Matemática
+ A correção gramatical do texto seria mantida caso a expressão “por que” (l.18)
+ fosse substituída por porque.
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+CESPE / CEBRASPE - 2021 - MPE-SC - Promotor de Justiça Substituto -
+Prova 2
+ 1º PARÁGRAFO: Quando falamos em direito, estamos falando inicialmente de um
+ enorme conjunto de regras obrigatórias, o chamado direito positivo. Mas o
+ vocábulo direito é usado também para o curso de Direito, a assim chamada
+ “ciência do Direito”. Numa terceira acepção, a palavra designa os direitos de cada
+ um de nós, chamados de direitos subjetivos, pois somos os sujeitos, os titulares,
+ desses direitos.
+
+ Seria mantida a correção gramatical do texto caso a conjunção “pois”, no último
+ período do primeiro parágrafo, fosse substituída por por que.
+
+ Certo
+ Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                     @professoraadrianafigueiredo
+
+              youtube.com/user/professoraadrianaf
+
+                facebook.com/prof.adriana.figueiredo
+
+
+                 
+
+
+---
+
+---

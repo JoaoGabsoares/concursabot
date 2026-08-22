@@ -1,0 +1,246 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 21_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '21'
+titulo_aula: CPC 04 – INTANGÍVEL
+---
+
+# CPC 04 – INTANGÍVEL
+
+CPC 04 – INTANGÍVEL
+  QUESTÕES FCC
+
+                                         Prof. Gilmar Possati
+
+    
+
+
+---
+
+A empresa Invenções Nacionais S.A. apresentava, no Balanço Patrimonial de 31/12/2020, um
+ativo intangível com vida útil indefinida registrado no subgrupo Intangíveis do Ativo não
+Circulante. O ativo não corresponde a ágio pago por expectativa de resultados futuros e o seu
+saldo contábil era composto dos seguintes valores:
+
+●     Custo de aquisição .................................................. R$ 3.800.000,00
+(–) Perda por desvalorização (impairment) ............ R$ (800.000,00)
+(=) Saldo contábil ................................................... R$ 3.000.000,00
+
+Em 31/12/2021 a empresa identificou as seguintes informações sobre esse ativo intangível,
+com os valores expressos em reais:
+●    Valor em uso .............................................................. R$ 4.000.000,00
+Valor justo líquido das despesas de venda ............ R$ 2.800.000,00
+
+                                                                                  @profgilmarpossati   @canalcontabilizando
+                                             
+
+
+---
+
+(FCC/SEFAZ-PI/2025)
+O saldo contábil do ativo intangível que deveria ser apresentado no Balanço Patrimonial de
+31/12/2021 da empresa Invenções Nacionais S.A. era:
+(A) R$ 4.000.000,00
+(B) R$ 2.800.000,00
+(C) R$ 3.500.000,00
+(D) R$ 3.000.000,00
+(E) R$ 3.800.000,00
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Passo 1: Calcular o Valor Recuperável
+Valor recuperável é o maior valor entre:
+✓ Valor em uso: R$ 4.000.000
+✓ Valor justo líquido de despesas de venda: R$ 2.800.000
+Logo, o valor recuperável é de R$ 4.000.000
+
+ Passo 2: Comparar com Valor Contábil
+                          Descrição                                        Valor
+
+              Valor Contábil em 31/12/2021                             R$ 3.000.000
+
+              Valor Recuperável                                        R$ 4.000.000
+
+              Diferença                                                +R$ 1.000.000
+
+Conclusão: O valor contábil (R$ 3.000.000) é MENOR que o valor recuperável (R$
+4.000.000).
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Passo 3: Aplicar a Regra de Impairment
+Conforme o CPC 01:
+✓ Se Valor Contábil > Valor Recuperável → Registra perda por impairment
+✓ Se Valor Contábil < Valor Recuperável → Reverte (total ou parcialmente) perda anterior
+  de impairment
+✓ Se Valor Contábil = Valor Recuperável → Sem movimentação
+Neste caso, temos: Valor Contábil < Valor Recuperável. Logo, devemos reverter parte ou
+toda a perda de impairment anterior.
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Passo 4: Calcular a Reversão
+A empresa havia registrado uma perda de impairment de R$ 800.000 em período anterior
+(constante no saldo de 31/12/2020).
+Limite máximo de reversão: Reversão = Mínimo entre:
+✓ Perda anterior de impairment acumulada: R$ 800.000
+✓ Diferença entre valor recuperável e valor contábil: R$ 1.000.000
+  Logo, a reversão é de R$ 800.000
+Importante: A reversão nunca pode ultrapassar a perda anteriormente reconhecida.
+
+Passo 5: Novo Saldo Contábil em 31/12/2021
+Saldo Contábil = R$3.000.000 + R$800.000 = R$3.800.000
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+(FCC/SEFAZ-PI/2025)
+O valor reconhecido no resultado de 2021 da empresa Invenções Nacionais S.A., referente ao
+ativo intangível, foi
+(A) R$ 800.000,00 (positivo).
+(B) R$ 0,00.
+(C) R$ 500.000,00 (positivo).
+(D) R$ 1.000.000,00 (positivo).
+(E) R$ 200.000,00 (negativo).
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(FCC/TRT11/2024)
+Em 20X3, depois de meses de pesquisa e desenvolvimento, uma empresa do tipo fintech
+concluiu o projeto de criação de um software de serviços financeiros. A empresa estima ter
+incorrido em gastos no valor de R$ 100.000,00 durante a fase de pesquisa e mais R$
+200.000,00 durante a fase de desenvolvimento, este último destinado a materiais e serviços
+consumidos na produção do software. Como há um mercado latente e já foram feitos testes
+com protótipos, sabe-se que a entrada de benefícios econômicos para a empresa através da
+venda de licenças do software é certa, sendo que seu valor justo é estimado em R$
+1.000.000,00. A empresa incorreu também em gastos com o registro de patente no valor de
+R$ 5.000,00, com treinamento de pessoal para operar o software no valor de R$ 20.000,00 e
+gastos com publicidade e propaganda no valor de R$ 50.000,00. Assuma que as vendas das
+licenças ainda não iniciaram. O valor pelo qual o software deve ser inicialmente reconhecido
+no Balanço Patrimonial da empresa é, em reais,
+a) 205.000,00.
+b) 375.000,00.       Custo do Software = Desenvolvimento + Registro de Patente
+c) 1.000.000,00.
+                     Custo do Software = R$ 200.000 + R$ 5.000 = R$ 205.000
+d) 300.000,00.
+e) 225.000,00.
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(FCC/Pref. J. Guararapes/2024)
+
+Em 01/06/2022, a empresa Batucada SA realizou a aquisição de uma licença de uso de
+software destinado ao controle de seu processo produtivo pelo período de 8 anos. A licença é
+comercializada pelo valor de R$ 130.000,00, mas a entidade conseguiu um desconto comercial
+de R$ 10.000,00. Além disso, incorreu nos seguintes gastos adicionais:
+- Impostos de importação no valor de R$ 15.000,00;
+- Honorários de profissionais responsáveis pela integração do software adquirido com os
+demais sistemas já utilizados pela empresa, para deixá-lo em condições operacionais
+adequadas, no valor de R$ 9.000,00;
+- Honorários de profissionais responsáveis por serviço de treinamento dos supervisores de
+produção que utilizarão o software, no valor de R$ 7.500,00.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(FCC/Pref. J. Guararapes/2024)
+- Em 31/05/2024, em virtude do lançamento de software de controle de produção mais
+moderno no mercado, os gestores da Batucada S.A. decidiram realizar um teste de
+impairment, para verificar se houve uma redução na expectativa de valor recuperável do ativo.
+O teste evidenciou que o valor presente dos fluxos de caixa futuros que devem advir do ativo,
+estimado na referida data, era de R$ 86.000,00, enquanto seu valor justo foi estimado em R$
+95.000,00. Sabe-se que as despesas de venda do ativo seriam de R$ 6.000,00. Considere,
+ainda, que a entidade utiliza o método de amortização linear e que não haverá valor residual
+do ativo.
+Com base na NBC TG 04-Ativo Intangível, o reconhecimento inicial da aquisição da licença de
+uso de software no Balanço Patrimonial da empresa Batucada S.A., em 01/06/2022, foi feito
+pelo valor de, em reais,
+a) 120.000,00
+b) 161.500,00
+c) 151.500,00
+d) 144.000,00
+e) 135.000,00
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Preço de compra                  R$ 130.000
+(-) Desconto Comercial           (R$ 10.000)
+(+) Impostos de importação       R$ 15.000
+(+) Honorários                   R$ 9.000
+Total                            R$ 144.000
+
+D - Ativo Intangível (Licença de Software)
+C - Caixa/Contas a Pagar ... R$ 144.000
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+(FCC/ALAP/2020)
+A Cia. Investidora apresentou em seu Balanço Patrimonial de 31/12/2017 um ativo intangível
+com vida útil indefinida registrado pelo valor contábil de R$ 750.000,00, o qual era composto
+pelos seguintes valores:
+− Custo de aquisição: R$ 950.000,00.
+− Perda por desvalorização (impairment): R$ 200.000,00.
+Em 31/12/2018, a empresa realizou o teste de recuperabilidade (impairment) para este ativo
+intangível e obteve as seguintes informações:
+− Valor em uso: R$ 1.000.000,00.
+− Valor justo líquido das despesas de venda: R$ 700.000,00.
+Com base nessas informações e sabendo-se que o ativo não corresponde a ágio pago por
+expectativa de resultados futuros, a Cia. Investidora
+a) manteve, no ativo, o valor contábil de R$ 750.000,00.
+b) reconheceu, no resultado de 2018, um ganho no valor de R$ 250.000,00.
+c) reconheceu, no resultado de 2018, uma perda por desvalorização no valor de R$ 50.000,00.
+d) reconheceu, no resultado de 2018, um ganho no valor de R$ 200.000,00.
+e) reconheceu, no resultado de 2018, um ganho no valor de R$ 50.000,00.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+---

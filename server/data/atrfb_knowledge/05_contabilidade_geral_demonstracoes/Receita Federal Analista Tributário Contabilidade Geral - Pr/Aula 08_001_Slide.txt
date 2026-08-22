@@ -1,0 +1,807 @@
+Contabilidade
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+
+
+          https://t.me/KakashiAssinaturasBot
+  Começando do Zero
+  Receita Federal 2022
+PREPARAÇÃO COMPLETA
+                                           Prof. Silvio Sande
+
+
+
+      https://t.me/KakashiAssinaturasBot
+                        Ativo Circulante
+                     Ajuste a Valor presente
+
+
+                                                              Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+   Ativo Circulante – DUPLICATAS A RECEBER
+Créditos
+Contas a Receber
+Clientes
+Duplicatas a Receber
+Duplicatas emitidas
+Nota promissória a receber
+Nota promissória aceita
+Empréstimo concedido
+Adiantamento a terceiros
+Adiantamento Salarial
+Serviços Prestados a Faturar
+Icms a Recuperar
+Faturamento para entrega Futura
+Perdas estimadas com Créditos de Liquidação Duvidosa
+Ajuste a Valor Presente
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+AJUSTE A VALOR PRESENTE
+Art.183 Lei 6.404/76
+
+VIII – os elementos do ativo decorrentes de operações de longo prazo
+serão ajustados a valor presente, sendo os demais ajustados quando
+houver efeito relevante. (Incluído pela Lei nº 11.638,de 2007) (Vide Lei nº
+12.973, de 2014)
+
+
+
+
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+                              CPC 12
+                     Ajuste a Valor Presente
+
+
+                                                                Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+Objetivo
+ O objetivo deste Pronunciamento é estabelecer os requisitos básicos a serem
+ observados quando da apuração do Ajuste a Valor Presente de elementos do ativo e
+ do passivo quando da elaboração de demonstrações contábeis, dirimindo algumas
+ questões controversas advindas de tal procedimento, do tipo:
+ (a)se a adoção do ajuste a valor presente é aplicável tão-somente a fluxos de caixa
+ contratados ou se porventura seria aplicada também a fluxos de caixa estimados ou
+ esperados;
+ (b)em que situações é requerida a adoção do ajuste a valor presente de ativos e
+ passivos, se no momento de registro inicial de ativos e passivos, se na mudança da
+ base de avaliação de ativos e passivos , ou se em ambos os momentos;
+ (c)se passivos não contratuais, como aqueles decorrentes de obrigações não
+ formalizadas ou legais, são alcançados pelo ajuste a valor presente;
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+Objetivo
+ O objetivo deste Pronunciamento é estabelecer os requisitos básicos a serem
+ observados quando da apuração do Ajuste a Valor Presente de elementos do ativo e
+ do passivo quando da elaboração de demonstrações contábeis, dirimindo algumas
+ questões controversas advindas de tal procedimento, do tipo:
+ (d)qual a taxa apropriada de desconto para um ativo ou um passivo e quais os
+ cuidados necessários para se evitarem distorções de cômputo e viés;
+ (e)qual o método de alocação de descontos (juros) recomendado;
+ (f)se o ajuste a valor presente deve ser efetivado líquido de efeitos fiscais.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                                 https://t.me/KakashiAssinaturasBot
+Aplicação do AVP
+ Para aplicação do Ajuste a valor presente são necessárias três informações:
+
+
+ - O valor do fluxo futuro.
+ - A data em que esses fluxos ocorrerá.
+ - A taxa de desconto que deve ser utilizada.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+Diferença entre AVP e Valor Justo
+ Valor presente(presente value) - é a estimativa do valor corrente de um fluxo de
+ caixa futuro, no curso normal das operações da entidade.
+ Valor justo(fair value) - é o valor pelo qual um ativo pode ser negociado, ou um
+ passivo liquidado, entre partes interessadas, conhecedoras do negócio e
+ independentes entre si, com a ausência de fatores que pressionem para a
+ liquidação da transação ou que caracterizem uma transação compulsória.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+Diferença entre AVP e Valor Justo
+ AVP: tem como objetivo efetuar o ajuste para demonstrar o valor presente de um
+ fluxo de caixa futuro. Para determinar o valor presente de um fluxo de caixa, três
+ informações são requeridas: valor do fluxo futuro (considerando todos os termos e
+ as condições contratados), data do referido fluxo financeiro e taxa de desconto
+ aplicável à transação.
+ Valor justo: tem como primeiro objetivo demonstrar o valor de mercado de
+ determinado ativo ou passivo; na impossibilidade disso, demonstrar o provável
+ valor que seria o de mercado por comparação a outros ativos ou passivos que
+ tenham valor de mercado; na impossibilidade dessa alternativa também,
+ demonstrar o provável valor que seria o de mercado por utilização do ajuste a valor
+ presente dos valores estimados futuros de fluxos de caixa vinculados a esse ativo
+ ou passivo; finalmente, na impossibilidade dessas alternativas, pela utilização de
+ fórmulas econométricas reconhecidas pelo mercado.
+Contabilidade
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+  Exemplo:
+ Uma empresa realiza uma venda no valor de 100.000 para recebimento em 2 anos e
+ que a taxa de juros da operação seja de 10% aa.
+ Contabilização da Venda
+
+
+
+
+ Reconhecimento da Receita financeira
+
+
+
+Contabilidade
+Prof. Silvio
+Sande                        https://t.me/KakashiAssinaturasBot
+ Reversão AVP
+ As reversões dos ajustes a valor presente dos ativos e passivos monetários
+ qualificáveis devem ser apropriadas como receitas ou despesas financeiras, a não
+ ser que a entidade possa devidamente fundamentar que o financiamento feito a seus
+ clientes faça parte de suas atividades operacionais, quando então as reversões serão
+ apropriadas como receita operacional. Esse é o caso, por exemplo, quando a
+ entidade opera em dois segmentos distintos: (i) venda de produtos e serviços e (ii)
+ financiamento das vendas a prazo, e desde que sejam relevantes esse ajuste e os
+ efeitos de sua evidenciação.
+
+ \
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+Não estão sujeitos ao ajuste a valor presente:
+ Imposto de Renda Diferido
+ Mútuos entre partes relacionadas contratados sem encargos financeiros ou com
+ juros diferentes das condições normais de mercado.
+ O adiantamento em dinheiro para recebimento ou pagamento em bens e serviços.
+
+ Financiamentos do BNDES
+
+
+
+
+Contabilidade
+Prof. Silvio
+Sande                        https://t.me/KakashiAssinaturasBot
+ Venda a Prazo por R$ 120.000, caso a venda
+ fosse à vista seria R$ 100.000.
+
+
+
+
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+ 01. (FGV/AFRE/SEFAZ ES/2021)
+Em relação aos elementos integrantes do balanço patrimonial, analise as
+afirmativas a seguir.
+
+I. Componentes do ativo decorrentes de operações de longo prazo.
+II. Componentes do passivo decorrentes de operações de longo prazo.
+III. Componentes do ativo decorrentes de operações de curto prazo com
+efeito relevante.
+IV. Componentes do passivo decorrentes de operações de curto prazo com
+efeito relevante.
+
+
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+De acordo com o Pronunciamento Técnico CPC 12 - Ajuste a Valor Presente,
+assinale a opção que indica as afirmativas que devem ser ajustadas a valor
+presente.
+ a) I e II, somente.
+ b) III e IV, somente.
+ c) I, II e III, somente.
+ d) II, III e IV, somente.
+ e) I, II, III e IV.
+
+
+
+
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+02. (FGV/ALERO/2018)
+Algumas contas classificadas como “Contas a receber” devem ter seu montante
+ajustado a valor presente.
+
+Assinale a opção que indica o(s) critério(s) para ajuste a valor presente.
+a) O ativo deve ser de curto prazo.
+b) O ativo deve ser de longo prazo.
+c) O ativo deve causar efeito relevante.
+d) O ativo deve ser de longo prazo com efeito relevante ou de curto prazo.
+e) O ativo deve ser de curto prazo com efeito relevante ou de longo prazo.
+
+
+
+
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+   03. (FGV/PAULÍNIA/2016)
+ Uma empresa de serviços concedeu a um de seus clientes, em caráter especial,
+ prazo de pagamento de 24 meses. O preço cobrado pela empresa a prazo foi 30%
+ superior ao preço à vista, de modo que a empresa reconheceu o ajuste a valor
+ presente.
+
+ De acordo com o Pronunciamento Técnico CPC 12 - Ajuste a Valor Presente, o
+ tratamento contábil da reversão do ajuste a valor presente do saldo de clientes
+ deve ser contabilizado como
+  a) receita operacional.
+  b) outras receitas operacionais.
+  c) receita financeira.
+  d) despesa operacional.
+  e) lucros ou prejuízos acumulados.
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+   04. (FGV/MPE-AL/2018)
+ Uma entidade comercial do setor de varejo efetua vendas a prazo dentro da sua
+ estratégia operacional.
+
+ De acordo com o Pronunciamento Técnico CPC 12 - Ajuste a Valor Presente, as
+ reversões dos ajustes a valor presente dos ativos monetários qualificáveis desta
+ entidade devem ser apropriadas como
+  a) receitas operacionais.
+  b) outras receitas operacionais.
+  c) receitas financeiras.
+  d) despesas operacionais.
+  e) despesas financeiras.
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+   05. (FGV/COMPESA/2014)
+ Uma empresa vendeu mercadorias a prazo no valor de R$ 100.000,00. Na
+ contabilização do valor como contas a receber, no balanço patrimonial desta
+ empresa, deve-se deduzir
+ A as perdas estimadas em crédito de liquidação duvidosa e a provisão para perda
+ de estoques.
+ B as perdas estimadas em crédito de liquidação duvidosa e o ajuste a valor
+ presente.
+ C o ajuste a valor presente e a provisão para devoluções
+ D a provisão para devoluções e o ICMS sobre vendas.
+ E a provisão para devoluções e as perdas estimadas em créditos de liquidação
+ duvidosa.
+
+Contabilidade
+Prof. Silvio Sande
+                             https://t.me/KakashiAssinaturasBot
+06. (FGV/TJ-RO/2021)
+Texto 1
+  A Cia. Alfa efetuou uma venda a prazo no valor de R$ 10.000 para recebimento em
+parcela única, com vencimento em três anos.
+  Caso a venda fosse efetuada à vista, de acordo com opção disponível, o valor da
+venda teria sido de R$ 7.513. A taxa considerada na transação (10%) corresponde à
+taxa de mercado, na data da transação.
+  De acordo com as orientações do Pronunciamento Técnico CPC 12 - Ajuste a Valor
+Presente, essa transação:
+  a) deve gerar reconhecimento de receita financeira apenas no vencimento do
+prazo;
+  b) deve ser contabilizada, no reconhecimento inicial, pelo valor a receber no
+vencimento;
+ c) deve ser contabilizada, no reconhecimento inicial, pelo valor presente;
+ d) não está sujeita a ajuste a valor presente em decorrência do prazo curto;
+ e) não requer ajuste a valor presente, pois a taxa da transação corresponde à taxa
+de mercado.                      https://t.me/KakashiAssinaturasBot
+07. (CESPE/SEFAZ-RS/2018)
+Uma indústria vendeu um equipamento industrial usado por R$ 400.000, para
+pagamento em seis meses, com juros implícitos de 1,0% ao mês. A transação
+transcorreu em condições normais de mercado.
+
+Considerando 0,94 como valor aproximado para 1,01-6, assinale a opção
+correspondente à contabilização inicial da transação pelo vendedor.
+
+a) D – contas a receber     R$ 400.000
+   C – receita de capital    R$ 400.000
+
+b) D – contas a receber     R$ 400.000
+   C – receita de juros     R$ 25.000
+   C – receita de capital   R$ 375.000
+
+Prof. Silvio Sande
+                               https://t.me/KakashiAssinaturasBot
+ c) D – contas a receber      R$ 375.000
+   C – juros ativos a transcorrer R$ 25.000
+   C – receita de capital         R$ 400.000
+
+ d) D – contas a receber         R$ 376.000
+   D – juros a receber           R$ 24.000
+   C – receita de capital        R$ 400.000
+
+ e) D – contas a receber          R$ 400.000
+   C – juros ativos a transcorrer R$ 24.000
+   C – receita de capital         R$ 376.000
+
+
+
+
+Prof. Silvio Sande
+                                https://t.me/KakashiAssinaturasBot
+08. (IBFC/EBSERH/2020)
+A Cia Tubo Certo realizou em 31/12/17, uma venda no valor de R$ 550.000,00.
+Recebeu R$ 150.000,00 à vista e o restante será recebido em 31/03/18. Se o
+cliente Beta tivesse realizado a compra à vista, teria pago R$ 490.000,00, porém o
+cliente optou pelo pagamento com juros. De acordo com essas informações,
+assinale a alternativa que apresenta o valor da receita de vendas que a Cia Tubo
+certo reconheceu em seu resultado no momento da venda.
+ a) R$ 490.000,00 e uma receita financeira de R$ 60.000,00
+ b) R$ 550.000,00
+ c) R$ 400.000,00
+ d) R$ 490.000,00
+ e) R$ 550.000,00 e uma despesa financeira de R$ 60.000,00
+
+
+                             https://t.me/KakashiAssinaturasBot
+09. (FCC/SEFAZ-SC/2018)
+No dia 30/11/2017, a Cia. das Aves realizou as seguintes vendas de mercadorias
+− Vendas à vista no valor de R$ 1.500.000,00.
+− Vendas a prazo no valor nominal de R$ 2.300.000,00 que será recebido
+integralmente em 30/04/2019.
+
+Na data da venda a empresa praticava a taxa de juros de 0,83% ao mês, que
+corresponde a 15% para o período das vendas a prazo.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Em relação às vendas efetuadas em 30/11/2017, a Cia. das Aves deveria
+reconhecer Receita de Vendas no valor de
+
+a) R$ 3.800.000,00 no resultado de 2017, apenas.
+
+b) R$ 3.500.000,00 no resultado de 2017, apenas.
+
+ c) R$ 3.500.000,00 e Receita Financeira no valor de R$ 300.000,00, ambos no
+resultado de 2017.
+
+ d) R$ 3.500.000,00 e Receita Financeira no valor de R$ 16.600,00, ambos no
+resultado de 2017.
+
+ e) R$ 3.455.000,00 e Receita Financeira no valor de R$ 16.226,50, ambos no
+resultado de 2017.
+                            https://t.me/KakashiAssinaturasBot
+10. (FGV/TJ-RO/2021)
+Texto 1
+ A Cia. Alfa efetuou uma venda a prazo no valor de R$ 10.000 para recebimento em
+parcela única, com vencimento em três anos.
+  Caso a venda fosse efetuada à vista, de acordo com opção disponível, o valor da
+venda teria sido de R$ 7.513. A taxa considerada na transação (10%) corresponde à
+taxa de mercado, na data da transação.
+Considere as informações do texto e suponha que a Cia. Alfa desejasse apurar o
+valor justo daquela transação ao final do primeiro ano, após a venda, momento em
+que a taxa foi alterada para 12%.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+Nesse cenário, o valor justo das contas a receber, calculado mediante o ajuste a
+valor presente nessa nova data e com a atual condição de mercado, equivale a:
+A)R$ 6.611;
+B) R$ 7.972;
+C) R$ 8.264;
+D) R$ 8.800;
+E) R$ 9.091.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Silvio Sande
+
+
+
+     https://t.me/KakashiAssinaturasBot
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+
+
+          https://t.me/KakashiAssinaturasBot
+                     Ativo Circulante
+                       ESTOQUES
+
+
+                                                          Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+   Balanço Patrimonial - Ativos
+Art. 179. As contas serão classificadas do seguinte modo:
+I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso
+do exercício social subsequente e as aplicações de recursos em despesas
+do exercício seguinte;
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+   Ativo Circulante
+os direitos realizáveis no curso do exercício social subsequente
+
+Estoques
+São bens tangíveis ou intangíveis adquiridos ou produzidos pela empresa
+com o objetivo de venda ou utilização própria no curso normal de suas
+atividades.
+
+
+
+
+Contabilidade
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+ Estoques
+ Estoques são ativos:
+ (a) mantidos para venda no curso normal dos negócios;
+ (b) em processo de produção para venda
+ (c) na forma de materiais ou suprimentos a serem consumidos ou
+ transformados no processo de produção ou na prestação de serviços.
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+ Critérios de Avaliação
+ Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes
+ critérios:
+ .....
+ II - os direitos que tiverem por objeto mercadorias e produtos do comércio da
+ companhia, assim como matérias-primas, produtos em fabricação e bens em
+ almoxarifado, pelo custo de aquisição ou produção, deduzido de provisão para
+ ajustá-lo ao valor de mercado, quando este for inferior;
+ § 1o Para efeitos do disposto neste artigo, considera-se valor justo:
+
+ a) das matérias-primas e dos bens em almoxarifado, o preço pelo qual possam ser
+ repostos, mediante compra no mercado;
+ b) dos bens ou direitos destinados à venda, o preço líquido de realização mediante
+ venda no mercado, deduzidos os impostos e demais despesas necessárias para a
+ venda, e a margem de lucro;
+Prof. Silvio Sande
+                              https://t.me/KakashiAssinaturasBot
+ Estoques
+ Mercadorias
+ Produtos
+ Matérias-primas
+ Produtos em elaboração
+ Material de Consumo
+ Material de expediente
+ Mercadorias em trânsito
+ Importações em andamento(FOB ponto de embarque)
+ Mercadorias entregue em consignação
+ Adiantamento a fornecedor
+ Perdas Estimadas com redução ao valor realizável líquido
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+ Mercadorias
+ São os bens que as empresas comerciais adquirem com a finalidade de
+ revenda, sem industrializá-las. São revendidas da mesma forma como foram
+ adquiridas. Apurar o Resultado com Mercadorias(RCM) corresponde verificar se
+ houve lucro ou prejuízo nas operações de compra e vendas que é a atividade
+ principal de toda empresa comercial. O resultado com mercadorias é obtido
+ pela diferença das vendas pelo custo de mercadorias vendidas (RCM = VENDAS
+ – CMV). As vendas são facilmente calculadas através do somatório das notas
+ fiscais de vendas entretanto o custo das mercadorias vendidas não é obtido
+ facilmente tendo em vista que, na maioria das vezes, trata-se de mercadorias
+ adquiridas de diversos fornecedores por preços deferentes.
+
+
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+CMV – Custo da Mercadoria Vendida
+
+O CMV pode ser calculado através da expressão matemática CMV = EI + C
+– EF ou nas empresas que adotam o sistema de inventário permanente
+através do saldo da Conta CMV.
+
+
+
+
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+ Controle dos Estoques - Sistemas de Inventário
+ O controle desses estoques pode ser feito através do inventário permanente
+ ou do inventário periódico.
+
+
+ Inventário Permanente - a empresa controla o estoque de forma contínua,
+ dando baixa em cada operação de venda, logo
+
+ Inventário Periódico - os estoques são avaliados na data do balanço, através
+ do inventário físico, ou seja, alguém vai lá e faz a contagem do estoque. Por
+ este método, não há lançamento operação por operação. Apenas na data
+ de encerramento é que apuramos o estoque para ver o saldo.
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+Inventário Permanente
+Este é um sistema consiste em controlar permanentemente o valor do
+estoque de mercadorias. Assim, a cada compra efetuada, seu custo é
+incluído no estoque; e a cada venda efetuada, seu custo é diminuído do
+estoque, permitindo que o estoque de mercadorias fique atualizado
+constantemente.
+
+Para utilizar este método a empresa necessita de um esforço administrativo
+muito maior, possibilitando, por sua vez, um controle gerencial mais efetivo.
+
+
+
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+Inventário Permanente
+É necessária a manutenção de fichas de controle de estoque (uma para cada
+tipo de produto). Desta forma, o valor dos estoques existentes pode ser
+obtido a qualquer momento pelo saldo de conta patrimonial
+“Mercadorias”, diferentemente do que ocorre no sistema Inventário
+Periódico, onde o valor dos estoques somente é obtido após a contagem
+física do mesmo ao final do período.
+
+O custo das vendas é permanentemente acumulado (a cada venda) na conta
+“CMV”. Não há necessidade de contagem física, e nem se utiliza a conta
+“Compras”, uma vez que as entradas nos estoques vão direto para a conta
+“Mercadorias”.
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+Inventário Permanente
+
+- Mercadorias/Estoques – conta patrimonial, representativa dos estoques. É
+debitada nas aquisições e creditada nas saídas (vendas) das mesmas. Seu
+saldo apresentará SEMPRE o valor dos estoques naquele momento. Obs.:
+Não se utiliza a conta “Compras”.
+CMV (Custo das Mercadorias Vendidas) - conta de resultado
+(despesa/custo), debitada pelo valor do custo de cada venda, ao invés de
+ser debitada somente ao final do período, como no inventário periódico.
+- Vendas – é conta de resultado (receita). O seu funcionamento é o mesmo
+qualquer que seja o sistema de custeamento adotado pela empresa. É
+creditada pelo valor vendido (valor bruto). Também é conhecida como
+“Receita de Vendas”.
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+Inventário Permanente – Contabilização de Compras
+
+Nas compras (coluna de entradas da ficha de estoque)
+
+Estoques
+a Caixa/Bancos/Fornecedores
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Inventário Permanente – Contabilização das Vendas
+
+Registro da Venda
+
+D - Caixa/Clientes
+C – Receita de vendas
+
+Baixa no Estoque
+
+D – CMV
+C - Estoques
+
+
+Prof. Silvio Sande
+                        https://t.me/KakashiAssinaturasBot
+Avaliação dos Estoques
+A adoção do método do Inventário Permanente implica a necessidade de
+conhecer o custo da mercadoria a cada venda. Assim, é necessário que a
+empresa mantenha o controle permanente dos estoques através de fichas e
+que atribua custo às mercadorias, à medida em que elas forem vendidas.
+Métodos:
+
+PEPS
+UEPS
+MP
+PREÇO ESPECÍFICO
+
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+PEPS – Com base nesse critério para valoração dos estoques a empresa vai
+dando baixa nos estoques, a partir das primeiras compras, o que equivale
+ao seguinte raciocínio: vendem-se ou consomem-se antes as primeiras
+mercadorias compradas. Neste processo avalia-se o Estoque Final pelas
+aquisições mais recentes e o CMV pelas aquisições mais antigas.
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+UEPS –. Com base nesse critério para valoração dos estoques a empresa vai
+dando baixa nos estoques, a partir das últimas compras, o que equivale ao
+seguinte raciocínio: vendem-se ou consomem-se antes as últimas
+mercadorias compradas. Neste processo avalia-se o Estoque Final pelas
+aquisições mais antigas e o CMV pelas aquisições mais recentes.
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+Média Ponderada Móvel – Por este critério, o valor médio de cada unidade
+em estoque altera-se pelas compras de outras mercadorias por um preço
+diferente, . Esse método, mais comumente utilizado no Brasil, evita o
+controle de custos por lotes de compras, como nos métodos anteriores,
+mas obriga a maior número de cálculos ao mesmo tempo em que foge dos
+extremos, dando como custo de aquisição um valor médio das compras.
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Prof. Silvio Sande
+                     https://t.me/KakashiAssinaturasBot
+Resumo dos Métodos
+Observe que as únicas alterações existentes nos três métodos estão no
+valor do estoque final (Ef) e no valor do custo das mercadorias vendidas
+(CMV);
+
+Caso não ocorra alteração nos preços os resultados serão os mesmos
+independentes dos métodos
+
+
+
+
+Prof. Silvio Sande
+                          https://t.me/KakashiAssinaturasBot
+Resumo dos Métodos
+Observe que as únicas alterações existentes nos três métodos estão no valor do
+estoque final (Ef) e no valor do custo das mercadorias vendidas (CMV);
+
+O Método PEPS subavalia o CMV e superavalia o estoque final; (sistema
+Inlfacionário)
+
+O Método UEPS superavalia o CMV e subavalia o estoque final (não é
+aceito pela Legislação do Imposto de Renda); (sistema Inlfacionário)
+
+O Método do Custo Médio Ponderado – CMP, mantém o CMV e o estoque
+final (Ef) entre os valores obtidos através dos métodos anteriores;
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+Fatos que alteram Compras
+Descontos Incondicionais;
+
+Abatimentos sobre Compras;
+
+Devolução de Compras:
+
+Frete sobre Compras;
+
+Tributos incidentes sobre Compras
+
+
+
+Prof. Silvio Sande
+                            https://t.me/KakashiAssinaturasBot
+Descontos Incondicionais sobre Compras
+São descontos obtidos do fornecedor no momento da compra de
+mercadorias ou matérias-primas. Eles são conhecidos também como
+descontos comerciais, sendo concedidos, por exemplo, pela quantidade
+adquirida ou pela fidelidade do cliente.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+   Descontos Condicionais x Incondicionais
+
+
+
+
+Contabilidade
+Prof. Silvio
+Sande             https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Abatimentos sobre Compras
+São parcelas redutoras dos preços de compra em função de eventos
+ocorridos após o momento da compra. O valor não faz parte da nota fiscal,
+uma vez que a mesma foi emitida em momento anterior. Ensejam os
+abatimentos sobre compras: diferença de tipo, qualidade, quantidade, peso
+ou qualquer outro fator que esteja em desacordo com o pedido ou com a
+nota fiscal de compra, para evitar a devolução.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+(Contador -TRT -3ª Região)
+Os abatimentos sobre as compras
+A) alteram o valor dos estoques.
+B) alteram a quantidade existente no estoque.
+C) são registrados como uma saída na ficha de estoque.
+D) são registrados como despesas para o comprador.
+E) são registrados como uma receita para o vendedor.
+
+
+
+
+Prof. Silvio Sande
+                         https://t.me/KakashiAssinaturasBot
+Devoluções de Compras
+Correspondem a valores registrados anteriormente como compras. Ou
+seja, correspondem a devoluções de mercadorias adquiridas para revenda
+ou matérias- primas para a produção, resultando na diminuição das
+compras realizadas. Nessa operação, é emitida uma nota fiscal de
+devolução de vendas, sendo revertidos descontos condicionais obtidos e
+tributos incidentes sobre a compra.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Frete e Seguro sobre Compras
+Os gastos incorridos na aquisição de mercadorias que são necessários para
+colocar o estoque nas condições determinadas pela administração, como
+fretes, seguros, não são contabilizados como despesas, mas são somados
+ao custo do estoque.
+
+Se o transporte das mercadorias adquiridas fica sob a responsabilidade da
+empresa compradora, os gastos com fretes e seguros devem ser acrescidos
+ao custo das mercadorias adquiridas, não podendo ser considerados como
+despesas.
+
+
+Prof. Silvio Sande
+                           https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Silvio Sande
+
+
+
+     https://t.me/KakashiAssinaturasBot
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+
+
+          https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

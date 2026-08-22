@@ -1,0 +1,514 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 08_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: 08
+titulo_aula: ORAÇÃO
+---
+
+# ORAÇÃO
+
+ORAÇÃO
+
+
+                                                  FRASE QUE TEM VERBO
+
+                   ESTRUTURA BASE DA ORAÇÃO: SUVECA -> SUJEITO + VERBO + COMPLEMENTO + ADJUNTOS.
+
+                                       EX: EU COMPREI UMA BICICLETA SEMANA PASSADA.
+
+DICA! PARA FAZER A ANÁLISE SINTÁTICA DE ORAÇÕES EM QUE ESSES TERMOS ESTÃO INVERTIDOS:
+
+1) ACHE O VERBO.
+2) TENTE COLOCAR A SENTENÇA NA ORDEM DIRETA.        EX: MUDARAM AS ESTAÇÕES. (VERBO; SUJEITO SIMPLES POSPOSTO AO VERBO).
+3) PROCURE O SUJEITO DE CADA VERBO.
+
+DICA! PARA FAZER A ANÁLISE SINTÁTICA DE PERÍODOS EXTENSOS:
+
+1) LOCALIZE O VERBO.                               EX: AQUELAS DEZENOVE DISCUTÍVEIS LEIS SOBRE AS QUAIS PAIRA, SEGUNDO MELHOR JUÍZO
+2) IDENTIFIQUE A PESSOA (1ª, 2ª, 3ª) E O NÚMERO    DO OPERADOR DO DIREITO, SUSPEITA DE INCONSTITUCIONALIDADE SUPERVENIENTE
+   (SINGULAR/PLURAL) DO VERBO.                     SUPOSTAMENTE — SE TUDO DER CERTO — SERÃO VOTADAS HOJE. (NÚCLEO DO SUJEITO;
+
+3) LOCALIZE O SUJEITO.                             VERBO).
+
+                                                                                                                          PORTUGUÊS
+                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                    SUJEITO E PREDICADO
+
+           SUJEITO                                               ENTIDADE SOBRE A QUAL SE DECLARA ALGO NA ORAÇÃO.
+                                    ❑ TEM SEMPRE UM NÚCLEO, QUE É O TERMO MAIS IMPORTANTE: UM SUBSTANTIVO, UM PRONOME OU UM
+                                      TERMO SUBSTANTIVADO (COMO NUMERAL, VERBO NO INFINITIVO,...).
+
+
+                                    ❑ AO REDOR DO NÚCLEO EXISTEM OS DETERMINANTES QUE O “ESPECIFICAM” E “DELIMITAM”, COMO
+                                      ARTIGOS, NUMERAIS, PRONOMES,...
+
+ATENÇÃO! O VERBO SE FLEXIONA PARA                                                     SUJEITO X REFERENTE
+CONCORDAR EM NÚMERO E PESSOA COM
+                                         TERMO SINTÁTICO COM O QUAL O VERBO                         TERMO SEMÂNTICO COM O QUAL O VERBO SE
+O NÚCLEO DO SUJEITO.
+                                                     CONCORDA.                                                   RELACIONA.
+
+                                                                                 NEM SEMPRE IRÃO COINCIDIR!
+                                                                              EX: OS MENINOS JOGAM FUTEBOL.
+                                                                     “OS MENINOS” = SUJEITO E REFERENTE DO VERBO “JOGAR”.
+                                                                               SUJEITO E REFERENTE SÃO IGUAIS!
+                                                 EX: VI OS MENINOS QUE JOGAM FUTEBOL. (1° ORAÇÃO; 2° ORAÇÃO).
+                                     NA 2° ORAÇÃO: “QUE” = SUJEITO DO VERBO “JOGAR”; “OS MENINOS” = REFERENTE DO VERBO “JOGAR”,
+                                                         POIS SEMANTICAMENTE SÃO OS MENINOS QUE JOGAM.
+                                                                 SUJEITO E REFERENTE SÃO DIFERENTES!
+
+        PREDICADO                                                            DECLARAÇÃO FEITA A RESPEITO DO SUJEITO.
+
+                                     EX: DOIS CÃES FEROZES BRIGARAM NA PADARIA.
+                                            (SUJEITO SIMPLES; PREDICADO).                                                    PORTUGUÊS
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               TIPOS DE SUJEITO
+
+
+                                                AQUELE QUE ESTÁ VISÍVEL NO TEXTO, POR ISSO SABEMOS EXATAMENTE QUEM ESTÁ
+SUJEITO DETERMINADO                             PRATICANDO (OU RECEBENDO) A AÇÃO VERBAL.
+
+                                                                                      EX: ELA FUMA. (SUJEITO SIMPLES -> UM NÚCLEO).
+                                                                     EX: JOÃO E MARIA FUMAM. (SUJEITO COMPOSTO -> MAIS DE UM NÚCLEO).
+
+
+  SUJEITO ORACIONAL                SUJEITO POSSUI VERBO.                                      EX: EXPORTAR MAIS É PRECISO.
+
+                      ATENÇÃO! QUANDO O SUJEITO É ORACIONAL,                             (SUJEITO ORACIONAL – NÚCLEO: EXPORTAR [1° VERBO];
+                      O VERBO DO PREDICADO FICA NO SINGULAR.                                           PREDICADO [2° VERBO]).
+
+
+                                                                                              EX: JOÃO FOI RAPTADO POR ESTUDANTES BARBUDOS.
+   SUJEITO PACIENTE                SUJEITO RECEBE A AÇÃO VERBAL.
+                                                                                              (SUJEITO PACIENTE -> VOZ PASSIVA ANALÍTICA).
+
+                                                                                              EX: ADMITE-SE QUE O ESTADO NÃO PODE AJUDAR.
+                                                                                              (SUJEITO PACIENTE -> VOZ PASSIVA SINTÉTICA).
+
+                                                                                                                                           PORTUGUÊS
+                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                             TIPOS DE SUJEITO
+
+
+                                                                                    É DETERMINADO, SENDO IDENTIFICADO PELA TERMINAÇÃO
+SUJEITO OCULTO/ELÍPTICO/DESINENCIAL                                                 DO VERBO (DESINÊNCIA) OU PELO CONTEXTO.
+
+                                                                                    EX: CONSULTEI MEUS ADVOGADOS. DISSERAM QUE SOU CULPADO.
+          SUJEITO INDETERMINADO                                                     1° ORAÇÃO – SUJEITO: “EU” - "EU CONSULTEI”;
+                                                                                    2° ORAÇÃO – SUJEITO: “MEUS ADVOGADOS”- “MEUS ADVOGADOS
+                                                                                    DISSERAM”.
+
+É AQUELE QUE NÃO É IDENTIFICÁVEL NEM MESMO PELO CONTEXTO.                           UM VERBO NA 3ª PESSOA DO PLURAL COM A OMISSÃO DO AGENTE
+PODE OCORRER PELO USO DE:                                                           QUE PRATICA A AÇÃO.
+
+                                                                                            EX: ROUBARAM NOSSO CARRO! (QUEM ROUBOU?)
+
+                                                                                                                                 PORTUGUÊS
+                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                       TIPOS DE SUJEITO
+
+
+                                                                                                EX: DESCONFIA-SE DE QUE ELA SEJA VIOLENTA. (VTI + SE)
+            SUJEITO INDETERMINADO
+                                                                                                EX: RESPIRA-SE MELHOR NO CAMPO. (VI + SE)
+                                                                                                EX: SEMPRE SE FICA NERVOSO DURANTE UM ASSALTO. (VL + SE)
+
+É AQUELE QUE NÃO É IDENTIFICÁVEL NEM MESMO PELO CONTEXTO.
+                                                                                                UMA PARTÍCULA DE INDETERMINAÇÃO DO SUJEITO (PIS) = “SE”.
+PODE OCORRER PELO USO DE:
+
+
+                 UM VERBO NO INFINITIVO IMPESSOAL.
+                                                                                                              ESTRUTURA: VTI / VI / VL + SE
+
+                                                                                       ATENÇÃO! TRATAR-SE DE (VTI+SE) É SEMPRE INVARIÁVEL: A EXPRESSÃO QUE
+                                                                                       VEM APÓS JAMAIS PODERIA SER SUJEITO PORQUE O SUJEITO NÃO PODE SER
+      EX: PRATICAR ESPORTES REGULARMENTE É MUITO IMPORTANTE.
+                                                                                       PREPOSICIONADO. E, SE O TERMO NÃO É SUJEITO, NÃO VAI FAZER O VERBO SE
+                                                                                       FLEXIONAR.
+  ❑ SUJEITO DO VERBO “PRATICAR” É INDETERMINADO (O AGENTE É
+    GENÉRICO, INDEFINIDO; NÃO DETERMINAMOS QUEM VAI “PRATICAR
+    ESPORTES”).
+                                                                                          EX: ELA RECEBEU UMA HERANÇA ESTRANHA: TRATA-SE DE DUAS MOEDAS DE COBRE.
+  ❑ SUJEITO DO VERBO “SER” É “PRATICAR ESPORTES REGULARMENTE”.
+
+
+                                                                                                                                                   PORTUGUÊS
+                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            ORAÇÕES SEM SUJEITO
+
+
+COM OS VERBOS SER, ESTAR, FAZER, HAVER, PARECER IMPESSOAIS COM SENTIDO DE FENÔMENOS
+                              NATURAIS, TEMPO OU ESTADO.
+
+                                             EX: HÁ TEMPOS SÃO OS JOVENS QUE ADOECEM.
+                                                        EX: FAZ FRIO EM CORUMBÁ.
+                                                            EX: ESTÁ QUENTE AQUI.
+                                                         EX: PARECIA CEDO DEMAIS.
+
+
+   COM FENÔMENOS DA NATUREZA                                                    EX: CHOVEU ONTEM.
+
+ATENÇÃO! HAVER COM SENTIDO DE EXISTIR, OCORRER OU
+TEMPO DECORRIDO É IMPESSOAL -> NÃO SE FLEXIONA.
+                                                                                EX: HÁ PESSOAS RUINS NO MUNDO. (VERBO IMPESSOAL; OBJETO DIRETO).
+
+ATENÇÃO! EXISTIR É VERBO PESSOAL, TEM SUJEITO E                                 EX: EXISTEM PESSOAS RUINS NO MUNDO. (VERBO PESSOAL; SUJEITO).
+CONCORDA COM ELE.
+
+
+                                                                                                                                        PORTUGUÊS
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                       COMPLEMENTOS VERBAIS
+
+OBJETO DIRETO (OD)               COMPLEMENTO VERBAL DOS VERBOS TRANSITIVOS DIRETOS, SEM PREPOSIÇÃO.
+
+                                                                 EX: PEDI AJUDA LOGO NO INÍCIO. (VTD; OD).
+                                                    EX: PEDI QUE ME AJUDASSEM LOGO NO INÍCIO. (VTD; OD ORACIONAL).
+
+OBJETO INDIRETO (OI)             COMPLEMENTO VERBAL DOS VERBOS TRANSITIVOS INDIRETOS, COM PREPOSIÇÃO.
+
+                                                                    EX: CONCORDO COM VOCÊ. (VTI; OI).
+                                                 EX: NENHUM GATO GOSTA DE QUE PUXEM SEU RABO. (VTI; OI ORACIONAL).
+
+                                 PRONOMES RETOMAM O OBJETO JÁ EXISTENTE NA ORAÇÃO COM FINALIDADE DE
+OD E OI PLEONÁSTICOS             ÊNFASE.
+
+                                                         EX: ESTA MOTO, COMPREI-A NA PROMOÇÃO. (VTD PLEONÁSTICO).
+                                                   EX: AOS MEUS AMIGOS, DOU-LHES TUDO QUE POSSO. (VTI PLEONÁSTICO).
+
+                                                                                                                  PORTUGUÊS
+                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              COMPLEMENTOS VERBAIS
+       OBJETO DIRETO                                  O VERBO NÃO PEDE PREPOSIÇÃO, MAS ELA É INSERIDA NO COMPLEMENTO DIRETO
+                                                      POR MOTIVO DE CLAREZA, EUFONIA OU ÊNFASE. PRINCIPAIS CASOS:
+      PREPOSICIONADO
+                                                      ❑ VTD + OD COMO UM PRONOME OBLÍQUO TÔNICO -> PREPOSIÇÃO OBRIGATÓRIA:
+                                                         EX: VENDEMOS A NÓS MESMOS.
+
+
+                                                      ❑ VTD + PRONOME “QUEM” -> PREPOSIÇÃO “A” OBRIGATÓRIA:
+                                                         EX: ENCONTROU O FUNCIONÁRIO A QUEM TINHA DEMITIDO.
+
+ATENÇÃO! NA PASSAGEM PARA A VOZ PASSIVA, A
+                                                      ❑ VERBO NO INFINITIVO + VERBOS ENSINAR E APRENDER:
+PREPOSIÇÃO DESAPARECE.
+                                                         EX: MEU IRMÃO TENTOU ME ENSINAR A SURFAR, MAS NEM APRENDI A NADAR.
+
+
+                                                      ❑ PARA EVITAR AMBIGUIDADE:
+  EX: JUDAS TRAIU A CRISTO. -> CRISTO FOI
+            TRAÍDO POR JUDAS.
+                                                         EX: A ONÇA AO CAÇADOR SURPREENDEU. (O CAÇADOR FOI SURPREENDIDO).
+                                                               À ONÇA O CAÇADOR SURPREENDEU. (A ONÇA FOI SURPREENDIDA).
+ATENÇÃO!       AO      SUBSTITUIR    O   OD                                   (SEM A PREPOSIÇÃO TERÍAMOS “A ONÇA O CAÇADOR SURPREENDEU”
+PREPOSICIONADO POR UM PRONOME, DEVEMOS
+                                                                                              QUEM SURPREENDEU QUEM?)
+USAR, SE POSSÍVEL, “O, A, OS, AS”.
+                                                      ❑ PARA REFORÇO OU EXALTAÇÃO DE UM SENTIMENTO:
+                                                         EX: ELE AMA A DEUS E NÃO TEME A MAOMÉ.
+
+
+             EX: JUDAS TRAIU-O.                       ❑ QUANDO HOUVER UM SENTIDO PARTITIVO:
+                                                                                                                                PORTUGUÊS
+                                                         E :    X BEBER DO VINHO  , COMER DO BOLO, DAR DO LEITE.
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                        COMPLEMENTO NOMINAL E ADJUNTO ADNOMINAL
+
+
+                        COMPLEMENTO NOMINAL (CN)                                                             ADJUNTO ADNOMINAL (AA)
+
+         ACOMPANHA SUBSTANTIVOS ABSTRATOS, ADJETIVOS OU ADVÉRBIOS.                                ACOMPANHA SUBSTANTIVOS CONCRETOS E ABSTRATOS.
+           SERVE PARA COMPLETAR O SENTIDO DE UM NOME QUE POSSUA                         SERVE PARA ATRIBUIR CARACTERÍSTICAS, QUALIDADE OU ESTADO A UM NOME
+                              TRANSITIVIDADE.                                                                  (TEM FUNÇÃO ADJETIVA).
+                               É OBRIGATÓRIO.                                                                    NÃO É OBRIGATÓRIO.
+                          SEMPRE É PREPOSICIONADO.                                                        PODE OU NÃO SER PREPOSICIONADO.
+     NÃO PODE SER SUBSTITUÍDO POR UM ADJETIVO PERFEITAMENTE EQUIVALENTE.                         SUBSTITUÍVEL POR ADJETIVO PERFEITAMENTE EQUIVALENTE.
+
+                                       SUBSTANTIVO ABSTRATO + PREPOSIÇÃO “DE”: COMO DISTINGUIR?
+
+          CN: O TERMO PREPOSICIONADO TEM SENTIDO PACIENTE, DE ALVO.                           AA: O TERMO PREPOSICIONADO TEM SENTIDO AGENTE, DE POSSE.
+
+          EX: O ABUSO DE REMÉDIOS É PREJUDICIAL À SAÚDE DA MULHER.                            EX: AS DUAS MENINAS DE BRANCO SORRIRAM COM MEDO DE MIM.
+
+❑ “DE REMÉDIOS” -> TERMO COM A PREPOSIÇÃO “DE” QUE SE LIGA A                           ❑ “AS” E “DUAS” -> NÃO SÃO PREPOSICIONADOS E SE LIGAM A SUBSTANTIVO
+  SUBSTANTIVO ABSTRATO COM SENTIDO PASSIVO (“ALGUÉM USA REMÉDIO”) =                      CONCRETO = AA.
+  CN.
+                                                                                       ❑ “DE BRANCO”-> TERMO COM A PREPOSIÇÃO “DE” QUE SE LIGA A SUBSTANTIVO
+❑ “À SAÚDE” -> TERMO PREPOSICIONADO LIGADO A ADJETIVO = CN.                              CONCRETO = AA.
+
+❑ “DA MULHER” -> TERMO COM A PREPOSIÇÃO “DE” QUE SE LIGA A SUBSTANTIVO                 ❑ “DE MIM” -> TERMO COM A PREPOSIÇÃO “DE” QUE SE LIGA A SUBSTANTIVO
+  ABSTRATO COM SENTIDO ATIVO, DE POSSE (“A MULHER TEM A SAÚDE”) = AA.                    ABSTRATO COM SENTIDO PASSIVO (“ALGUÉM TEM MEDO DE MIM”) = CN.
+
+                                                                                                                                                   PORTUGUÊS
+                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              PREDICATIVO
+
+ PREDICATIVO DO SUJEITO                          É A QUALIFICAÇÃO/ESTADO/CARACTERIZAÇÃO QUE SE ATRIBUI AO SUJEITO.
+                                                 ❑ NORMALMENTE VIA OS SEGUINTES VERBOS DE LIGAÇÃO SER, ESTAR, PERMANECER,
+                                                   FICAR, CONTINUAR, TORNAR-SE, ANDAR, VIRAR, CONTINUAR.
+
+ATENÇÃO! NÃO É SÓ VERBO DE LIGAÇÃO QUE
+                                                       EX: ELA CONTINUAVA POMPOSA, MESMO NA MISÉRIA. (PREDICATIVO NA FORMA DE ADJETIVO).
+ACOMPANHA PREDICATIVO DO SUJEITO.
+                                                       EX: O VIOLÃO É DE MADEIRA. (PREDICATIVO COMO LOCUÇÃO ADJETIVA E COM PREPOSIÇÃO).
+
+
+    EX: A PROFESSORA SAIU ATRASADA.
+      (“SAIR” -> VERBO INTRANSITIVO;
+ “ATRASADA” -> PREDICATIVO DO SUJEITO).
+                                                 QUALIFICAÇÃO/ESTADO QUE SE ATRIBUI AO OBJETO, POR MEIO                  DOS VERBOS
+ PREDICATIVO DO OBJETO                           TRANSOBJETIVOS (QUE PEDEM UM OBJETO + PREDICATIVO).
+
+                                                 EX: JULGARAM O RÉU CULPADO. (VERBO TRANSOBJETIVO; OD; PREDICATIVO DO OBJETO).
+                                                 EX: CHAMEI AO POLÍTICO DE LADRÃO. (VERBO TRANSOBJETIVO; OI; PREDICATIVO DO OBJETO).
+
+                                                                                                                       PORTUGUÊS
+                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                     PREDICATIVO X ADJUNTO ADNOMINAL
+
+                                                 CARACTERÍSTICA ATRIBUÍDA AO SER QUE NÃO É PERMANENTE NEM INERENTE A ELE (É, PORTANTO, TRANSITÓRIA).
+         PREDICATIVO                             TRATA-SE DE UMA OPINIÃO DO SUJEITO SOBRE O SER.
+
+                                                                               EX: EU VI A MENINA MUITO IRRITADA COM SUA ELIMINAÇÃO.
+                                                     (OBJETO DIRETO; PREDICATIVO DO OBJETO -> CARACTERÍSTICA TRANSITÓRIA ATRIBUÍDA À MENINA).
+
+ATENÇÃO! O PREDICATIVO DO SUJEITO PODE APARECER DISTANTE DO SUJEITO, SEPARADO POR PONTUAÇÃO.
+
+
+DICA! O PREDICATIVO NÃO FAZ PARTE DO SUJEITO E, POR ISSO, A SUBSTITUIÇÃO DESSE SUJEITO POR UM PRONOME NÃO IMPACTA SUA PRESENÇA NA ORAÇÃO.
+
+                                               EX: O MENINO CHEGOU DESANIMADO E FOI DORMIR.
+                                            (PREDICATIVO DO SUJEITO – “ELE CHEGOU DESANIMADO”).
+                                              EX: O MENINO, DESANIMADO, CHEGOU E FOI DORMIR.
+                                            (PREDICATIVO DO SUJEITO – “ELE, DESANIMADO, CHEGOU”).
+                                              EX: DESANIMADO, O MENINO CHEGOU E FOI DORMIR.
+                                            (PREDICATIVO DO SUJEITO – “DESANIMADO, ELE CHEGOU”).                                            PORTUGUÊS
+                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                   PREDICATIVO X ADJUNTO ADNOMINAL
+
+  ADJUNTO ADNOMINAL                           CARACTERÍSTICA PRÓPRIA DO SER, VISTA COMO INERENTE E DEFINITIVA.
+
+                                                      EX: A MENINA IRRITADA DA SALA IMPLICA COM TODOS.
+                                                           (NÚCLEO DO SUJEITO; ADJUNTO ADNOMINAL)
+                                                      ELA É IRRITADA SEMPRE, A CARACTERÍSTICA É DEFINITIVA
+
+DICA! O ADJUNTO ADNOMINAL DEVE VIR SEMPRE JUNTO AO NOME; FAZ PARTE DO SUJEITO E, POR ISSO, ELE DESAPARECE QUANDO SUBSTITUÍMOS O SUJEITO POR UM
+PRONOME.
+
+                                              EX: O MENINO DESANIMADO CHEGOU E FOI DORMIR.
+                                             (ADJUNTO ADNOMINAL – “ELE CHEGOU E FOI DORMIR”)
+
+                                                                                                                               PORTUGUÊS
+                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                    TIPOS DE PREDICADO
+
+
+PREDICADO VERBAL    TEM COMO NÚCLEO UM VERBO NOCIONAL (VERBO DE AÇÃO TRANSITIVO OU INTRANSITIVO).
+
+                        EX: JOÃO COMPROU UM RIFLE. (VERBO DE AÇÃO “COMPRAR” -> TRANSITIVO DIRETO)
+                      EX: JOÃO GOSTA DE MÚSICA CELTA. (VERBO DE AÇÃO “GOSTAR” -> TRANSITIVO INDIRETO)
+                                     EX: JOÃO CORREU. (VERBO DE AÇÃO “CORRER” -> INTRANSITIVO)
+
+PREDICADO NOMINAL   TEM COMO NÚCLEO UM PREDICATIVO DO SUJEITO.
+                                                                                           EX: JOÃO PARECE MELANCÓLICO.
+                    ESTRUTURA: VERBO DE LIGAÇÃO + PREDICATIVO DO SUJEITO.
+
+                                       VERBO DE AÇÃO INTRANSITIVO + PREDICATIVO DO SUJEITO.
+
+   PREDICADO                                                  EX: JOÃO SAIU TRISTE.
+
+ VERBO-NOMINAL
+                             VERBO DE AÇÃO TRANSITIVO + OD OU OI + PREDICATIVO DO OBJETO.
+                                                    EX: JOÃO ACHOU A MENINA MELANCÓLICA.
+
+
+                                                                                                        PORTUGUÊS
+                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                     APOSTO E VOCATIVO
+
+                                                    EXPRESSÃO QUE EXPLICA/ESCLARECE, DESENVOLVE/RESUME OUTRO TERMO DA ORAÇÃO, EQUIVALENDO
+            APOSTO                                  SEMANTICAMENTE AO TERMO A QUE SE REFERE. TEM VALOR SUBSTANTIVO.
+
+                                                                                               PODE SER EXPLICATIVO OU ESPECIFICATIVO.
+
+
+                                                    AMPLIA, DETALHA, ENUMERA, RESUME UM TERMO ANTERIOR; VEM NA FORMA DE EXPRESSÕES INTERCALADAS,
+      APOSTO EXPLICATIVO
+                                                    GERALMENTE ENTRE VÍRGULAS, PARÊNTESES E TRAVESSÕES OU APÓS DOIS PONTOS.
+
+                                                                                  EX: ANDERSON SILVA, EX-CAMPEÃO PESO-MÉDIO, TEM 41 ANOS.
+                                                                                      EX: CHEGARAM APENAS DOIS ALUNOS: MÁRIO E RICARDO.
+
+
+ATENÇÃO! O APOSTO EXPLICATIVO É UMA “OUTRA FORMA” DE SE REFERIR AO TERMO A QUE SE REFERE E NÃO TEM VALOR ADJETIVO.
+
+                    EX: JORGE, O MALANDRO, AINDA É JOVEM. (SUBSTANTIVO → APOSTO)
+                        NOTE QUE PODERÍAMOS DIZER “O MALANDRO AINDA É JOVEM”.
+               EX: JORGE, MALANDRO, AINDA É JOVEM. (ADJETIVO → PREDICATIVO DO SUJEITO)
+                                                                                                                                               PORTUGUÊS
+                                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                    APOSTO E VOCATIVO
+
+    APOSTO ESPECIFICATIVO                          ESPECIFICA E INDIVIDUALIZA SEU REFERENTE DENTRO DE UM UNIVERSO; NÃO VEM SEPARADO POR PONTUAÇÃO.
+
+                                                                                              EX: O ARTILHEIRO MESSI É O MELHOR DA HISTÓRIA.
+DICA! É COMUM SER UM NOME PRÓPRIO ESPECIFICANDO UM SUBSTANTIVO COMUM.
+                                                                                                       EX: A PRAIA DA PIPA É LINDA.
+
+
+                                                               APOSTO ESPECIFICATIVO                                     ADJUNTO ADNOMINAL
+                                               NOMEIA O SER; EXISTE IDENTIDADE SEMÂNTICA ENTRE O           TEM VALOR ADJETIVO E SENTIDO DE POSSE; NÃO EXISTE
+    APOSTO ESPECIFICATIVO                              APOSTO E O SER A QUE SE REFERE.                      IDENTIDADE SEMÂNTICA ENTRE O ADJUNTO E O SER A
+             X                                                                                                              QUE SE REFERE.
+     ADJUNTO ADNOMINAL                            EX: A CIDADE DO RIO DE JANEIRO SOFREU COM A                  EX: O CLIMA DO RIO DE JANEIRO É QUENTE.
+                                                            ESPECULAÇÃO IMOBILIÁRIA.                         (ADJUNTO ADNOMINAL -> O RIO TEM SEU CLIMA,
+                                                      (APOSTO -> O RIO É A PRÓPRIA CIDADE).                            NÃO É O PRÓPRIO CLIMA).
+
+          VOCATIVO                                 É UM CHAMAMENTO; REMETE AO OUVINTE OU AO LEITOR.
+
+ATENÇÃO! É ISOLADO NA ORAÇÃO, SEMPRE MARCADO POR VÍRGULAS OU PAUSAS EQUIVALENTES.
+
+
+                         EX: PAULO, PRECISO DE AJUDA AQUI!                                                                                  PORTUGUÊS
+                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                    ADJUNTO ADVERBIAL
+
+
+   ADJUNTO ADVERBIAL                               TERMO QUE MODIFICA UM VERBO, UM ADJETIVO OU OUTRO ADVÉRBIO.
+
+                                                     EX: ELE MORREU ONTEM. (VERBO; ADJUNTO ADVERBIAL DE TEMPO).
+                                                 EX: ELA É MUITO BONITA. (ADJUNTO ADVERBIAL DE INTENSIDADE; ADJETIVO).
+                                           EX: ELA SERÁ APROVADA MUITO PROVAVELMENTE. (ADJUNTO ADVERBIAL DE INTENSIDADE;
+                                                                            ADVÉRBIO).
+
+
+ATENÇÃO! QUANDO ACOMPANHA UM VERBO, O ADVÉRBIO TRAZ A CIRCUNSTÂNCIA EM QUE ESSE VERBO OCORRE (TEMPO, MODO, CAUSA, LUGAR, INSTRUMENTO,...).
+
+                                                                EX: INFELIZMENTE, O GOVERNO NÃO VAI RESOLVER SEUS PROBLEMAS. (ADJUNTO ADVERBIAL QUE
+ TAMBÉM PODE SE REFERIR A UMA ORAÇÃO INTEIRA.
+                                                                  EXPRESSA UM JULGAMENTO/OPINIÃO SOBRE O CONTEÚDO DA ORAÇÃO A QUE SE REFERE).
+
+   PODE APARECER NA FORMA DE UMA ORAÇÃO                                            EX: SE EU PUDESSE, AJUDARIA. (ORAÇÃO ADVERBIAL CONDICIONAL)
+ ADVERBIAL (A ORAÇÃO SUBORDINADA ADVERBIAL).                          EX: ESTÁ TUDO MOLHADO, PORQUE CHOVEU MUITO. (ORAÇÃO ADVERBIAL CAUSAL)
+
+                                                                                                                                              PORTUGUÊS
+                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                    AGENTE DA PASSIVA
+
+AGENTE DA PASSIVA                      AGENTE DO VERBO NUMA SENTENÇA NA VOZ PASSIVA.
+
+                                                      EX: VOZ ATIVA - EU COMPREI UM CARRO.
+                                                                    (SUJEITO).
+
+                              EX: VOZ PASSIVA ANALÍTICA - UM CARRO FOI COMPRADO POR MIM.
+                                                  (AGENTE DA PASSIVA).
+
+                                          EX: VOZ PASSIVA SINTÉTICA - COMPROU-SE UM CARRO.
+                                                   (AGENTE DA PASSIVA É OMITIDO).
+
+                                                                                                  PORTUGUÊS
+                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+        AS DIFERENTES FUNÇÕES SINTÁTICAS QUE UM MESMO TERMO PODE
+                                 ASSUMIR
+
+   FATORES COMO O TIPO DE VERBO, A PONTUAÇÃO OU A AUSÊNCIA DELA PODEM INFLUENCIAR NA FUNÇÃO SINTÁTICA EXERCIDA POR UM TERMO.
+
+                                EX: O ADJETIVO “RICO” PODE ASSUMIR OU PARTICIPAR DE VÁRIAS FUNÇÕES SINTÁTICAS DISTINTAS.
+
+❑ O MENINO CONTINUA RICO. (PREDICATIVO DO SUJEITO → O SUJEITO É "O MENINO")
+
+❑ O MENINO FEZ O PAI RICO. (PREDICATIVO DO OBJETO → "O PAI", QUE É O OBJETO, "FICOU RICO")
+
+❑ O MENINO RICO TINHA CARROS ESPORTIVOS (ADJUNTO ADNOMINAL → JUNTO AO NOME “MENINO”)
+
+❑ O MENINO, RICO, TINHA CARROS ESPORTIVOS. (PREDICATIVO DO SUJEITO → SEPARADO DO NOME “MENINO”)
+
+❑ O MENINO, UM RICO, TINHA CARROS ESPORTIVOS. (APOSTO → O MENINO = UM RICO)
+
+❑ O MENINO, APESAR DE SER RICO, VIVIA ENDIVIDADO. (ADJUNTO ADVERBIAL → COM VALOR DE CONCESSÃO)
+
+❑ MENINO RICO, AJUDE-ME. (VOCATIVO → O MENINO RICO É O OUVINTE)
+
+                                                                                                                                PORTUGUÊS
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---

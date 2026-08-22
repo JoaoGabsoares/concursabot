@@ -1,0 +1,623 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 06_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: TECNOLOGIA DA
+---
+
+# TECNOLOGIA DA
+
+---
+
+---
+
+TECNOLOGIA DA
+ INFORMAÇÃO
+                          Profa. Emannuelle Gouveia
+                          @Emannuellegouveia
+
+
+  
+
+
+---
+
+BANCO DE DADOS
+  RELACIONAIS
+
+                       Prof. Emannuelle Gouveia
+                       @Emannuelle Gouveia
+
+
+    
+
+
+---
+
+                       ARQUITETURA ANSI/SPARC –
+                          TRÊS ESQUEMAS
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+           Na Informática, como na maioria das ciências, temos uma grande preocupação
+      com padrões e era necessário padronizar a representação dos dados e o nível de
+      abstração necessário em cada visão de acordo com o usuário alvo.
+           Em 1975, o instituto americano responsável pelo desenvolvimento de padrões
+      de produtos, serviços, processos e sistemas sugeriu a Arquitetura ANSI/SPARC para
+      padrões de organização de Sistemas Gerenciadores de Banco de Dados (SGBD) e ela
+      é dividida em três níveis independentes: externo, conceitual e interno.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+             Dois conceitos básicos são necessários para seguirmos nosso estudo:
+
+     Esquema → descrição da estrutura dos dados e do banco de dados.Ex: tabelas,
+     campos, visões, índices
+
+     Instância → é o dado em si. A visão dos dados no banco em um determinado
+     instante.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                   
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+             Agora vamos estudar os níveis propostos pelo modelo ANSI/SPARC
+
+     a)Nível Externo → Também chamado de Nível de Visão ou Nível Lógico do Usuário.
+     Há três pontos importantes para ressaltarmos:
+     -- Esse nível se comunica diretamente com o usuário, ou seja faz interface direta com
+     os usuários.
+     -- Exibe apenas a parte do BD relevante para um usuário e oculta as demais.
+     -- Apresenta uma visão externa individual e independente para cada usuário final.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                  
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+     b) Nível Conceitual → Também chamado de Nível Lógico. Está entre os níveis interno
+     e externo.
+          Observaram na imagem que há um mapeamento externo/conceitual que
+     consolida dados em um único esquema? Essa é a “tarefa” do Nível Conceitual. Ele
+     descreve todo o banco de dados e define quais dados estão armazenados e quais são
+     as relações entre esses dados.
+          Agora temos a visão geral da estrutura do banco, dos dados armazenados e da
+     relação entre eles.
+          Ele oculta os detalhes das estruturas de armazenamento físico e se concentra
+     na descrição de entidades.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+     c) Nível Interno → Também chamado de Nível de Armazenamento ou Físico. É o que
+     está mais longe dos usuários e mais próximo do banco de dados
+          Agora vamos nos preocupar com o modo como os dados estão fisicamente
+     armazenados no banco de dados, com o hardware do computador e com o
+     desempenho final da estrutura física. Descreve os detalhes completos do
+     armazenamento de dados e dos caminhos de acesso para o banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+         A maioria dos SGBDs não separa os três níveis de maneira completa ou explícita,
+     mas dá suporte a eles de alguma forma. O usuário pode usar a arquitetura
+     ANSI/SPARC para visualizar os níveis de esquema em um sistema de banco de dados,
+     mas os dados armazenados existem mesmo apenas no nível físico.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+         Observe que os mapeamentos são importantes para ajudar a garantir a
+     independência dos dados, que é exatamente a capacidade de que uma alteração em
+     uma a definição dos esquemas de determinado nível, não afetem o esquema de nível
+     superior.
+         Temos dois tipos de independência dos dados:
+
+     • Independência Lógica
+     • Independência Física
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+     a) Independência Lógica dos Dados → trata da capacidade de alterar o esquema
+        conceitual sem modificar os esquemas externos ou programas/aplicações. O
+        mapeamento do nível externo para o conceitual é a chave para a independência
+        lógica de dados.
+
+     b) Independência Física dos Dados → trata da capacidade de alterar o esquema
+        interno sem alterar o esquema conceitual e consequentemente os esquemas
+        externos. O mapeamento nível conceitual para o interno é a chave para a
+        independência física de dados.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+        ARQUITETURA ANSI/SPARC –
+        TRÊS ESQUEMAS
+     OBSERVAÇÃO → um sistema de banco de dados é capaz de prover independência
+     física dos dados, não se pode afirmar que esse sistema também permite
+     independência lógica de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+                             QUESTÕES
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+      01) FGV - 2024 - Consultor Técnico Legislativo (CM SP)
+      Com relação aos níveis da arquitetura ANSI/SPARC dos Sistemas Gerenciadores de
+      Bancos de Dados (SGBD) relacionais, assinale (V) para a afirmativa verdadeira e (F)
+      para a falsa.
+
+      I. O nível interno é o mais próximo do meio de armazenamento físico, é uma
+      representação de baixo nível de todo o banco de dados, ele se ocupa do modo como
+      os dados são fisicamente armazenados dentro do SGBD.
+      II. O nível externo, também conhecido como o nível lógico de comunidade, é o mais
+      próximo dos usuários finais ou programadores de aplicação, é aquele que se ocupa
+      do modo como os dados são vistos pelos usuários do sistema.
+      III. O nível conceitual, também conhecido nível lógico de usuário, é um nível indireto
+      entre os outros dois níveis e representa todo o conteúdo do banco de dados de uma
+      forma um tanto abstrata em comparação como os dados são armazenados
+      logicamente.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                 
+
+
+---
+
+      As afirmativas são, respectivamente,
+
+      A) F – V – V.
+      B) F – F – V.
+      C) F – V – F.
+      D) V – V – F.
+      E) V – F – F.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      02) Instituto ACCESS - 2023 - Técnico (UFFS)
+      Banco de Dados é definido como uma coleção de dados interrelacionados, sendo o
+      objetivo da arquitetura de sistemas de BD, estabelecida pela ANSI por meio do
+      SPARC, separar o banco de dados físico das aplicações dos usuários, através de três
+      diferentes níveis, descritos a seguir:
+
+      I. Nível mais alto da abstração, associada às partes do BD a que o usuário tem acesso
+      conforme a necessidade individual de cada usuário.
+      II. Nível mais baixo da abstração, associada à estrutura física de armazenamento do
+      BD, a organização de arquivos e os métodos de acesso.
+      III. Nível intermediário da abstração, associada à definição dos dados armazenados e
+      às ligações entre eles, com destaque para as entidades, atributos, relacionamentos,
+      operações e restrições.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      Os níveis descritos em I, II e III são denominados, respectivamente,
+
+      A) das visões, lógico e relacional.
+      B) das visões, físico e conceitual.
+      C) das visões, físico e relacional.
+      D) das implementações, físico e relacional.
+      E) das implementações, lógico e conceitual.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                 
+
+
+---
+
+      03) FUNDATEC - 2023 - (PROCERGS)
+      A arquitetura do SGBD é dividida em três níveis que proveem diferentes abstrações
+      da estrutura do sistema de banco de dados, e é conhecida como arquitetura
+      ANSI/SPARC. Essa organização em níveis efetiva a visão abstrata dos dados,
+      reduzindo a complexidade do sistema conforme o nível em que o usuário trabalha.
+      Nesse contexto, analise as assertivas abaixo:
+
+      I. Nível físico: é onde se especifica o acesso aos dados conforme as necessidades de
+      cada usuário ou aplicação.
+
+      II. Nível lógico: é onde se descreve a estrutura completa do banco de dados, que
+      engloba a definição do esquema do banco de dados.
+
+      III. Nível de visão: relaciona-se com as estruturas de armazenamento dos dados e
+      com o gerenciamento destas.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      Quais estão corretas?
+
+      A) Apenas II.
+      B) Apenas I e II.
+      C) Apenas I e III.
+      D) Apenas II e III.
+      E) I, II e III.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+      04) CESGRANRIO - 2023 - (TRANSPETRO)
+      O princípio de independência de dados é um conceito fundamental no modelo
+      relacional de bancos de dados. A aplicação prática deste princípio permite que os
+      bancos de dados sejam gerenciados, otimizados e modificados eficientemente sem a
+      necessidade de realizar modificações extensivas em cada aplicação ou consulta que
+      utiliza o banco de dados, facilitando a manutenção e a evolução dos sistemas. Na
+      arquitetura de referência ANSI/SPARC, que é composta por três níveis de esquema
+      — externo, conceitual (ou lógico) e interno —, o princípio de independência de
+      dados é expresso por meio da
+
+      A) necessidade de alterar o esquema externo quando ocorrem mudanças no
+      esquema interno.
+      B) obrigatoriedade de alterar os programas aplicativos quando há uma modificação
+      no esquema interno.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+      C) incapacidade de realizar mudanças no esquema conceitual sem afetar os
+      esquemas externos.
+      D) dependência entre os esquemas, garantindo que uma modificação em um nível
+      requer alterações em todos os níveis.
+      E) capacidade de modificar o esquema interno sem afetar o esquema conceitual e,
+      portanto, sem afetar os esquemas externos e os programas aplicativos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+                PROJETOS DE BANCO DE DADOS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+      Existe uma outra classificação para os projetos de Banco de dados em si, e que
+  apresentam nomes similares
+
+  a)Modelo de Alto Nível → também chamado de Modelo Conceitual. Está mais
+  próximo do usuário e utiliza conceitos como entidades, atributos e relacionamentos.
+       É mais utilizado para discutir com o cliente os aspectos do negócio sem se
+  preocupar com tecnologias específicas. É independente de hardware ou software,
+  podendo ser implementado por qualquer SGBD.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+  EX: MER
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+  b) Modelo de Implementação → Também chamado de Modelo Representativo ou
+  Modelo Lógico. É um modelo intermediário pois ainda oferece conceitos que podem
+  ser entendidos pelos usuários finais, mas que não está muito longe do modo como
+  os dados são organizados e armazenados no computador, apesar de ocultar muitos
+  detalhes.
+       Já é uma representação para um banco de dados específico e depende do tipo
+  particular de SGBD que será utilizado (Ex: Modelo Relacional).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+  EX: Modelo Relacional
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+  c) Modelo de Baixo Nível → Também chamado de Modelo Físico. Agora a
+  preocupação é como o armazenamento dos dados realmente acontecerá em todos
+  os seus detalhes. Tem por foco o público especializado e totalmente dependente do
+  SGBD escolhido
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  PROJETOS DE BANCO DE DADOS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+                             QUESTÕES
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+      05) FGV - 2024 - Residente (TJ RJ)
+      Com relação às três fases de um projeto de um novo banco de dados, avalie se as
+      afirmativas a seguir são verdadeiras (V) ou falsas (F).
+
+      (     ) O modelo conceitual pode ter a forma de um diagrama entidade-
+      relacionamentos e captura as necessidades de uma organização em termos de
+      armazenamento de dados independentemente da sua implementação.
+      ( ) O projeto lógico tem como objetivo transformar o modelo conceitual obtido na
+      primeira fase em um modelo lógico que definirá como o banco de dados será
+      implementado em um SGBD.
+      ( ) Na etapa do projeto físico, o modelo de banco d e dados é enriquecido com
+      detalhes que influenciam no desempenho do banco mas interferem em suas
+      funcionalidades.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+      As afirmativas são, respectivamente,
+
+      A) V – F – F.
+      B) V – V – F.
+      C) F – F – F.
+      D) F – V – V.
+      E) F – F – V.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      06) CEBRASPE (CESPE) - 2024 - (CNPq)
+
+      Julgue o item a seguir, a respeito de mineração de dados, de arquitetura dos dados e
+      de modelagem de dados.
+
+
+      Modelos de dados lógicos fornecem maiores detalhes acerca dos conceitos e
+      relacionamentos no domínio em consideração, indicando atributos de dados, como
+      tipos de dados e seus respectivos comprimentos, e relacionamentos entre entidades,
+      além de informar como será organizado e quais regras de negócios estão envolvidas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      07) CEBRASPE (CESPE) - 2024 - (INPI)
+
+      Julgue o seguinte item, relacionados a modelagem de dados.
+
+
+      O modelo lógico pode conter chaves primárias e estrangeiras e pode ser usado em
+      vários bancos de dados, tais como SQL Server, MySql, Oracle e PostgreSql.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      08) CEBRASPE (CESPE) - 2023 - (CNMP)
+
+      Julgue o item subsecutivo, que se referem a conceitos de programação e banco de
+      dados.
+
+
+      As estruturas para armazenamento dos dados e os métodos de acesso ao banco de
+      dados fazem parte do projeto lógico de um banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+      09 )FUNDATEC - 2023 - (IFFAR)
+      Em um projeto de banco de dados, a etapa que objetiva definir as estruturas de
+      dados que implementarão os requisitos identificados na modelagem conceitual é
+      conhecida como:
+
+      A) Normalização.
+      B) Projeto lógico.
+      C) Modelo entidade-relacionamento.
+      D) Especificação de requisitos.
+      E) Projeto físico.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+       10) FUNDATEC - 2023 - (IFC)
+      Para construir um banco de dados, são empregados três modelos, executados em
+      ordem, que permitem a sua construção e utilização. O primeiro modelo especifica
+      como os dados são armazenados e relacionados, independentemente de como serão
+      implementados no banco de dados. O segundo modelo é criado com base no tipo de
+      banco de dados utilizado. No terceiro modelo, são definidos os tipos de dados que
+      serão armazenados e emprega a linguagem SQL. O primeiro, segundo e terceiro
+      modelos são denominados, respectivamente:
+      A) Lógico, conceitual e físico.
+      B) Lógico, físico e conceitual.
+      C) Conceitual, lógico e físico.
+      D) Conceitual, físico e lógico.
+      E) Físico, conceitual e lógico.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+OBRIGADA
+                            Prof. Emannuelle Gouveia
+                            @emannuellegouveia
+
+
+    
+
+
+---
+
+---

@@ -1,0 +1,1614 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 05_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 582
+- Art. 67.
+- art. 11
+- art. 196
+- art. 5º
+- art. 6º
+- art. 7º
+- art.8º
+sumulas_citadas:
+- Súmula Vinculante nº 06
+- Súmula Vinculante nº 40
+---
+
+# Direito Constitucional
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            06 de Agosto de 2026
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 04
+
+                                                                                     Índice
+1) Direitos Sociais (art. 6º, CF/88) Introdução e Aspectos Principiológicos
+
+
+2) Direitos Sociais dos Trabalhadores (art. 7º - art. 11, CF/88)
+
+
+3) Direitos dos Trabalhadores Domésticos
+
+
+4) Questões Comentadas - Direitos Sociais - FGV
+
+
+5) Lista de Questões - Direitos Sociais - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           35
+
+                                                             
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 04
+
+          DIREITOS SOCIAIS (ART. 6º): INTRODUÇÃO E ASPECTOS
+                           PRINCIPIOLÓGICOS
+Introdução
+Os direitos sociais são prestações positivas (ações) realizadas pelo Estado para melhorar a
+qualidade de vida dos hipossuficientes, ou seja, dos mais necessitados. Em razão disso, o Estado
+deve garantir que todos tenham acesso a educação, saúde, alimentação, trabalho, dentre outros.
+Na Constituição Federal de 1988, esses direitos estão principalmente relacionados nos art. 6º -
+art. 11, mas também podem ser encontrados em outros dispositivos. É o caso, por exemplo, do
+art. 194 (que trata da seguridade social), art. 196 (direito à saúde) e art. 205 (direito à educação)
+
+Os direitos sociais (art. 6º)
+           Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a
+           moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à
+           maternidade e à infância, a assistência aos desamparados, na forma desta
+           Constituição.
+           Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito
+           a uma renda básica familiar, garantida pelo poder público em programa
+           permanente de transferência de renda, cujas normas e requisitos de acesso serão
+           determinados em lei, observada a legislação fiscal e orçamentária.
+Segundo o art. 6º, a Constituição consagra como direitos sociais a educação, a saúde, a
+alimentação, o trabalho, a moradia, o transporte o lazer, a segurança, a previdência social, a
+proteção à maternidade e à infância, a assistência aos desamparados.
+O STF entende que se trata de rol exemplificativo1, pois há outros direitos sociais espalhados
+pelo texto constitucional. Destaque-se que os direitos sociais do art. 6º são, todos eles, normas
+de eficácia limitada e aplicabilidade mediata, dependendo, para sua concretização, da atuação
+estatal, seja através da edição de leis regulamentadoras, seja através da oferta de prestações
+positivas em favor dos indivíduos.
+Uma das discussões mais relevantes sobre os direitos sociais diz respeito, justamente, à sua
+concretização. Para estudarmos esse assunto, é necessário conhecermos três importantes
+princípios: i) o princípio da “reserva do possível”; ii) o princípio do “mínimo existencial” e; iii) o
+princípio da vedação do retrocesso. É o que faremos a seguir.
+
+Os direitos sociais e a “reserva do possível”
+A efetivação dos direitos sociais depende da execução de políticas públicas nas mais diversas
+áreas, como, por exemplo, em educação e saúde. Assim, é preciso ter em mente que a
+concretização dos direitos sociais depende, em larga escala, de gastos estatais.
+
+1
+    STF. ADI nº 639, Rel. Min. Joaquim Barbosa, 02.06.2005.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                             3
+           www.estrategiaconcursos.com.br                                                          35
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+A teoria da reserva do possível consiste na ideia de que cabe ao Estado efetivar os direitos
+sociais, mas apenas “na medida do financeiramente possível”. Serve, portanto, para determinar
+os limites em que o Estado deixa de ser obrigado a dar efetividade aos direitos sociais.
+Não é lícito ao Poder Público, todavia, simplesmente alegar que não possui recursos
+orçamentários; é fundamental que o Poder Público demonstre objetivamente a inexistência de
+recursos públicos e a falta de previsão orçamentária da respectiva despesa.
+
+Os direitos sociais e o mínimo existencial
+O Estado, na sua tarefa de concretização dos direitos fundamentais, deve garantir o mínimo
+existencial, ou seja, proteger um núcleo de prestações essenciais ao ser humano para que ele
+tenha uma existência digna.
+O mínimo existencial é importante parâmetro para a limitação da cláusula da reserva do possível.
+Isso porque a reserva do possível só poderá ser alegada pelo Poder Público como argumento
+para a não concretização de direitos sociais depois de ter sido assegurado o mínimo existencial
+                                                         ==5460==
+
+pelo Estado. A garantia do mínimo existencial é uma obrigação inafastável do Estado, não sujeita
+à reserva do possível.
+
+A vedação ao retrocesso
+O princípio da vedação ao retrocesso busca evitar que as conquistas sociais já alcançadas pelo
+cidadão sejam desconstituídas. Segundo esse princípio, a proteção social não pode piorar. Há
+um processo histórico de afirmação dos direitos fundamentais.
+Para Canotilho, uma vez que os direitos sociais tenham sido previstos, passam a constituir tanto
+uma garantia institucional quanto um direito subjetivo. Isso limita o legislador e exige a
+realização de uma política condizente com esses direitos, sendo inconstitucionais quaisquer
+medidas estatais que, sem a criação de outros esquemas alternativos ou compensatórios,
+anulem, revoguem ou aniquilem o seu núcleo essencial.
+
+(FUB – 2022) Direitos fundamentais como a proteção à maternidade e à infância são direitos
+sociais tratados como matérias irrevogáveis na CF, conhecidas como cláusulas pétreas, não
+podendo ser alvo de diminuição ou revogação por emenda constitucional.
+Comentários:
+As cláusulas pétreas são limitações de aspecto material à possibilidade de reforma constitucional,
+ou seja, dispositivos que vedam a alteração, por meio de emenda, tendentes a abolir as normas
+constitucionais relativas às matérias por elas definidas, conforme estabelece o art. 60, § 4º, da
+CF/88, o que inclui os direitos fundamentais. Dentre eles estão os direitos sociais à proteção à
+maternidade e à infância. Questão correta.
+(PGE-RJ – 2022) O lazer é um direito social garantido expressamente na CF.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            4
+        www.estrategiaconcursos.com.br                                                         35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+Os direitos sociais em espécie fazem parte do art. 6º, da CF/88, sendo relacionados a educação,
+saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção
+à maternidade e à infância, assim como a assistência aos desamparados. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           5
+        www.estrategiaconcursos.com.br                                                        35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+            DIREITOS SOCIAIS DOS TRABALHADORES (ART. 7º-11)
+No art. 7º da Constituição, são enumerados os direitos sociais individuais dos trabalhadores.
+Leia-o atentamente, pois ele costuma ser cobrado em sua literalidade.
+
+        Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem
+        à melhoria de sua condição social:
+
+Note que a Constituição, no caput do art. 7º, equipara os direitos do trabalhador rural aos do
+trabalhador urbano.
+
+        I - relação de emprego protegida contra despedida arbitrária ou sem justa causa,
+        nos termos de lei complementar, que preverá indenização compensatória, dentre
+        outros direitos;
+
+Esse dispositivo é a típica norma de eficácia limitada, exigindo lei complementar que proteja a
+relação de emprego contra despedida arbitrária ou sem justa causa. Trata-se do direito à
+segurança no emprego.
+Cabe destacar que a proteção conferida pela Constituição somente alcança a despedida
+arbitrária ou sem justa causa. Não haverá indenização, portanto, diante da despedida por justa
+causa.
+
+        II - seguro-desemprego, em caso de desemprego involuntário;
+
+Note que o seguro-desemprego só é devido no caso de desemprego involuntário. As bancas
+examinadoras adoram confundir os candidatos, falando em desemprego “voluntário”, o que
+estará errado.
+
+        III - fundo de garantia do tempo de serviço;
+
+O FGTS (Fundo de Garantia) é recolhido pelo empregador à alíquota de 8% sobre a remuneração
+paga ou devida, no mês anterior, a cada trabalhador. Destaque-se que o FGTS não é direito dos
+servidores públicos estatutários.
+
+        IV - salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a
+        suas necessidades vitais básicas e às de sua família com moradia, alimentação,
+        educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com
+        reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua
+        vinculação para qualquer fim;
+
+O salário mínimo deve ser fixado em lei formal: verifica-se, aqui, hipótese de reserva legal. Além
+disso, é único para todo o território nacional, o que impede a existência de salários mínimos
+regionais.
+Para fecharmos esse tópico, é importante que você saiba que o STF permite que os conscritos
+recebam remuneração inferior ao salário-mínimo. Veja o que dispõe a Súmula Vinculante no 06,
+que poderá ser cobrada em sua prova:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            6
+        www.estrategiaconcursos.com.br                                                         35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+        Súmula Vinculante nº 06: “Não viola a Constituição o estabelecimento de
+        remuneração inferior ao salário mínimo para as praças prestadoras de serviço
+        militar inicial”.
+
+A justificativa para essa exceção é que a Constituição Federal não estendeu aos militares a
+garantia de remuneração não inferior ao salário mínimo, como o fez para outras categorias de
+trabalhadores. O regime a que se submetem os militares não se confunde com aquele aplicável
+aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios.
+
+        V - piso salarial proporcional à extensão e à complexidade do trabalho;
+
+O piso salarial é estabelecido por categoria de trabalhadores e fixado mediante negociação
+coletiva de trabalho. Na fixação do piso salarial, deve-se levar em consideração a extensão e a
+complexidade do trabalho.
+
+        VI - irredutibilidade do salário, salvo o disposto em convenção ou acordo
+                                                         ==5460==
+
+        coletivo;
+
+A irredutibilidade do salário guarda estreita relação com o princípio da vedação ao retrocesso.
+Assim, em regra, o salário não poderá ser reduzido. A redução salarial é hipótese excepcional,
+que somente ocorrerá mediante negociação coletiva de trabalho (convenção coletiva ou acordo
+coletivo).
+
+(TRT 2a Região – 2015) A irredutibilidade salarial não é absoluta, sendo lícita mediante previsão
+em convenção ou acordo coletivo.
+Comentários:
+É possível a redução salarial através de convenção ou acordo coletivo. Portanto, a irredutibilidade
+salarial não é absoluta. Questão correta.
+
+        VII - garantia de salário, nunca inferior ao mínimo, para os que percebem
+        remuneração variável;
+
+Há alguns trabalhadores que possuem remuneração variável. Como exemplo, citamos um
+funcionário de uma loja que recebe por comissão de suas vendas. Em meses com alto volume de
+vendas, ele recebe muito bem; porém, em um mês de vendas fracas, ele terá uma remuneração
+bastante reduzida. A Constituição garante, entretanto, que esse trabalhador nunca receberá uma
+remuneração inferior ao salário mínimo.
+
+        VIII - décimo terceiro salário com base na remuneração integral ou no valor da
+        aposentadoria;
+
+O décimo terceiro salário é o que se conhece por gratificação natalina.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             7
+        www.estrategiaconcursos.com.br                                                          35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+        IX - remuneração do trabalho noturno superior à do diurno;
+
+Esse dispositivo garante aos trabalhadores a percepção de adicional noturno. Destaque-se que o
+valor do adicional noturno não é definido pela Constituição Federal, mas sim pela legislação
+infraconstitucional.
+
+        X - proteção do salário na forma da lei, constituindo crime sua retenção dolosa;
+
+A maior parte da população brasileira não possui poupança, dependendo do salário para
+sobreviver. O salário é, portanto, uma verba de natureza alimentar; em razão disso, constitui
+crime sua retenção dolosa por parte do empregador.
+
+        XI - participação nos lucros, ou resultados, desvinculada da remuneração, e,
+        excepcionalmente, participação na gestão da empresa, conforme definido em lei;
+
+Trata-se de norma de eficácia limitada, dependente de lei para produzir todos os seus efeitos. A
+participação nos lucros é desvinculada da remuneração e é uma forma de se estimular a
+produtividade do trabalhador.
+
+        XII - salário-família pago em razão do dependente do trabalhador de baixa renda
+        nos termos da lei;
+
+O salário-família é um benefício previdenciário, sendo devido somente ao trabalhador de baixa
+renda. É pago em cotas, de acordo com o número de dependentes (se o trabalhador possui um
+dependente, ele recebe uma cota do salário-família; se ele possui dois dependentes, ele recebe
+duas cotas de salário-família).
+Os critérios para o recebimento do salário-família são definidos em lei formal. Mais uma vez,
+estamos diante de uma norma de eficácia limitada.
+
+(TRT 2a Região – 2015) O salário-família será pago em virtude do dependente do trabalhador,
+sem se cogitar da renda por ele auferida, já que se trata de um direito social garantido
+constitucionalmente.
+Comentários:
+O salário família somente é devido ao trabalhador de baixa renda. Questão errada.
+
+        XIII - duração do trabalho normal não superior a oito horas diárias e quarenta e
+        quatro semanais, facultada a compensação de horários e a redução da jornada,
+        mediante acordo ou convenção coletiva de trabalho;
+
+A regra é a prestação de trabalho por até 8 horas diárias e 44 horas semanais. Normalmente, isso
+é feito mediante jornadas de 8 horas de segunda-feira a sexta-feira e de 4 horas no sábado. É
+possível a compensação de horários: um trabalhador que tenha um contrato de trabalho de 44
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          8
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+horas semanais e 8 horas diárias poderá, por exemplo, trabalhar 2 horas a menos em um
+determinado dia, compensando-as posteriormente.
+Cabe destacar que, excepcionalmente, é possível haver redução da jornada de trabalho,
+mediante acordo ou convenção coletiva.
+
+        XIV - jornada de seis horas para o trabalho realizado em turnos ininterruptos de
+        revezamento, salvo negociação coletiva;
+
+O trabalho prestado em turnos ininterruptos de revezamento é aquele em que há alternância de
+horários; nesse regime de trabalho, os trabalhadores se revezam nos postos de trabalho. Em um
+determinado dia, trabalha à noite; no outro, pela manhã; no outro, à tarde.
+Nesse caso, devido ao grande desgaste para a saúde do trabalhador, a Constituição prevê uma
+jornada de seis horas. Note que esta poderá, excepcionalmente, ser aumentada, em caso de
+negociação coletiva.
+
+        XV - repouso semanal remunerado, preferencialmente aos domingos;
+
+Atente para a palavra preferencialmente. Não há obrigação de concessão desse repouso no
+domingo: ele pode acontecer em qualquer outro dia da semana.
+
+        XVI - remuneração do serviço extraordinário superior, no mínimo, em cinquenta
+        por cento à do normal;
+
+A remuneração do serviço extraordinário é o que se conhece por hora-extra. Note a expressão
+“no mínimo”! Uma questão de concurso que disser que essa remuneração é necessariamente
+50% superior à do serviço normal estará errada.
+
+        XVII - gozo de férias anuais remuneradas com, pelo menos, um terço a mais do
+        que o salário normal;
+
+Esse dispositivo trata do adicional de férias. O trabalhador faz jus a férias, recebendo, durante
+esse período, sua remuneração acrescida de, no mínimo, 1/3 do salário normal. Assim, o
+trabalhador poderá receber um adicional de férias superior a 1/3 do salário.
+Note que a Constituição não dispôs sobre a duração das férias, deixando essa tarefa para a
+legislação infraconstitucional.
+
+        XVIII - licença à gestante, sem prejuízo do emprego e do salário, com a duração
+        de cento e vinte dias;
+        XIX - licença-paternidade, nos termos fixados em lei;
+
+A licença à gestante tem duração de 120 dias, conforme definido pela Constituição. Durante
+esse período, a gestante fica licenciada, sem que perca seu emprego e remuneração. Assim, ela
+mantém seu vínculo de emprego com a empresa e continua a receber sua remuneração. Cabe
+destacar que a licença à gestante é também um direito outorgado às servidoras públicas.
+
+        XX - proteção do mercado de trabalho da mulher, mediante incentivos
+        específicos, nos termos da lei;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           9
+        www.estrategiaconcursos.com.br                                                        35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+A proteção ao mercado de trabalho da mulher tem como objetivo alcançar a igualdade material.
+Nesse caso, almeja-se estabelecer a igualdade de gêneros. Trata-se de mais uma norma de
+eficácia limitada.
+
+        XXI - aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta
+        dias, nos termos da lei;
+
+O aviso prévio aplica-se aos contratos de trabalho por tempo indeterminado. É um instituto que
+tem como objetivo permitir que o trabalhador tenha um tempo para buscar um novo emprego
+após tomar conhecimento da intenção do empregador de demiti-lo.
+O aviso prévio deve ser proporcional ao tempo de serviço: quanto maior o tempo de serviço,
+maior será o prazo do aviso prévio. Deve-se observar, contudo, que o prazo mínimo do aviso
+prévio é de 30 dias.
+
+        XXII - redução dos riscos inerentes ao trabalho, por meio de normas de saúde,
+        higiene e segurança;
+
+A segurança e a saúde no trabalho são consideradas direitos essenciais dos trabalhadores. A
+redução dos riscos inerentes ao trabalho é, portanto, uma face importante das políticas públicas
+em matéria trabalhista. Esse dispositivo ampara a edição, pelo Ministério do Trabalho e Emprego,
+das chamadas NRs (Normas Regulamentadoras).
+
+        XXIII - adicional de remuneração para as atividades penosas, insalubres ou
+        perigosas, na forma da lei;
+
+As atividades penosas, insalubres ou perigosas implicam no pagamento de adicional de
+remuneração aos trabalhadores. Assim, um trabalhador que exerça atividade perigosa (contato
+permanente com inflamáveis e explosivos) receberá adicional de periculosidade; por sua vez, um
+trabalhador que exerça atividade insalubre receberá o adicional de insalubridade.
+
+        XXIV - aposentadoria;
+
+A aposentadoria é um benefício previdenciário assegurado aos trabalhadores. Não é nosso
+objetivo, nesse momento, discorrer sobre os vários tipos de aposentadoria e os requisitos para
+sua concessão.
+
+        XXV - assistência gratuita aos filhos e dependentes desde o nascimento até 5
+        (cinco) anos de idade em creches e pré-escolas;
+
+A assistência gratuita em creches e pré-escolas é devida aos filhos e dependentes do trabalhador,
+desde o nascimento até 5 (cinco anos) de idade. Atente para esse limite de idade!
+
+        XXVI - reconhecimento das convenções e acordos coletivos de trabalho;
+
+As negociações coletivas de trabalho podem ser de dois tipos: i) convenções coletivas de
+trabalho (celebradas entre sindicato patronal e sindicato dos trabalhadores) e; ii) acordos
+coletivos de trabalho (celebrados entre sindicato dos trabalhadores e uma empresa ou grupo de
+empresas). Destaque-se que as negociações coletivas de trabalho são consideradas fontes do
+direito do trabalho.
+
+        XXVII - proteção em face da automação, na forma da lei;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          10
+        www.estrategiaconcursos.com.br                                                        35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+Trata-se de dispositivo que visa evitar que as inovações tecnológicas substituam o papel
+desempenhado pelos trabalhadores, buscando garantir que não haja diminuição do número de
+postos de trabalho. É uma típica norma de eficácia limitada, cuja concretização depende de lei
+regulamentadora.
+
+        XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem excluir
+        a indenização a que este está obrigado, quando incorrer em dolo ou culpa;
+
+O seguro contra acidentes de trabalho é um encargo do empregador, mas que não o exime de
+indenizar o empregado, quando tiver incorrido em dolo ou culpa. Em outras palavras, mesmo
+pagando seguro contra acidentes de trabalho, o empregador continua sujeito à indenização caso
+estes ocorram. Entretanto, é necessário que haja dolo ou culpa.
+
+(FUNPRESP-EXE – 2022) O pagamento, pelo empregador, do seguro de acidente de trabalho
+exclui a sua responsabilidade civil em face de eventual indenização a que o empregado faça jus
+em razão de acidente laboral.
+Comentários:
+Mesmo que o empregador pague o seguro de acidentes de trabalho, isso não exclui sua
+responsabilidade civil de indenização em caso de acidente de trabalho, nos termos do art. 7º,
+inciso XXVIII, da CF/88. Questão errada.
+
+        XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo
+        prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de
+        dois anos após a extinção do contrato de trabalho;
+
+Esse inciso precisa ser analisado com atenção. Inicialmente, verifique que, tanto para o
+trabalhador urbano quanto para o rural, há possibilidade de se requererem créditos relativos aos
+últimos cinco anos do contrato de trabalho. É a chamada prescrição quinquenal.
+Entretanto, desfeito o vínculo laboral, o trabalhador terá apenas dois anos para reclamar tais
+créditos na Justiça. Nesse caso, entretanto, a cada dia de inércia, perderá um dia de direito. Se
+entrar com uma ação trabalhista no último dia do prazo de dois anos, só poderá reaver os
+créditos referentes aos três últimos anos do contrato de trabalho, por exemplo.
+
+        XXX - proibição de diferença de salários, de exercício de funções e de critério de
+        admissão por motivo de sexo, idade, cor ou estado civil;
+        XXXI - proibição de qualquer discriminação no tocante a salário e critérios de
+        admissão do trabalhador portador de deficiência;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          11
+        www.estrategiaconcursos.com.br                                                        35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+        XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou
+        entre os profissionais respectivos;
+
+Esses três dispositivos traduzem obrigações de não discriminação, de isonomia. O inciso XXX
+proíbe que sejam estabelecidas diferença de salários, de exercício de funções e de critério de
+admissão por motivo de sexo, idade, cor ou estado civil. O inciso XXXI impede que haja
+discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência.
+Por último, o inciso XXXII veda a distinção entre trabalho manual, técnico e intelectual ou entre
+os profissionais respectivos.
+
+        XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de
+        dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição
+        de aprendiz, a partir de quatorze anos;
+
+“Dissecando-se” esse dispositivo, temos que:
+       a) A idade mínima para se trabalhar é aos dezesseis anos. Há, entretanto, uma exceção a
+       esse limite mínimo de idade: pode-se trabalhar a partir dos quatorze anos de idade, na
+       condição de aprendiz.
+       b) Os menores de dezoito anos jamais poderão exercer trabalho noturno, perigoso ou
+       insalubre.
+Assim, entre 14 e 16 anos, só pode trabalhar o menor aprendiz. Dos 16 aos 18 anos, qualquer um
+pode trabalhar, desde que não seja um trabalho noturno, perigoso ou insalubre. A partir dos 18
+anos, o indivíduo pode exercer qualquer trabalho, inclusive o noturno, perigoso ou insalubre.
+
+(TRT 2ª Região – 2015) O trabalhador faz jus a seguro contra acidentes de trabalho, a cargo do
+empregador, sem excluir a indenização a que este está obrigado, apenas quando for resultado de
+dolo ou culpa.
+Comentários:
+É isso mesmo. O trabalhador faz jus a seguro contra acidentes de trabalho. Ademais, a
+indenização somente será devida ao trabalhador quando o empregador incorrer em dolo ou
+culpa. Questão correta.
+
+        XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício
+        permanente e o trabalhador avulso.
+
+O trabalhador avulso é aquele que presta serviços a várias empresas, mas que é contratado por
+um órgão gestor de mão de obra (OGMO). É o caso, por exemplo, dos estivadores e
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           12
+        www.estrategiaconcursos.com.br                                                         35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+carregadores que trabalham nos portos. A Constituição Federal de 1988 reconhece a igualdade
+de direitos entre o trabalhador avulso e o trabalhador com vínculo empregatício permanente.
+
+        Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os
+        direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI,
+        XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em
+        lei e observada a simplificação do cumprimento das obrigações tributárias,
+        principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades,
+        os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à
+        previdência social.
+
+                        ●​ Piso salarial proporcional à extensão e à complexidade do trabalho;
+                        ●​ Participação nos lucros, ou resultados, desvinculada da remuneração, e,
+                           excepcionalmente, participação na gestão da empresa, conforme
+                           definido em lei;
+                        ●​ Jornada de seis horas para o trabalho realizado em turnos ininterruptos
+                           de revezamento, salvo negociação coletiva;
+  Direitos que          ●​ Proteção do mercado de trabalho da mulher, mediante incentivos
+   não foram               específicos, nos termos da lei;
+   atribuídos           ●​ Adicional de remuneração para as atividades penosas, insalubres ou
+  pela CF/88               perigosas, na forma da lei;
+       aos              ●​ Proteção em face da automação, na forma da lei;
+  domésticos            ●​ Ação, quanto aos créditos resultantes das relações de trabalho, com
+                           prazo prescricional de cinco anos para os trabalhadores urbanos e rurais,
+                           até o limite de dois anos após a extinção do contrato de trabalho;
+                        ●​ Proibição de distinção entre trabalho manual, técnico e intelectual ou
+                           entre os profissionais respectivos;
+                        ●​ Igualdade de direitos entre o trabalhador com vínculo empregatício
+                           permanente e o trabalhador avulso.
+
+Os direitos sociais coletivos dos trabalhadores
+Em seus arts. 8º a 11, a Constituição enumera vários direitos coletivos dos trabalhadores. Que tal
+lermos esses dispositivos juntos, fazendo os apontamentos necessários para gabaritar as
+questões de prova a eles referentes?
+
+        Art. 8º É livre a associação profissional ou sindical, observado o seguinte:
+        I - a lei não poderá exigir autorização do Estado para a fundação de sindicato,
+        ressalvado o registro no órgão competente, vedadas ao Poder Público a
+        interferência e a intervenção na organização sindical;
+
+A fundação de sindicato independe de autorização estatal (nem mesmo a lei poderá fazer tal
+exigência). Todavia, a fundação de sindicato necessita de registro em órgão competente, ou seja,
+registro na Secretaria do Trabalho do Ministério da Economia. Destaque-se que é vedada a
+interferência do Poder Público nos sindicatos (princípio da autonomia sindical).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 13
+        www.estrategiaconcursos.com.br                                                               35
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 04
+
+           II - é vedada a criação de mais de uma organização sindical, em qualquer grau,
+           representativa de categoria profissional ou econômica, na mesma base territorial,
+           que será definida pelos trabalhadores ou empregadores interessados, não
+           podendo ser inferior à área de um Município;
+
+Esse dispositivo consagra o princípio da unicidade da organização sindical, que é um limitador da
+autonomia sindical. Segundo esse princípio, não pode coexistir mais de um sindicato da mesma
+categoria profissional (trabalhadores) ou econômica (empregadores) dentro de uma idêntica base
+territorial, que não poderá ser inferior à área de um Município. Como exemplo, só poderá haver
+um sindicato de professores no município de Belo Horizonte.
+E em caso de existir mais dois sindicatos na mesma base territorial?
+Nesse caso, estaremos diante de um conflito, a ser resolvido pela anterioridade, ou seja, a
+categoria será representada pela entidade que primeiro realizou seu registro no órgão
+competente. Percebe-se, aqui, que o registro do sindicato na Secretaria do Trabalho do
+Ministério da Economia é um instrumento essencial para que o Estado realize o controle da
+unicidade sindical.
+
+(TCE-PE – 2017) Por imposição de lei, se um órgão estadual for criado, os servidores ocupantes
+de cargo efetivo desse órgão poderão, desde que com prévia autorização do órgão estatal
+competente, fundar sindicato.
+Comentários:
+A criação de sindicato independe de autorização do Poder Público. Segundo o art. 8º, I, CF/88,
+“a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o
+registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na
+organização sindical”. Questão errada.
+
+           III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais
+           da categoria, inclusive em questões judiciais ou administrativas;
+
+Destaque-se que o STF, com base no inciso acima, entende que o sindicato pode atuar na defesa
+de todos os direitos individuais e coletivos dos integrantes da categoria que representa.
+Exemplo: o Sindicato dos Auditores da Receita Federal poderá atuar na defesa judicial ou
+administrativa de um único membro acusado de acesso imotivado aos sistemas do órgão.
+O STF considera, ainda, que o art. 8º, inciso III, assegura ampla legitimidade ativa aos sindicatos
+para atuarem como substitutos processuais das categorias que representam, na defesa de
+direitos e interesses coletivos ou individuais de seus integrantes. Conforme já se sabe, quando se
+trata de substituição processual, não há necessidade de prévia autorização dos trabalhadores.1
+
+1
+    STF. RE nº 193.503/SP, Rel. Min. Joaquim Barbosa. 12.06.2006.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          14
+           www.estrategiaconcursos.com.br                                                        35
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 04
+
+            IV - a assembleia geral fixará a contribuição que, em se tratando de categoria
+            profissional, será descontada em folha, para custeio do sistema confederativo da
+            representação sindical respectiva, independentemente da contribuição prevista
+            em lei;
+
+É fundamental sabermos a diferença entre a contribuição confederativa e a contribuição sindical.
+A contribuição confederativa tem fundamento no art. 8º, inciso IV, CF/88. Possui caráter
+facultativo, sendo cobrada apenas dos filiados do sindicato. Sabe-se que ninguém é obrigado a
+filiar-se ou manter-se filiado, mas aqueles que o fizerem deverão pagar a contribuição
+confederativa. Não possui natureza jurídica tributária, sendo seu valor fixado pela assembleia
+geral.
+Sobre a contribuição confederativa, o STF editou a Súmula Vinculante nº 40:
+
+            Súmula Vinculante nº 40: A contribuição confederativa de que trata o art. 8º, IV,
+            da Constituição Federal, só é exigível dos filiados ao sindicato respectivo.
+
+A contribuição sindical, por sua vez, tem fundamento no art. 149, CF/88, sendo seu valor fixado
+por lei. Até a Reforma Trabalhista, a contribuição sindical tinha que ser obrigatoriamente
+recolhida, o que fazia com que a doutrina entendesse que possuía natureza jurídica tributária.
+Com a Reforma Trabalhista (Lei nº 13.467/2017), a contribuição sindical passou a ser
+obrigatoriamente recolhida pelos empregadores apenas daqueles empregados que assim
+autorizarem.2 Na prática, portanto, o seu recolhimento passou a ser facultativo, o que nos
+permite afirmar que a contribuição sindical não possui natureza jurídica tributária.
+Para melhor fixação das duas possíveis contribuições a serem fixadas por sindicato, veja o quadro
+abaixo:
+
+(Manausprev – 2015) A contribuição confederativa é encargo de caráter tributário, compulsório,
+que sujeita, além dos filiados, todos os profissionais da categoria.
+2
+    Art. 582, CLT.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         15
+           www.estrategiaconcursos.com.br                                                       35
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+Comentários:
+A contribuição confederativa é exigida apenas dos filiados e, em razão disso, não possui natureza
+tributária. Questão errada.
+
+        V - ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato;
+
+Trata-se do princípio da liberdade de inscrição sindical, segundo o qual os trabalhadores são
+livres para decidirem se filiar ou se manterem filiados a sindicato. Em outras palavras, a
+participação em sindicato não é compulsória. Cabe destacar que o art. 8º, V, CF/88 é corolário
+(consequência) do princípio da liberdade de associação (5º, XX), segundo o qual “ninguém
+poderá ser compelido a associar-se ou manter-se associado”.
+        VI - é obrigatória a participação dos sindicatos nas negociações coletivas de
+        trabalho;
+
+Os sindicatos têm atuação importante nas negociações coletivas de trabalho (convenções
+coletivas e acordos coletivos). Nas convenções coletivas, a negociação se dá entre sindicato de
+trabalhadores e sindicato patronal; nos acordos coletivos, entre o sindicato de trabalhadores e
+uma empresa ou grupo de empresas. Em todos os casos, percebe-se que haverá participação do
+sindicato.
+
+        VII - o aposentado filiado tem direito a votar e ser votado nas organizações
+        sindicais;
+
+A CF/88 garante ao aposentado filiado ampla participação no sindicato da categoria, podendo
+votar e ser votado. Assim, o aposentado poderá ser eleito dirigente sindical.
+
+        VIII - é vedada a dispensa do empregado sindicalizado a partir do registro da
+        candidatura a cargo de direção ou representação sindical e, se eleito, ainda que
+        suplente, até um ano após o final do mandato, salvo se cometer falta grave nos
+        termos da lei.
+
+Trata-se da estabilidade sindical, que consiste em proteção especial dispensada aos dirigentes
+eleitos dos trabalhadores. O empregado que se candidatar a cargo de direção ou representação
+sindical não poderá ser dispensado a partir do registro de sua candidatura. Se eleito (mesmo
+suplente), não poderá ser dispensado até um ano depois de findo o mandato, exceto se cometer
+falta grave, nos termos da lei.
+Perceba que, mesmo após ter sido eleito dirigente ou representante sindical, o empregado
+poderá ser dispensado. No entanto, a dispensa somente poderá ocorrer caso ele cometa falta
+grave.
+
+        Parágrafo único. As disposições deste artigo aplicam-se à organização de
+        sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei
+        estabelecer.
+
+A Constituição Federal, para não deixar qualquer margem de dúvida, dispôs que as regras do
+art.8º também se aplicam aos sindicatos rurais e de colônias de pescadores.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          16
+        www.estrategiaconcursos.com.br                                                        35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+        Art. 9º É assegurado o direito de greve, competindo aos trabalhadores decidir
+        sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio
+        dele defender.
+        § 1º - A lei definirá os serviços ou atividades essenciais e disporá sobre o
+        atendimento das necessidades inadiáveis da comunidade.
+        § 2º - Os abusos cometidos sujeitam os responsáveis às penas da lei.
+
+O art. 9º da CF assegura aos trabalhadores o direito de greve. Não se trata de direito absoluto,
+uma vez que as necessidades inadiáveis da comunidade deverão ser atendidas e aqueles que
+abusarem do direito ficarão sujeitos a penas fixadas em lei.
+A doutrina majoritária considera que o direito de greve dos trabalhadores da iniciativa privada
+(regidos pela CLT) é norma de eficácia contida, pois poderá ser restringido por lei. Recorde-se
+que o direito de greve dos servidores públicos é norma de eficácia limitada, dependendo, para
+seu exercício, da edição de lei regulamentadora.
+
+(TJ-SC – 2015) O direito de greve é um direito social, não dependendo de uma prestação estatal
+específica para o seu exercício.
+Comentários:
+Apesar de ser um direito social, o direito de greve não depende de prestação estatal específica
+para o seu exercício. Questão correta.
+
+        Art. 10. É assegurada a participação dos trabalhadores e empregadores nos
+        colegiados dos órgãos públicos em que seus interesses profissionais ou
+        previdenciários sejam objeto de discussão e deliberação.
+
+Esse dispositivo é, normalmente, cobrado em sua literalidade. Basta saber que os trabalhadores
+e empregadores têm direito a participar no colegiado de órgãos públicos em que seus interesses
+profissionais ou previdenciários sejam objeto de discussão e deliberação. Apenas para ilustrar
+com um exemplo, o Conselho Nacional de Previdência Social (CNPS) é um órgão colegiado do
+qual participam representantes do Governo, dos trabalhadores em atividade, dos empregadores
+e dos aposentados.
+
+        Art. 11. Nas empresas de mais de duzentos empregados, é assegurada a eleição
+        de um representante destes com a finalidade exclusiva de promover-lhes o
+        entendimento direto com os empregadores.
+
+O objetivo do art. 11 é melhorar a interlocução entre empregadores e empregados naquelas
+empresas com grande número de trabalhadores. Assim, nas empresas com mais de 200
+empregados, é assegurada a eleição de um representante destes. Esse representante terá a
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         17
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+tarefa (finalidade exclusiva) de promover o entendimento direto entre os empregados e os
+empregadores.
+
+(Polícia Rodoviária Federal – 2014) Nas empresas com mais de cem empregados, é assegurada a
+eleição de um representante destes com a finalidade exclusiva de promover o entendimento
+direto com os empregadores.
+Comentários:
+A questão foi no detalhe! Essa regra somente se aplica às empresas com mais de 200
+empregados. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                     18
+        www.estrategiaconcursos.com.br                                                   35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+                 DIREITOS DOS TRABALHADORES DOMÉSTICOS
+O parágrafo único do art. 7º da Constituição sofreu importantes modificações pela Emenda
+Constitucional nº 72/2013, que assegurou importantes direitos trabalhistas aos empregados
+domésticos. O objetivo da EC nº 72/2013 foi justamente assegurar igualdade de direitos
+trabalhistas entre os trabalhadores domésticos e os demais trabalhadores urbanos e rurais.
+Destaque-se que, mesmo após a referida emenda constitucional, nem todos os direitos
+trabalhistas foram assegurados aos empregados domésticos.
+
+        Parágrafo único. São assegurados à categoria dos trabalhadores domésticos os
+        direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI,
+        XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em
+        lei e observada a simplificação do cumprimento das obrigações tributárias,
+        principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades,
+        os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à
+        previdência social.
+
+Como poucos direitos listados nos incisos do art. 7º da Constituição ficaram “de fora”, ou seja,
+poucos não foram atribuídos aos domésticos, acho interessante listá-los abaixo, para que você
+não caia em eventuais “pegadinhas” de prova:
+
+                            ●​ Piso salarial proporcional à extensão e à complexidade do trabalho;
+                            ●​ Participação nos lucros, ou resultados, desvinculada da remuneração,
+                               e, excepcionalmente, participação na gestão da empresa, conforme
+                               definido em lei;
+                            ●​ Jornada de seis horas para o trabalho realizado em turnos
+                               ininterruptos de revezamento, salvo negociação coletiva;
+                            ●​ Proteção do mercado de trabalho da mulher, mediante incentivos
+                               específicos, nos termos da lei;
+  Direitos que não
+                            ●​ Adicional de remuneração para as atividades penosas, insalubres ou
+  foram atribuídos
+                               perigosas, na forma da lei;
+   pela CF/88 aos
+     domésticos             ●​ Proteção em face da automação, na forma da lei;
+                            ●​ Ação, quanto aos créditos resultantes das relações de trabalho, com
+                               prazo prescricional de cinco anos para os trabalhadores urbanos e
+                               rurais, até o limite de dois anos após a extinção do contrato de
+                               trabalho;
+                            ●​ Proibição de distinção entre trabalho manual, técnico e intelectual ou
+                               entre os profissionais respectivos;
+                            ●​ Igualdade de direitos entre o trabalhador com vínculo empregatício
+                               permanente e o trabalhador avulso.
+
+
+Obviamente, alguns desses direitos não foram previstos para o doméstico pelas próprias
+características do trabalho. Não faria sentido, por exemplo, prever uma “participação nos lucros”,
+já que não trabalham em uma pessoa jurídica.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 19
+        www.estrategiaconcursos.com.br                                                               35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+(UEG – 2015) Os empregados domésticos passaram a ter direitos sociais antes previstos apenas
+para os demais trabalhadores em geral. É o caso do piso salarial nacional, que deve ser
+proporcional à extensão e à complexidade do trabalho.
+Comentários:                                             ==5460==
+
+A EC nº 72/2013 não atribuiu aos empregados domésticos o direito ao piso salarial proporcional
+à extensão e à complexidade do trabalho. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        20
+        www.estrategiaconcursos.com.br                                                      35
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 04
+
+                                     QUESTÕES COMENTADAS
+
+Direitos Sociais
+
+1.​   (FGV/DNIT/Analista Administrativo/2024) Os direitos sociais, previstos na Constituição da
+República Federativa do Brasil de 1988, representam uma dimensão crucial dos direitos e
+garantias fundamentais que norteiam a sociedade brasileira.
+Com relação aos direitos sociais, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).
+( ) Todo brasileiro em situação de vulnerabilidade social tem direito a uma renda básica familiar.
+( ) Garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável.
+( ) O seguro-desemprego é direito dos trabalhadores rurais, em caso de desemprego voluntário.
+As afirmações são, respectivamente,
+a) F – V – F.
+b) F – V – V.
+c) V – F – F.
+d) V – V – F.
+e) V – F – V.
+Comentários:
+Meus amigos, para melhor compreensão, vamos analisar inicialmente cada uma das afirmativas:
+
+Item 1 – Está correto. É exata previsão do parágrafo único do art. 6º da Constituição. Temos
+agora a Constitucionalização de um programa de renda mínima para atendimento às pessoas em
+situação de vulnerabilidade social.
+
+Item 2 – Também está correto. Trata-se do direito social de garantia de salário, nunca inferior ao
+mínimo, para os que percebem remuneração variável (art. 7º, inciso VII da CRFB/88)
+
+Item 3 – Pegadinha! O seguro desemprego é válido para os casos de desemprego involuntário.
+(art. 7º, inciso III da CRFB/88)
+
+(...)
+
+LETRA A. INCORRETA. O item I está verdadeiro. De acordo com a nossa Carta Magna, aqueles
+brasileiros que estão em situação de vulnerabilidade têm direito de receber do Estado uma renda
+básica familiar, vejamos:
+                           Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a
+                          moradia, o transporte, o lazer, a segurança, a previdência social, a proteção
+                          à maternidade e à infância, a assistência aos desamparados, na forma desta
+                          Constituição.
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                 21
+         www.estrategiaconcursos.com.br                                                               35
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+                         Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá
+                         direito a uma renda básica familiar, garantida pelo poder público em
+                         programa permanente de transferência de renda, cujas normas e requisitos
+                         de acesso serão determinados em lei, observada a legislação fiscal e
+                         orçamentária
+LETRA B. INCORRETA. O item I é verdadeiro, mas o item III é falso. Apenas é assegurado ao
+trabalhador, seja urbano ou rural, o seguro desemprego, se este aconteceu de forma involuntária,
+em outras palavras, em caso de demissão sem justa causa (art. 7º, inciso II da CRFB/88):
+                         Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que
+                         visem à melhoria de sua condição social:
+                         II - seguro-desemprego, em caso de desemprego involuntário;
+LETRA C. INCORRETA. Na verdade, o item II é verdadeiro, porque é garantido ao trabalhador o
+salário nunca inferior ao mínimo, incluindo aqueles que recebem remuneração variável,
+consoante disposição no art. 7º, inciso VII da CRFB/88: “garantia de salário, nunca inferior ao
+mínimo, para os que percebem remuneração variável”.
+LETRA D. CORRETA. É o nosso gabarito! Os itens I e II são verdadeiros, já o item III é falso. A
+CRFB/88 garante aos brasileiros que estão em situação de vulnerabilidade o recebimento de uma
+renda básica familiar. Com relação ao trabalhador, a nossa Carta Magna determina que seu
+salário nunca deve ser inferior ao mínimo, incluindo aqueles que recebem remuneração variável.
+Ainda sobre os trabalhadores urbanos e rurais, é garantido a eles o recebimento do seguro
+desemprego, quando for demitido sem justa causa, isto é, desemprego involuntário.
+                         Art. 6º (...)
+                         Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá
+                         direito a uma renda básica familiar, garantida pelo poder público em
+                         programa permanente de transferência de renda, cujas normas e requisitos
+                         de acesso serão determinados em lei, observada a legislação fiscal e
+                         orçamentária
+                         Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que
+                         visem à melhoria de sua condição social:
+                         II - seguro-desemprego, em caso de desemprego involuntário;
+                         VII - garantia de salário, nunca inferior ao mínimo, para os que percebem
+                         remuneração variável;
+LETRA E. INCORRETA. O item II é verdadeiro, sendo garantido aos trabalhadores o salário nunca
+inferior ao mínimo, inclusive daqueles que recebem remuneração variável, conforme art. 7º, inciso
+VII da CRFB/88: “garantia de salário, nunca inferior ao mínimo, para os que percebem
+remuneração variável”.
+Gabarito: Letra D.
+
+
+2.​    (FGV/ENAM/Magistratura/2024) No capítulo dos Direitos Sociais, a CRFB/88, em seu Art.
+7º, elenca os direitos dos trabalhadores urbanos e rurais. Dos direitos previstos, indique aquele
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              22
+        www.estrategiaconcursos.com.br                                                            35
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+que até o presente momento não foi regulamentado e, assim, não pode ser exercido pelos
+trabalhadores brasileiros.
+a) Aviso prévio proporcional ao tempo de serviço.
+b) Adicional de remuneração para as atividades penosas.
+c) Proibição de trabalho noturno a menores de dezoito anos.
+d) Seguro contra acidentes de trabalho, a cargo do empregador.
+e) Salário-família pago em razão do dependente do trabalhador de baixa renda.
+Comentários:
+LETRA A. INCORRETA. O aviso prévio está devidamente previsto em nossa Constituição (art. 7º,
+inciso XXI), sendo esse direito regulamentado pela Lei nº 12.506/2011, a qual determina que o
+aviso prévio deve ser proporcional ao tempo de serviço, possuindo prazo mínimo de 30 dias.
+LETRA B. CORRETO. Exatamente! Apesar de devidamente previsto na Constituição Federal, o
+direito ao adicional de remuneração para atividades penosas não pode ser efetivamente
+concretizado, uma vez que não existe atualmente lei que o regulamente. Vejamos o art. 7º da
+CRFB/88: “XXIII - adicional de remuneração para as atividades penosas, insalubres ou perigosas,
+na forma da lei”.
+LETRA C. INCORRETA. A nossa Constituição veda o trabalho noturno aos menores de 18 anos.
+Tal proibição foi devidamente regulamentada pelo Estatuto da Criança e do Adolescente - ECA,
+vejamos:
+                         Art. 7º da CRFB/88:
+                         XXXIII - proibição de trabalho noturno, perigoso ou insalubre a menores de
+                         dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na
+                         condição de aprendiz, a partir de quatorze anos;
+
+                         (...)
+                         ECA: Art. 67. Ao adolescente empregado, aprendiz, em regime familiar de
+                         trabalho, aluno de escola técnica, assistido em entidade governamental ou
+                         não-governamental, é vedado trabalho: I - noturno, realizado entre as vinte
+                         e duas horas de um dia e às cinco horas do dia seguinte;
+LETRA D. INCORRETA. O direito ao seguro de acidentes de trabalho a cargo do empregador,
+previsto no Texto Constitucional foi regulamentado pela Lei 8.213/1991, que tem como
+finalidade os planos de benefício da Previdência Social.
+                         XXVIII - seguro contra acidentes de trabalho, a cargo do empregador, sem
+                         excluir a indenização a que este está obrigado, quando incorrer em dolo ou
+                         culpa;
+LETRA E. INCORRETA. É assegurado constitucionalmente o salário-família pago em razão do
+dependente do trabalhador de baixa renda, que foi regulamentado pela Lei 8.213/1991,
+podendo tal direito ser exercido.
+Gabarito: Letra B.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             23
+        www.estrategiaconcursos.com.br                                                           35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+3.​    (FGV/Câmara dos Deputados/Consultor Legislativo/2024) Maria, Deputada Federal,
+baseada na importância do Fundo de Garantia por Tempo de Serviço (FGTS) para o trabalhador
+brasileiro e na constatação de que os respectivos depósitos decorriam de relações jurídicas que
+se protraiam no tempo, decidiu apresentar um projeto de lei ordinária fixando em 30 anos, a
+contar da extinção do contrato de trabalho, o lapso temporal para o ajuizamento de ação na
+qual se discuta temática afeta à realização dos respectivos depósitos.
+Ao cotejarmos a iniciativa de Maria com a Constituição da República, é correto afirmar que
+a) a iniciativa se mostra dissonante da ordem constitucional, já que deveria ser veiculada sob a
+forma de projeto de lei complementar.
+b) a iniciativa é inconstitucional, pois afronta o lapso prescricional de estatura constitucional que
+deve ser aplicado à matéria.
+c) o Poder Legislativo, no exercício de sua liberdade de conformação, pode definir o lapso
+prescricional das ações que não sejam estritamente trabalhistas, logo, a iniciativa é constitucional.
+d) apesar de a ação estar relacionada a uma contribuição social com destinação específica, não
+tendo natureza trabalhista, não podem ser estabelecidos prazos prescricionais especiais, não
+extensivos a situações correlatas.
+e) embora seja possível a disciplina almejada por Maria, na medida em que ela impactará a
+administração pública indireta, gestora dos recursos do FGTS, ela é de iniciativa privativa do
+Chefe do Poder Executivo.
+Comentários:
+LETRA A. INCORRETA. Na verdade, quanto ao prazo prescricional, este não pode ser alterado,
+seja por lei complementar ou por lei ordinária., uma vez que tal prazo possui natureza
+constitucional, conforme art. 7º, inciso XXIX da CRFB/88.
+LETRA B. CORRETA. É o nosso gabarito! A lei ordinária deve ser declarada inconstitucional,
+tendo em vista que vai de encontro com o prazo previsto na Constituição Federal, não podendo
+ele ser alterado através de lei ordinária, de acordo com o art. 7º, inciso XXIX da CRFB/88:
+                         XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com
+                         prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até
+                         o limite de dois anos após a extinção do contrato de trabalho;
+LETRA C. INCORRETA. De forma alguma! Muito cuidado, pois a iniciativa da Deputada é
+inconstitucional, uma vez que o prazo prescricional está previsto na Constituição Federal, não
+podendo ser alterado através de lei ordinária.
+LETRA D. INCORRETA. Perceba que os prazos já foram estabelecidos na Constituição em seu art.
+7º, inciso XXIX. Portanto, não há que se falar em prazos especiais.
+LETRA E. INCORRETA. Totalmente equivocada! A proposta almejada pela Deputada não é
+possível, tendo em vista que se trata de prazos prescricionais de natureza constitucional, o que
+significa que não é possível sua alteração através de lei ordinária.
+Gabarito: Letra B.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               24
+        www.estrategiaconcursos.com.br                                                             35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+4.​    (FGV/ENAM/Magistratura/2024) Em sede de análise de direitos constitucionalmente
+assegurados aos trabalhadores, assinale a opção que apresenta, corretamente, um direito
+previsto na CRFB/88.
+a) Igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o
+trabalhador avulso.
+b) Irredutibilidade salarial, exceto por acordo individual entre empregado e empregador e
+homologação pelo Poder Judiciário.
+c) Seguro-desemprego nos casos de ruptura do contrato de trabalho por quaisquer das causas
+previstas em lei.
+d) Licença à empregada gestante, sem prejuízo do emprego e do trabalho, desde a confirmação
+da gravidez até cinco meses após o parto.
+e) Participação nos lucros da empresa que deverá compor a remuneração para todos os efeitos.
+Comentários:
+LETRA A. CORRETA. De cara, temos o nosso gabarito! A Constituição Federal assegura
+igualdade de direitos tanto aos trabalhadores com vínculo empregatício permanentes quanto aos
+avulsos, de acordo com o art. 7º, inciso XXXIV da CRFB/88:
+                         XXXIV - igualdade de direitos entre o trabalhador com vínculo empregatício
+                         permanente e o trabalhador avulso
+LETRA B. INCORRETA. Pessoal, não esqueçam! A redução salarial apenas é permitida através de
+convenção ou acordo coletivo e não por meio de acordo individual, ainda que homologado
+judicialmente, conforme art. 7º, inciso VI da CRFB/88: “irredutibilidade do salário, salvo o
+disposto em convenção ou acordo coletivo”.
+LETRA C. INCORRETA. Claro que não! O seguro desemprego apenas é garantido no caso de
+demissão sem justa causa, isto é, demissão involuntária, de acordo com o art. 7º, inciso II da
+CRFB/88: “seguro-desemprego, em caso de desemprego involuntário”.
+LETRA D. INCORRETA. Na verdade, a licença à empregada gestante tem duração de cento e
+vinte dias, não havendo previsão na Constituição quanto ao início do prazo, conforme art. 7º,
+inciso XVIII da CRFB/88: “licença à gestante, sem prejuízo do emprego e do salário, com a
+duração de cento e vinte dias”.
+LETRA E. INCORRETA. A Constituição Federal prevê a participação nos lucros da empresa, no
+entanto ela não repercute na remuneração do empregado, de acordo com o art. 7º, inciso XI da
+CRFB/88: “participação nos lucros, ou resultados, desvinculada da remuneração, e,
+excepcionalmente, participação na gestão da empresa, conforme definido em lei”.
+Gabarito: Letra A.
+
+
+5.​     (FGV/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde/2024) O
+instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à
+determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais.
+Assinale a opção que exemplifica corretamente os direitos sociais.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            25
+        www.estrategiaconcursos.com.br                                                          35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+a) Direito à vida e à liberdade.
+b) Direito à representação política.
+c) Direito à propriedade privada.
+d) Direito à saúde e à moradia.
+Comentários:
+LETRA A. INCORRETA. De forma alguma! O direito à vida e à liberdade são classificados como
+direitos individuais ou civis, estando eles inseridos no capítulo: ”Direitos e deveres individuais e
+coletivos, previstos no art. 5º caput da CRFB/88.
+LETRA B. INCORRETA. Vamos combinar que o direito à representação política só poderia ser
+classificado como direitos políticos, correto?! Ele está inserido no capítulo dos direitos políticos,
+em seu art. 14 e seguintes da CRFB/88.
+LETRA C. INCORRETA. O direito à propriedade privada está no rol dos direitos civis, estando
+disciplinado no art. 5º, em seu caput da CRFB/88.
+LETRA D. CORRETA. É o nosso gabarito! O direito à saúde e a moradia são classificados como
+direitos sociais, sendo de responsabilidade do Estado proporcioná-los ao povo, estando eles
+previstos no art. 6º da CRFB/88:
+                         Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a
+                         moradia, o transporte, o lazer, a segurança, a previdência social, a proteção
+                         à maternidade e à infância, a assistência aos desamparados, na forma desta
+                         Constituição.
+Gabarito: Letra D.
+
+
+6.​    (FGV/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde/2024) Assinale
+a alternativa que apresenta apenas direitos sociais previstos expressamente na Constituição
+Federal de 1988.
+a) Trabalho, lazer e transporte.
+b) Moradia, previdência social e família.
+c) Alimentação, meio ambiente e maternidade.
+d) Esporte, educação e segurança.
+Comentários:
+LETRA A. CORRETA. É o nosso gabarito! O trabalho, o lazer e o transporte são direitos sociais
+assegurados pela Constituição Federal, em seu art. 6º, vejamos;
+                         Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a
+                         moradia, o transporte, o lazer, a segurança, a previdência social, a proteção
+                         à maternidade e à infância, a assistência aos desamparados, na forma desta
+                         Constituição
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                26
+        www.estrategiaconcursos.com.br                                                              35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+LETRA B. INCORRETA. Apenas a moradia e a previdência social são direitos sociais. A proteção à
+família é assegurada na Constituição, mas não se encontra no rol dos direitos sociais.
+LETRA C. INCORRETA. O meio-ambiente não é um direito social, estando ele inserido no
+capítulo VI, do título da Ordem Social, da Constituição (art. 225 da CRFB/88).
+LETRA D. INCORRETA. Pessoal, o esporte não está listado como direito social, mas apenas à
+educação e à segurança, de acordo com o art. 6º da CRFB/88.
+Gabarito: Letra A.
+
+
+7.​    (FGV/SES-MT/Gestão Hospitalar/2024) Embora a liberdade de associação seja um direito
+constitucional, e vedada a interferência e a intervenção por parte do Poder Público na
+organização sindical, algumas restrições foram impostas nesse sentido.
+Assinale a alternativa que apresenta uma dessas restrições.
+                                                         ==5460==
+
+a) A criação de mais de uma organização sindical, representativa de categoria, na mesma base
+territorial, não podendo ser inferior à área de um Município.
+b) A participação dos sindicatos nas negociações coletivas de trabalho.
+c) O filiado aposentado assumir cargos eletivos nas organizações sindicais.
+d) Uma organização sindical seja criada e entre em funcionamento sem autorização do Poder
+Público, conforme previsto nas leis estaduais.
+Comentários:
+LETRA A. CORRETA. É o nosso gabarito! É vedada a criação de mais de um sindicato
+representativo da mesma categoria dentro de uma mesma base territorial, que não pode ser
+menor que a área de um município, de acordo com o art. 8º, inciso II da CRFB/88:
+                         II - é vedada a criação de mais de uma organização sindical, em qualquer
+                         grau, representativa de categoria profissional ou econômica, na mesma base
+                         territorial, que será definida pelos trabalhadores ou empregadores
+                         interessados, não podendo ser inferior à área de um Município;
+LETRA B. INCORRETA. Na verdade, a Constituição determina que os sindicatos participem das
+negociações coletivas de trabalho, de acordo com o art. 8º, inciso VI da CRFB/88: “é obrigatória
+a participação dos sindicatos nas negociações coletivas de trabalho”.
+LETRA C. INCORRETA. A Constituição possibilita que o filiado aposentado possa votar e ser
+votado, consequentemente pode vir a assumir cargos eletivos nas organizações sindicais,
+conforme vislumbramos no art. 8º, inciso VII da CRFB/88: “o aposentado filiado tem direito a
+votar e ser votado nas organizações sindicais”.
+LETRA D. INCORRETA. De forma alguma! Para que uma organização sindical seja criada, não é
+necessária a autorização do Poder Público, sendo apenas exigido o devido registro perante o
+órgão competente, de acordo com o art. 8º, inciso I da CRFB/88:
+                         I - a lei não poderá exigir autorização do Estado para a fundação de
+                         sindicato, ressalvado o registro no órgão competente, vedadas ao Poder
+                         Público a interferência e a intervenção na organização sindical;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            27
+        www.estrategiaconcursos.com.br                                                          35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+Gabarito: Letra A.
+
+8.​     (FGV/PGM-NITERÓI-RJ/Técnico de Procuradoria/2023) Ana, pessoa sem formação
+jurídica, realizou uma pesquisa com o objetivo de compreender a funcionalidade dos direitos
+sociais no âmbito do Estado Democrático de Direito, mais especificamente em relação ao papel
+assumido pelo Estado.
+
+Ao final de suas reflexões, concluiu que a funcionalidade desses direitos é a de:
+
+a) assegurar a liberdade individual;
+
+b) como regra, assegurar a fruição de determinadas prestações estatais;
+
+c) restringir a esfera jurídica do indivíduo em prol dos interesses da sociedade;
+
+d) atender aos anseios da coletividade, já que um direito dessa natureza jamais é fruído
+individualmente;
+
+e) impedir que haja rupturas na democracia, de modo que a sociedade sempre possa deliberar
+sobre o seu futuro.
+
+Comentários:
+
+Letra A. INCORRETA. Os direitos sociais são considerados direitos de 2ª dimensão. A liberdade
+individual está no contexto dos direitos de 1ª dimensão.
+
+Letra B. CORRETA. É o nosso gabarito. De fato, nos direitos fundamentais de 2ª dimensão a
+perspectiva em relação ao Estado muda completamente, passando a se exigir do Poder Público
+um papel mais atuante (positivamente), realizando prestações em favor dos indivíduos. É o caso
+dos direitos sociais (trabalho, moradia, lazer, saúde, assistência social etc.)
+
+Letra C. INCORRETA. Os direitos sociais não visam restringir a “esfera jurídica do indivíduo em
+prol dos interesses da sociedade”. São direitos fundamentais que irão dar concretude ao senso
+de justiça social e bem-estar da sociedade.
+
+Letra D. INCORRETA. É possível a fruição de um direito social individualmente. Por exemplo, o
+direito à saúde.
+
+Letra E. INCORRETA. Direitos sociais não estão relacionados à democracia. Estes, estão inseridos
+no contexto dos direitos de 4ª dimensão, segundo a doutrina.
+
+Gabarito: Letra B.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         28
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+9.​    (FGV/Prefeitura de Belo Horizonte - Auditor de Controle Interno/2024) João, governador
+do Estado Alfa, consultou um assessor sobre a compatibilidade da implementação de uma
+política pública com o instituto da ação afirmativa.
+
+Ao ver desse assessor, os traços estruturais desse instituto estão presentes nos itens a seguir.
+
+I. Funcionalidade de construção da igualdade formal.
+
+II. Sua necessária continuidade, considerando os objetivos almejados, que se mostram
+incompatíveis com delimitações temporais.
+
+III. Sujeição à influência da denominada reserva do possível. Está correto, na visão do assessor,
+o(s) item(ns)
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+Comentários:
+
+Afirmativa 1 – Na verdade, a implementação de políticas públicas com as ações afirmativas revela
+o princípio da igualdade em seu sentido material (isonomia material) e não formal.
+
+Afirmativa 2 – Pelo contrário. As ações afirmativas possuem caráter temporal. Entende-se que
+estamos diante de ações temporárias e especiais buscando a concretização de direitos
+fundamentais (isonomia material).
+
+Afirmativa 3 – Verdade. No campo dos direitos sociais, assim como ocorre com ações afirmativas,
+a cláusula da reserva do financeiramente possível pode ser alegada pelo Estado na concretização
+de direitos, desde que se demonstre objetivamente a medida e se respeite o princípio da
+dignidade da pessoa humana com o atendimento do mínimo existencial.
+
+Gabarito: Letra C.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               29
+        www.estrategiaconcursos.com.br                                                             35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+                                         LISTA DE QUESTÕES
+
+Direitos Sociais
+
+1.​   (FGV/DNIT/Analista Administrativo/2024) Os direitos sociais, previstos na Constituição da
+República Federativa do Brasil de 1988, representam uma dimensão crucial dos direitos e
+garantias fundamentais que norteiam a sociedade brasileira.
+Com relação aos direitos sociais, avalie se as afirmativas a seguir são verdadeiras (V) ou falsas (F).
+( ) Todo brasileiro em situação de vulnerabilidade social tem direito a uma renda básica familiar.
+( ) Garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável.
+( ) O seguro-desemprego é direito dos trabalhadores rurais, em caso de desemprego voluntário.
+As afirmações são, respectivamente,
+a) F – V – F.
+b) F – V – V.
+c) V – F – F.
+d) V – V – F.
+e) V – F – V.
+
+
+2.​    (FGV/ENAM/Magistratura/2024) No capítulo dos Direitos Sociais, a CRFB/88, em seu Art.
+7º, elenca os direitos dos trabalhadores urbanos e rurais. Dos direitos previstos, indique aquele
+que até o presente momento não foi regulamentado e, assim, não pode ser exercido pelos
+trabalhadores brasileiros.
+a) Aviso prévio proporcional ao tempo de serviço.
+b) Adicional de remuneração para as atividades penosas.
+c) Proibição de trabalho noturno a menores de dezoito anos.
+d) Seguro contra acidentes de trabalho, a cargo do empregador.
+e) Salário-família pago em razão do dependente do trabalhador de baixa renda.
+
+
+3.​   (FGV/Câmara dos Deputados/Consultor Legislativo/2024) Maria, Deputada Federal,
+baseada na importância do Fundo de Garantia por Tempo de Serviço (FGTS) para o trabalhador
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 30
+        www.estrategiaconcursos.com.br                                                               35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+brasileiro e na constatação de que os respectivos depósitos decorriam de relações jurídicas que
+se protraiam no tempo, decidiu apresentar um projeto de lei ordinária fixando em 30 anos, a
+contar da extinção do contrato de trabalho, o lapso temporal para o ajuizamento de ação na
+qual se discuta temática afeta à realização dos respectivos depósitos.
+Ao cotejarmos a iniciativa de Maria com a Constituição da República, é correto afirmar que
+a) a iniciativa se mostra dissonante da ordem constitucional, já que deveria ser veiculada sob a
+forma de projeto de lei complementar.
+b) a iniciativa é inconstitucional, pois afronta o lapso prescricional de estatura constitucional que
+deve ser aplicado à matéria.
+c) o Poder Legislativo, no exercício de sua liberdade de conformação, pode definir o lapso
+prescricional das ações que não sejam estritamente trabalhistas, logo, a iniciativa é constitucional.
+d) apesar de a ação estar relacionada a uma contribuição social com destinação específica, não
+tendo natureza trabalhista, não podem ser estabelecidos prazos prescricionais especiais, não
+extensivos a situações correlatas.
+e) embora seja possível a disciplina almejada por Maria, na medida em que ela impactará a
+administração pública indireta, gestora dos recursos do FGTS, ela é de iniciativa privativa do
+Chefe do Poder Executivo.
+
+
+4.​    (FGV/ENAM/Magistratura/2024) Em sede de análise de direitos constitucionalmente
+assegurados aos trabalhadores, assinale a opção que apresenta, corretamente, um direito
+previsto na CRFB/88.
+a) Igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o
+trabalhador avulso.
+b) Irredutibilidade salarial, exceto por acordo individual entre empregado e empregador e
+homologação pelo Poder Judiciário.
+c) Seguro-desemprego nos casos de ruptura do contrato de trabalho por quaisquer das causas
+previstas em lei.
+d) Licença à empregada gestante, sem prejuízo do emprego e do trabalho, desde a confirmação
+da gravidez até cinco meses após o parto.
+e) Participação nos lucros da empresa que deverá compor a remuneração para todos os efeitos.
+
+
+5.​     (FGV/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde/2024) O
+instituto da cidadania estabelece direitos e deveres para os indivíduos pertencentes à
+determinada sociedade. Esses direitos podem ser divididos em civis, políticos e sociais.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              31
+        www.estrategiaconcursos.com.br                                                            35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+Assinale a opção que exemplifica corretamente os direitos sociais.
+a) Direito à vida e à liberdade.
+b) Direito à representação política.
+c) Direito à propriedade privada.
+d) Direito à saúde e à moradia.
+
+
+6.​    (FGV/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde/2024) Assinale
+a alternativa que apresenta apenas direitos sociais previstos expressamente na Constituição
+Federal de 1988.
+a) Trabalho, lazer e transporte.
+b) Moradia, previdência social e família.
+                                                         ==5460==
+
+c) Alimentação, meio ambiente e maternidade.
+d) Esporte, educação e segurança.
+
+
+7.​    (FGV/SES-MT/Gestão Hospitalar/2024) Embora a liberdade de associação seja um direito
+constitucional, e vedada a interferência e a intervenção por parte do Poder Público na
+organização sindical, algumas restrições foram impostas nesse sentido.
+Assinale a alternativa que apresenta uma dessas restrições.
+a) A criação de mais de uma organização sindical, representativa de categoria, na mesma base
+territorial, não podendo ser inferior à área de um Município.
+b) A participação dos sindicatos nas negociações coletivas de trabalho.
+c) O filiado aposentado assumir cargos eletivos nas organizações sindicais.
+d) Uma organização sindical seja criada e entre em funcionamento sem autorização do Poder
+Público, conforme previsto nas leis estaduais.
+
+8.​     (FGV/PGM-NITERÓI-RJ/Técnico de Procuradoria/2023) Ana, pessoa sem formação
+jurídica, realizou uma pesquisa com o objetivo de compreender a funcionalidade dos direitos
+sociais no âmbito do Estado Democrático de Direito, mais especificamente em relação ao papel
+assumido pelo Estado.
+
+Ao final de suas reflexões, concluiu que a funcionalidade desses direitos é a de:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       32
+        www.estrategiaconcursos.com.br                                                     35
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 04
+
+a) assegurar a liberdade individual;
+
+b) como regra, assegurar a fruição de determinadas prestações estatais;
+
+c) restringir a esfera jurídica do indivíduo em prol dos interesses da sociedade;
+
+d) atender aos anseios da coletividade, já que um direito dessa natureza jamais é fruído
+individualmente;
+
+e) impedir que haja rupturas na democracia, de modo que a sociedade sempre possa deliberar
+sobre o seu futuro.
+
+9.​    (FGV/Prefeitura de Belo Horizonte - Auditor de Controle Interno/2024) João, governador
+do Estado Alfa, consultou um assessor sobre a compatibilidade da implementação de uma
+política pública com o instituto da ação afirmativa.
+
+Ao ver desse assessor, os traços estruturais desse instituto estão presentes nos itens a seguir.
+
+I. Funcionalidade de construção da igualdade formal.
+
+II. Sua necessária continuidade, considerando os objetivos almejados, que se mostram
+incompatíveis com delimitações temporais.
+
+III. Sujeição à influência da denominada reserva do possível. Está correto, na visão do assessor,
+o(s) item(ns)
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               33
+        www.estrategiaconcursos.com.br                                                             35
+
+                                      
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 04
+
+                                                 GABARITO
+   1.​     LETRA D
+   2.​     LETRA B
+   3.​     LETRA B
+   4.​     LETRA A
+   5.​     LETRA D
+   6.​     LETRA A
+   7.​     LETRA A
+   8.​     LETRA B
+   9.​     LETRA C
+
+      Receita Federal (Analista Tributário) Direito Constitucional       34
+      www.estrategiaconcursos.com.br                                     35
+
+                                    
+
+
+---
+
+---

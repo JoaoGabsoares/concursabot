@@ -1,0 +1,413 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 27_003_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '27'
+titulo_aula: RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+---
+
+# RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+CPC 47 - Receita de Contrato com Cliente
+
+Aspectos Introdutórios
+
+
+  ● O objetivo deste pronunciamento é estabelecer os princípios que a entidade
+
+    deve   aplicar     para      apresentar         informações          úteis     aos        usuários   de
+
+    demonstrações contábeis sobre a natureza, o valor, a época e a incerteza de
+
+    receitas e fluxos de caixa provenientes de contrato com cliente.
+
+                                                                                                     1
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                             
+
+
+---
+
+● A primeira pergunta que devemos nos fazer é: o que é um contrato com cliente?
+
+● Em uma linguagem simples, apenas para fins didáticos, são aqueles de
+
+  compra e venda de mercadorias ou prestação de serviços. É claro que a
+
+  expressão envolve uma quantidade grande de atividades. Note-se que para a
+
+  aplicação do Pronunciamento CPC 47 é essencial que a outra parte (que não a
+
+  entidade/empresa) seja um cliente. Vejam o que diz o CPC:
+
+   6. A entidade deve aplicar este pronunciamento ao contrato (exceto
+   contrato listado no item 5) somente se a contraparte do contrato for um
+   cliente. O cliente é a parte que contratou com a entidade para obter bens ou
+   serviços que constituem um produto das atividades normais da entidade em
+   troca de contraprestação (...).
+
+● Portanto, caso estejamos frente a um contrato com cliente, aplicaremos (sendo
+
+  outros requisitos satisfeitos) as diretrizes do CPC 47. Todavia, segundo o item 5 do
+
+  CPC 47, em alguns casos, a referida norma não é aplicada. Quais são eles?
+
+● Casos em que o CPC 47 não é aplicado
+
+     ○ Arrendamento mercantil
+
+     ○ Contrato de seguro
+
+     ○ Instrumentos financeiros
+
+     ○ Permutas entre entidades para negócios similares
+
+                                                                                             2
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                            
+
+
+---
+
+  ● Imagine você que duas entidades do setor de óleo e gás permutam petróleo,
+
+     com a finalidade de atender seus clientes. Estaremos diante de um caso de não
+
+     aplicação do CPC 47.
+
+  ● O CPC em estudo traz normas básicas para a contabilização de contratos com
+
+     clientes que sejam individuais. Todavia, na prática, para facilitar, a própria
+
+     norma prevê a possibilidade de contabilização para um conjunto de contratos
+
+     com clientes (vamos dizer, contratos que sejam similares).
+
+4. Este pronunciamento especifica a contabilização de contrato individual com o
+cliente. Contudo, como expediente prático, a entidade pode aplicar este
+pronunciamento a uma carteira de contratos (ou de obrigações de desempenho)
+com características similares, se essa entidade, razoavelmente, esperar que os efeitos
+sobre as demonstrações contábeis da aplicação deste pronunciamento à carteira não
+difiram, significativamente, da aplicação deste pronunciamento aos contratos (ou
+obrigações de desempenho) individuais dentro dessa carteira. Ao contabilizar a
+carteira, a entidade deve utilizar estimativas e premissas que reflitam o tamanho e a
+composição da carteira.
+
+Conceito de Contrato
+
+
+  ● O que é um contrato? Para o CPC 47, item 10, contrato é um acordo entre duas ou
+
+     mais partes que cria direitos e obrigações exigíveis. A exigibilidade dos direitos e
+
+     obrigações em contrato é matéria legal.
+
+                                                                                                3
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                               
+
+
+---
+
+● Contratos podem ser escritos, verbais ou sugeridos pelas práticas usuais de
+
+  negócios da entidade. As práticas e os processos para estabelecer contratos
+
+  com clientes variam entre jurisdições, setores e entidade.
+
+● Além disso, eles podem variar dentro da entidade (por exemplo, eles podem
+
+  depender da classe do cliente ou da natureza dos bens ou serviços prometidos).
+
+  A entidade deve considerar essas práticas e processos ao determinar se e quando
+
+  um acordo com o cliente cria direitos e obrigações exigíveis.
+
+● A explicação para o item acima é bem tranquila.
+
+● Um contrato com cliente gera direitos e obrigações recíprocos. Em um contrato
+
+  de compra e venda, por exemplo, a empresa tem o direito de receber o dinheiro e
+
+  tem a obrigação de entregar a mercadoria. O cliente tem o direito de receber a
+
+  mercadoria e a obrigação de realizar o pagamento.
+
+● Como já dissemos anteriormente, o contrato com cliente não necessariamente
+
+  é escrito. Cada setor, cada entidade, cada jurisdição pode estabelecer suas
+
+  próprias regras.
+
+● Ademais, dentro de uma própria entidade pode haver vários tipos de contratos
+
+  com clientes.
+
+                                                                                             4
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                            
+
+
+---
+
+Identificação de um contrato com cliente
+
+
+  ● O item abaixo será de suma importância para provas de concurso e acreditamos
+
+     que será um dos campeões de cobrança!
+
+9. A entidade deve contabilizar os efeitos de um contrato com um cliente que esteja
+dentro do alcance deste pronunciamento somente quando todos os critérios a seguir
+forem atendidos:
+
+(a) quando as partes do contrato aprovarem o contrato (por escrito, verbalmente ou
+de acordo com outras práticas usuais de negócios) e estiverem comprometidas em
+cumprir suas respectivas obrigações;
+
+(b) quando a entidade puder identificar os direitos de cada parte em relação aos bens
+ou serviços a serem transferidos;
+
+(c) quando a entidade puder identificar os termos de pagamento para os bens ou
+serviços a serem transferidos;
+
+(d) quando o contrato possuir substância comercial (ou seja, esperase que o risco, a
+época ou o valor dos fluxos de caixa futuros da entidade se modifiquem como
+resultado do contrato); e
+
+(e) quando for provável que a entidade receberá a contraprestação à qual terá direito
+em troca dos bens ou serviços que serão transferidos ao cliente. Ao avaliar se a
+possibilidade de recebimento do valor da contraprestação é provável, a entidade
+deve considerar apenas a capacidade e a intenção do cliente de pagar esse valor da
+contraprestação quando devido. O valor da contraprestação à qual a entidade tem
+direito pode ser inferior ao preço declarado no contrato se a contraprestação for
+variável, pois a entidade pode oferecer ao cliente uma redução de preço (ver item 52).
+
+                                                                                               5
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                              
+
+
+---
+
+   ● Portanto, para que um contrato com cliente esteja dentro do CPC 47 todos os
+
+         requisitos abaixo devem ser atendidos:
+
+           ○ O contrato deve ser aprovado por escrito, verbalmente ou por outro
+
+              tipo de acordo. Além disso, as partes devem estar dispostas a cumprilo.
+
+              Esse contrato é firmado entre a entidade e um cliente.
+
+           ○ É possível identificar quais os direitos de cada parte nessa relação
+
+              contratual.
+
+           ○ É possível identificar quais as condições para pagamento.
+
+           ○ O contrato deve ter substância comercial. Como assim? O CPC diz
+
+              “espera-se que o risco, a época ou o valor dos fluxos de caixa futuros da
+
+              entidade se modifiquem como resultado do contrato”.
+
+
+Vejam, quando uma entidade firma um contrato de venda da mercadoria X, no período
+
+de 2 meses, pelo valor Y, o risco vai se modificar como resultado do contrato. Isto é,
+
+havia um risco de empresa não vender aquele produto. Mas, com a transferência para a
+
+compradora, ela o fez. Assim, estará diminuindo o seu risco. Além disso, com a venda,
+
+espera-se que haja geração de fluxo de caixa para a entidade, que entre dinheiro no
+
+caixa.
+
+
+           ○ Deve ser provável que a entidade receba a contraprestação (ou seja, que
+
+              receba o valor da venda, no nosso exemplo do contrato de venda).
+
+                                                                                                   6
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                                  
+
+
+---
+
+13. Se o contrato com o cliente atender aos critérios do item 9 no início do contrato, a
+entidade não deve reavaliar esses critérios a menos que haja indicação de alteração
+significativa nos fatos e circunstâncias. Por exemplo, se a capacidade do cliente de
+pagar a contraprestação se deteriorar significativamente, a entidade deve reavaliar se
+é provável que ela receberá a contraprestação à qual terá direito em troca dos bens
+ou serviços restantes que serão transferidos ao cliente.
+
+
+  ● Portanto, quando firmamos um contrato com cliente, verificamos se os
+
+     requisitos do item 9 restam atendidos. Caso sejam atendidos, ou seja, o
+
+     contrato foi aprovado, é possível identificar os direitos e pagamentos, o contrato
+
+     tem substância comercial e é provável que haverá o recebimento de uma
+
+     contraprestação, então não há necessidade de ficar reavaliando este contrato,
+
+     exceto se houver uma mudança significativa nos fatos e circunstâncias.
+
+                                                                                                7
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                               
+
+
+---
+
+  ● Um exemplo, foi firmado um contrato de prestação de serviço entre a empresa e
+
+     determinado cliente. Esse cliente era uma determinada empresa e essa
+
+     empresa teve a sua falência decretada, perdendo, assim, a sua capacidade de
+
+     pagamento. Nesta hipótese, devemos rever a situação do contato com cliente.
+
+Contrato que não atende os critérios do Item 9 do CPC
+
+
+  ● Mas e se um contrato não atender os requisitos que dissemos acima? Nesta
+
+     hipótese, o CPC 47 narra o seguinte:
+
+14. Se o contrato com o cliente não atender aos critérios do item 9, a entidade deve
+continuar a avaliar o contrato para determinar se os critérios do item 9 serão
+atendidos subsequentemente.
+
+15. Quando o contrato com o cliente não atender aos critérios do item 9 e a entidade
+receber contraprestação do cliente, a entidade deve reconhecer a contraprestação
+recebida como receita somente quando qualquer uma das seguintes hipóteses tiver
+ocorrido:
+
+(a) a entidade não possui obrigações restantes de transferir bens ou serviços ao
+cliente, e a totalidade, ou praticamente a totalidade, da contraprestação prometida
+pelo cliente foi recebida pela entidade e não é restituível; ou
+
+(b) o contrato foi rescindido e a contraprestação recebida do cliente não é restituível.
+
+                                                                                                8
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                               
+
+
+---
+
+● Com efeito, não atendendo o contrato com cliente o requisito do item 9, fazemos
+
+  o seguinte:
+
+     ○ Continuamos          a avaliar para ver se os requisitos serão satisfeitos
+
+        posteriormente.
+
+     ○ Se mesmo assim o contrato não se enquadrou no item 9 e a entidade
+
+        receber o valor, por exemplo, entrando o dinheiro da venda no caixa, a
+
+        receita será reconhecida quando:
+
+           ➢ As duas partes satisfizerem a totalidade ou quase totalidade suas
+
+                obrigações e direitos: a entidade entregar a mercadoria/serviço, o
+
+                cliente realizar o pagamento. Dessa importância não será cabível
+
+                restituição.
+
+           ➢ Por algum motivo, houve uma rescisão contratual e os valores
+
+                recebidos não são restituíveis ao cliente.
+
+● Enquanto esses requisitos não forem satisfeitos, a entidade deve reconhecer
+
+  um passivo!
+
+● Então, imaginem que uma entidade tenha firmado um contrato para vender
+
+  bezerros que devem nascer em breve de três vacas.
+
+● Não se sabe ao certo quantos filhotes nascerão, mas o cliente resolveu pagar o
+
+  valor de R$ 1.500,00 por bezerro, portanto, R$ 4.500,00.
+
+                                                                                             9
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                            
+
+
+---
+
+   ● Vejam que o contrato está firmado, mas não atende, ainda, os requisitos do item
+
+      9. A entidade não sabe se terá direito aos R$ 4.500,00, não sabe se terá mesmo os
+
+      três bezerros para entregar ao cliente.
+
+   ● Enquanto esses requisitos não foram satisfeitos, a entidade deixará o valor
+
+      registrado como um passivo, afinal, ela tem uma obrigação! E se os três
+
+      bezerros nascem sem vida? E se algo acontece com as vacas durante a gestação?
+
+16. A entidade deve reconhecer a contraprestação recebida de cliente como
+passivo até que uma das hipóteses do item 15 ocorra ou até que os critérios do
+item 9 sejam subsequentemente atendidos (ver item 14). Dependendo dos fatos e
+circunstâncias relativos ao contrato, o passivo reconhecido representa a obrigação da
+entidade de transferir bens ou serviços no futuro ou de restituir a contraprestação
+recebida. Em qualquer dos casos, o passivo deve ser mensurado pelo valor da
+contraprestação recebida do cliente.
+
+Assim:
+
+
+D – Caixa (Ativo circulante) 4.500,00
+
+
+C – Receitas antecipadas (Passivo circulante) 4.500,00
+
+                                                                                                 10
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 37.
+
+                                
+
+
+---

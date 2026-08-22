@@ -1,0 +1,95 @@
+                                                    DISTRIBUIÇÕES CONTÍNUAS
+                  DISTRIBUIÇÃO UNIFORME                                                             DISTRIBUIÇÃO EXPONENCIAL
+
+Para uma variável com distribuição uniforme no intervalo a < X                 Representa o tempo até a ocorrência de um evento, como o
+< b, a função densidade de probabilidade é constante no valor:                 tempo que um equipamento dura até falhar.
+
+                                                                               A função densidade de probabilidade, para x > 0, é
+
+Por exemplo, para o intervalo 1 < X < 5, o valor da função
+densidade é:                                                                   A probabilidade associada a um intervalo X < b é:
+
+
+
+A probabilidade associada a um intervalo m < X < n, como 2 < X                 A esperança da distribuição é o inverso do parâmetro:
+< 4 é:
+
+                                                                               Assim, se um equipamento dura em média E(X) = 1000 horas, o
+                                                                               parâmetro é o inverso λ = 1/1000
+
+A esperança corresponde à média aritmética dos extremos do                     E a variância é o quadrado do inverso do parâmetro:
+
+intervalo:
+
+E a variância é dada por                                                       A    distribuição   exponencial    representa   o   tempo    entre
+                                                                               ocorrências de Poisson.
+
+
+
+                                                      https://t.me/KakashiAssinaturasBot                                            ESTRATÉGIA CONCURSOS
+                                                DISTRIBUIÇÕES CONTÍNUAS
+       DISTRIBUIÇÃO NORMAL OU                                                                 TEOREMA CENTRAL DO
+              GAUSSIANA                                                                             LIMITE
+
+
+    Distribuição simétrica em torno da                      SOMA DE VARIÁVEIS
+    sua média, com formato de sino                                                         A     soma      de     n   variáveis
+                                                                                           independentes e identicamente
+                                                                                           distribuídas (isto é, com a mesma
+                                                                                           distribuição, seja ela qual for) Z =
+                                                A    soma     de   variáveis  normais      X1 + X2 + … + Xn tende a uma
+                                                independentes Z = X + Y segue              distribuição normal à medida n
+                                                distribuição normal, cuja média é igual    tende a infinito. A média e a
+                                                à soma das médias e a variância é          variância dessa distribuição são:
+                                                igual à soma das variâncias:
+Os parâmetros são média μ e desvio padrão σ.
+
+Calculamos as probabilidades com base em
+uma tabela da normal padrão Z, com média μ
+= 0 e desvio padrão σ = 1, utilizando a
+transformação:
+                                               Cuidado para não somar os desvios
+                                               padrão!
+A probabilidade P(X < 10) para uma             Para n variáveis normais independentes
+distribuição com média μ = 5 e desvio padrão   com a mesma média e a mesma
+σ =      2,5  é  calculada pela     seguinte   variância (identicamente distribuídas), a
+transformação:                                 soma Z = X1 + X2 + … + Xn segue
+                                               distribuição normal com média e
+                                               variância dadas por:
+
+
+
+E buscamos, na tabela da normal padrão, a
+probabilidade P(Z < 2).                         https://t.me/KakashiAssinaturasBot                              ESTRATÉGIA CONCURSOS
+                                                     DISTRIBUIÇÕES
+                                                      CONTÍNUAS
+     DISTRIBUIÇÃO QUI-                                                                          DISTRIBUIÇÃO DE F-
+        QUADRADO                                                                                    SNEDECOR
+                                               DISTRIBUIÇÃO DE T-STUDENT
+  Soma de k variáveis normais          Simétrica, com formato de sino, similar à         É a razão entre duas distribuições
+padrão independentes resulta em        curva normal, porém mais achatada,                  qui-quadrado, divididas pelos
+ uma distribuição qui-quadrado         indicando maior variabilidade                      respectivos graus de liberdade:
+   com k graus de liberdade:
+                                       Ela é a razão entre uma variável normal
+                                       padrão Z e a raiz quadrada de uma
+                                       distribuição qui-quadrado, dividida pelo
+                                       respectivo grau de liberdade k.
+
+
+Essa distribuição é positiva X > 0 e
+assimétrica. A média é igual ao                                                          Essa distribuição é positiva X >
+número de graus de liberdade:                                                            0    e     assimétrica,    com
+                                       A distribuição de t-Student padrão tem            esperança igual a:
+                                       média μ = 0 e variância:
+
+
+
+E a variância é o dobro do número      Para k = 1 grau de liberdade, a distribuição de
+de graus de liberdade:                 t-Student é a razão entre duas distribuições
+                                       normais     padrão,    que    corresponde     à
+                                       distribuição de Cauchy.
+
+                                       Essa é uma distribuição “patológica”, pois não
+                                       possui média ou variância definidas.
+                                              https://t.me/KakashiAssinaturasBot                              ESTRATÉGIA CONCURSOS
+

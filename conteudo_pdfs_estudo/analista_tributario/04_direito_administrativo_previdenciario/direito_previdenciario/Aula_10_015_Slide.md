@@ -1,0 +1,182 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+artigos_citados:
+- Art. 33.
+- art. 11
+- artigo 33
+sumulas_citadas:
+- Súmula 439
+---
+
+# ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+COMPETÊNCIA DA RECEITA FEDERAL DO BRASIL - RFB
+
+                                                           Prof. Rubens Mauricio
+
+                      
+
+
+---
+
+        Competências da RFB
+
+                                     Receita Federal do Brasil
+
+                 Originalmente, quando criado, o INSS era o encarregado por cuidar de
+                 todos os aspectos operacionais referentes aos assuntos previdenciários
+                 (benefícios, arrecadação, fiscalização e cobrança das contribuições
+                 previdenciárias, etc).
+                 No entanto, as funções de arrecadar, fiscalizar e cobrar as
+                 contribuições previdenciárias foram repassadas inicialmente, como
+                 estudamos, para o Ministério da Previdência Social, por meio da
+                 criação da Secretaria da Receita Previdenciária – SRP, no âmbito da
+                 administração direta. Ou seja, surgiu um órgão do Ministério da
+                 Previdência Social cujo o nome era SRP.
+
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+        Competências da RFB
+
+                                     Receita Federal do Brasil
+
+
+                 Em março de 2007, com a publicação da Lei no 11.457/2007, que
+                 passou a vigorar desde 02 de maio do mesmo ano, houve uma fusão
+                 entre a Secretaria da Receita Previdenciária - SRP e a Secretaria da
+                 Receita Federal – SRF, dando origem à Secretaria da Receita Federal do
+                 Brasil - RFB), incorporando as atribuição de arrecadar, fiscalizar e
+                 cobrar contribuições previdenciárias, além dos outros tributos que já
+                 eram de sua competência.
+
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+        Competências da RFB
+
+                                     Receita Federal do Brasil
+
+
+                 Lei 8.212/91 - Art. 33. À Secretaria da Receita Federal do Brasil
+                 compete planejar, executar, acompanhar e avaliar as atividades
+                 relativas à tributação, à fiscalização, à arrecadação, à cobrança e ao
+                 recolhimento das contribuições sociais previstas no parágrafo único do
+                 art. 11 desta Lei (contribuições previdenciárias), das contribuições
+                 incidentes a título de substituição e das devidas a outras entidades e
+                 fundos.
+
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+        Competências da RFB
+
+                                    Receita Federal do Brasil
+
+                 É responsabilidade da Receita Federal do Brasil, por meio dos
+                 Auditores-Fiscais da Receita Federal do Brasil, examinar a
+                 contabilidade das empresas, bem como folha de pagamento e todas as
+                 demais obrigações principais e acessórias relacionadas com a
+                 arrecadação e recolhimento das contribuições previdenciárias.
+
+
+                 A RFB também é responsável pela fiscalização e cobrança das
+                 contribuições devidas a outras entidades e fundos, conhecidas como
+                 terceiros (tais como SESI, SESC, SENAI, SEBRAE, FNDE, etc, de acordo
+                 com o ramo de atividade).
+
+
+Prof. Rubens Mauricio
+                                         
+
+
+---
+
+        Competências da RFB
+
+                                     Receita Federal do Brasil
+
+                 O STF, por meio da Súmula 439, decidiu que estão sujeitos a
+                 fiscalização tributária ou previdenciárias quaisquer livros comerciais,
+                 limitado o exame aos pontos objeto da investigação.
+
+
+                 O artigo 33, §2º, da lei 8212/91 diz que: “A empresa, o segurado da
+                 Previdência Social, o serventuário da Justiça, o síndico ou seu
+                 representante, o comissário e o liquidante de empresa em liquidação
+                 judicial ou extrajudicial são obrigados a exibir todos os documentos e
+                 livros relacionados com as contribuições previstas nesta Lei”.
+
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+        Competências da RFB
+
+                                    Receita Federal do Brasil
+
+                 Se houver recusa ou sonegação de qualquer documento ou
+                 informação, ou ainda apresentação deficiente, a Receita Federal do
+                 Brasil pode, sem prejuízo da penalidade cabível, lançar de ofício a
+                 importância que acha devida. O contribuinte, caso isso ocorra, terá
+                 para si o ônus da prova em contrário.
+
+
+                 Essa forma de apuração trata-se do chamado arbitramento
+                 (modalidade de aferição indireta), que só será aplicada quando for
+                 constatada a falta ou inadequação da documentação que impeça o
+                 trabalho da auditoria fiscal.
+
+
+Prof. Rubens Mauricio
+                                        
+
+
+---
+
+        Competências da RFB
+
+                                     Receita Federal do Brasil
+
+                 Os Auditores-Fiscais da Receita Federal do Brasil - AFRFB possuem livre
+                 acesso a todas as dependências ou estabelecimentos da empresa,
+                 podendo efetuar a verificação física dos segurados em serviço para
+                 confrontar registros e documentos da empresa, podendo requisitar e
+                 apreender livros, notas técnicas e quaisquer outros documentos
+                 necessários à verificação das informações e exercício de suas funções.
+                 Será caracterizado como embaraço a imposição de qualquer
+                 dificuldade oposta ao objetivo.
+
+                 O crédito da Seguridade Social será constituído através de notificação
+                 de lançamento, de auto de infração e de confissão de valores devidos e
+                 não recolhidos pelo contribuinte.
+Prof. Rubens Mauricio
+                                          
+
+
+---

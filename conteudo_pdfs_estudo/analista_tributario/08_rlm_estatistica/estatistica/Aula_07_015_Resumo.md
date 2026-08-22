@@ -1,0 +1,203 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 07_015_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '07'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Estatística - Probabilidade.
+
+Trata-se de um material pensado para lhe ajudar em todo esse processo, visando, inclusive,
+
+uma economia de tempo de confecção de materiais, tempo que é o bem mais precioso de um
+
+concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                                 
+
+
+---
+
+                          RESUMO DE ESTATÍSTICA
+
+Probabilidade
+
+Conceitos Iniciais
+
+       ● Experimento Aleatório: É aquele que, mesmo repetido diversas vezes sob
+
+          condições idênticas, pode apresentar RESULTADOS DIFERENTES.
+
+       ● Espaço Amostral: É o conjunto "S" de todos os RESULTADOS POSSÍVEIS
+
+          de um experimento aleatório.
+
+                                                                                              2
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                             
+
+
+---
+
+       ● Evento: É qualquer subconjunto do espaço amostral. Ou seja, é o
+
+         resultado desejado (favorável).
+
+Cálculo da Probabilidade
+
+                                   𝑛(𝑋)         𝑛º 𝑑𝑒 𝑟𝑒𝑠𝑢𝑙𝑡𝑎𝑑𝑜𝑠 𝑓𝑎𝑣𝑜𝑟á𝑣𝑒𝑖𝑠
+                 𝑃(𝑋) =            𝑛 (𝑆)
+                                           =     𝑛º 𝑑𝑒 𝑟𝑒𝑠𝑢𝑙𝑡𝑎𝑑𝑜𝑠 𝑝𝑜𝑠𝑠í𝑣𝑒𝑖𝑠
+
+                                                                                             3
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                            
+
+
+---
+
+Probabilidade da intersecção de eventos
+
+  ● Esse tipo de probabilidade é usada quando a questão solicitar a chance de
+
+    ocorrência conjunta de dois ou mais eventos. Nesse caso, os eventos estarão
+
+    ligados pelo conectivo “e”.
+
+                               P(A e B) = P(A) x P(B|A)
+
+Probabilidade de eventos independentes
+
+  ● Dois eventos, A e B, são considerados independentes quando a ocorrência, ou
+
+    não ocorrência, de um deles não afeta a probabilidade de ocorrência do outro.
+
+                                 P(A e B) = P(A) x P(B)
+
+                                                                                              4
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                             
+
+
+---
+
+Probabilidade de eventos mutuamente excludentes
+
+  ● Dois eventos, A e B, são mutuamente excludentes (ou mutuamente exclusivos)
+
+    se eles não podem ocorrer simultaneamente.
+
+       ○ Ou seja, se um evento ocorre, então o outro certamente não ocorreu.
+
+                                                                                              5
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                             
+
+
+---
+
+Probabilidade do evento complementar
+
+  ● Dizemos que dois eventos são complementares quando, simultaneamente,
+
+    temos que:
+
+       ○ A união dos dois eventos resulta no espaço amostral;
+
+       ○ Os dois eventos são mutuamente excludentes (eles não têm elementos
+
+          em comum; ou seja, a intersecção entre ambos é vazia).
+
+                        1 = P(A) + P(Ā) ou P(Ā) = 1 – P(A)
+
+Probabilidade Condicional
+
+  ● A probabilidade de um evento ocorrer, dado que outro ocorreu, é chamada de
+
+    probabilidade condicional.
+
+                                                        𝑃(𝐴∩𝐵)
+                                      𝑃(𝐴|𝐵) =           𝑃(𝐵)
+
+                                                                                              6
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                             
+
+
+---
+
+Teorema de Bayes
+
+                                           𝑛
+                             𝑃(𝐴) = ∑ 𝑃(𝐴𝑘) × 𝑃(𝐴|𝐴𝑘)
+                                           𝑘
+
+  ● Para não confundir quando usar o Teorema de Bayes e o Teorema da
+
+    Probabilidade Total, veja o esquema a seguir:
+
+                                                                                              7
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 07.
+
+                             
+
+
+---

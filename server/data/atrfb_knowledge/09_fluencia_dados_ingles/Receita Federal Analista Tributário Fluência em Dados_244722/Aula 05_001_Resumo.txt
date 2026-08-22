@@ -1,0 +1,147 @@
+▪ Propriedade #1: um banco de dados representa algum aspecto do mundo real – algumas
+  vezes chamado de Minimundo ou Universo de Discurso. As mudanças no minimundo são
+  refletidas no banco de dados;
+
+▪ Propriedade #2: um banco de dados é uma coleção logicamente coerente de dados inter-
+  relacionados com algum significado inerente. Galera, se você tiver uma variedade aleatória de
+  dados, você não tem um banco de dados;
+
+▪ Propriedade #3: um banco de dados é projetado, construído e populado com dados para uma
+  finalidade específica. Possui um grupo definido de usuários e algumas aplicações específicas
+  nas quais esses usuários estão interessados.
+
+
+
+   ▪ Dados são fatos brutos, em sua forma primária – e, muitas vezes, os dados podem não fazer
+     sentido sozinhos;
+
+   ▪ Informações consiste no agrupamento de dados de forma organizada para fazer sentido e
+     gerar conhecimento.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+            CARACTERÍSTICAS DA ABORDAGEM DE BANCO DE DADOS
+    Natureza de autodescrição de um sistema de banco de dados
+     Isolamento entre programas e dados, e abstração de dados
+              Suporte de múltiplas visões dos dados
+Compartilhamento de dados e processamento de transação multiusuário
+
+
+
+
+  Uma transação é uma unidade de processamento atômica que deve ser executada
+  integralmente até o fim ou não deve ser executada.
+  – Responsável: Subsistema de Recuperação.
+  A execução de uma transação deve levar o banco de dados de um estado consistente a um
+  outro estado consistente.
+  – Responsável: Programador ou Módulo de Restrições de Integridade.
+  Cada transação deve parecer executar isoladamente das demais, embora diversas
+  transações possam estar executando concorrentemente.
+  – Responsável: Subsistema de Controle de Concorrência.
+  Os efeitos de uma transação em caso de sucesso devem persistir no banco de dados mesmo
+  em casos de quedas de energia, travamentos ou erros.
+
+
+
+
+                https://t.me/KakashiAssinaturasBot
+                     – Responsável: Subsistema de Recuperação.
+
+
+
+
+▪ Administrador de Banco de Dados:
+
+   Responsável por instalar o SGBD; por autorizar o acesso ao banco de dados; por coordenar e
+   monitorar sua performance; por adquirir recursos de software e hardware conforme a
+   necessidade; por problemas, como falhas na segurança e demora na execução; assegurar-se de
+   que os backups apropriados estão sendo feitos e estão íntegros; etc.
+
+▪ Administrador de Dados:
+
+   Responsável por identificar os dados a serem armazenados; por escolher estruturas apropriadas
+   para representar e armazenar esses dados; por definir padrões, políticas e procedimentos; por
+   desenvolver o projeto e modelagem de banco de dados; manter atualizados os dados
+   corporativos.
+
+
+
+
+▪ Nível Externo:
+
+Também conhecido como Nível de Visão ou Nível Lógico do Usuário, inclui uma série de visões do
+usuário. Cada visão descreve a parte do banco de dados em que um grupo de usuários em particular
+está interessado e oculta o restante do banco de dados do grupo de usuários. Trata-se do nível mais
+próximo dos usuários, isto é, aquele que se ocupa de como os dados serão vistos por usuários
+individuais.
+
+▪ Nível Conceitual:
+
+Também conhecido como Nível Lógico de Comunidade (ou apenas Nível Lógico), é um nível
+indireto entre os níveis interno e externo. Trata-se de uma maneira de descrever a estrutura do
+banco de dados inteiro para uma comunidade de usuários, isto é, quais dados são armazenados em
+todo o banco de dados e como os dados estão inter-relacionados. Esse nível oculta os detalhes das
+estruturas de armazenamento físico e se concentra na descrição de entidades.
+
+▪ Nível Interno:
+
+Também conhecido como Nível de Armazenamento ou Físico, é o meio mais próximo do meio de
+armazenamento físico, isto é, aquele que se ocupa com o modo com os dados estão fisicamente
+armazenados no banco de dados e no hardware do computador – além da definição das estruturas
+
+
+
+
+                                  https://t.me/KakashiAssinaturasBot
+físicas que permitem obter um desempenho satisfatório. Ele descreve os detalhes completos do
+armazenamento de dados e dos caminhos de acesso para o banco de dados.
+
+
+
+
+▪ Independência Lógica dos Dados: trata da capacidade de alterar o esquema conceitual sem
+  precisar modificar os esquemas externos ou programas/aplicações.
+
+▪ Independência Física dos Dados: trata da capacidade de alterar o esquema interno sem ter de
+  alterar o esquema conceitual. Os esquemas externos também não precisam ser alterados.
+
+
+
+▪ Modelo Conceitual (ou Modelo de Alto Nível): oferece conceitos que são mais próximos ao
+  modo como muitos usuários compreendem os dados. Esse modelo é independente de hardware
+  ou software, podendo ser implementado por qualquer SGBD.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+▪ Modelo Lógico (de Implementação ou Representativo): oferece conceitos que podem ser
+  facilmente entendidos pelos usuários finais. Ele constitui uma representação para um banco de
+  dados específico, utilizando as estruturas suportadas por ele.
+
+▪ Modelo Físico (ou de Baixo Nível): oferece conceitos que descrevem os detalhes de como os
+  dados são armazenados no computador. Eles costumam ser voltados para especialistas de
+  computadores e, não, para usuários finais. Esse modelo é totalmente dependente do SGBD.
+
+
+
+
+                                                                      MODELO CONCEITUAL
+                                                                       ou DE ALTO NÍVEL
+
+
+
+
+                                                                        MODELO LÓGICO
+                                                              REPRESENTATIVO OU DE IMPLEMENTAÇÃO
+                                                                        MODELO FÍSICO
+                                                                       Ou DE BAIXO NÍVEL
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

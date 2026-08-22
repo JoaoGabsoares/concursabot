@@ -1,0 +1,1402 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 21_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '21'
+titulo_aula: Possati
+---
+
+# Possati
+
+Aula 20
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                           14 de Agosto de 2025
+
+---
+
+   Gilmar Possati
+   Aula 20
+
+                                  CPC 04 - ATIVO INTANGÍVEL
+Sumário
+
+1 – CPC 04 – Ativo Intangível 
+
+   1.1. Ativos Intangíveis (Definição) 
+
+   1.2. Reconhecimento 
+
+   1.3. Particularidades no reconhecimento de ativos intangíveis 
+
+      1.3.1. Aquisição Separada
+
+2. Questões Comentadas 
+
+3. Lista das Questões 
+
+4. Gabarito 
+
+                                                                                                                                                 1
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                                                29
+           www.estrategiaconcursos.com.br
+
+                                               
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+                           1 – CPC 04 – ATIVO INTANGÍVEL
+1.1. Ativos Intangíveis (Definição)
+Em primeiro lugar, devemos saber que todo ativo
+intangível é, antes de tudo, um ativo, não é mesmo?
+Logo, todas as características de um ativo que
+estudamos no CPC 00 devem estar presentes: deve ser
+um recurso controlado, resultar de um evento passado
+e gerar futuros benefícios econômicos.
+Atendidas essas características, temos que verificar as
+características específicas de ativo intangível. Essas
+características encontramos na definição estabelecida
+pelo CPC 04:
+
+      “Ativo intangível é um ativo não monetário identificável sem substância física”.
+
+Vamos analisar essa definição por partes:
+... é um ativo não monetário ...
+Ativo Monetário é aquele representado por dinheiro ou por direitos a serem recebidos em uma
+quantia fixa ou determinável de dinheiro. Logo, um dos requisitos para enquadrarmos determinado
+ativo como intangível é que esse ativo seja não monetário, ou seja, não deve ser representado por
+dinheiro ou por direitos que gerem dinheiro.
+... identificável ...
+Meus camaradas, essa característica é fundamental na definição de Ativo Intangível. Esse aspecto
+se torna necessário porque o ativo é imaterial/incorpóreo.
+Os ativos corpóreos/materiais não precisam ser identificáveis porque nós conseguimos tocar,
+enxergar o ativo. Por outro lado, os ativos intangíveis não podem ser tocados, não visualizamos.
+Logo, a característica de identificação é fundamental para a existência de um ativo intangível.
+Ciente disso, o Pronunciamento estabelece algumas premissas para determinar se um ativo
+intangível atende ao critério de identificação. Nos termos do CPC 04, um ativo intangível é
+identificável quando:
+a. for separável (puder ser separado da entidade e vendido, transferido, licenciado, alugado ou
+trocado, individualmente ou junto com um contrato, ativo ou passivo relacionado, independente
+da intenção de uso pela entidade); Exemplos: Marcas, Patentes, Fórmulas, etc.
+ou
+
+                                                                                              2
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             29
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+b. resultar de direitos contratuais ou outros direitos legais, independentemente de tais direitos
+serem transferíveis ou separáveis da entidade ou de outros direitos e obrigações. Exemplo:
+Concessões.
+Pessoal, se o ativo intangível não for identificável, não há como a empresa ter certeza da existência
+desse ativo. Nesse sentido, a identificação é fundamental para que um ativo intangível seja
+reconhecido.
+Para visualizar, imagine uma marca famosa... a Coca-Cola, por exemplo. Como sabemos essa
+Marca é uma das mais valorizadas do mundo... No Brasil, a Coca-Cola detém a propriedade ou usa
+sob licença 33 marcas, oferecendo mais de 125 produtos:
+
+             Aquarius               burn               Charrua             Coca-Cola        Coca-Cola
+                                                                                              light
+
+            Coca-Cola             Crystal             Del Valle          Del Valle Frut     Del Valle
+              zero                                                                           Kapo
+
+        Del Valle Light       Del Valle Mais         Diet Matte              diet             Fanta
+                                                        Leão              Schweppes
+
+            Fanta Zero           Fonte Ijuí        Guaraná Jesus           Guarapan        Ice Tea Leão
+
+               Kapo                 Kuat              Kuat Light           Kuat Zero       Matte Leão
+
+            Minute Maid        POWERADE             POWERADE              Schweppes           Simba
+                                                       i9
+
+              Sprite            Sprite Zero               Tai
+
+       Fonte: http://www.coca-colacompany.com/brands/all/
+
+Só por curiosidade, nos EUA são 113 marcas da Coca-Cola! Tem até Coca-Cola sem cafeína!
+Assim, por exemplo, a marca “Aquarius” é perfeitamente identificável, pois é separável. A Coca-
+Cola pode vendê-la, licenciá-la, trocá-la e, mesmo assim, continuará com suas atividades
+normalmente. Veja que nós conseguimos separar a marca “Aquarius” da grande marca “Coca-
+Cola”, sua proprietária.
+O CPC 04 destaca que a definição de ativo intangível requer que ele seja identificável, para
+diferenciá-lo do ágio derivado da expectativa de rentabilidade futura (goodwill).
+
+
+                                                                                                          3
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                          29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Esse detalhe já foi exigido em provas!
+
+(CADE) A distinção básica entre ativo intangível e goodwill reside no fato de o primeiro ser,
+necessariamente, identificável, ao passo que o ágio derivado da expectativa de rentabilidade
+futura (goodwill) não é identificado individualmente apesar de ser um ativo que representa
+benefícios econômicos futuros, gerados por outros ativos adquiridos em uma combinação de
+negócios.
+Comentários
+Nos termos do CPC 04,
+11. A definição de ativo intangível requer que ele seja identificável, para diferenciá-lo do ágio
+derivado da expectativa de rentabilidade futura (goodwill). O ágio derivado da expectativa de
+rentabilidade futura (goodwill) reconhecido em uma combinação de negócios é um ativo que
+representa benefícios econômicos futuros gerados por outros ativos adquiridos em uma
+combinação de negócios, que não são identificados individualmente e reconhecidos
+separadamente. Tais benefícios econômicos futuros podem advir da sinergia entre os ativos
+identificáveis adquiridos ou de ativos que, individualmente, não se qualificam para
+reconhecimento em separado nas demonstrações contábeis.
+Gabarito: Certo
+
+... sem substância física ...
+Trata-se de uma característica básica. Para que um ativo seja considerado intangível, ele não pode
+ter substância física, ou seja, deve ser incorpóreo/imaterial.
+Vamos ver como essa definição já foi exigida em prova?
+
+(ANATEL) Acerca dos ativos intangíveis e do teste de impairment, julgue o item a seguir.
+Um ativo intangível consiste em um direito monetário não identificável e não dotado de substância
+física.
+Comentários
+Observe que a questão apresenta dois flagrantes erros: o ativo intangível é não monetário e
+identificável.
+Veja que esse simples conhecimento da definição pode representar um precioso ponto (ou mais a
+depender da prova!).
+Gabarito: Errado
+(PF) Acerca das regras contábeis que envolvem ativos intangíveis de companhias abertas, julgue
+o item que se segue.
+Ativos monetários identificáveis e sem substância física devem ser classificados contabilmente
+como ativos intangíveis.
+Comentários
+
+
+                                                                                               4
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Conforme estudamos, os ativos intangíveis são não monetários, identificáveis e não possuem
+substância física (são incorpóreos/imateriais).
+Gabarito: Errado
+
+Para finalizar esse ponto do Pronunciamento que trata da definição de Ativo Intangível, vale
+destacar o seguinte:
+Caso um item não atenda à definição de ativo intangível, o gasto incorrido na sua aquisição ou
+geração interna deve ser reconhecido como despesa quando incorrido.
+No entanto, se o item for adquirido em uma combinação de negócios, passa a fazer parte do ágio
+derivado da expectativa de rentabilidade futura (goodwill) reconhecido na data da aquisição
+(estudaremos melhor esse ponto na sequência).
+Agora que destrinchamos a definição de ativo intangível, vamos estudar os critérios estabelecidos
+pelo CPC 04 para avaliar se um ativo intangível poderá ou não ser reconhecido (contabilizado) no
+balanço patrimonial.
+
+1.2. Reconhecimento
+Nos termos do CPC 04,
+
+     O reconhecimento de um item como ativo intangível exige que a entidade demonstre
+     que ele atende:
+     (a) a definição de ativo intangível; e
+     (b) os critérios de reconhecimento.
+     Este requerimento é aplicável a custos incorridos inicialmente para adquirir ou gerar
+     internamente um ativo intangível e aos custos incorridos posteriormente para
+     acrescentar algo, substituir parte ou recolocá-lo em condições de uso.
+
+Desse dispositivo podemos extrair a seguinte conclusão: não são todos os ativos intangíveis que
+são reconhecidos no balanço patrimonial.
+Assim, mesmo que o ativo seja não monetário, identificável e sem substância física (satisfaça a
+definição de ativo intangível) ele pode não atender os critérios de reconhecimento e, portanto, não
+deve ser contabilizado. Beleza, professor... mas, quais são esses critérios de reconhecimento?
+Obviamente que o CPC 04 nos fornece isso, senão vejamos:
+
+     21. Um ativo intangível deve ser reconhecido apenas se:
+     (a) for provável que os benefícios econômicos futuros esperados atribuíveis ao ativo
+     serão gerados em favor da entidade; e
+     (b) o custo do ativo possa ser mensurado com confiabilidade.
+
+                                                                                                5
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+     A entidade deve avaliar a probabilidade de geração de benefícios econômicos futuros
+     utilizando premissas razoáveis e comprováveis que representem a melhor estimativa da
+     administração em relação ao conjunto de condições econômicas que existirão durante
+     a vida útil do ativo.
+     A entidade deve utilizar seu julgamento para avaliar o grau de certeza relacionado ao
+     fluxo de benefícios econômicos futuros atribuíveis ao uso do ativo, com base nas
+     evidências disponíveis no momento do reconhecimento inicial, dando maior peso às
+     evidências externas.
+
+Bem... vamos esquematizar o que estudamos até o momento sobre o reconhecimento do ativo
+intangível?
+
+
+               Requisitos para o Reconhecimento de Ativo Intangível
+
+                                                  Se o ativo...
+
+                                                                                   Atender aos
+               Atender à definição
+                                                                                   critérios de
+               de Ativo Intangível
+                                                                                 reconhecimento
+
+
+            - Ser não monetário;                                        - provável geração        de
+                                                                        benefícios futuros;
+            - Ser identificável;
+                                                                        - custo mensurado com
+            - Não possuir substância                                    confiabilidade;
+            física.
+
+                           ... deve ser reconhecido (contabilizado)
+Vamos ver como o assunto foi explorado em prova.
+
+(MPE-SC) Para que um item possa ser reconhecido como ativo intangível, a legislação exige que
+a organização demonstre que ele é:
+a) identificável, não controlável, gerador de benefícios econômicos futuros e mensurável.
+b) identificável, controlável, gerador de benefícios econômicos futuros e mensurável.
+c) identificável, controlável, não gerador de benefícios econômicos futuros e mensurável.
+
+
+                                                                                                       6
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                       29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+d) identificável, controlável, gerador de benefícios econômicos futuros e não mensurável.
+e) não identificável, controlável, gerador de benefícios econômicos futuros e mensurável.
+Comentários
+Identificando os erros, temos:
+a. Errado. Identificável, não controlável, gerador de benefícios econômicos futuros e mensurável.
+b. Certo. Identificável, controlável, gerador de benefícios econômicos futuros e mensurável.
+c. Errado. Identificável, controlável, não gerador de benefícios econômicos futuros e mensurável.
+d. Errado. Identificável, controlável, gerador de benefícios econômicos futuros e não mensurável.
+e. Errado. Não identificável, controlável, gerador de benefícios econômicos futuros e mensurável.
+Gabarito: B
+(SUDENE) Quanto ao reconhecimento de um ativo intangível, é correto afirmar que ocorrerá
+quando
+a) for provável que os benefícios econômicos atribuíveis ao ativo forem gerados em favor da
+entidade ou daquela a quem se pretende vender.
+b) o custo for mensurado com confiabilidade.
+c) o método de custo aplicado for o de recuperabilidade.
+d) for pelo valor justo a data de reavaliação com a contrapartida na reserva de reavaliação do
+patrimônio líquido.
+e) a entidade adquirir o bem intangível pelo custo histórico deduzido da depreciação acumulada.
+Comentários
+Trata-se de exigência do item 21 do CPC 04.
+21. Um ativo intangível deve ser reconhecido apenas se:
+(a) for provável que os benefícios econômicos futuros esperados atribuíveis ao ativo serão
+gerados em favor da entidade; e
+(b) o custo do ativo possa ser mensurado com confiabilidade.
+A questão foi mal elaborada. Para que haja o reconhecimento os dois requisitos devem ser
+atendidos. Apesar dessa ressalva, apenas a opção “B” descreve um requisito válido.
+Gabarito: B
+
+Pessoal, vamos visualizar o que estudamos e esquematizamos acima por meio de um exemplo.
+Conforme comentamos anteriormente, a Coca-Cola detém a propriedade ou usa sob licença
+diversas marcas, sendo que grande parte foi gerada internamente (Exemplo: Coca-Cola Zero) e
+outras foram adquiridas (Exemplo: Guaraná Jesus).
+
+                                                                                               7
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Assim, para sabermos se um ativo intangível deve ser reconhecido, podemos efetuar algumas
+perguntas, conforme os requisitos acima estudados. Vamos ver, então como ficaria para as duas
+marcas exemplificadas (Coca-Cola Zero e Guaraná Jesus).
+A Marca Coca-Cola Zero deve ser reconhecida no balanço patrimonial da Companhia Coca-Cola?
+
+Para responder essa pergunta, vamos efetuar perguntas acessórias, conforme os requisitos
+estudados:
+Requisito 1: Atender à definição de ativo intangível
+1. A Marca Coca-Cola Zero é não monetária, identificável e sem substância física?
+A marca é não monetária, ou seja, não é representada por dinheiro. Além disso, não possui
+substância física, pois é incorpórea/imaterial. Por fim, ela é identificável, pois é separável. A
+Companhia Coca-Cola pode vender, transferir, licenciar essa marca e continuará com suas
+atividades normalmente, afinal possui centenas de marcas, não é mesmo?
+Logo, o requisito foi atendido. A Marca Coca-Cola Zero enquadra-se na definição de ativo
+intangível.
+Requisito 2: Atender aos critérios de reconhecimento
+2. É provável a geração de benefícios econômicos futuros decorrente da Marca Coca-Cola Zero?
+Sim. Os benefícios econômicos gerados pela venda dos produtos que utilizam a marca Coca-Cola
+Zero fluirão para a Companhia Coca-Cola, não é mesmo?
+3. O custo da Marca Coca-Cola Zero pode ser mensurado com confiabilidade?
+A resposta a essa pergunta é um sonoro NÃO!
+
+
+Como assim, professor? Quer dizer que a Marca Coca-Cola Zero não deve ser reconhecida no
+balanço patrimonial, pois não atende a esse critério de reconhecimento?
+Isso mesmo... e digo mais: QUALQUER marca gerada internamente não deve ser reconhecida
+como ativo intangível no balanço patrimonial.
+Apesar de algumas marcas geradas internamente valerem bilhões, é difícil mensurar quanto
+realmente vale essa marca. Quanto realmente custou para a empresa a geração de valor dessa
+marca...
+Se a Companhia Coca-Cola contratar uma empresa de consultoria para avaliar a marca Coca-Cola
+Zero, certamente ela chegará em um valor, estabelecendo alguns critérios objetivos (receita obtida,
+por exemplo) e vários outros critérios subjetivos (força no mercado, por exemplo). Porém, se ela
+
+
+                                                                                                8
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+contratar outra empresa, o valor certamente será diferente, haja vista a subjetividade envolvida na
+mensuração. Logo, não há confiabilidade suficiente e, portanto, não há reconhecimento desse
+ativo intangível. Além disso, os gastos incorridos com a marca não podem ser separados dos custos
+relacionados ao desenvolvimento do negócio como um todo.
+Assim, vale reiterar: não são todos os ativos intangíveis que são reconhecidos no balanço
+patrimonial.
+Ah, professor, eu não concordo com isso!
+Pessoal, não sou eu que cheguei nessa conclusão. Os “caras” da Contabilidade, verdadeiros
+especialistas, editaram uma Norma (IAS-38) “falando” que as marcas geradas internamente não
+devem ser reconhecidas e a principal explicação é essa... falta de confiabilidade na mensuração e
+dificuldade em separar os gastos com a marca e o negócio como um todo. Essa norma aplicada
+internacionalmente foi replicada aqui no Brasil por meio do CPC 04.
+Veja o que esse Pronunciamento estabelece:
+
+     Marcas, títulos de publicações, listas de clientes e outros itens similares, gerados
+     internamente, não devem ser reconhecidos como ativos intangíveis.
+     Os gastos incorridos com marcas, títulos de publicações, listas de clientes e outros itens
+     similares não podem ser separados dos custos relacionados ao desenvolvimento do
+     negócio como um todo. Dessa forma, esses itens não devem ser reconhecidos como
+     ativos intangíveis.
+
+Agora vamos ver o exemplo do Guaraná Jesus.
+A Marca Guaraná Jesus deve ser reconhecida no balanço patrimonial da Companhia Coca-Cola?
+
+1. A Marca Guaraná Jesus é não monetária, identificável e sem substância física?
+Sim. Trata-se da mesma ideia da marca Coca-Cola Zero.
+Requisito 2: Atender aos critérios de reconhecimento
+2. É provável a geração de benefícios econômicos futuros decorrente da Marca Guaraná Jesus?
+Sim. Trata-se da mesma ideia da marca Coca-Cola Zero.
+3. O custo da Marca Guaraná Jesus pode ser mensurado com confiabilidade?
+SIM! Diferentemente da marca Coca-Cola Zero, gerada internamente, o Guaraná Jesus, produto
+idolatrado no Maranhão, foi adquirido pela poderosa Coca-Cola em 2001. Trata-se de uma
+
+
+                                                                                                  9
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                  29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+aquisição separada. Logo, a Companhia Coca-Cola pode mensurar com confiabilidade o valor
+pago pela marca e, portanto, atende a esse critério de reconhecimento.
+Veja o que estabelece o CPC 04:
+
+     25. Normalmente, o preço que a entidade paga para adquirir separadamente um ativo
+     intangível reflete sua expectativa sobre a probabilidade de os benefícios econômicos
+     futuros esperados, incorporados no ativo, serem gerados a seu favor. Em outras
+     palavras, a entidade espera que haverá benefícios econômicos a seu favor, mesmo que
+     haja incerteza em relação à época e ao valor desses benefícios econômicos. Portanto, a
+     condição de probabilidade a que se refere o item 21(a) [for provável que os benefícios
+     econômicos futuros esperados atribuíveis ao ativo serão gerados em favor da entidade] é
+     sempre considerada atendida para ativos intangíveis adquiridos separadamente.
+
+
+     26. Além disso, o custo de ativo intangível adquirido em separado pode normalmente
+     ser mensurado com confiabilidade, sobretudo quando o valor é pago em dinheiro ou
+     com outros ativos monetários.
+
+Logo, a Marca Guaraná Jesus deve ser reconhecida no balanço patrimonial da Companhia Coca-
+Cola.
+Atenção! Não podemos generalizar! Não são todos os ativos gerados internamente que não são
+reconhecidos no balanço patrimonial.
+Se o ativo intangível gerado internamente atender a todos os critérios de reconhecimento,
+obviamente que ele será reconhecido no balanço patrimonial, beleza?
+Isso já foi explorado em prova!
+
+(MPU) O ativo intangível gerado internamente não deve ser reconhecido nas demonstrações
+contábeis.
+Comentários
+Para fixar! Se o ativo intangível gerado internamente atender a todos os critérios de
+reconhecimento, obviamente que ele será reconhecido no balanço patrimonial.
+Gabarito: Errado
+
+1.3. Particularidades no reconhecimento de ativos intangíveis
+Vamos estudar a seguir algumas particularidades no reconhecimento de ativos intangíveis
+apresentadas pelo CPC 04.
+1.3.1. Aquisição Separada
+Já estudamos acima no exemplo do Guaraná Jesus um pouco sobre a aquisição separada de ativos
+intangíveis.
+
+
+                                                                                               10
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Agora vamos estudar um ponto muito explorado em provas... muito mesmo!
+
+Segundo o CPC 04, o custo de ativo intangível adquirido separadamente inclui:
+(a) seu preço de compra, acrescido de impostos de importação e impostos não recuperáveis sobre
+a compra, depois de deduzidos os descontos comerciais e abatimentos; e
+(b) qualquer custo diretamente atribuível à preparação do ativo para a finalidade proposta.
+
+                           Custo de ativo intangível adquirido separadamente
+
+        Preço de Compra
+
+        (+) impostos de importação e impostos não recuperáveis
+
+        (+) qualquer custo diretamente atribuível à preparação do ativo para a finalidade
+        proposta
+
+        (-) descontos comerciais, abatimentos e outros itens semelhantes
+
+Exemplos de custos diretamente atribuíveis são:
+
+                                 Custos diretamente atribuíveis (exemplos)
+
+        Custos de benefícios aos empregados incorridos diretamente para que o ativo
+        fique em condições operacionais (de uso ou funcionamento)
+
+        Honorários profissionais diretamente relacionados para que o ativo fique em
+        condições operacionais
+
+        Custos com testes para verificar se o ativo está funcionando adequadamente
+
+Exemplos de gastos que não fazem parte do custo de ativo intangível adquirido separadamente:
+
+                                                                                              11
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+                               Não fazem parte do custo de ativo intangível
+
+        custos incorridos na introdução de novo produto ou serviço (incluindo propaganda
+        e atividades promocionais)
+
+        custos da transferência das atividades para novo local ou para nova categoria de
+        clientes (incluindo custos de treinamento)
+
+        custos administrativos e outros custos indiretos.
+
+O CPC 04 destaca, ainda, que o reconhecimento dos custos no valor contábil de ativo intangível
+cessa quando esse ativo está nas condições operacionais pretendidas pela administração.
+Portanto, os custos incorridos no uso ou na transferência ou reinstalação de ativo intangível não
+devem ser incluídos no seu valor contábil, como, por exemplo, os seguintes custos:
+a. custos incorridos durante o período em que um ativo capaz de operar nas condições
+operacionais pretendidas pela administração não é utilizado; e
+b. prejuízos operacionais iniciais, tais como os incorridos enquanto a demanda pelos produtos do
+ativo é estabelecida.
+Por fim, vale destacar o seguinte: o ativo intangível deve ser reconhecido pelo equivalente ao preço
+à vista. A diferença entre o preço à vista e o preço a prazo deve ser reconhecida como despesa
+de juros.
+Exceção: ativos qualificáveis. Nesse caso, os juros de empréstimos usados exclusivamente para o
+desenvolvimento do ativo qualificável são capitalizados, ou seja, são incluídos no custo do ativo.
+Vamos ver como o assunto é explorado pelos examinadores.
+
+(TRE-RO) No reconhecimento inicial, o custo de ativo intangível adquirido separadamente inclui
+a) custos com testes para verificar se o ativo está funcionando adequadamente.
+b) custos de transferência da atividade para nova categoria de clientes.
+c) custos administrativos.
+d) impostos recuperáveis sobre compra.
+e) custos na introdução de novo produto ou serviço.
+
+Comentários
+Trata-se de exigência dos exemplos de custos atribuíveis aos ativos intangíveis, expostos no CPC
+04:
+
+                                                                                                12
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+                                 Custos diretamente atribuíveis (exemplos)
+
+        Custos de benefícios aos empregados incorridos diretamente para que o ativo
+        fique em condições operacionais (de uso ou funcionamento)
+
+        Honorários profissionais diretamente relacionados para que o ativo fique em
+        condições operacionais
+
+        Custos com testes para verificar se o ativo está funcionando adequadamente
+
+Gabarito: A
+
+                                                                                           13
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                           29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+                               2. QUESTÕES COMENTADAS
+1. (CESPE/Polícia Federal/2018) Um ativo proveniente de projeto de desenvolvimento somente
+poderá ser classificado como ativo intangível se a empresa for capaz de demonstrar a viabilidade
+técnica de concluir o desenvolvimento do ativo, se houver comprovação da geração efetiva de
+resultados e se a empresa tiver a intenção de concluir o desenvolvimento desse ativo e a
+capacidade para usá-lo e vendê-lo.
+Comentários
+Segundo o CPC 04, um ativo intangível resultante de desenvolvimento deve ser reconhecido
+somente se a entidade puder demonstrar todos os aspectos a seguir enumerados:
+a) viabilidade técnica para concluir o ativo intangível de forma que ele seja disponibilizado para
+uso ou venda;
+                                                         ==219a34==
+
+b) intenção de concluir o ativo intangível e de usá-lo ou vendê-lo;
+c) capacidade para usar ou vender o ativo intangível;
+d) forma como o ativo intangível deve gerar benefícios econômicos futuros. Entre outros aspectos,
+a entidade deve demonstrar a existência de mercado para os produtos do ativo intangível ou para
+o próprio ativo intangível ou, caso este se destine ao uso interno, a sua utilidade;
+e) disponibilidade de recursos técnicos, financeiros e outros recursos adequados para concluir seu
+desenvolvimento e usar ou vender o ativo intangível; e.
+f) capacidade de mensurar com confiabilidade os gastos atribuíveis ao ativo intangível durante seu
+desenvolvimento.
+Gabarito: Certo
+2. (CESPE/ABIN/2018) Software em fase de desenvolvimento de projeto interno é exemplo de
+ativo intangível a ser reconhecido, em que os custos incorridos só podem ser capitalizados após a
+possibilidade de determinação da viabilidade tecnológica, se for possível medir os fluxos de
+benefícios econômicos futuros atribuídos a esse ativo, e ainda, se houver a intenção de uso ou
+venda.
+Comentários
+Na moral, trata-se de questão praticamente idêntica à anterior. Para fixar!
+Segundo o CPC 04, um ativo intangível resultante de desenvolvimento deve ser reconhecido
+somente se a entidade puder demonstrar todos os aspectos a seguir enumerados:
+a) viabilidade técnica para concluir o ativo intangível de forma que ele seja disponibilizado para
+uso ou venda;
+b) intenção de concluir o ativo intangível e de usá-lo ou vendê-lo;
+c) capacidade para usar ou vender o ativo intangível;
+
+
+                                                                                              14
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+d) forma como o ativo intangível deve gerar benefícios econômicos futuros. Entre outros aspectos,
+a entidade deve demonstrar a existência de mercado para os produtos do ativo intangível ou para
+o próprio ativo intangível ou, caso este se destine ao uso interno, a sua utilidade;
+e) disponibilidade de recursos técnicos, financeiros e outros recursos adequados para concluir seu
+desenvolvimento e usar ou vender o ativo intangível; e.
+f) capacidade de mensurar com confiabilidade os gastos atribuíveis ao ativo intangível durante seu
+desenvolvimento.
+Gabarito: Certo
+3. (CESPE/ABIN/2018) Para que um item seja classificado como ativo intangível, o seu custo deve
+ser mensurado com confiabilidade e os fluxos de benefícios econômicos futuros esperados
+atribuíveis ao uso desse ativo devem ser gerados em favor da entidade.
+Comentários
+Exigência clássica do item 21 do CPC 04:
+
+     21. Um ativo intangível deve ser reconhecido apenas se:
+     (a) for provável que os benefícios econômicos futuros esperados atribuíveis ao ativo
+     serão gerados em favor da entidade; e
+     (b) o custo do ativo possa ser mensurado com confiabilidade
+
+Gabarito: Certo
+4. (CESPE/EBSERH/2018) O ágio derivado da expectativa de rentabilidade futura constitui um ativo
+intangível.
+Comentários
+Segundo o CPC 04,
+
+     48. O ágio derivado da expectativa de rentabilidade futura (goodwill) gerado
+     internamente não deve ser reconhecido como ativo.
+
+Gabarito: Errado
+5. (CESPE/TRE-PE/2017) Os valores aplicados em softwares, patentes, direitos autorais, listas de
+clientes, quotas de importação e franquias devem ser reconhecidos como ativos intangíveis
+integrantes do patrimônio da entidade.
+Comentários
+Apesar de todos os itens listados na opção serem passíveis de reconhecimento como ativo
+intangível, não necessariamente eles devem ser reconhecidos. Para serem reconhecidos eles
+devem atender aos requisitos que estudamos:
+21. Um ativo intangível deve ser reconhecido apenas se:
+
+                                                                                              15
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+a) for provável que os benefícios econômicos futuros esperados atribuíveis ao ativo serão gerados
+em favor da entidade; e
+b) o custo do ativo possa ser mensurado com confiabilidade.
+Gabarito: Errado
+
+6. (CESPE/TRE-PE/2017) A perda por redução ao valor recuperável não se aplica a ativos
+intangíveis.
+Comentários
+A perda por redução ao valor recuperável é aplicável a ativos intangíveis.
+Gabarito: Errado
+
+7. (CESPE/TRE-PE/2017) Gastos aplicados em pesquisa e desenvolvimento são reconhecidos
+como ativos intangíveis independentemente da geração de expectativa de benefícios econômicos
+futuros.
+Comentários
+Os gastos em pesquisa não são reconhecidos como ativo intangível.
+Gabarito: Errado
+
+8. (CESPE/TRE-PE/2017) Ativos intangíveis não podem ser classificados como mantidos para
+venda, mesmo que se destinem a alienação.
+Comentários
+Ativos intangíveis podem ser classificados como mantidos para venda. Nesse caso, eles não estão
+sob o alcance do CPC 04, pois estão dentro do alcance do CPC 31.
+Gabarito: Errado
+
+9. (CESPE/TRE-PE/2017) Um dos critérios para a identificação de um ativo intangível diz respeito
+à possibilidade de separação deste ativo dos demais pertencentes à entidade, de forma que ele
+possa ser vendido, transferido, licenciado ou alugado.
+Comentários
+O CPC 04 estabelece algumas premissas para determinar se um ativo intangível atende ao critério
+de identificação. Nos termos do CPC 04, um ativo intangível é identificável quando:
+a. for separável (puder ser separado da entidade e vendido, transferido, licenciado, alugado ou
+trocado, individualmente ou junto com um contrato, ativo ou passivo relacionado, independente
+da intenção de uso pela entidade); Exemplos: Marcas, Patentes, Fórmulas, etc.
+                                                           ou
+b. resultar de direitos contratuais ou outros direitos legais, independentemente de tais direitos
+serem transferíveis ou separáveis da entidade ou de outros direitos e obrigações.
+Gabarito: Certo
+
+
+                                                                                             16
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+10. (CESPE/Polícia Federal/2014) O direito que uma empresa detém para a exploração de recursos
+minerais de jazida que não seja de sua propriedade é considerado bem incorpóreo.
+Comentários
+Questão da série “mamão com açúcar”, não é mesmo? Não precisa ser nenhum profundo
+conhecedor do CPC 04 para chegarmos à conclusão de que os direitos de exploração de recursos
+minerais são bens incorpóreos classificados no ativo intangível.
+Gabarito: Certo
+
+11. (CESPE/ANTT/2013) Os direitos sobre jazidas minerais são registrados no ativo intangível.
+Comentários
+E aí, pessoal! Alguma semelhança com a questão anterior? Inseri essa questão para você ver que
+as bancas repetem as formas de exigência do assunto. Por isso que você deve sempre estudar
+questões comentadas da banca específica do concurso para o qual você se prepara (principalmente
+após o edital ter sido lançado).
+Bem... como já sabemos, os direitos de exploração de recursos minerais (jazidas minerais) são bens
+incorpóreos classificados no ativo intangível.
+Gabarito: Certo
+
+12. (CESPE/ANATEL/2014) Os gastos com pesquisa e desenvolvimento de um ativo intangível são
+tratados, respectivamente, como despesa no resultado do período e ativo, caso demonstrem, entre
+outros aspectos, capacidade de gerar benefícios econômicos futuros.
+Comentários
+Conforme estudamos, nenhum ativo intangível resultante de pesquisa deve ser reconhecido. Os
+gastos com pesquisa devem ser reconhecidos como despesa quando incorridos.
+Ademais, um ativo intangível resultante de desenvolvimento deve ser reconhecido somente se a
+entidade puder demonstrar todos os aspectos enumerados no CPC, entre os quais se destaca a
+capacidade de gerar futuros benefícios econômicos.
+Gabarito: Certo
+13. (CESPE/PF/2014) O intangível gerado internamente somente deve ser reconhecido como ativo
+quando se encontrar na fase de desenvolvimento e a entidade que detiver o seu controle puder
+demonstrar uma série de aspectos exigidos pelo CPC, destinados a indicar que esse intangível é
+capaz de gerar benefícios econômicos futuros.
+Comentários
+Conforme estudamos, para avaliar se um ativo intangível gerado internamente atende aos critérios
+de reconhecimento, a entidade deve classificar a geração do ativo: (a) na fase de pesquisa; e/ou
+(b) na fase de desenvolvimento.
+
+                                                                                                17
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Vimos que nenhum ativo intangível resultante de pesquisa deve ser reconhecido. Os gastos com
+pesquisa devem ser reconhecidos como despesa quando incorridos.
+Além disso, estudamos que um ativo intangível resultante de desenvolvimento deve ser
+reconhecido somente se a entidade puder demonstrar alguns aspectos exigidos pelo CPC 04.
+Por fim, comentamos que essas exigências do CPC 04 possuem o objetivo de identificar se o ativo
+intangível é capaz de gerar benefícios econômicos futuros.
+Gabarito: Certo
+
+14. (CESPE/CADE/2014) Os benefícios econômicos futuros gerados por ativo intangível podem
+influenciar a DRE em contas de receitas ou despesas/custos. Tal flexibilidade ocorre porque esses
+benefícios podem aumentar a receita da venda de produtos ou serviços ou reduzir os custos
+resultantes do uso do ativo pela entidade.
+Comentários
+Trata-se de exigência literal do CPC 04, senão vejamos:
+
+     Os benefícios econômicos futuros gerados por ativo intangível podem incluir a receita
+     da venda de produtos ou serviços, redução de custos ou outros benefícios resultantes
+     do uso do ativo pela entidade. Por exemplo, o uso da propriedade intelectual em um
+     processo de produção pode reduzir os custos de produção futuros em vez de aumentar
+     as receitas futuras.
+
+Gabarito: Certo
+
+15. (CESPE/TCE-RO/2013) Se a vida útil do ativo intangível for indefinida, nenhuma amortização
+deve ser contabilizada.
+Comentários
+Conforme estudamos, o ativo intangível com vida útil indefinida não deve ser amortizado. No
+entanto, seguindo a orientação do CPC 01, a entidade deve testar a perda de valor dos ativos
+intangíveis com vida útil indefinida, comparando o seu valor recuperável com o seu valor contábil
+anualmente e sempre que existam indícios de que o ativo intangível pode ter perdido valor.
+Lembre-se da nossa dica:
+#Dica à IN = sufixo que indica negação
+                                    Vida Útil INdefinida à NÃO amortiza
+Gabarito: Certo
+16. (CESPE/BACEN/2013) Na contabilização de ativos, os ativos intangíveis serão amortizados e
+dispensados do impairment test, caso sua vida útil seja definida.
+Comentários
+
+                                                                                             18
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+O impairment test (teste de recuperabilidade) é aplicável a todos os ativos intangíveis (com vida
+útil definida ou indefinida).
+Alguns alunos têm dúvida se os ativos intangíveis com vida útil definida, por serem alvo de
+amortização, necessitariam também da avaliação do seu valor de recuperação (teste de
+recuperabilidade).
+Segundo o Manual de Contabilidade Societária elaborado pela FIPECAFI,
+"Os ativos intangíveis com vida útil definida, embora sejam objeto de amortização periódica em
+resultado para reconhecimento de sua realização contábil, estão sujeitos, como todo e qualquer
+ativo, à avaliação do seu valor de recuperação. Não há, conceitualmente, como se manter um ativo
+registrado por um valor que exceda sua substância econômica". (FIPECAFI, 2010, p. 267).
+Observe que todo e qualquer ativo, segundo o Manual, deve ser alvo da avaliação do seu valor de
+recuperação.
+O gráfico a seguir, extraído do Manual FIPECAFI, representa a árvore decisória para contabilização
+do intangível:
+
+Gabarito: Errado
+17. (CESPE/TJ-RR/2012) Todas as contas de ativo intangível serão amortizadas a cada período,
+levando-se a contrapartida a débito de uma conta de resultado.
+Comentários
+Conforme estudamos, nem todo ativo intangível é amortizado. Apenas aqueles com vida útil
+definida é que são amortizados. O lançamento da despesa de amortização é:
+
+     D – Despesa de amortização
+     C – Amortização Acumulada
+
+Gabarito: Errado
+
+                                                                                              19
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+18. (CESPE/SEFAZ-ES/2013) Os gastos ocorridos na fase de pesquisa de produtos desenvolvidos
+na empresa devem ser reconhecidos como despesas nos resultados dos períodos em que
+ocorrerem, porque não são adequados para reconhecimento como ativos produzidos.
+Comentários
+Conforme estudamos, apenas os gastos subsequentes à fase de pesquisa passam a ser
+reconhecidos como ativo intangível. Lembre-se:
+Nenhum ativo intangível resultante de pesquisa deve ser reconhecido. Os gastos com pesquisa
+devem ser reconhecidos como despesa quando incorridos.
+Gabarito: Certo
+
+19. (CESPE/TRT10/2013) Os gastos incorridos com marcas, títulos de publicações, listas de clientes
+e outros itens similares gerados internamente não devem ser reconhecidos como ativos intangíveis,
+ainda que a entidade demonstre que esses gastos possam gerar benefícios econômicos futuros.
+Comentários
+Trata-se de exigência literal do disposto no CPC 04 (R1) – Ativos Intangíveis:
+
+     63. Marcas, títulos de publicações, listas de clientes e outros itens similares, gerados
+     internamente, não devem ser reconhecidos como ativos intangíveis.
+     64. Os gastos incorridos com marcas, títulos de publicações, listas de clientes e outros
+     itens similares não podem ser separados dos custos relacionados ao desenvolvimento
+     do negócio como um todo. Dessa forma, esses itens não devem ser reconhecidos como
+     ativos intangíveis.
+     20. [...] gastos subsequentes com marcas, títulos de publicações, logomarcas, listas de
+     clientes e itens de natureza similar (quer sejam eles adquiridos externamente ou
+     gerados internamente) sempre devem ser reconhecidos no resultado, quando
+     incorridos, uma vez que não se consegue separá-los de outros gastos incorridos no
+     desenvolvimento do negócio como um todo.
+
+Gabarito: Certo
+
+20. (CESPE/CNJ/2013) Ao se efetuar o registro dos ativos intangíveis, seguindo o que preconiza
+os pronunciamentos do CPC, os gastos subsequentes com marcas, títulos de publicações e
+logomarcas, sempre devem ser reconhecidos no ativo, uma vez que não devem ser segregados de
+outros gastos incorridos no desenvolvimento do negócio como um todo.
+Comentários
+Para fixar! Segundo o CPC 04:
+
+     Marcas, títulos de publicações, listas de clientes e outros itens similares,
+     gerados internamente, não devem ser reconhecidos como ativos intangíveis.
+
+                                                                                                20
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Gabarito: Errado
+21. (CESPE/CNJ/2013) Como na fase de pesquisa a entidade não está apta a demonstrar a
+existência de ativo intangível, os gastos, quando incorridos, devem ser reconhecidos em contas de
+resultado.
+Comentários
+Segundo o CPC 04 (R1),
+
+     54. Nenhum ativo intangível resultante de pesquisa (ou da fase de pesquisa de projeto
+     interno) deve ser reconhecido. Os gastos com pesquisa (ou da fase de pesquisa de
+     projeto interno) devem ser reconhecidos como despesa quando incorridos.
+     55. Durante a fase de pesquisa de projeto interno, a entidade não está apta a
+     demonstrar a existência de ativo intangível que gerará prováveis benefícios econômicos
+     futuros. Portanto, tais gastos devem ser reconhecidos como despesa quando
+     incorridos.
+
+Gabarito: Certo
+22. (CESPE/CNJ/2013) Quando não houver expectativa de benefícios econômicos futuros ou
+serviços potenciais com a sua utilização ou alienação, o ativo intangível deve ser baixado.
+Comentários
+A questão exige conhecimentos sobre o momento em que o ativo intangível deve ser baixado
+(retirado do balanço). Segundo o CPC 04 (R1),
+O ativo intangível deve ser baixado:
+a) por ocasião de sua alienação; ou
+b) quando não são esperados benefícios econômicos futuros com a sua utilização ou alienação.
+Gabarito: Certo
+
+23. (CESPE/MPU/2010) Os ativos intangíveis com vida útil definida, embora sejam objeto de
+amortização periódica em resultado para reconhecimento de sua realização contábil, estão sujeitos
+à avaliação do seu valor de recuperação.
+Comentários
+Para fixar! Segundo o CPC 04, amortização é a alocação sistemática do valor amortizável de ativo
+intangível ao longo da sua vida útil.
+Destaca-se que nem todos os bens do ativo intangível estão sujeitos à amortização. Assim, o fator
+que determina a aplicação ou não da amortização é a vida útil do intangível.
+               Ativo intangível com vida útil INDEFINIDA: NÃO deve ser amortizado.
+                    Ativo intangível com vida útil DEFINIDA: DEVE ser amortizado.
+
+                                                                                              21
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Para os bens de vida útil indefinida aplica-se, no entanto, o teste de recuperabilidade, ao final de
+cada exercício social.
+Gabarito: Certo
+
+24. (CESPE/SEGER-ES/2013) A empresa ABC adquiriu uma patente capaz de gerar fluxos de
+entradas de caixa líquidos por pelo menos dez anos. No entanto, há um compromisso firmado com
+um terceiro que pretende comprar essa patente em quatro anos por 60% do valor justo da patente
+na data em que ela foi adquirida pela empresa ABC, sendo intenção da empresa ABC vender a
+patente ao interessado em quatro anos. Considerando os procedimentos contábeis estabelecidos
+pelo CPC em relação a ativos intangíveis, assinale a opção que apresenta a interpretação correta
+do contador em relação à situação hipotética apresentada.
+a) A patente deve ser amortizada no prazo de quatro anos, com um valor residual igual ao valor
+presente de 60% do valor justo da patente na data em que foi adquirida, estando sujeita à redução
+no seu valor recuperável durante esse prazo.
+b) A patente não deve ser amortizada, podendo, no entanto, sofrer redução no seu valor
+recuperável ao longo dos quatro anos em que estiver sob o controle da empresa ABC.
+c) A patente deve ser amortizada integralmente no prazo de quatro anos, estando sujeita à redução
+no seu valor recuperável durante esse prazo.
+d) A patente deve ser amortizada integralmente no prazo de quatro anos, não estando sujeita à
+redução no seu valor recuperável durante esse prazo.
+e) A patente deve ser amortizada integralmente no prazo de dez anos, não estando sujeita à
+redução no seu valor recuperável durante esse período.
+Comentários
+Como a empresa pretende vender a patente em quatro anos, essa é a vida útil definida para a
+amortização. Além disso, o valor residual será o valor presente de 60% do valor justo da patente
+na data em que foi adquirida.
+Segundo o CPC 04, a estimativa do valor residual baseia-se no valor recuperável pela alienação,
+utilizando os preços em vigor na data da estimativa para a venda de ativo similar que tenha atingido
+o final de sua vida útil e que tenha sido operado em condições semelhantes àquelas em que o
+ativo será utilizado.
+Por fim, como todo ativo intangível, a patente está sujeita à redução no seu valor recuperável
+durante esse período, conforme determina o CPC 01.
+Do exposto, percebe-se que apenas a opção “A” está certa.
+Gabarito: A
+
+25. (CESPE/TCE-ES/2012) Um ativo satisfaz o critério de identificação, no que diz respeito à
+definição de ativo intangível, quando puder ser separado da entidade e vendido, transferido,
+licenciado, alugado ou trocado, individualmente ou junto com um contrato, ativo ou passivo
+relacionado, independentemente da intenção de uso pela entidade.
+
+                                                                                                22
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Comentários
+Nos termos do CPC 04, Segundo o CPC 04, um ativo satisfaz o critério de identificação, em termos
+de definição de um ativo intangível, quando for separável, ou seja, puder ser separado da
+entidade e vendido, transferido, licenciado, alugado ou trocado, individualmente ou junto com
+um contrato, ativo ou passivo relacionado, independente da intenção de uso pela entidade.
+Gabarito: Certo
+
+26. (CESPE/Polícia Federal/2012) O valor amortizável de ativo intangível com vida útil indefinida
+deverá ser amortizado de modo a refletir o padrão de consumo, pela entidade, dos benefícios
+econômicos futuros.
+Comentários
+Pessoal, tenho certeza que você está percebendo como esse ponto é exigido em prova, não é
+mesmo? Já tenho até um texto padrão de comentário rsrsrs Vamos ver de novo para tatuar no seu
+cérebro esse ponto!
+Segundo o CPC 04, amortização é a alocação sistemática do valor amortizável de ativo intangível
+ao longo da sua vida útil.
+Destaca-se que nem todos os bens do ativo intangível estão sujeitos à amortização. Assim, o fator
+que determina a aplicação ou não da amortização é a vida útil do intangível.
+               Ativo intangível com vida útil INDEFINIDA: NÃO deve ser amortizado.
+                    Ativo intangível com vida útil DEFINIDA: DEVE ser amortizado.
+Para os bens de vida útil indefinida aplica-se, no entanto, o teste de recuperabilidade, ao final de
+cada exercício social.
+Gabarito: Errado
+
+27. (CESPE/ABIN/2010) A contabilização do ativo intangível baseia-se na sua vida útil e,
+consequentemente, um intangível com vida útil definida deve ser amortizado periodicamente, o
+que não se aplica nos casos de intangíveis com vida útil indefinida, que não chegam a ser
+reconhecidos no balanço patrimonial.
+Comentários
+Cuidado com esse tipo de questão... estava indo tudo bem até falar que os ativos intangíveis com
+vida útil indefinida não chegam a ser reconhecidos no balanço. Ora, se é um ativo intangível é
+porque atendeu a todos os requisitos e, portanto, deve sim ser reconhecido.
+Gabarito: Errado
+
+28. (CESPE/MPU/2010) Os gastos incorridos na fase de pesquisa de novos produtos devem ser
+reconhecidos como ativo intangível, uma vez que esses gastos atendem às condições de
+reconhecimento de um ativo, sobretudo no que diz respeito à garantia mínima de provável geração
+de benefícios futuros.
+
+                                                                                                23
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+Comentários
+Mais uma questão sobre esse ponto do CPC! Já viu que esse ponto tem que estar na veia!
+
+                       Fase de                                                      Fase de
+                                                                               DESENVOLVIMENTO
+                     PESQUISA
+
+      Ainda não há garantia de                                          Há garantia de geração de
+      geração de futuros benefícios                                     futuros benefícios econômicos
+      econômicos e da viabilidade                                       e da viabilidade do negócio.
+      do negócio.
+
+                                                                                    Gastos são
+                Gastos são
+                                                                                reconhecidos como
+            reconhecidos como
+                                                                                      ATIVO
+                DESPESA
+
+
+Gabarito: Errado
+
+29. (CESPE/Polícia Federal/2012) Não deve ser reconhecido como ativo o ágio derivado da
+expectativa de rentabilidade futura (goodwill) gerado internamente.
+Comentários
+Conforme estudamos, o ágio derivado da expectativa de rentabilidade futura (goodwill) gerado
+internamente não deve ser reconhecido como ativo porque não é um recurso identificável (ou seja,
+não é separável nem advém de direitos contratuais ou outros direitos legais) controlado pela
+entidade que pode ser mensurado com confiabilidade ao custo.
+Gabarito: Certo
+30. (FGV/ISS-Niterói/2015) A Cia. Gama adquiriu, em 31/03/x1, o controle da Linhas Aéreas
+Épsilon S.A., que era titular de direitos de operação em aeroportos das regiões Sudeste e Centro-
+Oeste do Brasil. Ao contabilizar a aquisição da Linhas Aéreas Épsilon S.A., a Cia. Gama deverá
+reconhecer esses direitos:
+a) como ativo intangível, mensurado pelo valor justo na data de aquisição;
+b) como ativo intangível, se sua concessão for por um prazo limitado;
+
+                                                                                                        24
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                        29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+c) como ativo intangível, se puderem ser separados da Linhas Aéreas Épsilon S.A. e vendidos,
+transferidos, licenciados, alugados ou trocados;
+d) como ativo intangível, se a Linhas Aéreas Épsilon S.A. assim os tiver reconhecido em suas
+demonstrações financeiras anteriores à aquisição;
+e) como parte do ágio por expectativa de rentabilidade futura (goodwill) dessa aquisição.
+Comentários
+Trata-se de uma operação em que há combinação de negócios. Estudaremos esse conceito
+quando estudarmos o CPC 15, mas para ficar mais claro o entendimento dessa questão segue o
+conceito:
+Combinação de negócios é uma operação ou outro evento por meio do qual um adquirente obtém
+o controle de um ou mais negócios, independentemente da forma jurídica da operação.
+Veja que a aquisição do controle da Linhas Aéreas Épsilon S.A. pela Cia. Gama configura uma
+combinação de negócios.
+Assim, de acordo com o CPC 04,
+Se um ativo intangível for adquirido em uma combinação de negócios, o seu custo deve ser o
+valor justo na data de aquisição, o qual reflete as expectativas dos participantes do mercado na
+data de aquisição sobre a probabilidade de que os benefícios econômicos futuros incorporados
+no ativo serão gerados em favor da entidade.
+Gabarito: A
+
+                                                                                            25
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                            29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+                                   3. LISTA DAS QUESTÕES
+1. (CESPE/Polícia Federal/2018) Um ativo proveniente de projeto de desenvolvimento somente
+poderá ser classificado como ativo intangível se a empresa for capaz de demonstrar a viabilidade
+técnica de concluir o desenvolvimento do ativo, se houver comprovação da geração efetiva de
+resultados e se a empresa tiver a intenção de concluir o desenvolvimento desse ativo e a
+capacidade para usá-lo e vendê-lo.
+2. (CESPE/ABIN/2018) Software em fase de desenvolvimento de projeto interno é exemplo de
+ativo intangível a ser reconhecido, em que os custos incorridos só podem ser capitalizados após a
+possibilidade de determinação da viabilidade tecnológica, se for possível medir os fluxos de
+benefícios econômicos futuros atribuídos a esse ativo, e ainda, se houver a intenção de uso ou
+venda.
+3. (CESPE/ABIN/2018) Para que um item seja classificado como ativo intangível, o seu custo deve
+ser mensurado com confiabilidade e os fluxos de benefícios econômicos futuros esperados
+atribuíveis ao uso desse ativo devem ser gerados em favor da entidade.
+4. (CESPE/EBSERH/2018) O ágio derivado da expectativa de rentabilidade futura constitui um ativo
+intangível.
+5. (CESPE/TRE-PE/2017) Os valores aplicados em softwares, patentes, direitos autorais, listas de
+clientes, quotas de importação e franquias devem ser reconhecidos como ativos intangíveis
+integrantes do patrimônio da entidade.
+6. (CESPE/TRE-PE/2017) A perda por redução ao valor recuperável não se aplica a ativos
+intangíveis.
+7. (CESPE/TRE-PE/2017) Gastos aplicados em pesquisa e desenvolvimento são reconhecidos
+como ativos intangíveis independentemente da geração de expectativa de benefícios econômicos
+futuros.
+8. (CESPE/TRE-PE/2017) Ativos intangíveis não podem ser classificados como mantidos para
+venda, mesmo que se destinem a alienação.
+9. (CESPE/TRE-PE/2017) Um dos critérios para a identificação de um ativo intangível diz respeito
+à possibilidade de separação deste ativo dos demais pertencentes à entidade, de forma que ele
+possa ser vendido, transferido, licenciado ou alugado.
+10. (CESPE/Polícia Federal/2014) O direito que uma empresa detém para a exploração de recursos
+minerais de jazida que não seja de sua propriedade é considerado bem incorpóreo.
+11. (CESPE/ANTT/2013) Os direitos sobre jazidas minerais são registrados no ativo intangível.
+12. (CESPE/ANATEL/2014) Os gastos com pesquisa e desenvolvimento de um ativo intangível são
+tratados, respectivamente, como despesa no resultado do período e ativo, caso demonstrem, entre
+outros aspectos, capacidade de gerar benefícios econômicos futuros.
+
+                                                                                                26
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+13. (CESPE/PF/2014) O intangível gerado internamente somente deve ser reconhecido como ativo
+quando se encontrar na fase de desenvolvimento e a entidade que detiver o seu controle puder
+demonstrar uma série de aspectos exigidos pelo CPC, destinados a indicar que esse intangível é
+capaz de gerar benefícios econômicos futuros.
+14. (CESPE/CADE/2014) Os benefícios econômicos futuros gerados por ativo intangível podem
+influenciar a DRE em contas de receitas ou despesas/custos. Tal flexibilidade ocorre porque esses
+benefícios podem aumentar a receita da venda de produtos ou serviços ou reduzir os custos
+resultantes do uso do ativo pela entidade.
+15. (CESPE/TCE-RO/2013) Se a vida útil do ativo intangível for indefinida, nenhuma amortização
+deve ser contabilizada.
+16. (CESPE/BACEN/2013) Na contabilização de ativos, os ativos intangíveis serão amortizados e
+dispensados do impairment test, caso sua vida útil seja definida.
+17. (CESPE/TJ-RR/2012) Todas as contas de ativo intangível serão amortizadas a cada período,
+levando-se a contrapartida a débito de uma conta de resultado.
+18. (CESPE/SEFAZ-ES/2013) Os gastos ocorridos na fase de pesquisa de produtos desenvolvidos
+na empresa devem ser reconhecidos como despesas nos resultados dos períodos em que
+ocorrerem, porque não são adequados para reconhecimento como ativos produzidos.
+19. (CESPE/TRT10/2013) Os gastos incorridos com marcas, títulos de publicações, listas de clientes
+e outros itens similares gerados internamente não devem ser reconhecidos como ativos intangíveis,
+ainda que a entidade demonstre que esses gastos possam gerar benefícios econômicos futuros.
+20. (CESPE/CNJ/2013) Ao se efetuar o registro dos ativos intangíveis, seguindo o que preconiza
+os pronunciamentos do CPC, os gastos subsequentes com marcas, títulos de publicações e
+logomarcas, sempre devem ser reconhecidos no ativo, uma vez que não devem ser segregados de
+outros gastos incorridos no desenvolvimento do negócio como um todo.
+21. (CESPE/CNJ/2013) Como na fase de pesquisa a entidade não está apta a demonstrar a
+existência de ativo intangível, os gastos, quando incorridos, devem ser reconhecidos em contas de
+resultado.
+22. (CESPE/CNJ/2013) Quando não houver expectativa de benefícios econômicos futuros ou
+serviços potenciais com a sua utilização ou alienação, o ativo intangível deve ser baixado.
+23. (CESPE/MPU/2010) Os ativos intangíveis com vida útil definida, embora sejam objeto de
+amortização periódica em resultado para reconhecimento de sua realização contábil, estão sujeitos
+à avaliação do seu valor de recuperação.
+24. (CESPE/SEGER-ES/2013) A empresa ABC adquiriu uma patente capaz de gerar fluxos de
+entradas de caixa líquidos por pelo menos dez anos. No entanto, há um compromisso firmado com
+um terceiro que pretende comprar essa patente em quatro anos por 60% do valor justo da patente
+na data em que ela foi adquirida pela empresa ABC, sendo intenção da empresa ABC vender a
+patente ao interessado em quatro anos. Considerando os procedimentos contábeis estabelecidos
+
+                                                                                              27
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+pelo CPC em relação a ativos intangíveis, assinale a opção que apresenta a interpretação correta
+do contador em relação à situação hipotética apresentada.
+a) A patente deve ser amortizada no prazo de quatro anos, com um valor residual igual ao valor
+presente de 60% do valor justo da patente na data em que foi adquirida, estando sujeita à redução
+no seu valor recuperável durante esse prazo.
+b) A patente não deve ser amortizada, podendo, no entanto, sofrer redução no seu valor
+recuperável ao longo dos quatro anos em que estiver sob o controle da empresa ABC.
+c) A patente deve ser amortizada integralmente no prazo de quatro anos, estando sujeita à redução
+no seu valor recuperável durante esse prazo.
+d) A patente deve ser amortizada integralmente no prazo de quatro anos, não estando sujeita à
+redução no seu valor recuperável durante esse prazo.
+e) A patente deve ser amortizada integralmente no prazo de dez anos, não estando sujeita à
+redução no seu valor recuperável durante esse período.
+25. (CESPE/TCE-ES/2012) Um ativo satisfaz o critério de identificação, no que diz respeito à
+definição de ativo intangível, quando puder ser separado da entidade e vendido, transferido,
+licenciado, alugado ou trocado, individualmente ou junto com um contrato, ativo ou passivo
+relacionado, independentemente da intenção de uso pela entidade.
+26. (CESPE/Polícia Federal/2012) O valor amortizável de ativo intangível com vida útil indefinida
+deverá ser amortizado de modo a refletir o padrão de consumo, pela entidade, dos benefícios
+econômicos futuros.
+27. (CESPE/ABIN/2010) A contabilização do ativo intangível baseia-se na sua vida útil e,
+consequentemente, um intangível com vida útil definida deve ser amortizado periodicamente, o
+que não se aplica nos casos de intangíveis com vida útil indefinida, que não chegam a ser
+reconhecidos no balanço patrimonial.
+28. (CESPE/MPU/2010) Os gastos incorridos na fase de pesquisa de novos produtos devem ser
+reconhecidos como ativo intangível, uma vez que esses gastos atendem às condições de
+reconhecimento de um ativo, sobretudo no que diz respeito à garantia mínima de provável geração
+de benefícios futuros.
+29. (CESPE/Polícia Federal/2012) Não deve ser reconhecido como ativo o ágio derivado da
+expectativa de rentabilidade futura (goodwill) gerado internamente.
+30. (FGV/ISS-Niterói/2015) A Cia. Gama adquiriu, em 31/03/x1, o controle da Linhas Aéreas
+Épsilon S.A., que era titular de direitos de operação em aeroportos das regiões Sudeste e Centro-
+Oeste do Brasil. Ao contabilizar a aquisição da Linhas Aéreas Épsilon S.A., a Cia. Gama deverá
+reconhecer esses direitos:
+a) como ativo intangível, mensurado pelo valor justo na data de aquisição;
+b) como ativo intangível, se sua concessão for por um prazo limitado;
+
+                                                                                             28
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             29
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 20
+
+c) como ativo intangível, se puderem ser separados da Linhas Aéreas Épsilon S.A. e vendidos,
+transferidos, licenciados, alugados ou trocados;
+d) como ativo intangível, se a Linhas Aéreas Épsilon S.A. assim os tiver reconhecido em suas
+demonstrações financeiras anteriores à aquisição;
+e) como parte do ágio por expectativa de rentabilidade futura (goodwill) dessa aquisição.
+
+                                                 4. GABARITO
+
+                   1.    2.       3.        4.      5.       6.       7.       8.          9.    10.
+                   C     C        C         E       E        E        E        E           C     C
+                   11.   12.      13.       14.     15.      16.       17.      18.        19.   20.
+                   C     C        C         C       C        E        E        C           C     E
+                   21.   22.      23.       24.     25.      26.       27.      28.        29.   30.
+                   C     C        C         A       C        E        E        E           C     A
+
+                                                                                                       29
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                       29
+        www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+---

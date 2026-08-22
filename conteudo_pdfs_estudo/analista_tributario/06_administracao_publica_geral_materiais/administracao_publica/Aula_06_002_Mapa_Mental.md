@@ -1,0 +1,168 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_002_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: 'DEFINIÇÃO GERAL: EMPREENDEDORISMO É'
+---
+
+# DEFINIÇÃO GERAL: EMPREENDEDORISMO É
+
+DEFINIÇÃO GERAL: EMPREENDEDORISMO É
+                        ❑ PROATIVIDADE PARA INICIAR/ABRIR UM NOVO NEGÓCIO.
+                        ❑ INICIATIVA PARA INOVAR EM EMPRESAS JÁ EXISTENTES.
+                        ❑ ASSOCIADO À CAPACIDADE DE IDENTIFICAR E APROVEITAR OPORTUNIDADES.
+                        ❑ ASSOCIADO        À       CAPACIDADE                       DE   ASSUMIR    RISCOS
+                           CALCULADOS/CONTROLADOS.
+
+EMPREENDEDORISMO DE OPORTUNIDADE
+               X                                                                                   EMPREENDEDORISMO
+ EMPREENDEDORISMO DE NECESSIDADE
+
+
+                                                      CRIA UMA EMPRESA COM PLANEJAMENTO PRÉVIO.
+ EMPREENDEDORISMO DE OPORTUNIDADE
+                                                      ESSE TIPO DE EMPREENDEDORISMO TEM UMA MAIOR CHANCE DE SUCESSO.
+
+                                                      O “CANDIDATO A EMPREENDEDOR” EMPREENDE POR FALTA DE OPÇÃO.
+  EMPREENDEDORISMO DE NECESSIDADE
+                                                      ESSE TIPO DE EMPREENDEDORISMO TENDE A FRACASSAR RÁPIDO.
+
+
+                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+           O EMPREENDEDOR X PROCESSO EMPREENDEDOR
+
+ CARACTERÍSTICAS DO EMPREENDEDOR                                O PROCESSO EMPREENDEDOR POSSUI 4 FASES
+❑ACEITAÇÃO MODERADA DE RISCO COMO                              ❑ IDENTIFICAR E AVALIAR A OPORTUNIDADE.
+ FUNÇÃO DA CAPACIDADE DE DECISÃO.                              ❑DESENVOLVER O PLANO DE NEGÓCIOS.
+❑ATIVIDADE INSTRUMENTAL VIGOROSA E/OU                          ❑DETERMINAR E CAPTAR OS RECURSOS NECESSÁRIOS.
+ ORIGINAL.
+                                                               ❑ ADMINISTRAR A EMPRESA CRIADA.
+❑RESPONSABILIDADE INDIVIDUAL.
+❑ CONHECIMENTOS DOS RESULTADOS DAS
+ DECISÕES.
+
+                                                                                              ADMINISTRAÇÃO PÚBLICA
+                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+É AQUELE REALIZADO DENTRO DA ORGANIZAÇÃO                     É AQUELE QUE ATUA EM SUA ORGANIZAÇÃO
+ATRAVÉS DOS SEUS PRÓPRIOS FUNCIONÁRIOS.                      BUSCANDO NOVAS MANEIRAS DE FAZER AS COISAS.
+
+               DEFINIÇÃO                                                INTRAEMPREENDEDOR
+
+                     EMPREENDEDORISMO CORPORATIVO
+                       (INTRAEMPREENDEDORISMO)
+
+
+                                                                                            ADMINISTRAÇÃO PÚBLICA
+                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                   EMPREENDEDORISMO                                                      O EMPREENDEDORISMO EXISTE TANTO NAS ORGANIZAÇÕES PRIVADAS
+                    GOVERNAMENTAL                                                        QUANTO NAS ORGANIZAÇÕES PÚBLICAS.
+
+                                                                                         ❑ É ALGO RELATIVAMENTE NOVO (DÉCADA DE 90).
+                                                                                         ❑ DECORREU DA ADMINISTRAÇÃO PÚBLICA GERENCIAL.
+                                                                                         ❑ CARACTERÍSTICAS:
+                                                                                                  •   FOCO NOS RESULTADOS.
+                                                                                                  •   ORIENTAÇÃO PARA O CIDADÃO-CLIENTE (FOCO NO CIDADÃO).
+       PRINCÍPIOS DO GOVERNO EMPREENDEDOR                                                         •   INCENTIVO À INOVAÇÃO E À CRIATIVIDADE.
+                (OSBORNE E GAEBLER)                                                               •   DESCENTRALIZAÇÃO.
+                                                                                                  •   FLEXIBILIZAÇÃO.
+❑ GOVERNO CATALISADOR (“NAVEGANDO EM VEZ DE REMAR”).
+                                                                                                  •   FOMENTO À COMPETITIVIDADE.
+❑ O GOVERNO PERTENCE À COMUNIDADE (“DANDO RESPONSABILIDADE AO
+  CIDADÃO, EM VEZ DE SERVI‐LO”).
+                                                                                                  •   PROFISSIONALISMO.
+❑ GOVERNO COMPETITIVO (“INTRODUZINDO A COMPETIÇÃO NA PRESTAÇÃO DE                                 •   ACCOUNTABILITY.
+  SERVIÇOS”).                                                                                     •   TRANSPARÊNCIA.
+❑ GOVERNO      ORIENTADO    POR   MISSÕES  (“TRANSFORMANDO      ÓRGÃOS
+   BUROCRATIZADOS” / “TRANSFORMANDO ORGANIZAÇÕES MOVIDAS POR REGRAS”).                  ❑ ATENÇÃO: O GOVERNO EMPREENDEDOR NÃO PRETENDE CONTROLAR A
+                                                                                           ECONOMIA, NÃO PRETENDE POSSUIR EMPRESAS E NÃO PRETENDE
+❑ GOVERNO DE RESULTADOS (“FINANCIANDO RESULTADOS E NÃO RECURSOS”).
+                                                                                           CONCENTRAR-SE NO “FAZER” EM AMPLA ESCALA. NA VERDADE, ELE
+❑ GOVERNO E SEUS CLIENTES (“ATENDENDO ÀS NECESSIDADES DO CLIENTE E NÃO                     ESTIMULA A AÇÃO E A PARCERIA COM A SOCIEDADE.
+  DA BUROCRACIA”).
+❑ GOVERNO EMPREENDEDOR (“GERANDO RECEITAS AO INVÉS DE DESPESAS”).
+❑ GOVERNO DESCENTRALIZADO (“DA HIERARQUIA À PARTICIPAÇÃO E AO TRABALHO
+  DE EQUIPE”).
+❑ GOVERNO ORIENTADO PARA O MERCADO (“INTRODUZINDO MUDANÇAS ATRAVÉS
+  DO MERCADO”).
+                                                                                                                                               ADMINISTRAÇÃO PÚBLICA
+❑ GOVERNO PREVENTIVO (“A PREVENÇÃO AO INVÉS DA CURA”).
+                                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+ EMPREENDEDORISMO GOVERNAMENTAL
+
+
+      FATORES QUE DEVEM SER COMBATIDOS
+ALGUNS  DOS FATORES A SEREM COMBATIDOS PARA QUE O
+EMPREENDEDORISMO POSSA SE DESENVOLVER NO SETOR PÚBLICO SÃO:
+  • HIERARQUIA EXCESSIVA.
+  • DESCONTINUIDADE.
+  • ROTINAS.
+  • BUROCRACIA.
+  • PATERNALISMO.
+  • PRÁTICAS PATRIMONIALISTAS.
+  • PRÁTICAS DE CLIENTELISMO (“TROCA DE FAVORES”).
+  • INFLEXIBILIDADE.
+                                                                     ADMINISTRAÇÃO PÚBLICA
+                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                               ❑ SÃO CANAIS INSTITUCIONAIS, PLURAIS E AUTÔNOMOS (PÚBLICOS NÃO-ESTATAIS).
+                                                               ❑ FORMADOS POR REPRESENTANTES DA SOCIEDADE CIVIL E DO PODER PÚBLICO.
+OS CONSELHOS GESTORES DE POLÍTICAS PÚBLICAS SÃO                ❑ COM A ATRIBUIÇÃO DE PROPOR DIRETRIZES PARA AS POLÍTICAS PÚBLICAS, FISCALIZÁ-LAS,
+                                                                 CONTROLÁ-LAS E DELIBERAR SOBRE ELAS.
+                                                               ❑ SENDO ÓRGÃOS DE GESTÃO PÚBLICA VINCULADOS À ESTRUTURA DO PODER EXECUTIVO.
+
+                                                                        ❑ CONSELHO CONSULTIVO.
+                                                                        ❑ CONSELHO DELIBERATIVO.
+OS CONSELHOS PODEM POSSUIR AS SEGUINTES NATUREZAS
+                                                                        ❑ CONSELHO NORMATIVO.
+                                                                        ❑ CONSELHO FISCALIZADOR.
+
+
+POSSIBILITAM QUE OS CIDADÃOS PARTICIPEM E FISCALIZEM A ADMINISTRAÇÃO PÚBLICA.
+
+
+               CONSELHOS DE GESTÃO                                                                PARTICIPAÇÃO DOS CIDADÃOS
+
+
+❑ A ALOCAÇÃO DE ALGUNS RECURSOS PÚBLICOS É DECIDIDA COM A PARTICIPAÇÃO DOS
+  CIDADÃOS.
+❑ É UMA TÉCNICA ORÇAMENTÁRIA.                                                                       ORÇAMENTO PARTICIPATIVO
+❑ SÃO ESPAÇOS PÚBLICOS PARA DELIBERAÇÃO SOBRE O ORÇAMENTO.
+❑ É ADOTADO, PREDOMINANTEMENTE, NO ÂMBITO MUNICIPAL.
+❑ PERMITE QUE A SOCIEDADE EXERÇA A CIDADANIA.
+❑ PERMITE QUE A SOCIEDADE CONHEÇA OS PROBLEMAS ENFRENTADOS PELA CIDADE.                                   CARACTERÍSTICAS
+❑ PERMITE QUE SE SAIBA OS LIMITES EXISTENTES NO ORÇAMENTO.
+❑ PERDA DA FLEXIBILIDADE E MAIOR RIGIDEZ NA PROGRAMAÇÃO DE INVESTIMENTOS.
+                                                                                                                                 ADMINISTRAÇÃO PÚBLICA
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---

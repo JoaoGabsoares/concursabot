@@ -1,0 +1,468 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: TECNOLOGIA DA
+---
+
+# TECNOLOGIA DA
+
+---
+
+---
+
+TECNOLOGIA DA
+ INFORMAÇÃO
+                          Profa. Emannuelle Gouveia
+                          @Emannuellegouveia
+
+
+  
+
+
+---
+
+BANCO DE DADOS
+  RELACIONAIS
+
+                       Prof. Emannuelle Gouveia
+                       @Emannuelle Gouveia
+
+
+    
+
+
+---
+
+                            BANCO DE DADOS
+                              RELACIONAIS
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+        DEFINIÇÃO
+
+           Um banco de dados é uma coleção de dados relacionados, ou seja, uma
+      coleção de dados inter-relacionados, representando informações sobre um
+      domínio específico.
+           Pode ter qualquer tamanho e complexidade e poder ser implementado de
+      forma manual ou automatizado.
+           Bancos de dados são as estruturas utilizadas para o armazenamento de
+      informações para as posteriores consultas necessárias, de maneira ordenada e
+      adaptada as necessidade do usuário.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+        SGBD
+            É um conjunto de programas que permite criar e manter bancos de dados,
+      facilitando os seus processos de definição, construção, manipulação,
+      compartilhamento, proteção e manutenção.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+        SGBD
+      1.       Definição: processo que envolve especificar os tipos, estruturas e restrições
+               dos dados a serem armazenados ;
+      2.       Construção: processo que envolve armazenar os dados em algum meio
+               controlado pelo sistema gerenciador de banco de dados;
+      3.       Manipulação: processo que inclui funções como consulta – para recuperar
+               dados específicos; atualização – para refletir mudanças no minimundo; e
+               geração de relatórios;
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                   
+
+
+---
+
+        SGBD
+        4. Compartilhamento: processo que permite que diversos usuários e programas
+        acessem um banco de dados simultaneamente;
+        5. Proteção: processo que inclui a proteção do sistema contra defeitos (ou
+        falhas) de hardware ou software, e proteção de segurança contra acesso não
+        autorizado ou malicioso;
+        6. Manutenção: processo que permite a evolução à medida que os requisitos
+        mudam com o tempo, uma vez que um banco de dados pode ter um ciclo de
+        vida de muitos anos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+        APLICAÇÕES
+
+          Aplicações são sistemas, programas ou softwares que enviam consultas
+      ou solicitações a um SGBD, que por sua vez, acessa um banco de dados.
+          Uma aplicação recebe entradas que serão entregues ao SGBD e este
+      manipulará o Banco de Dados que executará o comando solicitado.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+        SBD
+          A união do BD com SGBD é chamada de Sistema de Banco de Dados
+      (SBD).
+
+      SBD = SGBD + BD + [APLICAÇÕES]
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+        TIPOS DE BANCO DE DADOS
+
+               Os tipos de Banco de Dados mais comuns existentes hoje no mercado
+      são:
+
+      Banco de dados não-relacional – são também conhecidos como banco de
+      dados de Arquivo. Neles todos os dados são armazenados em uma única
+      tabela, armazenada em um único arquivo.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      Banco de dados relacional – são formados por várias tabelas que se
+      relacionam entre si.
+
+      Banco de dados orientados a Objetos – utilizam para o armazenamento dos
+      dados os conceitos da Orientação a Objetos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+        CARACTERÍSTICAS BÁSICAS
+      a) Natureza de autodescrição de um sistema de banco de dados
+          Os bancos de dados além dos dados armazenados, contêm também
+      uma definição ou descrição completa da estrutura e restrições desses dados.
+      São os metadados das tabelas e diversos outros componentes do BD.
+
+      b) Isolamento entre programas e dados, e abstração de dados
+          Os dados ficam bem separados das aplicações que os manipulam e há a
+      garantia de abstração dos dados (quanto maior a abstração, menor o
+      detalhamento) de acordo com o desejo do usuário.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+        CARACTERÍSTICAS BÁSICAS
+       c) Suporte a Múltiplas Visões de Dados
+        Várias aplicações podem consultar o BD simultaneamente e terem visões diferentes
+       dos dados, de acordo com as suas necessidades específicas.
+
+       d) Compartilhamento de Dados e Processamento de Transação
+            A maioria do BDs atuais apresentam recursos de gerência interna que permitem
+       que o mesmo dado seja consultado e manipulado simultaneamente por vários
+       usuários.
+            O SGBD precisa incluir um software de controle de concorrência para garantir
+       que vários usuários interajam simultaneamente com o banco de dados sem
+       problemas.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+                            QUESTÕES
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+      16- (UNIRIO) Dentre as principais características da abordagem de bancos de dados,
+      quando comparada à abordagem de processamento de arquivos, NÃO se inclui:
+
+      a) natureza autodescrita.
+      b) suporte a múltiplas visões dos dados.
+      c) processamento de transações multiusuário.
+      d) compartilhamento dos dados para múltiplos usuários.
+      e) liberdade de cada aplicação nomear e estruturar os itens de dados armazenados
+      de forma independente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+      17) (IF/RS) NÃO faz parte das características de utilização de Bancos de Dados:
+
+      a) Suporte para as múltiplas visões de dados.
+      b) Auto-atendimento sob demanda.
+      c) Isolamento entre os programas e os dados (abstração de dados).
+      d) Natureza autodescritiva do Banco de Dados.
+      e) Compartilhamento de Dados e processamento de transações de multiusuários.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                 
+
+
+---
+
+         18.(CESPE / MPOG – 2015) Os dados armazenados em um SGBD são
+         acessados por um único usuário de cada vez, sendo impedido o acesso
+         concorrente aos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+      19.(FGV / MPE-AL– 2018) O conjunto de programas responsável pelo
+      gerenciamento de uma base de dados e que, entre outras funções, suporta
+      uma linguagem de consulta, gera relatórios e disponibiliza uma interface
+      para que os seus clientes possam incluir, alterar ou consultar dados, é
+      chamado de:
+
+      a) Banco de Dados Relacional (BDR).
+      b) Dicionário de Dados (DD).
+      c) Modelo Entidade Relacionamento (MER).
+      d) Sistema de Suporte à Decisão (SSD).
+      e) Sistema Gerenciador de Bancos de Dados (SGBD).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+       20.(FADESP / SEFA-PA – 2022) Sobre as características de um Sistema
+       Gerenciador de Banco de Dados (SGBD), julgue verdadeira (V) ou falsa (F)
+       cada uma das afirmativas a seguir.
+       I. Um SGBD tem como propriedade a dependência dos dados do programa.
+       A estrutura dos arquivos de dados é armazenada no catálogo do SGDB
+       separadamente dos programas de acesso.
+       II. Um SGDB multiusuário precisa oferecer suporte para definir múltiplas
+       visões dos dados. Por exemplo, uma visão pode ser um subconjunto do
+       banco de dados ou conter um dado virtual que é derivado dos arquivos do
+       banco de dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+      III. Um SGDB precisa garantir que as transações concorrentes sejam realizadas de
+      maneira correta, ou seja, quando vários usuários tentarem atualizar o mesmo dado é
+      preciso garantir o controle de concorrência para que o resultado das operações seja
+      correto.
+
+      A sequência correta é:
+      a) I - F; II - V; III - V.
+      b) I - F; II - F; III - V.
+      c) I - V; II - V; III - V.
+      d) I - F; II - F; III - F.
+      e) I - V; II - V; III - F
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+        TRANSAÇÃO
+           Cada atividade realizada em um BD é uma transação. Elas apresentam
+      as seguintes características básicas (ACID):
+
+      ATOMICIDADE: Uma transação é uma unidade de processamento atômica
+      que deve ser executada integralmente até o fim ou não deve ser executada.
+      Para efetivar a transação executamos o COMMIT; caso ocorra alguma falha,
+      efetuamos o ROLLBACK.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+   TRANSAÇÃO
+    CONSISTÊNCIA: A execução de uma transação deve levar o banco de dados de um
+    estado consistente a um outro estado consistente.
+
+    ISOLAMENTO: Cada transação deve parecer executar isoladamente das demais,
+    embora diversas transações possam estar executando concorrentemente.
+
+    DURABILIDADE: Os efeitos de uma transação em caso de sucesso devem persistir no
+    banco de dados mesmo em casos de quedas de energia, travamentos ou erros.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+      21.(DPE-SP) As transações em bancos de dados distribuídos precisam preservar as
+      propriedades conhecidas como ACID. Dentre estas propriedades está a:
+
+      a) Atomicidade.
+      b) Confidencialidade.
+      c) Autenticidade.
+      d) Integridade.
+      e) Disponibilidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+      22.(TCE-SP) A propriedade das transações de um SGBD que garante: “ou todas as
+      operações da transação são refletidas corretamente no banco de dados ou nenhuma
+      o será” é a:
+
+      a) Atomicidade.
+      b) Isolamento.
+      c) Consistência.
+      d) Integridade.
+      e) Durabilidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+      23.(Prefeitura de Paulínia - SP) A execução de transações de bancos de dados deve
+      observar um conjunto de propriedades, cuja finalidade é a manutenção da
+      integridade dos dados armazenados nas tabelas. Assinale a opção que apresenta as
+      propriedades usualmente implementadas nos sistemas gerenciadores de bancos de
+      dados:
+
+      a) Independência de dados e integridade referencial.
+      b) Manutenção de logs e extração de backups.
+      c) Segurança, criptografia e sigilo.
+      d) Atomicidade, durabilidade, consistência e isolamento.
+      e) Performance, segurança e escalabilidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+      24.( BRDE) Uma transação corresponde a uma coleção de operações que
+      desempenha uma função lógica única dentro de uma aplicação do sistema de banco
+      de dados e deve possuir todas as seguintes propriedades fundamentais, impostas
+      pelos métodos de controle de concorrência e recuperação do sistema de
+      gerenciamento de banco de dados, EXCETO:
+
+      a) Atomicidade.
+      b) Consistência.
+      c) Durabilidade.
+      d) Escalabilidade.
+      e) Isolamento.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+        PERSONAGENS
+      A) Administrador de Banco de Dados → é o profissional com a visão mais técnica,
+         mais preocupado com o funcionamento e performance do BD do que com o
+         significado dos dados. Entre as suas responsabilidades estão: instalação do SGBD,
+         análise de performance, autorização de acessos, gerência dos backups,
+         solicitação de aquisição de hardware e software necessários conforme a
+         demanda.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                
+
+
+---
+
+        PERSONAGENS
+
+    b) O Administrador de Dados (AD) → é o profissional com a visão mais gerencial,
+    mais preocupado com os dados em si. Dentre as suas responsabilidades, estão:
+    definir os dados a serem persistidos, desenvolver o projeto e a modelagem do BD,
+    manutenir os dados e gerenciar a atualização dos mesmos, definir padrões e
+    procedimentos para o uso e persistência dos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+OBRIGADA
+                            Prof. Emannuelle Gouveia
+                            @emannuellegouveia
+
+
+    
+
+
+---
+
+---

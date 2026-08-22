@@ -1,0 +1,186 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 17_002_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '17'
+titulo_aula: RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+---
+
+# RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+Princípios Fundamentais da Contabilidade
+
+Entidade
+
+
+  ● Reconhece o Patrimônio como objeto da Contabilidade e afirma a autonomia
+
+    patrimonial, a necessidade de diferenciação de um patrimônio particular no
+
+    universo dos patrimônios existentes;
+
+  ● O Patrimônio não se confunde com aqueles dos seus sócios ou proprietários,
+
+    no caso de sociedade ou instituição;
+
+  ● O patrimônio pertence à entidade, mas a recíproca não é verdadeira. A soma
+
+    ou agregação contábil de patrimônios autônomos não resulta em nova entidade,
+
+    mas numa unidade de natureza econômico-contábil.
+
+Continuidade
+
+
+  ● Pressupõe que a Entidade continuará em operação no futuro;
+
+                                                                                              1
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 15.
+
+                             
+
+
+---
+
+  ● A Continuidade está fortemente vinculada à observância do Princípio da
+
+    Competência e vice-versa;
+
+  ● Não há correlação entre o princípio da Continuidade e o contrato social.
+
+Oportunidade
+
+
+  ● Refere-se ao processo de mensuração e apresentação dos componentes
+
+    patrimoniais para produzir informações íntegras e tempestivas;
+
+       ○ Integridade: necessidade de as variações serem reconhecidas na sua
+
+          totalidade, isto é, sem qualquer falta ou excesso;
+
+       ○ Tempestividade: obriga que as variações sejam registradas no momento
+
+          em que ocorrerem, mesmo na hipótese de alguma incerteza;
+
+  ● A falta de integridade e tempestividade na produção e na divulgação da
+
+    informação contábil pode ocasionar a perda de sua relevância, por isso é
+
+    necessário ponderar a relação entre a oportunidade e a confiabilidade da
+
+    informação.
+
+                                                                                               2
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 15.
+
+                              
+
+
+---
+
+Registro pelo Valor Original
+
+
+  ● Determina que os componentes do patrimônio devem ser inicialmente
+
+     registrados pelos valores originais das transações, expressos em moeda nacional;
+
+  ● Base de mensuração:
+
+                                 Ativo                        Passivo               Valor descontado?
+
+
+  Custo Histórico           Valor na data da          Valor recebido ou valor      Não
+                               aquisição              para liquidar no curso
+                                                      normal das operações
+
+
+  Custo Corrente         Valor para adquirir na        Valor para liquidar na      Não
+                           data do balanço               data do balanço
+
+
+  Valor Realizável      Valor obtido pela venda        Valor para liquidar no      Não
+                          de forma ordenada              curso normal das
+                                                             operações
+
+
+  Valor Presente        Valor presente do fluxo       Valor presente do fluxo      Sim
+                         de entradas esperado         de saídas para liquidar
+                           no curso normal               no curso normal
+
+
+    Valor justo          O Valor pelo qual um ativo pode ser trocado, ou           Não
+                        um passivo liquidado, entre partes conhecedoras,
+                            dispostas a isso, em uma transação sem
+                                         favorecimentos.
+
+
+    Atualização           Os efeitos da alteração do poder aquisitivo da           Não
+     Monetária            moeda nacional devem ser reconhecidos nos
+                         registros contábeis mediante o ajustamento da
+                         expressão formal dos valores dos componentes
+                                           patrimoniais.
+
+                                                                                                 3
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 15.
+
+                              
+
+
+---
+
+Competência
+
+
+  ● Determina que os efeitos das transações e outros eventos sejam reconhecidos
+
+    nos períodos a que se referem, independentemente do recebimento ou
+
+    pagamento.
+
+  ● Pressupõe a simultaneidade da confrontação de receitas e de despesas
+
+    correlatas.
+
+Prudência
+
+
+  ● Determina a adoção do menor valor para os componentes do ativo e do maior
+
+    para os do passivo, sempre que se apresentem alternativas igualmente válidas
+
+    para a quantificação das mutações patrimoniais que alterem o patrimônio
+
+    líquido;
+
+  ● Pressupõe o emprego de certo grau de precaução no exercício dos julgamentos
+
+    necessários às estimativas em certas condições de incerteza, no sentido de que
+
+    ativos e receitas não sejam superestimados e que passivos e despesas não sejam
+
+    subestimados.
+
+                                                                                                 4
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 15.
+
+                                
+
+
+---

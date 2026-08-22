@@ -1,0 +1,248 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: 'EDUCAÇÃO: DEVERES DO ESTADO'
+artigos_citados:
+- Art. 208.
+- Art. 211.
+- "art.\n  5º"
+- art. 196
+- art. 1º
+- art. 205
+- artigo 1º
+- artigo 227
+---
+
+# EDUCAÇÃO: DEVERES DO ESTADO
+
+EDUCAÇÃO: DEVERES DO ESTADO
+Art. 208. O dever do Estado com a educação será efetivado mediante a
+garantia de:
+
+ I - educação básica obrigatória e gratuita dos 4 (quatro) aos 17
+  (dezessete) anos de idade, assegurada inclusive sua oferta gratuita
+  para todos os que a ela não tiveram acesso na idade própria;
+
+ II - progressiva universalização do ensino médio gratuito;
+
+ III - atendimento educacional especializado aos portadores de
+  deficiência, preferencialmente na rede regular de ensino;
+
+                            
+
+
+---
+
+EDUCAÇÃO: DEVERES DO ESTADO
+ IV - educação infantil, em creche e pré-escola, às crianças até 5 (cinco)
+  anos de idade;
+
+ V - acesso aos níveis mais elevados do ensino, da pesquisa e da
+  criação artística, segundo a capacidade de cada um;
+
+ VI - oferta de ensino noturno regular, adequado às condições do
+  educando;
+
+ VII - atendimento ao educando, em todas as etapas da educação
+  básica, por meio de programas suplementares de material didático
+  escolar, transporte, alimentação e assistência à saúde.
+
+                            
+
+
+---
+
+EDUCAÇÃO: DEVERES DO ESTADO
+     1º O acesso ao ensino obrigatório e gratuito é direito público
+    subjetivo.
+
+     2º O não-oferecimento do ensino obrigatório pelo Poder Público,
+    ou sua oferta irregular, importa responsabilidade da autoridade
+    competente.
+
+     3º Compete ao Poder Público recensear os educandos no ensino
+    fundamental, fazer-lhes a chamada e zelar, junto aos pais ou
+    responsáveis, pela frequência à escola.
+
+ Art. 211.   5º A educação básica pública atenderá prioritariamente ao ensino
+  regular.
+
+                             
+
+
+---
+
+EDUCAÇÃO: (205 caput)
+ O direito social à educação (artigos 6º e 205 e seguintes da Constituição), bem como a
+  prioridade absoluta de proteção às crianças e aos adolescentes, em respeito à condição
+  peculiar de pessoas em desenvolvimento que são (artigo 227 da Constituição),
+  justificam a especial proteção constitucional dos valores necessários à aplicação efetiva
+  dos recursos públicos destinados à concretização dos efetivos direitos. Os princípios da
+  separação dos poderes e do fomento à educação são violados por decisões judiciais
+  que gerem bloqueio, penhora ou sequestro, para fins de quitação de débitos
+  trabalhistas, de verbas públicas destinadas à merenda, ao transporte de alunos e à
+  manutenção das escolas públicas. A proteção constitucional a direitos individuais e a
+  garantias fundamentais, inclusive de ordem trabalhista, convive com a
+  impenhorabilidade, in casu, sob a ratio de que estão afetados a finalidades públicas e à
+  realização das atividades e serviços públicos decorrentes do exercício obrigatório da
+  função administrativa. [ADPF 484, rel. min. Luiz Fux, j. 4-6-2020, P, DJE de 10-11-2020.]
+
+                                 
+
+
+---
+
+EDUCAÇÃO: (205 caput)
+ Ação civil pública. Implementação de políticas públicas. Obrigação de
+   fazer: reforma de escola em situação precária. Possibilidade.
+[RE 850.215 AgR, rel. min. Cármen Lúcia, j. 7-4-2015, 2ª T, DJE de 29-4-
+2015.]
+
+                          
+
+
+---
+
+EDUCAÇÃO (205 caput)
+ A Lei 2.600, de 8-7-2009, e o Decreto 2.716, de 28-12-2009, ambos do Município de
+   Guararema, instituíram e regulamentaram o "cartão cidadão" como documento hábil e
+   de porte obrigatório para acesso aos serviços públicos municipais de educação, saúde,
+   esporte, lazer e assistência social. O programa foi instituído com intuito excludente e
+   discriminatório, visando somente aos habitantes do Município, impondo, ainda,
+   obstáculos aos próprios munícipes, caso não obtivessem o cartão ou não o detivessem
+   quando do comparecimento perante os órgãos públicos. A política pública em questão
+   trata de maneira uniforme serviços públicos de naturezas distintas, os quais, por isso,
+   deveriam receber tratamento de acordo com as suas especificidades. Ao condicionar o
+   acesso aos serviços públicos de saúde ao porte de um cartão, excluindo do gozo de tais
+   serviços as pessoas que não residiam na localidade ou que, residindo, não detinham o
+   cartão, o Município violou a natureza universal e igualitária que a Constituição conferiu
+   a esses serviços (art. 196, CF/1988). O "cartão cidadão" também viola o art. 205, que
+   fixa a educação como direito de todos e dever do Estado, e o art. 206, ambos da CF, o
+   qual estabelece, entre os princípios norteadores do ensino no Brasil, a igualdade de
+   condições para o acesso e a permanência na escola.
+[ARE 661.288, rel. min. Dias Toffoli, j. 6-5-2014, 1ª T, DJE de 24-9-2014.]
+
+                                 
+
+
+---
+
+EDUCAÇÃO: critério etário (208, I)
+ As Resoluções CNE/CEB 1/2010 e 6/2010, ao estabelecerem um
+  critério único e objetivo para o ingresso às séries iniciais da Educação
+  Infantil e do Ensino Fundamental da criança que tenha,
+  respectivamente, quatro e seis anos de idade, completos até o dia 31
+  de março do ano em que ocorrer a matrícula, não violam os princípios
+  da isonomia, da proporcionalidade e do acesso à educação. [ADPF 292,
+   rel. min. Luiz Fux, j. 1º-8-2018, P, DJE de 27-7-2020.]
+
+ É inconstitucional lei estadual que fixa critério etário para o ingresso
+  no Ensino Fundamental diferente do estabelecido pelo legislador
+  federal e regulamentado pelo Ministério da Educação. (ADI 6312,
+   Relator(a): ROBERTO BARROSO, Tribunal Pleno, julgado em 21/12/2020, PROCESSO
+   ELETRÔNICO DJe-026 DIVULG 10-02-2021 PUBLIC 11-02-2021)
+
+                                  
+
+
+---
+
+EDUCAÇÃO: PCD (208, III)
+ O paradigma da educação inclusiva é o resultado de um processo de
+  conquistas sociais que afastaram a ideia de vivência segregada das
+  pessoas com deficiência ou necessidades especiais para inseri-las no
+  contexto da comunidade. Subverter esse paradigma significa, além de
+  grave ofensa à Constituição de 1988, um retrocesso na proteção de
+  direitos desses indivíduos. A Política Nacional de Educação Especial
+  questionada contraria o paradigma da educação inclusiva, por
+  claramente retirar a ênfase da matrícula no ensino regular, passando a
+  apresentar esse último como mera alternativa dentro do sistema de
+  educação especial. Desse modo, o Decreto 10.502/2020 pode vir a
+  fundamentar políticas públicas que fragilizam o imperativo da inclusão
+  de alunos com deficiência, transtornos globais do desenvolvimento e
+  altas habilidades ou superdotação na rede regular de ensino.[ADI 6.590
+  MC-REF, rel. min. Dias Toffoli, j. 21-12-2020, P, DJE de 12-2-2021.]
+
+                                
+
+
+---
+
+EDUCAÇÃO: PCD (208, III)
+    Constitucional a iniciativa do legislador alagoano para editar a Lei estadual 7.508/2013,
+    pela qual se determina que os estabelecimentos de ensino fundamental, médio e
+    superior, públicos e privados, e cursos de extensão disponibilizem ‘cadeiras adaptadas
+    para alunos portadores de deficiência física ou mobilidade reduzida’ (art. 1º). [ADI
+    5.139, rel. min. Cármen Lúcia, j. 11-10-2019, P, DJE de 6-11-2019.]
+
+ Educação de deficientes auditivos. Professores especializados em libras.
+  Inadimplemento estatal de políticas públicas com previsão constitucional. Intervenção
+  excepcional do Judiciário. (...) Cláusula da reserva do possível. Inoponibilidade. Núcleo
+  de intangibilidade dos direitos fundamentais. Constitucionalidade e convencionalidade
+  das políticas públicas de inserção dos portadores de necessidades especiais na
+  sociedade.
+[ARE 860.979 AgR, rel. min. Gilmar Mendes, j. 14-4-2015, 2ª T, DJE de 6-5-2015.]
+
+                                      
+
+
+---
+
+EDUCAÇÃO: infantil (208, IV)
+ A educação infantil, por qualificar-se como direito fundamental de
+   toda criança, não se expõe, em seu processo de concretização, a
+   avaliações meramente discricionárias da administração pública nem se
+   subordina a razões de puro pragmatismo governamental.
+[ARE 639.337 AgR, rel. min. Celso de Mello, j. 23-8-2011, 2ª T, DJE de
+15-9-2011.]
+
+                          
+
+
+---
+
+EDUCAÇÃO: cotas (208, V)
+ Atos que instituíram sistema de reserva de vagas com base em critério
+  étnico-racial (cotas) no processo de seleção para ingresso em
+  instituição pública de ensino superior. (...) Não contraria – ao contrário,
+  prestigia – o princípio da igualdade material, previsto no caput do art.
+  5º da Carta da República, a possibilidade de o Estado lançar mão seja
+  de políticas de cunho universalista, que abrangem um número
+  indeterminado de indivíduos, mediante ações de natureza estrutural,
+  seja de ações afirmativas, que atingem grupos sociais determinados,
+  de maneira pontual, atribuindo a esses certas vantagens, por um
+  tempo limitado, de modo a permitir-lhes a superação de
+  desigualdades decorrentes de situações históricas particulares.
+[ADPF 186, rel. min. Ricardo Lewandowski, j. 26-4-2012, P, DJE de 20-10-2014.]
+
+                                 
+
+
+---
+
+EDUCAÇÃO: cotas (208, V)
+ Sistema de cotas para ingresso nas Universidades e faculdades
+  públicas do Distrito Federal. Reserva de 40% das vagas para alunos
+  que comprovem ter cursado integralmente os ensinos fundamental e
+  médio em escolas públicas do Distrito Federal. Discriminação em
+  razão da origem. Critério espacial que não se justifica em razão da
+  política de ação afirmativa que busca garantir igualdade de
+  oportunidade aos oriundos da escola pública. Ação direta de
+  inconstitucionalidade   julgada   procedente      para     declarar  a
+  inconstitucionalidade da expressão ‘do Distrito Federal’, constante do
+  artigo 1º da Lei Distrital 3.361/2004. [ADI 4.868, rel. min. Gilmar
+  Mendes, j. 27-3-2020, P, DJE de 15-4-2020.]
+
+                          
+
+
+---

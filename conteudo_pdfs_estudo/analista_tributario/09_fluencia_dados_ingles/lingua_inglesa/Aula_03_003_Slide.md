@@ -1,0 +1,473 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 03_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Língua Espanhola
+---
+
+# Língua Espanhola
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+                             SUFIXOS
+
+                                                               Prof. Adolfo Sá (vídeos)
+                                                                         @adolfo.sa.
+                                                                         9
+                                                               Prof. Ena Smith (pdfs)
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+AFIXOS
+                  AFIXOS
+
+         
+
+
+---
+
+AFIXOS
+                        AFIXOS
+• PREFIXOS 
+• SUFIXOS 
+
+               
+
+
+---
+
+AFIXOS
+                             AFIXOS
+• PREFIXOS  usados antes do radical
+• SUFIXOS  usados após o radical
+
+                    
+
+
+---
+
+AFIXOS
+                                    AFIXOS
+• PREFIXOS  usados antes do radical / altera o sentido
+
+           Normal > abnormal                      rational > irrational
+
+
+• SUFIXOS  usados após o radical / altera classe gramatical
+
+                 Rain > rainy         Treat > treatment
+
+
+                         
+
+
+---
+
+SUFIXOS
+              O Sufixo –ING – VERBO
+
+
+CONTINUOUS / PROGRESSIVE  TO BE + -ING
+
+
+She is tired because she was walking very fast.
+Ela está cansada por que ela estava andando muito
+rápido.
+
+                    
+
+
+---
+
+SUFIXOS
+             O Sufixo –ING – GERÚNDIO
+She is tired of walking.
+Ela está cansada de andar.
+She avoids walking too fast.
+Ela evita andar muito rápido.
+She stopped walking when she got tired.
+Ela parou de andar quando ficou cansada.
+
+
+                    
+
+
+---
+
+SUFIXOS
+                O Sufixo –ING
+
+Walking in the morning is a nice exercise.
+Caminhar de manhã é um bom exercício.
+
+                 
+
+
+---
+
+SUFIXOS
+           O Sufixo –ING - ADJETIVO
+
+She was a hard-working woman.
+Ela era uma mulher trabalhadora.
+
+
+This is a very time-consuming task.
+Esta é uma tarefa muito demorada.
+                
+
+
+---
+
+SUFIXOS
+             O Sufixo –ING X -ED
+
+That was a shocking mistake.
+
+She was shocked.
+
+
+                
+
+
+---
+
+SUFIXOS
+                      O Sufixo –LESS
+
+ careless - descuidado            painless - indolor
+ faultless – sem falta, impecável seamless – sem interrupção,
+                                  continuamente
+ harmless – inofensivo            doubtless – indubitável
+ homeless – sem casa, sem-teto meaningless – sem sentido,
+                                  sem significado, insignificante
+ hopeless – sem esperança         useless – inútil
+ measureless – incomensurável, boundless – sem limites,
+ imensurável, sem limites         ilimitado, infinito
+                       
+
+
+---
+
+SUFIXOS
+                        SUFIXOS - NOUNS
+1) This neighborhood used to be quiet and silent.
+
+2) It takes much time to develop a friendship.
+
+3) Everybody should face his weakness in order to get stronger.
+
+                         
+
+
+---
+
+SUFIXOS
+                        SUFIXOS - NOUNS
+1) This neighborhood used to be quiet and silent.
+     CLASSE GRAMATICAL     RAIZ               CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO      NEIGHBOR                      ADJETIVO      -HOOD
+
+
+2) It takes much time to develop a friendship.
+     CLASSE GRAMATICAL     RAIZ               CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO       FRIEND                       ADJETIVO      -SHIP
+
+
+3) Everybody should face his weakness in order to get stronger.
+     CLASSE GRAMATICAL     RAIZ               CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO       WEAK                           FRACO       -NESS
+
+                           
+
+
+---
+
+---
+
+SUFIXOS
+                         SUFIXOS - NOUNS
+
+4) Every boss demands productivity from his employees.
+
+5) During her arrival, nobody said a single word.
+
+6) Her performance was astonishing.
+
+                          
+
+
+---
+
+SUFIXOS
+                        SUFIXOS - NOUNS
+4) Every boss demands productivity from his employees.
+     CLASSE GRAMATICAL      RAIZ                CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO      PRODUCTIVE                      ADJETIVO       -ITY
+
+
+5) During her arrival, nobody said a single word.
+     CLASSE GRAMATICAL     RAIZ               CLASSE GRAM. DA RAIZ     SUFIXO
+
+        SUBSTANTIVO       ARRIVE                         VERBO          -AL
+
+
+6) Her performance was astonishing.
+     CLASSE GRAMATICAL     RAIZ               CLASSE GRAM. DA RAIZ     SUFIXO
+
+        SUBSTANTIVO      PERFORM                         VERBO         -NESS
+
+                           
+
+
+---
+
+---
+
+SUFIXOS
+                         SUFIXOS - NOUNS
+7) The foundation of the institute was marked by a terrific show.
+
+8) The discussion ended up with both fighting.
+
+9) Paul can’t wait for his retirement.
+
+                          
+
+
+---
+
+SUFIXOS
+                         SUFIXOS - NOUNS
+7) The foundation of the institute was marked by a terrific show.
+      CLASSE GRAMATICAL     RAIZ                 CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO        FOUND                           VERBO        -ATION
+
+
+8) The discussion ended up with both fighting.
+      CLASSE GRAMATICAL    RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+        SUBSTANTIVO       DISCUSS                         VERBO          -ION
+
+
+9) Paul can’t wait for his retirement.
+      CLASSE GRAMATICAL    RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+        SUBSTANTIVO       RETIRE                          VERBO         -MENT
+
+                            
+
+
+---
+
+---
+
+SUFIXOS
+                          SUFIXOS - NOUNS
+10) During the speech, it was possible to see every kind of people in
+the crowd: actors, buyers, beggars, etc.
+
+11) Everyone could see his growth.
+
+                          
+
+
+---
+
+SUFIXOS
+                          SUFIXOS - NOUNS
+10) During the speech, it was possible to see every kind of people in
+the crowd: actors, buyers, beggars, etc.
+     CLASSE GRAMATICAL    RAIZ                 CLASSE GRAM. DA RAIZ   SUFIXO
+
+        SUBSTANTIVO        ACT                           VERBO         -OR
+
+        SUBSTANTIVO        BUY                           VERBO         -ER
+
+        SUBSTANTIVO        BEG                           VERBO         -AR
+
+
+11) Everyone could see his growth.
+     CLASSE GRAMATICAL   RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+        SUBSTANTIVO      GROW                           VERBO          -TH
+
+
+                          
+
+
+---
+
+---
+
+SUFIXOS
+                       SUFIXOS - ADJECTIVES
+12) Not every vegetable is eatable.
+
+13) The child made a colorful painting.
+
+14) That was a stylish show.
+
+                         
+
+
+---
+
+SUFIXOS
+                       SUFIXOS - ADJECTIVES
+12) Not every vegetable is eatable.
+     CLASSE GRAMATICAL    RAIZ                 CLASSE GRAM. DA RAIZ   SUFIXO
+
+          ADJETIVO         EAT                           VERBO        -ABLE
+
+
+13) The child made a colorful painting.
+     CLASSE GRAMATICAL   RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+          ADJETIVO       COLOR                     SUBSTANTIVO         -FUL
+
+
+14) That was a stylish show.
+     CLASSE GRAMATICAL   RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+          ADJETIVO       STYLE                     SUBSTANTIVO         -ISH
+
+                          
+
+
+---
+
+SUFIXOS
+                       SUFIXOS - ADJECTIVES
+15) She was so excited that she got breathless.
+
+16) January was a cloudy month.
+
+                         
+
+
+---
+
+SUFIXOS
+                       SUFIXOS - ADJECTIVES
+15) She was so excited that she got breathless.
+     CLASSE GRAMATICAL    RAIZ                 CLASSE GRAM. DA RAIZ   SUFIXO
+
+          ADJETIVO       BREATH                      SUBSTANTIVO      -LESS
+
+
+16) January was a cloudy month.
+     CLASSE GRAMATICAL   RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+
+          ADJETIVO       CLOUD                     SUBSTANTIVO          -Y
+
+                          
+
+
+---
+
+SUFIXOS
+                         SUFIXOS - VERBS
+17) We ensure that the delivery will be on time.
+
+
+18) Press the light ( ) or dark ( ) key to
+lighten or darken the automatic exposure level as desired.
+
+
+19) Pollution endangers the health of the population.
+
+
+20) I enlarged the photograph to see the faces more clearly.
+                         
+
+
+---
+
+SUFIXOS                         SUFIXOS - VERBS
+17) We ensure that the delivery will be on time.
+      CLASSE GRAMATICAL       RAIZ                CLASSE GRAM. DA RAIZ      AFIXO
+           VERBO              SURE                        ADJETIVO           EN-
+
+18) Press the light ( ) or dark ( ) key to lighten or darken the automatic exposure
+level as desired.
+       CLASSE GRAMATICAL       RAIZ                CLASSE GRAM. DA RAIZ     SUFIXO
+            VERBO             LIGHT                        ADJETIVO           -EN
+            VERBO             DARK                         ADJETIVO           -EN
+
+19) Pollution endangers the health of the population.
+        CLASSE GRAMATICAL       RAIZ                 CLASSE GRAM. DA RAIZ    SUFIXO
+             VERBO            DANGER                      SUBSTANTIVO          EN-
+
+20) I enlarged the photograph to see the faces more clearly.
+        CLASSE GRAMATICAL       RAIZ                 CLASSE GRAM. DA RAIZ    SUFIXO
+             VERBO             LARGE                        ADJETIVO           EN-
+
+                               
+
+
+---
+
+SUFIXOS
+                        SUFIXOS - ADVERBS
+21) I enlarged the photograph to see the faces more clearly.
+
+                         
+
+
+---
+
+SUFIXOS
+                        SUFIXOS - ADVERBS
+21) I enlarged the photograph to see the faces more clearly.
+     CLASSE GRAMATICAL    RAIZ                CLASSE GRAM. DA RAIZ   SUFIXO
+
+         ADVÉRBIO        CLEAR                         ADJETIVO       -LY
+
+                         
+
+
+---
+
+OBRIGADO!
+                                        Prof. Adolfo Sá
+                                                 @adolfo.sa.
+                                                 9
+
+   
+
+
+---
+
+---

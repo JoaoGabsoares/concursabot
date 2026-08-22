@@ -1,0 +1,81 @@
+Prof. Brunno Lima
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+LÓGICA DE ARGUMENTAÇÃO
+
+
+                                          Prof. Brunno Lima
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+MÉTODOS DE VALIDADE: SUPOR
+QUE AS PREMISSAS SÃO
+VERDADEIRAS
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+ PRINCIPAIS MÉTODOS PARA VALIDADE DE ARGUMENTOS
+
+
+
+
+MÉTODOS DE VALIDADE – SUPONDO PREMISSAS “V”
+Prof. Brunno Lima
+
+
+
+
+                                          https://t.me/KakashiAssinaturasBot
+ EXEMPLOS:
+ Se Paulo é médico, então Sandra não é estudante.
+ Se Sandra não é estudante, então Ana é secretária.
+ Ou Ana não é secretária, ou Marina é enfermeira.
+ Marina não é enfermeira.
+ Logo, Paulo é médico ou Ana não é secretária.
+
+
+
+
+MÉTODOS DE VALIDADE – SUPONDO PREMISSAS “V”
+Prof. Brunno Lima
+
+
+
+
+                                          https://t.me/KakashiAssinaturasBot
+ EXEMPLOS:
+ 𝑋 = 𝑥1 ou 𝑌 = 𝑦2 . Se 𝑍 = 𝑧3 , então 𝑃 = 𝑝4 . Se 𝑃 ≠ 𝑝4 , então 𝑌 ≠ 𝑦2 . 𝑋 ≠
+ 𝑥1 e 𝑄 ≠ 𝑞5 . A partir disso, e sabendo que todas as afirmações são
+ verdadeiras, pode-se, com certeza, concluir que:
+ (A) 𝑌 = 𝑦2 e 𝑃 ≠ 𝑝4
+ (B) 𝑋 = 𝑥1 e 𝑌 = 𝑦2
+ (C) 𝑃 = 𝑝4 e 𝑋 = 𝑥1
+ (D) 𝑋 ≠ 𝑥1 e 𝑌 = 𝑦2
+ (E) 𝑍 ≠ 𝑧3 e 𝑃 = 𝑝4
+
+
+
+
+MÉTODOS DE VALIDADE – SUPONDO PREMISSAS “V”
+Prof. Brunno Lima
+
+
+
+
+                                          https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

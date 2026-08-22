@@ -1,0 +1,1009 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 05_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: 28/08/2020
+artigos_citados:
+- Art. 2º
+- Art. 45.
+- art. 10
+- art. 15
+- art. 2º
+- art. 3º
+- art. 7º
+- artigo 43
+---
+
+# 28/08/2020
+
+28/08/2020
+
+    LEGISLAÇÃO TRIBUTÁRIA
+
+3
+
+     IMPOSTO DE RENDA
+
+    IRPF – CONTRIBUINTES
+            PARTE 1
+
+4
+
+                  1
+
+
+---
+
+                                                                                             28/08/2020
+
+       IRPF – Contribuintes
+
+           ❑ Generalidade
+
+           ❑ Universalidade
+
+    Legislação Tributária
+                                                                                    @ProfFabioDutra
+    Prof. Fábio Dutra
+
+
+5
+
+       IRPF – Contribuintes
+
+           Art. 45. Contribuinte do imposto é o titular da disponibilidade a que se refere
+           o artigo 43, sem prejuízo de atribuir a lei essa condição ao possuidor, a
+           qualquer título, dos bens produtores de renda ou dos proventos tributáveis.
+
+           Parágrafo único. A lei pode atribuir à fonte pagadora da renda ou dos
+           proventos tributáveis a condição de responsável pelo imposto cuja retenção e
+           recolhimento lhe caibam. (CTN)
+
+    Legislação Tributária
+                                                                                    @ProfFabioDutra
+    Prof. Fábio Dutra
+
+
+6
+
+                                                                    2
+
+
+---
+
+                                                                                        28/08/2020
+
+       IRPF – Contribuintes
+
+       Art. 2º As pessoas físicas domiciliadas ou residentes no Brasil, titulares de
+       disponibilidade econômica ou jurídica de renda ou proventos de qualquer
+       natureza, inclusive rendimentos e ganhos de capital, são contribuintes do
+       imposto de renda, sem distinção da nacionalidade, sexo, idade, estado civil ou
+       profissão. (RIR/2018, art. 1º)
+
+    Legislação Tributária
+                                                                               @ProfFabioDutra
+    Prof. Fábio Dutra
+
+
+7
+
+       IRPF – Contribuintes
+
+       São também contribuintes as pessoas físicas que perceberem rendimentos de
+       bens de que tenham a posse como se lhes pertencessem, de acordo com a
+       legislação em vigor. (RIR/2018, art. 1º, § 1º)
+
+    Legislação Tributária
+                                                                               @ProfFabioDutra
+    Prof. Fábio Dutra
+
+
+8
+
+                                                               3
+
+
+---
+
+                                                                                         28/08/2020
+
+       IRPF – Contribuintes
+
+       ❑ O imposto será devido à medida em que os rendimentos e ganhos de capital
+         forem percebidos, sem prejuízo do ajuste anual. (RIR/2018, art. 2º, § 1º)
+
+    Legislação Tributária
+                                                                                @ProfFabioDutra
+    Prof. Fábio Dutra
+
+
+9
+
+       ATRFB/2012
+       São contribuintes do Imposto de Renda da Pessoa Física as pessoas físicas
+       domiciliadas ou residentes no Brasil, titulares de disponibilidade econômica ou
+       jurídica de renda ou proventos de qualquer natureza.
+
+    Legislação Tributária
+    Prof. Fábio Dutra
+                            Gabarito: Correta                                   @ProfFabioDutra
+
+
+10
+
+                                                                4
+
+
+---
+
+                                                                                       28/08/2020
+
+     QUESTÃO INÉDITA
+        O imposto será devido à medida em que os rendimentos e ganhos de capital
+        forem percebidos, não havendo que se falar em ajuste anual.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                     @ProfFabioDutra
+
+
+11
+
+     IRPF – Contribuintes
+
+     As pessoas físicas residentes no exterior terão suas rendas e seus proventos de
+     qualquer natureza, inclusive os ganhos de capital, percebidos no País tributados
+     de acordo com as disposições. (RIR/2018, art. 1º, § 2º)
+
+ Legislação Tributária
+                                                                              @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+12
+
+                                                              5
+
+
+---
+
+                                                                                            28/08/2020
+
+     IRPF – Contribuintes
+                         BENEFICIÁRIO                      FONTE DE RENDIMENTO
+
+
+                                                               SITUADA NO PAÍS
+                           RESIDENTE
+                                                            SITUADA FORA DO PAÍS
+
+
+                         NÃO RESIDENTE                         SITUADA NO PAÍS
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+13
+
+     ATRFB/2012
+        São contribuintes do Imposto de Renda da Pessoa Física as pessoas físicas
+        domiciliadas ou residentes no Brasil, titulares de disponibilidade econômica
+        ou jurídica de renda ou proventos de qualquer natureza que percebam os
+        rendimentos somente de fontes situadas no País.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                         Gabarito: Errada                                          @ProfFabioDutra
+
+
+14
+
+                                                                   6
+
+
+---
+
+                                                                                         28/08/2020
+
+     ATRFB/2012
+      São contribuintes do Imposto de Renda da Pessoa Física as pessoas físicas
+      domiciliadas ou residentes no Brasil, e aquelas que mesmo sem serem
+      residentes no País, sejam titulares de disponibilidade econômica ou jurídica
+      de renda ou proventos de qualquer natureza percebidos no exterior.
+
+ Legislação Tributária
+ Prof. Fábio Dutra        Gabarito: Errada                                      @ProfFabioDutra
+
+
+15
+
+     QUESTÃO INÉDITA
+        A nacionalidade da pessoa física é um critério irrelevante para caracterizá-la
+        contribuinte do IRPF.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                         Gabarito: Correta                                      @ProfFabioDutra
+
+
+16
+
+                                                                7
+
+
+---
+
+                                                                                   28/08/2020
+
+                          IMPOSTO DE RENDA
+
+                         IRPF – CONTRIBUINTES
+                                 PARTE 2
+
+17
+
+     IRPF – Contribuintes
+     ❑ Rendimentos de Menores e Outros Incapazes
+
+     Os rendimentos e ganhos de capital de que sejam titulares menores e outros
+     incapazes serão tributados em seus respectivos nomes, com o número de
+     inscrição próprio no Cadastro de Pessoas Físicas - CPF. (RIR/2018, art. 3º)
+
+ Legislação Tributária
+                                                                          @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+18
+
+                                                          8
+
+
+---
+
+                                                                                          28/08/2020
+
+     IRPF – Contribuintes
+     ❑ Rendimentos de Menores e Outros Incapazes
+
+     O cumprimento das obrigações que incumbirem aos menores e aos incapazes será
+     de responsabilidade:
+
+     ❑ de qualquer um dos pais;
+
+     ❑ do seu tutor;
+
+     ❑ do seu curador; ou
+
+     ❑ do responsável por sua guarda. (RIR/2018, art. 3º, § 1º)
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+19
+
+     IRPF – Contribuintes
+     ❑ Rendimentos de Menores e Outros Incapazes
+
+     ❑ Opcionalmente, os rendimentos e os ganhos de capital percebidos por menores e
+       outros incapazes, ainda que em valores inferiores ao limite da primeira faixa da
+       tabela progressiva anual, poderão ser tributados em conjunto com os de qualquer
+       um dos pais, do tutor ou do curador, hipótese em que aqueles serão considerados
+       dependentes. (RIR/2018, art. 3º, § 2º)
+
+
+     ❑ Observação: Na hipótese de menores ou de filhos incapazes que estejam sob a
+       responsabilidade de um dos pais em decorrência de sentença judicial, a opção de
+       declaração em conjunto somente poderá ser exercida por aquele que detiver a
+       guarda. (RIR/2018, art. 3º, § 3º)
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+20
+
+                                                                 9
+
+
+---
+
+                                                                                      28/08/2020
+
+     QUESTÃO INÉDITA
+        No que se refere ao Imposto de Renda das Pessoas Físicas, em regra, os
+        rendimentos e ganhos de capital dos menores e os demais incapazes são
+        tributados no nome de seus pais, tutores, curadores ou responsáveis por sua
+        guarda.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                          Gabarito: Errada                                   @ProfFabioDutra
+
+
+21
+
+     QUESTÃO INÉDITA
+      No que se refere ao Imposto de Renda das Pessoas Físicas, em regra, os
+      rendimentos e ganhos de capital dos menores e os demais incapazes não são
+      tributáveis haja vista a incapacidade civil dessas pessoas.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                         Gabarito: Errada                                    @ProfFabioDutra
+
+
+22
+
+                                                             10
+
+
+---
+
+                                                                                         28/08/2020
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+      ❑ As regras do RIR para a sociedade conjugal também se aplicam:
+
+            ❑união estável.
+
+
+            ❑separação de fato.
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+23
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+      Declaração Separada: Cada cônjuge deverá incluir, em sua declaração, a totalidade
+      dos rendimentos próprios e a metade dos rendimentos produzidos pelos bens
+      comuns. (RIR/2018, art. 6º)
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+24
+
+                                                                11
+
+
+---
+
+                                                                                         28/08/2020
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+      Declaração Separada:
+
+      ❑ Opcionalmente, os rendimentos produzidos pelos bens comuns poderão ser
+        tributados, em sua totalidade, em nome de um dos cônjuges.
+
+      ❑ Os bens comuns deverão ser relacionados somente por um dos cônjuges, se
+        ambos estiverem obrigados à apresentação da declaração, ou,
+        obrigatoriamente, pelo cônjuge que estiver apresentando a declaração, quando
+        o outro estiver desobrigado de apresentá-la.
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+25
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+
+                            Rendimentos próprios: cada cônjuge declara o seu.
+
+                            Rendimentos prod. p/ bens comuns: 50% cada um.
+     Declaração
+      Separada              Opcionalmente, 100% dos rendimentos prod. p/ bens comuns
+                            para um dos cônjuges.
+
+                            Bens comuns: relacionados por apenas um dos cônjuges ou o
+                            declarante.
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+26
+
+                                                                12
+
+
+---
+
+                                                                                           28/08/2020
+
+     QUESTÃO INÉDITA
+        No âmbito da sociedade conjugal, apenas os bens em comum do casal devem
+        ser declarados por ambos os cônjuges, caso a declaração seja realizada
+        separadamente.
+
+ Legislação Tributária
+ Prof. Fábio Dutra        Gabarito: Errada                                        @ProfFabioDutra
+
+
+27
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+      Declaração Conjunta: Os cônjuges poderão optar pela tributação em conjunto de
+      seus rendimentos, inclusive quando provenientes de bens gravados com cláusula
+      de incomunicabilidade ou inalienabilidade, da atividade rural e das pensões de que
+      tiverem gozo privativo. (RIR/2018, art. 7º)
+
+ Legislação Tributária
+                                                                                  @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+28
+
+                                                                  13
+
+
+---
+
+                                                                                      28/08/2020
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+      Declaração Conjunta:
+
+      ❑ Os bens, inclusive os gravados com cláusula de incomunicabilidade ou
+        inalienabilidade, deverão ser relacionados na declaração de bens do cônjuge
+        declarante.
+
+
+      ❑ O cônjuge declarante poderá pleitear a dedução do valor a título de
+        dependente relativo ao outro cônjuge.
+
+
+ Legislação Tributária
+                                                                             @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+29
+
+     IRPF – Contribuintes
+                         Rendimentos na Constância da Sociedade Conjugal
+
+
+                            ❑ Rendimentos: A tributação ocorre em conjunto, mesmo
+                              em se tratando de rendimentos prod. por bens
+     Declaração               incomunicáveis/inalienáveis.
+      Conjunta
+                            ❑ Bens: Todos os bens do casal devem ser declarados,
+                              mesmo os incomunicáveis/inalienáveis.
+
+                            ❑ Dependente: o cônjuge não declarante         torna-se
+                              dependente do cônjuge declarante.
+ Legislação Tributária
+                                                                             @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+30
+
+                                                             14
+
+
+---
+
+                                                                                          28/08/2020
+
+     QUESTÃO INÉDITA
+     Admite-se a declaração em conjunto dos bens na sociedade conjugal,
+     excetuando-se os bens gravados com cláusula de incomunicabilidade ou
+     inalienabilidade.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+
+
+31
+
+     IRPF – Contribuintes
+                               Dissolução da Sociedade Conjugal
+
+     ❑ Dissolução conjugal por morte: serão tributadas, em nome do sobrevivente, as
+       importâncias que este perceber de seu trabalho próprio, das pensões de que
+       tiver gozo privativo, de quaisquer bens que não se incluam no monte a partilhar
+       e 50% dos rendimentos produzidos pelos bens comuns. (RIR/2018, art. 8º)
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+32
+
+                                                                 15
+
+
+---
+
+                                                                                   28/08/2020
+
+     IRPF – Contribuintes
+                              Dissolução da Sociedade Conjugal
+
+     ❑ Dissolução conjugal por morte:
+
+     ❑ Opcionalmente, os rendimentos produzidos pelos bens comuns poderão
+       ser tributados, em sua totalidade, em nome do espólio.
+
+
+     ❑ Tratando-se de separação judicial, divórcio, ou anulação de casamento: a
+       declaração de rendimentos passará a ser apresentada em nome de cada
+       um dos contribuintes.
+
+
+ Legislação Tributária
+                                                                          @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+33
+
+     QUESTÃO INÉDITA
+     Permite-se que os rendimentos produzidos pelos bens comuns sejam tributos
+     em sua totalidade em nome do cônjuge sobrevivente.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                 @ProfFabioDutra
+
+
+34
+
+                                                          16
+
+
+---
+
+                                                                                    28/08/2020
+
+                          IMPOSTO DE RENDA
+
+                         IRPF – CONTRIBUINTES
+                                 PARTE 3
+
+35
+
+     IRPF – Contribuintes
+                                            Espólio
+
+     ❑ A declaração de ajuste anual (DAA), a partir do exercício correspondente ao
+       ano-calendário do falecimento e até a data em que for homologada a
+       partilha ou feita a adjudicação dos bens ou lavrada em cartório a escritura
+       pública , será apresentada em nome do espólio. (RIR/2018, art. 10)
+
+ Legislação Tributária
+                                                                           @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+36
+
+                                                           17
+
+
+---
+
+                                                                                    28/08/2020
+
+     IRPF – Contribuintes
+                                          Espólio
+
+     ❑ Observação: A declaração será apresentada pelo inventariante, ou, se este
+       ainda não houver sido nomeado, pelo cônjuge meeiro, pelo companheiro ou
+       pelo sucessor a qualquer título.
+
+
+     ❑ Serão também apresentadas em nome do espólio as declarações não
+       entregues pelo falecido relativas aos anos anteriores ao do falecimento, às
+       quais estivesse obrigado.
+
+ Legislação Tributária
+                                                                           @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+37
+
+     IRPF – Contribuintes
+                                          Espólio
+
+     ❑ Os rendimentos próprios do falecido e cinquenta por cento dos produzidos
+       pelos bens comuns no curso do inventário deverão ser, obrigatoriamente,
+       incluídos na declaração do espólio.
+
+     ❑ Opcionalmente, os rendimentos produzidos pelos bens comuns poderão ser
+       tributados, em sua totalidade, em nome do espólio. (RIR/2018, art. 10, §§
+       2º e 3º)
+
+ Legislação Tributária
+                                                                           @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+38
+
+                                                           18
+
+
+---
+
+                                                                                     28/08/2020
+
+     IRPF – Contribuintes
+                                  Bens em Condomínio
+
+     ❑ Os rendimentos decorrentes de bens possuídos em condomínio serão
+       tributados proporcionalmente à parcela que cada condômino detiver.
+       (RIR/2018, art. 15)
+
+
+     ❑ Os bens em condomínio deverão ser mencionados nas respectivas
+       declarações de bens, relativamente à parte que couber a cada condômino.
+
+ Legislação Tributária
+                                                                            @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+39
+
+     IRPF – Contribuintes
+                                   Residentes no Brasil
+
+     ❑ Considera-se residente no Brasil, a pessoa física:
+
+     I - que resida no Brasil em caráter permanente;
+
+     II - que se ausente para prestar serviços como assalariada a autarquias ou
+     repartições do Governo brasileiro situadas no exterior;
+
+ Legislação Tributária
+                                                                            @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+40
+
+                                                            19
+
+
+---
+
+                                                                                    28/08/2020
+
+     IRPF – Contribuintes
+                                   Residentes no Brasil
+
+     ❑ Considera-se residente no Brasil, a pessoa física:
+     III - que ingresse no Brasil:
+
+     a) com visto permanente, na data da chegada;
+
+ Legislação Tributária
+                                                                           @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+41
+
+     IRPF – Contribuintes
+                                   Residentes no Brasil
+
+     ❑ Considera-se residente no Brasil, a pessoa física:
+     III - que ingresse no Brasil:
+     b) com visto temporário:
+     1. para trabalhar com vínculo empregatício, a partir da data da sua chegada;
+     2. na data em que complete 184 dias, consecutivos ou não, de permanência no
+     Brasil, dentro de um período de até doze meses;
+     3. na data da obtenção de visto permanente ou de vínculo empregatício, se
+     ocorrida antes de completar 184 dias, consecutivos ou não, de permanência no
+     Brasil, dentro de um período de até doze meses;
+
+
+ Legislação Tributária
+                                                                           @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+42
+
+                                                           20
+
+
+---
+
+                                                                                         28/08/2020
+
+     IRPF – Contribuintes
+                                   Residentes no Brasil
+
+     ❑ Considera-se residente no Brasil, a pessoa física:
+
+     IV - brasileira que adquiriu a condição de não-residente no Brasil e retorne ao
+     País com ânimo definitivo, na data da chegada;
+
+     V - que se ausente do Brasil em caráter temporário ou se retire em caráter
+     permanente do território nacional sem apresentar a Comunicação de Saída
+     Definitiva do País, durante os primeiros 12 meses consecutivos de ausência.
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+43
+
+     IRPF – Contribuintes
+                                 Não Residentes no Brasil
+
+     ❑ Considera-se não residente no Brasil, a pessoa física:
+
+     I - que não resida no Brasil em caráter permanente e não se enquadre nas
+     hipóteses previstas no art. 2º;
+
+     II - que se retire em caráter permanente do território nacional, na data da saída,
+     ressalvado o disposto no inciso V do art. 2º;
+
+     Observação: O art. 2º, V trata de quando a pessoa física se retira do Brasil sem
+     apresentar a Comunicação de Saída Definitiva.
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+44
+
+                                                                21
+
+
+---
+
+                                                                                        28/08/2020
+
+     IRPF – Contribuintes
+                                 Não Residentes no Brasil
+
+     ❑ Considera-se não residente no Brasil, a pessoa física:
+
+     III - que, na condição de não-residente, ingresse no Brasil para prestar serviços
+     como funcionária de órgão de governo estrangeiro situado no País, ressalvado o
+     disposto no inciso IV do art. 2º;
+
+ Legislação Tributária
+                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+45
+
+     IRPF – Contribuintes
+                                 Não Residentes no Brasil
+
+     ❑ Considera-se não residente no Brasil, a pessoa física:
+
+     IV - que ingresse no Brasil com visto temporário:
+
+     a) e permaneça até 183 dias, consecutivos ou não, em um período de até doze
+     meses;
+
+     b) até o dia anterior ao da obtenção de visto permanente ou de vínculo
+     empregatício, se ocorrida antes de completar 184 dias, consecutivos ou não, de
+     permanência no Brasil, dentro de um período de até doze meses;
+
+ Legislação Tributária
+                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+46
+
+                                                               22
+
+
+---
+
+                                                                                      28/08/2020
+
+     IRPF – Contribuintes
+                                    Não Residentes no Brasil
+
+     ❑ Considera-se não residente no Brasil, a pessoa física:
+
+     V - que se ausente do Brasil em caráter temporário, a partir do dia seguinte
+     àquele em que complete doze meses consecutivos de ausência.
+
+ Legislação Tributária
+                                                                             @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+47
+
+     QUESTÃO INÉDITA
+        Considera-se não residente no Brasil, como regra, a pessoa física que se
+        ausente do Brasil em caráter definitivo, a partir do dia seguinte àquele em
+        que complete doze meses consecutivos de ausência.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                    @ProfFabioDutra
+
+
+48
+
+                                                             23
+
+
+---
+
+                                                                                                28/08/2020
+
+     IRPF – Contribuintes
+                              Transferência de Residência para o Exterior
+
+        ❑ Saída em caráter permanente:
+
+        1.        Apresentar Comunicação de Saída Definitiva do País – A partir da data
+                  de saída e até o último dia de fevereiro do ano-calendário subsequente
+                  ao da saída.
+
+        2.        Apresentar Declaração de Saída Definitiva do País – No ano-calendário
+                  da saída e até o último dia útil de abril do ano-calendário subsequente ao
+                  da saída, bem como as declarações correspondentes a anos-calendário
+                  anteriores, se obrigatórias e ainda não entregues.
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+49
+
+     IRPF – Contribuintes
+                              Transferência de Residência para o Exterior
+
+        ❑ Saída em caráter permanente:
+
+        3.        Recolher em quota única o imposto nelas apurado e os demais créditos
+                  tributários ainda não quitados, cujos prazos para pagamento são
+                  considerados vencidos nesta data, se prazo menor não estiver estipulado
+                  na legislação tributária - até a data prevista para a entrega da Declaração
+                  de Saída Definitiva do País.
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+50
+
+                                                                       24
+
+
+---
+
+                                                                                                 28/08/2020
+
+     IRPF – Contribuintes                                                         Professor Fábio Dutra
+
+                            Transferência de Residência para o Exterior
+
+      ❑ Saída em caráter temporário, permanecendo no exterior por mais de 12
+        meses consecutivos, deve:
+
+      1.       Apresentar Comunicação de Saída Definitiva do País – A partir da data da
+               caracterização da condição de não residente e até o último dia de fevereiro
+               do ano-calendário subsequente ao da saída.
+
+      2.       Apresentar Declaração de Saída Definitiva do País – No ano-calendário da
+               caracterização da condição de não residente e até o último dia útil de abril
+               do ano-calendário subsequente ao da caracterização;
+
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+51
+
+     IRPF – Contribuintes                                                         Professor Fábio Dutra
+
+                            Transferência de Residência para o Exterior
+
+      ❑ Saída em caráter temporário, permanecendo no exterior por mais de 12
+        meses consecutivos, deve:
+
+      3.       Recolher em quota única o imposto nelas apurado e os demais créditos
+               tributários ainda não quitados, cujos prazos para pagamento são
+               considerados vencidos nesta data, se prazo menor não estiver estipulado na
+               legislação tributária - até a data prevista para a entrega da Declaração de
+               Saída Definitiva do País.
+
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+52
+
+                                                                        25
+
+
+---
+
+                                                                                     28/08/2020
+
+     IRPF – Contribuintes
+                         Transferência de Residência para o Exterior
+
+     ❑ As pessoas físicas que se ausentarem do território nacional sem apresentar a
+       Declaração de Saída Definitiva do País terão seus rendimentos tributados
+       como residentes no País, durante os primeiros doze meses de ausência, e, a
+       partir do décimo terceiro mês, como não residentes.
+
+ Legislação Tributária
+                                                                            @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+53
+
+     IRPF – Contribuintes
+                          Transferência de Residência para o Brasil
+
+     ❑ A pessoa física que passar à condição de residente no Brasil está sujeita às
+       normas vigentes na legislação tributária aplicáveis aos demais residentes no
+       Brasil a partir da data em que se caracterizar a condição de residente.
+
+     ❑ Observação: a pessoa física deve comunicar à fonte pagadora a condição de
+       residente.
+
+ Legislação Tributária
+                                                                            @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+54
+
+                                                            26
+
+
+---

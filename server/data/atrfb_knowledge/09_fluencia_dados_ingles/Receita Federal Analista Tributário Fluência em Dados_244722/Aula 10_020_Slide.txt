@@ -1,0 +1,57 @@
+       FP-Growth (frequent pattern)
+         ● Mitiga os problemas do apriori
+            ○ multiple scans
+            ○ lidar quando a quantidade de itens frequentes é grande
+            ○ lidar quando o suporte mínimo é baixo
+         ● FP-Tree: Baseado em árvore de prefixos para os padrões frequentes
+            ○ nó raiz é rotulado como NULL
+            ○ subárvores de itens prefixos filhos da raiz
+            ○ tabela                de                 cabeçalho             de
+               itens frequentes
+
+
+                        Understand and Build FP-Growth Algorithm
+                        in Python | by Andrewngai | Towards Data
+                        Science
+Prof. Raphael Lacerda
+                                      https://t.me/KakashiAssinaturasBot
+       Etapas
+         ● …
+
+
+
+
+Prof. Raphael Lacerda
+                        https://t.me/KakashiAssinaturasBot
+       Exemplo
+         ● …
+
+
+
+
+                                     FM - CM - AM
+                                     FCM - FAM - CAM
+                                     FCAM
+Prof. Raphael Lacerda
+                        https://t.me/KakashiAssinaturasBot
+       Exemplo
+         ● …
+
+
+
+
+                                                             Understand and Build FP-Growth Algorithm
+                                                             in Python | by Andrewngai | Towards Data
+Prof. Raphael Lacerda                                        Science
+                        https://t.me/KakashiAssinaturasBot
+       Exemplo
+         ● …
+
+
+
+
+                                                             Understand and Build FP-Growth Algorithm
+                                                             in Python | by Andrewngai | Towards Data
+Prof. Raphael Lacerda                                        Science
+                        https://t.me/KakashiAssinaturasBot
+

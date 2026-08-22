@@ -1,0 +1,319 @@
+                 CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS
+
+
+                                                       •   Proporcionar informação acerca da posição patrimonial e financeira, do desempenho
+                 OBJETIVO                                  e dos fluxos de caixa da entidade que seja útil a um grande número de usuários em
+                                                           suas avaliações e tomada de decisões econômicas.
+
+
+                                                                                                        o Posição patrimonial e financeira: balanço patrimonial.
+
+                                                                                                        o Desempenho: DRE e DRA.
+    PROPORCIONAM INFORMAÇÃO DA ENTIDADE ACERCA
+                                                                                                        o Fluxos de caixa: DFC.
+
+
+
+•   Ativos; passivos; patrimônio líquido; receitas e despesas, incluindo ganhos e
+    perdas; alterações no capital próprio mediante integralizações dos
+    proprietários e distribuições a eles; e fluxos de caixa.                                           PREMISSA DA CONTINUIDADE OPERACIONAL
+
+                    REGIME DE COMPETÊNCIA                                             •     As demonstrações contábeis devem ser elaboradas no pressuposto
+                                                                                            da continuidade, a menos que:
+
+                                                                                              o A administração tenha intenção de liquidar a entidade/cessar
+                                                                                                seus negócios ou não possua uma alternativa realista senão a
+•   As demonstrações contábeis devem ser elaboradas com base no                                 descontinuidade de suas atividades.
+    regime de competência, exceto a DFC.
+                                                                                                                                                   CONTABILIDADE GERAL
+                                                                  https://t.me/KakashiAssinaturasBot                                               ESTRATÉGIA CONCURSOS
+          CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+                                         • Cada classe relevante de itens semelhantes deve ser apresentada separadamente nas
+             MATERIALIDADE                 demonstrações.
+                      E                  • São apresentados separadamente os itens de natureza ou função distinta, a menos que sejam imateriais.
+               AGREGAÇÃO                 • Se um item não for individualmente material, deve ser agregado a outros itens, seja nas
+                                           demonstrações contábeis, seja nas notas explicativas.
+                                         • Lei 6.404/76
+                                                 o O saldo as contas semelhantes poderão ser agrupadas.
+                                                 o Os pequenos saldos poderão ser agregados, desde que indicada a sua natureza e não
+                                                   ultrapassem 10% do valor do respectivo grupo de contas.
+
+
+• A entidade não deve compensar ativos e passivos ou receitas e despesas, a
+  menos que a compensação seja exigida ou permitida.
+                                                                                                                COMPENSAÇÃO DE VALORES
+
+                                                                 •      O conjunto completo das demonstrações contábeis deve ser apresentado pelo
+                                                                        menos anualmente (inclusive informação comparativa).
+
+                                                                 •      Lei 6.404/76
+             FREQUÊNCIA DE APRESENTAÇÃO                                  o O exercício social terá duração de 1 ano e a data do término será fixada no
+                                                                           estatuto.
+
+                                                                         o Na constituição da companhia e nos casos de alteração estatutária o
+                                                                           exercício social poderá ter duração diversa.
+
+
+
+                                                                                                                                     CONTABILIDADE GERAL
+                                                            https://t.me/KakashiAssinaturasBot                                       ESTRATÉGIA CONCURSOS
+CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+
+    CONJUNTO COMPLETO DE                                            •      Balanço patrimonial.
+                                                                    •      Demonstração do resultado (DRE).
+  DEMONSTRAÇÕES CONTÁBEIS                                           •      Demonstração do resultado abrangente (DRA).
+                                                                    •      Demonstração das mutações do patrimônio líquido (DMPL).
+                                                                    •      Demonstração dos fluxos de caixa (DFC).
+           CPC 26                                                   •      Notas explicativas.
+                                                                    •      Balanço patrimonial do início do período mais antigo (em caso de ajuste).
+                                                                    •      Demonstração do valor adicionado (DVA).
+
+
+
+
+       LEI 6.404/76                                                                      • Balanço patrimonial
+
+                                                                                         • Demonstração dos lucros ou prejuízos acumulados (DLPA)
+
+
+• Demonstração do valor adicionado (DVA)
+                                                                                                                  o Pode ser incluída na DMPL.
+
+                                                                                         • Demonstração do resultado do exercício (DRE)
+               o Obrigatória apenas se a companhia for aberta.
+                                                                                         • Demonstração dos fluxos de caixa (DFC)
+
+ DEMONSTRAÇÃO DAS ORIGENS E                                                                         o Obrigatória para todas as companhias abertas.
+APLICAÇÕES DE RECURSOS (DOAR)
+                                                                                         o Obrigatória para as companhias fechadas apenas com
+                                                                                           patrimônio líquido acima de R$ 2 milhões.
+                  • A DOAR foi substituída pela DFC.
+                  • Não é mais obrigatória pela legislação.                                                                          CONTABILIDADE GERAL
+                                                    https://t.me/KakashiAssinaturasBot                                               ESTRATÉGIA CONCURSOS
+   CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+
+         SÃO CONTAS DO ATIVO               BALANÇO PATRIMONIAL                                      SÃO CONTAS DO PASSIVO
+
+        Caixa e equivalentes de caixa                                                             Contas a pagar comerciais e outras
+
+        Clientes e outros recebíveis                                                                                        Provisões
+
+        Estoques                                                                                               Obrigações financeiras
+
+        Ativos financeiros                                                                                     Obrigações – Tributação
+
+        Disponíveis para venda
+                                                                                 Obrigações relacionadas a ativos mantidos para venda
+
+        Ativos biológicos
+                                                                                    SÃO CONTAS DO PATRIMÔNIO LÍQUIDO
+        Propriedades para investimento
+                                                                                      Participação de não controladores
+
+        Investimentos avaliados pelo MEP
+                                                                                      Capital integralizado
+
+        Imobilizado                                                                   Reservas
+
+        Intangível                                                                    Outras contas atribuíveis aos proprietários
+
+
+CONTAS ADICIONAIS, CABEÇALHOS E SUBTOTAIS DEVEM SER APRESENTADO SEMPRE
+QUE RELEVANTES PARA O ENTENDIMENTO DA POSIÇÃO FINANCEIRA E PATRIMONIAL.
+                                                                                                                                    CONTABILIDADE GERAL
+                                            https://t.me/KakashiAssinaturasBot                                                      ESTRATÉGIA CONCURSOS
+CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+    APRESENTAÇÃO                                         • Regra de Apresentação
+
+
+
+o Os ativos e passivos devem ser apresentados em circulantes e não circulantes.
+o Quando o ciclo operacional é claramente identificável, a classificação em circulante e não circulante
+  proporciona informação útil.
+
+
+
+
+                       Exceção: quando uma apresentação baseada na liquidez proporcionar
+                        informação confiável e mais relevante.
+
+
+                      o Quando aplicável, todos os ativos e passivos devem ser apresentados por ordem de liquidez.
+
+
+• Base Mista: Apresentação de alguns ativos e passivos pela classificação em circulante e não circulante e outros por
+  ordem de liquidez quando proporcionar informação mais confiável e mais relevante.
+
+
+• Independentemente do método de apresentação, a entidade deve divulgar o montante esperado a ser recuperado ou
+  liquidado em até 12 meses ou mais do que 12 meses, após o período de reporte, para cada item de ativo e passivo.
+
+
+
+
+                                                                                                                        CONTABILIDADE GERAL
+                                                   https://t.me/KakashiAssinaturasBot                                   ESTRATÉGIA CONCURSOS
+CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+    ATIVO              • CPC 26: Classifica-se como circulante o ativo que atender qualquer um dos critérios:
+  CIRCULANTE
+                           o   Espera-se que seja realizado/vendido/consumido no decurso normal do ciclo operacional.
+                           o   Está mantido essencialmente com o propósito de ser negociado.
+                           o   É caixa ou equivalente de caixa.
+
+
+                       • Lei 6.404/76: São classificados no ativo circulante:
+
+                           o   Disponibilidades.
+                           o   Direitos realizáveis no curso do exercício social subsequente.
+                           o   Aplicações de recursos em despesas do exercício seguinte.
+
+
+                       • O ativo não circulante deve ser subdividido em realizável a longo prazo, investimentos, imobilizado e
+                         intangível.
+
+
+   PASSIVO
+                       • CPC 26: Classifica-se como circulante o passivo que atender qualquer um dos critérios:
+  CIRCULANTE
+
+                           o   Espera-se que seja liquidado durante o ciclo operacional.
+                           o   Está mantido essencialmente para ser negociado.
+                           o   Deve ser liquidado em até 12 meses após a data do balanço.
+                           o   Obrigação que a entidade não tem direito incondicional de diferir a liquidação durante pelo menos
+                               12 meses.
+
+
+                                                                                                                CONTABILIDADE GERAL
+                                        https://t.me/KakashiAssinaturasBot                                      ESTRATÉGIA CONCURSOS
+CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+                                      •   É o tempo entre a aquisição de ativos para processamento e sua realização em
+                                          caixa ou seus equivalentes.
+
+                                      •   Se o ciclo operacional normal da entidade não for claramente identificável,
+CICLO OPERACIONAL
+                                          pressupõe-se que seja de 12 meses.
+
+                                      •   Lei 6.404/76                 o Quando o ciclo operacional tiver duração maior que o exercício
+                                                                         social, a classificação no circulante ou longo prazo terá por
+                                                                         base o prazo do ciclo.
+
+                                                                       o Atenção: o prazo do ciclo é considerado apenas para fins de
+                                                                         classificação, portanto, o prazo do exercício social continua
+                                                                         sendo de 1 ano.
+
+            DEMONSTRAÇÃO DE RESULTADO (DRE)
+
+• A DRE deve apresentar, no mínimo, as rubricas:
+
+    o   Receitas.
+    o   Custos de financiamento.
+    o   Resultado equivalência Patrimonial.
+    o   Tributos sobre o lucro.
+    o   Custo dos produtos, das mercadorias e dos serviços vendidos.
+    o   Lucro bruto.
+    o   Despesas com vendas, gerais, administrativas e outras despesas e receitas operacionais.
+    o   Resultado antes das receitas e despesas financeiras.
+    o   Resultado antes dos tributos sobre o lucro.
+    o   Resultado líquido do período.
+                                                                                                                                CONTABILIDADE GERAL
+                                                     https://t.me/KakashiAssinaturasBot                                         ESTRATÉGIA CONCURSOS
+             CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+
+              APRESENTAÇÃO DA                     • CPC 47: Determina que a DRE deve se iniciar pela receita líquida.
+
+                     RECEITA                      • Lei 6.404/76: Determina que a DRE se inicie pela receita bruta.
+
+
+
+             RESULTADO DE OPERAÇÕES DESCONTINUADAS                                                                       FORMAS DE APRESENTAÇÃO
+
+                                                                                                                            NATUREZA DE DESPESA
+ •    São as vendas relativas a divisões, produtos ou atividades que a empresa
+      abandonou, que não existirão mais no futuro.
+
+ •    É apresentado de forma separada das operações normais.                                          o Nesse método, as despesas são       o Não são necessárias
+                                                                                                        agregadas na DRE de acordo            alocações de gastos a
+                                                                                                        com a sua natureza                    classificações
+     ITENS MATERIAIS: QUANDO OS ITENS DE RECEITAS E DESPESAS                                                                                  funcionais
+        SÃO MATERIAIS, SUA NATUREZA E MONTANTES DEVEM SER
+                                                                                                                               FUNÇÃO DE DESPESA
+                       DIVULGADOS SEPARADAMENTE
+
+
+                                                                                                      o As despesas são classificadas de   o Há separação entre
+o CPC 26: O critério que proporcionar                                                                   acordo com a sua função como         despesas de vendas e
+  informação confiável e mais relevante                                                                 parte do custo dos produtos ou       despesas
+                                                                                                        serviços vendidos                    administrativas
+
+                                            QUAL MÉTODO UTILIZAR?
+
+o Lei 6.404/76: Induz      a   utilização   do
+  método da função                                                                                                                             CONTABILIDADE GERAL
+                                                                 https://t.me/KakashiAssinaturasBot                                            ESTRATÉGIA CONCURSOS
+CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+
+DEMONSTRAÇÃO DE RESULTADO ABRANGENTE                                                •     Resultado abrangente é a mutação que ocorre no
+               (DRA)                                                                      patrimônio líquido durante um período.
+
+
+
+    EXEMPLOS DE OUTROS RESULTADOS
+               ABRANGENTES
+                                                                                                         Resultado abrangente total
+
+       Variações na reserva de reavaliação
+                                                                                        o Resultado do exercício       o Outros resultados abrangentes
+       Ganhos e perdas atuariais em planos de pensão
+                                                                                          • Não derivados de transações com os sócios na sua
+       Ganhos e perdas derivados de conversão de                                            qualidade de proprietários.
+       demonstrações contábeis de operações no
+       exterior
+                                                                                                   • Atenção: No brasil, a DRA deve ser apresentada
+                                                                                                     como uma demonstração separada.
+       Ajuste de avaliação patrimonial
+                                                                                                   • A DRA é iniciada pelo lucro líquido.
+       Ajuste de avaliação patrimonial relativo à efetiva
+       parcela de ganhos ou perdas de instrumentos de                                     • O resultado abrangente está incluído na DMPL, mas é
+       hedge em hedge de fluxo de caixa                                                     vedada a apresentação da DRA apenas na DMPL.
+
+                                                                                                                                      CONTABILIDADE GERAL
+                                               https://t.me/KakashiAssinaturasBot                                                     ESTRATÉGIA CONCURSOS
+    CPC 26 (R1) - APRESENTAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS - CONTINUAÇÃO
+
+
+  DEMONSTRAÇÃO DAS                   •   O resultado abrangente do período
+MUTAÇÕES DO PATRIMÔNIO                        o Apresentando separadamente o montante total atribuível aos proprietários da controladora e o
+                                                correspondente à participação de não controladores.
+     LÍQUIDO (DMPL)
+                                     • Para cada componente do patrimônio líquido, os efeitos das alterações nas políticas contábeis e as
+                                       correções de erros reconhecidas de acordo com o CPC 23 (efeitos da aplicação retrospectiva ou da
+                                       reapresentação retrospectiva).
+                                     • Para cada componente do patrimônio líquido, a conciliação do saldo no início e no final do período,
+    A DMPL INCLUI                      demonstrando-se separadamente (no mínimo) as mutações decorrentes:
+                                              o do resultado líquido.
+                                              o de cada item dos outros resultados abrangentes.
+                                              o de transações com os proprietários realizadas na condição de proprietário.
+
+
+
+                         • O patrimônio líquido deve apresentar: o capital social, as reservas de capital, os ajustes de avaliação patrimonial, as
+                           reservas de lucros, as ações ou quotas em tesouraria, os prejuízos acumulados, se legalmente admitidos os lucros
+                           acumulados.
+
+ • A entidade deve apresentar, na DMPL ou nas notas explicativas, o montante de dividendos reconhecidos como distribuição
+   aos proprietários e o respectivo montante dos dividendos por ação.
+
+
+
+
+                                                                                                                                CONTABILIDADE GERAL
+                                                        https://t.me/KakashiAssinaturasBot                                     ESTRATÉGIA CONCURSOS
+

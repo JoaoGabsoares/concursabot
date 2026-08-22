@@ -1,0 +1,203 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 06_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: BALANÇO PATRIMONIAL
+---
+
+# BALANÇO PATRIMONIAL
+
+BALANÇO PATRIMONIAL
+       FCC
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+(FCC/Manausprev/2021)
+A empresa Rotineira S.A. apresentava, em 31/12/2017, a seguinte situação patrimonial, com
+valores em reais:
+
+                            Ativo                                              Passivo e PL
+     Caixa e Equivalentes ... 230.000                   Adiantamentos de clientes ... 120.000
+     Estoques ... 110.000                               Capital Social ... 220.000
+     Total do Ativo ... 340.000                         Total do Passivo e PL ... 340.000
+
+As seguintes transações foram realizadas pela empresa no mês de janeiro de 2018:
+
+                                        
+
+
+---
+
+   Data                                           Operação
+05/01/2018 Recebimento  antecipado no valor de R$ 24.000,00 de um cliente, para que a Cia. lhe
+           entregue produtos em fevereiro de 2018.
+12/01/2018 Compra de Estoque no valor de R$ 46.000,00, com pagamento à vista.
+
+15/01/2018 Pagamento   antecipado de R$ 64.000,00 para que determinado fornecedor entregue
+           mercadorias para a empresa Rotineira S.A. até o final do mês.
+
+           Venda de Estoque por R$ 176.000,00 que será recebido em março de 2018. O custo das
+20/01/2018 mercadorias entregues foi R$ 70.000,00 e os tributos incidentes sobre a venda, no valor de
+           R$ 14.000,00, serão pagos em fevereiro de 2018.
+
+25/01/2018 Recebimento das mercadorias correspondentes ao pagamento efetuado no dia 15/01/2018.
+
+28/01/2018 Entrega das mercadorias cujo valor foi recebido anteriormente pela empresa e que constava
+           no Balanço Patrimonial de 31/12/2017. O custo das mercadorias entregues foi R$ 30.000,00.
+
+31/01/2018 Pagamento dos salários referentes ao mês de janeiro de 2018 no valor de R$ 18.000,00.
+
+
+                                      
+
+
+---
+
+Após o registro das operações acima, o valor total do Ativo da empresa Rotineira S.A., em
+31/01/2018, era, em reais,
+a) 422.000,00
+b) 408.000,00
+c) 358.000,00
+d) 438.000,00
+e) 376.000,00
+
+                                   
+
+
+---
+
+Atenção: Considere os dados abaixo para responder à questão.
+
+                                      
+
+
+---
+
+(FCC/AFAP/2019)
+O total do passivo circulante em 2017 é
+a) R$ 98.000,00.
+b) R$ 204.000,00.
+c) R$ 96.000,00.
+d) R$ 201.000,00.
+e) R$ 143.000,00
+
+                                          
+
+
+---
+
+(FCC/AFAP/2019)
+O total do ativo não circulante em 2018 é
+a) R$ 147.000,00.
+b) R$ 127.000,00.
+c) R$ 125.000,00.
+d) R$ 165.000,00.
+e) R$ 145.000,00.
+
+                                       
+
+
+---
+
+ (FCC/TJ-MA/2019)
+As contas constantes no balancete de verificação da empresa ACM, em 31/12/2018, apresentavam os
+saldos da tabela a seguir, com os valores expressos em reais:
+
+                                      
+
+
+---
+
+Com base nessas informações, o total do
+a) ativo era R$ 63.000,00.
+b) passivo (capitais de terceiros) era R$ 53.000,00.
+c) passivo (capitais de terceiros) era R$ 60.000,00.
+d) ativo era R$ 68.000,00.
+e) passivo (capitais de terceiros) era R$ 55.000,00.
+
+                                        
+
+
+---
+
+(FCC/TJ-MA/2019)
+Durante o mês de dezembro de 2018 a Cia. Polônia realizou as seguintes transações:
+I. Compra à vista de máquina destinada à produção.
+II. Pagamento à vista para ter o direito de uso de determinada marca por 8 anos.
+III. Compra à vista de máquinas destinadas à revenda.
+IV. Pagamento de adiantamento a fornecedor para que este entregue mercadorias para a empresa em
+fevereiro de 2019.
+Na divulgação do seu Balanço Patrimonial, em 31/12/2018, a Cia. Polônia classificou as transações I, II,
+III e IV, respectivamente, como ativo
+a) circulante, ativo circulante, ativo não circulante e ativo circulante.
+b) não circulante, ativo não circulante, ativo circulante e passivo circulante.
+c) não circulante, ativo circulante, ativo circulante e passivo circulante.
+d) não circulante, ativo não circulante, ativo não circulante e ativo circulante.
+e) não circulante, ativo não circulante, ativo circulante e ativo circulante.
+                                          
+
+
+---
+
+(FCC/Pref. SJRP/2019)
+Os seguintes subgrupos fazem parte do Ativo Não Circulante de uma empresa industrial:
+a) realizável a longo prazo, investimentos e patrimônio líquido.
+b) investimentos, imobilizado e exigível a longo prazo.
+c) patrimônio líquido, imobilizado e realizável a longo prazo.
+d) resultados de exercícios futuros, patrimônio líquido e imobilizado.
+e) realizável a longo prazo, investimentos e intangível.
+
+                                        
+
+
+---
+
+(FCC/Metro-SP/2019)
+O Balanço Patrimonial é um dos relatórios mais importantes gerados pela contabilidade, pois
+evidencia a saúde financeira e econômica da empresa em uma determinada data. Em relação ao
+Balanço Patrimonial:
+a) A coluna denominada Passivo contém o conjunto de bens e direitos de propriedade da empresa.
+b) Os ativos circulantes representam o total das aplicações dos proprietários na empresa.
+c) Uma coluna é denominada Ativo e Patrimônio Líquido e a outra denominada Passivo.
+d) Os ativos circulantes são aqueles que se espera que sejam convertidos em caixa no prazo máximo
+de um ano.
+e) A coluna denominada Ativo contém as obrigações exigíveis da empresa.
+
+                                       
+
+
+---
+
+(FCC/Metro-SP/2019)
+Considere as informações abaixo a respeito de determinada empresa.
+Provisão para ajuste a valor presente de contas a receber: R$ 5.000,00
+Provisão para devedores duvidosos: R$ 3.000,00
+Duplicatas a receber: R$ 60.000,00
+Duplicatas descontadas: R$ 4.000,00
+O valor total das contas a receber de clientes que será apresentado no Balanço Patrimonial desta
+empresa é
+a) R$ 56.000,00
+b) R$ 54.000,00
+c) R$ 64.000,00
+d) R$ 72.000,00
+e) R$ 48.000,00
+
+                                        
+
+
+---

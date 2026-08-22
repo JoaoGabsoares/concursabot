@@ -1,0 +1,173 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 24_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '24'
+titulo_aula: 'CONCEITO CPC 28: PROPRIEDADE MANTIDA PARA AUFERIR ALUGUEL OU PARA VALORIZAÇÃO
+  DO CAPITAL, OU AMBOS.'
+---
+
+# CONCEITO CPC 28: PROPRIEDADE MANTIDA PARA AUFERIR ALUGUEL OU PARA VALORIZAÇÃO DO CAPITAL, OU AMBOS.
+
+CONCEITO CPC 28: PROPRIEDADE MANTIDA PARA AUFERIR ALUGUEL OU PARA VALORIZAÇÃO DO CAPITAL, OU AMBOS.
+
+   A PROPRIEDADE PARA INVESTIMENTOS É CLASSIFICADA NO SUBGRUPO DE INVESTIMENTOS (ATIVO NÃO CIRCULANTE).
+
+   GERA FLUXOS DE CAIXA ALTAMENTE INDEPENDENTES DOS OUTROS ATIVOS MANTIDOS PELA ENTIDADE.
+
+   A PROPRIEDADE PARA INVESTIMENTO NÃO NECESSITA SER JURIDICAMENTE DA ENTIDADE.
+
+PROPRIEDADE PARA INVESTIMENTOS
+                                                                                            CONCEITO E DISPOSIÇÕES GERAIS
+            CPC 28
+
+                                  O ALUGUEL É O OBJETIVO FINAL: PROPRIEDADE PARA INVESTIMENTOS.
+ PROPRIEDADE PARA ALUGUEL.
+                                  O ALUGUEL É MEIO PARA OUTRA FINALIDADE: IMOBILIZADO.                      EXEMPLO: ALUGUEL PARA FUNCIONÁRIOS.
+
+
+                                • TERRENOS MANTIDOS PARA VALORIZAÇÃO DE CAPITAL A LONGO PRAZO.
+                                • TERRENOS MANTIDOS PARA FUTURO USO CORRENTEMENTE INDETERMINADO.
+        EXEMPLOS:               • EDIFÍCIO QUE SEJA ARRENDADO SOB ARRENDAMENTO OPERACIONAL.
+                                • EDIFÍCIO DESOCUPADO, MAS MANTIDO PARA ARRENDAMENTO OPERACIONAL.
+                                • PROPRIEDADE EM CONSTRUÇÃO PARA FUTURA UTILIZAÇÃO COMO PROPRIEDADE PARA INVESTIMENTO.
+
+                                                                                                                                      CONTABILIDADE GERAL
+                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                              SIM: CONTABILIZA SEPARADAMENTE.
+
+
+          PODEM SER VENDIDAS SEPARADAMENTE?                   NÃO                           SE A PARTE PARA USO É INSIGNIFICANTE: CONTABILIZA TUDO COMO PROPRIEDADE
+                                                                                            PARA INVESTIMENTO.
+
+
+                                                                                            SE A PARTE PARA USO É SIGNIFICANTE, CLASSIFICA COMO PROPRIEDADE OCUPADA.
+PROPRIEDADE COM PARTE PARA INVESTIMENTO E
+                   PARTE PARA USO
+                                                                                                    PROVÁVEL QUE FLUAM BENEFÍCIOS ECONÔMICOS NO FUTURO PARA A
+                                                                                                                            ENTIDADE.
+
+PROPRIEDADE PARA INVESTIMENTOS
+                                                                                                     PRINCÍPIO DO RECONHECIMENTO (REQUISITOS)
+            CPC 28
+
+
+                                                                                                                CUSTO MENSURADO CONFIAVELMENTE.
+
+   NÃO É PROPRIEDADE PARA INVESTIMENTO
+                                                                                                                          • PARTES QUE SÃO SUBSTITUÍDAS.
+  • PROPRIEDADE PARA VENDA NO CURSO ORDINÁRIO DO
+                                                                                CUSTO DA PARTE DE SUBSTITUIÇÃO            • RECONHECE NO VALOR CONTÁBIL.
+    NEGÓCIO.
+                                                                                                                          • BAIXA O VALOR CONTÁBIL SUBSTITUÍDO.
+  • PROPRIEDADE OCUPADA PELO PROPRIETÁRIO.
+  • PROPRIEDADE    PARA     USO    NA     PRODUÇÃO      OU
+                                                                                                                      • NÃO COMPÕE CUSTO DA PROPRIEDADE.
+    FORNECIMENTO    DE    BENS    OU   SERVIÇOS   OU   PARA                     CUSTOS DE SERVIÇOS DIÁRIOS
+    FINALIDADES ADMINISTRATIVAS.                                                                                      • QUANDO INCORRIDOS = RESULTADO.
+
+  • PROPRIEDADE ARRENDADA          SOB     ARRENDAMENTO
+    FINANCEIRO.                                                                                                                                    CONTABILIDADE GERAL
+                                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                   RECONHECE INICIALMENTE PELO CUSTO.
+
+                                                                     • PREÇO DE COMPRA + QUALQUER DISPÊNDIO DIRETAMENTE ATRIBUÍVEL.
+                                                   CUSTO             • SE A COMPRA FOR A PRAZO, RECONHECE PELO PREÇO À VISTA (AJUSTE A VALOR PRESENTE).
+                                                                     • INCLUI CUSTOS DE TRANSAÇÃO.
+
+    MENSURAÇÃO NO RECONHECIMENTO
+
+PROPRIEDADE PARA INVESTIMENTOS
+                                                                                           MENSURAÇÃO APÓS O RECONHECIMENTO
+            CPC 28
+
+      PODE MENSURAR AO CUSTO OU A VALOR JUSTO
+
+          • A POLÍTICA DE MENSURAÇÃO ADOTADA DEVE SER APLICADA A TODAS AS PROPRIEDADES PARA INVESTIMENTO.
+
+       MÉTODO DO VALOR JUSTO
+
+              • O GANHO OU A PERDA PROVENIENTE DE ALTERAÇÃO NO VALOR JUSTO DE PROPRIEDADE DEVE SER RECONHECIDO NO RESULTADO.
+              • A PROPRIEDADE MENSURADA A VALOR JUSTO NÃO DEVE SER DEPRECIADA.
+
+       MÉTODO DO CUSTO
+
+              • AINDA QUE ESCOLHA PELA POLÍTICA DO CUSTO, O VALOR JUSTO DEVE SER MENSURADO PARA FINS DE DIVULGAÇÃO.
+              • A PROPRIEDADE MENSURA AO CUSTO É DEPRECIADA.                                                                       CONTABILIDADE GERAL
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+SOMENTE HÁ TRANSFERÊNCIA QUANDO HOUVER ALTERAÇÃO                                                 SÃO EXEMPLOS DE EVIDÊNCIA DE ALTERAÇÃO DE USO:
+    DE USO, SOMENTE INTENÇÃO NÃO É SUFICIENTE.                                    • INÍCIO DE OCUPAÇÃO PELO PROPRIETÁRIO, OU DE DESENVOLVIMENTO COM VISTA À
+                                                                                    OCUPAÇÃO, PARA TRANSFERÊNCIA DE PROPRIEDADE PARA INVESTIMENTO PARA
+                                                                                    PROPRIEDADE OCUPADA.
+
+                                                                                  • INÍCIO DE DESENVOLVIMENTO COM OBJETIVO DE VENDA, PARA TRANSFERÊNCIA DE
+       MUDANÇA DE USO (TRANSFERÊNCIA)                                               PROPRIEDADE PARA INVESTIMENTO PARA ESTOQUE.
+
+                                                                                  • FIM DE OCUPAÇÃO PELO PROPRIETÁRIO, PARA TRANSFERÊNCIA DE PROPRIEDADE
+                                                                                    OCUPADA PELO PROPRIETÁRIO PARA PROPRIEDADE PARA INVESTIMENTO.
+
+                                                                                  • COMEÇO DE ARRENDAMENTO OPERACIONAL PARA OUTRA ENTIDADE, PARA
+                                                                                    TRANSFERÊNCIA DE ESTOQUES PARA PROPRIEDADE PARA INVESTIMENTO.
+PROPRIEDADE PARA INVESTIMENTOS
+            CPC 28
+
+IMOBILIZADO OU ESTOQUE VIRA PROPRIEDADE PARA INVESTIMENTO CONTABILIZADA AO CUSTO, OU O CONTRÁRIO.
+
+
+  A TRANSFERÊNCIA NÃO ALTERA O VALOR CONTÁBIL DA PROPRIEDADE.
+
+PROPRIEDADE PARA INVESTIMENTO CONTABILIZADA PELO VALOR JUSTO TRANSFORMA EM IMOBILIZADO OU ESTOQUE.
+
+  O CUSTO DO IMOBILIZADO OU ESTOQUE É O VALOR JUSTO NA DATA DA ALTERAÇÃO DE USO.
+
+IMOBILIZADO TRANSFORMA EM PROPRIEDADE PARA INVESTIMENTO CONTABILIZADA PELO VALOR JUSTO.
+
+                                               CUSTO > VALOR JUSTO = RESULTADO (DESPESA).
+   DIFERENÇAS ENTRE O VALOR JUSTO E O CUSTO.
+                                               CUSTO < VALOR JUSTO = AJUSTE DE AVALIAÇÃO PATRIMONIAL (PL).                              CONTABILIDADE GERAL
+                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+    ESTOQUE TRANSFORMA EM PROPRIEDADE PARA                             QUALQUER DIFERENÇA POSITIVA OU NEGATIVA ENTRE O CUSTO E O VALOR
+  INVESTIMENTO CONTABILIZADA PELO VALOR JUSTO.                         JUSTO DEVE SER RECONHECIDA NO RESULTADO.
+
+     MUDANÇA DE USO (TRANSFERÊNCIA)
+
+PROPRIEDADE PARA INVESTIMENTOS
+                                                                                                        BAIXA
+            CPC 28
+
+
+                                                                                A PROPRIEDADE PARA INVESTIMENTO DEVE SER BAIXADA QUANDO.
+                                                                                • ALIENADA.
+                                                                                • FOR PERMANENTEMENTE RETIRADA DE USO E NENHUM BENEFÍCIO
+                                                                                  ECONÔMICO FOR ESPERADO DA SUA ALIENAÇÃO.
+
+                                                                                                                            CONTABILIDADE GERAL
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---

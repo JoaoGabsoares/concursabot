@@ -1,0 +1,1426 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Trilhas Estratégicas, Simulados e Monitoria
+tags:
+- trilhas
+- planejamento
+- simulados
+- ciclo_estudos
+arquivo_origem: Aula 45_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '45'
+titulo_aula: Livro Eletrônico
+artigos_citados:
+- art. 124
+- art. 264
+- art. 503
+---
+
+# Livro Eletrônico
+
+Livro Eletrônico
+
+                               Trilha 43
+
+Receita Federal (Analista Tributário) Trilha Estratégica
+Professor: Guilherme Carvalho, Glesler Sales Maldonado
+
+                  
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+TRILHA ESTRATÉGICA - ANALISTA-TRIBUTÁRIO DA
+         RECEITA FEDERAL DO BRASIL
+Olá, pessoal!
+
+Esperamos que os estudos estejam em dia.
+
+Nessa semana, iniciaremos a Trilha Estratégica nº 43 para o concurso de Analista-Tributário da
+Receita Federal do Brasil.
+
+Caso vocês ainda não tenham terminado a Trilha nº 42, não se preocupem! Finalizem aquela e, aí
+sim, comecem a Trilha dessa semana.
+
+          “É muito fácil ser diferente, mas muito difícil ser melhor.”
+
+                                                                           Jonathan Ive
+
+Não se esqueçam do link da nossa Comunidade de Alunos da Receita Federal no Telegram. Vocês
+podem fazer a inscrição clicando no endereço eletrônico logo abaixo:
+
+                      Inscreva-se na Comunidade de alunos da Receita Federal
+
+                                      
+
+Agora, sem mais delongas, vamos aos estudos, vamos detonar esta Trilha!
+
+A cada dia que passa que passa, você está mais próximo de se tornar Analista-Tributário da
+Receita Federal do Brasil.
+
+                                                                                            1
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                             TRILHA ESTRATÉGICA 43
+Disponibilizaremos, individualmente, nesta seção, as Trilhas de cada uma das disciplinas
+trabalhadas por nós. O objetivo é que o aluno possa fazer ajustes no seu estudo a depender do
+nível em que ele está em determinada matéria.
+
+                   Matéria                                                   Trilha de Disciplina
+    Administração de Compras e Materiais                              http://estrategi.ac/s8pmuf
+         Administração Financeira                                      http://estrategi.ac/i49ply
+            Administração Geral                                        http://estrategi.ac/zjquiu
+           Administração Pública                                      http://estrategi.ac/hhtwx0
+                Contabilidade                                         http://estrategi.ac/6as99x
+           Direito Administrativo                                      http://estrategi.ac/zft0pi
+           Direito Constitucional                                          http://estrategi.ac/asslij
+            Direito Previdenciário                                     http://estrategi.ac/vsr4dq
+              Direito Tributário                                       http://estrategi.ac/tf1qes
+                  Estatística                                          http://estrategi.ac/b5lzpu
+             Fluência em Dados                                             http://estrategi.ac/xj5lzf
+                    Inglês                                             http://estrategi.ac/e83itz
+            Legislação Aduaneira                                       http://estrategi.ac/b69jaf
+            Legislação Tributária                                      http://estrategi.ac/ib6bq3
+                  Português                                            http://estrategi.ac/5jbbzt
+       Raciocínio Lógico Matemático                                    http://estrategi.ac/6ld8x9
+
+                                                                                                        2
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+Segue resumo das tarefas que abordaremos nesta trilha.
+
+  Tarefa          Disciplina                                       Resumo das tarefas
+
+748           Dados                 Prática de exercícios da aula 06, e resolução de 20 questões do
+                                    PDF.
+
+749           Português             Revisão da aula 01; e resolução de questões no SQ.
+
+750           Contabilidade         Revisão Geral - Resolução de 30 questões do SQ.
+
+751           Dir. Tributário       Estudo da aula 18, toda a teoria.
+
+752           Constitucional        Revisão da Aula 19; e resolução de 20 questões.
+
+753           RLM                   Revisão da aula 09 (Associação Lógica); e resolução de questões
+                                    do SQ.
+
+754           Dir. Admin.           Revisão da Aula 03 a partir da resolução de 40 questões no SQ.
+
+755           Leg. Tributária       Estudo da aula 10, de “Atividade Rural” até "Lucros,
+                                    Rendimentos e Ganho De Capital Obtidos no Exterior”.
+
+756           Adm. Geral            Estudo da aula 11, do tópico “Níveis de Detalhamento de
+                                    Processos” até o final da aula.
+
+757           Dir. Prev.            Estudo da aula 05, do tópico “Procedimento da Retenção” até
+                                    o final da aula.
+
+758           Leg. Aduaneira Revisão da Aula 05; e resolução de 34 questões do PDF.
+
+759           Estatística           Resolução de 20 questões de assuntos da aula 05 e 06 no
+                                    Estratégia Questões.
+
+760           Adm. Pública          Estudo da aula 10, de “Conceito de Políticas Públicas” até
+                                    “Políticas Sociais x Macroeconômicas x Administrativas x
+                                    Específicas”.
+
+761           ACM                   Revisão da aula 03 e resolução de 35 questões do PDF Original.
+
+762           Inglês                Aula 01. Resolução de uma bateria de questões do Estratégia
+                                    Questões.
+
+763           Dados                 Estudo da aula 07, de “Mineração de Dados - Contextualização”
+                                    até “Mineração de Texto (Text Mining)”, inclusive.
+
+764           Leg. Tributária       Estudo da aula 10, de “Preço de Transferência” até o final da
+                                    parte teórica.
+
+765           Adm. Geral            Resolução de uma bateria de questões sobre o tema Gestão de
+                                    Processos.
+
+
+                                                                                                     3
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+ Guilherme Carvalho, Glesler Sales Maldonado
+ Trilha 43
+
+766          Dir. Prev.            Resolução de 40 questões da aula 05.
+
+767          Leg. Aduaneira Revisão das Aulas 03 a 05.
+
+768          Estatística           Resolução de 20 questões de assuntos da aula 05 e 06 no
+                                   Estratégia Questões.
+
+769          Adm. Pública          Estudo da aula 10, de “Conceito de Políticas Públicas” até o final
+                                   da aula.
+
+770          ACM                   Revisão da aula 03 e resolução de 34 questões do PDF Original.
+
+771          Inglês                Estudo da aula 02, “Adjetivos” até “Prefixos e Sufixos”,
+                                   inclusive.
+
+772          Dados                 Estudo da aula 07, de “Técnicas e Tarefas” até o final da aula.
+
+                                                                                                     4
+       Receita Federal (Analista Tributário) Trilha Estratégica
+       www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 748
+
+                                               Fluência de Dados
+
+Prática de exercícios da aula 06, e resolução de 20 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244722/aulas
+
+Nesta tarefa vamos resolver questões do PDF.
+
+Para esta tarefa quero que você:
+
+1. Faça as questões comentadas de Análise de Informações - BI e Data Warehouse - Multibancas:
+
+FCC: 64 a 73.
+
+FGV: 82 a 91
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+2. Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                                5
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 749
+
+                                                     Português
+
+Revisão da aula 01; e resolução de questões no SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Para não esquecermos o conteúdo já estudado, devemos realizar algumas revisões em momentos
+estratégicos da nossa caminhada.
+
+Por isso, nesta tarefa, revisaremos, mais uma vez, a aula sobre Classes de Palavras.
+
+Primeiramente, leia suas anotações/resumo dessa aula e refaça as questões que errou na época.
+
+Em seguida, para consolidar a aprendizagem dos assuntos estudados na Aula 01, vamos fazer uma
+bateria de questões no SQ:
+
+Classes de Palavras: http://questo.es/0hwy44
+
+Anote as questões que sentir dificuldade para que você possa priorizar determinados tópicos no
+momento da revisão. Essa atitude o ajudará a melhorar seu desempenho no decorrer dos estudos.
+
+Além disso, após resolver as questões, leia atentamente os comentários e aproveite para melhorar
+seus grifos e/ou resumo no que julgar importante.
+
+                                                                                                6
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 750
+
+                                    Contabilidade Geral e Avançada
+
+Revisão Geral - Resolução de 30 questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Vamos fazer uma revisão da disciplina de Contabilidade Geral, por meio da resolução de questões
+elaboradas pelas principais bancas organizadoras de concurso e cobradas em provas da área fiscal.
+
+Para isso, acesse o link abaixo e resolva as questões 301 a 330.
+
+Link: http://questo.es/3m0xye
+
+Estude os comentários das questões que errar ou tiver dúvidas. Se necessário, volte ao material
+teórico e releia os pontos em que sentiu dificuldade.
+
+                                                                                               7
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 751
+
+                                                Direito Tributário
+
+Estudo da aula 18, toda a teoria.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+O tema repartição das receitas tributárias é cobrado de forma bastante tranquila em provas de
+concurso público. Se o candidato souber as características gerais e decorar as repartições (e os
+respectivos percentuais), acerta tudo! Portanto, decore este quadro:
+
+                                                                                    .
+
+                                                                                              8
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 752
+
+                                            Direito Constitucional
+
+Revisão da Aula 19; e resolução de 20 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Nesta tarefa você vai revisar o conteúdo estudado na Aula 19, através da leitura do seu material
+de revisão, leitura da lei seca e refazer as questões que errou.
+
+Primeiramente, leia o seu material de revisão. Leia os grifos e anotações que fez durante o estudo
+da teoria da aula e aproveite para verificar a qualidade dos seus grifos, e melhorá-los, se for o caso.
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada. Se preferir, pode fazer a revisão pelo pdf grifado, simplificado ou pelo Passo
+Estratégico, caso estejam disponíveis.
+
+Feito isso, resolva as 20 questões do pdf.
+
+Sugiro que você resolva as questões pela lista com comentários, leia todas as alternativas antes de
+marcar o gabarito e só então veja a resposta. Isso vai ajudá-lo a ir se apropriando do conteúdo.
+Depois, leia os comentários do professor e grife o que julgar importante para futuras revisões.
+
+E não esqueça de deixar assinaladas as questões que você errar, ou responder com dúvida. Elas
+serão muito úteis nas nossas revisões.
+
+                                                                                                     9
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 753
+
+                                      Raciocínio Lógico Matemático
+
+Revisão da aula 09 (Associação Lógica); e resolução de questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer mais uma revisão do nosso PDF. Revise as fórmulas e as principais informações da
+aula.
+
+Após, resolva as questões do link a seguir:
+
+http://questo.es/7b6bht
+
+Ao final, leia apenas os comentários das questões que errou ou que teve dúvida.
+
+Caso identifique algum ponto da matéria que não esteja tão bem consolidado, retorne à respectiva
+aula do curso regular e reforce este ponto.
+
+                                                                                             10
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 754
+
+                                            Direito Administrativo
+
+Revisão da Aula 03 a partir da resolução de 40 questões no SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Antes de continuar avançando na teoria, vamos revisar parte do que já estudamos até aqui. Este é
+um momento muito importante do nosso estudo, pois é na revisão que fixamos os principais
+conceitos estudados – e, assim, ativamos a memória de longo prazo para que nada se perca.
+
+Nesta tarefa você realizará uma breve revisão da teoria estudada na referida aula. Aproveite para
+rever seu resumo, marcações, esquemas e anotações. Uma sugestão é utilizar a Marcação dos
+Aprovados.
+
+Após, para consolidar a aprendizagem dos assuntos estudados na Aula, vamos fazer essa bateria
+de questões no SQ:
+
+Link: http://questo.es/ikzk0g
+
+Procure resolver as questões de forma proativa: antes de marcar o gabarito, fale para você mesmo
+a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do conteúdo.
+
+Depois leia os comentários do professor e melhore seus grifos/resumos no que julgar importante
+para futuras revisões.
+
+Lembre-se que o estudo por questões é mais ativo e dinâmico do que simplesmente quando se
+lê um material teórico, uma vez que, quando você responde uma questão, você tem que acessar
+aquele conteúdo teórico na sua memória, forçando assim seu cérebro.
+
+Assim, quando você resolve muitas questões, você percebe quais conteúdos são mais cobrados,
+concentrando melhor seus esforços nesses, potencializando assim seu tempo disponível.
+
+                                                                                              11
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 755
+
+                                             Legislação Tributária
+
+Estudo da aula 10, de “Atividade Rural” até "Lucros, Rendimentos e Ganho De Capital
+Obtidos no Exterior”.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244720/aulas
+
+Com essa aula, fecharemos o estudo do IRPJ.
+
+O início da aula traz informações acerca da “Atividade Rural”. As pessoas jurídicas exploradoras
+de atividades rurais (relembre quais são) pagam IRPJ sobre os rendimentos daí provenientes,
+numa alíquota de 15% mais o adicional de 10%, conforme as demais pessoas jurídicas.
+
+No entanto, é preciso que se conheça as peculiaridades relacionadas a essa atividade, que é o
+caso da depreciação de ativos imobilizados e a regra para compensação de prejuízo fiscal.
+
+Sobre a tributação dos bens de capital, é essencial entender a previsão do art. 503 do RIR.
+
+Há duas formas de avaliação dos investimentos na forma de participações permanentes no capital
+de outras sociedades, como ações de coligadas e controladas – método de equivalência
+patrimonial (MEP) e método de custo de aquisição.
+
+Nosso alvo será o MEP, mas antes é preciso que relembre os conceitos de sociedade coligada e
+controlada e como é feita a abordagem de cálculo do investimento por esse método.
+
+Entenda como é feito o cálculo do ágio e deságio nos investimentos avaliados pelo MEP.
+
+Entendido tudo o que foi destacado acima, agora já podemos entrar na tributação de tais
+investimentos pelo IRPJ. O professor fez uma lista de informações que você deve memorizar.
+
+Sobre lucros, rendimentos e ganhos de capital obtidos no exterior, é preciso entender quando
+ocorre a disponibilização de tais lucros obtidos em outro país para então serem tributados pelo
+IRPJ.
+
+No caso de lucros auferidos por controladas no exterior, há regras específicas. Além disso, veja
+como é considerada a variação cambial nesses casos. É importante memorizar que é permitido o
+pagamento do IRPJ na proporção da distribuição dos lucros.
+
+Há também outras regras e condições para o caso de lucros auferidos por coligado no exterior.
+Observe que, em alguns casos, a tributação seguirá o regime de caixa.
+
+                                                                                              12
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+Atente-se às regras previstas na IN SRF 213/2002 para compensação de prejuízos apurados pela
+coligada no exterior.
+
+                                                                                         13
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 756
+
+                                             Administração Geral
+
+Estudo da aula 11, do tópico “Níveis de Detalhamento de Processos” até o final da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244717/aulas
+
+Prosseguindo, iniciamos com um assunto muito cobrado nas provas: os níveis de detalhamento
+dos processos. Faça a leitura e observe o esquema trazido pelo professor.
+
+Sobre os níveis de maturidade, precisamos saber o evidenciado no BPM CBOK 3.0. Esse deve
+estar no sangue. É interessante ainda que tenhamos uma noção da SDPS e do CBOK 2.0, mas o
+principal é mesmo o 3.0.
+                                                         ==219a34==
+
+Prosseguindo, iniciamos o ciclo de vida dos processos. Decore a figura logo no início e entenda
+cada descrição apresentada. Esse assunto é muito recorrente em provas. Temos ainda a visão da
+SDPS, que, de vez em quando, aparece nas provas.
+
+O próximo tópico despenca em provas e é aqui que devemos ter a máxima atenção na aula:
+mapeamento e modelagem de processos, os quais auxiliam a organização a entender seus
+processos. Atenção aos quadros resumindo e fique atento, no início do tópico.
+
+O tópico sobre técnicas de mapeamento e modelagem é o mais importante para nós. Sem
+dúvidas é o que mais cai em questões. Devemos saber os as técnicas e suas principais
+características, pois o mais comum é que sejam dadas as características e perguntem qual técnica
+ou forneçam a técnica e peçam as características. De plano, é importante saber que podem ser
+usadas de forma complementar umas às outras. Além disso, saibam o que é FEPSC.
+
+Basicamente, o professor descreve as características de cada técnica, mostra um exemplo e fornece
+vantagens e desvantagens.
+
+O fluxograma é a principal técnica. Às vezes vemos a cobrança dos símbolos, então tome
+cuidado. Em seguida, outro ponto importante, o BPMN. Aqui, temos que saber o significado das
+notações.
+
+Outros pontos de atenção: Blueprinting; Mapeamento Lean; e Causa e Efeito (despenca em
+prova!);
+
+O levantamento de dados e informações são usadas diversas técnicas. Vamos estudar as 8
+trazidas pelo professor.
+
+                                                                                              14
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+Prosseguindo, temos um assunto muito importante também: melhoria nos processos. Leia com
+atenção e foque no PDCA e Seis Sigma. Chamo a atenção para o brainstorming e Benchmarking,
+presenças certas em questões!
+
+Após, temos que observar a diferença entre reengenharia e redesenho, bem como o que significa
+cada um. No tópico sobre ISO 9000 foque no quadro “fique atento”, logo do início, bem como
+nos princípios apresentados da gestão da qualidade.
+
+No final da aula, temos uma parte que trata de noções de estatística aplicada a processos. São
+conceitos bem básicos de estatística, então, caso você já os tenha estudado em alguma
+oportunidade, pode ir para os exercícios. Caso não, entenda cada conceito apresentado, mas
+somente de forma superficial, não vai cair na sua prova uma questão de estatística e administração!
+
+Por fim, leia os conceitos do BPMS.
+
+Resolva as seguintes questões: 1, 2, 3, 5, 8, 9, 11, 12, 15, 18, 19, 20, 21, 22, 24, 26, 27, 29, 30 e
+32.
+
+                                                                                                 15
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 757
+
+                                            Direito Previdenciário
+
+Estudo da aula 05, do tópico “Procedimento da Retenção” até o final da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244727/aulas
+
+Encerrando a aula 05 nesta tarefa, no item Procedimento da retenção, cuidado!!! Os
+procedimentos a serem adotados pela empresa contratante são diferentes dos procedimentos
+realizados pela empresa contratada.
+
+Dando prosseguimento, atenção à súmula apresentada no item Retenção em empresa optante
+pelo simples nacional:
+
+Cooperativa de Trabalho: não haverá retenção de 11% sobre o valor bruto da nota fiscal emitida
+por cooperativa de trabalho.
+
+A empresa contratante de serviços executados mediante cessão de mão de obra, inclusive em
+regime de trabalho temporário, deverá reter 11% (onze por cento) do valor bruto da nota fiscal
+ou fatura de prestação de serviços e recolher, em nome da empresa cedente da mão de obra, a
+importância retida até o dia 20 (vinte) do mês subsequente ao da emissão da respectiva nota fiscal
+ou fatura, ou até o dia útil imediatamente anterior se não houver expediente bancário naquele dia.
+
+Prossiga a leitura celeremente até chegar ao item Responsabilidade Solidária. Nele, faça uma
+leitura atenta do art. 264 do Código Civil e do art. 124 do Código Tributário Nacional.
+
+Dê ênfase aos itens Responsabilidade Solidária na Construção Civil, Empresas que integram
+grupo econômico e Aferição Indireta na Construção Civil.
+
+                                                                                              16
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 758
+
+                                            Legislação Aduaneira
+
+Revisão da Aula 05; e resolução de 34 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244716/aulas
+
+Revise o conteúdo da Aula 05 utilizando seus grifos. Se preferir, pode utilizar os PDF Marcação
+dos Aprovados, PDF Simplificado ou Mapas Mentais.
+
+Na sequência, resolva as seguintes questões no PDF Original:
+
+- 01 a 12 (ímpares) – Exportação Temporária - Multibancas;
+
+- 01 a 07 (ímpares) – Loja Franca - Multibancas;
+
+- 01 a 03 (ímpares) – Depósito Especial - Multibancas;
+
+- 01 a 04 (ímpares) – Depósito Afiançado - Multibancas;
+
+- 01 a 03 (ímpares) – Depósito Afiançado Certificado - Multibancas;
+
+- 01 a 03 (ímpares) – Depósito Franco - Multibancas;
+
+- 01 a 02 (ímpares) – REPETRO - Multibancas;
+
+- 01 a 02 (ímpares) – REPEX - Multibancas;
+
+- 01 a 02 (ímpares) – REPORTO - Multibancas
+
+- 01 a 02 (ímpares) – RECOM - Multibancas
+
+- 01 a 11 (ímpares) – Zona Franca de Manaus - Multibancas;
+
+- 01 a 03 (ímpares) – Zona de Processamento de Exportações - Multibancas;
+
+- 01 a 05 (ímpares) – Áreas de Livre Comércio - Multibancas;
+
+- 01 a 02 (ímpares) – Amazônia Ocidental - Multibancas;
+
+Lembre-se de resolver as questões pela lista com comentários e, antes de marcar o gabarito, fale
+para você mesmo a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar
+
+                                                                                              17
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+do conteúdo. Depois leia os comentários do professor e melhore seus grifos e resumo no que
+julgar importante para as futuras revisões.
+
+Não esqueça de deixar assinaladas as questões que você errar ou responder com dúvida.
+Voltaremos a elas futuramente.
+
+Feito isso, volte ao seu PDF e verifique a qualidade dos seus grifos para melhorá-los, se for o
+caso.
+
+                                                                                            18
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 759
+
+                                                     Estatística
+
+Resolução de 20 questões de assuntos da aula 05 e 06 no Estratégia Questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244712/aulas
+
+Utilize o link a seguir para resolver as questões de 1 a 20 em nosso Sistema de Questões,
+relacionadas aos assuntos abordados nas aulas 05 e 06: http://questo.es/vi4uzx
+
+Todas as questões foram retiradas de concursos da área fiscal e de controle, aplicadas em provas
+recentes pelas bancas FCC, FGV e CEBRASPE.
+
+Sempre que errar ou tiver dificuldade em resolver uma questão, leia com atenção o comentário ou
+volte a teoria para entender melhor esse ponto. É dedicando atenção aos nossos erros que
+conseguimos melhorar nosso desempenho.
+
+                                                                                             19
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 760
+
+                                           Administração Pública
+
+Estudo da aula 10, de “Conceito de Políticas Públicas” até “Políticas Sociais x
+Macroeconômicas x Administrativas x Específicas”.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244719/aulas
+
+Vamos dar início ao assunto Políticas Públicas.
+
+Inicialmente, entenda os conceitos de Políticas Públicas na visão de vários autores. Não precisa
+decorar todos esses conceitos. É interessante que você perceba que todos eles convergem para
+um mesmo sentido, qual seja, as políticas públicas consistem em um conjunto de decisões, ações
+e atividades que o governo desempenha para alcançar resultados que melhorem a vida dos
+cidadãos.
+
+Entenda o que é um problema público, bem como as Abordagens Estatista x Multicêntrica e
+quem são os atores!
+
+Em seguida, um assunto que despenca em provas: as 3 dimensões da política. Observe o esquema
+trazido pelo professor logo em seguida à explicação. Entenda ainda os 3 tipos de demandas
+existentes.
+
+É importante que você saiba que Política Pública e Decisão Política não são a mesma coisa!
+
+Em seguida, o professor traz diversas classificações das políticas. Não tem jeito, faça um esquema
+com as principais características de cada uma e decore! Elas costumam ser cobradas, então não
+perca esses pontos.
+
+                                                                                              20
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 761
+
+                               Administração de Compras e Materiais
+
+Revisão da aula 03 e resolução de 35 questões do PDF Original.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244723/aulas
+
+Resolva as questões 01 a 35 da aula 03 para verificar a assimilação dos assuntos sobre Conceitos
+de estoques.
+
+Após a resolução das questões, faça uma leitura do resumo com foco nos principais pontos que o
+fizeram errar as questões.
+
+Não se esqueça de marcar as questões que errou ou acertou sem ter certeza, para realizá-las
+novamente em futuras revisões.
+
+                                                                                             21
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 762
+
+                                                        Inglês
+
+Aula 01. Resolução de uma bateria de questões do Estratégia Questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244710/aulas
+
+FAZER o seguinte caderno do EQ com 27 questões:
+
+http://questo.es/zzaa8i
+
+Após resolver todas as questões acima, LEIA todos os comentários dos professores. Anotar as
+palavras que achar necessárias no seu vocabulário particular.
+
+Para finalizar, REMEMORE seu “dicionário particular”.
+
+                                                                                        22
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 763
+
+                                               Fluência de Dados
+
+Estudo da aula 07, de “Mineração de Dados - Contextualização” até “Mineração de Texto
+(Text Mining)”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244722/aulas
+
+Esta aula é sobre Mineração de Dados (Data Mining).
+
+Esse assunto está diretamente relacionado ao processo de explorar grandes quantidades de dados
+em busca de padrões. Atenção! A palavra-chave aqui é padrões.
+
+Leia com atenção a contextualização do professor. Além de interessante, mostra exatamente para
+que serve a mineração de dados e a importância que ela tem na nossa vida. Tente imaginar o que
+isso pode trazer de benefício para a sua área.
+
+Depois de ler a contextualização, tente entender as principais definições de mineração de dados
+e como elas se relacionam e se complementam. Foco maior na definição compilada pelo professor.
+
+É importante destacar que o Data Mining é apenas uma das fases de um processo maior, chamado
+Processo de Descoberta de Conhecimento (KDD, na sigla em inglês). O KDD possui 5 fases que
+são: seleção, pré-processamento, transformação, mineração e interpretação e avaliação. Leia sobre
+cada uma das fases. Porém há divergência entre os autores. Alguns consideram 6 fases: seleção,
+limpeza, enriquecimento, transformação, mineração e exibição de dados.
+
+Conheça os principais objetivos da mineração de dados segundo Navathe: previsão, identificação,
+classificação e otimização.
+
+Na sequência, o professor destaca dois assuntos relacionados a mineração de dados que são
+bastante interessantes, estão em evidência e tendem a aparecer em provas com mais frequência.
+Por isso, vale a pena fazer uma leitura simples, porém atenta sobre Aprendizado de Máquina
+(Machine Learning) e Mineração de Texto (Text Mining).
+
+Responda as questões que aparecerem no decorrer da teoria, destacando sempre as questões que
+errar ou tiver dúvidas.
+
+Pare antes de entrar na seção Técnicas e Tarefas.
+
+                                                                                              23
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 764
+
+                                             Legislação Tributária
+
+Estudo da aula 10, de “Preço de Transferência” até o final da parte teórica.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244720/aulas
+
+Continuando no estudo da última aula sobre IRPJ, entende-se por preço de transferência o
+controle da prática de preços artificiais, distintos dos que são praticados no mercado, estabelecida
+nas relações entre empresas interdependentes (vinculadas) ou, mesmo sem vínculo, quando uma
+delas está sediada em paraíso fiscal. Tal prática objetiva a não incidência do imposto de renda.
+
+Para aplicar o que a legislação dispõe acerca dos preços de transferência, é preciso entender o
+que se considera vinculada à pessoa jurídica domiciliada no Brasil e, portanto, alvo da aplicação
+de tal controle.
+
+Uma prática comum para burlar a incidência do IRPJ é o superfaturamento das importações e o
+subfaturamento das exportações. Para combater isso, a legislação dispôs de um processo para
+controle dessas operações entre pessoas vinculadas.
+
+Entenda, de forma geral, como são os métodos para definição dos limites máximos de
+dedutibilidade em operações de importação.
+
+Veja quando devem ser usados e quais os métodos para determinação de preços de transferência
+em operações de exportação.
+
+Para inibir a remessa de recursos ao exterior provenientes de operações financeiras, a legislação
+listou duas situações que denotam o uso da política de preços artificiais. É preciso conhecer quais
+são esses casos e como o imposto devido é calculado.
+
+Para finalizar o assunto, entraremos em reorganizações societárias. Para começar, revise como
+ficará a responsabilidade pelos tributos nestes casos.
+
+Veja como será apurada a base de cálculo do imposto quando ocorrer essas transformações e a
+regra referente à compensação de prejuízos.
+
+Veja como será amortizado o ágio contabilizado na aquisição de participação societária.
+
+                                                                                                24
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 765
+
+                                             Administração Geral
+
+Resolução de uma bateria de questões sobre o tema Gestão de Processos.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244717/aulas
+
+Para que você treine os conhecimentos adquiridos nesta aula, é hora de realizar uma bateria de
+questões.
+
+Nessa tarefa, é importante que você, ao realizar as questões, marque as que errar ou acertar sem
+ter certeza. Isso porque esses tipos de questões apresentaram uma lacuna no conhecimento, e
+você as acertaria se não existisse tal lacuna. Assim, você precisa marcá-las para refazê-las em futuras
+revisões.
+
+Resolva as questões ainda não resolvidas da aula.
+
+                                                                                                   25
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 766
+
+                                            Direito Previdenciário
+
+Resolução de 40 questões da aula 05.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244727/aulas
+
+Veja rapidamente o resumo ao final do pdf e, em seguida, resolva as questões de 01 a 40 da aula
+05.
+
+Estude as explicações das questões que errar ou tiver quaisquer dúvidas, anotando seu número
+para refazê-las posteriormente.
+
+Caso julgue necessário, faça grifos na teoria da aula e na legislação correspondente, com base nos
+comentários do professor e releia os trechos da aula em que teve dúvidas e/ou dificuldades.
+
+                                                                                              26
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 767
+
+                                            Legislação Aduaneira
+
+Revisão das Aulas 03 a 05.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244716/aulas
+
+Revise o conteúdo da Aulas 03 a 05 resolvendo as questões no link de SQ abaixo:
+
+Link: http://questo.es/j1tdkp
+
+Lembre-se de resolver as questões de forma proativa e, antes de marcar o gabarito, fale para você
+mesmo a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar do
+conteúdo. Depois leia os comentários do professor e melhore seus grifos e resumo no que julgar
+importante para as futuras revisões.
+
+Caso ainda tenha dúvidas, volte aos seus grifos ou PDFs para saná-las! Agora é a hora de ficar
+craque no conteúdo.
+
+                                                                                              27
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 768
+
+                                                     Estatística
+
+Resolução de 20 questões de assuntos da aula 05 e 06 no Estratégia Questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244712/aulas
+
+Utilize o link a seguir para resolver as questões de 21 a 40 em nosso Sistema de Questões,
+relacionadas aos assuntos abordados nas aulas 05 e 06: http://questo.es/vi4uzx
+
+Todas as questões foram retiradas de concursos da área fiscal e de controle, aplicadas em provas
+recentes pelas bancas FCC, FGV e CEBRASPE.
+
+Sempre que errar ou tiver dificuldade em resolver uma questão, leia com atenção o comentário ou
+volte a teoria para entender melhor esse ponto. É dedicando atenção aos nossos erros que
+conseguimos melhorar nosso desempenho.
+
+                                                                                             28
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 769
+
+                                           Administração Pública
+
+Estudo da aula 10, de “Conceito de Políticas Públicas” até o final da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244719/aulas
+
+Prosseguindo no estudo da aula, vamos estudar o ciclo de políticas públicas, caracterizado como
+um esquema de visualização e interpretação que organiza a vida de uma política pública em fases
+sequenciais e interdependentes. Ou seja, as políticas públicas são compostas por diversas “fases”
+sequenciais e interdependentes. Contudo, vale dizer que as fases podem ocorrer ao mesmo tempo
+(se misturarem e ficarem sobrepostas umas às outras) ou até mesmo em uma “ordem” diferente.
+
+Observe que vários autores citam diferentes ciclos, mas todos convergem para uma mesma ideia:
+agenda-formulação-decisão-implementação-avaliação.
+
+Você precisa saber o seguinte sobre cada um:
+
+1) Agenda: seria a lista de temas ou problemas que são alvo em dado momento de séria atenção,
+tanto por parte das autoridades governamentais como de pessoas fora do governo, mas
+estreitamente associada às autoridades. Saiba os tipos de agenda e quais são os 3 fluxos.
+
+2) Formulação: são estabelecidos os objetivos e selecionadas as soluções (dentre as alternativas
+disponíveis) que resolverão os problemas de forma mais eficiente, eficaz e efetiva. É interessante
+você saber a visão do IPEA sobre o assunto. Após, também é necessário saber os modelos de
+formulação, trazidos no quadro pelo professor.
+
+3) Tomada de Decisão: é a fase em que os agentes políticos escolhem (dentre as alternativas
+disponíveis) aquela alternativa que eles entendem ser a melhor solução para o problema. Atenção,
+pois os modelos de tomada de decisão são muito cobrados, então precisamos saber bem os
+quatro.
+
+4) Implementação: etapa em que a política pública é “retirada do papel”. Ou seja, é nessa fase
+que os planos e as decisões são colocados em prática. Como não podia deixar de ser, temos dois
+modelos de implementação para entendermos seus conceitos.
+
+5) Avaliação: processo de julgamentos deliberados sobre a validade de propostas para a ação
+pública, bem como sobre o sucesso ou a falha de projetos que foram colocados em prática. Um
+dos principais objetivos da avaliação das políticas públicas é fornecer as informações necessárias à
+tomada de decisões, para que os gestores possam tomar as melhores decisões e,
+consequentemente, a qualidade das políticas públicas seja aprimorada. Saiba diferenciar a
+avaliação do monitoramento!
+
+
+                                                                                                29
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+Agora, o professor traz os diversos tipos de avaliação e você precisa conhecê-los muito bem, pois
+são muito cobrados em questões de prova.
+
+O tópico Critérios, Indicadores e Padrões deve ser lido na íntegra. Em seguida, entenda a diferença
+entre os métodos quantitativos e qualitativos.
+
+Após, a ACB e ACE são muito cobradas em provas. Vamos ler com bastante atenção, entendendo
+a diferença entre as duas análises. Por fim, podemos fazer a leitura até o final da aula, mas sem se
+ater a nenhum detalhe.
+
+                                                                                                30
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 770
+
+                               Administração de Compras e Materiais
+
+Revisão da aula 03 e resolução de 34 questões do PDF Original.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244723/aulas
+
+Resolva as questões 36 a 69 da aula 03 para verificar a assimilação dos assuntos sobre Conceitos
+de estoques.
+
+Após a resolução das questões, faça uma leitura do resumo com foco nos principais pontos que o
+fizeram errar as questões.
+
+Não se esqueça de marcar as questões que errou ou acertou sem ter certeza, para realizá-las
+novamente em futuras revisões.
+
+                                                                                             31
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 771
+
+                                                        Inglês
+
+Estudo da aula 02, “Adjetivos” até “Prefixos e Sufixos”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244710/aulas
+
+ESTUDAR o tópico: “adjective”, são palavras que qualificam o sujeito da oração. A leitura neste
+ponto, inicialmente, pode ser feita sem se preocupar em gravar conceitos. SAIBA QUE os mesmos
+são invariáveis em inglês, não mudam para singular, plural, masculino ou feminino, mas podem ser
+simples ou compostos.
+
+SAIBA AINDA quando o artigo “the” for seguido de um adjetivo, ele se referirá a um determinado
+conjunto de pessoas que possuem uma determinada característica. Ex.: “the dead - os mortos”.
+Podem ser formados pela terminação “ING” ou “ED”. Dê ATENÇÃO redobrada aos adjetivos
+irregulares, certamente são os que você fatalmente vai sentir necessidade de anotar no seu
+dicionário particular. Há ainda um QUADRO RESUMO ao final do tópico IMPORTANTE
+(comparativo de superioridade e superlativo), é frequente em provas de concurso.
+
+ESTUDAR na sequência “adverb” que é o tema gramatical mais IMPORTANTE da aula, pois
+geralmente ele pode mudar o sentido do VERBO, do adjetivo ou de outro advérbio (ou qualificar).
+Assim, conhecê-los vai fazer diferença na prova. Regra geral os advérbios são formados a partir de
+adjetivos, aos quais é somado o sufixo “-ly”, mas existem os irregulares. ATENÇÃO especial às
+classificações. Não é necessário SABER classificar para prova, e sim, conhecer o significado deles
+no contexto. ATENÇÃO a TODOS os quadros-resumo do tópico (GRAVE TODAS as palavras e
+significados nele). OBSERVE a diferença entre: hard (muito) x hardly (quase não).
+
+ESTUDAR ainda “prefixos e sufixos”, faça uma leitura ATENTA. Provavelmente serão necessárias
+algumas anotações em seu dicionário particular. O tema é simples e provavelmente não haverá
+grandes dificuldades, mas EXIGE ATENÇÃO e muitas REMEMORAÇÕES, pois, “ao fim do cabo”
+podem mudar o significado da palavra.
+
+Prefixos muito comuns: DIS - negação (ex: Disloyal / desleal - Loyal), UN - negação (ex: Uncertain /
+incerto - Certain), IN - não (ex: Incapable / incapaz - Capable), IM - não (ex: Impossible /impossível
+- Possible), IL - não (ex: Illegal / ilegal - Legal) e IR - não (ex: Irrational / irracional - Rational). Sufixos
+muito comuns: EST (indicativo de superlativo), ABLE (funciona como o VEL em português), LY
+(terminação similar ao MENTE em português), TION (substituto de ÇÃO em português), FUL
+(significado de estar “cheio” de alguma coisa), LESS (“ausência” de algo), TY (sentido de DADE
+em português). ATENÇÃO ainda aos sufixos ING, LESS e NESS.
+
+                                                                                                             32
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                                  TAREFA 772
+
+                                               Fluência de Dados
+
+Estudo da aula 07, de “Técnicas e Tarefas” até o final da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244722/aulas
+
+Preste bastante atenção agora, pois as técnicas (tarefas) de mineração de dados são muito
+cobradas pelas bancas. Estude com atenção os conceitos de associação, classificação e
+agrupamento (clustering). Reserve um tempo maior aqui. Leia, releia e anote os principais pontos.
+Veja a seguir alguns destaques sobre as técnicas de mineração.
+
+A aula detalha várias técnicas. Muitas delas possuem pouca incidência em provas e não vale a
+apena entrar no detalhe agora. Portanto, leia rapidamente as que o professor classificou como
+“Incidência Baixíssima”. Não se prenda a elas, apenas pegue a ideia geral.
+
+Observe que a Classificação consiste em examinar as características de um objeto recém
+apresentado e atribuí-lo a um dos conjuntos predefinidos de classes, ou seja, as etiquetas já estão
+definidas.
+
+Ainda dentro de Classificação, entenda a ideia geral das Árvores de Decisão e das Redes Neurais.
+Uma leitura dinâmica é o suficiente.
+
+Na Regressão, o objetivo é prever um número em vez de prever uma categoria.
+
+A Associação também é cobrada com frequência, observe que geralmente elas estão no formato
+se [algo acontecer], então [algo acontecerá]. As variações da associação também são importantes:
+Padrões Sequenciais e Padrões Temporais.
+
+No Agrupamento, diferentemente da Classificação, as etiquetas das classes não estão definidas. É
+um aprendizado não supervisionado, pois as classes não são conhecidas. Essa diferença entre
+Agrupamento e Classificação é bastante cobrada.
+
+                                                                                               33
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+O CRISP-DM é um modelo-referência não proprietário para mineração de dados. Entenda
+principalmente qual o objetivo desse modelo e decore pelo menos o nome das suas 6 fases:
+
+Responda as questões que aparecerem no decorrer da teoria, destacando sempre as questões que
+errar ou tiver dúvidas.
+
+Pare antes de entrar na seção Resumo.
+
+                                                                                         34
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+                                    DICA ESTRATÉGICA
+DICA ESTRATÉGICA 43: 7 Hábitos para Estudar para Concursos em Alto Rendimento – (Parte
+4 - Final)
+
+Pessoal, finalizando o nosso bate-papo sobre os 7 hábitos para estudar para concursos em alto
+rendimento, hoje, falaremos a respeito de alguns importantes pontos retomando os hábitos
+estudados nas últimas semana. Vamos lá...
+
+                                               NÃO SE SUBESTIME!
+
+Para obter alta performance em um concurso público, por exemplo, você precisa entender e parar
+de subestimar o processo de aprendizagem de um conhecimento novo.
+
+Entenda que tudo é uma questão de processo, ou seja, leva tempo para se chegar em um
+determinado lugar. Logo, o concurseiro precisa focar em seus objetivos, tendo em mente que o
+caminho não é fácil. Haverá pedras neste caminho (e muitas), mas, com certeza, a aprovação vale
+muito a pena! A peça chave é a resiliência e a persistência no objetivo almejado.
+
+O principal ponto a ser destacado para a obtenção de um rendimento significativo em nossos
+estudos é, inicialmente, trabalhar com a nossa realidade, reconhecer que a meta pretendida só se
+adquire com disciplina e, muitas vezes, a médio/longo prazo. Pode ser que apareça a vontade de
+desistir, bata o cansaço, etc. (e vai aparecer), no entanto, lembrando que tudo é questão de
+processo, devemos permanecer firmes rumo ao objetivo final – a APROVAÇÃO.
+
+ A alta performance está no foco daquilo que você controla. Lembre-se sempre de ter o controle
+sobre os seus estudos e o gerenciamento do seu tempo – tempo de dedicação –, só você pode
+controlar a sua preparação.
+
+                                     Controle o seu ambiente de estudos!
+
+                                             Controle o seu material!
+
+                                              Controle a sua mente!
+
+                                          Controle o seu planejamento!
+
+Para um maior entendimento destas questões, gostamos de citar como exemplo os atletas de alto
+rendimento, eles praticam atividades físicas de caráter competitivo, não somente com seus
+concorrentes, mas, principalmente, consigo mesmos, com o objetivo de alavancar seu
+desempenho.
+
+                                                                                             35
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 43
+
+É desta maneira que um aluno deve pensar e agir, não só pensando na concorrência, mas na sua
+própria evolução como concurseiro.
+
+A tão almejada aprovação em concurso público não se adquire através de atalhos. Assim como os
+atletas, devemos treinar, superar nossos limites, competir quantas vezes forem necessárias e
+aprender com as vitórias e também com as derrotas.
+
+Lembrem-se:
+
+"Quando DESISTIR não for uma opção, o SUCESSO é inevitável."
+
+Abraços e bons estudos!! 😉
+
+Mas você também pode me encontrar ↴
+
+Newsletter ☛ https://gleslermaldonado.substack.com
+
+Telegram ☛ 
+
+                    “Quando desistir não for uma opção, o sucesso é inevitável”
+
+                                                                           Glesler Maldonado
+
+                                                                                               36
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 43
+
+ 1. As Trilhas Estratégicas são meras sugestões de estudo com base em determinado objetivo
+    (área de concurso, concurso específico ou perfil). O aluno deve ficar livre para que possa
+    segui-la à risca ou fazer adaptações para o seu próprio estilo e rotina de estudo.
+ 2. Os professores do Estratégia, ao elaborarem os seus materiais, possuem o objetivo de
+    ensinar todo o conteúdo exigido pelo edital programático do concurso, além de estabelecer
+    uma sequência ideal de estudo do ponto de vista pedagógico e considerando que o aluno
+    terá tempo de estudar todo o seu material.
+ 3. Já os coaches, ao elaborarem as Trilhas Estratégicas, possuem o objetivo de fazer o aluno
+    estudar o conteúdo de acordo com um determinado custo x benefício, porém muitas vezes
+    fugindo da recomendação didática de estudo proposta pelos professores para que os
+    alunos possam fazer um estudo direcionado.
+ 4. Como dizemos sempre: o ideal é estudar todos os assuntos, revisar tudo, fazer muitos
+    exercícios de todos os assuntos e chegar na prova bom em todos os assuntos também.
+    Entretanto, são poucos aqueles alunos que dispõem de tempo para isso!
+ 5. Nosso objetivo aqui é sugerir uma sequência de estudos baseada na experiência de
+    coaches aprovados em diversos concursos para que possamos dar orientações e maiores
+    chances de aprovação aos alunos.
+
+                                                                                           37
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

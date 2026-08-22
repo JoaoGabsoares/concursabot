@@ -1,0 +1,1271 @@
+               RESUMO DE DIREITO CONSTITUCIONAL
+
+
+Controle de Constitucionalidade
+
+  ● Controle de Constitucionalidade: consiste na aferição da validade das normas
+
+     face à Constituição. Tem como pressupostos:
+
+        ○ existência de uma Constituição escrita e rígida e;
+
+        ○ existência de um mecanismo de fiscalização das leis, com previsão de, pelo
+
+           menos, um órgão com competência para o exercício da atividade de
+
+           controle.
+
+
+Excepcionalmente,      a   doutrina     reconhece         a     existência   de   controle   de
+
+constitucionalidade em Estados que adotam uma Constituição flexível, desde que
+
+haja vício formal na elaboração da norma.
+
+
+Teoria da Nulidade x Teoria da Anulabilidade:
+
+
+
+Teoria da Nulidade                               Teoria da Anulabilidade
+
+
+Doutrina norte-americano                         Doutrina austríaca
+
+
+Declaração de inconstitucionalidade Declaração de inconstitucionalidade
+afeta o plano da validade           afeta o plano da eficácia
+
+
+A lei declarada inconstitucional é nula          A lei declarada inconstitucional é
+                                                 anulável
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+Efeitos retroativos (“ex tunc”)                   Efeitos prospectivos (“ex nunc”)
+
+
+Natureza declaratória da decisão                  Natureza constitutiva da decisão
+
+
+No Brasil, adota-se a teoria da nulidade, com mitigações. O STF, ao declarar a
+
+inconstitucionalidade de lei, pode modular os efeitos da decisão por razões de
+
+segurança jurídica ou de excepcional interesse social.
+
+
+Espécies de Inconstitucionalidade:
+
+
+   ● Inconstitucionalidade por ação x Inconstitucionalidade por omissão:
+
+
+Na inconstitucionalidade por ação, o desrespeito à Constituição resulta de uma
+
+conduta positiva de um órgão estatal. Na inconstitucionalidade por omissão, por sua
+
+vez, verifica-se a inércia do legislador frente a um dispositivo constitucional carente de
+
+regulamentação por lei.
+
+
+   ● Inconstitucionalidade material x Inconstitucionalidade formal:
+
+
+A inconstitucionalidade material (ou nomoestática) ocorre quando o conteúdo da lei
+
+contraria a Constituição. A inconstitucionalidade formal (ou nomodinâmica), por sua
+
+vez, caracteriza-se pelo desrespeito ao processo de elaboração da norma.
+
+
+   ● Inconstitucionalidade total x Inconstitucionalidade parcial:
+
+
+A inconstitucionalidade total fica caracterizada quando o ato normativo for
+
+considerado,    em    sua    totalidade,      incompatível       com   a   Constituição.   A
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+inconstitucionalidade parcial, por sua vez, ocorrerá quando apenas parte do ato
+
+normativo for considerada inválida.
+
+
+O Poder Judiciário pode declarar a inconstitucionalidade parcial de fração de artigo,
+
+parágrafo, inciso, alínea ou até mesmo sobre uma única palavra ou expressão do ato
+
+normativo (Princípio da parcelaridade).
+
+
+   ● inconstitucionalidade direta x Inconstitucionalidade indireta:
+
+
+Quando um ato normativo primário violar a Constituição, estaremos diante de uma
+
+inconstitucionalidade direta. Por outro lado, quando um ato normativo secundário
+
+(como, por exemplo, um decreto) violar a Constituição, estaremos diante de uma
+
+inconstitucionalidade indireta (reflexa).
+
+
+O STF só reconhece a existência de inconstitucionalidade direta. Para a Corte, quando
+
+um ato normativo secundário viola o texto constitucional, há um vício de legalidade.
+
+
+Pode-se afirmar que, no Brasil, há uma única possibilidade de inconstitucionalidade
+
+indireta: a inconstitucionalidade “por arrastamento” (derivada, consequencial ou “por
+
+atração”).
+
+
+   ● Inconstitucionalidade originária x Inconstitucionalidade superveniente:
+
+
+Quando a norma-parâmetro for anterior à norma objeto da impugnação, estaremos
+
+diante   de   uma   inconstitucionalidade        originária.     Por   outro   lado,   quando   a
+
+norma-parâmetro for posterior à norma objeto da impugnação, será caso de
+
+inconstitucionalidade superveniente.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Segundo o STF, o ordenamento jurídico brasileiro não admite a inconstitucionalidade
+
+superveniente. Quando uma nova Constituição é promulgada, ela revoga ou
+
+recepciona as leis que estiverem em vigor.
+
+
+Sistemas de controle de constitucionalidade:
+
+
+São 3 (três) tipos de sistemas de controle:
+
+
+   ● Controle judicial: O Poder Judiciário detém competência para declarar a
+
+      inconstitucionalidade das leis
+
+   ● Controle político: O controle de constitucionalidade é realizado por órgão
+
+      político, desprovido de natureza jurisdicional.
+
+   ● Controle misto: O controle de constitucionalidade de certas normas cabe ao
+
+      Poder Judiciário; outras normas têm sua constitucionalidade aferida por órgão
+
+      político.
+
+
+No Brasil, o sistema é preponderantemente judicial, embora existam alguns controles
+
+políticos.
+
+
+   ● Momentos de controle: O controle de constitucionalidade pode ser preventivo
+
+      (quando incide sobre a norma em fase de elaboração) ou repressivo (quando
+
+      incide sobre norma pronta e acabada).
+
+   ● Controle político-preventivo: É realizado pelo Poder Legislativo e pelo Poder
+
+      Executivo, incidindo sobre a norma em fase de elaboração. O controle preventivo
+
+      feito pelo Poder Legislativo é o que acontece nas Comissões de Constituição e
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+     Justiça. O Poder Executivo realiza o controle preventivo por meio do veto jurídico
+
+     a um projeto de lei.
+
+  ● Controle judicial-preventivo: É o realizado por meio de mandado de segurança
+
+     impetrado por parlamentar no STF, com o objetivo de ver respeitado o seu direito
+
+     ao devido processo legislativo. Há 2 (duas) possibilidades:
+
+        ○ mandado segurança contra projeto de lei que desrespeita o processo
+
+           legislativo constitucional e;
+
+        ○ mandado de segurança contra PEC que viola cláusula pétrea ou que
+
+           desrespeita o processo legislativo constitucional.
+
+
+  ● Controle político-repressivo: É realizado pelo Poder Legislativo e pelo Poder
+
+     Executivo, incidindo sobre normas prontas e acabadas. São 3 (três) situações
+
+     diferentes reconhecidas pela doutrina:
+
+        ○ O Congresso Nacional pode sustar os atos normativo do Poder Executivo
+
+           que exorbitem do poder regulamentar ou dos limites da delegação
+
+           legislativa (art. 49, V).
+
+        ○ O    Congresso      Nacional pode rejeitar uma medida provisória com
+
+           fundamento em inconstitucionalidade.
+
+        ○ O Presidente da República pode deixar de aplicar uma lei por considerá-la
+
+           inconstitucional.
+
+
+A Súmula STF nº 347 estabelece que “o Tribunal de Contas, no exercício de suas
+
+atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público”.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+Trata-se de um controle incidental de constitucionalidade, isto é, realizado diante de
+
+um caso concreto.
+
+
+     ● Controle judicial-repressivo: É o mais comum. Ocorre quando o Poder Judiciário
+
+       declara a inconstitucionalidade de uma norma já pronta e acabada.
+
+     ● Modelos de controle: Há 3 (três) modelos de controle: controle difuso, controle
+
+       concentrado e controle misto.
+
+     ● Controle difuso: realizado por qualquer juiz ou Tribunal do país (modelo
+
+       americano).
+
+     ● Controle concentrado: é realizado por um único órgão jurisdicional ou por um
+
+       número bastante limitado de órgãos (modelo europeu).
+
+     ● Controle misto: É o que se adota no Brasil, havendo a possibilidade de que o
+
+       Poder Judiciário atue de forma concentrada ou difusa.
+
+     ● Vias de controle: As normas podem ser impugnadas na via incidental e na via
+
+       principal.
+
+
+No controle incidental, a aferição de constitucionalidade se dá diante de uma lide, um
+
+caso concreto em que uma das partes requer a declaração de inconstitucionalidade de
+
+uma lei. A aferição da constitucionalidade não é o objeto principal do pedido, mas
+
+apenas um incidente do processo, um meio para se resolver a lide.
+
+
+No    controle pela via principal (abstrata ou de ação direta), a aferição da
+
+constitucionalidade é o pedido principal do autor, é a razão do processo. O autor
+
+requer, nesse caso, que determinada lei tenha sua constitucionalidade aferida a fim de
+
+resguardar o ordenamento jurídico.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+   ● Controle Difuso: É realizado por qualquer juiz ou Tribunal do país. Ocorre diante
+
+      de um caso concreto, em que a declaração de inconstitucionalidade se dá de
+
+      modo incidental, como antecedente lógico ao exame do mérito.
+
+   ● Legitimação ativa: São legitimados ativos todas as partes do processo e
+
+      eventuais terceiros intervenientes no processo, bem como o Ministério Público,
+
+      que atua como fiscal da lei. Além disso, o Poder Judiciário pode declarar de ofício
+
+      a inconstitucionalidade da lei, afastando sua aplicação ao caso concreto.
+
+   ● Objeto: Qualquer lei ou ato normativo (federal, estadual, distrital ou municipal)
+
+      poderá ser objeto do controle difuso de constitucionalidade.
+
+   ● Parâmetro de controle: Qualquer norma constitucional que estivesse em vigor
+
+      no momento da edição do ato normativo questionado.
+
+   ● Controle difuso nos Tribunais: O juiz monocrático (singular) pode declarar a
+
+      inconstitucionalidade de lei ou ato normativo. No entanto, quando a declaração
+
+      de inconstitucionalidade é feita por Tribunal, há que se observar a cláusula de
+
+      reserva de plenário (art. 97, CF/88).
+
+
+Art. 97. Somente pelo voto da maioria absoluta de seus membros ou dos membros do
+
+respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei
+
+ou ato normativo do Poder Público.
+
+
+Como regra geral, os órgãos fracionários de Tribunais não podem declarar a
+
+inconstitucionalidade das leis.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+Mitigações à reserva de plenário:
+
+
+  ● Os órgãos fracionários podem declarar a constitucionalidade de lei ou ato
+
+     normativo;
+
+  ● Quando o órgão especial, o Plenário do Tribunal ou o Plenário do STF já tiverem
+
+     declarado a inconstitucionalidade de lei ou ato normativo, o órgão fracionário
+
+     poderá, ele próprio, declarar a inconstitucionalidade da norma;
+
+  ● Não se aplica a cláusula de reserva de plenário à resolução de problemas de
+
+     direito intertemporal (juízo de recepção ou revogação) e;
+
+  ● Não se aplica a cláusula de reserva de plenário quando é utilizada a técnica de
+
+     “interpretação conforme a Constituição”.
+
+
+Súmula Vinculante no 10: “Viola a cláusula de reserva de plenário (CF, artigo 97) a
+
+decisão de órgão fracionário de tribunal que, embora não declare expressamente a
+
+inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência,
+
+no todo ou em parte”.
+
+
+  ● Efeitos da decisão: No controle difuso, a declaração de inconstitucionalidade
+
+     têm efeitos inter partes e não vinculante. Quanto ao aspecto temporal, a
+
+     declaração de inconstitucionalidade no controle difuso produz efeitos “ex tunc”
+
+     (efeitos retroativos).
+
+
+Há uma possibilidade excepcional em que decisão no controle difuso terá efeitos erga
+
+omnes e vinculante: reversão de jurisprudência do STF. É o que acontece quando
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+decisão do STF em sede de RE ou Reclamação Constitucional substitui anterior decisão
+
+em ADI.
+
+
+É possível a modulação dos efeitos temporais de decisão em sede de controle difuso.
+
+Assim, a declaração de inconstitucionalidade poderá ter efeitos prospectivos (“ex
+
+nunc”). O STF também admite a modulação dos efeitos temporais por ocasião da
+
+declaração de não-recepção de uma lei.
+
+
+   ● Atuação do Senado Federal: O Senado Federal tem competência para
+
+      suspender a execução, no todo ou em parte, de lei declarada inconstitucional por
+
+      decisão definitiva do STF (art. 52, X).
+
+
+O ato de suspensão da execução de lei é de natureza política e, portanto, discricionário.
+
+Não há prazo para atuação do Senado Federal.
+
+
+O Senado Federal poderá suspender qualquer lei declarada inconstitucional pelo STF,
+
+seja ela uma lei federal, estadual, distrital ou municipal.
+
+
+A deliberação do Senado Federal acerca da suspensão de lei declarada inconstitucional
+
+pelo STF é irretratável.
+
+
+O Senado Federal, ao suspender a execução de lei, não poderá ampliar, restringir ou
+
+interpretar a decisão do STF.
+
+
+Súmulas Vinculantes: O STF poderá, de ofício ou por provocação, mediante decisão de
+
+2/3 (dois terços) dos seus membros, após reiteradas decisões sobre matéria
+
+constitucional, aprovar súmula vinculante. A súmula vinculante irá obrigar todos os
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+demais órgãos do Poder Judiciário e a Administração Pública, em todos os níveis
+
+federativos. Sua validade é a partir da data de publicação na imprensa oficial.
+
+
+As SVs não vinculam o STF, o Poder Legislativo (no exercício de sua função típica de
+
+legislar) e o Poder Executivo (no exercício de sua função atípica de legislar). A não
+
+vinculação da atividade legislativa existe para evitar a “fossilização constitucional”.
+
+
+Podem propor a edição, a revisão ou o cancelamento de enunciado de súmula
+
+vinculante os mesmos legitimados para propor ADI (art. 103, CF/88). Além deles, podem
+
+propor a edição, revisão ou cancelamento de súmula vinculante:
+
+
+   ● o STF;
+
+   ● o Defensor Público-Geral da União;
+
+   ● os Tribunais do Poder Judiciário e;
+
+   ● os Municípios, no curso de um processo em que sejam parte.
+
+
+A proposta de edição, revisão ou cancelamento de enunciado de súmula vinculante
+
+não autoriza a suspensão dos processos em que se discuta a mesma questão (art. 6o,
+
+Lei no 11.417/2006).
+
+
+Por razões de segurança jurídica ou de excepcional interesse público, o STF poderá, por
+
+decisão de 2/3 dos seus membros, restringir os efeitos da Súmula Vinculante ou decidir
+
+que ela só terá eficácia a partir de outro momento.
+
+
+Caso seja praticado ato administrativo ou proferida decisão judicial que contrarie os
+
+termos da súmula, a parte prejudicada poderá intentar reclamação diretamente
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+perante o STF. Ao julgar procedente o pedido de reclamação, o STF anulará o ato
+
+administrativo ou cassará a decisão judicial impugnada.
+
+
+Ação Direta de Inconstitucionalidade (ADI):
+
+
+   ● Origem: Foi criada pela EC no 16/65, que alterou a Constituição de 1946.
+
+   ● Competência: O STF tem competência para processar e julgar, originariamente,
+
+      a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual
+
+      em face da Constituição Federal.
+
+   ● Parâmetro de controle: Servem de parâmetro para o controle via ADI todas as
+
+      normas constitucionais, implícitas ou explícitas. Os tratados internacionais de
+
+      direitos humanos aprovados pelo rito das emendas constitucionais também
+
+      servem como parâmetro de controle, uma vez que integram o “bloco de
+
+      constitucionalidade”.
+
+
+Não podem ser parâmetro de controle por meio de ADI: o Preâmbulo, as normas do
+
+ADCT com eficácia exaurida e as normas das Constituições pretéritas.
+
+
+Alteração do parâmetro de controle:
+
+
+1ª situação: ADI é proposta e, posteriormente, o parâmetro constitucional invocado é
+
+revogado ou sofre alteração substancial. A ADI será conhecida, avaliando-se a
+
+constitucionalidade da norma frente ao parâmetro constitucional em vigor quando da
+
+propositura da ação.
+
+
+2ª situação: ADI é proposta com o objetivo de se declarar a inconstitucionalidade de lei
+
+face a parâmetro constitucional já revogado. A ADI nem mesmo será conhecida.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+  ● Objeto de controle: A ADI tem como objeto a aferição da validade de lei ou ato
+
+     normativo federal ou estadual editados posteriormente à promulgação da CF/88.
+
+  ● Podem ser objeto de ADI:
+
+        ○ espécies normativas do art. 59, CF/88;
+
+        ○ decretos autônomos;
+
+        ○ tratados internacionais;
+
+        ○ regimentos internos dos Tribunais e das Casas Legislativas;
+
+        ○ Constituições e leis estaduais.
+
+  ● Não podem ser objeto de ADI:
+
+        ○ normas constitucionais originárias;
+
+        ○ leis e atos normativos revogados ou com eficácia exaurida;
+
+        ○ direito pré-constitucional;
+
+        ○ súmulas e súmulas vinculantes; e
+
+        ○ atos normativos secundários.
+
+  ● Segundo o STF, os atos de efeitos concretos não podem ser objeto de ADI, salvo
+
+     se forem aprovados sob a forma de lei em sentido estrito.
+
+
+Leis municipais não podem ser objeto de ADI perante o STF. Leis distritais editadas no
+
+exercício de competência municipal também não podem ser objeto de ADI no STF.
+
+
+  ● Legitimados Ativos:
+
+
+Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+
+
+constitucionalidade:
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+I - o Presidente da República;
+
+
+II - a Mesa do Senado Federal;
+
+
+III - a Mesa da Câmara dos Deputados;
+
+
+IV - a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;
+
+
+V - o Governador de Estado ou do Distrito Federal;
+
+
+VI - o Procurador-Geral da República;
+
+
+VII - o Conselho Federal da Ordem dos Advogados do Brasil;
+
+
+VIII - partido político com representação no Congresso Nacional;
+
+
+IX - confederação sindical ou entidade de classe de âmbito nacional.
+
+
+Segundo o STF, a aferição da legitimidade do partido político para propor a ADI deve
+
+ser feita no momento da propositura da ação. Assim, a perda superveniente de
+
+representação do partido no Congresso Nacional não irá prejudicar a ADI.
+
+
+Dentre todos os legitimados do art. 103, CF/88, apenas dois necessitam de advogado
+
+para a propositura da ação:
+
+
+   ● partido político com representação no Congresso Nacional e
+
+   ● confederação sindical ou entidade de classe de âmbito nacional.
+
+
+São legitimados especiais e, portanto, precisam demonstrar pertinência temática:
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+     ● o Governador de Estado e do DF;
+
+     ● Mesa de Assembleia Legislativa ou da Câmara Legislativa do DF e;
+
+     ● confederação sindical e entidade de classe de âmbito nacional.
+
+
+Processo e julgamento da ADI:
+
+
+     ● Petição inicial e princípio do pedido:
+
+
+A petição inicial em ADI deverá indicar:
+
+
+     ● o dispositivo da lei ou do ato normativo impugnado e os fundamentos jurídicos
+
+          do pedido em relação a cada uma das impugnações e;
+
+     ● o pedido, com suas especificações. Assim, o interessado deverá indicar, na
+
+          petição   inicial,   o    pedido      (declaração        de   inconstitucionalidade)   e   a
+
+          fundamentação jurídica do pedido.
+
+
+O STF está vinculado ao pedido feito pelo interessado, ou seja, somente irá examinar a
+
+constitucionalidade dos dispositivos indicados na petição inicial. O STF não está
+
+vinculado à causa de pedir. A ADI tem causa de pedir aberta.
+
+
+Se    o    pedido   em     ADI     se   limitar    única     e    exclusivamente à declaração de
+
+inconstitucionalidade formal, não poderá o STF apreciar a constitucionalidade material
+
+da lei ou ato normativo (ADI 2182).
+
+
+A declaração de inconstitucionalidade “por arrastamento” é uma exceção ao princípio
+
+do pedido.
+
+
+
+
+                                   https://t.me/KakashiAssinaturasBot
+Não se admite desistência em ADI, uma vez que se trata de processo objetivo, que
+
+visa resguardar a integridade do ordenamento jurídico.
+
+
+   ● Intervenção de terceiros e “amicus curiae”: Não se admite intervenção de
+
+      terceiros no processo de ADI. Por outro lado, pode ser admitida a participação de
+
+      “amicus curiae” em ADI.
+
+
+O “amicus curiae”, em regra, não pode recorrer nos processos de controle de
+
+constitucionalidade. Não poderá, nem mesmo, opor embargos de declaração. Só há
+
+uma possibilidade de o “amicus curiae” apresentar recurso: quando o Ministro Relator
+
+indefere a sua participação no processo.
+
+
+O STF admite a participação do “amicus curiae” em qualquer uma das ações do
+
+controle concentrado-abstrato de constitucionalidade (ADI, ADC, ADO e ADPF). O
+
+“amicus curiae” poderá colaborar mediante entrega de documentos, pareceres e,
+
+ainda, por meio de sustentação oral.
+
+
+   ● Atuação do AGU e PGR: O AGU e o PGR deverão se manifestar no âmbito de
+
+      uma ADI. No processo de ADI, o AGU atua, em regra, em defesa da
+
+      constitucionalidade da norma impugnada. O PGR, por sua vez, deve opinar com
+
+      independência, segundo sua livre convicção jurídica.
+
+
+Segundo o STF, o AGU não está obrigado a defender tese jurídica se a Corte já tiver
+
+fixado o seu entendimento pela inconstitucionalidade da norma.
+
+
+Segundo o STF, quando o interesse do autor da ação estiver em consonância com o
+
+interesse da União, o AGU não precisa defender a constitucionalidade da norma.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+    ● Medida cautelar em ADI: A medida cautelar é concedida por decisão da maioria
+
+      absoluta dos membros do STF (seis votos), devendo estar presentes na sessão,
+
+      pelo menos, oito Ministros (quórum de presença). Tendo em vista a relevância da
+
+      matéria e seu significado especial para a ordem social e a segurança jurídica, o
+
+      relator poderá propor ao Plenário que converta o julgamento da medida cautelar
+
+      em julgamento definitivo de mérito.
+
+
+Efeitos da concessão da cautelar:
+
+
+Efeitos prospectivos (“ex nunc”). Excepcionalmente, o STF poderá conceder-lhe
+
+efeitos retroativos (“ex tunc”).
+
+
+Eficácia geral (“erga omnes”) e efeito vinculante em relação aos demais órgãos do
+
+Poder Judiciário e à Administração Pública direta e indireta, nas esferas federal,
+
+estadual e municipal.
+
+
+Efeito repristinatório: A norma impugnada fica suspensa até o julgamento de mérito.
+
+Com a suspensão da norma impugnada, a legislação anterior, acaso existente, torna-se
+
+aplicável. É possível que o STF afaste o efeito repristinatório indesejado, em virtude de
+
+pedido expresso do autor da ADI.
+
+
+Suspensão do julgamento de todos os processos que envolvam a aplicação da lei
+
+ou ato normativo objeto da ação.
+
+
+O   indeferimento     de   medida      cautelar     não     significa   que   foi   reconhecida   a
+
+constitucionalidade da lei ou ato normativo impugnado.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+   ● Imprescritibilidade:   Não     há    prazo     prescricional   ou decadencial para a
+
+      propositura da ADI.
+
+   ● Deliberação: A decisão de mérito em ADI está sujeita a 2 (dois) quóruns: quórum
+
+      de presença (8 Ministros) e quórum de votação (maioria absoluta – 6 Ministros).
+
+   ● Natureza dúplice (ou ambivalente). Se a ADI for julgada procedente, a lei será
+
+      declarada inconstitucional. Se a ADI for julgada improcedente, a lei será
+
+      declarada constitucional.
+
+
+      Efeitos da decisão em ADI: A decisão de mérito em ADI é definitiva / irrecorrível,
+
+      ressalvada a oposição de embargos declaratórios. Também não cabe ação
+
+      rescisória contra decisão proferida em sede de ADI. Os efeitos da decisão em
+
+      sede de ADI são os seguintes:
+
+
+   ● Efeitos retroativos (“ex tunc”): Adota-se a teoria da nulidade. A lei será
+
+      considerada inconstitucional desde sua origem. O STF, por decisão de 2/3 (dois
+
+      terços) dos seus membros, poderá realizar a modulação dos efeitos temporais da
+
+      sentença, por razões de segurança jurídica ou excepcional interesse social.
+
+
+É cabível o ajuizamento de embargos declaratórios com o objetivo de promover a
+
+modulação dos efeitos temporais. Para que os embargos sejam acolhidos, exige-se,
+
+todavia, que a modulação dos efeitos tenha sido requerida na petição inicial.
+
+
+Eficácia “erga omnes”.
+
+
+   ● Efeito vinculante. A decisão definitiva de mérito proferida pelo STF em ADI terá
+
+      efeito vinculante em relação aos demais órgãos do Poder Judiciário e à
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+     Administração Pública direta e indireta, nas esferas federal, estadual e municipal.
+
+  ● Efeito   repristinatório.    Quando uma lei ou ato normativo é declarado
+
+     inconstitucional em sede de ADI, a legislação anterior (acaso existente) voltará a
+
+     ser aplicável. O STF poderá afastar o efeito repristinatório indesejado.
+
+
+Ação Direta de Inconstitucionalidade por Omissão (ADO):
+
+
+  ● Objetivo: A ADO tem como objetivo garantir a efetividade das normas
+
+     constitucionais, impedindo a inércia do órgão encarregado de elaborar a norma
+
+     regulamentadora de dispositivo constitucional não-autoaplicável. A ADO não se
+
+     restringe à omissão legislativa, alcançando também omissões administrativas.
+
+  ● ADO x Mandado de injunção: O mandado de injunção é utilizado para combater
+
+     omissões inconstitucionais diante de um caso concreto. A ADO é utilizado para
+
+     combater omissões inconstitucionais em tese, em abstrato.
+
+  ● Legitimados ativos: São exatamente os mesmos legitimados a propor ADI (art.
+
+     103, CF/88). Não se admite que a própria autoridade responsável pela omissão
+
+     ingresse com ADI.
+
+  ● Legitimados passivos: São os órgãos ou autoridades omissas. Deve-se observar,
+
+     no caso concreto, a quem cabia a iniciativa de lei. Caso o Poder Legislativo não
+
+     disponha de iniciativa sobre determinada matéria, não poderá ser imputada a ele
+
+     a omissão.
+
+  ● Objeto: Por meio de ADO, podem ser impugnadas omissões de órgãos federais e
+
+     estaduais em face da CF/88. Também podem ser impugnadas omissões de
+
+     órgãos do DF quanto às suas competências estaduais. Por outro lado, não
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+      podem ser impugnadas, via ADO, omissões de órgãos municipais ou omissões de
+
+      órgãos do DF relativas às competências municipais.
+
+
+A   ADO    pode    ser   utilizada para combater omissões legislativas e omissões
+
+administrativas.
+
+
+Segundo o STF, a inércia na deliberação das Casas Legislativas pode ser objeto de ADO.
+
+
+A omissão impugnada pode ser total ou parcial.
+
+
+    ● Atuação do AGU / PGR: Não é obrigatória a participação do AGU em ADO.
+
+      Todavia, o Ministro Relator poderá solicitar a manifestação do Advogado-Geral da
+
+      União (AGU), que deverá ser encaminhada no prazo de 15 (quinze) dias. Na ADO, o
+
+      PGR deverá sempre se manifestar, segundo sua livre convicção jurídica.
+
+    ● Medida cautelar em ADO: O STF poderá conceder medida cautelar em ADO por
+
+      decisão da maioria absoluta de seus membros, presentes à sessão de julgamento
+
+      pelo menos 8 (oito) Ministros.
+
+
+A medida cautelar poderá consistir em:
+
+
+    ● suspensão da aplicação da lei ou do ato normativo questionado, no caso de
+
+      omissão parcial;
+
+    ● suspensão de processos judiciais ou processos administrativos e;
+
+    ● outra providência fixada pelo Tribunal.
+
+
+Efeitos da decisão:
+
+
+Há 2 (duas) situações diferentes:
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+   ● Em caso de omissão de um do Poderes do Estado: o STF dará ciência ao Poder
+
+      competente para a adoção das providências necessárias.
+
+   ● Em caso de omissão imputável a órgão administrativo: o STF notificará o órgão
+
+      para que adote as providências necessárias em 30 (trinta) dias a partir da ciência
+
+      da decisão ou em outro prazo razoável a ser estipulado pelo Tribunal, tendo em
+
+      vista as circunstâncias específicas do caso e o interesse público envolvido.
+
+
+Ação Declaratória de Constitucionalidade (ADC):
+
+
+   ● Origens: A ADC foi introduzida no ordenamento jurídico brasileiro pela EC no
+
+      03/93. Por meio da ADC, busca-se transformar a presunção relativa de
+
+      constitucionalidade das leis em presunção absoluta.
+
+   ● Legitimados ativos: A EC no 45/2004 ampliou o rol de legitimados a propor ADC.
+
+      Os legitimados a propor ADC estão relacionados no art. 103, CF/88.
+
+   ● Objeto: Podem ser objeto de ADC as leis e atos normativos federais.
+
+
+A existência de controvérsia judicial relevante é requisito essencial para que a ADC seja
+
+conhecida pelo STF.
+
+
+Em um mesmo processo de controle concentrado submetido ao STF, é possível que
+
+haja cumulação de pedidos típicos de ADI e ADC.
+
+
+   ● Não-atuação do AGU: Não há participação do AGU no processo de ADC. O PGR,
+
+      por sua vez, irá obrigatoriamente se manifestar no âmbito de ADC.
+
+   ● Medida cautelar em ADC: O STF poderá deferir pedido de medida cautelar em
+
+      sede de ADC, por maioria absoluta dos seus membros. A medida cautelar em
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+      ADC consistirá na determinação de que os juízes e tribunais suspendam o
+
+      julgamento dos processos que envolvam a aplicação da lei ou do ato normativo
+
+      objeto da ação até que esta seja julgada em definitivo pelo STF.
+
+   ● Impossibilidade de desistência: Não se admite a desistência de ADC já
+
+      proposta.
+
+   ● Intervenção de terceiros e “amicus curiae”: Não é admitida a intervenção de
+
+      terceiros em ADC. É, contudo, admitida a figura do “amicus curiae”.
+
+   ● Efeitos da decisão: As decisões definitivas de mérito em sede de ADC produzirão
+
+      eficácia “erga omnes” e efeito vinculante. Os efeitos da decisão serão retroativos
+
+      (“ex tunc”), admitindo-se a modulação dos efeitos temporais quando ocorrer a
+
+      declaração de inconstitucionalidade.
+
+
+A ADC é uma ação de natureza dúplice (ou ambivalente)
+
+
+A decisão definitiva de mérito em sede de ADC é irrecorrível, ressalvada a oposição de
+
+embargos declaratórios. A decisão em sede de ADC não pode ser objeto de ação
+
+rescisória.
+
+
+Arguição de Descumprimento de Preceito Fundamental (ADPF):
+
+
+   ● Previsão constitucional: Segundo o art. 102, § 1, CF/88, “a arguição de
+
+      descumprimento de preceito fundamental, decorrente desta Constituição, será
+
+      apreciada pelo Supremo Tribunal Federal, na forma da lei”. Trata-se de norma de
+
+      eficácia limitada, que foi regulamentada pela Lei no 9.882/99.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+  ● Parâmetro de Controle: São parâmetro de controle em ADPF os “preceitos
+
+     fundamentais”. Cabe ao STF identificar quais normas devem ser consideradas
+
+     preceitos fundamentais. O STF já se manifestou reconhecendo que são preceitos
+
+     fundamentais:
+
+        ○ os direitos e garantias individuais;
+
+        ○ as cláusulas pétreas;
+
+        ○ os princípios constitucionais sensíveis (art. 34, VII); iv) o direito à saúde e;
+
+        ○ o direito ao meio ambiente.
+
+
+Na ADPF, o parâmetro de controle é mais restrito, pois nem todas as normas
+
+constitucionais se enquadram como preceitos fundamentais.
+
+
+  ● Legitimados ativos: Podem propor ADPF os mesmos legitimados ativos da ADI,
+
+     da ADO e da ADC, arrolados no art. 103, CF/88.
+
+  ● Subsidiariedade: A ADPF tem caráter subsidiário, ou seja, não será admitida
+
+     arguição de descumprimento de preceito fundamental quando houver qualquer
+
+     outro meio eficaz para sanar a lesividade.
+
+
+O caráter subsidiário da ADPF deve ser interpretado apenas dentro do contexto das
+
+ações de controle concentrado. Dessa forma, a possibilidade de enfrentamento de uma
+
+questão por meio de recurso extraordinário não exclui a admissibilidade de ADPF.
+
+
+  ● Objeto: A ADPF é cabível diante de: i) leis ou atos normativos anteriores à
+
+     Constituição; ii) leis e atos normativos municipais; iii) interpretações judiciais
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+      violadoras de preceitos fundamentais e; iv) direito pós-constitucional já revogado
+
+      ou de efeitos exauridos.
+
+
+Não cabe ADPF contra súmula vinculante.
+
+
+Não cabe ADPF contra veto do Chefe do Poder Executivo.
+
+
+   ● Medida liminar: Por decisão da maioria absoluta de seus membros, o STF poderá
+
+      deferir pedido de medida liminar em ADPF.
+
+   ● Amicus curiae: O Ministro Relator poderá admitir a participação de “amicus
+
+      curiae” em ADPF.
+
+   ● Princípio da fungibilidade: A ADI e a ADPF são consideradas ações fungíveis, o
+
+      que significa que uma pode ser substituída pela outra. Em razão disso, uma
+
+      ADPF ajuizada perante o STF poderá ser conhecida como ADI. Da mesma forma,
+
+      uma ADI poderá ser conhecida como ADPF.
+
+   ● Efeitos da decisão: A decisão definitiva de mérito em ADPF será tomada por
+
+      maioria absoluta dos membros do STF, presentes 2/3 dos Ministros.
+
+
+A decisão proferida em ADPF terá eficácia “erga omnes” e efeito vinculante.
+
+
+A decisão proferida em ADPF terá efeitos retroativos (“ex tunc”).
+
+
+A decisão em sede de ADPF é irrecorrível e não está sujeita a ação rescisória.
+
+
+A decisão de mérito em ADPF produz efeitos imediatos, independentemente da
+
+publicação do acórdão.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Por razões de segurança jurídica ou de excepcional interesse social, o STF poderá, por
+
+maioria de 2/3 (dois terços) de seus membros, restringir os efeitos daquela declaração
+
+ou decidir que ela só tenha efeito a partir de seu trânsito em julgado ou de outro
+
+momento que venha a ser fixado.
+
+
+  ● Controle de constitucionalidade estadual: Segundo o art. 125, § 2o, CF/88,
+
+     compete ao Estados a instituição de representação de inconstitucionalidade de
+
+     leis ou atos normativos estaduais ou municipais em face da Constituição
+
+     estadual.
+
+  ● Objeto: O controle abstrato de constitucionalidade estadual somente tem por
+
+     objeto leis estaduais ou municipais, face à Constituição Estadual.
+
+  ● Competência: O controle de constitucionalidade abstrato estadual é exercido
+
+     exclusivamente pelo TJ local (o art. 125, § 2o, CF).
+
+  ● Legitimados ativos: Cabe às Constituições Estaduais definir os legitimados a
+
+     propor ADI ou ADC perante o TJ local. A CF/88 proibiu que essa atribuição fosse
+
+     dada a um único órgão.
+
+  ● Parâmetro de controle: Todas as normas da Constituição Estadual podem servir
+
+     como parâmetro de controle, o que inclui:
+
+        ○ normas de observância obrigatória;
+
+        ○ normas de mera repetição e;
+
+        ○ normas específicas da Constituição Estadual.
+
+
+O STF admite, em situação excepcional, que o Tribunal de Justiça realize controle
+
+abstrato de constitucionalidade tendo como parâmetro a Constituição Federal. Isso
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+será possível quando a norma da Constituição Federal que servirá como parâmetro for
+
+de reprodução obrigatória pelas Constituições Estaduais.
+
+
+   ● O duplo controle de constitucionalidade:
+
+
+No caso de ajuizamento das ações ao mesmo tempo, deverá ocorrer a suspensão do
+
+processo na Justiça Estadual, até a deliberação do Supremo. Teremos, então, duas
+
+possibilidades:
+
+
+   ● O STF poderá considerar a norma inconstitucional, o que fará com que a outra
+
+      ADI, interposta na Justiça Estadual, perca seu objeto.
+
+   ● O STF poderá decidir pela constitucionalidade da norma. Nesse caso, o Tribunal
+
+      de     Justiça,   havendo     fundamento          diverso    que   justifique   a   possível
+
+      inconstitucionalidade da norma perante a Constituição do Estado, poderá
+
+      continuar o julgamento da ADI estadual. Caso o julgamento não ocorra
+
+      simultaneamente, há duas possibilidades:
+
+           ○ Se a lei for declarada inconstitucional pelo Tribunal de Justiça, será
+
+             expurgada do ordenamento jurídico, não havendo que se falar em controle
+
+             perante o STF.
+
+           ○ Se a lei tiver sua constitucionalidade declarada pelo Tribunal de Justiça,
+
+             poderá ser ajuizada ADI perante o STF. Nesse caso, a Corte poderá vir a
+
+             considerá-la inconstitucional, tendo sua decisão prevalência sobre a coisa
+
+             julgada estadual.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+É cabível recurso extraordinário para o STF contra decisão do Tribunal de Justiça,
+
+quando o parâmetro constitucional for norma de reprodução obrigatória pelos
+
+Estados-membros.
+
+
+A decisão do STF nesse recurso extraordinário terá os mesmos efeitos de uma ADI
+
+genérica: eficácia
+
+
+“erga omnes” e efeitos “ex tunc” e vinculante. Também será possível a modulação
+
+temporal dos efeitos da decisão.
+
+
+“Estado de coisas inconstitucional”
+
+
+   ● Na ADPF no 347/DF, o STF reconheceu a existência do “estado de coisas
+
+      inconstitucional” no sistema penitenciário brasileiro em virtude das graves,
+
+      generalizadas e sistemáticas violações dos direitos humanos da população
+
+      carcerária.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+

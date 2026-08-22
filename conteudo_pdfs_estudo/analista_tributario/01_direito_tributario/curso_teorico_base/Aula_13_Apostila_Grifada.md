@@ -1,0 +1,2735 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 13_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Índice
+artigos_citados:
+- Art. 156.
+- Art. 201.
+- Art. 208.
+- art. 1
+- art. 1.º
+- art. 167
+- art. 198
+- art. 83
+sumulas_citadas:
+- Súmula 323
+- Súmula 392
+- Súmula 436
+- Súmula 446
+- Súmula Vinculante 24
+---
+
+# Índice
+
+Índice
+1) Administração Tributária - Aspectos Gerais
+
+
+2) Fiscalização
+
+
+3) Dívida Ativa
+
+
+4) Certidões Negativas
+
+
+5) Disposições Finais e Transitórias
+
+
+6) Questões Comentadas - Administração Tributária - FGV
+
+
+7) Lista de Questões - Administração Tributária - FGV
+
+                                                                                                                                                                                          2
+                                                                                                                                                                                         65
+
+
+---
+
+                      ADMINISTRAÇÃO TRIBUTÁRIA
+A partir do art. 194, o CTN cuidou do tema “Administração Tributária”. Foram estabelecidas algumas regras
+para nortear os procedimentos a serem adotados pelos órgãos e agentes fazendários.
+
+Conforme foi visto no início do nosso curso, os tributos são a principal fonte de receita do Estado. É por isso
+que a administração tributária é, em termos simples, a sustentação do Estado, conforme está previsto no
+art. 37, XXII, da CF/88:
+
+        XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e dos
+        Municípios, atividades essenciais ao funcionamento do Estado, exercidas por servidores de
+        carreiras específicas, terão recursos prioritários para a realização de suas atividades e
+        atuarão de forma integrada, inclusive com o compartilhamento de cadastros e de
+        informações fiscais, na forma da lei ou convênio.
+
+Destaque-se que, em compatibilidade com a previsão acima, no sentido de que as administrações tributárias
+terão recursos prioritários, o art. 167, IV, da própria CF/88, permitiu a excepcional vinculação da receita dos
+impostos para realização das atividades da administração tributária.
+
+Em suma, o que nos importa nesse momento é saber que o CTN dividiu o tema em três capítulos, quais
+sejam: Fiscalização, Dívida Ativa e Certidões Negativas.
+
+Vamos estudar cada um deles a partir de agora!
+
+                                                                                                             3
+                                                                                                            55
+
+
+---
+
+Fiscalização
+       O capítulo que trata da ﬁscalização diz respeito aos poderes e deveres das autoridades
+administrativas. Também trata das restrições quanto à divulgação de informações relativas à
+situação econômica dos contribuintes.
+
+Poderes das autoridades administrativas
+      Em primeiro lugar, cabe relembrar que o CTN é uma norma geral em matéria tributária.
+Por conseguinte, há outras regras atinentes à ﬁscalização tributária, previstas em leis ordinárias de
+cada ente federativo.
+       Sendo assim, em cada esfera, podem ser criadas normas regulamentando as prerrogativas
+das autoridades ﬁscais a ela vinculadas. Tais normas podem ser tanto em caráter geral,
+aplicando-se à ﬁscalização de todos os tributos de competência do ente, ou em caráter especial,
+aplicando-se a um tributo especiﬁcamente.
+      Vejamos o que estabelece o art. 194 do CTN:
+
+        Art. 194. A legislação tributária, observado o disposto nesta Lei, regulará, em
+        caráter geral, ou especiﬁcamente em função da natureza do tributo de que se
+        tratar, a competência e os poderes das autoridades administrativas em matéria
+        de ﬁscalização da sua aplicação.
+
+        Parágrafo único. A legislação a que se refere este artigo aplica-se às pessoas
+        naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade
+        tributária ou de isenção de caráter pessoal.
+
+       Neste ponto, é muito importante que o aluno perceba que, ainda que o contribuinte
+esteja imune ou isento, deve ser ﬁscalizado. Isso ocorre porque a imunidade e a isenção
+exoneram o contribuinte da obrigação de pagar, mas não da possibilidade de vir a ser
+ﬁscalizado.
+       Ademais, há casos de imunidade ou isenção em que o contribuinte ﬁca sujeito a alguns
+requisitos, e só há um meio de veriﬁcar se estão sendo realmente cumpridos: ﬁscalização.
+      Nesse rumo, o art. 195 dispõe sobre os poderes das autoridades ﬁscais:
+
+        Art. 195. Para os efeitos da legislação tributária, não têm aplicação quaisquer
+        disposições legais excludentes ou limitativas do direito de examinar mercadorias,
+        livros, arquivos, documentos, papéis e efeitos comerciais ou ﬁscais, dos
+        comerciantes industriais ou produtores, ou da obrigação destes de exibi-los.
+
+       Sendo assim, as autoridades ﬁscais têm o direito de examinar os livros, arquivos e
+documentos do sujeito passivo, e este tem o dever de exibi-los, ainda que haja lei excluindo ou
+limitando essa prerrogativa ﬁscal. É claro que a ﬁscalização deve se limitar ao objeto da
+investigação, conforme se extrai do entendimento sumulado do STF:
+
+     Súmula STF 439 - Estão sujeitos a ﬁscalização tributária ou previdenciária quaisquer
+     livros comerciais, limitado o exame aos pontos objeto da investigação.
+
+
+---
+
+       Repare que o STF deixa claro que quaisquer livros comerciais estão submetidos à
+ﬁscalização tributária ou previdenciária. O que isso quer dizer? Ora, até mesmo aqueles livros que
+não são de escrituração obrigatória (não constituem obrigações acessórias) submetem-se ao
+exame do Fisco.
+      Relativamente aos livros obrigatórios de escrituração comercial e ﬁscal e aos
+comprovantes dos lançamentos neles efetuados, o par. único do art. 195, do CTN, assevera que
+devem ser conservados até que ocorra a prescrição dos créditos tributários decorrentes das
+operações a que se reﬁram.
+       Tenha muito cuidado em relação a esse dispositivo. O legislador não previu um prazo ﬁxo
+(5 anos, por exemplo), até porque o prazo prescricional, como foi visto no nosso curso, está
+submetido à interrupção, hipótese em que é reiniciado. Sendo assim, o prazo para ocorrer a
+prescrição do crédito tributário pode ser bastante superior aos 5 anos.
+
+       Conservação de livros obrigatórios e comprovantes de lançamentos = até ocorrer
+       prescrição.
+
+      De qualquer modo, é sempre importante ter em mente que os poderes das autoridades
+administrativas não são ilimitados. No caso do exame dos livros comerciais, vimos que o STF
+entende que o exame ﬁca limitado ao ponto objeto da investigação. Seguindo raciocínio
+semelhante, a autoridade ﬁscal também não pode apreender as mercadorias do sujeito passivo
+como meio coercitivo para pagamento dos tributos. Vejamos a redação da Súmula 323 do STF:
+
+     Súmula STF 323 - É inadmissível a apreensão de mercadorias como meio coercitivo
+     para pagamento de tributos.
+
+Retornando nossa análise sobre o Código Tributário Nacional, o art. 197 prevê que a autoridade
+ﬁscal tem a prerrogativa de requisitar informações a terceiros, no interesse da ﬁscalização,
+conforme se expõe a seguir:
+
+       Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade
+       administrativa todas as informações de que disponham com relação aos bens,
+       negócios ou atividades de terceiros:
+
+       I - os tabeliães, escrivães e demais serventuários de ofício;
+
+       II - os bancos, casas bancárias, Caixas Econômicas e demais instituições
+       ﬁnanceiras;
+
+       III - as empresas de administração de bens;
+
+       IV - os corretores, leiloeiros e despachantes oﬁciais;
+
+
+---
+
+        V - os inventariantes;
+
+        VI - os síndicos, comissários e liquidatários;
+
+        VII - quaisquer outras entidades ou pessoas que a lei designe, em razão de seu
+        cargo, ofício, função, ministério, atividade ou proﬁssão.
+
+        Parágrafo único. A obrigação prevista neste artigo não abrange a prestação de
+        informações quanto a fatos sobre os quais o informante esteja legalmente
+        obrigado a observar segredo em razão de cargo, ofício, função, ministério,
+        atividade ou proﬁssão.
+
+      Deve ﬁcar claro que não são apenas as pessoas listadas no art. 197 do CTN que estão
+obrigadas a prestar informações ao Fisco. Veja que o inciso VII abrange quaisquer outras pessoas
+ou entidades que a lei designe. O objetivo é abranger todas as pessoas que, de alguma forma,
+possam ter conhecimento de informações necessárias à atividade de ﬁscalização.
+       Fica ressalvado, no entanto, os casos em que a lei reguladora da proﬁssão determine o
+dever de sigilo. Por exemplo, o advogado, impedido de prestar informações relativas aos seus
+clientes, em decorrência da lei regulamentadora da sua proﬁssão, não ﬁca obrigado a fornecê-las
+diante da intimação recebida.
+Acrescentamos que, com vistas a tornar mais especíﬁca a obrigação de prestar informações, de
+forma a ampliar e facilitar a busca patrimonial por parte da Fazenda Pública, em relação a sujeitos
+passivos de créditos tributários, foram acrescidos ao art. 198, os §§ 4º e 5º, pela LC 208/2024:
+
+        Art. 198. (...)
+        § 4º Sem prejuízo do disposto no art. 197, a administração tributária poderá
+        requisitar informações cadastrais e patrimoniais de sujeito passivo de crédito
+        tributário a órgãos ou entidades, públicos ou privados, que, inclusive por
+        obrigação legal, operem cadastros e registros ou controlem operações de bens e
+        direitos.
+        § 5º Independentemente da requisição prevista no § 4º deste artigo, os órgãos e
+        as entidades da administração pública direta e indireta de qualquer dos Poderes
+        colaborarão com a administração tributária visando ao compartilhamento de
+        bases de dados de natureza cadastral e patrimonial de seus administrados e
+        supervisionados."
+
+O § 4º, do art. 198, menciona a "requisição de informações cadastrais e patrimoniais", seja de órgãos
+ou entidades públicos e privados. O referido parágrafo foi incluído no art. 198, por este ter relação com o
+sigilo fiscal das informações econômicas e financeiras dos sujeitos passivos.
+Por exemplo, imagine que a Receita Federal ou mesmo a Procuradoria da Fazenda Nacional deseje realizar
+busca patrimonial de um sujeito passivo contra quem foi ou será lavrado auto de infração e que nessa
+situação, o Fisco deseje saber se o contribuinte possui algum imóvel. Para entender melhor, é possível que
+uma pessoa tenha um contrato de compra de imóvel, mas que este ainda não tenha sido registrado em seu
+nome. A previsão legal confere poder para requisitar informações a entidades públicas ou
+privadas para situações similares a esta.
+
+
+---
+
+Ademais, o § 5º menciona que, mesmo sem a requisição supracitada, os órgãos e as entidades da
+administração pública direta e indireta de qualquer dos Poderes deverão colaborar com a administração
+tributária, com o compartilhamento de bases de dados de natureza cadastral e patrimonial de seus
+administrados e supervisionados.
+Veja que o § 5º é direcionado aos órgãos públicos. Para ilustrar tal situação, pense que o Fisco federal
+poderá ter acesso aos dados cadastrais nos sistemas públicos municipais. Isso facilitar a atuação da Fazenda
+na busca patrimonial.
+Vale destacar que a previsão do CTN é genérica, ou seja, aplicável a qualquer esfera da administração
+tributária (federal, estadual, distrital ou municipal).
+
+        A Fazenda Pública pode requisitar informações de órgãos e entidades, públicos ou
+        privados.
+        Os órgãos e as entidades da administração pública direta e indireta de qualquer dos
+        Poderes colaborarão com a administração tributária visando ao compartilhamento de
+        bases de dados de natureza cadastral e patrimonial de seus administrados e
+        supervisionados (mesmo que sem a requisição).
+
+       No que concerne à possibilidade de a autoridade ﬁscal requisitar informações protegidas
+por sigilo bancário (art. 197, II), com o advento da LC 105/2001, foi previsto o seguinte:
+
+        Art. 6º As autoridades e os agentes ﬁscais tributários da União, dos Estados, do
+        Distrito Federal e dos Municípios somente poderão examinar documentos, livros
+        e registros de instituições ﬁnanceiras, inclusive os referentes a contas de
+        depósitos e aplicações ﬁnanceiras, quando houver processo administrativo
+        instaurado ou procedimento ﬁscal em curso e tais exames sejam considerados
+        indispensáveis pela autoridade administrativa competente.
+
+       O tema foi recorrentemente submetido ao STF, questionando-se a constitucionalidade do
+dispositivo da LC 105/2001, que garante o acesso do Fisco aos dados bancários,
+independentemente de autorização judicial. A alegação era a de que o referido dispositivo
+contrariava o art. 5º, incisos X (princípio da inviolabilidade da intimidade, da vida privada, da
+honra e da imagem das pessoas) e XII (princípio da inviolabilidade do sigilo da correspondência e
+das comunicações telegráﬁcas, de dados e das comunicações telefônicas), da CF/88.
+      Tal tema é objeto de forte controvérsia jurisprudencial ao longo de anos. O STF já chegou
+a decidir que não se coaduna com os preceitos da CF/88 norma legal que atribua à autoridade
+administrativa, que constitui uma das partes na relação jurídico-tributária (sujeito ativo), o
+afastamento do sigilo dos dados referentes ao sujeito passivo.
+       Somente em fevereiro de 2016, o STF pôs ﬁm às controvérsias. A Suprema Corte concluiu
+o julgamento de um conjunto de cinco processos (RE 601.314 e ADIs 2859, 2390, 2386 e 2397)
+que questionavam dispositivos da LC 105/01. Por maioria de votos, prevaleceu o entendimento
+
+
+---
+
+de que a previsão da referida lei complementar não resulta em quebra de sigilo bancário, mas,
+sim, na transferência de sigilo da órbita bancária para a ﬁscal, ambas protegidas contra o acesso
+de terceiros. A transferência de informações é feita dos bancos ao Fisco, que tem o dever de
+preservar o sigilo dos dados, portanto não há ofensa à Constituição Federal.
+
+        De acordo com a jurisprudência do STF, as autoridades ﬁscais podem requisitar
+        aos bancos as informações ﬁnanceiras dos contribuintes, sem prévia autorização
+        judicial.
+
+      Prezado aluno(a), repare que não estamos falando de divulgação das informações
+protegidas pelo sigilo bancário, mas, sim, do acesso às informações pertinentes ao processo
+administrativo ﬁscal instaurado contra o sujeito passivo, sem ordem judicial para tanto.
+      Destaque-se que, a autoridade administrativa também possui o poder de requisitar (e não
+apenas solicitar) o auxílio da força pública, ou seja, das autoridades policiais, quando vítimas de
+embaraço ou desacato no exercício de suas funções, ou quando necessário à efetivação de
+medida prevista na legislação aduaneira (CTN, art. 200). Isso se aplica, mesmo que o obstáculo
+imposto pelo sujeito passivo não se conﬁgure fato deﬁnido em lei como crime ou contravenção.
+      Outro detalhe previsto no art. 200 do CTN é o fato de a autoridade ﬁscal poder requisitar
+a força pública vinculada a outro ente federado. Por exemplo, o Auditor-Fiscal da Receita
+Federal, embora esteja vinculado à União, pode requisitar a Polícia Militar, órgão vinculado a
+determinado estado-membro.
+
+        Observação: Lembre-se de que a administração fazendária e seus servidores
+        ﬁscais têm, dentro de suas áreas de competência e jurisdição, precedência sobre
+        os demais setores administrativos, na forma da lei (CF/88, art. 37, XVIII).
+
+       Entretanto, cabe destacar que o acesso ao estabelecimento do contribuinte nem sempre é
+possível, já que devem ser levadas em consideração as garantias individuais, previstas no art. 5º,
+XI, da CF/88 (inviolabilidade domiciliar).
+       Citamos, abaixo, as palavras do ilustre Leandro Paulsen a respeito desse assunto
+(grifamos):
+
+     O STF tem entendido que, inobstante a prerrogativa do Fisco de solicitar e analisar documentos, os agentes fiscais só
+     podem ingressar em escritório de empresa quando autorizados (pelo proprietário, gerente ou preposto). Em caso de
+     recusa, não podem os agentes simplesmente requerer auxílio de força policial, eis que,
+     forte na garantia de inviolabilidade do domicílio, oponível também ao Fisco, a medida
+     dependerá de autorização judicial.
+
+     (PAULSEN, Leandro. Direito tributário: Constituição e Código Tributário à luz da doutrina e da jurisprudência. 16 Ed. Pág.
+     1391)
+
+
+---
+
+       A autoridade responsável pela ﬁscalização é sempre a ﬁscal, e não a policial.
+
+Deveres das autoridades administrativas
+Termo de Início de Fiscalização
+       No que se refere à atividade de ﬁscalização, o CTN não só previu prerrogativas à
+autoridade administrativa, como também estabeleceu alguns deveres. O primeiro deles é o dever
+de lavrar o Termo de Início de Fiscalização.
+      Vamos ver o que está previsto no art. 196 do CTN:
+
+       Art. 196. A autoridade administrativa que proceder ou presidir a quaisquer
+       diligências de ﬁscalização lavrará os termos necessários para que se documente
+       o início do procedimento, na forma da legislação aplicável, que ﬁxará prazo
+       máximo para a conclusão daquelas.
+
+       Parágrafo único. Os termos a que se refere este artigo serão lavrados, sempre
+       que possível, em um dos livros ﬁscais exibidos; quando lavrados em separado
+       deles se entregará, à pessoa sujeita à ﬁscalização, cópia autenticada pela
+       autoridade a que se refere este artigo.
+
+      Basicamente, o Termo de Início de Fiscalização possui três efeitos relevantes: determina a
+data inicial para contagem do prazo máximo para conclusão das diligências, antecipa a
+contagem do prazo decadencial e afasta a espontaneidade do sujeito passivo.
+
+        O Termo de Início de Fiscalização estabelece a data em que a atividade ﬁscalizatória teve
+início. Com isso, é possível ﬁxar o prazo máximo para a conclusão das diligências de ﬁscalização.
+
+       Ademais, nós aprendemos que a regra geral de contagem do prazo decadencial ocorre no
+primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado,
+correto?
+
+        Vimos também que, se entre a data do fato gerador e o primeiro dia do exercício
+seguinte, houver a notiﬁcação do sujeito passivo de qualquer procedimento de ﬁscalização,
+antecipa-se o início da contagem do prazo decadencial para este dia (data do Termo de Início de
+Fiscalização). Este é, portanto, o segundo efeito da lavratura do referido termo.
+
+       Responda-me, então: sempre há antecipação do prazo de contagem do prazo
+decadencial? Não! Se o procedimento de ﬁscalização for iniciado após o primeiro dia do
+exercício seguinte à data do fato gerador, o prazo decadencial já teria iniciado o seu curso, não
+havendo qualquer impacto na sua contagem.
+
+
+---
+
+       Se a notiﬁcação do início de procedimento ﬁscal ocorrer após o “primeiro dia do
+       exercício seguinte”, não haverá impacto sobre o curso do prazo decadencial.
+
+      O terceiro efeito está relacionado ao estudo da responsabilidade tributária. Você se
+lembra de quando estudamos a denúncia espontânea? Naquele momento, foi dito que o sujeito
+passivo só ﬁca livre das penalidades se agir espontaneamente, antes de qualquer procedimento
+de ﬁscalização.
+
+      Sendo assim, lavrado o Termo de Início de Fiscalização, o sujeito passivo perde o direito à
+denúncia espontânea, tornando-se responsável pelos tributos devidos bem como pelas
+penalidades cabíveis.
+
+       Em relação às formalidades do termo ora estudado, o par. único do art. 196 estabelece
+que, sempre que possível, deve ser lavrado em algum dos livros obrigatórios da pessoa
+ﬁscalizada. Se tal medida não se ﬁzer possível, lavra-se o termo em papel separado, entregando
+cópia autenticada ao sujeito passivo.
+
+O dever de sigilo por parte da autoridade administrativa
+      No exercício da atividade de ﬁscalização, a autoridade administrativa obtém as
+informações necessárias para efetuar o lançamento tributário. A maioria dessas informações está
+
+
+---
+
+relacionada à situação econômica do sujeito passivo, motivo pelo qual a autoridade ﬁscal tem o
+dever de mantê-las em sigilo. Trata-se do sigilo ﬁscal.
+       Se não houvesse tal sigilo, uma empresa em crise ﬁnanceira, por exemplo, teria sua
+situação ainda mais agravada à medida que os seus fornecedores e clientes tomassem
+conhecimento das suas condições ﬁnanceiras.
+      Vejamos o que diz o caput do art. 198 do CTN:
+
+       Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação,
+       por parte da Fazenda Pública ou de seus servidores, de informação obtida em
+       razão do ofício sobre a situação econômica ou ﬁnanceira do sujeito passivo ou de
+       terceiros e sobre a natureza e o estado de seus negócios ou atividades.
+
+       Observação: Pela redação do art. 198, não se proíbe a divulgação de
+       informações cadastrais, mas, sim, daquelas que retratem a situação econômica
+       ou ﬁnanceira e a natureza e o estado de seus negócios.
+
+      Destaque-se que o CTN previu duas possibilidades em que, embora seja mantido o sigilo
+das informações, é possível transferi-las a outros órgãos, do Poder Judiciário ou da própria
+administração pública:
+
+       Art. 198 - (...):
+
+       § 1o Excetuam-se do disposto neste artigo, além dos casos previstos no art. 199,
+       os seguintes: (Redação dada pela Lcp nº 104, de 10.1.2001)
+
+       I – requisição de autoridade judiciária no interesse da justiça; (Incluído pela Lcp
+       nº 104, de 10.1.2001)
+
+       II – solicitações de autoridade administrativa no interesse da Administração
+       Pública, desde que seja comprovada a instauração regular de processo
+       administrativo, no órgão ou na entidade respectiva, com o objetivo de investigar
+       o sujeito passivo a que se refere a informação, por prática de infração
+       administrativa. (Incluído pela Lcp nº 104, de 10.1.2001)
+
+        Desse modo, o juiz pode requisitar as informações de que o Fisco dispõe para instruir
+processos judiciais, sejam eles de natureza civil ou penal. A requisição é feita no interesse da
+justiça.
+       Destaque-se que as Comissões Parlamentares de Inquérito (CPIs) também podem solicitar
+informações ao Fisco, já que a CF/88 conferiu àquelas poderes de investigação próprios das
+autoridades judiciais (CF/88, art. 58, § 3º).
+        No que se refere às solicitações administrativas, a transferência das informações é mais
+restrita, já que se exige, no momento da solicitação, processo administrativo regularmente
+instaurado no âmbito do órgão ou entidade solicitante, com o objetivo de investigar sujeito
+passivo por prática de infração administrativa.
+
+
+---
+
+       Vale ressaltar que sempre devem ser considerados os procedimentos previstos no § 2º, do
+art. 198:
+
+       Art. 198 - (...):
+
+       § 2o O intercâmbio de informação sigilosa, no âmbito da Administração Pública,
+       será realizado mediante processo regularmente instaurado, e a entrega será feita
+       pessoalmente à autoridade solicitante, mediante recibo, que formalize a
+       transferência e assegure a preservação do sigilo. (Incluído pela Lcp nº 104, de
+       10.1.2001)
+
+       Pela redação do dispositivo, percebe-se que o objetivo é sempre preservar o sigilo ﬁscal.
+Por isso, lembre-se de que as requisições promovidas pelo Judiciário e as solicitações
+administrativas não autorizam a divulgação de informações, mas apenas o seu uso no interesse
+da justiça ou da Administração Pública, respectivamente.
+      “Professor, existe alguma exceção em que se permite a divulgação de informações?”
+      Sim! Vamos ver o que prevê o § 3º do art. 198:
+
+       Art. 198 - (...):
+
+       § 3o Não é vedada a divulgação de informações relativas a: (Incluído pela Lcp nº
+       104, de 10.1.2001)
+
+       I – representações ﬁscais para ﬁns penais; (Incluído pela Lcp nº 104, de
+       10.1.2001)
+
+       II – inscrições na Dívida Ativa da Fazenda Pública; (Incluído pela Lcp nº 104, de
+       10.1.2001)
+
+       III – parcelamento ou moratória. (Incluído pela Lcp nº 104, de 10.1.2001)
+
+       IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo
+       beneﬁciário seja pessoa jurídica. (Incluído pela Lei Complementar nº 187, de
+       2021)
+
+
+---
+
+        Observação: Como este dispositivo foi alterado pela LC 187/21, com a inclusão
+        do último item acima, a probabilidade de cobrança deste assunto é maior.
+
+      Em primeiro lugar, você deve estar se perguntando: o que vem a ser a representação ﬁscal
+para ﬁns penais?
+       Se um sujeito passivo pratica ilícito administrativo, ﬁca sujeito ao lançamento da respectiva
+multa, ou da aplicação de outra penalidade, como a pena de perdimento de mercadorias, por
+exemplo. Em se tratando de atos que conﬁgurem ilícito penal, cabe ao Poder Judiciário a
+aplicação da penalidade cabível. Sendo assim, a autoridade ﬁscal deve representar à autoridade
+competente para propor a ação penal, ou seja, o representante do Ministério Público.
+
+        Observação: O representante do Ministério Público é o titular exclusivo para
+        propor a ação penal pública.
+
+      Portanto, a representação ﬁscal, para ﬁns penais, se trata de uma representação elaborada
+pela autoridade ﬁscal, com intuito de responsabilizar o infrator penalmente, isto é, com ﬁns
+penais.
+       Cabe ressaltar que, nos crimes contra a ordem tributária (Lei 8.137/1990, arts. 1º e 2º),
+crime de apropriação indébita previdenciária (Código Penal, art. 168-A) e crime de sonegação de
+contribuição previdenciária (Código Penal, art. 337-A), a conﬁguração do crime está
+condicionada à existência do crédito tributário. Logo, se não há crédito tributário, não há crime.
+     O grande problema é que, com o lançamento, o crédito tributário está constituído, mas
+não deﬁnitivamente constituído, pois pode ser impugnado pelo sujeito passivo. E se pode ser
+impugnado, pode, por conseguinte, ser alterado. Está lembrado?
+       Sendo assim, só temos certeza da existência do crédito tributário, quando este estiver
+deﬁnitivamente constituído, isto é, depois de proferida a decisão ﬁnal na esfera administrativa.
+Portanto, é, somente a partir de então, que pode ser formulada a representação ﬁscal para ﬁns
+penais (RFFP), a ser encaminhada ao Ministério Público.
+      Nessa linha, é válido citar o art. 83 da Lei 9.430/1996:
+
+
+---
+
+       Art. 83. A representação ﬁscal para ﬁns penais relativa aos crimes contra a
+       ordem tributária previstos nos arts. 1o e 2o da Lei no 8.137, de 27 de dezembro
+       de 1990, e aos crimes contra a Previdência Social, previstos nos arts. 168-A e
+       337-A do Decreto-Lei no 2.848, de 7 de dezembro de 1940 (Código Penal), será
+       encaminhada ao Ministério Público depois de proferida a decisão ﬁnal, na esfera
+       administrativa, sobre a exigência ﬁscal do crédito tributário correspondente.
+       (Redação dada pela Lei nº 12.350, de 2010)
+
+       Demonstrando entendimento nessa mesma linha, o STF editou a seguinte súmula
+vinculante:
+
+    Súmula Vinculante 24 – Não se tipiﬁca crime material contra a ordem tributária,
+    previsto no art. 1.º, incisos I a IV, da Lei n.º 8.137/90, antes do lançamento deﬁnitivo do
+    tributo.
+
+      Saiba que, após a constituição deﬁnitiva do crédito tributário, o MP pode oferecer a
+denúncia (propor a ação penal), independentemente do recebimento da RFFP. Assim, tomando
+conhecimento do crime, o MP pode oferecer a denúncia, mesmo que não tenha sido realizada
+qualquer representação ﬁscal.
+
+       Somente com a constituição deﬁnitiva do crédito tributário é que se conﬁguram
+       os crimes acima estudados.
+       O MP não depende de RFFP para oferecer a denúncia.
+
+Deve-se destacar também que, em casos excepcionais, o STF (HC 95.443/SC) permite a
+instauração de inquérito policial antes do encerramento do processo administrativo ﬁscal,
+quando for imprescindível para viabilizar a ﬁscalização. Vejamos um pouco mais sobre o caso
+concreto:
+
+    HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. INSTAURAÇÃO DE
+    INQUÉRITO POLICIAL ANTES DO ENCERRAMENTO DO PROCEDIMENTO
+
+
+---
+
+     ADMINISTRATIVO-FISCAL.         POSSIBILIDADE          QUANDO         SE     MOSTRAR
+     IMPRESCINDÍVEL PARA VIABILIZAR A FISCALIZAÇÃO. ORDEM DENEGADA. 1. A
+     questão posta no presente writ diz respeito à possibilidade de instauração de inquérito
+     policial para apuração de crime contra a ordem tributária, antes do encerramento do
+     procedimento administrativo-ﬁscal. 2. O tema relacionado à necessidade do prévio
+     encerramento do procedimento administrativo-ﬁscal para conﬁguração dos crimes
+     contra a ordem tributária, previstos no art. 1°, da Lei n° 8.137/90, já foi objeto de
+     aceso debate perante esta Corte, sendo o precedente mais conhecido o HC n° 81.611
+     (Min. Sepúlveda Pertence, Pleno, julg. 10.12.2003).
+
+     (...)
+
+     4. Entretanto, o caso concreto apresenta uma particularidade que afasta a aplicação
+     dos precedentes mencionados. 5. Diante da recusa da empresa em fornecer
+     documentos indispensáveis à ﬁscalização da Fazenda estadual, tornou-se necessária a
+     instauração de inquérito policial para formalizar e instrumentalizar o pedido de quebra
+     do sigilo bancário, diligência imprescindível para a conclusão da ﬁscalização e,
+     conseqüentemente, para a apuração de eventual débito tributário. 6. Deste modo,
+     entendo possível a instauração de inquérito policial para apuração de crime contra a
+     ordem tributária, antes do encerramento do processo administrativo-ﬁscal, quando for
+     imprescindível para viabilizar a ﬁscalização. 7. Ante o exposto, denego a ordem de
+     habeas corpus.
+
+     (STF, Segunda Turma, HC 95.443/SC, Rel. Min. Ellen Gracie, Julgamento 02/02/2010)
+
+      Embora essa jurisprudência possa cair em prova, é preciso se lembrar de algo que já foi
+comentado nesta aula: não é necessária autorização judicial para que a autoridade ﬁscal tenha
+acesso aos dados protegidos por sigilo bancário, conforme previsão na LC 105/01.
+        Além da RFFP, a Fazenda Pública também não está proibida de divulgar as informações
+relativas às inscrições na Dívida Ativa da Fazenda Pública, bem como em relação ao deferimento
+do parcelamento e da moratória.
+
+         Observação: Não se esqueça de que o marco para a caracterização da alienação
+         fraudulenta (CTN, art. 185) é a regular inscrição do crédito tributário em dívida
+         ativa.
+
+Por último, a LC 187/2021, que trata dos requisitos para o gozo da imunidade prevista no art.
+195, § 7º, da CF/88, previu a possibilidade de divulgação das informações referentes a incentivo,
+renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica.
+      Antes de ﬁnalizarmos o estudo dos deveres das autoridades administrativas, não podemos
+nos esquecer do importante art. 199 do CTN, cuja redação é a seguinte:
+
+         Art. 199. A Fazenda Pública da União e as dos Estados, do Distrito Federal e dos
+         Municípios prestar-se-ão mutuamente assistência para a ﬁscalização dos tributos
+         respectivos e permuta de informações, na forma estabelecida, em caráter geral
+         ou especíﬁco, por lei ou convênio.
+
+
+---
+
+       Parágrafo único. A Fazenda Pública da União, na forma estabelecida em tratados,
+       acordos ou convênios, poderá permutar informações com Estados estrangeiros
+       no interesse da arrecadação e da ﬁscalização de tributos. (Incluído pela Lcp nº
+       104, de 10.1.2001)
+
+       O fato de cada ente federativo dispor de um banco de dados próprio, em função das
+características peculiares dos tributos de sua competência, torna-se muito proveitoso o
+compartilhamento de tais informações com os demais entes, no sentido de promover uma
+ﬁscalização mais efetiva.
+
+       Observação: Trata-se de mais um caso de transferência de informações sigilosas.
+
+        Novamente, vamos destacar o que foi estabelecido no próprio texto constitucional, ao
+tratar das administrações tributárias:
+
+       XXII - as administrações tributárias da União, dos Estados, do Distrito Federal e
+       dos Municípios, atividades essenciais ao funcionamento do Estado, exercidas por
+       servidores de carreiras especíﬁcas, terão recursos prioritários para a realização de
+       suas atividades e atuarão de forma integrada, inclusive com o compartilhamento
+       de cadastros e de informações ﬁscais, na forma da lei ou convênio.
+
+       Veja que existe previsão na CF/88 para o compartilhamento de cadastros e informações
+ﬁscais, como também há previsão no CTN nesse sentido. Contudo, o compartilhamento de fato
+só ocorre mediante a edição de lei ou convênio. Ou seja, não é autoaplicável.
+
+       A possibilidade de permuta de informações prevista no art. 199 do CTN é norma
+       de eﬁcácia limitada.
+
+       Do mesmo modo, a Fazenda Pública da União também está autorizada a ﬁrmar tratados,
+acordos ou convênios, com o intuito de permutar informações com Estados estrangeiros, sempre
+no interesse da arrecadação e da ﬁscalização dos tributos.
+
+
+---
+
+Dívida Ativa
+
+Para entender com clareza o que será visto neste tópico, é importante relembrarmos como ocorre a
+constituição definitiva do crédito tributário. Vamos lá: ao ser notificado do lançamento, o sujeito passivo tem
+um prazo fixado em lei para pagar ou impugnar o lançamento.
+
+Caso o sujeito passivo cumpra com a obrigação tributária, pagando o tributo contra ele lançado, o crédito
+tributário é extinto pelo próprio pagamento (CTN, art. 156, I).
+
+Se, por outro lado, o sujeito passivo impugnar o lançamento, instaura-se um litígio entre a Fazenda Pública
+e o contribuinte ou responsável, em que se discute o crédito tributário. Ao final, caso a decisão seja
+desfavorável ao sujeito passivo, mantendo o crédito lançado, ocorre a constituição definitiva do crédito
+tributário.
+
+           No curso do processo administrativo instaurado a partir da impugnação do contribuinte, a
+           Administração Tributária exerce controle interno de legalidade.
+
+Imaginemos, ainda que, o sujeito passivo, notificado do lançamento, não toma qualquer medida para efetuar
+o pagamento ou impugnar o lançamento. Nesse caso, também haverá a constituição definitiva do crédito
+tributário.
+
+Nesse sentido, estabelece o art. 201 do CTN o seguinte:
+
+           Art. 201. Constitui dívida ativa tributária a proveniente de crédito dessa natureza,
+           regularmente inscrita na repartição administrativa competente, depois de esgotado o
+           prazo fixado, para pagamento, pela lei ou por decisão final proferida em processo regular.
+
+Veja, então, que, após a constituição definitiva do crédito tributário, e não havendo pagamento por parte
+do sujeito passivo ou qualquer medida, judicial ou administrativa, que suspenda a exigibilidade do crédito
+tributário, cabe à Fazenda Pública proceder à inscrição do crédito tributário em dívida ativa. Em se tratando
+de tributos de competência da União, a inscrição compete à Procuradoria da Fazenda Nacional (PFN).
+
+É de se destacar que, embora já possa ter havido controle de legalidade pela Fazenda Pública (no curso do
+processo administrativo) em face do julgamento em processo administrativo, a inscrição em dívida ativa é
+o último controle de legalidade do crédito tributário constituído. Podemos dizer, ainda, que é o único
+controle de legalidade realizado pela apreciação crítica de profissionais legalmente competentes 1: os
+Procuradores da Fazenda Nacional, relativamente aos tributos federais. Destacamos que se trata apenas de
+exemplo, citando o que ocorre na esfera federal.
+
+1
+    CARVALHO, Paulo de Barros. Cu rso de D ire it o Tr ibu t á r io. 25ª Edição. 2013 Pág. 534.
+
+
+                                                                                                            16
+                                                                                                            55
+
+
+---
+
+        Observação: É evidente que o Poder Judiciário, quando provocado, pode efetuar o controle
+        da legalidade do lançamento, devendo anular o ato praticado pela autoridade
+        administrativa, quando estiver em desacordo com a lei. Contudo, nossa abordagem se
+        restringe ao controle administrativo da legalidade.
+
+Nesse sentido, acrescentamos as lições de Geraldo Ataliba e Cleber Giardino2:
+
+     “A inscrição evita a propositura pela Fazenda de execuções indevidas, resguarda os direitos individuais, protege o cidadão;
+     faz valer o princípio da reserva legal e da propriedade privada. Instituída a inscrição como controle de legalidade,
+     fundamentalmente com essas qualidades, apresenta ainda várias vantagens marginais, tais como desonerar o judiciário de
+     causas temerárias e livrar a administração de condenações moral e patrimonialmente lesivas”.
+
+Mas, afinal de contas, em que consiste a inscrição em dívida ativa? Trata-se de inclusão do nome do sujeito
+passivo no cadastro de devedores inadimplentes, mediante a lavratura de termo no livro da dívida ativa do
+respectivo ente federado. Atualmente, tal procedimento é realizado de forma eletrônica.
+                                                           ==95c==
+
+O objetivo da inscrição do crédito tributário em dívida ativa é extrair a Certidão de Dívida Ativa (CDA),
+título executivo extrajudicial, que viabiliza a posterior propositura da ação de execução fiscal.
+
+Estando a dívida regularmente inscrita, goza de presunção relativa de certeza e liquidez, admitindo,
+obviamente, prova em contrário por parte do sujeito passivo:
+
+        Art. 204. A dívida regularmente inscrita goza da presunção de certeza e liquidez e tem o
+        efeito de prova pré-constituída.
+
+        Parágrafo único. A presunção a que se refere este artigo é relativa e pode ser ilidida por
+        prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+
+Como exemplo, se o contribuinte realizar o pagamento de determinado tributo, como o IR, por exemplo, e
+o sistema da RFB não detectá-lo, certamente o contribuinte terá o seu débito inscrito em dívida ativa.
+Tomando ciência do fato, pode imediatamente apresentar suas provas inequívocas de que houve o correto
+pagamento.
+
+Destaque-se que o par. único do art. 201, do CTN, estabelece que a fluência de juros de mora não exclui a
+liquidez do crédito. Portanto, ainda que os juros de mora sejam acrescentados ao valor total da dívida, a
+liquidez (o valor exato) do crédito tributário não deixa de existir, pois sempre será possível calcular o
+montante devido, a título de tributo.
+
+O CTN também previu os requisitos do termo de inscrição da dívida ativa:
+
+        Art. 202. O termo de inscrição da dívida ativa, autenticado pela autoridade competente,
+        indicará obrigatoriamente:
+
+2
+  ATALI BA, Geraldo. GI ARDI NO, Cleber. I nscr ição de dívida a t iva – Fu n çã o Pr iva t iva dos
+Advoga dos
+Pú blicos. Revist a de Direit o Adm inist rat ivo. Rio de Janeiro: Jul/ Set . de 1 982, p. 340.
+
+
+                                                                                                                             17
+                                                                                                                             55
+
+
+---
+
+        I - o nome do devedor e, sendo caso, o dos co-responsáveis, bem como, sempre que
+        possível, o domicílio ou a residência de um e de outros;
+
+        II - a quantia devida e a maneira de calcular os juros de mora acrescidos;
+
+        III - a origem e natureza do crédito, mencionada especificamente a disposição da lei em
+        que seja fundado;
+
+        IV - a data em que foi inscrita;
+
+        V - sendo caso, o número do processo administrativo de que se originar o crédito.
+
+        Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro
+        e da folha da inscrição.
+
+        Observação: Já vi questões cobrando tais requisitos. Portanto, nesse caso, é muito
+        importante que você memorize todo o conteúdo do art. 202, do CTN.
+
+Não é difícil de decorar tais requisitos. Em primeiro lugar, deve-se lembrar de que, é mais do que básico, que
+o termo de inscrição contenha a quantidade devida, o nome do devedor e o fundamento legal (natureza e
+origem do crédito tributário). Isso é básico, para que o contribuinte tenha condições de apresentar provas
+em contrário.
+
+Lembre-se também de que, sendo o caso (nem sempre, portanto), deve haver o número do processo
+administrativo. Em qualquer caso, a certidão deverá conter a indicação do livro e da folha de inscrição.
+
+Cumpre-nos ressaltar que a omissão ou erro relativamente aos requisitos previstos no art. 202 do CTN são
+causas de nulidade da inscrição em dívida ativa, bem como do respectivo processo de cobrança dela
+decorrente, conforme se expõe abaixo:
+
+        Art. 203. A omissão de quaisquer dos requisitos previstos no artigo anterior (202), ou o erro
+        a eles relativo, são causas de nulidade da inscrição e do processo de cobrança dela
+        decorrente, mas a nulidade poderá ser sanada até a decisão de primeira instância,
+        mediante substituição da certidão nula, devolvido ao sujeito passivo, acusado ou
+        interessado o prazo para defesa, que somente poderá versar sobre a parte modificada.
+
+Contudo, o STF (AI-AgR 81.681/MG) entende que “há de atentar-se para a substância e não para os defeitos
+formais que não comprometem o essencial do documento tributário”.
+
+Havendo erros ou omissão dos requisitos estabelecidos, será nula a inscrição e o processo de cobrança dela
+decorrente. No entanto, a nulidade pode ser sanada até a decisão de primeira instância, substituindo-se a
+certidão nula e devolvendo ao sujeito passivo o prazo para defesa, que somente versará sobre a parte
+modificada.
+
+A fim de que seja possível entender o que viria a ser a “decisão de primeira instância”, vamos estudar em
+termos simples a ação de execução fiscal.
+
+                                                                                                           18
+                                                                                                           55
+
+
+---
+
+Após a inscrição em dívida ativa, a Fazenda Pública pode ajuizar a ação de execução fiscal. Admitida a ação,
+o juiz realiza o despacho que ordena a citação do devedor para pagar o valor devido (tributo, juros e multa
+de mora e os encargos indicados na CDA) ou garantir a execução, mediante depósito em dinheiro, fiança
+bancária ou indicação de bens à penhora.
+
+        Observação: Lembre-se de que o despacho do juiz que ordenar citação em execução fiscal
+        faz interromper o curso do prazo prescricional.
+
+Se o sujeito passivo reconhece a dívida, ele realiza o pagamento integral. Caso contrário, pode garantir a
+execução, podendo-se defender mediante interposição de embargos à execução. Até que o juiz julgue em
+primeira instância os embargos interpostos, a Fazenda pode substituir a CDA nula.
+
+        Opa! A inscrição em dívida ativa é o último controle de legalidade sobre o crédito
+        tributário, no âmbito administrativo. Contudo, é possível alterar a CDA até a decisão de
+        primeira instância.
+
+Na linha do que acabamos de explicar, segue o entendimento do STJ:
+
+     Súmula STJ 392 - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação
+     da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a
+     modificação do sujeito passivo da execução.
+
+O que o STJ deixou claro, e que tem sido demonstrado pela jurisprudência deste Tribunal, é que só se admite
+substituição de CDA para corrigir erro material ou formal relativos à inscrição e à certidão, mas não se
+estendendo ao lançamento propriamente dito. Portanto, não é possível substituir a CDA como meio de
+alterar o próprio lançamento anteriormente realizado.
+
+        Se o vício diz respeito à constituição do crédito tributário, deve-se realizar outro
+        lançamento, e não a simples substituição de CDA.
+
+Nesse mesmo sentido, o STJ (REsp 87.768/SP) já determinou que é inadmissível substituição de CDA para
+alteração do valor do débito de IPTU, já que se constitui modificação do próprio lançamento.
+
+                                                                                                          19
+                                                                                                          55
+
+
+---
+
+Certidões Negativas
+
+As certidões negativas de débitos (CND) são os documentos capazes de comprovar a inexistência de débito
+de determinado contribuinte, de determinado tributo ou relativo a determinado período. Trata-se, então,
+do documento que comprova a quitação dos tributos devidos.
+
+De acordo com o art. 5º, XXXIV, b, da CF/88, é a todos assegurado, independentemente do pagamento de
+taxas, a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de
+situações de interesse pessoal. Trata-se de imunidade aplicável às taxas.
+
+Observe o que diz o art. 205 do CTN:
+
+        Art. 205. A lei poderá exigir que a prova da quitação de determinado tributo, quando
+        exigível, seja feita por certidão negativa, expedida à vista de requerimento do interessado,
+        que contenha todas as informações necessárias à identificação de sua pessoa, domicílio
+        fiscal e ramo de negócio ou atividade e indique o período a que se refere o pedido.
+
+        Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido
+        requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na
+        repartição.
+
+Pela redação do par. único do art. 205, a Fazenda tem o prazo de 10 dias para expedir a certidão negativa
+requerida pelo sujeito passivo. Normalmente, a emissão da certidão é imediata.
+
+                            O prazo é de 10 dias, e não 10 dias úteis! Grave isso!
+
+Devemos nos atentar para o fato de que é possível que o sujeito passivo tenha débitos, mas esteja em
+situação regular perante o Fisco. É o caso, por exemplo, dos créditos tributários cuja exigibilidade tenha sido
+suspensa (CTN, art. 151).
+
+Em casos como esse, expede-se, em vez de certidão negativa, a certidão positiva com efeitos de negativa.
+Ou seja, a certidão é positiva, pois o sujeito passivo possui débito. No entanto, a certidão possui efeitos de
+negativa, já que é como se fosse esta, ou seja, o sujeito passivo está em situação regular.
+
+Nessa esteira, vejamos quais as situações que ensejam a expedição de certidão positiva com efeitos de
+negativa:
+
+                                                                                                            20
+                                                                                                            55
+
+
+---
+
+        Art. 206. Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a
+        existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido
+        efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+
+        Quando os créditos tributários não estão vencidos → Se há créditos tributários já
+        constituídos contra o sujeito passivo, mas não se esgotou o prazo para o adimplemento da
+        obrigação tributária (créditos vincendos), este encontra-se em situação regular.
+
+        Quando os créditos estejam garantidos por penhora → No curso da ação de execução
+        fiscal, se tiverem sido penhorados bens suficientes para extinção total dos créditos, o
+        sujeito passivo encontra-se em situação regular, já que o recebimento daqueles está
+        garantido pelos bens penhorados.
+
+        Quando os créditos estejam com a exigibilidade suspensa → Suspender a exigibilidade
+        significa impedir que o Fisco promova os atos de cobrança do crédito tributário. Sendo
+        assim, o sujeito passivo não deixa de estar em situação regular.
+
+        Observação: Para responder questões que cobrem esse assunto, é bom você estar com as
+        causas de suspensão da exigibilidade do crédito tributário na “ponta da língua”. Lembre-
+        se: MORDER e LIMPAR.
+
+Neste ponto, é importante relembrarmos da redação da Súmula 436, do STJ, que define que “a entrega de
+declaração pelo contribuinte, reconhecendo o débito fiscal, constitui o crédito tributário, dispensada qualquer
+providência por parte do Fisco”. Por conseguinte, se o contribuinte realizou a confissão de dívida e o crédito
+tributário foi constituído, caso este não seja pago, é legítima a recusa de expedição de certidão negativa ou
+positiva com efeito de negativa:
+
+     Súmula STJ 446 - Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa
+     de expedição de certidão negativa ou positiva com efeito de negativa.
+
+Agora preste atenção na pergunta: determinada Câmara Municipal de um Município possui débitos com a
+Fazenda Nacional. Poderia o Poder Executivo Municipal pleitear uma certidão positiva com efeitos de
+negativa junto ao Fisco Federal? A resposta é sim, de acordo com o STF (Tema 743)
+
+        É possível ao Município obter certidão positiva de débitos com efeito de negativa quando a
+        Câmara Municipal do mesmo ente possui débitos com a Fazenda Nacional, tendo em conta
+        o princípio da intranscendência subjetiva das sanções financeiras. (STF, RE 770149)
+
+                                                                                                            21
+                                                                                                            55
+
+
+---
+
+                                                Créditos
+                                               garantidos
+                                              por penhora
+                                                                Créditos com
+                             Créditos
+                                                                exigibilidade
+                            Vincendos
+                                                                  suspensa
+
+                                                 Certidão
+                                               positiva com
+                                                efeitos de
+                                                 negativa
+
+                                                 Certidão               Inexistência
+                                                 negativa                de débitos
+
+Dispensa da apresentação de certidão negativa
+
+Em alguns casos, o sujeito passivo está dispensado de apresentar a certidão negativa, ou seja, não será
+necessário fazer prova da quitação dos tributos.
+
+Acompanhe o art. 207 do CTN:
+
+        Art. 207. Independentemente de disposição legal permissiva, será dispensada a prova de
+        quitação de tributos, ou o seu suprimento, quando se tratar de prática de ato
+        indispensável para evitar a caducidade de direito, respondendo, porém, todos os
+        participantes no ato pelo tributo porventura devido, juros de mora e penalidades cabíveis,
+        exceto as relativas a infrações cuja responsabilidade seja pessoal ao infrator.
+
+                                                                                                     22
+                                                                                                     55
+
+
+---
+
+Imagine que determinada empresa, participante de processo licitatório, tenha que apresentar com urgência
+os comprovantes de quitação de tributos. Considere, ainda, que os servidores responsáveis pela emissão da
+CND estejam em greve. Como o sujeito passivo deve proceder para não ser desabilitado?
+
+O art. 207 do CTN prevê que, independentemente da existência de lei permissiva, o sujeito passivo fica
+dispensado da prova da quitação dos tributos, quando se tratar de ato indispensável para evitar a perda do
+direito.
+
+        É errado afirmar que:
+
+        -Nunca se dispensa a apresentação de CND;
+
+        -A dispensa de apresentação de CND depende de lei autorizativa de cada ente.
+
+Destaque-se que todos os participantes respondem pelo tributo porventura devido, bem como os juros de
+mora e as penalidades cabíveis, com exceção daquelas cuja responsabilidade seja pessoal do infrator.
+
+        Observação: Os contratantes são a pessoa jurídica e as pessoas físicas que atuaram em
+        nome daquela. Não se incluem entre os contratantes, para fins de responsabilidade, as
+        testemunhas e os membros da comissão de licitação.
+
+Responsabilidade por expedição de certidão com erro
+
+Se o servidor público expede certidão negativa, quando na verdade deveria expedir certidão positiva, a
+certidão contém erro contra a Fazenda Pública. É o caso, por exemplo, daquele servidor que deseja ajudar
+um amigo, alterando as informações, para que a certidão negativa seja expedida.
+
+Com o objetivo de punir os servidores públicos, responsáveis pela expedição de certidões negativas, por
+atuação dolosa ou fraudulenta, o art. 208 do CTN estabeleceu a seguinte regra:
+
+        Art. 208. A certidão negativa expedida com dolo ou fraude, que contenha erro contra a
+        Fazenda Pública, responsabiliza pessoalmente o funcionário que a expedir, pelo crédito
+        tributário e juros de mora acrescidos.
+
+        Parágrafo único. O disposto neste artigo não exclui a responsabilidade criminal e funcional
+        que no caso couber.
+
+ Repare que o dispositivo prevê que o servidor público será pessoalmente responsável pelo crédito
+tributário (aquele que deixou de constar na certidão “negativa” expedida) e pelos juros de mora acrescidos.
+Ademais, fica o servidor sujeito às sanções penais e administrativas cabíveis.
+
+                                                                                                        23
+                                                                                                        55
+
+
+---
+
+        Além de responder pessoal pelo crédito tributário e pelos juros de mora, o servidor pode
+        sofrer responsabilização criminal e funcional.
+
+Quando estudamos para concurso público, não devemos “brigar” com a lei, já que ela é muitas vezes cobrada
+literalmente. Contudo, muitos autores questionam a responsabilização pessoal do servidor pelo crédito
+tributário, haja vista que, dessa forma, o contribuinte, que se beneficiou da fraude, fica dispensado do
+pagamento dos tributos.
+
+Imagine, agora, que o crédito tributário tenha sido de R$ 1.000.000,00, e que a empresa beneficiada seja
+uma multinacional. Como o servidor iria arcar com tudo isso sozinho? Seria justo? Vamos deixar a discussão
+para outro momento, correto? O que nos importa é saber como está previsto no CTN!
+
+(SEFAZ-DF-Auditor Fiscal/2020) Independentemente da inscrição em dívida ativa, pode-se presumir como
+fraudulenta a alienação de bens realizada pelo sujeito passivo que esteja em débito com a fazenda pública,
+desde que exista o crédito tributário.
+Comentário: De acordo com o art. 185, do CTN, presume-se fraudulenta a alienação ou oneração de bens
+ou rendas, ou seu começo, por sujeito passivo em débito para com a Fazenda Pública, por crédito tributário
+regularmente inscrito como dívida ativa.
+Gabarito: Errada
+(SEFAZ-AL-Auditor Fiscal/2020) À administração tributária, no exercício da fiscalização, não será oponível
+norma estadual que limite o direito de examinar livros e documentos comerciais ou fiscais dos comerciantes.
+Comentário: De acordo com o art. 195, do CTN, para os efeitos da legislação tributária, não têm aplicação
+quaisquer disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos,
+documentos, papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da
+obrigação destes de exibi-los. Portanto, a norma estadual não será oponível no caso.
+Gabarito: Correta
+(SEFAZ-AL-Auditor Fiscal/2020) É facultativo constar no termo de inscrição da dívida ativa a maneira de
+calcular os juros de mora acrescidos à quantia devida.
+Comentário: De acordo com o art. 202, II, do CTN, a quantia devida e a maneira de calcular os juros de mora
+acrescidos são elementos obrigatórios no termo de inscrição em dívida ativa.
+
+
+                                                                                                          24
+                                                                                                          55
+
+
+---
+
+Gabarito: Errada
+(SEFAZ-AL-Auditor Fiscal/2020) Auditor fiscal que, com o intuito de beneficiar terceiro devedor de tributos,
+expedir certidão negativa ignorando os débitos fiscais devidos será responsabilizado pessoalmente pelo
+crédito tributário e pelos juros de mora acrescidos.
+Comentário: É o que prevê o art. 208, do CTN: A certidão negativa expedida com dolo ou fraude, que
+contenha erro contra a Fazenda Pública, responsabiliza pessoalmente o funcionário que a expedir, pelo
+crédito tributário e juros de mora acrescidos.
+Gabarito: Correta
+(TRF4-Analista Judiciário/2019) No que se refere à Administração Tributária, o Código Tributário Nacional
+(CTN) prevê que:
+A) a Fazenda Pública da União, dos Estados, do Distrito Federal e dos Municípios, na forma estabelecida em
+tratados, acordos ou convênios, poderá permutar informações com Estados estrangeiros, Organizações
+Internacionais e Agencias de avaliação de risco, no interesse da arrecadação, da fiscalização de tributos e da
+melhoria do ambiente econômico.
+B) é vedada a divulgação, por parte dos servidores da Fazenda Pública, de informação obtida em razão do
+ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros, exceto ao que se refere
+ao estado de seus negócios ou atividades, e as dívidas existentes perante a Fazenda Pública, escritas ou a
+inscrever na Dívida Pública.
+C) mediante ordem judicial, emitida pelo Juiz de Vara Civil ou Criminal da respectiva comarca, os bancos e
+demais instituições financeiras, são obrigados a prestar todas as informações de que disponham com relação
+aos bens, negócios ou atividades de terceiros, sendo vedado prestar tais informações mediante solicitação
+ou intimação escrita da autoridade administrativa tributária.
+D) os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles
+efetuados serão conservados, pelo Estado, em arquivo público, até que ocorra a caducidade das
+informações, a suspensão da exigência ou a extinção dos créditos tributários decorrentes das operações a
+que se refiram.
+E) para os efeitos da legislação tributária, não têm aplicação quaisquer disposições legais excludentes ou
+limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e efeitos comerciais ou
+fiscais, dos comerciantes industriais ou produtores, ou da obrigação destes de exibi-los.
+Comentário:
+Alternativa A: A previsão para permuta de informação neste caso existe apenas entre a União e Estados
+estrangeiros, conforme art. 199, par. único, do CTN: a Fazenda Pública da União, na forma estabelecida em
+tratados, acordos ou convênios, poderá permutar informações com Estados estrangeiros no interesse da
+arrecadação e da fiscalização de tributos. Alternativa errada.
+Alternativa B: O sigilo fiscal abrange a situação econômica ou financeira do sujeito passivo ou de terceiros,
+bem como o estado de seus negócios ou atividades, exceto as débitos inscritos em dívida ativa, ou objeto de
+parcelamento ou moratória. Alternativa errada.
+Alternativa C: O art. 197, II, estabelece a obrigatoriedade dos bancos e demais instituições financeiras a
+prestar informações de que disponham em relação aos bens negócios ou atividades de terceiros,
+independentemente de ordem judicial. Alternativa errada.
+
+                                                                                                           25
+                                                                                                           55
+
+
+---
+
+Alternativa D: O CTN determina que os livros obrigatórios de escrituração comercial e fiscal e os
+comprovantes dos lançamentos neles efetuados sejam conservados até que ocorra a prescrição dos créditos
+tributários decorrentes das operações a que se refiram. Alternativa errada.
+Alternativa E: É o que estabelece o caput do art. 195, do CTN: para os efeitos da legislação tributária, não
+têm aplicação quaisquer disposições legais excludentes ou limitativas do direito de examinar mercadorias,
+livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou
+produtores, ou da obrigação destes de exibi-los. Alternativa correta.
+Gabarito: Letra E
+(SEFAZ-RS-Auditor-Fiscal/2019) A atuação da administração tributária deve garantir a fiscalização, o
+lançamento e a cobrança dos tributos, de forma a preservar a igualdade entre os administrados, sem prejuízo
+da responsabilidade fiscal do sujeito ativo. Considerando-se a legislação pertinente a esse assunto, é correto
+afirmar que
+a) as autoridades fiscais devem restringir-se à avaliação do acervo material e documental disponibilizado
+                                                   ==95c==
+
+espontaneamente pelo administrado.
+b) o procedimento de fiscalização tributária deve ser documentado mediante termo específico que lavre o
+início do procedimento e que fixe prazo máximo de conclusão.
+c) os tabeliães, escrivães e serventuários de ofício são obrigados a prestar informações exigidas pela
+autoridade administrativa, salvo quando se tratar de bens, negócios ou atividades de terceiros.
+d) informações obtidas em razão do ofício pelo fisco e que antes eram protegidas por sigilo bancário deixam
+de ser confidenciais e passam a ser públicas.
+e) é vedada a troca de informações entre administrações tributárias de diferentes entes federados.
+Comentário:
+Alternativa A: Na realidade, para os efeitos da legislação tributária, não têm aplicação quaisquer disposições
+legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos, papéis e
+efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da obrigação destes de exibi-
+los. Alternativa errada.
+Alternativa B: O art. 196, do CTN, prevê que a autoridade administrativa que proceder ou presidir a
+quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o início do
+procedimento, na forma da legislação aplicável, que fixará prazo máximo para a conclusão daquelas.
+Alternativa correta.
+Alternativa C: A prestação de informações abrange especialmente as informações relativas a bens, negócios
+ou atividades de terceiros. Alternativa errada.
+Alternativa D: As informações financeiras e econômicas do sujeito passivo continuam ao abrigo do sigilo
+fiscal. Alternativa errada.
+Alternativa E: O CTN previu a troca de informações entre administrações tributárias de diferentes entes
+federados, situação em que o sigilo é mantido, havendo apenas a sua transferência. Alternativa errada.
+Gabarito: Letra B
+(ISS-Campinas-Auditor Fiscal/2019) O auditor fiscal municipal X está sendo investigado pela corregedoria do
+Município por possível prática de infração administrativa gravíssima. A investigação começou após denúncia
+anônima que mencionou o crescimento exponencial do patrimônio pessoal do auditor e de sua família, assim
+como o seu consumo supostamente incompatível com a sua renda. Para esclarecimento das denúncias, a
+
+
+                                                                                                           26
+                                                                                                           55
+
+
+---
+
+corregedoria solicitou à administração tributária deste Município, mediante processo administrativo, cópia
+de notas fiscais de serviços emitidas em favor do auditor fiscal, assim como relação dos imóveis em nome do
+referido auditor constantes do cadastro imobiliário para fins de IPTU.
+Diante dessa situação, com base na legislação nacional, é correto afirmar que
+a) as informações solicitadas apenas poderiam ser compartilhadas mediante decisão judicial, no interesse de
+investigação criminal, não sendo possível a sua transmissão para fins de apuração de infração administrativa.
+b) a autoridade administrativa poderá compartilhar apenas as informações relativas ao cadastro imobiliário,
+por se tratar de informação que já consta publicamente nos cartórios de registro imobiliário.
+c) a autoridade administrativa deve guardar sigilo completo das informações solicitadas, por se tratar de
+informações relativas à situação econômica ou financeira de sujeito passivo, detidas em razão do ofício
+fazendário.
+d) desde que seja comprovada a instauração regular de processo administrativo no órgão correicional, é
+possível o compartilhamento das informações solicitadas mediante recibo que formalize a transferência e
+assegure a preservação do sigilo.
+e) a autoridade administrativa poderá compartilhar apenas as notas fiscais de serviços, por se tratar de
+informação parcial relativa a outros sujeitos passivos que não ao auditor fiscal, sem a possibilidade de
+revelação da situação econômica desses sujeitos.
+Comentário: O intercâmbio de informação sigilosa, no âmbito da Administração Pública, será realizado
+mediante processo regularmente instaurado, e a entrega será feita pessoalmente à autoridade solicitante,
+mediante recibo, que formalize a transferência e assegure a preservação do sigilo.
+Gabarito: Letra D
+(SEFAZ-RS-Técnico Tributário/2018) A prestação de informações tributárias relativas a bens, negócios ou
+atividades de terceiros, quando de intimação por escrito pela autoridade administrativa,
+independentemente de arguição do dever de sigilo, é obrigação de
+a) psicólogos.
+b) advogados.
+c) médicos.
+d) empresas de administração de bens.
+e) microempresas optantes pelo Simples Nacional.
+Comentário: Como existe sigilo para médicos, advogados e psicólogos, e considerando que tais profissões
+podem, a depender da situação, ser exercidas por meio de empresas optantes pelo Simples Nacional, resta-
+nos a empresa de administração de bens como gabarito da questão. Dessa forma, das opções relacionadas
+acima, a única que não tem obrigação legal de guardar sigilo seria a empresa de administração de bens.
+Gabarito: Letra D
+(ISS-São Luís-Auditor Fiscal/2018) Relativamente às diligências de fiscalização, a autoridade que as realizar
+ou as presidir deverá, segundo o Código Tributário Nacional, lavrar os termos fiscais necessários para
+documentá-las. Estes termos, de acordo com este mesmo Código, deverão
+I. ser lavrados, necessariamente, em um dos livros contábeis exibidos, se exibidos.
+II. documentar o início do procedimento, na forma da legislação aplicável, sendo que esse termo fixará prazo
+máximo para a conclusão das referidas diligências.
+
+                                                                                                          27
+                                                                                                          55
+
+
+---
+
+III. quando lavrados em separado, ser entregues, por cópia autenticada, pela autoridade que proceder ou
+presidir as referidas diligências, à pessoa sujeita a fiscalização.
+IV. ser firmados por, no mínimo, três autoridades, de diferentes níveis hierárquicos.
+Está correto o que se afirma APENAS em
+(A) II e III.
+(B) III.
+(C) I e IV.
+(D) I, II e IV.
+(E) III e IV.
+Comentário:
+Item I: Tais termos serão lavrados, sempre que possível, em um dos livros fiscais exibidos; quando lavrados
+em separado deles se entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade
+competente. Item errado.
+Item II: De acordo com o art. 196, do CTN, a autoridade administrativa que proceder ou presidir a quaisquer
+diligências de fiscalização lavrará os termos necessários para que se documente o início do procedimento,
+na forma da legislação aplicável, que fixará prazo máximo para a conclusão daquelas. Item correto.
+Item III: Conforme comentamos, quando os termos forem lavrados em separado deles se entregará, à pessoa
+sujeita à fiscalização, cópia autenticada pela autoridade competente. Item correto.
+Item IV: Não há qualquer regra nesse sentido no texto do CTN. Item errado.
+Gabarito: Letra A
+(SEFAZ-GO-Auditor Fiscal da Receita Estadual/2018) Relativamente à fiscalização tributária, notadamente
+no que diz respeito aos impostos de competência das diversas pessoas jurídicas de direito público interno, o
+Código Tributário Nacional estabelece que às Fazendas Públicas é permitida a prestação de assistência mútua
+a) entre todas elas, para a fiscalização dos tributos respectivos e para a permuta de informações, na forma
+estabelecida por lei ou convênio, em caráter geral ou específico.
+b) apenas para a permuta de informações, desde que restrita ao âmbito dos Estados e do Distrito Federal,
+relativamente aos impostos de sua competência comum, e ao âmbito dos Municípios e do Distrito Federal,
+relativamente aos impostos de competência comum destes.
+c) entre todas elas, para a permuta de informações e para a fiscalização de tributos, na forma estabelecida,
+por lei ou convênio, vedada a prestação de informações pela Fazenda Pública da União, que, no entanto,
+poderá recebê-las das Fazendas Públicas estaduais e municipais.
+d) para a permuta de informações de caráter tributário, mas vedada para fiscalização dos tributos
+respectivos, pois a fiscalização é atividade indelegável.
+e) apenas para a fiscalização de tributos respectivos, desde que restrita ao âmbito dos Estados e do Distrito
+Federal, relativamente aos impostos de sua competência comum, e ao âmbito dos Municípios, relativamente
+aos impostos de competência comum destes.
+Comentário: De acordo com art. 199 do CTN, a Fazenda Pública da União e as dos Estados, do Distrito Federal
+e dos Municípios prestar-se-ão mutuamente assistência para a fiscalização dos tributos respectivos e
+
+                                                                                                          28
+                                                                                                          55
+
+
+---
+
+permuta de informações, na forma estabelecida, em caráter geral ou específico, por lei ou convênio. A única
+resposta correta é, portanto, a alternativa A.
+Gabarito: Letra A
+
+                                                                                                        29
+                                                                                                        55
+
+
+---
+
+        CTN - DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Como se sabe, o CTN é uma norma bastante antiga (1966), sendo vários de seus dispositivos inaplicáveis no
+atual ordenamento jurídico. Portanto, considerando o que costuma ser cobrado em provas, dos arts. 209 a
+218, apenas são relevantes e merecem comentários os arts. 209 e 210.
+
+O art. 209 apenas esclarece que a expressão “Fazenda Pública”, quando empregada no CTN sem qualificação,
+abrange a Fazenda Pública de todos os entes, ou seja, da União, dos Estados, do Distrito Federal e dos
+Municípios. Senão, vejamos:
+
+       Art. 209. A expressão "Fazenda Pública", quando empregada nesta Lei sem qualificação, abrange a Fazenda
+       Pública da União, dos Estados, do Distrito Federal e dos Municípios.
+
+O art. 210 refere-se à contagem dos prazos fixados tanto no CTN como na legislação tributária, a qual, como
+                                                     ==95c==
+
+vimos no art. 96, abrange os mais diversos atos normativos que disponham sobre tributos e relações jurídicas
+a eles pertinentes. A regra dispõe que o início do prazo é contado no dia útil seguinte ao do início do prazo
+e termina no dia de expediente normal na repartição em que o processo corra ou o ato deva ser praticado.
+Sendo o caso de dia não útil, o vencimento deve ser no dia útil seguinte. Por fim, a contagem do referido
+prazo é contínua, ou seja, não se suspende em finais de semana e feriados. Vejamos a sua redação:
+
+       Art. 210. Os prazos fixados nesta Lei ou legislação tributária serão contínuos, excluindo-se na sua contagem
+       o dia de início e incluindo-se o de vencimento.
+
+       Parágrafo único. Os prazos só se iniciam ou vencem em dia de expediente normal na repartição em
+       que corra o processo ou deva ser praticado o ato.
+
+        Vamos verificar um caso prático sobre isso!
+
+        Sr. Tributino recebe em 13/04/2017 (quinta-feira, véspera de feriado) pela via postal um
+        auto de infração, no qual consta o prazo de 30 dias para pagar ou impugnar o crédito
+        tributário contra ele lançado.
+
+        Quando se dará o termo inicial e final do referido prazo?
+
+        Resposta: Neste caso, o prazo inicial seria o dia 17/04/2017 (segunda-feira), e o
+        vencimento se daria em 17/05/2017 (excluindo o dia de início da contagem e incluindo o
+        dia de vencimento). Como neste caso, o vencimento se dá em uma quarta-feira, será esta
+        o termo final para pagamento ou impugnação.
+
+                                                                                                                30
+                                                                                                                55
+
+
+---
+
+Caso o dia de vencimento caísse em outro feriado ou sábado ou domingo, o termo final se
+daria no próximo dia útil, seguindo o mesmo raciocínio utilizado para cálculo do termo
+inicial.
+
+                                        ==8b9==
+
+                                                                                          32
+                                                                                          65
+
+
+---
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+Administração Tributária
+
+1. FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+
+A Administradora de imóveis PDQA foi intimada pela Receita Federal a prestar informações dos imóveis e
+valor dos aluguéis em nome do seu cliente, Sr. Alexandre Batista, para apuração de possível sonegação de
+Imposto de Renda nos últimos anos. Em relação a tal intimação, a Administradora deve
+a) negar as informações, pois só pode prestá-las em caso de ordem judicial.
+b) prestar as informações em relação aos imóveis, mas não em relação aos valores dos aluguéis.
+c) negar as informações, pois só pode prestá-las em caso de ordem judicial ou requisição do Ministério
+Público.
+d) negar as informações, devido ao sigilo bancário e fiscal do cliente.
+e) prestar as informações tanto em relação aos imóveis quanto ao valor dos aluguéis.
+Comentário:
+Alternativa A: Esta alternativa Refere-se à necessidade de ordem judicial para fornecer informações, o que
+é incorreto segundo o art. 197 do CTN. Errado.
+Alternativa B: Veja que a assertiva indica que deveriam ser fornecidas informações parciais, o que contraria
+o art. 197 do CTN que exige informações completas. Errado.
+Alternativa C: Similar à alternativa A, menciona a necessidade de ordem judicial, o que é está em
+desacordo com o art. 197 do CTN. Errado.
+Alternativa D: Esta alternativa menciona incorretamente a proteção do sigilo bancário e fiscal, que não se
+aplica à exigência legal de informação pelo CTN. Errado.
+Alternativa E: Realmente está correta, pois alinha-se com o art. 197 do CTN que manda entidades como
+administradoras de imóveis fornecerem todas as informações requeridas pela autoridade fiscal. Correto.
+Gabarito: Letra E
+
+2. FGV/TT (Pref SJC)/Pref SJC/2024
+
+A obrigação tributária tem por objeto o pagamento de tributos, multas e o cumprimento de um fazer ou
+não fazer de caráter acessório. Essas relações jurídicas de naturezas distintas também são estabelecidas,
+envolvendo tanto contribuintes como responsáveis tributários.
+Com base nessa premissa, é correto afirmar que
+a) a obrigação de pagar multa tributária é subordinada ao pagamento da obrigação tributária principal.
+b) a obrigação acessória descumprida pelo contribuinte converte-se em principal, exceto quando dotada
+de natureza sancionatória.
+
+
+                                                                                                         33
+                                                                                                         65
+
+
+---
+
+c) a fruição de imunidade não dispensa o contribuinte do cumprimento das obrigações acessórias e da
+sujeição à fiscalização tributária.
+d) apenas o contribuinte pode ser chamado a cumprir medidas que facilitem a fiscalização tributária.
+e) entidade isenta do pagamento de imposto não pode ser obrigada a manter sua escrita fiscal em dia
+atendendo ao interesse da Administração Tributária.
+Comentário:
+Alternativa A: Errada. De acordo com o art. 113, do CTN, a obrigação de pagar multa tributária é o próprio
+objeto da obrigação tributária principal.
+Alternativa B: Errada. De acordo com o art. 113, § 3º, do CTN, o descumprimento de obrigação acessória é
+sempre convertido em obrigação tributária principal (multa tributária).
+Alternativa C: Correta. Art. 194 do CTN e decisões do STF confirmam que a imunidade não dispensa o
+cumprimento de obrigações acessórias nem da fiscalização tributária.
+Alternativa D: Errada. O CTN, no art. 194, Parágrafo único, aplica-se tanto a contribuintes quanto a
+responsáveis tributários no cumprimento de medidas de fiscalização.
+Alternativa E: Errada. Mesmo as entidades isentas devem manter escrita fiscal atualizada, conforme
+estabelece o art. 194, Parágrafo único do CTN.
+Gabarito: Letra C
+
+3. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+
+No que se refere à administração tributária, analise os itens a seguir.
+I. As autoridades administrativas federais poderão requisitar o auxílio da força pública federal, estadual ou
+municipal, e reciprocamente, quando vítimas de embaraço ou desacato no exercício de suas funções.
+II. A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem o efeito de prova
+pré-constituída, não podendo ser ilidida por prova inequívoca do contribuinte.
+III. Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de expedição de certidão
+negativa ou positiva com efeito de negativa.
+Está correto o que se afirma em
+a) I e III.
+b) I, apenas.
+c) I e II.
+d) II e III.
+e) I, II e III.
+Comentário:
+Item I: Correto. Conforme o art. 200 do CTN, as autoridades administrativas federais podem requisitar
+auxílio da força pública para enfrentar embaraços ou desacatos no exercício de suas funções.
+
+
+                                                                                                          34
+                                                                                                          65
+
+
+---
+
+Item II: Errado. O art. 204 do CTN estabelece que a presunção de certeza e liquidez de uma dívida inscrita é
+relativa e pode ser ilidida por prova inequívoca a cargo do sujeito passivo.
+Item III: Correto. Segundo a Súmula 446 do STJ, é legítima a recusa de expedição de certidão negativa ou
+positiva com efeito de negativa quando o débito tributário declarado não é pago.
+Gabarito: Letra A.
+
+4. FGV/TT (Pref SJC)/Pref SJC/2024
+
+O Fisco, como sujeito ativo da relação jurídica obrigacional tributária, tem as prerrogativas de fiscalizar,
+lançar e cobrar tributos.
+As administrações tributárias da União, Estados, Distrito Federal e dos Municípios
+a) apresentam a prerrogativa de aplicar sanções políticas no exercício do poder de império para realizar a
+cobrança de tributo.
+b) prescindem de processo administrativo para divulgarem, umas às outras, informações específicas dos
+negócios dos contribuintes.
+c) reúnem servidores de carreiras específicas para o exercício de suas atividades.
+d) atuam de forma integrada, inclusive compartilhando os respectivos cadastros fiscais.
+e) não podem permutar informações fiscais de empresas brasileiras, com Estados estrangeiros.
+Comentário:
+Alternativa A: Errada. Aplicar sanções políticas no exercício do poder de império é considerado
+inconstitucional segundo jurisprudência do STF.
+Alternativa B: Errada. O compartilhamento de informações entre administrações tributárias depende de
+processo administrativo específico, conforme art. 198 do CTN.
+Alternativa C: Correta. Administrações tributárias são compostas por servidores de carreiras específicas,
+estabelecido no art. 37 da Constituição Federal.
+Alternativa D: Errada. As administrações tributárias atuam de forma integrada e compartilham cadastros
+fiscais, conforme diretrizes constitucionais e legais.
+Alternativa E: Errada. A troca de informações com Estados estrangeiros é permitida, seguindo tratados e
+acordos, de acordo com o art. 199 do CTN.
+Gabarito: Letra C
+
+5. FGV/TT (Pref SJC)/Pref SJC/2024
+
+A Administração Tributária envolve o segmento da Administração Pública que trata dos tributos, no que se
+refere à arrecadação, fiscalização e cobrança. Com relação ao poder de fiscalização, avalie se as seguintes
+afirmativas estão corretas.
+I. Aplica-se às pessoas naturais ou jurídicas contribuintes ou não, inclusive às que gozem de imunidade
+tributária ou de isenção de caráter pessoal.
+
+                                                                                                         35
+                                                                                                         65
+
+
+---
+
+II. As disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos,
+documentos, papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da
+obrigação destes de exibi-los tem aplicação limitada aos que gozam de imunidade.
+III. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles
+efetuados serão conservados até que ocorra a prescrição dos créditos tributários decorrentes das
+operações a que se refiram.
+IV. É direito da Fazenda Pública divulgar informação obtida em razão do ofício sobre a situação econômica
+ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou
+atividades.
+Estão corretas as afirmativas
+a) I e III.
+b) II e III.
+c) III e IV.
+d) I e IV.
+e) II e IV.
+Comentário:
+Item I: Correto. De acordo com o art. 194, parágrafo único do CTN, a legislação tributária se aplica a todas
+as pessoas, sejam elas contribuintes ou não, incluindo aquelas que gozam de imunidade tributária ou
+isenção de caráter pessoal.
+Item II: Errado. O art. 195 do CTN afirma que não há limitações legais que restrinjam o direito das
+autoridades de examinar mercadorias, livros, documentos, independentemente de qualquer imunidade.
+Item III: Correto. Conforme o art. 195, parágrafo único do CTN, os livros de escrituração comercial e fiscal e
+os comprovantes dos lançamentos devem ser conservados até que ocorra a prescrição dos créditos
+tributários a eles relacionados.
+Item IV: Errado. Segundo o art. 198 do CTN, é vedada a divulgação de qualquer informação obtida pela
+Fazenda Pública sobre a situação econômica ou financeira dos sujeitos passivos ou terceiros, a menos que
+autorizado por lei.
+Gabarito: Letra A
+
+6. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+
+A empresa X, por discordar de auto de infração lavrado por fiscal da Receita Federal, visando à cobrança de
+crédito de Imposto sobre Produtos Industrializados – IPI, apresentou, de forma tempestiva, impugnação ao
+auto de infração, nos termos da legislação. A referida impugnação ainda está pendente de decisão
+administrativa.
+Ao requerer a certidão de regularidade fiscal federal, o Fisco Federal negou a emissão, em razão da
+existência do referido crédito de IPI.
+Sobre a hipótese, é correto afirmar que
+
+                                                                                                           36
+                                                                                                           65
+
+
+---
+
+a) o Fisco está correto, visto que a exigibilidade do crédito está ativa e, portanto, a empresa X não tem
+direito à certidão de regularidade fiscal.
+b) o Fisco está correto, visto que não houve pagamento do débito e, portanto, a empresa X não tem direito
+à certidão de regularidade fiscal.
+c) o crédito se encontra com a exigibilidade suspensa e, portanto, a empresa X tem direito à certidão
+positiva com efeitos de negativa.
+d) o crédito está extinto pela impugnação e, portanto, a empresa X tem direito à certidão negativa de
+débitos.
+e) a impugnação exclui o crédito tributário e, portanto, a empresa X tem direito à certidão positiva com
+efeitos de negativa.
+Comentário:
+Alternativa A: Errada. A suspensão da exigibilidade do crédito tributário por recurso administrativo habilita
+a emissão de certidão positiva com efeito de negativa, conforme art. 151, III do CTN.
+Alternativa B: Errada. A apresentação de recurso administrativo suspende a exigibilidade do crédito
+tributário, portanto, não é correto afirmar que a empresa não tem direito à certidão de regularidade fiscal
+devido à ausência de pagamento, segundo art. 151, III do CTN.
+Alternativa C: Correta. A empresa tem direito à certidão positiva com efeitos de negativa, devido à
+suspensão da exigibilidade do crédito por recurso administrativo impugnado, conforme art. 206 do CTN.
+Alternativa D: Errada. A impugnação não extingue o crédito tributário; apenas suspende sua exigibilidade,
+conforme art. 151, III do CTN.
+Alternativa E: Errada. A impugnação não exclui o crédito tributário, apenas suspende sua exigibilidade,
+conforme art. 151, III do CTN.
+Gabarito: Letra C
+
+7. FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+
+Julia Almeida tem uma dívida de IPTU com a prefeitura de São José dos Campos ainda não inscrita em
+dívida ativa, tanto que não tem a Certidão de Dívida Ativa (CDA) respectiva.
+Julia foi surpreendida com o protesto desta dívida num Tabelionato de Protesto de Títulos, inclusive com
+seu nome passando a constar em serviços de proteção ao crédito. Sobre a situação de Júlia, assinale a
+afirmativa correta.
+a) É possível o protesto de título da dívida do Município mesmo sem a CDA.
+b) Não é possível o protesto de título sem a respectiva CDA.
+c) É possível o protesto de título, se a Execução Fiscal for suspensa por não terem sido encontrados bens da
+devedora.
+d) Não é possível protesto de título de dívida do Município, devendo ser proposta a Execução Fiscal.
+e) É possível o protesto de títulos apenas com a CDA, mas não é permitido a inscrição em serviços de
+proteção ao crédito.
+
+
+                                                                                                          37
+                                                                                                          65
+
+
+---
+
+Comentário:
+Alternativa A: Errado. A legislação exige a CDA para o protesto de dívidas tributárias, conforme Lei nº
+9.492/1997.
+Alternativa B: Correto. O STJ estabelece que o protesto de dívidas tributárias requer a emissão da CDA.
+Alternativa C: Errado. A possibilidade de protesto não depende do status da Execução Fiscal.
+Alternativa D: Errado. O protesto pode ser realizado independentemente de uma Execução Fiscal.
+Alternativa E: Errado. Enquanto o protesto requer CDA, a inscrição em serviços de proteção ao crédito é
+permitida para devedores de dívidas tributárias.
+Gabarito: B
+
+8. FGV/RFB-Auditor Fiscal/2023                     ==8b9==
+
+A sociedade empresária Delta Ltda. teve sua falência decretada judicialmente. Ao realizar, por ser
+necessária, a classificação dos créditos na falência, para definir sua ordem de preferência de
+pagamento, foi constatado que havia a serem pagos:
+I. créditos tributários anteriores ao início do curso do processo de falência;
+II. crédito decorrente de acidente de trabalho no valor de 200 salários-mínimos;
+III. créditos com garantia real, no limite do valor do bem gravado;
+IV. multas tributárias.
+Assinale a opção que indica a devida ordem de pagamento de tais créditos, partindo do crédito
+de maior preferência para o de menor preferência.
+A) I – IV – II – III
+B) I – III – II – IV
+C) II – III – I – IV
+D) III – II – I – IV
+E) II – I – IV – III
+Comentário: Esta questão deve ser respondida, considerando o art. 186, do CTN, com a redação
+do art. 83, da Lei 11.101/2005:
+1º) crédito decorrente de acidente de trabalho no valor de 200 salários-mínimos: afinal, o limite
+de 150 salários não se aplica ao créditos de acidente de trabalho.
+2º) créditos com garantia real, no limite do valor do bem gravado: Possuem prioridade em
+relação ao crédito tributário, na falência.
+3º) créditos tributários anteriores ao início do curso do processo de falência: Lembrando que, na
+falência, a multa tributário somente prefere aos créditos subordinados.
+4º) multas tributárias.
+Gabarito: Letra C
+
+
+                                                                                                          38
+                                                                                                          65
+
+
+---
+
+9. FGV/SEF-MG-Auditor Fiscal/2023
+
+A sociedade empresária Somente Imóveis, administradora de imóveis de terceiros, foi intimada
+de forma escrita pela Receita Federal a prestar informações referentes aos aluguéis pagos a um
+dos seus clientes, que possui 6 (seis) apartamentos por ela administrados.
+A sociedade empresária procurou um advogado que a aconselhou a não responder e assim ela
+agiu.
+Sobre a hipótese narrada, à luz do CTN, assinale a afirmativa correta.
+A) A sociedade empresária está correta, porque envolve sigilo bancário e só o BACEN ou ordem
+judicial podem obrigá-la a prestar tais informações.
+B) A sociedade empresária não está correta, desde que no contrato com o cliente não exista
+cláusula vedando o fornecimento dessas informações.
+C) A sociedade empresária está correta, porque o pedido da Receita Federal é ilegal.
+D) A sociedade empresária não está correta, porque ela está obrigada a prestar todas as
+informações de que disponha com relação aos bens, negócios ou atividades de terceiros.
+E) A sociedade empresária está correta, porque envolve sigilo bancário e só o Judiciário pode
+obrigá-la a prestar tais informações.
+Comentário: A questão cobra o conhecimento do art. 197, III, do CTN:
+      Art. 197. Mediante intimação escrita, são obrigados a prestar à autoridade administrativa
+      todas as informações de que disponham com relação aos bens, negócios ou atividades de
+      terceiros:
+      (...)
+      III - as empresas de administração de bens;
+Alternativa A: Não há que se falar em sigilo bancário na prestação de informações sobre os
+aluguéis por ela administrados. Alternativa errada.
+Alternativa B: O contrato entre a administradora e seu cliente não tem relevância perante o Fisco.
+Alternativa errada.
+Alternativa C: A intimação da RFB está fundamentada no art. 197, III, do CTN. Alternativa errada.
+Alternativa D: De fato, o art. 197, III, do CTN, a obriga a prestar todas as informações de que
+disponha com relação aos bens, negócios ou atividades de terceiros. Alternativa correta.
+Alternativa E: Não há que se falar em sigilo bancário na prestação de informações sobre os
+aluguéis por ela administrados. Alternativa errada.
+Gabarito: Letra D
+
+10.FGV/SEF-MG-Auditor Fiscal/2023
+
+A sociedade empresária ABC, atuante no comércio varejista, recebeu do Fisco do Estado Alfa
+uma notificação contendo auto de infração pelo descumprimento de obrigação acessória
+
+                                                                                               39
+                                                                                               65
+
+
+---
+
+referente ao ICMS prevista em decreto do Governador. A notificação informava que o sujeito
+passivo dispunha de 45 dias, após ser notificado, para impugnar o lançamento ou pagar a multa
+tributária prevista no auto de infração.
+Diante desse cenário, assinale a afirmativa correta.
+A) A modalidade de lançamento tributário presente no enunciado configura um lançamento por
+declaração.
+B) O Estado Alfa não poderia estabelecer prazo de 45 dias após a notificação do sujeito passivo
+para pagamento de tal multa tributária.
+C) A fixação do prazo de pagamento de tal multa tributária se submete ao princípio tributário da
+reserva de lei.
+D) Tal obrigação acessória deveria ser criada por lei estadual, e não por decreto.
+E) Caso a sociedade requeira certidão de regularidade fiscal do ICMS no 25º dia após a
+notificação do auto de infração, deverá ser emitida certidão positiva com efeito de negativa.
+Comentário:
+Alternativa A: Trata-se de lançamento de ofício, uma vez que não houve a participação do sujeito
+passivo. Alternativa errada.
+Alternativa B: O que o art. 160, do CTN, prevê é que, quando a legislação tributária não fixar o
+tempo do pagamento, o vencimento do crédito ocorre trinta dias depois da data em que se
+considera o sujeito passivo notificado do lançamento. Alternativa errada.
+Alternativa C: A fixação de prazo de pagamento não é matéria sujeita ao princípio da legalidade.
+Poderia ser fixada por decreto. Alternativa errada.
+Alternativa D: A obrigação acessória decorre da legislação (que abrange também atos
+infralegais). Portanto, poderia ser criada por meio de decreto. Alternativa errada.
+Alternativa E: De fato, o art. 206, do CTN, prevê que, estando o crédito já constituído, porém
+não vencido, a certidão a ser emitida é a positiva, porém com efeitos de negativa. Alternativa
+correta.
+Gabarito: Letra E
+
+11.FGV/RFB-Analista Tributário/2023
+
+A sociedade empresária Engenharia Ômicron Ltda. recebeu notificação para pagar ou impugnar,
+no prazo de 30 dias, determinado tributo federal cuja arrecadação é feita pela Secretaria Especial
+da Receita Federal do Brasil (SERFB). Inconformada com a cobrança, impugnou o lançamento
+dentro do prazo devido, mas as decisões administrativas de 1º e 2º grau foram-lhe desfavoráveis.
+Recebeu então intimação para realizar o pagamento no prazo de 30 dias após o recebimento da
+intimação acerca da decisão irrecorrível em sede administrativa. No 10º dia após a ciência desta
+intimação, a sociedade precisou emitir uma certidão fiscal que comprove a quitação de tal
+tributo, com vistas a participar de um certame licitatório.
+Diante desse cenário e à luz do Código Tributário Nacional, será emitida uma
+A) Certidão Negativa.
+
+
+                                                                                               40
+                                                                                               65
+
+
+---
+
+B) Certidão Negativa com Efeitos de Positiva.
+C) Certidão Positiva.
+D) Certidão Positiva com Efeito de Negativa.
+E) Certidão de Exclusão do Crédito Tributário.
+Comentário: O art. 206, do CTN, prevê que, estando o crédito já constituído, porém não
+vencido, a certidão a ser emitida é a positiva, porém com efeitos de negativa:
+     Art. 206. Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a
+     existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido
+     efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+Gabarito: Letra D
+
+12.FGV/TJ-MG/2022
+
+Sapataria Moderna Ltda., sociedade empresária limitada, foi autuada pela falta de pagamento de
+COFINS, pelo que apresentou, no prazo correto, a competente impugnação administrativa contra
+tal autuação. A impugnação foi julgada improcedente pala Delegacia de Julgamento e a
+sociedade empresária interpôs recurso ao Conselho Administrativo de Recursos Fiscais, pendente
+de análise até o momento.
+Sobre a hipótese apresentada, assinale a afirmativa correta.
+A) Caso venha a ser concedida por lei, moratória em caráter geral ou caráter individual, sem o
+prazo de duração do favor, haverá a suspensão da exigibilidade do crédito tributário.
+B) A decisão administrativa irreformável extingue o crédito tributário, assim entendida a definitiva
+na órbita administrativa, passível de objeto de ação anulatória.
+C) A sociedade, por estar com recurso pendente de análise, pode participar de licitação que exija
+prova da quitação de determinado tributo.
+D) As reclamações e os recursos, nos termos das leis reguladoras do processo tributário
+administrativo suspendem a exigibilidade do crédito tributário, dispensando o cumprimento das
+obrigações assessórias dependentes da obrigação principal cujo crédito seja suspenso, ou dela
+consequentes.
+Comentário:
+Alternativa A: Por previsão expressa legal do art. 153, do CTN, a moratória tem, entre outros,
+como requisito, o prazo de duração do favor.
+Art. 153. A lei que conceda moratória em caráter geral ou autorize sua concessão em caráter
+individual especificará, sem prejuízo de outros requisitos:
+I - o prazo de duração do favor;
+Ademais, ressalta-se que a moratória suspende a exigibilidade do crédito tributário. Alternativa
+errada.
+Alternativa B: Ainda por força legal do CTN, a decisão administrativa irreformável é aquela
+definitiva na órbita administrativa e que não possa ser objeto de ação anulatória.
+
+                                                                                                 41
+                                                                                                 65
+
+
+---
+
+Art. 156. Extinguem o crédito tributário:
+(...)
+IX - a decisão administrativa irreformável, assim entendida a definitiva na órbita administrativa,
+que NÃO mais possa ser objeto de ação anulatória;
+Ademais, esse tipo de decisão extingue o crédito tributário. Alternativa errada.
+Alternativa C: A interposição de recurso ao Conselho Administrativo de Recursos Fiscais
+suspende a exigibilidade do crédito tributário, como tal recurso ainda está pendente de análise,
+o crédito tributário está suspenso.
+Art. 151. Suspendem a exigibilidade do crédito tributário:
+(...)
+III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário
+administrativo;
+Parágrafo único. O disposto neste artigo NÃO dispensa o cumprimento das obrigações
+assessórios dependentes da obrigação principal cujo crédito seja suspenso, ou dela
+consequentes.
+Para participação de licitação a Sapataria Moderna precisa fazer prova a quitação de todos os
+tributos devidos à Fazenda Pública interessada, como o crédito está suspenso, ela pode fazer
+essa prova por meio da apresentação da Certidão Positiva com Efeitos de Negativa.
+CTN. Art. 206. Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a
+existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido
+efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+Portanto, a Sapataria Moderna pode participar da licitação. Alternativa correta.
+Alternativa D: Por força legal do art. 151, § único, do CTN supracitado. O cumprimento das
+obrigações assessórias dependentes da obrigação principal cujo crédito seja suspenso não são
+dispensadas. Alternativa errada.
+Gabarito: Letra C
+
+13.FGV/Câmara Municipal de Salvador-BA-Advogado Legislativo/2018
+
+Um contribuinte questiona judicialmente, através de uma ação ordinária, três créditos tributários.
+
+Caso esse contribuinte venha a requerer certidão sobre sua situação fiscal, ela será:
+
+(A) negativa, em qualquer caso;
+
+(B) positiva, em qualquer caso;
+
+(C) positiva com efeitos de negativa, em qualquer caso;
+
+(D) negativa, caso o contribuinte tenha confessado os débitos em juízo;
+
+                                                                                                 42
+                                                                                                 65
+
+
+---
+
+(E) positiva com efeitos de negativa, caso tenha sido concedida a antecipação dos efeitos da
+tutela.
+
+Comentário: A certidão a ser expedida poderá ser positiva ou positiva com efeitos de negativa,
+sendo que neste caso o contribuinte deve se enquadrar em alguma dos casos previstos no art.
+206, do CTN: créditos não vencidos, créditos em curso de cobrança executiva em que tenha sido
+efetivada a penhora, ou créditos cuja exigibilidade esteja suspensa.
+Vale lembrar que as medidas que ensejam a suspensão da exigibilidade do crédito tributário
+estão previstas no art. 151, do CTN, dentre as quais está a concessão de antecipação de tutela.
+Assim, não se pode dizer que é positiva, positiva com efeitos de negativa ou negativa, em
+qualquer caso. Ademais, também não há relação com o fato de o contribuinte ter ou não
+confessado os débitos em juízo.
+
+Gabarito: Letra E
+
+14.FGV/SEFIN-RO-Técnico Tributário/2018
+
+Analise as hipóteses a seguir, e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) Constitui dívida ativa tributária todo crédito da Fazenda Pública que tiver sido inscrito em
+repartição administrativa competente, esgotado o prazo em lei para pagamento.
+
+( ) Certidão da Dívida Ativa é o título que habilita o Fisco a ingressar com a execução fiscal,
+contemplando valor líquido e certo, incabível sua alteração após iniciado o processo executivo.
+
+( ) A Fazenda Pública pode substituir a certidão de dívida ativa até a decisão de 1ª instância,
+quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo
+da execução.
+
+Na sequência em que aparecem, as afirmativas são, respectivamente,
+
+a) F – F – V.
+
+b) V – V – F.
+
+c) F – V – F.
+
+d) V – F – V.
+
+e) V – F – F.
+
+Comentário:
+Item I: De acordo com o art. 201, do CTN, constitui dívida ativa tributária a proveniente de
+crédito dessa natureza, regularmente inscrita na repartição administrativa competente, depois de
+esgotado o prazo fixado, para pagamento, pela lei ou por decisão final proferida em processo
+regular. Logo, não se pode afirmar que é todo crédito da Fazenda Pública, mas apenas créditos
+tributários. Item errado.
+
+
+                                                                                              43
+                                                                                              65
+
+
+---
+
+Item II: O art. 203, do CTN, prevê que a omissão de quaisquer dos requisitos previstos no artigo
+anterior, ou o erro a eles relativo, são causas de nulidade da inscrição e do processo de cobrança
+dela decorrente, mas a nulidade poderá ser sanada até a decisão de primeira instância, mediante
+substituição da certidão nula, devolvido ao sujeito passivo, acusado ou interessado o prazo para
+defesa, que somente poderá versar sobre a parte modificada. Item errado.
+Item III: Além do que já foi afirmado no item anterior, em relação ao art. 203, do CTN, para
+responder o Item III, seria necessário conhecer a Súmula 392, do STJ, segundo a qual a Fazenda
+Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos,
+quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo
+da execução. Item correto.
+
+Gabarito: Letra A
+
+15.FGV/SEFIN-RO-Técnico Tributário/2018
+
+A empresa Delta possuía um débito tributário junto ao Estado Beta relativo à determinada
+exação lançada por homologação. Ocorre que o Supremo Tribunal Federal declarou
+inconstitucional o tributo que é objeto da dívida de Delta. Esta precisa obter uma certidão
+negativa, para poder concorrer a um procedimento licitatório.
+
+Nessas circunstâncias,
+
+a) a empresa não tem direito à certidão negativa, visto que a decisão do STF não retroage, e a
+dívida é anterior à declaração da inconstitucionalidade.
+
+b) tendo havido regular apuração do crédito fazendário, prevalece a presunção de liquidez e
+certeza em favor do Fisco.
+
+c) a empresa tem direito apenas à certidão positiva com efeito de negativa, havendo a suspensão
+da exigibilidade do tributo.
+
+d) a empresa tem direito à certidão negativa, porém deve fazer o depósito cautelar do tributo
+que foi lançado por homologação, até que a Fazenda interessada se manifeste.
+
+e) a empresa tem direito à certidão negativa até a fiscalização da regularidade do procedimento
+de lançamento pelo Fisco, apurando-se eventual débito tributário ainda remanescente.
+
+Comentário:
+Alternativa A: De acordo com a jurisprudência do STJ, não se pode negar a expedição de
+Certidão Negativa de Débito ante a presença de débito referente ao não pagamento de exação
+declarada inconstitucional pelo Colendo Supremo Tribunal Federal. Alternativa errada.
+Alternativa B: A presunção de certeza e liquidez é relativa, cabendo prova em contrário.
+Alternativa errada.
+Alternativa C: Não há que se falar em certidão positiva com efeito de negativa, por não se
+enquadrar nas situações descritas no art. 206, do CTN. Alternativa errada.
+
+                                                                                               44
+                                                                                               65
+
+
+---
+
+Alternativa D: Já comentamos que não se pode negar a expedição de Certidão Negativa de
+Débito ante a presença de débito referente ao não pagamento de exação declarada
+inconstitucional pelo Colendo Supremo Tribunal Federal. Alternativa errada.
+Alternativa E: Cabe aqui o mesmo comentário da alternativa anterior (Letra D). Alternativa
+correta.
+
+Gabarito: Letra E
+
+16.FGV/Fiscal de Tributos-Niterói/2015
+
+Nos termos do Código Tributário Nacional, “a legislação tributária, observado o disposto nesta
+Lei, regulará, em caráter geral, ou especificamente em função da natureza do tributo de que se
+tratar, a competência e os poderes das autoridades administrativas em matéria de fiscalização da
+sua aplicação”. Assim, a legislação mencionada será aplicada:
+
+a) a pessoas naturais ou jurídicas não imunes, mesmo que isentas ou as que não sejam tributadas
+por força de norma infraconstitucional;
+
+b) a pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade
+tributária ou de isenção de caráter pessoal;
+
+c) a pessoas naturais ou, quando se trate de pessoa jurídica, a seus diretores ou representantes
+legais;
+
+d) a pessoas jurídicas que sejam contribuintes ou responsáveis por tributos em geral ou pelo
+tributo específico a que se refira;
+
+e) a pessoas naturais ou jurídicas que sejam contribuintes do imposto a que alude a norma
+respectiva.
+
+Comentário: O comando da questão consiste na transcrição do caput do art. 194, do CTN. Foi
+solicitado do candidato o que consta no seu par. único: a legislação a que se refere este artigo
+aplica-se às pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de
+imunidade tributária ou de isenção de caráter pessoal.
+
+Gabarito: Letra B
+
+17.FGV/Fiscal de Tributos-Niterói/2015
+
+Para a validade da Certidão da Dívida Ativa, NÃO é essencial:
+
+a) a data da inscrição;
+
+b) a origem, a natureza e o fundamento legal ou contratual da dívida;
+
+c) a autenticação da autoridade competente;
+
+d) o domicílio ou residência do devedor;
+
+
+                                                                                             45
+                                                                                             65
+
+
+---
+
+e) a indicação do livro e da folha da inscrição.
+
+Comentário: São requisitos essenciais à validade da Certidão de Dívida Ativa (CDA), conforme
+disposto no art. 202, do CTN:
+
+●      Autenticação pela autoridade competente;
+●      o nome do devedor e, sendo caso, o dos corresponsáveis;
+●      a quantia devida e a maneira de calcular os juros de mora acrescidos;
+●      a origem e natureza do crédito, mencionada especificamente a disposição da lei em que
+seja fundado;
+●      a data em que foi inscrita;
+●      sendo caso, o número do processo administrativo de que se originar o crédito;
+
+indicação do livro e da folha da inscrição.
+De acordo com o art. 202, I, do CTN, o termo de inscrição da dívida ativa indicará, sempre que
+possível, o domicílio ou a residência do devedor e de seus corresponsáveis.
+
+Gabarito: Letra D
+
+18.FGV/CONDER-Advogado/2013
+
+Em determinado procedimento de fiscalização os agentes fazendários, sem mandado judicial,
+apreenderam livros contábeis e arquivos que continham registros de notas fiscais emitidas pela
+empresa fiscalizada. Os documentos fiscais e contábeis referidos subsidiaram a denúncia do MP
+em face dos gestores da empresa, por crime de sonegação fiscal.
+
+A denúncia, na hipótese,
+
+A) padece de vício de nulidade, já que houve quebra do sigilo de dados não autorizada pelo
+Poder Judiciário.
+
+B) não é cabível denúncia com base em quebra não autorizada do sigilo de dados, embora sejam
+documentos de apresentação obrigatória pelo contribuinte.
+
+C) a prova obtida através de meio ilícito conspurca a denúncia, conforme registrado na tese dos
+frutos da árvore envenenada.
+
+D) pode ser regularmente admitida, já que embora tenha havido a quebra do sigilo de dados,
+durante o processo o contribuinte poderá opor defesa.
+
+E) deve ser regularmente recebida, já que não há qualquer vício no procedimento adotado pela
+fiscalização, uma vez que os documentos apreendidos são públicos.
+
+Comentário: De acordo com o art. 195, do CTN, não têm aplicação quaisquer disposições legais
+excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos, documentos,
+papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da
+obrigação destes de exibi-los. Portanto, a denúncia do Ministério Público por crime de
+
+                                                                                            46
+                                                                                            65
+
+
+---
+
+sonegação fiscal deve ser recebida pelo Poder Judiciário, já que não houve vício no
+procedimento adotado pela fiscalização.
+
+Gabarito: Letra E
+
+19.FGV/CGE-MA- AUDITOR/2014
+
+DCS – Corretagem e Seguros Ltda., se insurge em face da quebra de seu sigilo bancário para
+averiguação, pela Receita, de sua movimentação financeira. Até a lavratura do auto de infração,
+que ocorreu em 2000, só havia procedimento administrativo de fiscalização, sem qualquer
+processo judicial instaurado.
+
+Aduz a sociedade empresária que a Lei Complementar n. 105/2001, que dispõe sobre o sigilo
+das operações financeiras, não poderia ter sua aplicação retroativa.
+
+Com base no exposto, assinale a afirmativa correta.
+
+A) É lícita e legítima a conduta do Fisco, uma vez que possível a retroatividade das leis tributárias
+procedimentais, relativas à constituição do crédito tributário não alcançado pela decadência,
+ainda que os fatos imponíveis a serem apurados lhes sejam anteriores.
+
+B) É inconstitucional a conduta do Fisco, seja pela aplicação retroativa da Lei Complementar n.
+105/2001, seja pela quebra do sigilo de dados que tem proteção da Carta Magna.
+
+C) É ilegal a conduta do Fisco, que conflita com o Código Tributário Nacional, o qual determina
+que o lançamento seja regido pela lei vigente à época da ocorrência do fato gerador.
+
+D) É legítima a conduta do Fisco, já que a Fazenda Pública prescinde, em qualquer hipótese, de
+autorização judicial para obter informações sobre operações realizadas pelo contribuinte.
+
+E) É abusiva a conduta do Fisco, pois embora a lei tributária procedimental possa retroagir, tal
+não será possível para gerar responsabilidade do contribuinte.
+
+Comentário: A LC 105/2001 permitiu em seu art. 6º, que as autoridades e os agentes fiscais
+tributários da União, dos Estados, do Distrito Federal e dos Municípios podem examinar
+documentos, livros e registros de instituições financeiras, referentes ao sujeito passivo. Como se
+trata de lei procedimental, pode ser aplicada aos fatos geradores anteriores à sua edição, em
+conformidade com o que dispõe o § 1º, do art. 144, do CTN.
+
+Gabarito: Letra A
+
+20.FGV/Fiscal de Rendas-RJ/2008
+
+A respeito da quebra do sigilo bancário do contribuinte pela fiscalização tributária, é correto
+afirmar que:
+
+A) depende sempre de autorização judicial.
+
+                                                                                                  47
+                                                                                                  65
+
+
+---
+
+B) não se pode dar de modo algum.
+
+C) viola a Constituição.
+
+D) pode ocorrer, no caso de processo administrativo em trâmite.
+
+E) para sua concreção, basta que a autoridade fiscal expeça intimação escrita.
+
+Comentário: De acordo com o art. 6º, da LC 105/2001, as autoridades e os agentes fiscais
+tributários da União, dos Estados, do Distrito Federal e dos Municípios podem examinar
+documentos, livros e registros de instituições financeiras, referentes ao sujeito passivo, quando
+houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames sejam
+considerados indispensáveis pela autoridade administrativa competente. Portanto, a resposta
+desta questão é a Letra D.
+
+Gabarito: Letra D
+
+21.FGV/Fiscal de Rendas-MS/2006
+
+A competência e os poderes das autoridades administrativas, em matéria de fiscalização
+tributária, devem ser regulados pela legislação tributária:
+
+A) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se aos contribuintes, sejam pessoas naturais ou jurídicas, exceto as que gozem de
+isenção de caráter pessoal.
+
+B) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se aos contribuintes, sejam pessoas naturais ou jurídicas, exceto as que gozem de
+imunidade tributária.
+
+C) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se às pessoas naturais ou jurídicas, aos contribuintes ou não, exceto as que gozem de
+imunidade tributária ou de isenção de caráter pessoal.
+
+D) em caráter geral, aplicável a todos os tributos da União, dos Estados e dos Municípios,
+indistintamente.
+
+E) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se às pessoas naturais e jurídicas, contribuintes ou não, inclusive as que gozem de
+imunidade tributária ou de isenção de caráter pessoal.
+
+Comentário: A questão cobra a literalidade do art. 194, do CTN. Assim, a competência e os
+poderes das autoridades administrativas, em matéria de fiscalização tributária, devem ser
+regulados pela legislação tributária em caráter geral, ou especificamente em função da natureza
+do tributo de que se tratar. Ademais, a legislação aplica-se às pessoas naturais ou jurídicas, aos
+contribuintes ou não, exceto as que gozem de imunidade tributária ou de isenção de caráter
+pessoal.
+
+                                                                                               48
+                                                                                               65
+
+
+---
+
+Gabarito: Letra E
+
+22.FGV/Fiscal de Rendas-RJ/2008
+
+Com relação à expedição da Certidão Negativa de Débito (CND ou CPEN), em caso de débito
+de imposto, cujo valor o contribuinte já informara à Fazenda mediante documento próprio
+(GIA-ICMS), é correto afirmar que:
+
+A) não pode ser expedida em hipótese alguma.
+
+B) só pode ser expedida após a efetivação do lançamento a cargo da autoridade administrativa.
+
+C) não pode ser expedida, salvo se o contribuinte pagou o débito declarado.
+
+D) só pode ser expedida se ocorrer a suspensão da exigibilidade do crédito tributário.
+
+E) não pode ser expedida, pois não ocorreu inscrição do débito na Dívida Ativa.
+
+Comentário: A certidão negativa comprova a quitação de determinado tributo, no caso citado,
+do ICMS. Portanto, não pode ser expedida em caso de débito de imposto, salvo se o
+contribuinte pagou o débito declarado.
+
+Gabarito: Letra C
+
+23.FGV/Fiscal de Rendas-RJ/2008
+
+Débito de ICMS teve o fato gerador ocorrido em 01.04.01, foi objeto de lançamento em
+20.04.02, foi inscrito em dívida ativa em 20.05.04 e, em 25.05.05, o juiz despachou determinando
+a citação (Execução Fiscal). O contribuinte devedor alienou todos os seus bens em _____,
+caracterizando fraude à execução.
+
+Assinale a alternativa que complete corretamente a lacuna do trecho acima:
+
+A) 20.05.02
+
+B) 10.01.04
+
+C) 31.03.03
+
+D) 01.09.02
+
+E) 30.11.04
+
+Comentário: Presume-se fraudulenta a alienação dos bens do sujeito passivo após o crédito
+tributário ser inscrito em dívida ativa. Portanto, se a alienação ocorrer em 30/11/04, após a
+referida inscrição, fica caracterizada a fraude.
+
+Gabarito: Letra A
+
+
+                                                                                             49
+                                                                                             65
+
+
+---
+
+24.FGV/Consultor Legislativo - MA /2013
+
+Com relação à Certidão da Dívida Ativa, assinale a afirmativa correta.
+
+A) A certidão da dívida ativa que contiver erro substancial quanto ao nome do devedor é
+anulável, cabendo ao contribuinte pugnar pela correção do ato.
+
+B) O termo de inscrição da dívida ativa deve contemplar o demonstrativo de cálculo do tributo
+devido.
+
+C) A certidão da dívida ativa é título executivo cartular, cuja validade se prende à sua literalidade.
+
+D) A certidão da dívida ativa é prova pré‐constituída do débito tributário, que pode ser elidida
+pelo contribuinte.
+
+E) A certidão da dívida ativa deve discriminar os juros e demais encargos que estejam sendo
+cobrados do contribuinte.
+
+Comentário:
+Alternativa A: A certidão da dívida ativa que contiver erro substancial quanto ao nome do
+devedor é nula, mas a nulidade poderá ser sanada até a decisão de primeira instância, mediante
+substituição da certidão nula, devolvido ao sujeito passivo, acusado ou interessado o prazo para
+defesa, que somente poderá versar sobre a parte modificada. Alternativa errada.
+Alternativa B: Na realidade, o termo de inscrição da dívida ativa não precisa contemplar o
+demonstrativo de cálculo do tributo devido, mas sim a quantia devida e a maneira de calcular os
+juros de mora acrescidos. Alternativa errada.
+Alternativa C: Não se pode afirmar que a certidão da dívida ativa é um título executivo cartular,
+cuja validade se prende à sua literalidade, justamente porque a dívida regularmente inscrita goza
+da presunção relativa de certeza e liquidez. Alternativa errada.
+Alternativa D: Conforme prevê o art. 204, do CTN, a dívida regularmente inscrita goza da
+presunção relativa de certeza e liquidez e tem o efeito de prova pré-constituída. Pode ser,
+portanto, ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+Alternativa correta.
+Alternativa E: O art. 202 apenas menciona a obrigatoriedade de indicação da quantia devida e a
+maneira de calcular os juros de mora acrescidos. Alternativa errada.
+
+Gabarito: Letra D
+
+25.FGV/Fiscal de Rendas-MS/2006
+
+A respeito da dívida tributária regularmente inscrita, pode-se afirmar que:
+
+A) goza de certeza, liquidez e tem efeito de prova pré-constituída.
+
+B) sua certeza pode ser ilidida por qualquer prova indiciária.
+
+
+                                                                                                    50
+                                                                                                    65
+
+
+---
+
+C) goza de presunção absoluta de certeza e liquidez.
+
+D) somente pode ser desconstituída pelo sujeito passivo.
+
+E) não precisa ser líquida.
+
+Comentário: De acordo com o art. 204, do CTN, a dívida regularmente inscrita goza da
+presunção de certeza e liquidez e tem o efeito de prova pré-constituída.
+
+Gabarito: Letra A
+
+26.FGV/TJ-AP-Juiz/2008
+
+Com relação à Administração Tributária e às Garantias e Privilégios do crédito tributário, assinale
+a afirmativa incorreta.
+
+a) A certidão em que constar a existência de crédito não vencido, no curso de cobrança executiva
+em que tenha sido efetivada a penhora, ou cuja exigibilidade tenha sido suspensa, será
+considerada "positiva, com efeito, de negativa".
+
+b) A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem o efeito de prova
+pré-constituída. Assim, com base na alteração introduzida no CTN pela Lei Complementar
+118/05, presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por
+sujeito passivo em débito para com a Fazenda Pública, por crédito tributário regularmente
+inscrito como dívida ativa.
+
+c) A penhora on-line, no Direito Tributário, encontra amparo no CTN e permite a decretação
+judicial da indisponibilidade dos bens e direitos do devedor, com a comunicação da decisão,
+preferencialmente por meio eletrônico, aos órgãos e entidades que promovem os registros de
+transferência de bens, a fim de que, no âmbito de suas atribuições, façam cumprir a ordem
+judicial.
+
+d) Segundo o CTN, os créditos tributários decorrentes de fatos geradores ocorridos no curso do
+processo de falência são considerados extraconcursais.
+
+e) A enumeração das garantias do crédito tributário pelo CTN é taxativa, pois não permite que
+outras garantias sejam previstas em lei.
+
+Comentário:
+Alternativa A: É o que prescreve o art. 206, do CTN: tem os mesmos efeitos previstos no artigo
+anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança
+executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa.
+Alternativa correta.
+Alternativa B: A partir da data de inscrição do crédito tributário em dívida ativa, a alienação ou
+oneração de bens ou rendas, ou seu começo pelo sujeito passivo configura presunção de fraude
+à execução fiscal. Alternativa correta.
+
+                                                                                                51
+                                                                                                65
+
+
+---
+
+Alternativa C: Tal regra encontra-se prevista no art. 185-A, do CTN, incluído pela LC 118/05.
+Alternativa correta.
+Alternativa D: O art. 188, caput, estabelece que são extraconcursais os créditos tributários
+decorrentes de fatos geradores ocorridos no curso do processo de falência. Alternativa correta.
+Alternativa E: O art. 183, do CTN, é claro no sentido de que a enumeração das garantias
+atribuídas em seu texto ao crédito tributário não exclui outras que sejam expressamente previstas
+em lei, em função da natureza ou das características do tributo a que se refiram. Alternativa
+errada.
+
+Gabarito: Letra E
+
+                                                                                              52
+                                                                                              65
+
+
+---
+
+         LISTA DAS QUESTÕES COMPLEMENTARES
+Administração Tributária
+1. FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+A Administradora de imóveis PDQA foi intimada pela Receita Federal a prestar informações dos imóveis e
+valor dos aluguéis em nome do seu cliente, Sr. Alexandre Batista, para apuração de possível sonegação de
+Imposto de Renda nos últimos anos. Em relação a tal intimação, a Administradora deve
+a) negar as informações, pois só pode prestá-las em caso de ordem judicial.
+b) prestar as informações em relação aos imóveis, mas não em relação aos valores dos aluguéis.
+c) negar as informações, pois só pode prestá-las em caso de ordem judicial ou requisição do Ministério
+Público.
+d) negar as informações, devido ao sigilo bancário e fiscal do cliente.
+e) prestar as informações tanto em relação aos imóveis quanto ao valor dos aluguéis.
+2. FGV/TT (Pref SJC)/Pref SJC/2024
+A obrigação tributária tem por objeto o pagamento de tributos, multas e o cumprimento de um fazer ou
+não fazer de caráter acessório. Essas relações jurídicas de naturezas distintas também são estabelecidas,
+envolvendo tanto contribuintes como responsáveis tributários.
+Com base nessa premissa, é correto afirmar que
+a) a obrigação de pagar multa tributária é subordinada ao pagamento da obrigação tributária principal.
+b) a obrigação acessória descumprida pelo contribuinte converte-se em principal, exceto quando dotada
+de natureza sancionatória.
+c) a fruição de imunidade não dispensa o contribuinte do cumprimento das obrigações acessórias e da
+sujeição à fiscalização tributária.
+d) apenas o contribuinte pode ser chamado a cumprir medidas que facilitem a fiscalização tributária.
+e) entidade isenta do pagamento de imposto não pode ser obrigada a manter sua escrita fiscal em dia
+atendendo ao interesse da Administração Tributária.
+3. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+No que se refere à administração tributária, analise os itens a seguir.
+I. As autoridades administrativas federais poderão requisitar o auxílio da força pública federal, estadual ou
+municipal, e reciprocamente, quando vítimas de embaraço ou desacato no exercício de suas funções.
+II. A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem o efeito de prova
+pré-constituída, não podendo ser ilidida por prova inequívoca do contribuinte.
+III. Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de expedição de certidão
+negativa ou positiva com efeito de negativa.
+
+
+                                                                                                          53
+                                                                                                          65
+
+
+---
+
+Está correto o que se afirma em
+a) I e III.
+b) I, apenas.
+c) I e II.
+d) II e III.
+e) I, II e III.
+4. FGV/TT (Pref SJC)/Pref SJC/2024
+O Fisco, como sujeito ativo da relação jurídica obrigacional tributária, tem as prerrogativas de fiscalizar,
+lançar e cobrar tributos.
+As administrações tributárias da União, Estados, Distrito Federal e dos Municípios
+a) apresentam a prerrogativa de aplicar sanções políticas no exercício do poder de império para realizar a
+cobrança de tributo.
+b) prescindem de processo administrativo para divulgarem, umas às outras, informações específicas dos
+negócios dos contribuintes.
+c) reúnem servidores de carreiras específicas para o exercício de suas atividades.
+d) atuam de forma integrada, inclusive compartilhando os respectivos cadastros fiscais.
+e) não podem permutar informações fiscais de empresas brasileiras, com Estados estrangeiros.
+5. FGV/TT (Pref SJC)/Pref SJC/2024
+A Administração Tributária envolve o segmento da Administração Pública que trata dos tributos, no que se
+refere à arrecadação, fiscalização e cobrança. Com relação ao poder de fiscalização, avalie se as seguintes
+afirmativas estão corretas.
+I. Aplica-se às pessoas naturais ou jurídicas contribuintes ou não, inclusive às que gozem de imunidade
+tributária ou de isenção de caráter pessoal.
+II. As disposições legais excludentes ou limitativas do direito de examinar mercadorias, livros, arquivos,
+documentos, papéis e efeitos comerciais ou fiscais, dos comerciantes industriais ou produtores, ou da
+obrigação destes de exibi-los tem aplicação limitada aos que gozam de imunidade.
+III. Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles
+efetuados serão conservados até que ocorra a prescrição dos créditos tributários decorrentes das
+operações a que se refiram.
+IV. É direito da Fazenda Pública divulgar informação obtida em razão do ofício sobre a situação econômica
+ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou
+atividades.
+Estão corretas as afirmativas
+a) I e III.
+b) II e III.
+
+                                                                                                         54
+                                                                                                         65
+
+
+---
+
+c) III e IV.
+d) I e IV.
+e) II e IV.
+6. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+A empresa X, por discordar de auto de infração lavrado por fiscal da Receita Federal, visando à cobrança de
+crédito de Imposto sobre Produtos Industrializados – IPI, apresentou, de forma tempestiva, impugnação ao
+auto de infração, nos termos da legislação. A referida impugnação ainda está pendente de decisão
+administrativa.
+Ao requerer a certidão de regularidade fiscal federal, o Fisco Federal negou a emissão, em razão da
+existência do referido crédito de IPI.
+Sobre a hipótese, é correto afirmar que
+a) o Fisco está correto, visto que a exigibilidade do crédito está ativa e, portanto, a empresa X não tem
+direito à certidão de regularidade fiscal.
+b) o Fisco está correto, visto que não houve pagamento do débito e, portanto, a empresa X não tem direito
+à certidão de regularidade fiscal.
+c) o crédito se encontra com a exigibilidade suspensa e, portanto, a empresa X tem direito à certidão
+positiva com efeitos de negativa.
+d) o crédito está extinto pela impugnação e, portanto, a empresa X tem direito à certidão negativa de
+débitos.
+e) a impugnação exclui o crédito tributário e, portanto, a empresa X tem direito à certidão positiva com
+efeitos de negativa.
+7. FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+Julia Almeida tem uma dívida de IPTU com a prefeitura de São José dos Campos ainda não inscrita em
+dívida ativa, tanto que não tem a Certidão de Dívida Ativa (CDA) respectiva.
+Julia foi surpreendida com o protesto desta dívida num Tabelionato de Protesto de Títulos, inclusive com
+seu nome passando a constar em serviços de proteção ao crédito. Sobre a situação de Júlia, assinale a
+afirmativa correta.
+a) É possível o protesto de título da dívida do Município mesmo sem a CDA.
+b) Não é possível o protesto de título sem a respectiva CDA.
+c) É possível o protesto de título, se a Execução Fiscal for suspensa por não terem sido encontrados bens da
+devedora.
+d) Não é possível protesto de título de dívida do Município, devendo ser proposta a Execução Fiscal.
+e) É possível o protesto de títulos apenas com a CDA, mas não é permitido a inscrição em serviços de
+proteção ao crédito.
+8. FGV/RFB-Auditor Fiscal/2023
+
+                                                                                                         55
+                                                                                                         65
+
+
+---
+
+A sociedade empresária Delta Ltda. teve sua falência decretada judicialmente. Ao realizar, por ser
+necessária, a classificação dos créditos na falência, para definir sua ordem de preferência de
+pagamento, foi constatado que havia a serem pagos:
+I. créditos tributários anteriores ao início do curso do processo de falência;
+II. crédito decorrente de acidente de trabalho no valor de 200 salários-mínimos;
+III. créditos com garantia real, no limite do valor do bem gravado;
+IV. multas tributárias.
+Assinale a opção que indica a devida ordem de pagamento de tais créditos, partindo do crédito
+de maior preferência para o de menor preferência.
+A) I – IV – II – III
+B) I – III – II – IV
+C) II – III – I – IV
+D) III – II – I – IV
+E) II – I – IV – III
+9. FGV/SEF-MG-Auditor Fiscal/2023
+A sociedade empresária Somente Imóveis, administradora de imóveis de terceiros, foi intimada
+de forma escrita pela Receita Federal a prestar informações referentes aos aluguéis pagos a um
+dos seus clientes, que possui 6 (seis) apartamentos por ela administrados.
+A sociedade empresária procurou um advogado que a aconselhou a não responder e assim ela
+agiu.
+Sobre a hipótese narrada, à luz do CTN, assinale a afirmativa correta.
+A) A sociedade empresária está correta, porque envolve sigilo bancário e só o BACEN ou ordem
+judicial podem obrigá-la a prestar tais informações.
+B) A sociedade empresária não está correta, desde que no contrato com o cliente não exista
+cláusula vedando o fornecimento dessas informações.
+C) A sociedade empresária está correta, porque o pedido da Receita Federal é ilegal.
+D) A sociedade empresária não está correta, porque ela está obrigada a prestar todas as
+informações de que disponha com relação aos bens, negócios ou atividades de terceiros.
+E) A sociedade empresária está correta, porque envolve sigilo bancário e só o Judiciário pode
+obrigá-la a prestar tais informações.
+10.FGV/SEF-MG-Auditor Fiscal/2023
+A sociedade empresária ABC, atuante no comércio varejista, recebeu do Fisco do Estado Alfa
+uma notificação contendo auto de infração pelo descumprimento de obrigação acessória
+referente ao ICMS prevista em decreto do Governador. A notificação informava que o sujeito
+passivo dispunha de 45 dias, após ser notificado, para impugnar o lançamento ou pagar a multa
+tributária prevista no auto de infração.
+
+
+                                                                                               56
+                                                                                               65
+
+
+---
+
+Diante desse cenário, assinale a afirmativa correta.
+A) A modalidade de lançamento tributário presente no enunciado configura um lançamento por
+declaração.
+B) O Estado Alfa não poderia estabelecer prazo de 45 dias após a notificação do sujeito passivo
+para pagamento de tal multa tributária.
+C) A fixação do prazo de pagamento de tal multa tributária se submete ao princípio tributário da
+reserva de lei.
+D) Tal obrigação acessória deveria ser criada por lei estadual, e não por decreto.
+E) Caso a sociedade requeira certidão de regularidade fiscal do ICMS no 25º dia após a
+notificação do auto de infração, deverá ser emitida certidão positiva com efeito de negativa.
+11.FGV/RFB-Analista Tributário/2023
+A sociedade empresária Engenharia Ômicron Ltda. recebeu notificação para pagar ou impugnar,
+no prazo de 30 dias, determinado tributo federal cuja arrecadação é feita pela Secretaria Especial
+da Receita Federal do Brasil (SERFB). Inconformada com a cobrança, impugnou o lançamento
+dentro do prazo devido, mas as decisões administrativas de 1º e 2º grau foram-lhe desfavoráveis.
+Recebeu então intimação para realizar o pagamento no prazo de 30 dias após o recebimento da
+intimação acerca da decisão irrecorrível em sede administrativa. No 10º dia após a ciência desta
+intimação, a sociedade precisou emitir uma certidão fiscal que comprove a quitação de tal
+tributo, com vistas a participar de um certame licitatório.
+Diante desse cenário e à luz do Código Tributário Nacional, será emitida uma
+A) Certidão Negativa.
+B) Certidão Negativa com Efeitos de Positiva.
+C) Certidão Positiva.
+D) Certidão Positiva com Efeito de Negativa.
+E) Certidão de Exclusão do Crédito Tributário.
+12.FGV/TJ-MG/2022
+Sapataria Moderna Ltda., sociedade empresária limitada, foi autuada pela falta de pagamento de
+COFINS, pelo que apresentou, no prazo correto, a competente impugnação administrativa contra
+tal autuação. A impugnação foi julgada improcedente pala Delegacia de Julgamento e a
+sociedade empresária interpôs recurso ao Conselho Administrativo de Recursos Fiscais, pendente
+de análise até o momento.
+Sobre a hipótese apresentada, assinale a afirmativa correta.
+A) Caso venha a ser concedida por lei, moratória em caráter geral ou caráter individual, sem o
+prazo de duração do favor, haverá a suspensão da exigibilidade do crédito tributário.
+B) A decisão administrativa irreformável extingue o crédito tributário, assim entendida a definitiva
+na órbita administrativa, passível de objeto de ação anulatória.
+C) A sociedade, por estar com recurso pendente de análise, pode participar de licitação que exija
+prova da quitação de determinado tributo.
+
+                                                                                                 57
+                                                                                                 65
+
+
+---
+
+D) As reclamações e os recursos, nos termos das leis reguladoras do processo tributário
+administrativo suspendem a exigibilidade do crédito tributário, dispensando o cumprimento das
+obrigações assessórias dependentes da obrigação principal cujo crédito seja suspenso, ou dela
+consequentes.
+13.FGV/Câmara Municipal de Salvador-BA-Advogado Legislativo/2018
+Um contribuinte questiona judicialmente, através de uma ação ordinária, três créditos tributários.
+Caso esse contribuinte venha a requerer certidão sobre sua situação fiscal, ela será:
+(A) negativa, em qualquer caso;
+(B) positiva, em qualquer caso;
+(C) positiva com efeitos de negativa, em qualquer caso;
+(D) negativa, caso o contribuinte tenha confessado os débitos em juízo;
+(E) positiva com efeitos de negativa, caso tenha sido concedida a antecipação dos efeitos da
+tutela.
+
+
+14.FGV/SEFIN-RO-Técnico Tributário/2018
+Analise as hipóteses a seguir, e assinale (V) para a verdadeira e (F) para a falsa.
+( ) Constitui dívida ativa tributária todo crédito da Fazenda Pública que tiver sido inscrito em
+repartição administrativa competente, esgotado o prazo em lei para pagamento.
+( ) Certidão da Dívida Ativa é o título que habilita o Fisco a ingressar com a execução fiscal,
+contemplando valor líquido e certo, incabível sua alteração após iniciado o processo executivo.
+( ) A Fazenda Pública pode substituir a certidão de dívida ativa até a decisão de 1ª instância,
+quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo
+da execução.
+Na sequência em que aparecem, as afirmativas são, respectivamente,
+a) F – F – V.
+b) V – V – F.
+c) F – V – F.
+d) V – F – V.
+e) V – F – F.
+
+
+15.FGV/SEFIN-RO-Técnico Tributário/2018
+A empresa Delta possuía um débito tributário junto ao Estado Beta relativo à determinada
+exação lançada por homologação. Ocorre que o Supremo Tribunal Federal declarou
+inconstitucional o tributo que é objeto da dívida de Delta. Esta precisa obter uma certidão
+negativa, para poder concorrer a um procedimento licitatório.
+Nessas circunstâncias,
+
+                                                                                                 58
+                                                                                                 65
+
+
+---
+
+a) a empresa não tem direito à certidão negativa, visto que a decisão do STF não retroage, e a
+dívida é anterior à declaração da inconstitucionalidade.
+b) tendo havido regular apuração do crédito fazendário, prevalece a presunção de liquidez e
+certeza em favor do Fisco.
+c) a empresa tem direito apenas à certidão positiva com efeito de negativa, havendo a suspensão
+da exigibilidade do tributo.
+d) a empresa tem direito à certidão negativa, porém deve fazer o depósito cautelar do tributo
+que foi lançado por homologação, até que a Fazenda interessada se manifeste.
+e) a empresa tem direito à certidão negativa até a fiscalização da regularidade do procedimento
+de lançamento pelo Fisco, apurando-se eventual débito tributário ainda remanescente.
+
+
+16.FGV/Fiscal de Tributos-Niterói/2015
+Nos termos do Código Tributário Nacional, “a legislação tributária, observado o disposto nesta
+Lei, regulará, em caráter geral, ou especificamente em função da natureza do tributo de que se
+tratar, a competência e os poderes das autoridades administrativas em matéria de fiscalização da
+sua aplicação”. Assim, a legislação mencionada será aplicada:
+a) a pessoas naturais ou jurídicas não imunes, mesmo que isentas ou as que não sejam tributadas
+por força de norma infraconstitucional;
+b) a pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade
+tributária ou de isenção de caráter pessoal;
+c) a pessoas naturais ou, quando se trate de pessoa jurídica, a seus diretores ou representantes
+legais;
+d) a pessoas jurídicas que sejam contribuintes ou responsáveis por tributos em geral ou pelo
+tributo específico a que se refira;
+e) a pessoas naturais ou jurídicas que sejam contribuintes do imposto a que alude a norma
+respectiva.
+
+
+17.FGV/Fiscal de Tributos-Niterói/2015
+Para a validade da Certidão da Dívida Ativa, NÃO é essencial:
+a) a data da inscrição;
+b) a origem, a natureza e o fundamento legal ou contratual da dívida;
+c) a autenticação da autoridade competente;
+d) o domicílio ou residência do devedor;
+e) a indicação do livro e da folha da inscrição.
+
+
+18.FGV/CONDER-Advogado/2013
+Em determinado procedimento de fiscalização os agentes fazendários, sem mandado judicial,
+apreenderam livros contábeis e arquivos que continham registros de notas fiscais emitidas pela
+
+
+                                                                                             59
+                                                                                             65
+
+
+---
+
+empresa fiscalizada. Os documentos fiscais e contábeis referidos subsidiaram a denúncia do MP
+em face dos gestores da empresa, por crime de sonegação fiscal.
+A denúncia, na hipótese,
+A) padece de vício de nulidade, já que houve quebra do sigilo de dados não autorizada pelo
+Poder Judiciário.
+B) não é cabível denúncia com base em quebra não autorizada do sigilo de dados, embora sejam
+documentos de apresentação obrigatória pelo contribuinte.
+C) a prova obtida através de meio ilícito conspurca a denúncia, conforme registrado na tese dos
+frutos da árvore envenenada.
+D) pode ser regularmente admitida, já que embora tenha havido a quebra do sigilo de dados,
+durante o processo o contribuinte poderá opor defesa.
+E) deve ser regularmente recebida, já que não há qualquer vício no procedimento adotado pela
+fiscalização, uma vez que os documentos apreendidos são públicos.
+
+
+19.FGV/CGE-MA- AUDITOR/2014
+DCS – Corretagem e Seguros Ltda., se insurge em face da quebra de seu sigilo bancário para
+averiguação, pela Receita, de sua movimentação financeira. Até a lavratura do auto de infração,
+que ocorreu em 2000, só havia procedimento administrativo de fiscalização, sem qualquer
+processo judicial instaurado.
+Aduz a sociedade empresária que a Lei Complementar n. 105/2001, que dispõe sobre o sigilo
+das operações financeiras, não poderia ter sua aplicação retroativa.
+Com base no exposto, assinale a afirmativa correta.
+A) É lícita e legítima a conduta do Fisco, uma vez que possível a retroatividade das leis tributárias
+procedimentais, relativas à constituição do crédito tributário não alcançado pela decadência,
+ainda que os fatos imponíveis a serem apurados lhes sejam anteriores.
+B) É inconstitucional a conduta do Fisco, seja pela aplicação retroativa da Lei Complementar n.
+105/2001, seja pela quebra do sigilo de dados que tem proteção da Carta Magna.
+C) É ilegal a conduta do Fisco, que conflita com o Código Tributário Nacional, o qual determina
+que o lançamento seja regido pela lei vigente à época da ocorrência do fato gerador.
+D) É legítima a conduta do Fisco, já que a Fazenda Pública prescinde, em qualquer hipótese, de
+autorização judicial para obter informações sobre operações realizadas pelo contribuinte.
+E) É abusiva a conduta do Fisco, pois embora a lei tributária procedimental possa retroagir, tal
+não será possível para gerar responsabilidade do contribuinte.
+
+
+20.FGV/Fiscal de Rendas-RJ/2008
+A respeito da quebra do sigilo bancário do contribuinte pela fiscalização tributária, é correto
+afirmar que:
+A) depende sempre de autorização judicial.
+B) não se pode dar de modo algum.
+
+
+                                                                                                  60
+                                                                                                  65
+
+
+---
+
+C) viola a Constituição.
+D) pode ocorrer, no caso de processo administrativo em trâmite.
+E) para sua concreção, basta que a autoridade fiscal expeça intimação escrita.
+
+
+21.FGV/Fiscal de Rendas-MS/2006
+A competência e os poderes das autoridades administrativas, em matéria de fiscalização
+tributária, devem ser regulados pela legislação tributária:
+A) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se aos contribuintes, sejam pessoas naturais ou jurídicas, exceto as que gozem de
+isenção de caráter pessoal.
+B) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se aos contribuintes, sejam pessoas naturais ou jurídicas, exceto as que gozem de
+                                              ==8b9==
+
+imunidade tributária.
+C) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se às pessoas naturais ou jurídicas, aos contribuintes ou não, exceto as que gozem de
+imunidade tributária ou de isenção de caráter pessoal.
+D) em caráter geral, aplicável a todos os tributos da União, dos Estados e dos Municípios,
+indistintamente.
+E) em caráter geral, ou especificamente em função da natureza do tributo de que se tratar,
+aplicando-se às pessoas naturais e jurídicas, contribuintes ou não, inclusive as que gozem de
+imunidade tributária ou de isenção de caráter pessoal.
+
+22.FGV/Fiscal de Rendas-RJ/2008
+Com relação à expedição da Certidão Negativa de Débito (CND ou CPEN), em caso de débito
+de imposto, cujo valor o contribuinte já informara à Fazenda mediante documento próprio
+(GIA-ICMS), é correto afirmar que:
+A) não pode ser expedida em hipótese alguma.
+B) só pode ser expedida após a efetivação do lançamento a cargo da autoridade administrativa.
+C) não pode ser expedida, salvo se o contribuinte pagou o débito declarado.
+D) só pode ser expedida se ocorrer a suspensão da exigibilidade do crédito tributário.
+E) não pode ser expedida, pois não ocorreu inscrição do débito na Dívida Ativa.
+
+
+23.FGV/Fiscal de Rendas-RJ/2008
+Débito de ICMS teve o fato gerador ocorrido em 01.04.01, foi objeto de lançamento em
+20.04.02, foi inscrito em dívida ativa em 20.05.04 e, em 25.05.05, o juiz despachou determinando
+a citação (Execução Fiscal). O contribuinte devedor alienou todos os seus bens em _____,
+caracterizando fraude à execução.
+
+                                                                                             61
+                                                                                             65
+
+
+---
+
+Assinale a alternativa que complete corretamente a lacuna do trecho acima:
+A) 20.05.02
+B) 10.01.04
+C) 31.03.03
+D) 01.09.02
+E) 30.11.04
+
+
+24.FGV/Consultor Legislativo - MA /2013
+Com relação à Certidão da Dívida Ativa, assinale a afirmativa correta.
+A) A certidão da dívida ativa que contiver erro substancial quanto ao nome do devedor é
+anulável, cabendo ao contribuinte pugnar pela correção do ato.
+B) O termo de inscrição da dívida ativa deve contemplar o demonstrativo de cálculo do tributo
+devido.
+C) A certidão da dívida ativa é título executivo cartular, cuja validade se prende à sua literalidade.
+D) A certidão da dívida ativa é prova pré‐constituída do débito tributário, que pode ser elidida
+pelo contribuinte.
+E) A certidão da dívida ativa deve discriminar os juros e demais encargos que estejam sendo
+cobrados do contribuinte.
+
+
+25.FGV/Fiscal de Rendas-MS/2006
+A respeito da dívida tributária regularmente inscrita, pode-se afirmar que:
+A) goza de certeza, liquidez e tem efeito de prova pré-constituída.
+B) sua certeza pode ser ilidida por qualquer prova indiciária.
+C) goza de presunção absoluta de certeza e liquidez.
+D) somente pode ser desconstituída pelo sujeito passivo.
+E) não precisa ser líquida.
+
+
+26.FGV/TJ-AP-Juiz/2008
+Com relação à Administração Tributária e às Garantias e Privilégios do crédito tributário, assinale
+a afirmativa incorreta.
+a) A certidão em que constar a existência de crédito não vencido, no curso de cobrança executiva
+em que tenha sido efetivada a penhora, ou cuja exigibilidade tenha sido suspensa, será
+considerada "positiva, com efeito, de negativa".
+b) A dívida regularmente inscrita goza de presunção de certeza e liquidez e tem o efeito de prova
+pré-constituída. Assim, com base na alteração introduzida no CTN pela Lei Complementar
+118/05, presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu começo, por
+
+                                                                                                    62
+                                                                                                    65
+
+
+---
+
+sujeito passivo em débito para com a Fazenda Pública, por crédito tributário regularmente
+inscrito como dívida ativa.
+c) A penhora on-line, no Direito Tributário, encontra amparo no CTN e permite a decretação
+judicial da indisponibilidade dos bens e direitos do devedor, com a comunicação da decisão,
+preferencialmente por meio eletrônico, aos órgãos e entidades que promovem os registros de
+transferência de bens, a fim de que, no âmbito de suas atribuições, façam cumprir a ordem
+judicial.
+d) Segundo o CTN, os créditos tributários decorrentes de fatos geradores ocorridos no curso do
+processo de falência são considerados extraconcursais.
+e) A enumeração das garantias do crédito tributário pelo CTN é taxativa, pois não permite que
+outras garantias sejam previstas em lei.
+
+                                                                                            63
+                                                                                            65
+
+
+---
+
+     GABARITO DAS QUESTÕES COMPLEMENTARES
+
+1.   E           10.E          19.A
+2.   C           11.D          20.D
+3.   A           12.B          21.E
+4.   C
+                 13.E          22.C
+5.   A
+                 14.A          23.A
+6.   C
+                 15.E          24.D
+7. B             16.B          25.A
+8. C             17.D          26.E
+9. D             18.E
+
+                                            64
+                                            65
+
+
+---

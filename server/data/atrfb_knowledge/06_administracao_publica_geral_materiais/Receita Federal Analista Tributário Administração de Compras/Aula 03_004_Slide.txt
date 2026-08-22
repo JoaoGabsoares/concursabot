@@ -1,0 +1,346 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+LOTES DE COMPRAS
+
+
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Lote de Compras
+       Considera a demanda e o processo de fornecimento
+
+       ❑ Como já vimos, um dos grandes objetivos da gestão de materiais é maximizar a
+         utilização dos recursos disponíveis. E como isso afeta o setor de compras? Simples, a
+         área de compras deve comprar sempre o suficiente para abastecer as demandas
+         previstas, não permitindo que a atividade produtiva pare por falta de material.
+       ❑ Para isso é necessário levar em conta a previsão da demanda e suas variações, assim
+         como eventuais falhas no fornecimento. Tudo isso gerará um determinado volume
+         que deverá ser adquirido.
+       ❑ Porém, temos também custos envolvidos em todo o processo de compras e isso
+         deve ser levado em conta no momento em que o volume a ser comprado é definido.
+       ❑ Tais fatores podem elevar ou diminuir o volume previamente previsto para aquisição.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Lote de Compras
+       Objetivo é minimizar os custos do processo
+
+          Por exemplo, uma compra de maior volume pode gerar descontos atraentes para o comprador, elevando o
+          volume inicialmente demandado. Neste mesmo exemplo, o custo de armazenagem provocado pelo aumento do
+          volume pode não compensar o desconto obtido e devolver o volume a ser adquirido ao seu patamar inicial.
+          Outro exemplo, a concentração de pedidos por meio de sua antecipação (no lugar de comprar todos os meses ao
+          longo do ano a organização compra apenas 2 vezes, o volume de 6 meses) pode reduzir os custos totais dos
+          pedidos (imagine que em cada pedido o inspetor deve viajar até o fornecedor para checar o material antes do
+          envio e a produção é na China...). Além disso, certamente agrada o principal cliente varejista da organização que
+          se sentirá mais seguro com as compras mais volumosas de matéria prima do fabricante, diminuindo o risco de
+          quebra no estoque de produtos acabados.
+          Porém, mais uma vez, o aumento de volume gera custos adicionais de seguros e acaba não compensando o
+          próprio fabricante, independentemente da redução de custos com viagens e da melhoria na relação com o
+          principal cliente do varejo. Nada feito.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Definindo o volume ideal de compra
+       ❑ Trouxe vários exemplos para mostrar a você que a decisão é complexa e envolve diversas
+         variáveis, entre elas as mais comuns como a previsão da demanda e o histórico dos fornecedores
+         em relação a cumprimento de prazos, mas também envolve os custos relacionados a transação,
+         seja a sua redução via antecipação, aumento de volume, etc. ou o seu incremento com seguros,
+         armazenagem, entre outros.
+
+       ❑ Tentando equacionar esta questão de maneira objetiva surgem os lotes de compras, mais
+         especificamente o Lote Econômico de Compras que em teoria encontra o volume ideal (que
+         minimiza os custos) a cada pedido da organização.
+
+       ❑ Embora cada vez menos utilizado na prática em função da complexidade e dificuldade em
+         controlar ou modelar as variáveis, o tema é bastante cobrado em prova, inclusive no formato
+         prático (exercícios matemáticos). Vamos conhecer um pouco mais do Lote Econômico de
+         Compras, ou LEC.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Onde é possível minimizar os custos de estoque e de pedido
+
+       ❑ Note a seguir que o ponto ideal (volume de compras que minimiza o custo) está
+         justamente no ponto em que as curvas do custo do pedido e da manutenção de
+         estoque (genericamente são os custos de armazenagem) se tocam.
+       ❑ É neste ponto que a curva de custo total (a que está mais acima) tem seu ponto
+         mínimo e, portanto, é aí que se localiza o Lote Econômico de Compra, ou seja, o
+         volume que deve ser adquirido para minimizar os custos da atividade de compra.
+       ❑ Perceba que essa "conta" considera os aspectos matemáticos do caso, mas não é
+         capaz de mensurar, por exemplo, o impacto que a decisão pode ter no cliente (como
+         vimos acima) ou outras variáveis subjetivas.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Onde é possível minimizar os custos de estoque e de pedido
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Importante decorar a fórmula para a prova. Não tem jeito...
+       ❑ Dessa situação nascem os cenários abaixo, de cálculo de Lote Econômico de Compras, que precisamos conhecer.
+         Para este modelo é necessário assumir que:
+
+       ✓    A demanda é constante e conhecida.
+
+       ✓    A reposição é instantânea e ocorre imediatamente quando os estoques chegam ao nível zero.
+
+       ✓    Os custos com a preparação dos pedidos e com a armazenagem são conhecidos e constantes.
+
+                                                  LEC - Lote Econômico de Compras
+
+                  O LEC busca determinar qual é o lote ideal de compras, capaz de equilibrar os custos de
+                  armazenagem dos materiais com os custos do pedido, minimizando os custos totais. Lembre-se que
+                  os pedidos têm custos e uma das formas de diluir seus custos é fazê-los em volumes maiores. Veja a
+                  fórmula para cálculo do LEC.
+
+                                                      2 x Demanda x Custo do Pedido
+                                            LEC =
+                                                          Custo de Armazenagem
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Alguns exemplos
+
+
+
+       ❑ O consumo de uma peça é de 250.000 unidades por ano. O custo anual de armazenagem por
+         peça é de $2,00 e o custo do pedido é de $100,00. O preço unitário de compra é $20,00.
+         Determine o valor do LEC.
+
+       ❑ 1o passo -> Aplicar a fórmula:
+                                                    LEC = 2 x Demanda  x Custo do Pedido
+                                                              Custo de Armazenagem
+                                                                                         =
+                                                                                                   2 x 250.000 x $100
+                                                                                                           $2
+
+
+       ❑ 2o passo -> Resolver                          50.000.000                  25.000.000
+                                            LEC =                     <=> LEC =                 <=> LEC = 5.000
+                                                           2                           1
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       Alguns exemplos
+       ❑ Há situações em que o custo de armazenagem não vem "pronto" e precisamos calculá-lo. Nesse
+         casos é necessário multiplicar o custo unitário do produto pela taxa de armazenagem ou de
+         manutenção do estoque (ou mesmo taxa de juros) que, geralmente, é dado em %. veja abaixo:
+
+       ❑ O consumo de uma peça é de 250.000 unidades por ano. O custo do pedido é de $100,00. O
+         preço unitário de compra é $20,00 e o custo de manutenção do estoque é de 10%. Determine o
+         valor do LEC.
+
+       ❑ 1o passo -> Aplicar a fórmula:
+                                                    LEC = 2 x Demanda  x Custo do Pedido
+                                                              Custo de Armazenagem
+                                                                                         =
+                                                                                                   2 x 250.000 x $100
+                                                                                                     $20 𝑥 10%= $2
+
+
+       ❑ 2o passo -> Resolver
+                                                       50.000.000                  25.000.000
+                                            LEC =                     <=> LEC =                 <=> LEC = 5.000
+                                                           2                           1
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Lote Econômico de Compras
+       E se perguntarem não o LEC, mas quantos pedidos?
+
+       ❑ A última pergunta que poderia faltar aqui é em relação a quantos pedidos devem ser
+         feitos no ano. É mais um cálculo simples. Se o LEC é de 5.000 (ou seja, o pedido terá
+         5.000 peças) e a demanda anual é de 250.000 peças (ou seja, você precisará desse
+         volume ao longo do ano), quantos pedidos deverá fazer?
+       ❑ Basta dividir a demanda esperada pelo tamanho do pedido de compra (o LEC!):
+         250.000/5.000 = 50 pedidos de 5.000 peças/cada, chegando as 250.000 peças
+         necessárias ao longo do ano!
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/PM PB/Oficial PM/2022) Em uma organização, o consumo de determinado insumo é
+     de 600 unidades ao ano. A organização adquire esse insumo por R$ 10,00 a unidade. O
+     custo para fazer o pedido ao fornecedor é de R$ 6,00 e o custo anual de manutenção em
+     estoque é de 20% do valor do insumo. Considerando-se o lote econômico de compra do
+     insumo, o número de pedidos a serem feitos no ano será:
+     a) 8
+     b) 9
+     c) 10
+     d) 12
+     e) 17
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/PM PB/Oficial PM/2022) Em uma organização, o consumo de determinado insumo é
+     de 600 unidades ao ano. A organização adquire esse insumo por R$ 10,00 a unidade. O
+     custo para fazer o pedido ao fornecedor é de R$ 6,00 e o custo anual de manutenção em
+     estoque é de 20% do valor do insumo. Considerando-se o lote econômico de compra do
+     insumo, o número de pedidos a serem feitos no ano será:
+     a) 8
+     b) 9
+     c) 10
+     d) 12
+     e) 17
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/Pref. Munic. Salvador-BA/Técnico Administrativo/2017) Com relação à gestão de
+     estoques e ao lote econômico de compras (LEC), analise as afirmativas a seguir.
+     I. O trade-off entre o custo do excesso e o custo da falta é a chave para parametrização da
+     política de gestão de estoques.
+     II. Quanto maior o custo de excesso de um produto em relação ao custo da sua falta,
+     menor deve ser o estoque de segurança.
+     III. A metodologia LEC permite gerenciar, de maneira adequada e segura, uma demanda
+     variada de insumos.
+     Está correto o que se afirma em:
+     a) I, somente.
+     b) II, somente.
+     c) III, somente.
+     d) I e II, somente.
+     e) I, II e III.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/Pref. Munic. Salvador-BA/Técnico Administrativo/2017) Com relação à gestão de
+     estoques e ao lote econômico de compras (LEC), analise as afirmativas a seguir.
+     I. O trade-off entre o custo do excesso e o custo da falta é a chave para parametrização da
+     política de gestão de estoques.
+     II. Quanto maior o custo de excesso de um produto em relação ao custo da sua falta,
+     menor deve ser o estoque de segurança.
+     III. A metodologia LEC permite gerenciar, de maneira adequada e segura, uma demanda
+     variada de insumos.
+     Está correto o que se afirma em:
+     a) I, somente.
+     b) II, somente.
+     c) III, somente.
+     d) I e II, somente.
+     e) I, II e III.
+     GABARITO - D
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Questão de Prova) No modelo de lote econômico, a quantidade ótima de estoques que
+     deve compor cada pedido de compra é aquela em que os valores dos custos dos pedidos
+     são iguais aos dos custos de manutenção dos estoques.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Questão de Prova) No modelo de lote econômico, a quantidade ótima de estoques que
+     deve compor cada pedido de compra é aquela em que os valores dos custos dos pedidos
+     são iguais aos dos custos de manutenção dos estoques.
+     a) Certo
+     b) Errado
+     GABARITO - CERTO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Questão de Prova) Uma empresa utiliza o Lote Econômico de Compras (LEC) para repor o
+     estoque de uma de suas peças cuja demanda anual é de 90.000 unidades. Se o custo de
+     colocação de um pedido é de $4.000,00 e o custo de manutenção de estoques é de
+     $20,00 por peça por ano, qual é o LEC utilizado?
+     a) 30
+     b) 60
+     c) 4.243
+     d) 6.000
+     e) 12.000
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (Questão de Prova) Uma empresa utiliza o Lote Econômico de Compras (LEC) para repor o
+     estoque de uma de suas peças cuja demanda anual é de 90.000 unidades. Se o custo de
+     colocação de um pedido é de $4.000,00 e o custo de manutenção de estoques é de
+     $20,00 por peça por ano, qual é o LEC utilizado?
+     a) 30
+     b) 60
+     c) 4.243                  LEC = 2 x Demanda      x Custo do Pedido
+     d) 6.000                                Custo de Armazenagem
+     e) 12.000
+     GABARITO - D
+                                            LEC = 2 x 90.000
+                                                          $20
+                                                             x $4.000
+                                                                      = 6.000
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

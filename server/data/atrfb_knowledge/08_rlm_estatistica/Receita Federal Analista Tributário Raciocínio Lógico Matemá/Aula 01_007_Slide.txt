@@ -1,0 +1,99 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+TABELA-VERDADE DO “OU”
+
+
+
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou”
+      Disjunção Inclusiva ()
+
+                                                                   
+                                                    V         V
+                         OU                         V         F
+                                                    F         V
+                                                    F         F
+
+
+
+
+TABELA-VERDADE DO “OU”
+Prof. Brunno Lima
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou”
+       Exemplo:
+
+
+
+       A: O gerente do banco irá contratar um administrador ou o
+       gerente do banco irá contratar um economista.
+
+
+
+
+TABELA-VERDADE DO “OU”
+Prof. Brunno Lima
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou”
+                   P Q P∨Q                          Exemplos:
+                   V     V             É administrador / É economista
+
+                   V     F          É administrador / Não é economista
+
+                   F     V          Não é administrador / É economista
+
+                   F     F       Não é administrador / Não é economista
+
+
+TABELA-VERDADE DO “OU”
+Prof. Brunno Lima
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou”
+       Determine o valor lógico da proposição:
+       P: A palavra música é oxítona ou o quadrado de dois é sete ou Rio de Janeiro
+       é a capital do Brasil ou 7 é um número ímpar ou 𝟑 < 𝟐 ou a palavra casa
+       apresenta três vogais distintas.
+
+
+
+
+TABELA-VERDADE DO “OU”
+Prof. Brunno Lima
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

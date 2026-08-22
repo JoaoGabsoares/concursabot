@@ -1,0 +1,123 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 22_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '22'
+titulo_aula: (2021/FGV/TJ-RO) Um partido político, que somente contava com representação
+  no Senado
+---
+
+# (2021/FGV/TJ-RO) Um partido político, que somente contava com representação no Senado
+
+(2021/FGV/TJ-RO) Um partido político, que somente contava com representação no Senado
+  Federal, ajuizou ação direta de inconstitucionalidade almejando o reconhecimento da
+  invalidade da íntegra da Lei nº XX, do Estado ZZ, que dispunha sobre a concessão de
+  determinado benefício fiscal. Na ocasião, impugnou, ainda, o Decreto nº YY, que
+  regulamentara a forma como o benefício seria concedido. Na situação descrita, o Supremo
+  Tribunal Federal:
+  A) não deve conhecer da ação, em razão da ilegitimidade do respectivo autor;
+  B) pode declarar a inconstitucionalidade da Lei nº XX, juntamente com a do Decreto nº YY,
+  em razão da interdependência entre ambos;
+  C) pode declarar a inconstitucionalidade da Lei nº XX e a ilegalidade do Decreto nº YY, na
+  relação processual voltada ao controle concentrado de constitucionalidade;
+  D) não deve conhecer da ação, em razão da acumulação indevida de pedidos, já que o
+  Decreto nº YY não está sujeito ao controle concentrado de constitucionalidade;
+  E) só pode declarar a inconstitucionalidade da Lei nº XX, cabendo às instâncias ordinárias
+  avaliar se devem, ou não, aplicar o Decreto nº YY, cujo fundamento foi suprimido.
+
+Direito Constitucional
+Profª. Nelma Fontana
+                                  
+
+
+---
+
+    (2021/Quadrix/CFT) O fenômeno da inconstitucionalidade superveniente é passível de
+    ocorrer por meio da mutação constitucional, que gera um conflito entre o novo sentido
+    constitucional e a lei vigente, e por meio da mudança de substrato fático, que induz a efeitos
+    práticos que se mostrem contrários ao texto constitucional, na aplicação de uma lei.
+
+
+    (2021/Quadrix/CFT) A norma pré-constitucional que conflite com Carta editada
+    posteriormente não sofre uma inconstitucionalidade superveniente, mas sim deixa de ser
+    recepcionada pelo novo modelo.
+
+
+    (2021/Quadrix/CFT) A constitucionalidade superveniente, plenamente admitida no
+    ordenamento brasileiro, consiste em convalidar norma originalmente inconstitucional,
+    tornando-a constitucional, à parte de mudanças futuras na Constituição.
+
+Direito Constitucional
+Profª. Nelma Fontana
+                                    
+
+
+---
+
+    (2021/Quadrix/CFT) A técnica de modulação de efeitos somente é aplicável ao controle
+    concentrado de constitucionalidade, não se a admitindo em controle difuso, eis que,
+    extraindo seu fundamento da segurança jurídica, não estará em risco quando os efeitos da
+    decisão se conservarem entre as partes.
+
+    (2021/Quadrix/CFT) A teoria da nulidade original das normas declaradas inconstitucionais
+    sofre mitigação pela técnica de modulação de efeitos.
+
+Direito Constitucional
+Profª. Nelma Fontana
+                                  
+
+
+---
+
+  (2021/VUNESP/TJ-GO) Assinale a alternativa correta no tocante aos efeitos e alcance da
+  declaração de inconstitucionalidade exarada no âmbito da ação direta de
+  inconstitucionalidade (ADI).
+  A) O Supremo Tribunal Federal, com base no princípio da parcelaridade, pode julgar
+  parcialmente procedente o pedido feito na ADI, sendo vedado, contudo, o expurgo de
+  apenas uma palavra ou expressão.
+  B) Os efeitos da decisão que julga a ADI são erga omnes, ex tunc e vinculante aos órgãos do
+  Poder Judiciário, do Legislativo e da Administração Pública federal, estadual, municipal e
+  Distrital.
+  C) No direito brasileiro, é admissível a declaração de inconstitucionalidade sem a pronúncia
+  de nulidade, por motivos de segurança jurídica ou de excepcional interesse social.
+  D) A declaração de inconstitucionalidade terá efeito repristinatório da norma anterior àquela
+  declarada inconstitucional, desde que a sua restauração seja determinada expressamente na
+  modulação da decisão da Excelsa Corte.
+
+
+Direito Constitucional
+Profª. Nelma Fontana
+                                   
+
+
+---
+
+  (2021/FGV/TJ-SC) O Distrito Federal aprovou a Lei nº XX/2020, que dispôs sobre o
+  parcelamento e a ocupação do solo urbano, o que, ao ver do partido político Alfa, era
+  incompatível com a Constituição da República de 1988.
+  Por tal razão, o partido político, que somente contava com representação no Senado
+  Federal, solicitou a manifestação do seu departamento jurídico a respeito da possibilidade de
+  impugnar o referido ato normativo diretamente perante o Supremo Tribunal Federal.
+  O departamento jurídico respondeu, corretamente, que tal:
+  A) seria possível apenas por meio de ação direta de inconstitucionalidade;
+  B) seria possível apenas por meio de arguição de descumprimento de preceito fundamental;
+  C) não seria possível, já que o partido político Alfa não contava com representação na
+  Câmara dos Deputados;
+  D) não seria possível, pois o controle concentrado de constitucionalidade das leis distritais
+  fica a cargo do Tribunal de Justiça;
+  E) seria possível por meio da ação direta de inconstitucionalidade ou da arguição de
+  descumprimento de preceito fundamental.
+
+Direito Constitucional
+Profª. Nelma Fontana
+                                   
+
+
+---

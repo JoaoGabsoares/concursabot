@@ -1,0 +1,7076 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Direito Administrativo
+artigos_citados:
+- Art. 1º
+- art. 24
+- art. 32
+- art. 337-J
+- art. 44
+- art. 72
+- art. 7º
+- art. 83
+---
+
+# Direito Administrativo
+
+Aula 09
+                          Receita Federal (Analista Tributário)
+                                        Direito Administrativo
+
+                                                        Autor:
+                                               Antonio Daud
+
+                                          31 de Outubro de 2025
+
+---
+
+      Antonio Daud
+      Aula 09
+
+                                                                                     Índice
+1) Licitações Públicas - Lei nº 14.133/2021 - Parte I
+
+
+2) Questões Comentadas - Licitações Públicas - Lei nº 14.133/2021 - Parte I - Bancas Selecionadas
+
+
+3) Lista de Questões - Licitações Públicas - Lei nº 14.133/2021 - Parte I - Bancas Selecionadas
+
+                Receita Federal (Analista Tributário) Direito Administrativo                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                          195
+
+                                                             
+
+
+---
+
+   Antonio Daud
+   Aula 09
+
+INTRODUÇÃO
+Olá, amigos (as)!
+Nesta aula estudaremos o tema licitações públicas, com foco na Nova Lei de Licitações (NLL), Lei
+14.133, de 1º de abril de 2021, que revogou a Lei 8.666/1993.
+O tema licitações é, de fato, bastante denso e possui sua complexidade, mas está prestes a ficar
+menos difícil para você do que é para seus concorrentes =)
+Daremos uma atenção especial neste assunto, para “digerirmos” todas as novidades da NLL e o
+emaranhado de regras e exceções inerentes à legislação sobre licitações, que certamente serão
+um “prato cheio” para o Examinador.
+Diante de todos estes detalhes a serem estudados, é natural o tema exigir um esforço “extra”.
+Mas pense que é aqui que sua determinação em ser aprovado efetivamente será colocada à prova!
+Muitos de seus concorrentes podem até desistir, mas não você!!!
+----
+
+Pelo tamanho do assunto, dividimos o tema “licitações” em duas aulas. Nesta primeira, iremos
+estudar aspectos introdutórios sobre a nova lei, definições, princípios, modalidades, critérios de
+julgamento e, por fim, procedimentos auxiliares.
+Na próxima aula, estudaremos as hipóteses de contratação direta e as fases da licitação.
+Avante!
+
+NOÇÕES GERAIS
+                                              A realização ou não de licitação, como regra geral, não
+                                              constitui uma faculdade do gestor público. Isto porque a
+                                              licitação decorre do princípio da indisponibilidade do
+                                              interesse público, atuando no sentido de restringir a liberdade
+                                              na escolha do administrador público.
+                                              Nesse sentido, podemos dizer também que a licitação é
+                                              exemplo de concretização do princípio da impessoalidade, na
+                                              dimensão da finalidade da atuação estatal. Assim, o gestor
+                                              público tem o dever de selecionar a empresa e a proposta que
+                                              melhor atendam ao interesse público – e não ao seu interesse
+                                              particular.
+
+          De forma análogo ao concurso público, a licitação é o procedimento que busca
+          “impessoalizar” as contratações da Administração, minimizando as chances de
+          favoritismos ou perseguições na escolha de fornecedores para o Estado.
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                     3
+          www.estrategiaconcursos.com.br                                                                  195
+
+                                        
+
+
+---
+
+    Antonio Daud
+    Aula 09
+
+Na Constituição Federal, a principal previsão quanto à realização de licitações encontra-se assim
+prevista:
+
+          CF, art. 37, XXI - ressalvados os casos especificados na legislação, as obras,
+          serviços, compras e alienações serão contratados mediante processo de licitação
+          pública que assegure igualdade de condições a todos os concorrentes, com
+          cláusulas que estabeleçam obrigações de pagamento, mantidas as condições
+          efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de
+          qualificação técnica e econômica indispensáveis à garantia do cumprimento das
+          obrigações.
+
+Reparem que o inciso XXI acima diz respeito à celebração de contratos para (i) Compras, (ii)
+Alienações, (iii) Serviços e (iv) Obras – reunidos no mnemônico C-A-S-O.
+Para este grupo de contratos, a licitação é a regra, mas admite-se, excepcionalmente, a
+celebração de contratos sem prévia licitação – isto é, a “contratação direta” (nos casos
+especificados na legislação).
+Os procedimentos licitatórios aplicáveis a este grupo de contratos (isto é, para o C-A-S-O)
+encontram-se, agora, previstos principalmente1 na Lei 14.133/2021, chamada de novo
+regulamento geral de licitações.
+Já comentando especificamente a nova lei de licitações, vale lembrar que ela revogou as seguintes
+leis (art. 193, II):
+        Lei 8.666/1993            → antiga lei geral de licitações e contratos
+        Lei 10.520/2002           → lei do pregão
+        Lei 12.462/2011    → lei do regime diferenciado de contratações – RDC (surgiu
+inicialmente para viabilizar as grandes obras relacionadas à Copa do Mundo/2014 e Jogos
+Olímpicos/2016)
+Após delimitado o tema da nossa aula, lembro que a Lei 14.133, de 1º abril de 2021, foi editada
+pelo Congresso Nacional com base na competência privativa prevista no inciso XXVII do art. 22 da
+CF2, que autorizou a União a editar normas gerais sobre licitações e contratos.
+Portanto, a Lei 14.133, também conhecida como “nova Lei de Licitações e Contratos” (NLLC ou
+NLL), prevê normas que obrigam todas as esferas de governo (União, Estados/DF e Municípios), a
+partir de onde dizemos que é norma geral de aplicação nacional.
+
+1 Além de situações específicas, como o procedimento licitatório para contratação de serviços de publicidade (Lei
+
+12.232/2010). Ademais, as licitações por empresas estatais encontram-se regidas pela Lei 13.303/2016.
+2 Art. 22, XXVII – normas gerais de licitação e contratação, em todas as modalidades, para as administrações
+públicas diretas, autárquicas e fundacionais da União, Estados, Distrito Federal e Municípios, obedecido o disposto
+no art. 37, XXI, e para as empresas públicas e sociedades de economia mista, nos termos do art. 173, § 1°, III;
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                          4
+          www.estrategiaconcursos.com.br                                                                       195
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A existência desta Lei, no entanto, não impede Estados, Municípios e o Distrito Federal a
+legislarem sobre questões específicas do tema licitações – mesmo sem autorização expressa da
+União. A única limitação é que as regras específicas editadas pelos entes subnacionais não devem
+contrariar as regras gerais emanadas da União.
+No que diz respeito às “licitações”, estas normas estão concentradas principalmente nos artigos
+1º a 88 da NLL, sendo que do art. 89 ao 154 temos disposições relativas aos “contratos
+administrativos” e, do art. 155 ao 194, regras relacionadas à responsabilização, controle entre
+outros temas.
+
+Alcance da NLL
+                                                                                     INCIDÊNCIA EM PROVA: MÉDIA
+Considerando, então, os termos do art. 1º da NLL, a nova lei de licitações obriga os seguintes
+entes:
+
+                             Administração Direta
+
+                             Autarquias
+       Nova lei de
+                             Fundações públicas
+        licitações
+                             Fundos especiais
+                             Demais entidades controladas direta ou indiretamente pelos entes
+                             federativos
+
+Tratando-se da Administração Direta, vale destacar que a nova lei alcança todos os poderes,
+inclusive os Poderes Legislativo e Judiciário, quando estes estiverem no exercício da função
+administrativa3.
+Em relação às entidades da Administração Indireta, vale destacar que a nova lei alcança as
+autarquias e fundações públicas, de direito público ou privado, mas não alcança as empresas
+estatais (empresas públicas e sociedades de economia mista) e subsidiárias. Isto porque todas
+estas empresas possuem regras de contratação próprias, previstas na Lei 13.303/2016 (conhecida
+
+3 A Lei nem precisaria fazer esta ressalva, já que suas regras não teriam aplicação quando tais Poderes estiverem
+
+no exercício das funções legislativa e jurisdicional. De toda forma, lembro que a função administrativa consiste no
+conjunto de atividades do Estado que atuam concreta e diretamente (proativamente) para zelar dos interesses e
+bens da coletividade, por exemplo, prestando serviços públicos, admitindo novos servidores por meio de concursos
+públicos, contratando empresas.
+
+         Receita Federal (Analista Tributário) Direito Administrativo                                           5
+         www.estrategiaconcursos.com.br                                                                        195
+
+                                       
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+como “Lei das Estatais”). Há, no entanto, uma exceção4! As regras quanto aos crimes relacionados
+a licitações e contratos, mencionados na nova lei de licitações, também aplicam-se às empresas
+estatais.
+No que diz respeito aos fundos especiais, vale citar como exemplo o Fundeb (Fundo de
+Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da
+Educação), que consiste em um acervo de bens destinados à educação. Então, quando uma
+entidade pública vai aplicar os recursos do Fundeb (fundo especial), estará obrigada a seguir a
+nova lei de licitações.
+Havendo entidades controladas pelo poder público, direta ou indiretamente, estas também
+devem obediência à nova lei.
+
+A nova lei tratou, também, de flexibilizar sua aplicação em determinadas situações. Assim, além
+da não alcançar as estatais, a Lei 14.133/2021 previu “casos especiais” em que em regra não serão
+aplicada.
+Dentro deste grupo de “casos especiais” estão incluídas três situações específicas envolvendo (i)
+contratações realizadas por repartições públicas sediadas no exterior, (ii) contratações que
+envolvam recursos estrangeiros e (iii) contratações relativas à gestão das reservas internacionais
+do país, a saber:
+      (i) As contratações realizadas por repartições públicas sediadas no exterior (como por
+exemplo uma representação diplomática do Brasil no exterior) obedecerão às peculiaridades
+locais e apenas aos princípios básicos estabelecidos na nova lei, seguindo regulamentação
+específica a ser editada por Ministro de Estado. Portanto, tais representações estarão submetidas
+apenas aos princípios básicos da nova lei (não à sua integralidade) – art. 1º, §2º.
+
+      Exemplo: Embaixada do Brasil na Itália contratando serviço de transporte executivo.
+
+      (ii) Já nas contratações que envolvam recursos estrangeiros, provenientes de empréstimo ou
+doação oriundos de agência oficial de cooperação estrangeira ou de organismo financeiro de que
+o Brasil seja parte, a NLL poderia deixar de ser aplicada integralmente, admitindo-se regras
+próprias. Quando a nova lei não for aplicada, há duas alternativas: (a) as regras podem decorrer
+das próprias condições previstas em acordos internacionais aprovados pelo Congresso Nacional
+e ratificados pelo Presidente da República; ou (b) a existência de condições peculiares à seleção e
+
+4 Além desta exceção expressa, se considerarmos a revogação da Lei 8.666 e da Lei 10.520, ambas mencionadas
+
+no texto da Lei das Estatais, podemos concluir que há ainda outros dois assuntos nos quais aplicar-se-ão as regras
+da NLL: (i) critérios de desempate em uma licitação e (ii) regras quanto à modalidade pregão.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                           6
+        www.estrategiaconcursos.com.br                                                                        195
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 09
+
+à contratação constantes de normas e procedimentos das próprias agências ou organismos
+financiadores.
+Assim, caso a submissão a outras regras licitatórias seja exigida pelo financiador e não haja conflito
+com os princípios constitucionais ou as regras decorram do próprio acordo aprovado, a NLL
+deixaria de ser aplicada (art. 1º, §3º)5.
+
+       Exemplo: aquisição de livros, no Brasil, com recursos provenientes da ONU (Organizações
+       das Nações Unidas) ou da Unesco (Organização das Nações Unidas para a Educação, a
+       Ciência e a Cultura).
+
+(iii) Por fim, tratando-se de contratações relativas à gestão das reservas internacionais do País,
+inclusive as de serviços conexos ou acessórios a essa atividade, elas não seguirão diretamente a
+                                                           ==219a34==
+
+NLL, devendo obediência a ato normativo próprio do Banco Central, respeitados os princípios
+constitucionais expressos da Administração (art. 1º, § 5º).
+
+       Exemplo: assim como outros países, o Brasil possui uma reserva financeira, no exterior,
+       para cobrir eventuais déficits internacionais ou estabilizar o real frente a outras moedas.
+       Então, por exemplo, quando o Banco Central adquire um sistema informatizado para
+       auxiliar na gestão dessa reserva, em tese não seguiria a NLL, mas um ato normativo do
+       próprio Banco Central.
+
+No que diz respeito às entidades do terceiro setor (paraestatais), vale a pena individualizarmos
+cada espécie, já ressaltando que em regra a nova lei não se aplicará a elas.
+Os serviços sociais autônomos (“Sistema S” – como Senai, Sesc e Senac) não seguem os termos
+da nova lei de licitações, devem editar e seguir regulamentos próprios de licitação, os quais devem
+observar os princípios que regem as contratações públicas.
+O mesmo entendimento vale para as Organizações Sociais (OS), as quais também deverão,
+individualmente, editar regulamentos próprios de compras (Lei 9.637/1998, art. 17), e para as
+Organizações da Sociedade Civil de Interesse Público – Oscip (Lei 9.790/1999, art. 14). Para as
+Organizações da Sociedade Civil - OSC, por sua vez, a legislação aplicável (Lei 13.019/2014) não
+exige a realização de licitação.
+
+5
+  Neste caso, a documentação encaminhada ao Senado Federal para subsidiar a autorização do
+empréstimo estrangeiro deverá fazer referência às condições do contrato a ser celebrado (art. 1º, §4º).
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                7
+          www.estrategiaconcursos.com.br                                                             195
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+               nova lei alcança                                                 não alcança
+
+
+                 administração direta                                   estatais (regras constam da Lei
+        (inclusive Legislativo e Judiciário no                         13.303/2016, exceto crimes da NLL)
+         exercício da função administrativa)
+                                                                            repartições no exterior *
+                      autarquias                                        (regul. próprio, mas "princípios
+                                                                                básicos" da NLL)
+                 fundações públicas                                        contratações que envolvam
+                                                                             recursos estrangeiros *
+                  fundos especiais                                         (podem ter regras próprias)
+
+                                                                            reservas internacionais *
+              entidades controladas                                         (ato normativo do Bacen)
+
+Aplicação da nova lei
+Além de prever o alcance da lei sob o aspecto subjetivo, a nova lei detalha, em termos objetivos,
+sua aplicação às contratações dos seguintes objetos (art. 2º):
+
+                         compra (inclusive por encomenda)
+                         prestação de serviços, inclusive os técnico-profissionais especializados
+                         obras e serviços de arquitetura e engenharia
+   Nova lei de
+                         contratações de tecnologia da informação e de comunicação (TIC)
+   licitações -
+                         alienação de bens
+    aplicação
+                         locação
+                         concessão e permissão de uso de bens públicos
+                         concessão de direito real de uso de bens
+
+Há, no entanto, duas situações que foram expressamente excluídas da aplicação da NLL, a saber
+(art. 3º):
+
+                         Contratações que tenham por objeto operações de crédito (interno ou
+                         externo)
+     Nova lei de         gestão da dívida pública (como a venda de títulos financeiros pelo Tesouro
+  licitações - não       Nacional)
+      aplicação           incluídas contratações de agente financeiro e a concessão de garantias
+                         relacionadas a estes contratos
+                         Contratações sujeitas à legislação própria
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                         8
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Nestes casos, portanto, outras regras serão aplicadas, mas não a Lei 14.133/2021.
+Além dos casos de aplicação (art. 2º) e de não aplicação (art. 3º), vale a pena comentarmos
+situações de aplicação subsidiária da Lei 14.133/2021, o que ocorrerá nas licitações para serviços
+de publicidade (regidas pela Lei 12.232/2010) e das licitações para contratos de concessão e
+permissão de serviços públicos (Leis 8.987/1995: concessão/permissão de serviços públicos e
+11.079/2004: parcerias público-privadas - PPPs). Apesar de possuírem regras próprias, nestes
+casos a Lei 8.666 era aplicável subsidiariamente, de sorte que a NLL passa a cumprir o mesmo
+papel (Lei 14.133, art. 189).
+Portanto, nas licitações para serviços de publicidade e para delegação de serviços públicos, a NLL
+será aplicável subsidiariamente, de sorte que todas as remissões à Lei 8.666 que constam de leis
+específicas, considera-se como se estivessem fazendo menção à NLL.
+
+ nova lei aplica-se
+   • compra (inclusive por encomenda)
+   • prestação de serviços (inclusive os técnico-profissionais especializados)
+   • obras e serviços de arquitetura e engenharia
+   • contratações de tecnologia da informação e de comunicação (TIC)
+   • alienação de bens
+   • locação
+   • concessão e permissão de uso de bens públicos
+   • concessão de direito real de uso de bens
+
+ não se aplica
+   • operações de crédito e gestão da dívida pública
+   • Contratações sujeitas à legislação própria
+
+ aplicação subsidiária
+
+   • licitações para serviços de publicidade (Lei 12.232/2010)
+   • licitações p/ concessão de serviço público (Leis 8.987/95 e 11.079/04)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            9
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 09
+
+Conceito e Objetivos
+                                                                                     INCIDÊNCIA EM PROVA: MÉDIA
+Para Maria Sylvia Zanella Di Pietro , licitação consiste no
+                                            6
+
+          procedimento administrativo [embora a nova lei mencione “processo administrativo”]
+          pelo qual um ente público, no exercício da função administrativa, abre a todos os
+          interessados, que se sujeitem às condições fixadas no edital, a possibilidade de
+          formularem propostas dentre as quais selecionará e aceitará a mais conveniente
+          para a celebração de contrato
+
+Dito isto e já retornando ao texto da NLL, desmembrando os quatro incisos de seu art. 11,
+podemos dizer que a licitação possui os seguintes objetivos (chamados de “finalidades” na Lei
+8.666):
+
+                               Seleção da proposta apta a gerar o resultado mais vantajoso
+
+                                                   assegurar o Tratamento isonômico
+
+      Objetivos                         incentivar o Desenvolvimento nacional sustentável
+
+    da licitação                                       assegurar a justa competição
+
+                                  Evitar sobrepreço, inexequibilidade ou superfaturamento
+
+                                                             incentivar a Inovação
+
+Adiante vamos detalhar cada um destes 6 objetivos!
+     1) Seleção da proposta apta a gerar o resultado mais vantajoso
+De modo a alcançar o interesse público, a Administração Pública tem o dever de adotar a solução
+que seja economicamente mais vantajosa.
+
+6
+ DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. Ed. GenMétodo. 31ª ed. 2018. eBook. Tópico
+9.1
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                      10
+          www.estrategiaconcursos.com.br                                                                    195
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Este dever de buscar a maior “vantajosidade” na contratação significa que a proposta a ser
+contratada deverá ser aquela que proporcione o resultado mais vantajoso, ou seja, a melhor
+relação custo-benefício.
+Além disso, o gestor deve considerar o “ciclo de vida” do objeto na avaliação da vantajosidade.
+Pouco adiantaria comprar um produto com custo inicial baixo, mas que sabidamente traria
+enormes desembolsos ao longo do tempo de sua utilização.
+
+     Exemplo: Imagine que você vai até uma concessionária de veículos novos adquirir um novo carro,
+     que você pretende utilizar nos próximos 3 anos, e você se depara com duas opções:
+      a) modelo X (custo de R$ 30.000,00) – alto consumo de combustível, baixo valor de revenda e
+     com previsão de gasto com revisão/manutenção de R$ 15.000,00 ao ano.
+      b) modelo Z (custo de R$ 60.000,00) – baixo consumo de combustível, boa valorização na
+     revenda e previsão de gasto com revisão/manutenção de R$ 500,00 ao ano.
+     Apesar de o modelo X apresentar um desembolso inicial menor, se considerarmos um “ciclo de
+     vida” de 4 anos para o carro, conseguimos perceber que aquele modelo não seria o mais
+     vantajoso, certo?!
+     O exemplo é simplório, mas já é possível percebermos que, na nova lei, podemos considerar
+     todos os custos “embutidos”, não se exigindo que o gestor considere apenas o “valor inicial” do
+     produto (art. 34, §1º).
+
+Portanto, ao selecionar a proposta mais vantajosa, a Administração deverá considerar todo o ciclo
+de vida do objeto a ser contratado.
+   2) Tratamento isonômico
+Os princípios da isonomia e da impessoalidade estão intimamente ligados à finalidade da atuação
+estatal.
+Nesse sentido, o próprio constituinte previu a necessidade de se assegurar a “igualdade de
+condições a todos os concorrentes” (CF, art. 37, XXI) também nas licitações públicas, de modo a
+não criar distinções indevidas entre aqueles que desejam contratar com o poder público.
+Assim, o tratamento isonômico proíbe o estabelecimento de condições que impliquem preferência
+em favor de determinados licitantes em detrimento dos demais, permitindo-se apenas exigências
+de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações e
+outras diferenciações expressamente previstas em lei.
+
+   3) Incentivar o Desenvolvimento Nacional Sustentável
+A partir deste objetivo, podemos concluir que o poder de compras da Administração pode ser
+utilizado para favorecer o mercado brasileiro de bens e serviços e, além disso, de buscar a adoção
+de práticas sustentáveis nas contratações públicas, que não agridam o meio ambiente ou que
+possam ser utilizadas como mecanismo de políticas públicas de ordem econômica e social.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   11
+        www.estrategiaconcursos.com.br                                                                 195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Aqui, portanto, é possível perceber – na nova Lei – o fortalecimento da chamada “função
+regulatória da licitação”, segundo a qual a licitação não se presta apenas a examinar propostas e
+preços, sendo utilizada também como instrumento de política pública sob os prismas sociais (a
+exemplo da possibilidade de se exigir mão de obra de egressos do sistema prisional ou de
+mulheres vítimas de violência doméstica – art. 25, §9º; exigência de as empresas contratados
+cumpram reserva de cargos para pessoa com deficiência – art. 116), ambientais (a exemplo das
+regras específicas sobre obras públicas – art. 45, I e II) e econômicas (a exemplo do critério de
+preferência para empresas brasileiras – art. 60, §1º, II), entre outros.
+Pela importância, o legislador também elencou este objetivo como um dos princípios das licitações
+(art. 5º).
+   4) Justa competição
+A “justa competição” é objetivo da licitação que caminha de “mãos dadas” com o tratamento
+isonômico, na medida em que os licitantes devem competir entre si, pela oportunidade de serem
+contratados pela Administração, a fim de que se consiga alcançar a proposta mais vantajosa. E,
+além disso, a competição deverá ser justa, sem que ocorram distinções indevidas entre eles.
+
+     Exemplo: no decorrer de uma licitação, durante a fase preparatória, o proprietário de uma
+     empresa, que é amigo do servidor responsável, acaba tendo maior facilidade de acesso às
+     informações de certame do que os proprietários das demais empresas. Podemos perceber,
+     assim, que esta diferença de tratamento poderia fazer com que a competição não fosse justa,
+     desvirtuando um dos objetivos da licitação.
+
+   5) Evitar sobrepreço, inexequibilidade ou superfaturamento
+De modo "sincero", assim como havia sido previsto na Lei das Estatais, o legislador elenca como
+um dos objetivos das licitações evitar distorções nos preços pagos pela Administração, buscando
+impedir operações com sobrepreço ou superfaturamento e também com valores inexequíveis.
+
+Nesse sentido, é importante diferenciarmos estes conceitos, especialmente à luz do disposto no
+art. 6º, incisos LVI e LVII, da nova Lei:
+                                                                            Aqui compara-se o valor contratado com
+                                                                                     o valor de mercado.
+       preços contratados são
+     expressivamente superiores                                              Exemplo: a administração contrata por
+                                       »»      Sobrepreço              »»
+      aos preços referenciais de                                            R$ 100,00 um saco de cimento cujo valor
+              mercado                                                        de mercado é de R$ 20,00 (sobrepreço
+                                                                                         de R$ 80,00).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                                  12
+        www.estrategiaconcursos.com.br                                                                                195
+
+                                      
+
+
+---
+
+    Antonio Daud
+    Aula 09
+
+                                                                         Aqui estamos diante de um contrato em
+                                                                              que já houve o pagamento. Tal
+                                                                               desembolso provocou dano à
+                                                                             Administração, por razões como
+                                                                           pagamento em quantidade superior
+                                                                          àquela entregue (superfaturamento de
+                                                                         quantidade); pagamento por qualidade
+       quando o contrato provocar                                                superior àquela entregue
+         um dano ao patrimônio           »»   Superfaturamento              (superfaturamento de qualidade);
+                público                                                        pagamento antes da entrega
+                                                                            (superfaturamento de pagamento
+                                                                                      antecipado) etc.
+
+                                                                         Exemplo: a empresa contratada executa
+                                                                          100 metros quadrados de parede e a
+                                                                          Administração paga por 1.000 metros
+                                                                             (superfaturamento de 900 m2).
+
+Percebam que, no sobrepreço, estamos diante de uma "gordura" no orçamento da licitação ou
+do contrato, enquanto no superfaturamento nos referimos a um prejuízo já concretizado aos cofres
+públicos, por causas diversas.
+
+Cebraspe/Sefaz-DF - Auditor
+Ocorre superfaturamento quando os preços orçados para a licitação ou os preços contratados são
+expressivamente superiores aos preços referenciais de mercado.
+Comentário: Em síntese, o sobrepreço decorre da comparação entre o valor unitário contratado e
+quanto aquilo custa no mercado, enquanto o superfaturamento resulta de um prejuízo
+efetivamente sofrido pelo poder público, em geral após a execução do contrato.
+Gabarito (E)
+
+Além desses dois conceitos, vale frisar que a licitação também objetiva evitar contratações
+inexequíveis. A inexequibilidade consiste na situação inversa, ou seja, quando a Administração
+seleciona uma empresa para fornecer algo por um valor extremamente baixo, isto é, muito inferior
+ao que é praticado no mercado7.
+
+7 No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem
+inferiores a 75% do valor orçado pela Administração (art. 59, § 4º).
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                           13
+          www.estrategiaconcursos.com.br                                                                         195
+
+                                        
+
+
+---
+
+    Antonio Daud
+    Aula 09
+
+       Exemplo exagerado! Em uma licitação para compra de novos computadores, a melhor proposta
+       apresenta o valor de R$ 100,00 por computador (para um equipamento que tem o custo médio
+       de mercado de R$ 4 mil).
+
+Apesar de aparentar ser algo vantajoso para a Administração, um contrato inexequível teria
+grandes chances de ser malsucedido. Assim, para se cumprir este “objetivo”, esta proposta
+poderia ser desclassificada durante a licitação (art. 59, III).
+     6) Incentivar a inovação
+Uma das grandes críticas que se fazia à Lei 8.666 nos atuais tempos consistia nos entraves
+burocráticos gerados pelas regras licitatórias, que impediam o gestor público inovar dentro do
+arcabouço normativo vigente.
+Em resposta a tal anseio, assim como observado na Lei do Regime Diferenciado de Contratações
+(Lei 12.462/2011), na nova Lei buscou-se incentivar a inovação, explorando novas ideias em busca
+do interesse público.
+Uma das iniciativas que buscou concretizar o incentivo à inovação consiste na criação da
+modalidade licitatória denominada “diálogo competitivo”, que destina-se – como se verá mais
+adiante nesta aula – justamente à contratação de objetos inovadores e complexos.
+----
+Antes de encerrar este tópico, vale adiantar que o legislador atribui à alta administração8 do órgão
+a responsabilidade por implantar controles nas contratações públicas, no intuito de alcançar os
+objetivos comentados, bem como promover um ambiente íntegro e confiável (art. 11, parágrafo
+único).
+
+8  A alta administração de um ente público é formada por aqueles agentes públicos com poder de decisão no
+órgão/entidade, como os Ministros de Estado, Secretários-Executivos, Superintendentes, Diretores-Gerais etc.
+
+          Receita Federal (Analista Tributário) Direito Administrativo                                   14
+          www.estrategiaconcursos.com.br                                                                 195
+
+                                        
+
+
+---
+
+Antonio Daud
+Aula 09
+
+      Receita Federal (Analista Tributário) Direito Administrativo       15
+      www.estrategiaconcursos.com.br                                     195
+
+                                    
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+PRINCÍPIOS
+                                                                                   INCIDÊNCIA EM PROVA: MÉDIA
+O caput do art. 5º da NLL expressa os seguintes princípios aplicáveis às licitações:
+
+
+            legalidade       impessoalidade             moralidade         publicidade         eficiência
+
+                                                                                           desenvolviment
+             eficácia        economicidade           competitividade        celeridade        o nacional
+                                                                                             sustentável
+
+
+                                  interesse             probidade
+            igualdade                                                      planejamento     transparência
+                                   público             administrativa
+
+
+      razoabilidade e
+                                 segurança            segregação de                         vinculação ao
+       proporcionali                                                        motivação
+                                  jurídica               funções                                edital
+           dade
+
+
+                                                        julgamento
+                                                          objetivo
+
+A nova lei ampliou, consideravelmente, a quantidade de princípios a serem alvejados nas licitações
+públicas, de sorte que agora chegamos a ter 22 princípios.
+Reparem que vários destes princípios são aplicáveis à toda atuação administrativa – não apenas às
+licitações públicas – como é o caso dos princípios da legalidade, impessoalidade, moralidade,
+publicidade e eficiência.
+Por outro lado, há princípios específicos das licitações, como é o caso da vinculação ao edital e do
+julgamento objetivo.
+Além destes expressos, para reforçar, o legislador remeteu também aos princípios mencionados
+na LINDB – Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei 4.657/1942) – os quais
+constituem princípios estruturantes do direito brasileiro (como a irretroatividade, transparência,
+isonomia, legalidade).
+Adiante vamos comentar os princípios mais relevantes, à luz das regras legais aplicáveis, buscando
+aglutinar aqueles que possuem estreita relação entre si.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        16
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+L-I-M-P-E
+Os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, muito embora
+já constem expressamente do texto constitucional (CF, art. 37, caput) foram listados também na
+nova Lei.
+O princípio da legalidade reforça a ideia de que a Administração deve seguir os procedimentos e
+ritos constantes da Lei 14.133 no momento de realizar suas contratações.
+O princípio da impessoalidade, ao incidir sobre as licitações públicas, postula que a Administração
+não dê tratamento favorecido ou persecutório aos licitantes, não criando discriminações indevidas
+entre os licitantes.
+Já o princípio da moralidade remete à noção de honestidade, ética, boa-fé de todos os agentes
+que atuem na condução dos procedimentos licitatórios, evitando trocas de favores e atos de
+corrupção por meio dos certames públicos.
+O princípio da publicidade, a seu turno, assegura que os atos constantes do procedimento
+licitatório, em regra, não sejam sigilosos, de modo a permitir o conhecimento a todos os
+interessados, sejam os próprios licitantes, cidadãos em geral e órgãos de controle. Ao
+comentarmos o princípio da transparência, a seguir, detalharemos os contornos da publicidade
+dentro de uma licitação.
+Por fim, o princípio da eficiência exige que os agentes públicos busquem contratar produtos de
+qualidade, com celeridade e a custos aceitáveis. Na nova lei, poderemos destacar o chamado
+“contrato de eficiência”, o qual objetiva a redução de despesas da Administração (art. 6º, LIII).
+
+Transparência
+Além de mencionar expressamente o princípio da publicidade, a nova Lei citou ainda o princípio
+da transparência. Por meio da visibilidade dos atos que compõem o processo licitatório, os
+licitantes, os órgãos de fiscalização e a sociedade em geral têm condições de acompanhar e
+verificar a lisura do seu processamento. Nesse sentido, o art. 13 da Lei prevê que
+
+        Art. 13. Os atos praticados no processo licitatório são públicos, ressalvadas as
+        hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade
+        e do Estado, na forma da lei.
+
+Há, no entanto, situações em que a visibilidade dos atos praticados pela Administração, por
+terceiros, será postergada para outro momento. É o que se chama de “publicidade diferida”:
+
+        Art. 13, parágrafo único. A publicidade será diferida:
+        I – quanto ao conteúdo das propostas, até a respectiva abertura;
+        II – quanto ao orçamento da Administração, nos termos do art. 24 desta Lei
+        [orçamento sigiloso da licitação].
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            17
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Em relação ao inciso I acima, sabemos que é sigiloso o teor das propostas apresentadas pelos
+licitantes9. Tal sigilo, no entanto, não é eterno, vigorando até o momento da abertura das
+propostas em sessão pública. Por este motivo, dizemos que a publicidade ficou diferida para o
+momento de abertura da proposta.
+
+O segundo caso de publicidade diferida consiste na possibilidade de o orçamento da licitação ser
+sigiloso. É possível que a Administração escolha não divulgar quanto planeja gastar com
+determinada compra já no próprio edital da licitação. O raciocínio é de que, quando os licitantes
+desconhecem o referencial de preços do poder público, teoricamente seria possível a obtenção
+de preços ainda mais vantajosos.
+Assim, embora a publicidade do orçamento estimado ainda seja a regra geral 10, o sigilo passou a
+ser possível. Neste caso, o gestor público decidirá também o momento da divulgação do
+orçamento (art. 18, XI), na medida em que a Lei 14.133 não definiu previamente quando o
+orçamento seria tornado público.
+Aproveito para adiantar que, mesmo nos casos em que o orçamento seja sigiloso, este sigilo
+alcança os licitantes e particulares em geral. Os órgãos de controle (como tribunais de contas,
+controladorias, Ministério Público etc), sejam interno ou externo, têm total acesso ao orçamento,
+mesmo antes do encerramento da licitação (art. 24, I).
+Além disso, a lei deixa claro que o sigilo não é compatível com o critério de julgamento de “maior
+desconto” (detalhado mais à frente). Isto porque, no “maior desconto”, o preço de referência,
+logicamente, deverá constar do edital (já que os licitantes irão ofertar descontos sobre um valor
+de referência calculado pela Administração) – art. 24, parágrafo único. E, apesar de não constar
+expressamente da Lei, podemos dizer que o sigilo do orçamento também não se aplicaria ao
+critério “melhor técnica ou conteúdo artístico”, na medida em que o edital de tal contratação
+obrigatoriamente deverá divulgar o valor do prêmio ao licitante vencedor (art. 35, caput).
+Por fim, vale ressaltar que, mesmo nos casos de orçamento sigiloso, deverão ser divulgados os
+quantitativos e das demais informações necessárias para a elaboração das propostas (art. 24,
+caput, parte final).
+
+9
+  Especialmente quando estamos falando do modo de disputa fechado (art. 56, II), detalhado mais
+adiante neste curso.
+10
+   Dada a utilização do verbo “poderá” no art. 24, caput, da Lei 14.133/2021, a exigência de motivação para a
+aposição de chancela de sigilo sobre o orçamento e a diferença com o regramento contido na Lei das Estatais (Lei
+13.303/2016, art. 34).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                      18
+           www.estrategiaconcursos.com.br                                                                   195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Resumindo as regras expressas em lei quanto à publicidade do orçamento, chegamos ao seguinte
+diagrama:
+
+                                         público (regra)
+
+        Orçamento da                                                   ato justificado
+          licitação
+                                                             deve divulgar quantitativos e
+                                                           demais informações p/ propostas
+                                     sigiloso
+                                                                                   sigilo não prevalece para
+                                                                                      órgãos de controle
+                                                             exceções
+                                                                                    tipo “maior desconto”
+
+----
+Relacionado ao princípio da transparência, temos o Portal Nacional de Contratações Públicas
+(PNCP), detalhado mais adiante, que reunirá informações sobre licitações e contratos de todos os
+entes federativos.
+Nesse sentido, amplia a transparência das contratações públicas a obrigatoriedade de divulgação
+na internet das contratações diretas de cada órgão (isto é, sem prévia licitação) - art. 72, parágrafo
+único.
+
+Celeridade
+De “mãos dadas” com o princípio da eficiência, a celeridade prescreve que as licitações sejam
+céleres. De nada adiantaria a Administração selecionar uma excelente proposta no bojo de uma
+licitação que levasse cerca de 2 anos, por exemplo!
+Portanto, a menção ao princípio da celeridade nos lembra de se atender também a esta dimensão
+temporal, no sentido de dinamizar o planejamento e a condução de uma licitação.
+Alguns dos mecanismos que atuam no sentido de acelerar os certames licitatórios são a pré-
+qualificação, o registro cadastral prévio – previstos como “procedimentos auxiliares” na nova lei –
+, bem como a inversão de fases (em que a habilitação em regra ocorre apenas sobre a
+documentação do primeiro colocado em uma licitação) e a instituição de modelos de editais (art.
+19, IV; art. 25, §1º).
+
+Probidade Administrativa
+Ligado ao princípio da moralidade, a nova Lei menciona o princípio da probidade administrativa,
+o qual consiste – segundo a doutrina majoritária – em uma espécie do princípio da moralidade
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                           19
+        www.estrategiaconcursos.com.br                                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+administrativa. Assim, os gestores envolvidos na realização de uma licitação devem prezar pela
+probidade, pela honestidade.
+Nesse sentido, lembro que a Lei de Improbidade Administrativa chega a tipificar, expressamente,
+como ato de improbidade administrativa a conduta, dolosa, que frustra a licitude de processo
+licitatório (Lei 8.429/1992, art. 10, VIII).
+
+Igualdade
+Já vimos que a licitação se destina, não apenas a permitir a escolha da melhor proposta, mas
+também a assegurar a igualdade de direitos a todos os interessados em contratar com o poder
+público. Assim, o princípio da igualdade proíbe o estabelecimento de condições que impliquem
+preferência indevida em favor de um ou outro licitante.
+Ainda que simplório, vejam o exemplo a seguir:
+
+     Exemplo: na aquisição de material escolar por um município, em que se exigiu que os cadernos
+     a serem adquiridos tenham a capa na cor laranja.
+     Tal exigência, sem qualquer motivação, acabaria por impedir que empresas que, por um motivo
+     ou outro, fabriquem cadernos apenas de outras cores participassem da licitação. Assim, tal
+     exigência de cor violaria o princípio da igualdade.
+
+O princípio da igualdade pode ser visualizado em diversas regras previstas na nova lei de licitações,
+a exemplo destas:
+
+                                        Proíbe preferências indevidas
+
+                                 Vedações a participação de determinados agentes na licitação
+                                                              (art. 14 e art. 9º, §1º)
+
+
+                                                               exigências impertinentes ou irrelevantes
+      Princ. da
+     igualdade                 Vedações ao
+                                                           distinções em razão da naturalidade, da sede
+                                 agente
+                                                                 ou do domicílio dos licitantes (regra)
+                                 público
+                                 (art. 9º, caput)
+
+                                                           distinção entre brasileiros e estrangeiros (regra)
+
+
+Adiante iremos detalhar cada uma destas situações destacadas acima.
+Um destas situações diz respeito às regras previstas nos arts. 14 e 9º, §1º, que mostram a
+preocupação do legislador tendente a evitar que determinados licitantes possuam informações
+privilegiadas sobre o objeto da licitação, o que os colocaria em situação desigual sobre os demais.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                            20
+        www.estrategiaconcursos.com.br                                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Imagine se fosse permitida que o autor do projeto básico (ou executivo) participasse da licitação
+para contratação daquela obra ou serviço?! Haveria, neste certame, uma grande assimetria de
+informações, gerando uma vantagem indevida para tal licitante, o que acabaria por minar a justa
+competição. Além disso, licitantes que possuam laços estreitos com agentes públicos com papel
+relevante na licitação, para se resguardar o princípio da impessoalidade, foram impedidos de
+participar da licitação.
+Outro caso seriam empresas de um mesmo grupo econômico atuando, cada uma por si, em um
+certame licitatório. Dados os vínculos empresariais entre elas e a possibilidade de atuarem em
+conluio na licitação, o legislador optou por impedir tal participação.
+Assim, o art. 14 e o art. 9º, §1º, da Lei 14.133 veda as seguintes participações na licitação ou
+execução contratual:
+
+Vale ressalvar, no entanto, que tais vedações não impedem a participação em licitação em que se
+inclua, como encargo do contratado, a elaboração do projeto básico e/ou do projeto executivo,
+como ocorre em determinados regimes de contratação (art. 14, §4º).
+----
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          21
+        www.estrategiaconcursos.com.br                                                        195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Bem, retomando o assunto...
+
+     Quer dizer que o edital da licitação não pode fazer nenhuma exigência às empresas
+     interessadas que possa diferenciá-las?
+
+Não é bem assim!
+Há determinadas situações em que o legislador autorizou o administrador público a estipular
+condições ou preferências para a contratação.
+1) Um destes casos são as exigências de qualificação técnica e econômica indispensáveis à garantia
+do cumprimento das obrigações (CF, art. 37, XXI, parte final).
+
+     Exemplo 1: Imagine que determinado município necessite contratar a construção de uma ponte.
+     É natural que, nesta licitação, o gestor municipal restrinja a licitação a apenas empresas do ramo
+     de construção civil.
+     Sem tal restrição, seria juridicamente possível que uma padaria, por exemplo, participasse desta
+     disputa – situação notoriamente contrária ao interesse público.
+     Seria legítimo, ainda, que este edital de licitação restringisse a apenas empresas da (1) construção
+     civil (2) que tenham anteriormente construído pontes similares.
+
+Vejam que, em ambas as restrições do exemplo acima (1 e 2), as exigências são relevantes para
+que a empresa contratada tenha condições de cumprir o contrato, construindo a ponte
+adequadamente.
+Agora imagine a seguinte exigência, ainda tomando por base a licitação para construção de uma
+ponte:
+
+     Exemplo 2: na licitação para construção da ponte, a prefeitura exige que a empresa a ser
+     contratada possua sede física naquele local.
+
+A pergunta que devemos nos fazer é: qual a relevância ou pertinência desta exigência para a
+construção da ponte? Nenhuma!
+Nesse sentido, a NLL veda que os agentes públicos:
+
+        Art. 9º, I, b) estabeleçam preferências ou distinções em razão da naturalidade, da
+        sede ou do domicílio dos licitantes;
+
+Há, no entanto, uma situação excepcional em que se admite “privilegiar” empresas situadas no
+território do Estado ao qual pertence o órgão promotor da licitação. Trata-se de uma novidade da
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        22
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+NLL, que permite que o local da sede da empresa seja considerado para fins de desempate (tema
+detalhado mais adiante nesta aula):
+
+           Art. 59, § 1º Em igualdade de condições, se não houver desempate, será
+           assegurada preferência, sucessivamente, aos bens e serviços produzidos ou
+           prestados por:
+           I – empresas estabelecidas no território do órgão ou entidade da Administração
+           Pública estadual licitante ou no Estado em que se localiza o órgão ou entidade da
+           Administração Pública municipal licitante;
+
+2) Outra situação excepcional11, em que o legislador permitiu a criação de distinção entre
+particulares interessados em contratar com o Estado, consiste na possibilidade de criação de
+margem de preferência para produtos manufaturados nacionais e serviços nacionais e para bens
+reciclados, recicláveis ou biodegradáveis (para “promover o desenvolvimento nacional”). O tema
+será detalhado mais adiante, mas já adianto seu fundamento legal:
+
+           Art. 26. No processo de licitação, poderá ser estabelecida margem de preferência
+           para:
+           I - bens manufaturados e serviços nacionais que atendam a normas técnicas
+           brasileiras;
+           II – bens reciclados, recicláveis ou biodegradáveis, conforme regulamento.
+
+3) Outra situação excepcional, que será detalhada oportunamente nesta aula, consiste no direito
+de preferência para beneficiar micro e pequenas empresas, em detrimento das grandes (LC
+123/2006, art. 44 c/c NLL, art. 4º).
+Mais adiante detalharemos a margem de preferência da NLL e o direito de preferência previsto
+na LC 123/2006, dada sua importância em provas.
+----
+Ainda no intuito de assegurar a igualdade nas licitações, o legislador proibiu, como regra geral, a
+diferenciação entre empresa brasileiras e estrangeiras. Portanto, em uma licitação internacional,
+por exemplo, um estrangeiro deveria ter as mesmas chances de vencer o certame que um
+brasileiro, como regra:
+
+           Art. 9º. É vedado ao agente público designado para atuar na área de licitações e
+           contratos, ressalvados os casos previstos em lei: (..)
+           II – estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista,
+           previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras,
+
+11
+     De modo muito similar ao que já constava da Lei 8.666/1993.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                          23
+           www.estrategiaconcursos.com.br                                                        195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo
+        quando envolvido financiamento de agência internacional.
+
+Apesar de não mencionado no dispositivo transcrito acima (que se dirige ao administrador público),
+podemos perceber a existência de exceções a esta regra (ou seja, situações em que a lei permitiu
+a diferenciação entre empresas brasileiras e estrangeiras), a exemplo das seguintes:
+      1) utilização da nacionalidade da empresa como critério de preferência para desempate
+(tema estudado mais adiante – art. 60, §1º, II)
+       2) margem de preferência para serviços/produtos nacionais que atendam a normas técnicas
+brasileiras (art. 26, I; art. 52, §6º)
+
+                                               vedado estabelecer tratamento diferenciado
+              Empresas
+             empresas vs.                                                critério de desempate em
+             estrangeiras                                              favor de empresas brasileiras
+                                              Exceções
+                                                                       margem de preferência para
+                                                                       produtos/serviços nacionais
+                                                                       + normas técnicas brasileiras
+
+Competitividade
+Para que a Administração consiga selecionar uma proposta vantajosa, é essencial que, durante a
+licitação, efetivamente tenha havido competição entre os licitantes. Quanto maior o número de
+propostas obtidas na licitação, em tese maior será a competição entre os licitantes e, assim,
+maiores as chances de se obter a proposta mais vantajosa.
+Nas licitações marcadas por combinações ardilosas de preços, a exemplo daqueles que foram alvo
+da atuação de cartéis, ou naquelas com número muito reduzido de licitantes, há baixíssima
+competição, em prejuízo dos cofres públicos.
+Também por este motivo, friso que a legislação veda o estabelecimento de exigências
+impertinentes ou irrelevantes para o objeto da licitação ou de quaisquer situações que
+comprometam seu caráter competitivo:
+
+        art. 9º. É vedado ao agente público designado para atuar na área de licitações e
+        contratos, ressalvados os casos previstos em lei: I – admitir, prever, incluir ou
+        tolerar, nos atos que praticar, situações que: (..)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   24
+        www.estrategiaconcursos.com.br                                                                 195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+           a) comprometam, restrinjam ou frustrem o caráter competitivo do processo
+           licitatório, inclusive nos casos de participação de sociedades cooperativas; (..)
+           c) sejam impertinentes ou irrelevantes para o objeto específico do contrato.
+
+Alinhado ao princípio da competividade, temos o objetivo da justa competição (comentado acima)
+e a diretriz para parcelamento das licitações destinadas a compras (art. 40, V, ‘b’), com vistas a
+ampliar o número de licitantes e, assim, maximizar as chances de obtenção da proposta mais
+vantajosa.
+
+Vinculação ao edital
+O princípio da vinculação ao edital informa que as regras previstas no edital são obrigatórias,
+devendo ser observadas por todos. Isto porque o edital consiste na “lei interna da licitação”12,
+devendo ser observado tanto pelos licitantes como pela Administração que o expediu. Se as
+regras previstas no edital são inobservadas, a licitação pode se tornar nula.
+Reparem que tal princípio consiste em garantia tanto para os licitantes (de que o poder público
+irá seguir fielmente as regras editalícias sem margem para discricionariedade) como para a
+Administração13 (já que os licitantes poderão ser desclassificados/inabilitados se descumprirem as
+regras do edital).
+
+Julgamento Objetivo
+Vimos, acima, que a Administração (assim como os licitantes) deve seguir as regras fixadas no
+edital, sem margem para discricionariedade. Nesse mesmo sentido ocorrerá o julgamento das
+propostas apresentadas pelos licitantes.
+Em outras palavras, o julgamento das propostas deve se basear unicamente no critério previsto
+no edital (como menor preço, técnica e preço etc), sem margem para subjetivismos.
+
+Interesse Público
+Sabemos que, por meio de uma licitação, a Administração busca contratar determinado objeto
+que, ao fim e ao cabo, deverá atender aos anseios e necessidades da coletividade (o “bem
+comum” da coletividade).
+
+        Exemplo: licitação para aquisição de novas viaturas de polícia; aquisição de material didático para
+        uma escola pública; licitação para construção de um hospital municipal etc.
+
+12
+     MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro, 35ª edição, p. 321.
+13
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 250
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                       25
+           www.estrategiaconcursos.com.br                                                                     195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Nesse sentido, a menção ao referido princípio busca resgatar, obedecendo às disposições legais
+específicas, a noção da supremacia do interesse público sobre o privado.
+
+Eficácia e Economicidade
+Além de atender ao princípio constitucional da eficiência, as licitações devem seguir aos princípios
+da eficácia e da economicidade.
+Dito isto, vou abrir um parêntese para tratarmos da diferenciação entre os termos eficiência,
+eficácia e economicidade.
+A par das divergências doutrinárias e da relação íntima entre estes três conceitos, costuma-se dizer
+que eficiência se resume à avaliação do custo-benefício da ação estatal (isto é, a quantidade de
+insumos gastos em determinada ação estatal versus a quantidade de produtos alcançados). Assim,
+quanto menos insumos se gasta para uma mesma quantidade de produtos gerados, mais será
+eficiente.
+A eficácia, por sua vez, se relaciona ao atingimento dos objetivos e metas previamente
+estabelecidos. Assim, uma licitação eficaz é aquela em que se conseguiu obter um contrato bem-
+sucedido e, ao final, a entrega dos produtos e serviços foi efetivada no prazo e na qualidade
+pretendidos.
+Já a economicidade diz respeito ao custo financeiro dos insumos e materiais utilizados para
+alcance da meta. Sabemos que as licitações são custeadas com recursos públicos, em geral obtidos
+compulsoriamente da população, de sorte que as compras estatais devem respeitar o erário
+público.
+
+     Tomando, como exemplo, a contratação de um novo sistema informatizado, da área de
+     segurança pública, que objetiva analisar os principais locais em que são cometidos crimes em
+     determinada região:
+     a) Se considerarmos que a contratação do software dispendeu R$ 10 milhões de recursos
+     públicos, uma equipe de 50 servidores e policiais durante 6 meses, para analisar uma região de
+     5.000km2, estamos examinando a contratação sob o prisma da eficiência.
+     b) Por outro lado, quando dizemos que a utilização do sistema permitiu atingir o objetivo de
+     mapear as regiões de maior criminalidade e os tipos penais mais cometidos, o foco é a eficácia.
+     c) Se consideramos, por fim, que o objeto licitado (sistema informatizado) teve um custo
+     financeiro de R$ 10 milhões, estaremos diante da dimensão da economicidade.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   26
+        www.estrategiaconcursos.com.br                                                                 195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Planejamento
+O planejamento é fundamental para se aumentarem as chances de sucesso da contratação, ou
+seja, garantir que ela efetivamente agregue valor ao órgão licitante. Pode parecer óbvio, contudo,
+na prática, verifica-se que boa parte das contratações brasileiras são realizadas sem um mínimo de
+planejamento. Portanto, planejar a contratação não é mera faculdade do gestor público, mas sim
+obrigação legal, que foi reforçada pela Nova Lei.
+Lembro que a licitação é um procedimento que possui duas fases, uma interna (agora chamada
+de “preparatória”) e outra, externa, como detalharemos em aula futura. O princípio do
+planejamento prevê que, durante a fase preparatória da licitação, a Administração deve
+aprofundar seus estudos, conhecendo melhor aquilo que pretende adquirir, detalhando suas reais
+necessidades, a fim de aumentar as chances de os resultados pretendidos com contratação sejam
+alcançados, com um nível de risco e custo aceitáveis.
+
+           Na NLL, boa parte do planejamento da contratação se materializa no chamado
+           estudo técnico preliminar (ETP), detalhado em outros momentos do curso.
+           É por meio do estudo técnico preliminar (ETP) que a Administração vai se certificar
+           daquilo que precisa adquirir, irá estimar as quantidades, avaliar as opções que o
+           mercado oferece, levantar preços.
+
+Outra dimensão do princípio do planejamento sugere que cada ente federativo, a cada ano,
+consolide as contratações pretendidas pelos seus órgãos e entidades, compilando-as no chamado
+plano de contratações anual (art. 12, VII)14. Este plano, de elaboração facultativa, tem por objetivo
+racionalizar as contratações dos órgãos e entidades de cada esfera, garantir o alinhamento com o
+seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias, que são
+anuais.
+
+        Exemplo: na esfera federal, os órgãos do Poder Executivo, por exemplo, anualmente
+        encaminhariam uma lista de contratações pretendidas ao Ministério da Economia, que as
+        consolidaria, para subsidiar a elaboração do orçamento, realizar eventuais priorizações nos
+        dispêndios e garantir que os contratos estejam alinhados com os planos estratégicos de mais alto
+        nível.
+
+Outra manifestação do princípio do planejamento resultou na diretriz para se considerar, antes de
+se fazer uma compra, a expectativa anual de consumo daquele produto (art. 40, caput).
+
+14
+     Como já estabelecia a IN 1/2019-Seges/ME para parte do Poder Executivo Federal
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    27
+           www.estrategiaconcursos.com.br                                                                  195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+     Exemplo: antes de se fazer uma licitação para adquirir toner de impressora, o órgão deverá
+     estimar, por exemplo, quantas páginas espera imprimir e, assim, quantas unidades espera gastar
+     daquele produto ao longo do ano, de modo a conferir mais eficiência às compras
+     governamentais.
+
+
+Razoabilidade e proporcionalidade
+Os princípios da razoabilidade e proporcionalidade encontram-se implícitos no texto
+constitucional, com sede no princípio do devido processo legal (CF, art. 5º, LIV) e também
+expressos na legislação federal (Lei 9.784/1999, art. 2º). Na NLL o legislador prestigiou-os,
+optando por torná-los expressos.
+
+     Exemplo: imagine se uma empresa, que ofertou a melhor proposta em determinada licitação,
+     fosse desclassificada simplesmente por apresentar um documento em duplicidade. Esta
+     desclassificação seria desarrazoada e, assim, contrária ao interesse público, não devendo ser
+     admitida.
+
+Em síntese, são princípios que auxiliam o intérprete do direito administrativo a exercer o “bom
+senso” e, assim, a descartar soluções absurdas, bizarras, desarrazoadas, proibindo o cometimento
+de excessos por parte da Administração.
+
+Segurança jurídica
+A segurança jurídica é princípio geral do direito, que tem por objetivo resguardar a estabilidade
+das relações jurídicas e, assim, conferir previsibilidade à atuação estatal.
+Há uma série de institutos jurídicos que concretizam a proteção à segurança jurídica, como a
+irretroatividade da lei ou intepretações, a coisa julgada, o ato jurídico perfeito e o direito
+adquirido.
+Este princípio já era mencionado expressamente, em âmbito federal (Lei 9.784/1999, art. 2º), e
+acabou sendo positivado no texto da nova lei de licitações, com intuito de se resguardar os direitos
+daqueles envolvidos em uma licitação.
+
+Segregação de funções
+O princípio da segregação de funções, amplamente utilizado no setor privado e em determinadas
+atividades da Administração, foi positivado na nova lei de licitações, para fortalecer sua aplicação
+nas contratações públicas.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                  28
+        www.estrategiaconcursos.com.br                                                                195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Ele consiste em um mecanismo de controle, que busca, em síntese, separar funções de execução
+e de aprovação, fazendo com que servidores distintos as executem.
+
+     Tomando situações do nosso cotidiano podemos extrair diversos exemplos de segregação de
+     função na prática:
+     A) Quando você vai a uma loja: repare que, no processo de compra, algumas funções são
+     atribuídas a pessoas distintas, como fazer a venda (vendedor), receber o pagamento (“caixa”) e
+     entregar o produto a você (por vezes atribuída ao setor de “expedição”).
+
+     B) Quando você vai até uma agência bancária solicitar um empréstimo: repare que a concessão
+     do empréstimo certamente envolverá a aprovação de um “gerente” ou de outra pessoa diferente
+     daquela que lhe atendeu.
+
+        Imagine se um único servidor público pudesse requisitar uma licitação, escrever o
+        edital, conduzir o certame de modo a selecionar a proposta mais vantajosa, assinar
+        o contrato e, ainda, assinar o recebimento do produto contratado?
+        Os riscos de ilegalidades ou, até mesmo de desvios, seriam altíssimos, não é
+        mesmo?!
+
+Por esta razão o legislador vedou a designação do mesmo agente público para atuação simultânea
+em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e
+de ocorrência de fraudes na respectiva contratação (art. 7º, §1º).
+Portanto, a ideia é reduzir os riscos de erros e de fraudes, por meio da não concentração de
+determinadas funções sobre um mesmo servidor.
+Assim, em uma licitação, tal princípio irá garantir que sua condução não seja concentrada nas mãos
+de um único servidor.
+
+Motivação
+O princípio da motivação, como se sabe, exige que a administração pública indique os
+fundamentos de fato e de direito que levaram a uma decisão.
+Além de implícito no texto constitucional, tal princípio encontra-se positivado também na
+legislação federal (Lei 9.784/1999, art. 2º, parágrafo único, VII).
+Nas licitações, percebe-se que, além de transparentes, os atos do procedimento licitatório devem
+ser motivados, de sorte que os licitantes e cidadãos interessados possam conhecer os
+fundamentos, de fato e de direito, que determinarem a decisão administrativa.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                  29
+        www.estrategiaconcursos.com.br                                                                195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+----
+Concluídos os comentários sobre os princípios expressos na nova lei, adiante destacamos alguns
+princípios implícitos.
+
+Adjudicação Compulsória
+Conforme veremos mais adiante, a adjudicação consiste na etapa da licitação por meio da qual a
+Administração atribui o objeto licitado ao vencedor. É um reconhecimento de que “a empresa X
+venceu o certame” e, portanto, se houver um futuro contrato para aquele objeto licitado, ela será
+a empresa contratada.
+Assim, parte da doutrina defende a existência do princípio da adjudicação compulsória, segundo
+o qual, uma vez concluída a licitação, a Administração não poderia atribuir o objeto da licitação a
+outra empresa que não a vencedora.
+Reparem, no entanto, que a “adjudicação compulsória” não significa “contratação compulsória”.
+Mesmo após realizada a licitação, declarado seu vencedor e adjudicado a ele seu objeto, o poder
+público poderia deixar de celebrar o respectivo contrato.
+Em outras palavras, se a Administração entender que não é mais conveniente ou oportuna a
+contratação, ela poderia revogar a licitação ou, simplesmente, adiar a celebração do contrato. Ou,
+ainda, detectado algum vício no procedimento licitatório, ele poderia ser anulado, não havendo
+que se falar em obrigatoriedade de contratação com o adjudicatário.
+Isto porque a empresa adjudicatária goza de mera expectativa de celebração do contrato
+administrativo – não havendo direito adquirido à celebração do contrato.
+Portanto, o princípio em tela veda que, enquanto permanecer válida a adjudicação, outra empresa
+seja contratada para aquele mesmo objeto.
+
+Virtualização
+Apesar de não restar expresso na Lei, a partir da interpretação da Lei 14.133, tem-se falado15 no
+princípio da virtualização dos atos do procedimento licitatório.
+Tendo a lei sido publicada em pleno ano de 2021, a tendência é que a forma física dos atos
+licitatórios seja evitada, priorizando-se seu formato virtual, pois em regra as licitações e as
+propostas serão eletrônicas. Nesse sentido, o art. 12 prevê que:
+
+15
+  A exemplo de Rafael Sérgio de Oliveira, “10 tópicos mais relevantes do projeto da nova lei de Licitação
+e Contrato”. in Observatório da Nova Lei de Licitações.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                               30
+           www.estrategiaconcursos.com.br                                                             195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+           Art. 12, VI – os atos [da licitação] serão preferencialmente digitais, de forma a
+           permitir que sejam produzidos, comunicados, armazenados e validados por meio
+           eletrônico
+
+De outro lado, a nova lei prevê, de modo geral, a forma eletrônica para as licitações16:
+
+           Art. 17, § 2º As licitações serão realizadas preferencialmente sob a forma
+           eletrônica, admitida a utilização da forma presencial, desde que motivada,
+           devendo a sessão pública ser registrada em ata e gravada mediante utilização de
+           recursos tecnológicos de áudio e vídeo.
+
+Isto significa que as licitações presenciais se tornaram exceção, somente podendo ocorrer
+mediante justificativa e desde que a sessão seja gravada.
+Outra manifestação do princípio da virtualização consiste na expressa menção à possibilidade de
+assinaturas digitais no bojo das licitações e contratos administrativos (Art. 12, § 2º).
+
+Sigilo das Propostas
+Apesar de também não estar expresso na Lei 14.133, vale destacar o princípio do sigilo das
+propostas. Como já adiantado anteriormente, por meio da chamada “publicidade diferida”, o
+legislador assegurou o sigilo das propostas apresentadas pelos licitantes:
+
+               Art. 13, parágrafo único. A publicidade será diferida:
+           I – quanto ao conteúdo das propostas, até a respectiva abertura;
+
+O conteúdo de cada proposta ofertada reúne informações sensíveis para o julgamento da
+licitação, como o próprio preço ofertado pela empresa licitante. Se uma licitante ficar sabendo, de
+antemão, quanto a outra empresa se propôs a ofertar pelo contrato, teríamos um sério
+comprometimento da competição neste certame.
+Por este motivo, as propostas devem ser apresentadas de modo a preservar o sigilo em relação
+aos demais licitantes.
+Mas vejam que o sigilo das propostas persiste até o momento em que ocorre a abertura dos
+envelopes das propostas, isto é, o momento do julgamento da licitação. Após este momento, as
+propostas tornam-se públicas, inclusive para permitir o controle dos atos praticados pelos agentes
+públicos quanto ao julgamento da licitação.
+Por fim, destaco que a conduta de violar o conteúdo das propostas, enquanto ainda são sigilosas,
+encontra-se tipificada como crime por meio do art. 337-J do Código Penal.
+
+16
+   A exceção fica por conta dos municípios com até 20.000 habitantes, que terão 6 anos para se adequar
+à forma eletrônica das licitações (art. 176, II).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                            31
+           www.estrategiaconcursos.com.br                                                          195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Formalismo moderado
+A partir da leitura atenta do texto da nova lei, pode-se inferir a existência do princípio do
+formalismo moderado (ou do informalismo) é extraído dos seguintes critérios de atuação:
+Carvalho Filho17 traz esclarecedora definição a este respeito:
+
+           O princípio do informalismo significa que, no silêncio da lei ou de atos
+           regulamentares, não há para o administrador a obrigação de adotar excessivo
+           rigor na tramitação dos processos administrativos, tal como ocorre, por exemplo,
+           nos processos judiciais.
+
+Uma manifestação deste princípio na NLL consta do art. 12, inciso III, que prevê que:
+
+           Art. 12, III - o desatendimento de exigências meramente formais que não
+           comprometam a aferição da qualificação do licitante ou a compreensão do
+           conteúdo de sua proposta não importará seu afastamento da licitação ou a
+           invalidação do processo;
+
+Em outras palavras, nesta ideia do formalismo moderado, o desatendimento a uma regra
+meramente formal não levará necessariamente à anulação do certame ou à
+desclassificação/inabilitação do licitante, mas apenas se comprometer a aferição da qualificação
+do licitante ou a compreensão do conteúdo de sua proposta.
+
+DEFINIÇÕES IMPORTANTES
+O art. 6º da nova lei de licitações apresenta uma lista de 60 de definições, que podem ser cobradas
+em provas. Deste universo, destacaremos especialmente aquelas relacionadas aos objetos da
+licitação, aos principais projetos de uma contratação e aos agentes públicos que atuam na
+licitação, cuja compreensão será essencial para o estudo das modalidades licitatórias.
+
+Objetos de uma licitação
+                                                                               INCIDÊNCIA EM PROVA: BAIXA
+Extrapolando a literalidade do art. 37 do inciso XXI da CF (que menciona o C-A-S-O) e atendo-me
+ao art. 2º da nova lei, de modo geral a licitação deve ser realizada quando anteceder a celebração
+de contratos com os seguintes objetos:
+
+17
+     FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 1015
+
+           Receita Federal (Analista Tributário) Direito Administrativo                               32
+           www.estrategiaconcursos.com.br                                                            195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                        alienação de
+                    compra                                            serviços             obras
+                                            bens
+
+                              locações                 concessões             permissões
+
+
+Feita esta contextualização, iremos trazer breves considerações sobre os objetos das licitações,
+para permitir melhor compreensão do que está por vir.
+Compras
+Por meio dos contratos de compras (por vezes chamados de “fornecimentos”), a Administração
+adquire bens móveis necessários às suas atividades, os quais poderão ser entregues de uma só
+vez ou parceladamente.
+
+        Exemplos: materiais escolares para as escolas públicas; medicamentos e equipamentos
+        hospitalares; material de escritório e computadores para as repartições públicas.
+
+Segundo a definição legal (art. 6º, X), compra consiste na aquisição remunerada de bens para
+fornecimento de uma só vez ou parceladamente, considerada imediata aquela com prazo de
+entrega de até 30 dias da data ordem de fornecimento18.
+
+Aqui, é importante sabermos diferenciar as compras em comuns e especiais, principalmente para
+se determinar a adoção ou não da modalidade pregão.
+Em síntese, podemos dizer que “especial” é o contrário de “comum”. Assim, já adianto que, sendo
+considerado “comum”, terá lugar a adoção da modalidade pregão e, sendo “especial”, deverá
+ser adotada a concorrência.
+
+           Ok, entendi! Mas como saber se o bem é, de fato, comum?
+
+18
+  Na Lei 8.666, o prazo para se considerar “compra imediata” era de 30 dias contados da apresentação
+da proposta (e não da ordem de fornecimento). Além disso, futuramente iremos comentar que as
+compras com entrega imediata possuem algumas facilidades, a exemplo da dispensa da etapa de
+habilitação e, a depender do valor da compra, do instrumento contratual.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                            33
+           www.estrategiaconcursos.com.br                                                          195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A legislação define que são comuns aqueles bens cujos padrões de desempenho e qualidade
+possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado
+(art. 6º, XIII).
+
+      Tomem como exemplo uma licitação para aquisição de computadores.
+      Ao realizar tal certame, a Administração consegue descrever o objeto desejado em termos de
+      especificações usuais de mercado, mencionando o tamanho e o tipo da memória do
+      equipamento (8GB de memória RAM), os requisitos do processador (frequência, quantidade de
+      núcleos etc), o tipo de placa de vídeo, a quantidade de portas USB e sua velocidade (4 portas USB
+      3.0) etc.
+      Apesar de ser um bem extremamente complexo, é possível descrever um computador por meio
+      de texto, objetivamente, e tal descrição ser compreendida pelo mercado, o que caracteriza sua
+      natureza comum.
+
+Para os bens comuns, passa a ser obrigatória a adoção do pregão como modalidade licitatória,
+qualquer que seja o ente federativo 19.
+Em contraponto aos comuns, temos os bens especiais, como sendo aqueles que, por sua alta
+heterogeneidade ou complexidade, não podem ser descritos objetivamente no edital como os
+comuns (art. 6º, XIII). Reparem que o conceito de “especial” tem um caráter residual, inserindo-se
+aqui as situações que não puderem ser enquadradas como comum. Neste caso, a modalidade
+licitatória será a concorrência.
+
+                                                     aquisição remunerada de bens
+
+                                     compra imediata = prazo de entrega de até 30 dias da
+              compras                              ordem de fornecimento
+
+
+                                                                       comuns              pregão
+
+                                           bens                        especiais       concorrência
+
+19 Até antes da Lei 14.133/2021, a obrigatoriedade da adoção do pregão para objetos comuns ficaria a critério de
+
+cada ente federativo, sendo que, na esfera federal, o Decreto 10.024/2019 tornava obrigatória sua utilização.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                            34
+        www.estrategiaconcursos.com.br                                                                          195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Obras
+A partir da definição legal de ‘obra’20, temos que as licitações que têm como objeto “obras
+públicas” se destinam à execução indireta de construção, reforma, fabricação, recuperação ou
+ampliação de bens públicos.
+
+        Exemplos: duplicação de uma rodovia; construção de um estádio público de futebol; reforma do
+        edifício de uma repartição pública; ampliação da UTI de um hospital público.
+
+Relembro que, uma obra pode ser executada diretamente ou indiretamente pelo poder público.
+A execução direta é aquela em que a própria Administração (com seu maquinário e servidores
+próprios) ergue um edifício, por exemplo.
+Na execução indireta, por sua vez, a Administração celebra um contrata um terceiro, para que
+este erga o edifício para a Administração. Aqui terá lugar o contrato de obra pública e, por sua
+vez, as licitações de obras públicas.
+Serviços
+A partir da definição legal de “serviço”21, a doutrina já definia contratos de serviços como aqueles
+que visam a atividade destinada a obter determinada utilidade concreta de interesse para a
+Administração. Nesta espécie, a obrigação do particular contratado pelo poder público se traduz
+em fazer algo que seja útil à Administração.
+Reparem que aqui não estamos falando dos contratos de serviços públicos (voltados à população),
+mas da prestação de serviços privados à Administração. Nestes contratos de serviços, torna-se
+evidente a terceirização realizada pela Administração.
+
+        Exemplos: transporte de servidores da Receita Federal até os locais de fiscalização; serviços de
+        limpeza da repartição pública; publicidade; trabalhos técnico-profissionais; serviços de
+        informática, como a criação de um sistema informatizado.
+
+Na nova lei de licitações, foram previstas importantes classificações do gênero “serviços”:
+
+20
+   Lei 14.133, art. 6º, XII - Obra - toda atividade estabelecida, por força de lei, como privativa das
+profissões de arquiteto e engenheiro que implica intervenção no meio ambiente por meio de um conjunto
+harmônico de ações que, agregadas, formam um todo que inova o espaço físico da natureza ou acarreta
+alteração substancial das características originais de bem imóvel;
+21
+   Art. 6º, XI – serviço: atividade ou conjunto de atividades destinadas a obter determinada utilidade,
+intelectual ou material, de interesse da Administração
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    35
+           www.estrategiaconcursos.com.br                                                                  195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                               quanto à                     serviços comuns
+                                                                       vs.
+                               natureza                          especiais
+                                                                                 com dedicação exclusiva
+                                                                                    de mão de obra
+                                                           serviços contínuos
+   serviços                  quanto à                                            sem dedicação exclusiva
+                           continuidade                      não contínuos          de mão de obra
+                                                            (ou "por escopo")
+
+
+                                                               serviços de
+                                                                                   comuns vs. especiais
+                              quanto ao                        engenharia
+                               objeto
+                                                             outros serviços
+
+Adiante vamos diferenciar cada uma destas espécies!
+Inicialmente, é importante sabermos diferenciar serviços em comuns e especiais, principalmente
+para se determinar a adoção ou não da modalidade pregão.
+Seguindo a mesma dicotomia das compras, “serviço especial” é o contrário de “serviço comum”.
+Assim, igualmente a legislação define que são comuns aqueles serviços cujos padrões de
+desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de
+especificações usuais no mercado (art. 6º, XIII).
+
+     Tomem como exemplo uma licitação para contratação do serviço de desenvolvimento de
+     programas de computadores (aplicativos).
+     Ao realizar tal certame, a Administração consegue descrever o objeto desejado em termos de
+     especificações usuais de mercado, mencionando a linguagem de programação (como Java, PHP,
+     .Net, VB etc), a metodologia de programação (tradicional, ágil etc), os requisitos de
+     documentação etc.
+     Enfim, apesar de tal atividade ser intelectual, é possível descrevê-la textualmente em um edital
+     e tal descrição ser compreendida pelo mercado, o que caracteriza sua natureza comum.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                      36
+        www.estrategiaconcursos.com.br                                                                  195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Para os serviços comuns, a regra geral é a obrigatoriedade de adoção do pregão como
+modalidade licitatória, qualquer que seja o ente federativo 22.
+Em contraponto aos comuns, temos os serviços especiais, como sendo aqueles que, por sua alta
+heterogeneidade ou complexidade, não podem ser descritos objetivamente no edital como os
+comuns (art. 6º, XIII).
+
+        Exemplo: a contratação do desenvolvimento de um algoritmo computacional que consiga
+        predizer as regiões de um município com maior índice de roubos, a depender da hora do dia. Pela
+        sua alta complexidade e heterogeneidade, seria inviável a adoção do pregão, por se tratar de
+        “serviço especial”.
+
+Portanto, sendo especiais, em regra, os serviços deverão ser licitados mediante concorrência
+(exceto os serviços comuns de engenharia, detalhados mais adiante).
+----
+De outro lado, quanto à sua continuidade, os serviços podem ser enquadrados como contínuos
+ou não.
+Serviços contínuos são contratados pela Administração Pública para a manutenção da atividade
+administrativa, decorrentes de necessidades permanentes ou prolongadas (art. 6º, XV).
+
+        Exemplos: serviços de vigilância das repartições públicas; limpeza; manutenção de sistemas
+        informatizados.
+
+De outro lado, temos os serviços não contínuos ou contratados por escopo, os quais impõem ao
+contratado o dever de realizar a prestação de um serviço específico em período predeterminado,
+a exemplo de um projeto. Apesar de haver um período predeterminado, nada impede que tal
+prazo seja prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto
+(art. 6º, XVII).
+
+        Exemplos: realização de uma consultoria em uma entidade pública; criação de uma nova
+        campanha publicitária; implantação, até outubro daquele ano, de uma nova ferramenta
+        informatizada.
+
+Antes de avançar, ressalto que podemos transpor os mesmos comentários acima para as compras,
+as quais também podem ser classificadas em contínuas (fornecimentos contínuos) ou não.
+
+22
+   Até antes da Lei 14.133/2021, a obrigatoriedade da adoção do pregão para objetos comuns ficaria a
+critério de cada ente federativo, sendo que, na esfera federal, o Decreto 10.024/2019 tornava obrigatória
+sua utilização.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                   37
+           www.estrategiaconcursos.com.br                                                                 195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Pois bem, voltando aos serviços contínuos, a nova lei cuidou de criar mais uma subdivisão
+importante23: serviços contínuos com regime de dedicação exclusiva de mão de obra. Nestes
+contratos, em síntese, os terceirizados ficam alocados apenas para determinado órgão (isto é, sem
+serem “compartilhados” com outros contratos), prestando serviços nas dependências físicas do
+próprio órgão público (art. 6º, XVI). Em contraponto, não houvesse a “dedicação exclusiva de mão
+de obra”, um mesmo terceirizado poderia ser alocado em múltiplos contratos, ao mesmo tempo,
+não se fixando em nenhum órgão público ou contrato durante a prestação dos serviços.
+Nos contratos com dedicação exclusiva, a nova Lei prevê alguns mecanismos para assegurar o
+cumprimento, por parte da empresa contratada, das obrigações trabalhistas. Um destes
+mecanismos consiste na prerrogativa de a Administração solicitar ao contratado uma série de
+comprovantes relacionados aos terceirizados, como o recibo de pagamento dos salários e vale-
+transporte, a folha de ponto, recolhimento do FGTS etc. Caso o contratado deixe de apresentar,
+estará sujeito à multa (art. 50).
+----
+Na sequência, temos uma importante subdivisão dos contratos de serviços quanto ao seu objeto:
+serviços de engenharia e outros serviços.
+Serviço de engenharia, segundo a definição legal, consiste em toda atividade ou conjunto de
+atividades não enquadradas no conceito de obra e que, por força de lei, são privativas das
+profissões de arquiteto e engenheiro ou de técnicos especializados destinadas a obter
+determinada utilidade, intelectual ou material, de interesse para a Administração (art. 6º, XXI).
+Abro um parêntese para comentar que, de outro lado, não sendo de engenharia, a atividade
+poderia ser enquadrada como “outros serviços” (art. 75, II).
+Retornando aos serviços de engenharia, seguindo a jurisprudência do TCU (SUM-257) e a distinção
+que já constava da legislação federal, a lei também passou a subdividi-los em:
+                                                         ações, objetivamente padronizáveis em termos de
+                                                           desempenho e qualidade, de manutenção, de
+                                                           adequação e de adaptação de bens móveis e
+                                  comuns                    imóveis, com preservação das características
+                                                                        originais dos bens
+       serviços de                                           admite modalidade pregão ou concorrência
+       engenharia
+                                                                alta heterogeneidade ou complexidade
+                                 especiais
+                                                                   apenas modalidade concorrência
+
+23Seguindo a diferenciação que constava da legislação federal, a exemplo da Instrução Normativa 5/2017, da
+Secretaria de Gestão do então Ministério do Planejamento
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    38
+           www.estrategiaconcursos.com.br                                                                  195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Portanto, tratando-se de serviços especiais de engenharia (alta heterogeneidade ou
+complexidade), não há mistério: é vedada a adoção do pregão. Neste caso, em regra será adotada
+a modalidade concorrência.
+Agora, tratando-se de serviços comuns de engenharia, teremos um detalhe importante: a adoção
+do pregão é facultativa (e não obrigatória), eis que pode ser adotada também a modalidade
+concorrência.
+Portanto, a adoção do pregão para serviços de engenharia pode ser assim sintetizada:
+             Serviços comuns de engenharia                             Outros serviços comuns
+            Possível a adoção da modalidade
+                                                                  Obrigatória a adoção do pregão
+                 pregão ou concorrência
+----
+Por fim, além das definições de serviços acima comentadas, a lei ainda exemplifica os “serviços
+técnicos especializados de natureza predominantemente intelectual” (art. 6º, XVIII), os quais
+poderiam – atendidos certos pressupostos - ser contratados mediante inexigibilidade de licitação
+(art. 74, III).
+Locações
+A locação – por vezes chamada de “aluguel” – consiste em um contrato, primariamente regido
+por regras do direito privado, em que uma das partes cede à outra o direito de usar e gozar um
+determinado bem, esperando receber certa retribuição em troca (Código Civil, art. 565).
+Já adianto que uma das novidades da NLL consistiu na possibilidade de a locação de bem imóvel
+ser realizada sem uma licitação prévia, mediante inexigibilidade de licitação (art. 74, V), e não mais
+por meio de dispensa de licitação.
+De qualquer forma, não sendo o caso da inexigibilidade de licitação, a locação de imóveis deverá
+ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos custos
+de adaptações e do prazo de amortização dos investimentos necessários (art. 51).
+Alienações
+Uma licitação também poderá se destinar a promover a alienação (venda) de um bem do poder
+público, seja móvel ou imóvel.
+Já adianto que, tratando-se de bens imóveis, a alienação é condicionada ao atendimento dos
+seguintes pressupostos (art. 76, caput e inciso I):
+
+        Receita Federal (Analista Tributário) Direito Administrativo                               39
+        www.estrategiaconcursos.com.br                                                             195
+
+                                      
+
+
+---
+
+       Antonio Daud
+       Aula 09
+
+                                          interesse público devidamente
+     alienação - imóveis
+
+
+                                                    justificado
+
+
+                                                      avaliação prévia
+                                                                                                                       procedimentos
+                                                                                                                          judiciais
+                                autorização legislativa, inclusive para                   dispensada se imóvel
+                                       autarquias e fundações                                  oriundo de
+                                                                                                                    dação em pagamento
+                                                                                          dispensada nos casos
+                                     licitação na modalidade de leilão
+                                                                                          do art. 76 da nova Lei
+
+
+Reparem, quanto à modalidade licitatória a ser adotada, que deverá ser adotado o leilão.
+Outra observação importante quanto à alienação de imóveis diz respeito aos imóveis provenientes
+de (i) dação em pagamento24 ou (ii) procedimentos judiciais25 (art. 76, § 1º). Para facilitar a
+conversão em pecúnia destes bens, o legislador afastou a obrigatoriedade de autorização
+legislativa nestes casos.
+Quanto à alienação de bens móveis, a legislação exige o seguinte (art. 76, caput e inciso II):
+                                 alienação - móveis
+
+                                                         interesse público devidamente
+                                                                    justificado
+
+                                                                 avaliação prévia
+
+                                                                                                     dispensada nos casos do
+                                                          licitação na modalidade leilão
+                                                                                                        art. 76 da nova Lei
+
+24
+  Dação em Pagamento, em síntese, diz respeito à situação em que o particular dá bens imóveis ao
+poder público como forma de quitar dívidas.
+25
+  Neste caso são bens imóveis oriundos de processos judiciais, como nos casos em que o particular teve
+seu patrimônio executado para pagamento de dívidas com o Estado.
+
+                           Receita Federal (Analista Tributário) Direito Administrativo                                           40
+                           www.estrategiaconcursos.com.br                                                                        195
+
+                                                              
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                        Bens imóveis                                          Bens móveis
+               autorização legislativa (regra)                                       -
+                      avaliação prévia                                       avaliação prévia
+                interesse público justificado                          interesse público justificado
+            licitação na modalidade leilão (regra)               licitação na modalidade leilão (regra)
+
+Anteprojeto, Projeto Básico e Projeto Executivo
+                                                                                         INCIDÊNCIA EM PROVA: MÉDIA
+Para que uma licitação ocorra, é necessário que a Administração defina, da melhor maneira
+possível, aquilo que deseja contratar, a um nível de precisão tal que todos os licitantes e
+interessados consigam compreender, a partir de uma leitura atenta do edital da licitação.
+Pela complexidade inerente a uma obra ou a uma prestação de serviços, é necessário que sejam
+elaborados projetos, que buscam, em síntese, descrever para os licitantes o que se espera seja
+feito.
+Assim, em geral, ainda durante a fase preparatória da licitação, a partir do estudo técnico
+preliminar (ETP), a Administração elabora um projeto básico, o qual posteriormente é detalhado
+em um projeto executivo, que, por sua vez, irá permitir a futura execução da obra ou prestação
+do serviço. Em alguns casos, como veremos adiante, é ainda necessária a elaboração de um
+documento inicial, denominado anteprojeto:
+
+                                                                                                Execução da
+                                                                        Projeto
+      Anteprojeto                 Projeto Básico                                                 obra ou do
+                                                                       Executivo
+                                                                                                  serviço
+
+Antes de detalhar estes 3 documentos, vale adiantar que o anteprojeto – que, nem sempre é
+necessário – representa uma versão mais simples, mais inicial, dos estudos relacionados à solução
+a ser contratada. Em síntese, o anteprojeto seria um mero esboço.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                            41
+        www.estrategiaconcursos.com.br                                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Por outro lado, o projeto básico é uma versão um pouco mais detalhada do que se espera da
+empresa contratada, contendo maior nível de precisão que o anteprojeto.
+Por fim, o projeto executivo detalha ainda mais o projeto básico, a ponto de permitir a completa
+execução da obra.
+Projeto Básico
+Nos termos previstos no art. 6º, XXV, o Projeto Básico consiste no conjunto de elementos
+necessários e suficientes, com nível de precisão adequado, para definir e dimensionar a obra ou o
+serviço, ou complexo de obras ou serviços objeto da licitação.
+Tal projeto é elaborado com base nas nos “estudos técnicos preliminares”, que assegurem a
+viabilidade técnica e o adequado tratamento do impacto ambiental do empreendimento, e que
+possibilite a avaliação do custo da obra e a definição dos métodos e do prazo de execução,
+devendo conter os seguintes elementos:
+                                    levantamentos, sondagens, ensaios, estudos e
+                                     demais dados necessários para execução da
+                                                 solução escolhida
+                                   soluções técnicas, suficientemente detalhadas, de
+     elementos do projeto básico
+
+                                         forma a evitar futura necessidade de
+                                                     reformulações
+
+                                    identificação dos tipos de serviços a executar e
+                                   dos materiais e equipamentos a incorporar à obra
+
+                                      informações que possibilitem o estudo e a
+                                          definição de métodos construtivos            empreitada por preço
+                                                                                             unitário
+                                   subsídios para montagem do plano de licitação e
+                                                                                       empreitada por preço
+                                                   gestão da obra
+                                                                                              global
+
+                                   orçamento detalhado da obra, fundamentado em         empreitada integral
+                                            quantitativos, obrigatório p/
+
+                                                                                       contratação por tarefa
+
+                                                                                         fornecimento e
+                                                                                       prestação de serviço
+                                                                                            associado
+
+A partir do último item do diagrama acima, reparem que o orçamento detalhado da obra não será
+obrigatório no projeto básico quando o regime de execução for a (i) contratação integrada ou a
+(ii) contratação semi-integrada.
+
+                    Receita Federal (Analista Tributário) Direito Administrativo                              42
+                    www.estrategiaconcursos.com.br                                                            195
+
+                                                  
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Em regra, o projeto básico é elaborado pela Administração e constitui um dos anexos do edital
+da licitação. Isto porque é por meio dele que os licitantes conseguirão estimar o custo da obra,
+conhecer suas etapas, prazos e, assim, poderão formular suas propostas de preços.
+No entanto, no regime de contratação integrada26, o projeto básico é elaborado pela própria
+empresa encarregada de executar a obra (e não pela Administração). Neste caso, como veremos
+mais adiante, o edital da licitação não contém projeto básico, pois a licitação é realizada apenas
+com base no anteprojeto.
+
+Podemos dizer que um “irmão” do projeto básico consiste no termo de referência. A despeito da
+proximidade entre as definições literais que constam do art. 6º - que mencionam que o termo de
+referência irá balizar as licitações de bens e serviços (art. 6º, XXIII), ao passo que o projeto básico
+destina-se às contratações de obras e serviços (art. 6º, XXV) -, podemos dizer que o termo de
+referência é o documento que acompanhará o edital de uma compra (bens), o projeto básico
+acompanhará o edital de uma obra e, no caso dos serviços, ora estará presente o projeto básico,
+ora o termo de referência.
+----
+De toda forma, a título de aprofundamento, vale destacar que, tratando-se de obras e serviços
+comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de
+desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em
+termo de referência, dispensada a elaboração de projetos básico ou executivo (art. 18, §3º).
+Projeto Executivo
+O Projeto Executivo, por sua vez, diz respeito ao conjunto dos elementos necessários e suficientes
+à execução completa da obra, consistindo em um detalhamento das soluções previstas no projeto
+básico (art. 6º, XXVI).
+
+26
+  A contratação integrada consiste, em linhas gerais, em um regime de execução de obras em que o
+próprio contratado se encarrega de praticamente todas as etapas da obra, desde a concepção dos
+projetos básico e executivo, passando pela execução das obras, montagem, teste, comprometendo-se a
+realizar todas as etapas para a entrega final do objeto à Administração (art. 6º, XXXII).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                             43
+           www.estrategiaconcursos.com.br                                                           195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Portanto, enquanto o projeto básico define e dimensiona a obra, o projeto executivo vai além,
+permitindo sua execução completa, futuramente. Em síntese, o Projeto Executivo detalha o
+Projeto Básico a um nível de pormenores suficientes para a completa execução da obra.
+Apesar de o projeto executivo ser, em regra27, exigido para a realização de obras e serviços de
+engenharia (art. 46, §1º), nem sempre será elaborado pela própria Administração.
+Isto porque, excepcionalmente, nos regimes de contratação semi-integrada e contratação
+integrada, a elaboração do projeto executivo fica sob responsabilidade da própria empresa
+contratada para execução das obras.
+
+Comparando a situação em que o projeto básico não é exigido para realização da licitação, com
+aquelas em que o projeto executivo não será exigido, chegamos ao seguinte quadro-comparativo:
+                                              Administração elabora           Contratado elabora
+                                                   Projeto básico
+                    Regra geral                                                       -
+                                                 Projeto executivo
+               Contratação semi-
+                                                   Projeto básico             Projeto executivo
+                  integrada
+
+                    Contratação                                                 Projeto básico
+                                                    Anteprojeto
+                     integrada                                                Projeto executivo
+
+Anteprojeto
+Nos termos do art. 6º, XXIV, da NLL, anteprojeto consiste na peça técnica com todos os subsídios
+necessários à elaboração do projeto básico. O anteprojeto será elaborado a partir dos “estudos
+técnicos preliminares da contratação” e conterá informações como prazo de entrega da obra,
+estética do projeto arquitetônico, levantamento topográfico e cadastral, entre outros.
+O anteprojeto tem lugar no regime de contratação integrada, porquanto naquele regime o projeto
+básico será elaborado pela própria empresa contratada (art. 46, §2º), a partir do esboço criado
+pela Administração.
+
+27
+  A exceção fica por conta das obras e serviços comuns de engenharia que poderão ser realizadas apenas
+com base no termo de referência ou no projeto básico, se demonstrada a inexistência de prejuízo para
+a aferição dos padrões de desempenho e qualidade almejados (art. 18, §3º).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                            44
+           www.estrategiaconcursos.com.br                                                          195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                    Anteprojeto                  Projeto Básico         Projeto Executivo
+
+          Regra geral             Não é exigido                           Administração elabora
+
+         Contratação
+                                  Não é exigido             Administração elabora      Contratado elabora
+        semi-integrada
+         Contratação              Administração
+                                                                           Contratado elabora
+          integrada                 elabora
+
+
+Agentes públicos que atuam em uma licitação
+                                                                                       INCIDÊNCIA EM PROVA: MÉDIA
+Neste tópico iremos nos debruçar sobre os principais agentes públicos envolvidos em uma
+licitação, ou seja, aquelas pessoas que efetivamente conduzem os procedimentos licitatórios e o
+“papel” exercido por cada um28.
+Disposições Gerais
+Antes de detalhar cada um dos agentes que atuam em uma contratação, vale destacar regras
+gerais relacionadas à sua designação.
+Para resguardar o profissionalismo na atuação destes agentes públicos, o artigo 7º da NLL prevê
+genericamente que:
+      ❑ caberá à autoridade máxima29 do órgão ou da entidade (ou a quem as normas de
+        organização administrativa indicarem) designar os responsáveis utilizando-se da gestão por
+        competências
+      ❑ em regra, os servidores a serem designados devem, preferencialmente, serem servidores
+        efetivos ou empregados públicos dos quadros permanentes da Administração Pública
+      ❑ estes servidores devem ter atribuições relacionadas a licitações e contratos ou possuírem
+        formação compatível ou qualificação atestada por certificação profissional emitida por
+        escola de governo criada e mantida pelo poder público
+
+28
+  Aqui iremos comentar a regra geral, muito embora exista regra de transição aplicável a municípios de
+até 20.000 habitantes (art. 176, I).
+29
+  Embora os arts. 6º, LV, e 8º prevejam a designação do agente de contratação pela “autoridade
+competente”.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                       45
+           www.estrategiaconcursos.com.br                                                                     195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+   ❑ não serem cônjuges/companheiros de licitantes ou contratados habituais da Administração,
+     nem terem com eles vínculo de parentesco, colateral ou por afinidade, até o 3º grau, ou de
+     natureza técnica, comercial, econômica, financeira, trabalhista e civil.
+Além do profissionalismo na atuação destes agentes, deve-se atender ao princípio da segregação
+de funções, de sorte que é vedada a designação do mesmo agente público para atuação
+simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação
+de erros e de ocorrência de fraudes na respectiva contratação (art. 7º, §1º).
+Todos estes requisitos aplicam-se, também, aos órgãos de assessoramento jurídico e de controle
+interno da Administração (art. 7º, §2º).
+
+                                         designados pela autoridade máxima
+
+                                      autoridade máxima promove gestão por
+                                                  competência
+
+                                                               preferencialmente, servidores efetivos ou empregados
+                                     vínculo
+                                                                             do quadro permanente
+
+
+                                                                 atribuições relacionadas ou formação compatível ou
+                                  qualificação
+ agentes públicos                                                    qualificação atestada por escola de governo
+  que atuam na
+    licitação
+                                                                  não ser cônjuge/companheiro
+
+                                                                                                     com licitante ou
+                                                                não ter parentesco de até 3º grau      contratado
+                                 impedimento
+                                                                                                        habitual
+                                                                  não possuir vínculo técnico,
+                                                                comercial, econômico, financeiro,
+                                                                       trabalhista ou civil
+
+                                 segregação de                 vedada a designação do mesmo agente para atuação
+                                    funções                       simultânea em funções mais suscetíveis a riscos
+
+
+“Atores” de uma licitação
+A condução da licitação pode ser assim sintetizada:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                           46
+        www.estrategiaconcursos.com.br                                                                        195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                                   regra geral                         agente de contratação
+
+                                                                                        pode ser substituído
+                                                             bens ou serviços
+      condução da                                                                        pela comissão de
+                                                               especiais
+        licitação                                                                           contratação
+
+                                                                 diálogo                deve ser substituído
+                                                               competitivo                pela comissão
+                                    exceções
+
+                                                                  pregão                       "pregoeiro"
+
+                                                                                         leiloeiro ou servidor
+                                                                   leilão
+                                                                                              designado
+
+
+Adiante iremos detalhar cada um destes papéis e vamos aproveitar para já comentar a atuação
+das “autoridades”, bem como das “Bancas”, responsáveis por atribuir notas às propostas técnicas.
+   ➢ Agente de Contratação
+Agente de contratação é aquele agente público que, em regra, conduz uma licitação. Para tanto,
+ele irá tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório
+e executar quaisquer outras atividades necessárias ao bom andamento do certame até sua
+homologação (art. 8º, caput).
+O agente de contratação deverá obrigatoriamente ser designado entre (i) servidores efetivos ou
+(ii) empregados públicos dos quadros permanentes da Administração Pública. Em outras palavras,
+o agente de contratação deverá necessariamente ser escolhido entre agentes públicos
+concursados. Portanto, diferentemente da regra geral do artigo 7º (em que tal escolha se dá em
+caráter preferencial), para o agente de contratação não se admite quem não seja concursado.
+O agente de contratação, no entanto, será auxiliado por uma equipe de apoio.
+E, se o agente praticar irregularidades, responderá individualmente pelos seus atos, salvo quando
+induzido a erro pela atuação da equipe.
+   ➢ Comissão de contratação
+Apesar de a regra geral ser a condução da licitação pelo “agente de contratação”, em algumas
+situações o legislador previu a atuação da “comissão de contratação”. A comissão consiste, então,
+no conjunto de agentes públicos indicados pela Administração, em caráter permanente ou
+especial, com a função de receber, examinar e julgar documentos relativos às licitações e aos
+procedimentos auxiliares (art. 6º, L).
+A comissão de contratação terá lugar em duas situações:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                             47
+        www.estrategiaconcursos.com.br                                                                           195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                                                               na modalidade diálogo
+                                                  obrigatória
+                                                                                    competitivo
+         comissão de
+         contratação
+                                                                              na contratação de bens ou
+                                                  facultativa                     serviços especiais
+                                                                              (modalidade concorrência)
+
+Em outras palavras, na nova modalidade licitatória, denominada “diálogo competitivo”, os
+procedimentos serão obrigatoriamente conduzidos pela comissão de contratação (art. 32, §1º, XI).
+Além disso, no diálogo competitivo, a comissão terá pelo menos 3 membros, sendo servidores
+efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração,
+admitida a contratação de profissionais para assessoramento técnico da comissão.
+Tratando-se, no entanto, da contratação de bens ou serviços especiais30, a substituição do agente
+de contratação pela comissão é facultativa (art. 8º, §2º). Neste caso, muito embora a lei tenha
+estabelecido o mínimo de 3 membros, não exigiu expressamente que fossem dos quadros
+permanentes, aplicando-se a regra geral do art. 7º, inciso I, no sentido de que seriam
+preferencialmente membros dos quadros permanentes.
+De toda forma, os membros da comissão responderão solidariamente por todos os atos praticados
+pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada
+e registrada em ata lavrada na reunião em que houver sido tomada a decisão (art. 8º, §2º).
+Além disso, se estivermos diante de licitação para bens e serviços especiais cujo objeto não seja
+rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado,
+serviço de empresa ou de profissional especializado para assessorar os agentes públicos
+responsáveis pela condução da licitação (art. 8º, §4º).
+
+
+      ➢ Pregoeiro
+Assim como já ocorria sob o regramento da Lei 10.520/2002, se a modalidade licitatória for
+pregão, o agente de contratação será designado pregoeiro (art. 8º, § 5º).
+      ➢ Leiloeiro
+Tratando-se de licitação na modalidade leilão, sua condução ficará a cargo de leiloeiro ou de
+servidor designado pela autoridade competente (art. 31, caput).
+
+30
+     Mais adiante veremos que, nestas situações, a modalidade licitatória adotada é a concorrência.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                   48
+           www.estrategiaconcursos.com.br                                                                 195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Caso a Administração opte por um leiloeiro, sua seleção deverá se dar mediante credenciamento
+ou licitação na modalidade pregão e adotar o critério de julgamento de maior desconto para as
+comissões a serem cobradas (art. 31, §1º).
+
+                                                                               Escolhido obrigatoriamente
+                                                                             entre (i) servidores efetivos ou
+                                                                              (ii) empregados públicos dos
+             Agente de                                                   »         quadros permanentes
+                                   »»             Regra geral
+            Contratação                                                  »
+                                                                              - responsabilidade: em regra,
+                                                                             individual; exceção: induzido a
+                                                                                erro pela equipe de apoio
+
+
+                                             Diálogo competitivo         »
+            Comissão de            »»                                          - regra: responsabilidade
+                                                (obrigatoriamente)       »
+            contratação                                                        solidária dos integrantes
+                                                                             - exceção: posição individual
+     (mínimo de 3 membros)                bens e serviços especiais      »   divergente registrada em ata
+                                   »»
+                                            (ou agente de contratação)   »
+
+
+             Pregoeiro             »»               Pregão
+
+             Leiloeiro             »»                Leilão
+       (ou servidor designado)
+
+Seguindo adiante, é importante comentarmos ainda o papel das “autoridades” e da “Banca” de
+avaliação técnica.
+   ➢ Autoridades
+Segundo a NLL, autoridade representa, genericamente, um “agente público dotado de poder de
+decisão” (art. 6º, VI). Ao longo do texto da lei, são mencionadas competências da (i) autoridade
+superior, (ii) autoridade competente e da (iii) autoridade máxima.
+A “autoridade superior” é aquela que detém prerrogativa para praticar atos como (art. 71 e art.
+165, §2º):
+   ❑ Adjudicar e homologar a licitação
+   ❑ Decidir recursos quanto a decisões proferidas no bojo do procedimento licitatório
+   ❑ Revogar ou anular o procedimento licitatório, se for o caso
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                            49
+        www.estrategiaconcursos.com.br                                                                          195
+
+                                        
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+      ❑ Determinar o retorno dos autos à instância devida para correção de irregularidades, se for
+        o caso
+A “autoridade competente”, a seu turno, possui diversas prerrogativas tanto no âmbito da seleção
+do fornecedor como durante a execução contratual, sendo competente para:
+      ❑ Designar os agentes de contratação (art. 8º, caput)
+      ❑ Autorizar a contratações diretas por dispensa ou inexigibilidade (art. 72, VIII)
+      ❑ Exigir garantia de proposta dos licitantes (art. 96), entre outras prerrogativas
+A “autoridade máxima”, de outro lado, detém prerrogativas como:
+      ❑ promover gestão por competências e observar o princípio da segregação de funções na
+        designação de agentes públicos para executar as funções essenciais da lei (art. 7º)
+      ❑ determinar a extinção contratual por razões de interesse público (art. 137, VIII)
+      ❑ aplicar a sanção de declaração de inidoneidade para licitar ou contratar (art. 156, §6º, I)
+
+Ainda que, na prática, alguns desses papeis possam ser exercidos pela mesma autoridade,
+percebam que a autoridade não conduz o procedimento licitatório, mas designa aqueles que o
+conduzem e, ao final, decide quanto ao seu desfecho.
+      ➢ Banca de avaliação das propostas técnicas (critérios de “melhor técnica”
+          ou   “técnica e preço”)
+Nas licitações em que se adotam os critérios de julgamento de “melhor técnica/conteúdo
+artístico” ou “técnica e preço”, é necessário que alguém faça também a avaliação da proposta
+técnica de cada licitante e, assim, atribua uma pontuação a cada proposta.
+Para desempenhar esta atribuição, o legislador previu a atuação de uma Banca, designada
+especialmente para essa avaliação técnica (art. 37, II), a qual também será composta por, no
+mínimo, 3 membros.
+Apesar da mesma quantidade de membros da comissão, notem que esta Banca não se confunde
+com a comissão ou com o agente de contratação, porquanto tem atribuição muito mais específica,
+limitada à avaliação da parte técnica das propostas (ao se utilizarem critérios de “melhor técnica”
+ou “técnica e preço”). Portanto, nas licitações de “melhor técnica” ou “técnica e preço” haverá a
+Banca (que irá atribuir a nota técnica) e também um agente de contratação/comissão (que irá
+conduzir o restante da licitação).
+Outra diferença é que esta Banca pode ser composta também por “não servidores”, ou seja, por
+profissionais contratados31 pela Administração, experts em determinado assunto (art. 37, §1º).
+
+31
+     Estes profissionais poderão ser contratados por dispensa de licitação (art. 75, XIII).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                               50
+           www.estrategiaconcursos.com.br                                                             195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Nesse sentido, vale destacar a existência de hipótese de dispensa de licitação específica para
+contratação destes profissionais (art. 74, XIII).
+
+Há, aqui, outra novidade da NLL, que busca proteger os agentes públicos que atuarem na licitação
+e estimular que atuem em estrita observância à orientação dos órgãos jurídicos.
+Se, futuramente, o agente público que atuou na licitação estiver sendo investigado ou acusado de
+praticar alguma irregularidade e, assim, precisar se defender judicial ou administrativamente, caso
+ele tenha seguido a orientação constante do parecer jurídico, em regra os advogados públicos
+poderão promovam sua defesa, ou seja, sem ônus para o servidor investigado (art. 10). Tal
+benefício aplica-se mesmo se o agente público já houver deixado o cargo que exercia à época da
+licitação (art. 10, §2º).
+Tal regra, no entanto, não se aplica quando houver provas da prática de atos ilícitos dolosos nos
+autos do processo administrativo ou judicial (art. 10, §1º, II).
+
+
+                                                                 promovida por advogados públicos
+                                  regra
+                                (seguindo                         mesmo se já tiver deixado o cargo
+     defesa de               parecer jurídico)
+   autoridades e                                                        judicial ou extrajudicial
+    servidores
+                                                                       prova de atos dolosos
+                                 exceções
+                                                            ato praticado sem observar parecer jurídico
+
+Outras definições importantes
+                                                                                       INCIDÊNCIA EM PROVA: MÉDIA
+Neste tópico, iremos comentar outras definições que irão facilitar a compreensão das novas regras
+legais.
+   ➢ Portal Nacional de Contratações Públicas (PNCP)
+O Portal Nacional de Contratações Públicas (PNCP) é outra novidade da Lei 14.133 e, apesar de
+sua definição não constar do art. 6º, vale já destacarmos seus contornos.
+Este Portal consiste, em síntese, em um grande repositório de dados de licitações e contratos na
+internet. Como se verá no decorrer da aula, este Portal é essencial para execução dos principais
+procedimentos previstos na NLL.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                          51
+        www.estrategiaconcursos.com.br                                                                        195
+
+                                      
+
+
+---
+
+   Antonio Daud
+   Aula 09
+
+Ele destina-se à divulgação centralizada e obrigatória dos atos exigidos por esta Lei e,
+facultativamente, permitirá a realização das próprias contratações pelos órgãos e entidades de
+todos os poderes e todas as esferas (art. 174, caput) 32.
+Para tanto, ele conterá informações como (art. 174, §2º):
+
+          editais de                                     avisos de                planos de          catálogos
+                                contratos e
+          licitação e                                   contratação              contratação       eletrônicos de
+                              termos aditivos
+            anexos                                        direta                    anuais         padronização
+
+                                 editais de
+                              credenciamento                                     notas fiscais
+                                                      atas de registro
+                                                                                 eletrônicas
+                                  e de pré-              de preços
+                                                                             (quando for o caso)
+                                qualificação
+
+Em termos de funcionalidades deste Portal, ele deverá oferecer um sistema eletrônico para a
+realização das sessões públicas das licitações, viabilizar um cadastro unificado dos licitantes, conter
+um painel para consulta de preços, entre outras (art. 174, §3º).
+O Portal será gerido por um comitê de 7 membros, presidido por um representante indicado pelo
+Presidente da República e composto por representantes da União (ao todo 3 membros 33), de
+Estados/DF (ao todo 2 membros34) e de municípios (2 membros35 - art. 174, §1º).
+Por fim, vale destacar que, além da divulgação no PNCP (obrigatória), os entes federativos,
+facultativamente, poderão instituir sítio eletrônico oficial para divulgação complementar e
+realização das respectivas contratações (art. 175).
+                                         Repositório de dados de licitações e
+                                                      contratos
+                                                                  Centralizado
+                                        Características
+                                                                    Nacional
+                                                                    editais de licitação e anexos
+          Portal Nacional de
+            Contratações                                             contratos e termos aditivos
+               Públicas                    Principais               avisos de contratação direta
+                                         informações
+                                                                   planos de contratação anuais
+                                                                     atas de registro de preços
+                                                                     Comitê, com 7 representantes
+                                             gestão
+                                                                                   (3U, 2E, 2M)
+
+32 A exceção fica por conta dos municípios com até 20.000 habitantes, que terão 6 anos para se adequar à     divulgação
+em sítio eletrônico oficial (art. 176, III).
+33
+    indicados pelo Presidente da República.
+34 indicados pelo Conselho Nacional de Secretários de Estado da Administração.
+35 indicados pela Confederação Nacional de Municípios.
+
+         Receita Federal (Analista Tributário) Direito Administrativo                                               52
+         www.estrategiaconcursos.com.br                                                                             195
+
+                                        
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+      ➢ Grande vulto
+O legislador definiu expressamente que serviços, obras e fornecimentos de grande vulto são
+aqueles cujo valor estimado supera R$ 200 milhões (art. 6º, XXII). A propósito, para o ano de 2025,
+este valor foi atualizado para R$ 250.902.323,87 pelo Decreto 12.343/2024.
+Como veremos adiante, para estes contratos de grande vulto, a lei prevê uma série de controles
+adicionais, dos quais destaco desde logo os seguintes:
+      ❑ obrigatoriedade de a empresa contratada implantar um programa de integridade36 (art. 25,
+          §4º)
+
+      ❑ obrigatoriedade da criação de uma matriz de alocação de riscos, no caso de obras e serviços
+        de grande vulto (art. 22, §3º)
+      ❑ possibilidade de ampliação do seguro-garantia para até 30% do valor do contrato, no caso
+        de obras e serviços de engenharia de grande vulto (art. 99)
+Em síntese:
+
+                                    R$ 200 milhões
+
+
+                                                                                           contratada implantar um
+     Grande vulto                                                                          programa de integridade
+                                                            obrigatoriedade
+                                                                  de:
+                                                                                          matriz de alocação de riscos
+                               Consequências                                                   (obras e serviços)
+
+                                                                                            seguro-garantia para até
+                                                            Possibilidade de:                  30% (obras e serv.
+                                                                                                  engenharia)
+
+      ➢ Matriz de riscos
+Ressaltando a grande preocupação do legislador com a gestão de riscos, o texto da lei previu a
+matriz de riscos, com força de contrato.
+A matriz de risco37 consiste, basicamente, em um documento que busca, de maneira expressa,
+dividir as responsabilidades entre a Administração e a empresa contratada, no caso de ocorrer um
+evento adverso. Este documento tem força de contrato, passando a constituir um importante
+instrumento da gestão contratual.
+
+36 Em síntese, os programas de integridade (ou de compliance) representam trabalhos preventivos de prevenção a atos de corrupção
+
+que as empresas contratadas, neste caso, deverão criar internamente.
+37
+   Para quem desejar se aprofundar no assunto, sugiro a leitura dos Acórdãos do TCU 1.510/2013 e
+2.622/2013, ambos do Plenário.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                                     53
+           www.estrategiaconcursos.com.br                                                                                   195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+     Imagine que, durante a execução de obra, descobriu-se que há um erro no projeto. Quem
+     responde por este erro? Os custos extras são arcados somente pela Administração? Somente
+     pela empresa? Por ambos?
+
+Assim, nas palavras do legislador, matriz de risco é a “cláusula contratual definidora de riscos e de
+responsabilidades” entre as partes que celebraram o contrato e “caracterizadora do equilíbrio
+econômico-financeiro inicial do contrato”, em termos de ônus financeiro decorrente de eventos
+supervenientes à contratação (art. 6º, XVII; art. 103).
+
+        Entendi! Mas toda licitação deve conter uma matriz de riscos?
+
+A resposta é não!
+Em regra, é facultativa a previsão em edital da matriz de risco.
+No entanto, como adiantado acima, ela se torna obrigatória tratando-se de contratos de grande
+vulto (R$ 200 milhões), bem como nos regimes de contratação integrada e semi-integrada (art. 22,
+§3º).
+Em qualquer caso, sendo prevista em edital, a matriz deverá conter (art. 6º, XVII):
+      a) listagem de possíveis eventos supervenientes à assinatura do contrato que possam causar
+impacto em seu equilíbrio econômico-financeiro e previsão de eventual necessidade de prolação
+de termo aditivo por ocasião de sua ocorrência;
+      b) no caso de obrigações de resultado, estabelecimento das frações do objeto com relação
+às quais haverá liberdade para os contratados inovarem em soluções metodológicas ou
+tecnológicas, em termos de modificação das soluções previamente delineadas no anteprojeto ou
+no projeto básico;
+       c) no caso de obrigações de meio, estabelecimento preciso das frações do objeto com
+relação às quais não haverá liberdade para os contratados inovarem em soluções metodológicas
+ou tecnológicas, devendo haver obrigação de aderência entre a execução e a solução predefinida
+no anteprojeto ou no projeto básico, consideradas as características do regime de execução no
+caso de obras e serviços de engenharia;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              54
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+A respeito da distinção entre “obrigações de meio” e “obrigações de resultado”, inicialmente vale
+pontuar – socorrendo-me das lições do Direito Civil38 –, destaco que a obrigação de resultado é
+“aquela em que o credor tem o direito de exigir do devedor a produção de um resultado”, ao
+passo que a obrigação de meio é “aquela em que o devedor se obriga tão-somente a usar de
+prudência e diligência normais na prestação de certo serviço para atingir um resultado, sem,
+contudo, se vincular a obtê-lo”.
+Nesse sentido, nas obrigações de resultado, o contratado terá mais liberdade para inovar, a fim
+de alcançar a melhor forma de executar aquela parcela do objeto contratado, ainda que a inovação
+represente uma modificação do projeto. De outro lado, em relação às obrigações de meio, não
+haverá tal liberdade, razão pela qual na respectiva matriz de risco o foco é assegurar que a
+execução siga fielmente o projeto.
+
+                                                                          divisão de responsabilidades
+
+                                                                     equilíbrio econômico-financeiro
+                                        características
+                                                                                   inicial
+
+                                       regra: facultativa                 força de cláusula contratual
+
+                                                                     obras e serviços de grande vulto
+                    matriz de                                                       (200 mi)
+                     riscos             obrigatória se:                     contratação integrada
+
+                                                                                semi-integrada
+
+                                                                   de meio: sem liberdade para inovar
+                                          obrigações
+                                                                    de resultado: com liberdade para
+                                                                                  inovar
+
+
+      ➢ Consulta Pública e Audiência Pública
+Apesar de não constarem do art. 6º da NLL, é oportuno já comentarmos os conceitos de “consulta
+pública” e “audiência pública”, os quais, facultativamente, podem ser utilizados pela
+Administração dentro da fase preparatória da licitação.
+Ambas são mecanismos de participação social, sendo que a audiência consiste em um momento
+específico (em geral um “evento”), no qual os interessados se reúnem, presencial ou
+
+38
+     DINIZ, Maria Helena. Curso de Direito Civil Brasileiro. 22ª edição, p. 193-194
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                  55
+           www.estrategiaconcursos.com.br                                                                195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+eletronicamente, para debater uma determinada contratação. Já na consulta, em geral a
+Administração posta um documento e abre um prazo para oferecimento de críticas.
+Pela Lei 14.133, a audiência e a consulta públicas são facultativas, em qualquer caso.
+Segundo o art. 21 da Lei 14.133, caso decida utilizar se socorrer de uma audiência pública, a
+Administração convocaria, com antecedência mínima de 8 dias úteis, disponibilizando previamente
+informações pertinentes sobre a contratação, inclusive de estudo técnico preliminar e elementos
+do edital de licitação, e com possibilidade de manifestação de todos os interessados.
+
+MODALIDADES DE LICITAÇÃO
+
+                                 incidência deste assunto em
+                                            prova:
+
+
+A contratação por meio de uma licitação demandará, obrigatoriamente, a opção por uma das
+seguintes modalidades (art. 28):
+
+                 Modalidades
+
+                 • pregão
+                 • concorrência
+                 • concurso
+                 • leilão
+                 • diálogo competitivo
+
+Passemos ao detalhamento de cada uma das cinco modalidades licitatórias da NLL.
+
+Pregão
+                                                                           INCIDÊNCIA EM PROVA: ALTA
+O pregão, antes regido pela Lei 10.520/2002, passou a constar da NLL, prevendo-se que é a
+“modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de
+julgamento poderá ser o de menor preço ou o de maior desconto” (art. 6º, XLI).
+Natureza comum
+O pregão consiste em modalidade de licitação destinada à aquisição de bens e serviços
+considerados comuns. Ou seja, a utilização do pregão está relacionada à natureza do objeto ser
+ou não comum, sendo irrelevante o valor da contratação (como em todas as modalidades
+licitatórias).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             56
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Já sabemos que serão considerados comuns aqueles objetos cujos padrões de desempenho e
+qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no
+mercado (NLL, art. 29, parte final; art. 6º, XIII).
+Friso que, em contraponto aos comuns, temos os bens e serviços especiais, como sendo aqueles
+que, por sua alta heterogeneidade ou complexidade, não podem ser descritos objetivamente no
+edital como os comuns (art. 6º, XIV), sendo inviável a adoção do pregão.
+Obrigatoriedade de adoção do pregão para objetos comuns
+Reforçando! Com a NLL, o pregão tornou-se a ser modalidade obrigatória para licitação de objetos
+comuns. A única exceção a esta regra diz respeito aos serviços de engenharia comuns, cuja adoção
+é facultativa (como adiantado anteriormente). Neste caso, muito embora sejam considerados
+“serviços comuns”, o legislador entendeu que, em razão das particularidades inerentes às
+atividades de engenharia (como sua menor comoditização), o gestor deveria ter liberdade para
+deixar de adotar o pregão, se assim desejasse (art. 29, parágrafo único). Assim, para os serviços
+de engenharia comuns, é possível a adoção da modalidade pregão ou concorrência, a critério da
+Administração.
+Inviabilidade de adoção do pregão
+Apesar de ser uma das modalidades licitatórias mais utilizadas atualmente, o pregão não é uma
+“bala de prata”. Há situações em que será inviável sua adoção.
+Assim, além dos bens e serviços especiais, o pregão não pode ser adotado quando o objeto for
+(art. 29, parágrafo único):
+
+      ❑ Serviços técnicos especializados de natureza predominantemente intelectual
+      ❑ Obras
+      ❑ Serviços de engenharia, exceto se forem comuns (como destacado acima)
+      ❑ Alienações39
+Critério de julgamento de um pregão
+Uma característica importante do pregão é que o critério de julgamento seja o menor preço ou o
+maior desconto.
+Condução do pregão
+O pregão será conduzido por um agente designado pregoeiro (art. 8º, §5º).
+----
+
+39
+  Apesar de não estar expresso na Lei 14.133/2021, trata-se de dedução lógica da adoção do leilão para
+as alienações.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                            57
+           www.estrategiaconcursos.com.br                                                          195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Por fim, vale destacar a possibilidade de utilização do pregão para a formação de um registro de
+preços (art. 6º, XLV) e, em relação a seu procedimento, a lei prevê que o pregão seguirá o rito
+procedimental comum, detalhado mais à frente neste curso (art. 29, caput).
+
+Concorrência
+                                                                             INCIDÊNCIA EM PROVA: ALTA
+A NLL traz pouco detalhamento a respeito da concorrência, limitando-se a dizer que será a regra
+geral para se licitarem (i) bens e serviços especiais, (ii) obras e (iii) serviços de engenharia, sejam
+comuns ou especiais – art. 6º, XXXVIII.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                58
+        www.estrategiaconcursos.com.br                                                              195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Note que a concorrência será adotada independentemente do valor da contratação, pois sua
+utilização depende apenas da natureza do objeto: (i) objetos especiais, (ii) obras e (iii) serviços de
+engenharia.
+Em relação aos serviços de engenharia, vale frisar que a concorrência será obrigatória para os
+serviços de engenharia especiais e, facultativa, para os comuns:
+
+                                                comuns                 concorrência ou pregão
+                      serviços de
+                      engenharia
+                                               especiais                   concorrência
+
+Critérios de julgamento em uma concorrência
+Em relação aos critérios de julgamento, notem que, diferentemente do pregão (em que se admite
+apenas a adoção do “menor preço” e do “maior desconto”), na concorrência é viável a adoção
+de todos os critérios de julgamento previstos na NLL, à exceção do “maior lance” (que é exclusivo
+do leilão). Em síntese, na concorrência é viável a adoção dos critérios:
+
+                                                    concorrência
+
+            menor           maior               melhor técnica ou            técnica e       maior retorno
+            preço          desconto            conteúdo artístico              preço          econômico
+
+Condução da concorrência
+Diferentemente do que ocorre no pregão, a concorrência será conduzida pelo agente de
+contratação, como regra geral, auxiliado por uma equipe de apoio.
+Tratando-se, no entanto, da contratação de bens ou serviços especiais, a lei faculta a substituição
+do agente de contratação por uma comissão com no mínimo 3 membros (art. 8º, §2º).
+
+                            Aqui o concurseiro já começa a imaginar as questões de prova cobrando as
+                            diferenças entre “concorrência” e “pregão” =)
+
+                    concorrência                                                    pregão
+
+       - bens e serviços especiais
+       - obras                                                               bens e serviços comuns
+       - serv. de engenharia, comuns e especiais
+          critérios: menor preço, maior
+        desconto, melhor técnica/conteúdo                                 critérios: menor preço ou maior
+            artístico, técnica e preço e                                              desconto
+            maior retorno econômico
+                                                                                    pregoeiro
+        agente de contratação ou comissão
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                         59
+        www.estrategiaconcursos.com.br                                                                       195
+
+                                      
+
+
+---
+
+      Antonio Daud
+      Aula 09
+
+Por fim, em relação às semelhanças com o pregão, vale destacar a possibilidade de utilização da
+concorrência para a formação de um registro de preços (art. 6º, XLV) e o fato de que a concorrência
+também seguirá o rito procedimental comum, detalhado mais à frente neste curso (art. 29, caput).
+
+Diálogo competitivo
+                                                                                                           INCIDÊNCIA EM PROVA: ALTA
+O diálogo competitivo é, na verdade, a grande novidade da NLL em termos de modalidade
+licitatória.
+Sua criação, inspirada na legislação estrangeira40, representa uma resposta do legislador às
+dificuldades da Administração Pública de contratar objetos muito complexos e inovadores. São
+situações em que, dada a elevada complexidade, a Administração tem dificuldades até mesmo de
+definir sozinha o que deveria contratar.
+
+40
+     Utilizado na União Europeia desde 2004 (vide “Diálogo Concorrencial” na atual Diretiva 2014/24 EU).
+
+              Receita Federal (Analista Tributário) Direito Administrativo                                                       60
+              www.estrategiaconcursos.com.br                                                                                    195
+
+                                                
+
+
+---
+
+      Antonio Daud
+      Aula 09
+
+Por meio do diálogo competitivo, a Administração pode conhecer mais a respeito das alternativas
+existentes no mercado e, após definir o tipo de solução a ser adotado com o auxílio da iniciativa
+privada, aí sim, em um segundo momento, realiza uma competição entre os licitantes. Em outras
+palavras, esta modalidade destina-se a situações em que a Administração conhece bem o
+“problema” que precisa endereçar, mas se utilizará da expertise do mercado para conceber a
+melhor “solução”.
+Nesse sentido, ganha destaque lição doutrinária 41 no sentido de que o diálogo competitivo é
+modalidade ”voltada para solucionar problemas ligados à definição do que contratar”.
+Muitas vezes, também, a tecnologia necessária para solucionar o problema da Administração é de
+domínio restrito de um ou outro fornecedor, sendo que o diálogo competitivo permitiria a
+Administração conhecer o “estado da arte” daquele objeto e, futuramente, obter algo que lhe
+atenda melhor. Ou seja, estamos diante de situações em que a Administração conhece suas
+necessidades, mas não sabe a melhor forma de atendê-las, surgindo um procedimento com duas
+fases bem distintas:
+
+
+                         • diálogos com fornecedores (p/ definir a solução a ser contratada)
+           1ª fase
+
+                         • competição entre os licitantes (p/ definir o vencedor da licitação)
+           2º fase
+
+Então, antes de descrever no edital o que deseja contratar, a Administração chama players do
+mercado para um diálogo, individualizado com cada um deles, a fim de que possa saber o melhor
+produto, a melhor solução, aquilo que seria capaz de atender aquelas necessidades do modo mais
+customizado possível. Somente após tal aprofundamento, é definido o objeto a ser licitado e,
+assim, passa-se à fase competitiva da licitação.
+Assim, o legislador definiu o diálogo competitivo como sendo:
+              Art. 6º, XLII – diálogo competitivo: modalidade de licitação para contratação de obras,
+              serviços e compras em que a Administração Pública realiza diálogos com licitantes
+              previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma
+              ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes
+              apresentar proposta final após o encerramento dos diálogos;
+
+41
+     Segundo Mark Kirkby, citado por Rafael Sérgio Lima de Oliveira, in O Diálogo Competitivo do Projeto de Lei de Licitação e Contrato Brasileiro.
+
+              Receita Federal (Analista Tributário) Direito Administrativo                                                                            61
+              www.estrategiaconcursos.com.br                                                                                                          195
+
+                                                 
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Procedimento
+O diálogo competitivo possui procedimento próprio (diferente do rito comum da concorrência e
+do pregão), a seguir sintetizado:
+
+                                                  fase de diálogo
+
+             instauração da                        edital de pré-          diálogos com os
+                 com. de                              seleção                interessados
+               contratação
+
+                                                                            indicação da
+                                                                            solução a ser
+                                                                             contratada
+
+            seleção da proposta                      propostas dos          edital da fase
+               mais vantajosa                          licitantes            competitiva
+
+
+                                                   fase competitiva
+
+A partir do diagrama, vale frisar que a primeira fase do diálogo tem como finalidade “desenvolver
+uma ou mais alternativas capazes de atender às necessidades” da Administração, fazendo-se a
+chamada “pré-seleção” para selecionar aqueles com os quais a Administração irá dialogar.
+Já a fase competitiva, que tem lugar após desenvolvida/escolhida a alternativa, visa à obtenção
+de propostas de empresas para efetivamente fornecerem a alternativa escolhida. Vejam que o
+contrato será assinado com aquele licitante que for vitorioso na fase competitiva.
+   ➢ Editais do diálogo competitivo
+No diálogo competitivo teremos dois editais, sendo um para cada fase. Na fase do diálogo, o
+edital deverá conter critérios objetivos empregados para pré-seleção dos licitantes (edital da pré-
+seleção). Para a fase competitiva, será divulgado novo edital, que irá fixar critérios para a seleção
+da proposta vencedora.
+O edital de pré-seleção deve estabelecer prazo mínimo de 25 dias úteis para que os interessados
+manifestem interesse em participar do diálogo (art. 32, §1º, I). Por outro lado, o edital da fase
+competitiva deve prever prazo mínimo de 60 dias úteis para apresentação das propostas.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              62
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                                                critérios empregados
+                 Edital da pré-
+                                        »»      para pré-seleção dos       »»   25 dias úteis
+                    seleção
+                                                       licitantes
+
+
+                 Edital da fase                critérios para a seleção
+                                        »»                                 »»   60 dias úteis
+                  competitiva                  da proposta vencedora
+
+
+   ➢ Comissão de contratação
+Como a Administração acaba possuindo maior discricionariedade na etapa de diálogo, é natural
+existirem controles mais rigorosos a fim de coibir desvios por parte dos servidores que irão
+conduzir o diálogo competitivo.
+Nesse sentido, prevê o Estatuto que o diálogo competitivo será conduzido por comissão de
+contratação composta de pelo menos 3 servidores efetivos ou empregados públicos pertencentes
+aos quadros permanentes da Administração, admitida a contratação de profissionais para
+assessoramento técnico da comissão (art. 32, §1º, XI).
+Caso a Administração opte por contratar profissionais “de fora” para assessoramento técnico,
+estes assinarão termo de confidencialidade e abster-se-ão de atividades que possam configurar
+conflito de interesses (art. 32, §2º).
+Outro controle previsto no Estatuto dispõe que as reuniões com os licitantes durante a pré-
+seleção, embora reservadas, serão registradas em ata e gravadas mediante utilização de recursos
+tecnológicos de áudio e vídeo. Estes registros serão obrigatoriamente juntados aos autos do
+processo licitatório logo no início da fase competitiva.
+   ➢ Diálogos com os interessados
+Esta é a etapa mais marcante desta modalidade: o diálogo com potenciais fornecedores a fim de
+se conceber, juntamente com o mercado, a melhor alternativa que atenda aos anseios da
+Administração. O objetivo aqui, portanto, é identificar a melhor solução para o problema
+apontado pela Administração.
+O diálogo com os interessados deverá ser realizado, pela Administração, de forma individualizada
+com cada player, de modo a não expor as soluções de uma empresa perante seus concorrentes.
+Isto porque a Administração não poderá revelar a outros licitantes as soluções propostas ou as
+informações sigilosas comunicadas por um licitante sem o seu consentimento (art. 32, §1º, IV).
+O edital de pré-seleção poderá prever, ainda, a realização de fases sucessivas, caso em que cada
+fase poderá restringir as soluções ou as propostas a serem discutidas, sendo que a fase de diálogo
+poderá ser mantida até que a Administração, em decisão fundamentada, identifique a solução ou
+as soluções que atendam às suas necessidades.
+Detalhe importante é que serão admitidos aos diálogos todos os interessados que preencherem
+os requisitos objetivos estabelecidos no edital de pré-seleção (art. 32, §1º, II).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            63
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+   ➢ Fase competitiva
+Aqui o objetivo já não é mais identificar a melhor solução. O objetivo desta segunda fase é
+selecionar a empresa a ser contratada para efetivamente entregar a solução escolhida.
+É importante destacar que somente participam da fase competitiva os licitantes que foram pré-
+selecionados para participar da etapa de diálogos (art. 32, §1º, VIII, parte final).
+Em relação aos critérios de julgamento passíveis de serem adotados no diálogo, vale destacar que
+a Lei foi silente a este respeito, o que indicaria a possibilidade de utilização de quaisquer dos
+critérios de julgamento previstos no art. 33 da NLL.
+Hipóteses
+Seguindo adiante, após termos compreendido a lógica e o procedimento desta modalidade,
+registro que o diálogo competitivo aplica-se às compras, obras e serviços desde que atendam às
+seguintes condições (art. 32, caput):
+
+
+                                                                              inovação tecnológica ou técnica
+
+                                                                            impossibilidade de o órgão ter sua
+                                                                               necessidade satisfeita sem a
+                                 objeto que envolva as seguintes
+                                                                           adaptação de soluções disponíveis no
+                                           condições:
+                                                                                         mercado
+
+                                                                            impossibilidade de a Administração
+                                                                           definir as especificações com precisão
+ hipóteses - diálogo
+    competitivo                                                               solução técnica mais adequada
+                                     necessidade de definir e
+                                   identificar as alternativas que         requisitos técnicos aptos a concretizar
+                                      possam satisfazer suas                        a solução já definida
+                                   necessidades, com destaque
+                                    para os seguintes aspectos:
+                                                                             estrutura jurídica ou financeira do
+                                                                                          contrato
+
+
+Além destes casos, vale ressaltar que, a partir da edição da NLL, o diálogo competitivo passa a
+poder ser utilizado também para contratação de concessionárias de serviço público.
+Vale destacar, ainda, que foram vetados os dispositivos do projeto de lei que previam atribuições
+específicas dos órgãos de controle externo para monitorar os diálogos competitivos (art. 32, §1º,
+XII).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        64
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Por fim, destaco a existência da modalidade licitatória prevista na LC 182, de junho de 2021 (que
+instituiu o marco legal das startups), que também destina-se à contratação de soluções
+inovadoras42.
+
+Concurso
+                                                                                INCIDÊNCIA EM PROVA: ALTA
+Primeiramente, saliento que aqui não estamos nos referindo ao “concurso público” para seleção
+de pessoal para os quadros da Administração Pública, mas de uma modalidade de licitação, a qual
+se destina à celebração de contratos administrativos com o licitante vencedor.
+Dito isto, a NLL define o concurso como sendo a modalidade de licitação para escolha de trabalho
+técnico, científico ou artístico (ou seja, “trabalho T-C-A”) e para a concessão de prêmios ou
+remuneração aos vencedores, cujo critério de julgamento será o de melhor técnica ou conteúdo
+artístico (art. 6º, XXXIX).
+
+        Exemplo: imagine que determinado órgão público pretenda adotar um novo logotipo, para
+        reformular sua imagem institucional perante a sociedade. Como não possui nenhum “artista” em
+        seus quadros, pretende contratar, por meio de licitação, um particular para criação deste
+
+42
+  A título de aprofundamento, destaco que, na modalidade licitatória especial da LC 182, a Administração
+indicará o problema a ser solucionado, sendo que seu edital não necessita obrigatoriamente de divulgação
+no Portal Nacional e sua condução é realizada por uma comissão especial com no mínimo 3 pessoas.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                65
+           www.estrategiaconcursos.com.br                                                              195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+     logotipo. Como trata-se de um trabalho artístico, teria lugar a realização de um concurso, em que
+     vários profissionais iriam competir entre si para a criação do “melhor” logotipo.
+
+Dois detalhes importantes aqui:
+
+        1) O critério de seleção do fornecedor deverá ser a melhor técnica ou conteúdo
+        artístico.
+        2) A antecedência mínima do edital é de 35 dias úteis.
+
+Seguindo adiante, como o concurso sujeita-se a um procedimento especial, seu edital deverá
+indicará (art. 30): I – a qualificação exigida dos participantes; II – as diretrizes e formas de
+apresentação do trabalho; e III – as condições de realização e o prêmio ou remuneração a ser
+concedida ao vencedor.
+Além disso, nos concursos destinados à elaboração de projeto, o vencedor deverá ceder à
+Administração Pública todos os direitos patrimoniais relativos ao projeto e autorizar sua execução
+conforme juízo de conveniência e oportunidade das autoridades competentes. Nesse sentido, o
+art. 93 da NLL reforça que o uso futuro do projeto pela Administração é livre e não depende de
+nova autorização de seu autor.
+Em outras palavras, muito embora o autor do projeto seja um particular, ele não mais terá direito
+a receber royalties ou outras remunerações pela sua invenção, pois ela foi cedida à Administração.
+Além disso, o período de antecedência mínima entre a data da divulgação do edital e a data de
+apresentação das propostas/lances é de 35 dias úteis (art. 55, IV).
+
+Leilão
+                                                                                 INCIDÊNCIA EM PROVA: ALTA
+Leilão consiste na modalidade de licitação para a alienação de bens, sejam eles imóveis ou móveis,
+a quem oferecer o maior lance.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                     66
+        www.estrategiaconcursos.com.br                                                                   195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Antes de avançar, fica aqui um alerta!
+        A definição legal de leilão (que consta do art. 6º, inciso XL, da Lei 14.133) menciona
+        sua utilização apenas para venda de bens imóveis ou móveis inservíveis ou
+        legalmente apreendidos, dando uma falsa impressão de que não seria utilizado
+        em outras situações.
+        Apesar dessa definição, a partir da leitura dos incisos I e II do art. 76, observamos
+        que, na NLL, na verdade o leilão poderá ser utilizado para quaisquer alienações
+        de bens móveis ou imóveis (sem as restrições que constavam da Lei 8.666),
+        consistindo na modalidade licitatória adotada para alienações em geral.
+        De toda forma, em um concurso público, precisamos ficar atentos à questão. Pode
+        ser que, a despeito da mudança promovida pela NLL, implícita na lei, o
+        examinador esteja apenas transcrevendo a literalidade do art. 6º, inciso XL, quanto
+        à utilização do leilão para alienação de “de bens imóveis ou móveis inservíveis ou
+        legalmente apreendidos”.
+
+Seguindo adiante, a condução do leilão é confiada a (i) leiloeiro oficial ou (ii) a servidor designado
+pela Administração (art. 31, caput). No caso de leiloeiro, a Administração deverá selecioná-lo por
+meio de credenciamento ou licitação na modalidade pregão, adotando o critério de julgamento
+de maior desconto para as comissões a serem cobradas (art. 31, §1º).
+
+        Em termos de procedimento, o leilão sujeita-se a procedimento especial, havendo
+        particularidades que o distinguem do rito comum da NLL, a saber (art. 31, §4º):
+            - não possui fase de habilitação
+            - não exige registro cadastral prévio
+            - deve ser homologado assim que concluída a fase de lances
+
+        Notem que tais diferenças buscam facilitar e ampliar a participação de pessoas
+        interessadas em adquirir bens da Administração.
+
+Além disso, o período de antecedência mínima entre a data da divulgação do edital e a data de
+apresentação das propostas/lances é de 15 dias úteis (art. 55, III).
+Lembro que a alienação de bens públicos deve ser precedida de prévia avaliação (art. 76, caput),
+de modo a estimar o valor de mercado do bem a ser leiloado. Tal avaliação irá subsidiar a definição
+do preço mínimo da alienação, a ser previsto em edital (art. 31, § 2º, II).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                               67
+        www.estrategiaconcursos.com.br                                                             195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Vale destacar que, no caso do leilão, além da divulgação no sítio eletrônico oficial, o edital do
+leilão será afixado em local de ampla circulação de pessoas na sede da Administração e poderá,
+ainda, ser divulgado por outros meios necessários para ampliar a publicidade e a competitividade
+da licitação (art. 31, §3º). A ideia aqui é maximizar a visibilidade do leilão e, assim, potencializar o
+número de interessados em adquirir os bens da Administração.
+Por fim, o edital do leilão deverá indicar eventuais pendências ou ônus do bem que está sendo
+leiloado, de modo que o próprio licitante não tenha que pesquisar tais restrições do bem.
+
+Esquematizando, abaixo, as principais modalidades estudadas, chegamos ao seguinte diagrama:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                  68
+        www.estrategiaconcursos.com.br                                                               195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                  Concorrência                                                        Pregão
+ •bens e serviços especiais                                        •obrigatório p/ bens e serviços comuns
+ •obras                                                            •facultativo p/ serviços de engenharia comuns
+ •serviços de engenharia especiais (obrigatória) e                 •inviável p/ serv. tec. especializados, obras,
+  comuns (facultativa)                                              objetos especiais e serv. engenharia especiais
+ •todos os critérios, exceto maior lance                           •critérios "menor preço" ou "maior desconto"
+ • procedimento comum                                              •procedimento comum
+ •agente de contratação ou comissão (facultativo)                  •pregoeiro
+
+            Diálogo competitivo                                                      Concurso
+ •inovação / adaptação de soluções                                 •escolha de trabalho técnico, científico ou
+ •edital de pré-seleção (25 dias úteis): reuniões                   artístico (TCA)
+  reservadas                                                       • vencedor recebe prêmio/remuneração
+ •edital da fase competitiva (60 dias úteis)                       •critério: melhor técnica ou conteúdo artístico
+ •somente participam da fase competitiva                           •antecedência mínima: 35 dias úteis
+  licitantes pré-selecionados
+ •comissão de 3 servidores/empregados perman.
+
+                                                         Leilão
+                                 •alienação de bens
+                                 •leiloeiro oficial ou servidor designado
+                                 •critério: maior lance
+                                 •procedimento: sem habilitação; sem registro
+                                  cadastral prévio
+                                 •afixação do edital na sede da Admin.
+                                 •antecedência mínima: 15 dias úteis
+
+Adoção de uma Modalidade Licitatória
+                                                                                   INCIDÊNCIA EM PROVA: BAIXÍSSIMA
+Sabemos que, uma vez escolhida a modalidade, restará definido o procedimento de seleção do
+fornecedor daquela licitação exigido por lei. Mas aqui temos uma grande novidade da NLL!
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                            69
+        www.estrategiaconcursos.com.br                                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Sob a égide da Lei 8.666, o valor da licitação, em muitos casos, era decisivo na
+        definição da modalidade licitatória a ser adotada. Para as provas de concurso
+        público, tínhamos que decorar aqueles limites de valor que autorizavam a adoção
+        do convite, tomada de preços e da concorrência.
+        A boa notícia é que, na nova lei, com a extinção do convite e da tomada de preços,
+        o valor da licitação é irrelevante para se decidir qual modalidade deve ser adotada.
+        Isto porque a modalidade passa a ser determinada sempre pela natureza do
+        objeto licitado (não mais pelo valor).
+
+A partir da sistematização daquilo que comentamos acima sobre as modalidades licitatórias,
+podemos traçar a seguinte correlação entre objetos e modalidades licitatórias:
+
+                         obras                     • concorrência
+
+                                                   • especiais: concorrência
+              serviços de engenharia
+                                                   • comuns: pregão ou concorrência
+                                                   • especiais: concorrência
+                 serviços em geral
+                                                   • comuns: pregão
+                                                   • bens especiais: concorrência
+                       compras
+                                                   • bens comuns: pregão
+
+                     alienações                    • leilão
+
+            trabalho técnico, científico
+                                                   • concurso
+                   ou artístico
+
+            inovação (atendidos requisitos)        • diálogo competitivo
+
+   ➢ Ato vinculado
+Podemos dizer que, em regra, o gestor público não detém liberdade para “escolher” a
+modalidade licitatória a ser utilizada, de modo que dizemos que a adoção da modalidade é ato
+vinculado, em regra. Isto porque a adoção de uma modalidade licitatória em detrimento de outras
+é determinada prioritariamente pelas características do objeto a ser contratado. Uma vez presente
+certa característica do objeto a ser licitado (por exemplo, uma obra), fatalmente a modalidade
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           70
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+estaria predeterminada (no caso, a concorrência). Portanto, como regra, a decisão quanto à
+adoção de uma ou outra modalidade é ato vinculado.
+No entanto, há uma situação específica em que haverá certa discricionariedade na adoção da
+modalidade, que diz respeito à contratação de serviços comuns de engenharia, em que o gestor
+poderá escolher entre o pregão ou a concorrência. Neste caso excepcional, portanto, a adoção
+da modalidade licitatória seria ato discricionário.
+
+CRITÉRIOS DE JULGAMENTO
+                                                                                    INCIDÊNCIA EM PROVA: MÉDIA
+Mais adiante neste curso estudaremos como se processa a classificação e o julgamento das
+propostas em uma licitação. No entanto, já adianto que, para tais procedimentos, é determinante
+o critério de julgamento do fornecedor (anteriormente chamado de “tipo de licitação”).
+É justamente aqui que veremos o fator que irá determinar a vitória de um licitante sobre os demais.
+O art. 33 da nova Lei prevê os seguintes critérios de seleção do fornecedor (rol taxativo):
+
+                                         NLL - critérios de julgamento
+
+       menor          maior             melhor técnica ou           técnica e   maior    maior retorno
+       preço         desconto          conteúdo artístico             preço     lance     econômico
+
+Menor preço e maior desconto
+Os critérios de menor preço e maior desconto, como adiantamos anteriormente, são variantes do
+chamado “menor dispêndio” para a Administração 43.
+O critério do maior desconto é utilizado quando a Administração possuir um preço-base (valor de
+referência) e for vencedor do certame aquele licitante que oferecer o maior desconto sobre o valor
+de referência. É, matematicamente, uma outra forma de se chegar ao menor valor a ser
+desembolsado pela Administração.
+
+        Exemplo: um pregão para aquisição de medicamentos, em que o vencedor será aquele que
+        oferecer o maior desconto sobre uma tabela de referência do Ministério da Saúde. Assim, quanto
+        maior o desconto (aplicado sobre o preço de referência de cada medicamento), menor será o
+        valor pago pela Administração para cada medicamento.
+
+Reparem que, para as licitações de menor preço ou maior desconto, será vencedor o licitante que
+apresentar a proposta de acordo com os parâmetros de qualidade definidos no edital (como
+
+43
+     Além do critério de “técnica e preço”, quando couber (art. 34, caput).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                    71
+           www.estrategiaconcursos.com.br                                                                  195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+requisitos técnicos e de habilitação) e que ofertar o produto ou serviço ao menor preço/maior
+desconto (art. 34, caput). Ou seja, trata-se do menor dispêndio entre aqueles produtos que
+atendam à necessidade da Administração (e não o menor de todo o mercado).
+Nesse sentido, de modo convergente à necessidade de se considerar todo o ciclo de vida do
+objeto licitado na seleção da proposta mais vantajosa (art. 11, I), a NLL prevê que os custos
+indiretos de um produto, como despesas de manutenção, depreciação e impacto ambiental, entre
+outros fatores vinculados ao seu ciclo de vida, poderão ser considerados para a definição do
+menor dispêndio, sempre que for possível sua mensuração objetiva (art. 34, §1º).
+Tratando-se do maior desconto, lembro que o preço estimado ou o máximo aceitável constará do
+edital da licitação, não sendo compatível com o sigilo do orçamento (art. 24, parágrafo
+único). Além disso, o desconto ofertado por ocasião da licitação deverá ser aplicado sobre futuros
+aditivos contratuais (art. 34, §2º, parte final). Além disso, o desconto será aplicado sobre o preço
+global fixado no edital de licitação (art. 34, §2º, parte inicial).
+Aproveito para adiantar que é vedada a utilização isolada do modo de disputa fechado44 quando
+adotados os critérios de julgamento de menor preço ou de maior desconto (art. 56, §1º).
+
+                                                        Variantes do “menor dispêndio”
+
+                                                 Únicos que podem ser adotados no pregão
+
+               Menor preço e             Possibilidade de considerar custos indiretos do ciclo de
+                                                              vida produto
+               maior desconto                               aplicado sobre preço de
+                                                                     referência
+                                                         aplicado sobre o preço global
+                                          Maior                  fixado no edital
+                                         desconto            aplicado sobre aditivos
+                                                                    contratuais
+                                                        não compatível com orçamento
+                                                                      sigiloso
+
+Melhor técnica ou conteúdo artístico
+O critério melhor técnica, na nova NLL, diferencia-se da melhor técnica prevista na Lei 8.666.
+Aqui ele também será chamado de melhor conteúdo artístico e, ao ser utilizado, deve-se já inserir
+no edital o valor do prêmio ou remuneração. Portanto, como o preço já está predefinido, as
+propostas limitam-se a conter informações de ordem técnica ou artística (sem preços).
+
+44
+   No modo de disputa fechado as propostas permanecem em sigilo até o momento designado para sua
+divulgação.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                             72
+           www.estrategiaconcursos.com.br                                                           195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Este critério poderá ser utilizado em concursos ou concorrências para a contratação de projetos e
+trabalhos de natureza técnica, científica ou artística (art. 35).
+Neste critério, por meio de uma “banca” composta por no mínimo 3 membros, a Administração
+irá avaliar a qualidade técnica da proposta, por meio do cálculo de uma nota ou “índice técnico”.
+Na “melhor técnica”, a classificação toma por base, unicamente, o cálculo deste índice técnico
+(adiante veremos que, na “técnica e preço”, será também calculado um índice técnico e um de preços).
+
+                                     Propostas apenas com                 Prêmio/remuneração já
+                                    teor técnico ou artístico                consta do edital
+                                                                          projetos
+                                     Destinado a             trabalhos de natureza técnica,
+            Melhor técnica                                        científica ou artística
+             ou conteúdo
+               artístico                                      concurso
+                                    Modalidades:
+                                                            concorrência
+
+                                                                       mínimo de 3 membros
+                                   Banca atribui as notas
+                                    do “índice técnico”                pode ser composta por
+                                                                         “não servidores”
+
+
+Técnica e preço
+Já na “técnica e preço”, que pode ser utilizado apenas na concorrência, são calculados dois
+índices, um técnico e outro de preço, fazendo uma média ponderada entre eles, para se definir a
+licitante que apresentou a maior pontuação. Será considerado vencedor do certame aquele que
+apresentar a melhor média.
+Uma novidade da NLL é que, na ponderação entre fatores técnicos e fatores de preço, a nota dos
+fatores técnicos não poderá extrapolar o máximo de 70% em relação ao total (art. 36, §2º).
+A “técnica e preço” poderá ser utilizada em contratações de (art. 36, §1º)
+      I – serviços técnicos especializados de natureza predominantemente intelectual, caso em
+      que o critério de julgamento de técnica e preço deverá ser preferencialmente empregado;
+      II – serviços majoritariamente dependentes de tecnologia sofisticada e de domínio restrito,
+      conforme atestado por autoridades técnicas de reconhecida qualificação;
+      III – bens e serviços especiais de tecnologia da informação e de comunicação;
+      IV – obras e serviços especiais de engenharia;
+      V – objetos que admitam soluções específicas e alternativas e variações de execução, com
+      repercussões significativas e concretamente mensuráveis sobre sua qualidade,
+      produtividade, rendimento e durabilidade, quando essas soluções e variações puderem ser
+      adotadas à livre escolha dos licitantes, conforme critérios objetivamente definidos no edital
+      de licitação.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   73
+        www.estrategiaconcursos.com.br                                                             195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Outra novidade da Lei 14.133 é que o desempenho pretérito na execução de contratos com a
+Administração Pública deverá ser considerado na pontuação técnica (art. 36, § 3º), tanto na
+“melhor técnica” como na “técnica e preço” (art. 37, III). Ainda em relação à “técnica e preço”,
+quando couber, ela também irá considerar o menor dispêndio para a Administração (art. 34,
+caput).
+Ainda a respeito da “técnica e preço”, adianto que é vedada a utilização do modo de disputa
+aberto45 quando adotado tal critério de julgamento (art. 56, § 2º).
+
+Após o Congresso Nacional derrubar alguns dos vetos, em junho de 2021, passou a viger o
+disposto no art. 37, §2º, da nova lei, que estabelece que
+
+           Art. 37, § 2º Ressalvados os casos de inexigibilidade de licitação, na licitação para
+           contratação dos serviços técnicos especializados de natureza predominantemente
+           intelectual previstos nas alíneas ‘a’ [estudos técnicos, planejamentos, projetos
+           básicos e projetos executivos], ‘d’ [fiscalização, supervisão e gerenciamento de
+           obras e serviços] e ‘h’ [controles de qualidade e tecnológico, análises, testes e
+           ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros
+           específicos de obras e do meio ambiente] do inciso XVIII do caput do art. 6º desta
+           Lei cujo valor estimado da contratação seja superior a R$ 300.000,00 (trezentos
+           mil reais)46, o julgamento será por:
+           I - melhor técnica; ou
+           II - técnica e preço, na proporção de 70% (setenta por cento) de valoração da
+           proposta técnica.
+
+Portanto, no caso destes 3 serviços predominantemente intelectuais, caso não sejam contratados
+por inexigibilidade e o valor seja de até R$ 300.000,00, o gestor deverá optar pela (i) melhor
+técnica ou (ii) técnica e preço.
+
+45
+     Modo de disputa entre os licitantes em que as propostas são apresentadas de modo público.
+46
+     Valor atualizado para R$ 376.353,48, pelo Decreto 12.343/2024.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                            74
+           www.estrategiaconcursos.com.br                                                          195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                          Média do Índice técnico com índice de preço
+
+                                               Máximo de 70% para a pontuação técnica
+
+                                      Desempenho pretérito em contratos com a Admin.
+     Técnica e
+      preço                                                  serviços técnicos especializados de natureza
+                                                         predominantemente intelectual (critério preferencial)
+
+                                                               tecnologia sofisticada e de domínio restrito
+
+                             Hipóteses
+                                                                      bens e serviços especiais de TIC
+                            (justificativa):
+
+                                                                obras e serviços especiais de engenharia
+
+                                                      objetos que admitam soluções específicas e alternativas e
+                                                                      variações de execução
+
+
+Maior lance
+Em outro giro, o maior lance é exclusivo do leilão e, portanto, destina-se às alienações de bens.
+Assim, será vencedor da licitação aquele que ofertar o maior valor para arrematar determinado
+bem público.
+
+Maior retorno econômico
+Por fim, o maior retorno econômico consiste na principal diferença em relação à Lei 8.666. Este
+critério deve ser utilizado exclusivamente para a celebração de contratos de eficiência47, sendo
+que as propostas serão aferidas de forma a selecionar a que proporcionará a maior economia para
+a administração pública (art. 39).
+
+47
+  Contrato de eficiência consiste, em linhas gerais, à contratação de serviços que têm por objetivo proporcionar
+economia ao contratante, na forma de redução de despesas correntes, de sorte que o contratado será remunerado
+com base em percentual da economia gerada (Lei 14.133, art. 6º, LIII).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                           75
+           www.estrategiaconcursos.com.br                                                                        195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Percebam que o foco deste critério é o contrato que propicie redução de despesas correntes por
+parte da Administração (redução da conta de energia, de água etc). Assim, o licitante que vencer
+a licitação receberá um percentual da economia que ele conseguir gerar para a Administração.
+
+        Exemplo: a contratação de um sistema de energia solar em que o contratado receberá 10% do
+        valor que conseguir reduzir do consumo de energia daquele órgão. Assim, guardadas as
+        simplificações deste exemplo, se o histórico de consumo era de R$ 300 mil e, com a nova solução
+        passa a ser de R$ 200 mil por mês, o contratado receberia R$ 10 mil por mês (=10% x R$ 100 mil)
+
+No maior retorno, o licitante entrega duas propostas à Administração (art. 39, §1º):
+     a) proposta de trabalho: em que consta as obras, serviços e bens a serem fornecidos e a
+economia estimada
+         b) proposta de preços: que corresponde ao percentual sobre a economia gerada.
+Assim, para se apurar quem venceu a licitação, a Administração basta fazermos a diferença entre
+o valor da economia estimada (da proposta de trabalho) e da proposta de preços, de modo a
+obter a “economia líquida” - art. 39, §2º.
+Se, por outro lado, não for gerada a economia prevista, há duas alternativas (art. 39, §4º):
+     I - a diferença entre a economia contratada e a efetivamente obtida será descontada da
+remuneração do contratado;
+     II - se a diferença entre a economia contratada e a efetivamente obtida for superior ao limite
+máximo estabelecido no contrato, o contratado sujeitar-se-á, ainda, a outras sanções cabíveis.
+
+Traçando um paralelo entre “critérios de julgamento” e “modalidades” de licitação, a partir das
+regras positivadas na Lei 14.133, chegamos à seguinte tabela48:
+                                   Modalidade                                    Tipo(s)
+                                                                               menor preço
+                                      Pregão
+                                                                              maior desconto
+                                                                               menor preço
+                                  Concorrência                                maior desconto
+                                                                   melhor técnica ou conteúdo artístico
+
+48
+   Deixamos de incluir o diálogo competitivo dada a inexistência de regra expressa quanto ao critério de
+julgamento que poderia ser utilizado.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                   76
+           www.estrategiaconcursos.com.br                                                                 195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                                                              técnica e preço
+                                                                          maior retorno econômico
+                                     Concurso                      melhor técnica ou conteúdo artístico
+                                       Leilão                                   maior lance
+Tratando-se de licitação realizada por empresas estatais (ou seja, regidas pela Lei 13.303/2016),
+haveria ainda a possibilidade de se utilizar um critério além dos aqui previstos, a saber: melhor
+destinação de bens alienados49. Por fim, resumindo os principais aspectos comentados, chegamos
+ao seguinte diagrama:
+
+PROCEDIMENTOS AUXILIARES
+                                                                                         INCIDÊNCIA EM PROVA: MÉDIA
+
+49
+     Dada a semelhança da “maior oferta de preço” (Lei 13.303, art. 54, VI) com o “maior lance” da NLL.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                         77
+           www.estrategiaconcursos.com.br                                                                       195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Procedimentos auxiliares (ou “instrumentos auxiliares”) representam mecanismos que, muito
+embora não se confundam com modalidades licitatórias, são procedimentos prévios à contratação
+dos fornecedores, que, caso utilizados, também irão auxiliar na seleção de fornecedores pela
+Administração.
+Os procedimentos auxiliares podem ser divididos em dois grupos 50, aqueles que já resultam em
+contratação e os que antecedem uma licitação e possuem um caráter preparatório. Já adianto
+que, no primeiro grupo, podemos incluir o credenciamento e o Sistema de Registro de Preços e,
+no segundo, enquadram-se a pré-qualificação, o Procedimento de Manifestação de Interesse (PMI)
+e o registro cadastral.
+Estes procedimentos já vinham sendo utilizados na prática51, alguns existiam em atos normativos
+esparsos52, outros na própria Lei 8.66653, de sorte que o grande mérito da NLL foi explicitar estes
+“procedimentos auxiliares”54 e consolidar suas regras em um único ato normativo.
+Nesse sentido, o art. 78 da NLL lista os seguintes procedimentos auxiliares:
+
+               Procedimentos auxiliares
+
+               • Credenciamento
+               • SRP – sistema de registro de preços
+               • Pré-qualificação
+               • PMI – Procedimento de manifestação de interesse
+               • Registro cadastral
+
+50
+  Consoante sistematiza Rodrigo Augusto Lazzari Lahoz, in “Nova Lei de Licitações e Contratos
+Administrativos”. 2ª ed. Ed. Zenite.
+51
+  Como no caso do credenciamento, defendido pela doutrina (a exemplo de Joel de Menezes Niebuhr) e
+admitido pela jurisprudência do TCU (a exemplo do Acórdão 784/2018-Plenário).
+52
+  A exemplo do Decreto federal 7.892/2013 (registro de preços, mencionado também nas Leis 8.666 e
+10.520) e do Decreto federal 8.428/2015 (procedimento de manifestação de interesse – PMI).
+53
+  No caso da pré-qualificação (Lei 8.666, art. 114), do registro cadastral (Lei 8.666, arts. 34-37) e do
+próprio registro de preços (Lei 8.666, art. 15).
+54
+  Como já havia feito a Lei 12.462/2011, que trata do RDC – Regime Diferenciado de Contratações, a
+partir do art. 29.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                              78
+           www.estrategiaconcursos.com.br                                                           195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Apesar de os procedimentos auxiliares também contribuírem com a seleção do fornecedor e vários
+deles possuírem até mesmo um edital55, como uma licitação, é essencial que saibamos diferenciar
+a lista de modalidades e a de procedimentos auxiliares na nova lei de licitações (NLL):
+
+
+                 Procedimentos auxiliares                                       Modalidades
+
+                         Credenciamento                                          Concorrência
+                         Pré-qualificação
+                                                                                    Leilão
+               Procedimento de manifestação
+                     de interesse (PMI)                                            Concurso
+                Sistema de registro de preços                                       Pregão
+                                (SRP)
+                        Registro cadastral                                    Diálogo competitivo
+
+
+Seguindo adiante vamos comentar cada um dos 5 procedimentos auxiliares!
+
+Credenciamento
+O credenciamento, regulamentado no art. 79 da NLL como um dos “procedimentos auxiliares”,
+já era muito utilizado na prática para a Administração contratar, sem licitação, determinados
+serviços.
+No credenciamento tradicional, a Administração divulga uma lista de requisitos para a contratação,
+por meio de um edital (“chamamento público”), sendo que todos os particulares que preencherem
+os requisitos seriam credenciados para, futuramente, prestarem serviços à Administração sob um
+valor fixado por ela, não havendo possibilidade de competição entre eles. Até por esta razão, o
+credenciamento foi também listado como hipótese de inexigibilidade de licitação na nova lei de
+licitações (art. 74, IV).
+Mais recentemente, tem-se observado também a utilização do credenciamento nos chamados
+“mercados fluidos”, que são aqueles sujeitos a oscilações rápidas de preços, de modo a dinamizar
+a efetivação dos contratos pela Administração.
+
+55
+  A exceção fica por conta do registro cadastral, para o qual o legislador não exigiu a divulgação de
+edital.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                             79
+           www.estrategiaconcursos.com.br                                                           195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+        Exemplo 1: credenciamento de médicos para prestarem serviços a determinado órgão público.
+        Neste caso, a Administração, após divulgar os requisitos para o credenciamento, cadastrava os
+        profissionais interessados em serem contratados e, futuramente, os contratava para prestarem
+        os serviços. Portanto, não havia uma licitação propriamente dita, muito embora houvesse um
+        procedimento para “seleção” destes profissionais.
+        Exemplo 256: credenciamento de intérpretes para, futuramente, serem contratados pela
+        Administração para tradução de textos diversos.
+        Exemplo 357: credenciamento de companhias aéreas para emissão de passagens.
+        Exemplo 4: credenciamento de clínicas para realização de exames psicotécnicos, para fins de
+        obtenção da CNH (carteira nacional de habilitação), pelos Detrans.
+
+Voltando às regras constantes da NLL, observa-se uma ampliação na utilização do
+credenciamento, o qual passa a ser admitido nas seguintes hipóteses (art. 79, caput):
+
+                                                   •caso em que é viável e vantajosa para a Administração a
+                                                    realização de contratações simultâneas em condições
+         contratação paralela e não                 padronizadas
+                 excludente                        •ex: credenciamento de várias clínicas para realização de
+                                                    exames psicotécnicos, em que o Detran faz a "triagem",
+                                                    determinando a qual clínica deve o interessado ir
+
+
+                                                  •caso em que a seleção do contratado está a cargo do
+                                                   beneficiário direto da prestação
+     com seleção a critério de terceiros          •ex: credenciamento de médicos, em que o paciente
+                                                   decidirá qual clínica procurar, entre aquelas credenciadas
+
+                                                  •caso em que a flutuação constante do valor da prestação e
+                                                   das condições de contratação inviabiliza a seleção de
+               em mercados fluidos                 agente por meio de processo de licitação
+                                                  •ex: emissão de passagens aéreas
+
+Apesar de os procedimentos de credenciamento serem definidos, futuramente, em um
+regulamento, devem ser observadas as seguintes diretrizes (art. 79, parágrafo único):
+
+56
+     Exemplo extraído do Edital de Credenciamento TCU 01/2018.
+57
+     Exemplo extraído do Edital de Credenciamento 01/2020 do Ministério da Economia.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                         80
+           www.estrategiaconcursos.com.br                                                                       195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+        I - a Administração deverá divulgar e manter à disposição do público, em sítio eletrônico
+oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente
+de novos interessados;
+       II - na hipótese de “contratação paralela e não excludente”, quando o objeto não permitir
+a contratação imediata e simultânea de todos os credenciados, deverão ser adotados critérios
+objetivos de distribuição da demanda;
+      III - o edital de chamamento de interessados deverá prever as condições padronizadas de
+contratação;
+      IV - não será permitida a transferência a terceiros do objeto contratado sem autorização
+expressa da Administração;
+         V - será admitida a denúncia por qualquer das partes nos prazos fixados no edital.
+
+
+Em relação aos preços, a NLL estabelece que, nas duas primeiras hipóteses acima, o edital do
+credenciamento irá fixar o valor da contratação. Tratando-se, no entanto, do credenciamento em
+razão de mercados fluidos, o valor não é fixado previamente, mas fruto da oscilação do momento.
+Assim, neste último caso, a Administração deverá registrar as cotações de mercado vigentes no
+momento da contratação, para viabilizar controle futuro a respeito dos preços contratados.
+
+Pré-qualificação
+Outro instrumento auxiliar consiste na pré-qualificação58, que é um procedimento seletivo prévio
+à licitação, convocado por meio de edital, destinado à análise das condições de habilitação, total
+ou parcial, dos interessados ou do objeto (art. 6º, XLIV).
+Em outras palavras, para facilitar a realização de licitações futuras, a Administração pode realizar,
+previamente, a pré-qualificação, destinada a promover uma “pré-seleção” de licitantes e produtos
+capazes de atender a requisitos esperados.
+Assim, nos termos do art. 80, a pré-qualificação é o procedimento técnico-administrativo para
+selecionar previamente:
+
+58
+  A pré-qualificação já era prevista na Lei 8.666, especificamente para concorrências em que o objeto
+da licitação recomendava análise mais detida da qualificação técnica dos interessados (art. 114, Lei
+8.666/1993).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                           81
+           www.estrategiaconcursos.com.br                                                         195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                                    •que reúnam condições de habilitação para participar de futura
+            licitantes               licitação ou de licitação vinculada a programas de obras ou de
+                                     serviços objetivamente definidos
+
+                                    •que atendam às exigências técnicas ou de qualidade estabelecidas
+               bens                  pela Administração
+
+O procedimento de pré-qualificação, que é divulgado por meio de um edital, ficará
+permanentemente aberto para a inscrição de interessados (art. 80, § 2º).
+Portanto, uma vez o edital divulgado e o interessado desejando se pré-qualificar para viabilizar
+sua participação em futuras licitações, deverá apresentar os documentos exigidos perante a
+Administração. O órgão ou a comissão indicada pela Administração terão o prazo máximo de 10
+dias úteis para examinar e, se for o caso, determinar correção ou reapresentação de documentos,
+com vistas à ampliação da competição (art. 80, § 4º).
+Apesar de ser permanentemente aberta, a Lei estabelece o prazo de validade máximo de 1 ano
+para a pré-qualificação, podendo ser atualizada a qualquer tempo, apesar de este prazo também
+estar condicionado ao prazo de validade dos documentos apresentados pelos interessados (art.
+80, § 8º).
+Como mecanismo de transparência, a Lei estabelece que a relação de licitantes e bens pré-
+qualificados deverá ser divulgada e mantida à disposição do público (art. 80, § 9º).
+É fácil perceber ser vantajoso para as empresas participarem da pré-qualificação, até porque a
+Administração pode realizar uma licitação restrita a licitantes ou bens pré-qualificados (art. 80, §
+10).
+Além disso, na pré-qualificação observar-se-á o seguinte (art. 80, § 1º):
+     a) quando aberta a licitantes: a título de racionalidade, poderão ser dispensados os
+documentos que já constarem do registro cadastral;
+       b) quando aberta a bens: poderá ser exigida a comprovação de qualidade, o que pode ser
+feito por meio da exigência de amostra ou prova de conceito (art. 41, II).
+
+Além disso, no caso de pré-qualificação de bens, estes deverão integrar o catálogo de bens e
+serviços da Administração (art. 80, §5º).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                    82
+        www.estrategiaconcursos.com.br                                                                  195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Por fim, para não confundirmos a “pré-qualificação” com a “habilitação” ou “qualificação”
+propriamente dita, vamos ao seguinte quadro-comparativo:
+
+
+                        pré-qualificação                                     habilitação
+
+
+                  proced. auxiliar (ocorre fora
+                                                                           fase da licitação
+                    de um processo licitatório)
+
+                                                                       apenas durante uma
+                  permanentemente aberta
+                                                                            licitação
+
+                        licitantes e bens                                     licitantes
+
+Registro cadastral
+O registro cadastral será utilizado para cadastro unificado de licitantes e constará do Portal
+Nacional de Contratações Públicas (PNCP) – art. 87.
+O sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar
+permanentemente aberto aos interessados. Além disso, será obrigatória a realização de
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           83
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+chamamento público pela internet, no mínimo anualmente, para atualização dos registros
+existentes e para ingresso de novos interessados (art. 87, § 1º).
+Além disso, para não restringir indevidamente a participação em certames licitatórios, o legislador
+proibiu a exigência, pelo órgão licitante, de registro cadastral complementar como condição para
+acesso ao edital (art. 87, § 2º).
+Assim como na pré-qualificação, aqui a Administração também poderá realizar licitação restrita a
+fornecedores cadastrados59 (art. 87, §3º), sendo admitido ao fornecedor que não estava
+cadastrado que o realize dentro do prazo previsto no edital para apresentação de propostas (art.
+87, §4º).
+Ao solicitar sua inscrição no cadastro (ou sua atualização) a empresa interessada fornecerá os
+documentos necessários e, ao final, receberá um certificado, renovável sempre que atualizar o
+registro (art. 88, §2º).
+Uma das novidades do registro cadastral da NLL é que o sistema deverá, também, armazenar o
+desempenho pretérito na execução de contratos com a Administração Pública (art. 88, §3º), o que
+será computado na “pontuação técnica” em licitações que adotem o critério “técnica e preço” ou
+“melhor técnica” (art. 36, § 3º).
+De toda forma, para acelerar a condução dos certames licitatórios, a documentação relacionada à
+habilitação dos fornecedores, durante uma licitação, pode ser substituída por registro cadastral
+(art. 70, II)60. No caso do leilão, no entanto, o prévio registro cadastral não pode ser exigido para
+participação no certame (art. 31, §4º).
+Detalhe interessante é que o licitante que ainda não possuir registro cadastral e deseje participar
+de processo licitatório, ainda assim poderá participar até a decisão da Administração, sendo que
+a celebração do contrato ficará condicionada à emissão do certificado de registro no cadastro (art.
+88, §6º).
+
+59
+     Similar ao que era previsto na Lei 8.666/1993 com a modalidade “tomada de preços”.
+60
+     Como já era possível sob a égide da Lei 8.666 (art. 32, §3º, Lei 8.666/1993).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                           84
+           www.estrategiaconcursos.com.br                                                         195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Procedimento de manifestação de interesse (PMI)
+O Procedimento de Manifestação de Interesse (PMI) 61 é mecanismo capaz de viabilizar a
+cooperação entre a Administração Pública e particulares, de modo que a iniciativa privada irá
+contribuir com sua expertise na concepção de soluções para problemas enfrentados pela
+Administração.
+O PMI representa, portanto, o primeiro passo para uma futura contratação pública.
+Nestes casos, a Administração realiza um chamamento público (por meio de um edital) e, assim,
+solicita à iniciativa privada a realização de estudos, investigações, levantamentos e projetos de
+soluções inovadoras que contribuam com questões de relevância pública (art. 81).
+
+61
+  Utilizado inicialmente no contexto de delegação da prestação de serviços públicos, consoante indica o
+art. 21 da Lei 8.987/1995.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                             85
+           www.estrategiaconcursos.com.br                                                           195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A partir destes estudos (elaborados pela iniciativa privada), a Administração poderia,
+posteriormente, estruturar a execução de uma grande obra pública, por exemplo. Neste caso, os
+estudos elaborados a partir do PMI iriam contribuir para a realização de uma futura licitação de
+obra pública.
+
+      Exemplo: procedimento de manifestação de interesse destinado à seleção de estudos de
+      viabilidade com a finalidade de, futuramente, ser celebrado um contrato de concessão de
+      serviços dentro de um parque ambiental.
+
+Agora notem que não há garantia de que que os estudos serão aproveitados. É possível que um
+particular gaste recursos próprios elaborando estes estudos e estes sejam, ao final, descartados
+pela Administração.
+E, mesmo se forem aproveitados, a Administração não irá pagar pelos estudos. Isto porque, no
+caso de aproveitamento, quem remunera o autor dos estudos é o vencedor da futura licitação
+para execução daquele projeto. Em outras palavras, cabe ao vencedor da licitação remunerar
+aquele que desenvolveu os estudos relacionados ao objeto posteriormente licitado.
+
+      Exemplo: ainda tomando por base o exemplo anterior de PMI para estudos de viabilidade para
+      concessão de serviços dentro de parque ambiental. Aquele que elaborou os estudos somente
+      seria remunerado pela empresa que, futuramente, viesse a ganhar a licitação para prestação dos
+      serviços que foram objeto do estudo.
+
+Portanto, o vencedor da licitação resultante do PMI já sabe, de antemão, que terá que remunerar
+o autor dos estudos do PMI, de sorte que irá incluir este valor em sua proposta.
+---
+Dito isso, faz-se oportuno destacar que a realização, pela iniciativa privada, dos estudos (art. 81):
+       I - não atribui ao autor dos estudos direito de preferência no futuro processo licitatório;
+       II - não obrigará o poder público a realizar licitação para execução do projeto;
+      III - não implicará, por si só, direito a ressarcimento de valores envolvidos em sua
+elaboração;
+      IV - será remunerada somente pelo vencedor da licitação, vedada, em qualquer hipótese,
+a cobrança de valores do poder público.
+
+A NLL prevê benefício específico para as startups. Isto porque a Administração poderá publicar
+edital de chamamento público destinado exclusivamente a microempreendedores individuais, as
+microempresas e as empresas de pequeno porte, de natureza emergente e com grande potencial,
+que se dediquem à pesquisa, ao desenvolvimento e à implementação de novos produtos (art.
+81, §4º).
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   86
+        www.estrategiaconcursos.com.br                                                                 195
+
+                                      
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+                                            elaboração de estudos,                        questões de
+                                         levantamentos e projetos de                       relevância
+                                              soluções inovadoras                           pública
+
+                                                                      não tem preferência em futuro processo
+                                                                                    licitatório
+     procedimento de
+     manifestação de                    autor dos                         não é remunerado pelo poder público
+      interesse (PMI)                    estudos
+
+                                                                   caso aproveitados, será remunerado somente
+                                                                            pelo vencedor da licitação
+
+
+                                        estudos não obrigarão poder público a realizar licitação para
+                                                           execução do projeto
+
+Sistema de registro de preços (SRP)
+O Sistema de Registro de Preços (SRP), já existente anteriormente à NLL, consiste em um conjunto
+de procedimentos para realização de registro formal de preços relativos à prestação de serviços,
+a obras e a aquisição e locação de bens para contratações futuras (art. 6º, XLV).
+Trocando em miúdos, pode-se definir62 o SRP como um cadastro de produtos e fornecedores,
+previamente selecionados, para futuras contratações, respeitadas as condições previstas no edital.
+Esse tipo de aquisição baseia-se na execução de um procedimento de seleção do fornecedor para
+objetos que possam demandar aquisições frequentes ou com previsão de entregas parceladas,
+de modo a obter o registro dos preços de produtos a serem entregues pelo fornecedor registrado.
+Isso possibilita que os itens que houverem sido registrados possam ser adquiridos por outros
+órgãos no futuro, por meio de adesão à ata de registro de preços, sem que seja necessário
+executar todo o processo de seleção do fornecedor novamente.
+
+62
+  Trecho adaptado da obra: “Sistema de registro de preço e pregão presencial e eletrônico”, Jacoby
+Fernandes, 2008, p. 31.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                         87
+           www.estrategiaconcursos.com.br                                                                       195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+        Exemplo 1: registro de preços para aquisição de medicamentos por uma Prefeitura. Durante o
+        período de validade daquele registro, a Prefeitura poderia demandar medicamentos do
+        fornecedor registrado, sem ter que realizar novas licitações.
+
+
+        Exemplo 2: registro de preços para aquisição de computadores por todas as universidades
+        federais. É feita uma única licitação, sendo que todos aqueles órgãos poderiam contratar a partir
+        dos preços registrados, sem terem que realizar novas licitações, evitando esforços redundantes
+        se cada órgão fosse promover sua licitação.
+
+Tal mecanismo, caso bem utilizado, apresenta inúmeras vantagens, como a padronização dos bens
+e serviços contratados, o ganho de escala (já que quanto maior a quantidade de produtos a serem
+fornecidos, maiores os descontos concedidos), a racionalização administrativa e a redução de
+custos administrativos (em vez de vários entes públicos realizarem várias licitações, apenas uma
+licitação é realizada).
+Não por outro motivo a NLL também previu que, quando pertinente, as compras deverão ser
+processadas por meio de sistema de registro de preços (art. 40, II).
+Em frente!
+Forma de seleção do fornecedor a ser registrado
+Segundo a NLL, o registro de preços poderá se dar, a depender do caso, mediante licitação prévia
+nas modalidades pregão ou concorrência ou, ainda, mediante contratação direta (art. 6º, XLV).
+Portanto, a este respeito, a grande inovação da NLL é o processamento do SRP por meio de
+dispensa ou inexigibilidade de licitação.
+Critério de julgamento das propostas
+O critério de julgamento da licitação destinada a um registro de preços será sempre o menor
+preço ou o maior desconto sobre tabela de preços praticada no mercado (art. 82, V)63.
+
+63
+  Anteriormente à Lei 14.133/2021, admitia-se excepcionalmente a adoção do critério “técnica e preço”
+(Decreto 7.892/2013, art. 7º, §1º).
+
+           Receita Federal (Analista Tributário) Direito Administrativo                                     88
+           www.estrategiaconcursos.com.br                                                                   195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+           Seguindo a jurisprudência do TCU64, a NLL determina que, em regra, deve-se
+           avaliar o menor preço para cada item licitado.
+           Isto porque a adjudicação com base no menor preço por grupo de itens é situação
+           excepcional, que somente poderá ser adotada quando demonstrada a
+           inviabilidade de se promover a adjudicação por item e for evidenciada a sua
+           vantagem técnica e econômica (art. 82, § 1º).
+           Assim, imagine, por exemplo, uma licitação para registro de preços de dois grupos
+           de bens, divididos da seguinte forma:
+                Grupo A: item 1 (medicamento A), item 2 (medicamento B) e item 3
+           (medicamento C);
+                Grupo B: item 1 (resma de papel), item 2 (cartucho de impressora) e item 3
+           (caneta azul).
+           Neste caso, em regra deve-se definir que o vencedor de cada item licitado é
+           aquele que ofertou o menor preço para o item (e não o menor preço no total do
+           grupo).
+
+Validade da ata com preços registrados
+Importante ter a ideia de que o registro de preços é a espécie de contratação em que, a partir de
+um procedimento de seleção do fornecedor, é registrada uma ata de preços contendo a descrição
+dos bens ou serviços ofertados e o respectivo preço.
+Esta Ata de Registro de Preços (ARP) consiste, segundo a própria lei, em um “documento
+vinculativo e obrigacional, com característica de compromisso para futura contratação, no qual são
+registrados o objeto, os preços, os fornecedores, os órgãos participantes e as condições a serem
+praticadas” (art. 6º, XLVI).
+Assim, o fornecedor que conseguiu ter seus produtos registrados em ata terá, durante
+determinado período de tempo, uma certa preferência na hipótese de a Administração vir a
+contratar aquele item.
+O prazo de vigência da ata de registro de preços é de 1 ano, sendo que a novidade da NLL fica
+por conta da possibilidade de prorrogação da validade, por igual período, desde que comprovado
+o preço vantajoso (art. 84, caput).
+O prazo de validade da ata, no entanto, não se confunde com a duração do contrato decorrente
+de um registro de preços, o qual terá sua vigência estabelecida em conformidade com as regras
+constantes da ata (art. 84, parágrafo único).
+
+64
+     A exemplo do Acórdão 1.347/2018 – Plenário.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                        89
+           www.estrategiaconcursos.com.br                                                      195
+
+                                         
+
+
+---
+
+     Antonio Daud
+     Aula 09
+
+Durante o período de validade da ata, será possível a alteração dos preços (nas condições previstas
+em edital - art. 82, VI) e a atualização periódica dos preços registrados (art. 82, §5º, IV).
+Não obrigatoriedade de contratação
+Uma pergunta que pode surgir diz respeito à obrigatoriedade ou não de a Administração celebrar
+um contrato com o fornecedor selecionado via registro de preços. Nesse sentido, destacamos o
+seguinte dispositivo:
+
+           Art. 83. A existência de preços registrados implicará compromisso de
+           fornecimento nas condições estabelecidas, mas não obrigará a Administração a
+           contratar, facultada a realização de licitação específica para a aquisição
+           pretendida, desde que devidamente motivada.
+
+Portanto, o fato de um órgão público ter realizado licitação para registro de preços ou de ter sido
+registrada uma ata não torna obrigatória a celebração do contrato com o fornecedor. Assim como
+em uma licitação qualquer, a necessidade que gerou o registro de preços pode se modificar ou,
+até mesmo, deixar de existir, após a conclusão do certame licitatório. Dessa forma, o ente público
+pode deixar de contratar o fornecedor registrado.
+Mas, se, por um lado, a Administração não é obrigada a contratar aquilo que fora selecionado por
+meio de licitação para registro de preços, por outro, o fornecedor é, sim, obrigado a honrar sua
+proposta, caso a Administração o convoque para celebrar contrato, durante a vigência da ata 65.
+Caso ele não obedeça à convocação, em tese estaria sujeito a penalidades legais.
+Entretanto, caso, durante a validade da ata, o ente público resolva contratar aqueles bens ou
+serviços registrados, poderia ainda optar por realizar uma licitação específica para aquela
+demanda e, assim, deixar de “aproveitar” a ata registrada. Neste caso, seria necessária uma
+justificativa por parte da Administração (art. 83, parte final).
+Portanto, o teor obrigacional da Ata de Registro de Preços (ARP), que comentamos acima, aplica-
+se apenas em relação ao particular com produtos registrados, visto que não obriga a
+Administração.
+
+65
+   Esta obrigação de fornecimento alcança apenas as quantidades e órgãos registrados na ata, não
+incluindo, no entanto, os “caronas”, comentados mais adiante.
+
+           Receita Federal (Analista Tributário) Direito Administrativo                         90
+           www.estrategiaconcursos.com.br                                                       195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                                                “Documento
+                                                vinculativo e              Para o fornecedor
+                                                obrigacional”
+
+            Ata de registro                       Não obrigação Administração a contratar
+              de preços
+
+                                                                                 1 ano
+
+                                                    Validade
+                                                                            Prorrogação por
+                                                                             igual período
+
+Intenção de registro de preços (IRP)
+A Intenção de Registro de Preços (IRP) é mecanismo que possibilita, a entes públicos interessados
+em realizar licitação para registro de preços, divulgar a intenção dessa compra para o restante da
+Administração Pública Federal.
+Assim, ao divulgar sua intenção, possibilita-se que outros órgãos e outras entidades juntem-se
+àquele ente e, se for o caso, realizem uma licitação única para a contratação de objetos comuns.
+Vejam aqui o ganho de escala e de economia que o IRP proporciona, já que são somadas as
+quantidades que cada ente público necessita e é realizada uma licitação para a quantidade total.
+A partir do art. 86 da NLL, podemos perceber que a IRP:
+   ❑ é obrigatória, salvo quando o órgão gerenciador for o único contratante
+   ❑ a publicação da IRP deve ocorrer na fase preparatória do processo licitatório
+   ❑ a IRP obedece ao prazo mínimo de 8 dias úteis
+A divulgação de IRP tende a ser realizada também por meio do Portal Nacional de Compras
+Públicas.
+Atores envolvidos em um registro de preços
+De acordo com o art. 6º da NLL, incisos XLVII a XLIX, seguindo a sistemática que já constava do
+Decreto 7.892/2013, há basicamente três atores envolvidos em um registro de preços:
+   A) Órgão Gerenciador – órgão ou entidade da Administração Pública responsável pela
+      condução do conjunto de procedimentos para registro de preços e gerenciamento da ata
+      de registro de preços dele decorrente. Ele divulga a IRP (visto acima) e responde pela
+      realização da licitação para registro de preços.
+
+   B) Órgão participante – órgão ou entidade da Administração Pública que participa dos
+      procedimentos iniciais do Sistema de Registro de Preços e integra a ata de registro de
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           91
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+       preços. Ele fica sabendo da intenção de se fazer o registro de preços divulgado pelo órgão
+       gerenciador, manifesta seu interesse e participa do planejamento da licitação, informando,
+       entre outras coisas, a quantidade da qual necessita.
+
+   C) Órgão não participante – órgão ou entidade da Administração Pública que, não tendo
+      participado dos procedimentos iniciais da licitação, atendidos os requisitos desta norma,
+      faz adesão à ata de registro de preços.
+
+Quanto a este último órgão, vale fazer uma ressalva especial. Ele é o chamado “carona”. Ele não
+está mencionado na ata, mas mediante concordância (i) do fornecedor e (ii) do órgão gerenciador,
+poderá celebrar contratos a partir da ata. Neste caso, o “carona” terá que demonstrar, ainda, que
+a adesão é vantajosa e que os valores registrados estão compatíveis com os valores praticados
+pelo mercado (art. 86, §2º, I e II).
+Com relação à quantidade máxima prevista para as adesões, vale a pena lermos atentamente dois
+parágrafos do art. 86 da NLL.
+
+        Art. 86, § 4º As aquisições ou as contratações adicionais a que se refere o § 2º
+        deste artigo [adesões por “caronas”] não poderão exceder, por órgão ou
+        entidade, a 50% (cinquenta por cento) dos quantitativos dos itens do instrumento
+        convocatório registrados na ata de registro de preços para o órgão gerenciador e
+        para os órgãos participantes.
+        § 5º O quantitativo decorrente das adesões à ata de registro de preços a que se
+        refere o § 2º deste artigo não poderá exceder, na totalidade, ao dobro do
+        quantitativo de cada item registrado na ata de registro de preços para o órgão
+        gerenciador e órgãos participantes, independentemente do número de órgãos
+        não participantes que aderirem.
+
+        Como assim, são dois limites?
+
+Sim! Vejamos:
+       - O primeiro consiste em um limite individual, ou seja, para cada órgão não participante que
+desejar aderir ao registro de preços. Nesse caso, a quantidade máxima que um órgão não
+participante (carona) pode contratar por meio do registro de preços é metade da quantidade
+registrada em ata, isto é, 50% da quantidade registrada;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            92
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+      - O segundo limite consiste em uma quantidade máxima global de adesão ao registro de
+preços. Nesse caso, se somarmos todas as adesões ao registro de preços, a quantidade total não
+poderá exceder duas vezes (200%) a quantidade registrada.
+
+     Tomemos o seguinte exemplo: em uma ata para aquisição de microcomputadores (situação
+     muito comum), caso a quantidade prevista em edital tenha sido de 200 microcomputadores, um
+     órgão não participante poderia contratar com a empresa selecionada, no máximo, 100
+     computadores (limite individual – 50%).
+     Além disso, caso diversos órgãos decidam aderir a essa ata, além de cada um ter que obedecer
+     ao limite individual, a quantidade máxima de adesões ao registro de preços resultante deste
+     edital será de 400 microcomputadores (limite global – 200%), independentemente de quantos
+     caronas venham a aderir àquela ata.
+
+As exceções a tal limitação constam dos arts. 86, §6º e 7º, dizendo respeito à (i) execução
+descentralizada de programa ou projeto federal (como em um convênio), na hipótese de restar
+comprovada a compatibilidade dos preços registrados com os valores praticados no mercado,
+bem como na (ii) aquisição emergencial de produtos da área de saúde.
+
+Portanto, os limites para adesão previstos na NLL são:
+
+                                                limite
+                                                                        metade
+                                              individual                            da quantidade
+                                                                                    total registrada
+                adesões ao                      limite
+             registro de preço                                           dobro
+                                                global
+              por "caronas" -
+                   limites                                             excecução descentralizada
+                                                                         de programas federais
+                                              exceções
+                                                                        emergência na área de
+                                                                               saúde
+
+Adesão a atas de outras esferas
+Em suma, os órgãos federais estão proibidos de aderir a atas de registro de preços que tenham
+sido registrados por órgãos ou entidades estaduais, municipais ou distritais. Contrario sensu, as
+instituições não federais (isto é, no âmbito de municípios, estados e DF) podem, caso desejem,
+aderir a atas de registro de preços administradas por órgãos ou entidades federais. É o que se
+depreende de leitura direta do parágrafo 8º do art. 86, abaixo:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                   93
+        www.estrategiaconcursos.com.br                                                                 195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Art. 86, § 8º Será vedada aos órgãos e entidades da Administração Pública federal
+        a adesão à ata de registro de preços gerenciada por órgão ou entidade estadual,
+        distrital ou municipal.
+
+Além da vedação acima, vale destacar uma regra importante inserida na NLL a partir da Lei
+14.770/2023, para as adesões por municípios. Diferentemente da U, E e DF, os municípios
+somente poderão aderir a atas de registros de preços de outros municípios desde que a ata tenha
+sido fruto de procedimento licitatório:
+
+        Art. 86, § 3º A faculdade de aderir à ata de registro de preços na condição de não
+        participante poderá ser exercida:
+        I - por órgãos e entidades da Administração Pública federal, estadual, distrital e
+        municipal, relativamente a ata de registro de preços de órgão ou entidade
+        gerenciadora federal, estadual ou distrital; ou
+        II - por órgãos e entidades da Administração Pública municipal, relativamente a
+        ata de registro de preços de órgão ou entidade gerenciadora municipal, desde
+        que o sistema de registro de preços tenha sido formalizado mediante licitação.
+
+Em síntese, as adesões por municípios a atas municipais poderão ocorrer, desde que a ata não
+seja resultante de uma contratação direta.
+Registro de preços para obras e serviços de engenharia
+Anteriormente à NLL, o SRP vinha sendo utilizado para contratações de bens e de serviços. O
+legislador, no entanto, decidiu ampliar sua utilização, passando a incluir locações de bens e obras
+e serviços de engenharia (art. 6º, XLV).
+Em relação às obras e serviços de engenharia, a adoção do registro de preços exige o atendimento
+aos seguintes requisitos adicionais (art. 85):
+      I - existência de projeto padronizado, sem complexidade técnica e operacional;
+      II - necessidade permanente ou frequente de obra ou serviço a ser contratado.
+Outras peculiaridades da licitação via SRP
+O edital de licitação para SRP deverá prever uma série de regras do processo seletivo, chamando
+a atenção ainda os seguintes aspectos (art. 82):
+    ❑ possibilidade de serem registrados preços diferentes para um mesmo item (por exemplo,
+      quando o objeto for entregue em locais diferentes)
+    ❑ necessidade de o edital definir:
+            o quantidade máxima de cada item que poderá ser adquirida
+            o quantidade mínima a ser cotada
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            94
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+Antonio Daud
+Aula 09
+
+ ❑ possibilidade de o licitante não se comprometer a oferecer o quantitativo máximo previsto
+   no edital (neste caso ele se comprometeria a ofertar um quantitativo inferior)
+ ❑ possibilidade de serem registrados mais de um fornecedor para o mesmo produto (desde
+   que aceitem cotar o objeto em preço igual ao do licitante vencedor, assegurada a
+   preferência de contratação de acordo com a ordem de classificação)
+ ❑ possibilidade de alteração dos preços registrados (nos termos fixados no edital)
+ ❑ vedação à participação de um mesmo órgão em mais de uma ata de registro de preços
+   com o mesmo objeto no prazo de validade daquela de que já tiver participado, salvo na
+   ocorrência de ata que tenha registrado quantitativo inferior ao máximo previsto no edital
+
+      Receita Federal (Analista Tributário) Direito Administrativo                       95
+      www.estrategiaconcursos.com.br                                                     195
+
+                                    
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Vamos, agora, sistematizar as principais características dos 5 procedimentos auxiliares:
+     Procedimento                                                  Características
+                               - contratação paralela                                 Preço fixado em edital
+                                  e não excludente                                    (contratação paralela e
+                                                                Inexigibilidade de
+   Credenciamento              - seleção a critério de                                   não excludente /
+                                                                     licitação
+                                      terceiros                                         seleção a critério de
+                                                                                             terceiros)
+                                 - mercados fluidos
+
+                                      - licitantes                 - permanente         Licitação pode ser
+    Pré-qualificação                                                                       restrita a pré-
+                                         - bens                - Máximo de 1 ano            qualificados
+                                                                                        Licitação pode ser
+                                                                   - permanente       restrita a cadastrados
+                              Cadastro unificado de                                     (admitido cadastro
+   Registro cadastral                                            - Chamamento
+                                    licitantes                                         dentro do prazo das
+                                                               público ao menos a
+                                                                                             propostas)
+                                                                    cada ano
+                                                                                      Leilão: não exige R.C.
+                                                                   Autor não tem
+                                                                  preferência em
+                                  elaboração de                  futuro processo
+                                      estudos,                   licitatório; não é   estudos não obrigarão
+ PMI – proced. manif.
+                                 levantamentos e                remunerado pelo          poder público a
+     de interesse
+                               projetos de soluções            poder público; caso       realizar licitação
+                                    inovadoras                     aproveitados,
+                                                                remunerado pelo
+                                                              vencedor da licitação
+                                                                                      Existência da ata não
+                                Seleção via pregão,               Validade 1 ano       obriga a contratar;
+ SRP – sist. de reg. de
+                                  concorrência ou                 (prorrog. igual     mas obriga particular a
+        preços
+                                 contratação direta                  período)             fornecer, caso
+                                                                                            convocado
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                         96
+        www.estrategiaconcursos.com.br                                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+CONCLUSÃO
+Bem, pessoal,
+O assunto é novo e, como vocês perceberam, especialmente revestido de detalhes. Conhecer
+estas novas regras certamente será um “diferencial competitivo” nestas primeiras provas. Então
+siga firme, pois nada resiste ao estudo!!
+Na primeira leitura deste material, não se preocupe em absorver todos os detalhes. Procure
+assimilar, especialmente, as características de cada modalidade de licitação, os critérios de
+julgamento das propostas e os procedimentos auxiliares.
+Buscamos sistematizar, ao máximo, a absorção das novas regras e a comparação com as
+disposições anteriores, sistematizando as novas regras.
+As questões que se seguem, inéditas e adaptadas, vão ajudar neste caminho!
+Espero que gostem =)
+
+
+Um abraço e bons estudos,
+Prof. Antonio Daud
+
+        Receita Federal (Analista Tributário) Direito Administrativo                       97
+        www.estrategiaconcursos.com.br                                                     195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+RESUMO
+Introdução:
+
+               nova lei alcança                                                 não alcança
+
+                 administração direta                                    estatais (regras constam da Lei
+        (inclusive Legislativo e Judiciário no                         13.303/2016, exceto crimes da NLL)
+         exercício da função administrativa)
+                                                                             repartições no exterior
+                      autarquias                                        (regul. próprio, mas "princípios
+                                                                                básicos" da NLL)
+                 fundações públicas                                        contratações que envolvam
+                                                                              recursos estrangeiros
+                  fundos especiais                                              (regras próprias)
+
+                                                                             reservas internacionais
+              entidades controladas                                         (ato normativo do Bacen)
+
+ nova lei aplica-se
+   • compra (inclusive por encomenda)
+   • prestação de serviços (inclusive os técnico-profissionais especializados)
+   • obras e serviços de arquitetura e engenharia
+   • contratações de tecnologia da informação e de comunicação (TIC)
+   • alienação de bens
+   • locação
+   • concessão e permissão de uso de bens públicos
+   • concessão de direito real de uso de bens
+
+ não se aplica
+   • operações de crédito e gestão da dívida pública
+   • Contratações sujeitas à legislação própria
+ aplicação subsidiária
+   • licitações para serviços de publicidade (Lei 12.232/2010)
+   • licitações p/ concessão de serviço público (Leis 8.987/95 e 11.079/04)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        98
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Princípios expressos:
+
+
+                             impessoalidad
+            legalidade                                 moralidade          publicidade      eficiência
+                                   e
+
+
+                                                                                          desenvolviment
+                             economicidad            competitividad
+             eficácia                                                       celeridade       o nacional
+                                  e                       e
+                                                                                            sustentável
+
+
+                                 interesse            probidade
+            igualdade                                                      planejamento   transparência
+                                  público            administrativa
+
+       razoabilidade
+             e                  segurança           segregação de                         vinculação ao
+                                                                            motivação
+       proporcionali             jurídica              funções                                edital
+           dade
+
+                                                       julgamento
+                                                         objetivo
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                       99
+        www.estrategiaconcursos.com.br                                                                     195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Agentes que atuam nas licitações:
+
+        Receita Federal (Analista Tributário) Direito Administrativo       100
+        www.estrategiaconcursos.com.br                                     195
+
+                                      
+
+
+---
+
+ Antonio Daud
+ Aula 09
+
+                                                                promovida por advogados públicos
+                                 regra
+                               (seguindo                         mesmo se já tiver deixado o cargo
+    defesa de               parecer jurídico)
+  autoridades e                                                        judicial ou extrajudicial
+   servidores
+                                                                      prova de atos dolosos
+                                exceções
+                                                           ato praticado sem observar parecer jurídico
+
+Modalidades:
+
+       Receita Federal (Analista Tributário) Direito Administrativo                                      101
+       www.estrategiaconcursos.com.br                                                                    195
+
+                                     
+
+
+---
+
+Antonio Daud
+Aula 09
+
+      Receita Federal (Analista Tributário) Direito Administrativo       102
+      www.estrategiaconcursos.com.br                                     195
+
+                                    
+
+
+---
+
+Antonio Daud
+Aula 09
+
+      Receita Federal (Analista Tributário) Direito Administrativo       103
+      www.estrategiaconcursos.com.br                                     195
+
+                                    
+
+
+---
+
+Antonio Daud
+Aula 09
+
+      Receita Federal (Analista Tributário) Direito Administrativo       104
+      www.estrategiaconcursos.com.br                                     195
+
+                                    
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Critérios de julgamento:
+
+        Receita Federal (Analista Tributário) Direito Administrativo       105
+        www.estrategiaconcursos.com.br                                     195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Procedimentos auxiliares:
+
+     Procedimento                                                  Características
+                               - contratação paralela
+                                  e não excludente                                    Preço fixado em edital
+                                                                                      (contratação paralela e
+                                                                Inexigibilidade de
+   Credenciamento              - seleção a critério de                                   não excludente /
+                                                                     licitação
+                                      terceiros                                         seleção a critério de
+                                                                                             terceiros)
+                                 - mercados fluidos
+                                     - licitantes                  - permanente         Licitação pode ser
+    Pré-qualificação                                                                       restrita a pré-
+                                         - bens                - Máximo de 1 ano            qualificados
+                                                                                        Licitação pode ser
+                                                                   - permanente       restrita a cadastrados
+                                                                                        (admitido cadastro
+                              Cadastro unificado de
+   Registro cadastral                                            - Chamamento          dentro do prazo das
+                                    licitantes
+                                                               público ao menos a            propostas)
+                                                                    cada ano
+                                                                                        Leilão: exige R.C.
+                                                                   Autor não tem
+                                                                  preferência em
+                                  elaboração de                  futuro processo
+                                      estudos,                   licitatório; não é   estudos não obrigarão
+ PMI – proced. manif.
+                                 levantamentos e                remunerado pelo          poder público a
+     de interesse
+                               projetos de soluções            poder público; caso       realizar licitação
+                                    inovadoras                     aproveitados,
+                                                                remunerado pelo
+                                                              vencedor da licitação
+                                                                                      Existência da ata não
+                                Seleção via pregão,               Validade 1 ano       obriga a contratar;
+ SRP – sist. de reg. de
+                                  concorrência ou                 (prorrog. igual     mas obriga particular a
+        preços
+                                 contratação direta                  período)             fornecer, caso
+                                                                                            convocado
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                         106
+        www.estrategiaconcursos.com.br                                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+                                    QUESTÕES COMENTADAS
+1.​ FCC/TRT 15 – Técnico Administrativo - 2025
+Para os fins da Lei 14.133/2021 (Lei de Licitações e Contratos Administrativos), considera-se
+(A)​   pré-qualificação: processo administrativo de chamamento público em que a Administração
+Pública convoca interessados em prestar serviços ou fornecer bens em condições
+preestabelecidas e isonômicas.
+(B)​  dispensa de licitação: situação em que a realização do procedimento competitivo se
+mostra inviável, em especial pela singularidade do objeto ou pela exclusividade do prestador
+(C) empreitada integral: regime de contratação de obras e serviços de engenharia em que o
+contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar
+obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem,
+teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do
+objeto.
+(D)​ contrato por escopo: ajuste que impõe ao contratado o dever de realizar a prestação de
+um Objeto específico em período predeterminado, podendo ser prorrogado, desde que
+justificadamente, pelo prazo necessário à conclusão do objeto.
+(E)​  superfaturamento: preço orçado para licitação ou contratado em valor expressivamente
+superior aos preços referenciais de mercado.
+Comentários
+A letra (A) está incorreta, pois não está correto o conceito de pré-qualificação, conforme prevê o
+Art. 6º, inciso XLIV, da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 6º, XLIV - pré-qualificação: procedimento seletivo prévio
+        à licitação, convocado por meio de edital, destinado à análise das condições de
+        habilitação, total ou parcial, dos interessados ou do objeto;
+A letra (B) está incorreta. Quando for inviável o procedimento competitivo, tratar-se-á de licitação
+inexigível, conforme prevê o Art. 74 da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 74 - É inexigível a licitação quando inviável a
+        competição, em especial nos casos de:
+A letra (C) está incorreta, pois não está correto o conceito de empreitada integral, conforme
+prevê o Art. 6º, inciso XXX, da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 6º, XXX - empreitada integral: contratação de
+        empreendimento em sua integralidade, compreendida a totalidade das etapas
+        de obras, serviços e instalações necessárias, sob inteira responsabilidade do
+        contratado até sua entrega ao contratante em condições de entrada em
+        operação, com características adequadas às finalidades para as quais foi
+        contratado e atendidos os requisitos técnicos e legais para sua utilização com
+        segurança estrutural e operacional;
+A letra (D) está correta:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             107
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Lei no 14.133/2021, Art. 6º, XVII - serviços não contínuos ou contratados por
+        escopo: aqueles que impõem ao contratado o dever de realizar a prestação de
+        um serviço específico em período predeterminado, podendo ser prorrogado,
+        desde que justificadamente, pelo prazo necessário à conclusão do objeto;
+A letra (E) está incorreta, ao confundir com a definição de sobrepreço:
+        Lei no 14.133/2021, Art. 6º, LVII - superfaturamento: dano provocado ao
+        patrimônio da Administração, caracterizado, entre outras situações, por:
+Gabarito (D)
+2.​ FCC/CGM-SP/Auditor/2025
+Suponha que, durante a realização de atividades de fiscalização dos contratos e das licitações, os
+agentes públicos responsáveis constatem que fora contratada, por meio de pregão público,
+como serviço de engenharia, a pintura das paredes do prédio onde está instalada a sede do
+órgão público. A fiscalização entendeu ter havido restrição de competição injustificada, o que, de
+acordo com a disciplina da Lei n 14.133/2021,
+(A) tem embasamento legal, mas não poderia ser apontado em sede de controle posterior à
+contratação, apenas no âmbito de uma fiscalização prévia.
+(B) não encontra amparo legal, tendo em vista que a qualificação do serviço é faculdade da
+Administração Pública, não se podendo ingressar no mérito dessa escolha.
+(C) tem embasamento legal, considerando que, salvo eventual especificidade técnica, a
+contratação realizada não indica se tratar de serviço a ser realizado, privativamente, por arquiteto,
+engenheiro ou técnico especializado.
+(D) encontra embasamento legal, mas remanesce a ilegalidade, em razão da modalidade de
+licitação equivocada, não sendo admitido pregão para a contratação de serviços de engenharia.
+(E) não tem fundamento legal, na medida em que a Administração optou por especificar serviço
+de qualidade técnica superior, garantindo melhor resultado na execução do serviço.
+Comentários
+A letra (A) está incorreta, pois também poderia ser apontada em sede de controle posterior (e
+não apenas no bojo de controle prévio).
+A letra (B) está incorreta, pois a administração não pode caracterizar serviços de modo a restringir
+injustificadamente a competição, sob pena de infringir o princípio da competitividade, conforme
+prevê o Art. 5º da Lei no 14.133/2021.
+A letra (C) está correta, pois a pintura das paredes foi contratada como sendo serviço de
+engenharia que é atividade estabelecida, por força de lei, como privativa das profissões de
+arquiteto e engenheiro ou de técnicos especializados, restringindo a competição nesse caso,
+conforme prevê o Art. 6º, inciso XXI, da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 6º, XXI - serviço de engenharia: toda atividade ou
+        conjunto de atividades destinadas a obter determinada utilidade, intelectual ou
+        material, de interesse para a Administração e que, não enquadradas no conceito
+        de obra a que se refere o inciso XII do caput deste artigo, são estabelecidas, por
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              108
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        força de lei, como privativas das profissões de arquiteto e engenheiro ou de
+        técnicos especializados, que compreendem:
+A letra (D) está incorreta, pois é sim possível a utilização de pregão para contratação de serviços
+comuns de engenharia, como pinturas ou reformas, conforme prevê o Art. 6º, inciso XLI, da Lei no
+14.133/2021:
+        Lei no 14.133/2021, Art. 6º, XLI - pregão: modalidade de licitação obrigatória
+        para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser
+        o de menor preço ou o de maior desconto;
+A letra (E) está incorreta, pois, conforme descrito na letra B, a administração não pode
+caracterizar serviços de modo a restringir de forma injustificada a competição, sob pena de
+infringir o princípio da competitividade.
+Gabarito (C)
+3.​ FCC/CGM-SP/Auditor/2025
+A Lei nº 14.133/2021 estabelece normas gerais de licitação e contratação para a Administração
+Pública, aplicando-se, além dos órgãos integrantes da Administração Direta,
+(A) às entidades integrantes da Administração Indireta, exclusivamente no que se refere à
+disciplina de crimes e sanções em matéria de licitações e contratos.
+(B) aos órgãos e entidades de direito público que integram o Poder Legislativo e o Poder
+Judiciário.
+(C) às autarquias e empresas instituídas ou mantidas pelo Poder Público, ambas espécies de
+pessoas jurídicas de direito público e, como tal, sujeitas à integralidade do regime de licitações e
+contratos aplicável à Administração Direta.
+(D) às empresas públicas exploradoras de serviço público, não se estendendo às sociedades de
+economia mista, sujeitas a regime jurídico integralmente privado.
+(E) às empresas estatais, apenas no que se refere à disciplina de crimes em licitações e contratos.
+Comentários
+A letra (A) está incorreta, pois algumas entidades da Administração Indireta, como as autarquias e
+fundações públicas, estão sujeitas à integralidade do regime de licitações previsto na Lei no
+14.133/2021, conforme prevê o Art. 1º, Caput, da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 1º - Esta Lei estabelece normas gerais de licitação e
+        contratação para as Administrações Públicas diretas, autárquicas e fundacionais
+        da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:
+A letra (B) está incorreta. A Nova Lei aplica-se aos órgãos do Poder Legislativo e do Judiciário e
+quando estes estiverem no desempenho de função administrativa, conforme prevê o Art. 1º,
+inciso I, da Lei no 14.133/2021:
+        Lei no 14.133/2021, Art. 1º, I - os órgãos dos Poderes Legislativo e Judiciário da
+        União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos
+        Municípios, quando no desempenho de função administrativa;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             109
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A letra (C) está incorreta. A nova lei não se aplica às empresas instituídas pelo Poder Público, mas
+apenas as entidades controladas direta ou indiretamente pela Administração Pública. Além disso,
+tais empresas seriam pessoas de direito privado.
+A letra (D) está incorreta, pois todas as estatais, sejam elas prestadoras de serviço público ou
+exploradoras de atividade econômica, não se submeterão às regras licitatórias e contratuais da
+Lei 14.133/2021. No mesmo sentido, a letra (E) está correta, pois as estatais se sujeitam apenas à
+disciplina de crimes em licitações e contratos:
+        Lei no 14.133/2021, Art. 1º, § 1º - Não são abrangidas por esta Lei as empresas
+        públicas, as sociedades de economia mista e as suas subsidiárias, regidas pela Lei
+        nº 13.303, de 30 de junho de 2016, ressalvado o disposto no art. 178 desta Lei.
+        Art. 178. O Título XI da Parte Especial do Decreto-Lei nº 2.848, de 7 de
+        dezembro de 1940 (Código Penal), passa a vigorar acrescido do seguinte
+        Capítulo II-B:
+        CAPÍTULO II-B
+        DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
+Gabarito (E)
+4.​ CONSULPAM - CFESS/Assistente Técnico - 2025
+A Lei de Licitação n.º 14.133/2021, aplica-se, EXCETO:
+a) Às contratações de tecnologia da informação e de comunicação.
+b) Às contratações sujeitas a normas previstas em legislação própria.
+c) À prestação de serviços, inclusive os técnico-profissionais especializados.
+d) À concessão e permissão de uso de bens públicos.
+Comentários:
+A letra (A) está incorreta, pois a Lei de Licitação se aplica nesse caso, conforme prevê o Art. 2º,
+inciso VII, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 2º - Esta Lei aplica-se a:
+        VII - Contratações de tecnologia da informação e de comunicação.
+A letra (B) está correta, pois a Lei de Licitação não se aplica para contratações sujeitas a
+legislação própria, conforme prevê o Art. 3º, inciso II da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 3º - Não se subordinam ao regime desta Lei:
+        II - Contratações sujeitas a normas previstas em legislação própria.
+A letra (C) está incorreta, pois a Lei de Licitação se aplica nesse caso, conforme prevê o Art. 2º,
+inciso V, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 2º - Esta Lei aplica-se a:
+        V - Prestação de serviços, inclusive os técnico-profissionais especializados;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             110
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A letra (D) está incorreta, pois a Lei de Licitação se aplica nesse caso, conforme prevê o Art. 2º,
+inciso IV, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 2º - Esta Lei aplica-se a:
+        IV - Concessão e permissão de uso de bens públicos;
+Gabarito (B)
+5.​ CONSULPAM - CFESS/Assistente Técnico - 2025
+O processo licitatório tem por objetivos, EXCETO:
+a) Assegurar tratamento isonômico entre os licitantes, bem como a justa competição.
+b)   Evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e
+superfaturamento na execução dos contratos.
+c) Incentivar a inovação e o desenvolvimento nacional sustentável.
+d) Estabelecer preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos
+licitantes.
+Comentários:
+A letra (A) está correta, pois esse é um dos objetivos da Lei de Licitação, conforme prevê o Art.
+11, inciso II, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 11 - O processo licitatório tem por objetivos:
+        II - Assegurar tratamento isonômico entre os licitantes, bem como a justa
+        competição;
+A letra (B) está correta, pois esse é um dos objetivos da Lei de Licitação, conforme prevê o Art.
+11, inciso III, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 11 - O processo licitatório tem por objetivos:
+        III - Evitar contratações com sobrepreço ou com preços manifestamente
+        inexequíveis e superfaturamento na execução dos contratos;
+A letra (C) está correta, pois esse é um dos objetivos da Lei de Licitação, conforme prevê o Art.
+11, inciso IV, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 11 - O processo licitatório tem por objetivos:
+        IV - Incentivar a inovação e o desenvolvimento nacional sustentável.
+A letra (D) está incorreta, pois estabelecer preferências entre licitantes é uma das vedações da Lei
+de Licitações, conforme prevê o Art. 9º, inciso I, alínea b, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 9º - É vedado ao agente público designado para atuar na
+        área de licitações e contratos, ressalvados os casos previstos em lei:
+        I - Admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:
+        b) estabeleçam preferências ou distinções em razão da naturalidade, da sede ou
+        do domicílio dos licitantes;
+Gabarito (D)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             111
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+6.​ CONSULPAM - CFESS/Assistente Técnico - 2025
+No processo licitatório, observar-se-á o seguinte, EXCETO:
+a) Os documentos serão produzidos por escrito, com data e local de sua realização e assinatura
+dos responsáveis.
+b) O desatendimento de exigências meramente formais que não comprometam a aferição da
+qualificação do licitante ou a compreensão do conteúdo de sua proposta, não importará seu
+afastamento da licitação ou a invalidação do processo.
+c) O reconhecimento de firma somente será exigido quando houver dúvida de autenticidade,
+salvo imposição legal.
+d) Os atos serão preferencialmente em papel, de forma a permitir que sejam produzidos,
+comunicados, armazenados e validados por meio eletrônico.
+Comentários:
+A letra (A) está correta, conforme prevê o Art. 12, inciso I, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 12 - No processo licitatório, observar-se-á o seguinte:
+        I - Os documentos serão produzidos por escrito, com data e local de sua
+        realização e assinatura dos responsáveis;
+A letra (B) está correta, conforme prevê o Art. 12, inciso III, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 12 - No processo licitatório, observar-se-á o seguinte:
+        III - O desatendimento de exigências meramente formais que não comprometam
+        a aferição da qualificação do licitante ou a compreensão do conteúdo de sua
+        proposta não importará seu afastamento da licitação ou a invalidação do
+        processo;
+A letra (C) está correta, conforme prevê o Art. 12, inciso V, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 12 - No processo licitatório, observar-se-á o seguinte:
+        V - O reconhecimento de firma somente será exigido quando houver dúvida de
+        autenticidade, salvo imposição legal;
+A letra (D) está incorreta, pois os atos serão preferencialmente digitais, conforme prevê o Art. 12,
+inciso VI, da Lei nº 14.133/2021:
+        Lei nº 14.133/2021, Art. 12 - No processo licitatório, observar-se-á o seguinte:
+        VI - Os atos serão preferencialmente digitais, de forma a permitir que sejam
+        produzidos, comunicados, armazenados e validados por meio eletrônico;
+Gabarito (D)
+7.​ CONSULPAM - CFESS/Assistente Técnico - 2025
+Conforme a Lei n.º 14.133/2021, são modalidades de licitação, EXCETO:
+a) Convite.
+b) Pregão.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             112
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+c) Leilão.
+d) Concorrência.
+Comentários:
+O gabarito está na letra (A). O convite não é mais modalidade de licitação prevista na legislação
+brasileira:
+        Lei nº 8.112/1990, Art. 28 - São modalidades de licitação:
+        I - Pregão;
+        II - Concorrência;
+        III - concurso;
+        IV - Leilão;
+        V - Diálogo competitivo.
+Gabarito (A)
+8.​ IBFC / UFPB/Assistente administrativo - 2025
+Segundo a Lei 14.133/2021, ______ é a modalidade de licitação obrigatória para aquisição de
+bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior
+desconto. Assinale a alternativa que preencha corretamente a lacuna.
+a) leilão
+b) diálogo Competitivo
+c) pregão
+d) concurso
+e) credenciamento
+Comentários:
+O gabarito está na letra (C), visto que o enunciado menciona claramente a definição de pregão:
+        Lei 14.133/2021, Art. 6º, XLI - pregão: modalidade de licitação obrigatória para
+        aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de
+        menor preço ou o de maior desconto;
+Gabarito (C)
+
+9.​ IBGP/Pref. Ribeirão das Neves – 2025
+
+De acordo com a Lei 14. 133/2021, as licitações e contratações para as Administrações Públicas
+diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios,
+devem observar regras, princípios e diretrizes próprias para, desse modo, atribuir lisura ao
+processo e à aplicação da própria Lei.
+Sobre o tema, analise as assertivas a seguir:
+I. Impessoalidade, segregação de funções, motivação.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          113
+        www.estrategiaconcursos.com.br                                                        195
+
+                                      
+
+
+---
+
+   Antonio Daud
+   Aula 09
+
+II. Segurança jurídica, planejamento, julgamento objetivo.
+III. Eficácia, transparência, desenvolvimento nacional sustentável.
+IV. Eficiência, igualdade, inafastabilidade da jurisdição.
+Assina/e a alternativa que apresente APENAS princípios que devem ser observados na aplicação
+da Lei, nos termos do artigo 5° do referido dispositivo legal.
+A I, II, III
+B II, III, IV
+C I, III, IV
+D I, II, IV
+Comentários:
+O item I está correto. Os princípios da impessoalidade, da segregação de funções e da
+motivação estão todos listados no rol do Art. 5º da Lei 14.133/2021.
+           "Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da
+           impessoalidade, da moralidade, da publicidade, da eficiência, do interesse
+           público, da probidade administrativa, da igualdade, do planejamento, da
+           transparência, da eficácia, da segregação de funções, da motivação (..)"
+O item II está correto. Os princípios da segurança jurídica, do planejamento e do julgamento
+objetivo são expressamente mencionados no Art. 5º da Lei 14.133/2021.
+           "Art. 5º Na aplicação desta Lei, serão observados os princípios (..) do
+           planejamento (..) da segregação de funções, da motivação, da vinculação ao
+           edital, do julgamento objetivo, da segurança jurídica (..)"
+O item III está correto. Os princípios da eficácia, da transparência e do desenvolvimento nacional
+sustentável constam de forma explícita na lista do Art. 5º da Lei 14.133/2021.
+           "Art. 5º Na aplicação desta Lei, serão observados os princípios (..) da
+           transparência, da eficácia (..) e do desenvolvimento nacional sustentável (..)"
+O item IV está incorreto. Embora os princípios da eficiência e da igualdade estejam previstos no
+Art. 5º da Lei 14.133/2021, o princípio da inafastabilidade da jurisdição não está listado nesse
+artigo específico, tratando-se de um princípio constitucional geral.
+           "Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da
+           impessoalidade, da moralidade, da publicidade, da eficiência (..) da igualdade
+           (..)"
+
+Gabarito (A)
+
+10.​FGV/TJ RR-2024
+Suponha que o órgão competente de certo Tribunal de Justiça almeje realizar a aquisição de
+material de escritório e papelaria, que são considerados bens comuns, para o regular
+funcionamento de suas atividades, bem como visa a escolher um trabalho técnico de arquitetura
+para a construção de uma nova sede.
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                        114
+           www.estrategiaconcursos.com.br                                                      195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Nesse contexto, à luz do disposto na Lei nº 14.133/2021, é correto afirmar que, para as
+mencionadas contratações, deverão ser utilizadas, respectivamente, as seguintes modalidades de
+licitação:
+(A) concorrência e pregão.
+(B) pregão e leilão.
+(C) leilão e diálogo competitivo.
+(D) pregão e concurso.
+(E) leilão e concurso.
+Comentário:
+Como, no primeiro caso, trata-se da aquisição de bens comuns, impõe-se a adoção do pregão:
+        Art. 6º, XLI - pregão: modalidade de licitação obrigatória para aquisição de bens
+        e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o
+        de maior desconto; e
+Já no segundo caso (trabalho técnico de arquitetura para a construção de uma nova sede),
+lembro que se dá via concurso a escolha de trabalho técnico, científico ou artístico:
+        Art. 6º, XXXIX - concurso: modalidade de licitação para escolha de trabalho
+        técnico, científico ou artístico, cujo critério de julgamento será o de melhor
+        técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao
+        vencedor;
+Assim, a letra (D) está correta.
+Gabarito (D)
+11.​AOCP/MGI - 2024
+A Lei n° 14.133/2021, também conhecida como Lei de Licitações, estabelece normas gerais de
+licitação e contratação para a Administração Pública. Com base na referida lei, assinale a
+alternativa que corresponde a uma modalidade de licitação.
+(A) Chamamento.
+(B) Indicação.
+(C) Nomeação.
+(D) Processo seletivo.
+(E) Concorrência.
+Comentários:
+A letra (E) está correta. De acordo com o art. 28 da Lei nº 14.133/2021, as modalidades de
+licitação são pregão, concorrência, concurso, leilão e diálogo competitivo. Concorrência é uma
+dessas modalidades, sendo amplamente utilizada para contratações de maior valor e
+complexidade.
+Gabarito (E)
+12.​AOCP/MGI - 2024
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         115
+        www.estrategiaconcursos.com.br                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A Lei n° 14.133/2021, também conhecida como Lei de Licitações, estabelece normas gerais de
+licitação e contratação para a Administração Pública. Sobre o processo licitatório, com base na
+referida lei, assinale a alternativa correta.
+(A) O processo licitatório tem por objetivo assegurar tratamento específico para cada um dos
+licitantes, estimulando a competição.
+(B) No processo licitatório, observar-se-á que os atos serão preferencialmente digitais, de forma
+a permitir que sejam armazenados por meio eletrônico.
+(C)   Os atos praticados no processo licitatório são sigilosos, ressalvadas as hipóteses de
+publicidade, na forma da lei.
+(D) O autor do anteprojeto, pessoa física ou jurídica, quando a licitação versar sobre obra a ele
+relacionada, poderá disputar licitação.
+(E) O processo de licitação observará as seguintes fases, em sequência: divulgação do edital,
+apresentação de propostas, habilitação, homologação e julgamento.
+Comentários:
+A letra (A) está incorreta. Conforme o art. 11, II, o objetivo é assegurar tratamento isonômico
+entre os licitantes e garantir justa competição, e não um tratamento específico.
+A letra (B) está correta. Conforme o art. 12, inciso VI, no processo licitatório, os atos serão
+preferencialmente digitais, permitindo que sejam produzidos, comunicados, armazenados e
+validados por meio eletrônico.
+A letra (C) está incorreta. De acordo com o art. 13, os atos são públicos, salvo exceções em que o
+sigilo seja necessário à segurança da sociedade e do Estado.
+A letra (D) está incorreta. O art. 14, I proíbe que o autor do anteprojeto, projeto básico ou
+executivo participe da licitação referente à obra ou serviço relacionado, para evitar conflitos de
+interesse.
+A letra (E) está incorreta. Conforme art. 17, as fases da licitação são: preparatória, divulgação do
+edital, apresentação de propostas, julgamento, habilitação, recursal, e homologação, em
+sequência diversa da apresentada.
+Gabarito (B)
+13.​FGV/CVM - 2024
+De acordo com a nova Lei de Licitações e Contratos Administrativos, os órgãos e entidades da
+Administração Pública deverão utilizar o sistema de registro cadastral unificado, disponível no
+Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes.
+Considerando as disposições da Lei nº 14.133/2021 sobre o registro cadastral, procedimento
+auxiliar das licitações e contratações, é correto afirmar que:
+(A)​ o sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e
+estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento
+público pela Internet, no mínimo semestralmente, para atualização dos registros existentes e para
+ingresso de novos interessados;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             116
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+(B)​ a administração não poderá, como regra, realizar licitação restrita a fornecedores
+cadastrados, salvo em casos excepcionais, devidamente fundamentados, desde que atendidos os
+critérios, as condições e os limites estabelecidos em regulamento;
+(C)​ o registro de inscrito que deixar de satisfazer exigências determinadas na Lei nº 14.133/2021
+(nova Lei de Licitações e Contratos Administrativos) ou por regulamento a qualquer tempo
+poderá ser alterado, suspenso ou cancelado;
+(D)​ certificado, renovável automática e anualmente, será fornecido ao inscrito no cadastro, salvo
+manifestação em sentido contrário do interessado;
+(E)​ o órgão ou entidade licitante poderá exigir registro cadastral complementar para acesso a
+edital e anexos.
+Comentários:
+A letra (A) está incorreta, o único erro da alternativa é que o chamamento para atualização dos
+registros e ingresso de novos interessados do sistema de registro cadastral deve ocorrer no
+mínimo anualmente, conforme Lei nº 14.133/2021:
+        Art. 87, § 1º O sistema de registro cadastral unificado será público e deverá ser
+        amplamente divulgado e estar permanentemente aberto aos interessados, e será
+        obrigatória a realização de chamamento público pela internet, no mínimo
+        anualmente, para atualização dos registros existentes e para ingresso de novos
+        interessados.
+A letra (B) está incorreta, pelo contrário, como regra, a administração poderá realizar licitação
+restrita a fornecedores cadastrados, desde que atendida a publicidade, os critérios e limites
+estabelecidos, segundo dispõe a Lei nº 14.133/2021:
+        Art. 87, § 3º A Administração poderá realizar licitação restrita a fornecedores
+        cadastrados, atendidos os critérios, as condições e os limites estabelecidos em
+        regulamento, bem como a ampla publicidade dos procedimentos para o
+        cadastramento.
+A letra (C) está correta, a alternativa se adequa à disposição literal da Lei nº 14.133/2021:
+        Art. 87, § 5º A qualquer tempo poderá ser alterado, suspenso ou cancelado o
+        registro de inscrito que deixar de satisfazer exigências determinadas por esta Lei
+        ou por regulamento.
+A letra (D) está incorreta, o certificado do inscrito será renovável sempre que ele atualizar o
+registro, conforme dispõe a Lei nº 14.133/2021. Portanto, a renovação não é manual e nem
+automática.
+        Art. 88, § 2º Ao inscrito será fornecido certificado, renovável sempre que atualizar
+        o registro.
+A letra (E) está incorreta, como o acesso deve ser público e amplo, é vedada a exigência de
+registro cadastral complementar para acesso de edital e anexos da licitação, segundo disciplina a
+Lei nº 14.133/2021:
+        Art. 87, § 2º É proibida a exigência, pelo órgão ou entidade licitante, de registro
+        cadastral complementar para acesso a edital e anexos.
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            117
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Gabarito (C)
+14.​FGV/TJ-MS - 2024
+A Lei nº 14.133/2021 introduziu, no ordenamento pátrio, a modalidade licitatória designada de
+diálogo competitivo, delimitando o âmbito em que ela pode ser utilizada.
+A opção por tal modalidade é apropriada para a formalização do seguinte contrato:
+(A)permissão de uso de bem público;
+(B)aquisição de bens comuns pela Administração Pública;
+(C)concessão de serviços públicos;
+(D)alienação de bens móveis;
+(E)escolha de trabalho técnico, artístico ou científico.
+Comentários:
+A letra (A) está incorreta, considerando que, em geral, as licitações para permissões de uso de
+bem público adotam o critério de julgamento de maior lance, as licitações para esse fim deverão
+ser processadas pela modalidade leilão, em conformidade com a disposição do art. 33, inciso V,
+da Lei nº 14.133/2021.
+A letra (B) está incorreta, conforme art. 32, inciso I, alínea b, da Lei nº 14.133/2021, uma das
+condições do diálogo competitivo é a impossibilidade de que as soluções disponíveis no
+mercado satisfaçam a necessidade. Contudo, no caso dos bens comuns, os padrões de
+desempenho e qualidade podem ser objetivamente definidos por meios de especificações usuais
+de mercado.
+        Lei n.º 14.133/2021, art. 6º, XIII - bens e serviços comuns: aqueles cujos padrões
+        de desempenho e qualidade podem ser objetivamente definidos pelo edital, por
+        meio de especificações usuais de mercado;
+A letra (C) está correta, de acordo com o art. 2, inciso II, da Lei das Concessões, alterada pela Lei
+n.º 14.133/2021, a concessão de serviço público deve ser realizada mediante licitação, na
+modalidade concorrência ou diálogo competitivo:
+        Lei nº 8.987/1995, art. 2º, II - concessão de serviço público: a delegação de sua
+        prestação, feita pelo poder concedente, mediante licitação, na modalidade
+        concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas
+        que demonstre capacidade para seu desempenho, por sua conta e risco e por
+        prazo determinado;
+A letra (D) está incorreta, de acordo com a disposição do art. 76, inciso II, da NLLC, a alienação
+de bens móveis dependerá de licitação na modalidade leilão:
+        Art. 76. A alienação de bens da Administração Pública, subordinada à existência
+        de interesse público devidamente justificado, será precedida de avaliação e
+        obedecerá às seguintes normas:
+        II - tratando-se de bens móveis, dependerá de licitação na modalidade leilão,
+        dispensada a realização de licitação nos casos de:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              118
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A letra (E) está incorreta, o concurso é a modalidade adequada para escolha de trabalho técnico,
+científico ou artístico, conforme art. 6º, XXXIX, da Lei nº 14.133/2021:
+        Art. 6º Para os fins desta Lei, consideram-se:
+        XXXIX - concurso: modalidade de licitação para escolha de trabalho técnico,
+        científico ou artístico, cujo critério de julgamento será o de melhor técnica ou
+        conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor;
+Gabarito (C)
+15.​FGV/CGE-PB - 2024
+Sob o fundamento de atender às peculiaridades locais, o Estado Alfa, após o devido processo
+legislativo, fez editar uma lei que dispõe sobre licitação e contratação.
+À luz da orientação do Supremo Tribunal Federal, tal norma poderia versar sobre:
+(A) hipóteses de contratação direta mediante introdução de novas situações de licitação
+dispensável;
+(B) obrigatoriedade de aquisição de percentual mínimo de bens e serviços definidos em sistema
+de registro de preços;
+(C) possibilidade de os órgãos de segurança pública estadual alienarem armas de fogo a seus
+integrantes, por meio de venda direta;
+(D) requisitos de habilitação dos licitantes, tais como a exigência para a apresentação de certidão
+negativa de violação ao direito dos consumidores;
+(E) vedação de participação em licitação e contratação de cônjuge, companheiro e parente
+consanguíneo até o terceiro grau do governador e do vice-governador e de ocupantes de cargo
+em comissão ou função de confiança.
+Comentários:
+Questão que cobrou detalhes da jurisprudência do STF a respeito de licitações públicas.
+A letra (A) está incorreta, pois o STF entende ser vedada aos demais entes federados a criação
+de hipóteses de dispensa de licitação diversas das previstas na legislação federal, julgando
+inconstitucionais leis municipais nesse sentido (RE 1419333 AgR / SP).
+A letra (B) está incorreta, de acordo com o entendimento do Plenário do STF proferido na ADI
+4748 / PR, ao prever a obrigatoriedade de aquisição de percentual mínimo de bens e serviços no
+sistema de registro de preços, esse ente invade a competência privativa da União para
+estabelecer normas gerais sobre licitação e contratação.
+A letra (C) está incorreta, de acordo com o Julgamento da ADI 7004/AL pelo Plenário do STF, "É
+inconstitucional norma estadual que prevê a modalidade de venda direta de arma de fogo aos
+membros de seus órgãos de segurança pública".
+A letra (D) está incorreta, o entendimento do Pleno do STF na ADI 3735/MS é de que é
+inconstitucional lei estadual que exija Certidão negativa de Violação aos Direitos do Consumidor
+dos interessados em participar de licitações e em celebrar contratos com órgãos e entidades
+estaduais.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            119
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Por fim, a letra (E) está correta, de acordo com o Plenário do STF na RE 910.552/MG, lei
+municipal pode proibir a administração pública de realizar contratos com parentes até o terceiro
+grau de agentes públicos eletivos ou em cargos de comissão.
+Gabarito (E)
+16.​FCC/TRT-11 - 2024
+A Lei de Licitações (Lei nº 14.133/2021) prevê a possibilidade de pregão para
+(A) seleção de leiloeiro oficial.
+(B) serviço especial de engenharia
+(C) inovação tecnológica ou técnica.
+(D) serviço técnico intelectual.
+(E) elaboração de projeto executivo.
+Comentários:
+A letra (A) está correta, conforme disposição expressa da NLLC, o leiloeiro oficial pode ser
+selecionado mediante licitação na modalidade pregão.
+        Art. 31, § 1º Se optar pela realização de leilão por intermédio de leiloeiro oficial,
+        a Administração deverá selecioná-lo mediante credenciamento ou licitação na
+        modalidade pregão e adotar o critério de julgamento de maior desconto para as
+        comissões a serem cobradas, utilizados como parâmetro máximo os percentuais
+        definidos na lei que regula a referida profissão e observados os valores dos bens
+        a serem leiloados.
+A letra (B) está incorreta, o pregão não se aplica a contratação de serviço especial de engenharia,
+apenas em serviço comum de engenharia, já que esse último pode ser objetivamente
+padronizável em desempenho e qualidade:
+        Lei nº 14.133/2021, art. 29, parágrafo único. O pregão não se aplica às
+        contratações      de    serviços   técnicos     especializados    de     natureza
+        predominantemente intelectual e de obras e serviços de engenharia, exceto os
+        serviços de engenharia de que trata a alínea “a” do inciso XXI do caput do art. 6º
+        desta Lei. [serviço comum de engenharia]
+        Art 6º, XXI, a) serviço comum de engenharia: todo serviço de engenharia que tem
+        por objeto ações, objetivamente padronizáveis em termos de desempenho e
+        qualidade, de manutenção, de adequação e de adaptação de bens móveis e
+        imóveis, com preservação das características originais dos bens;
+A letra (C) está incorreta, a inovação tecnológica ou técnica é uma condição prevista para o
+diálogo competitivo, e não para o pregão:
+        Art. 32. A modalidade diálogo competitivo é restrita a contratações em que a
+        Administração:
+        I - vise a contratar objeto que envolva as seguintes condições:
+        a) inovação tecnológica ou técnica;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            120
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A letra (D) está incorreta, o pregão não se aplica a contratações de serviços técnicos de natureza
+intelectual:
+        Lei nº 14.133/2021, art. 29, parágrafo único. O pregão não se aplica às
+        contratações    de     serviços    técnicos     especializados    de    natureza
+        predominantemente intelectual e de obras e serviços de engenharia, exceto os
+        serviços de engenharia de que trata a alínea “a” do inciso XXI do caput do art. 6º
+        desta Lei.
+Por fim, a letra (E) está incorreta, a elaboração de projeto executivo é considerado um serviço
+técnico de natureza predominantemente intelectual e, portanto, não se enquadra no pregão,
+conforme ressalva trazida pelo parágrafo único do art. 29:
+        Lei nº 14.133/2021, art. 6º, XVIII - serviços técnicos especializados de natureza
+        predominantemente intelectual: aqueles realizados em trabalhos relativos a:
+        a) estudos técnicos, planejamentos, projetos básicos e projetos executivos;
+        Art. 29, parágrafo único. O pregão não se aplica às contratações de serviços
+        técnicos especializados de natureza predominantemente intelectual e de obras e
+        serviços de engenharia, exceto os serviços de engenharia de que trata a alínea
+        “a” do inciso XXI do caput do art. 6º desta Lei.
+Gabarito (A)
+17.​FGV/SÃO JOSÉ DOS CAMPOS - 2024
+Com vistas a promover a prática de atividades físicas, esportivas, educativas e de lazer para a
+comunidade em geral, certo Município visa a realizar uma licitação para a escolha de um projeto
+técnico voltado à revitalização de uma área, a fim de transformá-la em um centro poliesportivo
+que promova as mencionadas finalidades, mediante pagamento de prêmio para o respectivo
+vencedor. Paralelamente, o ente federativo almeja realizar também o procedimento pertinente
+para a aquisição do material necessário para a realização de esportes, bens comuns, a fim de
+melhor aparelhar a escolas públicas para incentivar tais práticas.
+Diante desta situação hipotética, as modalidades de licitação que deverão ser utilizadas são,
+respectivamente:
+A) a concorrência e o leilão.
+B) o diálogo competitivo e a concorrência.
+C) o pregão e a diálogo competitivo.
+D) o concurso e o pregão.
+E) o leilão e o concurso.
+Comentários
+Nos termos da Lei nº 14.133/2021:
+        Art. 6º Para os fins desta Lei, consideram-se:
+        XXXIX - concurso: modalidade de licitação para escolha de trabalho técnico,
+        científico ou artístico, cujo critério de julgamento será o de melhor técnica ou
+        conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor;
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           121
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+   Antonio Daud
+   Aula 09
+
+           XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e
+           serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o
+           de maior desconto;
+A letra (D) está correta, já que o pagamento mediante prêmio para o vencedor só ocorre na
+modalidade concurso. No mesmo sentido, o pregão é a modalidade adequada para aquisição de
+bens e serviços comuns.
+Gabarito (D)
+18.​FGV/SÃO JOSÉ DOS CAMPOS - 2024
+O concurso representa uma modalidade de licitação. Este observará as regras e condições
+previstas em edital, que indicará alguns pontos. Avalie se esses pontos incluem a seguir:
+I. qualificação exigida dos participantes.
+II. diretrizes e formas de apresentação do trabalho.
+III. condições de realização e prêmio ou remuneração a ser concedida ao vencedor.
+Está correto o que se afirma em
+A) I, somente.
+B) I e II, somente.
+C) I e III, somente.
+D) II e III, somente.
+E) I, II e III.
+Comentários
+Nos termos da Lei nº 14.133/2021:
+           Art. 30. O concurso observará as regras e condições previstas em edital, que
+           indicará:
+           I - a qualificação exigida dos participantes; [item I]
+           II - as diretrizes e formas de apresentação do trabalho; [item II]
+           III - as condições de realização e o prêmio ou remuneração a ser concedida ao
+           vencedor. [item III]
+Os itens I, II e III são transcrições das disposições literais da NLLC, portanto, a letra (E) está
+correta.
+Gabarito (E)
+19.​FGV/CÂMARA DOS DEPUTADOS - Analista - 2023
+A sociedade empresária XYZ, visando à celebração de contratos administrativos com o Poder
+Público, contrata um escritório de advocacia para prestar informações sobre a modalidade de
+licitação denominada de “diálogo competitivo”. A citada sociedade empresária é informada,
+então, de que o diálogo competitivo é modalidade de licitação para contratação de obras,
+serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente
+selecionados (Art. 6º, inciso XLII, da Lei nº 14.133/2021). O escritório de advocacia, em seguida,
+
+
+           Receita Federal (Analista Tributário) Direito Administrativo                        122
+           www.estrategiaconcursos.com.br                                                      195
+
+                                         
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+tece comentários sobre as disposições aplicáveis ao diálogo competitivo, para melhor informar o
+cliente contratante.
+Nesse cenário, considerando as disposições da Lei nº 14.133/2021 sobre o diálogo competitivo,
+assinale a afirmativa correta.
+(A) A Administração, após juntar os registros e as gravações da fase de diálogo aos autos do
+processo licitatório, deverá iniciar a fase competitiva com a divulgação de edital contendo os
+critérios objetivos a serem utilizados para seleção da proposta mais vantajosa e abrir prazo, não
+inferior a noventa dias úteis, para que os licitantes pré-selecionados apresentem suas propostas.
+(B) O diálogo competitivo será conduzido por comissão de contratação composta de, pelo
+menos, três servidores efetivos ou empregados públicos pertencentes aos quadros permanentes
+da Administração, admitida a contratação de profissionais para assessoramento técnico da
+comissão.
+(C) A fase de diálogo poderá ser mantida até que a Administração identifique a solução ou as
+soluções que atendam às suas necessidades, observado o prazo máximo de trinta dias,
+prorrogável, uma única vez, por igual período, em decisão fundamentada.
+(D) A Administração apresentará, por ocasião da divulgação do edital em sítio eletrônico oficial,
+suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de trinta dias úteis
+para manifestação de interesse na participação da licitação.
+(E) As reuniões com os licitantes pré-selecionados serão registradas em ata e gravadas mediante
+utilização de recursos tecnológicos de áudio e vídeo, para fins de divulgação em sítio eletrônico
+oficial pertencente à Administração.
+Comentários:
+A letra (A) está incorreta, a Lei nº 14.133/2021 estabelece que o prazo para os licitantes
+pré-selecionados apresentarem suas propostas deve ser de pelo menos 60 (sessenta) dias úteis:
+        Lei nº 14.133/2021, art. 32, VIII - a Administração deverá, ao declarar que o
+        diálogo foi concluído, juntar aos autos do processo licitatório os registros e as
+        gravações da fase de diálogo, iniciar a fase competitiva com a divulgação de
+        edital contendo a especificação da solução que atenda às suas necessidades e os
+        critérios objetivos a serem utilizados para seleção da proposta mais vantajosa e
+        abrir prazo, não inferior a 60 (sessenta) dias úteis, para todos os licitantes
+        pré-selecionados na forma do inciso II deste parágrafo apresentarem suas
+        propostas, que deverão conter os elementos necessários para a realização do
+        projeto.
+A letra (B) está correta, trata-se da literalidade do inciso XI do art. 32 da NLLC:
+        Art. 32, XI - o diálogo competitivo será conduzido por comissão de contratação
+        composta de pelo menos 3 (três) servidores efetivos ou empregados públicos
+        pertencentes aos quadros permanentes da Administração, admitida a
+        contratação de profissionais para assessoramento técnico da comissão.
+A letra (C) está incorreta, já que não existe prazo máximo estabelecido para a fase de diálogo na
+Lei nº 14.133/2021:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          123
+        www.estrategiaconcursos.com.br                                                        195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+         Art. 32, V - a fase de diálogo poderá ser mantida até que a Administração, em
+         decisão fundamentada, identifique a solução ou as soluções que atendam às suas
+         necessidades;
+A letra (D) está incorreta, o prazo mínimo estabelecido na NLLC para manifestação de interesse
+na licitação na modalidade de diálogo competitivo é de 25 (vinte e cinco) dias úteis:
+         Art. 32, I - a Administração apresentará, por ocasião da divulgação do edital em
+         sítio eletrônico oficial, suas necessidades e as exigências já definidas e
+         estabelecerá prazo mínimo de 25 (vinte e cinco) dias úteis para manifestação de
+         interesse na participação da licitação.
+Por fim, a letra (E) está incorreta, a lei não define a obrigatoriedade da divulgação em sítio
+eletrônico oficial das atas e das gravações em áudio e vídeo, conforme trecho abaixo:
+         Art. 32, VI - as reuniões com os licitantes pré-selecionados serão registradas em
+         ata e gravadas mediante utilização de recursos tecnológicos de áudio e vídeo.
+Gabarito (B)
+20.​FGV/SMF-RJ - Analista de Planejamento e Orçamento – 2023
+Caso certo Município almeje realizar a contratação de um serviço comum de engenharia relativo
+a ação, objetivamente padronizáveis em termos de desempenho e qualidade, de manutenção,
+de adequação e de adaptação de bens móveis e Imóveis, com preservação das características
+originais dos bens, nos termos da Lei nº 14.333/2021, caberá a utilização da modalidade
+licitatória:
+A) convite;
+B) concurso;
+C) diálogo competitivo;
+D) leilão;
+E) pregão.
+Comentários:
+A Letra (A) está incorreta. A modalidade convite era prevista na Lei 8.666/93, não tendo sido
+prevista na Nova Lei de Licitações – Lei 14.133/2021.
+A Letra (B) está incorreta. A modalidade de licitação do concurso é a adequada para a escolha de
+trabalho técnico, científico ou artístico, para concessão de prêmio ou remuneração ao vencedor:
+         Art. 6º, XXXIX - concurso: modalidade de licitação para escolha de trabalho
+         técnico, científico ou artístico, cujo critério de julgamento será o de melhor
+         técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao
+         vencedor;
+A Letra (C) está incorreta. O diálogo competitivo é uma das modalidades licitatórias usada para
+contratação de obras, serviços e compras, mediante diálogos com os licitantes, a fim de se
+desenvolverem alternativas que atendam às necessidades da Administração:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         124
+        www.estrategiaconcursos.com.br                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Art. 6º, XLII - diálogo competitivo: modalidade de licitação para contratação de
+        obras, serviços e compras em que a Administração Pública realiza diálogos com
+        licitantes previamente selecionados mediante critérios objetivos, com o intuito de
+        desenvolver uma ou mais alternativas capazes de atender às suas necessidades,
+        devendo os licitantes apresentar proposta final após o encerramento dos
+        diálogos;
+A Letra (D) está incorreta. O leilão é a modalidade de licitação utilizada para alienação de bens
+imóveis e bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance:
+        Art. 6º, XL - leilão: modalidade de licitação para alienação de bens imóveis ou de
+        bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior
+        lance;
+Por fim, a Letra (E) está correta. Segundo dispõe a Lei 14.133/2021, art. 6º, XLI, o pregão é a
+modalidade licitatória a ser usada para a contratação de serviços comuns:
+        Art. 6º, XLI - pregão: modalidade de licitação obrigatória para aquisição de bens
+        e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o
+        de maior desconto;
+Por sua vez, o art. 6º, inciso XXI, alínea “a”, dispõe sobre a definição de serviço comum de
+engenharia da seguinte forma:
+        Art. 6º, XXI, a) serviço comum de engenharia: todo serviço de engenharia que
+        tem por objeto ações, objetivamente padronizáveis em termos de desempenho e
+        qualidade, de manutenção, de adequação e de adaptação de bens móveis e
+        imóveis, com preservação das características originais dos bens;
+Gabarito (E)
+21.​   FCC/MPE-PB - Técnico Ministerial - 2023
+A Nova Lei de Licitações previu a contratação integrada como
+A) aquela modalidade de contratação de obras, serviços e compras em que a Administração
+Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos,
+com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades,
+devendo os licitantes apresentar proposta final após o encerramento dos diálogos.
+B) aquela contratação de empreendimento em sua integralidade, com a totalidade das etapas de
+obras, serviços e instalações necessárias, sob responsabilidade do contratado até sua entrega ao
+contratante em condições de entrada em operação, com características adequadas às finalidades
+para as quais foi contratado e atendidos os requisitos técnicos e legais para sua utilização com
+segurança estrutural e operacional.
+C) aquele regime de contratação de obras e serviços de engenharia em que o contratado é
+responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços
+de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste,
+pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto.
+D) aquele contrato cujo objeto é a prestação de serviços, que pode incluir a realização de obras e
+o fornecimento de bens, com o objetivo de proporcionar economia ao contratante, na forma de
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           125
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+redução de despesas correntes, remunerando o contratado com base em percentual da
+economia gerada.
+E) aquele contrato utilizado para serviços contínuos com regime de dedicação exclusiva de mão
+de obra ou predominância de mão de obra, por meio da análise da variação dos custos
+contratuais, com previsão em edital das diferentes datas previstas como referência para os custos
+decorrentes do mercado e para os custos decorrentes da mão de obra.
+Comentários:
+Questão que aborda a literalidade da nova Lei de licitações:
+        Art. 6º, XXXII - contratação integrada: regime de contratação de obras e serviços
+        de engenharia em que o contratado é responsável por elaborar e desenvolver os
+        projetos básico e executivo, executar obras e serviços de engenharia, fornecer
+        bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as
+        demais operações necessárias e suficientes para a entrega final do objeto;
+Comparando a definição legal da contratação integrada e as alternativas, verifica-se que o único
+item correto é a alternativa (C).
+A alternativa (A) está incorreta. Esse é o conceito de diálogo competitivo, contido no mesmo art.
+6º:
+        XLII - diálogo competitivo: modalidade de licitação para contratação de obras,
+        serviços e compras em que a Administração Pública realiza diálogos com
+        licitantes previamente selecionados mediante critérios objetivos, com o intuito de
+        desenvolver uma ou mais alternativas capazes de atender às suas necessidades,
+        devendo os licitantes apresentar proposta final após o encerramento dos
+        diálogos;
+A alternativa (B) está incorreta. Esse é o conceito de empreitada integral, contido no mesmo art.
+6º:
+        XXX - empreitada integral: contratação de empreendimento em sua
+        integralidade, compreendida a totalidade das etapas de obras, serviços e
+        instalações necessárias, sob inteira responsabilidade do contratado até sua
+        entrega ao contratante em condições de entrada em operação, com
+        características adequadas às finalidades para as quais foi contratado e atendidos
+        os requisitos técnicos e legais para sua utilização com segurança estrutural e
+        operacional;
+A alternativa (D) está incorreta. Esse é o conceito de contrato de eficiência, contido no mesmo
+art. 6º:
+        LIII - contrato de eficiência: contrato cujo objeto é a prestação de serviços, que
+        pode incluir a realização de obras e o fornecimento de bens, com o objetivo de
+        proporcionar economia ao contratante, na forma de redução de despesas
+        correntes, remunerado o contratado com base em percentual da economia
+        gerada;
+A alternativa (E) está incorreta. Esse é o conceito de repactuação, contido no mesmo art. 6º:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            126
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        LIX - repactuação: forma de manutenção do equilíbrio econômico-financeiro de
+        contrato utilizada para serviços contínuos com regime de dedicação exclusiva de
+        mão de obra ou predominância de mão de obra, por meio da análise da variação
+        dos custos contratuais, devendo estar prevista no edital com data vinculada à
+        apresentação das propostas, para os custos decorrentes do mercado, e com data
+        vinculada ao acordo, à convenção coletiva ou ao dissídio coletivo ao qual o
+        orçamento esteja vinculado, para os custos decorrentes da mão de obra;
+Gabarito (C)
+22.​   FCC/TRT 18 - Analista Judiciário - Administrativa - Contabilidade - 2023
+Em situação em que se afigure viável e vantajosa para a Administração a realização de
+contratações simultâneas, paralelas, não excludentes e em condições padronizadas, será cabível,
+de acordo com a disciplina estabelecida pela Lei nº 14.133/2021,
+A) dispensa de licitação, com adoção de sistema de registro de preços.
+B) realização de diálogo competitivo entre interessados pré-qualificados.
+C) licitação na modalidade pregão, com a contratação dos três melhores classificados.
+D) procedimento de leilão, com abertura de envelopes seguida de lances em viva voz.
+E) credenciamento, mediante processo administrativo de chamamento público.
+Comentários:
+Questão que menciona uma das três hipóteses ensejadoras do credenciamento, um dos
+procedimentos auxiliares listados pela nova lei:
+        Art. 79. O credenciamento poderá ser usado nas seguintes hipóteses de
+        contratação:
+        I - paralela e não excludente: caso em que é viável e vantajosa para a
+        Administração a realização de contratações simultâneas em condições
+        padronizadas;
+Assim temos que a alternativa (E) está correta.
+Gabarito (E)
+23.​   QUADRIX/CREFONO-2-SP - Assistente de Administração e Serviços - 2023
+Considerando as disposições da Nova Lei de Licitações e Contratos (Lei n.º 14.133/2021), julgue
+o item.
+Em uma licitação na modalidade pregão, o agente responsável pela condução do certame será
+designado pregoeiro.
+( ) Certo
+( ) Errado
+Comentários:
+O agente público responsável por conduzir o leilão, na nova lei, continua sendo o pregoeiro:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           127
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        Art. 8º, § 5º Em licitação na modalidade pregão, o agente responsável pela
+        condução do certame será designado pregoeiro.
+Gabarito (C)
+24.​   QUADRIX/CRESS-16-AL – Assistente Técnico Administrativo - 2023
+Quanto à licitação pública (fases, modalidades, dispensa e inexigibilidade), julgue o item.
+O leilão poderá ser cometido a leiloeiro oficial ou a servidor designado pela autoridade
+competente da Administração, e seu regulamento deverá dispor sobre os procedimentos
+operacionais.
+( ) Certo
+( ) Errado
+Comentários:
+Mais uma questão de prova exigindo a literalidade da nova lei de licitações:
+        Art. 31. O leilão poderá ser cometido a leiloeiro oficial ou a servidor designado
+        pela autoridade competente da Administração, e regulamento deverá dispor
+        sobre seus procedimentos operacionais.
+Gabarito (C)
+25.​   QUADRIX/CRO-MS - Analista Administrativo - 2023
+De acordo com a Lei n.º 14.133/2021, que versa acerca da Lei de Licitação e Contratos
+Administrativos (LLCA), julgue o item.
+Se a Administração optar pela realização de leilão por intermédio de leiloeiro oficial, ela deverá
+selecioná‑lo mediante o credenciamento ou a licitação na modalidade pregão e adotar o critério
+de julgamento de maior desconto para as comissões a serem cobradas. Para isso, deverão ser
+utilizados, como parâmetro máximo, os percentuais definidos na lei que regula a referida
+profissão e deverão ser observados os valores dos bens a serem leiloados.
+( ) Certo
+( ) Errado
+Comentários:
+A questão é transcrição da seguinte regra legal:
+        Art. 31, § 1º Se optar pela realização de leilão por intermédio de leiloeiro oficial,
+        a Administração deverá selecioná-lo mediante credenciamento ou licitação na
+        modalidade pregão e adotar o critério de julgamento de maior desconto para as
+        comissões a serem cobradas, utilizados como parâmetro máximo os percentuais
+        definidos na lei que regula a referida profissão e observados os valores dos bens
+        a serem leiloados.
+Em síntese, a contratação do leiloeiro oficial poderá ocorrer mediante licitação na modalidade
+pregão ou via credenciamento.
+Gabarito (C)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            128
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+26.​   QUADRIX/CRT-ES - Auxiliar Administrativo - 2023
+Quanto à Lei n.º 14.133/2021, que institui a nova Lei de Licitação e Contratos Administrativos, e à
+Lei n.º 10.520/2002, que estabelece a modalidade pregão, julgue o item a seguir.
+O julgamento por menor preço ou maior desconto e, quando couber, por técnica e preço
+considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de
+qualidade definidos no edital de licitação.
+( ) Certo
+( ) Errado
+Comentários:
+Exato, o "menor dispêndio para a Administração" é gênero que comporta os critérios do menor
+preço, maior desconto e técnica e preço:
+        Art. 34. O julgamento por menor preço ou maior desconto e, quando couber, por
+        técnica e preço considerará o menor dispêndio para a Administração, atendidos
+        os parâmetros mínimos de qualidade definidos no edital de licitação.
+Gabarito (C)
+27.​   VUNESP/UNICAMP-SP - Técnico em Administração - 2023
+Em um processo de licitação, o concurso admite, como critério de julgamento,
+A) maior desconto.
+B) técnica e preço.
+C) maior retorno econômico.
+D) menor preço.
+E) melhor técnica ou conteúdo artístico.
+Comentários:
+A modalidade concurso admite, como critério de julgamento, apenas a melhor técnica ou
+conteúdo artístico:
+        Art. 6º, XXXIX - concurso: modalidade de licitação para escolha de trabalho
+        técnico, científico ou artístico, cujo critério de julgamento será o de melhor
+        técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao
+        vencedor;
+Gabarito (E)
+28.​   VUNESP/UNICAMP-SP - Técnico em Administração - 2023
+É uma modalidade de licitação:
+A) diálogo competitivo.
+B) técnica e preço.
+C) menor preço.
+D) maior lance.
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            129
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+E) maior retorno econômico.
+Comentários:
+A letra (A) é a única alternativa que lista uma modalidade de licitação:
+        NLL, art. 28. São modalidades de licitação:
+        I - pregão;
+        II - concorrência;
+        III - concurso;
+        IV - leilão;
+        V - diálogo competitivo.
+As demais alternativas trazem critérios de julgamento (art. 33).
+Gabarito (A)
+29.​   FGV - CGE SC/Auditor do Estado/2023
+De acordo com a Lei 14.133/2021, a princípio, poderá disputar licitação ou participar da
+execução de contrato, direta ou indiretamente,
+(A) autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica,
+quando a licitação versar sobre obra, serviços ou fornecimento de bens a ele relacionados.
+(B) pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar
+da licitação em decorrência de sanção que lhe foi imposta.
+(C) pessoa física que, dez anos antes da divulgação do edital, tenha sido condenada
+judicialmente, com trânsito em julgado, por submissão de trabalhadores a condições análogas às
+de escravo.
+(D) empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou
+do projeto executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador,
+acionista ou detentor de mais de 5% (cinco por cento) do capital com direito a voto, responsável
+técnico ou subcontratado, quando a licitação versar sobre obra, serviços ou fornecimento de
+bens a ela necessários.
+(E) aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que
+desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles
+seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro
+grau, devendo essa proibição constar expressamente do edital de licitação.
+Comentários:
+Inicialmente, a alternativa (A) está errada. Essa é uma vedação que já era prevista na Lei
+8.666/1993 e tem por objetivo evitar vieses e falta de competividade na escolha do licitante
+vencedor:
+        Art. 14. Não poderão disputar licitação ou participar da execução de contrato,
+        direta ou indiretamente:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            130
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        I - autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física
+        ou jurídica, quando a licitação versar sobre obra, serviços ou fornecimento de
+        bens a ele relacionados;
+A alternativa (B) também está equivocada. Logicamente que pessoa física ou jurídica que se
+encontre, ao tempo da licitação, impossibilitada de participar da licitação em decorrência de
+sanção que lhe foi imposta, como, por exemplo, uma declaração de inidoneidade, não poderá
+participar do certame:
+        Art. 14. Não poderão disputar licitação ou participar da execução de contrato,
+        direta ou indiretamente:
+        (...)
+        III - pessoa física ou jurídica que se encontre, ao tempo da licitação,
+        impossibilitada de participar da licitação em decorrência de sanção que lhe foi
+        imposta;
+  A alternativa (C), por sua vez, está correta. Conforme a previsão legal da Lei 14.133/2021, o
+prazo para que quem tenha sido condenado judicialmente, com trânsito em julgado, por
+submissão de trabalhadores a condições análogas às de escravo, volte a participar de certames
+licitatórios é de 5 anos. Portanto, quem foi condenado há dez anos, atendidos os demais
+requisitos, pode participar da licitação.
+        Art. 14, VI - pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à
+        divulgação do edital, tenha sido condenada judicialmente, com trânsito em
+        julgado, por exploração de trabalho infantil, por submissão de trabalhadores a
+        condições análogas às de escravo ou por contratação de adolescentes nos casos
+        vedados pela legislação trabalhista.
+A alternativa (D), por outro lado, está errada. Trata-se da literalidade do inc. II do art. 14 da
+referida Lei, que tem a mesma premissa jurídica do inc. I, apresentado na assertiva (A).
+        Art. 14. Não poderão disputar licitação ou participar da execução de contrato,
+        direta ou indiretamente:
+        (...)
+        II - empresa, isoladamente ou em consórcio, responsável pela elaboração do
+        projeto básico ou do projeto executivo, ou empresa da qual o autor do projeto
+        seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco
+        por cento) do capital com direito a voto, responsável técnico ou subcontratado,
+        quando a licitação versar sobre obra, serviços ou fornecimento de bens a ela
+        necessários;
+Finalmente, alternativa (E) está incorreta. Essa vedação visa a evitar o conluio prévio entre quem
+julga a licitação e os participantes dela, promovendo o princípio da competitividade.
+        Art. 14, IV - aquele que mantenha vínculo de natureza técnica, comercial,
+        econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade
+        contratante ou com agente público que desempenhe função na licitação ou atue
+        na fiscalização ou na gestão do contrato, ou que deles seja cônjuge,
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           131
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro
+        grau, devendo essa proibição constar expressamente do edital de licitação;
+Gabarito (C)
+30.​   FGV/CGE-SC - Auditor do Estado - 2023
+Em matéria de procedimentos auxiliares das licitações e das contratações, há aquele que poderá
+ser usado nas seguintes hipóteses de contratação: I. paralela e não excludente: caso em que é
+viável e vantajosa para a Administração a realização de contratações simultâneas em condições
+padronizadas; II. com seleção a critério de terceiros: caso em que a seleção do contratado está a
+cargo do beneficiário direto da prestação; III. em mercados fluidos: caso em que a flutuação
+constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente
+por meio de processo de licitação. Trata-se de processo administrativo de chamamento público
+em que a Administração Pública convoca interessados em prestar serviços ou fornecer bens, na
+forma prevista em lei. De acordo com a Lei 14.133/2021, o procedimento auxiliar acima descrito
+é denominado
+(A) pré-qualificação.
+(B) credenciamento.
+(C) registro cadastral.
+(D) sistema de registro de preços.
+(E) procedimento de manifestação de interesse.
+Comentários:
+Questão que versa sobre um procedimento auxiliar que já era bastante utilizado nas licitações,
+mas que não foi previsto expressamente na Lei 8.666/1993. Trata-se do credenciamento, definido
+legalmente no inc. XLIII, art. 6º, da Lei 14.133/2021:
+        Art. 6º Para os fins desta Lei, consideram-se:
+        XLIII - credenciamento: processo administrativo de chamamento público em que
+        a Administração Pública convoca interessados em prestar serviços ou fornecer
+        bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou
+        na entidade para executar o objeto quando convocados;
+No credenciamento previsto na Lei 14.133, é possível sua utilização nas seguintes situações:
+        Art. 79. O credenciamento poderá ser usado nas seguintes hipóteses de
+        contratação:
+        I - paralela e não excludente: caso em que é viável e vantajosa para a
+        Administração a realização de contratações simultâneas em condições
+        padronizadas;
+        II - com seleção a critério de terceiros: caso em que a seleção do contratado está
+        a cargo do beneficiário direto da prestação;
+        III - em mercados fluidos: caso em que a flutuação constante do valor da
+        prestação e das condições de contratação inviabiliza a seleção de agente por
+        meio de processo de licitação.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           132
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Diante do exposto, conclui-se que alternativa (B) está correta. Para fins de revisão, vamos às
+demais assertivas!
+alternativa (A):
+        Art. 6º, XLIV - pré-qualificação: procedimento seletivo prévio à licitação,
+        convocado por meio de edital, destinado à análise das condições de habilitação,
+        total ou parcial, dos interessados ou do objeto;
+Alternativa (C). Seguem as peculiaridades acerca do registro cadastral:
+        Art. 87. Para os fins desta Lei, os órgãos e entidades da Administração Pública
+        deverão utilizar o sistema de registro cadastral unificado disponível no Portal
+        Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de
+        licitantes, na forma disposta em regulamento.
+        § 1º O sistema de registro cadastral unificado será público e deverá ser
+        amplamente divulgado e estar permanentemente aberto aos interessados, e será
+        obrigatória a realização de chamamento público pela internet, no mínimo
+        anualmente, para atualização dos registros existentes e para ingresso de novos
+        interessados.
+Alternativa (D). Segue a definição legal:
+        Art. 6º, XLV - sistema de registro de preços: conjunto de procedimentos para
+        realização, mediante contratação direta ou licitação nas modalidades pregão ou
+        concorrência, de registro formal de preços relativos a prestação de serviços, a
+        obras e a aquisição e locação de bens para contratações futuras;
+Alternativa (E). Segue a introdução legal ao procedimento de manifestação de interesse:
+        Art. 81. A Administração poderá solicitar à iniciativa privada, mediante
+        procedimento aberto de manifestação de interesse a ser iniciado com a
+        publicação de edital de chamamento público, a propositura e a realização de
+        estudos, investigações, levantamentos e projetos de soluções inovadoras que
+        contribuam com questões de relevância pública, na forma de regulamento.
+Gabarito (B)
+31.​   FGV/TCE-ES - Auditoria Governamental - 2023
+O Estado Alfa vai iniciar processo licitatório, sob o regime jurídico da Lei 14.133/2021, que
+envolverá determinados serviços especiais. Sabe-se que, em regra, a licitação é conduzida por
+agente de contratação, pessoa designada pela autoridade competente, entre servidores efetivos
+da Administração Pública estadual, para tomar decisões, acompanhar o trâmite da licitação, dar
+impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom
+andamento do certame até a homologação. Nesse contexto, no caso em tela, de acordo com a
+nova Lei de Licitações, observados os requisitos legais, o agente de contratação:
+(A) não poderá ser substituído por comissão de licitação, que foi extinta pelo novo diploma
+normativo, nem poderá ser auxiliado por equipe de apoio, pois responderá individualmente
+pelos atos que praticar;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                       133
+        www.estrategiaconcursos.com.br                                                     195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+(B) será auxiliado por equipe de apoio composta por cinco membros e responderá
+individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe;
+(C) não poderá ser substituído por comissão de licitação ou de contratação, por ausência de
+previsão legal, mas poderá ser auxiliado por equipe de apoio, se se tratar de contratação de
+grande complexidade, caso haja autorização da autoridade competente;
+(D) não poderá ser substituído por comissão de contratação, mas será auxiliado por servidor
+designado pela autoridade competente, e responderá solidariamente com seu auxiliar por todos
+os atos praticados, salvo se este expressar posição individual divergente fundamentada e
+registrada em ata lavrada na reunião em que houver sido tomada a decisão;
+(E) poderá ser substituído por comissão de contratação formada por, no mínimo, três membros,
+que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o
+membro que expressar posição individual divergente fundamentada e registrada em ata lavrada
+na reunião em que houver sido tomada a decisão.
+Comentários:
+Inicialmente, alternativa (A) está duplamente errada. Embora a realização da licitação por agente
+de contratação seja a regra geral, este pode ser substituído por comissão de contratação nos
+casos de licitação de bens e serviços especiais, por exemplo. Ademais, o agente de contratação
+será auxiliado por equipe de apoio, embora responda pessoalmente pelos seus atos:
+        Art. 8º A licitação será conduzida por agente de contratação, pessoa designada
+        pela autoridade competente, entre servidores efetivos ou empregados públicos
+        dos quadros permanentes da Administração Pública, para tomar decisões,
+        acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e
+        executar quaisquer outras atividades necessárias ao bom andamento do certame
+        até a homologação.
+        § 1º O agente de contratação será auxiliado por equipe de apoio e responderá
+        individualmente pelos atos que praticar, salvo quando induzido a erro pela
+        atuação da equipe.
+        § 2º Em licitação que envolva bens ou serviços especiais, desde que observados
+        os requisitos estabelecidos no art. 7º desta Lei, o agente de contratação poderá
+        ser substituído por comissão de contratação formada por, no mínimo, 3 (três)
+        membros, que responderão solidariamente por todos os atos praticados pela
+        comissão, ressalvado o membro que expressar posição individual divergente
+        fundamentada e registrada em ata lavrada na reunião em que houver sido
+        tomada a decisão.
+A alternativa (B) também está equivocada. Conforme citado acima, de fato o agente de
+contratação responderá pelos atos que praticar, salvo quando induzido a erro pela atuação da
+equipe. Entretanto, a Lei 14.133/2021 não prevê um número de integrantes para a equipe de
+apoio.
+No que se refere às alternativas (C) e (D), incorretas, dado que a licitação prevista no enunciado
+será para serviços especiais, sendo possível a substituição do agente de contratação por
+comissão de contratação.
+Por fim, a alternativa (E) está em completa conformidade com o § 2º do art. 8º da Lei
+14.133/2021, exposto acima.
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           134
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Gabarito (E)
+
+32.​NOSSO RUMO - Câmara Municipal de São João da Boa Vista/2022
+
+No que discorre sobre a Lei 14.133/2021, poderão disputar licitação ou participar da execução
+de contrato, direta ou indiretamente:
+a) autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica,
+quando a licitação versar sobre obra, serviços ou fornecimento de bens a ele relacionados.
+b) pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar
+da licitação em decorrência de sanção que lhe foi imposta.
+c) aquele que não mantém vínculo de natureza técnica, comercial, econômica, financeira,
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que
+desempenhe função na licitação ou não atue na fiscalização ou na gestão do contrato, ou que
+deles não seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o
+terceiro grau.
+d) pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido
+condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por
+submissão de trabalhadores a condições análogas às de escravo ou por contratação de
+adolescentes nos casos vedados pela legislação trabalhista.
+e) empresas controladoras, controladas ou coligadas, nos termos da Lei 6.404, de 15 de
+dezembro de 1976, concorrendo entre si.
+Comentários:
+Questão que cobrou especificamente o art. 14 da NLL:
+        Art. 14. Não poderão disputar licitação ou participar da execução de contrato,
+        direta ou indiretamente:
+        I - autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física
+        ou jurídica, quando a licitação versar sobre obra, serviços ou fornecimento de
+        bens a ele relacionados;
+        II - empresa, isoladamente ou em consórcio, responsável pela elaboração do
+        projeto básico ou do projeto executivo, ou empresa da qual o autor do projeto
+        seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco
+        por cento) do capital com direito a voto, responsável técnico ou subcontratado,
+        quando a licitação versar sobre obra, serviços ou fornecimento de bens a ela
+        necessários;
+        III - pessoa física ou jurídica que se encontre, ao tempo da licitação,
+        impossibilitada de participar da licitação em decorrência de sanção que lhe foi
+        imposta;
+        IV - aquele que mantenha vínculo de natureza técnica, comercial, econômica,
+        financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou
+        com agente público que desempenhe função na licitação ou atue na fiscalização
+        ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           135
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        em linha reta, colateral ou por afinidade, até o terceiro grau, devendo essa
+        proibição constar expressamente do edital de licitação;
+        V - empresas controladoras, controladas ou coligadas, nos termos da Lei nº
+        6.404, de 15 de dezembro de 1976, concorrendo entre si;
+        VI - pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do
+        edital, tenha sido condenada judicialmente, com trânsito em julgado, por
+        exploração de trabalho infantil, por submissão de trabalhadores a condições
+        análogas às de escravo ou por contratação de adolescentes nos casos vedados
+        pela legislação trabalhista.
+Dito isto, percebemos que a letra (A) está incorreta, pois o autor do anteprojeto, projeto básico
+ou executivo é expressamente proibido de disputar a licitação ou participar da execução do
+contrato relacionado a tais projetos.
+A letra (B) está incorreta. Pessoa física ou jurídica que já esteja cumprindo sanção que a
+impossibilite de participar de licitações está vedada de disputar o certame.
+A letra (C) está correta. A alternativa descreve exatamente a situação de quem pode participar da
+licitação, pois é a negação da proibição contida no art. 14, IV.
+A letra (D) está incorreta. Aquele que foi condenado por exploração de trabalho infantil, trabalho
+análogo ao de escravo ou contratação irregular de adolescentes nos 5 anos anteriores está
+impedido de participar da licitação.
+A letra (E) está incorreta. A lei proíbe que empresas controladoras, controladas ou coligadas
+concorram entre si na mesma licitação.
+
+Gabarito (C)
+
+33.​NOSSO RUMO /CRF SP/2022
+
+A Lei 14.133/2021 - Lei de Licitações e Contratos Administrativos NÃO se aplica a
+a) contratações de tecnologia da informação e de comunicação.
+b) prestação de serviços, inclusive os técnico-profissionais especializados.
+c) concessão de direito real de uso de patentes.
+d) compra, inclusive por encomenda.
+e) concessão e permissão de uso de bens públicos.
+Comentários:
+A letra (A) está incorreta. A Lei 14.133/2021 se aplica expressamente às contratações de
+tecnologia da informação e de comunicação, conforme seu art. 2º, VII.
+        "Art. 2º Esta Lei aplica-se a: (..) VII - contratações de tecnologia da informação e
+        de comunicação."
+A letra (B) está incorreta. A prestação de serviços, incluindo os técnico-profissionais
+especializados, está sob a regência da Lei 14.133/2021, como disposto no art. 2º, V.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           136
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        "Art. 2º Esta Lei aplica-se a: (..) V - prestação de serviços, inclusive os
+        técnico-profissionais especializados;"
+A letra (C) está correta. A Lei de Licitações rege a alienação e a concessão de direito real de uso
+de bens públicos. A concessão de direito real de uso de patentes, por sua vez, é um negócio
+jurídico que envolve propriedade intelectual e é regido por legislação própria (Lei 9.279/96),
+enquadrando-se na exceção do art. 3º, II, da Lei 14.133/2021.
+        "Art. 3º Não se subordinam ao regime desta Lei: (..) II - contratações sujeitas a
+        normas previstas em legislação própria."
+A letra (D) está incorreta. A compra, inclusive por encomenda, é uma das hipóteses de aplicação
+da Lei 14.133/2021, prevista no art. 2º, II.
+        "Art. 2º Esta Lei aplica-se a: (..) II - compra, inclusive por encomenda;"
+A letra (E) está incorreta. A concessão e a permissão de uso de bens públicos são objeto de
+aplicação da Lei 14.133/2021, de acordo com o art. 2º, IV.
+        "Art. 2º Esta Lei aplica-se a: (..) IV - concessão e permissão de uso de bens
+        públicos;"
+
+Gabarito (C)
+
+34.​NOSSO RUMO - Pref. Indaiatuba/2022
+
+É correto afirmar que a Lei 14.133, de 1° de abril de 2021 (Lei de Licitações e Contratos
+Administrativos), NÃO se aplica a:
+a) alienação e concessão de direito real de uso de bens.
+b) compra, inclusive por encomenda.
+c) contratações sujeitas a normas previstas em legislação própria.
+d) concessão e permissão de uso de bens públicos.
+e) obras e serviços de arquitetura e engenharia.
+Comentários:
+A letra (A) está incorreta. A Lei 14.133/2021 aplica-se expressamente à alienação e à concessão
+de direito real de uso de bens, conforme seu art. 2º, I.
+        "Art. 2º Esta Lei aplica-se a: I - alienação e concessão de direito real de uso de
+        bens;"
+A letra (B) está incorreta. A compra, inclusive na modalidade por encomenda, é um dos objetos
+regulados pela Lei 14.133/2021, como prevê o art. 2º, II.
+        "Art. 2º Esta Lei aplica-se a: (..) II - compra, inclusive por encomenda;"
+A letra (C) está correta. A própria lei estabelece que não se subordina ao seu regime as
+contratações que são regidas por normas de legislação específica, conforme o disposto no art.
+3º, II, da Lei 14.133/2021.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                            137
+        www.estrategiaconcursos.com.br                                                          195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        "Art. 3º Não se subordinam ao regime desta Lei: (..) II - contratações sujeitas a
+        normas previstas em legislação própria."
+A letra (D) está incorreta. A concessão e a permissão de uso de bens públicos são hipóteses de
+aplicação da Lei 14.133/2021, de acordo com o art. 2º, IV.
+        "Art. 2º Esta Lei aplica-se a: (..) IV - concessão e permissão de uso de bens
+        públicos;"
+A letra (E) está incorreta. Obras e serviços de arquitetura e engenharia estão claramente no
+escopo de aplicação da Lei 14.133/2021, como estabelece o art. 2º, VI.
+        "Art. 2º Esta Lei aplica-se a: (..) VI - obras e serviços de arquitetura e engenharia;"
+
+Gabarito (C)
+
+35.​NOSSO RUMO / Pref. Indaiatuba / 2022
+
+Segundo a Lei de Licitações e Contratos Administrativos - Lei 14.133/21, concorrência é
+modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços
+comuns e especiais de engenharia, cujo critério de julgamento NÃO poderá ser:
+a) menor preço.
+b) melhor técnica ou recurso tecnológico.
+c) técnica e preço.
+d) maior retorno econômico.
+e) maior desconto.
+Comentários:
+A letra (B) está incorreta e é o nosso gabarito. A lei não prevê o critério de julgamento "melhor
+técnica ou recurso tecnológico" para nenhuma das modalidades licitatórias. O critério mais
+próximo seria o de "melhor técnica ou conteúdo artístico".
+
+Gabarito (B)
+
+36.​   FGV/TCE-TO - AT - Ciências Contábeis - 2022
+Adalto, diretor de licitações no âmbito do Poder Executivo do Estado Alfa, recebeu comunicação
+de que esse ente federativo almejava realizar operação de crédito interno, havendo dúvida em
+relação à modalidade de procedimento licitatório a ser observado, considerando os balizamentos
+estabelecidos pela Lei 14.133/2021, que vinha sendo observada pela generalidade dos órgãos
+dessa estrutura de poder.
+À luz dessa narrativa, Adalto concluiu, corretamente, em razão do disposto na Lei 14.133/2021,
+que o contrato que verse sobre o referido objeto:
+a) não está sujeito ao regime do referido diploma normativo;
+b) deve ser antecedido de licitação na modalidade de diálogo competitivo;
+c) deve ser antecedido de licitação na modalidade de concorrência;
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              138
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+d) não precisa ser antecedido de licitação, que é dispensável, estando adstrito, apenas, aos
+balizamentos incidentes sobre o contrato administrativo;
+e) não precisa ser antecedido de licitação, que é inexigível, estando adstrito, apenas, aos
+balizamentos incidentes sobre o contrato administrativo.
+Comentários:
+Questão bastante direta, que se aprofunda no escopo de aplicação da Lei 14.133/2021. Nesse
+sentido, a literalidade da referida legislação dispõe que contratos que tenham por objeto
+operação de crédito, interno ou externo não se subordinam ao seu regime normativo. Cita-se o
+art. 3º:
+        Art. 3º Não se subordinam ao regime desta Lei:
+        I - contratos que tenham por objeto operação de crédito, interno ou externo, e
+        gestão de dívida pública, incluídas as contratações de agente financeiro e a
+        concessão de garantia relacionadas a esses contratos; (...)
+Portanto, a alternativa (A) está correta, ao passo que as alternativas (B), (C), (D) e (E) estão
+incorretas
+Gabarito (A)
+37.​   FGV/CM Taubaté - ConsLeg - 2022
+De acordo com a Lei de Licitações e Contratos Administrativos (Lei 14.133/2021), o processo
+licitatório tem por objetivos as opções a seguir, à exceção de uma. Assinale-a.
+a) Assegurar tratamento isonômico entre os licitantes, bem como a justa competição.
+b) Incentivar a inovação e o desenvolvimento nacional sustentável.
+c) Vedar, em qualquer hipótese, participação em licitação de pessoa jurídica em consórcio.
+d) Evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e
+superfaturamento na execução dos contratos.
+e) Assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a
+Administração Pública, inclusive no que se refere ao ciclo de vida do objeto.
+Comentários:
+Sabemos que a licitação é um procedimento utilizado pela administração pública para selecionar
+a melhor proposta entre os interessados em fornecer bens, serviços ou obras para a entidade
+pública. Nesse sentido, embora haja essa diretriz geral, a licitação possui objetivos expressos
+previstos no art. 11 da Lei 14.133/2021:
+        Art. 11. O processo licitatório tem por objetivos:
+        I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais
+        vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de
+        vida do objeto;
+        II - assegurar tratamento isonômico entre os licitantes, bem como a justa
+        competição;
+        III - evitar contratações com sobrepreço ou com preços manifestamente
+        inexequíveis e superfaturamento na execução dos contratos;
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         139
+        www.estrategiaconcursos.com.br                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+Perceba que a questão reproduziu os quatro incisos do art. 11 em suas assertivas, de modo que
+as alternativas (A), (B), (D) e (E) não são a resposta.
+Por outro lado, a alternativa (C) não é um objetivo, sendo o gabarito da questão.
+Gabarito (C)
+38.​   VUNESP/Docas-PB - Adm - 2022
+A nova Lei de Licitações prevê que a fase preparatória deve compatibilizar-se com o plano de
+contratações anual e com as leis orçamentárias, bem como levar em consideração todas as
+premissas técnicas, mercadológicas e de gestão que possam interferir na contratação. Essa
+diretriz evidencia o princípio da(o)
+a) publicidade e transparência.
+b) celeridade e economicidade.
+c) julgamento objetivo.
+d) planejamento.
+e) formalismo moderado.
+Comentários:
+A diretriz de que a fase preparatória da licitação deve se compatibilizar com o plano de
+contratações anual e com as leis orçamentárias, bem como levar em consideração todas as
+premissas técnicas, mercadológicas e de gestão que possam interferir na contratação, evidencia
+o princípio do planejamento.
+O princípio do planejamento é um dos pilares do processo licitatório, e consiste na necessidade
+de se planejar a contratação de bens e serviços, de forma a obter a melhor relação
+custo-benefício, com o menor risco possível. Para tanto, é necessário que a fase preparatória da
+licitação leve em consideração todas as premissas técnicas, mercadológicas e de gestão que
+possam interferir na contratação, de forma a garantir que o objeto a ser contratado seja o mais
+adequado possível para atender às necessidades da Administração.
+Por conseguinte, a alternativa (D) está correta. As demais alternativas estão incorretas, pois,
+embora estejam diretamente ligadas ao processo de licitação, não possuem vinculação com
+enunciado. Logo, não são o gabarito. De toda a sorte, vamos verificar o conceito de cada um
+para fins de revisão:
+Alternativa (A). A publicidade consiste na divulgação ampla dos atos e procedimentos
+relacionados à licitação, garantindo que qualquer pessoa possa ter acesso a essas informações.
+Já a transparência consiste em garantir a clareza e a objetividade dos atos e procedimentos
+relacionados à licitação, possibilitando que todos os interessados possam acompanhar e fiscalizar
+o processo.
+Alternativa (B). O princípio da celeridade visa garantir que o processo licitatório seja realizado de
+forma ágil e eficiente, sem demoras desnecessárias que possam prejudicar a Administração ou
+os licitantes. Esse princípio busca evitar a burocratização excessiva e a procrastinação, de forma a
+garantir que a contratação ocorra no menor tempo possível, desde que seja respeitada a
+legalidade e a qualidade da contratação.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              140
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Já o princípio da economicidade busca a contratação de bens e serviços com o menor custo
+possível para a Administração, sem que isso comprometa a qualidade ou a efetividade da
+contratação.
+Alternativa (C). O princípio do julgamento objetivo garante que as propostas dos licitantes sejam
+avaliadas de forma impessoal e criteriosa, com base em critérios claros e objetivos previamente
+estabelecidos no edital de licitação.
+O julgamento objetivo é importante para garantir a igualdade entre os licitantes, evitando que
+haja favorecimento ou discriminação durante o processo licitatório.
+Alternativa (E). Cabe destacar que o princípio do formalismo moderado não é explicito na Lei de
+Licitações e Contratos, mas é considerado um princípio implícito no processo administrativo
+como um todo. Ele consiste na necessidade de observância das formalidades legais e
+regulamentares, mas sem excessos ou formalismos desnecessários que possam comprometer a
+eficiência e a efetividade do processo. Ou seja, o formalismo moderado busca garantir que as
+formalidades legais e regulamentares sejam respeitadas, mas sem que isso gere entraves ou
+burocracias excessivas.
+Gabarito (D)
+39.​   VUNESP/Pref Jundiaí - AsAdm - 2022
+Licitação é o processo por meio do qual a Administração Pública contrata obras, serviços,
+compras e alienações. Um dos principais objetivos da Licitação é
+a) selecionar a proposta mais vantajosa para a administração pública.
+b) priorizar a economia em detrimento da qualidade por não ser tão essencial.
+c) conhecer novos fornecedores que possam trazer lucro à administração pública.
+d) minimizar todo trabalho de pesquisa, busca e avaliação dos produtos.
+e) apoiar e favorecer os fornecedores já conhecidos da organização.
+Comentários:
+A questão apresentada trata dos objetivos da licitação, previstos no art. 11 da Lei 14.133/2021:
+        Art. 11. O processo licitatório tem por objetivos:
+        I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais
+        vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de
+        vida do objeto;
+        II - assegurar tratamento isonômico entre os licitantes, bem como a justa
+        competição;
+        III - evitar contratações com sobrepreço ou com preços manifestamente
+        inexequíveis e superfaturamento na execução dos contratos;
+        IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+De exposto, é possível concluir que a alternativa (A) está correta. Cabe destacar que assertiva
+trata da literalidade do art. 3º da Lei 8.666/1993, que também dispõe acerca dos objetivos da
+licitação, e ainda está vigente no ordenamento jurídico brasileiro.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                               141
+        www.estrategiaconcursos.com.br                                                             195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+         Art. 3o A licitação destina-se a garantir a observância do princípio constitucional
+         da isonomia, a seleção da proposta mais vantajosa para a administração e a
+         promoção do desenvolvimento nacional sustentável
+A alternativa (B) está incorreta, visto que, embora a economia seja um dos critérios a serem
+avaliados, ela não deve ser priorizada em detrimento da qualidade, pois esta é essencial para
+garantir a efetividade do objeto licitado e a satisfação dos interesses da Administração Pública e
+da sociedade.
+A alternativa (C) também está incorreta. A licitação não tem como objetivo conhecer novos
+fornecedores que possam trazer lucro à Administração Pública, mas sim selecionar a proposta
+mais vantajosa, considerando critérios como preço, qualidade, capacidade técnica e
+sustentabilidade ambiental e social. Perceba que o critério econômico é somente uma das
+vertentes a ser a analisada para a melhor contratação em conformidade com o interesse público.
+A alternativa (D) está incorreta. Não há essa correlação necessária. Algumas licitações de maior
+complexidade podem ensejar grandes pesquisas de preço para fins de orçamentação adequada
+pela administração. Portanto, essa minimização de trabalho não é um objetivo da licitação.
+Por fim, a alternativa (E) está incorreta, uma vez que seria um claro afronto ao princípio da
+impessoalidade, o favorecimento de fornecedores já conhecidos pela organização. Se fosse esse
+o caso, todos os demais princípios relacionados a competitividade e julgamento objetivo seriam
+postos de lado. Portanto, a alternativa está equivocada.
+Gabarito (A)
+40.​   FCC/TRT 17 - AJ Apoio Especializado - Engenharia Civil - 2022
+Segundo a Lei Federal nº 14.133/2021, a modalidade de licitação para escolha de trabalho
+técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo
+artístico, e para concessão de prêmio ou remuneração ao vencedor é denominada
+a) pregão.
+b) concorrência.
+c) concurso.
+d) leilão.
+e) empreitada integral.
+Comentários:
+Inicialmente, a alternativa (A) está incorreta. Cabe citar a definição legal da modalidade pregão,
+conforme inc. XLI , art. 6º da Lei 14.133/2021:
+         XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e
+         serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o
+         de maior desconto;
+A alternativa (B) também está errada. A concorrência, também modalidade prevista na Nova Lei
+de Licitações e Contratos, é definida como:
+         XXXVIII - concorrência: modalidade de licitação para contratação de bens e
+         serviços especiais e de obras e serviços comuns e especiais de engenharia(...)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           142
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Quanto à alternativa (C), está correta. De fato, trata-se da transcrição da definição legal de
+concurso, conforme a Lei 14.133/2021:
+        XXXIX - concurso: modalidade de licitação para escolha de trabalho técnico,
+        científico ou artístico, cujo critério de julgamento será o de melhor técnica ou
+        conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor;
+A alternativa (D), do mesmo modo, está incorreta. Leilão é outra modalidade licitatória prevista
+na Lei 14.133/2021, mas que não se amolda do disposto no enunciado:
+        XL - leilão: modalidade de licitação para alienação de bens imóveis ou de bens
+        móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance;
+Finalmente, a alternativa (E) está incorreta, visto que nem ao menos é uma modalidade de
+licitação, mas sim um regime de execução de obras e serviços de engenharia:
+        XXX - empreitada integral: contratação de empreendimento em sua
+        integralidade, compreendida a totalidade das etapas de obras, serviços e
+        instalações necessárias, sob inteira responsabilidade do contratado até sua
+        entrega ao contratante em condições de entrada em operação, com
+        características adequadas às finalidades para as quais foi contratado e atendidos
+        os requisitos técnicos e legais para sua utilização com segurança estrutural e
+        operacional;
+Gabarito (C)
+41.​   FCC/TRT 14 - TJ - Administrativa - 2022
+A Lei nº 14.133/2021 traz expressamente em seu texto os princípios a serem observados nas
+licitações públicas. O princípio que implica na vedação à concentração de atribuições em um
+único sujeito e a exigência do fracionamento do exercício de funções mais suscetíveis a riscos
+entre uma multiplicidade de agentes públicos, de modo a reduzir a possibilidade de ocultação de
+erros e de ocorrência de fraudes na respectiva contratação denomina-se
+a) razoabilidade.
+b) competitividade.
+c) julgamento objetivo.
+d) julgamento nacional sustentável.
+e) segregação de funções.
+Comentários:
+Aqui era necessário memorização e conhecimento acerca do princípio da segregação de funções.
+O princípio da separação de funções é um conceito fundamental da administração pública, que
+visa a garantir a imparcialidade, a transparência e a eficiência na tomada de decisões e na
+prestação de serviços públicos. Esse princípio estabelece que as diferentes funções da
+administração pública, tais como o planejamento, a execução, o controle, devem ser
+desempenhadas por órgãos e pessoas distintas, a fim de evitar conflitos de interesses e
+corrupção. Diante do exposto, conclui-se que a alternativa (E) está correta.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         143
+        www.estrategiaconcursos.com.br                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+A alternativa (A), por sua vez, está incorreta. O princípio da razoabilidade é um conceito
+fundamental na administração pública, que exige que as decisões e ações da administração
+sejam guiadas pelo bom senso, pelo equilíbrio entre os interesses envolvidos e pela busca da
+melhor solução para a sociedade.
+Esse princípio implica que a administração pública deve agir de forma proporcional, equilibrada
+e justa, levando em consideração os direitos e interesses da sociedade, bem como os limites
+impostos pela legislação e pela Constituição.
+A alternativa (B) também está equivocada. A competitividade é um dos pilares fundamentais dos
+processos licitatórios na administração pública. Ele tem como objetivo garantir que os contratos
+públicos sejam celebrados com base na oferta mais vantajosa para a sociedade, ou seja, que
+sejam obtidos os melhores preços, prazos e condições para a prestação de serviços e
+fornecimento de bens.
+Esse princípio implica que os processos licitatórios devem ser realizados de forma aberta,
+transparente e justa, com ampla participação de fornecedores e prestadores de serviços
+interessados em concorrer.
+No que se refere à alternativa (C), está incorreta. O princípio do julgamento objetivo consiste na
+avaliação das propostas de maneira isenta, imparcial e equitativa, sem favorecimento ou
+preconceito a nenhum participante. Este princípio é fundamental para garantir a transparência, a
+integridade e a lisura da licitação, pois assegura que as propostas serão avaliadas de acordo com
+critérios claros e previamente estabelecidos, sem influência de interesses pessoais ou de
+terceiros.
+A alternativa (D) também está equivocada. Cabe salientar que não há principio do julgamento
+nacional sustentável, mas sim do desenvolvimento nacional sustentável. Esse princípio busca
+conciliar o crescimento econômico com a preservação do meio ambiente e a melhoria das
+condições de vida da população. É aplicável aos processos licitatórios, onde se busca identificar
+e premiar as empresas que apresentem soluções tecnológicas e inovadoras que contemplem
+este conceito. Também se encontra presente nos critérios de desempate.
+Gabarito (E)
+42.​    FCC/TRT 4 - AJ - Apoio Especializado - Engenharia Elétrica - 2022
+De acordo com a Lei nº 14.133/2021, considere as proposições abaixo, que trata dos objetivos
+do processo licitatório.
+I. Assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a
+Administração Pública, inclusive no que se refere ao ciclo de vida do objeto.
+II. Assegurar tratamento isonômico entre os licitantes, bem como a justa competição.
+III. Evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e
+superfaturamento na execução dos contratos.
+IV. Incentivar a inovação e o desenvolvimento nacional sustentável.
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) II, III e IV, apenas.
+
+
+         Receita Federal (Analista Tributário) Direito Administrativo                          144
+         www.estrategiaconcursos.com.br                                                        195
+
+                                       
+
+
+---
+
+   Antonio Daud
+   Aula 09
+
+d) I, III e IV, apenas.
+e) I, II, III e IV.
+Comentários:
+Seria necessário decorar os objetivos expressos na Nova Lei de Licitações e Contratos para
+conseguir responder de maneira segura. Já lhes adianto que todas as proposições estão corretas,
+conforme dispõe o art. 11 da referida Lei:
+           Art. 11. O processo licitatório tem por objetivos:
+           I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais
+           vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de
+           vida do objeto;
+           II - assegurar tratamento isonômico entre os licitantes, bem como a justa
+           competição;                                     ==219a34==
+
+           III - evitar contratações com sobrepreço ou com preços manifestamente
+           inexequíveis e superfaturamento na execução dos contratos;
+           IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+Por conseguinte, a alternativa (E) está correta.
+Gabarito (E)
+43.​     QUESTÕES INÉDITAS/DAUD
+Assinale abaixo o ente público ao qual NÃO se aplica a nova lei de licitações e contratos:
+(A) tribunal de justiça.
+(B) câmara de vereadores.
+(C) empresa pública.
+(D) autarquia federal.
+Comentários:
+As licitações das empresas públicas e sociedades de economia mista são regidas pela Lei
+13.303/2016 – e não pela Lei 14.133/2021 – de sorte que o gabarito está na letra (C).
+Os entes mencionados nas demais alternativas estão alcançados pelas regras da nova lei de
+licitações, com fundamento em seu artigo 1º, caput.
+Gabarito (C)
+44.​     QUESTÕES INÉDITAS/DAUD
+A nova lei de licitações
+(A) entrará em vigor dentro do prazo de dois anos após sua publicação.
+(B) impede a adoção de qualquer outro regime licitatório.
+(C) permite aos órgãos públicos mesclarem as novas regras com aquelas constantes da Lei
+8.666/1993.
+(D) não se encontra em vacatio legis.
+
+
+          Receita Federal (Analista Tributário) Direito Administrativo                        145
+          www.estrategiaconcursos.com.br                                                      195
+
+                                        
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Comentários:
+ A Lei 14.133/2021 está em vigor desde sua publicação, não havendo vacatio legis (Lei
+14.133/2021, art. 194).
+Além disso, mesmo que os órgãos possam optar entre as regras da nova lei e aquelas da Lei
+8.666/1993, a lei veda que sejam mescladas regras de regimes distintos (art. 191).
+Gabarito (D)
+45.​   QUESTÕES INÉDITAS/DAUD
+NÃO é objetivo da nova lei de licitações:
+(A) assegurar a justa competição.
+(B) assegurar tratamento isonômico entre os licitantes.
+(C) evitar o sobrepreço e o superfaturamento.
+(D) incentivar contratações com preços inexequíveis.
+Comentários:
+Nos termos do art. 11, entre os vários objetivos da licitação, um deles é EVITAR contratações
+inexequíveis. Relembrando:
+
+Gabarito (D)
+46.​   QUESTÕES INÉDITAS/DAUD
+Tratar-se do documento utilizado para definir e dimensionar a obra ou o serviço:
+(A) Projeto Básico
+(B) Projeto Executivo
+(C) Anteprojeto
+(D) Estudo Técnico Preliminar (ETP)
+Comentários:
+O documento que é utilizado para definir e dimensionar a obra ou o serviço é o projeto básico,
+mencionado no art. 6º, XXV, da Lei 14.133/2021, de sorte que a letra (A) está correta.
+O projeto executivo, por outro lado, detalha ainda mais o projeto básico, a ponto de permitir a
+completa execução da obra (art. 6º, XXVI). Portanto, a letra (B) está incorreta.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                        146
+        www.estrategiaconcursos.com.br                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+O anteprojeto, nem sempre necessário, representa uma versão mais simples, mais inicial, dos
+estudos relacionados à solução a ser contratada. Em síntese, o anteprojeto seria um mero
+esboço. Nos termos do art. 6º, XXIV, da NLL, anteprojeto consiste na peça técnica com todos os
+subsídios necessários à elaboração do projeto básico. Portanto, a letra (C) está incorreta.
+Por fim, a letra (D) está incorreta, porquanto o estudo técnico preliminar, embora contenha
+insumos para elaboração do projeto básico (ou do anteprojeto, se for o caso), não chega ao
+ponto de definir ou dimensionar a obra/serviço.
+Gabarito (A)
+47.​   QUESTÕES INÉDITAS/DAUD
+De acordo com as disposições estabelecidas na Lei 14.133/2021, a contratação semi-integrada é
+o regime de execução em que o contratado é responsável por elaborar e desenvolver o projeto
+básico, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e
+realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a
+entrega final do objeto.
+( )Certo
+( )Errado
+Comentários:
+A assertiva se encontra errada. A Lei 14.133/2021traz de novidades, em relação à Lei
+8.666/1993, novos regimes de execução do objeto da licitação. Um deles é a contratação
+semi-integrada, que já é previsto na Lei das Estatais. Neste regime, conforme o art. 6º, XXXIII, o
+contratado não é responsável pela elaboração do projeto básico, mas sim do projeto executivo.
+Vejamos:
+         Art. 6º Para os fins desta Lei, consideram-se: (...)
+         XXXIII – contratação semi-integrada: regime de contratação de obras e serviços
+         de engenharia em que o contratado é responsável por elaborar e desenvolver o
+         projeto executivo, executar obras e serviços de engenharia, fornecer bens ou
+         prestar serviços especiais e realizar montagem, teste, pré-operação e as demais
+         operações necessárias e suficientes para a entrega final do objeto;
+Atenção para não confundirmos com a contratação integrada, que já tinha sido elencada na Lei
+que instituiu o Regime Diferenciado de Contratações, Lei 12.462/11. Neste, sim, o contratado é
+responsável pela elaboração tanto do projeto básico quanto do projeto executivo, além das
+demais etapas necessárias e suficientes para a entrega final do objeto.
+                                Anteprojeto                  Projeto Básico            Projeto Executivo
+        Regra geral             Não é exigido                          Administração elabora
+
+        Contratação
+                                Não é exigido             Administração elabora        Contratado elabora
+       semi-integrada
+        Contratação             Administração
+                                                                           Contratado elabora
+         integrada                elabora
+Gabarito (E)
+
+        Receita Federal (Analista Tributário) Direito Administrativo                                        147
+        www.estrategiaconcursos.com.br                                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+48.​   QUESTÕES INÉDITAS/DAUD
+Conforme disposições estabelecidas na Lei 14.133/2021, o orçamento detalhado do custo global
+da obra é item obrigatório caso a Administração determine que o regime de execução do objeto
+da licitação seja contratação por tarefa. Entretanto, se a escolha fosse o regime de contratação
+integrada, o fornecimento de tal orçamento não seria de cunho obrigatório.
+( )Certo
+( )Errado
+Comentários:
+A alternativa está correta. A Lei 14.133/2021, em seu art. 6º, XXV, alínea f, dispõe sobre a
+obrigatoriedade do orçamento detalhado do custo global da obra. De acordo com o referido
+dispositivo, o fornecimento de tal orçamento é obrigatório nos seguintes regimes de execução:
+empreitada por preço unitário, empreitada por preço global, empreitada integral, contratação
+por tarefa e fornecimento e prestação de serviço associado.
+Portanto, tanto na contratação integrada quanto na contratação semi-integrada não é obrigatório
+a presença do referido orçamento.
+Gabarito (C)
+49.​   QUESTÕES INÉDITAS/DAUD
+Segundo a Lei 14.133/2021, a licitação será conduzida por agente de contratação, pessoa
+designada pela autoridade competente, entre servidores efetivos ou empregados públicos dos
+quadros permanentes da Administração Pública. No caso de licitação que envolva bens ou
+serviços especiais o agente de contratação poderá ser substituído por comissão de contratação
+formada por, no mínimo, três membros.
+( )Certo
+( )Errado
+Comentários:
+A alternativa está correta, de acordo com o caput e o § 2º do art. 8º da Lei 14.133/2021.
+Vejamos:
+        Art. 8º A licitação será conduzida por agente de contratação, pessoa designada
+        pela autoridade competente, entre servidores efetivos ou empregados públicos
+        dos quadros permanentes da Administração Pública, para tomar decisões,
+        acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e
+        executar quaisquer outras atividades necessárias ao bom andamento do certame
+        até a homologação.
+        (...)
+        § 2º Em licitação que envolva bens ou serviços especiais, desde que observados
+        os requisitos estabelecidos no art. 7º desta Lei, o agente de contratação poderá
+        ser substituído por comissão de contratação formada por, no mínimo, 3 (três)
+        membros, que responderão solidariamente por todos os atos praticados pela
+        comissão, ressalvado o membro que expressar posição individual divergente
+
+        Receita Federal (Analista Tributário) Direito Administrativo                         148
+        www.estrategiaconcursos.com.br                                                       195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        fundamentada e registrada em ata lavrada na reunião em que houver sido
+        tomada a decisão.
+Gabarito (C)
+50.​   QUESTÕES INÉDITAS/DAUD
+Segundo a Lei 14.133/2021, a pessoa jurídica que tenha sido judicialmente condenada por
+exploração de trabalho infantil, com trânsito em julgado, não poderá disputar nenhuma licitação
+após a sua condenação.
+( )Certo
+( )Errado
+Comentários:
+A assertiva está errada. O art. 14, VI, da Lei 14.133/2021 dispõe sobre a situação elencada na
+questão. De fato, a referida norma traz a vedação da participação de processos licitatórios de
+uma pessoa jurídica ou física que tenha sido condenada judicialmente, com trânsito em julgado,
+por exploração de trabalho infantil. Entretanto, essa proibição não é eterna. Existe um lapso
+temporal de 5 anos entre a condenação e a divulgação do edital:
+        Art. 14. Não poderão disputar licitação ou participar da execução de contrato,
+        direta ou indiretamente:
+        (...)
+        VI – pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do
+        edital, tenha sido condenada judicialmente, com trânsito em julgado, por
+        exploração de trabalho infantil, por submissão de trabalhadores a condições
+        análogas às de escravo ou por contratação de adolescentes nos casos vedados
+        pela legislação trabalhista.
+Como podemos perceber pela leitura do inciso VI do art. 14, caso a divulgação do edital de uma
+licitação se dê, por exemplo, sete anos após a condenação, tal pessoa jurídica não seria proibida
+de participar desse certame. Logo, a assertiva peca ao afirmar que a pessoa jurídica não poderá
+disputar nenhuma licitação após a sua condenação.
+Gabarito (E)
+51.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+O orçamento estimado da contratação, desde que justificadamente, poderá ter caráter sigiloso,
+inobstante tal sigilo não prevaleça para os órgãos de controle interno e externo.
+( )Certo
+( )Errado
+Comentários:
+A alternativa está correta. A Lei 14.133/2021 traz em seu art. 24, I, a possibilidade de o
+orçamento da contratação ser sigiloso. Além disso, o controle realizado tanto pelos órgãos de
+controle interno e externo não é prejudicado por esse sigilo do orçamento. Resumindo:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                          149
+        www.estrategiaconcursos.com.br                                                        195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Gabarito (C)
+52.​   FGV/TCE-AM – Auditor - 2021
+Os procedimentos licitatórios devem observar os princípios expressos e implícitos da
+Administração Pública.
+Além disso, a nova Lei de Licitações (Lei nº 14.133/2021) trouxe princípios que devem ser
+aplicados de forma direta às licitações públicas, como o princípio:
+(A) da segregação de funções, com a separação das competências e das atividades de cada
+servidor ao longo do procedimento licitatório e de suas fases, para evitar equívocos, fraudes e
+utilização irregular de verba pública;
+(B) da vinculação ao edital, que estabelece normas que obrigam os interessados em participar da
+licitação, mas não a Administração Pública, que tem discricionariedade para alterar o edital, a
+qualquer tempo;
+(C) do julgamento objetivo, devendo a Administração contratante julgar e escolher o vencedor
+de acordo com o critério previsto no edital, que não pode, em qualquer hipótese, indicar modelo
+ou marca;
+(D) da vedação ao sigilo da proposta, segundo o qual todas as propostas feitas pelos
+interessados devem ser imediatamente publicadas, sob pena de nulidade do certame e
+realização de nova licitação;
+(E) do planejamento, que estabelece que os procedimentos licitatórios devem estar compatíveis
+com o planejamento estratégico do órgão contratante e ser previamente autorizados pelos
+órgãos de controle interno e externo.
+Comentários:
+A alternativa (A) está correta. De fato, o princípio da segregação de funções busca não
+concentrar atividades sensíveis da licitação/contratação nas mãos de um único servidor:
+        Art. 7º, § 1º A autoridade referida no caput deste artigo deverá observar o
+        princípio da segregação de funções, vedada a designação do mesmo agente
+        público para atuação simultânea em funções mais suscetíveis a riscos, de modo a
+        reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na
+        respectiva contratação.
+A alternativa (B) está incorreta, pois o princípio da vinculação ao edital consiste em garantia tanto
+para os licitantes (de que o poder público irá seguir fielmente as regras editalícias sem margem
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                              150
+        www.estrategiaconcursos.com.br                                                            195
+
+                                      
+
+
+---
+
+      Antonio Daud
+      Aula 09
+
+para discricionariedade) como para a Administração1 (já que os licitantes poderão ser
+desclassificados/inabilitados se descumprirem as regras do edital).
+A alternativa (C) está incorreta. De fato, por força do julgamento objetivo, o julgamento das
+propostas deve se basear unicamente no critério previsto no edital (como menor preço, técnica e
+preço etc), sem margem para subjetivismos. O erro da alternativa, no entanto, é afirmar que "em
+qualquer hipótese" não se poderia indicar modelo ou marca, pois a lei permite, em determinadas
+situações, a indicação. Um exemplo disso ocorre nas compras, em que a indicação de marca seria
+possível, de modo justificado, nas seguintes hipóteses (art. 41, I):
+
+A alternativa (D) está incorreta. Apesar de não estar expresso na Lei 14.133, vale destacar - ao
+contrário do mencionado na alternativa – que o princípio do sigilo das propostas, já era
+reconhecido sob a égide da Lei 8.666/1993. De toda forma, na nova lei, por meio da chamada
+“publicidade diferida”, o legislador assegurou o sigilo das propostas apresentadas pelos
+licitantes:
+                Art. 13, parágrafo único. A publicidade será diferida:
+              I – quanto ao conteúdo das propostas, até a respectiva abertura;
+Por fim, a alternativa (E) está incorreta, pois não se exige que os órgãos de controle autorizem
+previamente a realização de cada licitação. Na verdade, a jurisprudência do STF veda que se
+condicione a validade de atos e contratos à conclusão da etapa de controle (STF/ADI 916).
+Gabarito (A)
+53.​ IBFC/INDEA-MT - Fiscal Estadual de Defesa Agropecuária e Florestal - Engenheiro
+Agrônomo - 2022
+Há várias modalidades de licitação na Administração Pública. Assinale a alternativa que apresente
+a modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de
+julgamento poderá ser o de menor preço ou o de maior desconto.
+A) Concorrência
+B) Concurso
+C) Leilão
+D) Pregão
+
+1
+    FILHO, José dos Santos Carvalho. Manual de Direito Administrativo. 27ª ed. Atlas. P. 250
+
+              Receita Federal (Analista Tributário) Direito Administrativo                     151
+              www.estrategiaconcursos.com.br                                                   195
+
+                                                 
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Comentários:
+O pregão é a modalidade destinada à aquisição de bens e serviços comuns, sendo que, a partir
+da Lei 14.133/2021, passou a constar de lei a possibilidade de utilização dos critérios do (i) menor
+e do (ii) maior desconto.
+Gabarito (D)
+54.​   QUESTÕES INÉDITAS/DAUD
+NÃO é modalidade licitatória prevista na nova lei de licitações:
+(A) concorrência.
+(B) concurso.
+(C) consulta.
+(D) diálogo competitivo.
+Comentários:
+Questão sem grandes dificuldades.
+A “consulta”, mencionada na letra (C), não é modalidade licitatória prevista na nova lei de
+licitações. Trata-se de modalidade licitatória restrita a agências reguladoras (Lei 9.472/1997, art.
+55).
+As demais alternativas mencionam corretamente modalidades previstas no art. 28 da Lei
+14.133/2021, sendo que poderíamos ainda acrescer o leilão e o pregão.
+Gabarito (C)
+55.​   QUESTÕES INÉDITAS/DAUD
+Assinale, abaixo, uma característica do pregão:
+(A) possibilidade de adoção do critério “técnica e preço”.
+(B) condução por agente de contratação ou comissão de contratação.
+(C) obrigatoriedade de adoção para contratação de serviços de engenharia comuns.
+(D) inviabilidade de adoção para aquisição de bens especiais.
+Comentários:
+A letra (A) está incorreta, pois o pregão é modalidade licitatória que admite, apenas, os critérios
+“menor preço” e “maior desconto”. Além disso, o agente responsável pela condução do pregão
+é designado pregoeiro (art. 8º, §5º), de sorte que a letra (B) está incorreta.
+A letra (C) se equivoca na medida em que é facultativa a adoção do pregão para serviços comuns
+de engenharia, sendo inviável sua adoção para objetos especiais (art. 29, parágrafo único), o que
+indica a correção da letra (D).
+Gabarito (D)
+56.​   QUESTÕES INÉDITAS/DAUD
+NÃO é característica própria do diálogo competitivo:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             152
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+(A) obrigatoriedade de ser conduzido por comissão formada por, no mínimo, 3 servidores efetivos
+ou empregados dos quadros permanentes.
+(B) apresentação da proposta final após o encerramento dos diálogos.
+(C) existência de dois editais.
+(D) possibilidade de participação de licitantes que não participaram da etapa dos diálogos.
+Comentários:
+Os três primeiros itens, de fato, mencionam características do “diálogo competitivo”, previstas no
+art. 32 da Lei 14.133/2021.
+Por outro lado, o inciso VIII do §1º do art. 32, em sua parte final, estabelece que todos os
+licitantes pré-selecionados poderão apresentar propostas, o que naturalmente excluiria aqueles
+que não participaram da fase anterior. Relembrando as principais regras desta modalidade:
+
+Gabarito (D)
+57.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+A concorrência, por destinar-se a contratação de objetos de materialidade elevada, não admite a
+adoção do critério menor preço.
+( )Certo
+( )Errado
+
+
+        Receita Federal (Analista Tributário) Direito Administrativo                           153
+        www.estrategiaconcursos.com.br                                                         195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Comentários:
+Não é bem assim. Primeiramente, vale lembrar que a concorrência não é mais adotada em razão
+do valor da licitação, de sorte que não mais será destinada a objetos de materialidade elevada.
+Além disso, em relação aos critérios de julgamento, na concorrência é viável a adoção de todos
+os critérios de julgamento previstos na NLL, à exceção do “maior lance” (que é exclusivo do
+leilão):
+
+Gabarito (E)
+58.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+Leilão representa a modalidade de licitação para alienação de bens imóveis ou de bens móveis
+inservíveis ou legalmente apreendidos a quem oferecer o maior lance.
+( )Certo
+( )Errado
+Comentários:
+O item está de acordo com a literalidade do art. 6º, inciso XL, da Lei 14.133/2021, de sorte que
+está correta. De toda forma, lembro que, a partir da leitura dos incisos I e II do art. 76, o leilão
+poderá ser utilizado para alienações em geral.
+Gabarito (C)
+59.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+São modalidades de licitação a concorrência, a tomada de preços, o convite, o concurso e o
+leilão.
+( )Certo
+( )Errado
+Comentários:
+A assertiva está errada. Na nova lei de licitações, Lei 14.133/2021, a tomada de preços e o
+convite não existem como modalidades de licitação, diferentemente da Lei 8.666/1993. Como
+novidade temos a exclusão das modalidades de tomada de preço e convite e a inclusão do
+diálogo competitivo, bem como a incorporação do pregão ao texto da lei geral. As modalidades
+existentes na nova lei de licitações são aquelas que estão elencadas no art. 28:
+
+        Receita Federal (Analista Tributário) Direito Administrativo                             154
+        www.estrategiaconcursos.com.br                                                           195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+Gabarito (E)
+60.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+O pregão não se aplica às contratações de serviços técnicos especializados de natureza
+intelectual e serviços comuns de engenharia.
+( )Certo
+( )Errado
+Comentários:
+A assertiva está errada, na medida em que os serviços comuns de engenharia podem ser objeto
+de um pregão ou concorrência. A Lei 14.133/2021 traz, no parágrafo único do art. 29, as
+vedações à adoção do pregão:
+        Art. 29, Parágrafo único. O pregão não se aplica às contratações de serviços
+        técnicos especializados de natureza predominantemente intelectual e de obras e
+        serviços de engenharia, exceto os serviços de engenharia de que trata a alínea
+        “a” do inciso XXI do caput do art. 6º desta Lei [serviços comuns de engenharia].
+Gabarito (E)
+61.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+A administração optou por contratar leiloeiro oficial para realizar um leilão na cidade de
+Pirassununga/SP. Nesse caso, a seleção do leiloeiro poderá ser realizada por dispensa de
+licitação.
+( )Certo
+( )Errado
+Comentários:
+A assertiva está errada, pois a contratação nesse tipo de situação deve ser mediante
+credenciamento ou licitação na modalidade pregão. É o que diz o parágrafo 1º do art. 31 da Lei
+14.133/2021. Vejamos:
+        Art. 31. O leilão poderá ser cometido a leiloeiro oficial ou a servidor designado
+        pela autoridade competente da Administração, e regulamento deverá dispor
+        sobre seus procedimentos operacionais.
+
+        Receita Federal (Analista Tributário) Direito Administrativo                        155
+        www.estrategiaconcursos.com.br                                                      195
+
+                                      
+
+
+---
+
+  Antonio Daud
+  Aula 09
+
+        § 1º Se optar pela realização de leilão por intermédio de leiloeiro oficial, a
+        Administração deverá selecioná-lo mediante credenciamento ou licitação na
+        modalidade pregão e adotar o critério de julgamento de maior desconto para as
+        comissões a serem cobradas, utilizados como parâmetro máximo os percentuais
+        definidos na lei que regula a referida profissão e observados os valores dos bens
+        a serem leiloados.
+Gabarito (E)
+62.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+Caso não seja possível à Administração definir, com precisão suficiente, as especificações técnicas
+do objeto a ser licitado, torna-se possível a adoção do diálogo competitivo.
+( )Certo
+( )Errado
+Comentários:
+A assertiva está correta, conforme o art. 32, I, alínea "c" da Lei 14.133/2021. Aproveito para
+relembrar as hipóteses de adoção do diálogo competitivo:
+
+
+Gabarito (C)
+
+63.​   QUESTÕES INÉDITAS/DAUD
+Em relação às disposições da Lei 14.133/2021, julgue o item a seguir:
+Na modalidade diálogo competitivo o prazo máximo para manifestação de interesse para
+participar da licitação é de 25 (vinte e cinco) dias úteis,

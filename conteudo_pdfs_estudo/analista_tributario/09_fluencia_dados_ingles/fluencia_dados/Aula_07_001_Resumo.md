@@ -1,0 +1,231 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 07_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '07'
+titulo_aula: RESUMO
+---
+
+# RESUMO
+
+RESUMO
+
+                            Representa dados por meio de uma linguagem matemática, utilizando teoria de conjuntos
+        MODELO
+                            e lógica de predicado de primeira ordem – ele efetivamente representa o banco de dados
+      RELACIONAL            como uma coleção de relações.
+
+
+                                                Principais Modelos de dados
+                 MODELO                                         MODELO                                        MODELO
+                 PLANO                                          EM REDE                                    HIERÁRQUIICO
+
+      Consiste em matrizes simples,             Permite que várias tabelas sejam utilizadas    Variação do Modelo em Rede que limita as
+ bidimensionais, compostas por elementos        simultaneamente por meio de referências         relações a uma estrutura semelhante à
+de dados – é a base de planilhas eletrônicas.               ou apontadores.                            estrutura de uma árvore.
+               MODELO                                           MODELO                                      MODELO
+         ORIENTADA A OBJETOS                                  relacional                             HIERÁRQUICO-RELACIONAL
+
+Trata os dados como objetos que possuem            Trata os dados como uma coleção de         Combina a simplicidade do modelo relacional
+   propriedades (atributos) e operações          tabelas compostas por linhas e colunas e      com algumas funcionalidades avançadas do
+                (métodos).                           relacionadas por meio de chaves.                 modelo orientado a objetos.
+
+
+                                                                                   Tabela/relação
+                         Coluna/atributo*
+                                                               ALUNO
+       NOME DO ALUNO                      NUMERO DO ALUNO                     TIPO DE ALUNO                         CURSO
+      Diego Carvalho                            1357981                         Bolsista                 Ciência da Computação
+      Renato da Costa                           2121578                         Regular                Engenharia da Computação
+
+                                                                    Domínio/tipo                                              Linha/tupla
+
+                           * A quantidade de colunas de uma relação é chamada de Grau ou Aridade da Relação.
+
+                                           
+
+
+---
+
+           TABELA                                    RELAÇÃO                                 representa os dados e os
+                                                                                          relacionamentos entre os dados
+
+            LINHA                                     TUPLA                            coleção ou registro de valores de dados
+                                                                                                    relacionados
+
+          COLUNA                                    ATRIBUTO                              dados que ajudam a interpretar o
+                                                                                         significado dos valores das linhas
+
+    tipo de dado                                    domínio                            descreve os tipos de valores que podem
+                                                                                            ser exibidos em uma coluna
+
+            GRAU                                    ARIDADE                             NÚMERO DE COLUNAS PRESENTES EM UMA
+                                                                                                     RELAÇÃO
+
+                          Coleção de operações de alto nível sobre relações ou conjuntos cujo resultado seja uma
+Álgebra relacional
+                          nova relação ou conjunto.
+
+
+ OPERAÇÃO       SÍMBOLO COMUTATiva        ARIDADE                              FINALIDADE
+                                                       Seleciona todas as linhas que satisfazem a condição de
+ SELEÇÃO         σ(T1)        Sim          Unária      seleção de uma Tabela T1.
+
+                                                       Produz uma nova tabela com apenas algumas das colunas de
+ PROJEÇÃO        Π(T1)        Não          Unária      uma tabela T1 e remove linhas duplicadas.
+
+                                                       Produz uma nova tabela com todas as combinações
+ PRODUTO
+                T1 X T2       Sim         Binária      possíveis de linhas de duas tabelas T1 e T2.
+CARTESIANO
+                                                       Produz uma nova tabela com todas as combinações
+  JUNÇÃO        T1 ⋈ T2       Sim         Binária      possíveis de linhas de duas tabelas T1 e T2 que satisfazem
+                                                       uma condição de seleção.
+                                                       Produz uma nova tabela que inclui todas as linhas das Tabela
+  UNIÃO         T1 ⋃ T2       Sim         Binária      T1 e T2, eliminando as duplicatas – as tabelas devem ser
+                                                       união-compatíveis.
+                                                       Produz uma tabela que inclui todas as linhas em comum das
+INTERSECÇÃO T1 ∩ T2           Sim         Binária      Tabela T1 e T2 – as tabelas devem ser união-compatíveis.
+
+                                                       Produz uma tabela que inclui todas as linhas de uma Tabela
+DIFERENÇA       T1 - T2       Não         Binária      T1 que não estão na Tabela T2 – as tabelas devem ser união
+                                                       compatíveis.
+
+
+                          É basicamente uma única tabela que é derivada de outras tabelas (reais ou virtuais). Uma
+       View               view funciona como uma tabela virtual cujo comportamento se assemelha a uma tabela
+      (visão)             real de banco de dados, no entanto sem armazenar os dados – essas estruturas sempre
+                          dependem da base de dados que está realmente armazenada fisicamente.
+
+                                     
+
+
+---
+
+                          Modo comum de melhorar o desempenho de um banco de dados, agilizando consultas por
+        Index             meio da localização ágil de um registro na tabela.
+       (índice)
+
+
+          TIPOS DE RESTRIÇÃO                                                          DESCRIÇÃO
+                                                Restringe que uma chave primária se repita – uma chave primária diferencia
+   Restrição de chave OU UNICIDADE
+                                                de forma única os registros de uma relação.
+                                                Restringe que um campo de uma relação tenha valores diferentes daqueles
+ Restrição de INTEGRIDADE DE domínio            definidos para o campo específico.
+                                                Restringe que uma chave primária tenha valores nulos (NULL). Pode ser
+ Restrição de Integridade de ENTIDADE
+                                                considerada uma subcategoria da restrição de domínio.
+                                                Restringe que a chave estrangeira de uma tabela seja inconsistente com a
+ Restrição de Integridade Referencial
+                                                chave candidata da tabela referenciada.
+
+
+        TIPOS DE chave                   Em inglês                                         descrição
+                                                         Conjunto de uma ou mais colunas que, tomadas coletivamente,
+          SUPERCHAVE                     SUPERKEY
+                                                         permitem identificar de maneira unívoca uma linha.
+                                                         Superchaves de tamanho mínimo, candidatas a serem possíveis
+       CHAVE CANDIDATA                 CANDIDATE KEY
+                                                         chaves primárias de uma tabela.
+                                                         Chaves cujas colunas são utilizadas para identificar linhas em uma
+        CHAVE PRIMÁRIA                  PRIMARY KEY
+                                                         tabela – em geral, vêm sublinhada.
+                                                         Chaves candidatas a serem possíveis chaves primárias de uma
+ CHAVE SECUNDÁRIA/alternativa          SECONDARY KEY
+                                                         tabela, mas que não foram escolhidas.
+                                                         Chaves de uma tabela que fazem referência à chave candidata de
+      CHAVE ESTRANGEIRA                 FOREIGN KEY
+                                                         outra tabela, ou até mesmo da própria tabela.
+                                                         Chaves primárias artificiais criadas para identificar de maneira
+       Chave substituta                Surrogate key
+                                                         unívoca uma linha.
+
+
+Relacionamento 1:1: trata-se de um relacionamento em que uma linha de uma tabela está
+associada com uma e apenas uma linha de outra tabela (*ou fundir ambas as tabelas).
+
+                                       É POSSÍVEL ESCOLHER QUAL TABELA RECEBERÁ A CHAVE ESTRANGEIRA
+
+                     TABELA PAÍS                                                                  TABELA CAPITAL
+       CÓDIGO PAÍS                         PAÍS                               CÓDIGO CAPITAL            CAPITAL       CÓDIGO PAÍS
+          100                            Holanda                                   123                   Hanói           500
+          200                           Austrália                                  234                Budapeste          400
+          300                           Colômbia                                   345                  nairóbi          600
+          400                            Hungria                                   456                amsterdam           100
+          500                             Vietnã                                   567                 Camberra          200
+          600                             Quênia                                   678                  Bogotá           300
+        CHAVE PRIMÁRIA (TABELA PAÍS)                                                CHAVE PRIMÁRIA (TABELA CAPITAL)
+
+                                           
+
+
+---
+
+Relacionamento 1:N: trata-se de um relacionamento em que uma linha de uma tabela está
+associada a diversas linhas de outra tabela.
+
+                           A CHAVE PRIMÁRIA DA TABELA PESSOA SE TORNA CHAVE ESTRANGEIRA DA TABELA CARTÃO
+
+                     TABELA pessoa                                                              TABELA cartão
+         CPF                           NOME                                  código           bandeira                   CPF
+    111.111.111-11                 DÉCIO TERROR                               101            MASTERCARD             111.111.111-11
+   222.222.222-22                GUILHERME NEVES                              102                VISA              333.333.333-33
+   333.333.333-33                  RICARDO VALE                               103          AMERICAN EXPRESS        555.555.555-55
+   444.444.444-44                ROSENVAL JÚNIOR                              104            DINERS CLUB           444.444.444-44
+   555.555.555-55                HERBERT ALMEIDA                              105                ELO               222.222.222-22
+   666.666.666-66                 Marcos girão                                106             hipercard            333.333.333-33
+        CHAVE PRIMÁRIA (TABELA pessoa)                                            CHAVE PRIMÁRIA (TABELA cartão)
+
+Relacionamento N:M: trata-se de um relacionamento em que várias linhas de uma tabela se
+associam a várias linhas de outra tabela.
+
+        TABELA professor                                                                                   TABELA aluno
+ Cpf professor          NOME                                                                       CPF aluno           NOME
+  111.111.111-11   DIEGO CARVALHO                                                                666.666.666-66       romário
+ 222.222.222-22    RENATO DA COSTA                     TABELA associativa                        777.777.777-77    Roberto carlos
+ 333.333.333-33     RICARDO VALE                 Cpf professor         CPF aluno                 888.888.888-88     Ronaldo fofo
+ 444.444.444-44    ROSENVAL JÚNIOR                111.111.111-11     666.666.666-66              999.999.999-99       Rivaldo
+                                                 222.222.222-22      777.777.777-77
+                                                 333.333.333-33      888.888.888-88
+                                                 444.444.444-44      999.999.999-99
+
+                                                           ATENÇÃO
+    CESPE             O CESPE – INFELIZMENTE – TEM ADOTADO O ENTENDIMENTO DE QUE A CHAVE ESTRANGEIRA
+                      REFERENCIA A CHAVE PRIMÁRIA (E, NÃO, CANDIDATA) DE OUTRA TABELA (OU DA MESMA TABELA).
+
+ REGRAS DE
+                                                                    DESCRIÇÃO
+     CODD
+  REGRA 00     Regra Fundamental/Base
+  REGRA 01     Regra da Informação
+  Regra 02     Regra de Garantia de Acesso
+  Regra 03     Regra do Tratamento Sistemático de Valores Nulos
+
+                                         
+
+
+---
+
+Regra 04   Regra do Catálogo Online baseado no Modelo Relacional
+Regra 05   Regra da Sublinguagem Ampla/Compreensiva de Dados
+Regra 06   Regra da Atualização por meio de Views
+Regra 07   Regra da Inserção, Atualização e Exclusão de Alto Nível
+Regra 08   Regra da Independência Física de Dados
+Regra 09   Regra da Independência Lógica de Dados
+Regra 10   Regra da Independência de Integridade
+Regra 11   Regra da Independência de Distribuição
+Regra 12   Regra da Não-Transposição/Subversão
+
+                                  
+
+
+---

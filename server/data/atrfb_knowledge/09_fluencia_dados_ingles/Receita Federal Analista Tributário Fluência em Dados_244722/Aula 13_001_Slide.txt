@@ -1,0 +1,1016 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+TECNOLOGIA DA INFORMAÇÃO
+
+                             Profa. Emannuelle Gouveia
+                             @Emannuellegouveia
+
+
+      https://t.me/KakashiAssinaturasBot
+BIG DATA
+ AULA 01
+
+                   Prof. Emannuelle Gouveia
+                   @Emannuelle Gouveia
+
+
+https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+      Consiste basicamente em uma tecnologia capaz de processar um grande
+ volume de dados em um curto espaço de tempo possibilitando a análise
+ desses dados, permitindo a captura, gerenciamento e a análise de um grande
+ volume de dados estruturados ou não estruturados que não podem ser
+ consultados e pesquisados através de bancos de dados relacionais.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+     Por fim, seria a captura, gerenciamento e a análise de um grande volume
+ de dados estruturados ou não estruturados que não podem ser consultados e
+ pesquisados através de bancos de dados relacionais. Frequentemente são
+ dados obtidos de arquivos não estruturados como vídeo digital, imagens,
+ dados de sensores, arquivos de logs e de qualquer tipo de dados não contidos
+ em registros típicos com campos que podem ser pesquisados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+      De acordo com Mayer-Schonberger, com a informação, assim como na
+ física, o tamanho importa. Desse modo, ao combinar centenas de bilhões de
+ termos de busca, o Google mostrou ser capaz de identificar o surgimento de
+ um surto de gripe quase tão bem quanto os dados oficiais com base nos
+ pacientes que visitam o médico e pôde gerar uma resposta quase em tempo
+ real, muito mais rápido que as fontes oficiais.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+     Do mesmo modo, pode-se prever a volatilidade do preço de uma
+ passagem de avião e, assim, dar um poder econômico significativo para os
+ consumidores. No entanto, ambos só conseguem isso pela análise de centenas
+ de bilhões de dados. Esses dois exemplos mostram o valor científico do Big
+ Data, assim como a medida em que eles podem se tornar fonte de valor
+ econômico. Essa quantidade massiva de dados tem influenciado áreas como
+ saúde, governo, educação, etc.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+      Os dados coletados podem ser armazenados em um Data Warehouse ou
+ em um Data Lake (Lago de Dados).
+      Data Lake é um grande repositório capaz de armazenar dados
+ estruturados, semi-estruturados e não-estruturados, assim como um método
+ para organizar grandes volumes de dados de diversos formatos e de diversas
+ fontes diferentes.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+      Para o armazenar esse imenso volume de dados, soluções de nuvens pode
+ ser uma excelente alternativa para as organizações, uma vez que isso envolve
+ coleta, armazenamento e compartilhamento de um número gigantesco de
+ informações e a possibilidade do acesso rápida aos resultados dos
+ cruzamentos desses dados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+      De forma geral, as empresas utilizam o Big Data para se tornarem mais
+ competitivas e esperam com isso, algo essencial para o sucesso: errar menos,
+ e, quando tiver sido inevitável, aprender com o erro.
+      Ter um sistema de computação em nuvem é condição para se trabalhar
+ bem com um grande volume de dados, uma vez que isso envolve coleta,
+ armazenamento e compartilhamento de um número gigantesco de
+ informações, e, além disso, a constante necessidade de conhecer o resultado
+ das ações de um negócio, muitas vezes, imediatamente, torna essa relação
+ entre Cloud Computing e Big Data extremamente harmoniosa.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ Podemos afirmar que a definição de Big Data pode ser quebrada em cinco
+ dimensões, quais sejam: Volume, Velocidade, Variedade, Veracidade e Valor.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ 2.1 – Volume:
+      Temos uma imenso volume de dados sendo gerado a cada segundo e uma
+ tendência de um aumento ainda maior desse processo, a tecnologia do Big
+ Data serve exatamente para lidar com esse volume massivo de dados,
+ guardando-os em diferentes localidades e juntando-os através de software,
+ buscando torná-los úteis as tomadas de decisões.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ 2.2 – Velocidade
+      Refere-se à velocidade com que os dados são criados. O Big Data serve
+ para analisar os dados no instante em que são criados, em tempo real, sem ter
+ de armazená-los.
+      O volume de dados é gigantesco, mas a velocidade em que esses dados
+ são produzidos e se tornam desatualizados é vertiginosa, por isso o segundo
+ desafio do Big Data é o timing do processamento desses dados alcançando
+ formas de trabalhar o processamento dessas informações em tempo real para
+ que elas sejam o mais úteis possível.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ 2.3 – Variedade
+      Antes, a maior parte dos dados utilizados por organizações era
+ estruturado e podia ser facilmente armazenado em tabelas de bancos de dados
+ relacionais, mas hoje não. Hoje dispomos de dados provenientes das mais
+ diversas fontes que não seguem um único padrão e nem fornecem todos o
+ mesmo tipo de informações, tornando a tarefa de compilar esses dados em um
+ banco de dados tradicional inviável, daí o desafio é desenvolver novas
+ ferramentas de análise que respondam à heterogeneidade dos dados.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ 2.4 – Veracidade
+      Um dos pontos mais importantes de qualquer informação é que ela seja
+ verdadeira, não é possível controlar todos os dados criados, mas com análises
+ e estatísticas de grandes volumes de dados é possível compensar as
+ informações incorretas ou que estejam desatualizadas e esse é o desafio.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+ 2.5 – Valor
+      O desafio aqui é tornar a massa de dados relevante à tomada de decisões,
+ sabendo analisar o custo benefício real dos dados para a organização.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – PREMISSAS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+
+      Big Data Analytics é o estudo e interpretação de grandes quantidades de
+ dados armazenados com a finalidade de extrair padrões de comportamento
+ utilizando uma combinação de sistemas de softwares matemáticos de alta
+ tecnologia que juntos são capazes de tratar dados estruturados e
+ não-estruturados, analisá-los e extrair um significado de alto valor para
+ organizações auxiliando empresas privadas ou administradores de órgãos
+ públicos a entender seus usuários, perceber novas oportunidades, melhorar na
+ prestação de serviços e mitigar possíveis fraudes.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+
+ Big data X Business Intelligence
+     O objetivo de ambos é ajudar uma organização a tomar boas decisões por
+ meio da análise de dados, mas o segundo ajuda a encontrar as respostas para
+ as perguntas de negócios que já conhecemos, enquanto o primeiro nos ajuda a
+ encontrar as perguntas e respostas que nem sequer sabíamos que existiam,
+ por meio de padrões, correlações desconhecidas, tendências de mercado e
+ preferências de consumidores.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+
+     Ambos possuem grande importância, complementam-se e devem ser bem
+ entendidos para que as empresas possam aproveitá-los da melhor forma,
+ agregando e alcançando os valores e resultados desejados aos negócios.
+     Esse tipo de trabalho lida com volumes gigantescos de dados e utiliza
+ técnicas de IA nesse processo.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+        A Análise Preditiva é capaz de identificar o relacionamento existente
+   entre os componentes de um conjunto de dados, utilizando algoritmos
+   sofisticados, com o intuito de identificar padrões de comportamento ao
+   examinar automaticamente grandes quantidades de dados agrupando
+   estatísticas e dados armazenados, fornecendo previsões e indicando padrões e
+   tendências comportamentais.
+        Dessa forma, com o avanço de tecnologias que possibilitam a mineração
+   de dados, a Análise Preditiva conta com cada vez mais segurança e precisão
+   para descobrir padrões e avaliar a probabilidade de um resultado ou
+   acontecimento futuro, diferentemente da simples análise descritiva de dados,
+   que apenas mede e apresenta resultados passados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+       Uma dúvida comum é sobre a diferença entre Business Intelligence, Big
+   Data Analytics e Data Mining.
+       Alguns autores consideram um é a evolução do anterior, abrangendo
+   mais dados e ferramentas matemáticas/estatísticas; outros afirmam que, na
+   verdade, é tudo a mesma coisa e que possuem nomes diferentes apenas por
+   uma questão de marketing: vende mais dizer que uma ferramenta de software
+   é uma solução de Big Data Analytics do que uma solução de Data Mining.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA –ANALYTICS
+        Apesar de estarmos apenas nos primórdios do Big Data, ele é utilizado
+   diariamente.
+        Filtros antispam são projetados para se adaptarem automaticamente às
+   mudanças dos tipos de lixo eletrônico.
+        Sites de namoro formam pares com base em como suas várias
+   características correspondem às de relacionamentos anteriores.
+        O corretor automático dos smartphones analisa nossas ações e acrescenta
+   novas palavras a seus dicionários com base no que é escrito.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+                            QUESTÕES
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+       01) (Polícia Federal – 2018) Big data refere-se a uma nova geração de
+       tecnologias e arquiteturas projetadas para processar volumes muito grandes e
+       com grande variedade de dados, permitindo alta velocidade de captura,
+       descoberta e análise.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+       02) (Polícia Federal – 2018) De maneira geral, big data não se refere apenas
+       aos dados, mas também às soluções tecnológicas criadas para lidar com dados
+       em volume, variedade e velocidade significativos.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+       03) (CREF/11 – 2014) Trata-se de uma infinidade de informações não
+       estruturadas que, quando usadas com inteligência, se tornam uma arma
+       poderosa para empresas tomarem decisões cada vez melhores. As soluções
+       tecnológicas que trabalham com esse conceito permitem analisar um enorme
+       volume de dados de forma rápida e ainda oferecem total controle ao gestor
+       das informações. E as fontes de dados são as mais diversas possíveis: de
+       textos e fotos em rede sociais, passando por imagens e vídeos, até jogadas
+       específicas no esporte e até tratamentos na medicina. (http://olhardigital. uol.
+       com.br/pro/video/39376/39376)
+       O conceito definido no texto é:
+       a) Governança de TI
+       b) QoS.
+       c) Big Data
+       d) Data Center.
+       e) ITIL.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+       04) (EBSERH – 2018) As soluções de big data focalizam dados que já
+       existem, descartam dados não estruturados e disponibilizam os dados
+       estruturados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+       05) (TJ/RN – 2020) Big Data surgiu a partir da necessidade de manipular um
+       grande volume de dados e, com isso, novos conceitos foram introduzidos,
+       como o Data Lake, que:
+       a) pode ser considerado um repositório de dados relacionados, sendo,
+       portanto, um armazém de dados orientado por assunto.
+       b) pode ser considerado um conjunto de bancos de dados relacionais e com
+       relacionamentos entre tabelas de diferentes esquemas de bancos de dados.
+       c) é o resultado de sucessivas operações de mineração de dados, sendo um
+       ambiente no qual é possível ter relatórios e dashboards de maneira amigável
+       para os analistas de negócio.
+       d) é projetado para armazenar dados de diversas fontes e formatos, não
+       havendo a necessidade da definição de um esquema de dados para inserir
+       novos itens.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+       06) (TCU – 2015) Devido à quantidade de informações manipuladas, a (cloud
+       computing) computação em nuvem torna-se inviável para soluções de big
+       data.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+       07) (ANAC – 2016) Big Data é:
+
+       a) volume + variedade + agilidade + efetividade, tudo agregando + valor +
+       atualidade.
+       b) volume + oportunidade + segurança + veracidade, tudo agregando + valor.
+       c) dimensão + variedade + otimização + veracidade, tudo agregando +
+       agilidade.
+       d) volume + variedade + velocidade + veracidade, tudo agregando + valor.
+       e) volume + disponibilidade + velocidade + portabilidade, tudo requerendo -
+       valor.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+       08) (DPE/RS – 2017) Os sistemas de Big Data costumam ser caracterizados
+       pelos chamados 3 Vs, sendo que o V de:
+
+       a) Veracidade corresponde à rapidez na geração e obtenção de dados.
+       b) Valor corresponde à grande quantidade de dados acumulada.
+       c) Volume corresponde à rapidez na geração e obtenção de dados.
+       d) Velocidade corresponde à confiança na geração e obtenção dos dados.
+       e) Variedade corresponde ao grande número de tipos ou formas de dados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+      Uma arquitetura de Big Data é projetada para lidar com a ingestão
+ (consumo), processamento e análise de dados que são muito grandes ou
+ complexos para sistemas de banco de dados tradicionais.
+      O limite no qual as organizações entram no domínio do Big Data é
+ diferente, dependendo dos recursos dos usuários e de suas ferramentas. Para
+ alguns, pode significar centenas de gigabytes de dados, enquanto para outros
+ significa centenas de terabytes.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+     À medida que as ferramentas para trabalhar com grandes conjuntos de
+ dados avançam, o mesmo acontece com o significado de Big Data. Cada vez
+ mais, esse termo se relaciona com o valor que você pode extrair de seus
+ conjuntos de dados por meio de análises avançadas, em vez de estritamente o
+ tamanho dos dados, embora nesses casos eles tendam a ser bem grandes.
+      Ao longo dos anos, o que você pode fazer, ou espera-se que faça, com os
+ dados mudou, o custo do armazenamento caiu drasticamente, enquanto os
+ meios pelos quais os dados são coletados continuam crescendo.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+      Alguns dados chegam em ritmo acelerado, exigindo constantemente
+ serem coletados e observados, outros dados chegam mais lentamente, mas em
+ pedaços muito grandes, muitas vezes na forma de décadas de dados
+ históricos.
+      Pode-se estar enfrentando um problema de análise avançada ou um que
+ exija aprendizado de máquina.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+      As soluções de Big Data geralmente envolvem um ou mais dos seguintes
+ tipos de carga de trabalho: processamento em lote de fontes de Big Data em
+ repouso; processamento em tempo real de Big Data em movimento;
+ exploração interativa de Big Data; análise preditiva e aprendizado de
+ máquina.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+           Considere arquiteturas de big data quando precisar:
+
+  • Armazenar e processar dados em volumes muito grandes para um banco
+    de dados tradicional.
+  • Transformar dados não estruturados para análise e emissão de relatórios.
+  • Capturar, processar e analisar fluxos ilimitados de dados em tempo real ou
+    com baixa latência.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                 https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+     A maioria das arquiteturas de Big Data inclui alguns ou todos os
+ seguintes componentes.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA DE BIG DATA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+     Ao trabalhar com conjuntos de dados muito grandes, pode-se levar muito
+ tempo para executar o tipo de consultas de que os clientes precisam. Essas
+ consultas não podem ser executadas em tempo real e geralmente exigem
+ algoritmos como o MapReduce, que operam em paralelo em todo o conjunto
+ de dados. Os resultados são, então, armazenados separadamente dos dados
+ brutos e usados para consulta.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+     Uma desvantagem dessa abordagem é que ela introduz latência: se o
+ processamento levar algumas horas, uma consulta poderá retornar resultados
+ com várias horas.
+     Idealmente, obtêm-se alguns resultados em tempo real (talvez com
+ alguma perda de precisão) e combinam-se esses resultados com os resultados
+ da análise em lote.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+     A arquitetura lambda aborda esse problema criando dois caminhos para o
+ fluxo de dados em que passam todos os dados que entram no sistema:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+      Conforme é possível ver no diagrama apresentado, a camada de lote
+ alimenta uma camada de serviço que indexa a exibição em lote para consultas
+ eficientes.
+      A camada de velocidade atualiza a camada de serviço com atualizações
+ incrementais com base nos dados mais recentes.
+      Os dados que fluem para o caminho quente são limitados pelos requisitos
+ de latência impostos pela camada de velocidade, para que possam ser
+ processados o mais rápido possível e isso requer uma troca de algum nível de
+ precisão em favor de dados que estejam prontos o mais rápido possível.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+     Por exemplo: considere um cenário de IoT (Internet of Things ou Internet
+ das Coisas) em que um grande número de sensores de temperatura está
+ enviando dados de telemetria.
+     A camada de velocidade pode ser usada para processar os dados
+ recebidos pelo caminho quente (hot path).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+      Por outro lado, os dados que fluem para o caminho frio (cold path) não
+ estão sujeitos aos mesmos requisitos de baixa latência. Isso permite a
+ computação de alta precisão em grandes conjuntos de dados, o que pode
+ consumir muito tempo.
+      Eventualmente, os caminhos quentes e frios convergem para a aplicação
+ cliente de análise.
+      Se o cliente precisar exibir dados oportunos, mas potencialmente menos
+ precisos em tempo real, ele adquirirá seu resultado do caminho quente.
+      Caso contrário, ele selecionará os resultados do caminho frio para exibir
+ dados menos oportunos, mas mais precisos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+     Em outras palavras, o caminho quente tem dados para uma janela de
+ tempo relativamente pequena, após a qual os resultados podem ser atualizados
+ com dados mais precisos do caminho frio.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+      Os dados brutos armazenados na camada de lote são imutáveis. Dados de
+ entrada são sempre acrescentados aos dados existentes e dados anteriores
+ nunca são substituídos.
+      Quaisquer alterações no valor de um dado específico são armazenadas
+ como um novo registro de evento com carimbo de data/hora. Isso permite o
+ recálculo a qualquer momento ao longo do histórico dos dados coletados.
+      A capacidade de recalcular a exibição em lote a partir dos dados brutos
+ originais é importante, pois permite que novas exibições sejam criadas à
+ medida que o sistema evolui.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA LAMBDA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+     Uma desvantagem da arquitetura lambda é a sua complexidade. A lógica
+ de processamento aparece em dois lugares diferentes: os caminhos frios e
+ quentes, e usando estruturas diferentes.
+     Isso leva à lógica de computação duplicada e à complexidade do
+ gerenciamento da arquitetura para ambos os caminhos.
+     É nesse momento que surge a Arquitetura Kappa: proposta por Jay
+ Kreps, é como uma alternativa à arquitetura lambda.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+      Ela tem os mesmos objetivos básicos que a arquitetura lambda, mas com
+ uma distinção importante: todos os dados fluem através de um ÚNICO
+ caminho, usando um sistema de processamento de fluxo.
+      Existem algumas semelhanças com a camada de lote da arquitetura
+ lambda, na medida em que os dados do evento são imutáveis e todos eles são
+ coletados, em vez de um subconjunto, mas ela não realiza processamento em
+ lote (batch).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+      Os dados são consumidos como um fluxo de eventos em um log
+ unificado distribuído e tolerante a falhas. Esses eventos são ordenados e o
+ estado atual de um evento é alterado somente por um novo evento que esteja
+ sendo acrescentado.
+      Semelhante à camada de velocidade de uma arquitetura lambda, todo o
+ processamento de eventos é executado no fluxo de entrada e persiste como
+ uma exibição em tempo real.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+     Para recalcular todo o conjunto de dados (como a camada de lote faz no
+ lambda), basta reproduzir o fluxo, normalmente usando paralelismo para
+ concluir a computação em tempo hábil.
+     Essa camada, diferentemente da camada de lote, não tem começo nem
+ fim do ponto de vista temporal. Ela está continuamente processando novos
+ dados à medida que chegam.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+      Como um processo em lote pode ser entendido como um fluxo
+ (streaming) limitado, poderíamos dizer que o processamento em lote é um
+ subconjunto do processamento de streaming.
+      Essa evolução consiste em uma simplificação da Arquitetura Lambda,
+ que dá suporte tanto ao processamento batch quanto ao processamento em
+ tempo real.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+      A Arquitetura Lambda é mais adequada para tarefas que podem lidar
+ com atrasos e não exigem processamento em tempo real, enquanto a
+ Arquitetura Kappa é mais adequada para tarefas que exigem processamento
+ em tempo real.
+      Além disso, com diferentes camadas na Arquitetura Lambda (Speed
+ Layer, Batch Layer e Presentation Layer), é necessário usar diferentes
+ ferramentas e linguagens de programação, o que leva à complexidade do
+ código e ao risco de acabar tendo versões inconsistentes dos recursos de
+ processamento.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+     Uma alteração na lógica em uma camada também requer alterações na
+ outra camada.
+     Como a complexidade é algo que queremos remover de nossa arquitetura
+ em todos os momentos, inclusive no processamento de dados, a Arquitetura
+ Kappa veio com a promessa de colocar tudo em um único sistema: o Apache
+ Kafka.
+     A velocidade com que os dados podem ser processados é tremenda e a
+ simplicidade é maior.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA KAPPA
+
+      O código e alterado apenas uma vez , o que barateia custos de
+ mão-de-obra, já que menos pessoas são necessárias para manter e produzir
+ código e todos os nossos dados estão disponíveis rapidamente, sem grandes
+ atrasos, como acontece com o processamento em lote.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+     Do ponto de vista prático, a Internet das Coisas (IoT) representa qualquer
+ dispositivo conectado à Internet: PC, telefone celular, relógio inteligente,
+ termostato inteligente, geladeira inteligente, automóvel conectado, implantes
+ de monitoramento cardíaco e qualquer outra coisa que se conecte à Internet e
+ envie ou receba dados.
+     O número de dispositivos conectados cresce a cada dia, assim como a
+ quantidade de dados coletados deles.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+      Nas arquiteturas IoT podemos ter dados estão sendo coletados em
+ ambientes altamente restritos, às vezes de alta latência, ou os dados sendo
+ enviados de ambientes de baixa latência por milhares ou milhões de
+ dispositivos, exigindo a capacidade de consumir rapidamente os dados e
+ processá-los de acordo.
+      Sendo assim, planejamento adequado é necessário para lidar com essas
+ restrições e requisitos exclusivos e as arquiteturas orientadas a eventos são
+ fundamentais para soluções de IoT.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+     O diagrama a seguir mostra uma possível arquitetura lógica para IoT e
+ enfatiza os componentes de fluxo de eventos da arquitetura:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+      O gateway de nuvem consome eventos de dispositivo no limite da
+ nuvem, usando um sistema de mensagens confiável e de baixa latência,
+ podendo os dispositivos enviar eventos diretamente para o gateway de nuvem
+ ou por meio de um gateway de campo.
+      Um gateway de campo é um dispositivo ou um software especializado,
+ geralmente colocado com os dispositivos, que recebe eventos e os encaminha
+ para o gateway de nuvem podendo também pré-processar os eventos brutos
+ do dispositivo, executando funções como filtragem, agregação ou
+ transformação de protocolo.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+     Após a ingestão (consumo), os eventos passam por um ou mais
+ processadores de fluxo que podem rotear os dados (por exemplo, para o
+ armazenamento) ou executar análises e outros processamentos. A seguir estão
+ alguns tipos comuns de processamento:
+ • Gravação de dados de eventos no armazenamento a frio, para
+    arquivamento ou análise em lote.
+ • Análise de caminho quente, analisando o fluxo de eventos em (quase)
+    tempo real, para detectar anomalias, reconhecer padrões ao longo de
+    janelas de tempo de rolagem ou acionar alertas quando uma condição
+    específica ocorre no fluxo.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+  • Manipulação de tipos especiais de mensagens não telemétricas de
+    dispositivos, como notificações e alarmes.
+  • Aprendizado de máquina.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+BIG DATA – ARQUITETURA IOT
+
+      As caixas cinzas no diagrama mostram componentes de um sistema IoT
+ que não estão diretamente relacionados ao streaming de eventos, mas estão
+ incluídos aqui para uma representação completa.
+
+  • O registro do dispositivo é um banco de dados dos dispositivos
+    provisionados, incluindo as IDs do dispositivo e, geralmente, os
+    metadados do dispositivo, como a localização.
+  • A API de provisionamento é uma interface externa comum para
+    provisionamento e registro de novos dispositivos.
+  • Algumas soluções de IoT permitem que mensagens de comando e controle
+    sejam enviadas para dispositivos.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+OBRIGADA
+                             Prof. Emannuelle Gouveia
+                             @emannuellegouveia
+
+
+     https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

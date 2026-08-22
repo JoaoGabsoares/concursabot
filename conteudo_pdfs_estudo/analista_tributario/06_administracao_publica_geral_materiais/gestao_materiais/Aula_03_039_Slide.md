@@ -1,0 +1,394 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_039_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+COMPRAS
+VUNESP - II
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/Pref. Mun. Itapevi-SP/Agente/2019) Em uma rotina regular de aceitação de
+     materiais do almoxarifado, após realizada a conferência quantitativa e qualitativa do
+     material recebido, sem observação de irregularidades, o registro (lançamento) da nota
+     fiscal é importante para:
+     a) a retirada do material mediante orçamento.
+     b) a realização da baixa na relação de materiais pendentes de entrega.
+     c) o arquivamento do restante do processo de compra.
+     d) a realização da troca do material.
+     e) a realização do contato com o fornecedor para providenciar a resolução das não
+     conformidades encontradas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+        O recebimento contém
+        basicamente as fases abaixo, sendo
+        que comumente as fases 1 e 2 são
+        encaradas como uma coisa só, a
+        entrada do material. Além dela                                             Para a completa aceitação do
+                                                                                   material é fundamental que
+        temos as conferências quantitativa,
+                                                                                   ocorra a baixa dos materiais
+        qualitativa e a regularização,                                             pendentes de entrega. De
+        compondo as tradicionais 4 fases                                           acordo com a rotina
+        do recebimento                                                             de aceitação de materiais é
+                                                                                   importante que o almoxarife
+                                                                                   identifique e solicite ao
+                                                                                   responsável a conferência do
+                                                                                   material (qualitativa e
+                                                                                   quantitativamente). Após isso o
+                                                                                   responsável retira o material
+                                                                                   mediante protocolo de entrega
+                                                                                   e o almoxarife então lança a
+                                                                                   Nota Fiscal e realiza a baixa na
+                                                                                   relação de materiais pendentes
+                                                                                   de entrega. Finalmente, o
+                                                                                   almoxarife encaminha a Nota
+                                                                                   Fiscal à Divisão de Compras ou
+                                                                                   Financeiro para pagamento e
+                                                                                   arquiva o restante do processo
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                                           de compra.
+                                              
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/Pref. Mun. Itapevi-SP/Agente/2019) Em uma rotina regular de aceitação de
+     materiais do almoxarifado, após realizada a conferência quantitativa e qualitativa do
+     material recebido, sem observação de irregularidades, o registro (lançamento) da nota
+     fiscal é importante para:
+     a) a retirada do material mediante orçamento.
+     b) a realização da baixa na relação de materiais pendentes de entrega.
+     c) o arquivamento do restante do processo de compra.
+     d) a realização da troca do material.
+     e) a realização do contato com o fornecedor para providenciar a resolução das não
+     conformidades encontradas.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/CREA SP/Agente/2010) A compra de serviços está se tornando cada vez
+     mais importante na área de compras à medida que muitas organizações gastam mais
+     com fornecedores de serviços do que com fornecedores de bens. Assinale a alternativa
+     que representa uma característica relacionada à compra dos serviços.
+     a) Por sua natureza, os serviços não podem ser estocados.
+     b) Os serviços só podem ser adquiridos com a presença física de seus prestadores ou de
+     seus funcionários.
+     c) A qualidade dos serviços não pode ser especificada em termos de conformidade.
+     d) O foco da avaliação preliminar é o produto em vez do fornecedor.
+     e) O comprador se torna proprietário de um bem tangível.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/CREA SP/Agente/2010) A compra de serviços está se tornando cada vez
+     mais importante na área de compras à medida que muitas organizações gastam mais
+     com fornecedores de serviços do que com fornecedores de bens. Assinale a alternativa
+     que representa uma característica relacionada à compra dos serviços.
+     a) Por sua natureza, os serviços não podem ser estocados.
+     b) Os serviços só podem ser adquiridos com a presença física de seus prestadores ou de
+     seus funcionários.
+     c) A qualidade dos serviços não pode ser especificada em termos de conformidade.
+     d) O foco da avaliação preliminar é o produto em vez do fornecedor.
+     e) O comprador se torna proprietário de um bem tangível.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/CREA SP/Agente/2010) No relacionamento com fornecedores, o
+     compromisso de longo prazo baseado em objetivos claros e mutuamente definidos,
+     visando o esforço em termos de capacidade e competitividade mundial, é denominado
+     de:
+     a) Conluio de preços.
+     b) Monopólio de suprimentos.
+     c) Camada de fornecedores.
+     d) Parceria de suprimentos.
+     e) Cartel.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/CREA SP/Agente/2010) No relacionamento com fornecedores, o
+     compromisso de longo prazo baseado em objetivos claros e mutuamente definidos,
+     visando o esforço em termos de capacidade e competitividade mundial, é denominado
+     de:
+     a) Conluio de preços.
+     b) Monopólio de suprimentos.
+     c) Camada de fornecedores.
+     d) Parceria de suprimentos.
+     e) Cartel.
+     GABARITO - D
+
+     O compromisso mútuo e de longo prazo baseado em objetivos claros
+     e compartilhados entre fornecedores e clientes é o que pode ser
+     chamado de "parceria de suprimentos", fundamental para a obtenção
+     do maior nível possível de eficiência ao longo de toda a cadeia.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/CREA SP/Agente/2010) Uma das preocupações constantes da área de
+     compras é identificar os fornecedores e avaliar sua capacidade de atender à
+     especificação. O método de avaliação de fornecedores em que uma instituição ou
+     organização, independente do comprador ou do vendedor, visita e avalia o fornecedor
+     é denominado de:
+     a) Avaliação do desempenho anterior.
+     b) Certificação de terceiros.
+     c) Avaliação de produtos.
+     d) Consultoria.
+     e) Representação de fornecedores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/CREA SP/Agente/2010) Uma das preocupações constantes da área de
+     compras é identificar os fornecedores e avaliar sua capacidade de atender à
+     especificação. O método de avaliação de fornecedores em que uma instituição ou
+     organização, independente do comprador ou do vendedor, visita e avalia o fornecedor
+     é denominado de:
+     a) Avaliação do desempenho anterior.
+     b) Certificação de terceiros.
+     c) Avaliação de produtos.
+     d) Consultoria.
+     e) Representação de fornecedores.
+     GABARITO - B
+
+        A visita de um órgão independente, contratado para verificar as
+        especificações e capacidades produtivas do fornecedor é
+        chamada de "certificação de terceiros".
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/CREA SP/Agente/2010) A localização, o contato e a avaliação de
+     fornecedores e prestadores de serviços são de responsabilidade do executivo de
+     compras. As variáveis-tarefa que determinam a escolha do fornecedor são: qualidade,
+     quantidade, timing,
+     a) custo e preço.
+     b) custo e especialização.
+     c) serviço e especialização.
+     d) especialização e preço.
+     e) serviço e preço.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/CREA SP/Agente/2010) A localização, o contato e a avaliação de
+     fornecedores e prestadores de serviços são de responsabilidade do executivo de
+     compras. As variáveis-tarefa que determinam a escolha do fornecedor são: qualidade,
+     quantidade, timing,
+     a) custo e preço.
+     b) custo e especialização.
+     c) serviço e especialização.
+     d) especialização e preço.
+     e) serviço e preço.
+     GABARITO - E
+     Além da qualidade, da quantidade e do timing da entrega, as duas outras
+     variáveis-tarefa que determinam a escolha do fornecedor são o serviço
+     prestado (local de entrega, por exemplo) e o preço ofertado.
+     “Mantra” da ADM. Materiais -> Chiavenato: quantidade, qualidade, tempo,
+     local e preço.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/CREA SP/Agente/2010) O estabelecimento de relacionamentos
+     apropriados com fornecedores tem exigido cada vez mais a dedicação dos responsáveis
+     pela função de compras. Uma abordagem mais proativa da função de compras tem
+     como característica:
+     a) reagir às condições do mercado.
+     b) fundamentar as decisões exclusivamente no preço.
+     c) responsabilizar os fornecedores pelos problemas ocorridos.
+     d) contribuir para as especificações feitas aos fornecedores.
+     e) manter estoques excessivos como um fator de segurança em relação aos
+     fornecedores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Compras Reativas x Proativas
+ Compra Reativa (modelo antigo):                                              Compra Proativa (modelo atual):
+ •      O processo de compras é um centro de custos;                      •      O processo de compras pode adicionar valor (centro de lucro);
+ •      Os envolvidos com compras recebem as especificações;              •      Os envolvidos com compras e os fornecedores contribuem para as
+ •      O usuário rejeita materiais defeituosos;                                 especificações;
+ •      O processo de compras subordina-se à área de finanças ou          •      Os envolvidos com compras trabalham para evitar os materiais
+        de produção;                                                             defeituosos;
+ •      Os compradores respondem às condições do mercado;                 •      O processo de compras tem importante função gerencial e atua de
+ •      Os problemas são de responsabilidade dos fornecedores;                   forma estratégica;
+ •      Preço é a variável chave;                                         •      Os envolvidos com compras contribuem para o desenvolvimento dos
+ •      Ênfase no hoje;                                                          fornecedores;
+ •      Sistema de informações independente de fornecedores;              •      Os problemas são de responsabilidade compartilhada;
+ •      As especificações são feitas por projetistas ou usuários;         •      O custo total e valor são variáveis chaves;
+ •      Negociações tipo ganha-perde;                                     •      Ênfase na estratégia de longo prazo;
+ •      Muitos fornecedores = segurança;                                  •      Sistema de informações pode ser integrado aos sistemas de
+ •      Estoque excessivo = segurança;                                           fornecedores;
+ •      Informação é poder.                                               •      Compradores e fornecedores contribuem para as especificações;
+                                                                          •      Negociações tipo ganha-ganha;
+                                                                          •      Muitos fornecedores = perda de oportunidades;
+                                                                          •      Excesso de estoque = desperdício;
+                                                                          •      A informação é valiosa e compartilhada.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/CREA SP/Agente/2010) O estabelecimento de relacionamentos
+     apropriados com fornecedores tem exigido cada vez mais a dedicação dos responsáveis
+     pela função de compras. Uma abordagem mais proativa da função de compras tem
+     como característica:
+     a) reagir às condições do mercado.
+     b) fundamentar as decisões exclusivamente no preço.
+     c) responsabilizar os fornecedores pelos problemas ocorridos.
+     d) contribuir para as especificações feitas aos fornecedores.
+     e) manter estoques excessivos como um fator de segurança em relação aos
+     fornecedores.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/COREN SP/Agente/2013) A solicitação de aquisição de material efetuada
+     no âmbito interno da empresa, ao setor de compras, é denominada:
+     a) nota de empenho.
+     b) nota fiscal.
+     c) ordem de compra.
+     d) nota promissória.
+     e) edital.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/COREN SP/Agente/2013) A solicitação de aquisição de material efetuada
+     no âmbito interno da empresa, ao setor de compras, é denominada:
+     a) nota de empenho.
+     b) nota fiscal.
+     c) ordem de compra.
+     d) nota promissória.
+     e) edital.
+     GABARITO - C
+     A 1º atividade do setor de compras é o recebimento da solicitação de compras dos diversos setores
+     da organização.
+
+     A solicitação de aquisição interna é geralmente denominada “solicitação ou requisição de compra”
+     (neste caso o examinador preferiu usar Ordem de compra). Neste momento tem início a análise e
+     processamento da compra.
+
+     Atenção, pois, muitas vezes utiliza-se o termo "ordem/pedido de compra" para as solicitações
+     externas (junto a fornecedores) e não para as internas (mais comumente chamadas de
+     requisição/solicitação de compras).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

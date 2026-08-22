@@ -1,0 +1,384 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 18_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '18'
+titulo_aula: NORMAS GERAIS DE FINANÇAS PÚBLICAS
+artigos_citados:
+- ART. 163
+- ART. 164
+- ART. 167-A
+---
+
+# NORMAS GERAIS DE FINANÇAS PÚBLICAS
+
+NORMAS GERAIS DE FINANÇAS PÚBLICAS
+
+
+                                    AS FINANÇAS PÚBLICAS E OUTRAS MATÉRIAS AFINS DEVEM SER OBJETO DE LEI COMPLEMENTAR
+FINANÇAS PÚBLICAS                   (ART. 163 DA CF).
+
+
+    • RECEITA.                          ATUALMENTE, É A LEI FEDERAL Nº 4.320/64 QUE ESTATUI NORMAS GERAIS SOBRE FINANÇAS PÚBLICAS.
+    • DESPESA.
+    • CRÉDITO PÚBLICO.
+                                                  LEI ORDINÁRIA RECEPCIONADA PELA CF/88 COM STATUS DE LEI COMPLEMENTAR.
+
+
+  A COMPETÊNCIA DA UNIÃO PARA EMITIR MOEDA SERÁ EXERCIDA EXCLUSIVAMENTE PELO BANCO CENTRAL (BACEN) (ART. 164 DA CF).
+
+    É VEDADO AO BACEN CONCEDER EMPRÉSTIMOS AO TESOURO NACIONAL E A QUALQUER ÓRGÃO QUE NÃO SEJA INSTITUIÇÃO FINANCEIRA.
+
+    O BACEN PODE COMPRAR E VENDER TÍTULOS DE EMISSÃO DO TESOURO NACIONAL APENAS COM O OBJETIVO DE REGULAR A OFERTA DE
+    MOEDA OU A TAXA DE JUROS.
+
+
+                                   DA UNIÃO              DEPOSITADAS NO BANCO CENTRAL.
+    DISPONIBILIDADE DE CAIXA
+                                   DOS ESTADOS, DF, MUNICÍPIOS E DEMAIS ÓRGÃOS E EMPRESAS CONTROLADAS
+
+
+                                                   DEPOSITADAS EM INSTITUIÇÕES FINANCEIRAS
+                                                OFICIAIS, RESSALVADOS OS CASOS PREVISTOS EM LEI.                       DIREITO CONSTITUCIONAL
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              ORÇAMENTO PÚBLICO
+
+
+                         INSTRUMENTOS DE PLANEJAMENTO E ORÇAMENTO QUE REGULAM O PLANEJAMENTO E O
+                        ORÇAMENTO DOS ENTES FEDERATIVOS (UNIÃO, ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS).
+
+                                         ESTABELECE DE FORMA REGIONALIZADA AS: DIRETRIZES, OBJETIVOS E METAS (DOM) DA ADM
+PLANO PLURIANUAL (PPA)                   PÚBLICA FEDERAL PARA AS DESPESAS DE CAPITAL E OUTRAS DELAS DECORRENTES E PARA AS
+                                         RELATIVAS AOS PROGRAMAS DE DURAÇÃO CONTINUADA.
+
+         MÉDIO PRAZO.                                                                        INÍCIO DA VIGÊNCIA NO SEGUNDO EXERCÍCIO FINANCEIRO
+                                                                                             DO MANDATO DO CHEFE DO PODER EXECUTIVO.
+
+    VIGÊNCIA DE 4 (QUATRO) ANOS, NÃO COINCIDINDO COM O MANDATO PRESIDENCIAL.
+                                                                                             TÉRMINO DA VIGÊNCIA NO FIM DO PRIMEIRO EXERCÍCIO
+    PLANOS E PROGRAMAS NACIONAIS, REGIONAIS E SETORIAIS SERÃO ELABORADOS EM                  FINANCEIRO DO MANDATO SUBSEQUENTE.
+    CONSONÂNCIA COM O PPA E APRECIADOS PELO CN.
+
+
+    NENHUM INVESTIMENTO CUJA EXECUÇÃO ULTRAPASSE UM EXERCÍCIO FINANCEIRO
+    PODERÁ SER INICIADO SEM PRÉVIA INCLUSÃO NO PPA, OU SEM LEI QUE AUTORIZE A
+    INCLUSÃO, SOB PENA DE CRIME DE RESPONSABILIDADE.
+
+                                                                                                                       DIREITO CONSTITUCIONAL
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                  ORÇAMENTO PÚBLICO
+                                                                 • ELO ENTRE O PLANEJAMENTO ESTRATÉGICO (PPA) E O OPERACIONAL (LOA).
+                                                                 • COMPREENDERÁ AS METAS E PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA FEDERAL.
+                                                                 • ESTABELECERÁ AS DIRETRIZES DE POLÍTICA FISCAL E RESPECTIVAS METAS, EM CONSONÂNCIA
+                                                                   COM TRAJETÓRIA SUSTENTÁVEL DA DÍVIDA PÚBLICA.
+LEI DE DIRETRIZES ORÇAMENTÁRIAS (LDO)                            • ORIENTARÁ A ELABORAÇÃO DA LEI ORÇAMENTÁRIA ANUAL.
+                                                                 • DISPORÁ SOBRE AS ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA.
+                                                                 • ESTABELECERÁ A POLÍTICA DE APLICAÇÃO DAS AGÊNCIAS FINANCEIRAS OFICIAIS DE
+                                                                   FOMENTO.
+
+    AUTORIZA PARA A ADMINISTRAÇÃO DIRETA OU INDIRETA (RESSALVADAS AS EP E SEM):
+
+    • A CONCESSÃO DE VANTAGENS OU AUMENTOS DE REMUNERAÇÃO.
+    • A CRIAÇÃO DE CARGOS, EMPREGOS E FUNÇÕES OU ALTERAÇÃO DE ESTRUTURA DE
+      CARREIRAS.
+    • A ADMISSÃO OU CONTRATAÇÃO DE PESSOAL, A QUALQUER TÍTULO, PELOS ÓRGÃOS E
+      ENTIDADES DA ADMINISTRAÇÃO DIRETA OU INDIRETA.
+
+    LDO DEVE CONTER ANEXO COM PREVISÃO DE AGREGADOS FISCAIS E A PROPORÇÃO DOS RECURSOS PARA
+    INVESTIMENTOS QUE SERÃO ALOCADOS NA LEI ORÇAMENTÁRIA ANUAL PARA A CONTINUIDADE DAQUELES EM ANDAMENTO.
+
+             • EXERCÍCIO FINANCEIRO A QUE SE REFERE A LDO E PARA OS 2 EXERCÍCIOS SUBSEQUENTES.
+             • EXCLUSIVAMENTE PARA O ORÇAMENTO FISCAL E O DA SEGURIDADE SOCIAL DA UNIÃO.
+                                                                                                                              DIREITO CONSTITUCIONAL
+                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            ORÇAMENTO PÚBLICO
+
+
+                                                                                       • ORÇAMENTO FISCAL.
+LEI DE ORÇAMENTO ANUAL (LOA)                     COMPOSTO POR                          • ORÇAMENTO DA SEGURIDADE SOCIAL.
+                                                                                       • ORÇAMENTO DE INVESTIMENTO.
+
+                                                INSTRUMENTO PELO QUAL O PODER PÚBLICO REALIZA A PREVISÃO DE
+    ORÇAMENTO PROPRIAMENTE DITO.                RECEITAS E A FIXAÇÃO DE DESPESAS PARA O EXERCÍCIO SEGUINTE.
+
+
+                                                                                                        APESAR DISSO, É POSSÍVEL O CONTROLE ABSTRATO DE
+    LEI DE EFEITOS CONCRETOS, SEM REQUISITOS DE GENERALIDADE E ABSTRAÇÃO.                               CONSTITUCIONALIDADE DE LEIS ORÇAMENTÁRIAS (STF).
+
+
+    OS ORÇAMENTOS FISCAIS E DE INVESTIMENTOS, COMPATIBILIZADOS COM O PPA, TERÃO ENTRE SUAS FUNÇÕES A DE REDUZIR DESIGUALDADES
+    INTER-REGIONAIS.
+
+    PROJETO DA LOA DEVE SER ACOMPANHADO DE DEMONSTRATIVO REGIONALIZADO DO EFEITO, SOBRE AS RECEITAS E DESPESAS, DECORRENTE
+    DE ISENÇÕES, ANISTIAS, REMISSÕES, SUBSÍDIOS E BENEFÍCIOS DE NATUREZA FINANCEIRA, TRIBUTÁRIA E CREDITÍCIA.
+
+                                                                                                                                  DIREITO CONSTITUCIONAL
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               ORÇAMENTO PÚBLICO
+
+CONCEITO DE ORÇAMENTO E PRINCÍPIOS ORÇAMENTÁRIOS                                          O BRASIL ADOTOU O ORÇAMENTO-PROGRAMA
+
+                                                                                          INTEGRAÇÃO ENTRE PLANEJAMENTO E ORÇAMENTO.
+                                         PRINCÍPIO DA LEGALIDADE: TODAS AS LEIS ORÇAMENTÁRIAS DEVEM SER APROVADAS PELO PODER LEGISLATIVO.
+   PRINCÍPIOS ORÇAMENTÁRIOS
+                                         PRINCÍPIO DA UNIVERSALIDADE OU GLOBALIZAÇÃO: O ORÇAMENTO DEVE CONTER TODAS AS RECEITAS E TODAS
+                                         AS DESPESAS REFERENTES À ADMINISTRAÇÃO DIRETA E À INDIRETA.
+
+                                                                                                                        NÃO SE APLICA AO PPA.
+
+       PRINCÍPIO DA ANUALIDADE: O ORÇAMENTO DEVE SE REFERIR AO PERÍODO DE UM ANO.
+
+                                            LOA PODERÁ CONTER PREVISÕES DE DESPESAS PARA EXERCÍCIOS SEGUINTES, COM
+                          EXCEÇÃO
+                                            A ESPECIFICAÇÃO DOS INVESTIMENTOS PLURIANUAIS E DAQUELES EM ANDAMENTO.
+
+
+                          NÃO CONFUNDIR COM PRINCÍPIO TRIBUTÁRIO DA ANTERIORIDADE.
+
+       PRINCÍPIO DA UNIDADE: O ORÇAMENTO DEVE SER UNO; EM OUTRAS PALAVRAS, CADA ENTE FEDERATIVO DEVERÁ TER UM ÚNICO ORÇAMENTO.
+
+
+                          UNIDADE DE ORIENTAÇÃO POLÍTICA, E NÃO UNIDADE DOCUMENTAL.
+
+
+                                                                                                                        DIREITO CONSTITUCIONAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               ORÇAMENTO PÚBLICO
+
+CONCEITO DE ORÇAMENTO E PRINCÍPIOS ORÇAMENTÁRIOS
+
+                                         PRINCÍPIO DA QUANTIFICAÇÃO DOS CRÉDITOS ORÇAMENTÁRIOS: VEDA-SE A CONCESSÃO OU A UTILIZAÇÃO DE
+                                         CRÉDITOS ILIMITADOS.
+   PRINCÍPIOS ORÇAMENTÁRIOS
+                                         PRINCÍPIO DA PROGRAMAÇÃO: O ORÇAMENTO DEVERÁ EVIDENCIAR OS PROGRAMAS NACIONAIS, REGIONAIS E
+                                         SETORIAIS, APRESENTANDO OS OBJETIVOS DA AÇÃO GOVERNAMENTAL.
+
+
+       PRINCÍPIO DA EXCLUSIVIDADE: O ORÇAMENTO NÃO PODERÁ CONTER MATÉRIA ESTRANHA À PREVISÃO DAS RECEITAS E À FIXAÇÃO DAS DESPESAS.
+                                                 • AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS SUPLEMENTARES.
+                          EXCEÇÕES (2)           • AUTORIZAÇÃO PARA CONTRATAÇÃO DE OPERAÇÕES DE CRÉDITO, AINDA QUE POR ANTECIPAÇÃO DE
+                                                   RECEITA, NOS TERMOS DA LEI.
+
+       PRINCÍPIO DA PROIBIÇÃO DO ESTORNO: O PODER PÚBLICO NÃO PODE TRANSPOR, REMANEJAR OU TRANSFERIR RECURSOS SEM AUTORIZAÇÃO.
+                                           TRANSPOSIÇÃO, O REMANEJAMENTO OU A TRANSFERÊNCIA DE RECURSOS DE UMA CATEGORIA DE PROGRAMAÇÃO
+                          EXCEÇÕES         PARA OUTRA PODERÃO SER ADMITIDOS, NO ÂMBITO DAS ATIVIDADES DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO,
+                                           MEDIANTE ATO DO PODER EXECUTIVO.
+
+
+                                                                                                                        DIREITO CONSTITUCIONAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               ORÇAMENTO PÚBLICO
+
+CONCEITO DE ORÇAMENTO E PRINCÍPIOS ORÇAMENTÁRIOS
+
+                                         PRINCÍPIO DA NÃO-VINCULAÇÃO DE RECEITAS OU DA NÃO-AFETAÇÃO: NENHUMA RECEITA DE IMPOSTOS
+   PRINCÍPIOS ORÇAMENTÁRIOS              PODERÁ SER RESERVADA PARA ATENDER A UM GASTO ESPECÍFICO, SALVO AQUELAS COM DESTINAÇÃO PREVISTA
+                                         PELA CONSTITUIÇÃO.
+                                                                        •    REPARTIÇÃO CONSTITUCIONAL DE RECEITAS TRIBUTÁRIAS.
+                                                                        •    DESTINAÇÃO DE RECURSOS PARA AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE.
+                                                                        •    DESTINAÇÃO DE RECURSOS PARA MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO.
+                                              EXCEÇÕES (6)              •    DESTINAÇÃO DE RECURSOS PARA ATIVIDADES DA ADMINISTRAÇÃO TRIBUTÁRIA.
+   VEDAÇÕES ORÇAMENTÁRIAS                                               •    PRESTAÇÃO DE GARANTIA A OPERAÇÕES DE CRÉDITO POR ANTECIPAÇÃO DE RECEITA.
+                                                                        •    PRESTAÇÃO DE GARANTIA OU CONTRAGARANTIA À UNIÃO E PARA PAGAMENTO DE
+                                                                             DÉBITOS PARA COM ESTA.
+
+
+       • INÍCIO DE PROGRAMAS OU PROJETOS NÃO INCLUÍDOS NA LEI ORÇAMENTÁRIA ANUAL.
+
+
+       • REALIZAÇÃO DE DESPESAS OU A ASSUNÇÃO DE OBRIGAÇÕES DIRETAS QUE EXCEDAM OS CRÉDITOS ORÇAMENTÁRIOS OU ADICIONAIS.
+                              A REALIZAÇÃO DE OPERAÇÕES DE CRÉDITOS QUE EXCEDAM O MONTANTE DAS DESPESAS DE CAPITAL, RESSALVADAS AS
+       • REGRA DE OURO:       AUTORIZADAS MEDIANTE CRÉDITOS SUPLEMENTARES OU ESPECIAIS COM FINALIDADE PRECISA, APROVADOS PELO PODER
+                              LEGISLATIVO POR MAIORIA ABSOLUTA.
+
+                                                                                                                                DIREITO CONSTITUCIONAL
+                                                                                               ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                ORÇAMENTO PÚBLICO
+
+CONCEITO DE ORÇAMENTO E PRINCÍPIOS ORÇAMENTÁRIOS
+
+
+   VEDAÇÕES ORÇAMENTÁRIAS
+
+       • EM REGRA, NÃO PODE HAVER VINCULAÇÃO DA RECEITA DE IMPOSTOS A ÓRGÃO, FUNDO OU DESPESA (PRINCÍPIO DA NÃO AFETAÇÃO).
+       • ABERTURA DE CRÉDITO SUPLEMENTAR OU ESPECIAL SEM PRÉVIA AUTORIZAÇÃO LEGISLATIVA E SEM INDICAÇÃO DOS RECURSOS CORRESPONDENTES.
+       • A TRANSPOSIÇÃO, O REMANEJAMENTO OU A TRANSFERÊNCIA DE RECURSOS DE UMA CATEGORIA DE PROGRAMAÇÃO PARA OUTRA OU DE UM ÓRGÃO PARA
+         OUTRO, SEM PRÉVIA AUTORIZAÇÃO LEGISLATIVA.
+       • A CONCESSÃO OU UTILIZAÇÃO DE CRÉDITOS ILIMITADOS.
+       • INSTITUIÇÃO DE FUNDOS DE QUALQUER NATUREZA, SEM PRÉVIA AUTORIZAÇÃO LEGISLATIVA.
+       • A TRANSFERÊNCIA VOLUNTÁRIA DE RECURSOS E A CONCESSÃO DE EMPRÉSTIMOS, INCLUSIVE POR ARO, PELOS GOVERNOS FEDERAL E ESTADUAIS E SUAS
+         INSTITUIÇÕES FINANCEIRAS, PARA PAGAMENTO DE DESPESAS COM PESSOAL ATIVO, INATIVO E PENSIONISTA, DOS ESTADOS, DF E MUNICÍPIOS.
+       • UTILIZAÇÃO, SEM AUTORIZAÇÃO LEGISLATIVA ESPECÍFICA, DE RECURSOS DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL PARA SUPRIR NECESSIDADE OU
+         COBRIR DÉFICIT DE EMPRESAS, FUNDAÇÕES E FUNDOS.
+       • UTILIZAÇÃO DOS RECURSOS PROVENIENTES DAS CONTRIBUIÇÕES SOCIAIS PARA A REALIZAÇÃO DE DESPESAS DISTINTAS DO PAGAMENTO DE BENEFÍCIOS DO
+         REGIME GERAL DE PREVIDÊNCIA SOCIAL.
+       • UTILIZAÇÃO DOS RECURSOS DO REGIME PRÓPRIO DE PREVIDÊNCIA PARA A REALIZAÇÃO DE DESPESAS DISTINTAS DO PAGAMENTO DE BENEFÍCIOS DO REGIME
+         PRÓPRIO DE PREVIDÊNCIA SOCIAL E DAS DESPESAS NECESSÁRIAS À SUA ORGANIZAÇÃO E FUNCIONAMENTO.
+       • A TRANSFERÊNCIA VOLUNTÁRIA, A CONCESSÃO DE AVAIS, AS GARANTIAS E AS SUBVENÇÕES PELA UNIÃO E A CONCESSÃO DE EMPRÉSTIMOS E DE
+         FINANCIAMENTOS POR INSTITUIÇÕES FINANCEIRAS FEDERAIS AOS DEMAIS ENTES NA HIPÓTESE DE DESCUMPRIMENTO DAS REGRAS GERAIS DE
+         ORGANIZAÇÃO/FUNCIONAMENTO DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL.
+
+                                           QUANDO SEUS OBJETIVOS PUDEREM SER ALCANÇADOS MEDIANTE A
+                                           VINCULAÇÃO DE RECEITAS ORÇAMENTÁRIAS ESPECÍFICAS OU
+       • CRIAÇÃO DE FUNDO PÚBLICO.
+                                           MEDIANTE A EXECUÇÃO DIRETA POR PROGRAMAÇÃO ORÇAMENTÁRIA
+                                                                                                                          DIREITO CONSTITUCIONAL
+                                           E FINANCEIRA DE ÓRGÃO OU ENTIDADE DA ADMINISTRAÇÃO PÚBLICA.
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                 PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+                                               A SESSÃO LEGISLATIVA NÃO DEVERÁ SER INTERROMPIDA SEM A APROVAÇÃO DO PROJETO DE LDO.
+
+                                               AS LEIS ORÇAMENTÁRIAS (PPA, LDO E LOA) SÃO DE INICIATIVA DO PODER EXECUTIVO, APRECIADAS
+PROCESSO LEGISLATIVO                           PELAS DUAS CASAS DO CONGRESSO NACIONAL, NOS PARÂMETROS DO REGIMENTO COMUM.
+
+                                               OS PRAZOS PARA O CICLO ORÇAMENTÁRIO, NO ÂMBITO FEDERAL, SÃO DETERMINADOS PELO ADCT.
+
+AS EMENDAS AOS PROJETOS                                                   • ENCAMINHADO ATÉ 4 MESES ANTES DO ENCERRAMENTO DO PRIMEIRO EXERCÍCIO
+DE   LEIS    ORÇAMENTÁRIAS                             PPA                  FINANCEIRO (31/08).
+
+SERÃO     APRESENTADAS     NA                                             • DEVOLVIDO PARA SANÇÃO ATÉ O ENCERRAMENTO DA SESSÃO LEGISLATIVA (22/12).
+COMISSÃO MISTA, QUE SOBRE
+ELAS EMITIRÁ PARECER, E
+                                                                          • ENCAMINHADO ATÉ 8 MESES E MEIO ANTES DO ENCERRAMENTO DO PRIMEIRO EXERCÍCIO
+                                                                            FINANCEIRO (15/04).
+APRECIADAS,   NA   FORMA                               LDO
+                                                                          • DEVOLVIDO ATÉ O ENCERRAMENTO DO PRIMEIRO PERÍODO DA SESSÃO LEGISLATIVA
+REGIMENTAL, PELO PLENÁRIO
+                                                                            (17/07).
+DAS    DUAS   CASAS   DO
+CONGRESSO NACIONAL.                                                       • ENCAMINHADO ATÉ 4 MESES ANTES DO ENCERRAMENTO DO PRIMEIRO EXERCÍCIO
+                                                       LOA                  FINANCEIRO (31/08).
+                                                                          • DEVOLVIDO PARA SANÇÃO ATÉ O ENCERRAMENTO DA SESSÃO LEGISLATIVA (22/12).
+
+ REQUISITOS DAS EMENDAS (3)              SEJAM COMPATÍVEIS COM PPA E LDO.
+
+INDIQUEM OS RECURSOS NECESSÁRIOS, ADMITIDOS APENAS OS PROVENIENTES DE ANULAÇÃO DE DESPESA.
+                                            • DOTAÇÕES PARA PESSOAL E SEUS ENCARGOS.
+        EXCLUÍDAS AS QUE INCIDAM SOBRE      • SERVIÇO DA DÍVIDA.
+                                            • TRANSFERÊNCIAS TRIBUTÁRIAS CONSTITUCIONAIS PARA ESTADOS, MUNICÍPIOS E DISTRITO FEDERAL.
+
+SEJAM RELACIONADAS COM A CORREÇÃO DE ERROS OU OMISSÕES OU COM OS DISPOSITIVOS DO TEXTO DO PROJETO DE LEI.                        DIREITO CONSTITUCIONAL
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                              PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+
+
+EMENDA CONSTITUCIONAL Nº 86/2015 – A PEC DO ORÇAMENTO IMPOSITIVO                                                EMENDAS INDIVIDUAIS
+
+     APRESENTADAS POR CADA DEPUTADO OU SENADOR, INDIVIDUALMENTE.
+
+     EXECUÇÃO OBRIGATÓRIA.
+
+     MONTANTE DE 2% DA RECEITA CORRENTE LÍQUIDA (RCL) DO EXERCÍCIO ANTERIOR AO DO ENCAMINHAMENTO DO PROJETO DA LEI ORÇAMENTÁRIA.
+
+         • METADE SERÁ DESTINADA A AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE.
+         • SOMENTE NÃO SERÃO DE EXECUÇÃO OBRIGATÓRIA NOS CASOS DE IMPEDIMENTOS DE ORDEM TÉCNICA.
+
+EMENDA CONSTITUCIONAL Nº 100/2019 – EMENDAS DE BANCADA IMPOSITIVAS                                              EMENDAS DE BANCADA
+
+     COLETIVAS, SENDO APRESENTADAS PELAS BANCADAS ESTADUAIS OU REGIONAIS.
+
+     EXECUÇÃO OBRIGATÓRIA.
+
+     MONTANTE DE ATÉ 1% DA RCL DO EXERCÍCIO ANTERIOR.
+
+       SOMENTE NÃO SERÃO DE EXECUÇÃO OBRIGATÓRIA NOS CASOS DE IMPEDIMENTOS DE ORDEM TÉCNICA.
+
+                                                                                                                      DIREITO CONSTITUCIONAL
+                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+
+EMENDA CONSTITUCIONAL Nº 105/2019 – EMENDAS INDIVIDUAIS
+                                                                                                         TRANSFERÊNCIA COM FINALIDADE DEFINIDA
+DE DEPUTADOS FEDERAIS E SENADORES AO ORÇAMENTO FEDERAL
+
+                                                                                                        • RECURSOS     VINCULADOS À PROGRAMAÇÃO
+                                                                                                           ESTABELECIDA NA EMENDA PARLAMENTAR.
+                          TRANSFERÊNCIA ESPECIAL
+                                                                                                        • RECURSOS DEVEM SER APLICADOS NAS ÁREAS DE
+                                                                                                          COMPETÊNCIA CONSTITUCIONAL DA UNIÃO.
+
+RECURSOS REPASSADOS DIRETAMENTE AO ENTE BENEFICIADO.                           INDEPENDENTEMENTE DE CELEBRAÇÃO DE CONVÊNIO OU DE INSTRUMENTO CONGÊNERE.
+
+PERTENCEM AO ENTE FEDERADO NO ATO DA EFETIVA TRANSFERÊNCIA FINANCEIRA E PODERÃO SER APLICADOS EM PROGRAMAÇÕES FINALÍSTICAS DAS ÁREAS DE
+COMPETÊNCIA DO PODER EXECUTIVO DO ENTE FEDERATIVO BENEFICIADO.
+
+                   PELO MENOS 70% (SETENTA POR CENTO) DAS TRANSFERÊNCIAS ESPECIAIS DEVEM SER APLICADAS EM DESPESAS DE CAPITAL.
+
+                                                                                                                                  DIREITO CONSTITUCIONAL
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+
+ AJUSTE FISCAL E REGIME EXTRAORDINÁRIO FISCAL                                                                  MECANISMO DE AJUSTE FISCAL
+
+                                                                                             ▪ O GATILHO É ACIONADO (ART. 167-A) QUANDO A RELAÇÃO ENTRE DESPESAS
+   ESTADO DE CALAMIDADE PÚBLICA DE ÂMBITO NACIONAL                                             CORRENTES E RECEITAS CORRENTES SUPERAREM 95% NO PERÍODO DE
+                                                                                               12 MESES.
+                                                                                             ▪ FACULTADA A APLICAÇÃO DO MECANISMO DE AJUSTE FISCAL AOS PODERES
+                                                                                               EXECUTIVO, LEGISLATIVO, JUDICIÁRIO, AO MP, AO TC E À DP, ENQUANTO
+                                                                                               PERMANECER A SITUAÇÃO.
+                                                                                             ▪ APLICÁVEL NO ÂMBITO DOS ESTADOS, DF E MUNICÍPIOS.
+▪ DECRETADO PELO CONGRESSO NACIONAL POR INICIATIVA DO
+  PRESIDENTE DA REPÚBLICA.                                                                                                                        UNIÃO NÃO!
+▪ COM A DECRETAÇÃO DE CALAMIDADE PÚBLICA, ADOTA-SE O REGIME
+  EXTRAORDINÁRIO FISCAL, FINANCEIRO E DE CONTRATAÇÕES.
+
+         FLEXIBILIZAÇÃO DE REGRAS CONSTITUCIONAIS COM O
+         PROPÓSITO DE ENFRENTAMENTO DA CALAMIDADE
+         PÚBLICA E SEUS EFEITOS, NO SEU PERÍODO DE DURAÇÃO.
+
+                                                                                                                                           DIREITO CONSTITUCIONAL
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---

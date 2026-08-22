@@ -1,0 +1,3250 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_007_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: TEMAS ESPECIAIS DE
+---
+
+# TEMAS ESPECIAIS DE
+
+---
+
+TEMAS ESPECIAIS DE
+   PORTUGUÊS
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+CADERNO 21
+
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+TEXTO INJUNTIVO
+
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+                             Texto Injuntivo
+
+Consiste em instruir,sugerir a realização de determinadas ações ao seu leitor.
+Apresenta como principais características o uso de verbos no modo imperativo,
+frases curtas,explicações detalhadas,linguagem clara e objetiva.
+
+Ex.: receitas culinárias, manuais de instrução, textos de natureza motivacional etc.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+QUESTÕES DE CONCURSO
+
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+23. FCC - 2022 - DETRAN-AP - Assistente Administrativo de Trânsito
+
+Atenção: Leia o texto abaixo para responder à questão.
+         − Adorei, vô Ignácio! Mas conta: como era sacar o dinheiro?
+   Contei, porque fui tanto a banco! A pessoa chegava a um balcão, entregava o
+cheque a um atendente. Se fosse saque pessoal, precisava mostrar a identidade.
+Recebia uma ficha de metal, oval ou retangular, pesada. Ia para outra fila ou
+esperava sentada num banco − ou em pé mesmo −, rondando os caixas, que ficavam
+atrás de guichês com grades. Em geral grades douradas, brilhantes − as faxineiras
+passavam sapólio toda manhã. Enquanto isso, o bancário conferia a assinatura do
+cheque num livro grande ou em fichas dispostas em arquivos de madeira ou aço.
+Fazia uma pequena marcação, um OK, e passava a outro funcionário, que consultava
+o saldo da pessoa. Conferia e já anotava o cheque, a quantia, a retirada e o saldo
+que restava na conta. Passava o cheque a um terceiro, que rubricava e levava ao
+caixa. [...]
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+23. FCC - 2022 - DETRAN-AP - Assistente Administrativo de Trânsito
+Atenção: Leia o texto abaixo para responder à questão.
+       [...] Este conferia o documento − como diziam −, chamava o número do
+cliente, pagava. Havia uma coisa notável naquele tempo… Repito, naquele tempo.
+Pessoas levavam sacola, ou caixa de sapato, tal a quantia sacada. Colocavam tudo ali
+e saíam para rua, frescos e maneiros. Por outro lado, vez ou outra havia longa
+espera, porque o sujeito vinha depositar imensas quantias em notas e o caixa ficava
+ali conferindo, somando. Eu me lembro de sacos de dinheiro na boca do caixa. Via-
+se de tudo, notas amassadas, amarfanhadas, engorduradas. Hoje é tudo mais
+saudável, asséptico.
+                                   (BRANDÃO, Inácio de Loyola. Para desfrutar o hoje, é bom saber do ontem. Disponível em:
+                                                                                             https://portal.febraban.org.br)
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+23. FCC - 2022 - DETRAN-AP - Assistente Administrativo de Trânsito
+
+Considerando que se podem encontrar várias tipologias textuais em um texto,
+embora haja o predomínio de uma delas, no texto acima, a tipologia textual
+predominante é a
+
+A) Narrativa, porque conta uma história baseada em fatos reais da relação avô e
+neto;
+B) Descritiva, porque informa as características de uma sociedade em
+desenvolvimento;
+C) Expositiva, porque explica o pensamento do avô a respeito das relações entre as
+pessoas no seu tempo de mocidade;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+23. FCC - 2022 - DETRAN-AP - Assistente Administrativo de Trânsito
+
+Considerando que se podem encontrar várias tipologias textuais em um texto,
+embora haja o predomínio de uma delas, no texto acima, a tipologia textual
+predominante é a
+
+D) Argumentativa, porque em todo o texto percebe-se a defesa do ponto de vista
+do avô contra o pensamento do neto;
+
+D) Injuntiva, porque o avô pretende dar instruções ao neto de como viver nos
+novos tempos.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+24. FCC - AL-AP - Analista Legislativo - Técnico Legislativo
+
+Atenção: Leia o texto abaixo para responder à questão.
+       Há de tomar o pregador uma só matéria; há de defini-la, para que se conheça;
+há de dividi-la, para que se distinga; há de prová-la com a Escritura, há de declará-la
+com a razão, há de confirmá-la com o exemplo, há de amplificá-la com as causas,
+com os efeitos, com as circunstâncias, com as conveniências, que se hão de seguir;
+com os inconvenientes, que se devem evitar; há de responder às dúvidas, há de
+satisfazer às dificuldades, há de impugnar e refutar com toda a força de eloquência
+os argumentos contrários, e depois disto há de colher, há de apertar, há de concluir,
+há de persuadir, há de acabar. Isto é o sermão, isto é pregar; e o que não é isto é
+falar demais alto. Não nego, nem quero dizer que o sermão não haja de ter
+variedade de discursos, mas esses hão de nascer todos da mesma matéria, e
+continuar, e acabar nela. Quereis ver tudo isto com os olhos? Ora vede. Uma árvore
+tem raízes, tem troncos, tem ramos, tem folhas, tem varas, tem flores, tem frutos.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+24. FCC - AL-AP - Analista Legislativo - Técnico Legislativo
+
+Atenção: Leia o texto abaixo para responder à questão.
+       Assim há de ser o sermão: há de ter raízes fortes e sólidas, porque há de ser
+fundado no Evangelho; há de ter um tronco, porque há de ter um só assunto e tratar
+uma só matéria. Deste tronco hão de nascer diversos ramos, que são diversos
+discursos, mas nascidos da mesma matéria e continuados nela. Estes ramos não hão
+de ser secos, senão cobertos de folhas, porque os discursos hão de ser vestidos
+e ornados de palavras.
+                                   (VIEIRA, António. Sermão da Sexagésima. In: Sermões I. São Paulo: Edições Loyola, 2009, p.
+                                                                                                                         24)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+24. FCC - AL-AP - Analista Legislativo - Técnico Legislativo
+
+As prescrições presentes no trecho do sermão indicam a elaboração de um discurso
+
+A) Dialogal, porque todos os passos de um discurso preveem interlocutores em
+oposição;
+B) Científico, porque necessita estar fundamentado em provas oriundas da natureza;
+
+C) Narrativo,              identificado principalmente na metáfora botânica com que é
+comparado;
+
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+24. FCC - AL-AP - Analista Legislativo - Técnico Legislativo
+
+As prescrições presentes no trecho do sermão indicam a elaboração de um discurso
+
+D) Argumentativo, organizando o discurso, da tomada do tema até a sua conclusão;
+
+E) Poético, uma vez que o discurso ao final deve resultar em uma metáfora botânica.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+25. FGV - 2023 - TJ-RN - Técnico Judiciário - Área Judiciária
+
+- Revise as partes vitais de seu veículo.
+
+- Use sempre o cinto de segurança.
+
+- Respeite os limites de velocidade.
+
+- Mantenha distância do carro da frente.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+25. FGV - 2023 - TJ-RN - Técnico Judiciário - Área Judiciária
+
+Esse tipo de texto se enquadra entre os textos:
+
+A) Injuntivos;
+B) Injuntivo-argumentativo;
+C) Narrativos;
+D) Descritivos-narrativos;
+E) Argumentativo.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+26. FGV - 2023 - SEE-MG - Professor de Educação Básica (PEB) - Língua
+Portuguesa
+“Meses depois, casava-se Moscoso com a pupila do defunto patrão. Chamava-se
+Genoveva e era uma raparigaça de seus vinte e poucos anos, muito tola, de uma
+gordura desengraçada. Parecia toda feita de almofadas; as carnes da cara tremiam-
+lhe quando ela andava, os olhos tinham uns tons amarelados e mortos; o cabelo
+vivia-lhe pregado ao casco da cabeça com suor, por falta de asseio. Era de uma
+brancura de sebo velho, falava muito descansado e com um hálito azedo; as suas
+mãos papudas e humidamente macias, davam em quem as tocasse a sensação
+repulsiva que se experimentava ao pegar na barriga de uma lagartixa”.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+26. FGV - 2023 - SEE-MG - Professor de Educação Básica (PEB) - Língua
+Portuguesa
+Sobre esse pequeno texto, assinale a afirmativa correta.
+
+A) Trata-se de um texto narrativo em que o narrador aborda as diversas etapas de
+um casamento;
+
+B) Exemplifica um texto descritivo, cujo objetivo é a apresentação física de uma
+personagem;
+
+C) Mostra um texto argumentativo, em que o argumentador mostra as
+desvantagens de um mau casamento;
+
+D) Trata-se de um texto expositivo, em que o expositor documenta um casamento
+por conveniência.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+27. FGV - 2023 - Prefeitura de São José dos Campos - SP - Analista em
+Saúde - Enfermeiro
+Assinale o texto a seguir que é classificado como do modo injuntivo de organização
+discursiva.
+
+A) O juiz de futebol é o único ladrão que rouba e sai protegido pela polícia;
+
+B) O esporte é a única profissão que, quando você se aposenta, tem de começar a
+trabalhar;
+
+C) Um editor de jornal é alguém que separa o joio do trigo – e imprime o joio;
+
+D) Cinema é a fraude mais bonita do mundo;
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+27. FGV - 2023 - Prefeitura de São José dos Campos - SP - Analista em
+Saúde - Enfermeiro
+Assinale o texto a seguir que é classificado como do modo injuntivo de organização
+discursiva.
+
+E) Há três maneiras de se conseguir que algo seja feito: faça você mesmo, contrate
+alguém para fazê-lo ou proíba seus filhos de fazê-lo…
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+Texto 1 – O caminho da alimentação saudável
+
+Nova rotulagem da Anvisa é bem-vinda, mas aquém de seu potencial
+
+Carlos Augusto Monteiro
+Laís Amaral Mais
+
+Desde outubro de 2022, o consumidor brasileiro vem se deparando com mudanças
+nas embalagens de alimentos nos mercados. Trata-se do novo modelo de rotulagem
+nutricional determinado pela Anvisa.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+O uso do padrão é válido para produtos alimentícios lançados a partir de 9 de
+outubro; para aqueles já existentes, o prazo para adequação pode ser de um a três
+anos a partir da mesma data, dependendo da natureza do produto.
+
+O modelo traz novidades importantes. A principal é a inclusão de um ícone de lupa,
+indicando alto teor de gordura saturada, açúcar adicionado e sódio — cuja ingestão
+excessiva aumenta o risco de doenças crônicas. Além disso, padroniza o design da
+tabela nutricional e mostra valores nutricionais do alimento com base em porções
+de 100 g ou 100 ml, facilitando comparações entre produtos semelhantes de marcas
+distintas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+A adoção é um avanço. O rótulo de um alimento traz informações que orientam o
+consumidor sobre os componentes do produto, interferindo na decisão de compra.
+A escolha da nova rotulagem, no entanto, poderia — e deveria — ter ido além.
+
+Na teoria, a função do ícone da lupa é informar o consumidor sobre a composição
+dos alimentos. Na prática, a iniciativa deveria apoiar escolhas alimentares mais
+saudáveis. Segundo o Guia Alimentar para a População Brasileira, um caminho
+simples para manter uma alimentação saudável é evitar o consumo de
+ultraprocessados. São opções que contêm pouco ou nenhum alimento inteiro,
+sendo feitas majoritariamente de substâncias extraídas de alimentos (como amido
+do milho ou proteína da soja). Por isso, é comum que sejam adicionados corantes,
+aromatizantes e outros aditivos que os deixam atraentes.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+Eles também costumam ter excesso de açúcar, gordura saturada e sódio. Dessa
+forma, uma grande parte dos alimentos aptos a levar o selo da lupa é composta de
+ultraprocessados. Ainda assim, muitos alimentos nocivos à saúde podem passar
+incólumes, já que o perfil nutricional — ou seja, os limites para cada nutriente
+crítico — escolhido pela Anvisa é demasiado permissivo.
+
+Para receber um rótulo de "alto em sódio" no Brasil, por exemplo, um alimento
+precisa ter ao menos 600 mg do nutriente a cada 100 g de produto. Em comparação,
+o perfil nutricional da Organização Pan-Americana da Saúde (Opas) atrela a
+quantidade de sódio ao total calórico do produto. Na prática, a diferença é notável:
+no caso de um caldo de galinha em cubos, o modelo da Anvisa tolera o dobro de
+sódio aceito pela Opas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+Brechas como essa, aliadas à publicidade já costumeira desses produtos, podem
+seguir provocando confusão ao consumidor. Mais que mostrar excessos em
+nutrientes, é necessário ajudar a população a identificar os ultraprocessados. Isso
+poderia ocorrer facilmente com o destaque da presença de certos tipos de aditivos
+alimentares. Afinal, nenhum alimento feito com comida de verdade precisa de
+"aroma idêntico ao natural de morango".
+
+Para além das mudanças na rotulagem, o Brasil pode seguir o exemplo do Chile,
+que, junto às regras, implementou políticas públicas de alimentação saudável. A
+iniciativa inclui campanhas educativas e a regulação da publicidade e da venda de
+produtos não saudáveis a crianças. São ações que beneficiariam largamente a
+alimentação e a saúde no Brasil.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+“Para além das mudanças na rotulagem, o Brasil pode seguir o exemplo do Chile,
+que, junto às regras, implementou políticas públicas de alimentação saudável.”
+(Texto 1, 9º parágrafo)
+
+Embora o texto 1 seja predominantemente argumentativo, seus últimos dois
+parágrafos colocam em relevo outro tipo textual.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FGV - 2023 - TJ-BA - Conciliador
+
+Na passagem acima, retirada do último parágrafo do texto 1, o tipo textual
+predominante é o(a):
+
+
+A) descrição;
+
+B) narração;
+
+C) exposição;
+
+D) injunção;
+
+E) diálogo.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+29. CESPE / CEBRASPE - 2022 - BNB - Analista de Sistemas -
+Desenvolvimento de Sistemas
+Texto CG1A1-II
+        A crescente adoção do conceito de tecnologias sociais ocorre
+concomitantemente com o avanço de dois conceitos que lhe são complementares:
+economia solidária e capital social. As graves consequências do capitalismo e da
+globalização, refletidas em altos índices de desemprego, aumento de índices de
+violência e criminalidade, aprofundamento da pobreza e da degradação ambiental,
+não podem ser abordadas por projetos paternalistas e compensatórios. Ao
+contrário, requerem estudos aprofundados sobre um novo tipo de
+desenvolvimento. O professor Henrique Rattner pontua que, entre os cientistas
+sociais que se debruçam sobre os fracassos do desenvolvimento e suas causas, em
+todos os debates travados nos últimos anos, o conceito de capital social tem
+ocupado espaço crescente. [...]
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+29. CESPE / CEBRASPE - 2022 - BNB - Analista de Sistemas -
+Desenvolvimento de Sistemas
+Texto CG1A1-II
+[...] O capital social, segundo Rattner, procura trabalhar com a necessidade gregária,
+o espírito de cooperação e os valores de apoio mútuo e solidariedade, com base na
+“eficiência social coletiva”.
+         Capital social, segundo o estudioso John Durston, é o conjunto de normas,
+instituições e organizações que promovem a confiança, a ajuda recíproca e a
+cooperação e que incorporam benefícios como redução dos custos de transação,
+produção de bens públicos e facilitação da constituição de organizações de gestão
+de bases efetivas, de atores sociais e de sociedades civis saudáveis. Sua importância
+está na busca de estratégias de superação da pobreza e de integração de setores
+sociais excluídos.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+29. CESPE / CEBRASPE - 2022 - BNB - Analista de Sistemas -
+Desenvolvimento de Sistemas
+Texto CG1A1-II
+       No Brasil, nas últimas décadas, tem havido uma multiplicação de experiências
+baseadas no conceito de economia solidária. Diferentemente de iniciativas
+meramente paliativas, como respostas emergenciais a situações de pobreza e
+miséria, há agora uma interpretação de que essas experiências devam ser uma base
+para a reconstrução do tecido social. Como diz o pesquisador Luis Inácio Gaiger, elas
+“constituiriam uma ação geradora de embriões de novas formas de produção e
+estimuladora de alternativas de vida econômica e social”.
+
+                      Ivete Rodrigues e José Carlos Barbieri. A emergência da tecnologia social: revisitando o movimento da tecnologia apropriada como
+               estratégia de desenvolvimento sustentável. In: Revista de Administração Pública – FGV, Rio de Janeiro, 42(6):1069-94, nov./dez. 2008 (com
+                                                                                                                                             alterações).
+
+Profª Adriana Figueiredo
+                                                             
+
+
+---
+
+29. CESPE / CEBRASPE - 2022 - BNB - Analista de Sistemas -
+Desenvolvimento de Sistemas
+No que diz respeito aos sentidos e à estrutura do texto CG1A1-II, julgue os seguintes
+itens.
+
+Em relação à tipologia textual, o texto é predominantemente narrativo, uma vez que
+os autores organizam os fatos segundo critérios cronológicos.
+
+Certo
+
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+30. CESPE / CEBRASPE - 2023 - MEC - Técnico em Assuntos
+Educacionais
+Texto CB1A1-I
+         À medida que o homem cria, recria e decide, vão se formando as épocas
+históricas. E é também criando, recriando e decidindo como deve participar nessas
+épocas. É por isso que obtém melhor resultado toda vez que, integrando-se no
+espírito delas, se apropria de seus temas e reconhece suas tarefas concretas.
+         Ponha-se ênfase, desde já, na necessidade permanente de uma atitude
+crítica, a única com a qual o homem poderá apreender os temas e tarefas de sua
+época para ir se integrando nela. Uma época, por outro lado, realiza-se na
+proporção em que seus temas forem captados e suas tarefas, resolvidas. E se supera
+na medida em que os temas e as tarefas não correspondem a novas ansiedades
+emergentes.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESPE / CEBRASPE - 2023 - MEC - Técnico em Assuntos
+Educacionais
+Texto CB1A1-I
+        Uma época da história apresentará uma série de aspirações, de desejos, de
+valores, em busca de sua realização. Formas de ser, de comportar-se, atitudes mais
+ou menos generalizadas, das quais somente os visionários que se antecipam têm
+dúvidas e frente às quais sugerem novas fórmulas.
+        A passagem de uma época para outra caracteriza-se por fortes contradições
+que se aprofundam, dia a dia, entre valores emergentes em busca de afirmações, de
+realizações, e valores do ontem em busca de preservação.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESPE / CEBRASPE - 2023 - MEC - Técnico em Assuntos
+Educacionais
+Texto CB1A1-I
+         Quando isso ocorre, verifica-se o que chamamos transição. Observa-se um
+aspecto fortemente dramático que vai atingir as mudanças de que se nutre a
+sociedade. Porque é dramático, é fortemente desafiador. E a transição se torna
+então um tempo de opções. Nutrindo-se de mudanças, a transição é mais que as
+mudanças. Implica realmente a marcha que faz a sociedade na procura de novos
+temas, de novas tarefas ou, mais precisamente, de sua objetivação. As mudanças se
+produzem numa mesma unidade de tempo, sem afetá-la profundamente. É que se
+verificam dentro do jogo normal, resultante da própria busca de plenitude que
+fazem estes temas.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESPE / CEBRASPE - 2023 - MEC - Técnico em Assuntos
+Educacionais
+Texto CB1A1-I
+       Quando, por fim, estes temas começam a esvaziar e a perder sua significação,
+emergindo novos temas, a sociedade começa a passar para outra época. Nestas
+fases, mais do que nunca, se faz indispensável a integração. Mais do que nunca se
+faz indispensável o desenvolvimento de uma mente crítica, com a qual o homem
+possa se defender dos perigos dos irracionalismos, encaminhamentos distorcidos da
+emoção, característica dessas fases de transição.
+
+                               Paulo Freire. Educação e mudança. 41.ª ed. Rio de Janeiro/São Paulo: Paz e Terra, 2020, p. 87-
+                                                                                                      89 (com adaptações).
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+30. CESPE / CEBRASPE - 2023 - MEC - Técnico em Assuntos
+Educacionais
+Com relação às ideias e à tipologia do texto CB1A1-I, julgue o item a seguir.
+
+Embora o texto seja predominantemente dissertativo, verificam-se nele traços do
+tipo narrativo.
+
+
+Certo
+
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+31. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento e
+Execução de Programas e Projetos Educacionais
+Texto CB1A1-I
+       Criado em 22 de novembro de 1968, por meio da Lei n.º 5.537, o Instituto
+Nacional de Desenvolvimento da Educação e Pesquisa (INDEP) foi transformado em
+Fundo Nacional de Desenvolvimento da Educação (FNDE) por meio do Decreto n.º
+872, de 15 de dezembro de 1969. Subsequentemente, a autarquia passou por
+mudanças que diversificaram suas funções, ampliaram a abrangência dos programas
+executados, ao mesmo tempo em que o volume de recursos gerenciados aumentou.
+Todas essas mudanças trouxeram desafios para a gestão das políticas e exigiram
+novas competências do corpo funcional da instituição.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento e
+Execução de Programas e Projetos Educacionais
+Texto CB1A1-I
+       Inicialmente, o FNDE funcionava apenas como órgão arrecadador, fiscalizador
+e gerencial. Era responsável, principalmente, por gerir uma das principais fontes de
+recursos do Ministério da Educação (MEC), o salário educação, transferindo para os
+estados e o Distrito Federal 2/3 dos recursos arrecadados. Em 1997, com a extinção
+da Fundação de Assistência ao Estudante (FAE), o FNDE ganhou novas atribuições,
+tornando-se responsável pelas políticas de assistência ao educando referentes às
+áreas alimentar e nutricional, didático-pedagógicas (livros, bibliotecas e material
+escolar) e apoio complementar (transporte escolar e assistência à saúde).
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+31. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento e
+Execução de Programas e Projetos Educacionais
+Texto CB1A1-I
+       Mais responsabilidades foram transferidas para a autarquia em 1998, quando
+foram extintas as delegacias regionais do Ministério da Educação (DEMEC), o que
+exigiu sua reorganização a fim de responder às responsabilidades pelo
+acompanhamento e fiscalização da arrecadação e execução dos projetos e
+programas do MEC. Também passou a fazer parte das atribuições do FNDE a análise
+de prestação de contas dos recursos liberados para estados e municípios. Em 2004,
+houve a transferência da gestão do Fundo de Desenvolvimento da Escola e do
+Programa de Melhoria e Expansão do Ensino Médio, o que, novamente, ampliou o
+conjunto de funções da autarquia.
+                     Cinara Gomes de Araújo Lobo; Julia Maurmann Ximenes. A construção da gestão do conhecimento no FNDE – um processo. Cadernos
+                                                                                                         do FNDE, Brasília, v.1, n.1, jan-jun 2020, p.
+                                                                                                                               11 (com adaptações).
+
+
+Profª Adriana Figueiredo
+                                                            
+
+
+---
+
+31. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento e
+Execução de Programas e Projetos Educacionais
+Julgue o item que se segue, a respeito do texto CB1A1-I e das ideias por ele
+veiculadas.
+
+Para atingir seu propósito comunicativo, o texto é construído com base nas
+tipologias textuais narrativa e expositiva.
+
+Certo
+
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+32. CESPE - - Prefeitura de Boa Vista - RR - Procurador Municipal
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+32. CESPE - - Prefeitura de Boa Vista - RR - Procurador Municipal
+
+Julgue o seguinte item, considerando os aspectos textuais e gramaticais do cartaz
+precedente veiculado pelo Ministério Público Federal, no âmbito do projeto
+Amazônia Protege.
+
+
+No texto, observam-se trechos expositivo e injuntivo.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+CADERNO 22
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+    COMPREENSÃO E
+INTERPRETAÇÃO DE TEXTOS
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+  LINGUAGEM VERBAL X
+LINGUAGEM NÃO VERBAL
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+• Linguagem Verbal: consiste no uso de palavras escritas ou faladas.
+
+Ex.: conversas do cotidiano, textos escritos etc.
+
+• Linguagem não verbal: quando se usam signos (imagens, gestos etc.) para
+  efetivarmos um significado.
+
+Ex.: placas de trânsito
+
+• Linguagem Mista: utiliza as duas modalidades de linguagem para emitir uma
+  mensagem ( a verbal e a não verbal).
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Use :
+(1) para linguagem verbal
+(2) para linguagem não verbal
+(3) para linguagem mista
+
+
+1. OI. Pergunta pra quem tem e vem. ( )
+
+2.                         ( )
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+I. Use :
+
+3. Promoção. Concorra a um carro Chevrolet. ( )
+
+4.                         ( )
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+I. Use :
+
+5. É proibido fumar. ( )
+
+6.                              ( )
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+RECORRÊNCIA
+
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+                                  RECORRÊNCIA
+
+
+Recuperação de uma informação presente no texto. Os candidatos devem ser
+capazes de identificar a paráfrase (uso de outras palavras, mantendo seu sentido
+original).
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Julgue as paráfrases de acordo com o código a seguir:
+
+(1) Paráfrase correta
+(2) Paráfrase incorreta por contradição
+(3) Paráfrase incorreta por extrapolação
+
+
+a) Existem casos de multilinguismo com duas ou mais línguas indígenas faladas
+pelas mesmas pessoas, como acontece entre os vários povos a noroeste do
+Amazonas: atualmente estão presentes o português ou o espanhol, além da
+língua geral amazônica.
+
+PARÁFRASE: O uso da língua portuguesa coexiste, em certas comunidades, com o
+de determinada língua indígena.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+b) O filme começa num dia gelado de dezembro, perto do Natal, quando uma
+fábrica fecha as portas. Como se não houvesse tristeza suficiente na neve que cai e nos
+operários que não conseguem conter as lágrimas, a música ressalta a melancolia geral.
+
+PARÁFRASE: A música atenua o clima de infelicidade inerente à situação dos operários
+
+c) Nesse cenário, percebe-se um fenômeno que acompanha toda a história tributária
+do homem: a resistência fiscal, ou seja, a oposição social aos tributos, entendida como
+todo desvio que afasta o contribuinte do cumprimento de uma obrigação tributária.
+
+PARÁFRASE: A resistência fiscal é um movimento verificável em diversas sociedades
+ao longo da história.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+d) Em entrevistas coletivas ou individuais, é recomendável preparar material informativo com
+resumo do tema. Isso permite que o repórter tenha informações básicas sobre o assunto e
+aproveite seu tempo abordando novas questões.
+
+PARÁFRASE: a apresentação de material informativo detalhado, em entrevistas coletivas ou
+individuais, ajuda o repórter a obter informações inéditas ou altamente técnicas.
+
+e) Segundo o relatório do Painel Intergovernamental sobre Mudança do Clima (IPCC), a taxa
+de mortalidade decorrente de tempestades, inundações e secas, entre 2010 e 2020, foi quinze
+vezes mais alta nos países mais suscetíveis às mudanças climáticas.
+
+PARÁFRASE: O aumento da ocorrência de intempéries foi o principal fator responsável pela
+taxa de mortalidade nos países mais suscetíveis às mudanças climáticas, entre os anos de
+2010 e 2020.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+f) Exercer o jornalismo comunitário é uma boa maneira de conquistar o objetivo de mudar,
+se não o mundo, pelo menos um recorte da sociedade que costuma ficar à margem de
+serviços públicos de qualidade, de segurança e também de informação.
+
+PARÁFRASE: O jornalismo comunitário atua próximo à comunidade, promovendo
+nela o senso crítico e a responsabilidade social.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+QUESTÕES DE CONCURSO
+
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+CESGRANRIO
+
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+                                  À moda brasileira
+
+1 Estou me vendo debaixo de uma árvore, lendo a pequena história da
+literatura brasileira.
+
+2 Olavo Bilac! – eu disse em voz alta e de repente parei quase num susto depois
+que li os primeiros versos do soneto à língua portuguesa: Última flor do Lácio, inculta
+e bela / És, a um tempo, esplendor e sepultura.
+
+3 Fiquei pensando, mas o poeta disse sepultura?! O tal de Lácio eu não sabia onde
+ficava, mas de sepultura eu entendia bem, disso eu entendia, repensei baixando
+o olhar para a terra. Se escrevia (e já escrevia) pequenos contos nessa língua,
+quer dizer que era a sepultura que esperava por esses meus escritos?
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+4 Fui falar com meu pai. Comecei por aquelas minhas sondagens antes de chegar
+até onde queria, os tais rodeios que ele ia ouvindo com paciência enquanto enrolava
+o cigarro de palha, fumava nessa época esses cigarros. Comecei por perguntar
+se minha mãe e ele não tinham viajado para o exterior.
+
+5 Meu pai fixou em mim o olhar verde. Viagens, só pelo Brasil, meus avós é
+que tinham feito aquelas longas viagens de navio, Portugal, França, Itália... Não
+esquecer que a minha avó, Pedrina Perucchi, era italiana, ele acrescentou. Mas por
+que essa curiosidade?
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+6 Sentei-me ao lado dele, respirei fundo e comecei a gaguejar, é que seria tão
+bom se ambos tivessem nascido lá longe e assim eu estaria hoje escrevendo em
+italiano, italiano! – fiquei repetindo e abri o livro que trazia na mão: Olha aí, pai, o
+poeta escreveu com todas as letras, nossa língua é sepultura mesmo, tudo o que a
+gente fizer vai para debaixo da terra, desaparece!
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+7.     Calmamente ele pousou o cigarro no cinzeiro ao lado. Pegou os óculos. O
+soneto é muito bonito, disse me encarando com severidade. Feio é isso, filha,
+isso de querer renegar a própria língua. Se você chegar a escrever bem, não
+precisa ser em italiano ou espanhol ou alemão, você ficará na nossa língua mesmo,
+está me compreendendo? E as traduções? Renegar a língua é renegar o país,
+guarde isso nessa cabecinha. E depois (ele voltou a abrir o livro), olha que beleza o
+que o poeta escreveu em seguida, Amo-te assim, desconhecida e obscura, veja que
+confissão de amor ele fez à nossa língua! Tem mais, ele precisava da rima para
+sepultura e calhou tão bem essa obscura, entendeu agora? – acrescentou e
+levantou-se. Deu alguns passos e ficou olhando a borboleta que entrou na varanda:
+Já fez a sua lição de casa?
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+
+8 Fechei o livro e recuei. Sempre que meu pai queria mudar de assunto ele
+mudava de lugar: saía da poltrona e ia para a cadeira de vime. Saía da cadeira de
+vime e ia para a rede ou simplesmente começava a andar. Era o sinal, Não quero
+falar nisso, chega. Então a gente falava noutra coisa ou ficava quieta.
+
+9 Tantos anos depois, quando me avisaram lá do pequeno hotel em Jacareí que
+ele tinha morrido, fiquei pensando nisso, ah! se quando a morte entrou, se nesse
+instante ele tivesse mudado de lugar. Mudar depressa de lugar e de
+assunto. Depressa, pai, saia da cama e fique na cadeira ou vá pra rua e feche a porta!
+
+
+               TELLES, Lygia Fagundes. Durante aquele estranho chá: perdidos e achados. Rio de Janeiro: Rocco, 2002, p.109-111. Fragmento adaptado.
+
+Profª Adriana Figueiredo
+                                                           
+
+
+---
+
+01. CESGRANRIO - 2023 - Transpetro - Profissional Transpetro de Nível
+Superior - Junior: Ênfase 1: Administração
+
+De acordo com o texto, na opinião do pai, a filha deveria
+
+A) aprender a língua da avó.
+
+B) valorizar a língua materna.
+
+C) escrever em idiomas diversos.
+
+D) ler outros poemas de Olavo Bilac.
+
+E) estudar história da literatura brasileira.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+                           O afogado mais bonito do mundo
+
+1 Sou antropófago. Devoro livros. Quem me ensinou foi Murilo Mendes: livros
+são feitos com a carne e o sangue dos que os escreveram. Os hábitos de
+antropófago determinam a maneira como escolho livros. Só leio livros escritos com
+sangue. Depois que os devoro, deixam de pertencer ao autor. São meus porque
+circulam na minha carne e no meu sangue.
+
+2 É o caso do conto “O Afogado Mais Bonito do Mundo”, de Gabriel
+García Márquez. Ele escreveu. Eu li e devorei. Agora é meu. Eu o reconto.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+3 É sobre uma vila de pescadores perdida em nenhum lugar, o enfado
+misturado com o ar, cada novo dia já nascendo velho, as mesmas palavras ocas, os
+mesmos gestos vazios, os mesmos corpos opacos, a excitação do amor sendo algo
+de que ninguém mais se lembrava...
+
+4 Aconteceu que, num dia como todos os outros, um menino viu uma
+forma estranha flutuando longe no mar. E ele gritou. Todos correram. Num lugar
+como aquele até uma forma estranha é motivo de festa. E ali ficaram na praia,
+olhando, esperando. Até que o mar, sem pressa, trouxe a coisa e a colocou na areia,
+para o desapontamento de todos: era um homem morto.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+5 Todos os homens mortos são parecidos porque há apenas uma coisa a se
+fazer com eles: enterrar. E, naquela vila, o costume era que as mulheres
+preparassem os mortos para o sepultamento. Assim, carregaram o cadáver para
+uma casa, as mulheres dentro, os homens fora. E o silêncio era grande enquanto o
+limpavam das algas e liquens, mortalhas verdes do mar.
+
+6 Mas, repentinamente, uma voz quebrou o silêncio. Uma mulher balbuciou: “Se ele
+tivesse vivido entre nós, ele teria de ter curvado a cabeça sempre ao entrar
+em nossas casas. Ele é muito alto...”.
+
+7         Todas as mulheres, sérias e silenciosas, fizeram sim com a cabeça.
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+8 De novo o silêncio foi profundo, até que uma outra voz foi ouvida. Outra mulher...
+“Fico pensando em como teria sido a sua voz... Como o sussurro da brisa? Como o
+trovão das ondas? Será que ele conhecia aquela palavra secreta que, quando
+pronunciada, faz com que uma mulher apanhe uma flor e a coloque no cabelo?” E
+elas sorriram e olharam umas para as outras.
+
+9 De novo o silêncio. E, de novo, a voz de outra mulher... “Essas mãos... Como são
+grandes! Que será que fizeram? Brincaram com crianças? Navegaram
+mares? Travaram batalhas? Construíram casas? Essas mãos: será que elas sabiam
+deslizar sobre o rosto de uma mulher, será que elas sabiam abraçar e acariciar o seu
+corpo?”
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+10 Aí todas elas riram que riram, suas faces vermelhas, e se surpreenderam
+ao perceber que o enterro estava se transformando numa ressurreição:
+sonhos esquecidos, que pensavam mortos, retornavam, cinzas virando fogo, os
+corpos vivos de novo e os rostos opacos brilhando com a luz da alegria.
+
+11 Os maridos, de fora, observavam o que estava acontecendo e ficaram
+com ciúmes do afogado, ao perceberem que um morto tinha um poder que
+eles mesmos não tinham mais. E pensaram nos sonhos que nunca haviam tido,
+nos poemas que nunca haviam escrito, nos mares que nunca tinham navegado,
+nas mulheres que nunca haviam desejado.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+12 A história termina dizendo que finalmente enterraram o morto. Mas a aldeia
+nunca mais foi a mesma.
+
+                                                                          ALVES, R. Sobre como da morte brota a vida. F. de São Paulo.
+                                                                     Cotidiano. Disponível em: https://www1.folha.uol.com.br. Acesso
+                                                                                                         em: 20 abr. 2023. Adaptado.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+No conto recontado, os ciúmes que o morto provocou nos maridos da vila foi
+motivado pelo fato de ele ter
+
+A) chamado a atenção por ser muito alto.
+
+B) vivido amores intensos e inesquecíveis.
+
+C) navegado por mares e oceanos distantes.
+
+D) realizado sonhos considerados impossíveis.
+
+E) despertado nas mulheres sentimentos esquecidos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+03. CESGRANRIO - 2023 - Transpetro - Segundo Oficial de Náutica (20N)
+
+De acordo com o narrador, a justificativa para recontar a história de Gabriel García
+Márquez é
+
+A) o aprendizado da antropofagia com Murilo Mendes.
+
+B) a história original do conto ter sido escrita com sangue.
+
+C) o conto pertencer a ele depois de tê-lo lido e devorado.
+
+D) o caso de um homem afogado ter chamado sua atenção.
+
+E) os livros serem feitos com carne e sangue de seus autores
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+          FCC
+
+                                     Profª. Adriana Figueiredo
+
+---
+
+04. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+                                  Avaliar e avaliar-se
+
+      Avaliar é atribuir algum valor a algo ou a alguém. Nesse sentido, nossa atenção
+recai em geral sobre o que ou quem está sendo avaliado. Um carro, um modo de
+vida, um governo, uma empresa, uma pessoa – imediatamente surge logo diante de
+nós o objeto de uma avaliação, na iminência ou no momento mesmo de ser
+qualificado. Mas pensa-se pouco no sujeito da avaliação: afinal, quem está
+avaliando? Não é uma pergunta que costuma se antepor a um processo de
+avaliação – e no entanto, esta depende, fundamentalmente, dos critérios já
+assumidos pelo avaliador.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+04. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+                                  Avaliar e avaliar-se
+
+      De fato, avaliar supõe faixas de mensuração dos valores atribuídos, que
+podem ir do barato ao caro, do fácil ao difícil, do belo ao feio, do necessário ao
+supérfluo etc. etc. O valor pode estar num extremo ou outro, ou em algum ponto de
+uma tábua valorativa onde os traços são flutuantes e problemáticos. Mas essa tábua
+não age por si mesma, e volta-se à pergunta mais que necessária: quem elegeu,
+graduou e opera essa tábua?
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+04. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+       Ainda quando estudantes do ensino médio, foi-nos oferecida por uma
+professora a oportunidade de nos avaliarmos a nós mesmos. A atribuição
+obrigatória da nota do trabalho de cada um a cada um estaria reservada. Olhamo-
+nos, intrigados. À primeira vista, parecia ser aquela uma oportunidade de ouro para
+todo mundo se dar a nota máxima... Mas, no momento seguinte, sentimos que
+estávamos sendo convocados para uma tarefa superior, e nada oportunista: a de
+cada um revelar para si mesmo que tipo de ética havia dentro de si, que valores lhe
+caberia defender como verdadeiros. A professora nos oferecia, assim, um espelho
+crítico diante do qual podíamos fazer alguma micagem ou reconhecer e enfrentar a
+verdade dos nossos limites. Foi uma lição preciosa, nada fácil, aliás, de se sustentar
+com a honestidade que ela reclama.
+                                                                       (ALBUQUERQUE, Silvério. Notas de escola. Aguardando edição)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+04. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+Ao se considerar um processo de avaliação, deve-se levar em conta, de acordo com
+o primeiro parágrafo do texto,
+A) uma rigorosa caracterização inicial do objeto a ser submetido à análise
+do avaliador.
+
+B) a identificação inicial do agente da avaliação e dos critérios que basearão
+seu trabalho.
+
+C) o fato de que nada deve se antepor a esse processo, para não torná-lo vicioso.
+
+D) a objetivação desse processo por meio de critérios alheios a quem deva conduzi-
+lo.
+
+E) a flexibilização desse processo de acordo com os valores subjetivos de seu agente.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+04. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+Ao se considerar um processo de avaliação, deve-se levar em conta, de acordo com
+o primeiro parágrafo do texto,
+A) uma rigorosa caracterização inicial do objeto a ser submetido à análise
+do avaliador.
+
+B) a identificação inicial do agente da avaliação e dos critérios que basearão
+seu trabalho.
+
+C) o fato de que nada deve se antepor a esse processo, para não torná-lo vicioso.
+
+D) a objetivação desse processo por meio de critérios alheios a quem deva conduzi-
+lo.
+
+E) a flexibilização desse processo de acordo com os valores subjetivos de seu agente.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+05. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+                                 [Em torno dos sonhos]
+
+       A palavra sonho, do latim somnium, significa muitas coisas diferentes, todas
+vivenciadas durante a vigília, e não durante o sono. Realizei o “sonho da minha vida”,
+“meu sonho de consumo” são expressões usadas cotidianamente pelas pessoas para
+dizer que pretendem ou conseguiram alcançar algo. Por que será que o sonho, fenômeno
+normalmente noturno que tanto pode evocar o prazer quanto o medo, é justamente a
+palavra usada para designar tudo aquilo a que se aspira?
+       O repertório publicitário contemporâneo não tem dúvida de que o sonho é a força
+motriz de nossos comportamentos, a motivação íntima de nossa ação exterior. Num
+anúncio de cartão de crédito, a promessa milagrosa: “Realizamos todos os seus sonhos”.
+Em outro anúncio de cartão de crédito, uma foto enorme de um casal sorridente,
+velejando num mar caribenho em dia ensolarado, está sobre a frase “Aonde os seus
+sonhos o levarão?” Deduz-se do anúncio de que os sonhos são como veleiros, capazes
+de levar-nos a lugares idílicos, perfeitos, altamente... desejáveis.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+05. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+As equações “sonho é igual a desejo que é igual a dinheiro” têm como variável oculta a
+liberdade de ir, ser e principalmente ter, liberdade que até os mais miseráveis podem
+experimentar no sonho noturno, mas que no sonho diurno é privilégio apenas dos
+detentores de um mágico cartão de plástico.
+     No seu famoso discurso “I have a dream” (“eu tenho um sonho”), o reverendo Martin
+Luther King colocou no centro do debate político norte-americano a necessidade de
+justiça e integração racial. Num país construído por escravos africanos, seus descendentes
+eram obrigados a construir o “sonho americano”, mas proibido de fruí-lo. Prêmio Nobel da
+paz em 1964, o dr. King foi assassinado a tiros quatro anos depois. Morreu o reverendo
+lutador, mas não o sonho, que vicejou e progressivamente abriu espaço para a diminuição
+da desigualdade racial no país. Força poderosa a dos sonhos, que continua a requerer
+explicação.
+                    (Adaptado de: RIBEIRO, Sidarta. O oráculo da noite. A história e a ciência do sonho. São Paulo: Companhia das Letras, 2019, p, 19-20)
+Profª Adriana Figueiredo
+                                                              
+
+
+---
+
+05. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+No segundo parágrafo, o autor trata de uma relação
+
+A) espontânea entre a necessidade de sonhar e o efeito do consumo obsessivo
+a que levam os nossos sonhos mais expressivos.
+
+B) artificiosa, na qual os interesses do mercado se traduzem como atendimento
+às nossas mais íntimas aspirações pessoais.
+
+C) libertária entre aquilo que imaginamos ser os nossos desejos e os
+que efetivamente são atendidos por agentes econômicos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+05. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+No segundo parágrafo, o autor trata de uma relação
+
+D) complexa, por meio da qual acreditamos ser nossos os sonhos que
+efetivamente só no realismo das finanças se revelam.
+
+E) conformista entre o que alimentamos como grandes sonhos e o imperativo
+de reduzi-los às dimensões da nossa realidade.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+POLARIZAÇÃO
+
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+06. FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária
+
+[Expectativa e desempenho nossos]
+
+        Numa cultura como a nossa, que valoriza o indivíduo, espera-se de cada um que
+se faça ouvir e reconhecer pelo que tem de mais singular. Um dos grandes imperativos
+da época diz que é preciso expressar-se a qualquer preço. E acreditamos
+automaticamente que, se pudéssemos procurar fundo nas nossas tripas,
+encontraríamos pérolas. “Eu sou advogada. mas lá no fundo sou poeta ou romancista”.
+“Eu sou engenheiro, mas lá no fundo sou viajante como Amyr Klink.” Eu sou médica,
+mas há uma bailarina dentro de mim.” O vínculo social tenta nos definir, mas a
+criatividade nos resgatará.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+06. FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária
+
+       Valorizamos o individuo em suas expressões idealmente mais singulares.
+Portanto, as relações sociais nos parecem sempre suspeitas: será que elas não
+ameaçam a expressão de nossa subjetividade única e original? Apesar dos outros, que
+nos identificam socialmente, imaginamos que é possível ser “nós mesmos” e produzir
+algo de mais valor.
+       Muitos acabam pensando que, se não seguem sua vocação, é por causa do
+parceiro com quem vivem. “Não posso deixar de trabalhar; e à noite, quando volto
+para casa, não dá. Precisaria de solidão para tocar, escrever, pensar, treinar. Pedem
+de mim toda a atenção e não há como não conversar.” Em suma, as necessidades da
+vida em família seriam responsáveis por nossas falências expressivas.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+06. FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área Judiciária
+
+
+       Surpresa e mistério: quando a reivindicação consegue ser satisfeita, ocorre um
+imprevisto: aliviado dos compromissos e das responsabilidades sociais, sozinho e com
+o tempo que pediu a Deus, livre e desembaraçado, o indivíduo nada cria, nada produz.
+O tempo e o espaço agora reservados ao seu gênio transformaram-se em caricatura de
+seus anseios de adolescência.
+
+                                (Adaptado de: CALLIGARIS, Contardo. Terra de ninguém. São Paulo: Publifolha, 2004, p. 299-300)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+ 06. FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área
+ Judiciária
+Expõe-se, ao final do texto, a ideia de que nossas falências expressivas (3º parágrafo)
+
+A) são superadas a partir do momento em que desaparecem os entraves da nossa
+criatividade.
+
+B) devem-se às altas expectativas que os outros alimentam em relação ao nosso real
+valor.
+
+C) convivem diariamente com os esforços que fazemos para liberar nossa vocação
+artística.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+ 06. FCC - 2023 - TRT - 12ª Região (SC) - Analista Judiciário - Área
+ Judiciária
+D) constituem um mistério quando acreditamos que dentro de nós há lampejos de
+genialidade.
+
+E) derivam dos nossos limites individuais e não da falta de meios para nossa
+explosão criativa.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+07. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+                                        No voo da caneta
+
+        Numa das cartas ao seu amigo Mário de Andrade, assegurava-lhe o poeta Carlos
+Drummond de Andrade que era com uma caneta na mão que costumava viver as suas maiores
+emoções.
+        Comentando isso numa das minhas aulas de Literatura, atentei para a reação de um
+jovem aluno: um visível sentimento de piedade por aquele “poeta sitiado e infeliz, homem de
+gabinete, tímido mineiro que não se atirou à vida” tal como em seguida ele me explicou sua
+reação.
+        Não tive como lhe dizer, naquele momento, que entre as tantas formas de se atirar à
+vida está a de se valer de uma caneta para perseguir poemas e achar as falas humanas mais
+urgentes e precisas, essenciais para quem as diz, indispensáveis para quem as ouve, vivas para
+dentro e para além do tempo e do espaço imediatos. Espero que o jovem aluno logo tenha se
+convencido de que um poeta torna aberto para todos o universo reflexivo de sua intimidade,
+onde também podemos reconhecer algo da nossa.
+                                                                          (Aldair Rômulo Siqueira, a publicar)
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+07. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+Para o jovem aluno de Literatura, a confissão de Drummond ao seu amigo Mário
+
+A) trouxe-lhe um impulso de comiseração diante de quem se aliena e foge das
+experiências reais da vida.
+
+B) pareceu o testemunho de alguém que valoriza cegamente a transcrição das
+experiências da sua vida.
+
+C) provocou nele um sentimento de insatisfação diante da crença de quem apenas
+dá valor às paixões mais radicais.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+07. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+
+
+D) soou como uma arrogante declaração de um poeta que julga sua timidez
+superior à dos outros.
+
+E) perturbou-o a ponto de acusar aqueles poetas que acreditam de fato na eficácia
+da comunicação verbal.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+                                        No voo da caneta
+
+        Numa das cartas ao seu amigo Mário de Andrade, assegurava-lhe o poeta Carlos
+Drummond de Andrade que era com uma caneta na mão que costumava viver as suas maiores
+emoções.
+        Comentando isso numa das minhas aulas de Literatura, atentei para a reação de um
+jovem aluno: um visível sentimento de piedade por aquele “poeta sitiado e infeliz, homem de
+gabinete, tímido mineiro que não se atirou à vida” tal como em seguida ele me explicou sua
+reação.
+        Não tive como lhe dizer, naquele momento, que entre as tantas formas de se atirar à
+vida está a de se valer de uma caneta para perseguir poemas e achar as falas humanas mais
+urgentes e precisas, essenciais para quem as diz, indispensáveis para quem as ouve, vivas para
+dentro e para além do tempo e do espaço imediatos. Espero que o jovem aluno logo tenha se
+convencido de que um poeta torna aberto para todos o universo reflexivo de sua intimidade,
+onde também podemos reconhecer algo da nossa.
+                                                                          (Aldair Rômulo Siqueira, a publicar)
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+08. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+A confissão que o poeta Carlos Drummond de Andrade fez numa carta ao seu amigo
+Mário de Andrade equivale a declarar que
+
+A) a poesia afasta o poeta da realidade, e com isso o poupa de sofrer as emoções
+que o cotidiano infeliz lhe traz.
+
+B) uma caneta na mão de um escritor corresponde à ilusão que um guerreiro tem
+em relação ao poder de sua arma.
+
+C) a expressão poética pode trazer para quem a cultiva a intensidade emocional das
+experiências mais bem vividas.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. FCC - 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área
+Administrativa
+
+D) a arte da poesia é de tal modo compensatória que nos faz esquecer a qualidade
+mesma das emoções verdadeiras.
+
+E) aos poetas cabe imaginar um mundo de emoções tão pessoais que elas acabam
+por se fecharem em si mesmas.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+        FGV
+
+                                     Profª. Adriana Figueiredo
+
+---
+
+09. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente
+Educador
+
+O povo é como uma cera mole, tudo depende de mão que o modele.
+
+Nessa frase, o povo é visto como
+
+A) preguiçoso.
+B) sonhador.
+C) influenciável.
+D) corajoso.
+E) determinado.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+10. FGV - 2023 - SMED de Belo Horizonte - MG - Professor Municipal de
+1º e 2º Ciclos
+
+A língua humana é cabal para dizer o que se passa no espírito, mas é incapaz de dizer
+o que vem do coração. Machado de Assis.
+
+Assinale a opção em que o mesmo pensamento aparece.
+
+A) As palavras do dicionário não possuem tons individuais, mas só universais.
+
+B) Uma linguagem diferente é uma visão sentimental da vida também diferente.
+
+C) Quando todos os outros meios de comunicação falham, tente as palavras.
+
+D) Uma coisa escrita sem liberdade não pode ser senão regular ou má.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+11. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo - Área I
+- Manhã
+Leia o fragmento textual a seguir.
+
+O senão deste livro
+
+    Começo a arrepender-me deste livro. Não que ele me canse; eu não tenho que fazer; e, realmente,
+expedir alguns magros capítulos para esse mundo sempre é tarefa que distrai um pouco da eternidade.
+Mas o livro é enfadonho, cheira a sepulcro, traz certa contração cadavérica; vício grave, e aliás
+ínfimo, porque o maior defeito deste livro és tu, leitor. Tu tens pressa de envelhecer, e o livro anda
+devagar; tu amas a narração direta e nutrida, o estilo regular e fluente, e este livro e o meu estilo são
+como os ébrios, guinam à direita e à esquerda, andam e param, resmungam, urram, gargalham,
+ameaçam o céu, escorregam e caem... E caem! — Folhas misérrimas do meu cipreste, heis de cair,
+como quaisquer outras belas e vistosas; e, se eu tivesse olhos, dar-vos-ia uma lágrima de saudade. Esta
+é a grande vantagem da morte, que, se não deixa boca para rir, também não deixa olhos para chorar...
+Heis de cair.
+
+Profª Adriana Figueiredo        ASSIS, Machado de. Memórias Póstumas de Brás Cubas. Tipografia Nacional. Rio de Janeiro. 1ª ed. 1881.
+                                            
+
+
+---
+
+11. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo - Área I
+- Manhã
+Segundo o fragmento textual, o verdadeiro senão do livro é
+A) a estrutura narrativa objetivada pelo autor, que parte do fim para o começo.
+
+B) o tema central, demasiadamente triste e “cheirando a sepulcro”.
+
+C) o estilo em que o livro é narrado, destacando particularmente os capítulos
+curtos.
+
+D) o leitor, que prefere um outro modelo de narrativa, mais centrada na ação que
+na reflexão.
+
+E) o narrador, que pretende encerrar rapidamente o livro, por estar cansado
+de produzi-lo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+CEBRASPE
+
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+12. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+                                                                     Texto CB1A1-II
+
+          Segundo dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua, 2022), 18,3% dos
+jovens de 14 a 29 anos não concluíram alguma das etapas da educação básica seja por abandono, seja por nunca terem
+frequentado a escola. Sabe-se que a evasão é multifatorial, uma vez que são várias as razões que conduzem ao
+abandono escolar. A necessidade de trabalhar e o desinteresse pelo estudo foram os principais motivos apontados na
+pesquisa.
+          O público da educação de jovens e adultos (EJA) é caracterizado pela diversidade: diversidade de
+experiências escolares e de vivências no mundo do trabalho, diversidade geracional, além daquelas presentes em
+todas as salas de aula, como a diversidade étnico-racial e de gênero. Defendemos a inserção do termo “idosos”,
+porque reconhece e enfatiza a necessidade de oferecer oportunidades educacionais a todas as faixas etárias que não
+tiveram acesso à educação formal ou que desejam retomar seus estudos. Utilizar a expressão completa — educação
+de jovens, adultos e idosos (EJAI) — busca promover a igualdade de oportunidades, o que pode ajudar a combater e
+evitar preconceitos e estereótipos.
+
+                       Paula Cobucci; Weruska Machado.Educação linguística para jovens e adultos. São Paulo: Editora Contexto, p. 7-8 (com adaptações).
+
+Profª Adriana Figueiredo
+                                                             
+
+
+---
+
+12. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+
+Acerca das ideias do texto CB1A1-II, julgue o item a seguir.
+
+
+Segundo o texto, os jovens e os adultos atendidos pela EJA são diferentes uns dos
+outros em vários aspectos.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+13. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Técnico I
+
+Texto CB3A1
+
+        O Brasil enfrentou, em 2021, a mais grave crise hidrológica das últimas nove décadas.
+Além de reflexos na produção agrícola e no abastecimento de água nas cidades, a falta de
+chuvas colocou em risco a capacidade de geração de energia elétrica.
+        Sem as chuvas, os reservatórios das centrais hidrelétricas baixaram a índices
+históricos. Em abril daquele ano, fim do período chuvoso, o nível das represas do subsistema
+Sudeste/Centro-Oeste, que abriga as principais hidrelétricas do país, atingiu 35%, apenas um
+pouco melhor do que o índice da mesma época em 2001 (32%), quando o Brasil viveu uma
+grave crise no abastecimento elétrico que causou apagões, deixou as cidades às escuras e, à
+época, obrigou o governo federal a instituir o racionamento de energia.
+
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+13. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Técnico I
+
+        Para prevenir o colapso do setor e evitar que a situação vivida há 20 anos se repetisse,
+algumas medidas foram adotadas pelo Ministério de Minas e Energia. Ainda no primeiro
+semestre de 2021, o órgão decidiu ampliar a geração elétrica a partir de usinas termelétricas,
+que funcionam com combustíveis fósseis, e também autorizou o aumento de importação de
+energia elétrica de países vizinhos, como Argentina e Uruguai.
+        Pesquisadores e especialistas reconhecem as dificuldades enfrentadas pelo setor
+elétrico, altamente dependente de recursos hídricos, mas se tem verificado uma transição
+energética peculiar do Brasil em relação ao resto do mundo. Dados da Agência Internacional
+de Energia (IEA) mostram que a geração global de energia elétrica é embasada,
+principalmente, em carvão mineral (38% do total) e gás natural (23%). A fonte hidráulica,
+predominante no Brasil, responde por apenas 16% da capacidade instalada global.
+
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+13. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Técnico I
+
+Enquanto a maioria dos países tem uma matriz elétrica com predomínio da fonte térmica,
+que vem sendo substituída por alternativas renováveis, o Brasil está mudando de uma fonte
+renovável para outras duas igualmente renováveis, a solar e a eólica. Dessa forma, o país
+continuará a ter uma das melhores matrizes energéticas do mundo, capaz de suprir a
+demanda com fontes variadas de energia.
+
+                           Yuri Vasconcelos. Sob o risco da escassez. Ed. 310, dez./2021. Internet: <revistapesquisa.fapesp.br> (com adaptações).
+
+Profª Adriana Figueiredo
+                                                     
+
+
+---
+
+13. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Técnico I
+
+
+A respeito das ideias veiculadas no textp CB3A1, julgue os itens a seguir
+
+A transição da matriz energética brasileira tem ocorrido de maneira diversa da
+observada nos demais países.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+14. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Universitário Júnior
+Texto CB2A1 - A força das renováveis
+
+         Um dos maiores parques eólicos da América do Sul começou a operar em junho de 2021 em
+pleno sertão piauiense. Situado 500 quilômetros (km) ao sul da capital Teresina, o complexo Lagoa dos
+Ventos é formado por 230 aerogeradores, responsáveis por converter a força dos ventos em
+eletricidade, instalados no alto de torres de 118 m de altura. O empreendimento, fruto de um
+investimento de R$ 3 bilhões de uma empresa italiana, vai gerar 3,3 terawatts-hora (TWh) de energia
+por ano, volume suficiente para abastecer 1,6 milhão de residências. A energia limpa e renovável
+gerada no local evitará a emissão de mais de 1,9 milhão de toneladas de dióxido de carbono (CO2) na
+atmosfera, quando comparado a uma usina termelétrica, segundo a companhia. Uma expansão em
+curso, ainda sem data para entrar em operação, elevará a atual capacidade de geração para 5 TWh por
+ano.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+14. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Universitário Júnior
+        Ao ser inaugurado, o complexo eólico piauiense somou-se a outras 750 centrais similares
+em operação no país, 90% delas localizadas na região Nordeste. De acordo com a Associação Brasileira
+de Energia Eólica (AbEEólica), essa infraestrutura, composta por 8,8 mil geradores, produziu no
+ano passado energia para atender a demanda de 28,8 milhões de moradias, o equivalente a 86,4
+milhões de pessoas. Desde 2019, a fonte eólica é a segunda da matriz elétrica nacional e a que mais
+tem se expandido. Com 20 gigawatts (GW) de potência instalada operacional, é superada pela
+energia hidráulica, com cerca de 103 GW.
+        O Brasil foi o terceiro país que mais instalou energia eólica no mundo no ano passado, segundo
+a presidente-executiva da AbEEólica. Em 2020, foram inaugurados 66 novos parques e em 2021,
+até novembro, outros 54 entraram em operação. “Fomos responsáveis por 43% da nova
+capacidade instalada adicionada à matriz brasileira e já somos o sétimo país no ranking mundial de
+geração eólica.” O potencial de geração no país é estimado em cerca de 500 GW, quantidade suficiente
+para atender o triplo da demanda atual de energia dos brasileiros. O número é três vezes superior ao
+do atual parque nacional de energia elétrica, incluindo todas as fontes disponíveis (hidrelétrica, solar,
+biomassa, gás natural, óleo diesel, carvão mineral e nuclear).
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+14. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU
+BINACIONAL - Profissional de Nível Universitário Júnior
+
+De acordo com as informações presentes no texto CB2A1, a energia eólica no Brasil é a
+segunda colocada quando se trata da fonte que mais se expande em âmbito nacional.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+15. (ADAPTADO) CESPE / CEBRASPE - 2024 - Prefeitura de
+Joinville - SC - Auxiliar de Educador
+Texto CB2A1
+
+         As discussões sobre o uso da tecnologia na educação já acontecem há alguns anos e foram
+potencializadas após a pandemia de covid-19 e, mais recentemente, pelo Relatório de Monitoramento
+Global da Educação publicado pela UNESCO em 2023
+         A infoexclusão é um ponto de atenção no relatório. Embora o Brasil tenha iniciativas de
+distribuição de equipamentos de informática nas escolas, quem está conectado à Internet não
+necessariamente está digitalmente incluído. Além da democratização do acesso e disponibilização de
+infraestrutura, é necessário o multiletramento.
+         Nesse contexto, a visão dicotômica dos smartphones como heróis ou vilões deve ser discutida.
+O relatório da UNESCO revela que um em cada quatro países já proibiu ou restringiu o uso de
+smartphones nas salas de aulas, alegando dispersão e prejuízos para a aprendizagem. Além disso,
+preocupam questões éticas, como gravação de aulas ou uso de imagens sem autorização, falta de
+controle ao que os alunos possam acessar, cyberbullying, exposição a conteúdos inapropriados, acesso
+a fake news, entre outras.
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+15. (ADAPTADO) CESPE / CEBRASPE - 2024 - Prefeitura de
+Joinville - SC - Auxiliar de Educador
+        No entanto, simplesmente proibir o uso de smartphones nas escolas segue na contramão do
+que vislumbramos para a formação dos estudantes nos dias atuais. Eles precisam aprender a evitar o
+uso nocivo da tecnologia, desenvolvendo noções básicas em favor do seu uso acadêmico e cidadão.
+        Enfrentamos na contemporaneidade inúmeros desafios no que se refere à tecnologia aplicada
+à educação. Entretanto, vislumbramos, a partir do uso ético e criativo da tecnologia educacional, uma
+potência que não pode ser desconsiderada.
+
+                           Érica Ramos Rocha Silva. Possibilidades da tecnologia na educação. Internet: <www.correio24horas.com.b> (com adaptações).
+
+Profª Adriana Figueiredo
+                                                            
+
+
+---
+
+15. (ADAPTADO) CESPE / CEBRASPE - 2024 - Prefeitura de
+Joinville - SC - Auxiliar de Educador
+
+De acordo com as ideias veiculadas no texto CB2A1, é necessário restringir o acesso ao
+celular em sala de aula, para evitar prejuízos à aprendizagem.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+16. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+                                                   Texto CB1A1-I
+
+                  Criado em 22 de novembro de 1968, por meio da Lei n.º 5.537, o Instituto Nacional de
+Desenvolvimento da Educação e Pesquisa (INDEP) foi transformado em Fundo Nacional de Desenvolvimento da
+Educação (FNDE) por meio do Decreto n.º 872, de 15 de dezembro de 1969. Subsequentemente, a autarquia
+passou por mudanças que diversificaram suas funções, ampliaram a abrangência dos programas executados, ao
+mesmo tempo em que o volume de recursos gerenciados aumentou. Todas essas mudanças trouxeram desafios
+para a gestão das políticas e exigiram novas competências do corpo funcional da instituição.
+         Inicialmente, o FNDE funcionava apenas como órgão arrecadador, fiscalizador e gerencial. Era
+responsável, principalmente, por gerir uma das principais fontes de recursos do Ministério da Educação (MEC), o
+salário educação, transferindo para os estados e o Distrito Federal 2/3 dos recursos arrecadados. Em 1997, com a
+extinção da Fundação de Assistência ao Estudante (FAE), o FNDE ganhou novas atribuições, tornando-se
+responsável pelas políticas de assistência ao educando referentes às áreas alimentar e nutricional, didático-
+pedagógicas (livros, bibliotecas e material escolar) e apoio complementar (transporte escolar e assistência à
+saúde).
+
+Profª Adriana Figueiredo
+                                            
+
+
+---
+
+16. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+         Mais responsabilidades foram transferidas para a autarquia em 1998, quando foram extintas as
+delegacias regionais do Ministério da Educação (DEMEC), o que exigiu sua reorganização a fim de responder às
+responsabilidades pelo acompanhamento e fiscalização da arrecadação e execução dos projetos e programas do
+MEC. Também passou a fazer parte das atribuições do FNDE a análise de prestação de contas dos recursos
+liberados para estados e municípios. Em 2004, houve a transferência da gestão do Fundo de Desenvolvimento
+da Escola e do Programa de Melhoria e Expansão do Ensino Médio, o que, novamente, ampliou o conjunto de
+funções da autarquia.
+
+       Cinara Gomes de Araújo Lobo; Julia Maurmann Ximenes. A construção da gestão do conhecimento no FNDE – um processo. Cadernos do FNDE,
+                                                                                         Brasília, v.1, n.1, jan-jun 2020, p. 11 (com adaptações).
+
+Profª Adriana Figueiredo
+                                                          
+
+
+---
+
+16. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+Julgue o item que se segue, a respeito do texto CB1A1-I e das ideias por ele
+veiculadas.
+
+
+De acordo com o texto, ao incorporar a FAE, o FNDE assumiu a responsabilidade de
+gerir todas as políticas de assistência ao estudante.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+17. (ADAPTADO) CESPE / CEBRASPE - 2024 - PC-PE - Escrivão de Polícia
+
+       Quando se trata de obesidade, é importante ter em mente que vivemos um grave
+problema de saúde pública. Dados de 2019 do Ministério da Saúde apontam que cerca de 50%
+da população possuem excesso de peso (ou seja, têm índice de massa corporal — IMC —
+maior que 25) e 20% da população são obesos (IMC maior que 30).
+       As pesquisas são claras ao dizer que há correlação entre a condição de sobrepeso e de
+obesidade e a mortalidade por doenças cardíacas. Por isso, não é correto dizer que está tudo
+bem se a obesidade no país aumentar drasticamente. Mas, nesse contexto, muitas pessoas se
+amparam em um discurso médico para lembrar constantemente a toda pessoa gorda que ela
+precisa urgentemente emagrecer, o que também não é correto.
+       Médicos e nutricionistas garantem que é perfeitamente possível uma pessoa gorda ser
+mais saudável que uma pessoa magra. Magreza não é sinônimo de saúde, e não só gordos têm
+diabetes, hipertensão, problemas cardíacos e problemas articulares.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+17. (ADAPTADO) CESPE / CEBRASPE - 2024 - PC-PE - Escrivão de Polícia
+
+        O excesso de peso e a obesidade têm diversas causas, como fatores genéticos,
+fisiológicos, sociais, psicológicos e nutricionais. Portanto, quando alguém diz a uma pessoa
+gorda que ela é assim porque quer ou porque não se esforça para emagrecer, está ignorando
+uma série de fatores que podem dificultar muito esse processo. Além disso, uma pessoa pode
+perder peso tomando remédios fortes, submetendo-se a cirurgias, adotando dietas agressivas
+ou longos períodos de jejum. Mas isso não significa que a saúde melhore.
+        O consumo excessivo de açucarados e de baixa qualidade nutricional é um fator
+importante para o crescimento da obesidade. Se os pais de uma criança permitem que ela
+tenha uma rotina mais sedentária, tenha como fonte de lazer o celular, o videogame, o
+computador e a televisão, e coma muitos produtos açucarados, ela pode adquirir sobrepeso
+ou mesmo obesidade. A genética, o meio social, a condição psicológica e até o desmame
+precoce são alguns dos fatores que também podem influenciar esse processo.
+
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+17. (ADAPTADO) CESPE / CEBRASPE - 2024 - PC-PE - Escrivão de Polícia
+
+       Os fiscais do corpo alheio que se convencem de que estão apenas incentivando as
+pessoas a emagrecerem podem não estar ajudando em nada. O estigma social em torno do
+corpo gordo leva as pessoas a buscar medidas extremas, não para alcançar a saúde, mas a
+magreza. Disso decorrem diversos transtornos alimentares e até o próprio agravamento da
+obesidade.
+       Uma pesquisa identificou que cerca de 65% dos executivos têm objeções à contratação
+de profissionais obesos. A vida das pessoas gordas é minada por diversas perdas de direitos.
+Se essas pessoas são privadas de dignidade, de acesso pleno aos sistemas de saúde e de
+concorrência justa aos postos de trabalho e submetidas a chacotas e opressões que
+deterioram sua autoestima e saúde mental, é no mínimo perverso dizer que elas são culpadas
+pela própria obesidade. Quem deve dizer se o excesso de peso de uma pessoa é um problema
+para a saúde dela é um profissional de saúde, amparado por tantos exames quanto forem
+necessários.
+          Lucas Mascarenhas de Miranda. Gordofobia na tela: um reflexo da sociedade. In: Ciência Hoje, ed. 385, mar./2022, p. 10-12 (com adaptações).
+
+
+Profª Adriana Figueiredo
+                                                           
+
+
+---
+
+17. (ADAPTADO) CESPE / CEBRASPE - 2024 - PC-PE - Escrivão de Polícia
+
+De acordo com as ideias do texto 2A1-I, é correto afirmar que pessoas obesas
+desenvolvem transtornos alimentares porque são orientadas por pessoas magras a
+adotar medidas extremas para reduzir a massa corporal.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+MISCELÂNEA
+
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+18. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+Texto CB1A1-II
+
+        O conceito de civilização não pode ser precisamente definido, não apenas por ser um processo
+evolucionário, mas também por ter se manifestado de formas muito diferentes através dos tempos.
+Entre as civilizações antigas, havia múltiplas diferenças nas crenças religiosas, nos costumes sociais, nas
+formas de governo e na criação artística. Contudo, uma faceta de fundamental importância para todas
+elas era a tecnologia, que, em sentido mais amplo, pode significar a aplicação do conhecimento para
+finalidades práticas.
+
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+18. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+        Hoje, a tecnologia é, na prática, sinônimo de ciência aplicada, mas as tecnologias básicas —
+tais como agricultura, construção, cerâmica, tecidos — foram originalmente empíricas e transmitidas
+de uma geração para outra, enquanto a ciência, no sentido de pesquisa sistemática das leis do
+universo, é um fenômeno relativamente recente. A tecnologia foi fundamental, já que proporcionava
+os recursos necessários para sociedades organizadas, e essas sociedades tornaram possíveis não
+apenas a divisão do trabalho — por exemplo, entre trabalhadores da terra, oleiros, marinheiros e
+similares —, como também um ambiente no qual puderam florescer as artes em geral, não
+necessárias à vida no dia a dia. A maioria dessas artes dependia de alguma espécie de suporte
+tecnológico: o escultor requeria ferramentas, o escritor necessitava de tinta e de papiro (ou papel,
+mais tarde), o dramaturgo precisava de teatros especialmente construídos.
+
+  Trevor I. Williams. História das invenções: do machado de pedra às tecnologias da informação. Tradução de Cristina Antunes. Atualização e revisão de
+                                                 William E. Schaaf, Jr. e Arianne E. Burnette. Belo Horizonte: Gutenberg, 2009, p. 12-13 (com adaptações).
+
+Profª Adriana Figueiredo
+                                                            
+
+
+---
+
+18. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+        Hoje, a tecnologia é, na prática, sinônimo de ciência aplicada, mas as tecnologias básicas —
+tais como agricultura, construção, cerâmica, tecidos — foram originalmente empíricas e transmitidas
+de uma geração para outra, enquanto a ciência, no sentido de pesquisa sistemática das leis do
+universo, é um fenômeno relativamente recente. A tecnologia foi fundamental, já que proporcionava
+os recursos necessários para sociedades organizadas, e essas sociedades tornaram possíveis não
+apenas a divisão do trabalho — por exemplo, entre trabalhadores da terra, oleiros, marinheiros e
+similares —, como também um ambiente no qual puderam florescer as artes em geral, não
+necessárias à vida no dia a dia. A maioria dessas artes dependia de alguma espécie de suporte
+tecnológico: o escultor requeria ferramentas, o escritor necessitava de tinta e de papiro (ou papel,
+mais tarde), o dramaturgo precisava de teatros especialmente construídos.
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+18. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+De acordo com o texto, graças à tecnologia, as sociedades organizadas criaram as
+condições para que as artes em geral pudessem se desenvolver
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+19. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU BINACIONAL -
+Profissional de Nível Universitário Júnior
+Texto CB2A1 - A força das renováveis
+
+         Um dos maiores parques eólicos da América do Sul começou a operar em junho de 2021 em
+pleno sertão piauiense. Situado 500 quilômetros (km) ao sul da capital Teresina, o complexo Lagoa dos
+Ventos é formado por 230 aerogeradores, responsáveis por converter a força dos ventos em
+eletricidade, instalados no alto de torres de 118 m de altura. O empreendimento, fruto de um
+investimento de R$ 3 bilhões de uma empresa italiana, vai gerar 3,3 terawatts-hora (TWh) de energia
+por ano, volume suficiente para abastecer 1,6 milhão de residências. A energia limpa e renovável
+gerada no local evitará a emissão de mais de 1,9 milhão de toneladas de dióxido de carbono (CO2) na
+atmosfera, quando comparado a uma usina termelétrica, segundo a companhia. Uma expansão em
+curso, ainda sem data para entrar em operação, elevará a atual capacidade de geração para 5 TWh por
+ano.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+19. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU BINACIONAL -
+Profissional de Nível Universitário Júnior
+        Ao ser inaugurado, o complexo eólico piauiense somou-se a outras 750 centrais similares
+em operação no país, 90% delas localizadas na região Nordeste. De acordo com a Associação Brasileira
+de Energia Eólica (AbEEólica), essa infraestrutura, composta por 8,8 mil geradores, produziu no
+ano passado energia para atender a demanda de 28,8 milhões de moradias, o equivalente a 86,4
+milhões de pessoas. Desde 2019, a fonte eólica é a segunda da matriz elétrica nacional e a que mais
+tem se expandido. Com 20 gigawatts (GW) de potência instalada operacional, é superada pela
+energia hidráulica, com cerca de 103 GW.
+        O Brasil foi o terceiro país que mais instalou energia eólica no mundo no ano passado, segundo
+a presidente-executiva da AbEEólica. Em 2020, foram inaugurados 66 novos parques e em 2021,
+até novembro, outros 54 entraram em operação. “Fomos responsáveis por 43% da nova
+capacidade instalada adicionada à matriz brasileira e já somos o sétimo país no ranking mundial de
+geração eólica.” O potencial de geração no país é estimado em cerca de 500 GW, quantidade
+suficiente para atender o triplo da demanda atual de energia dos brasileiros. O número é três vezes
+superior ao do atual parque nacional de energia elétrica, incluindo todas as fontes disponíveis
+(hidrelétrica, solar, biomassa, gás natural, óleo diesel, carvão mineral e nuclear).
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+19. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU BINACIONAL -
+Profissional de Nível Universitário Júnior
+        Embora seja uma energia limpa e renovável, a eólica causa impactos ambientais e sociais:
+altera a paisagem onde é instalada, as turbinas geram ruído, provocando desconforto nas
+comunidades vizinhas, e suas pás colocam em risco pássaros e morcegos que vivem no local. Os
+desafios tecnológicos a serem enfrentados dizem respeito à intermitência da geração e à dificuldade de
+estocar a energia gerada nos parques.
+                           Yuri Vasconcelos. Revista Pesquisa FAPESP. Edição 310, dez./2021. Internet: <revistapesquisa.fapesp.br> (com adaptações).
+
+Profª Adriana Figueiredo
+                                                         
+
+
+---
+
+19. (ADAPTADO) CESPE / CEBRASPE - 2024 - ITAIPU BINACIONAL -
+Profissional de Nível Universitário Júnior
+
+De acordo com as informações presentes no texto CB2A1, a energia eólica no
+Brasil atende atualmente o equivalente a três vezes o que alcança o parque atual de
+energia elétrica.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+20. (ADAPTADO) CESPE / CEBRASPE - 2024 - Prefeitura de Joinville -
+SC - Auxiliar de Educador
+Texto CB2A2
+        No caso de uma criança com menos de dez anos — entenda-se aqui o nível de maturidade, e
+não a idade —, o professor deve preocupar-se principalmente para que ela não seja importunada no
+seu brincar e nas suas experiências. Ensiná-la não faz sentido, pois, nessa idade narcisista, ela
+responde a cada interferência fugindo da realização da atividade. Nessa idade, desenhar e pintar são
+os seus principais meios de expressão.
+        A partir dos 10 anos, a criança começa a ficar insatisfeita com seus modos de expressão; o
+ambiente mais amplo ganha sentido para ela — não mais como aquele que existia em sua fantasia,
+mas como é na realidade —, e só então pode ser instaurado o “ensino da forma”, que não deve,
+porém, encobrir a sua espontaneidade expressiva. As técnicas de desenho e pintura devem ser
+apresentadas à criança conforme suas necessidades. Tamanhos, relações entre tamanhos (proporção),
+ritmo, claro, escuro, escultura, espaço, cor e o valor de expressão do exagero, da sutileza e da
+composição. Os elementos com os quais a criança opera são por natureza os mesmos da “grande arte”
+e levam a criança, por si mesma, a ter consciência deles, abrindo o caminho da “grande arte” para ela.
+                           Friederike Brandeis. O desenhar das crianças. In: Cadernos CEDES, v. 42, n.º 116, 2022, p. 122 (com adaptações).
+
+Profª Adriana Figueiredo
+                                               
+
+
+---
+
+20. (ADAPTADO) CESPE / CEBRASPE - 2024 - Prefeitura de Joinville -
+SC - Auxiliar de Educador
+
+Conforme a perspectiva exposta no texto, não há razão para ensinar técnicas de
+desenho e pintura a crianças com nível de maturidade abaixo do de dez anos.
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+21. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+Texto CB1A1-I
+
+     Com o avanço científico e tecnológico ocorrido na Europa durante o Renascimento, os inventores
+começaram a demandar reconhecimento oficial de suas criações, a fim de impedir a imitação de seus
+inventos. Assim, em 1421, foi concedida ao inventor Filippo Brunelleschi, em Veneza, a primeira
+patente, com prazo de três anos, pela invenção de um modelo de embarcação para transportar
+mármore. Nesse contexto de criação de um sistema de concessão de privilégios como forma de
+proteção de um invento, em 1474, foi promulgado na República de Veneza o Estatuto de Veneza,
+garantindo ao inventor a exploração comercial do seu invento pela concessão do privilégio da invenção
+pelo prazo de dez anos.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+21. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+       No começo do século XVII, em 1623, a Inglaterra promulgou o Estatuto dos Monopólios, que
+consistiu na primeira base legal para concessão de patentes no país para uma invenção efetivamente
+nova. O estatuto contribuiu para a promulgação da Lei de Patentes de 1624, que, por sua vez,
+instituiu o sistema de patentes britânico. Em 1790, os Estados Unidos da América promulgaram a sua
+primeira lei de patentes, intitulada Patent Act, na qual era autorizada a concessão de direitos exclusivos
+aos inventores sobre as suas obras, estabelecendo um prazo de quatorze anos de duração. Nessa
+mesma conjuntura, em 1791, a França promulgou sua primeira lei de patentes, denominada Décret
+d’Allarde, considerada uma das principais leis publicadas durante a Revolução Francesa.
+         No Brasil, o príncipe regente Dom João VI promulgou o Alvará de 28 de abril de 1809, tornando
+o país um dos primeiros no mundo a reconhecer a proteção dos direitos do inventor, atrás apenas da
+República de Veneza (1474), da Inglaterra (1623), dos Estados Unidos da América (1790) e da França
+(1791).
+                                                                      Flávia Romano Villa Verde et al. As invenções no Brasil contadas a partir de documentos
+                                                             históricos de patentes. Rio de Janeiro: Instituto Nacional da Propriedade Industrial (Brasil) – INPI,
+                                                              Diretoria de Patentes, Programas de Computador e Topografia de Circuitos Integrados – DIRPA,
+                                                                  Coordenação Geral de Estudos, Projetos e Disseminação da Informação Tecnológica – CEPIT
+                                                                            e Divisão de Documentação Patentária – DIDOC, 2023, p. 20-21 (com adaptações).
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+21. CESPE / CEBRASPE - 2024 - INPI - Analista De Planejamento,
+Gestão E Infraestrutura Em Propriedade Industrial
+
+
+Conforme as informações do texto, a lei de patentes britânica, promulgada em 1624,
+instituiu o sistema de patentes inglês em substituição ao Estatuto dos Monopólios de
+1623, que, até então, constituía a base legal de concessão de patentes na Inglaterra
+
+CERTO
+ERRADO
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+INFERÊNCIA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+                                    INFERÊNCIA
+
+É o que chamamos de Interpretação de Texto. Diferentemente da compreensão de
+texto, neste caso, é preciso ir um pouco além do que diz o texto, é necessário
+concluir com base no que se leu (pressupostos textuais). O cuidado que é
+necessário ter é não extrapolar o texto.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Use:
+
+(1) inferência possível
+(2) extrapolação
+
+
+1.As aulas vão chegar ao fim em dezembro. / A educação no país vai de ruim a
+péssimo.( )
+2. João não quer mais ser enfermeiro. / João já quis ser enfermeiro. ( )
+3.Quando for à praia, não se esqueça de levar o guarda-sol. / A pessoa não vai à
+praia. ( )
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+I. Use:
+
+(1) inferência possível
+(2) Extrapolação
+
+
+4.O governo pretende arrecadar mais em impostos. / O governo pretende
+combater a sonegação. ( )
+5.Infelizmente, ela continua pensando em sair do trabalho. / Ela está satisfeita com
+a situação. ( )
+6.Ainda no seu início, a lista já inclui 27 substâncias tóxicas. / A lista vai incluir
+muitas outras substâncias prejudiciais. ( )
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+22. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR - Administrador
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+22. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR - Administrador
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+22. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR - Administrador
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+22. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+ Administrador
+Com base no conteúdo desenvolvido e na sua forma de apresentação, conclui-se
+que o texto tem o objetivo de:
+
+A)analisar de forma crítica as soluções dos governantes para reduzir a acumulação
+de resíduos tóxicos.
+B)apresentar ao leitor propostas para reduzir os efeitos do entulho eletrônico sobre
+a humanidade.
+C) descrever características dos produtos eletroeletrônicos considerados obsoletos
+pelo mercado.
+D)conscientizar o leitor dos perigos relacionados ao excesso de produtos
+eletroeletrônicos no meio ambiente.
+E)relatar episódios que sirvam como exemplificação dos conceitos científicos
+discutidos.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+23. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+23. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+23. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+A partir da leitura do parágrafo final do texto, entende-se que, diante da morte de
+Maria José, o narrador experimentou um sentimento de
+
+A) raiva
+B) pavor
+C) alegria
+D) desamparo
+E) alívio
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+24. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+24. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+24. CESGRANRIO - 2022 - ELETROBRAS-ELETRONUCLEAR -
+Especialista em Proteção Radiológica
+
+A partir do trecho do parágrafo 6 “Terna e firme, nunca lhe vi a fraqueza da
+pieguice”, entende-se que Maria José era uma mulher
+
+A) afetada
+B) vaidosa
+C) corajosa
+D) tímida
+E) extravagante
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+25. FGV - 2023 - Prefeitura de São José dos Campos - SP - Agente
+de Combate às Endemias
+
+O povo é como uma cera mole, tudo depende de mão que o modele.
+
+Nessa frase, o povo é visto como
+
+A) preguiçoso.
+B) sonhador.
+C) influenciável.
+D) corajoso.
+E) determinado.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+26. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo - Área I
+- Manhã
+Assinale a opção em que a inferência indicada foi retirada ilogicamente da frase.
+
+A)Deus não paga no fim de cada semana, mas paga. / Há um tipo de pagamento
+qualquer que é feito semanalmente.
+
+B)O inferno está cheio de boas intenções. / As boas intenções não são suficientes
+para a realização de boas obras.
+
+C)Deus me respeita quando eu trabalho. Mas me ama quando eu canto. / Deus
+prefere o canto ao trabalho.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+26. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo - Área I
+- Manhã
+Assinale a opção em que a inferência indicada foi retirada ilogicamente da frase.
+
+D)Muda-se mais facilmente de religião do que de café. / A mudança de hábitos leva
+à mudança de religião.
+
+E)Deus fez o primeiro jardim e Caim, a primeira cidade. / Os jardins são criações
+superiores às das cidades
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+27. CESPE / CEBRASPE - 2023 - TBG - Técnico de Segurança Júnior
+
+                                                     Texto CB3A1-I
+
+     A Comissão de Trabalho, de Administração e Serviço Público da Câmara dos Deputados aprovou projeto de
+lei que institui a Política Nacional de Linguagem Simples nos órgãos e nas entidades da administração pública
+direta e indireta.
+
+     Os objetivos da política incluem possibilitar que as pessoas consigam encontrar, entender e usar facilmente
+as informações publicadas por órgãos e entidades, reduzir os custos administrativos e o tempo gasto com
+atividades de atendimento ao cidadão, e facilitar a participação e o controle da gestão pública pela população.
+
+                           O texto aprovado é substitutivo ao Projeto de Lei n.º 6.256/2019.
+
+    A proposta conceitua linguagem simples como o conjunto de técnicas para transmitir informações de
+maneira clara e objetiva, como redigir as frases em ordem direta, preferencialmente em voz ativa, usar frases
+curtas, evitar redundâncias e palavras desnecessárias e estrangeiras, entre outras. Essas técnicas deverão ser
+observadas na redação de textos destinados ao cidadão.
+
+Profª Adriana Figueiredo
+                                             
+
+
+---
+
+27. CESPE / CEBRASPE - 2023 - TBG - Técnico de Segurança Júnior
+
+
+     “Em nosso substitutivo, sugerimos mudanças no texto original para que
+constassem todas as técnicas, e não apenas algumas, referentes à redação em
+linguagem simples”, explicou o relator. “Também deixamos clara a intenção de
+que a linguagem simples seja adotada especificamente nas comunicações para o
+cidadão, por intermédio de sites, jornais impressos, aplicativos e publicidade, não
+atingindo, portanto, todos os atos da administração pública, como pretendia o
+projeto original”, completou.
+
+                                                                     Internet: <camara.leg.br> (com adaptações).
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+27. CESPE / CEBRASPE - 2023 - TBG - Técnico de Segurança Júnior
+
+Em relação ao texto CB3A1-I e seus sentidos, julgue o item a seguir.
+
+Depreende-se do texto que as alterações propostas no texto substitutivo do relator
+definem regras para o emprego da linguagem simples e especificam os setores da
+administração pública que deverão adotar essa linguagem.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+                                                   Texto CB1A1-I
+
+  Criado em 22 de novembro de 1968, por meio da Lei n.º 5.537, o Instituto Nacional de Desenvolvimento da
+Educação e Pesquisa (INDEP) foi transformado em Fundo Nacional de Desenvolvimento da Educação (FNDE) por
+meio do Decreto n.º 872, de 15 de dezembro de 1969. Subsequentemente, a autarquia passou por mudanças
+que diversificaram suas funções, ampliaram a abrangência dos programas executados, ao mesmo tempo em que
+o volume de recursos gerenciados aumentou. Todas essas mudanças trouxeram desafios para a gestão das
+políticas e exigiram novas competências do corpo funcional da instituição.
+
+ Inicialmente, o FNDE funcionava apenas como órgão arrecadador, fiscalizador e gerencial. Era responsável,
+principalmente, por gerir uma das principais fontes de recursos do Ministério da Educação (MEC), o salário
+educação, transferindo para os estados e o Distrito Federal 2/3 dos recursos arrecadados. Em 1997, com a
+extinção da Fundação de Assistência ao Estudante (FAE), o FNDE ganhou novas atribuições, tornando-se
+responsável pelas políticas de assistência ao educando referentes às áreas alimentar e nutricional, didático-
+pedagógicas (livros, bibliotecas e material escolar) e apoio complementar (transporte escolar e assistência à
+saúde).
+Profª Adriana Figueiredo
+                                           
+
+
+---
+
+28. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+
+ Mais responsabilidades foram transferidas para a autarquia em 1998, quando foram extintas as delegacias
+regionais do Ministério da Educação (DEMEC), o que exigiu sua reorganização a fim de responder às
+responsabilidades pelo acompanhamento e fiscalização da arrecadação e execução dos projetos e programas do
+MEC. Também passou a fazer parte das atribuições do FNDE a análise de prestação de contas dos recursos
+liberados para estados e municípios. Em 2004, houve a transferência da gestão do Fundo de Desenvolvimento
+da Escola e do Programa de Melhoria e Expansão do Ensino Médio, o que, novamente, ampliou o conjunto de
+funções da autarquia.
+
+Cinara Gomes de Araújo Lobo; Julia Maurmann Ximenes. A construção da gestão do conhecimento no FNDE – um processo.
+Cadernos do FNDE, Brasília, v.1, n.1, jan-jun 2020, p. 11 (com adaptações).
+
+Profª Adriana Figueiredo
+                                              
+
+
+---
+
+28. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+
+Julgue o item que se segue, a respeito do texto CB1A1-I e das ideias por ele
+veiculadas.
+
+
+Infere-se do texto que, em sua origem, o FNDE atuava em um conjunto reduzido de
+programas, com um volume de recursos pouco significativo.
+
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+29. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento e
+Execução de Programas e Projetos Educacionais - Conhecimentos
+Básicos
+                                                               Texto CB1A1-II
+
+  Segundo dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua, 2022), 18,3% dos jovens
+de 14 a 29 anos não concluíram alguma das etapas da educação básica seja por abandono, seja por nunca terem
+frequentado a escola. Sabe-se que a evasão é multifatorial, uma vez que são várias as razões que conduzem ao
+abandono escolar. A necessidade de trabalhar e o desinteresse pelo estudo foram os principais motivos apontados na
+pesquisa.
+
+   O público da educação de jovens e adultos (EJA) é caracterizado pela diversidade: diversidade de experiências
+escolares e de vivências no mundo do trabalho, diversidade geracional, além daquelas presentes em todas as salas de
+aula, como a diversidade étnico-racial e de gênero. Defendemos a inserção do termo “idosos”, porque reconhece e
+enfatiza a necessidade de oferecer oportunidades educacionais a todas as faixas etárias que não tiveram acesso à
+educação formal ou que desejam retomar seus estudos. Utilizar a expressão completa — educação de jovens, adultos
+e idosos (EJAI) — busca promover a igualdade de oportunidades, o que pode ajudar a combater e evitar preconceitos e
+estereótipos.
+
+Paula Cobucci; Weruska Machado.Educação linguística para jovens e adultos. São Paulo: Editora Contexto, p. 7-8 (com adaptações)
+Profª Adriana Figueiredo
+                                                       
+
+
+---
+
+29. CESPE / CEBRASPE - 2023 - FNDE - Especialista em Financiamento
+e      Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+Acerca das ideias do texto CB1A1-II, julgue o item a seguir.
+
+
+Depreende-se das ideias do texto que a necessidade de trabalhar, o desinteresse
+pelo estudo e outros fatores atuam em conjunto na vida dos entrevistados, de
+modo a fazê-los abandonar a escola.
+
+
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+MISCELÂNEA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+30. CESGRANRIO - 2023 - Transpetro - Técnico de Informática
+
+                                         Brasil, paraíso dos agrotóxicos
+
+1 O Brasil vive um drama: ao acordar do sonho de uma economia agrária pujante, o país desperta para o
+pesadelo de ser, pelo quinto ano consecutivo, o maior consumidor de agrotóxicos do planeta. Balança comercial
+tinindo; agricultura a todo vapor. Mas quanto custa, por exemplo, uma saca de milho, soja ou algodão? Será que
+o preço de tais commodities – que há tempos são o motor de uma economia primária à la colonialismo moderno
+– compensa os prejuízos sociais e ambientais negligenciados nos cálculos do comércio internacional?
+
+2 “Pergunta difícil”, diz o economista Wagner Soares, do Instituto Brasileiro de Geografia e Estatística (IBGE). A
+Bolsa de Chicago define o preço da soja; mas não considera que, para se produzir cada saca, são aplicadas
+generosas doses de agrotóxicos que permanecem no ambiente natural – e no ser humano – por anos ou mesmo
+décadas. “Ao final das contas, quem paga pela intoxicação dos trabalhadores e pela contaminação ambiental é a
+sociedade”, afirma Soares. Em seu melhor economês, ele garante que as “externalidades negativas” de nosso
+modelo agrário continuam de fora dos cálculos.
+
+Profª Adriana Figueiredo
+                                             
+
+
+---
+
+30. CESGRANRIO - 2023 - Transpetro - Técnico de Informática
+
+3Segundo o economista do IBGE, que estudou propriedades rurais no Paraná, cada dólar gasto na compra de
+agrotóxicos pode custar aos cofres públicos 1,28 dólar em futuros gastos com a saúde de camponeses
+intoxicados. Mas este é um valor subestimado. Afinal, Soares contabilizou apenas os custos referentes a
+intoxicações agudas. Levando-se em conta os casos crônicos, acrescidos da contaminação ambiental difusa nos
+ecossistemas, os prejuízos podem atingir cifras assustadoramente maiores. “Estamos há décadas inseridos nesse
+modelo agrário, e estudos mensurando seus reais custos socioambientais são raros ou inexistentes”, diz.
+
+4Seja na agricultura familiar, seja nas grandes propriedades rurais, “os impactos dos agrotóxicos na saúde pública
+abrangem vastos territórios e envolvem diferentes grupos populacionais”, afirma dossiê publicado pela
+Associação Brasileira de Saúde Coletiva (Abrasco), entidade que reúne pesquisadores de diversas universidades
+do país.
+
+5Não são apenas agricultores e suas famílias que integram grupos de risco. Todos os milhares de profissionais
+envolvidos no comércio e na manipulação dessas substâncias são potenciais vítimas. E, além deles, “todos nós,
+diariamente, a cada refeição, ingerimos princípios ativos de agrotóxicos em nossos alimentos”, garante uma
+médica da Universidade Federal do Ceará (UFC). “Hoje, todo mundo come veneno”, afirma um agricultor.
+
+
+Profª Adriana Figueiredo
+                                             
+
+
+---
+
+30. CESGRANRIO - 2023 - Transpetro - Técnico de Informática
+
+6Produtores e especialistas alinhados ao modelo convencional de produção agrícola insistem: sem agrotóxicos
+seria impossível alimentar uma população mundial em constante expansão. Esses venenos seriam, portanto, um
+mal necessário, de acordo com esses produtores. Agricultores garantem que não há nenhuma dificuldade em
+produzir alimentos orgânicos, sem agrotóxicos, para alimentar a população. Segundo eles, “a humanidade
+domina a agricultura há pelo menos 10 mil anos, e o modelo imposto no século 20 vem apagando a herança e o
+acúmulo de conhecimento dos métodos tradicionais.”
+
+7Mas a pergunta que não quer calar é: será que um modelo dito “alternativo” teria potencial para alimentar
+uma população que, até 2050, deverá chegar a 9 bilhões? Certamente tem muito mais potencial do que o
+agronegócio que, hoje, não dá conta nem de alimentar 7 bilhões, retrucam estudiosos. Sistemas de produção
+descentralizados têm muito mais condições de produzir e distribuir alimentos em quantidade e qualidade.
+Precisamos de outra estrutura agrária – baseada em propriedades menores, com produção diversificada,
+privilegiando mercados locais e contemplando a conservação da biodiversidade. A engenheira agrônoma Flávia
+Londres assina embaixo e defende que “Monoculturas são grandes desertos verdes. A agroecologia, portanto,
+requer uma mudança paradigmática no modelo agrário, que resultaria, na verdade, em uma mudança cultural”.
+
+KUGLER, H. Revista Ciência Hoje, n. 296, v. 50. RJ: SBPC. set. 2012. Adaptado
+
+Profª Adriana Figueiredo
+                                                  
+
+
+---
+
+30. CESGRANRIO - 2023 - Transpetro - Técnico de Informática
+
+O objetivo principal do texto é discutir a
+
+A)contraposição entre a agricultura orgânica e a convencional, baseada no uso de
+agrotóxicos.
+B)implementação de monoculturas para a renovação do bem-sucedido modelo
+agrário brasileiro.
+C) importância de o nosso país se manter na liderança na concorrência mundial do
+agronegócio.
+D)intoxicação dos trabalhadores e a contaminação ambiental provocados pela
+agricultura familiar.
+E)perspectiva de o agronegócio conseguir produzir alimentos para uma população
+de sete bilhões de pessoas.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+31. CESGRANRIO - 2023 - BANRISUL - Escriturário
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. CESGRANRIO - 2023 - BANRISUL - Escriturário
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. CESGRANRIO - 2023 - BANRISUL - Escriturário
+
+De acordo com o texto, apoiar projetos de educação voltados ao desenvolvimento
+pessoal e profissional de jovens carentes de comunidades vizinhas pode fazer parte
+do Código de Ética de uma empresa por ser um exemplo de ação de
+
+A) interação com sindicatos
+B) prevenção de assédio
+C) proteção do meio ambiente
+D) relacionamento com clientes
+E) responsabilidade social
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+32. FCC - 2023 - MPE-PB - Técnico Ministerial - Sem Especialidade
+
+
+Atenção: Leia o texto “Liberdade e necessidade ao revés”, de Eduardo Giannetti, para responder à questão.
+
+  “Por meios honestos se você conseguir, mas por quaisquer meios faça dinheiro”, preconiza - prenhe de
+sarcasmo - o verso de Horácio. Desespero, precisão ou cobiça, dentro ou fora da lei: o dinheiro nos incita a fazer
+o que de outro modo não faríamos. Suponha, entretanto, um súbito e imprevisto bafejo da fortuna - um prêmio
+lotérico, uma indenização milionária, uma inesperada herança. Quem continuaria a fazer o que faz para ganhar a
+vida caso não fosse mais necessário fazê-lo? Estamos acostumados a considerar o trabalho como algo a que nos
+sujeitamos, mais ou menos a contragosto, para obter uma renda - como um sacrifício ou necessidade imposta
+de fora; ao passo que o consumo é tomado como a esfera por excelência da livre escolha: o território sagrado
+para o exercício da nossa liberdade individual. A possibilidade de satisfazer, ainda que parcialmente, nossos
+desejos e fantasias de consumo se afigura como a merecida recompensa - ou suborno, diriam outros - capaz de
+atenuar a frustração e aliviar o aborrecimento de ocupações que de outro modo não teríamos e não nos dizem
+respeito.
+
+Profª Adriana Figueiredo
+                                             
+
+
+---
+
+32. FCC - 2023 - MPE-PB - Técnico Ministerial - Sem Especialidade
+
+
+ Daí que, na feliz expressão do jovem Marx, “o trabalhador só se sente ele mesmo quando não está trabalhando;
+quando ele está trabalhando, ele não se sente ele mesmo”. - Mas, se o mundo do trabalho está vedado às
+minhas escolhas e modo de ser; onde poderei expressar a minha individualidade? Impedido de ser quem sou
+no trabalho - escritório, chão de fábrica, call center, guichê, balcão - , extravaso a minha identidade no
+consumo - shopping, butique, salão, restaurante, showroom. Fonte de elã vital, o ritual da compra energiza e a
+posse ilumina a alma do consumidor. A compra de bens externos molda a identidade e acena com a promessa
+de distinção: ser notado, ser ouvido, ser tratado com simpatia, respeito e admiração pelos demais. Não o que
+faço, mas o que possuo - e, sobretudo, o que sonho algum dia ter - diz ao mundo quem sou. Servo impessoal no
+ganho, livre e soberano no gasto.
+
+(Adaptado de: GIANNETTI, Eduardo. Trópicos utópicos. São Paulo: Companhia das Letras, 2016)
+
+Profª Adriana Figueiredo
+                                               
+
+
+---
+
+32. FCC - 2023 - MPE-PB - Técnico Ministerial - Sem Especialidade
+
+No texto, o autor estabelece uma oposição entre
+
+A) trabalho e consumo.
+
+B) trabalho e sacrifício.
+
+C) cobiça e dinheiro.
+
+D) consumo e liberdade.
+
+E) sacrifício e frustração.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+33. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+                                               Avaliar e avaliar-se
+
+      Avaliar é atribuir algum valor a algo ou a alguém. Nesse sentido, nossa atenção recai em geral sobre o que
+ou quem está sendo avaliado. Um carro, um modo de vida, um governo, uma empresa, uma pessoa –
+imediatamente surge logo diante de nós o objeto de uma avaliação, na iminência ou no momento mesmo de ser
+qualificado. Mas pensa-se pouco no sujeito da avaliação: afinal, quem está avaliando? Não é uma pergunta que
+costuma se antepor a um processo de avaliação – e no entanto, esta depende, fundamentalmente, dos critérios
+já assumidos pelo avaliador.
+
+    De fato, avaliar supõe faixas de mensuração dos valores atribuídos, que podem ir do barato ao caro, do fácil
+ao difícil, do belo ao feio, do necessário ao supérfluo etc. etc. O valor pode estar num extremo ou outro, ou em
+algum ponto de uma tábua valorativa onde os traços são flutuantes e problemáticos. Mas essa tábua não age
+por si mesma, e volta-se à pergunta mais que necessária: quem elegeu, graduou e opera essa tábua?
+
+Profª Adriana Figueiredo
+                                            
+
+
+---
+
+33. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+
+ Ainda quando estudantes do ensino médio, foi-nos oferecida por uma professora a oportunidade de nos
+avaliarmos a nós mesmos. A atribuição obrigatória da nota do trabalho de cada um a cada um estaria reservada.
+Olhamo-nos, intrigados. À primeira vista, parecia ser aquela uma oportunidade de ouro para todo mundo se dar
+a nota máxima... Mas, no momento seguinte, sentimos que estávamos sendo convocados para uma tarefa
+superior, e nada oportunista: a de cada um revelar para si mesmo que tipo de ética havia dentro de si, que
+valores lhe caberia defender como verdadeiros. A professora nos oferecia, assim, um espelho crítico diante do
+qual podíamos fazer alguma micagem ou reconhecer e enfrentar a verdade dos nossos limites. Foi uma lição
+preciosa, nada fácil, aliás, de se sustentar com a honestidade que ela reclama.
+
+(ALBUQUERQUE, Silvério. Notas de escola. Aguardando edição)
+
+Profª Adriana Figueiredo
+                                              
+
+
+---
+
+33. FCC - 2023 - MPE-PB - Analista Ministerial - Psicologia
+Ao contar uma experiência escolar e prestar seu depoimento sobre o que seja
+avaliar a si mesmo, o autor do texto, no terceiro parágrafo, considera que essa
+tarefa
+
+A)acaba sendo pouco proveitosa, por conta dos interesses pessoais do avaliador no
+resultado a que deverá chegar.
+B)contraria princípios fundamentais de um processo de avaliação, que não pode
+recair sobre quem o promova.
+C)constitui um salutar desafio para os compromissos éticos pessoais que
+forçosamente estarão envolvidos nesse tipo de avaliação.
+D)pressupõe um tal grau de maturação ética que acaba por tolher seu
+aproveitamento por jovens ainda em formação.
+E)torna-se pedagogicamente necessária para que jovens estudantes se deem conta
+da inoperância de seus valores improvisados.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+34. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo -
+Área I - Manhã
+                                                     O senão deste livro
+
+    Começo a arrepender-me deste livro. Não que ele me canse; eu não tenho que fazer; e, realmente,
+expedir alguns magros capítulos para esse mundo sempre é tarefa que distrai um pouco da
+eternidade. Mas o livro é enfadonho, cheira a sepulcro, traz certa contração cadavérica; vício grave, e
+aliás ínfimo, porque o maior defeito deste livro és tu, leitor. Tu tens pressa de envelhecer, e o livro
+anda devagar; tu amas a narração direta e nutrida, o estilo regular e fluente, e este livro e o meu
+estilo são como os ébrios, guinam à direita e à esquerda, andam e param, resmungam, urram,
+gargalham, ameaçam o céu, escorregam e caem... E caem! — Folhas misérrimas do meu cipreste,
+heis de cair, como quaisquer outras belas e vistosas; e, se eu tivesse olhos, dar-vos-ia uma lágrima de
+saudade. Esta é a grande vantagem da morte, que, se não deixa boca para rir, também não deixa olhos
+para chorar... Heis de cair.
+
+ASSIS, Machado de. Memórias Póstumas de Brás Cubas. Tipografia Nacional. Rio de Janeiro. 1ª ed. 1881.
+
+
+Profª Adriana Figueiredo
+                                                
+
+
+---
+
+34. FGV - 2023 - Câmara dos Deputados - Consultor Legislativo -
+Área I - Manhã
+Segundo o fragmento textual, o verdadeiro senão do livro é
+
+A) a estrutura narrativa objetivada pelo autor, que parte do fim para o começo.
+
+B) o tema central, demasiadamente triste e “cheirando a sepulcro”.
+
+C) o estilo em que o livro é narrado, destacando particularmente os capítulos curtos.
+
+D)o leitor, que prefere um outro modelo de narrativa, mais centrada na ação que na
+reflexão.
+
+E) o narrador, que pretende encerrar rapidamente o livro, por estar cansado de
+produzi-lo.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+35. FGV - 2023 - Prefeitura de São José dos Campos - SP -
+Assistente Técnico em Saúde - Técnico em Enfermagem
+
+Um cartaz colocado sobre um gramado de um parque dizia:
+
+“É proibido pisar no gramado. Quem não souber ler, pergunte ao guarda. ”
+Sobre esse texto, assinale a afirmação correta.
+
+A) Mostra a presença adequada da autoridade no espaço público.
+B) Demonstra a preocupação com o meio ambiente.
+C) Indica um exagero autoritário, já que se trata de um parque.
+D) Há incoerência humorística entre as duas frases.
+E)Traz implicitamente uma ameaça.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+36. CESPE / CEBRASPE - 2023 - MME - Administrador
+
+                                              Texto CB1A1
+
+      Muitas regiões do mundo, inclusive o Brasil, estão vivendo o chamado “paradoxo verde”,
+expressão cunhada pelo economista alemão Hans-Werner Sinn (2008) para se referir a como políticas
+climáticas mais restritivas podem exercer pressão crescente sobre os preços de energia e ter efeitos
+indesejáveis, como incentivar a antecipação da extração e produção de combustíveis fósseis,
+acelerando, portanto, as mudanças climáticas. Um aspecto crucial é a necessidade de acordos
+internacionais que mantenham de maneira eficaz e justa grandes quantidades remanescentes de
+combustíveis fósseis no solo. O estudo recente de Welsby, publicado na revista Nature em 2021,
+mostra que a produção existente de carvão, petróleo e gás deve ser descontinuada. Mesmo quando
+governos não controlam diretamente a produção, suas leis, políticas e acordos podem definir, em
+grande medida, quanto é extraído e produzido. O BOGA (Beyond Oil and Gas Alliance) é um exemplo
+recente de acordo internacional que pode redefinir o futuro do setor de petróleo e gás (O&G – oil and
+gas).
+
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+36. CESPE / CEBRASPE - 2023 - MME - Administrador
+
+      Emissões evitadas hoje tornam menos arriscada a necessidade de medidas drásticas, ainda não
+suficientemente desenvolvidas, como projetos de captura, utilização e armazenamento de carbono
+(CCUS) e de tecnologias de emissões negativas (NET), comumente citados em anúncios de empresas
+do setor de O&G. Ademais, quanto mais cedo sofrermos os impactos das mudanças climáticas, mais
+cedo e por mais tempo teremos impactos físicos que levam a danos sociais e econômicos. Nesse
+sentido, emissões evitadas hoje valem mais do que emissões evitadas no futuro; mais do que metas
+de emissão zero em 2050, são necessárias ações imediatas nos próximos anos, para reduzir
+rapidamente as emissões de gases do efeito estufa. No futuro, grandes nomes da indústria de O&G
+podem ser conhecidos como aqueles que negligenciaram a ciência e não enfrentaram o desafio da
+emergência climática quando ainda tinham tempo. Por outro lado, podem aproveitar a já estreita
+janela de oportunidade para liderar uma nova economia cada vez mais eficiente, interconectada e
+limpa.
+
+B. S. L. Cunha et al. O passado, o presente e o futuro da indústria de O&G frente à crise climática. In: Ensaio
+Energético, nov. 2021 (com adaptações)
+
+Profª Adriana Figueiredo
+                                            
+
+
+---
+
+36. CESPE / CEBRASPE - 2023 - MME - Administrador
+
+
+Considerando as ideias veiculadas pelo texto CB1A1, julgue o item a seguir.
+
+De acordo com o texto, é arriscado confiar em projetos anunciados de CCUS e NET,
+dado o caráter incipiente dos avanços dessas tecnologias.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+37. CESPE / CEBRASPE - 2023 - FNDE - Especialista em
+Financiamento e Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+                                                               Texto CB1A1-II
+
+   Segundo dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua, 2022), 18,3% dos jovens
+de 14 a 29 anos não concluíram alguma das etapas da educação básica seja por abandono, seja por nunca terem
+frequentado a escola. Sabe-se que a evasão é multifatorial, uma vez que são várias as razões que conduzem ao
+abandono escolar. A necessidade de trabalhar e o desinteresse pelo estudo foram os principais motivos apontados na
+pesquisa.
+
+  O público da educação de jovens e adultos (EJA) é caracterizado pela diversidade: diversidade de experiências
+escolares e de vivências no mundo do trabalho, diversidade geracional, além daquelas presentes em todas as salas de
+aula, como a diversidade étnico-racial e de gênero. Defendemos a inserção do termo “idosos”, porque reconhece e
+enfatiza a necessidade de oferecer oportunidades educacionais a todas as faixas etárias que não tiveram acesso à
+educação formal ou que desejam retomar seus estudos. Utilizar a expressão completa — educação de jovens,
+adultos e idosos (EJAI) — busca promover a igualdade de oportunidades, o que pode ajudar a combater e evitar
+preconceitos e estereótipos.
+
+Paula Cobucci; Weruska Machado.Educação linguística para jovens e adultos.São Paulo: Editora Contexto, p. 7-8 (com adaptações).
+Profª Adriana Figueiredo
+                                                       
+
+
+---
+
+37. CESPE / CEBRASPE - 2023 - FNDE - Especialista em
+Financiamento e Execução de Programas e Projetos Educacionais -
+Conhecimentos Básicos
+Acerca das ideias do texto CB1A1-II, julgue o item a seguir.
+
+Entende-se da argumentação apresentada no texto que a inserção da palavra
+“idosos” na referência ao ensino de jovens e adultos e a utilização da expressão
+completa “educação de jovens, adultos e idosos (EJAI)” são motivadas por razões
+diferentes, porém complementares.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+OBRIGADA!
+                                            Professora: Adriana Figueiredo
+
+       
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                      @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                 facebook.com/prof.adriana.figueiredo
+
+
+                  
+
+
+---
+
+---

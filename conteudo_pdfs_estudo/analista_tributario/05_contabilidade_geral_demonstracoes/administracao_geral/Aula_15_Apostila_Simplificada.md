@@ -1,0 +1,1124 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 15_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Possati
+---
+
+# Possati
+
+Aula 14
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                            27 de Março de 2023
+
+---
+
+   Gilmar Possati
+   Aula 14
+
+            ESTOQUES, TIPOS DE INVETÁRIOS, CONTROLE DE
+               ESTOQUES (PEPS, UEPS E CUSTO MÉDIO)
+Sumário
+
+1 – Custos para Avaliação de Estoques 
+
+   1.1. Tipos de Inventário 
+
+   1.2. Critérios de Avaliação de Estoques 
+
+      1.2.1. PEPS 
+
+      1.2.2. UEPS
+
+      1.2.3. Custo Médio Ponderado Móvel 
+
+   1.3. Comparação entre os critérios 
+
+2 – Questões Comentadas
+
+3 – Lista das Questões Comentadas
+
+4 – Gabarito 
+
+                                                                                                                                                1
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                                                24
+           www.estrategiaconcursos.com.br
+
+                                               
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+              1 – CUSTOS PARA AVALIAÇÃO DE ESTOQUES
+1.1. Tipos de Inventário
+O inventário é o levantamento das mercadorias existentes em estoque no final do exercício social,
+com a finalidade de se conhecer o estoque final.
+Existem duas formas de se efetuar o controle de estoque, quais sejam: inventário permanente e
+inventário periódico.
+No inventário periódico os estoques são avaliados na data do balanço, por meio do inventário
+físico. Para calcular o valor do Custo das Mercadorias Vendidas (CMV), usamos a seguinte equação:
+                      CMV = Estoque inicial + Compras Líquidas – Estoque final
+                                                         ==219a34==
+
+Alguns doutrinadores informam que essa é uma forma extracontábil (matemática) de avaliação dos
+estoques.
+Exemplo: A empresa “Tchê Bagual” iniciou suas atividades com um estoque inicial de mercadorias
+no valor de R$ 10.000. Durante o exercício comprou mercadorias pelo valor de R$ 25.000,00. No
+final do exercício ao executar o inventário físico foi verificado um estoque final de R$ 5.000,00.
+Qual o valor do CMV?
+CMV = Ei + Compras – Ef
+CMV = 10.000 + 25.000 – 5.000
+CMV = 30.000,00
+Pessoal, um detalhe: entende-se por “compras”, o valor das compras líquidas, isto é, o valor das
+compras (brutas) diminuída ou aumentada pelos fatos que alteram os seus valores, conforme
+descrito a seguir:
+(+) Fretes (quando pagos pelo comprador)
+(+) Seguros
+(-) Abatimentos
+(-) Compras Anuladas / Devoluções de Compras
+(-) Descontos Incondicionais Obtidos
+Afetam, ainda, os valores das compras os impostos incidentes na transação comercial. No entanto,
+por ora, saibamos o descrito acima.
+No inventário permanente a empresa controla o estoque de forma contínua, registrando todas
+as entradas no estoque e as baixas em cada operação de venda. Nesse sistema, é necessário
+utilizar critérios de avaliação de estoques (PEPS, UEPS e Custo Médio), utilizando-se “fichas de
+estoque”.
+
+
+                                                                                               2
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Em suma, se você souber o que está na tabela abaixo detona tudo:
+        Inventário PERMANENTE                        Inventário PERIÓDICO
+ Valor do estoque é conhecido a        Valor do estoque é conhecido ao FINAL DO
+ QUALQUER MOMENTO                      PERÍODO (bimestre, semestre, ano)
+ Controle é realizado por meio de FICHAS
+                                       Utiliza as “contas desdobradas” (Estoque inicial,
+ DE ESTOQUE                            Compras Líquidas, Estoque Final)
+                                       CMV = EI +CO – EF
+                                       Maneira mais cobrada em prova
+ Lançamentos realizados diretamente na Pode utilizar, ainda, a conta “Mercadoria Mista”
+ conta Estoques                        (todas as operações são registradas na mesma
+                                       conta). Pouco explorado em prova.
+
+1.2. Critérios de Avaliação de Estoques
+Segundo a doutrina, a necessidade de escolha de um critério de avaliação de estoque decorre da
+instabilidade de preços. Se tivermos uma economia com preços perfeitamente estáveis, qualquer
+que seja o critério adotado, o resultado será igual.
+Os critérios mais comuns para a avaliação dos estoques e que são alvo de exigência em concursos
+são: PEPS, UEPS, Custo Médio Ponderado Móvel. Vamos ver de forma objetiva os
+conhecimentos necessários para marcarmos o “X” na alternativa correta!
+
+1.2.1. PEPS
+Pelo critério Primeiro que Entra é o Primeiro que Sai (PEPS), também conhecido pela sigla em
+inglês FIFO (First in first out), o CMV é apurado com base no custo de aquisição das mercadorias
+mais antigas em estoque, ou seja, as primeiras a entrar. Sendo assim, o estoque final é
+correspondente ao valor das unidades mais recentes. Vamos ver um “exemplo real”.
+
+(TJ-PI)
+
+Se a companhia avaliar seus estoques pelo critério PEPS (primeiro que entra, primeiro que sai), o
+valor do seu estoque de mercadorias no final do mês corresponderá, em R$, a
+a) 13.980,00.            b) 14.000,00.            c) 14.120,00.             d) 14.240,00.    e) 14.200,00.
+
+Comentários
+
+                                                                                                             3
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                             24
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Essa é uma questão clássica que, apesar de já ser “manjada”, costuma frequentar as provas. Para
+resolvê-la vamos utilizar a ficha de estoques, maneira mais didática para entendermos a
+sistemática.
+
+                                                                                       Primeiro que Entra
+
+   Dia            Entradas                                 Saídas                          Saldos
+            Qtde    Valores R$    Qtde                       Valores R$             Qtde    Valores R$
+                  Unit.    Total                          Unit.     Total                 Unit.    Total
+    3        40  200,00 8.000,00    -                      -          -              40  200,00 8.000,00
+    9        60  220,00 13.200,00   -                      -          -              40  200,00 8.000,00
+                                                                                     60  220,00 13.200,00
+                                                                                    100          21.200,00
+   15        -          -                         40     200,00      8.000,00        10  220,00 2.200,00
+                                     -            50     220,00     11.000,00
+                                                  90                19.000,00
+   25        50     240,00 12.000,00               -          -                       10    220,00     2.200,00
+                                                                          -           50    240,00    12.000,00
+                                                                                      60              14.200,00
+
+
+                                                                         CMV
+                                                                                             Estoque Final
+                                           Primeiro que Sai
+
+Logo, o valor do estoque final é de R$ 14.200,00.
+Gabarito: E
+Pessoal, a sistemática do PEPS é essa. Tranquilo, não é mesmo?
+E se a questão pedisse o valor do CMV? Basta olhar a coluna das saídas e somar o valor de todas
+as saídas. No nosso exemplo, como houve somente uma saída o valor do CMV será o valor dessa
+saída, conforme destacado na ficha (R$ 19.000).
+A questão pode solicitar, ainda, o valor do Lucro Bruto. Nesse caso, basta pegarmos o total da
+receita de vendas e subtrairmos o total do CMV. No nosso exemplo, teríamos:
+Receita de vendas: 90 unidades x 400,00 = 3.600,00
+LB = 36.000,00 – 19.000,00
+LB = 17.000,00
+
+                                                                                                                  4
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                  24
+         www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Observações:
+a) Caso a questão informe que houve devoluções de compras, devemos lançar negativamente na
+ficha na coluna das entradas entre parênteses. Se as devoluções forem nas vendas, devemos lançar
+negativamente entre parênteses na coluna das saídas. Dessa forma, a soma da coluna das entradas
+corresponderá efetivamente ao valor das compras líquidas, e a soma da coluna das saídas
+corresponderá efetivamente ao custo das mercadorias vendidas (saídas líquidas).
+b) As devoluções de compras deverão ser registradas na ficha pelo valor pago ao fornecedor
+por ocasião da respectiva compra. As devoluções de vendas deverão ser lançadas pelos mesmos
+valores das respectivas saídas.
+c) Por fim, os gastos eventuais nas devoluções (compras e vendas), por exemplo, fretes e
+seguros, devem ser considerados despesas operacionais e não custos. Logo, não devem constar
+nas fichas.
+
+(ICMBio) Uma das metas da avaliação de estoques é o controle físico e financeiro dos materiais.
+Nesse sentido, se a organização utiliza o método FIFO, ou PEPS, para avaliar seus estoques, é
+correto afirmar que essa organização considera que uma unidade retirada do estoque
+corresponde à última unidade que ingressou no estoque.
+Comentários
+Conforme estudamos, no critério PEPS a organização considera que uma unidade retirada do
+estoque corresponde à primeira unidade que ingressou no estoque.
+Gabarito: Errado
+
+1.2.2. UEPS
+Pelo critério Último que Entra é o Primeiro que Sai (UEPS), também conhecido pela sigla em inglês
+LIFO (Last In First Out), o CMV é apurado com base no custo de aquisição das mercadorias mais
+recentes em estoque, ou seja, as últimas a entrar. Sendo assim, o estoque final é correspondente
+ao valor das unidades mais antigas.
+Cabe destacar que o método UEPS não é admitido pela legislação do imposto de renda e pelas
+normas internacionais (o CPC 16 – Estoques, acompanhando esse entendimento, admite o uso
+do PEPS e do custo médio). Vamos ver um “exemplo real”:
+
+(TJ-PI)
+
+O custo das mercadorias vendidas (CMV) da sociedade, nas transações do mês, se esta avaliar
+seus estoques pelo critério UEPS (último que entra, primeiro que sai), foi, em R$, de
+
+
+                                                                                              5
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             24
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+a) 19.200,00            b) 19.120,00.              c) 19.080,00.           d) 19.000,00.        e) 18.920,00.
+
+Comentários
+
+                                                                                   Último que Entra
+
+   Dia            Entradas                                 Saídas                          Saldos
+            Qtde    Valores R$    Qtde                       Valores R$             Qtde     Valores R$
+                  Unit.    Total                          Unit.     Total                 Unit.     Total
+    3        40  200,00 8.000,00    -                      -          -              40  200,00 8.000,00
+    9        60  220,00 13.200,00   -                      -          -              40  200,00 8.000,00
+                                                                                     60  220,00 13.200,00
+                                                                                    100           21.200,00
+    15       -          -                         60     220,00     13.200,00        10  200,00 2.000,00
+                                     -            30     200,00      6.000,00
+                                                  90                19.200,00
+    25       50     240,00 12.000,00               -         -                        10    200,00     2.000,00
+                                                                          -           50    240,00    12.000,00
+                                                                                      60              14.000,00
+
+                                                                         CMV
+                                             Primeiro que Sai
+                                                                                             Estoque Final
+
+
+Logo, o valor do CMV é de R$ 19.200,00.
+Gabarito: E
+Perceba que utilizando o UEPS teríamos um estoque final de R$ 14.000,00 (menor que pelo PEPS)
+e um CMV maior. Estudaremos o comparativo entre os critérios mais adiante.
+O Lucro Bruto, nesse caso, seria de:
+LB = 36.000,00 – 19.200,00 = 16.800,00
+
+1.2.3. Custo Médio Ponderado Móvel
+Pelo critério do Custo Médio Ponderado Móvel, usamos o custo médio do estoque, para calcular
+o custo das vendas. Vamos pegar o mesmo exemplo para facilitar o entendimento.
+
+                                                                                                                  6
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                  24
+         www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+                                                                                     Média Móvel
+
+   Dia               Entradas                               Saídas                            Saldos
+
+            Qtde            Valores R$          Qtde             Valores R$         Qtde       Valores R$
+
+                     Unit.        Total                   Unit.        Total                Unit.        Total
+
+    3        40     200,00       8.000,00          -         -            -           40    200,00     8.000,00
+
+    9        60     220,00 13.200,00               -         -            -          100    212,00     21.200,00
+
+    15       -          -            -            90     212,00 19.080,00             10    212,00     2.120,00
+
+    25       50     240,00 12.000,00               -         -            -           60    235,33 14.120,00
+
+                                                   Média Móvel            CMV
+                                                                             Estoque Final
+Perceba que no caso da média móvel utilizamos o custo médio do estoque. No momento da saída
+procedemos com a baixa do estoque no valor da média (no nosso exemplo R$ 212,00). Caso
+tivéssemos mais uma saída utilizaríamos o valor da nova média apurada (R$ 235,33) e assim
+sucessivamente.
+Calculando o Lucro Bruto, temos:
+LB = 36.000,00 – 19.080,00 = 16.920,00
+
+1.3. Comparação entre os critérios
+Algumas questões exigem o conhecimento do comparativo entre os critérios de avaliação de
+estoques. De forma objetiva devemos saber o seguinte:
+Em uma economia inflacionária:
+PEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+UEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+                                             PEPS                      Média                  UEPS
+               Estoque                       Maior                     Médio                  Menor
+                CMV                          Menor                     Médio                  Maior
+             Lucro Bruto                     Maior                     Médio                  Menor
+Para confirmar essa situação, basta pegarmos os valores expostos nos exemplos anteriores, pois
+se referem a uma economia inflacionária (os valores unitários aumentam com o decorrer do
+tempo).
+
+                                                                                                                   7
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                   24
+         www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+                                          PEPS                       Média                   UEPS
+              Estoque                   14.200,00                  14.120,00               14.000,00
+               CMV                      19.000,00                  19.080,00               19.200,00
+            Lucro Bruto                 17.000,00                  16.920,00               16.800,00
+Em uma economia deflacionária:
+PEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+UEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+                                          PEPS                        Média                 UEPS
+              Estoque                     Menor                       Médio                 Maior
+               CMV                        Maior                       Médio                 Menor
+            Lucro Bruto                   Menor                       Médio                 Maior
+Perceba que a necessidade de escolha de um critério de avaliação de estoques decorre da
+instabilidade de preços. Nesse sentido, se tivermos uma economia com preços perfeitamente
+estáveis, qualquer que seja o critério adotado (PEPS, UEPS, custo médio), o resultado será
+igual.
+
+(PO-AL) Em uma economia deflacionária, o método de controle de estoques primeiro que
+entra primeiro que sai (PEPS) tende a apresentar custo do produto vendido mais elevado que
+o método da média ponderada móvel.
+Comentários
+Questão de fixação! Observe a tabela acima descrita. Na hora da prova, basta montarmos a
+tabelinha, não tem erro.
+Gabarito: Certo
+
+Finalizando a nossa parte teórica, destaca-se que a legislação do IR prevê o arbitramento do valor
+do estoque de produtos acabados e em fabricação para as empresas que não mantêm um sistema
+contábil de custos. Isso já foi alvo de exigência em concursos.
+
+(ANTT) A avaliação de estoques por valor arbitrado é um critério válido, sob determinadas
+condições.
+Comentários
+Conforme comentamos, trata-se de uma previsão na legislação fiscal.
+Gabarito: Certo
+
+                                                                                                       8
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                       24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+2 – QUESTÕES COMENTADAS
+1. (CESPE/SEFAZ-AL/2020) Em um cenário econômico de alta dos preços, a opção pela utilização
+do método PEPS (primeiro que entra, primeiro que sai) provoca custos de mercadorias vendidas
+em valores maiores do que os que seriam obtidos com a utilização do método da média
+ponderada.
+Comentários
+Conforme estudamos:
+Em uma economia inflacionária:
+PEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+UEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+                                          PEPS                        Média                UEPS
+              Estoque                     Maior                       Médio                Menor
+               CMV                        Menor                       Médio                Maior
+            Lucro Bruto                   Maior                       Médio                Menor
+Veja que o CMV é menor pelo PEPS.
+Gabarito: Errado
+
+2. (CESPE/Perito Criminal Federal/2018) A avaliação do estoque de mercadorias de uma
+empresa pelo método do preço específico é feita por meio do cálculo do custo das mercadorias
+vendidas ao final do período de apuração, levando-se em conta a média ponderada dos valores
+de aquisição e do estoque inicial.
+Comentários
+Pessoal, esse método do preço específico não costuma ser explorado em prova. De qualquer
+forma, vamos aproveitar a questão para complementar a teoria.
+Basicamente, você precisa saber que segundo esse método, apura-se o CMV de cada item
+(individualmente). Trata-se de um método aplicável a estoque com valores altos, como estoque
+de embarcações, veículos, etc.
+O item refere-se ao método do custo médio ponderado.
+Gabarito: Errado
+
+3. (CESPE/Perito Criminal Federal/2018) Para uma empresa que utilize o sistema de inventário
+periódico baseado na conta de mercadorias com função desdobrada, o valor de estoque existente
+pode ser conhecido a qualquer momento mediante a verificação do saldo da conta de
+mercadorias.
+
+
+                                                                                                   9
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                   24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Comentários
+No inventário periódico os estoques são avaliados na data do balanço, por meio do inventário
+físico. Para calcular o valor do Custo das Mercadorias Vendidas (CMV), usamos a seguinte equação:
+                     CMV = Estoque inicial + Compras Líquidas – Estoque final
+Alguns doutrinadores informam que essa é uma forma extracontábil (matemática) de avaliação dos
+estoques.
+No inventário permanente a empresa controla o estoque de forma contínua, registrando todas
+as entradas no estoque e as baixas em cada operação de venda. Nesse sistema, é necessário
+utilizar critérios de avaliação de estoques (PEPS, UEPS e Custo Médio), utilizando-se “fichas de
+estoque”.
+Observe que o item inverte as características. É no inventário permanente que o estoque pode ser
+conhecido a qualquer momento.
+Gabarito: Errado
+
+4. (CESPE/TRE-GO/2015) A avaliação dos estoques pode ser feita, entre outros métodos, por
+meio da avaliação pelo custo médio e pelo método FIFO, ou PEPS (o primeiro que entra é o
+primeiro que sai).
+Comentários
+Bem tranquilo. O custo médio e o PEPS são critérios de avaliação de estoques.
+Gabarito: Certo
+
+5. (CESPE/SUFRAMA/2014) Com relação à avaliação de estoques pelo método último a entrar,
+primeiro a sair (UEPS), o aumento do custo de uma peça implica redução do lucro, o que,
+consequentemente, reduz o imposto de renda a ser pago. Esse efeito não é observado no método
+primeiro a entrar, primeiro a sair (PEPS) nem no preço médio.
+Comentários
+Quando nada é informado a respeito devemos analisar com base em uma economia inflacionária.
+Dentro dessa perspectiva, estudamos que o CMV é maior e, portanto, o lucro é menor. Com o
+lucro menor, a empresa pagaria menos imposto. Aí, com toda a fúria do leão J, obviamente que
+não é aceito pela legislação fiscal. Nos demais métodos esse efeito não é observado (por
+issoaceito pelo fisco).
+Gabarito: Certo
+
+6. (CESPE/ANTAQ/2014) Os métodos primeiro que entra, primeiro que sai (PEPS) e último que
+entra, primeiro que sai (UEPS) fornecem orientações para o controle do manuseio das entradas e
+saídas de itens estocados e são, também, métodos de avaliação de estoques.
+Comentários
+
+                                                                                             10
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Perfeito! Não há nem o que comentar J PEPS, UEPS e Média Ponderada são métodos de controle
+e avaliação de estoques.
+Gabarito: Certo
+
+7. (CESPE/DPU/2016) Caso uma economia apresente preços perfeitamente estáveis, o saldo final
+dos estoques será o mesmo, independentemente de o método escolhido ser a média ponderada
+ou o primeiro que entra, primeiro que sai.
+Comentários
+Conforme estudamos:
+Em uma economia inflacionária:
+PEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+UEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+                                          PEPS                        Média                 UEPS
+              Estoque                     Maior                       Médio                 Menor
+               CMV                        Menor                       Médio                 Maior
+            Lucro Bruto                   Maior                       Médio                 Menor
+Para confirmar essa situação, basta pegarmos os valores expostos nos exemplos anteriores, pois
+se referem a uma economia inflacionária (os valores unitários aumentam com o decorrer do
+tempo).
+                                          PEPS                       Média                   UEPS
+              Estoque                   14.200,00                  14.120,00               14.000,00
+               CMV                      19.000,00                  19.080,00               19.200,00
+            Lucro Bruto                 17.000,00                  16.920,00               16.800,00
+Em uma economia deflacionária:
+PEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+UEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+                                          PEPS                        Média                 UEPS
+              Estoque                     Menor                       Médio                 Maior
+               CMV                        Maior                       Médio                 Menor
+            Lucro Bruto                   Menor                       Médio                 Maior
+Perceba que a necessidade de escolha de um critério de avaliação de estoques decorre da
+instabilidade de preços. Nesse sentido, se tivermos uma economia com preços perfeitamente
+estáveis, qualquer que seja o critério adotado (PEPS, UEPS, custo médio), o resultado será
+igual.
+Gabarito: Certo
+
+
+                                                                                                       11
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                       24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+8. (CESPE/TRT17/2013) Por uma questão de consistência contábil, se a empresa adota o método
+PEPS para valoração de um tipo de estoque, ela não poderá utilizar outro critério para valoração
+de outro tipo de estoque.
+Comentários
+Não há previsão normativa quanto ao impedimento de a empresa adotar métodos diferentes para
+diferentes estoques. Veja o que dispõe o CPC 16 – Estoques:
+23. O custo dos estoques de itens que não são normalmente intercambiáveis e de bens ou serviços
+produzidos e segregados para projetos específicos deve ser atribuído pelo uso da identificação
+específica dos seus custos individuais.
+24. A identificação específica do custo significa que são atribuídos custos específicos a itens
+identificados do estoque. Este é o tratamento apropriado para itens que sejam segregados para
+um projeto específico, independentemente de eles terem sido comprados ou produzidos.
+Porém, quando há grandes quantidades de itens de estoque que sejam geralmente
+intercambiáveis, a identificação específica de custos não é apropriada. Em tais circunstâncias, um
+critério de valoração dos itens que permanecem nos estoques deve ser usado.
+25. O custo dos estoques, que não sejam os tratados nos itens 23 e 24, deve ser atribuído pelo
+uso do critério Primeiro a Entrar, Primeiro a Sair (PEPS) ou pelo critério do custo médio ponderado.
+A entidade deve usar o mesmo critério de custeio para todos os estoques que tenham
+natureza e uso semelhantes para a entidade. Para os estoques que tenham outra natureza ou
+uso, podem justificar-se diferentes critérios de valoração.
+Gabarito: Errado
+
+Uma empresa comercial não conseguiu suprir sua necessidade de estoque com mercadoria
+nacional e adquiriu, no mês de janeiro/2014, mercadorias de fornecedor que pratica vendas
+indexadas ao dólar norte-americano (USD). Como política interna, a empresa realiza as compras à
+vista e as vendas, com prazo de trinta dias. Por meio de inventário permanente, a empresa utiliza
+o PEPS (primeiro a entrar, primeiro a sair) como forma de controle e avaliação do seu estoque. As
+tabelas abaixo mostram a movimentação dos estoques em janeiro/2014 e a cotação da moeda
+norte-americana em alguns dias desse mês.
+
+                                                                                                12
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+9. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O lucro bruto auferido com as vendas do dia 16/1 foi de R$ 141,00.
+Comentários
+Pessoal, não podemos nos assustar com as questões. A primeira impressão que temos quando nos
+deparamos com uma questão com muitos dados fornecidos é que ela é difícil. O candidato ao ler
+o comando da questão já lança um aviso para o cérebro que a questão é complexa e que vai
+errar... Mas, aqui vale aquele velho ditado: “as aparências enganam”. E nessa questão é isso
+mesmo... apesar de parecer difícil ela é tranquila. Vamos à resolução.
+Tendo em vista que as próximas questões também se referem aos dados acima fornecidos, vamos
+elaborar a ficha de controle de estoques completa, pois a utilizaremos para responder as demais
+questões.
+A primeira providência que temos que fazer é transformar os valores em dólares para reais
+utilizando a tabela fornecida. Assim, temos:
+Compra do dia 05/01 à 5 U$D X R$ 2,50 (cotação de 05/01) = R$ 12,50
+Compra do dia 20/01 à 5,5 U$D X R$ 2,30 (cotação de 20/01) = R$ 12,65
+Veja que com isso não precisamos mais daquela tabela com todas as cotações do mês...
+Agora vamos montar a ficha:
+
+                                                                                           13
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                           24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+    Dia                Entradas                            Saídas                             Saldos
+             Qtde         Valores R$            Qtde         Valores R$             Qtde        Valores R$
+                       Unit.     Total                    Unit.     Total                    Unit.     Total
+     1º        10      12,00    120,00             -       -          -               10     12,00    120,00
+     5         8       12,50    100,00             -       -          -               10     12,00    120,00
+                                                                                       8     12,50    100,00
+                                                                                      18              220,00
+     10         -         -            -          10      12,00        120,00          6     12,50     75,00
+                                                  2       12,50         25,00
+                                                  12                   145,00
+     13        14      16,00      224,00           -         -            -            6     12,50    75,00
+                                                                                      14     16,00   224,00
+                                                                                      22             299,00
+     16         -         -            -          6       12,50         75,00         10     16,00   160,00
+                                                  4       16,00         64,00
+                                                  10                   139,00
+     18         -        -          -             5       16,00        80,00           5     16,00    80,00
+     20        16      12,65      202,40           -        -             -            5     16,00    80,00
+                                                                                      16     12,65   202,40
+                                                                                      21             314,40
+     29         -         -            -          5       16,00         80,00         12     12,65   151,80
+                                                  4       12,65         50,60
+                                                  9                    130,60
+De posse da ficha de controle montada podemos responder “tudão”. Do jeito que vier a pergunta
+nós “matamos no peito e estufamos a rede”!
+Vamos ver o primeiro questionamento:
+O lucro bruto auferido com as vendas do dia 16/1 foi de R$ 141,00.
+Para calcular o lucro bruto, basta confrontar o valor da receita auferida com a venda e deduzir o
+CMV calculado na ficha. Assim, temos:
+Receita com a venda do dia 16/1 = 280,00
+CMV calculado referente à venda do dia 16/1 = 139,00
+Lucro Bruto = 280,00 – 139,00 = 141,00
+Gabarito: Certo
+
+10. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O valor total das compras líquidas no mês de janeiro/2014 foi de R$ 646,40.
+
+
+                                                                                                               14
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                               24
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Comentários
+Trata-se do segundo questionamento. Agora o examinador quer saber o valor das compras
+líquidas. É claro que isso consta na nossa ficha. Basta somar o total das compras dos dias 5/1, 13/1
+e 20/1 (destacado em vermelho na ficha). Assim, temos:
+Compra 5/1 = 100,00
+Compra 13/1 = 224,00
+Compra 20/1 = 202,40
+Total = 526,40
+Gabarito: Errado
+
+11. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+Se a cotação do dólar norte-americano no dia 30/1 tivesse sido de R$ 2,60, o valor do estoque
+final teria sido de R$ 158,40.
+Comentários
+Trata-se do terceiro questionamento. Pessoal, para acertar essa questão o candidato não
+precisaria efetuar nenhum cálculo! Como assim, professor? É isso mesmo, camarada! Observe que
+todas as operações de compra e venda foram efetuadas até o dia 29/1. Aí eu pergunto... o câmbio
+do dia 30/1 influenciará no meu estoque final? Não!
+Observe que as operações ocorreram até o dia 29/01, portanto a cotação do dólar no dia 30/01
+em nada afeta os cálculos.
+Gabarito: Errado
+
+12. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O custo da mercadoria vendida no mês de janeiro/2014 é de R$ 494,85.
+Comentários
+Trata-se do quarto questionamento. Agora o examinador quer saber o CMV do mês de janeiro. É
+claro que isso consta na nossa ficha. Basta somarmos o total das saídas dos dias 10/1, 16/1, 18/1
+e 29/1 (destacado em azul na ficha). Assim, temos:
+Venda 10/1 = 145,00
+Venda 16/1 = 139,00
+Venda 18/1 = 80,00
+Venda 29/1 = 137,30
+
+                                                                                                15
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Total = 494,60
+Logo, o custo da mercadoria vendida no mês de janeiro/2014 é de R$ 494,60.
+Gabarito: Errado
+
+13. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O saldo do estoque final de mercadorias é de R$ 151,80.
+Comentários
+Trata-se do quinto questionamento. Agora o examinador quer saber o valor do estoque final.
+Conforme nossa ficha (valor destacado em verde), de fato, o valor do estoque final foi de R$
+151,80.
+Por oportuno, a seguir está descrito um cálculo simplificado de cálculo do estoque final pelo PEPS.
+Utilize essa sistemática sempre que for exigido apenas um item e o método seja o PEPS. Isso evita
+ter que elaborar toda a ficha para chegar ao valor do estoque final.
+Cálculo do Estoque Final (PEPS) simplificado
+Para o cálculo simplificado utilizamos a seguinte expressão:
+Estoque Final = (estoque inicial + entradas - saídas) x preço em reais da última compra
+Assim, temos:
+EF = (10un. + 8un. + 14un. + 16un. - 12un. - 10un. - 5un. - 9un.) X R$ 12,65
+EF = 12 unidades X R$ 12,65
+EF = R$ 151,80
+Gabarito: Certo
+
+14. (CESPE/TC-DF/2014) O saldo do estoque de mercadoria apurado pelo método da média
+ponderada móvel deve ser inferior ao apurado pelo método primeiro a entrar, primeiro a sair
+(PEPS) e superior ao apurado pelo método último a entrar, primeiro a sair (UEPS).
+Comentários
+O erro da questão está na expressão “deve ser”. Como o item não indica se estamos diante de
+uma economia inflacionário ou deflacionária, não há como afirmarmos que o saldo do estoque de
+mercadoria apurado pelo método da média ponderada móvel deve ser inferior ao apurado pelo
+método primeiro a entrar, primeiro a sair (PEPS) e superior ao apurado pelo método último a
+entrar, primeiro a sair (UEPS).
+Essa afirmação estaria correta se o item informasse que a economia é inflacionária.
+Gabarito: Errado
+
+                                                                                               16
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+15. (CESPE/MTE/2014) O custo do produto vendido apurado pelo método da média ponderada
+móvel será sempre um valor intermediário entre o custo apurado pelo método PEPS e o apurado
+pelo método UEPS.
+Comentários
+Conforme estudamos, se tivermos uma economia com preços perfeitamente estáveis, qualquer
+que seja o critério adotado (PEPS, UEPS, custo médio), o resultado será igual.
+Logo, nem sempre o custo do produto vendido apurado pela média ponderável móvel será um
+valor intermediário entre os outros métodos.
+Gabarito: Errado
+
+16. (CESPE/SUFRAMA/2014) O registro contábil dos estoques de uma empresa pelo método do
+PEPS (primeiro a entrar — primeiro a sair) ocorre quando se utiliza o inventário permanente.
+Comentários
+O inventário é o levantamento das mercadorias existentes em estoque no final do exercício social,
+com a finalidade de se conhecer o estoque final.
+Existem duas formas de se efetuar o controle de estoque, quais sejam: inventário permanente e
+inventário periódico.
+No inventário periódico os estoques são avaliados na data do balanço, por meio do inventário
+físico. Para calcular o valor do Custo das Mercadorias Vendidas (CMV), usamos a seguinte equação:
+                      CMV = Estoque inicial + Compras Líquidas – Estoque final
+Alguns doutrinadores informam que essa é uma forma extracontábil (matemática) de avaliação dos
+estoques.
+No inventário permanente a empresa controla o estoque de forma contínua, registrando todas
+as entradas no estoque e as baixas em cada operação de venda. Nesse sistema, é necessário
+utilizar critérios de avaliação de estoques (PEPS, UEPS e Custo Médio), utilizando-se “fichas de
+estoque”.
+Gabarito: Certo
+
+17. (CESPE/TCE-ES/2013) Determinada empresa comercial verificou que o valor do estoque
+inicial avaliado pela média ponderada móvel foi subestimado em R$ 32.000,00 e que o valor do
+estoque final foi superestimado em R$ 80.000,00. Nessa situação, o custo das mercadorias
+vendidas no período foi subestimado em R$ 112.000,00.
+Comentários
+Pessoal, se o estoque inicial foi subestimado em R$ 32.000,00 é porque esse valor não foi
+computado como custo da mercadoria vendida no momento da venda. Logo, o CMV também foi
+subestimado em R$ 32.000,00. Já a superestimação do estoque final reflete negativamente no
+
+
+                                                                                             17
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+valor do CMV, ou seja, subestima o CMV. Assim, o CMV foi subestimado em R$ 112.000,00 (32.000
++ 80.000). Para ficar mais claro, basta observar a equação do CMV:
+                            CMV = Estoque Inicial + Compras – Estoque Final
+Vamos incluir valores hipotéticos e depois alterar o cenário com as informações da questão.
+Estoque Inicial = 50.000,00
+Compras = 90.000,00
+Estoque Final = 100.000,00
+Nesse caso, o CMV seria de:
+                        CMV = 50.000,00 + 90.000,00 – 100.000,00 = 40.000,00
+Agora vamos alterar com as informações da questão (aumentando o estoque final em 32.000,00
+já que ele foi subestimado e diminuindo o estoque final em 80.000,00 já que ele foi superestimado:
+                        CMV = 82.000,00 + 90.000,00 – 20.000,00 = 152.000,00
+Perceba que corrigindo o cenário hipotético com as informações da questão chegamos à diferença
+de R$ 112.000,00 (152.000 – 40.000).
+Gabarito: Certo
+
+18. (CESPE/TCE-ES/2013) Quando utilizado o custo médio ponderado na avaliação dos estoques,
+pode-se determinar a média em base periódica ou à medida que cada lote seja recebido, a critério
+da entidade.
+Comentários
+Trata-se de exigência do CPC 16 – Estoques, senão vejamos:
+27. O critério PEPS (Primeiro a Entrar, Primeiro a Sair) pressupõe que os itens de estoque que foram
+comprados ou produzidos primeiro sejam vendidos em primeiro lugar e, consequentemente, os
+itens que permanecerem em estoque no fim do período sejam os mais recentemente comprados
+ou produzidos. Pelo critério do custo médio ponderado, o custo de cada item é determinado a
+partir da média ponderada do custo de itens semelhantes no começo de um período e do custo
+dos mesmos itens comprados ou produzidos durante o período. A média pode ser determinada
+em base periódica ou à medida que cada lote seja recebido, dependendo das circunstâncias
+da entidade.
+Gabarito: Certo
+
+19. (CESPE/BACEN/2013) No inventário periódico e no permanente, o método PEPS (primeiro a
+entrar, primeiro a sair) permite avaliar os estoques de uma empresa comercial em valores próximos
+aos dos preços correntes de mercado estabelecidos pelo método da média ponderada.
+Comentários
+
+
+                                                                                                18
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Pessoal, o método PEPS está ligado ao inventário permanente apenas. Esse é o erro do item. A
+segunda parte do item está certa, pois pelo PEPS o CMV é apurado com base no custo de
+aquisição das mercadorias mais antigas em estoque, ou seja, as primeiras a entrar. Sendo assim, o
+estoque final é correspondente ao valor das unidades mais recentes e, portanto, estão mais
+próximos aos preços correntes de mercado.
+Gabarito: Errado
+
+Uma empresa comercial, durante o mês de março de 2013, realizou as seguintes transações,
+referentes à mesma mercadoria.
+1/3 compra de 10 unidades da mercadoria por R$ 20,00 cada
+5/3 compra de 15 unidades da mercadoria por R$ 25,00 cada
+5/3 venda de 16 unidades da mercadoria por R$ 40,00 cada
+A partir dessas informações, julgue os itens a seguir.
+20. (CESPE/CPRM/2013) O valor do estoque final, com base no método UEPS, é de R$ 207,00, o
+que corresponde a nove unidades da mercadoria.
+Comentários
+Pessoal, aqui no curso, como temos que ser o mais didático possível, elaboramos a ficha bem
+completa, com todos os detalhes necessários ao entendimento. Porém, é claro que na hora da
+prova não há necessidade de perfeccionismo, ok? Quer um exemplo? Vamos elaborar a ficha de
+um modo mais “operacional”.
+1/3    10      20,00           200,00
+5/3    15      25,00           375,00
+5/3    15      25,00           375,00
+5/3    1       20,00           20,00
+Saldo (estoque final)
+5/3    9       20,00           180,00
+Observe que o estoque final é de 180,00 e não 207,00 conforme afirma o item.
+E aí, ficou feio, não é mesmo? Mas, veja que economizamos tempo e espaço, até porque muitas
+vezes o espaço é reduzido para os cálculos. Em questões simples como essa, depois de uma certa
+prática, dá para realizar o cálculo de forma mais simples que o acima exposto, mas aí cada um
+deve simplificar da sua maneira.
+Gabarito: Errado
+
+21. (CESPE/CPRM/2013) O custo verificado pelo critério da média ponderada móvel é maior que
+o calculado pelo método PEPS, já que a empresa encontra-se em um contexto deflacionário.
+
+
+                                                                                             19
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+Comentários
+E aí, pessoal, há necessidade de cálculo para resolver essa questão? Não! Basta lembrar da tabela:
+Em uma economia deflacionária:
+PEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+UEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+                                          PEPS                        Média                UEPS
+              Estoque                     Menor                       Médio                Maior
+               CMV                        Maior                       Médio                Menor
+            Lucro Bruto                   Menor                       Médio                Maior
+Observe que o item está errado, pois em um ambiente deflacionário o custo pelo PEPS é maior
+que pela média ponderada.
+Gabarito: Errado
+
+22. (CESPE/TCE-RO/2013) Em períodos inflacionários, os estoques avaliados pelo método UEPS
+costumam apresentar valores monetários mais altos do que teriam se fossem avaliados pelo
+método PEPS. Essa situação ocorre também com relação ao resultado do exercício, cujo valor será
+maior caso se utilize o UEPS em vez do PEPS.
+Comentários
+Em uma economia inflacionária:
+PEPS: O estoque e o lucro bruto são maiores (superavaliados) e o CMV menor (subavaliado).
+UEPS: O estoque e o lucro bruto são menores (subavaliados) e o CMV maior (superavaliado).
+                                          PEPS                        Média                UEPS
+              Estoque                     Maior                       Médio                Menor
+               CMV                        Menor                       Médio                Maior
+            Lucro Bruto                   Maior                       Médio                Menor
+Corrigindo o item, temos:
+Em períodos inflacionários, os estoques avaliados pelo método UEPS costumam apresentar
+valores monetários mais altos baixos do que teriam se fossem avaliados pelo método PEPS. Essa
+situação ocorre também com relação ao resultado do exercício, cujo valor será maior menor caso
+se utilize o UEPS em vez do PEPS.
+Gabarito: Errado
+
+                                                                                                   20
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                   24
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+                     3 – LISTA DAS QUESTÕES COMENTADAS
+1. (CESPE/SEFAZ-AL/2020) Em um cenário econômico de alta dos preços, a opção pela utilização
+do método PEPS (primeiro que entra, primeiro que sai) provoca custos de mercadorias vendidas
+em valores maiores do que os que seriam obtidos com a utilização do método da média
+ponderada.
+2. (CESPE/Perito Criminal Federal/2018) A avaliação do estoque de mercadorias de uma
+empresa pelo método do preço específico é feita por meio do cálculo do custo das mercadorias
+vendidas ao final do período de apuração, levando-se em conta a média ponderada dos valores
+de aquisição e do estoque inicial.
+3. (CESPE/Perito Criminal Federal/2018) Para uma empresa que utilize o sistema de inventário
+periódico baseado na conta de mercadorias com função desdobrada, o valor de estoque existente
+pode ser conhecido a qualquer momento mediante a verificação do saldo da conta de
+mercadorias.
+4. (CESPE/TRE-GO/2015) A avaliação dos estoques pode ser feita, entre outros métodos, por
+meio da avaliação pelo custo médio e pelo método FIFO, ou PEPS (o primeiro que entra é o
+primeiro que sai).
+5. (CESPE/SUFRAMA/2014) Com relação à avaliação de estoques pelo método último a entrar,
+primeiro a sair (UEPS), o aumento do custo de uma peça implica redução do lucro, o que,
+consequentemente, reduz o imposto de renda a ser pago. Esse efeito não é observado no método
+primeiro a entrar, primeiro a sair (PEPS) nem no preço médio.
+6. (CESPE/ANTAQ/2014) Os métodos primeiro que entra, primeiro que sai (PEPS) e último que
+entra, primeiro que sai (UEPS) fornecem orientações para o controle do manuseio das entradas e
+saídas de itens estocados e são, também, métodos de avaliação de estoques.
+7. (CESPE/DPU/2016) Caso uma economia apresente preços perfeitamente estáveis, o saldo final
+dos estoques será o mesmo, independentemente de o método escolhido ser a média ponderada
+ou o primeiro que entra, primeiro que sai.
+8. (CESPE/TRT17/2013) Por uma questão de consistência contábil, se a empresa adota o método
+PEPS para valoração de um tipo de estoque, ela não poderá utilizar outro critério para valoração
+de outro tipo de estoque.
+Uma empresa comercial não conseguiu suprir sua necessidade de estoque com mercadoria
+nacional e adquiriu, no mês de janeiro/2014, mercadorias de fornecedor que pratica vendas
+indexadas ao dólar norte-americano (USD). Como política interna, a empresa realiza as compras à
+vista e as vendas, com prazo de trinta dias. Por meio de inventário permanente, a empresa utiliza
+o PEPS (primeiro a entrar, primeiro a sair) como forma de controle e avaliação do seu estoque. As
+tabelas abaixo mostram a movimentação dos estoques em janeiro/2014 e a cotação da moeda
+norte-americana em alguns dias desse mês.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             21
+        www.estrategiaconcursos.com.br
+                                                                                             24
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+9. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O lucro bruto auferido com as vendas do dia 16/1 foi de R$ 141,00.
+10. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O valor total das compras líquidas no mês de janeiro/2014 foi de R$ 646,40.
+11. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+Se a cotação do dólar norte-americano no dia 30/1 tivesse sido de R$ 2,60, o valor do estoque
+final teria sido de R$ 158,40.
+12. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O custo da mercadoria vendida no mês de janeiro/2014 é de R$ 494,85.
+13. (CESPE/CADE/2014) Considerando as informações acima e o fato de que não há incidência
+tributária em nenhuma operação realizada pela empresa, julgue o item.
+O saldo do estoque final de mercadorias é de R$ 151,80.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                           22
+        www.estrategiaconcursos.com.br
+                                                                                           24
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 14
+
+14. (CESPE/TC-DF/2014) O saldo do estoque de mercadoria apurado pelo método da média
+ponderada móvel deve ser inferior ao apurado pelo método primeiro a entrar, primeiro a sair
+(PEPS) e superior ao apurado pelo método último a entrar, primeiro a sair (UEPS).
+15. (CESPE/MTE/2014) O custo do produto vendido apurado pelo método da média ponderada
+móvel será sempre um valor intermediário entre o custo apurado pelo método PEPS e o apurado
+16. (CESPE/SUFRAMA/2014) O registro contábil dos estoques de uma empresa pelo método do
+PEPS (primeiro a entrar — primeiro a sair) ocorre quando se utiliza o inventário permanente.
+17. (CESPE/TCE-ES/2013) Determinada empresa comercial verificou que o valor do estoque
+inicial avaliado pela média ponderada móvel foi subestimado em R$ 32.000,00 e que o valor do
+estoque final foi superestimado em R$ 80.000,00. Nessa situação, o custo das mercadorias
+vendidas no período foi subestimado em R$ 112.000,00.
+18. (CESPE/TCE-ES/2013) Quando utilizado o custo médio ponderado na avaliação dos estoques,
+pode-se determinar a média em base periódica ou à medida que cada lote seja recebido, a critério
+da entidade.
+19. (CESPE/BACEN/2013) No inventário periódico e no permanente, o método PEPS (primeiro a
+entrar, primeiro a sair) permite avaliar os estoques de uma empresa comercial em valores próximos
+aos dos preços correntes de mercado estabelecidos pelo método da média ponderada.
+Uma empresa comercial, durante o mês de março de 2013, realizou as seguintes transações,
+referentes à mesma mercadoria.
+1/3 compra de 10 unidades da mercadoria por R$ 20,00 cada
+5/3 compra de 15 unidades da mercadoria por R$ 25,00 cada
+5/3 venda de 16 unidades da mercadoria por R$ 40,00 cada
+A partir dessas informações, julgue os itens a seguir.
+20. (CESPE/CPRM/2013) O valor do estoque final, com base no método UEPS, é de R$ 207,00, o
+que corresponde a nove unidades da mercadoria.
+21. (CESPE/CPRM/2013) O custo verificado pelo critério da média ponderada móvel é maior que
+o calculado pelo método PEPS, já que a empresa encontra-se em um contexto deflacionário.
+22. (CESPE/TCE-RO/2013) Em períodos inflacionários, os estoques avaliados pelo método UEPS
+costumam apresentar valores monetários mais altos do que teriam se fossem avaliados pelo
+método PEPS. Essa situação ocorre também com relação ao resultado do exercício, cujo valor será
+maior caso se utilize o UEPS em vez do PEPS.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             23
+        www.estrategiaconcursos.com.br
+                                                                                             24
+                                     
+
+
+---
+
+ Gilmar Possati
+ Aula 14
+
+4 – GABARITO
+
+       1.         2.      3.        4.        5.        6.       7.        8.        9.    10.   11.
+       E          E       E         C         C         C        C         E         C     E     E
+       12.        13.     14.       15.       16.       17.      18.       19.       20.   21.   22.
+       E          C       E         E         C         C        C         E         E     E     E
+
+       Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                       24
+       www.estrategiaconcursos.com.br
+                                                                                                       24
+                                    
+
+
+---
+
+---

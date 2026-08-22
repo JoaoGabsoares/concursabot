@@ -1,0 +1,265 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 12_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: PRIVILÉGIOS DO
+artigos_citados:
+- "art.\n        189"
+- art. 186
+- art. 187
+- art. 188
+- art. 190
+---
+
+# PRIVILÉGIOS DO
+
+PRIVILÉGIOS DO
+CRÉDITO TRIBUTÁRIO
+
+
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ O crédito tributário prefere a qualquer outro, seja qual for sua natureza ou
+        o tempo de sua constituição, ressalvados:
+
+             ❑ os créditos decorrentes da legislação do trabalho; e
+
+             ❑ os créditos decorrentes de acidente de trabalho. (CTN, art. 186,
+               caput)
+
+Direito Tributário
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ Na falência:
+
+             ❑ O crédito tributário não prefere:
+
+                     ❑ aos créditos extraconcursais ou às importâncias passíveis de
+                       restituição, nos termos da lei falimentar;
+
+                     ❑ aos créditos com garantia real, no limite do valor do bem gravado;
+
+Direito Tributário
+                                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                         
+
+
+---
+
+Privilégios do Crédito Tributário
+  Na                 aos créditos extraconcursais
+  falência,
+  o crédito          às importâncias passíveis de restituição
+  tributário
+        NÃO          ao crédito trabalhista (até limite definido em lei)
+       prefere:
+                     ao crédito do acidente do trabalho
+
+
+                     ao crédito com garantia real
+
+Direito Tributário
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ Na falência:
+
+             ❑ A lei poderá estabelecer limites e condições para a preferência dos
+               créditos decorrentes da legislação do trabalho; e
+
+             ❑ A multa tributária prefere apenas aos créditos subordinados.
+
+Direito Tributário
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Privilégios do Crédito Tributário
+
+       ❑ Como ACERTAR as questões na PROVA!
+
+       ❑ Na falência, o crédito tributário tem a sua prioridade reduzida.
+
+       ❑ Portanto, se a questão não mencionar “FALÊNCIA”, não utilize essas
+         regras diferenciadas que acabamos de aprender!
+
+Direito Tributário
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+Privilégios do Crédito Tributário
+  ❑ São extraconcursais os créditos tributários decorrentes de fatos geradores
+    ocorridos no curso do processo de falência. (CTN, art. 188)
+
+Direito Tributário
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+Privilégios do Crédito Tributário
+       ❑ A classificação dos créditos na falência obedece à seguinte ordem:
+
+                1) créditos extraconcursais;
+
+                2) os créditos derivados da legislação do trabalho, limitados a 150
+                   salários-mínimos por credor, e os decorrentes de acidentes de
+                   trabalho;
+
+                3) créditos com garantia real até o limite do valor do bem gravado;
+
+                4) créditos tributários, independentemente da sua natureza e tempo de
+                   constituição, excetuadas as multas tributárias;
+
+Direito Tributário
+                                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                      
+
+
+---
+
+Privilégios do Crédito Tributário
+       ❑ A classificação dos créditos na falência obedece à seguinte ordem:
+
+                5) créditos quirografários;
+
+                6) as multas contratuais e as penas pecuniárias por infração das leis
+                   penais ou administrativas, inclusive as multas tributárias;
+
+                7) créditos subordinados;
+
+                8) Os juros vencidos após a decretação da falência
+
+Direito Tributário
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                      
+
+
+---
+
+Privilégios do Crédito Tributário
+
+      ❑ Importâncias passíveis de restituição:
+
+      Não incluímos as importâncias passíveis de restituição na tabela acima, pois, como regra,
+      são valores restituídos aos próprios credores, não integrando, como regra, o acervo que
+      será usado para pagamento dos demais credores, e por não constar da relação dos arts.
+      83 e 84, da Lei 11.101/2005.
+
+      Atenção!
+      Na prova, é importante saber apenas o seu conceito e que possuem prioridade sobre o
+      crédito tributário.
+Direito Tributário
+                                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ A cobrança judicial do crédito tributário não é sujeita a concurso de
+        credores ou habilitação em falência, recuperação judicial, concordata,
+        inventário ou arrolamento. (CTN, art. 187, caput)
+
+Direito Tributário
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+Privilégios do Crédito Tributário
+
+
+       ❑ O concurso de preferência somente se verifica entre pessoas jurídicas de
+         direito público, na seguinte ordem:
+
+       I - União;
+       II - Estados, Distrito Federal e Territórios, conjuntamente e pró rata;
+       III - Municípios, conjuntamente e pró rata. (CTN, art. 187, par. único)
+
+       STF: É inconstitucional o concurso de preferência entre as pessoas jurídicas
+       de direito público. (ADPF 357)
+
+Direito Tributário
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ São pagos preferencialmente a quaisquer créditos habilitados em
+        inventário ou arrolamento, ou a outros encargos do monte, os créditos
+        tributários vencidos ou vincendos, a cargo do de cujus ou de seu espólio,
+        exigíveis no decurso do processo de inventário ou arrolamento. (CTN, art.
+        189)
+
+Direito Tributário
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Privilégios do Crédito Tributário
+      ❑ São pagos preferencialmente a quaisquer outros os créditos tributários
+        vencidos ou vincendos, a cargo de pessoas jurídicas de direito privado em
+        liquidação judicial ou voluntária, exigíveis no decurso da liquidação. (CTN,
+        art. 190)
+
+
+                       Dissolução
+                                                    Liquidação               Extinção da
+                     (por vontade ou                                        Pessoa Jurídica
+                      determinação)
+
+Direito Tributário
+                                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                       
+
+
+---

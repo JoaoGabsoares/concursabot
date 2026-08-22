@@ -1,0 +1,2040 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 11_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 1º
+- Art. 57.
+- art. 24
+- art. 2º
+- art. 32
+- art. 44
+- art. 49-B
+- artigo 54
+sumulas_citadas:
+- Súmula 473
+- Súmula Vinculante 21
+- Súmula Vinculante 5
+---
+
+# Passo Estratégico de Direito
+
+Aula 09
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             31 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 09
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Processo Administrativo - FGV
+
+
+2) Roteiro de Revisão - Processo Administrativo
+
+
+3) Aposta Estratégica - Processo Administrativo - Competência
+
+
+4) Questões Estratégicas - Processo Administrativo - FGV - Nível Superior
+
+
+5) Questionário de Revisão - Processo Administrativo
+
+
+6) Referências Bibliográficas
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           41
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+             O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                 FGV
+                Abrangência, aplicação e conceitos (arts. 1º e 69)                              0,00%
+                           Princípios e critérios (art. 2º)                                     7,35%
+                       Direitos dos administrados (art. 3º)                                     2,94%
+                        Deveres do administrado (art. 4º)                                       2,94%
+                         Início do processo (arts. 5º a 8º)
+                                                        ==219a34==
+
+                                                                                                0,00%
+                            Interessados (arts. 9º e 10)                                        1,47%
+                           Competência (arts. 11 a 17)                                         25,00%
+                    Impedimento e suspeição (arts. 18 a 21)                                    11,76%
+            Forma, tempo e lugar dos atos do processo (arts. 22 a 25)                           1,47%
+                      Comunicação dos atos (arts. 26 a 28)                                      4,41%
+                              Instrução (arts. 29 a 47)                                         4,41%
+                               Decisão (arts. 48 e 49)                                          4,41%
+                                 Motivação (art. 50)                                            2,94%
+                      Desistência e extinção (arts. 51 e 52)                                    1,47%
+               Anulação, revogação e convalidação (arts. 53 a 55)                              22,06%
+                 Recurso administrativo e revisão (arts. 56 a 65)                               7,35%
+                                Prazos (arts. 66 e 67)                                          0,00%
+                      Prioridade na tramitação (art. 69-A)                                      0,00%
+
+                                                                                                            1
+
+                                                                                                            1
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   3
+        www.estrategiaconcursos.com.br                                                                      41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Compreender bem a Lei 9.784/1999 integralmente, buscando a sua memorização paulatina,
+atentando-se especialmente para os pontos e orientações a seguir:
+
+
+Abrangência da Lei 9.784/1999
+
+Art. 1º Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração
+Federal direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor
+cumprimento dos fins da Administração.
+§ 1º Os preceitos desta Lei também se aplicam aos órgãos dos Poderes Legislativo e Judiciário da União,
+quando no desempenho de função administrativa.
+(...)
+Art. 69. Os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes
+apenas subsidiariamente os preceitos desta Lei.
+
+- A Lei 9.784/1999 vale apenas no âmbito federal (não obriga estados, municípios ou o DF.
+
+São alcançados pelas normas da Lei 9.784/1999:
+
+ a) a Administração Direta e Indireta do Poder Executivo Federal
+
+ b) órgãos dos Poderes Legislativo e Judiciário da União, quando se tratar de desempenho de
+ função administrativa.
+
+- A Lei 9.784/1999 aplica-se, subsidiariamente aos processos administrativos regulados por leis
+específicas (art. 69).
+
+
+Princípios
+
+Art. 2º A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade,
+motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica,
+interesse público e eficiência.
+Parágrafo único. Nos processos administrativos serão observados, entre outros, os critérios de:
+I - atuação conforme a lei e o Direito;
+II - atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências,
+salvo autorização em lei;
+III - objetividade no atendimento do interesse público, vedada a promoção pessoal de agentes ou
+autoridades;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  4
+        www.estrategiaconcursos.com.br                                                                    41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+IV - atuação segundo padrões éticos de probidade, decoro e boa-fé;
+V - divulgação oficial dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na Constituição;
+VI - adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida
+superior àquelas estritamente necessárias ao atendimento do interesse público;
+VII - indicação dos pressupostos de fato e de direito que determinarem a decisão;
+VIII – observância das formalidades essenciais à garantia dos direitos dos administrados;
+IX - adoção de formas simples, suficientes para propiciar adequado grau de certeza, segurança e respeito
+aos direitos dos administrados;
+X - garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à
+interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio;
+XI - proibição de cobrança de despesas processuais, ressalvadas as previstas em lei;
+XII - impulsão, de ofício, do processo administrativo, sem prejuízo da atuação dos interessados;
+XIII - interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a
+que se dirige, vedada aplicação retroativa de nova interpretação.
+
+- Princípios expressos (art. 2º, caput) - grave o seguinte mnemônico: "SERa FACIL Pro MoMo".
+
+                                             S – Segurança Jurídica;
+                                                   E – Eficiência;
+                                               Ra – Razoabilidade;
+                                                  F – Finalidade;
+                                                A – Ampla Defesa;
+                                                C – Contraditório;
+                                              I – Interesse Público;
+                                                  L – Legalidade;
+                                            Pro – Proporcionalidade;
+                                                Mo – Moralidade;
+                                                 Mo – Motivação.
+
+- Princípios implícitos (estão contidos no parágrafo único do art. 2º): oficialidade, informalismo,
+instrumentalidade das formas, verdade material e gratuidade.
+
+- Cada inciso do parágrafo único do art. 2º está relacionado a um (ou mais) desses princípios: inciso
+I (legalidade), inciso II (finalidade, impessoalidade), inciso III (finalidade, impessoalidade), inciso IV
+(moralidade), inciso V (publicidade), inciso VI (razoabilidade, proporcionalidade), inciso VII
+(motivação), inciso VIII (segurança jurídica), inciso IX (informalismo, segurança jurídica), inciso X
+(contraditório e ampla defesa), inciso XI (gratuidade), inciso XII (oficialidade) e inciso XIII
+(finalidade, segurança jurídica).
+
+- O informalismo (art. 2º, parágrafo único, inciso IX e art. 22, caput) não significa ausência de forma,
+mas sim que, como regra, o processo administrativo não está sujeito a formas rígidas, devendo
+adotar formas simples e suficientes para atingir seus objetivos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   5
+        www.estrategiaconcursos.com.br                                                                     41
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+- De acordo com o princípio da verdade material, a Administração Pública deve buscar a verdade
+real sobre os fatos subjacentes ao processo administrativo, não se restringindo às versões e às
+provas apresentadas pelos interessados1.
+
+
+Direitos e deveres dos administrados
+
+Art. 3º O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe
+sejam assegurados:
+I - ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos
+e o cumprimento de suas obrigações;
+II - ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter
+vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas;
+III - formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração
+pelo órgão competente;
+IV - fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força
+de lei.
+Art. 4º São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato
+normativo:
+I - expor os fatos conforme a verdade;
+II - proceder com lealdade, urbanidade e boa-fé;
+III - não agir de modo temerário;
+IV - prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos.
+
+- É assegurado ao administrado ter ciência da tramitação apenas dos processos administrativos
+em que tenha condição de interessado (art. 3º, II).
+
+- É assegurado ao administrado formular alegações e apresentar documentos antes (não depois)
+da decisão (art. 3º, III).
+
+- O administrado não precisa de advogado, como regra, para praticar os atos processuais em seu
+nome, mas nos casos em que a lei exige a representação por advogado, a inobservância de tal
+regra implica a nulidade do ato ou processo (art. 3º, IV).
+
+Por outro lado, mesmo nos casos em que tal representação seja facultativa, o administrado pode
+também, se assim o quiser, buscar a assistência de um advogado.
+
+Precedente importante:
+
+                                                    JURISPRUDÊNCIA
+
+1
+    Oliveira, R. C. R. Curso de Direito Administrativo – 8ª Ed. – Págs. 558/559
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                6
+           www.estrategiaconcursos.com.br                                                                   41
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+    “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a
+    Constituição”2.
+
+
+Início do processo
+
+Art. 5º O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+Art. 6º O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser
+formulado por escrito e conter os seguintes dados: (...)
+Parágrafo único. É vedada à Administração a recusa imotivada de recebimento de documentos, devendo
+o servidor orientar o interessado quanto ao suprimento de eventuais falhas.
+
+- O início do processo pode dar-se não somente a pedido do interessado, mas também de ofício
+(art. 5º).
+
+- O requerimento inicial do interessado deve ser formulado por escrito, como regra, mas poderão
+ser previstos casos que será admitida a solicitação oral (art. 6º, caput).
+
+- É vedada a recusa imotivada de documentos (art. 6º, parágrafo único). Se por acaso restar
+constatada alguma falha na documentação a ser protocolada pelo interessado, o servidor deve
+orientá-lo quanto ao suprimento de tal falha (CUIDADO! O servidor não vai diretamente suprir a
+falha, mas sim ORIENTAR o interessado quanto ao suprimento do vício).
+
+- O processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico
+para decidir, a não ser que haja competência legal específica (art. 17).
+
+
+Interessados
+
+Art. 9º São legitimados como interessados no processo administrativo:
+I - pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais ou no
+exercício do direito de representação;
+II - aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela
+decisão a ser adotada;
+III - as organizações e associações representativas, no tocante a direitos e interesses coletivos;
+IV - as pessoas ou as associações legalmente constituídas quanto a direitos ou interesses difusos.
+
+- Mesmo aqueles que não iniciaram o processo podem nele ser legitimados como interessados,
+caso tenham direitos ou interesses que possam ser afetados pela decisão a ser adotada (art. 9º,
+II).
+
+2
+    STF – Súmula Vinculante 5.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           7
+           www.estrategiaconcursos.com.br                                                             41
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- Não somente pessoas físicas podem ser legitimadas como interessadas no processo físico, mas
+também pessoas jurídicas.
+
+- Como regra, os menores de 18 anos são considerados incapazes para fins de processo
+administrativo, a não ser que haja ato normativo próprio prevendo de modo diverso (art. 10).
+
+
+Competência
+
+Art. 11. A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como
+própria, salvo os casos de delegação e avocação legalmente admitidos.
+Art. 12. Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da
+sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente
+subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica,
+jurídica ou territorial.
+Parágrafo único. O disposto no caput deste artigo aplica-se à delegação de competência dos órgãos
+colegiados aos respectivos presidentes.
+Art. 13. Não podem ser objeto de delegação:
+ I - a edição de atos de caráter normativo;
+II - a decisão de recursos administrativos;
+III - as matérias de competência exclusiva do órgão ou autoridade.
+Art. 14. O ato de delegação e sua revogação deverão ser publicados no meio oficial.
+§ 1º O ato de delegação especificará as matérias e poderes transferidos, os limites da atuação do delegado,
+a duração e os objetivos da delegação e o recurso cabível, podendo conter ressalva de exercício da
+atribuição delegada.
+§ 2º O ato de delegação é revogável a qualquer tempo pela autoridade delegante.
+§ 3º As decisões adotadas por delegação devem mencionar explicitamente esta qualidade e considerar-
+se-ão editadas pelo delegado.
+Art. 15. Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a
+avocação temporária de competência atribuída a órgão hierarquicamente inferior.
+Art. 16. Os órgãos e entidades administrativas divulgarão publicamente os locais das respectivas sedes e,
+quando conveniente, a unidade fundacional competente em matéria de interesse especial.
+Art. 17. Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a
+autoridade de menor grau hierárquico para decidir.
+
+- A competência é irrenunciável, o que não impede sua delegação e avocação (art. 11).
+
+- A delegação pode ser feita em razão de circunstâncias de ordem técnica, social, econômica,
+jurídica ou territorial (art. 12, caput).
+
+- Não é possível a delegação total de competência, apenas parcial (art. 12, caput).
+
+- A delegação de competência é possível mesmo a órgãos não hierarquicamente subordinados
+(art. 12, caput), sendo revogável a qualquer tempo pela autoridade delegante (art. 14, § 2º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                8
+        www.estrategiaconcursos.com.br                                                                  41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- Há casos em que não se faz possível a delegação (art. 13) – MUITO IMPORTANTE, MEMORIZAR
+ESSES CASOS!
+
+Para facilitar a memorização desse rol, grave o mnemônico: “CENoRA”:
+
+                        CE – Competência Exclusiva (art. 13, inciso III);
+
+                        No – Normativos (art. 13, inciso I);
+
+                        RA – Recursos Administrativos. (art. 13, inciso II).
+
+- A avocação é medida excepcional, temporária, e somente possível quando o órgão competente
+é hierarquicamente inferior (art. 15).
+
+
+Impedimento e suspeição
+
+Art. 18. É impedido de atuar em processo administrativo o servidor ou autoridade que:
+I - tenha interesse direto ou indireto na matéria;
+II - tenha participado ou venha a participar como perito, testemunha ou representante, ou se tais situações
+ocorrem quanto ao cônjuge, companheiro ou parente e afins até o terceiro grau;
+III - esteja litigando judicial ou administrativamente com o interessado ou respectivo cônjuge ou
+companheiro.
+Art. 19. A autoridade ou servidor que incorrer em impedimento deve comunicar o fato à autoridade
+competente, abstendo-se de atuar.
+Parágrafo único. A omissão do dever de comunicar o impedimento constitui falta grave, para efeitos
+disciplinares.
+Art. 20. Pode ser argüida a suspeição de autoridade ou servidor que tenha amizade íntima ou inimizade
+notória com algum dos interessados ou com os respectivos cônjuges, companheiros, parentes e afins até
+o terceiro grau.
+
+- O impedimento incide em situações objetivas (art. 18) e deve obrigatoriamente ser declarado
+pelo próprio servidor (art. 19), enquanto a suspeição incide em situações subjetivas, podendo
+(facultativamente) ser arguida pelo próprio servidor ou por outros interessados (art. 20).
+
+
+Forma, tempo, lugar e comunicação dos atos
+
+Art. 22. Os atos do processo administrativo não dependem de forma determinada senão quando a lei
+expressamente a exigir.
+§ 1º Os atos do processo devem ser produzidos por escrito, em vernáculo, com a data e o local de sua
+realização e a assinatura da autoridade responsável.
+(...)
+Art. 23. Os atos do processo devem realizar-se em dias úteis, no horário normal de funcionamento da
+repartição na qual tramitar o processo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                9
+        www.estrategiaconcursos.com.br                                                                  41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+(...)
+Art. 24. Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos
+administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força
+maior.
+(...)
+Art. 25. Os atos do processo devem realizar-se preferencialmente na sede do órgão, cientificando-se o
+interessado se outro for o local de realização.
+Art. 26. O órgão competente perante o qual tramita o processo administrativo determinará a intimação do
+interessado para ciência de decisão ou a efetivação de diligências. (...)
+§ 5º As intimações serão nulas quando feitas sem observância das prescrições legais, mas o
+comparecimento do administrado supre sua falta ou irregularidade.
+Art. 27. O desatendimento da intimação não importa o reconhecimento da verdade dos fatos, nem a
+renúncia a direito pelo administrado.
+Parágrafo único. No prosseguimento do processo, será garantido direito de ampla defesa ao interessado.
+Art. 28. Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição
+de deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de
+seu interesse.
+
+- Como já dito no início, o informalismo (art. 22, caput) não significa ausência de forma, mas sim
+que, como regra, o processo administrativo não está sujeito a formas rígidas, devendo adotar
+formas simples e suficientes para atingir seus objetivos.
+
+- Os atos devem ser produzidos por escrito (art. 22, § 1º), já o requerimento inicial do interessado
+pode ser oral em determinados casos, embora como regra também deva ser formulado por escrito
+(art. 6º, caput).
+
+- O próprio órgão administrativo pode realizar a autenticação de documentos exigidos em cópia
+(art. 22, § 3º).
+
+- Como regra, o prazo para a prática dos atos no processo (tanto por parte do órgão ou
+autoridade, quanto pelos administrados) é de cinco dias, a não ser que haja disposição específica
+prevendo outro prazo (art. 24, caput).
+
+Além disso, por motivo de força maior, é possível que outro prazo seja fixado (art. 24, caput).
+
+Mediante comprovada justificação, o prazo para a prática dos atos no processo pode ser dilatado
+até o dobro (art. 24, parágrafo único).
+
+- É obrigatória a intimação do interessado para que a ele seja dada ciência de decisão no processo
+(art. 26, caput).
+
+- Mesmo se o intimado não comparecer, o processo poderá ser continuado (art. 26, § 1º, V).
+Mesmo assim, o desatendimento da intimação não implica a presunção de culpa do administrado,
+tampouco significa confissão ou renúncia a direitos (art. 27).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                10
+        www.estrategiaconcursos.com.br                                                                   41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- A intimação pode ser realizada por qualquer meio que assegura a certeza do interessado, embora
+a própria Lei já enumere alguns meios a serem utilizados pela Administração (ciência no processo,
+via postal com aviso de recebimento, telegrama) – art. 26, § 3º.
+
+- Quando os interessados no processo são indeterminados, desconhecidos ou com domicílio
+indefinido, a intimação deve ser realizada por meio de publicação oficial (art. 26, § 4º).
+
+- Se a intimação for realizada sem observância das prescrições legais, será considerada nula, mas
+se o administrado comparecer, a falta de intimação ou sua irregularidade é suprida (art. 26, § 5º).
+Trata-se de caso de aplicação do princípio da instrumentalidade das formas.
+
+- Não necessariamente todos os atos do processo devem ser objeto de intimação (art. 28).
+
+
+Instrução e decisão
+
+Art. 29. As atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de
+decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do
+direito dos interessados de propor atuações probatórias.
+(...)
+Art. 30. São inadmissíveis no processo administrativo as provas obtidas por meios ilícitos.
+Art. 31. Quando a matéria do processo envolver assunto de interesse geral, o órgão competente poderá,
+mediante despacho motivado, abrir período de consulta pública para manifestação de terceiros, antes da
+decisão do pedido, se não houver prejuízo para a parte interessada.
+(...)
+Art. 32. Antes da tomada de decisão, a juízo da autoridade, diante da relevância da questão, poderá ser
+realizada audiência pública para debates sobre a matéria do processo.
+Art. 33. Os órgãos e entidades administrativas, em matéria relevante, poderão estabelecer outros meios
+de participação de administrados, diretamente ou por meio de organizações e associações legalmente
+reconhecidas.
+(...)
+Art. 35. Quando necessária à instrução do processo, a audiência de outros órgãos ou entidades
+administrativas poderá ser realizada em reunião conjunta, com a participação de titulares ou representantes
+dos órgãos competentes, lavrando-se a respectiva ata, a ser juntada aos autos.
+Art. 36. Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído ao
+órgão competente para a instrução e do disposto no art. 37 desta Lei.
+Art. 37. Quando o interessado declarar que fatos e dados estão registrados em documentos existentes na
+própria Administração responsável pelo processo ou em outro órgão administrativo, o órgão competente
+para a instrução proverá, de ofício, à obtenção dos documentos ou das respectivas cópias.
+Art. 38. O interessado poderá, na fase instrutória e antes da tomada da decisão, juntar documentos e
+pareceres, requerer diligências e perícias, bem como aduzir alegações referentes à matéria objeto do
+processo. (...)
+§ 2º Somente poderão ser recusadas, mediante decisão fundamentada, as provas propostas pelos
+interessados quando sejam ilícitas, impertinentes, desnecessárias ou protelatórias.
+(...)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               11
+        www.estrategiaconcursos.com.br                                                                  41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+Art. 42. Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no
+prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo.
+§ 1º Se um parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, o processo não terá
+seguimento até a respectiva apresentação, responsabilizando-se quem der causa ao atraso.
+§ 2º Se um parecer obrigatório e não vinculante deixar de ser emitido no prazo fixado, o processo poderá
+ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu
+no atendimento.
+(...)
+Art. 44. Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo máximo de dez dias,
+salvo se outro prazo for legalmente fixado.
+Art. 45. Em caso de risco iminente, a Administração Pública poderá motivadamente adotar providências
+acauteladoras sem a prévia manifestação do interessado.
+Art. 46. Os interessados têm direito à vista do processo e a obter certidões ou cópias reprográficas dos
+dados e documentos que o integram, ressalvados os dados e documentos de terceiros protegidos por
+sigilo ou pelo direito à privacidade, à honra e à imagem.
+                                                        ==219a34==
+
+Art. 47. O órgão de instrução que não for competente para emitir a decisão final elaborará relatório
+indicando o pedido inicial, o conteúdo das fases do procedimento e formulará proposta de decisão,
+objetivamente justificada, encaminhando o processo à autoridade competente.
+Art. 48. A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e
+sobre solicitações ou reclamações, em matéria de sua competência.
+Art. 49. Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias
+para decidir, salvo prorrogação por igual período expressamente motivada.
+
+- A objetivo da instrução é averiguar e comprovar os dados necessários à tomada de decisão (art.
+29, caput).
+
+- As provas obtidas por meios ilícitos são inadmissíveis no processo (art. 30). Tal previsão encontra-
+se em sintonia com o previsto no art. 5º, LVI, da CF/88.
+
+- É possível a abertura de período de consulta pública, no caso a matéria do processo envolver
+assunto de interesse geral (art. 31).
+
+- É possível a realização de audiência pública antes da tomada de decisão, diante da relevância da
+questão, para debates sobre a matéria do processo (art. 32).
+
+- O ônus da prova é do interessado (art. 36), salvo quando ele declarar que fatos e dados estão
+registrados em documentos existentes na própria Administração (art. 37).
+
+- Na fase instrutória, ANTES (não depois!) da decisão, o interessado poderá juntar documentos e
+pareceres, requerer diligências e perícias e aduzir alegações referentes à matéria objeto do
+processo (art. 38, caput), sendo que todos os elementos probatórios juntados deverão ser
+considerados na motivação do relatório e da decisão (art. 38, § 1º). Entretanto, as provas propostas
+ilícitas, impertinentes, desnecessárias ou protelatórias poderão ser recusadas por decisão
+fundamentada (art. 38, § 2º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              12
+        www.estrategiaconcursos.com.br                                                                 41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- Como já foi dito, mesmo se o intimado não comparecer, o processo poderá ser continuado (art.
+26, § 1º, V).
+
+Nesse sentido, quando for necessária a prestação de informações ou a apresentação de provas
+pelos interessados ou terceiros, o órgão competente poderá, caso entenda que a matéria tratada
+seja relevante, suprir a omissão e proferir a decisão, no caso de aqueles, embora intimados,
+tenham permanecido inertes (art. 39, caput e parágrafo único).
+
+Por outro lado, quando dados, atuações ou documentos solicitados ao interessado forem
+necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela
+Administração para a respectiva apresentação implicará arquivamento do processo – neste caso,
+a Lei considera que a Administração não teve como suprir de ofício a omissão ou entendeu que a
+matéria não era relevante a ponto de justificar tal procedimento (art. 40).
+
+- Pode ser necessário ouvir órgão consultivo, mediante emissão de parecer (art. 42). Se for parecer
+obrigatório e vinculante, o processo não prossegue até que o parecer seja emitido, mesmo com
+atraso (art. 42, § 1º).
+
+Se for parecer obrigatório e não vinculante, o processo pode prosseguir caso haja omissão na
+emissão daquele (art. 42, § 2º).
+
+Nos dois casos, haverá responsabilização de quem deu causa ao atraso ou omissão.
+
+- O prazo para que o interessado se manifeste após encerrada a instrução é de dez dias, a não ser
+que haja outro prazo legalmente fixado (art. 44).
+
+- É possível que a Administração, em decorrência de seu poder de cautela, adote providências
+sem a prévia manifestação do interessado, quando houver risco iminente (art. 45).
+
+- Nos termos da Lei, somente os interessados (ou seja, não é qualquer pessoa) têm direito à vista
+do processo e a obter certidões ou cópias reprográficas dos dados e documentos que o integram
+(art. 46). Mesmo assim, tal direito não alcança os dados e documentos de terceiros protegidos por
+sigilo ou pelo direito à privacidade, à honra e à imagem.
+
+- Não necessariamente o órgão de instrução será competente para emitir a decisão final. Quando
+for esse o caso, o órgão de instrução deverá elaborar relatório contendo, dentre outros conteúdos,
+a proposta de decisão e encaminhará o processo à autoridade competente (art. 47).
+
+- A Administração não pode se omitir em decidir: pelo contrário, deve fazê-lo de forma explícita
+(art. 48), no prazo de 30 dias após a conclusão da instrução, salvo prorrogação por igual período
+expressamente motivada (art. 49).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       13
+        www.estrategiaconcursos.com.br                                                          41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+Decisão coordenada
+
+Art. 49-A. No âmbito da Administração Pública federal, as decisões administrativas que exijam a
+participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante decisão
+coordenada, sempre que:
+I - for justificável pela relevância da matéria; e
+II - houver discordância que prejudique a celeridade do processo administrativo decisório.
+§ 1º Para os fins desta Lei, considera-se decisão coordenada a instância de natureza interinstitucional ou
+intersetorial que atua de forma compartilhada com a finalidade de simplificar o processo administrativo
+mediante participação concomitante de todas as autoridades e agentes decisórios e dos responsáveis pela
+instrução técnico-jurídica, observada a natureza do objeto e a compatibilidade do procedimento e de sua
+formalização com a legislação pertinente. (...)
+§ 4º A decisão coordenada não exclui a responsabilidade originária de cada órgão ou autoridade envolvida.
+§ 5º A decisão coordenada obedecerá aos princípios da legalidade, da eficiência e da transparência, com
+utilização, sempre que necessário, da simplificação do procedimento e da concentração das instâncias
+decisórias.
+§ 6º Não se aplica a decisão coordenada aos processos administrativos:
+I - de licitação;
+II - relacionados ao poder sancionador; ou
+III - em que estejam envolvidas autoridades de Poderes distintos.
+Art. 49-B. Poderão habilitar-se a participar da decisão coordenada, na qualidade de ouvintes, os
+interessados de que trata o art. 9º desta Lei.
+Parágrafo único. A participação na reunião, que poderá incluir direito a voz, será deferida por decisão
+irrecorrível da autoridade responsável pela convocação da decisão coordenada.
+(...)
+Art. 49-D. Os participantes da decisão coordenada deverão ser intimados na forma do art. 26 desta Lei.
+Art. 49-E. Cada órgão ou entidade participante é responsável pela elaboração de documento específico
+sobre o tema atinente à respectiva competência, a fim de subsidiar os trabalhos e integrar o processo da
+decisão coordenada.
+Parágrafo único. O documento previsto no caput deste artigo abordará a questão objeto da decisão
+coordenada e eventuais precedentes.
+Art. 49-F. Eventual dissenso na solução do objeto da decisão coordenada deverá ser manifestado durante
+as reuniões, de forma fundamentada, acompanhado das propostas de solução e de alteração necessárias
+para a resolução da questão.
+Parágrafo único. Não poderá ser arguida matéria estranha ao objeto da convocação.
+
+- A decisão coordenada é medida que poderá ser adotada quando existir discordância entre
+setores envolvidos ou quando o assunto tiver relevância para atuação conjunta de 3 (três) ou mais
+setores, órgãos ou entidades (art. 49-A). Trata-se de uma possibilidade criada pela lei para
+resguardar a celeridade do processo decisório.
+- O conceito de decisão coordenada, podendo este ser dividido nos seguintes pontos (art. 49-A,
+§ 1º):
+  a) instância de natureza interinstitucional ou intersetorial atuando de forma compartilhada;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              14
+        www.estrategiaconcursos.com.br                                                                 41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+  b) tem a finalidade de simplificar o processo administrativo;
+  c) participação concomitante de todas as autoridades, agentes decisórios e responsáveis
+     técnico-jurídicos.
+- A decisão coordenada não exclui a responsabilidade originária de cada órgão ou autoridade
+envolvida (art. 49-A, § 4º).
+- Processos administrativos em que é vedada a decisão coordenada (art. 49-A, § 6º):
+                Vedada a decisão
+
+                                           Licitação
+                  coordenada
+
+                                                                       relacionados ao poder
+                                                                             sancionador
+                                                                             (disciplinar)
+                                   Processos administrativos
+                                                                     envolvendo autoridades de
+                                                                         Poderes distintos
+
+- Os legitimados para participar do processo administrativo comum poderão ser habilitados como
+ouvintes no processo administrativo de decisão coordenada (art. 49-B).
+- No tocante ao processo de solução do objeto da decisão coordenada, você deve guardar que
+cada órgão ou entidade permanece responsável pela elaboração de documentos de sua
+competência sobre o tema (art. 49-E), sendo que eventual discordância na solução deverá ser
+manifestada em reunião, de forma fundamentada e acompanhada de propostas de solução e
+alteração necessárias para solução da questão (art. 49-F).
+- Durante as reuniões interinstitucionais para solução do objeto da decisão coordenada, não
+poderá ser arguida matéria estranha ao objeto da convocação (art. 49-F, parágrafo único).
+
+
+Motivação
+
+Art. 50. Os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos
+jurídicos, quando:
+I - neguem, limitem ou afetem direitos ou interesses;
+II - imponham ou agravem deveres, encargos ou sanções;
+III - decidam processos administrativos de concurso ou seleção pública;
+IV - dispensem ou declarem a inexigibilidade de processo licitatório;
+V - decidam recursos administrativos;
+VI - decorram de reexame de ofício;
+VII - deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos,
+propostas e relatórios oficiais;
+VIII - importem anulação, revogação, suspensão ou convalidação de ato administrativo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        15
+        www.estrategiaconcursos.com.br                                                           41
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- Atos administrativos que obrigatoriamente devem ser motivados (art. 50, incisos I a VIII):
+memorizar o rol - IMPORTANTE!
+
+- Como a Lei enumerou os atos que necessariamente devem ser motivados, é válido afirmar que
+nem sempre a explicitação do motivo (motivação) é necessária.
+
+
+Desistência e extinção do processo
+
+Art. 51. O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido
+formulado ou, ainda, renunciar a direitos disponíveis.
+§ 1º Havendo vários interessados, a desistência ou renúncia atinge somente quem a tenha formulado.
+§ 2º A desistência ou renúncia do interessado, conforme o caso, não prejudica o prosseguimento do
+processo, se a Administração considerar que o interesse público assim o exige.
+Art. 52. O órgão competente poderá declarar extinto o processo quando exaurida sua finalidade ou o
+objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente.
+
+- A desistência do pedido pode ser total ou parcial (art. 51, caput).
+
+- Somente direitos disponíveis podem ser renunciados (art. 51, caput).
+
+- Mesmo se houver renúncia do interessado, o processo pode continuar prosseguindo, se a
+Administração considerar que há interesse público (art. 51, § 2º).
+
+- A extinção do processo ocorre quando exaurida sua finalidade ou o objeto da decisão se tornar
+impossível, inútil ou prejudicado por fato superveniente (art. 52).
+
+
+Anulação, revogação e convalidação
+
+Art. 53. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode
+revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
+Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis
+para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada
+má-fé.
+§ 1º No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do
+primeiro pagamento.
+§ 2º Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe
+impugnação à validade do ato.
+Art. 55. Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a
+terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria
+Administração.
+
+- A anulação ocorre por razões de legalidade, enquanto a revogação, por motivo de conveniência
+ou oportunidade, devendo ser respeitados os direitos adquiridos (art. 53).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             16
+        www.estrategiaconcursos.com.br                                                                41
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+- Se for comprovada má-fé, o prazo decadencial de cinco anos previsto no art. 54, caput, não é
+aplicável.
+
+- Deverá ser contado do primeiro pagamento o prazo decadencial previsto no art. 54, caput, em
+se tratando de efeitos patrimoniais contínuos (art. 54, § 1º).
+
+- A convalidação é discricionária por parte da Administração, somente aplicável em decisão em
+que se evidencie não acarretar lesão ao interesse público nem prejuízo a terceiros, desde que o
+ato apresente defeitos sanáveis (art. 55).
+
+Precedentes importantes:
+
+                                                    JURISPRUDÊNCIA
+    “A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque
+    deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados
+    os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial3”.
+
+    A anulação de atos que afrontem flagrantemente a determinação expressa na CF não está sujeita a prazo
+    decadencial, podendo ocorrer a qualquer tempo4.
+
+    “O prazo decadencial para que a Administração Pública promova a autotutela, previsto no art. 54 da Lei
+    n.º 9.784/99, é aplicável tanto aos atos nulos quanto aos anuláveis”5.
+
+
+Recurso administrativo e revisão
+
+Art. 56. Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito.
+§ 1º O recurso será dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de
+cinco dias, o encaminhará à autoridade superior.
+§ 2º Salvo exigência legal, a interposição de recurso administrativo independe de caução.
+§ 3º Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá
+à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o
+recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso.
+Art. 57. O recurso administrativo tramitará no máximo por três instâncias administrativas, salvo disposição
+legal diversa.
+Art. 58. Têm legitimidade para interpor recurso administrativo:
+I - os titulares de direitos e interesses que forem parte no processo;
+II - aqueles cujos direitos ou interesses forem indiretamente afetados pela decisão recorrida;
+III - as organizações e associações representativas, no tocante a direitos e interesses coletivos;
+IV - os cidadãos ou associações, quanto a direitos ou interesses difusos.
+
+3
+  STF – Súmula 473.
+4
+  STF – MS 28.273/DF.
+5
+  STJ – AgRg no REsp 1.147.446/RS.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             17
+           www.estrategiaconcursos.com.br                                                                41
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+Art. 59. Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo,
+contado a partir da ciência ou divulgação oficial da decisão recorrida.
+§ 1º Quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo
+de trinta dias, a partir do recebimento dos autos pelo órgão competente.
+§ 2º O prazo mencionado no parágrafo anterior poderá ser prorrogado por igual período, ante justificativa
+explícita.
+Art. 60. O recurso interpõe-se por meio de requerimento no qual o recorrente deverá expor os
+fundamentos do pedido de reexame, podendo juntar os documentos que julgar convenientes.
+Art. 61. Salvo disposição legal em contrário, o recurso não tem efeito suspensivo.
+Parágrafo único. Havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução,
+a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo
+ao recurso.
+Art. 62. Interposto o recurso, o órgão competente para dele conhecer deverá intimar os demais
+interessados para que, no prazo de cinco dias úteis, apresentem alegações.
+Art. 63. O recurso não será conhecido quando interposto:
+I - fora do prazo;
+II - perante órgão incompetente;
+III - por quem não seja legitimado;
+IV - após exaurida a esfera administrativa.
+§ 1º Na hipótese do inciso II, será indicada ao recorrente a autoridade competente, sendo-lhe devolvido o
+prazo para recurso.
+§ 2º O não conhecimento do recurso não impede a Administração de rever de ofício o ato ilegal, desde
+que não ocorrida preclusão administrativa.
+Art. 64. O órgão competente para decidir o recurso poderá confirmar, modificar, anular ou revogar, total
+ou parcialmente, a decisão recorrida, se a matéria for de sua competência.
+Parágrafo único. Se da aplicação do disposto neste artigo puder decorrer gravame à situação do recorrente,
+este deverá ser cientificado para que formule suas alegações antes da decisão.
+Art. 64-A. Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para
+decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso.
+Art. 64-B. Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da
+súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do
+recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de
+responsabilização pessoal nas esferas cível, administrativa e penal.
+Art. 65. Os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a
+pedido ou de ofício, quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a
+inadequação da sanção aplicada.
+Parágrafo único. Da revisão do processo não poderá resultar agravamento da sanção.
+
+- O recurso é cabível tanto em face de legalidade quanto de mérito (art. 56, caput).
+
+- O recurso é dirigido à própria autoridade que proferiu a decisão (art. 56, § 1º). Se tal autoridade
+não reconsiderar, à autoridade superior deve encaminhar o recurso, que tramitará no máximo por
+três instâncias administrativas, salvo disposição legal diversa (art. 57).
+
+- Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, a
+autoridade prolatora da decisão, se não a reconsiderar, explicitar, antes de encaminhar o recurso
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  18
+        www.estrategiaconcursos.com.br                                                                     41
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso
+(art. 56, § 3º).
+
+Além disso, também o órgão competente para decidir o recurso deverá explicitar as razões da
+aplicabilidade ou inaplicabilidade da súmula, conforme o caso (art. 64-A). Caso o recorrente
+impetre reclamação no STF (CF, art. 103-A, § 3º), com fundamento em violação de enunciado da
+súmula vinculante, e o STF a acolha, dar-se-á ciência à autoridade prolatora e ao órgão
+competente para o julgamento do recurso, que deverão adequar as futuras decisões
+administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível,
+administrativa e penal (art. 64-B).
+
+- A interposição de recurso administrativo independe de caução, salvo exigência legal (art. 56, §
+2º). Precedente importante:
+
+                                                    JURISPRUDÊNCIA
+    “É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bem para
+    admissibilidade de recurso administrativo”6.
+
+- Não somente aqueles que figurem formalmente como parte no processo possuem legitimidade
+para interpor o recurso – perceba que a legitimidade varia em função dos direitos e interesses
+envolvidos no processo (art. 58).
+
+- O prazo para a interposição de recurso é de dez dias, salvo disposição legal específica (art. 59,
+caput). Tal prazo é contado a partir da ciência ou divulgação oficial da decisão recorrida.
+
+- O recurso não possui efeito suspensivo, salvo disposição legal em contrário (art. 61). Entretanto,
+a autoridade recorrida ou a imediatamente superior poderá dar efeito suspensivo ao recurso, no
+caso de haver justo receito ou prejuízo de difícil ou incerta reparação decorrente da execução (art.
+61, parágrafo único). Esse efeito suspensivo pode ser proveniente de pedido do recorrente ou até
+mesmo de ofício por parte daquelas autoridades.
+
+- Nem sempre o recurso será conhecido: há situações que impedem o seu conhecimento (art. 63).
+
+- A decisão do recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a
+decisão recorrida (art. 64), inclusive de maneira a prejudicar a situação inicial do recorrente (art.
+64, parágrafo único). Neste caso, em que a decisão puder causar prejuízo ao recorrente, este
+deverá ser cientificado para que formule suas alegações antes da decisão.
+
+6
+    STF – Súmula Vinculante 21.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      19
+           www.estrategiaconcursos.com.br                                                         41
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+- A revisão ocorre somente em processos administrativos de que resultem sanções (art. 65),
+podendo ser realizada de ofício ou a pedido, mas desde que haja o surgimento de fatos novos ou
+circunstâncias relevantes que podem justificar a inadequação da sanção aplicada.
+
+- Ao contrário do que ocorre na decisão dos recursos, em que é possível o agravamento da
+situação do recorrente, na revisão não é possível o agravamento da sanção originalmente aplicada
+(art. 65, parágrafo único).
+
+
+Sanções
+
+Art. 68. As sanções, a serem aplicadas por autoridade competente, terão natureza pecuniária ou consistirão
+em obrigação de fazer ou de não fazer, assegurado sempre o direito de defesa.
+
+- A sanções poderão ser de dois tipos:
+
+ a) natureza pecuniária; ou
+
+ b) obrigação de fazer ou não fazer.
+
+
+Prioridade de tramitação
+
+Art. 69-A. Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos
+administrativos em que figure como parte ou interessado:
+I - pessoa com idade igual ou superior a 60 (sessenta) anos;
+II - pessoa portadora de deficiência, física ou mental;
+III – (VETADO)
+IV - pessoa portadora de tuberculose ativa, esclerose múltipla, neoplasia maligna, hanseníase, paralisia
+irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante,
+nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante),
+contaminação por radiação, síndrome de imunodeficiência adquirida, ou outra doença grave, com base em
+conclusão da medicina especializada, mesmo que a doença tenha sido contraída após o início do processo.
+§ 1º A pessoa interessada na obtenção do benefício, juntando prova de sua condição, deverá requerê-lo
+à autoridade administrativa competente, que determinará as providências a serem cumpridas.
+§ 2º Deferida a prioridade, os autos receberão identificação própria que evidencie o regime de tramitação
+prioritária.
+
+- Sujeitos cujos processos administrativos terão prioridade na tramitação, caso figurem como parte
+ou interessado (art. 69-A) – memorizar o rol contido nos incisos I a IV.
+
+- É necessário que haja requerimento da pessoa interessada para obter a prioridade na tramitação
+do processo – ou seja, como regra, tal prioridade não é concedida de ofício pela Administração
+(art. 69-A, § 1º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              20
+        www.estrategiaconcursos.com.br                                                                 41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+                                                                     APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o histórico de questões da banca em provas
+de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Processo Administrativo Federal" o tópico “Competência" é o ponto que acreditamos ser o que possui mais chances de
+ser cobrado pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+                                                        ==219a34==
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                       21
+        www.estrategiaconcursos.com.br                                                                                                                          41
+
+                                                                     
+
+
+---
+
+Tulio Lages
+Aula 09
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              22
+      www.estrategiaconcursos.com.br                                                                 41
+
+                                                                
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o
+conteúdo por meio de uma bateria extensa de questões, mas que você faça uma boa revisão global do
+assunto a partir de, relativamente, poucas questões.
+
+1. (FGV/2023/Receita Federal do Brasil/Analista Tributário) No início do ano passado, Roberta,
+servidora ocupante do cargo de analista tributária da Receita Federal, após o devido processo
+administrativo disciplinar, teve a sua aposentadoria cassada por decisão de Ministro de Estado,
+cuja atribuição decorre da delegação de competência do Presidente da República para
+aplicação de tal penalidade, nos termos do então vigente Decreto XYZ.
+
+Inconformada com a mencionada decisão, Roberta apresentou recurso hierárquico direcionado
+ao Presidente da República para anular a penalidade aplicada, sob o fundamento de não ser
+válida a delegação efetuada, entre outros argumentos, cuja remessa foi indeferida.
+
+Considerando que o mencionado Decreto não vedava a possibilidade de interposição de
+recurso hierárquico, bem como as normas federais sobre delegação de competência e espécies
+de recursos administrativos, é correto afirmar, à luz do entendimento dos Tribunais Superiores,
+que
+
+a) o ordenamento pátrio não admite a delegação de competência realizada pelo mencionado
+Decreto;
+
+b) o recurso apresentado por Roberta é um recurso hierárquico impróprio que não pode ser
+admitido, diante da ausência de previsão legal específica;
+
+c) a lei de processo administrativo federal (Lei nº 9.784/99) veda a interposição de recurso
+hierárquico para a autoridade delegante quando a decisão foi tomada pelo delegado no
+exercício das respectivas funções administrativas;
+
+d) Roberta não poderia interpor recurso hierárquico da mencionada decisão, a qual era passível
+exclusivamente de pedido de reconsideração;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           23
+        www.estrategiaconcursos.com.br                                                              41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+e) como não há norma que vede o recurso hierárquico próprio em questão, deve ser aplicada a
+regra geral que admite a sua interposição, o que impacta na decisão que indeferiu a remessa
+para a autoridade delegante.
+
+Comentários
+
+Questão bastante complicada e detalhista, que trabalha com alterações regulamentares.
+Primeiramente, vamos observar que a prova da Receita Federal foi em 2023, e, como o
+enunciado fala "no início do ano passado", o ato a que ele se refere foi o início de 2022, em que
+vigorava o Decreto nº 3.035/99.
+
+Dito isso, vamos analisar as alternativas:
+
+Letra A - incorreta. A delegação de competência do Decreto é válida e está de acordo com os
+artigos 11, 12 e 13 da Lei nº 9.784/99:
+
+     Art. 11. A competência é irrenunciável e se exerce pelos órgãos administrativos a que
+     foi atribuída como própria, salvo os casos de delegação e avocação legalmente
+     admitidos.
+
+     Art. 12. Um órgão administrativo e seu titular poderão, se não houver impedimento
+     legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes
+     não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de
+     circunstâncias de índole técnica, social, econômica, jurídica ou territorial.
+
+     (...)
+
+     Art. 13. Não podem ser objeto de delegação:
+
+     I - a edição de atos de caráter normativo;
+
+     II - a decisão de recursos administrativos;
+
+     III - as matérias de competência exclusiva do órgão ou autoridade.
+
+Letra B - incorreta. Vejamos o entendimento do STJ (MS 17.449/DF):
+
+     6. Quanto ao cabimento de recurso hierárquico ao Exmo. Presidente da República em
+     face de ato delegado com base no Decreto n. 3.035/99, no caso em concreto, temos
+     que: a pena de demissão foi aplicada pelo Advogado-Geral da União no exercício de
+     competência que lhe foi delegada pelo Presidente da República por meio do Decreto
+     Presidencial n. 3.035/1999; o recurso administrativo, se cabível, é na modalidade
+     própria, ou seja, tendo em vista a estruturação orgânica da Administração Pública, é
+     dirigido à própria autoridade delegante, que, no caso, é o Presidente da República; e,
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     24
+        www.estrategiaconcursos.com.br                                                        41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+     nem a Lei Complementar n. 73/93 nem a Lei n. 8.112/90 regulam a possibilidade de
+     interposição de recurso administrativo em face de decisão prolatada em sede de
+     processo administrativo disciplinar, razão pela qual são aplicáveis as disposições da Lei
+     n. 9.784/99;
+
+     7. Nesse contexto, após melhor reflexão, entendo que não há impedimento para que
+     seja interposto recurso hierárquico. Isso porque o art. 14, § 3º, da Lei n. 9.784/99
+     estabelece expressamente que as decisões proferidas por meio de ato de delegação
+     considerar-se-ão editadas pelo delegado.
+
+     8. Além disso, ao tratar da delegação, a Lei n. 9.784/99 não estabeleceu nenhuma
+     ressalva quanto à impossibilidade de recurso hierárquico, razão pela qual é aplicável o
+     que dispõe o art. 56 desse diploma legal. Ou seja, não há óbice para a interposição
+     de recurso hierárquico à autoridade delegante porque, embora mediante delegação,
+     a decisão foi tomada pelo delegado no exercício das suas competências
+     administrativas. Além disso, o Decreto n. 3.035, de 27 de abril de 1999, não
+     estabeleceu nenhuma vedação à possibilidade de interposição de recurso hierárquico,
+     razão pela qual entendo que devem prevalecer as disposições legais que possibilitam
+     a interposição do recurso administrativo.
+
+Observe que, mesmo inexistindo previsão legal específica acerca do tema, a decisão do STJ
+admitiu o recurso hierárquico.
+
+Letra C - incorreta. Não existe tal impedimento na lei nº 9.784/99.
+
+Letra D - incorreta. Conforme comentários na letra B, havia possibilidade de recurso hierárquico
+no início de 2022.
+
+Letra E - correta. Conforme comentários anteriores, não havia, no início de 2022, norma que
+vedasse o recurso hierárquico pretendido por Roberta, o que impactaria diretamente na decisão
+que indeferiu sua remessa.
+
+Ok! Chegamos à letra E como gabarito da questão. Agora vamos para a polêmica?
+
+O Decreto nº 11.123, de 7 de julho de 2022, que revogou o decreto nº 3.035/99, prevê em seus
+artigos 6º e 7º o seguinte:
+
+     Art. 6º Caberá pedido de reconsideração à autoridade que houver proferido a decisão
+     com fundamento nas delegações ou subdelegações previstas neste Decreto.
+
+     (...)
+
+     Art. 7º Não caberá interposição de recurso hierárquico ao Presidente da República ou
+     ao Ministro de Estado em face de decisão proferida em processo administrativo
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        25
+        www.estrategiaconcursos.com.br                                                           41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+     disciplinar proferida com fundamento nas delegações ou subdelegações previstas
+     neste Decreto.
+
+Assim, caso a questão se referisse ao período atual, não caberia recurso hierárquico ao
+Presidente da República, mas apenas o pedido de reconsideração, que acabaria tornando a
+alternativa D o gabarito.
+
+Gabarito: Letra E.
+
+2. (FGV/2024/CVM/Analista da Comissão de Valores Mobiliários - Gestão - Perfil 5) João, em
+observância às formalidades legais, deflagrou um processo administrativo junto à União. Após
+dois meses, ele se dirigiu à repartição pública competente, sendo informado de que o referido
+feito se encontrava na fase de instrução. Dessa forma, João, formado em Direito, resolveu
+analisar as normas aplicáveis à referida fase processual, até mesmo para adotar todas as
+medidas que pudessem auxiliar no deferimento do seu pedido.
+
+Considerando esse cenário e as disposições da Lei nº 9.784/1999, que regula o processo
+administrativo no âmbito da Administração Pública Federal, é correto afirmar que:
+
+a) quando, por disposição de ato normativo, devam ser previamente obtidos laudos técnicos de
+órgãos administrativos e estes não cumprirem o encargo no prazo assinalado, o órgão
+responsável pela instrução deverá solicitar laudo técnico de outro órgão dotado de qualificação
+e capacidade técnica equivalentes;
+
+b) quando dados, atuações ou documentos solicitados ao interessado forem necessários à
+apreciação de pedido formulado, o não atendimento no prazo fixado pela administração para a
+respectiva apresentação implicará a aplicação de multa;
+
+c) quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido
+no prazo máximo de dez dias, salvo norma especial ou comprovada necessidade de maior prazo;
+
+d) os interessados serão intimados de prova ou diligência ordenada, com antecedência mínima
+de cinco dias úteis, mencionando-se data, hora e local de realização;
+
+e) o interessado, encerrada a instrução, terá o direito de manifestar-se no prazo máximo de
+quinze dias, salvo se outro prazo for legalmente fixado.
+
+Comentários
+
+Letra A - correta. Está de acordo com o caput do artigo 43 da Lei nº 9.784/99:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   26
+        www.estrategiaconcursos.com.br                                                      41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+     Art. 43. Quando por disposição de ato normativo devam ser previamente obtidos
+     laudos técnicos de órgãos administrativos e estes não cumprirem o encargo no prazo
+     assinalado, o órgão responsável pela instrução deverá solicitar laudo técnico de outro
+     órgão dotado de qualificação e capacidade técnica equivalentes.
+
+Letra B - incorreta. Não havendo atendimento no prazo fixado ocorre o arquivamento do
+processo, conforme artigo 40 da Lei nº 9.784/99:
+
+     Art. 40. Quando dados, atuações ou documentos solicitados ao interessado forem
+     necessários à apreciação de pedido formulado, o não atendimento no prazo fixado
+     pela Administração para a respectiva apresentação implicará arquivamento do
+     processo.
+
+Letra C - incorreta. O prazo máximo é de 15 dias, conforme artigo 42 da Lei nº 9.784/99:
+
+     Art. 42. Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer
+     deverá ser emitido no prazo máximo de quinze dias, salvo norma especial ou
+     comprovada necessidade de maior prazo.
+
+Letra D - incorreta. A antecedência mínima para a intimação nestes casos é de 3 dias úteis,
+conforme artigo 41 da Lei nº 9.784/99:
+
+     Art. 41. Os interessados serão intimados de prova ou diligência ordenada, com
+     antecedência mínima de três dias úteis, mencionando-se data, hora e local de
+     realização.
+
+Letra E - incorreta. O prazo máximo para a manifestação do interessado, após o encerramento
+da instrução, é de 10 dias, conforme artigo 44 da Lei nº 9.784/99:
+
+     Art. 44. Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo
+     máximo de dez dias, salvo se outro prazo for legalmente fixado.
+
+Gabarito: Letra A.
+
+3. (FGV/2024/DNIT/Analista Administrativo - Administração) A Lei nº 9.784/1999 estabelece
+normas básicas sobre o processo administrativo no âmbito da Administração Pública Federal.
+
+De acordo com essa lei, assinale a opção que aponta como sendo um direito do administrado,
+sem prejuízo de outros, que lhe sejam assegurados.
+
+a) Proceder de modo não temerário.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     27
+        www.estrategiaconcursos.com.br                                                        41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+b) Prestar as informações que lhe forem solicitadas.
+
+c) Expor os fatos conforme a verdade.
+
+d) Colaborar para o esclarecimento dos fatos.
+
+e) Ser tratado com respeito pelas autoridades e servidores.
+
+Comentários
+
+As alternativas A, B, C e D listam deveres do administrado elencados no artigo 4º da Lei nº
+9.784/1999:
+
+     Art. 4º São deveres do administrado perante a Administração, sem prejuízo de outros
+     previstos em ato normativo:
+
+     I - expor os fatos conforme a verdade; (Letra C - incorreta)
+
+     II - proceder com lealdade, urbanidade e boa-fé;
+
+     III - não agir de modo temerário; (Letra A - incorreta)
+
+     IV - prestar as informações que lhe forem solicitadas e colaborar para o
+     esclarecimento dos fatos. (Letras B e D - incorretas)
+
+Já a alternativa E, nosso gabarito, elenca um dos direitos do administrado listado no artigo 3º da
+Lei nº 9.784/1999:
+
+     Art. 3º O administrado tem os seguintes direitos perante a Administração, sem
+     prejuízo de outros que lhe sejam assegurados:
+
+     I - ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o
+     exercício de seus direitos e o cumprimento de suas obrigações; (Letra E - correta)
+
+     II - ter ciência da tramitação dos processos administrativos em que tenha a condição
+     de interessado, ter vista dos autos, obter cópias de documentos neles contidos e
+     conhecer as decisões proferidas;
+
+     III - formular alegações e apresentar documentos antes da decisão, os quais serão
+     objeto de consideração pelo órgão competente;
+
+     IV - fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a
+     representação, por força de lei.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      28
+        www.estrategiaconcursos.com.br                                                         41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+Gabarito: Letra E.
+
+4. (FGV/2025/Técnico do Ministério Público da União) No âmbito da Administração Pública federal,
+três entidades estabeleceram instância de natureza interinstitucional para atuar de forma
+compartilhada, com a finalidade de simplificar o processo administrativo mediante participação
+concomitante de todas as autoridades e agentes decisórios e dos responsáveis pela instrução técnico-
+jurídica, observada a natureza do objeto e a compatibilidade do procedimento e de sua formalização
+com a legislação pertinente.
+
+Nessa situação, é correto afirmar que ocorreu:
+
+a) uma decisão coordenada;
+
+b) um ato consultivo conjunto;
+
+c) uma normativa multissetorial;
+
+d) um julgamento sumaríssimo;
+
+e) uma outorga voluntária.
+
+Comentários
+
+A questão faz referência a uma decisão coordenada, letra A, conforme o § 1º do artigo 49-A da Lei nº
+9.784/1999:
+
+     Art. 49-A. No âmbito da Administração Pública federal, as decisões administrativas que exijam a
+     participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante
+     decisão coordenada, sempre que:
+
+     (...)
+
+     § 1º Para os fins desta Lei, considera-se decisão coordenada a instância de natureza
+     interinstitucional ou intersetorial que atua de forma compartilhada com a finalidade de
+     simplificar o processo administrativo mediante participação concomitante de todas as
+     autoridades e agentes decisórios e dos responsáveis pela instrução técnico-jurídica, observada
+     a natureza do objeto e a compatibilidade do procedimento e de sua formalização com a
+     legislação pertinente.
+
+Gabarito: Letra A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              29
+        www.estrategiaconcursos.com.br                                                                 41
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+5.    (FGV/2024/Câmara dos Deputados/Analista Legislativo) Com fulcro na Lei nº 9.784/99, Roberto
+apresentou uma impugnação administrativa à determinada decisão que atinge não só a ele, pois alcança
+diretamente o interesse de outras pessoas que possuem a mesma relação jurídica base com a
+Administração, por se tratar de um interesse coletivo.
+
+Em razão disso, a irresignação apresentada por Roberto vinha sendo acompanhada por outros
+indivíduos, que não iniciaram o processo administrativo, mas que poderiam ser afetados pela solução a
+ser adotada, bem como por organizações e associações representativas do interesse envolvido.
+
+Caso Roberto manifeste a intenção de desistir da pretensão por ele veiculada, são considerados
+legitimados como interessados no respectivo processo administrativo, à luz do mencionado diploma
+legal,
+
+a) apenas as organizações e associações representativas dos interesses coletivos em questão.
+
+b) somente os indivíduos que possam ser diretamente afetados pela decisão a ser adotada.
+
+c) unicamente as organizações e associações que se qualifiquem como organização da sociedade civil de
+interesse público (OSCIP).
+
+d) aqueles que têm direitos ou interesses que possam ser afetados pela decisão a ser adotada, bem como
+as aludidas organizações e associações representativas de tais interesses.
+
+e) nenhumas das pessoas físicas ou jurídicas mencionadas, na medida em que deve ser considerado
+legitimado exclusivamente aquele que deu início ao processo administrativo.
+
+Comentários
+
+Os legitimados a atuarem no processo administrativo são aqueles listados no artigo 9º da Lei nº 9.784/99:
+
+        Art. 9º São legitimados como interessados no processo administrativo:
+
+        I - pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais
+        ou no exercício do direito de representação;
+
+        II - aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser
+        afetados pela decisão a ser adotada;
+
+        III - as organizações e associações representativas, no tocante a direitos e interesses coletivos;
+
+        IV - as pessoas ou as associações legalmente constituídas quanto a direitos ou interesses
+        difusos.
+
+Entre as alternativas, aquela está de acordo com o artigo acima é a letra D.
+
+Gabarito: Letra D
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  30
+           www.estrategiaconcursos.com.br                                                                     41
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+6. (FGV/2024/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde do SUS) No âmbito
+da Administração Pública federal, conforme o previsto na Lei nº 9.784/99, as decisões administrativas
+que exijam a participação de três ou mais entidades podem ser tomadas por decisão coordenada quando
+
+a) estiverem envolvidas autoridades de Poderes distintos.
+
+b) referirem-se a processos de licitação.
+
+c) tiverem relação com atos de poder sancionador.
+
+d) houver discordância prejudicial à celeridade do processo.
+
+Comentários
+
+A questão faz referência à decisão coordenada prevista no artigo 49-A da Lei nº 9.784/1999, sendo ela
+aplicável quando houver discordância prejudicial à celeridade do processo, letra E:
+
+     Art. 49-A. No âmbito da Administração Pública federal, as decisões administrativas que exijam a
+     participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante
+     decisão coordenada, sempre que:
+
+     I - for justificável pela relevância da matéria; e
+
+     II - houver discordância que prejudique a celeridade do processo administrativo decisório.
+
+As demais alternativas trazem situações em que não se aplica a decisão coordenada, conforme o § 6º do
+artigo 49-A da Lei nº 9.784/1999:
+
+     Art. 49-A, § 6º Não se aplica a decisão coordenada aos processos administrativos:
+
+     I - de licitação; (Letra B – incorreta)
+
+     II - relacionados ao poder sancionador; ou (Letra C – incorreta)
+
+     III - em que estejam envolvidas autoridades de Poderes distintos. (Letra A – incorreta)
+
+Gabarito: Letra D
+
+7. (FGV/2024/TRF 1ª Região/Técnico Judiciário - Administrativa) Diante da necessidade de aprofundar
+os seus conhecimentos acerca das normas constantes da Lei nº 9.784/1999, Patrícia, em relação ao início
+do processo do administrativo, verificou corretamente que:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              31
+        www.estrategiaconcursos.com.br                                                                 41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+a) o processo administrativo não pode ser iniciado de ofício, dependendo de pedido do interessado;
+
+b) a lei não pode prever que o requerimento inicial do interessado seja realizado de forma oral;
+
+c) os órgãos da Administração não podem elaborar modelos ou formulários padronizados, ainda que para
+assuntos que importem pretensões equivalentes;
+
+d) os requerimentos devem ser formulados individualmente, inclusive quando os pedidos de uma
+pluralidade de interessados tiverem conteúdo e fundamentos idênticos;
+
+e) a recusa imotivada de recebimento de documentos é vedada à Administração, devendo o servidor
+orientar o interessado quanto ao suprimento de eventuais falhas.
+
+Comentários
+
+Letra A - incorreta. Na verdade, o processo administrativo pode ser iniciado de ofício, conforme o caput do
+artigo 5º da Lei nº 9.784/1999:
+
+     Art. 5º O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+
+Letra B - incorreta. Existem casos no qual o requerimento inicial pode ser realizado de forma oral,
+conforme o artigo 6º da Lei nº 9.784/1999:
+
+     Art. 6º O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral,
+     deve ser formulado por escrito e conter os seguintes dados:
+
+Letra C - incorreta. Contraria diretamente o que diz o artigo 7º da Lei nº 9.784/1999, o qual coloca como
+um dever dos órgãos e entidades a elaboração de modelos ou formulários padronizados:
+
+     Art. 7º Os órgãos e entidades administrativas deverão elaborar modelos ou formulários
+     padronizados para assuntos que importem pretensões equivalentes.
+
+Letra D - incorreta. No caso narrado há a possibilidade de ser feito um único requerimento, conforme o
+artigo 8º da Lei nº 9.784/1999:
+
+     Art. 8º Quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos
+     idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário.
+
+Letra E - correta. Está de acordo com o parágrafo único do artigo 6º da Lei nº 9.784/1999:
+
+     Art. 6º, Parágrafo único. É vedada à Administração a recusa imotivada de recebimento de
+     documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais
+     falhas.
+
+Gabarito: Letra E
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               32
+        www.estrategiaconcursos.com.br                                                                  41
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 09
+
+8. (FGV/2024/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde do SUS) Com
+relação à Lei nº 9.784/99, responsável por regular o processo administrativo no âmbito federal, analise
+os itens a seguir.
+
+I. Matérias de competência exclusiva.
+
+II. Decisões de recursos administrativos.
+
+III. Edição de atos de caráter normativo.
+
+Assinale a opção que indica as situações que vedam a delegação de competência.
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) II e III, apenas.
+
+d) I, II e III.
+
+Comentários
+
+Todos os itens citados não são passíveis de delegação, letra D, conforme o artigo 13 da Lei nº 9.784/1999:
+
+        Art. 13. Não podem ser objeto de delegação:
+
+        I - a edição de atos de caráter normativo;
+
+        II - a decisão de recursos administrativos;
+
+        III - as matérias de competência exclusiva do órgão ou autoridade.
+
+Gabarito: Letra D
+
+9.    (FGV/2024/ALESC/Analista Legislativo) Marta e Matheus, servidores públicos, são informados, pelo
+superior hierárquico, que atuarão em um determinado processo administrativo. Nada obstante, Marta
+verifica que o seu cônjuge já participou do procedimento na qualidade de perito. Por sua vez, Matheus
+tem inimizade notória com um dos interessados no referido processo.
+
+Nesse cenário, considerando as disposições da Lei nº 9.784/1999, é correto afirmar que
+
+a) Marta pode participar do processo administrativo, inexistindo hipótese de impedimento ou suspeição.
+Por outro lado, a inimizade notória de Matheus com um dos interessados no referido processo gera o seu
+impedimento.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            33
+            www.estrategiaconcursos.com.br                                                               41
+
+                                         
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+b) Marta é suspeita de atuar no processo administrativo. Por outro lado, a inimizade notória de Matheus
+com um dos interessados no referido processo gera o seu impedimento.
+
+c) Marta é impedida de atuar no processo administrativo. Por sua vez, a inimizade notória de Matheus com
+um dos interessados no referido processo gera a sua suspeição.
+
+d) Marta e Matheus são impedidos de atuar no processo administrativo, porquanto as situações narradas
+caracterizam o impedimento.
+
+e) Marta e Matheus são suspeitos para atuar no processo administrativo, porquanto as situações narradas
+caracterizam a suspeição.
+
+Comentários
+
+Marta, por ser cônjuge do perito que atuou no processo é considerada impedida de atuar, nos termos do
+                                                        ==219a34==
+
+inciso II do artigo 18 da Lei nº 9.784/1999:
+
+     Art. 18. É impedido de atuar em processo administrativo o servidor ou autoridade que:
+
+     (...)
+
+     II - tenha participado ou venha a participar como perito, testemunha ou representante, ou se
+     tais situações ocorrem quanto ao cônjuge, companheiro ou parente e afins até o terceiro grau;
+
+Já Matheus, por sua inimizade notória com um dos interessados no referido processo, é considerado
+suspeito, conforme o artigo 20 da Lei nº 9.784/1999:
+
+     Art. 20. Pode ser argüida a suspeição de autoridade ou servidor que tenha amizade íntima ou
+     inimizade notória com algum dos interessados ou com os respectivos cônjuges, companheiros,
+     parentes e afins até o terceiro grau.
+
+Assim, a alternativa que está de acordo com o explicado acima é a letra C.
+
+Gabarito: Letra C
+
+10. (FGV/2024/SES-MT/Profissional Técnico de Nível Superior em Serviços de Saúde do SUS) Sobre a
+comunicação dos atos, segundo a Lei nº 9.784/99, é correto afirmar que
+
+a) a intimação deve observar a antecedência mínima de 10 dias quanto à data de comparecimento.
+
+b) em caso de interessados desconhecidos ou com domicílio indefinido, a intimação deve ser feita por meio
+de publicação oficial.
+
+c) o desatendimento da intimação, pelo interessado, importa no reconhecimento da verdade dos fatos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             34
+        www.estrategiaconcursos.com.br                                                                41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+d) ainda que haja o comparecimento do interessado, as intimações serão nulas quando feitas sem
+observância das prescrições legais.
+
+Comentários
+
+Letra A - incorreta. A intimação deve observar a antecedência mínima de três dias úteis, conforme o § 2°
+do artigo 26 da Lei nº 9.784/1999:
+
+     Art. 26, § 2º A intimação observará a antecedência mínima de três dias úteis quanto à data de
+     comparecimento.
+
+Letra B - correta. Está de acordo com o § 4° do artigo 26 da Lei nº 9.784/1999:
+
+     Art. 26, § 4º No caso de interessados indeterminados, desconhecidos ou com domicílio
+     indefinido, a intimação deve ser efetuada por meio de publicação oficial.
+
+Letra C - incorreta. O desatendimento da intimação não importa no reconhecimento da verdade dos fatos,
+conforme o artigo 27 da Lei nº 9.784/1999:
+
+     Art. 27. O desatendimento da intimação não importa o reconhecimento da verdade dos fatos,
+     nem a renúncia a direito pelo administrado.
+
+Letra D - incorreta. O comparecimento do administrado supre a falta ou irregularidade das intimações,
+conforme o § 5° do artigo 26 da Lei nº 9.784/1999:
+
+     Art. 26, § 5º As intimações serão nulas quando feitas sem observância das prescrições legais,
+     mas o comparecimento do administrado supre sua falta ou irregularidade.
+
+Gabarito: Letra B
+
+11. (FGV/2024/TJ-SC/Analista Administrativo) Roberval pagou R$ 30.000,00 para que Sandra
+certificasse, nos autos de um processo administrativo, que estavam reunidos os requisitos para que ele
+incorporasse determinada vantagem a seus vencimentos.
+
+Depois de três anos recebendo o benefício, Roberval passa em outro concurso e se exonera do cargo até
+então ocupado. Passados mais dois anos, a Administração é alertada, pelo tribunal de contas, da
+nulidade do ato concessivo. Cinco anos depois, ultima a sua anulação. Logo depois, pede, judicialmente,
+a devolução do valor recebido por Roberval, que, a seu turno, alega a decadência de tal direito de
+autotutela.
+
+Nesse caso, à luz da Lei nº 9.784/1999, a decadência:
+
+a) não se consumou;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            35
+        www.estrategiaconcursos.com.br                                                               41
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+b) consumou-se cinco anos depois do primeiro pagamento;
+
+c) consumou-se cinco anos depois do último pagamento;
+
+d) consumou-se cinco anos depois de ser cientificada pelo tribunal de contas;
+
+e) consumou-se dois anos e meio depois de ser cientificada pelo tribunal de contas.
+
+Comentários
+
+A decadência, na situação narrada, não se consumou, letra A. Vejamos o que diz o artigo 54 da Lei nº
+9.784/1999:
+
+     Art. 54. O direito da Administração de anular os atos administrativos de que decorram efeitos
+     favoráveis para os destinatários decai em cinco anos, contados da data em que foram
+     praticados, salvo comprovada má-fé.
+
+Mesmo que já tenha transcorrido mais de cinco anos do ato, não há que se falar em prazo decadencial,
+pois no caso é evidente a má-fé de Roberval, que realizou um pagamento ilícito para receber um benefício
+indevido.
+
+Gabarito: Letra A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            36
+        www.estrategiaconcursos.com.br                                                               41
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 09
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+
+Perguntas
+
+1. O que preceitua o princípio do informalismo (ou do formalismo moderado)?
+
+2. O que preceitua o princípio da instrumentalidade das formas?
+
+3. O que preceitua o princípio da verdade material?
+
+4. O art. 2º, IV, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+administrativo federal: “atuação segundo padrões éticos de probidade, decoro e boa-fé”. À
+qual princípio esse critério está alinhado precipuamente?
+
+5. O art. 2º, VI, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+administrativo federal: “adequação entre meios e fins, vedada a imposição de obrigações,
+restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do
+interesse público”. À qual princípio esse critério está alinhado precipuamente?
+
+6. O art. 2º, XI, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+administrativo federal: “proibição de cobrança de despesas processuais, ressalvadas as previstas
+em lei”. À qual princípio esse critério está alinhado precipuamente?
+
+7. Na suspeição, há presunção absoluta ou relativa de parcialidade?
+
+8. Qual o prazo decadencial do direito da Administração de anular os atos administrativos de
+que decorram efeitos desfavoráveis para os destinatários?
+
+9. A convalidação é obrigatória, nos termos da Lei 9.784/1999?
+
+10. Qual o número máximo de instâncias administrativas que pode tramitar o recurso
+administrativo?
+
+
+Perguntas com respostas
+
+1. O que preceitua o princípio do informalismo (ou do formalismo moderado)?
+
+Preceitua que, embora seja formal, o processo administrativo deve adotar formas simples, não
+devendo sujeitar-se a formas rígidas, mas apenas as suficientes para proporcionar segurança
+jurídica e garantir o direito de defesa quando necessário.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  37
+         www.estrategiaconcursos.com.br                                                                     41
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 09
+
+2. O que preceitua o princípio da instrumentalidade das formas?
+
+Preceitua que o processo deve ser visto como mero instrumento para atingir um fim, podendo
+serem consideradas sanadas eventuais inobservâncias às formas prescritas em lei, se a finalidade
+nela prevista for alcançada em última instância.
+
+3. O que preceitua o princípio da verdade material?
+
+Preceitua que a Administração não deve se ater às informações trazidas pelos interessados aos
+autos do processo, mas procurar conhecer como o fato discutido efetivamente aconteceu no
+mundo real, inclusive produzindo provas de ofício ou recebendo elementos apresentados pelo
+administrado em qualquer fase do processo.
+
+4. O art. 2º, IV, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+                                                         ==219a34==
+
+administrativo federal: “atuação segundo padrões éticos de probidade, decoro e boa-fé”. À
+qual princípio esse critério está alinhado precipuamente?
+
+Princípio da moralidade.
+
+5. O art. 2º, VI, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+administrativo federal: “adequação entre meios e fins, vedada a imposição de obrigações,
+restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do
+interesse público”. À qual princípio esse critério está alinhado precipuamente?
+
+Princípios da razoabilidade e proporcionalidade.
+
+6. O art. 2º, XI, da Lei 9.784/1999 estabelece o seguinte critério a ser observado no processo
+administrativo federal: “proibição de cobrança de despesas processuais, ressalvadas as previstas
+em lei”. À qual princípio esse critério está alinhado precipuamente?
+
+Princípio da gratuidade.
+
+7. Na suspeição, há presunção absoluta ou relativa de parcialidade?
+
+A suspeição deve ser arguida no caso de autoridade ou servidor que tenha amizade íntima ou
+inimizade notória com algum dos interessados ou com os respectivos cônjuges, companheiros,
+parentes e afins até o terceiro grau (art. 20 da Lei 9.784/1999), podendo tal alegação, caso tenha
+sido indeferida, ser objeto de recurso, sem efeito suspensivo (art. 21 da mesma Lei)
+
+Assim, em razão da subjetividade em se constatar suas causas (afinal, o que seria uma amizade
+“íntima” ou inimizade “notória”?), na suspeição há presunção relativa de parcialidade.
+
+8. Qual o prazo decadencial do direito da Administração de anular os atos administrativos de
+que decorram efeitos desfavoráveis para os destinatários?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     38
+         www.estrategiaconcursos.com.br                                                        41
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+      Aula 09
+
+Não há! O prazo decadencial de 5 anos previsto no caput do art. 54 da Lei 9.784/1999 é
+aplicável somente aos atos administrativos de que decorram efeitos FAVORÁVEIS aos
+administrados:
+
+         Art. 54. O direito da Administração de anular os atos administrativos de que decorram
+         efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que
+         foram praticados, salvo comprovada má-fé.
+
+9. A convalidação é obrigatória, nos termos da Lei 9.784/1999?
+
+Não, é uma faculdade da Administração – o art. 55 da Lei 9.784 fala em “poderão ser
+convalidados”:
+
+         Art. 55. Em decisão na qual se evidencie não acarretarem lesão ao interesse público
+         nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser
+         convalidados pela própria Administração.
+
+10. Qual o número máximo de instâncias administrativas que pode tramitar o recurso
+administrativo?
+
+Três instâncias administrativas, salvo disposição legal diversa, conforme art. 57 da Lei
+9.784/1999.
+
+...
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    39
+            www.estrategiaconcursos.com.br                                                       41
+
+                                         
+
+
+---
+
+  Tulio Lages
+  Aula 09
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            40
+        www.estrategiaconcursos.com.br                                                               41
+
+                                     
+
+
+---
+
+---

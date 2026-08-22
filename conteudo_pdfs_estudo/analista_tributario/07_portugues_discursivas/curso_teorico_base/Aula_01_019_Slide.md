@@ -1,0 +1,379 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_019_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: TEMAS ESPECIAIS DE
+---
+
+# TEMAS ESPECIAIS DE
+
+---
+
+TEMAS ESPECIAIS DE
+   PORTUGUÊS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+CADERNO 30
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+EMPREGO DO HÍFEN
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+PREFIXOS
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+                                              REGRA 1
+             Com os prefixos ante, anti, arqui, auto, circum, contra, entre, extra,
+           hiper, infra, intra, semi, sobre, sub, ultra...; ou falsos prefixos aero, agro,   Ex.: anti-inflamatório, arqui-inimigo, semi-
+           anfi, audio, bio, eletro, foto, geo, hidro, macro, maxi, mega, micro, mini,       interno, poli-insaturado, pseudo-occipital,
+                        multi, neo, orto, proto, pseudo, poli, retro, tele...                 sobre-estimar, auto-observação, contra-
+                                                                                             arrazoado, bio-história, poli-hidroxila, sub-
+                               Emprega-se o hífen quando:                                    horizonte, ultra-hiperbólico, neo-helênico
+            - 1º elemento termina por VOGAL IGUAL à que inicia o 2º elemento;
+                                          OU
+                              - 2º elemento começa por H.
+
+                                                                                                Ex.: hiper-hedonista, inter-hemisfério,
+HÍFEN                                     OBSERVAÇÕES:                                         super-homem, hiper-requintado, inter-
+           - prefixos hiper, inter e super: usa-se hífen se o 2º elemento iniciar por H                resistente, super-revista...
+Prefixos                                       ou R;
+           - prefixos circum e pan: usa-se hífen quando o 2º elemento começar por            Ex.: circum-escolar, circum-navegação, pan-
+                                          vogal, M ou N.                                      africano, pan-negritude, pan-helenismo...
+
+                                Escreve-se junto, sem hífen:
+            - 1º elemento terminar por VOGAL DIFERENTE daquela que inicia o 2º                Ex.: antiético, anteontem, agroindustrial,
+                                         elemento;                                           aeroespacial, eletroemissão, extraescolar...
+            - 1º elemento terminar por vogal e o 2º elemento começar por r ou s,
+                                 dobrando as consoantes.                                      Ex.: biorritmo, infrassom, microssistema,
+                                                                                                     antessala, antirrepublicano,
+                                                                                                     minissubmarino, cossenhor...
+                                                       Prof. Adriana Figueiredo
+                                              
+
+
+---
+
+                                                                                Ex.: além-mar, aquém-mar, bem-querer,
+                                      REGRA 2                                        bem-humorado (mas, benfazejo,
+              Emprega-se o hífen em nomes compostos em que o 1º                 benfeitor), recém-casado, sem-número,
+           elemento seja: além, aquém, bem, ex, recém, sem, grão, grã,           grã-cruz, ex-presidente, sota-capitão,
+                bel, soto, sota, vice, vizo, pré, pró, pós (tônicos).                sota-vento, vice-cônsul, vizo-rei,
+                                                                                     pré-escolar, pós-graduação, pró-
+                                                                                               germânico...
+
+
+HÍFEN                              OUTROS CASOS
+           - prefixo mal: usa-se hífen quando o 2º elemento começa por
+Prefixos                             vogal ou H.
+                                                                                   Ex.: mal-estar, mal-humorado etc.
+
+                           Escreve-se junto, sem hífen:                            Ex.: precondicionamento, propor,
+                             - pre, pro, pos, átonos.                                          pospor...
+
+                                                    Prof. Adriana Figueiredo
+                                           
+
+
+---
+
+                                    REGRA 3
+                                                                               Ex.: sub-base, ab-reptício, ob-rogar, sub-
+            Emprega-se o hífen com os prefixos ab, ob, sob, sub, se o 2º
+                            elemento iniciar por r ou b                                         reitor...
+
+HÍFEN
+Prefixos
+
+                                    OUTROS CASOS
+           - prefixo ad: usa-se hífen se o 2º elemento começar por R ou D.          Ex.: ad-referendar, ad-digital...
+
+                                                   Prof. Adriana Figueiredo
+                                          
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I) Julgue se o emprego do hífen ou a sua ausência está certo (C) ou
+errado (E).
+ a) contraatacar ( )
+
+ b) anti-sociável ( )
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+I) Julgue se o emprego do hífen ou a sua ausência está certo (C) ou
+errado (E).
+ c) viceimperador ( )
+
+ d) subrregião ( )
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+I) Julgue se o emprego do hífen ou a sua ausência está certo (C) ou
+errado (E).
+ e) hiper-realista ( )
+
+ f) pós-colonialismo ( )
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+I) Julgue se o emprego do hífen ou a sua ausência está certo (C) ou
+errado (E).
+ g) co-seno ( )
+
+ h) preestabelecido ( )
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+I) Julgue se o emprego do hífen ou a sua ausência está certo (C) ou
+errado (E).
+ i) micro-análise ( )
+
+ j) infra-estrutura ( )
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+      IBFC
+                                     Profª. Adriana Figueiredo
+
+---
+
+IBFC – CET-Santos - Assistente Administrativo
+
+
+ Em relação à ortografia correta das palavras, assinale a alternativa correta.
+
+
+ A) O pósgraduado é co-autor do livro escrito.
+
+
+ B) Os pré-escolares fizeram um passeio de micro-ônibus.
+
+ C) O superhomem contraatacou os inimigos.
+
+
+ D) Depois do ultra-som, tomou um antinflamatório.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+IBFC – CET-Santos - Advogado - Generalista
+
+ Assinale a alternativa em que todas as palavras estão grafadas incorretamente.
+
+ A) megaapagão, antiherói, prédatado, microondas.
+
+ B) Anti-imperialista, pré-operatório, super-homem, entre-eixos.
+
+ C) Pré-escolar, anti-herói, microônibus, contraatacar.
+
+ D) Pós-graduado, préoperatório, micro-ondas, micro-ônibus.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+IBFC – IBGE - Supervisor de Coleta e Qualidade
+
+ Em relação à ortografia das palavras sublinhadas, assinale a alternativa incorreta.
+ A) Aquela auto-estrada é muito movimentada.
+
+
+ B) Gosto muito do filme do super-homem, apesar de ser antigo.
+
+
+ C) O médico indicou uma ultrassonografia.
+
+
+ D) O livro contava tudo sobre a pré-história.
+
+
+ E) O ex-governador ainda é muito popular.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+INSTITUTO CONSULPLAN
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+INSTITUTO CONSULPLAN – 2024 – Prefeitura de Governador Valadares
+- MG - Agente Comunitário de Endemias
+ Considere o termo sublinhado em “A 13 de agosto de 1965, na TV Globo recém-
+ inaugurada, que era então apenas o Canal 4 do Rio de Janeiro, [...]” (2º§). É
+ correto afirmar que o termo “recém”, quando usado como elemento de
+ composição, tal como no exemplo em comento, se dá hifenizado:
+ A) Em qualquer situação.
+
+ B) Quando anteceder vogais, apenas.
+
+
+ C) Quando anteceder termos polissílabos, apenas.
+
+
+ D) Quando anteceder termos paroxítonos, apenas.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+INSTITUTO CONSULPLAN – 2024 – Câmara de Belo Horizonte - MG -
+Consultor Legislativo - Área de Administração e Finanças I
+ Algumas palavras podem apresentar dúvida em relação ao registro de acordo com a
+ ortografia oficial. Em “Já a violência psicológica, talvez menos evidente, é igualmente
+ devastadora, minando a autoestima e o bem-estar emocional da vítima por meio de
+ humilhações, xingamentos e ameaças constantes.” (2º§), observa-se o emprego e registro
+ correto de vocábulo em que o uso do hífen é evidenciado. Indique, a seguir, a alternativa
+ que apresenta INCORREÇÃO de acordo com a norma padrão da língua.
+
+ A) micro-ondas; sem-terra; contra-ataque.
+
+ B) além-túmulo; aquém-mar; bem-nascido.
+
+ C) inter-racial; sub-bibliotecário; sub-região.
+
+ D) auto-conhecimento; anti-derrapante; semi-reta.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+INSTITUTO CONSULPLAN – 2024 – Prefeitura de Miracema - RJ -
+Cuidador Social
+ Falecido em 2011, Moacyr Scliar não chegou a viver a obrigatoriedade do último
+ acordo ortográfico da língua portuguesa, a qual passou a vigorar em 2016. O
+ termo “mal-traçadas” (3º§), por exemplo, grafado com hífen na reprodução do
+ texto anterior:
+
+ A) Obedece ao acordo ortográfico, pois o prefixo “mal” sempre exige hífen.
+
+
+ B) Obedece ao acordo ortográfico, pois o prefixo “mal” exige hífen quando
+ sucedido por consoante.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+INSTITUTO CONSULPLAN – 2024 – Prefeitura de Miracema - RJ -
+Cuidador Social
+ Falecido em 2011, Moacyr Scliar não chegou a viver a obrigatoriedade do último
+ acordo ortográfico da língua portuguesa, a qual passou a vigorar em 2016. O
+ termo “mal-traçadas” (3º§), por exemplo, grafado com hífen na reprodução do
+ texto anterior:
+
+ C) Vai de encontro ao acordo ortográfico, pois o prefixo “mal” exige hífen apenas
+ quando sucedido por vogais.
+
+
+ D) Vai de encontro ao acordo ortográfico, pois o prefixo “mal” não exige hífen
+ quando sucedido pela consoante “t”.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+INSTITUTO CONSULPLAN – 2024 – Prefeitura de Santana da Vargem -
+MG - Advogado do SUAS
+ Atendendo às normas da ortografia oficial vigente da língua portuguesa, os termos
+ destacados em “Superexposição de crianças e adolescentes e a hipersexualização”
+ dispensam corretamente o emprego do hífen; o mesmo não ocorre com os
+ vocábulos
+ A) hiperacústico; hiperagudeza; e, hiperalgia.
+
+ B) supersalário; superaquecido; e, superbactéria.
+
+
+ C) superhabilidade; superesfriado; e, superhomem.
+
+
+ D) superpovoamento; superpromoção; e, superproteção.
+Profª Adriana Figueiredo
+                                  
+
+
+---

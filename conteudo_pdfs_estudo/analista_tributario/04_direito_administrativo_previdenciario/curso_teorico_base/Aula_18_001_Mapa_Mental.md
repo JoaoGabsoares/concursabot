@@ -1,0 +1,391 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 18_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '18'
+titulo_aula: BENS PÚBLICOS
+artigos_citados:
+- ART. 76
+---
+
+# BENS PÚBLICOS
+
+BENS PÚBLICOS
+                                                   BEM PÚBLICO
+
+                            •    BEM QUE PERTENCE ÀS PESSOAS JURÍDICAS DE DIREITO PÚBLICO INTERNO;
+CONCEITO LEGAL:             •    INDEPENDENTEMENTE DA ATIVIDADE DESEMPENHADA OU DA DESTINAÇÃO DESSES BENS;
+                            •    LEVA EM CONSIDERAÇÃO APENAS O ASPECTO FORMAL (TITULARIDADE DO BEM).
+
+
+                    BENS PRIVADOS – SÃO OS BENS DAS:
+
+                                                     FUNDAÇÕES PÚBLICAS DE DIREITO PRIVADO
+
+                                                                       EMPRESAS PÚBLICAS
+
+                                                            SOCIEDADES DE ECONOMIA MISTA
+
+                                                      CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS
+
+                                               TODAS AS OUTRAS PESSOAS DA INICIATIVA PRIVADA
+
+             BENS PRIVADOS AFETADOS A UM SERVIÇO PÚBLICO
+
+                  NÃO SE SUJEITEM AO REGIME JURÍDICO DOS BENS PÚBLICOS
+                                                                                                 •   IMPENHORABILIDADE;
+                            MAS POSSUEM PROTEÇÃO ESPECIAL
+                                                                                                 •   NÃO ONERABILIDADE.
+                                EQUIPARADOS A BENS PÚBLICOS
+                                                                                                                          DIREITO ADMINISTRATIVO
+                                                                                                                           ESTRATÉGIA CONCURSOS
+                                          
+
+
+---
+
+                                                BENS PÚBLICOS
+                                    DOMÍNIO PÚBLICO X DOMÍNIO EMINENTE
+                             •    Bens móveis e imóveis destinados ao uso direto do Poder Público ou à sua utilização direta
+DOMÍNIO PÚBLICO                   ou indireta pela coletividade;
+                             •    Submetidos ao regime jurídico de Direito Público.
+
+                             •    Poder geral do Estado sobre todos os bens que                                ❑    Bens públicos;
+                                  estejam no âmbito do seu território;
+                                                                                                               ❑    Bens privados;
+DOMÍNIO EMINENTE             •    Decorrente de sua soberania;
+                                                                                                               ❑    Res nullius ou bens adéspotas
+                             •    Abrange:                                                                          (bens de ninguém).
+
+                                 CLASSIFICAÇÃO
+
+                                                                                                         •   Bens Federais;
+                                                                                                         •   Bens Estaduais;
+                                   QUANTO À TITULARIDADE
+                                                                                                         •   Bens Municipais;
+                                                                                                         •   Bens Distritais.
+
+                                                                                                         •   Bens de uso comum do povo;
+                                    QUANTO À DESTINAÇÃO                                                  •   Bens de uso especial;
+                                                                                                         •   Bens dominicais.
+
+                                                                           •       Bens indisponíveis;
+                   QUANTO À DISPONIBILIDADE                                •       Bens patrimoniais indisponíveis;
+                                                                           •       Bens patrimoniais disponíveis.                      DIREITO ADMINISTRATIVO
+                                                                                                                                        ESTRATÉGIA CONCURSOS
+                                              
+
+
+---
+
+                                           BENS PÚBLICOS - CLASSIFICAÇÃO
+
+                                               CLASSIFICAÇÃO QUANTO À DESTINAÇÃO:
+
+                                   •     Bens que se destinam à utilização geral da coletividade;
+    BENS DE USO COMUM
+                                   •     Utilização gratuita ou retribuída;
+         DO POVO
+                                   •     Construção ou atividade irregular em bem de uso comum do povo.
+
+                                  ❑      Dano in repisa à coletividade;
+                                  ❑      Imediata restituição da área ao estado anterior.
+
+                                   •     Se destinam a uma atividade especíﬁca da Administração Pública;
+    BENS DE USO ESPECIAL
+                                   •     São utilizados na execução de um serviço administrativo ou um serviço público;
+                                   •     Utilização se dá, em regra, diretamente pelo poder público.
+
+
+                                                 •   Caracterizado de forma residual;
+           BENS DOMINICAIS                       •   Todos aqueles bens que não são de uso comum do povo ou de uso especial;
+                                                 •   Não estão afetados a uma ﬁnalidade especíﬁca da Administração Pública.
+
+•     BENS DOMINICAIS X BENS DOMINIAIS
+
+
+❑     Dominicais - Bens não afetados
+❑     Dominiais - Expressão genérica, que abrange todos os bens de domínio estatal.
+                                                                                                                          DIREITO ADMINISTRATIVO
+                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                      
+
+
+---
+
+                              BENS PÚBLICOS - CLASSIFICAÇÃO
+
+
+                                      AFETAÇÃO E DESAFETAÇÃO:
+
+          FATOS ADMINISTRATIVOS DINÂMICOS QUE INDICAM A ALTERAÇÃO DAS FINALIDADES DO BEM PÚBLICO.
+
+                                                                 • Ato administrativo formal; ou
+        PODE OCORRER POR MEIO DE:
+                                                                 • Fato jurídico de natureza diversa.
+
+                                                     • Atribui a um bem público uma destinação de interesse
+             AFETAÇÃO
+                                                          público.
+
+            DESAFETAÇÃO
+
+
+• Bem utilizado em uma ﬁnalidade pública é desativado, deixando de atender a ﬁnalidade anterior e
+  passando a não estar destinado a qualquer atividade de interesse coletivo.
+
+
+                                                                                                         DIREITO ADMINISTRATIVO
+                                                                                                          ESTRATÉGIA CONCURSOS
+                                        
+
+
+---
+
+                     BENS PÚBLICOS - CLASSIFICAÇÃO
+
+                     CLASSIFICAÇÃO QUANTO À DISPONIBILIDADE:
+
+                      ❑ Não possuem caráter patrimonial;
+                      ❑ Não podem ser alienados nem onerados;
+BENS INDISPONÍVEIS
+                      ❑ Devem ser mantidos na utilização para a ﬁnalidade a que estão voltados;
+                      ❑ São aqueles de uso comum do povo.
+
+
+                      ❑ Ostentam o caráter patrimonial;
+
+BENS PATRIMONIAIS     ❑ São passíveis de avaliação pecuniária;
+  INDISPONÍVEIS
+                      ❑ Porém, não podem sofrer disposição;
+                      ❑ São os bens de uso especial;
+
+
+                      ❑ Passíveis de valoração econômica;
+                      ❑ Podem sofrer disposição;
+BENS PATRIMONIAIS
+                      ❑ Desde que observadas as condições estabelecidas na lei;
+  DISPONÍVEIS.
+                      ❑ Não estão afetados a uma ﬁnalidade pública especíﬁca;
+                      ❑ São os bens dominicais.
+
+                                                                                          DIREITO ADMINISTRATIVO
+                                                                                           ESTRATÉGIA CONCURSOS
+                              
+
+
+---
+
+                          BENS PÚBLICOS – REGIME JURÍDICO
+
+                      REGIME JURÍDICO DOS BENS PÚBLICOS - CARACTERÍSTICAS:
+
+                          ❑ Atualmente é “alienabilidade condicionada”;
+                          ❑ Alienação nas hipóteses previstas em lei e desde que atendido os requisitos.
+ INALIENABILIDADE         ❑ Bens de uso comum do povo e os de uso especial:
+                           •   Absolutamente inalienáveis enquanto perdurar a condição de afetação.
+                          ❑ Bens públicos dominicais podem ser alienados, observadas as exigências da lei.
+
+
+                          ❑ Decorre da CF;
+IMPENHORABILIDADE
+                          ❑ Pagamento de dívidas da Fazenda Pública ocorre pelo regime de precatórios.
+
+
+                          ❑ Bens públicos não podem ser adquiridos por usucapião.
+
+IMPRESCRITIBILIDADE       ❑ Súmula n. 619/STJ: A ocupação indevida de bem público conﬁgura mera
+                            detenção, de natureza precária, insuscetível de retenção ou indenização por
+                            acessões e benfeitorias.
+
+
+NÃO ONERABILIDADE         ❑ Bens públicos não podem ser objeto de direito real de garantia.
+
+                                                                                                  DIREITO ADMINISTRATIVO
+                                                                                                   ESTRATÉGIA CONCURSOS
+                                     
+
+
+---
+
+                                                    BENS PÚBLICOS
+                                               AFORAMENTO OU ENFITEUSE
+
+                               MEIO DE UTILIZAÇÃO DE BENS PÚBLICOS PELOS PARTICULARES
+
+                                       PROPRIEDADE PERTENCE AO PODER PÚBLICO
+
+                                        DOMÍNIO ÚTIL PERTENCE AO PARTICULAR.
+
+                                    PODER EDILÍCIA/POLÍCIA DAS CONSTRUÇÕES
+
+RAMO DO PODER DE POLÍCIA, DIRECIONADO ESPECIFICAMENTE
+               AO CONTROLE DAS EDIFICAÇÕES.                                          •   Normas de ediﬁcação;
+                                                                                     •   Controle das construções;
+                           EXEMPLOS:
+                                                                                     •   Emissão de alvarás de construção;
+
+❑   TERRAS DEVOLUTAS;                                                                •   Fiscalização do cumprimento das normas de ediﬁcação.
+
+❑   TERRENOS DE MARINHA;
+❑   TERRENOS ACRESCIDOS;
+❑   TERRAS OCUPADAS PELOS ÍNDIOS;
+                                                                                     ESPÉCIES DE BENS PÚBLICOS
+❑   PLATAFORMA CONTINENTAL;
+❑   ILHAS;
+❑   FAIXA DE FRONTEIRAS;
+❑   ÁGUAS PÚBLICAS.
+                                                                                                                                    DIREITO ADMINISTRATIVO
+                                                                                                                                     ESTRATÉGIA CONCURSOS
+                                                
+
+
+---
+
+  BENS PÚBLICOS – AQUISIÇÃO DE BENS PELA ADMINISTRAÇÃO PÚBLICA
+                       AQUISIÇÃO DE BENS PELA ADMINISTRAÇÃO PÚBLICA
+
+                                 •     NATURAIS (EX.: FENÔMENOS DA NATUREZA);
+CAUSAS DE AQUISIÇÃO:             •     CONTRATUAIS;
+                                 •     JURÍDICAS.
+
+                                 •     AQUISIÇÃO ORIGINÁRIA.
+
+                                 ❑     Aquisição direta do bem, sem a manifestação de vontade do titular anterior;
+                                 ❑     Não se transmite débitos do antigo proprietário ao novo proprietário;
+CLASSIFICAÇÃO:
+                                 ❑     O bem é adquirido de forma livre e desembaraçada;
+                                 ❑     Ex.: Usucapião.
+
+                                 •     AQUISIÇÃO DERIVADA.
+
+                                 ❑     Decorre da manifestação de vontade das partes;
+                                 ❑     Transmissão do bem pelo antigo titular ao novo proprietário;
+                                 ❑     Ex.: Contrato de compra e venda.
+
+                                 •     CONTRATOS;                         •   AQUISIÇÃO CAUSA MORTIS;
+                                 •     USUCAPIÃO;                         •   ARREMATAÇÃO;
+FORMAS DE AQUISIÇÃO:
+                                 •     DESAPROPRIAÇÃO;                    •   ADJUDICAÇÃO;
+                                 •     ACESSÃO;                           •   AQUISIÇÃO EX LEGE.           DIREITO ADMINISTRATIVO
+                                                                                                            ESTRATÉGIA CONCURSOS
+                                     
+
+
+---
+
+                                              BENS PÚBLICOS – GESTÃO
+
+                                            USO DO BEM PÚBLICO – FORMAS:
+
+                                                     •     PODE SER GRATUITO OU RETRIBUÍDO.
+
+          USO COMUM:                                 •     UTILIZAÇÃO PELA COMUNIDADE DE FORMA INDISTINTA.
+                                                     •     NÃO HÁ NECESSIDADE DE CONSENTIMENTO ESTATAL ESPECÍFICO PARA O USO.
+                                                     •     REGRA: BENS DESTINADOS AO USO COMUM SÃO OS BENS DE USO COMUM DO POVO.
+                                                     •     EXCEÇÃO: BENS DE USO ESPECIAL PODEM SER CONSIDERADOS DE USO COMUM QUANDO
+                                                           UTILIZADOS DE ACORDO COM OS FINS NORMAIS A QUE SE DESTINAM.
+
+
+                                                 ❑         Uso normal ou ordinário: bem utilizado na ﬁnalidade a que se destina.
+•   ESPÉCIES:
+                                                 ❑         Uso anormal ou extraordinário:
+
+                                                     • Utilização do bem depende do preenchimento das condições
+                                                       impostas pelo poder público; ou
+                                                     • Utilização distinta daquela para a qual o bem é destinado.
+         USO ESPECIAL:
+
+                                                                                      ❑       Preenchimento dos requisitos previstos na legislação;
+•   NÃO SE TRATA DE USO INDISCRIMINADO E GRATUITO.
+                                                                                      ❑       Consentimento estatal; ou
+•   DEPENDE:
+                                                                                      ❑       Obrigação de pagar pelo uso.
+
+
+                                                                                                                                               DIREITO ADMINISTRATIVO
+                                                                                                                                                ESTRATÉGIA CONCURSOS
+                                                         
+
+
+---
+
+                                                 BENS PÚBLICOS – GESTÃO
+                                                    USO DO BEM PÚBLICO – FORMAS:
+
+        USO PRIVATIVO.
+                                          •   STF: INCIDE O IPTU SOBRE BEM PÚBLICO CEDIDO A PESSOA JURÍDICA DE DIREITO PRIVADO, SENDO ESTA A
+                                              DEVEDORA. NÃO HÁ APLICAÇÃO DA IMUNIDADE RECÍPROCA.
+
+
+•     TAMBÉM DENOMINADO “USO ESPECIAL PRIVATIVO”;
+•     DIREITO DE UTILIZAÇÃO DE BENS PÚBLICOS, CONFERIDO A PESSOAS DETERMINADAS, MEDIANTE INSTRUMENTO JURÍDICO ESPECÍFICO, PODENDO O USUÁRIO SER
+      UMA PESSOA FÍSICA OU JURÍDICA.
+
+•     FINALIDADE ÚLTIMA: INTERESSE PÚBLICO.
+
+•     PODE OCORRER QUANTO A QUALQUER DAS TRÊS CATEGORIAS DE BENS PÚBLICOS (BENS DE USO COMUM, DE USO ESPECIAL E DOMINICAIS);
+
+•     CARACTERÍSTICAS:
+
+
+❑     Uso privativo: O administrado possui o direito de usar o bem sozinho;
+❑     Instrumento formal: Deve ser formalizado por meio de um instrumento jurídico que ﬁxará as condições de uso;
+❑     Precariedade: O instrumento jurídico pode ser revogado a qualquer tempo, de acordo com o interesse público;
+❑     Regime de Direito Público: Incide as regras e princípios de Direito Administrativo sobre a relação entre a
+      Administração e o Administrado que utiliza o bem.
+
+                                                                •    AUTORIZAÇÃO DE USO;
+                                                                •    PERMISSÃO DE USO;
+                                                                •    CONCESSÃO DE USO;
+    PRINCIPAIS FORMAS JURÍDICAS DE USO PRIVATIVO
+                  DE BEM PÚBLICO:                               •    CONCESSÃO DE DIREITO REAL DE USO;
+                                                                •    CONCESSÃO DE USO ESPECIAL PARA FINS DE MORADIA;
+                                                                •    CESSÃO DE USO.                                               DIREITO ADMINISTRATIVO
+                                                                                                                                   ESTRATÉGIA CONCURSOS
+                                                       
+
+
+---
+
+                                                BENS PÚBLICOS – ALIENAÇÃO
+                                                      ALIENAÇÃO DE BENS PÚBLICOS
+
+                   TRANSFERÊNCIA DA PROPRIEDADE DE UM BEM A                       •     Desafetação;
+                                    TERCEIROS
+                                                                                  •     Interesse público devidamente justiﬁcado;
+                                                                                  •     Avaliação prévia;
+                                                                                  •     Licitação;
+                   REQUISITOS: (ART. 76 DA LEI 14.133/2021)                       •     Autorização legislativa para os bens imóveis das pessoas
+                                                                                        de direito público.
+
+
+                            PRINCIPAIS INSTRUMENTOS PARA A ALIENAÇÃO DE BENS PÚBLICOS:
+                                         • VENDA;
+
+                                         • DOAÇÃO;
+
+                                         • PERMUTA;
+
+                                         • DAÇÃO EM PAGAMENTO.
+
+❑   CONCESSÃO DE DOMÍNIO;
+❑   INVESTIDURA;
+❑   RETROCESSÃO;
+                                                              INSTRUMENTOS ESPECÍFICOS PARA ALIENAÇÃO DE
+                                                                            BENS PÚBLICOS:
+❑   LEGITIMAÇÃO DE POSSE;
+❑   LEGITIMAÇÃO FUNDIÁRIA.                                                                                                                DIREITO ADMINISTRATIVO
+                                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                        
+
+
+---

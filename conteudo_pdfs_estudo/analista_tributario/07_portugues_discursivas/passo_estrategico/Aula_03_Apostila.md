@@ -1,0 +1,1978 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 03_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Simulado 01
+---
+
+# Simulado 01
+
+Simulado 01
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+1 - Introdução 
+
+2 – Simulado
+
+   2.1 Ortografia, acentuação e crase 
+
+   2.2 Estrutura e Formação das palavras 
+
+   2.3 Classes de Palavras 
+
+3 – Questões Comentadas 
+
+   3.1 Ortografia, acentuação e crase 
+
+   3.2 Estrutura e Formação das palavras 
+
+   3.3 Classes de Palavras 
+
+4 – Gabarito 
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                               1
+                                                                                                                                                               42
+            www.estrategiaconcursos.com.br
+
+                                                 
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+                                            1 - INTRODUÇÃO
+ Olá, meus nobres alunos, tudo bem? É chegado o momento de colocar em prática todo o conhecimento
+ acumulado nas aulas anteriores. Pelo nível dos questionamentos que temos recebido, tenho certeza que
+ vocês se sairão muito bem!
+
+ Nesta aula, apresento-lhes o primeiro simulado, excelente oportunidade para você testar o seu
+ conhecimento. Para aprimorar a sua preparação, os simulados devem ser feitos nas mesmas condições de
+ realização da sua prova. Portanto, entre outros pontos, evitem utilizar consulta.
+
+ No mais, espero que vocês façam um excelente treino. Forte abraço!
+
+
+                                              2 – SIMULADO
+
+ 2.1 Ortografia, acentuação e crase
+
+1. Aponte o item em que há ofensa à ortografia oficial e à acentuação gráfica:
+a) As obras modernistas não se distinguem apenas pela temática inovadora, mas igualmente pela apreensão
+do ritmo alucinante da existência moderna.
+b) Ainda que celebrassem as máquinas e os aparelhos da civilização moderna, a ficção e a poesia modernista
+também valorizavam as coisas mais quotidianas e prosaicas.
+c) Longe de ser uma excessão, a pintura modernista foi responsável, antes mesmo da literatura, por intensas
+polêmicas entre artistas e críticos conservadores.
+d) No que se refere à poesia modernista, nada parece caracterizar melhor essa extraordinária produção poética
+do que a opção quase incondicional pelo verso livre.
+e) O escândalo não era apenas uma consequência da produção modernista: parecia mesmo um dos objetivos
+precípuos de artistas dispostos a surpreender e a chocar.
+
+2. As palavras estão corretamente grafadas na seguinte frase:
+a) Que eles viajem sempre é muito bom, mas não é boa a ansiedade com que enfrentam o excesso de
+passageiros nos aeroportos.
+b) Comete muitos deslises, talvez por sua espontaneidade, mas nada que ponha em cheque sua reputação de
+pessoa cortês.
+c) Ele era rabugento e tinha ojeriza ao hábito do sócio de descançar após o almoço sob a frondoza árvore do
+pátio.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                            2
+                                                                                                           42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+d) Não sei se isso influe, mas a persistência dessa mágoa pode estar sendo o grande impecilho na superação
+dessa sua crise.
+e) O diretor exitou ao aprovar a retenção dessa alta quantia, mas não quiz ser taxado de conivente na concessão
+de privilégios ilegítimos.
+
+3. Quanto à ortografia, está plenamente correta a frase:
+a) Em fraglante contraste com a iniciativa da Galeria, há pessoas que não creem nas potencialidades desses
+artistas.
+b) Não são pequenos deslises os preconceitos contra os que sofrem, são graves falhas humanas.
+c) Ainda que analizadas apenas esteticamente, muitas obras desses expositores mereceriam todo o aplauso.
+d) A gerente Marina Leite expôs, de forma concisa, as razões pelas quais se deve enaltecer a iniciativa da
+Galeria.
+e) Tem gente que obstrue as aspirações alheias, alimentando preconceitos contra as potencialidades desses
+artistas.
+
+4. Mesmo concordando que a maioria desses 1.445 verbetes são de artigos sobre "ironia em..." algum texto ou obra
+de algum artista, a quantidade de energia gasta ao se tentar compreender como e por que as pessoas escolhem
+se expressar dessa maneira bizarra continua a me espantar.
+Está correto o emprego de ambos os elementos sublinhados em:
+a) Se o por quê da importância primitiva de Paraty estava na sua localização estratégica, a importância de que
+goza atualmente está na relevância histórica porque é reconhecida.
+b) Ninguém teria porque negar a Paraty esse duplo merecimento de ser poesia e história, por que o tempo a
+escolheu para ser preservada e a natureza, para ser bela.
+c) Os dissabores por que passa uma cidade turística devem ser prevenidos e evitados pela Casa Azul, porque
+ela nasceu para disciplinar o turismo.
+d) Porque teria a cidade passado por tão longos anos de esquecimento? Criou-se uma estrada de ferro, eis
+porque.
+e) Não há porquê imaginar que um esquecimento é sempre deplorável; veja-se como e por quê Paraty acabou
+se tornando um atraente centro turístico.
+
+5. Considere as frases abaixo:
+I. Os horrores trazidos pela II Guerra Mundial marcaram o porquê da criação de um documento internacional que
+garantisse o respeito aos direitos humanos.
+II. Sem conhecer seus direitos, os indivíduos não saberão dispor dos instrumentos nem apresentar razões porque
+reivindicar sua efetiva aplicação.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                               3
+                                                                                                              42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+        Carlos Roberto Correa
+        Simulado 01
+
+III. Por falta de divulgação dos termos previstos na Declaração Universal, grupos minoritários se tornam mais
+vulneráveis à violação de seus direitos, sem mesmo saber por quê.
+IV. São inúmeros os benefícios trazidos pela Declaração Universal, embora exista desrespeito aos direitos nela
+previstos, como a persistência da pobreza, por que passa um terço da população mundial.
+Estão escritos corretamente os termos que aparecem grifados em
+a) I, II, III e IV.
+b) I, II e III, apenas.
+c) I, III e IV, apenas.
+d) II, III e IV, apenas.
+e) I, II e IV, apenas.
+
+6. Considere o seguinte texto para responder à pergunta abaixo.
+O museu é considerado um instrumento de neutralização – e talvez o seja de fato. Os objetos que nele se encontram
+reunidos trazem o testemunho de disputas sociais, de conflitos políticos e religiosos. Muitas obras antigas celebram
+vitórias militares e conquistas: a maior parte presta homenagem às potências dominantes, suas financiadoras.
+[...]
+Todos os objetos reunidos ali têm como princípio o fato de terem sido retirados de seu contexto. Desde então, dois
+pontos de vista concorrentes são possíveis. De acordo com o primeiro, o museu é por excelência o lugar de advento
+da Arte enquanto tal, separada de seus pretextos, libertada de suas sujeições.
+[...]
+A colocação em museu foi descrita e denunciada frequentemente como uma desvitalização do simbólico, e a
+musealização progressiva dos objetos de uso como outros tantos escândalos sucessivos. Ainda seria preciso
+perguntar sobre a razão do "escândalo". Para que haja escândalo, é necessário que tenha havido atentado ao
+sagrado. Diante de cada crítica escandalizada dirigida ao museu, seria interessante desvendar que valor foi
+previamente sacralizado. A Religião? A Arte? A singularidade absoluta da obra?
+Atente para as afirmativas abaixo.
+I. Em ... presta homenagem às potências dominantes.., o sinal indicativo de crase pode ser suprimido
+excluindo-se também o artigo definido, sem prejuízo para a correção.
+II. O acento em "têm" é de caráter diferencial, em razão da semelhança com a forma singular "tem",
+diferentemente do acento aplicado a "porém", devido à tonicidade da última sílaba, terminada em "em".
+III. Os acentos nos termos "excelência" e "necessário" devem-se à mesma razão.
+Está correto o que consta em
+a) I, II e III.
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                   4
+                                                                                                                  42
+              www.estrategiaconcursos.com.br
+
+                                          
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+b) I, apenas.
+c) I e III, apenas.
+d) II, apenas.
+e) II e III, apenas.
+
+7. Seguindo-se a regra determinada pelo novo acordo ortográfico, tal como referida no primeiro
+quadrinho, também deixaria de receber o acento agudo a palavra:
+a) Tatuí.
+b) graúdo.
+c) baiúca.
+d) cafeína.
+e) Piauí.
+
+8. Quanto ao emprego do sinal indicativo de crase, respeitado o padrão culto escrito, a única alternativa
+correta é:
+a) Essa foi uma estratégia que serviu ao Brasil e a maioria dos países inseridos na turma dos remediados.
+b) O estudo dá ênfase à educação e às telecomunicações, ajudando à entender por que o Brasil cresce pouco
+em comparação à outras nações de economia emergente.
+c) O país tem de fazer a transição à um sistema que premie o desempenho de professores e que garanta à todos
+os alunos talentosos resultados de excelência em exames internacionais.
+d) Vimos uma estratégia equivocada à época da reserva de informática. O país pagou um preço, porque a
+reserva não gerou “campeões nacionais” e ainda deixou os usuários atrasados em relação à população de
+outros países.
+e) O processo de urbanização levou à transferir atividades dos setores de subsistência, de baixo valor de
+mercado, para atividades mais modernas, que envolvem mais capital e mais tecnologia. Mas isso ocorreu sem
+novos requisitos à novas estratégias educacionais.
+
+9. NÃO se justificam as ocorrências do sinal de crase em:
+a) Não me reporto à impunidade de um caso particular, mas àquela que se generaliza e dissemina a descrença
+na justiça dos homens.
+b) É difícil admitir que vivem à solta tantos delinquentes, sobretudo quando se sabe que pessoas inocentes são
+levadas à barra dos tribunais.
+c) O autor do texto faz menção à uma série de princípios de interdição, à qual teria proveniência na vontade
+divina.
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                             5
+                                                                                                            42
+             www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+     Carlos Roberto Correa
+     Simulado 01
+
+d) Assiste-se hoje à multiplicação de casos de impunidade, à descabida proliferação de maus exemplos de
+conduta social.
+e) Quem dá crédito à ação da justiça não pode deixar de trabalhar para que não se furtem às sanções os mais
+poderosos.
+
+10. Ao comparar o processo de avaliação do ensino brasileiro ...... estranha narrativa de Borges, o autor visa ......
+despertar os responsáveis para os males de uma educação que se acomoda ...... condições mínimas estabelecidas
+para o funcionamento das instituições. Para ele, é fundamental que ...... instituições se adequem ...... necessidades
+das mudanças sociais e ...... metas do crescimento econômico.
+A alternativa que completa corretamente as lacunas é
+a) à - a - às - as - às - às
+b) a - à - às - as - às - às
+c) à - à - as - às - as - as
+d) a - a - às - as - a - a
+e) à - a - as - às - à – as
+
+
+2.2 Estrutura e Formação das palavras
+
+ 11. A palavra “recém-criadas” sofre, em sua formação, um tipo de processo de derivação. O mesmo que
+ ocorre em:
+ a) extravagantes.
+ b) guarda-florestal.
+ c) sombreada.
+ d) causos.
+ e) entardecer.
+
+ 12. Foi formada por composição a palavra da alternativa:
+ a) micróbios.
+ b) antibiótico.
+ c) epidemias.
+ d) laboratório.
+ e) descoberta.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                    6
+                                                                                                                   42
+            www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+2.3 Classes de Palavras
+
+13. O plural das palavras terminadas em “ão” sofre variações. Normalmente se faz em “ões”, como
+em vulcões. Por vezes, contudo, aceita-se mais de uma forma.
+É o que ocorre com:
+a) tufão
+b) tostão
+c) vilão
+d) cidadão
+e) alemão
+
+Os pensadores que defendem que o ser humano é sempre livre sabem que existem determinações externas e
+internas, fatores sociais e subjetivos, mas a liberdade de decidir sobre suas escolhas é superior à força dessas
+determinações. Um exemplo que poderia ser dado para entendermos essa noção seria a de dois irmãos que
+têm a mesma origem social, mas um se torna um criminoso e o outro não.
+Vejamos o que o filósofo francês Jean-Paul Sartre disse sobre isso:
+“[...] Por outras palavras, não há determinismo, o homem é livre, o homem é liberdade. […] Não encontramos
+diante de nós valores ou imposições que nos legitimem o comportamento. Assim, não temos nem atrás de nós
+nem diante de nós, no domínio luminoso dos valores, justificações ou desculpas. Estamos sós e sem desculpas.
+É o que traduzirei dizendo que o homem está condenado a ser livre. Condenado porque não criou a si próprio;
+e, no entanto, livre porque, uma vez lançado ao mundo, é responsável por tudo o que fizer.” [...]
+SANTOS, Wigvan. Mundo Educação. Disponível em: < https://bit.ly/2OXrrZf>. Acesso em: 21 ago. 2018. [Fragmento adaptado].
+
+14. As palavras destacadas a seguir qualificam outras no trecho, exceto em:
+a) “Vejamos o que o filósofo francês Jean-Paul Sartre disse sobre isso [...]”
+b) “[...] um se torna um criminoso e o outro não.”
+c) “[...] o homem está condenado a ser livre.”
+d) “[...] sabem que existem determinações externas e internas [...]”
+
+Os direitos dos cidadãos, na verdade, talvez representem a área mais notável das semelhanças entre a
+democracia brasileira e os reis africanos que aparecem nas fotos-símbolo do colonialismo. Nunca houve
+tantos direitos escritos nas leis; nunca o poder público foi tão incompetente para mantê-los. Não consegue,
+para desgraça geral, garantir nem o mais importante de todos eles – o direito à vida. Com 60.000 assassinatos
+por ano, o Brasil é hoje um dos países onde a vida humana tem o menor valor.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                           7
+                                                                                                                           42
+            www.estrategiaconcursos.com.br
+
+                                            
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+Há uma recusa sistemática em combater o crime por parte de nove entre dez políticos com algum peso; o maior
+pavor deles é ser considerados, por causa disso, como gente da “direita”. Acham melhor, como as classes
+intelectuais, os comunicadores e os bispos, falar mal da polícia. Pode passar pela cabeça de alguém que exista
+democracia num país que tem 60.000 homicídios por ano?
+                                                                                         (Revista Veja, ed. 2542.)
+
+15. Sobre recursos linguísticos atinentes às flexões de número e gênero dos nomes, em termos da
+escrita culta, assinale a afirmativa INCORRETA.
+a) As palavras notável e importante são exemplos de adjetivos que se flexionam em número, mas não em
+gênero.
+b) O termo cidadãos exemplifica o grupo de substantivos que admite mais de um plural: cidadãos e
+cidadães.
+c) No substantivo composto fotos-símbolo, somente o primeiro elemento se pluraliza porque o segundo
+indica finalidade.
+d) No trecho as classes intelectuais, o adjetivo caracteriza um substantivo feminino plural; se
+caracterizasse um substantivo masculino plural, não se flexionaria diferentemente.
+
+ 16. Assinale a alternativa em que a forma de superlativação do adjetivo está identificada
+ incorretamente.
+ a) O Everest é altíssimo – presença de um sufixo
+ b) Heitor é alto, alto, alto – repetição do mesmo adjetivo
+ c) O Pico da Colina é alto pra burro – locução adverbial
+ d) O balão está muito alto – auxílio de outro adjetivo
+ e) O novo edifício é superalto – junção de um prefixo
+
+ Conforme salientam Gilmar Ferreiras Mendes e Paulo Gustavo Gonet a liberdade de expressão constitui "um
+ dos mais relevantes e preciosos direitos fundamentais, correspondendo a uma das mais antigas
+ reivindicações dos homens de todos os tempos"?
+                                                                                 (Adaptado de Jusbrasil, 28/11/2016)
+
+ 17. Sobre o estudo das classes gramaticais, é CORRETO afirmar que a palavra “a” em
+ “correspondendo a uma das mais antigas” exerce a mesma função morfológica que o termo
+ destacado nas seguintes expressões.
+ a) O modelo atual de sociedade digital os bens já não representam a extrema medida da riqueza.
+ b) Com efeito, em tempos de um admirável mundo cibernético, ainda de todo não conhecido, a
+ informação e o conhecimento são as principais fontes de poder.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                       8
+                                                                                                                       42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+c) [...] deriva de dispositivos expressos no texto da Lei Maior, que, inicialmente, declara ser "livre a
+manifestação do pensamento".
+d) [...] e, em seguida, garante ser "assegurado a todos o acesso à informação".
+e) Conforme salientam Gilmar Ferreiras Mendes e Paulo Gustavo Gonet a liberdade de expressão
+constitui "um dos mais relevantes e preciosos direitos fundamentais, [...].
+
+18. O termo “até”, em destaque nas frases: “... instituições como previdência e até democracia
+representativa podem entrar em colapso.” / “Até o começo do século 19, filhos eram um ativo
+econômico.” expressa circunstância de:
+a) inclusão e de tempo, respectivamente.
+b) modo, em ambas as ocorrências.
+c) tempo e de modo, respectivamente.
+d) inclusão, em ambas as ocorrências.
+e) tempo, em ambas as ocorrências.
+
+19. Assinale a alternativa em que o vocábulo sublinhado deve ser classificado como advérbio.
+a) “Muitas vezes o medo de um mal nos leva a um pior”. (Boileau)
+b) “O bem é aquele que trabalha pela unidade, o mal é aquele que trabalha pela separação”. (Aldous
+Huxley)
+c) “O pior mal é aquele ao qual nos acostumamos”. (Sartre)
+d) “Uma boa coisa que nos impede de desfrutar de algo ainda melhor é, na verdade, um mal”. (Spinoza)
+e) “Quem mal trabalha, não merece bom pagamento”. (Nouailles)
+
+20. Assinale a alternativa que traz, respectivamente, um substantivo cujo plural se faz a exemplo de
+“bem-estar” (termo presente no 1º primeiro parágrafo); e outro substantivo, destacado em
+expressão do texto, com sentido de coletivo.
+a) Alto-falante / “Quase metade da população mundial não tem acesso...”
+b) Saca-rolha / “... a base da assistência universal.”
+c) Bomba-relógio / “... o progresso em saúde tem sido desigual...”
+d) Louva-a-deus / “... em detrimento da prevenção de doenças...”
+e) Arco-íris / “... e participação das pessoas e da comunidade...”
+notar que “estar”, no caso, é uma palavra substantivada, formada por
+
+21. Considere o fragmento abaixo para responder à questão.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                           9
+                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+“Nos sete primeiros assaltos, Raul foi duramente castigado. Não era de espantar: estava inteiramente fora
+de forma.”
+Os advérbios destacados expressam, respectivamente, as seguintes circunstâncias:
+a) modo e modo.
+b) intensidade e tempo.
+c) intensidade e intensidade.
+d) modo e intensidade.
+
+22. Considere o texto abaixo para responder à questão.
+ Há várias pesquisas descritas em seu livro sobre a influência da fisiologia no comportamento. Você
+ concorda com Edward O. Wilson que “a natureza humana é um conjunto de predisposições
+ genéticas”?
+  Acredito que predisposições genéticas existem, mas, na grande maioria dos casos, não passam de
+ exatamente isso: predisposições. Exceto em alguns casos especiais, genética não é destino. A meu ver,
+ fatores genéticos, temperados por acontecimentos ao acaso ao longo do desenvolvimento, fornecem
+ apenas uma base de trabalho, a matéria bruta a partir da qual cérebro e comportamento serão
+ esculpidos. Somadas a isso influências do ambiente e da própria experiência de vida de cada um, é possível
+ transcender as potencialidades de apenas 30 mil genes – a estimativa atual do número de genes
+ necessários para “montar” um cérebro humano – para montar os trilhões e trilhões de conexões entre as
+ células nervosas, criando o arco-íris de possibilidades da natureza humana.
+ [...]
+                                            (Adaptado de: PIZA, Daniel. Perfis & Entrevistas. São Paulo, Contexto, 2004)
+
+ No trecho acima, as orações introduzidas pelos segmentos sublinhados contêm respectivamente a
+ ideia de:
+ a) Condição − finalidade − consequência
+ b) Causa − conformidade − temporalidade
+ c) Concessão − finalidade − consequência
+ d) Conclusão − conformidade − causa
+ e) Conclusão − finalidade – causa
+
+ 23. Considere o texto abaixo para responder à questão.
+ “Embora a composição e a dinâmica precisas das reações emocionais sejam moldadas em cada indivíduo
+ pelo meio e por um desenvolvimento único, há indícios de que a maioria das reações emocionais, se não
+ todas, resulta de longos ajustes evolutivos.”
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                           10
+                                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+  Mantendo-se o mesmo tipo de relação que estabelece na frase acima, o segmento sublinhado preenche
+  corretamente a lacuna desta frase:
+  a) Todos, ...... você, riram-se do acidente.
+  b) O palestrante não obteve outra coisa ...... escárnio.
+  c) Fala três línguas, ...... quatro.
+  d) Não expressou ...... emoções negativas.
+  e) Havia um ...... em seu exame.
+
+24. Considere o texto abaixo para responder à questão.
+[...]
+Bem sei que uma das qualidades de um ator está nas mutações sensíveis de seu rosto, e que a máscara
+as esconde. Por que então me agrada tanto a ideia de atores entrarem no palco sem rosto próprio? Quem
+sabe, eu acho que a máscara é um dar-se tão importante quanto o dar-se pela dor do rosto. Inclusive os
+adolescentes, estes que são puro rosto, à medida que vão vivendo fabricam a própria máscara. E com muita
+dor. Porque saber que de então em diante se vai passar a representar um papel é uma surpresa
+amedrontadora. É a liberdade horrível de não ser. E a hora da escolha.
+Mesmo sem ser atriz nem ter pertencido ao teatro grego – uso uma máscara. Aquela mesma que nos partos
+de adolescência se escolhe para não se ficar desnudo para o resto da luta. Não, não é que se faça mal em
+deixar o próprio rosto exposto à sensibilidade. Mas é que esse rosto que estava nu poderia, ao ferir-se, fechar-
+se sozinho em súbita máscara involuntária e terrível. É, pois, menos perigoso escolher sozinho ser uma
+pessoa. Escolher a própria máscara é o primeiro gesto involuntário humano. E solitário. Mas quando enfim
+se afivela a máscara daquilo que se escolheu para representar o mundo, o corpo ganha uma nova firmeza, a
+cabeça ergue-se altiva como a de quem superou um obstáculo. A pessoa é.
+Se bem que pode acontecer uma coisa que me humilha contar.
+É que depois de anos de verdadeiro sucesso com a máscara, de repente – ah, menos que de repente, por causa
+de um olhar passageiro ou uma palavra ouvida – de repente a máscara de guerra de vida cresta-se toda no
+rosto como lama seca, e os pedaços irregulares caem com um ruído oco no chão. Eis o rosto agora nu, maduro,
+sensível quando já não era mais para ser. E ele chora em silêncio para não morrer. Pois nessa certeza sou
+implacável: este ser morrerá. A menos que renasça até que dele se possa dizer “esta é uma pessoa”.
+                                                                (Adaptado de: LISPECTOR, Clarice. “Persona”, em Clarice
+                                                                na cabeceira: crônicas. Rio de Janeiro, Rocco Digital, 2015)
+
+Mantendo-se o sentido e a correção, o termo sublinhado pode ser substituído pelo que se encontra entre
+parênteses em:
+a) A menos que renasça até que dele se possa dizer “esta é uma pessoa”. (Sem que)
+b) É, pois, menos perigoso escolher sozinho ser uma pessoa. (conquanto)
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                               11
+                                                                                                                               42
+          www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+c) Se bem que pode acontecer uma coisa que me humilha contar. (No entanto, seguido de vírgula)
+d) Bem sei que uma das qualidades de um ator está nas mutações... (Por mais que)
+e) ... a cabeça ergue-se altiva como a de quem superou um obstáculo. (conforme)
+
+É um mal porque todo relato jornalístico tende ao provisório. (1° parágrafo)
+Entretanto, o jornalismo dito de qualidade sempre foi objeto de uma minoria. (6° parágrafo)
+25. Os elementos sublinhados acima introduzem, no contexto, respectivamente, noção de
+a) causa − finalidade
+b) finalidade − concessão
+c) consequência – temporalidade
+d) causa − oposição
+e) concessão – consequência
+
+Com cerca de 16% da água doce disponível na Terra(c), o Brasil é um país rico nesse insumo que a natureza
+provê de graça. Cada habitante conta com mais de 43 mil m3 por ano dos mananciais, mas apenas 0,7%
+disso termina utilizado(e). Nações como a Argélia e regiões como a Palestina, em contraste, usam quase a
+metade dos recursos hídricos disponíveis, e outras precisam obter recursos hídricos por dessalinização de água
+do mar.
+Só em aparência, contudo, é confortável a situação brasileira (d). Em primeiro lugar, há o problema da
+distribuição: o líquido é tanto mais abundante onde menor é a população e mais preservadas são as florestas,
+como na Amazônia. No litoral do país, assim como nas regiões Sudeste e Nordeste (onde se concentra 70%
+da população), muitos centros urbanos já enfrentam dificuldades de abastecimento.
+[...]
+Não é possível afirmar com certeza que recentes secas no Sudeste e no Nordeste ou as inundações em
+Rondônia tenham relação direta com a mudança global e regional do clima. Tampouco se pode excluir que
+tenham(a). Por outro lado, é certo que esses flagelos, assim como o custo bilionário que acarretam, constituem
+uma boa amostra do que se deve esperar nas próximas décadas para o caso de o aquecimento global se
+agravar.
+Ficar sem água, porém, é cena cada vez mais incomum no Nordeste(b), mesmo no semiárido, região onde
+moram 22 milhões de pessoas e onde as chuvas são pouco previsíveis. Um sistema improvisado de cisternas
+e açudes já supre, ainda que de forma irregular, as necessidades básicas da população, mesmo a mais isolada.
+[...]
+26. Mantendo-se a correção e o sentido, sem que nenhuma outra alteração seja feita na frase, o
+termo sublinhado pode ser substituído pelo que se encontra entre parênteses em:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                 12
+                                                                                                                 42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+a) Tampouco (Porquanto) se pode excluir que tenham.
+b) Ficar sem água, porém, (muito embora) é cena cada vez mais incomum no Nordeste...
+c) Com cerca de (o equivalente à) 16% da água doce disponível na Terra...
+d) Só em aparência, contudo, (entretanto) é confortável a situação brasileira.
+e) ... mas (conquanto) apenas 0,7% disso termina utilizado.
+
+27. Considere o texto abaixo para responder à questão.
+Sob nomes que não vêm ao caso para nós, essas são questões atualíssimas na história humana, e surgem
+mais fortes e polêmicas na escala temporal mais longa da evolução. A história evolutiva pode ser
+representada como uma espécie depois da outra. Mas(a) muitos biólogos hão de concordar comigo que se
+trata de uma ideia tacanha. Quem(b) olha a evolução dessa perspectiva deixa passar a maior parte do que é
+importante. A evolução rima, padrões se repetem. E não simplesmente por acaso. Isso ocorre por razões bem
+compreendidas, sobretudo razões darwinianas, pois a biologia, ao contrário da evolução humana ou mesmo
+da física, já tem a sua grande teoria unificada, aceita por todos os profissionais bem informados no ramo,
+embora(c) em várias versões e interpretações. Ao escrever(d) a história evolutiva, não me esquivo a buscar
+padrões e princípios, mas procuro (e) fazê-lo com cautela.
+[...]
+Obs. lemingues: designação comum a diversos pequenos roedores.
+                                                         (Richard Dawkins, com a colaboração de Yan Wong, A
+                                                         grande história da evolução: Na trilha dos nossos
+                                                         ancestrais. Trad. Laura Teixeira Motta. São Paulo:
+                                                         Companhia das Letras, 2009, p. 17-18)
+
+No parágrafo acima, a alteração que mantém o sentido e a correção originais é a de:
+a) Mas por “Apesar de”.
+b) Quem por “Muitos biólogos”.
+c) Embora por “não obstante”.
+d) Ao escrever por “Salvo se escrever”.
+e) mas procuro por “ainda que procure”.
+
+28. Considere o fragmento de texto abaixo para responder à questão.
+“Tratando do estado de solidão ou da necessidade de convívio, Sêneca vê no estado de solidão uma
+contrapartida da necessidade de convívio, assim como vê na necessidade de convívio uma abertura para
+encontrar satisfação no estado de solidão.”
+Evitam-se as viciosas repetições do texto acima substituindo-se os elementos grifados, na ordem dada,
+por:
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                              13
+                                                                                                              42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+a) naquele − desta − nesta − naquele
+b) nisso − daquilo − naquela − deste
+c) este − do outro − na primeira − no último
+d) nisto − disso − naquela − desse
+e) na primeira − do segundo − numa – noutra.
+
+29. Considere o texto abaixo para responder à questão.
+Disse isso à minha avó e ela riu, comentando que eu era como meu pai, sempre prestava atenção nos
+detalhes das coisas. Acho que já nessa época eu olhava em torno com olhos mínimos. Mas a grandeza das
+manhãs se media pela quantidade de mulungus que me restava na palma da mão na hora de ir para casa.
+Conseguia às vezes juntar um punhado, outras vezes apenas dois ou três. E é curioso que nunca tenha
+sabido ao certo de onde eles vinham, de que árvore ou arbusto caíam aquelas sementes vermelhas.
+Apenas sabíamos que surgiam no chão ou por entre as folhas e sempre numa determinada região do Jardim
+Botânico.
+No segmento “de que árvore ou arbusto caíam aquelas sementes vermelhas”, o termo sublinhado pode
+ser substituído corretamente por:
+a) de cuja
+b) dos quais
+c) de qual
+d) de quanta
+e) de cujos.
+
+30. Está correto o emprego dos elementos sublinhados em:
+a) As confissões perturbadoras às quais aprendemos a conviver não respeitam nosso direito à um
+mínimo de privacidade.
+b) Houve tempos onde era feio e indiscreto ouvir conversas alheias; hoje, propaga-se as falas em voz
+alta por toda parte.
+c) Não faltava a aquelas antigas conversas um tom de intimidade, tão raro hoje entre os que ainda lhe
+são capazes.
+d) O olhar contemplativo, no qual se dedicavam os viajantes de ônibus, já não flue pelas janelas.
+e) O vício das conexões, cujas malhas nos envolvem a todos, não é de todo mau, segundo os otimistas.
+
+31. Considere o texto abaixo para responder à questão.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                        14
+                                                                                                        42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 01
+
+ Perdeu-se a antiga privacidade, enterramos a antiga privacidade sob os conectores modernos, tornamos
+esses conectores modernos nossos deuses implacáveis, sob o comando desses conectores modernos
+trocamos escandalosamente todas as informações mais pessoais.
+Evitam-se as viciosas repetições do período acima substituindo-se os elementos sublinhados, na ordem
+dada, por:
+a) enterramo-la − tornamo-los − sob cujo comando
+b) enterramos-lhe − tornamo-lhes − sob cujo comando
+c) enterramo-la − os tornamos − sob o qual comando
+d) a enterramos − tornamos-lhes − sob o comando deles
+e) enterramo-lhe − lhes tornamos − sob o comando dos quais
+                                                       ==219a34==
+
+                             3 – QUESTÕES COMENTADAS
+
+3.1 Ortografia, acentuação e crase
+
+1. Aponte o item em que há ofensa à ortografia oficial e à acentuação gráfica:
+a) As obras modernistas não se distinguem apenas pela temática inovadora, mas igualmente pela apreensão
+do ritmo alucinante da existência moderna.
+b) Ainda que celebrassem as máquinas e os aparelhos da civilização moderna, a ficção e a poesia modernista
+também valorizavam as coisas mais quotidianas e prosaicas.
+c) Longe de ser uma excessão, a pintura modernista foi responsável, antes mesmo da literatura, por intensas
+polêmicas entre artistas e críticos conservadores.
+d) No que se refere à poesia modernista, nada parece caracterizar melhor essa extraordinária produção
+poética do que a opção quase incondicional pelo verso livre.
+e) O escândalo não era apenas uma consequência da produção modernista: parecia mesmo um dos objetivos
+precípuos de artistas dispostos a surpreender e a chocar.
+Comentário:
+Vamos analisar cada uma das opções:
+a) Item certo. Destaco a palavra “existência”, grafada com “X”.
+b) Item certo. Mencione-se serem admitidas as seguintes formas: quotidiana e cotidianas.
+c) Item errado. Correto seria: “exceção”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                          15
+                                                                                                          42
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+d) Item certo. Atente à grafia de “extraordinário”.
+e) Item certo. Atente ao fato que o trema deixou de existir em todas as palavras da língua portuguesa. Por
+isso, correta a grafia de “consequência”.
+Gabarito: letra C.
+
+2. As palavras estão corretamente grafadas na seguinte frase:
+a) Que eles viajem sempre é muito bom, mas não é boa a ansiedade com que enfrentam o excesso de
+passageiros nos aeroportos.
+b) Comete muitos deslises, talvez por sua espontaneidade, mas nada que ponha em cheque sua reputação
+de pessoa cortês.
+c) Ele era rabugento e tinha ojeriza ao hábito do sócio de descançar após o almoço sob a frondoza árvore do
+pátio.
+d) Não sei se isso influe, mas a persistência dessa mágoa pode estar sendo o grande impecilho na superação
+dessa sua crise.
+e) O diretor exitou ao aprovar a retenção dessa alta quantia, mas não quiz ser taxado de conivente na
+concessão de privilégios ilegítimos.
+Comentário:
+Vamos analisar cada uma das opções:
+a) Item correto. Destaco a grafia da palavra “viajem”, que, no caso, é verbo. Não confundir com viagem
+(substantivo). Bom também repisar a grafia correta: “excesso”.
+b) O correto é “deslize”. Além disso, o correto é “pôr em xeque”, que, no contexto, escreve-se com “X”.
+“Cheque” é o documento bancário. Item errado.
+c) “Rabugento” e “ojeriza” estão corretos. Contudo, escreve-se “descansar” e “frondosa”. Item errado.
+d) Correto seria: “influi” e “empecilho”. Item errado.
+e) Vários erros. Reescrevendo: O diretor hesitou ao aprovar a retenção dessa alta quantia, mas
+não quis ser tachado de conivente na concessão de privilégios ilegítimos.
+Taxa é espécie de tributo. No sentido empregado pela frase, o correto é “tachado”, sinônimo de qualificado,
+considerado, julgado, etc. Item errado.
+Gabarito: letra A.
+
+3. Quanto à ortografia, está plenamente correta a frase:
+a) Em fraglante contraste com a iniciativa da Galeria, há pessoas que não creem nas potencialidades desses
+artistas.
+b) Não são pequenos deslises os preconceitos contra os que sofrem, são graves falhas humanas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                          16
+                                                                                                          42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+c) Ainda que analizadas apenas esteticamente, muitas obras desses expositores mereceriam todo o aplauso.
+d) A gerente Marina Leite expôs, de forma concisa, as razões pelas quais se deve enaltecer a iniciativa da
+Galeria.
+e) Tem gente que obstrue as aspirações alheias, alimentando preconceitos contra as potencialidades desses
+artistas.
+Comentário:
+Vamos analisar cada uma das opções:
+a) O correto é “flagrante”. Item errado.
+b) A grafia correta é “deslizes”. Item errado.
+c) Escreve-se “analisada”, forma derivada do verbo analisar. Item errado.
+d) Item certo.
+e) Acompanhem a conjugação do verbo obstruir no presente do indicativo:
+   - Eu obstruo
+   - Tu obstruis
+   - Ele obstrui
+   - Nós obstruímos
+   - Vós obstruís
+   - Eles obstruem
+Logo, a forma correta é “obstrui”. Item errado.
+Gabarito: letra D.
+
+4. Mesmo concordando que a maioria desses 1.445 verbetes são de artigos sobre "ironia em..." algum texto ou
+obra de algum artista, a quantidade de energia gasta ao se tentar compreender como e por que as pessoas
+escolhem se expressar dessa maneira bizarra continua a me espantar.
+Está correto o emprego de ambos os elementos sublinhados em:
+a) Se o por quê da importância primitiva de Paraty estava na sua localização estratégica, a importância de
+que goza atualmente está na relevância histórica porque é reconhecida.
+b) Ninguém teria porque negar a Paraty esse duplo merecimento de ser poesia e história, por que o tempo a
+escolheu para ser preservada e a natureza, para ser bela.
+c) Os dissabores por que passa uma cidade turística devem ser prevenidos e evitados pela Casa Azul, porque
+ela nasceu para disciplinar o turismo.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                          17
+                                                                                                          42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 01
+
+d) Porque teria a cidade passado por tão longos anos de esquecimento? Criou-se uma estrada de ferro, eis
+porque.
+e) Não há porquê imaginar que um esquecimento é sempre deplorável; veja-se como e por quê Paraty
+acabou se tornando um atraente centro turístico.
+Comentário:
+Vamos analisar cada uma das opções:
+a) No primeiro caso (“o por quê da importância primitiva”), a forma correta seria “porquê”. Representa
+um substantivo e significa "causa", "razão", "motivo".
+Já no segundo (“relevância histórica porque é reconhecida”), a forma correta é “por que”, junção da preposição
+e do pronome relativo, equivalendo a "pela qual.
+Item errado.
+b) Em “Ninguém teria porque”, a forma correta é “por que”, sequência da preposição (por) e um pronome
+interrogativo (que) e que equivale a "por qual razão", "por qual motivo”.
+Já no segundo caso (“por que o tempo a escolheu”), o “porque” está correto, conjunção que equivale a: pois,
+já que, uma vez que, porquanto, etc.
+Item errado.
+c) É o nosso gabarito. Em “Os dissabores por que passa”, “por que” é sinônimo de “pelos quais”, o que explica
+a sua escrita.
+Em “porque ela nasceu para disciplinar o turismo”, de fato, a forma correta é “porque”, introduzindo uma
+oração explicativa.
+Item certo.
+d) Em “Porque teria a cidade passado”, a forma correta é “por que”, visto que introduz uma interrogativa
+direta, com o sentido de “por qual razão”.
+Em “eis porque”, o certo é “por quê”, empregado ao final de frases, imediatamente antes de um ponto (final,
+de interrogação, de exclamação) ou de reticências.
+Item errado.
+e) Em ambos os casos, aplica-se o “por que”: como sinônimo de “razão” e de “por qual motivo”,
+respectivamente. Item errado.
+Gabarito: letra C.
+
+5. Considere as frases abaixo:
+I. Os horrores trazidos pela II Guerra Mundial marcaram o porquê da criação de um documento internacional
+que garantisse o respeito aos direitos humanos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                             18
+                                                                                                             42
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+II. Sem conhecer seus direitos, os indivíduos não saberão dispor dos instrumentos nem apresentar razões porque
+reivindicar sua efetiva aplicação.
+III. Por falta de divulgação dos termos previstos na Declaração Universal, grupos minoritários se tornam mais
+vulneráveis à violação de seus direitos, sem mesmo saber por quê.
+IV. São inúmeros os benefícios trazidos pela Declaração Universal, embora exista desrespeito aos direitos nela
+previstos, como a persistência da pobreza, por que passa um terço da população mundial.
+Estão escritos corretamente os termos que aparecem grifados em
+a) I, II, III e IV.
+b) I, II e III, apenas.
+c) I, III e IV, apenas.
+d) II, III e IV, apenas.
+e) I, II e IV, apenas.
+Comentário:
+Vamos analisar cada uma das sentenças:
+I) De fato, a forma correta é “porquê”, substantivo, e que significa "causa", "razão", "motivo". Item certo.
+II) Aqui o correto seria “por que”, junção da preposição e do pronome relativo, equivalendo a "pelas quais”.
+Item errado.
+III) Correto o uso do “por quê”, empregado ao final de frases, imediatamente antes de um ponto (final, de
+interrogação, de exclamação) ou de reticências. Item certo.
+IV) No mesmo sentido do item II, correto o uso do “por que”, sinônimo de “pela qual”.
+Assim, estão corretos os itens I, III e IV.
+Gabarito: letra C.
+
+6. Considere o seguinte texto para responder à pergunta abaixo.
+O museu é considerado um instrumento de neutralização – e talvez o seja de fato. Os objetos que nele se
+encontram reunidos trazem o testemunho de disputas sociais, de conflitos políticos e religiosos. Muitas obras
+antigas celebram vitórias militares e conquistas: a maior parte presta homenagem às potências dominantes,
+suas financiadoras.
+[...]
+Todos os objetos reunidos ali têm como princípio o fato de terem sido retirados de seu contexto. Desde então,
+dois pontos de vista concorrentes são possíveis. De acordo com o primeiro, o museu é por excelência o lugar de
+advento da Arte enquanto tal, separada de seus pretextos, libertada de suas sujeições.
+[...]
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                               19
+                                                                                                               42
+            www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+A colocação em museu foi descrita e denunciada frequentemente como uma desvitalização do simbólico, e a
+musealização progressiva dos objetos de uso como outros tantos escândalos sucessivos. Ainda seria preciso
+perguntar sobre a razão do "escândalo". Para que haja escândalo, é necessário que tenha havido atentado ao
+sagrado. Diante de cada crítica escandalizada dirigida ao museu, seria interessante desvendar que valor foi
+previamente sacralizado. A Religião? A Arte? A singularidade absoluta da obra?
+Atente para as afirmativas abaixo.
+I. Em ... presta homenagem às potências dominantes.., o sinal indicativo de crase pode ser suprimido
+excluindo-se também o artigo definido, sem prejuízo para a correção.
+II. O acento em "têm" é de caráter diferencial, em razão da semelhança com a forma singular "tem",
+diferentemente do acento aplicado a "porém", devido à tonicidade da última sílaba, terminada em "em".
+III. Os acentos nos termos "excelência" e "necessário" devem-se à mesma razão.
+Está correto o que consta em
+a) I, II e III.
+b) I, apenas.
+c) I e III, apenas.
+d) II, apenas.
+e) II e III, apenas.
+Comentário:
+Analisando, caso a caso:
+I. De fato, o sinal pode ser retirado sem prejuízo à correção gramatical. Contudo, o sentido do texto será
+alterado.
+Para que você entenda esse ponto, é necessário recordar que os artigos definidos determinam os
+substantivos aos quais se referem, de forma particular, objetiva e precisa, individualizando seres e
+objetos. No caso, quando há crase (havendo, portanto, o artigo) individualizam-se as “potências
+dominantes”. Ao passo que, sua ausência, transmite a mensagem de se tratar de “potências dominantes”
+em geral, indeterminadas.
+Assim, não há erro com a supressão da crase, mas o sentido é alterado.
+II. Há acento diferencial em "têm" (verbo ter, 3ª pessoal do plural do presente do indicativo), diferenciando-
+o de “tem” (3ª pessoal do singular do presente do indicativo).
+A regra é diferente da que justifica a acentuação da palavra “porém”, que recebe acento devido ao fato de
+ser oxítona terminada em “em”.
+Por isso, item correto.
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                             20
+                                                                                                             42
+             www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+III. Também é certo que a regra que justifica a acentuação das palavras excelência e necessário é a mesma:
+acentuam-se as paroxítonas terminadas em ditongos crescentes.
+Assim, estão corretos os itens I, II e III.
+Gabarito: letra A.
+
+7. Seguindo-se a regra determinada pelo novo acordo ortográfico, tal como referida no primeiro
+quadrinho, também deixaria de receber o acento agudo a palavra:
+a) Tatuí.
+b) graúdo.
+c) baiúca.
+d) cafeína.
+e) Piauí.
+Comentário:
+Recordemos as seguintes regras:
+1. Acentuam-se o “i” e o “u” tônicos dos hiatos, com ou sem “s”, quando não forem seguidos de “nh”, não
+repetirem a vogal e não formarem sílaba com consoante que não seja o “s”. Essa regra justifica a acentuação
+de: “graúdo” e “cafeína”.
+2. Continuam a ser acentuados i e u, seguidos ou não de s, quando em vocábulos oxítonos e não formarem
+sílaba com consoantes. Por isso, os acentos de: “Tatuí” e “Piauí”.
+3. Nos vocábulos paroxítonos, não se acentuam o i e o u tônicos quando vierem depois de ditongo
+decrescente. Eis o motivo pelo qual a forma correta é “baiuca”.
+Gabarito: letra C.
+
+8. Quanto ao emprego do sinal indicativo de crase, respeitado o padrão culto escrito, a única alternativa
+correta é:
+a) Essa foi uma estratégia que serviu ao Brasil e a maioria dos países inseridos na turma dos remediados.
+b) O estudo dá ênfase à educação e às telecomunicações, ajudando à entender por que o Brasil cresce pouco
+em comparação à outras nações de economia emergente.
+c) O país tem de fazer a transição à um sistema que premie o desempenho de professores e que garanta à
+todos os alunos talentosos resultados de excelência em exames internacionais.
+d) Vimos uma estratégia equivocada à época da reserva de informática. O país pagou um preço, porque a
+reserva não gerou “campeões nacionais” e ainda deixou os usuários atrasados em relação à população de
+outros países.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                            21
+                                                                                                            42
+            www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 01
+
+e) O processo de urbanização levou à transferir atividades dos setores de subsistência, de baixo valor de
+mercado, para atividades mais modernas, que envolvem mais capital e mais tecnologia. Mas isso ocorreu
+sem novos requisitos à novas estratégias educacionais.
+Comentário:
+Apontando os erros das assertivas:
+a) Deve haver crase em “à maioria”. No contexto, quem serve, serve A algo, requerendo o emprego da
+preposição, que se funde com o artigo definido feminino "a", que antecede o termo regido “maioria”,
+resultando no fenômeno da crase. Note que há essa preposição antes de “ao Brasil”, portanto a sua ausência
+implica, ainda, em quebra de paralelismo. Por isso, item errado.
+b) Em “ajudando à entender” verifica-se o uso inadequado da crase, visto que não pode haver crase antes
+de verbos. Em “comparação à outras nações” também se verifica o uso incorreto da crase, visto que o “a”
+está no singular e a palavra seguinte (outras) está no plural. Item errado.
+c) Em “à um sistema”, há incorreção, visto que a crase é proibida antes do artigo indefinido “um/uma”.
+Incorreto também “à todos”, visto que “a” está no singular e a palavra seguinte (todos) está no plural. Item
+errado.
+d) Em “à época”, correto o emprego da crase, exigida pela locução adverbial feminina. Em “à população”,
+também é devida a crase, decorrente da junção: “em relação a” + “a população”. Item certo.
+e) Em “à transferir”, equivocada a crase antes de verbo. Em “à novas”, também infeliz o uso do acento, visto
+que “a” está no singular e a palavra seguinte (novas) está no plural. Por isso, item errado.
+Gabarito: letra D.
+
+9. NÃO se justificam as ocorrências do sinal de crase em:
+a) Não me reporto à impunidade de um caso particular, mas àquela que se generaliza e dissemina a
+descrença na justiça dos homens.
+b) É difícil admitir que vivem à solta tantos delinquentes, sobretudo quando se sabe que pessoas inocentes
+são levadas à barra dos tribunais.
+c) O autor do texto faz menção à uma série de princípios de interdição, à qual teria proveniência na vontade
+divina.
+d) Assiste-se hoje à multiplicação de casos de impunidade, à descabida proliferação de maus exemplos de
+conduta social.
+e) Quem dá crédito à ação da justiça não pode deixar de trabalhar para que não se furtem às sanções os mais
+poderosos.
+Comentário:
+Apontando os erros das assertivas:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                           22
+                                                                                                           42
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+a) Em “Não me reporto à impunidade”, é oportuna a crase. Veja que quem se reporta, se reporta A algo. Essa
+preposição se funde com o artigo definido feminino "a", que antecede o termo regido "impunidade",
+resultando no fenômeno da crase. Mantendo o paralelismo sintático, também correta a crase em “, mas
+àquela”. Por isso, item certo.
+b) “À solta” é uma locução adverbial feminina que demanda o emprego da crase. Também, em “levadas à
+barra dos tribunais”, no contexto, o verbo levar é transitivo indireto que, ao se fundir com o artigo definido
+feminino "a", que antecede "barra", provoca o fenômeno da crase. Item certo.
+c) É o nosso gabarito. Em “à uma série de princípios”, há incorreção, visto que a crase é proibida antes do
+artigo indefinido “uma”. Em “à qual teria proveniência na vontade divina”, também incorreta a aplicação da
+crase, visto ser oportuna apenas a aplicação do artigo definido “a”, precedendo o pronome relativo "qual".
+Item errado.
+d) Em "Assiste-se hoje à multiplicação [...], à descabida proliferação” estão corretas as crases. O verbo
+"assistir" no sentido de "ver, presenciar" é transitivo indireto, regendo a preposição "a", elemento que se
+combina com o artigo definido feminino "a", que antecede os termos regidos "multiplicação" e "descabida".
+Daí resulta o fenômeno da crase. Item certo.
+e) Em "Quem dá crédito à ação da justiça", o verbo "dar" é transitivo direto indireto (quem dá crédito dá a
+alguém), regendo a preposição "a", elemento que se funde com o artigo definido feminino "a" em “a ação da
+justiça”. Além disso, em "para que não se furtem às sanções os mais poderosos", o verbo "furtar-se" rege a
+preposição "a", elemento gramatical que se une ao artigo definido feminino "as", que antecede o substantivo
+"sanções". Item certo.
+Gabarito: letra C.
+
+10. Ao comparar o processo de avaliação do ensino brasileiro ...... estranha narrativa de Borges, o autor visa ......
+despertar os responsáveis para os males de uma educação que se acomoda ...... condições mínimas
+estabelecidas para o funcionamento das instituições. Para ele, é fundamental que ...... instituições se adequem
+...... necessidades das mudanças sociais e ...... metas do crescimento econômico.
+A alternativa que completa corretamente as lacunas é
+a) à - a - às - as - às - às
+b) a - à - às - as - às - às
+c) à - à - as - às - as - as
+d) a - a - às - as - a - a
+e) à - a - as - às - à – as
+Comentário:
+Analisando, caso a caso:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                    23
+                                                                                                                    42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+- Quem compara, compara a algo (no caso, “a estranha narrativa”). Essa preposição se funde com o artigo
+definido feminino "a", que antecede o termo regido " estranha ", resultando no fenômeno da crase.
+- No contexto, visar é verbo transitivo indireto, regendo a preposição. Contudo, como não há crase antes
+de verbo, tem-se: “visa a despertar”.
+- O verbo “acomodar” também rege preposição (se acomodar A algo). Essa preposição se funde com o artigo
+definido feminino "a", que antecede o termo regido " condições ", resultando no fenômeno da crase.
+- Não há justificativa para haver preposição após o “que”, havendo somente o artigo “as” acompanhando
+“instituições”. Assim, não há crase.
+- As instituições devem se adequar a algo, exigindo a existência da preposição. Essa preposição se funde com
+o artigo definido feminino "a", que antecede os termos regidos “necessidades” e “metas”, resultando no
+fenômeno da crase.
+Assim, a sequência é: “à - a - às - as - às - às”.
+Gabarito: letra A.
+
+
+3.2 Estrutura e Formação das palavras
+
+11. A palavra “recém-criadas” sofre, em sua formação, um tipo de processo de derivação. O mesmo que
+ocorre em:
+a) extravagantes.
+b) guarda-florestal.
+c) sombreada.
+d) causos.
+e) entardecer.
+Comentário:
+A derivação consiste em formar uma palavra nova (derivada), a partir de outra já existente (primitiva). Pode
+ocorrer de acordo com as seguintes maneiras: prefixal, sufixal, prefixal e sufixal, regressiva,
+imprópria e parassintética.
+A palavra “recém-criadas” é formada por derivação prefixal, pela adição do prefixo “recém” ao particípio
+“criadas”. Tendo isso como base, vamos às opções.
+a) Em "extravagantes" temos a junção do prefixo "extra" ao adjetivo “vagantes”. Assim, é palavra formada
+por derivação prefixal. Item certo.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                           24
+                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+b) O substantivo "guarda-florestal" é formada pela junção das palavras “guarda” e “florestal”. Note que não
+há qualquer modificação fonética ou gráfica. Logo, é formada pelo processo de composição por
+justaposição. Item errado.
+c) A palavra “sombreada” é composta pelo substantivo “sombra” e o sufixo "eada". Assim, é palavra formada
+por derivação sufixal. Item errado.
+d) A palavra causos é primitiva. Logo não é formada nem por derivação nem por composição. Item errado.
+e) “Entardecer” é composta pela adição simultânea do prefixo “en” e do sufixo "ecer", incorporadas ao
+radical "tarde". Observe que, se for retirado o prefixo ou o sufixo, não haverá uma palavra com sentido
+completo, sendo, por isso, formada por derivação parassintética. Item errado.
+Gabarito: letra A.
+
+12. Foi formada por composição a palavra da alternativa:
+a) micróbios.
+b) antibiótico.
+c) epidemias.
+d) laboratório.
+e) descoberta.
+Comentário:
+Vamos analisar cada uma das opções:
+a) Em “micróbios”, tem-se a junção de dois radicais: "micro", que significa pequeno e "bio", que significa
+vida. Como se trata da junção de dois radicais já existentes, estamos diante de um caso de composição.
+Item certo.
+b) Em “antibiótico”, tem-se a junção do prefixo "anti", indicando oposição; o radical "bio", que significa vida
+e o sufixo "ico", que indica participação, referência, relação, procedência. Item errado.
+c) Em “epidemia”, tem-se a junção do prefixo "epi", que significa posição superior, com o radical "demos",
+que significa povo. Item errado.
+d) Em “laboratório”, tem-se a união do radical "labor", que significa trabalho, e o sufixo "ário", que significa
+relação, posse, ofício, lugar. Item errado.
+e) Em “descoberta”, tem-se a união do prefixo "des", que significa oposição, afastamento, com o vocábulo
+"coberta", que equivale a protegida, tapada. Item errado.
+Gabarito: letra A.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                               25
+                                                                                                               42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+3.3 Classes de Palavras
+
+13. O plural das palavras terminadas em “ão” sofre variações. Normalmente se faz em “ões”, como em
+vulcões. Por vezes, contudo, aceita-se mais de uma forma.
+É o que ocorre com:
+a) tufão
+b) tostão
+c) vilão
+d) cidadão
+e) alemão
+Comentário:
+De acordo com as normas gramaticais, o plural de substantivos terminados em “ão” pode ser construído de
+três maneiras:
+    •      Troca-se o “ão” por “ãos” (Exemplos: cidadão/cidadãos; irmão/irmãos; ancião/anciãos;
+           bênção/bênçãos);
+    •      Troca-se o “ão” por “ões” (Exemplos: espião/espiões; mamão/mamões; limão/limões; botão/botões);
+    •      Troca-se o “ão” por “ães” (Exemplos: cão/cães; pão/pães; capitão/capitães; escrivão/escrivães).
+Via de regra, o plural de cada nome admite apenas uma forma. Contudo, há alguns casos em que se admitem
+múltiplas formas (exemplos: ancião/anciãos/anciães/anciões, anão/anões/anãos). Um dessas palavras é
+vilão, que admite vilãos e vilões.
+Nas outras alternativas, há palavras que a aceitam somente uma forma de flexão em número:
+a) Tufão: tufões;
+b) Tostão: tostões;
+d) Cidadão: cidadãos;
+e) Alemão: alemães.
+Gabarito: letra C.
+
+Os pensadores que defendem que o ser humano é sempre livre sabem que existem determinações externas e
+internas, fatores sociais e subjetivos, mas a liberdade de decidir sobre suas escolhas é superior à força dessas
+determinações. Um exemplo que poderia ser dado para entendermos essa noção seria a de dois irmãos que têm
+a mesma origem social, mas um se torna um criminoso e o outro não.
+Vejamos o que o filósofo francês Jean-Paul Sartre disse sobre isso:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                               26
+                                                                                                               42
+            www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+“[...] Por outras palavras, não há determinismo, o homem é livre, o homem é liberdade. […] Não encontramos
+diante de nós valores ou imposições que nos legitimem o comportamento. Assim, não temos nem atrás de nós
+nem diante de nós, no domínio luminoso dos valores, justificações ou desculpas. Estamos sós e sem desculpas.
+É o que traduzirei dizendo que o homem está condenado a ser livre. Condenado porque não criou a si próprio; e,
+no entanto, livre porque, uma vez lançado ao mundo, é responsável por tudo o que fizer.” [...]
+                                                        SANTOS, Wigvan. Mundo Educação. Disponível em: < https://bit.ly/2OXrrZf>.
+                                                        Acesso em: 21 ago. 2018. [Fragmento adaptado].
+
+14. As palavras destacadas a seguir qualificam outras no trecho, exceto em:
+a) “Vejamos o que o filósofo francês Jean-Paul Sartre disse sobre isso [...]”
+b) “[...] um se torna um criminoso e o outro não.”
+c) “[...] o homem está condenado a ser livre.”
+d) “[...] sabem que existem determinações externas e internas [...]”
+Comentário:
+No fim das contas, a questão pede que se indique uma alternativa em que o termo destacado não seja
+adjetivo. Vamos às opções:
+a) A palavra “francês” qualifica o substantivo filósofo. Item errado.
+b) A palavra “criminoso” é substantivo, sendo precedido pelo artigo indefinido “um”. Item certo.
+c) A palavra “condenado” qualifica o substantivo “homem”. É adjetivo também. Item errado.
+d) A palavra “internas” também é adjetivo, qualificando o substantivo “determinações”. Item errado.
+Gabarito: letra B.
+
+Os direitos dos cidadãos, na verdade, talvez representem a área mais notável das semelhanças entre a
+democracia brasileira e os reis africanos que aparecem nas fotos-símbolo do colonialismo. Nunca houve tantos
+direitos escritos nas leis; nunca o poder público foi tão incompetente para mantê-los. Não consegue, para
+desgraça geral, garantir nem o mais importante de todos eles – o direito à vida. Com 60.000 assassinatos por
+ano, o Brasil é hoje um dos países onde a vida humana tem o menor valor.
+Há uma recusa sistemática em combater o crime por parte de nove entre dez políticos com algum peso; o maior
+pavor deles é ser considerados, por causa disso, como gente da “direita”. Acham melhor, como as classes
+intelectuais, os comunicadores e os bispos, falar mal da polícia. Pode passar pela cabeça de alguém que exista
+democracia num país que tem 60.000 homicídios por ano?
+                                                                                                     (Revista Veja, ed. 2542.)
+
+15. Sobre recursos linguísticos atinentes às flexões de número e gênero dos nomes, em termos da escrita
+culta, assinale a afirmativa INCORRETA.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                                27
+                                                                                                                                42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+a) As palavras notável e importante são exemplos de adjetivos que se flexionam em número, mas não em
+gênero.
+b) O termo cidadãos exemplifica o grupo de substantivos que admite mais de um plural: cidadãos e cidadães.
+c) No substantivo composto fotos-símbolo, somente o primeiro elemento se pluraliza porque o segundo
+indica finalidade.
+d) No trecho as classes intelectuais, o adjetivo caracteriza um substantivo feminino plural; se caracterizasse
+um substantivo masculino plural, não se flexionaria diferentemente.
+Comentário:
+Vamos à análise de cada uma das alternativas.
+a) “Notável” e “importante” são dois exemplos de adjetivos que não se flexionam em gênero, também
+chamados de uniformes. Item certo.
+b) É o nosso gabarito. “Cidadão” tem como plural, apenas, “cidadãos”, não admitindo, portanto, outra
+construção. Item errado.
+c) No que se refere ao plural dos substantivos compostos, um dos casos em que se pluraliza apenas o primeiro
+elemento ocorre quando o segundo elemento limita o primeiro, numa relação de tipo, finalidade (exemplos:
+bananas-prata; salários-família; cidades-satélite; alunos-modelo). Em “fotos-símbolo”, verifica-se essa
+relação de tipo/finalidade, motivo pelo qual apenas o primeiro termo se flexionará. Item certo.
+d) Correto também. Observe que se tivéssemos, por exemplo, “os níveis intelectuais” (“níveis”, substantivo
+masculino plural), isso não acarretaria nenhuma alteração no adjetivo “intelectuais”. Item certo.
+Gabarito: letra B.
+
+16. Assinale a alternativa em que a forma de superlativação do adjetivo está identificada
+incorretamente.
+a) O Everest é altíssimo – presença de um sufixo
+b) Heitor é alto, alto, alto – repetição do mesmo adjetivo
+c) O Pico da Colina é alto pra burro – locução adverbial
+d) O balão está muito alto – auxílio de outro adjetivo
+e) O novo edifício é superalto – junção de um prefixo
+Comentário:
+Analisemos cada uma das alternativas.
+a) Há o emprego do superlativo absoluto analítico, em que o adjetivo se intensifica por meio de um sufixo,
+no caso, “-íssimo”. Assim, ocorre a superlativação do adjetivo, o que torna o item está correto.
+b) Há estrutura de superlativação pelo emprego da repetição do adjetivo (“alto, alto, alto”). Item correto.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                              28
+                                                                                                              42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+c) A expressão “pra burro”, de fato, é uma locução adverbial, utilizada na linguagem informal.
+Semanticamente, equivale a “muito”. Item correto.
+d) O vocábulo “muito”, nesse contexto, não é adjetivo. Assim, temos um superlativo absoluto analítico
+pelo emprego do advérbio de intensidade "muito". Item errado.
+e) Nessa alternativa, temos o acréscimo do prefixo "super" ao adjetivo "alto". Item certo.
+Gabarito: letra D.
+
+Conforme salientam Gilmar Ferreiras Mendes e Paulo Gustavo Gonet a liberdade de expressão constitui "um
+dos mais relevantes e preciosos direitos fundamentais, correspondendo a uma das mais antigas reivindicações
+dos homens de todos os tempos"?
+                                                                                  (Adaptado de Jusbrasil, 28/11/2016)
+
+17. Sobre o estudo das classes gramaticais, é CORRETO afirmar que a palavra “a” em
+“correspondendo a uma das mais antigas” exerce a mesma função morfológica que o termo destacado
+nas seguintes expressões.
+a) O modelo atual de sociedade digital os bens já não representam a extrema medida da riqueza.
+b) Com efeito, em tempos de um admirável mundo cibernético, ainda de todo não conhecido, a informação
+e o conhecimento são as principais fontes de poder.
+c) [...] deriva de dispositivos expressos no texto da Lei Maior, que, inicialmente, declara ser "livre a
+manifestação do pensamento".
+d) [...] e, em seguida, garante ser "assegurado a todos o acesso à informação".
+e) Conforme salientam Gilmar Ferreiras Mendes e Paulo Gustavo Gonet a liberdade de expressão constitui
+"um dos mais relevantes e preciosos direitos fundamentais, [...]
+Comentário:
+Em “correspondendo a uma das mais antigas”, o “a” exerce o papel de preposição, introduzindo o objeto
+indireto. Então, nossa tarefa é encontrar em qual outra expressão o “a” também exerce a função de
+preposição. Vamos a ela!
+a) Em “não representam a extrema medida”, “extrema medida” é objeto direto, complementando o sentido
+do verbo “representar”. Assim, o termo "a" antes de "extrema" é um artigo definido que determina o
+substantivo "medida", e não uma preposição. Item errado.
+b) Em “a informação e o conhecimento são as principais fontes de poder.”, o termo “a informação e o
+conhecimento” exerce função sintática de sujeito, termo que não admite regência por preposição. Logo o “a”
+também é artigo. Item errado.
+c) Em “ser livre a manifestação do pensamento”, “manifestação do pensamento” é o sujeito do verbo “ser”.
+Pela mesma justificativa dada no item anterior, o “a” é artigo, não preposição. Item errado.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                    29
+                                                                                                                    42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+d) Em "assegurado a todos o acesso à informação", o termo “a todos o acesso à informação” é objeto indireto
+do verbo garantir (transitivo direto e indireto: quem garante, garante algo a alguém). Assim, nesse caso,
+temos que o “a” exerce o papel de preposição, introduzindo o objeto indireto. Item certo.
+e) No trecho “a liberdade de expressão constitui”, o termo “a liberdade de expressão” é o sujeito dessa
+oração, termo não regido por proposição. Logo, trata-se, mais uma vez, de artigo. Item errado.
+Gabarito: letra D.
+
+18. O termo “até”, em destaque nas frases: “... instituições como previdência e até democracia
+representativa podem entrar em colapso.” / “Até o começo do século 19, filhos eram um ativo econômico.”
+expressa circunstância de:
+a) inclusão e de tempo, respectivamente.
+b) modo, em ambas as ocorrências.
+c) tempo e de modo, respectivamente.
+d) inclusão, em ambas as ocorrências.
+e) tempo, em ambas as ocorrências.
+Comentário:
+Em “e até democracia representativa”, o “até” expressa circunstância de inclusão, por meio da qual se indica
+que a democracia representativa está entre as instituições que podem entrar em colapso.
+Já em “Até o começo do século 19”, o “até” denota circunstância de tempo, demarcando o período em que
+os filhos eram representados um ativo econômico.
+Logo, a alternativa correta será aquela em que constar, respectivamente, inclusão e tempo.
+Gabarito: letra A.
+
+19. Assinale a alternativa em que o vocábulo sublinhado deve ser classificado como advérbio.
+a) “Muitas vezes o medo de um mal nos leva a um pior”. (Boileau)
+b) “O bem é aquele que trabalha pela unidade, o mal é aquele que trabalha pela separação”. (Aldous Huxley)
+c) “O pior mal é aquele ao qual nos acostumamos”. (Sartre)
+d) “Uma boa coisa que nos impede de desfrutar de algo ainda melhor é, na verdade, um mal”. (Spinoza)
+e) “Quem mal trabalha, não merece bom pagamento”. (Nouailles)
+Comentário:
+O advérbio é uma palavra invariável que modifica o sentido do verbo, do adjetivo e do próprio advérbio.
+Indicam circunstâncias (tempo, modo, lugar, dúvida, causa etc.) em que ocorrem as ações verbais.
+Vejamos o que cada opção nos apresenta.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                           30
+                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+a) Nessa alternativa, o vocábulo "mal" está empregado como substantivo, antecedido pelo artigo indefinido
+“um”. Item errado.
+b) Aqui, também está sendo empregado como substantivo, antecedido pelo artigo definido “o”. Item errado.
+c) Mais uma vez, “mal” como substantivo, cujo sentido é modificado pelo adjetivo “pior”. Item errado.
+d) Idem às três anteriores: “mal” como substantivo, antecedido pelo artigo indefinido “um”. Item errado.
+ e) Finalmente chegamos ao nosso gabarito, pois o vocábulo "mal" modifica o verbo "trabalha", exercendo a
+função de advérbio. Item certo.
+Gabarito: letra E
+
+20. Assinale a alternativa que traz, respectivamente, um substantivo cujo plural se faz a exemplo de
+“bem-estar” (termo presente no 1º primeiro parágrafo); e outro substantivo, destacado em expressão
+do texto, com sentido de coletivo.
+a) Alto-falante / “Quase metade da população mundial não tem acesso...”
+b) Saca-rolha / “... a base da assistência universal.”
+c) Bomba-relógio / “... o progresso em saúde tem sido desigual...”
+d) Louva-a-deus / “... em detrimento da prevenção de doenças...”
+e) Arco-íris / “... e participação das pessoas e da comunidade...”
+Comentário:
+O substantivo composto “bem-estar” é formado pela união do advérbio "bem" com o termo "estar".
+Importante notar que “estar”, no caso, é uma palavra substantivada, formada por derivação imprópria.
+Assim, por termos uma estrutural formada por um advérbio (palavra invariável) mais um substantivo
+(palavra variável), o plural de “bem-estar” é “bem-estares”.
+Posto isso, analisemos cada alternativa.
+a) Em “Alto-falante”, “alto” é adverbio, “falante” é adjetivo. Assim, o seu plural é “alto-falantes”. Além
+disso, a palavra “população”, de fato, dá a ideia de coletividade: conjunto de pessoas que habitam
+determinado local. Item certo.
+b) A palavra “saca-rolha” é composta pela união do verbo "sacar" com o substantivo "rolha". Assim, por ter-
+se termo invariável (verbo) mais termo variável (substantivo), o plural do substantivo será “saca-rolhas”.
+Além disso, “assistência” não tem sentido de coletivo. Item errado.
+c) Em “bomba-relógio”, tanto “bomba” quanto “relógio” são substantivos, contudo, como o segundo
+especifica o primeiro, a regra é que somente o primeiro substantivo seja flexionado. Daí, temos que o plural
+será “bombas-relógio”. Além disso, “progresso” não tem sentido de coletivo. Item errado.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                           31
+                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+d) “Louva-a-deus” é palavra substantivada. Nesse caso, o substantivo no plural e no singular terão a mesma
+forma. Assim, o plural será “os louva-a-deus”. Além disso, “prevenção” não tem conotação de coletivo. Item
+errado.
+e) “Arco-íris” também é palavra substantivada, por isso o seu plural é “os arco-íris”. A palavra “comunidade”
+tem conotação de coletivo, mas como o plural do substantivo composto (“arco-íris”) não acompanha a
+mesma regra de “bem-estar”, o item está errado.
+Gabarito: letra A.
+
+21. Considere o fragmento abaixo para responder à questão.
+“Nos sete primeiros assaltos, Raul foi duramente castigado. Não era de espantar: estava inteiramente fora de
+forma.”
+Os advérbios destacados expressam, respectivamente, as seguintes circunstâncias:
+a) modo e modo.
+b) intensidade e tempo.
+c) intensidade e intensidade.
+d) modo e intensidade.
+Comentário:
+Vamos por partes. No período “Nos sete primeiros assaltos, Raul foi duramente castigado.”, a palavra em
+realce é adverbio de modo, modificando o sentido do adjetivo castigado. Semanticamente, exprime ideia
+de como Raul fora castigado.
+No entanto, no período “Não era de espantar: estava inteiramente fora de forma.”, a palavra em realce é
+advérbio de intensidade. Equivale a “completamente”, “totalmente”, “absolutamente”, outros advérbios de
+intensidade. Semanticamente, denota a intensidade com que Raul estava fora de forma.
+Gabarito: letra D.
+
+22. Considere o texto abaixo para responder à questão.
+Há várias pesquisas descritas em seu livro sobre a influência da fisiologia no comportamento. Você
+concorda com Edward O. Wilson que “a natureza humana é um conjunto de predisposições genéticas”?
+ Acredito que predisposições genéticas existem, mas, na grande maioria dos casos, não passam de exatamente
+isso: predisposições. Exceto em alguns casos especiais, genética não é destino. A meu ver, fatores genéticos,
+temperados por acontecimentos ao acaso ao longo do desenvolvimento, fornecem apenas uma base de trabalho,
+a matéria bruta a partir da qual cérebro e comportamento serão esculpidos. Somadas a isso influências do
+ambiente e da própria experiência de vida de cada um, é possível transcender as potencialidades de apenas 30
+mil genes – a estimativa atual do número de genes necessários para “montar” um cérebro humano – para montar
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                            32
+                                                                                                            42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+os trilhões e trilhões de conexões entre as células nervosas, criando o arco-íris de possibilidades da natureza
+humana.
+[...]
+                                                                 (Adaptado de: PIZA, Daniel. Perfis & Entrevistas. São Paulo,
+                                                                                                             Contexto, 2004)
+
+No trecho acima, as orações introduzidas pelos segmentos sublinhados contêm respectivamente a ideia de:
+a) Condição − finalidade − consequência
+b) Causa − conformidade − temporalidade
+c) Concessão − finalidade − consequência
+d) Conclusão − conformidade − causa
+e) Conclusão − finalidade – causa
+Comentário:
+Na passagem “Somadas a isso influências do ambiente”, nota-se valor condicional. Reescrevendo, para que
+fique mais claro: “Se forem somadas a isso influências do ambiente... é possível...”. Assim, o termo destacado
+inicia uma oração subordinada adverbial condicional reduzida de particípio.
+Em “para montar os trilhões e trilhões de conexões”, a preposição “para” expressa finalidade, objetivo.
+Por fim, em “criando o arco-íris de possibilidades da natureza humana”, há a ideia de consequência, que é a
+diversidade na natureza humana.
+Gabarito: letra A.
+
+23. Considere o texto abaixo para responder à questão.
+“Embora a composição e a dinâmica precisas das reações emocionais sejam moldadas em cada indivíduo pelo
+meio e por um desenvolvimento único, há indícios de que a maioria das reações emocionais, se não todas,
+resulta de longos ajustes evolutivos.”
+Mantendo-se o mesmo tipo de relação que estabelece na frase acima, o segmento sublinhado preenche
+corretamente a lacuna desta frase:
+a) Todos, ...... você, riram-se do acidente.
+b) O palestrante não obteve outra coisa ...... escárnio.
+c) Fala três línguas, ...... quatro.
+d) Não expressou ...... emoções negativas.
+e) Havia um ...... em seu exame.
+Comentário:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                            33
+                                                                                                                            42
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+O primeiro passo é identificar qual tipo de relação estabelecida na frase: “há indícios de que a maioria das
+reações emocionais, se não todas, resulta de longos ajustes evolutivos”.
+No contexto, “se não” representa uma junção da conjunção condicional “se” e do advérbio de negação “não”
+e possui o sentido de “caso não” ou “quando não”. Na frase em destaque, o “se não” indica condição.
+Fiquem atentos ao seguinte detalhe. Não se pode confundi-lo com o “senão”, usado em substituição a “do
+contrário”, “a não ser”, “exceto”, “tão somente”. O “senão” também pode ser empregado como sinônimo de
+falha, pequeno erro ou defeito.
+Vejamos em qual das opções há a ideia de condição.
+a) Todos, ...... você, riram-se do acidente.
+Aqui, o apropriado é o “senão”. Vejam como ficaria: “Todos, exceto você, riram-se do acidente”. Item errado.
+b) O palestrante não obteve outra coisa ...... escárnio.
+Mesma justificativa do item anterior. Vejam como ficaria: “O palestrante não obteve outra coisa, tão somente
+escárnio”. Item errado.
+c) Fala três línguas, ...... quatro.
+Eis o nosso gabarito. Há aqui uma ideia de condição: “fala três línguas, caso não fale quatro”. Item certo.
+d) Não expressou ...... emoções negativas.
+Também cabe o “senão”: “Não expressou a não ser emoções negativas”. Item errado.
+e) Havia um ...... em seu exame.
+Essa alternativa representa o uso do “senão” como sinônimo de erro, defeito, falha. Vejam como ficaria:
+“Havia um pequeno erro em seu exame.” Item errado.
+Gabarito: letra C.
+
+24. Considere o texto abaixo para responder à questão.
+[...]
+Bem sei que uma das qualidades de um ator está nas mutações sensíveis de seu rosto, e que a máscara as
+esconde. Por que então me agrada tanto a ideia de atores entrarem no palco sem rosto próprio? Quem sabe, eu
+acho que a máscara é um dar-se tão importante quanto o dar-se pela dor do rosto. Inclusive os adolescentes,
+estes que são puro rosto, à medida que vão vivendo fabricam a própria máscara. E com muita dor. Porque saber
+que de então em diante se vai passar a representar um papel é uma surpresa amedrontadora. É a liberdade
+horrível de não ser. E a hora da escolha.
+Mesmo sem ser atriz nem ter pertencido ao teatro grego – uso uma máscara. Aquela mesma que nos partos de
+adolescência se escolhe para não se ficar desnudo para o resto da luta. Não, não é que se faça mal em deixar o
+próprio rosto exposto à sensibilidade. Mas é que esse rosto que estava nu poderia, ao ferir-se, fechar-se sozinho
+em súbita máscara involuntária e terrível. É, pois, menos perigoso escolher sozinho ser uma pessoa. Escolher
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                34
+                                                                                                                42
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+a própria máscara é o primeiro gesto involuntário humano. E solitário. Mas quando enfim se afivela a máscara
+daquilo que se escolheu para representar o mundo, o corpo ganha uma nova firmeza, a cabeça ergue-se altiva
+como a de quem superou um obstáculo. A pessoa é.
+Se bem que pode acontecer uma coisa que me humilha contar.
+É que depois de anos de verdadeiro sucesso com a máscara, de repente – ah, menos que de repente, por causa de
+um olhar passageiro ou uma palavra ouvida – de repente a máscara de guerra de vida cresta-se toda no rosto
+como lama seca, e os pedaços irregulares caem com um ruído oco no chão. Eis o rosto agora nu, maduro, sensível
+quando já não era mais para ser. E ele chora em silêncio para não morrer. Pois nessa certeza sou implacável: este
+ser morrerá. A menos que renasça até que dele se possa dizer “esta é uma pessoa”.
+                                                               (Adaptado de: LISPECTOR, Clarice. “Persona”, em Clarice na
+                                                                   cabeceira: crônicas. Rio de Janeiro, Rocco Digital, 2015)
+
+Mantendo-se o sentido e a correção, o termo sublinhado pode ser substituído pelo que se encontra entre
+parênteses em:
+a) A menos que renasça até que dele se possa dizer “esta é uma pessoa”. (Sem que)
+b) É, pois, menos perigoso escolher sozinho ser uma pessoa. (conquanto)
+c) Se bem que pode acontecer uma coisa que me humilha contar. (No entanto, seguido de vírgula)
+d) Bem sei que uma das qualidades de um ator está nas mutações... (Por mais que)
+e) ... a cabeça ergue-se altiva como a de quem superou um obstáculo. (conforme)
+Comentário:
+Vamos analisar cada uma das opções:
+a) Nesse contexto, a expressão “a menos que” indica condição, podendo ser substituída por “exceto se”, pois
+traz uma ideia de hipótese, de algo que pode acontecer. A expressão “sem que” pode ser condicional, mas
+não nesse caso. Veja um exemplo em que isso é possível: “sem que ele estude, não conseguirá a aprovação”.
+Item errado.
+b) “Pois”, após o verbo e entre vírgulas, é conjunção conclusiva. “Conquanto” é conjunção concessiva. Item
+errado.
+c) “Se bem que” é, normalmente, conjunção concessiva, contudo, nesse contexto, foi usada como conjunção
+adversativa (indica oposição, contraste), motivo pelo qual a sua substituição por “no entanto” é acertada.
+Item certo.
+d) “Bem sei que” não é uma locução conjuntiva: o “bem” apenas transmite uma noção de intensidade. No
+caso, “que” é conjunção integrante, introduzindo uma oração subordinada substantiva objetiva direta. “Por
+mais que” é conjunção concessiva. Item errado.
+e) “Como”, no caso, é conjunção comparativa. “Conforme” é conjunção conformativa. Item errado.
+Gabarito: letra C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                           35
+                                                                                                                           42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+É um mal porque todo relato jornalístico tende ao provisório. (1° parágrafo)
+Entretanto, o jornalismo dito de qualidade sempre foi objeto de uma minoria. (6° parágrafo)
+25. Os elementos sublinhados acima introduzem, no contexto, respectivamente, noção de
+a) causa − finalidade
+b) finalidade − concessão
+c) consequência – temporalidade
+d) causa − oposição
+e) concessão – consequência
+Comentário:
+Pessoal, na primeira frase o “porque” é uma conjunção causal, podendo ser substituída por outras
+conjunções dessa categoria, a exemplo de: visto que, uma vez que, já que, etc.
+Já, “entretanto” é uma conjunção adversativa, transmitindo ideia de oposição, contraste. São também
+exemplos: mas, porém, contudo, no entanto, todavia, etc.
+Gabarito: letra D
+
+Com cerca de 16% da água doce disponível na Terra(c), o Brasil é um país rico nesse insumo que a natureza
+provê de graça. Cada habitante conta com mais de 43 mil m3 por ano dos mananciais, mas apenas 0,7% disso
+termina utilizado(e). Nações como a Argélia e regiões como a Palestina, em contraste, usam quase a metade dos
+recursos hídricos disponíveis, e outras precisam obter recursos hídricos por dessalinização de água do mar.
+Só em aparência, contudo, é confortável a situação brasileira (d). Em primeiro lugar, há o problema da
+distribuição: o líquido é tanto mais abundante onde menor é a população e mais preservadas são as florestas,
+como na Amazônia. No litoral do país, assim como nas regiões Sudeste e Nordeste (onde se concentra 70% da
+população), muitos centros urbanos já enfrentam dificuldades de abastecimento.
+[...]
+Não é possível afirmar com certeza que recentes secas no Sudeste e no Nordeste ou as inundações em Rondônia
+tenham relação direta com a mudança global e regional do clima. Tampouco se pode excluir que tenham (a). Por
+outro lado, é certo que esses flagelos, assim como o custo bilionário que acarretam, constituem uma boa amostra
+do que se deve esperar nas próximas décadas para o caso de o aquecimento global se agravar.
+Ficar sem água, porém, é cena cada vez mais incomum no Nordeste (b), mesmo no semiárido, região onde
+moram 22 milhões de pessoas e onde as chuvas são pouco previsíveis. Um sistema improvisado de cisternas e
+açudes já supre, ainda que de forma irregular, as necessidades básicas da população, mesmo a mais isolada.
+[...]
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                              36
+                                                                                                              42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+    Carlos Roberto Correa
+    Simulado 01
+
+26. Mantendo-se a correção e o sentido, sem que nenhuma outra alteração seja feita na frase, o termo
+sublinhado pode ser substituído pelo que se encontra entre parênteses em:
+a) Tampouco (Porquanto) se pode excluir que tenham.
+b) Ficar sem água, porém, (muito embora) é cena cada vez mais incomum no Nordeste...
+c) Com cerca de (o equivalente à) 16% da água doce disponível na Terra...
+d) Só em aparência, contudo, (entretanto) é confortável a situação brasileira.
+e) ... mas (conquanto) apenas 0,7% disso termina utilizado.
+Comentário:
+a) “Tampouco” expressa ideia de adição, equivalente a “também não”. “Porquanto” indica explicação ou
+causa. Item errado.
+b) No contexto, “porém” é conjunção adversativa. “Embora” é conjunção concessiva. Item errado.
+c) “Cerca de” indica número aproximado. A expressão “o equivalente à” remonta à ideia de certeza. Item
+errado.
+d) Chegamos ao nosso gabarito. São conjunções adversativas: mas, porém, contudo, todavia, entretanto, no
+entanto, etc. Item certo.
+e) Conforme visto, “mas” é uma conjunção adversativa, diferindo de “conquanto”, conjunção concessiva.
+Item errado.
+Gabarito: letra D.
+
+27. Considere o texto abaixo para responder à questão.
+Sob nomes que não vêm ao caso para nós, essas são questões atualíssimas na história humana, e surgem mais
+fortes e polêmicas na escala temporal mais longa da evolução. A história evolutiva pode ser representada como
+uma espécie depois da outra. Mas(a) muitos biólogos hão de concordar comigo que se trata de uma ideia tacanha.
+Quem(b) olha a evolução dessa perspectiva deixa passar a maior parte do que é importante. A evolução rima,
+padrões se repetem. E não simplesmente por acaso. Isso ocorre por razões bem compreendidas, sobretudo razões
+darwinianas, pois a biologia, ao contrário da evolução humana ou mesmo da física, já tem a sua grande teoria
+unificada, aceita por todos os profissionais bem informados no ramo, embora(c) em várias versões e
+interpretações. Ao escrever(d) a história evolutiva, não me esquivo a buscar padrões e princípios, mas procuro (e)
+fazê-lo com cautela.
+[...]
+Obs. lemingues: designação comum a diversos pequenos roedores.
+                                                         (Richard Dawkins, com a colaboração de Yan Wong, A grande
+                                                         história da evolução: Na trilha dos nossos ancestrais. Trad.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                    37
+                                                                                                                    42
+          www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+                                                        Laura Teixeira Motta. São Paulo: Companhia das Letras, 2009,
+                                                        p. 17-18)
+
+No parágrafo acima, a alteração que mantém o sentido e a correção originais é a de:
+a) Mas por “Apesar de”.
+b) Quem por “Muitos biólogos”.
+c) Embora por “não obstante”.
+d) Ao escrever por “Salvo se escrever”.
+e) mas procuro por “ainda que procure”.
+Comentário:
+a) “Mas” é conjunção adversativa e “apesar de”, concessiva. Por isso, item errado.
+b) O vocábulo “quem” não remete, necessariamente, a “muitos biólogos”. Na verdade, a palavra “quem” dá
+ao fragmento ideia de indeterminação. Item errado.
+c) É o nosso gabarito. “Embora” e “não obstante” são conjunções de valor concessivo. Lembrando que “não
+obstante” pode também ter valor adversativo. Item certo.
+d) O termo “ao escrever” transmite uma ideia de tempo, ao passo que “salvo se escrever” passa ideia de
+condição. Item errado.
+e) “Mas” é conjunção adversativa e “ainda que”, conjunção concessiva. Por isso, item errado.
+Gabarito: letra C.
+
+28. Considere o fragmento de texto abaixo para responder à questão.
+“Tratando do estado de solidão ou da necessidade de convívio, Sêneca vê no estado de solidão uma
+contrapartida da necessidade de convívio, assim como vê na necessidade de convívio uma abertura para
+encontrar satisfação no estado de solidão.”
+Evitam-se as viciosas repetições do texto acima substituindo-se os elementos grifados, na ordem dada, por:
+a) naquele − desta − nesta − naquele
+b) nisso − daquilo − naquela − deste
+c) este − do outro − na primeira − no último
+d) nisto − disso − naquela − desse
+e) na primeira − do segundo − numa – noutra.
+Comentário:
+Questão sobre pronomes. Numa perspectiva endofórica, referindo a elementos intradiscursivos, o pronome
+demonstrativo tem diferentes empregos:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                                   38
+                                                                                                                   42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+- Este: refere-se ao que foi citado por último ou ao mais próximo na frase;
+- Aquele: refere-se ao elemento mais afastado ou ao que foi citado em primeiro lugar.
+No texto destacado, primeiramente cita-se o “estado de solidão” e, posteriormente, a “necessidade de
+convívio”. Então, a primeira parte, assim ficaria:“Tratando do estado de solidão ou da necessidade de convívio,
+Sêneca vê NAQUELE uma contrapartida DESTA.”
+Adotando raciocínio análogo, a segunda parte pode ser reescrita como: “assim como vê NESTA uma abertura
+para encontrar satisfação NAQUELE”.
+Agora, juntando as partes: “Tratando do estado de solidão ou da necessidade de convívio, Sêneca vê NAQUELE
+uma contrapartida DESTA, assim como vê NESTA uma abertura para encontrar satisfação NAQUELE.”
+Gabarito: letra A.
+
+29. Considere o texto abaixo para responder à questão.
+Disse isso à minha avó e ela riu, comentando que eu era como meu pai, sempre prestava atenção nos detalhes
+das coisas. Acho que já nessa época eu olhava em torno com olhos mínimos. Mas a grandeza das manhãs se
+media pela quantidade de mulungus que me restava na palma da mão na hora de ir para casa. Conseguia às
+vezes juntar um punhado, outras vezes apenas dois ou três. E é curioso que nunca tenha sabido ao certo de onde
+eles vinham, de que árvore ou arbusto caíam aquelas sementes vermelhas. Apenas sabíamos que surgiam no
+chão ou por entre as folhas e sempre numa determinada região do Jardim Botânico.
+No segmento “de que árvore ou arbusto caíam aquelas sementes vermelhas”, o termo sublinhado pode ser
+substituído corretamente por:
+a) de cuja
+b) dos quais
+c) de qual
+d) de quanta
+e) de cujos.
+Comentário:
+Vamos analisar cada uma das opções:
+a) O pronome “cujo” indica posse e costuma aparecer entre dois nomes, o objeto possuidor e o possuído. Por
+isso, não se verifica a possibilidade do uso desse pronome na frase destacada. Item errado.
+b) O “dos” em “Dos quais” é construção resultante da fusão da preposição (de) e do artigo definido masculino
+no plural (os). Não há concordância entre esse artigo e a palavra “árvore” (palavra feminina no singular). Item
+errado.
+c) É o nosso gabarito. No contexto, são expressões equivalentes: “de qual” e “de que”. Item certo.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                              39
+                                                                                                              42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+d) “De quanta” é também inapropriado, haja vista que não há referência a número ou quantidade. Item
+errado.
+e) Conforme justificativa apresentada na letra “a”, inadequado o “cujo”. Item errado.
+Gabarito: letra C.
+
+30. Está correto o emprego dos elementos sublinhados em:
+a) As confissões perturbadoras às quais aprendemos a conviver não respeitam nosso direito à um mínimo de
+privacidade.
+b) Houve tempos onde era feio e indiscreto ouvir conversas alheias; hoje, propaga-se as falas em voz alta por
+toda parte.
+c) Não faltava a aquelas antigas conversas um tom de intimidade, tão raro hoje entre os que ainda lhe são
+capazes.
+d) O olhar contemplativo, no qual se dedicavam os viajantes de ônibus, já não flue pelas janelas.
+e) O vício das conexões, cujas malhas nos envolvem a todos, não é de todo mau, segundo os otimistas.
+Comentário:
+Vamos analisar cada uma das opções:
+a) O verbo “conviver” rege a preposição “com”. Então seria: “As confissões perturbadoras com as quais
+aprendemos a conviver”. A crase em “nosso direito à um mínimo de privacidade” também é inadequada,
+haja vista ser proibido o uso da crase antes do artigo indefinido “um” (que é, além de tudo, palavra masculina).
+Item errado.
+b) “Onde” exige para a sua aplicação a referência a lugar e, no contexto, a ideia é de tempo. Além disso,
+apesar de não ser da nossa aula, o certo seria que o verbo (propagar) concordasse com o sujeito paciente (as
+falas). Em “propaga-se”, o “se” é partícula apassivadora. Pelos dois erros, item errado.
+c) Em “a aquelas”, o correto seria a fusão do artigo com o pronome, formando “àquelas”. Além disso, o “lhe”,
+em “lhe são capazes” ficou sem sentido na frase. Item errado.
+d) Quem se dedica, dedica A algo. Por isso, é inadequado o uso da preposição “em” (no = em + o). Além disso,
+o verbo fluir na 3ª pessoa do presente do indicativo é “flui”. Item errado.
+e) O uso do pronome relativo “cujo” é adequado, sintonizado com a relação de posse existente entre “malhas”
+e “conexões”. Para verificar se correto o uso do “mau”, substitui-se esse termo na frase pelo seu oposto
+(bom), obtendo-se a seguinte construção (correta): “o vício não é de todo bom”. Por isso, item certo.
+Gabarito: letra E.
+
+31. Considere o texto abaixo para responder à questão.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                               40
+                                                                                                               42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Simulado 01
+
+Perdeu-se a antiga privacidade, enterramos a antiga privacidade sob os conectores modernos, tornamos esses
+conectores modernos nossos deuses implacáveis, sob o comando desses conectores modernos trocamos
+escandalosamente todas as informações mais pessoais.
+Evitam-se as viciosas repetições do período acima substituindo-se os elementos sublinhados, na ordem dada,
+por:
+a) enterramo-la − tornamo-los − sob cujo comando
+b) enterramos-lhe − tornamo-lhes − sob cujo comando
+c) enterramo-la − os tornamos − sob o qual comando
+d) a enterramos − tornamos-lhes − sob o comando deles
+e) enterramo-lhe − lhes tornamos − sob o comando dos quais
+Comentário:
+Na primeira situação, “a antiga privacidade” desempenha a função de objeto direto, por isso deverá ser
+substituído pelo pronome oblíquo “a”. Esse pronome oblíquo deve ser enclítico, após o verbo, haja vista ser
+inadequado o seu uso iniciando oração. Por fim, como “enterramos” termina em “s”, deve-se suprimir essa
+consoante e acrescentar a letra “l”, formando “enterramo-la”.
+O segundo caso justifica-se na linha do visto acima quanto ao complemento exigido pelo verbo “tornar”
+(objeto direto – “o”); à necessidade do emprego da ênclise; e a supressão do “s” e adição do “l” em
+“tornamos”. Assim, a opção pertinente é “tornamo-lo”.
+Por fim, no terceiro caso, há a uma relação de posse entre “conectores modernos” e “comando” (os
+conectores detêm o comando). Isso enseja o emprego do pronome relativo “cujo”. Assim, a escrita correta é:
+“sob cujo comando”.
+Gabarito: letra A.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                                          41
+                                                                                                          42
+         www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+Carlos Roberto Correa
+Simulado 01
+
+                                             4 – GABARITO
+                               1         C         12       A            23   C
+                               2        A          13       C            24   C
+                               3        D          14       B            25   D
+                               4         C         15       B            26   D
+                               5         C         16       D            27   C
+                               6        A          17       D            28   A
+                               7         C         18       A            29   C
+                               8        D          19       E            30   E
+                               9         C         20       A            31   A
+                               10       A          21       D
+                               11       A          22       A
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português
+                                                                                  42
+                                                                                  42
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

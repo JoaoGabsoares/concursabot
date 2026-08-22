@@ -1,0 +1,3138 @@
+                                                                                     Índice
+1)  Associação Lógica
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Questões Comentadas - Associação Lógica - FGV                                                                                                                                             6
+
+3)  Lista de Questões - Associação Lógica - FGV                                                                                                                                             63
+..............................................................................................................................................................................................
+                                  ASSOCIAÇÃO LÓGICA
+O assunto Associação Lógica não possui uma teoria formalizada. No entanto, ele aparece muito
+frequentemente nas provas de Raciocínio Lógico dos mais variados concursos. Diante disso, como
+conseguimos identificar uma questão que envolve Associação Lógica? Normalmente, ela será uma questão
+que envolverá uma série de afirmações sobre um grupo de pessoas e que você precisará associar todas
+essas informações para definir o que está sendo falado sobre quem. Vamos ver um exemplo?
+
+
+     (BANRISUL/2019) Pedro, José e Antônio têm alturas diferentes, praticam esportes diferentes
+     (um deles pratica futebol, outro, natação e o terceiro, voleibol, não necessariamente nessa
+     ordem) e têm cores de cabelos diferentes (um deles é ruivo, outro, loiro e o terceiro, moreno,
+     não necessariamente nessa ordem). Sabendo que Pedro é o mais baixo e não pratica natação,
+     que o que pratica voleibol é o mais alto, que o ruivo pratica natação e que Antônio é loiro,
+     então,
+     A) Pedro é moreno e José pratica voleibol.
+     B) José é ruivo e Antônio pratica futebol.
+     C) Antônio é o mais alto e Pedro é moreno.
+     D) Antônio pratica natação e José é ruivo.
+     E) Pedro é ruivo e Antônio pratica voleibol.
+
+
+Perceba que são várias características que precisamos associar a cada um dos amigos. Para conseguir
+responder esse tipo de questão com tranquilidade, é necessária uma estratégia. Observe que a quantidade
+de informações fornecidas pelo enunciado é muito grande, se tentarmos ir guardando-as na cabeça, é muito
+provável que vamos nos atrapalhar.
+
+No intuito de sanar essa dificuldade, usaremos tabelas simples. Por exemplo, do enunciado acima, temos
+quatro parâmetros que queremos associar: o amigo, a altura, o esporte que pratica e a cor do cabelo. Como
+ficaria a tabela correspondente?
+
+                                 Amigo     Esporte    Cabelo      Altura
+
+
+
+
+Cada linha da tabela representa o esporte, o cabelo e a altura associados ao amigo que está na linha. Vamos
+exemplificar usando uma informação do enunciado: Pedro é o mais baixo.
+
+                                Amigo     Esporte    Cabelo     Altura
+                                Pedro                          Mais baixo
+
+
+
+É assim que associaremos o fato de Pedro ser o mais baixo, colocando as informações na mesma linha.
+Sabemos também que Pedro não faz natação, como representamos isso? Simplesmente colocando natação
+em uma linha diferente da de Pedro.
+                                Amigo      Esporte    Cabelo      Altura
+                                Pedro                            Mais baixo
+                                          Natação
+
+
+A próxima informação do enunciado é que quem pratica voleibol é o mais alto. Note que Pedro não pode
+praticar voleibol pois ele é o mais baixo. Como a segunda linha da tabela já está reservada para a natação,
+temos que incluir esse fato na terceira linha.
+
+                                Amigo      Esporte    Cabelo      Altura
+                                Pedro                            Mais baixo
+                                          Natação
+                                          Voleibol               Mais alto
+
+Perceba que o único esporte que sobrou para Pedro é o futebol e a única altura que sobrou para quem faz
+natação é a média. Não se esqueçam de preencher esses casos, pois são consequências das próprias
+informações do enunciado. Essas características que "sobram", nós vamos estar sempre destacando de
+vermelho em nossas resoluções, conforme a seguir.
+
+                                Amigo     Esporte     Cabelo      Altura
+                                Pedro     Futebol                Mais baixo
+                                          Natação                 Média
+                                          Voleibol               Mais alto
+
+A próxima afirmativa é que o ruivo pratica natação. Na linha da natação, acrescentaremos o cabelo ruivo.
+
+                                Amigo     Esporte     Cabelo      Altura
+                                Pedro     Futebol                Mais baixo
+                                          Natação      Ruivo      Média
+                                          Voleibol               Mais alto
+
+Por fim, a última informação dada é que Antônio é loiro. Veja que a primeira linha já está preenchida com
+Pedro, a segunda linha está preenchida com o ruivo, só sobra a terceira linha para dizer que Antônio é loiro.
+
+                                Amigo      Esporte    Cabelo      Altura
+                                 Pedro     Futebol    Moreno     Mais baixo
+                                  José     Natação     Ruivo      Média
+                                Antônio    Voleibol    Loiro     Mais alto
+
+Também preenchemos "José" e "moreno" pois foram os dois que sobraram após termos preenchido
+"Antônio" e "loiro". Se a tabela está completa, é possível analisar com precisão os itens do enunciado.
+
+
+     A) Pedro é moreno e José pratica voleibol.
+     Alternativa incorreta. Pedro é moreno mas José pratica natação e não voleibol.
+
+     B) José é ruivo e Antônio pratica futebol.
+     Alternativa incorreta. José é ruivo mas Antônio pratica voleibol e não natação.
+
+     C) Antônio é o mais alto e Pedro é moreno.
+     Alternativa correta. É exatamente o que encontramos ao montar a tabela.
+
+     D) Antônio pratica natação e José é ruivo.
+     Alternativa incorreta. Antônio pratica voleibol.
+
+     E) Pedro é ruivo e Antônio pratica voleibol.
+     Alternativa incorreta. Pedro é moreno.
+
+     Gabarito: Letra C.
+
+
+A tabela é uma ótima estratégia para resolver a grande maioria das questões que tratam desse assunto. Não
+se esqueça que a resolução das questões a seguir é de fundamental importância para sua evolução na
+matéria e consequente ganho de velocidade na prova. Não deixe de fazê-las!
+                        QUESTÕES COMENTADAS - FGV
+
+Associação Lógica
+
+1. (FGV/CBM-AM/2022) Os amigos Abel, Breno e Caio são casados e suas esposas chamam-se Manuela,
+Nina e Paula. Sabe-se que:
+
+- Duas dessas três moças são irmãs.
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+É correto concluir que
+A) Caio é casado com Nina.
+B) Manuela não é esposa de Breno.
+C) Abel é casado com Nina.
+D) Nina é a irmã de Paula.
+E) Nina é esposa de Breno.
+
+Comentários:
+Pessoal, é superinteressante esquematizarmos uma tabela, pois ela nos ajuda a não nos perdermos com as
+informações. Vamos esquematizar uma!
+
+                                    Marido         Esposa    Irmãs?
+                                     Abel
+                                    Breno
+                                     Caio
+
+Com a tabela desenhada, começamos a analisar as informações que o enunciado passou.
+
+A primeira coisa que podemos notar é o seguinte:
+
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+
+Ora, se Paula não é esposa de Abel e Breno é casado com a irmã de Paula, então Paula só pode ser a esposa
+de Caio! Ademais, também percebemos que Paula tem uma irmã. Na tabela, ficamos com:
+
+                                    Marido         Esposa    Irmãs?
+                                     Abel
+                                    Breno
+                                     Caio          Paula      Sim
+Por fim, temos que:
+
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+Ora, se Manuela se casou depois de Abel, ela não pode ser a esposa do Abel! Sendo assim, a Manuela só
+pode ser esposa do Breno uma vez que já sabemos que Paula é a esposa do Caio.
+
+                                     Marido     Esposa        Irmãs?
+                                      Abel
+                                     Breno     Manuela
+                                      Caio      Paula          Sim
+
+Note que a esposa de Abel só pode ser a Nina. Ademais, como sabemos que Breno é casado com a irmã de
+Paula, então Manuela e Paula são irmãs.
+
+                                     Marido    Esposa         Irmãs?
+                                      Abel      Nina            Não
+                                     Breno     Manuela          Sim
+                                      Caio      Paula           Sim
+
+Com a tabela esquematizada, podemos ir para a alternativas!
+
+A) Caio é casado com Nina.
+Errado. Caio é casado com Paula.
+
+B) Manuela não é esposa de Breno.
+Errado. Manuela é esposa de Breno.
+
+C) Abel é casado com Nina.
+Opa, é essa mesmo! Abel e Nina são casados.
+
+D) Nina é a irmã de Paula.
+Errado. Nina não é irmã de ninguém. Manuela e Paula são as irmãs.
+
+E) Nina é esposa de Breno.
+Errado. Nina é esposa de Abel.
+
+Gabarito: LETRA C.
+
+2. (FGV/SEMSA-MANAUS/2022) Três amigos, Gael, Miguel e Gabriel moram em três bairros diferentes de
+Manaus. Um mora no Centro, outro mora em Flores e outro, em Aleixo. Considere as seguintes
+informações:
+
+- Gael é casado com a irmã de Gabriel e é mais velho do que quem mora em Aleixo.
+- Quem mora em Flores é filho único e é o mais novo dos três amigos.
+É correto concluir que
+A) Gael mora em Flores.
+B) quem mora no Centro é mais novo que Miguel.
+C) Gabriel mora em Aleixo.
+D) quem mora no Centro é mais novo que Gabriel.
+E) o mais velho não mora no Centro.
+
+Comentários:
+Mais uma questão em que devemos fazer associações! Para isso, prefira sempre usar tabelas, pois elas nos
+ajudam a não fazer confusão com as informações. Para essa questão, podemos esquematizar uma assim:
+
+                                   Amigo        Bairro    "Senioridade"
+                                    Gael
+                                   Miguel
+                                   Gabriel
+
+Agora, vamos analisar o que nos foi passado.
+
+1) Gael é casado com a irmã de Gabriel.
+
+Essa primeira informação nos permite concluir que Gabriel não é o filho único, pois ele tem uma irmã.
+
+2) Gael é mais velho do que quem mora em Aleixo.
+
+Essa segunda informação nos permite concluir que Gael não mora em Aleixo.
+
+3) Quem mora em Flores é filho único
+
+Essa terceira informação nos permite concluir que Gabriel não mora em Flores, pois já vimos que ele não é
+filho único.
+
+4) Quem mora em Flores é o mais novo dos três amigos.
+
+Ora, se é o mais novo que mora em Flores, então podemos concluir que não é Gael que mora lá, já que ele
+é mais velho do que alguém (do que mora em Aleixo). Ademais, já sabemos que Gabriel não pode morar em
+Flores. Quem sobrou para morar lá?! O Miguel.
+
+                                   Amigo        Bairro    "Senioridade"
+                                    Gael
+                                   Miguel       Flores      Mais novo
+                                   Gabriel
+
+Ademais, se Gael não mora em Aleixo e já sabemos que Miguel é quem mora em Flores, então Gael só pode
+morar no Centro.
+                                      Amigo     Bairro   "Senioridade"
+                                       Gael     Centro
+                                      Miguel    Flores    Mais novo
+                                      Gabriel
+
+O bairro que sobra para Gabriel é o Aleixo.
+
+                                      Amigo     Bairro   "Senioridade"
+                                       Gael     Centro     Mais velho
+                                      Miguel    Flores     Mais novo
+                                      Gabriel   Aleixo      Do meio
+
+Vamos para as alternativas.
+
+A) Gael mora em Flores.
+Errado. Gael mora no Centro!
+
+B) quem mora no Centro é mais novo que Miguel.
+Errado. Quem mora no Centro é o mais velho.
+
+C) Gabriel mora em Aleixo.
+Opa, aqui está! É o nosso gabarito.
+
+D) quem mora no Centro é mais novo que Gabriel.
+Errado. Quem mora no Centro é o mais velho.
+
+E) o mais velho não mora no Centro.
+Errado. O mais velho mora no centro.
+
+Gabarito: LETRA C.
+
+3. (FGV/SEFAZ-AM/2022) Há 5 pessoas sentadas em volta de uma mesa circular, e as iniciais de seus nomes
+são A, B, C, D e E Dessas pessoas, 2 são médicos e 3 são professores.
+
+
+
+
+Sabe-se que:
+- Os dois médicos não são vizinhos.
+- C tem um médico à esquerda e um professor à direita.
+- A tem vizinhos da mesma profissão.
+- B tem médico à direita.
+- C e D não são vizinhos.
+
+A partir de A, a sequência das pessoas no sentido anti-horário é
+A) A D B E C
+B) A E C B D
+C) A E B D C
+D) A B D C E
+E) A B C D E
+
+Comentários:
+Questão bem interessante! Vamos abordá-la de uma forma diferente! A primeira informação que chama a
+atenção é a seguinte: C e D não são vizinhos. Com ela, podemos eliminar todas as alternativas em que "C" e
+"D" aparecem vizinhos. São elas: C, D e E. Note que com essa análise, já cortamos três alternativas e
+aumentamos nossas chances de acertar para 50%.
+
+A segunda informação que podemos analisar é a seguinte: A tem vizinhos da mesma profissão. Ora, se A
+tem vizinhos da mesma profissão, então A não pode ser médico. Observe que só temos dois médicos. Se A
+fosse médico, seu vizinho poderia ser um médico, mas o outro não poderia ser. Afinal só são dois médicos!!
+Com isso, guarde a informação que A é professor! Além disso, podemos esquematizar as duas situações
+possíveis até agora:
+
+                                                                            MED
+                        PROF
+
+                                                                                     PROF
+                   𝑨                     MED
+                                                                     𝑨
+                PROF                                               PROF
+                                                    OU
+
+
+
+                   PROF              MED                                  MED       PROF
+
+
+
+A terceira informação que cabe bem nesse momento é: Os dois médicos não são vizinhos. Ora, se os dois
+médicos não são vizinhos, então ficamos com a seguinte configuração:
+
+                                                                            MED
+                        PROF
+
+                                                                                     PROF
+                   𝑨                     MED
+                                                                     𝑨
+                PROF                                               PROF
+                                                    OU
+
+
+
+                   PROF               MED                                 MED       PROF
+                    Médicos não são vizinhos
+
+
+Pronto, sabemos a configuração válida é a da direita! Falta descobrir quem é médico e quem é professor.
+                                                        MED
+
+                                                                      PROF
+                                              𝑨
+                                            PROF
+
+
+
+
+                                                   MED               PROF
+
+Agora, vamos usar a informação: C tem um médico à esquerda e um professor à direita.
+
+                                                  MED
+
+                                                               PROF
+                                        𝑨
+                                     PROF
+                                                                    Professor à
+                                                                     DIREITA
+                                                               𝑪
+                                            MED               PROF
+                                                    Médico à
+                                                   ESQUERDA
+
+
+Vejamos agora: B tem médico à direita.
+
+                                                    MED         Médico à
+                                                                 direita
+
+                                             𝑨                           𝑩
+                                        PROF                          PROF
+
+
+                                                                     𝑪
+                                                 MED                PROF
+
+
+
+Por fim, como C não pode ser vizinho de D, então D só pode ser o médico que está entre A e B.
+                                                              𝐃
+                                                              MED
+
+                                             𝑨                           𝑩
+                                        PROF                          PROF
+
+
+                                                                     𝑪
+                                                 𝐄                  PROF
+                                                 MED
+
+
+Pronto! A resposta é a lista das iniciais, a partir de A, no sentido anti-horário: AECBD.
+
+Gabarito: LETRA B.
+4. (FGV/SEFAZ-BA/2022) As amigas Ana, Bia e Carol, têm idades diferentes. Uma delas é médica, outra é
+enfermeira e a outra é professora. Cada uma delas tem um animal de estimação diferente: gato, cachorro
+e peixe de aquário. Sabe-se que:
+
+- A mais nova é a professora.
+- Ana adora seu cachorro.
+- A enfermeira é a dona do gato.
+- Carol não é a médica.
+- Bia é a mais velha.
+- A médica não é a mais velha.
+
+É correto concluir que
+A) Ana é a enfermeira.
+B) Bia é a dona do peixe.
+C) Carol é a mais velha.
+D) Ana é a mais nova.
+E) Bia é a dona do gato.
+
+Comentários:
+Opa, essa tem muita informação! Para começar, vamos montar nossa tabela.
+
+                             Amiga       Profissão       Pet      "Senioridade"
+                              Ana
+                              Bia
+                             Carol
+
+Agora, perceba que o enunciado nos deu duas informações bem diretas:
+
+1) Ana adora seu cachorro;
+2) Bia é a mais velha.
+
+Já podemos inseri-las na tabela.
+
+                             Amiga       Profissão       Pet      "Senioridade"
+                              Ana                      Cachorro
+                              Bia                                  Mais velha
+                             Carol
+
+Agora, vamos juntar mais duas informações:
+
+3) Carol não é médica;
+3) A médica não é a mais velha (ou seja, não é Bia).
+
+Se Carol não é médica e Bia também não, então a médica só pode ser Ana!!
+                               Amiga      Profissão     Pet      "Senioridade"
+                                Ana        Médica     Cachorro
+                                Bia                                Mais velha
+                               Carol
+
+Nesse momento, devemos considerar a seguinte informação: A mais nova é a professora.
+
+Ora, sabemos que Bia é a mais velha. Além disso, Ana é médica (logo, não pode ser a professora).
+
+Com isso, a mais nova (e professora) só poderá ser a Carol.
+
+                               Amiga      Profissão     Pet      "Senioridade"
+                                Ana        Médica     Cachorro
+                                Bia                                Mais velha
+                               Carol   Professora                  Mais nova
+
+Com isso, Bia só pode ser a enfermeira.
+
+                               Amiga     Profissão      Pet      "Senioridade"
+                                Ana       Médica      Cachorro
+                                Bia    Enfermeira                  Mais velha
+                               Carol    Professora                 Mais nova
+
+Temos a informação que a enfermeira é a dona do gato. Com isso, o peixe do aquário fica para Carol.
+
+                               Amiga     Profissão       Pet     "Senioridade"
+                                Ana       Médica      Cachorro      Do meio
+                                Bia    Enfermeira       Gato       Mais velha
+                               Carol    Professora      Peixe      Mais nova
+
+Tabela completa! Agora, vamos para as alternativas.
+
+A) Ana é a enfermeira.
+Errado. Ana é a médica.
+
+B) Bia é a dona do peixe.
+Errado. Bia é a dona do gato.
+
+C) Carol é a mais velha.
+Errado. Carol é a mais nova.
+
+D) Ana é a mais nova.
+Errado. Ana é a do meio.
+
+E) Bia é a dona do gato.
+Isso mesmo! Bia é a dona do gato, a enfermeira e a mais velha das três.
+
+Gabarito: LETRA E.
+
+5. (FGV/SEMSA-MANAUS/2022) Francisca comentava curiosidades sobre algumas pessoas do prédio em
+que mora com uma amiga.
+
+Ela dizia que os maridos de Amanda, de Glória e de Célia se chamam Mário, Sílvio e Renato, não
+necessariamente nessa ordem, e, das três, Amanda é a única que não tem animal de estimação; afirmou,
+ainda, que Sílvio não é marido de Amanda, Glória não é casada com Mário e Renato, que não é casado
+com Célia, trouxe um osso para o seu cão ontem.
+
+É correto concluir que
+A) Renato é marido de Glória.
+B) Glória é esposa de Sílvio.
+C) Amanda é casada com Renato.
+D) Sílvio não é casado com Célia.
+E) Mário não é casado com Amanda.
+
+Comentários:
+Note que essas questões têm um perfil muito típico e aparecem bastante em provas! Por isso, fique esperto
+nelas! Para começar, vamos usar nossa clássica tabela.
+
+                                   Esposa        Marido         Pet
+                                   Amanda
+                                    Glória
+                                    Célia
+
+Com a tabela pré-montada, vamos partir para as informações. Minha dica é: sempre comece pelas
+informações mais diretas! Nessa questão, temos que: Amanda é a única que não tem animal.
+
+                                   Esposa        Marido         Pet
+                                   Amanda                       Não
+                                    Glória                      Sim
+                                    Célia                       Sim
+
+Depois dessa, uma informação interessante é: Renato, que não é casado com Célia, trouxe um osso para o
+seu cão ontem. Ora, se Renato não é o marido da Célia e tem um pet (pois trouxe um osso para ele), então
+ele só pode ser o marido da Glória, já que sabemos que a Amanda não tem pet!!
+
+                                   Esposa        Marido         Pet
+                                   Amanda                       Não
+                                    Glória       Renato         Sim
+                                    Célia                       Sim
+Sabemos ainda que Sílvio não é marido de Amanda. Ora, sendo assim, Sílvio só poderá ser o marido da Célia.
+Consequentemente, Mário é o marido da Amanda.
+
+                                     Esposa      Marido         Pet
+                                     Amanda      Mário          Não
+                                      Glória     Renato         Sim
+                                      Célia       Sílvio        Sim
+
+Com a tabela esquematizada, vamos ver as alternativas!
+
+A) Renato é marido de Glória.
+Correto! Essa é a nossa resposta.
+
+B) Glória é esposa de Sílvio.
+Errado. Glória é esposa do Renato.
+
+C) Amanda é casada com Renato.
+Errado. Amanda é casada com Mário.
+
+D) Sílvio não é casado com Célia.
+Errado. Sílvio é casado sim com Célia.
+
+E) Mário não é casado com Amanda.
+Errado. Mário é o marido de Amanda.
+
+Gabarito: LETRA A.
+
+6. (FGV/SEMSA-MANAUS/2022) Gael, Miguel e Gabriel estão, nessa ordem, em uma fila que possui 26
+pessoas no total. Sabe-se que:
+- Há o mesmo número de pessoas antes de Gael e depois de Gabriel.
+- Há 4 pessoas entre Gael e Miguel.
+- Há 5 pessoas entre Miguel e Gabriel.
+
+É correto concluir que
+A) Gael é o 7º da fila.
+B) Gabriel é o 20º da fila.
+C) Miguel é o 13º da fila.
+D) há 12 pessoas depois de Miguel.
+E) há 9 pessoas entre Gael e Gabriel.
+
+Comentários:
+Outra questão que foge um pouco da abordagem de tabelas, mas que é bem interessante!
+
+O primeiro ponto que devemos ter em mente é que mesmo que Gael, Miguel e Gabriel estejam, nessa ordem,
+em uma fila, isso não significa que um está atrás do outro. Vamos tentar imaginar uma situação da seguinte
+maneira:
+                                      Começo                                                                 Fim da
+                                       da Fila                                                                 Fila
+                                                                         Miguel
+
+                                                   ...          ...              ...         ...
+
+                                                         Gael                           Gabriel
+
+
+Agora, vamos inserir nessa imagem, as informações passadas pelo enunciado.
+
+- (i) Há o mesmo número de pessoas antes de Gael e depois de Gabriel.
+Como não sabemos que número é esse, vamos chamá-lo de "x".
+
+                                  Começo                                                                         Fim da
+                                   da Fila                                                                         Fila
+                                                                           Miguel
+
+                                             ...                  ...              ...                 ...
+
+                                                          Gael                         Gabriel
+                                        "x" pessoas                                                "x" pessoas
+
+
+
+
+- (ii) Há 4 pessoas entre Gael e Miguel e (iii) Há 5 pessoas entre Miguel e Gabriel.
+
+                Começo                                                                                                               Fim da
+                 da Fila                                                                                                               Fila
+                                      Gael                              Miguel                                   Gabriel
+
+                           ...                                                                                                 ...
+
+                      "x" pessoas                    4 pessoas                             5 pessoas                       "x" pessoas
+
+
+
+Note que, ao somarmos as quantidades destacadas na figura acima, incluindo os três amigos, devemos obter
+o total de pessoas que estão na fila: 26.
+
+                   𝑥 + 4 + 5 + 𝑥 + 3 = 26                         →        2𝑥 + 12 = 36                          →          𝒙=𝟕
+
+Pronto! Observe como fica a fila:
+
+                Começo                                                                                                               Fim da
+                 da Fila                                                                                                               Fila
+                                      Gael                              Miguel                                   Gabriel
+
+                           ...                                                                                                 ...
+
+                                       8º                                13º                                      19º
+                      7 pessoas                      4 pessoas                             5 pessoas                       7 pessoas
+Com a figura esquematizada, vamos analisar as alternativas.
+
+A) Gael é o 7º da fila.
+Errado. Gael é o 8º da fila.
+
+B) Gabriel é o 20º da fila.
+Errado. Gabriel é o 19º da fila.
+
+C) Miguel é o 13º da fila.
+Certo, conforme nossa figura! É o gabarito.
+
+D) há 12 pessoas depois de Miguel.
+Errado. Há 13 pessoas (devemos contar o Gabriel também).
+
+E) há 9 pessoas entre Gael e Gabriel.
+Errado. Há 10 pessoas (devemos contar o Miguel também)
+
+Gabarito: LETRA C.
+
+7. (FGV/FUNSAÚDE-CE/2021) As funcionárias Laura, Maria, Nádia, Olívia e Paula são amigas, trabalham
+juntas no mesmo setor de uma empresa e chegam ao trabalho por volta das 9 horas. Certo dia, elas
+chegaram em momentos diferentes e constatou-se que:
+
+- Olívia não foi a primeira a chegar, mas chegou antes de Nádia.
+- Quando Laura chegou, três das amigas já tinham chegado.
+- Paula chegou antes de Maria.
+- Olívia não foi a primeira chegar e a próxima a chegar depois dela foi Nádia.
+
+É correto concluir que:
+A) Maria foi a última a chegar.
+B) Paula foi a terceira a chegar.
+C) Maria chegou antes de Laura.
+D) Nádia chegou depois de Maria.
+E) Olívia chegou depois de Laura.
+
+Comentários:
+Essa questão é até parecida com a anterior, pessoal!
+
+Vamos desenhar uma fila para visualizarmos quem chegou primeiro e quem chegou depois.
+
+
+
+                                              1ª   2ª   3ª   4ª   5ª
+
+Agora, devemos analisar as informações do enunciado. No desenho, utilizarei as iniciais dos nomes! Por
+exemplo, indicarei Laura por L, Maria por M... tudo bem?! Show!
+- Quando Laura chegou, três das amigas já tinham chegado.
+
+Com isso, Laura só pode ter sido a 4ª a chegar.
+                                                             L
+
+
+
+                                              1ª   2ª   3ª   4ª   5ª
+
+
+
+Com essa informação, já conseguimos analisar mais outra:
+
+- Olívia não foi a primeira chegar e a próxima a chegar depois dela foi Nádia.
+
+Note que se Olívia não foi a primeira a chegar, sobram
+A informação crucial aqui é perceber que chega se chega alguém depois de Olívia, então ela não pode ser a
+última. Ademais, já sabemos que ela não pode ser a primeira (1ª) e não pode ser a quarta (4ª). Para Olívia,
+só sobram a segunda e a terceira posição. Mas veja: se ela chegar em 3ª, a próxima a chegar é Laura e não
+Nádia. Com isso, a única opção para ela é ter sido a segunda a chegar.
+
+                                                    O   N    L
+
+
+
+                                              1ª   2ª   3ª   4ª   5ª
+
+
+
+- Paula chegou antes de Maria.
+
+Ora, a única posição possível para que Paula chegue antes de Maria é a 1ª.
+
+                                              P     O   N    L    M
+
+
+
+                                              1ª   2ª   3ª   4ª   5ª
+
+
+
+Pronto! Temos a ordem que as mulheres chegaram!
+
+A) Maria foi a última a chegar.
+Isso mesmo, pessoal! Aqui já está nosso gabarito.
+
+B) Paula foi a terceira a chegar.
+Errado. Paula foi a primeira a chegar.
+
+C) Maria chegou antes de Laura.
+Errado. Maria foi a última a chegar.
+
+D) Nádia chegou depois de Maria.
+Errado. Maria foi a última a chegar, com isso, ninguém chegou depois dela.
+E) Olívia chegou depois de Laura.
+Errado. Olívia chegou antes de Laura.
+
+Gabarito: LETRA A.
+
+8. (FGV/FUNSAÚDE-CE/2021) Laura, Márcia e Paula são enfermeiras e nasceram em estados diferentes.
+Uma é mineira, outra, maranhense, e, a outra, pernambucana. Sabe-se que Laura não nasceu no Nordeste
+e que Paula não nasceu em Pernambuco. É correto afirmar que
+A) Laura é pernambucana.
+B) Márcia é mineira.
+C) Paula é maranhense.
+D) Laura não é mineira.
+E) Márcia não é pernambucana.
+
+Comentários:
+Vamos analisar diretamente as informações!
+
+Se Laura não nasceu no Nordeste, então ela não pode ter nascido em Pernambuco nem no Maranhão. Com
+isso, Laura só pode ser mineira.
+
+Por sua vez, como Paula não nasceu em Pernambuco e já sabemos que Laura é a mineira, então Paula só
+pode ser a maranhense.
+
+Por eliminação das demais possibilidades, Márcia é a pernambucana.
+
+Gabarito: LETRA C.
+
+9. (FGV/FUNSAÚDE-CE/2021) Fernando, Gabriel e Hugo são médicos: um é cardiologista, outro é obstetra
+e outro é dermatologista, e dois deles são irmãos. Sabe-se que:
+
+- Fernando não é cardiologista.
+- Gabriel não é obstetra.
+- O irmão de Hugo é dermatologista.
+- O cardiologista não tem irmão.
+
+É correto concluir que:
+A) Fernando não é dermatologista.
+B) Hugo é obstetra.
+C) Gabriel é dermatologista.
+D) Hugo é cardiologista.
+E) Gabriel e Hugo são irmãos.
+
+Comentários:
+Questão boa para usarmos uma tabela!
+                                  Médicos      Especialidade     Irmãos?
+                                  Fernando
+                                   Gabriel
+                                    Hugo
+
+Com a tabela pré-esquematizada, vamos analisar as informações!
+
+- "O cardiologista não tem irmão" e "Fernando não é cardiologista"
+
+Pessoal, dentre os três médicos, dois são irmãos e o outro não é irmão de ninguém.
+
+Se o que não tem irmão é o cardiologista e Fernando não é o cardiologista, então Fernando tem um irmão!
+
+                                  Médicos      Especialidade     Irmãos?
+                                  Fernando                         Sim
+                                   Gabriel
+                                    Hugo
+
+- "O irmão de Hugo é dermatologista"
+
+Ora, se Hugo também tem um irmão, então esse irmão só pode ser o Fernando!
+
+                                  Médicos      Especialidade     Irmãos?
+                                  Fernando     Dermatologia        Sim
+                                   Gabriel                         Não
+                                    Hugo                           Sim
+
+- "Gabriel não é obstetra"
+
+Se Gabriel não é obstetra, a única possibilidade que sobra para ele é ser o cardiologista.
+
+                                  Médicos      Especialidade     Irmãos?
+                                  Fernando     Dermatologia        Sim
+                                   Gabriel      Cardiologia        Não
+                                    Hugo        Obstetrícia        Sim
+
+Com a tabela no esquema, note que Hugo é o obstetra, conforme aponta a alternativa B.
+
+Gabarito: LETRA B.
+
+10. (FGV/IMBEL/2021) Carlos, Gabriel e Mário possuem idades diferentes e torcem por times diferentes;
+um torce pelo Flamengo, outro pelo Fluminense e outro pelo Vasco. As três afirmativas sobre eles, a seguir,
+são verdadeiras:
+
+- Carlos é mais velho que o torcedor do Fluminense.
+- Gabriel torce pelo Flamengo.
+- Mário não é o mais novo.
+
+É correto concluir que
+A) Carlos é mais novo que Gabriel.
+B) Mário torce pelo Vasco.
+C) O torcedor do Vasco é o mais velho.
+D) O torcedor do Fluminense é mais velho que Carlos.
+E) Gabriel é mais velho que o torcedor do Flamengo.
+
+Comentários:
+Sempre usem tabelas para organizarem as ideias!
+
+                                  Nome            Time    "Senioridade"
+                                  Carlos
+                                  Gabriel
+                                  Mário
+
+Vamos começar por: (i) Gabriel torce pelo Flamengo.
+
+                                  Nome            Time    "Senioridade"
+                                  Carlos
+                                  Gabriel     Flamengo
+                                  Mário
+
+(ii) Carlos é mais velho que o torcedor do Fluminense.
+
+Ora, se Carlos é mais velho que o torcedor do Fluminense, então ele só pode torcer para Vasco, já que
+sabemos que Gabriel é o torcedor do Flamengo.
+
+                                  Nome           Time     "Senioridade"
+                                  Carlos        Vasco
+                                  Gabriel     Flamengo
+                                  Mário      Fluminense
+
+(iii) Mário não é o mais novo.
+
+Se Mário (que torce para o Fluminense) não é o mais novo e sabemos que Carlos é mais velho que o
+torcedor do Fluminense, então Carlos é o mais velho de todos, Mário é o do meio e Gabriel é o mais novo.
+
+
+                                  Nome           Time     "Senioridade"
+                                  Carlos        Vasco       Mais velho
+                                  Gabriel     Flamengo      Mais novo
+                                  Mário      Fluminense      Do meio
+A) Carlos é mais novo que Gabriel.
+Errado. Carlos é o mais velho.
+
+B) Mário torce pelo Vasco.
+Errado. Mário torce pelo Fluminense.
+
+C) O torcedor do Vasco é o mais velho.
+Correto! Aqui está nosso gabarito. Carlos é o mais velho e é o torcedor do Vasco.
+
+D) O torcedor do Fluminense é mais velho que Carlos.
+Errado. Carlos é o mais velho.
+
+E) Gabriel é mais velho que o torcedor do Flamengo.
+Errado. Gabriel é o mais novo.
+
+Gabarito: LETRA C.
+
+11. (FGV/PREF. SALVADOR/2019) Ana, Bela, Carla e Dora estão sentadas em volta de uma mesa quadrada
+em cadeiras numeradas de 1 a 4, como mostra a figura a seguir.
+
+
+
+
+Sabe-se que:
+- Ana não está em frente a Bela.
+- Bela tem Carla a sua esquerda.
+- Ana e Dora estão nas cadeiras pares.
+
+Considere as afirmativas:
+I. Bela está na cadeira 3.
+II. Ana está à direita de Dora.
+III. Carla está em frente a Dora.
+IV. Dora está na cadeira 2.
+
+Dentre as afirmativas acima,
+a) nenhuma é verdadeira.
+b) apenas uma é verdadeira.
+c) apenas duas são verdadeiras.
+d) apenas três são verdadeiras.
+e) todas são verdadeiras
+Comentários:
+Inicialmente, devemos destacar uma informação muito importante: Ana e Dora estão nas cadeiras pares.
+Quando o enunciado nos informa isso, ele reduz bastante as nossas possibilidades. Agora, podemos nos
+concentrar em apenas duas:
+
+                                i) Ana está na cadeira 4 e Dora na cadeira 2.
+                                                     ou
+                               ii) Ana está na cadeira 2 e Dora na cadeira 4.
+
+Vamos começar analisando a primeira possibilidade: Ana está na cadeira 4 e Dora na cadeira 2. A distribuição
+na mesa ficaria a seguinte:
+
+
+
+
+O enunciado também informa que Ana não está na frente de Bela. A única saída para isso é que Bela esteja
+ocupando a cadeira 1. Consequentemente, Carla ocupará a cadeira 3.
+
+
+
+
+Do enunciado, Bela tem Carla à sua esquerda. Mas, considerando a possibilidade (i), Bela terá Carla à sua
+direita. Logo, chegaríamos a uma situação não válida. Agora, vamos voltar um pouco atrás e considerar a
+possibilidade (ii)!! Nela, Ana está na cadeira 2 e Dora na cadeira 4.
+
+
+
+
+Ana continua não podendo ter na sua frente Bela. Para isso, Bela deve ocupar a cadeira 3 e deixar a cadeira
+1 para Carla. Ficamos com a seguinte disposição:
+Observe que agora temos Carla à esquerda de Bela e a situação obedece todas as três condições do
+enunciado. Agora, vamos partir para a análise dos itens.
+I. Bela está na cadeira 3.
+Certo. Bela terminou ocupando a cadeira 3.
+
+II. Ana está à direita de Dora.
+Errado. Ana está à esquerda de Dora.
+
+III. Carla está em frente a Dora.
+Errado. Carla está à direita de Dora.
+
+IV. Dora está na cadeira 2.
+Errado. Dora está na cadeira 4.
+
+Com isso, só há uma afirmativa verdadeira.
+
+Gabarito: LETRA B
+
+12. (FGV/PREF. SALVADOR/2019) Sobre uma mesa, há 3 caixas coloridas: uma verde, uma amarela e uma
+azul. Três bolas, numeradas com 1, 2 e 3, foram colocadas uma em cada caixa. Sabe-se que a bola 3 não
+está na caixa amarela e que a bola da caixa azul é a de número par. Estão nas caixas verde, amarela e azul,
+nessa ordem, as bolas
+a) 1, 2 e 3.
+b) 1, 3 e 2.
+c) 2, 1 e 3.
+d) 3, 2 e 1.
+e) 3, 1 e 2.
+
+Comentários:
+Vamos extrair as principais informações do enunciado:
+- A bola 3 não está na caixa amarela;
+- A bola da caixa azul é a de número par.
+
+Se a bola 3 não está na caixa amarela, podemos representar essa informação assim:
+
+                                             Caixa       Bola
+                                                          3
+                                          Amarela
+
+
+O único número par entre os números 1, 2 e 3, é o número 2. Logo, se a bola 2 está na caixa azul, nossa
+pequena tabela fica assim:
+
+                                            Caixa        Bola
+                                                          3
+                                          Amarela
+                                           Azul           2
+
+Com isso, sobra apenas a bola 1 para a caixa amarela e a bola 3 para a caixa verde.
+
+                                           Caixa         Bola
+                                           Verde          3
+                                          Amarela         1
+                                            Azul          2
+
+Portanto, a ordem pedida é 3, 1 e 2.
+
+Gabarito: LETRA E.
+
+13. (FGV/PREF. SALVADOR/2019) Manoel, Augusto, Joaquim, Carlos e Valdo marcaram hora e lugar para
+uma reunião. Todos chegaram, mas em horários ligeiramente diferentes. Sabe-se que:
+
+- Augusto chegou antes de Valdo e de Joaquim, mas não foi o primeiro a chegar.
+- Valdo chegou depois de Joaquim, mas não foi o último a chegar.
+- Carlos chegou antes de Valdo.
+
+É correto concluir que
+a) Carlos foi o segundo a chegar.
+b) Manoel foi o último a chegar.
+c) Augusto foi o terceiro a chegar.
+d) Joaquim foi o último a chegar.
+e) Valdo foi o terceiro a chegar.
+
+Comentários:
+Pessoal, questões de ordem de chegada podem ser um pouquinho mais chatas. Isso acontece, pois, muitos
+alunos podem sentir dificuldades em fazer suposições. Vamos superar isso! Toda vida que você precisar
+determinar uma ordem, tente seguir o raciocínio que vamos desenvolver nessa questão.
+
+                                         Ordem de
+                                                        Nome
+                                         Chegada
+                                            1º
+                                            2º
+                                             3º
+                                             4º
+                                             5º
+
+Essa tabela vai ser dinâmica! Em outras palavras, significa que faremos alterações à medida que novos fatos
+"são descobertos". A primeira informação trazida pelo enunciado é:
+
+             Augusto chegou antes de Valdo e de Joaquim, mas não foi o primeiro a chegar.
+
+Augusto não foi o primeiro, mas chegou antes de dois colegas. Podemos supor a seguinte configuração
+inicial:
+                                       Ordem de
+                                                     Nome
+                                       Chegada
+                                          1º
+                                          2º        Augusto
+                                          3º         Valdo
+                                          4º        Joaquim
+                                          5º
+
+Veja que a tabela está coerente com a primeira informação passada. Vamos à segunda: Valdo chegou depois
+de Joaquim, mas não foi o último a chegar. Perceba que na nossa tabela, Valdo está chegando antes de
+Joaquim, precisamos inverter isso.
+
+                                          Ordem de
+                                                        Nome
+                                          Chegada
+                                             1º
+                                             2º        Augusto
+                                             3º        Joaquim
+                                             4º         Valdo
+                                             5º
+
+Agora, a tabela também está coerente com a segunda informação. Valdo chegou depois de Joaquim e ele
+não é o último! Vamos a terceira e última informação trazida pelo enunciado: Carlos chegou antes de Valdo.
+
+Se Carlos chegou antes de Valdo, então ele deve ter chegado, obrigatoriamente, em primeiro lugar. Imagine,
+por um instante, que Carlos tivesse chegado em segundo, em terceiro ou em quarto. Qualquer um desses
+fatos empurraria Valdo para a última posição. Observe:
+
+      Ordem de                                                                        5º         Valdo
+                     Nome
+      Chegada                               Ordem de
+                                                           Nome
+         1º                                 Chegada                               Ordem de
+                                                                                                 Nome
+         2º          Carlos                    1º                                 Chegada
+         3º         Augusto                    2º         Augusto                    1º
+         4º         Joaquim                    3º          Carlos                    2º         Augusto
+         5º          Valdo                     4º         Joaquim                    3º         Joaquim
+          4º         Carlos                     5º       Valdo
+
+A única opção é Carlos chegando primeiro. Ademais, sobra uma única possibilidade para Manoel.
+
+                                           Ordem de
+                                                      Nome
+                                           Chegada
+                                              1º       Carlos
+                                              2º      Augusto
+                                              3º      Joaquim
+                                              4º       Valdo
+                                              5º      Manoel
+Vamos analisar as alternativas.
+a) Carlos foi o segundo a chegar.
+Errado. Carlos foi o primeiro a chegar.
+
+b) Manoel foi o último a chegar.
+Certo. Manoel foi o último a chegar.
+
+c) Augusto foi o terceiro a chegar.
+Errado. Augusto foi o segundo a chegar.
+
+d) Joaquim foi o último a chegar.
+Errado. Joaquim foi o terceiro a chegar.
+
+e) Valdo foi o terceiro a chegar.
+Errado. Valdo foi o quarto a chegar.
+
+Gabarito: LETRA B.
+
+14. (FGV/IBGE/2019) André, Bento, Cláudio e Diogo estão sentados em volta de uma mesa quadrada e,
+entre os quatro, há dois cozinheiros, um músico e um pintor. Sabe-se que:
+
+- Os cozinheiros estão um ao lado do outro.
+- Bento é músico e está ao lado de André.
+- Diogo é cozinheiro e tem Bento à sua esquerda.
+
+É correto afirmar que:
+a) André está à esquerda de Cláudio;
+b) Diogo está à direita de André;
+c) André é cozinheiro;
+d) Bento está em frente ao pintor;
+e) O pintor tem Cláudio à sua esquerda.
+
+Comentários:
+Devemos organizar as pessoas em volta de uma mesa quadrada. Vamos usar as informações do enunciado.
+Se os cozinheiros estão um ao lado do outro, uma formação possível seria:
+Agora, vamos duas informações: "Bento é músico" e "Diogo é o cozinheiro e tem Bento à sua esquerda". Isso
+acontece, pois, o único cozinheiro com a esquerda livre é da ponta direita. Observe:
+
+
+
+
+Note que Diogo não poderia ser o outro cozinheiro, pois a sua esquerda seria ocupada por um cozinheiro.
+Aproveitamos para destacar que sobrou a esquerda de Bento para o pintor. Da segunda informação, temos
+que Bento está do lado de André. Logo, ele só poderá ser o pintor. Ficamos com a seguinte configuração:
+
+
+
+
+Agora, vamos analisar as alternativas.
+a) André está à esquerda de Cláudio;
+Errado. André está à esquerda de Bento.
+
+b) Diogo está à direita de André;
+Errado. Diogo está à direita de Cláudio.
+
+c) André é cozinheiro;
+Errado. André é pintor.
+
+d) Bento está em frente ao pintor;
+Errado. Bento está em frente ao cozinheiro.
+
+e) O pintor tem Cláudio à sua esquerda.
+Certo. O pintor, de fato, tem Cláudio à sua esquerda.
+
+Gabarito: LETRA E.
+
+15. (FGV/CGM-Niterói/2018) Milton coordena a equipe de analistas formada por Sérgio, Elisa, Lúcia e
+Valdo. Para a reunião do fim da tarde de sexta-feira, cada uma dessas cinco pessoas chegou num horário
+diferente. Sabe-se que:
+- Milton não foi o último a chegar e Sérgio não foi o primeiro.
+- Quando Lúcia chegou, Sérgio e Elisa já estavam, mas Milton não tinha chegado.
+
+Considere as afirmações:
+
+I. Sérgio foi o segundo a chegar.
+II. Valdo chegou antes de Milton.
+III. Lúcia foi a quarta pessoa a chegar.
+
+São verdadeiras:
+a) I, somente.
+b) II, somente.
+c) II e III, somente.
+d) I e III, somente.
+e) I, II e III.
+
+Comentários:
+Essa é mais uma questão de fila/ordem de chegada. Vamos utilizar a nossa tabela dinâmica.
+
+                                           Ordem de
+                                                         Nome
+                                           Chegada
+                                              1º
+                                              2º
+                                              3º
+                                              4º
+                                              5º
+
+A primeira informação que temos é:
+
+                        Milton não foi o último a chegar e Sérgio não foi o primeiro.
+
+Se isso é verdade, então uma configuração possível é a seguinte:
+
+                                           Ordem de
+                                                         Nome
+                                           Chegada
+                                              1º
+                                                2º          Sérgio
+                                                3º          Milton
+                                                4º
+                                                5º
+
+Note que Sérgio não é o primeiro e Milton não é o último! É uma configuração que obedece o que nos foi
+passado pelo enunciado. Não é a única possível, você poderia ter pensado em outras sem problema algum.
+As correções que faremos seriam diferentes, mas o resultado final seria o mesmo. A segunda informação
+que temos é:
+
+             Quando Lúcia chegou, Sérgio e Elisa já estavam, mas Milton não tinha chegado.
+Opa! Se Lúcia chegou depois de Sérgio e Elisa, então ela foi a 3ª a chegar. Nessa situação, Milton deve descer
+para o "4º lugar", já que Lúcia não o encontrou. Por Elisa já está na sala, ela só pode ter sido a primeira a
+chegar, já que Sérgio não pode ser. Sobrou o "último lugar" para Valdo.
+
+                                            Ordem de
+                                                            Nome
+                                            Chegada
+                                               1º            Elisa
+                                               2º           Sérgio
+                                               3º           Lúcia
+                                               4º           Milton
+                                               5º           Valdo
+
+Vamos analisar as afirmativas.
+I. Sérgio foi o segundo a chegar.
+Certo. De fato, Sérgio foi o segundo a chegar na reunião.
+
+II. Valdo chegou antes de Milton.
+Errado. Valdo chegou por último.
+
+III. Lúcia foi a quarta pessoa a chegar.
+Errado. Lúcia foi a terceira pessoa a chegar.
+
+Gabarito: LETRA A
+
+16. (FGV/BANESTES/2018) Sandro, Cláudio e Valter trabalham na mesma empresa e torcem por times
+diferentes: um é flamenguista, outro é vascaíno, e outro é tricolor. Certo dia, eles chegaram ao trabalho
+em horários diferentes e a secretária anotou:
+
+- Sandro chegou depois do flamenguista.
+- Valter não foi o primeiro a chegar.
+
+Sabendo que Cláudio é vascaíno, é correto concluir que:
+a) Cláudio foi o primeiro a chegar;
+b) Valter é tricolor;
+c) Sandro chegou antes que Cláudio;
+d) Cláudio chegou depois que o flamenguista;
+e) o vascaíno chegou depois que Sandro.
+
+Comentários:
+Resolveremos esse exercício por meio de uma tabela. Note que temos que associar três informações: a
+ordem de chegada, o nome e o time.
+
+                                   Ordem de
+                                                 Nome         Time
+                                   Chegada
+
+
+
+
+Vamos agora tentar preenchê-la a partir das informações passadas.
+
+                                 Sandro chegou depois do flamenguista.
+
+Se Sandro chegou depois do flamenguista, ele não pode ser o flamenguista. Logo:
+
+                                   Ordem de
+                                                 Nome         Time
+                                   Chegada
+                                                 Sandro
+                                                            Flamengo
+
+
+Apesar de saber que Sandro chegou depois, ainda não conseguimos cravar a ordem de chegada deles. Vamos
+usar mais uma informação: Cláudio é vascaíno. Com isso, Valter como flamenguista e Sandro como tricolor.
+
+                                  Ordem de
+                                                 Nome         Time
+                                  Chegada
+                                                Sandro     Fluminense
+                                                 Valter     Flamengo
+                                                Cláudio       Vasco
+
+Se Valter não foi o primeiro e Sandro chegou depois do Flamenguista (que é Valter), então:
+
+                                  Ordem de
+                                                 Nome         Time
+                                  Chegada
+                                     3º         Sandro     Fluminense
+                                     2º          Valter     Flamengo
+                                     1º         Cláudio       Vasco
+Analisando as alternativas:
+a) Cláudio foi o primeiro a chegar;
+Certo. Essa afirmativa está condizente com as informações do nosso quadro.
+b) Valter é tricolor;
+Errado. Sandro é tricolor.
+
+c) Sandro chegou antes que Cláudio;
+Errado. Sandro chegou depois de Cláudio.
+
+d) Cláudio chegou depois que o flamenguista;
+Errado. Cláudio foi o primeiro a chegar.
+
+e) o vascaíno chegou depois que Sandro.
+Errado. O vascaíno (Cláudio) foi o primeiro a chegar.
+
+Gabarito: LETRA A
+
+17. (FGV/BANESTES/2018) Mário, que mora em Vitória, está reunido com os amigos Fábio, Hélio e Sérgio,
+sentados em volta de uma mesa quadrada. Entre os seus amigos, um mora em Guarapari, outro em
+Colatina e outro em Linhares. Sabe-se que:
+
+- Fabio está à direita de Mário.
+- Hélio está à direita de quem mora em Guarapari.
+- Sérgio não mora em Colatina e está em frente a Fábio.
+
+É correto concluir que:
+a) Fábio mora em Guarapari e Sérgio em Linhares;
+b) Fábio mora em Colatina e Sérgio em Linhares;
+c) Fábio mora em Linhares e Sérgio em Guarapari;
+d) Hélio mora em Colatina e Sérgio em Guarapari;
+e) Hélio mora em Linhares e Sérgio em Guarapari.
+
+Comentários:
+Questões com mesas quadradas são bem comuns na FGV! Confira aqui a resolução de mais uma! O primeiro
+passo é imaginar essa tal mesa:
+
+
+
+
+Agora, vamos tentar dispor as pessoas na mesa de acordo com as informações que são passadas. A primeira
+que temos é: Fabio está à direita de Mário.
+Concordam comigo que essa é uma situação possível? A próxima informação que conseguimos usar é: Sérgio
+não mora em Colatina e está em frente a Fábio. Se Sérgio está na frente de Fábio, então Hélio está na frente
+de Mário. Observe:
+
+
+
+
+Conseguimos descobrir onde cada um está sentado, resta saber em qual cidade cada um mora (com exceção
+de Mário que já sabemos, do enunciado, que mora em Vitória). Para isso, vamos utilizar que: Hélio está à
+direita de quem mora em Guarapari. Ora, Hélio está à direita de Fábio. Logo, Fábio é quem mora em
+Guarapari.
+
+
+
+
+Como Sérgio não mora em Colatina, essa opção sobra para Hélio. Com isso, Sérgio mora em Linhares.
+Gabarito: LETRA A
+
+18. (FGV/BANESTES/2018) Três pessoas com idades de 30, 40 e 50 anos estão sentadas em três poltronas,
+uma ao lado da outra, como na figura. Uma poltrona é preta, outra é azul e outra é marrom. Sabe-se que:
+
+
+
+
+- A pessoa mais velha não está na poltrona preta.
+- A pessoa da poltrona do meio é mais jovem que a da poltrona da direita.
+- A poltrona marrom está à direita da ocupada pela pessoa mais velha.
+
+É correto concluir que:
+a) a poltrona do meio está ocupada pela pessoa de 40 anos;
+b) a poltrona azul está imediatamente à esquerda da preta;
+c) a pessoa mais jovem está na poltrona marrom;
+d) a pessoa de 40 anos é vizinha da que está na poltrona azul;
+e) a poltrona preta é a do meio.
+
+Comentários:
+Devemos associar três pessoas a partir de suas idades com as cores das poltronas que cada um está sentado.
+Vamos usar uma tabela para nos auxiliar.
+
+                                                        Cor da
+                                             Idade
+                                                       Poltrona
+
+
+
+
+A primeira informação que temos é: A pessoa mais velha não está na poltrona preta. Logo,
+
+                                                          Cor da
+                                            Idade
+                                                         Poltrona
+                                           50 anos
+                                                          Preta
+
+
+A próxima informação que podemos usar para completar nossa tabela é: A poltrona marrom está à direita
+da ocupada pela pessoa mais velha. Esse fato permite concluir que a poltrona marrom não está sendo
+ocupada pela pessoa mais velha. Logo,
+
+                                                          Cor da
+                                            Idade
+                                                         Poltrona
+                                           50 anos         Azul
+                                                          Preta
+                                                         Marrom
+Note que sobrou apenas a poltrona azul para a pessoa mais velha. Além disso, como a poltrona marrom está
+à direita da azul (ocupada pela pessoa mais velha), então a poltrona azul só poderá ser a central ou a da
+esquerda. Vamos agora usar informações sobre a ordem das poltronas para nos auxiliar.
+
+Sabemos que: A pessoa da poltrona do meio é mais jovem que a da poltrona da direita. Se a pessoa da
+poltrona do meio é mais jovem que alguém, então ela não é a mais velha. Com isso, já podemos descartar a
+possibilidade de que a poltrona do meio seja a azul. Sobra apenas a poltrona da esquerda. Logo:
+
+
+
+
+Ademais, como a pessoa que está na poltrona do meio é mais jovem do que a pessoa da poltrona da direita,
+então ela será a mais jovem entre os três. Somando isso ao fato de que a poltrona da direita está à direita
+da pessoa mais velha, então:
+
+
+
+
+Analisando as alternativas.
+a) a poltrona do meio está ocupada pela pessoa de 40 anos;
+Errado. A poltrona do meio está ocupada pela pessoa de 30 anos.
+
+b) a poltrona azul está imediatamente à esquerda da preta;
+Errado. A poltrona marrom está imediatamente à esquerda da preta.
+
+c) a pessoa mais jovem está na poltrona marrom;
+Certo. A pessoa de 30 anos está na poltrona marrom.
+
+d) a pessoa de 40 anos é vizinha da que está na poltrona azul;
+Errado. A pessoa de 40 anos é vizinha da que está na poltrona marrom.
+
+e) a poltrona preta é a do meio.
+Errado. A poltrona marrom é a do meio.
+
+Gabarito: LETRA C
+
+19. (FGV/TJ-SC/2018) Maria é mais nova que Roberta e Joana é mais velha que Sílvia, que tem a mesma
+idade de Roberta. É correto concluir que:
+a) Maria é mais velha que Sílvia;
+b) Roberta é mais jovem que Joana;
+c) Maria é mais velha que Joana;
+d) Sílvia é mais jovem que Maria;
+e) Maria e Joana têm a mesma idade.
+Comentários:
+Temos quatro pessoas: Maria, Roberta, Joana e Sílvia. O desafio da questão é descobrir quem é mais velha
+(ou mais jovem) do que quem. O primeiro fato que chama atenção é que Sílvia tem a mesma idade de
+Roberta. Sendo isso verdade e sabendo que Maria é mais nova que Roberta, então Maria é mais nova do
+que Sílvia também. Além disso, se Joana é mais velha do que Sílvia, então Joana também é mais velha do
+que Roberta (lembre-se: Roberta e Sílvia possuem a mesma idade!). Vamos organizar essas informações.
+
+•   Sílvia tem a mesma idade de Roberta!
+
+•   Maria é mais nova que Roberta. Logo, Maria é mais nova do Sílvia. (Obs.: note que nossa conclusão é
+    equivalente a dizer que Sílvia é mais velha que Maria)
+•   Joana é mais velha que Sílvia. Logo, Joana é mais velha que Roberta. (Obs.: note que nossa conclusão é
+    equivalente a dizer que Roberta é mais nova que Joana - temos exatamente esse gabarito)
+
+Gabarito: LETRA B
+
+20. (FGV/MPE-AL/2018) Gabriel, Lucas e Mateus trabalham na mesma empresa em Maceió, mas cada um
+nasceu em uma cidade diferente. Um nasceu em Atalaia, outro em Coruripe e outro em Penedo. Sabe-se
+que Gabriel não nasceu em Penedo e Mateus nasceu em Coruripe. É correto afirmar que
+a) Gabriel nasceu em Coruripe.
+b) Gabriel nasceu em Atalaia.
+c) Lucas não nasceu em Penedo.
+d) Lucas nasceu em Atalaia.
+e) Mateus nasceu em Penedo.
+
+Comentários:
+Questão que precisamos associar cada uma das pessoas a sua cidade natal. Vamos montar uma tabela.
+
+                                                       Cidade
+                                            Nome
+                                                        Natal
+
+
+
+
+A primeira informação que temos é que Gabriel não nasceu em Penedo. Logo,
+
+                                                       Cidade
+                                            Nome
+                                                        Natal
+                                           Gabriel
+                                                       Penedo
+
+
+A segunda informação é que Mateus nasceu em Coruripe. Logo,
+                                                       Cidade
+                                           Nome
+                                                        Natal
+                                          Gabriel
+                                                       Penedo
+                                          Mateus       Coruripe
+
+Sobrou apenas o nome de Lucas, para a cidade de Penedo e a cidade de Atalaia para Gabriel.
+
+                                         Nome       Cidade Natal
+                                         Gabriel       Atalaia
+                                          Lucas        Penedo
+                                         Mateus       Coruripe
+Analisando as alternativas:
+a) Gabriel nasceu em Coruripe.
+Errado. Gabriel nasceu em Atalaia.
+
+b) Gabriel nasceu em Atalaia.
+Certo. De fato, foi exatamente isso que encontramos.
+
+c) Lucas não nasceu em Penedo.
+Errado. Lucas nasceu em Penedo.
+
+d) Lucas nasceu em Atalaia.
+Errado. Lucas nasceu em Penedo.
+
+e) Mateus nasceu em Penedo.
+Errado. Mateus nasceu em Coruripe.
+
+Gabarito: LETRA B
+
+21. (FGV/COMPESA/2018) Ana, Cecília, Laura, Maria e Tânia são meninas com idades diferentes. Sabe-se
+que Laura é mais velha que Cecília, mas é mais nova que Ana. Por sua vez, Ana é mais nova que Maria, que
+é mais velha que Tânia, que é mais velha que Laura. É correto concluir que
+a) Tânia é mais nova que Ana.
+b) Laura é mais velha que Tânia.
+c) Cecília é mais nova que Tânia.
+d) Maria não é a mais velha das cinco meninas.
+e) Cecília é mais velha que Ana.
+
+Comentários:
+Vamos organizar as informações:
+
+i) Laura é mais velha que Cecília;
+ii) Laura é mais nova que Ana;
+iii) Ana é mais nova que Maria;
+iv) Maria é mais velha que Tânia;
+v) Tânia é mais velha que Laura.
+
+Primeiro, vamos pegar as informações (i) e (ii). Note que se Laura é mais velha que Cecília e mais nova que
+Ana, então Ana é a mais velha das três. Podemos esquematizar da seguinte forma:
+
+                                   Mais nova                              Mais velha
+
+
+                                          Cecília         Laura         Ana
+
+Usaremos agora a informação (iii): Ana é mais nova que Maria.
+
+
+
+                              Mais nova                                          Mais velha
+
+
+                                   Cecília        Laura           Ana           Maria
+
+Agora, usaremos as duas últimas informações (iv) e (v). Note que Maria é mais velha que Tânia e Tânia é mais
+velha que Laura. Temos duas possibilidades:
+                       Mais nova                                                        Mais velha
+
+
+                           Cecília        Laura           Ana           Tânia        Maria
+
+
+                       Mais nova                                                        Mais velha
+
+
+                           Cecília        Laura           Tânia         Ana          Maria
+
+Veja que não sabemos se Tânia é mais velha ou não que Ana. Vamos analisar as alternativas conscientes
+desse fato.
+
+a) Tânia é mais nova que Ana.
+Errado. Observe que as duas possibilidades que geramos é em virtude desse impasse. Não há como concluir
+isso baseando-se apenas nas informações passadas pelo enunciado.
+
+b) Laura é mais velha que Tânia.
+Errado. O enunciado é explícito quando diz que Tânia é mais velha que Laura.
+
+c) Cecília é mais nova que Tânia.
+Certo. Cecília é mais nova que qualquer uma das meninas.
+
+d) Maria não é a mais velha das cinco meninas.
+Errado. Maria é a mais velha das cinco meninas.
+e) Cecília é mais velha que Ana.
+Errado. Cecília é a mais nova das meninas.
+
+Gabarito: LETRA C
+
+22. (FGV/COMPESA/2018) Tiago, Milton e Jonas são amigos. Dois deles moram em apartamentos vizinhos
+e o outro mora em uma casa. Certo dia, os três foram a um restaurante e um pediu pizza, outro pediu
+massa e o outro pediu bife. Sabe-se que:
+
+- Tiago não pediu pizza.
+- Milton não pediu massa.
+- O vizinho de Jonas pediu bife.
+- Quem mora em uma casa pediu pizza.
+É correto concluir que
+a) Tiago pediu massa.
+b) Jonas pediu massa.
+c) Milton pediu bife.
+d) Jonas pediu pizza.
+e) Tiago pediu pizza.
+
+Comentários:
+Temos que estabelecer uma associação entre amigos, moradia e comida. Vamos desenhar uma tabela.
+
+                                  Amigo      Comida         Moradia
+
+
+
+
+Se Tiago não pediu pizza e quem mora em uma casa pediu pizza, temos:
+
+                                  Amigo      Comida         Moradia
+                                  Tiago
+                                               Pizza          Casa
+
+
+Logo, os outros dois moram em apartamento:
+
+                                  Amigo      Comida         Moradia
+                                  Tiago                   Apartamento
+                                               Pizza          Casa
+                                                          Apartamento
+
+Se o vizinho de Jonas pediu bife, significa que Jonas tem um vizinho e que ele, portanto, mora em
+apartamento. O vizinho de Jonas será o Tiago. Com isso, conseguimos completar a tabela
+
+                                  Amigo      Comida         Moradia
+                                    Tiago         Bife        Apartamento
+                                    Milton       Pizza            Casa
+                                    Jonas        Massa        Apartamento
+
+Vamos analisar as alternativas.
+a) Tiago pediu massa.
+Errado. Tiago pediu bife.
+
+b) Jonas pediu massa.
+Certo. De fato, Jonas pediu massa. É a nossa alternativa.
+
+c) Milton pediu bife.
+Errado. Milton pediu pizza.
+d) Jonas pediu pizza.
+Errado. Jonas pediu massa.
+
+e) Tiago pediu pizza.
+Errado. Tiago pediu bife.
+
+Gabarito: LETRA B
+
+23. (FGV/TRT-12/2017) Davi, João, Pedro, Artur e Gabriel são amigos, possuem idades diferentes e vão
+fazer uma fila em ordem crescente das idades. Sabe-se que:
+
+- Davi é mais jovem que Gabriel e que Pedro, mas não é o mais jovem de todos.
+- Gabriel é mais velho que Pedro, mas não é o mais velho de todos.
+- Artur é mais jovem que Pedro.
+
+É correto concluir que:
+a) Artur está no segundo lugar da fila;
+b) Davi está no terceiro lugar da fila;
+c) Pedro está no quarto lugar da fila;
+d) Gabriel está no terceiro lugar da fila;
+e) João está no último lugar da fila.
+
+Comentários:
+Davi é mais jovem que Gabriel e Pedro, mas não é o mais jovem. Podemos esquematizar uma possibilidade
+para essa situação, observe:
+
+                              Mais novo                             Mais velho
+
+
+                                              Davi       Gabriel   Pedro
+
+A segunda informação diz que Gabriel é mais velho que Pedro, mas não é o mais velho. Vamos reorganizar
+nosso esquema:
+                        Mais novo                                           Mais velho
+
+
+                                         Davi        Pedro        Gabriel
+
+Por fim, Artur é mais jovem do que Pedro. Logo, ele deve ser o mais novo, já que Davi não pode ser. Além
+disso, sobrou a posição de mais velho para João.
+                        Mais novo                                           Mais velho
+
+
+                             Artur       Davi        Pedro        Gabriel   João
+
+A fila é organizada em ordem crescente de idade, logo:
+                        Mais novo                                           Mais velho
+
+
+                             Artur       Davi        Pedro        Gabriel   João
+                              1º          2º          3º            4º       5º
+
+Vamos analisar as alternativas.
+a) Artur está no segundo lugar da fila;
+Errado. Artur está no primeiro lugar da fila.
+
+b) Davi está no terceiro lugar da fila;
+Errado. Davi está no segundo lugar da fila.
+
+c) Pedro está no quarto lugar da fila;
+Errado. Pedro está no terceiro lugar da fila.
+
+d) Gabriel está no terceiro lugar da fila;
+Errado. Gabriel está no quarto lugar da fila.
+
+e) João está no último lugar da fila.
+Certo. João está no último lugar da fila, pois, é o mais velho.
+
+Gabarito: LETRA E
+
+24. (FGV/IBGE/2017) O apresentador de um programa de auditório mostra no palco três portas,
+numeradas com 1, 2 e 3, e diz que atrás de cada uma delas há um prêmio: uma bicicleta, uma geladeira e
+um computador, não necessariamente nessa ordem. O apresentador sorteará uma pessoa do auditório,
+que deve escolher uma das portas e levar o seu prêmio. Entretanto, se com as informações recebidas do
+apresentador a pessoa puder deduzir que objeto há atrás de cada porta, ela ganhará todos os prêmios. As
+informações do apresentador são:
+
+- A geladeira não está na porta 1.
+- A bicicleta e a geladeira não estão em portas com números consecutivos.
+Então, é correto afirmar que:
+a) a geladeira está na porta 2;
+b) o computador está na porta 1;
+c) a bicicleta está na porta 3;
+d) a bicicleta está na porta 2;
+e) o computador está na porta 2.
+
+Comentários:
+Precisamos relacionar o prêmio com a porta em que ele deve estar. Para isso, podemos usar uma pequena
+tabela.
+
+
+                                           Porta     Prêmio
+
+
+
+
+A geladeira não está na porta 1.
+
+                                           Porta     Prêmio
+                                             1
+                                                    Geladeira
+
+
+A bicicleta e a geladeira não estão em portas com números consecutivos. Entre os números das portas, os
+únicos que não são consecutivos são 1 e 3. Logo, como já sabemos que a geladeira não está na 1, ela só
+poderá estar na porta 3. Consequentemente, a bicicleta estará na 1.
+
+                                           Porta     Prêmio
+                                             1      Bicicleta
+                                             3      Geladeira
+
+
+Observe que sobrou o computador para a porta 2.
+
+                                         Porta       Prêmio
+                                           1         Bicicleta
+                                           3        Geladeira
+                                           2       Computador
+
+Gabarito: LETRA E
+
+25. (FGV/TRT-12/2017) João é mais baixo do que Ana. Pedro não é mais baixo do que Ana. Denise não é
+mais alta do que João. É correto concluir que:
+a) Ana é mais alta do que Pedro;
+b) Pedro é mais baixo do que João;
+c) Denise é mais alta do que Ana;
+d) João é mais baixo do que Pedro;
+e) Denise é mais alta do que Pedro
+
+Comentários:
+Temos quatro pessoas que queremos organizar de acordo com a altura. Se João é mais baixo do que Ana,
+então,
+                                          Mais baixo            Mais alto
+
+
+                                                 João         Ana
+
+Se Pedro não é mais baixo do que Ana, então ele é mais alto.
+
+                                    Mais baixo                        Mais alto
+
+
+                                          João          Ana         Pedro
+
+Denise não é mais alta do que João. Logo, ela é mais baixa.
+
+                           Mais baixo                                       Mais alto
+
+
+                                 Denise          João         Ana        Pedro
+
+Podemos analisar as alternativas.
+a) Ana é mais alta do que Pedro;
+Errado. Ana é mais baixa do que Pedro.
+
+b) Pedro é mais baixo do que João;
+Errado. Pedro é o mais alto.
+
+c) Denise é mais alta do que Ana;
+Errado. Denise é a mais baixa.
+
+d) João é mais baixo do que Pedro;
+Certo. João, de fato, é mais baixo do que Pedro.
+
+e) Denise é mais alta do que Pedro
+Errado. Denise é a mais baixa.
+
+Gabarito: LETRA D
+
+26. (FGV/SEPOG-RO/2017) Paula, Gisela, Sílvia e Joana moram na mesma rua. Paula mora entre Gisela e
+Joana. Gisela mora entre Joana e Sílvia. É correto concluir que
+a) Sílvia mora entre Joana e Paula.
+b) Joana mora entre Gisela e Paula.
+c) Gisela mora entre Paula e Joana.
+d) Paula mora entre Sílvia e Gisela.
+e) Gisela mora entre Sílvia e Paula.
+
+Comentários:
+Se Paula mora entre Gisela e Joana, então podemos representar essa situação da seguinte forma:
+
+
+
+
+Se Gisela mora entre Joana e Sílvia, então:
+
+
+
+
+Vamos analisar as alternativas.
+a) Sílvia mora entre Joana e Paula.
+Errado. Sílvia não mora entre nenhuma das amigas, "ela está na ponta".
+
+b) Joana mora entre Gisela e Paula.
+Errado. Joana também não mora entre amigas, "ela está na outra ponta".
+
+c) Gisela mora entre Paula e Joana.
+Errado. Gisela mora entre Sílvia e Paula.
+
+d) Paula mora entre Sílvia e Gisela.
+Errado. Paula mora entre Gisela (ou Sílvia) e Joana.
+
+e) Gisela mora entre Sílvia e Paula.
+Certo. Gisela mora entre Sílvia e Paula, assim como está representado no nosso esquema acima.
+
+Gabarito: LETRA E
+
+27. (FGV/PREF. SALVADOR/2017) Alice, Bruno, Carlos e Denise são as quatro primeiras pessoas de uma
+fila, não necessariamente nesta ordem. João olha para os quatro e afirma:
+
+- Bruno e Carlos estão em posições consecutivas na fila;
+- Alice está entre Bruno e Carlos na fila.
+
+Entretanto, as duas afirmações de João são falsas. Sabe-se que Bruno é o terceiro da fila. O segundo da
+fila é
+a) Alice.
+b) Bruno.
+c) Carlos.
+d) Denise.
+e) João.
+
+Comentários:
+Vamos começar pelo fato de que Bruno é o terceiro da fila.
+
+                                    1ª        2ª          3ª         4ª
+                                                        Bruno
+
+Se João mente quando diz que Bruno e Carlos estão em posição consecutivas, então Carlos só pode estar
+ocupando a primeira posição.
+
+                                     1ª       2ª          3ª         4ª
+                                   Carlos               Bruno
+
+Se João também mente quando diz que Alice está entre Bruno e Carlos, então Alice só pode estar ocupando
+a quarta posição. Com isso, resta a segunda posição da fila para Denise.
+
+                                     1ª       2ª          3ª         4ª
+                                   Carlos   Denise      Bruno       Alice
+
+Gabarito: LETRA D
+
+28. (FGV/PREF. SALVADOR/2017) Dalva, Bruna e Carla são advogadas, sendo duas delas irmãs. Cada
+advogada possui uma especialidade: uma é trabalhista; outra, civilista; e, a outra, penalista. Sabe-se que:
+
+- Dalva não é advogada trabalhista;
+- Bruna não é advogada civilista;
+- a irmã de Carla é advogada penalista;
+- a que não tem irmã nesse grupo é advogada trabalhista.
+
+É correto concluir que
+a) Dalva é advogada civilista.
+b) Carla é advogada civilista.
+c) Bruna é advogada penalista.
+d) Carla é advogada trabalhista.
+e) Bruna e Carla são irmãs.
+
+Comentários:
+Temos três mulheres em um grupo. Precisamos relacioná-las com suas respectivas especialidades e
+descobrir quem são as irmãs. Vamos utilizar uma tabela para nos auxiliar.
+
+                                     Nome     Especialidade     Relação
+A primeira informação que temos é que Dalva não é advogada trabalhista.
+
+                                    Nome      Especialidade     Relação
+                                    Dalva
+                                               Trabalhista
+
+
+Diante disso, temos uma informação que diz que quem não tem irmã é a advogada trabalhista. Logo,
+
+                                    Nome      Especialidade     Relação
+                                    Dalva                         Irmã
+                                               Trabalhista       Amiga
+                                                                  Irmã
+
+A partir daí, a segunda informação diz que a irmã de Carla é advogada penalista. Logo, a irmã de Carla só
+pode ser Dalva. Essas informações são suficientes para conseguir completar nossa tabela.
+
+                                    Nome      Especialidade     Relação
+                                    Dalva       Penalista         Irmã
+                                    Bruna      Trabalhista       Amiga
+                                    Carla        Civilista        Irmã
+
+Analisando as alternativas.
+a) Dalva é advogada civilista.
+Errada. Dalva é advogada penalista.
+
+b) Carla é advogada civilista.
+Certo. Carla é advogada civilista, conforme obtivemos na tabela acima.
+
+c) Bruna é advogada penalista.
+Errado. Bruna é advogada trabalhista.
+
+d) Carla é advogada trabalhista.
+Errado. Carla é a advogada civilista.
+
+e) Bruna e Carla são irmãs.
+Errado. Dalva e Carla são irmãs.
+
+Gabarito: LETRA B
+29. (FGV/CODEBA/2016) Certo dia, em um porto há apenas três navios, um ao lado do outro: um navio
+porta contêineres (P), um navio de carga geral (C) e um navio graneleiro (G). Além disso, pelos seus
+tamanhos, um desses navios é considerado pequeno, outro médio e outro grande. Sabe-se que:
+
+- o navio P está à esquerda do navio pequeno.
+- o navio grande está à direita do navio G.
+- o navio C não é o menor dos navios.
+
+É correto concluir que
+a) o navio G está imediatamente à esquerda do navio médio.
+b) o navio C tem tamanho pequeno.
+c) o navio grande está imediatamente à direita do médio.
+d) o navio C está à esquerda do navio G.
+e) o navio P tem tamanho médio.
+
+Comentários:
+Temos que relacionar cada navio com o seu tamanho e sua posição no porto. Uma tabela irá nos ajudar a
+organizar as informações passadas. Também faremos desenhos para determinar as posições.
+
+                                            Navio     Tamanho
+
+
+
+
+Se o navio P está à esquerda do navio pequeno, então o navio P não pode ser o navio pequeno.
+
+                        Navio     Tamanho
+                          P
+                                  Pequeno
+
+
+Se o navio grande está à direita do navio G, então o navio G é o navio pequeno. Observe:
+
+                     Navio      Tamanho
+                       P
+                      G         Pequeno
+                                 Grande
+
+Chegamos a essa conclusão descartando as outras possibilidades. Imagine que o navio grande estivesse no
+meio.
+
+
+
+
+Se fosse como representado acima, o navio grande estaria à direita do navio P e não do G.
+Se o navio grande estivesse nessa posição, ele não estaria do lado direito de nenhum navio. Logo, a única
+opção possível ele está do lado direito do navio pequeno, o que vai implicar esse navio é o G.
+
+
+
+
+Prosseguindo! Observe que nossa tabela ficou praticamente montada. Assim, vamos completá-la com as
+informações que sobraram.
+
+                    Navio     Tamanho
+                      P        Médio
+                     G        Pequeno
+                      C        Grande
+
+Assim, vamos analisar as alternativas.
+a) o navio G está imediatamente à esquerda do navio médio.
+Errado. O navio G está imediatamente à esquerda do navio grande.
+
+b) o navio C tem tamanho pequeno.
+Errado. O navio C tem tamanho grande.
+
+c) o navio grande está imediatamente à direita do médio.
+Errado. O navio grande está imediatamente à direita do pequeno.
+
+d) o navio C está à esquerda do navio G.
+Errado. O navio C está à direita do navio G.
+
+e) o navio P tem tamanho médio.
+Certo. O navio P, de fato, tem o tamanho médio.
+
+Gabarito: LETRA E
+
+30. (FGV/PREF. PAULÍNIA/2016) André, Bernardo, Caio e Delcídio estão sentados em volta de uma mesa
+quadrada e, dos quatro, dois são irmãos.
+Sabe-se que:
+- Bernardo não tem irmão e está ao lado de André;
+- Delcídio está à direita de Bernardo e tem irmão;
+- os irmãos estão um ao lado do outro.
+
+É correto afirmar que
+a) André está à esquerda de Caio.
+b) Delcídio está à direita de André.
+c) André é irmão de Delcídio.
+d) Bernardo está em frente ao irmão de Delcídio.
+e) Caio está à esquerda do seu irmão.
+
+Comentários:
+Vamos distribuir essas pessoas ao redor de uma mesa quadrada. A primeira informação que temos é que
+Bernardo não tem irmão e está ao lado de André. Observe que André deve está à esquerda de Bernardo,
+pois Delcídio está à direita.
+
+
+
+
+Veja que essas informações já nos permitiram determinar toda composição da mesa. Falta determinar quem
+são os irmãos. Sabemos que Delcídio é um dos irmãos já que o enunciado diz que "Delcídio está à direita de
+Bernardo e tem irmão". Como Bernardo não tem irmão, o irmão de Delcídio só pode ser Caio, já que os
+irmãos estão um ao lado do outro.
+Vamos analisar as afirmativas.
+a) André está à esquerda de Caio.
+Errado. André está à direita de Caio.
+
+b) Delcídio está à direita de André.
+Errado. Delcídio está à esquerda de André.
+
+c) André é irmão de Delcídio.
+Errado. Caio é irmão de Delcídio.
+
+d) Bernardo está em frente ao irmão de Delcídio.
+Certo. Bernardo está em frente ao Caio, que é irmão de Delcídio.
+
+e) Caio está à esquerda do seu irmão.
+Errado. Caio está à direita do seu irmão.
+
+Gabarito: LETRA D
+31. (FGV/PREF. PAULÍNIA/2016) Paulo, Sérgio e Mário trabalham na prefeitura da cidade e usam meios de
+transporte diferentes para ir ao trabalho: um vai com seu carro, outro vai de ônibus e outro, de bicicleta.
+Sabe-se que:
+- quem vai de carro é o mais velho dos três;
+- Sérgio não tem carro;
+- Paulo é mais novo que Sérgio e não vai de bicicleta.
+
+Assim, é correto afirmar que
+a) Sérgio é o mais velho dos três.
+b) Paulo vai de ônibus.
+c) Mário vai de bicicleta.
+d) Sérgio vai de carro.
+e) Mário é o mais novo dos três.
+
+Comentários:
+Queremos associar cada um dos funcionários da prefeitura com o meio de transporte utilizado. Além disso,
+precisamos descobrir quem é mais velho (ou mais novo) do que quem. Vamos usar uma tabela.
+                                     Nome      Transporte      Idade
+
+
+
+
+Se Sérgio não tem carro, logo
+
+                                     Nome      Transporte      Idade
+                                     Sérgio
+                                                 Carro       Mais velho
+
+
+Se Paulo é mais novo que Sérgio, então ele é o mais novo dos três. Isso acontece, pois, Sérgio não é o mais
+velho (já que não tem carro). Logo,
+
+                                   Nome       Transporte        Idade
+                                   Sérgio                   Intermediário
+                                                Carro         Mais velho
+                                    Paulo                     Mais novo
+
+Como Paulo não vai de bicicleta, ele necessariamente deve ir de ônibus. Podemos completar nossa tabela
+com as opções que sobraram.
+
+                                   Nome       Transporte     Idade
+                                   Sérgio      Bicicleta Intermediário
+                                   Mário         Carro     Mais velho
+                                   Paulo        Ônibus     Mais novo
+Vamos analisar as alternativas.
+a) Sérgio é o mais velho dos três.
+Errado. Mário é o mais velho dos três.
+
+b) Paulo vai de ônibus.
+Certo. Foi exatamente o que obtivemos com a tabela.
+
+c) Mário vai de bicicleta.
+Errado. Mário vai de carro.
+
+d) Sérgio vai de carro.
+Errado. Sérgio vai de bicicleta.
+
+e) Mário é o mais novo dos três.
+Errado. Mário é o mais velho dos três.
+
+Gabarito: LETRA B
+32. (FGV/CODEBA/2016) As letras da sigla CODEBA foram embaralhadas e a nova sequência dessas
+mesmas letras possui as seguintes propriedades:
+
+- nenhuma das 6 letras ocupa a sua posição inicial.
+- as vogais aparecem juntas, na mesma ordem que estavam: O, E, A.
+- a 5ª letra não é D.
+- a letra B aparece antes da letra C.
+
+É correto concluir que, na nova sequência,
+a) a 3ª letra é E.
+b) a 5ª letra é A.
+c) a 1ª letra é B
+d) a 4ª letra é C.
+e) a 6ª letra é D.
+
+Comentários:
+Essa questão é um pouquinho diferente das demais. Agora, temos que descobrir como essas letras estão
+após o embaralhamento. A primeira informação que devemos considerar é a seguinte:
+
+                    as vogais aparecem juntas, na mesma ordem que estavam: O, E, A.
+
+Aliado a essa informação, devemos levar em conta que nenhuma letra está ocupando sua posição inicial.
+Logo, a única configuração possível seria:
+
+                     1ª letra    2ª letra    3ª letra    4ª letra    5ª letra    6ª letra
+                        O            E          A
+
+Observe que nas possibilidades abaixo, teríamos sempre uma letra ocupando a mesma posição inicial:
+
+                     1ª letra    2ª letra    3ª letra    4ª letra    5ª letra    6ª letra
+                                    O            E          A
+
+                     1ª letra    2ª letra    3ª letra    4ª letra    5ª letra    6ª letra
+                                                O            E          A
+
+                     1ª letra    2ª letra    3ª letra    4ª letra    5ª letra    6ª letra
+                                                            O            E          A
+
+Prosseguindo! Sobrou apenas as consoantes: C, D e B. A letra D não pode ser a 5ª letra (do enunciado). Além
+disso, a letra B também não pode ser a 5ª letra (pois estaria na sua posição inicial). Logo, a 5ª letra só pode
+ser o C.
+
+                     1ª letra    2ª letra    3ª letra    4ª letra    5ª letra    6ª letra
+                        O            E          A                        C
+Por fim, foi dito que a letra B aparece antes da letra C. Logo,
+
+                     1ª letra    2ª letra    3ª letra     4ª letra   5ª letra   6ª letra
+                        O            E          A             B          C         D
+
+Podemos marcar sem medo que a 6ª letra é D.
+Gabarito: LETRA E
+
+33. (FGV/TJ-SC/2015) Pai, mãe e seu casal de filhos estão sentados em volta de uma mesa quadrada. Os
+homens chamam-se Roberto e Sérgio e as mulheres chamam-se Teresa e Fernanda. Sabe-se que:
+
+- O pai tem Fernanda à sua frente e o filho à esquerda.
+- A mãe está do lado direito de Sérgio.
+Considere as afirmações:
+
+I. A mãe chama-se Fernanda.
+II. Roberto está em frente de Teresa.
+III. O pai chama-se Sérgio.
+
+É verdadeiro somente o que se afirma em:
+a) I;
+b) II;
+c) III;
+d) I e II;
+e) II e III.
+
+Comentários:
+Mais uma questão de mesa quadrada! Vamos organizar esse pessoal.
+
+
+
+
+A primeira informação que temos é que o pai tem Fernanda à sua frente e o filho à sua esquerda.
+A próxima informação que temos é que a mãe está do lado direito de Sérgio. O único homem que está com
+o lado direito disponível é o pai. Logo, o nome do pai é Sérgio e a mesa fica definida.
+
+
+
+
+Vamos analisar as afirmações.
+I. A mãe chama-se Fernanda.
+Errado. A mãe chama-se Teresa.
+
+II. Roberto está em frente de Teresa.
+Certo. Conforme a configuração que obtivemos, Roberto está em frente de Teresa, sua mãe.
+
+III. O pai chama-se Sérgio.
+Certo. Foi exatamente o primeiro fato que descobrimos.
+
+Logo, somente II e III estão corretas.
+
+Gabarito: LETRA E
+34. (FGV/TJ-SC/2014) As amigas Ana, Bia, Clô e Dri entraram em uma lanchonete e cada uma tomou um
+suco diferente. Os sabores foram: laranja, abacaxi, manga e morango. Sabe-se que:
+
+- Nem Ana nem Bia tomaram de laranja.
+- Clô não tomou nem de abacaxi nem de manga.
+- Dri não tomou nem de abacaxi nem de morango.
+- Nem Ana nem Clô tomaram de morango.
+
+Considere as afirmações:
+I. Dri tomou suco de laranja.
+II. Ana tomou suco de abacaxi.
+III. Bia tomou suco de morango.
+IV. Clô tomou suco de manga.
+
+É correto concluir que:
+a) nenhuma das quatro afirmativas é verdadeira;
+b) apenas uma das quatro afirmativas é verdadeira;
+c) apenas duas das quatro afirmativas são verdadeiras;
+d) apenas três das quatro afirmativas são verdadeiras;
+e) as quatro afirmativas são verdadeiras
+
+Comentários:
+Vamos descobrir que suco cada amiga tomou. Para isso, utilizaremos uma tabela auxiliar.
+
+                                            Nome          Suco
+
+
+
+
+A primeira informação que temos é que nem Ana nem Bia tomaram de laranja. Logo,
+
+                                            Nome          Suco
+                                             Ana
+                                             Bia
+                                                         Laranja
+
+
+Da segunda informação, temos que Clô não tomou o de abacaxi nem o de manga. Na última informação,
+temos que Clô também não tomou o de morango. Logo, o único suco que sobrou para ele foi o de Laranja.
+Podemos, ainda, completar o quadrinho que sobrou com a Dri.
+
+                                            Nome          Suco
+                                             Ana
+                                             Bia
+                                             Clô         Laranja
+                                             Dri
+
+Da terceira informação, se a Dri não tomou nem de abacaxi nem de morango e sabendo que o Clô tomou o
+de Laranja, o único que sobrou para a Dri foi o suco de manga.
+
+                                            Nome          Suco
+                                             Ana
+                                             Bia
+                                                Clô     Laranja
+                                                Dri     Manga
+
+Sobraram os sucos de morango e abacaxi. A última informação nos diz que Bia não tomou o de morango.
+Logo, ficamos com o seguinte:
+
+                                              Nome      Suco
+                                               Ana     Abacaxi
+                                               Bia     Morango
+                                               Clô     Laranja
+                                               Dri      Manga
+
+Vamos agora analisar as informações.
+I. Dri tomou suco de laranja.
+Errado. Dri tomou suco de manga.
+
+II. Ana tomou suco de abacaxi.
+Certo. O fato está de acordo com a tabela.
+
+III. Bia tomou suco de morango.
+Certo. O fato está de acordo com a tabela.
+
+IV. Clô tomou suco de manga.
+Errado. Clô tomou suco de laranja.
+
+Logo, temos duas afirmativas verdadeiras.
+Gabarito: LETRA C
+
+35. (FGV/DPE-MT/2015) As irmãs Elsa, Flávia e Gabriela possuem alturas diferentes sendo que Elsa não é
+a mais alta e Flávia é a mais baixa. Assim, é correto afirmar que
+a) Gabriela é a mais baixa.
+b) Flavia é a mais alta.
+c) Elsa é a mais baixa.
+d) Gabriela não é nem a mais baixa nem a mais alta.
+e) Elsa não é nem a mais baixa nem a mais alta.
+Comentários:
+Vamos organizar as irmãs por altura. Vamos primeiro usar a informação que Flávia é a mais baixa.
+
+                                 Mais baixa                       Mais alta
+
+
+
+                                       Flávia
+
+Agora, se Elsa não é a mais alta, ela deve ser a intermediária, pois já sabemos que a mais baixa é Flávia. A
+posição de mais alta fica para Gabriela.
+                                  Mais baixa                            Mais alta
+
+
+
+                                        Flávia          Elsa       Gabriela
+
+Analisando as alternativas.
+a) Gabriela é a mais baixa.
+Errado. Gabriela é a mais alta.
+
+b) Flavia é a mais alta.
+Errado. Flávia é a mais baixa.
+
+c) Elsa é a mais baixa.
+Errado. Elsa possui uma altura intermediária.
+
+d) Gabriela não é nem a mais baixa nem a mais alta.
+Errado. Gabriela é a mais alta.
+
+e) Elsa não é nem a mais baixa nem a mais alta.
+Certo. É exatamente isso que chegamos, Elsa possui uma altura intermediária.
+
+Gabarito: LETRA E
+
+36. (FGV/SSP-AM/2015) Ângela, Beatriz e Carla estavam em uma academia de ginástica e foram se pesar.
+Quando Ângela e Beatriz se pesaram, somente elas mesmas viram o próprio peso, mas quando Carla se
+pesou, Ângela e Beatriz também viram o peso de Carla.
+
+Ângela disse: “Eu não sou a mais pesada” e Beatriz disse: “Eu não sou a mais leve”. As duas disseram a
+verdade, baseadas nas informações que possuíam.
+
+A ordem das três, da mais leve para a mais pesada, é:
+a) Ângela, Beatriz, Carla;
+b) Carla, Ângela, Beatriz;
+c) Ângela, Carla, Beatriz;
+d) Beatriz, Carla, Ângela;
+e) Beatriz, Ângela, Carla.
+Comentários:
+Vamos organizar as amigas em ordem de peso. Se Ângela, que viu o peso de Carla, disse que não era a mais
+pesada, então Carla é mais pesada do que Ângela.
+
+                                  Mais leve                            Mais pesada
+
+
+                                               Ângela          Carla
+Depois, Beatriz, que também viu o peso de Carla, disse que não era a mais leve. Isso significa que Carla é
+mais leve do que Beatriz (ou, equivalentemente, que Beatriz é mais pesada do que Carla). Logo,
+
+                                   Mais leve                   Mais pesada
+
+
+                                        Ângela    Carla      Beatriz
+
+Pronto, definimos a ordem da mais leve para a mais pesada, devemos apenas checar as alternativas.
+
+Gabarito: LETRA C
+
+37. (FGV/SSP-AM/2015) Arrumados em uma prateleira de uma estante há 4 livros que serão chamados de
+W, X, Y e Z. Sabe-se que W está entre Y e Z e também que Y está entre Z e X. É correto concluir que:
+a) W está entre X e Y;
+b) Y está entre W e Z;
+c) Z está entre Y e W;
+d) X está entre Z e W;
+e) Y está entre X e W.
+
+Comentários:
+Vamos determinar como estão organizados esses quatro livros na prateleira. Se W estre Y e Z, então:
+
+
+
+
+Como Y está entre X e Z, ficamos com a seguinte disposição de livros:
+
+
+
+
+Podemos agora analisar as alternativas.
+a) W está entre X e Y;
+Errado. W está entre Y e Z.
+b) Y está entre W e Z;
+Errado. Y está entre X e W (ou Z).
+
+c) Z está entre Y e W;
+Errado. Z não está entre livros.
+
+d) X está entre Z e W;
+Errado. X não está entre livros.
+e) Y está entre X e W.
+Certo. Y está entre X e Y, conforme representamos no esquema.
+
+Gabarito: LETRA E
+
+38. (FGV/DPE-RO/2015) Ana, Bia, Clara e Dulce possuem alturas diferentes e fizeram uma fila em ordem
+crescente das alturas. Sabe-se que:
+
+- Dulce é mais baixa que Clara, que não é a mais alta.
+- Ana é mais baixa que Bia, mas não é a mais baixa.
+- Ana não está entre Bia e Clara.
+
+É correto afirmar que:
+a) Ana é mais baixa que Dulce;
+b) Clara é mais alta que Bia;
+c) Dulce é mais alta que Clara;
+d) Bia é mais baixa que Ana;
+e) Ana é mais baixa que Clara.
+
+Comentários:
+Vamos organizá-las de acordo com a altura. Para começar, temos que Dulce é mais baixa que Clara e Clara
+não é a mais alta. Logo, podemos fazer a seguinte representação:
+
+                                  Mais baixa                              Mais alta
+
+
+                                          Dulce           Clara
+
+A segunda informação diz que Ana é mais baixa que Bia, mas não é a mais baixa. Vamos imaginar algumas
+possibilidades.
+
+                            Mais baixa                                            Mais alta
+
+
+                                                  Dulce           Clara
+
+Não podemos inserir Ana no quadrado da mais baixa, pois o enunciado deixou claro que ela não é. Também
+não podemos dizer que ela é a mais alta, pois ela é mais baixa do que Bia. Vamos ter que separar Dulce e
+Clara.
+
+                            Mais baixa                                            Mais alta
+
+
+                                  Dulce                           Clara
+
+Veja que Clara continua mais alta que Dulce e não sendo a mais alta. Agora, podemos colocar Ana entre
+Dulce e Clara, e Bia como a mais alta.
+                               Mais baixa                                        Mais alta
+
+
+                                     Dulce           Ana       Clara        Bia
+
+Note que temos todas as informações do enunciado satisfeitas. Portanto, podemos partir para análise das
+alternativas.
+
+a) Ana é mais baixa que Dulce;
+Errado. Ana é mais alta que Dulce.
+
+b) Clara é mais alta que Bia;
+Errado. Clara é mais baixa que Bia.
+
+c) Dulce é mais alta que Clara;
+Errado. Dulce é a mais baixa.
+
+d) Bia é mais baixa que Ana;
+Errado. Bia é a mais alta.
+
+e) Ana é mais baixa que Clara.
+Certo. Essa é uma conclusão que está conforme a ordem que encontramos.
+
+Gabarito: LETRA E
+
+39. (FGV/CM-Caruaru/2015) Cinco pessoas, chamadas Ali, Ben, Clô, Dil e Ela, estão em uma fila. São dadas
+as seguintes informações:
+
+- Ben tem como vizinhos Ela e Dil.
+- Ali não é o primeiro e Dil não é o último.
+- Clô está separada de Dil por duas pessoas.
+- Existe uma única pessoa entre Ben e Ali.
+
+Assim, é correto afirmar que
+a) Ben é o segundo da fila.
+b) Ela está entre Ben e Dil.
+c) Dil está entre Ali e Ben.
+d) Ali é o quarto da fila.
+e) Clô está atrás de Ela.
+
+Comentários:
+Vamos descobrir em que posição da fila se encontra cada uma das pessoas.
+
+                        1º da fila      2º da fila     3º da fila   4º da fila     5º da fila
+Inicialmente, sabemos que Ben tem como vizinhos Ela e Dil. Não sabemos que posições eles ocupam, vamos
+chutar uma. Nossa tabela é dinâmica. Vamos fazer ajustes sempre que tivermos uma informação nova.
+
+                         1º da fila   2º da fila   3º da fila   4º da fila   5º da fila
+                                         Ela          Ben          Dil
+
+A próxima informação que temos é Ali não é o primeiro e Dil não é o último. A posição de Dil está ok com
+esse fato, resta apenas incluir Ali na 5ª posição, já que ele não é o primeiro.
+
+                         1º da fila   2º da fila   3º da fila   4º da fila   5º da fila
+                                         Ela          Ben          Dil          Ali
+
+Nossa tabela está ok com os fatos que sabemos até aqui. Vamos prosseguir! A próxima informação é que
+Clô está separada de Dil por duas pessoas. Note que a primeira posição parece promissora.
+
+                         1º da fila   2º da fila   3º da fila   4º da fila   5º da fila
+                            Clô          Ela          Ben          Dil          Ali
+
+A última informação disse há uma única pessoa entre Ben e Ali. Na nossa fila, esse pessoa é Dil. Está tudo
+coerente! Vamos analisar as alternativas.
+
+a) Ben é o segundo da fila.
+Errado. Ben é o terceiro da fila.
+
+b) Ela está entre Ben e Dil.
+Errado. Ela está entre Clô e Ben.
+
+c) Dil está entre Ali e Ben.
+Certo. Dil é o 4º da fila e esta exatamente entre Ali e Ben.
+
+d) Ali é o quarto da fila.
+Errado. Dil é o quarto da fila.
+
+e) Clô está atrás de Ela.
+Errado. Clô não está atrás de ninguém, ele é o primeiro da fila.
+
+Gabarito: LETRA C
+
+40. (FGV/CM-Caruaru/2015) Jonas, Rubens, Carlota e Marli estão sentados em quatro cadeiras em linha,
+numeradas da esquerda para a direita, de 1 a 4. Paulo afirmou que “Rubens e Carlota estão sentados lado
+a lado” e que “Marli está sentada entre Rubens e Carlota”. As duas afirmativas de Paulo estão erradas.
+Além disso, é verdade que “Jonas não está sentado na cadeira 2”. Os que estão sentados nas cadeiras 1 e
+3 são, respectivamente,
+a) Marli e Jonas.
+b) Rubens e Carlota.
+c) Jonas e Carlota.
+d) Rubens e Jonas.
+e) Carlota e Marli.
+
+Comentários:
+Temos quatro cadeiras e queremos saber onde cada um está sentado.
+
+
+
+
+Se não é verdade que Rubens e Carlota estão sentados lado a lado, então eles devem estar sentados com
+pelo menos uma cadeira de distância. Uma representação possível seria:
+
+
+
+
+Se não é verdade que Marli está entre Rubens e Carlota, então ela só pode estar na cadeira 4. Com isso,
+sobra a cadeira 2 para Jonas. No entanto, veja que o enunciado diz claramente que "Jonas não está sentado
+na cadeira 2". Logo, a representação acima não procede. Considere a seguinte:
+
+
+
+
+Observe que agora temos Rubens na cadeira 2 e Carlota na cadeira 4. Se Marli não está entre os dois, então
+ela só pode estar ocupando a cadeira 1. Dessa vez, sobrou a cadeira 3 para Jonas.
+
+
+
+
+As cadeiras 1 e 3 estão ocupadas por Marli e Jonas, respectivamente.
+
+Gabarito: LETRA A
+                            LISTA DE QUESTÕES - FGV
+
+Associação Lógica
+
+1. (FGV/CBM-AM/2022) Os amigos Abel, Breno e Caio são casados e suas esposas chamam-se Manuela,
+Nina e Paula. Sabe-se que:
+
+- Duas dessas três moças são irmãs.
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+É correto concluir que
+A) Caio é casado com Nina.
+B) Manuela não é esposa de Breno.
+C) Abel é casado com Nina.
+D) Nina é a irmã de Paula.
+E) Nina é esposa de Breno.
+
+2. (FGV/SEMSA-MANAUS/2022) Três amigos, Gael, Miguel e Gabriel moram em três bairros diferentes de
+Manaus. Um mora no Centro, outro mora em Flores e outro, em Aleixo. Considere as seguintes
+informações:
+
+- Gael é casado com a irmã de Gabriel e é mais velho do que quem mora em Aleixo.
+- Quem mora em Flores é filho único e é o mais novo dos três amigos.
+
+É correto concluir que
+A) Gael mora em Flores.
+B) quem mora no Centro é mais novo que Miguel.
+C) Gabriel mora em Aleixo.
+D) quem mora no Centro é mais novo que Gabriel.
+E) o mais velho não mora no Centro.
+
+3. (FGV/SEFAZ-AM/2022) Há 5 pessoas sentadas em volta de uma mesa circular, e as iniciais de seus nomes
+são A, B, C, D e E Dessas pessoas, 2 são médicos e 3 são professores.
+Sabe-se que:
+
+- Os dois médicos não são vizinhos.
+- C tem um médico à esquerda e um professor à direita.
+- A tem vizinhos da mesma profissão.
+- B tem médico à direita.
+- C e D não são vizinhos.
+
+A partir de A, a sequência das pessoas no sentido anti-horário é
+A) A D B E C
+B) A E C B D
+C) A E B D C
+D) A B D C E
+E) A B C D E
+
+4. (FGV/SEFAZ-BA/2022) As amigas Ana, Bia e Carol, têm idades diferentes. Uma delas é médica, outra é
+enfermeira e a outra é professora. Cada uma delas tem um animal de estimação diferente: gato, cachorro
+e peixe de aquário. Sabe-se que:
+
+- A mais nova é a professora.
+- Ana adora seu cachorro.
+- A enfermeira é a dona do gato.
+- Carol não é a médica.
+- Bia é a mais velha.
+- A médica não é a mais velha.
+
+É correto concluir que
+A) Ana é a enfermeira.
+B) Bia é a dona do peixe.
+C) Carol é a mais velha.
+D) Ana é a mais nova.
+E) Bia é a dona do gato.
+
+5. (FGV/SEMSA-MANAUS/2022) Francisca comentava curiosidades sobre algumas pessoas do prédio em
+que mora com uma amiga.
+
+Ela dizia que os maridos de Amanda, de Glória e de Célia se chamam Mário, Sílvio e Renato, não
+necessariamente nessa ordem, e, das três, Amanda é a única que não tem animal de estimação; afirmou,
+ainda, que Sílvio não é marido de Amanda, Glória não é casada com Mário e Renato, que não é casado
+com Célia, trouxe um osso para o seu cão ontem.
+
+É correto concluir que
+A) Renato é marido de Glória.
+B) Glória é esposa de Sílvio.
+C) Amanda é casada com Renato.
+D) Sílvio não é casado com Célia.
+E) Mário não é casado com Amanda.
+
+6. (FGV/SEMSA-MANAUS/2022) Gael, Miguel e Gabriel estão, nessa ordem, em uma fila que possui 26
+pessoas no total. Sabe-se que:
+
+- Há o mesmo número de pessoas antes de Gael e depois de Gabriel.
+- Há 4 pessoas entre Gael e Miguel.
+- Há 5 pessoas entre Miguel e Gabriel.
+
+É correto concluir que
+A) Gael é o 7º da fila.
+B) Gabriel é o 20º da fila.
+C) Miguel é o 13º da fila.
+D) há 12 pessoas depois de Miguel.
+E) há 9 pessoas entre Gael e Gabriel.
+
+7. (FGV/FUNSAÚDE-CE/2021) As funcionárias Laura, Maria, Nádia, Olívia e Paula são amigas, trabalham
+juntas no mesmo setor de uma empresa e chegam ao trabalho por volta das 9 horas. Certo dia, elas
+chegaram em momentos diferentes e constatou-se que:
+
+- Olívia não foi a primeira a chegar, mas chegou antes de Nádia.
+- Quando Laura chegou, três das amigas já tinham chegado.
+- Paula chegou antes de Maria.
+- Olívia não foi a primeira chegar e a próxima a chegar depois dela foi Nádia.
+
+É correto concluir que:
+A) Maria foi a última a chegar.
+B) Paula foi a terceira a chegar.
+C) Maria chegou antes de Laura.
+D) Nádia chegou depois de Maria.
+E) Olívia chegou depois de Laura.
+
+8. (FGV/FUNSAÚDE-CE/2021) Laura, Márcia e Paula são enfermeiras e nasceram em estados diferentes.
+Uma é mineira, outra, maranhense, e, a outra, pernambucana. Sabe-se que Laura não nasceu no Nordeste
+e que Paula não nasceu em Pernambuco. É correto afirmar que
+A) Laura é pernambucana.
+B) Márcia é mineira.
+C) Paula é maranhense.
+D) Laura não é mineira.
+E) Márcia não é pernambucana.
+
+9. (FGV/FUNSAÚDE-CE/2021) Fernando, Gabriel e Hugo são médicos: um é cardiologista, outro é obstetra
+e outro é dermatologista, e dois deles são irmãos. Sabe-se que:
+
+- Fernando não é cardiologista.
+- Gabriel não é obstetra.
+- O irmão de Hugo é dermatologista.
+- O cardiologista não tem irmão.
+
+É correto concluir que:
+A) Fernando não é dermatologista.
+B) Hugo é obstetra.
+C) Gabriel é dermatologista.
+D) Hugo é cardiologista.
+E) Gabriel e Hugo são irmãos.
+
+10. (FGV/IMBEL/2021) Carlos, Gabriel e Mário possuem idades diferentes e torcem por times diferentes;
+um torce pelo Flamengo, outro pelo Fluminense e outro pelo Vasco. As três afirmativas sobre eles, a seguir,
+são verdadeiras:
+
+- Carlos é mais velho que o torcedor do Fluminense.
+- Gabriel torce pelo Flamengo.
+- Mário não é o mais novo.
+
+É correto concluir que
+A) Carlos é mais novo que Gabriel.
+B) Mário torce pelo Vasco.
+C) O torcedor do Vasco é o mais velho.
+D) O torcedor do Fluminense é mais velho que Carlos.
+E) Gabriel é mais velho que o torcedor do Flamengo.
+
+11. (FGV/PREF. SALVADOR/2019) Ana, Bela, Carla e Dora estão sentadas em volta de uma mesa quadrada
+em cadeiras numeradas de 1 a 4, como mostra a figura a seguir.
+
+
+
+
+Sabe-se que:
+- Ana não está em frente a Bela.
+- Bela tem Carla a sua esquerda.
+- Ana e Dora estão nas cadeiras pares.
+
+Considere as afirmativas:
+I. Bela está na cadeira 3.
+II. Ana está à direita de Dora.
+III. Carla está em frente a Dora.
+IV. Dora está na cadeira 2.
+Dentre as afirmativas acima,
+a) nenhuma é verdadeira.
+b) apenas uma é verdadeira.
+c) apenas duas são verdadeiras.
+d) apenas três são verdadeiras.
+e) todas são verdadeiras
+
+12. (FGV/PREF. SALVADOR/2019) Sobre uma mesa, há 3 caixas coloridas: uma verde, uma amarela e uma
+azul. Três bolas, numeradas com 1, 2 e 3, foram colocadas uma em cada caixa. Sabe-se que a bola 3 não
+está na caixa amarela e que a bola da caixa azul é a de número par. Estão nas caixas verde, amarela e azul,
+nessa ordem, as bolas
+a) 1, 2 e 3.
+b) 1, 3 e 2.
+c) 2, 1 e 3.
+d) 3, 2 e 1.
+e) 3, 1 e 2.
+
+13. (FGV/PREF. SALVADOR/2019) Manoel, Augusto, Joaquim, Carlos e Valdo marcaram hora e lugar para
+uma reunião. Todos chegaram, mas em horários ligeiramente diferentes. Sabe-se que:
+
+- Augusto chegou antes de Valdo e de Joaquim, mas não foi o primeiro a chegar.
+- Valdo chegou depois de Joaquim, mas não foi o último a chegar.
+- Carlos chegou antes de Valdo.
+
+É correto concluir que
+a) Carlos foi o segundo a chegar.
+b) Manoel foi o último a chegar.
+c) Augusto foi o terceiro a chegar.
+d) Joaquim foi o último a chegar.
+e) Valdo foi o terceiro a chegar.
+
+14. (FGV/IBGE/2019) André, Bento, Cláudio e Diogo estão sentados em volta de uma mesa quadrada e,
+entre os quatro, há dois cozinheiros, um músico e um pintor. Sabe-se que:
+
+- Os cozinheiros estão um ao lado do outro.
+- Bento é músico e está ao lado de André.
+- Diogo é cozinheiro e tem Bento à sua esquerda.
+
+É correto afirmar que:
+a) André está à esquerda de Cláudio;
+b) Diogo está à direita de André;
+c) André é cozinheiro;
+d) Bento está em frente ao pintor;
+e) O pintor tem Cláudio à sua esquerda.
+15. (FGV/CGM-Niterói/2018) Milton coordena a equipe de analistas formada por Sérgio, Elisa, Lúcia e
+Valdo. Para a reunião do fim da tarde de sexta-feira, cada uma dessas cinco pessoas chegou num horário
+diferente. Sabe-se que:
+- Milton não foi o último a chegar e Sérgio não foi o primeiro.
+- Quando Lúcia chegou, Sérgio e Elisa já estavam, mas Milton não tinha chegado.
+
+Considere as afirmações:
+
+I. Sérgio foi o segundo a chegar.
+II. Valdo chegou antes de Milton.
+III. Lúcia foi a quarta pessoa a chegar.
+
+São verdadeiras:
+a) I, somente.
+b) II, somente.
+c) II e III, somente.
+d) I e III, somente.
+e) I, II e III.
+
+16. (FGV/BANESTES/2018) Sandro, Cláudio e Valter trabalham na mesma empresa e torcem por times
+diferentes: um é flamenguista, outro é vascaíno, e outro é tricolor. Certo dia, eles chegaram ao trabalho
+em horários diferentes e a secretária anotou:
+
+- Sandro chegou depois do flamenguista.
+- Valter não foi o primeiro a chegar.
+
+Sabendo que Cláudio é vascaíno, é correto concluir que:
+a) Cláudio foi o primeiro a chegar;
+b) Valter é tricolor;
+c) Sandro chegou antes que Cláudio;
+d) Cláudio chegou depois que o flamenguista;
+e) o vascaíno chegou depois que Sandro.
+
+17. (FGV/BANESTES/2018) Mário, que mora em Vitória, está reunido com os amigos Fábio, Hélio e Sérgio,
+sentados em volta de uma mesa quadrada. Entre os seus amigos, um mora em Guarapari, outro em
+Colatina e outro em Linhares. Sabe-se que:
+
+- Fabio está à direita de Mário.
+- Hélio está à direita de quem mora em Guarapari.
+- Sérgio não mora em Colatina e está em frente a Fábio.
+
+É correto concluir que:
+a) Fábio mora em Guarapari e Sérgio em Linhares;
+b) Fábio mora em Colatina e Sérgio em Linhares;
+c) Fábio mora em Linhares e Sérgio em Guarapari;
+d) Hélio mora em Colatina e Sérgio em Guarapari;
+e) Hélio mora em Linhares e Sérgio em Guarapari.
+
+18. (FGV/BANESTES/2018) Três pessoas com idades de 30, 40 e 50 anos estão sentadas em três poltronas,
+uma ao lado da outra, como na figura. Uma poltrona é preta, outra é azul e outra é marrom. Sabe-se que:
+
+
+
+
+- A pessoa mais velha não está na poltrona preta.
+- A pessoa da poltrona do meio é mais jovem que a da poltrona da direita.
+- A poltrona marrom está à direita da ocupada pela pessoa mais velha.
+
+É correto concluir que:
+a) a poltrona do meio está ocupada pela pessoa de 40 anos;
+b) a poltrona azul está imediatamente à esquerda da preta;
+c) a pessoa mais jovem está na poltrona marrom;
+d) a pessoa de 40 anos é vizinha da que está na poltrona azul;
+e) a poltrona preta é a do meio.
+
+19. (FGV/TJ-SC/2018) Maria é mais nova que Roberta e Joana é mais velha que Sílvia, que tem a mesma
+idade de Roberta. É correto concluir que:
+a) Maria é mais velha que Sílvia;
+b) Roberta é mais jovem que Joana;
+c) Maria é mais velha que Joana;
+d) Sílvia é mais jovem que Maria;
+e) Maria e Joana têm a mesma idade.
+
+20. (FGV/MPE-AL/2018) Gabriel, Lucas e Mateus trabalham na mesma empresa em Maceió, mas cada um
+nasceu em uma cidade diferente. Um nasceu em Atalaia, outro em Coruripe e outro em Penedo. Sabe-se
+que Gabriel não nasceu em Penedo e Mateus nasceu em Coruripe. É correto afirmar que
+a) Gabriel nasceu em Coruripe.
+b) Gabriel nasceu em Atalaia.
+c) Lucas não nasceu em Penedo.
+d) Lucas nasceu em Atalaia.
+e) Mateus nasceu em Penedo.
+
+21. (FGV/COMPESA/2018) Ana, Cecília, Laura, Maria e Tânia são meninas com idades diferentes. Sabe-se
+que Laura é mais velha que Cecília, mas é mais nova que Ana. Por sua vez, Ana é mais nova que Maria, que
+é mais velha que Tânia, que é mais velha que Laura. É correto concluir que
+a) Tânia é mais nova que Ana.
+b) Laura é mais velha que Tânia.
+c) Cecília é mais nova que Tânia.
+d) Maria não é a mais velha das cinco meninas.
+e) Cecília é mais velha que Ana.
+22. (FGV/COMPESA/2018) Tiago, Milton e Jonas são amigos. Dois deles moram em apartamentos vizinhos
+e o outro mora em uma casa. Certo dia, os três foram a um restaurante e um pediu pizza, outro pediu
+massa e o outro pediu bife. Sabe-se que:
+
+- Tiago não pediu pizza.
+- Milton não pediu massa.
+- O vizinho de Jonas pediu bife.
+- Quem mora em uma casa pediu pizza.
+É correto concluir que
+a) Tiago pediu massa.
+b) Jonas pediu massa.
+c) Milton pediu bife.
+d) Jonas pediu pizza.
+e) Tiago pediu pizza.
+
+23. (FGV/TRT-12/2017) Davi, João, Pedro, Artur e Gabriel são amigos, possuem idades diferentes e vão
+fazer uma fila em ordem crescente das idades. Sabe-se que:
+
+- Davi é mais jovem que Gabriel e que Pedro, mas não é o mais jovem de todos.
+- Gabriel é mais velho que Pedro, mas não é o mais velho de todos.
+- Artur é mais jovem que Pedro.
+
+É correto concluir que:
+a) Artur está no segundo lugar da fila;
+b) Davi está no terceiro lugar da fila;
+c) Pedro está no quarto lugar da fila;
+d) Gabriel está no terceiro lugar da fila;
+e) João está no último lugar da fila.
+
+24. (FGV/IBGE/2017) O apresentador de um programa de auditório mostra no palco três portas,
+numeradas com 1, 2 e 3, e diz que atrás de cada uma delas há um prêmio: uma bicicleta, uma geladeira e
+um computador, não necessariamente nessa ordem. O apresentador sorteará uma pessoa do auditório,
+que deve escolher uma das portas e levar o seu prêmio. Entretanto, se com as informações recebidas do
+apresentador a pessoa puder deduzir que objeto há atrás de cada porta, ela ganhará todos os prêmios. As
+informações do apresentador são:
+
+- A geladeira não está na porta 1.
+- A bicicleta e a geladeira não estão em portas com números consecutivos.
+
+Então, é correto afirmar que:
+a) a geladeira está na porta 2;
+b) o computador está na porta 1;
+c) a bicicleta está na porta 3;
+d) a bicicleta está na porta 2;
+e) o computador está na porta 2.
+25. (FGV/TRT-12/2017) João é mais baixo do que Ana. Pedro não é mais baixo do que Ana. Denise não é
+mais alta do que João. É correto concluir que:
+a) Ana é mais alta do que Pedro;
+b) Pedro é mais baixo do que João;
+c) Denise é mais alta do que Ana;
+d) João é mais baixo do que Pedro;
+e) Denise é mais alta do que Pedro
+
+26. (FGV/SEPOG-RO/2017) Paula, Gisela, Sílvia e Joana moram na mesma rua. Paula mora entre Gisela e
+Joana. Gisela mora entre Joana e Sílvia. É correto concluir que
+a) Sílvia mora entre Joana e Paula.
+b) Joana mora entre Gisela e Paula.
+c) Gisela mora entre Paula e Joana.
+d) Paula mora entre Sílvia e Gisela.
+e) Gisela mora entre Sílvia e Paula.
+
+27. (FGV/PREF. SALVADOR/2017) Alice, Bruno, Carlos e Denise são as quatro primeiras pessoas de uma
+fila, não necessariamente nesta ordem. João olha para os quatro e afirma:
+
+- Bruno e Carlos estão em posições consecutivas na fila;
+- Alice está entre Bruno e Carlos na fila.
+
+Entretanto, as duas afirmações de João são falsas. Sabe-se que Bruno é o terceiro da fila. O segundo da
+fila é
+a) Alice.
+b) Bruno.
+c) Carlos.
+d) Denise.
+e) João.
+
+28. (FGV/PREF. SALVADOR/2017) Dalva, Bruna e Carla são advogadas, sendo duas delas irmãs. Cada
+advogada possui uma especialidade: uma é trabalhista; outra, civilista; e, a outra, penalista. Sabe-se que:
+
+- Dalva não é advogada trabalhista;
+- Bruna não é advogada civilista;
+- a irmã de Carla é advogada penalista;
+- a que não tem irmã nesse grupo é advogada trabalhista.
+
+É correto concluir que
+a) Dalva é advogada civilista.
+b) Carla é advogada civilista.
+c) Bruna é advogada penalista.
+d) Carla é advogada trabalhista.
+e) Bruna e Carla são irmãs.
+29. (FGV/CODEBA/2016) Certo dia, em um porto há apenas três navios, um ao lado do outro: um navio
+porta contêineres (P), um navio de carga geral (C) e um navio graneleiro (G). Além disso, pelos seus
+tamanhos, um desses navios é considerado pequeno, outro médio e outro grande. Sabe-se que:
+
+- o navio P está à esquerda do navio pequeno.
+- o navio grande está à direita do navio G.
+- o navio C não é o menor dos navios.
+
+É correto concluir que
+a) o navio G está imediatamente à esquerda do navio médio.
+b) o navio C tem tamanho pequeno.
+c) o navio grande está imediatamente à direita do médio.
+d) o navio C está à esquerda do navio G.
+e) o navio P tem tamanho médio.
+
+30. (FGV/PREF. PAULÍNIA/2016) André, Bernardo, Caio e Delcídio estão sentados em volta de uma mesa
+quadrada e, dos quatro, dois são irmãos.
+
+
+
+
+Sabe-se que:
+- Bernardo não tem irmão e está ao lado de André;
+- Delcídio está à direita de Bernardo e tem irmão;
+- os irmãos estão um ao lado do outro.
+
+É correto afirmar que
+a) André está à esquerda de Caio.
+b) Delcídio está à direita de André.
+c) André é irmão de Delcídio.
+d) Bernardo está em frente ao irmão de Delcídio.
+e) Caio está à esquerda do seu irmão.
+
+31. (FGV/PREF. PAULÍNIA/2016) Paulo, Sérgio e Mário trabalham na prefeitura da cidade e usam meios de
+transporte diferentes para ir ao trabalho: um vai com seu carro, outro vai de ônibus e outro, de bicicleta.
+Sabe-se que:
+- quem vai de carro é o mais velho dos três;
+- Sérgio não tem carro;
+- Paulo é mais novo que Sérgio e não vai de bicicleta.
+
+Assim, é correto afirmar que
+a) Sérgio é o mais velho dos três.
+b) Paulo vai de ônibus.
+c) Mário vai de bicicleta.
+d) Sérgio vai de carro.
+e) Mário é o mais novo dos três.
+
+32. (FGV/CODEBA/2016) As letras da sigla CODEBA foram embaralhadas e a nova sequência dessas
+mesmas letras possui as seguintes propriedades:
+
+- nenhuma das 6 letras ocupa a sua posição inicial.
+- as vogais aparecem juntas, na mesma ordem que estavam: O, E, A.
+- a 5ª letra não é D.
+- a letra B aparece antes da letra C.
+
+É correto concluir que, na nova sequência,
+a) a 3ª letra é E.
+b) a 5ª letra é A.
+c) a 1ª letra é B
+d) a 4ª letra é C.
+e) a 6ª letra é D.
+
+33. (FGV/TJ-SC/2015) Pai, mãe e seu casal de filhos estão sentados em volta de uma mesa quadrada. Os
+homens chamam-se Roberto e Sérgio e as mulheres chamam-se Teresa e Fernanda. Sabe-se que:
+
+- O pai tem Fernanda à sua frente e o filho à esquerda.
+- A mãe está do lado direito de Sérgio.
+Considere as afirmações:
+
+I. A mãe chama-se Fernanda.
+II. Roberto está em frente de Teresa.
+III. O pai chama-se Sérgio.
+
+É verdadeiro somente o que se afirma em:
+a) I;
+b) II;
+c) III;
+d) I e II;
+e) II e III.
+
+34. (FGV/TJ-SC/2014) As amigas Ana, Bia, Clô e Dri entraram em uma lanchonete e cada uma tomou um
+suco diferente. Os sabores foram: laranja, abacaxi, manga e morango. Sabe-se que:
+
+- Nem Ana nem Bia tomaram de laranja.
+- Clô não tomou nem de abacaxi nem de manga.
+- Dri não tomou nem de abacaxi nem de morango.
+- Nem Ana nem Clô tomaram de morango.
+
+Considere as afirmações:
+
+I. Dri tomou suco de laranja.
+II. Ana tomou suco de abacaxi.
+III. Bia tomou suco de morango.
+IV. Clô tomou suco de manga.
+
+É correto concluir que:
+a) nenhuma das quatro afirmativas é verdadeira;
+b) apenas uma das quatro afirmativas é verdadeira;
+c) apenas duas das quatro afirmativas são verdadeiras;
+d) apenas três das quatro afirmativas são verdadeiras;
+e) as quatro afirmativas são verdadeiras
+
+35. (FGV/DPE-MT/2015) As irmãs Elsa, Flávia e Gabriela possuem alturas diferentes sendo que Elsa não é
+a mais alta e Flávia é a mais baixa. Assim, é correto afirmar que
+a) Gabriela é a mais baixa.
+b) Flavia é a mais alta.
+c) Elsa é a mais baixa.
+d) Gabriela não é nem a mais baixa nem a mais alta.
+e) Elsa não é nem a mais baixa nem a mais alta.
+
+36. (FGV/SSP-AM/2015) Ângela, Beatriz e Carla estavam em uma academia de ginástica e foram se pesar.
+Quando Ângela e Beatriz se pesaram, somente elas mesmas viram o próprio peso, mas quando Carla se
+pesou, Ângela e Beatriz também viram o peso de Carla.
+
+Ângela disse: “Eu não sou a mais pesada” e Beatriz disse: “Eu não sou a mais leve”. As duas disseram a
+verdade, baseadas nas informações que possuíam.
+
+A ordem das três, da mais leve para a mais pesada, é:
+a) Ângela, Beatriz, Carla;
+b) Carla, Ângela, Beatriz;
+c) Ângela, Carla, Beatriz;
+d) Beatriz, Carla, Ângela;
+e) Beatriz, Ângela, Carla.
+
+37. (FGV/SSP-AM/2015) Arrumados em uma prateleira de uma estante há 4 livros que serão chamados de
+W, X, Y e Z. Sabe-se que W está entre Y e Z e também que Y está entre Z e X. É correto concluir que:
+a) W está entre X e Y;
+b) Y está entre W e Z;
+c) Z está entre Y e W;
+d) X está entre Z e W;
+e) Y está entre X e W.
+
+38. (FGV/DPE-RO/2015) Ana, Bia, Clara e Dulce possuem alturas diferentes e fizeram uma fila em ordem
+crescente das alturas. Sabe-se que:
+
+- Dulce é mais baixa que Clara, que não é a mais alta.
+- Ana é mais baixa que Bia, mas não é a mais baixa.
+- Ana não está entre Bia e Clara.
+
+É correto afirmar que:
+a) Ana é mais baixa que Dulce;
+b) Clara é mais alta que Bia;
+c) Dulce é mais alta que Clara;
+d) Bia é mais baixa que Ana;
+e) Ana é mais baixa que Clara.
+
+39. (FGV/CM-Caruaru/2015) Cinco pessoas, chamadas Ali, Ben, Clô, Dil e Ela, estão em uma fila. São dadas
+as seguintes informações:
+
+- Ben tem como vizinhos Ela e Dil.
+- Ali não é o primeiro e Dil não é o último.
+- Clô está separada de Dil por duas pessoas.
+- Existe uma única pessoa entre Ben e Ali.
+
+Assim, é correto afirmar que
+a) Ben é o segundo da fila.
+b) Ela está entre Ben e Dil.
+c) Dil está entre Ali e Ben.
+d) Ali é o quarto da fila.
+e) Clô está atrás de Ela.
+
+40. (FGV/CM-Caruaru/2015) Jonas, Rubens, Carlota e Marli estão sentados em quatro cadeiras em linha,
+numeradas da esquerda para a direita, de 1 a 4. Paulo afirmou que “Rubens e Carlota estão sentados lado
+a lado” e que “Marli está sentada entre Rubens e Carlota”. As duas afirmativas de Paulo estão erradas.
+Além disso, é verdade que “Jonas não está sentado na cadeira 2”. Os que estão sentados nas cadeiras 1 e
+3 são, respectivamente,
+a) Marli e Jonas.
+b) Rubens e Carlota.
+c) Jonas e Carlota.
+d) Rubens e Jonas.
+e) Carlota e Marli
+                GABARITO
+1. LETRA C    15. LETRA A   29. LETRA E
+2. LETRA C    16. LETRA A   30. LETRA D
+3. LETRA B    17. LETRA A   31. LETRA B
+4. LETRA E    18. LETRA C   32. LETRA E
+5. LETRA A    19. LETRA B   33. LETRA E
+6. LETRA C    20. LETRA B   34. LETRA C
+7. LETRA A    21. LETRA C   35. LETRA E
+8. LETRA C    22. LETRA B   36. LETRA C
+9. LETRA B    23. LETRA E   37. LETRA E
+10. LETRA C   24. LETRA E   38. LETRA E
+11. LETRA B   25. LETRA D   39. LETRA C
+12. LETRA E   26. LETRA E   40. LETRA A
+13. LETRA B   27. LETRA D
+14. LETRA E   28. LETRA B
+

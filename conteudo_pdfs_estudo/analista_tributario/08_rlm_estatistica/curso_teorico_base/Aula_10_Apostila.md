@@ -1,0 +1,1796 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 10_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Raciocínio Lógico Matemático
+---
+
+# Raciocínio Lógico Matemático
+
+Aula 09
+                          Receita Federal (Analista Tributário)
+                                     Raciocínio Lógico Matemático
+
+                                                            Autor:
+                                        Equipe Exatas Estratégia
+                                                      Concursos
+
+
+                                               26 de Agosto de 2024
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 09
+
+                                                                                     Índice
+1) Associação Lógica
+
+
+2) Questões Comentadas - Associação Lógica - FGV
+
+
+3) Lista de Questões - Associação Lógica - FGV
+
+                Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           38
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                     ASSOCIAÇÃO LÓGICA
+O assunto Associação Lógica não possui uma teoria formalizada. No entanto, ele aparece muito
+frequentemente nas provas de Raciocínio Lógico dos mais variados concursos. Diante disso, como
+conseguimos identificar uma questão que envolve Associação Lógica? Normalmente, ela será uma questão
+que envolverá uma série de afirmações sobre um grupo de pessoas e que você precisará associar todas
+essas informações para definir o que está sendo falado sobre quem. Vamos ver um exemplo?
+
+
+     (BANRISUL/2019) Pedro, José e Antônio têm alturas diferentes, praticam esportes diferentes
+     (um deles pratica futebol, outro, natação e o terceiro, voleibol, não necessariamente nessa
+     ordem) e têm cores de cabelos diferentes (um deles é ruivo, outro, loiro e o terceiro, moreno,
+     não necessariamente nessa ordem). Sabendo que Pedro é o mais baixo e não pratica natação,
+     que o que pratica voleibol é o mais alto, que o ruivo pratica natação e que Antônio é loiro,
+     então,
+     A) Pedro é moreno e José pratica voleibol.
+     B) José é ruivo e Antônio pratica futebol.
+     C) Antônio é o mais alto e Pedro é moreno.
+     D) Antônio pratica natação e José é ruivo.
+     E) Pedro é ruivo e Antônio pratica voleibol.
+
+
+Perceba que são várias características que precisamos associar a cada um dos amigos. Para conseguir
+responder esse tipo de questão com tranquilidade, é necessária uma estratégia. Observe que a quantidade
+de informações fornecidas pelo enunciado é muito grande, se tentarmos ir guardando-as na cabeça, é muito
+provável que vamos nos atrapalhar.
+
+No intuito de sanar essa dificuldade, usaremos tabelas simples. Por exemplo, do enunciado acima, temos
+quatro parâmetros que queremos associar: o amigo, a altura, o esporte que pratica e a cor do cabelo. Como
+ficaria a tabela correspondente?
+
+                                    Amigo      Esporte      Cabelo       Altura
+
+Cada linha da tabela representa o esporte, o cabelo e a altura associados ao amigo que está na linha. Vamos
+exemplificar usando uma informação do enunciado: Pedro é o mais baixo.
+
+                                   Amigo      Esporte     Cabelo       Altura
+                                   Pedro                              Mais baixo
+
+É assim que associaremos o fato de Pedro ser o mais baixo, colocando as informações na mesma linha.
+Sabemos também que Pedro não faz natação, como representamos isso? Simplesmente colocando natação
+em uma linha diferente da de Pedro.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                               3
+        www.estrategiaconcursos.com.br                                                                  38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                   Amigo      Esporte                 Cabelo    Altura
+                                   Pedro                                       Mais baixo
+                                              Natação
+
+
+A próxima informação do enunciado é que quem pratica voleibol é o mais alto. Note que Pedro não pode
+praticar voleibol pois ele é o mais baixo. Como a segunda linha da tabela já está reservada para a natação,
+temos que incluir esse fato na terceira linha.
+
+                                   Amigo      Esporte                 Cabelo    Altura
+                                   Pedro                                       Mais baixo
+                                              Natação
+                                              Voleibol                         Mais alto
+
+Perceba que o único esporte que sobrou para Pedro é o futebol e a única altura que sobrou para quem faz
+                                                         ==219a34==
+
+natação é a média. Não se esqueçam de preencher esses casos, pois são consequências das próprias
+informações do enunciado. Essas características que "sobram", nós vamos estar sempre destacando de
+vermelho em nossas resoluções, conforme a seguir.
+
+                                   Amigo      Esporte                 Cabelo    Altura
+                                   Pedro      Futebol                          Mais baixo
+                                              Natação                           Média
+                                              Voleibol                         Mais alto
+
+A próxima afirmativa é que o ruivo pratica natação. Na linha da natação, acrescentaremos o cabelo ruivo.
+
+                                   Amigo      Esporte                 Cabelo    Altura
+                                   Pedro      Futebol                          Mais baixo
+                                              Natação                 Ruivo     Média
+                                              Voleibol                         Mais alto
+
+Por fim, a última informação dada é que Antônio é loiro. Veja que a primeira linha já está preenchida com
+Pedro, a segunda linha está preenchida com o ruivo, só sobra a terceira linha para dizer que Antônio é loiro.
+
+                                  Amigo       Esporte                 Cabelo    Altura
+                                   Pedro      Futebol                 Moreno   Mais baixo
+                                    José      Natação                  Ruivo    Média
+                                  Antônio     Voleibol                 Loiro   Mais alto
+
+Também preenchemos "José" e "moreno" pois foram os dois que sobraram após termos preenchido
+"Antônio" e "loiro". Se a tabela está completa, é possível analisar com precisão os itens do enunciado.
+
+
+     A) Pedro é moreno e José pratica voleibol.
+     Alternativa incorreta. Pedro é moreno mas José pratica natação e não voleibol.
+
+     B) José é ruivo e Antônio pratica futebol.
+
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                                 4
+        www.estrategiaconcursos.com.br                                                                    38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+     Alternativa incorreta. José é ruivo mas Antônio pratica voleibol e não natação.
+
+     C) Antônio é o mais alto e Pedro é moreno.
+     Alternativa correta. É exatamente o que encontramos ao montar a tabela.
+
+     D) Antônio pratica natação e José é ruivo.
+     Alternativa incorreta. Antônio pratica voleibol.
+
+     E) Pedro é ruivo e Antônio pratica voleibol.
+     Alternativa incorreta. Pedro é moreno.
+
+     Gabarito: Letra C.
+
+
+A tabela é uma ótima estratégia para resolver a grande maioria das questões que tratam desse assunto. Não
+se esqueça que a resolução das questões a seguir é de fundamental importância para sua evolução na
+matéria e consequente ganho de velocidade na prova. Não deixe de fazê-las!
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                             5
+        www.estrategiaconcursos.com.br                                                                38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                 QUESTÕES COMENTADAS - FGV
+
+Associação Lógica
+
+1. (FGV/CVM/2024) Alberto, Bernardo e Cláudio têm idades diferentes e vestem camisetas de
+cores diferentes. Um está com camiseta branca, outro com camiseta verde e um terceiro com
+camiseta azul. Sabe-se que:
+
+- quem veste camiseta branca é o mais velho;
+- Alberto não está com camiseta branca;
+- Bernardo é mais jovem que Alberto e não está com camiseta azul.
+
+É correto concluir que:
+A) Alberto é o mais velho dos três;
+B) Bernardo está com camiseta verde;
+C) Cláudio está com camiseta azul;
+D) Alberto está com camiseta verde;
+E) Cláudio é o mais jovem dos três.
+
+Comentários:
+Vamos desenhar uma tabela para organizarmos as afirmações do enunciado.
+
+                                   Nome              Camiseta                Idade
+
+Como quem veste camiseta branca é o mais velho, podemos escrever:
+
+                                   Nome              Camiseta                Idade
+                                                      Branca            Mais Velho
+
+Sabemos também que Alberto não está com camiseta branca, logo:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático             6
+        www.estrategiaconcursos.com.br                                                38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                   Nome              Camiseta                Idade
+                                                      Branca            Mais Velho
+                                  Alberto
+
+Por fim, temos que Bernardo é mais jovem que Alberto e não está com camiseta azul. Sendo assim:
+
+                                   Nome              Camiseta                Idade
+                                                      Branca            Mais Velho
+                                  Alberto
+                                 Bernardo              Verde           Mais Jovem
+
+Pronto, agora completamos nossa tabela com as informações que faltam!
+
+                                   Nome              Camiseta                Idade
+                                  Cláudio             Branca            Mais Velho
+                                  Alberto               Azul          Intermediária
+                                 Bernardo              Verde           Mais Jovem
+
+Vamos analisar as alternativas.
+
+A) Alberto é o mais velho dos três;
+Errado. Alberto tem idade intermediária.
+
+B) Bernardo está com camiseta verde;
+Correto! Bernardo está com camiseta verde e é o mais jovem.
+
+C) Cláudio está com camiseta azul;
+Errado. Cláudio está com camiseta branca.
+
+D) Alberto está com camiseta verde;
+Errado. Alberto está com camiseta azul.
+
+E) Cláudio é o mais jovem dos três.
+Errado. Claúdio é o mais velho.
+
+Gabarito: LETRA B.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                    7
+        www.estrategiaconcursos.com.br                                                        38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+2. (FGV/ALESC/2024)
+
+Cinco carros (V, W, X, Y e Z) disputam uma corrida em um autódromo. Dada a largada, no final
+da primeira volta a ordem dos carros era V – W – X – Y – Z. Durante a corrida ocorreram, em
+sequência, as seguintes ultrapassagens:
+
+• o 3º fez uma ultrapassagem;
+• o 5º fez duas ultrapassagens;
+• o 3º fez duas ultrapassagens;
+• o 4º fez duas ultrapassagens.
+
+Depois disso, nenhuma outra ultrapassagem ocorreu e a corrida terminou.
+
+Portanto, o único carro que chegou na mesma posição de partida foi:
+A) V.
+B) W.
+C) X
+D) Y.
+E) Z.
+
+Comentários:
+Para acompanhar a posição dos carros, vamos desenhar uma tabela em que registramos a posição de
+cada um.
+
+
+                                  1º           2º         3º         4º      5º
+
+                                  V            W           X          Y      Z
+
+
+Inicialmente, tem-se que o 3º fez uma ultrapassagem. A nova ordem é:
+
+
+                                  1º           2º         3º         4º      5º
+
+                                  V            X          W           Y      Z
+
+
+Depois, o 5º fez duas ultrapassagens:
+
+
+                                  1º           2º         3º         4º      5º
+
+                                  V            X           Z         W       Y
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                   8
+        www.estrategiaconcursos.com.br                                                      38
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Depois, o 3º fez duas ultrapassagens:
+
+
+                                  1º           2º         3º         4º      5º
+
+                                  Z            V           X         W       Y
+
+
+Por fim, o 4º fez duas ultrapassagens:
+
+
+                                  1º           2º         3º         4º      5º
+
+                                  Z            W           V          X      Y
+
+
+Essa é a configuração final! A questão pede aquele que, após todas essas ultrapassagens, permaneceu
+na mesma posição. Ora, comparando nossa primeira tabela e a última, vemos que o “W” é o único que
+terminou na mesma posição, 2ª.
+
+Gabarito: LETRA B
+
+3. (FGV/PMERJ/2024) Quatro objetos, A, B, C e D, possuem pesos diferentes. Sabe-se que:
+
+- A é mais pesado que B.
+- C é mais leve que A.
+- D é mais leve que B, mas não é o mais leve de todos.
+
+É correto concluir que:
+A) A não é o mais pesado de todos;
+B) B é mais leve que D;
+C) C é mais pesado que B;
+D) C é mais leve que D;
+E) B é mais leve que C.
+
+Comentários:
+Começamos com a afirmação de que A é mais pesado que B e C é mais leve que A. Isso nos dá a
+seguinte ordem parcial:
+
+                                                    𝐶 < 𝐵 < 𝐴
+
+Em seguida, usamos a informação de que D é mais leve que B, mas não é o mais leve de todos. Isso
+significa que D deve estar entre C e B, ou seja:
+
+                                                    𝐶 < 𝐷 < 𝐵
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                       9
+        www.estrategiaconcursos.com.br                                                          38
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Agora, temos a ordem completa dos quatro objetos:
+
+                                                 𝐶 < 𝐷 < 𝐵 < 𝐴
+
+Com essa ordem, a alternativa correta é a letra D.
+
+Gabarito: LETRA D.
+
+4. (FGV/CM-SP/2024) Ana, Beto, Carla, Danilo e Elisa participaram de uma corrida com outros 5
+participantes. Ana chegou 4 posições atrás de Carla. Carla chegou uma posição à frente de Beto.
+Danilo chegou 4 posições atrás de Elisa e Elisa chegou 2 posições atrás de Beto. Ana chegou na
+6ª posição. Nesse caso, é correto afirmar que
+A) Ana chegou atrás de Danilo.
+B) Beto chegou na 2ª posição.
+C) Carla chegou na 1ª posição.
+D) Danilo chegou na 9ª posição.
+E) Elisa chegou na 7ª posição.
+
+Comentários:
+Para simplificar, vamos chamar cada um dos 5 participantes principais de uma letra do alfabeto:
+
+Ana (A), Beto (B), Carla (C), Danilo (D) e Elisa (E).
+
+Agora, vamos preparar uma pequena tabela para organizarmos as informações.
+
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+
+Uma informação bem direta que temos é sobre Ana. Ela chegou na 6ª posição. Vamos começar daí.
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+                                                              A
+
+
+Note que Ana chegou 4 posições atrás de Carla. Logo, podemos concluir que Carla foi a 2ª.
+
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+                            C                                 A
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        10
+        www.estrategiaconcursos.com.br                                                            38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Por sua vez, Carla chegou uma posição a frente de Beto. Logo, Beto ficou na 3ª.
+
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+                            C       B                         A
+
+
+Ainda, Elisa chegou 2 posições atrás de Beto, ou seja, na 5ª posição.
+
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+                            C       B                E        A
+
+
+Por fim, Danilo chegou 4 posições atrás de Elisa, ou seja, na 9ª posição.
+
+
+                   1ª      2ª       3ª      4ª       5ª      6ª       7ª     8ª   9ª   10ª
+                    -       C       B        -       E        A        -     -    D     -
+
+
+Pronto! Tabela esquematiza, agora é só irmos nas alternativas.
+
+A) Ana chegou atrás de Danilo.
+Errado. Ana chegou na 5ª posição e Danilo na 9ª.
+
+B) Beto chegou na 2ª posição.
+Errado. Beto chegou na 3ª posição.
+
+C) Carla chegou na 1ª posição.
+Errado. Carla chegou na 2ª posição.
+
+D) Danilo chegou na 9ª posição.
+Correto! Nosso gabarito.
+
+E) Elisa chegou na 7ª posição.
+Errado. Elisa chegou na 5ª posição.
+
+Gabarito: LETRA D.
+
+5. (FGV/CM-SP/2024) Na prateleira de uma cozinha há três potes: A, B e C. Um deles contém
+arroz, outro contém feijão e outro contém farinha. Das afirmativas seguintes, somente uma é
+verdadeira:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                   11
+        www.estrategiaconcursos.com.br                                                       38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+- A contém farinha.
+- B não contém feijão.
+- C não contém farinha.
+
+Nesse caso, é correto afirmar que:
+A) o pote A contém feijão.
+B) o pote B contém farinha.
+C) o pote C contém feijão.
+D)o pote A contém arroz.
+E) o pote B não contém arroz.
+
+Comentários:
+Somente uma das afirmações é verdadeira!! Devemos ficar com isso em mente.
+
+Se apenas uma das afirmativas é verdadeira, então a afirmativa "A contém farinha" não pode ser
+verdadeira.
+
+Ora, se "A contém farinha" fosse verdadeira, estaria correta também a afirmativa "C não contém
+farinha".
+
+Sendo assim, "A contém farinha" é falsa.
+
+Agora, suponha como única verdadeira a segunda afirmação: "B não contém feijão". Como consequência,
+a afirmativa "C não contém farinha" é falsa. Isso implica que C contém farinha sim!! Ora, se C contém
+farinha e B não contém feijão, então o feijão só pode estar em A!
+
+Sobrou o pote B para o arroz.
+
+Observe que nossa suposição inicial está correta! Afinal, não encontramos inconsistências com as
+conclusões geradas a partir dela. Nosso resultado foi:
+
+A - feijão.
+B - arroz.
+C - farinha.
+
+Gabarito: LETRA A.
+
+6. (FGV/CÂMARA DOS DEPUTADOS/2023) Ângelo, Bernardo, Cássio, Duílio e Evandro são cinco
+irmãos. Bernardo e Duílio são mais velhos do que Evandro, Bernardo é mais novo do que Cássio,
+Ângelo é mais novo do que Evandro e Cássio não é o mais velho. O irmão do meio é o
+A) Ângelo
+B) Bernardo.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        12
+        www.estrategiaconcursos.com.br                                                            38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+C) Cássio.
+D) Duílio.
+E) Evandro.
+
+Comentários:
+Vamos organizar esses irmãos em uma fila, do mais novo para o mais velho. A primeira informação
+que temos é que Bernardo e Duílio são mais velhos do que Evandro. Sendo assim:
+
+
+                     Mais                                                              Mais
+                     novo                                                              velho
+                                    Evandro                      Bernardo,
+                                                                  Duílio
+Além disso, temos que Bernardo é mais novo do que Cássio.
+
+
+                     Mais                                                              Mais
+                     novo                                                              velho
+                                 Evandro           Bernardo,                 Cássio
+                                                    Duílio
+Ângelo é mais novo do que Evandro.
+
+
+                     Mais                                                              Mais
+                     novo                                                              velho
+                             Ângelo       Evandr         Bernardo,            Cássio
+                                            o             Duílio
+Cássio não é o mais velho.
+
+
+                     Mais                                                              Mais
+                     novo                                                              velho
+                               Ângelo - Evandro - Bernardo - Cássio - Duílio
+
+
+Logo, o irmão do meio é o Bernardo.
+
+Gabarito: LETRA B.
+
+7. (FGV/CÂMARA DOS DEPUTADOS/2023) O Professor Goodear tem como alunas de música Ana,
+Beth, Cecília, Débora e Elisa. Ele dá aulas às segundas, terças, quartas, quintas e sextas-feiras.
+Das cinco alunas, três estudam violão e duas estudam flauta. Em certa semana, cada uma delas
+foi à aula em um dia diferente, sendo que três delas foram no período da manhã e duas no
+período da tarde. Sabemos que Ana e Débora estudam o mesmo instrumento, enquanto Cecília e
+Elisa estudam instrumentos distintos. Além disso, Beth e Elisa tiveram aula no mesmo período,
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                     13
+        www.estrategiaconcursos.com.br                                                         38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+ao passo que Ana e Cecília estudaram em períodos diferentes. Houve um dia com aula de flauta
+à tarde. Nesse dia, quem teve aula foi
+A) Ana.
+B) Beth.
+C) Cecília.
+D) Débora.
+E) Elisa.
+
+Comentários:
+Pessoal, temos dois pares de informações que devemos analisar com muita atenção.
+
+Sobre o instrumento:
+- Ana e Débora estudam o mesmo instrumento.
+- Cecília e Elisa estudam instrumentos distintos.
+
+Sobre o período:
+- Beth e Elisa tiveram aula no mesmo período.
+- Ana e Cecília estudaram em períodos diferentes.
+
+Vamos começar pelo par de informações sobre o instrumento.
+
+Se Cecília e Elisa estudam instrumentos distintos, então uma estuda o violão e a outra estuda flauta.
+
+Com isso, a conclusão que chegamos é Ana e Débora estudam violão.
+
+Professor, como assim? De onde você concluiu isso?
+
+Aluno, note que apenas duas alunas estudam flauta. Se essa vaga da flauta já está com Cecília ou Elisa,
+só sobra apenas uma vaga para outra pessoa. Portanto, se Ana e Débora estudassem flauta, teríamos
+três pessoas no instrumento, o que não pode acontecer.
+
+Ora, podemos usar esse mesmo raciocínio para as informações sobre o período.
+
+Se Ana e Cecília estudam em períodos distintos, então uma estuda de manhã e a outra a tarde.
+
+Com isso, podemos concluir Beth e Elisa estudam pela manhã! Afinal, Ana ou Cecília já ocupa uma das
+vagas da tarde (então só sobra mais uma nesse período).
+
+Agora, com algumas informações certas, vamos organizar uma tabela.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                              14
+        www.estrategiaconcursos.com.br                                                                  38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                     Aluna        Instrumento          Período
+                                      Ana            Violão
+                                      Beth                              Manhã
+                                     Cecília
+                                     Débora            Violão
+                                      Elisa                             Manhã
+
+De acordo com o enunciado, houve um dia com flauta à tarde. Ora, vamos olhar para a tabela acima, a
+única pessoa em que podemos encaixar uma flauta à tarde é Cecília.
+
+                                     Aluna        Instrumento          Período
+                                      Ana            Violão
+                                      Beth                              Manhã
+                                     Cecília           Flauta           Tarde
+                                     Débora            Violão
+                                      Elisa                             Manhã
+
+Ora, Ana e Débora estudam violão, enquanto Beth e Elisa estudam pela manhã. Logo, nenhuma
+delas poderá ser a que estuda flauta à tarde. A única opção correta é Cecília.
+
+Gabarito: LETRA C.
+
+8. (FGV/PM-SP/2023) Pereira, Rodrigues, Santos e Tavares são soldados que disputam uma
+corrida. Em certo momento da competição, as suas posições são tais que:
+
+- Se Tavares ultrapassar 2 soldados, passará a ser o 1º colocado;
+- Pereira não é o último colocado;
+- Santos não pode ultrapassar ninguém.
+
+Se apenas essas quatro pessoas estão disputando a corrida, conclui-se que
+A) Santos está em primeiro e Rodrigues está em terceiro.
+B) Pereira está em primeiro e Tavares está em terceiro.
+C) Pereira está em segundo e Rodrigues está em quarto.
+D) Rodrigues está em segundo e Tavares está em terceiro.
+
+Comentários:
+Temos 4 soldados disputando uma corrida.
+
+Sabemos que se Tavares ultrapassar 2 soldados, passará a ser o primeiro colocado. Isso indica que
+Tavares está em 3º lugar. Por sua vez, como Santos não pode ultrapassar ninguém, então ele só pode
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      15
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+estar em 1º lugar. Por fim, como Pereira não é o último colocado, só temos 2º lugar disponível para
+alocá-lo. Podemos resumir essas informações em uma pequena tabela:
+
+                                             Posição         Soldado
+                                               1º             Santos
+                                               2º             Pereira
+                                               3º            Tavares
+                                               4º           Rodrigues
+
+Assim, a alternativa que contempla corretamente as posições dos soldados é a C.
+
+Gabarito: LETRA C.
+
+9. (FGV/MPE-SP/2023) Considere uma das sequências formadas pelas letras do conjunto
+{𝑨, 𝑩, 𝑪, 𝑫, 𝑬}. Sabe-se que nessa sequência:
+
+- B vem depois do D;
+- C vem antes do A;
+- E vem depois do D;
+- E vem antes do A;
+- C vem depois do B.
+
+Com base nessas informações, é possível garantir que, nessa sequência, a letra A ocupa a
+A) 1ª posição.
+B) 2ª posição.
+C) 3ª posição.
+D) 4ª posição.
+E) 5ª posição.
+
+Comentários:
+Vamos começar com uma tabela vazia e preenchê-la à medida que cada uma das informações é
+analisada.
+
+                                              Posição        Letra
+                                                1º
+                                                2º
+                                                3º
+                                                4º
+                                                5º
+
+- B vem depois do D;
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      16
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                              Posição               Letra
+                                                1º                    D
+                                                2º                    B
+                                                3º
+                                                4º
+                                                5º
+
+Professor, como você sabe que o D está na 1º posição e o B na 2ª? Não podia ser um na 2ª e outro na 3ª?
+
+É verdade que ainda não sabemos as posições, mas precisamos supor uma posição inicial para
+começarmos a preencher essa tabela. Não se preocupe, pois a tabela é dinâmica e as posições serão
+ajustadas sempre que analisarmos nova informação! Vamos prosseguir!
+                                                       ==219a34==
+
+- C vem antes do A;
+                                              Posição               Letra
+                                                1º                    D
+                                                2º                    B
+                                                3º                    C
+                                                4º                    A
+                                                5º
+
+- E vem depois do D;
+
+                                              Posição               Letra
+                                                1º                    D
+                                                2º                    B
+                                                3º                    C
+                                                4º                    A
+                                                5º                    E
+
+- E vem antes do A;
+
+                                              Posição               Letra
+                                                1º                    D
+                                                2º                    B
+                                                3º                    C
+                                                4º                    E
+                                                5º                    A
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            17
+        www.estrategiaconcursos.com.br                                                                38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+- C vem depois do B.
+
+                                               Posição         Letra
+                                                 1º              D
+                                                 2º              B
+                                                 3º              C
+                                                 4º              E
+                                                 5º              A
+
+Nem precisamos alterar nada! A tabela já estava obedecendo a esse último fato.
+
+Com isso, verificamos que a letra A ocupa a última posição (5ª).
+
+Gabarito: LETRA E.
+
+10. (FGV/MPE-SP/2023) Agnes, Bianca e Cíntia são irmãs. Duas delas são gêmeas. Apenas uma
+das três não tem bicho de estimação. Cada uma delas estuda um idioma diferente. A que estuda
+alemão é gêmea da que tem um cachorro. A mais velha das três estuda francês. A que estuda
+italiano tem 15 anos. Agnes nasceu 2 anos antes da irmã que tem um gato. Bianca não estuda
+italiano. Nesse caso, é correto afirmar que
+A) Agnes tem 13 anos.
+B) Agnes não tem bicho de estimação.
+C) Bianca estuda italiano.
+D) Bianca tem um cachorro.
+E) Cíntia estuda francês.
+
+Comentários:
+Questão boa! Vamos organizar todas essas informações em uma tabela.
+
+
+                       Nome             Irmã             Pet           Idioma   Idade
+
+A primeira informação que podemos colocar na nossa tabela é: a que estuda alemão é gêmea da que
+tem um cachorro.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                  18
+        www.estrategiaconcursos.com.br                                                      38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                       Nome             Irmã            Pet           Idioma     Idade
+                                       Gêmea                          Alemão
+                                       Gêmea         Cachorro
+
+Depois, temos que a mais velha das três, estuda francês. Ora, se essa é a mais velha, então é essa que
+não é gêmea (fica difícil falar de quem é mais velho/velha entre gêmeos).
+
+
+                       Nome             Irmã            Pet           Idioma     Idade
+                                       Gêmea                          Alemão
+                                       Gêmea         Cachorro         Italiano
+                                        Não                          Francês
+
+
+Observe que já conseguimos completar com "italiano" a linha central, pois foi a última que sobrou.
+Ademais, temos que a que estuda italiano tem 15 anos. Como ela é gêmea, a outra irmã também terá
+15 anos.
+
+
+                       Nome             Irmã            Pet           Idioma     Idade
+                                       Gêmea                          Alemão      15
+                                       Gêmea         Cachorro         Italiano    15
+                                        Não                          Francês
+
+
+Como Agnes nasceu dois anos antes da irmã que tem um gato, podemos concluir que ela tem 17 anos
+e não possui pet.
+
+
+                       Nome             Irmã            Pet           Idioma     Idade
+                                       Gêmea            Gato          Alemão      15
+                                       Gêmea         Cachorro         Italiano    15
+                       Agnes            Não          Não tem         Francês      17
+
+
+Com a informação que Bianca não estuda italiano, podemos fechar a tabela:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                         19
+        www.estrategiaconcursos.com.br                                                             38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                       Nome             Irmã            Pet           Idioma     Idade
+                       Bianca          Gêmea            Gato          Alemão      15
+                       Cíntia          Gêmea         Cachorro         Italiano    15
+                       Agnes            Não          Não tem         Francês      17
+
+
+Com a tabela preenchida, vamos analisar as alternativas.
+
+A) Agnes tem 13 anos.
+Errado. Cuidado, pessoal! Agnes nasceu dois anos antes. Sendo assim, ela é mais velha 2 anos.
+
+B) Agnes não tem bicho de estimação.
+Correto! Chegamos nessa conclusão. Os pets são da Bianca e da Cíntia.
+
+C) Bianca estuda italiano.
+Errado. Bianca estuda Alemão.
+
+D) Bianca tem um cachorro.
+Errado. Bianca tem um gato.
+E) Cíntia estuda francês.
+Errado. Cíntia estuda italiano.
+
+Gabarito: LETRA B.
+
+11. (FGV/AGENERSA/2023) Em uma caixa há cartas verdes e cartas azuis, cada uma delas com
+um número inteiro positivo. Não há outras cartas na caixa. Além disso, sabe-se que:
+
+- A quantidade de cartas com números ímpares é igual à quantidade de cartas com números
+pares.
+- Há 38 cartas azuis, das quais 24 têm números pares.
+- Há 20 cartas verdes com números ímpares.
+
+Assinale a opção que indica a quantidade de cartas verdes com números pares somada à
+quantidade de cartas azuis com números ímpares.
+A) 20.
+B) 22.
+C) 24.
+D) 26.
+E) 28.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      20
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Questão um pouco mais numérica e que envolve também a associação de informações.
+
+Para resolvê-la, vamos contar com o auxílio de uma tabela!
+
+                                                 Ímpare
+                                                             Pares     Total
+                                                   s
+                                       Verde
+                                         s
+                                       Azuis
+                                       Total
+
+Sabemos que há 38 cartas azuis, das quais 24 têm números pares. Portanto, 14 são ímpares.
+
+                                                 Ímpare
+                                                             Pares     Total
+                                                   s
+                                       Verde
+                                         s
+                                       Azuis        14         24        38
+                                       Total
+
+Ademais, sabemos ainda que há 20 cartas verdes com números ímpares.
+
+                                                 Ímpare
+                                                             Pares     Total
+                                                   s
+                                       Verde
+                                                    20
+                                         s
+                                       Azuis        14         24        38
+                                       Total        34
+
+Observe que obtemos um total de 34 cartas ímpares. Como o número de cartas pares é o mesmo,
+devemos ter 10 cartas pares verdes.
+
+                                                 Ímpare
+                                                             Pares     Total
+                                                   s
+                                       Verde
+                                                    20         10        30
+                                         s
+                                       Azuis        14         24        38
+                                       Total        34         34        68
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                  21
+        www.estrategiaconcursos.com.br                                                      38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+A questão quer a soma da quantidade de cartas verdes com números pares com a quantidade de cartas
+azuis com números ímpares. Assim:
+
+                                       𝑇 = 14 + 10         →        𝑻 = 𝟐𝟒
+
+Gabarito: LETRA C.
+
+12. (FGV/CBM-AM/2022) Os amigos Abel, Breno e Caio são casados e suas esposas chamam-se
+Manuela, Nina e Paula. Sabe-se que:
+
+- Duas dessas três moças são irmãs.
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+É correto concluir que
+A) Caio é casado com Nina.
+B) Manuela não é esposa de Breno.
+C) Abel é casado com Nina.
+D) Nina é a irmã de Paula.
+E) Nina é esposa de Breno.
+
+Comentários:
+Pessoal, é superinteressante esquematizarmos uma tabela, pois ela nos ajuda a não nos perdermos com
+as informações. Vamos esquematizar uma!
+
+                                        Marido        Esposa        Irmãs?
+                                         Abel
+                                        Breno
+                                         Caio
+
+Com a tabela desenhada, começamos a analisar as informações que o enunciado passou.
+
+A primeira coisa que podemos notar é o seguinte:
+
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+
+Ora, se Paula não é esposa de Abel e Breno é casado com a irmã de Paula, então Paula só pode ser
+a esposa de Caio! Ademais, também percebemos que Paula tem uma irmã. Na tabela, ficamos com:
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      22
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                        Marido        Esposa        Irmãs?
+                                         Abel
+                                        Breno
+                                         Caio          Paula          Sim
+
+Por fim, temos que:
+
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+Ora, se Manuela se casou depois de Abel, ela não pode ser a esposa do Abel! Sendo assim, a Manuela só
+pode ser esposa do Breno uma vez que já sabemos que Paula é a esposa do Caio.
+
+                                        Marido        Esposa        Irmãs?
+                                         Abel
+                                        Breno        Manuela
+                                         Caio         Paula           Sim
+
+Note que a esposa de Abel só pode ser a Nina. Ademais, como sabemos que Breno é casado com a irmã
+de Paula, então Manuela e Paula são irmãs.
+
+                                        Marido       Esposa         Irmãs?
+                                         Abel         Nina            Não
+                                        Breno        Manuela          Sim
+                                         Caio         Paula           Sim
+
+Com a tabela esquematizada, podemos ir para a alternativas!
+
+A) Caio é casado com Nina.
+Errado. Caio é casado com Paula.
+
+B) Manuela não é esposa de Breno.
+Errado. Manuela é esposa de Breno.
+
+C) Abel é casado com Nina.
+Opa, é essa mesmo! Abel e Nina são casados.
+
+D) Nina é a irmã de Paula.
+Errado. Nina não é irmã de ninguém. Manuela e Paula são as irmãs.
+
+E) Nina é esposa de Breno.
+Errado. Nina é esposa de Abel.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        23
+        www.estrategiaconcursos.com.br                                                            38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Gabarito: LETRA C.
+
+13. (FGV/TRT-PB/2022) Miguel, Artur e Heitor possuem idades diferentes e nasceram em
+cidades diferentes; um nasceu em Patos, outro em Cabedelo e outro em Santa Rita. As três
+afirmações seguintes sobre eles são verdadeiras:
+
+- Miguel é mais velho que o cabedelense.
+- Artur nasceu em Patos.
+- Heitor não é o mais novo.
+
+É correto concluir que
+a) Miguel é mais novo que Artur.
+b) Heitor nasceu em Santa Rita.
+c) o santa-ritense é o mais velho.
+d) o cabedelense é mais velho que Miguel.
+e) Artur é mais velho que o patoense.
+
+Comentários:
+Vamos esquematizar uma tabela para facilitar as associações.
+
+
+                                    Pessoa            Cidade             Idade
+
+Pronto. Agora, vamos analisar as informações (todas verdadeiras).
+
+- Miguel é mais velho que o cabedelense.
+
+Ora, se Miguel é mais velho que o cabedelense, então Miguel não pode ser o cabedelense (rsrs). Assim,
+colocaremos em uma das linhas o nome "Miguel" e em uma outra linha a cidade Cabedelo.
+
+
+                                    Pessoa            Cidade             Idade
+                                    Miguel
+                                                     Cabedelo
+
+- Artur nasceu em Patos.
+
+Bem direto! É só jogar a informação na linha que ainda tem espaço!
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        24
+        www.estrategiaconcursos.com.br                                                            38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                    Pessoa            Cidade             Idade
+                                    Miguel
+                                                     Cabedelo
+                                     Artur             Patos
+
+
+Faltou apenas completar o nome de uma pessoa e de uma cidade. Completaremos com quem sobrou!
+
+
+                                    Pessoa            Cidade             Idade
+                                    Miguel          Santa Rita
+                                    Heitor           Cabedelo
+                                     Artur             Patos
+
+
+Por fim, vamos usar a última informação que o enunciado trouxe:
+
+- Heitor não é o mais novo.
+
+Ora, Heitor é o cabedelense e ele não é o mais novo. Sabemos ainda que Miguel é mais velho que o
+cabedelense. Logo, Miguel é o mais velho de todos, Heitor é o do meio e Artur é o mais novo.
+
+
+                                    Pessoa            Cidade             Idade
+                                    Miguel          Santa Rita        Mais velho
+                                    Heitor           Cabedelo           Do meio
+                                     Artur             Patos           Mais novo
+
+
+Fechamos! Agora é só analisarmos as alternativas.
+
+a) Miguel é mais novo que Artur.
+Errado. Miguel é o mais velho.
+
+b) Heitor nasceu em Santa Rita.
+Errado. Heitor nasceu em Cabedelo.
+
+c) o santa-ritense é o mais velho.
+Certo! Miguel nasceu em Santa Rita e é o mais velho.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                   25
+        www.estrategiaconcursos.com.br                                                       38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+d) o cabedelense é mais velho que Miguel.
+Errado. Miguel é mais velho que o cabedelense.
+
+e) Artur é mais velho que o patoense.
+Errado. Artur é o mais novo.
+
+Gabarito: Letra C
+
+14. (FGV/SEMSA-MANAUS/2022) Três amigos, Gael, Miguel e Gabriel moram em três bairros
+diferentes de Manaus. Um mora no Centro, outro mora em Flores e outro, em Aleixo. Considere
+as seguintes informações:
+
+- Gael é casado com a irmã de Gabriel e é mais velho do que quem mora em Aleixo.
+- Quem mora em Flores é filho único e é o mais novo dos três amigos.
+
+É correto concluir que
+A) Gael mora em Flores.
+B) quem mora no Centro é mais novo que Miguel.
+C) Gabriel mora em Aleixo.
+D) quem mora no Centro é mais novo que Gabriel.
+E) o mais velho não mora no Centro.
+
+Comentários:
+Mais uma questão em que devemos fazer associações! Para isso, prefira sempre usar tabelas, pois elas
+nos ajudam a não fazer confusão com as informações. Para essa questão, podemos esquematizar uma
+assim:
+
+                                       Amigo       Bairro      "Senioridade"
+                                        Gael
+                                       Miguel
+                                       Gabriel
+
+Agora, vamos analisar o que nos foi passado.
+
+1) Gael é casado com a irmã de Gabriel.
+Essa primeira informação nos permite concluir que Gabriel não é o filho único, pois ele tem uma irmã.
+
+2) Gael é mais velho do que quem mora em Aleixo.
+
+Essa segunda informação nos permite concluir que Gael não mora em Aleixo.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                        26
+        www.estrategiaconcursos.com.br                                                            38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+3) Quem mora em Flores é filho único
+
+Essa terceira informação nos permite concluir que Gabriel não mora em Flores, pois já vimos que ele
+não é filho único.
+
+4) Quem mora em Flores é o mais novo dos três amigos.
+
+Ora, se é o mais novo que mora em Flores, então podemos concluir que não é Gael que mora lá, já que
+ele é mais velho do que alguém (do que mora em Aleixo). Ademais, já sabemos que Gabriel não pode
+morar em Flores. Quem sobrou para morar lá?! O Miguel.
+
+                                       Amigo       Bairro      "Senioridade"
+                                        Gael
+                                       Miguel       Flores        Mais novo
+                                       Gabriel
+
+Ademais, se Gael não mora em Aleixo e já sabemos que Miguel é quem mora em Flores, então Gael
+só pode morar no Centro.
+
+                                       Amigo       Bairro      "Senioridade"
+                                        Gael       Centro
+                                       Miguel      Flores         Mais novo
+                                       Gabriel
+
+O bairro que sobra para Gabriel é o Aleixo.
+
+                                       Amigo       Bairro      "Senioridade"
+                                        Gael       Centro        Mais velho
+                                       Miguel      Flores        Mais novo
+                                       Gabriel     Aleixo         Do meio
+
+Vamos para as alternativas.
+
+A) Gael mora em Flores.
+Errado. Gael mora no Centro!
+
+B) quem mora no Centro é mais novo que Miguel.
+Errado. Quem mora no Centro é o mais velho.
+
+C) Gabriel mora em Aleixo.
+Opa, aqui está! É o nosso gabarito.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      27
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+D) quem mora no Centro é mais novo que Gabriel.
+Errado. Quem mora no Centro é o mais velho.
+
+E) o mais velho não mora no Centro.
+Errado. O mais velho mora no centro.
+
+Gabarito: LETRA C.
+
+15. (FGV/SEFAZ-AM/2022) Há 5 pessoas sentadas em volta de uma mesa circular, e as iniciais de
+seus nomes são A, B, C, D e E Dessas pessoas, 2 são médicos e 3 são professores.
+
+Sabe-se que:
+- Os dois médicos não são vizinhos.
+- C tem um médico à esquerda e um professor à direita.
+- A tem vizinhos da mesma profissão.
+- B tem médico à direita.
+- C e D não são vizinhos.
+
+A partir de A, a sequência das pessoas no sentido anti-horário é
+A) A D B E C
+B) A E C B D
+C) A E B D C
+D) A B D C E
+E) A B C D E
+
+Comentários:
+Questão bem interessante! Vamos abordá-la de uma forma diferente! A primeira informação que chama
+a atenção é a seguinte: C e D não são vizinhos. Com ela, podemos eliminar todas as alternativas em que
+"C" e "D" aparecem vizinhos. São elas: C, D e E. Note que com essa análise, já cortamos três alternativas
+e aumentamos nossas chances de acertar para 50%.
+
+A segunda informação que podemos analisar é a seguinte: A tem vizinhos da mesma profissão. Ora,
+se A tem vizinhos da mesma profissão, então A não pode ser médico. Observe que só temos dois médicos.
+Se A fosse médico, seu vizinho poderia ser um médico, mas o outro não poderia ser. Afinal só são dois
+médicos!! Com isso, guarde a informação que A é professor! Vamos esquematizar
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                            28
+        www.estrategiaconcursos.com.br                                                                38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                                                                   MED
+                          PROF
+
+                                                                                         PROF
+                    𝑨                       MED
+                                                                             𝑨
+                 PROF                                                  PROF
+                                                           OU
+
+                     PROF               MED                                      MED     PROF
+
+A terceira informação que cabe bem nesse momento é: Os dois médicos não são vizinhos. Ora, se os
+dois médicos não são vizinhos, então ficamos com a seguinte configuração:
+
+
+                                                                                   MED
+                          PROF
+
+                                                                                         PROF
+                    𝑨                       MED
+                                                                             𝑨
+                 PROF                                                  PROF
+                                                           OU
+
+                     PROF               MED                                      MED     PROF
+                      Médicos não são vizinhos
+
+
+Pronto, sabemos a configuração válida é a da direita! Falta descobrir quem é médico e quem é professor.
+                                                       MED
+
+                                                                    PROF
+                                                 𝑨
+                                            PROF
+
+                                                     MED          PROF
+
+Agora, vamos usar a informação: C tem um médico à esquerda e um professor à direita.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                          29
+        www.estrategiaconcursos.com.br                                                              38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                                                  MED
+
+                                                                PROF
+                                          𝑨
+                                       PROF
+                                                                    Professor à
+                                                                     DIREITA
+                                                                𝑪
+                                              MED            PROF
+                                                     Médico à
+                                                    ESQUERDA
+
+
+Vejamos agora: B tem médico à direita.
+
+
+                                                     MED         Médico à
+                                                                  direita
+
+                                              𝑨                          𝑩
+                                          PROF                        PROF
+
+
+                                                                     𝑪
+                                                  MED               PROF
+
+Por fim, como C não pode ser vizinho de D, então D só pode ser o médico que está entre A e B.
+
+
+                                                           𝐃
+                                                           MED
+
+                                              𝑨                          𝑩
+                                          PROF                        PROF
+
+
+                                                                     𝑪
+                                                  𝐄                 PROF
+                                                  MED
+
+Pronto! A resposta é a lista das iniciais, a partir de A, no sentido anti-horário: AECBD.
+
+Gabarito: LETRA B.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                      30
+        www.estrategiaconcursos.com.br                                                          38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+                               LISTA DE QUESTÕES - FGV
+
+Associação Lógica
+
+1. (FGV/CVM/2024) Alberto, Bernardo e Cláudio têm idades diferentes e vestem camisetas de
+cores diferentes. Um está com camiseta branca, outro com camiseta verde e um terceiro com
+camiseta azul. Sabe-se que:
+
+- quem veste camiseta branca é o mais velho;
+- Alberto não está com camiseta branca;
+- Bernardo é mais jovem que Alberto e não está com camiseta azul.
+
+É correto concluir que:
+A) Alberto é o mais velho dos três;
+B) Bernardo está com camiseta verde;
+C) Cláudio está com camiseta azul;
+D) Alberto está com camiseta verde;
+E) Cláudio é o mais jovem dos três.
+
+2. (FGV/ALESC/2024)
+
+Cinco carros (V, W, X, Y e Z) disputam uma corrida em um autódromo. Dada a largada, no final
+da primeira volta a ordem dos carros era V – W – X – Y – Z. Durante a corrida ocorreram, em
+sequência, as seguintes ultrapassagens:
+
+• o 3º fez uma ultrapassagem;
+• o 5º fez duas ultrapassagens;
+• o 3º fez duas ultrapassagens;
+• o 4º fez duas ultrapassagens.
+
+Depois disso, nenhuma outra ultrapassagem ocorreu e a corrida terminou.
+
+Portanto, o único carro que chegou na mesma posição de partida foi:
+A) V.
+B) W.
+C) X
+D) Y.
+E) Z.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático               31
+        www.estrategiaconcursos.com.br                                                   38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+3. (FGV/PMERJ/2024) Quatro objetos, A, B, C e D, possuem pesos diferentes. Sabe-se que:
+
+- A é mais pesado que B.
+- C é mais leve que A.
+- D é mais leve que B, mas não é o mais leve de todos.
+
+É correto concluir que:
+A) A não é o mais pesado de todos;
+B) B é mais leve que D;
+C) C é mais pesado que B;
+D) C é mais leve que D;
+E) B é mais leve que C.
+
+4. (FGV/CM-SP/2024) Ana, Beto, Carla, Danilo e Elisa participaram de uma corrida com outros 5
+participantes. Ana chegou 4 posições atrás de Carla. Carla chegou uma posição à frente de Beto.
+Danilo chegou 4 posições atrás de Elisa e Elisa chegou 2 posições atrás de Beto. Ana chegou na
+6ª posição. Nesse caso, é correto afirmar que
+A) Ana chegou atrás de Danilo.
+B) Beto chegou na 2ª posição.
+C) Carla chegou na 1ª posição.
+D) Danilo chegou na 9ª posição.
+E) Elisa chegou na 7ª posição.
+
+5. (FGV/CM-SP/2024) Na prateleira de uma cozinha há três potes: A, B e C. Um deles contém
+arroz, outro contém feijão e outro contém farinha. Das afirmativas seguintes, somente uma é
+verdadeira:
+
+- A contém farinha.
+- B não contém feijão.
+- C não contém farinha.
+
+Nesse caso, é correto afirmar que:
+A) o pote A contém feijão.
+B) o pote B contém farinha.
+C) o pote C contém feijão.
+D)o pote A contém arroz.
+E) o pote B não contém arroz.
+
+6. (FGV/CÂMARA DOS DEPUTADOS/2023) Ângelo, Bernardo, Cássio, Duílio e Evandro são cinco
+irmãos. Bernardo e Duílio são mais velhos do que Evandro, Bernardo é mais novo do que Cássio,
+Ângelo é mais novo do que Evandro e Cássio não é o mais velho. O irmão do meio é o
+A) Ângelo
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                  32
+        www.estrategiaconcursos.com.br                                                      38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+B) Bernardo.
+C) Cássio.
+D) Duílio.
+E) Evandro.
+
+7. (FGV/CÂMARA DOS DEPUTADOS/2023) O Professor Goodear tem como alunas de música Ana,
+Beth, Cecília, Débora e Elisa. Ele dá aulas às segundas, terças, quartas, quintas e sextas-feiras.
+Das cinco alunas, três estudam violão e duas estudam flauta. Em certa semana, cada uma delas
+foi à aula em um dia diferente, sendo que três delas foram no período da manhã e duas no
+período da tarde. Sabemos que Ana e Débora estudam o mesmo instrumento, enquanto Cecília e
+Elisa estudam instrumentos distintos. Além disso, Beth e Elisa tiveram aula no mesmo período,
+ao passo que Ana e Cecília estudaram em períodos diferentes. Houve um dia com aula de flauta
+à tarde. Nesse dia, quem teve aula foi
+A) Ana.
+B) Beth.
+C) Cecília.
+D) Débora.
+E) Elisa.
+
+8. (FGV/PM-SP/2023) Pereira, Rodrigues, Santos e Tavares são soldados que disputam uma
+corrida. Em certo momento da competição, as suas posições são tais que:
+
+- Se Tavares ultrapassar 2 soldados, passará a ser o 1º colocado;
+- Pereira não é o último colocado;
+- Santos não pode ultrapassar ninguém.
+
+Se apenas essas quatro pessoas estão disputando a corrida, conclui-se que
+A) Santos está em primeiro e Rodrigues está em terceiro.
+B) Pereira está em primeiro e Tavares está em terceiro.
+C) Pereira está em segundo e Rodrigues está em quarto.
+D) Rodrigues está em segundo e Tavares está em terceiro.
+9. (FGV/MPE-SP/2023) Considere uma das sequências formadas pelas letras do conjunto {A, B,
+C, D, E}. Sabe-se que nessa sequência:
+
+- B vem depois do D;
+- C vem antes do A;
+- E vem depois do D;
+- E vem antes do A;
+- C vem depois do B.
+
+Com base nessas informações, é possível garantir que, nessa sequência, a letra A ocupa a
+A) 1ª posição.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                     33
+        www.estrategiaconcursos.com.br                                                         38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+B) 2ª posição.
+C) 3ª posição.
+D) 4ª posição.
+E) 5ª posição.
+
+10. (FGV/MPE-SP/2023) Agnes, Bianca e Cíntia são irmãs. Duas delas são gêmeas. Apenas uma
+das três não tem bicho de estimação. Cada uma delas estuda um idioma diferente. A que estuda
+alemão é gêmea da que tem um cachorro. A mais velha das três estuda francês. A que estuda
+italiano tem 15 anos. Agnes nasceu 2 anos antes da irmã que tem um gato. Bianca não estuda
+italiano. Nesse caso, é correto afirmar que
+A) Agnes tem 13 anos.
+B) Agnes não tem bicho de estimação.
+C) Bianca estuda italiano.
+D) Bianca tem um cachorro.
+E) Cíntia estuda francês.
+
+11. (FGV/AGENERSA/2023) Em uma caixa há cartas verdes e cartas azuis, cada uma delas com
+um número inteiro positivo. Não há outras cartas na caixa. Além disso, sabe-se que:
+
+- A quantidade de cartas com números ímpares é igual à quantidade de cartas com números
+pares.
+- Há 38 cartas azuis, das quais 24 têm números pares.
+- Há 20 cartas verdes com números ímpares.
+
+Assinale a opção que indica a quantidade de cartas verdes com números pares somada à
+quantidade de cartas azuis com números ímpares.
+A) 20.
+B) 22.
+C) 24.
+D) 26.
+E) 28.
+
+12. (FGV/CBM-AM/2022) Os amigos Abel, Breno e Caio são casados e suas esposas chamam-se
+Manuela, Nina e Paula. Sabe-se que:
+
+- Duas dessas três moças são irmãs.
+- Paula não é esposa de Abel.
+- Breno é casado com a irmã de Paula.
+- O casamento de Manuela ocorreu depois do casamento de Abel.
+
+É correto concluir que
+A) Caio é casado com Nina.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático               34
+        www.estrategiaconcursos.com.br                                                   38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+B) Manuela não é esposa de Breno.
+C) Abel é casado com Nina.
+D) Nina é a irmã de Paula.
+E) Nina é esposa de Breno.
+
+13. (FGV/TRT-PB/2022) Miguel, Artur e Heitor possuem idades diferentes e nasceram em
+cidades diferentes; um nasceu em Patos, outro em Cabedelo e outro em Santa Rita. As três
+afirmações seguintes sobre eles são verdadeiras:
+
+- Miguel é mais velho que o cabedelense.
+- Artur nasceu em Patos.
+- Heitor não é o mais novo.
+
+É correto concluir que
+                                                       ==219a34==
+
+a) Miguel é mais novo que Artur.
+b) Heitor nasceu em Santa Rita.
+c) o santa-ritense é o mais velho.
+d) o cabedelense é mais velho que Miguel.
+e) Artur é mais velho que o patoense.
+
+14. (FGV/SEMSA-MANAUS/2022) Três amigos, Gael, Miguel e Gabriel moram em três bairros
+diferentes de Manaus. Um mora no Centro, outro mora em Flores e outro, em Aleixo. Considere
+as seguintes informações:
+
+- Gael é casado com a irmã de Gabriel e é mais velho do que quem mora em Aleixo.
+- Quem mora em Flores é filho único e é o mais novo dos três amigos.
+
+É correto concluir que
+A) Gael mora em Flores.
+B) quem mora no Centro é mais novo que Miguel.
+C) Gabriel mora em Aleixo.
+D) quem mora no Centro é mais novo que Gabriel.
+E) o mais velho não mora no Centro.
+
+15. (FGV/SEFAZ-AM/2022) Há 5 pessoas sentadas em volta de uma mesa circular, e as iniciais de
+seus nomes são A, B, C, D e E Dessas pessoas, 2 são médicos e 3 são professores.
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                35
+        www.estrategiaconcursos.com.br                                                    38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 09
+
+Sabe-se que:
+
+- Os dois médicos não são vizinhos.
+- C tem um médico à esquerda e um professor à direita.
+- A tem vizinhos da mesma profissão.
+- B tem médico à direita.
+- C e D não são vizinhos.
+
+A partir de A, a sequência das pessoas no sentido anti-horário é
+A) A D B E C
+B) A E C B D
+C) A E B D C
+D) A B D C E
+E) A B C D E
+
+        Receita Federal (Analista Tributário) Raciocínio Lógico Matemático   36
+        www.estrategiaconcursos.com.br                                       38
+
+                                    
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 09
+
+                                              GABARITO
+ 1. LETRA B                                6. LETRA B                      11. LETRA C
+ 2. LETRA B                                7. LETRA C                      12. LETRA C
+ 3. LETRA D                                8. LETRA C                      13. LETRA C
+ 4. LETRA D                                9. LETRA E                      14. LETRA C
+ 5. LETRA A                                10. LETRA B                     15. LETRA B
+
+      Receita Federal (Analista Tributário) Raciocínio Lógico Matemático                 37
+      www.estrategiaconcursos.com.br                                                     38
+
+                                  
+
+
+---
+
+---

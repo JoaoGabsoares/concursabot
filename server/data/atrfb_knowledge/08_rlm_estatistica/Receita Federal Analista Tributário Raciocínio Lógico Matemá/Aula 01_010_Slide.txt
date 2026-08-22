@@ -1,0 +1,84 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+TABELA-VERDADE DO “SE E SOMENTE SE”
+
+
+
+
+                                            Prof. Brunno Lima
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se e somente se”
+      Bicondicional (  )
+
+                                                                           
+                                                            V         V
+                        SE E SOMENTE SE
+                                                            V         F
+                                                            F         V
+                                                            F         F
+
+
+TABELA-VERDADE DO “SE E SOMENTE SE”
+Prof. Brunno Lima
+
+
+
+
+                                      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se e somente se”
+       Exemplo:
+
+
+
+       A: O número é par se e somente se ele é divisível por 2.
+
+
+
+
+TABELA-VERDADE DO “SE E SOMENTE SE”
+Prof. Brunno Lima
+
+
+
+
+                                      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se e somente se”
+
+      P            Q            PQ                              Exemplos:
+      V            V                                        É par/ É divisível por 2
+
+      V             F                                     É par/ Não é divisível por 2
+
+      F             V                                     Não é par/ É divisível por 2
+
+      F             F                                  Não é par / Não é divisível por 2
+
+
+
+TABELA-VERDADE DO “SE E SOMENTE SE”
+Prof. Brunno Lima
+
+
+
+
+                                      https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,1318 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Trilhas Estratégicas, Simulados e Monitoria
+tags:
+- trilhas
+- planejamento
+- simulados
+- ciclo_estudos
+arquivo_origem: Aula 10_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Livro Eletrônico
+artigos_citados:
+- Art. 5º
+- art. 14
+- art. 150
+- art. 5
+- art. 5º
+---
+
+# Livro Eletrônico
+
+Livro Eletrônico
+
+                               Trilha 08
+
+Receita Federal (Analista Tributário) Trilha Estratégica
+Professor: Guilherme Carvalho, Glesler Sales Maldonado
+
+                  
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+TRILHA ESTRATÉGICA - ANALISTA-TRIBUTÁRIO DA
+         RECEITA FEDERAL DO BRASIL
+Olá, pessoal!
+
+Esperamos que os estudos estejam em dia.
+
+Nessa semana, iniciaremos a Trilha Estratégica nº 08 para o concurso de Analista-Tributário da
+Receita Federal do Brasil.
+
+Caso vocês ainda não tenham terminado a Trilha nº 07, não se preocupem! Finalizem aquela e, aí
+sim, comecem a Trilha dessa semana.
+
+“Se você quer ser bem-sucedido, precisa ter dedicação total e buscar
+                          seu último limite e dar o melhor de si.”
+                                                                           (Ayrton Senna)
+
+Não se esqueçam do link da nossa Comunidade de Alunos da Área Fiscal no Telegram. Vocês
+podem fazer a inscrição clicando no endereço eletrônico logo abaixo:
+
+                         Inscreva-se na Comunidade de alunos da Área Fiscal
+
+                                      
+
+Agora, sem mais delongas, vamos aos estudos, vamos detonar esta Trilha!
+
+A cada dia que passa que passa, você está mais próximo de se tornar Analista-Tributário da
+Receita Federal do Brasil.
+
+                                                                                            1
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                             TRILHA ESTRATÉGICA 08
+Disponibilizaremos, individualmente, nesta seção, as Trilhas de cada uma das disciplinas
+trabalhadas por nós. O objetivo é que o aluno possa fazer ajustes no seu estudo a depender do
+nível em que ele está em determinada matéria.
+
+                   Matéria                                                   Trilha de Disciplina
+    Administração de Compras e Materiais                              http://estrategi.ac/s8pmuf
+         Administração Financeira                                      http://estrategi.ac/i49ply
+            Administração Geral                                        http://estrategi.ac/zjquiu
+           Administração Pública                                      http://estrategi.ac/hhtwx0
+                Contabilidade                                         http://estrategi.ac/6as99x
+           Direito Administrativo                                      http://estrategi.ac/zft0pi
+           Direito Constitucional                                          http://estrategi.ac/asslij
+            Direito Previdenciário                                     http://estrategi.ac/vsr4dq
+              Direito Tributário                                       http://estrategi.ac/be9d16
+                  Estatística                                          http://estrategi.ac/b5lzpu
+             Fluência em Dados                                             http://estrategi.ac/xj5lzf
+                    Inglês                                             http://estrategi.ac/e83itz
+            Legislação Aduaneira                                       http://estrategi.ac/b69jaf
+            Legislação Tributária                                      http://estrategi.ac/ib6bq3
+                  Português                                            http://estrategi.ac/5jbbzt
+       Raciocínio Lógico Matemático                                    http://estrategi.ac/6ld8x9
+
+                                                                                                        2
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Segue resumo das tarefas que abordaremos nesta trilha.
+
+  Tarefa          Disciplina                                       Resumo das tarefas
+
+121           Português             Revisão da aula 03 e resolução de questões.
+
+122           Contabilidade         Estudo da aula 17, de “CPC 00: Estrutura Conceitual Básica da
+                                    Contabilidade” até “Restrição de Custo na Elaboração e
+                                    Divulgação de Relatório Contábil-Financeiro Útil”, inclusive.
+
+123           Dir. Tributário       Estudo da aula 02, de “Imunidades-Aspectos Gerais” até
+                                    “Imunidade Religiosa”, inclusive.
+
+124           Constitucional        Estudo da aula 03, de “Remédios Constitucionais - Inciso LXVIII”
+                                    até o final da parte teórica; e resolução de 13 questões.
+
+125           RLM                   Revisão da aula 06 (Raciocínio Sequencial); e resolução de
+                                    questões do SQ.
+
+126           Dir. Admin.           Estudo da aula 06 - Parte 1 de 2: Estude o tópico 1. Serviços
+                                    Sociais Autônomos, Entidades de Apoio e Outras Entidades
+                                    Paraestatais e 2. Organizações Sociais. Organizações da
+                                    Sociedade Civil de Interesse Público.
+
+127           Português             Resolução de questões da Aula 03.
+
+128           Contabilidade         Estudo da aula 17, de “Capítulo 3: Demonstrações Contábeis e
+                                    a entidade que reporta” até o final da parte teórica.
+
+129           Dir. Tributário       Estudo da aula 02, “Imunidade dos Partidos Políticos, Entidades
+                                    Sindicais dos Trabalhadores, Instituições de Educação e de
+                                    Assistência Social” até o fim da parte teórica.
+
+130           Constitucional        Resolução de 28 questões do PDF da Aula 03.
+
+131           RLM                   Estudar a aula 07 (Orientação Temporal); e resolução de 6
+                                    questões.
+
+132           Dir. Admin.           Estudo da aula 06 – Parte 2 de 2: Estude todo o tópico 3) Regime
+                                    de Parcerias (Lei nº 13.019/2014).
+
+133           Contabilidade         Prática de exercícios da aula 17 - Resolução de 12 questões do
+                                    PDF.
+
+134           RLM                   Revisão da aula 07 (Orientação Temporal); e resolução de 22
+                                    questões do PDF.
+
+135           Dir. Admin.           Revisão da Aula 06 e resolução de 26 questões do PDF.
+
+                                                                                                   3
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                   TAREFA 121
+
+                                                     Português
+
+Revisão da aula 03 e resolução de questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa revisaremos a aula sobre Pronomes e Colocação Pronominal. Primeiramente, leia
+suas anotações/resumo dessa aula e refaça as questões que errou na época.
+
+Em seguida, para consolidar a aprendizagem dos assuntos estudados na Aula 03, resolvas as 15
+primeiras questões que aparecerem nas listas de questões comentadas.
+
+Anote as questões que sentir dificuldade para que você possa priorizar determinados tópicos no
+momento da revisão. Essa atitude o ajudará a melhorar seu desempenho no decorrer dos estudos.
+
+Além disso, após resolver as questões, leia atentamente os comentários e aproveite para melhorar
+seus grifos e/ou resumo no que julgar importante.
+
+                                                                                              4
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 122
+
+                                    Contabilidade Geral e Avançada
+
+Estudo da aula 17, de “CPC 00: Estrutura Conceitual Básica da Contabilidade” até
+“Restrição de Custo na Elaboração e Divulgação de Relatório Contábil-Financeiro Útil”,
+inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Nesta tarefa, você irá estudar o CPC 00, que traz a Estrutura Conceitual para Elaboração e
+Apresentação das Demonstrações Contábeis, marco da convergência brasileira às normas
+internacionais de Contabilidade.
+
+Esta aula traz muitas definições literais desse pronunciamento, e você irá perceber que as questões
+sobre o tema não são muito criativas, resumindo-se a cobrar o conhecimento dessa literalidade.
+Portanto, leia com bastante atenção e fique atento às questões comentadas que foram colocadas
+pelo professor ao longo da teoria.
+
+De antemão, você deve conhecer a finalidade da Estrutura Conceitual. Perceba que o CPC 00 não
+é uma norma propriamente dita e não se sobrepõe a qualquer pronunciamento contábil.
+
+Seguindo, saiba qual é o objetivo do relatório financeiro para fins gerais e a quem ele se destina
+(importante saber que é voltado para os usuários externos). Saiba também que as demonstrações
+não possuem todas as informações de que necessitam os usuários e não são elaborados para
+mostrar o valor da entidade.
+
+O item 1.17 do pronunciamento ressalta que o Regime de Competência fornece melhor base de
+avaliação da performance da entidade e, portanto, deve ser utilizado como regra geral, embora
+também seja elaborada a Demonstração de Fluxo de Caixa seguindo o regime de caixa.
+
+As características qualitativas de informações financeiras úteis são muito cobradas nas provas.
+Em suma:
+
+FUNDAMENTAIS (RE-RE)
+
+Relevância
+
+Representação fidedigna
+
+DE MELHORIA (CO-CO-TE-VE)
+
+Comparabilidade
+
+                                                                                                 5
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Compreensibilidade
+
+Tempestividade
+
+Verificabilidade (atualmente chamada de Capacidade de Verificação)
+
+Informação relevante é aquela capaz de fazer diferença nas decisões dos usuários. Para tal, ela
+deve ter valor preditivo, confirmatório ou ambos. Importante saber que relevância não se confunde
+com materialidade, mas se trata de um aspecto dela.
+
+A representação fidedigna requer que a informação seja completa, neutra e livre de erros,
+prezando pela essência dos fatos em detrimento da forma. Além disso, conheça o histórico
+envolvendo o princípio da prudência e a redação trazida pelo CPC 00 (R2), vigente a partir de 2020
+(e, portanto, passível de cobrança). Em suma, atualmente ele é aplicado como base para a
+neutralidade, um dos aspectos da representação fidedigna.
+
+Dando continuidade ao estudo da aula com as características qualitativas de melhoria da
+informação contábil. Você deve saber a definição e as características de cada uma delas (para
+recordar: comparabilidade, verificabilidade, tempestividade e compreensibilidade). Ao final da
+explicação, o professor apresenta um resumo e um mapa mental para consolidar as informações,
+algo que sugiro que seja levado para o seu material de revisão. Alguns pontos importantes:
+
+- A comparabilidade permite aos usuários compreender similaridades e diferenças entre os itens.
+Portanto, ela requer no mínimo dois itens. É primordial saber que não se confunde com
+consistência tampouco com uniformidade.
+
+- A verificabilidade se obtém quando dois observadores podem chegar a um consenso a respeito
+da informação (o que não significa um acordo completo).
+
+- A tempestividade requer que as informações estejam disponíveis a tempo de influenciar nas
+decisões dos usuários.
+
+- Quanto à compreensibilidade, alguns fenômenos contábeis são complexos por si só, o que não
+permite que se excluam informações relativas a eles para tornar o relatório mais compreensível.
+
+Saiba, ainda, que o custo é uma restrição à geração de informações contábeis.
+
+                                                                                                6
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 123
+
+                                                Direito Tributário
+
+Estudo da aula 02, de “Imunidades-Aspectos Gerais” até “Imunidade Religiosa”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Nesta tarefa, serão estudados os seguintes assuntos: imunidades tributárias (parte 1).
+
+Sugere-se que este estudo seja feito em duas etapas:
+
+1) Primeiramente, faça uma leitura rápida de todas as páginas indicadas, sem se preocupar em
+fazer marcações, anotações e/ou resumos. A ideia é que o aluno tenha um primeiro contato com
+o novo conteúdo, em outras palavras, uma visão panorâmica acerca do que será estudado.
+
+2) Descanse um pouco (no máximo 15 minutos).
+
+3) Em seguida, faça um estudo mais minucioso, buscando ter atenção aos destaques dados pelo
+professor. Aproveite a oportunidade para fazer suas marcações, anotações no próprio pdf e/ou
+resumos, de forma que esse material sirva para futuras revisões.
+
+Em relação ao conteúdo desta tarefa, tenha atenção aos seguintes pontos:
+
+A imunidade não exime certo ente das obrigações acessórias instituídas pela legislação tributária.
+
+STF (RE 250.844): “exigir de entidade imune a manutenção de livros fiscais é consentâneo com o
+gozo da imunidade tributária (...)”. A manutenção de livros fiscais é um exemplo de obrigação
+acessória.
+
+A imunidade pode ser considerada uma incompetência tributária.
+
+A isenção decorre do exercício da competência tributária e o fato gerador do tributo chega a
+ocorrer, e a obrigação tributária chega a existir.
+
+                                                                                                7
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Todas as imunidades previstas no art. 150, VI, da CF/88, são consideradas genéricas.
+
+A imunidade do art. 150, VI, a, da Constituição somente se aplica ao imposto incidente sobre
+serviço, patrimônio ou renda do próprio ente beneficiado, na qualidade de contribuinte de direito.
+
+Para o STJ, o ônus de provar que o patrimônio da autarquia está desvinculado dos seus objetivos
+institucionais é do ente tributante.
+
+O STF já concedeu imunidade às seguintes EP e SEM: Empresa Brasileira de Correios e Telégrafos
+(ECT) – (STF, RE 407.099); Infraero – (STF, RE 524.615-AgR); Companhia de Águas e Esgoto de
+Rondônia (CAERD) – (STF, AC 1.550-2/RO); Companhia Docas do Estado de São Paulo (Codesp) –
+(STF, RE 253.472); Casa da Moeda do Brasil (CMB) – (STF, RE 610.517); Serviço Federal de
+Processamento de Dados (Serpro) (STF, ACO 2.568).
+
+A Ordem dos Advogados do Brasil (OAB) é imune.
+
+As Caixas de Assistência dos Advogados também são imunes.
+
+O simples fato de o serviço ter natureza pública não basta para ficar caracterizada a imunidade!
+
+                                                                                                   8
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+A imunidade religiosa é incondicionada!
+
+Somente sindicatos de trabalhadores estão abrangidos pela imunidade. Os sindicatos dos
+empregadores ou de setores (ou categorias) econômicos não estão.
+
+Repare que a imunidade religiosa não se submete às restrições do art. 14 do CTN.
+
+Para o STF, as escolas de ensino profissionalizante estão enquadradas no rol de entidades.
+
+A cobrança de mensalidades pelas entidades educacionais não descaracteriza a imunidade, se não
+houver distribuição de rendas, lucro ou participação nos seus resultados.
+
+Súmula STF 730 - A imunidade tributária conferida a instituições de assistência social sem fins
+lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de
+previdência social privada se não houver contribuição dos beneficiários.
+
+Súmula STF 657 - A imunidade prevista no art. 150, VI, d, da CF abrange os filmes e papéis
+fotográficos necessários à publicação de jornais e periódicos.
+
+A concessão da imunidade sobre livros, jornais e periódicos independe da prova do valor cultural
+ou pedagógico da publicação.
+
+                                                                                              9
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Súmula STF 659 - É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações
+relativas à energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e
+minerais do País.
+
+                                                                                              10
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 124
+
+                                            Direito Constitucional
+
+Estudo da aula 03, de “Remédios Constitucionais - Inciso LXVIII” até o final da parte teórica;
+e resolução de 13 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Para finalizarmos os estudos do art. 5º, vamos estudar as considerações sobre os incisos LXVIII ao
+LXXVIII.
+
+O tópico principal desses incisos são os remédios constitucionais (garantias fundamentais),
+portanto este deve ser o seu foco na tarefa de hoje.
+
+No tópico sobre habeas corpus, remédio ou ação constitucional que protegerá o direito à
+locomoção no caso de violação ou quando for possível que esta aconteça (repressivo ou
+preventivo), você deve internalizar que este remédio é gratuito, não necessita de advogado para
+ser postulado e que, apesar do rito sumário, cabe medida liminar. Embora proteja o direito de
+locomoção das pessoas físicas, a favor destas podem impetrá-lo: pessoas jurídicas, Ministério
+Público, Defensoria Pública e juízes, de ofício. Fique atento aos casos nos quais não é cabível
+habeas corpus. O quadro-resumo é excelente para te auxiliar na compreensão.
+
+O inciso seguinte traz o outro remédio constitucional: o mandado de segurança. Esta ação visa
+proteger direito líquido e certo e só pode ser requerida quando incabível qualquer outra medida.
+Alguns pontos a serem absorvidos deste trecho são: pode ser interposto contra ações e omissões
+do Poder Público ou de quem aja em nome dele; depende de prova pré-constituída e deve ser
+interposto em até 120 dias do conhecimento do ato. Além disso, deve-se conhecer quem pode
+propô-lo, inclusive no caso de mandado de segurança coletivo, bem como os casos aos quais é
+inaplicável. Veja os respectivos quadros do MS individual e do MS coletivo.
+
+Quanto ao mandado de injunção, devemos saber que pode ser impetrado quando a falta de
+norma regulamentadora impede o exercício de algum direito, ainda que a omissão seja parcial.
+Preste atenção aos casos em que não é cabível. A eficácia da decisão – concretista ou não – não é
+muito presente em provas, leia-a com o intuito de conhecer.
+
+O habeas data é uma ação de caráter pessoal, em que alguém requer informações a seu respeito
+ou a correção destas que estejam em banco de dados públicos ou de caráter público. Este tem
+uma característica bem peculiar, só pode ser impetrado após negativa da disponibilização dos
+dados pela autoridade administrativa. Assim como o habeas corpus, é gratuito, mas depende da
+assistência de um advogado.
+
+                                                                                               11
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+A ação popular pode ser proposta por cidadão para anular ato ilegal, imoral ou lesivo ao
+patrimônio público. Em regra, é gratuita, mas se o impetrante agir de má-fé, deverá arcar com os
+custos. É preciso saber contra quem pode ser proposta e qual a função do Ministério Público.
+Memorize: a ação popular contra autoridade política será julgada na primeira instância, não há foro
+por prerrogativa de função.
+
+Para finalizar, algumas dicas importantes:
+
+Cuidado com pegadinhas que dizem que a certidão de casamento é gratuita para os
+reconhecidamente pobres. Não há esta previsão na CF/88!
+
+Os direitos e garantias previstos no art. 5º não são taxativos.
+
+Atente-se aos requisitos de aprovação do tratado internacional sobre direitos humanos para que
+seja equiparável à emenda constitucional.
+
+Ao final da leitura, resolva as questões abaixo com o intuito de reforçar o que foi lido na teoria e já
+conhecer como as bancas costumam explorar tais assuntos.
+
+- Remédios Constitucionais - FGV: questões pares de 01 a 26;
+
+Sugiro que você resolva as questões pela lista com comentários, leia todas as alternativas antes de
+marcar o gabarito e só então veja a resposta. Isso vai ajudá-lo a ir se apropriando do conteúdo.
+Depois, leia os comentários do professor e grife o que julgar importante para futuras revisões.
+
+E não esqueça de deixar assinaladas as questões que você errar, ou responder com dúvida. Elas
+serão muito úteis nas nossas revisões.
+
+                                                                                                   12
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 125
+
+                                      Raciocínio Lógico Matemático
+
+Revisão da aula 06 (Raciocínio Sequencial); e resolução de questões do SQ.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer mais uma revisão do nosso PDF. Revise as fórmulas e as principais informações da
+aula.
+
+Após, resolva as questões do link a seguir:
+
+http://questo.es/1zt038
+
+Ao final, leia apenas os comentários das questões que errou ou que teve dúvida.
+
+Caso identifique algum ponto da matéria que não esteja tão bem consolidado, retorne à respectiva
+aula do curso regular e reforce este ponto.
+
+                                                                                             13
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 126
+
+                                            Direito Administrativo
+
+Estudo da aula 06 - Parte 1 de 2: Estude o tópico 1. Serviços Sociais Autônomos, Entidades
+de Apoio e Outras Entidades Paraestatais e 2. Organizações Sociais. Organizações da
+Sociedade Civil de Interesse Público.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Ainda dentro de Organização Administrativa, partiremos para a aula 06, sobre Entidades
+Paraestatais e Terceiro Setor.
+
+Estude os seguintes tópicos da aula: Entidades para Entidades paraestatais e o terceiro setor:
+Serviços Sociais Autônomos, Organizações Sociais (OS), Organizações da sociedade civil de
+interesse público (OSCIP) e Diferenças entre OS e OSCIP.
+
+Na próxima tarefa, estudaremos as Entidades de Apoio e as Organizações da Sociedade Civil.
+
+Inicie a aula destacando o conceito de terceiro setor. Entenda a diferença entre privatização e
+Publicização. Todos os conceitos iniciais apresentados, bem como citações doutrinárias não
+requerem que o aluno decore, mas que entenda para seguir no estudo da aula.
+
+Uma informação importante e que merece ser decorada é que as entidades paraestatais não fazem
+parte da Administração Pública.
+
+Inicie o estudo dos serviços sociais autônomos, sabendo desde já sua personalidade jurídica e
+que são entidades criadas por meio de autorização legal, para ministrar assistência ou ensino a
+certas categorias sociais ou grupos profissionais. Estamos falando aqui do ‘Sistema S’. Ao final do
+tópico o professor sintetiza as principais informações em quadro-resumo, excelente para futuras
+revisões.
+
+O item sobre Organizações Sociais talvez seja o mais importante da aula. Há necessidade de saber
+suas principais características bem como a que áreas são desenvolvidas suas atividades. Muita
+atenção para o conceito de Contrato de Gestão!
+
+Siga o estudo sobre as OS dando especial atenção aos dispositivos legais transcritos pelo
+Professor. Ao chegar no item sobre Contrato de Gestão, observe suas principais características e
+qual sua função no âmbito de uma OS.
+
+É essencial dominar os aspectos relativos à qualificação e desqualificação de uma OS. Ao final do
+tópico o professor sintetiza as principais informações em quadro-resumo, excelente para futuras
+revisões.
+
+
+                                                                                               14
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Inicie o tópico sobre as OSCIP, já atento às suas diferenças com as OS. Veja que no lugar do
+contrato de gestão, temos aqui o termo de parceria. Observe as áreas em que uma OSCIP deve
+atuar, pois normalmente é cobrado em prova. Veja que a qualificação da OSCIP se dá por ato
+vinculado do Ministério da Justiça.
+
+Esta é uma diferença relevante em relação à OS. Ao final do tópico o professor sintetiza as
+principais informações em quadro-resumo, excelente para futuras revisões.
+
+Por fim, observe o tópico que apresenta de forma sintética as diferenças entre OS e OSCIP. Saber
+apenas este tópico é suficiente para acertar várias questões.
+
+                                                                                             15
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 127
+
+                                                     Português
+
+Resolução de questões da Aula 03.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa vamos resolver questões do PDF.
+
+Primeiro, resolva todas as questões restantes da aula.
+
+Em seguida, anote as questões que sentir dificuldade para que você possa priorizar determinados
+tópicos no momento da revisão. Essa atitude o ajudará a melhorar seu desempenho no decorrer
+dos estudos.
+
+Além disso, após resolver as questões, leia atentamente os comentários e aproveite para melhorar
+seus grifos e/ou resumo no que julgar importante.
+
+                                                                                             16
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 128
+
+                                    Contabilidade Geral e Avançada
+
+Estudo da aula 17, de “Capítulo 3: Demonstrações Contábeis e a entidade que reporta” até
+o final da parte teórica.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Seguindo, entenda que toda essa informação da qual falamos anteriormente é apresentada por
+meio das demonstrações contábeis (Balanço Patrimonial, Demonstração do Resultado do
+Exercício, Demonstração de Fluxo de Caixa, dentre outras) e das notas explicativas. Tais
+demonstrações são elaboradas de forma comparativa em relação ao período anterior.
+
+Um fator relevante é que há uma premissa de que a entidade seguirá em continuidade
+operacional. Caso haja intenção de entrar em liquidação, pode ter de ser utilizada uma base
+diferente.
+
+A seguir, você entrará no tópico mais cobrado dentro do CPC 00: os elementos das
+demonstrações contábeis. É salutar saber que os elementos relacionados à posição patrimonial
+da entidade são os ativos, passivos e o patrimônio líquido (constantes no Balanço Patrimonial) e
+os elementos relacionados à mensuração do desempenho são as receitas e despesas (presentes
+na DRE). Além disso, saiba os critérios de reconhecimento do ativo e do passivo (gerar benefício
+econômico e custo mensurado de forma confiável).
+
+É mandatório decorar a definição de Ativo nesse momento. A respeito do tema, o professor
+apresenta dois esquemas que sintetizam as situações em que um ativo pode gerar benefícios
+econômicos e aquelas que levam a caracterizar o controle. Trata-se de pontos importantes. O
+resumo trazido pelo professor também aborda aquilo que é mais relevante sobre o ativo.
+
+Também é primordial decorar as definições de Passivo e de Patrimônio Líquido. O professor
+explica cada um dos aspectos relativos a eles.
+
+No que tange à mensuração do desempenho, os elementos associados são as receitas e despesas.
+Também é de fundamental importância memorizar as respectivas definições.
+
+O tópico Reconhecimento e Desreconhecimento é bem simples e pouco cobrado. Faça apenas
+uma leitura superficial.
+
+A respeito de mensuração, entenda que, normalmente, adota-se o custo histórico no momento
+do reconhecimento inicial, que pode ser substituído por outras bases. É importante conhecer as
+bases utilizadas na contabilidade e suas respectivas definições (custo corrente, valor realizável
+
+                                                                                              17
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+líquido, valor presente, valor justo). Atente-se às palavras-chave que podem ajudá-lo a diferenciar
+cada um. As bancas cobram isso tanto de forma literal como por meio de situações práticas.
+
+Em Apresentação e Divulgação, faça apenas uma leitura fluida.
+
+Seguindo, você estudará os conceitos de capital e manutenção de capital. Dentro desse assunto,
+é importante conhecer as definições e a diferença entre manutenção do Capital Financeiro e
+manutenção do Capital Físico. O exemplo apresentado pelo professor ao final da explicação é
+bem didático e irá te ajudar a entender.
+
+                                                                                               18
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                   TAREFA 129
+
+                                               Direito Tributário
+
+Estudo da aula 02, “Imunidade dos Partidos Políticos, Entidades Sindicais dos
+Trabalhadores, Instituições de Educação e de Assistência Social” até o fim da parte teórica.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Nesta tarefa, serão estudados os seguintes assuntos: imunidades tributárias (parte 2).
+
+Sugere-se que este estudo seja feito em duas etapas:
+
+1) Primeiramente, faça uma leitura rápida de todas as páginas indicadas, sem se preocupar em
+                                                         ==219a34==
+
+fazer marcações, anotações e/ou resumos. A ideia é que o aluno tenha um primeiro contato com
+o novo conteúdo, em outras palavras, uma visão panorâmica acerca do que será estudado.
+
+2) Descanse um pouco (no máximo 15 minutos).
+
+3) Em seguida, faça um estudo mais minucioso, buscando ter atenção aos destaques dados pelo
+professor. Aproveite a oportunidade para fazer suas marcações, anotações no próprio pdf e/ou
+resumos, de forma que esse material sirva para futuras revisões.
+
+Em relação ao conteúdo desta tarefa, tenha atenção aos seguintes pontos:
+
+Inicie esta tarefa fazendo uma breve revisão dos assuntos estudados na última tarefa, referente à
+primeira parte desta aula. Por ser um assunto de suma importância, fiz questão de repetir nestas
+tarefas os pontos que o aluno deve se atentar em toda a aula.
+
+A imunidade não exime certo ente das obrigações acessórias instituídas pela legislação tributária.
+
+STF (RE 250.844): “exigir de entidade imune a manutenção de livros fiscais é consentâneo com o
+gozo da imunidade tributária (...)”. A manutenção de livros fiscais é um exemplo de obrigação
+acessória.
+
+A imunidade pode ser considerada uma incompetência tributária.
+
+A isenção decorre do exercício da competência tributária e o fato gerador do tributo chega a
+ocorrer, e a obrigação tributária chega a existir.
+
+                                                                                               19
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Todas as imunidades previstas no art. 150, VI, da CF/88, são consideradas genéricas.
+
+A imunidade do art. 150, VI, a, da Constituição somente se aplica ao imposto incidente sobre
+serviço, patrimônio ou renda do próprio ente beneficiado, na qualidade de contribuinte de direito.
+
+Para o STJ, o ônus de provar que o patrimônio da autarquia está desvinculado dos seus objetivos
+institucionais é do ente tributante.
+
+O STF já concedeu imunidade às seguintes EP e SEM: Empresa Brasileira de Correios e Telégrafos
+(ECT) – (STF, RE 407.099); Infraero – (STF, RE 524.615-AgR); Companhia de Águas e Esgoto de
+Rondônia (CAERD) – (STF, AC 1.550-2/RO); Companhia Docas do Estado de São Paulo (Codesp) –
+(STF, RE 253.472); Casa da Moeda do Brasil (CMB) – (STF, RE 610.517); Serviço Federal de
+Processamento de Dados (Serpro) (STF, ACO 2.568).
+
+A Ordem dos Advogados do Brasil (OAB) é imune.
+
+As Caixas de Assistência dos Advogados também são imunes.
+
+O simples fato de o serviço ter natureza pública não basta para ficar caracterizada a imunidade!
+
+                                                                                               20
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+A imunidade religiosa é incondicionada!
+
+Somente sindicatos de trabalhadores estão abrangidos pela imunidade. Os sindicatos dos
+empregadores ou de setores (ou categorias) econômicos não estão.
+
+Repare que a imunidade religiosa não se submete às restrições do art. 14 do CTN.
+
+Para o STF, as escolas de ensino profissionalizante estão enquadradas no rol de entidades.
+
+A cobrança de mensalidades pelas entidades educacionais não descaracteriza a imunidade, se não
+houver distribuição de rendas, lucro ou participação nos seus resultados.
+
+Súmula STF 730 - A imunidade tributária conferida a instituições de assistência social sem fins
+lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de
+previdência social privada se não houver contribuição dos beneficiários.
+
+Súmula STF 657 - A imunidade prevista no art. 150, VI, d, da CF abrange os filmes e papéis
+fotográficos necessários à publicação de jornais e periódicos.
+
+A concessão da imunidade sobre livros, jornais e periódicos independe da prova do valor cultural
+ou pedagógico da publicação.
+
+                                                                                             21
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Súmula STF 659 - É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações
+relativas à energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e
+minerais do País.
+
+São a todos assegurados, independentemente do pagamento de taxas: (a) o direito de petição aos
+Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder; (b) a obtenção
+de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de
+interesse pessoal (art. 5°, XXXIV).
+
+Ação popular, salvo comprovada má-fé, é isenta (imune) de custas judiciais, as quais são
+consideradas taxas pelo STF (art. 5°, LXXIII);
+
+São gratuitos para os reconhecidamente pobres, na forma da lei, o registro civil de nascimento e a
+certidão de óbito.
+
+São gratuitas as ações de “habeas-corpus” e “habeas-data”, e, na forma da lei, os atos necessários
+ao exercício da cidadania.
+
+As contribuições sociais e de intervenção no domínio econômico não incidirão sobre as receitas
+decorrentes de exportação.
+
+O IPI não incidirá sobre produtos industrializados destinados ao exterior.
+
+O ITR não incidirá sobre pequenas glebas rurais, definidas em lei, quando as explore o proprietário
+que não possua outro imóvel.
+
+O ouro, quando definido em lei como ativo financeiro ou instrumento cambial, sujeita-se
+exclusivamente à incidência do IOF, sendo imune de qualquer outro tributo.
+
+O ICMS não incidirá:
+
+1) sobre operações que destinem mercadorias para o exterior, nem sobre serviços prestados a
+destinatários no exterior;
+
+2) sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis
+líquidos e gasosos dele derivados, e energia elétrica;
+
+3) nas prestações de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e
+imagens de recepção livre e gratuita;
+
+4) exceção do II, IE e ICMS nenhum outro imposto poderá incidir sobre operações relativas à
+energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do
+País
+
+                                                                                               22
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+O ITBI não incidirá sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa
+jurídica em realização de capital, nem sobre a transmissão de bens ou direitos decorrente de fusão,
+incorporação, cisão ou extinção de pessoa jurídica, salvo se, nesses casos, a atividade
+preponderante do adquirente for a compra e venda desses bens ou direitos, locação de bens
+imóveis ou arrendamento mercantil.
+
+São isentas (imunes) de impostos federais, estaduais e municipais as operações de transferência
+de imóveis desapropriados para fins de reforma agrária.
+
+A contribuição previdenciária não incide sobre aposentadoria e pensão concedidas pelo regime
+geral de previdência social.
+
+São isentas (imunes) de contribuição para a seguridade social as entidades beneficentes de
+assistência social que atendam às exigências estabelecidas em lei.
+
+A celebração do casamento é gratuita, portanto, imune a taxas.
+
+                                                                                               23
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 130
+
+                                            Direito Constitucional
+
+Resolução de 28 questões do PDF da Aula 03.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Nesta tarefa, você vai testar os conhecimentos adquiridos, durante o estudo da teoria da aula 03,
+por meio da resolução de questões do PDF.
+
+Resolva as questões:
+
+- Direitos e Deveres Individuais e Coletivos – Art. 5º, XXXII a LXXVIII – FGV: questões ímpares
+de 01 a 30;
+
+- Remédios Constitucionais – FGV: questões ímpares de 01 a 26.
+
+Sugiro que você resolva as questões pela lista com comentários, leia todas as alternativas antes de
+marcar o gabarito e só então veja a resposta. Isso vai ajudá-lo a ir se apropriando do conteúdo.
+Depois, leia os comentários do professor e grife o que julgar importante para futuras revisões.
+
+E não esqueça de deixar assinaladas as questões que você errar, ou responder com dúvida. Elas
+serão muito úteis nas nossas revisões.
+
+                                                                                               24
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                   TAREFA 131
+
+                                               Raciocínio Lógico
+
+Estudar a aula 07 (Orientação Temporal); e resolução de 6 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Esta aula traz um assunto bem interessante que é a questão do tempo. Aqui, pessoal, é muito
+importante saber quais meses do ano possuem 30 dias, e quais possuem 31 dias (além de fevereiro,
+que pode possuir 28 ou 29 dias, é claro!). Assim, para ajudar a memorização, é muito boa a técnica
+da “mão fechada”, apresentada pelo professor no início da Aula.
+
+Já em relação aos Anos Normais (em que o mês de fevereiro possui 28 dias) e os Anos Bissextos
+(aqueles em que o mês de fevereiro possui 29 dias), vale a pena memorizar o esquema abaixo, que
+ajuda a determinar se um ano é bissexto ou não:
+
+Outro ponto importante para prova é saber a quantidade de dias entre duas datas distintas.
+Interessante destacar que estes intervalos de tempo podem incluir a primeira data (inclusive), ou
+não incluir esta data (exclusive).
+
+Para isso, ajuda bastante memorizarmos as fórmulas abaixo:
+
+Assim, se as datas inicial e final forem dentro do mesmo mês, basta utilizar as fórmulas acima, e já
+teremos a resposta. Caso as datas pertençam a meses diferentes, primeiramente devemos
+
+                                                                                                25
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+contabilizar quantos dias faltam até acabar o primeiro mês, e em seguida somar com os dias dos
+meses seguintes, até chegarmos à data final informada no enunciado.
+
+Outro ponto importante para a prova é saber qual o dia da semana que será após “n” dias após
+uma data inicial. Para isso, devemos seguir o seguinte esquema:
+
+Já, para sabermos se duas datas apresentam o mesmo dia da semana, devemos proceder da
+seguinte forma:
+
+Aqui, caro aluno, é fundamental acompanhar com bastante atenção os exemplos trazidos em aula
+pelo professor.
+
+A seguir, resolva as questões:
+
+1 e 2 da lista “Unidades de Tempo - FGV”;
+
+1 a 4 da lista “Calendários - FGV”.
+
+Utilize a lista sem comentários ao final do PDF.
+
+Após, recorra ao comentário do professor naquelas que errar ou ficar em dúvidas, marcando-as
+para futuras revisões.
+
+                                                                                           26
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 132
+
+                                            Direito Administrativo
+
+Estudo da aula 06 – Parte 2 de 2: Estude todo o tópico 3) Regime de Parcerias (Lei nº
+13.019/2014).
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Seguindo em nossa aula 06 de Direito Administrativo, estudaremos as Organizações da
+Sociedade Civil.
+
+Destaque o conceito doutrinário, de Di Pietro, reproduzido pelo professor logo no início do tópico.
+No caso, as principais informações estão em negrito, já com o devido destaque dado pelo
+professor.
+
+Inicie o tópico sobre Organizações da Sociedade Civil e passe rapidamente pelos subtópicos.
+Este não é um dos assuntos mais importantes de Direito Administrativo, mas pode garantir uma
+questão decisiva na prova. Memorize o seguinte esquema:
+
+O MAIS IMPORTANTE da aula é distinguir termo de colaboração, termo de fomento e acordo
+de cooperação. Portanto leve o seguinte esquema para a prova:
+
+                                                                                               27
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+Destaque também para o tópico sobre ‘Chamamento Público’, assunto relativamente novo e que
+deve ganhar notoriedade nas provas de concursos públicos.
+
+Decore o tempo mínimo de atividade da organização da sociedade civil para firmar parceria.
+
+Na próxima aula revisaremos estes assuntos e resolveremos as questões do PDF.
+
+                                                                                             28
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 133
+
+                                    Contabilidade Geral e Avançada
+
+Prática de exercícios da aula 17 - Resolução de 12 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Inicialmente, faça uma breve revisão do conteúdo estudado na aula. Você pode fazer isso por meio
+de suas marcações e/ou pela leitura do resumo da aula
+
+Em seguida, resolva as questões 1 a 12 presentes ao final do PDF, marcando aquelas que tiver
+dúvida.
+
+A seguir, vá até a seção de Questões Comentadas e estude os comentários daquelas que errar ou
+que tiver qualquer tipo de dúvida. Isso é fundamental para internalizar o conteúdo, sanar
+dificuldades e acertar questões similares futuramente. Todas essas questões devem ser marcadas
+para serem resolvidas novamente em futuras revisões.
+
+Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                              29
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 134
+
+                                               Raciocínio Lógico
+
+Revisão da aula 07 (Orientação Temporal); e resolução de 22 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer uma revisão do nosso PDF. Primeiramente, revise as fórmulas e as principais
+informações da aula.
+
+Após, resolva as seguintes questões:
+
+3 a 8 da lista “Unidades de Tempo - FGV”;
+
+5 a 20 da lista “Calendários - FGV”.
+
+Caso tenha dificuldade em algum ponto, faça uma revisão mais aprofundada da teoria.
+
+Para finalizar a tarefa, se sobrar tempo, refaça as questões que errou das tarefas anteriores que se
+referem a essa aula.
+
+                                                                                                30
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                                  TAREFA 135
+
+                                            Direito Administrativo
+
+Revisão da Aula 06 e resolução de 26 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Para esta tarefa quero que você:
+
+1. Faça a revisão da aula referenciada na tarefa. Para isso, revise na íntegra todo o conteúdo
+referente à parte teórica de toda a aula, atentando-se principalmente aos pontos de atenção que
+estiverem em foco e se aproveitando das observações abaixo.
+
+2. Após, a fim de reforçar o conteúdo revisado, resolva as questões de nº 01 a 26 presentes ao
+final do seu PDF, recorrendo ao comentário do professor naquelas que errar ou ficar em dúvidas.
+
+Observação 1: Ao realizar as questões, procure resolvê-las de forma proativa: antes de marcar o
+gabarito, fale para você mesmo a JUSTIFICATIVA pela sua resposta. Isso vai ajudá-lo demais a
+consolidar o conteúdo. Depois leia os comentários do professor e melhore seus grifos/resumos no
+que julgar importante para futuras revisões.
+
+Observação 2: Quanto à revisão, você pode fazer de 3 formas diferentes:
+
+OPÇÃO DE REVISÃO 1: Caso você vá fazer a revisão pelo PDF com Marcação (dos Aprovados,
+ou o grifado por você), comece lendo os grifos relativos à parte teórica de toda a aula, atentando-
+se principalmente aos pontos que foram destacados.
+
+OPÇÃO DE REVISÃO 2: Caso tenha disponível no seu curso e você prefira cumprir a tarefa pelo
+PDF Simplificado, leia na íntegra todo o conteúdo referente à parte teórica de toda a aula,
+atentando-se principalmente aos pontos de atenção destacados pelo professor.
+
+OPÇÃO DE REVISÃO 3: Caso tenha disponível no seu curso e você prefira cumprir a tarefa pelo
+Passo Estratégico, leia na íntegra todo o relatório do Passo feito pelo analista e resolva as questões
+estratégicas.
+
+                                                                                                  31
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 08
+
+                                    DICA ESTRATÉGICA
+DICA ESTRATÉGICA 08: “COMO MELHORAR EM DISCIPLINAS DE EXATAS (PARTE 01)”
+
+Hoje vamos falar das matérias que aterrorizam muita gente. Isso vai render algumas dicas, pois
+queremos entrar em detalhes, ok?
+
+Gostaríamos de deixar claro que essas dicas são para pessoas que têm dificuldades nessas
+disciplinas, assim como nós tínhamos. Entretanto, se você é um físico, matemático ou engenheiro
+mecânico e tem muita facilidade com números, essas dicas também irão ajudar bastante, pois o
+princípio contido nelas é válido para todos.
+
+A nossa intenção é fazer com que os alunos atinjam um nível razoável/bom por meio de um estudo
+no estilo “receita de bolo”. Vocês não vão sair daqui com mestrado em exatas, rsrsrs.
+
+Procedendo dessa forma, acertamos 80% da prova de Rac. Lógico, que é uma pontuação mais alta
+do que a média dos aprovados!
+
+A primeira parte desta dica consiste na importância de dividirmos essa disciplina em 3 partes: Rac.
+Lógico propriamente dito, Estatística e Matemática Financeira. Escolha uma delas para começar.
+Nós, particularmente, começamos com Rac. Lógico propriamente dito. Caso você tenha facilidade
+com números, pode começar com Estatística, pois é um assunto um pouco mais difícil e de grande
+incidência em provas.
+
+Na próxima dica nós vamos continuar falando de exatas!
+
+É isso, pessoal! Coragem para vencer os estudos!!! 😉
+
+Mas você também pode me encontrar ↴
+
+Newsletter ☛ https://gleslermaldonado.substack.com
+
+Telegram ☛ 
+
+                    “Quando desistir não for uma opção, o sucesso é inevitável”
+
+                                                                           Glesler Maldonado
+
+                                                                                               32
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 08
+
+ 1. As Trilhas Estratégicas são meras sugestões de estudo com base em determinado objetivo
+    (área de concurso, concurso específico ou perfil). O aluno deve ficar livre para que possa
+    segui-la à risca ou fazer adaptações para o seu próprio estilo e rotina de estudo.
+ 2. Os professores do Estratégia, ao elaborarem os seus materiais, possuem o objetivo de
+    ensinar todo o conteúdo exigido pelo edital programático do concurso, além de estabelecer
+    uma sequência ideal de estudo do ponto de vista pedagógico e considerando que o aluno
+    terá tempo de estudar todo o seu material.
+ 3. Já os coaches, ao elaborarem as Trilhas Estratégicas, possuem o objetivo de fazer o aluno
+    estudar o conteúdo de acordo com um determinado custo x benefício, porém muitas vezes
+    fugindo da recomendação didática de estudo proposta pelos professores para que os
+    alunos possam fazer um estudo direcionado.
+ 4. Como dizemos sempre: o ideal é estudar todos os assuntos, revisar tudo, fazer muitos
+    exercícios de todos os assuntos e chegar na prova bom em todos os assuntos também.
+    Entretanto, são poucos aqueles alunos que dispõem de tempo para isso!
+ 5. Nosso objetivo aqui é sugerir uma sequência de estudos baseada na experiência de
+    coaches aprovados em diversos concursos para que possamos dar orientações e maiores
+    chances de aprovação aos alunos.
+
+                                                                                           33
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

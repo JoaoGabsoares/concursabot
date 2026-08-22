@@ -1,0 +1,1746 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 19_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: Espécies Tributárias
+artigos_citados:
+- Art. 146.
+- Art. 156-A.
+- Art. 91.
+- art. 159
+- art. 91
+- art. 96
+- art. 98
+- art. 99
+---
+
+# Espécies Tributárias
+
+Prof. Fábio Dutra
+
+                       @proffabiodutra                Fábio Dutra     ProfFabioDutraConcursos
+
+Espécies Tributárias
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+REPARTIÇÃO DAS RECEITAS
+TRIBUTÁRIAS
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Os tributos cuja receita seja distribuída, no todo ou em parte, a outras
+    pessoas jurídicas de direito público pertencerá à competência legislativa
+    daquela a que tenham sido atribuídos. (CTN, art. 6º, par. único)
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                             
+
+
+---
+
+    Repartição das Receitas Tributárias
+
+  ❑ A repartição ocorre de entes maiores para entes menores.
+
+
+  ❑ Objetivo: Garantir autonomia financeira dos entes federativos menores.
+
+
+  ❑ Distrito Federal e Municípios não repartem suas receitas tributárias.
+
+
+  ❑ Tributos cujas receitas são repartidas: IR, IOF sobre o ouro, Impostos
+    Residuais, ITR, IPI, IS, IPVA, ICMS, IBS e CIDE-Combustíveis.
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                               
+
+
+---
+
+    Repartição das Receitas Tributárias
+
+  ❑ Repartição Direta: Recursos entregues diretamente ao destinatário.
+
+
+  ❑ Repartição Indireta: Recursos entregues a um fundo de participação.
+     ❑ FPE: Fundo de Participação dos Estados e do Distrito Federal;
+     ❑ FPM: Fundo de Participação dos Municípios;
+     ❑ FPEx: Fundo de Compensação à desoneração das exportações.
+     ❑ Fundo de Participação e Incentivo ao setor Produtivo Norte, Nordeste e
+       Centro-Oeste.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+    Repartição das Receitas Tributárias
+
+
+                     Impostos cujas Receitas NÃO
+                                                     Todos os Impostos
+                                                                                                  Municípios
+                                                        Municipais
+                           são Repartidas
+                                                      Todos Impostos de
+                                                     Competência do DF                          Distrito Federal
+                                                   (Estaduais e Municipais)
+
+
+                                                           ITCMD                                    Estados
+
+                                                       II, IE, IGF e IEG                            União
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                                  @ProfFabioDutra
+                                                           
+
+
+---
+
+    Repartição das Receitas Tributárias
+       Item                União                         Estados e DF           Municípios
+           1               IRRF                                100%                100%
+           2           IOF sobre ouro                           30%                 70%
+           3         Impostos Residuais                         20%
+           4         CIDE-Combustíveis                          29%            25% (ou 7,25%)
+                                                    Cobrado p/ União                50%
+           5                ITR
+                                                  Cobrado p/ Município             100%
+
+Direito Tributário
+Prof. Fábio Dutra                                                                            @ProfFabioDutra
+                                          
+
+
+---
+
+    Repartição das Receitas Tributárias
+       Item             União                          Estados e DF                      Municípios
+                     IR (Excluído 1*)
+           6             + IPI + IS
+                                                          21,5% - FPE                     22,5% - FPM
+
+
+           7                                           3% para as Regiões Norte, Nordeste e Centro-oeste
+
+                                                                                                        1% - FPM
+                                                                                                          (Julho)
+
+                                                                                                       1% - FPM
+                                                                                                     (Setembro)
+           8
+
+                                                                                                       1% - FPM
+                                                                                                     (Dezembro)
+
+
+           9             IPI + IS                          10% FPEx                      25% (ou 2,5%)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                          @ProfFabioDutra
+                                        
+
+
+---
+
+    Repartição das Receitas Tributárias
+       Item          União             Estados e DF                  Municípios
+          10                                 IPVA                       50%
+          11                                 ICMS                       25%
+                                         IBS
+          12                   (Imposto de Competência                  25%
+                             Compartilhada entre E/DF/M)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Jurisprudência sobre IRRF:
+
+  ❑ Pertence ao Município, aos Estados e ao Distrito Federal a titularidade das receitas
+    arrecadadas a título de imposto de renda retido na fonte incidente sobre valores pagos
+    por eles, suas autarquias e fundações a pessoas físicas ou jurídicas contratadas para a
+    prestação de bens ou serviços, conforme disposto nos arts. 158, I, e 157, I, da
+    Constituição Federal. (STF, Tema 1130)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ IOF-Ouro:
+
+  ❑ I - trinta por cento para o Estado, o Distrito Federal ou o Território, conforme a origem;
+
+  ❑ II - setenta por cento para o Município de origem.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                      @ProfFabioDutra
+                                   
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ ITR:
+
+  ❑ Arrecadação pelos Municípios: repartição de 100%.
+
+  ❑ Arrecadação pela União: 50%
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                                
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ ICMS:
+
+  ❑ I - 65%, no mínimo, na proporção do valor adicionado nas operações relativas à
+    circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+
+
+  ❑ II - até 35%, de acordo com o que dispuser lei estadual, observada, obrigatoriamente,
+    a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores
+    de melhoria nos resultados de aprendizagem e de aumento da equidade, considerado
+    o nível socioeconômico dos educandos."
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ IBS: 25% do produto da arrecadação distribuída aos Estados pertence aos
+         Municípios:
+
+  I – 80% na proporção da população;
+
+  II – 10% com base em indicadores de melhoria nos resultados de aprendizagem e de
+  aumento da equidade, considerado o nível socioeconômico dos educandos, de acordo
+  com o que dispuser lei estadual;
+
+  III – 5% com base em indicadores de preservação ambiental, de acordo com o que
+  dispuser lei estadual;
+
+  IV – 5% em montantes iguais para todos os Municípios do Estado.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ 50% IPI, IR e IS:
+
+  ❑ 21,5% FPE;
+
+
+  ❑ 25,5% FPM
+        ❑ 22,5%
+        ❑ 1% - 1º decêndio julho;
+        ❑ 1% - 1º decêndio setembro;
+        ❑ 1% - 1º decêndio dezembro;
+
+
+      ❑          3% para as Regiões Norte, Nordeste e Centro-oeste
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                        
+
+
+---
+
+    Repartição das Receitas Tributárias
+      ❑ Regra do art. 91 do CTN:
+      Art. 91. Do Fundo de Participação dos Municípios a que se refere o art. 86, serão
+      atribuídos: (Redação dada pelo Ato Complementar nº 35, de 1967)
+      I - 10% (dez por cento) aos Municípios das Capitais dos Estados;         (Redação dada
+      pelo Ato Complementar nº 35, de 1967)
+      II - 90% (noventa por cento) aos demais Municípios do País.          (Redação dada pelo
+      Ato Complementar nº 35, de 1967)
+
+                     ❑ Municípios das Capitais dos Estados → 10% do FPM;
+                     ❑ Demais Municípios → 90% do FPM.
+Direito Tributário
+Prof. Fábio Dutra                                                                        @ProfFabioDutra
+                                      
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ 50% IPI, IR e IS:
+
+  ❑ Detalhes sobre os 3% - Aplicação em programas de financiamento ao setor produtivo
+    das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras
+    de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando
+    assegurada ao semi-árido do Nordeste a metade dos recursos destinados à Região,
+    na forma que a lei estabelecer.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Fundo de Compensação de Exportações (FPEx):
+
+  ❑ Em razão da imunidade sobre exportações do ICMS, 10% da arrecadação nacional do
+    IPI e do IS é direcionado ao Fundo de Compensação de Exportações (FPEx), destinado
+    aos Estados e ao Distrito Federal, proporcionalmente ao valor das respetivas
+    exportações de produtos industrializados.
+
+  ❑ Cada Estado fica limitado a 20% do fundo, devendo o eventual excedente ser
+    distribuído entre os demais participantes, mantido, em relação a esses, o critério de
+    partilha nele estabelecido.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                 
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Fundo de Compensação de Exportações (FPEx):
+
+  ❑ Conforme previsão constitucional, aos Municípios cabe 25% dos 10% de IPI e IS (isto é,
+    2,5%) destinado aos Estados e DF.
+
+  ❑ Critérios para distribuição entre os Municípios:
+
+  ❑ Para o IPI – é utilizado o mesmo critério do ICMS
+
+  ❑ Para o Imposto Seletivo – é utilizado o mesmo critério do IBS
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+Repartição das Receitas Tributárias
+
+               
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Fundo Nacional de Desenvolvimento Regional: tem como objetivo de reduzir as
+    desigualdades regionais e sociais.
+
+  Será cumprido mediante a entrega de recursos da União aos Estados e ao Distrito Federal,
+  para as seguintes finalidades:
+
+  I – realização de estudos, projetos e obras de infraestrutura;
+
+  II – fomento a atividades produtivas com elevado potencial de geração de emprego e
+  renda, incluindo a concessão de subvenções econômicas e financeiras; e
+
+  III – promoção de ações com vistas ao desenvolvimento científico e tecnológico e à
+  inovação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                   
+
+
+---
+
+    Repartição das Receitas Tributárias
+   ❑ Fundo Nacional de Desenvolvimento Regional
+
+   ❑ É vedada a retenção ou qualquer restrição ao recebimento dos recursos desse
+     fundo.
+
+
+   ❑ Na aplicação dos recursos, os Estados e o Distrito Federal priorizarão projetos
+     que prevejam ações de sustentabilidade ambiental e redução das emissões de
+     carbono.
+
+
+   ❑ Caberá aos Estados e ao Distrito Federal a decisão quanto à aplicação dos
+     recursos.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                 
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Fundo Nacional de Desenvolvimento Regional
+
+  ❑ A distribuição dos recursos aos Estados e ao Distrito Federal será de acordo com
+    coeficientes individuais de participação a serem calculados considerando-se o
+    seguinte:
+
+  ❑ I – população do Estado ou do Distrito Federal, com peso de 30%;
+  ❑ II – coeficiente individual de participação do Estado ou do Distrito Federal nos recursos
+    do FPE, com peso de 70%.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ É vedada a retenção ou qualquer restrição à entrega e ao emprego dos
+    recursos atribuídos, nesta seção, aos Estados, ao Distrito Federal e aos
+    Municípios, neles compreendidos adicionais e acréscimos relativos a
+    impostos.
+
+         ❑ Exceções:
+
+                     ❑ Condicionar ao pagamento de seus créditos, inclusive de suas
+                       autarquias;
+
+                     ❑ Condicionar à aplicação anual mínima em ações e serviços públicos de
+                       saúde recursos mínimos, conforme CF/88.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                         
+
+
+---
+
+    Repartição das Receitas Tributárias
+  ❑ Art. 160:
+
+  ❑ § 2º Os contratos, os acordos, os ajustes, os convênios, os parcelamentos ou
+    as renegociações de débitos de qualquer espécie, inclusive tributários,
+    firmados pela União com os entes federativos conterão cláusulas para
+    autorizar a dedução dos valores devidos dos montantes a serem repassados
+    relacionados às respectivas cotas nos Fundos de Participação ou aos
+    precatórios federais. (Incluído pela Emenda Constitucional nº 113, de 2021)
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+    Repartição das Receitas Tributárias
+         ❑ Cabe à lei complementar:
+
+            ❑ Definir valor adicionado para fins do cálculo da distribuição do ICMS;
+
+            ❑ Estabelecer normas sobre a entrega dos recursos de que trata o art. 159,
+              especialmente sobre os critérios de rateio dos fundos previstos em seu
+              inciso I, objetivando promover o equilíbrio sócio-econômico entre
+              Estados e entre Municípios;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                    
+
+
+---
+
+---
+
+    Repartição das Receitas Tributárias
+         ❑ Cabe à lei complementar:
+
+            ❑ Dispor sobre o acompanhamento, pelos beneficiários, do cálculo das
+              quotas e da liberação das participações previstas nos arts. 157, 158 e 159
+              (regras de repartição estudadas).
+
+  ❑ Obs.: O Tribunal de Contas da União efetuará o cálculo das quotas referentes
+    aos fundos de participação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                    
+
+
+---
+
+    Repartição das Receitas Tributárias
+
+    ❑ A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o
+      último dia do mês subsequente ao da arrecadação, os montantes de cada
+      um dos tributos arrecadados, os recursos recebidos, os valores de origem
+      tributária entregues e a entregar e a expressão numérica dos critérios de
+      rateio.
+
+    Obs.: Os dados divulgados pela União serão discriminados por Estado e por
+    Município; os dos Estados, por Município. (CF/88, art. 162)
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+LEGISLAÇÃO TRIBUTÁRIA
+NOÇÕES GERAIS
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+Legislação Tributária
+  ❑ A expressão "legislação tributária" compreende as leis, os tratados e as
+    convenções internacionais, os decretos e as normas complementares que
+    versem, no todo ou em parte, sobre tributos e relações jurídicas a eles
+    pertinentes. (CTN, art. 96)
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                            
+
+
+---
+
+Legislação Tributária
+
+                         CONSTITUIÇÃO
+                           FEDERAL
+
+                        Normas Gerais
+
+                     Leis Instituidoras de
+                           Tributos
+
+Direito Tributário
+Prof. Fábio Dutra                                           @ProfFabioDutra
+                       
+
+
+---
+
+Legislação Tributária
+  ❑Constituição Federal:
+         ❑ Confere Competência Tributária;
+         ❑ Limita a Competência Tributária;
+         ❑ Disciplina processo legislativo;
+
+  ❑Normas Gerais de Direito Tributário:
+         ❑ Dispõe sobre lançamento, decadência, prescrição etc.;
+         ❑ Dispõe sobre FG, BC e Contribuintes dos impostos;
+
+  ❑Leis Instituidoras de Tributos:
+         ❑ Instituem os tributos de sua competência, dentro das limitações
+           constitucionais e das regras gerais.
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                                 
+
+
+---
+
+Legislação Tributária
+  ❑Constituição Federal:
+
+  ❑ Atribui competência tributária;
+
+  ❑ Limita competência tributária dos entes federados;
+
+  ❑ Disciplina processo legislativo.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária
+  ❑Lei Complementar:
+
+  ❑ Institui alguns tributos:
+
+  •      Empréstimos Compulsórios;
+  •      Impostos Residuais;
+  •      Contribuições Residuais
+  •      Imposto sobre Grandes Fortunas
+  •      Imposto sobre produção, extração, comercialização ou importação de bens e serviços
+         prejudiciais à saúde ou ao meio ambiente (Imposto Seletivo ou IS)
+  •      Imposto sobre Bens e Serviços (IBS)
+  •      Contribuição sobre Bens e Serviços (CBS)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+Legislação Tributária
+  ❑Lei Complementar:
+
+  ❑ Regulamenta Tributos:
+
+  ❑ ITCMD: em casos relacionados ao exterior, envolvendo doador ou de cujus;
+
+  ❑ ICMS: Temas que possam gerar conflitos entre os Estados, situações
+    peculiares ao ICMS e base de cálculo e contribuintes;
+
+  ❑ ISS: Define serviços tributáveis pelo ISS, fixa alíquotas mínimas e máximas,
+    exclui sua incidência sobre as exportações de serviços e regula a forma como
+    os benefícios fiscais são concedidos.
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+Legislação Tributária
+  ❑Lei Complementar:
+
+  ❑ Regulamenta Tributos:
+
+  ❑ Contribuições Sociais: fixa limites para a concessão de remissão ou anistia de algumas
+    contribuições sociais (art. 195, § 11).
+
+  ❑ IBS: Além de instituir o IBS e a CBS, a lei complementar estabelecerá várias regras para
+    esse imposto e essa contribuição.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+Legislação Tributária
+
+  ❑Lei Complementar:
+
+  ❑ Dispõe sobre conflitos de competência em matéria tributária;
+
+
+  ❑ Regula as limitações constitucionais ao poder de tributar;
+
+
+  ❑ Estabelece critérios especiais de tributação, com o objetivo de prevenir
+    desequilíbrios da concorrência .
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+   ❑Lei Complementar:
+
+   ❑ Estabelece normas gerais em matéria de legislação tributária:
+
+   ❑ Definição de tributos e de suas espécies. Em relação aos impostos, define os
+     seus fatos geradores, bases de cálculo e contribuintes.
+
+   ❑ Obrigação, lançamento, crédito, prescrição e decadência tributários;
+
+   ❑ Adequado tratamento tributário ao ato cooperativo praticado pelas
+     sociedades cooperativas;
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+   ❑Lei Complementar
+
+   ❑ Estabelece normas gerais em matéria de legislação tributária:
+
+       ❑ Definição de tratamento diferenciado e favorecido para as microempresas e
+         para as empresas de pequeno porte;
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária                                                         EC/IGF/I.Resid./CSR
+
+   ❑Lei Complementar                    Instituição alguns tributos
+                                                                                   IS/IBS/CBS
+
+
+                                        Regulamentação de alguns             ITCMD/ICMS/ISS/CS/IBS
+                                                tributos                             /CBS
+
+
+                                        Conflitos de Competência
+                     LEI COMPLEMENTAR
+
+                                          Limitações ao Poder de
+                                                 Tributar
+
+                                        Normas Gerais em Matéria
+                                               Tributária
+
+                                           Critérios especiais de            Prevenir desequilíbrios
+Direito Tributário                               tributação                     da concorrência
+Prof. Fábio Dutra                                                                                      @ProfFabioDutra
+                                        
+
+
+---
+
+Legislação Tributária
+   ❑Lei Complementar
+
+   ❑ Sobre o Simples Nacional:
+
+                     ❑ será opcional para o contribuinte;
+                     ❑ poderão ser estabelecidas condições de enquadramento
+                       diferenciadas por Estado;
+                     ❑ o recolhimento será unificado e centralizado e a distribuição da
+  Simples              parcela de recursos pertencentes aos respectivos entes
+  Nacional             federados será imediata, vedada qualquer retenção ou
+                       condicionamento;
+                     ❑ a arrecadação, a fiscalização e a cobrança poderão ser
+                       compartilhadas pelos entes federados, adotado cadastro
+Direito Tributário
+Prof. Fábio Dutra      nacional único
+                                        de contribuintes.                        @ProfFabioDutra
+
+
+---
+
+Legislação Tributária
+  ❑Lei Complementar e Simples Nacional
+  ❑ É facultado ao optante pelo Simples Nacional apurar e recolher IBS/CBS no regime
+  único ou não.
+
+  ❑ Se a opção for pelo recolhimento dentro do Simples Nacional:
+
+            ❑ não será permitida a apropriação de créditos;
+
+            ❑ será permitida a apropriação de créditos do IBS e da CBS pelo adquirente não
+              optante pelo regime único em montante equivalente ao cobrado por meio do
+              regime único.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                      
+
+
+---
+
+---
+
+LEGISLAÇÃO TRIBUTÁRIA
+NOÇÕES GERAIS
+PARTE 2
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+Legislação Tributária
+  ❑Lei Ordinária/Complementar
+
+  ❑ Somente a lei pode estabelecer:
+
+      ❑ A instituição de tributos, ou a sua extinção;
+
+      ❑ A majoração de tributos, ou sua redução;
+
+      ❑ A definição do fato gerador da obrigação tributária principal e do seu sujeito
+        passivo;
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Legislação Tributária
+  ❑Lei Ordinária/Complementar
+
+  ❑ Somente a lei pode estabelecer:
+
+      ❑ A fixação de alíquota do tributo e da sua base de cálculo;
+
+      ❑ A cominação de penalidades para as ações ou omissões contrárias a seus
+        dispositivos, ou para outras infrações nela definidas;
+
+      ❑ As hipóteses de exclusão, suspensão e extinção de créditos tributários, ou
+        de dispensa ou redução de penalidades.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+Legislação Tributária
+  Somente            Instituir/Extinguir tributos.
+  Lei pode:          Majorar/Reduzir tributos.
+
+                     Definir o fato gerador da obrigação principal.
+
+                     Fixar base de cálculo e alíquotas.
+
+                     Impor penalidades.
+
+                     Estabelecer as hipóteses de suspensão/extinção/exclusão do
+                     crédito tributário.
+                     Dispensar o reduzir penalidades.
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                   
+
+
+---
+
+Legislação Tributária
+  ❑ Observações:
+
+  ❑ 1ª Obs.: Equipara-se à majoração do tributo a modificação da sua base de
+  cálculo, que importe em torná-lo mais oneroso.
+
+  ❑ 2ª Obs.: Não constitui majoração de tributo a atualização do valor monetário
+  da respectiva base de cálculo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+Legislação Tributária
+  ❑Medidas Provisórias
+
+            ❑ Atos normativos temporários (com força de lei);
+
+            ❑ Não podem tratar de temas reservados à lei complementar;
+
+            ❑ Competência privativa do chefe do Poder Executivo;
+
+            ❑ Submetidas ao Congresso Nacional.
+
+            ❑ Prazo de validade: 60 dias + 60 dias.
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                     
+
+
+---
+
+Legislação Tributária
+  ❑Medidas Provisórias:
+
+Direito Tributário
+Prof. Fábio Dutra                                              @ProfFabioDutra
+                          
+
+
+---
+
+Legislação Tributária
+  ❑Resoluções do Senado Federal:
+
+  ❑ Senado Federal → Casa representante dos Estados-membros.
+
+
+  ❑ Ato Legislativo não sujeito à sanção presidencial.
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+❑Resoluções do Senado Federal:
+
+                                RESOLUÇÕES DO SENADO FEDERAL
+                     TRIBUTO      ALÍQUOTA                OBSERVAÇÃO           INICIATIVA        APROVAÇÃO
+
+                     ITCMD      Alíquota Máx.                    -                  -                -
+
+                      IPVA      Alíquota Mín.                    -                  -                -
+                               Alíq. Máx. Oper.                                MAIORIA
+                      ICMS                              FACULTATIVO                              2/3 Senado
+                                   Internas                                   ABSOLUTA
+                               Alíq. Mín. Oper.
+                      ICMS                              FACULTATIVO                           MAIORIA ABSOLUTA
+                                   Internas                                    1/3 Senado
+                               Alíq. Interest. ou                             Pres. Rep. ou
+                      ICMS                                       -                            MAIORIA ABSOLUTA
+                                  exportação                                   1/3 Senado
+                                 Alíquotas de
+                     IBS/CBS                                     -                  -                -
+                                  Referência
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                        @ProfFabioDutra
+                                         
+
+
+---
+
+---
+
+Legislação Tributária
+      ❑Tratados Internacionais: os tratados e as convenções internacionais
+      revogam ou modificam a legislação tributária interna, e serão observados
+      pela que lhes sobrevenha. (CTN, art. 98)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+      ❑Decretos:
+
+      ❑ O conteúdo e o alcance dos decretos restringem-se aos das leis em
+        função das quais sejam expedidos, determinados com observância das
+        regras de interpretação estabelecidas nesta Lei. (CTN, art. 99)
+
+                ❑ Atos normativos secundários;
+
+                ❑ Competência privativa do chefe do Poder Executivo;
+                    ❑ Exemplos:
+                    ❑ Decreto 7.212/2010 (Regulamento do IPI)
+                    ❑ Decreto 9.580/2018 (Regulamento do IR)
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                     
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+      ❑ São normas complementares das leis, dos tratados e das convenções
+        internacionais e dos decretos:
+
+      I - os atos normativos expedidos pelas autoridades administrativas;
+
+      II - as decisões dos órgãos singulares ou coletivos de jurisdição
+      administrativa, a que a lei atribua eficácia normativa;
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+      ❑ São normas complementares das leis, dos tratados e das convenções
+        internacionais e dos decretos:
+
+      III - as práticas     reiteradamente                observadas   pelas   autoridades
+      administrativas;
+
+      IV - os convênios que entre si celebrem a União, os Estados, o Distrito
+      Federal e os Municípios. (CTN, art. 100)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+
+      ❑ Atos normativos expedidos pelas autoridades administrativas;
+
+      ❑ Decisões com eficácia normativa;
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+
+      ❑ Práticas reiteradamente observadas pelas autoridades administrativas;
+
+      ❑ Convênios celebrados entre os entes federativos.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária
+      ❑ A observância das normas complementares exclui:
+
+                     ❑ a imposição de penalidades;
+
+                     ❑ a cobrança de juros de mora; e
+
+                     ❑ a atualização do valor monetário da base de cálculo do tributo.
+                       (CTN, art. 100, par. único)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                        
+
+
+---
+
+---
+
+  SIMPLES NACIONAL
+PARTE 5 – APÓS REFORMA
+TRIBUTÁRIA (EC 132/2023)
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+Simples Nacional
+ ❑ Art. 146. Cabe à lei complementar:
+ III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+ d) definição de tratamento diferenciado e favorecido para as microempresas e para as
+ empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos
+ impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195,
+ I e V, e § 12 e da contribuição a que se refere o art. 239. (Redação dada pela Emenda
+ Constitucional nº 132, de 2023) (CF/88)
+
+ ❑ Observação: os tributos a que se refere esse dispositivo são os seguintes:
+ → ICMS;
+ → Contribuição previdenciária do empregador e da entidade a ele equiparada pela lei;
+ → Contribuição para o PIS/Pasep;
+ → Contribuição sobre Bens e Serviços (CBS)
+ → Imposto sobre Bens e Serviços (IBS)
+Direito Tributário
+                                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+Simples Nacional
+                                   Tributação no Simples Nacional
+
+❑ Recolhimento Mensal;
+
+❑ Regra: regime de competência // Opcional: regime de caixa
+
+❑ Documento único de arrecadação (DAS);
+
+❑ Abrange impostos e contribuições incluídos na sistemática:
+                     ❑ IRPJ;                          ❑ CPP, com exceções;
+                     ❑ IPI;                           ❑ ICMS;
+                     ❑ CSLL;                          ❑ ISS;
+                     ❑ COFINS;                        ❑ IBS (facultativo)
+Direito Tributário
+Prof. Fábio Dutra
+                     ❑ PIS/Pasep                      ❑ CBS (facultativo)    @ProfFabioDutra
+                                        
+
+
+---
+
+Simples Nacional
+                          Tributação no Simples Nacional
+
+ ❑ Alguns impostos e contribuições não incluídos no Simples Nacional:
+    ❑ IOF;                                             importação;
+    ❑ II;                                            ❑ Demais espécies tributárias (taxas,
+    ❑ IE;                                              contribuições    de       melhoria,
+    ❑ ITR;                                             empréstimos compulsórios
+    ❑ FGTS;
+    ❑ PIS/Pasep,     Cofins   e   IPI       sobre
+
+   ❑ Distribuição de lucros → isenção de IRPF
+   ❑ Remuneração por pró-labore, aluguéis ou serviço prestado → Tributação por
+     IRPF.
+Direito Tributário
+                                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+Simples Nacional
+  ❑Créditos de CBS/IBS no Simples Nacional
+  ❑ É facultado ao optante pelo Simples Nacional apurar e recolher IBS/CBS no regime
+  único ou não.
+
+  ❑ Se a opção for pelo recolhimento dentro do Simples Nacional:
+
+            ❑ não será permitida a apropriação de créditos;
+
+            ❑ será permitida a apropriação de créditos do IBS e da CBS pelo adquirente não
+              optante pelo regime único em montante equivalente ao cobrado por meio do
+              regime único.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                      
+
+
+---
+
+Simples Nacional
+  ❑Créditos de CBS/IBS no Simples Nacional
+
+    A industrial Alfa é optante pelo Simples Nacional e fez opção também por recolher o IBS
+    e a CBS dentro do Simples Nacional. Em determinado período, a empresa Alfa adquiriu
+    insumos da empresa Ômega, industrializou seus produtos e os vendeu para a empresa
+    comercial Beta (não optante pelo Simples Nacional) mercadorias por ela produzidas.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Simples Nacional
+  ❑Créditos de CBS/IBS no Simples Nacional
+
+    Neste caso, temos as seguintes conclusões:
+
+    - A empresa Alfa não pode se apropriar de créditos de IBS e CBS nas aquisições
+    de insumos;
+
+    - A empresa Beta pode se apropriar de créditos da aquisição realizada, desde
+    que nos mesmos montantes recolhidos pela empresa Alfa.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+CONTRIBUIÇÃO SOBRE BENS E SERVIÇOS - CBS
+NOÇÕES GERAIS E CAMPO DE INCIDÊNCIA
+
+
+                                                 Prof. Fábio Dutra
+
+            
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Contribuição sobre Bens e Serviços (CBS):
+
+
+    ❑Art. 195. A seguridade social será financiada por toda a sociedade, de forma
+    direta e indireta, nos termos da lei, mediante recursos provenientes dos
+    orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das
+    seguintes contribuições sociais:
+    ❑(...)
+    ❑V - sobre bens e serviços, nos termos de lei complementar. (Incluído pela
+    Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+
+  ❑ A CBS será de competência da União, instituída por meio de uma lei complementar.
+
+
+  ❑ A CBS será informada pelo princípio da neutralidade, cujo objetivo é interferir ao
+    mínimo no sistema econômico, evitando distorções nos preços em razão da incidência
+    tributária.
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Campo de Incidência da CBS:
+
+  I – incidirá sobre operações com bens materiais ou imateriais, inclusive direitos, ou com
+  serviços;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Campo de Incidência da CBS:
+
+  II – incidirá também sobre a importação de bens materiais ou imateriais, inclusive
+  direitos, ou de serviços realizada por pessoa física ou jurídica, ainda que não seja sujeito
+  passivo habitual do imposto, qualquer que seja a sua finalidade;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                   
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Campo de Incidência da CBS:
+
+  - A empresa XPG importa uma mercadoria para o seu consumo próprio: há incidência de
+  CBS.
+  - A empresa XPG importa uma mercadoria para revenda: há incidência de CBS.
+  - Fulano, pessoa física, importa um computador para o seu trabalho em home office: há
+  incidência de CBS.
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Campo de Incidência da CBS:
+
+  III – não incidirá sobre as exportações, assegurados ao exportador a manutenção e o
+  aproveitamento dos créditos relativos às operações nas quais seja adquirente de bem
+  material ou imaterial, inclusive direitos, ou serviço, observado o disposto no § 5º, III;
+
+
+  Obs.: A expressão “observado o disposto no § 5º, III” quer dizer que a lei complementar
+  definirá a forma e o prazo para ressarcimento de créditos acumulados pelo contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Campo de Incidência da CBS:
+
+  XI – não incidirá nas prestações de serviço de comunicação nas modalidades de
+  radiodifusão sonora e de sons e imagens de recepção livre e gratuita;
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                             
+
+
+---
+
+---
+
+CONTRIBUIÇÃO SOBRE BENS E SERVIÇOS - CBS
+NÃO CUMULATIVIDADE
+
+
+                                                 Prof. Fábio Dutra
+
+            
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Não Cumulatividade da CBS:
+
+  VIII - será não cumulativo, compensando-se o imposto devido pelo contribuinte com o
+  montante cobrado sobre todas as operações nas quais seja adquirente de bem material
+  ou imaterial, inclusive direito, ou de serviço, excetuadas exclusivamente as consideradas
+  de uso ou consumo pessoal especificadas em lei complementar e as hipóteses previstas
+  nesta Constituição;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Não Cumulatividade da CBS:
+
+Direito Tributário
+Prof. Fábio Dutra                                            @ProfFabioDutra
+                        
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Não Cumulatividade da CBS:
+
+  ❑ A regra é a apropriação de créditos na aquisição de bem material ou imaterial,
+    inclusive direito, ou de serviço;
+  ❑ Foram excetuadas exclusivamente:
+     ❑ As aquisições consideradas de uso ou consumo pessoal especificadas na lei
+         complementar; e
+     ❑ As hipóteses previstas na Constituição.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+       Art. 156-A.
+       (...)
+       § 5º Lei complementar disporá sobre: (Incluído pela Emenda Constitucional nº 132, de 2023)
+       (...)
+       II - o regime de compensação, podendo estabelecer hipóteses em que o aproveitamento do
+       crédito ficará condicionado à verificação do efetivo recolhimento do imposto incidente sobre
+       a operação com bens materiais ou imateriais, inclusive direitos, ou com serviços, desde que:
+       (Incluído pela Emenda Constitucional nº 132, de 2023)
+       a) o adquirente possa efetuar o recolhimento do imposto incidente nas suas aquisições de
+       bens ou serviços; ou (Incluído pela Emenda Constitucional nº 132, de 2023)
+       b) o recolhimento do imposto ocorra na liquidação financeira da operação; (Incluído pela
+       Emenda Constitucional nº 132, de 2023)
+Direito Tributário
+Prof. Fábio Dutra                                                                          @ProfFabioDutra
+                                      
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Não Cumulatividade da CBS:
+
+  ❑ Cabe à lei complementar disciplinar o regime de compensação da contribuição
+    (créditos e débitos):
+
+  ❑ A lei complementar poderá também estabelecer as hipóteses em que o
+    aproveitamento do crédito ficará condicionado à verificação do efetivo recolhimento
+    da contribuição incidente sobre a operação com bens materiais ou imateriais, inclusive
+    direitos, ou com serviços.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Não Cumulatividade da CBS:
+
+  ❑ Vale lembrar que tais situações dependerão das seguintes condições:
+
+  ❑ a) o adquirente possa efetuar o recolhimento da contribuição incidente nas suas
+    aquisições de bens ou serviços; ou
+  ❑ b) o recolhimento da contribuição ocorra na liquidação financeira da operação;
+
+  ❑ A lei complementar definirá a forma e o prazo para ressarcimento de créditos
+    acumulados pelo contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Não Cumulatividade - Isenções/Imunidades da CBS:
+
+             Art. 156-A.
+             (...)
+             § 7º A isenção e a imunidade:
+             I – não implicarão crédito para compensação com o montante devido nas
+             operações seguintes;
+             II – acarretarão a anulação do crédito relativo às operações anteriores, salvo,
+             na hipótese da imunidade, inclusive em relação ao inciso XI do § 1º, quando
+             determinado em contrário em lei complementar.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                         @ProfFabioDutra
+                                       
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Não Cumulatividade - Isenções/Imunidades da CBS:
+
+  Uma cadeia de industrialização e circulação de mercadorias, com três elos, ou seja,
+  indústria, atacadista e varejista. A indústria fabrica a mercadoria, vende para o atacadista
+  que, por sua vez, a revende ao varejista. Neste caso, se houvesse uma isenção para o
+  distribuidor, nós teríamos a seguinte consequência:
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                   
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+    ❑Não Cumulatividade - Isenções/Imunidades da CBS:
+
+
+  1 – a isenção não implicará crédito para compensação com o montante devido nas
+  operações ou prestações seguintes. Logo, o varejista não poderia se creditar com a
+  contribuição devida na operação seguinte (venda ao consumidor);
+
+  2 – a isenção acarretará a anulação do crédito relativo às operações anteriores. Por
+  conseguinte, o distribuidor que tenha escriturado o crédito de CBS relativamente ao
+  produto que gerou a saída isenta, terá que anulá-lo.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+CONTRIBUIÇÃO SOBRE BENS E SERVIÇOS - CBS
+BASE DE CÁLCULO, ALÍQUOTAS E SUJEITO
+PASSIVO
+
+                                                 Prof. Fábio Dutra
+
+            
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+
+Direito Tributário
+Prof. Fábio Dutra                                         @ProfFabioDutra
+                     
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Base de Cálculo da CBS:
+
+  ❑ O cálculo da CBS é realizado por fora: não integrará sua própria base de cálculo.
+
+  ❑ A CBS também não comporá a base de cálculo do Imposto Seletivo, do ICMS, do ISS,
+    das contribuições PIS/COFINS, inclusive importação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Alíquotas da CBS:
+
+  ❑ CBS – Contribuição de competência da União.
+
+
+  ❑ A CBS surgiu para substituir as contribuições PIS/COFINS (inclusive sobre
+    importação).
+
+
+  ❑ A CBS poderá ter sua alíquota fixada por lei ordinária.
+
+  ❑ Resolução do Senado Federal fixará alíquota de referência para o IBS/CBS, nos
+    termos de lei complementar.
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Alíquotas da CBS:
+
+  ❑ A alíquota fixada para a CBS será a mesma para todas as operações com bens
+    materiais ou imateriais, inclusive direitos, ou com serviços, ressalvadas as hipóteses
+    previstas na CF/88 (regimes específicos de tributação);
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Sujeito Passivo da CBS:
+
+  ❑ Art. 156-A.
+  ❑ § 3º Lei complementar poderá definir como sujeito passivo do imposto a pessoa que
+    concorrer para a realização, a execução ou o pagamento da operação, ainda que
+    residente ou domiciliada no exterior.
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+CONTRIBUIÇÃO SOBRE BENS E SERVIÇOS - CBS
+CASHBACK
+
+
+                                                 Prof. Fábio Dutra
+
+            
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Cashback Relativo à CBS:
+
+             Art. 195.
+             (...)
+             § 18. Lei estabelecerá as hipóteses de devolução da contribuição prevista no
+             inciso V do caput a pessoas físicas, inclusive em relação a limites e
+             beneficiários, com o objetivo de reduzir as desigualdades de renda.
+             (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                      @ProfFabioDutra
+                                      
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Cashback Relativo à CBS:
+
+  ❑ A devolução será obrigatória nas operações de fornecimento de energia elétrica e de
+    gás liquefeito de petróleo ao consumidor de baixa renda, podendo a lei complementar
+    determinar que seja calculada e concedida no momento da cobrança da operação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Cashback Relativo à CBS:
+
+  ❑ O art. 195, § 18, da CF/88, prevê a possibilidade de devolução do IBS a pessoas físicas
+    de baixa renda, nos termos estabelecidos em lei, que definirá:
+    ❑ Hipóteses de Devolução;
+    ❑ Limites de Devolução;
+    ❑ Beneficiários do Cashback.
+  ❑ O cashback será obrigatório nas seguintes situações envolvendo consumidor de baixa
+    renda:
+    ❑ Operações de energia elétrica;
+    ❑ Operações de gás liquefeito de petróleo
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+---
+
+CONTRIBUIÇÃO SOBRE BENS E SERVIÇOS - CBS
+ALTERAÇÕES NA LEGISLAÇÃO E LEIS
+COMPLEMENTARES
+
+                                                 Prof. Fábio Dutra
+
+            
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Alterações nas Legislações Relativas à CBS:
+
+    ❑ Qualquer alteração na legislação federal que reduza ou eleve a arrecadação do
+      imposto (entenda como CBS):
+
+
+    ❑ I – deverá ser compensada pela elevação ou redução, pelo Senado Federal, das
+      alíquotas de referência, de modo a preservar a arrecadação das esferas federativas,
+      nos termos de lei complementar;
+
+
+    ❑ II – somente entrará em vigor com o início da produção de efeitos do ajuste das
+      alíquotas de referência de que trata o inciso I;
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Alterações nas Legislações Relativas à CBS :
+
+    ❑ Projeto de lei complementar em tramitação no Congresso Nacional que reduza ou
+      aumente a arrecadação do imposto (entenda como CBS) somente será apreciado se
+      acompanhado de estimativa de impacto no valor da alíquota de referência .
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Demais Matérias a Serem Disciplinas em Lei Complementar
+    (CBS):
+
+  I - As hipóteses de diferimento e desoneração do imposto aplicáveis aos regimes
+  aduaneiros especiais e às zonas de processamento de exportação;
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Demais Matérias a Serem Disciplinas em Lei Complementar
+    (CBS):
+
+  II - Critérios para as obrigações tributárias acessórias, visando sua simplificação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                        @ProfFabioDutra
+                                    
+
+
+---
+
+Contribuição sobre Bens e Serviços - CBS
+    ❑Demais Matérias a Serem Disciplinas em Lei Complementar
+    (CBS):
+
+  ❑ III - Os critérios para a definição do destino da operação, que poderá ser, inclusive, o
+    local da entrega, da disponibilização ou da localização do bem, o da prestação ou da
+    disponibilização do serviço ou o do domicílio ou da localização do adquirente ou
+    destinatário do bem ou serviço, admitidas diferenciações em razão das características
+    da operação;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---

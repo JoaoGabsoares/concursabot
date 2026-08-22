@@ -1,0 +1,3878 @@
+                                                    Aula 07
+                          Receita Federal (Analista Tributário)
+                     Administração de Compras e Materiais
+
+
+
+
+                                                        Autor:
+                                        Ricardo Campanario
+
+
+
+
+                                           12 de Agosto de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Ricardo Campanario
+      Aula 07
+
+
+
+
+                                                                                     Índice
+1) Logística e Supply Chain Management - AULA SIMPLIFICADA
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Administração de Compras e Materiais                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                           76
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+                       LOGÍSTICA E SUPPLY CHAIN MANAGEMENT
+
+Abordagem Logística
+
+Conceitos e Definições
+       O conceito de logística vem ganhando muita importância pois o sucesso nesta atividade
+(as vezes ainda vista como atividade suporte) pode gerar uma grande vantagem competitiva à
+organização, seja ela pública ou privada.
+       Um dos conceitos aceitos para logística é de Martin Christopher (2011):
+
+     Processo de gestão estratégica da aquisição, movimentação e armazenagem de
+     materiais, peças e estoques finais (e os fluxos de informação relacionados) por
+     meio da organização e seus canais de comercialização, de tal forma que as
+     rentabilidades atual e futura sejam maximizadas através da execução de
+     pedidos, visando custo-benefício.
+
+       Hoje em dia a atividade logística é vista por muitas organizações como um grande
+diferencial em seus respectivos posicionamentos de mercado pois está diretamente relacionada a
+melhoria de atendimento de seus clientes.
+       Em outras palavras a logística nada mais é do que uma visão sistêmica de toda a cadeia de
+valor, responsável por otimizar custos, garantir prazos e qualidade e entregar os produtos finais
+conforme o combinado com os clientes.
+       Veja na ilustração abaixo que toda a cadeia de valor da organização está sob o conceito
+definido como logística portanto, inúmeras oportunidades de melhoria na performance e na
+rentabilidade da organização estão compreendidas pela logística:
+
+
+
+
+       Para Idalberto Chiavenato, em uma operação ideal, o material deve fluir de maneira
+ininterrupta ao longo de toda essa cadeia. Não deve parar em nenhum momento, exceto
+quando houver atividade que gere valor ao produto acabado ou ao serviço a ser prestado. Tudo
+que interrompe o processo ao longo da cadeia logística deve ser analisado para que seja
+eliminado.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             3
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+      Por isso a cadeia é chamada de "cadeia de valor" ou value chain, ou seja, agrega valor ao
+produto final ou serviço ao longo de suas etapas. O que não faz isso deve ser eliminado.
+      Já para Ronald Ballou, Logística é uma evolução natural do pensamento administrativo. A
+concepção logística permite "agrupar conjuntamente as atividades relacionadas ao fluxo de
+produtos e serviços para administrá-las de forma coletiva".
+      É exatamente a visão da gestão da cadeia de suprimento, ou o chamado supply chain
+management, que veremos um pouco mais adiante. Mas, já adiantando, preste atenção na dica
+abaixo:
+
+
+
+
+     Um conceito que é simples, importante e cai em provas é: o fluxo de produtos
+     (e/ou informações) no sentido do produtor para o cliente é a chamada logística
+     direta e quando o fluxo percorre o sentido contrário, ou seja, do cliente para o
+     produtor, temos a logística reversa ou inversa.
+
+      Fique atento pois o termo Logística não tem o mesmo significado para todas as pessoas,
+todas as empresas e, em nosso caso específico, para todas as bancas! Até hoje o campo de
+estudo não tem um título único para identificá-lo como existe para o Marketing ou para a
+Produção.
+       As atividades logísticas são representadas por nomes como transportes, distribuição,
+distribuição física, suprimentos, administração de materiais, operações ou mesmo logística.
+      O certo é que implicam tanto no suprimento físico como na distribuição física portanto,
+veja que percorre toda a cadeia que temos estudado até aqui, desde a aquisição e chegada do
+material, seu recebimento, armazenamento e transformação e, finalmente, sua distribuição,
+transporte e entrega ao cliente.
+
+
+Atividades Logísticas
+        Um conceito que é cobrado com alguma frequência em provas refere-se as atividades
+logísticas. Muitas vezes a cobrança refere-se diretamente a classificação criada por Ronald Ballou,
+que divide as atividades logísticas em primárias e de apoio. São elas:
+
+        Atividades Primárias:
+        - Transportes, Manutenção de Estoques e Processamento de Pedidos.
+        Atividades de Apoio:
+        - Obtenção, Armazenagem, Manutenção de Informações, Programação do
+        Produto, Manuseio de Materiais e Embalagem de Proteção.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               4
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+      Note que, embora o autor use terminologia específica, as três atividades que ele rotula
+como atividades primárias: processamento de pedidos, manutenção de estoques e transporte,
+estão diretamente ligadas aos três grandes grupos de atividades que estudamos em
+administração de materiais:
+
+
+
+
+      O processamento de pedidos nada mais é do que o processo de gestão de compras. A
+manutenção de estoques de Ronald Ballou é exatamente o que temos chamado de gestão de
+estoques e, por fim, a atividade primária de transporte está também diretamente relacionada à
+gestão dos centros de distribuição que, na verdade é a "saída" do produto acabado da
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         5
+        www.estrategiaconcursos.com.br                                                     76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+organização transformadora em direção ao cliente que o adquiriu, passando pelos canais e
+estratégias de distribuição adotados, entre eles Centros de Distribuição e, ao longo de todo o
+tempo, utilizando-se dos modais de transporte mais apropriados.
+       Perceba portanto que o mais importante é entender esses três grandes grupos de
+atividades: a "chegada ou entrada" do material (relacionada a todo o processo de compras e
+fornecedores),     o    material "dentro"    da     organização     (etapa   relacionada    à
+armazenagem/estocagem, movimentação interna necessária e mesmo produção) e, por último, a
+"saída" do produto acabado ou serviço, que é sua entrega ao cliente, passando pelas etapas de
+distribuição e transporte.
+       As nomenclaturas vão variar entre autores e bancas, mas a espinha dorsal da cadeia será
+sempre essa. E, não menos importante, perceba que no centro da ilustração está o Nível de
+Serviço, que é justamente a capacidade que tem a organização de atender as demandas
+colocadas por seus clientes, resultado da integração de todas essas atividades interrelacionadas.
+       Voltando ao modelo de Ronald Ballou, veja abaixo em resumo quais seriam as principais
+atividades logísticas segundo o autor:
+
+      ATIVIDADE PRIMÁRIA                       ATIVIDADE DE APOIO                            DEFINIÇÃO
+                                                                                Seleção das fontes e obtenção dos
+                                                     Obtenção
+                                                                                suprimentos e materiais necessários.
+    Processamento de Pedido
+                                                                                Administração do espaço para a
+                                                   Armazenagem
+                                                                                manutenção de estoques.
+                                                                                Base de dados que suporta todo o
+                                           Manutenção de Informações
+                                                                                fluxo logístico ao longo da cadeia.
+     Manutenção de Estoque                                                      Volumes que devem ser produzidos
+                                             Programação do Produto             para que possam atender a
+                                                                                demanda.
+                                                                                Associada à armazenagem, diz
+                                              Manuseio de Materiais
+                                                                                respeito a movimentação interna.
+            Transporte
+                                                                                Proteção dos bens ao longo do
+                                              Embalagem de Proteção
+                                                                                deslocamento.
+      AS TRÊS DIMENSÕES LOGÍSTICAS
+      Para fecharmos esta etapa vale estudarmos outro conceito que surge com alguma
+frequência em provas e é bastante específico. Estou falando das três dimensões logísticas de
+acordo com Martins e Alt.
+      Segundo os autores a logística tem três dimensões principais:
+
+        - Dimensão de fluxo: suprimentos, transformação, distribuição e serviço ao
+        cliente. É todo o percurso pelo qual passa o produto ou serviço até que seja
+        entregue ao cliente.
+        - Dimensão de atividade: processo operacional, administrativo, de
+        gerenciamento e de engenharia. São os processos que acontecem em cada uma
+        das atividades que permitem que o material seja adquirido, transformado,
+        acabado e distribuído ao comprador, ao longo de todo o fluxo.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                                    6
+        www.estrategiaconcursos.com.br                                                                                76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+        - Dimensão de domínios: gestão de fluxos, tomada de decisão, gestão de
+        recursos, modelo organizacional. São as decisões e a visão gerencial que
+        coordena os processos e o fluxo adotado, fazendo tudo funcionar da forma mais
+        eficiente para a organização.
+
+
+
+Logística Sustentável
+
+A sustentabilidade na logística
+      A sustentabilidade é um tema já bastante conhecido e explorado. Não precisamos investir
+muito tempo nele antes de entrar na própria logística sustentável. Não há qualquer mistério. Se é
+possível atuar e gerar lucros sem prejudicar o meio ambiente ou sem deixar de lado a
+responsabilidade social, porque não o fazer?
+       Esse mesmo pensamento vale para a logística, que é particularmente afetada por temas
+sensíveis na questão ambiental como as sobras de produção, o uso de recursos naturais e de
+combustíveis ao longo de todo o processo.
+      A chamada logística sustentável surge com o Decreto 7.746/2012, que regulamenta o art.
+3º da Lei nº 8.666, de 21 de junho de 1993, reforçado pelos artigos 5º e 11º da lei 14.133/2021,
+com o objetivo de estabelecer critérios e práticas para a promoção do desenvolvimento nacional
+sustentável nas contratações realizadas pela administração pública federal direta, autárquica e
+fundacional e pelas empresas estatais dependentes, e institui a Comissão Interministerial de
+Sustentabilidade na Administração Pública - CISAP.
+      Note que o Decreto se refere ao artigo 3o da Lei 8.666/1993, que trata de forma geral das
+normas de licitações e contratos da administração pública. O artigo 3o da Lei 8.666/1993 diz o
+seguinte:
+
+        Art. 3o A licitação destina-se a garantir a observância do princípio constitucional
+        da isonomia, a seleção da proposta mais vantajosa para a administração e a
+        promoção do desenvolvimento nacional sustentável e será processada e julgada
+        em estrita conformidade com os princípios básicos da legalidade, da
+        impessoalidade, da moralidade, da igualdade, da publicidade, da probidade
+        administrativa, da vinculação ao instrumento convocatório, do julgamento
+        objetivo e dos que lhes são correlatos.
+
+       Nessa mesma linha a Nova Lei de Licitações 14.133/2021 traz no Art. 5º: “Na aplicação
+desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da
+publicidade, da eficiência... e do desenvolvimento nacional sustentável, assim como...” e no art.
+11º: “O processo licitatório tem por objetivos: ...IV - incentivar a inovação e o desenvolvimento
+nacional sustentável”.
+
+
+Decreto 7.746/2012
+       Dentro desse contexto o Decreto 7.746/2012 procura estabelecer critérios e práticas para
+definir exatamente o que é a promoção do desenvolvimento nacional sustentável no ato da
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             7
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+contratação pública, conceito trazido pelas Leis 8.666/1993 e 14.133/2021. Vejamos alguns
+extratos do Decreto.
+      Logo em seu artigo 2o ele chama atenção para a adoção de práticas sustentáveis no
+processo de contratação:
+     Art. 2º Na aquisição de bens e na contratação de serviços e obras, a administração
+     pública federal direta, autárquica e fundacional e as empresas estatais dependentes
+     adotarão critérios e práticas sustentáveis nos instrumentos convocatórios, observado o
+     disposto neste Decreto.
+       OK, mas fala-se o tempo todo em práticas sustentáveis, mas ainda não está claro e
+objetivo quais são elas. Mais adiante, na parte mais importante do Decreto para sua prova, a
+norma estabelece quais são os critérios e práticas considerados sustentáveis. São eles:
+
+
+
+
+     Art. 4º Para os fins do disposto no art. 2º, são considerados critérios e práticas
+     sustentáveis, entre outras: (“Caput” do artigo com redação dada pelo Decreto nº
+     9.178, de 23/10/2017)
+     I - baixo impacto sobre recursos naturais como flora, fauna, ar, solo e água; (Inciso com
+     redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     II - preferência para materiais, tecnologias e matérias-primas de origem local;
+     III - maior eficiência na utilização de recursos naturais como água e energia;
+     IV - maior geração de empregos, preferencialmente com mão de obra local;
+     V - maior vida útil e menor custo de manutenção do bem e da obra;
+     VI - uso de inovações que reduzam a pressão sobre recursos naturais; (Inciso com
+     redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     VII - origem sustentável dos recursos naturais utilizados nos bens, nos serviços e nas
+     obras; e (Inciso com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     VIII - utilização de produtos florestais madeireiros e não madeireiros originários de
+     manejo florestal sustentável ou de reflorestamento. (Inciso acrescido pelo Decreto nº
+     9.178, de 23/10/2017)
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               8
+        www.estrategiaconcursos.com.br                                                           76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+       Mais adiante em seus artigos 5o e 6o, o Decreto traz ainda outras possibilidades para que
+a administração pública, ao contratar, possa exigir certos pré requisitos ou formas de atuação, em
+linha com a sustentabilidade. Vejamos abaixo:
+
+
+     Art. 5º A administração pública federal direta, autárquica e fundacional e as empresas
+     estatais dependentes poderão exigir no instrumento convocatório para a aquisição de
+     bens que estes sejam constituídos por material renovável, reciclado, atóxico ou
+     biodegradável, entre outros critérios de sustentabilidade. (Artigo com redação dada
+     pelo Decreto nº 9.178, de 23/10/2017)
+     Art. 6º As especificações e demais exigências do projeto básico ou executivo para
+     contratação de obras e serviços de engenharia devem ser elaboradas, nos termos do
+     art. 12 da Lei nº 8.666, de 1993, de modo a proporcionar a economia da manutenção
+     e operacionalização da edificação e a redução do consumo de energia e água, por
+     meio de tecnologias, práticas e materiais que reduzam o impacto ambiental.
+      Importante frisar que o não cumprimento de tais condições, por meio da comprovação das
+exigências listadas ou ainda por meio de diligências, impõe ao contratante a obrigação de
+apresentar razões técnicas para o não cumprimento, ao final colocando em risco todo o processo
+de contratação.
+      Por fim, vale ainda destacar no próprio Decreto o artigo 16 que impõe a elaboração e
+implementação de plano de gestão de logística sustentável a toda a administração pública
+federal direta, autárquica e fundacional e as empresas estatais dependentes. Veja a seguir:
+     Art. 16. A administração pública federal direta, autárquica e fundacional e as empresas
+     estatais dependentes deverão elaborar e implementar Planos de Gestão de Logística
+     Sustentável, conforme ato editado pela Secretaria de Gestão do Ministério do
+     Planejamento, Desenvolvimento e Gestão, que preverá, no mínimo: (“Caput” do artigo
+     com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     I - atualização do inventário de bens e materiais do órgão e identificação de similares
+     de menor impacto ambiental para substituição;
+     II - práticas de sustentabilidade e de racionalização do uso de materiais e serviços;
+     III - responsabilidades, metodologia de implementação e avaliação do plano; e
+     IV - ações de divulgação, conscientização e capacitação.
+       Veja que são todas medidas que visam regular a atuação de potenciais contratados para a
+execução de obras ou serviços públicos em sintonia com as atuais preocupações relativas a
+sustentabilidade, assim como impor, inclusive à administração pública, a adoção de regras
+similares.
+
+        A Logística Sustentável dessa forma envolve todas as funções e responsabilidades da
+logística tradicional, no entanto, com um viés voltado para a sustentabilidade. Para isso,
+implementa ações que visam otimizar o uso dos recursos disponíveis, buscando reduzir o
+desperdício de insumos, as emissões de gases poluentes na atmosfera e outras práticas
+ambientalmente condenáveis.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              9
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+Supply Chain Management
+
+Conceito de Supply Chain Management
+       Antes de chegarmos à definição de Supply Chain Management vale trazermos mais uma
+definição de Logística, agora de Gurgel e Francischini, para relembrarmos o tema:
+
+        Processo de planejamento, implementação e controle do fluxo eficiente e eficaz
+        de matérias-primas, estoques de produtos semiacabados, acabados e do fluxo
+        de informações a eles relativo, desde a origem até o consumo, com o propósito
+        de atender aos requisitos dos clientes.
+
+      Note que estamos falando da movimentação de materiais/produtos e informações ao
+longo de toda a cadeia, da origem ao seu consumo final.
+      O Supply Chain Management pode ser definido nesta mesma direção, porém agora traz
+muito forte o conceito da integração entre os diferentes atores do processo e não só a
+movimentação ao longo do fluxo.
+      Veja a seguir uma definição aceita para o Supply Chain Management ou SCM!
+
+
+
+
+     Integração dos processos que formam um determinado negócio, desde os
+     fornecedores originais até o usuário final, proporcionando produtos, serviços e
+     informações que agregam valor para o cliente.
+
+      Podemos considerar que o SCM é uma rede de organizações envolvidas em diferentes
+processos e atividades anteriores que produzem valor sob a forma de produtos e serviços nas
+mãos do consumidor final.
+       Importante notar que essas organizações geralmente estão dispersas geograficamente
+mas, mesmo assim, dispõem-se a compartilhar informações e intenções e trabalhar de forma
+verdadeiramente integrada, em grandes redes virtuais, substituindo o conceito da verticalização,
+caro e muitas vezes ineficiente.
+     É uma ferramenta estratégica que aumenta a satisfação do cliente e eleva a
+competitividade da empresa, assim como sua rentabilidade.
+      A gestão de todos esses processos e a integração de todos os atores de forma simultânea,
+para que o cliente seja bem atendido, é o que denominamos Supply Chain Management.
+      OBJETIVOS DO SUPPLY CHAIN MANAGEMENT
+      Podemos resumir os principais objetivos do SCM na lista abaixo, em relação as cadeias de
+suprimentos gerenciadas:
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           10
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+        Formação de parcerias - compartilhamento de todas as iniciativas do negócio
+        com os demais membros da cadeia.
+        Compartilhamento de riscos - os riscos dos negócios devem ser compartilhados
+        por todos os atores da cadeia.
+        Distribuição dos resultados - os ganhos obtidos pela racionalização de toda a
+        cadeia são divididos entre todos os atores.
+        Tráfego de informações - as informações devem fluir sem restrições entre os
+        membros da cadeia.
+        Eliminação de diferenças - a cadeia não deve permitir que algum de seus elos
+        acumule perdas, evitando prejuízos à cadeia como um todo.
+
+
+
+
+        De modo mais genérico podemos dizer que o SCM busca a redução dos custos
+        de fornecimento, aumento da eficiência e capacidade de produção, diminuição
+        no tempo total da prestação do serviço ou do fornecimento do produto e, como
+        resultado final, aumento nas margens e no retorno do investimento com base no
+        atendimento das necessidades e expectativas do cliente final.
+
+
+Supply Chain Management no Setor Público
+       Nos órgãos públicos há uma grande dificuldade para a implantação do SCM pois a
+premissa é que as contratações são realizadas com base na legislação vigente e, na maioria das
+vezes, estão baseadas em preço ou outras condições estabelecidas pelos editais ou instrumentos
+de compra utilizados.
+      Essa condição praticamente afasta a possibilidade da construção de parcerias e dificulta
+de forma significativa a integração dos atores ao longo da cadeia.
+       Em primeiro lugar não há como buscar a manutenção de relacionamentos de longo prazo
+com diferentes atores pois as contratações são sempre baseadas em critérios técnicos e
+objetivos, independentemente do grau de integração e relacionamento construído com
+diferentes fornecedores e demais parceiros comerciais.
+      Além disso, os próprios parceiros (especialmente os fornecedores) têm ciência que o setor
+público não está diretamente interessado em seu desenvolvimento para que os frutos possam ser
+colhidos ao longo do tempo.
+      Não há essa preocupação específica com o desenvolvimento dos fornecedores pois a
+contratação é por tempo determinado e com objetivo específico. Esse é mais um ponto que
+enfraquece a relação entre as partes e dificulta a adoção do SCM
+      Para Albuquerque e Primo:
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          11
+        www.estrategiaconcursos.com.br                                                      76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+     Características do processo de compras/contratações públicas, tais como
+     impessoalidade e igualdade de condições para todos os concorrentes, podem se
+     apresentar como um entrave para o desenvolvimento de relacionamentos com
+     fornecedores nos quais sejam compartilhados processos, informações e ganhos.
+      Com todo esse cenário, na administração pública acaba não existindo o chamado "senso
+de urgência" na busca pela melhora na gestão da cadeia de suprimentos., levando a prestação
+de serviços à ineficiência, com desperdícios e custos maiores que o necessário.
+
+
+
+
+     Ainda de acordo com Albuquerque e Primo, uma possibilidade que se oferece para
+     minimizar esse cenário é a gestão da cadeia dentro da própria administração pública
+     como entre órgãos que acabam atuando juntos em determinados processos como, por
+     exemplo, a integração entre Fiscos e órgãos públicos de processamento de dados, os
+     próprios Fiscos e órgãos policiais, de investigação e de julgamento (Secretarias de
+     Fazenda/Receita + Polícias + Ministério Público + Judiciário), entre dezenas de outros
+     exemplos que poderiam ser aqui trazidos.
+      Fato é que, mesmo sem poder estender a gestão da cadeia a todos os atores pelos
+obstáculos que vimos anteriormente, é possível buscar integração com outros órgãos públicos
+que, conjuntamente, fazem parte de uma única cadeia de prestação de serviços ao cidadão, que
+deve ser encarado como o cliente final de todo o processo.
+
+
+Cadeias de Suprimentos (Direta, Reversa e Ciclo Fechado)
+      Esse é um tema de ótimo custo benefício pois é simples e é cobrado com frequência.
+      CADEIA DIRETA
+        A cadeia direta é a que estamos acostumados, a que flui naturalmente dos fornecedores
+até o cliente final, passando por todo o processo de compra, estocagem, transformação,
+distribuição, transporte, até chegar aos clientes finais ou consumidores. É também conhecida por
+"a jusante" (raro, mas as vezes aparece).
+      É o sentido que normalmente estudamos e que observamos de maneira natural nos
+processos do dia a dia.
+
+
+      CADEIA REVERSA
+       A cadeia reversa, também chamada de logística reversa, justamente inverte o sentido que
+estávamos observando até agora. Diz respeito ao fluxo contrário, ou seja, dos clientes até o
+produtor. Esse termo em geral é usado para descrever o processo de "trazer de volta" os
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            12
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+produtos após o final de suas "vidas úteis", ou mesmo nos casos de recall, reparos ou
+reutilização. Também chamada de "a montante" (também raro, mas fique atento).
+       A logística reversa define o envio do produto desde o seu local de consumo até o ponto
+adequado da cadeia de suprimento para que seja dado o tratamento adequado aos resíduos
+(descarte correto ou reciclagem, evitando danos ambientais como vimos em logística sustentável)
+ou para que algum valor seja gerado novamente ao produto, como nos casos de remanufatura
+(vasilhames que são lavados e reutilizados, por exemplo).
+      Dessa forma a logística reversa está diretamente ligada à reciclagem ou ao
+reaproveitamento de materiais. Outras movimentações ao longo da cadeia que também
+dependem da logística reversa são as devoluções (por danos, estoques sazonais e/ou em
+consignação, recalls, excesso de estoque, etc.).
+      Do ponto de vista normativo, a Lei 12.305/2010 que institui a Política Nacional de
+Resíduos Sólidos traz em seu artigo 3o, inciso XII, a definição legal e vigente de logística reversa:
+
+        Art. 3o Para os efeitos desta Lei, entende-se por:
+        ...
+        XII - logística reversa: instrumento de desenvolvimento econômico e social
+        caracterizado por um conjunto de ações, procedimentos e meios destinados a
+        viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para
+        reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra
+        destinação final ambientalmente adequada;
+
+      CADEIA DE CICLO FECHADO
+      Por último, a cadeia de ciclo fechado - chamada também de closed loop supply chain ou
+economia circular - é uma evolução dos dois primeiros conceitos que acabamos de estudar.
+Neste modelo, tanto a logística direta como a reversa estão integrados e formam um único ciclo,
+de ida e volta e contínuo.
+      Esse percurso engloba todo o ciclo de vida do produto e vai da produção ao fornecimento
+ao mercado e, na sequência, da coleta pós uso até a sua reciclagem ou reutilização, reinserindo-o
+no processo produtivo para que volte ao mercado, novamente na forma de produto.
+      Perceba que é um ciclo contínuo, cujos elos estão todos ligados e formam uma corrente
+única e sem interrupção. O produto vai até o cliente, é consumido e retorna na forma de resíduo,
+sobras ou componentes, sendo novamente preparado para que volte ao mercado, dando
+continuidade ao ciclo e a cadeia formada.
+       Esse é o fenômeno denominado closed-loop supply chain ou cadeias de suprimentos de
+ciclo fechado, ou seja um "loop" que se retroalimenta o tempo todo e faz com que o processo
+não tenha início nem fim.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                13
+        www.estrategiaconcursos.com.br                                                            76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+Efeito Forrester
+       O efeito Forrester ou efeito "chicote" é fruto das distorções de demandas de estoque que
+ocorrem em cadeias não integradas pelo SCM. O efeito é explicado pelo impacto que pequenas
+variações na demanda final (clientes) acabam causando em toda a cadeia.
+
+
+
+
+        Este problema, típico de cadeias não integradas, ocorre porque não há o
+        compartilhamento de informações entre os diferentes atores envolvidos.
+
+
+
+
+       Imagine que o varejista por alguma razão emite uma ordem de compra 30% maior do que
+costumava fazer. O distribuidor/atacadista que está acostumado a atendê-lo, sem saber qual a
+real razão do aumento, amplia também o seu pedido para o fabricante em proporção ainda
+maior (50%, por exemplo), visando o atendimento do varejista nos meses subsequentes e
+desconhecendo que o incremento projetado pelo varejista se deu por um cliente único que
+avisou que fará uma simples e única compra no mês seguinte.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          14
+        www.estrategiaconcursos.com.br                                                      76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+      O fabricante, por sua vez, sem ter a menor ideia do que está acontecendo (já que os
+atores não se conversam e a informação não flui entre eles), eleva sua produção e dobra o
+volume de compras de matérias primas junto aos fornecedores.
+       Perceba que o impacto vai reverberando por toda a cadeia e tende a aumentar conforme
+vamos avançando por cada um dos parceiros. Quanto mais os atores estão afastados do cliente
+final, maior o risco de que o efeito se instale e ganhe cada vez maior volume, enquanto vai
+percorrendo toda a cadeia. Isso acontece porque cada elo da cadeia só tem informações
+recebidas do elo seguinte e não se enxerga o ciclo como um todo, não havendo também o
+necessário compartilhamento de informações.
+
+        O resultado final de tal efeito é a formação de grandes volumes de estoques ao
+        longo da cadeia. Isso obrigará cada um dos atores a tomar medidas que
+        incentivem seu giro, buscando a redução de custo em função da instalação
+        desnecessária destes altos volumes de estoques devido à desinformação
+        generalizada ao longo da cadeia.
+
+      Veja a representação gráfica das variações de estoque que podem acontecer em função
+do efeito chicote ou Forrester e como elas vão ganhando intensidade ao longo da cadeia.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais       15
+        www.estrategiaconcursos.com.br                                                   76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+                                   QUESTÕES COMENTADAS
+
+
+
+
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do
+tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos
+subsistemas logísticos.
+
+
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial
+a elas relacionados, julgue os itens que se seguem.
+
+   1. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Os atores relacionados com as setas 1.2 e 1.3 correspondem aos bens que foram comercializados,
+armazenados e postos nos canais de distribuição reversos, por algum motivo como término de
+validade, problemas de qualidade, avarias no transporte, erros de pedido do produto, entre
+outros, antes que eles fossem consumidos.
+
+Comentários:
+
+A afirmativa está CORRETA.
+Os atores 1.2 e 1.3 mostram exatamente esse trajeto, ou seja, os bens chegaram ao consumidor,
+não foram consumidos (observe que não se direcionam ao pós consumo) e, por qualquer razão,
+retornam ao atacadista/varejista em algum formato de devolução, sempre antes de serem
+consumidos.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           16
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   2. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+As decisões sobre o que, como, quando e quanto fazer em termos de produção, de forma a
+mobilizar máquinas e equipamentos, materiais e pessoas no processo produtivo, estão associadas
+ao momento das ações conjuntas dos atores ligados pela seta 2.4.
+
+Comentários:
+
+A afirmativa está ERRADA.
+A seta 2.4 na verdade está em momento posterior, ou seja, indica o deslocamento do que já foi
+produzido para a cadeia de distribuição. As decisões sobre o que, como, quando e quanto fazer
+em termos de produção ocorrem imediatamente antes deste momento, ou seja, no ponto 2.3.
+
+   3. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+O setor de compras da indústria faz parte da operação na figura apresentada.
+
+Comentários:
+
+A afirmativa está ERRADA.
+Ao contrário, o setor de compras não está representado. Temos apenas a entrega/recebimento
+dos itens 2.1 e 2.2 e o seu armazenamento para suprimento da produção (item 2.3). O processo
+de compras nesse caso ocorreu antes dos itens 2.1 e 2.2.
+
+   4. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Na representação da indústria, dos fornecedores e do atacarejo, o ERP (enterprise resource
+planning) é voltado especificamente a garantir um sistema integrado de gestão documental que
+seja seguro para as organizações, com o objetivo de controlar o inventário físico e a acurácia em
+seus estoques.
+
+Comentários:
+
+A afirmativa está ERRADA.
+O ERP (Enterprise Resource Planning), é um sistema de informação que integra todos os dados e
+processos de uma organização em um único sistema. A integração pode ser vista sob a
+perspectiva funcional (sistemas de: finanças, contabilidade, recursos humanos, fabricação,
+marketing, vendas, compras, etc) e sob a perspectiva sistêmica (sistema de processamento de
+transações, sistemas de informações gerenciais, sistemas de apoio a decisão, etc).
+Dessa forma, o ERP certamente não se limita a gestão de documentos, estoques e inventários
+como traz o enunciado.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            17
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   5. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Considere que o fornecedor indicado pela seta 2.1 esteja situado em Belém, no estado do Pará
+(região Norte), e tenha optado pelo modo de transporte aquaviário para enviar 100 toneladas da
+matéria-prima a uma fábrica localizada em Porto Alegre, no estado do Rio Grande do Sul (região
+Sul). Nesse caso, o fornecer buscou, para a operação, proporcionar o menor custo de transporte,
+já que o modal escolhido permite a movimentação de grandes volumes para distâncias superiores
+a 1,5 mil quilômetros, tendo a variável tempo, nessa escolha, importância secundária.
+
+Comentários:
+
+A afirmativa está CORRETA.
+Para o transporte em grandes distâncias, sem a preocupação de tempo, o modal hidroviário é
+mesmo recomendado pelo seu baixo custo em relação a outros modais que seriam fundamentais
+caso o tempo de entrega fosse crítico, como o modal aéreo, de alto custo.
+
+   6. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+A Logística 4.0 tem foco na agilidade da comunicação entre os atores da cadeia, para maior
+controle e sincronização, com o menor risco, e busca eliminar o desperdício, como está ilustrado
+na figura, que apresenta o fluxo direto e reverso da logística.
+
+Comentários:
+
+A afirmativa está CORRETA.
+A logística 4.0 de fato tem como premissa a integração total dos membros da cadeia, assim
+como a eliminação do desperdício ao longo dos atores, incluindo nesse cenário a logística
+reversa para o reaproveitamento/reciclagem de itens ou mesmo o seu correto descarte.
+
+   7. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Na figura apresentada, o ator distribuição é responsável pelo gerenciamento do almoxarifado de
+matéria-prima, com políticas de níveis de estocagem, para gerar controle e avaliação do material
+estocado e o uso racional da área de armazenagem.
+
+Comentários:
+
+A afirmativa está ERRADA.
+A etapa de distribuição está ao final da cadeia e não é responsável pelo gerenciamento do
+almoxarifado de matéria-prima e dos níveis de estocagem. Tais acompanhamento são executados
+pela etapa de estoques/armazenamento, que ocorre antes do momento da distribuição aos
+clientes.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           18
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Acerca de gestão logística integrada, julgue os itens a seguir.
+
+   8. (CEBRASPE/INPI/2024)
+
+Uma empresa cuja estratégia de negócios seja a redução de custos pode optar por aumentar o
+número de armazéns e, assim, aumentar o custo de transportes e diminuir o custo de estoque.
+
+Comentários:
+
+Uma empresa cuja estratégia de negócios seja a redução de custos pode optar por aumentar o
+número de armazéns e, assim, aumentar o custo de transportes e diminuir o custo de estoque.
+ERRADA. Nessa direção, com aumento de armazéns e de custos de transportes, provavelmente a
+empresa vai aumentar seus custos ao invés de reduzi-los.
+
+   9. (CEBRASPE/INPI/2024)
+
+Um fornecedor que consigna estoques dentro das instalações do cliente amplia a necessidade de
+realizar entregas de produtos solicitados.
+
+Comentários:
+
+Um fornecedor que consigna estoques dentro das instalações do cliente amplia a necessidade de
+realizar entregas de produtos solicitados. ERRADA. Ao contrário, o estoque consignado no cliente
+aumenta o abastecimento no ponto de venda e diminui a necessidade de entregas variadas.
+
+
+   10. (CEBRASPE/INPI/2024)
+
+Uma vantagem dos softwares ERP é a capacidade de fornecer informações em tempo real aos
+gestores.
+
+Comentários:
+Uma vantagem dos softwares ERP é a capacidade de fornecer informações em tempo real aos
+gestores. CORRETA. O ERP integra os diversos setores da organização e, de fato, fornece
+informações em tempo real aos gestores
+
+
+   11. (CEBRASPE/INPI/2024)
+
+A integração logística funcional manifesta-se quando as empresas abordam a produção não como
+algo exclusivo de um país ou região, mas a concebem em uma escala mais ampla, alcançando
+diversos mercados.
+
+Comentários:
+A integração logística funcional manifesta-se quando as empresas abordam a produção não como
+algo exclusivo de um país ou região, mas a concebem em uma escala mais ampla, alcançando
+diversos mercados. ERRADA. A integração logística funcional considera a integração de funções e
+não de geografias, como proposto pela afirmativa.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           19
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   12. (CEBRASPE/INPI/2024)
+
+Uma desvantagem do sistema ERP é sua reputação de ser muito caro e de difícil implementação.
+
+Comentários:
+
+Uma desvantagem do sistema ERP é sua reputação de ser muito caro e de difícil implementação.
+CORRETA. De fato é um sistema com reputação de alto preço e implementação complexa.
+
+
+   13. (CEBRASPE / PETROBRAS /2024)
+
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de
+logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito
+da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+
+Conforme os conceitos de sustentabilidade na cadeia de suprimentos, as empresas que
+assumem o desafio de operar as atividades logísticas de maneira racional, eficiente e eficaz
+buscam garantir a competitividade e a sustentabilidade na sua organização e no mercado global.
+
+Comentário:
+A afirmativa está CORRETA.
+
+Não há como dizer que uma afirmativa como esta pode estar errada. Organizações que
+pretendem operar suas atividades logísticas de maneira racional, eficiente e eficaz tentam de fato
+garantir a competitividade e a sustentabilidade na sua organização e no mercado global. Na
+verdade temos um grande círculo virtuoso pois a racionalidade, eficiência e eficácia levam a
+competitividade e à sustentabilidade ao longo do processo que, por sua vez, aumentam a
+eficiência e eficácia e assim por diante.
+
+
+   14. (CEBRASPE / PETROBRAS /2024)
+
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de
+logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito
+da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+
+As empresas que se destacam por adotar estratégias empresariais que divulguem suas ações
+produtivas e estejam voltadas para o desenvolvimento de um modelo focado na sustentabilidade
+são notadamente consideradas inovadoras.
+
+Comentário:
+A afirmativa está CORRETA.
+Questão atual e repetitivamente cobrada em provas. Modelos de negócio focados em
+sustentabilidade são sempre bem vindos e bem vistos e ainda podem ser considerados como
+estratégias inovadoras no mercado.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              20
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+   15. (CEBRASPE/APEX/2024)
+
+Maria é gestora da área logística de uma organização pública e tem o desafio de inseri-la na
+denominada governança ambiental, social e corporativa. Ela está trabalhando na etapa de
+levantamento dos riscos advindos da implantação da tríplice governança.
+
+Assinale a opção correta acerca da situação hipotética apresentada.
+
+A) A prática de omitir informações sobre os reais impactos das atividades de uma organização no
+meio ambiente e na comunidade é rara.
+
+B) Um dos possíveis riscos da implementação da nova governança pretendida por Maria é a falta
+de razoabilidade na definição de algumas metas, principalmente na dimensão social.
+
+C) As exigências extremas acerca da governança que Maria pretende implementar não têm o
+poder de inviabilizar a sua implantação.
+
+D) Ainda que a nova governança não seja levada a sério pela alta administração da organização,
+isso não implica que o tema seja banalizado ao longo do tempo.
+
+Comentário:
+A alternativa A está incorreta. Ao contrário, ainda é frequente a omissão de informações sobre os
+reais impactos das atividades de uma organização no meio ambiente e na comunidade
+
+A alternativa B está correta e é o gabarito da questão. A dimensão social de fato traz os maiores
+desafios para o estabelecimento de metas claras, mensuráveis e objetivas.
+
+A alternativa C está incorreta. Exigências extremas podem sim tornar o processo inviável em
+relação a implementação no curto prazo.
+
+A alternativa D está incorreta. A não incorporação do valor junto a alta administração é o
+primeiro passo e indicador para que a iniciativa naufrague como um todo.
+
+
+   16. (CEBRASPE/APEX/2024)
+
+Assinale a opção em que é apresentada a área de suporte logístico cuja função é providenciar a
+proteção dos produtos, de modo que haja movimentação sem danificá-los, facilitando a
+manipulação e a estocagem.
+
+A) programação de produtos
+
+B) embalamento de proteção
+
+C) armazenagem
+D) movimentação de materiais
+
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             21
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa A está incorreta. O examinador se refere ao processo de embalamento para
+proteção e não a programação de produtos.
+
+A alternativa B está correta e é o gabarito da questão. Aqui a banca se refere claramente ao
+processo de embalagens que tem como objetivo proteger e preservar os produtos durante os
+processos de movimentação, manipulação e estocagem.
+
+A alternativa C está incorreta. O examinador se refere ao processo de embalamento para
+proteção e não a armazenagem.
+
+A alternativa D está incorreta. O examinador se refere ao processo de embalamento para
+proteção e não a movimentação de materiais.
+
+
+   17. (CEBRASPE/APEX/2024)
+
+Um empregado, que trabalha no setor de logística de materiais de uma organização, é
+responsável por definir o que estocar e o quanto estocar, visando à redução do tempo de
+fornecimento de materiais, ao recebimento de produtos de melhor qualidade e à diminuição dos
+estoques.
+
+Na situação hipotética precedente, o processo de logística de materiais pelo qual o empregado
+é responsável está relacionado
+A) ao transporte.
+
+B) aos suprimentos.
+
+C) ao sistema de informação.
+
+D) à localização das instalações de estocagem.
+
+Comentário:
+
+A alternativa A está incorreta. As atividades descritas pelo enunciado se referem ao processo de
+suprimento e não ao processo de transporte.
+
+A alternativa B está correta e é o gabarito da questão. Estamos falando da atividade de
+suprimentos, na qual cabe ao responsável definir o que estocar e o quanto estocar, visando à
+redução do tempo de fornecimento de materiais, ao recebimento de produtos de melhor
+qualidade e à diminuição dos estoques.
+
+A alternativa C está incorreta. As atividades descritas pelo enunciado se referem ao processo de
+suprimento e não ao sistema de informação.
+
+A alternativa D está incorreta. As atividades descritas pelo enunciado se referem ao processo de
+suprimento e não à localização das instalações de estocagem.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            22
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+   18. (CEBRASPE/APEX/2024)
+
+Rafael é gestor de logística de materiais de uma organização e, atualmente, realiza estudo
+técnico para tomada de decisão sobre a centralização ou não dos vários almoxarifados da
+organização espalhados pela cidade em um único local.
+
+Considerando a situação hipotética apresentada, julgue os itens seguintes.
+
+I Caso a organização adote a centralização dos almoxarifados em um único local, com base nos
+estudos de Rafael, a gestão de materiais poderá ser facilitada.
+
+II Se houver um almoxarifado central mais perto da sede da organização, poderão ser
+comprometidas a agilidade nas entregas e a economia com os custos de transporte.
+
+III Optando pelo almoxarifado central, a organização de Rafael despenderia mais com os custos
+de segurança patrimonial relacionados à armazenagem.
+
+Assinale a opção correta.
+
+A) Apenas o item I está certo.
+
+B) Apenas o item II está certo.
+
+C) Apenas os itens I e III estão certos.
+
+D) Apenas os itens II e III estão certos.
+
+Comentário:
+
+Vamos avaliar as afirmativas antes de buscar a alternativa correta:
+
+I Caso a organização adote a centralização dos almoxarifados em um único local, com base nos
+estudos de Rafael, a gestão de materiais poderá ser facilitada. CORRETA. A centralização da
+atividade certamente diminui a sua complexidade, facilitando a gestão de modo geral.
+
+II Se houver um almoxarifado central mais perto da sede da organização, poderão ser
+comprometidas a agilidade nas entregas e a economia com os custos de transporte. ERRADA. Ao
+contrário, a agilidade na entrega e a economia nos custos de transportes tendem a aumentar.
+
+
+III Optando pelo almoxarifado central, a organização de Rafael despenderia mais com os custos
+de segurança patrimonial relacionados à armazenagem. ERRADA. Os custos tendem a diminuir
+com a centralização proposta.
+
+Assim temos V-F-F.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         23
+        www.estrategiaconcursos.com.br                                                     76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa A está correta e é o gabarito da questão. Na verdade, são os três atributos de um
+bom sistema de classificação, que a banca acabou chamando de "critérios de classificação dos
+materiais”.
+
+
+   19. (CEBRASPE/APEX/2024)
+
+Renata é responsável pela área de gestão de recursos materiais de sua organização. No
+momento, ela trabalha para que as aquisições sejam classificadas como sustentáveis do ponto de
+vista ambiental, social e corporativo.
+
+Considerando a situação hipotética precedente, assinale a opção correta quanto às potenciais
+ações de Renata.
+
+A) Para o fornecimento de resma de papel A4 reciclado em grande quantidade, é dispensável a
+análise da maturidade em sustentabilidade dos fornecedores, uma vez que, sendo o produto
+fornecido reciclado, isto, per se, pressupõe sustentabilidade.
+
+B) Com relação aos fornecedores, é desnecessário que Renata os informe sobre os possíveis
+critérios de avaliação de sustentabilidade aos quais serão submetidos, para evitar retaliações nos
+processos de compras.
+
+C) Em uma solicitação de aquisição de maquinário de alto custo para manutenção de áreas
+verdes, seria descabido o questionamento de Renata à área demandante para verificar se é
+melhor realizar a compra ou contratar uma prestadora de serviços, ou, ainda, alugar o maquinário
+de terceiro.
+
+D) Na aquisição de materiais de uso e consumo na sua organização, Renata pode requerer, nos
+editais de licitação, que eles sejam constituídos de material reciclado, atóxico e biodegradável.
+
+Comentário:
+
+A alternativa A está incorreta. Para o fornecimento de resma de papel A4 reciclado em grande
+quantidade, é muito importante (e não dispensável) a análise da maturidade em sustentabilidade
+dos fornecedores, uma vez que, sendo o produto fornecido reciclado, isto, per se, pressupõe
+sustentabilidade.
+
+A alternativa B está incorreta. Ao contrário, com relação aos fornecedores, é crítico (e não
+desnecessário) que Renata os informe sobre os possíveis critérios de avaliação de
+sustentabilidade aos quais serão submetidos durante o processo de contratação.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                  24
+        www.estrategiaconcursos.com.br                                                              76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa C está incorreta. Em uma solicitação de aquisição de maquinário de alto custo para
+manutenção de áreas verdes, seria recomendável (e não descabido) o questionamento de Renata
+à área demandante para verificar se é melhor realizar a compra ou contratar uma prestadora de
+serviços, ou, ainda, alugar o maquinário de terceiro.
+
+A alternativa D está correta e é o gabarito da questão. Hoje é comum e muito frequente editais
+de licitação trazerem referências a procedimentos, materiais ou mesmo processos de contratação
+de mão de obra ambientalmente sustentáveis.
+
+   20. (CEBRASPE/FINEP/2024)
+Assinale a opção correta em relação aos sistemas de informações gerenciais e à utilização
+estratégica de recursos de tecnologia da informação que pode levar à obtenção de vantagem
+competitiva.
+
+
+A) Os sistemas ERP (enterprise resource planning) são utilizados para integrar processos de
+negócio de modo que a informação, anteriormente fragmentada em sistemas distintos, seja
+armazenada em um único repositório de dados abrangente, a partir do qual pode ser utilizada
+por muitas partes diferentes da organização.
+
+B) Os sistemas SCM (supply chain management) fornecem informações para coordenar todos os
+processos de negócio que lidam com clientes, em termos de vendas, marketing e serviços, com
+objetivo primordial de otimizar a receita, a satisfação e a retenção de clientes.
+
+C) Os sistemas SCM (supply chain management) têm como seu objetivo final levar a quantidade
+certa de produtos da fonte para o ponto de consumo, independentemente do tempo e do
+custo.
+
+D) Os sistemas CRM (customer relationship management) auxiliam fornecedores, empresas de
+compras, distribuidores e empresas de logística a compartilhar informações sobre pedidos,
+produção, níveis de estoque e entrega de produtos e serviços, com o objetivo principal de
+buscar insumos, produzir e entregar mercadorias e serviços com eficiência.
+E) Nos sistemas ERP (enterprise resource planning), os dados fluem de maneira manual entre as
+partes da organização que serão afetadas, no momento em que um cliente faz um pedido.
+
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. É exatamente essa a definição de ERP,
+sistema que visa a integração de todas as áreas da organização no cenário da nova abordagem
+logística.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            25
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa B está incorreta. Essas são funções mais ligadas ao CRM do que ao SCM.
+
+A alternativa C está incorreta. O SCM consiste, na verdade, na integração e gestão de todos os
+atores da cadeia de abastecimento.
+
+A alternativa D está incorreta. Essas são funções mais ligadas ao MRP/ERP do que ao CRM.
+
+A alternativa E está incorreta. Nos sistemas ERP (enterprise resource planning), os dados fluem
+de maneira automática/eletrônica (e não manual) entre as partes da organização que serão
+afetadas, no momento em que um cliente faz um pedido.
+
+
+   21. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+O fluxo de informações é prescindível em um sistema de logística reversa.
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+De forma oposta, o fluxo de informações é imprescindível em um sistema de logística reversa.
+
+   22. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+A logística reversa relaciona-se com a proteção ao meio ambiente, pois propicia a reutilização de
+produtos e o aumento da reciclagem.
+
+Comentários:
+
+A afirmativa está CORRETA.
+
+Esse é um dos maiores benefícios da logística reversa, muito cobrada em provas atualmente.
+
+   23. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+A utilização de garrafas retornáveis para bebidas é um exemplo de aplicação da logística reversa
+de pós-consumo.
+
+Comentários:
+
+A afirmativa está CORRETA.
+
+Representa a volta da embalagem ao longo da cadeia, até o fabricante, para sua reutilização.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             26
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   24. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que diz respeito à logística, julgue o item.
+
+Compra, distribuição e venda são atividades básicas da estratégia operacional da logística.
+
+Comentários:
+
+A afirmativa está ERRADA.
+
+As vendas não fazem parte do processo logístico. É uma atividade comercial. A logística é a
+responsável pela entrega do que é vendido.
+
+   25. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que diz respeito à logística, julgue o item.
+
+A logística representa a relação entre os diferentes departamentos de uma organização, com
+vistas a um objetivo comum.
+
+Comentários:
+
+A afirmativa está CORRETA.
+
+A logística representa mesmo a integração de todos os atores ao longo da cadeia, todos
+compartilhando um único objetivo.
+
+   26. (VUNESP - Ag Adm (CAMPREV)/CAMPREV/2023)
+
+Para que haja economia de suprimentos na área pública
+a) é importante haver eficiência na gestão de bens e contratos, para as finalidades de
+atendimento à população.
+b) é importante cotar preços e manter atualizadas suas variações, para negociar de maneira mais
+eficiente.
+c) devem ser alinhadas informações na transição de governos, preparando-se inventários
+antecipadamente.
+d) é essencial a valorização dos servidores da área de estoques e suprimentos, já que se
+incumbem de ativos relevantes.
+e) é imprescindível investir em tecnologia de última geração, implantando normas e requisitos
+de inteligência artificial.
+
+
+Comentário:
+A alternativa A está correta e é o gabarito da questão. A eficiência na gestão de bens e contratos
+é fundamental para que se possa realizar a economia de suprimentos nos processos de
+atendimento à população.
+
+A alternativa B está incorreta. Essa alternativa é intrigante pois parece correta. Cotações de preço
+e acompanhamento de eventuais variações são importantes para o processo. Talvez o
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                27
+        www.estrategiaconcursos.com.br                                                            76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+examinador tenha excluído a alternativa pelo fato de trazer "negociações" para o processo de
+compra pública, o que não é muito comum em processos de licitação.
+A alternativa C está incorreta. Não são fatores diretamente relevantes para a economia de
+suprimentos na área pública, estando mais voltados ao RH da organização.
+A alternativa D está incorreta. Também não são fatores diretamente relevantes para a economia
+de suprimentos na área pública.
+A alternativa E está incorreta. Fatores mais voltados a TI, também não são fatores diretamente
+relevantes para a economia de suprimentos na área pública.
+
+
+   27. (FGV/ALEMA/Agente Legislativo/2023)
+
+Em função dos novos contextos da sociedade, a gestão de materiais tem se adaptado e buscado
+novas soluções para fazer frente aos problemas considerados mais urgentes a serem
+enfrentados.
+
+Nesse sentido,
+
+a) a paletização, embora gere atrasos por ineficiente aproveitamento do espaço, previne as
+perdas e desperdícios por mau acondicionamento.
+b) o Kanban permite a eliminação da necessidade de estoques, por meio do emprego do
+sistema de produção empurrada.
+c) a metodologia ágil redesenha radicalmente os processos, priorizando conceitos de
+acessibilidade, minimizando o uso de sistemas de informação.
+d) o Supply Chain Management reduz a necessidade de mão-de-obra, aproveitando-se de
+sistemas de parceria e terceirização, reduzindo os custos sociais.
+e) a logística reversa possibilita coletar ou recuperar os resíduos do produto após seu consumo,
+reforçando o desenvolvimento sustentável.
+
+
+Comentário:
+A alternativa A está incorreta. A paletização é muito bem vinda pois propicia a unitização das
+cargas, mas não previne as perdas e desperdícios caso tenhamos problemas de mau
+acondicionamento.
+
+A alternativa B está incorreta. O Kanban, assim como o sistema Just In Time se baseia na
+produção puxada (produção apenas após a efetivação da demanda) e não na produção
+empurrada.
+A alternativa C está incorreta. Ao contrário, a metodologia ágil usa bastante os sistemas de
+informação.
+A alternativa D está incorreta. O Supply Chain Management no lugar de priorizar sistemas de
+parceria e terceirização trabalha com a integração de todos os membros da cadeia na busca pela
+geração de valor agregado ao longo de todo o processo.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               28
+        www.estrategiaconcursos.com.br                                                           76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa E está correta e é o gabarito da questão. Tema muito cobrado ultimamente pelas
+bancas a logística reversa inverte o sentido tradicional do fluxo de materiais/produtos ao longo
+da cadeia. Diz respeito ao fluxo contrário, ou seja, dos clientes até o produtor. Esse termo em
+geral é usado para descrever o processo de "trazer de volta" os produtos após o final de suas
+"vidas úteis", ou mesmo nos casos de recall, reparos ou reutilização. Também chamada de "a
+montante" (caso raro, mas fique atento).
+
+
+   28. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+Logística Reversa é aquela encarregada, dentro do ciclo de vida do produto, de tratar todo o
+canal reverso que a logística empresarial proporciona, sendo, dessa forma, um processo com
+foco nos retornos no mercado e não necessariamente um processo que vise o alcance da
+sustentabilidade.
+
+Existe uma atividade no fluxo reverso, muito comum no caso de celulares e tablets, em que o
+produto é submetido a um processo de revisão técnico-funcional, com substituição de alguns
+componentes e realização de testes de desempenho que garantam que ele apresente as
+mesmas funções do produto original.
+
+Essa atividade de fluxo pós-consumo é conhecida como:
+
+a) reciclagem;
+b) reuso;
+c) remanufatura;
+d) disposição final;
+e) redução na fonte.
+
+
+Comentário:
+A alternativa A está incorreta. No caso de troca de componentes e recuperação das
+funcionalidades do produto estamos falando da remanufatura e não da reciclagem.
+
+A alternativa B está incorreta. No caso de troca de componentes e recuperação das
+funcionalidades do produto estamos falando da remanufatura e não do reuso.
+A alternativa C está correta e é o gabarito da questão. Neste caso a banca descreve o processo
+de remanufatura, no qual alguns componentes são substituídos para que o produto possa voltar
+a funcionar com todas suas propriedades.
+A alternativa D está incorreta. No caso de troca de componentes e recuperação das
+funcionalidades do produto estamos falando da remanufatura e não da disposição final.
+A alternativa E está incorreta. No caso de troca de componentes e recuperação das
+funcionalidades do produto estamos falando da remanufatura e não da redução na fonte.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           29
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   29. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+A Logística Reversa é a área da logística que planeja, opera e controla o fluxo de retorno dos
+bens de pós-venda e de pós-consumo.
+
+Já a Logística Verde é aquela que busca diminuir os impactos ambientais da logística pelo
+aumento da eficiência, redução de desperdícios, controle dos resíduos e da contaminação, e
+pelo emprego dos 5 Rs.
+
+Nenhuma dessas duas áreas da logística engloba a outra, mas elas apresentam atividades em
+comum, como:
+
+a) reciclagem;
+b) redução das emissões na distribuição ao consumidor;
+c) redução de embalagens na entrega ao consumidor;
+d) retorno dos produtos em consignação;
+e) retorno da mercadoria por garantia contra defeito.
+
+Comentário:
+A alternativa A está correta e é o gabarito da questão. A reciclagem consegue transitar tanto na
+logística reversa (retorno dos bens) como na logística verde (diminuição de impactos ambientais
+negativos).
+A alternativa B está incorreta. Neste caso estamos falando apenas da logística verde.
+A alternativa C está incorreta. Neste caso também estamos falando apenas da logística verde.
+A alternativa D está incorreta. Neste caso estamos falando apenas da logística reversa.
+A alternativa E está incorreta. Mais uma vez apenas a logística reversa.
+
+
+   30. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+As atividades de um sistema logístico típico podem ser classificadas em atividades-chave, que
+são aquelas mais importantes, e em atividades de suporte, que darão apoio à realização das
+atividades-chave.
+
+As quatro atividades-chave de um sistema logístico típico são:
+
+a) transporte; serviços ao cliente; armazenagem; compras;
+b) transporte; serviços ao cliente; gerência de estoque; fluxos de informação e processamento
+de pedidos;
+c) transporte; armazenagem; gerência de estoque; manutenção de informações;
+d) transporte; armazenagem; manuseio de materiais; manutenção de informações;
+e) transporte; serviços ao cliente; gerência de estoque; compras.
+
+Comentário:
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             30
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa A está incorreta. A banca traz relação de quatro atividades-chave em sua alternativa
+gabarito, porém desconsiderando a obra de Ronald Ballou, referência sobre o tema. Veja os
+comentários no gabarito da questão.
+A alternativa B está incorreta. A banca traz relação de quatro atividades-chave em sua alternativa
+gabarito, porém desconsiderando a obra de Ronald Ballou, referência sobre o tema. Veja os
+comentários no gabarito da questão.
+A alternativa C está incorreta. A banca traz relação de quatro atividades-chave em sua alternativa
+gabarito, porém desconsiderando a obra de Ronald Ballou, referência sobre o tema. Veja os
+comentários no gabarito da questão.
+A alternativa D está correta e é o gabarito da questão. Essa é uma questão clássica de Logística
+que, quando cobrada pela FGV, costuma dar alguma confusão pois a banca usa uma
+interpretação diferente da usada pelo autor referência do tema: Ronald Ballou.
+                                                       ==219a34==
+
+
+
+
+Tradicionalmente - e de acordo com Ronald Ballou - as atividades chave ou primárias da Logística
+são: 1. Processamento de Pedidos; 2. Manutenção de Estoques e 3. Transportes.
+É comum a FGV cobrar em algumas provas outras duas atividades também chamadas pela banca
+de "chaves": 4. Fluxo de Informações e 5. Padrão de Serviço ao Cliente, o que é exatamente o
+que temos na alternativa B.
+Dessa forma, de modo geral as atividades chave são as 3 primeiras (de acordo com a obra de
+Ronald Ballou) ou as 5, de acordo com a FGV.
+Por fim temos essa questão de 2023. Nesse caso a banca inclui entre as atividades chave o
+"Manuseio de Materiais" e a "Armazenagem" o que, na minha opinião, está errado. Ambas
+são atividades consideradas "de apoio" e não "primárias/chaves" na obra de Ronald Ballou, ao
+lado de Embalagens de Proteção, Obtenção, Manutenção de Informações e Programação,
+totalizando as 6 Atividades de Apoio.
+Entendo que há um erro técnico e que cabe recurso na questão pois desconheço na literatura
+embasamento teórico para essa resposta que, inclusive, contraria a teoria de Ronald Ballou.
+A alternativa E está incorreta. A banca traz relação de quatro atividades-chave em sua alternativa
+gabarito, porém desconsiderando a obra de Ronald Ballou, referência sobre o tema. Veja os
+comentários no gabarito da questão.
+
+
+
+   31. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+Um centro de distribuição (CD) é um espaço físico onde os produtos oriundos de grandes
+fabricantes ficam armazenados para serem distribuídos aos mercados por meio de pontos de
+vendas ou diretamente até a porta do cliente final. Nos últimos anos, o CD tem figurado como
+um valioso elemento no avanço da logística como um dos principais fatores de sucesso das
+empresas. Nesse contexto, a implantação do conceito de cross-docking em CDs trouxe uma
+série de benefícios para a logística de distribuição dentro de uma cadeia de suprimento.
+
+Os benefícios (vantagens) gerados pela implantação do cross-docking em CDs são:
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             31
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+a) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter mais áreas
+para estocagem; reduzir os custos de capital imobilizado em estoques;
+b) acelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas
+para estocagem; ampliar os custos de capital imobilizado em estoques;
+c) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas
+para estocagem; reduzir os custos de capital imobilizado em estoques;
+d) desacelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos
+áreas para estocagem; reduzir os custos de capital imobilizado em estoques;
+e) desacelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais
+áreas para estocagem; ampliar os custos de capital imobilizado em estoques.
+
+Comentário:
+A alternativa A está incorreta. O cross docking é capaz de acelerar o fluxo de mercadorias;
+reduzir a utilização dos espaços nos CDs por ter menos (e não mais) áreas para estocagem;
+reduzir os custos de capital imobilizado em estoques.
+A alternativa B está incorreta. O cross docking é capaz de acelerar o fluxo de mercadorias; reduzir
+(e não ampliar) a utilização dos espaços nos CDs por ter menos (e não mais) áreas para
+estocagem; reduzir (e não ampliar) os custos de capital imobilizado em estoques.
+A alternativa C está correta e é o gabarito da questão. O cross docking funciona como um
+grande centro de distribuição avançado, porém sem um estoque. Foi desenvolvido assim para
+lidar com determinadas áreas que se encontram muito distantes de armazéns centrais.
+
+Uma das principais características desse sistema é que os produtos recebidos já contam com
+destinos definidos. Ou seja, os itens são previamente alocados aos clientes de maneira que
+podem ser enviados para entrega local, dispensando a espera por colocação dos pedidos.
+
+O cross docking, envolve múltiplos fornecedores, atendendo clientes comuns e se trata de um
+sistema muito utilizado por cadeias de varejo, em que cada palete é identificado por um código
+que informa a origem e destino. Ou seja, a aplicação de cross docking envolve alto nível de
+eficiência e faz uso de uma plataforma com docas para recebimentos e outro para expedições.
+Assim, se combate a necessidade de grandes áreas para estoque.
+
+Em linhas gerais o cross docking acelera o fluxo de mercadorias; reduz a utilização dos espaços
+nos CDs por ter menos áreas para estocagem e reduz os custos de capital imobilizado em
+estoques.
+
+A alternativa D está incorreta. O cross docking é capaz de acelerar (e não desacelerar) o fluxo de
+mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas para estocagem;
+reduzir os custos de capital imobilizado em estoques.
+A alternativa E está incorreta. O cross docking é capaz de acelerar (e não desacelerar) o fluxo de
+mercadorias; reduzir (e não ampliar) a utilização dos espaços nos CDs por ter menos (e não mais)
+áreas para estocagem; reduzir (e não ampliar) os custos de capital imobilizado em estoques.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              32
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   32. (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+Toda indústria é, na realidade, um fluxo contínuo de materiais, que são processados ao longo de
+várias atividades.
+
+
+Comentário:
+A afirmativa está CORRETA.
+Aqui a banca se refere a cadeia de gestão de materiais. O fluxo de materiais percorre a cadeia de
+ponta a ponta, sendo em algum momento transformado em produto acabado e, nesse formato,
+oferecido ao cliente e distribuído (entregue) após a sua aquisição.
+
+
+   33. (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+A denominação empresas primárias liga-se ao fato de a matéria-prima ser extraída diretamente
+da natureza, sem que esses elementos tenham sido processados anteriormente.
+
+
+Comentário:
+A afirmativa está CORRETA.
+Empresas primárias, de fato, extraem matérias primas da natureza e as repassam a empresas que
+ao longo da cadeia podem transformar a matéria prima em produtos acabados e os oferecer aos
+potenciais clientes.
+
+O setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+
+   34. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+São consideradas empresas secundárias as que obtêm a matéria-prima de outra empresa, seja
+esta primária ou secundária.
+
+
+Comentário:
+A afirmativa está CORRETA.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            33
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Empresas que obtêm a matéria-prima de outra empresa, seja esta primária ou secundária são
+mesmo consideradas empresas secundárias, ou seja, que atuam na transformação de matérias
+primas em produtos acabados.
+
+O setor secundário é formado por atividades industriais diversas, que vão desde a fabricação de
+produtos até a prestação de serviços industriais. As atividades secundárias são resultantes do
+processo de transformação de matérias-primas em produtos acabados.
+
+Já o setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+
+   35. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas secundárias dependem de alguma empresa anterior para adquirir a matéria-prima
+com a qual trabalharão.
+
+
+Comentário:
+A afirmativa está CORRETA.
+Empresas secundárias de fato trabalham com matérias primas e materiais adquiridos de outras
+empresas.
+
+O setor secundário é formado por atividades industriais diversas, que vão desde a fabricação de
+produtos até a prestação de serviços industriais. As atividades secundárias são resultantes do
+processo de transformação de matérias-primas em produtos acabados.
+
+Já o setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+
+   36. (QUADRIX/CRM MG/2023)
+
+A respeito da administração de recursos materiais, assinale a alternativa correta.
+a) O sistema variadex é uma combinação de letras e números e permite uma quantidade de
+itens em estoque superior à quantidade permitida pelo sistema alfabético.
+b) É desnecessária a centralização das compras em um setor de compras sob uma direção
+estratégica, com rotinas bem definidas.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           34
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+c) O relatório de checagem é uma descrição dos materiais recebidos, na qual devem constar:
+quantidades; fornecedor; número do pedido de compra; grau e condições dos materiais; e outras
+informações entendidas como oportunas.
+d) Um sistema logístico integrado, que começa no planejamento das necessidades de matéria e
+termina com a colocação do produto acabado para o cliente final, deve ser desenvolvido dentro
+de uma realidade de disposição dos recursos financeiros.
+e) Constitui característica básica para a elaboração de uma política de administração de matérias
+a criação de um sistema interno de conferência, de forma que todas as operações envolvidas na
+compra e no consumo de materiais sejam verificadas por qualquer pessoa.
+
+Comentário:
+
+
+A alternativa A está incorreta. O sistema variadex é uma combinação de letras e cores (e não
+números) e relaciona-se com a organização de documentos e não de estoques...
+
+A alternativa B está incorreta. A centralização de compras não está diretamente ligada à direção
+estratégica e suas rotinas mas sim a um mercado estável, de fácil previsibilidade, cuja
+centralização das compras permita, por exemplo, o ganho de escala.
+
+A alternativa C está incorreta. O relatório de inspeção (e não de checagem) é uma descrição dos
+materiais recebidos, na qual devem constar: quantidades; fornecedor; número do pedido de
+compra; grau e condições dos materiais; e outras informações entendidas como oportunas.
+
+A alternativa D está correta e é o gabarito da questão. sem dúvida todo o processo logístico, que
+realmente se estende desde a compra da matéria prima até a entrega do produto acabado,
+precisa levar em conta as disponibilidades financeiras dos atores ao longo de toda a cadeia para
+que a integração completa entre eles possa ocorrer da melhor forma possível.
+A alternativa E está incorreta. Constitui característica básica para a elaboração de uma política de
+administração de matérias a criação de um sistema interno de conferência, de forma que todas as
+operações envolvidas na compra e no consumo de materiais sejam verificadas por pessoas
+treinadas e capacitadas para a atividade (mas não por qualquer pessoa...).
+
+
+   37. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas prestadoras de serviço podem ser denominadas empresas industriais.
+
+
+Comentário:
+A afirmativa está ERRADA.
+Empresas prestadoras de serviço fazem parte do setor terciário da economia e não são
+consideradas empresas industriais (que fazem parte do setor secundário)
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               35
+        www.estrategiaconcursos.com.br                                                           76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+O setor terciário compreende as atividades de comércio e prestação de serviços. É um setor
+extremamente amplo, que responde por quase metade da mão de obra empregada no mundo.
+O setor terciário abrange trabalhadores formais e informais do comércio e também prestadores
+de serviço.
+
+O setor secundário é que é formado por atividades industriais diversas, que vão desde a
+fabricação de produtos até a prestação de serviços industriais. As atividades secundárias
+são resultantes do processo de transformação de matérias-primas em produtos acabados.
+
+Por fim, o setor primário corresponde ao campo das atividades econômicas referente à produção
+de matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+
+   38. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas extrativas necessitam de uma indústria, de uma fábrica, de uma oficina, ou de
+similares, para a realização de suas atividades.
+
+
+Comentário:
+A afirmativa está ERRADA.
+Empresas Extrativas fazem parte do setor primário da economia e, portanto, não necessitam de
+fábricas para a realização de suas atividades, necessidade típica das empresas do setor
+secundário.
+O setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+Já o setor secundário é que é formado por atividades industriais diversas, que vão desde a
+fabricação de produtos até a prestação de serviços industriais. As atividades secundárias
+são resultantes do processo de transformação de matérias-primas em produtos acabados.
+
+
+   39. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas secundárias também são chamadas de empresas de transformação, pelo fato de
+partirem de uma matéria-prima adquirida de terceiros, para processá-la e transformá-la em
+produto acabado.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         36
+        www.estrategiaconcursos.com.br                                                     76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Comentário:
+A afirmativa está CORRETA.
+As empresas de transformação são exatamente aquelas que fazem parte do setor secundário e
+transformam matérias primas e materiais em produtos acabados que são vendidos e entregues
+aos seus compradores.
+
+O setor secundário é formado em geral por atividades industriais diversas, que vão desde a
+fabricação de produtos até a prestação de serviços industriais. As atividades secundárias
+são resultantes do processo de transformação de matérias-primas em produtos acabados.
+
+
+   40. (CEBRASPE (CESPE)/CNMP/Apoio Técnico Administrativo/Administração/2023)
+
+Acerca da gestão de estoques, julgue o item a seguir.
+
+O cross-docking exige altos níveis de estoque, por isso eleva os custos da armazenagem.
+
+Comentário:
+A afirmativa está ERRADA
+Ao contrário, o cross docking não possui estoques. É um método de distribuição, no qual a
+mercadoria recebida num armazém ou centro de distribuição, não é estocada, mas sim preparada
+para o carregamento e distribuição ou expedição a fim de ser entregue ao cliente ou consumidor
+imediatamente, ou, pelo menos, o mais rapidamente possível. No cross docking, quando alguém
+compra determinado produto em um site, ele é enviado a um centro de distribuição ou armazém
+que, por meio de um sistema organizado de redistribuição, o envia para o cliente. Trabalha com
+múltiplos fornecedores, que atendem clientes comuns, sendo essa a maior diferença entre o
+cross docking e o transit point.
+
+
+   41. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+Os benefícios obtidos com a realização de eficientes inventários na logística se limitam aos
+ganhos de ordem operacional.
+
+Comentário:
+A afirmativa está ERRADA.
+A correta realização de inventários e as possíveis correções advindas desse processo não se
+restringem aos ganhos operacionais pois também há impactos benéficos nos campos financeiro,
+contábil, entre outros. A identificação de desvios entre os estoques reais e os contábeis permitem
+diversos ajustes e melhorias ao longo do processo em todas essas frentes.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             37
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   42. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+No que se refere a logística, armazenagem e movimentação de cargas, julgue o item a seguir.
+
+Empregados com conhecimentos específicos em controle, movimentação e transportes de itens
+estocados, bem como uma estrutura física condizente com a finalidade da armazenagem são
+essenciais para a eficácia dos processos logísticos.
+
+Comentário:
+A afirmativa está CORRETA.
+Essa é daquelas questões que eu sempre pergunto: tem como dizer que está errado?
+Empregados bem treinados e com conhecimentos em controle, movimentação e transportes de
+itens e uma estrutura física adequada ao processo de armazenagem sem dúvida só podem trazer
+benefícios ao processo logístico como um todo!
+
+
+   43. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+A área de logística e a área comercial devem atuar de maneira autônoma e independente, pois
+têm objetivos distintos.
+
+
+Comentário:
+A afirmativa está ERRADA.
+Em verdade para que a abordagem logística obtenha sucesso o processo exige a integração de
+todos os atores da cadeia e não a sua atuação autônoma ou isolada. A geração de valor ao longo
+da cadeia logística exige a integração de seus elos e o compartilhamento de informações. A
+atuação independente de parte dos integrantes da cadeia vai na contra mão desse
+direcionamento.
+
+
+   44. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+A busca da melhoria da eficiência da infraestrutura de logística brasileira, precária e onerosa em
+relação aos concorrentes estrangeiros, é um grande desafio.
+
+
+Comentário:
+A afirmativa está CORRETA.
+Questão sobre a situação atual do cenário logístico nacional, com infraestrutura defasada e
+precária, gerando diversos custos evitáveis ao longo do processo (chamado “custo Brasil”) e que
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             38
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+bombardeiam a competitividade do produto nacional quando comparado a produção de outros
+países. Sem dúvida a busca da melhoria da eficiência da infraestrutura de logística brasileira é um
+grande e urgente desafio.
+
+
+   45. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+A respeito da gestão integrada de operações e da logística de suprimento na cadeia do petróleo
+e derivados, julgue o item subsequente.
+
+A implementação da logística integrada independe de mudanças culturais e organizacionais,
+bem como de investimentos em tecnologia da informação.
+
+
+Comentário:
+A afirmativa está ERRADA.
+Ao contrário, a implementação da logística integrada depende diretamente (e não independe) de
+mudanças culturais e organizacionais, bem como de investimentos em tecnologia da informação.
+O compartilhamento de informações e a integração de todos os atores da cadeia (o que grande
+parte das vezes contraria a cultura dominante) é fundamental para a implementação da nova
+abordagem logística, a chamada logística integrada.
+
+
+
+   46. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+O retorno ao ciclo produtivo do produto que já foi consumido ou vendido ocorre pela utilização
+do produto como matéria-prima para fazer o mesmo produto ou mercadorias diferentes.
+
+Comentário:
+A afirmativa está CORRETA.
+Aqui o examinador se refere ao ciclo da logística reversa, quando o produto (ou sua embalagem,
+descarte, etc) é reutilizado ao longo da cadeia produtiva, sendo remanufaturado, reutilizado ou
+reciclado, por exemplo.
+
+
+
+   47. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação à gestão integrada de operações e de logística de suprimento, julgue o item que se
+segue.
+
+A fim de ser gerenciada de forma integrada, a logística deve ser tratada como um sistema cujos
+componentes sejam independentes entre si, de modo a atender aos clientes ao menor custo.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              39
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Comentário:
+A afirmativa está ERRADA.
+Ao contrário, a fim de ser gerenciada de forma integrada, a logística deve ser tratada como um
+sistema cujos componentes sejam dependentes e integrados (e não independentes). A
+integração de todos os atores da cadeia é fundamental para a implementação da nova
+abordagem logística, a chamada logística integrada.
+
+
+
+   48. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+Custos, prazos e qualidade de atendimento são itens de tratamento primordial da logística, pois
+possibilitam maior competitividade, tempestividade das entregas e inibição de riscos de avarias
+nos produtos.
+
+Comentário:
+A afirmativa está CORRETA.
+Sem dúvida Custos, prazos e qualidade de atendimento são itens de tratamento primordial da
+logística. É por meio do controle, integração e otimização desses processos que a organização
+consegue gerar valor ao longo da cadeia, reduzir os custos totais da operação e,
+consequentemente, aumentar o nível de lucros (resultado) de todo o processo. Isso afeta também
+diretamente os tempos e riscos de entrega, conforme relata o enunciado.
+
+
+
+   49. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+No que se refere a logística, armazenagem e movimentação de cargas, julgue o item a seguir.
+
+As atividades de logística compreendem a atuação sobre todas as etapas relacionadas à
+disponibilização de um bem ou serviço desde a origem da matéria prima até o destino final.
+
+Comentário:
+A afirmativa está CORRETA.
+Embora haja alguma discussão na doutrina sobre a real abrangência da logística, a interpretação
+dominante é mesmo essa, ou seja, a logística engloba todos os processos relacionados à
+disponibilização de um bem ou serviço desde a origem da matéria prima até o destino final.
+
+
+   50. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            40
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A logística reversa trata com exclusividade do retorno do produto ao ciclo produtivo, sendo que
+o retorno do produto ao ciclo de negócios é considerado revenda ou reciclagem.
+
+
+Comentário:
+A afirmativa está ERRADA.
+Em todos os casos relatados estamos falando da chamada logística reversa, seja ele o retorno do
+produto ao ciclo produtivo ou ao ciclo de negócios, chamado pelo examinador de revenda ou
+reciclagem, mas que também podem ser considerados como parte do processo de logística
+reversa.
+
+   51. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação a conceitos de tecnologias, logística 4.0, transformação digital e ERP, julgue o
+próximo item.
+
+O EDI (electronic data interchange) permite a eliminação de retrabalho associado à redigitacão
+de documentos, ao aumento de custos associados ao manuseio de informações e à redução na
+acurácia nos dados.
+
+Comentário:
+A afirmativa está ERRADA.
+O EDI (Electronic Data Interchange) ou "troca eletrônica de dados" é a transmissão automática
+de dados partindo de um sistema de computadores para outro, conforme acordado entre
+parceiros comerciais. As mensagens eletrônicas são disparadas e processadas automaticamente
+pelas empresas envolvidas.
+Nesse contexto o EDI (electronic data interchange) permite sim a eliminação (ou redução) de
+retrabalho associado à redigitacão de documentos, colabora com a diminuição (e não aumento)
+de custos associados ao manuseio de informações e o aumento (e não redução) na acurácia nos
+dados.
+
+
+   52. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação à gestão integrada de operações e de logística de suprimento, julgue o item que se
+segue.
+
+O custo do capital e aumento das incertezas econômicas são fatores que influenciam a logística
+integrada, tornando-a mais complexa.
+
+Comentário:
+A afirmativa está CORRETA.
+A logística integrada depende da total integração de todos os atores da cadeia de
+abastecimento para que possa gerar valor ao longo do processo. Elevação de custos de capital e,
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              41
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+sobretudo, incertezas econômicas podem trazer dificuldades ao processo e inibir e necessária
+integração entre os integrantes da cadeia, o completo compartilhamento de informações e
+planos de ação, etc.
+
+   53. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o item a seguir relativo à logística internacional e aduaneira e aos conceitos de custos
+logísticos.
+
+Na operação FIS (free in and stowed), os custos pelas despesas com carregamento e estivagem
+não são do armador.
+
+Comentário:
+A questão foi anulada.
+A modalidade FIS (Free In and Stowed – Livre de Entrada e Arrumação) é uma variante da
+modalidade FI (Free In – Livre de Entrada a Bordo), quando o exportador encarrega-se do
+pagamento das despesas referentes a embarque e estiva. Cabe ao armador a responsabilidade
+pelo pagamento das despesas com o desembarque.
+Na modalidade FIS o exportador paga as despesas de embarque, estiva e arrumação, nenhuma
+delas cabendo ao armador. Talvez o enunciado tenha tentado se referir a modalidade FI, na qual
+carregamento/embarque e estiva são de responsabilidade do exportador, mas usou a sigla errada
+(FIS), o que cria certa ambiguidade a questão, que acabou anulada.
+
+
+   54. (CEBRASPE (CESPE)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023)
+
+No que se refere à sustentabilidade na cadeia de suprimentos e à gestão de transporte de
+cargas, julgue o item subsequente.
+
+A sustentabilidade na cadeia de suprimentos inclui a ampliação de benefícios sociais
+relacionados a suas atividades primárias.
+
+Comentário:
+A afirmativa está CORRETA.
+Esse é um tema que vem sendo cada vez mais cobrados pelas bancas. A sustentabilidade e toda
+a abordagem ESG (ver abaixo) vem caindo cada vez mais em questões de prova. A cobrança do
+“E” é sempre a mais comum mas, dessa vez, a banca cobra o “S” do ESG, ou seja, a ampliação
+de benefícios sociais relacionados as atividades logísticas da organização o que, embora raro de
+aparecer em prova, está correto!
+
+        - E — Environmental (Ambiental): envolve a análise de questões que impactam na
+        proteção do meio ambiente, como uso de energia, descarte de lixo, emissão de
+        gases poluentes e ações que combatam as mudanças climáticas;
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           42
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+        - S — Social: refere-se a questões que impactam o direito dos colaboradores,
+        como segurança de trabalho, ações de diversidade e relacionamento com as
+        comunidades impactadas pela companhia;
+        - G — Governance (Governança): diz respeito à forma como as companhias
+        atuam, suas práticas operacionais, as políticas de anticorrupção que adotam,
+        entre outros fatores.
+
+
+   55. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+A respeito da gestão integrada de operações e da logística de suprimento na cadeia do petróleo
+e derivados, julgue o item subsequente.
+
+A integração externa da cadeia de suprimentos permite eliminar duplicidades, reduzir custos e
+customizar os serviços.
+
+Comentário:
+A afirmativa está CORRETA.
+A integração externa da cadeia de suprimentos é fundamental para a captura de todos os
+benefícios possíveis ao longo da cadeia e, sobretudo, para a geração de valor ao longo do
+processo de compra, armazenagem, produção e distribuição aos clientes. Dessa forma permite
+sim eliminar duplicidades, reduzir custos e customizar os serviços, além de trazer vários outros
+benefícios como compartilhamento de informações, planejamento conjunto, melhores previsões
+de demanda, entre outros, todas muita bem vindas ao longo do processo de SCM (Supply Chain
+Management).
+
+   56. (QUADRIX/CRM AC/Analista Administrativo/2019) Julgue o item. Para sustentar a
+       cadeia de valor, o valor agregado ao produto final deve superar o custo de todos os
+       processos. O redesenho dos processos torna mais eficiente a cadeia de valor.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está CORRETA.
+Aqui a banca traz o conceito de gestão de toda a cadeia de valor com o intuito de torna-la
+lucrativa. Ao longo de todas as atividades desenvolvidas o valor gerado deve ser maior do que o
+custo necessário para a execução das atividades, caso contrário toda a atividade é inviabilizada
+do ponto de vista financeiro.
+Segundo Michael Porter “uma empresa é rentável se o valor que ela impõe ultrapassa os custos
+envolvidos na criação do produto. Criar valor para os compradores que exceda o custo disto é a
+meta de qualquer estratégia genérica”. Veja abaixo na ilustração as atividades da cadeia de valor
+segundo Porter.
+Redesenhando o processo de toda a cadeia logística é possível encontrar atividades de baixo
+valor e de alto custo, partindo-se em seguida para sua eliminação ou ajustes.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            43
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+Fonte: Michael Porter
+   57. (QUADRIX/CREF 11/Agente de Orientação e Fiscalização/2019) Com relação ao
+       processo de planejamento e à gestão de recursos materiais, financeiros e humanos,
+       julgue o item. A cadeia de suprimentos inclui: fornecedores de matérias‐primas e
+       componentes; fabricantes; atacadista e distribuidores; varejistas; e clientes.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está CORRETA.
+A considerada cadeia de suprimentos ou cadeia de valor abrange todo o fluxo percorrido pelos
+materiais/produtos, pelo capital e pelas informações.
+Estende-se desde os fornecedores dos fornecedores até o consumidor final, muitas vezes ainda à
+frente na cadeia do cliente que adquire o produto acabado do fabricante (muitas vezes um
+distribuidor ou varejista).
+Portanto estamos falando de algo como: fornecedor do fornecedor -> fornecedor de matéria
+prima -> fabricante -> distribuidor -> varejista -> consumidor/cliente final.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          44
+        www.estrategiaconcursos.com.br                                                      76
+
+                                    https://t.me/KakashiAssinaturasBot
+   Ricardo Campanario
+   Aula 07
+
+
+
+    58. (VUNESP/Pref. São José dos Campos-SP/Analista em Gestão Municipal/2012) A gestão
+        da cadeia de suprimentos é entendida como:
+
+I. a integração dos processos-chave de um negócio;
+
+    II. partindo do fornecedor até a produção do produto acabado;
+
+III. partindo do usuário final até os fornecedores iniciais de produtos, serviços e informações;
+
+    IV. que adicionam retorno somente ao vendedor e ao acionista;
+
+    V. que adicionam valor para o comprador e para outros stakeholders.
+
+Entre as alternativas a seguir, assinale a que apresenta apenas as assertivas corretas.
+a) I, II e III.
+b) I, III e V.
+c) II, III e IV.
+d) II, IV e V.
+e) III, IV e V.
+Comentários:
+Vamos avaliar cada um dos itens antes de buscar a reposta correta:
+I. a integração dos processos-chave de um negócio. CORRETA. Integração dos processos
+    chave é condição primordial para a gestão eficiente de uma cadeia de suprimentos.
+
+    II. partindo do fornecedor até a produção do produto acabado. ERRADA. A gestão da
+    cadeia prossegue e engloba a distribuição e entrega dos produtos acabados.
+
+III. partindo do usuário final até os fornecedores iniciais de produtos, serviços e informações.
+     CORRETA. É a chamada logística reversa, inversa, a montante ou upstream.
+
+    IV. que adicionam retorno somente ao vendedor e ao acionista. ERRADA. A gestão da
+    cadeia deve trazer retorno a todos os seus integrantes, caso contrário não funciona,
+    rompendo-se no elo não recompensado.
+
+    V. que adicionam valor para o comprador e para outros stakeholders. CORRETA. A cadeia
+    de valor deve adicionar valor a todos os stakeholders, inclusive aos compradores e todos
+    os outros integrantes do fluxo de negócio.
+
+Temos portanto: I (V), II (F), III (V), IV (F) e V (V).
+A alternativa B está correta e é o gabarito da questão.
+
+
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais              45
+           www.estrategiaconcursos.com.br                                                          76
+
+                                       https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   59. (VUNESP/Pref. São José dos Campos-SP/Analista em Gestão Municipal/2012) Estudos
+       de logística, a partir da cadeia de fornecimento ou de suprimentos, entendem que esta
+       possui algumas atividades primárias e outras secundárias. As atividades primárias são
+       aquelas que são identificadas pela sua importância primária para o atingimento dos
+       objetivos de custo e nível de serviço. Entre as alternativas, indique a que contém
+       somente atividades consideradas primárias.
+a) Armazenagem, manutenção da informação e transportes.
+b) Armazenagem, manuseio de materiais e processamento de pedidos.
+c) Manuseio de materiais, manutenção de estoques e programação e controle da produção.
+d) Transportes, manutenção de estoques e processamento de pedidos.
+e) Transportes, armazenagem e manutenção da informação.
+Comentários:
+A alternativa A está incorreta. Armazenagem é considerada uma atividade secundária (de apoio).
+A alternativa B está incorreta. Armazenagem e manuseio de materiais são atividades secundárias
+(de apoio).
+A alternativa C está incorreta. Manuseio de materiais e programação e controle de produtos são
+atividades secundárias (de apoio).
+A alternativa D está correta e é o gabarito da questão. De acordo com Ronald Ballou as
+atividades consideradas primárias na cadeia de suprimentos são: transporte, manutenção de
+estoques e processamento de pedidos. As demais são consideradas atividades de apoio. Veja a
+figura a seguir.
+
+
+
+
+A alternativa E está incorreta. Armazenagem e manutenção da informação são atividades
+secundárias (de apoio).
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             46
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   60. (VUNESP/TJ SP/Administrador Judiciário/2019) O instrumento de desenvolvimento
+       econômico e social caracterizado por um conjunto de ações, procedimentos e meios
+       destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor
+       empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou
+       outra destinação final ambientalmente adequada, e que permite o descarte apropriado
+       de materiais e principalmente a preservação ambiental, é:
+a) logística integrada.
+b) monitoramento de desempenho ambiental.
+c) logística reversa.
+d) monitoramento ambiental.
+e) trade-off logístico.
+Comentários:
+A alternativa A está incorreta. Significa, como o próprio nome sugere, a integração de todo o
+processo logístico, da origem dos produtos às mãos do consumidor final.
+A alternativa B está incorreta. Distante do conceito descrito pela banca, aproxima-se só pelo
+apelo ambiental, mas não é a isso que o examinador está se referindo.
+A alternativa C está correta e é o gabarito da questão. A logística reversa define o envio do
+produto desde o seu local de consumo até o ponto adequado da cadeia de suprimento para que
+seja dado o tratamento adequado aos resíduos (descarte correto ou reciclagem, evitando danos
+ambientais como vimos em logística sustentável) ou para que algum valor seja gerado novamente
+ao produto, como nos casos de remanufatura (vasilhames que são lavados e reutilizados, por
+exemplo).
+Dessa forma a logística reversa está diretamente ligada à reciclagem ou ao reaproveitamento de
+materiais. Outras movimentações ao longo da cadeia que também dependem da logística
+reversa são as devoluções (por danos, estoques sazonais e/ou em consignação, recalls, excesso
+de estoque, etc.).
+Para completar a Lei 12.305/2010 que institui a política nacional de resíduos sólidos define a
+logística reversa em seu artigo 3º, inciso XII, como:
+
+        Logística reversa: instrumento de desenvolvimento econômico e social
+        caracterizado por um conjunto de ações, procedimentos e meios destinados a
+        viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para
+        reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra
+        destinação final ambientalmente adequada;
+
+
+A alternativa D está incorreta. Também distante do conceito descrito pela banca, aproxima-se só
+pelo apelo ambiental, mas não é a isso que o examinador está se referindo.
+A alternativa E está incorreta. Não é essa a referência que a banca está trazendo ao enunciado e
+sim a logística reversa.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            47
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   61. (VUNESP/TJ SP/Administrador Judiciário/2019) A metodologia que busca observar
+       uma dada companhia como um conjunto de atividades inter-relacionadas, que buscam
+       agregar valor específico ao cliente, indicando como um produto se movimenta desde a
+       etapa da matéria-prima até a sua chegada ao consumidor final, sendo que o objetivo
+       por todo esse processo é adicionar o máximo de valor aos elos da cadeia de maneira
+       menos dispendiosa possível, é denominada:
+a) cadeia de valor.
+b) custos de transporte.
+c) valor do arranjo físico.
+d) custos de armazenagem.
+e) picking.
+Comentários:
+A alternativa A está correta e é o gabarito da questão. Definição perfeita para cadeia de valor.
+A alternativa B está incorreta. Os custos de transporte são um dos custos esperados ao longo de
+toda a cadeia porém estão longe de representar o que o examinador traz ao enunciado da
+questão.
+A alternativa C está incorreta. Sem qualquer relação com o listado pela banca no enunciado.
+A alternativa D está incorreta. Também são custos esperados ao longo de toda a cadeia porém
+estão longe de representar o que o examinador traz ao enunciado da questão.
+A alternativa E está incorreta. Atividade de coleta dos produtos/materiais para o
+despacho/entrega. Sem relação com o enunciado.
+   62. (FGV/IBGE/Analista Censitário/2017) A respeito da logística reversa, é correto afirmar
+       que:
+a) prevê o retorno dos produtos à cadeia produtiva, percorrendo o seu ciclo de vida;
+b) torna o produto mais oneroso, mas agrega valor ecológico;
+c) atua na verificação de defeitos de funcionamento dos produtos após o consumo;
+d) atua na verificação dos impactos ambientais causados pelos produtos após a venda;
+e) prioriza o reuso dos produtos após o término de seu ciclo de vida.
+Comentários:
+A alternativa A está correta e é o gabarito da questão. A cadeia reversa, também chamada de
+logística reversa, justamente inverte o sentido que estamos acostumados a observar cadeias de
+negócio. Diz respeito ao fluxo contrário, ou seja, dos clientes até o produtor. Esse termo em geral
+é usado para descrever o processo de "trazer de volta" os produtos após o final de suas "vidas
+uteis", ou mesmo nos casos de recall, reparos ou reutilização. Também chamada de "a
+montante" (também raro, mas fique atento).
+A alternativa B está incorreta. A logística reversa não torna obrigatoriamente o produto mais
+oneroso.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                 48
+        www.estrategiaconcursos.com.br                                                             76
+
+                                    https://t.me/KakashiAssinaturasBot
+   Ricardo Campanario
+   Aula 07
+
+
+
+A alternativa C está incorreta. Essa não é a definição adequada para a logística reversa. Note que
+a definição legal do termo (Lei 12.305/2010) sequer cita ações de reparo após o consumo/uso:
+
+           logística reversa: instrumento de desenvolvimento econômico e social
+           caracterizado por um conjunto de ações, procedimentos e meios destinados a
+           viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para
+           reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra
+           destinação final ambientalmente adequada;
+
+A alternativa D está incorreta. A logística reversa não atua na verificação dos impactos ambientais
+causados pelos produtos após a venda mas sim colabora com a minimização dos impactos com
+processos como remanufatura, aproveitamento de sobras, reciclagem, etc.
+A alternativa E está incorreta. A logística reversa não necessariamente prioriza o reuso dos
+produtos após o término de seu ciclo de vida. Pode ter diversas outras funções em cadeia de
+valor específica.
+    63. (FGV/SEPOG RO/Técnico em Políticas Públicas e Gestão Governamental/2017) Sobre o
+        processo logístico, analise as afirmativas a seguir.
+
+I. A distribuição física é o processo que começa na fábrica e faz as mercadorias chegarem aos
+    clientes, dentro dos prazos e ao menor custo.
+
+II. A cadeia da demanda avalia o processo de como os próprios fornecedores da empresa
+    obtém seus insumos desde as matérias primas.
+
+III. A logística de mercado planeja e controla os fluxos físicos de materiais e de produtos
+     finais entre os pontos de origem e os pontos de uso, com o objetivo de atender aos
+     clientes.
+
+Está correto o que se afirma em:
+a) II, apenas.
+b) I e II, apenas.
+c) II e III, apenas.
+d) I e III, apenas.
+e) I, II e III.
+Comentários:
+Vamos analisar cada uma das afirmativas antes de buscar a alternativa correta:
+I. A distribuição física é o processo que começa na fábrica e faz as mercadorias chegarem aos
+clientes, dentro dos prazos e ao menor custo. CORRETA. A distribuição começa ainda na fábrica
+com a separação, preparo e expedição dos produtos acabados e se estende até a chegada ao
+cliente final.
+II. A cadeia da demanda avalia o processo de como os próprios fornecedores da empresa obtém
+seus insumos desde as matérias primas. ERRADA. A cadeia de demanda não entra nos detalhes
+de como o fornecedor obtém os seus insumos, ficando isso a cargo do próprio fornecedor. O
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            49
+           www.estrategiaconcursos.com.br                                                        76
+
+                                       https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+objetivo é que ele atenda com o material/matéria prima necessária a potencial demanda de
+consumo que foi identificada.
+III. A logística de mercado planeja e controla os fluxos físicos de materiais e de produtos finais
+entre os pontos de origem e os pontos de uso, com o objetivo de atender aos clientes.
+CORRETA. É exatamente o papel da logística, ou seja, gerenciar todo o fluxo entre a origem e o
+uso do produto/serviço produzido.
+Temos, portanto: I (V), II (F) e III (V).
+A alternativa D está correta e é o gabarito da questão.
+    64. (FGV/COMPESA/Analista de Gestão/2014) O gerenciamento da cadeia de suprimentos
+        (Supply Chain Management) administra o sistema de logística integrada da empresa e
+        as tecnologias avançadas, para planejar e controlar fatores com o objetivo de produzir
+        e distribuir produtos e serviços para satisfazer o cliente. Com relação aos objetivos do
+        gerente da Supply Chain, assinale V para a afirmativa verdadeira e F para a falsa.
+
+( ) Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à
+    concorrência.
+
+( ) Minimizar os custos financeiros, pelo uso de menos capital de giro.
+
+( ) Maximizar o desperdício, evitando atividades que não agregam valor.
+
+As afirmativas são, respectivamente,
+a) V, V e V.
+b) V, V e F.
+c) F, V e F.
+d) F, F e V.
+e) V, F e F.
+Comentários:
+Vamos analisar cada uma das afirmativas antes de buscar a alternativa correta:
+Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à
+concorrência. ERRADA. Satisfazer o cliente no curto prazo também é importante caso contrário
+pode ser que nem haja a possibilidade de satisfazê-lo no médio e longo prazos.
+Minimizar os custos financeiros, pelo uso de menos capital de giro. CORRETA. Um dos objetivos
+do SCM é mesmo minimizar o custo financeiro sendo que um dos caminhos apontados é reduzir
+o capital de giro empregado, ou seja, volume de estoques de materiais e produtos, entre outros.
+Maximizar o desperdício, evitando atividades que não agregam valor. ERRADA. Minimizar e não
+maximizar o desperdício!
+Dessa forma temos F-V-F.
+A alternativa C está correta e é o gabarito da questão.
+
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais                50
+         www.estrategiaconcursos.com.br                                                            76
+
+                                     https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   65. (CESGRANRIO/PETROBRAS/Técnico/2013) Dentro da moderna definição de Logística,
+       podemos considerar que os fluxos de informação, materiais e de dinheiro estão
+       incorporados. Dentre esses fluxos qual(is) se origina(m) no fornecedor?
+a) Apenas informação
+b) Apenas materiais
+c) Dinheiro e materiais
+d) Informação e materiais
+e) Informação e dinheiro
+Comentários:
+A alternativa A está incorreta. A informação origina-se em diversas partes da cadeia,
+especialmente no consumidor. Informações do consumidor/cliente sobre demanda, informações
+do fornecedor sobre falta de matérias primas, informações do fabricante sobre capacidade de
+produção e armazenamento, etc.
+A alternativa B está correta e é o gabarito da questão. Apenas os materiais tem a origem clara no
+fornecedor e, geralmente percorrem a cadeia no sentido fornecedor -> cliente.
+A alternativa C está incorreta. O dinheiro geralmente percorre o fluxo inverso, ou seja, do cliente
+(que recebe o produto acabado) em direção ao fornecedor, passando por toda a cadeia que vai
+efetuando a troca produto/serviço por dinheiro conforme as transações vão sendo realizadas.
+A alternativa D está incorreta. A informação origina-se em diversas partes da cadeia. Informações
+do consumidor/cliente sobre demanda, informações do fornecedor sobre falta de matérias
+primas, informações do fabricante sobre capacidade de produção e armazenamento, etc.
+A alternativa E está incorreta. A informação origina-se em diversas partes da cadeia. Informações
+do consumidor/cliente sobre demanda, informações do fornecedor sobre falta de matérias
+primas, informações do fabricante sobre capacidade de produção e armazenamento, etc. Já o
+dinheiro geralmente percorre a cadeia a montante, ou seja, do cliente (que recebe o produto
+acabado) em direção ao fornecedor, passando por toda a cadeia que vai efetuando a troca
+produto/serviço por dinheiro conforme as transações vão sendo realizadas.
+   66. (CESGRANRIO/LIQUIGÁS/Profissional/2018) O processo de gerenciamento de
+       produtos e componentes em ciclos de vida múltiplos, da origem da matéria-prima até
+       a fabricação, da fábrica ao ponto de consumo, e do ponto de consumo de retorno até
+       o ponto de fabricação para reciclagem ou manufatura, evitando seu descarte, é
+       conhecido como:
+a) Logística integrada
+b) Logística reversa
+c) Logística sustentável
+d) Logística verde
+e) Economia circular
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              51
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+A alternativa A está incorreta. A logística integrada significa, como o próprio nome sugere, a
+integração de todo o processo logístico, da origem dos produtos às mãos do consumidor final.
+A alternativa B está incorreta. A cadeia reversa, também chamada de logística reversa,
+justamente inverte o sentido que estamos acostumados a observar cadeias de negócio. Diz
+respeito ao fluxo contrário, ou seja, dos clientes até o produtor. Esse termo em geral é usado
+para descrever o processo de "trazer de volta" os produtos após o final de suas "vidas uteis", ou
+mesmo nos casos de recall, reparos ou reutilização. Também chamada de "a montante" (também
+raro, mas fique atento).
+A alternativa C está incorreta. A Logística Sustentável, por sua vez, envolve todas as funções e
+responsabilidades da logística tradicional, no entanto, com um viés voltado para
+a sustentabilidade. Para isso, implementa ações que visam otimizar o uso dos recursos
+disponíveis, buscando reduzir o desperdício de insumos e as emissões de gases poluentes na
+atmosfera.
+A alternativa D está incorreta. Logística verde ou ambiental refere-se ao conjunto de políticas
+sustentáveis e medidas destinadas a reduzir o impacto ambiental causado pelas atividades do
+setor logístico. Denominação comumente atribuída à logística sustentável.
+A alternativa E está correta e é o gabarito da questão. A cadeia de ciclo fechado - chamada
+também de closed loop supply chain ou economia circular engloba tanto a logística direta como
+a reversa. Neste modelo ambas estão integradas e formam um único ciclo, de ida e volta e
+contínuo.
+Esse percurso compreende todo o ciclo de vida do produto e vai da produção ao fornecimento
+ao mercado e, na sequência, da coleta pós uso até a sua reciclagem ou reutilização, reinserindo-o
+no processo produtivo para que volte ao mercado, novamente na forma de produto.
+Perceba que é um ciclo contínuo, cujos elos estão todos ligados e formam uma corrente única e
+sem interrupção. O produto vai até o cliente, é consumido e retorna na forma de resíduo, sobras
+ou componentes, sendo novamente preparado para que volte ao mercado, dando continuidade
+ao ciclo e a cadeia formada.
+Esse é o fenômeno denominado closed-loop supply chain ou cadeias de suprimentos de ciclo
+fechado, ou seja um "loop" que se retroalimenta o tempo todo e faz com que o processo não
+tenha início nem fim.
+   67. (CEBRASPE/ANTT/Especialista em Regulação de Serviços de Transportes
+       Terrestres/2013) Com relação aos conceitos de logística, julgue o item subsequente.
+       No que concerne à logística empresarial, as informações acerca das operações relativas
+       aos materiais são tratadas pela tecnologia da informação, não sendo, portanto, parte
+       do sistema logístico.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está ERRADA.
+O fluxo de informações é parte integrante e crítica para o funcionamento do sistema logístico.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               52
+        www.estrategiaconcursos.com.br                                                           76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Vejamos o que diz Ronald Ballou a respeito do tema: “A logística empresarial trata de todas
+atividades de movimentação e armazenagem, que facilitam o fluxo de produtos desde o ponto
+de aquisição da matéria-prima até o ponto de consumo final, assim como dos fluxos de
+informação que colocam os produtos em movimento, com o propósito de providenciar níveis de
+serviço adequados aos clientes a um custo razoável.
+   68. (CEBRASPE/ANP/Especialista em Regulação de Petróleo e Derivados/2013) A logística
+       pode ser entendida como a competência que vincula a empresa a seus clientes e a
+       seus fornecedores. Segundo os conceitos de logística integrada, e considerando as
+       etapas de suprimento, manufatura e distribuição, julgue o item a seguir. O processo
+       logístico, quando bem-sucedido, tende a agregar valor aos materiais e aos produtos
+       ao longo da cadeia.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está CORRETA.
+De acordo com Ronald Ballou, logística “É o processo de planejamento, implementação e
+controle do fluxo eficiente e economicamente eficaz de matérias-primas, estoque em processo,
+produtos acabados e informações relativas desde o ponto de origem até o ponto de consumo,
+com o propósito de atender às exigências dos clientes. ”
+Desta forma, perceba que um processo logístico bem-sucedido agregará valor (representado por
+ganho em qualidade, tempo, redução de custos etc.) ao longo de toda a cadeia produtiva e suas
+respectivas atividades, seja em matérias-primas ou produtos acabados, com o objetivo final de
+atingir ou superar as expectativas dos clientes, o que se reflete no preço praticado e lucro
+conquistado.
+   69. (CEBRASPE/MPU/Analista/2010) Julgue o item a seguir, acerca de administração de
+       recursos materiais. O fluxo de informações é o sustentáculo do processo de
+       abastecimento da cadeia de suprimentos e, caso essa comunicação não flua de forma
+       eficiente, é possível que ocorra excesso de estoque ao longo dessa cadeia − o
+       chamado efeito Forrester.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está CORRETA.
+O efeito Forrester ou efeito "chicote" é fruto das distorções de demandas de estoque que
+ocorrem em cadeias não integradas pelo SCM. O efeito é explicado pelo impacto que pequenas
+variações na demanda final (clientes) acabam causando em toda a cadeia.
+Imagine que o varejista por alguma razão emite uma ordem de compra 30% maior do que
+costumava fazer. O distribuidor/atacadista que está acostumado a atendê-lo, sem saber qual a
+real razão do aumento, amplia também o seu pedido para o fabricante em proporção ainda
+maior (50%, por exemplo), visando o atendimento do varejista nos meses subsequentes e
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           53
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+desconhecendo que o incremento projetado pelo varejista se deu por um cliente único que
+avisou que fará uma simples e única compra no mês seguinte.
+O fabricante, por sua vez, sem ter a menor ideia do que está acontecendo (já que os atores não
+se conversam e a informação não flui entre eles) eleva sua produção e dobra o volume de
+compras de matérias primas junto aos fornecedores.
+Perceba que o impacto vai reverberando por toda a cadeia e tende a aumentar conforme vamos
+avançando por cada um dos parceiros. Quanto mais os atores estão afastados do cliente final,
+maior o risco de que o efeito se instale e ganhe cada vez maior volume, enquanto vai
+percorrendo toda a cadeia. Isso acontece porque cada elo da cadeia só tem informações
+recebidas do elo seguinte e não se enxerga o ciclo como um todo, não possuindo também o
+necessário compartilhamento de informações.
+   70. (CEBRASPE/ANATEL/Técnico Administrativo/2004) Julgue o item subsequente, relativo
+       à cadeia de suprimentos. Cadeia produtiva é o conjunto de atividades econômicas que
+       se articulam progressivamente desde o início da elaboração de um produto —
+       incluindo-se as matérias-primas, as máquinas, os equipamentos e os produtos
+       intermediários — até o resultado final. A distribuição e a comercialização não fazem
+       parte da cadeia produtiva.
+a) Certo
+b) Errado
+Comentário:
+A afirmativa está ERRADA.
+
+Ao contrário do que afirma o enunciado, a distribuição e a comercialização fazem parte da cadeia
+produtiva, fazendo com que o produto/serviço chegue até o cliente final.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            54
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+                                        LISTA DE QUESTÕES
+
+
+
+
+Na figura a seguir, que representa a gestão logística da cadeia produtiva de roupa de tecido do
+tipo jeans, as caixas e as setas numeradas indicam, respectivamente, os atores e os fluxos dos
+subsistemas logísticos.
+
+
+
+
+A partir das informações precedentes, e considerando aspectos de gestão logística e patrimonial
+a elas relacionados, julgue os itens que se seguem.
+
+
+   1. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Os atores relacionados com as setas 1.2 e 1.3 correspondem aos bens que foram comercializados,
+armazenados e postos nos canais de distribuição reversos, por algum motivo como término de
+validade, problemas de qualidade, avarias no transporte, erros de pedido do produto, entre
+outros, antes que eles fossem consumidos.
+
+   2. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+As decisões sobre o que, como, quando e quanto fazer em termos de produção, de forma a
+mobilizar máquinas e equipamentos, materiais e pessoas no processo produtivo, estão associadas
+ao momento das ações conjuntas dos atores ligados pela seta 2.4.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           55
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   3. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+O setor de compras da indústria faz parte da operação na figura apresentada.
+
+
+   4. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Na representação da indústria, dos fornecedores e do atacarejo, o ERP (enterprise resource
+planning) é voltado especificamente a garantir um sistema integrado de gestão documental que
+seja seguro para as organizações, com o objetivo de controlar o inventário físico e a acurácia em
+seus estoques.
+
+
+   5. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Considere que o fornecedor indicado pela seta 2.1 esteja situado em Belém, no estado do Pará
+(região Norte), e tenha optado pelo modo de transporte aquaviário para enviar 100 toneladas da
+matéria-prima a uma fábrica localizada em Porto Alegre, no estado do Rio Grande do Sul (região
+Sul). Nesse caso, o fornecer buscou, para a operação, proporcionar o menor custo de transporte,
+já que o modal escolhido permite a movimentação de grandes volumes para distâncias superiores
+a 1,5 mil quilômetros, tendo a variável tempo, nessa escolha, importância secundária.
+
+
+   6. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+A Logística 4.0 tem foco na agilidade da comunicação entre os atores da cadeia, para maior
+controle e sincronização, com o menor risco, e busca eliminar o desperdício, como está ilustrado
+na figura, que apresenta o fluxo direto e reverso da logística.
+
+
+   7. (SEPLAG CE/Governança e Gestão Corporativa/Cebraspe/2024)
+
+Na figura apresentada, o ator distribuição é responsável pelo gerenciamento do almoxarifado de
+matéria-prima, com políticas de níveis de estocagem, para gerar controle e avaliação do material
+estocado e o uso racional da área de armazenagem.
+
+Acerca de gestão logística integrada, julgue os itens a seguir.
+
+   8. (CEBRASPE/INPI/2024)
+
+Uma empresa cuja estratégia de negócios seja a redução de custos pode optar por aumentar o
+número de armazéns e, assim, aumentar o custo de transportes e diminuir o custo de estoque.
+
+   9. (CEBRASPE/INPI/2024)
+
+Um fornecedor que consigna estoques dentro das instalações do cliente amplia a necessidade de
+realizar entregas de produtos solicitados.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            56
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   10. (CEBRASPE/INPI/2024)
+
+Uma vantagem dos softwares ERP é a capacidade de fornecer informações em tempo real aos
+gestores.
+
+   11. (CEBRASPE/INPI/2024)
+
+A integração logística funcional manifesta-se quando as empresas abordam a produção não como
+algo exclusivo de um país ou região, mas a concebem em uma escala mais ampla, alcançando
+diversos mercados.
+
+   12. (CEBRASPE/INPI/2024)
+
+Uma desvantagem do sistema ERP é sua reputação de ser muito caro e de difícil implementação.
+
+
+   13. (CEBRASPE / PETROBRAS /2024)
+
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de
+logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito
+da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+
+Conforme os conceitos de sustentabilidade na cadeia de suprimentos, as empresas que
+assumem o desafio de operar as atividades logísticas de maneira racional, eficiente e eficaz
+buscam garantir a competitividade e a sustentabilidade na sua organização e no mercado global.
+
+   14. (CEBRASPE / PETROBRAS /2024)
+
+Entre as práticas de sustentabilidade na cadeia de suprimento, destacam-se as diversas ações de
+logística reversa, principalmente as que fazem parte do pós-consumo e da pós-venda. A respeito
+da sustentabilidade na cadeia de suprimento, julgue os itens seguintes.
+
+As empresas que se destacam por adotar estratégias empresariais que divulguem suas ações
+produtivas e estejam voltadas para o desenvolvimento de um modelo focado na sustentabilidade
+são notadamente consideradas inovadoras.
+
+
+   15. (CEBRASPE/APEX/2024)
+
+Maria é gestora da área logística de uma organização pública e tem o desafio de inseri-la na
+denominada governança ambiental, social e corporativa. Ela está trabalhando na etapa de
+levantamento dos riscos advindos da implantação da tríplice governança.
+
+Assinale a opção correta acerca da situação hipotética apresentada.
+
+A) A prática de omitir informações sobre os reais impactos das atividades de uma organização no
+meio ambiente e na comunidade é rara.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           57
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+B) Um dos possíveis riscos da implementação da nova governança pretendida por Maria é a falta
+de razoabilidade na definição de algumas metas, principalmente na dimensão social.
+
+C) As exigências extremas acerca da governança que Maria pretende implementar não têm o
+poder de inviabilizar a sua implantação.
+
+D) Ainda que a nova governança não seja levada a sério pela alta administração da organização,
+isso não implica que o tema seja banalizado ao longo do tempo.
+
+   16. (CEBRASPE/APEX/2024)
+
+Assinale a opção em que é apresentada a área de suporte logístico cuja função é providenciar a
+proteção dos produtos, de modo que haja movimentação sem danificá-los, facilitando a
+manipulação e a estocagem.
+
+A) programação de produtos
+
+B) embalamento de proteção
+
+C) armazenagem
+D) movimentação de materiais
+
+   17. (CEBRASPE/APEX/2024)
+
+Um empregado, que trabalha no setor de logística de materiais de uma organização, é
+responsável por definir o que estocar e o quanto estocar, visando à redução do tempo de
+fornecimento de materiais, ao recebimento de produtos de melhor qualidade e à diminuição dos
+estoques.
+
+Na situação hipotética precedente, o processo de logística de materiais pelo qual o empregado
+é responsável está relacionado
+
+A) ao transporte.
+
+B) aos suprimentos.
+
+C) ao sistema de informação.
+
+D) à localização das instalações de estocagem.
+
+   18. (CEBRASPE/APEX/2024)
+
+Rafael é gestor de logística de materiais de uma organização e, atualmente, realiza estudo
+técnico para tomada de decisão sobre a centralização ou não dos vários almoxarifados da
+organização espalhados pela cidade em um único local.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          58
+        www.estrategiaconcursos.com.br                                                      76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+Considerando a situação hipotética apresentada, julgue os itens seguintes.
+
+I Caso a organização adote a centralização dos almoxarifados em um único local, com base nos
+estudos de Rafael, a gestão de materiais poderá ser facilitada.
+
+II Se houver um almoxarifado central mais perto da sede da organização, poderão ser
+comprometidas a agilidade nas entregas e a economia com os custos de transporte.
+
+III Optando pelo almoxarifado central, a organização de Rafael despenderia mais com os custos
+de segurança patrimonial relacionados à armazenagem.
+
+Assinale a opção correta.
+
+A) Apenas o item I está certo.
+
+B) Apenas o item II está certo.
+
+C) Apenas os itens I e III estão certos.
+
+D) Apenas os itens II e III estão certos.
+
+
+   19. (CEBRASPE/APEX/2024)
+
+Renata é responsável pela área de gestão de recursos materiais de sua organização. No
+momento, ela trabalha para que as aquisições sejam classificadas como sustentáveis do ponto de
+vista ambiental, social e corporativo.
+
+Considerando a situação hipotética precedente, assinale a opção correta quanto às potenciais
+ações de Renata.
+
+A) Para o fornecimento de resma de papel A4 reciclado em grande quantidade, é dispensável a
+análise da maturidade em sustentabilidade dos fornecedores, uma vez que, sendo o produto
+fornecido reciclado, isto, per se, pressupõe sustentabilidade.
+
+B) Com relação aos fornecedores, é desnecessário que Renata os informe sobre os possíveis
+critérios de avaliação de sustentabilidade aos quais serão submetidos, para evitar retaliações nos
+processos de compras.
+
+C) Em uma solicitação de aquisição de maquinário de alto custo para manutenção de áreas
+verdes, seria descabido o questionamento de Renata à área demandante para verificar se é
+melhor realizar a compra ou contratar uma prestadora de serviços, ou, ainda, alugar o maquinário
+de terceiro.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              59
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+D) Na aquisição de materiais de uso e consumo na sua organização, Renata pode requerer, nos
+editais de licitação, que eles sejam constituídos de material reciclado, atóxico e biodegradável.
+
+   20. (CEBRASPE/FINEP/2024)
+Assinale a opção correta em relação aos sistemas de informações gerenciais e à utilização
+estratégica de recursos de tecnologia da informação que pode levar à obtenção de vantagem
+competitiva.
+
+
+A) Os sistemas ERP (enterprise resource planning) são utilizados para integrar processos de
+negócio de modo que a informação, anteriormente fragmentada em sistemas distintos, seja
+armazenada em um único repositório de dados abrangente, a partir do qual pode ser utilizada
+por muitas partes diferentes da organização.
+
+B) Os sistemas SCM (supply chain management) fornecem informações para coordenar todos os
+processos de negócio que lidam com clientes, em termos de vendas, marketing e serviços, com
+objetivo primordial de otimizar a receita, a satisfação e a retenção de clientes.
+
+C) Os sistemas SCM (supply chain management) têm como seu objetivo final levar a quantidade
+certa de produtos da fonte para o ponto de consumo, independentemente do tempo e do
+custo.
+
+D) Os sistemas CRM (customer relationship management) auxiliam fornecedores, empresas de
+compras, distribuidores e empresas de logística a compartilhar informações sobre pedidos,
+produção, níveis de estoque e entrega de produtos e serviços, com o objetivo principal de
+buscar insumos, produzir e entregar mercadorias e serviços com eficiência.
+
+
+E) Nos sistemas ERP (enterprise resource planning), os dados fluem de maneira manual entre as
+partes da organização que serão afetadas, no momento em que um cliente faz um pedido.
+
+   21. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+O fluxo de informações é prescindível em um sistema de logística reversa.
+
+
+   22. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+A logística reversa relaciona-se com a proteção ao meio ambiente, pois propicia a reutilização de
+produtos e o aumento da reciclagem.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                  60
+        www.estrategiaconcursos.com.br                                                              76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   23. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à logística reversa, julgue o item.
+
+A utilização de garrafas retornáveis para bebidas é um exemplo de aplicação da logística reversa
+de pós-consumo.
+
+   24. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que diz respeito à logística, julgue o item.
+
+Compra, distribuição e venda são atividades básicas da estratégia operacional da logística.
+
+   25. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que diz respeito à logística, julgue o item.
+
+A logística representa a relação entre os diferentes departamentos de uma organização, com
+vistas a um objetivo comum.
+
+   26. (VUNESP - Ag Adm (CAMPREV)/CAMPREV/2023)
+
+Para que haja economia de suprimentos na área pública
+a) é importante haver eficiência na gestão de bens e contratos, para as finalidades de
+atendimento à população.
+b) é importante cotar preços e manter atualizadas suas variações, para negociar de maneira mais
+eficiente.
+c) devem ser alinhadas informações na transição de governos, preparando-se inventários
+antecipadamente.
+d) é essencial a valorização dos servidores da área de estoques e suprimentos, já que se
+incumbem de ativos relevantes.
+e) é imprescindível investir em tecnologia de última geração, implantando normas e requisitos
+de inteligência artificial.
+
+
+   27. (FGV/ALEMA/Agente Legislativo/2023)
+
+Em função dos novos contextos da sociedade, a gestão de materiais tem se adaptado e buscado
+novas soluções para fazer frente aos problemas considerados mais urgentes a serem
+enfrentados.
+
+Nesse sentido,
+
+a) a paletização, embora gere atrasos por ineficiente aproveitamento do espaço, previne as
+perdas e desperdícios por mau acondicionamento.
+b) o Kanban permite a eliminação da necessidade de estoques, por meio do emprego do
+sistema de produção empurrada.
+c) a metodologia ágil redesenha radicalmente os processos, priorizando conceitos de
+acessibilidade, minimizando o uso de sistemas de informação.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            61
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+d) o Supply Chain Management reduz a necessidade de mão-de-obra, aproveitando-se de
+sistemas de parceria e terceirização, reduzindo os custos sociais.
+e) a logística reversa possibilita coletar ou recuperar os resíduos do produto após seu consumo,
+reforçando o desenvolvimento sustentável.
+
+
+
+   28. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+Logística Reversa é aquela encarregada, dentro do ciclo de vida do produto, de tratar todo o
+canal reverso que a logística empresarial proporciona, sendo, dessa forma, um processo com
+foco nos retornos no mercado e não necessariamente um processo que vise o alcance da
+sustentabilidade.
+
+Existe uma atividade no fluxo reverso, muito comum no caso de celulares e tablets, em que o
+produto é submetido a um processo de revisão técnico-funcional, com substituição de alguns
+componentes e realização de testes de desempenho que garantam que ele apresente as
+mesmas funções do produto original.
+
+
+Essa atividade de fluxo pós-consumo é conhecida como:
+
+a) reciclagem;
+b) reuso;
+c) remanufatura;
+d) disposição final;
+e) redução na fonte.
+
+
+   29. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+A Logística Reversa é a área da logística que planeja, opera e controla o fluxo de retorno dos
+bens de pós-venda e de pós-consumo.
+
+Já a Logística Verde é aquela que busca diminuir os impactos ambientais da logística pelo
+aumento da eficiência, redução de desperdícios, controle dos resíduos e da contaminação, e
+pelo emprego dos 5 Rs.
+
+Nenhuma dessas duas áreas da logística engloba a outra, mas elas apresentam atividades em
+comum, como:
+
+a) reciclagem;
+b) redução das emissões na distribuição ao consumidor;
+c) redução de embalagens na entrega ao consumidor;
+d) retorno dos produtos em consignação;
+e) retorno da mercadoria por garantia contra defeito.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           62
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   30. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+As atividades de um sistema logístico típico podem ser classificadas em atividades-chave, que
+são aquelas mais importantes, e em atividades de suporte, que darão apoio à realização das
+atividades-chave.
+
+As quatro atividades-chave de um sistema logístico típico são:
+
+a) transporte; serviços ao cliente; armazenagem; compras;
+b) transporte; serviços ao cliente; gerência de estoque; fluxos de informação e processamento
+de pedidos;
+c) transporte; armazenagem; gerência de estoque; manutenção de informações;
+d) transporte; armazenagem; manuseio de materiais; manutenção de informações;
+e) transporte; serviços ao cliente; gerência de estoque; compras.
+
+
+
+   31. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+Um centro de distribuição (CD) é um espaço físico onde os produtos oriundos de grandes
+fabricantes ficam armazenados para serem distribuídos aos mercados por meio de pontos de
+vendas ou diretamente até a porta do cliente final. Nos últimos anos, o CD tem figurado como
+um valioso elemento no avanço da logística como um dos principais fatores de sucesso das
+empresas. Nesse contexto, a implantação do conceito de cross-docking em CDs trouxe uma
+série de benefícios para a logística de distribuição dentro de uma cadeia de suprimento.
+
+Os benefícios (vantagens) gerados pela implantação do cross-docking em CDs são:
+
+a) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter mais áreas
+para estocagem; reduzir os custos de capital imobilizado em estoques;
+b) acelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais áreas
+para estocagem; ampliar os custos de capital imobilizado em estoques;
+c) acelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos áreas
+para estocagem; reduzir os custos de capital imobilizado em estoques;
+d) desacelerar o fluxo de mercadorias; reduzir a utilização dos espaços nos CDs por ter menos
+áreas para estocagem; reduzir os custos de capital imobilizado em estoques;
+e) desacelerar o fluxo de mercadorias; ampliar a utilização dos espaços nos CDs por ter mais
+áreas para estocagem; ampliar os custos de capital imobilizado em estoques.
+
+
+   32. (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+Toda indústria é, na realidade, um fluxo contínuo de materiais, que são processados ao longo de
+várias atividades.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           63
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   33. (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+A denominação empresas primárias liga-se ao fato de a matéria-prima ser extraída diretamente
+da natureza, sem que esses elementos tenham sido processados anteriormente.
+
+
+   34. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+São consideradas empresas secundárias as que obtêm a matéria-prima de outra empresa, seja
+esta primária ou secundária.
+
+
+
+   35. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas secundárias dependem de alguma empresa anterior para adquirir a matéria-prima
+com a qual trabalharão.
+
+   36. (QUADRIX/CRM MG/2023)
+
+A respeito da administração de recursos materiais, assinale a alternativa correta.
+a) O sistema variadex é uma combinação de letras e números e permite uma quantidade de
+itens em estoque superior à quantidade permitida pelo sistema alfabético.
+b) É desnecessária a centralização das compras em um setor de compras sob uma direção
+estratégica, com rotinas bem definidas.
+c) O relatório de checagem é uma descrição dos materiais recebidos, na qual devem constar:
+quantidades; fornecedor; número do pedido de compra; grau e condições dos materiais; e outras
+informações entendidas como oportunas.
+d) Um sistema logístico integrado, que começa no planejamento das necessidades de matéria e
+termina com a colocação do produto acabado para o cliente final, deve ser desenvolvido dentro
+de uma realidade de disposição dos recursos financeiros.
+e) Constitui característica básica para a elaboração de uma política de administração de matérias
+a criação de um sistema interno de conferência, de forma que todas as operações envolvidas na
+compra e no consumo de materiais sejam verificadas por qualquer pessoa.
+
+
+
+   37. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas prestadoras de serviço podem ser denominadas empresas industriais.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            64
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   38. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas extrativas necessitam de uma indústria, de uma fábrica, de uma oficina, ou de
+similares, para a realização de suas atividades.
+
+
+   39. (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+As empresas secundárias também são chamadas de empresas de transformação, pelo fato de
+partirem de uma matéria-prima adquirida de terceiros, para processá-la e transformá-la em
+produto acabado.
+
+
+   40. (CEBRASPE (CESPE)/CNMP/Apoio Técnico Administrativo/Administração/2023)
+
+Acerca da gestão de estoques, julgue o item a seguir.
+
+O cross-docking exige altos níveis de estoque, por isso eleva os custos da armazenagem.
+
+
+
+   41. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+Os benefícios obtidos com a realização de eficientes inventários na logística se limitam aos
+ganhos de ordem operacional.
+
+
+   42. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+No que se refere a logística, armazenagem e movimentação de cargas, julgue o item a seguir.
+
+Empregados com conhecimentos específicos em controle, movimentação e transportes de itens
+estocados, bem como uma estrutura física condizente com a finalidade da armazenagem são
+essenciais para a eficácia dos processos logísticos.
+
+
+   43. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+A área de logística e a área comercial devem atuar de maneira autônoma e independente, pois
+têm objetivos distintos.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             65
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   44. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+A busca da melhoria da eficiência da infraestrutura de logística brasileira, precária e onerosa em
+relação aos concorrentes estrangeiros, é um grande desafio.
+
+
+   45. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+A respeito da gestão integrada de operações e da logística de suprimento na cadeia do petróleo
+e derivados, julgue o item subsequente.
+
+A implementação da logística integrada independe de mudanças culturais e organizacionais,
+bem como de investimentos em tecnologia da informação.
+
+
+   46. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+O retorno ao ciclo produtivo do produto que já foi consumido ou vendido ocorre pela utilização
+do produto como matéria-prima para fazer o mesmo produto ou mercadorias diferentes.
+
+
+   47. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação à gestão integrada de operações e de logística de suprimento, julgue o item que se
+segue.
+
+A fim de ser gerenciada de forma integrada, a logística deve ser tratada como um sistema cujos
+componentes sejam independentes entre si, de modo a atender aos clientes ao menor custo.
+
+
+   48. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+Custos, prazos e qualidade de atendimento são itens de tratamento primordial da logística, pois
+possibilitam maior competitividade, tempestividade das entregas e inibição de riscos de avarias
+nos produtos.
+
+
+   49. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+No que se refere a logística, armazenagem e movimentação de cargas, julgue o item a seguir.
+
+As atividades de logística compreendem a atuação sobre todas as etapas relacionadas à
+disponibilização de um bem ou serviço desde a origem da matéria prima até o destino final.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             66
+        www.estrategiaconcursos.com.br                                                         76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   50. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o próximo item, relativo a logística reversa e fundamentos de logística.
+
+A logística reversa trata com exclusividade do retorno do produto ao ciclo produtivo, sendo que
+o retorno do produto ao ciclo de negócios é considerado revenda ou reciclagem.
+
+
+   51. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação a conceitos de tecnologias, logística 4.0, transformação digital e ERP, julgue o
+próximo item.
+
+O EDI (electronic data interchange) permite a eliminação de retrabalho associado à redigitacão
+de documentos, ao aumento de custos associados ao manuseio de informações e à redução na
+acurácia nos dados.
+
+
+   52. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Em relação à gestão integrada de operações e de logística de suprimento, julgue o item que se
+segue.
+
+O custo do capital e aumento das incertezas econômicas são fatores que influenciam a logística
+integrada, tornando-a mais complexa.
+
+
+   53. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Julgue o item a seguir relativo à logística internacional e aduaneira e aos conceitos de custos
+logísticos.
+
+Na operação FIS (free in and stowed), os custos pelas despesas com carregamento e estivagem
+não são do armador.
+
+
+   54. (CEBRASPE (CESPE)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023)
+
+No que se refere à sustentabilidade na cadeia de suprimentos e à gestão de transporte de
+cargas, julgue o item subsequente.
+
+A sustentabilidade na cadeia de suprimentos inclui a ampliação de benefícios sociais
+relacionados a suas atividades primárias.
+
+
+   55. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+A respeito da gestão integrada de operações e da logística de suprimento na cadeia do petróleo
+e derivados, julgue o item subsequente.
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           67
+        www.estrategiaconcursos.com.br                                                       76
+
+                                    https://t.me/KakashiAssinaturasBot
+   Ricardo Campanario
+   Aula 07
+
+
+
+A integração externa da cadeia de suprimentos permite eliminar duplicidades, reduzir custos e
+customizar os serviços.
+
+
+    56. (QUADRIX/CRM AC/Analista Administrativo/2019) Julgue o item. Para sustentar a
+        cadeia de valor, o valor agregado ao produto final deve superar o custo de todos os
+        processos. O redesenho dos processos torna mais eficiente a cadeia de valor.
+a) Certo
+b) Errado
+
+
+    57. (QUADRIX/CREF 11/Agente de Orientação e Fiscalização/2019) Com relação ao
+        processo de planejamento e à gestão de recursos materiais, financeiros e humanos,
+        julgue o item. A cadeia de suprimentos inclui: fornecedores de matérias‐primas e
+        componentes; fabricantes; atacadista e distribuidores; varejistas; e clientes.
+a) Certo
+b) Errado
+
+
+    58. (VUNESP/Pref. São José dos Campos-SP/Analista em Gestão Municipal/2012) A gestão
+        da cadeia de suprimentos é entendida como:
+
+I. a integração dos processos-chave de um negócio;
+
+    II. partindo do fornecedor até a produção do produto acabado;
+
+III. partindo do usuário final até os fornecedores iniciais de produtos, serviços e informações;
+
+    IV. que adicionam retorno somente ao vendedor e ao acionista;
+
+    V. que adicionam valor para o comprador e para outros stakeholders.
+
+Entre as alternativas a seguir, assinale a que apresenta apenas as assertivas corretas.
+a) I, II e III.
+b) I, III e V.
+c) II, III e IV.
+d) II, IV e V.
+e) III, IV e V.
+
+
+    59. (VUNESP/Pref. São José dos Campos-SP/Analista em Gestão Municipal/2012) Estudos
+        de logística, a partir da cadeia de fornecimento ou de suprimentos, entendem que esta
+        possui algumas atividades primárias e outras secundárias. As atividades primárias são
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais              68
+           www.estrategiaconcursos.com.br                                                          76
+
+                                       https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+       aquelas que são identificadas pela sua importância primária para o atingimento dos
+       objetivos de custo e nível de serviço. Entre as alternativas, indique a que contém
+       somente atividades consideradas primárias.
+a) Armazenagem, manutenção da informação e transportes.
+b) Armazenagem, manuseio de materiais e processamento de pedidos.
+c) Manuseio de materiais, manutenção de estoques e programação e controle da produção.
+d) Transportes, manutenção de estoques e processamento de pedidos.
+e) Transportes, armazenagem e manutenção da informação.
+
+
+   60. (VUNESP/TJ SP/Administrador Judiciário/2019) O instrumento de desenvolvimento
+       econômico e social caracterizado por um conjunto de ações, procedimentos e meios
+       destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor
+       empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou
+       outra destinação final ambientalmente adequada, e que permite o descarte apropriado
+       de materiais e principalmente a preservação ambiental, é:
+a) logística integrada.
+b) monitoramento de desempenho ambiental.
+c) logística reversa.
+d) monitoramento ambiental.
+e) trade-off logístico.
+
+
+   61. (VUNESP/TJ SP/Administrador Judiciário/2019) A metodologia que busca observar
+       uma dada companhia como um conjunto de atividades inter-relacionadas, que buscam
+       agregar valor específico ao cliente, indicando como um produto se movimenta desde a
+       etapa da matéria-prima até a sua chegada ao consumidor final, sendo que o objetivo
+       por todo esse processo é adicionar o máximo de valor aos elos da cadeia de maneira
+       menos dispendiosa possível, é denominada:
+a) cadeia de valor.
+b) custos de transporte.
+c) valor do arranjo físico.
+d) custos de armazenagem.
+e) picking.
+
+
+   62. (FGV/IBGE/Analista Censitário/2017) A respeito da logística reversa, é correto afirmar
+       que:
+a) prevê o retorno dos produtos à cadeia produtiva, percorrendo o seu ciclo de vida;
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              69
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+   Ricardo Campanario
+   Aula 07
+
+
+
+b) torna o produto mais oneroso, mas agrega valor ecológico;
+c) atua na verificação de defeitos de funcionamento dos produtos após o consumo;
+d) atua na verificação dos impactos ambientais causados pelos produtos após a venda;
+e) prioriza o reuso dos produtos após o término de seu ciclo de vida.
+
+
+    63. (FGV/SEPOG RO/Técnico em Políticas Públicas e Gestão Governamental/2017) Sobre o
+        processo logístico, analise as afirmativas a seguir.
+
+I. A distribuição física é o processo que começa na fábrica e faz as mercadorias chegarem aos
+    clientes, dentro dos prazos e ao menor custo.
+
+II. A cadeia da demanda avalia o processo de como os próprios fornecedores da empresa
+    obtém seus insumos desde as matérias primas.
+
+III. A logística de mercado planeja e controla os fluxos físicos de materiais e de produtos
+     finais entre os pontos de origem e os pontos de uso, com o objetivo de atender aos
+     clientes.
+
+Está correto o que se afirma em:
+a) II, apenas.
+b) I e II, apenas.
+c) II e III, apenas.
+d) I e III, apenas.
+e) I, II e III.
+
+
+    64. (FGV/COMPESA/Analista de Gestão/2014) O gerenciamento da cadeia de suprimentos
+        (Supply Chain Management) administra o sistema de logística integrada da empresa e
+        as tecnologias avançadas, para planejar e controlar fatores com o objetivo de produzir
+        e distribuir produtos e serviços para satisfazer o cliente. Com relação aos objetivos do
+        gerente da Supply Chain, assinale V para a afirmativa verdadeira e F para a falsa.
+
+( ) Satisfazer o cliente no médio prazo e no longo prazo, criando um diferencial em relação à
+    concorrência.
+
+( ) Minimizar os custos financeiros, pelo uso de menos capital de giro.
+
+( ) Maximizar o desperdício, evitando atividades que não agregam valor.
+
+As afirmativas são, respectivamente,
+a) V, V e V.
+
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais              70
+           www.estrategiaconcursos.com.br                                                          76
+
+                                       https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+b) V, V e F.
+c) F, V e F.
+d) F, F e V.
+e) V, F e F.
+
+
+    65. (CESGRANRIO/PETROBRAS/Técnico/2013) Dentro da moderna definição de Logística,
+        podemos considerar que os fluxos de informação, materiais e de dinheiro estão
+        incorporados. Dentre esses fluxos qual(is) se origina(m) no fornecedor?
+a) Apenas informação
+b) Apenas materiais
+c) Dinheiro e materiais
+d) Informação e materiais
+e) Informação e dinheiro
+
+
+    66. (CESGRANRIO/LIQUIGÁS/Profissional/2018) O processo de gerenciamento de
+        produtos e componentes em ciclos de vida múltiplos, da origem da matéria-prima até
+        a fabricação, da fábrica ao ponto de consumo, e do ponto de consumo de retorno até
+        o ponto de fabricação para reciclagem ou manufatura, evitando seu descarte, é
+        conhecido como:
+a) Logística integrada
+b) Logística reversa
+c) Logística sustentável
+d) Logística verde
+e) Economia circular
+
+
+    67. (CEBRASPE/ANTT/Especialista em Regulação de Serviços de Transportes
+        Terrestres/2013) Com relação aos conceitos de logística, julgue o item subsequente.
+        No que concerne à logística empresarial, as informações acerca das operações relativas
+        aos materiais são tratadas pela tecnologia da informação, não sendo, portanto, parte
+        do sistema logístico.
+a) Certo
+b) Errado
+
+
+
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais              71
+         www.estrategiaconcursos.com.br                                                          76
+
+                                     https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+   68. (CEBRASPE/ANP/Especialista em Regulação de Petróleo e Derivados/2013) A logística
+       pode ser entendida como a competência que vincula a empresa a seus clientes e a
+       seus fornecedores. Segundo os conceitos de logística integrada, e considerando as
+       etapas de suprimento, manufatura e distribuição, julgue o item a seguir. O processo
+       logístico, quando bem-sucedido, tende a agregar valor aos materiais e aos produtos
+       ao longo da cadeia.
+a) Certo
+b) Errado
+
+
+   69. (CEBRASPE/MPU/Analista/2010) Julgue o item a seguir, acerca de administração de
+       recursos materiais. O fluxo de informações é o sustentáculo do processo de
+       abastecimento da cadeia de suprimentos e, caso essa comunicação não flua de forma
+       eficiente, é possível que ocorra excesso de estoque ao longo dessa cadeia − o
+       chamado efeito Forrester.
+a) Certo
+b) Errado
+
+
+   70. (CEBRASPE/ANATEL/Técnico Administrativo/2004) Julgue o item subsequente, relativo
+       à cadeia de suprimentos. Cadeia produtiva é o conjunto de atividades econômicas que
+       se articulam progressivamente desde o início da elaboração de um produto —
+       incluindo-se as matérias-primas, as máquinas, os equipamentos e os produtos
+       intermediários — até o resultado final. A distribuição e a comercialização não fazem
+       parte da cadeia produtiva.
+a) Certo
+b) Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            72
+        www.estrategiaconcursos.com.br                                                        76
+
+                                    https://t.me/KakashiAssinaturasBot
+Ricardo Campanario
+Aula 07
+
+
+
+
+                                               GABARITO
+
+
+
+
+ 1. CORRETA                                                     36. D
+ 2. ERRADA                                                      37. ERRADA
+ 3. ERRADA                                                      38. ERRADA
+ 4. ERRADA                                                      39. CORRETA
+ 5. CORRETA                                                     40. ERRADA
+ 6. CORRETA                                                     41. ERRADA
+ 7. ERRADA                                                      42. CORRETA
+ 8. ERRADA                                                      43. ERRADA
+ 9. ERRADA                                                      44. CORRETA
+ 10. CORRETA                                                    45. ERRADA
+ 11. ERRADA                                                     46. CORRETA
+ 12. CORRETA                                                    47. ERRADA
+ 13. CORRETA                                                    48. CORRETA
+ 14. CORRETA                                                    49. CORRETA
+ 15. B                                                          50. ERRADA
+ 16. B                                                          51. ERRADA
+ 17. B                                                          52. CORRETA
+ 18. A                                                          53. ANULADA
+ 19. D                                                          54. CORRETA
+ 20. A                                                          55. CORRETA
+ 21. ERRADA                                                     56. CORRETA
+ 22. CORRETA                                                    57. CORRETA
+ 23. CORRETA                                                    58. B
+ 24. ERRADA                                                     59. D
+ 25. CORRETA                                                    60. C
+ 26. A                                                          61. A
+ 27. E                                                          62. A
+ 28. C                                                          63. D
+ 29. A                                                          64. C
+ 30. D                                                          65. B
+ 31. C                                                          66. E
+ 32. CORRETA                                                    67. ERRADA
+ 33. CORRETA                                                    68. CORRETA
+ 34. CORRETA                                                    69. CORRETA
+ 35. CORRETA                                                    70. ERRADA
+
+
+
+
+      Receita Federal (Analista Tributário) Administração de Compras e Materiais   73
+      www.estrategiaconcursos.com.br                                               76
+
+                                  https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+
+                                                  RESUMO
+🔾 Conceitos e abordagem logística: O conceito de logística vem ganhando muita importância
+pois o sucesso nesta atividade (as vezes ainda vista como atividade suporte) pode gerar uma
+grande vantagem competitiva à organização, seja ela pública ou privada.
+      ⮲ Conceitos e Definições: Processo de gestão estratégica da aquisição, movimentação e
+      armazenagem de materiais, peças e estoques finais (e os fluxos de informação
+      relacionados) por meio da organização e seus canais de comercialização, de tal forma que
+      as rentabilidades atual e futura sejam maximizadas através da execução de pedidos,
+      visando custo-benefício.
+      ⮲ Atividades Logísticas: de acordo com Ronald Ballou as atividades logísticas podem ser
+      divididas em primárias e de apoio:
+            ● Atividades Primárias: Transportes, Manutenção de Estoques e Processamento de
+              Pedidos.
+            ● Atividades de Apoio: Obtenção, Armazenagem, Manutenção de Informações,
+              Programação do Produto, Manuseio de Materiais e Embalagem de Proteção.
+
+🔾 Logística Sustentável: envolve todas as funções e responsabilidades da logística tradicional, no
+entanto, com um viés voltado para a sustentabilidade. Para isso, implementa ações que
+visam otimizar o uso dos recursos disponíveis, buscando reduzir o desperdício de insumos, as
+emissões de gases poluentes na atmosfera e outras práticas ambientalmente condenáveis.
+      ⮲ A sustentabilidade na logística: o objetivo é estabelecer critérios e práticas para a
+      promoção do desenvolvimento nacional sustentável nas contratações realizadas pela
+      administração pública federal direta, autárquica e fundacional e pelas empresas estatais
+      dependentes.
+      ⮲ Decreto 7.746/2012: prevê em seu artigo 2o a adoção de práticas sustentáveis, que
+      descreve em detalhes em seu artigo 4o:
+     Art. 4º Para os fins do disposto no art. 2º, são considerados critérios e práticas
+     sustentáveis, entre outras: (“Caput” do artigo com redação dada pelo Decreto nº
+     9.178, de 23/10/2017)
+     I - baixo impacto sobre recursos naturais como flora, fauna, ar, solo e água; (Inciso com
+     redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     II - preferência para materiais, tecnologias e matérias-primas de origem local;
+     III - maior eficiência na utilização de recursos naturais como água e energia;
+     IV - maior geração de empregos, preferencialmente com mão de obra local;
+     V - maior vida útil e menor custo de manutenção do bem e da obra;
+     VI - uso de inovações que reduzam a pressão sobre recursos naturais; (Inciso com
+     redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     VII - origem sustentável dos recursos naturais utilizados nos bens, nos serviços e nas
+     obras; e (Inciso com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+     VIII - utilização de produtos florestais madeireiros e não madeireiros originários de
+     manejo florestal sustentável ou de reflorestamento. (Inciso acrescido pelo Decreto nº
+     9.178, de 23/10/2017)
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               74
+        www.estrategiaconcursos.com.br                                                           76
+
+                                    https://t.me/KakashiAssinaturasBot
+  Ricardo Campanario
+  Aula 07
+
+
+
+🔾 Supply Chain Management: envolve todos os atores que atuam ao longo do processo de
+gestão de materiais, tais como: fornecedores, produtores, distribuidores e clientes, em um
+processo integrado, no qual compartilham informações e planos para tornar o canal mais
+eficiente e competitivo.
+      ⮲ Conceito de Supply Chain Management: processo de planejamento, implementação e
+      controle do fluxo eficiente e eficaz de matérias-primas, estoques de produtos
+      semiacabados, acabados e do fluxo de informações a eles relativo, desde a origem até o
+      consumo, com o propósito de atender aos requisitos dos clientes.
+      ⮲ Supply Chain Management no setor público: grande dificuldade para a implantação do
+      SCM pois a premissa é que as contratações são realizadas com base na legislação vigente
+      e, na maioria das vezes, estão baseadas em preço ou outras condições estabelecidas pelos
+      editais ou instrumentos de compra utilizados. Cenário afasta a possibilidade da construção
+      de parcerias.
+      ⮲ Cadeias de Suprimentos:
+            ● Cadeia Direta: é a que estamos acostumados, a que flui naturalmente dos
+              fornecedores até o cliente final, passando por todo o processo de compra,
+              estocagem, transformação, distribuição, transporte, até chegar aos clientes finais ou
+              consumidores.
+            ● Cadeia Reversa: também chamada de logística reversa, justamente inverte o sentido
+              que estávamos observando até agora. Diz respeito ao fluxo contrário, ou seja, dos
+              clientes até o produtor.
+            ● Cadeia de Ciclo Fechado: chamada também de closed loop supply chain ou
+              economia circular - é uma evolução dos dois primeiros conceitos que acabamos de
+              estudar. Neste modelo, tanto a logística direta como a reversa estão integrados e
+              formam um único ciclo, de ida e volta e contínuo.
+
+      ⮲ Efeito Forrester: ou efeito "chicote" é fruto das distorções de demandas de estoque que
+      ocorrem em cadeias não integradas pelo SCM. O efeito é explicado pelo impacto que
+      pequenas variações na demanda final (clientes) acabam causando em toda a cadeia. Típico
+      de cadeias não integradas, ocorre poque não há o compartilhamento de informações entre
+      os diferentes atores envolvidos.
+
+
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              75
+        www.estrategiaconcursos.com.br                                                          76
+
+                                    https://t.me/KakashiAssinaturasBot
+

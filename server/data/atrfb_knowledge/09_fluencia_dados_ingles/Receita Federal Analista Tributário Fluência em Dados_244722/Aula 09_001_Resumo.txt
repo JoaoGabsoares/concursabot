@@ -1,0 +1,123 @@
+                                                RESUMO
+
+                                              BUSINESS INTELLIGENCE
+Business Intelligence (Inteligência de Negócio) é um termo criado pelo Gartner Group utilizado para representar
+um conjunto de processos, técnicas, metodologias, habilidades, ferramentas e capacidades utilizadas para
+acessar, coletar, organizar, tratar, analisar, cruzar, processar, compartilhar e monitorar dados de diversas fontes
+com o intuito de gerar informações e relatórios analíticos que suportem a gestão corporativa, a definição de
+estratégias e a tomada de decisão em ambientes de negócio.
+
+
+         TIPOS DE ANÁLISES                                        DESCRIÇÃO
+                          É o exame de dados ou conteúdos para responder à pergunta: “O que aconteceu?” ou
+                          “o que está acontecendo?”. É caracterizado pelo Business Intelligence tradicional e
+       ANÁLISE DESCRITIVA visualizações como gráficos de pizza, gráficos de barras, etc que servem para que
+                          gestores tomem decisões.
+                          É uma forma de análise avançada que examina dados ou conteúdos para responder à
+                          pergunta: “Por que isso aconteceu?”, e é caracterizada por técnicas como
+      ANÁLISE DIAGNÓSTICA
+                          detalhamento, descoberta de dados, mineração de dados e correlações. Esse é o tipo
+                          de análise empregada em investigações de causa-raiz.
+                          Combina técnicas de estatística, mineração de dados e aprendizagem de máquina
+                          para encontrar significado em grandes quantidades de dados, trabalhando com
+        ANÁLISE PREDITIVA
+                          probabilidades, predições, entre outros para antecipar comportamentos futuros com
+                          base em eventos passados. Responde à pergunta: “O que vai acontecer?”;
+                          É uma forma de análise avançada que examina os dados ou os conteúdos para
+                          responder à pergunta: “O que deve ser feito?” ou “O que podemos fazer caso algo
+      ANÁLISE PRESCRITIVA
+                          aconteça?”, e é caracterizada por técnicas como análise de gráficos, simulação, redes
+                          neurais, mecanismos de recomendação, heurísticas, aprendizado de máquina, etc.
+
+
+                                                  Trata-se de uma coleção de dados orientados por assunto,
+                                                  integrados, variáveis com o tempo e não-voláteis, para dar
+                                                  suporte ao processo de tomada de decisão.
+                                                  TRATA-SE DE um conjunto de ferramentas para manipular, minerar
+                                                  e analisar dados, criar relatórios, realizar consultas sob
+                                                  demanda, entre outros.
+                                                  Trata-se de um conjunto de ferramentas que permitem comparar
+                                                  e compartilhar o desempenho de negócios de uma organização em
+                                                  relação às metas estabelecidas.
+                                                  Trata-se de um conjunto de ferramentas que permitem a rápida e
+                                                  abrangente visualização de dados por meio de dashboards e
+                                                  softwares similares.
+
+  AUTOR                                     DEFINIÇÕES ACADÊMICAS de data warehouse
+  Ralph       Conjunto de ferramentas e técnicas de projeto que – quando aplicadas às necessidades específicas dos
+ Kimball      usuários e aos bancos de dados específicos – permitirá que planejem e construam um Data Warehouse.
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+  Bill      Coleção de dados orientados por assunto, integrados, variáveis com o tempo e não-voláteis, para dar
+ Inmon      suporte ao processo de tomada de decisão.
+  Arun      Banco de dados construídos no interesse de suporte à decisão de negócios e contêm dados históricos
+   Sen      sumarizados e consolidados provenientes de registros individuais de bancos de dados operacionais.
+Kenneth     Banco de dados – com ferramentas de consulta e relatório – que armazena dados atuais e históricos extraídos
+Laudon      de vários sistemas/ambientes operacionais e consolidados para fins de análises e relatórios administrativos.
+
+
+
+                                                 ORIENTADO POR
+                                                    ASSUNTO
+
+                                     HISTÓRICO          DW           NÃO VOLÁTIL
+
+                                                    INTEGRADO
+
+
+  ENTERPRISE    Traduzido como Armazém de Dados Corporativos ou Abrangentes, é um repositório central
+                tático/estratégico que contém todas as informações de negócio de uma organização de forma
+        DATA
+                acessível para toda empresa com a finalidade de suportar as análises de decisões. Grosso modo
+  WAREHOUSE     é possível afirmar que um EDW é um DW de larga escala – grande e abrangente – que é utilizado
+       (EDW)    pela organização como um todo e que congrega informações de diversas fontes de dados.
+                Traduzido como Armazenamento de Dados Operacionais, trata-se de um repositório
+ OPERATIONAL    intermediário de dados utilizado para relatórios operacionais e como uma fonte de dados para o
+  DATA STORE    Enterprise Data Warehouse (EDW). É um elemento complementar a um EDW em um cenário de
+        (ODS)   suporte a decisões, e é usado para relatórios, controles e tomada de decisões operacionais – em
+                oposição ao EDW, que é utilizado para suporte de decisões táticas e estratégicas.
+                Traduzido como Mercado de Dados, trata-se de um subconjunto de dados de um Data
+                Warehouse. Geralmente são dados referentes a um assunto em especial (Ex: Vendas, Estoque,
+  DATA MART
+                Controladoria, entre outros) ou diferentes níveis de sumarização (Ex: Vendas Anual, Vendas
+       (DM)     Semestral, Vendas Mensal, entre outros), que focalizam uma ou mais áreas específicas. Seus
+                dados são obtidos do DW – indexados para suportar intensas pesquisas.
+                    DATA WAREHOUSE
+
+
+
+
+                                                                            ENTERPRISE DATA
+                                                  EDW
+                                                                              WAREHOUSE
+                                                                           OPERATIONAL DATA
+                                                  ODS
+                                                                                STORE
+
+                                                  DM                           DATA MART
+
+
+
+
+                                     https://t.me/KakashiAssinaturasBot
+  CARACTERÍSTICAS                  KIMBALL (DM)                                 INMON (EDW)
+    Abordagem          Bottom-Up (Data Marts  Data Warehouse)     Top-Down (Data Warehouse  Data Marts)
+
+    Orientação             Orientado a processos de negócio                   Orientado a dados
+
+investimento Inicial                    Baixo                                        Alto
+
+   Normalização                    Desnormalizado                       Normalizado (3ª Forma Normal)
+
+  Direcionamento                    Usuários finais                           Profissionais de TI
+
+     Consultas              Realizadas no Data Warehouse                   Realizadas no Data Mart
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+

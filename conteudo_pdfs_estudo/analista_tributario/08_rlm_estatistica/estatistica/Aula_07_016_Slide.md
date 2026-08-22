@@ -1,0 +1,418 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 07_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: ANÁLISE COMBINATÓRIA FGV
+---
+
+# ANÁLISE COMBINATÓRIA FGV
+
+Prof. Jhoni Zini
+
+                   
+
+
+---
+
+ANÁLISE COMBINATÓRIA FGV
+
+
+                                                    Profº Jhoni zini
+
+               
+
+
+---
+
+FGV - FISCAL DE SERVIÇOS (PREF SALVADOR)/2019
+Entre 6 deputados, 3 do Partido A e 3 do Partido B, serão sorteados 2 para uma comissão.
+
+A probabilidade de os 2 deputados sorteados serem do Partido A é de
+A. 1/2
+B. 1/3
+C. 1/4
+D. 1/5
+E. 1/6
+
+                               
+
+
+---
+
+FGV - OFICIAL (MPE RJ)/2019
+ Entre as pessoas A, B, C, D, E, duas delas serão escolhidas por sorteio para integrarem o
+ conselho diretor de uma empresa. O diretor da empresa conhece essas cinco pessoas e
+ disse:
+
+ “Gostaria que A ou B fossem sorteados, mas não gostaria que D fosse sorteado”.
+
+ A probabilidade de que o desejo do diretor da empresa se realize é de:
+ A. 30%;
+ B. 40%;
+ C. 50%;
+ D. 60%;
+ E. 70%.
+
+                                 
+
+
+---
+
+FGV - INSPETOR DE ALUNOS (PREF ANGRA)/2019
+Uma pesquisa feita com os alunos de uma sala mostrou que 7 alunos torcem pelo
+Flamengo, 6 pelo Vasco, 5 pelo Fluminense, 4 pelo Botafogo e 3 não torcem por time
+nenhum.
+
+Escolhendo ao acaso um dos alunos dessa turma, a probabilidade de que ele seja torcedor
+do Vasco é de
+A. 12%.
+B. 18%.
+C. 20%.
+D. 24%.
+E. 30%.
+
+                              
+
+
+---
+
+FGV - ASSISTENTE LEGISLATIVO (ALERO)/2018
+Várias pessoas, entre as quais Artur e Mário, estão sentadas em volta de uma mesa
+redonda. Entre Artur e Mário há 3 pessoas por um lado e 5 pessoas pelo outro.
+
+Uma das pessoas da mesa é sorteada ao acaso. A probabilidade de que essa pessoa
+sorteada não seja nem Artur, nem Mário, nem nenhum dos seus vizinhos, é de
+A. 20%.
+B. 30%.
+C. 40%.
+D. 50%.
+E. 60%.
+
+                              
+
+
+---
+
+FGV - AUXILIAR ADM (SASDH NITERÓI)/2018
+Um dado é lançado duas vezes consecutivas. Considere os seguintes eventos relativos a
+esses lançamentos:
+
+A: a soma dos números obtidos é 8
+B: a soma dos números obtidos é 10
+C: a soma dos números obtidos é 12
+
+Colocando-se esses três eventos em ordem crescente da probabilidade de ocorrência,
+obtém-se:
+A. A, B, C;
+B. A, C, B;
+C. B, C, A;
+D. C, A, B;
+E. C, B, A.
+
+
+                              
+
+
+---
+
+FGV - ANALISTA (SEPOG RO)/2017
+Para uma premiação, dois funcionários de uma empresa serão sorteados aleatoriamente
+entre quatro candidatos: dois do departamento A e dois do departamento B. A
+probabilidade de os dois funcionários sorteados pertencerem ao mesmo departamento é
+A. 1/2.
+B. 1/3.
+C. 1/4.
+D. 1/6.
+E. 3/4.
+
+                             
+
+
+---
+
+FGV - TECNOLOGISTA (IBGE)/ESTATÍSTICA/2016
+Existem duas medidas de probabilidade, frequentemente empregadas, que apropriam dois
+conceitos bem distintos, o conceito clássico e o conceito frequencial. Entre as principais
+diferenças está o fato de que:
+A. o clássico se aplica no caso de experimentos com espaço amostral não enumerável e o
+conceito frequencial não;
+B. o segundo pode ser empregado observando-se apenas as condições iniciais do
+experimento aleatório;
+C. para espaços amostrais finitos, a medida pelo conceito frequencial é determinada de
+forma única, com valor fixo;
+D. mesmo que o experimento seja não aleatório, o conceito frequencial é aplicável, sendo
+mais preciso quanto maior for a amostra;
+E. o conceito clássico utiliza, em muitos casos, técnicas de contagem para o cálculo das
+probabilidades.
+
+                               
+
+
+---
+
+FGV - ANALISTA (IBGE)/2016
+ Raíza e Diego resolvem disputar um jogo em que cada um deles lança uma moeda honesta
+ de forma independente e simultânea. Ela será vencedora no caso de dois resultados iguais,
+ e ele, de dois diferentes. As probabilidades de vitória dela e dele são, respectivamente,
+ iguais a:
+ A. 2/3 e 1/3;
+ B. 1/4 e 3/4;
+ C. 1/3 e 2/3;
+ D. 1/2 e 1/2;
+ E. 3/4 e 1/4.
+
+                                
+
+
+---
+
+FGV - TÉCNICO JUDICIÁRIO AUXILIAR (TJ SC)/2015
+ Cada uma das 13 letras do nome “SANTA CATARINA” é escrita em um cartão e todos os
+ cartões são colocados em uma urna. Aleatoriamente, são então retirados, sucessivamente
+ e sem reposição, dois cartões.
+
+ A probabilidade de um dos cartões retirados conter a letra S e o outro cartão retirado
+ conter a letra C é de:
+ A. 2/13;
+ B. 3/39;
+ C. 1/78;
+ D. 1/156;
+ E. 25/156;
+
+                                 
+
+
+---
+
+FGV - ANALISTA (TCE-SE)/2015
+ Em uma festa há somente mulheres solteiras e homens casados, acompanhados de suas
+ respectivas esposas.
+
+ A probabilidade de que uma mulher sorteada ao acaso nessa festa seja solteira é 27.
+
+ A probabilidade de que uma pessoa sorteada ao acaso nessa festa seja homem é:
+ A. 5/7;
+
+ B. 2/9;
+
+ C. 7/9;
+
+ D. 5/12;
+
+ E. 7/12;
+
+                                
+
+
+---
+
+FGV - TÉCNICO (DPE RJ)/2019
+Uma análise sobre o perfil da população que é atendida pela Defensoria Pública revelou
+um quadro de ampla diversidade. Foram consideradas apenas duas características,
+nomeadamente homens (H) vs mulheres (M) e evangélicos (E) vs católicos (C), sendo as
+demais orientações religiosas, incluindo o ateísmo, pouco significativas do ponto de vista
+estatístico.
+
+A partir daí foram relacionadas as seguintes informações:
+
+P(H)=0,41, P(E∩M)=0,23 e P(C)=0,60
+
+De acordo com os dados acima, é possível afirmar que, entre os católicos, os homens
+representam:
+A. 25%;
+B. 32%;
+C. 40%;
+D. 60%;
+E. 75%.                        
+
+
+---
+
+FGV - TÉCNICO (DPE RJ)/2019
+
+P(H)=0,41, P(E∩M)=0,23 e P(C)=0,60
+
+                               
+
+
+---
+
+FGV - ANALISTA LEGISLATIVO (ALERO)/2018
+
+A e B são dois eventos tais que P[A] = 0,4 e P[B] = 0,8. Os valores mínimo e máximo da
+probabilidade condicional P[A|B] são, respectivamente,
+A. 0 e 0,4.
+B. 0,25 e 0,5.
+C. 0,2 e 0,4.
+D. 0,4 e 0,5.
+E. 0,15 e 0,4.
+
+                                 
+
+
+---
+
+FGV - ANALISTA LEGISLATIVO (ALERO)/2018
+Dois eventos A e B são tais que A⊆B. Avalie se, nesse caso, as afirmativas a seguir estão
+corretas.
+
+I. P[A] ≤ P[B].
+
+II. P[A|B] = P[A]/P[B].
+
+III. P[B|A] = 1.
+
+Assinale:
+A. se somente I estiver correta.
+B. se somente II estiver correta.
+C. se somente I e II estiverem corretas.
+D. se somente II e III estiverem corretas.
+E. se I, II e III estiverem corretas.
+
+                                   
+
+
+---
+
+FGV - ANALISTA CENSITÁRIO (IBGE)/2017
+O responsável pelo planejamento de uma pesquisa acredita que, a priori, a probabilidade
+de que um indivíduo tenha uma determinada opinião, positiva, é de 80%. Para avaliar
+melhor essa crença, o responsável realiza um experimento no qual a opinião é positiva em
+40% dos casos, quando o responsável julga a priori que não será assim; sendo positiva em
+70% dos casos, quando ele prevê uma opinião positiva. No experimento, a opinião se
+mostrou positiva (ExpPos).
+
+Portanto, a distribuição a posteriori, ou seja, após a realização do experimento, para a
+crença do responsável depois do experimento é:
+A. P(Positiva | ExpPos) = 0,56 e P(NÃO Positiva | ExpPos) = 0,44;
+B. P(Positiva | ExpPos) = 0,68 e P(NÃO Positiva | ExpPos) = 0,32;
+C. P(Positiva|ExpPos) = 0,875 e P(NÃO Positiva|ExpPos) = 0,125;
+D. P(Positiva | ExpPos) = 0,68 e P(NÃO Positiva | ExpPos) = 0,32;
+E. P(Positiva | ExpPos) = 2/3 e P(NÃO Positiva | ExpPos) = 1/3.
+
+
+                                  
+
+
+---
+
+FGV - ANALISTA CENSITÁRIO (IBGE)/2017
+
+                  
+
+
+---
+
+FGV - ESPECIALISTA (PREF ANGRA)/2019
+Peter é um ótimo lançador de dardos. A cada lançamento, a probabilidade de Peter acertar
+o alvo é de 90% e independe de Peter ter acertado ou não o alvo em lançamentos
+anteriores.
+
+Após fazer dois lançamentos em sequência, a probabilidade de Peter ter acertado o alvo
+nos dois lançamentos é de
+A. 180%.
+B. 90%.
+C. 81%.
+D. 72%.
+E. 60%.
+
+                                
+
+
+---
+
+FGV - ANALISTA LEGISLATIVO (ALERO)/2018
+Em um grupo de 10 deputados, 6 são do Partido A e 4 são do Partido B. Serão sorteados 2
+desses 10 deputados, aleatoriamente.
+
+A probabilidade de os 2 deputados sorteados serem do Partido B é
+A. 15
+
+B. 25
+
+C. 23
+
+D. 29
+
+E. 215
+
+                                
+
+
+---
+
+FGV - ANALISTA LEGISLATIVO (ALERO)/2018
+Uma urna contém 10 bolas numeradas de 1 a 10. Três dessas bolas são sorteados
+aleatoriamente.
+
+A probabilidade de o produto dos três números sorteados ser ímpar é
+A. 1/12.
+B. 1/10.
+C. 1/8.
+D. 1/4.
+E. 1/2.
+
+                                
+
+
+---
+
+FGV - ANALISTA CENSITÁRIO (IBGE)/2017
+A probabilidade de um determinado aluno acertar cada uma das duas últimas questões de
+uma determinada prova é 70%.
+
+Acertar ou errar cada uma das questões são eventos independentes.
+
+A probabilidade desse aluno errar as duas referidas questões:
+A. é menor que 10%;
+B. está entre 10% e 20%;
+C. está entre 20% e 30%;
+D. está entre 30% e 50%;
+E. é maior que 50%.
+
+                                 
+
+
+---
+
+FGV - TÉCNICO (PREF SALVADOR)/2017
+Abel tem uma moeda que dá “cara” com probabilidade 12 e Breno tem uma moeda que dá
+“cara” com probabilidade 13. Abel e Breno lançam suas respectivas moedas,
+alternadamente. O primeiro que obtiver “cara”, ganha. Abel é o primeiro a lançar, e os
+lançamentos são todos independentes.
+
+A probabilidade de Abel ganhar no seu terceiro lançamento é de
+A. 1/2.
+B. 1/3.
+C. 1/4.
+D. 1/8.
+E. 1/18.
+
+                                
+
+
+---
+
+FGV - ANALISTA JUDICIÁRIO (TJ RO)/2015
+A probabilidade de chover em determinado dia, dado que choveu no dia anterior, é de 0,6.
+Se a probabilidade de chover em um dia qualquer é de 0,3, a probabilidade de dois dias de
+chuva seguidos é de:
+A. 0,15;
+B. 0,18;
+C. 0,30;
+D. 0,40;
+E. 0,50.
+
+                                
+
+
+---

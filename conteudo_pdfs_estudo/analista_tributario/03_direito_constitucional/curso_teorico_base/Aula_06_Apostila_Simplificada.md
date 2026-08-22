@@ -1,0 +1,1735 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 06_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 12.
+- Art. 5º
+- 'art.
+
+  12'
+- art. 12
+- art. 14
+- art. 222
+- art. 5º
+- art.12
+---
+
+# Direito Constitucional
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            06 de Agosto de 2026
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 05
+
+                                                                                     Índice
+1) Nacionalidade
+
+
+2) Questões Comentadas - Nacionalidade - FGV
+
+
+3) Lista de Questões - Nacionalidade - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           36
+
+                                                             
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 05
+
+                                               NACIONALIDADE
+Introdução
+Segundo a doutrina dominante, os elementos constitutivos do Estado são território, povo e
+governo soberano. Entre esses três elementos, o povo é o que constitui a dimensão pessoal do
+Estado. Ao contrário da população (composta pelo conjunto de pessoas que habitam o território
+de um Estado), o povo compõe-se dos seus nacionais, independentemente do local em que
+residam.
+A nacionalidade é justamente o vínculo jurídico-político entre o Estado soberano e o indivíduo,
+que torna este um membro integrante da comunidade que constitui o Estado. Segundo Mazzuoli,
+a nacionalidade comporta duas dimensões: a dimensão vertical (que liga o indivíduo ao Estado) e
+a dimensão horizontal (que liga o indivíduo ao elemento povo).1 A dimensão vertical da
+nacionalidade impõe obrigações ao indivíduo perante o Estado, próprias de uma relação de
+subordinação. Já a dimensão horizontal pressupõe uma relação sem grau hierárquico, isto é, uma
+relação paritária do indivíduo com a comunidade à qual pertence.
+
+Atribuição de Nacionalidade pelo direito brasileiro
+A doutrina fala na existência de dois tipos de nacionalidade: a nacionalidade originária (primária)
+e a nacionalidade derivada (adquirida ou secundária).
+A nacionalidade originária é aquela que resulta de um fato natural, o nascimento; diz-se,
+portanto, que é uma forma involuntária de aquisição de nacionalidade. É atribuída ao indivíduo
+em razão de critérios sanguíneos (“jus sanguinis”), territoriais (“jus soli”) ou mistos. Os brasileiros
+que recebem a nacionalidade originária são chamados de “brasileiros natos”.
+A nacionalidade derivada, por sua vez, é aquela cuja aquisição depende de ato de vontade (ato
+volitivo), praticado depois do nascimento; diz-se que a nacionalidade derivada é obtida mediante
+a naturalização. Os brasileiros que recebem a nacionalidade derivada são chamados de
+“brasileiros naturalizados”.
+Vejamos, a seguir, como se dá a atribuição de nacionalidade originária: quem são, afinal, os
+brasileiros natos? Vamos à análise do art. 12 da CF?
+
+          Art. 12. São brasileiros:
+          I - natos:
+          a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros,
+          desde que estes não estejam a serviço de seu país;
+          b) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que
+          qualquer deles esteja a serviço da República Federativa do Brasil;
+          c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que
+          sejam registrados em repartição brasileira competente ou venham a residir na
+
+1
+  MAZZUOLI, Valério de Oliveira. Curso de Direito Internacional Público. 4ª ed. São Paulo: Editora Revista dos
+Tribunais, 2010.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                      3
+          www.estrategiaconcursos.com.br                                                                   36
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+        República Federativa do Brasil e optem, em qualquer tempo, depois de atingida
+        a maioridade, pela nacionalidade brasileira.
+
+No art. 12, inciso I, estão as hipóteses de aquisição de nacionalidade originária. Na alínea “a”, é
+perceptível que a Constituição adotou o critério “jus soli”, considerando brasileiro nato qualquer
+pessoa nascida em território nacional, mesmo que de pais estrangeiros. Entretanto, há uma
+exceção: se o nascido no Brasil for filho de estrangeiros que estejam a serviço de seu país, não
+será brasileiro nato.
+Podemos resumir a aplicação da alínea “a”, vislumbrando três situações possíveis:
+       a) Um filho de pai ou mãe brasileiros, ou ambos, nasce em território brasileiro: será
+       brasileiro nato.
+       b) Um filho de pais estrangeiros, se um deles, ou ambos, estiver no Brasil a serviço de seu
+       país, nasce em território brasileiro: não será brasileiro nato.
+       Cuidado! Para que seja excluída a atribuição de nacionalidade pelo critério “jus soli”, é
+       necessário o cumprimento cumulativo de 2 (duas) condições:
+             - ambos os pais serem estrangeiros; e
+             - um dos pais ou ambos estarem a serviço de seu país.
+       Atenção! Imagine o seguinte caso! Um diplomata italiano está no Brasil a serviço de seu
+       país e casa-se com uma brasileira. Eles têm um filho que nasce em território brasileiro. O
+       filho será brasileiro nato, pois apenas uma das condições para a exclusão do critério “jus
+       soli” foi cumprida (“um dos pais ou ambos estarem a serviço de seu país”). A outra
+       condição (“ambos os pais serem estrangeiros”) não foi cumprida.
+       c) Um filho de estrangeiros que não estão a serviço de seu país nasce em território
+       brasileiro: será brasileiro nato.
+Para finalizar os comentários sobre a alínea “a”, vale destacar que o conceito de território
+brasileiro abrange, além das terras delimitadas pelas fronteiras geográficas, o mar territorial e
+espaço aéreo.
+Na alínea “b”, a Constituição estabelece que são brasileiros natos os nascidos no estrangeiro, de
+pai brasileiro ou mãe brasileira, desde que qualquer deles esteja a serviço da República
+Federativa do Brasil. O legislador constituinte adotou, aqui, o critério “jus sanguinis”, prevendo,
+todavia, um requisito adicional: o fato de qualquer um dos pais (ou ambos) estar a serviço da
+República Federativa do Brasil, o que significa qualquer serviço prestado por órgão ou entidade
+da União, dos Estados, do Distrito Federal ou dos Municípios.
+Perceba que a aquisição de nacionalidade por essa regra depende do cumprimento cumulativo
+de dois requisitos:
+       a) Ser filho de pai brasileiro ou mãe brasileira, ou de ambos.
+       b) O pai ou a mãe, ou ambos, deverão estar a serviço do Brasil no exterior.
+Por fim, na alínea “c”, a Constituição estabelece que são brasileiros natos “os nascidos no
+estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados em repartição
+brasileira competente ou venham a residir na República Federativa do Brasil e optem, em
+qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira”.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             4
+        www.estrategiaconcursos.com.br                                                          36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+Assim, há duas possibilidades diferentes de aquisição de nacionalidade quando o indivíduo nasce
+no exterior, filho de pai brasileiro ou mãe brasileira que não estão a serviço do Brasil:
+       a) O indivíduo é registrado em repartição brasileira competente; ou
+       b) O indivíduo vem a residir no Brasil e opta, em qualquer tempo, depois de atingida a
+       maioridade, pela nacionalidade brasileira.
+Na primeira possibilidade, o registro do indivíduo perante repartição competente é condição
+suficiente para que ele seja considerado brasileiro nato. Na segunda possibilidade, o indivíduo
+precisa residir no Brasil e, além disso, manifestar sua vontade. É o que a doutrina denomina
+nacionalidade potestativa.
+ “E se o filho de brasileiros que não estejam a serviço do Brasil e que tenha nascido no exterior
+vier a residir no país ainda enquanto menor? Qual será sua nacionalidade?”
+Nesse caso, o menor será considerado brasileiro nato. Entretanto, a aquisição definitiva de sua
+nacionalidade dependerá de sua manifestação após a maioridade. Uma vez tendo sido atingida a
+maioridade, fica suspensa a condição de brasileiro nato, enquanto não for efetivada a opção pela
+nacionalidade brasileira. A maioridade passa a ser, então, condição suspensiva da nacionalidade
+brasileira até o momento em que for feita a opção.
+
+(TELEBRAS – 2022) São brasileiros natos aqueles que nascem no exterior de pai ou mãe
+brasileira, desde que venham a residir no Brasil e optem, a qualquer tempo, após a maioridade,
+pela nacionalidade brasileira, ou que sejam registrados em repartição brasileira competente.
+Comentários:
+A assertiva apresenta uma das possibilidades constitucionais vinculadas à caracterização de
+brasileiro nato, sendo considerado como um direito personalíssimo (exercido exclusivamente
+pelo indivíduo). É destinado àqueles que venham a optar pela nacionalidade brasileira apenas
+após atingida a maioridade, desde que sejam nascidos no estrangeiro de pai brasileiro ou de
+mãe brasileira e que sejam registrados em repartição brasileira competente, ou ainda que
+venham a residir na República Federativa do Brasil. Questão correta.
+Dando continuidade à análise do art. 12, que tal verificarmos as condições para a aquisição
+secundária (derivada) da nacionalidade?
+
+        Art. 12. São brasileiros:
+        (...)
+        II - naturalizados:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           5
+        www.estrategiaconcursos.com.br                                                         36
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+           a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos
+           originários de países de língua portuguesa apenas residência por um ano
+           ininterrupto e idoneidade moral;
+           b) os estrangeiros de qualquer nacionalidade, residentes na República Federativa
+           do Brasil há mais de quinze anos ininterruptos e sem condenação penal, desde
+           que requeiram a nacionalidade brasileira.
+
+No Brasil, a aquisição de nacionalidade derivada somente se dará por manifestação do
+interessado (ou seja, será sempre expressa), mediante naturalização.
+Na alínea “a”, temos a hipótese de naturalização ordinária, concedida aos estrangeiros que
+cumpram os requisitos descritos em lei (Lei da Migração). No caso de estrangeiros originários de
+países de língua portuguesa, o processo de naturalização é facilitado, sendo apenas exigidos
+dois requisitos:
+          a) Residência no Brasil por um ano ininterrupto; e
+          b) Idoneidade moral.
+Cabe destacar, entretanto, que o mero cumprimento dos requisitos não assegura ao estrangeiro a
+concessão da nacionalidade brasileira. A concessão da naturalização ordinária é ato discricionário
+do Chefe do Poder Executivo, ou seja, depende de uma análise quanto à conveniência e à
+oportunidade por parte deste.
+Na alínea “b”, está prevista a naturalização extraordinária, que depende do cumprimento de 3
+(três) requisitos:
+          a) Residência ininterrupta no Brasil por mais de quinze anos;
+          b) Ausência de condenação penal; e
+          c) Requerimento do interessado.
+Ao contrário do que ocorre na naturalização ordinária, cumpridos esses três requisitos, o
+interessado tem direito subjetivo à nacionalidade brasileira. Portanto, esta não pode ser negada
+pelo Chefe do Executivo; trata-se de ato vinculado do Presidente da República.
+Por fim, é importante destacar entendimento do STF no sentido de que não se revela possível,
+em nosso sistema jurídico-constitucional, a aquisição da nacionalidade brasileira jure matrimonii,
+vale dizer, como efeito direto e imediato resultante do casamento civil”.2 Isso porque tal hipótese
+não foi contemplada pela Constituição.
+
+2
+    Ext 1.121, Rel. Min. Celso de Mello, julgamento em 18-12-2009, Plenário, DJE de 25-6-2010.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          6
+           www.estrategiaconcursos.com.br                                                        36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+(MPT – 2015) A naturalização extraordinária apresenta como requisitos: residência no Brasil há
+quinze anos ininterruptos, ausência de condenação penal, requerimento do interessado e
+idoneidade moral.
+Comentários:
+A idoneidade moral não é requisito para a naturalização extraordinária. Questão errada.
+
+Portugueses residentes no Brasil
+        Art. 12.
+        (...)
+        § 1º Aos portugueses com residência permanente no País, se houver
+        reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao
+        brasileiro, salvo os casos previstos nesta Constituição.
+                                                         ==5460==
+
+A Constituição Federal de 1988 estabelece condições favoráveis para os portugueses, que
+receberão tratamento igual ao de um brasileiro naturalizado. Segundo a doutrina, trata-se de
+uma situação de “quase-nacionalidade”.
+Para que possam receber esse tratamento, todavia, é necessário o cumprimento de dois
+requisitos:
+       a) Os portugueses deverão ter residência permanente no Brasil; e
+       b) Deverá haver reciprocidade de tratamento em favor dos brasileiros, ou seja, Portugal
+       deverá conferir os mesmos direitos aos brasileiros que lá residam.
+Veja que não há atribuição de nacionalidade aos portugueses nem aos brasileiros que residam
+em Portugal. O português vivendo com ânimo permanente no Brasil continua português; o
+brasileiro vivendo em Portugal continua brasileiro. O que existe é tão somente concessão de
+direitos inerentes aos nacionais do Estado. Dessa forma, não é necessário que um português se
+naturalize brasileiro para que possa gozar dos mesmos direitos que um brasileiro naturalizado,
+pois, sem fazê-lo, já deles pode usufruir.
+
+Condição jurídica do Nacionalizado
+Segundo o art. 12, §2º, CF/88, “a lei não poderá estabelecer distinção entre brasileiros natos e
+naturalizados, salvo nos casos previstos nesta Constituição”. Em outras palavras, os brasileiros
+natos e os brasileiros naturalizados devem ser tratados com isonomia. Somente poderá haver
+discriminação entre um e outro nos casos previstos na própria Constituição. Leis que discriminem
+entre brasileiros natos e naturalizados são flagrantemente inconstitucionais.
+Uma das principais distinções entre brasileiros natos e naturalizados diz respeito à ocupação de
+alguns cargos, conforme previsto no art. 12, §3º, CF/88:
+
+        Art. 12.
+        (...)
+        § 3º São privativos de brasileiro nato os cargos:
+        I - de Presidente e Vice-Presidente da República;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          7
+        www.estrategiaconcursos.com.br                                                       36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+        II - de Presidente da Câmara dos Deputados;
+        III - de Presidente do Senado Federal;
+        IV - de Ministro do Supremo Tribunal Federal;
+        V - da carreira diplomática;
+        VI - de oficial das Forças Armadas;
+        VII - de Ministro de Estado da Defesa.
+
+Os cargos acima fazem parte de uma lista taxativa, caro(a) aluno(a)! Quem não está na lista não
+precisa ser brasileiro nato para assumir o cargo.
+Como decorar a lista? Achando a lógica dela! Vamos à explicação...
+O legislador constituinte buscou assegurar que o Presidente da República fosse brasileiro nato
+para garantir a soberania nacional, ou seja, para garantir que o Chefe do Executivo não usaria o
+cargo para servir a interesses de outros Estados. Para isso, também só permitiu a brasileiros natos
+o acesso a cargos que podem suceder o Presidente: Vice-Presidente da República, Presidente da
+Câmara dos Deputados, Presidente do Senado Federal e Ministros do Supremo Tribunal Federal.
+Também em nome da defesa da soberania nacional, nosso constituinte restringiu o acesso à
+carreira diplomática. Isso porque o diplomata representa o Brasil em outros Estados, e poderia
+mais facilmente sucumbir aos interesses destes se fosse naturalizado. Seria difícil para um
+argentino naturalizado brasileiro celebrar um tratado que favorecesse o Brasil em detrimento da
+Argentina, por exemplo.
+A explicação para o acesso somente de brasileiros natos aos dois últimos cargos é ainda mais
+óbvia! Somente o brasileiro nato pode ser Oficial das Forças Armadas ou Ministro do Estado da
+Defesa. Isso para diminuir o risco de os ocupantes desses cargos favorecerem qualquer outra
+nação em caso de guerra. Imagine as Forças Armadas pedirem a um naturalizado que
+bombardeie a terra em que nasceu! Dificilmente a ordem seria acatada, não é mesmo? E o
+Ministro da Defesa? Como planejaria usar as Forças Armadas brasileiras contra seus próprios
+conterrâneos? Seu julgamento certamente ficaria comprometido, com graves danos à segurança
+do Brasil...
+
+        As bancas examinadoras adoram fazer pegadinhas sobre esse tema. Vejamos,
+        abaixo, alguns detalhes aos quais você deve ficar bastante atento:
+        1) O Senador ou Deputado Federal não precisa ser brasileiro nato. Apenas
+        devem ser brasileiros natos o Presidente da Câmara dos Deputados e o
+        Presidente do Senado Federal.
+        2) O único Ministro de Estado que deve ser brasileiro nato é o Ministro da
+        Defesa. Os outros Ministros podem ser brasileiros naturalizados.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             8
+        www.estrategiaconcursos.com.br                                                          36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+        3) Os portugueses equiparados não podem ocupar cargos privativos de brasileiro
+        nato. Isso porque eles recebem o tratamento de brasileiro naturalizado.
+
+Há, ainda, outras distinções constitucionais entre brasileiros natos e brasileiros naturalizados:
+       a) O art. 89, inciso VII, da CF/88 estabelece que 6 (seis) vagas do Conselho de República,
+       órgão superior de consulta do Presidente da República, foram reservadas para brasileiros
+       natos.
+       b) O art. 5º, inciso LI, da CF/88 estabelece que os brasileiros natos não serão, em hipótese
+       alguma, extraditados. Já os brasileiros naturalizados poderão ser extraditados em caso de
+       crime comum cometido antes da naturalização ou de comprovado envolvimento com
+       tráfico ilícito de entorpecentes e drogas afins, na forma da lei.
+       c) O art. 222 da CF/88 estabelece restrições ao direito de propriedade de empresas
+       jornalísticas e de radiodifusão sonora e de sons e imagens. Só poderão ser proprietários
+       desse tipo de empresa brasileiros natos ou os naturalizados há mais de 10 anos. Se essa
+       empresa for uma sociedade, pelo menos 70% do capital total e votante deverá pertencer a
+       brasileiros natos ou naturalizados há mais de 10 anos. Um brasileiro naturalizado há menos
+       de 10 anos também não poderá participar da gestão desse tipo de empresa.
+
+(TELEBRAS – 2022) Os cargos de Vice-Presidente e de Presidente da República são privativos de
+brasileiros natos, mas o cargo de Ministro do Supremo Tribunal Federal pode ser exercido por
+brasileiro naturalizado.
+Comentários:
+De acordo com o art. 12, §3º, da CF/88, os cargos de Presidente, Vice-Presidente e Ministro do
+STF só podem ser exercidos por brasileiros natos. Questão errada.
+
+Perda da Nacionalidade
+A perda da nacionalidade é a extinção do vínculo patrial que liga o indivíduo ao Estado. No
+Brasil, a perda da nacionalidade ocorrerá nos termos do art. 12, § 4º, CF/88, já com a redação
+alterada pela Emenda Constitucional nº 131, de 3 de outubro de 2023:
+
+        Art. 12.
+        (...)
+        § 4º - Será declarada a perda da nacionalidade do brasileiro que:
+        I - tiver cancelada sua naturalização, por sentença judicial, em virtude de fraude
+        relacionada ao processo de naturalização ou de atentado contra a ordem
+        constitucional e o Estado Democrático;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                9
+        www.estrategiaconcursos.com.br                                                              36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+        II - fizer pedido expresso de perda da nacionalidade brasileira perante autoridade
+        brasileira competente, ressalvadas situações que acarretem apatridia.
+        § 5º A renúncia da nacionalidade, nos termos do inciso II do § 4º deste artigo,
+        não impede o interessado de readquirir sua nacionalidade brasileira originária,
+        nos termos da lei.
+
+Com a redação dada pela EC nº 131/2023, a Constituição passa a dispor que o cidadão apenas
+perderá a nacionalidade brasileira se fizer um pedido por escrito. Por outro lado, o texto
+constitucional veda que a pessoa fique apátrida. Ou seja, o brasileiro que requisita a perda da
+sua nacionalidade somente pode fazê-lo a fim de obter outra nacionalidade.
+
+Vale ressaltar que a pessoa poderá readquirir a nacionalidade brasileira em um momento futuro.
+Essa reaquisição da nacionalidade brasileira necessitará ser definida pela legislação ordinária, não
+estando prevista diretamente no texto constitucional. O § 5º do art. 12, incluído no texto
+constitucional pela EC nº 131/2023, trata desse assunto.
+
+Em relação ao cancelamento da naturalização do brasileiro naturalizado (art. 12, § 4º, I), a EC nº
+131/2023 trouxe duas situações:
+
+   ●​ Fraude no processo de naturalização; ou
+   ●​ Atentado contra a ordem constitucional e o Estado Democrático.
+
+Língua e símbolos oficiais
+Só para cobrirmos qualquer surpresa na prova, peço que leia o art. 13, transcrito a seguir, que
+somente poderá ser pedido em sua literalidade.
+
+        Art. 13. A língua portuguesa é o idioma oficial da República Federativa do Brasil.
+        § 1º - São símbolos da República Federativa do Brasil a bandeira, o hino, as
+        armas e o selo nacionais.
+        § 2º - Os Estados, o Distrito Federal e os Municípios poderão ter símbolos
+        próprios.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             10
+        www.estrategiaconcursos.com.br                                                           36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+                                    QUESTÕES COMENTADAS
+
+Nacionalidade
+
+1.​     (FGV/PC-MG/Médico Legista/2025) Maria, de nacionalidade austríaca, encontra-se no
+território brasileiro desde meados do último ano. Em razão de sua integração, ainda que
+temporária, à sociedade brasileira, buscou se inteirar em relação aos direitos fundamentais de
+estatura constitucional que possui.
+
+Após analisar a Constituição da República, Maria concluiu corretamente que
+
+A) tem os mesmos direitos dos brasileiros natos.
+
+B) tem os mesmos direitos dos brasileiros naturalizados.
+
+C) não tem sua esfera jurídica alcançada pelos direitos fundamentais.
+
+D) possui os direitos fundamentais não privativos de brasileiros, natos ou naturalizados.
+
+E) tem os direitos fundamentais assegurados no ato que admitiu sua residência no território
+nacional.
+
+Comentários:
+
+LETRA A. INCORRETA. Maria não tem os mesmos direitos dos brasileiros natos. Como por
+exemplo, cito os cargos privativos de brasileiro nato, de acordo com o 12, § 3º CRFB/88.
+
+LETRA B. INCORRETA. Maria não tem os mesmos direitos dos brasileiros naturalizados, segundo
+o art. 14, § 2º da CRFB/88: “Não podem alistar-se como eleitores os estrangeiros e, durante o
+período do serviço militar obrigatório, os conscritos”.
+
+LETRA C. INCORRETA. Maria terá sim, sua esfera jurídica alcançada pelos direitos fundamentais.
+De acordo com a doutrina e a jurisprudência do STF que entendem que basta o indivíduo estar
+no território nacional para que a seja possuidor de direito fundamental.
+
+LETRA D. CORRETA. É o nosso gabarito! Maria possui os direitos fundamentais não privativos de
+brasileiros, natos ou naturalizados, segundo doutrina e a jurisprudência do STF, que entendem
+que basta o indivíduo estar no território nacional para que a seja possuidor de direito
+fundamental.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        11
+        www.estrategiaconcursos.com.br                                                      36
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 05
+
+LETRA D. INCORRETA. É errado afirmar que Maria tem os direitos fundamentais assegurados no
+ato que admitiu sua residência no território nacional, pois basta o indivíduo estar no território
+nacional para que a seja possuidor de direito fundamental. Ou seja, não precisa de residência!
+
+Gabarito: Letra D.
+
+2.​       (FGV/PC-MG/Delegado/2025) Após o devido processo legal, João foi condenado, em
+sentença transitada em julgado, pela prática de crime de tráfico ilícito de substâncias
+entorpecentes no território italiano. Na época do seu nascimento, fato ocorrido no território
+brasileiro, seu pai, italiano, e sua mãe, espanhola, encontravam-se no Brasil a serviço da
+embaixada da Espanha. Dois anos após o nascimento, o casal e João passaram a morar na Itália,
+situação que permaneceu inalterada por trinta anos, perdurando até três meses atrás, quando
+João passou a residir no território brasileiro. Por essa razão, o governo italiano requereu a sua
+extradição à República Federativa do Brasil.
+
+A extradição requerida, após as medidas possíveis a cargo de João, deve ser
+
+a) deferida, o que decorre da natureza do crime pelo qual João foi condenado, conclusão que
+independe de o extraditando ser brasileiro, ou não.
+
+b) deferida, considerando que João é estrangeiro e somente pode adquirir a nacionalidade
+brasileira pelo processo regular de naturalização.
+
+c) indeferida, considerando que João é brasileiro nato, em razão do critério do jus soli, não
+podendo ser extraditado.
+
+d) indeferida, caso João tenha sido registrado em repartição brasileira antes de se mudar para a
+Itália.
+
+e) deferida, salvo se João optar pela nacionalidade brasileira, o que a obstará.
+
+Comentários:
+
+LETRA A. INCORRETA. Pegadinha clássica de prova! Os brasileiros natos não podem ser
+extraditados. Quanto aos naturalizados, estes podem ser extraditados no caso de cometimento
+de crime comum praticados antes da naturalização ou ainda, se comprovado envolvimento em
+tráfico ilícitos de entorpecentes ou drogas afins, de acordo com o art. 5º, inciso LI da CRFB/88:
+
+                           LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de
+                           crime comum, praticado antes da naturalização, ou de comprovado
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                              12
+          www.estrategiaconcursos.com.br                                                            36
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+                         envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da
+                         lei;
+
+LETRA B. INCORRETA: Alternativa foi considerada errada pela banca pelo seguinte motivo. João,
+apesar de ter nascido em território brasileiro, é filho de mãe espanhola que estava a serviço da
+Espanha. Nesse aspecto, não seria considerado brasileiro nato por se enquadrar na exceção do
+art. 12, inciso I, alínea “a” da CRFB/88. Entretanto, se formos observar o lado paterno,
+especificamente, o pai é Italiano e não estava a serviço do seu país de origem (mas sim da
+Espanha). Logo, na visão do examinador, isso já daria condição para que o filho do casal possa
+ser considerado brasileiro nato. Por consequência, teríamos a condição de brasileiro nato para
+João, estando o mesmo impossibilitado de ser extraditado, nos termos do art. 5º, inciso LI da
+CRFB/88.
+
+LETRA C. CORRETA. Essa alternativa foi considerada pela banca como correta, mas confesso que
+ela é polêmica. De acordo com a banca, João seria considerado brasileiro nato, porque seu pai
+não estava a serviço do seu país de origem, quando do seu nascimento. Apenas a sua mãe. Na
+prática, a banca seguiu a linha de raciocínio do professor Ingo Wolfgang Sarlet. O doutrinador faz
+uma interpretação um pouco diferente que é o seguinte: Olha: “se pelo menos um dos pais
+estrangeiros estiver a serviço de outro país (que não seja o seu de origem), tal fato já seria
+suficiente para que o indivíduo seja considerado brasileiro nato, adotando-se o critério Jus soli.
+
+O problema desse raciocínio é o binômio de interpretação do texto constitucional que se revela.
+Digo isso, pois no caso apresentado, um dos pais estava a serviço do país de origem. Pelo lado
+materno, a mãe de João estava a serviço da Espanha. Logo, João não poderia ser considerado
+brasileiro nato. Mas, enfim....as problemáticas da FGV!
+
+Confesso que esse não é o entendimento da doutrina majoritária, que sempre esclareceu que
+basta que apenas um dos genitores esteja a serviço do seu país de origem para seja enquadrada
+a exceção do art. 12, inciso I, alínea “a” da CRFB/88. O próprio professor Marcelo Novelino
+explica que não é necessário que ambos os pais estejam a serviço do país. Professor Valério
+Mazzuoli também caminha nesse sentido.
+
+LETRA D. INCORRETA. Claro que não! Apenas é necessário registro em repartição brasileira, na
+hipótese em que o nascimento aconteceu no exterior, o que não se enquadra na situação de
+João, de acordo com o art. 12, inciso I, alínea “c” da CRFB/88:
+
+                         c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde
+                         que sejam registrados em repartição brasileira competente ou venham a
+                         residir na República Federativa do Brasil e optem, em qualquer tempo,
+                         depois de atingida a maioridade, pela nacionalidade brasileira;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 13
+        www.estrategiaconcursos.com.br                                                               36
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+LETRA E. INCORRETA. Apenas é possível a opção pela nacionalidade brasileira quando o
+nascimento ocorreu fora do Brasil, de acordo com o art. 12, inciso I, alínea “c” da CRFB/88. Tal
+situação não se adequa à situação do enunciado.
+
+Gabarito: Letra C. (Gabarito apresentado pela FGV)*
+
+3.​       (FGV/TCE-PA/Auditor de Controle Externo/2024) Joana, de nacionalidade austríaca,
+embora nunca tenha estado no território brasileiro, tinha grande ligação sentimental com a
+cultura brasileira. Para sua surpresa, ao completar dezoito anos de idade, foi informada por sua
+mãe que tinha nascido no território brasileiro quando seus pais aqui se encontravam a serviço de
+uma multinacional austríaca. Seus pais são Marie, de nacionalidade austríaca, e João, que tinha
+renunciado à nacionalidade brasileira, em momento anterior ao nascimento de Joana, e se
+naturalizado austríaco. Ao analisar se teria algum liame com a República Federativa do Brasil,
+Joana concluiu corretamente que é
+
+a) brasileira nata.
+
+b)     estrangeira e somente pode adquirir a nacionalidade brasileira pelo processo regular de
+naturalização.
+
+c) estrangeira, mas pode adquirir a nacionalidade brasileira nata caso venha a residir no território
+brasileiro e opte por ela.
+
+d) estrangeira, mas pode se naturalizar brasileira caso venha a residir no território brasileiro por
+um ano e tenha idoneidade moral.
+
+e) estrangeira, mas será considerada brasileira nata se João formular requerimento nesse sentido
+à autoridade competente.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, temos o nosso gabarito! Os pais de Joana, não estavam a serviço
+do seu país de origem, tendo em vista que uma multinacional é uma empresa privada. Assim,
+Joana é brasileira nata por ter nascido em território brasileiro, de acordo com o art. 12, inciso I,
+alínea “a” da CRFB/88:
+
+                            Art. 12. São brasileiros:
+
+                            I - natos:
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          14
+           www.estrategiaconcursos.com.br                                                        36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+                         a) os nascidos na República Federativa do Brasil, ainda que de pais
+                         estrangeiros, desde que estes não estejam a serviço de seu país;
+
+LETRA B. INCORRETA. Claro que não! Joana não é estrangeira, mas sim brasileira nata, porque
+nasceu em território brasileiro e seus pais não estavam a serviço do país de origem.
+Consequentemente se enquadra na hipótese descrita no art. 12, inciso I, alínea “a” da CRFB/88.
+
+LETRA C. INCORRETA. Na verdade, Joana é brasileira nata, já que nasceu no Brasil e seus pais
+não estavam a serviço da Áustria, conforme art. 12, inciso I, alínea “a” da CRFB/88.
+
+LETRA D. INCORRETA, Não é necessária a solicitação de naturalização, porque Joana é brasileira
+nata, já que nasceu em território brasileiro e seus genitores não estavam a serviço do país de
+origem, consoante art. 12, inciso I, alínea “a” da CRFB/88.
+
+LETRA E. INCORRETA. Não se faz necessário a solicitação de requerimento, tendo em vista que
+Joana é brasileira nata, porque nasceu no território brasileira e seus pais não estavam a serviço
+do país de origem, de acordo com o art. 12, inciso I, alínea “a” da CRFB/88.
+
+Gabarito: Letra A.
+
+4.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) Pedro, nascido em Timor-Leste, tinha
+grande familiaridade com a cultura brasileira, o que era facilitado pelo fato de a língua
+portuguesa ser uma das línguas oficiais. Após residir um ano no território brasileiro, período em
+que frequentou um curso de graduação em uma universidade pública, decidiu se naturalizar
+brasileiro.
+
+É correto afirmar, à luz da Constituição da República, que Pedro
+
+a) já adquiriu a nacionalidade brasileira.
+
+b) também deve apresentar idoneidade moral para obter êxito no pedido de naturalização.
+
+c) deve cumprir os requisitos aplicáveis à generalidade dos estrangeiros para se naturalizar.
+
+d) precisa residir por quinze anos ininterruptos no território brasileiro e sem condenação criminal.
+
+e) possui a quase-nacionalidade brasileira, desde que haja reciprocidade em favor dos brasileiros
+em Timor-Leste.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              15
+        www.estrategiaconcursos.com.br                                                            36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+LETRA A. INCORRETA. Pedro ainda não detém a nacionalidade brasileira, tendo em vista que
+precisa ter idoneidade moral, de acordo com o art. 12, inciso II, alínea “a’’ da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! A Constituição determina que se o estrangeiro for
+originário de país de língua portuguesa, a CRFB/88 determina um processo diferenciado e mais
+facilitado, desde que haja o cumprimento de dois requisitos: residência por um ano ininterrupto
+no Brasil e idoneidade moral, de acordo com o art. 12, inciso II, alínea “a” da CRFB/88:
+
+                         II - naturalizados:
+
+                         a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos
+                         originários de países de língua portuguesa apenas residência por um ano
+                         ininterrupto e idoneidade moral;
+
+LETRA C. INCORRETA. Nesse caso, é aplicado a naturalização ordinária, porque Pedro é
+originário de país de língua portuguesa, sendo apenas necessário a residência por um ano
+ininterrupto no Brasil e a comprovação da idoneidade moral, não sendo necessário cumprir os
+requisitos exigidos para a naturalização extraordinária.
+
+LETRA D. INCORRETA. Não, pessoal! Pedro é originário de país de língua portuguesa, e nesse
+caso a Constituição possibilita um processo de naturalização facilitado, sendo exigido apenas a
+residência no Brasil por um ano ininterrupto e idoneidade moral, de acordo com o art. 12, inciso
+II, alínea “b” da CRFB/88.
+
+LETRA E. INCORRETA. Para Pedro adquirir a nacionalidade brasileira é necessário permanecer no
+Brasil por um ano ininterrupto e comprovar a idoneidade moral, não sendo necessário haver
+reciprocidade em favor dos brasileiros em Timor-Leste, de acordo com o art. 12, inciso II, alínea
+“a” da CRFB/88:
+
+Gabarito: Letra B.
+
+5.​    (FGV/EPE/Advogado/2024) Pascoal e Marie, ambos de nacionalidade francesa e que se
+naturalizaram brasileiros, se encontravam em território belga, a serviço de uma fábrica chinesa
+de conectores, quando Anne, fruto da união do casal, nasceu. Logo após o nascimento de Anne,
+ocorreu o cancelamento da naturalização de Pascoal e Marie por força de sentença judicial
+transitada em julgado.
+
+Anne, que estava residindo na França, quando completou vinte anos de idade, foi condenada
+pela prática de tráfico ilícito de substâncias entorpecentes, mas conseguiu fugir para o território
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               16
+        www.estrategiaconcursos.com.br                                                             36
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+brasileiro logo em seguida, passando a nele residir em caráter permanente. Ato contínuo, foi
+requerida a extradição de Anne.
+
+À luz da sistemática constitucional, é correto afirmar que Anne
+
+a) é brasileira nata, logo, não pode ser extraditada.
+
+b) é brasileira nata e pode ser extraditada, considerando o crime praticado.
+
+c) caso opte pela nacionalidade brasileira, não poderá ser extraditada.
+
+d) embora seja estrangeira, não pode ser extraditada, considerando a natureza do crime
+praticado.
+
+e)     somente terá reconhecida a nacionalidade brasileira nata caso tenha sido registrada em
+repartição brasileira competente na Bélgica, o que obstará a extradição.
+
+Comentários:
+
+LETRA A. INCORRETA. Cuidado! Quando do nascimento de Anne, seus genitores eram
+brasileiros naturalizados, consequentemente ela adquiriu a nacionalidade pelo critério jus
+sanguinis. No entanto, os seus pais tiveram a naturalização cancelada apenas após Anne ter
+completado 18 anos. Nessa hipótese, a Constituição possibilita que Anne possa ser considerada
+brasileira nata caso venha a residir no Brasil e opte a qualquer tempo pela nacionalidade
+brasileira.
+
+LETRA B. INCORRETA. De forma alguma! Anne só será brasileira nata se vier a residir no Brasil e
+opte, após adquirida a maioridade, pela nacionalidade brasileira. Além disso, a Constituição
+proíbe a extradição do brasileiro nato, nos termos do art. 5º, inciso LI da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! Anne nasceu em território estrangeiros de pais
+brasileiros naturalizados, os quais perderam a sua naturalização após sua filha completar 18 anos
+de idade. Nesse caso, Anne pode ser considerada brasileira nata, se vier a residir no Brasil e
+escolher a qualquer tempo, após atingir a maioridade, pela nacionalidade brasileira.
+Consequentemente, nesse ocasião ela não poderá ser extraditada, já que a Constituição proíbe a
+extradição de brasileiro, conforme art. 12, inciso I, alínea “c” e art. 5º, inciso LI, ambos da
+CRFB/88:
+
+                            c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde
+                            que sejam registrados em repartição brasileira competente ou venham a
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              17
+           www.estrategiaconcursos.com.br                                                            36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+                         residir na República Federativa do Brasil e optem, em qualquer tempo,
+                         depois de atingida a maioridade, pela nacionalidade brasileira;
+
+                         Art. 5º da CRFB/88:
+
+                         LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de
+                         crime comum, praticado antes da naturalização, ou de comprovado
+                         envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da
+                         lei;
+
+LETRA D. INCORRETA. Anne não é estrangeira, mas sim brasileira nata, caso assim opte e venha
+a residir no Brasil. Além disso, pode ocorrer a extradição do brasileiro naturalizado no caso de
+comprovado envolvimento em tráfico ilícito de entorpecentes (art. 5º, inciso LI da CRFB/88).
+
+LETRA E, INCORRETA. Um indivíduo filho de pais brasileiros, que venha a nascer em território
+estrangeiro, caso não tenha sido registrado em repartição brasileira, é considerado brasileiro
+nato, caso venha a residir no Brasil, e opte, em qualquer tempo, após atingida a maioridade, pela
+nacionalidade brasileira.
+
+Gabarito: Letra C.
+
+6.​    (FGV/TRF 1ª Região/Analista Judiciário/2024) João, filho de Johan, alemão naturalizado
+brasileiro, e de Maria, espanhola naturalizada brasileira, nasceu quando seus pais se
+encontravam em solo belga a serviço da embaixada da França. Logo após alcançar a maioridade,
+ainda em solo belga, João consultou a Constituição da República Federativa do Brasil para
+verificar se teria a nacionalidade brasileira. Ao fim de suas reflexões, João concluiu corretamente
+que:
+
+a) é brasileiro nato;
+
+b) é brasileiro naturalizado;
+
+c) pode se naturalizar brasileiro caso comprove a residência no território brasileiro por um ano
+ininterrupto;
+
+d) pode optar pela nacionalidade brasileira a qualquer tempo, desde que venha a residir no
+território brasileiro;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              18
+        www.estrategiaconcursos.com.br                                                            36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+e) somente será considerado brasileiro nato se tiver sido registrado em repartição brasileira em
+solo belga.
+
+Comentários:
+
+LETRA A. INCORRETA. João ainda não é brasileiro nato, porque para adquiri-la, teria que residir
+no Brasil e a qualquer tempo, após atingida a maioridade escolher pela nacionalidade brasileira,
+de acordo com o art. 12, inciso I, alínea “c” da CRFB/88.
+
+LETRA D. INCORRETA. Claro que não! João nasceu de pais brasileiros, mas não foi registrado em
+repartição brasileira. No entanto, a Constituição possibilita que nesses casos, o indivíduo adquira
+a nacionalidade, se vier a residir no Brasil e a qualquer tempo, após fazer 18 anos, opte pela
+nacionalidade brasileira e nesse caso, será considerado brasileiro nato.
+
+LETRA C. INCORRETA. Essa hipótese é reservada para os estrangeiros originários de países de
+língua portuguesa, os quais nesse caso, são considerados brasileiros naturalizados, de acordo
+com o art. 12, inciso II, alínea “a” da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! João nasceu de pais brasileiros, mas não foi registrado
+em repartição brasileira, assim a Constituição possibilita que ele, residindo no Brasil, após atingir
+a maioridade, adquira a nacionalidade brasileira, se assim optar, de acordo com o art. 12, inciso I,
+alínea “c” da CRFB/88:
+
+                          Art. 12. São brasileiros:
+
+                         I - natos:
+
+                         c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde
+                         que sejam registrados em repartição brasileira competente ou venham a
+                         residir na República Federativa do Brasil e optem, em qualquer tempo,
+                         depois de atingida a maioridade, pela nacionalidade brasileira;
+
+LETRA E. INCORRETA. Mesmo não tendo sido registrado na repartição brasileira competente,
+ainda sim haverá a possibilidade do indivíduo se tornar um brasileiro nato. É necessário que
+venha a residir no Brasil e opte a qualquer tempo, após atingir a maioridade, pela nacionalidade
+brasileira, de acordo com o art. 12, inciso I, alínea “c” da CRFB/88
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              19
+        www.estrategiaconcursos.com.br                                                            36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+7.​      FGV/PM-RJ/Oficial/2024) Maria, brasileira nata, morava há muitos anos no exterior. No
+início deste mês, embora não tenha adquirido outra nacionalidade, formulou pedido expresso de
+perda da nacionalidade perante a autoridade brasileira competente, por entender que os seus
+laços com a República Federativa do Brasil, em uma perspectiva axiológica, tinham sido
+dissolvidos.
+
+Considerando os balizamentos oferecidos pela ordem constitucional, é correto afirmar, em
+relação ao pedido formulado, que:
+
+a) não pode ser acolhido, pois a nacionalidade brasileira é irrenunciável;
+
+b) a nacionalidade brasileira pode ser objeto de renúncia, sendo vedada a sua reaquisição;
+
+c) embora seja admitida a renúncia da nacionalidade brasileira, isso não é possível em relação a
+Maria;
+
+d) a nacionalidade brasileira pode ser objeto de renúncia, mas a sua reaquisição está sempre
+sujeita à discricionariedade da autoridade administrativa competente;
+
+e) a nacionalidade brasileira pode ser objeto de renúncia, mas Maria pode readquiri-la, o que
+ocorrerá em caráter derivado, com a naturalização, não em caráter originário.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, há previsão Constitucional quanto a renúncia da
+nacionalidade. Tal hipótese é permitida através de pedido expresso perante autoridade brasileira
+competente, salvo se resultar em apatridia, de acordo com o art.12, § 4º, inciso II da CRFB/88.
+
+LETRA B. INCORRETA. A nossa Constituição Federal permite a reaquisição da nacionalidade, não
+sendo a renúncia um fato impeditivo, de acordo com o art. 12, § 5º da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! A questão afirma que Maria ainda não adquiriu outra
+nacionalidade e deseja renunciar a sua nacionalidade brasileira. Nesse contexto, resultaria na
+condição de “apatridia”, que não é permitida pela Constituição Federal. Assim, mesmo que haja
+previsão Constitucional quanto à renúncia da nacionalidade brasileira, tal fato não pode ser
+aplicado a Maria, já que não cumpriu com os requisitos (art. 12, § 4º, inciso II da CRFB/88).
+
+LETRA D. INCORRETA. A Constituição permite a reaquisição da nacionalidade, no entanto deve
+seguir os requisitos da lei ordinária, de acordo com o art. 12, § 5º da CRFB/88:
+
+         Receita Federal (Analista Tributário) Direito Constitucional                             20
+         www.estrategiaconcursos.com.br                                                           36
+
+                                       
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+LETRA E. INCORRETA. A reaquisição da nacionalidade não ocorre através da naturalização, mas
+sim através da observância dos requisitos estabelecidos em lei formal (art. 12, § 5º da CRFB/88).
+
+Gabarito: Letra C.
+
+8.​       (FGV/TRF 1ª Região/Técnico Judiciário/2024) João, brasileiro nato e sem nenhuma outra
+nacionalidade, adquiriu uma convicção filosófica que valoriza a individualidade e é refratária a
+qualquer submissão ao poder originário de mando que é próprio do Estado de Direito. Por tal
+razão, formulou pedido de perda da nacionalidade brasileira à autoridade brasileira competente.
+
+O pedido de João, à luz da Constituição da República:
+
+a) deve ser acolhido, considerando o caráter disponível da nacionalidade;
+
+b) não pode ser acolhido, pois João somente tem a nacionalidade brasileira;
+
+c) deve ser acolhido, pois a objeção de consciência é reconhecida pela ordem constitucional;
+
+d)     pode ser acolhido, ou não, pela autoridade competente, conforme o interesse público
+subjacente ao pedido;
+
+e) não pode ser acolhido, pois a ordem constitucional considera a nacionalidade um direito
+indisponível, não admitindo pedidos dessa natureza.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, em razão de João não ter adquirido outra nacionalidade, a
+Constituição não permite a renúncia da nacionalidade brasileira, já que resultaria em apatridia, de
+acordo com o art. 12, § 4º, inciso II da CRFB/88.
+
+LETRA B. CORRETA. Exatamente! É o nosso gabarito! João apenas possui nacionalidade
+brasileira e, em razão disso, não pode renunciar à sua nacionalidade. Tal fato significaria a
+condição de apatridia, vedada pela Constituição Federal em seu art. 12, § 4º, inciso II:
+
+                            II - fizer pedido expresso de perda da nacionalidade brasileira perante
+                            autoridade brasileira competente, ressalvadas situações que acarretem
+                            apatridia.
+
+LETRA C. INCORRETA. A objeção de consciência não se aplica ao caso específico aduzido no
+enunciado. Além disso, o pedido de João não deve ser acolhido, já que ele não adquiriu outra
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          21
+           www.estrategiaconcursos.com.br                                                        36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+nacionalidade e a renúncia resultaria na apatridia, hipótese vedada pelo nosso Texto
+Constitucional.
+
+LETRA D. INCORRETA. De forma alguma! Caso venha a resultar em apatridia, a renúncia da
+nacionalidade brasileira é proibida de acordo com o art. 12, § 4º, inciso II da CRFB/88.
+
+LETRA E. INCORRETA. Claro que não! A renúncia da nacionalidade brasileira é admitida na
+Constituição Federal, desde que não resulte na apatridia, situação proibida de acordo com o art.
+12, 4º, inciso II da CRFB/88.
+
+Gabarito: Letra B.
+
+                                                         ==5460==
+
+9.​    (FGV/TRF 1ª Região/Analista Judiciário/2024) Maria nasceu no território brasileiro quando
+seus pais, Juan e Ane, de cidadania espanhola, ali se encontravam a serviço da embaixada
+espanhola. Após ter vivido por cinco anos no Brasil, mudou-se para a Austrália juntamente com
+seus pais, que passaram a atuar na iniciativa privada. Logo após atingir a maioridade, o que
+ocorreu em território australiano, foi condenada pela prática do crime de tráfico ilícito de
+substâncias entorpecentes, tendo fugido para o Brasil. Essa conduta redundou na formulação do
+seu pedido de extradição pelo governo australiano.
+
+À luz da sistemática constitucional, é correto afirmar que Maria é:
+
+a) estrangeira, sendo possível o deferimento da extradição;
+
+b) brasileira nata, o que obsta o deferimento da extradição;
+
+c) estrangeira, mas, caso se naturalize brasileira, não será possível a extradição;
+
+d) brasileira nata, mas a natureza do crime pelo qual foi condenada permite a sua extradição;
+
+e) estrangeira, salvo se optar pela nacionalidade brasileira, o que impedirá a extradição.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! Apesar de Maria ter nascido em solo brasileiro, seus
+pais estrangeiros estavam a serviço do país de origem, consequentemente é considerada
+estrangeira, sendo possível sua extradição (Art. 5º, inciso LI da CRFB/88).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            22
+        www.estrategiaconcursos.com.br                                                          36
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 05
+
+LETRA B. INCORRETA. Maria não é brasileira nata, mas sim estrangeira, tendo em vista que seus
+pais estrangeiros estavam no Brasil, a serviço do país de origem. Logo, pode ser extraditada ao
+seu país de origem, de acordo com o art. 12, inciso I, alínea “a” e art. 5º, inciso LI da CRFB/88.
+
+LETRA C. INCORRETA. Apesar de ser correto afirmar que, após a naturalização, a extradição por
+crimes cometidos antes desse processo é permitida em determinados fatos delituosos, essa
+alternativa não se aplica à situação de Maria, pois ela ainda não passou pela naturalização.
+
+LETRA D. INCORRETA. Maria não é brasileira nata, mas sim estrangeira e mesmo que fosse não
+poderia ser extraditada, já que a Constituição não permite a extradição de brasileiros natos, de
+acordo com o art. 12, inciso I, alínea “a” e art. 5º, inciso LI da CRFB/88.
+
+LETRA E. INCORRETA. De fato, Maria é estrangeira, mas apenas optar pela nacionalidade
+brasileira não impede a sua extradição, já que o crime praticado antes da naturalização é
+justificativa para ser extraditada, de acordo com o art. 5º, inciso LI da CRFB/88.
+
+Gabarito: Letra A.
+
+10.​ (FGV/DNIT/Analista Administrativo – Área Administrativa/2024) O princípio da
+nacionalidade, estabelecido na Constituição da República Federativa do Brasil de 1988
+configura-se como um dos elementos fundamentais que definem a relação jurídica entre o
+indivíduo e o Estado. Com relação à nacionalidade, analise os itens a seguir.
+
+I. Os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes
+não estejam a serviço de seu país, são brasileiros natos.
+
+II. Os nascidos no estrangeiro que, na forma da lei, adquiram a nacionalidade brasileira, são
+brasileiros natos.
+
+III. Os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles
+esteja a serviço da República Federativa do Brasil, são brasileiros natos.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              23
+           www.estrategiaconcursos.com.br                                                            36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+e) III, apenas.
+
+Comentários:
+
+Item I: CORRETO. Trata-se da atribuição originária na condição de brasileiro nato conferida pelo
+art. 12, inciso I, alínea “a” da CRFB/88.
+
+Item II: ERRADO. Não é uma condição atribuída pela Constituição para brasileiro nato. As
+hipóteses para nascidos nos estrangeiro estão previstas nas alíneas “b” e “c”.
+
+Itens III: CORRETO. Trata-se de uma hipótese que gera atribuição originária de nacionalidade
+para nascidos fora do Brasil. Vejamos o art. 12: “São brasileiros: I - natos: a) os nascidos na
+República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a
+serviço de seu país"”.
+
+Gabarito: Letra C.
+
+11.​ (FGV/TCE-PA/Técnico de Controle Externo – Área Administrativa/2024) Joana nasceu no
+território da República Dominicana quando seus pais, Allan, francês naturalizado brasileiro, e
+Eunice, de nacionalidade belga, ali se encontravam a serviço da embaixada da Espanha. Logo
+após o nascimento de Joana, Allan perdeu a nacionalidade brasileira por força de sentença
+judicial transitada em julgado. Ao completar dezoito anos de idade e já residindo no território
+brasileiro, Joana consultou um especialista para saber qual é a sua nacionalidade na perspectiva
+da Constituição da República de 1988. Foi corretamente esclarecido a Joana que ela é
+
+a) brasileira nata.
+
+b) brasileira naturalizada.
+
+c) estrangeira, mas pode optar a qualquer tempo pela nacionalidade brasileira.
+
+d) brasileira nata, desde que resida por quinze anos ininterruptos no território brasileiro.
+
+e) estrangeira, somente sendo possível adquirir a nacionalidade brasileira pelo processo regular
+de naturalização.
+
+Comentários:
+
+A questão trata da hipótese de um filho de brasileiro que nasceu fora do Brasil. No caso, Joana,
+pode vir a ser considerada brasileira nata desde que observe o art. 12, inciso I, alínea “c” da
+Constituição. Olha só:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           24
+        www.estrategiaconcursos.com.br                                                         36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+Art. 12. São brasileiros:
+
+I - natos:
+
+c) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira, desde que sejam registrados
+em repartição brasileira competente ou venham a residir na República Federativa do Brasil e
+optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira";
+
+Como o enunciado dizia que Joana completou 18 anos e estava residindo no Brasil, entende-se
+que ela é estrangeira, mas tem a possibilidade de se enquadrar na condição de brasileira nata
+(atribuição originária).
+
+“Ah...mas o pai dela perdeu a nacionalidade brasileira”. Então, a perda da nacionalidade
+brasileira ocorreu após o nascimento de Joana. A doutrina entende que a aferição da condição
+de nacionalidade dos pais é quando do nascimento. Ato posterior não influencia.
+
+Gabarito: Letra C.
+
+12.​   (FGV/TJ-AP/2024)
+
+Maria nasceu no território brasileiro quando seus pais, Juan e Belarmina, aqui se encontravam a
+serviço da embaixada da Espanha, país do qual eram nacionais. Pouco menos de cinco anos
+depois, passou a residir na Argentina juntamente com sua família, onde permaneceu até atingir a
+maioridade, o que ocorreu no último ano, momento em que passou a residir no Brasil.
+
+Maria é:
+
+a) brasileira nata;
+
+b) brasileira naturalizada;
+
+c) estrangeira, mas pode optar pela nacionalidade brasileira a qualquer tempo;
+
+d) estrangeira e irá adquirir a nacionalidade brasileira caso resida no Brasil por um ano
+ininterrupto, sem condenação penal, e requeira essa nacionalidade;
+
+e) estrangeira, sendo considerada brasileira naturalizada caso resida no Brasil por mais de quinze
+anos ininterruptos, sem condenação penal, e requeira essa nacionalidade.
+
+Comentários:
+
+LETRA A. INCORRETA. Maria é estrangeira, porque apesar de ter nascido no Brasil, seus pais
+estrangeiros estavam a serviço de seu país de origem, de acordo com o art. 12, I, a da CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           25
+        www.estrategiaconcursos.com.br                                                         36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+LETRA B. INCORRETA. Maria não é brasileira naturalizada, porque não cumpriu os requisitos
+estabelecidos no art. 12, II da CRFB/88.
+
+LETRA C. INCORRETA. Maria é estrangeira e poderá se tornar brasileira naturalizada, após
+cumprir os requisitos do art. 12, II da CRFB/88.
+
+LETRA D. INCORRETA. Não se aplica os referidos requisitos, porque Maria não é originária de
+um país de língua portuguesa.
+
+LETRA E. CORRETA. Apesar de Maria ter nascido em território brasileiro, seus pais são
+estrangeiros a serviço de seu país de origem. Logo, Maria é estrangeira, com base no art. 12, I, a
+da CRFB/88.
+
+                         Art. 12. São brasileiros:
+
+                         I - natos:
+
+                         a) os nascidos na República Federativa do Brasil, ainda que de pais
+                         estrangeiros, desde que estes não estejam a serviço de seu país.
+
+Maria é estrangeira, mas poderá se tornar brasileira naturalizada, após residir no país por mais de
+15 anos, de forma ininterrupta, não ter condenação criminal e requerer a naturalização, conforme
+o art. 12, II, b da CRFB/88.
+
+                         Art. 12. São brasileiros:
+
+                         II - naturalizados:
+
+                         b) os estrangeiros de qualquer nacionalidade, residentes na República
+                         Federativa do Brasil há mais de quinze anos ininterruptos e sem condenação
+                         penal, desde que requeiram a nacionalidade brasileira.
+
+Gabarito: Letra E.
+
+13.​ (FGV/TJ-AP/2024)Maria nasceu em território brasileiro quando seus pais, Andrea e
+Patrícia, cidadãos italianos, aqui se encontravam a serviço de uma multinacional italiana. Logo
+após o nascimento, Maria dirigiu-se com a família para o exterior, vindo a renunciar à cidadania
+brasileira. Após esses acontecimentos, Maria foi acusada da prática de crime em determinado
+país europeu, tendo fugido para o Brasil, o que levou o referido país a requerer a sua
+extradição.
+
+Considerando os balizamentos dessa narrativa, é correto afirmar, na perspectiva exclusivamente
+da Constituição da República, que:
+
+a) Maria somente pode ser extraditada caso seja acusada de atos de terrorismo ou de tráfico
+ilícito de entorpecentes;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            26
+        www.estrategiaconcursos.com.br                                                          36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+b) como o crime foi praticado no exterior, a extradição é possível independentemente da
+nacionalidade de Maria;
+
+c) como Maria jamais foi brasileira, não poderia renunciar a essa nacionalidade, sendo possível a
+sua extradição;
+
+d) a reaquisição da nacionalidade brasileira é possível, desde que sejam observados os termos da
+lei;
+
+e) a cidadania brasileira é irrenunciável, logo, Maria não pode ser extraditada em nenhuma
+hipótese.
+
+Comentários:
+
+LETRA A. INCORRETA. Quando a pessoa renuncia à sua nacionalidade brasileira, ela perde os
+direitos e deveres advindos dessa nacionalidade. Logo, na referida situação, Maria poderia ser
+extraditada.
+
+LETRA B. INCORRETA. Se Maria fosse brasileira nata, não poderia ser extraditada. Logo, não é
+correto afirmar que a extradição independe da nacionalidade.
+
+LETRA C. INCORRETA. Maria foi considerada brasileira nata, porque nasceu no Brasil, sendo
+possível renunciar à nacionalidade, nos termos do art. 12, §4º da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! Maria nasceu em território brasileiro e seus pais
+estrangeiros não estavam a serviço do país de origem, assim Maria foi considerada brasileira
+nata. Mesmo que em momento anterior tenha renunciado a nacionalidade brasileira, poderá
+readquiri-la, nos termos do art. 12, §5º da CRFB/88. “A renúncia da nacionalidade, nos termos
+do inciso II do § 4º deste artigo, não impede o interessado de readquirir sua nacionalidade
+brasileira originária, nos termos da lei”.
+
+LETRA E. INCORRETA. É possível a renúncia da nacionalidade brasileira, devendo ser feita nos
+termos do art. 12, § 4º, inciso II da CRFB/88.
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          27
+        www.estrategiaconcursos.com.br                                                        36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+                                         LISTA DE QUESTÕES
+
+Nacionalidade
+
+1.​     (FGV/PC-MG/Médico Legista/2025) Maria, de nacionalidade austríaca, encontra-se no
+território brasileiro desde meados do último ano. Em razão de sua integração, ainda que
+temporária, à sociedade brasileira, buscou se inteirar em relação aos direitos fundamentais de
+estatura constitucional que possui.
+
+Após analisar a Constituição da República, Maria concluiu corretamente que
+
+A) tem os mesmos direitos dos brasileiros natos.
+
+B) tem os mesmos direitos dos brasileiros naturalizados.
+
+C) não tem sua esfera jurídica alcançada pelos direitos fundamentais.
+
+D) possui os direitos fundamentais não privativos de brasileiros, natos ou naturalizados.
+
+E) tem os direitos fundamentais assegurados no ato que admitiu sua residência no território
+nacional.
+
+2.​    (FGV/PC-MG/Delegado/2025) Após o devido processo legal, João foi condenado, em
+sentença transitada em julgado, pela prática de crime de tráfico ilícito de substâncias
+entorpecentes no território italiano. Na época do seu nascimento, fato ocorrido no território
+brasileiro, seu pai, italiano, e sua mãe, espanhola, encontravam-se no Brasil a serviço da
+embaixada da Espanha. Dois anos após o nascimento, o casal e João passaram a morar na Itália,
+situação que permaneceu inalterada por trinta anos, perdurando até três meses atrás, quando
+João passou a residir no território brasileiro. Por essa razão, o governo italiano requereu a sua
+extradição à República Federativa do Brasil.
+
+A extradição requerida, após as medidas possíveis a cargo de João, deve ser
+
+a) deferida, o que decorre da natureza do crime pelo qual João foi condenado, conclusão que
+independe de o extraditando ser brasileiro, ou não.
+
+b) deferida, considerando que João é estrangeiro e somente pode adquirir a nacionalidade
+brasileira pelo processo regular de naturalização.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           28
+        www.estrategiaconcursos.com.br                                                         36
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+c) indeferida, considerando que João é brasileiro nato, em razão do critério do jus soli, não
+podendo ser extraditado.
+
+d) indeferida, caso João tenha sido registrado em repartição brasileira antes de se mudar para a
+Itália.
+
+e) deferida, salvo se João optar pela nacionalidade brasileira, o que a obstará.
+
+3.​       (FGV/TCE-PA/Auditor de Controle Externo/2024) Joana, de nacionalidade austríaca,
+embora nunca tenha estado no território brasileiro, tinha grande ligação sentimental com a
+cultura brasileira. Para sua surpresa, ao completar dezoito anos de idade, foi informada por sua
+mãe que tinha nascido no território brasileiro quando seus pais aqui se encontravam a serviço de
+uma multinacional austríaca. Seus pais são Marie, de nacionalidade austríaca, e João, que tinha
+renunciado à nacionalidade brasileira, em momento anterior ao nascimento de Joana, e se
+naturalizado austríaco. Ao analisar se teria algum liame com a República Federativa do Brasil,
+Joana concluiu corretamente que é
+
+a) brasileira nata.
+
+b)     estrangeira e somente pode adquirir a nacionalidade brasileira pelo processo regular de
+naturalização.
+
+c) estrangeira, mas pode adquirir a nacionalidade brasileira nata caso venha a residir no território
+brasileiro e opte por ela.
+
+d) estrangeira, mas pode se naturalizar brasileira caso venha a residir no território brasileiro por
+um ano e tenha idoneidade moral.
+
+e) estrangeira, mas será considerada brasileira nata se João formular requerimento nesse sentido
+à autoridade competente.
+
+4.​       (FGV/TCE-PA/Auditor de Controle Externo/2024) Pedro, nascido em Timor-Leste, tinha
+grande familiaridade com a cultura brasileira, o que era facilitado pelo fato de a língua
+portuguesa ser uma das línguas oficiais. Após residir um ano no território brasileiro, período em
+que frequentou um curso de graduação em uma universidade pública, decidiu se naturalizar
+brasileiro.
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          29
+           www.estrategiaconcursos.com.br                                                        36
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+É correto afirmar, à luz da Constituição da República, que Pedro
+
+a) já adquiriu a nacionalidade brasileira.
+
+b) também deve apresentar idoneidade moral para obter êxito no pedido de naturalização.
+
+c) deve cumprir os requisitos aplicáveis à generalidade dos estrangeiros para se naturalizar.
+
+d) precisa residir por quinze anos ininterruptos no território brasileiro e sem condenação criminal.
+
+e) possui a quase-nacionalidade brasileira, desde que haja reciprocidade em favor dos brasileiros
+em Timor-Leste.
+
+5.​       (FGV/EPE/Advogado/2024) Pascoal e Marie, ambos de nacionalidade francesa e que se
+naturalizaram brasileiros, se encontravam em território belga, a serviço de uma fábrica chinesa
+de conectores, quando Anne, fruto da união do casal, nasceu. Logo após o nascimento de Anne,
+ocorreu o cancelamento da naturalização de Pascoal e Marie por força de sentença judicial
+transitada em julgado.
+
+Anne, que estava residindo na França, quando completou vinte anos de idade, foi condenada
+pela prática de tráfico ilícito de substâncias entorpecentes, mas conseguiu fugir para o território
+brasileiro logo em seguida, passando a nele residir em caráter permanente. Ato contínuo, foi
+requerida a extradição de Anne.
+
+À luz da sistemática constitucional, é correto afirmar que Anne
+
+a) é brasileira nata, logo, não pode ser extraditada.
+
+b) é brasileira nata e pode ser extraditada, considerando o crime praticado.
+
+c) caso opte pela nacionalidade brasileira, não poderá ser extraditada.
+
+d) embora seja estrangeira, não pode ser extraditada, considerando a natureza do crime
+praticado.
+
+e)     somente terá reconhecida a nacionalidade brasileira nata caso tenha sido registrada em
+repartição brasileira competente na Bélgica, o que obstará a extradição.
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           30
+           www.estrategiaconcursos.com.br                                                         36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+6.​      (FGV/TRF 1ª Região/Analista Judiciário/2024) João, filho de Johan, alemão naturalizado
+brasileiro, e de Maria, espanhola naturalizada brasileira, nasceu quando seus pais se
+encontravam em solo belga a serviço da embaixada da França. Logo após alcançar a maioridade,
+ainda em solo belga, João consultou a Constituição da República Federativa do Brasil para
+verificar se teria a nacionalidade brasileira. Ao fim de suas reflexões, João concluiu corretamente
+que:
+
+a) é brasileiro nato;
+
+b) é brasileiro naturalizado;
+
+c) pode se naturalizar brasileiro caso comprove a residência no território brasileiro por um ano
+ininterrupto;
+
+d) pode optar pela nacionalidade brasileira a qualquer tempo, desde que venha a residir no
+território brasileiro;
+
+e) somente será considerado brasileiro nato se tiver sido registrado em repartição brasileira em
+solo belga.
+
+7.​      FGV/PM-RJ/Oficial/2024) Maria, brasileira nata, morava há muitos anos no exterior. No
+início deste mês, embora não tenha adquirido outra nacionalidade, formulou pedido expresso de
+perda da nacionalidade perante a autoridade brasileira competente, por entender que os seus
+laços com a República Federativa do Brasil, em uma perspectiva axiológica, tinham sido
+dissolvidos.
+
+Considerando os balizamentos oferecidos pela ordem constitucional, é correto afirmar, em
+relação ao pedido formulado, que:
+
+a) não pode ser acolhido, pois a nacionalidade brasileira é irrenunciável;
+
+b) a nacionalidade brasileira pode ser objeto de renúncia, sendo vedada a sua reaquisição;
+
+c) embora seja admitida a renúncia da nacionalidade brasileira, isso não é possível em relação a
+Maria;
+
+d) a nacionalidade brasileira pode ser objeto de renúncia, mas a sua reaquisição está sempre
+sujeita à discricionariedade da autoridade administrativa competente;
+
+         Receita Federal (Analista Tributário) Direito Constitucional                           31
+         www.estrategiaconcursos.com.br                                                         36
+
+                                       
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 05
+
+e) a nacionalidade brasileira pode ser objeto de renúncia, mas Maria pode readquiri-la, o que
+ocorrerá em caráter derivado, com a naturalização, não em caráter originário.
+
+8.​       (FGV/TRF 1ª Região/Técnico Judiciário/2024) João, brasileiro nato e sem nenhuma outra
+nacionalidade, adquiriu uma convicção filosófica que valoriza a individualidade e é refratária a
+qualquer submissão ao poder originário de mando que é próprio do Estado de Direito. Por tal
+razão, formulou pedido de perda da nacionalidade brasileira à autoridade brasileira competente.
+
+O pedido de João, à luz da Constituição da República:
+
+a) deve ser acolhido, considerando o caráter disponível da nacionalidade;
+                                                            ==5460==
+
+b) não pode ser acolhido, pois João somente tem a nacionalidade brasileira;
+
+c) deve ser acolhido, pois a objeção de consciência é reconhecida pela ordem constitucional;
+
+d)     pode ser acolhido, ou não, pela autoridade competente, conforme o interesse público
+subjacente ao pedido;
+
+e) não pode ser acolhido, pois a ordem constitucional considera a nacionalidade um direito
+indisponível, não admitindo pedidos dessa natureza.
+
+9.​       (FGV/TRF 1ª Região/Analista Judiciário/2024) Maria nasceu no território brasileiro quando
+seus pais, Juan e Ane, de cidadania espanhola, ali se encontravam a serviço da embaixada
+espanhola. Após ter vivido por cinco anos no Brasil, mudou-se para a Austrália juntamente com
+seus pais, que passaram a atuar na iniciativa privada. Logo após atingir a maioridade, o que
+ocorreu em território australiano, foi condenada pela prática do crime de tráfico ilícito de
+substâncias entorpecentes, tendo fugido para o Brasil. Essa conduta redundou na formulação do
+seu pedido de extradição pelo governo australiano.
+
+À luz da sistemática constitucional, é correto afirmar que Maria é:
+
+a) estrangeira, sendo possível o deferimento da extradição;
+
+b) brasileira nata, o que obsta o deferimento da extradição;
+
+c) estrangeira, mas, caso se naturalize brasileira, não será possível a extradição;
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         32
+           www.estrategiaconcursos.com.br                                                       36
+
+                                         
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 05
+
+d) brasileira nata, mas a natureza do crime pelo qual foi condenada permite a sua extradição;
+
+e) estrangeira, salvo se optar pela nacionalidade brasileira, o que impedirá a extradição.
+
+10.​ (FGV/DNIT/Analista Administrativo – Área Administrativa/2024) O princípio da
+nacionalidade, estabelecido na Constituição da República Federativa do Brasil de 1988
+configura-se como um dos elementos fundamentais que definem a relação jurídica entre o
+indivíduo e o Estado. Com relação à nacionalidade, analise os itens a seguir.
+
+I. Os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes
+não estejam a serviço de seu país, são brasileiros natos.
+
+II. Os nascidos no estrangeiro que, na forma da lei, adquiram a nacionalidade brasileira, são
+brasileiros natos.
+
+III. Os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que qualquer deles
+esteja a serviço da República Federativa do Brasil, são brasileiros natos.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) III, apenas.
+
+11.​ (FGV/TCE-PA/Técnico de Controle Externo – Área Administrativa/2024) Joana nasceu no
+território da República Dominicana quando seus pais, Allan, francês naturalizado brasileiro, e
+Eunice, de nacionalidade belga, ali se encontravam a serviço da embaixada da Espanha. Logo
+após o nascimento de Joana, Allan perdeu a nacionalidade brasileira por força de sentença
+judicial transitada em julgado. Ao completar dezoito anos de idade e já residindo no território
+brasileiro, Joana consultou um especialista para saber qual é a sua nacionalidade na perspectiva
+da Constituição da República de 1988. Foi corretamente esclarecido a Joana que ela é
+
+a) brasileira nata.
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         33
+           www.estrategiaconcursos.com.br                                                       36
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+b) brasileira naturalizada.
+
+c) estrangeira, mas pode optar a qualquer tempo pela nacionalidade brasileira.
+
+d) brasileira nata, desde que resida por quinze anos ininterruptos no território brasileiro.
+
+e) estrangeira, somente sendo possível adquirir a nacionalidade brasileira pelo processo regular
+de naturalização.
+
+12.​   (FGV/TJ-AP/2024)
+
+Maria nasceu no território brasileiro quando seus pais, Juan e Belarmina, aqui se encontravam a
+serviço da embaixada da Espanha, país do qual eram nacionais. Pouco menos de cinco anos
+depois, passou a residir na Argentina juntamente com sua família, onde permaneceu até atingir a
+maioridade, o que ocorreu no último ano, momento em que passou a residir no Brasil.
+
+Maria é:
+
+a) brasileira nata;
+
+b) brasileira naturalizada;
+
+c) estrangeira, mas pode optar pela nacionalidade brasileira a qualquer tempo;
+
+d) estrangeira e irá adquirir a nacionalidade brasileira caso resida no Brasil por um ano
+ininterrupto, sem condenação penal, e requeira essa nacionalidade;
+
+e) estrangeira, sendo considerada brasileira naturalizada caso resida no Brasil por mais de quinze
+anos ininterruptos, sem condenação penal, e requeira essa nacionalidade.
+
+13.​   (FGV/TJ-AP/2024)
+
+Maria nasceu em território brasileiro quando seus pais, Andrea e Patrícia, cidadãos italianos, aqui
+se encontravam a serviço de uma multinacional italiana. Logo após o nascimento, Maria
+dirigiu-se com a família para o exterior, vindo a renunciar à cidadania brasileira. Após esses
+acontecimentos, Maria foi acusada da prática de crime em determinado país europeu, tendo
+fugido para o Brasil, o que levou o referido país a requerer a sua extradição.
+
+Considerando os balizamentos dessa narrativa, é correto afirmar, na perspectiva exclusivamente
+da Constituição da República, que:
+
+a) Maria somente pode ser extraditada caso seja acusada de atos de terrorismo ou de tráfico
+ilícito de entorpecentes;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            34
+        www.estrategiaconcursos.com.br                                                          36
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 05
+
+b) como o crime foi praticado no exterior, a extradição é possível independentemente da
+nacionalidade de Maria;
+
+c) como Maria jamais foi brasileira, não poderia renunciar a essa nacionalidade, sendo possível a
+sua extradição;
+
+d) a reaquisição da nacionalidade brasileira é possível, desde que sejam observados os termos da
+lei;
+
+e) a cidadania brasileira é irrenunciável, logo, Maria não pode ser extraditada em nenhuma
+hipótese.
+
+
+                                                   GABARITO
+                                                       1.​ LETRA D
+                                                       2.​ LETRA C
+                                                       3.​ LETRA A
+                                                       4.​ LETRA B
+                                                       5.​ LETRA C
+                                                       6.​ LETRA D
+                                                       7.​ LETRA C
+                                                       8.​ LETRA B
+                                                       9.​ LETRA A
+                                                       10.​LETRA C
+                                                       11.​LETRA C
+                                                       12.​LETRA E
+                                                       13.​LETRA D
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          35
+        www.estrategiaconcursos.com.br                                                        36
+
+                                      
+
+
+---
+
+---

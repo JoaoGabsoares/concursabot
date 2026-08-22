@@ -1,0 +1,841 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Temas Especiais de
+---
+
+# Temas Especiais de
+
+---
+
+Temas Especiais de
+   Português
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+CADERNO 19
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Polissemia
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Consiste em atribuir a uma única palavra várias significações, que compartilham
+uma origem etimológica comum.
+
+Ex.:
+Planta (substantivo):
+
+1. parte inferior dos pés.
+Ex.: Sentia dor na planta dos pés.
+
+2. vegetal.
+Ex.: A planta deve receber luz.
+
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+13. INSTITUTO AOCP - 2023 - IF-MA - Professor EBTT
+Em “Pelo jeito o tempo também precisa de um tempo para se ajustar nestes tempos
+desajustados.”, há um jogo linguístico com a palavra “tempo(s)”.
+
+Esse jogo se constrói a partir de qual relação semântica?
+
+A) Sinonímia.
+B) Antonímia.
+C) Paronímia
+D) Homonímia.
+E) Polissemia.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. OBJETIVA - 2023 - Prefeitura de Itabuna - BA - Assistente
+Administrativo
+As seguintes alternativas apresentam exemplos de polissemia, que é quando a
+palavra tem mais de um significado, EXCETO:
+
+A) A vela do barco não se apaga.
+B) Tudo é passageiro. Menos o motorista e o cobrador.
+C) A cesta estava cheia de frutos recém-colhidos.
+D) Você sabe jogar damas?
+E) Na vida, tudo passa. Até a uva-passa.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+15. FGV - IBGE - Analista - Processos Administrativos e Disciplinares
+
+A polissemia – possibilidade de uma palavra ter mais de um sentido – está presente
+em todas as frases abaixo, EXCETO em:
+
+
+A) Não deixe para amanhã o que pode fazer hoje;
+
+B) CBN: a rádio que toca a notícia;
+
+C) Na vida tudo é passageiro, menos o motorista;
+
+D) Os dentes do pente mordem o couro cabeludo;
+
+E) Os surdos da bateria não escutam o próprio barulho.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+16. FGV - 2022 - TCE-TO - Analista Técnico
+
+A frase abaixo cuja estruturação apela para a polissemia de um vocábulo, é:
+
+
+A) O sábio lê livros, mas também a vida;
+
+B) Jornalismo consiste em comprar papel branco a dois centavos e vendê-lo a dez;
+
+C) Bebendo-se um pouco de vinho, a inteligência aparece;
+
+D) Quanto mais dividimos os obstáculos, mais fácil é vencê-los;
+
+E) Champanhe: borbulhas espumantes, brancas como as pérolas de Cleópatra.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+17. FGV - 2022 - TRT - 16ª REGIÃO (MA) - Técnico Judiciário
+
+Em quatro das frases abaixo há polissemias intencionais, relacionadas à empresa
+responsável por elas; assinale a única frase isenta de polissemia.
+
+
+A) (Jornal) Notícia e cafezinho devem ser quentes.
+
+B) (Restaurante) Aqui levamos a massa em consideração.
+
+C) (Empresa de ônibus) A vida é passageira.
+
+D) (Delegacia) Estamos presos ao dever.
+
+E) (Banco) Nossa fé nunca nos abandona.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+18. FGV - 2022 - TCE-TO - Auditor de Controle Externo
+
+Em algumas frases, os seus autores jogaram com o significado polissêmico de
+palavras; a opção em que essa estratégia foi empregada é:
+
+
+A) Os espelhos fariam muito bem em refletir um pouco antes de mostrar as
+imagens;
+
+B) Saudade é a presença da ausência;
+
+C) Originalidade não consiste apenas em fazer as coisas de forma diferente, mas
+também em fazê-las melhor;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+18. FGV - 2022 - TCE-TO - Auditor de Controle Externo
+
+
+D) Há três maneiras de fazer as coisas: a maneira errada, a maneira certa e uma
+maneira melhor;
+
+E) Eu quase nada sei, mas desconfio de muita coisa.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+19. FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+A maioria dos vocábulos possui mais de um sentido e essa polissemia permite que
+se construam frases com jogo de palavras.
+
+Assinale a opção em que não se empregou essa estratégia de jogo de palavras.
+
+A) O grosso livro de receitas não abria o apetite para sua leitura.
+B) A bailarina dançou no emprego, pois nunca chegava na hora.
+C) Os políticos estão nervosos pela proximidade das eleições.
+D) Os delitos do dentista caíram na boca do povo.
+E) O botânico tinha uma imensa folha corrida na polícia.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+20. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+
+Analise a frase a seguir.
+
+“O conceito ‘bom’ tem muitos significados. Por exemplo, se um homem acertasse
+sua avó a uma boa distância, ele seria um bom atirador, mas não necessariamente
+um bom homem.”
+
+Assinale a opção que apresenta uma característica da linguagem dessa frase.
+
+A) a polissemia.
+B) a ambiguidade.
+C) a redundância.
+D) o paralelismo.
+E) a expressividade.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+21. FGV - 2023 - SEFAZ-MG - Auditor Fiscal da Receita Estadual
+A maioria das palavras mostra vários significados (polissemia), o que também ocorre
+com as preposições.
+
+Indique a frase em que a preposição PARA tem seu significado corretamente
+indicado.
+
+A) Meu sonho é ir para a Europa / finalidade.
+B) Saiu para comprar roupas de frio / direção.
+C) Estava para sair quando chegaram as visitas / proximidade.
+D) O ônibus era para cinquenta passageiros / interesse.
+E) Para os pássaros, o canto faz parte da vida / destinação.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+22. CESPE / CEBRASPE - 2018 - IFF - Professor - Letras
+“O que os poetas produzem corresponde a uma dimensão mais profunda da
+realidade social ; algo que acessam como quem adentra um banco de experiências
+transistóricas. O poema estabelece um jogo complexo de palavras que promovem e
+interditam sentidos e experiências que ligam autor e leitor ,e também ambos ao
+mundo social. Como quem se senta em um banco de praça…”
+
+Em relação a aspectos linguísticos do texto, julgue o item subsequente.
+
+No texto , o emprego da palavra “banco” destacada exemplifica o fenômeno
+denominado “polissemia”, pois apresenta um sentido para cada uma de suas
+ocorrências.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+23. CESPE / CEBRASPE - 2022 - MPC-SC - Analista de Contas Públicas
+Texto CB1A1-II
+
+ A palavra “corrupção” tem origem nas palavras latinas corruptio e corrumpere, que
+indicam algo que foi corrompido, deturpado. Por ela ser um termo polissêmico,
+entendemos que a sua história conceitual é incerta. É usual o tratamento da
+corrupção sob uma perspectiva moralista, como algo resultante da falta de caráter
+dos indivíduos. Contudo, tal abordagem não apresenta validade científica, já que
+moral é um atributo individual, dotado de subjetividade e culturalmente
+circunscrito.
+
+(...)
+
+    Luiz Fernando Vasconcellos de Miranda. Corrupção: debate conceitual. In: Cláudio André de
+        Souza (org). Dicionário das eleições. Curitiba: Juruá, 2020, p. 209-210 (com adaptações).
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+23. CESPE / CEBRASPE - 2022 - MPC-SC - Analista de Contas Públicas
+
+No primeiro parágrafo, o vocábulo “polissêmico” diz respeito à multiplicidade de
+significados da palavra ‘corrupção’.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Ambiguidade
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Duplicidade de sentidos que uma palavra pode apresentar. Pode ser:
+
+• Lexical: palavra de sentidos diferentes que,mesmo em um contexto, nem
+  sempre conseguimos compreender com precisão seu significado.
+
+Ex.: O cachorro do meu vizinho causa problemas sempre.
+
+• Estrutural: ocorre quando a posição das palavras numa oração pode resultar
+  numa oração com sentido impreciso.
+
+a) Mau uso da coordenação
+
+Ex.: Botafogo E Vasco jogam neste domingo. (O Botafogo joga contra o Vasco ou
+cada um contra seu respectivo adversário?)
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+b) Mau uso da forma nominal (gerúndio / particípio)
+
+Ex.: A garota viu o vizinho CORRENDO (quem estava correndo? A pessoa que viu ou
+o vizinho?)
+
+c) Mau uso do pronome (relativo / possessivo)
+
+Ex.: Peguei emprestada a roupa da minha amiga QUE é muito bonita. ( muito bonita
+é a roupa ou a minha amiga?)
+
+João pediu a Carlos para pegar SEUS livros. (pegar os livros de João ou de Carlos?)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+d) Má colocação dos termos: diz respeito à estrutura da oração, à ordem em que os
+elementos aparecem.
+
+Ex.: Comprou o carro RÁPIDO. ( o carro era rápido ou ele comprou rapidamente o
+carro?)
+
+e) Indefinição entre agente e paciente: quando o termo preposicionado dá início a
+uma expressão que pode funcionar como adjunto adnominal ( = ideia ativa) ou
+complemento nominal ( = ideia passiva)
+
+Ex.: A lembrança DE MEU PAI alegrou-me. (foi o meu pai que se lembrou de algo -
+ideia ativa - ou o meu pai me veio ao pensamento - ideia passiva - e essa lembrança
+me alegrou?)
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+III. Use o código abaixo para identificar a natureza da ambiguidade
+(estrutural ou lexical) das frases apresentadas.
+
+(1) Mau uso da coordenação
+(2) Mau uso das formas nominais
+(3) Má colocação dos termos
+(4) Má colocação dos pronomes
+(5) Indefinição entre agente e paciente
+(6) Imprecisão do vocábulo
+
+1.A mãe viu o filho chegando em casa bem tarde. ( )
+
+2. O professor de Maria terminou a aula fazendo apontamentos no seu caderno. ( )
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+3. Falei com a chefe que estava com vertigem. ( )
+
+4. João e Maria se casaram. ( )
+
+5. Chamar os bombeiros já ficou na moda.( )
+
+6. A mala foi encontrada perto do banco. ( )
+
+7. A criação da instituição demorou mais do que se esperava. ( )
+
+8. Júlio conversou com Paulo sentado no muro. ( )
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+24. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Leia os textos seguintes para responder à questão.
+
+(a) Uma pesquisa com 600 crianças e adolescentes mostra que a publicidade tem
+função pedagógica – e prova que a garotada vê comerciais com um inteligente
+ceticismo.
+
+
+(b) Morador de Bruxelas, morto em junho, teria contraído bactéria resistente a
+antibióticos no país asiático após o acidente e a hospitalização.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+24. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Assinale as seguintes afirmações sobre os textos.
+
+I. No trecho “a garotada vê comerciais com um inteligente ceticismo", do texto (a),
+existe uma ambiguidade, porque tanto se pode pensar em “com um inteligente
+ceticismo" como atributo dos comerciais, quanto como uma maneira de se ver os
+comerciais.
+
+II. No texto (b) há também uma ambiguidade, porque não se sabe com certeza se o
+morador de Bruxelas contraiu a bactéria “no país asiático" ou se a bactéria é
+resistente a antibióticos “no país asiático".
+
+III. Se o trecho “com um inteligente ceticismo", do texto (a), for deslocado para
+antes da palavra “comerciais", desaparece a ambiguidade.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+24. VUNESP - CREMESP - Administrador de Banco de Dados
+
+Está correto o que se afirma em
+
+A) I, II e III.
+B) I e II, apenas.
+C) III, apenas.
+D) II e III, apenas.
+E) I, apenas.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+25. FUMARC - 2023 - AL-MG - Analista Legislativo
+
+No dicionário de Joaquim Mattoso Camara Jr, encontra-se o seguinte significado de
+ambiguidade: “Circunstância de uma comunicação linguística se prestar a mais de
+uma interpretação.” [CAMARA JR. Dicionário de Linguística e Gramática referente à
+Língua Portuguesa. 28. ed. Petrópolis (RJ): Vozes, 2011]
+Faça a associação correta entre as duas colunas, relacionando o tipo de
+ambiguidade e a sentença que a exemplifica.
+
+1. Ambiguidade pelo uso de pronomes possessivos na terceira pessoa 2.
+Ambiguidade relacionada ao uso de formas nominais 3. Ambiguidade entre
+pronome relativo e conjunção integrante. 4. Ambiguidade pela colocação
+inadequada de sintagmas.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+25. FUMARC - 2023 - AL-MG - Analista Legislativo
+
+a) Assistente social nega que menor fugiu de sua casa. b) A mãe cansada saiu
+apressada do trabalho. c) Rita avisou a Clarice que estava terminando o trabalho. d)
+O garoto mal-humorado resmungou durante o treino.
+
+A associação CORRETA entre números e letras é:
+
+A) 1a; 2b; 3c; 4d.
+B) 1b; 2a; 3d; 4c.
+C) 1c; 2b; 3c; 4d.
+D) 1d; 2c; 3b; 4a.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+26. CESGRANRIO - Caixa - Técnico Bancário
+Sendo a clareza um requisito básico da escrita, a seguinte frase NÃO apresenta
+ambiguidade, estando apta a figurar em um texto oficial:
+
+
+A) A empresa que investe em seus funcionários cuida de seu equilíbrio financeiro.
+
+B) O economista discutiu com o presidente da empresa, em sua sala, a melhor forma
+de gerir os negócios.
+
+C) O nível de educação financeira da população, que cresceu muito nos últimos
+anos, é o tema da próxima palestra.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+26. CESGRANRIO - Caixa - Técnico Bancário
+
+
+D) O diretor da escola comunicou ao professor que ele ofereceria um curso de
+educação financeira para a comunidade escolar.
+
+E) Depois de ler o edital e seu anexo, o gestor solicitou a alteração deste.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+27. FCC - TRT - 11ª Região (AM e RR) - Analista Judiciário
+A frase em que NÃO há ambigüidade de sentido é:
+
+A) Esse é o tipo de técnico de um time que ninguém deseja que se torne campeão.
+
+B) Ele é o autor de romance que faz enorme sucesso junto ao público feminino.
+
+C) A razão que ela me deu para ingressar em sua associação só me fez desconfiar
+ainda mais dela.
+
+D) Gostaria que você consultasse sua mãe, antes de ceder sua chácara por ocasião
+da nossa formatura.
+
+E) Quando ela me entregou a carta, percebi logo que as notícias não deviam ser as
+mais alvissareiras.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+28. FCC - - TRE-AM - Técnico Judiciário - Área Administrativa
+A frase que não apresenta ambiguidade é:
+
+A) O coordenador informou ao grupo que sua proposta não tinha sido aceita.
+
+B) A briga entre Pedro e Miguel foi séria, por isso lhe disse que era melhor não
+insistir na viagem.
+
+C) De presente de aniversário, a menina pediu muito ousada fantasia de fada.
+
+D) Ator e diretor se desentenderam, mas, posteriormente, o ator reconheceu suas
+próprias falhas.
+
+E) Maria assinou o projeto e o orçamento, cujo prazo de entrega estava se
+esgotando.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+29. FGV - 2023 - SME - SP - Professor de Educação Infantil
+Um dos problemas mais encontrados na língua escrita é o da produção de
+ambiguidades, gerando mau entendimento de um texto.
+
+Assinale a opção que apresenta a frase que não mostra qualquer ambiguidade.
+
+A) Quando apoiamos a garrafa sobre a mesa, partiu-se em duas partes.
+B) Eles são representantes de jogadores talentosos.
+C) Necessito de um bom detergente para minha roupa biodegradável.
+D) Escolheu uma moto rápido.
+E) Não os aceitaram no clube por seus preconceitos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+30. FGV - 2023 - Prefeitura de Niterói - RJ - Agente Administrativo
+ “O que agora é provado foi uma vez apenas imaginado.”
+
+Nesta frase, a expressão “uma vez” cria ambiguidade, pois pode ser lida junto ao
+primeiro bloco ou ao segundo, com sentidos diferentes.
+
+Esse tipo de ambiguidade ocorre também em
+
+A) “Pagar o IPVA já custa mais barato.”
+B) “Falei com Pedro e Júlia, mas não entrei em sua casa.”
+C) “Todos chegaram na hora marcada, menos ela.”
+D) “Ela, revoltada, pegou a carta e jogou-a no chão.”
+E) “Ficaram todas satisfeitas com a nomeação do Ministro.”
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+31. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+“Os homens prudentes, pelos casos passados e pelos presentes, julgam os que estão
+por vir.”
+
+Essa frase pode apresentar ambiguidade, já que o segmento “os que estão por vir”
+pode referir-se a “homens” ou a “casos”.
+
+A frase abaixo em que há uma ambiguidade possível é:
+
+A) Para quem é pouca coisa, basta-lhe pouca coisa;
+B) Convicções são mais perigosas para a verdade do que as mentiras;
+C) A ironia é uma tristeza que não pode chorar e rir;
+D) O covarde e o corajoso mostram o seu medo;
+E) Eu achei que estava errado uma vez, e estava mesmo errado.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+32. FGV - TJ-RS - Oficial de Justiça
+A frase abaixo em que ocorre ambiguidade é:
+
+
+A) Ninguém mais os encontrou de novo;
+
+B) O cargo de oficial de justiça é importante;
+
+C) A nomeação do Ministro foi surpreendente;
+
+D) Tudo foi organizado para o julgamento;
+
+E) As folhas do caderno despencaram.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+33. FGV - 2022 - Câmara de Taubaté - SP - Cerimonialista Legislativo
+A frase abaixo que está isenta de ambiguidade, é:
+
+
+A) Fazer exercícios matutinos já melhoram as condições físicas.
+
+B) Meninos da turma desprezam menos leituras de quadrinhos.
+
+C) A História esclarece somente fatos passados.
+
+D) Vou passear também curtindo a paisagem.
+
+E) Na estrada vi mansões e gente de alto padrão.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+34. FGV - 2023 - TJ-RN - Analista Judiciário
+A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir
+agente e paciente, é:
+
+
+A) O chefe encontrou o funcionário em seu gabinete;
+
+B) A criação da instituição demorou mais do que se esperava;
+
+C) João e Maria se casaram ontem;
+
+D) Encontrei o assaltante andando pela rua;
+
+E) Chamar os bombeiros já ficou na moda.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+35. CESPE - TRF - 1ª REGIÃO - Analista Judiciário
+“Assim,por mais condicionada que esteja à significação de uma palavra ao seu
+contexto, sempre subsiste nela, palavra, um núcleo significativo mais ou menos
+estável…”
+
+
+Considerando as relações sintático-semânticas do texto, julgue o próximo item.
+
+O termo “palavra”, entre vírgulas, foi empregado para deixar claro o referente do
+vocábulo “nela”, evitando-se, assim, uma interpretação ambígua do período.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+36. CESPE / CEBRASPE -Instituto Rio Branco - Diplomata
+
+“Dá-se o caso que saiu a edição do meu livro Canções , ilustrado por Noêmia e que,
+ao ser noticiado por Nilo Tapecoara no Bric-à-Brac da vida , este o publicou com o
+meu retrato em duas colunas…”
+
+Considerando os sentidos e aspectos morfossintáticos do texto, julgue o item
+seguir.
+
+A proximidade imediata entre "com o meu retrato" e "em duas colunas" gera
+ambigüidade quanto a haver um ou dois retratos do autor..
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+37. CESPE - STJ - Técnico Judiciário
+
+A um coronel que se queixava da vida do quartel,um jornalista disse:
+
+- E o senhor não sabe como é chato militar na imprensa.
+
+
+Na construção do sentido do texto, destaca-se a ambiguidade do vocábulo “militar”,
+que, no contexto em que aparece, pode ser classificado ora como substantivo, ora
+como verbo.
+
+Certo
+Errado
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+38. CESPE - TST - Analista Judiciário
+
+O mundo do trabalho tem mudado numa velocidade vertiginosa e , se os empregos
+diminuem , isso não quer dizer que o trabalho também. Só que ele está mudando de
+cara.
+
+
+A interpretação coerente das idéias do texto permite associar “ele” tanto com
+“trabalho” quanto com “mundo do trabalho” .
+
+Ambiguidades assim devem ser evitadas na redação de textos oficiais.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                    @professoraadrianafigueiredo
+
+              youtube.com/user/professoraadrianaf
+
+               facebook.com/prof.adriana.figueiredo
+
+
+                
+
+
+---
+
+---

@@ -1,0 +1,475 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 04_003_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: RESUMO DE RACIOCÍNIO LÓGICO
+---
+
+# RESUMO DE RACIOCÍNIO LÓGICO
+
+RESUMO DE RACIOCÍNIO LÓGICO
+
+Introdução às proposições
+
+Proposição lógica
+
+  ● Proposição lógica: é uma oração declarativa à qual pode ser atribuída um, e
+
+    apenas um, dos dois possíveis valores lógicos: verdadeiro ou falso.
+
+  ● Oração: presença de verbo.
+
+  ● Sentença declarativa (afirmativa ou negativa): não são proposições as
+
+    sentenças exclamativas, interrogativas, imperativas e optativas.
+
+                 "Que noite agradável!" - Sentença exclamativa
+
+
+                 "Qual é a sua idade?" - Sentença interrogativa
+
+                                                                                              1
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                             
+
+
+---
+
+         "Chute a bola." - Sentença imperativa (indica uma ordem)
+
+
+      "Que Deus o conserve." - Sentença optativa (exprime um desejo)
+
+● Admite um, e apenas um, dos dois possíveis valores lógicos: não são proposições
+
+   as sentenças abertas nem os paradoxos.
+
+                            " x + 9 = 10" - Sentença aberta
+
+
+"Ele correu 100 metros em 9,58 segundos no ano de 2009." - Sentença aberta
+
+
+                      "Esta frase é uma mentira." - Paradoxo
+
+● Quantificadores: "todo", "algum", "nenhum", "pelo menos um", "existe" e suas
+
+   variantes transformam uma sentença aberta em uma proposição.
+
+                                                                                             2
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                            
+
+
+---
+
+Distinção entre proposição, sentença e expressão
+
+  ● Sentença: é a exteriorização de um pensamento com sentido completo.
+
+  ● Expressões: não exprimem um pensamento com sentido completo.
+
+                Sentenças                                                 Expressões
+
+
+Proposições
+
+ Declaração afirmativa
+
+ Declaração Negativa
+
+Exclamativa
+
+Interrogativa
+
+Imperativa
+
+Optativa
+
+Sentença aberta
+
+                                                                                                3
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                               
+
+
+---
+
+  ● As bancas costumam utilizar a palavra expressão como sinônimo de sentença.
+
+A lógica bivalente e as leis do pensamento
+
+  ● Lógica Bivalente = Lógica Proposicional, Lógica Clássica, Lógica Aristotélica.
+
+    Obedece três princípios, conhecidos por Leis do Pensamento:
+
+       ○ Identidade: Uma proposição verdadeira é sempre verdadeira, e uma
+
+          proposição falsa é sempre falsa.
+
+       ○ Não Contradição: Uma proposição não pode ser verdadeira e falsa ao
+
+          mesmo tempo.
+
+       ○ Terceiro Excluído: Uma proposição ou é verdadeira ou é falsa. Não existe
+
+          um terceiro valor "talvez".
+
+Proposições simples
+
+  ● Não pode ser dividida proposições menores.
+
+                                                                                               4
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+Negação das proposições simples
+
+  ● A negação de uma proposição simples p gera uma nova proposição simples ~p.
+
+  ● Uso do "não" e de expressões correlatas: "não", "não é verdade que", "é falso
+
+    que".
+
+  ● A nova proposição ~p sempre terá o valor lógico oposto da proposição original
+
+    p.
+
+  ● Se a proposição original é uma sentença declarativa negativa, a negação dela
+
+    será uma sentença declarativa afirmativa.
+
+                q: "Taubaté não é a capital do Mato Grosso."
+
+
+                   ~q: "Taubaté é a capital do Mato Grosso."
+
+  ● Negação usando antônimos: nem sempre o uso de um antônimo nega a
+
+    proposição original.
+
+                                                                                               5
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+     ○ "O Grêmio venceu o jogo". É errado dizer que a negação é "o Grêmio
+
+        perdeu o jogo", porque o jogo poderia ter empatado.
+
+● Para negar uma proposição simples formada por uma oração principal e por
+
+  orações subordinadas, devemos negar o verbo da oração principal.
+
+● Dupla negação: ~(~p) ≡ p.
+
+  Várias negações em sequência:
+
+     ○ Número par de negações: proposição equivalente a original; e
+
+     ○ Número ímpar de negações: nova proposição é a negação da proposição
+
+        original.
+
+● Descompasso entre a língua portuguesa e a linguagem proposicional: para a
+
+  linguagem proposicional, "não vou comer nada" seria equivalente a "vou comer".
+
+  Na língua portuguesa, tal frase significa que a pessoa realmente não vai comer
+
+  coisa alguma.
+
+                                p: "Vou comer."
+
+
+                           ~p: "Vou comer nada."
+
+
+                      ~ (~p): "Não vou comer nada."
+
+                                                                                             6
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                            
+
+
+---
+
+Proposições compostas
+
+  ● Proposição composta: resulta da combinação de duas ou mais proposições
+
+    simples por meio do uso de conectivos.
+
+  ● Valor lógico (V ou F) de uma proposição composta: depende dos valores lógicos
+
+    atribuídos às proposições simples que a compõem.
+
+  ● O operador lógico de negação (~) não é um conectivo.
+
+                                                                                               7
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+● A palavra “Se” aponta para a condição Suficiente: “Se p, então q”.
+
+                                     Condicional (p → q)
+
+
+                     p                                                          q
+
+
+            Antecedente                                                Consequente
+
+
+             Precedente                                                Subsequente
+
+
+       Condição suficiente                                        Condição necessária
+
+      ○ A recíproca de p→q é dada pela troca entre antecedente e consequente:
+
+         q→p.
+
+      ○ A recíproca é uma proposição completamente diferente da condicional
+
+         original.
+
+● Conjunção (p∧q): é verdadeira somente quando as proposições p e q são
+
+   ambas verdadeiras.
+
+                                                                                              8
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                             
+
+
+---
+
+  Disjunção Inclusiva (p∨q): é falsa somente quando as proposições p e q são
+
+  ambas falsas.
+
+● Condicional (p→q): é falsa somente quando a primeira proposição é verdadeira
+
+  e a segunda é falsa.
+
+● Disjunção Exclusiva (p∨q): é falsa quando ambas as proposições tiverem o
+
+  mesmo valor.
+
+● Bicondicional (p↔q): é verdadeira quando ambas as proposições tiverem o
+
+  mesmo valor.
+
+                                                                                            9
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                           
+
+
+---
+
+Conversão da linguagem natural para a proposicional
+
+Ordem de precedência da negação e dos conectivos
+
+
+  ● Realizar a negação abrangendo o menor enunciado possível (~);
+
+  ● Conjunção (∧);
+
+  ● Disjunção inclusiva (∨);
+
+  ● Disjunção exclusiva (∨);
+
+  ● Condicional (→);
+
+  ● Bicondicional (↔).
+
+Conversão para a linguagem proposicional
+
+  ● O termo proposição é usado para se referir ao significado das orações.
+
+  ● As bancas costumam colocar uma proposição simples em períodos longos para
+
+     confundir o concurseiro.
+
+                                                                                               10
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+                               Entendimentos do CESPE
+
+
+Período composto por subordinação
+
+Quando dispomos de uma única oração principal com orações subordinadas a
+
+ela, temos uma proposição simples.
+
+O impasse entre o sujeito composto e a conjunção “e”:
+
+“João e Maria foram ao cinema.”
+
+
+Entendimento consagrado do CESPE: proposição simples.
+
+
+Melhor entendimento: proposição composta, pois tem o mesmo sentido de:
+
+
+p∧q: "João foi ao cinema e Maria foi ao cinema."
+
+                                                                                              11
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                             
+
+
+---
+
+O predicado das orações e a conjunção
+
+Ao se observar o predicado das orações, muitas vezes é possível interpretar que
+
+a oração como um todo seria uma proposição composta por conta de uma
+
+possível conjunção “e”. Nesses casos, o CESPE trata o predicado como um
+
+único elemento da oração, de modo que a oração como um todo é uma
+
+proposição simples.
+
+Para o CESPE, a proposição abaixo não se trata de uma conjunção. É uma
+
+proposição simples.
+
+“As pessoas têm o direito ao livre pensar e à liberdade de expressão.”
+
+“As pessoas têm o direito a isso.”
+
+                                                                                               12
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+Tabela-verdade
+
+                                                  𝑛
+                    Número de linhas = 2 ; n proposições simples.
+
+  ● O operador de negação "~" não altera o número de linhas.
+
+       ○ Passo 1: determinar o número de linhas da tabela-verdade.
+
+       ○ Passo 2: desenhar o esquema da tabela-verdade.
+
+       ○ Passo 3: atribuir V ou F às proposições simples de maneira alternada.
+
+       ○ Passo 4: obter o valor das demais proposições.
+
+Tautologia, contradição e contingência
+
+  ● Tautologia é uma proposição cujo valor lógico da tabela-verdade é sempre
+
+    verdadeiro.
+
+  ● Contradição é uma proposição cujo valor lógico é sempre falso.
+
+                                                                                               13
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                              
+
+
+---
+
+  ● Contingência é uma proposição cujos valores lógicos podem ser tanto V
+
+    quanto F, dependendo diretamente dos valores atribuídos às proposições
+
+    simples que a compõem.
+
+                              p ∨~ p é uma tautologia
+
+
+                             p ∧~ p é uma contradição
+
+Métodos para determinar se uma proposição é uma tautologia ou uma
+
+contradição
+
+  ● Primeiro método: determinar a tabela-verdade.
+
+  ● Segundo método: provar por absurdo.
+
+  ● Terceiro método: álgebra de proposições
+
+                                                                                                14
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                               
+
+
+---
+
+● Dizemos que uma proposição p implica q quando a condicional p→q é uma
+
+  tautologia. A representação da afirmação "p implica q" é representada por p ⇒
+
+  q.
+
+                                                                                            15
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 03.
+
+                           
+
+
+---

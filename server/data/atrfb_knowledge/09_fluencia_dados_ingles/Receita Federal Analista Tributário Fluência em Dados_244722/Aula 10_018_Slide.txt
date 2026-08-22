@@ -1,0 +1,17 @@
+       Árvore Geradora Mínima (MST)
+         ● Baseado na teoria dos grafos
+         ● Uma             árvore              é         dita            geradora
+           se                              ela                            interliga
+           (direta                        ou                      indiretamente)
+           todos os nós do grafo
+         ● encontrar,       dado         um        grafo       com         arestas
+           ponderadas,       uma       estrutura     de     conexão       (árvore)
+           em         que          todos         os        nós         (geradora)
+           se conectem (direta ou indiretamente) uns aos outros.
+         ● Não requer a definição de protótipos
+
+                                                                       O Problema da Árvore Geradora Mínima
+                                                                       (AGM) - NazaWiki (wikidot.com)
+Prof. Raphael Lacerda
+                                  https://t.me/KakashiAssinaturasBot
+

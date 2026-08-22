@@ -1,0 +1,92 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 04_025_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: RESUMO
+---
+
+# RESUMO
+
+RESUMO
+Colocação Pronominal
+Pronome antes do verbo: Próclise
+Pronome depois do verbo: Ênclise
+Pronome no meio dos verbos: Mesóclise
+       São PALAVRAS ATRATIVAS, exigindo pronome ANTES DO VERBO (próclise):
+       Conjunções Subordinativas (que, se, embora, quando, como)
+       Palavras Negativas (não, nunca, jamais, ninguém...)
+       Advérbios e Palavras denotativas (aqui, agora, talvez, já, mais, que, apenas, hoje,
+       finalmente...)
+       Pronomes Relativos (que, os quais, cujas.)
+       Pronomes Indefinidos (nada, tudo, outras, certas, muitos)
+       Pronomes Interrogativos (Quem, que, qual...)
+Ex: Quando se precisa de ajuda, os amigos verdadeiros aparecem.
+Ex: Embora me dedique à matéria, ainda tenho dificuldades.
+
+PARA GRAVAR: CNA PRII                 (Conjunções     Subordinativas,   Negativas,   Pronomes   Relativos,
+Indefinidos/Interrogativos)
+OBS: COM VERBOS NO INFINITIVO, MESMO HAVENDO PALAVRA ATRATIVA, PODE HAVER ÊNCLISE. A
+posição é FACULTATIVA.
+Ex: Espero não me arrepender (próclise) ou Espero não arrepender-me. (ênclise)
+Regra fundamental: Palavra invariável (advérbios, preposições, conjunções subornativas, alguns pronomes)
+antes do verbo atrai pronome proclítico:
+Pronomes Indefinidos (outras, certas, muitos.) e Relativos (os quais, cujas.) são atrativos mesmo sendo
+variáveis .
+
+
+Proibições gerais
+       1iniciar período com pronome oblíquo átono ou
+
+
+       2inseri-lo após futuros (do presente e do pretérito) e particípio.
+
+
+O que não for proibido será aceito, simples assim. Veja abaixo construções inadequadas e adequadas:
+
+      Me dá um cigarro?
+
+      Darei-te um presente.
+
+      Tinha emprestado-lhe um dinheiro.
+
+                                   
+
+
+---
+
+✓      Dá-me um cigarro.
+
+✓      Dar-te-ei um presente.
+
+✓      Tinha-lhe/lhe emprestado um dinheiro
+
+Colocação pronominal na locução verbal
+O verbo pode vir antes, depois ou no meio da locução. Porém, se houver palavra atrativa, o pronome não
+pode estar no meio com hífen, pois isso indicaria que estaria em ênclise com o verbo auxiliar, quando, na
+verdade, ele só pode estar no meio por estar em próclise ao verbo principal.
+
+    ✓ Ex: Eu lhe estou emprestando dinheiro.
+    ✓ Ex: Eu estou lhe emprestando dinheiro.
+                                                            Não há palavra atrativa
+    ✓ Ex: Eu estou-lhe emprestando dinheiro.
+    ✓ Ex: Eu estou emprestando-lhe dinheiro.
+    ✓ Ex: Eu não lhe estou emprestando dinheiro. (o pronome está proclítico a “estou, verbo auxiliar”)
+    ✓ Ex: Eu não estou lhe emprestando dinheiro. (o pronome está proclítico a “emprestando”, verbo
+       principal)
+
+     Ex: Eu não estou-lhe emprestando dinheiro. (Errado porque o pronome, com hífen, estaria em ênclise
+       com palavra atrativa obrigando próclise)
+
+                                 
+
+
+---

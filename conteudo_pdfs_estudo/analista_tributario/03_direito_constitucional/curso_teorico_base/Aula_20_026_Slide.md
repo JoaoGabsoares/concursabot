@@ -1,0 +1,67 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_026_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: MEIO AMBIENTE
+---
+
+# MEIO AMBIENTE
+
+MEIO AMBIENTE
+    1º Para assegurar a efetividade desse direito, incumbe ao Poder
+  Público:
+ I - preservar e restaurar os processos ecológicos essenciais e prover
+  o manejo ecológico das espécies e ecossistemas;
+
+ II - preservar a diversidade e a integridade do patrimônio genético
+  do País e fiscalizar as entidades dedicadas à pesquisa e
+  manipulação de material genético;
+
+                          
+
+
+---
+
+MEIO AMBIENTE
+ III - definir, em todas as unidades da Federação, espaços territoriais e
+  seus componentes a serem especialmente protegidos, sendo a
+  alteração e a supressão permitidas somente através de lei, vedada
+  qualquer utilização que comprometa a integridade dos atributos que
+  justifiquem sua proteção;
+
+                           
+
+
+---
+
+MEIO AMBIENTE
+ IV - exigir, na forma da lei, para instalação de obra ou atividade
+  potencialmente causadora de significativa degradação do meio
+  ambiente, estudo prévio de impacto ambiental, a que se dará
+  publicidade;
+
+                        
+
+
+---
+
+MEIO AMBIENTE
+ V- Controlar a produção, a comercialização e o emprego de
+  técnicas, métodos e substâncias que comportem risco para a vida, a
+  qualidade de vida e o meio ambiente;
+
+ VI - promover a educação ambiental em todos os níveis de ensino e
+  a conscientização pública para a preservação do meio ambiente;
+
+                          
+
+
+---

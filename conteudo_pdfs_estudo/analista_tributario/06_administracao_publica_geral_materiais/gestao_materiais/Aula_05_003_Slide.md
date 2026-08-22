@@ -1,0 +1,223 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: INDICADORES DE ESTOQUES
+---
+
+# INDICADORES DE ESTOQUES
+
+---
+
+---
+
+INDICADORES DE ESTOQUES
+
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Giro ou Rotatividade
+       Velocidade do consumo
+       ❑ Indicadores de estoques são ferramentas gerenciais muito usadas e que permitem ao
+         gestor controlar os volumes e as performances dos estoques.
+       ❑ As mais conhecidas e cobradas em provas são o Giro de Estoques, a Cobertura de
+         Estoques e o Estoque Médio. Veja a seguir:
+       ❑ O Giro de Estoque (ou Rotatividade) é uma relação existente entre o consumo anual
+         e o estoque médio do produto. Pode ser calculado pela fórmula:
+
+
+               Giro de Estoque = Consumido no Período (saídas) / Estoque médio no período
+
+       ❑ Mede quantas vezes, em um determinado período, o estoque da empresa foi
+         movimentado ou removido, ou seja, quantas vezes ele "girou".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Giro ou Rotatividade
+       Velocidade do consumo
+     ❑ A rotatividade é expressa no inverso de unidades de tempo ou em "vezes", ou seja, quantidade de vezes por dia
+       ou por mês ou mesmo por ano. Exemplo: consumo anual de um item foi de 1200 unidades e seu estoque médio
+       no período (ano) foi de 300 unidades. Desta forma o giro do item foi:
+
+                                            Giro de Estoque = 1200/300 ou 4 vezes/ano
+
+     ❑ O giro desse item foi de 4 vezes ao ano, ou seja, o estoque girou 4 vezes ao longo do ano.
+
+     ❑ Por fim, pode-se concluir que quanto maior o giro, mais eficiente é a empresa em sua gestão de estoques.
+
+     ❑ Uma das grandes utilidades do índice de rotatividade do estoque (Giro) é que ele pode ser usado como um
+       parâmetro para a comparação de estoques entre empresas do mesmo ramo de atividade ou entre classes de
+       materiais em estoque, bastando-se para isso determinar taxas de rotatividade adequadas e compará-las as
+       diferentes taxas analisadas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Antigiro ou Cobertura
+       Quanto tempo o estoque “resiste” ao consumo
+
+       ❑ Outro índice bastante útil para a análise de estoques é o Antigiro ou Taxa de
+         Cobertura. Enquanto o Giro indica quantas vezes o estoque rodou no ano, o Antigiro
+         indica quantos meses de consumo equivalem ao estoque real ou ao estoque médio. A
+         taxa de cobertura pode ser calculada pela fórmula:
+
+                                            Cobertura = Estoque Médio / Consumo
+
+
+       ❑ Por exemplo, um item tem estoque de 4000 unidades e é consumido a uma taxa de
+         800 unidades ao mês. Quantos meses o estoque cobre a taxa de consumo:
+
+                                              Cobertura = 4.000/800 ou 5 meses
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Estoque Médio
+       Volume médio adquirido somado ao Estoque de Segurança
+
+       ❑ O Estoque Médio é um parâmetro útil que resume as transações de entradas e saídas de
+         determinado item de estoque. Pode ser calculado pela seguinte fórmula:
+
+                                                   EM = (Q/2) + ES
+
+       Onde:
+       Q = quantidade adquirida ou fabricada para reposição de estoque
+       ES = Estoque de Segurança
+
+
+       ❑ Por exemplo: Qual o estoque médio do item, dado que o lote de compra é de 500 unidades e a
+         empresa mantém estoque de segurança de 100 unidades:
+
+                                             EM = 500/2 + 100 = 350
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/MPE-AP/Auxiliar Administrativo/2021) Em uma empresa, o consumo de determinado item
+     é igual a 3 mil unidades em 1 ano, com estoque médio de 600 unidades. Nessa situação hipotética, com
+     relação ao giro e à cobertura de estoque, a empresa apresenta
+     a) 4 giros e 80 dias de cobertura.
+     b) 5 giros e 73 dias de cobertura.
+     c) 8 giros e 60 dias de cobertura.
+     d) 2 giros e 40 dias de cobertura.
+     e) 5 giros e 2 meses de cobertura.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/MPE-AP/Auxiliar Administrativo/2021) Em uma empresa, o consumo de determinado item
+     é igual a 3 mil unidades em 1 ano, com estoque médio de 600 unidades. Nessa situação hipotética, com
+     relação ao giro e à cobertura de estoque, a empresa apresenta
+     a) 4 giros e 80 dias de cobertura.
+     b) 5 giros e 73 dias de cobertura.       Vamos aos cálculos:
+     c) 8 giros e 60 dias de cobertura.
+                                              Começando pelo Giro. Giro = Consumo / Estoque Médio, ou seja, Giro
+     d) 2 giros e 40 dias de cobertura.       = 3.000/600 = 5. Dessa forma o estoque médio do período girou 5 vezes
+     e) 5 giros e 2 meses de cobertura.       com o volume de consumo apresentado no período (3000 unidades).
+     GABARITO - B
+                                                  Agora vamos a cobertura. A Cobertura (ou antigiro) é calculada
+                                                  dividindo-se o estoque médio pelo consumo, ou seja, neste caso basta
+                                                  inverter a fórmula: 600/3.000 = 0,2 ano. Agora precisamos transformar
+                                                  isso em dias para achar a resposta. Um ano tem 365 dias, logo 0,2 ano
+                                                  tem 20% disso, ou 73 dias. Assim, com o estoque médio trazido pelo
+                                                  enunciado, a cobertura é de cerca de 73 dias mantendo-se o consumo
+                                                  esperado (3.000 unidades ao longo do ano).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FCC/Pref. Mun. Macapá-AP/Especialista na Educação/2018) No que concerne à administração de
+     materiais no âmbito das organizações, mais especificamente à atuação de gestão de estoques, existem
+     alguns indicadores clássicos e ordinariamente utilizados. Entre tais indicadores, pode-se citar o de
+     cobertura de estoque, por vezes denominado taxa de cobertura, que corresponde:
+     a) aos itens cuja reposição é mais onerosa e que devem, assim, ser solicitados apenas quando
+     efetivamente demandados, dentro do conceito de just in time.
+     b) ao número de vezes que o estoque de determinado item de material é renovado, em determinado
+     período.
+     c) ao indicador responsável por aferir o percentual de requisições dos demais setores da organização
+     que são atendidas com relação ao total de requisições.
+     d) aos itens do estoque que demandam maior reposição em função de sua relevância na produção.
+     e) ao período que o estoque médio será capaz de atender à demanda média, caso não haja reposição,
+     sendo, assim, também denominado antigiro.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FCC/Pref. Mun. Macapá-AP/Especialista na Educação/2018) No que concerne à administração de
+     materiais no âmbito das organizações, mais especificamente à atuação de gestão de estoques, existem
+     alguns indicadores clássicos e ordinariamente utilizados. Entre tais indicadores, pode-se citar o de
+     cobertura de estoque, por vezes denominado taxa de cobertura, que corresponde:
+     a) aos itens cuja reposição é mais onerosa e que devem, assim, ser solicitados apenas quando
+     efetivamente demandados, dentro do conceito de just in time.
+     b) ao número de vezes que o estoque de determinado item de material é renovado, em determinado
+     período.
+     c) ao indicador responsável por aferir o percentual de requisições dos demais setores da organização
+     que são atendidas com relação ao total de requisições.
+     d) aos itens do estoque que demandam maior reposição em função de sua relevância na produção.
+     e) ao período que o estoque médio será capaz de atender à demanda média, caso não haja reposição,
+     sendo, assim, também denominado antigiro.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

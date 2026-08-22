@@ -1,0 +1,492 @@
+                                                MACHINE LEARNING: CONCEITOS ESSENCIAIS
+
+
+                                                                                                                        IA surge nos anos 1950; imita a inteligência
+                                                                                                                                         humana
+
+                           Estuda algoritmos capazes de aprender padrões a
+                                           partir de dados
+ Machine Learning é                                                                                                         Aprendizado de máquina estudado a partir
+                                                                                                   Linha do tempo                        dos anos 1980
+    subcampo da
+Inteligência Artificial
+                            Melhora o desempenho em uma tarefa sem ser
+                                    explicitamente programado
+                                                                                                                           Deep Learning (aprendizado profundo) marca
+                                                                                                                                        a última década
+
+
+
+                          Tradicional: programador escreve as regras; saída é o
+                                               resultado
+                                                                                                                      Treinamento: etapa custosa; exige grande volume
+                                                                                                                                       de exemplos
+
+    Programação             ML funciona de forma inversa: entram dados +
+  tradicional x ML                    exemplos de resultados
+                                                                                                                       Inferência: menos custosa; é probabilística, não
+                                                                                                Etapas do processo                    determinística
+
+                                A saída do ML são as próprias regras (modelo
+                                                 estatístico)
+                                                                                                                     Não confundir: TAREFA é o que produzir, TÉCNICA
+                                                                                                                     é procedimento, ALGORITMO é fórmula e MODELO
+                                                                                                                                  é o algoritmo treinado
+
+
+
+
+                                                                                                                                                     TECNOLOGIA DA INFORMAÇÃO
+
+                                                                    https://t.me/KakashiAssinaturasBot                                                 ESTRATÉGIA CONCURSOS
+                                          PROGRAMAÇÃO TRADICIONAL × MACHINE LEARNING × INFERÊNCIA
+
+                                       NO ML AS ENTIDADES TROCAM DE LUGAR: REGRAS DEIXA DE SER ENTRADA E PASSA A SER SAÍDA
+
+
+
+
+                                          REGRAS
+  TRADICIONAL                                                               PROGRAMAÇÃO TRADICIONAL                                             RESULTADOS
+  o humano escreve as regras
+
+                                           DADOS
+
+
+
+
+                                           DADOS
+  TREINAMENTO                                                                 APRENDIZADO DE MÁQUINA                                     REGRAS = o MODELO
+custoso · a saída são as REGRAS
+
+                                    EXEMPLOS DE RESULTADOS
+
+
+
+
+                                       REGRAS APRENDIDAS
+
+
+    INFERÊNCIA                                                                          MODELO EM USO                                    NOVOS RESULTADOS
+     barata · probabilística
+
+                                       NOVOS DADOS
+
+
+
+                                  Atenção: o cientista de dados faz o TREINAMENTO; outros softwares apenas USAM o modelo na inferência (que é
+                                                                         probabilística, não determinística).
+
+                                                                                                                                                         TECNOLOGIA DA INFORMAÇÃO
+
+                                                                          https://t.me/KakashiAssinaturasBot                                                 ESTRATÉGIA CONCURSOS
+                                                                 TIPOS DE APRENDIZADO DE MÁQUINA
+
+
+                                Usa dados rotulados (entrada + saída desejada); há                                                            Não usa rótulos; o algoritmo descobre padrões
+                                                um "supervisor"                                                                                                   sozinho
+
+
+
+                                             Rótulos contínuos (preços, temperatura) →                          Aprendizado Não-              Tarefa de descrição: Clustering e Regras de
+                                                            regressão                                            Supervisionado                               Associação
+     Aprendizado
+   Supervisionado
+(incidência altíssima)
+                                         Rótulos categóricos (sim/não, gato/cachorro)                                                               Vantagem: custa muito menos que rotular
+                                                       → classificação                                                                                          manualmente
+
+
+
+                                              Modelos: Árvores de Decisão, Regressão
+                                                   Linear/Logística, KNN, SVM                                                              Agente interage com o ambiente por tentativa e
+                                                                                                                                                               erro
+
+
+
+                                  Combina poucos dados rotulados + muitos não                                                                     Recebe recompensas ou penalidades; busca
+                                                  rotulados                                                      Aprendizado por                       maximizar o retorno acumulado
+ Aprendizado Semi-                                                                                                   Reforço
+  Supervisionado
+                                               Usado em visão computacional, PLN e                                                        Atenção: Reforço NÃO prevê atributo-alvo (isso é
+                                                       imagens médicas                                                                     supervisionado); Não-supervisionado NÃO usa
+                                                                                                                                                         dados rotulados
+
+
+                    SUPERVISIONADO                        SEMI-SUPERVISIONADO                         NÃO-SUPERVISIONADO              POR REFORÇO
+
+                                                                                                                                   AGENTE            AMBIENTE
+
+
+                      barra âmbar = RÓTULO                  barra âmbar = RÓTULO                        sem barra = SEM rótulo        ↑ ação · ↓ recompensa
+                   TODOS os dados têm rótulo                POUCOS rotulados +                      NENHUM rótulo — descobre        tentativa e erro; maximiza
+                    (entrada + saída desejada)               MUITOS sem rótulo                         os padrões sozinho             o retorno acumulado                 TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                   https://t.me/KakashiAssinaturasBot                                                       ESTRATÉGIA CONCURSOS
+                                                  OUTROS TIPOS DE APRENDIZADO
+
+
+
+           Inspirados em neurônios                                 Por dados e tarefas                                    Por dinâmica de treino
+
+
+     Hebbiano:                                      Ativo: modelo escolhe quais exemplos rotular,          Online (incremental): atualiza continuamente
+                      Vários neurônios podem
+  "neurônios que                                         consultando um "oráculo humano"                          conforme novos dados chegam
+                            ser ativados
+ disparam juntos,
+                         simultaneamente
+   conectam-se"
+
+                                                    Auto-supervisionado: extrai rótulos da própria         Em Conjunto (ensembles): combina modelos -
+  Competitivo:                                                  estrutura dos dados                               bagging, boosting, stacking
+   neurônios           Princípio "winner takes
+competem; apenas      all"; base de mapas auto-
+  o vencedor é            organizáveis (SOM)
+                                                  Multitarefa: resolve várias tarefas ao mesmo tempo,    Por Memória (associativo): recupera padrões por
+     ativado
+                                                           compartilhando representações                       associação (redes Hopfield, k-NN)
+
+
+    Atenção: Não confunda Hebbiano com                                                                            HEBBIANO                         COMPETITIVO
+  Competitivo: no Competitivo dispara só um        Por Transferência: reaproveita conhecimento de
+   neurônio; no Hebbiano vários se ativam                       outra tarefa correlata
+
+
+
+                                                   Por Currículo: treina do exemplo mais simples ao
+                                                                     mais complexo
+
+
+                                                                                                         VÁRIOS neurônios acesos             só o VENCEDOR acende
+                                                                                                        neurônios que disparam juntos se   winner takes all - base dos mapas
+                                                                                                                   conectam                              SOM
+
+
+
+
+                                                                                                                                                TECNOLOGIA DA INFORMAÇÃO
+
+                                                           https://t.me/KakashiAssinaturasBot                                                      ESTRATÉGIA CONCURSOS
+                                                   CLASSIFICAÇÃO E MATRIZ DE CONFUSÃO
+
+
+
+
+                              Matriz de Confusão                                                            Classificação: tarefa de aprendizado supervisionado
+
+
+
+ Tabela que mostra acertos e                                                                      Atribui um rótulo/categoria a
+                                     Eixo horizontal = previsões; eixo vertical =                                                      Trabalha com features (atributos) para
+  erros do classificador por                                                                       uma entrada com base em
+                                                   valores reais                                                                                 diferenciar classes
+            classe                                                                                     exemplos rotulados
+
+
+
+                  Verdadeiro Positivo (VP): acerto do positivo                                                  Traça limites de decisão que minimizam os erros
+
+
+
+                 Verdadeiro Negativo (VN): acerto do negativo
+
+
+
+ Falso Positivo (FP): "viu coisa
+                                           Estatística chama de Erro Tipo I
+        onde não tinha"
+
+
+
+Falso Negativo (FN): "não viu o
+                                          Estatística chama de Erro Tipo II
+          que era"
+
+
+
+Atenção: A maioria das métricas de avaliação de classificadores é derivada da
+                            matriz de confusão
+
+
+
+
+                                                                                                                                                           TECNOLOGIA DA INFORMAÇÃO
+
+                                                                   https://t.me/KakashiAssinaturasBot                                                        ESTRATÉGIA CONCURSOS
+                                        MÉTRICAS DE AVALIAÇÃO DE CLASSIFICADORES
+
+
+
+
+      Sensibilidade
+                                      Acurácia                              F1-Score               Precisão (Precision)            Especificidade
+   (Recall/Revocação)
+
+
+
+
+Capacidade de detectar os       Percentual de acertos            Média harmônica entre          Proporção de acertos entre    Capacidade de detectar os
+     positivos reais          sobre o total de previsões         precisão e sensibilidade         as previsões positivas           negativos reais
+
+
+
+
+                                                             Atenção: Cuidado: precisão            Fórmula: VP / (VP+FP);
+                                  Fórmula: (VP+VN) /
+   Fórmula: VP / (VP+FN)                                     = VP/(VP+FP); sensibilidade           "quando diz positivo, dá      Fórmula: VN / (FP+VN)
+                                   (VP+FP+VN+FN)
+                                                                = VP/(VP+FN); bancas                   para confiar?"
+                                                              trocam as duas fórmulas
+
+
+
+
+  Prioritária quando não se
+                                Falha quando os dados
+    pode deixar escapar
+                                estão desbalanceados
+           positivos
+
+
+
+
+                                                                                                                                     TECNOLOGIA DA INFORMAÇÃO
+
+                                                           https://t.me/KakashiAssinaturasBot                                          ESTRATÉGIA CONCURSOS
+                                                          MATRIZ DE CONFUSÃO E AS MÉTRICAS DE CLASSIFICAÇÃO
+
+
+                                                   VALOR PREVISTO                                                                   SENSIBILIDADE                      ESPECIFICIDADE
+
+                               POSITIVO                               NEGATIVO
+                                                                                                                                    VP            FN                    VP            FN
+
+
+                                                                                                                                    FP            VN                    FP            VN
+                                VP                                      FN
+             POSITIVO
+
+
+
+
+                                                                FALSO NEGATIVO                                                      VP / (VP + FN)                      VN / (FP + VN)
+                        VERDADEIRO POSITIVO
+                                                                    "não viu o que era"                                       usa a LINHA dos REAIS positivos     usa a LINHA dos REAIS negativos
+                             acertou o positivo
+                                                                        Erro Tipo II                                                 (recall / revocação)
+VALOR REAL
+
+
+
+
+                                                                                                                                       PRECISÃO                            ACURÁCIA
+
+
+                                                                                                                                    VP            FN                    VP            FN
+
+                                 FP                                     VN
+             NEGATIVO
+
+
+
+
+                                                                                                                                    FP            VN                    FP            VN
+                          FALSO POSITIVO                      VERDADEIRO NEGATIVO
+                            "viu onde não tinha"
+                                                                    acertou o negativo
+                                 Erro Tipo I                                                                                        VP / (VP + FP)                     (VP + VN) / total
+                                                                                                                           usa a COLUNA dos PREVISTOS positivos     usa a DIAGONAL dos acertos
+
+
+
+
+      Atenção: precisão = VP/(VP+FP) olha a COLUNA dos previstos; sensibilidade = VP/(VP+FN) olha a LINHA dos reais.
+                                             Não confunda as duas fórmulas!
+
+
+
+
+                                                                                                                                                                                TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                      https://t.me/KakashiAssinaturasBot                                                           ESTRATÉGIA CONCURSOS
+                                                     DETECÇÃO DE ANOMALIAS
+
+
+                                                   Detecção de Anomalia: identifica observações
+              Tipos de anomalia                                                                                               Técnicas
+                                                             raras/atípicas (outliers)
+
+
+
+Não intencional: ruído, falha de sensor, erro de                                                               Estatísticas, distância/densidade (k-NN),
+                                                   Indicam erros, fraudes, falhas ou eventos incomuns
+                   medição                                                                                       agrupamento (k-means, DBSCAN)
+
+
+
+Intencional: ação proposital (fraude, lavagem de    Costuma ser não                                            Baseadas em árvores (Isolation Forest) e
+                                                                                         Motivo: exemplos
+                   dinheiro)                       supervisionada ou                                                      autoencoders
+                                                                                      rotulados de anomalias
+                                                         semi-
+                                                                                            são escassos
+                                                     supervisionada
+
+ Pontual: uma observação muito diferente do
+                  padrão
+
+
+
+Contextual: anômala apenas em determinado
+                contexto
+
+
+
+Coletiva: conjunto forma padrão anormal (série
+                   temporal)
+
+
+
+  Global (extrema na base toda) x Local (só no
+                subconjunto)
+
+
+
+
+                                                                                                                                         TECNOLOGIA DA INFORMAÇÃO
+
+                                                            https://t.me/KakashiAssinaturasBot                                             ESTRATÉGIA CONCURSOS
+                                                 MODELOS DE REGRESSÃO: LINEAR E LOGÍSTICA
+
+Modelos de Regressão: relacionam variáveis para
+                                                                                  Regressão Linear (supervisionada)
+                  previsão
+
+Variável dependente (alvo) x variáveis independentes                Prevê valores contínuos (preços, temperaturas, consumo)
+                    (entradas)
+
+                                                                   Ajusta a reta que melhor descreve a relação entre variáveis          Usa Mínimos Quadrados
+                                                                                                                                           Ordinários (MQO)
+
+
+                                                                   Múltipla: mais de uma variável independente (y = a + bx + cy...)
+                                                                                                                                      Minimiza a soma dos resíduos
+                                                                                                                                             ao quadrado
+
+
+
+                                                                                                                                         Equação: y = a + bx (a =
+                                                                                                                                        intercepto; b = inclinação)
+
+
+
+
+                                          Regressão Logística (supervisionada)
+
+
+ Apesar do nome, é usada para CLASSIFICAÇÃO (não regressão)                       Voltada a classificação binária (dois valores)
+
+
+                                                                          Interpreta a saída como probabilidade de pertencer à
+Aplica a função sigmoide (logit): comprime o resultado em [0, 1]
+                                                                                                 classe
+
+
+          Atenção: Regressão Logística NÃO prevê valores numéricos contínuos - estima probabilidade de classes
+
+
+
+
+                                                                                                                                                 TECNOLOGIA DA INFORMAÇÃO
+
+                                                                         https://t.me/KakashiAssinaturasBot                                        ESTRATÉGIA CONCURSOS
+                                           REDES NEURAIS, PERCEPTRON E FUNÇÕES DE ATIVAÇÃO
+
+
+                             Neurônios conectados por pesos ajustáveis                                                  Unidade básica da rede neural; equivale a um
+    Redes Neurais                                                                                                                        neurônio
+Artificiais: inspiradas
+      no cérebro                       Célula→Nó; Dendritos→Entradas;
+                                        Sinapses→Pesos; Axônio→Saída                              Perceptron (Frank   Multiplica entradas por pesos, soma o viés (bias) e
+                                                                                                     Rosenblatt)                       aplica ativação
+
+
+                          Introduzem não linearidade; sem elas a rede seria só
+                                                                                                                            Estrutura inicial lembra uma regressão linear
+                                                linear
+                                                                                                                                                múltipla
+
+
+                                   Limite (step): saída binária 0 ou 1
+                                                                                                                             Treino por backpropagation; risco de
+                                                                                                                                   overfitting/underfitting
+                                  Sigmoide/Logística: saída em [0, 1]
+                                                                                               Deep Learning: redes
+                                                                                              com múltiplas camadas
+Funções de Ativação
+                              Tangente hiperbólica (tanh): saída em [-1, 1],                         ocultas            Atenção: A função de ativação NÃO armazena
+                                          centrada em zero                                                              pesos; ela introduz não linearidade - os pesos
+                                                                                                                                      ficam nas conexões
+
+
+                           ReLU: max(0, x); a mais usada em Deep Learning
+
+
+                          Softmax: probabilidades que somam 1 (classificação
+                                             multiclasse)
+
+
+
+
+                                                                                                                                                     TECNOLOGIA DA INFORMAÇÃO
+
+                                                                     https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+                                                               ANATOMIA DO PERCEPTRON E DA REDE NEURAL
+
+
+                           PERCEPTRON — A UNIDADE BÁSICA                                                                                        REDE NEURAL MULTICAMADA (MLP)
+
+
+                                   +b    viés (bias)                                                                                                                P₁
+  x₁
+               w₁                                                                                                            E₁
+
+                                                                                                                                                                    P₂                                         S₁
+               w₂
+                                                           f( )
+  x₂                               Σ                      ativação
+                                                                                       SAÍDA
+                                                                                                                             E₂
+               w₃
+                                                                                                                                                                    P₃                                         S₂
+
+  x₃                                                                                                                         E₃
+
+                                                                                                                                                                    P₄
+
+                             saída = f( w₁·x₁ + w₂·x₂ + w₃·x₃ + b )
+                                                                                                                       CAMADA DE ENTRADA                       CAMADA OCULTA                      CAMADA DE SAÍDA
+
+ Os PESOS moram nas CONEXÕES. A função de ativação NÃO armazena pesos — ela só introduz a NÃO
+                                      LINEARIDADE.                                                                                         DEEP LEARNING = rede com MÚLTIPLAS camadas ocultas.
+
+
+
+                                                                                                                        FEED-FORWARD: a informação viaja numa única direção — da entrada para a saída, sem voltar.
+         Sem função de ativação, o perceptron equivale a uma REGRESSÃO LINEAR MÚLTIPLA.
+
+
+                                                                                                                                  Treino por BACKPROPAGATION: o erro volta da saída para reajustar os pesos.
+No perceptron ORIGINAL a ativação é uma função de LIMITE (degrau): a saída é BINÁRIA — dispara ou não
+                                              dispara.
+
+                                                                                                                         Atenção: o nó de VIÉS entra na camada de entrada e nas ocultas, NUNCA na camada de saída.
+
+
+
+
+                                                                                                                                                                                                 TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                        https://t.me/KakashiAssinaturasBot                                                                          ESTRATÉGIA CONCURSOS
+

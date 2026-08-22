@@ -1,0 +1,15756 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 20_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: Direito Tributário
+artigos_citados:
+- Art. 127.
+- Art. 134.
+- Art. 141-D.
+- Art. 1º
+- Art. 61-I.
+- art. 32
+- art. 72
+- art. 7º
+sumulas_citadas:
+- Súmula 425
+---
+
+# Direito Tributário
+
+Aula 19
+                          Receita Federal (Analista Tributário)
+                                             Direito Tributário
+
+                                                         Autor:
+                                                  Fábio Dutra
+
+                                          17 de Outubro de 2025
+
+---
+
+      Fábio Dutra
+      Aula 19
+
+                                                                                     Índice
+1) Simples Nacional
+
+
+2) Questões Comentadas - Simples Nacional - CEBRASPE
+
+
+3) Questões Comentadas - Simples Nacional - FGV
+
+
+4) Questões Comentadas - Simples Nacional - MULTIBANCAS
+
+
+5) Lista de Questões - Simples Nacional - CEBRASPE
+
+
+6) Lista de Questões - Simples Nacional - FGV
+
+
+7) Lista de Questões - Simples Nacional - MULTIBANCAS
+
+
+8) Resumo - Simples Nacional
+
+                Receita Federal (Analista Tributário) Direito Tributário                                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                          295
+
+                                                             
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+    SIMPLES NACIONAL (LEI COMPLEMENTAR 123/2006 E
+                 RESOLUÇÃO 140/2018)
+        Em decorrência do princípio da isonomia, cuja essência consiste em tratar desigualmente os
+desiguais, não seria justo que as pequenas empresas, ao iniciar suas atividades, se submetessem à mesma
+carga tributária das grandes empresas.
+
+      O mesmo raciocínio se aplica em relação ao cumprimento das obrigações acessórias, já que não se
+compara a estrutura administrativa de uma multinacional com o boteco do Seu João, correto?
+
+       Desse modo, existe previsão constitucional (desde a sua promulgação em 1988) para que se institua
+tratamento diferenciado às microempresas (ME) e às empresas de pequeno porte (EPP), em seu art. 179 (no
+capítulo que cuida dos princípios gerais da atividade econômica):
+
+        Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às
+        microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento
+        jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações
+        administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução
+        destas por meio de lei.
+
+       De acordo com o STF (ADI 1.643/UF), “não há ofensa ao princípio da isonomia tributária se a lei, por
+motivos extrafiscais, imprime tratamento desigual a microempresas e empresas de pequeno porte de
+capacidade contributiva distinta (...)”. Percebe-se, portanto, que o tratamento diferenciado para as ME e
+EPPs já foi chancelado pelo STF.
+
+       Vamos sintetizar isso para fins de concurso público? Guarde assim:
+
+● Todos os entes federativos dispensarão tratamento diferenciado;
+● A lei definirá o conceito de ME e EPP;
+● Tratamento jurídico diferenciado: simplificação, eliminação ou redução.
+
+                             Palavras-chave: simplificação, eliminação ou redução.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         3
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        O problema é que cada ente federativo criou um sistema próprio, concedendo tratamento
+diferenciado às MEs e EPPs, de forma que não havia qualquer uniformidade nas normas. Ou seja, a
+simplificação acabou se tornando uma “bagunça”.
+
+        Diante disso, o legislador constituinte providenciou alteração no texto constitucional, por intermédio
+da Emenda Constitucional 42/2003 e alterado pela EC 132/2023 (Reforma Tributária), incluindo a alínea “d”
+ao art. 146, III, cuja redação é a seguinte:
+
+        Art. 146. Cabe à lei complementar:
+
+        III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+
+        (...)
+
+        d) definição de tratamento diferenciado e favorecido para as microempresas e para as
+        empresas de pequeno porte, inclusive regimes especiais ou simplificados no caso dos
+        impostos previstos nos arts. 155, II, e 156-A, das contribuições sociais previstas no art. 195,
+        I e V, e § 12 e da contribuição a que se refere o art. 239. (Redação dada pela Emenda
+        Constitucional nº 132, de 2023)
+
+        Observação: os tributos a que se refere esse dispositivo são os seguintes:
+
+        → ICMS;
+
+        → Imposto sobre Bens e Serviços - IBS;
+
+        → Contribuição sobre Bens e Serviços - CBS;
+
+        → Contribuição previdenciária do empregador e da entidade a ele equiparada pela lei;
+
+        → Contribuição para o PIS/Pasep;
+
+       Veja que a situação mudou completamente de figura. A partir da EC 42/03, cabe à lei complementar
+estabelecer normas gerais sobre o tratamento diferenciado e favorecido às MEs e EPPs, da mesma forma
+como o CTN cuidou da decadência e da prescrição, por exemplo. Isso significa que o objetivo do art. 179 da
+CF/88 será cumprido, mas terá que seguir os parâmetros definidos na lei complementar.
+
+       Não satisfeito, ainda foram acrescentados alguns parágrafos ao art. 146. Vejamos o que prevê o § 1º:
+
+        § 1º A lei complementar de que trata o inciso III, d, também poderá instituir um regime
+        único de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito
+        Federal e dos Municípios, observado que: (Incluído pela Emenda Constitucional nº 132, de
+        2023)
+
+        I - será opcional para o contribuinte;
+
+        II - poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            4
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        III - o recolhimento será unificado e centralizado e a distribuição da parcela de recursos
+        pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção
+        ou condicionamento;
+
+        IV - a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes
+        federados, adotado cadastro nacional único de contribuintes.
+
+        Agora deve ter ficado bastante simples de entender qual é a real intenção do legislador, em relação
+ao tratamento diferenciado a ser conferido às MEs e EPPs.
+
+       Diante do exposto, é possível concluir também que o Simples Nacional é um regime único de
+arrecadação de diversos tributos (federais, estaduais e municipais), o que não se confunde com imposto
+único.
+
+       Nessa linha, também podemos dizer que o objetivo da criação desse mecanismo é reduzir a
+burocracia e também a carga tributária a que estão sujeitas as empresas menores.
+
+        A sistemática do Simples Nacional não se confunde com a cobrança de imposto único.
+
+        Objetivo do Simples Nacional: redução de burocracia e carga tributária.
+
+       Outro aspecto interessante é que o legislador também acrescentou o art.94 no ADCT (ao final da
+CF/88), estabelecendo que, a partir do momento em que a lei complementar definida no art. 146, III, d, da
+CF/88 entrar em vigor, cessarão todos os regimes especiais criados pelos entes para as MEs e EPPs. Surge,
+então, a eminente Lei Complementar 123/2006, já tendo sido modificada diversas vezes a partir de então.
+
+        Observação: Com o advento da LC 123/2006, o Simples Federal, existente até então pela
+        Lei 9.317/1996, foi extinto, com base no art. 94 do ADCT, surgindo o Simples Nacional.
+        Atualmente, considere errada qualquer questão que fale na vigência do Simples Federal.
+
+       O mais interessante é que, com o que vimos até o momento, você já é capaz de acertar mais de 50%
+das questões que versam sobre o Simples Nacional. Portanto, grave tudo, caro aluno(a)!!!
+
+       Em suma, o Simples Nacional é o regime único de arrecadação dos impostos e contribuições da
+União, dos Estados, do DF e dos Municípios.
+
+        Embora se trate de um sistema de recolhimento único, a alíquota total consiste na soma das
+alíquotas dos respectivos tributos que compõem a sistemática do Simples Nacional. Tais alíquotas são
+escalonadas de forma progressiva com base no faturamento da empresa, dentro dos limites por nós
+estudados.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         5
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Antes de avançarmos, é fundamental esclarecermos a abrangência do Simples Nacional: você precisa
+entender que a LC 123/2006 vai muito além de um regime tributário diferenciado. A referida norma
+envolve aspectos relativos a licitações públicas, relações de trabalho, estímulo ao crédito, capitalização,
+inovação e acesso à justiça, investidores-anjo, entre outros.
+
+Agora vejamos alguns detalhes adicionais acrescentados à CF/88 pela EC 132/2023:
+
+        Art. 146. Cabe à lei complementar:
+
+        (...)
+
+        § 2º É facultado ao optante pelo regime único de que trata o § 1º apurar e recolher os
+        tributos previstos nos arts. 156-A e 195, V, nos termos estabelecidos nesses artigos,
+        hipótese em que as parcelas a eles relativas não serão cobradas pelo regime único.
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+        § 3º Na hipótese de o recolhimento dos tributos previstos nos arts. 156-A e 195, V, ser
+        realizado por meio do regime único de que trata o § 1º, enquanto perdurar a opção:
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+        I - não será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e
+        195, V, pelo contribuinte optante pelo regime único; e (Incluído pela Emenda
+        Constitucional nº 132, de 2023)
+
+        II - será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e 195,
+        V, pelo adquirente não optante pelo regime único de que trata o § 1º de bens materiais
+        ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao
+        cobrado por meio do regime único. (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+A Reforma Tributária acrescentou os §§ 2º e 3º ao art. 146, relativamente ao Simples Nacional, para adequá-
+lo à tributação pelo IBS e CBS.
+
+A primeira regra a saber é que a empresa optante pelo Simples Nacional poderá também fazer opção por
+apurar e recolher o IBS e a CBS dentro do Simples Nacional ou não. Se a opção for pelo recolhimento por
+fora do Simples, tais tributos não serão cobrados juntamente com os demais tributos incluídos na sistemática
+do Simples, devendo ser recolhidos em separado.
+
+Por outro lado, se o contribuinte fizer opção pelo recolhimento por meio do regime único (Simples),
+enquanto mantiver tal opção, se sujeitará às seguintes regras:
+
+1 – O contribuinte optante pelo Simples não poderá se apropriar de créditos de IBS e CBS;
+
+2 – O adquirente não optante pelo Simples de produtos do contribuinte optante pelo Simples Nacional
+poderá se apropriar de créditos de IBS e CBS, desde que em montante equivalente ao cobrado por meio do
+regime único.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          6
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A industrial Alfa é optante pelo Simples Nacional e fez opção também por recolher o IBS e a CBS dentro do
+Simples Nacional. Em determinado período, a empresa Alfa adquiriu insumos da empresa Ômega,
+industrializou seus produtos e os vendeu para a empresa comercial Beta (não optante pelo Simples Nacional)
+mercadorias por ela produzidas.
+
+Neste caso, temos as seguintes conclusões:
+
+- A empresa Alfa não pode se apropriar de créditos de IBS e CBS nas aquisições de insumos;
+
+- A empresa Beta pode se apropriar de créditos da aquisição realizada, desde que nos mesmos montantes
+recolhidos pela empresa Alfa.
+
+      Vistos os conceitos constitucionais acerca do Simples Nacional, passemos ao estudo específico da LC
+123/2006.
+
+
+Escopo da Lei Complementar 123/2006
+
+Estudamos que o art. 179 da CF/88 previa algo bem abrangente para as microempresas e empresas de
+pequeno porte, isto é, algo que fosse além simplesmente do recolhimento diferenciado dos tributos. Vamos
+relemebrar:
+
+        Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às
+        microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento
+        jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações
+        administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução
+        destas por meio de lei.
+
+Assim, a LC 123/2006, estabeleceu em seu art. 1º o seguinte:
+
+     Art. 1º Esta Lei Complementar estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser
+     dispensado às microempresas e empresas de pequeno porte no âmbito dos Poderes da União, dos Estados, do
+     Distrito Federal e dos Municípios, especialmente no que se refere:
+
+     I - à apuração e recolhimento dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos
+     Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias;
+
+     II - ao cumprimento de obrigações trabalhistas e previdenciárias, inclusive obrigações acessórias;
+
+     III - ao acesso a crédito e ao mercado, inclusive quanto à preferência nas aquisições de bens e serviços pelos
+     Poderes Públicos, à tecnologia, ao associativismo e às regras de inclusão.
+
+     IV - ao cadastro nacional único de contribuintes a que se refere o inciso IV do parágrafo único do art. 146, in fine,
+     da Constituição Federal. (Incluído pela Lei Complementar nº 147, de 2014)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                       7
+        www.estrategiaconcursos.com.br                                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Então, veja que a LC 123/06 fala da apuração e recolhimento dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, conforme exigido
+pelo art. 146, da CF/88. Além disso, também aborda a previsão de obrigações acessórias distintas.
+
+Outro ponto de suma importância para as pequenas empresas é o tratamento diferenciado e favorecido em
+relação ao cumprimento de obrigações trabalhistas e previdenciárias (inclusive obrigações acessórias
+decorrentes).
+
+As empresas que estão iniciando suas atividades naturalmente possuem maior dificuldade para ganharem
+participação no competitivo mercado. Portanto, a LC 123/06 também foi editada com vistas a fornecer
+acesso a crédito e ao mercado, inclusive quanto à preferência nas aquisições de bens e serviços pelos
+Poderes Públicos, à tecnologia, ao associativismo e às regras de inclusão.
+
+Por último, cumprindo o art. 146, par. único, da CF/88, o referido dispositivo também cita o cadastro
+nacional único de contribuintes.
+
+O § 3º, do art. 1º também prevê que toda nova obrigação que atinja as microempresas e empresas de
+pequeno porte deverá apresentar, no instrumento que a instituiu, especificação do tratamento
+diferenciado, simplificado e favorecido para cumprimento.
+
+Em tal situação, deverá constar prazo máximo, quando forem necessários procedimentos adicionais, para
+que os órgãos fiscalizadores cumpram as medidas necessárias à emissão de documentos, realização de
+vistorias e atendimento das demandas realizadas pelas microempresas e empresas de pequeno porte com o
+objetivo de cumprir a nova obrigação.
+
+Caso o órgão fiscalizador descumpra os prazos estabelecidos na especificação do tratamento diferenciado e
+favorecido, a nova obrigação será inexigível até que seja realizada visita para fiscalização orientadora e
+seja reiniciado o prazo para regularização.
+
+Ademais, a ausência de especificação do tratamento diferenciado, simplificado e favorecido ou da
+determinação de prazos máximos, tornará a nova obrigação inexigível para as microempresas e empresas
+de pequeno porte.
+
+      Um ponto importante a ser destacado é a previsão da LC 214/25, incluindo a seguinte regra na LC
+123/06:
+
+        Art. 3º
+
+        (...)
+
+        § 19. Para fins do disposto nesta Lei Complementar, devem ser consideradas todas as
+        atividades econômicas exercidas, as receitas brutas auferidas e os débitos tributários das
+        entidades de que trata o caput e o art. 18-A, ainda que em inscrições cadastrais distintas
+        ou na qualidade de contribuinte individual, em um mesmo ano-calendário. (Incluído pela
+        Lei Complementar nº 214, de 2025) Produção de efeitos
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        8
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Ou seja, a avaliação de cada contribuinte será feita considerando todas as atividades e receitas,
+mesmo que estejam distribuídas em diferentes cadastros. Isso garante que a tributação seja justa e
+proporcional à capacidade econômica do contribuinte, independentemente da forma como ele organiza suas
+atividades. Isso evita a fragmentação artificial de uma empresa em vários cadastros distintos!
+
+
+Definição de Microempresa (ME) e Empresa de Pequeno Porte
+(EPP)
+
+Conceito de Receita Bruta
+
+        A definição de ME e EPP foi realizada pelo art. 3º, da LC 123/2006, com base no volume da receita
+bruta das empresas. Antes de partirmos para os números, é necessário entender o que vem a ser receita
+bruta, de acordo com a LC 123/06 (e isso é muito importante para nossa prova!!!):
+
+        Art. 3º - (...):
+
+        § 1º Considera-se receita bruta, para fins do disposto no caput, o produto da venda de
+        bens e serviços nas operações de conta própria, o preço dos serviços prestados, o
+        resultado nas operações em conta alheia e as demais receitas da atividade ou objeto
+        principal das microempresas ou das empresas de pequeno porte, não incluídas as vendas
+        canceladas e os descontos incondicionais concedidos.            (Redação dada pela Lei
+        Complementar nº 214, de 2025)
+
+        Vamos esmiuçar o conceito de receita bruta previsto na LC 123/2006!
+
+        Operações de conta própria → é o caso da empresa que vende suas próprias mercadorias
+        e presta seus serviços, como uma loja de roupas, por exemplo.
+
+        Operações em conta alheia → é o caso da empresa que vende produtos consignados em
+        seu estabelecimento, por meio de contratos de comissão como, por exemplo, uma loja de
+        carros.
+
+        Demais receitas da atividade ou objeto principal das ME/EPP → A LC 214/25 ampliou a
+        definição de receita bruta, para fins de enquadramento da ME ou EPP.
+
+É importante considerarmos que, ao mencionar produto da venda, preço dos serviços, resultados de
+operações em conta alheia, o legislador se refere ao valor total da receita de vendas, e não o lucro. Admite-
+se, porém, a exclusão das vendas canceladas e dos descontos incondicionais concedidos.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          9
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+       Neste ponto, vale observar que o desconto incondicional é aquele concedido independentemente de
+qualquer evento posterior à emissão da nota fiscal de venda, ou seja, eles já constam na própria nota fiscal.
+Por exemplo, quando você pede um desconto e o lojista imediatamente concede 5%, é um desconto
+incondicional. Porém, se o vendedor oferece 10% de desconto na próxima compra, trata-se de um desconto
+condicional.
+
+Vamos fechar este tópico com alguns detalhamentos constantes da Resolução CGSN 140/2018, com algumas
+parcelas que estão compreendidas no conceito de receita bruta:
+
+                             Parcelas Compreendidas no Conceito de Receita Bruta
+  o custo do financiamento nas vendas a prazo, contido no valor dos bens ou serviços ou destacado no documento
+                                                          fiscal
+                                      as gorjetas, sejam elas compulsórias ou não
+               os royalties, aluguéis e demais receitas decorrentes de cessão de direito de uso ou gozo
+                                                as verbas de patrocínio
+
+Agora trarei alguns casos de parcelas não compreendidas no conceito de receita bruta:
+
+                           Parcelas Não Compreendidas no Conceito de Receita Bruta
+                                        a venda de bens do ativo imobilizado;
+ os juros moratórios, as multas e quaisquer outros encargos auferidos em decorrência do atraso no pagamento de
+                                              operações ou prestações;
+   a remessa de mercadorias a título de bonificação, doação ou brinde, desde que seja incondicional e não haja
+                                     contraprestação por parte do destinatário;
+                                            a remessa de amostra grátis;
+ os valores recebidos a título de multa ou indenização por rescisão contratual, desde que não corresponda à parte
+                                               executada do contrato;
+ para o salão-parceiro, os valores repassados ao profissional-parceiro, desde que este esteja devidamente inscrito
+                                                      no CNPJ;
+               os rendimentos ou ganhos líquidos auferidos em aplicações de renda fixa ou variável.
+
+Se as vendas do ativo imobilizado não integram a receita bruta, é fundamental sabermos que também são
+assim considerados (e logicamente excluídos) os ativos intangíveis:
+
+I - que sejam disponibilizados para uso na produção ou fornecimento de bens ou serviços, ou para locação
+por outros, para investimento, ou para fins administrativos; e
+
+II – cuja desincorporação ocorra a partir do décimo terceiro mês contado da respectiva entrada.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 10
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Para fecharmos, é importante saber ainda que o adimplemento das obrigações comerciais por meio de troca
+de mercadorias, prestação de serviços, compensação de créditos ou qualquer outra forma de
+contraprestação é considerado receita bruta para as partes envolvidas. Ou seja, permuta de mercadoria,
+sem ingresso de caixa também configura receita bruta.
+
+Em relação ao fato gerador, para fins de recolhimento de tributos, as receitas decorrentes da venda de bens
+ou direitos ou da prestação de serviços devem ser reconhecidas quando do faturamento, da entrega do
+bem ou do direito ou à proporção em que os serviços forem efetivamente prestados, o que primeiro
+ocorrer. Esta regra também se aplica na hipótese de valores recebidos adiantadamente, ainda que no regime
+de caixa, e às vendas para entrega futura.
+
+Conceito de ME e EPP
+
+      Agora sim, você está pronto para ver os valores estipulados pelo legislador para definir o conceito de
+ME e EPP:
+
+        Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou
+        empresas de pequeno porte, a sociedade empresária, a sociedade simples, a empresa
+        individual de responsabilidade limitada e o empresário a que se refere o art. 966 da Lei
+        no 10.406, de 10 de janeiro de 2002 (Código Civil), devidamente registrados no Registro de
+        Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+
+        I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior
+        a R$ 360.000,00 (trezentos e sessenta mil reais); e
+
+        II - no caso da empresa de pequeno porte, aufira, em cada ano-calendário, receita bruta
+        superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$
+        4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+                Podem ser consideradas ME ou EPP:
+
+        -Sociedade empresária;
+
+        -Sociedade simples;
+
+        -Empresa individual de responsabilidade limitada (EIRELI);
+
+        Atenção! Atualmente, a EIRELI foi substituída pela Sociedade Limitada Unipessoal (SLU).
+
+        -Empresário.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         11
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Observação: Se as atividades da empresa se iniciaram no próprio ano-calendário, os
+        valores são proporcionais ao número de meses (inclusive as frações de meses) em que a
+        ME ou EPP houver exercido a atividade (LC 123/06, art. 3º, § 2º).
+
+        Exemplo: A empresa Alpha quer iniciar suas atividades em 20 de setembro de 2022. Como
+        setembro deve ser considerado um mês inteiro, de setembro a dezembro são 4 meses.
+        Então, seus limites proporcionais de receita bruta para 2022 serão de: 4 × R$ 400.000,00 =
+        R$ 1.600.000,00.
+
+                                       ME Receita Bruta ≤ R$ 360.000,00
+
+                           EPP R$ 360.000,00 < Receita Bruta ≤ R$ 4.800.000,00
+
+        Observação: Quanto ao prazo para opção pelo Simples Nacional, guarde o seguinte:
+
+        Para empresas em início de atividade → o prazo para solicitação de opção é de 30 dias
+        contados do último deferimento de inscrição (municipal ou estadual, caso exigíveis), desde
+        que não tenham decorridos 60 dias da inscrição do CNPJ. Se deferida, a opção produz
+        efeitos a partir da data da abertura do CNPJ. Após esse prazo, a opção somente será
+        possível no mês de janeiro do ano-calendário seguinte.
+
+        Para empresa que não está em início de atividade → a opção pelo Simples Nacional
+        somente poderá ser realizada no mês de janeiro, até o seu último dia útil, produzindo
+        efeitos a partir do primeiro dia do ano-calendário da opção.
+
+       Com base nisso, se uma empresa quiser se enquadrar como EPP, iniciando suas atividades em
+Outubro (ignoremos as frações de meses), o limite da receita bruta a ser auferida até o término do ano-
+calendário do início das atividades é de R$ 1.200.000,00 (3 x R$ 400.000,00).
+
+No caso de início de atividades, a microempresa que, no ano-calendário, exceder o limite de receita bruta
+anual de R$ 360.000,00 passa, no ano-calendário seguinte, à condição de empresa de pequeno porte. E regra
+semelhante também se aplica à empresa de pequeno porte que, no ano-calendário, não ultrapassar o limite
+de receita bruta anual de R$ 360.000,00, no ano-calendário seguinte, à condição de microempresa.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      12
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Exclusão por Excesso de Faturamento
+
+       “E se a receita bruta exceder o valor de R$ 4.800.000,00 ou o valor proporcional ao número de meses
+(R$ 1.200.000,00 no nosso exemplo)?”
+
+       Bom, nesse caso, é importante analisar se isso ocorreu no ano de início das atividades da empresa ou
+não.
+
+        Se tiver ocorrido no ano de início das atividades da empresa, e a receita bruta anual ou proporcional
+a esta tiver superado mais de 20% do limite (R$ 400.000,00 x nº de meses), ou seja, acima de R$ 480.000,00
+x nº de meses, a empresa fica excluída do Simples Nacional, com efeitos retroativos ao início das
+atividades.
+
+      Se, por outro lado, a receita bruta anual tiver excedido o limite em até 20% deste, ficará excluída do
+Simples Nacional sem, contudo, haver efeitos retroativos sobre os meses anteriores.
+
+        Vamos supor, agora, que a empresa tenha excedido o limite fora do ano de início das suas atividades.
+Neste caso, em qualquer caso, não há que se falar em efeitos retroativos. Sendo assim, se o valor exceder
+o limite em até 20%, a exclusão só produzirá efeitos a partir do próximo ano-calendário. Por outro lado, se a
+receita bruta exceder mais do que 20% do limite, a exclusão ocorre a partir do mês seguinte.
+
+        A título de ilustração do último caso apresentado, se no mês de Junho a empresa já tiver acumulado
+receita bruta superior a R$ 5.760.000,00 (R$ 4.800.000,00 + 20%), a exclusão ocorrerá a partir do mês de
+Julho. Caso contrário, a empresa deixará de participar do Simples Nacional, no ano subsequente.
+
+       E se a situação for inversa, ou seja, se a EPP faturar menos de R$ 360.000,00 no ano calendário?
+Passa, a partir do ano seguinte, à condição de ME. Semelhantemente, se a ME se desenvolver e superar o
+teto previsto para a sua categoria, passa à condição de EPP, a partir do ano seguinte, salvo se ultrapassar o
+teto de R$ 4.800.000,00, hipótese em que se aplicam as regras expostas acima.
+
+       Destaque-se que, para fins de enquadramento como EPP, a empresa pode auferir receitas de R$
+4.800.000,00 no mercado interno e, adicionalmente, receitas decorrentes de exportação de mercadorias,
+dentro do mesmo limite. Ou seja, são dois limites iguais: R$ 4.800.000,00 para o mercado interno somado a
+R$ 4.800.000,00 para exportação.
+
+        A LC 147/2014 promoveu alterações na LC 123/2006, de modo que, a partir de janeiro de
+        2015, o limite extra também será aplicável às receitas decorrentes de exportação de
+        serviços. Antes, o limite só se aplicava à exportação de mercadorias.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          13
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+       Ressaltamos que se considera exportação, ainda que realizada por meio de empresa comercial
+exportadora ou da sociedade de propósito específico, prevista no art. 56 da LC 123/2006 (art. 3º, § 14).
+
+Outro ponto digno de nota é que, em caso de empresa que venda internamente e exporte mercadorias, para
+fins de definição da base de cálculo e da alíquota aplicável, serão consideradas separadamente as receitas
+brutas auferidas no mercado interno e aquelas decorrentes da exportação (art. 3°, § 15, com redação dada
+pela LC 147/2014).
+
+        Ademais, cabe destacar também que, na hipótese de a ME ou EPP auferir receitas sujeitas a
+substituição tributária, ou decorrentes de exportação, deverá informar essas receitas destacadamente, de
+modo que o aplicativo de cálculo (PGDAS-D) as desconsidere da base de cálculo dos tributos objeto de
+substituição (no caso de a ME ou EPP se encontrar na condição de substituída tributária) ou exportação.
+Ressalte-se, porém, que essas receitas continuam fazendo parte da base de cálculo dos demais tributos
+abrangidos pelo Simples Nacional.
+
+        Observação: O Programa Gerador do Documento de Arrecadação do Simples Nacional -
+        Declaratório (PGDAS-D) é um sistema eletrônico para a realização do cálculo do Simples
+        Nacional para os períodos de apuração a partir de janeiro de 2012, conforme determinam
+        a Lei Complementar nº 123, de 14 de dezembro de 2006 (e alterações) e a Resolução CGSN
+        nº 94, de 29 de novembro de 2011.
+
+       É também muito relevante citar o que foi previsto no § 3º, do art. 3º, da LC 123/2006:
+
+        O enquadramento do empresário ou da sociedade simples ou empresária como
+        microempresa ou empresa de pequeno porte bem como o seu desenquadramento não
+        implicarão alteração, denúncia ou qualquer restrição em relação a contratos por elas
+        anteriormente firmados.
+
+        Enquadramento e desenquadramento de ME ou EPP não influenciam nos contratos por
+        elas já firmados.
+
+       Por fim, e, não menos importante, é o fato de que a LC 155/2016, ao aumentar o limite da receita
+bruta da EPP para R$ 4.800.000,00, incluiu o art. 13-A na LC 123/2006, mantendo o teto antigo (R$
+3.600.000,00) para os tributos ICMS e ISS. Como assim? Vamos entender melhor!
+
+       Você aprenderá, ainda nesta aula, que existem diversos tributos incluídos na sistemática do Simples
+Nacional, como o IRPJ, a CSLL, PIS/Pasep e Cofins, ICMS, ISS etc. A maior parte dos tributos é, sem dúvida,
+de competência da União. Quanto a esses tributos, o limite para recolhimento com base nas alíquotas
+diferenciadas do Simples Nacional é realmente de R$ 4.800.000,00.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        14
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Porém, no tocante aos tributos de competência dos Estados e DF (ICMS) e dos Municípios e DF (ISS),
+foi mantido o limite anterior de R$ 3.600.000,00. Assim, uma empresa que fature algo entre R$ 3.600.000,00
+e R$ 4.800.000,00, poderá calcular os tributos federais incluídos no Simples por essa sistemática, mas o ICMS,
+caso seja devido, será calculado conforme ocorre com as demais empresas não incluídas no Simples
+Nacional. O mesmo raciocínio se estende ao ISS. Ok?
+
+                                          LIMITES NO SIMPLES NACIONAL
+
+Limite de receita bruta para microempresas: R$ 360.000,00
+
+Limite de receita bruta para empresas de pequeno porte: R$ 4.800.000,00
+
+Limite extra de faturamento decorrentes de receitas de exportação de mercadorias/serviços: + R$
+4.800.000,00
+
+Obs.: para fins de definição da base de cálculo e da alíquota aplicável, serão consideradas separadamente
+as receitas brutas auferidas no mercado interno e aquelas decorrentes da exportação.
+
+Limite para recolhimento dos tributos federais dentro do Simples Nacional: R$ 4.800.000,00
+
+Limite para recolhimento dos tributos estaduais/municipais dentro do Simples Nacional: R$ 3.600.000,00*
+
+* Este limite é válido, exceto se houver enquadramento diferenciado, conforme será explicado.
+
+                   EXCLUSÕES POR EXCESSO DE FATURAMENTO NO SIMPLES NACIONAL
+
+1.     Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$ 480.000,00 x
+nº de meses)
+
+Regra de Exclusão: Efeitos retroativos ao início das atividades
+
+                                             -------------------------------------
+
+2.     Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até R$ 480.000,00 x nº de
+meses)
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário.
+
+                                             -------------------------------------
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           15
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+3.     Fora do Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$
+5.760.000,00)
+
+Regra de Exclusão: Produzirá efeitos a partir do a partir do mês seguinte.
+
+                                             -------------------------------------
+
+4.     Fora do Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até de R$
+5.760.000,00)
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário
+
+                                             -------------------------------------
+
+Enquadramento diferenciado por Estado, Distrito Federal ou
+Município
+
+O primeiro e mais importante ponto é saber que o Simples Nacional não é facultativo para os Estados, DF
+ou Municípios. Isto é, necessariamente o ICMS e o ISS estarão incluídos na sistemática do Simples. É uma
+garantia prevista na LC 123/06. A única facultatividade é adesão ao sublimite, caso o Estado se enquadre
+na situação que iremos explicar a partir de agora.
+
+        Você se lembra de que uma das características estabelecidas pelo legislador constituinte, no art. 146,
+par. único, II, é que poderão ser estabelecidas condições de enquadramento diferenciadas por Estado?
+
+       Em cumprimento a este preceito constitucional, a LC 123/2006 estabeleceu algumas regras que
+iremos sintetizar na tabela abaixo, a fim de facilitar a sua compreensão:
+
+            % de Participação no PIB Nacional                                           Limite da EPP
+                  % de Partic. PIB ≤ 1%                                              Até R$ 1.800.000,00
+                  % de Partic. PIB > 1%                                              Até R$ 3.600.000,00
+
+Vamos entender! Para os Estados que não tenham adotado sublimite na forma explicada acima (R$ 1,8
+milhão) e, para aqueles cuja participação no PIB seja superior a 1%, para efeito de recolhimento do ICMS e
+do ISS, observar-se-á obrigatoriamente o sublimite no valor de R$ 3.600.000,00. Afinal, já sabemos que,
+quanto ao ICMS e ISS, não vale o limite 4,8 milhões, não é mesmo? ☺
+
+        As empresas localizadas nos Estados que optarem pelo sublimite, quando excederem o teto, passarão
+a contribuir com o ICMS e o ISS (sim, o ISS também!) do mesmo modo que as demais empresas que não se
+enquadram no Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           16
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Quando um Estado opta pelo sublimite, TODOS os Municípios nele localizados adotam,
+        obrigatoriamente, o mesmo limite estadual.
+
+        Daí o fato de dizer que o ISS também é recolhido por “fora”.
+
+Como sabemos que existe limite extra para exportação, aqui não seria diferente, ou seja, o Distrito Federal
+e os Estados cuja participação no PIB brasileiro seja de até 1% poderão optar pela aplicação de sublimite de
+receita bruta anual de R$ 1.800.000,00 no mercado interno e, adicionalmente, igual sublimite para
+exportação de mercadorias ou serviços para o exterior, para efeito de recolhimento do ICMS e do ISS
+relativos aos estabelecimentos localizados em seus respectivos territórios.
+
+Por outro lado, para o Distrito Federal e os Estados que não tenham adotado sublimites na forma prevista
+no caput e para aqueles cuja participação no PIB brasileiro seja superior a 1%, deverá ser observado, para
+fins de recolhimento do ICMS e do ISS, o sublimite no valor de R$ 3.600.000,00 no mercado interno e,
+adicionalmente, igual sublimite para exportação de mercadorias ou serviços para o exterior.
+
+Agora vamos a alguns detalhes mais específicos constantes do art. 20, da LC 123/06:
+
+A participação do ente federado no PIB brasileiro será apurada levando-se em conta o último resultado
+anual divulgado pelo IBGE até o último dia útil de setembro de cada ano-calendário.
+
+Ademais, a opção e a obrigatoriedade do sublimite produzirão efeitos a partir do ano-calendário
+subsequente, salvo se outro termo inicial for determinado mediante deliberação do CGSN. Portanto, se o
+Estado optar pelo sublimite neste ano, os contribuinte se obrigarão ao sublimite a partir do ano seguinte.
+
+Os Estados e o Distrito Federal deverão manifestar-se, mediante publicação de Decreto do respectivo Poder
+Executivo, sobre a adoção de sublimite de receita bruta acumulada para efeito de recolhimento do ICMS em
+seus territórios até o último dia útil do mês de outubro.
+
+        - O limite da EPP para ICMS e ISS, como visto, é de R$ 3.600.000,00 (para os tributos federais
+        é R$ 4.800.000,00), além do limite extra para exportação;
+
+        - O sublimite é de R$ 1.800.000,00 (havendo limite extra para exportação)
+
+        - O sublimite só será aplicável se houver opção pelo Estado, sendo que tal opção vincula os
+        seus respectivos Municípios.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         17
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         - A opção e a obrigatoriedade do sublimite produzirão efeitos a partir do ano-calendário
+         subsequente
+
+         - A participação no PIB é apurada levando em consideração o último resultado do IBGE ou
+         outro órgão que o substitua.
+
+Vedações à opção pelo Simples Nacional
+
+       A LC 123/2006 estabeleceu duas distintas vedações: vedação plena e vedação parcial.
+
+Para entender melhor tais vedações, é fundamental que você se lembre de que o Simples Nacional envolve
+outros benefícios além dos tributários. Isto é, no Simples Nacional há benefícios tributários e não tributários.
+
+       A vedação plena diz respeito ao impedimento total de participar dos benefícios tributários e não
+tributários. A vedação parcial, por outro lado, impede apenas as pessoas jurídicas de obterem os benefícios
+tributários, podendo se aproveitarem dos benefícios não tributários.
+
+       Em relação às hipóteses de vedação plena e vedação parcial, não vamos ficar aqui transcrevendo
+páginas da LC 123/06. Vou apenas dizer onde está localizado, e você vai lá fazer uma leitura atenta! Vamos
+transcrever abaixo os dispositivos mais importantes sobre o tema. Vamos lá! ☺
+
+Vedação Plena
+
+         Vedação Plena (Vedação aos Benefícios Tributários e Não Tributários) 🡪 LC 123/2006, art.
+         3º, §§ 4º, 5º e 6º.
+
+       Em suma, você deve memorizar o seguinte:
+
+         Não poderá se beneficiar do tratamento jurídico diferenciado (Simples Nacional), para
+         nenhum efeito legal (vedação plena), a pessoa jurídica:
+
+         I - de cujo capital participe outra pessoa jurídica;
+
+         II - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede
+         no exterior;
+
+         III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia
+         de outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei
+         Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II
+         do caput deste artigo;
+
+         IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra
+         empresa não beneficiada por esta Lei Complementar, desde que a receita bruta global
+         ultrapasse o limite de R$ 4.800.000,00;
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                             18
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        V - cujo sócio ou titular de fato ou de direito seja administrador ou equiparado de outra
+        pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de
+        que trata o inciso II do caput;    (Redação dada pela Lei Complementar nº 214, de 2025)
+
+        VI - constituída sob a forma de cooperativas, salvo as de consumo;
+
+        VII - que participe do capital de outra pessoa jurídica;
+
+        VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de
+        caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito
+        imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de
+        empresa de arrendamento mercantil, de seguros privados e de capitalização ou de
+        previdência complementar;
+
+        IX - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento
+        de pessoa jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+
+        X - constituída sob a forma de sociedade por ações.
+
+        XI - cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço,
+        relação de pessoalidade, subordinação e habitualidade.             (Incluído pela Lei
+        Complementar nº 147, de 2014)
+
+        XII - que tenha filial, sucursal, agência ou representação no exterior.   (Incluído pela Lei
+        Complementar nº 214, de 2025)
+
+É importante frisar que, na hipótese de a microempresa ou empresa de pequeno porte incorrer em alguma
+das situações acima, será excluída do Simples Nacional, com efeitos a partir do mês seguinte ao que
+incorrida a situação impeditiva.
+
+Lembrando que a vedação dos incisos IV e VII (copiados abaixo) não se aplica à participação no capital de
+cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação e na sociedade de
+propósito específico e em associações assemelhadas, sociedades de interesse econômico, sociedades de
+garantia solidária e outros tipos de sociedade, que tenham como objetivo social a defesa exclusiva dos
+interesses econômicos das microempresas e empresas de pequeno porte.
+
+        IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra
+        empresa não beneficiada por esta Lei Complementar, desde que a receita bruta global
+        ultrapasse o limite de R$ 4.800.000,00;
+
+        VII - que participe do capital de outra pessoa jurídica;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       19
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Vedação Parcial
+
+        Vedação Parcial (Vedação aos Benefícios Tributários) → LC 123/2006, art. 17.
+
+       Como são muitas as hipóteses, inseriremos abaixo as mais importantes, sendo muito importante que
+você abra a LC 123/2006 e faça uma atenta leitura das demais:
+
+        Não poderão recolher os impostos e contribuições na forma do Simples Nacional (Vedação
+        Parcial) a microempresa ou a empresa de pequeno porte:
+
+        I - que explore atividade de prestação cumulativa e contínua de serviços de assessoria
+        creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber,
+        gerenciamento de ativos (asset management) ou compra de direitos creditórios resultantes
+        de vendas mercantis a prazo ou de prestação de serviços (factoring) ou que execute
+        operações de empréstimo, de financiamento e de desconto de títulos de crédito,
+        exclusivamente com recursos próprios, tendo como contrapartes microempreendedores
+        individuais, microempresas e empresas de pequeno porte, inclusive sob a forma de
+        empresa simples de crédito; (a parte destacada foi incluída pela LC 167/2019)
+
+        II - cujo titular ou sócio seja domiciliado no exterior;           (Redação dada pela Lei
+        Complementar nº 214, de 2025)
+
+        III - de cujo capital participe entidade da administração pública, direta ou indireta, federal,
+        estadual ou municipal;
+
+        V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas
+        Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+
+        VI - que preste serviço de transporte intermunicipal e interestadual de passageiros, exceto
+        quando na modalidade fluvial ou quando possuir características de transporte urbano ou
+        metropolitano ou realizar-se sob fretamento contínuo em área metropolitana para o
+        transporte de estudantes ou trabalhadores; (Redação dada pela Lei Complementar nº 147,
+        de 2014)
+
+        VII - que seja geradora, transmissora, distribuidora ou comercializadora de energia elétrica;
+
+        VIII - que exerça atividade de importação ou fabricação de automóveis e motocicletas;
+
+        IX - que exerça atividade de importação de combustíveis;
+
+        X - que exerça atividade de produção ou venda no atacado de:
+
+        a) cigarros, cigarrilhas, charutos, filtros para cigarros, armas de fogo, munições e pólvoras,
+        explosivos e detonantes;
+
+        b) bebidas não alcoólicas a seguir descritas:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          20
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        4 - cervejas sem álcool;
+
+        c) bebidas alcoólicas, exceto aquelas produzidas ou vendidas no atacado por:
+
+        1 - micro e pequenas cervejarias;
+
+        2 - micro e pequenas vinícolas;
+
+        3 - produtores de licores;
+
+        4 - micro e pequenas destilarias;
+
+        XII - que realize cessão ou locação de mão-de-obra;
+
+        XIV - que se dedique ao loteamento e à incorporação de imóveis.
+
+        XV - que realize atividade de locação de imóveis próprios;         (Redação dada pela Lei
+        Complementar nº 214, de 2025)
+
+        XVI - com ausência de inscrição ou com irregularidade em cadastro fiscal federal, municipal
+        ou estadual, quando exigível.
+
+       Chamamos sua atenção para a alínea “c” acima, uma vez que se trata de novas atividades admitidas
+pela LC 155/2016. Veja que, excepcionalmente, a produção ou venda no atacado de bebidas alcoólicas foi
+admitida, desde que realizada pelas empresas ali citadas.
+
+Então vamos simular algumas situações para verificar se você realmente entendeu:
+
+        - Venda no varejo de cigarros, armas de fogo, explosivos, pólvoras e bebidas alcoólicas e
+        não alcoólicas. Permitido no Simples!
+
+        - Produção ou venda no atacado de cigarros, armas de fogo, explosivos, pólvoras etc.
+        Vedado!
+
+        - Produção ou venda no atacado de bebidas alcoólicas. Como REGRA, vedado!
+
+        Situações Permitidas para Produção/Atacado: micro e pequenas cervejarias, vinícolas,
+        produtores de licores e destilarias.
+
+Tais empresas deverão obrigatoriamente ser registradas no Ministério da Agricultura, Pecuária e
+Abastecimento (MAPA) e obedecerão também à regulamentação da Agência Nacional de Vigilância Sanitária
+e da Secretaria da Receita Federal do Brasil, quanto à produção e à comercialização de bebidas alcoólicas.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       21
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Outro destaque seria o inciso VI (esquematizada abaixo):
+
+        É vedado recolher tributos com base no Simples Nacional a empresa que preste serviço de
+        transporte intermunicipal e interestadual de passageiros, exceto: (Lei Complementar nº
+        123, de 2006, art. 17, inciso VI)
+
+        a) na modalidade fluvial; ou
+
+        b) nas demais modalidades, quando:
+
+        1. o serviço caracterizar transporte urbano ou metropolitano; ou
+
+        2. o serviço realizar-se na modalidade de fretamento contínuo em área metropolitana para
+        o transporte de estudantes ou trabalhadores;
+
+Antes da LC 147/2014, todos os que prestavam serviços de transporte intermunicipal e interestadual de
+passageiros não podiam recolher os tributos na forma prevista no Simples. Atualmente, há algumas
+exceções, previstas no inciso VI acima!
+
+Enquadra-se na situação prevista no item 2 o transporte intermunicipal ou interestadual de estudantes ou
+trabalhadores que, cumulativamente:
+
+I - for realizado sob a forma de fretamento contínuo, assim considerado aquele prestado a pessoa física ou
+jurídica, mediante contrato escrito e emissão de documento fiscal, para a realização de um número
+determinado de viagens, com destino único e usuários definidos; e
+
+II - obedecer a trajetos que compreendam regiões metropolitanas, aglomerações urbanas e microrregiões,
+constituídas por agrupamentos de Municípios limítrofes, instituídas por legislação estadual.
+
+Antes de concluirmos, precisamos destacar duas regras do art. 18, que devem ser interpretadas em conjunto
+com a vedação que estudamos agora do inciso XII: não poderão recolher os impostos e contribuições na
+forma do Simples Nacional a microempresa ou a empresa de pequeno porte que realize cessão ou locação
+de mão-de-obra.
+
+O § 5º-H do art. 18, define que essa vedação de que trata o inciso XII do caput do art. 17 não se aplica às
+atividades referidas no § 5º-C deste artigo. Ou seja, ele diz que, mesmo em se tratando de cessão ou locação
+de mão de obra, poderemos ter recolhimento no Simples Nacional, em se tratando das atividades do § 5º-C,
+que nós veremos quais são (a maioria já foi revogada):
+
+   •   Construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada,
+       execução de projetos e serviços de paisagismo, bem como decoração de interiores;
+   •   Serviço de vigilância, limpeza ou conservação;
+   •   Serviços advocatícios.
+
+Mas tem um detalhe: podem continuar no Simples, mas a CPP ficará de fora!
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         22
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        - REGRA: Havendo cessão ou locação de mão de obra, a empresa recolhe fora do Simples.
+
+        - EXCEÇÕES: Recolhimento no Simples (exceto a CPP), mesmo em caso de cessão ou
+        locação de mão de obra.
+
+        - Construção de imóveis e obras de engenharia em geral, inclusive sob a forma de
+        subempreitada, execução de projetos e serviços de paisagismo, bem como decoração de
+        interiores;
+
+        - Serviço de vigilância, limpeza ou conservação;
+
+        - Serviços advocatícios.
+
+Opção pelo regime do Simples Nacional
+
+      Em relação à opção pelo regime do Simples Nacional, consideram-se automaticamente optantes
+aquelas MEs e EPPs que já eram optantes pelo Simples Federal (Lei 9.317/96) desde 2007.
+
+       No que concerne às demais empresas, a opção por esse regime diferenciado e favorecido deve ser
+feita no mês de janeiro, até seu último dia útil, hipótese que produz efeitos a partir do primeiro dia do
+ano-calendário da opção. Pode acontecer de a opção produzir efeitos desde o início das atividades da
+empresa, desde que exercida nos termos, prazo e condições a serem estabelecidos no ato do Comitê Gestor.
+
+Atenção! A opção pelo Simples Nacional será irretratável para todo o ano-calendário.
+
+        Observação: O Comitê Gestor do Simples Nacional (CGSN) constitui uma das instâncias
+        gestoras do Simples Nacional, cuja atribuição é regulamentar a opção, exclusão, tributação,
+        fiscalização, arrecadação, cobrança, dívida ativa, recolhimento e demais itens relativos ao
+        regime único de tributação.
+
+             Cabe destacar, ainda, que é o Comitê Gestor que regulamentará a opção automática
+        acima citada. Além disso, também é atribuição do Comitê Gestor regulamentar a forma
+        como o indeferimento da opção pelo Simples Nacional será efetuado, mediante ato da
+        Administração Tributária.
+
+O § 1º-A do art. 16 também estabeleceu que, ao realizar a opção pelo Simples Nacional o contribuinte aceita
+o sistema de comunicação eletrônica, destinado, dentre outras finalidades, a:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        23
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+I - cientificar o sujeito passivo de quaisquer tipos de atos administrativos, incluídos os relativos ao
+indeferimento de opção, à exclusão do regime e a ações fiscais;
+
+II - encaminhar notificações e intimações; e
+
+III - expedir avisos em geral.
+
+         Observação: Trata-se de um meio para facilitar a comunicação Fisco/Contribuinte, no
+         âmbito do Simples Nacional.
+
+Acerca do sistema de comunicação eletrônica de que trata o § 1 o-A será regulamentado pelo CGSN,
+observando-se o seguinte (art. 16, § 1º-B):
+
+I - as comunicações serão feitas, por meio eletrônico, em portal próprio, dispensando-se a sua publicação no
+Diário Oficial e o envio por via postal;
+
+II - a comunicação feita na forma prevista no caput será considerada pessoal para todos os efeitos legais;
+
+III - a ciência por meio do sistema de que trata o § 1o-A com utilização de certificação digital ou de código de
+acesso possuirá os requisitos de validade;
+
+IV - considerar-se-á realizada a comunicação no dia em que o sujeito passivo efetivar a consulta eletrônica
+ao teor da comunicação; e
+
+V - na hipótese do inciso IV, nos casos em que a consulta se dê em dia não útil, a comunicação será
+considerada como realizada no primeiro dia útil seguinte.
+
+Trata-se de uma ferramenta excepcional para a fiscalização tributária do Simples Nacional, pois facilita a
+realização de qualquer procedimento fiscal para apurar eventuais inadimplementos pelo contribuintes.
+Afinal, não é necessário expedir notificação via postal, a qual, restando ineficaz, exigiria ainda a publicação
+de edital.
+
+         Observação: A consulta deverá ser feita em até 45 dias contados da data da
+         disponibilização da comunicação no portal a que se refere o inciso I do § 1º-B, ou em prazo
+         superior estipulado pelo CGSN, sob pena de ser considerada automaticamente realizada
+         na data do término desse prazo.
+
+Vejamos, agora, o que a Resolução CGSN 140/2018 estabeleceu acerca da opção pelo Simples Nacional.
+Primeiramente, a opção pelo Simples Nacional deverá ser formalizada por meio do Portal do Simples
+Nacional.
+
+Já aprendemos que o prazo para formalizar a opção é até o último dia útil do mês de janeiro. Pois bem,
+enquanto não vencido o prazo para formalização da opção o contribuinte poderá (exceto empresas em início
+de atividade):
+
+I - regularizar eventuais pendências impeditivas do ingresso no Simples Nacional, e, caso não o faça até o
+término do prazo, o ingresso no Regime será indeferido;
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                            24
+         www.estrategiaconcursos.com.br                                                                     295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+II - cancelar o pedido de formalização da opção, salvo se este já houver sido deferido.
+
+No momento da opção, o contribuinte deverá declarar expressamente que não se enquadra nas vedações
+do Simples Nacional, independentemente das verificações realizadas pelos entes federados.
+
+No caso de opção pelo Simples Nacional feita por ME ou EPP na condição de empresa em início de atividade,
+deverá ser observado o seguinte:
+
+I - depois de efetuar a inscrição no CNPJ, a ME ou a EPP deverá, para formalizar a opção pelo Simples
+Nacional, observar o prazo de até 30 dias, contado do último deferimento de inscrição, seja ela a municipal
+ou, caso exigível, a estadual, desde que não ultrapasse 60 dias da data de abertura constante do CNPJ;
+
+II - depois de formalizada a opção pela ME ou pela EPP, a Secretaria da Receita Federal do Brasil (RFB)
+disponibilizará aos Estados, Distrito Federal e Municípios a relação de empresas optantes para verificação da
+regularidade da inscrição municipal e, quando exigível, da estadual;
+
+III - os entes federados deverão prestar informações à RFB sobre a regularidade da inscrição municipal ou,
+quando exigível, da estadual:
+
+    a) até o dia 5 de cada mês, relativamente às informações disponibilizadas pela RFB do dia 20 ao dia 31
+    do mês anterior;
+
+    b) até o dia 15 de cada mês, relativamente às informações disponibilizadas pela RFB do dia 1º ao dia 9
+    do mesmo mês; e
+
+    c) até o dia 25 de cada mês, relativamente às informações disponibilizadas pela RFB do dia 10 ao dia 19
+    do mesmo mês;
+
+IV - confirmada a regularidade da inscrição municipal e, quando exigível, da estadual, ou ultrapassado o prazo
+a que se refere o inciso III sem manifestação por parte do ente federado, a opção será deferida, observadas
+as demais disposições relativas à vedação para ingresso no Simples Nacional; e
+
+V - a opção produzirá efeitos a partir da data de abertura constante do CNPJ, salvo se o ente federado
+considerar inválidas as informações prestadas pela ME ou EPP nos cadastros estadual e municipal, hipótese
+em que a opção será indeferida.
+
+A Resolução CGSN 140/18 também prevê que a opção pelo Simples Nacional formalizada por escritório de
+serviços contábeis implica o dever deste, individualmente ou por meio de suas entidades representativas
+de classe:
+
+I - de promover atendimento gratuito relativo à inscrição, à opção pelo SIMEI e à primeira declaração anual
+simplificada do Microempreendedor Individual (MEI), o qual poderá, por meio de suas entidades
+representativas de classe, firmar convênios e acordos com a União, Estados, o Distrito Federal e Municípios,
+por intermédio dos seus órgãos vinculados;
+
+II - de fornecer, por solicitação do Comitê Gestor do Simples Nacional (CGSN), resultados de pesquisas
+quantitativas e qualitativas relativas às ME e EPP optantes pelo Simples Nacional e atendidas pelo escritório
+ou por entidade representativa de classe; e
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           25
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+III - de promover eventos de orientação fiscal, contábil e tributária para as ME e EPP optantes pelo Simples
+Nacional atendidas pelo escritório ou por entidade representativa de classe.
+
+A RFB ainda disponibilizará aos Estados, Distrito Federal e Municípios relação dos contribuintes para
+verificação quanto à regularidade para a opção pelo Simples Nacional e, posteriormente, a relação dos
+contribuintes que tiveram a sua opção deferida.
+
+É importante destacar que há atividades cujos códigos CNAE são considerados ambíguos, isto é, abrangem
+concomitantemente atividade impeditiva e permitida ao ingresso no Simples Nacional. Neste caso, a ME ou
+a EPP que exerça atividade econômica cujo código da CNAE seja considerado ambíguo poderá formalizar a
+opção pelo Simples, desde que:
+
+I - exerça apenas atividade cuja opção seja permitida no Simples Nacional; e
+
+II - declare expressamente que não se enquadra nas vedações.
+
+        Observação: O CNAE é uma Classificação Nacional de Atividades Econômicas que identifica
+        as atividades econômicas exercidas pelas empresas. Quando a empresa iniciar suas
+        atividades, precisa indicar qual é o seu CNAE. Se o CNAE for considerado ambíguo, ainda
+        terá de cumprir o que acabamos de comentar.
+
+A opção pelo Simples Nacional deverá ser formalizada por meio do Portal do Simples Nacional.
+
+A opção por esse regime diferenciado e favorecido deve ser feita no mês de janeiro, até seu último dia útil,
+hipótese que produz efeitos a partir do primeiro dia do ano-calendário da opção
+
+Na condição de empresa em início de atividade, depois de efetuar a inscrição no CNPJ, a ME ou a EPP deverá,
+para formalizar a opção pelo Simples Nacional, observar o prazo de até 30 dias, contado do último
+deferimento de inscrição, seja ela a municipal ou, caso exigível, a estadual, desde que não ultrapasse 60 dias
+da data de abertura constante do CNPJ.
+
+Enquanto não vencido o prazo para formalização da opção o contribuinte poderá cancelar o pedido de
+formalização da opção, salvo se este já houver sido deferido.
+
+A opção pelo Simples Nacional será irretratável para todo o ano-calendário.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           26
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Exclusão do regime do Simples Nacional
+
+       A exclusão do regime do Simples Nacional pode ser feita tanto de ofício, como mediante
+comunicação das empresas optantes (iniciativa do próprio contribuinte). Como vimos na observação do
+tópico anterior, cabe ao CGSN regulamentar tanto a opção como também as regras de exclusão.
+
+       Vejamos as situações em que ocorre exclusão de ofício (LC 123/2006, art. 29):
+
+        I - verificada a falta de comunicação de exclusão obrigatória;
+
+        II - for oferecido embaraço à fiscalização, caracterizado pela negativa não justificada de
+        exibição de livros e documentos a que estiverem obrigadas, bem como pelo não
+        fornecimento de informações sobre bens, movimentação financeira, negócio ou atividade
+        que estiverem intimadas a apresentar, e nas demais hipóteses que autorizam a requisição
+        de auxílio da força pública;
+
+        III - for oferecida resistência à fiscalização, caracterizada pela negativa de acesso ao
+        estabelecimento, ao domicílio fiscal ou a qualquer outro local onde desenvolvam suas
+        atividades ou se encontrem bens de sua propriedade;
+
+        IV - a sua constituição ocorrer por interpostas pessoas;
+
+        V - tiver sido constatada prática reiterada de infração ao disposto nesta Lei Complementar;
+
+        VI - a empresa for declarada inapta, na forma dos arts. 81 e 82 da Lei no 9.430, de 27 de
+        dezembro de 1996, e alterações posteriores;
+
+        VII - comercializar mercadorias objeto de contrabando ou descaminho;
+
+        VIII - houver falta de escrituração do livro-caixa ou não permitir a identificação da
+        movimentação financeira, inclusive bancária;
+
+        IX - for constatado que durante o ano-calendário o valor das despesas pagas supera em
+        20% (vinte por cento) o valor de ingressos de recursos no mesmo período, excluído o ano
+        de início de atividade;
+
+        X - for constatado que durante o ano-calendário o valor das aquisições de mercadorias para
+        comercialização ou industrialização, ressalvadas hipóteses justificadas de aumento de
+        estoque, for superior a 80% (oitenta por cento) dos ingressos de recursos no mesmo
+        período, excluído o ano de início de atividade;
+
+        XI - houver descumprimento reiterado da obrigação contida no inciso I do caput do art. 26
+        (emitir nota fiscal de venda ou prestação de serviço);
+
+        XII - omitir de forma reiterada da folha de pagamento da empresa ou de documento de
+        informações previsto pela legislação previdenciária, trabalhista ou tributária, segurado
+        empregado, trabalhador avulso ou contribuinte individual que lhe preste serviço.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      27
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Da redação acima, percebemos que a empresa que quiser permanecer no Simples Nacional precisa
+“caminhar” dentro da legalidade. Afinal, são várias as situações que podem implicar sua exclusão de ofício,
+como podemos resumir (as principais situações):
+
+   ●   Embaraço à fiscalização.
+   ●   Resistência à fiscalização, caracterizada pela negativa de acesso ao estabelecimento;
+   ●   Sua constituição ocorrer por interpostas pessoas (“laranjas”);
+   ●   Constatada prática reiterada de infração à LC 123/06;
+   ●   For declarada inapta;
+   ●   Comercializar mercadorias objeto de contrabando ou descaminho;
+   ●   Falta de escrituração do livro-caixa;
+   ●   Descumprimento reiterado da obrigação de emitir nota fiscal de venda ou prestação de serviço;
+
+        Nas hipóteses previstas nos incisos II a XII, a exclusão produzirá efeitos a partir do próprio
+        mês em que incorridas, impedindo a opção pelo Simples Nacional próximos 3 anos-
+        calendário seguintes.
+
+        O prazo será elevado para 10 anos caso seja constatada a utilização de artifício, ardil ou
+        qualquer outro meio fraudulento que induza ou mantenha a fiscalização em erro, com o
+        fim de suprimir ou reduzir o pagamento de tributo apurável segundo o Simples Nacional.
+
+        A exclusão de ofício será realizada na forma regulamentada pelo Comitê Gestor, cabendo
+        o lançamento dos tributos e contribuições apurados aos respectivos entes tributantes.
+
+Mas eu chamo a sua atenção para o inciso I: verificada a falta de comunicação de exclusão obrigatória. O
+fato é que o próprio contribuinte ficou incumbido de comunicar que se enquadrou em uma situação
+impeditiva. Se não o fizer, competirá à autoridade administrativa promover a exclusão de ofício das
+empresas optantes pelo Simples Nacional.
+
+Como veremos a seguir, a partir do momento em que o contribuinte se enquadrar em situação vedada na
+Lei Complementar 123/06 ou a partir do momento em que ultrapassar o limite previsto de receita bruta,
+deve comunicar a sua exclusão.
+
+       Vamos, então, falar sobre a exclusão do regime mediante comunicação das próprias MEs e EPPs,
+que ocorre nos seguintes casos (LC 123/2006, art. 30):
+
+        I - por opção;
+
+        II - obrigatoriamente, quando elas incorrerem em qualquer das situações de vedação
+        previstas nesta Lei Complementar; ou
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         28
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         III - obrigatoriamente, quando ultrapassado, no ano-calendário de início de atividade, o
+         limite proporcional de receita bruta de que trata o § 2º do art. 3º;
+
+         IV - obrigatoriamente, quando ultrapassado, no ano-calendário, o limite de receita bruta
+         previsto no inciso II do caput do art. 3º, quando não estiver no ano-calendário de início de
+         atividade.
+
+       Percebe-se que a exclusão por comunicação deve ser feita pela empresa, quando ela desejar não
+mais ser tributada pelo regime do Simples Nacional ou quando se enquadrar em hipótese que a impeça de
+continuar no regime (limite de faturamento ou outras situações vedadas). Atenção, lembre-se de que a
+comunicação deve ser feita à Secretaria da Receita Federal do Brasil (RFB)!
+
+      E não para por aí! Considerando o nível de exigência da prova, precisamos conhecer os prazos para
+comunicação da exclusão pelas micro e pequenas empresas. Para isso, criei uma tabela para facilitar o
+entendimento:
+
+                   Motivo da Exclusão                                       Data-Limite para comunicação à RFB
+                                                                   Até o último dia útil do mês de janeiro (afinal, a opção
+                 1) Exclusão por opção
+                                                                             é irretratável durante todo o ano).
+  2) Exclusão obrigatória, quando ME ou EPP incorrer
+                                                                    Até o último dia útil do mês subsequente àquele em
+ em qualquer das situações de vedação previstas nesta
+                                                                            que ocorrida a situação de vedação.
+                   Lei Complementar
+                                                               a) Até o último dia útil do mês seguinte àquele em que
+                                                                     tiver ultrapassado em mais de 20% do limite
+ 3) Exclusão obrigatória, quando ultrapassado, no ano-
+                                                                                     proporcional.
+ calendário de início de atividade, o limite proporcional
+                                                                  b) Até o último dia útil do mês de janeiro do ano-
+                     de receita bruta
+                                                               calendário subsequente ao de início de atividades, caso
+                                                                        o excesso seja inferior a 20% do limite.
+                                                                    a) Até o último dia útil do mês subsequente à
+                                                                 ultrapassagem em mais de 20% do limite de receita
+ 4) Exclusão obrigatória, quando ultrapassado o limite                                   bruta.
+  de receita bruta, fora do ano-calendário de início de           b) Até o último dia útil do mês de janeiro do ano-
+                        atividade                                  calendário subsequente, na hipótese de não ter
+                                                                  ultrapassado em mais de 20% do limite de receita
+                                                                                         bruta.
+
+Agora vamos para o momento de produção de efeitos da exclusão de ofício, seguindo os termos do art. 84,
+da Resolução 140/2018 e da LC 123/2006:
+
+Quando verificada a falta de comunicação de exclusão obrigatória (inciso I), a produção de efeitos será
+conforme o resumo abaixo:
+
+                                          Receita Bruta superar mais de 20%             Efeitos retroativos ao início das
+     Ano de Início de Atividades
+                                                       do limite                                   atividades
+                                          Receita Bruta superar em até 20%              Efeitos a partir do próximo ano-
+     Ano de Início de Atividades
+                                                       do limite                                   calendário.
+                                          Receita Bruta superar mais de 20%            Efeitos a partir do a partir do mês
+ Fora do Ano de Início de Atividades
+                                                       do limite                                    seguinte.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                             29
+        www.estrategiaconcursos.com.br                                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+                                            Receita Bruta superar em até 20%   Efeitos a partir do próximo ano-
+  Fora do Ano de Início de Atividades
+                                                        do limite                         calendário
+
+Demais situações:
+
+Nas hipóteses previstas nos incisos II a XII, a exclusão produzirá efeitos a partir do próprio mês em que
+incorridas, impedindo a opção pelo Simples Nacional próximos 3 anos-calendário seguintes.
+
+A partir do mês subsequente ao do descumprimento das suas obrigações específicas previstas na LC
+140/2018, quando se tratar de escritórios de serviços contábeis;
+
+         Observação: Trata-se do disposto no art. 18, § 22-B da LC 123/06, que prevê os escritórios
+         de serviços contábeis, individualmente ou por meio de suas entidades representativas de
+         classe, deverão promover atendimento gratuito relativo à inscrição, à opção de que trata
+         o art. 18-A desta Lei Complementar (MEI) e à primeira declaração anual simplificada da
+         microempresa individual, entre outros aspectos.
+
+A partir da data dos efeitos da opção pelo Simples Nacional, nas hipóteses em que:
+
+a) for constatado que, quando do ingresso no Simples Nacional, a ME ou a EPP incorria em alguma das
+hipóteses de vedação;
+
+b) for constatada declaração inverídica prestada (de que não se enquadra em hipóteses de vedação);
+
+A partir do primeiro dia do mês seguinte ao da ocorrência, na hipótese de ausência ou irregularidade no
+cadastro fiscal federal, municipal ou, quando exigível, estadual;
+
+A partir do ano-calendário subsequente ao da ciência do termo de exclusão, se a empresa estiver em débito
+com o Instituto Nacional do Seguro Social (INSS), ou com as Fazendas Públicas Federal, Estadual ou Municipal,
+cuja exigibilidade não esteja suspensa.
+
+Agora, vamos para o resumo do resumo, ou seja, o resumão! :)
+
+                    EXCLUSÕES POR EXCESSO DE FATURAMENTO NO SIMPLES NACIONAL
+
+1. Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$ 480.000,00 x nº
+   de meses)
+
+Regra de Exclusão: Efeitos retroativos ao início das atividades
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 30
+         www.estrategiaconcursos.com.br                                                                           295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Data-Limite para Comunicação: Até o último dia útil do mês seguinte;
+
+                                             -------------------------------------
+
+2.     Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até R$ 480.000,00 x nº de
+meses)
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário.
+
+Data-Limite para Comunicação: Até o último dia útil do mês de janeiro do ano-calendário subsequente;
+
+                                             -------------------------------------
+
+3.     Fora do Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$
+5.760.000,00)
+
+Regra de Exclusão: Produzirá efeitos a partir do a partir do mês seguinte.
+
+Data-Limite para Comunicação: Até o último dia útil do mês subsequente
+
+                                             -------------------------------------
+
+4.     Fora do Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até de R$
+5.760.000,00)
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário
+
+Data-Limite para Comunicação: Até o último dia útil do mês de janeiro do ano-calendário subsequente
+
+                                             -------------------------------------
+
+É difícil memorizar todas essas regras??? Não, não é! Deixa eu facilitar sua vida e te provar isso:
+
+Vamos, primeiramente, nos atentar ao fato de que há dois tipos de situações: para empresa em início de
+atividades (primeiro ano de atividade) ou para empresas que já não se encontram mais nesta situação. Ok?
+
+Regra de Exclusão (até 20% de excesso): Se a Receita Bruta (RB) for de até 20% a mais, a regra de exclusão
+sempre será no próximo ano-calendário, não muda nada.
+
+Regra de Exclusão (mais de 20% de excesso): Se a Receita Bruta (RB) superar 20%, a regra de exclusão será
+no próximo mês (para empresas antigas) ou retroagirá para empresa no início de atividades.
+
+Data-Limite para Comunicação: Será sempre no mês seguinte (para os casos em que superam 20%) ou será
+em janeiro do ano seguinte (para os casos de até 20%).
+
+Simples! Está tudo memorizado agora, não é?!
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       31
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Da Exclusão de Ofício
+
+A Resolução CGSN 140/2018 detalha alguns aspectos referentes à exclusão de ofício do Simples Nacional.
+Primeiramente, vamos esquematizar a competência dos órgãos para realizar tal exclusão:
+
+                                                      I - da RFB;
+        II - das secretarias estaduais competentes para a administração tributária, segundo a localização do
+                                                  estabelecimento;
+         III - dos Municípios, tratando-se de prestação de serviços incluídos na sua competência tributária.
+
+E como tal exclusão ocorrerá?
+
+Primeiramente, será expedido termo de exclusão do Simples Nacional pelo ente federado que iniciar o
+processo de exclusão de ofício.
+
+Será dada ciência do termo de exclusão à ME ou à EPP pelo ente federado que tenha iniciado o processo de
+exclusão, segundo a sua respectiva legislação. Ou seja, tudo será feito de forma eletrônica. Afinal, a opção
+pelo Simples Nacional implica aceitação do sistema de comunicação eletrônica, denominado Domicílio
+Tributário Eletrônico do Simples Nacional (DTE-SN), conforme art. 122 da Resolução 140/2018:
+
+     Art. 122. A opção pelo Simples Nacional implica aceitação do sistema de comunicação eletrônica, denominado
+     Domicílio Tributário Eletrônico do Simples Nacional (DTE-SN), destinado a: (Lei Complementar nº 123, de 2006,
+     art. 16, §§ 1º-A a 1º-D)
+
+     I - cientificar o sujeito passivo de quaisquer tipos de atos administrativos, incluídos os relativos ao indeferimento
+     de opção, à exclusão do Regime e a ações fiscais;
+
+     II - encaminhar notificações e intimações; e
+
+     III - expedir avisos em geral.
+
+Na hipótese de a ME ou a EPP, dentro do prazo estabelecido pela legislação do ente federado que iniciou o
+processo, impugnar o termo de exclusão, este se tornará efetivo quando a decisão definitiva for desfavorável
+ao contribuinte. Se não houver, dentro do prazo estabelecido pela legislação do ente federado que iniciou o
+processo, impugnação do termo de exclusão, este se tornará efetivo depois de vencido o respectivo prazo.
+
+A exclusão de ofício será registrada no Portal do Simples Nacional na internet, pelo ente federado que a
+promoveu, após vencido o prazo de impugnação estabelecido pela legislação do ente federado que iniciou
+o processo, sem sua interposição tempestiva, ou, caso interposto tempestivamente, após a decisão
+administrativa definitiva desfavorável à empresa, condicionados os efeitos dessa exclusão a esse registro.
+
+        Observação: Fica dispensado tal registro para a exclusão retroativa de ofício efetuada após
+        a baixa no CNPJ, condicionados os efeitos dessa exclusão à efetividade do termo de
+        exclusão.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                       32
+        www.estrategiaconcursos.com.br                                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Ainda que a ME ou a EPP exerça exclusivamente atividade não incluída na competência tributária
+municipal, se tiver débitos perante a Fazenda Pública Municipal, ausência de inscrição ou irregularidade
+no cadastro fiscal, o Município poderá proceder à sua exclusão do Simples Nacional por esses motivos.
+
+Ademais, ainda que a ME ou a EPP não tenha estabelecimento em sua circunscrição, o Estado poderá excluí-
+la do Simples Nacional se ela estiver em débito perante a Fazenda Pública Estadual ou se não tiver inscrita
+no cadastro fiscal, quando exigível, ou se o cadastro estiver em situação irregular.
+
+Tributação no Simples Nacional
+
+         Vamos falar dos tributos no Simples Nacional especificamente. Mas, antes, vamos entender as regras
+iniciais previstas no Capítulo IV da LC 123/2006:
+
+       O art. 12, da LC 123/2006 instituiu o Simples Nacional:
+
+           Art. 12. Fica instituído o Regime Especial Unificado de Arrecadação de Tributos e
+           Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples
+           Nacional.
+
+       Ademais, a LC 214/25 trouxe para dentro do Simples Nacional os princípios já previstos na
+Constituição Federal pela EC 132/2023 (Reforma Tributária). Vejamos:
+
+           Art. 12.
+
+           (...)
+
+           § 2º O Simples Nacional deve observar os princípios da simplicidade, da transparência, da
+           justiça tributária, da cooperação e integração das administrações tributárias da União, dos
+           Estados, do Distrito Federal e dos Municípios e da defesa do meio ambiente. (Incluído
+           pela Lei Complementar nº 214, de 2025)
+
+       Foram acrescidos 5 princípios a serem observados no Sistema Tributário Nacional:
+
+       •      Simplicidade;
+       •      Transparência;
+       •      Justiça Tributária;
+       •      Cooperação;
+       •      Defesa do meio ambiente.
+
+       O princípio da simplicidade indica o que você mesmo acabou de ler: um sistema tributário simples
+para o contribuinte. Isso implica simplificar a forma de apuração e recolhimento dos tributos, simplificar a
+interpretação da legislação tributária, facilitar o cumprimento de obrigações tributárias acessórias.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         33
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Já o princípio da transparência tem relação com a percepção do contribuinte acerca da carga
+tributária que lhe está sendo imposta.
+
+       O princípio da justiça tributária lembra-nos do princípio da capacidade contributiva, afinal, tem
+relação com a adequação da carga tributária à capacidade econômica do contribuinte. Significa retirar o peso
+da carga tributária de quem não possui capacidade financeira para suportá-la.
+
+       A imposição de tributos tem uma relação indissociável com os deveres do Estado e dos direitos dos
+contribuintes. Veja, por exemplo o caso da saúde. O art. 196, da CF/88 estabelece que a saúde é um direito
+de todos e dever do Estado. Assim, o Estado precisa arrecadar recursos para custear o Sistema Único de
+Saúde. A cooperação tem sentido quando a tributação encontra-se aliada aos direitos e necessidades dos
+contribuintes.
+
+       A reforma tributária trouxe uma série de regras visando à defesa do meio ambiente. Afinal, este
+passa a ser um princípio tributário a ser observado na tributação. Desse modo, para cumprir esse princípio,
+espera-se uma tributação extrafiscal, que contribua para a preservação do meio ambiente.
+
+        Ademais, o § 3º (também incluído pela LC 214/25) definiu que a União, os Estados, o Distrito Federal
+e os Municípios exercerão a administração tributária do Simples Nacional de forma integrada, nos termos
+e limites estabelecidos pela CF e pela LC.
+
+Continuando...
+
+      A opção pelo regime de tributação do Simples Nacional acarreta, para as MEs e EPPs, o recolhimento
+mensal, mediante documento único de arrecadação de diversos impostos e contribuições. Este documento
+é denominado Documento de Arrecadação do Simples Nacional (DAS).
+
+        Somente alguns impostos e contribuições estão incluídos na sistemática do Simples
+        Nacional.
+
+        Não se inclui nesse regime as demais espécies tributárias.
+
+       É importante salientar também que, muito embora os cálculos dos tributos sejam feitos com base na
+receita auferida no mês (regime de competência), a LC 123/06 permite, na forma regulamentada pelo
+Comitê Gestor, que a empresa opte do cálculo pelo regime de caixa, considerando as receitas efetivamente
+recebidas no mês.
+
+        Observação: Para determinação da faixa de alíquotas aplicável, o sujeito passivo deverá
+        continuar utilizando o regime de competência. A receita mensal recebida (regime de caixa)
+        será utilizada, para efeito de determinação da base de cálculo mensal, na apuração dos
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         34
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        valores devidos, ou seja, o valor sobre o qual incidirão as alíquotas dos tributos incluídos
+        na sistemática do Simples Nacional.
+
+       Outro detalhe a ser destacado é que, em cumprimento ao postulado da isonomia, as alíquotas são
+progressivas, diretamente em função do volume de receitas. Ou seja, aqueles que vendem mais, possuem
+incidência mais gravosa.
+
+      Ademais, também em decorrência do princípio da isonomia, há distinção entre as alíquotas,
+conforme a atividade exercida pela empresa (comércio, indústria ou prestação de serviços).
+
+       Vamos ver, então, quais são os tributos incluídos na sistemática do Simples Nacional:
+
+        Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de
+        arrecadação, dos seguintes impostos e contribuições:
+
+        I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+
+        II - Imposto sobre Produtos Industrializados - IPI, observado o disposto no inciso XII do § 1o
+        deste artigo;
+
+        III - Contribuição Social sobre o Lucro Líquido - CSLL;
+
+        IV - Contribuição para o Financiamento da Seguridade Social - COFINS, observado o
+        disposto no inciso XII do § 1o deste artigo;
+
+        V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1o deste artigo;
+
+        VI - Contribuição Patronal Previdenciária - CPP para a Seguridade Social, a cargo da pessoa
+        jurídica, de que trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da
+        microempresa e da empresa de pequeno porte que se dedique às atividades de prestação
+        de serviços referidas no § 5º-C do art. 18 desta Lei Complementar;
+
+        VII - Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de
+        Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS;
+
+        VIII - Imposto sobre Serviços de Qualquer Natureza - ISS.
+
+        Observação: Serviços excepcionados da inclusão da CPP no Simples Nacional:
+
+        1) Construção de imóveis e obras de engenharia em geral, inclusive sob a forma de
+        subempreitada, execução de projetos e serviços de paisagismo, bem como decoração de
+        interiores;
+
+        2) Serviço de vigilância, limpeza ou conservação;
+
+        3) Serviços advocatícios (Incluído pela LC 147/2014).
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         35
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+     Vamos ver, então, os impostos e contribuições não submetidos ao Simples Nacional:
+
+      I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores
+      Mobiliários - IOF;
+
+      II - Imposto sobre a Importação de Produtos Estrangeiros - II;
+
+      III - Imposto sobre a Exportação, para o Exterior, de Produtos Nacionais ou Nacionalizados
+      - IE;
+
+      IV - Imposto sobre a Propriedade Territorial Rural - ITR;
+
+      V - Imposto de Renda, relativo aos rendimentos ou ganhos líquidos auferidos em
+      aplicações de renda fixa ou variável;
+
+      VI - Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do
+      ativo permanente;
+
+      VII - Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos
+      e Direitos de Natureza Financeira - CPMF; (atualmente extinta)
+
+      VIII - Contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS;
+
+      IX - Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+
+      X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade
+      de contribuinte individual;
+
+      XI - Imposto de Renda relativo aos pagamentos ou créditos efetuados pela pessoa jurídica
+      a pessoas físicas;
+
+      XII - Contribuição para o PIS/Pasep, Cofins e IPI incidentes na importação de bens e
+      serviços;
+
+      XIII - ICMS devido:
+
+      a) nas operações sujeitas ao regime de substituição tributária, tributação concentrada em
+      uma única etapa (monofásica) e sujeitas ao regime de antecipação do recolhimento do
+      imposto com encerramento de tributação, envolvendo combustíveis e lubrificantes;
+      energia elétrica; cigarros e outros produtos derivados do fumo; bebidas; óleos e azeites
+      vegetais comestíveis; farinha de trigo e misturas de farinha de trigo; massas alimentícias;
+      açúcares; produtos lácteos; carnes e suas preparações; preparações à base de cereais;
+      chocolates; produtos de padaria e da indústria de bolachas e biscoitos; sorvetes e
+      preparados para fabricação de sorvetes em máquinas; cafés e mates, seus extratos,
+      essências e concentrados; preparações para molhos e molhos preparados; preparações de
+      produtos vegetais; rações para animais domésticos; veículos automotivos e automotores,
+      suas peças, componentes e acessórios; pneumáticos; câmaras de ar e protetores de
+      borracha; medicamentos e outros produtos farmacêuticos para uso humano ou
+
+
+      Receita Federal (Analista Tributário) Direito Tributário                                      36
+      www.estrategiaconcursos.com.br                                                                295
+
+                                    
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+      veterinário; cosméticos; produtos de perfumaria e de higiene pessoal; papéis; plásticos;
+      canetas e malas; cimentos; cal e argamassas; produtos cerâmicos; vidros; obras de metal e
+      plástico para construção; telhas e caixas d’água; tintas e vernizes; produtos eletrônicos,
+      eletroeletrônicos e eletrodomésticos; fios; cabos e outros condutores; transformadores
+      elétricos e reatores; disjuntores; interruptores e tomadas; isoladores; para-raios e
+      lâmpadas; máquinas e aparelhos de ar-condicionado; centrifugadores de uso doméstico;
+      aparelhos e instrumentos de pesagem de uso doméstico; extintores; aparelhos ou
+      máquinas de barbear; máquinas de cortar o cabelo ou de tosquiar; aparelhos de depilar,
+      com motor elétrico incorporado; aquecedores elétricos de água para uso doméstico e
+      termômetros; ferramentas; álcool etílico; sabões em pó e líquidos para roupas;
+      detergentes; alvejantes; esponjas; palhas de aço e amaciantes de roupas; venda de
+      mercadorias pelo sistema porta a porta; nas operações sujeitas ao regime de substituição
+      tributária pelas operações anteriores; e nas prestações de serviços sujeitas aos regimes de
+      substituição tributária e de antecipação de recolhimento do imposto com encerramento
+      de tributação; (Redação dada pele Lei Complementar nº 147, de 2014)
+
+      b) por terceiro, a que o contribuinte se ache obrigado, por força da legislação estadual ou
+      distrital vigente;
+
+      c) na entrada, no território do Estado ou do Distrito Federal, de petróleo, inclusive
+      lubrificantes e combustíveis líquidos e gasosos dele derivados, bem como energia elétrica,
+      quando não destinados à comercialização ou industrialização;
+
+      d) por ocasião do desembaraço aduaneiro;
+
+      e) na aquisição ou manutenção em estoque de mercadoria desacobertada de documento
+      fiscal;
+
+      f) na operação ou prestação desacobertada de documento fiscal;
+
+      g) nas operações com bens ou mercadorias sujeitas ao regime de antecipação do
+      recolhimento do imposto, nas aquisições em outros Estados e Distrito Federal:
+
+      1. com encerramento da tributação, observado o disposto no inciso IV do § 4º do art. 18
+      desta Lei Complementar;
+
+      2. sem encerramento da tributação, hipótese em que será cobrada a diferença entre a
+      alíquota interna e a interestadual, sendo vedada a agregação de qualquer valor;
+
+      h) nas aquisições em outros Estados e no Distrito Federal de bens ou mercadorias, não
+      sujeitas ao regime de antecipação do recolhimento do imposto, relativo à diferença entre
+      a alíquota interna e a interestadual;
+
+      XIV - ISS devido:
+
+      a) em relação aos serviços sujeitos à substituição tributária ou retenção na fonte;
+
+      b) na importação de serviços;
+
+
+      Receita Federal (Analista Tributário) Direito Tributário                                      37
+      www.estrategiaconcursos.com.br                                                                295
+
+                                    
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        XV - demais tributos de competência da União, dos Estados, do Distrito Federal ou dos
+        Municípios, não relacionados nos incisos anteriores.
+
+        Observação:
+
+        A CPMF já foi extinta.
+
+        Não se assuste com a extensa redação da alínea “a” do inciso XII, pois o mais importante é
+        fazer uma leitura atenta e saber que não está compreendido no Simples Nacional o ICMS
+        nas operações sujeitas ao regime de substituição tributária, tributação concentrada em
+        uma única etapa (monofásica) e sujeitas ao regime de antecipação do recolhimento do
+        imposto com encerramento de tributação.
+
+        A alínea “h” se refere ao diferencial de alíquotas (DIFAL) disciplinado pela CF/88, no art.
+        155, § 2º, VII.
+
+       A maneira mais eficaz de memorizar os impostos e contribuições que estão incluídos no regime do
+Simples Nacional é lembrar que, com exceção da Contribuição Patronal Previdenciária, todos os demais
+citados guardam alguma relação com o faturamento da empresa. Ademais, como foi dito, elimine qualquer
+alternativa de prova que cite outras espécies tributárias, que não os impostos e contribuições.
+
+        Acrescentamos, por fim, que os valores efetivamente pagos ou distribuídos ao titular ou sócio da
+microempresa ou empresa de pequeno porte, optante pelo Simples Nacional, são isentos de Imposto de
+Renda da Pessoa Física (IRPF), salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados.
+Isso significa que a remuneração por serviços prestados pelo sócio sofre tributação e a remuneração
+decorrente de distribuição de lucros é isenta!
+
+        Observação: Esta isenção não é um benefício exclusivo das empresas optantes pelo
+        Simples Nacional, já que tal isenção também ocorre em relação às demais empresas não
+        optantes pelo Simples Nacional, em decorrência do disposto no art. 10, da Lei 9.249/1995.
+
+Em relação ao ICMS, gostaria que você memorizasse as principais situações em que a tributação ocorrerá
+fora do Simples Nacional:
+
+        - Nas operações sujeitas ao regime de substituição tributária;
+
+        - Nas operações de tributação concentrada em uma única etapa (monofásica);
+
+        - Sujeitas ao regime de antecipação do recolhimento do imposto com encerramento de
+        tributação, envolvendo: combustíveis e lubrificantes; energia elétrica; cigarros e outros
+        produtos derivados do fumo; bebidas;
+
+        - Por ocasião do desembaraço aduaneiro (ICMS devido na importação);
+
+        - Na aquisição ou manutenção em estoque de mercadoria desacobertada de documento
+        fiscal (ICMS devido na aquisição sem NFe);
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      38
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         - Na operação ou prestação desacobertada de documento fiscal (ICMS devido na venda
+         sem NFe);
+
+         - Nas operações com bens ou mercadorias sujeitas ao regime de antecipação do
+         recolhimento do imposto, nas aquisições em outros Estados e Distrito Federal:
+
+Outra dica importante é que as operações de importação foram excluídas do Simples Nacional:
+
+         - Imposto de Importação;
+
+         - ICMS na importação;
+
+         - IPI na importação;
+
+         - ISS na importação;
+
+         - PIS/COFINS na importação;
+
+         Distribuição de lucros 🡪 isenção de IRPF
+
+         Remuneração por pró-labore, aluguéis ou serviço prestado 🡪 Tributação por IRPF.
+
+Agora vejamos a regra do art. 13, § 3º, da LC 123/2006, que estabelece o seguinte:
+
+     Art. 13:
+
+     (...)
+
+     § 3º As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam dispensadas do
+     pagamento das demais contribuições instituídas pela União, inclusive as contribuições para as entidades
+     privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata o art. 240 da
+     Constituição Federal, e demais entidades de serviço social autônomo.
+
+Segundo essa regra, a ME/EPP está dispensada do pagamento de todas as demais contribuições não
+mencionadas no art. 13, § 1º (que trata das situações em que o contribuinte deve recolher separadamente
+os tributos), bem como aquelas já incluídas no Simples Nacional.
+
+Assim, para resumir, o contribuinte continua obrigado a pagar (por fora do Simples) as seguintes
+contribuições, já estudadas acima:
+
+         VIII - Contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS;
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 39
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        IX - Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+
+        X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade
+        de contribuinte individual;
+
+        XII - Contribuição para o PIS/Pasep, Cofins e IPI incidentes na importação de bens e
+        serviços;
+
+Mas está desobrigado ao pagamento de qualquer outra contribuição devida à União.
+
+O ponto de questionamento seria a regra prevista na Lei 8.212/91:
+
+     Art. 31. A empresa contratante de serviços executados mediante cessão de mão de obra, inclusive em regime
+     de trabalho temporário, deverá reter 11% (onze por cento) do valor bruto da nota fiscal ou fatura de prestação
+     de serviços e recolher, em nome da empresa cedente da mão de obra, a importância retida até o dia 20 (vinte)
+     do mês subsequente ao da emissão da respectiva nota fiscal ou fatura, ou até o dia útil imediatamente anterior
+     se não houver expediente bancário naquele dia, observado o disposto no § 5o do art. 33 desta Lei. (Redação dada
+     pela Lei nº 11.933, de 2009).
+
+Ora, tal dispositivo obriga a empresa contratante realizar a retenção de 11% do valor bruto da nota fiscal de
+prestação de serviços. Mas e se o prestador do serviço for ME/EPP optante pelo Simples Nacional. Como
+ficaria?
+
+A resposta está na Súmula 425 do STJ:
+
+        Súmula 425 STJ - A retenção da contribuição para a seguridade social pelo tomador do
+        serviço não se aplica às empresas optantes pelo Simples.
+
+Por último, e não menos importante, destacamos a possibilidade prevista no art. 18, § 18, da LC 123/06, que
+prevê a possibilidade de os Estados, Distrito Federal e Municípios estabelecer, na forma definida pelo
+Comitê Gestor, independentemente da receita bruta recebida no mês pelo contribuinte, valores fixos
+mensais para o recolhimento do ICMS e do ISS devido por microempresa que aufira receita bruta, no ano-
+calendário anterior, de até o limite máximo previsto na segunda faixa de receitas brutas anuais constantes
+dos Anexos I a VI (falaremos sobre esse valor logo abaixo), ficando a microempresa sujeita a esses valores
+durante todo o ano-calendário.
+
+       A definição do Comitê Gestor ocorreu na Resolução CGSM n° 140/2018, art. 33:
+
+        Art. 33. Os Estados, o Distrito Federal e os Municípios, no âmbito de suas respectivas
+        competências, independentemente da receita bruta auferida no mês pelo contribuinte,
+        poderão adotar valores fixos mensais, inclusive por meio de regime de estimativa fiscal ou
+        arbitramento, para o recolhimento do ICMS e do ISS devido por ME que tenha auferido
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 40
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        receita bruta total acumulada, nos mercados interno e externo, conjuntamente, no ano-
+        calendário anterior, de até R$ 360.000,00 (trezentos e sessenta mil reais), observado o
+        disposto neste artigo. (Lei Complementar nº 123, de 2006, art. 18, § 18)
+
+Se, por algum motivo, a empresa ultrapassar o limite acima fixado, voltará a recolher o ISS e ICMS da mesma
+forma que as demais empresas optantes pelo Simples Nacional, a partir do mês subsequente à ocorrência
+do excesso.
+
+        Atenção! Existe a possibilidade de ME recolher ICMS e ISS por meio de valores fixos
+        mensais, desde que haja estabelecimento pelos Estados, Distrito Federal e Municípios,
+        nos termos da Resolução CGSM n° 140/2018.
+
+Agora vejamos alguns detalhes adicionais acrescentados à CF/88 pela EC 132/2023:
+
+        Art. 146. Cabe à lei complementar:
+
+        (...)
+
+        § 2º É facultado ao optante pelo regime único de que trata o § 1º apurar e recolher os
+        tributos previstos nos arts. 156-A e 195, V, nos termos estabelecidos nesses artigos,
+        hipótese em que as parcelas a eles relativas não serão cobradas pelo regime único.
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+A Reforma Tributária acrescentou os §§ 2º e 3º ao art. 146, relativamente ao Simples Nacional, para adequá-
+lo à tributação pelo IBS e CBS.
+
+A primeira regra a saber é que a empresa optante pelo Simples Nacional poderá também fazer opção por
+apurar e recolher o IBS e a CBS dentro do Simples Nacional ou não. Se a opção for pelo recolhimento por
+fora do Simples, tais tributos não serão cobrados juntamente com os demais tributos incluídos na sistemática
+do Simples, devendo ser recolhidos em separado.
+
+Cálculo dos Tributos Devidos
+
+Não se espera uma prova de cálculo sobre Simples Nacional. Não é comum. Mas vamos pelo menos e
+entender a lógica de cálculo e apuração dos tributos devidos nesse regime de tributação.
+
+Sabe-se que o Simples Nacional é recolhimento mensalmente. Assim, o valor devido a cada mês pela
+microempresa ou empresa de pequeno porte optante pelo Simples Nacional será determinado mediante
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         41
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+aplicação das alíquotas efetivas, calculadas a partir das alíquotas nominais constantes das tabelas dos Anexos
+I a V da LC 123/06, sobre a base de cálculo.
+
+        Observação: Para efeito de determinação da alíquota nominal, o sujeito passivo utilizará a
+        receita bruta acumulada nos doze meses anteriores ao do período de apuração.
+
+        Em caso de início de atividade, os valores de receita bruta acumulada constantes dos
+        Anexos I a V desta Lei Complementar devem ser proporcionalizados ao número de meses
+        de atividade no período.
+
+A alíquota efetiva é apurada da seguinte forma:
+
+                                                    RBT12xAliq-PD,
+                                                          RBT12
+
+
+        I - RBT12: receita bruta acumulada nos doze meses anteriores ao período de apuração;
+
+        II - Aliq: alíquota nominal constante dos Anexos I a V da LC 123/2006;
+
+        III - PD: parcela a deduzir constante dos Anexos I a V da LC 123/2006.
+
+Vamos a um exemplo. Digamos que uma loja de roupas (comércio, logo Anexo I da LC 123/2006) tenha
+auferido nos últimos 12 meses receita bruta acumulada de R$ 1.000.000,00. A tabela do Anexo I prevê o
+seguinte (não faz sentido algum tentar memorizar isso):
+
+                    Receita Bruta em 12 Meses (em R$)                  Alíquota     Valor a Deduzir
+                                                                                       (em R$)
+                1a Faixa      Até 180.000,00                               4,00%           -
+                2a Faixa      De 180.000,01 a 360.000,00                   7,30%       5.940,00
+                3a Faixa      De 360.000,01 a 720.000,00                   9,50%       13.860,00
+                4a Faixa      De 720.000,01 a 1.800.000,00                 10,70%      22.500,00
+                5a Faixa      De 1.800.000,01 a 3.600.000,00               14,30%      87.300,00
+                6a Faixa      De 3.600.000,01 a 4.800.000,00               19,00%     378.000,00
+
+
+Ora, a empresa hipotética entraria na quarta faixa, que prevê a alíquota nominal de 10,70%, com parcela a
+deduzir de R$ 22.500,00. Então o cálculo ficaria:
+
+(R$ 1.000.000,00 x 0,1070) – R$ 22.500,00/R$ 1.000.000,00 = Alíquota Efetiva de 8,45%.
+
+A LC 123/06 ainda prevê que os percentuais efetivos de cada tributo serão calculados a partir da alíquota
+efetiva, multiplicada pelo percentual de repartição constante dos Anexos I a V, observando-se que:
+
+I - o percentual efetivo máximo destinado ao ISS será de 5% (cinco por cento), transferindo-se eventual
+diferença, de forma proporcional, aos tributos federais da mesma faixa de receita bruta anual;
+
+II - eventual diferença centesimal entre o total dos percentuais e a alíquota efetiva será transferida para o
+tributo com maior percentual de repartição na respectiva faixa de receita bruta.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           42
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A título de exemplo, vejamos como seria a distribuição dos tributos no Anexo I (evidentemente, também não
+faz sentido algum tentar memorizar isso):
+
+  Faixas                               Percentual de Repartição dos Tributos
+                   IRPJ                       CSLL               Cofins PIS/Pasep             CPP       ICMS
+ 1a Faixa         5,50%                        3,50%               12,74%       2,76%       41,50%     34,00%
+ 2a Faixa         5,50%                        3,50%               12,74%       2,76%       41,50%     34,00%
+ 3a Faixa         5,50%                        3,50%               12,74%       2,76%       42,00%     33,50%
+ 4a Faixa         5,50%                        3,50%               12,74%       2,76%       42,00%     33,50%
+ 5a Faixa         5,50%                        3,50%               12,74%       2,76%       42,00%     33,50%
+ 6a Faixa        13,50%                       10,00%               28,27%       6,13%       42,10%        -
+
+
+Agora, vejamos alguns detalhamentos sobre a base de cálculo do Simples Nacional, previstos na Resolução
+CGSN 140/2018:
+
+     Art. 16. A base de cálculo para a determinação do valor devido mensalmente pela ME ou pela EPP optante pelo
+     Simples Nacional será a receita bruta total mensal auferida (Regime de Competência) ou recebida (Regime de
+     Caixa), conforme opção feita pelo contribuinte. (Lei Complementar nº 123, de 2006, art. 18, caput e § 3º)
+
+     § 1º O regime de reconhecimento da receita bruta será irretratável para todo o ano-calendário. (Lei
+     Complementar nº 123, de 2006, art. 18, § 3º)
+
+     § 2º Na hipótese de a ME ou a EPP ter estabelecimentos filiais, deverá ser considerado o somatório das receitas
+     brutas de todos os estabelecimentos. (Lei Complementar nº 123, de 2006, art. 18, caput)
+
+     § 3º Para os efeitos do disposto neste artigo:
+
+     I - a receita bruta auferida ou recebida será segregada na forma prevista no art. 25; e (Lei Complementar nº 123,
+     de 2006, art. 18, §§ 4º e 4º-A)
+
+     II - consideram-se separadamente, em bases distintas, as receitas brutas auferidas ou recebidas no mercado
+     interno e aquelas decorrentes de exportação para o exterior. (Lei Complementar nº 123, de 2006, art. 3º, §
+     15) (Redação dada pelo(a) Resolução CGSN nº 141, de 06 de julho de 2018)
+
+Então, vamos resumir para facilitar:
+
+        Base de Cálculo: receita bruta total mensal auferida (Regime de Competência) ou recebida
+        (Regime de Caixa)
+
+        A escolha entre Regime de Caixa ou Competência é do próprio contribuinte.
+
+        Feita a opção, esta será irretratável para todo o ano-calendário.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   43
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Se a empresa tiver várias filiais, deverá ser considerado o somatório das receitas brutas de
+        todos os estabelecimentos.
+
+        Conforme determina a LC 123/06, consideram-se separadamente, em bases distintas, as
+        receitas brutas auferidas ou recebidas no mercado interno e aquelas decorrentes de
+        exportação para o exterior.
+
+O art. 17, da Resolução CGSN 140/2018, esclarece as situações em que há devolução de mercadoria vendida
+por ME ou por EPP optante pelo Simples Nacional, em período de apuração posterior ao da venda, isto é,
+após a apuração dos tributos devidos.
+
+     Art. 17. Na hipótese de devolução de mercadoria vendida por ME ou por EPP optante pelo Simples Nacional, em
+     período de apuração posterior ao da venda, deverá ser observado o seguinte: (Lei Complementar nº 123, de
+     2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+
+     I - o valor da mercadoria devolvida deve ser deduzido da receita bruta total, no período de apuração do mês da
+     devolução, segregada pelas regras vigentes no Simples Nacional nesse mês; e
+
+     II - caso o valor da mercadoria devolvida seja superior ao da receita bruta total ou das receitas segregadas
+     relativas ao mês da devolução, o saldo remanescente deverá ser deduzido nos meses subsequentes, até ser
+     integralmente deduzido.
+
+     Parágrafo único. Para a optante pelo Simples Nacional tributada com base no critério de apuração de receitas
+     pelo Regime de Caixa, o valor a ser deduzido limita-se ao valor efetivamente devolvido ao adquirente. (Lei
+     Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+
+Em relação ao cancelamento de documento fiscal, a regra é a seguinte:
+
+     Art. 18. Na hipótese de cancelamento de documento fiscal, nas situações autorizadas pelo respectivo ente
+     federado, o valor do documento cancelado deverá ser deduzido no período de apuração no qual tenha havido a
+     tributação originária, quando o cancelamento se der em período posterior.
+
+     § 1º Para a optante pelo Simples Nacional tributada com base no critério de apuração de receitas pelo Regime
+     de Caixa, o valor a ser deduzido limita-se ao valor efetivamente devolvido ao adquirente ou tomador. (Lei
+     Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+
+     § 2º Na hipótese de nova emissão de documento fiscal em substituição ao cancelado, o valor correspondente
+     deve ser oferecido à tributação no período de apuração relativo ao da operação ou prestação originária. (Lei
+     Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+
+1 - Devolução de mercadoria vendida por ME ou por EPP optante pelo Simples Nacional, em período de
+apuração posterior ao da venda: deve ser deduzido da receita bruta total, no período de apuração do mês
+da devolução
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                44
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+2 - Cancelamento de documento fiscal: deverá ser deduzido no período de apuração no qual tenha havido
+a tributação originária, quando o cancelamento se der em período posterior.
+
+Além disso, temos mais algumas regras importantes, em relação à opção pelo regime de reconhecimento de
+receita bruta.
+
+     Art. 19. A opção pelo regime de reconhecimento de receita bruta a que se refere o § 1º do art. 16 deverá ser
+     registrada em aplicativo disponibilizado no Portal do Simples Nacional no momento da apuração dos valores
+     devidos: (Lei Complementar nº 123, de 2006, art. 18, § 3º)
+
+     I - relativos ao mês de novembro de cada ano-calendário, com efeitos para o ano-calendário subsequente, na
+     hipótese de ME ou EPP já optante pelo Simples Nacional;
+
+     II - relativos ao mês de dezembro, com efeitos para o ano-calendário subsequente, na hipótese de ME ou EPP em
+     início de atividade, com efeitos da opção pelo Simples Nacional no mês de dezembro; e
+
+     III - relativos ao mês de início dos efeitos da opção pelo Simples Nacional, nas demais hipóteses, com efeitos para
+     o próprio ano-calendário.
+
+     Parágrafo único. A opção pelo Regime de Caixa servirá exclusivamente para a apuração da base de cálculo
+     mensal, e o Regime de Competência deve ser aplicado para as demais finalidades, especialmente, para
+     determinação dos limites e sublimites e da alíquota a ser aplicada sobre a receita bruta recebida no mês. (Lei
+     Complementar nº 123, de 2006, art. 18, § 3º)
+
+Sabemos, então, que cabe à empresa optar pelo Regime de Caixa ou Competência. Na opção pelo Regime
+de Caixa, deverá tomar as seguintes providências:
+
+I - na prestação de serviços ou nas operações com mercadorias com valores a receber a prazo, a parcela não
+vencida deverá obrigatoriamente integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional
+até o último mês do ano-calendário subsequente àquele em que tenha ocorrido a respectiva prestação de
+serviço ou operação com mercadorias;
+
+II - a receita auferida e ainda não recebida deverá integrar a base de cálculo dos tributos abrangidos pelo
+Simples Nacional, na hipótese de:
+
+a) encerramento de atividade, no mês em que ocorrer o evento;
+
+b) retorno ao Regime de Competência, no último mês de vigência do Regime de Caixa; e
+
+c) exclusão do Simples Nacional, no mês anterior ao dos efeitos da exclusão;
+
+Vejamos, então, algumas regras adicionais previstas na Resolução CGSN 140/2018, relativamente ao cálculo
+dos tributos no âmbito do Simples Nacional:
+
+        Art. 38. O cálculo do valor devido na forma prevista no Simples Nacional deverá ser
+        efetuado por meio da declaração gerada pelo “Programa Gerador do Documento de
+        Arrecadação do Simples Nacional – Declaratório (PGDAS-D)”, disponível no Portal do
+        Simples Nacional na Internet. (Lei Complementar nº 123, de 2006, art. 18, § 15)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                     45
+        www.estrategiaconcursos.com.br                                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        § 1º A ME ou EPP optante pelo Simples Nacional deverá, para cálculo dos tributos devidos
+        mensalmente e geração do DAS, informar os valores relativos à totalidade das receitas
+        correspondentes às suas operações e prestações realizadas no período, no aplicativo a que
+        se refere o caput, observadas as demais disposições estabelecidas nesta Resolução. (Lei
+        Complementar nº 123, de 2006, art. 18, § 15)
+
+        § 2º As informações prestadas no PGDAS-D: (Lei Complementar nº 123, de 2006, art. 18, §
+        15-A)
+
+        I - têm caráter declaratório, constituindo confissão de dívida e instrumento hábil e
+        suficiente para a exigência dos tributos e contribuições que não tenham sido recolhidos
+        resultantes das informações nele prestadas; e (Lei Complementar nº 123, de 2006, art. 18,
+        § 15-A, inciso I)
+
+        II - deverão ser fornecidas à RFB mensalmente até o vencimento do prazo para pagamento
+        dos tributos devidos no âmbito do Simples Nacional em cada mês, previsto no art. 40,
+        relativamente aos fatos geradores ocorridos no mês anterior. (Lei Complementar nº 123,
+        de 2006, art. 18, § 15-A, inciso II)
+
+        § 3º O cálculo de que trata o caput, relativamente aos períodos de apuração até dezembro
+        de 2011, deverá ser efetuado por meio do Programa Gerador do Documento de
+        Arrecadação do Simples Nacional (PGDAS), disponível no Portal do Simples Nacional na
+        Internet. (Lei Complementar nº 123, de 2006, art. 18, § 15)
+
+        § 4º Aplica-se ao PGDAS o disposto no § 1º. (Lei Complementar nº 123, de 2006, art. 18, §
+        15)
+
+O cálculo dos tributos devidos pelo Simples Nacional é feito através do PGDAS-D, acessível no Portal do
+Simples Nacional.
+
+O PGDAS-D é utilizado para declarar todas as receitas das operações e prestações realizadas no período.
+
+As informações têm caráter declaratório e são essenciais para a cobrança dos tributos não pagos.
+
+As informações devem ser enviadas até a data de vencimento dos tributos do mês anterior.
+
+Histórico do Programa: Até dezembro de 2011, o cálculo era feito pelo PGDAS.
+
+        Art. 39. A alteração das informações prestadas no PGDAS-D será efetuada por meio de
+        retificação relativa ao respectivo período de apuração. (Lei Complementar nº 123, de 2006,
+        art. 2º, inciso I e § 6º)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      46
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        § 1º A retificação terá a mesma natureza da declaração originariamente apresentada,
+        substituindo-a integralmente, e servirá para declarar novos débitos, e aumentar ou reduzir
+        os valores de débitos já informados. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e
+        § 6º)
+
+        § 2º A retificação não produzirá efeitos quando tiver por objeto reduzir débitos relativos
+        aos períodos de apuração: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º)
+
+        I - cujos saldos a pagar tenham sido objeto de pedido de parcelamento deferido ou já
+        tenham sido enviados à Procuradoria-Geral da Fazenda Nacional (PGFN) para inscrição em
+        Dívida Ativa da União (DAU), ou, com relação ao ICMS ou ao ISS, transferidos ao Estado ou
+        Município que tenha efetuado o convênio previsto no art. 139; ou
+
+        § 3º Na hipótese prevista no inciso I do § 2º, o ajuste dos valores dos débitos decorrentes
+        da retificação no PGDAS-D, nos sistemas de cobrança pertinentes, poderá ser efetuado:
+
+        I - pelo Estado ou Município, com relação ao ICMS ou ISS, quando firmado o convênio
+        previsto no art. 139 e os débitos já tiverem sido transferidos;
+
+        II - pela RFB, nos demais casos.
+
+        § 4º O ajuste a que se refere o § 3º dependerá de prova inequívoca da ocorrência de erro
+        de fato no preenchimento da declaração.
+
+        § 5º O direito de a ME ou EPP retificar as informações prestadas no PGDAS-D extingue-se
+        em 5 (cinco) anos contados a partir do 1º (primeiro) dia do exercício seguinte àquele ao
+        qual se refere a declaração.
+
+        § 6º Não se considera espontânea e não produzirá efeitos a declaração entregue após a
+        data da ciência de início de procedimento fiscal relativo às informações declaradas ou
+        retificadas.
+
+Processo de Retificação: As retificações são realizadas através do PGDAS-D e substituem integralmente a
+declaração original.
+
+A retificação pode ser usada para declarar novos débitos ou ajustar valores já informados.
+
+Não é permitido usar a retificação para reduzir débitos que já estão em parcelamento, inscritos em Dívida
+Ativa, ou que pertencem a períodos cujos impostos foram transferidos ao Estado ou Município.
+
+Os ajustes nos valores declarados podem ser feitos pelo Estado, Município ou pela RFB, dependendo do caso.
+
+Prazo para retificação: cinco anos após o fim do exercício financeiro ao qual a declaração se refere.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        47
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Declarações entregues após o início de uma fiscalização não são consideradas espontâneas e, portanto, são
+invalidadas para correções.
+
+        Art. 39-A. As declarações transmitidas pelo PGDAS-D poderão ser retidas para análise com
+        base na aplicação de parâmetros internos estabelecidos pela RFB, pelos Estados, pelo
+        Distrito Federal e pelos Municípios. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e §
+        6º)
+
+        § 1º A ME ou EPP responsável pelo envio da declaração será comunicada da retenção e, se
+        necessário, poderá ser intimada a prestar esclarecimentos ou apresentar documentos
+        sobre as possíveis inconsistências ou indícios de irregularidade detectados durante a
+        análise. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º)
+
+        § 2º A declaração retida poderá ser: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e
+        § 6º; Lei nº 5.172, de 1966, art. 147, §§ 1º e 2º)
+
+        I - liberada quando, de plano ou após análise das justificativas prestadas, a administração
+        tributária verificar que cessaram os motivos que determinaram sua retenção;
+
+        II - rejeitada:
+
+        a) quando a administração tributária, independentemente da intimação a que se refere o
+        § 1º, já tiver elementos suficientes para confirmar as inconsistências ou indícios de
+        irregularidade;
+
+        b) quando não atender à intimação a que se refere o § 1º; ou
+
+        c) quando intimada nos termos do § 1º, a ME ou EPP não comprovar a correção das
+        informações prestadas.
+
+        § 3º Não produzirão efeitos as declarações retidas: (Lei Complementar nº 123, de 2006,
+        art. 2º, inciso I e § 6º)
+
+        I - enquanto pendentes de análise, em relação ao período de apuração a que se referem; e
+
+        II - quando rejeitadas.
+
+        § 4º A liberação da declaração de que trata o inciso I do § 2º não implica a homologação
+        do lançamento, caso em que se aplica o disposto no § 4º do art. 150 da Lei nº 5.172, de 25
+        de outubro de 1966 - Código Tributário Nacional (CTN). (Lei Complementar nº 123, de 2006,
+        art. 2º, inciso I e § 6º)
+
+        § 5º O disposto neste artigo observará, subsidiariamente, a legislação de cada ente
+        federado. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        48
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Declarações enviadas através do PGDAS-D podem ser retidas para análise baseada em critérios definidos
+pela RFB, Estados, DF e Municípios.
+
+A microempresa (ME) ou empresa de pequeno porte (EPP) responsável será notificada sobre a retenção.
+
+Pode ser intimada para esclarecer ou documentar possíveis inconsistências ou suspeitas de irregularidades.
+
+Possíveis Resultados da Retenção:
+
+Liberação: Se justificativas são aceitas e razões para retenção não mais existem.
+
+Rejeição:
+
+   ● Por evidências de irregularidades, mesmo sem intimação.
+   ● Falha em responder à intimação.
+   ● Inabilidade em corrigir informações após intimação.
+
+As declarações retidas não produzem efeitos enquanto sua análise estiver pendente.
+
+A liberação de uma declaração não implica homologação do lançamento tributário, conforme CTN.
+
+Do Recolhimento dos Tributos Devidos
+
+O art. 21 da LC 123/06, prevê que os tributos devidos, apurados no âmbito do Simples Nacional, deverão ser
+pagos:
+
+I - por meio de documento único de arrecadação, instituído pelo Comitê Gestor;
+
+III - enquanto não regulamentado pelo Comitê Gestor, até o último dia útil da primeira quinzena do mês
+subsequente àquele a que se referir;
+
+IV - em banco integrante da rede arrecadadora do Simples Nacional, na forma regulamentada pelo Comitê
+Gestor.
+
+Antes de anotar essas informações, preste atenção ao que a Resolução CGSN 140/2018 definiu:
+
+        Art. 40. Os tributos devidos, apurados na forma prevista nesta Resolução, deverão ser
+        pagos até o dia 20 (vinte) do mês subsequente àquele em que houver sido auferida a
+        receita bruta. (Lei Complementar nº 123, de 2006, art. 21, inciso III)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       49
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Prazo de Recolhimento: até o dia 20 do mês subsequente àquele em que houver sido
+        auferida a receita bruta.
+
+        Quando não houver expediente bancário no prazo, os tributos deverão ser pagos até o dia
+        útil imediatamente posterior.
+
+Agora vamos lá! Na hipótese de a microempresa ou a empresa de pequeno porte possuir filiais, o
+recolhimento dos tributos do Simples Nacional dar-se-á por intermédio da matriz.
+
+Poderá ser adotado sistema simplificado de arrecadação do Simples Nacional, inclusive sem utilização da
+rede bancária, mediante requerimento do Estado, Distrito Federal ou Município ao Comitê Gestor.
+
+O valor não pago até a data do vencimento sujeitar-se-á à incidência de encargos legais na forma prevista
+na legislação do imposto sobre a renda.
+
+Como o art. 21 da LC 123/06 previu que caberia ao CGSN regulamentar o documento único de arrecadação
+do Simples Nacional. Vejamos o que diz a Resolução CGSN 140/2018:
+
+     Art. 41. A ME ou a EPP recolherá os tributos devidos no âmbito do Simples Nacional por meio do DAS, que deverá
+     conter as informações definidas nos termos do art. 43. (Lei Complementar nº 123, de 2006, art. 21, inciso I)
+
+     Art. 42. O DAS será gerado exclusivamente: (Lei Complementar nº 123, de 2006, art. 21, inciso I)
+
+     I - para o MEI, por meio do Programa Gerador do DAS para o MEI (PGMEI), inclusive na hipótese prevista no §
+     3º; e
+
+     II - para as demais ME e para as EPP:
+
+     a) até o período de apuração relativo a dezembro de 2011, por meio do PGDAS;
+
+     b) a partir do período de apuração relativo a janeiro de 2012, por meio do PGDAS-D.
+
+     § 1º O DAS avulso e o relativo a rotinas de cobrança, parcelamento, autuação fiscal ou dívida ativa poderão ser
+     gerados por aplicativos próprios, disponíveis no Portal do Simples Nacional ou na página da RFB ou da PGFN na
+     Internet. (Lei Complementar nº 123, de 2006, art. 21, inciso I) (Redação dada pelo(a) Resolução CGSN nº 156, de
+     29 de setembro de 2020)
+
+     § 2º É inválido o DAS emitido em desacordo com o disposto neste artigo, e é vedada a impressão de modelo do
+     DAS com as informações definidas nos termos do art. 43, para fins de comercialização. (Lei Complementar nº
+     123, de 2006, art. 21, inciso I)
+
+     § 3º O DAS gerado para o MEI poderá ser: (Lei Complementar nº 123, de 2006, art. 21, inciso I)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 50
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+      I - enviado por via postal para o domicílio do contribuinte, caso em que poderá conter, em uma mesma folha de
+      impressão, guias para pagamento de mais de uma competência, com identificação dos respectivos vencimentos
+      e do valor devido em cada mês;
+
+      II - emitido em terminais de autoatendimento disponibilizados por parceiros institucionais e pelo Serviço
+      Brasileiro de Apoio à Micro e Pequena Empresa (Sebrae), e conterá os dados previstos no art. 43; e
+
+      III - emitido por meio de aplicativo para dispositivos móveis, disponibilizado pela RFB.
+
+         Documento de Arrecadação Simples: DAS.
+
+         O DAS é gerado tanto para o MEI quanto para as ME/EPP.
+
+         O programa que gera o DAS para o MEI é o PGMEI
+
+         O programa que gera o DAS para as ME/EPP é o PGDAS-D
+
+Agora vamos às informações que devem constar no DAS:
+
+I - a identificação do contribuinte (nome empresarial e CNPJ);
+
+II - o mês de competência;
+
+III - a data do vencimento original da obrigação tributária;
+
+IV - o valor do principal, da multa e dos juros e/ou encargos;
+
+V - o valor total;
+
+VI - o número único de identificação do DAS, atribuído pelo aplicativo de cálculo;
+
+VII - a data limite para acolhimento do DAS pela rede arrecadadora;
+
+VIII - o código de barras e sua representação numérica;
+
+IX - o perfil da arrecadação, assim considerado a partilha discriminada de cada um dos tributos abrangidos
+pelo Simples Nacional, bem como os valores destinados a cada ente federado; e
+
+X - o campo observações, para inserção de informações de interesse das administrações tributárias.
+
+Devemos saber que fica vedada a emissão de DAS com valor total inferior a R$ 10,00. Neste caso, o
+pagamento deverá ser diferido para os períodos subsequentes, até que o total seja igual ou superior a R$
+10,00.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                               51
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Ademais, o DAS somente será acolhido por instituição financeira credenciada para tal finalidade,
+denominada, agente arrecadador.
+
+No DAS acolhido em guichê de caixa, após validação dos seus dados, será aposta chancela de recebimento,
+denominada autenticação, que compreende a impressão, de forma legível, no espaço apropriado, dos
+seguintes caracteres:
+
+I - sigla, símbolo ou logotipo do agente arrecadador;
+
+II - número da autenticação;
+
+III - data do pagamento;
+
+IV - valor; e
+
+V - identificação da máquina autenticadora.
+
+         Observação: É vedada a reprodução de autenticação por meio de decalque a carbono ou
+         por qualquer outra forma. (Lei Complementar nº 123, de 2006, art. 21, inciso IV)
+
+         Em substituição à autenticação, o agente arrecadador poderá emitir cupom bancário como
+         comprovante de pagamento efetuado pelo contribuinte.
+
+Da Restituição, Da Compensação e do Parcelamento
+
+A LC 123/2006 também delegou ao CGSN a competência para regular a compensação e a restituição dos
+valores do Simples Nacional recolhidos indevidamente ou em montante superior ao devido.
+
+Restituição
+
+Primeiramente, entende-se como restituição, a repetição de indébito decorrente de valores pagos
+indevidamente ou a maior pelo contribuinte, por meio do DAS. Assim, em caso de apuração de crédito
+decorrente de pagamento indevido ou em valor maior que o devido, a ME ou a EPP poderá requerer sua
+restituição.
+
+O art. 130, da Resolução 140/2018 prevê que o pedido de restituição de tributos abrangidos pelo Simples
+Nacional deverá ser apresentado pela ME ou pela EPP optante diretamente ao ente federado responsável
+pelo tributo do qual originou o crédito. Por exemplo: se for restituição de ICMS, aos Estados; se for
+restituição de IRPJ, à União.
+
+Ao receber o pedido a que se refere o caput o ente federado :
+
+I - verificará a existência do crédito a ser restituído, mediante consulta às informações constantes nos
+aplicativos disponíveis no Portal do Simples Nacional; e
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    52
+         www.estrategiaconcursos.com.br                                                              295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+II - registrará os dados referentes ao pedido de restituição processada no aplicativo específico do Simples
+Nacional, a fim de impedir o registro de novos pedidos de restituição ou de compensação do mesmo valor.
+
+Vale lembrar que os créditos a serem restituídos no âmbito do Simples Nacional poderão ser objeto de
+compensação de ofício com débitos perante a Fazenda Pública do próprio ente.
+
+Agora, vamos a alguns pontos importantes da LC 123/2006 sobre a restituição:
+
+        O valor a ser restituído será acrescido de juros obtidos pela aplicação da taxa Selic para
+        títulos federais, acumulada mensalmente, a partir do mês subsequente ao do pagamento
+        indevido ou a maior que o devido até o mês anterior ao da restituição, e de 1%
+        relativamente ao mês em que estiver sendo efetuada.
+
+        Na restituição no Simples Nacional serão observados os prazos de decadência e prescrição
+        estabelecidos no Código Tributário Nacional (5 anos).
+
+        É vedada a cessão de créditos para extinção de débitos no Simples Nacional.
+
+Compensação
+
+Vamos ao conceito: entende-se como compensação, a utilização dos valores passíveis de restituição para
+pagamento de débitos no âmbito do Simples Nacional.
+
+O art. 131, da Resolução 140/2018 prevê que a compensação de valores apurados no âmbito do Simples
+Nacional, recolhidos indevidamente ou em montante superior ao devido, será realizada por meio de
+aplicativo disponibilizado no Portal do Simples Nacional.
+
+Além disso, a compensação dos créditos deve ser para extinguir débitos perante o mesmo ente federado:
+
+I - é permitida a compensação de créditos apenas para extinção de débitos perante o mesmo ente federado
+e relativos ao mesmo tributo; e
+
+II - os créditos a serem compensados na forma prevista no inciso I devem se referir a período para o qual já
+tenha sido validada a apuração por meio do PGDAS-D.
+
+        Observação: É vedado o aproveitamento de créditos não apurados no Simples Nacional,
+        inclusive de natureza não tributária, para extinção de débitos do Simples Nacional.
+
+Ou seja, se o contribuinte possui um crédito de ICMS, vai compensar um débito de ICMS, no âmbito do
+Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         53
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Cabe destacar que os valores compensados indevidamente serão exigidos com os acréscimos moratórios
+previstos na legislação do imposto sobre a renda ou na legislação do ICMS ou do ISS do respectivo ente
+federado, conforme o caso.
+
+E, ainda, na hipótese de compensação indevida, quando se comprove falsidade de declaração apresentada
+pelo sujeito passivo, o contribuinte estará sujeito a multa.
+
+Os créditos apurados no Simples Nacional não poderão ser utilizados para extinção de outros débitos para
+com as Fazendas Públicas, salvo por ocasião da compensação de ofício oriunda de deferimento em processo
+de restituição ou após a exclusão da empresa do Simples Nacional. Afinal, se a empresa foi excluída do
+Simples Nacional, como realizaria a compensação com débitos do Simples? Impossível!
+
+        O valor a ser compensado será acrescido de juros obtidos pela aplicação da taxa Selic para
+        títulos federais, acumulada mensalmente, a partir do mês subsequente ao do pagamento
+        indevido ou a maior que o devido até o mês anterior ao da restituição, e de 1%
+        relativamente ao mês em que estiver sendo efetuada.
+
+        Na compensação no Simples Nacional serão observados os prazos de decadência e
+        prescrição estabelecidos no Código Tributário Nacional (5 anos).
+
+        É vedada a cessão de créditos para extinção de débitos no Simples Nacional.
+
+Parcelamento
+
+Compete ao CGSN fixar critérios, condições para rescisão, prazos, valores mínimos de amortização e demais
+procedimentos para parcelamento dos recolhimentos em atraso dos débitos tributários apurados no Simples
+Nacional.
+
+     Art. 46. Os débitos apurados na forma prevista no Simples Nacional poderão ser parcelados, desde que
+     respeitadas as disposições constantes desta Seção, observadas as seguintes condições:
+
+     I - o prazo máximo será de até 60 (sessenta) parcelas mensais e sucessivas; (Lei Complementar nº 123, de 2006,
+     art. 21, § 16)
+
+     II - o valor de cada parcela mensal, por ocasião do pagamento, será acrescido de juros equivalentes à taxa
+     referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulada
+     mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento,
+     e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado; (Lei Complementar
+     nº 123, de 2006, art. 21, § 17)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                54
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     III - o pedido de parcelamento deferido importa confissão irretratável do débito e configura confissão
+     extrajudicial; (Lei Complementar nº 123, de 2006, art. 21, § 20)
+
+     IV - serão aplicadas na consolidação as reduções das multas de lançamento de ofício previstas nos incisos II e IV
+     do art. 6º da Lei nº 8.218, de 29 de agosto de 1991, nos seguintes percentuais: (Lei Complementar nº 123, de
+     2006, art. 21, § 21)
+
+     a) 40% (quarenta por cento), se o sujeito passivo requerer o parcelamento no prazo de trinta dias, contado da
+     data em que foi notificado do lançamento; ou
+
+     b) 20% (vinte por cento), se o sujeito passivo requerer o parcelamento no prazo de trinta dias, contado da data
+     em que foi notificado da decisão administrativa de primeira instância; e
+
+     V - no caso de parcelamento de débito inscrito em dívida ativa, o devedor pagará custas, emolumentos e demais
+     encargos legais. (Lei Complementar nº 123, de 2006, art. 21, § 23)
+
+        Prazo máximo de parcelamento: 60 meses
+
+        As parcelas serão acrescidas da taxa Selic (a partir do mês subsequente à consolidação), e
+        1% em relação ao mês do seu pagamento.
+
+        O pedido de parcelamento deferido importa confissão irretratável do débito e configura
+        confissão extrajudicial.
+
+        Serão aplicadas as reduções de multas, previstas na legislação federal.
+
+        No caso de parcelamento de débito inscrito em dívida ativa, o devedor pagará custas,
+        emolumentos e demais encargos legais.
+
+Em relação aos débitos objeto do parcelamento, somente serão parcelados débitos já vencidos e
+constituídos na data do pedido de parcelamento, excetuadas as multas de ofício vinculadas a débitos já
+vencidos, que poderão ser parceladas antes da data de vencimento.
+
+        Observação: O parcelamento dos tributos apurados na forma prevista no Simples Nacional
+        não se aplica às multas por descumprimento de obrigação acessória.
+
+Além disso, somente poderão ser parcelados débitos que não se encontrem com exigibilidade suspensa na
+forma prevista no art. 151 do Código Tributário Nacional (CTN). Já os débitos constituídos por meio de Auto
+de Infração e Notificação Fiscal (AINF) poderão ser parcelados desde a sua lavratura. Por outro lado, é
+vedada a concessão de parcelamento para sujeitos passivos com falência decretada.
+
+A concessão e a administração do parcelamento serão de responsabilidade
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   55
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+I - da RFB, exceto nas hipóteses dos incisos II e III;
+
+II - da PGFN, relativamente aos débitos inscritos em DAU; ou
+
+III - do Estado, Distrito Federal ou Município em relação aos débitos de ICMS ou de ISS:
+
+   a) transferidos para inscrição em dívida ativa, em face do convênio;
+
+   b) lançados pelo ente federado; ou
+
+   c) transferidos para inscrição em dívida ativa, independentemente de convênio, com relação aos débitos
+   devidos pelo MEI e apurados no Simei.
+
+Cada ente (órgão concessor) terá seu próprio disciplinamento para o parcelamento, podendo:
+
+I - condicionar o deferimento do parcelamento à confirmação do pagamento tempestivo da primeira parcela;
+
+II - considerar o pedido deferido automaticamente após decorrido determinado período da data do pedido
+sem manifestação da autoridade; e
+
+III - estabelecer condições complementares, observadas as disposições desta Resolução.
+
+Agora duas informações que você precisa memorizar para a prova:
+
+         Poderá ser realizada, a pedido ou de ofício, revisão dos valores objeto do parcelamento
+         para eventuais correções, ainda que já concedido o parcelamento.
+
+         O parcelamento de débitos da empresa, cujos atos constitutivos estejam baixados, será
+         requerido em nome do titular ou de um dos sócios.
+
+Uma vez feito o pedido de parcelamento pelo contribuinte, e atendidos os requisitos para tal concessão, será
+feita a consolidação da dívida, considerando-se como data de consolidação a data do pedido. Compreende-
+se por dívida consolidada o somatório dos débitos parcelados, acrescidos dos encargos, custas,
+emolumentos e acréscimos legais, devidos até a data do pedido de parcelamento.
+
+Em relação aos parcelamentos de competência da RFB e da PGFN, cabe observar o seguinte:
+
+I - o valor de cada parcela será obtido mediante a divisão do valor da dívida consolidada pelo número de
+parcelas solicitadas, observado o limite mínimo de R$ 300,00 (trezentos reais), exceto quanto aos débitos de
+responsabilidade do MEI, quando o valor mínimo será estipulado em ato do órgão concessor;
+
+II - as prestações do parcelamento vencerão no último dia útil de cada mês; e
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        56
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+III - o repasse para os entes federados dos valores pagos e a amortização dos débitos parcelados será
+efetuado proporcionalmente ao valor de cada tributo na composição da dívida consolidada.
+
+No âmbito de cada órgão concessor (ente federado), serão admitidos reparcelamentos de débitos no
+âmbito do Simples Nacional constantes de parcelamento em curso ou que tenha sido rescindido, podendo
+ser incluídos novos débitos, concedendo-se novo prazo observado o limite de 60 parcelas mensais.
+
+A formalização de reparcelamento de débitos fica condicionada ao recolhimento da primeira parcela em
+valor correspondente a:
+
+I - 10% do total dos débitos consolidados; ou
+
+II - 20% do total dos débitos consolidados, caso haja débito com histórico de reparcelamento anterior.
+
+        Observação:
+
+        Para os débitos inscritos em DAU será verificado o histórico de parcelamento no âmbito da
+        RFB e da PGFN.
+
+        Para os débitos administrados pelo Estado, Distrito Federal ou Município será verificado o
+        histórico de parcelamentos por ele concedidos.
+
+A respeito da rescisão do parcelamento, vale destacarmos o que a implica:
+
+I - a falta de pagamento de 3 parcelas, consecutivas ou não; ou
+
+II - a existência de saldo devedor, após a data de vencimento da última parcela do parcelamento.
+
+        Observação:
+
+        É considerada inadimplente a parcela parcialmente paga.
+
+        A RFB, a PGFN, os Estados, o Distrito Federal e os Municípios poderão editar normas
+        complementares relativas ao parcelamento.
+
+Da Retenção na Fonte e da Substituição Tributária
+
+A respeito da retenção na fonte das ME/EPP, é importante estudarmos o art. 21, § 4º e seguintes, da LC
+123/2006.
+
+Primeiramente, em relação ao ISS, a LC 123/06 prevê que a retenção na fonte de ISS das microempresas ou
+das empresas de pequeno porte optantes pelo Simples Nacional somente será permitida se observado o
+disposto no art. 3º da Lei Complementar no 116, de 31 de julho de 2003 (que trata do local onde é devido o
+imposto), e deverá observar as seguintes normas:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         57
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+I - a alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá à
+alíquota efetiva de ISS a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês anterior
+ao da prestação;
+
+Ou seja, a alíquota efetiva é resultante do cálculo a que se refere a LC 123/06, partindo-se da alíquota
+norminal. Cabe ao contribuinte optante do Simples Nacional informar o valor na nota fiscal.
+
+II - na hipótese de o serviço sujeito à retenção ser prestado no mês de início de atividades da microempresa
+ou da empresa de pequeno porte, deverá ser aplicada pelo tomador a alíquota efetiva de 2%;
+
+III – na hipótese acima, constatando-se que houve diferença entre a alíquota utilizada e a efetivamente
+apurada, caberá à microempresa ou empresa de pequeno porte prestadora dos serviços efetuar o
+recolhimento dessa diferença no mês subsequente ao do início de atividade em guia própria do Município;
+
+        Observação: Na hipótese de a microempresa ou empresa de pequeno porte estar sujeita à
+        tributação do ISS no Simples Nacional por valores fixos mensais, não caberá esta retenção
+        de ISS.
+
+V - na hipótese de a microempresa ou a empresa de pequeno porte não informar a alíquota de que tratam
+os incisos I e II deste parágrafo no documento fiscal, aplicar-se-á a alíquota efetiva de 5%;
+
+Vimos que cabe ao contribuinte optante do Simples Nacional informar o valor na nota fiscal. Correto? E se
+não informar? A retenção será pela alíquota máxima do ISS, isto é, 5%. Ficaria provavelmente pior para o
+contribuinte.
+
+VI – não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no
+documento fiscal for inferior à devida, hipótese em que o recolhimento dessa diferença será realizado em
+guia própria do Município;
+
+Mas e se o contribuinte informar na nota fiscal, mas informar um valor menor do que o normal? Sua
+responsabilidade não será eximida de recolher a diferença em guia própria do Município.
+
+VII – o valor retido, devidamente recolhido, será definitivo, não sendo objeto de partilha com os municípios,
+e sobre a receita de prestação de serviços que sofreu a retenção não haverá incidência de ISS a ser recolhido
+no Simples Nacional.
+
+        Observação: A falsidade na prestação dessas informações sujeitará o responsável, o titular,
+        os sócios ou os administradores da microempresa e da empresa de pequeno porte,
+        juntamente com as demais pessoas que para ela concorrerem, às penalidades previstas na
+        legislação criminal e tributária.
+
+Existe outra regra de retenção de contribuições previdenciárias, prevista na Lei 8.212/91:
+
+     Art. 31. A empresa contratante de serviços executados mediante cessão de mão de obra, inclusive em regime
+     de trabalho temporário, deverá reter 11% (onze por cento) do valor bruto da nota fiscal ou fatura de prestação
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                58
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     de serviços e recolher, em nome da empresa cedente da mão de obra, a importância retida até o dia 20 (vinte)
+     do mês subsequente ao da emissão da respectiva nota fiscal ou fatura, ou até o dia útil imediatamente anterior
+     se não houver expediente bancário naquele dia, observado o disposto no § 5o do art. 33 desta Lei. (Redação dada
+     pela Lei nº 11.933, de 2009).
+
+Ora, tal dispositivo obriga a empresa contratante realizar a retenção de 11% do valor bruto da nota fiscal de
+prestação de serviços. Mas e se o prestador do serviço for ME/EPP optante pelo Simples Nacional. Como
+ficaria?
+
+A resposta está na Súmula 425 do STJ:
+
+        Súmula 425 STJ - A retenção da contribuição para a seguridade social pelo tomador do
+        serviço não se aplica às empresas optantes pelo Simples.
+
+Agora, falando da substituição tributária, vejamos o que estabelece o art. 28, da Resolução CGSN 140/2018:
+
+Art. 28. Na hipótese de a ME ou a EPP optante pelo Simples Nacional se encontrar na condição de:
+
+I - substituta tributária do ICMS, as receitas relativas à operação própria deverão ser segregadas da seguinte
+forma:
+
+a) recolher o imposto sobre a operação própria pelo Simples Nacional; e
+
+b) segregar a receita correspondente como “não sujeita à substituição tributária e não sujeita ao
+recolhimento antecipado do ICMS”;
+
+Neste caso, o contribuinte optante pelo Simples Nacional deverá recolher a parcela dos tributos devidos por
+responsabilidade tributária diretamente ao ente detentor da respectiva competência tributária.
+
+II - substituída tributária do ICMS, as receitas decorrentes deverão ser segregadas como “sujeita à
+substituição tributária ou ao recolhimento antecipado do ICMS”, quando então será desconsiderado, no
+cálculo do valor devido no âmbito do Simples Nacional, o percentual do ICMS;
+
+        Vamos relembrar:
+
+        Substituído tributário, assim entendido o contribuinte que teve o imposto retido por outra
+        pessoa jurídica;
+
+        Substituto tributário, entendido como o sujeito passivo que realiza o pagamento no lugar
+        de outro.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 59
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Observação: No cálculo dos tributos devidos no âmbito do Simples Nacional não será
+        considerado receita de venda ou revenda de mercadorias o valor do tributo devido a título
+        de substituição tributária.
+
+A não cumulatividade no Simples Nacional
+
+     O estudo da não cumulatividade do ICMS na sistemática do Simples Nacional envolve vários detalhes.
+Novamente, vamos nos ater ao que é mais importante para a sua prova.
+
+      Sendo assim, eu pergunto: é possível recuperar o ICMS devido na etapa anterior da cadeia de
+produção e comercialização de mercadorias, quando uma ou ambas as partes são optantes pelo Simples
+Nacional? A resposta é: depende.
+
+       A regra geral está prevista no caput do art. 23 da LC 123/2006:
+
+        Art. 23. As microempresas e as empresas de pequeno porte optantes pelo Simples
+        Nacional não farão jus à apropriação nem transferirão créditos relativos a impostos ou
+        contribuições abrangidos pelo Simples Nacional.
+
+       Contudo, o § 1º, do art. 23, prevê o direito a crédito para as empresas não optantes do Simples
+Nacional, quando estas adquirirem de MEs e EPPs optantes, correspondente ao valor incidente de ICMS
+sobre a aquisição, desde que as mercadorias sejam destinadas à comercialização e industrialização.
+
+       Explique-se melhor: somente as empresas não optantes do Simples Nacional podem registrar crédito
+de ICMS. As optantes não podem fazê-lo. Isso é fato! O que se permite no § 1º é o crédito (pela adquirente)
+do que foi pago pela optante do Simples, quando vendeu mercadorias para outra empresa não optante do
+referido regime.
+
+      Destaque-se que o § 4º do art. 23, da LC 123/06, não permite que os adquirentes não optantes
+façam o registro do crédito, nas seguintes situações:
+
+        I - a microempresa ou empresa de pequeno porte estiver sujeita à tributação do ICMS no
+        Simples Nacional por valores fixos mensais;
+
+        II - a microempresa ou a empresa de pequeno porte não informar a alíquota de que trata
+        o § 2º deste artigo no documento fiscal;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        60
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        III - houver isenção estabelecida pelo Estado ou Distrito Federal que abranja a faixa de
+        receita bruta a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês
+        da operação.
+
+        IV - o remetente da operação ou prestação considerar, por opção, que a alíquota
+        determinada na forma do caput e dos §§ 1o e 2o do art. 18 desta Lei Complementar deverá
+        incidir sobre a receita recebida no mês.
+
+       Imagine o caso de uma indústria optante pelo Simples Nacional. Devido à sua opção, não pode
+creditar o ICMS pago nas operações anteriores. Portanto, na aquisição de insumos, o que foi pago de ICMS
+não pode ser compensado.
+
+       Ainda que a empresa adquirente (quando não optante) possa se creditar do ICMS pago pela indústria
+que optou pelo Simples Nacional, você viu que o ICMS relativo aos insumos deixou de ser recuperado.
+
+       Pensando nisso, o legislador previu no § 5º, do mesmo art. 23, a seguinte regra:
+
+        § 5º Mediante deliberação exclusiva e unilateral dos Estados e do Distrito Federal, poderá
+        ser concedido às pessoas jurídicas e àquelas a elas equiparadas pela legislação tributária
+        não optantes pelo Simples Nacional crédito correspondente ao ICMS incidente sobre os
+        insumos utilizados nas mercadorias adquiridas de indústria optante pelo Simples
+        Nacional, sendo vedado o estabelecimento de diferenciação no valor do crédito em razão
+        da procedência dessas mercadorias.
+
+       Pela redação do dispositivo supracitado, perceba que deve haver deliberação exclusiva e unilateral
+dos Estados e do DF para que o crédito se torne possível. Ademais, o benefício somente é aplicável quando
+a optante é indústria.
+
+        -O optante pelo Simples Nacional nunca credita.
+
+        -O adquirente (se for não optante) pode creditar o valor pago pelo alienante optante pelo
+        Simples.
+
+        -É possível creditar também o valor relativo aos insumos, quando houver deliberação
+        exclusiva e unilateral dos Estados e DF.
+
+       Peraí, professor! E quanto ao IPI? É possível escriturar o crédito?
+
+      Ao IPI aplica-se a mesma regra geral do caput do art. 23, da LC 123/2006: as microempresas e as
+empresas de pequeno porte optantes pelo Simples Nacional não farão jus à apropriação nem transferirão
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      61
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional. Sendo o IPI imposto
+abrangido pelo Simples Nacional, as ME e EPP optantes por tal regime não podem se beneficiar do crédito
+de IPI!
+
+Por fim, deve ser ressaltado que as MEs e EPPs optantes pelo Simples Nacional não podem utilizar ou destinar
+qualquer valor a título de incentivo fiscal:
+
+        Art. 24. As microempresas e as empresas de pequeno porte optantes pelo Simples
+        Nacional não poderão utilizar ou destinar qualquer valor a título de incentivo fiscal.
+
+        Observação: Memorize esse dispositivo, pois já caiu em provas!!!
+
+Agora vejamos alguns detalhes adicionais acrescentados à CF/88 pela EC 132/2023, relativos ao IBS e à CBS:
+
+        Art. 146. Cabe à lei complementar:
+
+        (...)
+
+        § 2º É facultado ao optante pelo regime único de que trata o § 1º apurar e recolher os
+        tributos previstos nos arts. 156-A e 195, V, nos termos estabelecidos nesses artigos,
+        hipótese em que as parcelas a eles relativas não serão cobradas pelo regime único.
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+        § 3º Na hipótese de o recolhimento dos tributos previstos nos arts. 156-A e 195, V, ser
+        realizado por meio do regime único de que trata o § 1º, enquanto perdurar a opção:
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+        I - não será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e
+        195, V, pelo contribuinte optante pelo regime único; e (Incluído pela Emenda
+        Constitucional nº 132, de 2023)
+
+        II - será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A e 195,
+        V, pelo adquirente não optante pelo regime único de que trata o § 1º de bens materiais
+        ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao
+        cobrado por meio do regime único. (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+A Reforma Tributária acrescentou os §§ 2º e 3º ao art. 146, relativamente ao Simples Nacional, para adequá-
+lo à tributação pelo IBS e CBS.
+
+A primeira regra a saber é que a empresa optante pelo Simples Nacional poderá também fazer opção por
+apurar e recolher o IBS e a CBS dentro do Simples Nacional ou não. Se a opção for pelo recolhimento por
+fora do Simples, tais tributos não serão cobrados juntamente com os demais tributos incluídos na sistemática
+do Simples, devendo ser recolhidos em separado.
+
+Por outro lado, se o contribuinte fizer opção pelo recolhimento por meio do regime único (Simples),
+enquanto mantiver tal opção, se sujeitará às seguintes regras:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         62
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+1 – O contribuinte optante pelo Simples não poderá se apropriar de créditos de IBS e CBS;
+
+2 – O adquirente não optante pelo Simples de produtos do contribuinte optante pelo Simples Nacional
+poderá se apropriar de créditos de IBS e CBS, desde que em montante equivalente ao cobrado por meio do
+regime único.
+
+A industrial Alfa é optante pelo Simples Nacional e fez opção também por recolher o IBS e a CBS dentro do
+Simples Nacional. Em determinado período, a empresa Alfa adquiriu insumos da empresa Ômega,
+industrializou seus produtos e os vendeu para a empresa comercial Beta (não optante pelo Simples Nacional)
+mercadorias por ela produzidas.
+
+Neste caso, temos as seguintes conclusões:
+
+- A empresa Alfa não pode se apropriar de créditos de IBS e CBS nas aquisições de insumos;
+
+- A empresa Beta pode se apropriar de créditos da aquisição realizada, desde que nos mesmos montantes
+recolhidos pela empresa Alfa.
+
+Da Sociedade de Propósito Específico
+
+Vamos falar sobre as Sociedades de Propósito Específico (SPEs), formadas por micro e pequenas empresas.
+Para começar, retiramos um trecho do site do SEBRAE1:
+
+As SPE constituídas de pequenos negócios optantes pelo Simples Nacional são empresas com o objetivo de
+aumentar a competitividade de suas sócias, por meio da união de esforços para compras, revendas e
+promoção tanto no mercado interno quanto no externo. Trata-se de uma forma de viabilizar as Centrais de
+Compra, as Centrais de Venda e o Marketing Coletivo para os pequenos negócios, exercendo atividade de
+comércio (compra e venda de bens) e a sua respectiva promoção.
+
+Em todos os casos, a principal finalidade da SPE deverá ser a colaboração para consecução de objetivos
+comuns e específicos.
+
+Para não perder o foco de beneficiar as micro e pequenas empresas, o artigo 56 da Lei Geral apresenta
+explicitamente várias particularidades e vedações às SPE constituídas por micro e pequenas empresas – MPE.
+Trata-se de uma forma de diferenciação das demais SPE, geralmente constituídas por empresas maiores.
+
+1https://sebrae.com.br/sites/PortalSebrae/artigos/o-que-sao-sociedades-de-proposito-
+especifico,79af438af1c92410VgnVCM100000b272010aRCRD
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      63
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Já que o próprio SEBRAE citou o art. 56, da LC 123/2006, vejamos a sua redação na íntegra:
+
+      Art. 56. As microempresas ou as empresas de pequeno porte poderão realizar negócios de compra e venda de
+      bens e serviços para os mercados nacional e internacional, por meio de sociedade de propósito específico, nos
+      termos e condições estabelecidos pelo Poder Executivo federal.         (Redação dada pela Lei Complementar
+      nº 147, de 2014)
+
+Uma SPE voltada para ME/EPP tem como objetivo realizar negócios de compra e venda de bens e serviços
+para os mercados nacional e internacional. Assim, é importante observar o disposto a seguir, acerca da SPE:
+
+          Observação: Não poderão integrar este tipo de SPE as pessoas jurídicas não optantes pelo
+          Simples Nacional.
+
+“Prof, eu aprendi que uma ME/EPP não pode de nenhum modo participar do capital social de outra empresa.
+Então, como fica a questão da SPE?” Excelente pergunta!
+
+O legislador criou exceção no § 5º, do art. 3º, para esses tipos de situações. Vejamos:
+
+      Art. 3º:
+
+      (...)
+
+      § 5º O disposto nos incisos IV e VII do § 4º deste artigo não se aplica à participação no capital de cooperativas
+      de crédito, bem como em centrais de compras, bolsas de subcontratação, no consórcio referido no art. 50 desta
+      Lei Complementar e na sociedade de propósito específico prevista no art. 56 desta Lei Complementar, e em
+      associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos
+      de sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos das microempresas
+      e empresas de pequeno porte.
+
+Mas como tudo tem limite, vejamos as limitações da SPE. Primeiramente, a microempresa ou a empresa de
+pequeno porte não poderá participar simultaneamente de mais de uma sociedade de propósito específico.
+
+A inobservância dessa limitação acarretará a responsabilidade solidária das microempresas ou empresas de
+pequeno porte sócias da sociedade de propósito específico na hipótese em que seus titulares, sócios ou
+administradores conhecessem ou devessem conhecer tal inobservância.
+
+A sociedade de propósito específico não poderá:
+
+I - ser filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+
+II - ser constituída sob a forma de cooperativas, inclusive de consumo;
+
+III - participar do capital de outra pessoa jurídica;
+
+IV - exercer atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de
+sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de
+
+          Receita Federal (Analista Tributário) Direito Tributário                                                  64
+          www.estrategiaconcursos.com.br                                                                           295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros
+privados e de capitalização ou de previdência complementar;
+
+V - ser resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa
+jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+
+VI - exercer a atividade vedada às microempresas e empresas de pequeno porte optantes pelo Simples
+Nacional.
+
+Então, preste atenção ao inciso III:
+
+
+                                                                                     Não pode
+            ME/EPP                                          SPE                    participar do
+                                                                                 capital de outra PJ
+
+Ademais, estas SPE devem observar o seguinte:
+
+I - terá seus atos arquivados no Registro Público de Empresas Mercantis;
+
+II - terá por finalidade realizar:
+
+a) operações de compras para revenda às microempresas ou empresas de pequeno porte que sejam suas
+sócias;
+
+b) operações de venda de bens adquiridos das microempresas e empresas de pequeno porte que sejam suas
+sócias para pessoas jurídicas que não sejam suas sócias;
+
+III - poderá exercer atividades de promoção dos bens referidos na alínea b do inciso II deste parágrafo;
+
+IV - apurará o imposto de renda das pessoas jurídicas com base no lucro real, devendo manter a escrituração
+dos livros Diário e Razão;
+
+V - apurará a Cofins e a Contribuição para o PIS/Pasep de modo não-cumulativo;
+
+VI - exportará, exclusivamente, bens a ela destinados pelas microempresas e empresas de pequeno porte
+que dela façam parte;
+
+VII - será constituída como sociedade limitada;
+
+VIII - deverá, nas revendas às microempresas ou empresas de pequeno porte que sejam suas sócias, observar
+preço no mínimo igual ao das aquisições realizadas para revenda; e
+
+IX - deverá, nas revendas de bens adquiridos de microempresas ou empresas de pequeno porte que sejam
+suas sócias, observar preço no mínimo igual ao das aquisições desses bens.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          65
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Outra observação importante é que a aquisição de bens destinados à exportação pela sociedade de
+propósito específico não gera direito a créditos relativos a impostos ou contribuições abrangidos pelo
+Simples Nacional.
+
+O art. 18, § 7º, da LC 123/2006, estabelece que a SPE que houver adquirido mercadorias de ME/EPP que seja
+sua sócia, bem como a empresa comercial exportadora (vamos chamar de ECE) que houver adquirido
+mercadorias ou serviços de empresa optante pelo Simples Nacional, com o fim específico de exportação para
+o exterior, que, no prazo de 180 dias, contado da data da emissão da nota fiscal pela vendedora, não
+comprovar o seu embarque para o exterior ficará sujeita ao pagamento de todos os impostos e contribuições
+que deixaram de ser pagos pela empresa vendedora, acrescidos de juros de mora e multa, de mora ou de
+ofício, calculados na forma da legislação relativa à cobrança do tributo não pago, aplicável à sociedade de
+propósito específico ou à própria comercial exportadora.
+
+Existe regra semelhante a essa na legislação do IPI, aplicável à empresa comercial exportadora. Afinal, há
+forte desoneração tributária nas receitas decorrentes de exportação. Então, logicamente, espera-se que a
+SPE ou ECE faça logo a exportação (dentro do prazo de 180 dias), ou pague os tributos devidos, com juros
+e multa de mora.
+
+Além disso, relativamente à contribuição patronal previdenciária, devida pela vendedora, a SPE ou ECE
+deverão recolher o valor correspondente a 11% do valor das mercadorias não exportadas.
+
+E ainda, não poderão deduzir do montante devido qualquer valor a título de crédito de IPI da Contribuição
+para o PIS/PASEP ou da COFINS, decorrente da aquisição das mercadorias e serviços objeto da incidência.
+
+E se porventura a SPE ou ECE tiverem alienado ou utilizado as mercadorias que deveriam ter sido exportadas,
+deverão pagar, também, os impostos e contribuições devidos nas vendas para o mercado interno
+
+(Pref. Marília-Fiscal de Renda/2023) Para fins dos efeitos da Lei Complementar no 123/06, consideram-se
+microempresas ou empresas de pequeno porte, aquelas a que se refere, desde que aufiram, em cada ano-
+calendário o valor de receita bruta que estabelece. Tratando-se de empresa de pequeno porte, a receita
+bruta auferida deve ser superior a R$ 360.000,00 e igual ou inferior a
+
+A) R$ 480.000,00.
+
+B) R$ 540.000,00.
+
+C) R$ 3.600.000,00.
+
+D) R$ 4.800.000,00.
+
+E) R$ 5.400.000,00.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        66
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Comentário: O limite máximo de ingresso no Simples Nacional como empresa de pequeno porte é a receita
+bruta de até R$ 4.800.000,00.
+
+Gabarito: Letra D
+
+(SEFAZ-DF-Auditor Fiscal/2020) A lei que institui esse estatuto destina-se a dar tratamento diferenciado às
+micro e pequenas empresas no que se refere tanto às obrigações principais quanto às acessórias.
+
+Comentário: O art. 1º da LC 123/2006 estabelece que a referida norma estabelece normas gerais relativas
+ao tratamento diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte
+no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, abrangendo, inclusive,
+as obrigações acessórias.
+
+Gabarito: Correta
+
+(ISS-Manaus-Auditor Fiscal/2019) A Lei Complementar no 123/2006 estabelece que o Simples Nacional
+implica o recolhimento mensal, mediante documento único de arrecadação, de diversos impostos e
+contribuições de competência dos Municípios, dos Estados e da União. Os impostos de competência
+municipal sujeitos a esta forma de recolhimento mensal são
+
+a) o IPTU, excluídas as hipóteses em que ele é devido relativamente à substituição tributária.
+
+b) o ITBI, excluídas as hipóteses em que ele é devido em relação aos serviços sujeitos à substituição tributária.
+
+c) a “taxa do lixo”, referente ao recolhimento de resíduos sólidos, promovido pela municipalidade.
+
+d) o ISS, excluídas as hipóteses em que ele é devido em relação aos serviços sujeitos à substituição tributária
+ou retenção na fonte, e em relação à importação de serviços.
+
+e) o ISS devido na importação de serviços.
+
+Comentário:
+
+Alternativa A: O IPTU não está incluído no Simples Nacional, e nenhum outro imposto sobre propriedade ou
+transmissão de propriedade. Alternativa errada.
+
+Alternativa B: O ITBI não está incluído no Simples Nacional. Alternativa errada.
+
+Alternativa C: A taxa de lixo não se inclui no Simples Nacional. Alternativa errada.
+
+Alternativa D: Exatamente! Como regra, o ISS está incluído no Simples Nacional, excetuadas as hipóteses em
+que ele é devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte, e em relação
+à importação de serviços. Alternativa correta.
+
+Alternativa E: O ISS devido na importação de serviços não está incluído no Simples Nacional. Alternativa
+errada.
+
+Gabarito: Letra D
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                              67
+        www.estrategiaconcursos.com.br                                                                       295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+(ISS-São José do Rio Preto-SP-Auditor Fiscal/2019) O tratamento diferenciado e favorecido dispensado às
+microempresas e empresas de pequeno porte, tal como estabelecido na Lei complementar federal nº
+123/2006, que instituiu o denominado Simples Nacional, não se aplica a pessoas jurídicas constituídas
+
+a) sob a forma unipessoal, bem assim ao empresário individual.
+
+b) há menos de 2 anos da edição da lei.
+
+c) na forma de sociedade empresária ou sociedade por ações.
+
+d) com receita bruta anual superior a R$ 360.000,00.
+
+e) sob a forma de cooperativas, salvo as de consumo.
+
+Comentário:
+
+Alternativa A: O empresário individual foi incluído no Simples Nacional, constando expressamente do art.
+3º, da LC 123/2006. Alternativa errada.
+
+Alternativa B: Não há qualquer vedação nesse sentido na LC 123/2006. Alternativa errada.
+
+Alternativa C: Esta alternativa não foi definida como gabarito porque a sociedade empresária, como regra,
+pode ingressar no Simples Nacional. Porém a sociedade por ações não pode se beneficiar desse regime. Para
+estar correta, os dois acasos citados deveriam estar proibidos de ingressarem no Simples Nacional, o que
+não ocorreu. Alternativa errada.
+
+Alternativa D: A pessoa jurídica que aufira receita bruta anual superior a R$ 360.000,00 pode se manter no
+Simples Nacional, passando a ser considerada Empresa de Pequeno Porte (EPP). Alternativa errada.
+
+Alternativa E: Realmente, o Simples Nacional não se aplica às pessoas jurídicas constituídas sob a forma de
+cooperativas, salvo as cooperativas de consumo. Alternativa correta.
+
+Gabarito: Letra E
+
+(TJ-BA-Juiz Estadual/2019) Observados os requisitos legais, o SIMPLES Nacional permite o recolhimento
+mensal, mediante documento único de arrecadação, entre outros,
+
+a) do imposto de importação, do ISSQN e do IOF.
+
+b) do IOF, da COFINS e do ITR.
+
+c) da CSLL, do ISSQN e do IRPJ.
+
+d) da COFINS, da CSLL e da contribuição para o FGTS.
+
+e) do ITR, da contribuição para o PIS/PASEP e da contribuição para o FGTS.
+
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        68
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Alternativa A: O II e o IOF não estão inclusos no Simples Nacional. Alternativa errada.
+
+Alternativa B: O ITR e o IOF não estão inclusos no Simples Nacional. Alternativa errada.
+
+Alternativa C: Todos os tributos citados estão inclusos no Simples Nacional. Alternativa correta.
+
+Alternativa D: A contribuição para o FGTS não está inclusa no Simples Nacional. Alternativa errada.
+
+Alternativa E: O ITR e a contribuição para o FGTS não inclusos no Simples Nacional. Alternativa errada.
+
+Gabarito: Letra C
+
+(SEFAZ-RS-Auditor Fiscal/2019) O Simples Nacional
+
+a) depende, para o seu ingresso, da formalização dessa opção pelas sociedades empresariais.
+
+b) é obrigatório para microempresas e facultativo para empresas de pequeno porte.
+
+c) afasta a incidência de tributos federais, estaduais e daqueles que o Distrito Federal fiscaliza na condição
+de estado-membro.
+
+d) pode ser retratado no mesmo ano-calendário em que a microempresa exceder o limite de faturamento
+relativo ao seu enquadramento.
+
+e) é inaplicável a sociedade limitada cujas cotas sociais pertençam, em um terço ou mais, a empregado
+público.
+
+Comentário:
+
+Alternativa A: De fato, para ingressar no Simples Nacional, a sociedade empresarial precisa formalizar sua
+opção por tal regime. Alternativa correta.
+
+Alternativa B: O Simples Nacional é sempre facultativo para MEs e EPPs. Alternativa errada.
+
+Alternativa C: No Simples Nacional foram incluídos tributos federais, estaduais e municipais, inclusive
+distritais. Alternativa errada.
+
+Alternativa D: Não há tal situação prevista na LC 123/06. Alternativa errada.
+
+Alternativa E: Não existe essa restrição em relação a empregado público. Alternativa errada.
+
+Gabarito: Letra A
+
+(SEFAZ-RS-Auditor Fiscal/2019) Uma cooperativa criada para industrializar produtos rurais insurgiu-se
+contra lançamento decorrente de ICMS por substituição tributária, sob o argumento de já ter realizado
+pagamento relativo a esse Tributo por meio do recolhimento mensal em documento único de arrecadação
+do Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           69
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+De acordo com a Lei Complementar n.º 123/2006, o argumento apresentado pela cooperativa
+
+a) é válido caso, de fato, o tributo tenha sido integralmente pago na forma do Simples Nacional.
+
+b) não é válido, pois nenhuma cooperativa poderá aderir ao regime tributário do Simples Nacional.
+
+c) não é válido, pois essa cooperativa não pode aderir ao Simples Nacional e não pode recolher ICMS por
+substituição tributária pelo documento de arrecadação única mensal.
+
+d) não é válido, pois, embora essa cooperativa possa recolher o ICMS mediante substituição tributária pelo
+documento de arrecadação única mensal, ela não pode aderir ao Simples Nacional.
+
+e) não é válido, pois, embora essa cooperativa possa se enquadrar como microempresa, ela não pode aderir
+ao Simples Nacional.
+
+Comentário: Somente as cooperativas de consumo é que podem optar pelo Simples Nacional, o que não é o
+caso da questão. Ademais, ainda que pudesse, o ICMS nas operações sujeitas ao regime de substituição
+tributária não está incluído no documento mensal de arrecadação do Simples Nacional (DAS), conforme art.
+13, § 1º, XIII, a, da LC 123/06.
+
+Gabarito: Letra C
+
+
+ DA ISENÇÃO, REDUÇÃO OU VALOR FIXO DO ICMS OU ISS
+        E DOS BENEFÍCIOS E INCENTIVOS FISCAIS
+
+O art. 18, § 18, da LC 123/06, prevê a possibilidade de os Estados, Distrito Federal e Municípios
+estabelecerem, na forma definida pelo Comitê Gestor, independentemente da receita bruta recebida no
+mês pelo contribuinte, valores fixos mensais para o recolhimento do ICMS e do ISS devido por
+microempresa que aufira receita bruta, no ano-calendário anterior, de até o limite máximo previsto na
+segunda faixa de receitas brutas anuais constantes dos Anexos I a VI, ficando a microempresa sujeita a
+esses valores durante todo o ano-calendário.
+
+Outra possibilidade é a concessão de redução ou isenção de ICMS ou ISS devido por microempresa ou
+empresa de pequeno porte, conforme § 20, do art. 18.
+
+O art. 31, da Resolução CGSN 140/2018, estabelece que:
+
+     Art. 31 - O Estado, o Distrito Federal ou o Município tem competência para, com relação à ME ou à EPP optante
+     pelo Simples Nacional, na forma prevista nesta Resolução: (Lei Complementar nº 123, de 2006, art. 18, §§ 18, 20
+     e 20-A)
+
+     I - conceder isenção ou redução do ICMS ou do ISS; e
+
+     II - estabelecer valores fixos para recolhimento do ICMS ou do ISS.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 70
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Parágrafo único. Quanto ao ISS, os benefícios de que tratam os incisos I e II do caput não poderão resultar em
+     percentual menor do que 2% (dois por cento), exceto para os serviços a que se referem os subitens 7.02, 7.05 e
+     16.01 da lista anexa à Lei Complementar nº 116, de 2003. (Lei Complementar nº 116, de 31 de julho de 2003,
+     art. 8º-A, § 1º)
+
+Primeiramente, vamos falar sobre as isenções ou reduções do ICMS ou do ISS.
+
+Se você estuda ou já estudou ICMS, sabe que a concessão de benefícios fiscais desse imposto fica sujeita à
+deliberação conjunta dos Estados da federação. Mas aqui em nosso caso é diferente, e vale tanto para os
+Estados (em relação ao ICMS) como para os Municípios (em relação ao ISS). Assim, a concessão pode ocorrer
+(art. 18, § 20-A, da LC 123/06):
+
+I - mediante deliberação exclusiva e unilateral do Estado, do Distrito Federal ou do Município concedente; e
+
+II - de modo diferenciado para cada ramo de atividade.
+
+Caso o Estado, o Distrito Federal ou o Município opte por aplicar percentuais de redução diferenciados para
+cada faixa de receita bruta, estes devem constar da respectiva legislação, de forma a facilitar o processo de
+geração do Documento de Arrecadação do Simples Nacional (DAS) pelo contribuinte.
+
+Deverão constar da legislação veiculadora da isenção ou redução da base de cálculo todas as condições a
+serem observadas pela ME ou EPP, inclusive o percentual de redução aplicável a cada faixa de receita bruta
+anual ou a todas as faixas.
+
+Salvo disposição em contrário do respectivo ente federado, para fins de concessão dos benefícios previstos
+no art. 31, será considerada a receita bruta total acumulada auferida nos mercados interno e externo.
+
+O § 20-B do art. 18, da LC 123/06, ainda estabelece a possibilidade de a União, os Estados e o Distrito Federal
+poderão, em lei específica destinada à ME ou EPP optante pelo Simples Nacional, estabelecer isenção ou
+redução de COFINS, Contribuição para o PIS/PASEP e ICMS para produtos da cesta básica, discriminando a
+abrangência da sua concessão.
+
+Art. 24. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não poderão
+utilizar ou destinar qualquer valor a título de incentivo fiscal.
+
+Agora, vamos para a definição do Comitê Gestor em relação aos valores fixos de ICMS e ISS, que ocorreu na
+Resolução CGSM n° 140/2018, art. 33:
+
+         Art. 33. Os Estados, o Distrito Federal e os Municípios, no âmbito de suas respectivas
+         competências, independentemente da receita bruta auferida no mês pelo contribuinte,
+         poderão adotar valores fixos mensais, inclusive por meio de regime de estimativa fiscal ou
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                71
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         arbitramento, para o recolhimento do ICMS e do ISS devido por ME que tenha auferido
+         receita bruta total acumulada, nos mercados interno e externo, conjuntamente, no ano-
+         calendário anterior, de até R$ 360.000,00 (trezentos e sessenta mil reais), observado o
+         disposto neste artigo. (Lei Complementar nº 123, de 2006, art. 18, § 18)
+
+Uma vez estabelecidos os valores fixos estabelecidos pelos Estados, pelo Distrito Federal e pelos Municípios
+em determinado ano-calendário, só serão aplicados a partir do ano-calendário seguinte. Além disso,
+deverão abranger todas as empresas ou apenas aquelas que se situem em determinado ramo de atividade,
+que tenham, em qualquer caso, auferido receita bruta no ano-calendário anterior.
+
+Os valores fixos mensais estabelecidos no caput não poderão exceder a:
+
+I - para a ME que no ano-calendário anterior tenha auferido receita bruta de até R$ 180.000,00:
+
+    a) R$ 108,00, no caso de ICMS; e
+
+    b) R$ 162,75, no caso de ISS; e
+
+II - para a ME que no ano-calendário anterior tenha auferido receita bruta entre R$ 180.000,00 e R$
+360.000,00:
+
+      a) R$ 295,50, no caso de ICMS; e
+
+      b) R$ 427,50, no caso de ISS.
+
+Fica impedida de adotar os valores fixos mensais a ME que:
+
+I - possua mais de um estabelecimento;
+
+II - esteja no ano-calendário de início de atividade;
+
+III - exerça mais de um ramo de atividade:
+
+    a) com valores fixos distintos, para o mesmo imposto, estabelecidos pelo respectivo ente federado; ou
+
+    b) quando pelo menos um dos ramos de atividade exercido não esteja sujeito ao valor fixo, para o
+    mesmo imposto, estabelecido pelo respectivo ente federado.
+
+Se, por algum motivo, a empresa ultrapassar o limite acima fixado, voltará a recolher o ISS e ICMS da mesma
+forma que as demais empresas optantes pelo Simples Nacional, a partir do mês subsequente à ocorrência
+do excesso.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         72
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Atenção! Existe a possibilidade de ME recolher ICMS e ISS por meio de valores fixos
+        mensais, desde que haja estabelecimento pelos Estados, Distrito Federal e Municípios,
+        nos termos da Resolução CGSM n° 140/2018.
+
+O art. 34 da Resolução CGSN 140/18, dispõe que os escritórios de serviços contábeis recolherão o ISS em
+valor fixo, na forma prevista na legislação municipal.
+
+Na hipótese de o escritório de serviços contábeis não estar autorizado pela legislação municipal a efetuar o
+recolhimento do ISS em valor fixo diretamente ao Município, o imposto deverá ser recolhido pelo Simples
+Nacional.
+
+
+                   DA INSCRIÇÃO E DA BAIXA DE ME/EPP
+O art. 4º, da LC 123/06, prevê que, na elaboração de normas de sua competência, os órgãos e entidades
+envolvidos na abertura e fechamento de empresas, dos 3 âmbitos de governo, deverão considerar a
+unicidade do processo de registro e de legalização de empresários e de pessoas jurídicas, para tanto
+devendo articular as competências próprias com aquelas dos demais membros, e buscar, em conjunto,
+compatibilizar e integrar procedimentos, de modo a evitar a duplicidade de exigências e garantir a
+linearidade do processo, da perspectiva do usuário.
+
+O processo de abertura, registro, alteração e baixa da microempresa e empresa de pequeno porte, bem
+como qualquer exigência para o início de seu funcionamento, deverão ter trâmite especial e simplificado,
+preferencialmente eletrônico, opcional para o empreendedor, observando que poderão ser dispensados o
+uso da firma, com a respectiva assinatura autógrafa, o capital, requerimentos, demais assinaturas,
+informações relativas ao estado civil e regime de bens, bem como remessa de documentos, na forma
+estabelecida pelo CGSIM.
+
+Salvo casos excepcionais, a regra é que os custos ficam reduzidos a zero, inclusive prévios, relativos à
+abertura, à inscrição, ao registro, ao funcionamento, ao alvará, à licença, ao cadastro, às alterações e
+procedimentos de baixa e encerramento e aos demais itens relativos ao Microempreendedor Individual,
+incluindo os valores referentes a taxas, a emolumentos e a demais contribuições relativas aos órgãos de
+registro, de licenciamento, sindicais, de regulamentação, de anotação de responsabilidade técnica, de
+vistoria e de fiscalização do exercício de profissões regulamentadas.
+
+        Observação: No caso do MEI, a cobrança associativa ou oferta de serviços privados citados
+        somente poderá ser efetuada a partir de demanda prévia do próprio MEI, firmado por meio
+        de contrato com assinatura autógrafa, observando-se que:
+
+        I - para a emissão de boletos de cobrança, os bancos públicos e privados deverão exigir das
+        instituições sindicais e associativas autorização prévia específica a ser emitida pelo
+        CGSIM;
+
+        II - o desrespeito ao disposto neste parágrafo configurará vantagem ilícita pelo
+        induzimento ao erro em prejuízo do MEI, aplicando-se as sanções previstas em lei
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         73
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O agricultor familiar, identificado pela Declaração de Aptidão ao Pronaf - DAP física ou jurídica, bem como o
+MEI e o empreendedor de economia solidária ficam isentos de taxas e outros valores relativos à fiscalização
+da vigilância sanitária.
+
+Na ocorrência de fraude no registro do Microempreendedor Individual - MEI feito por terceiros, o pedido de
+baixa deve ser feito por meio exclusivamente eletrônico, com efeitos retroativos à data de registro, na forma
+a ser regulamentada pelo CGSIM.
+
+Além disso, os órgãos e entidades envolvidos na abertura e fechamento de empresas, dos 3 âmbitos de
+governo, no âmbito de suas atribuições, deverão manter à disposição dos usuários, de forma presencial e
+pela rede mundial de computadores, informações, orientações e instrumentos, de forma integrada e
+consolidada, que permitam pesquisas prévias às etapas de registro ou inscrição, alteração e baixa de
+empresários e pessoas jurídicas, de modo a prover ao usuário certeza quanto à documentação exigível e
+quanto à viabilidade do registro ou inscrição.
+
+        As pesquisas prévias à elaboração de ato constitutivo ou de sua alteração deverão bastar a
+        que o usuário seja informado pelos órgãos e entidades competentes:
+
+        I - da descrição oficial do endereço de seu interesse e da possibilidade de exercício da
+        atividade desejada no local escolhido;
+
+        II - de todos os requisitos a serem cumpridos para obtenção de licenças de autorização de
+        funcionamento, segundo a atividade pretendida, o porte, o grau de risco e a localização; e
+
+        III - da possibilidade de uso do nome empresarial de seu interesse.
+
+O art. 6º, da LC 123/06, define que os requisitos de segurança sanitária, metrologia, controle ambiental e
+prevenção contra incêndios, para os fins de registro e legalização de empresários e pessoas jurídicas, deverão
+ser simplificados, racionalizados e uniformizados pelos órgãos envolvidos na abertura e fechamento de
+empresas, no âmbito de suas competências.
+
+        Observação: Os órgãos e entidades envolvidos na abertura e fechamento de empresas que
+        sejam responsáveis pela emissão de licenças e autorizações de funcionamento somente
+        realizarão vistorias após o início de operação do estabelecimento, quando a atividade, por
+        sua natureza, comportar grau de risco compatível com esse procedimento.
+
+Conhecer quais seriam as atividades sujeitas a alto grau de risco não faz sentido para a nossa prova. Mas é
+importante sabermos que a classificação de baixo grau de risco permite ao empresário ou à pessoa jurídica
+a obtenção do licenciamento de atividade mediante o simples fornecimento de dados e a substituição da
+comprovação prévia do cumprimento de exigências e restrições por declarações do titular ou responsável.
+
+Já o art. 7º prevê que, exceto nos casos em que o grau de risco da atividade seja considerado alto, os
+Municípios emitirão Alvará de Funcionamento Provisório, que permitirá o início de operação do
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           74
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+estabelecimento imediatamente após o ato de registro. Em tais casos, poderá o Município conceder Alvará
+de Funcionamento Provisório para o microempreendedor individual, para microempresas e para empresas
+de pequeno porte:
+
+I - instaladas em área ou edificação desprovidas de regulação fundiária e imobiliária, inclusive habite-se; ou
+
+II - em residência do microempreendedor individual ou do titular ou sócio da microempresa ou empresa de
+pequeno porte, na hipótese em que a atividade não gere grande circulação de pessoas.
+
+Será assegurado aos empresários e pessoas jurídicas:
+
+I - entrada única de dados e documentos;
+
+II - processo de registro e legalização integrado entre os órgãos e entes envolvidos, por meio de sistema
+informatizado que garanta:
+
+a) sequenciamento das seguintes etapas: consulta prévia de nome empresarial e de viabilidade de
+localização, registro empresarial, inscrições fiscais e licenciamento de atividade;
+
+b) criação da base nacional cadastral única de empresas;
+
+III - identificação nacional cadastral única que corresponderá ao número de inscrição no Cadastro Nacional
+de Pessoas Jurídicas - CNPJ.
+
+O sistema informatizado acima citado deve garantir aos órgãos e entidades integrados:
+
+I - compartilhamento irrestrito dos dados da base nacional única de empresas;
+
+II - autonomia na definição das regras para comprovação do cumprimento de exigências nas respectivas
+etapas do processo.
+
+        Observação: É vedado aos órgãos e entidades integrados ao sistema informatizado o
+        estabelecimento de exigências não previstas em lei.
+
+        A coordenação do desenvolvimento e da implantação desse sistema ficará a cargo do
+        CGSIM.
+
+O art. 10 estabelece que não poderão ser exigidos pelos órgãos e entidades envolvidos na abertura e
+fechamento de empresas, dos 3 âmbitos de governo:
+
+I - excetuados os casos de autorização prévia, quaisquer documentos adicionais aos requeridos pelos órgãos
+executores do Registro Público de Empresas Mercantis e Atividades Afins e do Registro Civil de Pessoas
+Jurídicas;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           75
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+II - documento de propriedade ou contrato de locação do imóvel onde será instalada a sede, filial ou outro
+estabelecimento, salvo para comprovação do endereço indicado;
+
+III - comprovação de regularidade de prepostos dos empresários ou pessoas jurídicas com seus órgãos de
+classe, sob qualquer forma, como requisito para deferimento de ato de inscrição, alteração ou baixa de
+empresa, bem como para autenticação de instrumento de escrituração.
+
+Por último, fica vedada a instituição de qualquer tipo de exigência de natureza documental ou formal,
+restritiva ou condicionante, pelos órgãos envolvidos na abertura e fechamento de empresas, dos 3 âmbitos
+de governo, que exceda o estrito limite dos requisitos pertinentes à essência do ato de registro, alteração ou
+baixa da empresa.
+
+
+                RESPONSABILIDADE TRIBUTÁRIA DOS SÓCIOS
+       Antes da LC 147/2014, o titular, sócio ou administrador de ME e EPP que se encontrava sem
+movimento há mais de 12 meses poderia solicitar baixa nos registros dos órgãos públicos federais, estaduais
+e municipais, independentemente do pagamento de débitos tributários, previdenciários ou trabalhistas ou
+multas devidas pelo atraso na entrega das respectivas declarações nesses períodos.
+
+        O que era bom ficou ainda melhor com o advento da supracitada lei complementar. Atualmente, a
+solicitação de baixa pode ocorrer a qualquer tempo, ou seja, foi eliminado o requisito temporal de 12 meses
+sem movimentação.
+
+       Portanto, o sócio da ME ou EPP pode solicitar a baixa nos registros dos órgãos públicos federais como
+estaduais e municipais, a qualquer tempo, mesmo que não tenha pago os débitos.
+
+        Observação: Os órgãos terão o prazo de 60 dias para efetivar a baixa nos respectivos
+        cadastros. Ultrapassado o prazo sem manifestação do órgão competente, presumir-se-á a
+        baixa dos registros das microempresas e a das empresas de pequeno porte.
+
+       Assim é a redação do caput do art. 9º, da LC 123/06:
+
+        Art. 9o O registro dos atos constitutivos, de suas alterações e extinções (baixas), referentes
+        a empresários e pessoas jurídicas em qualquer órgão dos 3 (três) âmbitos de governo
+        ocorrerá independentemente da regularidade de obrigações tributárias, previdenciárias
+        ou trabalhistas, principais ou acessórias, do empresário, da sociedade, dos sócios, dos
+        administradores ou de empresas de que participem, sem prejuízo das responsabilidades
+        do empresário, dos titulares, dos sócios ou dos administradores por tais obrigações,
+        apuradas antes ou após o ato de extinção.         (Redação dada pela Lei Complementar nº
+        147, de 2014)
+
+        Nesse ponto, vamos fazer uma breve recordação: nós vimos, quando do estudo da responsabilidade
+tributária, que a responsabilidade do sócio não ocorre pelo simples fato de ser sócio, mas, sim, quando este
+assume a gestão da empresa, praticando atos com excesso de poderes ou infração da lei, contrato social ou
+estatutos. O sócio-gerente também pode ser responsabilizado por dissolução irregular da empresa.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           76
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Com base nesse raciocínio, a princípio não seria possível cobrar as dívidas do sócio, já que o próprio
+legislador o eximiu da prova de quitação dos tributos devidos. Contudo, vamos ver o que foi estabelecido
+nos §§ 4º e 5º do art. 9º:
+
+        § 4o - A baixa do empresário ou da pessoa jurídica não impede que, posteriormente, sejam
+        lançados ou cobrados tributos, contribuições e respectivas penalidades, decorrentes da
+        falta do cumprimento de obrigações ou da prática comprovada e apurada em processo
+        administrativo ou judicial de outras irregularidades praticadas pelos empresários, pelas
+        pessoas jurídicas ou por seus titulares, sócios ou administradores.
+
+        § 5º - A solicitação de baixa do empresário ou da pessoa jurídica importa responsabilidade
+        solidária dos empresários, dos titulares, dos sócios e dos administradores no período da
+        ocorrência dos respectivos fatos geradores.
+
+        Observação: A responsabilidade estabelecida nesse dispositivo difere daquela que
+        estudamos no art. 135, III, porque não se limita aos que exercem a gestão sobre a pessoa
+        jurídica, bem como não exige que haja infração à legislação.
+
+Sendo assim, fica o Fisco autorizado a constituir créditos tributários posteriormente à data do encerramento
+da empresa. Caso contrário, seria aberta uma grande brecha para os mal-intencionados.             Destaque-
+se que, havendo baixa diante de existência de obrigações tributárias, haverá responsabilidade solidária dos
+respectivos titulares, sócios e dos administradores.
+
+       Ademais, também ficou estabelecido no § 1º do art. 9º, da LC 123/06 o seguinte:
+
+        § 1º O arquivamento, nos órgãos de registro, dos atos constitutivos de empresários, de
+        sociedades empresárias e de demais equiparados que se enquadrarem como
+        microempresa ou empresa de pequeno porte bem como o arquivamento de suas
+        alterações são dispensados das seguintes exigências:
+
+        I - certidão de inexistência de condenação criminal, que será substituída por declaração do
+        titular ou administrador, firmada sob as penas da lei, de não estar impedido de exercer
+        atividade mercantil ou a administração de sociedade, em virtude de condenação criminal;
+
+        II - prova de quitação, regularidade ou inexistência de débito referente a tributo ou
+        contribuição de qualquer natureza.
+
+Não se aplica às microempresas e às empresas de pequeno porte o disposto no § 2º do art. 1º da Lei
+no 8.906/1994, que obriga aos atos e contratos constitutivos de pessoas jurídicas, sob pena de nulidade, só
+sejam ser admitidos a registro, nos órgãos competentes, quando visados por advogados. Isso significa que
+tal exigência não se aplica à constituição de micro e pequenas empresas.
+
+       Por último, é válido acrescentar mais um benefício conferido às MEs e EPPs:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           77
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Art. 42. Nas licitações públicas, a comprovação de regularidade fiscal e trabalhista das
+        microempresas e das empresas de pequeno porte somente será exigida para efeito de
+        assinatura do contrato. (Redação dada pela Lei Complementar nº 155, de 2016)
+
+         Isso significa que, mesmo que as MEs e EPPs tenham débitos fiscais, poderão participar do processo
+licitatório, somente sendo exigida a comprovação de regularidade fiscal e trabalhista na assinatura do
+contrato. O mesmo raciocínio se aplica quanto à regularização tardia dos documentos comprobatórios da
+regularidade trabalhista.
+
+                                                          ==219a34==
+
+        Antes da LC 155/2016, só havia previsão de regularidade fiscal no art. 42. Atualmente, o
+        dispositivo menciona regularidade fiscal e trabalhista. Fique atento!!!
+
+       Não obstante tal benesse, é importante conhecer a redação do art. 43, com redação atualizada:
+
+        Art. 43. As microempresas e as empresas de pequeno porte, por ocasião da participação
+        em certames licitatórios, deverão apresentar toda a documentação exigida para efeito de
+        comprovação de regularidade fiscal e trabalhista, mesmo que esta apresente alguma
+        restrição. (Redação dada pela Lei Complementar nº 155, de 2016)
+
+        § 1º Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será
+        assegurado o prazo de cinco dias úteis, cujo termo inicial corresponderá ao momento em
+        que o proponente for declarado vencedor do certame, prorrogável por igual período, a
+        critério da administração pública, para regularização da documentação, para pagamento
+        ou parcelamento do débito e para emissão de eventuais certidões negativas ou positivas
+        com efeito de certidão negativa. (Redação dada pela Lei Complementar nº 155, de 2016)
+        Produção de efeito
+
+        § 2º A não-regularização da documentação, no prazo previsto no § 1o deste artigo,
+        implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art.
+        81 da Lei no 8.666, de 21 de junho de 1993, sendo facultado à Administração convocar os
+        licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou
+        revogar a licitação.
+
+        Veja que será exigida a documentação pertinente das MEs e EPPs como condição para participação
+no procedimento licitatório, e esta documentação deve ser entregue, mesmo que haja restrições. Afinal, o
+art. 42 estabelece que a regularidade fiscal e trabalhista será exigida apenas para efeito de assinatura de
+contrato.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        78
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+                                  OBRIGAÇÕES ACESSÓRIAS
+Nos arts. 25, 26 e 27 da LC 123/2006, o legislador estabeleceu as obrigações acessórias que ficaram a cargo
+do optante pelo Simples Nacional. Mas também vamos recorrer aos regramentos da Resolução CGSN
+140/2018, que esmiuçou o tema. Então, vamos lá!
+
+A categoria de obrigações acessórias das microempresas e empresas de pequeno porte foi dividida da
+seguinte forma:
+
+   ●    Dos Documentos Fiscais
+   ●    Livros Fiscais e Contábeis
+   ●    Das Declarações
+   ●    Do Registro dos Valores a Receber no Regime de Caixa
+   ●    Da Certificação Digital para a ME e a EPP
+   ●    Dos Equipamentos Contadores de Produção
+
+A Reforma Tributária (LC 214/25) ainda previu o compartilhamento de dados dos documentos fiscais e
+declarações de qualquer espécie entre as administrações tributárias:
+
+          Art. 25-A. Os dados dos documentos fiscais e declarações de qualquer espécie serão
+          compartilhados entre as administrações tributárias da União, dos Estados, do Distrito
+          Federal e dos Municípios, na forma estabelecida pelo CGSN.         (Incluído pela Lei
+          Complementar nº 214, de 2025)
+
+
+Dos Documentos Fiscais
+
+Em relação aos documentos fiscais (notas fiscais), o art. 26, da LC 123/06, já previa a obrigação da sua
+emissão pelas ME/EPP:
+
+       Art. 26. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam obrigadas a:
+
+       I - emitir documento fiscal de venda ou prestação de serviço, de acordo com instruções expedidas pelo Comitê
+       Gestor;
+
+       II - manter em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e contribuições
+       devidos e o cumprimento das obrigações acessórias a que se referem os arts. 25 e 25-B desta Lei Complementar
+       enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam pertinentes.
+       (Redação dada pela Lei Complementar nº 214, de 2025)
+
+Já o art. 18-A, § 20, da LC 123/06, ainda acrescenta os documentos fiscais das microempresas e empresas de
+pequeno porte poderão ser emitidos diretamente por sistema nacional informatizado e pela internet, sem
+custos para o empreendedor, na forma regulamentada pelo Comitê Gestor do Simples Nacional.
+
+E ainda temos a Resolução CGSN 140/18 especificando a forma como se dará tal emissão:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                79
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Art. 59. A ME ou EPP optante pelo Simples Nacional utilizará, conforme as operações e prestações que realizar,
+     os documentos fiscais: (Lei Complementar nº 123, de 2006, art. 18-A, § 20; art. 26, inciso I e § 8º)
+
+     I - autorizados pelos entes federados onde a empresa tiver estabelecimento, inclusive os emitidos por meio
+     eletrônico;
+
+     II - emitidos diretamente por sistema nacional informatizado, com autorização eletrônica, sem custos para a ME
+     ou EPP, quando houver sua disponibilização no Portal do Simples Nacional.
+
+     § 1º Relativamente à prestação de serviços sujeita ao ISS, a ME ou EPP optante pelo Simples Nacional utilizará a
+     Nota Fiscal de Serviços, conforme modelo aprovado e autorizado pelo Município, ou Distrito Federal, ou outro
+     documento fiscal autorizado conjuntamente pelo Estado e pelo Município da sua circunscrição fiscal. (Lei
+     Complementar nº 123, de 2006, art. 26, inciso I e § 4º)
+
+Como as empresas optantes pelo Simples Nacional recolhem os tributos de forma distinta, não há
+informações de base de cálculo e destaque do imposto, como prevê o § 4º do art. 59 Resolução CGSN 140/18:
+
+     Art. 59.
+
+     (...)
+
+     § 4º A utilização dos documentos fiscais fica condicionada: (Lei Complementar nº 123, de 2006, art. 26, inciso I
+     e § 4º)
+
+     I - à inutilização dos campos destinados à base de cálculo e ao imposto destacado, de obrigação própria, sem
+     prejuízo do disposto no art. 58; e
+
+     II - à indicação, no campo destinado às informações complementares ou, em sua falta, no corpo do documento,
+     por qualquer meio gráfico indelével, das expressões:
+
+     a) “DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL”; e
+
+     b) “NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI”.
+
+Na hipótese de o estabelecimento da ME ou EPP estar impedido de recolher o ICMS e o ISS pelo Simples
+Nacional, em decorrência de haver excedido o sublimite vigente (aquele limite inferior de receita bruta a que
+pode estar sujeita por opção do Estado Membro), não haverá a inutilização dos campos de base de cálculo
+e destaque do imposto.
+
+Afinal, se a empresa tiver que recolher o ICMS fora do Simples Nacional, deverá efetuar o destaque do
+imposto em nota fiscal.
+
+Mas, mesmo assim, o contribuinte deverá consignar, no campo destinado às informações complementares
+ou, em sua falta, no corpo do documento, por qualquer meio gráfico indelével, as expressões:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 80
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+a) “ESTABELECIMENTO IMPEDIDO DE RECOLHER O ICMS/ISS PELO SIMPLES NACIONAL, NOS TERMOS DO §
+1º DO ART. 20 DA LEI COMPLEMENTAR Nº 123, DE 2006”;
+
+b) “NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI”.
+
+        Observação: Quando a ME ou EPP revestir-se da condição de responsável, inclusive de
+        substituto tributário, fará a indicação alusiva à base de cálculo e ao imposto retido no
+        campo próprio ou, em sua falta, no corpo do documento fiscal utilizado na operação ou
+        prestação.
+
+Em relação à prestação de serviço sujeito ao ISS, cujo imposto for de responsabilidade do tomador, o
+emitente fará a indicação alusiva à base de cálculo e ao imposto devido no campo próprio ou, em sua falta,
+no corpo do documento fiscal utilizado na prestação.
+
+Já no que se refere ao equipamento Emissor de Cupom Fiscal (ECF), deverão ser observadas as normas
+estabelecidas nas legislações dos entes federados.
+
+“Prof. A nota fiscal vai com a indicação de que não cabe crédito de IPI. Mas e em relação ao crédito de ICMS?
+É possível?!”
+
+Vale destacar que o art. 23, da LC 123/06 admite o crédito do ICMS, quando a empresa vendedora seja
+optante pelo Simples Nacional, desde que o adquirente não o seja, e condicionado ainda à destinação do
+produto adquirido para industrialização ou comercialização, isto é, nova saída tributada da mercadoria.
+
+A própria LC 123/06 também exige que o crédito somente seja realizado caso conste na nota fiscal a
+informação do valor de ICMS devido pela ME/EPP, e será este o valor a ser creditado pelo adquirente (uma
+vez que não há o destaque do imposto, comum às demais empresas). Agora, vejamos o que a Resolução
+CGSN 140/18 prevê:
+
+     Art. 60. A ME ou a EPP optante pelo Simples Nacional que emitir nota fiscal com direito ao crédito estabelecido
+     no § 1º do art. 58, consignará no campo destinado às informações complementares ou, em sua falta, no corpo
+     da nota fiscal, a expressão: "PERMITE O APROVEITAMENTO DO CRÉDITO DE ICMS NO VALOR DE R$...;
+     CORRESPONDENTE À ALÍQUOTA DE...%, NOS TERMOS DO ART. 23 DA LEI COMPLEMENTAR Nº 123, DE 2006".
+     (Lei Complementar nº 123, de 2006, art. 23, §§ 1º, 2º e 6º; art. 26, inciso I e § 4º)
+
+     § 1º A alíquota aplicável ao cálculo do crédito a que se refere o caput, corresponderá ao percentual efetivo
+     calculado com base na faixa de receita bruta no mercado interno a que a ME ou a EPP estiver sujeita no mês
+     anterior ao da operação, mediante aplicação das alíquotas nominais constantes dos Anexos I ou II desta
+     Resolução, da seguinte forma: {[(RBT12 × alíquota nominal) - (menos) Parcela a Deduzir]/RBT12} × Percentual
+     de Distribuição do ICMS. (Lei Complementar nº 123, de 2006, art. 23, §§ 1º, 2º, 3º e 6º; art. 26, inciso I e § 4º)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    81
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Ei, calma aí! Não precisa decorar essa fórmula de cálculo, ok? É só pra você entender que o ICMS a ser
+creditado segue o valor devido pela empresa do Simples, e não aquela alíquota tradicional de ICMS para as
+operações em geral.
+
+Agora, há algumas situações em que, mesmo sendo optante pelo Simples Nacional, a expressão “permite
+aproveitamento do crédito de ICMS...” não é admitida. Vejamos:
+
+     Art. 61. A ME ou a EPP optante pelo Simples Nacional não poderá consignar no documento fiscal a expressão
+     mencionada no caput do art. 60, ou caso já consignada, deverá inutilizá-la, quando: (Lei Complementar nº 123,
+     de 2006, art. 23, §§ 1º, 2º e 4º; art. 26, inciso I e § 4º)
+
+     I - estiver sujeita à tributação do ICMS no Simples Nacional por valores fixos mensais;
+
+     II - tratar-se de operação de venda ou revenda de mercadorias em que o ICMS não é devido na forma do Simples
+     Nacional;
+
+     III - houver isenção estabelecida pelo Estado ou Distrito Federal, nos termos do art. 38, que abranja a faixa de
+     receita bruta a que a ME ou EPP estiver sujeita no mês da operação;
+
+     IV- a operação for imune ao ICMS;
+
+     V - considerar, por opção, que a base de cálculo sobre a qual serão calculados os valores devidos na forma do
+     Simples Nacional será representada pela receita recebida no mês (Regime de Caixa); ou
+
+     VI - tratar-se de prestação de serviço de comunicação, de transporte interestadual ou de transporte
+     intermunicipal.
+
+Vimos as situações em que a expressão não poderá constar no documento fiscal. Agora, vamos verificar as
+situações em que o adquirente não poderá se creditar (uma delas é justamente as situações elencadas acima
+no art. 61):
+
+     Art. 62. O adquirente da mercadoria não poderá se creditar do ICMS consignado em nota fiscal emitida por ME
+     ou EPP optante pelo Simples Nacional, a que se refere o art. 60, quando: (Lei Complementar nº 123, de 2006, art.
+     23, §§ 1º, 2º, 3º, 4º e 6º)
+
+     I - a alíquota estabelecida no § 1º do art. 60 não for informada na nota fiscal;
+
+     II - a mercadoria adquirida não se destinar à comercialização ou à industrialização; ou
+
+     III - a operação enquadrar-se nas situações previstas nos incisos I a VI do art. 61.
+
+     Parágrafo único. Na hipótese de utilização de crédito a que se refere o § 1º do art. 58, de forma indevida ou a
+     maior, o destinatário da operação estornará o crédito respectivo conforme a legislação de cada ente, sem
+     prejuízo de eventuais sanções ao emitente, nos termos da legislação do Simples Nacional. (Lei Complementar nº
+     123, de 2006, art. 23, §§ 1º, 2º, 4º e 6º)
+
+Para fecharmos nossa abordagem sobre as notas fiscais, merecem destaque alguns dispositivos da Resolução
+CGSN 140/18. O primeiro deles diz respeito ao documento fiscal inidôneo:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  82
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Art. 68. Será considerado inidôneo o documento fiscal utilizado pela ME ou EPP optante pelo Simples Nacional
+     em desacordo com o disposto nesta Resolução ou na legislação de cada ente federado. (Lei Complementar nº
+     123, de 2006, art. 26, inciso I) (Redação dada pelo(a) Resolução CGSN nº 145, de 11 de junho de 2019)
+
+Ou seja, se for emitido documento fiscal em desacordo com as regrinhas que vimos aqui será considerado
+inidôneo!
+
+Agora veja bem... sabemos que o Simples Nacional é um regime tributário em que os tributos são calculados
+basicamente considerando a receita bruta da empresa. Correto? E sabemos que a receita bruta é o resultado
+das operações realizadas pela empresa, inclusive a venda de mercadorias.
+
+Assim sendo, o art. 69 da Resolução CGSN 140/18 estabeleceu que a emissão da nota fiscal representa a
+própria escrituração fiscal da empresa e constitui elemento suficiente para a fundamentação e a constituição
+do crédito tributário. Afinal, os valores contidos na nota fiscal compõe a receita bruta da empresa, que é a
+base de cálculo dos tributos do Simples:
+
+     Art. 69. O ato de emissão ou de recepção de documento fiscal por meio eletrônico estabelecido pelas
+     administrações tributárias, em qualquer modalidade, de entrada, de saída ou de prestação, representa sua
+     própria escrituração fiscal e elemento suficiente para a fundamentação e a constituição do crédito tributário,
+     ressalvado o disposto no inciso II do § 1º do art. 64. (Lei Complementar nº 123, de 2006, art. 26, §§ 10 e 15)
+
+     Parágrafo único. Considera-se recepção de documento fiscal o ato de validação ou confirmação eletrônica
+     praticado pelo contribuinte na forma estipulada pela respectiva legislação tributária. (Lei Complementar nº 123,
+     de 2006, art. 26, §§ 10 e 15)
+
+Agora, sobre o compartilhamento de dados entre as administrações tributárias da União, dos Estados, do
+Distrito Federal e dos Municípios:
+
+     Art. 70. Os dados dos documentos fiscais de qualquer espécie podem ser compartilhados entre as administrações
+     tributárias da União, dos Estados, do Distrito Federal e dos Municípios e, quando emitidos por meio eletrônico,
+     a ME ou a EPP optante pelo Simples Nacional fica desobrigada de transmitir seus dados às referidas
+     administrações tributárias, ressalvado o disposto no inciso II do § 1º do art. 64. (Lei Complementar nº 123, de
+     2006, art. 26, §§ 11 e 15)
+
+   ● Nota Fiscal em desacordo com as regras da legislação – é considerada inidônea
+   ● Nota Fiscal emitida configura representa sua própria escrituração fiscal e elemento suficiente para a
+     fundamentação e a constituição do crédito tributário
+   ● Os dados dos documentos fiscais de qualquer espécie podem ser compartilhados entre as
+     administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  83
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Para finalizar os documentos fiscais, veja só: o MEI tem regras distintas das ME/EPP. Ok? Vejamos
+resumidamente:
+
+     a) O MEI ficará dispensado da emissão:
+
+     1. nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa
+     física; e
+
+     2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário emitir
+     nota fiscal de entrada; e
+
+     b) O MEI ficará obrigado à sua emissão:
+
+     1. nas prestações de serviços para tomador inscrito no CNPJ; e
+
+     2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário não emitir
+     nota fiscal de entrada.
+
+Beleza?! Então, vamos avançar!
+
+Dos Livros Fiscais e Contábeis
+
+Agora vamos falar sobre os livros fiscais e contábeis, outras obrigações acessórias a que se sujeitam as
+microempresas e empresas de pequeno porte. É um tópico extremamente importante para a prova! Preste
+atenção!
+
+     Art. 63. Observado o disposto no art. 64, a ME ou EPP optante pelo Simples Nacional deverá adotar para os
+     registros e controles das operações e prestações por ela realizadas: (Lei Complementar nº 123, de 2006, art. 26,
+     §§ 2º, 4º, 4º-A, 4º-B, 4º-C, 10 e 11)
+
+     I - Livro Caixa, no qual deverá estar escriturada toda a sua movimentação financeira e bancária;
+
+     II - Livro Registro de Inventário, no qual deverão constar registrados os estoques existentes no término de cada
+     ano-calendário, caso seja contribuinte do ICMS;
+
+     III - Livro Registro de Entradas, modelo 1 ou 1-A, destinado à escrituração dos documentos fiscais relativos às
+     entradas de mercadorias ou bens e às aquisições de serviços de transporte e de comunicação efetuadas a
+     qualquer título pelo estabelecimento, caso seja contribuinte do ICMS;
+
+     IV - Livro Registro dos Serviços Prestados, destinado ao registro dos documentos fiscais relativos aos serviços
+     prestados sujeitos ao ISS, caso seja contribuinte do ISS;
+
+     V - Livro Registro de Serviços Tomados, destinado ao registro dos documentos fiscais relativos aos serviços
+     tomados sujeitos ao ISS; e
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  84
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     VI - Livro de Registro de Entrada e Saída de Selo de Controle, caso seja exigível pela legislação do IPI.
+
+Para todas ME/EPP:
+
+Livro Caixa - escrituração da sua movimentação financeira e bancária;
+
+Para Contribuintes do ICMS:
+
+Livro Registro de Inventário – destinado a registrar os estoques existentes no término de cada ano-
+calendário;
+
+Livro Registro de Entradas, modelo 1 ou 1-A - destinado à escrituração dos documentos fiscais relativos às
+entradas de mercadorias ou bens e às aquisições de serviços de transporte e de comunicação efetuadas a
+qualquer título pelo estabelecimento;
+
+Para Contribuintes do ISS:
+
+Livro Registro dos Serviços Prestados - destinado ao registro dos documentos fiscais relativos aos serviços
+prestados sujeitos ao ISS.
+
+Para Tomadores de Serviços Sujeitos ao ISS:
+
+Livro Registro de Serviços Tomados - destinado ao registro dos documentos fiscais relativos aos serviços
+tomados sujeitos ao ISS;
+
+Situações Específicas:
+
+Para Industriais Sujeitos ao Selo de Controle do IPI:
+
+Livro de Registro de Entrada e Saída de Selo de Controle: controle de estoque de selos de controle do IPI.
+
+Livro Registro de Impressão de Documentos Fiscais - pelo estabelecimento gráfico para registro dos
+impressos que confeccionar para terceiros ou para uso próprio;
+
+Livro Registro de Veículos - por todas as pessoas que interfiram habitualmente no processo de
+intermediação de veículos, inclusive como simples depositários ou expositores.
+
+Livros específicos pelos contribuintes que comercializem combustíveis; e
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 85
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Observação: Os livros poderão ser dispensados, no todo ou em parte, pelo ente tributante
+        da circunscrição fiscal do estabelecimento do contribuinte, respeitados os limites de suas
+        respectivas competências.
+
+A obrigação mais importante de todas aí em cima é o Livro-Caixa, citado no art. 26, § 2º, da LC 123/06. E
+sobre esta obrigação, você precisa também conhecer que a apresentação da escrituração contábil, em
+especial do Livro Diário e do Livro Razão, dispensa a apresentação do Livro Caixa.
+
+E como é a obrigação mais importante, saiba que o Livro Caixa deverá:
+
+I - conter termos de abertura e de encerramento e ser assinado pelo representante legal da empresa e, se
+houver na localidade, pelo responsável contábil legalmente habilitado; e
+
+II - ser escriturado por estabelecimento.
+
+        Observação: A ME ou a EPP que receber aporte de capital na forma prevista nos arts. 61-A
+        a 61-D da LC 123/06 (investidor-anjo), deverá manter Escrituração Contábil Digital (ECD)
+        no SPED e ficará desobrigada de cumprir O Livro Caixa, o Livro Diário e do Livro Razão.
+
+Agora, vamos a alguns detalhes adicionais sobre essas obrigações acessórias.
+
+O primeiro deles é que o ente tributante que adote sistema eletrônico de emissão de documentos fiscais
+ou recepção eletrônica de informações poderá exigi-los de seus contribuintes optantes pelo Simples
+Nacional, observados os prazos e formas previstos nas respectivas legislações.
+
+Ademais, a ME ou a EPP optante pelo Simples Nacional fica obrigada ao cumprimento das obrigações
+acessórias previstas nos regimes especiais de controle fiscal, quando exigíveis pelo respectivo ente
+tributante, observado o disposto no art. 64. Vejamos esse dispositivo:
+
+     Art. 64. A RFB, os Estados, o Distrito Federal e os Municípios não poderão instituir obrigações tributárias
+     acessórias ou estabelecer exigências adicionais e unilaterais, relativamente à prestação de informações e
+     apresentação de declarações referentes aos tributos apurados na forma prevista no Simples Nacional, além das
+     estipuladas ou previstas nesta Resolução e atendidas por meio do Portal do Simples Nacional. (Lei Complementar
+     nº 123, de 2006, art. 26, §§ 4º e 15)
+
+     § 1º O disposto no caput não se aplica às obrigações e exigências decorrentes de:
+
+     I - programas de cidadania fiscal; (Lei Complementar nº 123, de 2006, art. 26, §§ 4º e 15)
+
+     II - norma publicada até 31 de março de 2014 que tenha veiculado exigência vigente até aquela data, observado
+     o disposto no § 2º; (Lei Complementar nº 123, de 2006, art. 26, § 15)
+
+     III - procedimento administrativo fiscal, tais como a exibição de livros, documentos ou arquivos eletrônicos e o
+     fornecimento de informações fiscais, econômicas ou financeiras, previstos ou autorizados nesta Resolução, bem
+     como aqueles necessários à fundamentação dos atos administrativos oriundos do procedimento; (Lei
+     Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; Lei nº 5.172, de 1966, art. 195, caput)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  86
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     IV - informações apresentadas por meio do Sistema de Captação e Auditoria dos Anexos de Combustíveis
+     (SCANC), aprovado pelo Conselho Nacional de Política Fazendária (Confaz); ou (Lei Complementar nº 123, de
+     2006, art. 26, § 15)
+
+     V - informações relativas ao Fundo de Combate à Pobreza constante do § 1º do art. 82 do Ato das Disposições
+     Constitucionais Transitórias (ADCT). (Lei Complementar nº 123, de 2006, art. 26, § 15)
+
+Em relação à apresentação de escrituração fiscal digital, temos que nos atentar ao que prevê o art. 26, §§
+4º-A e 4º-B da LC 123/2006:
+
+     § 4º-A. A escrituração fiscal digital ou obrigação equivalente não poderá ser exigida da microempresa ou
+     empresa de pequeno porte optante pelo Simples Nacional, salvo se, cumulativamente, houver:      (Incluído
+     pela Lei Complementar nº 147, de 2014)
+
+     I - autorização específica do CGSN, que estabelecerá as condições para a obrigatoriedade;          (Incluído pela
+     Lei Complementar nº 147, de 2014)
+
+     II - disponibilização por parte da administração tributária estipulante de programa gratuito para uso da empresa
+     optante. (Redação dada pela Lei Complementar nº 214, de 2025)
+
+     § 4º-B. A exigência de apresentação de livros fiscais em meio eletrônico aplicar-se-á somente na hipótese de
+     substituição da entrega em meio convencional, cuja obrigatoriedade tenha sido prévia e especificamente
+     estabelecida pelo CGSN.       (Incluído pela Lei Complementar nº 147, de 2014)
+
+Como a LC cita o CGSN, vamos esmiuçar o assunto!! :)
+
+ Destaco para o fato de que a prestação de informações por meio do Sistema Público de Escrituração Digital
+(Sped) somente pode ser exigida:
+
+    a) nos casos em que se referir a estabelecimento de EPP que tenha ultrapassado o sublimite vigente no
+    Estado ou no Distrito Federal; e
+
+    b) em perfil específico que não exija a apuração de tributos;
+
+     Art. 65. Os Estados, o Distrito Federal e os Municípios poderão exigir a escrituração fiscal digital ou obrigação
+     equivalente para a ME ou EPP optante pelo Simples Nacional, desde que: (Lei Complementar nº 123, de 2006,
+     art. 26, § 15)
+
+     I - as informações eletrônicas sejam pré-escrituradas pelo ente federado, a fim de que o contribuinte
+     complemente a escrituração com as seguintes informações:
+
+     a) relativas a documentos fiscais não eletrônicos;
+
+     b) sobre classificação fiscal de documentos fiscais eletrônicos de entrada; e
+
+     c) que confirmem os serviços tomados; e
+
+     II - a obrigação seja cumprida:
+
+     a) mediante aplicativo gratuito, com link disponível no Portal do Simples Nacional; e
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   87
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     b) com dispensa do uso de certificação digital, salvo nas hipóteses previstas no art. 79, nos casos em que poderá
+     ser exigido.
+
+        Observação: A exigência de prestação de dados por meio de escrituração fiscal digital em
+        qualquer modalidade que não atenda ao disposto neste artigo não poderá ter caráter
+        obrigatório para a ME ou EPP optante pelo Simples Nacional, exceto quando ultrapassado
+        o sublimite vigente no Estado ou Distrito Federal.
+
+A LC 123/06, em seu art. 26, II, prescreve que as ME/EPP devem manter em boa ordem e guarda os
+documentos que fundamentaram a apuração dos impostos e contribuições devidos e o cumprimento das
+obrigações acessórias enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que
+lhes sejam pertinentes.
+
+E eu também peço que você se atende à possibilidade de a ME/EPP adotar contabilidade simplificada para
+os registros e controles das operações realizadas (autorizado pelo art. 27, da LC 123/2006):
+
+     Art. 71. A ME ou a EPP optante pelo Simples Nacional poderá, opcionalmente, adotar contabilidade simplificada
+     para os registros e controles das operações realizadas, observadas as disposições previstas no Código Civil e nas
+     Normas Brasileiras de Contabilidade editadas pelo Conselho Federal de Contabilidade. (Lei Complementar nº
+     123, de 2006, art. 27)
+
+     Parágrafo único. Aplica-se a dispensa prevista no § 2º do art. 1.179 do Código Civil ao empresário individual com
+     receita bruta anual de até R$ 81.000,00 (oitenta e um mil reais). (Lei Complementar nº 123, de 2006, art. 68)
+
+Das Declarações
+
+Vamos falar sobre as declarações a que se sujeitam as MEs ou a EPPs optantes pelo Simples Nacional. O art.
+25, da LC 123/06 estabelece o seguinte:
+
+     Art. 25. A microempresa ou empresa de pequeno porte optante pelo Simples Nacional deverá apresentar
+     anualmente à Secretaria da Receita Federal do Brasil declaração única e simplificada de informações
+     socioeconômicas e fiscais, que deverá ser disponibilizada aos órgãos de fiscalização tributária e previdenciária,
+     observados prazo e modelo aprovados pelo CGSN e observado o disposto no § 15-A do art. 18.
+
+     § 1o A declaração de que trata o caput deste artigo constitui confissão de dívida e instrumento hábil e suficiente
+     para a exigência dos tributos e contribuições que não tenham sido recolhidos resultantes das informações nela
+     prestadas.
+
+     § 2o A situação de inatividade deverá ser informada na declaração de que trata o caput deste artigo, na forma
+     regulamentada pelo Comitê Gestor.
+
+     § 3o Para efeito do disposto no § 2o deste artigo, considera-se em situação de inatividade a microempresa ou a
+     empresa de pequeno porte que não apresente mutação patrimonial e atividade operacional durante todo o ano-
+     calendário.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    88
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Essa declaração a que se refere a LC 123/06 é a DEFIS, ou seja, Declaração de Informações Socioeconômicas
+e Fiscais, prevista no art. 72, da Resolução CGSN 140/18:
+
+     Art. 72. A ME ou a EPP optante pelo Simples Nacional apresentará a Declaração de Informações Socioeconômicas
+     e Fiscais (Defis). (Lei Complementar nº 123, de 2006, art. 25, caput)
+
+A DEFIS constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos tributos e
+contribuições que não tenham sido recolhidos resultantes das informações nela prestadas.
+
+Vamos exemplificar de uma forma bem simples (sem especificar nada) o que seria isso: o contribuinte declara
+na DEFIS que no ano anterior teria que recolher R$ 100.000,00 de tributos, mas só recolheu na prática R$
+40.000,00.
+
+Neste caso, o Fisco pode encaminhar para a cobrança os R$ 60.0000,00 não recolhidos, sem ter que realizar
+qualquer lançamento fiscal. Essa é a inteligência do instrumento que constitui confissão de dívida: o STJ tem
+o entendimento de que, havendo confissão de dívida, o crédito tributário é constituído pela própria
+declaração do sujeito passivo:
+
+        Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal
+        constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+É na DEFIS que o contribuinte informará também a situação de inatividade da empresa. Considera-se em
+situação de inatividade a microempresa ou a empresa de pequeno porte que não apresente mutação
+patrimonial e atividade operacional durante todo o ano-calendário.
+
+Os §§ 1º e 2º, do art. 72, da Resolução CGSN 140/18, estabelece o prazo para entrega da DEFIS (a entrega
+será feita à RFB por meio de módulo do aplicativo PGDAS-D):
+
+REGRA: até 31 de março do ano-calendário subsequente ao da ocorrência dos fatos geradores
+
+ME ou a EPP incorporada, cindida, total ou parcialmente, extinta ou fundida:
+
+I - o último dia do mês de junho, quando o evento ocorrer no primeiro quadrimestre do ano-calendário; ou
+
+II - o último dia do mês subsequente ao do evento, nos demais casos.
+
+Já o §4º, dispõe que a Defis poderá ser retificada independentemente de prévia autorização da
+administração tributária e terá a mesma natureza da declaração originariamente apresentada, observado o
+disposto no parágrafo único do art. 138 do CTN.
+
+A ressalva em relação ao par. único do art. 138 do CTN tem o sentido de informar que essa retificação de
+declaração pode ocorrer a qualquer tempo pelo contribuinte, exceto se já estiver sob uma fiscalização. Neste
+caso, a retificação não terá validade para afastar a aplicação de eventuais multas tributárias.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                              89
+        www.estrategiaconcursos.com.br                                                                       295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O § 5º do art. 72 da Resolução CGSN 140/18 estabelece que as informações prestadas pelo contribuinte na
+Defis serão compartilhadas entre a RFB e os órgãos de fiscalização tributária dos Estados, do Distrito Federal
+e dos Municípios, e o § 6º prevê que a exigência da Defis não desobriga a prestação de informações relativas
+a terceiros.
+
+Já o § 9º assevera que o direito de a ME ou a EPP retificar as informações prestadas na Defis e na Declaração
+Única e Simplificada de Informações Socioeconômicas e Fiscais (DASN) extingue-se em 5 anos contados a
+partir do 1º (primeiro) dia do exercício seguinte àquele ao qual se refere a declaração.
+
+        Observação: A DASN foi substituída pela DEFIS. Não são duas obrigações distintas a serem
+        cumpridas, só houve a substituição.
+
+DEFIS – Declaração anual, apresentada até 31 de março do ano-calendário subsequente ao da ocorrência
+dos fatos geradores.
+
+A DEFIS configura confissão de dívida.
+
+E é claro, meus amigos, o art. 73 dispõe que, relativamente aos tributos devidos, não abrangidos pelo
+Simples Nacional, a ME ou a EPP optante pelo Simples Nacional deverá observar a legislação dos respectivos
+entes federados quanto à prestação de informações e entrega de declarações. Afinal, estamos falando das
+obrigações acessórias relativas aos tributos incluídos no Simples. O que estiver fora, segue as regras
+específicas.
+
+     Art. 74. A ME ou a EPP optante pelo Simples Nacional fica obrigada à entrega da Declaração Eletrônica de
+     Serviços, quando exigida pelo Município ou pelo Distrito Federal, que servirá para a escrituração mensal de todos
+     os documentos fiscais emitidos e documentos recebidos referentes aos serviços prestados, tomados ou
+     intermediados de terceiros, observado o disposto no inciso II do § 4º do art. 64. (Lei Complementar nº 123, de
+     2006, art. 26, § 5º)
+
+     Art. 75. A declaração a que se refere o art. 74 substitui os livros referidos nos incisos IV e V do art. 63, e será
+     apresentada ao Município ou ao Distrito Federal pelo prestador, pelo tomador, ou por ambos, observado o
+     disposto na legislação de sua circunscrição fiscal. (Lei Complementar nº 123, de 2006, art. 26, § 5º)
+
+Em relação aos prestadores de serviços, quando exigido pelo Município ou pelo Distrito Federal, deverão
+prestar a Declaração Eletrônica de Serviços.
+
+     Art. 76. O Estado ou o Distrito Federal poderá obrigar a ME ou a EPP optante pelo Simples Nacional, quando
+     responsável pelo recolhimento do ICMS de que tratam as alíneas “a”, “g” e “h” do inciso XII do art. 5º, a entregar,
+     para os fatos geradores ocorridos a partir de 1º de janeiro de 2016, declaração eletrônica para prestação de
+     informações relativas ao ICMS devido por substituição tributária, recolhimento antecipado e diferencial de
+     alíquotas, por meio de aplicativo único, gratuito e acessível por link disponível no Portal do Simples Nacional, na
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                     90
+        www.estrategiaconcursos.com.br                                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     forma disciplinada pelo Confaz, observado o disposto no inciso III do art. 79. (Lei Complementar nº 123, de 2006,
+     art. 26, §§ 4º, 12 e 15)
+
+     § 1º A declaração de que trata o caput substituirá, para os fatos geradores ocorridos a partir de 1º de janeiro de
+     2016, as exigidas pelos Estados e pelo Distrito Federal. (Lei Complementar nº 123, de 2006, art. 26, §§ 4º, 12 e
+     15)
+
+     § 2º Os fatos geradores ocorridos até 31 de dezembro de 2015 continuarão a ser declarados com observância da
+     disciplina estabelecida pelos entes a que se refere o caput. (Lei Complementar nº 123, de 2006, art. 26, §§ 4º, 12
+     e 15)
+
+Outro detalhe importante para alguns casos específicos de ICMS: ICMS devido por substituição tributária,
+recolhimento antecipado e diferencial de alíquotas. Em tais casos, O Estado ou o Distrito Federal poderá
+obrigar a ME ou a EPP optante pelo Simples Nacional declaração eletrônica para prestação de informações
+relativas a tais operações, por meio de aplicativo único, gratuito e acessível por link disponível no Portal do
+Simples Nacional.
+
+Declaração obrigatória: DEFIS (substituiu a DASN)
+
+Caracteriza confissão de dívida
+
+Prazo como REGRA: até 31 de março do ano-calendário subsequente ao da ocorrência dos fatos geradores
+
+Poderá ser retificada independentemente de prévia autorização da administração tributária
+
+Declarações Adicionais:
+
+Declaração Eletrônica de Serviços 🡪 somente quando exigível dos prestadores de serviços
+
+Declaração sobre operações de ICMS devido por substituição tributária, recolhimento antecipado e
+diferencial de alíquotas 🡪 somente quando exigível
+
+Por fim, é interessante destacar a declaração do MEI, prevista pela LC 214/25:
+
+         Art. 25-B. O MEI, definido no art. 18-A, deverá apresentar anualmente à Secretaria Especial
+         da Receita Federal do Brasil declaração única e simplificada de informações
+         socioeconômicas e fiscais, observados prazo e modelo aprovados pelo CGSN.         (Incluído
+         pela Lei Complementar nº 214, de 2025)
+
+         Parágrafo único. As informações da declaração referida no caput têm caráter declaratório,
+         constituindo confissão de dívida e instrumento hábil e suficiente para a exigência dos
+         tributos e contribuições que não tenham sido recolhidos resultantes das informações nela
+         prestadas. (Incluído pela Lei Complementar nº 214, de 2025)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    91
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Do Registro dos Valores a Receber no Regime de Caixa
+
+Essa obrigação acessória é menos relevante que as anteriores, por se referir apenas aos contribuintes
+optantes pelo regime de caixa. Vejamos o que estabelece o art. 77, da Resolução CGSN 140/18:
+
+      Art. 77. A optante pelo regime de caixa deverá manter registro dos valores a receber, no modelo constante do
+      Anexo IX, no qual constarão, no mínimo, as seguintes informações, relativas a cada prestação de serviço ou
+      operação com mercadorias a prazo: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 18, § 3º; art.
+      26, § 4º)
+
+      I - número e data de emissão de cada documento fiscal;
+
+      II - valor da operação ou prestação;
+
+      III - quantidade e valor de cada parcela, bem como a data dos respectivos vencimentos;
+
+      IV - data de recebimento e valor recebido;
+
+      V - saldo a receber; e
+
+      VI - créditos considerados não mais cobráveis.
+
+O § 2º prevê que a adoção do regime de caixa pela ME ou EPP não a desobriga de manter em boa ordem e
+guarda os documentos e livros previstos nesta Resolução, inclusive com a discriminação completa de toda a
+sua movimentação financeira e bancária, constante do Livro Caixa.
+
+Agora, um detalhe interessante! Como o recolhimento aqui não se refere ao regime de competência, isto é,
+os tributos somente são pagos à medida em que a receita entra no caixa da empresa, toma relevância os
+créditos inadimplidos. Afinal, a empresa não recolherá tributo nos casos em que levar “calote”! O Fisco
+também sairá perdendo... então, temos que prestar atenção aqui!
+
+Assim, o § 5º, diz que a ME ou a EPP deverá apresentar à administração tributária, quando solicitados, os
+documentos que comprovem a efetiva cobrança dos créditos considerados não mais cobráveis.
+
+Vamos entender o que são considerados como meios de cobrança:
+
+I - notificação extrajudicial;
+
+II - protesto;
+
+III - cobrança judicial; e
+
+IV - registro do débito em cadastro de proteção ao crédito.
+
+      Art. 78. Na hipótese de descumprimento do disposto no art. 77, será desconsiderada, de ofício, a opção pelo
+      regime de caixa, para os anos-calendário correspondentes ao período em que tenha ocorrido o descumprimento.
+      (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 18, § 3º; art. 26, § 4º)
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                    92
+         www.estrategiaconcursos.com.br                                                                             295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Parágrafo único. Na hipótese prevista no caput, os tributos abrangidos pelo Simples Nacional deverão ser
+     recalculados pelo regime de competência, sem prejuízo dos acréscimos legais correspondentes. (Lei
+     Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 18, § 3º; art. 26, § 4º)
+
+E se a empresa descumprir as regras do art. 77, será desconsiderada, de ofício, a opção pelo regime de
+caixa, para os anos-calendário correspondentes ao período em que tenha ocorrido o descumprimento.
+
+Da Certificação Digital para a ME e a EPP
+
+O CGSN também possui papel importante na regulamentação da exigência de certificados digitais das
+ME/EPP. Afinal, veja o que a LC 123/2006 prevê:
+
+     Art. 26.
+
+     (...)
+
+     § 7º Cabe ao CGSN dispor sobre a exigência da certificação digital para o cumprimento de obrigações principais
+     e acessórias por parte da microempresa, inclusive o MEI, ou empresa de pequeno porte optante pelo Simples
+     Nacional, inclusive para o recolhimento do FGTS.
+
+Assim, em relação à certificação digital, o art. 79, da Resolução CGSN 140/2018 dispõe:
+
+     Art. 79. A ME ou a EPP optante pelo Simples Nacional poderá ser obrigada ao uso de certificação digital para
+     cumprimento das seguintes obrigações: (Lei Complementar nº 123, de 2006, art. 26, § 7º)
+
+     I - entrega da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência
+     Social (GFIP), bem como o recolhimento do FGTS, ou de declarações relativas ao Sistema de Escrituração Digital
+     das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), para empresas com empregado;
+
+     II - emissão de documento fiscal eletrônico, quando a obrigatoriedade estiver prevista em norma do Confaz ou
+     na legislação municipal;
+
+     III - prestação de informações relativas ao ICMS a que se refere o caput do art. 76, desde que a ME ou a EPP
+     esteja obrigada ao uso de documento fiscal eletrônico na forma prevista no inciso II; e
+
+     IV - prestação de informações à RFB relativas à manutenção de recursos no exterior na forma prevista no art. 1º
+     da Lei nº 11.371, de 28 de novembro de 2006.
+
+Então, vamos lá memorizar essas informações:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                93
+         www.estrategiaconcursos.com.br                                                                         295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Uso obrigatório de certificado digital nas seguintes situações:
+
+   ● Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço
+   ● Informações à Previdência Social (Declaração GFIP);
+   ● Recolhimento de FGTS;
+   ● Declarações relativas ao Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e
+     Trabalhistas (eSocial)
+   ● Emissão de documento fiscal eletrônico, somente quando a obrigatoriedade estiver prevista em
+     norma do Confaz ou na legislação municipal
+   ● No caso acima, a obrigação se estende àquela possível declaração relativa ao ICMS-ST, DIFAL e
+     Recolhimento Antecipado.
+   ● Prestação de informações à RFB relativas à manutenção de recursos no exterior
+
+Poderá ser exigida a utilização de códigos de acesso para cumprimento das obrigações não previstas acima.
+
+A empresa poderá cumprir as obrigações relativas ao eSocial com utilização de código de acesso apenas na
+modalidade online e desde que tenha até 1 empregado. Acima disso, apenas com certificação digital.
+
+
+Dos Equipamentos Contadores de Produção
+
+Esta obrigação é bem mais específica! Somente se aplica a estabelecimentos industriais, e somente aqueles
+que industrializarem produtos a que a legislação do IPI os sujeite a um controle especial de produção, por
+meio de equipamentos contadores de produção.
+
+       Art. 80. A ME ou a EPP envasadora de bebidas optante pelo Simples Nacional deverá observar as normas da RFB
+       referentes a instalação de equipamentos de contadores de produção, que possibilitem, ainda, a identificação do
+       tipo de produto, de embalagem e sua marca comercial, além de outros instrumentos de controle. (Lei
+       Complementar nº 123, de 2006, art. 17, § 5º; art. 26, §§ 4º e 15)
+
+A opção pelo Simples Nacional não torna a empresa industrial optante desobrigada a instalar os
+equipamentos contadores de produção, estabelecidos pela Receita Federal (legislação específica do IPI).
+
+Para encerrar as regras sobre obrigações acessórias, vale se atentar ao disposto no art. 26, § 4º, da LC 123/06,
+que veda a exigência de obrigações tributárias acessórias relativas aos tributos apurados na forma do
+Simples Nacional além daquelas estipuladas pelo CGSN e atendidas por meio do Portal do Simples Nacional,
+bem como, o estabelecimento de exigências adicionais e unilaterais pelos entes federativos, exceto os
+programas de cidadania fiscal.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 94
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+                             FISCALIZAÇÃO ORIENTADORA
+O art. 55 da LC 123/06 dispõe que a fiscalização em relação aos aspectos trabalhista, metrológico, sanitário,
+ambiental, de segurança, de relações de consumo e de uso e ocupação do solo deve ser de caráter
+prioritariamente orientador, quando se tratar de microempresas e das empresas de pequeno porte:
+
+     Art. 55. A fiscalização, no que se refere aos aspectos trabalhista, metrológico, sanitário, ambiental, de
+     segurança, de relações de consumo e de uso e ocupação do solo das microempresas e das empresas de pequeno
+     porte, deverá ser prioritariamente orientadora quando a atividade ou situação, por sua natureza, comportar
+     grau de risco compatível com esse procedimento.
+
+Assim, os autos de infração não devem ser lavrados de imediato, afinal, o objetivo prioritário é orientar os
+empresários, em vez de puni-los. A inobservância desse regramento implica atentado aos direitos e garantias
+legais assegurados ao exercício profissional da atividade empresarial.
+
+Nessa toada, será observado o critério de dupla visita para lavratura de autos de infração, salvo quando for
+constatada infração por falta de registro de empregado ou anotação da Carteira de Trabalho e Previdência
+Social – CTPS, ou, ainda, na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+
+Essa mesma lógica se aplica à lavratura de multa pelo descumprimento de obrigações acessórias relativas às
+matérias do caput, inclusive quando previsto seu cumprimento de forma unificada com matéria de outra
+natureza, exceto a trabalhista.
+
+A inobservância do critério de dupla visita implica nulidade do auto de infração lavrado sem cumprimento
+ao disposto neste artigo, independentemente da natureza principal ou acessória da obrigação.
+
+        Observação:
+
+        As atividades situações cujo grau de risco seja considerado alto, as quais não se sujeitarão
+        a este artigo. Mas você não precisa decorar essas atividades.
+
+        Não se aplica também ao processo administrativo fiscal relativo a tributos, que se dará na
+        forma dos arts. 39 e 40 desta Lei Complementar.
+
+        Outra situação inaplicável: infrações relativas à ocupação irregular da reserva de faixa não
+        edificável, de área destinada a equipamentos urbanos, de áreas de preservação
+        permanente e nas faixas de domínio público das rodovias, ferrovias e dutovias ou de vias e
+        logradouros públicos.
+
+O § 7º ainda prevê que os órgãos e entidades da administração pública federal, estadual, distrital e municipal
+deverão observar o princípio do tratamento diferenciado, simplificado e favorecido por ocasião da fixação
+de valores decorrentes de multas e demais sanções administrativas.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            95
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+                    FISCALIZAÇÃO DO SIMPLES NACIONAL
+
+Da Competência para Fiscalizar
+
+       Em se tratando de fiscalização tributária, seja no tocante ao cumprimento das obrigações principais
+ou acessórias, a LC 123/2006 definiu que a competência para verificar a ocorrência das hipóteses de
+exclusão de ofício do Simples Nacional (art. 29) é da Secretaria da Receita Federal e das Secretarias de
+Fazenda ou de Finanças do Estado ou do Distrito Federal, segundo a localização do estabelecimento, e,
+tratando-se de prestação de serviços incluídos na competência tributária municipal, a competência será
+também do respectivo Município.
+
+                                            Secretarias de Fazenda ou
+                                            de Finanças do Estado ou
+                                               do Distrito Federal,
+                                            segundo a localização do
+                                                estabelecimento
+
+                                                                           Municípios, desde que se
+                Secretaria da Receita                                        trate de prestação de
+                   Federal (RFB)                                           serviços incluídos em sua
+                                                                            competência tributária
+
+                                                 Fiscalização do
+                                                     Simples
+                                                    Nacional
+
+       No exercício das atribuições de fiscalização, as Secretarias de Fazenda ou Finanças dos Estados
+poderão celebrar convênio com os Municípios de sua jurisdição para atribuir a estes a fiscalização. Tal
+convênio é dispensado, porém, na hipótese de ocorrência de prestação de serviços sujeita ao ISS por
+estabelecimento localizado no Município.
+
+       Ressaltamos, ainda, que, após iniciada, a fiscalização poderá abranger todos os demais
+estabelecimentos da microempresa ou da empresa de pequeno porte, independentemente da atividade
+por eles exercida ou de sua localização, na forma e condições estabelecidas pelo CGSN.
+
+       Como decorrência da fiscalização tributária, considerando que o recolhimento é unificado, as
+autoridades fiscais da RFB, dos Estados, DF ou Municípios têm competência para efetuar o lançamento de
+todos os tributos incluídos na sistemática do Simples Nacional, relativamente a todos os estabelecimentos
+da empresa, independentemente do ente federado instituidor.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       96
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Observação: A competência para autuação por descumprimento de obrigação acessória é
+        privativa da administração tributária perante a qual a obrigação deveria ter sido cumprida.
+
+Competência para Fiscalizar Cumprimento de Obrigações Principais ou Acessórias:
+
+I - do Município, desde que o contribuinte do ISS tenha estabelecimento em seu território;
+
+II - dos Estados ou do Distrito Federal, desde que a pessoa jurídica tenha estabelecimento em seu território;
+ou
+
+III - da União, em qualquer hipótese.
+
+Competência para Efetuar Lançamento (Autuação):
+
+       Obrigações Principais: qualquer ente federado, independentemente do ente instituidor.
+
+Observação: Na hipótese de ação fiscal simultânea, a autoridade fiscal deverá tomar conhecimento das
+ações fiscais em andamento, a fim de evitar duplicidade de lançamentos referentes ao mesmo período e fato
+gerador.
+
+Obrigações Acessórias: privativa da administração tributária perante a qual a obrigação deveria ter sido
+cumprida.
+
+Nesse contexto, o valor não pago, apurado em procedimento de fiscalização, será exigido em lançamento
+de ofício pela autoridade competente que realizou a fiscalização, cabendo ao Comitê Gestor disciplinar este
+assunto.
+
+O art. 85, § 1º, da Resolução CGSN 140/2018, estabelece que a ação fiscal, após iniciada, poderá abranger
+todos os estabelecimentos da ME e da EPP, independentemente das atividades por eles exercidas. Mas, na
+hipótese de o órgão da administração tributária do Estado, do Distrito Federal ou do Município realizar ação
+fiscal em contribuinte com estabelecimento fora do âmbito de competência do respectivo ente federado, o
+órgão deverá comunicar o fato à administração tributária do outro ente federado para que, se houver
+interesse, se integre à ação fiscal. A comunicação dar-se-á por meio do sistema eletrônico no prazo mínimo
+de 10 dias antes do início da ação fiscal.
+
+De acordo com o art. 85, § 9º, da Resolução CGSN 140/2018, a seleção, o preparo e a programação da ação
+fiscal serão realizadas de acordo com os critérios e diretrizes das administrações tributárias de cada ente
+federado, no âmbito de suas respectivas competências.
+
+Algumas considerações importantes que também constam no art. 85, são as seguintes:
+
+     Art. 85.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          97
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     (...)
+
+     § 10. É permitida a prestação de assistência mútua e a permuta de informações entre a RFB e as Fazendas
+     Públicas dos Estados, do Distrito Federal e dos Municípios, relativas às MEe às EPP, para fins de planejamento
+     ou de execução de procedimentos fiscais ou preparatórios. (Lei Complementar nº 123, de 2006, art. 34, § 1º)
+
+     § 11. Sem prejuízo de ação fiscal individual, as administrações tributárias poderão utilizar procedimento de
+     notificação prévia com o objetivo de incentivar a autorregularização, que, neste caso, não constituirá início de
+     procedimento fiscal. (Lei Complementar nº 123, de 2006, art. 34, § 3º)
+
+     § 12. As notificações para regularização prévia poderão ser feitas por meio do Portal do Simples Nacional,
+     facultada a utilização do Domicílio Tributário Eletrônico do Simples Nacional (DTE-SN) de que trata o art. 122, e
+     deverão estabelecer prazo de regularização de até 90 (noventa) dias. (Lei Complementar nº 123, de 2006, art.
+     34, § 3º)
+
+       Na hipótese de a microempresa ou empresa de pequeno porte exercer alguma das atividades de
+prestação de serviços relacionados abaixo, caberá à Secretaria da Receita Federal do Brasil a fiscalização da
+Contribuição para a Seguridade Social a cargo da empresa (Contribuição Previdenciária Patronal ou CPP):
+
+       o Construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada,
+         execução de projetos e serviços de paisagismo, bem como decoração de interiores;
+       o Serviço de vigilância, limpeza ou conservação.
+       o Serviços advocatícios.
+
+Do Registro da Ação Fiscal
+
+Os detalhamentos a serem estudados a partir de agora foram disciplinas na Resolução CGSN 140/18. Vamos
+lá!
+
+Primeiramente, em relação ao registro das ações fiscais, cabe destacar que é realizado no Sefisc, que é um
+sistema disponibilizado no próprio Portal do Simples Nacional, e que pode ser acessado pelos entes
+federados.
+
+Vejamos algumas informações mínimas que devem constar:
+
+     Art. 86. As ações fiscais serão registradas no Sistema Único de Fiscalização, Lançamento e Contencioso (Sefisc),
+     disponibilizado no Portal do Simples Nacional, com acesso pelos entes federados, e deverão conter, no mínimo:
+     (Lei Complementar nº 123, de 2006, art. 33, § 4º)
+
+     I - data de início da fiscalização;
+
+     II - abrangência do período fiscalizado;
+
+     III - os estabelecimentos fiscalizados;
+
+     IV - informações sobre:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                  98
+         www.estrategiaconcursos.com.br                                                                           295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     a) planejamento da ação fiscal, a critério de cada ente federado;
+
+     b) fato que caracterize embaraço ou resistência à fiscalização;
+
+     c) indício de que o contribuinte esteja praticando, em tese, crime contra a ordem tributária; e
+
+     V - prazo de duração e eventuais prorrogações;
+
+     VI - resultado, inclusive com indicação do valor do crédito tributário apurado, quando houver;
+
+     VII - data de encerramento.
+
+O prazo para registrar o início da ação fiscal é de até 90 dias, mas o prazo para o seu encerramento seguirá
+o previsto na legislação do respectivo ente federado fiscalizador:
+
+     Art. 86.
+
+     (...)
+
+     § 1º A autoridade fiscal deverá registrar o início da ação fiscal no prazo de até 90 (noventa) dias. (Lei
+     Complementar nº 123, de 2006, art. 33, § 4º) (Redação dada pelo(a) Resolução CGSN nº 171, de 26 de outubro
+     de 2022)
+
+     § 2º O Sefisc conterá relatório gerencial com informações das ações fiscais em determinado período. (Lei
+     Complementar nº 123, de 2006, art. 33, § 4º)
+
+     § 3º O mesmo ente federado que abrir a ação fiscal deverá encerrá-la, observado o prazo previsto em sua
+     respectiva legislação. (Lei Complementar nº 123, de 2006, art. 33, § 4º)
+
+
+Do Auto de Infração e Notificação Fiscal
+
+No curso da ação fiscal, caso se constate realmente a prática de infração à legislação tributária por ME ou
+EPP, haverá a lavratura de Auto de Infração e Notificação Fiscal (AINF), emitido por meio do Sefisc. É o que
+prescreve o art. 87 da Resolução CGSN 140/18:
+
+     Art. 87. Verificada infração à legislação tributária por ME ou EPP optante pelo Simples Nacional, deverá ser
+     lavrado Auto de Infração e Notificação Fiscal (AINF), emitido por meio do Sefisc. (Lei Complementar nº 123, de
+     2006, art. 33, §§ 3º e 4º)
+
+A ação fiscal relativa ao Simples Nacional poderá ser realizada por estabelecimento, porém o AINF deverá
+ser lavrado sempre com o CNPJ da matriz.
+
+Para a apuração do crédito tributário, deverão ser consideradas as receitas de todos os estabelecimentos da
+ME ou da EPP, ainda que a ação fiscal seja realizada por estabelecimento.
+
+Agora, lembre-se do seguinte: as informações prestadas em DEFIS (ou DASN), bem como as informações
+constantes do PGDAS-D, que é o programa gerador da guia de pagamento mensal de tributos do Simples
+Nacional (DAS) configuram confissão de dívida. Portanto: estarão devidamente constituídos os débitos
+relativos aos impostos e contribuições resultantes das informações prestadas na DASN ou no PGDAS-D,
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                               99
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+caso em que será vedado lançamento de ofício por parte das administrações tributárias federal, estaduais
+ou municipais.
+
+Vamos para as características que devem constar no AINF, definidas no art. 88 da Resolução CGSN 140/18:
+
+     Art. 88. O AINF será lavrado em 2 (duas) vias e deverá conter as seguintes informações: (Lei Complementar nº
+     123, de 2006, art. 33, § 4º)
+
+     I - data, hora e local da lavratura;
+
+     II - identificação do autuado;
+
+     III - identificação do responsável solidário, quando cabível;
+
+     IV - período autuado;
+
+     V - descrição do fato;
+
+     VI - o dispositivo legal infringido e a penalidade aplicável;
+
+     VII - a determinação da exigência e a intimação para cumpri-la ou impugná-la, no prazo fixado na legislação do
+     ente federado;
+
+     VIII - demonstrativo de cálculo dos tributos e multas devidos;
+
+     IX - identificação do autuante; e
+
+     X - hipóteses de redução de penalidades.
+
+     Parágrafo único. O documento de que trata o caput deverá contemplar todos os tributos abrangidos pelo Simples
+     Nacional. (Lei Complementar nº 123, de 2006, art. 33, §§ 1º-C e 4º)
+
+E, em relação aos documentos emitidos em procedimento fiscal, estes podem ser entregues ao sujeito
+passivo nos termos do art. 89 da Resolução CGSN 140/18:
+
+     Art. 89. Os documentos emitidos em procedimento fiscal podem ser entregues ao sujeito passivo: (Lei
+     Complementar nº 123, de 2006, art. 33, § 4º)
+
+     I - somente em meio impresso;
+
+     II - mediante utilização do sistema de comunicação eletrônica previsto no art. 122, observado o disposto em seus
+     §§ 3º e 4º; ou
+
+     III - em arquivos digitais e, neste caso, deverão ser entregues também em meio impresso:
+
+     a) os termos, as intimações, o relatório fiscal e a folha de rosto do AINF; ou
+
+     b) somente os termos e as intimações, desde que o relatório fiscal e a folha de rosto do AINF sejam assinados
+     com certificado digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) e possam
+     ser validados em endereço eletrônico informado pelo autuante.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 100
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Nos casos em que houver entrega de arquivos digitais:
+
+I - os documentos serão entregues ao sujeito passivo por meio de mídia não regravável; e
+
+II - a entrega dos documentos será feita com o respectivo termo de encerramento e ciência do lançamento,
+no qual devem constar a descrição do conteúdo da mídia digital, o resumo do crédito tributário lançado e
+demais informações pertinentes ao encerramento.
+
+Assim como os tributos são pagos por meio de DAS, o valor apurado no AINF também será pago pelo
+contribuinte por meio de DAS, gerado pelo aplicativo disponível no Portal do Simples Nacional, conforme
+preceitua o art. 90 da Resolução CGSN 140/18:
+
+     Art. 90. O valor apurado no AINF deverá ser pago por meio do DAS, gerado por meio de aplicativo disponível no
+     Portal do Simples Nacional. (Lei Complementar nº 123, de 2006, art. 21, inciso I; art. 33, § 4º)
+
+E, para finalizar, vamos falar um pouco sobre os autos de infração por descumprimento de obrigação
+acessória.
+
+De início, lembre-se de que a competência para autuação por descumprimento de obrigação acessória é
+privativa da administração tributária perante a qual a obrigação deveria ter sido cumprida. Essa é uma
+característica muito importante a ser memorizada, já que em relação às obrigações principais, qualquer ente
+pode lavrar o AINF dos tributos do Simples de um modo geral.
+
+Descumprimento de Obrigação Principal: O AINF é o documento único de autuação, a ser utilizado por todos
+os entes federados.
+
+Obs.: Qualquer ente pode lavrar AINF, mesmo quando envolver tributos que não sejam de sua competência.
+
+Descumprimento de Obrigação Acessória: Deverão ser utilizados os documentos de autuação e lançamento
+fiscal específicos de cada ente federado.
+
+Obs.: A competência para autuação é privativa da administração tributária perante a qual a obrigação
+deveria ter sido cumprida.
+
+Ademais, cabe destacar que não se exigirá o registro no Sefisc de lançamento fiscal que trate
+exclusivamente de descumprimento de obrigação acessória.
+
+E, por fim, a receita decorrente das autuações por descumprimento de obrigação acessória será destinada
+ao ente federado responsável pela autuação, caso em que deverá ser utilizado o documento de arrecadação
+específico do referido ente que promover a autuação e lançamento fiscal, sujeitando-se o pagamento às
+normas previstas em sua respectiva legislação.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                              101
+        www.estrategiaconcursos.com.br                                                                        295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Do Registro e Lançamento em Sistema Alternativo
+
+Pode acontecer de as ações fiscais serem registradas em sistema alternativo. Mesmo assim, tais ações
+devem ser registradas no Sefisc para fins de compartilhamento:
+
+     Art. 90-A. Observado o disposto no artigo 86, poderão ser utilizados alternativamente os procedimentos
+     administrativos fiscais previstos na legislação de cada ente federado. (Lei Complementar nº 123, de 2006, art.
+     33, § 4º) (Incluído(a) pelo(a) Resolução CGSN nº 171, de 26 de outubro de 2022)
+
+     § 1º As ações fiscais abertas pelos entes federados em seus respectivos sistemas de controle e lançamento
+     deverão ser registrados no Sefisc para fins de compartilhamento. (Lei Complementar nº 123, de 2006, art. 33, §
+     4º) (Incluído(a) pelo(a) Resolução CGSN nº 171, de 26 de outubro de 2022)
+
+     § 2º A ação fiscal e o lançamento serão realizados apenas em relação aos tributos de competência de cada ente
+     federado. (Lei Complementar nº 123, de 2006, art. 33, § 4º) (Incluído(a) pelo(a) Resolução CGSN nº 171, de 26
+     de outubro de 2022)
+
+Deverão ser utilizados os documentos de autuação e lançamento fiscal específicos de cada ente federado.
+
+O valor apurado na ação fiscal deverá ser pago por meio de documento de arrecadação de cada ente
+federado.
+
+O documento de autuação e lançamento fiscal poderá ser lavrado também somente em relação ao
+estabelecimento objeto da ação fiscal.
+
+
+Da Omissão de Receita
+
+         De acordo com o art. 34, da LC 123/2006, aplicam-se à microempresa e à empresa de pequeno porte,
+optantes pelo Simples Nacional, todas as presunções de omissão de receita existentes nas legislações de
+regência dos impostos e contribuições incluídos no Simples Nacional. Isso significa que, no curso da ação
+fiscal, um Auditor-Fiscal da Receita Federal poderá aplicar as presunções de omissão de receitas previstas na
+legislação do imposto de renda, já que é um tributo incluído no Simples Nacional.
+
+     Art. 34. Aplicam-se à microempresa e à empresa de pequeno porte optantes pelo Simples Nacional todas as
+     presunções de omissão de receita existentes nas legislações de regência dos impostos e contribuições incluídos
+     no Simples Nacional.
+
+        A LC 155/2016 incluiu o § 1º, no art. 34, da LC 123/06, dispondo que é permitida a prestação de
+assistência mútua e a permuta de informações entre a Fazenda Pública da União e as dos Estados, do
+Distrito Federal e dos Municípios, relativas às microempresas e às empresas de pequeno porte, para fins de
+planejamento ou de execução de procedimentos fiscais ou preparatórios.
+
+         Cabe ainda destacar que, sem prejuízo de ação fiscal individual, as administrações tributárias poderão
+utilizar procedimento de notificação prévia, visando à autorregularização, na forma e nos prazos a serem
+regulamentados pelo CGSN, que não constituirá início de procedimento fiscal.
+
+     Art. 34.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                               102
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     (...)
+
+     § 1º É permitida a prestação de assistência mútua e a permuta de informações entre a Fazenda Pública da União
+     e as dos Estados, do Distrito Federal e dos Municípios, relativas às microempresas e às empresas de pequeno
+     porte, para fins de planejamento ou de execução de procedimentos fiscais ou preparatórios.           (Incluído
+     pela Lei Complementar nº 155, de 2016)
+
+     (...)
+
+     § 3º Sem prejuízo de ação fiscal individual, as administrações tributárias poderão utilizar procedimento de
+     notificação prévia visando à autorregularização, na forma e nos prazos a serem regulamentados pelo CGSN, que
+     não constituirá início de procedimento fiscal.         (Incluído pela Lei Complementar nº 155, de 2016)
+
+Agora, vamos aos detalhes previstos na Resolução CGSN 140/18:
+
+     Art. 91. (...)
+
+     Parágrafo único. A existência de tributação prévia por estimativa, estabelecida em legislação do ente federado
+     não desobrigará:
+
+     I - da apuração da base de cálculo real efetuada pelo contribuinte ou pelas administrações tributárias; e (Lei
+     Complementar nº 123, de 2006, art. 18, caput e § 3º)
+
+     II - da emissão de documento fiscal previsto no art. 59, ressalvadas as prerrogativas do MEI, nos termos do inciso
+     II do art. 106. (Lei Complementar nº 123, de 2006, art. 26, inciso I e § 1º)
+
+Ou seja, em caso de omissão de receita, havendo o cálculo dos tributos por meio de estimativa, o
+contribuinte continua obrigado à emissão dos documentos fiscais.
+
+E se o contribuinte exercer atividades incluídas no campo de incidência do ICMS e do ISS, e não havendo a
+identificação exata de qual atividade foi exercida, será aplicada a maior alíquota prevista nas tabelas do
+Simples. Afinal, as atividades possuem uma alíquota distinta.
+
+     Art. 92. No caso em que a ME ou a EPP optante pelo Simples Nacional exerça atividades incluídas no campo de
+     incidência do ICMS e do ISS e seja apurada omissão de receita de origem não identificável, a autuação será feita
+     com utilização da maior das alíquotas relativas à faixa de receita bruta de enquadramento do contribuinte,
+     dentre as tabelas aplicáveis às respectivas atividades. (Lei Complementar nº 123, de 2006, art. 39, § 2º)
+
+         Observação: Na hipótese de as alíquotas das tabelas aplicáveis serem iguais, será utilizada
+         a tabela que tiver a maior alíquota na última faixa, para definir a alíquota.
+
+Anote ainda que a parcela autuada que não seja correspondente aos tributos federais será rateada entre
+Estados, Distrito Federal e Municípios na proporção dos percentuais de ICMS e ISS relativos à faixa de receita
+bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                  103
+         www.estrategiaconcursos.com.br                                                                            295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Das Infrações e Penalidades
+
+As infrações e penalidades foram disciplinadas na Resolução CGSN 140/18, mas também constam as
+penalidades nos arts. 35 a 38-B da LC 123/06. Vamos lá!
+
+Vamos entender primeiramente o conceito de infração, previsto no art. 93 da Resolução CGSN 140/18:
+
+       Art. 93. Constitui infração, para os fins desta Resolução, toda ação ou omissão, voluntária ou involuntária, da
+       ME ou da EPP optante que importe em inobservância das normas do Simples Nacional. (Lei Complementar nº
+       123, de 2006, art. 2º, inciso I e § 6º; art. 33, § 4º)
+
+Em termos simplificados, infração é descumprir a legislação tributária, seja pela prática de um ato intencional
+ou não, pelo contribuinte.
+
+O art. 94 Resolução CGSN 140/18 especifica que se considera ocorrida infração quando for constatado o
+seguinte:
+
+       Art. 94. Considera-se também ocorrida infração quando constatada: (Lei Complementar nº 123, de 2006, art. 2º,
+       inciso I e § 6º; art. 33, § 4º)
+
+       I - omissão de receitas;
+
+       II - diferença de base de cálculo; ou
+
+       III - insuficiência de recolhimento dos tributos do Simples Nacional.
+
+Considera-se infração:
+
+   ●    Toda ação ou omissão, voluntária ou involuntária, descumprindo a legislação do Simples.
+   ●    Omissão de receitas;
+   ●    Diferença de base de cálculo; ou
+   ●    Insuficiência de recolhimento dos tributos do Simples Nacional.
+
+Em relação à aplicação de juros, multas de mora, e até as multas de ofício, há muita semelhança com o que
+prevê a legislação federal. Em relação aos juros e multas moratórias, o art. 95 da Resolução CGSN 140/18
+prescreveu isso literalmente:
+
+       Art. 95. Aplicam-se aos tributos devidos pela ME e pela EPP, optantes pelo Simples Nacional, as normas relativas
+       aos juros e multa de mora e de ofício previstas para o imposto sobre a renda, inclusive, quando for o caso, em
+       relação ao ICMS e ao ISS. (Lei Complementar nº 123, de 2006, art. 35)
+
+Os percentuais abaixo de multas de ofício, como dito, são os mesmos da legislação federal. Veja o art. 96 da
+Resolução CGSN 140/18:
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                                 104
+          www.estrategiaconcursos.com.br                                                                           295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Art. 96. O descumprimento de obrigação principal devida no âmbito do Simples Nacional sujeita o infrator às
+     seguintes multas: (Lei Complementar nº 123, de 2006, art. 35)
+
+     I - 75% (setenta e cinco por cento) sobre a totalidade ou diferença do tributo, no caso de falta de pagamento ou
+     recolhimento; (Lei nº 9.430, de 1996, art. 44, inciso I)
+
+     II - 150% (cento e cinquenta por cento) sobre a totalidade ou diferença do tributo, no caso de falta de pagamento
+     ou recolhimento, nas hipóteses previstas nos arts. 71 (sonegação), 72 (fraude) e 73 (conluio) da Lei nº 4.502, de
+     30 de novembro de 1964, independentemente de outras penalidades administrativas ou criminais cabíveis; (Lei
+     nº 9.430, de 1996, art. 44, inciso I e § 1º)
+
+     III - 112,50% (cento e doze e meio por cento) sobre a totalidade ou diferença do tributo, no caso de falta de
+     pagamento ou recolhimento, nas hipóteses de não atendimento pelo sujeito passivo, no prazo fixado, de
+     intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos
+     sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou
+     financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal; ou (Lei nº 9.430, de 1996,
+     art. 44, inciso I e § 2º)
+
+     IV - 225% (duzentos e vinte e cinco por cento) sobre a totalidade ou diferença do tributo, nos casos de falta de
+     pagamento ou recolhimento, nas hipóteses previstas nos arts. 71 (sonegação), 72 (fraude) e 73 (conluio) da Lei
+     nº 4.502, de 1964, e caso se trate ainda de não atendimento pelo sujeito passivo, no prazo fixado, de intimação
+     para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas
+     eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou
+     financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal, independentemente de
+     outras penalidades administrativas ou criminais cabíveis. (Lei nº 9.430, de 1996, art. 44, inciso I e §§ 1º e 2º)
+
+Resumindo:
+
+Multa de Ofício (REGRA): 75%
+
+Multa de Ofício + Não atendimento de intimações durante a fiscalização: 112,5% (75% da regra + 50%)
+
+Multa de Ofício Qualificada (fraude, sonegação e conluio): 150%
+
+Multa de Ofício Qualificada (fraude, sonegação e conluio) + Não atendimento de intimações durante a
+fiscalização: 225% (150% da fraude + 50%)
+
+Cobrar percentual de multa é algo bastante específico para uma prova. Se cair, acreditamos se limitar ao que
+já falamos acima. Logo abaixo, vamos citar outras regras sobre multas, valores mínimos etc. que você precisa
+conhecer, embora seja desarrazoado cobrar em prova, pela decoreba.
+
+Ademais, os percentuais de reduções das multas também foram retirados da legislação federal:
+
+     Art. 96.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  105
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     (...)
+
+     Parágrafo único. Aplicam-se às multas de que tratam os incisos do caput deste artigo as seguintes reduções:
+
+     I - 50% (cinquenta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30
+     (trinta) dias, contado da data em que tiver sido notificado do lançamento; ou (Lei nº 9.430, de 1996, art. 44, §
+     3º; Lei nº 8.218, de 29 de agosto de 1991, art. 6º, inciso I)
+
+     II - 30% (trinta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta)
+     dias, contado da data em que tiver sido notificado:
+
+     a) da decisão administrativa de primeira instância à impugnação tempestiva; ou (Lei nº 9.430, de 1996, art. 44,
+     § 3º; Lei nº 8.218, de 1991, art. 6º, inciso III)
+
+     b) da decisão do recurso de ofício interposto por autoridade julgadora de primeira instância. (art. 44, § 3º, da Lei
+     nº 9.430, de 1996, art. 44, § 3º; Lei nº 8.218, de 1991, art. 6º, § 1º)
+
+Resumindo:
+
+Pagamento em até 30 dias da notificação da multa: 50%
+
+Pagamento no prazo de 30 dias da decisão de primeira instância: 30%
+
+Vamos para as outras penalidades:
+
+     Art. 97. A ME ou EPP que deixar de apresentar a DASN ou que a apresentar com incorreções ou omissões ou,
+     ainda, que a apresentar fora do prazo fixado, será intimada a apresentá-la ou a prestar esclarecimentos,
+     conforme o caso, no prazo estipulado pela autoridade fiscal, e sujeitar-se-á a multa: (Lei Complementar nº 123,
+     de 2006, art. 38)
+
+     I - de 2% (dois por cento) ao mês-calendário ou fração, incidentes sobre o montante dos tributos informados na
+     DASN, ainda que integralmente pago, no caso de falta de entrega da declaração ou entrega após o prazo,
+     limitada a 20% (vinte por cento), observado o disposto no § 3º deste artigo; ou
+
+     II - de R$ 100,00 (cem reais) para cada grupo de 10 (dez) informações incorretas ou omitidas.
+
+     Art. 97.
+
+     (...)
+
+     § 2º Observado o disposto no § 3º deste artigo, as multas serão reduzidas: (Lei Complementar nº 123, de 2006,
+     art. 38, § 2º)
+
+     I - à metade, quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de ofício;
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                    106
+         www.estrategiaconcursos.com.br                                                                              295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     II - a 75% (setenta e cinco por cento), se houver a apresentação da declaração no prazo fixado em intimação.
+
+     § 3º A multa mínima a ser aplicada será de R$ 200,00 (duzentos reais). (Lei Complementar nº 123, de 2006, art.
+     38, § 3º)
+
+Deixar de apresentar a DASN ou que a apresentar com incorreções ou omissões ou, ainda, que a apresentar
+fora do prazo fixado:
+
+Multa: 2% por mês-calendário incidente sobre o valor dos tributos informados na DASN (DEFIS).
+
+Limite de multa: 20%; ou
+
+R$ 100,00 para cada grupo de 10 informações incorretas ou omitidas na DEFIS.
+
+Redução de Multa:
+
+À metade: quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de ofício
+
+A 75%: se houver a apresentação da declaração no prazo fixado em intimação.
+
+Valor mínimo: R$ 200,00
+
+       Agora vejamos essa regra da LC 123/2006, que foi impactada pela LC 214/25:
+
+     Art. 38-A. O sujeito passivo que deixar de prestar as informações no sistema eletrônico de cálculo de que trata
+     o § 15 do art. 18, no prazo previsto no § 15-A do mesmo artigo, ou que as prestar com incorreções ou omissões,
+     será intimado a fazê-lo, no caso de não apresentação, ou a prestar esclarecimentos, nos demais casos, no prazo
+     estipulado pela autoridade fiscal, na forma definida pelo CGSN, e sujeitar-se-á às seguintes multas, para cada
+     mês de referência:
+
+     I - de 2% (dois por cento) ao mês-calendário ou fração, a partir do dia seguinte ao término do prazo originalmente
+     fixado para a entrega da declaração, incidentes sobre o montante dos impostos e contribuições decorrentes das
+     informações prestadas no sistema eletrônico de cálculo de que trata o § 15 do art. 18, ainda que integralmente
+     pago, no caso de ausência de prestação de informações ou sua efetuação após o prazo, limitada a 20% (vinte
+     por cento), observado o disposto no § 2º deste artigo; e (Redação dada pela Lei Complementar nº 214, de
+     2025)
+
+     II - de R$ 20,00 (vinte reais) para cada grupo de 10 (dez) informações incorretas ou omitidas.
+
+     § 1º Para fins de aplicação da multa prevista no inciso I do caput, será considerado como termo inicial o dia
+     seguinte ao término do prazo originalmente fixado para a entrega da declaração e como termo final a data da
+     efetiva prestação ou, no caso de não prestação, da lavratura do auto de infração. (Redação dada pela Lei
+     Complementar nº 214, de 2025)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   107
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 2o A multa mínima a ser aplicada será de R$ 50,00 (cinquenta reais) para cada mês de referência.
+
+     § 3º Observado o disposto no § 2º, as multas serão reduzidas:     (Redação dada pela Lei Complementar nº 214,
+     de 2025)
+
+     I - à metade, quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de
+     ofício; (Incluído pela Lei Complementar nº 214, de 2025)
+
+     II - a 75% (setenta e cinco por cento), caso haja apresentação da declaração no prazo fixado em
+     intimação. (Incluído pela Lei Complementar nº 214, de 2025)
+
+     (...)
+
+     § 5º Considerar-se-á não entregue a declaração que não atender às especificações técnicas estabelecidas pelo
+     CGSN. (Incluído pela Lei Complementar nº 214, de 2025)
+
+     § 6º Na hipótese prevista no § 5º, o sujeito passivo será intimado a apresentar nova declaração, no prazo de 10
+     (dez) dias, contado da ciência da intimação, e sujeitar-se-á à multa prevista no inciso I do caput, observado o
+     disposto nos §§ 1º e 2º. (Incluído pela Lei Complementar nº 214, de 2025)
+
+Deixar de prestar mensalmente à RFB as informações no PGDAS-D
+
+Multa: 2% por mês-calendário incidente a partir do dia seguinte ao término do prazo originalmente fixado
+para a entrega da declaração
+
+Limite de multa: 20%; ou
+
+R$ 20,00 para cada grupo de 10 informações incorretas ou omitidas na DEFIS.
+
+Redução de Multa:
+
+À metade: quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de ofício
+
+A 75%: se houver a apresentação da declaração no prazo fixado em intimação.
+
+Valor mínimo: R$ 50,00
+
+     Art. 99. A falta de comunicação, quando obrigatória, da exclusão da ME ou EPP do Simples Nacional, nos termos
+     do art. 81, sujeitará a multa correspondente a 10% (dez por cento) do total dos tributos devidos em conformidade
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                108
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     com o Simples Nacional no mês que anteceder o início dos efeitos da exclusão, não inferior a R$ 200,00 (duzentos
+     reais), insusceptível de redução. (Lei Complementar nº 123, de 2006, art. 36)
+
+Falta de comunicação, quando obrigatória, da exclusão da ME ou EPP do Simples Nacional
+
+Multa: 10% do o valor dos tributos em conformidade com o Simples Nacional no mês que anteceder o início
+dos efeitos da exclusão
+
+Valor mínimo: R$ 200,00
+
+Para fecharmos, ainda há o art. 38-B da LC 123/06, cuja redação é a seguinte:
+
+     Art. 38-B. As multas relativas à falta de prestação ou à incorreção no cumprimento de obrigações acessórias
+     para com os órgãos e entidades federais, estaduais, distritais e municipais, quando em valor fixo ou mínimo, e
+     na ausência de previsão legal de valores específicos e mais favoráveis para MEI, microempresa ou empresa de
+     pequeno porte, terão redução de:
+
+     I - 90% (noventa por cento) para os MEI;
+
+     II - 50% (cinquenta por cento) para as microempresas ou empresas de pequeno porte optantes pelo Simples
+     Nacional.
+
+     Parágrafo único. As reduções de que tratam os incisos I e II do caput não se aplicam na:
+
+     I - hipótese de fraude, resistência ou embaraço à fiscalização;)
+
+     II - ausência de pagamento da multa no prazo de 30 (trinta) dias após a notificação.           (Incluído pela Lei
+     Complementar nº 147, de 2014) (Produção de efeito)
+
+                MICROEMPREENDEDOR INDIVIDUAL - MEI
+
+Definição de MEI
+
+       A figura do Microempreendedor Individual – MEI – surgiu com o advento da LC 128/2008, lei
+complementar que promoveu alterações na LC 123/2006. O MEI é um benefício criado com o objetivo de
+formalização daquelas pessoas que possuem negócios pequenos.
+
+      A sistemática do MEI se baseia no recolhimento dos impostos e contribuições do Simples Nacional
+em valores fixos mensais, seja qual for a receita bruta auferida, respeitado, é claro, o limite para
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  109
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+enquadramento como MEI, que por sinal é muito mais restrito do que o das MEs e EPPs: R$ 81.000,00 anual.
+
+
+No caso de início de atividades, evidentemente, o limite será de R$ 6.750,00 multiplicados pelo número de
+meses compreendido entre o início da atividade e o final do respectivo ano-calendário, consideradas as
+frações de meses como um mês inteiro.
+
+Vejamos, então, a redação do art. 18-A, da LC 123/2006:
+
+     Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e contribuições
+     abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita bruta por ele auferida
+     no mês, na forma prevista neste artigo.
+
+Em relação à receita bruta, o § 1º         do art. 18-A ainda estabelece que:
+
+     Art. 18-A:
+
+     § 1º Para os efeitos desta Lei Complementar, considera-se MEI quem tenha auferido receita bruta, no ano-
+     calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que
+     não esteja impedido de optar pela sistemática prevista neste artigo, e seja empresário individual que se enquadre
+     na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), ou o empreendedor que
+     exerça: (Redação dada pela Lei Complementar nº 188, de 2021)
+
+     I - as atividades de que trata o § 4º-A deste artigo; (Incluído pela Lei Complementar nº 188, de 2021)
+
+     (...)
+
+     III - as atividades de industrialização, comercialização e prestação de serviços no âmbito rural. (Incluído pela
+     Lei Complementar nº 188, de 2021)
+
+Nós falaremos sobre as hipóteses de impedimentos citadas acima, mas, antes disso, é importante registrar
+a definição de empresário prevista no art. 966 do Código Civil:
+
+     Art. 966. Considera-se empresário quem exerce profissionalmente atividade econômica organizada para a
+     produção ou a circulação de bens ou de serviços.
+
+Precisamos também adiantar quais são as atividades citadas nos incisos acima descritos:
+
+   ● Atividade de comercialização e processamento de produtos de natureza extrativista.
+   ● Atividade de industrialização, comercialização e prestação de serviços no âmbito rural.
+
+Agora, eu quero que você memorize algo que já caiu em provas sobre o MEI:
+
+         1 - O MEI é modalidade de microempresa.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 110
+         www.estrategiaconcursos.com.br                                                                           295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         2 - Todo benefício previsto na LC 123/06 aplicável à microempresa estende-se ao MEI
+         sempre que lhe for mais favorável.
+
+         3 - O instituto do MEI é uma política pública que tem por objetivo a formalização de
+         pequenos empreendimentos e a inclusão social e previdenciária.
+
+         4 - A formalização de MEI não tem caráter eminentemente econômico ou fiscal.
+
+Atividades Permitidas ao MEI
+
+Como se sabe, o § 1º do art. 18-A estabelece que:
+
+     Art. 18-A:
+
+     § 1º Para os efeitos desta Lei Complementar, considera-se MEI quem tenha auferido receita bruta, no ano-
+     calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que
+     não esteja impedido de optar pela sistemática prevista neste artigo, e seja empresário individual que se enquadre
+     na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), ou o empreendedor que
+     exerça: (Redação dada pela Lei Complementar nº 188, de 2021)
+
+     I - as atividades de que trata o § 4º-A deste artigo; (Incluído pela Lei Complementar nº 188, de 2021)
+
+     II - as atividades de que trata o § 4º-B deste artigo estabelecidas pelo CGSN; e (Incluído pela Lei Complementar
+     nº 188, de 2021)
+
+     III - as atividades de industrialização, comercialização e prestação de serviços no âmbito rural. (Incluído pela Lei
+     Complementar nº 188, de 2021)
+
+Nós falaremos sobre as hipóteses de impedimentos citadas acima, mas, antes disso, é importante registrar
+a definição de empresário prevista no art. 966 do Código Civil:
+
+     Art. 966. Considera-se empresário quem exerce profissionalmente atividade econômica organizada para a
+     produção ou a circulação de bens ou de serviços.
+
+Precisamos também adiantar quais são as atividades citadas nos incisos acima descritos:
+
+   ● Atividade de comercialização e processamento de produtos de natureza extrativista.
+   ● Atividade de industrialização, comercialização e prestação de serviços no âmbito rural.
+
+Note, ainda, que o inciso II atribui ao CGSN a competência de estabelecer mais detalhes sobre as atividades
+do MEI. Para entendermos melhor, vamos ler o § 4º-B, do mesmo artigo:
+
+     Art. 18-A:
+
+     (...)
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                    111
+         www.estrategiaconcursos.com.br                                                                              295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+      § 4º-B. O CGSN determinará as atividades autorizadas a optar pela sistemática de recolhimento de que trata
+      este artigo, de forma a evitar a fragilização das relações de trabalho, bem como sobre a incidência do ICMS e do
+      ISS.
+
+Assim, a Resolução CGSN 140/2018 dedicou um anexo (Anexo XI) para definir quais seriam as atividades
+permitidas ao MEI. Citarei alguns exemplos apenas, afinal, é uma relação super extensa de atividades, com
+mais de 30 páginas. Vejamos:
+
+                      Atividade Permitida                                  Incide ISS?             Incide ICMS?
+                   Açougueiro Independente                                     Não                      Sim
+         Adestrador De Cães De Guarda Independente                             Sim                      Não
+               Agente De Viagens Independente                                  Sim                      Não
+              Artesão De Bijuterias Independente                               Não                      Sim
+            Comerciante De Bebidas Independente                                Não                      Sim
+  Fabricante De Letreiros, Placas E Painéis Não Luminosos, Sob
+                                                                              Sim                       Sim
+              Encomenda Ou Não, Independente
+
+
+MEI Transportador de Cargas
+
+Uma situação específica em relação ao MEI é o que exercer atividade de transportador autônomo de cargas
+(caminhoneiro autônomo). Neste caso, devemos anotar o seguinte:
+
+I - o limite da receita bruta será de R$ 251.600,00;
+
+II - o limite será de R$ 20.966,67 multiplicados pelo número de meses compreendidos entre o início da
+atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro, no
+caso de início de atividades;
+
+III - o valor mensal da contribuição de seguridade social (como contribuinte individual) corresponderá ao
+valor resultante da aplicação da alíquota de 12% sobre o salário-mínimo mensal.
+
+Vedações ao MEI
+
+Vamos falar agora sobre as situações que impedem que o empresário opte pela sistemática de recolhimento
+do MEI (com base no art. 100, § 1º-C, por conter mais detalhes que a LC 123/2006):
+
+I - exercer ocupação não prevista no Anexo XI;
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  112
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+II - possuir mais de um estabelecimento;
+
+III - participar de outra empresa como titular, sócio ou administrador;
+
+IV - constituir-se sob a forma de startup;
+
+V - contratar mais de um empregado; ou
+
+VI - realizar cessão ou locação de mão de obra.
+
+Primeiramente, cabe destacar que o CGSN elencou no Anexo XI as atividades permitidas ao MEI. O que
+estiver fora desse rol de atividades, é vedado ao MEI.
+
+Outro ponto a se considerar é que o instituto do MEI é uma política pública que tem por objetivo a
+formalização de pequenos empreendimentos e a inclusão social e previdenciária (LC 123/06, art. 18-E).
+Assim, quando começar a se desenvolver e abrir mais de um estabelecimento, estará vedado ao MEI.
+
+O MEI também não pode ser titular, sócio ou administrador de outra empresa. Preste atenção neste ponto,
+porque uma questão poderia dizer que não pode administrar, mas que pode figurar no quadro societário.
+Isto é incorreto!!
+
+A contratação de empregado é outro ponto de destaque, afinal, antigamente, o MEI não podia contratar
+qualquer funcionário. Atualmente, é admitido, desde que observadas as regras que ainda serão estudadas.
+
+Destaque-se ainda que, para evitar a fuga dos encargos trabalhistas, nos casos em que a pessoa é
+nitidamente funcionário da empresa, e se resguarda na figura do MEI, foi estabelecido que o MEI não pode
+guardar, cumulativamente, com o contratante do serviço, relação de pessoalidade, subordinação e
+habitualidade, sob pena de exclusão do Simples Nacional.
+
+Opção pelo MEI
+
+O § 5º, do art. 18-A, da LC 123/06 estabelece que a opção pelo MEI dar-se-á na forma a ser estabelecida em
+ato do Comitê Gestor, observando-se que:
+
+I - será irretratável para todo o ano-calendário;
+
+II - deverá ser realizada no início do ano-calendário, na forma disciplinada pelo Comitê Gestor, produzindo
+efeitos a partir do primeiro dia do ano-calendário da opção, ressalvado o disposto no inciso III;
+
+III - produzirá efeitos a partir da data do início de atividade desde que exercida nos termos, prazo e condições
+a serem estabelecidos em ato do Comitê Gestor.
+
+Complementando, o art. 102, II, da Resolução CGSN 140/18 prevê que duas situações:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            113
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Para o empresário individual já inscrito no CNPJ 🡪 deverá ser realizada no mês de janeiro, até seu último dia
+útil, e produzirá efeitos a partir do primeiro dia do ano-calendário da opção, por meio de aplicativo
+disponibilizado no Portal do Simples Nacional.
+
+Para o empresário individual em início de atividade 🡪 a realização da opção pelo Simples Nacional e
+enquadramento no Simei será simultânea à inscrição no CNPJ, quando utilizado o registro simplificado
+abordado na LC 123/06.
+
+        Observação: O processo de abertura, registro, alteração e baixa da microempresa e
+        empresa de pequeno porte, bem como qualquer exigência para o início de seu
+        funcionamento, deverão ter trâmite especial e simplificado, preferencialmente eletrônico,
+        opcional para o empreendedor
+
+O art. 102, § 2º, da Resolução CGSN 140/18, também prevê que, no momento da opção pelo Simei, o MEI
+deverá declarar:
+
+I - que não se enquadra nas vedações para ingresso no Simei;
+
+II - que se enquadra no limite de receita de R$ 81.000,00.
+
+Enquanto não vencido o prazo para solicitação da opção pelo Simei (último dia útil de janeiro) o contribuinte
+poderá:
+
+I - regularizar eventuais pendências impeditivas do ingresso no Simei, sujeitando-se à rejeição da solicitação
+de opção caso não as regularize até o término desse prazo;
+
+II - efetuar o cancelamento da solicitação de opção, salvo se já houver sido confirmada.
+
+Exclusão do MEI
+
+O desenquadramento do MEI será realizado de ofício ou mediante comunicação do MEI.
+
+Em se tratando da exclusão por comunicação, é importante se atentar que tal comunicação será feita à
+Secretaria da Receita Federal do Brasil – RFB, e ocorrerá nos seguintes casos:
+
+I - por opção, que deverá ser efetuada no início do ano-calendário, na forma disciplinada pelo Comitê Gestor,
+produzindo efeitos a partir de 1º de janeiro do ano-calendário da comunicação;
+
+II - obrigatoriamente, quando o MEI incorrer em alguma das vedações, devendo a comunicação ser efetuada
+até o último dia útil do mês subsequente àquele em que ocorrida a situação de vedação, produzindo efeitos
+a partir do mês subsequente ao da ocorrência da situação impeditiva;
+
+III - obrigatoriamente, fora do ano de início de atividades, quando o MEI exceder, no ano-calendário, o
+limite de receita bruta de R$ 81.000,00, devendo a comunicação ser efetuada até o último dia útil do mês
+subsequente àquele em que ocorrido o excesso, produzindo efeitos:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          114
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+    a) a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de
+    não ter ultrapassado o referido limite em mais de 20%;
+
+    b) retroativamente a 1º de janeiro do ano-calendário da ocorrência do excesso, na hipótese de ter
+    ultrapassado o referido limite em mais de 20%;
+
+IV - obrigatoriamente, no ano de início de atividades, quando o MEI exceder o limite de receita bruta (R$
+6.750,00 por mês), devendo a comunicação ser efetuada até o último dia útil do mês subsequente àquele
+em que ocorrido o excesso, produzindo efeitos:
+
+    a) a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de
+    não ter ultrapassado o referido limite em mais de 20%;
+
+    b) retroativamente ao início de atividade, na hipótese de ter ultrapassado o referido limite em mais de
+    20%.
+
+                                                  EXCLUSÕES DO MEI
+
+   1. Exclusão por excesso de receita bruta:
+
+Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite
+
+Regra de Exclusão: Efeitos retroativos ao início das atividades
+
+Ano de Início de Atividades: Receita Bruta superar em até 20% do limite
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário.
+
+                                             -------------------------------------
+
+Fora do Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite
+
+Regra de Exclusão: Efeitos retroativos ao dia 01/janeiro do ano-calendário
+
+Fora do Ano de Início de Atividades: Receita Bruta superar em até 20% do limite
+
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário
+
+   2. Exclusão por se enquadrar em situações vedadas ao MEI
+
+Regra de Exclusão: Produzirá efeitos a partir do mês subsequente.
+
+Para todos os casos: a data-limite para Comunicação: Até o último dia útil do mês subsequente
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        115
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Vale lembrar que, se não houver a comunicação por parte do contribuinte, o desenquadramento ocorrerá
+de ofício dar-se-á quando verificada a falta de comunicação.
+
+O Empresário Individual desenquadrado da sistemática de recolhimento do MEI passará a recolher os
+tributos devidos pela regra geral do Simples Nacional a partir da data de início dos efeitos do
+desenquadramento.
+
+Destaque-se que, nas hipóteses em que a receita bruta não supera mais de 20% do limite do MEI, o
+empresário deverá recolher a diferença, sem acréscimos, em parcela única, juntamente com a da apuração
+do mês de janeiro do ano-calendário subsequente ao do excesso.
+
+
+Tributação do MEI
+
+Os valores fixos a serem pagos pelo MEI são os seguintes:
+
+● Contribuição para seguridade social, relativa ao empresário (como contribuinte individual): 5% do
+  limite mínimo mensal do salário de contribuição;
+● ICMS: R$ 1,00, caso seja contribuinte desse imposto;
+● ISS: R$ 5,00, caso seja contribuinte desse imposto.
+
+Ressalte-se que, de acordo com a LC 188/2021, em se tratando de transportador autônomo de cargas
+(caminhoneiro), o limite do MEI sobe de R$ 81.000 anual para R$ 251.600,00. Além disso, o valor da
+Contribuição previdenciária não será de 5% sobre o limite mínimo mensal do salário de contribuição, e sim
+12%.
+
+      Destaque-se que o MEI é isento dos seguintes tributos: IR. CSLL, IPI, CPP (exceto se contratar um
+empregado), do PIS e da COFINS.
+
+Durante a vigência da opção pelo Simei, não se aplicam ao MEI:
+
+I - valores fixos estabelecidos por Estado, Município ou pelo Distrito Federal na forma prevista no art. 33
+(benefício exclusivo para ME em relação ao ICMS/ISS).
+
+II - as reduções previstas no art. 35, ou qualquer dedução na base de cálculo (isenções ou reduções de
+ICMS/ISS).
+
+III - isenções específicas para as ME e as EPP concedidas pelo Estado, Município ou pelo Distrito Federal que
+abranjam integralmente a faixa de receita bruta acumulada de até R$ 81.000,00;
+
+IV - retenções de ISS sobre os serviços prestados;
+
+V - atribuições da qualidade de substituto tributário; e
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          116
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+VI - reduções ou isenções de ICMS para produtos da cesta básica, estabelecidos por Estado ou pelo Distrito
+Federal, em lei específica destinada às ME ou EPP optantes pelo Simples Nacional, na forma prevista no art.
+36.
+
+        Observação: A opção pelo Simei importa opção simultânea pelo recolhimento da
+        contribuição para a Seguridade Social relativa à pessoa do empresário, na qualidade de
+        contribuinte individual.
+
+Vale ressaltar que a inadimplência do recolhimento da contribuição para a Seguridade Social relativa à
+pessoa do empresário, na qualidade de contribuinte individual, tem como consequência a não contagem da
+competência em atraso para fins de carência para obtenção dos benefícios previdenciários respectivos.
+
+Obrigações Acessórias e o MEI
+
+A Resolução CGSN 140/18, em seu art. 106, estabelece que o MEI:
+
+I - deverá comprovar a receita bruta mediante apresentação do Relatório Mensal de Receitas Brutas, que
+deverá ser preenchido até o dia 20 do mês subsequente àquele em que houver sido auferida a receita bruta;
+
+II - em relação ao documento fiscal:
+
+     a) ficará dispensado da emissão:
+
+     1. nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa
+     física; e
+
+     2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário emitir
+     nota fiscal de entrada; e
+
+     b) ficará obrigado à sua emissão:
+
+     1. nas prestações de serviços para tomador inscrito no CNPJ; e
+
+     2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário não emitir
+     nota fiscal de entrada.
+
+O MEI está dispensado da emissão de documento fiscal:
+
+1. nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa física;
+e
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        117
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário emitir nota
+fiscal de entrada; e
+
+O MEI está obrigado à emissão de documento fiscal:
+
+1. nas prestações de serviços para tomador inscrito no CNPJ; e
+
+2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário não emitir nota
+fiscal de entrada.
+
+Sobre tais obrigações, a Resolução CGSN 140/18 previu que:
+
+I - deverão ser anexados ao Relatório Mensal de Receitas Brutas os documentos fiscais comprobatórios das
+entradas de mercadorias e serviços tomados referentes ao período, bem como os documentos fiscais
+relativos às operações ou prestações realizadas eventualmente emitidos;
+
+II - o documento fiscal deverá atender aos requisitos:
+
+    a) do documento fiscal avulso, quando previsto na legislação do ente federado;
+
+    b) da autorização para impressão de documentos fiscais do ente federado da circunscrição do
+    contribuinte; e
+
+    c) do documento fiscal emitido diretamente por sistema nacional informatizado, com autorização
+    eletrônica, sem custos para o MEI, quando houver sua disponibilização no Portal do Simples Nacional.
+
+Em relação à dispensa de obrigações acessórias, devemos saber que o MEI fica dispensado:
+
+I – da escrituração dos livros fiscais e contábeis;
+
+II - da Declaração Eletrônica de Serviços;
+
+III - da emissão de documento fiscal eletrônico, quando se referir a operação ou prestação sujeita à incidência
+de ICMS, exceto se exigida pelo respectivo ente federado e disponibilizado sistema gratuito de emissão.
+
+         Observação: A simplificação da exigência referente ao cadastro fiscal estadual ou municipal
+         do MEI não dispensa a emissão de documentos fiscais de compra, venda ou prestação de
+         serviços, e é vedada, em qualquer hipótese, a imposição de custos pela autorização para
+         emissão, inclusive na modalidade avulsa.
+
+Sabe-se, ainda, que o MEI pode contratar 1 empregado. Se não o fizer, estará dispensado das seguintes
+obrigações acessórias:
+
+I – obrigações acessórias previdenciárias comuns as demais empresas (Lei 8212/91, art. 32);
+
+II - apresentar a Relação Anual de Informações Sociais (Rais); e
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          118
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+III - declarar ausência de fato gerador para a Caixa Econômica Federal para emissão da Certidão de
+Regularidade Fiscal perante o FGTS.
+
+Outra dispensa de obrigação acessória é que a baixa do MEI via portal eletrônico dispensa a
+comunicação aos órgãos da administração pública.
+
+A alteração de dados no CNPJ informada pelo empresário à Secretaria da Receita Federal do Brasil equivalerá
+à comunicação obrigatória de desenquadramento da sistemática do MEI, nas seguintes hipóteses:
+
+I - alteração para natureza jurídica distinta de empresário individual a que se refere o art. 966 da Lei
+no 10.406, de 10 de janeiro de 2002 (Código Civil);
+
+II - inclusão de atividade econômica não autorizada pelo CGSN;
+
+III - abertura de filial.
+
+Afinal, sabemos que o MEI tem natureza jurídica de empresário individual, só pode exercer as atividades
+autorizadas pelo CGSN, e não pode ter nenhuma filial (só pode ter 1 estabelecimento).
+
+O art. 18-A, § 19, da LC 123/06, prevê que fica vedada aos conselhos representativos de categorias
+econômicas a exigência de obrigações diversas das estipuladas nesta Lei Complementar para inscrição do
+MEI em seus quadros, sob pena de responsabilidade.
+
+Já o art. 18-A, § 19-A, da LC 123/06, o MEI inscrito no conselho profissional de sua categoria na qualidade de
+pessoa física é dispensado de realizar nova inscrição no mesmo conselho na qualidade de empresário
+individual.
+
+E, ainda, o § 19-B, dispõe que são vedadas aos conselhos profissionais, sob pena de responsabilidade, a
+exigência de inscrição e a execução de qualquer tipo de ação fiscalizadora quando a ocupação do MEI não
+exigir registro profissional da pessoa física.
+
+Por último, o § 18, do art. 18-A, estabelece que os Municípios somente poderão realizar o cancelamento da
+inscrição do MEI caso tenham regulamentação própria de classificação de risco e o respectivo processo
+simplificado de inscrição e legalização, em conformidade com esta Lei Complementar e com as resoluções
+do CGSIM.
+
+ Assim como as microempresas e empresas de pequeno porte, o MEI também deve apresentar declaração
+anual. Vamos entender melhor: na hipótese de o empresário individual ter optado pelo Simei no ano-
+calendário anterior, ele deverá apresentar, até o último dia de maio de cada ano, à RFB, a Declaração Anual
+Simplificada para o Microempreendedor Individual (DASN-Simei), que conterá apenas:
+
+I - a receita bruta total auferida relativa ao ano-calendário anterior;
+
+II - a receita bruta total auferida relativa ao ano-calendário anterior, referente às atividades sujeitas ao ICMS;
+e
+
+III - informação referente à contratação de empregado, quando houver.
+
+          Receita Federal (Analista Tributário) Direito Tributário                                            119
+          www.estrategiaconcursos.com.br                                                                      295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Veja que as informações a serem prestadas são bastante simplificadas. Não há muito o que informar na
+DASN-SIMEI.
+
+        Observação: Na hipótese de a inscrição do MEI ter sido baixada, a DASN-Simei relativa à
+        situação especial deverá ser entregue:
+
+        I - até o último dia do mês de junho, quando o evento ocorrer no primeiro quadrimestre
+        do ano-calendário; e
+
+        II - até o último dia do mês subsequente ao do evento, nos demais casos.
+
+Essa declaração poderá ser retificada independentemente de prévia autorização da administração tributária,
+e a retificadora terá a mesma natureza da declaração originariamente apresentada, observado o fato que
+não se considera espontânea a denúncia apresentada após o início de qualquer procedimento fiscal (CTN,
+art. 138, par. único).
+
+E temos que saber também que, por envolver tributos estaduais, distritais e municipais, as informações
+prestadas pelo contribuinte na DASN-Simei serão compartilhadas entre a RFB e os órgãos de fiscalização
+tributária dos Estados, Distrito Federal e Municípios.
+
+Agora, vamos para três informações que consideramos super importantes para a sua prova:
+
+   ● A apresentação da DASN-Simei não exonera o contribuinte de prestar informações relativas a
+     terceiros.
+   ● A DASN-Simei constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos
+     tributos que não tenham sido recolhidos, apurados com base nas informações nela prestadas.
+   ● O direito de o MEI retificar as informações prestadas na DASN-Simei extingue-se no prazo de 5 anos,
+     contado a partir do 1º dia do exercício seguinte àquele ao qual se refere a declaração.
+
+Para fecharmos este tópico, dois pontos importantes precisam ser destacados:
+
+Certificado Digital 🡪 O MEI fica dispensado de utilizar certificação digital para cumprimento de obrigações
+principais ou acessórias ou para recolhimento do FGTS.
+
+Programa Gerador do DAS para o MEI (PGMEI) 🡪 possibilitará a emissão simultânea dos DAS, para todos os
+meses do ano-calendário.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        120
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Obrigações de Notas Fiscais:
+
+      a) ficará dispensado da emissão:
+
+      1. nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa
+      física; e
+
+      2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário emitir
+      nota fiscal de entrada; e
+
+      b) ficará obrigado à sua emissão:
+
+      1. nas prestações de serviços para tomador inscrito no CNPJ; e
+
+      2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário não emitir
+      nota fiscal de entrada.
+
+O MEI fica dispensado:
+
+I – da escrituração dos livros fiscais e contábeis;
+
+II - da Declaração Eletrônica de Serviços;
+
+III - de utilizar certificação digital para cumprimento de obrigações principais ou acessórias ou para
+recolhimento do FGTS.
+
+DASN-Simei (Declaração Anual Simplificada para o Microempreendedor Individual): deverá apresentar, até
+o último dia de maio de cada ano.
+
+Contratação de Empregado pelo MEI
+
+        A LC 123/2006, com as alterações promovidas pela LC 155/2016, estabelece ainda que poderá
+enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado
+que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. Neste caso, deve
+obedecer ao seguinte:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       121
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+I - deverá reter e recolher a contribuição previdenciária relativa ao segurado a seu serviço na forma da lei,
+observados prazo e condições estabelecidos pelo CGSN;
+
+II - é obrigado a prestar informações relativas ao segurado a seu serviço, na forma estabelecida pelo CGSN;
+e
+
+III - está sujeito ao recolhimento da Contribuição Previdenciária Patronal (CPP), calculada à alíquota de 3%
+sobre o salário de contribuição, na forma e prazos estabelecidos pelo CGSN.
+
+        Observação: A respeito do salário mínimo ou piso salário da categoria do empregado, é
+        importante destacar que o art. 105, § 3º, da Resolução CGSN 140/18 prevê que não se
+        incluem no limite valores recebidos a título de horas extras e adicionais de insalubridade,
+        periculosidade e por trabalho noturno, bem como os relacionados aos demais direitos
+        constitucionais do trabalhador decorrentes da atividade laboral, inerentes à jornada ou
+        condições do trabalho, e que incidem sobre o salário.
+
+        Por outro lado, a percepção, pelo empregado, de valores a título de gratificações, gorjetas,
+        percentagens, abonos e demais remunerações de caráter variável é considerada hipótese
+        de descumprimento do limite.
+
+      Veja, portanto, que, se houver a contratação de um empregado, o MEI deixa de estar isento da CPP,
+devendo recolhê-la, após o cálculo da alíquota de 3% sobre o valor do salário de contribuição.
+
+Professor, só pode contratar um único empregado? E se o empregado for afastado, por exemplo, para licença-
+materninade?
+
+Para os casos de afastamento legal do único empregado do MEI, será permitida a contratação de outro
+empregado, inclusive por prazo determinado, até que cessem as condições do afastamento, na forma
+estabelecida pelo Ministério do Trabalho e Emprego.
+
+O MEI deverá cumprir as obrigações relativas ao FGTS, por meio do eSocial, o qual deverá gerar um
+Documento de Arrecadação do eSocial (DAE). Como regra, o pagamento do DAE deverá ocorrer até o dia 7
+do mês subsequente àquele em que os valores são devidos.
+
+        Observação: Nos casos de rescisões de contrato, o cumprimento das obrigações
+        relacionadas com o FGTS deverá ocorrer até o 10º dia subsequente à data da rescisão de
+        contrato.
+
+Demais Regras sobre o MEI
+
+Classificamos neste tópicos regras diversas previstas na LC 123/2006 acerca do MEI. Primeiramente, três
+informações importantes constantes do art. 18-A:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          122
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+            ● Assegurar-se-á o registro nos cadastros oficiais ao guia de turismo inscrito como
+              MEI.
+            ● Fica vedado às concessionárias de serviço público o aumento das tarifas pagas pelo
+              MEI por conta da modificação da sua condição de pessoa física para pessoa jurídica.
+            ● O MEI poderá utilizar sua residência como sede do estabelecimento, quando não
+              for indispensável a existência de local próprio para o exercício da atividade.
+
+O art. 18-E, da LC 123/06, estabelece que o instituto do MEI é uma política pública que tem por objetivo a
+formalização de pequenos empreendimentos e a inclusão social e previdenciária. Ademais, a formalização
+de MEI não tem caráter eminentemente econômico ou fiscal.
+
+É importante saber também que todo benefício previsto na LC 123/06 aplicável à microempresa estende-se
+ao MEI sempre que lhe for mais favorável.
+
+Caso uma empresa venha contratar serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de
+manutenção ou reparo de veículos, executados por intermédio do MEI, tal empresa mantém, em relação a
+esta contratação, a obrigatoriedade de recolhimento da contribuição previdenciária do contribuinte
+individual, bem como do cumprimento das obrigações acessórias relativas à contratação de contribuinte
+individual.
+
+Só não será aplicada tal regra quando presentes os elementos da relação de emprego, ficando a contratante
+sujeita a todas as obrigações dela decorrentes, inclusive trabalhistas, tributárias e previdenciárias.
+
+É vedado impor restrições ao MEI relativamente ao exercício de profissão ou participação em licitações, em
+função da sua natureza jurídica.
+
+O empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no
+âmbito rural que efetuar seu registro como MEI não perderá a condição de segurado especial da Previdência
+Social.
+
+        Observação: O empreendedor que exerça as atividades de industrialização,
+        comercialização e prestação de serviços no âmbito rural manterá todas as suas obrigações
+        relativas à condição de produtor rural ou de agricultor familiar.
+
+Por fim, destacamos a redação do art. 18-D, da LC 123/06:
+
+     Art. 18-D. A tributação municipal do imposto sobre imóveis prediais urbanos deverá assegurar tratamento mais
+     favorecido ao MEI para realização de sua atividade no mesmo local em que residir, mediante aplicação da menor
+     alíquota vigente para aquela localidade, seja residencial ou comercial, nos termos da lei, sem prejuízo de
+     eventual isenção ou imunidade existente.
+
+Se o MEI exercer sua atividade em sua própria residência, terá direito à menor alíquota vigente de IPTU.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                              123
+        www.estrategiaconcursos.com.br                                                                        295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+  TRATAMENTO DIFERENCIADO EM AQUISIÇÕES PÚBLICAS
+De acordo com o art. 47, caput, da LC 123/06, com redação dada pela LC 147/2014, nas contratações
+públicas da administração direta e indireta, autárquica e fundacional, federal, estadual e municipal, deverá
+ser concedido tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte
+objetivando a promoção do desenvolvimento econômico e social no âmbito municipal e regional, a
+ampliação da eficiência das políticas públicas e o incentivo à inovação tecnológica.
+
+      Dessa forma, previu-se no art. 47, par. único, que, enquanto não sobrevier legislação estadual ou
+municipal ou regulamento específico de cada órgão (conforme o caso) mais favorável à microempresa e
+empresa de pequeno porte, aplica-se a legislação federal.
+
+       Neste caso, a administração pública (LC 123/06, art. 48, caput):
+
+        I - deverá realizar processo licitatório destinado exclusivamente à participação de
+        microempresas e empresas de pequeno porte nos itens de contratação cujo valor seja de
+        até R$ 80.000,00 (oitenta mil reais); (Redação dada pela Lei Complementar nº 147, de
+        2014)
+
+        II - poderá, em relação aos processos licitatórios destinados à aquisição de obras e
+        serviços, exigir dos licitantes a subcontratação de microempresa ou empresa de pequeno
+        porte; (Redação dada pela Lei Complementar nº 147, de 2014)
+
+        III - deverá estabelecer, em certames para aquisição de bens de natureza divisível, cota
+        de até 25% (vinte e cinco por cento) do objeto para a contratação de microempresas e
+        empresas de pequeno porte. (Redação dada pela Lei Complementar nº 147, de 2014)
+
+         Talvez você seja questionado(a) em uma possível prova se existe alguma situação em que o processo
+licitatório seja destinado exclusivamente à participação de microempresas e empresas de pequeno porte. A
+resposta é sim, nos itens de contratação cujo valor seja de até R$ 80.000,00.
+
+      Há que se observar, entretanto, que estas condições diferenciadas concedidas às MEs e EPPs nem
+sempre se aplicam, já que o art. 49, da LC 123/06, dispensou tais regras quando:
+
+● Não houver um mínimo de 3 (três) fornecedores competitivos enquadrados como microempresas, ou
+  empresas de pequeno porte sediados local, ou regionalmente e capazes de cumprir as exigências
+  estabelecidas no instrumento convocatório;
+
+● O tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte não for
+  vantajoso para a administração pública, ou representar prejuízo ao conjunto, ou complexo do objeto a
+  ser contratado;
+
+● A licitação for dispensável ou inexigível, nos termos da Lei 8.666/93.
+
+      Vale lembrar que o tratamento diferenciado conferido às MEs e EPPs não para por aí! A comprovação
+de regularidade fiscal e trabalhista das microempresas e empresas de pequeno porte, nas licitações
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        124
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+públicas, somente será exigida para efeito de assinatura do contrato. Ou seja, apenas na efetiva contratação
+da empresa pelo ente público. As demais empresas devem comprovar a regularidade fiscal na fase de
+habilitação dos licitantes, isto é, antes da definição do vencedor do processo licitatório.
+
+                               Comprovação de Regularidade Fiscal e Trabalhista
+
+        -Optantes p/ Simples Nacional 🡪 Assinatura do Contrato
+
+        -Demais empresas 🡪 Habilitação
+
+        Vale ressaltar que o art. 43, da LC 123/06, define que as microempresas e empresas de pequeno
+porte, por ocasião da participação em certames licitatórios, deverão apresentar toda a documentação
+exigida para efeito de comprovação de regularidade fiscal e trabalhista, mesmo que esta apresente alguma
+restrição.
+
+        Observação:
+
+        🡪 Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será
+        assegurado o prazo de 5 (cinco) dias úteis, cujo termo inicial corresponderá ao momento
+        em que o proponente for declarado o vencedor do certame.
+
+        🡪 A não-regularização da documentação, no prazo acima, implicará decadência do direito
+        à contratação, sem prejuízo das sanções previstas na legislação específica.
+
+       Outro ponto digno de nota é que o art. 44, caput, assegura, como critério de desempate, preferência
+de contratação para as microempresas e empresas de pequeno porte:
+
+        Art. 44. Nas licitações será assegurada, como critério de desempate, preferência de
+        contratação para as microempresas e empresas de pequeno porte.
+
+        § 1º Entende-se por empate aquelas situações em que as propostas apresentadas pelas
+        microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento)
+        superiores à proposta mais bem classificada.
+
+        § 2º Na modalidade de pregão, o intervalo percentual estabelecido no § 1o deste artigo
+        será de até 5% (cinco por cento) superior ao melhor preço.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        125
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+       Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e
+empresas de pequeno porte sejam iguais ou até 10% superiores à proposta mais bem classificada. Em se
+tratando de pregão, o intervalo será de até 5% superior ao melhor preço. Em suma, ainda que a ME e EPP
+não tenha oferecido a melhor proposta, é possível que logrem êxito no certame, pois será considerado
+empate, e, neste caso, elas possuem preferência de contratação.
+
+        Em caso de empate, preferência para contratação de ME e EPP.
+
+        Mas o que seria empate?
+
+        Regra → propostas das ME e EPP iguais ou até 10% superiores à proposta melhor
+        classificada.
+
+        Pregão → propostas das ME e EPP iguais ou até 5% superiores à proposta melhor
+        classificada.
+
+                           GESTÃO DO SIMPLES NACIONAL
+A LC 123/2006 estabeleceu a criação de três instâncias que têm como competência gerir o Simples Nacional.
+São elas:
+
+● Comitê Gestor do Simples Nacional – CGSN;
+● Fórum Permanente das Microempresas e Empresas de Pequeno Porte;
+● Comitê para Integração das Administrações Tributárias e Gestão da Rede Nacional para Simplificação do
+  Registro e da Legalização de Empresas e Negócios - CGSIM.
+
+        O CGSN fica vinculado ao Ministério da Fazenda (LC 214/2025), tendo por competência
+regulamentar a opção, exclusão, tributação, fiscalização, arrecadação, cobrança, dívida ativa e outros itens
+relativos ao regime de tributação do Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         126
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Observação: Cabem ainda, ao Comitê Gestor do Simples Nacional (CGSN) apreciar a
+        necessidade de revisão, a partir de 1º de janeiro de 2015, dos valores expressos em moeda
+        nesta Lei Complementar.
+
+Como é o órgão mais significativo na Gestão do Simples Nacional, recomendo que memorize a sua
+composição (que foi, inclusive, alterada pela LC 188/2021):
+
+        4 representantes da União;
+
+        2 dos Estados e do Distrito Federal;
+
+        2 dos Municípios;
+
+        1 do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae);
+
+        1 das confederações nacionais de representação do segmento de microempresas e
+        empresas de pequeno porte.
+
+        Total: 10 representantes
+
+        Quórum para Reuniões do CGSN: no mínimo ¾ dos membros, dos quais um deles será
+        necessariamente o Presidente ou seu substituto.
+
+       O Fórum Permanente das Microempresas e Empresas de Pequeno Porte tem por finalidade orientar
+e assessorar a formulação e coordenação da política nacional de desenvolvimento das microempresas e
+empresas de pequeno porte, bem como acompanhar e avaliar a sua implantação.
+
+       No que se refere ao CGSIM, compete a este, na forma da lei, regulamentar a inscrição, cadastro,
+abertura, alvará, arquivamento, licenças, permissão, autorização, registros e demais itens relativos à
+abertura, legalização e funcionamento de empresários e de pessoas jurídicas de qualquer porte, atividade
+econômica ou composição societária.
+
+       Os membros do CGSN e do CGSIM serão designados pelo Ministro de Estado da Fazenda, mediante
+indicação dos órgãos e entidades vinculados. Ademais, dos membros da União que compõem o CGSN, 3
+serão representantes da Secretaria Especial da Receita Federal do Brasil e 1 do Ministério do
+Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte ou do órgão que vier a substituí-lo.
+
+       É importante memorizar o seguinte acerca do CGSIM: tratar dos atos cadastrais tributários e do
+processo de registro e de legalização de empresários e de pessoas jurídicas.
+
+A LC 214/25 alterou o CGSIM:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                     127
+        www.estrategiaconcursos.com.br                                                               295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Antes: Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e
+Negócios – CGSIM.
+
+Agora: Comitê para Integração das Administrações Tributárias e Gestão da Rede Nacional para Simplificação
+do Registro e da Legalização de Empresas e Negócios – CGSIM
+
+Antes: Vinculado à Secretaria da Micro e Pequena Empresa da Presidência da República.
+
+Agora: Vinculado ao Ministério da Fazenda.
+
+Antes: tratar do processo de registro e de legalização de empresários e de pessoas jurídicas
+
+Agora: tratar dos atos cadastrais tributários e do processo de registro e de legalização de empresários e de
+pessoas jurídicas"
+
+
+                                     O “INVESTIDOR-ANJO”
+       Com a publicação da Lei Complementar 155/2016, foi prevista a figura do “investidor-anjo”, que
+nada mais é do que uma pessoa física ou jurídica que investe em pequenas empresas com alto potencial de
+crescimento, fornecendo recursos para viabilizar o negócio e, consequentemente, obter retorno do seu
+investimento.
+
+       Vejamos como o assunto foi tratado pelo art. 61-A, da LC 123/06, incluído pela LC 155/2016:
+
+     Art. 61-A. Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada
+     como microempresa ou empresa de pequeno porte, nos termos desta Lei Complementar, poderá admitir o
+     aporte de capital, que não integrará o capital social da empresa. (Incluído pela Lei Complementar nº 155, de
+     2016)
+
+        A grande vantagem é que o investidor (pessoa física, jurídica ou até mesmo fundos de
+investimentos) não precisa integrar o capital social da empresa para aportar o capital. O objetivo fica claro
+pela própria redação do dispositivo: incentivar as atividades de inovação e os investimentos produtivos. É
+por isso que o legislador acrescentou o § 1º ao art. 61-A, estabelecendo a necessidade de as finalidades de
+fomento à inovação e investimentos produtivos constarem no contrato de participação, com vigência não
+superior a sete anos.
+
+     Art. 61-A:
+
+     (...)
+
+     § 1º As finalidades de fomento a inovação e investimentos produtivos deverão constar do contrato de
+     participação, com vigência não superior a sete anos.
+
+     § 2º O aporte de capital poderá ser realizado por pessoa física, por pessoa jurídica ou por fundos de investimento,
+     conforme regulamento da Comissão de Valores Mobiliários, que serão denominados investidores-anjos.
+     (Redação dada pela Lei Complementar nº 182, de 2021)
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                   128
+         www.estrategiaconcursos.com.br                                                                             295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Cabe destacar que o investidor-anjo tem por objetivo aportar o capital na sociedade, por isso, a atividade
+constitutiva do objeto social é exercida unicamente por sócios regulares, em seu nome individual e sob
+sua exclusiva responsabilidade.
+
+       A respeito do investidor-anjo, é muito importante guardarmos o seguinte:
+
+I - não será considerado sócio nem terá qualquer direito a gerência ou a voto na administração da empresa,
+resguardada a possibilidade de participação nas deliberações em caráter estritamente consultivo, conforme
+pactuação contratual;
+
+II - não responderá por qualquer dívida da empresa, inclusive em recuperação judicial, não se aplicando a
+ele o art. 50 da Lei no 10.406, de 10 de janeiro de 2002 - Código Civil;
+
+III - será remunerado por seus aportes, nos termos do contrato de participação, pelo prazo máximo de sete
+anos (foi inicialmente previsto 5 anos, mas a LC 182/2021 alterou para 7 anos, portanto, atenção!);
+
+IV - poderá exigir dos administradores as contas justificadas de sua administração e, anualmente, o
+inventário, o balanço patrimonial e o balanço de resultado econômico; e
+
+V - poderá examinar, a qualquer momento, os livros, os documentos e o estado do caixa e da carteira da
+sociedade, exceto se houver pactuação contratual que determine época própria para isso.
+
+        Observação: O art. 50, do Código Civil, trata da desconsideração da personalidade jurídica,
+        em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou
+        pela confusão patrimonial, situação em que o juiz pode decidir que os efeitos de certas e
+        determinadas relações de obrigações sejam estendidos aos bens particulares dos
+        administradores ou sócios da pessoa jurídica.
+
+        Para fins de enquadramento da sociedade como microempresa ou empresa de pequeno
+        porte, os valores de capital aportado não são considerados receitas da sociedade. (LC
+        123/06, art. 61-A, § 5º)
+
+A LC 182/2021 também previu que as partes contratantes poderão:
+
+I - estipular remuneração periódica, ao final de cada período, ao investidor-anjo, conforme contrato de
+participação; ou
+
+II - prever a possibilidade de conversão do aporte de capital em participação societária.
+
+Algumas regras adicionais sobre o investidor-anjo que precisamos conhecer:
+
+     Art. 61-A:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       129
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     (...)
+
+     § 7º O investidor-anjo somente poderá exercer o direito de resgate depois de decorridos, no mínimo, 2 (dois)
+     anos do aporte de capital, ou prazo superior estabelecido no contrato de participação, e seus haveres serão
+     pagos na forma prevista no art. 1.031 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), não permitido
+     ultrapassar o valor investido devidamente corrigido por índice previsto em contrato. (Redação dada pela Lei
+     Complementar nº 182, de 2021)
+
+     § 8º O disposto no § 7o deste artigo não impede a transferência da titularidade do aporte para terceiros.
+     (Incluído pela Lei Complementar nº 155, de 2016)
+
+     § 9º A transferência da titularidade do aporte para terceiro alheio à sociedade dependerá do consentimento dos
+     sócios, salvo estipulação contratual expressa em contrário. (Incluído pela Lei Complementar nº 155, de 2016)
+
+     § 10. O Ministério da Fazenda poderá regulamentar a tributação sobre retirada do capital investido.
+     (Incluído pela Lei Complementar nº 155, de 2016)
+
+A duração mínima para o resgate do aporte de capital é de 2 anos, não permitido ultrapassar o valor
+investido devidamente corrigido por índice previsto em contrato. Mas é possível transferir a terceiros, ou
+seja, repassar o investimento a outros investidores, desde que com o consentimento dos sócios, salvo
+estipulação contratual expressa em contrário.
+
+         Observação: A emissão e a titularidade de aportes especiais não impedem a fruição do
+         Simples Nacional.
+
+       Vale ressaltar que, caso os sócios decidam pela venda da empresa, o investidor-anjo terá direito de
+preferência na aquisição, bem como direito de venda conjunta da titularidade do aporte de capital, nos
+mesmos termos e condições que forem ofertados aos sócios regulares. É o que prevê o art. 61-C, da LC
+123/06, incluído pela LC 155/2016.
+
+        Em tempo, também devemos saber que os fundos de investimento poderão aportar capitais como
+investidores-anjos em microempresas e empresas de pequeno porte:
+
+     Art. 61-D. Os fundos de investimento poderão aportar capital como investidores-anjos em microempresas e em
+     empresas de pequeno porte, conforme regulamentação da Comissão de Valores Mobiliários
+
+Vamos resumir o tema!
+
+Quem pode ser investidor-anjo: pessoa física, pessoa jurídica ou fundos de investimento.
+
+O aporte de capital não integrará o capital social da empresa.
+
+Os valores de capital aportado não são considerados receitas da sociedade.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                              130
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+É possível estipular remuneração periódica, ao final de cada período, ao investidor-anjo, conforme contrato
+de participação; ou a possibilidade de conversão do aporte de capital em participação societária.
+
+O contrato de participação terá vigência não superior a 7 anos.
+
+A remuneração do investidor-anjo terá duração máxima de 7 anos.
+
+A duração mínima para o resgate do aporte de capital é de 2 anos (sem possível transferir a terceiros)
+
+    ESTÍMULO À INOVAÇÃO E INOVA SIMPLES DA EMPRESA
+                  SIMPLES DE INOVAÇÃO
+       O Capítulo X da LC 123/2006 dispõe, a partir do art. 64, sobre o estímulo à inovação. Seu estudo
+tornou-se ainda mais relevante a partir da alteração da LC 123/2006 pela LC 167/2019, gerando uma
+alteração legislativa com o objetivo de fomentar as pequenas empresas inovadoras, comumente
+denominadas “startups”.
+
+       De início, precisamos nos ater aos conceitos trazidos pelo art. 64, da LC 123/06:
+
+        Inovação 🡪 a concepção de um novo produto ou processo de fabricação, bem como a
+        agregação de novas funcionalidades ou características ao produto ou processo que
+        implique melhorias incrementais e efetivo ganho de qualidade ou produtividade,
+        resultando em maior competitividade no mercado;
+
+        Agência de fomento 🡪 órgão ou instituição de natureza pública ou privada que tenha entre
+        os seus objetivos o financiamento de ações que visem a estimular e promover o
+        desenvolvimento da ciência, da tecnologia e da inovação;
+
+        Instituição Científica e Tecnológica – ICT 🡪 órgão ou entidade da administração pública que
+        tenha por missão institucional, dentre outras, executar atividades de pesquisa básica ou
+        aplicada de caráter científico ou tecnológico;
+
+        Núcleo de inovação tecnológica 🡪 núcleo ou órgão constituído por uma ou mais ICT com a
+        finalidade de gerir sua política de inovação;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         131
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        Instituição de apoio 🡪 instituições criadas sob o amparo da Lei 8.958/94, com a finalidade
+        de dar apoio a projetos de pesquisa, ensino e extensão e de desenvolvimento institucional,
+        científico e tecnológico.
+
+        Instrumentos de apoio tecnológico para a inovação 🡪 qualquer serviço disponibilizado
+        presencialmente ou na internet que possibilite acesso a informações, orientações, bancos
+        de dados de soluções de informações, respostas técnicas, pesquisas e atividades de apoio
+        complementa.
+
+        Prosseguindo nossa análise sobre o estímulo à inovação trazido na LC 123/06, o seu art. 65,
+estabeleceu que todos os entes federativos (União, Estados, Distrito Federal e Municípios), bem como as
+respectivas agências de fomento, as ICT, os núcleos de inovação tecnológica e as instituições de apoio
+deverão manter programas específicos para as microempresas e para as empresas de pequeno porte,
+inclusive quando estas revestirem a forma de incubadoras, observando-se o seguinte:
+
+I - as condições de acesso serão diferenciadas, favorecidas e simplificadas;
+
+II - o montante disponível e suas condições de acesso deverão ser expressos nos respectivos orçamentos e
+amplamente divulgados.
+
+        O § 1º, do art. 65, ainda impôs a necessidade de as referidas entidades publicarem, juntamente com
+as respectivas prestações de contas, relatório circunstanciado das estratégias para maximização da
+participação do segmento, assim como dos recursos alocados a tais ações e aqueles efetivamente utilizados,
+consignando, obrigatoriamente, as justificativas do desempenho alcançado no período.
+
+        META! As pessoas jurídicas mencionadas acima terão por meta a aplicação de, no
+        mínimo, 20% dos recursos destinados à inovação para o desenvolvimento de tal atividade
+        nas microempresas ou nas empresas de pequeno porte.
+
+Quanto aos órgãos e entidades integrantes da administração pública federal, estadual e municipal
+
+atuantes em pesquisa, desenvolvimento ou capacitação tecnológica, terão por meta efetivar suas aplicações,
+no percentual mínimo (20%, como você já sabe!), em programas e projetos de apoio às microempresas ou
+às empresas de pequeno porte, transmitindo ao Ministério da Ciência, Tecnologia e Inovação, no primeiro
+trimestre de cada ano, informação relativa aos valores alocados e a respectiva relação percentual em relação
+ao total dos recursos destinados para esse fim.
+
+       Outra medida prevista na LC 123/06 para estimular o desenvolvimento das micro e pequenas
+empresas é a autorização para reduzir a zero a alíquota de impostos e contribuições incidentes na
+aquisição, ou importação, de equipamentos, máquinas, aparelhos, instrumentos, acessórios, sobressalentes
+e ferramentas que os acompanhem, na forma definida em regulamento, quando adquiridos, ou importados,
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        132
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+diretamente por microempresas ou empresas de pequeno porte para incorporação ao seu ativo
+imobilizado:
+
+       I - a União, em relação ao IPI, à Cofins, à Contribuição para o PIS/Pasep, à Cofins-Importação e à
+       Contribuição para o PIS/Pasep-Importação; e
+
+       II - os Estados e o Distrito Federal, em relação ao ICMS.
+
+        Observação: O regulamento pode estabelecer hipóteses em que as MEs e EPPs ficam
+        obrigadas a recolher os impostos e contribuições que deixaram de ser pagos, acrescidos de
+        juros e multa, de mora ou de ofício, contados a partir da data da aquisição, no mercado
+        interno, ou do registro da declaração de importação - DI, calculados na forma da legislação
+        que rege a cobrança do tributo não pago.
+
+      Para efeito da execução do orçamento (a meta de aplicação de recursos, conforme comentamos), os
+órgãos e instituições poderão alocar os recursos destinados à criação e ao custeio de ambientes de inovação,
+incluindo incubadoras, parques e centros vocacionais tecnológicos, laboratórios metrológicos, de ensaio,
+de pesquisa ou apoio ao treinamento, bem como custeio de bolsas de extensão e remuneração de
+professores, pesquisadores e agentes envolvidos nas atividades de apoio tecnológico complementar.
+
+        Falaremos, a partir de agora, do Inova Simples, regime especial simplificado, criado pela LC 167/2019,
+incluindo o art. 65-A na LC 123/06, cuja redação é a seguinte:
+
+        Art. 65-A. Fica criado o Inova Simples, regime especial simplificado que concede às
+        iniciativas empresariais de caráter incremental ou disruptivo que se autodeclarem como
+        empresas de inovação tratamento diferenciado com vistas a estimular sua criação,
+        formalização, desenvolvimento e consolidação como agentes indutores de avanços
+        tecnológicos e da geração de emprego e renda. Percebe-se que o objetivo é conferir
+        tratamento diferenciado para as startups, que são conhecidas como empresas de inovação.
+        Vejamos a definição de startup contida na própria LC 123/06:
+
+O tratamento diferenciado a que nos referimos acima consiste na fixação de rito sumário para abertura e
+fechamento de empresas sob o regime do Inova Simples, que se dará de forma simplificada e automática,
+no mesmo ambiente digital do portal da Rede Nacional para a Simplificação do Registro e da Legalização de
+Empresas e Negócios (Redesim).
+
+        Observação: A abertura e fechamento de forma automática dessas startups ocorre em
+        sítio eletrônico oficial do governo federal, por meio da utilização de formulário digital
+        próprio, disponível em janela ou ícone intitulado Inova Simples.
+
+       Mas como seria essa abertura e fechamento de forma simplificada e automática?
+
+       Os titulares de empresa submetida ao regime do Inova Simples preencherão cadastro básico no site,
+com as seguintes informações (sim, é importante memorizar!):
+
+       I - qualificação civil, domicílio e CPF;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          133
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+       II - descrição do escopo da intenção empresarial inovadora, que utilize modelos de negócios
+       inovadores para a geração de produtos ou serviços, e definição do nome empresarial, que conterá a
+       expressão ‘Inova Simples (I.S.); (alterado pela LC 182/2021)
+
+       III - autodeclaração, sob as penas da lei, de que o funcionamento da empresa submetida ao regime
+       do Inova Simples não produzirá poluição, barulho e aglomeração de tráfego de veículos, para fins de
+       caracterizar baixo grau de risco;
+
+       IV - definição do local da sede, que poderá ser comercial, residencial ou de uso misto, sempre que
+       não proibido pela legislação municipal ou distrital, admitindo-se a possibilidade de sua instalação em
+       locais onde funcionam parques tecnológicos, instituições de ensino, empresas juniores, incubadoras,
+       aceleradoras e espaços compartilhados de trabalho na forma de coworking; e
+
+       V - em caráter facultativo, a existência de apoio ou validação de instituto técnico, científico ou
+       acadêmico, público ou privado, bem como de incubadoras, aceleradoras e instituições de ensino, nos
+       parques tecnológicos e afins.
+
+       E agora entra uma informação muito importante: se o preenchimento das informações acima estiver
+correto, será gerado automaticamente número de CNPJ específico, em nome da denominação da empresa
+Inova Simples, em código próprio Inova Simples.
+
+        Observação: A empresa submetida ao regime do Inova Simples constituída na forma deste
+        artigo deverá abrir, imediatamente, conta bancária de pessoa jurídica, para fins de
+        captação e integralização de capital, proveniente de aporte próprio de seus titulares ou de
+        investidor domiciliado no exterior, de linha de crédito público ou privado e de outras fontes
+        previstas em lei.
+
+        Vale ressaltar que os recursos capitalizados não constituirão renda e destinar-se-ão
+        exclusivamente ao custeio do desenvolvimento de projetos de startup.
+
+      E se o projeto fracassar? Como se dará o fechamento? Na eventualidade de não lograr êxito no
+desenvolvimento do escopo pretendido, a baixa do CNPJ será automática, mediante procedimento de
+autodeclaração no portal da Redesim.
+
+    Quando se fala em inovação, algo que se destaca é a necessidade do registro de marcas e patentes,
+correto? Por esse motivo, a LC 167/2019 determinou o seguinte:
+
+   1. No portal da Redesim, no espaço destinado ao preenchimento de dados do Inova Simples, será
+      disponibilizado ícone que direcionará a ambiente virtual do Instituto Nacional da Propriedade
+      Industrial (INPI), do qual constarão orientações para o depósito de pedido de patente ou de registro
+      de marca.
+   2. O exame dos pedidos de patente ou de registro de marca, que tenham sido depositados por empresas
+      participantes do Inova Simples será realizado em caráter prioritário.
+
+   Destacamos, por fim, que foi permitida a comercialização experimental do serviço ou produto, desde
+que até o limite fixado para o MEI (R$ 81.000,0 por ano).
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         134
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Por último, o art. 67-A       da LC 123/06, estabelece que órgão competente do Poder Executivo
+disponibilizará na internet informações sobre certificação de qualidade de produtos e processos para
+microempresas e empresas de pequeno porte:
+
+     Art. 67-A. O órgão competente do Poder Executivo disponibilizará na internet informações sobre certificação de
+     qualidade de produtos e processos para microempresas e empresas de pequeno porte. (Incluído pela Lei
+     Complementar nº 155, de 2016)
+
+     Parágrafo único. Os órgãos da administração direta e indireta e as entidades certificadoras privadas,
+     responsáveis pela criação, regulação e gestão de processos de certificação de qualidade de produtos e processos,
+     deverão, sempre que solicitados, disponibilizar ao órgão competente do Poder Executivo informações referentes
+     a procedimentos e normas aplicáveis aos processos de certificação em seu escopo de atuação. (Incluído pela Lei
+     Complementar nº 155, de 2016)
+
+                  DO PROCESSO ADMINISTRATIVO FISCAL
+
+Contencioso Administrativo
+
+No tocante ao processo administrativo fiscal, o art. 39, da LC 123/06, prevê:
+
+     Art. 39. O contencioso administrativo relativo ao Simples Nacional será de competência do órgão julgador
+     integrante da estrutura administrativa do ente federativo que efetuar o lançamento, o indeferimento da opção
+     ou a exclusão de ofício, observados os dispositivos legais atinentes aos processos administrativos fiscais desse
+     ente.
+
+     § 1º O Município poderá, mediante convênio, transferir a atribuição de julgamento exclusivamente ao respectivo
+     Estado em que se localiza.
+
+     § 2º No caso em que o contribuinte do Simples Nacional exerça atividades incluídas no campo de incidência do
+     ICMS e do ISS e seja apurada omissão de receita de que não se consiga identificar a origem, a autuação será feita
+     utilizando a maior alíquota prevista nesta Lei Complementar, e a parcela autuada que não seja correspondente
+     aos tributos e contribuições federais será rateada entre Estados e Municípios ou Distrito Federal.
+
+O contencioso é de competência do ente que efetuar o lançamento, ou que indeferir a opção ao Simples
+Nacional, ou, ainda, que decidir pela exclusão de ofício do contribuinte do Simples nacional. Então, pode
+ocorrer de o Município ter que julgar o contencioso. Por isso, por questão de ausência de estrutura para
+isso, o § 1º permitiu a realização de convênio para transferir a atribuição de julgamento exclusivamente
+ao respectivo Estado em que se localiza.
+
+A impugnação relativa ao indeferimento da opção ou à exclusão poderá ser decidida em órgão diverso, na
+forma estabelecida pela respectiva administração tributária. Neste caso, o CGSN poderá disciplinar
+procedimentos e prazos, bem como, no processo de exclusão, prever efeito suspensivo na hipótese de
+apresentação de impugnação, defesa ou recurso.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  135
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+         Observação: O art. 121, § 1º, da Resolução CGSN 140/18 estabeleceu que a impugnação
+         relativa ao indeferimento da opção ou à exclusão poderá ser decidida em órgão diverso, na
+         forma estabelecida pela respectiva administração tributária.
+
+O art. 121, § 3º, da Resolução CGSN 140/18, prevê que, no caso de o contribuinte do Simples Nacional exercer
+atividades sujeitas à incidência do ICMS e do ISS e ser apurada omissão de receita cuja origem não se consiga
+identificar, o julgamento caberá ao Estado do Município autuante, salvo na hipótese de o lançamento ter
+sido efetuado pela RFB, caso em que o julgamento caberá à União.
+
+Já o §4º dispõe que o ente federado que considerar procedente recurso administrativo do contribuinte
+contra o indeferimento de sua opção deverá registrar a liberação da respectiva pendência em aplicativo
+próprio, disponível no Portal do Simples Nacional.
+
+         Observação: Neste caso, o deferimento da opção será efetuado automaticamente pelo
+         sistema do Simples Nacional caso não haja pendências perante outros entes federados, ou,
+         se houver, após a liberação da última pendência que tenha motivado o indeferimento.
+
+Além disso, o ente federado, independentemente de registro em seus sistemas próprios, deverá registrar,
+no sistema de controle do contencioso em nível nacional, as fases e os resultados do processo administrativo
+fiscal relativo ao lançamento por meio do AINF, bem como qualquer outra situação que altere a exigibilidade
+do crédito tributário por ele cobrado.
+
+Em relação às intimações, devemos nos lembrar que a opção pelo Simples Nacional implica aceitação do
+sistema de comunicação eletrônica, denominado Domicílio Tributário Eletrônico do Simples Nacional (DTE-
+SN).
+
+Vale lembrar que o DTE-SN:
+
+I - não exclui outras formas de notificação, intimação ou avisos previstos nas legislações dos entes federados,
+incluídas as eletrônicas;
+
+II - aplica-se ao MEI.
+
+Processo de Consulta
+
+Em relação ao processo de consulta, o art. 40 da LC 123/06 estabelece:
+
+      Art. 40. As consultas relativas ao Simples Nacional serão solucionadas pela Secretaria da Receita Federal, salvo
+      quando se referirem a tributos e contribuições de competência estadual ou municipal, que serão solucionadas
+      conforme a respectiva competência tributária, na forma disciplinada pelo Comitê Gestor.
+
+Seguindo as diretrizes da LC 123/06, a Resolução CGSN 140/18 definiu o seguinte:
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 136
+         www.estrategiaconcursos.com.br                                                                           295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Art. 125. É competente para solucionar a consulta: (Lei Complementar nº 123, de 2006, art. 40)
+
+     I - o Estado ou o Distrito Federal, quando se tratar de consulta relativa ao ICMS;
+
+     II - o Município ou o Distrito Federal, quando se tratar de consulta relativa ao ISS;
+
+     III - o Estado de Pernambuco, quando se tratar de consulta relativa ao ISS exigido no âmbito do Distrito Estadual
+     de Fernando de Noronha;
+
+     IV - a RFB, nos demais casos.
+
+Além disso, os arts. 123 e 124, da Resolução CGSN 140/18 tratam da legitimidade para consultar:
+
+     Art. 123. A consulta poderá ser formulada por sujeito passivo de obrigação tributária principal ou acessória. (Lei
+     Complementar nº 123, de 2006, art. 40)
+
+     Parágrafo único. A consulta poderá ser formulada também por entidade representativa de categoria econômica
+     ou profissional, caso haja previsão na legislação do ente federado competente. (Lei Complementar nº 123, de
+     2006, art. 40)
+
+     Art. 124. No caso de a ME ou a EPP possuir mais de um estabelecimento, a consulta será formulada pelo
+     estabelecimento matriz, o qual deverá comunicar o fato aos demais estabelecimentos. (Lei Complementar nº
+     123, de 2006, art. 40)
+
+     Parágrafo único. Não se aplica o disposto no caput quando a consulta se referir ao ICMS ou ao ISS. (Lei
+     Complementar nº 123, de 2006, art. 40)
+
+Dessa forma, anote aí: a consulta pode ser formulada tanto pelo próprio sujeito passivo (de obrigação
+tributária principal ou acessória), como também por entidade representativa de categoria econômica ou
+profissional, caso haja previsão na legislação do ente federado competente.
+
+     Art. 125:
+
+     (...)
+
+     § 1º A consulta formalizada perante ente não competente para solucioná-la será declarada ineficaz. (Lei
+     Complementar nº 123, de 2006, art. 40)
+
+     § 2º Na hipótese de a consulta abranger assuntos de competência de mais de um ente federado, a ME ou a EPP
+     deverá formular consultas em separado para cada administração tributária. (Lei Complementar nº 123, de 2006,
+     art. 40)
+
+     § 3º No caso de descumprimento do disposto no § 2º, a administração tributária que receber a consulta declarará
+     a ineficácia relativamente à matéria sobre a qual não exerça competência. (Lei Complementar nº 123, de 2006,
+     art. 40)
+
+     § 4º Será observada a legislação de cada ente competente quanto ao processo de consulta, no que não colidir
+     com esta Resolução. (Lei Complementar nº 123, de 2006, art. 40)
+
+     § 5º Os entes federados terão acesso ao conteúdo das soluções de consultas relativas ao Simples Nacional. (Lei
+     Complementar nº 123, de 2006, art. 40)
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                  137
+         www.estrategiaconcursos.com.br                                                                            295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Se o contribuinte formalizar consulta perante ente não competente para solucioná-la será declarada ineficaz.
+Por exemplo, o contribuinte que formalizar consulta ao Estado, em se tratando de tributo federal, terá sua
+consulta declarada como ineficaz.
+
+Outro ponto digno de nota é que, sempre que a legislação do ente conflitar com as regras da Resolução CGSN
+140/18, prevalecerão aquelas.
+
+        Os entes federados terão acesso ao conteúdo das soluções de consultas relativas ao
+        Simples Nacional.
+
+     Art. 126. A consulta será solucionada em instância única, e não caberá recurso nem pedido de reconsideração,
+     ressalvado o recurso de divergência, caso previsto na legislação de cada ente federado. (Lei Complementar nº
+     123, de 2006, art. 40)
+
+     Art. 127. Os efeitos da consulta eficaz, formulada antes do prazo legal para recolhimento de tributo, dar-se-ão
+     de acordo com o estabelecido pela legislação dos respectivos entes federados. (Lei Complementar nº 123, de
+     2006, art. 40)
+
+Uma vez formulada a consulta pelo contribuinte, e atendida pelo ente competente, não caberá pedido de
+reconsideração, isto é, será solucionada em instância única. A única ressalva é o recurso de divergência,
+caso previsto na legislação de cada ente federado.
+
+Vamos fazer um resumo do que comentamos sobre o processo de consulta:
+
+Competência para solucionar:
+
+   ● Como regra, as consultas serão solucionadas pela RFB.
+   ● Se envolver ICMS, a competência para solucionar será dos Estados/DF;
+   ● Se envolver ISS, a competência para solucionar será dos Municípios/DF;
+
+Obs.: A consulta formalizada perante ente não competente para solucioná-la será declarada ineficaz.
+
+Quem deve formular:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                138
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+   ● A consulta poderá ser formulada pelo sujeito passivo.
+   ● Se houver mais de um estabelecimento, a consulta será formulada pela matriz.
+   ● Também pode ser formulada pela entidade que representa a categoria econômica ou profissional
+     (caso haja previsão).
+
+Instância Única:
+
+   ● A consulta será solucionada em instância única, e não caberá recurso nem pedido de reconsideração,
+     ressalvado o recurso de divergência.
+
+                                    DO PROCESSO JUDICIAL
+Este tema é bem específico, e muito incomum em provas versando sobre o Simples Nacional. Mas como está
+previsto na LC 123/06, falaremos um pouco sobre o tema! Vamos lá! :)
+
+        É interessante saber que, diante da ausência de pagamento dos débitos pelo sujeito passivo, este fica
+sujeito à execução fiscal da dívida. Os processos de execução relativos a impostos e contribuições abrangidos
+pelo Simples Nacional serão ajuizados em face da União, que será representada em juízo pela Procuradoria-
+Geral da Fazenda Nacional.
+
+       Veja que interessante! Os tributos submetidos à sistemática do Simples Nacional não são apenas
+federais, mas também estaduais, distritais e municipais. Mesmo assim, a execução desses tributos
+(impostos e contribuições) será ajuizada em face da União, representada pela PGFN!
+
+     Art. 41. Os processos relativos a impostos e contribuições abrangidos pelo Simples Nacional serão ajuizados em
+     face da União, que será representada em juízo pela Procuradoria-Geral da Fazenda Nacional, observado o
+     disposto no § 5º deste artigo.
+
+        Mas não podemos desprezar a obrigação dos Estados, Distrito Federal e Municípios de prestar
+auxílio à PGFN, em relação aos tributos de sua competência, conforme previsto no art. 41, § 1º, da LC
+123/2006, transcrito abaixo:
+
+     Art. 41.
+
+     (...)
+
+     § 1o Os Estados, Distrito Federal e Municípios prestarão auxílio à Procuradoria-Geral da Fazenda Nacional, em
+     relação aos tributos de sua competência, na forma a ser disciplinada por ato do Comitê Gestor.
+
+Nesse sentido, confira a regra constante dos arts. 136 e 137 da Resolução CGSN 140/18:
+
+     Art. 136. Os Estados, o Distrito Federal e os Municípios, por meio de suas administrações tributárias ou outros
+     órgãos de sua estrutura interna, quando assim determinado por ato competente, prestarão auxílio à PGFN em
+     relação aos tributos de suas respectivas competências, independentemente da celebração de convênio, em prazo
+     não inferior à terça parte do prazo judicial em curso.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                               139
+         www.estrategiaconcursos.com.br                                                                         295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 1º O requerimento feito pela PGFN e as informações a lhe serem prestadas pelo respectivo ente federado serão,
+     enviados, preferencialmente, por meio eletrônico ao órgão de representação judicial do respectivo Estado, do
+     Distrito Federal ou Município.
+
+     § 2º A resposta será dirigida diretamente ao chefe da unidade solicitante seccional, estadual, regional ou geral
+     da PGFN.
+
+     § 3º Transcorrido o prazo estabelecido sem que tenha sido prestado o auxílio solicitado pela PGFN aos Estados,
+     ao Distrito Federal ou Municípios, tal fato será informado ao ente federado competente. (Lei Complementar nº
+     123, de 2006, art. 41, § 1º)
+
+     Art. 137. As informações prestadas pelos Estados, pelo Distrito Federal e pelos Municípios em cumprimento ao
+     § 1º do art. 136 deverão conter: (Lei Complementar nº 123, de 2006, art. 41, § 1º)
+
+     I - descrição detalhada dos fundamentos fáticos que ensejaram o ato de lançamento, que poderá ser
+     representada por cópia do relatório fiscal relativo ao lançamento, desde que os contenha;
+
+     II - cópia da legislação e resoluções pertinentes, incluindo eventuais consultas e pareceres existentes sobre a
+     matéria, e indicação de sítio na Internet em que porventura esteja disponibilizada a legislação;
+
+     III - cópia de documentos relacionados ao ato de fiscalização;
+
+     IV - data em que foi prestada a informação, o nome do informante, sua assinatura, e seu endereço eletrônico e
+     telefone para contato.
+
+Meus amigos, temos que entender que, como a PGFN assumiu a responsabilidade de ajuizar as execuções
+fiscais, e sendo um órgão responsável pelos tributos federais, há necessidade de auxílio por parte dos órgãos
+estaduais e municipais, afinal, são tributos de sua competência.
+
+Vale saber também que o art. 133, da Resolução CGSN 140/18 prevê que as ações que tenham por objeto
+atos do CGSN e o Simples Nacional também serão propostas em face da União:
+
+     Art. 133. Serão propostas em face da União, que será representada em juízo pela Procuradoria-Geral da Fazenda
+     Nacional (PGFN), as ações judiciais que tenham por objeto: (Lei Complementar nº 123, de 2006, art. 41, caput)
+
+     I - ato do CGSN e o Simples Nacional; e
+
+     II - tributos abrangidos pelo Simples Nacional.
+
+     § 1º Os Estados, o Distrito Federal e Municípios prestarão auxílio à PGFN, em relação aos tributos de sua
+     competência, nos termos dos arts. 136 e 137.
+
+     § 2º Os Estados, o Distrito Federal e os Municípios poderão atuar em conjunto com a União na defesa dos
+     processos em que houver impugnação relativa ao Simples Nacional, caso o eventual provimento da ação gere
+     impacto no recolhimento de seus respectivos tributos.
+
+Estão excepcionados da competência da PGFN:
+
+     Art. 134. Excetuam-se ao disposto no art. 133:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 140
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     I - informações em mandados de segurança impugnando atos de autoridade coatora pertencente a Estado, ao
+     Distrito Federal ou Município; (Lei Complementar nº 123, de 2006, art. 41, § 5º, inciso I)
+
+     II - ações que tratem exclusivamente de tributos dos Estados, do Distrito Federal ou dos Municípios, as quais
+     serão propostas perante esses entes federados, cujas defesas incumbirão às suas respectivas representações
+     judiciais; (Lei Complementar nº 123, de 2006, art. 41, § 5º, inciso II)
+
+     III - ações promovidas na hipótese de celebração do convênio previsto no art. 139; (Lei Complementar nº 123, de
+     2006, art. 41, § 5º, inciso III)
+
+     IV - ações que tenham por objeto o crédito tributário decorrente de auto de infração lavrado exclusivamente em
+     face de descumprimento de obrigação acessória; (Lei Complementar nº 123, de 2006, art. 41, § 5º, inciso IV)
+
+     V - ações que tenham por objeto o crédito tributário relativo ao ICMS e ao ISS de responsabilidade do MEI. (Lei
+     Complementar nº 123, de 2006, art. 41, § 5º, inciso V)
+
+     Parágrafo único. O disposto no inciso III alcança todas as ações conexas com a cobrança da dívida, desde que
+     versem exclusivamente sobre tributos estaduais ou municipais. (Lei Complementar nº 123, de 2006, art. 41, § 3º
+     e § 5º, inciso III)
+
+Veja que, até o momento, estamos falando de ações judiciais ingressadas pelos contribuinte contra a
+Fazenda. Agora, vamos falar sobre a inscrição dos créditos em dívida ativa e sua respectiva cobrança
+judicial, que também será realizada pela PGFN:
+
+     Art. 138. O crédito tributário gerado no âmbito do Simples Nacional será apurado, inscrito em DAU e cobrado
+     judicialmente pela PGFN, exceto: (Lei Complementar nº 123, de 2006, art. 41, § 2º) (Redação dada pelo(a)
+     Resolução CGSN nº 141, de 06 de julho de 2018)
+
+     I - a hipótese de convênio; (Lei Complementar nº 123, de 2006, art. 41, § 3º)
+
+     II - o crédito tributário decorrente de auto de infração lavrado exclusivamente em face de descumprimento de
+     obrigação acessória; (Lei Complementar nº 123, de 2006, art. 41, § 5º, inciso IV)
+
+     III - o crédito tributário relativo ao ICMS e ao ISS apurado no âmbito do Simei.
+
+     IV - crédito tributário relativo a ICMS ou ISS constituído por Estado, pelo Distrito Federal ou por Município, na
+     forma prevista no art. 90-A.
+
+O art. 139 da Resolução CGSN 140/18 ainda prevê que os Estados, o Distrito Federal e os Municípios deverão
+manifestar seu interesse na celebração de convênio com a PGFN para que efetuem a inscrição em dívida
+ativa e a cobrança dos tributos de suas respectivas competências.
+
+     Art. 139. Os Estados, o Distrito Federal e os Municípios deverão manifestar seu interesse na celebração de
+     convênio com a PGFN para que efetuem a inscrição em dívida ativa e a cobrança dos tributos de suas respectivas
+     competências.
+
+     Art. 140. A existência do convênio implica a delegação pela União da competência para inscrição, cobrança e
+     defesa relativa ao ICMS ou ao ISS, caso esses tributos estejam incluídos no Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  141
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 1º A delegação prevista no caput dar-se-á sem prejuízo da possibilidade de a União, representada pela PGFN,
+     integrar a demanda na qualidade de interessada.
+
+     § 2º Na hipótese prevista neste artigo, não se aplica o disposto no § 5º do art. 138.
+
+     § 3º Depois da transferência dos dados relativos a crédito de ICMS ou de ISS ao Estado, ao Distrito Federal ou
+     Município que tenha firmado o convênio de que trata o caput, a responsabilidade pela sua administração fica
+     transferida ao respectivo ente federado, observados os termos do citado convênio.
+
+Neste caso, ou seja, tendo sido celebrado o convênio, deverá a PGFN, na qualidade de representante da
+União, requerer a citação do Estado, do Distrito Federal ou Município conveniado, para que integre a lide.
+
+     Art. 135. Na hipótese de ter sido celebrado o convênio previsto no art. 139 e ter sido proposta ação contra a
+     União, com a finalidade de discutir tributo da competência do outro ente federado conveniado, deverá a PGFN,
+     na qualidade de representante da União, requerer a citação do Estado, do Distrito Federal ou Município
+     conveniado, para que integre a lide.
+
+Os parágrafos do art. 138 da Resolução CGSN 140/18 detalham como se dará o encaminhamento dos
+créditos para que a União realize a inscrição na DAU (Dívida Ativa da União):
+
+     Art. 138:
+
+     (...)
+
+     § 1º O encaminhamento de crédito tributário para inscrição na DAU pelos Estados, pelo Distrito Federal e
+     Municípios será realizado com a observância dos requisitos previstos no art. 202 do CTN, no art. 2º da Lei nº
+     6.830, de 22 de setembro de 1980, e, preferencialmente, por meio eletrônico.
+
+     § 2º A movimentação e o encaminhamento serão realizados via processo administrativo em meio convencional,
+     em caso de impossibilidade de sua realização por meio eletrônico.
+
+     § 3º A PGFN proporá a forma padronizada de encaminhamento eletrônico ou convencional de crédito para
+     inscrição na DAU, a ser aprovada em ato do CGSN.
+
+     § 4º A notificação ao ente federado da inscrição em DAU dos créditos relativos aos tributos de sua competência
+     dar-se-á por meio de aplicativo, a ser disponibilizado no Portal do Simples Nacional.
+
+     § 5º O pagamento dos tributos abrangidos pelo Simples Nacional inscritos em DAU deverá ser efetuado por meio
+     do DAS.
+
+     § 6º Os valores arrecadados a título de pagamento dos créditos tributários inscritos em dívida ativa serão
+     apropriados diretamente pela União, Estados, pelo Distrito Federal e Municípios, na exata medida de suas
+     respectivas quotas-partes, acrescidos dos consectários legais correspondentes.
+
+Mas essa regra que vimos não retira a legitimidade ativa dos Estados, Distrito Federal e Municípios para
+ingressar com as ações que entenderem cabíveis contra a ME ou a EPP optante pelo Simples Nacional,
+independentemente da celebração do convênio.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                              142
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+      Art. 141. À exceção da execução fiscal, os Estados, o Distrito Federal e os Municípios possuem legitimidade ativa
+      para ingressar com as ações que entenderem cabíveis contra a ME ou a EPP optante pelo Simples Nacional,
+      independentemente da celebração do convênio previsto no art. 139.
+
+   ● Os processos relativos a impostos e contribuições abrangidos pelo Simples Nacional, processos contra
+     ato do CGSN, serão ajuizados em face da União.
+   ● A União será representada pela PGFN.
+   ● Os Estados, Distrito Federal e Municípios prestarão auxílio à Procuradoria-Geral da Fazenda Nacional,
+     em relação aos tributos de sua competência
+   ● Os tributos incluídos no Simples Nacional serão inscritos em Dívida Ativa da União (mesmo os de
+     competência estadual, distrital ou municipal).
+   ● Mas os Estados, o Distrito Federal e os Municípios deverão manifestar seu interesse na celebração
+     de convênio com a PGFN para que efetuem a inscrição em dívida ativa e a cobrança dos tributos de
+     suas respectivas competências.
+   ● À exceção da execução fiscal, os Estados, o Distrito Federal e os Municípios possuem legitimidade
+     ativa para ingressar com as ações que entenderem cabíveis contra a ME ou a EPP optante pelo
+     Simples Nacional, independentemente da celebração do convênio
+
+O que já era específico nesta aula (tópico sobre processos judiciais), ficará ainda mais específico, a partir de
+agora, pois falaremos de casos envolvendo processos de transação. Não se preocupe em querer decorar
+tudo, pois a relação custo/benefício não nos parece vantajosa. Faça, pelo menos, uma leitura atenta. Vamos
+lá!
+
+Para entender melhor, a transação em matéria tributária foi disciplinada no art. 171, do CTN, cuja redação
+é a seguinte:
+
+      Art. 171. A lei pode facultar, nas condições que estabeleça, aos sujeitos ativo e passivo da obrigação tributária
+      celebrar transação que, mediante concessões mútuas, importe em determinação de litígio e conseqüente
+      extinção de crédito tributário.
+
+      Parágrafo único. A lei indicará a autoridade competente para autorizar a transação em cada caso.
+
+No âmbito do Simples Nacional, a matéria foi regulamentada na Resolução 140/18, com várias atualizações
+posteriores:
+
+      Art. 141-A. Os créditos da Fazenda Pública apurados na forma do Simples Nacional, em fase de contencioso
+      administrativo ou judicial ou inscritos em dívida ativa, poderão ser extintos mediante transação resolutiva de
+      litígio, observado este Capítulo.
+
+      § 1º A União, os Estados, o Distrito Federal e os Municípios, no limite de suas competências, observado este
+      Capítulo, em juízo de oportunidade e conveniência, poderão celebrar transação nas modalidades enumeradas
+      no art. 141-B, sempre que, motivadamente, entenderem que a medida atende ao interesse público.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   143
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 2º A transação de que trata este Capítulo:
+
+     I - deverá observar o disposto no art. 171 do CTN e na Lei nº 13.988, de 14 de abril de 2020, no que for cabível; e
+
+     II - não caracteriza renúncia de receita para fins do disposto no art. 14 da Lei Complementar nº 101, de 4 de maio
+     de 2000.
+
+Como se aprende no Direito Tributário, a transação em matéria tributária tem natureza terminativa, isto é,
+por fim ao litígio (administrativo ou judicial) entre a Fazenda Pública e o contribuinte. Em nosso caso, os
+contribuintes são optantes pelo Simples Nacional, e o litígio envolve essa matéria!
+
+As modalidades de transação foram especificadas no art. 141-B:
+
+     Art. 141-B. São modalidades de transação as realizadas por:
+
+     I - proposta individual ou por adesão, na cobrança de créditos inscritos em DAU de acordo com o art. 138;
+
+     II - proposta individual ou por adesão, na cobrança de créditos inscritos em dívida ativa de Estado, Distrito
+     Federal ou Município;
+
+     III - adesão, nos demais casos de contencioso judicial ou administrativo tributário; e
+
+     IV - adesão, no contencioso tributário de pequeno valor.
+
+Em relação ao âmbito federal, os procedimentos para adesão serão realizados exclusivamente por meio
+eletrônico, devendo haver ampla divulgação:
+
+     Art. 141-C. No âmbito da União, os procedimentos para adesão serão realizados exclusivamente por meio
+     eletrônico.
+
+     Art. 141-D. Os editais serão publicados, no mínimo, na imprensa oficial e nos sites dos órgãos que os lançarem,
+     para fins de ampla divulgação.
+
+     Parágrafo único. O edital definirá as exigências a serem cumpridas, os benefícios oferecidos, os prazos e as
+     formas de pagamento admitidas e o prazo para a adesão à transação, que não poderá superar 120 (cento e
+     vinte) dias da publicação do edital.
+
+   ● A transação no Simples Nacional é válida tanto para créditos em fase de contencioso administrativo
+     ou judicial ou inscritos em dívida ativa.
+   ● A transação não caracteriza renúncia de receita, para fins da Lei de Responsabilidade Fiscal.
+   ● A transação pode ocorrer por meio de proposta individual ou por adesão.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    144
+        www.estrategiaconcursos.com.br                                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O art. 141-E define quem fará a proposta de transação, a depende se há inscrição em dívida ativa (em DAU
+ou pelos demais entes), ou se há apenas discussão no contencioso administrativo fiscal:
+
+     Art. 141-E. A transação na cobrança da dívida ativa e no contencioso administrativo fiscal poderá ser proposta:
+
+     I - na cobrança dos créditos apurados no âmbito do Simples Nacional inscritos em DAU, pela PGFN, na forma
+     prevista na Lei nº 13.988, de 2020;
+
+     II - na cobrança dos créditos apurados no âmbito do Simples Nacional inscritos em dívida ativa de Estado, Distrito
+     Federal ou Município, nos termos da legislação desses entes federados; e
+
+     III - no contencioso administrativo fiscal: (Incluído(a) pelo(a) Resolução CGSN nº 172, de 30 de março de 2023)
+
+     a) pelo órgão competente para a administração tributária dos Estados, Distrito Federal e Municípios, na hipótese
+     prevista no art. 90-A, nos termos da legislação desses entes federados; e
+
+     b) pela RFB:
+
+     1. em relação aos créditos lançados nos termos do art. 87 que tramitam perante a União ou perante as
+     administrações tributárias dos Estados, Distrito Federal e Municípios; e
+
+     2. em relação às demais hipóteses não previstas neste inciso.
+
+A grande vantagem da transação é oferecer benefícios para que os contribuintes tenham interesse em aderi-
+la, desistindo do contencioso. O art. 141-E elenca quais serão os benefícios possíveis, no âmbito da transação:
+
+     Art. 141-E.
+
+     (...)
+
+     § 1º A transação poderá contemplar os seguintes benefícios:
+
+     I - concessão de descontos nas multas, nos juros e nos encargos legais relativos a créditos a serem transacionados
+     que sejam classificados como irrecuperáveis ou de difícil recuperação;
+
+     II - oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória;
+
+     III - oferecimento, substituição ou alienação de garantias e de constrições; ou
+
+     IV - a utilização de precatórios ou de direito creditório com sentença de valor transitada em julgado para
+     amortização de dívida tributária principal, multa e juros, somente em relação aos créditos tributários próprios
+     do ente federado devedor do precatório.
+
+     § 2º É permitida a acumulação dos benefícios previstos no § 1º.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                  145
+         www.estrategiaconcursos.com.br                                                                            295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Principais benefícios da transação (permitida a acumulação):
+
+I - concessão de descontos nas multas, nos juros e nos encargos legais relativos a créditos a serem
+transacionados que sejam classificados como irrecuperáveis ou de difícil recuperação;
+
+II - oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória;
+
+III - oferecimento, substituição ou alienação de garantias e de constrições; ou
+
+IV - a utilização de precatórios ou de direito creditório com sentença de valor transitada em julgado para
+amortização de dívida tributária principal, multa e juros, somente em relação aos créditos tributários
+próprios do ente federado devedor do precatório.
+
+No tocante às garantias, poderão ser aceitas quaisquer modalidades de garantia previstas em lei, inclusive
+garantias reais ou fidejussórias, cessão fiduciária de direitos creditórios e alienação fiduciária de bens móveis
+ou imóveis ou de direitos, bem como créditos líquidos e certos do contribuinte em desfavor da União, Estado,
+Distrito Federal ou Município reconhecidos em decisão transitada em julgado
+
+      Art. 141-E.
+
+      (...)
+
+      § 2º-A. Na transação de que trata este artigo, poderão ser aceitas quaisquer modalidades de garantia previstas
+      em lei, inclusive garantias reais ou fidejussórias, cessão fiduciária de direitos creditórios e alienação fiduciária de
+      bens móveis ou imóveis ou de direitos, bem como créditos líquidos e certos do contribuinte em desfavor da União,
+      Estado, Distrito Federal ou Município reconhecidos em decisão transitada em julgado, observado o disposto no
+      § 2º-B.
+
+      § 2º-B. Não constitui óbice à realização da transação a impossibilidade material de prestação de garantias pelo
+      devedor ou de garantias adicionais às já formalizadas em processos judiciais.
+
+      § 3º É vedada a transação que:
+
+      I - reduza o montante principal do crédito, assim compreendido seu valor originário, excluídos os acréscimos de
+      que trata o inciso I do § 1º deste artigo;
+
+      II - implique redução superior a 70% (setenta por cento) do valor total dos créditos a serem transacionados; ou
+
+      III - conceda prazo de quitação dos créditos superior a 145 (cento e quarenta e cinco) meses.
+
+   ● Na transação, aceita-se quaisquer modalidades de garantias.
+
+          Receita Federal (Analista Tributário) Direito Tributário                                                       146
+          www.estrategiaconcursos.com.br                                                                                 295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+   ● Não constitui óbice à realização da transação a impossibilidade material de prestação de garantias
+     pelo devedor ou de garantias adicionais às já formalizadas em processos judiciais.
+
+Ainda sobre a concessão de transação:
+
+     Art. 141-E.
+
+     (...)
+
+     § 4º A transação na cobrança de créditos tributários inscritos em dívida ativa ou em fase de contencioso
+     administrativo fiscal poderá ser proposta, no âmbito de suas competências, pela PGFN, RFB, Estado, Distrito
+     Federal ou Município, de forma individual ou por adesão, ou por iniciativa do devedor.
+
+     § 5º Compete à autoridade máxima do órgão em que for proposta a transação assinar o respectivo termo,
+     realizado de forma individual, diretamente ou por autoridade delegada.
+
+Relativamente à transação no contencioso tributário de relevante e disseminada controvérsia jurídica, o art.
+141-F da Resolução CGSN 140/18 prescreve que caberá ao Ministro de Estado da Economia (Fazenda) ou
+os Secretários competentes para a administração tributária dos Estados, Distrito Federal e Municípios:
+
+     Art. 141-F. O Ministro de Estado da Economia ou os Secretários competentes para a administração tributária dos
+     Estados, Distrito Federal e Municípios poderão propor a transação resolutiva de litígios tributários que versem
+     sobre relevante e disseminada controvérsia jurídica no âmbito do Simples Nacional.
+
+     § 1º A proposta de transação de que trata o caput deverá especificar de maneira objetiva as suas hipóteses
+     fáticas e jurídicas.
+
+     § 2º Considera-se controvérsia jurídica relevante e disseminada a que trate de questões tributárias que
+     ultrapassem os interesses subjetivos da causa.
+
+     § 3º Compete ao CGSN deliberar sobre a proposta de transação de que trata o caput.
+
+     § 4º Caso aprovada pelo CGSN, a proposta de transação será divulgada na imprensa oficial e no Portal do Simples
+     Nacional disponível na internet, mediante edital que especifique, objetivamente, as hipóteses fáticas e jurídicas
+     nas quais se propõe a transação, que estará aberta à adesão de todos os sujeitos passivos que nelas se
+     enquadrem e que satisfaçam às condições previstas neste Capítulo e no respectivo edital.
+
+Em relação à competência, observe que caberá à RFB, em relação ao contencioso administrativo fiscal que
+tramita perante a União, e à PGFN, no contencioso judicial ou na cobrança da DAU:
+
+     Art. 141-F.
+
+     (...)
+
+     § 5º A celebração da transação de que trata este artigo, nos termos definidos no edital, competirá:
+
+     I - à RFB, em relação ao contencioso administrativo fiscal que tramita perante a União;
+
+     II - à PGFN, no contencioso judicial ou na cobrança da DAU;
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                 147
+         www.estrategiaconcursos.com.br                                                                           295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     III - ao órgão competente para a administração tributária dos Estados, Distrito Federal e Municípios no
+     contencioso administrativo que tramita perante suas administrações; ou
+
+     IV - ao órgão competente para representação judicial do Estado, Distrito Federal ou Município no contencioso
+     judicial ou na cobrança da dívida ativa sob sua responsabilidade.
+
+Já no que se refere à transação no contencioso tributário de pequeno valor, o art. 141-G disciplina o
+seguinte:
+
+     Art. 141-G. A transação relativa a crédito tributário de pequeno valor será realizada:
+
+     I - enquanto pendente de decisão definitiva no âmbito do contencioso administrativo;
+
+     II - enquanto ainda for cabível impugnação, recurso ou reclamação administrativa; ou
+
+     III - no processo de cobrança da dívida ativa.
+
+     § 1º Considera-se contencioso tributário de pequeno valor aquele cujo crédito tributário em discussão não supere
+     60 (sessenta) salários-mínimos e seja apurado no âmbito do Simples Nacional.
+
+Já falamos sobre os benefícios da transação. Mas em relação à modalidade de transação no contencioso
+tributário de pequeno valor, os benefícios possíveis são os seguintes:
+
+     Art. 141-G.
+
+     (...)
+
+     § 2º A transação de que trata esta Seção poderá contemplar os seguintes benefícios: ( Lei nº 13.988, de 2020,
+     art. 25
+
+     I - concessão de descontos, observado o limite máximo de 50% (cinquenta por cento) do valor total do crédito;
+
+     II - oferecimento de prazos e formas de pagamento especiais, incluídos o diferimento e a moratória, obedecido
+     o prazo máximo de quitação de 60 (sessenta) meses; e
+
+     III - oferecimento, substituição ou alienação de garantias e de constrições.
+
+     § 3º É permitida a cumulação dos benefícios previstos nos incisos I, II e III do § 2º.
+
+Por último, o art. 141-G ainda prevê a competência para publicação do edital de transação:
+
+     Art. 141-G.
+
+     (...)
+
+     § 4º No âmbito do contencioso tributário de pequeno valor, a transação será realizada nos termos deste Capítulo,
+     por edital:
+
+     I - da RFB:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                148
+         www.estrategiaconcursos.com.br                                                                          295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     a) em relação aos créditos lançados nos termos do art. 87 que estão em fase de contencioso administrativo
+     perante a União ou perante as administrações tributárias dos Estados, Distrito Federal e Municípios; e
+
+     b) em relação às demais hipóteses de contencioso administrativo fiscal não previstas neste parágrafo;
+
+     II - da PGFN, no contencioso judicial sob sua responsabilidade ou na cobrança da DAU;
+
+     III - do órgão competente para a administração tributária dos Estados, Distrito Federal e Municípios na hipótese
+     prevista no art. 90-A, nos termos da legislação desses entes federados; ou
+
+     IV - do órgão competente para representação judicial do Estado, Distrito Federal ou Município no contencioso
+     judicial ou na cobrança da dívida ativa sob sua responsabilidade, nos termos da legislação desses entes
+     federados.
+
+     § 5º A celebração da transação competirá ao órgão que lançar o respectivo edital.
+
+     § 6º Na hipótese da alínea 'a' do inciso I do § 4º, a RFB informará aos Estados, Distrito Federal e Municípios os
+     créditos passíveis de transação.
+
+            DO REPASSE DO PRODUTO DA ARRECADAÇÃO
+O art. 22 da LC 123/06 prevê que o CGSN definirá o sistema de repasses do total arrecadado, inclusive
+encargos legais para os entes tributantes.
+
+O repasse deve ser feito:
+
+I – ao Município ou Distrito Federal, do valor correspondente ao ISS;
+
+II – ao Estado ou Distrito Federal, do valor correspondente ao ICMS;
+
+III – ao Instituto Nacional do Seguro Social, do valor correspondente à Contribuição para manutenção da
+Seguridade Social.
+
+                          ACESSO AO MERCADO EXTERNO
+A LC 123/06 estabelece diretrizes para que as ME/EPP se beneficiem de procedimentos simplificados,
+visando facilitar seu acesso ao mercado externo, ou seja, para que possam exportar seus produtos de forma
+facilitada.
+
+Vejamos a redação do art. 49-A:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  149
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+       Art. 49-A. A microempresa e a empresa de pequeno porte beneficiárias do SIMPLES usufruirão de regime de
+       exportação que contemplará procedimentos simplificados de habilitação, licenciamento, despacho aduaneiro e
+       câmbio, na forma do regulamento. (Incluído pela Lei Complementar nº 147, de 2014)
+
+       Parágrafo único. As pessoas jurídicas prestadoras de serviço de logística internacional, quando contratadas
+       pelas empresas descritas nesta Lei Complementar, estão autorizadas a realizar atividades relativas a
+       licenciamento administrativo, despacho aduaneiro, consolidação e desconsolidação de carga e a contratar
+       seguro, câmbio, transporte e armazenagem de mercadorias, objeto da prestação do serviço, de forma
+       simplificada e por meio eletrônico, na forma de regulamento. (Redação dada pela Lei Complementar nº 155, de
+       2016)
+
+A facilitação se dará por meio de procedimentos simplificados de habilitação, licenciamento, despacho
+aduaneiro e câmbio.
+
+Ademais, as pessoas jurídicas prestadoras de serviço de logística internacional, quando contratadas pelas
+ME/EPP poderão realizar as atividades de forma simplificada e por meio eletrônico.
+
+             DO ESTÍMULO AO CRÉDITO E À CAPITALIZAÇÃO
+As microempresas e empresas de pequeno porte são muito mais dependentes do acesso a crédito, se
+comparadas a grandes empresas. Portanto, a LC 123/06 que regula o Simples Nacional também definiu
+diretrizes nesse sentido:
+
+       Art. 57. O Poder Executivo federal proporá, sempre que necessário, medidas no sentido de melhorar o acesso
+       das microempresas e empresas de pequeno porte aos mercados de crédito e de capitais, objetivando a redução
+       do custo de transação, a elevação da eficiência alocativa, o incentivo ao ambiente concorrencial e a qualidade
+       do conjunto informacional, em especial o acesso e portabilidade das informações cadastrais relativas ao crédito.
+
+                                         Estímulo ao Crédito e Capitalização
+
+Melhorar o acesso aos mercados de crédito e de capitais;
+
+Medida proposta pelo Poder Executivo Federal;
+
+Objetivos:
+
+   ●    redução do custo de transação
+   ●    elevação da eficiência alocativa
+   ●    incentivo ao ambiente concorrencial
+   ●    qualidade do conjunto informacional
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                  150
+         www.estrategiaconcursos.com.br                                                                            295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Nessa toada, os bancos públicos deverão manter linhas de crédito específicas para as microempresas e para
+as empresas de pequeno porte:
+
+     Art. 58. Os bancos comerciais públicos e os bancos múltiplos públicos com carteira comercial, a Caixa Econômica
+     Federal e o Banco Nacional do Desenvolvimento Econômico e Social - BNDES manterão linhas de crédito
+     específicas para as microempresas e para as empresas de pequeno porte, vinculadas à reciprocidade social,
+     devendo o montante disponível e suas condições de acesso ser expressos nos respectivos orçamentos e
+     amplamente divulgados.
+
+     § 1º As instituições mencionadas no caput deste artigo deverão publicar, juntamente com os respectivos
+     balanços, relatório circunstanciado dos recursos alocados às linhas de crédito referidas no caput e daqueles
+     efetivamente utilizados, consignando, obrigatoriamente, as justificativas do desempenho alcançado.
+
+     § 2º O acesso às linhas de crédito específicas previstas no caput deste artigo deverá ter tratamento simplificado
+     e ágil, com divulgação ampla das respectivas condições e exigências.
+
+     § 4º O Conselho Monetário Nacional - CMN regulamentará o percentual mínimo de direcionamento dos recursos
+     de que trata o caput, inclusive no tocante aos recursos de que trata a alínea b do inciso III do art. 10 da Lei no
+     4.595, de 31 de dezembro de 1964.
+
+E, tanto os bancos públicos como os bancos privados não poderão contabilizar, para cumprimento de
+metas, empréstimos realizados a pessoas físicas, ainda que sócios de empresas, como disponibilização de
+crédito para microempresas e empresas de pequeno porte:
+
+     Art. 58-A. Os bancos públicos e privados não poderão contabilizar, para cumprimento de metas, empréstimos
+     realizados a pessoas físicas, ainda que sócios de empresas, como disponibilização de crédito para microempresas
+     e empresas de pequeno porte.
+
+     Art. 59. As instituições referidas no caput do art. 58 desta Lei Complementar devem se articular com as
+     respectivas entidades de apoio e representação das microempresas e empresas de pequeno porte, no sentido de
+     proporcionar e desenvolver programas de treinamento, desenvolvimento gerencial e capacitação tecnológica.
+
+Agora, vejamos a regra do art. 60-A, que trata do Sistema Nacional de Garantias de Crédito, cujo objetivo é
+facilitar o acesso das microempresas e empresas de pequeno porte a crédito e demais serviços das
+instituições financeiras:
+
+     Art. 60-A. Poderá ser instituído Sistema Nacional de Garantias de Crédito pelo Poder Executivo, com o objetivo
+     de facilitar o acesso das microempresas e empresas de pequeno porte a crédito e demais serviços das instituições
+     financeiras, o qual, na forma de regulamento, proporcionará a elas tratamento diferenciado, favorecido e
+     simplificado, sem prejuízo de atendimento a outros públicos-alvo.
+
+     Parágrafo único. O Sistema Nacional de Garantias de Crédito integrará o Sistema Financeiro Nacional.
+
+     Art. 60-B. Os fundos garantidores de risco de crédito empresarial que possuam participação da União na
+     composição do seu capital atenderão, sempre que possível, as operações de crédito que envolvam
+     microempresas e empresas de pequeno porte, definidas na forma do art. 3o desta Lei.
+
+     Art. 61. Para fins de apoio creditício às operações de comércio exterior das microempresas e das empresas de
+     pequeno porte, serão utilizados os parâmetros de enquadramento ou outros instrumentos de alta significância
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   151
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     para as microempresas, empresas de pequeno porte exportadoras segundo o porte de empresas, aprovados pelo
+     Mercado Comum do Sul - MERCOSUL.
+
+Objetivo: facilitar o acesso das microempresas e empresas de pequeno porte a crédito e demais serviços das
+instituições financeiras.
+
+O Sistema Nacional de Garantias de Crédito será instituído pelo Poder Executivo.
+
+O Sistema Nacional de Garantias de Crédito integrará o Sistema Financeiro Nacional.
+
+Outro ponto interessante é a autorização para constituição de Sociedade de Garantia Solidária:
+
+     Art. 61-E. É autorizada a constituição de sociedade de garantia solidária (SGS), sob a forma de sociedade por
+     ações, para a concessão de garantia a seus sócios participantes.    (Incluído pela Lei Complementar nº 169, de
+     2019)
+
+     § 3º Os atos da sociedade de garantia solidária serão arquivados no Registro Público de Empresas Mercantis e
+     Atividades Afins.    (Incluído pela Lei Complementar nº 169, de 2019)
+
+     § 4º É livre a negociação, entre sócios participantes, de suas ações na respectiva sociedade de garantia solidária,
+     respeitada a participação máxima que cada sócio pode atingir.          (Incluído pela Lei Complementar nº 169, de
+     2019)
+
+     § 5º Podem ser admitidos como sócios participantes os pequenos empresários, microempresários e
+     microempreendedores e as pessoas jurídicas constituídas por esses associados. (Incluído pela Lei
+     Complementar nº 169, de 2019)
+
+     § 7º Sem prejuízo do disposto nesta Lei Complementar, aplicam-se à sociedade de garantia solidária as
+     disposições da lei que rege as sociedades por ações. (Incluído pela Lei Complementar nº 169, de 2019)
+
+Sociedade de Garantia Solidária:
+
+Constituída como sociedade por ações (seguem as mesmas regras das sociedades por ações);
+
+Tem por objetivo a concessão de garantia a seus sócios participantes
+
+É livre a negociação, entre sócios participantes, de suas ações na respectiva sociedade de garantia solidária
+
+O objetivo desse tipo de sociedade é celebrar contratos de garantia solidária com os seus sócios
+participantes. Um contrato de garantia solidária tem por finalidade regular a concessão da garantia pela
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    152
+        www.estrategiaconcursos.com.br                                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+sociedade ao sócio participante, mediante o recebimento de taxa de remuneração pelo serviço prestado,
+devendo fixar as cláusulas necessárias ao cumprimento das obrigações do sócio beneficiário perante a
+sociedade, conforme prevê o art. 61-F, da LC 123/06:
+
+     Art. 61-F. O contrato de garantia solidária tem por finalidade regular a concessão da garantia pela sociedade ao
+     sócio participante, mediante o recebimento de taxa de remuneração pelo serviço prestado, devendo fixar as
+     cláusulas necessárias ao cumprimento das obrigações do sócio beneficiário perante a sociedade.           (Incluído
+     pela Lei Complementar nº 169, de 2019)
+
+     Parágrafo único. Para a concessão da garantia, a sociedade de garantia solidária poderá exigir contragarantia
+     por parte do sócio participante beneficiário, respeitados os princípios que orientam a existência daquele tipo de
+     sociedade.     (Incluído pela Lei Complementar nº 169, de 2019)
+
+O interessante é que ainda existe a possibilidade de ser constituída sociedade de contragarantia, que tem
+como finalidade o oferecimento de contragarantias à sociedade de garantia solidária.
+
+     Art. 61-G. A sociedade de garantia solidária pode conceder garantia sobre o montante de recebíveis de seus
+     sócios participantes que sejam objeto de securitização.  (Incluído pela Lei Complementar nº 169, de 2019)
+
+     Art. 61-H. É autorizada a constituição de sociedade de contragarantia, que tem como finalidade o oferecimento
+     de contragarantias à sociedade de garantia solidária, nos termos a serem definidos por regulamento. (Incluído
+     pela Lei Complementar nº 169, de 2019)
+
+     Art. 61-I. A sociedade de garantia solidária e a sociedade de contragarantia integrarão o Sistema Financeiro
+     Nacional e terão sua constituição, organização e funcionamento disciplinados pelo Conselho Monetário
+     Nacional, observado o disposto nesta Lei Complementar.      (Incluído pela Lei Complementar nº 169, de 2019)
+
+Dicas importantes sobre sociedade de garantia solidária e a sociedade de contragarantia:
+
+   ● Integrarão o Sistema Financeiro Nacional
+   ● Sua Constituição, organização e funcionamento disciplinados pelo Conselho Monetário Nacional
+
+O art. 62 atribuiu a seguinte responsabilidade ao BACEN (Banco Central do Brasil):
+
+     Art. 62. O Banco Central do Brasil disponibilizará dados e informações das instituições financeiras integrantes
+     do Sistema Financeiro Nacional, inclusive por meio do Sistema de Informações de Crédito - SCR, de modo a
+     ampliar o acesso ao crédito para microempresas e empresas de pequeno porte e fomentar a competição
+     bancária.         (Redação dada pela Lei Complementar nº 147, de 2014)
+
+     § 1º O disposto no caput deste artigo alcança a disponibilização de dados e informações específicas relativas ao
+     histórico de relacionamento bancário e creditício das microempresas e das empresas de pequeno porte, apenas
+     aos próprios titulares.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                   153
+        www.estrategiaconcursos.com.br                                                                             295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 2º O Banco Central do Brasil poderá garantir o acesso simplificado, favorecido e diferenciado dos dados e
+     informações constantes no § 1o deste artigo aos seus respectivos interessados, podendo a instituição optar por
+     realizá-lo por meio das instituições financeiras, com as quais o próprio cliente tenha relacionamento.
+
+Para finalizar, temos a possibilidade de o CODEFAT disponibilizar recursos financeiros por meio da criação
+de programa específico para as cooperativas de crédito de cujos quadros de cooperados participem
+microempreendedores, empreendedores de microempresa e empresa de pequeno porte bem como suas
+empresas.
+
+O CODEFAT é um órgão colegiado, de caráter tripartite e paritário, composto por representantes dos
+trabalhadores, dos empregadores e do governo, que atua como gestor do FAT, isto é, do Fundo de Amparo
+ao Trabalhador:
+
+     Art. 63. O CODEFAT poderá disponibilizar recursos financeiros por meio da criação de programa específico para
+     as cooperativas de crédito de cujos quadros de cooperados participem microempreendedores, empreendedores
+     de microempresa e empresa de pequeno porte bem como suas empresas.
+
+     Parágrafo único. Os recursos referidos no caput deste artigo deverão ser destinados exclusivamente às
+     microempresas e empresas de pequeno porte.
+
+        DA SIMPLIFICAÇÃO DAS RELAÇÕES DE TRABALHO
+Existem três pontos chave neste tópico:
+
+   ● Da Segurança e da Medicina do Trabalho
+   ● Das Obrigações Trabalhistas
+   ● Do Acesso à Justiça do Trabalho
+
+Primeiramente, em relação ao primeiro ponto, o art. 50, da LC 123/06, definiu que as ME/EPP serão
+estimuladas pelo poder público e pelos Serviços Sociais Autônomos a formar consórcios para acesso a
+serviços especializados em segurança e medicina do trabalho.
+
+Veja que é um dispositivo um tanto genérico, de orientação ao poder público:
+
+     Art. 50. As microempresas e as empresas de pequeno porte serão estimuladas pelo poder público e pelos Serviços
+     Sociais Autônomos a formar consórcios para acesso a serviços especializados em segurança e medicina do
+     trabalho.
+
+Em relação às obrigações trabalhistas, as ME/EPP foram dispensadas de uma série de obrigações. Vejamos:
+
+     Art. 51. As microempresas e as empresas de pequeno porte são dispensadas:
+
+     I - da afixação de Quadro de Trabalho em suas dependências;
+
+     II - da anotação das férias dos empregados nos respectivos livros ou fichas de registro;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                               154
+        www.estrategiaconcursos.com.br                                                                         295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     III - de empregar e matricular seus aprendizes nos cursos dos Serviços Nacionais de Aprendizagem;
+
+     IV - da posse do livro intitulado “Inspeção do Trabalho”; e
+
+     V - de comunicar ao Ministério do Trabalho e Emprego a concessão de férias coletivas.
+
+Mas tais empresas continuam obrigadas a cumprir os procedimentos descritos no art. 52, resumidos abaixo:
+
+I - anotações na Carteira de Trabalho e Previdência Social - CTPS;
+
+II - arquivamento dos documentos comprobatórios de cumprimento das obrigações trabalhistas e
+previdenciárias, enquanto não prescreverem essas obrigações;
+
+III - apresentação da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à
+Previdência Social – GFIP;
+
+IV - apresentação das Relações Anuais de Empregados e da Relação Anual de Informações Sociais - RAIS e do
+Cadastro Geral de Empregados e Desempregados - CAGED.
+
+Por fim, em relação ao acesso à Justiça do Trabalho, foi facultado ao empregador de microempresa ou de
+empresa de pequeno porte substituir ou representar perante a Justiça do Trabalho por terceiros que
+conheçam dos fatos, ainda que não possuam vínculo trabalhista ou societário.
+
+     Art. 54. É facultado ao empregador de microempresa ou de empresa de pequeno porte fazer-se substituir ou
+     representar perante a Justiça do Trabalho por terceiros que conheçam dos fatos, ainda que não possuam vínculo
+     trabalhista ou societário.
+
+                      DAS REGRAS CIVIS E EMPRESARIAIS
+Vamos entender o que a LC 123/06 estabeleceu acerca de regras civis e empresariais.
+
+O art. 68 basicamente estabelece quem é o pequeno empresário, ou seja, é o empresário individual
+caracterizado como microempresa que aufira receita bruta anual até o limite previsto na LC 123/06,
+considerando os conceitos previstos no Código Civil.
+
+Em relação às exigências de deliberações sociais, os arts. 70 e 71 da LC 123/06 preveem o seguinte:
+
+     Art. 70. As microempresas e as empresas de pequeno porte são desobrigadas da realização de reuniões e
+     assembléias em qualquer das situações previstas na legislação civil, as quais serão substituídas por deliberação
+     representativa do primeiro número inteiro superior à metade do capital social.
+
+     § 1o O disposto no caput deste artigo não se aplica caso haja disposição contratual em contrário, caso ocorra
+     hipótese de justa causa que enseje a exclusão de sócio ou caso um ou mais sócios ponham em risco a
+     continuidade da empresa em virtude de atos de inegável gravidade.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                 155
+        www.estrategiaconcursos.com.br                                                                           295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     § 2o Nos casos referidos no § 1o deste artigo, realizar-se-á reunião ou assembléia de acordo com a legislação
+     civil.
+
+     Art. 71. Os empresários e as sociedades de que trata esta Lei Complementar, nos termos da legislação civil, ficam
+     dispensados da publicação de qualquer ato societário.~
+
+ME/EPP são dispensadas da realização de reuniões e assembleias em qualquer das situações previstas na
+legislação civil.
+
+ME/EPP ficam dispensadas da publicação de qualquer ato societário.
+
+Devem realizar deliberação representativa do primeiro número inteiro superior à metade do capital social.
+
+Em relação ao protesto de títulos, deve-se observar as regras dos arts. 73 e 73-A.
+
+Basicamente, o inciso I buscou desonerar ao máximo os custos a serem cobrados das microempresas e
+empresas de pequeno porte.
+
+O devedor que pagar com “cheque sem fundos” perderá todos os benefícios aqui previstos pelo prazo de 1
+ano:
+
+     Art. 73. O protesto de título, quando o devedor for microempresário ou empresa de pequeno porte, é sujeito às
+     seguintes condições:
+
+     I - sobre os emolumentos do tabelião não incidirão quaisquer acréscimos a título de taxas, custas e contribuições
+     para o Estado ou Distrito Federal, carteira de previdência, fundo de custeio de atos gratuitos, fundos especiais
+     do Tribunal de Justiça, bem como de associação de classe, criados ou que venham a ser criados sob qualquer
+     título ou denominação, ressalvada a cobrança do devedor das despesas de correio, condução e publicação de
+     edital para realização da intimação;
+
+     II - para o pagamento do título em cartório, não poderá ser exigido cheque de emissão de estabelecimento
+     bancário, mas, feito o pagamento por meio de cheque, de emissão de estabelecimento bancário ou não, a
+     quitação dada pelo tabelionato de protesto será condicionada à efetiva liquidação do cheque;
+
+     III - o cancelamento do registro de protesto, fundado no pagamento do título, será feito independentemente de
+     declaração de anuência do credor, salvo no caso de impossibilidade de apresentação do original protestado;
+
+     IV - para os fins do disposto no caput e nos incisos I, II e III do caput deste artigo, o devedor deverá provar sua
+     qualidade de microempresa ou de empresa de pequeno porte perante o tabelionato de protestos de títulos,
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                    156
+        www.estrategiaconcursos.com.br                                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     mediante documento expedido pela Junta Comercial ou pelo Registro Civil das Pessoas Jurídicas, conforme o
+     caso;
+
+     V - quando o pagamento do título ocorrer com cheque sem a devida provisão de fundos, serão automaticamente
+     suspensos pelos cartórios de protesto, pelo prazo de 1 (um) ano, todos os benefícios previstos para o devedor
+     neste artigo, independentemente da lavratura e registro do respectivo protesto.
+
+     Art. 73-A. São vedadas cláusulas contratuais relativas à limitação da emissão ou circulação de títulos de crédito
+     ou direitos creditórios originados de operações de compra e venda de produtos e serviços por microempresas e
+     empresas de pequeno porte. (Incluído pela Lei Complementar nº 147, de 2014)
+
+
+                                     DO ACESSO À JUSTIÇA
+Como sempre comentamos, o Simples Nacional vai muito além dos benefícios tributários. Neste capítulo,
+percebemos que as ME/EPP também receberão tratamento diferenciado e favorecido para aceso à Justiça.
+
+Em relação aos Juizados Especiais, as microempresas e as empresas de pequeno porte passam a ser
+admitidas como proponentes de ação perante o Juizado Especial:
+
+     Art. 74. Aplica-se às microempresas e às empresas de pequeno porte de que trata esta Lei Complementar o
+     disposto no § 1º do art. 8º da Lei nº 9.099, de 26 de setembro de 1995, e no inciso I do caput do art. 6º da Lei
+     nº 10.259, de 12 de julho de 2001, as quais, assim como as pessoas físicas capazes, passam a ser admitidas como
+     proponentes de ação perante o Juizado Especial, excluídos os cessionários de direito de pessoas jurídicas.
+
+     Art. 74-A. O Poder Judiciário, especialmente por meio do Conselho Nacional de Justiça - CNJ, e o Ministério da
+     Justiça implementarão medidas para disseminar o tratamento diferenciado e favorecido às microempresas e
+     empresas de pequeno porte em suas respectivas áreas de competência.                       (Incluído pela Lei
+     Complementar nº 147, de 2014)
+
+Ademais, as microempresas e empresas de pequeno porte deverão ser estimuladas a utilizar os institutos de
+conciliação prévia, mediação e arbitragem para solução dos seus conflitos. Esse estímulo será por meio de
+campanhas de divulgação, serviços de esclarecimento e tratamento diferenciado, simplificado e favorecido
+no tocante aos custos administrativos e honorários cobrados:
+
+     Art. 75. As microempresas e empresas de pequeno porte deverão ser estimuladas a utilizar os institutos de
+     conciliação prévia, mediação e arbitragem para solução dos seus conflitos.
+
+     § 1o Serão reconhecidos de pleno direito os acordos celebrados no âmbito das comissões de conciliação prévia.
+
+     § 2o O estímulo a que se refere o caput deste artigo compreenderá campanhas de divulgação, serviços de
+     esclarecimento e tratamento diferenciado, simplificado e favorecido no tocante aos custos administrativos e
+     honorários cobrados.
+
+Por último, é interessante conhecer o art. 75-A da LC 123/06, que tem relação com o que estudamos
+(juizados especiais e conciliações). Buscando esses objetivos, entidades privadas, públicas, inclusive o Poder
+Judiciário, poderão firmar parcerias entre si, objetivando a instalação ou utilização de ambientes propícios
+para a realização dos procedimentos inerentes a busca da solução de conflitos:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                  157
+        www.estrategiaconcursos.com.br                                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     Art. 75-A. Para fazer face às demandas originárias do estímulo previsto nos arts. 74 e 75 desta Lei
+     Complementar, entidades privadas, públicas, inclusive o Poder Judiciário, poderão firmar parcerias entre si,
+     objetivando a instalação ou utilização de ambientes propícios para a realização dos procedimentos inerentes a
+     busca da solução de conflitos.
+
+                        DO APOIO E DA REPRESENTAÇÃO
+O art. 76 dispõe que o poder público deverá incentivar e apoiar a criação de fóruns com participação dos
+órgãos públicos competentes e das entidades vinculadas ao setor. O objetivo é desenvolver e acompanhar
+políticas públicas voltadas às microempresas e empresas de pequeno porte:
+
+     Art. 76. Para o cumprimento do disposto nesta Lei Complementar, bem como para desenvolver e acompanhar
+     políticas públicas voltadas às microempresas e empresas de pequeno porte, o poder público, em consonância
+     com o Fórum Permanente das Microempresas e Empresas de Pequeno Porte, sob a coordenação da Secretaria
+     da Micro e Pequena Empresa da Presidência da República, deverá incentivar e apoiar a criação de fóruns com
+     participação dos órgãos públicos competentes e das entidades vinculadas ao setor. (Redação dada pela Lei nº
+     12.792, de 2013)
+
+     Parágrafo único. A Secretaria da Micro e Pequena Empresa da Presidência da República coordenará com as
+     entidades representativas das microempresas e empresas de pequeno porte a implementação dos fóruns
+     regionais nas unidades da federação. (Redação dada pela Lei nº 12.792, de 2013)
+
+Ademais, o art. 76-A prevê que instituições de representação e apoio empresarial deverão promover
+programas de sensibilização, de informação, de orientação e apoio, de educação fiscal, de regularidade dos
+contratos de trabalho e de adoção de sistemas informatizados e eletrônicos.
+
+A ideia é estimular a formalização de empreendimentos, de negócios e empregos, a ampliação da
+competitividade e a disseminação do associativismo entre as microempresas, os microempreendedores
+individuais, as empresas de pequeno porte e equiparados.
+
+     Art. 76-A. As instituições de representação e apoio empresarial deverão promover programas de sensibilização,
+     de informação, de orientação e apoio, de educação fiscal, de regularidade dos contratos de trabalho e de adoção
+     de sistemas informatizados e eletrônicos, como forma de estímulo à formalização de empreendimentos, de
+     negócios e empregos, à ampliação da competitividade e à disseminação do associativismo entre as
+     microempresas, os microempreendedores individuais, as empresas de pequeno porte e equiparados. (Incluído
+     pela Lei Complementar nº 147, de 2014)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                                158
+        www.estrategiaconcursos.com.br                                                                          295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+                            QUESTÕES COMENTADAS
+1. CEBRASPE/TRT 10-Analista/2025
+
+A respeito das consequências tributárias dos contratos de prestação de serviços de vigilância armada com
+cessão de mão de obra, julgue o item a seguir.
+
+As microempresas e as empresas de pequeno porte que prestam serviço de vigilância mediante cessão de
+mão de obra não podem recolher impostos e contribuições pelo regime do Simples Nacional.
+
+Comentário: A regra é que empresas que realizam cessão ou locação de mão de obra não podem recolher
+impostos e contribuições pelo regime do Simples Nacional (LC 123/06, art. 17, XII). Porém, há ressalva no §
+5º-H do art. 18, permitindo que determinadas atividades com cessão de mão de obra sejam tributadas no
+Anexo IV do Simples Nacional:
+
+§ 5o-H. A vedação de que trata o inciso XII do caput do art. 17 desta Lei Complementar não se aplica às
+atividades referidas no § 5o-C deste artigo. (os serviços de vigilância foram citados no § 5º-C).
+
+Gabarito: Errado
+
+2. CEBRASPE/SEFAZ-AC-AUDITOR/2024
+
+Suponha que determinado empresário tenha constituído uma empresa de pequeno porte e que tenha
+optado pelo regime do Simples Nacional, com base na Lei Complementar n.º 123/2006. Nesse caso, a
+empresa terá tratamento diferenciado e favorecido no que se refere ao recolhimento
+
+a) de taxas estaduais, mas não de impostos municipais.
+
+b) de taxas federais, mas não de taxas estaduais.
+
+c) de contribuições federais, mas não de impostos municipais.
+
+d) de impostos federais, mas não de contribuições federais.
+
+e) de impostos estaduais, mas não de taxas federais.
+
+Comentário: O Simples Nacional unifica a arrecadação de diversos impostos e contribuições federais,
+estaduais e municipais, mas não abrange taxas de nenhum ente federado. Assim, a empresa terá tratamento
+diferenciado no recolhimento de impostos estaduais, mas não de taxas federais. Conforme o art. 1º, I, da LC
+nº 123/2006, o regime unifica apenas impostos e contribuições, excluindo taxas.
+
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        159
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+3. CEBRASPE/SEFAZ-AC-TÉCNICO/2024
+
+Nos termos da Lei Complementar n.º 123/2006, o limite de aferição da classificação de sociedade empresária
+como microempresa ou empresa de pequeno porte é determinado com base
+
+a) no lucro antes dos impostos.
+
+b) no lucro líquido.
+
+c) na receita bruta.
+
+d) na receita líquida.
+
+e) no lucro bruto.
+
+Comentário: A classificação de microempresa (ME) ou empresa de pequeno porte (EPP) é feita com base na
+receita bruta anual. De acordo com o art. 3º, I e II, da LC nº 123/2006, considera-se ME a empresa com receita
+bruta anual igual ou inferior a R$ 360.000,00 e EPP aquela com receita bruta superior a R$ 360.000,00 e igual
+ou inferior a R$ 4.800.000,00.
+
+Gabarito: C
+
+4. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+É vedado o ingresso no Simples Nacional de empresa de pequeno porte de cujo capital participe outra pessoa
+jurídica.
+
+Comentário: A participação de pessoa jurídica no capital de empresa impede sua opção pelo Simples
+Nacional. Conforme o art. 3º, §4º, I, da LC nº 123/2006, não pode se beneficiar do regime a pessoa jurídica
+de cujo capital participe outra pessoa jurídica. Portanto, está certo!
+
+Gabarito: Certo
+
+5. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+São enquadradas no conceito de microempresa as sociedades empresárias cujo faturamento médio anual
+não ultrapasse R$ 81.000 ao mês.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         160
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Comentário: O limite mencionado refere-se ao Microempreendedor Individual (MEI), cujo faturamento
+anual não pode exceder R$ 81.000,00 (art. 18-A, §1º, da LC nº 123/2006). Para microempresas, o limite anual
+de receita bruta é de R$ 360.000,00 (art. 3º, I, da LC nº 123/2006). Assim sendo, está errado.
+
+Gabarito: Errado
+
+6. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O desenquadramento da sociedade empresária como microempresa ou empresa de pequeno porte implica
+a denúncia dos contratos por elas anteriormente firmados.
+
+Comentário: Está errado porque o desenquadramento não afeta contratos já firmados. Segundo o art. 3º,
+§3º, da LC nº 123/2006, o enquadramento ou desenquadramento não implica alteração, denúncia ou
+restrição em relação a contratos anteriormente firmados.
+
+Gabarito: Errado
+
+7. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O recolhimento unificado de tributos decorrente da opção da empresa pelo Simples Nacional não exclui a
+incidência da contribuição para o fundo de garantia do tempo de serviço devida na qualidade de contribuinte
+ou responsável tributário.
+
+Comentário: O Simples Nacional não abrange o FGTS. Conforme o art. 13, §1º, VIII, da LC nº 123/2006, o
+recolhimento unificado não exclui a incidência da contribuição para o FGTS, que deve ser recolhida
+separadamente. Logo, questão certa.
+
+Gabarito: Certo
+
+8. CEBRASPE/Pref Mossoró-Direito/2024
+
+Em relação às principais características do empresário individual, julgue o item seguinte.
+
+Ao empresário individual é permitida, apenas, a contratação de um empregado, cujo salário deve ser o piso
+da categoria ou um salário mínimo.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        161
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Comentário: Ao contrário do que foi afirmado, não há limitação ao número de empregados para o
+empresário individual. A restrição mencionada é aplicada ao Microempreendedor Individual (MEI), conforme
+o art. 18-C da LC nº 123/2006, que permite a contratação de um empregado com salário mínimo ou piso da
+categoria. O empresário individual comum pode contratar mais empregados sem essas limitações.
+
+Gabarito: Errado
+
+9. CEBRASPE/DATAPREV-Analista/2023
+
+Considerando as disposições do Código Tributário Nacional e da Lei Complementar n.º 123/2006, julgue o
+item a seguir.
+
+O tratamento tributário diferenciado e favorecido a ser dispensado às microempresas pelos entes
+federativos abrange não apenas a apuração e o recolhimento dos impostos e contribuições, mas também as
+obrigações acessórias.
+
+Comentário: A LC nº 123/2006 prevê tratamento diferenciado também quanto às obrigações acessórias.
+Conforme o art. 1º, I, o regime simplificado abrange a apuração, o recolhimento e as obrigações acessórias
+relativas aos impostos e contribuições. Portanto, questão certa.
+
+Gabarito: Certo
+
+10. CEBRASPE/PGE-SE-Procurador/2023
+
+À luz da Lei Complementar n.º 123/2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno
+Porte), assinale a opção correta.
+
+a) No cálculo da receita bruta, para efeito de enquadramento de microempresas (MEs) e empresas de
+pequeno porte (EPPs) no regime da Lei Complementar n.º 123/2006, deve-se computar as vendas
+canceladas.
+
+b) No tratamento de MEs e EPPs, a Lei Complementar n.º 123/2006 dispensa, para registro de empresários
+e pessoas jurídicas, o cumprimento de requisitos de segurança sanitária, metrologia e controle ambiental.
+
+c) O recolhimento mensal, em documento único de arrecadação, no regime do Simples Nacional, por parte
+de MEs e EPPs, não as exclui de todos os impostos e contribuições que possam incidir na sua atividade
+empresarial.
+
+d) Microempreendedores individuais (MEIs) podem optar pelo recolhimento de tributos na sistemática do
+Simples Nacional, desde que, entre outros requisitos, não possuam mais que cinco estabelecimentos.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       162
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+e) No caso de ME ou EPP tornar-se inadimplente para com órgão ou ente da administração pública federal,
+a cobrança do crédito não pode implicar inscrição da devedora no Cadastro Informativo de Créditos Não
+Quitados do Setor Público Federal (CADIN).
+
+Comentário:
+
+Letra A: Incorreta. As vendas canceladas não são computadas na receita bruta para fins de enquadramento
+(art. 3º, §1º, da LC nº 123/2006).
+
+Letra B: Incorreta. A lei prevê a simplificação, mas não a dispensa desses requisitos (art. 6º da LC nº
+123/2006).
+
+Letra C: Correta. O recolhimento unificado não exclui todos os impostos e contribuições. Alguns tributos
+permanecem fora do Simples Nacional e devem ser recolhidos separadamente (art. 13, §1º, da LC nº
+123/2006).                                                ==219a34==
+
+Letra D: Incorreta. O MEI não pode possuir mais de um estabelecimento (art. 18-A, §4º, II, da LC nº
+123/2006).
+
+Letra E: Incorreta. A ME ou EPP inadimplente pode ser inscrita no CADIN, desde que observados os
+procedimentos legais (art. 21-A da LC nº 123/2006).
+
+Gabarito: C
+
+11. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+O fato de uma sociedade empresária classificada como empresa de pequeno porte e optante do tratamento
+jurídico diferenciado previsto na mencionada LC passar a ter como sócia pessoa jurídica distinta é causa de
+exclusão do respectivo regime diferenciado, a partir do mês seguinte ao da ocorrência da respectiva situação
+impeditiva.
+
+Comentário: A empresa que tiver outra pessoa jurídica participando do seu capital social não poderá se
+beneficiar do tratamento jurídico diferenciado (Simples Nacional), para nenhum efeito legal, conforme art.
+3º, § 4º, da LC 123/06. Os efeitos da exclusão já começam a valer a partir do mês seguinte ao da ocorrência
+da respectiva situação impeditiva.
+
+Gabarito: Certo
+
+12. CEBRASPE/DPE RO/2023
+
+Conforme a Lei Complementar n.º 123/2006, em regra, as empresas optantes do Simples Nacional devem
+recolher, mensalmente,
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         163
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+I o imposto sobre a propriedade territorial rural (ITR).
+
+II o imposto sobre a renda da pessoa jurídica (IRPJ).
+
+III o imposto sobre produtos industrializados (IPI).
+
+IV a contribuição social sobre o lucro líquido (CSLL).
+
+V a contribuição para o financiamento da seguridade social (COFINS).
+
+Estão certos apenas os itens
+
+a) I e V.
+
+b) III e IV.
+
+c) I, II e V.
+
+d) I, II, III e IV.
+
+e) II, III, IV e V.
+
+Comentário:
+
+Item I: O ITR não está incluído no âmbito do Simples Nacional, conforme art. 13, § 1º, da LC 123/06. Errado.
+
+Item II: O IRPJ está incluído no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item III: O IPI está incluído no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item IV: A CSLL está incluída no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item V: A COFINS está incluída no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Gabarito: E
+
+13. CEBRASPE/PPNT (PETROBRAS)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023
+
+No que se refere à administração tributária, julgue o item a seguir.
+
+O simples nacional, também conhecido como simples federal, unificou os sistemas de tributação de
+microempresas e pequenas empresas, englobando oito tributos distintos.
+
+Comentário: Embora o Simples Nacional englobe realmente 8 tributos, nos termos do art. 13, da LC 123/06,
+tal regime não se confunde com o simples federal, e é, na verdade, o seu substituto.
+
+Gabarito: Errado
+
+            Receita Federal (Analista Tributário) Direito Tributário                                     164
+            www.estrategiaconcursos.com.br                                                               295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+14. CEBRASPE/ATM Pref Fortaleza/2023
+
+Considerando a competência tributária prevista na Constituição Federal de 1988 e no Código Tributário
+Nacional, julgue o item a seguir.
+
+O microempreendedor individual (MEI) tem autorização legal para, caso queira, aderir ao recolhimento dos
+impostos e das contribuições abrangidos pelo Simples Nacional.
+
+Comentário: É o que prevê o caput do art. 18-A, da LC 123/06:
+
+       Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e
+       contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da
+       receita bruta por ele auferida no mês, na forma prevista neste artigo.
+
+Gabarito: Certo
+
+15. CEBRASPE/MPE-PA-PROMOTOR/2023
+
+Caso a microempresa vencedora de licitação pública possua restrição na comprovação de regularidade fiscal
+ou trabalhista, ser-lhe-á concedido, para regularizar a situação, a contar da declaração do vencedor do
+certame, o prazo de
+
+a) 10 dias úteis, vedada a prorrogação.
+
+b) 15 dias úteis, prorrogável por igual período.
+
+c) 5 dias úteis, prorrogável por igual período.
+
+d) 10 dias úteis, prorrogável por igual período.
+
+e) 15 dias úteis, vedada a prorrogação.
+
+Comentário: A regra relativa à comprovação de regularidade fiscal e trabalhista encontra-se prevista no art.
+43 da LC 123/06:
+
+       Art. 43. As microempresas e as empresas de pequeno porte, por ocasião da participação em certames
+       licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de
+       regularidade fiscal e trabalhista, mesmo que esta apresente alguma restrição.
+
+       § 1º Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será assegurado
+       o prazo de cinco dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for
+       declarado vencedor do certame, prorrogável por igual período, a critério da administração pública,
+       para regularização da documentação, para pagamento ou parcelamento do débito e para emissão de
+       eventuais certidões negativas ou positivas com efeito de certidão negativa.
+
+Veja, portanto, que o prazo é de 5 dias úteis, prorrogável por igual período.
+
+Gabarito: C
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        165
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+16. CEBRASPE/NeR (TJ SC)/TJ SC/Remoção/2023
+
+Na Lei Complementar n.º 123/2006, a definição “órgão ou instituição de natureza pública ou privada que
+tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o
+desenvolvimento da ciência, da tecnologia e da inovação” refere-se a
+
+a) instituição de apoio.
+
+b) órgão de promoção da inovação.
+
+c) instituição científica e tecnológica.
+
+d) agência de fomento.
+
+e) núcleo de inovação tecnológica.
+
+Comentário: O art. 64 da LC 123/06 traz diversos conceitos definidos pela legislação relativamente ao
+estímulo à inovação, por parte das microempresas e empresas de pequeno porte.
+
+       Art. 64. Para os efeitos desta Lei Complementar considera-se:
+
+       I - inovação: a concepção de um novo produto ou processo de fabricação, bem como a agregação de
+       novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais
+       e efetivo ganho de qualidade ou produtividade, resultando em maior competitividade no mercado;
+
+       II - agência de fomento: órgão ou instituição de natureza pública ou privada que tenha entre os seus
+       objetivos o financiamento de ações que visem a estimular e promover o desenvolvimento da ciência,
+       da tecnologia e da inovação;
+
+       III - Instituição Científica e Tecnológica - ICT: órgão ou entidade da administração pública que tenha
+       por missão institucional, dentre outras, executar atividades de pesquisa básica ou aplicada de caráter
+       científico ou tecnológico;
+
+       IV - núcleo de inovação tecnológica: núcleo ou órgão constituído por uma ou mais ICT com a finalidade
+       de gerir sua política de inovação;
+
+       V - instituição de apoio: instituições criadas sob o amparo da Lei no 8.958, de 20 de dezembro de
+       1994, com a finalidade de dar apoio a projetos de pesquisa, ensino e extensão e de desenvolvimento
+       institucional, científico e tecnológico.
+
+       VI - instrumentos de apoio tecnológico para a inovação: qualquer serviço disponibilizado
+       presencialmente ou na internet que possibilite acesso a informações, orientações, bancos de dados
+       de soluções de informações, respostas técnicas, pesquisas e atividades de apoio complementar
+       desenvolvidas pelas instituições previstas nos incisos II a V deste artigo.
+
+Como se percebe, a definição do inciso II se encaixa exatamente no que foi previsto no enunciado. Logo, a
+resposta é agência de fomento.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        166
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Gabarito: D
+
+17. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+Nos termos da referida LC, o fato de uma sociedade limitada ser considerada empresa de pequeno porte não
+desobriga os sócios de realizarem reuniões e assembleias na forma estabelecida pelo Código Civil para suas
+deliberações.
+
+Comentário: No tocante às regras sobre deliberações sociais e da estrutura organizacional, previstas na LC
+123/06, o seu art. 70 salienta que as MEs e EPPs são desobrigadas da realização de reuniões e assembleias:
+
+       Art. 70. As microempresas e as empresas de pequeno porte são desobrigadas da realização de
+       reuniões e assembléias em qualquer das situações previstas na legislação civil, as quais serão
+       substituídas por deliberação representativa do primeiro número inteiro superior à metade do capital
+       social.
+
+Gabarito: Errado
+
+18. CEBRASPE/Proc DF/PG DF/2022
+
+Os representantes do DF no Comitê Gestor do Simples Nacional, vinculado ao Ministério da Economia, e no
+Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e
+Negócios serão indicados pela Secretaria Especial da Receita Federal do Brasil.
+
+Comentário: O art. 2º, da LC 123/06, prevê que o Simples Nacional será gerido pelo Comitê Gestor do Simples
+Nacional, pelo Fórum Permanente das Microempresas e Empresas de Pequeno Porte e pelo Comitê para
+Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios – CGSIM.
+
+Em relação ao Comitê Gestor do Simples Nacional e ao CGSIM, foi estabelecido que:
+
+       Art. 2º
+
+       (...)
+
+       § 2º Os representantes dos Estados e do Distrito Federal nos Comitês referidos nos incisos I e III
+       do caput deste artigo serão indicados pelo Conselho Nacional de Política Fazendária - CONFAZ e os
+       dos Municípios serão indicados, um pela entidade representativa das Secretarias de Finanças das
+       Capitais e outro pelas entidades de representação nacional dos Municípios brasileiros.
+
+Gabarito: Errado
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        167
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+19. CEBRASPE/ATrib (Pref Maringá)/2022
+
+Pode se beneficiar da condição de microempresa, segundo o Estatuto Nacional da Microempresa e da
+Empresa de Pequeno Porte, a pessoa jurídica
+
+a) de cujo capital participe outra pessoa jurídica.
+
+b) que seja filial, no país, de pessoa jurídica sediada no exterior.
+
+c) constituída sob a forma de cooperativa de consumo.
+
+d) que exerça atividade de seguros privados.
+
+e) constituída sob a forma de sociedade por ações.
+
+Comentário:
+
+Alternativa A: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Alternativa B: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Alternativa C: Como regra, as cooperativas são vedadas pelo art. 3º, § 4º, da LC 123/06. Porém, foi criada a
+ressalva em relação às cooperativas de consumo. Correto.
+
+Alternativa D: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Alternativa E: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Gabarito: C
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        168
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+      QUESTÕES COMPLEMENTARES COMENTADAS
+
+Simples Nacional
+1.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+O SIMPLES Nacional, instituído pela Lei Complementar 123/ 2006, visa a ajudar na formalização das micro e
+pequenas empresas, mas não é uma opção para todas que tenham receitas inferiores aos limites legais.
+Podem aderir ao SIMPLES
+a) As cooperativas de consumo.
+b) As empresas cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação
+de pessoalidade, subordinação e habitualidade.
+c) As empresas que participem do capital de outra pessoa jurídica.
+d) As empresas que sejam filiais no país de pessoas jurídicas com sede no exterior.
+e) As empresas que sejam agências no país de pessoas jurídicas com sede no exterior.
+Gabarito: A
+Comentário:
+Letra A: Certa. Conforme o art. 3º, § 4º, inciso VI, da Lei Complementar nº 123/2006, as cooperativas são
+vedadas de receber o tratamento diferenciado do Simples Nacional, ressalvadas as cooperativas de
+consumo.
+Letra B: Errada. De acordo com o art. 3º, § 4º, inciso XI, da Lei Complementar nº 123/2006, empresas cujos
+titulares ou sócios guardem relação de pessoalidade, subordinação e habitualidade com o contratante do
+serviço não podem aderir ao Simples Nacional.
+Letra C: Errada. O art. 3º, § 4º, inciso VII, da Lei Complementar nº 123/2006 proíbe a participação no capital
+de outra pessoa jurídica.
+Letra D: Errada. Nos termos do art. 3º, § 4º, inciso II, da Lei Complementar nº 123/2006, filiais de pessoas
+jurídicas com sede no exterior são impedidas de aderir ao Simples Nacional.
+Letra E: Errada. Conforme o art. 3º, § 4º, inciso II, da Lei Complementar nº 123/2006, agências de pessoas
+jurídicas com sede no exterior também são proibidas de aderir ao Simples Nacional.
+2.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+A Sociedade Empresária GrowEver aderiu ao Simples Nacional em 2016 e, no mês de agosto de 2022,
+acabou extrapolando em 15% (quinze por cento) o limite de receita bruta para as Empresas de Pequeno
+Porte, apenas vendendo para o mercado nacional.
+Assinale a opção que indica o que a Sociedade Empresária deverá comunicar à Secretaria da Receita
+Federal.
+
+           Receita Federal (Analista Tributário) Direito Tributário                                        169
+           www.estrategiaconcursos.com.br                                                                  295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+a) Sua exclusão do Simples Nacional em setembro de 2022 por ter extrapolado o limite de receita bruta em
+mais de 10%.
+b) O prazo de readequação da receita bruta até agosto de 2023.
+c) Sua exclusão do Simples Nacional em janeiro de 2023 por ter extrapolado o limite de receita bruta em
+menos de 20%.
+d) A extrapolação dos limites e se submeter a novas alíquotas.
+e) Só ter receitas do mercado nacional, o que impedirá sua exclusão do Simples Nacional.
+Gabarito: C
+Comentário:
+Letra A: Errada. Não há previsão de exclusão imediata em setembro de 2022 por excesso de 15% no limite
+de receita bruta.
+Letra B: Errada. Não existe prazo legal de readequação da receita bruta até agosto de 2023.
+Letra C: Certa. De acordo com o art. 3º, §§ 9º e 9º-A, da Lei Complementar nº 123/2006, quando o excesso
+de receita bruta for inferior a 20%, a exclusão do Simples Nacional ocorre no ano-calendário subsequente,
+ou seja, em janeiro de 2023.
+Letra D: Errada. A empresa deve ser excluída, não apenas submeter-se a novas alíquotas.
+Letra E: Errada. A origem das receitas (mercado nacional) não impede a exclusão do Simples Nacional
+quando há extrapolação do limite de receita bruta.
+3.        FGV - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área VII/2023
+Avalie se a Lei Complementar no 123/206, ao estabelecer normas gerais relativas ao tratamento
+diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte, no âmbito dos
+Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dispõe que não poderão ser exigidos
+pelos órgãos e entidades envolvidos na abertura e fechamento de empresas,
+I. quaisquer documentos adicionais aos requeridos pelos órgãos executores do Registro Público de
+Empresas Mercantis e Atividades Afins e do Registro Civil de Pessoas Jurídicas, inclusive nos casos de
+autorização prévia para funcionamento.
+II. documento de propriedade ou contrato de locação do imóvel onde será instalada a sede, filial ou outro
+estabelecimento, salvo para comprovação do endereço indicado.
+III. comprovação de regularidade de prepostos dos empresários ou pessoas jurídicas com seus órgãos de
+classe, sob qualquer forma, como requisito para deferimento de ato de inscrição, alteração ou baixa de
+empresa, bem como para autenticação de instrumento de escrituração.
+Está correto o que se afirma em
+a) I, II e III.
+b) I, apenas.
+c) I e II, apenas.
+d) III, apenas.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário                                   170
+           www.estrategiaconcursos.com.br                                                             295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+e) II e III, apenas.
+Gabarito: E
+Comentário:
+Item I: Errada. De acordo com o art. 10, I, da LC nº 123/2006, excetuados os casos de autorização prévia,
+não serão exigidos documentos adicionais. Assim, havendo necessidade de autorização prévia, a exigência
+de documentos adicionais é possível.
+Item II: Certa. Conforme o art. 10, II, da LC nº 123/2006, não se pode exigir documento de propriedade ou
+contrato de locação do imóvel, salvo para comprovar o endereço, o que confirma o tratamento favorecido.
+Item III: Certa. Nos termos do art. 10, III, da LC nº 123/2006, não se admite a exigência de comprovação de
+regularidade de prepostos dos empresários ou pessoas jurídicas com seus órgãos de classe como condição
+para deferimento de inscrição, alteração, baixa da empresa ou autenticação de livros.
+4.        FGV/Câmara Mun. Fortaleza-Advogado/2024
+Determinada Lei Complementar Federal, ao disciplinar o tratamento diferenciado e favorecido às
+microempresas e empresas de pequeno porte, possui dispositivo com a seguinte redação:
+Art. XX. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa
+ou empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com
+as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+É correto afirmar que a previsão legal acima
+a) viola o princípio da isonomia tributária, pois confere tratamento desigual às empresas que possuam
+débitos tributários.
+b) é inconstitucional, pois trata-se de restrição desproporcional e desarrazoada ao exercício da atividade
+econômica.
+c) viola o princípio da livre iniciativa, pois restringe a atividade econômica em razão de débitos tributários.
+d) configura meio ilícito de coação a pagamento de tributo.
+e) representa forma indireta de se reprovar a infração das leis fiscais e de se garantir a neutralidade, com
+enfoque na livre concorrência.
+Gabarito: E
+Comentário: A questão é bem direta e cobra a jurisprudência do Supremo Tribunal Federal Segundo o STF
+(RE 627543), trata-se de forma indireta de reprovar a infração às leis fiscais, garantindo neutralidade e livre
+concorrência entre as empresas que cumprem suas obrigações.
+5.        FGV/Câmara dos Deputados-Consultor/2023
+O Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, conhecido como Simples Nacional,
+foi criado com a edição da Lei Complementar nº 123, de 14 de dezembro de 2006, com o objetivo de
+estabelecer normas gerais para um tratamento diferenciado e favorecido às microempresas e empresas de
+pequeno porte.
+Acerca do Simples Nacional, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+           Receita Federal (Analista Tributário) Direito Tributário                                          171
+           www.estrategiaconcursos.com.br                                                                    295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+( ) O sistema unificado de arrecadação do Simples abrange todos os impostos federais, além do ICMS e do
+ISS.
+( ) As alíquotas, de acordo com as faixas de receita bruta, são idênticas para todos os tipos de atividades das
+empresas inscritas no Simples Nacional.
+( ) Receita bruta máxima, para fins de enquadramento de empresas de pequeno porte no Simples nacional,
+é de R$ 4.800.000,00 anuais, sem prejuízo da adição de eventuais receita decorrentes da exportação de
+mercadorias ou serviços, desde que estas receitas também não excedam o limite de R$ 4.800.000,00.
+As afirmativas são, respectivamente,
+a) F - F - V.
+b) F - V - V.
+c) F - F - F.
+d) V - F - V.
+e) V - V - F.
+Gabarito: A
+Comentário:
+Item I: Errada. De acordo com o art. 13 da LC nº 123/2006, nem todos os tributos federais são abrangidos
+pelo Simples Nacional, ficando fora, por exemplo, II, IE, IOF e ITR.
+Item II: Errada. Conforme a LC nº 123/2006, as alíquotas variam de acordo com o tipo de atividade e o
+respectivo Anexo da Lei Complementar, não sendo idênticas para todas as empresas.
+Item III: Certa. Nos termos do art. 3º, §14, da LC nº 123/2006, a receita bruta máxima para EPP é de R$
+4.800.000,00 anuais, aplicando-se também separadamente ao mercado interno e às exportações, sem
+ultrapassar o mesmo limite.
+6.        FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+O único tributo e respectivo fato gerador abarcado pelo regime do Simples Nacional indicado abaixo é:
+a) o Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
+b) a Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+c) o IPI incidente na importação de bens;
+d) a Contribuição Social sobre o Lucro Líquido (CSLL);
+e) o ISS devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte.
+Gabarito: D
+Comentário:
+Letra A: Errada. De acordo com o art. 13, §1º, VI, da LC nº 123/2006, o IR sobre ganhos de capital na
+alienação de bens do ativo não está incluído no Simples Nacional.
+
+           Receita Federal (Analista Tributário) Direito Tributário                                         172
+           www.estrategiaconcursos.com.br                                                                   295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+Letra B: Errada. Nos termos do art. 13, §1º, IX, da LC nº 123/2006, a contribuição para a manutenção da
+Seguridade Social relativa ao trabalhador não é abrangida pelo Simples.
+Letra C: Errada. Conforme o art. 13, §1º, XII, da LC nº 123/2006, o IPI incidente na importação não integra o
+Simples Nacional.
+Letra D: Certa. Segundo o art. 13, III, da LC nº 123/2006, a CSLL é incluída no Simples Nacional, sendo
+recolhida de forma unificada.
+Letra E: Errada. De acordo com o art. 13, §1º, XIV, da LC nº 123/2006, o ISS sujeito à substituição tributária
+ou à retenção na fonte não integra o Simples Nacional.
+
+7.        FGV - N e R (TJ SE)/TJ SE/Provimento/2023
+O Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e
+Empresas de Pequeno Porte (Simples Nacional), previsto na Lei Complementar nº 123/2006, abrange:
+a) Imposto sobre a Renda da Pessoa Jurídica; Contribuição Social sobre o Lucro Líquido; Imposto sobre
+Serviços de Qualquer Natureza;
+b) Imposto sobre a Renda da Pessoa Jurídica; Imposto sobre a Propriedade Territorial Rural; Imposto sobre
+Serviços de Qualquer Natureza;
+c) Contribuição Social sobre o Lucro Líquido; IPI incidente na importação de bens e serviços; ICMS devido
+por ocasião do desembaraço aduaneiro;
+d) Imposto sobre a Renda da Pessoa Jurídica; Imposto sobre a Importação de Produtos Estrangeiros;
+Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários;
+e) Imposto sobre a Exportação de Produtos Nacionais ou Nacionalizados; Imposto sobre Operações de
+Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários; ICMS devido por ocasião do
+desembaraço aduaneiro.
+Gabarito: A
+Comentário:
+Letra A: Certa. De acordo com o art. 13, I e VIII, da LC nº 123/2006, o IRPJ, a CSLL e o ISS estão abrangidos
+pelo Simples Nacional.
+Letra B: Errada. O ITR não integra o recolhimento unificado do Simples Nacional (art. 13, §1º, IV, da LC nº
+123/2006).
+Letra C: Errada. O IPI incidente na importação e o ICMS devido no desembaraço aduaneiro não são
+abrangidos pelo Simples Nacional (art. 13, §1º, XII e XIII, da LC nº 123/2006).
+Letra D: Errada. O II e o IOF não integram o Simples Nacional, nos termos do art. 13, §1º, I e II, da LC nº
+123/2006.
+Letra E: Errada. O IE e o ICMS na importação não fazem parte do recolhimento unificado (art. 13, §1º, III e
+XIII, da LC nº 123/2006).
+
+           Receita Federal (Analista Tributário) Direito Tributário                                        173
+           www.estrategiaconcursos.com.br                                                                  295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+8.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+É sabido que o instituto do MEI (Microempreendedor Individual) é uma política pública que tem por
+objetivo a formalização de pequenos empreendimentos e a inclusão social e previdenciária.
+Sobre o MEI, assinale a alternativa correta.
+a) É vedado impor restrições ao MEI relativamente ao exercício de profissão ou participação em licitações,
+em função da sua natureza jurídica, exceto quando for contratado para prestar serviços de hidráulica,
+eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+b) A formalização de MEI tem caráter eminentemente econômico ou fiscal.
+c) O MEI é modalidade de microempresa.
+d) O empreendedor que exerce atividades de industrialização, comercialização e prestação de serviços no
+âmbito rural e efetuar seu registro como MEI, perderá a condição de segurado especial da Previdência
+Social.
+e) Para o transportador autônomo de cargas inscrito como MEI, o limite de receita bruta anual será de R$
+81.000,00 (oitenta e um mil reais).
+Gabarito: C
+Comentário:
+Letra A: Errada. De acordo com o art. 18-E, §4º, da LC nº 123/2006, é vedado impor restrições ao MEI em
+função de sua natureza jurídica, inclusive quando contratado para os serviços ali elencados.
+Letra B: Errada. Nos termos do art. 18-E, §1º, da LC nº 123/2006, a formalização do MEI não tem caráter
+eminentemente econômico ou fiscal.
+Letra C: Certa. De acordo com o art. 18-E, §3º, da LC nº 123/2006, o MEI é uma modalidade de
+microempresa.
+Letra D: Errada. O art. 18-E, §5º, da LC nº 123/2006, prevê que o empreendedor rural ao se registrar como
+MEI não perde a condição de segurado especial.
+Letra E: Errada. Segundo o art. 18-F, I, da LC nº 123/2006, o limite de receita bruta anual para o
+transportador autônomo de cargas MEI é de R$ 251.600,00.
+9.        FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+Acerca do microempreendedor individual (MEI) e sua sistemática prevista na Lei Complementar nº
+123/2006, é correto afirmar que:
+a) a tributação municipal do IPTU deverá assegurar tratamento mais favorecido ao MEI para realização de
+sua atividade no mesmo local em que residir;
+b) poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural, com dois empregados que
+recebam exclusivamente um salário mínimo ou o piso salarial da categoria profissional;
+c) o MEI constituído na forma de startup pode optar pela sistemática de recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita
+bruta por ele auferida no mês;
+
+
+           Receita Federal (Analista Tributário) Direito Tributário                                    174
+           www.estrategiaconcursos.com.br                                                              295
+
+                                         
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) a opção pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta auferida no mês pelo MEI, poderá ser alterada dentro
+do mesmo ano-calendário;
+e) o MEI poderá ter sua inscrição automaticamente cancelada somente após o período de 24 meses
+consecutivos sem recolhimento ou declarações, independentemente de qualquer notificação, devendo a
+informação ser publicada no Portal do Empreendedor, na forma regulamentada pelo CGSIM.
+Gabarito: A
+Comentário:
+Letra A: Certa. Conforme o art. 18-D da LC nº 123/2006, o IPTU deverá assegurar tratamento mais
+favorecido ao MEI para exercer a atividade no mesmo local em que residir, mediante a menor alíquota
+vigente.
+Letra B: Errada. De acordo com o art. 18-C da LC nº 123/2006, o MEI pode ter um único empregado, não
+dois.
+Letra C: Errada. Segundo o art. 18-A, §4º, V, da LC nº 123/2006, o MEI constituído na forma de startup não
+pode optar pela sistemática de recolhimento do Simples em valores fixos mensais.
+Letra D: Errada. Nos termos do art. 18-A, §5º, I, da LC nº 123/2006, a opção é irretratável para todo o
+ano-calendário, não podendo ser alterada dentro do mesmo ano.
+Letra E: Errada. Conforme o art. 18-A, §15-B, da LC nº 123/2006, o cancelamento automático do MEI ocorre
+após 12 meses, e não 24.
+10.    FGV/Pref. Niterói-Procurador/2023
+A Empresa Payafter, inscrita no Simples Nacional, atrasou o envio da Declaração de Informações
+Socioeconômicas e Fiscais (Defis) em determinado ano, sem atrasar nenhum pagamento mensal.
+Posteriormente, enviou a declaração, demonstrando que recolheu os tributos devidos e declarou as
+receitas recebidas corretamente.
+Em relação à multa aplicada, é correto afirmar que:
+a) deve ser mantida, pois se trata de multa pelo descumprimento de obrigação acessória;
+b) não deve ser mantida, pois a omissão de entrega da declaração foi objeto de regularização posterior;
+c) só deve ser mantida se houver divergência entre receitas recebidas e valores recolhidos no Simples;
+d) não deve ser mantida, pois todos os recolhimentos mensais foram corretos;
+e) a referida declaração é fato gerador de obrigação principal.
+Gabarito: A
+Comentário: De início, cumpre ressaltar que a Defis encontra-se prevista no art. 25, da LC 123/06.
+Letra A: Certa. De acordo com o art. 113, §3º, do CTN, o descumprimento de obrigação acessória gera
+obrigação principal relativa à penalidade. A entrega atrasada da declaração, ainda que com tributos pagos
+corretamente, caracteriza descumprimento de obrigação acessória, sujeitando o contribuinte à multa.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          175
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra B: Errada. A posterior regularização não exclui a penalidade decorrente do atraso, pois a multa é pela
+obrigação acessória descumprida (art. 113, §3º, do CTN).
+Letra C: Errada. A incidência da multa por atraso na entrega da declaração não depende de divergência de
+valores, mas do descumprimento do prazo (art. 113, §3º, do CTN).
+Letra D: Errada. O pagamento correto dos tributos principais não afasta a multa pelo atraso na obrigação
+acessória (art. 113, §3º, do CTN).
+Letra E: Errada. A declaração não é fato gerador de obrigação principal, mas obrigação acessória, conforme
+art. 113, §2º, do CTN.
+11.     FGV/SEFAZ-MT-FISCAL TRIBUTÁRIO/2023
+O Simples Nacional é um regime especial unificado de arrecadação de tributos que atua como grande
+facilitador do cumprimento das obrigações tributárias por parte das Microempresas (ME) e Empresas de
+Pequeno Porte (EPP), pois abrange, em uma única cobrança, uma série de tributos devidos pelos sujeitos
+passivos tributários.
+A respeito das incidências de ICMS cujo recolhimento está abarcado pelo Simples Nacional, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com carnes e suas
+preparações não está abarcado pelo regime do Simples Nacional.
+( ) O ICMS devido por ME nas operações sujeitas ao regime de substituição tributária com telhas e caixas
+d’água está abarcado pelo regime do Simples Nacional.
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com produtos
+cerâmicos não está abarcado pelo regime do Simples Nacional.
+As afirmativas são, respectivamente,
+a) V – V – F.
+b) V – F – V.
+c) V – F – F.
+d) F – V – F.
+e) F – F – V.
+Gabarito: B
+Comentário: Questão extremamente difícil, por explorar detalhes do “gigante” dispositivo da LC 123/06.
+Vamos falar sobre isso abaixo.
+Item I: Certa. Conforme o art. 13, §1º, XIII, "a", da LC nº 123/2006, o ICMS devido em substituição
+tributária, inclusive sobre carnes e suas preparações, não integra o Simples Nacional.
+Item II: Errada. De acordo com o art. 13, §1º, XIII, "a", da LC nº 123/2006, operações com telhas e caixas
+d’água sujeitas à substituição tributária também não fazem parte do regime do Simples Nacional.
+Item III: Certa. Nos termos do art. 13, §1º, XIII, "a", da LC nº 123/2006, o ICMS devido na substituição
+tributária com produtos cerâmicos igualmente não é abarcado pelo Simples Nacional.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        176
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+12.      FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+Acerca da retenção na fonte de ISS das microempresas ou das empresas de pequeno porte optantes pelo
+Simples Nacional que observam o disposto no Art. 3º da Lei Complementar nº 116/2003, analise as
+afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).
+( ) A alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá à
+alíquota efetiva de ISS a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês
+anterior ao da prestação.
+( ) Na hipótese de a microempresa ou empresa de pequeno porte estar sujeita à tributação do ISS no
+Simples Nacional por valores fixos mensais, caberá a retenção na fonte pela alíquota efetiva de 2%.
+( ) Não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no
+documento fiscal for inferior à devida, hipótese em que o recolhimento dessa diferença será realizado em
+guia própria do Município.
+A sequência correta é:
+a) V, V, V;
+b) V, V, F;
+c) V, F, V;
+d) F, V, F;
+e) F, F, V.
+Gabarito: C
+Comentário:
+Item I: Certa. De acordo com o art. 21, §4º, I, da LC nº 123/2006, a alíquota a ser informada corresponde à
+alíquota efetiva do mês anterior.
+Item II: Errada. Conforme o art. 21, §4º, IV, da LC nº 123/2006, se o ISS for tributado por valores fixos
+mensais, não cabe retenção na fonte.
+Item III: Certa. Nos termos do art. 21, §4º, VI, da LC nº 123/2006, se a alíquota informada for inferior à
+devida, o prestador continua responsável e recolhe a diferença em guia própria do Município.
+13.      FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+A Lei Complementar nº 123/2006 veicula algumas situações que, caso presentes, impedem a microempresa
+ou empresa de pequeno porte de recolher os impostos e contribuições na forma do Simples Nacional.
+A única situação que não impede a adesão ao Simples Nacional por parte de tais empresas é:
+a) possuir débito de foro com a União cuja exigibilidade não esteja suspensa;
+b) prestar serviço de transporte intermunicipal de passageiros por via fluvial;
+c) exercer atividade de produção de munição;
+d) exercer atividade de produção de cervejas sem álcool por cervejaria de grande porte;
+e) realizar cessão de mão de obra.
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                      177
+          www.estrategiaconcursos.com.br                                                                295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Gabarito: B
+Comentário:
+Letra A: Errada. De acordo com o art. 17, V, da LC nº 123/2006, possuir débito com o INSS ou Fazendas
+Públicas impede a opção pelo Simples Nacional, mas débito de foro da União não está previsto como
+impedimento.
+Letra B: Certa. Conforme o art. 17, VI, da LC nº 123/2006, a prestação de serviço de transporte
+intermunicipal e interestadual de passageiros impede o Simples, exceto quando se tratar de transporte
+fluvial, caso em que não há impedimento.
+Letra C: Errada. De acordo com o art. 17, X, “a”, da LC nº 123/2006, a produção de munições impede a
+opção pelo Simples.
+Letra D: Errada. Nos termos do art. 17, X, “b”, da LC nº 123/2006, a produção de cerveja sem álcool por
+estabelecimento de grande porte também impede a opção. Por outro lado, foi admitida a venda por micro
+e pequenas cervejarias.
+Letra E: Errada. Conforme o art. 17, XII, da LC nº 123/2006, a empresa que realize cessão de mão de obra
+não pode optar pelo Simples Nacional.
+14.    FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+A característica e a facilidade do Regime Especial Unificado de Arrecadação de Tributos e Contribuições
+devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional é o recolhimento mensal,
+mediante documento único de arrecadação de tributos.
+Sobre os tributos que serão recolhidos neste documento único, assinale a alternativa correta.
+a) A contribuição para manutenção da Seguridade Social, relativa ao trabalhador e o Imposto sobre a
+Renda da Pessoa Jurídica – IRPJ.
+b) O imposto sobre Produtos Industrializados – IPI, exceto o incidente na importação de bens e serviços e a
+contribuição Social sobre o Lucro Líquido – CSLL.
+c) A contribuição para o PIS/Pasep incidente na importação de bens e serviços e Imposto sobre Operações
+Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação – ICMS.
+d) A contribuição previdenciária patronal de prestação de serviços advocatícios e Imposto sobre Serviços
+de Qualquer Natureza – ISS.
+e) O imposto sobre a Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo
+permanente e a Contribuição para o Financiamento da Seguridade Social – COFINS.
+Gabarito: B
+Comentário:
+Letra A: Errada. Conforme o art. 13, VI e §1º, IX, da LC nº 123/2006, a contribuição para manutenção da
+Seguridade Social, relativa ao trabalhador, não integra o Simples.
+Letra B: Certa. Nos termos do art. 13, II e III, da LC nº 123/2006, o IPI (salvo o incidente na importação) e a
+CSLL estão incluídos no documento único do Simples Nacional.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            178
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra C: Errada. De acordo com o art. 13, §1º, XII, da LC nº 123/2006, o PIS/Pasep incidente na importação
+não faz parte do Simples Nacional, ainda que o ICMS em operações internas esteja incluído.
+Letra D: Errada. O art. 13, VI e art. 18, §5º-C da LC nº 123/2006 exclui a contribuição previdenciária patronal
+dos serviços advocatícios do Simples, embora o ISS esteja incluído. É um detalhe difícil de memorizar, mas
+vale a pena estudar.
+Letra E: Errada. Segundo o art. 13, §1º, VI, da LC nº 123/2006, o IR sobre ganhos de capital na alienação de
+bens do ativo permanente não integra o documento único, apesar da COFINS estar incluída.
+
+15.    FGV/SEFAZ-BA/2022
+A sociedade empresária X optou pela sistemática de apuração e recolhimento simplificado do Simples
+Nacional e auferiu receita bruta de
+(i) R$ 350.000,00, no ano-calendário de 2018;
+(ii) R$ 1.500.000,00, no ano-calendário de 2019;
+(iii) R$ 4.500.000,00, no ano-calendário de 2020; e
+(iv) R$ 6.500.000,00, no ano-calendário de 2021.
+Sobre a hipótese descrita e considerando o total de receita bruta auferida no ano-calendário, assinale a
+afirmativa correta.
+A) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa, mantendo-se
+em 2019; em 2020 foi reenquadrada como empresa de pequeno porte; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+B) A receita bruta auferida em 2018 enquadra a sociedade empresária X como empresa de pequeno porte,
+mantendo-se em 2019 e 2020; sendo excluída do Simples Nacional em 2021, no mês subsequente à
+ocorrência do excesso.
+C) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+D) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte; e em 2020, no mês no subsequente à ocorrência do
+excesso, foi excluída do Simples Nacional, mantendo-se a exclusão no ano seguinte.
+E) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020 e 2021.
+Comentário: Consoante à previsão legal da LC 123/96 temos que:
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e
+o empresário a que se refere o art. 966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil),
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            179
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+devidamente registrados no Registro de Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas,
+conforme o caso, desde que:
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$
+360.000,00 (trezentos e sessenta mil reais); e
+II - no caso de empresa de pequeno porte, aufira, em cada ano-calendário, receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e
+oitocentos mil reais).
+Portanto:
+(i) R$ 350.000,00, no ano-calendário de 2018, enquadra-se como microempresa;
+(ii) R$ 1.500.000,00, no ano-calendário de 2019, enquadra-se como empresa de pequeno porte, porque
+extrapolou o limite das ME;
+(iii) R$ 4.500.000,00, no ano-calendário de 2020, continua como EPP, porque está inferior ao limite de 4,8
+milhões;
+(iv) R$ 6.500.000,00, no ano-calendário de 2021, foi excluída do SN no mês em que ocorreu o excesso,
+porque extrapolou o limite em mais de 20% (5,76 milhões), caso tivesse extrapolado o limite até 20% o
+desenquadramento aconteceria apenas no ano subsequente.
+Letra A: Ela não se manteve como ME em 2019. Alternativa errada.
+Letra B: A receita de 2018 enquadrou a empresa como ME. Alternativa errada.
+Letra C: Conforme explicação da introdução supracitada. Alternativa correta.
+Letra D: Não houve excesso em 2019. Alternativa errada.
+Letra E: Em 2021 ela foi excluída do SN no mês subsequente ao excesso superior a 20% do limite.
+Alternativa errada.
+Gabarito: Letra C
+16.    FGV/SEFAZ-AM-Auditor/2022
+A LC 123/2006 criou a figura do Microempreendedor Individual – MEI no claro intuito de permitir a
+formalização de mais trabalhadores sem também permitir que outros busquem este regime de tributação
+apenas para arrecadar menos.
+Assinale a opção que indica uma regra para ser MEI.
+A) Exercer qualquer atividade de contribuinte individual.
+B) Receber no máximo 2 salários mínimos por mês de média anual pela atividade.
+C) Ser sócio de mais de uma empresa, desde que a remuneração não passe de 3 salários mínimos.
+D) Contratar, no máximo, 3 funcionários.
+E) Não ser sócio ou administrador de mais de uma empresa.
+Comentário:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                       180
+        www.estrategiaconcursos.com.br                                                                 295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Letra A: Há na Lei Complementar 123/96 um rol de atividades que se exercidas é vedada a opção pelo MEI,
+portanto não é qualquer atividade exercida que o contribuinte pode optar pelo recolhimento fixo mensal
+na forma no MEI. Alternativa errada.
+Letra B: O enquadramento do MEI é por receita bruta anual de até R$ 81.000,00, podendo ele faturar em
+um único mês os 81 mil e no restante zero, portanto não essa média afirmada no item. Alternativa errada.
+Letra C: Ficou estabelecido que não pode optar pelo recolhimento do Simples Nacional em valores fixos o
+MEI quem participe de outra empresa como titular, sócio ou administrador. Alternativa errada.
+Letra D: Ao MEI é permitido que possua um único empregado que receba exclusivamente um salário
+mínimo ou o piso salarial da categoria profissional. Alternativa errada.
+Letra E: Essa é a inteligência do art. 18-A, § 4ª, da LC 123/96.
+§ 4o Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
+(...)
+III - que participe de outra empresa como titular, sócio ou administrador;
+Alternativa correta.
+Gabarito: Letra E
+17.     FGV/SEFAZ-AM-Auditor/2022
+Em observância a dispositivos constitucionais que determinam a concessão de tratamento diferenciado e
+favorecido às microempresas e empresas de pequeno porte, foi promulgada a Lei Complementar nº 123,
+em 2006. Este diploma legal contém normas que disciplinam tal tratamento especial no que se refere à
+apuração e ao recolhimento dos impostos e das contribuições da União, dos Estados, do Distrito Federal e
+dos Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias – o Simples
+Nacional.
+No que se refere às Obrigações Fiscais Acessórias previstas na Lei Complementar nº 123, analise as
+afirmativas a seguir.
+I. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional são obrigadas a manter
+em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e das contribuições
+devidos.
+II. O microempreendedor individual (MEI) deverá comprovar a receita bruta mediante apresentação do
+registro de vendas ou de prestação de serviços, na forma estabelecida pelo Comitê Gestor do Simples
+Nacional (CGSN).
+III. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional deverão manter o
+livro-caixa em que será escriturada sua movimentação financeira e bancária.
+Está correto o que se afirma em
+A) I, apenas.
+B) II, apenas.
+C) I e III, apenas.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    181
+         www.estrategiaconcursos.com.br                                                              295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+D) II e III, apenas.
+E) I, II e III.
+Comentário:
+Item I, vamos conferir a literalidade do art. 26 da LC 123/96.
+Art. 26. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam obrigadas a:
+(...)
+II - manter em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e
+contribuições devidos e o cumprimento das obrigações acessórias a que se refere o art. 25 desta Lei
+Complementar enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam
+pertinentes.
+Item correto.
+Item II, art. 26, § 1º.
+§ 1º O MEI fará a comprovação da receita bruta mediante apresentação do registro de vendas ou de
+prestação de serviços na forma estabelecida pelo CGSN, ficando dispensado da emissão do documento
+fiscal previsto no inciso I do caput, ressalvadas as hipóteses de emissão obrigatória previstas pelo referido
+Comitê.
+Item correto.
+Item III, art. 26, § 2º.
+§ 2º As demais microempresas e as empresas de pequeno porte, além do disposto nos incisos I e II do caput
+deste artigo, deverão, ainda, manter o livro-caixa em que será escriturada sua movimentação financeira e
+bancária.
+Item correto.
+Portanto temos os itens I, II e III corretos.
+Gabarito: Letra E
+18.       FGV/SEFAZ-BA /2022
+A Lei Complementar Federal nº 123/2006 prevê um regime ainda mais simplificado de recolhimento de
+impostos e contribuições abrangidos pelo Simples Nacional aos Microempreendedores Individuais (MEI).
+Sobre o regime de arrecadação instituído para o MEI, analise as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+( ) O Empresário Individual que possua mais de um estabelecimento não poderá optar pelo regime
+especial em valores fixos.
+( ) O MEI é modalidade de microempresa.
+( ) O MEI constituído na forma de startup poderá optar pela sistemática de recolhimento em valores fixos
+mensais.
+As afirmativas são, na ordem apresentada, respectivamente,
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                      182
+            www.estrategiaconcursos.com.br                                                                295
+
+                                          
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+A) V – V – F.
+B) V – F – F.
+C) F – V – V.
+D) F – V – F.
+E) F – F – V.
+Comentário:
+Item I, por força legal do art. 18-A, § 4º da LC 123/96.
+§ 4º Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
+(...)
+II - que possua mais de um estabelecimento;
+(...)
+V - constituído na forma de startup.
+Item verdadeiro.
+Item II, em conformidade com o art. 18-E, § 3º.
+§ 3o O MEI é modalidade de microempresa.
+Item verdadeiro.
+Item III, conforme art. 18-A, § 4º, V, visto no primeiro item, não pode optar pela sistemática do MEI se for
+constituído na forma de startup. Item falso.
+Portanto temos a sequência V – V – F.
+Gabarito: Letra A
+19.     FGV/SEFAZ-AM-Auditor/2022
+Na definição de microempresa e empresa de pequeno porte para fins de enquadramento no regime de
+tributação do Simples na forma estabelecida pela LC nº 123/2006, a receita bruta anual é decisiva. Até R$
+360.000,00 é microempresa e de R$360.000,01 a R$4.800.000,00 é considerado EPP – Empresa de Pequeno
+Porte.
+Assim, é correto afirmar que
+A) a microempresa que passar a EPP pela sua receita bruta precisa comunicar à Receita Federal essa troca.
+B) a EPP não pode passar a Microempresa.
+C) qualquer Microempresa ou EPP que respeitar tais limites estará obrigatoriamente no Simples.
+D) o MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos demais tributos não
+englobados no Documento Único Mensal do Simples.
+E) a microempresa que superar a receita bruta anual, se tornará EPP, passando a recolher mensalmente
+com base nas novas alíquotas, sem necessidade de maiores formalidades.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        183
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Comentário:
+Letra A: Pela inteligência do § 7º, art. 3º, da LC 123/96. Perceba que, na hipótese de início de atividade, a
+ME exceder o limite da receita bruta anual limite no ano-calendário, passará no ano-calendário seguinte à
+condição de EPP. Portanto, nesse caso, a alteração acontece automaticamente e sem a necessidade de
+comunicação à RFB.
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o
+empresário a que se refere o art. 966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), devidamente
+registrados no Registro de Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso,
+desde que:
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$
+360.000,00 (trezentos e sessenta mil reais); e
+II - no caso de empresa de pequeno porte, aufira, em cada ano-calendário, receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e
+oitocentos mil reais).
+§ 2º No caso de início de atividade no próprio ano-calendário, o limite a que se refere o caput deste artigo
+será proporcional ao número de meses em que a microempresa ou a empresa de pequeno porte houver
+exercido atividade, inclusive as frações de meses.
+§ 7o Observado o disposto no § 2o deste artigo, no caso de início de atividades, a microempresa que, no
+ano-calendário, exceder o limite de receita bruta anual previsto no inciso I do caput deste artigo passa, no
+ano-calendário seguinte, à condição de empresa de pequeno porte.
+Alternativa errada.
+Letra B: A EPP pode sim, passar para ME.
+Art. 3º, § 8o Observado o disposto no § 2o deste artigo, no caso de início de atividades, a empresa de
+pequeno porte que, no ano-calendário, não ultrapassar o limite de receita bruta anual previsto no inciso I
+do caput deste artigo passa, no ano-calendário seguinte, à condição de microempresa.
+Alternativa errada.
+Letra C: O item erra ao utilizar o vocábulo obrigatoriamente, pois o § 4º, art. 3º da lei prevê casos em que
+mesmo respeitando tais limites, as empresas não poderão optar, exemplo, a pessoa jurídica cujo capital
+participe outra pessoa jurídica não pode fazer essa opção. Alternativa errada.
+Letra D: O MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos tributos previstos nos
+incisos I a VIII, art. 13, da LC 123/96. Alternativa errada.
+Letra E: Conforme o exposto na alternativa A. Se a ME ultrapassar o limite da receita bruta anual, passará a
+EPP e recolherá com base em novas alíquotas, sem necessidade de comunicação. Alternativa correta.
+Gabarito: Letra E
+20.    FGV/MPE-GO-Analista/2022
+Acerca do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte - Simples Nacional e à luz da Lei Complementar nº 123/2006,
+julgue as afirmativas abaixo:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          184
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+I. Estão abrangidos pelo recolhimento no regime do Simples Nacional, dentre outros impostos federais, o
+Imposto sobre a Renda da Pessoa Jurídica - IRPJ; o Imposto sobre Produtos Industrializados - IPI e o Imposto
+sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF.
+II. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+III. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que tenha sócio domiciliado no exterior.
+Está correto apenas o que se afirma em
+A) I.
+B) II.
+C) III.
+D) I e III.
+E) II e III.
+Comentário:
+Item I, conforme previsão legal do art. 13, § 1º, o IOF não está abrangido pelo recolhimento no regime do
+Simples Nacional.
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou contribuições,
+devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação
+aplicável às demais pessoas jurídicas:
+I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários -
+IOF;
+Item errado.
+Item II, previsão legal do art. 18-A, § 5º.
+§ 5º A opção de que trata o caput deste artigo dar-se-á na forma a ser estabelecida em ato do Comitê
+Gestor, observando-se que:
+I - será irretratável para todo o ano-calendário;
+Item correto.
+Item III, previsão literal do art. 17, II.
+Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa
+ou empresa de pequeno porte:
+(...)
+II - que tenha sócio domiciliado no exterior;
+Item correto.
+Portanto temos apenas os itens II e III corretos.
+
+              Receita Federal (Analista Tributário) Direito Tributário                                   185
+              www.estrategiaconcursos.com.br                                                             295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Gabarito: Letra E
+21.     FGV/SEFAZ-BA/2022
+O Simples Nacional é um regime especial tributário destinado às microempresas e às empresas de pequeno
+porte.
+No que se refere aos limites e vedações do Simples Nacional, assinale a afirmativa correta.
+A) Poderá optar pelo Simples Nacional a pessoa jurídica de cujo capital participe outra pessoa jurídica,
+desde que sua receita bruta seja inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+B) Caso determinada empresa de pequeno porte optante pelo Simples Nacional passe a ser constituída sob
+a forma de ações será excluída do tratamento jurídico diferenciado do Simples Nacional, com efeitos
+retroativos ao início de suas atividades.
+C) Não constitui óbice à adesão ao Simples Nacional a existência de débito pendentes com o INSS, com as
+Fazendas Públicas Federal, Estadual ou Municipal, em razão do princípio da isonomia tributária.
+D) As micro e pequenas cervejarias não poderão recolher os impostos e contribuições na forma do Simples
+Nacional, em razão da vedação da adesão de empresas que exerçam atividade de produção de bebidas
+alcoólicas.
+E) A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+Comentário:
+Letra A: Em conformidade com a previsão legal do art. 3º, § 4º, I e X, da LC 123/96, a pessoa jurídica de cujo
+capital participe outra pessoa jurídica não poderá optar pelo Simples Nacional.
+§ 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar,
+incluído o regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa
+jurídica:
+I - de cujo capital participe outra pessoa jurídica;
+(...)
+X - constituída sob a forma de sociedade por ações.
+Portanto, uma PJ que tenha como acionista, cotista, sócia outra PJ não tem opção pelo Simples Nacional.
+Alternativa errada.
+Letra B: Conforme o inciso X, § 4º, art. 3º supracitado. Alternativa errada.
+Letra C: O Art. 17, V da LC 123/96 prevê que a ME ou EPP, que possua débito com o Instituto Nacional do
+Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não
+esteja suspensa, não poderão recolher os impostos e contribuições na forma do Simples Nacional.
+Alternativa errada.
+Letra D: Confira a literalidade do Art. 17, X, alínea “C”, da LC 123/96.
+Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa
+ou empresa de pequeno porte:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          186
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+(...)
+V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas
+Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+(...)
+X - que exerça atividade de produção ou venda no atacado de:
+c) bebidas alcoólicas, EXCETO aquelas produzidas ou vendidas no atacado por:
+1. micro e pequenas cervejarias;
+Por conseguinte, as micro e pequenas cervejarias PODERÃO recolher os impostos e contribuições na forma
+do Simples Nacional. Alternativa errada.
+Letra E: Por previsão expressa do art. 16, da LC 123/96.
+Art. 16. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e
+empresa de pequeno porte dar-se-á na forma a ser estabelecida em ato do Comitê Gestor, sendo
+irretratável para todo o ano-calendário.
+Consequentemente, por opção da empresa não poderá haver mudança do recolhimento durante o ano
+todo, entretanto, isso não impede que ela seja excluída da sistemática caso incorra em algum dos casos de
+desenquadramento (excesso de limite de receita bruta anual, por exemplo) ou alguma das vedações
+previstas. Alternativa correta.
+Gabarito: Letra E
+22.       FGV/SEFAZ-BA/2022
+Com relação ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte, analise as afirmativas a seguir.
+I. O Simples Nacional implica o recolhimento mensal do IRPJ, do IPI, da CSLL, da COFINS, da Contribuição
+para o PIS/Pasep, da Contribuição Patronal Previdenciária para a Seguridade Social, do ICMS e do ISS.
+II. O recolhimento mensal do Simples Nacional não exclui a incidência do ICMS devido nas operações
+sujeitas ao regime de substituição tributária.
+III. A pessoa jurídica optante pelo Simples Nacional fica dispensada do pagamento das demais
+contribuições, instituídas pela União, não previstas no recolhimento mensal do Simples Nacional.
+Está correto o que se afirma em
+A) I, apenas.
+B) I e III, apenas.
+C) I e II, apenas.
+D) II e III, apenas.
+E) I, II e III.
+Comentário:
+
+            Receita Federal (Analista Tributário) Direito Tributário                                  187
+            www.estrategiaconcursos.com.br                                                            295
+
+                                          
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Item I, o item trouxe a literalidade do art. 13 da LC 123/96. E, ressalto que, esse inciso é bastante abordado,
+seja diretamente como aqui no item ou indiretamente, então é imperioso ter essa relação de tributos
+decorados. Por isso reproduzo a literalidade para uma revisão.
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação,
+dos seguintes impostos e contribuições:
+I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+II - Imposto sobre Produtos Industrializados - IPI, observado o disposto no inciso XII do § 1o deste artigo;
+III - Contribuição Social sobre o Lucro Líquido - CSLL;
+IV - Contribuição para o Financiamento da Seguridade Social - COFINS, observado o disposto no inciso XII do
+§ 1o deste artigo;
+V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1o deste artigo;
+VI - Contribuição Patronal Previdenciária - CPP para a Seguridade Social, a cargo da pessoa jurídica, de que
+trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da microempresa e da empresa de
+pequeno porte que se dedique às atividades de prestação de serviços referidas no § 5º-C do art. 18 desta Lei
+Complementar;
+VII - Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de
+Transporte Interestadual e Intermunicipal e de Comunicação - ICMS;
+VIII - Imposto sobre Serviços de Qualquer Natureza - ISS.
+Item correto.
+Item II, o ICMS, na hipótese de substituição tributária, não é recolhido na sistemática do Simples Nacional.
+Art. 13, § 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou
+contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a
+legislação aplicável às demais pessoas jurídicas:
+(...)
+XIII - ICMS devido:
+a) nas operações sujeitas ao regime de substituição tributária (...)
+Item correto.
+Item III, a abordagem da banca foi literal, confira:
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições:
+(...)
+§ 3o As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam dispensadas
+do pagamento das demais contribuições instituídas pela União, inclusive as contribuições para as
+entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata
+o art. 240 da Constituição Federal, e demais entidades de serviço social autônomo.
+Este item causou um pouco de celeuma, haja vista que o § 1º do mesmo artigo prevê que:
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                              188
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou
+contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a
+legislação aplicável às demais pessoas jurídicas:
+(...)
+X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte
+individual;
+(...)
+Acontece que o item como foi apresentado, parece que a ME ou EPP fica dispensada também da
+contribuição prevista no inciso X acima, contudo após recursos a banca manteve o gabarito justificando que
+o item III é literalidade do § 3º não cabendo outro tipo de interpretação. Item correto.
+Portanto temos os itens I, II e III corretos.
+Gabarito: Letra E
+23.     FGV/SEFAZ-BA/2022
+Nas aquisições de mercadoria de microempresa optante pelo Simples Nacional, a pessoa jurídica X terá
+direito a crédito correspondente ao ICMS incidente nas referidas aquisições, desde que a pessoa jurídica X
+A) não seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização e observado, como limite, o ICMS efetivamente devido pela microempresa em relação a
+essas aquisições.
+B) não seja optante do Simples Nacional e a microempresa esteja sujeita à tributação do ICMS no Simples
+Nacional por valores fixos mensais.
+C) seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização, em operações internas, vedada a utilização em operações interestaduais.
+D) seja optante do Simples Nacional e que apresente anualmente ao Comitê Gestor do Simples Nacional
+requerimento de creditamento do ICMS.
+E) não seja optante do Simples Nacional e que a aquisição seja para composição do seu ativo fixo, não
+sendo fixado limite para sua utilização, em cumprimento ao princípio da não-cumulatividade.
+Comentário: Acompanhe a inteligência do art. 23, § 1º, da LC 123/96.
+Art. 23. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não farão jus
+à apropriação nem transferirão créditos relativos a impostos ou contribuições abrangidos pelo Simples
+Nacional.
+§ 1º As pessoas jurídicas e aquelas a elas equiparadas pela legislação tributária não optantes pelo Simples
+Nacional terão direito a crédito correspondente ao ICMS incidente sobre as suas aquisições de
+mercadorias de microempresa ou empresa de pequeno porte optante pelo Simples Nacional, desde que
+destinadas à comercialização ou industrialização e observado, como limite, o ICMS efetivamente devido
+pelas optantes pelo Simples Nacional em relação a essas aquisições.
+Feita essa introdução vamos aos comentários.
+Letra A: Perfeito, é a literalidade do art. 23, § 1º supracitado. Alternativa correta.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       189
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra B: Não haverá crédito para as não optantes quando a microempresa ou empresa de pequeno porte
+estiver sujeita à tributação do ICMS no Simples Nacional por valores fixos mensais. Essa é a inteligência do
+§ 4º, art. 23, da LC 123/96.
+§ 4º Não se aplica o disposto nos §§ 1º a 3º deste artigo quando:
+I - a microempresa ou empresa de pequeno porte estiver sujeita à tributação do ICMS no Simples Nacional
+por valores fixos mensais;
+Alternativa errada.
+Letra C: Conforme o caput do art. 23. Alternativa errada.
+Letra D: Conforme item anterior. Alternativa errada.
+Letra E: As aquisições devem ser destinadas à comercialização ou industrialização e há também limite a ser
+observado conforme o previsto no § 1º, art. 23. Alternativa errada.
+Gabarito: Letra A
+24.     FGV/SEFAZ-AM-Auditor/2022
+Um empresário procura a Receita Estadual buscando informações sobre o Simples, com a perspectiva de
+recolher vários tributos em um único documento.
+Como exemplo dos tributos recolhidos no Simples Nacional, em Documento Único de Arrecadação na
+forma da LC 123/2006, temos
+A) IRPJ, Contribuição Previdenciária Patronal, IPI e ISS.
+B) IRPJ, Imposto de Importação, IOF e COFINS.
+C) IPI, ISS, ICMS e ITR.
+D) IRPJ, ISS, ITR e IPTU.
+E) IRPJ, Contribuição Previdenciária dos Trabalhadores, IPI e ITR.
+Comentário:
+Letra A: Em conformidade ao art. 13, da LC 123/96.
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação,
+dos seguintes impostos e contribuições:
+I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+II - Imposto sobre Produtos Industrializados - IPI, observado o disposto no inciso XII do § 1o deste artigo;
+III - Contribuição Social sobre o Lucro Líquido - CSLL;
+IV - Contribuição para o Financiamento da Seguridade Social - COFINS, observado o disposto no inciso XII do
+§ 1o deste artigo;
+V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1o deste artigo;
+VI - Contribuição Patronal Previdenciária - CPP para a Seguridade Social, a cargo da pessoa jurídica, de que
+trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da microempresa e da empresa de
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                              190
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+pequeno porte que se dedique às atividades de prestação de serviços referidas no § 5º-C do art. 18 desta Lei
+Complementar;
+VII - Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de
+Transporte Interestadual e Intermunicipal e de Comunicação - ICMS;
+VIII - Imposto sobre Serviços de Qualquer Natureza - ISS.
+Alternativa correta.
+Letra B: Agora confira a literalidade do § 1º, art. 13, LC 123/96.
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou
+contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a
+legislação aplicável às demais pessoas jurídicas:
+I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF;
+                                                           ==219a34==
+
+II - Imposto sobre a Importação de Produtos Estrangeiros - II;
+(...)
+IV - Imposto sobre a Propriedade Territorial Rural - ITR;
+Portanto, a afirmativa erra ao trazer o IOF. Alternativa errada.
+Letra C: A alternativa erra ao trazer o ITR. Alternativa errada.
+Letra D: A alternativa erra ao trazer o ITR e o IPTU. Alternativa errada.
+Letra E: A alternativa erra ao trazer o ITR e a Contribuição Previdenciária dos Trabalhadores, o correto seria
+Patronal. Alternativa errada.
+Gabarito: Letra A
+25.     FGV/SEFAZ-ES-Auditor/2021
+As opções a seguir apresentam regras legais que se aplicam ao Microempreendedor Individual (MEI), à
+exceção de uma. Assinale-a.
+A) O MEI é modalidade de microempresa e todo benefício aplicável à microempresa estende-se a ele
+sempre que lhe for mais favorável.
+B) O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+C) O empresário individual ou empreendedor, que exerça atividades de industrialização, comercialização e
+prestação de serviços no âmbito rural, desde que não tenha empregados, poderá enquadrar-se como MEI.
+D) O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+E) O MEI, inscrito no conselho profissional de sua categoria na qualidade de pessoa física, fica dispensado
+de realizar nova inscrição no mesmo conselho, na qualidade de empresário individual.
+Comentário: Atenção ao comando da questão que aborda a exceção.
+Letra A: Essa é a previsão legal do art. 18-E, § 2º. Alternativa correta.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          191
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra B: Confira a literalidade do art. 18-A, § 25, da LC 123/96.
+§ 25. O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+Alternativa correta.
+Letra C: Observe que é possível possuir um único empregado e que este receba exclusivamente um salário
+mínimo ou piso salaria da categoria.
+Art. 18-C. Observado o disposto no caput e nos §§ 1o a 25 do art. 18-A desta Lei Complementar, poderá
+enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural que possua um único
+empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional.
+Portanto o item erra ao afirmar que para se enquadrar ao MEI não pode ter empregados. Alternativa
+errada.
+Letra D: Mais uma literalidade, confira.
+Art. 18-E. O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+Alternativa correta.
+Letra E: Conforme previsão legal do art. 18-A, § 19-A.
+§ 19-A O MEI inscrito no conselho profissional de sua categoria na qualidade de pessoa física é
+dispensado de realizar nova inscrição no mesmo conselho na qualidade de empresário individual.
+Alternativa correta.
+Gabarito: Letra C
+26.    FGV/Pref. Paulínia-Advogado/2021
+Maria, manicure que aufere cerca de R$2.500,00 por mês, desejando regularizar sua atividade profissional,
+registrou-se como Microempreendedora Individual (MEI), optando por recolher seus tributos na
+sistemática do Simples Nacional.
+Por esse sistema, Maria irá recolher os tributos abrangidos pelo Simples Nacional
+A) em valor fixo mensal.
+B) em valor fixo anual.
+C) em percentual sobre a receita bruta mensal.
+D) em percentual sobre a receita bruta anual.
+E) em percentual sobre o faturamento mensal.
+Comentário: No contexto da questão temos uma pessoa física, que aufere R$ 2.500,00 mensais, atividade
+de manicure e que opta por recolher seus tributos na sistemática do SN, feita essa contextualização vamos
+à previsão legal.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      192
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores FIXOS MENSAIS, independentemente da
+receita bruta por ele auferida no mês, na forma prevista neste artigo.
+§ 1º Para os efeitos desta Lei Complementar, considera-se MEI quem tenha auferido receita bruta, no
+ano-calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples
+Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo, e seja empresário
+individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código
+Civil), ou o empreendedor que exerça:
+A atividade exercida por Maria (manicure) não possui vedação à opção, além disso, ela não extrapola o
+limite de R$ 81.000,00 anuais de receita bruta.
+Consequentemente, Maria, optando por recolher seus tributos na sistemática do Simples Nacional,
+recolherá seus tributos em valor fixo mensal.
+Gabarito: Letra A
+27.    Prof. Fábio Dutra/Questão Inédita/2022
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições, exceto:
+a) Imposto sobre a Renda da Pessoa Jurídica – IRPJ.
+b) Contribuição Social sobre o Lucro Líquido – CSLL.
+c) Imposto sobre Produtos Industrializados – IPI.
+d) ICMS devido em operações com tributação concentrada em uma única etapa (monofásica).
+e) Contribuição Patronal Previdenciária – CPP.
+Comentários:
+Letra A: Correta. O Imposto sobre a Renda da Pessoa Jurídica – IRPJ foi incluído no Simples Nacional.
+Letra B: Correta. A Contribuição Social sobre o Lucro Líquido – CSLL foi incluída no Simples Nacional.
+Letra C: Correta. O Imposto sobre Produtos Industrializados – IPI foi incluído no Simples Nacional.
+Letra D: Errada. O ICMS devido em operações com tributação concentrada em uma única etapa
+(monofásica) não foi incluído no Simples Nacional.
+Letra E: Correta. A Contribuição Patronal Previdenciária – CPP foi incluída no Simples Nacional.
+Gabarito: Letra D
+28.    Prof. Fábio Dutra/Questão Inédita/2022
+A respeito do Microempreendedor Individual – MEI, previsto na Lei Complementar 123/2006, assinale a
+alternativa errada:
+a) poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em
+valores fixos mensais, independentemente da receita bruta por ele auferida no mês;
+b) O limite anual de receita bruta para fins de enquadramento como MEI é de R$ 120.000,00.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         193
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+c) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que possua mais de um
+estabelecimento;
+d) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que participe de outra empresa
+como titular, sócio ou administrador;
+e) Não poderá optar pela sistemática de recolhimento diferenciado o MEI constituído na forma de startup.
+Comentário: O Simples Nacional é o regime tributária diferenciado e favorecido destinado a microempresas
+(MEs) e empresas de pequeno porte (EPPs), instituído pela LC 123/2006, envolvendo tributos de
+competência da União, Estados, DF e Municípios.
+A sistemática do microempreendedor individual (MEI) se baseia no recolhimento dos impostos e
+contribuições do Simples Nacional em valores fixos mensais, seja qual for a receita bruta auferida,
+respeitado, é claro, o limite para enquadramento como MEI, que por sinal é muito mais restrito do que o
+das MEs e EPPs: R$ 81.000,00 anual.
+Letra A: Correta. Trata-se do disposto no art. 18-A, da LC 123/2006: O Microempreendedor Individual - MEI
+poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta por ele auferida no mês, na forma prevista neste artigo.
+Letra B: Errada. Na realidade, o art. 18-A, § 1º, da LC 123/2006, prevê que o limite anual de receita bruta
+para o MEI é de R$ 81.000,00.
+Letra C: Correta. O art. 18-A, § 4º, II, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+Letra D: Correta. O art. 18-A, § 4º, III, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+Letra E: Correta. O art. 18-A, § 4º, V, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+Gabarito: Letra B
+29.    Prof. Fábio Dutra/Questão Inédita/2022
+A empresa Alfa, não optante pelo Simples Nacional, realiza três aquisições de empresas optantes pelo
+Simples Nacional:
+Produto 01 – da Empresa Gama (EPP) – destinado à industrialização;
+Produto 02 – da Empresa Beta (ME) – destinado à comercialização;
+Produto 03 – da Empresa Delta (EPP) – destinado ao seu consumo.
+Em relação ao ICMS incidente na operação de venda das empresas Gama, Beta e Delta para a empresa Alfa,
+e considerando as disposições da Lei Complementar 123/2006, assinale a alternativa correta:
+a) A empresa Alfa não tem direito ao crédito de ICMS em tais aquisições.
+b) A empresa Alfa tem direito ao crédito de ICMS em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite a alíquota interna do imposto.
+c) A empresa Alfa tem direito ao crédito de ICMS, em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite o valor devido pela empresa vendedora.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        194
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 02, tendo como limite o
+valor devido pela empresa vendedora.
+e) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 01 e 02, tendo como
+limite o valor devido pela empresa vendedora.
+Comentário: De acordo com o art. 23, da LC 123/06, as microempresas e as empresas de pequeno porte
+optantes pelo Simples Nacional não farão jus à apropriação nem transferirão créditos relativos a impostos
+ou contribuições abrangidos pelo Simples Nacional.
+Logo, a princípio, a empresa não optante pelo Simples Nacional que adquira mercadorias de optante do
+Simples Nacional não teria direito a créditos. Porém, o § 1º, do art. 23, prevê o direito a crédito para as
+empresas não optantes do Simples Nacional, quando estas adquirirem de MEs e EPPs optantes,
+correspondente ao valor incidente de ICMS sobre a aquisição, desde que as mercadorias sejam destinadas à
+comercialização e industrialização.
+O detalhe ME ou EPP não faz diferença no caso em análise, o que devemos considerar é que a empresa
+fornecedora é optante pelo Simples Nacional, logo, a adquirente só terá direito aos créditos de ICMS caso
+tais mercadorias sejam destinadas pela adquirente Alfa à comercialização e industrialização. Ademais, o
+valor do ICMS está limitando ao valor incidente de ICMS sobre a aquisição.
+Letra A: Errada. A empresa Alfa tem direito ao crédito de ICMS em relação aos Produtos 1 e 2
+(comercialização e industrialização).
+Letra B : Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é aquele devido pela fornecedora no âmbito do
+Simples Nacional.
+Letra C: Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é, conforme dito, aquele devido pela fornecedora no
+âmbito do Simples Nacional.
+Letra D: Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é aquele devido pela fornecedora no âmbito do
+Simples Nacional.
+Letra E: Correta. Tal como foi afirmado nesta letra, a empresa Alfa tem direito ao crédito de ICMS apenas
+em relação aos Produtos 1 e 2 (comercialização e industrialização). O limite de valor é aquele devido pela
+fornecedora no âmbito do Simples Nacional.
+Gabarito: Letra E
+30.    Prof. Fábio Dutra/Questão Inédita/2022
+Acerca do Simples Nacional, e considerando os regramentos da Lei Complementar 123/2006 e suas
+alterações posteriores, analise as situações abaixo:
+I - Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada como
+microempresa ou empresa de pequeno porte poderá admitir o aporte de capital, que integrará o capital
+social da empresa.
+II - No caso de investidor-anjo, o contrato de participação terá duração não superior a 10 anos.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        195
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+III – Caso uma microempresa ou empresa de pequeno porte venha se beneficiar do aporte de capital na
+forma de investidor-anjo, a atividade constitutiva do objeto social será exercida unicamente por sócios
+regulares, em seu nome individual e sob sua exclusiva responsabilidade.
+Estão corretos os seguintes itens:
+a) I, II, III.
+b) I, II.
+c) II, III.
+d) I, III.
+e) III.
+Comentário: Com a publicação da Lei Complementar 155/2016, foi prevista a figura do “investidor-anjo”,
+que nada mais é do que uma pessoa física ou jurídica que investe em pequenas empresas com alto
+potencial de crescimento, fornecendo recursos para viabilizar o negócio e, consequentemente, obter
+retorno do seu investimento.
+Item I: Errado. De acordo com o art. 61-A, da LC 123/2006, foi previsto que para incentivar as atividades de
+inovação e os investimentos produtivos, a sociedade enquadrada como microempresa ou empresa de
+pequeno porte, nos termos desta Lei Complementar, poderá admitir o aporte de capital, que não integrará
+o capital social da empresa.
+Item II: Errado. De acordo com o art. 61-A, § 1º, da LC 123/2006, as finalidades de fomento a inovação e
+investimentos produtivos deverão constar do contrato de participação, com vigência não superior a 7 anos.
+Item III: Correto. De acordo com o art. 61-A, § 3º, da LC 123/2006, caso uma microempresa ou empresa de
+pequeno porte venha se beneficiar do aporte de capital na forma de investidor-anjo, a atividade
+constitutiva do objeto social será exercida unicamente por sócios regulares, em seu nome individual e sob
+sua exclusiva responsabilidade.
+Gabarito: Letra E
+31.           Prof. Fábio Dutra/Questão Inédita/2022
+No tocante ao Simples Nacional, julgue as assertivas abaixo, e ao final, assinale a alternativa que representa
+a resposta correta:
+( ) O Simples Nacional abrange a apuração e recolhimento dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, exceto as obrigações
+acessórias.
+( ) Nas licitações será assegurada, como critério de desempate, preferência de contratação para as
+microempresas e empresas de pequeno porte, entendendo-se por empate, como regra, aquelas situações
+em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até
+10% superiores à proposta mais bem classificada.
+( ) As cooperativas podem se beneficiar do tratamento jurídico previsto na LC 123/2006 (Simples Nacional).
+a) V, F, F
+b) V, F, V
+
+              Receita Federal (Analista Tributário) Direito Tributário                                     196
+              www.estrategiaconcursos.com.br                                                               295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+c) V, V, V
+d) F, V, F
+e) F, F, F
+Comentário:
+Item I: Errada. De acordo com o art. 1º, da LC 123/06, o Simples Nacional abrange a apuração e
+recolhimento dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios,
+mediante regime único de arrecadação, inclusive as obrigações acessórias.
+Item II: Correta. O art. 44, da LC 123/06, prevê que, nas licitações será assegurada, como critério de
+desempate, preferência de contratação para as microempresas e empresas de pequeno porte.
+O § 1º, do referido artigo, dispõe que se entende por empate, como regra, aquelas situações em que as
+propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10%
+superiores à proposta mais bem classificada.
+Item III: Errada. O art. 3º, § 4º, VI, da LC 123/06, estabelece que as cooperativas podem se beneficiar do
+Simples Nacional, exceto as cooperativas de consumo. Logo, essa afirmação genérica as respeito das
+cooperativas deve ser considerada errada.
+Gabarito: D
+
+             Receita Federal (Analista Tributário) Direito Tributário                                  197
+             www.estrategiaconcursos.com.br                                                            295
+
+                                           
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1.SELECON/Pref Sinop-Fiscal Tributário/2025
+
+São consideradas microempresas aquelas que aufiram em cada ano-calendário, receita bruta igual ou inferior
+a:
+
+a) R$ 300.000,00
+
+b) R$ 320.000,00
+
+c) R$ 340.000,00
+
+d) R$ 360.000,00
+
+Comentário: A questão trata dos limites de receita bruta para enquadramento como microempresa no
+Simples Nacional, conforme estabelecido na Lei Complementar 123/2006.
+
+Letra A: Errada. O limite de R$ 300.000,00 está abaixo do valor estabelecido pela legislação atual para
+microempresas.
+
+Letra B: Errada. O limite de R$ 320.000,00 não corresponde ao valor legal estabelecido para microempresas.
+
+Letra C: Errada. O limite de R$ 340.000,00 não está correto conforme a legislação do Simples Nacional.
+
+Letra D: Correta. O art. 3º, I, da Lei Complementar 123/2006 estabelece que são microempresas aquelas que
+aufiram "em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00.
+
+Gabarito: Letra D
+
+2.SELECON/Pref Sinop-Fiscal Tributário/2025
+
+Pelo regime especial unificado de tributos e contribuições devidos pelas micro e empresas de pequeno porte
+– Simples Nacional, o recolhimento mensal, por meio de um único documento de arrecadação, abrange,
+entre outros, os seguintes impostos e contribuições:
+
+a) imposto sobre a renda da pessoa jurídica; contribuição social sobre o lucro líquido
+
+b) imposto sobre operações de crédito; imposto sobre a importação de produtos estrangeiros
+
+c) imposto sobre a propriedade territorial rural; contribuição para o fundo de garantia do tempo de serviço
+
+d) contribuição para manutenção da seguridade social, relativa ao trabalhador; imposto sobre a exportação,
+para o exterior, de produtos nacionais ou nacionalizados
+
+Comentário: A questão trata dos tributos incluídos no recolhimento unificado do Simples Nacional, conforme
+o art. 13 da Lei Complementar 123/2006.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         198
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra A: Correta. O art. 13, caput, da LC 123/2006 estabelece que o Simples Nacional implica o recolhimento
+mensal unificado dos seguintes tributos: "I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ; II - Imposto
+sobre Produtos Industrializados - IPI; (...) VI - Contribuição Social sobre o Lucro Líquido - CSLL". Portanto,
+tanto o IRPJ quanto a CSLL estão incluídos no regime.
+
+Letra B: Errada. O art. 13, §1º, da LC 123/2006 estabelece que "o recolhimento na forma deste artigo não
+exclui a incidência dos seguintes impostos ou contribuições: I - Imposto sobre Operações de Crédito, Câmbio
+e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF; II - Imposto sobre a Importação de Produtos
+Estrangeiros - II". Estes tributos não são incluídos no recolhimento unificado.
+
+Letra C: Errada. O ITR e o FGTS não são incluídos no recolhimento unificado do Simples Nacional, conforme
+o art. 13, §1º, IV e VIII, da LC 123/2006.
+
+Letra D: Errada. A contribuição previdenciária patronal e o Imposto de Exportação não estão incluídos no
+recolhimento unificado do Simples Nacional, sendo devidos separadamente.
+
+Gabarito: Letra A
+
+3.FCC/CETESB-Advogado/2024
+
+Nos termos preconizados pela Constituição Federal, especificamente em relação às microempresas e às
+empresas de pequeno porte,
+
+a) a instituição, por lei, de um regime único de arrecadação dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios será opcional no caso de as contribuintes serem empresas de
+pequeno porte ou microempresas.
+
+b) havendo instituição, por lei, de um regime único de arrecadação dos impostos e contribuições da União,
+dos Estados, do Distrito Federal e dos Municípios, a arrecadação, a fiscalização e a cobrança não poderão ser
+compartilhadas pelos entes federados, sendo vedado nesse caso a adoção de cadastro nacional único de
+contribuintes.
+
+c) havendo instituição, por lei, de regime único de arrecadação dos impostos da União, dos Estados, do
+Distrito Federal e dos Municípios, o recolhimento será unificado e centralizado e a distribuição da parcela de
+recursos pertencentes aos respectivos entes federados será imediata, sendo permitida a retenção ou
+condicionamento.
+
+d) cabe à lei ordinária estabelecer normas gerais em matéria tributária, incluindo a definição de tratamento
+diferenciado e favorecido para as microempresas e para as empresas de pequeno porte.
+
+e) a lei que instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados,
+do Distrito Federal e dos Municípios não poderá estabelecer condições de enquadramento diferenciadas por
+Estado.
+
+Comentário: Meus amigos, a questão trata da previsão constitucional sobre o regime único de arrecadação
+para microempresas e empresas de pequeno porte (Simples Nacional), tema disciplinado no art. 146, III, “d”,
+e parágrafo único da Constituição Federal.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          199
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra A: Correta. Nos termos do art. 146, parágrafo único, I, da CF/88, o regime único de arrecadação (como
+o Simples Nacional) é opcional para o contribuinte, aplicando-se às microempresas e empresas de pequeno
+porte.
+
+Letra B: Errada. A Constituição permite que arrecadação, fiscalização e cobrança sejam compartilhadas entre
+os entes federados, podendo haver cadastro nacional único de contribuintes (art. 146, parágrafo único, IV).
+
+Letra C: Errada. O recolhimento deve ser unificado e centralizado, mas a distribuição dos recursos aos entes
+federados deve ser imediata, vedada qualquer retenção ou condicionamento (art. 146, parágrafo único, III).
+
+Letra D: Errada. A definição de tratamento diferenciado para micro e pequenas empresas deve constar em
+lei complementar, não ordinária (art. 146, III, “d”).
+
+Letra E: Errada. A CF/88 permite que a lei complementar instituidora do regime único estabeleça condições
+de enquadramento diferenciadas por Estado (art. 146, parágrafo único, II).
+
+Gabarito: Letra A
+
+4.IDIB/Pref Dias d’Ávila-Fiscal de Rendas/2024
+
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, de diversos
+tributos federais, estaduais e municipais. O tributo municipal inserido nesse regime especial unificado de
+arrecadação, oferecido às Microempresas e Empresas de Pequeno Porte, corresponde ao(à):
+
+a) Imposto sobre a Propriedade Territorial Rural (ITR).
+
+b) Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).
+
+c) Imposto sobre Serviços de Qualquer Natureza (ISS).
+
+d) Contribuição de Melhoria Municipal.
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Errada. O ITR é da União e não integra o Simples Nacional.
+
+Letra B: Errada. O IPTU é municipal, mas não faz parte do recolhimento unificado do Simples Nacional (art.
+13 da LC 123/2006).
+
+Letra C: Certa. O ISS integra o Simples Nacional (art. 13, VIII da LC 123/2006).
+
+Letra D: Errada. Contribuição de melhoria não integra o Simples Nacional.
+
+5.FGV/Câmara Mun. Fortaleza-Advogado/2024
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         200
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Determinada Lei Complementar Federal, ao disciplinar o tratamento diferenciado e favorecido às
+microempresas e empresas de pequeno porte, possui dispositivo com a seguinte redação:
+
+Art. XX. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as
+Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+
+É correto afirmar que a previsão legal acima
+
+a) viola o princípio da isonomia tributária, pois confere tratamento desigual às empresas que possuam
+débitos tributários.
+
+b) é inconstitucional, pois trata-se de restrição desproporcional e desarrazoada ao exercício da atividade
+econômica.
+
+c) viola o princípio da livre iniciativa, pois restringe a atividade econômica em razão de débitos tributários.
+
+d) configura meio ilícito de coação a pagamento de tributo.
+
+e) representa forma indireta de se reprovar a infração das leis fiscais e de se garantir a neutralidade, com
+enfoque na livre concorrência.
+
+Gabarito: E
+
+Comentário: A questão é bem direta e cobra a jurisprudência do Supremo Tribunal Federal Segundo o STF
+(RE 627543), trata-se de forma indireta de reprovar a infração às leis fiscais, garantindo neutralidade e livre
+concorrência entre as empresas que cumprem suas obrigações.
+
+6.FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+O único tributo e respectivo fato gerador abarcado pelo regime do Simples Nacional indicado abaixo é:
+
+a) o Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
+
+b) a Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+
+c) o IPI incidente na importação de bens;
+
+d) a Contribuição Social sobre o Lucro Líquido (CSLL);
+
+e) o ISS devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte.
+
+Gabarito: D
+
+Comentário:
+
+Letra A: Errada. De acordo com o art. 13, §1º, VI, da LC nº 123/2006, o IR sobre ganhos de capital na alienação
+de bens do ativo não está incluído no Simples Nacional.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            201
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra B: Errada. Nos termos do art. 13, §1º, IX, da LC nº 123/2006, a contribuição para a manutenção da
+Seguridade Social relativa ao trabalhador não é abrangida pelo Simples.
+
+Letra C: Errada. Conforme o art. 13, §1º, XII, da LC nº 123/2006, o IPI incidente na importação não integra o
+Simples Nacional.
+
+Letra D: Certa. Segundo o art. 13, III, da LC nº 123/2006, a CSLL é incluída no Simples Nacional, sendo
+recolhida de forma unificada.
+
+Letra E: Errada. De acordo com o art. 13, §1º, XIV, da LC nº 123/2006, o ISS sujeito à substituição tributária
+ou à retenção na fonte não integra o Simples Nacional.
+
+7.FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+
+É sabido que o instituto do MEI (Microempreendedor Individual) é uma política pública que tem por objetivo
+a formalização de pequenos empreendimentos e a inclusão social e previdenciária.
+
+Sobre o MEI, assinale a alternativa correta.
+
+a) É vedado impor restrições ao MEI relativamente ao exercício de profissão ou participação em licitações,
+em função da sua natureza jurídica, exceto quando for contratado para prestar serviços de hidráulica,
+eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+
+b) A formalização de MEI tem caráter eminentemente econômico ou fiscal.
+
+c) O MEI é modalidade de microempresa.
+
+d) O empreendedor que exerce atividades de industrialização, comercialização e prestação de serviços no
+âmbito rural e efetuar seu registro como MEI, perderá a condição de segurado especial da Previdência Social.
+
+e) Para o transportador autônomo de cargas inscrito como MEI, o limite de receita bruta anual será de R$
+81.000,00 (oitenta e um mil reais).
+
+Gabarito: C
+
+Comentário:
+
+Letra A: Errada. De acordo com o art. 18-E, §4º, da LC nº 123/2006, é vedado impor restrições ao MEI em
+função de sua natureza jurídica, inclusive quando contratado para os serviços ali elencados.
+
+Letra B: Errada. Nos termos do art. 18-E, §1º, da LC nº 123/2006, a formalização do MEI não tem caráter
+eminentemente econômico ou fiscal.
+
+Letra C: Certa. De acordo com o art. 18-E, §3º, da LC nº 123/2006, o MEI é uma modalidade de microempresa.
+
+Letra D: Errada. O art. 18-E, §5º, da LC nº 123/2006, prevê que o empreendedor rural ao se registrar como
+MEI não perde a condição de segurado especial.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           202
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra E: Errada. Segundo o art. 18-F, I, da LC nº 123/2006, o limite de receita bruta anual para o transportador
+autônomo de cargas MEI é de R$ 251.600,00.
+
+8.FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+Acerca do microempreendedor individual (MEI) e sua sistemática prevista na Lei Complementar nº
+123/2006, é correto afirmar que:
+
+a) a tributação municipal do IPTU deverá assegurar tratamento mais favorecido ao MEI para realização de
+sua atividade no mesmo local em que residir;
+
+b) poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural, com dois empregados que
+recebam exclusivamente um salário mínimo ou o piso salarial da categoria profissional;
+
+c) o MEI constituído na forma de startup pode optar pela sistemática de recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita
+bruta por ele auferida no mês;
+
+d) a opção pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta auferida no mês pelo MEI, poderá ser alterada dentro
+do mesmo ano-calendário;
+
+e) o MEI poderá ter sua inscrição automaticamente cancelada somente após o período de 24 meses
+consecutivos sem recolhimento ou declarações, independentemente de qualquer notificação, devendo a
+informação ser publicada no Portal do Empreendedor, na forma regulamentada pelo CGSIM.
+
+Gabarito: A
+
+Comentário:
+
+Letra A: Certa. Conforme o art. 18-D da LC nº 123/2006, o IPTU deverá assegurar tratamento mais favorecido
+ao MEI para exercer a atividade no mesmo local em que residir, mediante a menor alíquota vigente.
+
+Letra B: Errada. De acordo com o art. 18-C da LC nº 123/2006, o MEI pode ter um único empregado, não
+dois.
+
+Letra C: Errada. Segundo o art. 18-A, §4º, V, da LC nº 123/2006, o MEI constituído na forma de startup não
+pode optar pela sistemática de recolhimento do Simples em valores fixos mensais.
+
+Letra D: Errada. Nos termos do art. 18-A, §5º, I, da LC nº 123/2006, a opção é irretratável para todo o ano-
+calendário, não podendo ser alterada dentro do mesmo ano.
+
+Letra E: Errada. Conforme o art. 18-A, §15-B, da LC nº 123/2006, o cancelamento automático do MEI ocorre
+após 12 meses, e não 24.
+
+9.FGV/SEFAZ-MT-FISCAL TRIBUTÁRIO/2023
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            203
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O Simples Nacional é um regime especial unificado de arrecadação de tributos que atua como grande
+facilitador do cumprimento das obrigações tributárias por parte das Microempresas (ME) e Empresas de
+Pequeno Porte (EPP), pois abrange, em uma única cobrança, uma série de tributos devidos pelos sujeitos
+passivos tributários.
+
+A respeito das incidências de ICMS cujo recolhimento está abarcado pelo Simples Nacional, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com carnes e suas
+preparações não está abarcado pelo regime do Simples Nacional.
+
+( ) O ICMS devido por ME nas operações sujeitas ao regime de substituição tributária com telhas e caixas
+d’água está abarcado pelo regime do Simples Nacional.
+
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com produtos
+cerâmicos não está abarcado pelo regime do Simples Nacional.
+
+As afirmativas são, respectivamente,
+
+a) V – V – F.
+
+b) V – F – V.
+
+c) V – F – F.
+
+d) F – V – F.
+
+e) F – F – V.
+
+Gabarito: B
+
+Comentário: Questão extremamente difícil, por explorar detalhes do “gigante” dispositivo da LC 123/06.
+Vamos falar sobre isso abaixo.
+
+Item I: Certa. Conforme o art. 13, §1º, XIII, "a", da LC nº 123/2006, o ICMS devido em substituição tributária,
+inclusive sobre carnes e suas preparações, não integra o Simples Nacional.
+
+Item II: Errada. De acordo com o art. 13, §1º, XIII, "a", da LC nº 123/2006, operações com telhas e caixas
+d’água sujeitas à substituição tributária também não fazem parte do regime do Simples Nacional.
+
+Item III: Certa. Nos termos do art. 13, §1º, XIII, "a", da LC nº 123/2006, o ICMS devido na substituição
+tributária com produtos cerâmicos igualmente não é abarcado pelo Simples Nacional.
+
+10.FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+Acerca da retenção na fonte de ISS das microempresas ou das empresas de pequeno porte optantes pelo
+Simples Nacional que observam o disposto no Art. 3º da Lei Complementar nº 116/2003, analise as
+afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          204
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+( ) A alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá à
+alíquota efetiva de ISS a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês anterior
+ao da prestação.
+
+( ) Na hipótese de a microempresa ou empresa de pequeno porte estar sujeita à tributação do ISS no Simples
+Nacional por valores fixos mensais, caberá a retenção na fonte pela alíquota efetiva de 2%.
+
+( ) Não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no
+documento fiscal for inferior à devida, hipótese em que o recolhimento dessa diferença será realizado em
+guia própria do Município.
+
+A sequência correta é:
+
+a) V, V, V;
+
+b) V, V, F;
+
+c) V, F, V;
+
+d) F, V, F;
+
+e) F, F, V.
+
+Gabarito: C
+
+Comentário:
+
+Item I: Certa. De acordo com o art. 21, §4º, I, da LC nº 123/2006, a alíquota a ser informada corresponde à
+alíquota efetiva do mês anterior.
+
+Item II: Errada. Conforme o art. 21, §4º, IV, da LC nº 123/2006, se o ISS for tributado por valores fixos mensais,
+não cabe retenção na fonte.
+
+Item III: Certa. Nos termos do art. 21, §4º, VI, da LC nº 123/2006, se a alíquota informada for inferior à devida,
+o prestador continua responsável e recolhe a diferença em guia própria do Município.
+
+11.FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+A Lei Complementar nº 123/2006 veicula algumas situações que, caso presentes, impedem a microempresa
+ou empresa de pequeno porte de recolher os impostos e contribuições na forma do Simples Nacional.
+
+A única situação que não impede a adesão ao Simples Nacional por parte de tais empresas é:
+
+a) possuir débito de foro com a União cuja exigibilidade não esteja suspensa;
+
+b) prestar serviço de transporte intermunicipal de passageiros por via fluvial;
+
+c) exercer atividade de produção de munição;
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                             205
+         www.estrategiaconcursos.com.br                                                                       295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) exercer atividade de produção de cervejas sem álcool por cervejaria de grande porte;
+
+e) realizar cessão de mão de obra.
+
+Gabarito: B
+
+Comentário:
+
+Letra A: Errada. De acordo com o art. 17, V, da LC nº 123/2006, possuir débito com o INSS ou Fazendas
+Públicas impede a opção pelo Simples Nacional, mas débito de foro da União não está previsto como
+impedimento.
+
+Letra B: Certa. Conforme o art. 17, VI, da LC nº 123/2006, a prestação de serviço de transporte intermunicipal
+e interestadual de passageiros impede o Simples, exceto quando se tratar de transporte fluvial, caso em que
+não há impedimento.
+
+Letra C: Errada. De acordo com o art. 17, X, “a”, da LC nº 123/2006, a produção de munições impede a opção
+pelo Simples.
+
+Letra D: Errada. Nos termos do art. 17, X, “b”, da LC nº 123/2006, a produção de cerveja sem álcool por
+estabelecimento de grande porte também impede a opção. Por outro lado, foi admitida a venda por micro
+e pequenas cervejarias.
+
+Letra E: Errada. Conforme o art. 17, XII, da LC nº 123/2006, a empresa que realize cessão de mão de obra
+não pode optar pelo Simples Nacional.
+
+12.FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+
+A característica e a facilidade do Regime Especial Unificado de Arrecadação de Tributos e Contribuições
+devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional é o recolhimento mensal,
+mediante documento único de arrecadação de tributos.
+
+Sobre os tributos que serão recolhidos neste documento único, assinale a alternativa correta.
+
+a) A contribuição para manutenção da Seguridade Social, relativa ao trabalhador e o Imposto sobre a Renda
+da Pessoa Jurídica – IRPJ.
+
+b) O imposto sobre Produtos Industrializados – IPI, exceto o incidente na importação de bens e serviços e a
+contribuição Social sobre o Lucro Líquido – CSLL.
+
+c) A contribuição para o PIS/Pasep incidente na importação de bens e serviços e Imposto sobre Operações
+Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação – ICMS.
+
+d) A contribuição previdenciária patronal de prestação de serviços advocatícios e Imposto sobre Serviços de
+Qualquer Natureza – ISS.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          206
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+e) O imposto sobre a Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo
+permanente e a Contribuição para o Financiamento da Seguridade Social – COFINS.
+
+Gabarito: B
+
+Comentário:
+
+Letra A: Errada. Conforme o art. 13, VI e §1º, IX, da LC nº 123/2006, a contribuição para manutenção da
+Seguridade Social, relativa ao trabalhador, não integra o Simples.
+
+Letra B: Certa. Nos termos do art. 13, II e III, da LC nº 123/2006, o IPI (salvo o incidente na importação) e a
+CSLL estão incluídos no documento único do Simples Nacional.
+
+Letra C: Errada. De acordo com o art. 13, §1º, XII, da LC nº 123/2006, o PIS/Pasep incidente na importação
+não faz parte do Simples Nacional, ainda que o ICMS em operações internas esteja incluído.
+
+Letra D: Errada. O art. 13, VI e art. 18, §5º-C da LC nº 123/2006 exclui a contribuição previdenciária patronal
+dos serviços advocatícios do Simples, embora o ISS esteja incluído. É um detalhe difícil de memorizar, mas
+vale a pena estudar.
+
+Letra E: Errada. Segundo o art. 13, §1º, VI, da LC nº 123/2006, o IR sobre ganhos de capital na alienação de
+bens do ativo permanente não integra o documento único, apesar da COFINS estar incluída.
+
+13.CEBRASPE/SEFAZ-AC-AUDITOR/2024
+
+Suponha que determinado empresário tenha constituído uma empresa de pequeno porte e que tenha
+optado pelo regime do Simples Nacional, com base na Lei Complementar n.º 123/2006. Nesse caso, a
+empresa terá tratamento diferenciado e favorecido no que se refere ao recolhimento
+
+a) de taxas estaduais, mas não de impostos municipais.
+
+b) de taxas federais, mas não de taxas estaduais.
+
+c) de contribuições federais, mas não de impostos municipais.
+
+d) de impostos federais, mas não de contribuições federais.
+
+e) de impostos estaduais, mas não de taxas federais.
+
+Gabarito: E
+
+Comentário: O Simples Nacional unifica a arrecadação de diversos impostos e contribuições federais,
+estaduais e municipais, mas não abrange taxas de nenhum ente federado. Assim, a empresa terá tratamento
+diferenciado no recolhimento de impostos estaduais, mas não de taxas federais. Conforme o art. 1º, I, da LC
+nº 123/2006, o regime unifica apenas impostos e contribuições, excluindo taxas.
+
+14.CEBRASPE/SEFAZ-AC-TÉCNICO/2024
+
+        Receita Federal (Analista Tributário) Direito Tributário                                           207
+        www.estrategiaconcursos.com.br                                                                     295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Nos termos da Lei Complementar n.º 123/2006, o limite de aferição da classificação de sociedade empresária
+como microempresa ou empresa de pequeno porte é determinado com base
+
+a) no lucro antes dos impostos.
+
+b) no lucro líquido.
+
+c) na receita bruta.
+
+d) na receita líquida.
+
+e) no lucro bruto.
+
+Gabarito: C
+
+Comentário: A classificação de microempresa (ME) ou empresa de pequeno porte (EPP) é feita com base na
+receita bruta anual. De acordo com o art. 3º, I e II, da LC nº 123/2006, considera-se ME a empresa com receita
+bruta anual igual ou inferior a R$ 360.000,00 e EPP aquela com receita bruta superior a R$ 360.000,00 e igual
+ou inferior a R$ 4.800.000,00.
+
+15.CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+É vedado o ingresso no Simples Nacional de empresa de pequeno porte de cujo capital participe outra pessoa
+jurídica.
+
+Gabarito: Certo
+
+Comentário: A participação de pessoa jurídica no capital de empresa impede sua opção pelo Simples
+Nacional. Conforme o art. 3º, §4º, I, da LC nº 123/2006, não pode se beneficiar do regime a pessoa jurídica
+de cujo capital participe outra pessoa jurídica. Portanto, está certo!
+
+16.CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+São enquadradas no conceito de microempresa as sociedades empresárias cujo faturamento médio anual
+não ultrapasse R$ 81.000 ao mês.
+
+Gabarito: Errado
+
+Comentário: O limite mencionado refere-se ao Microempreendedor Individual (MEI), cujo faturamento
+anual não pode exceder R$ 81.000,00 (art. 18-A, §1º, da LC nº 123/2006). Para microempresas, o limite anual
+de receita bruta é de R$ 360.000,00 (art. 3º, I, da LC nº 123/2006). Assim sendo, está errado.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         208
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+17.CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O desenquadramento da sociedade empresária como microempresa ou empresa de pequeno porte implica
+a denúncia dos contratos por elas anteriormente firmados.
+
+Gabarito: Errado
+
+Comentário: Está errado porque o desenquadramento não afeta contratos já firmados. Segundo o art. 3º,
+§3º, da LC nº 123/2006, o enquadramento ou desenquadramento não implica alteração, denúncia ou
+restrição em relação a contratos anteriormente firmados.
+
+18.CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O recolhimento unificado de tributos decorrente da opção da empresa pelo Simples Nacional não exclui a
+incidência da contribuição para o fundo de garantia do tempo de serviço devida na qualidade de contribuinte
+ou responsável tributário.
+
+Gabarito: Certo
+
+Comentário: O Simples Nacional não abrange o FGTS. Conforme o art. 13, §1º, VIII, da LC nº 123/2006, o
+recolhimento unificado não exclui a incidência da contribuição para o FGTS, que deve ser recolhida
+separadamente. Logo, questão certa.
+
+19.CEBRASPE/Pref Mossoró-Direito/2024
+
+Em relação às principais características do empresário individual, julgue o item seguinte.
+
+Ao empresário individual é permitida, apenas, a contratação de um empregado, cujo salário deve ser o piso
+da categoria ou um salário mínimo.
+
+Gabarito: Errado
+
+Comentário: Ao contrário do que foi afirmado, não há limitação ao número de empregados para o
+empresário individual. A restrição mencionada é aplicada ao Microempreendedor Individual (MEI), conforme
+o art. 18-C da LC nº 123/2006, que permite a contratação de um empregado com salário mínimo ou piso da
+categoria. O empresário individual comum pode contratar mais empregados sem essas limitações.
+
+20.FGV/SEFAZ-BA/2022
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        209
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A sociedade empresária X optou pela sistemática de apuração e recolhimento simplificado do Simples
+Nacional e auferiu receita bruta de
+
+(i) R$ 350.000,00, no ano-calendário de 2018;
+
+(ii) R$ 1.500.000,00, no ano-calendário de 2019;
+
+(iii) R$ 4.500.000,00, no ano-calendário de 2020; e
+
+(iv) R$ 6.500.000,00, no ano-calendário de 2021.
+
+Sobre a hipótese descrita e considerando o total de receita bruta auferida no ano-calendário, assinale a
+afirmativa correta.
+
+A) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa, mantendo-se
+em 2019; em 2020 foi reenquadrada como empresa de pequeno porte; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+
+B) A receita bruta auferida em 2018 enquadra a sociedade empresária X como empresa de pequeno porte,
+mantendo-se em 2019 e 2020; sendo excluída do Simples Nacional em 2021, no mês subsequente à
+ocorrência do excesso.
+
+C) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+
+D) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte; e em 2020, no mês no subsequente à ocorrência do
+excesso, foi excluída do Simples Nacional, mantendo-se a exclusão no ano seguinte.
+
+E) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020 e 2021.
+
+Comentário: Consoante à previsão legal da LC 123/96 temos que:
+
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e
+o empresário a que se refere o art. 966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil),
+devidamente registrados no Registro de Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas,
+conforme o caso, desde que:
+
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); e
+
+II - no caso de empresa de pequeno porte, aufira, em cada ano-calendário, receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          210
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Portanto:
+
+(i) R$ 350.000,00, no ano-calendário de 2018, enquadra-se como microempresa;
+
+(ii) R$ 1.500.000,00, no ano-calendário de 2019, enquadra-se como empresa de pequeno porte, porque
+extrapolou o limite das ME;
+
+(iii) R$ 4.500.000,00, no ano-calendário de 2020, continua como EPP, porque está inferior ao limite de 4,8
+milhões;
+
+(iv) R$ 6.500.000,00, no ano-calendário de 2021, foi excluída do SN no mês em que ocorreu o excesso,
+porque extrapolou o limite em mais de 20% (5,76 milhões), caso tivesse extrapolado o limite até 20% o
+desenquadramento aconteceria apenas no ano subsequente.
+
+Letra A: Ela não se manteve como ME em 2019. Alternativa errada.
+
+Letra B: A receita de 2018 enquadrou a empresa como ME. Alternativa errada.
+
+Letra C: Conforme explicação da introdução supracitada. Alternativa correta.
+
+Letra D: Não houve excesso em 2019. Alternativa errada.
+
+Letra E: Em 2021 ela foi excluída do SN no mês subsequente ao excesso superior a 20% do limite. Alternativa
+errada.
+
+Gabarito: Letra C
+
+21.FGV/SEFAZ-AM-Auditor/2022
+
+A LC 123/2006 criou a figura do Microempreendedor Individual – MEI no claro intuito de permitir a
+formalização de mais trabalhadores sem também permitir que outros busquem este regime de tributação
+apenas para arrecadar menos.
+
+Assinale a opção que indica uma regra para ser MEI.
+
+A) Exercer qualquer atividade de contribuinte individual.
+
+B) Receber no máximo 2 salários mínimos por mês de média anual pela atividade.
+
+C) Ser sócio de mais de uma empresa, desde que a remuneração não passe de 3 salários mínimos.
+
+D) Contratar, no máximo, 3 funcionários.
+
+E) Não ser sócio ou administrador de mais de uma empresa.
+
+Comentário:
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        211
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Letra A: Há na Lei Complementar 123/96 um rol de atividades que se exercidas é vedada a opção pelo MEI,
+portanto não é qualquer atividade exercida que o contribuinte pode optar pelo recolhimento fixo mensal na
+forma no MEI. Alternativa errada.
+
+Letra B: O enquadramento do MEI é por receita bruta anual de até R$ 81.000,00, podendo ele faturar em
+um único mês os 81 mil e no restante zero, portanto não essa média afirmada no item. Alternativa errada.
+
+Letra C: Ficou estabelecido que não pode optar pelo recolhimento do Simples Nacional em valores fixos o
+MEI quem participe de outra empresa como titular, sócio ou administrador. Alternativa errada.
+
+Letra D: Ao MEI é permitido que possua um único empregado que receba exclusivamente um salário mínimo
+ou o piso salarial da categoria profissional. Alternativa errada.
+
+Letra E: Essa é a inteligência do art. 18-A, § 4ª, da LC 123/96.
+
+§ 4o Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
+
+(...)
+
+III - que participe de outra empresa como titular, sócio ou administrador;
+
+Alternativa correta.
+
+Gabarito: Letra E
+
+22.FGV/SEFAZ-AM-Auditor/2022
+
+Em observância a dispositivos constitucionais que determinam a concessão de tratamento diferenciado e
+favorecido às microempresas e empresas de pequeno porte, foi promulgada a Lei Complementar nº 123, em
+2006. Este diploma legal contém normas que disciplinam tal tratamento especial no que se refere à apuração
+e ao recolhimento dos impostos e das contribuições da União, dos Estados, do Distrito Federal e dos
+Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias – o Simples Nacional.
+
+No que se refere às Obrigações Fiscais Acessórias previstas na Lei Complementar nº 123, analise as
+afirmativas a seguir.
+
+I. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional são obrigadas a manter
+em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e das contribuições
+devidos.
+
+II. O microempreendedor individual (MEI) deverá comprovar a receita bruta mediante apresentação do
+registro de vendas ou de prestação de serviços, na forma estabelecida pelo Comitê Gestor do Simples
+Nacional (CGSN).
+
+III. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional deverão manter o
+livro-caixa em que será escriturada sua movimentação financeira e bancária.
+
+Está correto o que se afirma em
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      212
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+A) I, apenas.
+
+B) II, apenas.
+
+C) I e III, apenas.
+
+D) II e III, apenas.
+
+E) I, II e III.
+
+Comentário:
+
+Item I, vamos conferir a literalidade do art. 26 da LC 123/96.
+
+Art. 26. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam obrigadas a:
+
+(...)
+
+II - manter em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e
+contribuições devidos e o cumprimento das obrigações acessórias a que se refere o art. 25 desta Lei
+Complementar enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam
+pertinentes.
+
+Item correto.
+
+Item II, art. 26, § 1º.
+
+§ 1º O MEI fará a comprovação da receita bruta mediante apresentação do registro de vendas ou de
+prestação de serviços na forma estabelecida pelo CGSN, ficando dispensado da emissão do documento fiscal
+previsto no inciso I do caput, ressalvadas as hipóteses de emissão obrigatória previstas pelo referido Comitê.
+
+Item correto.
+
+Item III, art. 26, § 2º.
+
+§ 2º As demais microempresas e as empresas de pequeno porte, além do disposto nos incisos I e II do caput
+deste artigo, deverão, ainda, manter o livro-caixa em que será escriturada sua movimentação financeira e
+bancária.
+
+Item correto.
+
+Portanto temos os itens I, II e III corretos.
+
+Gabarito: Letra E
+
+23.FGV/SEFAZ-BA /2022
+
+            Receita Federal (Analista Tributário) Direito Tributário                                      213
+            www.estrategiaconcursos.com.br                                                                295
+
+                                          
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+A Lei Complementar Federal nº 123/2006 prevê um regime ainda mais simplificado de recolhimento de
+impostos e contribuições abrangidos pelo Simples Nacional aos Microempreendedores Individuais (MEI).
+
+Sobre o regime de arrecadação instituído para o MEI, analise as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+
+( ) O Empresário Individual que possua mais de um estabelecimento não poderá optar pelo regime especial
+em valores fixos.
+
+( ) O MEI é modalidade de microempresa.
+
+( ) O MEI constituído na forma de startup poderá optar pela sistemática de recolhimento em valores fixos
+mensais.
+
+As afirmativas são, na ordem apresentada, respectivamente,
+
+A) V – V – F.
+
+B) V – F – F.
+
+C) F – V – V.
+
+D) F – V – F.
+
+E) F – F – V.
+
+Comentário:
+
+Item I, por força legal do art. 18-A, § 4º da LC 123/96.
+
+§ 4º Não poderá optar pela sistemática de recolhimento prevista no caput deste artigo o MEI:
+
+(...)
+
+II - que possua mais de um estabelecimento;
+
+(...)
+
+V - constituído na forma de startup.
+
+Item verdadeiro.
+
+Item II, em conformidade com o art. 18-E, § 3º.
+
+§ 3o O MEI é modalidade de microempresa.
+
+Item verdadeiro.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      214
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Item III, conforme art. 18-A, § 4º, V, visto no primeiro item, não pode optar pela sistemática do MEI se for
+constituído na forma de startup. Item falso.
+
+Portanto temos a sequência V – V – F.
+
+Gabarito: Letra A
+
+24.FGV/SEFAZ-AM-Auditor/2022
+
+Na definição de microempresa e empresa de pequeno porte para fins de enquadramento no regime de
+tributação do Simples na forma estabelecida pela LC nº 123/2006, a receita bruta anual é decisiva. Até R$
+360.000,00 é microempresa e de R$360.000,01 a R$4.800.000,00 é considerado EPP – Empresa de Pequeno
+Porte.
+
+Assim, é correto afirmar que
+
+A) a microempresa que passar a EPP pela sua receita bruta precisa comunicar à Receita Federal essa troca.
+
+B) a EPP não pode passar a Microempresa.
+
+C) qualquer Microempresa ou EPP que respeitar tais limites estará obrigatoriamente no Simples.
+
+D) o MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos demais tributos não englobados
+no Documento Único Mensal do Simples.
+
+E) a microempresa que superar a receita bruta anual, se tornará EPP, passando a recolher mensalmente com
+base nas novas alíquotas, sem necessidade de maiores formalidades.
+
+Comentário:
+
+Letra A: Pela inteligência do § 7º, art. 3º, da LC 123/96. Perceba que, na hipótese de início de atividade, a
+ME exceder o limite da receita bruta anual limite no ano-calendário, passará no ano-calendário seguinte à
+condição de EPP. Portanto, nesse caso, a alteração acontece automaticamente e sem a necessidade de
+comunicação à RFB.
+
+Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o
+empresário a que se refere o art. 966 da Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), devidamente
+registrados no Registro de Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso,
+desde que:
+
+I - no caso da microempresa, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); e
+
+II - no caso de empresa de pequeno porte, aufira, em cada ano-calendário, receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          215
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+§ 2º No caso de início de atividade no próprio ano-calendário, o limite a que se refere o caput deste artigo
+será proporcional ao número de meses em que a microempresa ou a empresa de pequeno porte houver
+exercido atividade, inclusive as frações de meses.
+
+§ 7o Observado o disposto no § 2o deste artigo, no caso de início de atividades, a microempresa que, no
+ano-calendário, exceder o limite de receita bruta anual previsto no inciso I do caput deste artigo passa, no
+ano-calendário seguinte, à condição de empresa de pequeno porte.
+
+Alternativa errada.
+
+Letra B: A EPP pode sim, passar para ME.
+
+Art. 3º, § 8o Observado o disposto no § 2o deste artigo, no caso de início de atividades, a empresa de
+pequeno porte que, no ano-calendário, não ultrapassar o limite de receita bruta anual previsto no inciso I
+do caput deste artigo passa, no ano-calendário seguinte, à condição de microempresa.
+
+Alternativa errada.
+
+Letra C: O item erra ao utilizar o vocábulo obrigatoriamente, pois o § 4º, art. 3º da lei prevê casos em que
+mesmo respeitando tais limites, as empresas não poderão optar, exemplo, a pessoa jurídica cujo capital
+participe outra pessoa jurídica não pode fazer essa opção. Alternativa errada.
+
+Letra D: O MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos tributos previstos nos
+incisos I a VIII, art. 13, da LC 123/96. Alternativa errada.
+
+Letra E: Conforme o exposto na alternativa A. Se a ME ultrapassar o limite da receita bruta anual, passará a
+EPP e recolherá com base em novas alíquotas, sem necessidade de comunicação. Alternativa correta.
+
+Gabarito: Letra E
+
+25.FGV/MPE-GO-Analista/2022
+
+Acerca do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte - Simples Nacional e à luz da Lei Complementar nº 123/2006,
+julgue as afirmativas abaixo:
+
+I. Estão abrangidos pelo recolhimento no regime do Simples Nacional, dentre outros impostos federais, o
+Imposto sobre a Renda da Pessoa Jurídica - IRPJ; o Imposto sobre Produtos Industrializados - IPI e o Imposto
+sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF.
+
+II. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+
+III. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que tenha sócio domiciliado no exterior.
+
+Está correto apenas o que se afirma em
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         216
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+A) I.
+
+B) II.
+
+C) III.
+
+D) I e III.
+
+E) II e III.
+
+Comentário:
+
+Item I, conforme previsão legal do art. 13, § 1º, o IOF não está abrangido pelo recolhimento no regime do
+Simples Nacional.
+
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou contribuições,
+devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação
+aplicável às demais pessoas jurídicas:
+
+I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários -
+IOF;
+
+Item errado.
+
+Item II, previsão legal do art. 18-A, § 5º.
+
+§ 5º A opção de que trata o caput deste artigo dar-se-á na forma a ser estabelecida em ato do Comitê Gestor,
+observando-se que:
+
+I - será irretratável para todo o ano-calendário;
+
+Item correto.
+
+Item III, previsão literal do art. 17, II.
+
+Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa
+ou empresa de pequeno porte:
+
+(...)
+
+II - que tenha sócio domiciliado no exterior;
+
+Item correto.
+
+Portanto temos apenas os itens II e III corretos.
+
+Gabarito: Letra E
+
+              Receita Federal (Analista Tributário) Direito Tributário                                  217
+              www.estrategiaconcursos.com.br                                                            295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+26.FGV/SEFAZ-BA/2022
+
+O Simples Nacional é um regime especial tributário destinado às microempresas e às empresas de pequeno
+porte.
+
+No que se refere aos limites e vedações do Simples Nacional, assinale a afirmativa correta.
+
+A) Poderá optar pelo Simples Nacional a pessoa jurídica de cujo capital participe outra pessoa jurídica, desde
+que sua receita bruta seja inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+B) Caso determinada empresa de pequeno porte optante pelo Simples Nacional passe a ser constituída sob
+a forma de ações será excluída do tratamento jurídico diferenciado do Simples Nacional, com efeitos
+retroativos ao início de suas atividades.
+
+C) Não constitui óbice à adesão ao Simples Nacional a existência de débito pendentes com o INSS, com as
+Fazendas Públicas Federal, Estadual ou Municipal, em razão do princípio da isonomia tributária.
+
+D) As micro e pequenas cervejarias não poderão recolher os impostos e contribuições na forma do Simples
+Nacional, em razão da vedação da adesão de empresas que exerçam atividade de produção de bebidas
+alcoólicas.
+
+E) A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+
+Comentário:
+
+Letra A: Em conformidade com a previsão legal do art. 3º, § 4º, I e X, da LC 123/96, a pessoa jurídica de cujo
+capital participe outra pessoa jurídica não poderá optar pelo Simples Nacional.
+
+§ 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar, incluído
+o regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa jurídica:
+
+I - de cujo capital participe outra pessoa jurídica;
+
+(...)
+
+X - constituída sob a forma de sociedade por ações.
+
+Portanto, uma PJ que tenha como acionista, cotista, sócia outra PJ não tem opção pelo Simples Nacional.
+Alternativa errada.
+
+Letra B: Conforme o inciso X, § 4º, art. 3º supracitado. Alternativa errada.
+
+Letra C: O Art. 17, V da LC 123/96 prevê que a ME ou EPP, que possua débito com o Instituto Nacional do
+Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não
+esteja suspensa, não poderão recolher os impostos e contribuições na forma do Simples Nacional.
+Alternativa errada.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         218
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Letra D: Confira a literalidade do Art. 17, X, alínea “C”, da LC 123/96.
+
+Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte:
+
+(...)
+
+V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal,
+Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+
+(...)
+
+X - que exerça atividade de produção ou venda no atacado de:
+
+c) bebidas alcoólicas, EXCETO aquelas produzidas ou vendidas no atacado por:
+
+1. micro e pequenas cervejarias;
+
+Por conseguinte, as micro e pequenas cervejarias PODERÃO recolher os impostos e contribuições na forma
+do Simples Nacional. Alternativa errada.
+
+Letra E: Por previsão expressa do art. 16, da LC 123/96.
+
+Art. 16. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e
+empresa de pequeno porte dar-se-á na forma a ser estabelecida em ato do Comitê Gestor, sendo irretratável
+para todo o ano-calendário.
+
+Consequentemente, por opção da empresa não poderá haver mudança do recolhimento durante o ano todo,
+entretanto, isso não impede que ela seja excluída da sistemática caso incorra em algum dos casos de
+desenquadramento (excesso de limite de receita bruta anual, por exemplo) ou alguma das vedações
+previstas. Alternativa correta.
+
+Gabarito: Letra E
+
+27.FGV/SEFAZ-BA/2022
+
+Com relação ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte, analise as afirmativas a seguir.
+
+I. O Simples Nacional implica o recolhimento mensal do IRPJ, do IPI, da CSLL, da COFINS, da Contribuição para
+o PIS/Pasep, da Contribuição Patronal Previdenciária para a Seguridade Social, do ICMS e do ISS.
+
+II. O recolhimento mensal do Simples Nacional não exclui a incidência do ICMS devido nas operações sujeitas
+ao regime de substituição tributária.
+
+III. A pessoa jurídica optante pelo Simples Nacional fica dispensada do pagamento das demais contribuições,
+instituídas pela União, não previstas no recolhimento mensal do Simples Nacional.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         219
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Está correto o que se afirma em
+
+A) I, apenas.
+
+B) I e III, apenas.
+
+C) I e II, apenas.
+
+D) II e III, apenas.
+
+E) I, II e III.
+
+Comentário:
+
+Item I, o item trouxe a literalidade do art. 13 da LC 123/96. E, ressalto que, esse inciso é bastante abordado,
+seja diretamente como aqui no item ou indiretamente, então é imperioso ter essa relação de tributos
+decorados. Por isso reproduzo a literalidade para uma revisão.
+
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação,
+dos seguintes impostos e contribuições:
+
+I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+
+II - Imposto sobre Produtos Industrializados - IPI, observado o disposto no inciso XII do § 1o deste artigo;
+
+III - Contribuição Social sobre o Lucro Líquido - CSLL;
+
+IV - Contribuição para o Financiamento da Seguridade Social - COFINS, observado o disposto no inciso XII do
+§ 1o deste artigo;
+
+V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1o deste artigo;
+
+VI - Contribuição Patronal Previdenciária - CPP para a Seguridade Social, a cargo da pessoa jurídica, de que
+trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da microempresa e da empresa de
+pequeno porte que se dedique às atividades de prestação de serviços referidas no § 5º-C do art. 18 desta Lei
+Complementar;
+
+VII - Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de
+Transporte Interestadual e Intermunicipal e de Comunicação - ICMS;
+
+VIII - Imposto sobre Serviços de Qualquer Natureza - ISS.
+
+Item correto.
+
+Item II, o ICMS, na hipótese de substituição tributária, não é recolhido na sistemática do Simples Nacional.
+
+            Receita Federal (Analista Tributário) Direito Tributário                                           220
+            www.estrategiaconcursos.com.br                                                                     295
+
+                                          
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Art. 13, § 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou
+contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a
+legislação aplicável às demais pessoas jurídicas:
+
+(...)
+
+XIII - ICMS devido:
+
+a) nas operações sujeitas ao regime de substituição tributária (...)
+
+Item correto.
+
+Item III, a abordagem da banca foi literal, confira:
+
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições:
+
+(...)
+
+§ 3o As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam dispensadas
+do pagamento das demais contribuições instituídas pela União, inclusive as contribuições para as entidades
+privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata o art. 240
+da Constituição Federal, e demais entidades de serviço social autônomo.
+
+Este item causou um pouco de celeuma, haja vista que o § 1º do mesmo artigo prevê que:
+
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou contribuições,
+devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação
+aplicável às demais pessoas jurídicas:
+
+(...)
+
+X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte
+individual;
+
+(...)
+
+Acontece que o item como foi apresentado, parece que a ME ou EPP fica dispensada também da contribuição
+prevista no inciso X acima, contudo após recursos a banca manteve o gabarito justificando que o item III é
+literalidade do § 3º não cabendo outro tipo de interpretação. Item correto.
+
+Portanto temos os itens I, II e III corretos.
+
+Gabarito: Letra E
+
+28.FGV/SEFAZ-BA/2022
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        221
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Nas aquisições de mercadoria de microempresa optante pelo Simples Nacional, a pessoa jurídica X terá
+direito a crédito correspondente ao ICMS incidente nas referidas aquisições, desde que a pessoa jurídica X
+
+A) não seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização e observado, como limite, o ICMS efetivamente devido pela microempresa em relação a
+essas aquisições.
+
+B) não seja optante do Simples Nacional e a microempresa esteja sujeita à tributação do ICMS no Simples
+Nacional por valores fixos mensais.
+
+C) seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização, em operações internas, vedada a utilização em operações interestaduais.
+
+D) seja optante do Simples Nacional e que apresente anualmente ao Comitê Gestor do Simples Nacional
+requerimento de creditamento do ICMS.
+
+E) não seja optante do Simples Nacional e que a aquisição seja para composição do seu ativo fixo, não sendo
+fixado limite para sua utilização, em cumprimento ao princípio da não-cumulatividade.
+
+Comentário: Acompanhe a inteligência do art. 23, § 1º, da LC 123/96.
+
+Art. 23. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não farão jus
+à apropriação nem transferirão créditos relativos a impostos ou contribuições abrangidos pelo Simples
+Nacional.
+
+§ 1º As pessoas jurídicas e aquelas a elas equiparadas pela legislação tributária não optantes pelo Simples
+Nacional terão direito a crédito correspondente ao ICMS incidente sobre as suas aquisições de mercadorias
+de microempresa ou empresa de pequeno porte optante pelo Simples Nacional, desde que destinadas à
+comercialização ou industrialização e observado, como limite, o ICMS efetivamente devido pelas optantes
+pelo Simples Nacional em relação a essas aquisições.
+
+Feita essa introdução vamos aos comentários.
+
+Letra A: Perfeito, é a literalidade do art. 23, § 1º supracitado. Alternativa correta.
+
+Letra B: Não haverá crédito para as não optantes quando a microempresa ou empresa de pequeno porte
+estiver sujeita à tributação do ICMS no Simples Nacional por valores fixos mensais. Essa é a inteligência do
+§ 4º, art. 23, da LC 123/96.
+
+§ 4º Não se aplica o disposto nos §§ 1º a 3º deste artigo quando:
+
+I - a microempresa ou empresa de pequeno porte estiver sujeita à tributação do ICMS no Simples Nacional
+por valores fixos mensais;
+
+Alternativa errada.
+
+Letra C: Conforme o caput do art. 23. Alternativa errada.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        222
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra D: Conforme item anterior. Alternativa errada.
+
+Letra E: As aquisições devem ser destinadas à comercialização ou industrialização e há também limite a ser
+observado conforme o previsto no § 1º, art. 23. Alternativa errada.
+
+Gabarito: Letra A
+
+29.FGV/SEFAZ-AM-Auditor/2022
+
+Um empresário procura a Receita Estadual buscando informações sobre o Simples, com a perspectiva de
+recolher vários tributos em um único documento.
+
+Como exemplo dos tributos recolhidos no Simples Nacional, em Documento Único de Arrecadação na forma
+da LC 123/2006, temos
+                                                           ==219a34==
+
+A) IRPJ, Contribuição Previdenciária Patronal, IPI e ISS.
+
+B) IRPJ, Imposto de Importação, IOF e COFINS.
+
+C) IPI, ISS, ICMS e ITR.
+
+D) IRPJ, ISS, ITR e IPTU.
+
+E) IRPJ, Contribuição Previdenciária dos Trabalhadores, IPI e ITR.
+
+Comentário:
+
+Letra A: Em conformidade ao art. 13, da LC 123/96.
+
+Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação,
+dos seguintes impostos e contribuições:
+
+I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+
+II - Imposto sobre Produtos Industrializados - IPI, observado o disposto no inciso XII do § 1o deste artigo;
+
+III - Contribuição Social sobre o Lucro Líquido - CSLL;
+
+IV - Contribuição para o Financiamento da Seguridade Social - COFINS, observado o disposto no inciso XII do
+§ 1o deste artigo;
+
+V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1o deste artigo;
+
+VI - Contribuição Patronal Previdenciária - CPP para a Seguridade Social, a cargo da pessoa jurídica, de que
+trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da microempresa e da empresa de
+pequeno porte que se dedique às atividades de prestação de serviços referidas no § 5º-C do art. 18 desta Lei
+Complementar;
+
+         Receita Federal (Analista Tributário) Direito Tributário                                              223
+         www.estrategiaconcursos.com.br                                                                        295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+VII - Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de
+Transporte Interestadual e Intermunicipal e de Comunicação - ICMS;
+
+VIII - Imposto sobre Serviços de Qualquer Natureza - ISS.
+
+Alternativa correta.
+
+Letra B: Agora confira a literalidade do § 1º, art. 13, LC 123/96.
+
+§ 1o O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou contribuições,
+devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação
+aplicável às demais pessoas jurídicas:
+
+I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF;
+
+II - Imposto sobre a Importação de Produtos Estrangeiros - II;
+
+(...)
+
+IV - Imposto sobre a Propriedade Territorial Rural - ITR;
+
+Portanto, a afirmativa erra ao trazer o IOF. Alternativa errada.
+
+Letra C: A alternativa erra ao trazer o ITR. Alternativa errada.
+
+Letra D: A alternativa erra ao trazer o ITR e o IPTU. Alternativa errada.
+
+Letra E: A alternativa erra ao trazer o ITR e a Contribuição Previdenciária dos Trabalhadores, o correto seria
+Patronal. Alternativa errada.
+
+Gabarito: Letra A
+
+30.FGV/SEFAZ-ES-Auditor/2021
+
+As opções a seguir apresentam regras legais que se aplicam ao Microempreendedor Individual (MEI), à
+exceção de uma. Assinale-a.
+
+A) O MEI é modalidade de microempresa e todo benefício aplicável à microempresa estende-se a ele sempre
+que lhe for mais favorável.
+
+B) O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+
+C) O empresário individual ou empreendedor, que exerça atividades de industrialização, comercialização e
+prestação de serviços no âmbito rural, desde que não tenha empregados, poderá enquadrar-se como MEI.
+
+D) O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         224
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+E) O MEI, inscrito no conselho profissional de sua categoria na qualidade de pessoa física, fica dispensado de
+realizar nova inscrição no mesmo conselho, na qualidade de empresário individual.
+
+Comentário: Atenção ao comando da questão que aborda a exceção.
+
+Letra A: Essa é a previsão legal do art. 18-E, § 2º. Alternativa correta.
+
+Letra B: Confira a literalidade do art. 18-A, § 25, da LC 123/96.
+
+§ 25. O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+
+Alternativa correta.
+
+Letra C: Observe que é possível possuir um único empregado e que este receba exclusivamente um salário
+mínimo ou piso salaria da categoria.
+
+Art. 18-C. Observado o disposto no caput e nos §§ 1o a 25 do art. 18-A desta Lei Complementar, poderá
+enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado
+que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional.
+
+Portanto o item erra ao afirmar que para se enquadrar ao MEI não pode ter empregados. Alternativa errada.
+
+Letra D: Mais uma literalidade, confira.
+
+Art. 18-E. O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+
+Alternativa correta.
+
+Letra E: Conforme previsão legal do art. 18-A, § 19-A.
+
+§ 19-A O MEI inscrito no conselho profissional de sua categoria na qualidade de pessoa física é dispensado
+de realizar nova inscrição no mesmo conselho na qualidade de empresário individual.
+
+Alternativa correta.
+
+Gabarito: Letra C
+
+31.FGV/Pref. Paulínia-Advogado/2021
+
+Maria, manicure que aufere cerca de R$2.500,00 por mês, desejando regularizar sua atividade profissional,
+registrou-se como Microempreendedora Individual (MEI), optando por recolher seus tributos na sistemática
+do Simples Nacional.
+
+Por esse sistema, Maria irá recolher os tributos abrangidos pelo Simples Nacional
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          225
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A) em valor fixo mensal.
+
+B) em valor fixo anual.
+
+C) em percentual sobre a receita bruta mensal.
+
+D) em percentual sobre a receita bruta anual.
+
+E) em percentual sobre o faturamento mensal.
+
+Comentário: No contexto da questão temos uma pessoa física, que aufere R$ 2.500,00 mensais, atividade
+de manicure e que opta por recolher seus tributos na sistemática do SN, feita essa contextualização vamos
+à previsão legal.
+
+Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores FIXOS MENSAIS, independentemente da
+receita bruta por ele auferida no mês, na forma prevista neste artigo.
+
+§ 1º Para os efeitos desta Lei Complementar, considera-se MEI quem tenha auferido receita bruta, no ano-
+calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e
+que não esteja impedido de optar pela sistemática prevista neste artigo, e seja empresário individual que
+se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), ou o
+empreendedor que exerça:
+
+A atividade exercida por Maria (manicure) não possui vedação à opção, além disso, ela não extrapola o limite
+de R$ 81.000,00 anuais de receita bruta.
+
+Consequentemente, Maria, optando por recolher seus tributos na sistemática do Simples Nacional,
+recolherá seus tributos em valor fixo mensal.
+
+Gabarito: Letra A
+
+32.Prof. Fábio Dutra/Questão Inédita/2022
+
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições, exceto:
+
+a) Imposto sobre a Renda da Pessoa Jurídica – IRPJ.
+
+b) Contribuição Social sobre o Lucro Líquido – CSLL.
+
+c) Imposto sobre Produtos Industrializados – IPI.
+
+d) ICMS devido em operações com tributação concentrada em uma única etapa (monofásica).
+
+e) Contribuição Patronal Previdenciária – CPP.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         226
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra A: Correta. O Imposto sobre a Renda da Pessoa Jurídica – IRPJ foi incluído no Simples Nacional.
+
+Letra B: Correta. A Contribuição Social sobre o Lucro Líquido – CSLL foi incluída no Simples Nacional.
+
+Letra C: Correta. O Imposto sobre Produtos Industrializados – IPI foi incluído no Simples Nacional.
+
+Letra D: Errada. O ICMS devido em operações com tributação concentrada em uma única etapa (monofásica)
+não foi incluído no Simples Nacional.
+
+Letra E: Correta. A Contribuição Patronal Previdenciária – CPP foi incluída no Simples Nacional.
+
+Gabarito: Letra D
+
+33.Prof. Fábio Dutra/Questão Inédita/2022
+
+A respeito do Microempreendedor Individual – MEI, previsto na Lei Complementar 123/2006, assinale a
+alternativa errada:
+
+a) poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em
+valores fixos mensais, independentemente da receita bruta por ele auferida no mês;
+
+b) O limite anual de receita bruta para fins de enquadramento como MEI é de R$ 120.000,00.
+
+c) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que possua mais de um
+estabelecimento;
+
+d) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que participe de outra empresa
+como titular, sócio ou administrador;
+
+e) Não poderá optar pela sistemática de recolhimento diferenciado o MEI constituído na forma de startup.
+
+Comentário: O Simples Nacional é o regime tributária diferenciado e favorecido destinado a microempresas
+(MEs) e empresas de pequeno porte (EPPs), instituído pela LC 123/2006, envolvendo tributos de
+competência da União, Estados, DF e Municípios.
+
+A sistemática do microempreendedor individual (MEI) se baseia no recolhimento dos impostos e
+contribuições do Simples Nacional em valores fixos mensais, seja qual for a receita bruta auferida,
+respeitado, é claro, o limite para enquadramento como MEI, que por sinal é muito mais restrito do que o das
+MEs e EPPs: R$ 81.000,00 anual.
+
+Letra A: Correta. Trata-se do disposto no art. 18-A, da LC 123/2006: O Microempreendedor Individual - MEI
+poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta por ele auferida no mês, na forma prevista neste artigo.
+
+Letra B: Errada. Na realidade, o art. 18-A, § 1º, da LC 123/2006, prevê que o limite anual de receita bruta
+para o MEI é de R$ 81.000,00.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         227
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra C: Correta. O art. 18-A, § 4º, II, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+
+Letra D: Correta. O art. 18-A, § 4º, III, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+
+Letra E: Correta. O art. 18-A, § 4º, V, da LC 123/2006, prevê que Não poderá optar pela sistemática de
+recolhimento diferenciado o MEI que possua mais de um estabelecimento.
+
+Gabarito: Letra B
+
+34.Prof. Fábio Dutra/Questão Inédita/2022
+
+A empresa Alfa, não optante pelo Simples Nacional, realiza três aquisições de empresas optantes pelo
+Simples Nacional:
+
+Produto 01 – da Empresa Gama (EPP) – destinado à industrialização;
+
+Produto 02 – da Empresa Beta (ME) – destinado à comercialização;
+
+Produto 03 – da Empresa Delta (EPP) – destinado ao seu consumo.
+
+Em relação ao ICMS incidente na operação de venda das empresas Gama, Beta e Delta para a empresa Alfa,
+e considerando as disposições da Lei Complementar 123/2006, assinale a alternativa correta:
+
+a) A empresa Alfa não tem direito ao crédito de ICMS em tais aquisições.
+
+b) A empresa Alfa tem direito ao crédito de ICMS em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite a alíquota interna do imposto.
+
+c) A empresa Alfa tem direito ao crédito de ICMS, em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite o valor devido pela empresa vendedora.
+
+d) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 02, tendo como limite o
+valor devido pela empresa vendedora.
+
+e) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 01 e 02, tendo como limite
+o valor devido pela empresa vendedora.
+
+Comentário: De acordo com o art. 23, da LC 123/06, as microempresas e as empresas de pequeno porte
+optantes pelo Simples Nacional não farão jus à apropriação nem transferirão créditos relativos a impostos
+ou contribuições abrangidos pelo Simples Nacional.
+
+Logo, a princípio, a empresa não optante pelo Simples Nacional que adquira mercadorias de optante do
+Simples Nacional não teria direito a créditos. Porém, o § 1º, do art. 23, prevê o direito a crédito para as
+empresas não optantes do Simples Nacional, quando estas adquirirem de MEs e EPPs optantes,
+correspondente ao valor incidente de ICMS sobre a aquisição, desde que as mercadorias sejam destinadas à
+comercialização e industrialização.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        228
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+    Fábio Dutra
+    Aula 19
+
+O detalhe ME ou EPP não faz diferença no caso em análise, o que devemos considerar é que a empresa
+fornecedora é optante pelo Simples Nacional, logo, a adquirente só terá direito aos créditos de ICMS caso
+tais mercadorias sejam destinadas pela adquirente Alfa à comercialização e industrialização. Ademais, o valor
+do ICMS está limitando ao valor incidente de ICMS sobre a aquisição.
+
+Letra A: Errada. A empresa Alfa tem direito ao crédito de ICMS em relação aos Produtos 1 e 2
+(comercialização e industrialização).
+
+Letra B: Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é aquele devido pela fornecedora no âmbito do Simples
+Nacional.
+
+Letra C: Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é, conforme dito, aquele devido pela fornecedora no
+âmbito do Simples Nacional.
+
+Letra D: Errada. A empresa Alfa tem direito ao crédito de ICMS apenas em relação aos Produtos 1 e 2
+(comercialização e industrialização). O limite de valor é aquele devido pela fornecedora no âmbito do Simples
+Nacional.
+
+Letra E: Correta. Tal como foi afirmado nesta letra, a empresa Alfa tem direito ao crédito de ICMS apenas
+em relação aos Produtos 1 e 2 (comercialização e industrialização). O limite de valor é aquele devido pela
+fornecedora no âmbito do Simples Nacional.
+
+Gabarito: Letra E
+
+35.Prof. Fábio Dutra/Questão Inédita/2022
+
+Acerca do Simples Nacional, e considerando os regramentos da Lei Complementar 123/2006 e suas
+alterações posteriores, analise as situações abaixo:
+
+I - Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada como
+microempresa ou empresa de pequeno porte poderá admitir o aporte de capital, que integrará o capital
+social da empresa.
+
+II - No caso de investidor-anjo, o contrato de participação terá duração não superior a 10 anos.
+
+III – Caso uma microempresa ou empresa de pequeno porte venha se beneficiar do aporte de capital na
+forma de investidor-anjo, a atividade constitutiva do objeto social será exercida unicamente por sócios
+regulares, em seu nome individual e sob sua exclusiva responsabilidade.
+
+Estão corretos os seguintes itens:
+
+a) I, II, III.
+
+b) I, II.
+
+c) II, III.
+
+
+              Receita Federal (Analista Tributário) Direito Tributário                                   229
+              www.estrategiaconcursos.com.br                                                             295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+d) I, III.
+
+e) III.
+
+Comentário: Com a publicação da Lei Complementar 155/2016, foi prevista a figura do “investidor-anjo”,
+que nada mais é do que uma pessoa física ou jurídica que investe em pequenas empresas com alto potencial
+de crescimento, fornecendo recursos para viabilizar o negócio e, consequentemente, obter retorno do seu
+investimento.
+
+Item I: Errado. De acordo com o art. 61-A, da LC 123/2006, foi previsto que para incentivar as atividades de
+inovação e os investimentos produtivos, a sociedade enquadrada como microempresa ou empresa de
+pequeno porte, nos termos desta Lei Complementar, poderá admitir o aporte de capital, que não integrará
+o capital social da empresa.
+
+Item II: Errado. De acordo com o art. 61-A, § 1º, da LC 123/2006, as finalidades de fomento a inovação e
+investimentos produtivos deverão constar do contrato de participação, com vigência não superior a 7 anos.
+
+Item III: Correto. De acordo com o art. 61-A, § 3º, da LC 123/2006, caso uma microempresa ou empresa de
+pequeno porte venha se beneficiar do aporte de capital na forma de investidor-anjo, a atividade constitutiva
+do objeto social será exercida unicamente por sócios regulares, em seu nome individual e sob sua exclusiva
+responsabilidade.
+
+Gabarito: Letra E
+
+36.Prof. Fábio Dutra/Questão Inédita/2022
+
+No tocante ao Simples Nacional, julgue as assertivas abaixo, e ao final, assinale a alternativa que representa
+a resposta correta:
+
+( ) O Simples Nacional abrange a apuração e recolhimento dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, exceto as obrigações
+acessórias.
+
+( ) Nas licitações será assegurada, como critério de desempate, preferência de contratação para as
+microempresas e empresas de pequeno porte, entendendo-se por empate, como regra, aquelas situações
+em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até
+10% superiores à proposta mais bem classificada.
+
+( ) As cooperativas podem se beneficiar do tratamento jurídico previsto na LC 123/2006 (Simples Nacional).
+
+a) V, F, F
+
+b) V, F, V
+
+c) V, V, V
+
+d) F, V, F
+
+             Receita Federal (Analista Tributário) Direito Tributário                                      230
+             www.estrategiaconcursos.com.br                                                                295
+
+                                           
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+e) F, F, F
+
+Comentário:
+
+Item I: Errada. De acordo com o art. 1º, da LC 123/06, o Simples Nacional abrange a apuração e recolhimento
+dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios, mediante regime
+único de arrecadação, inclusive as obrigações acessórias.
+
+Item II: Correta. O art. 44, da LC 123/06, prevê que, nas licitações será assegurada, como critério de
+desempate, preferência de contratação para as microempresas e empresas de pequeno porte.
+
+O § 1º, do referido artigo, dispõe que se entende por empate, como regra, aquelas situações em que as
+propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10%
+superiores à proposta mais bem classificada.
+
+Item III: Errada. O art. 3º, § 4º, VI, da LC 123/06, estabelece que as cooperativas podem se beneficiar do
+Simples Nacional, exceto as cooperativas de consumo. Logo, essa afirmação genérica as respeito das
+cooperativas deve ser considerada errada.
+
+Gabarito: D
+
+    37. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+O fato de uma sociedade empresária classificada como empresa de pequeno porte e optante do tratamento
+jurídico diferenciado previsto na mencionada LC passar a ter como sócia pessoa jurídica distinta é causa de
+exclusão do respectivo regime diferenciado, a partir do mês seguinte ao da ocorrência da respectiva situação
+impeditiva.
+
+Comentário: A empresa que tiver outra pessoa jurídica participando do seu capital social não poderá se
+beneficiar do tratamento jurídico diferenciado (Simples Nacional), para nenhum efeito legal, conforme art.
+3º, § 4º, da LC 123/06. Os efeitos da exclusão já começam a valer a partir do mês seguinte ao da ocorrência
+da respectiva situação impeditiva.
+
+Gabarito: Certo
+
+    38. CEBRASPE/DPE RO/2023
+
+Conforme a Lei Complementar n.º 123/2006, em regra, as empresas optantes do Simples Nacional devem
+recolher, mensalmente,
+
+I o imposto sobre a propriedade territorial rural (ITR).
+
+II o imposto sobre a renda da pessoa jurídica (IRPJ).
+
+III o imposto sobre produtos industrializados (IPI).
+
+
+             Receita Federal (Analista Tributário) Direito Tributário                                    231
+             www.estrategiaconcursos.com.br                                                              295
+
+                                           
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+IV a contribuição social sobre o lucro líquido (CSLL).
+
+V a contribuição para o financiamento da seguridade social (COFINS).
+
+Estão certos apenas os itens
+
+a) I e V.
+
+b) III e IV.
+
+c) I, II e V.
+
+d) I, II, III e IV.
+
+e) II, III, IV e V.
+
+Comentário:
+
+Item I: O ITR não está incluído no âmbito do Simples Nacional, conforme art. 13, § 1º, da LC 123/06. Errado.
+
+Item II: O IRPJ está incluído no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item III: O IPI está incluído no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item IV: A CSLL está incluída no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Item V: A COFINS está incluída no âmbito do Simples Nacional, conforme art. 13, da LC 123/06. Correto.
+
+Gabarito: E
+
+     39. CEBRASPE/PPNT (PETROBRAS)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023
+
+No que se refere à administração tributária, julgue o item a seguir.
+
+O simples nacional, também conhecido como simples federal, unificou os sistemas de tributação de
+microempresas e pequenas empresas, englobando oito tributos distintos.
+
+Comentário: Embora o Simples Nacional englobe realmente 8 tributos, nos termos do art. 13, da LC 123/06,
+tal regime não se confunde com o simples federal, e é, na verdade, o seu substituto.
+
+Gabarito: Errado
+
+     40. CEBRASPE/ATM Pref Fortaleza/2023
+
+Considerando a competência tributária prevista na Constituição Federal de 1988 e no Código Tributário
+Nacional, julgue o item a seguir.
+
+            Receita Federal (Analista Tributário) Direito Tributário                                     232
+            www.estrategiaconcursos.com.br                                                               295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O microempreendedor individual (MEI) tem autorização legal para, caso queira, aderir ao recolhimento dos
+impostos e das contribuições abrangidos pelo Simples Nacional.
+
+Comentário: É o que prevê o caput do art. 18-A, da LC 123/06:
+
+       Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e
+       contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da
+       receita bruta por ele auferida no mês, na forma prevista neste artigo.
+
+Gabarito: Certo
+
+   41. CEBRASPE/MPE-PA-PROMOTOR/2023
+
+Caso a microempresa vencedora de licitação pública possua restrição na comprovação de regularidade fiscal
+ou trabalhista, ser-lhe-á concedido, para regularizar a situação, a contar da declaração do vencedor do
+certame, o prazo de
+
+a) 10 dias úteis, vedada a prorrogação.
+
+b) 15 dias úteis, prorrogável por igual período.
+
+c) 5 dias úteis, prorrogável por igual período.
+
+d) 10 dias úteis, prorrogável por igual período.
+
+e) 15 dias úteis, vedada a prorrogação.
+
+Comentário: A regra relativa à comprovação de regularidade fiscal e trabalhista encontra-se prevista no art.
+43 da LC 123/06:
+
+       Art. 43. As microempresas e as empresas de pequeno porte, por ocasião da participação em certames
+       licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de
+       regularidade fiscal e trabalhista, mesmo que esta apresente alguma restrição.
+
+       § 1º Havendo alguma restrição na comprovação da regularidade fiscal e trabalhista, será assegurado
+       o prazo de cinco dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for
+       declarado vencedor do certame, prorrogável por igual período, a critério da administração pública,
+       para regularização da documentação, para pagamento ou parcelamento do débito e para emissão de
+       eventuais certidões negativas ou positivas com efeito de certidão negativa.
+
+Veja, portanto, que o prazo é de 5 dias úteis, prorrogável por igual período.
+
+Gabarito: C
+
+   42. CEBRASPE/NeR (TJ SC)/TJ SC/Remoção/2023
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        233
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Na Lei Complementar n.º 123/2006, a definição “órgão ou instituição de natureza pública ou privada que
+tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o
+desenvolvimento da ciência, da tecnologia e da inovação” refere-se a
+
+a) instituição de apoio.
+
+b) órgão de promoção da inovação.
+
+c) instituição científica e tecnológica.
+
+d) agência de fomento.
+
+e) núcleo de inovação tecnológica.
+
+Comentário: O art. 64 da LC 123/06 traz diversos conceitos definidos pela legislação relativamente ao
+estímulo à inovação, por parte das microempresas e empresas de pequeno porte.
+
+       Art. 64. Para os efeitos desta Lei Complementar considera-se:
+
+       I - inovação: a concepção de um novo produto ou processo de fabricação, bem como a agregação de
+       novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais
+       e efetivo ganho de qualidade ou produtividade, resultando em maior competitividade no mercado;
+
+       II - agência de fomento: órgão ou instituição de natureza pública ou privada que tenha entre os seus
+       objetivos o financiamento de ações que visem a estimular e promover o desenvolvimento da ciência,
+       da tecnologia e da inovação;
+
+       III - Instituição Científica e Tecnológica - ICT: órgão ou entidade da administração pública que tenha
+       por missão institucional, dentre outras, executar atividades de pesquisa básica ou aplicada de caráter
+       científico ou tecnológico;
+
+       IV - núcleo de inovação tecnológica: núcleo ou órgão constituído por uma ou mais ICT com a finalidade
+       de gerir sua política de inovação;
+
+       V - instituição de apoio: instituições criadas sob o amparo da Lei no 8.958, de 20 de dezembro de
+       1994, com a finalidade de dar apoio a projetos de pesquisa, ensino e extensão e de desenvolvimento
+       institucional, científico e tecnológico.
+
+       VI - instrumentos de apoio tecnológico para a inovação: qualquer serviço disponibilizado
+       presencialmente ou na internet que possibilite acesso a informações, orientações, bancos de dados
+       de soluções de informações, respostas técnicas, pesquisas e atividades de apoio complementar
+       desenvolvidas pelas instituições previstas nos incisos II a V deste artigo.
+
+Como se percebe, a definição do inciso II se encaixa exatamente no que foi previsto no enunciado. Logo, a
+resposta é agência de fomento.
+
+Gabarito: D
+
+         Receita Federal (Analista Tributário) Direito Tributário                                        234
+         www.estrategiaconcursos.com.br                                                                  295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+   43. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+Nos termos da referida LC, o fato de uma sociedade limitada ser considerada empresa de pequeno porte não
+desobriga os sócios de realizarem reuniões e assembleias na forma estabelecida pelo Código Civil para suas
+deliberações.
+
+Comentário: No tocante às regras sobre deliberações sociais e da estrutura organizacional, previstas na LC
+123/06, o seu art. 70 salienta que as MEs e EPPs são desobrigadas da realização de reuniões e assembleias:
+
+       Art. 70. As microempresas e as empresas de pequeno porte são desobrigadas da realização de
+       reuniões e assembléias em qualquer das situações previstas na legislação civil, as quais serão
+       substituídas por deliberação representativa do primeiro número inteiro superior à metade do capital
+       social.
+
+Gabarito: Errado
+
+   44. CEBRASPE/Proc DF/PG DF/2022
+
+Os representantes do DF no Comitê Gestor do Simples Nacional, vinculado ao Ministério da Economia, e no
+Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e
+Negócios serão indicados pela Secretaria Especial da Receita Federal do Brasil.
+
+Comentário: O art. 2º, da LC 123/06, prevê que o Simples Nacional será gerido pelo Comitê Gestor do Simples
+Nacional, pelo Fórum Permanente das Microempresas e Empresas de Pequeno Porte e pelo Comitê para
+Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios – CGSIM.
+
+Em relação ao Comitê Gestor do Simples Nacional e ao CGSIM, foi estabelecido que:
+
+       Art. 2º
+
+       (...)
+
+       § 2º Os representantes dos Estados e do Distrito Federal nos Comitês referidos nos incisos I e III
+       do caput deste artigo serão indicados pelo Conselho Nacional de Política Fazendária - CONFAZ e os
+       dos Municípios serão indicados, um pela entidade representativa das Secretarias de Finanças das
+       Capitais e outro pelas entidades de representação nacional dos Municípios brasileiros.
+
+Gabarito: Errado
+
+   45. CEBRASPE/ATrib (Pref Maringá)/2022
+
+Pode se beneficiar da condição de microempresa, segundo o Estatuto Nacional da Microempresa e da
+Empresa de Pequeno Porte, a pessoa jurídica
+
+a) de cujo capital participe outra pessoa jurídica.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        235
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+b) que seja filial, no país, de pessoa jurídica sediada no exterior.
+
+c) constituída sob a forma de cooperativa de consumo.
+
+d) que exerça atividade de seguros privados.
+
+e) constituída sob a forma de sociedade por ações.
+
+Comentário:
+
+Letra A: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Letra B: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Letra C: Como regra, as cooperativas são vedadas pelo art. 3º, § 4º, da LC 123/06. Porém, foi criada a ressalva
+em relação às cooperativas de consumo. Correto.
+
+Letra D: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Letra E: Situação vedada pelo art. 3º, § 4º, da LC 123/06. Errado.
+
+Gabarito: C
+
+46.VUNESP/ PRUDENCO-Compras/2022
+
+A Lei Complementar no 147/2014 determina que sejam concedidos, nas contratações públicas da
+administração direta e indireta, autárquica e fundacional, federal, estadual e municipal, tratamentos
+diferenciados e simplificados para
+
+A) o microempreendedor individual e as empresas de médio porte.
+
+B) as empresas de pequeno e de médio porte.
+
+C) as microempresas e as empresas de médio porte.
+
+D) as microempresas e as empresas de pequeno porte.
+
+E) as empresas de médio e de grande porte.
+
+ Comentário: O Simples Nacional foi instituído pela LC 123/2006, cumprindo o disposto no art. 146, da CF.
+Tal dispositivo constitucional definiu caber à lei complementar a definição de tratamento diferenciado e
+favorecido para as microempresas e para as empresas de pequeno porte.
+
+Portanto, o Simples Nacional foi criado para as microempresas e as empresas de pequeno porte. Questão
+simples e bem direta.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                          236
+         www.estrategiaconcursos.com.br                                                                    295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Gabarito: Letra D
+
+47.VUNESP/Auditor Público Interno (Pref Guaratinguetá)/2022
+
+Segundo a Lei Complementar nº 123/2006, entre outras, poderão recolher os impostos e contribuições na
+forma do Simples Nacional a microempresa ou empresa de pequeno porte
+
+A) que tenha sócio domiciliado no exterior.
+
+B) de cujo capital participe entidade da administração pública.
+
+C) distribuidora ou comercializadora de energia elétrica.
+
+D) que se dedique à advocacia.
+
+E) que realize cessão ou locação de mão-de-obra.
+
+Comentário:
+
+Letra A: Trata-se de uma vedação prevista no art. 17, II, da LC 123/2006. Alternativa errada.
+
+Letra B: Trata-se de uma vedação prevista no art. 17, III, da LC 123/2006. Alternativa errada.
+
+Letra C: Trata-se de uma vedação prevista no art. 17, VII, da LC 123/2006. Alternativa errada.
+
+Letra D: A ME ou EPP que se dedique à advocacia pode optar pelo Simples Nacional. Ou seja, não há vedação
+quanto a esse ramo de atividade. Alternativa correta.
+
+Letra E: Trata-se de uma vedação prevista no art. 17, XII, da LC 123/2006. Alternativa errada.
+
+Gabarito: Letra D
+
+48.VUNESP/Inspetor Fiscal de Rendas – Pref. Guarulhos/2019
+
+Assinale a alternativa que contempla um tipo de pessoa jurídica que pode se enquadrar nos termos da Lei
+Complementar nº 123/2006, como microempresa ou empresa de pequeno porte, e que poderá se beneficiar
+do tratamento jurídico diferenciado previsto nessa Lei, desde que atenda aos demais requisitos legais.
+
+A) Constituída sob a forma de sociedade por ações.
+
+B) Constituída sob a forma de cooperativa de consumo.
+
+C) De cujo capital participe outra pessoa jurídica.
+
+D) Filial, no País, de pessoa jurídica com sede no exterior.
+
+E) Que exerça atividade de sociedade de crédito.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      237
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Comentário: O art. 3º, § 4º, da LC 123/06, elenca uma série de situações em que MEs e EPPs não podem
+optar pelo Simples Nacional. Vamos lá!
+
+Letra A: É uma vedação prevista no art. 3º, § 4º, X, da LC 123/06. Alternativa errada.
+
+Letra B: A ME ou EPP constituída sob a forma de cooperativa de consumo pode optar pelo Simples Nacional,
+conforme art. 3º, § 4º, VI, da LC 123/06. Alternativa correta.
+
+Letra C: É uma vedação prevista no art. 3º, § 4º, I, da LC 123/06. Alternativa errada.
+
+Letra D: É uma vedação prevista no art. 3º, § 4º, II, da LC 123/06. Alternativa errada.
+
+Letra E: É uma vedação prevista no art. 3º, § 4º, VIII, da LC 123/06. Alternativa errada.
+
+Gabarito: Letra B
+
+49.VUNESP/Inspetor Fiscal de Rendas – Pref. Guarulhos/2019
+
+ Considere a seguinte situação hipotética: A empresa “Transportando Pessoas XPTO S/A”, prestadora de
+serviço de transporte coletivo municipal de trabalhadores, na modalidade fretamento contínuo, é
+responsável por transportar empregados de companhia sediada na região central do município residentes
+nos bairros periféricos.
+
+De acordo com a legislação em vigor, essa empresa
+
+A) poderá ser optante do Simples Nacional, independentemente de se enquadrar no conceito legal de
+microempresa ou empresa de pequeno porte.
+
+B) não poderá ser optante do Simples Nacional, em razão da sua forma de constituição.
+
+C) poderá usufruir dos benefícios tributários do Simples Nacional, ainda que não seja optante, em razão da
+natureza do serviço prestado.
+
+D) poderá usufruir apenas dos benefícios não tributários do Simples Nacional, mesmo que seja optante.
+
+E) não poderá ser optante do Simples Nacional, porque não realiza transporte de estudantes de baixa renda.
+
+Comentário: Existem dois pontos que devem ser avaliados no caso em questão:
+
+1) A empresa foi constituída sob a forma de sociedade por ações (S/A);
+
+É uma vedação plena ao ingresso no Simples Nacional:
+
+      Art. 3º:
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       238
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+     (...)
+
+     § 4º Não poderá se beneficiar do tratamento jurídico diferenciado previsto nesta Lei Complementar, incluído o
+     regime de que trata o art. 12 desta Lei Complementar, para nenhum efeito legal, a pessoa jurídica:
+
+     (...)
+
+     X - constituída sob a forma de sociedade por ações.
+
+2) A empresa realiza serviço de transporte coletivo municipal de trabalhadores, na modalidade fretamento
+contínuo.
+
+É uma exceção permitida dentro das regras de vedações parciais:
+
+     Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+     empresa de pequeno porte:
+
+     (...)
+
+     VI - que preste serviço de transporte intermunicipal e interestadual de passageiros, exceto quando na
+     modalidade fluvial ou quando possuir características de transporte urbano ou metropolitano ou realizar-se sob
+     fretamento contínuo em área metropolitana para o transporte de estudantes ou trabalhadores;
+
+Assim, como comentamos, não poderá ser optante do Simples Nacional, em razão da sua forma de
+constituição. É uma hipótese de vedação plena. Se fosse apenas pela sua atividade, e constituída como uma
+ltda, por exemplo, não haveria impedimento.
+
+Gabarito: Letra B
+
+50.VUNESP/Juiz Estadual (TJ RS)/2018
+
+Para os efeitos da Lei Complementar nº 123/2006, consideram- se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o
+empresário a que se refere o artigo 966 do Código Civil em vigor, devidamente registrados no Registro de
+Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+
+A) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 400.000,00
+(quatrocentos mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$ 400.000,00
+(quatrocentos mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+B) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); no caso de empresa de pequeno porte aufira receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+C) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 380.000,00
+(trezentos e oitenta mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$
+380.000,00 (trezentos e oitenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                             239
+         www.estrategiaconcursos.com.br                                                                       295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+D) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 5.000.000,00 (cinco milhões de reais).
+
+E) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 400.000,00
+(quatrocentos mil reais); no caso de empresa de pequeno porte aufira receita bruta superior a R$ 400.000,00
+(quatrocentos mil reais) e igual ou inferior a R$ 5.000.000,00 (cinco milhões de reais).
+
+Comentário: A questão é extensa, porém sua resposta é bem simples:
+
+Microempresa: receita bruta igual ou inferior a R$ 360.000,00 (trezentos e sessenta mil reais);
+
+Empresa de pequeno porte: receita bruta superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual
+ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+Gabarito: Letra B
+
+51.VUNESP/Fiscal de Cadastro Tributário I (Pref SBC)/2018
+
+Segundo o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar nº
+123/2006), é correto afirmar que
+
+A) se considera microempresa ou empresa de pequeno porte a sociedade empresária ainda que não
+registrada no Registro de Empresas Mercantis.
+
+B) se consideram empresas de pequeno porte as que aufiram, em cada ano-calendário, receita bruta superior
+a R$ 360.000,00 e igual ou inferior a R$ 4.800.000,00.
+
+C) o regime desta lei aplica-se às empresas integrantes de grupos empresariais, controladas por outras
+pessoas jurídicas.
+
+D) o Regime Especial do Simples Nacional abrange apenas os impostos de competência da União Federal,
+Estados e Municípios.
+
+E) poderá recolher os impostos e contribuições na forma do Simples Nacional a empresa de pequeno porte
+com ausência de inscrição ou com irregularidade em cadastro fiscal federal, municipal ou estadual.
+
+Comentário:
+
+Letra A: Na realidade, é considerada como microempresa ou empresa de pequeno porte a sociedade
+empresária aquela registrada no Registro de Empresas Mercantis. Alternativa errada.
+
+Letra B: Os limites corretos são os seguintes:
+
+Microempresa: receita bruta igual ou inferior a R$ 360.000,00 (trezentos e sessenta mil reais);
+
+Empresa de pequeno porte: receita bruta superior a R$ 360.000,00 (trezentos e sessenta mil reais) e igual
+ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais). Alternativa correta.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        240
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Letra C: A ME ou EPP não pode ter como sócio outra pessoa jurídica. Alternativa errada.
+
+Letra D: O Regime Especial do Simples Nacional abrange também contribuições de competência da União,
+como PIS/COFINS. Alternativa errada.
+
+Letra E: A ausência de inscrição ou irregularidade em cadastro fiscal federal, municipal ou estadual configura
+situação impeditiva para recolher os tributos na forma do Simples Nacional. Alternativa errada.
+
+Gabarito: Letra B
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          241
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+                 LISTA DE QUESTÕES COMENTADAS
+1. CEBRASPE/TRT 10-Analista/2025
+
+A respeito das consequências tributárias dos contratos de prestação de serviços de vigilância armada com
+cessão de mão de obra, julgue o item a seguir.
+
+As microempresas e as empresas de pequeno porte que prestam serviço de vigilância mediante cessão de
+mão de obra não podem recolher impostos e contribuições pelo regime do Simples Nacional.
+
+2. CEBRASPE/SEFAZ-AC-AUDITOR/2024
+
+Suponha que determinado empresário tenha constituído uma empresa de pequeno porte e que tenha
+optado pelo regime do Simples Nacional, com base na Lei Complementar n.º 123/2006. Nesse caso, a
+empresa terá tratamento diferenciado e favorecido no que se refere ao recolhimento
+
+a) de taxas estaduais, mas não de impostos municipais.
+
+b) de taxas federais, mas não de taxas estaduais.
+
+c) de contribuições federais, mas não de impostos municipais.
+
+d) de impostos federais, mas não de contribuições federais.
+
+e) de impostos estaduais, mas não de taxas federais.
+
+3. CEBRASPE/SEFAZ-AC-TÉCNICO/2024
+
+Nos termos da Lei Complementar n.º 123/2006, o limite de aferição da classificação de sociedade empresária
+como microempresa ou empresa de pequeno porte é determinado com base
+
+a) no lucro antes dos impostos.
+
+b) no lucro líquido.
+
+c) na receita bruta.
+
+d) na receita líquida.
+
+e) no lucro bruto.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      242
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+4. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+É vedado o ingresso no Simples Nacional de empresa de pequeno porte de cujo capital participe outra pessoa
+jurídica.
+
+5. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+São enquadradas no conceito de microempresa as sociedades empresárias cujo faturamento médio anual
+não ultrapasse R$ 81.000 ao mês.
+
+6. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O desenquadramento da sociedade empresária como microempresa ou empresa de pequeno porte implica
+a denúncia dos contratos por elas anteriormente firmados.
+
+7. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O recolhimento unificado de tributos decorrente da opção da empresa pelo Simples Nacional não exclui a
+incidência da contribuição para o fundo de garantia do tempo de serviço devida na qualidade de contribuinte
+ou responsável tributário.
+
+8. CEBRASPE/Pref Mossoró-Direito/2024
+
+Em relação às principais características do empresário individual, julgue o item seguinte.
+
+Ao empresário individual é permitida, apenas, a contratação de um empregado, cujo salário deve ser o piso
+da categoria ou um salário mínimo.
+
+9. CEBRASPE/DATAPREV-Analista/2023
+
+Considerando as disposições do Código Tributário Nacional e da Lei Complementar n.º 123/2006, julgue o
+item a seguir.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        243
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O tratamento tributário diferenciado e favorecido a ser dispensado às microempresas pelos entes
+federativos abrange não apenas a apuração e o recolhimento dos impostos e contribuições, mas também as
+obrigações acessórias.
+
+10. CEBRASPE/PGE-SE-Procurador/2023
+
+À luz da Lei Complementar n.º 123/2006 (Estatuto Nacional da Microempresa e da Empresa de Pequeno
+Porte), assinale a opção correta.
+
+a) No cálculo da receita bruta, para efeito de enquadramento de microempresas (MEs) e empresas de
+pequeno porte (EPPs) no regime da Lei Complementar n.º 123/2006, deve-se computar as vendas
+canceladas.
+
+b) No tratamento de MEs e EPPs, a Lei Complementar n.º 123/2006 dispensa, para registro de empresários
+e pessoas jurídicas, o cumprimento de requisitos de segurança sanitária, metrologia e controle ambiental.
+
+c) O recolhimento mensal, em documento único de arrecadação, no regime do Simples Nacional, por parte
+de MEs e EPPs, não as exclui de todos os impostos e contribuições que possam incidir na sua atividade
+empresarial.
+
+d) Microempreendedores individuais (MEIs) podem optar pelo recolhimento de tributos na sistemática do
+Simples Nacional, desde que, entre outros requisitos, não possuam mais que cinco estabelecimentos.
+
+e) No caso de ME ou EPP tornar-se inadimplente para com órgão ou ente da administração pública federal,
+a cobrança do crédito não pode implicar inscrição da devedora no Cadastro Informativo de Créditos Não
+Quitados do Setor Público Federal (CADIN).
+
+11. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+O fato de uma sociedade empresária classificada como empresa de pequeno porte e optante do tratamento
+jurídico diferenciado previsto na mencionada LC passar a ter como sócia pessoa jurídica distinta é causa de
+exclusão do respectivo regime diferenciado, a partir do mês seguinte ao da ocorrência da respectiva situação
+impeditiva.
+
+12. CEBRASPE/DPE RO/2023
+
+Conforme a Lei Complementar n.º 123/2006, em regra, as empresas optantes do Simples Nacional devem
+recolher, mensalmente,
+
+I o imposto sobre a propriedade territorial rural (ITR).
+
+II o imposto sobre a renda da pessoa jurídica (IRPJ).
+
+III o imposto sobre produtos industrializados (IPI).
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         244
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+IV a contribuição social sobre o lucro líquido (CSLL).
+
+V a contribuição para o financiamento da seguridade social (COFINS).
+
+Estão certos apenas os itens
+
+a) I e V.
+
+b) III e IV.
+
+c) I, II e V.
+
+d) I, II, III e IV.
+
+e) II, III, IV e V.                                           ==219a34==
+
+13. CEBRASPE/PPNT (PETROBRAS)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023
+
+No que se refere à administração tributária, julgue o item a seguir.
+
+O simples nacional, também conhecido como simples federal, unificou os sistemas de tributação de
+microempresas e pequenas empresas, englobando oito tributos distintos.
+
+14. CEBRASPE/ATM Pref Fortaleza/2023
+
+Considerando a competência tributária prevista na Constituição Federal de 1988 e no Código Tributário
+Nacional, julgue o item a seguir.
+
+O microempreendedor individual (MEI) tem autorização legal para, caso queira, aderir ao recolhimento dos
+impostos e das contribuições abrangidos pelo Simples Nacional.
+
+15. CEBRASPE/MPE-PA-PROMOTOR/2023
+
+Caso a microempresa vencedora de licitação pública possua restrição na comprovação de regularidade fiscal
+ou trabalhista, ser-lhe-á concedido, para regularizar a situação, a contar da declaração do vencedor do
+certame, o prazo de
+
+a) 10 dias úteis, vedada a prorrogação.
+
+b) 15 dias úteis, prorrogável por igual período.
+
+c) 5 dias úteis, prorrogável por igual período.
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                  245
+            www.estrategiaconcursos.com.br                                                            295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) 10 dias úteis, prorrogável por igual período.
+
+e) 15 dias úteis, vedada a prorrogação.
+
+16. CEBRASPE/NeR (TJ SC)/TJ SC/Remoção/2023
+
+Na Lei Complementar n.º 123/2006, a definição “órgão ou instituição de natureza pública ou privada que
+tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o
+desenvolvimento da ciência, da tecnologia e da inovação” refere-se a
+
+a) instituição de apoio.
+
+b) órgão de promoção da inovação.
+
+c) instituição científica e tecnológica.
+
+d) agência de fomento.
+
+e) núcleo de inovação tecnológica.
+
+17. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+Nos termos da referida LC, o fato de uma sociedade limitada ser considerada empresa de pequeno porte não
+desobriga os sócios de realizarem reuniões e assembleias na forma estabelecida pelo Código Civil para suas
+deliberações.
+
+18. CEBRASPE/Proc DF/PG DF/2022
+
+Os representantes do DF no Comitê Gestor do Simples Nacional, vinculado ao Ministério da Economia, e no
+Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e
+Negócios serão indicados pela Secretaria Especial da Receita Federal do Brasil.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      246
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+19. CEBRASPE/ATrib (Pref Maringá)/2022
+
+Pode se beneficiar da condição de microempresa, segundo o Estatuto Nacional da Microempresa e da
+Empresa de Pequeno Porte, a pessoa jurídica
+
+a) de cujo capital participe outra pessoa jurídica.
+
+b) que seja filial, no país, de pessoa jurídica sediada no exterior.
+
+c) constituída sob a forma de cooperativa de consumo.
+
+d) que exerça atividade de seguros privados.
+
+e) constituída sob a forma de sociedade por ações.
+
+         Receita Federal (Analista Tributário) Direito Tributário                            247
+         www.estrategiaconcursos.com.br                                                      295
+
+                                       
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+         GABARITO DAS QUESTÕES COMENTADAS
+
+ 1. E
+ 2. E
+ 3. C
+ 4. C
+ 5. E
+ 6. E
+ 7. C
+ 8. E
+ 9. C
+ 10. C
+ 11. C
+ 12. E
+ 13. E
+ 14. C
+ 15. C
+ 16. D
+ 17. E
+ 18. E
+ 19. C
+
+      Receita Federal (Analista Tributário) Direito Tributário           248
+      www.estrategiaconcursos.com.br                                     295
+
+                                    
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+           LISTA DAS QUESTÕES COMPLEMENTARES
+
+Simples Nacional
+
+1.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+O SIMPLES Nacional, instituído pela Lei Complementar 123/ 2006, visa a ajudar na formalização das micro e
+pequenas empresas, mas não é uma opção para todas que tenham receitas inferiores aos limites legais.
+Podem aderir ao SIMPLES
+a) As cooperativas de consumo.
+b) As empresas cujos titulares ou sócios guardem, cumulativamente, com o contratante do serviço, relação
+de pessoalidade, subordinação e habitualidade.
+c) As empresas que participem do capital de outra pessoa jurídica.
+d) As empresas que sejam filiais no país de pessoas jurídicas com sede no exterior.
+e) As empresas que sejam agências no país de pessoas jurídicas com sede no exterior.
+2.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+A Sociedade Empresária GrowEver aderiu ao Simples Nacional em 2016 e, no mês de agosto de 2022,
+acabou extrapolando em 15% (quinze por cento) o limite de receita bruta para as Empresas de Pequeno
+Porte, apenas vendendo para o mercado nacional.
+Assinale a opção que indica o que a Sociedade Empresária deverá comunicar à Secretaria da Receita
+Federal.
+a) Sua exclusão do Simples Nacional em setembro de 2022 por ter extrapolado o limite de receita bruta em
+mais de 10%.
+b) O prazo de readequação da receita bruta até agosto de 2023.
+c) Sua exclusão do Simples Nacional em janeiro de 2023 por ter extrapolado o limite de receita bruta em
+menos de 20%.
+d) A extrapolação dos limites e se submeter a novas alíquotas.
+e) Só ter receitas do mercado nacional, o que impedirá sua exclusão do Simples Nacional.
+3.        FGV - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área VII/2023
+Avalie se a Lei Complementar no 123/206, ao estabelecer normas gerais relativas ao tratamento
+diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte, no âmbito dos
+Poderes da União, dos Estados, do Distrito Federal e dos Municípios, dispõe que não poderão ser exigidos
+pelos órgãos e entidades envolvidos na abertura e fechamento de empresas,
+I. quaisquer documentos adicionais aos requeridos pelos órgãos executores do Registro Público de
+Empresas Mercantis e Atividades Afins e do Registro Civil de Pessoas Jurídicas, inclusive nos casos de
+autorização prévia para funcionamento.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário                                   249
+           www.estrategiaconcursos.com.br                                                             295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+II. documento de propriedade ou contrato de locação do imóvel onde será instalada a sede, filial ou outro
+estabelecimento, salvo para comprovação do endereço indicado.
+III. comprovação de regularidade de prepostos dos empresários ou pessoas jurídicas com seus órgãos de
+classe, sob qualquer forma, como requisito para deferimento de ato de inscrição, alteração ou baixa de
+empresa, bem como para autenticação de instrumento de escrituração.
+Está correto o que se afirma em
+a) I, II e III.
+b) I, apenas.
+c) I e II, apenas.
+d) III, apenas.
+e) II e III, apenas.
+4.        FGV/Câmara Mun. Fortaleza-Advogado/2024
+Determinada Lei Complementar Federal, ao disciplinar o tratamento diferenciado e favorecido às
+microempresas e empresas de pequeno porte, possui dispositivo com a seguinte redação:
+Art. XX. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa
+ou empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com
+as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+É correto afirmar que a previsão legal acima
+a) viola o princípio da isonomia tributária, pois confere tratamento desigual às empresas que possuam
+débitos tributários.
+b) é inconstitucional, pois trata-se de restrição desproporcional e desarrazoada ao exercício da atividade
+econômica.
+c) viola o princípio da livre iniciativa, pois restringe a atividade econômica em razão de débitos tributários.
+d) configura meio ilícito de coação a pagamento de tributo.
+e) representa forma indireta de se reprovar a infração das leis fiscais e de se garantir a neutralidade, com
+enfoque na livre concorrência.
+5.        FGV/Câmara dos Deputados-Consultor/2023
+O Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, conhecido como Simples Nacional,
+foi criado com a edição da Lei Complementar nº 123, de 14 de dezembro de 2006, com o objetivo de
+estabelecer normas gerais para um tratamento diferenciado e favorecido às microempresas e empresas de
+pequeno porte.
+Acerca do Simples Nacional, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) O sistema unificado de arrecadação do Simples abrange todos os impostos federais, além do ICMS e do
+ISS.
+( ) As alíquotas, de acordo com as faixas de receita bruta, são idênticas para todos os tipos de atividades das
+empresas inscritas no Simples Nacional.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário                                          250
+           www.estrategiaconcursos.com.br                                                                    295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+( ) Receita bruta máxima, para fins de enquadramento de empresas de pequeno porte no Simples nacional,
+é de R$ 4.800.000,00 anuais, sem prejuízo da adição de eventuais receita decorrentes da exportação de
+mercadorias ou serviços, desde que estas receitas também não excedam o limite de R$ 4.800.000,00.
+As afirmativas são, respectivamente,
+a) F - F - V.
+b) F - V - V.
+c) F - F - F.
+d) V - F - V.
+e) V - V - F.
+6.        FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+O único tributo e respectivo fato gerador abarcado pelo regime do Simples Nacional indicado abaixo é:
+a) o Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
+b) a Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+c) o IPI incidente na importação de bens;
+d) a Contribuição Social sobre o Lucro Líquido (CSLL);
+e) o ISS devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte.
+7.        FGV - N e R (TJ SE)/TJ SE/Provimento/2023
+O Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e
+Empresas de Pequeno Porte (Simples Nacional), previsto na Lei Complementar nº 123/2006, abrange:
+a) Imposto sobre a Renda da Pessoa Jurídica; Contribuição Social sobre o Lucro Líquido; Imposto sobre
+Serviços de Qualquer Natureza;
+b) Imposto sobre a Renda da Pessoa Jurídica; Imposto sobre a Propriedade Territorial Rural; Imposto sobre
+Serviços de Qualquer Natureza;
+c) Contribuição Social sobre o Lucro Líquido; IPI incidente na importação de bens e serviços; ICMS devido
+por ocasião do desembaraço aduaneiro;
+d) Imposto sobre a Renda da Pessoa Jurídica; Imposto sobre a Importação de Produtos Estrangeiros;
+Imposto sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários;
+e) Imposto sobre a Exportação de Produtos Nacionais ou Nacionalizados; Imposto sobre Operações de
+Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários; ICMS devido por ocasião do
+desembaraço aduaneiro.
+8.        FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+É sabido que o instituto do MEI (Microempreendedor Individual) é uma política pública que tem por
+objetivo a formalização de pequenos empreendimentos e a inclusão social e previdenciária.
+Sobre o MEI, assinale a alternativa correta.
+
+           Receita Federal (Analista Tributário) Direito Tributário                                     251
+           www.estrategiaconcursos.com.br                                                               295
+
+                                         
+
+
+---
+
+     Fábio Dutra
+     Aula 19
+
+a) É vedado impor restrições ao MEI relativamente ao exercício de profissão ou participação em licitações,
+em função da sua natureza jurídica, exceto quando for contratado para prestar serviços de hidráulica,
+eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+b) A formalização de MEI tem caráter eminentemente econômico ou fiscal.
+c) O MEI é modalidade de microempresa.
+d) O empreendedor que exerce atividades de industrialização, comercialização e prestação de serviços no
+âmbito rural e efetuar seu registro como MEI, perderá a condição de segurado especial da Previdência
+Social.
+e) Para o transportador autônomo de cargas inscrito como MEI, o limite de receita bruta anual será de R$
+81.000,00 (oitenta e um mil reais).
+9.        FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+Acerca do microempreendedor individual (MEI) e sua sistemática prevista na Lei Complementar nº
+123/2006, é correto afirmar que:
+a) a tributação municipal do IPTU deverá assegurar tratamento mais favorecido ao MEI para realização de
+sua atividade no mesmo local em que residir;
+b) poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural, com dois empregados que
+recebam exclusivamente um salário mínimo ou o piso salarial da categoria profissional;
+c) o MEI constituído na forma de startup pode optar pela sistemática de recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita
+bruta por ele auferida no mês;
+d) a opção pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta auferida no mês pelo MEI, poderá ser alterada dentro
+do mesmo ano-calendário;
+e) o MEI poderá ter sua inscrição automaticamente cancelada somente após o período de 24 meses
+consecutivos sem recolhimento ou declarações, independentemente de qualquer notificação, devendo a
+informação ser publicada no Portal do Empreendedor, na forma regulamentada pelo CGSIM.
+10.       FGV/Pref. Niterói-Procurador/2023
+A Empresa Payafter, inscrita no Simples Nacional, atrasou o envio da Declaração de Informações
+Socioeconômicas e Fiscais (Defis) em determinado ano, sem atrasar nenhum pagamento mensal.
+Posteriormente, enviou a declaração, demonstrando que recolheu os tributos devidos e declarou as
+receitas recebidas corretamente.
+Em relação à multa aplicada, é correto afirmar que:
+a) deve ser mantida, pois se trata de multa pelo descumprimento de obrigação acessória;
+b) não deve ser mantida, pois a omissão de entrega da declaração foi objeto de regularização posterior;
+c) só deve ser mantida se houver divergência entre receitas recebidas e valores recolhidos no Simples;
+d) não deve ser mantida, pois todos os recolhimentos mensais foram corretos;
+
+           Receita Federal (Analista Tributário) Direito Tributário                                       252
+           www.estrategiaconcursos.com.br                                                                 295
+
+                                         
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+e) a referida declaração é fato gerador de obrigação principal.
+11.     FGV/SEFAZ-MT-FISCAL TRIBUTÁRIO/2023
+O Simples Nacional é um regime especial unificado de arrecadação de tributos que atua como grande
+facilitador do cumprimento das obrigações tributárias por parte das Microempresas (ME) e Empresas de
+Pequeno Porte (EPP), pois abrange, em uma única cobrança, uma série de tributos devidos pelos sujeitos
+passivos tributários.
+A respeito das incidências de ICMS cujo recolhimento está abarcado pelo Simples Nacional, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com carnes e suas
+preparações não está abarcado pelo regime do Simples Nacional.
+( ) O ICMS devido por ME nas operações sujeitas ao regime de substituição tributária com telhas e caixas
+d’água está abarcado pelo regime do Simples Nacional.
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com produtos
+cerâmicos não está abarcado pelo regime do Simples Nacional.
+As afirmativas são, respectivamente,
+a) V – V – F.
+b) V – F – V.
+c) V – F – F.
+d) F – V – F.
+e) F – F – V.
+12.     FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+Acerca da retenção na fonte de ISS das microempresas ou das empresas de pequeno porte optantes pelo
+Simples Nacional que observam o disposto no Art. 3º da Lei Complementar nº 116/2003, analise as
+afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).
+( ) A alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá à
+alíquota efetiva de ISS a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês
+anterior ao da prestação.
+( ) Na hipótese de a microempresa ou empresa de pequeno porte estar sujeita à tributação do ISS no
+Simples Nacional por valores fixos mensais, caberá a retenção na fonte pela alíquota efetiva de 2%.
+( ) Não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no
+documento fiscal for inferior à devida, hipótese em que o recolhimento dessa diferença será realizado em
+guia própria do Município.
+A sequência correta é:
+a) V, V, V;
+b) V, V, F;
+c) V, F, V;
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                   253
+          www.estrategiaconcursos.com.br                                                             295
+
+                                        
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+d) F, V, F;
+e) F, F, V.
+13.      FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+A Lei Complementar nº 123/2006 veicula algumas situações que, caso presentes, impedem a microempresa
+ou empresa de pequeno porte de recolher os impostos e contribuições na forma do Simples Nacional.
+A única situação que não impede a adesão ao Simples Nacional por parte de tais empresas é:
+a) possuir débito de foro com a União cuja exigibilidade não esteja suspensa;
+b) prestar serviço de transporte intermunicipal de passageiros por via fluvial;
+c) exercer atividade de produção de munição;
+d) exercer atividade de produção de cervejas sem álcool por cervejaria de grande porte;
+e) realizar cessão de mão de obra.
+14.      FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+A característica e a facilidade do Regime Especial Unificado de Arrecadação de Tributos e Contribuições
+devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional é o recolhimento mensal,
+mediante documento único de arrecadação de tributos.
+Sobre os tributos que serão recolhidos neste documento único, assinale a alternativa correta.
+a) A contribuição para manutenção da Seguridade Social, relativa ao trabalhador e o Imposto sobre a
+Renda da Pessoa Jurídica – IRPJ.
+b) O imposto sobre Produtos Industrializados – IPI, exceto o incidente na importação de bens e serviços e a
+contribuição Social sobre o Lucro Líquido – CSLL.
+c) A contribuição para o PIS/Pasep incidente na importação de bens e serviços e Imposto sobre Operações
+Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação – ICMS.
+d) A contribuição previdenciária patronal de prestação de serviços advocatícios e Imposto sobre Serviços
+de Qualquer Natureza – ISS.
+e) O imposto sobre a Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo
+permanente e a Contribuição para o Financiamento da Seguridade Social – COFINS.
+15.      FGV/SEFAZ-BA/2022
+A sociedade empresária X optou pela sistemática de apuração e recolhimento simplificado do Simples
+Nacional e auferiu receita bruta de
+(i) R$ 350.000,00, no ano-calendário de 2018;
+(ii) R$ 1.500.000,00, no ano-calendário de 2019;
+(iii) R$ 4.500.000,00, no ano-calendário de 2020; e
+(iv) R$ 6.500.000,00, no ano-calendário de 2021.
+
+          Receita Federal (Analista Tributário) Direito Tributário                                      254
+          www.estrategiaconcursos.com.br                                                                295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Sobre a hipótese descrita e considerando o total de receita bruta auferida no ano-calendário, assinale a
+afirmativa correta.
+A) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa, mantendo-se
+em 2019; em 2020 foi reenquadrada como empresa de pequeno porte; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+B) A receita bruta auferida em 2018 enquadra a sociedade empresária X como empresa de pequeno porte,
+mantendo-se em 2019 e 2020; sendo excluída do Simples Nacional em 2021, no mês subsequente à
+ocorrência do excesso.
+C) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+D) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte; e em 2020, no mês no subsequente à ocorrência do
+excesso, foi excluída do Simples Nacional, mantendo-se a exclusão no ano seguinte.
+E) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020 e 2021.
+16.    FGV/SEFAZ-AM-Auditor/2022
+A LC 123/2006 criou a figura do Microempreendedor Individual – MEI no claro intuito de permitir a
+formalização de mais trabalhadores sem também permitir que outros busquem este regime de tributação
+apenas para arrecadar menos.
+Assinale a opção que indica uma regra para ser MEI.
+A) Exercer qualquer atividade de contribuinte individual.
+B) Receber no máximo 2 salários mínimos por mês de média anual pela atividade.
+C) Ser sócio de mais de uma empresa, desde que a remuneração não passe de 3 salários mínimos.
+D) Contratar, no máximo, 3 funcionários.
+E) Não ser sócio ou administrador de mais de uma empresa.
+17.    FGV/SEFAZ-AM-Auditor/2022
+Em observância a dispositivos constitucionais que determinam a concessão de tratamento diferenciado e
+favorecido às microempresas e empresas de pequeno porte, foi promulgada a Lei Complementar nº 123,
+em 2006. Este diploma legal contém normas que disciplinam tal tratamento especial no que se refere à
+apuração e ao recolhimento dos impostos e das contribuições da União, dos Estados, do Distrito Federal e
+dos Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias – o Simples
+Nacional.
+No que se refere às Obrigações Fiscais Acessórias previstas na Lei Complementar nº 123, analise as
+afirmativas a seguir.
+I. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional são obrigadas a manter
+em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e das contribuições
+devidos.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                     255
+        www.estrategiaconcursos.com.br                                                               295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+II. O microempreendedor individual (MEI) deverá comprovar a receita bruta mediante apresentação do
+registro de vendas ou de prestação de serviços, na forma estabelecida pelo Comitê Gestor do Simples
+Nacional (CGSN).
+III. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional deverão manter o
+livro-caixa em que será escriturada sua movimentação financeira e bancária.
+Está correto o que se afirma em
+A) I, apenas.
+B) II, apenas.
+C) I e III, apenas.
+D) II e III, apenas.
+E) I, II e III.
+18.       FGV/SEFAZ-BA /2022
+A Lei Complementar Federal nº 123/2006 prevê um regime ainda mais simplificado de recolhimento de
+impostos e contribuições abrangidos pelo Simples Nacional aos Microempreendedores Individuais (MEI).
+Sobre o regime de arrecadação instituído para o MEI, analise as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+( ) O Empresário Individual que possua mais de um estabelecimento não poderá optar pelo regime
+especial em valores fixos.
+( ) O MEI é modalidade de microempresa.
+( ) O MEI constituído na forma de startup poderá optar pela sistemática de recolhimento em valores fixos
+mensais.
+As afirmativas são, na ordem apresentada, respectivamente,
+A) V – V – F.
+B) V – F – F.
+C) F – V – V.
+D) F – V – F.
+E) F – F – V.
+19.       FGV/SEFAZ-AM-Auditor/2022
+Na definição de microempresa e empresa de pequeno porte para fins de enquadramento no regime de
+tributação do Simples na forma estabelecida pela LC nº 123/2006, a receita bruta anual é decisiva. Até R$
+360.000,00 é microempresa e de R$360.000,01 a R$4.800.000,00 é considerado EPP – Empresa de Pequeno
+Porte.
+Assim, é correto afirmar que
+A) a microempresa que passar a EPP pela sua receita bruta precisa comunicar à Receita Federal essa troca.
+
+            Receita Federal (Analista Tributário) Direito Tributário                                   256
+            www.estrategiaconcursos.com.br                                                             295
+
+                                          
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+B) a EPP não pode passar a Microempresa.
+C) qualquer Microempresa ou EPP que respeitar tais limites estará obrigatoriamente no Simples.
+D) o MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos demais tributos não
+englobados no Documento Único Mensal do Simples.
+E) a microempresa que superar a receita bruta anual, se tornará EPP, passando a recolher mensalmente
+com base nas novas alíquotas, sem necessidade de maiores formalidades.
+20.       FGV/MPE-GO-Analista/2022
+Acerca do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte - Simples Nacional e à luz da Lei Complementar nº 123/2006,
+julgue as afirmativas abaixo:
+I. Estão abrangidos pelo recolhimento no regime do Simples Nacional, dentre outros impostos federais, o
+Imposto sobre a Renda da Pessoa Jurídica - IRPJ; o Imposto sobre Produtos Industrializados - IPI e o Imposto
+sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF.
+II. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+III. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que tenha sócio domiciliado no exterior.
+Está correto apenas o que se afirma em
+A) I.
+B) II.
+C) III.
+D) I e III.
+E) II e III.
+21.       FGV/SEFAZ-BA/2022
+O Simples Nacional é um regime especial tributário destinado às microempresas e às empresas de pequeno
+porte.
+No que se refere aos limites e vedações do Simples Nacional, assinale a afirmativa correta.
+A) Poderá optar pelo Simples Nacional a pessoa jurídica de cujo capital participe outra pessoa jurídica,
+desde que sua receita bruta seja inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+B) Caso determinada empresa de pequeno porte optante pelo Simples Nacional passe a ser constituída sob
+a forma de ações será excluída do tratamento jurídico diferenciado do Simples Nacional, com efeitos
+retroativos ao início de suas atividades.
+C) Não constitui óbice à adesão ao Simples Nacional a existência de débito pendentes com o INSS, com as
+Fazendas Públicas Federal, Estadual ou Municipal, em razão do princípio da isonomia tributária.
+
+              Receita Federal (Analista Tributário) Direito Tributário                                   257
+              www.estrategiaconcursos.com.br                                                             295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+D) As micro e pequenas cervejarias não poderão recolher os impostos e contribuições na forma do Simples
+Nacional, em razão da vedação da adesão de empresas que exerçam atividade de produção de bebidas
+alcoólicas.
+E) A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+22.       FGV/SEFAZ-BA/2022
+Com relação ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte, analise as afirmativas a seguir.
+I. O Simples Nacional implica o recolhimento mensal do IRPJ, do IPI, da CSLL, da COFINS, da Contribuição
+para o PIS/Pasep, da Contribuição Patronal Previdenciária para a Seguridade Social, do ICMS e do ISS.
+II. O recolhimento mensal do Simples Nacional não exclui a incidência do ICMS devido nas operações
+sujeitas ao regime de substituição tributária.
+III. A pessoa jurídica optante pelo Simples Nacional fica dispensada do pagamento das demais
+contribuições, instituídas pela União, não previstas no recolhimento mensal do Simples Nacional.
+Está correto o que se afirma em
+A) I, apenas.
+B) I e III, apenas.
+C) I e II, apenas.
+D) II e III, apenas.
+E) I, II e III.
+23.       FGV/SEFAZ-BA/2022
+Nas aquisições de mercadoria de microempresa optante pelo Simples Nacional, a pessoa jurídica X terá
+direito a crédito correspondente ao ICMS incidente nas referidas aquisições, desde que a pessoa jurídica X
+A) não seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização e observado, como limite, o ICMS efetivamente devido pela microempresa em relação a
+essas aquisições.
+B) não seja optante do Simples Nacional e a microempresa esteja sujeita à tributação do ICMS no Simples
+Nacional por valores fixos mensais.
+C) seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização, em operações internas, vedada a utilização em operações interestaduais.
+D) seja optante do Simples Nacional e que apresente anualmente ao Comitê Gestor do Simples Nacional
+requerimento de creditamento do ICMS.
+E) não seja optante do Simples Nacional e que a aquisição seja para composição do seu ativo fixo, não
+sendo fixado limite para sua utilização, em cumprimento ao princípio da não-cumulatividade.
+24.       FGV/SEFAZ-AM-Auditor/2022
+
+            Receita Federal (Analista Tributário) Direito Tributário                                   258
+            www.estrategiaconcursos.com.br                                                             295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Um empresário procura a Receita Estadual buscando informações sobre o Simples, com a perspectiva de
+recolher vários tributos em um único documento.
+Como exemplo dos tributos recolhidos no Simples Nacional, em Documento Único de Arrecadação na
+forma da LC 123/2006, temos
+A) IRPJ, Contribuição Previdenciária Patronal, IPI e ISS.
+B) IRPJ, Imposto de Importação, IOF e COFINS.
+C) IPI, ISS, ICMS e ITR.
+D) IRPJ, ISS, ITR e IPTU.
+E) IRPJ, Contribuição Previdenciária dos Trabalhadores, IPI e ITR.
+25.     FGV/SEFAZ-ES-Auditor/2021
+As opções a seguir apresentam regras legais que se aplicam ao Microempreendedor Individual (MEI), à
+exceção de uma. Assinale-a.
+A) O MEI é modalidade de microempresa e todo benefício aplicável à microempresa estende-se a ele
+sempre que lhe for mais favorável.
+B) O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+C) O empresário individual ou empreendedor, que exerça atividades de industrialização, comercialização e
+prestação de serviços no âmbito rural, desde que não tenha empregados, poderá enquadrar-se como MEI.
+D) O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+E) O MEI, inscrito no conselho profissional de sua categoria na qualidade de pessoa física, fica dispensado
+de realizar nova inscrição no mesmo conselho, na qualidade de empresário individual.
+26.     FGV/Pref. Paulínia-Advogado/2021
+Maria, manicure que aufere cerca de R$2.500,00 por mês, desejando regularizar sua atividade profissional,
+registrou-se como Microempreendedora Individual (MEI), optando por recolher seus tributos na
+sistemática do Simples Nacional.
+Por esse sistema, Maria irá recolher os tributos abrangidos pelo Simples Nacional
+A) em valor fixo mensal.
+B) em valor fixo anual.
+C) em percentual sobre a receita bruta mensal.
+D) em percentual sobre a receita bruta anual.
+E) em percentual sobre o faturamento mensal.
+27.     Prof. Fábio Dutra/Questão Inédita/2022
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições, exceto:
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       259
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+a) Imposto sobre a Renda da Pessoa Jurídica – IRPJ.
+b) Contribuição Social sobre o Lucro Líquido – CSLL.
+c) Imposto sobre Produtos Industrializados – IPI.
+d) ICMS devido em operações com tributação concentrada em uma única etapa (monofásica).
+e) Contribuição Patronal Previdenciária – CPP.
+28.    Prof. Fábio Dutra/Questão Inédita/2022
+A respeito do Microempreendedor Individual – MEI, previsto na Lei Complementar 123/2006, assinale a
+alternativa errada:
+a) poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em
+valores fixos mensais, independentemente da receita bruta por ele auferida no mês;
+                                                          ==219a34==
+
+b) O limite anual de receita bruta para fins de enquadramento como MEI é de R$ 120.000,00.
+c) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que possua mais de um
+estabelecimento;
+d) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que participe de outra empresa
+como titular, sócio ou administrador;
+e) Não poderá optar pela sistemática de recolhimento diferenciado o MEI constituído na forma de startup.
+29.    Prof. Fábio Dutra/Questão Inédita/2022
+A empresa Alfa, não optante pelo Simples Nacional, realiza três aquisições de empresas optantes pelo
+Simples Nacional:
+Produto 01 – da Empresa Gama (EPP) – destinado à industrialização;
+Produto 02 – da Empresa Beta (ME) – destinado à comercialização;
+Produto 03 – da Empresa Delta (EPP) – destinado ao seu consumo.
+Em relação ao ICMS incidente na operação de venda das empresas Gama, Beta e Delta para a empresa Alfa,
+e considerando as disposições da Lei Complementar 123/2006, assinale a alternativa correta:
+a) A empresa Alfa não tem direito ao crédito de ICMS em tais aquisições.
+b) A empresa Alfa tem direito ao crédito de ICMS em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite a alíquota interna do imposto.
+c) A empresa Alfa tem direito ao crédito de ICMS, em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite o valor devido pela empresa vendedora.
+d) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 02, tendo como limite o
+valor devido pela empresa vendedora.
+e) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 01 e 02, tendo como
+limite o valor devido pela empresa vendedora.
+30.    Prof. Fábio Dutra/Questão Inédita/2022
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      260
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+Acerca do Simples Nacional, e considerando os regramentos da Lei Complementar 123/2006 e suas
+alterações posteriores, analise as situações abaixo:
+I - Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada como
+microempresa ou empresa de pequeno porte poderá admitir o aporte de capital, que integrará o capital
+social da empresa.
+II - No caso de investidor-anjo, o contrato de participação terá duração não superior a 10 anos.
+III – Caso uma microempresa ou empresa de pequeno porte venha se beneficiar do aporte de capital na
+forma de investidor-anjo, a atividade constitutiva do objeto social será exercida unicamente por sócios
+regulares, em seu nome individual e sob sua exclusiva responsabilidade.
+Estão corretos os seguintes itens:
+a) I, II, III.
+b) I, II.
+c) II, III.
+d) I, III.
+e) III.
+31.           Prof. Fábio Dutra/Questão Inédita/2022
+No tocante ao Simples Nacional, julgue as assertivas abaixo, e ao final, assinale a alternativa que representa
+a resposta correta:
+( ) O Simples Nacional abrange a apuração e recolhimento dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, exceto as obrigações
+acessórias.
+( ) Nas licitações será assegurada, como critério de desempate, preferência de contratação para as
+microempresas e empresas de pequeno porte, entendendo-se por empate, como regra, aquelas situações
+em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até
+10% superiores à proposta mais bem classificada.
+( ) As cooperativas podem se beneficiar do tratamento jurídico previsto na LC 123/2006 (Simples Nacional).
+a) V, F, F
+b) V, F, V
+c) V, V, V
+d) F, V, F
+e) F, F, F
+
+              Receita Federal (Analista Tributário) Direito Tributário                                     261
+              www.estrategiaconcursos.com.br                                                               295
+
+                                            
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+      Receita Federal (Analista Tributário) Direito Tributário           262
+      www.estrategiaconcursos.com.br                                     295
+
+                                    
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+GABARITO DAS QUESTÕES COMPLEMENTARES
+
+      1. A                               12.       C                     23.   A
+      2. C                               13.       B                     24.   A
+      3. E                               14.       B                     25.   C
+      4. E                               15.      C                      26.   A
+      5. A                               16.      E                      27.   D
+      6. D                               17.      E                      28.   B
+      7. A                               18.      A                      29.   E
+      8. C                               19.      E                      30.   E
+      9. A                               20.      E                      31.   D
+      10. A                              21.      E
+      11. B                              22.      E
+
+      Receita Federal (Analista Tributário) Direito Tributário                     263
+      www.estrategiaconcursos.com.br                                               295
+
+                                    
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+        LISTA DAS QUESTÕES COMPLEMENTARES
+
+   1. SELECON/Pref Sinop-Fiscal Tributário/2025
+
+São consideradas microempresas aquelas que aufiram em cada ano-calendário, receita bruta igual ou inferior
+a:
+
+a) R$ 300.000,00
+
+b) R$ 320.000,00
+
+c) R$ 340.000,00
+
+d) R$ 360.000,00
+
+   2. SELECON/Pref Sinop-Fiscal Tributário/2025
+
+Pelo regime especial unificado de tributos e contribuições devidos pelas micro e empresas de pequeno porte
+– Simples Nacional, o recolhimento mensal, por meio de um único documento de arrecadação, abrange,
+entre outros, os seguintes impostos e contribuições:
+
+a) imposto sobre a renda da pessoa jurídica; contribuição social sobre o lucro líquido
+
+b) imposto sobre operações de crédito; imposto sobre a importação de produtos estrangeiros
+
+c) imposto sobre a propriedade territorial rural; contribuição para o fundo de garantia do tempo de serviço
+
+d) contribuição para manutenção da seguridade social, relativa ao trabalhador; imposto sobre a exportação,
+para o exterior, de produtos nacionais ou nacionalizados
+
+
+   3. FCC/CETESB-Advogado/2024
+
+Nos termos preconizados pela Constituição Federal, especificamente em relação às microempresas e às
+empresas de pequeno porte,
+
+a) a instituição, por lei, de um regime único de arrecadação dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios será opcional no caso de as contribuintes serem empresas de
+pequeno porte ou microempresas.
+
+b) havendo instituição, por lei, de um regime único de arrecadação dos impostos e contribuições da União,
+dos Estados, do Distrito Federal e dos Municípios, a arrecadação, a fiscalização e a cobrança não poderão ser
+compartilhadas pelos entes federados, sendo vedado nesse caso a adoção de cadastro nacional único de
+contribuintes.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         264
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+c) havendo instituição, por lei, de regime único de arrecadação dos impostos da União, dos Estados, do
+Distrito Federal e dos Municípios, o recolhimento será unificado e centralizado e a distribuição da parcela de
+recursos pertencentes aos respectivos entes federados será imediata, sendo permitida a retenção ou
+condicionamento.
+
+d) cabe à lei ordinária estabelecer normas gerais em matéria tributária, incluindo a definição de tratamento
+diferenciado e favorecido para as microempresas e para as empresas de pequeno porte.
+
+e) a lei que instituir um regime único de arrecadação dos impostos e contribuições da União, dos Estados,
+do Distrito Federal e dos Municípios não poderá estabelecer condições de enquadramento diferenciadas por
+Estado.
+
+
+   4. IDIB/Pref Dias d’Ávila-Fiscal de Rendas/2024
+
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, de diversos
+tributos federais, estaduais e municipais. O tributo municipal inserido nesse regime especial unificado de
+arrecadação, oferecido às Microempresas e Empresas de Pequeno Porte, corresponde ao(à):
+
+a) Imposto sobre a Propriedade Territorial Rural (ITR).
+
+b) Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).
+
+c) Imposto sobre Serviços de Qualquer Natureza (ISS).
+
+d) Contribuição de Melhoria Municipal.
+
+   5. FGV/Câmara Mun. Fortaleza-Advogado/2024
+
+Determinada Lei Complementar Federal, ao disciplinar o tratamento diferenciado e favorecido às
+microempresas e empresas de pequeno porte, possui dispositivo com a seguinte redação:
+
+Art. XX. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as
+Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa.
+
+É correto afirmar que a previsão legal acima
+
+a) viola o princípio da isonomia tributária, pois confere tratamento desigual às empresas que possuam
+débitos tributários.
+
+b) é inconstitucional, pois trata-se de restrição desproporcional e desarrazoada ao exercício da atividade
+econômica.
+
+c) viola o princípio da livre iniciativa, pois restringe a atividade econômica em razão de débitos tributários.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                            265
+        www.estrategiaconcursos.com.br                                                                      295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) configura meio ilícito de coação a pagamento de tributo.
+
+e) representa forma indireta de se reprovar a infração das leis fiscais e de se garantir a neutralidade, com
+enfoque na livre concorrência.
+
+   6. FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+O único tributo e respectivo fato gerador abarcado pelo regime do Simples Nacional indicado abaixo é:
+
+a) o Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
+
+b) a Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+
+c) o IPI incidente na importação de bens;
+
+d) a Contribuição Social sobre o Lucro Líquido (CSLL);
+
+e) o ISS devido em relação aos serviços sujeitos à substituição tributária ou retenção na fonte.
+
+   7. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+
+É sabido que o instituto do MEI (Microempreendedor Individual) é uma política pública que tem por objetivo
+a formalização de pequenos empreendimentos e a inclusão social e previdenciária.
+
+Sobre o MEI, assinale a alternativa correta.
+
+a) É vedado impor restrições ao MEI relativamente ao exercício de profissão ou participação em licitações,
+em função da sua natureza jurídica, exceto quando for contratado para prestar serviços de hidráulica,
+eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+
+b) A formalização de MEI tem caráter eminentemente econômico ou fiscal.
+
+c) O MEI é modalidade de microempresa.
+
+d) O empreendedor que exerce atividades de industrialização, comercialização e prestação de serviços no
+âmbito rural e efetuar seu registro como MEI, perderá a condição de segurado especial da Previdência Social.
+
+e) Para o transportador autônomo de cargas inscrito como MEI, o limite de receita bruta anual será de R$
+81.000,00 (oitenta e um mil reais).
+
+   8. FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+Acerca do microempreendedor individual (MEI) e sua sistemática prevista na Lei Complementar nº
+123/2006, é correto afirmar que:
+
+a) a tributação municipal do IPTU deverá assegurar tratamento mais favorecido ao MEI para realização de
+sua atividade no mesmo local em que residir;
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         266
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+b) poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de
+industrialização, comercialização e prestação de serviços no âmbito rural, com dois empregados que
+recebam exclusivamente um salário mínimo ou o piso salarial da categoria profissional;
+
+c) o MEI constituído na forma de startup pode optar pela sistemática de recolhimento dos impostos e
+contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita
+bruta por ele auferida no mês;
+
+d) a opção pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores
+fixos mensais, independentemente da receita bruta auferida no mês pelo MEI, poderá ser alterada dentro
+do mesmo ano-calendário;
+
+e) o MEI poderá ter sua inscrição automaticamente cancelada somente após o período de 24 meses
+consecutivos sem recolhimento ou declarações, independentemente de qualquer notificação, devendo a
+informação ser publicada no Portal do Empreendedor, na forma regulamentada pelo CGSIM.
+
+    9. FGV/SEFAZ-MT-FISCAL TRIBUTÁRIO/2023
+
+O Simples Nacional é um regime especial unificado de arrecadação de tributos que atua como grande
+facilitador do cumprimento das obrigações tributárias por parte das Microempresas (ME) e Empresas de
+Pequeno Porte (EPP), pois abrange, em uma única cobrança, uma série de tributos devidos pelos sujeitos
+passivos tributários.
+
+A respeito das incidências de ICMS cujo recolhimento está abarcado pelo Simples Nacional, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com carnes e suas
+preparações não está abarcado pelo regime do Simples Nacional.
+
+( ) O ICMS devido por ME nas operações sujeitas ao regime de substituição tributária com telhas e caixas
+d’água está abarcado pelo regime do Simples Nacional.
+
+( ) O ICMS devido por EPP nas operações sujeitas ao regime de substituição tributária com produtos
+cerâmicos não está abarcado pelo regime do Simples Nacional.
+
+As afirmativas são, respectivamente,
+
+a) V – V – F.
+
+b) V – F – V.
+
+c) V – F – F.
+
+d) F – V – F.
+
+e) F – F – V.
+
+    10. FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                    267
+         www.estrategiaconcursos.com.br                                                              295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Acerca da retenção na fonte de ISS das microempresas ou das empresas de pequeno porte optantes pelo
+Simples Nacional que observam o disposto no Art. 3º da Lei Complementar nº 116/2003, analise as
+afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+( ) A alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá à
+alíquota efetiva de ISS a que a microempresa ou a empresa de pequeno porte estiver sujeita no mês anterior
+ao da prestação.
+
+( ) Na hipótese de a microempresa ou empresa de pequeno porte estar sujeita à tributação do ISS no Simples
+Nacional por valores fixos mensais, caberá a retenção na fonte pela alíquota efetiva de 2%.
+
+( ) Não será eximida a responsabilidade do prestador de serviços quando a alíquota do ISS informada no
+documento fiscal for inferior à devida, hipótese em que o recolhimento dessa diferença será realizado em
+guia própria do Município.
+
+A sequência correta é:
+
+a) V, V, V;
+
+b) V, V, F;
+
+c) V, F, V;
+
+d) F, V, F;
+
+e) F, F, V.
+
+    11. FGV/Pref Rio de Janeiro-Auditor Fiscal/2023
+
+A Lei Complementar nº 123/2006 veicula algumas situações que, caso presentes, impedem a microempresa
+ou empresa de pequeno porte de recolher os impostos e contribuições na forma do Simples Nacional.
+
+A única situação que não impede a adesão ao Simples Nacional por parte de tais empresas é:
+
+a) possuir débito de foro com a União cuja exigibilidade não esteja suspensa;
+
+b) prestar serviço de transporte intermunicipal de passageiros por via fluvial;
+
+c) exercer atividade de produção de munição;
+
+d) exercer atividade de produção de cervejas sem álcool por cervejaria de grande porte;
+
+e) realizar cessão de mão de obra.
+
+    12. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      268
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A característica e a facilidade do Regime Especial Unificado de Arrecadação de Tributos e Contribuições
+devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional é o recolhimento mensal,
+mediante documento único de arrecadação de tributos.
+
+Sobre os tributos que serão recolhidos neste documento único, assinale a alternativa correta.
+
+a) A contribuição para manutenção da Seguridade Social, relativa ao trabalhador e o Imposto sobre a Renda
+da Pessoa Jurídica – IRPJ.
+
+b) O imposto sobre Produtos Industrializados – IPI, exceto o incidente na importação de bens e serviços e a
+contribuição Social sobre o Lucro Líquido – CSLL.
+
+c) A contribuição para o PIS/Pasep incidente na importação de bens e serviços e Imposto sobre Operações
+Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação – ICMS.
+
+d) A contribuição previdenciária patronal de prestação de serviços advocatícios e Imposto sobre Serviços de
+Qualquer Natureza – ISS.
+
+e) O imposto sobre a Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo
+permanente e a Contribuição para o Financiamento da Seguridade Social – COFINS.
+
+   13. CEBRASPE/SEFAZ-AC-AUDITOR/2024
+
+Suponha que determinado empresário tenha constituído uma empresa de pequeno porte e que tenha
+optado pelo regime do Simples Nacional, com base na Lei Complementar n.º 123/2006. Nesse caso, a
+empresa terá tratamento diferenciado e favorecido no que se refere ao recolhimento
+
+a) de taxas estaduais, mas não de impostos municipais.
+
+b) de taxas federais, mas não de taxas estaduais.
+
+c) de contribuições federais, mas não de impostos municipais.
+
+d) de impostos federais, mas não de contribuições federais.
+
+e) de impostos estaduais, mas não de taxas federais.
+
+   14. CEBRASPE/SEFAZ-AC-TÉCNICO/2024
+
+Nos termos da Lei Complementar n.º 123/2006, o limite de aferição da classificação de sociedade empresária
+como microempresa ou empresa de pequeno porte é determinado com base
+
+a) no lucro antes dos impostos.
+
+b) no lucro líquido.
+
+c) na receita bruta.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                        269
+        www.estrategiaconcursos.com.br                                                                  295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+d) na receita líquida.
+
+e) no lucro bruto.
+
+   15. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+É vedado o ingresso no Simples Nacional de empresa de pequeno porte de cujo capital participe outra pessoa
+jurídica.
+
+   16. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+São enquadradas no conceito de microempresa as sociedades empresárias cujo faturamento médio anual
+não ultrapasse R$ 81.000 ao mês.
+
+   17. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O desenquadramento da sociedade empresária como microempresa ou empresa de pequeno porte implica
+a denúncia dos contratos por elas anteriormente firmados.
+
+   18. CEBRASPE/INPI-Analista/2024
+
+Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa
+de pequeno porte, julgue o item a seguir.
+
+O recolhimento unificado de tributos decorrente da opção da empresa pelo Simples Nacional não exclui a
+incidência da contribuição para o fundo de garantia do tempo de serviço devida na qualidade de contribuinte
+ou responsável tributário.
+
+   19. CEBRASPE/Pref Mossoró-Direito/2024
+
+Em relação às principais características do empresário individual, julgue o item seguinte.
+
+Ao empresário individual é permitida, apenas, a contratação de um empregado, cujo salário deve ser o piso
+da categoria ou um salário mínimo.
+
+
+   20. FGV/SEFAZ-BA/2022
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       270
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+A sociedade empresária X optou pela sistemática de apuração e recolhimento simplificado do Simples
+Nacional e auferiu receita bruta de
+
+(i) R$ 350.000,00, no ano-calendário de 2018;
+
+(ii) R$ 1.500.000,00, no ano-calendário de 2019;
+
+(iii) R$ 4.500.000,00, no ano-calendário de 2020; e
+
+(iv) R$ 6.500.000,00, no ano-calendário de 2021.
+
+Sobre a hipótese descrita e considerando o total de receita bruta auferida no ano-calendário, assinale a
+afirmativa correta.
+
+A) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa, mantendo-se
+em 2019; em 2020 foi reenquadrada como empresa de pequeno porte; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+
+B) A receita bruta auferida em 2018 enquadra a sociedade empresária X como empresa de pequeno porte,
+mantendo-se em 2019 e 2020; sendo excluída do Simples Nacional em 2021, no mês subsequente à
+ocorrência do excesso.
+
+C) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020; e em 2021, no mês subsequente à
+ocorrência do excesso, foi excluída do Simples Nacional.
+
+D) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte; e em 2020, no mês no subsequente à ocorrência do
+excesso, foi excluída do Simples Nacional, mantendo-se a exclusão no ano seguinte.
+
+E) A receita bruta auferida em 2018 enquadra a sociedade empresária X como microempresa; em 2019 foi
+reenquadrada como empresa de pequeno porte, mantendo-se em 2020 e 2021.
+
+21.FGV/SEFAZ-AM-Auditor/2022
+
+A LC 123/2006 criou a figura do Microempreendedor Individual – MEI no claro intuito de permitir a
+formalização de mais trabalhadores sem também permitir que outros busquem este regime de tributação
+apenas para arrecadar menos.
+
+Assinale a opção que indica uma regra para ser MEI.
+
+A) Exercer qualquer atividade de contribuinte individual.
+
+B) Receber no máximo 2 salários mínimos por mês de média anual pela atividade.
+
+C) Ser sócio de mais de uma empresa, desde que a remuneração não passe de 3 salários mínimos.
+
+D) Contratar, no máximo, 3 funcionários.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                     271
+        www.estrategiaconcursos.com.br                                                               295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+E) Não ser sócio ou administrador de mais de uma empresa.
+
+22.FGV/SEFAZ-AM-Auditor/2022
+
+Em observância a dispositivos constitucionais que determinam a concessão de tratamento diferenciado e
+favorecido às microempresas e empresas de pequeno porte, foi promulgada a Lei Complementar nº 123, em
+2006. Este diploma legal contém normas que disciplinam tal tratamento especial no que se refere à apuração
+e ao recolhimento dos impostos e das contribuições da União, dos Estados, do Distrito Federal e dos
+Municípios, mediante regime único de arrecadação, inclusive obrigações acessórias – o Simples Nacional.
+
+No que se refere às Obrigações Fiscais Acessórias previstas na Lei Complementar nº 123, analise as
+afirmativas a seguir.
+
+I. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional são obrigadas a manter
+em boa ordem e guarda os documentos que fundamentaram a apuração dos impostos e das contribuições
+devidos.
+
+II. O microempreendedor individual (MEI) deverá comprovar a receita bruta mediante apresentação do
+registro de vendas ou de prestação de serviços, na forma estabelecida pelo Comitê Gestor do Simples
+Nacional (CGSN).
+
+III. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional deverão manter o
+livro-caixa em que será escriturada sua movimentação financeira e bancária.
+
+Está correto o que se afirma em
+
+A) I, apenas.
+
+B) II, apenas.
+
+C) I e III, apenas.
+
+D) II e III, apenas.
+
+E) I, II e III.
+
+23.FGV/SEFAZ-BA /2022
+
+A Lei Complementar Federal nº 123/2006 prevê um regime ainda mais simplificado de recolhimento de
+impostos e contribuições abrangidos pelo Simples Nacional aos Microempreendedores Individuais (MEI).
+
+Sobre o regime de arrecadação instituído para o MEI, analise as afirmativas a seguir e assinale (V) para a
+verdadeira e (F) para a falsa.
+
+( ) O Empresário Individual que possua mais de um estabelecimento não poderá optar pelo regime especial
+em valores fixos.
+
+( ) O MEI é modalidade de microempresa.
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                   272
+            www.estrategiaconcursos.com.br                                                             295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+( ) O MEI constituído na forma de startup poderá optar pela sistemática de recolhimento em valores fixos
+mensais.
+
+As afirmativas são, na ordem apresentada, respectivamente,
+
+A) V – V – F.
+
+B) V – F – F.
+
+C) F – V – V.
+
+D) F – V – F.
+
+E) F – F – V.
+
+24.FGV/SEFAZ-AM-Auditor/2022
+
+Na definição de microempresa e empresa de pequeno porte para fins de enquadramento no regime de
+tributação do Simples na forma estabelecida pela LC nº 123/2006, a receita bruta anual é decisiva. Até R$
+360.000,00 é microempresa e de R$360.000,01 a R$4.800.000,00 é considerado EPP – Empresa de Pequeno
+Porte.
+
+Assim, é correto afirmar que
+
+A) a microempresa que passar a EPP pela sua receita bruta precisa comunicar à Receita Federal essa troca.
+
+B) a EPP não pode passar a Microempresa.
+
+C) qualquer Microempresa ou EPP que respeitar tais limites estará obrigatoriamente no Simples.
+
+D) o MEI, a Microempresa e a EPP estão dispensados dos recolhimentos dos demais tributos não englobados
+no Documento Único Mensal do Simples.
+
+E) a microempresa que superar a receita bruta anual, se tornará EPP, passando a recolher mensalmente com
+base nas novas alíquotas, sem necessidade de maiores formalidades.
+
+25.FGV/MPE-GO-Analista/2022
+
+Acerca do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte - Simples Nacional e à luz da Lei Complementar nº 123/2006,
+julgue as afirmativas abaixo:
+
+I. Estão abrangidos pelo recolhimento no regime do Simples Nacional, dentre outros impostos federais, o
+Imposto sobre a Renda da Pessoa Jurídica - IRPJ; o Imposto sobre Produtos Industrializados - IPI e o Imposto
+sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários - IOF.
+
+II. A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário                                       273
+         www.estrategiaconcursos.com.br                                                                 295
+
+                                       
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+III. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa ou
+empresa de pequeno porte que tenha sócio domiciliado no exterior.
+
+Está correto apenas o que se afirma em
+
+A) I.
+
+B) II.
+
+C) III.
+
+D) I e III.
+
+E) II e III.
+
+26.FGV/SEFAZ-BA/2022
+
+O Simples Nacional é um regime especial tributário destinado às microempresas e às empresas de pequeno
+porte.
+
+No que se refere aos limites e vedações do Simples Nacional, assinale a afirmativa correta.
+
+A) Poderá optar pelo Simples Nacional a pessoa jurídica de cujo capital participe outra pessoa jurídica, desde
+que sua receita bruta seja inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+B) Caso determinada empresa de pequeno porte optante pelo Simples Nacional passe a ser constituída sob
+a forma de ações será excluída do tratamento jurídico diferenciado do Simples Nacional, com efeitos
+retroativos ao início de suas atividades.
+
+C) Não constitui óbice à adesão ao Simples Nacional a existência de débito pendentes com o INSS, com as
+Fazendas Públicas Federal, Estadual ou Municipal, em razão do princípio da isonomia tributária.
+
+D) As micro e pequenas cervejarias não poderão recolher os impostos e contribuições na forma do Simples
+Nacional, em razão da vedação da adesão de empresas que exerçam atividade de produção de bebidas
+alcoólicas.
+
+E) A opção pelo Simples Nacional da pessoa jurídica enquadrada na condição de microempresa e empresa
+de pequeno porte é irretratável para todo o ano-calendário.
+
+27.FGV/SEFAZ-BA/2022
+
+Com relação ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+Microempresas e Empresas de Pequeno Porte, analise as afirmativas a seguir.
+
+I. O Simples Nacional implica o recolhimento mensal do IRPJ, do IPI, da CSLL, da COFINS, da Contribuição para
+o PIS/Pasep, da Contribuição Patronal Previdenciária para a Seguridade Social, do ICMS e do ISS.
+
+              Receita Federal (Analista Tributário) Direito Tributário                                    274
+              www.estrategiaconcursos.com.br                                                              295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+II. O recolhimento mensal do Simples Nacional não exclui a incidência do ICMS devido nas operações sujeitas
+ao regime de substituição tributária.
+
+III. A pessoa jurídica optante pelo Simples Nacional fica dispensada do pagamento das demais contribuições,
+instituídas pela União, não previstas no recolhimento mensal do Simples Nacional.
+
+Está correto o que se afirma em
+
+A) I, apenas.
+
+B) I e III, apenas.
+
+C) I e II, apenas.
+
+D) II e III, apenas.
+
+E) I, II e III.
+
+28.FGV/SEFAZ-BA/2022
+
+Nas aquisições de mercadoria de microempresa optante pelo Simples Nacional, a pessoa jurídica X terá
+direito a crédito correspondente ao ICMS incidente nas referidas aquisições, desde que a pessoa jurídica X
+
+A) não seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização e observado, como limite, o ICMS efetivamente devido pela microempresa em relação a
+essas aquisições.
+
+B) não seja optante do Simples Nacional e a microempresa esteja sujeita à tributação do ICMS no Simples
+Nacional por valores fixos mensais.
+
+C) seja optante do Simples Nacional e que as mercadorias sejam destinadas à comercialização ou
+industrialização, em operações internas, vedada a utilização em operações interestaduais.
+
+D) seja optante do Simples Nacional e que apresente anualmente ao Comitê Gestor do Simples Nacional
+requerimento de creditamento do ICMS.
+
+E) não seja optante do Simples Nacional e que a aquisição seja para composição do seu ativo fixo, não sendo
+fixado limite para sua utilização, em cumprimento ao princípio da não-cumulatividade.
+
+29.FGV/SEFAZ-AM-Auditor/2022
+
+Um empresário procura a Receita Estadual buscando informações sobre o Simples, com a perspectiva de
+recolher vários tributos em um único documento.
+
+Como exemplo dos tributos recolhidos no Simples Nacional, em Documento Único de Arrecadação na forma
+da LC 123/2006, temos
+
+A) IRPJ, Contribuição Previdenciária Patronal, IPI e ISS.
+
+
+            Receita Federal (Analista Tributário) Direito Tributário                                    275
+            www.estrategiaconcursos.com.br                                                              295
+
+                                          
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+B) IRPJ, Imposto de Importação, IOF e COFINS.
+
+C) IPI, ISS, ICMS e ITR.
+
+D) IRPJ, ISS, ITR e IPTU.
+
+E) IRPJ, Contribuição Previdenciária dos Trabalhadores, IPI e ITR.
+
+30.FGV/SEFAZ-ES-Auditor/2021
+
+As opções a seguir apresentam regras legais que se aplicam ao Microempreendedor Individual (MEI), à
+exceção de uma. Assinale-a.
+
+A) O MEI é modalidade de microempresa e todo benefício aplicável à microempresa estende-se a ele sempre
+que lhe for mais favorável.                                ==219a34==
+
+B) O MEI poderá utilizar sua residência como sede do estabelecimento, quando não for indispensável a
+existência de local próprio para o exercício da atividade.
+
+C) O empresário individual ou empreendedor, que exerça atividades de industrialização, comercialização e
+prestação de serviços no âmbito rural, desde que não tenha empregados, poderá enquadrar-se como MEI.
+
+D) O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos
+empreendimentos e a inclusão social e previdenciária.
+
+E) O MEI, inscrito no conselho profissional de sua categoria na qualidade de pessoa física, fica dispensado de
+realizar nova inscrição no mesmo conselho, na qualidade de empresário individual.
+
+31.FGV/Pref. Paulínia-Advogado/2021
+
+Maria, manicure que aufere cerca de R$2.500,00 por mês, desejando regularizar sua atividade profissional,
+registrou-se como Microempreendedora Individual (MEI), optando por recolher seus tributos na sistemática
+do Simples Nacional.
+
+Por esse sistema, Maria irá recolher os tributos abrangidos pelo Simples Nacional
+
+A) em valor fixo mensal.
+
+B) em valor fixo anual.
+
+C) em percentual sobre a receita bruta mensal.
+
+D) em percentual sobre a receita bruta anual.
+
+E) em percentual sobre o faturamento mensal.
+
+32.Prof. Fábio Dutra/Questão Inédita/2022
+
+         Receita Federal (Analista Tributário) Direito Tributário                                         276
+         www.estrategiaconcursos.com.br                                                                   295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos
+seguintes impostos e contribuições, exceto:
+
+a) Imposto sobre a Renda da Pessoa Jurídica – IRPJ.
+
+b) Contribuição Social sobre o Lucro Líquido – CSLL.
+
+c) Imposto sobre Produtos Industrializados – IPI.
+
+d) ICMS devido em operações com tributação concentrada em uma única etapa (monofásica).
+
+e) Contribuição Patronal Previdenciária – CPP.
+
+33.Prof. Fábio Dutra/Questão Inédita/2022
+
+A respeito do Microempreendedor Individual – MEI, previsto na Lei Complementar 123/2006, assinale a
+alternativa errada:
+
+a) poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em
+valores fixos mensais, independentemente da receita bruta por ele auferida no mês;
+
+b) O limite anual de receita bruta para fins de enquadramento como MEI é de R$ 120.000,00.
+
+c) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que possua mais de um
+estabelecimento;
+
+d) Não poderá optar pela sistemática de recolhimento diferenciado o MEI que participe de outra empresa
+como titular, sócio ou administrador;
+
+e) Não poderá optar pela sistemática de recolhimento diferenciado o MEI constituído na forma de startup.
+
+34.Prof. Fábio Dutra/Questão Inédita/2022
+
+A empresa Alfa, não optante pelo Simples Nacional, realiza três aquisições de empresas optantes pelo
+Simples Nacional:
+
+Produto 01 – da Empresa Gama (EPP) – destinado à industrialização;
+
+Produto 02 – da Empresa Beta (ME) – destinado à comercialização;
+
+Produto 03 – da Empresa Delta (EPP) – destinado ao seu consumo.
+
+Em relação ao ICMS incidente na operação de venda das empresas Gama, Beta e Delta para a empresa Alfa,
+e considerando as disposições da Lei Complementar 123/2006, assinale a alternativa correta:
+
+a) A empresa Alfa não tem direito ao crédito de ICMS em tais aquisições.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                      277
+        www.estrategiaconcursos.com.br                                                                295
+
+                                      
+
+
+---
+
+    Fábio Dutra
+    Aula 19
+
+b) A empresa Alfa tem direito ao crédito de ICMS em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite a alíquota interna do imposto.
+
+c) A empresa Alfa tem direito ao crédito de ICMS, em qualquer das situações acima (Produtos 01, 02 e 03),
+tendo como limite o valor devido pela empresa vendedora.
+
+d) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 02, tendo como limite o
+valor devido pela empresa vendedora.
+
+e) A empresa Alfa tem direito ao crédito de ICMS, apenas em relação ao Produto 01 e 02, tendo como limite
+o valor devido pela empresa vendedora.
+
+35.Prof. Fábio Dutra/Questão Inédita/2022
+
+Acerca do Simples Nacional, e considerando os regramentos da Lei Complementar 123/2006 e suas
+alterações posteriores, analise as situações abaixo:
+
+I - Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada como
+microempresa ou empresa de pequeno porte poderá admitir o aporte de capital, que integrará o capital
+social da empresa.
+
+II - No caso de investidor-anjo, o contrato de participação terá duração não superior a 10 anos.
+
+III – Caso uma microempresa ou empresa de pequeno porte venha se beneficiar do aporte de capital na
+forma de investidor-anjo, a atividade constitutiva do objeto social será exercida unicamente por sócios
+regulares, em seu nome individual e sob sua exclusiva responsabilidade.
+
+Estão corretos os seguintes itens:
+
+a) I, II, III.
+
+b) I, II.
+
+c) II, III.
+
+d) I, III.
+
+e) III.
+
+36.Prof. Fábio Dutra/Questão Inédita/2022
+
+No tocante ao Simples Nacional, julgue as assertivas abaixo, e ao final, assinale a alternativa que representa
+a resposta correta:
+
+( ) O Simples Nacional abrange a apuração e recolhimento dos impostos e contribuições da União, dos
+Estados, do Distrito Federal e dos Municípios, mediante regime único de arrecadação, exceto as obrigações
+acessórias.
+
+              Receita Federal (Analista Tributário) Direito Tributário                                     278
+              www.estrategiaconcursos.com.br                                                               295
+
+                                            
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+( ) Nas licitações será assegurada, como critério de desempate, preferência de contratação para as
+microempresas e empresas de pequeno porte, entendendo-se por empate, como regra, aquelas situações
+em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até
+10% superiores à proposta mais bem classificada.
+
+( ) As cooperativas podem se beneficiar do tratamento jurídico previsto na LC 123/2006 (Simples Nacional).
+
+a) V, F, F
+
+b) V, F, V
+
+c) V, V, V
+
+d) F, V, F
+
+e) F, F, F
+
+    37. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+O fato de uma sociedade empresária classificada como empresa de pequeno porte e optante do tratamento
+jurídico diferenciado previsto na mencionada LC passar a ter como sócia pessoa jurídica distinta é causa de
+exclusão do respectivo regime diferenciado, a partir do mês seguinte ao da ocorrência da respectiva situação
+impeditiva.
+
+    38. CEBRASPE/DPE RO/2023
+
+Conforme a Lei Complementar n.º 123/2006, em regra, as empresas optantes do Simples Nacional devem
+recolher, mensalmente,
+
+I o imposto sobre a propriedade territorial rural (ITR).
+
+II o imposto sobre a renda da pessoa jurídica (IRPJ).
+
+III o imposto sobre produtos industrializados (IPI).
+
+IV a contribuição social sobre o lucro líquido (CSLL).
+
+V a contribuição para o financiamento da seguridade social (COFINS).
+
+Estão certos apenas os itens
+
+a) I e V.
+
+
+             Receita Federal (Analista Tributário) Direito Tributário                                    279
+             www.estrategiaconcursos.com.br                                                              295
+
+                                           
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+b) III e IV.
+
+c) I, II e V.
+
+d) I, II, III e IV.
+
+e) II, III, IV e V.
+
+     39. CEBRASPE/PPNT (PETROBRAS)/PETROBRAS/Suprimento de Bens e Serviços/Administração/2023
+
+No que se refere à administração tributária, julgue o item a seguir.
+
+O simples nacional, também conhecido como simples federal, unificou os sistemas de tributação de
+microempresas e pequenas empresas, englobando oito tributos distintos.
+
+     40. CEBRASPE/ATM Pref Fortaleza/2023
+
+Considerando a competência tributária prevista na Constituição Federal de 1988 e no Código Tributário
+Nacional, julgue o item a seguir.
+
+O microempreendedor individual (MEI) tem autorização legal para, caso queira, aderir ao recolhimento dos
+impostos e das contribuições abrangidos pelo Simples Nacional.
+
+     41. CEBRASPE/MPE-PA-PROMOTOR/2023
+
+Caso a microempresa vencedora de licitação pública possua restrição na comprovação de regularidade fiscal
+ou trabalhista, ser-lhe-á concedido, para regularizar a situação, a contar da declaração do vencedor do
+certame, o prazo de
+
+a) 10 dias úteis, vedada a prorrogação.
+
+b) 15 dias úteis, prorrogável por igual período.
+
+c) 5 dias úteis, prorrogável por igual período.
+
+d) 10 dias úteis, prorrogável por igual período.
+
+e) 15 dias úteis, vedada a prorrogação.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário                                   280
+           www.estrategiaconcursos.com.br                                                             295
+
+                                         
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+    42. CEBRASPE/NeR (TJ SC)/TJ SC/Remoção/2023
+
+Na Lei Complementar n.º 123/2006, a definição “órgão ou instituição de natureza pública ou privada que
+tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o
+desenvolvimento da ciência, da tecnologia e da inovação” refere-se a
+
+a) instituição de apoio.
+
+b) órgão de promoção da inovação.
+
+c) instituição científica e tecnológica.
+
+d) agência de fomento.
+
+e) núcleo de inovação tecnológica.
+
+    43. CEBRASPE/ATM Pref Fortaleza/2023
+
+Com base nas disposições do Código Civil e da Lei Complementar (LC) n.º 123/2006, julgue o item que se
+segue.
+
+Nos termos da referida LC, o fato de uma sociedade limitada ser considerada empresa de pequeno porte não
+desobriga os sócios de realizarem reuniões e assembleias na forma estabelecida pelo Código Civil para suas
+deliberações.
+
+    44. CEBRASPE/Proc DF/PG DF/2022
+
+Os representantes do DF no Comitê Gestor do Simples Nacional, vinculado ao Ministério da Economia, e no
+Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e
+Negócios serão indicados pela Secretaria Especial da Receita Federal do Brasil.
+
+    45. CEBRASPE/ATrib (Pref Maringá)/2022
+
+Pode se beneficiar da condição de microempresa, segundo o Estatuto Nacional da Microempresa e da
+Empresa de Pequeno Porte, a pessoa jurídica
+
+a) de cujo capital participe outra pessoa jurídica.
+
+b) que seja filial, no país, de pessoa jurídica sediada no exterior.
+
+         Receita Federal (Analista Tributário) Direito Tributário                                      281
+         www.estrategiaconcursos.com.br                                                                295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+c) constituída sob a forma de cooperativa de consumo.
+
+d) que exerça atividade de seguros privados.
+
+e) constituída sob a forma de sociedade por ações.
+
+   46. VUNESP/ PRUDENCO-Compras/2022
+
+A Lei Complementar no 147/2014 determina que sejam concedidos, nas contratações públicas da
+administração direta e indireta, autárquica e fundacional, federal, estadual e municipal, tratamentos
+diferenciados e simplificados para
+
+A) o microempreendedor individual e as empresas de médio porte.
+
+B) as empresas de pequeno e de médio porte.
+
+C) as microempresas e as empresas de médio porte.
+
+D) as microempresas e as empresas de pequeno porte.
+
+E) as empresas de médio e de grande porte.
+
+   47. VUNESP/Auditor Público Interno (Pref Guaratinguetá)/2022
+
+Segundo a Lei Complementar nº 123/2006, entre outras, poderão recolher os impostos e contribuições na
+forma do Simples Nacional a microempresa ou empresa de pequeno porte
+
+A) que tenha sócio domiciliado no exterior.
+
+B) de cujo capital participe entidade da administração pública.
+
+C) distribuidora ou comercializadora de energia elétrica.
+
+D) que se dedique à advocacia.
+
+E) que realize cessão ou locação de mão-de-obra.
+
+   48. VUNESP/Inspetor Fiscal de Rendas – Pref. Guarulhos/2019
+
+Assinale a alternativa que contempla um tipo de pessoa jurídica que pode se enquadrar nos termos da Lei
+Complementar nº 123/2006, como microempresa ou empresa de pequeno porte, e que poderá se beneficiar
+do tratamento jurídico diferenciado previsto nessa Lei, desde que atenda aos demais requisitos legais.
+
+A) Constituída sob a forma de sociedade por ações.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                    282
+        www.estrategiaconcursos.com.br                                                              295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+B) Constituída sob a forma de cooperativa de consumo.
+
+C) De cujo capital participe outra pessoa jurídica.
+
+D) Filial, no País, de pessoa jurídica com sede no exterior.
+
+E) Que exerça atividade de sociedade de crédito.
+
+   49. VUNESP/Inspetor Fiscal de Rendas – Pref. Guarulhos/2019
+
+ Considere a seguinte situação hipotética: A empresa “Transportando Pessoas XPTO S/A”, prestadora de
+serviço de transporte coletivo municipal de trabalhadores, na modalidade fretamento contínuo, é
+responsável por transportar empregados de companhia sediada na região central do município residentes
+nos bairros periféricos.
+
+De acordo com a legislação em vigor, essa empresa
+
+A) poderá ser optante do Simples Nacional, independentemente de se enquadrar no conceito legal de
+microempresa ou empresa de pequeno porte.
+
+B) não poderá ser optante do Simples Nacional, em razão da sua forma de constituição.
+
+C) poderá usufruir dos benefícios tributários do Simples Nacional, ainda que não seja optante, em razão da
+natureza do serviço prestado.
+
+D) poderá usufruir apenas dos benefícios não tributários do Simples Nacional, mesmo que seja optante.
+
+E) não poderá ser optante do Simples Nacional, porque não realiza transporte de estudantes de baixa renda.
+
+   50. VUNESP/Juiz Estadual (TJ RS)/2018
+
+Para os efeitos da Lei Complementar nº 123/2006, consideram- se microempresas ou empresas de pequeno
+porte, a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o
+empresário a que se refere o artigo 966 do Código Civil em vigor, devidamente registrados no Registro de
+Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+
+A) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 400.000,00
+(quatrocentos mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$ 400.000,00
+(quatrocentos mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
+
+B) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); no caso de empresa de pequeno porte aufira receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          283
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+C) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 380.000,00
+(trezentos e oitenta mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$
+380.000,00 (trezentos e oitenta mil reais) e igual ou inferior a R$ 4.800.000,00 (quatro milhões e oitocentos
+mil reais).
+
+D) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 360.000,00
+(trezentos e sessenta mil reais); no caso de empresa de pequeno porte, aufira receita bruta superior a R$
+360.000,00 (trezentos e sessenta mil reais) e igual ou inferior a R$ 5.000.000,00 (cinco milhões de reais).
+
+E) no caso da microempresa, aufira em cada ano-calendário, receita bruta igual ou inferior a R$ 400.000,00
+(quatrocentos mil reais); no caso de empresa de pequeno porte aufira receita bruta superior a R$ 400.000,00
+(quatrocentos mil reais) e igual ou inferior a R$ 5.000.000,00 (cinco milhões de reais).
+
+   51. VUNESP/Fiscal de Cadastro Tributário I (Pref SBC)/2018
+
+Segundo o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte (Lei Complementar nº
+123/2006), é correto afirmar que
+
+A) se considera microempresa ou empresa de pequeno porte a sociedade empresária ainda que não
+registrada no Registro de Empresas Mercantis.
+
+B) se consideram empresas de pequeno porte as que aufiram, em cada ano-calendário, receita bruta superior
+a R$ 360.000,00 e igual ou inferior a R$ 4.800.000,00.
+
+C) o regime desta lei aplica-se às empresas integrantes de grupos empresariais, controladas por outras
+pessoas jurídicas.
+
+D) o Regime Especial do Simples Nacional abrange apenas os impostos de competência da União Federal,
+Estados e Municípios.
+
+E) poderá recolher os impostos e contribuições na forma do Simples Nacional a empresa de pequeno porte
+com ausência de inscrição ou com irregularidade em cadastro fiscal federal, municipal ou estadual.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          284
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+Fábio Dutra
+Aula 19
+
+GABARITO DAS QUESTÕES COMPLEMENTARES
+
+      1. D                                         19. E                 37. C
+      2. A                                         20. C                 38. E
+      3. A                                         21. E                 39. E
+      4. C                                         22. E                 40. C
+      5. E                                         23. A                 41. C
+      6. D                                         24. E                 42. D
+      7. C                                         25. E                 43. E
+      8. A                                         26. E                 44. E
+      9. B                                         27. E                 45. C
+      10. C                                        28. A                 46. D
+      11. B                                        29. A                 47. D
+      12. B                                        30. C                 48. B
+      13. E                                        31. A                 49. B
+      14. C                                        32. D                 50. B
+      15. C                                        33. B                 51. B
+      16. E                                        34. E
+      17. E                                        35. E
+      18. C                                        36. D
+
+      Receita Federal (Analista Tributário) Direito Tributário                   285
+      www.estrategiaconcursos.com.br                                             295
+
+                                    
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+   RESUMO DOS ASSUNTOS MAIS IMPORTANTES
+Microempresas e Empresas de Pequeno Porte (ME e EPP)
+● A CF/88 estabelece que A União, os Estados, o Distrito Federal e os Municípios dispensarão às
+  microempresas e às empresas de pequeno porte tratamento jurídico diferenciado e favorecido;
+● Cabe à lei complementar definir o tratamento diferenciado e favorecido que será concedido às
+  microempresas e às empresas de pequeno porte;
+● A lei complementar também poderá instituir regime único de arrecadação dos impostos e
+  contribuições da União, dos Estados, do Distrito Federal e dos Municípios, com as seguintes
+  observações:
+       ● será opcional para o contribuinte;
+       ● poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
+       ● o recolhimento será unificado e centralizado e a distribuição da parcela de recursos
+         pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou
+         condicionamento;
+       ● a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes federados,
+         adotado cadastro nacional único de contribuintes.
+● Para ser considerada microempresa (ME) e empresa de pequeno porte (EPP), deve-se enquadrar nos
+  seguintes limites de receitas anuais:
+
+● Podem ser consideradas ME ou EPP:
+      ● Sociedade empresária;
+      ● Sociedade simples;
+      ● Empresa individual de responsabilidade limitada (EIRELI);
+      ● Empresário.
+● No caso de o Estado optar pelo enquadramento diferenciado no Simples Nacional, em relação aos seus
+  tributos, TODOS os Municípios nele localizados adotam, obrigatoriamente, o mesmo limite estadual.
+● A opção pelo regime de tributação do Simples Nacional acarreta, para as MEs e EPPs, o recolhimento
+  mensal, mediante documento único de arrecadação de diversos impostos e contribuições. Este
+  documento é denominado Documento de Arrecadação do Simples Nacional (DAS).
+
+        Receita Federal (Analista Tributário) Direito Tributário                                  286
+        www.estrategiaconcursos.com.br                                                            295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+● Embora os cálculos dos tributos sejam feitos com base na receita auferida no mês (regime de
+  competência), a LC 123/06 permite, na forma regulamentada pelo Comitê Gestor, que a empresa opte
+  do cálculo pelo regime de caixa, considerando as receitas efetivamente recebidas no mês.
+
+Sublimite do Simples Nacional
+● A opção pelo sublimite considera a participação do Estado no PIB.
+● A opção pelo Estado implica adoção ao sublimite pelos seus respectivos Municípios.
+● Mesmo não optando pelo sublimite, o teto de receita bruta para o ICMS e ISS é de R$ 3.600.000,00
+
+            % de Participação no PIB Nacional                                 Limite da EPP
+                  % de Partic. PIB ≤ 1%                                    Até R$ 1.800.000,00
+                  % de Partic. PIB > 1%                                    Até R$ 3.600.000,00
+Créditos de Tributos no Simples Nacional
+● As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não farão jus à
+  apropriação nem transferirão créditos relativos a impostos ou contribuições abrangidos pelo Simples
+  Nacional.
+● Admite-se o direito a crédito para as empresas não optantes do Simples Nacional quanto estas
+  adquirirem de MEs e EPPs optantes, correspondente ao valor incidente de ICMS sobre a aquisição,
+  desde que as mercadorias sejam destinadas à comercialização e industrialização.
+● As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não poderão utilizar
+  ou destinar qualquer valor a título de incentivo fiscal.
+
+
+Principais Vedações no Simples Nacional
+● Não poderá se beneficiar do tratamento jurídico diferenciado (Simples Nacional), para nenhum efeito
+  legal (vedação plena), a pessoa jurídica:
+
+        I - de cujo capital participe outra pessoa jurídica;
+        II - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede
+        no exterior;
+        VI - constituída sob a forma de cooperativas, salvo as de consumo;
+        VII - que participe do capital de outra pessoa jurídica;
+        X - constituída sob a forma de sociedade por ações.
+
+● Não poderão recolher os impostos e contribuições na forma do Simples Nacional (Vedação Parcial) a
+  microempresa ou a empresa de pequeno porte:
+
+        I - que explore atividade de prestação cumulativa e contínua de serviços de assessoria
+        creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber,
+        gerenciamento de ativos (asset management) ou compra de direitos creditórios
+        resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring) ou que
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         287
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+   Fábio Dutra
+   Aula 19
+
+         execute operações de empréstimo, de financiamento e de desconto de títulos de
+         crédito, exclusivamente com recursos próprios, tendo como contrapartes
+         microempreendedores individuais, microempresas e empresas de pequeno porte,
+         inclusive sob a forma de empresa simples de crédito; (a parte destacada foi incluída
+         pela LC 167/2019)
+         II - que tenha sócio domiciliado no exterior;
+         III - de cujo capital participe entidade da administração pública, direta ou indireta, federal,
+         estadual ou municipal;
+         V - que possua débito com o Instituto Nacional do Seguro Social - INSS, ou com as
+         Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+
+Exclusões do Simples Nacional                               ==219a34==
+
+                    Motivo da Exclusão                                           Data-Limite para comunicação à RFB
+                                                                         Até o último dia útil do mês de janeiro (afinal, a opção
+                  1) Exclusão por opção
+                                                                                   é irretratável durante todo o ano).
+   2) Exclusão obrigatória, quando ME ou EPP incorrer
+                                                                          Até o último dia útil do mês subsequente àquele em
+  em qualquer das situações de vedação previstas nesta
+                                                                                   que ocorrida a situação de vedação.
+                    Lei Complementar
+                                                                         a) Até o último dia útil do mês seguinte àquele em que
+                                                                              tiver ultrapassado em mais de 20% do limite
+    3) Exclusão obrigatória, quando ultrapassado, no                                          proporcional.
+     ano-calendário de início de atividade, o limite
+              proporcional de receita bruta                                   b) Até o último dia útil do mês de janeiro do
+                                                                         ano-calendário subsequente ao de início de atividades,
+                                                                              caso o excesso seja inferior a 20% do limite.
+                                                                             a) Até o último dia útil do mês subsequente à
+                                                                          ultrapassagem em mais de 20% do limite de receita
+  4) Exclusão obrigatória, quando ultrapassado o limite                                          bruta.
+   de receita bruta, fora do ano-calendário de início de                      b) Até o último dia útil do mês de janeiro do
+                         atividade                                        ano-calendário subsequente, na hipótese de não ter
+                                                                           ultrapassado em mais de 20% do limite de receita
+                                                                                                  bruta.
+
+                     EXCLUSÕES POR EXCESSO DE FATURAMENTO NO SIMPLES NACIONAL
+1. Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$ 480.000,00 x nº
+   de meses)
+Regra de Exclusão: Efeitos retroativos ao início das atividades
+                                              -------------------------------------
+
+         Receita Federal (Analista Tributário) Direito Tributário                                                               288
+         www.estrategiaconcursos.com.br                                                                                         295
+
+                                       
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+2.     Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até R$ 480.000,00 x nº de
+meses)
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário.
+                                             -------------------------------------
+3.     Fora do Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite (acima de R$
+5.760.000,00)
+Regra de Exclusão: Produzirá efeitos a partir do a partir do mês seguinte.
+                                             -------------------------------------
+4.     Fora do Ano de Início de Atividades: Receita Bruta superar em até 20% do limite (até de R$
+5.760.000,00)
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário
+
+
+Tributação no Simples Nacional
+Tributos Incluídos no Simples Nacional: IRPJ, IPI, CSLL, COFINS, PIS/Pasep, Contribuição Prev. Patronal
+(CPP), ICMS e ISS.
+Tributos Excluídos do Simples Nacional: IOF, II, IE, ITR, IR-Ganho de Capital, CPMF, FGTS, Contribuição Prev.
+do Trabalhador, Contrib. Prev. Contribuinte Individual, IR sobre os rendimentos da pessoa física.
+Operações Específicas Excluídas do Simples Nacional:
+● Importação: ICMS na importação, IPI na importação, PIS/COFINS na importação, ISS na importação.
+● ICMS: substituição tributária, tributação monofásica, diferencial de alíquotas (DIFAL), operações
+  desacobertadas de documento fiscal.
+Serviços excepcionados da inclusão da CPP no Simples Nacional:
+1) Construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada,
+execução de projetos e serviços de paisagismo, bem como decoração de interiores;
+2) Serviço de vigilância, limpeza ou conservação;
+3) Serviços advocatícios (Incluído pela LC 147/2014).
+
+Responsabilidade tributária dos sócios
+● Pode haver baixa nos registros dos órgãos públicos federais, estaduais e municipais,
+  independentemente do pagamento de débitos tributários, previdenciários ou trabalhistas ou multas
+  devidas pelo atraso na entrega das respectivas declarações nesses períodos. (não existe mais
+  requisito de 12 meses sem movimentação)
+
+● A baixa ocorre sem prejuízo das responsabilidades do empresário, dos titulares, dos sócios ou dos
+  administradores por tais obrigações, apuradas antes ou após o ato de extinção.
+
+● A baixa do empresário ou da pessoa jurídica não impede que, posteriormente, sejam lançados ou
+  cobrados tributos, contribuições e respectivas penalidades, decorrentes da falta do cumprimento de
+
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          289
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+    Fábio Dutra
+    Aula 19
+
+     obrigações ou da prática comprovada e apurada em processo administrativo ou judicial de outras
+     irregularidades praticadas pelos empresários, pelas pessoas jurídicas ou por seus titulares, sócios ou
+     administradores.
+
+● A solicitação de baixa do empresário ou da pessoa jurídica importa responsabilidade solidária dos
+  empresários, dos titulares, dos sócios e dos administradores no período da ocorrência dos respectivos
+  fatos geradores.
+O arquivamento, nos órgãos de registro, dos atos constitutivos de empresários, de sociedades empresárias
+e de demais equiparados que se enquadrarem como microempresa ou empresa de pequeno porte bem
+como o arquivamento de suas alterações são dispensados das seguintes exigências:
+I - certidão de inexistência de condenação criminal, que será substituída por declaração do titular ou
+administrador, firmada sob as penas da lei, de não estar impedido de exercer atividade mercantil ou a
+administração de sociedade, em virtude de condenação criminal;
+II - prova de quitação, regularidade ou inexistência de débito referente a tributo ou contribuição de
+qualquer natureza.
+As microempresas e as empresas de pequeno porte, por ocasião da participação em certames licitatórios,
+deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal e
+trabalhista, mesmo que esta apresente alguma restrição.
+Em licitações, a comprovação de regularidade fiscal e trabalhista das microempresas e empresas de
+pequeno porte, nas licitações públicas, somente será exigida para efeito de assinatura do contrato.
+
+Microempreendedor Individual (MEI)
+● A sistemática do Microempreendedor Individual (MEI) baseia-se no recolhimento dos impostos e
+  contribuições do Simples Nacional em valores fixos mensais, seja qual for a receita bruta auferida,
+  respeitado, é claro, o limite para enquadramento como MEI, que por sinal é muito mais restrito do que
+  o das MEs e EPPs: R$ 81.000,00 anual.
+
+
+● No caso de início de atividades, evidentemente, o limite será de R$ 6.750,00 multiplicados pelo
+  número de meses compreendido entre o início da atividade e o final do respectivo ano-calendário,
+  consideradas as frações de meses como um mês inteiro.
+
+● Uma situação específica em relação ao MEI é o que exercer atividade de transportador autônomo de
+  cargas (caminhoneiro autônomo): o limite da receita bruta será de R$ 251.600,00;
+
+●    Vedações ao MEI:
+●    I - exercer ocupação não prevista no Anexo XI da Resolução CGSN 140/18;
+●    II - possuir mais de um estabelecimento;
+●    III - participar de outra empresa como titular, sócio ou administrador;
+●    IV - constituir-se sob a forma de startup;
+
+
+          Receita Federal (Analista Tributário) Direito Tributário                                      290
+          www.estrategiaconcursos.com.br                                                                295
+
+                                        
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+● V - contratar mais de um empregado; ou
+● VI - realizar cessão ou locação de mão de obra.
+A opção pelo MEI é irretratável para todo ano-calendário;
+   ● Resumo de Exclusões do MEI
+
+   1. Exclusão por excesso de receita bruta:
+Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite
+Regra de Exclusão: Efeitos retroativos ao início das atividades
+Ano de Início de Atividades: Receita Bruta superar em até 20% do limite
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário.
+                                             -------------------------------------
+Fora do Ano de Início de Atividades: Receita Bruta superar mais de 20% do limite
+Regra de Exclusão: Efeitos retroativos ao dia 01/janeiro do ano-calendário
+Fora do Ano de Início de Atividades: Receita Bruta superar em até 20% do limite
+Regra de Exclusão: Produzirá efeitos a partir do próximo ano-calendário
+   2. Exclusão por se enquadrar em situações vedadas ao MEI
+Regra de Exclusão: Produzirá efeitos a partir do mês subsequente.
+Para todos os casos: a data-limite para Comunicação: Até o último dia útil do mês subsequente
+● Tributação do MEI:
+● Contribuição para seguridade social, relativa ao empresário (como contribuinte individual): 5% do
+  limite mínimo mensal do salário de contribuição (no caso do transportador autônomo de cargas, o
+  percentual será de 12%);
+● ICMS: R$ 1,00, caso seja contribuinte desse imposto;
+● ISS: R$ 5,00, caso seja contribuinte desse imposto.
+Obrigações do MEI em relação às notas fiscais:
+● O MEI está dispensado da emissão de documento fiscal:
+
+● 1. nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa
+  física; e
+● 2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário emitir nota
+  fiscal de entrada; e
+
+● O MEI está obrigado à emissão de documento fiscal:
+● 1. nas prestações de serviços para tomador inscrito no CNPJ; e
+● 2. nas operações com mercadorias para destinatário inscrito no CNPJ, quando o destinatário não emitir
+  nota fiscal de entrada.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                     291
+        www.estrategiaconcursos.com.br                                                               295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Obrigações Acessórias
+
+
+● Notas Fiscais - Emitir documento fiscal de venda ou prestação de serviço, de acordo com instruções
+  expedidas pelo Comitê Gestor;
+
+
+● Em relação aos livros contábeis e fiscais:
+Para todas ME/EPP:
+Livro Caixa - escrituração da sua movimentação financeira e bancária;
+Para Contribuintes do ICMS:
+Livro Registro de Inventário – destinado a registrar os estoques existentes no término de cada
+ano-calendário;
+Livro Registro de Entradas, modelo 1 ou 1-A - destinado à escrituração dos documentos fiscais relativos às
+entradas de mercadorias ou bens e às aquisições de serviços de transporte e de comunicação efetuadas a
+qualquer título pelo estabelecimento;
+Para Contribuintes do ISS:
+Livro Registro dos Serviços Prestados - destinado ao registro dos documentos fiscais relativos aos serviços
+prestados sujeitos ao ISS.
+Para Tomadores de Serviços Sujeitos ao ISS:
+Livro Registro de Serviços Tomados - destinado ao registro dos documentos fiscais relativos aos serviços
+tomados sujeitos ao ISS;
+Situações Específicas:
+Para Industriais Sujeitos ao Selo de Controle do IPI:
+Livro de Registro de Entrada e Saída de Selo de Controle: controle de estoque de selos de controle do IPI.
+Livro Registro de Impressão de Documentos Fiscais - pelo estabelecimento gráfico para registro dos
+impressos que confeccionar para terceiros ou para uso próprio;
+Livro Registro de Veículos - por todas as pessoas que interfiram habitualmente no processo de
+intermediação de veículos, inclusive como simples depositários ou expositores.
+
+
+● Possibilidade de a ME/EPP adotar contabilidade simplificada para os registros e controles das
+  operações realizadas
+
+● Declaração DEFIS – Entrega anual até o dia 31/03 do ano-calendário seguinte.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                         292
+        www.estrategiaconcursos.com.br                                                                   295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+Competência para Fiscalizar
+● Competência para Fiscalizar Cumprimento de Obrigações Principais ou Acessórias:
+I - do Município, desde que o contribuinte do ISS tenha estabelecimento em seu território;
+II - dos Estados ou do Distrito Federal, desde que a pessoa jurídica tenha estabelecimento em seu território;
+ou
+III - da União, em qualquer hipótese.
+● Competência para Efetuar Lançamento (Autuação):
+       Obrigações Principais: qualquer ente federado, independentemente do ente instituidor.
+Observação: Na hipótese de ação fiscal simultânea, a autoridade fiscal deverá tomar conhecimento das
+ações fiscais em andamento, a fim de evitar duplicidade de lançamentos referentes ao mesmo período e
+fato gerador.
+Obrigações Acessórias: privativa da administração tributária perante a qual a obrigação deveria ter sido
+cumprida.
+● Todas as presunções de omissão de receita existentes nas legislações de regência dos impostos e
+  contribuições incluídos no Simples Nacional.
+
+● É permitida a prestação de assistência mútua e a permuta de informações entre a Fazenda Pública da
+  União e as dos Estados, do Distrito Federal e dos Municípios, relativas às microempresas e às empresas
+  de pequeno porte, para fins de planejamento ou de execução de procedimentos fiscais ou
+  preparatórios.
+
+● As administrações tributárias poderão utilizar procedimento de notificação prévia, visando à
+  autorregularização, na forma e nos prazos a serem regulamentados pelo CGSN, que não constituirá
+  início de procedimento fiscal.
+
+
+Investidor-Anjo
+● Quem pode ser investidor-anjo: pessoa física, pessoa jurídica ou fundos de investimento.
+
+● O aporte de capital não integrará o capital social da empresa.
+
+● Os valores de capital aportado não são considerados receitas da sociedade.
+
+● É possível estipular remuneração periódica, ao final de cada período, ao investidor-anjo, conforme
+  contrato de participação; ou a possibilidade de conversão do aporte de capital em participação
+  societária.
+
+● O contrato de participação terá vigência não superior a 7 anos.
+
+● A remuneração do investidor-anjo terá duração máxima de 7 anos.
+
+        Receita Federal (Analista Tributário) Direito Tributário                                          293
+        www.estrategiaconcursos.com.br                                                                    295
+
+                                      
+
+
+---
+
+  Fábio Dutra
+  Aula 19
+
+● A duração mínima para o resgate do aporte de capital é de 2 anos (sem possível transferir a terceiros)
+
+        Receita Federal (Analista Tributário) Direito Tributário                                     294
+        www.estrategiaconcursos.com.br                                                               295
+
+                                      
+
+
+---
+
+---

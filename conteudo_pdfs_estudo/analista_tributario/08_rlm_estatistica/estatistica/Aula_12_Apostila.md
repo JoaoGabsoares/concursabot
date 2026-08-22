@@ -1,0 +1,13793 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 12_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: Estatística
+---
+
+# Estatística
+
+Aula 11
+                          Receita Federal (Analista Tributário)
+                                                    Estatística
+
+                                                         Autor:
+                                     Equipe Exatas Estratégia
+                                                   Concursos
+
+
+                                             28 de Julho de 2025
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 11
+
+                                                                                     Índice
+1) Introdução - Estimação Pontual e Intervalar.
+
+
+2) Distribuição Amostral.
+
+
+3) Estimação Pontual.
+
+
+4) Estimação Intervalar.
+
+
+5) Inferência Bayesiana.
+
+
+6) Questões Comentadas - Distribuição Amostral - FGV
+
+
+7) Questões Comentadas - Estimação Pontual - FGV
+
+
+8) Questões Comentadas - Estimação Intervalar - FGV
+
+
+9) Lista de Questões - Distribuição Amostral - FGV
+
+
+10) Lista de Questões - Estimação Pontual - FGV
+
+
+11) Lista de Questões - Estimação Intervalar - FGV
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                          297
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Olá, amigo(a)!
+
+Nessa aula, vamos estudar uma parte muito importante da Estatística Inferencial, que é a estimação por
+ponto e por intervalo. Primeiro, vamos começar vendo a distribuição dos estimadores que será o
+fundamento para a estimação intervalar.
+
+Vamos começar?!
+
+                                                    Luana Brandão
+
+                                    Doutora em Engenharia de Produção (UFF)
+
+                                             Auditora Fiscal da SEFAZ-RJ
+                                                            ==219a34==
+
+                               Se tiver alguma dúvida, entre em contato comigo!
+
+              professoraluanabrandao@gmail.com
+
+             @professoraluanabrandao
+
+                                                     “Não importa o quão devagar você vá, desde que não pare.”
+
+                                                                                                     Confúcio
+
+        Receita Federal (Analista Tributário) Estatística                                                   3
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                 DISTRIBUIÇÃO AMOSTRAL
+Nesta seção, estudaremos a distribuição de probabilidade dos principais estimadores, chamada de
+Distribuição Amostral. Vale ressaltar que os estimadores são variáveis aleatórias e por isso apresentam
+distribuições de probabilidade.
+
+Inicialmente, é importante pontuar que a distribuição dos elementos de uma amostra aleatória qualquer
+segue a mesma distribuição populacional.
+
+Por exemplo, vamos considerar uma moeda com 2 faces, que vamos chamar de face 0 e face 1. Tratando-se
+                                                             1
+de uma moeda equilibrada, a probabilidade de cada face é de 2 = 0,5 e a esperança e variância são,
+respectivamente:
+
+                                               𝐸(𝑋) = ∑ 𝑥. 𝑃(𝑋 = 𝑥)
+
+                                          𝐸(𝑋) = 0 × 0,5 + 1 × 0,5 = 0,5
+
+                                           𝑉(𝑋) = ∑(𝑥 − 𝜇)2 . 𝑃(𝑋 = 𝑥)
+
+                                          1              1 0,25 + 0,25
+                       𝑉(𝑋) = (0 − 0,5)2 × + (1 − 0,5)2 × =            = 0,25
+                                          2              2      2
+
+Agora, suponha que vamos extrair uma amostra aleatórias de tamanho 3, ou seja, vamos lançar a moeda 3
+vezes. Podemos representar essa amostra por 𝑋1 , 𝑋2 , 𝑋3.
+
+Considerando que os possíveis resultados das amostras são os mesmos da população (0 ou 1) e com as
+                         1
+mesmas probabilidades de 2 = 0,5 para cada face, então temos:
+
+                              𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 0 × 0,5 + 1 × 0,5 = 0,5
+
+                                                   1              1 0,25 + 0,25
+            𝑉(𝑋1 ) = 𝑉(𝑋2 ) = 𝑉(𝑋3 ) = (0 − 0,5)2 × + (1 − 0,5)2 × =            = 0,25
+                                                   2              2      2
+
+Ou seja, a esperança e a variância de cada amostra são iguais às da população:
+
+                                                  𝐸(𝑋𝑖 ) = 𝐸(𝑋) = 𝜇
+
+                                                 𝑉(𝑋𝑖 ) = 𝑉(𝑋) = 𝜎 2
+
+Na verdade, toda a distribuição de probabilidade da amostra é igual à distribuição de probabilidade da
+população (as esperanças e as variâncias são iguais como consequência desse fato).
+
+        Receita Federal (Analista Tributário) Estatística                                            4
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+            Quando as variáveis 𝑋1 , 𝑋2 , 𝑋3 , … 𝑋𝑛 , que representam os elementos da amostra, são
+            independentes, dizemos que elas independentes e identicamente distribuídas (i.i.d.), isto
+            é, são independentes e apresentam a mesma distribuição (igual à da população).
+
+            Isso ocorre quando a população é infinita (ou muito grande em comparação com o
+            tamanho da amostra) ou quando a amostra é extraída com reposição.
+
+(FGV/2021 – FunSaúde/CE - Adaptada) Se X1, X2, ... Xn é uma amostra aleatória simples extraída de uma
+população infinita com determinada distribuição de probabilidades f(x), avalie se as afirmativas a seguir
+estão corretas.
+I. X1, X2, ... Xn são independentes.
+II. X1, X2, ... Xn são identicamente distribuídos.
+III. Nem sempre cada Xi, i = 1,..., n, tem distribuição f(x).
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+Comentários:
+Essa questão trabalha com os conceitos fundamentais envolvendo distribuição amostral.
+Sendo a população infinita, então os elementos da amostra (que o enunciado chamou de X1, X2, ... Xn) são
+variáveis aleatórias independentes que apresentam a mesma distribuição da população.
+Assim, as afirmativas I e II estão corretas, enquanto a afirmativa III está incorreta, pois cada variável X i
+apresenta a mesma distribuição f(x) da população (sempre).
+Gabarito: B
+
+            Receita Federal (Analista Tributário) Estatística                                             5
+            www.estrategiaconcursos.com.br                                                               297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Agora, estudaremos a distribuição dos estimadores mais utilizados, quais sejam, a média, a proporção e a
+variância amostrais.
+
+Distribuição Amostral da Média
+                                                                                   ̅.
+Para estimarmos a média da população 𝝁, utilizamos como estimador a média amostral 𝑿
+
+Sendo 𝑋1 , 𝑋2 , … , 𝑋𝑛 os valores observados da amostra, a média amostral é a razão entre a soma dos valores
+observados, 𝑋1 + 𝑋2 + ⋯ + 𝑋𝑛 , e o número de elementos observados, 𝑛:
+
+                                                        𝑋 +𝑋 +⋯+𝑋𝑛
+                                                    𝑋̅ = 1 2𝑛
+
+Assim como os demais estimadores, a média amostral é uma variável aleatória, uma vez que 𝑋̅ varia de
+acordo com os valores observados da amostra 𝑋1 , 𝑋2 , … , 𝑋𝑛 .
+
+Vamos ao exemplo da moeda lançada 3 vezes. Se o resultado for {0, 0, 1}, a média amostral será:
+
+                                                    0+0+1 1
+                                             𝑋̅ =        = ≅ 0,33
+                                                      3   3
+
+Se o resultado for {0, 1, 1}, por exemplo, a média amostral será:
+
+                                                    0+1+1 2
+                                             𝑋̅ =        = ≅ 0,67
+                                                      3   3
+
+E qual seria a esperança desse estimador? Bem, sabendo que as faces possíveis são 0 e 1, cada uma com 50%
+de chance, esperamos que as médias desse experimento estejam em torno de 0,5.
+
+Ou seja, a esperança da média amostral é igual à média populacional?
+
+                                                       𝐸(𝑋̅) = 𝝁
+
+E quanto à variância? A variância da média amostral é dada por:
+
+                                                           𝑉(𝑋) 𝜎  2
+                                                    𝑉(𝑋̅) = 𝑛 = 𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                                 6
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para o exemplo dos 3 lançamentos da moeda, em que V(X) = 0,25 e n = 3, a variância da média amostral é:
+
+                                                            0,25
+                                                 𝑉(𝑋̅) =         ≅ 0,08
+                                                             3
+                                ̅ ) é menor do que a variância populacional 𝑽(𝑿).
+A variância da média amostral 𝑽(𝑿
+
+        Isso ocorre porque a média das observações 𝑋̅ tende a ser um valor bem mais próximo da
+        média populacional 𝜇 do que as observações individuais da amostra 𝑋𝑖 . Afinal, no cálculo
+        da média amostral, os valores acima da média compensam os valores abaixo da média.
+
+        Em outras palavras, as médias amostrais 𝑋̅ variam menos do que as observações
+        individuais 𝑋𝑖 . Lembrando que as observações individuais da amostra seguem a mesma
+        distribuição da população, então concluímos que a variância da média amostral 𝑉(𝑋̅) é
+        menor do que a variância da população 𝑽(𝑿).
+
+Além disso, quanto maior o tamanho da amostra 𝒏, menor será a variância da média amostral.
+
+O desvio padrão (raiz quadrada da variância) de um estimador pode ser chamado de erro padrão.
+
+        O erro padrão (ou desvio padrão) da média amostral é dado por:
+
+                                                                𝜎    2
+                                                                     𝜎
+                                             𝐸𝑃(𝑋̅) = √𝑉(𝑋̅) = √ 𝑛 = 𝑛
+                                                                           √
+
+
+Ou seja, o erro padrão (ou desvio padrão) da média amostral pode ser calculado como a raiz quadrada da
+variância da média amostral √𝑽(𝑿   ̅ ), ou como a razão entre o desvio padrão populacional e a raiz do
+                                   𝝈
+número de elementos da amostra 𝒏.
+                                       √
+
+
+Também podemos denotar o erro padrão (ou desvio padrão) da média amostral por 𝝈𝑿̅ .
+
+Para o nosso exemplo, o erro padrão da média amostral pode ser calculado como:
+
+
+                                                                  0,25
+                                           𝐸𝑃(𝑋̅) = √𝑉(𝑋̅) = √         ≅ 0,29
+                                                                    3
+
+        Receita Federal (Analista Tributário) Estatística                                             7
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        As fórmulas da esperança e variância podem ser obtidas pelas respectivas propriedades.
+
+                      𝑋1 +𝑋2 +⋯+𝑋𝑛
+        Sendo 𝑋̅ =                   , a esperança 𝐸(𝑋̅) é dada por:
+                            𝑛
+
+                                      𝑋 +𝑋 +⋯+𝑋𝑛        𝑋         𝑋              𝑋
+                           𝐸(𝑋̅) = 𝐸 ( 1 2𝑛      ) = 𝐸 ( 𝑛1) + 𝐸 ( 𝑛2 ) + ⋯ + 𝐸 ( 𝑛𝑛)
+
+                                             1          1              1
+                                     𝐸(𝑋̅) = 𝑛 𝐸(𝑋1 ) + 𝑛 𝐸(𝑋2 ) + ⋯ + 𝑛 𝐸(𝑋𝑛 )
+
+        Vimos que a esperança amostral é igual à esperança populacional, 𝐸(𝑋𝑖 ) = 𝐸(𝑋) = 𝜇:
+
+                                         1   1       1       1
+                                  𝐸(𝑋̅) = 𝜇 + 𝜇 + ⋯ + 𝜇 = 𝑛 × × 𝜇 = 𝜇
+                                            𝑛      𝑛             𝑛          𝑛
+
+
+        Considerando que as variáveis 𝑋1 , 𝑋2 , … , 𝑋𝑛 são independentes, a variância 𝑉(𝑋̅) é:
+
+                                      𝑋 +𝑋 +⋯+𝑋𝑛        𝑋         𝑋             𝑋
+                           𝑉(𝑋̅) = 𝑉 ( 1 2𝑛      ) = 𝑉 ( 𝑛1) + 𝑉 ( 𝑛2) + ⋯ + 𝑉 ( 𝑛𝑛)
+
+                                          1           1               1
+                                  𝑉(𝑋̅) = 𝑛2 𝑉(𝑋1 ) + 𝑛2 𝑉(𝑋2 ) + ⋯ + 𝑛2 𝑉(𝑋𝑛 )
+
+        Sabendo que a variância amostral é igual à variância populacional, 𝑉(𝑋𝑖 ) = 𝑉(𝑋) = 𝜎 2 :
+                                                                                  𝟐
+                              ̅ ) = 12 𝜎 2 + 12 𝜎 2 + ⋯ + 12 𝜎 2 = 𝑛 × 12 × 𝜎 2 = 𝝈
+                            𝑽(𝑿     𝑛        𝑛            𝑛            𝑛          𝒏
+
+        A variância dos elementos da amostra 𝑋𝑖 é igual à variância populacional 𝑉(𝑋𝑖 ) = 𝜎 2 . O
+                                                                𝜎2
+        que é diferente é a variância da média amostral, 𝑉(𝑋̅) = .          𝑛
+
+Se a variância da população não for conhecida, ela precisa ser estimada a partir da amostra (variância
+amostral):
+
+                                                            ∑(𝑋𝑖 − 𝑋̅)2
+                                                   𝑠2 =
+                                                              𝑛−1
+
+
+        Receita Federal (Analista Tributário) Estatística                                            8
+        www.estrategiaconcursos.com.br                                                              297
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Nessa situação, a estimativa para a variância da média amostral será:
+
+                                                                      𝑠2
+                                                            𝑉(𝑋̅) =
+                                                                      𝑛
+
+(CESPE/2016 – TCE/PA) Uma amostra aleatória, com n = 16 observações independentes e identicamente
+distribuídas (IID), foi obtida a partir de uma população infinita, com média e desvio padrão desconhecidos e
+distribuição normal. Tendo essa informação como referência inicial, julgue o seguinte item.
+Para essa amostra aleatória simples, o valor esperado da média amostral é igual à média populacional.
+Comentários:
+De fato, o valor esperado da média amostral (para uma amostra aleatória) é igual à média populacional.
+Gabarito: Certo.
+
+
+(2019 – UEPA) Considere uma amostra aleatória 𝑋1 , 𝑋2 , . . . , 𝑋𝑛 de uma população normal de média 𝜇 e
+                                                  ̅̅̅𝑛̅ = 𝑋1 ,𝑋2,...,𝑋𝑛, são, respectivamente,
+variância σ2 = 9. Então, a média e a variância de 𝑋            𝑛
+         3
+a) 𝜇 e 𝑛.
+   𝜇     9
+b) 𝑛 e 𝑛.
+         9
+c) 𝜇 e 𝑛.
+         𝑛
+d) 𝜇 e 9 .
+Comentários:
+A média (ou esperança) e a variância da média amostral são, respectivamente:
+                                                            𝐸(𝑋̅) = 𝜇
+                                                                 𝑉(𝑋) 9
+                                                       𝑉(𝑋̅) =       =
+                                                                  𝑛    𝑛
+Gabarito: C.
+
+
+(VUNESP/2015 – TJ-SP) Resultados de uma pesquisa declaram que o desvio padrão da média amostral é 32.
+Sabendo que o desvio padrão populacional é 192, então o tamanho da amostra que foi utilizada no estudo
+foi
+a) 6.
+b) 25.
+
+
+             Receita Federal (Analista Tributário) Estatística                                            9
+             www.estrategiaconcursos.com.br                                                             297
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+c) 36.
+d) 49.
+e) 70.
+Comentários:
+O desvio padrão (ou erro padrão) da média amostral pode ser calculado como a razão entre o desvio padrão
+da população e a raiz do número de elementos da amostra:
+                                                      𝜎
+                                               𝜎𝑋̅ =
+                                                     √𝑛
+O enunciado informa que o desvio padrão da média amostral é 𝜎𝑋̅ = 32 e o desvio padrão populacional é
+𝜎 = 192. Logo:
+                                                                192
+                                                         32 =
+                                                              √𝑛
+                                                            192
+                                                      √𝑛 =      =6
+                                                            32
+                                                      𝑛 = (6)2 = 36
+Gabarito: C.
+
+
+(FCC/2012 – TRE-SP) Uma variável aleatória U tem distribuição uniforme contínua no intervalo [𝜶, 𝟑𝜶]. Sabe-
+se que U tem média 12. Uma amostra aleatória simples de tamanho n, com reposição, é selecionada da
+distribuição de U e sabe-se que a variância da média dessa amostra é 0,1. Nessas condições, o valor de n é
+a) 80.
+b) 100.
+c) 120.
+d) 140.
+e) 150.
+Comentários:
+O que essa questão exige, em relação à matéria que acabamos de estudar, é a fórmula do desvio padrão da
+média amostral:
+                                                      𝜎
+                                                𝜎𝑋̅ =
+                                                      √𝑛
+Assim, podemos escrever o tamanho amostral como:
+                                                                 𝜎
+                                                          √𝑛 =
+                                                                 𝜎𝑋̅
+                                                        𝜎 2 𝜎2
+                                                     𝑛=( ) = 2
+                                                        𝜎𝑋̅ 𝜎𝑋̅
+Ou seja, o tamanho amostral é a razão entre a variância populacional 𝜎 2 (quadrado do desvio padrão
+populacional 𝜎) e a variância da média amostral 𝜎𝑋2̅ (quadrado do desvio padrão da média amostral 𝜎𝑋̅ ).
+
+          Receita Federal (Analista Tributário) Estatística                                                    10
+          www.estrategiaconcursos.com.br                                                                      297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O enunciado informa que a variância da média amostral é 𝜎𝑋2̅ = 0,1.
+Pronto! A matéria desta aula acabou. Agora, para calcular a variância populacional, precisamos saber calcular
+a média e a variância da distribuição contínua uniforme.
+A média (esperança) dessa distribuição é igual à média aritmética dos limites do intervalo, a e b. Sabendo
+que a = 𝜶, b = 3.𝜶 e E(X) = 12, conforme dados do enunciado, temos:
+                                                         𝑎+𝑏
+                                                     𝐸(𝑋) =
+                                                           2
+                                                   𝛼 + 3𝛼 4𝛼
+                                              12 =       =    = 2𝛼
+                                                      2     2
+                                                       𝛼=6
+Ou seja, a = 6 e b = 3x6 = 18. Então, a variância é dada por:
+                                     (𝑏 − 𝑎)2 (18 − 6)2 (12)2
+                                  𝑉(𝑋) =      =            =       = 12
+                                         12        12          12
+Voltando à nossa fórmula para encontrar o tamanho amostral, temos:
+                                                      𝜎 2 12
+                                                 𝑛=       =    = 120
+                                                      𝜎𝑋2̅ 0,1
+Gabarito: C
+
+Fator de Correção para População Finita
+
+Os resultados da variância e do desvio padrão da média amostral são válidos para variáveis 𝑋1 , 𝑋2 , … , 𝑋𝑛
+independentes, ou seja, quando a população é infinita ou quando as amostras são extraídas com reposição.
+
+Quando isso não ocorre, ou seja, quando a população é finita e as amostras são extraídas sem reposição,
+precisamos fazer um ajuste.
+
+Sendo 𝑛 o tamanho da amostra e 𝑁 o tamanho da população, precisamos multiplicar a variância da média
+                                                     𝑵−𝒏
+amostral, pelo fator de correção de população finita 𝑵−𝟏.
+
+                                                              2
+                                                    ̅̅̅∗ ) = 𝜎 × 𝑵−𝒏
+                                                  𝑉(𝑋        𝑛   𝑵−𝟏
+
+
+Observe que o fator de correção é menor do que 1, pois 𝑁 − 𝑛 < 𝑁 − 1. Assim, o ajuste diminui a variância
+da média amostral.
+
+Sabendo que o erro (ou desvio) padrão é a raiz quadrada da variância, podemos ajustá-lo para populações
+finitas e amostras extraídas sem reposição, multiplicando-o pela raiz quadrada do fator de correção:
+
+
+                                                            𝜎2 𝑵 − 𝒏   𝜎    𝑵−𝒏
+                                 ̅̅̅∗ ) = √𝑉(𝑋
+                              𝐸𝑃(𝑋           ̅̅̅∗ ) = √       ×      =   ×√
+                                                            𝑛 𝑵 − 𝟏 √𝑛      𝑵−𝟏
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 11
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Distribuição da Média Amostral e a Curva Normal
+
+Quando a população segue distribuição normal (ou gaussiana) com variância conhecida, a média amostral
+também seguirá distribuição normal.
+
+Como vimos anteriormente, a esperança, a variância e o desvio (ou erro) padrão da média amostral são:
+
+                                                       𝐸(𝑋̅) = 𝜇
+
+                                                                𝜎2
+                                                      𝑉(𝑋̅) =
+                                                                𝑛
+                                                                 𝜎
+                                                     𝐸𝑃(𝑋̅) =
+                                                                √𝑛
+
+Assim, para calcular as probabilidades envolvendo a média amostral, nessa situação, utilizamos a seguinte
+transformação para a normal padrão:
+
+                                                            𝑥̅ − 𝜇
+                                                       𝑧=      𝜎
+                                                              √𝑛
+
+Por exemplo, vamos supor uma população com média 𝜇 = 20 e desvio padrão 𝜎 = 2. Para calcular a
+probabilidade de a média de uma amostra de tamanho 𝑛 = 16 ser maior que 𝑥̅ = 21, fazemos:
+
+                                                     21 − 20  1
+                                                𝑧=           = =2
+                                                        2     2
+                                                      √16     4
+
+Assim, a probabilidade 𝑃(𝑋̅ > 21) é igual à probabilidade 𝑃(𝑍 > 2), que pode ser obtida a partir da tabela
+normal padrão.
+
+De modo equivalente, podemos dizer que a seguinte variável segue distribuição normal padrão (ou
+reduzida), isto é, com média igual a 0 e desvio padrão igual a 1, que representamos como 𝑁(0,1):
+
+                                                       𝑋̅ − 𝜇
+                                                 𝑍=       𝜎 ~𝑁(0,1)
+                                                         √𝑛
+
+Ainda que a população não siga distribuição normal com variância conhecida, pelo Teorema Central do
+Limite, é possível aproximar a distribuição da média amostral a uma normal, também com média 𝐸(𝑋̅) = 𝜇,
+                    𝜎2                                            𝜎
+variância 𝑉(𝑋̅) = e desvio padrão (ou erro padrão) 𝐸𝑃(𝑋̅) = , quando o tamanho da amostra 𝑛 for
+                    𝑛                                                      √𝑛
+grande o bastante.
+
+A possibilidade de tal aproximação depende do tamanho da amostra e da distribuição da população.
+
+        Receita Federal (Analista Tributário) Estatística                                               12
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Quanto maior o tamanho da amostra e quanto mais simétrica for a distribuição da população, melhor será
+a aproximação. Usualmente, considera-se que para uma amostra grande, com 𝒏 ≥ 𝟑𝟎, a aproximação será
+satisfatória, para qualquer distribuição populacional.
+
+        A distribuição dos quantis amostrais (mediana, quartis, decis, percentis etc.) também pode
+        ser aproximada a uma normal, à medida que o tamanho da amostra aumenta, em
+        decorrência do Teorema Central do Limite.
+                                                            ==219a34==
+
+        A média da distribuição é igual ao quantil populacional e a variância é:
+
+                                                                          𝑞(1−𝑞)
+                                                 𝑉𝑎𝑟(𝑥
+                                                     ̃)
+                                                      𝑞 =                          2
+                                                                         𝑛.[𝑓(𝑥𝑞 )]
+
+
+        Sendo 𝑞 a proporção da distribuição delimitada pelo quantil 𝑥𝑞 , 𝑃(𝑋 < 𝑥𝑞 ) = 𝑞, e 𝑓(𝑥𝑞 )o
+        valor da função densidade da variável no ponto 𝑥𝑞 .
+
+        Por exemplo, para uma distribuição uniforme no intervalo [0,1], temos 𝑓(𝑥) = 1. Assim, a
+        variância da mediana amostral (𝑞 = 0,5) para 𝑛 suficientemente grande é:
+
+                                                   ̃ ) = 0,5×0,5 = 1
+                                               𝑉𝑎𝑟(𝑀𝑑      𝑛.12    4𝑛
+
+(CESPE/2014 – ANATEL) Com base no teorema limite central, julgue o item abaixo.
+Sendo uma amostra aleatória simples retirada de uma distribuição X com média µ e variância 1, a distribuição
+da média amostral dessa amostra, 𝑋̅, converge para uma distribuição normal de média nµ e variância 1, à
+medida que n aumenta.
+Comentários:
+A distribuição da média amostral 𝑋̅ converge para uma distribuição normal à medida que n aumenta. Porém,
+                                                          𝑉(𝑋)
+a média dessa distribuição é 𝐸(𝑋̅) = 𝜇 e variância 𝑉(𝑋̅) = 𝑛 . Sabendo que 𝑉(𝑋) = 1, a variância da média
+                    1
+amostral é 𝑉(𝑋̅) = (e não 1).
+                     𝑛
+
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                13
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE 2018/PF) O tempo gasto (em dias) na preparação para determinada operação policial é uma variável
+aleatória X que segue distribuição normal com média M, desconhecida, e desvio padrão igual a 3 dias. A
+observação de uma amostra aleatória de 100 outras operações policiais semelhantes a essa produziu uma
+média amostral igual a 10 dias. Com referência a essas informações, julgue o item que se segue, sabendo
+que 𝑃(𝑍 > 2) = 0,025, em que Z denota uma variável aleatória normal padrão.
+O erro padrão da média amostral foi inferior a 0,5 dia.
+Comentários:
+O erro padrão da média amostral é:
+                                                                      𝜎
+                                                       𝐸𝑃(𝑋̅) =
+                                                      √𝑛
+Em que 𝑛 é o tamanho da amostra (𝑛 = 100); e 𝜎 é o desvio padrão amostral (𝜎 = 3), logo:
+                                                              3        3
+                                               𝐸𝑃(𝑋̅) =           =      = 0,3
+                                                          √100        10
+Gabarito: Certo.
+
+
+(CESPE/2019 – Analista Judiciário TJ) Um pesquisador deseja comparar a diferença entre as médias de duas
+amostras independentes oriundas de uma ou duas populações gaussianas. Considerando essa situação
+hipotética, julgue o próximo item.
+Para que a referida comparação seja efetuada, é necessário que ambas as amostras tenham N ≥ 30.
+Comentários:
+Quando a população segue uma distribuição normal (ou gaussiana), a média amostral também seguirá uma
+distribuição normal, independentemente do tamanho da amostra. Logo, o item está errado. Para fins de
+complementação, se a amostra for grande o suficiente (normalmente, consideramos isso para 𝑛 ≥ 30), a
+média amostral seguirá aproximadamente uma distribuição normal, mesmo que a população não siga
+distribuição normal.
+Gabarito: Errado.
+
+
+(FCC 2015/SEFAZ-PI) Instrução: Para responder à questão utilize, dentre as informações dadas a seguir, as
+que julgar apropriadas. Se Z tem distribuição normal padrão, então: P(Z < 0,4) = 0,655; P(Z < 1,2) = 0,885;
+P(Z< 1,6) = 0,945; P(Z < 1,8) = 0,964; P(Z < 2) = 0,977.
+Uma auditoria feita em uma grande empresa considerou uma amostra aleatória de 64 contas a receber. Se
+a população de onde essa amostra provém é infinita e tem distribuição normal com desvio padrão igual a R$
+200,00 e média igual a R$ 950,00, a probabilidade da variável aleatória média amostral, usualmente
+denotada por 𝑿, estar situada entre R$ 980,00 e R$ 1.000,00 é dada por
+a) 18,4%
+b) 9,2%
+c) 28,5%
+d) 47,7%
+e) 86,2%
+
+
+          Receita Federal (Analista Tributário) Estatística                                                  14
+          www.estrategiaconcursos.com.br                                                                    297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+O enunciado informa que a população segue distribuição normal, logo, a média amostral também terá
+distribuição normal. Assim, utilizamos a seguinte transformação para a normal padrão:
+                                                               𝑋̅ − 𝜇
+                                                      𝑍𝑋̅ =       𝜎
+                                                                 √𝑛
+Sabemos que o tamanho da amostra é n = 64, logo, √𝑛 = 8; que a média populacional é 𝜇 = 950 e que o
+                                                                                       ̅̅̅̅̅̅
+desvio padrão populacional é 𝜎 = 200. Substituindo esses valores, a transformação para 𝑋 𝑖𝑛𝑓 = 980 é:
+
+                                             980 − 950         8  6
+                                     𝑍𝑋̅ =             = 30 ×    = = 1,2
+                                                200           200 5
+                                                 8
+Para ̅̅̅̅̅̅
+     𝑋𝑠𝑢𝑝 = 1000, temos:
+                                       1000 − 950          8
+                                        𝑍𝑋̅ =     = 50 ×      =2
+                                           200            200
+                                            8
+Ou seja, a probabilidade desejada corresponde a 𝑃(1,2 < 𝑍 < 2), que pode ser calculada pelos dados
+fornecidos no enunciado:
+               𝑃(1,2 < 𝑍 < 2) = 𝑃(𝑍 < 2) − 𝑃(𝑍 < 1,2) = 0,977 − 0,885 = 0,092 = 9,2%
+Gabarito: B
+
+Distribuição Amostral da Proporção
+
+Agora, vamos trabalhar com uma população em que determinada característica está presente em uma
+proporção 𝒑 dessa população, por exemplo, 15% da população apresenta olhos azuis; 20% da população
+está doente, 1% da produção apresenta defeito, etc.
+
+Um elemento qualquer da população 𝑋 pode apresentar a característica estudada, o que chamamos de
+sucesso (𝑋 = 1), ou não, o que chamamos de fracasso (𝑋 = 0). A probabilidade de sucesso é 𝒑 e a
+probabilidade de fracasso é 𝑞 = 1 − 𝑝.
+
+Essa população apresenta uma distribuição de Bernoulli, com parâmetro 𝒑.
+
+Sendo essa proporção populacional desconhecida, precisamos estimá-la a partir da proporção de sucessos
+                                          ̂.
+encontrados na amostra, que indicamos por 𝒑
+
+Considerando que cada observação 𝑋𝑖 da amostra será 𝑋𝑖 = 0 ou 𝑋𝑖 = 1 (assim como para a população),
+então a proporção de sucessos na amostra pode ser calculada como:
+
+                                                            𝑋1 +𝑋2 +⋯+𝑋𝑛
+                                                    𝑝̂ =         𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                          15
+        www.estrategiaconcursos.com.br                                                             297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos supor que queremos estimar a proporção de defeitos em uma produção de medicamentos. Para isso,
+extraímos uma amostra de 10 medicamentos, que apresentou o seguinte resultado, em que 0 representa
+um item não defeituoso e 1 representa um item defeituoso:
+
+                                               {0, 0, 1, 0, 0, 0, 1, 0, 0, 0}
+
+Logo, a proporção encontrada nessa amostra é:
+
+                                  0+0+1+0+0+0+1+0+0+0    2
+                           𝑝̂ =                       =    = 0,2
+                                           10           10
+
+        A partir da proporção amostral, podemos estimar o total de elementos que apresentam a
+        característica desejada (sucesso) na população, multiplicando-a pelo tamanho total da
+        população 𝑁:
+
+                                                       𝜏̂ = 𝑁 × 𝑝̂
+
+Note que o estimador 𝑝̂ é calculado da mesma forma que a média amostra 𝑿      ̅ que vimos anteriormente.
+Logo, a esperança de 𝑝̂ é calculada da mesma forma que para 𝑋̅, utilizando 𝒑 no lugar de 𝜇:
+
+                                                       𝐸(𝑝̂ ) = 𝒑
+
+Ou seja, a esperança do estimador é igual à proporção populacional.
+
+Em outras palavras, a proporção amostral tende à proporção populacional.
+
+A variância de 𝑝̂ também é calculada de forma análoga à de 𝑋̅:
+
+                                                                𝑉(𝑝)
+                                                     𝑉(𝑝̂ ) =
+                                                                 𝑛
+
+Sabendo que a população segue distribuição de Bernoulli, temos 𝑉(𝑝) = 𝑝. 𝑞, então:
+
+                                                                 𝑝.𝑞
+                                                       𝑉(𝑝̂ ) = 𝑛
+
+
+        Receita Federal (Analista Tributário) Estatística                                            16
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+E o erro padrão (ou desvio padrão) para 𝑝̂ , raiz quadrada da sua variância é dado por:
+
+                                                                       𝑝.𝑞
+                                                     𝐸𝑃(𝑝̂ ) = √ 𝑛
+
+
+                                                                                ̂ para estimar a variância
+Se a proporção populacional 𝑝 for desconhecida, utilizamos a proporção amostral 𝒑
+populacional.
+
+A estimativa da variância populacional é dada por:
+
+                                                      𝑉(𝑝) = 𝑝̂ . 𝑞̂
+
+Em que 𝑞̂ = 1 − 𝑝̂ .
+
+                                         ̂ é:
+E a estimativa da variância do estimador 𝒑
+
+                                                                 𝑝̂ . 𝑞̂
+                                                      𝑉(𝑝̂ ) =
+                                                                  𝑛
+
+Para o nosso exemplo, em que encontramos 𝑝̂ = 0,2 (logo, 𝑞̂ = 1 − 𝑝̂ = 0,8). A estimativa da variância da
+proporção populacional é:
+
+                                          𝑉(𝑝) = 𝑝̂ . 𝑞̂ = 0,2 × 0,8 = 0,16
+
+E a estimativa da variância da proporção amostral é:
+
+                                                    𝑝̂ . 𝑞̂ 0,2 × 0,8
+                                         𝑉(𝑝̂ ) =          =          = 0,016
+                                                     𝑛         10
+
+Logo, a estimativa para o erro padrão (ou desvio padrão) da proporção amostral é:
+
+                                       𝐸𝑃(𝑝̂ ) = √𝑉(𝑝̂ ) = √0,016 ≅ 0,126
+
+Considerando que cada elemento da população segue distribuição de Bernoulli, então o número de
+elementos com o atributo sucesso encontrados em uma amostra de tamanho 𝑛 segue uma distribuição
+binomial, com parâmetros 𝑛 e 𝑝. Para o nosso exemplo, temos uma distribuição binomial com 𝑛 = 10 e
+proporção estimada 𝑝̂ = 0,2.
+
+Porém, também é possível aproximar, pelo Teorema Central do Limite, a distribuição da proporção amostral
+                                                                 𝑝.𝑞                          𝑝.𝑞
+a uma normal, com média 𝐸(𝑝̂ ) = 𝑝, variância 𝑉(𝑝̂ ) = 𝑛 e desvio (ou erro) padrão 𝐸𝑃(𝑝̂ ) = √ 𝑛 , quando
+o tamanho da amostra 𝑛 for suficientemente grande.
+
+        Receita Federal (Analista Tributário) Estatística                                              17
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Assim, para calcular as probabilidades envolvendo a proporção amostral, utilizamos a transformação para a
+normal padrão:
+
+                                                              𝑝̂ − 𝑝
+                                                        𝑧=
+                                                                𝑝. 𝑞
+                                                              √
+                                                                 𝑛
+
+Por exemplo, supondo que a proporção de sucesso de uma população seja 𝑝 = 0,5 (e proporção de fracasso
+𝑞 = 1 − 𝑝 = 0,5), vamos calcular a probabilidade de observar uma proporção maior que 𝑝̂ = 0,6 em uma
+amostra de tamanho 𝑛 = 25:
+
+                                                 0,6 − 0,5        0,1 0,1
+                                          𝑧=                  =      =    =1
+                                                                  0,5 0,1
+                                                √0,5 × 0,5         5
+                                                    25
+
+Assim, a probabilidade 𝑃(𝑝̂ > 0,6) é aproximadamente igual à probabilidade 𝑃(𝑍 > 1), que pode ser
+calculada pela tabela da normal padrão.
+
+Se a população for finita e a amostra for extraída sem reposição, será necessário aplicar o fator de correção
+                                                                            𝑁−𝑛
+para população finita, multiplicando a variância da proporção amostral por 𝑁−1:
+
+                                                             𝑝. 𝑞 𝑁 − 𝑛
+                                                  𝑉(𝑝̂ ) =       ×
+                                                              𝑛    𝑁−1
+
+E o erro (ou desvio) padrão do estimador, com a correção para população finita, é igual à raiz quadrada:
+
+
+                                                              𝑝. 𝑞 𝑁 − 𝑛
+                                                𝐸𝑃(𝑝̂ ) = √       ×
+                                                               𝑛    𝑁−1
+
+(CESPE 2016/TCE-PA) Em estudo acerca da situação do CNPJ das empresas de determinado município, as
+empresas que estavam com o CNPJ regular foram representadas por 1, ao passo que as com CNPJ irregular
+foram representadas por 0.
+Considerando que a amostra {0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1} foi extraída para realizar um
+teste de hipóteses, julgue o item subsequente.
+A estimativa pontual da proporção de empresas da amostra com CNPJ regular é superior a 50%.
+
+
+         Receita Federal (Analista Tributário) Estatística                                                        18
+         www.estrategiaconcursos.com.br                                                                          297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+O estimador da proporção 𝑝̂ pode ser calculado pela soma dos valores dos elementos, dividida pelo número
+de elementos na amostra:
+                                            𝑋1 + 𝑋2 + ⋯ + 𝑋𝑛
+                                               𝑝̂ =
+                                                    𝑛
+         0 + 1 + 1 + 0 + 0 + 1 + 0 + 1 + 0 + 1 + 1 + 0 + 0 + 1 + 1 + 0 + 1 + 1 + 1 + 1 12
+   𝑝̂ =                                                                               =    = 0,6
+                                              20                                        20
+Logo, a proporção é de 60%.
+Gabarito: Certo
+
+
+(CESPE/2019 – TJ-AM) Para estimar a proporção de menores infratores reincidentes em determinado
+município, foi realizado um levantamento estatístico. Da população-alvo desse estudo, constituída por
+10.050 menores infratores, foi retirada uma amostra aleatória simples sem reposição, composta por 201
+indivíduos. Nessa amostra foram encontrados 67 reincidentes. Com relação a essa situação hipotética, julgue
+o seguinte item.
+A estimativa do erro padrão da proporção amostral foi inferior a 0,04.
+Comentários:
+O erro padrão da proporção é dada pela relação:
+                                                       𝑝×𝑞
+                                                   𝐸𝑃(𝑝̂ ) = √
+                                                         𝑛
+A questão nos diz que a amostra é composta por 201 indivíduos, sendo 67 deles reincidentes. Assim, temos
+               67    1                   2
+𝑛 = 201 e 𝑝 = 201 = 3. Logo, 𝑞 = 1 − 𝑝 = 3. Logo, o erro padrão é:
+
+                                       1 2
+                                      √3 × 3 1 √ 2  1 1
+                                   𝐸=       = ×    ≅ ×   ≅ 0,033
+                                        201  3  201 3 10
+
+Gabarito: Certo.
+
+                                                                𝑋 +𝑋 +⋯+𝑋𝑛
+                                    Estimador para a média: 𝑋̅ = 1 2𝑛
+
+                                                                                𝑉(𝑋)
+                                  Esperança: 𝐸(𝑋̅) = 𝜇; Variância: 𝑉(𝑋̅) =       𝑛
+
+                                                                       𝑋1 +𝑋2 +⋯+𝑋𝑛
+                                  Estimador para a proporção: 𝑝̂ =          𝑛
+
+                                                                                𝑝.𝑞
+                                   Esperança: 𝐸(𝑝̂ ) = 𝑝; Variância: 𝑉(𝑝̂ ) = 𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                               19
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Distribuição Amostral da Variância
+
+Quando a variância da população é desconhecida, precisamos estimá-la a partir da amostra, assim como
+fizemos com a média e a proporção.
+O estimador da variância que utilizamos para uma amostra de tamanho 𝑛 é:
+
+                                                             ∑(𝑋𝑖 −𝑋̅ ) 2
+                                                      𝑠2 =      𝒏−𝟏
+
+
+Utilizamos esse estimador, com a divisão por 𝒏 − 𝟏, porque a sua esperança é igual à variância populacional,
+como veremos posteriormente, o que não ocorre com o estimador com a divisão por 𝑛.
+
+        Vamos supor que a variância da altura de determinado grupo de adultos seja desconhecida,
+        assim como a sua média. Para estimar esses parâmetros, obtemos a seguinte amostra de
+        5 pessoas:
+
+                                              {1,65; 1,75; 1,8; 1,85; 1,95}
+
+        Primeiro, precisamos calcular a média da amostra:
+
+                                        ∑𝑋     1,65+1,75+1,8+1,85+1,95   9
+                                    𝑋̅ = 𝑛 𝑖 =                         =   = 1,8
+                                                          5              5
+
+        Agora, calculamos o estimador da variância, somando os desvios em relação à média,
+        elevados ao quadrado, e dividindo o somatório por 𝒏 − 𝟏:
+
+                                                             ∑(𝑋𝑖 −𝑋̅)2
+                                                      𝑠2 =      𝒏−𝟏
+
+                                   (1,65−1,8)2 +(1,75−1,8)2 +(1,8−1,8)2 +(1,85−1,8)2 +(1,95−1,8)2
+                            𝑠2 =                                  4
+
+                                             (−0,15)2 +(−0,05)2 +(0)2 +(0,05)2 +(0,15)2
+                                      𝑠2 =                        4
+
+                                        0,0225+0,0025+0,0025+0,0225             0,05
+                                 𝑠2 =                                       =          = 0,0125
+                                                       4                         4
+
+        Receita Federal (Analista Tributário) Estatística                                                20
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        Uma maneira alternativa de calcular a variância populacional é:
+
+                                               𝜎 2 = 𝐸(𝑋 2 ) − [𝐸(𝑋)]2
+
+        Para a variância amostral, também podemos utilizar uma fórmula similar a essa, mas com
+        as devidas adaptações. No lugar de 𝐸(𝑋), utilizamos a média amostral 𝑋̅; e, no lugar de
+        𝐸(𝑋 2 ), utilizamos ̅̅̅̅
+                            𝑋 2 , que é a média dos valores elevados ao quadrado:
+
+                                                              ∑𝑋     2
+                                                        ̅̅̅
+                                                        𝑋 2̅ = 𝑛 𝑖
+
+        Para o exemplo anterior, teríamos:
+                                          2       2         2        2
+                                  (1,65) +(1,75) +(1,8) +(1,85) +(1,95)    2
+                                                                         16,25
+                             ̅̅̅̅
+                             𝑋2 =                                       = 5 = 3,25
+                                                    5
+
+
+        Por fim, fazemos um ajuste. Para calcular a variância populacional, dividimos por 𝑛 e para
+        a variância amostral, dividimos por 𝒏 − 𝟏.
+                                                                𝑛
+        Logo, precisamos multiplicar o resultado por 𝒏−𝟏 para obter a variância amostral:
+
+                                                      ̅̅̅̅2 − (𝑋̅)2 ] × 𝑛
+                                               𝑠 2 = [𝑋                𝒏−𝟏
+
+
+        Para o nosso exemplo, em que ̅̅̅̅
+                                     𝑋 2 = 3,25, 𝑋̅ = 1,8 e 𝑛 = 5, a variância amostral pode ser
+        calculada como:
+
+                                                   5                           5   0,01×5
+                      𝑠 2 = [3,25 − (1,8)2 ] × 4 = [3,25 − 3,24] × 4 =                      = 0,0125
+                                                                                     4
+
+Para a variância amostral, a sua esperança é igual à variância populacional, analogamente ao que ocorreu
+com os demais estimadores. A sua variância e erro padrão são dados por:
+
+                                                       𝐸(𝑠 2 ) = 𝜎 2
+
+                                                                    2.𝜎4
+                                                       𝑉(𝑠 2 ) = 𝑛−1
+
+                                                                     2
+                                                  𝐸𝑃(𝑠 2 ) = √𝑛−1 𝜎 2
+
+        Receita Federal (Analista Tributário) Estatística                                              21
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Se a variância populacional 𝜎 2 for desconhecida, utilizamos, no lugar de 𝜎 2 , a própria estimativa 𝑠 2 para
+estimar a média 𝐸(𝑠 2 ), a variância 𝑉(𝑠 2 ) e o erro padrão 𝐸𝑃(𝑠 2 ).
+
+Para o nosso exemplo, em que calculamos 𝑠 2 = 0,0125, para a amostra com 𝑛 = 5 observações, o erro
+padrão de 𝑠 2 pode ser estimado como:
+
+                                                    2         2
+                                    𝐸𝑃(𝑠 2 ) = √       𝑠 2 = √ × 0,0125 ≅ 0,009
+                                                   𝑛−1        4
+
+
+                                                                                                        𝒏−𝟏
+Se a população seguir uma distribuição normal, então o estimador 𝑠 2 , multiplicado pelo fator 𝝈𝟐 , segue
+uma distribuição qui-quadrado com 𝒏 − 𝟏 graus de liberdade:
+
+                                                    2
+                                                           𝑛−1
+                                                   𝒳𝑛−1 = ( 2 ) . 𝑠2
+                                                            𝜎
+Em outras palavras, o estimador 𝑠 2 é uma variável com distribuição qui-quadrado, com 𝑛 − 1 graus de
+                               𝜎2
+liberdade, multiplicada por 𝑛−1:
+
+                                                            𝜎2     2
+                                                    𝑠 2 = (𝑛−1) . 𝒳𝑛−1
+
+Vamos supor que, para uma população normal, a variância populacional seja 𝜎 2 = 1, e que vamos extrair
+amostras de tamanho 𝑛 = 5. Nesse caso, a variância amostral 𝑠 2 terá a seguinte distribuição:
+
+                                                        1       2
+                                                                      𝒳42
+                                              𝑠2 = (       ) . 𝒳5−1 =
+                                                       5−1             4
+
+Ou seja, a variância amostral seguirá uma distribuição qui-quadrado com 𝑛 − 1 = 4 graus de liberdade,
+dividida por 4.
+
+A seguir, consta a tabela da distribuição qui-quadrado com 4 graus de liberdade, que apresenta os valores
+de probabilidade 𝑃(𝒳42 < 𝑥) e os respectivos valores de 𝑥. Como a variância amostral segue essa
+distribuição, dividida por 4, criamos uma terceira coluna, dividindo os valores de 𝑥 por 4.
+
+ 𝑃(𝒳42 < 𝑥) 0,005       0,01    0,025     0,05     0,1      0,25   0,5    0,75   0,9    0,95   0,975 0,99 0,995
+     𝑥       0,21       0,30     0,48     0,71     1,06     1,92   3,36   5,39   7,78   9,49   11,14 13,28 14,86
+    𝑥/4      0,05       0,07     0,12     0,18     0,27     0,48   0,84   1,35   1,94   2,37    2,79 3,32 3,72
+
+Por exemplo, a probabilidade de a variância amostral observada ser inferior a 0,48 é:
+
+                                                 𝑃(𝑠 2 < 0,48) = 𝟎, 𝟐𝟓
+
+        Receita Federal (Analista Tributário) Estatística                                                      22
+        www.estrategiaconcursos.com.br                                                                        297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        A partir desse resultado, podemos calcular a esperança e a variância do estimador. A
+        esperança é dada por:
+
+                                                                𝜎2 2
+                                                    𝑠 2 = (𝑛−1) . 𝒳𝑛−1
+
+                                                    𝜎2        2          𝜎2          2 ]
+                                   𝐸[𝑠 2 ] = 𝐸 [(        ) . 𝒳𝑛−1 ]=(         ) . 𝐸[𝒳𝑛−1
+                                                    𝑛−1                  𝑛−1
+
+
+        Considerando que a média de uma distribuição qui-quadrado com 𝑘 graus de liberdade é
+        igual a 𝑘, então fazendo 𝑘 = 𝑛 − 1, temos:
+
+                                                   2 ]
+                                                𝐸[𝒳𝑛−1 =𝑘 =𝑛−1
+
+        Substituindo no resultado anterior, temos:
+
+                                                           𝜎2
+                                           𝐸[𝑠 2 ] = (𝑛−1) . (𝑛 − 1) = 𝜎 2
+
+        Esse é o resultado que vimos no início da seção. A variância do estimador é:
+
+                                                                     2
+                                      𝜎2  2                    𝜎2
+                                                             2 ]                 2 ]   𝜎4
+                      𝑉[𝑠 2 ] = 𝑉 [(𝑛−1) 𝒳𝑛−1 ] = (𝑛−1) . 𝑉[𝒳𝑛−1 = ((𝑛−1)2) . 𝑉[𝒳𝑛−1
+
+        Considerando que a variância de uma distribuição qui-quadrado com 𝑘 graus de liberdade
+        é igual a 2𝑘, então fazendo 𝑘 = 𝑛 − 1, temos:
+
+                                               2 ]
+                                            𝑉[𝒳𝑛−1 = 2. 𝑘 = 2. (𝑛 − 1)
+
+        Substituindo no resultado anterior, temos:
+
+                                                          𝜎4                    2.𝜎4
+                                        𝑉[𝑠 2 ] = ((𝑛−1)2) . 2. (𝑛 − 1) = 𝑛−1
+
+Vale acrescentar que uma população normal depende dos dois parâmetros, variância e média, os quais são
+independentes. Consequentemente, os estimadores correspondentes também serão independentes.
+
+        Receita Federal (Analista Tributário) Estatística                                          23
+        www.estrategiaconcursos.com.br                                                             297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+(FGV/2016 – IBGE) Suponha que uma amostra de tamanho 𝒏 = 𝟓 é extraída de uma população normal, com
+média desconhecida, obtendo as seguintes observações:
+                                         𝑿𝟏 = 𝟑, 𝑿𝟐 = 𝟓, 𝑿𝟑 = 𝟔, 𝑿𝟒 = 𝟗 e 𝑿𝟓 = 𝟏𝟐
+São dados ainda os seguintes valores, retirados da tabela da distribuição qui-quadrado:
+•    P(𝜒42 < 𝟓) ≅ 𝟎,𝟕𝟏𝟑
+•    P(𝜒42 < 𝟏𝟐,𝟓) ≅ 𝟎,𝟗𝟖𝟔
+•    P(𝜒52 > 𝟓) ≅ 𝟎,𝟖𝟓𝟒
+•    𝑃(𝜒52 > 𝟏𝟐,𝟓) ≅ 𝟎,𝟗𝟕𝟏
+Se a população tem variância verdadeira 𝝈𝟐 = 𝟒, em nova amostra (𝒏 = 𝟓), a probabilidade de se observar
+uma variância amostral maior do que a anterior é de:
+a) 0,014
+b) 0,029
+c) 0,146
+d) 0,287
+e) 0,713
+Comentários:
+Para resolver essa questão, vamos primeiro calcular a variância amostral obtida nessa primeira amostra:
+                                                               ∑(𝑋𝑖 − 𝑋̅) 2
+                                                      𝑠2 =
+                                                                 𝒏−𝟏
+Para isso, precisamos da média amostral:
+                                        3 + 5 + 6 + 9 + 12 35
+                                           𝑋̅ =             =   =7
+                                                 5            5
+Agora, podemos calcular a variância dessa primeira amostra:
+                            (3 − 7)2 + (5 − 7)2 + (6 − 7)2 + (9 − 7)2 + (12 − 7)2
+                           𝑠12 =
+                                                         4
+                  (−4)2 + (−2)2 + (−1)2 + (2)2 + (5)2 16 + 4 + 1 + 4 + 25 50
+            𝑠12 =                                            =                     =     = 12,5
+                                      4                                  4            4
+Para calcular a probabilidade de a variância amostral ser 𝑠 2 > 12,5, consideramos que esse estimador segue
+                                                                                    𝜎2
+uma distribuição qui-quadrado com n – 1 graus de liberdade, multiplicada por (𝑛−1):
+
+                                                                𝜎2      2
+                                                    𝑠2 = (         ) . 𝒳𝑛−1
+                                                               𝑛−1
+
+
+           Receita Federal (Analista Tributário) Estatística                                              24
+           www.estrategiaconcursos.com.br                                                                 297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Sabendo que a variância populacional é 𝜎 2 = 4 e que o tamanho da amostra é 𝑛 = 5, então:
+                                                4        2
+                                             𝑠2 = ( ) . 𝒳5−1 = 𝒳42
+                                              5−1
+Portanto, a variância amostral segue a mesma distribuição de 𝒳42 . A probabilidade de 𝑠 2 > 12,5 é, portanto:
+                                          𝑃(𝑠 2 > 12,5) = 𝑃(𝒳42 > 12,5)
+O enunciado informa que 𝑃(𝒳42 < 12,5) = 0,986. A probabilidade 𝑃(𝒳42 > 12,5) é complementar:
+                          𝑃(𝒳42 > 12,5) = 1 − 𝑃(𝒳42 < 12,5) = 1 − 0,986 = 0,014
+Gabarito: A
+
+Distribuições para Amostragem Estratificada
+
+Para uma amostragem estratificada, com 𝑘 estratos, a média amostral será calculada como:
+
+                                                            𝑘
+                                                                  𝑁𝑖
+                                                     𝑋̅ = ∑          𝑥̅
+                                                                  𝑁 𝑖
+                                                            𝑖=1
+
+
+Nessa expressão, 𝑁𝑖 é o tamanho de cada estrato; 𝑁 é o tamanho total da população; e 𝑥̅𝑖 , a média amostral
+observada para cada estrato.
+
+Ou seja, calculamos a média 𝑥̅𝑖 para cada estrato 𝑖, multiplicamos pelo tamanho do estrato 𝑁𝑖 e dividimos
+pelo tamanho total 𝑁.
+
+Para ilustrar, vamos supor uma população dividida em 3 estratos, com os seguintes tamanhos Ni e os
+seguintes valores de média amostral 𝑥̅𝑖 para cada estrato i:
+
+                                Estrato            Ni                 ni   𝑥̅𝑖
+                                   1               50                 5     2
+                                   2               30                 3     3
+                                   3               20                 2     4
+
+A média amostral para toda a população corresponde às médias amostrais dos estratos, ponderadas pelos
+respectivos tamanhos dos estratos:
+
+                                   50 × 2 + 30 × 3 + 20 × 4 100 + 90 + 80
+                            𝑋̅ =                           =              = 2,7
+                                         50 + 30 + 20            100
+
+A razão entre o tamanho do estrato 𝑁𝑖 e o tamanho total da população 𝑁 pode ser chamada de peso do
+estrato (𝑊𝑖 ).
+
+        Receita Federal (Analista Tributário) Estatística                                                 25
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Nessa situação, para calcular a média amostral, basta multiplicar a média de cada estrato pelo respectivo
+peso e somar todos os resultados:
+
+                                                             𝑘
+
+                                                    𝑋̅ = ∑ 𝑊𝑖 × 𝑥̅𝑖
+                                                            𝑖=1
+
+
+Podemos calcular, ainda, a variância da média amostral:
+
+                                                                      𝑘
+                                                                          𝑁𝑖
+                                                𝑉(𝑋̅) = 𝑉 (∑                 𝑥̅ )
+                                                                          𝑁 𝑖
+                                                                  𝑖=1
+
+
+Pelas propriedades da variância, temos:
+
+                                                            𝑘
+                                                          𝑁𝑖 2
+                                               𝑉(𝑋̅) = ∑ ( ) 𝑉(𝑥̅𝑖 )
+                                                          𝑁
+                                                            𝑖=1
+
+
+Em que a variância da média amostral de cada estrato 𝑉(𝑥̅𝑖 ) é calculada pela razão entre a variância
+populacional do estrato e o tamanho da amostra do estrato:
+
+                                                                  𝑉(𝑋𝑖 )
+                                                    𝑉(𝑥̅𝑖 ) =
+                                                                   𝑛𝑖
+
+        Em uma amostragem proporcional, o tamanho amostral do estrato 𝑛𝑖 pode ser calculado
+        pela razão entre o tamanho do estrato populacional e o tamanho total da população,
+        multiplicada pelo tamanho total da amostra:
+
+                                                                  𝑁
+                                                        𝑛𝑖 = 𝑁𝑖 . 𝑛
+
+Vamos supor as seguintes variâncias para os estratos da população, que vimos anteriormente:
+
+                                Estrato            Ni                      ni       𝑉(𝑋𝑖 )
+                                   1               50                      5          4
+                                   2               30                      3          2
+                                   3               20                      2          1
+
+
+        Receita Federal (Analista Tributário) Estatística                                             26
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+As variâncias das médias amostrais dos estratos são dadas por:
+
+                                                               𝑉(𝑋1 ) 4
+                                                     𝑉(𝑥
+                                                       ̅̅̅)
+                                                         1 =         = = 0,8
+                                                                𝑛1    5
+
+                                                               𝑉(𝑋2 ) 2
+                                                     𝑉(𝑥
+                                                       ̅̅̅)
+                                                         2 =         = ≅ 0,67
+                                                                𝑛2    3
+
+                                                               𝑉(𝑋3 ) 1
+                                                     𝑉(𝑥
+                                                       ̅̅̅)
+                                                         3 =         = = 0,5
+                                                                𝑛3    2
+
+E a variância da média amostral global é dada por:
+
+                                𝑘
+                               𝑁𝑖 2          𝑁1 2           𝑁2 2             𝑁3 2
+                    𝑉(𝑋̅) = ∑ ( ) 𝑉(𝑥̅𝑖 ) = ( ) . 𝑉(𝑥
+                                                    ̅̅̅)
+                                                      1  + (   ) . 𝑉(𝑥
+                                                                     ̅̅̅)
+                                                                       2  + (   ) . 𝑉(𝑥
+                                                                                      ̅̅̅)
+                                                                                        3
+                               𝑁             𝑁               𝑁                𝑁
+                               𝑖=1
+
+
+              50 2            30 2            20 2
+𝑉(𝑋̅) = (         ) × 0,8 + (    ) × 0,67 + (     ) × 0,5 = 0,25 × 0,8 + 0,09 × 0,67 + 0,04 × 0,5 = 0,28
+              100            100              100
+
+          A variância da média de uma amostra estratificada proporcional é menor ou igual do que
+          a variância da média de uma amostra aleatória simples (AAS). Afinal, a amostragem
+          estratificada proporcional é mais precisa do que a AAS1.
+
+1
+ A variância da média de uma AAS é a razão entre a variância da população como um todo e o tamanho da amostra; e a variância
+de toda a população é maior (ou igual) às variâncias dos estratos ponderadas pelos respectivos tamanhos:
+
+                                                                             𝑘
+                                                          1         1    𝑁𝑖
+                                            𝑉(𝑋̅𝐴𝐴𝑆 ) =     × 𝑉(𝑋) ≥ × ∑    . 𝑉(𝑋𝑖 )
+                                                          𝑛         𝑛    𝑁
+                                                                            𝑖=1
+
+A expressão à direita corresponde justamente à variância da média amostral global em uma amostragem estratificada
+                                              𝑁      2                    𝑉(𝑋𝑖 )                                           𝑁𝑖
+proporcional. Sabendo que 𝑉(𝑋̅𝐸𝑠𝑡 ) = ∑𝑘𝑖=1 ( 𝑖) 𝑉(𝑥̅𝑖 ), que 𝑉(𝑥̅𝑖 ) =            e que, na alocação proporcional, 𝑛𝑖 =        . 𝑛, então:
+                                                 𝑁                         𝑛𝑖                                              𝑁
+
+
+                                             𝑘                   𝑘                           𝑘
+                                               𝑁𝑖 2 𝑉(𝑋𝑖 )     𝑁𝑖 2 𝑉(𝑋𝑖 ). 𝑁    𝑁𝑖 𝑉(𝑋𝑖 )
+                                 𝑉(𝑋̅𝐸𝑃 ) = ∑ ( )          = ∑( )             =∑
+                                               𝑁     𝑛𝑖        𝑁     𝑁𝑖 . 𝑛      𝑁 𝑛
+                                            𝑖=1                  𝑖=1                        𝑖=1
+
+          Receita Federal (Analista Tributário) Estatística                                                                                   27
+          www.estrategiaconcursos.com.br                                                                                                  297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Sendo a variância populacional de cada estrato desconhecida, precisamos estimá-la a partir da variância
+amostral de cada estrato 𝑠𝑥̅2𝑖 . Substituindo, na fórmula acima, 𝑉(𝑋̅) por 𝑠𝑥̅2 e 𝑉(𝑥̅𝑖 ) por 𝑠𝑥̅2𝑖 , temos:
+
+                                                            𝑘
+                                                           𝑁𝑖 2
+                                                 𝑠𝑥̅ = ∑ ( ) × 𝑠𝑥̅2𝑖
+                                                  2
+                                                           𝑁
+                                                       ℎ=1
+
+
+Em que a estimativa da variância da média amostral para cada estrato 𝑠𝑥̅2𝑖 , considerando uma amostra de
+tamanho 𝑛𝑖 para esse estrato, com a correção para população finita, é dada por:
+
+                                                            𝑠𝑥2𝑖 𝑁𝑖 − 𝑛𝑖
+                                                  𝑠𝑥̅2𝑖 =       (        )
+                                                            𝑛𝑖 𝑁𝑖 − 1
+
+Vamos supor que as estimativas da variância para cada estrato sejam:
+
+                                Estrato               Ni              ni     𝑠𝑥2𝑖
+                                   1               50                 5       2
+                                   2               30                 3      1,5
+                                   3               20                 2       1
+
+Assim, as variâncias das médias amostrais para cada estrato, com o fator de correção, são:
+
+                                                       2 50 − 5
+                                             𝑠𝑥̅21 =    (      ) ≅ 0,367
+                                                       5 50 − 1
+
+                                                      1,5 30 − 3
+                                            𝑠𝑥̅22 =      (      ) ≅ 0,466
+                                                       3 30 − 1
+
+                                                       1 20 − 2
+                                             𝑠𝑥̅23 =    (      ) ≅ 0,474
+                                                       2 20 − 1
+
+E a variância da média amostral global é dada por:
+
+                                  50 2             30 2              20 2
+                         𝑠𝑥̅2 = (    ) × 0,367 + (     ) × 0,466 + (     ) × 0,474
+                                 100               100               100
+
+            𝑠𝑥̅2 = 0,25 × 0,367 + 0,09 × 0,466 + 0,04 × 0,474 = 0,092 + 0,042 + 0,019 = 0,153
+
+        Receita Federal (Analista Tributário) Estatística                                                28
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2018 – STM) Um estudo acerca do tempo (x, em anos) de guarda de autos findos em determinada
+seção judiciária considerou uma amostragem aleatória estratificada. A população consiste de uma listagem
+de autos findos, que foi segmentada em quatro estratos, segundo a classe de cada processo (as classes foram
+estabelecidas por resolução de autoridade judiciária.)
+A tabela a seguir mostra os tamanhos populacionais (𝑁) e amostrais (𝑛), a média amostral (𝑥̅ ) e a variância
+amostral dos tempos (𝑠 2 ) correspondentes a cada estrato.
+
+Considerando que o objetivo do estudo seja estimar o tempo médio populacional (em anos) de guarda dos
+autos findos, julgue os itens a seguir.
+(CESPE/2018 – STM) A estimativa do tempo médio populacional da guarda dos autos findos é maior ou igual
+a 12 anos.
+Comentários:
+Em uma amostra aleatória por estratificação, a média amostral é dada por:
+
+                                                            𝑘
+                                                                  𝑁𝑖
+                                                     𝑋̅ = ∑          𝑥̅
+                                                                  𝑁 𝑖
+                                                            𝑖=1
+
+Em que 𝑘 é a quantidade de estratos; 𝑁𝑖 o tamanho de cada estrato; e 𝑥̅𝑖 a média de cada estrato.
+Pelos dados de 𝑁 e 𝑥̅ fornecidos na tabela, temos:
+
+                                         𝑁𝐴 × ̅̅̅
+                                              𝑥𝐴 + 𝑁𝐵 × ̅̅̅
+                                                        𝑥𝐵 + 𝑁𝐶 × ̅̅̅
+                                                                  𝑥𝐶 + 𝑁𝐷 × ̅̅̅
+                                                                            𝑥𝐷
+                                  𝑋̅ =
+                                                            𝑁
+
+                                30000 × 20 + 40000 × 15 + 50000 × 10 + 80000 × 5
+                         𝑋̅ =
+                                                    200000
+
+                                                  60 + 60 + 50 + 40
+                                           𝑋̅ =                     = 10,5
+                                                         20
+
+Gabarito: Errado.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                29
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2018 – STM) Combinando-se todos os estratos envolvidos, a estimativa da variância do tempo médio
+amostral da guarda dos autos findos é inferior a 0,005 𝑎𝑛𝑜2 .
+Comentários:
+Em uma amostragem estratificada, a estimativa da variância da média amostral é dada por:
+                                                            𝑘      2
+                                                              𝑁𝑖
+                                                   𝑠𝑥̅2 = ∑ ( )        × 𝑠𝑥̅2𝑖
+                                                              𝑁
+                                                          𝑖=1
+
+               𝑠𝑥2   𝑁 −𝑛
+Em que 𝑠𝑥̅2𝑖 = 𝑛 𝑖 ( 𝑁𝑖 −1𝑖 ). Pelos valores apresentados na tabela, temos:
+                 𝑖    𝑖
+
+
+                                                  3 30000 − 300
+                                       𝑠𝑥̅2𝐴 =      (           ) = 0,0099
+                                                 300 30000 − 1
+
+                                                 16 40000 − 400
+                                       𝑠𝑥̅2𝐵 =      (           ) = 0,0396
+                                                 400 40000 − 1
+
+                                                  5 50000 − 500
+                                       𝑠𝑥̅2𝐶 =      (           ) = 0,0099
+                                                 500 50000 − 1
+
+                                                  8 80000 − 800
+                                       𝑠𝑥̅2𝐷 =      (           ) = 0,0099
+                                                 800 80000 − 1
+
+Além disso, temos que:
+
+                                           𝑁𝐴 2  30000 2
+                                          ( ) =(        ) = 0,0225
+                                           𝑁     200000
+
+                                             𝑁𝐵 2  40000 2
+                                            ( ) =(        ) = 0,04
+                                             𝑁     200000
+
+                                            𝑁𝐶 2  50000 2
+                                           ( ) =(        ) = 0,0625
+                                            𝑁     200000
+
+                                                 ND 2   80000 2
+                                            (      ) =(       ) = 0,16
+                                                 N     200000
+
+Portanto:
+
+                                                         𝐿
+                                                            𝑁ℎ 2
+                                                  𝑠𝑥̅ = ∑ ( ) × 𝑠𝑥̅2ℎ
+                                                   2
+                                                            𝑁
+                                                        ℎ=1
+
+
+                 𝑠𝑥̅2 = (0,0225 ⋅ 0,0099 + 0,04 ⋅ 0,0396 + 0,0625 ⋅ 0,0099 + 0,16 ⋅ 0,0099)
+
+                     𝑠𝑥̅2 = (0,0225 + 0,0625 + 0,16) ⋅ 0,0099 + 0,04 ⋅ 0,0396 ≅ 0,0041.
+
+Gabarito: Certo.
+
+
+        Receita Federal (Analista Tributário) Estatística                                           30
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                      ESTIMAÇÃO PONTUAL
+A estimação pontual é o valor (número) calculado para o estimador. Os principais estimadores são a média
+amostral 𝑋̅, a proporção amostral 𝑝̂ e a variância amostral 𝑠 2 .
+
+Agora, vamos estudar as propriedades dos estimadores e os métodos utilizados para obtê-los.
+
+Propriedades dos Estimadores
+
+Um estimador é uma função dos dados observados (na amostra), o que chamamos de estatística.
+Para que uma estatística possa ser considerada um bom estimador, ela deve apresentar determinadas
+características desejáveis, o que chamamos de propriedades.
+
+Suficiência
+
+Uma estatística é considerada suficiente se ela captura, a partir da amostra obtida, toda a informação
+possível sobre o parâmetro populacional desconhecido, de modo que qualquer outra informação associada
+à amostra não contribuirá com a estimação do parâmetro populacional.
+
+Em outras palavras, uma estatística suficiente é uma forma de resumir as informações presentes na amostra,
+sem perder as informações necessárias para estimar o parâmetro populacional.
+
+Por exemplo, a média amostral captura toda a informação, disponível na amostra, necessária para estimar
+a média populacional. Qualquer outra informação, como a média geométrica ou a variância da amostra, não
+influencia na estimativa da média populacional.
+
+
+Ademais, se uma estatística 𝑇 apresenta o mesmo valor para duas amostras X e Y, ou seja, 𝑇(𝑋) = 𝑇(𝑌),
+essa estatística será considerada suficiente se a inferência sobre o parâmetro populacional 𝜃 for a mesma,
+independente da amostra X ou Y.
+
+Por exemplo, a soma dos valores da amostra também é uma estatística suficiente para a média populacional,
+pois dispomos de toda a informação necessária para estimar o parâmetro desconhecido - basta dividir essa
+estatística pelo tamanho da amostra 𝑛 (que está previamente definido).
+
+Não importa quais sejam os valores exatos de cada variável presente na amostra: se a soma (valor da
+estatística) for a mesma, a estimativa para a média populacional (parâmetro) será sempre a mesma.
+
+
+Todos os estimadores que mencionamos anteriormente (média amostral 𝑋̅, proporção amostral 𝑝̂ e variância
+amostral 𝑠 2 ) são considerados suficientes.
+
+
+        Receita Federal (Analista Tributário) Estatística                                              31
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para resolver algumas questões sobre esse assunto, precisamos nos aprofundar um pouco mais. Se esse é um
+dos seus primeiros contatos com a matéria, não se preocupe muito com essa parte.
+
+A definição exata de estatística suficiente é a seguinte:
+
+         Sendo 𝑋1 , 𝑋2 , … 𝑋𝑛 uma amostra aleatória de uma população com função de probabilidade
+         𝑓(𝑥) dependente de 𝜃; uma estatística 𝑇(𝑋) será suficiente para 𝜃 se, e somente se, a
+         distribuição conjunta de 𝑋1 , 𝑋2 , … 𝑋𝑛 , condicionada a um valor da estatística 𝑇(𝑋) = 𝑡, não
+         depender de 𝜽, para qualquer valor possível de 𝑡.
+
+Vamos supor uma população de Bernoulli com parâmetro 𝜃 (probabilidade de sucesso), em que cada
+elemento assume 𝑋𝑖 = 1, com probabilidade 𝜃, ou 𝑋𝑖 = 0, com probabilidade 1 − 𝜃.
+
+A função de probabilidade de cada elemento é dada por:
+
+                                               𝑓(𝑥𝑖 ) = 𝜃 𝑥𝑖 . (1 − 𝜃)1−𝑥𝑖
+
+E a função de probabilidade conjunta para uma amostra independente de tamanho 𝑛 é:
+
+                                   𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 ) = 𝑓(𝑥1 ) × 𝑓(𝑥2 ) … × 𝑓(𝑥𝑛 )
+
+              𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 ) = 𝜃 𝑥1 . (1 − 𝜃)1−𝑥1 × 𝜃 𝑥2 . (1 − 𝜃)1−𝑥2 × … × 𝜃 𝑥𝑛 . (1 − 𝜃)1−𝑥𝑛
+
+Quando multiplicamos potências de mesma base, somamos os expoentes:
+                                                                                      𝑛           𝑛
+            𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 ) = 𝜃 𝑥1+𝑥2+⋯+𝑥𝑛 . (1 − 𝜃)𝑛−(𝑥1 +𝑥2+⋯+𝑥𝑛) = 𝜃 ∑𝑖=1 𝑥𝑖 . (1 − 𝜃)𝑛−∑𝑖=1 𝑥𝑖
+
+Vamos considerar a estatística 𝑇(𝑋) = ∑𝑛𝑖=1 𝑥𝑖 , que representa a soma dos sucessos em uma amostra de
+tamanho 𝑛. Essa variável segue distribuição binomial, com parâmetros 𝑛 e 𝜃, cuja função de probabilidade
+é dada por:
+
+                                             𝑓(𝑡) = 𝐶𝑛,𝑡 . 𝜃 𝑡 . (1 − 𝜃)𝑛−𝑡
+
+Por fim, calculamos a função conjunta da amostra condicionada ao valor da estatística 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 :
+
+                                                            𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 , 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 )
+                             𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑇 = 𝑡) =
+                                                                           𝑓(𝑡)
+
+                                                                𝜃 𝑡 . (1 − 𝜃)𝑛−𝑡        1
+                               𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑇 = 𝑡) =           𝑡          𝑛−𝑡
+                                                                                     =
+                                                              𝐶𝑛,𝑡 . 𝜃 . (1 − 𝜃)       𝐶𝑛,𝑡
+
+Como essa função não depende de 𝜽, concluímos que 𝑇(𝑋) = ∑𝑛𝑖=1 𝑥𝑖 é estatística suficiente para estimar
+a probabilidade de sucesso de uma distribuição de Bernoulli.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 32
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Agora, vamos supor uma estatística que não considere todos os resultados da amostra. Por exemplo, uma
+amostra de tamanho 𝑛 = 3 e uma estatística 𝑇(𝑋) = 𝑋1 + 𝑋3.
+
+Nesse caso, a função de probabilidade conjunta da amostra é:
+
+                                  𝑓(𝑥1 , 𝑥2 , 𝑥3 ) = 𝜃 𝑥1 +𝑥2+𝑥3 . (1 − 𝜃)3−(𝑥1+𝑥2+𝑥3)
+
+Sabendo que a estatística 𝑇(𝑋) = 𝑋1 + 𝑋3 segue distribuição binomial com parâmetro 2 e 𝜃, a sua função
+de probabilidade é:
+
+                                             𝑓(𝑡) = 𝐶2,𝑡 . 𝜃 𝑡 . (1 − 𝜃)2−𝑡
+
+E a função conjunta da amostra condicionada ao valor da estatística 𝑡 = 𝑥1 + 𝑥3 é:
+
+                                                            𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 , 𝑡 = 𝑥1 + 𝑥3 )
+                             𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑇 = 𝑡) =
+                                                                            𝑓(𝑡)
+
+                                                    𝜃𝑡+𝑥2 . (1 − 𝜃)3−(𝑡+𝑥2) 𝜃 𝑥2 . (1 − 𝜃)1−𝑥2
+                     𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑇 = 𝑡) =                           =
+                                                     𝐶2,𝑡 . 𝜃𝑡 . (1 − 𝜃)2−𝑡          𝐶2,𝑡
+
+Que depende de 𝜽. Assim, concluímos que a estatística 𝑡 = 𝑋1 + 𝑋3 não é suficiente para estimar a
+proporção de sucessos.
+
+
+Em alguns casos, o cálculo da função 𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑇 = 𝑡) pode ser muito trabalhoso. Nesses casos,
+podemos aplicar o Teorema de Neyman-Fisher ou Teorema da Fatorização:
+
+        Sendo 𝑋1 , 𝑋2 , … 𝑋𝑛 uma amostra aleatória de uma população com função de probabilidade
+        𝑓, dependente de 𝜃; uma estatística 𝑇(𝑋1 , 𝑋2 , … 𝑋𝑛 ) = 𝑡 será suficiente para 𝜃 se, e
+        somente se, a função densidade conjunta 𝑓(𝑥1 , 𝑥2 , … 𝑥𝑛 ; 𝜃) fatora como uma função
+        𝑔(𝑡, 𝜃), que depende da amostra 𝑥1 , 𝑥2 , … 𝑥𝑛 apenas por meio da estatística 𝑡, multiplicada
+        por uma função ℎ(𝑥1 , 𝑥2 , … 𝑥𝑛 ), que independe de 𝜃, ou seja:
+
+                                              𝑓(𝑥, 𝜃) = 𝑔(𝑡, 𝜃) × ℎ(𝑥)
+
+        para todo valor possível de 𝑡.
+
+Em outras palavras, se você conseguir transformar a função conjunta da amostra 𝑓, que depende dos valores
+da amostra e do parâmetro 𝜃, no produto de uma função 𝑔 que dependa apenas da estatística 𝑡 e do
+parâmetro 𝜃, sem depender de qualquer outro valor da amostra, com uma outra função ℎ que não dependa
+do parâmetro 𝜃, podemos concluir que a estatística será suficiente.
+
+Em relação ao exemplo da população de Bernoulli, vimos que a função conjunta da amostra é:
+                                                        𝑛                    𝑛
+                                         𝑓(𝑥, 𝜃) = 𝜃 ∑𝑖=1 𝑥𝑖 . (1 − 𝜃)𝑛−∑𝑖=1 𝑥𝑖
+
+
+        Receita Federal (Analista Tributário) Estatística                                               33
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Se a estatística for 𝑇(𝑋) = ∑𝑛𝑖=1 𝑥𝑖 , temos:
+
+                                                 𝑓(𝑥, 𝜃) = 𝜃 𝑡 . (1 − 𝜃)𝑛−𝑡
+
+Que não depende de qualquer valor da amostra além da estatística. Assim, temos:
+
+                                                 𝑓(𝑥, 𝜃) = 𝑔(𝜃, 𝑡) × ℎ(𝑥)
+
+tal que:
+
+                                                  𝑔(𝜃, 𝑡) = 𝜃 𝑡 . (1 − 𝜃)𝑛−𝑡
+
+                                                           ℎ(𝑥) = 1
+
+Como ℎ(𝑥) = 1 não depende do parâmetro 𝜃, concluímos que 𝑇(𝑋) = ∑𝑛𝑖=1 𝑥𝑖 é suficiente para estimar a
+proporção de sucessos de uma distribuição de Bernoulli.
+
+           Há, ainda, as seguintes definições relacionadas à suficiência de uma estatística:
+
+           o Suficiente minimal: se a estatística for suficiente e uma função de alguma outra
+             estatística suficiente.
+           o Anciliar: se a estatística não trouxer informação alguma a respeito do parâmetro 𝜃,
+             isto é, se ela for independente de 𝜃.
+           o Completa: se o fato de a esperança de uma função 𝑔 da estatística ser igual a zero para
+             todo 𝜃, 𝐸[𝑔(𝑇)] = 0, implicar necessariamente em 𝒈(𝑻) = 𝟎 para todo 𝜃.
+
+           Por exemplo, para uma amostra 𝑋1 , 𝑋2 , … , 𝑋𝑛 com distribuição de Bernoulli, a estatística
+           𝑇 = 𝑋1 − 𝑋2 não é completa.
+
+           Isso porque a esperança da estatística é igual a zero:
+
+                                  𝐸[𝑇] = 𝐸[𝑋1 − 𝑋2 ] = 𝐸[𝑋1 ] − 𝐸[𝑋2 ] = 𝑝 − 𝑝 = 0
+
+           Porém, o valor da estatística 𝑇 = 𝑋1 − 𝑋2 pode ser diferente de zero. Por exemplo, sendo
+           𝑋1 = 1 e 𝑋2 = 0, temos 𝑇 = 1; sendo 𝑋1 = 0 e 𝑋2 = 1, temos 𝑇 = −1.
+
+           Receita Federal (Analista Tributário) Estatística                                             34
+           www.estrategiaconcursos.com.br                                                                297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2018 – EBSERH) X1, X2, ..., X10 representa uma amostra aleatória simples retirada de uma distribuição
+normal com média 𝜇 e variância 𝜎 2 , ambas desconhecidas. Considerando que 𝜇̂ e 𝜎        ̂2 representam os
+respectivos estimadores de máxima verossimilhança desses parâmetros populacionais, julgue o item
+subsecutivo.
+A soma X1 + X2 +...+ X10 é uma estatística suficiente para a estimação do parâmetro 𝜇.
+Comentários:
+A soma dos elementos captura todas as informações disponíveis na amostra para a estimação da média, de
+modo que qualquer outra informação (média, variância,...) a respeito dessa amostra não irá influenciar na
+estimação do parâmetro populacional. Afinal, a estimativa para o parâmetro 𝜇 será a mesma, sempre que
+a soma das 10 variáveis for a mesma, independentemente dos seus resultados exatos. Logo, a soma dos
+elementos é uma estatística suficiente.
+Gabarito: Certo.
+
+
+(CESPE/2013 – Telebras) A respeito de inferência estatística, julgue o item que se segue.
+Considerando uma amostra aleatória simples X1, X2, X3 retirada de determinada distribuição de Bernoulli,
+com parâmetro p desconhecido, é correto afirmar que X1+X2.X3 é estatística suficiente.
+Comentários:
+Ao multiplicarmos os resultados X2.X3, há uma possibilidade de perda de informação, pois sendo um dos
+elementos iguais a zero, ficamos sem a informação do outro elemento. Por exemplo, se tivermos X1=1, X2=1
+e X3=0 e, portanto, X1 + X2.X3 = 1, a estimativa para a proporção p será p = 2/3; e se tivermos X1=1, X2=0 e
+X3=0, e, portanto, o mesmo valor para a estatística, X1 + X2.X3 = 1, a estimativa para p será p = 1/3.
+Ou seja, a estimação do parâmetro p desconhecido pode ser diferente, mesmo se o resultado da estatística
+for igual. Logo, essa estatística não é suficiente.
+Alternativamente, podemos verificar o Teorema de Neyman-Fisher. A função conjunta da amostra é:
+                       𝑓(𝑥, 𝜃) = 𝑓(𝑥1 ). 𝑓(𝑥2 ). 𝑓(𝑥3 ) = 𝜃 𝑥1+𝑥2+𝑥3 . (1 − 𝜃)3−(𝑥1+𝑥2+𝑥3)
+Sendo 𝑡 = 𝑥1 + 𝑥2 . 𝑥3 → 𝑥1 = 𝑡 − 𝑥2 . 𝑥3 , então a função conjunta pode ser representada como:
+                               𝑓(𝑥, 𝜃) = 𝜃𝑡−𝑥2.𝑥3+𝑥2+𝑥3 . (1 − 𝜃)3−(𝑡−𝑥2.𝑥3+𝑥2+𝑥3)
+Essa função corresponde ao seguinte produto:
+                         𝑓(𝑥, 𝜃) = 𝜃 𝑡 . (1 − 𝜃)3−𝑡 × 𝜃 −𝑥2.𝑥3+𝑥2+𝑥3 . (1 − 𝜃)𝑥2 .𝑥3−𝑥2−𝑥3
+A primeira função 𝑔 = 𝜃 𝑡 . (1 − 𝜃)3−𝑡 depende apenas de 𝜃 e 𝑡; no entanto, a segunda função ℎ =
+𝜃 −𝑥2.𝑥3+𝑥2+𝑥3 . (1 − 𝜃)𝑥2.𝑥3−𝑥2−𝑥3 também depende de 𝜃. Ou seja, não conseguimos transformar a função
+conjunta 𝑓(𝑥, 𝜃) em um produto de 𝑔(𝜃, 𝑡) por ℎ(𝑥) e assim concluímos que a estatística não é suficiente.
+Gabarito: Errado.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                35
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(FGV/2022 – TRT/PB) Suponha que 𝑋1 , 𝑋2 , … 𝑋𝑛 seja uma amostra aleatória de densidade 𝑓(𝑥; 𝜃) = 𝜃. 𝑥 𝜃−1,
+se 0 < 𝑥 < 1, 𝑓(𝑥) = 0 nos demais casos, 𝜃 > 0. Uma estatística suficiente para 𝜃 é dada por:
+a) 𝑆 = ∑𝑛𝑖=1 𝑋𝑖
+            1
+b) 𝑆 = ∑𝑛
+         𝑖=1 𝑋𝑖
+
+c) 𝑆 = ∑𝑛𝑖=1 𝑋𝑖2
+d) 𝑆 = ∏𝑛𝑖=1 𝑋𝑖
+e) 𝑆 = 𝑚á𝑥{𝑋𝑖 }
+Comentários:
+Para resolver essa questão, vamos utilizar o teorema de Neyman-Fisher. A função conjunta da amostra é:
+                             𝑓(𝑥, 𝜃) = 𝜃. 𝑥1𝜃−1 × … × 𝜃. 𝑥𝑛𝜃−1 = 𝜃 𝑛 (𝑥1 × … × 𝑥𝑛 )𝜃−1
+Para a estatística 𝑆 = ∏𝑛𝑖=1 𝑋𝑖 = 𝑥1 × … × 𝑥𝑛 , temos:
+                                                   𝑓(𝑥, 𝜃) = 𝜃 𝑛 . 𝑆 𝜃−1
+Que não depende de qualquer valor da amostra além da estatística. Assim, temos 𝑓(𝑥, 𝜃) = 𝑔(𝜃, 𝑆) × ℎ(𝑥),
+tal que:
+                                                   𝑔(𝜃, 𝑆) = 𝜃 𝑛 . 𝑆 𝜃−1
+                                                         ℎ(𝑥) = 1
+Assim concluímos que 𝑆 = ∏𝑛𝑖=1 𝑋𝑖 é uma estatística suficiente para 𝜃. Com qualquer outra estatística
+indicada dentre as alternativas, não será possível aplicar o teorema.
+Gabarito: D
+
+Não viés
+
+Dizemos que um estimador 𝜃̂ é não viesado (também chamado de não viciado ou não tendencioso) quando
+a sua esperança é igual ao parâmetro populacional 𝜃 sendo estimado:
+
+                                                       𝐸(𝜃̂
+                                                          𝑁𝑇 ) = 𝜃
+
+
+Em relação aos principais estimadores que mencionamos anteriormente, temos:
+
+                                                        𝐸(𝑋̅) = 𝜇
+
+                                                        𝐸(𝑝̂ ) = 𝑝
+
+                                                       𝐸(𝑠 2 ) = 𝜎 2
+
+Logo, podemos afirmar que a média amostral 𝑋̅ é um estimador não viesado (ENV) para a média
+populacional; o parâmetro amostral 𝑝̂ é um ENV para o parâmetro populacional; e 𝑠 2 é um ENV para a
+variância populacional.
+
+         Receita Federal (Analista Tributário) Estatística                                             36
+         www.estrategiaconcursos.com.br                                                                297
+
+                                       
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+            O estimador não tendencioso para a variância populacional é definido como:
+
+                                                                  ∑(𝑋𝑖 −𝑋̅ ) 2
+                                                           𝑠2 =      𝒏−𝟏
+
+                                    ∑(𝑋𝑖 −𝑋̅) 2
+            Já o estimador 𝑠∗2 =                  , com a divisão por 𝒏 em vez de 𝒏 − 𝟏, é tendencioso, ou seja:
+                                         𝒏
+
+
+                                                            𝐸(𝑠∗2 ) ≠ 𝜎 2
+
+Apesar de 𝑠 2 ser um estimador não tendencioso para a variância populacional, a sua raiz quadrada 𝑠 = √𝑠 2
+é um estimador tendencioso para o desvio padrão populacional, ou seja, a esperança de 𝑠 é diferente do
+desvio padrão populacional1, embora seja o estimador mais comum.
+
+Outra forma de descrever essa propriedade é com base no erro, que é a diferença entre o estimador e o
+parâmetro populacional:
+
+                                                             𝑒 = 𝜃̂ − 𝜃
+
+A esperança do erro é chamada de viés do estimador (ou tendenciosidade), denotado por 𝑏(𝜃̂):
+
+                                                           𝑏(𝜃̂) = 𝐸(𝑒)
+
+O viés pode ser calculado pelas propriedades da esperança:
+
+                                        𝑏(𝜃̂) = 𝐸(𝑒) = 𝐸(𝜃̂ − 𝜃) = 𝐸(𝜃̂) − 𝐸(𝜃)
+
+                                                         𝑏(𝜃̂) = 𝐸(𝜃̂) − 𝜃
+
+Assim, o viés representa a diferença entre a média (ou esperança) da estimativa e o parâmetro populacional
+estimado. Para um estimador 𝜃̂   𝑁𝑇 não tendencioso, a sua esperança é igual ao parâmetro populacional
+    ̂
+𝐸(𝜃𝑁𝑇 ) = 𝜃. Logo, o viés do estimador (esperança do erro) é nulo:
+
+                                              𝑏(𝜃̂         ̂
+                                                 𝑁𝑇 ) = 𝐸(𝜃𝑁𝑇 ) − 𝜃 = 𝜃 − 𝜃 = 0
+
+1
+    Essa aparente discrepância decorre do fato de que a esperança da raiz quadrada é diferente da raiz quadrada da esperança:
+
+                                                    𝐸 (√𝑠 2 ) ≠ √𝐸(𝑠 2 ) = √𝜎 2 = 𝜎
+
+
+            Receita Federal (Analista Tributário) Estatística                                                                   37
+            www.estrategiaconcursos.com.br                                                                                      297
+
+                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Cálculo do Viés para a Média
+
+Para calcularmos o viés de um estimador para a média populacional 𝝁, calculamos a esperança do estimador
+e subtraímos a média populacional 𝜇.
+
+No cálculo da esperança do estimador, utilizamos as propriedades da esperança, em especial:
+
+   •   𝐸(𝑋 + 𝑌) = 𝐸(𝑋) + 𝐸(𝑌)
+   •   𝐸(𝑘. 𝑋) = 𝑘. 𝐸(𝑋)
+   •   Se 𝑋 e 𝑌 forem independentes, então 𝐸(𝑋. 𝑌) = 𝐸(𝑋). 𝐸(𝑌)
+
+Também devemos considerar que a distribuição dos elementos da amostra é igual à distribuição da
+população. Em particular, temos 𝐸(𝑋𝑖 ) = 𝜇.
+
+        Para uma amostra de n = 5 elementos X1, X2, X3, X4 e X5, vamos calcular o viés do estimador
+        𝜃̂ = 𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 para a média 𝝁. O primeiro passo é calcular a esperança:
+
+                                       𝐸(𝜃̂) = 𝐸(𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 )
+
+        Pelas propriedades da esperança, temos:
+
+                               𝐸(𝜃̂) = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) − 𝐸(𝑋4 ) − 𝐸(𝑋5 )
+
+        Como a amostra segue a mesma distribuição da população, temos 𝐸(𝑋𝑖 ) = 𝐸(𝑋) = 𝜇:
+
+                                          𝐸(𝜃̂) = 𝜇 + 𝜇 + 𝜇 − 𝜇 − 𝜇 = 𝜇
+
+        Como a esperança desse estimador é igual ao parâmetro estimado, o seu viés é nulo e o
+        estimador é não tendencioso:
+
+                                                  𝑏(𝜃̂) = 𝜇 − 𝜇 = 0
+
+                                                       ̂ = 𝑋1 − 𝑋2. A sua esperança é:
+        Agora, vejamos outro estimador para a média 𝜇: 𝜃′
+
+                                ̂ ) = 𝐸(𝑋1 − 𝑋2 ) = 𝐸(𝑋1 ) − 𝐸(𝑋2 ) = 𝜇 − 𝜇 = 0
+                              𝐸(𝜃′
+
+        Como a esperança desse estimador é nula e, portanto, diferente do parâmetro estimado,
+        o viés é diferente de zero e o estimador é tendencioso:
+
+                                                 𝑏(𝜃̂) = 0 − 𝜇 = −𝜇
+
+        Receita Federal (Analista Tributário) Estatística                                             38
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Podemos também combinar estimadores, formando um novo estimador, por exemplo:
+
+                                                                 ̂
+                                                       𝜃̆ = 𝜃̂ + 𝜃′
+
+Como saberemos se o novo estimador é tendencioso ou não?
+
+Como fizemos anteriormente, aplicando a fórmula do viés e as propriedades da esperança:
+
+                                              𝑏(𝜃̆) = 𝐸(𝑒) = 𝐸(𝜃̆) − 𝜃
+
+                                          ̂ para a média populacional 𝜇, o seu viés é dado por:
+        Em relação ao estimador 𝜃̆ = 𝜃̂ + 𝜃′
+
+                                                                     ̂) − 𝜇
+                                   𝑏(𝜃̆) = 𝐸(𝑒) = 𝐸(𝜃̆) − 𝜇 = 𝐸(𝜃̂ + 𝜃′
+
+        Sabendo que a esperança da soma é a soma das esperanças (propriedade), temos:
+
+                                                               ̂) − 𝜇
+                                             𝑏(𝜃̆) = 𝐸(𝜃̂) + 𝐸(𝜃′
+
+        Para esse exemplo, vimos que a esperança do primeiro estimador é 𝐸(𝜃̂) = 𝜇 e que a
+        esperança do segundo estimador é 𝐸(𝜃̂′ ) = 0, logo:
+
+                                                𝑏(𝜃̆) = 𝜇 + 0 − 𝜇 = 0
+
+        Como o viés é nulo, esse estimador é não tendencioso!
+
+Cálculo do Viés para a Variância
+
+Para calcularmos o viés de um estimador para a variância populacional 𝜎 2 , também calculamos a sua
+esperança e subtraímos o parâmetro sendo estimado, qual seja a variância populacional 𝜎 2 .
+
+Os estimadores para a variância são normalmente baseados no quadrado dos elementos da amostra 𝑋𝑖2 e
+no quadrado da média amostral 𝑋̅ 2 .
+
+Nesse sentido, é importante pontuar que a esperança de 𝑿𝟐𝒊 pode ser calculada pela fórmula da variância:
+
+                                              𝑉(𝑋) = 𝐸(𝑋 2 ) − [𝐸(𝑋)]2
+
+                                              𝐸(𝑋 2 ) = 𝑉(𝑋) + [𝐸(𝑋)]2
+
+        Receita Federal (Analista Tributário) Estatística                                              39
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Sabendo que os elementos da amostra seguem a mesma distribuição da população, com média 𝐸(𝑋) = 𝜇 e
+variância 𝑉(𝑋) = 𝜎 2 , então:
+
+                                                  𝑬(𝑿𝟐𝒊 ) = 𝝈𝟐 + 𝝁𝟐
+
+Por exemplo, vamos supor que vamos extrair uma amostra de uma população com variância 𝜎 2 = 4 e média
+𝜇 = 5. A esperança do quadrado de cada elemento da amostra é:
+
+                                          𝐸(𝑋𝑖2 ) = 4 + 52 = 4 + 25 = 29
+
+                                              ̅ 𝟐:
+Similarmente, podemos calcular a esperança de 𝑿
+
+                                              𝐸(𝑋̅ 2 ) = 𝑉(𝑋̅) + [𝐸(𝑋̅)]2
+
+                                                                                                      𝜎2
+Sabendo que a esperança da média amostral é 𝐸(𝑋̅) = 𝜇 e que a variância da média amostral é 𝑉(𝑋̅) = 𝑛 :
+
+                                                              𝟐
+                                                     ̅ 𝟐 ) = 𝝈 + 𝝁𝟐
+                                                   𝑬(𝑿       𝒏
+
+
+Vamos supor que a amostra extraída da mesma população com variância 𝜎 2 = 4 e média 𝜇 = 5 tenha
+tamanho 𝑛 = 16. A esperança do quadrado da média amostral é:
+
+                                                  4
+                                     𝐸(𝑋𝑖2 ) =      + 52 = 0,25 + 25 = 25,25
+                                                 16
+
+        Vamos calcular o viés do seguinte estimador para a variância populacional 𝜎 2 , a partir de
+        uma amostra de n = 2 elementos X1 e X2, sendo 𝑋̅ a média amostral:
+
+                                                 𝜃̃ = 𝑋12 + 𝑋22 − 2𝑋̅ 2
+
+        A esperança desse estimador é:
+
+                          𝐸(𝜃̃) = 𝐸(𝑋12 + 𝑋22 − 2𝑋̅ 2 ) = 𝐸(𝑋12 ) + 𝐸(𝑋22 ) − 2. 𝐸(𝑋̅ 2 )
+
+                                                                  𝜎2
+        Sabemos que 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2 e que 𝐸(𝑋̅ 2 ) = 𝑛 + 𝜇 2 , sendo 𝑛 = 2, logo:
+
+                                                  𝜎     2
+               𝐸(𝜃̃) = 𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 − 2 ( 2 + 𝜇 2 ) = 2. 𝜎 2 + 2. 𝜇 2 − 𝜎 2 − 2. 𝜇 2 = 𝜎 2
+
+        Como a esperança do estimador é igual à variância populacional, que é o parâmetro sendo
+        estimado, o viés é nulo 𝑏(𝜃̃) = 𝐸(𝜃̃) − 𝜎 2 = 0 e o estimador é não tendencioso.
+
+
+        Receita Federal (Analista Tributário) Estatística                                             40
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Erro Quadrático Médio
+
+O Erro Quadrático Médio (EQM) corresponde à esperança do quadrado da diferença entre o estimador e o
+parâmetro populacional estimado:
+
+                                                                   2
+                                              𝐸𝑄𝑀(𝜃̂) = 𝐸 [(𝜃̂ − 𝜃) ]
+
+O EQM pode ser reescrito como a soma da variância do estimador com o quadrado do viés do estimador.
+
+                                                                       2
+                                            𝐸𝑄𝑀(𝜃̂ ) = 𝑉(𝜃̂) + [𝑏(𝜃̂)]
+
+Ou, simplesmente:
+
+                                                 𝐸𝑄𝑀(𝜃̂) = 𝜎 2 + 𝑏 2
+                                                            ==219a34==
+
+Para estimadores não viesados, o viés do estimador é 𝑏(𝜃̂
+                                                        𝑁𝑇 ) = 0, logo, o EQM é igual à variância do
+estimador:
+
+                                                𝐸𝑄𝑀(𝜃̂         ̂
+                                                     𝑁𝑇 ) = 𝑉(𝜃𝑁𝑇 )
+
+Vamos supor a seguinte expressão para o EQM de um estimador, em que a primeira parcela corresponde à
+                                                                                                      2
+variância do estimador 𝑉(𝜃̂) e a segunda parcela corresponde ao quadrado do viés do estimador [𝑏(𝜃̂)]
+(exemplo extraído da prova FGV/2017 – IBGE):
+
+                                                                         3. 𝜎 2    𝜃−1 2
+                                           𝐸𝑄𝑀(𝜃̂1 ) =                          +(    )
+                                                                           𝑛        𝑛
+                                  𝜃−1
+Podemos observar que o viés ( 𝑛 ) não é nulo, logo, concluímos que o estimador é tendencioso.
+
+        Agora, vamos calcular o EQM dos estimadores para a média 𝜇, que vimos anteriormente.
+        Para isso, precisamos da variância e do viés do estimador. Como já calculamos o viés, falta
+        calcular a sua variância.
+
+                                            𝜃̂ = 𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5
+
+                                        𝑉(𝜃̂) = 𝑉(𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 )
+
+
+        Receita Federal (Analista Tributário) Estatística                                             41
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+          Se as amostras forem independentes (população infinita ou amostra extraída com
+          reposição), então, pelas propriedades da variância, temos:
+
+                                 𝑉(𝜃̂) = 𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 ) + 𝑉(𝑋4 ) + 𝑉(𝑋5 )
+
+          Considerando que a amostra segue a mesma distribuição da população, temos 𝑉(𝑋𝑖 ) =
+          𝑉(𝑋) = 𝜎 2 , logo:
+
+                                      𝑉(𝜃̂) = 𝜎 2 + 𝜎 2 + 𝜎 2 + 𝜎 2 + 𝜎 2 = 5𝜎 2
+
+          Como o viés é nulo, o EQM desse estimador é igual variância:
+
+                                               𝐸𝑄𝑀(𝜃̂) = 𝑉(𝜃̂) = 5𝜎 2
+
+          Para o outro exemplo de estimador, a variância é (sendo as amostras independentes):
+
+                                                      ̂ = 𝑋1 − 𝑋2
+                                                      𝜃′
+
+                            𝑉(𝜃̂′ ) = 𝑉(𝑋1 − 𝑋2 ) = 𝑉(𝑋1 ) + 𝑉(𝑋2 ) = 𝜎 2 + 𝜎 2 = 2𝜎 2
+
+                                              ̂ ) = −𝜇. Portanto, o EQM é:
+          Já calculamos o viés do estimador 𝑏(𝜃′
+
+                                ̂ ) = 𝑉(𝜃̂) + [𝑏(𝜃̂)]2 = 2𝜎 2 + [−𝜇]2 = 2𝜎 2 + 𝜇 2
+                            𝐸𝑄𝑀(𝜃′
+
+Se as amostras não forem independentes, a variância da soma e da subtração de duas variáveis é dada por:
+
+                                  𝑉(𝑋1 + 𝑋2 ) = 𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 2. 𝐶𝑜𝑣(𝑋1 , 𝑋2 )
+
+                                  𝑉(𝑋1 − 𝑋2 ) = 𝑉(𝑋1 ) + 𝑉(𝑋2 ) − 2. 𝐶𝑜𝑣(𝑋1 , 𝑋2 )
+
+(2019/Analista Censitário – Adaptada) É conhecido que o erro quadrático médio (EQM(𝜃̂)) mede, em média,
+quão perto um estimador 𝜃̂ chega ao valor real do parâmetro 𝜃. Diante do exposto, julgue os itens seguintes:
+I – EQM(𝜃̂) é uma medida que combina viés e variância de um parâmetro;
+II – para estimadores viesados, EQM(𝜃̂) é igual à variância;
+III – EQM(𝜃̂) = 𝜃̂ – Viés(𝜃̂).
+
+
+         Receita Federal (Analista Tributário) Estatística                                               42
+         www.estrategiaconcursos.com.br                                                                 297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+Em relação ao primeiro item, o EQM(𝜃̂) combina viés e variância de um estimador (não do parâmetro
+populacional), logo o item I está incorreto.
+Em relação ao segundo item, o EQM(𝜃̂) é igual à variância para um estimador não viesado, logo o item II está
+incorreto.
+Em relação ao terceiro item, a fórmula do erro quadrático médio é:
+                                                                       2
+                                          𝐸𝑄𝑀(𝜃̂) = 𝑉(𝜃̂) + [𝑉𝑖é𝑠(𝜃̂)]
+Logo, o item III está incorreto.
+Resposta: todos os itens errados.
+
+
+(FGV/2022 - EPE – Adaptada) Considere uma amostra aleatória de n variáveis X1, X2, ..., Xn, normalmente
+distribuídas com média μ e variância σ2. Considere o seguinte estimador da média populacional:
+                                                                𝑛
+                                                          1
+                                                     𝑇̅ = 2 ∑ 𝑋𝑖
+                                                         𝑛
+                                                                𝑖=1
+
+Sobre as propriedades desse estimador, julgue o seguinte item.
+O estimador é não-tendencioso.
+Comentários:
+Para um estimador não tendencioso, a sua esperança é igual ao parâmetro populacional estimado, no caso,
+a média 𝜇. Vamos, então, calcular a esperança do estimador 𝑇̅:
+                                                                      𝑛
+                                                           1
+                                                𝐸(𝑇̅) = 𝐸 ( 2 ∑ 𝑋𝑖 )
+                                                           𝑛
+                                                                     𝑖=1
+
+Quando multiplicamos uma variável por uma constante, a sua esperança será multiplicada por essa
+constante (propriedade da esperança), logo:
+                                                                      𝑛
+                                                            1
+                                               𝐸(𝑇̅) =         . 𝐸 (∑ 𝑋𝑖 )
+                                                            𝑛2
+                                                                      𝑖=1
+
+Ademais, a esperança da soma de variáveis é igual à soma das esperanças (outra propriedade da esperança):
+                                                                 𝑛
+                                                        1
+                                                𝐸(𝑇̅) = 2 . ∑ 𝐸(𝑋𝑖 )
+                                                       𝑛
+                                                                𝑖=1
+
+Considerando que cada variável da amostra segue a mesma distribuição da população, temos 𝐸(𝑋𝑖 ) = 𝜇.
+Portanto, a soma ∑𝑛𝑖=1 𝐸(𝑋𝑖 ) para as 𝑛 variáveis corresponde ao produto 𝑛. 𝜇:
+                                                   1           𝜇
+                                                 𝐸(𝑇̅) =
+                                                      . 𝑛. 𝜇 =
+                                                   𝑛2          𝑛
+Que é diferente de 𝜇. Logo, o estimador 𝑇̅ é tendencioso.
+Resposta: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                43
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(FGV/2022 - TRT/MA) Suponha uma amostra 𝑋1, 𝑋2, 𝑋3 , 𝑋4 de uma variável populacional com média 𝜇 e
+variância 𝜎 2 . Se 𝑋̅ é a média amostral, assinale a opção que apresenta uma estatística não tendenciosa para
+𝜎2:
+a) (𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 4. 𝑋̅ 2 )/3
+b) (𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 )/3
+c) (𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 )/4
+d) (𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 𝑋̅ 2 )/3
+e) (𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 4. 𝑋̅ 2 )/4
+Comentários:
+Para identificar o estimador não tendencioso para a variância 𝜎 2 , precisamos calcular a sua esperança.
+A esperança do estimador da alternativa A é:
+                    𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 4. 𝑋̅ 2    𝐸(𝑋12 ) + 𝐸(𝑋22 ) + 𝐸(𝑋32 ) + 𝐸(𝑋42 ) − 4. 𝐸(𝑋̅ 2 )
+        𝐸(𝜃𝐴 ) = 𝐸 (                                )=
+                                  3                                           3
+                                          𝜎2
+Sendo 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2 e 𝐸(𝑋̅ 2 ) = 𝑛 + 𝜇 2, com 𝑛 = 4, então:
+                                                                                 𝜎2
+                                  𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 − 4 ( 4 + 𝜇2)
+                       𝐸(𝜃𝐴 ) =
+                                                           3
+                                     4. 𝜎 2 + 4. 𝜇 2 − 𝜎 2 − 4. 𝜇 2 3. 𝜎 2
+                            𝐸(𝜃𝐴 ) =                               =       = 𝜎2
+                                                    3                 3
+Que é igual ao parâmetro 𝜎 2 estimado. Logo, esse estimador é não tendencioso.
+Mas, vejamos as demais alternativas. A esperança do estimador da alternativa B é:
+                                   𝑋12 + 𝑋22 + 𝑋32 + 𝑋42    𝐸(𝑋12 ) + 𝐸(𝑋22 ) + 𝐸(𝑋32 ) + 𝐸(𝑋42 )
+                    𝐸(𝜃𝐵 ) = 𝐸 (                         )=
+                                             3                                3
+Sendo 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2:
+                      𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 4. 𝜎 2 + 4. 𝜇 2 4 2
+               𝐸(𝜃𝐵 ) =                                            =               = (𝜎 + 𝜇 2 )
+                                            3                              3        3
+                    2
+Que é diferente de 𝜎 . Logo, esse estimador é tendencioso.
+Em relação ao estimador da alternativa C, temos:
+                                   𝑋12 + 𝑋22 + 𝑋32 + 𝑋42    𝐸(𝑋12 ) + 𝐸(𝑋22 ) + 𝐸(𝑋32 ) + 𝐸(𝑋42 )
+                    𝐸(𝜃𝐶 ) = 𝐸 (                         )=
+                                             4                                4
+Sendo 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2:
+                     𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 + 𝜎 2 + 𝜇 2 4. 𝜎 2 + 4. 𝜇 2
+                 𝐸(𝜃𝐶 ) =                                         =                = 𝜎 2 + 𝜇2
+                                            4                             4
+Que também é diferente de 𝜎 2 . Logo, esse estimador é tendencioso. Vejamos o estimador da alternativa D:
+                         𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 𝑋̅ 2    𝐸(𝑋12 ) + 𝐸(𝑋22 ) + 𝐸(𝑋32 ) + 𝐸(𝑋42 ) − 𝐸(𝑋̅ 2 )
+            𝐸(𝜃𝐷 ) = 𝐸 (                              )=
+                                     3                                         3
+
+
+         Receita Federal (Analista Tributário) Estatística                                                   44
+         www.estrategiaconcursos.com.br                                                                      297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                         𝜎2
+Sendo 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2 e 𝐸(𝑋̅ 2 ) = 𝑛 + 𝜇 2, com 𝑛 = 4, então:
+                                                                                𝜎2
+                                   𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 − ( 4 + 𝜇2)
+                       𝐸(𝜃𝐷 ) =
+                                                                3
+                                          𝜎2
+                         4. 𝜎 2 + 4. 𝜇 2 − 4 − 4. 𝜇 2
+                                                    4. 𝜎 2 𝜎 2 16. 𝜎 2 − 𝜎 2 15. 𝜎 2 5 2
+              𝐸(𝜃𝐷 ) =                                  = −    =            =       = 𝜎
+                                    3                 3     12      12        12     4
+Que é diferente de 𝜎 2 . Logo, esse estimador é tendencioso.
+Por fim, a esperança do estimador da alternativa E é:
+                    𝑋12 + 𝑋22 + 𝑋32 + 𝑋42 − 4. 𝑋̅ 2    𝐸(𝑋12 ) + 𝐸(𝑋22 ) + 𝐸(𝑋32 ) + 𝐸(𝑋42 ) − 4. 𝐸(𝑋̅ 2 )
+        𝐸(𝜃𝐸 ) = 𝐸 (                                )=
+                                  4                                           4
+                                       𝜎  2
+Sendo 𝐸(𝑋𝑖2 ) = 𝜎 2 + 𝜇 2 e 𝐸(𝑋̅ 2 ) = 𝑛 + 𝜇 2, com 𝑛 = 4, então:
+                                                                                 𝜎2
+                                  𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 + 𝜎 2 + 𝜇2 − 4 ( 4 + 𝜇2)
+                      𝐸(𝜃𝐷 ) =
+                                                      4
+                                       4. 𝜎 + 4. 𝜇 − 𝜎 2 − 4. 𝜇 2 3. 𝜎 2
+                                                   2        2
+                             𝐸(𝜃𝐴 ) =                            =
+                                                  4                 4
+                           2
+Que também é diferente de 𝜎 . Logo, esse estimador também é tendencioso.
+Gabarito: A
+
+
+(CESPE 2020/TJ-PA) Um estimador que fornece a resposta correta em média é chamado não enviesado.
+Formalmente, um estimador é não enviesado caso seu valor esperado seja igual ao parâmetro que está
+sendo estimado. Os possíveis estimadores para a média populacional (µ) incluem β, média de uma amostra,
+α, a menor observação da amostra, e π, a primeira observação coletada de uma amostra. Considerando essas
+informações, julgue os itens subsequentes.
+I A média de uma amostra (β) é exemplo de um estimador enviesado para a média populacional (µ), pois seu
+valor esperado é igual à média populacional, ou seja, E(β) = µ.
+II A menor observação da amostra (α) é um exemplo de estimador não enviesado, pois o valor da menor
+observação da amostra deve ser inferior à média da amostra; portanto, E(α) < µ.
+III A primeira observação coletada de uma amostra equivale a tomar ao acaso uma amostra aleatória da
+população de tamanho igual a um e, portanto, é considerado um estimador não enviesado.
+Assinale a opção correta.
+a) Nenhum item está certo.
+b) Apenas o item I está certo.
+c) Apenas o item II está certo.
+d) Apenas o item III está certo.
+e) Todos os itens estão certos.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                    45
+        www.estrategiaconcursos.com.br                                                                       297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A questão trabalha com alguns estimadores: a média amostral β, que normalmente chamamos de 𝑋̅; a menor
+observação da amostra, α; e a primeira observação, π.
+Em relação ao item I, o valor esperado da média amostral é igual à média populacional, E(β) = µ, o que define
+um estimador não enviesado. Logo, o item I está errado.
+Em relação ao item II, o valor esperado da menor observação da amostra é inferior à média, E(α) < µ, o que
+define um estimador enviesado. Logo, o item II está errado.
+Em relação ao item III, a primeira observação pode ser considerada uma amostra com tamanho n = 1, de
+fato, sendo E(π) = µ. Logo, esse estimador é não enviesado. Logo, o item III está certo.
+Gabarito: D.
+
+Eficiência
+
+Vimos que, para um estimador não tendencioso, o erro quadrático médio é igual à sua variância:
+
+                                                𝐸𝑄𝑀(𝜃̂         ̂
+                                                     𝑁𝑇 ) = 𝑉(𝜃𝑁𝑇 )
+
+
+Assim, a variância de um estimador não tendencioso está inversamente relacionada à precisão da
+estimativa: quanto menor a variância, maior a precisão.
+
+Por sua vez, a precisão da estimativa está diretamente relacionada à eficiência do estimador. Ou seja, quanto
+menor a variância do estimador, maior será sua eficiência.
+
+Essa comparação pode ser feita entre estimadores não tendenciosos, ou entre estimadores com o mesmo
+viés. Não podemos comparar a eficiência entre estimadores com viés diferente.
+
+Dizemos que um estimador é eficiente se for não viesado e apresentar a menor variância possível. Além
+disso, para que o estimador seja eficiente ele deve ser necessariamente suficiente (caso um estimador não
+considere toda a informação disponível na amostra, ele não pode ser eficiente).
+
+Tanto a média amostral quanto a proporção amostral são estimadores eficientes.
+
+        Um estimador é dito assintoticamente eficiente quando a sua matriz de variância-
+        covariância assintótica não é maior que a de qualquer outro estimador, ou seja, quando a
+        sua variância converge mais rapidamente.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 46
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para resolver algumas questões, precisamos nos aprofundar um pouco mais. Se esse é um dos seus primeiros
+contatos com a matéria, não se preocupe com a parte a seguir.
+
+Existe um limite inferior para a variância de um estimador não tendencioso, chamado limite de Cramér-Rao.
+Nenhum estimador não tendencioso terá uma variância inferior a esse limite. Quando um estimador não
+tendencioso apresenta variância igual ao limite de Cramér-Rao, podemos concluir que tal estimador é
+eficiente, pois apresenta a menor variância possível.
+
+Por exemplo, para uma população com distribuição normal, o limite de Cramér-Rao para estimadores não
+                                    𝜎2
+tendenciosos da média populacional é , que é justamente a variância da média amostral 𝑋̅. Por se tratar
+                                            𝑛
+de um estimador não tendencioso com a menor variância possível, concluímos que esse estimador é
+eficiente.
+
+No entanto, nem sempre o limite de Cramér-Rao pode ser atingido por um estimador não tendencioso. Por
+exemplo, para uma população com distribuição normal, o limite de Cramér-Rao para estimadores da
+                             2.𝜎4
+variância populacional é 𝑛 , porém não há estimador não tendencioso com essa variância - todos
+apresentam variância maior que esse limite.
+
+Em outras palavras, a variância de um estimador eficiente, isto é, de um estimador não tendencioso com a
+menor variância possível, não será necessariamente igual ao limite de Cramér-Rao.
+
+        O limite inferior de Cramér-Rao é o inverso da chamada Informação de Fisher 𝐼:
+
+                                                                1
+                                                      𝑉𝑎𝑟(𝜃̂) ≥ 𝐼
+
+                             𝜕              2
+        em que 𝐼 = 𝐸 [(𝜕𝜃 ln 𝑓(𝑥, 𝜃)) ], sendo 𝑓(𝑥, 𝜃) a função de probabilidade conjunta da
+        amostra e ln 𝑓(𝑥, 𝜃) o seu logaritmo natural, chamado função log-verossimilhança. A
+        esperança 𝐸 é calculada para todos os possíveis valores de 𝑥, ponderados pela função de
+        probabilidade.
+
+        Quando algumas condições de regularidade estiverem presentes, a Informação de Fisher
+        pode ser calculada como:
+
+                                                            𝜕2
+                                                𝐼 = −𝐸 [𝜕𝜃2 ln 𝑓(𝑥, 𝜃)]
+
+        Receita Federal (Analista Tributário) Estatística                                             47
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Por exemplo, para a distribuição exponencial, a função densidade de probabilidade de cada elemento é:
+
+                                                   𝑓(𝑥, 𝜃) = 𝜃. 𝑒 −𝜃𝑥
+
+E a função de probabilidade conjunta para uma amostra de tamanho 𝑛 (função de verossimilhança) é:
+                                                                                        𝑛
+                        𝑓(𝑥, 𝜃) = 𝜃. 𝑒 −𝜃𝑥1 × 𝜃. 𝑒 −𝜃𝑥2 × … × 𝜃. 𝑒 −𝜃𝑥𝑛 = 𝜃 𝑛 . 𝑒 −𝜃 ∑𝑖=1 𝑥𝑖
+
+A função log-verossimilhança é o logaritmo natural dessa função:
+                                                                          𝑛
+                                           ln 𝑓(𝑥, 𝜃) = ln(𝜃 𝑛 . 𝑒 −𝜃 ∑𝑖=1 𝑥𝑖 )
+
+Sabendo que o logaritmo do produto é igual à soma dos logaritmos (ln 𝑎. 𝑏 = ln 𝑎 + ln 𝑏); que o logaritmo
+da potência é o produto do expoente pelo logaritmo (ln 𝑎𝑏 = 𝑏. ln 𝑎); e que ln 𝑒 = 1, temos:
+                                                            𝑛                      𝑛
+
+                             ln 𝑓(𝑥, 𝜃) = 𝑛. ln 𝜃 − 𝜃 ∑ 𝑥𝑖 . ln 𝑒 = 𝑛. ln 𝜃 − 𝜃 ∑ 𝑥𝑖
+                                                            𝑖=1                   𝑖=1
+
+                                                                     𝑑
+Agora, derivamos essa função em relação a 𝜃, sabendo que 𝑑𝑥 ln 𝑥 = 𝑥 −1 :
+
+                                                                              𝑛
+                                           𝜕
+                                              ln 𝑓(𝑥, 𝜃) = 𝑛. 𝜃 −1 − ∑ 𝑥𝑖
+                                           𝜕𝜃
+                                                                          𝑖=1
+
+E derivamos novamente para utilizar o cálculo alternativo da Informação de Fisher, uma vez que as
+condições de regularidade estão presentes:
+
+                                               𝜕2
+                                                   ln 𝑓(𝑥, 𝜃) = −𝑛. 𝜃 −2
+                                              𝜕𝜃 2
+
+Como esse resultado é independente de 𝒙, a sua esperança é igual à própria expressão, logo:
+
+                                    𝜕2                 𝜕2                       −2 )
+                                                                                       𝑛
+                        𝐼 = −𝐸 [        ln 𝑓(𝑥, 𝜃)] =      ln 𝑓(𝑥, 𝜃) = −(−𝑛. 𝜃      =
+                                   𝜕𝜃 2               𝜕𝜃 2                             𝜃2
+
+E o limite mínimo de Cramér-Rao para a variância de um estimador não tendencioso para a distribuição
+exponencial é o inverso desse resultado:
+
+                                                                  1 𝜃2
+                                                  𝑉𝑎𝑟(𝜃̂) ≥         =
+                                                                  𝐼   𝑛
+
+No entanto, não há estimador não tendencioso que atinja esse limite.
+
+        Receita Federal (Analista Tributário) Estatística                                               48
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2019 – TJ-AM) Com relação aos parâmetros estatísticos e suas estimativas, julgue o item que se
+segue.
+Entre dois estimadores, A e B, com consistência, viés e demais características iguais, o estimador mais útil é
+aquele que possui menor variância.
+Comentários:
+Para estimadores com todas as demais características iguais, o melhor estimador será aquele com a menor
+variância, que está associada ao erro quadrático médio (EQM).
+Gabarito: Certo
+
+
+(2018 – Petrobras) Seja (Y1 , Y2 , Y3 ) uma amostra aleatória simples extraída de modo independente de uma
+população com média μ e variância σ2, ambas desconhecidas. Considere os dois estimadores da média da
+população definidos abaixo
+     𝑌 +2.𝑌2 +3.𝑌3         𝑌 +𝑌 +𝑌3
+̂1 = 1
+𝜇                     ̂2 = 1 32
+                     e𝜇
+            6
+
+Relativamente a esses dois estimadores, conclui-se que:
+a) apenas o primeiro estimador é não tendencioso.
+b) apenas o segundo estimador é não tendencioso.
+c) os dois estimadores são não tendenciosos, mas a eficiência não pode ser determinada sem a estimação
+da variância σ2.
+d) os dois estimadores são não tendenciosos, mas o primeiro é mais eficiente por apresentar a variância
+inferior à do segundo estimador.
+e) os dois estimadores são não tendenciosos, mas o segundo é mais eficiente por apresentar a variância
+inferior à do primeiro estimador.
+Comentários:
+O viés do estimador é a esperança do seu erro:
+
+                                       𝑏(𝜃̂) = 𝐸(𝑒) = 𝐸(𝜃̂ − 𝜃) = 𝐸(𝜃̂) − 𝜃
+
+O viés do primeiro estimador é:
+
+                                                        𝑌1 + 2. 𝑌2 + 3. 𝑌3
+                                          𝑏(𝜇1 = 𝐸(
+                                            ̂)                             )−𝜇
+                                                                6
+
+Pelas propriedades da esperança, temos:
+
+         Receita Federal (Analista Tributário) Estatística                                                 49
+         www.estrategiaconcursos.com.br                                                                    297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                         1
+                                   𝑏(𝜇1 = [𝐸(𝑌1 ) + 2. 𝐸(𝑌2 ) + 3. 𝐸(𝑌3 )] − 𝜇
+                                     ̂)
+                                         6
+
+Sabendo que a distribuição da amostra é igual à distribuição da população, temos 𝐸(𝑌1 ) = 𝐸(𝑌) = 𝜇:
+
+                                    1                        1
+                          𝑏(𝜇
+                            ̂)
+                             1 =      [𝜇 + 2. 𝜇 + 3. 𝜇] − 𝜇 = [6. 𝜇] − 𝜇 = 𝜇 − 𝜇 = 0
+                                    6                        6
+
+Logo, o primeiro estimador é não viesado (alternativa B errada).
+Similarmente, o viés do segundo estimador é dado por:
+
+                                                     𝑌1 + 𝑌2 + 𝑌3
+                                           𝑏(𝜇
+                                             ̂)2 = 𝐸(             )−𝜇
+                                                          3
+
+                                                1
+                                     𝑏(𝜇
+                                       ̂)2 =      [𝐸(𝑌1 ) + 𝐸(𝑌2 ) + 𝐸(𝑌3 )] − 𝜇
+                                                3
+                                   1                 1
+                            𝑏(𝜇
+                              ̂)2 = [𝜇 + 𝜇 + 𝜇] − 𝜇 = [3. 𝜇] − 𝜇 = 𝜇 − 𝜇 = 0
+                                   3                 3
+
+Ou seja, o segundo estimador também não é viesado (alternativa A errada).
+A eficiência do estimador não viesado é medida por sua variância. A variância do primeiro estimador é:
+
+                                                            𝑌1 + 2. 𝑌2 + 3. 𝑌3
+                                           𝑉(𝜇1 = 𝑉(
+                                             ̂)                                )
+                                                                    6
+
+Pelas propriedades da variância, para variáveis independentes, temos:
+
+                         1             2             2
+                                                                    1
+               𝑉(𝜇
+                 ̂)
+                  1 =       [𝑉(𝑌1 ) + 2  . 𝑉(𝑌2 ) + 3  . 𝑉(𝑌3 )] =    [𝑉(𝑌1 ) + 4. 𝑉(𝑌2 ) + 9. 𝑉(𝑌3 )]
+                         62                                        36
+
+Sabendo que a distribuição da amostra é igual à distribuição da população, temos 𝑉(𝑌1 ) = 𝑉(𝑌) = 𝜎 2 :
+
+                                        1 2                         1               7 2
+                            𝑉(𝜇
+                              ̂)
+                               1 =        [𝜎 + 4. 𝜎 2 + 9. 𝜎 2 ] =    [14. 𝜎 2 ] =    𝜎
+                                       36                          36              18
+
+Similarmente, a variância do segundo estimador é dada por:
+
+                      𝑌1 + 𝑌2 + 𝑌3     1                             1
+            𝑉(𝜇
+              ̂)2 = 𝑉(             ) = 2 [𝑉(𝑌1 ) + 𝑉(𝑌2 ) + 𝑉(𝑌3 )] = [𝑉(𝑌1 ) + 𝑉(𝑌2 ) + 𝑉(𝑌3 )]
+                           3          3                              9
+
+                                   1 2    2   2
+                                                  1     2
+                                                            3 2   6 2
+                            𝑉(𝜇
+                              ̂)2 = [𝜎 + 𝜎 + 𝜎 ] = [3. 𝜎 ] = 𝜎 =    𝜎
+                                   9              9         9    18
+
+A variância do segundo estimador é menor que a do primeiro, então o segundo estimador é mais eficiente.
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Estatística                                                50
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Consistência
+                              ̂𝐶 , as suas estimativas convergem para o parâmetro populacional 𝜃 com o
+Para um estimador consistente 𝜃
+aumento do tamanho amostral.
+
+        A definição de consistência é:
+
+                                                     ̂𝐶 − 𝜃| > 𝜀) = 0
+                                              lim 𝑃(|𝜃
+                                              𝑛→∞
+
+        para algum valor 𝜀 > 0 pequeno.
+
+        Ou seja, quando o tamanho da amostra 𝑛 tende a infinito, a probabilidade de um estimador
+        consistente 𝜃̂𝐶 diferir do parâmetro verdadeiro 𝜃, em mais do que 𝜀, é nula.
+
+        Essa definição segue o conceito de convergência em probabilidade.
+
+Todos os estimadores que mencionamos anteriormente (média amostral 𝑋̅, proporção amostral 𝑝̂ e variância
+amostral 𝑠 2 ) são consistentes.
+
+                                                                           ∑(𝑋𝑖 −𝑋̅ ) 2
+Ademais, a estimativa tendenciosa para a variância amostral 𝑠∗2 =                         também é consistente.
+                                                                                𝒏
+
+O estimador 𝜃̂ será consistente se a sua esperança 𝐸(𝜃̂) tende ao parâmetro populacional 𝜃 e sua variância
+𝑉(𝜃̂) tende a zero, quando o tamanho da amostra 𝑛 tende ao infinito:
+
+                                                              ̂) = 𝜽
+                                                        𝐥𝐢𝐦 𝑬(𝜽
+                                                        𝒏→∞
+
+                                                              ̂) = 𝟎
+                                                        𝐥𝐢𝐦 𝑽(𝜽
+                                                        𝒏→∞
+
+Podemos deduzir se essas duas características estão presentes ou não, a partir da fórmula do Erro
+Quadrático Médio do estimador:
+
+                                                                       2
+                                            𝐸𝑄𝑀(𝜃̂ ) = 𝑉(𝜃̂) + [𝑏(𝜃̂)]
+
+
+        Receita Federal (Analista Tributário) Estatística                                                         51
+        www.estrategiaconcursos.com.br                                                                            297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos considerar o exemplo da prova da FGV/2017 (IBGE), em que a primeira expressão corresponde à
+                                                                                        ̂1 )]2 :
+                         ̂1 ) e a segunda expressão ao quadrado do viés do estimador [𝑏(𝜃
+variância do estimador 𝑉(𝜃
+
+                                                             3. 𝜎 2    𝜃−1 2
+                                            𝐸𝑄𝑀(𝜃̂1 ) =             +(    )
+                                                               𝑛        𝑛
+
+Podemos deduzir que o viés é:
+
+                                                                  𝜃−1
+                                                     𝑏(𝜃̂1 ) =
+                                                                   𝑛
+
+Apesar de o viés não ser nulo, em sua expressão, consta uma divisão por 𝑛. Por isso, conforme 𝑛 aumenta,
+o viés diminui. No limite, quando 𝑛 tende a infinito, o viés é igual a zero, portanto, pode-se dizer que o
+estimador é assintoticamente não tendencioso.
+
+E a variância é:
+
+                                                                  3. 𝜎 2
+                                                      𝑉(𝜃̂1 ) =
+                                                                    𝑛
+
+Nessa expressão, também consta uma divisão por 𝑛. Logo, quando 𝑛 tende a infinito, a sua variância é igual
+a zero.
+
+Como o estimador apresenta as duas características, podemos concluir que é consistente.
+
+         Se o estimador apresentar essas duas propriedades, podemos concluir que é consistente.
+
+         Porém, se o estimador não apresentar essas propriedades assintóticas, não podemos
+         concluir que o estimador é inconsistente.
+
+         Em outras palavras, um estimador pode não apresentar as duas propriedades e, ainda
+         assim, ser consistente.
+
+         Ou seja, essas propriedades são condições suficientes, que nos permitem concluir que o
+         estimador é consistente; porém, não são necessárias para que um estimador seja
+         consistente.
+
+         Receita Federal (Analista Tributário) Estatística                                             52
+         www.estrategiaconcursos.com.br                                                                297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2019 – TJ-AM) Com relação aos parâmetros estatísticos e suas estimativas, julgue o item que se
+segue.
+Situação hipotética: A e B são dois estimadores não viciados e diferentes utilizados para estimar um mesmo
+parâmetro. A variância de A é menor que a variância de B. Assertiva: Em relação à consistência desses
+estimadores, é correto afirmar que o estimador A é mais consistente que o B.
+Comentários:
+Um estimador é dito consistente quando a esperança tende ao estimador e a variância tende a zero, quando
+a amostra cresce.
+Logo, o fato de a variância de A ser menor do que a variância de B não nos permite afirmar que A é mais
+consistente que B.
+Gabarito: Errado
+
+
+(FGV/2019 – DPE-RJ – Adaptada) Sobre as principais propriedades dos estimadores pontuais, para pequenas
+e grandes amostras, julgue os itens a seguir.
+I – Se lim 𝐸𝑄𝑀(𝜃̂) = +∞, então lim 𝑃(|𝜃̂ − 𝜃| < 𝜀) ≠ 0.
+     𝑛→∞                              𝑛→∞
+
+II – Um estimador que seja assintoticamente tendencioso não poderá ser consistente.
+Comentários:
+Esses 2 itens trabalham com o fato de que as propriedades assintóticas são condições suficientes, porém
+não necessárias para a consistência do estimador.
+O item I descreve um estimador cujo erro quadrático médio (EQM) cresce com o aumento do tamanho
+amostral 𝑛.
+                                                                                        2
+Como o EQM é a soma da variância com o quadrado do viés, 𝐸𝑄𝑀(𝜃̂) = 𝑉(𝜃̂) + [𝑏(𝜃̂)] , então ou o viés
+cresce com o aumento de 𝑛 ou a variância cresce com o aumento de 𝑛, ou ambos.
+Portanto, não podemos concluir que o estimador é consistente, pois ele não segue as propriedades
+assintóticas.
+Por outro lado, também não podemos concluir que o estimador é inconsistente, pois é possível que um
+estimador não siga as propriedades assintóticas, mas ainda assim seja consistente.
+Ou seja, não podemos afirmar que lim 𝑃(|𝜃̂ − 𝜃| < 𝜀) ≠ 0. Por isso, o item I está errado.
+                                        𝑛→∞
+
+Similarmente, em relação ao item II, um estimador pode ser consistente, ainda que seja assintoticamente
+tendencioso.
+Resposta: Ambos os itens errados.
+
+        Receita Federal (Analista Tributário) Estatística                                              53
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 11
+
+      Estatística Suficiente: Resume todas as informações disponíveis na amostra para estimar
+      o parâmetro populacional
+
+      Estimador Não Viesado (ENV), ou Não Viciado, ou Não Tendencioso: Esperança do
+      estimador igual ao parâmetro; Viés (esperança do erro) igual a zero:
+
+                                           𝐸(𝜃̂) = 𝜃 ↔ 𝑏(𝜃̂) = 𝐸(𝑒) = 0
+
+              ∑(𝑋𝑖 −𝑋̅ ) 2
+      𝑠∗2 =                  é tendencioso; 𝑋̅, 𝑝̂ e 𝑠 2 são não tendenciosos
+                   𝒏
+
+
+      Estimador Eficiente: apresenta a menor variância 𝑉(𝜃̂) possível. 𝑋̅ e 𝑝̂ são eficientes
+
+      Estimador Consistente: estimativas convergem para parâmetro populacional se:
+
+                                             lim 𝐸(𝜃̂) = 𝜃, lim 𝑉(𝜃̂) = 0
+                                             𝑛→∞             𝑛→∞
+
+      Mas essas condições não são necessárias para o estimador ser consistente.
+
+      Os estimadores 𝑋̅, 𝑝̂ , 𝑠 2 e 𝑠∗2 (estimador tendencioso para a variância) são consistentes.
+
+      A robustez é outra propriedade, associada à resistência dos estimadores a violações dos
+      pressupostos dos modelos. Em outras palavras, estimadores robustos continuam
+      fornecendo estimativas confiáveis, ainda que as condições não sejam exatamente aquelas
+      previstas pelo modelo.
+
+      Por exemplo, determinado modelo pode supor que a população siga distribuição normal,
+      mas isso não ser inteiramente verdade. Essa violação de premissa não afeta, de forma
+      significativa, estimadores robustos, os quais continuam fornecendo boas estimativas.
+
+      Receita Federal (Analista Tributário) Estatística                                              54
+      www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Métodos de Estimação
+
+Os estimadores são obtidos pelos chamados métodos de estimação. Veremos alguns desses métodos agora.
+
+Método dos Momentos
+
+O Método dos Momentos se baseia nos momentos teóricos e amostrais das variáveis aleatórias.
+O 𝑘-ésimo momento teórico da variável 𝑋, denotado por 𝜇𝑘 , é:
+
+                                                      𝜇𝑘 = 𝐸(𝑋 𝑘 )
+Se a variável for discreta, temos:
+
+                                          𝜇𝑘 = 𝐸(𝑋 𝑘 ) = ∑ 𝑥 𝑘 . 𝑃(𝑋 = 𝑥)
+
+Em particular, o primeiro momento teórico é igual à esperança da variável:
+
+                                           𝜇1 = 𝐸(𝑋) = ∑ 𝑥. 𝑃(𝑋 = 𝑥)
+
+Se a variável for contínua, substituímos o somatório pela integral e a função de probabilidade 𝑃(𝑋 = 𝑥) pela
+função densidade de probabilidade 𝑓(𝑥).
+Pontue-se que é possível que distribuições distintas apresentem os mesmos momentos teóricos.
+
+
+Os momentos amostrais são calculados de maneira análoga. O 𝑘-ésimo momento amostral, denotado por
+𝑚𝑘 , é a soma dos valores observados elevados a 𝑘, dividida pelo tamanho da amostra, 𝑛:
+                                                                 𝑛
+                                                        1
+                                                    𝑚𝑘 = ∑ 𝑋𝑖𝑘
+                                                        𝑛
+                                                                𝑖=1
+
+Em particular, o primeiro momento amostral (𝑘 = 1) é a média amostral:
+                                                            ∑𝑛𝑖=1 𝑋𝑖
+                                                  𝑚1 =               = 𝑋̅
+                                                               𝑛
+E o segundo momento amostral (𝑘 = 2) corresponde a ̅̅̅
+                                                   𝑋 2̅:
+                                                      ∑𝑛𝑖=1 𝑋𝑖2
+                                                 𝑚2 =           = ̅̅̅
+                                                                  𝑋 2̅
+                                                          𝑛
+No exemplo das alturas, em que os 𝑛 = 5 valores da amostra observada foram {1,65; 1,75; 1,8; 1,85; 1,95},
+o primeiro momento amostral é igual a média amostral:
+
+        Receita Federal (Analista Tributário) Estatística                                                55
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                      ∑ 𝑋𝑖 1,65 + 1,75 + 1,8 + 1,85 + 1,95 9
+                          𝑚1 = 𝑋̅ =       =                               = = 1,8
+                                       𝑛                  5                5
+E o segundo momento amostral é a soma dos valores observados, elevados ao quadrado, divididos pelo
+tamanho da amostra:
+
+                          ∑ 𝑋𝑖 2 (1,65)2 + (1,75)2 + (1,8)2 + (1,85)2 + (1,95)2 16,25
+            𝑚2 = ̅̅̅
+                 𝑋 2̅ =         =                                              =      = 3,25
+                            𝑛                          5                          5
+
+
+Para calcular os estimadores pelo método dos momentos (EMM), que podemos denotar por 𝜃̂𝑀𝑀 ,
+igualamos os momentos teóricos (ou populacionais) aos momentos amostrais:
+                                                        𝜇𝑘 = 𝑚 𝑘
+Essa equação é feita para todos os parâmetros do modelo. Por exemplo, se houver 2 parâmetros, fazemos:
+                                                        𝜇1 = 𝑚1
+                                                        𝜇2 = 𝑚 2
+Em seguida, resolvemos o sistema de equações.
+O EMM para a média populacional 𝜇̂ 𝑀𝑀 é dado por:
+                                                                ∑𝑛𝑖=1 𝑋𝑖
+                                              𝜇̂ 𝑀𝑀 = 𝑚1 =                ̅
+                                                                         =𝑿
+                                                                   𝑛
+
+        Ou seja, a média amostral é o estimador para a média populacional, obtido pelo método
+        dos momentos.
+
+Em relação à variância, sabemos que 𝜎 2 = 𝐸(𝑋 2 ) − [𝐸(𝑋)]2, ou seja, a variância populacional é a diferença
+entre o segundo momento e o quadrado do primeiro momento. Logo, o EMM para a variância é a diferença
+entre o segundo momento amostral e o quadrado do primeiro momento amostral (o qual corresponde à
+média amostral):
+                                                                    ∑𝑛𝑖=1 𝑋𝑖2
+                                         2
+                                       𝜎̂𝑀𝑀 = 𝑚2 − (𝑚1 )2 =                   − 𝑋̅ 2
+                                                                        𝑛
+Essa expressão pode ser trabalhada para obtermos o seguinte resultado:
+
+                                                  2
+                                                            ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                𝜎̂𝑀𝑀 =
+                                                                   𝒏
+
+        Receita Federal (Analista Tributário) Estatística                                                56
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Entretanto, sabemos que esse estimador é tendencioso, ou seja, a esperança desse estimador é diferente
+do parâmetro populacional estimado (variância):
+
+                                                         2
+                                                     𝐸(𝜎̂𝑀𝑀 ) ≠ 𝜎2
+
+Portanto, nem sempre o estimador obtido pelo método dos momentos apresenta boas propriedades.
+Veremos outros problemas relativos a esse método a seguir:
+
+
+Vamos calcular o estimador de 𝜃 pelo método dos momentos para uma variável uniforme no intervalo (0, 𝜃).
+Nesse caso, temos um único parâmetro, então basta calcularmos o primeiro momento:
+
+                                                     𝜇1 = 𝑚1 = 𝑋̅
+Para uma variável uniforme em um intervalo (𝑎, 𝑏), a média populacional (ou esperança da variável)
+corresponde à média aritmética entre os extremos do intervalo:
+                                                  𝑎+𝑏 0+𝜃 𝜃
+                                           𝜇1 =      =   = = 𝑋̅
+                                                   2   2  2
+                                                      𝜃̂𝑀𝑀 = 2. 𝑋̅
+Assim, o estimador para o parâmetro 𝜃 obtido pelo método dos momentos é o dobro da média amostral.
+Esse estimador não é uma estatística suficiente, porque a informação do maior valor observado na amostra,
+necessária para estimar o parâmetro, é perdida.
+Também é possível ter mais de um estimador para um mesmo parâmetro populacional. Para a distribuição
+de Poisson, por exemplo, temos 𝐸(𝑋) = 𝑉(𝑋) = 𝜆. Assim, o parâmetro 𝜆 pode ser estimado tanto por 𝜇̂ 𝑀𝑀 ,
+             2
+quanto por 𝜎̂𝑀𝑀 , o que pode resultar em estimativas bem diferentes.
+Ademais, é possível obter valores negativos para os parâmetros de uma distribuição binomial, segundo o
+método dos momentos.
+
+        Vamos entender como é possível obter estimadores negativos?
+
+        Como há 2 parâmetros para essa distribuição, precisamos de 2 momentos. O primeiro
+        momento populacional é:
+
+                                                   𝜇1 = 𝐸(𝑋) = 𝑛. 𝑝
+
+        Já, a variância pode ser calculada como 𝑉(𝑋) = 𝐸(𝑋 2 ) − [𝐸(𝑋)]2.
+
+        Receita Federal (Analista Tributário) Estatística                                             57
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        Sabendo que 𝑉(𝑋) = 𝑛. 𝑝. (1 − 𝑝), podemos calcular 𝐸(𝑋 2 ) para essa distribuição:
+
+                           𝜇2 = 𝐸(𝑋 2 ) = 𝑉(𝑋) + [𝐸(𝑋)]2 = 𝑛. 𝑝. (1 − 𝑝) + [𝑛. 𝑝]2
+
+                                          𝜇2 = 𝐸 = 𝑛. 𝑝. (1 − 𝑝) + 𝑛2 . 𝑝2
+
+        Para calcular os EMMs, fazemos 𝑚1 = 𝜇1 e 𝑚2 = 𝜇2. Assim, precisamos resolver o seguinte
+        sistema de equações, para uma amostra de tamanho 𝑘:
+
+                                                      𝑋̅ = 𝑛. 𝑝
+                                      { 1 𝑘                                    }
+                                       (𝑘) ∑𝑖=1 𝑋𝑖 2 = 𝑛. 𝑝. (1 − 𝑝) + 𝑛2 . 𝑝2
+
+        Resolvendo esse sistema (que não vamos demonstrar aqui), obtemos as seguintes
+        expressões para os estimadores dos parâmetros 𝑛 e 𝑝:
+
+                                                     𝑋̅ 2                    𝑋̅
+                                        𝑛̂ = ̅   1                      𝑝̂ = 𝑛̂
+                                             𝑋 −( ) ∑𝑘       ̅ 2
+                                                     𝑖=1(𝑋𝑖 −𝑋 )
+                                                 𝑘
+
+
+                            1
+        Como o valor de (𝑘) ∑𝑘𝑖=1(𝑋𝑖 − 𝑋̅)2 pode superar o valor de 𝑋̅, é possível que o
+        denominador de 𝑛̂ seja negativo e assim termos 𝑛̂ e 𝑝̂ negativos.
+
+No entanto, a estimativa para o número de ensaios em uma distribuição binomial deveria ser, no mínimo,
+igual ao maior número de sucessos observado na amostra. Isso porque o número de ensaios é
+necessariamente maior ou igual ao número de sucessos obtidos.
+
+(2017 – TRF-2ª Região) Considerando o método de estimação conhecido como Método dos Momentos,
+assinale a afirmativa INCORRETA.
+a) Estimadores obtidos utilizando o k-ésimo momento não têm propriedades assintóticas para k ≥ 2.
+                                                            1
+b) O k-ésimo momento amostral é dado por 𝑚𝑘 = 𝑛 ∑𝑛𝑖=1 𝑋𝑖𝑘 e o k-ésimo momento populacional é dado por
+E(Xk ).
+c) Duas variáveis aleatórias com funções densidade de probabilidade distintas podem ter os mesmos
+momentos.
+d) Este método iguala os momentos da população aos momentos amostrais. Os estimadores são obtidos
+resolvendo a equação ou o sistema de equações resultante.
+Comentários:
+Essa questão pede a alternativa INCORRETA.
+
+        Receita Federal (Analista Tributário) Estatística                                           58
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                               ∑𝑛    2
+                                                                                𝑖=1 𝑋𝑖
+Em relação à alternativa A, sabemos que o momento para k = 2 é 𝑚2 =                      .
+                                                                                   𝑛
+
+Conforme 𝑛 aumenta, esse valor tende a zero. Logo, não podemos dizer que tais estimadores não possuem
+propriedades assintóticas. Assim, a alternativa A está INCORRETA.
+                                                                                             1
+Em relação à alternativa B, vimos que o k-ésimo momento amostral é, de fato, 𝑚𝑘 = 𝑛 ∑𝑛𝑖=1 𝑋𝑖𝑘 e que o k-
+ésimo momento populacional é 𝜇𝑘 = 𝐸(𝑋 𝑘 ). Logo, a alternativa B está CORRETA.
+Em relação à alternativa C, de fato, distribuições distintas podem apresentar momentos iguais, logo a
+alternativa C está CORRETA.
+Em relação à alternativa D, vimos que o método dos momentos iguala os momentos amostrais aos
+momentos teóricos (ou populacionais) aos momentos amostrais.
+Em seguida, os estimadores são encontrados resolvendo a equação (quando houver apenas 1 parâmetro) ou
+o sistema de equações (quando houver mais parâmetros). Logo, a alternativa D está CORRETA.
+Gabarito: A
+
+
+(2007 – TCE/RO – Adaptada) Seja (y1, y2, y3, y4) uma amostra aleatória independente e identicamente
+distribuída, de tamanho n = 4, extraída de uma população cuja característica estudada possui distribuição de
+probabilidade
+                                                           1⁄ ,    0≤𝑦≤𝜃
+                                          𝑓𝑌 (𝑦, 𝜃) = {      𝜃                 }
+                                                          0,    𝑐𝑎𝑠𝑜 𝑐𝑜𝑛𝑡𝑟á𝑟𝑖𝑜
+Se a amostra selecionada foi (6, 2, 14, 8), a estimativa do parâmetro 𝜃 pelo método dos momentos é:
+a) 7
+b) 7,5
+c) 14
+d) 15
+e) 14,5
+Comentários:
+Para calcular o estimador pelo método dos momentos, igualamos os momentos amostrais aos momentos
+teóricos:
+                                                           𝜇𝑘 = 𝑚 𝑘
+Ou seja, o primeiro momento teórico, que corresponde à esperança (ou média) populacional, é igualado ao
+primeiro momento amostral, que corresponde à média amostral:
+
+                                               ∑ 𝑋 6 + 2 + 14 + 8 30
+                                        𝑋̅ =      =              =   = 7,5
+                                                𝑛        4         4
+
+Pela função densidade fornecida, podemos identificar que se trata de uma distribuição uniforme, no
+intervalo (0, 𝜃).
+A média dessa distribuição é a média aritmética dos extremos:
+
+          Receita Federal (Analista Tributário) Estatística                                              59
+          www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                            0+𝜃 𝜃
+                                                    𝜇=         =
+                                                             2   2
+
+Igualando os dois momentos, temos:
+
+                                                       ̂
+                                                       𝜃𝑀𝑀
+                                                           = 7,5
+                                                         2
+                                                       ̂
+                                                       𝜃𝑀𝑀 = 15
+
+
+Resposta: D
+
+Método da Máxima Verossimilhança
+
+Para estimar o parâmetro populacional desejado, o método da máxima verossimilhança busca a estimativa
+para a qual a probabilidade de se obter os valores observados é a maior possível.
+Em outras palavras, suponha que as observações tenham sido 𝑋1 , 𝑋2 , … , 𝑋𝑛 . Nesse caso, considerando o
+estimador de máxima verossimilhança, a probabilidade associada às observações 𝑋1 , 𝑋2 , … , 𝑋𝑛 é maior do
+que se considerássemos qualquer outro estimador.
+Esse método terá uma função diferente, de acordo com a distribuição da população.
+
+        O estimador de máxima verossimilhança para um parâmetro 𝜃 é calculado a partir de uma
+        função de probabilidade conhecida dependente desse parâmetro 𝑓(𝜃, 𝑥) e das
+        observações de uma amostra aleatória 𝑥1 , 𝑥2 , … , 𝑥𝑛 .
+
+        Para calcular o estimador, precisamos da função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ),
+        dada pelo produto das funções de probabilidade, aplicadas para cada resultado da amostra
+        (função densidade conjunta):
+
+                        𝐿(𝜃, 𝑥𝑖 ) = ∏𝑛𝑖=1 𝑓(𝜃, 𝑥𝑖 ) = 𝑓(𝜃, 𝑥1 ) × 𝑓(𝜃, 𝑥2 ) × … × 𝑓(𝜃, 𝑥𝑛 )
+
+        O estimador de máxima verossimilhança será aquele que maximizar essa função. Para isso,
+        derivamos a função em relação a 𝜃 e a igualamos a zero.
+
+        Normalmente, é mais simples trabalhar com o logaritmo natural da função ln 𝐿(𝜃, 𝑥𝑖 ).
+
+        Receita Federal (Analista Tributário) Estatística                                             60
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para uma variável com distribuição normal, o estimador de máxima verossimilhança (EMV) para a média é:
+                                                            ∑𝑛𝑖=1 𝑋𝑖
+                                                  𝜇̂
+                                                   𝑀𝑉 =
+                                                                      ̅
+                                                                     =𝑿
+                                                               𝑛
+
+        Ou seja, para uma população com distribuição normal, a média amostral é o estimador de
+        máxima verossimilhança (EMV) para a média populacional.
+
+E o EMV para a variância de uma distribuição normal, é:
+                                                      ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                𝜎̂
+                                                 2
+                                                 𝑀𝑉 =
+                                                             𝒏
+Esse é o mesmo estimador obtido pelo método dos momentos, que é tendencioso:
+
+                                                         2
+                                                     𝐸(𝜎̂𝑀𝑉 ) ≠ 𝜎2
+
+Para uma variável aleatória com distribuição de Poisson, o estimador de máxima verossimilhança (EMV)
+também é a média amostral (que é um estimador eficiente):
+
+                                                            ∑𝑛𝑖=1 𝑋𝑖
+                                                  𝜆̂
+                                                   𝑀𝑉 =
+                                                                      ̅
+                                                                     =𝑿
+                                                               𝑛
+
+Por exemplo, vamos supor que queiramos estimar o número médio (𝜆) de pessoas que chegam em um ponto
+de ônibus por hora, sabendo que essa variável segue distribuição de Poisson.
+Para isso, vamos considerar uma amostra de 𝑛 = 6 horas (ou seja, vamos ficar 6 horas observando o ponto
+de ônibus e anotando o número de pessoas que chegam a cada hora).
+Vamos supor que os valores observados sejam os seguintes:
+                                                 {10, 12, 15, 10, 8, 5}
+Para estimar o parâmetro 𝜆 pelo método de máxima verossimilhança, calculamos a média amostral:
+
+                                      ∑𝑛𝑖=1 𝑋𝑖 10 + 12 + 15 + 10 + 8 + 5 60
+                        𝜆̂    ̅
+                         𝑀𝑉 = 𝑿 =             =                         =   = 10
+                                         𝑛                 6              6
+
+Ou seja, estimamos que chegam, em média, 10 pessoas por hora nesse ponto de ônibus.
+
+        Receita Federal (Analista Tributário) Estatística                                           61
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 11
+
+      Vamos calcular o estimador de máxima verossimilhança para a distribuição de Poisson. A
+                                                                                                       𝑒 −𝜃 .𝜃𝑥
+      função de distribuição de probabilidade dessa variável é 𝑓(𝜃, 𝑥) =                                          .
+                                                                                                         𝑥!
+
+
+      A função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ) corresponde ao produto das funções de
+      probabilidade, aplicadas para cada resultado da amostra:
+
+                                                                 𝑒 −𝜃 .𝜃 𝑥1         𝑒 −𝜃 .𝜃𝑥2          𝑒 −𝜃 .𝜃𝑥𝑛
+                         𝐿(𝜃, 𝑥𝑖 ) = ∏𝑛𝑖=1 𝑓(𝜃, 𝑥𝑖 ) =                         ×                × …×
+                                                                      𝑥1 !              𝑥2 !              𝑥𝑛 !
+
+
+      Quando multiplicamos potências de mesma base, somamos os expoentes:
+                                                                                𝑛
+                                                                  𝑒 −𝑛.𝜃 .𝜃∑𝑖=1 𝑥𝑖
+                                              𝐿(𝜃, 𝑥𝑖 ) =            ∏𝑛𝑖=1(𝑥𝑖 !)
+
+
+      Para simplificar, vamos trabalhar com o logaritmo natural dessa função. O logaritmo do
+      produto e do quociente correspondem à soma e à diferença dos logaritmos:
+                                             𝑛
+                                    𝑒 −𝑛.𝜃 .𝜃∑𝑖=1 𝑥𝑖                  𝑛
+                 ln 𝐿(𝜃, 𝑥𝑖 ) = ln ( ∏𝑛 (𝑥 !) ) = ln(𝑒 −𝑛.𝜃 ) + ln(𝜃 ∑𝑖=1 𝑥𝑖 ) − ∑𝑛𝑖=1 ln(𝑥𝑖 !)
+                                         𝑖=1 𝑖
+
+
+      E o logaritmo da potência é igual ao produto do logaritmo:
+
+                              ln 𝐿(𝜃, 𝑥𝑖 ) = −𝑛. 𝜃 + ∑𝑛𝑖=1 𝑥𝑖 . ln 𝜃 − ∑𝑛𝑖=1 ln(𝑥𝑖 !)
+
+                                                                                                                      1
+      Agora, derivamos essa função em relação a 𝜃, sabendo que a derivada de ln 𝜃 é 𝜃:
+
+                                             𝜕 ln 𝐿(𝜃,𝑥𝑖 )                     ∑𝑛
+                                                                                𝑖=1 𝑥𝑖
+                                                             = −𝑛 +
+                                                   𝜕𝜃                               𝜃
+
+
+      E igualamos a derivada a zero (equação de log-verossimilhança):
+
+                                          𝜕 ln 𝐿(𝜃,𝑥𝑖 )                      ∑𝑛
+                                                                              𝑖=1 𝑥𝑖
+                                                          = −𝑛 +                        =0
+                                              𝜕𝜃                               𝜃
+
+                                                          ∑𝑛
+                                                           𝑖=1 𝑥𝑖
+                                                                      =𝑛
+                                                             𝜃
+
+                                                             ∑𝑛
+                                                              𝑖=1 𝑥𝑖
+                                                   𝜃=                        = 𝑋̅
+                                                                  𝑛
+
+      E assim confirmarmos que a estimativa MV da distribuição de Poisson é a média amostral.
+
+      Receita Federal (Analista Tributário) Estatística                                                                   62
+      www.estrategiaconcursos.com.br                                                                                      297
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                                                   1
+Para uma variável com distribuição exponencial, a média é o inverso do parâmetro: 𝐸(𝑋) = 𝜆, então a
+estimativa de máxima verossimilhança para o parâmetro 𝜆 é o inverso da média amostral (que também é
+um estimador eficiente):
+
+                                                                    𝑛          1
+                                                   𝜆̂
+                                                    𝑀𝑉 =                  =
+                                                              ∑𝑛𝑖=1 𝑋𝑖         ̅
+                                                                               𝑿
+
+Por exemplo, vamos supor que queiramos estimar o tempo de duração de uma lâmpada incandescente.
+Foram selecionadas 𝑛 = 5 lâmpadas e observadas as seguintes durações, em horas, {50, 52, 46, 48, 54}.
+A média dessa amostra é:
+
+                                   ∑𝑛𝑖=1 𝑋𝑖 50 + 52 + 46 + 48 + 54 250
+                             ̅=
+                             𝑿             =                      =    = 50
+                                      𝑛               5             5
+
+E a estimativa do parâmetro dessa distribuição, por MMV, é o inverso da média amostral:
+
+                                                   1   1
+                                          𝜆̂
+                                           𝑀𝑉 =      =   = 0,02 𝑝𝑜𝑟 ℎ𝑜𝑟𝑎
+                                                   ̅ 50
+                                                   𝑿
+
+        Vamos calcular o estimador de máxima verossimilhança para a distribuição exponencial. A
+        função densidade de probabilidade dessa variável é 𝑓(𝜃, 𝑥) = 𝜃. 𝑒 −𝜃.𝑥 .
+
+        Primeiro, calculamos a função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ), que corresponde ao
+        produto das funções de probabilidade, aplicadas para os resultados da amostra:
+                                                                                               𝑛
+                       𝐿(𝜃, 𝑥𝑖 ) = 𝜃. 𝑒 −𝜃.𝑥1 × 𝜃. 𝑒 −𝜃.𝑥2 × … × 𝜃. 𝑒 −𝜃.𝑥𝑛 = 𝜃 𝑛 . 𝑒 −𝜃.∑𝑖=1 𝑥𝑖
+
+        Agora, aplicamos o logaritmo natural dessa função:
+                                                                𝑛
+                              ln 𝐿(𝜃, 𝑥𝑖 ) = ln(𝜃 𝑛 . 𝑒 −𝜃.∑𝑖=1 𝑥𝑖 ) = 𝑛. ln 𝜃 − 𝜃. ∑𝑛𝑖=1 𝑥𝑖
+
+        Em seguida, igualamos a derivada dessa função a zero (equação de log-verossimilhança):
+
+                                             𝜕 ln 𝐿(𝜃,𝑥𝑖 )     𝑛
+                                                             = 𝜃 − ∑𝑛𝑖=1 𝑥𝑖 = 0
+                                                 𝜕𝜃
+
+                                                        𝑛
+                                                             = ∑𝑛𝑖=1 𝑥𝑖
+                                                        𝜃
+
+                                                                   𝑛      1
+                                                      𝜃 = ∑𝑛            = 𝑋̅
+                                                               𝑖=1 𝑥𝑖
+
+        Receita Federal (Analista Tributário) Estatística                                              63
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+          Um estimador de máxima verossimilhança não depende diretamente da amostra, somente
+          por meio da estatística, desde que ela seja suficiente2.
+
+Para uma variável aleatória com distribuição de Bernoulli, o estimador de máxima verossimilhança para 𝑝 é
+a proporção amostral (que segue a mesma definição de média amostral e também é eficiente):
+                                                               ∑𝑛𝑖=1 𝑋𝑖
+                                                      𝑝̂
+                                                       𝑀𝑉 =              ̂
+                                                                        =𝒑
+                                                                  𝑛
+Por exemplo, vamos supor que queiramos estimar a proporção 𝑝 de peças defeituosas produzidas por uma
+fábrica. Para isso, foi selecionada uma amostra de 𝑛 = 10 elementos que apresentou o seguinte resultado
+(em que 1 representa o defeito e 0 representa a peça boa): {0, 0, 1, 0, 0, 0, 0, 1, 0, 0}.
+O estimador de máxima verossimilhança para essa distribuição é a proporção amostral:
+                            ∑𝑛𝑖=1 𝑋𝑖 0 + 0 + 1 + 0 + 0 + 0 + 0 + 1 + 0 + 0    2
+                      𝑝̂
+                       𝑀𝑉 =         =                                      =    = 0,2
+                               𝑛                      10                     10
+Para uma distribuição geométrica, que representa o número de tentativas até o primeiro sucesso, a média
+                                                               1
+é o inverso da probabilidade de sucesso: 𝐸(𝑋) = 𝑝, então o estimador de máxima verossimilhança para a
+proporção 𝑝 é o inverso da média amostral (que é um estimador eficiente):
+                                                                   𝑛        1
+                                                     𝑝̂
+                                                      𝑀𝑉 =             =
+                                                               ∑𝑛𝑖=1 𝑋𝑖 𝑿̅
+
+2
+  Essa conclusão é consequência do Teorema de Neyman-Fisher ou Teorema da Fatorização, segundo o qual uma estatística
+𝑇(𝑋) = 𝑡 é considerada suficiente se, e somente se, a função conjunta aplicada à amostra 𝑓(𝜃, 𝑥𝑖 ) puder ser fatorada como uma
+função 𝑔(𝑡, 𝜃), que depende da amostra apenas por meio da estatística 𝑡, multiplicada por uma função ℎ(𝑥𝑖 ), que independe de
+𝜃. Assim, podemos indicar a função de máxima verossimilhança como:
+                                           𝑛              𝑛                               𝑛
+
+                                𝐿(𝜃, 𝑥𝑖 ) = ∏ 𝑓(𝜃, 𝑥𝑖 ) = ∏[𝑔(𝜃, 𝑡) × ℎ(𝑥𝑖 )] = 𝑔(𝜃, 𝑡) × ∏ ℎ(𝑥𝑖 )
+                                          𝑖=1            𝑖=1                             𝑖=1
+
+E o logaritmo dessa função é:
+                                                                           𝑛
+
+                                                ln 𝐿(𝜃, 𝑥𝑖 ) = ln 𝑔(𝜃, 𝑡) + ∑ ℎ(𝑥𝑖 )
+                                                                          𝑖=1
+
+Em seguida, igualamos a zero a derivada dessa função em relação a 𝜃. Como a função ℎ(𝑥𝑖 ) não depende de 𝜃, a sua derivada é
+nula, logo:
+                                                 𝜕[ln 𝐿(𝜃, 𝑥𝑖 )] 𝜕[ln 𝑔(𝜃, 𝑡)]
+                                                                =              =0
+                                                      𝜕𝜃              𝜕𝜃
+Em outras palavras, a função que permite calcular o estimador de máxima verossimilhança não depende diretamente da amostra
+𝑥𝑖 , apenas por meio da estatística 𝑡.
+
+
+          Receita Federal (Analista Tributário) Estatística                                                                64
+          www.estrategiaconcursos.com.br                                                                                  297
+
+                                          
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+Vamos supor que 5 pessoas estejam jogando para ver quem consegue primeiro a face CARA lançando uma
+mesma moeda viciada (não equilibrada). Vamos considerar que os resultados foram {3, 4, 2, 5, 1}. A média
+amostral desses resultados é:
+                                            ∑𝑛𝑖=1 𝑋𝑖 3 + 4 + 2 + 5 + 1 15
+                                      ̅=
+                                      𝑿             =                 =   =3
+                                               𝑛             5          5
+Logo, a probabilidade de obter a face CARA nessa moeda, pelo método da máxima verossimilhança, é:
+                                                                   1 1
+                                                          𝑝̂
+                                                           𝑀𝑉 =      =
+                                                                   ̅ 3
+                                                                   𝑿
+Para uma variável uniforme no intervalo (0, 𝜃), o estimador de máxima verossimilhança para 𝜃 é o maior
+valor observado na amostra, que pode ser indicado como 𝑋(𝑛) .
+
+Essa estatística é suficiente para o parâmetro populacional3.
+
+3
+ Para verificar isso, devemos calcular a função densidade conjunta da amostra condicionada à estatística. Se essa função não
+depender do parâmetro 𝜃, concluímos que a estatística é suficiente.
+
+Sabendo que a variável segue distribuição uniforme no intervalo [0, 𝜃], a sua função densidade é:
+                                                                      1
+                                                             𝑓(𝑥) =
+                                                                      𝜃
+Como essa função não depende de 𝑥, a função densidade conjunta de uma amostra de tamanho 𝑛 é:
+                                                                                1    1  1
+                                      𝑓(𝑥1 , … , 𝑥𝑛 ) = 𝑓(𝑥1 ) × … × 𝑓(𝑥𝑛 ) =     ×…× = 𝑛
+                                                                                𝜃    𝜃 𝜃
+
+Agora, vejamos a função de distribuição da estatística 𝑋(𝑛) . Para que o maior valor da amostra seja menor ou igual a determinado
+valor 𝑡, é necessário que todos os valores da amostra sejam menores ou iguais a 𝑡:
+
+                                      𝐹𝑇 (𝑡) = 𝑃(𝑋(𝑛) ≤ 𝑡) = 𝑃(𝑋1 ≤ 𝑡) × … × 𝑃(𝑋𝑛 ≤ 𝑡)
+Por sua vez, a probabilidade de um elemento da amostra qualquer ser menor ou igual a 𝑡 corresponde à função de distribuição
+acumulada da variável uniforme:
+                                                                                 𝑡     𝑡   𝑡 𝑛
+                                 𝐹𝑇 (𝑡) = 𝑃(𝑋(𝑛) ≤ 𝑡) = 𝐹(𝑡) × … × 𝐹(𝑡) =          × …× = ( )
+                                                                                 𝜃     𝜃   𝜃
+
+Essa é a função de distribuição de 𝑋(𝑛) . A função densidade da estatística corresponde a sua derivada:
+                                                      𝑑 𝑡 𝑛      1 𝑑          𝑛
+                                           𝑓𝑇 (𝑡) =     [( ) ] = 𝑛 . [𝑡 𝑛 ] = 𝑛 𝑡 𝑛−1
+                                                      𝑑𝑡 𝜃      𝜃 𝑑𝑡         𝜃
+
+Agora, podemos calcular a função densidade conjunta da amostra condicionada à estatística:
+                                                                                        1
+                                                        𝑓(𝑥1 , … , 𝑥𝑛 , 𝑡 = 𝑋(𝑛) )     𝜃 𝑛       1
+                                𝑓(𝑥1 , … , 𝑥𝑛 |𝑇 = 𝑡) =                            = 𝑛       =     𝑛−1
+                                                                 𝑓𝑇 (𝑡)                 𝑡 𝑛−1 𝑛. 𝑡
+                                                                                     𝜃𝑛
+
+Como essa função não depende de 𝜃, concluímos que a estatística 𝑇 = 𝑋(𝑛) é suficiente.
+
+          Receita Federal (Analista Tributário) Estatística                                                                   65
+          www.estrategiaconcursos.com.br                                                                                     297
+
+                                         
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+No entanto, o maior valor da amostra é um estimador viesado, pois a sua esperança é dada por4:
+                                                                        𝑛
+                                                          𝐸(𝑋(𝑛) ) =       𝜃
+                                                                       𝑛+1
+Que é diferente de 𝜃.
+                                                                                                   𝑛
+Portanto, para obter o estimador não viesado para 𝜃, devemos dividir 𝑋(𝑛) por 𝑛+1, ou seja:
+
+                                                                 𝑛+1                1
+                                          𝜃̂𝑀𝑉 = 𝑋(𝑛) × (            ) = 𝑋(𝑛) × (1 + )
+                                                                  𝑛                 𝑛
+Segundo o Teorema de Lehmann-Scheffé, um estimador não viesado, que seja função de uma estatística
+completa e suficiente, é o estimador não viesado de variância mínima (MVUE - Minimum Variance Unbiased
+Estimator). Esse estimador satisfaz ambas as condições, logo, ele apresenta variância mínima.
+
+             Os Estimadores de Máxima Verossimilhança são consistentes, ou seja, convergem para o
+             parâmetro estimado. Isso implica que, para grandes amostras (𝑛 → ∞), eles são não
+             viciados de variância mínima (eficiência assintótica). Além disso, para grandes amostras,
+             seguem distribuição aproximadamente normal.
+
+             Tais estimadores também apresentam a propriedade da invariância, ou seja, se 𝜃̂𝑀𝑉 é o
+             estimador de máxima verossimilhança para 𝜃, então qualquer função desse estimador
+             𝑓(𝜃̂𝑀𝑉 ) também será o estimador de máxima verossimilhança para 𝑓(𝜃).
+
+4
+    Para calcular a esperança da estatística, vamos primeiro obter a função de distribuição acumulada de 𝑋(𝑛) :
+
+                                 𝐹𝑋(𝑛) (𝑥) = 𝑃(𝑋(𝑛) ≤ 𝑥) = 𝑃(𝑋1 ≤ 𝑥) × … × 𝑃(𝑋𝑛 ≤ 𝑥) = [𝐹(𝑥)]𝑛
+                                                                                                                       𝑥
+Sabendo que a variável segue distribuição uniforme no intervalo [0, 𝜃], a sua função de distribuição acumulada é 𝐹(𝑥) = , logo:
+                                                                                                                       𝜃
+                                                                         𝑥 𝑛
+                                                            𝐹𝑋(𝑛) (𝑥) = [ ]
+                                                                         𝜃
+
+E a sua função densidade corresponde à derivada dessa função:
+                                                         𝑑 𝑥 𝑛      1 𝑑          𝑛
+                                           𝑓𝑋(𝑛) (𝑥) =     [( ) ] = 𝑛 . [𝑥 𝑛 ] = 𝑛 𝑥 𝑛−1
+                                                         𝑑𝑥 𝜃      𝜃 𝑑𝑥         𝜃
+
+Agora, podemos calcular a sua esperança, sabendo que a variável assume valores no intervalo [0, 𝜃]:
+                                      𝜃                       𝜃                    𝜃
+                                          𝑛              𝑛              𝑛 𝑥 𝑛+1     𝑛 𝜃 𝑛+1   𝑛
+                          𝐸(𝑋(𝑛) ) = ∫ 𝑥. 𝑛 𝑥 𝑛−1 . 𝑑𝑥 = 𝑛 ∫ 𝑥 𝑛 . 𝑑𝑥 = 𝑛 [     ] = 𝑛.      =   𝜃
+                                         𝜃              𝜃              𝜃 𝑛+1 0 𝜃 𝑛+1 𝑛+1
+                                     0                       0
+
+            Receita Federal (Analista Tributário) Estatística                                                               66
+            www.estrategiaconcursos.com.br                                                                                 297
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2015 – Telebras) Considerando que os principais métodos para a estimação pontual são o método
+dos momentos e o da máxima verossimilhança, julgue o item a seguir.
+Para a distribuição normal, o método dos momentos e o da máxima verossimilhança fornecem os mesmos
+estimadores aos parâmetros μ e σ.
+Comentários:
+Para uma distribuição normal, o estimador da média, segundo o método da máxima verossimilhança, é a
+média amostral 𝑋̅, o mesmo estimador obtido pelo método dos momentos. E o estimador da variância,
+segundo o método da máxima verossimilhança, para uma população normal, é 𝜎̂2 = 1 ∑𝑛 (𝑥𝑖 − 𝑥̅ )2 , que
+                                                                               𝑛 𝑖=1
+também é o mesmo estimador obtido pelo método dos momentos.
+Gabarito: Certo.
+
+
+(CESPE/2015 – Telebras) Considerando que os principais métodos para a estimação pontual são o método
+dos momentos e o da máxima verossimilhança, julgue o item a seguir.
+O estimador da máxima verossimilhança para a variância da distribuição normal é expresso por
+̂2 = 1 ∑𝑛 (𝑥𝑖 − 𝑥̅ )2 e este estimador é não viciado.
+𝜎    𝑛 𝑖=1
+
+Comentários:
+                     ̂2 = 1 ∑𝑛 (𝑥𝑖 − 𝑥̅ )2 é o estimador de máxima verossimilhança para a variância de
+De fato, o estimador 𝜎    𝑛 𝑖=1
+uma população com distribuição normal, porém esse estimador é viciado.
+Gabarito: Errado.
+
+
+(CESPE/2016 – TCE/PA) Uma amostra aleatória com n = 16 observações independentes e identicamente
+distribuídas (IID) foi obtida a partir de uma população infinita, com média e desvio padrão desconhecidos e
+distribuição normal. Tendo essa informação como referência inicial, julgue o seguinte item.
+Caso, em uma amostra aleatória de tamanho n = 4, os valores amostrados sejam A = {2, 3, 0, 1}, a estimativa
+                                                                     5
+de máxima verossimilhança para a variância populacional será igual a 3.
+Comentários:
+A estimativa de máxima verossimilhança para a variância de uma população normal, é:
+
+                                          ̂2
+                                                ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                         𝜎𝑀𝑉 =
+                                                       𝑛
+Para calculá-la, precisamos primeiramente da média amostral, 𝑋̅:
+                                              ∑ 𝑋𝑖 2 + 3 + 0 + 1 6
+                                       𝑋̅ =       =             = = 1,5
+                                               𝑛         4       4
+
+        Receita Federal (Analista Tributário) Estatística                                               67
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A estimativa é, portanto:
+
+    ̂
+    2
+         (2 − 1,5)2 + (3 − 1,5)2 + (0 − 1,5)2 + (1 − 1,5)2 (0,5)2 + (1,5)2 + (−1,5)2 + (−0,5)2
+   𝜎𝑀𝑉 =                                                  =
+                                 4                                          4
+                                      0,25 + 2,25 + 2,25 + 0,25 5
+                               𝜎̂2
+                                𝑀𝑉 =                           =
+                                                  4              4
+                                               5
+Que é diferente do valor indicado no item 3, que corresponde ao estimador não tendencioso para a variância
+(variância amostral), e não aquele obtido pelo método da máxima verossimilhança.
+Gabarito: Errado.
+
+
+(FGV/2022 – SEFAZ/ES) Uma amostra aleatória simples de tamanho 4 de uma população normalmente
+distribuída forneceu os seguintes dados: 2,1 3,8 3,1 3,0. As estimativas de máxima verossimilhança da
+média e da variância populacionais são respectivamente
+a) 3,0 e 0,486
+b) 2,8 e 0,386
+c) 2,8 e 0,535
+d) 3,0 e 0,544
+e) 3,0 e 0,365
+Comentários:
+Essa questão trabalha com o método de máxima verossimilhança para estimar a média e a variância de uma
+população com distribuição normal. Para estimar a média populacional, utilizamos a média amostral:
+                                    ∑ 𝑥 2,1 + 3,8 + 3,1 + 3,0 12
+                                   𝑋̅ ==                         =    =3
+                                     𝑛              4               4
+Já a estimativa de máxima verossimilhança para a variância é o estimador tendencioso, em que dividimos a
+soma dos quadrados dos desvios por 𝑛, e não por 𝑛 − 1:
+
+                                            ̂
+                                            2
+                                                 ∑(𝑥𝑖 − 𝑋̅)2
+                                           𝜎𝑀𝑉 =
+                                                       𝒏
+Para calcular o numerador, vamos construir uma tabela com os desvios:
+
+E o numerador é a soma dos valores da última linha:
+
+                                 ∑(𝑥𝑖 − 𝑋̅)2 = 0,81 + 0,64 + 0,01 + 0 = 1,46
+
+Para calcular o estimador da variância, dividimos esse resultado por 𝑛 = 4:
+                                                         1,46
+                                                   𝜎̂
+                                                    2
+                                                    𝑀𝑉 =      = 0,365
+                                                           4
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Estatística                                              68
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(FGV/2017 – IBGE) Seja X uma variável aleatória com função de probabilidade dada por 𝑃(𝑋 = 𝑥) = 𝑝. (1 −
+𝑝)𝑥−1 para x = 1, 2, 3,..., onde p é um parâmetro desconhecido. Dispondo de uma amostra de tamanho n,
+x1, x2, x3,...., xn, o estimador de Máxima Verossimilhança de p é:
+a) 𝑝̂ = ∑ 𝑥𝑖
+         1
+b) 𝑝̂ = ∑ 𝑥
+              𝑖
+       ∑ 𝑥𝑖
+c) 𝑝̂ = 𝑛
+         𝑛
+d) 𝑝̂ = ∑ 𝑥
+              𝑖
+        𝑛
+e) 𝑝̂ = √∑ 𝑥𝑖
+Comentários:
+Podemos observar que a função de probabilidade fornecida na questão é de uma variável com distribuição
+geométrica. Para essa variável, o estimador de máxima verossimilhança é o inverso da média amostral:
+                                                                  𝑛       1
+                                                        𝑝̂
+                                                         𝑀𝑉 =           =
+                                                                ∑𝑛𝑖=1 𝑋𝑖 𝑿̅
+Gabarito: D
+
+
+(CESPE/2013 – MPU) Suponha que x1, ..., xn seja uma sequência de cópias independentes retiradas de uma
+                                                                                  −𝛼𝑥2
+distribuição com função densidade de probabilidade 𝑓(𝑥) = 𝛼. 𝑥. 𝑒 2 , em que x ≥ 0 e 𝛼 > 0 é seu
+parâmetro. Com base nessas informações, julgue o item a seguir.
+Supondo que (x1, ..., x5) = (3, 4, 4, 6, 6), a estimativa de máxima verossimilhança do parâmetro 𝛼 é inferior a
+1/10.
+Comentários:
+O primeiro passo é calcular a função de máxima verossimilhança 𝐿(𝛼, 𝑥𝑖 ), dada pelo produto das funções
+de probabilidade, aplicadas para cada resultado da amostra:
+                                            𝑛
+
+                             𝐿(𝜃, 𝑥𝑖 ) = ∏ 𝑓(𝛼, 𝑥𝑖 ) = 𝑓(𝛼, 𝑥1 ) × 𝑓(𝛼, 𝑥2 ) × … × 𝑓(𝛼, 𝑥𝑛 )
+                                          𝑖=1
+
+Para o nosso caso, temos:
+                                                  𝑛               𝑛
+                                                        −𝛼𝑥𝑖2               −𝛼 𝑛    2
+                                                                              ∑
+                                 𝐿(𝛼, 𝑥𝑖 ) = ∏ 𝛼. 𝑥𝑖 . 𝑒 2 = 𝛼 . (∏ 𝑥𝑖 ) . 𝑒 2 𝑖=1 𝑥𝑖
+                                                              𝑛
+
+                                                  𝑖=1                     𝑖=1
+
+Agora, calculamos o logaritmo natural (na base 𝑒) dessa função, sabendo que o logaritmo do produto
+corresponde à soma dos logaritmos; e o logaritmo da potência é igual ao produto do logaritmo:
+                                                   𝑛                                    𝑛           𝑛
+                                                             −𝛼 𝑛
+                                                                ∑𝑖=1 𝑥𝑖2                        𝛼
+                     ln 𝐿(𝛼, 𝑥𝑖 ) = ln [𝛼   𝑛
+                                                . (∏ 𝑥𝑖 ) . 𝑒 2          ] = 𝑛. ln 𝛼 + ∑ ln 𝑥𝑖 − . ∑ 𝑥𝑖2
+                                                                                                2
+                                                   𝑖=1                                 𝑖=1         𝑖=1
+
+Agora, calculamos a derivada dessa função em relação a 𝛼; e a igualamos a zero (equação de log-
+verossimilhança):
+
+            Receita Federal (Analista Tributário) Estatística                                               69
+            www.estrategiaconcursos.com.br                                                                 297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                          𝜕 ln 𝐿(𝛼, 𝑥𝑖 ) 𝑛 ∑𝑛𝑖=1 𝑥𝑖2
+                                                        = −          =0
+                                               𝜕𝛼         𝛼       2
+                                                     𝑛 ∑𝑛𝑖=1 𝑥𝑖2
+                                                        =
+                                                     𝛼       2
+                                                            2𝑛
+                                                     𝛼= 𝑛 2
+                                                          ∑𝑖=1 𝑥𝑖
+Encontramos o estimador de máxima verossimilhança para 𝛼. Para a amostra descrita no enunciado, temos:
+                              2×5                         10              10      1
+                  𝛼= 2                       =                         =       <
+                     3 + 42 + 42 + 62 + 62 9 + 16 + 16 + 36 + 36 113 10
+Gabarito: Certo.
+
+Método de Mínimos Quadrados
+
+O Método de Mínimos Quadrados busca a estimativa 𝜃̂   𝑀𝑄 que resulta no menor valor para o quadrado das
+diferenças entre os valores observados 𝑋𝑖 e o estimador 𝜃̂
+                                                         𝑀𝑄 :
+                                                        𝑛
+                                                                  2
+                                                 Min ∑(𝑋𝑖 − 𝜃̂
+                                                             𝑀𝑄 )
+                                                       𝑖=1
+
+Ou seja, o método busca minimizar o erro quadrático total da amostra. Assim, 𝜃̂
+                                                                              𝑀𝑄 é chamado de Estimador
+de Mínimos Quadrados (EMQ) para o parâmetro populacional 𝜃. Esse método é utilizado quando não se
+conhece o tipo de distribuição da variável.
+
+        O estimador de mínimos quadrados para a média populacional, 𝜇̂
+                                                                     𝑀𝑄 , é igual à média
+        amostral:
+                                                        𝜇̂    ̅
+                                                         𝑀𝑄 = 𝑿
+
+
+        Similarmente, o estimador de mínimos quadrados para a proporção populacional, 𝑝̂
+                                                                                       𝑀𝑄 , é
+        a proporção amostral:
+                                                        𝑝̂    ̂
+                                                         𝑀𝑄 = 𝒑
+
+        Receita Federal (Analista Tributário) Estatística                                           70
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 11
+
+      A média amostral é o estimador para a média populacional obtido pelo método dos
+      momentos (EMM) e pelo método dos mínimos quadrados (EMQ).
+
+      Se a população tiver distribuição normal, a média amostral também é o estimador obtido
+      pelo método da máxima verossimilhança (EMV).
+
+      A proporção amostral é o estimador para a proporção populacional obtido pelo método
+      dos mínimos quadrados (EMQ) e pelo método da máxima verossimilhança (EMV).
+
+      O estimador para a variância obtido pelo método dos momentos (EMM) e pelo método
+      da máxima verossimilhança (EMV) é tendencioso.
+
+      Receita Federal (Analista Tributário) Estatística                                        71
+      www.estrategiaconcursos.com.br                                                           297
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                   ESTIMAÇÃO INTERVALAR
+Após obtermos uma estimativa para o parâmetro populacional desejado (estimação pontual), calculamos
+um intervalo associado a esse parâmetro. Ou seja, na estimação intervalar (ou estimação por intervalos), a
+estimativa deixa de ser um ponto (isto é, um valor único) e passa a ser um intervalo. Esse intervalo, chamado
+intervalo de confiança, fornece uma noção da precisão da estimativa.
+
+O intervalo de confiança é construído em torno da estimativa pontual 𝜃̂, da forma (𝜽     ̂ − 𝑬; 𝜽
+                                                                                                ̂ + 𝑬), que
+também pode ser indicado como 𝜽       ̂ ± 𝑬. Esse intervalo indica que o parâmetro populacional 𝜃 deve estar
+entre o limite inferior, 𝜃̂ − 𝐸, e o limite superior 𝜃̂ + 𝐸. O valor 𝐸 corresponde à metade da amplitude do
+intervalo, podendo ser chamado de margem de erro, erro de precisão, erro máximo.
+
+
+Como assim o parâmetro “deve” estar no intervalo? É possível que o parâmetro 𝜃 esteja fora desse intervalo?
+Por se tratar de um intervalo construído em torno de uma variável aleatória, sim! Em Inferência Estatística,
+sempre convivemos com um nível de dúvida. Mas, felizmente, é possível dimensionar esse nível de dúvida.
+Assim, atribuímos ao intervalo um nível (ou grau) de confiança 𝟏 − 𝜶, indicado em forma percentual, por
+exemplo, 95%. A interpretação desse nível é a seguinte: repetindo o procedimento para a construção do
+intervalo muitas vezes, em (1 − 𝛼)% (por exemplo, 95%) dessas vezes, o intervalo construído incluirá o
+parâmetro populacional.
+Ou seja, o nível de confiança é uma probabilidade. Porém, não se trata da probabilidade de o parâmetro
+populacional pertencer ao intervalo, uma vez que o parâmetro populacional é fixo (embora seja
+desconhecido). O nível de confiança representa a probabilidade de o intervalo, o qual é construído a partir
+de variáveis aleatórias, incluir o parâmetro populacional.
+
+
+Quanto maior o nível de confiança (1 − 𝛼), ou seja, quanto maior for a probabilidade de o intervalo incluir
+o parâmetro populacional, maior será o tamanho do intervalo, se mantivermos as demais características
+iguais. Logo, maior será a margem de erro (isto é, a semi-amplitude do intervalo).
+Se, para isso, a margem de erro não puder aumentar, então teremos que aumentar o tamanho da amostra.
+Ou seja, para termos uma estimativa mais precisa (com menor margem de erro e/ou com maior nível de
+confiança), teremos que investigar um número maior de elementos. Veremos as fórmulas dessas relações
+adiante, mas é importante entender essa lógica por trás delas.
+
+
+E o valor de 𝛼? 𝛼, chamado de nível de significância, é o complementar do nível de confiança e corresponde
+à probabilidade de o intervalo de confiança não englobar o parâmetro populacional.
+
+
+Nas próximas seções, veremos como construir o intervalo de confiança para os parâmetros populacionais
+(média, proporção e variância), a partir dos respectivos estimadores.
+
+        Receita Federal (Analista Tributário) Estatística                                                 72
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE/2019 – TJ/AM) Acerca de métodos usuais de estimação intervalar, julgue o item subsecutivo. Um
+intervalo de confiança de 95% descreve a probabilidade de um parâmetro estar entre dois valores numéricos
+na próxima amostra não aleatória a ser coletada.
+Comentários:
+Existem alguns erros neste item. A estimação, de modo geral, trabalha com amostras aleatórias já coletadas.
+Além disso, não se trata da probabilidade de o parâmetro estar entre dois valores, mas sim de os dois valores
+englobarem o parâmetro.
+Gabarito: Errado.
+
+
+(CESPE/2019 – TJ/AM) Acerca de métodos usuais de estimação intervalar, julgue o item subsecutivo. É
+possível calcular intervalos de confiança para a estimativa da média de uma distribuição normal,
+representativa de uma amostra aleatória.
+Comentários:
+De fato, é possível calcular intervalos de confiança para a média, a partir de uma amostra aleatória.
+Gabarito: Certo.
+
+
+(FGV/2019 – DPE-RJ – Adaptada) Para a aplicação de técnica de estimação por intervalos, há uma série de
+requisitos e recomendações. Sobre essas condições, julgue os seguintes.
+I – A amplitude do intervalo varia positivamente com o grau de confiança e o tamanho da amostra.
+II – A ideia da técnica é a da construção de um intervalo ao qual seja possível associar uma probabilidade,
+justamente aquela de que o parâmetro de interesse esteja nele contido.
+III – É inquestionável que, antes da seleção da amostra, o grau de confiança é a probabilidade de o intervalo
+teórico conter de fato o verdadeiro valor do parâmetro de interesse.
+Comentários:
+Em relação ao item I, quanto maior o nível de confiança, maior será a amplitude do intervalo, logo essas
+grandezas, de fato, variam no mesmo sentido. Porém, quanto maior o tamanho da amostra, menor será a
+amplitude do intervalo. Logo, essas grandezas variam em sentidos opostos e o item I está errado.
+Em relação ao item II, não se trata de uma probabilidade de o parâmetro de interesse (que é fixo) estar
+contido no intervalo construído, mas sim de o intervalo construído conter o parâmetro de interesse, logo o
+item II está errado.
+Em relação ao item III, o grau de confiança (1 − 𝛼), de fato, representa a probabilidade de o intervalo conter
+o parâmetro de interesse.
+Resposta: Itens I e II Errados; Item III Certo.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  73
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Intervalo de Confiança para a Média
+
+Para estimarmos a média populacional, utilizamos a média amostral como estimador. Porém, para
+construirmos um intervalo de confiança em torno desse estimador, é necessário saber se a variância
+populacional é conhecida ou não.
+
+População com Variância Conhecida
+
+Se a população tiver variância conhecida 𝜎 2 e distribuição normal (ou se apresentar outra distribuição, mas
+o tamanho da amostra for suficientemente grande), a média amostral 𝑋̅ terá distribuição normal.
+Assim, consideramos a curva normal para construir um intervalo que delimite uma probabilidade de 𝟏 − 𝜶
+                                                            ==219a34==
+
+em torno de 𝑿̅ . Ou seja, devemos encontrar os valores de 𝑋 que delimitam uma área sob a curva normal,
+correspondente a 1 − 𝛼:
+
+                                                        1−𝛼
+
+                                              𝑋̅ − 𝐸                     𝑋̅       𝑋̅ + 𝐸
+
+
+Para encontrar os limites, devemos utilizar a tabela normal padrão e a transformação para a distribuição
+normal padrão 𝑍 (com média 0 e desvio padrão igual a 1):
+
+                                     𝑣𝑎𝑙𝑜𝑟 𝑝𝑟𝑜𝑐𝑢𝑟𝑎𝑑𝑜 − 𝑚é𝑑𝑖𝑎 𝑑𝑎 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜
+                                𝑧=
+                                          𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜 𝑑𝑎 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜
+
+No caso, os valores procurados são 𝑋 = 𝑋̅ + 𝐸 e 𝑋 = 𝑋̅ − 𝐸; a média da distribuição é 𝑋̅; e o desvio padrão
+da distribuição é o erro padrão de 𝑋̅:
+                                                                                  𝜎
+                                                       𝐸𝑃(𝑋̅) =
+                                                                                  √𝑛
+Substituindo esses valores na fórmula da transformação, encontramos a expressão do erro:
+
+                                                       𝑋̅ + 𝐸 − 𝑋̅   𝐸
+                                                𝑧=          𝜎      = 𝜎
+                                                           √𝑛        √𝑛
+
+                                                                              𝜎
+                                                        𝐸 = 𝑧. 𝑛
+                                                                              √
+
+        Receita Federal (Analista Tributário) Estatística                                                74
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O intervalo de confiança 𝑋̅ ± 𝐸 é, portanto:
+
+                                                              𝜎           𝜎
+                                                     (𝑋̅ − 𝑧. 𝑛 ; 𝑋̅ + 𝑧. 𝑛)
+                                                                 √           √
+
+
+Esses limites podem ser chamados de valores críticos.
+
+
+E qual é o valor de 𝑧? Depende do nível de confiança.
+
+Por exemplo, suponha um nível de confiança de 95%. Para que toda a região delimitada pelo intervalo 𝑋̅ ± 𝐸
+delimite uma área de 1 − 𝛼 = 95%, então a área entre a média 𝑋̅ e o limite superior 𝑋̅ ± 𝐸 deve ser a
+metade (47,5%). Considerando a transformação para a normal padrão, temos 𝑃(0 < 𝑍 < 𝑧) = 0,475.
+
+
+                                    Z          ...        0,05        0,06        0,07    ...
+                                   ...         ...         ...         ...         ...    ...
+                                   1,8         ...       0,4678      0,4686      0,4693   ...
+                                   1,9         ...       0,4744      0,475       0,4756   ...
+                                    2          ...       0,4798      0,4803      0,4808   ...
+                                   ...         ...         ...         ...         ...    ...
+
+Pela tabela da normal padrão, temos 𝑧 = 1,96. Assim, se o nível de confiança for de 95%, o intervalo será:
+                                                                       𝜎
+                                                         𝑋̅ ± 1,96.
+                                                                      √𝑛
+
+
+Agora podemos entender melhor o raciocínio que vimos no início desta seção: quanto maior o nível de
+                                                                      𝜎
+confiança (maior valor de 𝒛), maior será a margem de erro 𝐸 = 𝑧. 𝑛 e, consequentemente, maior o
+                                                                     √
+tamanho do intervalo 𝑋̅ ± 𝐸, mantendo as demais características constantes.
+                                                                                                𝜎
+E quanto maior o tamanho da amostra 𝑛, menor será a margem de erro 𝐸 = 𝑧. 𝑛 e, consequentemente,
+                                                                              √
+menor o tamanho do intervalo 𝑋̅ ± 𝐸, mantendo as demais características constantes.
+Além disso, quanto maior a variabilidade da população (maior desvio padrão 𝜎), maior será a margem de
+             𝜎
+erro 𝐸 = 𝑧. 𝑛 e, consequentemente, maior o tamanho do intervalo 𝑋̅ ± 𝐸, mantendo as demais
+             √
+características constantes.
+
+
+Para exemplificar, vamos supor uma população com média desconhecida e variância igual 𝜎 2 = 9 (portanto,
+desvio padrão 𝜎 = √𝜎 2 = √9 = 3), sendo extraída uma amostra de 36 indivíduos. Considerando um nível
+de 1 − 𝛼 = 95% de confiança (em que 𝑧 = 1,96), a margem de erro é dada por:
+                                             𝜎                   3        3 1,96
+                              𝐸 = 1,96.              = 1,96.       = 1,96. =     = 0,98
+                                             √𝑛                √36        6   2
+
+
+        Receita Federal (Analista Tributário) Estatística                                                75
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Supondo que a média amostral tenha sido 𝑋̅ = 10, o intervalo de confiança é:
+
+                                            𝑋̅ + 𝐸 = 10 + 0,98 = 10,98
+                                             𝑋̅ − 𝐸 = 10 − 0,98 = 9,02
+                                                       (9,02; 10,98)
+
+
+A probabilidade associada aos valores não incluídos no intervalo de confiança é complementar (igual a 𝛼).
+Por se tratar de uma distribuição simétrica, a probabilidade associada aos valores superiores ao intervalo é
+𝛼⁄ e aos valores inferiores é também 𝛼⁄ :
+  2                                       2
+
+                                          𝛼⁄                              𝛼⁄
+                                            2           1−𝛼                 2
+
+                                              𝑋̅ − 𝐸        𝑋̅   𝑋̅ + 𝐸
+
+
+Por isso, é comum utilizar a notação 𝑧𝛼⁄2 para indicar o limite do intervalo na distribuição normal padrão (no
+nosso exemplo, temos 𝑧𝛼⁄2 = 1,96).
+
+        Esse método de construção do intervalo de confiança pode ser chamado de método da
+        quantidade pivotal.
+
+        Isso porque uma quantidade 𝑄(𝑿; 𝜃) é considerada pivotal quando a distribuição de 𝑄 não
+        depende do parâmetro populacional 𝜃, apenas dos valores observados na amostra 𝑿.
+
+Tamanho Amostral
+A questão pode fornecer, além do nível de confiança (1 − 𝛼), o valor do erro máximo tolerado (𝐸) e indague
+a respeito do tamanho necessário da amostra 𝑛. Para isso, podemos utilizar a mesma fórmula do erro que
+vimos há pouco:
+                                                                 𝜎
+                                                        𝐸 = 𝑧.
+                                                                 √𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                                  76
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Reorganizando essa fórmula, temos:
+
+                                                                  𝜎 2
+                                                      𝑛 = (𝑧. 𝐸 )
+
+Podemos observar que, quanto maior o nível de confiança desejado (𝑧), maior será o tamanho amostral; e
+quanto maior o erro máximo (𝐸), menor será o tamanho amostral.
+Pontue-se que o erro máximo também pode ser chamado de distância máxima (ou diferença máxima) entre
+a estimativa e o parâmetro populacional com probabilidade 1 − 𝛼.
+Ademais, em vez de fornecer o erro máximo, a questão pode fornecer a amplitude do intervalo de confiança,
+que corresponde ao dobro do erro máximo.
+No exemplo que vimos anteriormente, obtivemos uma margem de erro de 𝐸 = 0,98, com uma amostra de
+𝑛 = 36. Vamos supor que o erro máximo tolerável seja a metade, ou seja, 𝐸 = 0,49. Considerando que os
+demais valores permaneçam constantes, ou seja, 𝑧 = 1,96 e 𝜎 = 3, o tamanho da nova amostra 𝑛2 ,
+necessário para obter a margem de erro desejada é:
+
+                                  𝜎 2            3 2
+                          𝑛2 = (𝑧. ) = (1,96 ×      ) = (4 × 3)2 = (12)2 = 144
+                                  𝐸            0,49
+Note que o tamanho da amostra quadruplicou para que a margem de erro fosse reduzida à metade,
+mantendo o nível de confiança, para a mesma população (portanto, o mesmo desvio padrão).
+Na verdade, poderíamos verificar que isso aconteceria, sem conhecer os dados do problema. Vejamos: a
+amostra inicial é dada por:
+                                                             𝜎 2
+                                                     𝑛1 = (𝑧. )
+                                                             𝐸
+E a nova amostra necessária para que o erro se reduza à metade é:
+                                                 2
+                                          𝜎         𝜎    2        𝜎 2
+                                𝑛2 = (𝑧.     ) = (𝑧. . 2) = 4. (𝑧. ) = 4. 𝑛1
+                                         𝐸⁄         𝐸             𝐸
+                                           2
+                                                                  𝑛1
+Pontue-se que tais fórmulas pressupõem uma população infinita ou amostras extraídas com reposição.
+
+
+Fator de correção
+Caso a população seja finita e as amostras extraídas sem reposição, será necessário aplicar o fator de
+                                                                                             𝑁−𝑛
+correção para população finita. Para isso, devemos multiplicar a fórmula do erro pelo fator √ 𝑁−1:
+
+
+                                                            𝜎         𝑁−𝑛
+                                                  𝐸 = 𝑧.         .√
+                                                            √𝑛        𝑁−1
+
+        Receita Federal (Analista Tributário) Estatística                                             77
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Por exemplo, para uma amostra de tamanho 𝑛 = 36 com o mesmo nível de confiança (𝑧 = 1,96) e o mesmo
+desvio padrão populacional (𝜎 = 3), vamos calcular o novo valor da margem de erro, considerando que a
+população tem tamanho 𝑁 = 100:
+
+                                      3         100 − 36        3 64        8
+                        𝐸 = 1,96.          .√            = 1,96. √ ≅ 0,98.    ≅ 0,78
+                                     √36        100 − 1         6 99       10
+
+Enquanto a margem de erro para uma população infinita, considerando os mesmos parâmetros, é de 0,98,
+a margem de erro para a população finita é de 0,78.
+Essa redução do erro ocorre sempre que aplicamos o fator de correção, mantendo os demais parâmetros
+iguais, porque o fator é menor que 1, uma vez que o tamanho da amostra 𝑛 é maior que 1.
+
+                                                          𝑁−𝑛
+                                                      √       <1
+                                                          𝑁−1
+
+Porém, quando o tamanho da população 𝑁 for muito maior que o tamanho da amostra 𝑛, esse fator se
+aproxima de 1, tornando-se dispensável.
+
+
+Esse ajuste também diminui o tamanho da amostra necessário. Para calcular 𝑛, nessas condições, primeiro
+calculamos uma estimativa inicial para a amostra, como vimos anteriormente, desconsiderando o fator de
+correção:
+                                                             𝜎 2
+                                                     𝑛0 = (𝑧. )
+                                                             𝐸
+Em seguida, ajustamos a amostra:
+
+                                                            𝑁.𝑛0
+                                                       𝑛=
+                                                            𝑁+𝑛0
+
+
+A amostra ajustada 𝑛 é menor do que a amostra inicial 𝑛0 , porque o fator que multiplica 𝑛0 é menor que 1,
+sempre que 𝑛0 > 1:
+                                                        𝑁
+                                                             <1
+                                                      𝑁 + 𝑛0
+Para ilustrar, vamos supor os mesmos valores que vimos anteriormente, no cálculo do tamanho amostral,
+quais sejam 𝐸 = 0,49, 𝑧 = 1,96 e 𝜎 = 3. A amostra inicial será a mesma que calculamos anteriormente:
+
+                                                    3 2
+                                     𝑛0 = (1,96 ×      ) = (4 × 3)2 = 144
+                                                  0,49
+E a amostra ajustada, considerando uma população de tamanho 𝑁 = 1000, é:
+                                             1000 × 144 144.000
+                                        𝑛=              =       ≅ 126
+                                             1000 + 144   1.144
+
+        Receita Federal (Analista Tributário) Estatística                                              78
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+(CESPE 2020/TJ-PA) Uma equipe de engenheiros da qualidade, com vistas a estimar vida útil de determinado
+equipamento, utilizou uma amostra contendo 225 unidades e obteve uma média de 1.200 horas de duração,
+com desvio padrão de 150 horas.
+Considerando-se, para um nível de confiança de 95%, z = 1,96, é correto afirmar que a verdadeira duração
+média do equipamento, em horas, estará em um intervalo entre
+a) 1.190,00 e 1.210,00.
+b) 1.185,20 e 1.214,80.
+c) 1.177,50 e 1.222,50.
+d) 1.180,40 e 1.219,60.
+e) 1.174,20 e 1.225,80.
+Comentários:
+Vamos listar as informações do enunciado:
+•    Média amostral: 𝑋̅ = 1.200
+•    Nível de confiança: 𝓏 = 1,96
+•    Desvio padrão da população: 𝜎 = 150
+•    Tamanho da amostra: 𝑛 = 225
+Agora, substituímos esses dados na fórmula do intervalo de confiança para a média:
+                                                        𝜎
+                                              𝑋̅ ± 𝓏 ×
+                                                       √𝑛
+                                                          150
+                                         1200 ± 1,96 ×
+                                                         √225
+                                                          150
+                                          1200 ± 1,96 ×
+                                                           15
+                                           1200 ± 1,96 × 10
+                                                       1200 ± 19,6
+Logo, o intervalo é (1200 − 19,6 = 1180,4; 1200 + 19,6 = 1219,6)
+Gabarito: D.
+
+
+(FGV/2022 – TJDFT) Uma grande amostra foi selecionada para estimar o tempo médio de tramitação de um
+tipo particular de ação em uma comarca. Essa amostra demonstrou que o intervalo bilateral de 95% de
+confiança para o tempo médio de tramitação estava entre 8 e 10 anos.
+
+          Receita Federal (Analista Tributário) Estatística                                          79
+          www.estrategiaconcursos.com.br                                                             297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Com o objetivo de aumentar a precisão dessa estimativa, um estatístico resolveu diminuir a confiança para
+85%. O novo intervalo de confiança passou a ser, aproximadamente, igual a:
+a) 9 ± 0,26
+b) 9 ± 0,34
+c) 9 ± 0,72
+d) 9 ± 0,88
+e) 9 ± 1,44
+Nessa prova, foi fornecida a tabela normal padrão da forma P(Z > Z0), parcialmente replicada a seguir.
+
+Comentários:
+A questão informa que, para um nível de 95% de confiança, o intervalo para estimar a média foi (8; 10), ou
+seja, 9 ± 1. O erro portanto é dado por:
+                                                     𝜎
+                                          𝐸 = 𝓏95% .    =1
+                                                     √𝑛
+E a questão pede o novo intervalo, quando reduzimos o nível de confiança para 85%, sabendo que os demais
+parâmetros continuarão os mesmos.
+Assim, precisamos comparar o valor de z para 95% de confiança e o valor de z para 85% de confiança.
+A prova apresenta a tabela normal da forma P(Z > Z0). Para um nível de 1 − 𝛼 = 95% de confiança, resta
+𝛼                                                 𝛼
+  = 2,5% abaixo do limite inferior do intervalo e 2 = 2,5% acima do limite superior do intervalo.
+2
+
+Logo, precisamos do valor de Z0 associado a uma probabilidade P(Z > Z0) = 2,5% = 0,025. Pela tabela fornecida,
+temos que Z0 = 1,96 ≅ 2.
+                                                            𝛼                                𝛼
+Para um nível de 1 − 𝛼 = 85% de confiança, temos 2 = 7,5% abaixo do limite inferior e 2 = 7,5% acima
+do limite superior do intervalo.
+Logo, precisamos do valor de Z0 associado a uma probabilidade P(Z > Z0) = 7,5% = 0,075. Pela tabela fornecida,
+temos que Z0 = 1,44.
+Agora, vamos calcular a razão entre os valores de z:
+                                                 𝓏85% 1,44
+                                                      ≅    = 0,72
+                                                 𝑧95%   2
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  80
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Considerando que o erro é diretamente proporcional ao valor de z, a razão entre os erros segue essa mesma
+proporção:
+                                                        𝐸85%
+                                                             ≅ 0,72
+                                                        𝐸95%
+Sabendo que o erro a 95% de confiança é igual a 1, então o erro a 85% de confiança é:
+                                      𝐸85% ≅ 0,72 × 𝐸95% = 0,72 × 1 = 0,72
+Logo, o intervalo de confiança é da forma 9 ± 0,72.
+Gabarito: C
+
+
+(FCC/2014 - TRT/MA) Para responder às questões use, dentre as informações dadas abaixo, as que julgar
+apropriadas.
+Se Z tem distribuição normal padrão, então: P(Z<0,25)=0,599, P(Z<0,80)=0,84, P(Z<1)=0,841,
+P(Z<1,96)=0,975, P(Z<3,09)=0,999
+Considere X1, X2, ...Xn uma amostra aleatória simples, com reposição, da distribuição da variável X, que tem
+distribuição normal com média µ e variância 36. Seja X a média amostral dessa amostra.
+O valor de n para que a distância entre X e µ seja, no máximo, igual a 0,49, com probabilidade de 95% é igual
+a:
+a) 256
+b) 225
+c) 400
+d) 144
+e) 576
+Comentários:
+Ao dizer que a distância entre a média amostral (estimativa) e a média populacional (parâmetro
+populacional) seja no máximo igual a 0,49 com probabilidade de 95%, a questão forneceu o erro máximo
+𝐸 = 0,49 e o nível de confiança de 95%.
+Para que 95% da distribuição esteja no intervalo (𝑋̅ − 𝐸; 𝑋̅ + 𝐸), 2,5% da distribuição estará acima desse
+intervalo e 2,5% abaixo:
+
+                                           2,5%          95%               2,5%
+
+                                               𝑋̅ − 𝐸        𝑋̅   𝑋̅ + 𝐸
+
+
+Assim, precisamos do valor de z cuja probabilidade P(Z < z) seja igual a 2,5% + 95% = 97,5%.
+
+         Receita Federal (Analista Tributário) Estatística                                                81
+         www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Pelos valores fornecidas observamos que z = 1,96.
+Sabendo que a variância é 𝜎 2 = 36, ou seja, o desvio padrão é 𝜎 = √𝜎 2 = √36 = 6, podemos calcular o
+tamanho amostral:
+                                                               𝜎 2
+                                                        𝑛 = (𝑧. )
+                                                               𝐸
+                                                          6 2
+                                           𝑛 = (1,96.        ) = (24)2 = 576
+                                                        0,49
+Gabarito: E.
+
+
+(FGV/2022 – MPE/SC) O tempo, em horas diárias, que homens com idades entre os 40 e 50 anos acessam
+redes sociais segue uma distribuição Normal com média 2,5 e desvio padrão 1,5. Para o mesmo grupo etário
+de mulheres, esse tempo segue também uma distribuição Normal com média 3 e desvio padrão 1. Serão
+retiradas duas amostras casuais e independentes, uma de homens e outra de mulheres.
+O tamanho mínimo da amostra da população das mulheres que se pretende com probabilidade pelo menos
+0,95 e cuja diferença em valor absoluto entre a média amostral e a média populacional não exceda 0,1 é,
+aproximadamente:
+a) 20;
+b) 100;
+c) 250;
+d) 385;
+e) 500.
+Comentários:
+Essa questão também trabalha com o tamanho amostral, para um intervalo de confiança para a média, com
+variância conhecida:
+                                                    𝑧     2
+                                              𝑛 = ( . 𝜎)
+                                                    𝐸
+Em que 𝑧 é o valor da tabela normal padrão associado ao nível de confiança desejado; 𝐸 é a margem de erro
+e 𝜎 é o desvio padrão.
+A questão pede o tamanho mínimo para o tempo das mulheres, em que o desvio padrão é 𝜎 = 1.
+O enunciado informa, ainda, que a probabilidade do intervalo (nível de confiança) é de 95%, logo, z = 1,96.
+Ademais, a questão informa que a diferença máxima entre a média amostral e a média populacional, que
+corresponde à margem de erro, é E = 0,1. Substituindo esses dados na fórmula, temos:
+                                                      2
+                                             1,96
+                                         𝑛=(      . 1) = (19,6)2 = 384,16
+                                              0,1
+Logo, o menor tamanho amostral, isto é, o menor número inteiro maior que o valor calculado, é 385.
+Gabarito: D
+
+          Receita Federal (Analista Tributário) Estatística                                              82
+          www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(CESPE 2016/TCE-PA) Considerando uma população finita em que a média da variável de interesse seja
+desconhecida, julgue o item a seguir.
+Se uma amostra aleatória simples, sem reposição, for obtida de uma população finita constituída por N = 45
+indivíduos, o fator de correção para população finita não será considerado na definição do tamanho da
+amostra para a estimação da média.
+Comentários:
+Quando uma população é finita e a amostra é extraída sem reposição, utilizamos, sim, um ajuste na equação,
+chamado fator de correção, que influencia o cálculo do tamanho amostral.
+Gabarito: Errado.
+
+População com Variância Desconhecida
+
+Sendo a variância populacional desconhecida, precisamos estimá-la, a partir da variância amostral
+(estimador não tendencioso para a variância):
+
+                                                    2
+                                                     ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                 𝑠 =
+                                                          𝑛−1
+Esse estimador vale para populações infinitas OU amostras extraídas com reposição.
+
+
+Caso a população seja finita de tamanho 𝑁 E a amostra seja extraída sem reposição, é necessário aplicar o
+                                                                   𝑁−𝑛
+fator de correção, multiplicando a variância amostral por 𝑁−1:
+
+                                                    ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 𝑁 − 𝑛
+                                            𝑠∗2 =                  ×
+                                                         𝑛−1         𝑁−1
+
+
+Com a estimativa para a variância populacional, calculamos a variância da média amostral 𝑋̅, de forma
+análoga à que vimos anteriormente, substituindo a variância populacional 𝜎 2 pela variância amostral 𝑠 2 :
+
+                                                                   𝑠2
+                                                        𝑉(𝑋̅) =
+                                                                   𝑛
+E o desvio padrão (ou erro padrão) da média amostral será a raiz quadrada:
+
+                                                                         𝑠2
+                                               𝐸𝑃(𝑋̅) = √𝑉(𝑋̅) = √
+                                                                         𝑛
+                                                                    𝑠
+                                                        𝐸𝑃(𝑋̅) =
+                                                                   √𝑛
+O método para a construção do intervalo de confiança será similar ao que vimos antes, porém utilizaremos
+a distribuição de t-Student, quando a população seguir distribuição normal (ou quando o tamanho da
+amostra permitir essa aproximação) com variância desconhecida.
+
+
+        Receita Federal (Analista Tributário) Estatística                                              83
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Essa distribuição é similar à normal, também com formato de sino, porém mais achatada no centro e com
+caudas mais largas, ou seja, apresenta maior variabilidade.
+
+         Precisamos utilizar uma outra distribuição, que não a distribuição normal, porque agora a
+         variância deixou de ser um valor fixo e passou a ser também uma estimativa, o que justifica
+         o uso de uma distribuição com maior variabilidade do que a normal.
+
+Para isso, também será necessário encontrar os valores de 𝑋̅ + 𝐸 e 𝑋̅ − 𝐸 que delimitam uma probabilidade
+de 𝟏 − 𝜶, considerando a distribuição de t-Student.
+
+                                                        1−𝛼
+
+                                              𝑋̅ − 𝐸        𝑋̅           𝑋̅ + 𝐸
+
+
+A distribuição de t-Student também possui uma tabela para a distribuição padrão, com média igual a 0 e
+desvio padrão igual a 1. Assim, para encontrar os limites 𝑋̅ + 𝐸 e 𝑋̅ − 𝐸, utilizamos a seguinte transformação,
+similar à transformação para a normal padrão:
+
+                                       𝑣𝑎𝑙𝑜𝑟 𝑝𝑟𝑜𝑐𝑢𝑟𝑎𝑑𝑜 − 𝑚é𝑑𝑖𝑎 𝑑𝑎 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜
+                                  𝑡=
+                                            𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜 𝑑𝑎 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢𝑖çã𝑜
+
+No caso, os valores procurados são 𝑋 = 𝑋̅ + 𝐸 e 𝑋 = 𝑋̅ − 𝐸; a média da distribuição é 𝑋̅; e o desvio padrão
+                           𝑠
+da distribuição é 𝐸𝑃(𝑋̅) = 𝑛:
+                              √
+
+                                                       𝑋̅ + 𝐸 − 𝑋̅   𝐸
+                                                𝑡=          𝑠      = 𝑠
+                                                           √𝑛       √𝑛
+Reorganizando essa expressão, obtemos a fórmula do erro:
+
+                                                                     𝑠
+                                                        𝐸 = 𝑡. 𝑛
+                                                                     √
+
+
+Ou seja, o erro é calculado assim como fizemos para a população com variância conhecida, apenas
+substituindo a variável da normal padrão 𝑧 pela variável de t-Student 𝑡 e o desvio padrão da população 𝜎
+pela sua estimativa 𝑠.
+                                                      𝑠           𝑠
+O intervalo de confiança é da forma 𝑋̅ ± 𝐸 = (𝑋̅ − 𝑡. 𝑛 ; 𝑋̅ + 𝑡. 𝑛).
+                                                                 √                √
+
+        Receita Federal (Analista Tributário) Estatística                                                   84
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O valor de 𝒕 depende do nível de confiança, assim como o valor de 𝑧, mas também do número de graus de
+liberdade da distribuição, igual ao tamanho da amostra menos 1:
+
+                                       𝑛º 𝑑𝑒 𝑔𝑟𝑎𝑢𝑠 𝑑𝑒 𝑙𝑖𝑏𝑒𝑟𝑑𝑎𝑑𝑒 = 𝒏 − 𝟏
+
+Por exemplo, para uma amostra de tamanho 𝑛 = 5, precisamos buscar o valor de 𝑡 considerando 𝑛 − 1 = 4
+graus de liberdade.
+Abaixo, inserimos parte da tabela de t-Student, que apresenta os valores de 𝑡 para os quais as probabilidades
+𝑃(𝑇 < 𝑡) constam na primeira linha, considerando os graus de liberdade indicados na primeira coluna:
+
+Supondo que o nível de confiança seja 1 − 𝛼 = 95%, então a probabilidade associada aos valores acima e
+                         𝛼
+abaixo desse intervalo é 2 = 2,5%.
+
+                                          2,5%                                2,5%
+
+                                                          95%
+
+
+                                               𝑋̅ − 𝐸       𝑋̅       𝑋̅ + 𝐸
+
+
+Ou seja, a probabilidade associada aos valores abaixo do valor crítico superior é:
+
+                                     𝑃(𝑋 < 𝑋̅ + 𝐸) = 95% + 2,5% = 97,5%
+
+Assim, devemos buscar o valor de 𝑡 para o qual 𝑃(𝑇 < 𝑡) = 0,975, considerando 𝑛 − 1 = 4 graus de
+liberdade. Pela tabela acima, temos 𝑡 = 2,7764 ≅ 2,78. Logo, o intervalo será da seguinte forma:
+                                                                     𝑠
+                                                        𝑋̅ ± 2,78.
+                                                                     √5
+Vamos supor que a variância amostral observada seja 𝑠 2 = 0,0125. Nesse caso, o desvio padrão é dado por:
+
+                                                 𝑠 = √𝑠 2 = √0,0125
+Portanto, a margem de erro para esse exemplo é:
+
+                              𝑠             √0,0125
+                 𝐸 = 2,78.        = 2,78.               = 2,78 × √0,0025 = 2,78 × 0,05 = 0,139
+                             √5               √5
+
+        Receita Federal (Analista Tributário) Estatística                                                 85
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos supor que a média observada dessa amostra tenha sido 𝑋̅ = 1,8. Assim, o intervalo de confiança é:
+
+                                           𝑋̅ + 𝐸 = 1,8 + 0,139 = 1,939
+                                           𝑋̅ − 𝐸 = 1,8 − 0,139 = 1,661
+                                                    (1,661; 1,939)
+
+(FCC/2019 - SEFAZ-BA) Para obter um intervalo de confiança de 90% para a média p de uma população
+normalmente distribuída, de tamanho infinito e variância desconhecida, extraiu-se uma amostra aleatória
+de tamanho 9 dessa população, obtendo-se uma média amostral igual a 15 e variância igual a 16.
+Considerou-se a distribuição t de Student para o teste unicaudal tal que a probabilidade P(t - t0) = 0,05, com
+n graus de liberdade.
+Com base nos dados da amostra, esse intervalo é igual a
+                                                            Dados:
+
+a) (12,56; 17,44)
+b) (13,76; 16,24)
+c) (12,47; 17,53)
+d) (12,59; 17,41)
+e) (12,52; 17,48)
+Comentários:
+Essa questão trabalha com um intervalo de confiança para a média de uma população de tamanho infinito
+(não precisamos do fator de correção) com variância desconhecida, dado por:
+                                                       𝑠           𝑠
+                                    𝑋̅ ± 𝐸 = (𝑋̅ − 𝑡.    ; 𝑋̅ + 𝑡. )
+                                                      √𝑛          √𝑛
+Pelo enunciado, sabemos que o tamanho amostral é 𝑛 = 9. Logo, temos 𝑛 − 1 = 8 graus de liberdade.
+Pela tabela fornecida, para 8 de graus de liberdade, observamos que 𝑡 = 1,86.
+Considerando que a variância amostral observada é 𝑠 2 = 16, logo 𝑠 = √𝑠 2 = √16 = 4, o erro é dado por:
+                                                     𝑠               4
+                                           𝐸 = 𝑡.        = 1,86 ×      = 2,48
+                                              √𝑁                     3
+Assim, o intervalo de confiança para a média 𝑋̅ = 15 é:
+
+        Receita Federal (Analista Tributário) Estatística                                                  86
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                             𝑋̅ − 𝐸 = 15 − 2,48 = 12,52
+                                             𝑋̅ + 𝐸 = 15 + 2,48 = 17,48
+                                                     (12,52; 17,48)
+Gabarito: E.
+
+
+(FGV/2022 - TJDFT) Em um modelo de simulação de uma fila com apenas um servidor para atendimento,
+foram realizadas 9 replicações para determinar o número médio de pessoas em fila. Os resultados obtidos
+para cada replicação estão no quadro a seguir.
+
+O intervalo bilateral de confiança de 95% para a média é, aproximadamente:
+a) (1,83; 3,39)
+b) (1,73; 3,50)
+c) (1,69; 3,53)
+d) (0,33; 4,83)
+e) (0,04; 5,12)
+Nessa prova, foi fornecida a tabela de t-Student da forma P(T > t0), parcialmente replicada a seguir.
+
+Comentários:
+Essa questão trabalha com um intervalo de confiança para a média, com variância desconhecida:
+                                                          𝑠
+                                                 𝑋̅ ± 𝑡.
+                                                         √𝑛
+Em que 𝑠 é a estimativa para o desvio padrão. Pela tabela fornecida na questão, temos 𝑋̅ = 2,61 e 𝑠 = 1,20.
+Ademais, o enunciado informa que 𝑛 = 9 (logo, √𝑛 = √9 = 3).
+Um intervalo com 95% de confiança deixa 2,5% abaixo do limite inferior e 2,5% acima do limite superior.
+
+         Receita Federal (Analista Tributário) Estatística                                                87
+         www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Logo, precisamos do valor de t0 associada a uma probabilidade P(T > t0) = 2,5% = 0,025.
+Pela tabela de t-Student fornecida, observamos que, para n - 1 = 8 graus de liberdade e 0,025 de área da
+cauda superior, temos t0 = 2,306 ≅ 2,3. Substituindo esses dados na fórmula do intervalo de confiança:
+                                    1,2
+                      2,61 ± 2,3.       = 2,61 ± 2,3 × 0,4 = 2,61 ± 0,92 = (1,69; 3,53)
+                                     3
+Gabarito: C
+
+Diferença entre populações
+
+Para comparar os resultados provenientes de duas populações independentes, podemos construir um
+intervalo de confiança para a diferença entre as médias de duas populações.
+Suponha que desejamos comparar o tempo médio de estudo entre os concurseiros solteiros e os
+concurseiros casados. Para isso, selecionamos uma amostra de cada um dos grupos e calculamos as médias
+de cada uma delas, 𝑥̅𝑆 e ̅̅̅.
+                         𝑥𝐶 Em seguida, construímos um intervalo para a diferença 𝑥̅𝑆 − ̅̅̅.
+                                                                                        𝑥𝐶
+Analogamente ao intervalo de confiança para a média de uma população, somamos e subtraímos um erro
+da diferença observada nas amostras:
+
+                                                 𝐼𝐶 = (𝑥̅𝑆 − ̅̅̅)
+                                                             𝑥𝐶 ± 𝐸
+
+E o erro corresponde ao produto do valor crítico tabelado, associado ao nível de confiança desejado, 𝑧,
+multiplicado pelo erro padrão (ou desvio padrão) do estimador, assim como vimos anteriormente:
+                                                     𝐸 = 𝑧. 𝜎̅̅̅
+                                                             𝑥𝑆̅−𝑥
+                                                                 ̅̅̅̅
+                                                                   𝐶
+
+
+A diferença está no cálculo do erro padrão 𝜎̅̅̅
+                                            𝑥𝑆̅−𝑥
+                                                ̅̅̅̅
+                                                  𝐶
+                                                     . Vejamos.
+
+A variância da diferença entre as médias corresponde à soma das variâncias, uma vez que as médias são
+variáveis independentes:
+
+                                       𝑉𝑎𝑟(𝑥̅𝑆 − ̅̅̅)
+                                                 𝑥𝐶 = 𝑉𝑎𝑟(𝑥̅𝑆 ) + 𝑉𝑎𝑟(𝑥
+                                                                      ̅̅̅)
+                                                                        𝐶
+
+Como vimos antes, a variância da média amostral de cada população é a razão entre a variância da população
+e o tamanho da amostra:
+                                                            𝑉𝑎𝑟(𝑋𝑆 ) 𝑉𝑎𝑟(𝑋𝐶 )
+                                       𝑉𝑎𝑟(𝑥̅𝑆 − ̅̅̅)
+                                                 𝑥𝐶 =               +
+                                                              𝑛𝑆       𝑛𝐶
+
+Sabendo que o erro padrão é a raiz quadrada da variância, temos:
+
+                                                         𝑉𝑎𝑟(𝑋𝑆 ) 𝑉𝑎𝑟(𝑋𝐶 )
+                                          𝜎̅̅̅
+                                           𝑥𝑆̅−𝑥
+                                               ̅̅̅̅
+                                                 𝐶
+                                                    =√           +
+                                                           𝑛𝑆       𝑛𝐶
+
+        Receita Federal (Analista Tributário) Estatística                                              88
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos supor que a variância da população de solteiros seja 𝑉𝑎𝑟(𝑋𝑆 ) = 1 e a de casados seja 𝑉𝑎𝑟(𝑋𝐶 ) = 3.
+Supondo que tenha sido extraída uma amostra de tamanho 100 de cada população, ou seja, 𝑛𝑆 = 100 e
+𝑛𝐶 = 100, o erro padrão da diferença entre médias é:
+
+                                                   1   3      4   2
+                                   𝜎̅̅̅
+                                    𝑥𝑆̅−𝑥
+                                        ̅̅̅̅
+                                          𝐶
+                                             =√      +    =√    =   = 0,2
+                                                  100 100    100 10
+
+Para 𝑧 = 2, que corresponde a um nível de aproximadamente 95% de confiança, a margem de erro é:
+                                                  𝐸 = 2 × 0,2 = 0,4
+Supondo que a média observada na amostra dos solteiros tenha sido 𝑥̅𝑆 = 7 horas e a dos casados tenha
+sido ̅̅̅
+     𝑥𝐶 = 6 horas, o intervalo de confiança para a diferença entre as médias é:
+                                    𝐼𝐶 = (7 − 6) ± 0,4 = 1 ± 0,4 = (0,6; 1,4)
+
+
+Alternativamente, podemos calcular as probabilidades associadas às diferenças entre as médias, utilizando
+a transformação para a normal padrão:
+                                      𝑣𝑎𝑙𝑜𝑟 𝑜𝑏𝑠𝑒𝑟𝑣𝑎𝑑𝑜 − 𝑚é𝑑𝑖𝑎 𝑝𝑜𝑝𝑢𝑙𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+                                 𝑧=
+                                                  𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜
+                                                  (𝑥̅𝑆 − ̅̅̅)
+                                                         𝑥𝐶 − (𝜇𝑆 − 𝜇𝐶 )
+                                             𝑧=
+                                                           𝜎̅̅̅
+                                                             𝑥𝑆̅−𝑥
+                                                                 ̅̅̅̅
+                                                                   𝐶
+
+Para o nosso exemplo, supondo que as verdadeiras médias populacionais sejam 𝜇𝑆 = 6,8 e 𝜇𝐶 = 6,2, o valor
+de 𝑧 associado à diferença observada, 𝑥̅𝑆 − ̅̅̅
+                                            𝑥𝐶 = 1, é:
+                                                1 − (6,8 − 6,2) 0,4
+                                           𝑧=                  =     =2
+                                                      0,2        0,2
+Sabendo que 𝑃(−2 ≤ 𝑍 ≤ 2) ≅ 95%, para esse exemplo, temos:
+                                           𝑃(−1 ≤ 𝑥̅𝑆 − ̅̅̅
+                                                        𝑥𝐶 ≤ 1) ≅ 95%
+
+        Se a questão fornecer os desvios padrão das populações, é necessário elevá-los ao
+        quadrado, para obter as variâncias, antes de aplicar a fórmula.
+
+        Não some os desvios padrão populacionais diretamente.
+
+        Receita Federal (Analista Tributário) Estatística                                             89
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Caso as variâncias populacionais sejam desconhecidas e estimadas a partir das amostras, utilizamos a
+distribuição de t-Student, em vez da distribuição normal. Denotando as populações por 𝑋 e 𝑌, o erro padrão
+do estimador, nessa situação, é dado por:
+
+                                                                𝑠𝑋2 𝑠𝑌2
+                                                  𝑠𝑥̅ −𝑦̅ = √      +
+                                                                𝑛𝑋 𝑛𝑌
+
+(FGV/2023 - TCE/ES) Duas máquinas de empacotar, 𝑋 e 𝑌, estão reguladas de modo que cada pacote tenha
+média de 5 quilos e desvio padrão de 0,2 quilo.
+Seja 𝑋̅ o peso médio dos pacotes enchidos pela máquina 𝑋 e 𝑌̅ o peso médio dos pacotes enchidos pela
+máquina 𝑌. Suponha que as máquinas operem de forma independente e que os pesos dos pacotes enchidos
+por elas sigam uma distribuição normal.
+Selecionou-se uma amostra aleatória de 128 pacotes de cada máquina. A probabilidade de que a diferença
+entre os pesos médios não ultrapasse 5%, isto é, 𝑃𝑟𝑜𝑏(−0,05 < 𝑋̅ − 𝑌̅ < 0,05), é:
+a) 𝑃𝑟𝑜𝑏(−2,5 < 𝑍 < 2,5), sendo 𝑍~𝑁(0,1);
+b) 𝑃𝑟𝑜𝑏(−2 < 𝑍 < 2), sendo 𝑍~𝑁(0,1);
+a) 𝑃𝑟𝑜𝑏(−1,25 < 𝑍 < 1,25), sendo 𝑍~𝑁(0,1);
+a) 𝑃𝑟𝑜𝑏(−1 < 𝑍 < 1), sendo 𝑍~𝑁(0,1);
+a) 𝑃𝑟𝑜𝑏(−0,25 < 𝑍 < 0,25), sendo 𝑍~𝑁(0,1).
+Comentários:
+Para resolver essa questão, precisamos utilizar a fórmula da normal padrão para a diferença entre as médias:
+                                                   (𝑥̅ − 𝑦̅) − (𝜇𝑋 − 𝜇𝑌 )
+                                              𝑧=
+                                                            𝜎𝑥̅ −𝑦̅
+Em que o erro padrão do estimador da diferença é dado por:
+
+                                                          𝑉𝑎𝑟(𝑋) 𝑉𝑎𝑟(𝑌)
+                                            𝜎𝑥̅ −𝑦̅ = √         +
+                                                            𝑛𝑋     𝑛𝑌
+
+O enunciado informa que o desvio padrão de ambas as populações é igual a 0,2, logo a variância é:
+                                         𝑉𝑎𝑟(𝑋) = 𝑉𝑎𝑟(𝑌) = 0,22 = 0,04
+Sabendo que o tamanho da amostra de cada população é 𝑛𝑋 = 𝑛𝑌 = 128, temos:
+
+                                       0,04 0,04        0,04    0,04 0,2
+                         𝜎𝑥̅ −𝑦̅ = √       +     = √2 ×      =√     =    = 0,025
+                                       128 128          128      64   8
+
+
+        Receita Federal (Analista Tributário) Estatística                                                90
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Sabendo que as médias são iguais, temos 𝜇𝑋 − 𝜇𝑌 = 0. Assim, o valor de z associado a uma diferença
+|𝑥̅ − 𝑦̅| = 0,05 é:
+                                                           0,05 − 0
+                                                   𝑧=               =2
+                                                            0,025
+Gabarito: B
+
+Intervalo de Confiança para a Proporção
+
+Para estimar a proporção populacional 𝑝, utilizamos a proporção observada na amostra 𝑝̂ .
+Para viabilizar os cálculos, as questões consideram a aproximação da distribuição desse estimador a uma
+normal. Assim, devemos encontrar os valores limites que delimitam uma área sob a curva normal,
+correspondente a 1 − 𝛼:
+
+                                                          1−𝛼
+
+                                               𝑝̂ − 𝐸        𝑝̂        𝑝̂ + 𝐸
+
+
+A variância da proporção amostral é dada por:
+                                                                     𝑝̂ . 𝑞̂
+                                                         𝑉(𝑝̂ ) =
+                                                                      𝑛
+Sendo 𝑞̂ = 1 − 𝑝̂ . O desvio padrão (erro padrão do estimador) é, portanto:
+
+                                                                                  𝑝̂ . 𝑞̂
+                                              𝐸𝑃(𝑝̂ ) = √𝑉(𝑝̂ ) = √
+                                                                                   𝑛
+
+Sabendo que a média da distribuição é a proporção amostral 𝑝̂ , então a transformação para a normal padrão
+de 𝑝̂ + 𝐸 é:
+
+                                               𝑣𝑎𝑙𝑜𝑟 𝑝𝑟𝑜𝑐𝑢𝑟𝑎𝑑𝑜 − 𝑚é𝑑𝑖𝑎
+                                          𝑧=
+                                                    𝑑𝑒𝑠𝑣𝑖𝑜 𝑝𝑎𝑑𝑟ã𝑜
+
+                                                        𝑝̂ + 𝐸 − 𝑝̂              𝐸
+                                               𝑧=                       =
+                                                          √𝑝̂ . 𝑞̂             √𝑝̂ . 𝑞̂
+                                                            𝑛                    𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                              91
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Reorganizando essa expressão, obtemos a fórmula do erro do intervalo de confiança:
+
+                                                                          𝑝̂.𝑞̂
+                                                        𝐸 = 𝑧. √ 𝑛
+
+
+                                                            𝑝̂.𝑞̂                 𝑝̂.𝑞̂
+E o intervalo de confiança será 𝑝̂ ± 𝐸 = (𝑝̂ − 𝑧. √ 𝑛 ; 𝑝̂ + 𝑧. √ 𝑛 ).
+
+Vamos supor que tenhamos estimado a proporção amostral de defeito em 𝑝̂ = 0,2 (logo, 𝑞̂ = 1 − 𝑝̂ = 0,8),
+considerando uma amostra de 𝑛 = 100 peças.
+Nesse caso, o desvio padrão (ou erro padrão) é dado por:
+
+
+                                            𝑝̂ . 𝑞̂    0,2 × 0,8 √0,16 0,4
+                              𝐸𝑃(𝑝̂ ) = √           =√          =      =    = 0,04
+                                             𝑛            100     √100   10
+
+Considerando um nível de confiança de 95% (z = 1,96), a margem de erro será:
+
+                                             𝑝̂ . 𝑞̂
+                                  𝐸 = 𝑧. √           = 1,96 × 0,04 = 0,0784 ≅ 0,08
+                                              𝑛
+
+Então, o intervalo de confiança para a proporção será:
+
+                                                     𝑝̂ . 𝑞̂
+                                         𝑝̂ + 𝑧. √           ≅ 0,2 + 0,08 = 0,28
+                                                      𝑛
+
+                                                     𝑝̂ . 𝑞̂
+                                         𝑝̂ − 𝑧. √           ≅ 0,2 − 0,08 = 0,12
+                                                      𝑛
+
+                                                       (0,12; 0,28)
+
+
+Tamanho Amostral
+Também podemos determinar o tamanho amostral, para um dado nível de confiança (1 − 𝛼) e um valor de
+erro máximo 𝐸. Reorganizando a fórmula do erro que acabamos de ver, temos:
+
+                                                                    𝑧 2
+                                                      𝑛 = (𝐸) 𝑝̂ . 𝑞̂
+
+
+Vamos supor que o erro máximo tolerável seja E = 0,04, mantendo os demais parâmetros iguais aos do
+exemplo anterior (𝑧 = 1,96 e 𝑝̂ = 0,2). Nesse caso, o tamanho da amostra 𝑛2 será:
+
+                            1,96 2
+                      𝑛2 = (    ) × 0,2 × 0,8 = (49)2 × 0,16 = 2401 × 0,16 ≅ 384
+                            0,04
+
+        Receita Federal (Analista Tributário) Estatística                                            92
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        Para calcular o tamanho máximo da amostra 𝒏, utilizamos 𝒑 ̂=𝒒
+                                                                    ̂ = 𝟎, 𝟓, pois essa é a
+        proporção que maximiza a variância da proporção amostral.
+
+Assim, mesmo sem conhecer a proporção amostral, é possível determinar um valor seguro para o tamanho
+                       ̂=𝒒
+amostral, considerando 𝒑 ̂ = 𝟎, 𝟓 na fórmula do tamanho amostral:
+Supondo 𝑧 = 1,96 e um erro máximo tolerável 𝐸 = 0,04, o valor seguro para o tamanho amostral 𝑛∗ , sendo
+desconhecida a proporção amostral, é:
+
+                             1,96 2
+                      𝑛∗ = (      ) × 0,5 × 0,5 = (49)2 × 0,25 = 2401 × 0,25 ≅ 600
+                             0,04
+
+
+Quanto mais próximo de 𝑝̂ = 𝑞̂ = 0,5, maior será o tamanho amostral. Por exemplo, o tamanho amostral
+para 𝑝̂ = 0,4 (e 𝑞̂ = 1 − 𝑝̂ = 0,6) é maior do que para 𝑝̂ = 0,3 (e 𝑞̂ = 1 − 𝑝̂ = 0,7).
+Ademais, como multiplicamos essas duas proporções no cálculo do tamanho amostral, não importa qual
+proporção assume o maior ou o menor valor. Assim, o tamanho da amostra para 𝑝̂ = 0,4 (𝑞̂ = 1 − 𝑝̂ = 0,6)
+é igual ao tamanho da amostra para 𝑝̂ = 0,6 (𝑞̂ = 1 − 𝑝̂ = 0,4).
+Essas fórmulas valem para uma população infinita OU amostras extraídas com reposição.
+
+
+Fator de correção
+Caso a população seja finita e as amostras extraídas sem reposição, será necessário aplicar o fator de
+                                                                                            𝑁−𝑛
+correção para população finita. Para isso, devemos multiplicar a fórmula do erro pelo fator √𝑁−1:
+
+
+                                                            𝑝̂ . 𝑞̂ 𝑁 − 𝑛
+                                                𝐸 = 𝑧. √           .√
+                                                             𝑛        𝑁−1
+
+Assim como vimos para a média, esse ajuste para populações finitas afeta no cálculo do tamanho amostral.
+Para calcular o tamanho da amostra necessário, primeiro calculamos uma estimativa inicial para a amostra,
+desconsiderando-se o fator de correção:
+                                                          𝑧 2
+                                                    𝑛0 = ( ) 𝑝̂ . 𝑞̂
+                                                          𝐸
+
+        Receita Federal (Analista Tributário) Estatística                                             93
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+            Quando a questão não informa uma estimativa para as proporções e nem um nível de
+            confiança, utilize a seguinte fórmula para a amostra inicial, que considera apenas a
+            margem de erro:
+
+                                                                      1
+                                                               𝑛0 = 𝐸2
+
+Em seguida, ajustamos a amostra inicial:
+                                                                  𝑁 × 𝑛0
+                                                            𝑛=
+                                                                  𝑁 + 𝑛0
+Considerando um erro amostral 𝐸 = 0,05, a estimativa inicial para o tamanho da amostra é:
+                                                           1        1
+                                               𝑛0 =          2
+                                                               =        = 400
+                                                         0,05    0,0025
+Supondo que a população tem tamanho 𝑁 = 1000, o tamanho amostral ajustado será:
+                                                   1.000 × 400 400.000
+                                          𝑛=                   =       ≅ 286
+                                                   1.000 + 400   1.400
+
+            O ajuste da amostra inicial, quando ela é calculada com base apenas na margem de erro
+                  1
+            𝑛0 = 𝐸2 , corresponde à fórmula de Slovin para o tamanho amostral1:
+
+                                                                     𝑁
+                                                             𝑛 = 1+𝑁.𝐸2
+
+1                                              1
+    Vamos demonstrar isso! Considerando 𝑛0 =        , a amostra ajustada pode ser calculada como:
+                                               𝐸2
+
+                                                     1
+                                          𝑁 × 𝑛0 𝑁 × 𝐸 2          𝑁             𝑁
+                                     𝑛=         =        =                =
+                                          𝑁 + 𝑛0 𝑁 + 1                1
+                                                           𝐸 2 × (𝑁 + 2 )   𝑁. 𝐸 2+1
+                                                     𝐸 2             𝐸
+Que é a fórmula de Slovin!
+
+
+           Receita Federal (Analista Tributário) Estatística                                        94
+           www.estrategiaconcursos.com.br                                                           297
+
+                                         
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+(CESPE 2018/PF) Determinado órgão governamental estimou que a probabilidade p de um ex-condenado
+voltar a ser condenado por algum crime no prazo de 5 anos, contados a partir da data da libertação, seja
+igual a 0,25. Essa estimativa foi obtida com base em um levantamento por amostragem aleatória simples de
+1.875 processos judiciais, aplicando-se o método da máxima verossimilhança a partir da distribuição de
+Bernoulli. Sabendo que P(Z < 2) = 0,975, em que Z representa a distribuição normal padrão, julgue o item
+que se segue, em relação a essa situação hipotética.
+A estimativa intervalar 0,25 ± 0,05 representa o intervalo de 95% de confiança do parâmetro populacional
+p.
+Comentários:
+O intervalo de confiança para a proporção é dado por:
+
+                                                                      𝑝̂ × 𝑞̂
+                                                𝑝̂ ± 𝐸 = 𝑝̂ ± 𝑧 × √
+                                                                         𝑛
+O enunciado informa que
+•    A proporção amostral é 𝑝̂ = 0,25, logo 𝑞̂ = 1 − 𝑝̂ = 0,75
+•    O tamanho da amostra é 𝑛 = 1.875
+•    O valor de 𝑧 para 95% de confiança é 𝑧 = 2
+
+Substituindo esses dados na fórmula do erro do intervalo, temos:
+
+
+                                         0,25 × 0,75       0,1875
+                            𝐸 =2×√                   = 2×√        = 2 × 0,01 = 0,02
+                                            1.875          1.875
+
+Assim, o intervalo de confiança é:
+
+                                                   𝑝̂ ± 𝐸 = 0,25 ± 0,02
+
+Gabarito: Errado.
+
+
+(2019/FMS) Uma pesquisa tem como finalidade conhecer a proporção de pessoas em Teresina que teriam
+interesse em frequentar uma nova franquia de lanchonete vinda do exterior. O empreendedor diz que só
+vale a pena a instalação da franquia, se pelo menos 10% da população tivesse interesse em frequentar o
+estabelecimento.
+
+          Receita Federal (Analista Tributário) Estatística                                          95
+          www.estrategiaconcursos.com.br                                                             297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Supondo que a proporção máxima da população não será maior que 30%, qual tamanho de amostra
+(aproximado) tal que a diferença entre a proporção populacional e proporção amostral não tenha um erro
+maior que três pontos percentuais, com uma confiança de 95%. Obs.: zγ = 1,96.
+a) 897
+b) 683
+c) 700
+d) 300
+e) 654
+Comentários:
+O tamanho amostral para a construção de um intervalo de confiança para a proporção é dado por:
+                                                𝑧 2
+                                           𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                𝐸
+O enunciado informa que 𝑧 = 1,96 e 𝐸 = 0,03.
+Ademais, informa que a proporção máxima 𝑝̂ é de 30%. Essa é a proporção que deve ser utilizada, por ser a
+mais próxima de 50%, para maximizar o tamanho amostral.
+Sendo 𝑝̂ = 0,3, logo 𝑞̂ = 1 − 𝑝̂ = 0,7, temos:
+                                                1,96 2
+                                             𝑛=(    ) × 0,3 × 0,7 ≅ 897
+                                                0,03
+Gabarito: A.
+
+
+(FGV/2022 – MPE/SC) Uma empresa recebeu um lote muito grande, milhões de peças de refugo, e deseja
+saber quantas peças deverá examinar para estimar a proporção de itens defeituosos, de modo que o erro de
+estimação seja no máximo 2%. Será empregada uma seleção aleatória de itens onde cada um será
+classificado como defeituoso ou não defeituoso. Deseja-se extrair uma amostra aleatória de tamanho n.
+Tendo como padrão um grau de confiança de 95%, o tamanho da amostra necessário para garantir o
+processo é:
+a) 189;
+b) 384;
+c) 600;
+d) 1681;
+e) 2401.
+Comentários:
+Essa questão também trabalha com o tamanho amostral, para a estimação de proporções:
+                                                   𝑧 2
+                                             𝑛 = ( ) . 𝑝̂ . 𝑞̂
+                                                   𝐸
+Em que 𝑧 é o valor da tabela normal padrão associado ao nível de confiança desejado; 𝐸 é a margem de erro
+(ou erro máximo de estimação); 𝑝̂ é a estimativa para a proporção de sucesso e 𝑞̂ é a estimativa para a
+proporção de fracasso, sendo 𝑞̂ = 1 − 𝑝̂ .
+
+
+           Receita Federal (Analista Tributário) Estatística                                          96
+           www.estrategiaconcursos.com.br                                                             297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O enunciado informa que o erro máximo é 𝐸 = 2% = 0,02; e que o grau de confiança é de 95%, logo, z=1,96.
+A questão não informa a estimativa para a proporção de sucesso, logo, devemos considerar aquela que
+maximiza o tamanho da amostra, qual seja 𝑝̂ = 𝑞̂ = 0,5. Substituindo esses dados na fórmula, temos:
+                                  1,96 2
+                               𝑛=(     ) × 0,5 × 0,5 = (98)2 × 0,25 = 2401
+                                  0,02
+Gabarito: E
+
+Intervalo de Confiança para a Variância
+                                                                               𝒏−𝟏
+O estimador da variância 𝑠 2 (variância amostral), multiplicado pelo fator ( 𝝈𝟐 ), segue uma distribuição qui-
+quadrado com 𝒏 − 𝟏 graus de liberdade:
+
+                                                   2
+                                                             𝑛−1 2
+                                                  𝒳𝑛−1 =(        )𝑠
+                                                              𝜎2
+Como essa distribuição é assimétrica, utilizaremos a tabela da distribuição qui-quadrado para encontrar
+                         2                              2
+tanto o limite superior 𝒳𝑆𝑈𝑃 quanto o limite inferior 𝒳𝐼𝑁𝐹 do intervalo de confiança:
+
+                                               2
+                                                     𝑛−1         2
+                                             𝒳𝐼𝑁𝐹 < ( 2 ) 𝑠 2 < 𝒳𝑆𝑈𝑃
+                                                      𝜎
+
+
+Isolando 𝜎 2 nessa expressão, temos:
+                                           (𝑛 − 1). 𝑠 2     2
+                                                                (𝑛 − 1). 𝑠 2
+                                               2        < 𝜎   <      2
+                                              𝒳𝑆𝑈𝑃                 𝒳𝐼𝑁𝐹
+
+Ou seja, para calcular o limite inferior, dividimos pelo valor crítico superior da tabela 𝓧𝟐𝑺𝑼𝑷 , e para calcular
+o limite superior dividimos pelo valor crítico inferior da tabela 𝓧𝟐𝑰𝑵𝑭 .
+               2                 2                                 2
+Isso porque 𝒳𝑆𝑈𝑃   é maior que 𝒳𝐼𝑁𝐹 . Assim, quando dividimos por 𝒳𝑆𝑈𝑃 , obtemos um valor menor (limite
+                                         2
+inferior) do que quando dividimos por 𝒳𝐼𝑁𝐹 (limite superior).
+
+
+Assim, o intervalo de confiança para a variância é da forma:
+
+                                                    (𝑛−1).𝑠2 (𝑛−1).𝑠2
+                                                  (    2     ;    2     )
+                                                      𝒳𝑆𝑈𝑃       𝒳𝐼𝑁𝐹
+
+             2      2
+Os valores 𝒳𝑆𝑈𝑃 e 𝒳𝐼𝑁𝐹 são obtidos a partir da tabela da distribuição qui-quadrado, dependendo do nível
+de confiança 1 − 𝛼 desejado:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                     97
+        www.estrategiaconcursos.com.br                                                                       297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                    𝛼⁄                             𝛼⁄
+                                      2                              2
+                                                 1−𝛼
+
+
+                                            2                2
+                                          𝒳𝐼𝑁𝐹              𝒳𝑆𝑈𝑃
+
+                         2                 𝛼                          2                               𝛼
+Observamos que o valor 𝒳𝐼𝑁𝐹 deixa 2 da distribuição abaixo e o valor 𝒳𝑆𝑈𝑃 deixa 2 da distribuição acima,
+assim como vimos para os outros intervalos de confiança. A diferença é que agora não estamos mais lidando
+com uma distribuição simétrica:
+
+                                                            2            𝛼
+                                                  𝑃(𝒳 2 < 𝒳𝐼𝑁𝐹 )=2
+
+                                                          2 )                𝛼
+                                                 𝑃(𝒳 2 < 𝒳𝑆𝑈𝑃 =1−2
+
+Os valores da tabela da distribuição qui-quadrado também dependem do número de graus de liberdade,
+igual ao tamanho da amostra menos 1.
+
+                                    𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑔𝑟𝑎𝑢𝑠 𝑑𝑒 𝑙𝑖𝑏𝑒𝑟𝑑𝑎𝑑𝑒 = 𝒏 − 𝟏
+
+Para uma amostra de tamanho n = 5, por exemplo, devemos utilizar os valores da tabela da distribuição qui-
+quadrado com n - 1 = 4 graus de liberdade.
+A tabela a seguir apresenta os valores de 𝑥 que delimitam as probabilidades 𝑃(𝒳 2 < 𝑥) da distribuição qui-
+quadrado com 4 graus de liberdade indicadas na primeira linha:
+ 𝑃(𝒳42 < 𝑥) 0,005       0,01    0,025     0,05    0,1       0,25    0,5          0,75   0,9    0,95       0,975 0,99 0,995
+     𝑥       0,21       0,30     0,48     0,71    1,06      1,92    3,36         5,39   7,78   9,49       11,14 13,28 14,86
+
+
+Para um nível de confiança de 1 − 𝛼 = 95%, temos:
+
+
+                                   2,5%                            2,5%
+                                                 95%
+
+
+                                            2                2
+                                          𝒳𝐼𝑁𝐹              𝒳𝑆𝑈𝑃
+
+Pela tabela acima, observamos que o valor de 𝑥 que delimita uma probabilidade 𝑃(𝒳 2 < 𝑥) = 0,025, que
+                                         2
+corresponde ao limite inferior, é 𝑥 = 𝒳𝐼𝑁𝐹   = 0,48; e o valor de 𝑥 que delimita uma probabilidade
+     2                                                         2
+𝑃(𝒳 < 𝑥) = 0,975, que corresponde ao limite superior, é 𝑥 = 𝒳𝑆𝑈𝑃   = 11,14.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                                 98
+        www.estrategiaconcursos.com.br                                                                                   297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Considerando que a variância amostral é 𝑠 2 = 0,0125, os limites do intervalo de confiança são:
+                                      (𝑛 − 1). 𝑠 2 4 × 0,0125   0,05
+                                          2       =           =       ≅ 0,004
+                                         𝒳𝑆𝑈𝑃        11,14      11,14
+                                       (𝑛 − 1). 𝑠 2 4 × 0,0125 0,05
+                                            2      =          =      ≅ 0,104
+                                          𝒳𝐼𝑁𝐹         0,48     0,48
+E o intervalo é (0,004; 0,104).
+
+Caso a questão forneça a soma dos quadrados ∑(𝑋𝑖 − 𝑋̅)2 , em vez da estimativa para a variância 𝑠 2 ,
+podemos utilizá-lo diretamente no cálculo do intervalo de confiança.
+
+                                                  (𝑛 − 1). 𝑠 2 (𝑛 − 1). 𝑠 2
+                                            𝐼𝐶 = (    2       ;     2       )
+                                                     𝒳𝑆𝑈𝑃         𝒳𝐼𝑁𝐹
+
+                     ∑(𝑋𝑖 −𝑋̅)2
+Sabendo que 𝑠 2 =                 , o intervalo de confiança pode ser calculado como:
+                        𝑛−1
+
+                                    (𝑛 − 1) ∑(𝑋𝑖 − 𝑋̅)2 (𝑛 − 1) ∑(𝑋𝑖 − 𝑋̅)2
+                              𝐼𝐶 = ( 2     ×           ;   2   ×            )
+                                     𝒳𝑆𝑈𝑃     𝑛−1        𝒳𝐼𝑁𝐹     𝑛−1
+
+                                                   ∑(𝑋𝑖 − 𝑋̅)2 ∑(𝑋𝑖 − 𝑋̅)2
+                                            𝐼𝐶 = (      2     ;     2      )
+                                                     𝒳𝑆𝑈𝑃        𝒳𝐼𝑁𝐹
+
+(FGV/2019 – DPE-RJ) Com o objetivo de produzir uma estimativa por intervalo para a variância populacional,
+realiza-se uma amostra de tamanho n = 4, obtendo-se, após a extração, os seguintes resultados:
+X1 = 6, X2 = 3, X3 = 11 e X4 = 12
+Informações adicionais:
+P (X24 < 0,75 ) = 0,05 P (X23 < 0,40 ) = 0,05
+P (X24 < 10,8 ) = 0,95 P (X23 < 9 ) = 0,95
+Então, sobre o resultado da estimação, e considerando-se um grau de confiança de 90%, tem-se que:
+a) 5 < σ2 < 72;
+b) 8 < σ2 < 180;
+c) 6 < σ2 < 135;
+d) 4 < σ2 < 22;
+e) 6 < σ2 < 24.
+
+
+         Receita Federal (Analista Tributário) Estatística                                             99
+         www.estrategiaconcursos.com.br                                                                297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+O intervalo de confiança para a variância é dado por:
+
+                                               (𝑛 − 1). 𝑠 2 (𝑛 − 1). 𝑠 2
+                                              (    2       ;     2       )
+                                                  𝒳𝑆𝑈𝑃         𝒳𝐼𝑁𝐹
+
+Primeiro, precisamos calcular a estimativa para variância 𝑠 2 (variância amostral):
+
+                                                   2
+                                                     ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                 𝑠 =
+                                                          𝑛−1
+
+Para isso, precisamos da média amostral:
+
+                                             ∑ 𝑋𝑖 6 + 3 + 11 + 12 32
+                                      𝑋̅ =       =               =   =8
+                                              𝑛          4         4
+
+Logo, o estimador da variância é:
+
+                   (6 − 8)2 + (3 − 8)2 + (11 − 8)2 + (12 − 8)2 (−2)2 + (−5)2 + (3)2 + (4)2
+            𝑠2 =                                              =
+                                      4−1                                  3
+
+                                                4 + 25 + 9 + 16 54
+                                         𝑠2 =                  =   = 18
+                                                       3         3
+
+O enunciado informa que o tamanho da amostra é n = 4, logo, o número de graus de liberdade é n – 1 = 3.
+Sabendo que o intervalo de confiança é de 1 − 𝛼 = 90% = 0,9, precisamos dos valores da tabela que
+                                      2 )   𝛼                   2 )       𝛼
+delimitam as probabilidades 𝑃(𝒳 2 < 𝒳𝐼𝑁𝐹  = 2 = 0,05 e 𝑃(𝒳 2 < 𝒳𝑆𝑈𝑃 = 1 − 2 = 0,95.
+                                                                                            2
+O enunciado informa que 𝑃(𝒳32 < 0,40) = 0,05, logo 𝒳𝐼𝑁𝐹
+                                                     2
+                                                        = 0,4; e 𝑃(𝒳32 < 0,9) = 0,95, logo 𝒳𝑆𝑢𝑝 = 9.
+Assim, os limites inferior e superior são:
+
+                                                             3 × 18
+                                                  𝐿𝐼𝑛𝑓 =            =6
+                                                               9
+                                                            3 × 18
+                                                𝐿𝑆𝑢𝑝 =             = 135
+                                                              0,4
+
+Gabarito: C.
+
+        Receita Federal (Analista Tributário) Estatística                                            100
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 11
+
+                                             Estimação Intervalar
+
+                   Intervalo para a Média – Variância conhecida (distribuição normal):
+
+                                                   𝝈                                     𝝈 𝟐
+                    Margem de Erro: 𝑬 = 𝒛. 𝒏;             Tamanho amostral: 𝒏 = (𝒛. 𝑬)
+                                                   √
+
+
+               Intervalo para a Média – Variância desconhecida (distribuição t-Student):
+                                                   𝒔                                           𝒔 𝟐
+               Margem de Erro: 𝑬 = 𝒕𝒏−𝟏 . 𝒏;                  Tamanho Amostral: 𝒏 = (𝒕. 𝑬)
+                                                   √
+
+
+                                           Intervalo para a Proporção:
+
+                                             ̂.𝒒
+                                             𝒑 ̂                                         𝒛 𝟐
+              Margem de Erro: 𝑬 = 𝒛. √ 𝒏 ;                                             ̂. 𝒒
+                                                             Tamanho Amostral: 𝒏 = (𝑬) 𝒑  ̂
+
+                                                               (𝒏−𝟏).𝒔𝟐 (𝒏−𝟏).𝒔𝟐
+                                Intervalo para a Variância: ( 𝓧𝟐         ;           )
+                                                                  𝑺𝑼𝑷        𝓧𝟐𝑰𝑵𝑭
+
+      Receita Federal (Analista Tributário) Estatística                                              101
+      www.estrategiaconcursos.com.br                                                                 297
+
+                                    
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 11
+
+                                        RESUMO DA AULA
+Estimadores                                                                        Erro Padrão é o desvio
+                                                    𝜎2             𝜎
+                                                                                  padrão (raiz quadrada da
+   Média amostral 𝑋̅: 𝐸(𝑋̅) = 𝜇, 𝑉(𝑋̅) = 𝑛 , 𝐸𝑃(𝑋̅) =                             variância) do estimador
+                                                                   √𝑛
+
+
+                                                         𝑝.𝑞            𝑝.𝑞
+   Proporção amostral 𝑝̂ : 𝐸(𝑝̂ ) = 𝑝, 𝑉(𝑝̂ ) = 𝑛 , 𝐸𝑃(𝑝̂ ) = √ 𝑛
+
+                                                    ∑(𝑋𝑖 −𝑋̅ ) 2
+   Estimador da variância amostral: 𝑠 2 =               𝑛−1
+
+
+Propriedades dos Estimadores
+
+   Suficiente (contempla todas as informações para estimar o parâmetro populacional)
+
+   Não Tendencioso (esperança do estimador é igual ao parâmetro populacional)
+
+   Eficiente (menor variância possível)
+
+   Consistente (estimativas convergem com o aumento do tamanho amostral)
+
+Métodos de Estimação
+                                                                                                         2
+                                                                         ̂2 = ∑(𝑋𝑖 −𝑋̅) como
+   Método dos Momentos: Resulta em 𝑋̅ como estimador para a média; e em 𝜎        𝑛
+                                ̂2
+    estimador para a variância (𝜎 é tendencioso)
+
+   Método da Máxima Verossimilhança: Resulta em 𝑝̂ como estimador para a proporção; para uma
+                                                                    2
+                                                      ̂2 = ∑(𝑋𝑖 −𝑋̅) como estimador para a variância
+    população normal, em 𝑋̅ como estimador da média e 𝜎                       𝑛
+       ̂2 é tendencioso)
+      (𝜎
+
+   Método dos Mínimos Quadrados: Resulta em 𝑋̅ como estimador para a média; e em 𝑝̂ como
+    estimador para a proporção
+
+Estimação Intervalar                                                                        Erro do Intervalo 𝑬
+                                                                                          (metade da amplitude)
+   Erro depende do nível de confiança desejado e do tamanho da amostra
+                                                                                      𝜎
+   Intervalo de confiança para população com variância conhecida: 𝑋̅ ± 𝑧. 𝑛
+                                                                                     √
+
+
+   Intervalo de confiança para população com variância desconhecida: 𝑋̅ ± 𝑡𝑛−1 . √𝑛
+                                                                                            𝜎
+
+       Receita Federal (Analista Tributário) Estatística                                                     102
+       www.estrategiaconcursos.com.br                                                                        297
+
+                                     
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+                                          INFERÊNCIA BAYESIANA
+
+Introdução
+
+A inferência Bayesiana (ou estatística Bayesiana) considera premissas diferentes da inferência clássica (ou
+frequentista), que é a inferência que estudamos até agora.
+Por um lado, a inferência clássica (ou frequentista) considera que toda a informação disponível está
+representada na amostra; e que o parâmetro populacional é fixo.
+Já, na inferência Bayesiana, o parâmetro populacional a ser estimado é uma variável aleatória (e não fixo
+como na inferência clássica), que depende dos resultados observados na amostra. Essa distribuição do
+parâmetro populacional condicionada aos resultados da amostra é chamada de distribuição a posteriori.
+A distribuição a posteriori depende não só das informações disponíveis na amostra (chamada de função de
+verossimilhança da amostra), mas também de outras informações que conhecemos e que não estarão
+representadas na amostra (não observáveis). Por exemplo, no contexto de eleições democráticas, sabemos
+que um candidato não terá 100% dos votos.
+Essas informações previamente conhecidas podem ser consideradas subjetivas e compõem a chamada
+distribuição a priori. Elas são incorporadas no modelo Bayesiano, de modo que as estimativas variam de
+acordo com a distribuição a priori utilizada.
+Por outro lado, a inserção de informações que não são verdadeiras torna o modelo inapropriado. Por
+exemplo, se for considerado que nenhum candidato terá 70% dos votos, mas se isso for de fato possível, a
+estimativa estará enviesada.
+Ademais, o que chamávamos de intervalo de confiança na inferência clássica passa a ser chamado de
+intervalo de credibilidade, baseado na distribuição a posteriori. Enquanto, na inferência clássica, o nível de
+confiança é a probabilidade de o intervalo de confiança englobar o verdadeiro parâmetro populacional; na
+inferência Bayesiana, como o parâmetro populacional é uma variável aleatória, o nível de credibilidade é a
+probabilidade é de o parâmetro populacional pertencer ao intervalo de credibilidade.
+
+              Inferência Clássica ou Frequentista                             Inferência Bayesiana
+
+•    Parâmetro populacional é fixo                            •   Parâmetro populacional é variável aleatória
+                                                              •   Depende de informações não observáveis (além das
+•    Toda a informação está disponível na amostra                 informações da amostra)
+•    Apenas distribuição a posteriori                         •   Depende de uma distribuição a priori (além da
+                                                                  distribuição a posteriori)
+•    Intervalo de confiança                                   •   Intervalo de credibilidade
+
+          Receita Federal (Analista Tributário) Estatística                                                    103
+          www.estrategiaconcursos.com.br                                                                       297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(2017 – TRF – 2ª Região – Adaptada) Sobre a abordagem bayesiana para estimar um parâmetro 𝜃, julgue as
+afirmativas a seguir.
+I – Uma distribuição de probabilidade é atribuída para esse parâmetro.
+II – A definição da distribuição priori pode ser totalmente subjetiva.
+Comentários:
+Na inferência bayesiana, considera-se que o parâmetro de interesse não é fixo, mas sim, uma variável
+aleatória. Ou seja, de fato, atribui-se uma distribuição ao parâmetro de interesse e a afirmativa I está correta.
+Ademais, considera-se uma distribuição a priori, com informações subjetivas, que não podem ser observada
+na amostra. Logo, a afirmativa II também está correta.
+Resposta: I e II certas.
+
+
+(Cebraspe/2019 – TJ-AM) A respeito dos diferentes métodos de estimação de parâmetros, julgue o item a
+seguir.
+A estimação de parâmetros pelo método bayesiano independe da distribuição a priori utilizada.
+Comentários:
+Na inferência bayesiana, são consideradas informações não observáveis na amostra (subjetivas) que
+compõem a chamada distribuição a priori. Logo, o item está incorreto.
+Gabarito: Errado.
+
+
+(VUNESP/2021 – EsFCEx) Assinale a alternativa correta sobre a comparação entre estatística clássica e
+estatística bayesiana.
+a) A estatística bayesiana utiliza somente o conhecimento prévio do pesquisador (informação a priori) para
+a estimação dos parâmetros.
+b) Somente a estatística clássica utiliza a verossimilhança na realização de suas inferências.
+c) Na estatística clássica, as inferências são feitas com base na verossimilhança, e tratam os parâmetros como
+aleatórios e desconhecidos e os dados como aleatórios e conhecidos.
+d) As inferências obtidas na estatística clássica e na estatística bayesiana para amostras pequenas são sempre
+coincidentes.
+e) Na estatística clássica, é considerado que há apenas um valor para o parâmetro analisado e não uma
+distribuição de probabilidade.
+Comentários:
+Essa questão compara os conceitos da estatística clássica com os da estatística bayesiana.
+
+
+         Receita Federal (Analista Tributário) Estatística                                                   104
+         www.estrategiaconcursos.com.br                                                                      297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Em relação à alternativa A, a estatística bayesiana considera, não apenas o conhecimento prévio (a priori),
+mas também as informações disponíveis na amostra (função de verossimilhança). Logo, a alternativa A está
+incorreta.
+Em relação à alternativa B, a estatística clássica não é a única que considera as informações disponíveis na
+amostra (verossimilhança) - a estatística bayesiana também considera essa fonte de informações. Logo, a
+alternativa B está incorreta.
+Em relação à alternativa C, a estatística clássica considera os parâmetros desconhecidos como fixos, e não
+como aleatórios. Logo, a alternativa C está incorreta.
+Em relação à alternativa D, a inferência clássica não coincide necessariamente com a inferência Bayesiana,
+principalmente para amostras pequenas, isto é, quando há poucas informações disponíveis na amostra.
+Assim, a alternativas D está incorreta.
+Em relação à alternativa E, na estatística clássica considera-se que o parâmetro desconhecido é fixo, ou seja,
+que há um único valor para ele, e não uma distribuição de probabilidade. Logo, a alternativa E está correta.
+Gabarito: E.
+
+Teorema de Bayes
+
+Do ponto de vista Bayesiano, dispomos de alguma informação a respeito do parâmetro populacional 𝜃
+desconhecido e buscamos aumentar esse nível de informação, observando os resultados das amostras.
+
+
+O quanto o nível de informação aumenta é calculado pelo Teorema de Bayes (da Teoria de Probabilidade):
+                                                   𝑝(𝜃, 𝑥) 𝑝(𝑥|𝜃) × 𝑝(𝜃)
+                                       𝑝(𝜃|𝑥) =           =
+                                                    𝑝(𝑥)       𝑝(𝑥)
+
+
+A probabilidade 𝑝(𝜃) corresponde à distribuição a priori do parâmetro 𝜃 e representa o nível de informação
+antes da observação da amostra.
+
+
+A probabilidade 𝑝(𝑥|𝜃) dos resultados da amostra, condicionada a 𝜃, corresponde à função de plausibilidade
+ou verossimilhança do resultado, em relação ao parâmetro 𝜃. Ela pode ser indicada como 𝑙(𝜃; 𝑝).
+
+
+Combinando essas duas fontes de informação (a priori e de verossimilhança), obtemos a distribuição a
+posteriori 𝑝(𝜃|𝑥), representa o nível de informação após a observação da amostra.
+
+
+A probabilidade 𝑝(𝑥), no denominador da fórmula, chamada preditiva, é a probabilidade associada ao
+resultado da amostra, para todos os possíveis valores de 𝜃.
+
+        Receita Federal (Analista Tributário) Estatística                                                 105
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+Se o parâmetro 𝜃 for uma variável discreta, ou seja, se houver uma quantidade contável de valores possíveis
+que ele pode assumir, a probabilidade preditiva pode ser calculada pelo Teorema da Probabilidade Total:
+
+                                      𝑝(𝑥) = ∑ 𝑝(𝑥, 𝜃𝑖 ) = ∑ 𝑝(𝑥|𝜃𝑖 ) × 𝑝(𝜃𝑖 )
+                                                 𝑖              𝑖
+
+Caso contrário, substituímos o somatório pela integral:
+
+                                     𝑝(𝑥) = ∫ 𝑝(𝑥, 𝜃). 𝑑𝜃 = ∫ 𝑝(𝑥|𝜃). 𝑝(𝜃). 𝑑𝜃
+
+Em ambos os casos, à direita, temos a fórmula da esperança da distribuição da amostra condicionada a 𝜃,
+para todos os valores possíveis de 𝜃:
+                                                     𝑝(𝑥) = 𝐸𝜃 [𝑝(𝑋|𝜃)]
+
+
+A probabilidade preditiva não é uma função do parâmetro 𝜃 e funciona como uma constante normalizadora,
+isto é, uma constante pela qual você divide o produto da probabilidade a priori pela função de
+verossimilhança (numerador da fórmula de Bayes), para que a probabilidade associada a todo o Espaço
+Amostral seja igual a 1.
+Assim, a probabilidade a posteriori é proporcional ao produto da probabilidade a priori pela função de
+verossimilhança:
+                                                𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃)
+Que também pode ser representado como:
+                                                 𝑝(𝜃|𝑥) ∝ 𝑙(𝜃; 𝑥) × 𝑝(𝜃)
+
+
+Para ilustrar, vamos considerar o exemplo1 de um médico que acredita que um paciente esteja doente e vai
+aplicar um teste para obter mais informações. Nesse caso, o parâmetro desconhecido é o indicador da
+doença:
+                                          1,          𝑠𝑒 𝑜 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒 𝑡𝑒𝑚 𝑎 𝑑𝑜𝑒𝑛ç𝑎
+                                   𝜃={                                           }
+                                          0,      𝑠𝑒 𝑜 𝑝𝑎𝑐𝑖𝑒𝑛𝑡𝑒 𝑛ã𝑜 𝑡𝑒𝑚 𝑎 𝑑𝑜𝑒𝑛ç𝑎
+Na inferência clássica, as conclusões a respeito do parâmetro desconhecido seriam totalmente baseadas no
+resultado do teste. Porém, na inferência Bayesiana, a informação prévia que o médico detém, com base em
+seu contato com o paciente e em sua experiência, é incorporada ao modelo.
+Vamos supor que o médico acredite que a probabilidade de o paciente ter a doença seja de 70%. Essa é a
+probabilidade a priori do parâmetro:
+                                                 𝑝(𝜃) = 𝑃(𝜃 = 1) = 0,7
+
+1
+    Gamerman e Migon (1993)
+
+
+           Receita Federal (Analista Tributário) Estatística                                            106
+           www.estrategiaconcursos.com.br                                                               297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+E vamos supor que o teste indique um falso positivo com probabilidade de 40% e um falso negativo com
+probabilidade de 5%.
+Assim, a probabilidade de o teste resultar em 𝑋 = 1, dado que o paciente não está doente (falso positivo),
+é igual a 40%; e a probabilidade de o teste resultar em 𝑋 = 0, dado que o paciente não está doente
+(resultado negativo adequado) é complementar:
+                                               𝑃(𝑋 = 1|𝜃 = 0) = 0,4
+                                        𝑃(𝑋 = 0|𝜃 = 0) = 1 − 0,4 = 0,6
+Ademais, a probabilidade de o teste resultar em 𝑋 = 0, dado que o paciente está doente (falso negativo), é
+igual a 5%; e a probabilidade de o teste resultar em 𝑋 = 1, dado que o paciente está doente (resultado
+positivo adequado) é complementar:
+                                              𝑃(𝑋 = 0|𝜃 = 1) = 0,05
+                                       𝑃(𝑋 = 1|𝜃 = 1) = 1 − 0,05 = 0,95
+
+
+Vamos considerar que o resultado do teste foi positivo 𝑋 = 1.
+Com base no resultado do teste, imaginamos que a probabilidade de o paciente ter a doença tenha
+aumentado.
+Para calcular essa nova probabilidade de o paciente ter a doença, dado que o resultado do teste foi positivo
+(distribuição a posteriori), utilizamos o Teorema de Bayes:
+                                                       𝑃(𝑋 = 1|𝜃 = 1) × 𝑃(𝜃 = 1)
+                               𝑃(𝜃 = 1|𝑋 = 1) =
+                                                               𝑃(𝑋 = 1)
+
+
+A função de verossimilhança 𝑝(𝑥|𝜃) = 𝑃(𝑋 = 1|𝜃 = 1) corresponde à probabilidade de o resultado ser
+positivo (resultado observado), dado que o paciente está doente:
+                                        𝑝(𝑥|𝜃) = 𝑃(𝑋 = 1|𝜃 = 1) = 0,95
+A distribuição à priori 𝑝(𝜃) = 𝑃(𝜃 = 1) corresponde à probabilidade indicada inicialmente pelo médico:
+                                                  𝑃(𝜃 = 1) = 0,70
+E a distribuição preditiva 𝑝(𝑥) = 𝑃(𝑋 = 1) corresponde à probabilidade de obter o resultado obtido 𝑋 = 1,
+independentemente do valor de 𝜃. Ela pode ser calculada pelo Teorema da Probabilidade Total:
+
+                𝑃(𝑋 = 1) = 𝑃(𝑋 = 1|𝜃 = 1) × 𝑃(𝜃 = 1) + 𝑃(𝑋 = 1|𝜃 = 0) × 𝑃(𝜃 = 0)
+
+Sabendo que a probabilidade a priori de o paciente não estar doente é 𝑃(𝜃 = 0) = 1 − 0,7 = 0,3, temos:
+
+                        𝑃(𝑋 = 1) = 0,95 × 0,7 + 0,4 × 0,3 = 0,665 + 0,12 = 0,785
+
+        Receita Federal (Analista Tributário) Estatística                                                107
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Assim, a probabilidade à posteriori, que corresponde à probabilidade de o paciente estar doente, após o
+resultado do teste, é dada por:
+
+                                   𝑃(𝑋 = 1|𝜃 = 1) × 𝑃(𝜃 = 1) 0,95 × 0,70 0,665
+            𝑃(𝜃 = 1|𝑋 = 1) =                                =           =       ≅ 0,847
+                                           𝑃(𝑋 = 1)             0,785     0,785
+
+Que, de fato, é maior do que a probabilidade a priori. O aumento não foi tão grande porque a probabilidade
+do falso positivo 𝑃(𝑋 = 1|𝜃 = 0) = 40% é considerável.
+
+Múltiplas Observações
+
+É possível realizar um novo procedimento 𝑌, após o primeiro 𝑋, para aumentar ainda mais o nível de
+informação a respeito do parâmetro 𝜃.
+Na hipótese de independência condicional de 𝑋 e 𝑌 dado 𝜃, a nova distribuição a posteriori, qual seja, a
+distribuição de 𝜃 após os resultados dos dois procedimentos 𝑝(𝜃|𝑥, 𝑦) é dada por:
+                                                            𝑝(𝑦|𝜃) × 𝑝(𝜃|𝑥)
+                                           𝑝(𝜃|𝑥, 𝑦) =
+                                                                𝑝(𝑦|𝑥)
+Em que 𝑝(𝑦|𝜃) é a função de verossimilhança do segundo procedimento, em relação a 𝜃; e 𝑝(𝜃|𝑥)
+corresponde à nova distribuição a priori, após o resultado do primeiro procedimento 𝑋.
+Ou seja, a distribuição considerada a posteriori, após o teste X, agora é considerada a priori, antes de Y.
+No denominador, temos a distribuição preditiva de 𝑦 dado 𝑥, isto é, a probabilidade do resultado de 𝑌, dado
+o resultado de 𝑋, para todos os possíveis valores de 𝜃.
+
+
+Na hipótese de independência condicional de 𝑋 e 𝑌 dado 𝜃, a probabilidade preditiva condicional de 𝑌 dado
+𝑋, para o caso discreto, pode ser calculada como:
+
+                               𝑝(𝑦|𝑥) = ∑ 𝑝(𝑦, 𝜃𝑖 |𝑥) = ∑ 𝑝(𝑦|𝜃𝑖 ) × 𝑝(𝜃𝑖 |𝑥)
+                                             𝑖                   𝑖
+
+Para o caso contínuo, substituímos o somatório pela integral:
+
+                               𝑝(𝑦|𝑥) = ∫ 𝑝(𝑦, 𝜃|𝑥). 𝑑𝜃 = ∫ 𝑝(𝑦|𝜃). 𝑝(𝜃|𝑥). 𝑑𝜃
+
+Em ambos os casos, à direita, temos a fórmula da esperança da distribuição de 𝑌 condicionada a 𝜃, para
+todos os valores possíveis de 𝜃 dado 𝑥:
+                                                 𝑝(𝑦|𝑥) = 𝐸𝜃|𝑥 [𝑝(𝑌|𝜃)]
+
+A probabilidade preditiva condicionada também não é uma função do parâmetro 𝜃, funcionando como uma
+constante normalizadora.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                     108
+        www.estrategiaconcursos.com.br                                                                        297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Assim, temos a seguinte relação de proporcionalidade:
+                                           𝑝(𝜃|𝑥, 𝑦) ∝ 𝑝(𝑦|𝜃) × 𝑝(𝜃|𝑥)
+Sabendo que 𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃), então:
+                                      𝑝(𝜃|𝑥, 𝑦) ∝ 𝑝(𝑦|𝜃) × 𝑝(𝑥|𝜃) × 𝑝(𝜃)
+Também podemos representar essas expressões, utilizando as funções de verossimilhança:
+                                          𝑝(𝜃|𝑥, 𝑦) ∝ 𝑙𝑦 (𝜃; 𝑦) × 𝑝(𝜃|𝑥)
+
+                                     𝑝(𝜃|𝑥, 𝑦) ∝ 𝑙𝑦 (𝜃; 𝑦) × 𝑙𝑥 (𝜃; 𝑥) × 𝑝(𝜃)
+
+Por se tratar de um produto, podemos concluir que a ordem dos procedimentos não interfere no resultado.
+
+        Generalizando a proporcionalidade para 𝑛 procedimentos 𝑥1 , … 𝑥𝑛 , temos:
+
+                                  𝑝(𝜃|𝑥1 , … , 𝑥𝑛 ) ∝ 𝑝(𝑥𝑛 |𝜃) × 𝑝(𝜃|𝑥𝑛−1 , … , 𝑥1 )
+
+        Sabendo que 𝑝(𝜃|𝑥𝑛−1 , … , 𝑥1 ) ∝ 𝑝(𝑥𝑛−1|𝜃) × … × 𝑝(𝑥1 |𝜃) × 𝑝(𝜃), temos:
+
+                                      𝑝(𝜃|𝑥1 , … , 𝑥𝑛 ) ∝ [∏𝑛𝑖=1 𝑝(𝑥𝑖 |𝜃)]. 𝑝(𝜃)
+
+        Também podemos representar essas expressões, utilizando as funções de verossimilhança:
+
+                                 𝑝(𝜃|𝑥1 , … , 𝑥𝑛 ) ∝ 𝑙𝑛 (𝜃; 𝑥𝑛 ) × 𝑝(𝜃|𝑥𝑛−1 , … , 𝑥1 )
+
+                                      𝑝(𝜃|𝑥1 , … , 𝑥𝑛 ) ∝ [∏𝑛𝑖=1 𝑙𝑖 (𝜃; 𝑥𝑖 )]. 𝑝(𝜃)
+
+Vamos voltar ao nosso exemplo do médico e supor que seja aplicado um segundo teste Y, cuja probabilidade
+de um falso positivo seja de 4% e a probabilidade de um falso negativo seja de 1%
+Assim, a probabilidade de o teste resultar em 𝑌 = 1, dado que o paciente não está doente (falso positivo), é
+igual a 4%; e a probabilidade de o teste resultar em 𝑌 = 0, dado que o paciente não está doente (resultado
+negativo adequado) é complementar:
+                                              𝑃(𝑌 = 1|𝜃 = 0) = 0,04
+                                       𝑃(𝑌 = 0|𝜃 = 0) = 1 − 0,04 = 0,96
+
+        Receita Federal (Analista Tributário) Estatística                                               109
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Ademais, a probabilidade de o teste resultar em 𝑌 = 0, dado que o paciente está doente (falso negativo), é
+igual a 1%; e a probabilidade de o teste resultar em 𝑌 = 1, dado que o paciente está doente (resultado
+positivo adequado) é complementar:
+                                              𝑃(𝑌 = 0|𝜃 = 1) = 0,01
+                                       𝑃(𝑌 = 1|𝜃 = 1) = 1 − 0,01 = 0,99
+
+
+Vamos supor que o resultado tenha sido negativo 𝑌 = 0.
+Com base no resultado do teste, imaginamos que a probabilidade de o paciente ter a doença tenha
+diminuído. Para calcular essa probabilidade, dado que o resultado do teste X foi positivo e que o resultado
+do teste Y foi negativo (distribuição a posteriori), utilizamos o Teorema de Bayes:
+                                                       𝑃(𝑌 = 0|𝜃 = 1) × 𝑃(𝜃 = 1|𝑋 = 1)
+                       𝑃(𝜃 = 1|𝑋 = 1, 𝑌 = 0) =
+                                                               𝑃(𝑌 = 0|𝑋 = 1)
+
+
+A função de verossimilhança 𝑝(𝑦|𝜃) = 𝑃(𝑌 = 0|𝜃 = 1) corresponde à probabilidade de o resultado ser
+negativo (resultado observado), dado que o paciente está doente:
+                                        𝑝(𝑦|𝜃) = 𝑃(𝑌 = 0|𝜃 = 1) = 0,01
+A distribuição a priori 𝑝(𝜃|𝑥) = 𝑃(𝜃 = 1|𝑋 = 1) agora corresponde à probabilidade de o paciente estar
+doente, após o resultado do teste X, que calculamos anteriormente (como a probabilidade a posteriori para
+o teste X):
+                                             𝑃(𝜃 = 1|𝑋 = 1) = 0,847
+E a distribuição preditiva 𝑝(𝑦|𝑥) = 𝑃(𝑌 = 0|𝑋 = 1) corresponde à probabilidade de obter o resultado do
+teste Y ser negativo, sabendo que o resultado do teste X foi positivo, independentemente do valor de 𝜃. Ela
+pode ser calculada pelo Teorema da Probabilidade Total:
+
+     𝑃(𝑌 = 0|𝑋 = 1) = 𝑃(𝑌 = 0|𝜃 = 0) × 𝑃(𝜃 = 0|𝑋 = 1) + 𝑃(𝑌 = 0|𝜃 = 1) × 𝑃(𝜃 = 1|𝑋 = 1)
+
+Sabendo que a probabilidade a priori de o paciente não estar doente, dado 𝑋 = 1, é complementar
+𝑃(𝜃 = 0|𝑋 = 1) = 1 − 0,847 = 0,153, temos:
+
+            𝑃(𝑌 = 0|𝑋 = 1) = 0,96 × 0,153 + 0,01 × 0,847 = 0,14688 + 0,00847 = 0,15535
+
+Assim, a probabilidade a posteriori, que corresponde à probabilidade de o paciente estar doente, após o
+resultado do teste Y, é dada por:
+
+                                 𝑃(𝑌 = 0|𝜃 = 1) × 𝑃(𝜃 = 1|𝑋 = 1) 0,01 × 0,847 0,00847
+  𝑃(𝜃 = 1|𝑋 = 1, 𝑌 = 0) =                                       =            =         ≅ 0,055
+                                         𝑃(𝑌 = 0|𝑋 = 1)            0,15535     0,15535
+
+A probabilidade a posteriori foi tão inferior à probabilidade a priori porque a probabilidade do falso negativo
+é muito pequena.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  110
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Distribuição Normal
+
+Vamos supor que uma única observação 𝑋 (teste único) tenha distribuição normal, com média desconhecida
+𝜃 e variância conhecida 𝜎 2 , que corresponde à função de verossimilhança:
+                                                     𝑋|𝜃~𝑁(𝜃, 𝜎 2 )
+E, ainda, que a distribuição a priori da média 𝜃 siga distribuição normal, com parâmetros 𝜇0 e 𝜏02 :
+
+                                                      𝜃~𝑁(𝜇0 , 𝜏02 )
+Nessa situação, a distribuição a posteriori 𝜃|𝑋 será normal com parâmetros 𝜇1 e 𝜏12 , dados por:
+                                              𝜇0 𝑥
+                                                 +
+                                              𝜏02 𝜎 2           1    1   1
+                                         𝜇1 =         ,            =   +
+                                              1    1            𝜏12 𝜏02 𝜎 2
+                                                 +
+                                              𝜏02 𝜎 2
+
+
+Para entender melhor esse resultado, vamos considerar que o inverso da variância, que é necessariamente
+positiva, corresponde à precisão, a qual representa o nível de informação.
+                                              1                                                        1
+Assim, a precisão a posteriori 𝑝1 = 𝜏2 corresponde à soma das precisões a priori 𝑝0 = 𝜏2 e da
+                                               1                                                       0
+                        1
+verossimilhança 𝑝𝑣 = 𝜎2 :
+
+                                                     𝑝1 = 𝑝0 + 𝑝𝑣
+Note que ela não depende do resultado observado 𝑥.
+Além disso, vamos chamar de 𝑤 a razão entre a precisão a priori e a precisão a posteriori (total), que pode
+variar no intervalo (0, 1):
+                                                        𝑝0    𝑝0
+                                                   𝑤=      =
+                                                        𝑝1 𝑝0 + 𝑝𝑣
+Com isso, a média a posteriori pode ser calculada como:
+                                           𝜇0 . 𝑝0 + 𝑥. 𝑝𝑣
+                                    𝜇1 =                   = 𝜇0 . 𝑤 + 𝑥. (1 − 𝑤)
+                                               𝑝0 + 𝑝𝑣
+Ou seja, a média a posteriori é uma combinação linear entre a média a priori e o resultado observado,
+assumindo um valor intermediário:
+                                           min{𝜇0 , 𝑥} ≤ 𝜇1 ≤ max{𝜇0 , 𝑥}
+Ademais, quanto maior a precisão a priori em relação à precisão a posteriori (total), mais próxima da média
+a priori será a média a posteriori.
+Vale acrescentar que a distribuição preditiva de X (não condicionada) segue distribuição normal com média
+igual à média a priori e variância igual à soma das variâncias a priori e de verossimilhança:
+
+                                                   𝑋~𝑁(𝜇0 , 𝜏02 + 𝜎 2 )
+
+        Receita Federal (Analista Tributário) Estatística                                                  111
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+Por exemplo2, vamos supor dois físicos A e B, que queiram estimar uma constante física desconhecida 𝜃.
+O físico A, mais experiente, acredita que a constante tenha distribuição normal com média 𝜇0𝐴 = 900 e
+           2
+variância 𝜏0𝐴 = 400. Essa é a distribuição a priori para o físico A.
+O físico A, menos experiente, acredita que a constante tenha distribuição normal com média 𝜇0𝐵 = 800 e
+            2
+variância 𝜏0𝐵 = 6400. Essa é a distribuição a priori para o físico B. A menor experiência do físico B é traduzida
+pela maior variância (menor precisão) da distribuição a priori.
+Agora vamos supor um aparelho para testar a referida constante, cujos resultados seguem distribuição
+normal com média 𝜃 e variância 𝜎 2 = 1600. Essa é a função de verossimilhança.
+Vamos considerar que o resultado obtido seja 𝑥 = 850 e calcular a distribuição a posteriori para cada físico.
+A precisão a posteriori é a soma das precisões a priori e da verossimilhança. Para o físico A, temos:
+                                                                ==219a34==
+
+                                                                              1    1
+                                                𝑝1𝐴 = 𝑝0𝐴 + 𝑝𝑣 =              2  +
+                                                                             𝜏0𝐴   𝜎2
+                                        1    1
+                               𝑝1𝐴 =      +     = 0,0025 + 0,000625 = 0,003125
+                                       400 1600
+A variância a posteriori é o inverso desse resultado:
+
+                                               2
+                                                       1      1
+                                              𝜏1𝐴 =      =         = 320
+                                                      𝑝1𝐴 0,003125
+Para calcular a média a posteriori, vamos calcular a proporção 𝑤 entre a precisão a priori e a precisão total:
+                                                      𝑝0𝐴   0,0025
+                                               𝑤𝐴 =       =        = 0,8
+                                                      𝑝1𝐴 0,003125
+Ou seja, a precisão a priori corresponde a 80% da precisão a posteriori.
+Por fim, a média a posteriori para o físico A é:
+                                               𝜇1𝐴 = 𝜇0𝐴 . 𝑤𝐴 + 𝑥. (1 − 𝑤𝐴 )
+                                  𝜇1𝐴 = 900 × 0,8 + 850 × 0,2 = 720 + 170 = 890
+Observamos que a média a posteriori está entre a média a priori e o resultado (como vimos antes). Como a
+precisão a priori corresponde a uma parcela significativa da precisão total, a média a posteriori é bem
+próxima da média a priori.
+Também podemos calcular o aumento da precisão, em relação à precisão a priori:
+                                  𝑝1𝐴 − 𝑝0𝐴   1       1
+                                            =    −1=     − 1 = 1,25 − 1 = 0,25
+                                     𝑝0𝐴      𝑤𝐴     0,8
+Ou seja, a precisão aumentou em 25% para o físico A.
+
+2
+    Box & Tiao (1992)
+
+
+            Receita Federal (Analista Tributário) Estatística                                                112
+            www.estrategiaconcursos.com.br                                                                   297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Agora, vamos fazer o mesmo para o físico B. A precisão a posteriori é dada por:
+                                                                1   1
+                                            𝑝1𝐵 = 𝑝0𝐵 + 𝑝𝑣 =    2 + 𝜎2
+                                                               𝜏0𝐵
+                                1    1
+                      𝑝1𝐴 =       +     = 0,00015625 + 0,000625 = 0,00078125
+                              6400 1600
+A variância a posteriori é o inverso desse resultado:
+
+                                         2
+                                                 1       1
+                                        𝜏1𝐵 =      =           = 1280
+                                                𝑝1𝐵 0,00078125
+Agora, vamos calcular a proporção 𝑤 entre a precisão a priori e a precisão total:
+                                                 𝑝0𝐵 0,00015625
+                                         𝑤𝐵 =       =           = 0,2
+                                                 𝑝1𝐵 0,00078125
+Ou seja, a precisão a priori corresponde a 20% da precisão a posteriori.
+Por fim, a média a posteriori para o físico B é:
+                                           𝜇1𝐵 = 𝜇0𝐵 . 𝑤𝐵 + 𝑥. (1 − 𝑤𝐵 )
+                              𝜇1𝐵 = 800 × 0,2 + 850 × 0,8 = 160 + 680 = 840
+Novamente, a média a posteriori está entre a média a priori e o resultado, mas, para o físico B, a nova média
+está muito mais próxima do resultado do que da média a posteriori, uma vez que a precisão a priori é bem
+pequena em relação ao total.
+E o aumento da precisão foi na proporção de:
+                                  𝑝1𝐵 − 𝑝0𝐵   1       1
+                                            =    −1=     −1= 5−1 =4
+                                     𝑝0𝐵      𝑤𝐵     0,2
+Ou seja, a precisão aumentou em 400%.
+Embora esse aumento seja muito maior do que o aumento na precisão para o físico A (de 25%), a precisão a
+                          1                                                             1
+posteriori do físico B (1280 = 0,00078125) continua sendo bem inferior à do físico A (320 = 0,003125).
+
+Distribuições Conjugadas
+
+Quando a conjugação entre distribuições está presente, as distribuições a priori e a posteriori pertencem à
+mesma classe de distribuições.
+Nessa situação, o aprendizado com as observações (ou testes) se resume em atualizar os parâmetros da
+distribuição à priori.
+Isso ocorreu no exemplo que acabamos de ver - as distribuições tanto a priori quanto a posteriori são
+normais; e o aprendizado se resumo em atualizar os parâmetros da distribuição.
+
+        Receita Federal (Analista Tributário) Estatística                                                113
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para não confundir com o parâmetro desconhecido que desejamos estimar, chamamos os parâmetros da
+distribuição a priori (que são atualizados) de hiperparâmetros.
+
+
+A definição de distribuições conjugadas é a seguinte:
+
+        Sendo 𝐹 = {𝑝(𝑥|𝜃)} uma classe de distribuições amostrais, então uma classe de
+        distribuições 𝑃 é conjugada a 𝐹 se:
+
+                                      ∀𝑝(𝑥|𝜃) ∈ 𝐹 e 𝑝(𝜃) ∈ 𝑃 → 𝑝(𝜃|𝑥) ∈ 𝑃
+
+Ou seja, as distribuições a priori 𝑝(𝜃) e a posteriori 𝑝(𝜃|𝑥) pertencerão à mesma classe P, se a função de
+verossimilhança 𝑝(𝑥|𝜃) pertencer a uma classe F conjugada a P.
+
+Distribuição Beta
+
+Vamos supor que uma população siga distribuição de Bernoulli com parâmetro 0 < 𝜃 < 1 e que seja
+extraída uma amostra 𝑋1 , 𝑋2 , … , 𝑋𝑛 de tamanho 𝑛.
+Nessa situação, cada elemento da amostra assume o valor 1 com probabilidade 𝜃 e o valor 0 com
+probabilidade (1 − 𝜃).
+Assim, a distribuição de probabilidade de cada elemento da amostra pode ser representada como:
+
+                                    𝑝(𝑥𝑖 |𝜃) = 𝜃 𝑥𝑖 (1 − 𝜃)1−𝑥𝑖 ,     𝑥𝑖 = 0, 1
+
+E a função de verossimilhança 𝑝(𝑥|𝜃), que corresponde à distribuição conjunta dos resultados da amostra,
+condicionada ao parâmetro 𝜃, é dada por:
+
+                                  𝑝(𝑥|𝜃) = 𝑝(𝑥1 |𝜃) × 𝑝(𝑥2 |𝜃) × … × 𝑝(𝑥𝑛 |𝜃)
+                                                        𝑛               𝑛
+                                        𝑝(𝑥|𝜃) = 𝜃 ∑𝑖=1 𝑥𝑖 (1 − 𝜃)𝑛−∑𝑖=1 𝑥𝑖
+
+Fazendo 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 , podemos representar a função de verossimilhança como:
+
+                                              𝑝(𝑥|𝜃) = 𝜃 𝑡 (1 − 𝜃)𝑛−𝑡
+
+Essa distribuição é proporcional a uma distribuição Beta.
+
+        Receita Federal (Analista Tributário) Estatística                                              114
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+        A distribuição Beta depende dos parâmetros 𝛼 > 0 e 𝛽 > 0 e a sua f.d.p. é dada por:
+
+                                             Γ(α+β)
+                                   𝑓(𝑥) = Γ(α).Γ(β) 𝑥 𝛼−1 (1 − 𝑥)𝛽−1 , 0 < 𝑥 < 1
+
+        Em que Γ é a função gama. Para valores inteiros e positivos, temos:
+
+                                                      Γ(𝑛 + 1) = 𝑛!
+
+                                Γ(α+β)
+        Na prática, a razão Γ(α).Γ(β) funciona como uma constante de normalização.
+
+        A média da distribuição Beta é:
+                                                               𝛼
+                                                      𝐸(𝑋) = 𝛼+𝛽
+
+        Pontue-se que a distribuição uniforme no intervalo (0,1) é um caso particular da
+        distribuição Beta com parâmetros 𝜶 = 𝟏 e 𝜷 = 𝟏.
+
+        Essa distribuição uniforme pode ser utilizada como distribuição a priori quando não há
+        informações a respeito da proporção desconhecida, chamada priori não informativa.
+
+Comparando os expoentes de 𝜃 e (1 − 𝜃) da função de verossimilhança e os expoentes de 𝑥 e (1 − 𝑥) da
+distribuição Beta, podemos observar que:
+                                              𝑡 = 𝛼−1→𝛼 = 1+𝑡
+                                         𝑛−𝑡 =𝛽−1→𝛽 =1+𝑛−𝑡
+Portanto, a função de verossimilhança de uma população de Bernoulli segue uma distribuição Beta com
+parâmetros 𝛼 = 1 + 𝑡 e 𝛽 = 1 + 𝑛 − 𝑡.
+
+
+Pelo Teorema de Bayes, a distribuição a posteriori é proporcional ao produto da função de verossimilhança
+pela distribuição a priori:
+                               𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃) = 𝜃 𝑡 (1 − 𝜃)𝑛−𝑡 × 𝑝(𝜃)
+
+        Receita Federal (Analista Tributário) Estatística                                             115
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos supor que a distribuição a priori de 𝜃 seja Beta com parâmetros 𝛼0 e 𝛽0. Podemos indicar a
+distribuição a posteriori como:
+
+                       𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃) ∝ 𝜃 𝑡 (1 − 𝜃)𝑛−𝑡 × 𝜃 𝛼0 −1 (1 − 𝜃)𝛽0−1
+
+                                        𝑝(𝜃|𝑥) ∝ 𝜃 𝛼0 +𝑡−1 (1 − 𝜃)𝛽0+𝑛−𝑡−1
+
+Comparando os expoentes de 𝜃 e (1 − 𝜃) dessa função e os expoentes de 𝑥 e (1 − 𝑥) da distribuição Beta,
+podemos observar que:
+
+                                        𝛼0 + 𝑡 − 1 = 𝛼 − 1 → 𝜶 = 𝜶𝟎 + 𝒕
+
+                                  𝛽0 + 𝑛 − 𝑡 − 1 = 𝛽 − 1 → 𝜷 = 𝜷𝟎 + 𝒏 − 𝒕
+
+Ou seja, se a função de verossimilhança seguir distribuição de Bernoulli e a distribuição a priori seguir
+distribuição Beta com parâmetros 𝛼0 e 𝛽0, a distribuição a posteriori seguirá distribuição Beta com
+parâmetros 𝜶𝟎 + 𝒕 e 𝜷𝟎 + 𝒏 − 𝒕, em que 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 .
+Assim, concluímos que a distribuição Beta é conjugada à distribuição de Bernoulli.
+Embora tenhamos verificado para as distribuições Beta com parâmetros inteiros, podemos ampliar para
+todas as distribuições Beta (com parâmetros positivos).
+
+
+Por exemplo, vamos supor que, de uma amostra de tamanho 𝑛 = 5, extraída de uma população de Bernoulli
+com parâmetro 𝜃 desconhecido, foram observadas 𝑡 = 3 sucessos.
+Vamos considerar que a distribuição a priori para o parâmetro desconhecido é uniforme no intervalo (0, 1),
+o que corresponde a uma distribuição Beta com parâmetros 𝛼0 = 1 e 𝛽0 = 1.
+Nessa situação, a distribuição a posteriori será Beta com os seguintes parâmetros:
+                                              𝛼 = 𝛼0 + 𝑡 = 1 + 3 = 4
+                                         𝛽 = 𝛽0 + 𝑛 − 𝑡 = 1 + 5 − 3 = 3
+
+
+Agora, vamos verificar o que ocorre quando a função de verossimilhança segue distribuição binomial com
+parâmetros 𝑛 (conhecido) e 𝜃 (desconhecido), dada por:
+
+                                           𝑝(𝑥|𝜃) = 𝐶𝑛,𝑥 . 𝜃 𝑥 (1 − 𝜃)𝑛−𝑥
+
+Que é proporcional a uma distribuição Beta com parâmetros 𝛼 = 1 + 𝑥 e 𝛽 = 1 + 𝑛 − 𝑥.
+
+
+Pelo Teorema de Bayes, a distribuição a posteriori é proporcional a:
+                            𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃) = 𝐶𝑛,𝑥 . 𝜃 𝑥 (1 − 𝜃)𝑛−𝑥 × 𝑝(𝜃)
+
+        Receita Federal (Analista Tributário) Estatística                                              116
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Considerando que 𝐶𝑛,𝑥 é uma constante nessa situação, temos:
+
+                                         𝑝(𝜃|𝑥) ∝ 𝜃 𝑥 (1 − 𝜃)𝑛−𝑥 × 𝑝(𝜃)
+
+
+Sendo a distribuição a priori uma distribuição Beta com parâmetros 𝛼0 e 𝛽0, temos:
+
+                                 𝑝(𝜃|𝑥) ∝ 𝜃 𝑥 (1 − 𝜃)𝑛−𝑥 × 𝜃 𝛼0 −1 (1 − 𝜃)𝛽0−1
+
+                                       𝑝(𝜃|𝑥) ∝ 𝜃 𝛼0 +𝑥−1 (1 − 𝜃)𝛽0+𝑛−𝑥−1
+Ou seja, a distribuição a posteriori segue distribuição Beta com parâmetros 𝜶 = 𝜶𝟎 + 𝒙 e 𝜷 = 𝜷𝟎 + 𝒏 − 𝒙.
+Assim, a distribuição Beta também é conjugada à distribuição binomial.
+
+
+Por exemplo, vamos supor a distribuição Beta a priori com parâmetros 𝛼0 = 0,5 e 𝛽0 = 0,5. Assim, supondo
+uma amostra de tamanho 𝑛 = 10, com 𝑥 = 2 observações favoráveis, a distribuição a posteriori terá os
+seguintes parâmetros:
+                                                 𝛼 = 0,5 + 2 = 2,5
+                                              𝛽 = 0,5 + 10 − 2 = 8,5
+
+                                                            𝟏        𝟏
+        A distribuição Beta com parâmetros 𝜶𝟎 = 𝟐 e 𝜷𝟎 = 𝟐 também é uma distribuição a priori
+        não informativa, utilizada quando a informação a priori é vaga. Ela resulta da aplicação do
+        Método de Jeffreys para o modelo binomial (incluindo, a distribuilção de Bernoulli).
+
+        De maneira geral, a distribuição a priori não informativa obtida por esse método é
+        proporcional à raiz quadrada da informação esperada de Fisher:
+
+                                                    𝑝𝐽 (𝜃) ∝ √𝐼(𝜃)
+
+        Para distribuições da família exponencial, a informação esperada de Fisher pode ser
+        calculada como:
+
+                                                                𝜕2
+                                            𝐼(𝜃) = −𝐸𝑋 (𝜕𝜃2 ln 𝑝(𝑥|𝜃))
+
+        Sempre que a distribuição a posteriori possuir normalidade assintótica, como é o caso das
+        funções que estudamos aqui, a distribuição a priori obtida pelo Método de Jeffreys
+        corresponde à distribuição a priori não informativa de referência, qual seja, aquela que
+        maximiza a falta de informação.
+
+
+        Receita Federal (Analista Tributário) Estatística                                             117
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+           A distribuição Beta também é conjugada às distribuições amostrais geométrica e binomial
+           negativa.
+
+(VUNESP/2021 – EsFCEx) Na abordagem bayesiana, com base no conhecimento que se tem sobre um
+parâmetro θ, pode-se definir uma família paramétrica de densidades. Nesse caso, a distribuição a priori é
+representada por uma forma funcional, cujos parâmetros devem ser especificados de acordo com esse
+conhecimento. Essa abordagem, em geral, facilita a análise e o caso mais importante é o de prioris
+conjugadas. A ideia é que as distribuições a priori e a posteriori pertençam à mesma classe de distribuições
+e, assim, a atualização do conhecimento que se tem do parâmetro θ envolve apenas uma mudança nos
+hiperparâmetros.
+Nesse caso, assinale a alternativa em que é correto afirmar que a priori é conjugada.
+a) Distribuição a priori Beta de parâmetros inteiros é conjugada à família Bernoulli.
+b) Distribuição a priori Uniforme é conjugada à família Normal.
+c) Distribuição a priori Poisson é conjugada à família Normal.
+d) Distribuição a priori Normal é conjugada à família Bernoulli.
+e) Distribuição a priori Beta de parâmetros inteiros é conjugada à família Gama.
+Comentários:
+A distribuição Beta é conjugada à distribuição de Bernoulli, ou seja, quando a população segue distribuição
+de Bernoulli e a distribuição a priori pertence à família Beta, então a distribuição a posteriori também
+pertencerá à família Beta.
+A distribuição Beta também é conjugada à distribuição binomial, geométrica e binomial negativa.
+Gabarito: A
+
+
+(FGV/2021 – FunSaúde/CE) Suponha que 𝑋1 , 𝑋2 , … , 𝑋𝑛 seja uma amostra aleatória de uma distribuição
+Bernoulli (𝜃), 𝜃 desconhecido.
+Se usarmos uma distribuição a priori Beta (𝛼 = 1, 𝛽 = 1) para 𝜃, se 𝑛 = 10 e se as observações são 1, 0, 0,
+0, 1, 1, 0, 1, 1, 1, então a distribuição a posteriori de 𝜃, dada a amostra observada tem distribuição Beta com
+parâmetros iguais a
+a) 6 e 4
+
+
+           Receita Federal (Analista Tributário) Estatística                                               118
+           www.estrategiaconcursos.com.br                                                                  297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+b) 7 e 5
+c) 6 e 10
+d) 8 e 6
+e) 9 e 5
+Comentários:
+Quando a população segue distribuição de Bernoulli e a distribuição a priori segue distribuição Beta com
+parâmetros 𝛼 e 𝛽, então a distribuição a posteriori será Beta, com parâmetros 𝜶 + 𝒕 e 𝜷 + 𝒏 − 𝒕, em que
+𝑡 = ∑𝑛𝑖=1 𝑥𝑖 .
+O enunciado informa que 𝛼 = 1, 𝛽 = 1 e 𝑛 = 10. A partir da amostra fornecida, observamos que 𝑡 = 6.
+Assim, os parâmetros da distribuição a posteriori são:
+                                                     𝛼+𝑡 =1+6=7
+                                               𝛽 + 𝑛 − 𝑡 = 1 + 10 − 6 = 5
+Gabarito: B
+
+
+(2022 – PROGEP-FURG) Seja 𝜋(𝜃)~𝐵𝑒𝑡𝑎(𝛼, 𝛽), 𝛼, 𝛽 > 0 uma distribuição a priori e 𝑓(𝑥|𝜃) = 𝐵𝑖𝑛(𝑛, 𝜃) uma
+função de verossimilhança. Portanto, visto que as distribuições Beta e Binomial pertencem à mesma família,
+ou seja, são conjugadas, a distribuição posterior que se procura é dada por
+a) 𝜋(𝑥|𝜃)~𝐵𝑒𝑡𝑎(𝑥 + 𝛼, 𝑛 − 𝑥 + 𝛽)
+b) 𝜋(𝑥|𝜃)~𝐵𝑒𝑡𝑎(𝑥 + 𝛼 − 1, 𝑛 − 𝑥 + 𝛽)
+c) 𝜋(𝑥|𝜃)~𝐵𝑖𝑛(𝑥 + 𝛼, 𝑛 − 𝑥 + 𝛽)
+d) 𝜋(𝜃|𝑥)~𝐵𝑖𝑛(𝑥, 𝑛 − 𝑥)
+e) 𝜋(𝜃|𝑥)~𝐵𝑒𝑡𝑎(𝑥 + 𝛼, 𝑛 − 𝑥 + 𝛽)
+Comentários:
+A distribuição Beta é conjugada à distribuição binomial, ou seja, quando a função de verossimilhança segue
+distribuição binomial e a distribuição a priori pertence à família Beta, então a distribuição a posteriori
+também pertencerá à família Beta.
+Sendo 𝛼 e 𝛽 os parâmetros da distribuição a priori, então os parâmetros da distribuição a posteriori serão
+𝜶 + 𝒙 e 𝜷 + 𝒏 − 𝒙.
+Acrescenta-se que a distribuição a posteriori, que representa a distribuição do parâmetro desconhecido 𝜃
+após a observação da amostra 𝑥 é indicada como 𝜋(𝜃|𝑥), e não como 𝜋(𝑥|𝜃).
+Gabarito: E
+
+
+(2019 – EsFCEx) Seja X urna variável aleatória com distribuição de Bernoulli de parâmetro 0 < 𝜃 < 1, a priori
+de Jeffreys para este modelo é dada por:
+             1 1
+a) 𝐵𝑒𝑡𝑎 (4 , 4)
+             1 1
+b) 𝐵𝑒𝑡𝑎 (2 , 2)
+
+            Receita Federal (Analista Tributário) Estatística                                            119
+            www.estrategiaconcursos.com.br                                                               297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                1
+c) 𝐵𝑒𝑡𝑎 (1, 2)
+            1
+d) 𝐵𝑒𝑡𝑎 (2 , 1)
+            1
+e) 𝐵𝑒𝑡𝑎 (4 , 1)
+Comentários:
+A distribuição a priori de Jeffreys para o modelo binomial (incluindo a distribuição de Bernoulli) para o
+parâmetro 𝜃, que corresponde à distribuição a priori não informativa que maximiza a falta de informação,
+é a distribuição:
+                                                                1 1
+                                                          𝐵𝑒𝑡𝑎 ( , )
+                                                                2 2
+Gabarito: B
+
+         A distribuição Dirichlet é uma generalização da distribuição Beta para 𝑘 = 2. A f.d.p. da
+         distribuição Dirichlet é dada por:
+
+                                                Γ(∑𝑘
+                                                   𝑖=1 𝛼𝑖 )  𝛼 −1   𝛼 −1
+                    𝑝(𝑥1 , … , 𝑥𝑘 |𝛼1 , … 𝛼𝑘 ) = ∏𝑘         𝑥1 1 … 𝑥𝑘 𝑘 ,         ∑𝑘𝑖=1 𝑥𝑖 = 1, 𝛼1 , … 𝛼𝑘 > 0
+                                                 𝑖=1 Γ(αi )
+
+
+         Essa distribuição é conjugada à distribuição multinomial, que é uma generalização da
+         distribuição binomial para 𝑘 = 2. A f.d.p. da distribuição multinomial é dada por:
+
+                                                                     𝑛!                 𝑥
+                                           𝑝(𝑥1 , 𝑥2 , … , 𝑥𝑘 |𝜃) = ∏𝑘         . ∏𝑘𝑖=1 𝜃𝑖 𝑖
+                                                                    𝑖=1 𝑥𝑖 !
+
+Distribuição Normal
+
+Anteriormente, vimos que, para uma única observação, a família de distribuições normais é conjugada à
+distribuição normal, com média desconhecida e variância conhecida.
+
+Sendo 𝜇0 e 𝜏02 os parâmetros da distribuição a priori; e 𝜎 2 a variância da função de verossimilhança, então
+os parâmetros da distribuição a posteriori 𝜇1 e 𝜏12 , após uma única observação, são dados por:
+                                                  𝜇0 𝑥
+                                                     +
+                                                  𝜏02 𝜎 2          1    1   1
+                                             𝜇1 =         ,         2 = 2 + 𝜎2
+                                                  1    1           𝜏1 𝜏0
+                                                     +
+                                                  𝜏02 𝜎 2
+
+
+        Receita Federal (Analista Tributário) Estatística                                                       120
+        www.estrategiaconcursos.com.br                                                                          297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                                     𝜎2
+Para uma amostra de tamanho 𝒏, substituímos 𝑥 por 𝑥̅ (média amostral) e 𝜎 2 por 𝑛 (variância da média
+amostral), de modo que os parâmetros da distribuição a posteriori são dados por:
+                                             𝜇0 𝑛. 𝑥̅
+                                                +
+                                             𝜏02 𝜎 2            1    1   𝑛
+                                        𝜇1 =          ,          2 = 2 + 𝜎2
+                                              1   𝑛             𝜏1 𝜏0
+                                                +
+                                             𝜏02 𝜎 2
+Assim, como vimos anteriormente, o inverso da variância corresponde à precisão, que representa o nível de
+                                                        1                                             1
+informação. Assim, a precisão a posteriori 𝑝1 = 𝜏2 corresponde à soma das precisões a priori 𝑝0 = 𝜏2 e da
+                                                            1                                         0
+                        𝑛
+verossimilhança 𝑝𝑣 = 𝜎2 :
+
+                                                      𝑝1 = 𝑝0 + 𝑝𝑣
+                                                                         1                      1
+Também podemos definir a razão entre a precisão a priori 𝑝0 = 𝜏2 e a precisão a posteriori 𝑝1 = 𝜏2:
+                                                                         0                       1
+
+                                                        𝑝0    𝑝0
+                                                 𝑤=        =
+                                                        𝑝1 𝑝0 + 𝑝𝑣
+De modo que a média a posteriori pode ser reescrita como:
+                                           𝜇0 . 𝑝0 + 𝑥̅ . 𝑝𝑣
+                                    𝜇1 =                     = 𝑤. 𝜇0 + (1 − 𝑤). 𝑥̅
+                                               𝑝0 + 𝑝𝑣
+Que corresponde a uma combinação linear entre a média a priori e o resultado observado, assumindo um
+valor intermediário:
+                                           min{𝜇0 , 𝑥̅ } ≤ 𝜇1 ≤ max{𝜇0 , 𝑥̅ }
+
+
+Por exemplo, vamos considerar o exemplo anterior do físico A, cuja distribuição a priori para a constante
+física desconhecida é normal com média 𝜇0 = 900 e variância 𝜏02 = 400; com o mesmo aparelho de teste,
+cujos resultados seguem distribuição normal com média 𝜃 e variância 𝜎 2 = 1600.
+Agora, vamos supor que, em uma amostra de tamanho 𝑛 = 100, tenha sido verificada uma média 𝑥̅ = 870.
+A precisão a posteriori é a soma das precisões a priori e da verossimilhança:
+                                      1    𝑛      1    100
+                   𝑝1 = 𝑝0 + 𝑝𝑣 =      2 + 𝜎 2 = 400 + 1600 = 0,0025 + 0,0625 = 0,065
+                                      𝜏0
+A variância a posteriori é o inverso desse resultado:
+                                                      1    1
+                                              𝜏12 =     =      ≅ 15,4
+                                                      𝑝1 0,065
+A proporção 𝑤 entre a precisão a priori e a precisão total é:
+                                                   𝑝0 0,0025
+                                             𝑤=       =       ≅ 0,04
+                                                   𝑝1   0,065
+
+        Receita Federal (Analista Tributário) Estatística                                                 121
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+E a média a posteriori é:
+               𝜇1 = 𝜇0 . 𝑤 + 𝑥. (1 − 𝑤) = 900 × 0,04 + 870 × 0,96 = 36 + 835,2 = 871,2
+Que está entre a média a priori e a média amostral, mas muito mais próximo da média amostral, porque a
+                    𝑛                                                               1
+sua precisão 𝑝𝑣 = 𝜎2 = 0,0625 é muito superior à precisão do físico 𝑝0 = 𝜏2 = 0,0025 e assim a razão entre
+                                                                                    0
+                                                                    𝑝
+a precisão a priori e a precisão total é muito pequena 𝑤 = 𝑝0 ≅ 0,04.
+                                                                         1
+
+        A priori não informativa para esse caso pode ser obtida, fazendo a variância da distribuição
+        a priori tender ao infinito 𝜏02 → ∞.
+
+        Nessa situação, os parâmetros da distribuição a posteriori serão:
+                                                      ̅
+                                                    𝑛.𝑥
+                                                  0+ 2             1           𝑛
+                                                    𝜎
+                                           𝜇1 =      𝑛    = 𝑥̅ ,         = 0 + 𝜎2
+                                                  0+ 2             𝜏12
+                                                    𝜎
+
+
+        Ou seja, os parâmetros da distribuição a posteriori coincidem com os parâmetros da
+        inferência clássica.
+
+(Cebraspe/2014 – ANATEL - Adaptada) Considere uma amostra aleatória simples X1, X2, ..., Xn retirada de
+uma distribuição normal apresenta média μ e desvio padrão 1. Com base nessas hipóteses, julgue o item
+seguinte.
+A distribuição a priori conjugada da média μ é normal.
+Comentários:
+O enunciado informa que a amostra é extraída de uma população normal com média desconhecida e
+variância conhecida (no caso, o desvio padrão foi informado). A distribuição conjugada a essa distribuição
+amostral é a distribuição normal.
+Isso significa que se a função de verossimilhança é normal com variância conhecida; e se a distribuição a
+priori é normal, então a distribuição a posteriori também é normal.
+Resposta: Certo.
+
+        Receita Federal (Analista Tributário) Estatística                                              122
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Distribuição Gama
+
+Agora, vamos supor que uma população siga distribuição de Poisson com parâmetro 𝜃 e que seja extraída
+uma amostra 𝑋1 , 𝑋2 , … , 𝑋𝑛 de tamanho 𝑛.
+Nessa situação, a distribuição de probabilidade de cada elemento da amostra pode ser representada como:
+
+                                                                𝑒 −𝜃 . 𝜃 𝑥𝑖
+                                                 𝑝(𝑥𝑖 |𝜃) =
+                                                                   𝑥𝑖 !
+
+E a função de verossimilhança 𝑝(𝑥|𝜃), que corresponde à distribuição conjunta dos resultados da amostra,
+condicionada ao parâmetro 𝜃, é dada por:
+                                                                                   𝑛
+                                                                      𝑒 −𝑛.𝜃 . 𝜃 ∑𝑖=1 𝑥𝑖
+                        𝑝(𝑥|𝜃) = 𝑝(𝑥1 |𝜃) × 𝑝(𝑥2 |𝜃) × … × 𝑝(𝑥𝑛 |𝜃) =
+                                                                         ∏𝑛𝑖=1 𝑥𝑖 !
+
+Fazendo 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 e considerando que ∏𝑛𝑖=1 𝑥𝑖 ! é uma constante nessa situação, podemos representar a
+função de verossimilhança como:
+
+                                                 𝑝(𝑥|𝜃) ∝ 𝑒 −𝑛.𝜃 . 𝜃 𝑡
+
+Essa distribuição é proporcional a uma distribuição Gama.
+
+        A distribuição Gama depende dos parâmetros 𝛼 > 0 e 𝛽 > 0 e a sua f.d.p. é dada por:
+
+                                                   βα
+                                         𝑓(𝑥) = Γ(α) 𝑥 𝛼−1 𝑒 −𝛽𝑥 , 0 < 𝑥 < 1
+
+                 βα
+        Sendo Γ(α) uma constante de normalização. A média e a variância dessa distribuição são:
+
+                                                            𝛼                 𝛼
+                                               𝐸(𝑋) = 𝛽 ,        𝑉(𝑋) = 𝛽2
+
+        Pontue-se que a distribuição exponencial é um caso particular da distribuição Gama com
+        𝛼 = 1; e a distribuição de Erlang (hipoexponencial), formada pela soma de 𝑛 variáveis
+        exponenciais independentes, também é um caso particular com 𝛼 = 𝑛.
+
+        Ademais, a distribuição qui-quadrado com 𝑘 graus de liberdade também é um caso
+                                                 𝑘       1
+        particular da distribuição Gama, com 𝛼 = 2 e 𝛽 = 2.
+
+        Receita Federal (Analista Tributário) Estatística                                            123
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+Pelo Teorema de Bayes, a distribuição a posteriori é proporcional ao produto da função de verossimilhança
+pela distribuição a priori:
+
+                                     𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃) = 𝑒 −𝑛.𝜃 . 𝜃 𝑡 × 𝑝(𝜃)
+
+
+Supondo que a distribuição a priori de 𝜃 seja Gama com parâmetros 𝛼0 e 𝛽0, podemos indicar a distribuição
+a posteriori como:
+
+                                 𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃) ∝ 𝑒 −𝑛.𝜃 . 𝜃 𝑡 × 𝜃 𝛼0 −1 𝑒 −𝛽0𝜃
+
+                                               𝑝(𝜃|𝑥) ∝ 𝜃 𝛼0+𝑡−1 𝑒 −(𝛽0+𝑛)𝜃
+
+Comparando os expoentes dessa função com os da distribuição Gama, podemos observar que:
+
+                                           𝛼 − 1 = 𝛼0 + 𝑡 − 1 → 𝜶 = 𝜶𝟎 + 𝒕
+
+                                                         𝜷 = 𝜷𝟎 + 𝒏
+
+Ou seja, se a função de verossimilhança seguir distribuição de Poisson e a distribuição a priori seguir
+distribuição Gama com parâmetros 𝛼0 e 𝛽0, a distribuição a posteriori seguirá distribuição Gama com
+parâmetros 𝛼0 + 𝑡 e 𝛽0 + 𝑛, em que 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 .
+Assim, concluímos que a distribuição Gama é conjugada à distribuição de Poisson.
+
+
+                                                               𝛼 +𝑡
+Acrescenta-se que a média da distribuição a posteriori 𝛽 0+𝑛 é uma combinação linear entre a média a priori
+                                                                0
+𝛼0                          𝑡
+     e a média amostral 𝑛, assumindo um valor intermediário entre esses dois extremos.
+𝛽0
+
+Por exemplo, vamos supor que, de uma amostra de tamanho 𝑛 = 5, extraída de uma população de Poisson
+com média 𝜆𝑃 desconhecida, foram observadas 𝑡 = 3 ocorrências em 𝑛 = 5 horas.
+Vamos considerar que a distribuição a priori desse parâmetro seja exponencial com parâmetro 𝜆𝐸 = 2, o
+que corresponde a uma distribuição Gama com parâmetros 𝛼0 = 1 e 𝛽0 = 2.
+Nessa situação, a distribuição a posteriori será Gama com os seguintes parâmetros:
+                                                 𝛼 = 𝛼0 + 𝑡 = 1 + 3 = 4
+                                                𝛽 = 𝛽0 + 𝑛 = 2 + 5 = 7
+A média dessa distribuição é dada por:
+                                                           𝛼0 + 𝑡 4
+                                             𝐸(𝑋𝑃𝑜𝑠 ) =          = ≅ 0,57
+                                                           𝛽0 + 𝑛 7
+                                                    𝛼     1                         𝑡     3
+Que é intermediário entre a média a priori 𝛽0 = 2 = 0,5 e a média amostral 𝑛 = 5 = 0,6.
+                                                     0
+
+           Receita Federal (Analista Tributário) Estatística                                            124
+           www.estrategiaconcursos.com.br                                                               297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+         A distribuição Gama também é conjugada à distribuição normal com média conhecida e
+         variância desconhecida; bem como à distribuição normal com média e variância
+         desconhecidas.
+
+(2019 – EsFCEx) Em Estimação Bayesiana, prioris conjugadas são utilizadas no sentido que as distribuições a
+priori e a posteriori pertençam a mesma classe de distribuições. Assinale a alternativa que NÃO É um
+exemplo de família conjugada natural as distribuições:
+a) Bernoulli e Beta.
+b) Poisson e Gama.
+c) Multinomial e Dirichlet.
+d) Binomial com 𝑛 conhecido e normal com 𝜎 conhecido.
+e) Binomial com 𝑛 conhecido e Beta.
+Comentários:
+Precisamos identificar a alternativa que não indica distribuições conjugadas.
+A distribuição Beta é conjugada tanto à distribuição de Bernoulli e quanto à distribuição binomial (com 𝑛
+conhecido), logo as alternativas A e E estão corretas.
+A distribuição Dirichlet (generalização da distribuição Beta) é conjugada à distribuição multinomial
+(generalização da distribuição binomial), logo a alternativa C está correta.
+A distribuição Gama é conjugada à distribuição de Poisson, logo a alternativa B está correta.
+No entanto, as distribuições binomial e normal não são conjugadas. A distribuição normal com variância
+conhecida é conjugada à própria distribuição normal.
+Gabarito: D
+
+
+(Cebraspe/2016 – FUNPRESP) A amostra aleatória simples 𝑋1 , 𝑋2 , … , 𝑋𝑛 foi retirada de uma distribuição de
+                                                                           𝑋 +𝑋 +⋯+𝑋𝑛
+Poisson, em que a média é M e a variância é V e a média amostral é 𝑋̅ = 1 2𝑛           . Com relação a essa
+amostra, julgue o item a seguir.
+Em inferência bayesiana, a distribuição a priori conjugada para o parâmetro M segue a distribuição normal,
+e a distribuição preditiva a posteriori segue a distribuição binomial.
+
+
+        Receita Federal (Analista Tributário) Estatística                                               125
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+A distribuição conjugada à distribuição de Poisson é a distribuição Gama.
+Isso significa que quando a amostra é extraída de uma distribuição de Poisson e a distribuição a priori segue
+distribuição Gama, a distribuição a posteriori também segue distribuição Gama.
+Gabarito: Errado
+
+
+(FGV/2014 – SUSAM) Suponha que 𝑋1 , 𝑋2 , … , 𝑋𝑛 seja uma amostra aleatória de uma distribuição Poisson
+com parâmetro 𝜆 desconhecido (𝜆 > 0) e que a distribuição a priori de 𝜆 seja uma distribuição gama (𝛼, 𝛽).
+Assinale a opção que indica a distribuição a posteriori de 𝜆, dado que 𝑋𝑖 = 𝑥𝑖 , 𝑖 = 1, … , 𝑛
+a) 𝑔𝑎𝑚𝑎(𝛼 + ∑𝑛𝑖=1 𝑥𝑖 , 𝑛𝛽)
+b) 𝑔𝑎𝑚𝑎(𝛼 + ∑𝑛𝑖=1 𝑥𝑖 , 𝛽 + 𝑛)
+c) 𝑔𝑎𝑚𝑎(𝛼 + ∑𝑛𝑖=1 𝑥𝑖 , 𝛽)
+d) 𝑛𝑜𝑟𝑚𝑎𝑙(𝛼 + (∑𝑛𝑖=1 𝑥𝑖 )2 )
+e) 𝐵𝑒𝑡𝑎(𝛼 − ∑𝑛𝑖=1 𝑥𝑖 , 𝛽/𝑛 )
+Comentários:
+Quando a população segue distribuição de Poisson com parâmetro 𝜆 e a distribuição a priori segue
+distribuição Gama com parâmetros 𝛼 e 𝛽, então a distribuição a posteriori seguirá distribuição Gama com
+os parâmetros 𝛼′ e 𝛽′ dados por:
+                                                             𝑛
+                                                     ′
+                                                   𝛼 = 𝛼 + ∑ 𝑥𝑖
+                                                            𝑖=1
+
+                                                     𝛽′ = 𝛽 + 𝑛
+
+Gabarito: B
+
+Estimadores de Bayes
+
+Um bom estimador 𝛿(𝑥), calculado a partir dos dados da amostra, para o parâmetro 𝜃, é aquele cujo erro
+𝛿(𝑥) − 𝜃 se aproxima de zero, com alta probabilidade.
+Assim, para cada estimativa 𝑎, podemos associar uma perda 𝐿(𝑎, 𝜃), de modo que quanto maior a diferença
+entre 𝑎 e 𝜃, maior a perda.
+A perda esperada a posteriori é dada por:
+
+                                        𝐸[𝐿(𝑎, 𝜃|𝑥) = ∫ 𝐿(𝑎, 𝜃)𝑝(𝜃|𝑥)𝑑𝑥
+
+O estimador de Bayes é aquele que minimiza a perda esperada.
+
+        Receita Federal (Analista Tributário) Estatística                                                 126
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Agora, veremos funções simétricas de perda, em que o peso de uma superestimação é igual ao de uma
+subestimação, ou seja, a gravidade desses erros é a mesma.
+
+
+A função de perda mais utilizada é a função de perda quadrática:
+
+                                                 𝐿(𝑎, 𝜃) = (𝑎 − 𝜃)2
+Considerando essa função de perda, o estimador de Bayes para o parâmetro 𝜃 corresponde à média da
+distribuição a posteriori.
+
+
+Por exemplo, vamos supor uma amostra aleatória extraída de uma população de Bernoulli com parâmetro
+𝜃 desconhecido. Vamos considerar a distribuição a priori conjugada, qual seja Beta com parâmetros 𝛼 e 𝛽.
+Nessa situação, a distribuição a posteriori será Beta com parâmetros 𝛼 + 𝑡 e 𝛽 + 𝑛 − 𝑡, em que 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 .
+Pela função de perda quadrática, o estimador de Bayes para 𝜃 será a média da distribuição a posteriori:
+                                           𝛼′         𝛼+𝑡           𝛼+𝑡
+                              𝐸(𝑋) =           =                 =
+                                        𝛼′ + 𝛽′ 𝛼 + 𝑡 + 𝛽 + 𝑛 − 𝑡 𝛼 + 𝛽 + 𝑛
+
+
+Vamos considerar o exemplo da amostra de tamanho 𝑛 = 5, extraída de uma população de Bernoulli com
+parâmetro 𝜃 desconhecido, em que foram observadas 𝑡 = 3 sucessos; e que a distribuição a priori é
+uniforme no intervalo (0, 1), a qual corresponde a uma distribuição Beta com parâmetros 𝛼 = 1 e 𝛽 = 1.
+A média da distribuição a posteriori é dada por:
+                                                 𝛼+𝑡    1+3   4
+                                      𝐸(𝑋) =          =     =
+                                                𝛼+ 𝛽+𝑛 1+1+5 7
+Essa é a estimativa de Bayes, considerando a função de perda quadrática, para a proporção desconhecida 𝜃
+de sucesso da população de Bernoulli.
+
+
+Agora, vamos supor uma amostra extraída de uma população que segue distribuição de Poisson com
+parâmetro 𝜃 desconhecido. Vamos considerar a distribuição a priori conjugada, qual seja Gama com
+parâmetros 𝛼 e 𝛽.
+Nessa situação, a distribuição a posteriori seguirá distribuição Gama com parâmetros 𝛼 + 𝑡 e 𝛽 + 𝑛, em que
+𝑡 = ∑𝑛𝑖=1 𝑥𝑖 .
+Pela função de perda quadrática, o estimador de Bayes para 𝜃 será a média da distribuição a posteriori:
+                                                            𝛼′ 𝛼 + 𝑡
+                                                𝐸(𝑋) =         =
+                                                            𝛽′   𝛽+𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                                 127
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Vamos considerar o exemplo da amostra de tamanho 𝑛 = 5, extraída de uma população de Poisson com
+média 𝜆𝑃 desconhecida, em que foram observadas 𝑡 = 3; e a distribuição a priori exponencial com
+parâmetro 𝜆𝐸 = 2, o que corresponde a uma distribuição Gama com parâmetros 𝛼 = 1 e 𝛽 = 2.
+Calculamos a média dessa distribuição, dada por:
+                                                        𝛼+𝑡  4
+                                          𝐸(𝑋𝑃𝑜𝑠 ) =        = ≅ 0,57
+                                                        𝛽+𝑛 7
+Essa é a estimativa de Bayes, considerando a função de perda quadrática, para a média desconhecida 𝜆𝑃 da
+população de Poisson.
+
+
+Entende-se que a função da perda quadrática penaliza excessivamente o erro de estimação. Uma função de
+perda cuja penalidade cresce linearmente com o erro de estimação é a função de perda absoluta:
+
+                                                  𝐿(𝑎, 𝜃) = |𝑎 − 𝜃|
+
+Considerando essa função de perda, o estimador de Bayes para o parâmetro 𝜃 corresponde à mediana da
+distribuição a posteriori.
+
+
+Outra função de perda que penaliza ainda menos os erros de estimação é a chamada função de perda 0-1,
+que associa uma perda fixa ao erro, independentemente de sua magnitude, atribuindo uma perda de 1 para
+valores incorretos e 0 para valores corretos:
+
+                                                   1,       𝑠𝑒 |𝑎 − 𝜃| > 𝜖
+                                        𝐿(𝑎, 𝜃) = {                        }
+                                                   0,       𝑠𝑒 |𝑎 − 𝜃| < 𝜖
+
+Para todo 𝜖 > 0.
+Considerando essa função de perda, o estimador de Bayes para o parâmetro 𝜃 corresponde à moda da
+distribuição a posteriori, o qual é denominado Estimador de Máxima Verossimilhança Generalizado (EMVG).
+No caso contínuo, a moda da distribuição a posteriori corresponde ao valor do parâmetro para o qual a
+derivada da função é nula:
+
+                                                   𝑑[𝑝(𝜃|𝑥)]
+                                                             =0
+                                                      𝑑𝑥
+
+Sabendo que 𝑝(𝜃|𝑥) ∝ 𝑝(𝑥|𝜃) × 𝑝(𝜃), podemos calcular a moda como:
+
+                                               𝑑[𝑝(𝑥|𝜃) × 𝑝(𝜃)]
+                                                                =0
+                                                     𝑑𝑥
+
+Assim, para esse estimador, não é necessário conhecer a distribuição a posteriori exata.
+
+        Receita Federal (Analista Tributário) Estatística                                            128
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Por exemplo, vamos supor uma amostra aleatória de tamanho 𝑛 extraída de uma população com distribuição
+normal com média 𝜃 desconhecida e variância conhecida 𝜎 2 ; e a distribuição a priori conjugada, qual seja
+normal com média 𝜇0 e variância 𝜎02 .
+Nessa situação, a distribuição a posteriori será normal, em que a média, a mediana e a moda coincidem.
+Assim, o estimador de Bayes para 𝜃, considerando qualquer uma das três funções de perda que vimos, é a
+média da distribuição a posteriori, dada por:
+                                                            𝜇0 𝑛. 𝑥̅
+                                                               +
+                                                            𝜏02 𝜎 2
+                                                       𝜇1 =
+                                                             1   𝑛
+                                                               +
+                                                            𝜏02 𝜎 2
+No exemplo do físico A, em que a média da amostra de tamanho 𝑛 = 100 foi 𝑥̅ = 870, calculamos que a
+média da distribuição a posteriori foi 𝜇1 = 871,2. Esse é a estimativa de Bayes, considerando qualquer
+função de perda que vimos.
+
+(FGV/2022 – TRT/PB) Deseja-se estimar a proporção 𝜃 de itens defeituosos numa grande produção de itens.
+Suponha que não se tenha informação prévia sobre o valor de 𝜃, de modo que uma densidade a priori
+Uniforme no intervalo (0,1) seja usada para 𝜃.
+Suponha ainda que uma amostra aleatória simples de tamanho 15 seja obtida (note: são 15 ensaios
+Bernoulli(𝜃)) e que 2 itens defeituosos e 13 não defeituosos sejam constatados. Se a função de perda de erro
+quadrático for usada, a estimativa de Bayes a posteriori para q é igual a
+a) 2/15.
+b) 3/17.
+c) 4/15.
+d) 5/17.
+e) 2/13
+Comentários:
+Utilizando a função de perda quadrática 𝐿(𝑎, 𝜃) = (𝑎 − 𝜃)2 , o estimador de Bayes para o parâmetro 𝜃
+desconhecido corresponde à média da distribuição a posteriori.
+Quando a amostra segue distribuição de Bernoulli e a distribuição a priori é Beta com parâmetros 𝛼 e 𝛽, a
+distribuição a posteriori será Beta com parâmetros 𝛼 + 𝑡 e 𝛽 + 𝑛 − 𝑡, em que 𝑡 = ∑𝑛𝑖=1 𝑥𝑖 . A média dessa
+distribuição é dada por:
+                                              𝛼′         𝛼+𝑡           𝛼+𝑡
+                                 𝐸(𝑋) =           =                 =
+                                           𝛼′ + 𝛽′ 𝛼 + 𝑡 + 𝛽 + 𝑛 − 𝑡 𝛼 + 𝛽 + 𝑛
+
+           Receita Federal (Analista Tributário) Estatística                                             129
+           www.estrategiaconcursos.com.br                                                                297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A distribuição uniforme no intervalo (0, 1) corresponde a uma distribuição Beta com parâmetros 𝛼 = 1 e
+𝛽 = 1. Além disso, o enunciado informa que a amostra tem tamanho 𝑛 = 15, sendo verificados 𝑡 = 2 itens
+defeituosos. Assim, o estimador de Bayes para o parâmetro desconhecido é:
+                                                  𝛼+𝑡        1+2      3
+                                     𝐸(𝑋) =              =          =
+                                                𝛼 + 𝛽 + 𝑛 1 + 1 + 15 17
+Gabarito: B
+
+Estimação por Intervalos
+
+Enquanto na estimação pontual resumimos toda a informação presente na distribuição a posteriori em um
+único valor; na estimação por intervalos, construímos um intervalo em torno desse ponto, para indicar o a
+precisão da estimativa.
+Esse intervalo, construído a partir da distribuição a posteriori, é chamado de intervalo de credibilidade (ou
+intervalo de confiança Bayesiano), cuja definição é:
+
+        𝐶 é um intervalo de credibilidade ao nível 1 − 𝛼 para 𝜃 se 𝑃(𝜃 ∈ 𝐶) ≥ 1 − 𝛼.
+
+Na estatística Bayesiana, podemos dizer que 1 − 𝛼 é a probabilidade de o verdadeiro parâmetro (que é uma
+variável aleatória) pertencer ao intervalo de credibilidade.
+Embora a probabilidade de 𝜃 ∈ 𝐶 possa ser maior que 1 − 𝛼, pela definição, em geral, utilizamos a igualdade,
+pois desejamos que o intervalo seja o menor possível, pois quanto menor o intervalo, mais precisa é a
+estimativa.
+O sinal de maior ou igual é considerado quando não for possível satisfazer a igualdade, o que pode ocorrer
+com variáveis discretas.
+Os extremos do intervalo de confiança são os quantis 𝑄𝛼 e 𝑄1−𝛼 da distribuição a posteriori, tais que:
+                                                                  2    2
+
+                                                   𝛼                                  𝛼
+                              𝑃 (𝜃|𝑥 < 𝑄𝛼 ) =        ,        𝑃 (𝜃|𝑥 < 𝑄1−𝛼 ) = 1 −
+                                            2      2                       2          2
+
+                                                            1−𝛼
+                                      𝛼                                        𝛼
+                                      2                                        2
+
+
+                                                              𝛼
+                                                         1−
+                                                              2
+
+        Receita Federal (Analista Tributário) Estatística                                                130
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Por exemplo, para um nível 1 − 𝛼 = 95%, ou seja, 𝛼 = 5% de credibilidade, os extremos do intervalo serão
+𝑄2,5% e 𝑄97,5% da distribuição a posteriori.
+
+
+Assim como os intervalos de confiança da estatística clássica, os intervalos de credibilidade são invariantes
+a transformações 1 a 1, o que significa que podemos aplicar uma função ao parâmetro 𝜃 e aos limites do
+intervalo de credibilidade [𝑎, 𝑏], de modo que o novo intervalo [𝜑(𝑎), 𝜑(𝑏)] será um intervalo com o mesmo
+nível de credibilidade para o novo parâmetro 𝜑(𝜃).
+
+
+Já, os intervalos de máxima densidade a posteriori (MDP ou HPD - Highest Posterior Density) minimizam o
+tamanho do intervalo, mantendo o nível de confiança 1 − 𝛼.
+Para isso, considera-se o intervalo de valores de 𝜃 com maior densidade a posteriori.
+A definição de intervalo de máxima densidade a posteriori é:
+
+        Um intervalo de credibilidade 𝐶 ao nível 1 − 𝛼 para 𝜃 é de máxima densidade a posteriori
+        se 𝐶 = {𝜃: 𝑝(𝜃|𝑥) ≥ 𝑘𝛼 }, sendo 𝑘𝛼 a maior constante tal que 𝑃(𝜃 ∈ 𝐶) ≥ 1 − 𝛼
+
+Em outras palavras, as densidades da distribuição a posteriori delimitada pelo intervalo MDP serão as
+maiores possíveis, desde que a probabilidade de o parâmetro pertencer ao intervalo seja 1 − 𝛼.
+Consequentemente, os intervalos MDP apresentam as seguintes propriedades:
+
+   •   a densidade para qualquer ponto pertencente ao intervalo é maior que a densidade para qualquer
+       ponto não pertencente ao intervalo;
+   •   para um nível de credibilidade 1 − 𝛼, o intervalo é o de menor comprimento.
+Se a distribuição a posteriori for unimodal e simétrica (com duas caudas), o intervalo MDP coincide com o
+intervalo de credibilidade. Caso contrário, é possível encontrar intervalos MDP que consistem na união de
+intervalos.
+
+(Cebraspe/2019 – TJ-AM) Acerca de métodos usuais de estimação intervalar, julgue o item subsecutivo.
+Intervalos de credibilidade independem da distribuição a priori utilizada.
+Comentários:
+Embora o intervalo de credibilidade seja construído em torno da distribuição a posteriori, esta depende da
+distribuição a priori. Assim, os intervalos de credibilidade não independem da distribuição a priori.
+Gabarito: Errado.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                131
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+(VUNESP/2021 – EsFCEx) Uma alternativa bayesiana em relação ao intervalo de confiança empregado na
+estatística clássica é o intervalo de credibilidade.
+Assinale a alternativa que define corretamente o que representa o intervalo de credibilidade de 95%.
+a) O intervalo de credibilidade de 95% para um parâmetro é o intervalo delimitado pelos percentis 5% e 95%
+da distribuição a posteriori para o parâmetro.
+b) O intervalo de credibilidade de 95% para um parâmetro é o intervalo delimitado pelos percentis 2,5% e
+97,5% da distribuição a priori para o parâmetro.
+c) O intervalo de credibilidade de 95% para um parâmetro é o intervalo delimitado pelos percentis 2,5% e
+97,5% da distribuição a posteriori para o parâmetro
+d) O intervalo de credibilidade de 95% para um parâmetro é o intervalo delimitado pelos percentis 5% e 95%
+da distribuição a priori para o parâmetro.
+e) O intervalo de credibilidade de 95% para um parâmetro é o intervalo delimitado pelos percentis 5% e 95%
+da função de verossimilhança dos dados.
+Comentários:
+Um intervalo de credibilidade a um nível 1 − 𝛼 = 95% (𝛼 = 5%) é delimitado pelos quantis 𝑄𝛼/2 = 𝑄2,5%
+e 𝑄1−𝛼/2 = 𝑄97,5% da distribuição a posteriori. Assim, a única alternativa correta é a C.
+Gabarito: C
+
+
+(Cebraspe/2013 – CNJ) Com relação a inferência estatística, julgue o item a seguir.
+Entre todos os intervalos que possuem o mesmo nível de credibilidade, o intervalo HPD (highest probability
+density) é o que proporciona a maior amplitude possível.
+Comentários:
+O intervalo HPD é aquele que concentra as maiores densidades da distribuição a posteriori do parâmetro
+desconhecido, o que torna o intervalo com a menor amplitude possível, dentre aqueles com o mesmo nível
+de credibilidade.
+Gabarito: Errado
+
+
+(2022 – FURG) O intervalo de credibilidade delimita, com probabilidade especificada, um conjunto de
+parâmetros plausíveis para o parâmetro de acordo com sua distribuição posterior marginal.
+É correto afirmar que:
+a) O intervalo de credibilidade percentil 95% para 𝜃 simbolizado por ICr95% é o intervalo delimitado pelos
+percentis 0% e 95% da distribuição posterior marginal 𝑝(𝜃 ∣ 𝑥) para 𝜃.
+b) O intervalo de credibilidade percentil 95% para 𝜃 simbolizado por ICr95% inclui os valores mais extremos
+em cada cauda da distribuição posterior marginal.
+c) O intervalo de credibilidade percentil 95% para 𝜃 simbolizado por ICr95% é o intervalo delimitado pelos
+percentis 2,5% e 97,5% da distribuição posterior marginal 𝑝(𝜃 ∣ 𝑥) para 𝜃.
+d) O intervalo de maiores densidades de 95% para 𝜃 simbolizando por HDIr95% inclui os valores que
+representam as 5% menores densidades na distribuição posterior.
+
+
+        Receita Federal (Analista Tributário) Estatística                                               132
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+e) O intervalo de maiores densidades de 95% para 𝜃 simbolizando por HDIr95% exclui os valores que
+representam as 5% menores densidades na distribuição posterior de forma igualitária, independente da
+simetria da distribuição posterior.
+Comentários:
+Essa questão cobra conceitos relativos ao intervalo de credibilidade e ao intervalo de máxima densidade,
+que a questão chama de maiores densidades.
+Um intervalo de credibilidade a um nível de 95% (𝛼 = 5%) é delimitado pelos quantis 𝑄𝛼/2 = 𝑄2,5% e
+𝑄1−𝛼/2 = 𝑄97,5%, como indicado na alternativa C; e não 𝑄0% e 𝑄95% , como indicado na alternativa A.
+A alternativa B afirma que os limites do intervalo são os extremos da distribuição 𝑄0% e 𝑄100%, o que também
+não está correta.
+Já o intervalo de máxima densidade concentra as maiores densidades da distribuição a posteriori, desde que
+a probabilidade de o parâmetro pertencer ao intervalo. Assim, a alternativa D está incorreta, pois afirma que
+o intervalo inclui as 5% menores densidades. Ademais, a alternativa E está incorreta, pois afirma que o
+intervalo exclui as menores densidades de forma igualitária, independentemente da simetria da distribuição.
+Gabarito: C
+
+Distribuição Normal
+
+Se a função de verossimilhança for normal com média desconhecida 𝜃 variância conhecida 𝜎 2 ; e a
+distribuição a priori for normal com média 𝜇0 e variância 𝜏02 , então a distribuição a posteriori será normal
+com média 𝜇1 e variância 𝜏12 , os quais são obtidos a partir dos parâmetros da distribuição a priori e dos dados
+amostrais. Assim, podemos dizer que a seguinte expressão segue a normal padrão:
+                                                            𝜃 − 𝜇1
+                                                     𝑍=
+                                                              𝜏1
+Em que 𝜃 representa a distribuição posteriori do parâmetro desconhecido, condicionado à amostra obtida.
+A partir de um nível de credibilidade 1 − 𝛼, podemos obter o valor de 𝑧 pela tabela normal padrão tal que
+𝑃(−𝑧 ≤ 𝑍 ≤ 𝑧) = 1 − 𝛼 e, portanto:
+                                                     𝜃 − 𝜇1
+                                          𝑃 (−𝑧 ≤           ≤ 𝑧) = 1 − 𝛼
+                                                       𝜏1
+Isolando o parâmetro desconhecido, temos:
+                                     𝑃(𝜇1 − 𝑧. 𝜏1 ≤ 𝜃 ≤ 𝜇1 + 𝑧. 𝜏1 ) = 1 − 𝛼
+Em outras palavras, o seguinte intervalo corresponde ao intervalo de credibilidade para o parâmetro
+desconhecido, condicionado à amostra obtida:
+
+                                                [𝜇1 − 𝑧. 𝜏1 ; 𝜇1 + 𝑧. 𝜏1 ]
+
+Em razão da simetria da normal, esse intervalo é MDP.
+
+        Receita Federal (Analista Tributário) Estatística                                                   133
+        www.estrategiaconcursos.com.br                                                                      297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+No exemplo do físico A e a amostra de tamanho 𝑛 = 100, calculamos a variância a posteriori 𝜏12 ≅ 15,4, o
+que corresponde a um desvio padrão 𝜏1 ≅ 3,9, e a média a posteriori 𝜇1 ≅ 871,2. O intervalo de
+credibilidade de 95%, associado a 𝑧 = 1,96, é dado por:
+                             𝐼𝐶 = 𝜇1 ± 𝑧. 𝜏1 = 871,2 ± 1,96 × 3,9 = 871,2 ± 7,6
+                                                𝐼𝐶 = [863,6; 878,8]
+
+
+Utilizando a priori não informativa, em que 𝜏02 → ∞, os parâmetros da distribuição a posteriori coincidem
+com os da inferência clássica 𝜇1 = 𝑥̅ e 𝜏12 = 𝜎 2 /𝑛.
+Nessa situação, o intervalo de credibilidade se torna:
+                                                          𝜎                𝜎
+                                               [𝑥̅ − 𝑧.        ; 𝑥̅ + 𝑧.        ]
+                                                          √𝑛               √𝑛
+Que também coincide numericamente com o intervalo de confiança da inferência clássica. No entanto, a sua
+interpretação continua sendo distinta.
+
+
+Para o mesmo exemplo, em que 𝑥̅ = 870, 𝜎 2 = 1600 (o que corresponde a um desvio padrão 𝜎 = 40) e
+𝑛 = 100, o intervalo de credibilidade ao nível de 95%, em que 𝑧 = 1,96, é:
+                                 𝜎                            40
+                 𝐼𝐶 = 𝑥̅ ± 𝑧.        = 870 ± 1,96 ×                = 870 ± 1,96 × 4 = 870 ± 7,84
+                                √𝑛                        √100
+                                               𝐼𝐶 = [862,16; 877,84]
+
+        A inferência Bayesiana como um todo envolve o cálculo de diversas integrais; e algumas
+        delas podem ser extremamente complexas. Nessa situação, utilizamos métodos baseados
+        em simulação, que fornecem resultados aproximados para esses cálculos.
+
+        Receita Federal (Analista Tributário) Estatística                                             134
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+                            QUESTÕES COMENTADAS - FGV
+
+Distribuição Amostral
+
+1.     (FGV/2024 – EPE) Seja X uma variável aleatória, cujo valor esperado é desconhecido e a variância
+é igual a 123 u2, onde u é a unidade de medida. Sejam 𝑿 e 𝑺𝟐 , a média e a variância amostrais de X,
+respectivamente. Com o objetivo de estimar o valor esperado de X, foi coletada uma amostra aleatória de
+tamanho 300, cuja média e variância são, respectivamente, 34u e 52 u 2.
+Considerando o exposto, de acordo com os conceitos da inferência estatística, analise os itens a seguir.
+I - O valor esperado de 𝑿 não depende do tamanho da amostra.
+II - A estimativa do valor esperado de X é 34u.
+III - A variância de 𝑿 é 52 u2.
+Está correto o que se afirma em
+a) I, apenas
+b) II, apenas
+c) III, apenas
+d) I e II, apenas
+e) II e III, apenas
+Comentários:
+
+Em relação à afirmativa I, o valor esperado da média amostral é igual à média populacional:
+
+                                                        𝐸(𝑋̅) = 𝜇
+
+O que independe do tamanho da amostra. Logo, a afirmativa I está certa.
+
+Em relação à afirmativa II, para estimar o valor esperado (ou média) da variável, utilizamos a média
+observada na amostra. Como a média amostral fornecida no enunciado é 𝑋̅ = 34, essa é a estimativa do
+valor esperado de X. Logo, a afirmativa II está certa.
+
+Em relação à afirmativa III, a variância da média amostral é dada pela razão entre a variância da população
+e o tamanho da amostra:
+
+                                                               𝑉𝑎𝑟(𝑋)
+                                                   𝑉𝑎𝑟(𝑋̅) =
+                                                                 𝑛
+
+O enunciado informa que a variância da população é 𝑉𝑎𝑟(𝑋) = 123 e que o tamanho amostral é 𝑛 = 300:
+
+         Receita Federal (Analista Tributário) Estatística                                              135
+         www.estrategiaconcursos.com.br                                                                 297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                  123
+                                                      𝑉𝑎𝑟(𝑋̅) =
+                                                                  300
+
+Que é diferente de 52. Ainda que a variância da população fosse desconhecida, ela seria estimada a partir
+da amostra, utilizando a variância amostral. Nessa situação, a variância da média amostral seria estimada
+como:
+
+                                                               𝑠2   52
+                                                   𝑉𝑎𝑟(𝑋̅) =      =
+                                                               𝑛    300
+
+Que também é diferente de 52. Logo, o item III está errado.
+
+Gabarito: D
+
+2.     (FGV/2024 – TCE/PA) Os candidatos de um concurso público realizaram um teste de redação que
+vale até 1000 pontos. 5000 candidatos realizaram o teste, o que gerou uma distribuição das notas cuja
+média foi de 600 pontos e cujo desvio padrão foi de 90 pontos. Dessa distribuição são retiradas 40 novas
+amostras, com 100 notas em cada amostra, sem reposição.
+                             𝟏𝟎𝟎
+Dados: √𝟒𝟗𝟗𝟗 = 𝟕𝟎, 𝟕; 𝟏𝟎𝟏 = 𝟎, 𝟗𝟗
+
+O desvio-padrão da distribuição das 40 médias obtidas a partir das novas amostras (de 100 notas) retiradas
+é igual a
+a) 8,91
+b) 9
+c) 60
+d) 89,1
+e) 90
+Comentários:
+
+Precisamos calcular o desvio padrão das médias amostrais. Para uma população infinita, a variância da média
+amostral é a razão entre a variância da população e a média:
+
+                                                                   𝜎2
+                                                       𝑉𝑎𝑟(𝑋̅) =
+                                                                   𝑛
+
+Considerando que a população é finita e que as amostras foram selecionadas sem reposição, devemos
+multiplicar pelo fator de correção:
+
+                                                              𝜎2 𝑁 − 𝑛
+                                                  𝑉𝑎𝑟(𝑋̅) =     ×
+                                                              𝑛 𝑁−1
+
+          Receita Federal (Analista Tributário) Estatística                                             136
+          www.estrategiaconcursos.com.br                                                                297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+E o desvio padrão (ou erro padrão) da média amostral é a raiz quadrada desse resultado:
+
+
+                                                                 𝜎2 𝑁 − 𝑛
+                                       𝐸𝑃(𝑋̅) = √𝑉𝑎𝑟(𝑋̅) = √       ×
+                                                                 𝑛 𝑁−1
+
+O enunciado informa que:
+
+   •   O número total de candidatos que realizaram o teste (população) é 𝑁 = 5000;
+   •   O desvio padrão da população é 𝜎 = 90;
+   •   O tamanho de cada amostra é 𝑛 = 100.
+
+Com isso, podemos calcular o desvio padrão:
+
+
+                               902 5000 − 100 90      4900      70        70
+                 𝐸𝑃(𝑋̅) = √        ×          =    ×√      =9×       =9×
+                               100   5000 − 1   10    4999     √4999     70,7
+
+                                                     100
+Agora, vamos utilizar o dado fornecido de que 101 = 0,99:
+
+                                       70   700 7 × 100 100
+                                          =    =       =    = 0,99
+                                      70,7 707 7 × 101 101
+
+Logo, o desvio padrão é:
+
+                                             𝐸𝑃(𝑋̅) = 9 × 0,99 = 8,91
+
+Gabarito: A
+
+3.     (FGV/2023 – TCE/ES) A distribuição do comprimento de pranchas de surfe fabricadas por um
+artesão segue uma distribuição uniforme em [t-1/2, t+1/2], com t > 0. Suponha que uma amostra aleatória
+de 12 pranchas é medida, e a média amostral, Xb, é calculada.
+Nesse caso:
+
+a) a esperança de Xb é t e Pr(Xb < t - 1/6) é aproximadamente 95%
+
+b) a esperança de Xb é t/2 e Pr(Xb > t + 1/6) é aproximadamente 95%
+
+c) a esperança de Xb é t/2 e Pr(Xb ≤ t - 1/6) é aproximadamente 97%
+
+d) a esperança de Xb é t/4 e Pr(Xb > t + 1/6) é aproximadamente 2,5%
+
+e) a esperança de Xb é t e Pr(Xb ≤ t - 1/6) é aproximadamente 2,5%
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Estatística                                           137
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                                         1   1
+O enunciado informa que a variável segue distribuição uniforme no intervalo [𝑡 − 2 , 𝑡 + 2]. Assim, a média
+e a variância de cada variável são:
+                                                      1       1
+                                            𝑎 + 𝑏 𝑡 − 2 + 𝑡 + 2 2𝑡
+                                     𝐸(𝑋) =      =              =   =𝑡
+                                              2         2         2
+                                                                           2
+                                                            1         1
+                                                      ((𝑡 + 2) − (𝑡 − 2))
+                                   (𝑏 − 𝑎)2                                      (1)2    1
+                          𝑉𝑎𝑟(𝑋) =          =                                  =      =
+                                      12                         12               12    12
+Com base no teorema central do limite, podemos aproximar a média de 12 variáveis a uma distribuição
+normal, cuja média é:
+
+                                                  𝐸(𝑋̅) = 𝐸(𝑋) = 𝑡
+Com isso, verificamos que as alternativas B, C e D estão erradas. Ademais, a variância é:
+                                                      𝑉𝑎𝑟(𝑋) 1/12   1
+                                         𝑉𝑎𝑟(𝑋̅) =          =     = 2
+                                                        𝑛     12   12
+E o desvio padrão é a raiz quadrada:
+
+                                                              1      1
+                                                   𝜎𝑋̅ = √      2
+                                                                  =
+                                                             12     12
+
+Portanto, a transformação para a normal padrão é:
+
+                                                             𝑋̅ − 𝑡
+                                                        𝑧=
+                                                                1
+                                                               12
+                                            1
+Assim, a probabilidade associada a 𝑋̅ = 𝑡 − 6 corresponde ao seguinte valor de z:
+
+                                                 1
+                                               𝑡−6−𝑡           1
+                                          𝑧=                = − × 12 = −2
+                                                    1          6
+                                                   12
+                                                                                1
+Em outras palavras, a probabilidade indicada nas alternativas A e E 𝑃 (𝑋̅ < 𝑡 − 6) corresponde à
+probabilidade 𝑃(𝑍 < −2), que é aproximadamente 2,5% (e não 95%).
+Gabarito: E
+
+
+4.    (FGV/2022 – SEFAZ-BA) Uma amostra aleatória simples X1, X2, X3, X4, de tamanho 4, será obtida de
+uma distribuição de probabilidade populacional com média 𝝁 e variância 𝝈𝟐 .
+Considere que o seguinte estimador de 𝝁 será usado
+                                                   (𝑿𝟏 + 𝑿𝟐 + 𝑿𝟑 + 𝑿𝟒 )
+                                             ̅=
+                                             𝑿
+                                                            𝟒
+
+
+        Receita Federal (Analista Tributário) Estatística                                               138
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+                       ̅ valem, respectivamente,
+A média e variância de 𝑿
+
+          𝜎2
+a) 𝜇 e 2
+
+   𝜇      𝜎2
+b) 2 e 4
+
+   𝜇      𝜎2
+c) 4 e 4
+
+          𝜎2
+d) 𝜇 e 4
+
+e) 2𝜇 e 𝜎 2
+
+Comentários:
+
+Podemos observar que o estimador 𝑋̅ corresponde à média amostral, cuja esperança (ou média) é igual à
+esperança (ou média) populacional:
+
+                                                              𝐸(𝑋̅) = 𝜇
+
+E a variância corresponde à razão entre a variância da população e o tamanho da amostra:
+
+                                                                        𝜎2
+                                                            𝑉𝑎𝑟(𝑋̅) =
+                                                                        𝑛
+
+Sabendo que o tamanho da amostra é n = 4, a variância é:
+
+                                                                        𝜎2
+                                                            𝑉𝑎𝑟(𝑋̅) =
+                                                                        4
+
+Gabarito: D
+
+5.     (FGV/2022 – TRT/13ª Região) Considere uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 de uma
+variável normalmente distribuída com média 𝝁 e variância 𝝈𝟐 e as estatísticas suficientes 𝑿    ̅ e
+  𝒏       ̅ ) . Analise as afirmativas a seguir e assinale V para verdadeira e F para falsa.
+∑𝑰=𝟏(𝑿𝒊 − 𝑿  𝟐
+
+
+                                      𝝈𝟐
+  ̅ tem distribuição 𝑵 (𝝁, )
+I-𝑿                       𝒏
+
+       ∑𝒏       ̅ 𝟐
+        𝑰=𝟏(𝑿𝒊 −𝑿)
+II -                  tem distribuição qui-quadrado com (𝒏 − 𝟏) graus de liberdade
+           𝝈𝟐
+
+      ̅ e ∑𝒏𝑰=𝟏(𝑿𝒊 − 𝑿
+III - 𝑿              ̅ )𝟐 são independentes.
+
+As afirmativas são, respectivamente,
+
+
+               Receita Federal (Analista Tributário) Estatística                                  139
+               www.estrategiaconcursos.com.br                                                     297
+
+                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) V, F e F
+
+b) F, V e V
+
+c) V, F e V
+
+d) F, V e F
+
+e) V, V e V
+
+Comentários:
+
+Quando a população segue distribuição normal, com média 𝜇 e variância 𝜎 2 , a média amostral segue
+                                                    𝜎2
+distribuição normal, com média 𝜇 e variância 𝑛 . Logo, a afirmativa I é verdadeira.
+
+                                                                              ∑𝑛       ̅ 2
+                                                                               𝑖=1(𝑋𝑖 −𝑋 )
+Nessa situação, o estimador para a variância (variância amostral) 𝑠 2 =                      , multiplicado pelo fator
+                                                                                  𝑛−1
+𝑛−1
+     , segue distribuição qui-quadrado com 𝑛 − 1 graus de liberdade:
+𝜎2
+
+
+                            2
+                                     𝑛 − 1 2 𝑛 − 1 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                           𝑋𝑛−1 =(        )𝑠 =    ×               =
+                                      𝜎2       𝜎2       𝑛−1              𝜎2
+                  ∑𝑛       ̅ 2
+                   𝑖=1(𝑋𝑖 −𝑋 )
+Assim, de fato,                  segue distribuição qui-quadrado com (𝑛 − 1) graus de liberdade e a afirmativa II
+                      𝜎2
+é verdadeira.
+
+Por fim, a afirmativa III também é verdadeira, pois a média amostral e a variância amostral, para uma
+população normal, são independentes.
+
+Gabarito: E
+
+6.      (FGV/2022 – TRT/MA) Uma amostra aleatória simples de tamanho 784 será obtida para se estimar
+o valor de uma média populacional. Se 𝝈 é o valor do desvio padrão populacional, a probabilidade de que
+o valor da média amostral não difira do valor da média populacional por mais de 0,1𝝈, é aproximadamente
+igual a
+a) 0,995.
+
+b) 0,975.
+
+c) 0,957.
+
+d) 0,946.
+
+e) 0,933.
+
+Para resolver essa questão, utilize a tabela normal apresentada ao final desta seção, fornecida na prova.
+
+
+         Receita Federal (Analista Tributário) Estatística                                                        140
+         www.estrategiaconcursos.com.br                                                                           297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+
+O enunciado pede a probabilidade de a média de uma amostra 𝑋̅ de tamanho 𝑛 = 784 não diferir (para
+cima ou para baixo) da média populacional 𝜇 por mais que 0,1𝜎:
+
+                                 𝑃(|𝑋̅ − 𝜇| ≤ 0,1𝜎) = 𝑃(−0,1𝜎 ≤ 𝑋̅ − 𝜇 ≤ 0,1𝜎)
+
+Em que 𝜎 é o desvio padrão populacional.
+Para calcular essa probabilidade, vamos utilizar a transformação da média amostral para a normal padrão:
+
+                                                                 𝑋̅ − 𝜇
+                                                        𝑍=          𝜎
+                                                                   √𝑛
+
+Fazendo 𝑋̅ − 𝜇 = 0,1𝜎 e 𝑛 = 784, temos:
+
+                                              0,1𝜎 0,1
+                                        𝑍=      𝜎 = 1 = 0,1 × 28 = 2,8
+                                              √784  28
+
+Similarmente, o valor de Z para 𝑋̅ − 𝜇 = −0,1𝜎 é 𝑍 = −2,8.
+Assim, a probabilidade desejada corresponde à seguinte probabilidade na normal padrão:
+
+                                𝑃(−0,1𝜎 ≤ 𝑋̅ − 𝜇 ≤ 0,1𝜎) = 𝑃(−2,8 ≤ 𝑍 ≤ 2,8)
+
+Por sua vez, a probabilidade 𝑃(−2,8 ≤ 𝑍 ≤ 2,8) pode ser calculada como:
+
+                                𝑃(−2,8 ≤ 𝑍 ≤ 2,8) = 𝑃(𝑍 < 2,8) − 𝑃(𝑍 < −2,8)
+
+Pela simetria da normal padrão, temos:
+
+                                  𝑃(𝑍 < −2,8) = 𝑃(𝑍 > 2,8) = 1 − 𝑃(𝑍 < 2,8)
+                                                    𝑃(−2,8 < 𝑍 < 2,8)
+
+                                      𝑃(𝑍 < −2,8)                           𝑃(𝑍 > 2,8)
+
+                                                 -2,8        0        2,8
+
+                                                 𝑃(𝑍 < 2,8)
+
+Assim:
+
+                𝑃(−2,8 ≤ 𝑍 ≤ 2,8) = 𝑃(𝑍 < 2,8) − [1 − 𝑃(𝑍 < 2,8)] = 2 × 𝑃(𝑍 < 2,8) − 1
+
+         Receita Federal (Analista Tributário) Estatística                                            141
+         www.estrategiaconcursos.com.br                                                               297
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Pela tabela fornecida, observamos que 𝑃(𝑍 < 2,8) = 0,9974, logo a probabilidade desejada é:
+
+                    𝑃(−2,8 ≤ 𝑍 ≤ 2,8) = 2 × 0,9974 − 1 = 1,9948 − 1 = 0,9948 ≅ 0,995
+
+Gabarito: A
+
+7.     (FGV/2022 – TRT/MA) Numa dada população, 50% das pessoas são do sexo feminino. Usando o
+teorema central do limite, se uma amostra aleatória simples de tamanho n = 1.225 dessa população for
+observada, a probabilidade de que, na amostra, a porcentagem de pessoas do sexo feminino seja menor
+do que 0,46 ou maior do que 0,54 é aproximadamente igual a
+a) 0.
+b) 0,045.
+c) 0,085.
+d) 0,125.
+e) 0,150.
+Para resolver essa questão, utilize a tabela normal apresentada ao final desta seção, fornecida na prova.
+Comentários:
+O enunciado pede a probabilidade de a proporção amostral ser menor que 0,46 ou maior que 0,54:
+                            𝑃(𝑝̂ < 0,46 𝑜𝑢 𝑝̂ > 0,54) = 𝑃(𝑝̂ < 0,46 ) + 𝑃( 𝑝̂ > 0,54)
+Considerando a aproximação pelo Teorema Central do Limite, podemos utilizar a transformação para a
+normal padrão, considerando que a média da distribuição é 𝑝 e o desvio padrão (erro padrão do estimador)
+    𝑝.𝑞
+é√ 𝑛 :
+
+                                                                  𝑝̂−𝑝
+                                                          𝑧=       𝑝.𝑞
+                                                                  √𝑛
+
+
+O enunciado informa que 𝑝 = 0,5, logo 𝑞 = 1 − 𝑝 = 0,5, e 𝑛 = 1225. Para 𝑝̂ = 0,54, temos:
+                                              0,54 − 0,5          0,04 0,04
+                                        𝑧=                    =        =    = 2,8
+                                                                   0,5    1
+                                              √0,5 × 0,5           35    70
+                                                 1225
+Assim, 𝑃( 𝑝̂ > 0,54) = 𝑃(𝑍 > 2,8). Como 𝑝̂ = 0,46 apresenta a mesma distância de 0,04 à média, a
+probabilidade 𝑃( 𝑝̂ < 0,46) é igual à 𝑃( 𝑝̂ > 0,54), haja vista a simetria da curva normal em torno da média:
+                                  𝑃(𝑝̂ < 0,46 ) + 𝑃( 𝑝̂ > 0,54) = 2 × 𝑃(𝑍 > 2,8)
+Por sua vez, a probabilidade 𝑃(𝑍 > 2,8) pode ser calculada pelo seu complemento:
+                                             𝑃(𝑍 > 2,8) = 1 − 𝑃(𝑍 < 2,8)
+Pela tabela fornecida na prova, observamos que 𝑃(𝑍 < 2,8) = 0,9974. O seu complemento é:
+
+          Receita Federal (Analista Tributário) Estatística                                              142
+          www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                       𝑃(𝑍 > 2,8) = 1 − 0,9974 = 0,0026
+E a probabilidade desejada é o dobro desse resultado:
+                        𝑃(𝑝̂ < 0,46 ) + 𝑃( 𝑝̂ > 0,54) = 2 × 0,0026 = 0,0052 < 0,01
+Dentre as probabilidades indicadas nas alternativas, a que mais se aproxima é P = 0.
+
+Gabarito: A
+
+8.     (FGV/2022 – SEFAZ-ES) Uma sociedade empresária produz pacotes de café moído e torrado e
+afirma que os pesos dos pacotes seguem uma distribuição normal com média μ = 700g e desvio-padrão
+σ=10g. A Secretaria da Fazenda recebeu uma denúncia de que há irregularidades no peso, principalmente
+em relação à variabilidade dos pesos em cada pacote. Em uma fiscalização, foram selecionados uma
+amostra aleatória simples de 10 pacotes de café para averiguar a denúncia. A probabilidade de a variância
+amostral, s2, dos pesos dos 10 pacotes selecionados ser maior do que 100g2, é de, aproximadamente,
+
+a) 1 − Prob(X ≤ 9), sendo que X tem distribuição qui-quadrado com 9 graus de liberdade.
+
+b) Prob(X < 10), sendo que X tem distribuição qui-quadrado com 9 graus de liberdade.
+
+c) 1 − Prob(X ≤ 9), sendo que X tem distribuição t-Student com 9 graus de liberdade.
+
+d) Prob(X ≤ 9), sendo que X tem distribuição t-Student com 9 graus de liberdade.
+
+e) Prob(X < 10), sendo que X tem distribuição t-Student com 9 graus de liberdade.
+
+Comentários:
+
+A probabilidade de a variância amostral dos pesos dos 10 pacotes ser maior que 100g 2 é necessário que a
+variância amostral de 1 pacote seja, em média, maior que 10g2, o que corresponde, ao complementar da
+probabilidade de ser menor ou igual a 9g2:
+
+                                           𝑃(𝑠 2 > 10) = 1 − 𝑃(𝑠 2 ≤ 9)
+
+Ademais, a variância amostral segue distribuição qui-quadrada, com n - 1 graus de liberdade. Havendo, n =
+10 pacotes, então a variável segue distribuição qui-quadrada com 9 graus de liberdade.
+
+Gabarito: A
+
+9.     (FGV/2019 – DPE-RJ) Sejam X1, X2, X3,..., Xn variáveis representativas de uma amostra aleatória
+simples (AAS) de tamanho n, a partir de uma população Normal com média zero e variância σ2.
+Quanto às estatísticas amostrais e suas distribuições, é correto afirmar que:
+
+        Receita Federal (Analista Tributário) Estatística                                             143
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) ∑ 𝑋𝑖2 é Qui-quadrado com n graus de liberdade;
+
+b) √𝑛. 𝑋̅ tem distribuição normal, onde 𝑋 é a média amostral;
+
+c) ∑(𝑋𝑖 − 𝑋̅) é Qui-quadrado com n graus de liberdade;
+
+    𝑋𝑖
+d)𝑋 +𝑋 tem distribuição F-Snedecor com 1 e 2 graus de liberdade no numerador e no denominador,
+   𝑗    𝑘
+respectivamente;
+
+e) a variável aleatória 𝑊 = 𝑋𝑖 . 𝑋𝑗 terá distribuição de Cauchy.
+
+Comentários:
+
+Para resolver essa questão, é necessário conhecer algumas as distribuições qui-quadrado, F-Snedecor e de
+Cauchy, bem como a distribuição da média amostral.
+
+Em relação à alternativa A, a distribuição qui-quadrada é formada pela soma de variáveis normais padrão
+(com média igual a 0 e variância igual a 1) independentes elevadas ao quadrado:
+
+                                                           𝒳 2 = ∑ 𝑍𝑖2
+
+As variáveis normais com parâmetros diferentes precisam ser normalizadas, antes de serem elevadas ao
+quadrada, para possam formar uma distribuição qui-quadrado:
+
+                                                       2
+                                                            𝑋𝑖 − 𝜇𝑖 2
+                                                     𝒳 = ∑(        )
+                                                               𝜎𝑖
+
+O enunciado informa que a média da variável é zero e a variância é σ2, logo, a distribuição qui-quadrada é:
+
+                                                                𝑋𝑖 2
+                                                        𝒳2 = ∑ ( )
+                                                                𝜎
+
+Como a alternativa não dividiu por 𝜎, ela está errada.
+
+Também podemos observar que a alternativa C define a variável qui-quadrada de modo diferente e, por isso,
+também está errada.
+
+Em relação à alternativa B, como as variáveis seguem distribuição normal, a média 𝑋 também segue
+                                                                               𝜎2             𝜎
+distribuição normal, com a mesma média (igual a zero) e variância 𝑛 , ou seja, desvio padrão 𝑛.
+                                                                                             √
+
+
+Assim, ao multiplicarmos a média amostral pela constante √𝑛, a variável resultante também irá seguir
+distribuição normal e, por isso, a alternativa B está correta.
+                                                                                        𝜎
+Vale acrescentar que essa variável terá média igual √𝑛. 0 = 0 e desvio padrão √𝑛. 𝑛 = 𝜎, ou seja, os
+                                                                                        √
+mesmos parâmetros das variáveis 𝑋𝑖 .
+
+
+            Receita Federal (Analista Tributário) Estatística                                            144
+            www.estrategiaconcursos.com.br                                                               297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Em relação à alternativa D, a distribuição F-Snedecor é definida como a razão entre duas variáveis qui-
+quadrado independentes, divididas pelos respectivos graus de liberdade:
+
+                                                              𝒳𝑘21
+                                                               𝑘
+                                                     𝐹𝑘1 ,𝑘2 = 12
+                                                              𝒳𝑘2
+                                                               𝑘2
+
+Para 𝑘1 = 1 grau de liberdade no numerador e 𝑘2 = 2 graus de liberdade no denominador, temos:
+
+                                                                𝒳12
+                                                       𝐹1,2 =
+                                                                𝒳22
+                                                                 2
+
+                       𝑋   2                          𝑋     2   𝑋     2
+Em que 𝒳12 = 𝑍𝑖2 = ( 𝜎𝑖 ) e 𝒳22 = 𝑍𝑗2 + 𝑍𝑘2 = ( 𝜎𝑗) + ( 𝜎𝑘) , que é diferente do que consta na alternativa.
+Logo, a alternativa D está errada.
+
+Em relação à alternativa E, a variável de Cauchy é a razão entre duas variáveis normais padrão independentes
+
+                                                       𝑋𝑖
+                                                    𝑍𝑖     𝑋𝑖
+                                                  𝐶= = 𝜎 =
+                                                    𝑍𝑗 𝑋𝑗 𝑋𝑗
+                                                       𝜎
+
+Que é diferente do indicado na alternativa. Logo, a alternativa E está errada.
+
+Gabarito: B
+
+10.    (FGV/2018 – AL-RO) Estima-se que 10% da população economicamente ativa, de certo Estado,
+estejam desempregados. Usando essa estimativa, se uma amostra aleatória simples de 400 pessoas dessa
+população economicamente ativa for observada, a probabilidade de que menos de 6% ou mais de 14%
+estejam desempregados é, aproximadamente, igual a
+
+a) 0,0076;
+
+b) 0,0124;
+
+c) 0,0568;
+
+d) 0,0876;
+
+e) 0,1052.
+
+Para resolver essa questão, utilize a tabela normal apresentada ao final desta seção, fornecida na prova.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                145
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Essa questão trabalha com a distribuição da proporção amostral. O enunciado informa que a proporção
+populacional é p = 10% = 0,1 (logo q = 1 – p = 0,9) e que o tamanho da amostra é n = 400. Vale pontuar que
+o desvio padrão da proporção amostral 𝜎𝑝̂ é a raiz quadrada da variância da proporção amostral 𝑉(𝑝̂ ), que
+por sua vez é dada pela razão entre a variância da proporção populacional 𝑉(𝑝) = 𝑝. 𝑞 e o tamanho da
+amostral n:
+
+                                                                                   𝑝. 𝑞
+                                               𝜎𝑝̂ = √𝑉𝑎𝑟(𝑝̂ ) = √
+                                                                                    𝑛
+
+Assim, utilizamos a seguinte transformação para a normal padrão:
+
+                                                                         𝑝̂ − 𝑝
+                                                         𝑧=
+                                                                           𝑝. 𝑞
+                                                                         √
+                                                                            𝑛
+                                                            ==219a34==
+
+Para a proporção amostral 𝑝̂ = 14% = 0,14, temos:
+
+                           0,14 − 0,1        0,04        0,04          20 0,8 8
+                      𝑧=                 =           =        = 0,04 ×    =   = ≅ 2,67
+                                                          0,3          0,3 0,3 3
+                             √0,1.0,9        √0,09        20
+                               400            400
+
+Pela tabela normal padrão, observamos que P(Z < 2,67) = 0,9962. Assim, a probabilidade P(Z > 2,67) é
+complementar:
+
+                          𝑃(𝑍 > 2,67) = 1 − 𝑃(𝑍 < 2,67) = 1 − 0,9962 = 0,0038
+
+                                               𝑃(𝑝̂ > 0,14) = 0,0038
+
+Como 𝑝̂ = 6% = 0,06 apresenta a mesma distância de 4% em relação à média p = 10%, então, pela simetria
+da curva normal, temos:
+
+                                                6%          10%              14%
+
+
+                                      𝑃(𝑝̂ < 6%) = 𝑃(𝑝̂ > 14%) = 0,0038
+
+Assim, a probabilidade de encontrar menos de 6% ou mais de 14% é a soma:
+
+            𝑃(𝑝̂ < 6% 𝑜𝑢 𝑝̂ > 14%) = 𝑃(𝑝̂ < 6%) + 𝑃(𝑝̂ > 14%) = 0,0038 + 0,0038 = 0,0076
+
+Gabarito: A
+
+
+        Receita Federal (Analista Tributário) Estatística                                              146
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 11
+
+      Receita Federal (Analista Tributário) Estatística                  147
+      www.estrategiaconcursos.com.br                                     297
+
+                                    
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+                              QUESTÕES COMENTADAS - FGV
+
+Estimação Pontual
+
+1.       (FGV/2025 – TCE-PI) Um bom estimador de um parâmetro 𝜽 deve
+
+a) ser não tendencioso e ter variância grande.
+
+b) ser tendencioso e ter variância pequena.
+
+c) ser não tendencioso e ter variância pequena.
+
+d) ser tendencioso e ter variância grande.
+
+e) ter tendência pequena, compensada por variância razoavelmente grande.
+
+Comentários:
+
+Dentre as propriedades dos estimadores, há o não viés, ou seja, um bom estimador deve ser não
+tendencioso. Além disso, ele deve ser eficiente, o que é inversamente relacionado à variância, ou seja, um
+bom estimador deve ter variância pequena.
+
+Gabarito: C
+
+2.     (FGV/2025 – TCE-RR - Adaptada) Sobre noções básicas de estimação e testes de hipóteses, julgue a
+afirmativa a seguir.
+
+Em uma estimação pontual, o objetivo é determinar um único valor numérico como melhor estimativa do
+parâmetro populacional, como a média ou a proporção.
+
+Comentários:
+
+Na estimação pontual, calcula-se uma estimativa, ou seja, um único valor numérico para estimar o parâmetro
+populacional. Além disso, a média e a proporção são realmente exemplos de parâmetros populacionais.
+
+Resposta: Certo
+
+3.    (FGV/2024 – SES/MT) Uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , 𝑿𝟑 , 𝑿𝟒 , de tamanho 4, será obtida de
+uma variável populacional com média 𝝁.
+Considere os seguintes possíveis estimadores de 𝝁:
+
+           Receita Federal (Analista Tributário) Estatística                                           148
+           www.estrategiaconcursos.com.br                                                              297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+       𝑿𝟏 +𝑿𝟐 +𝑿𝟑 +𝑿𝟒
+𝑻𝟏 =         𝟒
+       𝑿𝟏 +𝟐𝑿𝟐 +𝟑𝑿𝟑 +𝟒𝑿𝟒
+𝑻𝟐 =          𝟏𝟎
+
+𝑻𝟑 = 𝑿𝟒
+       𝑿𝟏 −𝑿𝟐 +𝟑𝑿𝟑 −𝑿𝟒
+𝑻𝟒 =          𝟒
+
+São estimadores não tendenciosos de 𝝁:
+a) 𝑻𝟏 e 𝑻𝟑 , apenas
+b) 𝑻𝟏 e 𝑻𝟐 , apenas
+c) 𝑻𝟏 , 𝑻𝟐 e 𝑻𝟑 , apenas
+d) 𝑻𝟏 , 𝑻𝟐 , 𝑻𝟑 e 𝑻𝟒
+                                                             ==219a34==
+
+Comentários:
+
+Para verificar se os estimadores são não tendenciosos, devemos calcular a esperança desses estimadores.
+Em relação ao primeiro estimador, temos:
+
+                                    𝑋1 + 𝑋2 + 𝑋3 + 𝑋4    𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) + 𝐸(𝑋4 )
+                        𝐸(𝑇1 ) = 𝐸 (                  )=
+                                            4                            4
+
+Considerando que a amostra segue a mesma distribuição da população, temos 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) =
+𝐸(𝑋4 ) = 𝐸(𝑋):
+
+                                        𝐸(𝑋) + 𝐸(𝑋) + 𝐸(𝑋) + 𝐸(𝑋) 4. 𝐸(𝑋)
+                             𝐸(𝑇1 ) =                            =        = 𝐸(𝑋)
+                                                    4                 4
+
+Como a esperança do estimador é igual à esperança da variável, concluímos que o estimador é não
+tendencioso. Em relação ao segundo estimador, temos:
+
+                             𝑋1 + 2. 𝑋2 + 3. 𝑋3 + 4. 𝑋4    𝐸(𝑋1 ) + 2. 𝐸(𝑋2 ) + 3. 𝐸(𝑋3 ) + 4. 𝐸(𝑋4 )
+              𝐸(𝑇2 ) = 𝐸 (                              )=
+                                        10                                    10
+
+                                    𝐸(𝑋) + 2. 𝐸(𝑋) + 3. 𝐸(𝑋) + 4. 𝐸(𝑋) 10. 𝐸(𝑋)
+                         𝐸(𝑇2 ) =                                     =         = 𝐸(𝑋)
+                                                   10                     10
+
+Assim, o segundo estimador também é não tendencioso. Em relação ao terceiro estimador, temos:
+
+                                                𝐸(𝑇3 ) = 𝐸(𝑋4 ) = 𝐸(𝑋)
+
+Logo, o terceiro estimador também é não tendencioso. Em relação ao quarto estimador, temos:
+
+                               𝑋1 − 𝑋2 + 3. 𝑋3 − 𝑋4    𝐸(𝑋1 ) − 𝐸(𝑋2 ) + 3. 𝐸(𝑋3 ) − 𝐸(𝑋4 )
+                   𝐸(𝑇4 ) = 𝐸 (                     )=
+                                        4                               4
+
+         Receita Federal (Analista Tributário) Estatística                                              149
+         www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                    𝐸(𝑋) − 𝐸(𝑋) + 3. 𝐸(𝑋) − 𝐸(𝑋) 2. 𝐸(𝑋) 𝐸(𝑋)
+                         𝐸(𝑇4 ) =                               =       =
+                                                 4                   4    2
+
+Que é diferente de 𝐸(𝑋). Portanto, o quarto estimador é tendencioso.
+
+Gabarito: C
+
+4.     (FGV/2024 – INPE) Cientistas interessados em estimar os parâmetros de modelos de assimilação
+oceânica, utilizaram um método de estimação cujo objetivo é minimizar a soma dos quadrados das
+diferenças entre o valor estimado e valor real.
+Diante do exposto, assinale a opção que apresenta o método que se enquadra na descrição do objetivo
+acima.
+a) da máxima verossimilhança.
+b) bayesiano
+c) do problema inverso
+d) dos momentos
+e) dos mínimos quadrados
+Comentários:
+
+O método de estimação que minimiza a soma dos quadrados das diferenças entre o valor estimado e o valor
+real é o método dos mínimos quadrados, como descrito na alternativa E. Em outras palavras, ele minimiza
+o erro quadrático total da amostra.
+
+O método de máxima verossimilhança (A) busca a estimativa para a qual a probabilidade de obter a amostra
+observada é a maior possível.
+
+O método dos momentos (D) iguala os momentos amostrais aos teóricos (ou populacionais).
+
+Gabarito: E
+
+5.    (FGV/2024 – Pref. Vitória) Avalie se as afirmativas a seguir, acerca das características de um bom
+estimador são falsas (F) ou verdadeiras (V).
+( ) Um bom estimador de um parâmetro θ deve ser não tendencioso para θ.
+( ) Um bom estimador de um parâmetro θ deve ter a maior variância possível.
+( ) Um bom estimador de um parâmetro θ deve ter erro médio quadrático máximo.
+As afirmativas são, respectivamente,
+
+        Receita Federal (Analista Tributário) Estatística                                            150
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+a) F - F - F
+b) F - V - F
+c) V - V - V
+d) V - F - F
+e) V - F - V
+Comentários:
+
+Para resolver essa questão precisamos conhecer as propriedades dos estimadores.
+
+A primeira afirmativa é verdadeira, porque a não tendência (ou o não viés) é, de fato, uma das propriedades
+dos estimadores. Logo, um bom estimador deve realmente ser não tendencioso.
+
+A segunda afirmativa é falsa, porque a variância está inversamente relacionada à precisão do estimador, de
+modo que quanto maior a variância, menor a precisão. Assim, um bom estimador deve ter a menor variância
+possível.
+
+A terceira afirmativa também é falsa, porque o erro quadrático médio, que é a soma da variância com o
+quadrado do viés, também deve ser o menor possível.
+
+Gabarito: C
+
+6.      (FGV/2024 – TCE/GO) Num processo de estimação pontual de um parâmetro 𝜽 por um estimador
+T, avalie se as seguintes propriedades de T são desejáveis:
+I. T deve ser tendencioso para 𝜽
+II. T deve ter variância pequena
+III. T deve ter o maior erro quadrático médio possível
+Está correto apenas o que se afirma em
+a) I.
+b) II.
+c) III.
+d) I e III.
+e) II e III,
+Comentários:
+
+Novamente, precisamos das propriedades dos estimadores.
+
+              Receita Federal (Analista Tributário) Estatística                                         151
+              www.estrategiaconcursos.com.br                                                            297
+
+                                            
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Em relação à afirmativa I, a um bom estimador deve ser não tendencioso, isto é, a sua esperança deve ser
+igual ao parâmetro populacional estimado. Logo, a afirmativa I é falsa.
+
+Em relação à afirmativa II, a variância está inversamente relacionada à precisão do estimador, de modo que
+quanto maior a variância, menor a precisão. Assim, um bom estimador deve ter variância pequena. Logo, a
+afirmativa II é verdadeira.
+
+Em relação à afirmativa III, o erro quadrático médio, que é a soma da variância com o quadrado do viés, deve
+ser o menor possível. Logo, a afirmativa III é falsa.
+
+Gabarito: B
+
+7.     (FGV/2024 – STN) Suponha que uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 , de tamanho 𝒏, será
+observada para se estimar a média 𝝁 de uma variável populacional suposta normalmente distribuída com
+média 𝝁 e variância 𝝈𝟐 . O pesquisador cogita usar a média amostral 𝑿̅ como estimador de 𝝁. Avalie se,
+                                                                      ̅ estão corretas:
+nessas condições, as seguintes afirmativas acerca das propriedades de 𝑿
+   ̅ é estimador não tendencioso de variância uniformemente mínima de 𝝁
+I. 𝑿
+    ̅ é estimador de máxima verossimilhança de 𝝁
+II. 𝑿
+     ̅ é uma estatística suficiente.
+III. 𝑿
+Está correto o que se afirma em
+a) I, apenas
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III,
+Comentários:
+
+Vamos analisar as afirmativas, em relação à média amostral. Em relação à afirmativa I, a média amostral é,
+de fato, um estimador eficiente para a média de uma população normal, ou seja, ele é não tendencioso e de
+variância mínima. Logo, a afirmativa I está certa.
+
+Em relação à afirmativa II, a média amostral é, de fato, o estimador para a média de uma população normal,
+obtido pelo método da máxima verossimilhança, logo, a afirmativa II está certa.
+
+Em relação à afirmativa III, a média amostral é, sim, uma estatística suficiente, pois ela captura todas as
+informações disponíveis na amostra, para estimar a média populacional.
+
+Gabarito: E
+
+            Receita Federal (Analista Tributário) Estatística                                            152
+            www.estrategiaconcursos.com.br                                                               297
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+8.     (FGV/2024 – STN) Considere uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 , de uma variável
+aleatória populacional 𝑿 com média 𝝁 e variância 𝝈𝟐 .
+               ∑𝒏
+                𝒊=𝟏 𝑿𝒊            ∑𝒏       ̅ 𝟐
+                                   𝒊=𝟏(𝑿𝒊 −𝑿)
+       ̅=
+Sejam: 𝑿                 e 𝑺𝟐 =
+                   𝒏                   𝒏
+
+Em relação à estimação de 𝝁 e de 𝝈𝟐 , avalie se as seguintes afirmativas são verdadeiras (V) ou falsas (F).
+   ̅ é estimador não tendencioso de variância uniformemente mínima de 𝝁
+( )𝑿
+
+( ) 𝑺𝟐 é estimador não tendencioso de 𝝈𝟐
+   ̅ é estimador de máxima verossimilhança de 𝝁
+( )𝑿
+
+( ) 𝑺𝟐 é estimador de máxima verossimilhança de 𝝈𝟐
+As afirmativas são, respectivamente
+a) V - V - V - V
+b) V - F - V - V
+c) V - V - F - F
+d) F - V - F - V
+e) F - F - V - V
+Comentários:
+
+Vamos analisar as afirmativas, em relação aos estimadores 𝑋̅ e 𝑆 2 .
+
+Em relação à primeira afirmativa, a média amostral 𝑋̅ é realmente o estimador não tendencioso de variância
+mínima para a média populacional. Logo, essa afirmativa é verdadeira.
+
+Em relação à segunda afirmativa, o estimador 𝑆 2 , em que dividimos a soma dos quadrados dos desvios por
+𝑛, é um estimador tendencioso para a variância populacional. O estimador não tendencioso é aquele em
+que dividimos por 𝒏 − 𝟏. Logo, essa afirmativa é falsa.
+
+Ademais, quando utilizamos o método da máxima verossimilhança, para uma população normal, obtemos a
+média amostral 𝑋̅ como estimador para a média populacional (logo, a terceira afirmativa é verdadeira) e 𝑆 2
+como estimador (tendencioso) para a variância populacional (logo, a quarta afirmativa é verdadeira).
+
+Gabarito: B
+
+9.    (FGV/2024 – SES/MT) Uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 de tamanho 𝒏, será obtida de
+uma variável aleatória populacional normalmente distribuída com média 𝝁 e variância 𝝈𝟐 .
+               ∑𝒏       ̅ 𝟐
+                𝒊=𝟏(𝑿𝒊 −𝑿)
+   ̅ e 𝑺𝟐 =
+Se 𝑿                          são a média amostral e a variância amostral de 𝝁 e de 𝝈𝟐 , respectivamente, então
+                       𝒏−𝟏
+os estimadores de máxima verossimilhança de 𝝁 e de 𝝈𝟐 são, respectivamente
+
+
+          Receita Federal (Analista Tributário) Estatística                                                 153
+          www.estrategiaconcursos.com.br                                                                    297
+
+                                           
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+a) 𝑛𝑋̅ e (𝑛 − 1)𝑠 2 /𝑛
+
+b) (𝑛 − 1)𝑋̅/𝑛 e 𝑠 2
+
+c) 𝑋̅ e 𝑠 2
+
+d) 𝑋̅ e (𝑛 − 1)𝑠 2 /𝑛
+Comentários:
+
+O estimador de máxima verossimilhança para a média de uma população com distribuição normal é a média
+         ̅.
+amostral 𝑿
+
+E para a variância da população é o estimador tendencioso, em que dividimos a soma dos quadrados dos
+desvios por 𝑛:
+
+                                                   2
+                                                              ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                  𝑠𝑀𝑉 =
+                                                                     𝑛
+                                                                                ∑𝑛 (𝑋 −𝑋̅)2
+Portanto, a partir do estimador não tendencioso para a variância (𝑠 2 = 𝑖=1𝑛−1
+                                                                             𝑖
+                                                                                              ), devemos multiplicá-lo
+por 𝑛 − 1 e dividi-lo por 𝑛 para obter o estimador de máxima verossimilhança:
+
+                                                     2
+                                                                     𝑛−1
+                                                    𝑠𝑀𝑉 = 𝑠2 ×
+                                                                      𝑛
+
+Gabarito: D
+
+10.    (FGV/2024 – CVM) O número de denúncias a um órgão em um certo período segue distribuição de
+Poisson, cujo parâmetro é desconhecido. Nas últimas 5 horas, chegaram ao órgão as seguintes
+quantidades de reclamações/hora: 3, 2, 1, 1 e 3.
+Com base nesses dados, e considerando-os como observações de uma amostra aleatória simples, a
+estimativa de máxima verossimilhança para a probabilidade de que, nas próximas 2 horas, cheguem à
+agência ao menos 2 denúncias é:
+[Dados: Valores aproximados da função exponencial: exp(-1/40) = 0,97; exp(-1) = 0,368; exp(-2) = 0,135;
+exp(-4) = 0,018]
+a) 0,10
+b) 0,14
+c) 0,59
+d) 0,91
+e) 0,95
+Comentários:
+
+
+          Receita Federal (Analista Tributário) Estatística                                                        154
+          www.estrategiaconcursos.com.br                                                                           297
+
+                                        
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+O estimador de máxima verossimilhança para o parâmetro da distribuição de Poisson (que corresponde à
+média da variável) é a média amostral1. A média da amostra é:
+
+                                                              3 + 2 + 1 + 1 + 3 10
+                                              𝜆̂𝑀𝑉 = 𝑋̅ =                      =   =2
+                                                                      5          5
+
+Essa é a estimativa de reclamações por hora. Para 2 horas, o parâmetro será o dobro:
+
+                                                              𝜆 = 2×2= 4
+
+Para calcular a probabilidade de chegar pelo menos 2 denúncias, nesse período de 2 horas, utilizamos a
+probabilidade complementar:
+
+                             𝑃(𝑋 ≥ 2) = 1 − 𝑃(𝑋 < 2) = 1 − [𝑃(𝑋 = 0) + 𝑃(𝑋 = 1)]
+
+Essas probabilidades são:
+
+                                                                    𝑒 −𝜆 . 𝜆𝑘
+                                                         𝑃(𝑋 = 𝑘) =
+                                                                       𝑘!
+
+                                                                𝑒 −4 . 40
+                                                     𝑃(𝑋 = 0) =           = 𝑒 −4
+                                                                   0!
+
+                                                                    𝑒 −4 . 41
+                                                    𝑃(𝑋 = 1) =                = 4. 𝑒 −4
+                                                                       1!
+
+E a soma é:
+
+1
+    Vamos calcular o estimador de máxima verossimilhança para a distribuição de Poisson, cuja função de distribuição de
+                            𝑒 −𝜃 .𝜃 𝑥
+probabilidade é 𝑓(𝜃, 𝑥) =        . A função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ) corresponde ao produto das funções de
+                              𝑥!
+probabilidade, aplicadas para cada resultado da amostra:
+                                        𝑛                                                                    𝑛
+                                                        𝑒 −𝜃 . 𝜃 𝑥1 𝑒 −𝜃 . 𝜃 𝑥2     𝑒 −𝜃 . 𝜃 𝑥𝑛 𝑒 −𝑛.𝜃 . 𝜃 ∑𝑖=1 𝑥𝑖
+                         𝐿(𝜃, 𝑥𝑖 ) = ∏ 𝑓(𝜃, 𝑥𝑖 ) =                 ×            ×…×            =
+                                                           𝑥1 !        𝑥2 !            𝑥𝑛 !       ∏𝑛𝑖=1(𝑥𝑖 !)
+                                        𝑖=1
+
+O logaritmo natural dessa função é:
+                                                                    𝑛                       𝑛               𝑛
+                                                          𝑛
+                     ln 𝐿(𝜃, 𝑥𝑖 ) = ln(𝑒 −𝑛.𝜃 ) + ln(𝜃 ∑𝑖=1 𝑥𝑖 ) − ∑ ln(𝑥𝑖 !) = −𝑛. 𝜃 + ∑ 𝑥𝑖 . ln 𝜃 − ∑ ln(𝑥𝑖 !)
+                                                                   𝑖=1                     𝑖=1             𝑖=1
+
+Agora, derivamos essa função em relação a 𝜃 e igualamos a zero (equação de log-verossimilhança):
+                                                     𝜕 ln 𝐿(𝜃, 𝑥𝑖 )          ∑𝑛𝑖=1 𝑥𝑖
+                                                                    = −𝑛 +            =0
+                                                          𝜕𝜃                    𝜃
+                                                                 ∑𝑛𝑖=1 𝑥𝑖
+                                                                          =𝑛
+                                                                    𝜃
+                                                                      ∑𝑛𝑖=1 𝑥𝑖
+                                                                 𝜃=
+                                                                          𝑛
+
+
+           Receita Federal (Analista Tributário) Estatística                                                         155
+           www.estrategiaconcursos.com.br                                                                            297
+
+                                               
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+                    𝑃(𝑋 < 2) = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) = 𝑒 −4 + 4. 𝑒 −4 = 5. 𝑒 −4 ≅ 5 × 0,018 = 0,09
+
+Por fim, a probabilidade desejada é complementar:
+
+                                                   𝑃(𝑋 ≥ 2) = 1 − 0,09 = 0,91
+
+Gabarito: D
+
+11.   (FGV/2024 – TJ/RR) A seguinte amostra aleatória simples foi observada de uma distribuição
+Bernoulli(p): 1 1 0 0 0 1 0 1 0 1 0 0 0 0 1 0 1 1 1 0 1 1 0 0 1
+Nesse caso, a estimativa de máxima verossimilhança de p é igual a
+a) 0,24
+b) 0,30
+c) 0,36
+d) 0,48
+e) 0,54
+Comentários:
+
+A estimativa de máxima verossimilhança para a proporção populacional p é a proporção amostral, dada pela
+soma dos elementos, dividida pela quantidade total de elementos:
+
+                                                              ∑ 𝑋 12
+                                                       𝑝̂ =      =    = 0,48
+                                                               𝑛   25
+
+Gabarito: D
+
+12.    (FGV/2024 – Pref. Vitória) Uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , . . , 𝑿𝒏 será obtida de uma
+densidade dada por 𝒇(𝒙) = 𝜽𝒆−𝜽𝒙 , se 𝒙 > 𝟎, 𝜽 > 𝟎, 𝒇(𝒙) = 𝟎 nos demais casos. O estimador de máxima
+verossimilhança de 𝜽 é dado por
+     ∑𝒏
+      𝒊=𝟏 𝑿𝒊
+a)      𝒏
+
+     ∑𝒏    𝟐
+      𝒊=𝟏 𝑿𝒊
+b)      𝒏
+
+     ∑𝒏    𝟐
+      𝒊=𝟏 𝑿𝒊
+c)     𝒏𝟐
+
+d) ∑𝒏𝒊=𝟏 𝑿𝟐𝒊
+        𝒏
+e) ∑𝒏
+      𝒊=𝟏 𝑿𝒊
+
+               Receita Federal (Analista Tributário) Estatística                                     156
+               www.estrategiaconcursos.com.br                                                        297
+
+                                             
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+Comentários:
+
+A função densidade fornecida corresponde à distribuição exponencial, cuja média é o inverso do parâmetro:
+
+                                                                                1
+                                                                  𝐸(𝑋) =
+                                                                                𝜃
+
+A estimativa de máxima verossimilhança para 𝜃 é o inverso da média amostral2:
+
+                                                                  1     𝑛
+                                                           𝜃̂ =     = 𝑛
+                                                                  𝑋̅ ∑𝑖=1 𝑋𝑖
+
+Gabarito: E
+
+13.   (FGV/2024 – INPE) Uma empresa faz pesquisas na área ambiental. Sabe-se que o tempo entre secas
+(em anos) em determinada região no Brasil segue uma distribuição exponencial com parâmetro β.
+Considere uma amostra de tamanho 5 cujos elementos são 15, 18, 20, 22 e 25.
+Aplicando o método da máxima verossimilhança, o valor da estimativa de β
+a) 0,01
+b) 0,03
+c) 0,05
+
+2
+    Vamos calcular o estimador de máxima verossimilhança para a distribuição exponencial, cuja f.d.p. é 𝑓(𝜃, 𝑥) = 𝜃. 𝑒 −𝜃.𝑥 .
+Primeiro, calculamos a função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ), que corresponde ao produto da função densidade de
+probabilidade, aplicada para os resultados da amostra:
+                                                                                                        𝑛
+                                   𝐿(𝜃, 𝑥𝑖 ) = 𝜃. 𝑒 −𝜃.𝑥1 × 𝜃. 𝑒 −𝜃.𝑥2 × … × 𝜃. 𝑒 −𝜃.𝑥𝑛 = 𝜃 𝑛 . 𝑒 −𝜃.∑𝑖=1 𝑥𝑖
+Agora, aplicamos o logaritmo natural dessa função:
+                                                                                                𝑛
+                                                              𝑛    −𝜃.∑𝑛
+                                                                       𝑖=1 𝑥𝑖
+                                         ln 𝐿(𝜃, 𝑥𝑖 ) = ln(𝜃 . 𝑒                ) = 𝑛. ln 𝜃 − 𝜃. ∑ 𝑥𝑖
+                                                                                               𝑖=1
+
+Em seguida, igualamos a derivada dessa função a zero (equação de log-verossimilhança):
+                                                                                 𝑛
+                                                      𝜕 ln 𝐿(𝜃, 𝑥𝑖 ) 𝑛
+                                                                    = − ∑ 𝑥𝑖 = 0
+                                                           𝜕𝜃        𝜃
+                                                                                𝑖=1
+                                                                        𝑛
+                                                                  𝑛
+                                                                    = ∑ 𝑥𝑖
+                                                                  𝜃
+                                                                       𝑖=1
+
+                                                                       𝑛            1
+                                                              𝜃=           =
+                                                                   ∑𝑛𝑖=1 𝑥𝑖 𝑋̅
+
+            Receita Federal (Analista Tributário) Estatística                                                                   157
+            www.estrategiaconcursos.com.br                                                                                      297
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+d) 0,10
+e) 0,12
+Comentários:
+
+                                                                               1
+Para a distribuição exponencial, a média é o inverso do parâmetro: 𝐸(𝑋) = 𝜃, e a estimativa de máxima
+verossimilhança para 𝜃 é o inverso da média amostral:
+
+                                                                      1
+                                                               𝛽̂ =
+                                                                      𝑋̅
+
+A média da amostra é:
+
+                                             15 + 18 + 20 + 22 + 25 100
+                                      𝑋̅ =                         =    = 20
+                                                       5             5
+
+E o seu inverso, que corresponde à estimativa do parâmetro desejado, é:
+
+                                                                1
+                                                       𝛽̂ =       = 0,05
+                                                               20
+
+Gabarito: C
+
+14.    (FGV/2024 – CVM) Suponha que o tempo X, em dias, até que uma debênture incentivada aumente
+seu valor de mercado em 30%, seja uma variável aleatória com função de densidade
+
+                                                𝒇(𝒙) = 𝜽𝟐 × 𝒆−𝜽𝐱 ; 𝒙 > 𝟎
+O tempo médio registrado, com base nas observações de uma amostra aleatória simples, foi de 400 dias.
+Com base nessa amostra, a estimativa de máxima verossimilhança do parâmetro θ é:
+a) 1/40
+b) 1/80
+c) 1/100
+d) 1/200
+e) 1/400
+Comentários:
+
+A função densidade de probabilidade fornecida se assemelha à distribuição exponencial, em que o
+parâmetro é estimado pelo inverso da média amostral. No entanto, em vez de 𝜃, a função exponencial é
+multiplicada por 𝜃 2 .
+
+           Receita Federal (Analista Tributário) Estatística                                      158
+           www.estrategiaconcursos.com.br                                                         297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para calcular o estimador de máxima verossimilhança para a função densidade fornecida, vamos primeiro
+calcular a função de máxima verossimilhança 𝐿(𝜃, 𝑥𝑖 ), que corresponde ao produto das funções de
+probabilidade, aplicadas para os resultados da amostra:
+                                                                                                     𝑛
+                    𝐿(𝜃, 𝑥𝑖 ) = 𝜃 2 . 𝑒 −𝜃.𝑥1 × 𝜃 2 . 𝑒 −𝜃.𝑥2 × … × 𝜃 2 . 𝑒 −𝜃.𝑥𝑛 = 𝜃 2.𝑛 . 𝑒 −𝜃.∑𝑖=1 𝑥𝑖
+
+Agora, aplicamos o logaritmo natural dessa função:
+                                                                                             𝑛
+                                                  2.𝑛        −𝜃.∑𝑛
+                                                                 𝑖=1 𝑥𝑖
+                            ln 𝐿(𝜃, 𝑥𝑖 ) = ln(𝜃         .𝑒                ) = 2. 𝑛. ln 𝜃 − 𝜃. ∑ 𝑥𝑖
+                                                                                            𝑖=1
+
+Em seguida, igualamos a derivada dessa função a zero (equação de log-verossimilhança):
+                                                                             𝑛
+                                          𝜕 ln 𝐿(𝜃, 𝑥𝑖 ) 2. 𝑛
+                                                        =     − ∑ 𝑥𝑖 = 0
+                                               𝜕𝜃         𝜃
+                                                                            𝑖=1
+
+                                                                    𝑛
+                                                          𝑛
+                                                        2. = ∑ 𝑥𝑖
+                                                          𝜃
+                                                                   𝑖=1
+
+                                                               2. 𝑛    2
+                                                   𝜃=          𝑛     =
+                                                              ∑𝑖=1 𝑥𝑖 𝑋̅
+
+Sabendo que a média amostral observada foi 𝑋̅ = 400, a estimativa de máxima verossimilhança é:
+
+                                                               2   1
+                                                    𝜃̂ =         =
+                                                              400 200
+
+Gabarito: D
+
+15.   (FGV/2024 – INPE) No estudo de dispositivos semicondutores usados na construção de satélites,
+optou-se por utilizar o método da máxima verossimilhança na estimação dos parâmetros do estudo.
+Segundo os especialistas, esse método foi escolhido por apresentar boas propriedades.
+Assinale a opção que apresenta as propriedades que pertencem ao método escolhido.
+a) Não tendenciosidade e consistência.
+b) Invariância e tem distribuição assintoticamente normal.
+c) Não tendenciosidade e tem distribuição assintoticamente normal.
+d) Invariância e tem distribuição normal independentemente do tamanho da amostra.
+e) Assintoticamente não tendenciosos e tem distribuição normal independentemente do tamanho da
+amostra.
+
+        Receita Federal (Analista Tributário) Estatística                                                  159
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Comentários:
+
+Os estimadores de máxima verossimilhança apresentam as seguintes propriedades:
+
+    •   Consistência, ou seja, convergem para o parâmetro estimado. Isso implica que, para grandes
+        amostras, eles são não viciados e de variância mínima (eficiência assintótica).
+    •   Distribuição aproximadamente normal, para grandes amostras (distribuição assintoticamente
+        normal).
+    •   Invariância, ou seja, se se 𝜃̂𝑀𝑉 é o estimador de máxima verossimilhança para 𝜃, então qualquer
+        função desse estimador 𝑓(𝜃̂𝑀𝑉 ) também será o estimador de máxima verossimilhança para 𝑓(𝜃).
+
+Agora, vamos analisar as alternativas. Os estimadores de máxima verossimilhança não apresentam a
+propriedade de não tendência, exceto para grandes amostras. Por esse motivo, as alternativas A e C estão
+erradas.
+
+Em relação à alternativa B, os estimadores de máxima verossimilhança apresentam tanto a propriedade de
+invariância quanto de distribuição assintoticamente normal. Logo, a alternativa B está certa.
+
+Ademais, a distribuição desses estimadores é normal apenas para grandes amostras (e não para qualquer
+tamanho de amostra. Por isso, as alternativas D e E estão erradas.
+
+Gabarito: B
+
+16.   (FGV/2024 – TJ/AP) Seja uma variável aleatória 𝑿𝒊 com distribuição Normal de parâmetros
+desconhecidos.
+   𝟏                 𝟏
+Se 𝒏 ∑𝒏𝒊=𝟏 𝑿𝒊 = 𝟓 e 𝒏 ∑𝒏𝒊=𝟏 𝑿𝟐𝒊 = 𝟑𝟎, então a variância estimada pelo método dos momentos será:
+
+a) 1
+b) 2.
+c) 3.
+d) 4.
+e) 5.
+Comentários:
+
+O estimador para a variância obtida pelo método dos momentos é igual à soma dos quadrados dos desvios
+dividida pelo número de elementos 𝑛 (que é um estimador tendencioso para a variância):
+
+                                                   2
+                                                             ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                 𝑠̂𝑀𝑀 =
+                                                                    𝑛
+
+Uma fórmula alternativa para esse estimador é:
+
+         Receita Federal (Analista Tributário) Estatística                                           160
+         www.estrategiaconcursos.com.br                                                              297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                                       2
+                                             ∑𝑛𝑖=1 𝑋𝑖 2         ∑𝑛𝑖=1 𝑋𝑖 2    ∑𝑛𝑖=1 𝑋𝑖
+                                   2
+                                 𝑠̂𝑀𝑀 =                    ̅ 2
+                                                        − [𝑋] =            −[          ]
+                                                 𝑛                  𝑛            𝑛
+
+              ∑𝑛
+               𝑖=1 𝑋𝑖
+                      2                ∑𝑛
+                                        𝑖=1 𝑋𝑖
+Sabendo que               = 30 e que             = 5, temos:
+                 𝑛                       𝑛
+
+                                                2
+                                             𝑠̂ 𝑀𝑀 = 30 − 52 = 30 − 25 = 5
+
+Gabarito: E
+
+17.    (FGV/2024 – TJ/AP) Sobre as propriedades dos estimadores, é correto afirmar que:
+a) eficiência é característica da maior variância possível entre os estimadores não viesados;
+b) robustez ocorre quando o estimador é mais sensível a desvios ou violações dos pressupostos do modelo;
+c) viés surge quando, em média, não tende a sobrestimar ou subestimar sistematicamente o parâmetro;
+d) suficiência é caracterizada quando há toda a informação relevante contida na amostra para se estimar o
+parâmetro;
+e) consistência é observada à medida que o tamanho amostral se reduz e a estimativa converge para o valor
+do parâmetro.
+Comentários:
+
+Vamos analisar as alternativas, em relação às propriedades dos estimadores.
+
+Em relação à alternativa A, a eficiência de um estimador não viesado está inversamente relacionada à sua
+variância: quanto menor a variância, mais eficiente é o estimador. Logo, a alternativa A está errada.
+
+Em relação à alternativa B, a robustez está associada à resistência (e não, sensibilidade) dos estimadores a
+desvios ou violações dos pressupostos do modelo, de modo que eles continuam fornecendo boas
+estimativas, nessas condições. Logo, a alternativa B está errada.
+
+Em relação à alternativa C, o viés ocorre quando a esperança do estimador é diferente do parâmetro
+estimado, ou seja, quando ele tende a sobrestimar ou subestimar sistematicamente o parâmetro. Logo, a
+alternativa C está errada.
+
+Em relação à alternativa D, um estimador é suficiente quando ele captura toda a informação contida na
+amostra para estimar o parâmetro. Logo, a alternativa D está certa.
+
+Em relação à alternativa E, um estimador é consistente quando a estimativa converge para o valor do
+parâmetro, à medida que o tamanho da amostra aumenta (e não reduz). Logo, a alternativa E está errada.
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                               161
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+18.       (FGV/2024 – TJ/RR) Avalie se as seguintes afirmativas acerca de suficiência estão corretas.
+I - Se 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 é uma amostra aleatória de uma densidade 𝒇 parametrizada por um parâmetro 𝜽,
+então uma estatística 𝑺 é suficiente se e somente se a distribuição condicional de 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 dado 𝑺 =
+𝒔 é independente de 𝜽 para todo valor 𝒔 de 𝑺.
+II - Se 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 é uma amostra aleatória de uma densidade 𝒇 parametrizada por um parâmetro 𝜽,
+então uma estatística 𝑺 = 𝒔(𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 ) é suficiente se e somente se a densidade conjunta
+de 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 fatora como uma função 𝒈(𝒔; 𝜽) não negativa que depende de 𝒙𝟏 , 𝒙𝟐 , … , 𝒙𝒏 apenas por
+meio de 𝒔 multiplicada por uma função 𝒉(𝒙𝟏 , 𝒙𝟐 , … , 𝒙𝒏 ) não negativa e independente de 𝜽.
+III - Um estimador de máxima verossimilhança de um parâmetro 𝜽 só depende da amostra por meio de
+uma estatística suficiente.
+Está correto o que se afirma em
+a) I, apenas
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+Comentários:
+
+Vamos analisar as afirmativas, em relação à propriedade da suficiência. Em relação à afirmativa I, uma
+estatística 𝑆 é dita suficiente se a função densidade conjunta aplicada à amostra, condicionada à estatística
+𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 |𝑆 = 𝑠), não depende do parâmetro estimado 𝜃. Assim, a afirmativa I apresenta a definição
+de estatística suficiente e, portanto, está correta.
+
+Em relação à afirmativa II, o Teorema de Neyman-Fisher (ou da Fatorização) afirma que uma estatística 𝑠 é
+considerada suficiente se, e somente se, a função densidade conjunta aplicada à amostra 𝑓(𝑥1 , 𝑥2 , … , 𝑥𝑛 )
+puder ser fatorada como o produto de uma função 𝑔(𝑠, 𝜃), que só depende da amostra por meio da
+estatística 𝑠, por uma função ℎ(𝑥1 , 𝑥2 , … , 𝑥𝑛 ), que não depende do parâmetro 𝜃. Assim, a afirmativa II
+apresenta o referido teorema e, portanto, está correta.
+
+Em relação à afirmativa III, um estimador de máxima verossimilhança realmente não depende diretamente
+da amostra, somente por meio da estatística, desde que ela seja suficiente.
+
+Essa conclusão é consequência do mesmo Teorema de Neyman-Fisher. De acordo com ele, podemos indicar
+a função de máxima verossimilhança como:
+                                      𝑛                 𝑛                         𝑛
+
+                        𝐿(𝜃, 𝑥𝑖 ) = ∏ 𝑓(𝜃, 𝑥𝑖 ) = ∏[𝑔(𝜃, 𝑡) × ℎ(𝑥𝑖 )] = 𝑔(𝜃, 𝑡) × ∏ ℎ(𝑥𝑖 )
+                                     𝑖=1               𝑖=1                       𝑖=1
+
+O logaritmo dessa função é:
+
+            Receita Federal (Analista Tributário) Estatística                                            162
+            www.estrategiaconcursos.com.br                                                               297
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                        𝑛
+
+                                            ln 𝐿(𝜃, 𝑥𝑖 ) = ln 𝑔(𝜃, 𝑡) + ∑ ℎ(𝑥𝑖 )
+                                                                       𝑖=1
+
+Para obter o estimador de máxima verossimilhança, igualamos a zero a derivada dessa função em relação a
+𝜃. Como a função ℎ(𝑥𝑖 ) não depende de 𝜃, a sua derivada é nula, logo:
+
+                                             𝜕[ln 𝐿(𝜃, 𝑥𝑖 )] 𝜕[ln 𝑔(𝜃, 𝑡)]
+                                                            =              =0
+                                                  𝜕𝜃              𝜕𝜃
+
+Em outras palavras, a função que permite calcular o estimador de máxima verossimilhança não depende
+diretamente da amostra 𝑥𝑖 , apenas por meio da estatística 𝑡. Assim, a afirmativa III está correta.
+
+Gabarito: E
+
+19.     (FGV/2023 – TJ/SE) Seja X₁, X₂, ..., Xₙ uma amostra aleatória da distribuição de Poisson com média
+λ, λ > 0. O estimador de máxima verossimilhança do desvio padrão é dado por:
+
+    1
+a) √𝑛 ∑𝑛𝑖=1 𝑋𝑖
+
+
+    1
+b) √𝑛 ∑𝑛𝑖=1 𝑋𝑖2
+
+
+     1
+c) √𝑛−1 ∑𝑛𝑖=1 𝑋𝑖2
+
+
+    1
+d) √𝑛 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+
+
+        1
+e) √𝑛−1 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+
+Comentários:
+
+A distribuição de Poisson possui um único parâmetro 𝜆, que corresponde tanto à média quanto à variância
+da distribuição. Pelo método de máxima verossimilhança, a estimativa desse parâmetro é a média amostral:
+                                                                 𝑛
+                                                              1
+                                                        𝜆̂𝑀𝑉 = ∑ 𝑋𝑖
+                                                              𝑛
+                                                                𝑖=1
+
+Sabendo que esse parâmetro corresponde à variância da distribuição, então o desvio padrão é estimado pela
+raiz quadrada da média amostral:
+
+            Receita Federal (Analista Tributário) Estatística                                          163
+            www.estrategiaconcursos.com.br                                                             297
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+                                                                            𝑛
+                                                                  1
+                                                  𝜎̂𝑀𝑉 = √𝜆̂𝑀𝑉 = √ ∑ 𝑋𝑖
+                                                                  𝑛
+                                                                            𝑖=1
+
+
+Gabarito: A
+
+20.   (FGV/2023 – Câmara dos Deputados) Uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 de uma
+população descrita por uma variável aleatória com distribuição normal de parâmetros 𝝁 e 𝝈𝟐
+desconhecidos será observada. Nesse caso, avalie se as seguintes afirmativas estão corretas
+                     ̅ é estimador não tendencioso de 𝝁
+I - A média amostral 𝑿
+                      ̅ é estimador de máxima verossimilhança de 𝝁
+II - A média amostral 𝑿
+                                                                   ∑𝒏       ̅ 𝟐
+                                                                    𝒊=𝟏(𝑿𝒊 −𝑿)
+III - Um estimador não tendencioso de 𝝈𝟐 é dado por                     𝒏
+
+Está correto o que se afirma em
+
+a) I, apenas
+
+b) I e II, apenas
+
+c) I e III, apenas
+
+d) II e III, apenas
+
+e) I, II e III
+
+Comentários:
+A média amostral é um estimador não tendencioso para a média populacional, uma vez que a esperança do
+estimador é igual ao parâmetro populacional. Logo, a afirmativa I está correta.
+Ademais, a média amostral é o estimador de máxima verossimilhança para a média populacional, quando a
+população segue distribuição normal, logo a afirmativa II está correta.
+                                                 ∑𝑛       ̅ 2
+                                                  𝑖=1(𝑋𝑖 −𝑋)
+Em relação à variância, o estimador                             , em que dividimos a soma dos quadrados por 𝑛, é
+                                                      𝑛
+                                                                                  ∑𝑛       ̅ 2
+                                                                                   𝑖=1(𝑋𝑖 −𝑋 )
+tendencioso. O estimador não tendencioso para a variância é                                      , em que dividimos a soma dos
+                                                                                      𝑛−1
+quadrados por 𝑛 − 1. Logo, a afirmativa III está errada.
+Gabarito: B
+
+
+21.    (FGV/2023 – CGE/SC) Seja uma amostra aleatória {2, 2, 4, 4} extraída de uma variável populacional
+X que segue distribuição com média 𝝁 e variância 𝝈𝟐 .
+
+            Receita Federal (Analista Tributário) Estatística                                                              164
+            www.estrategiaconcursos.com.br                                                                                 297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+São estimativas não viesadas para 𝝁 e 𝝈𝟐 , respectivamente,
+a) 3 e 0
+b) 3 e 4/3
+c) 3 e 1
+d) 4 e 1
+e) 4 e 4/3
+Comentários:
+A estimativa não viesada (ou não tendenciosa) para a média populacional é a média amostral:
+                                                 ∑ 𝑋𝑖 2 + 2 + 4 + 4 12
+                                          𝑋̅ =       =             =   =3
+                                                  𝑛         4        4
+E a estimativa não viesada para a variância populacional é a variância amostral:
+
+                                                       2
+                                                          ∑(𝑋𝑖 − 𝑋̅)2
+                                                      𝑠 =
+                                                            𝑛−1
+
+              2
+                 (2 − 3)2 + (2 − 3)2 + (4 − 3)2 + (4 − 3)2 (−1)2 + (−1)2 + (1)2 + (1)2 4
+             𝑠 =                                          =                           =
+                                   4−1                                 3                3
+Gabarito: B
+
+
+22.   (FGV/2022 – TRT/MA) Suponha uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , 𝑿𝟑 , 𝑿𝟒 de uma variável
+populacional com média 𝝁. Assinale a opção que apresenta um estimador não tendencioso de 𝝁.
+a) 𝑋1 + 𝑋2
+b) 𝑋1 − 𝑋2 + 𝑋3 − 𝑋4
+c) (2𝑋3 + 3𝑋4 )/5
+d) (2𝑋1 + 3𝑋2 + 2𝑋3 + 3𝑋4 )/5
+e) 5𝑋4
+Comentários:
+Para um estimador não tendencioso, a sua esperança deve ser igual ao parâmetro sendo estimado:
+                                                           𝐸(𝜃) = 𝜇
+A esperança do estimador da alternativa A é:
+                                         𝐸(𝜃𝐴 ) = 𝐸(𝑋1 + 𝑋2 ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 )
+Considerando que os elementos da amostra seguem a mesma distribuição da população, temos 𝐸(𝑋1 ) =
+𝐸(𝑋2 ) = 𝜇:
+                                                   𝐸(𝜃𝐴 ) = 𝜇 + 𝜇 = 2. 𝜇
+Assim, a esperança do estimador é o dobro do parâmetro (e não igual ao parâmetro). Logo, o estimador
+definido na alternativa A é tendencioso.
+
+
+           Receita Federal (Analista Tributário) Estatística                                     165
+           www.estrategiaconcursos.com.br                                                        297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A esperança do estimador da alternativa B é:
+                      𝐸(𝜃𝐵 ) = 𝐸(𝑋1 − 𝑋2 + 𝑋3 − 𝑋4 ) = 𝐸(𝑋1 ) − 𝐸(𝑋2 ) + 𝐸(𝑋3 ) − 𝐸(𝑋4 )
+Sabendo que 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 𝐸(𝑋4 ) = 𝜇, então:
+                                              𝐸(𝜃𝐵 ) = 𝜇 − 𝜇 + 𝜇 − 𝜇 = 0
+Assim, a esperança do estimador é nula (e não igual ao parâmetro). Logo, o estimador definido na alternativa
+B é tendencioso.
+A esperança do estimador da alternativa C é:
+                                                  2. 𝑋3 + 3. 𝑋4    2. 𝐸(𝑋3 ) + 3. 𝐸(𝑋4 )
+                                   𝐸(𝜃𝐶 ) = 𝐸 (                 )=
+                                                        5                    5
+Sendo 𝐸(𝑋3 ) = 𝐸(𝑋4 ) = 𝜇, então:
+                                                        2. 𝜇 + 3. 𝜇 5. 𝜇
+                                            𝐸(𝜃𝐶 ) =               =     =𝜇
+                                                             5       5
+Assim, a esperança do estimador é igual ao parâmetro 𝜇. Logo, o estimador definido na alternativa C é não
+tendencioso.
+A esperança do estimador da alternativa D é:
+                               2𝑋1 + 3𝑋2 + 2𝑋3 + 3𝑋4    2. 𝐸(𝑋1 ) + 3𝐸(𝑋2 ) + 2. 𝐸(𝑋3 ) + 3. 𝐸(𝑋4 )
+                𝐸(𝜃𝐷 ) = 𝐸 (                         )=
+                                         5                                  5
+Sendo 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 𝐸(𝑋4 ) = 𝜇, então:
+                                              2. 𝜇 + 3. 𝜇 + 2. 𝜇 + 3. 𝜇 10. 𝜇
+                                   𝐸(𝜃𝐷 ) =                            =      = 2. 𝜇
+                                                          5              5
+Assim, a esperança do estimador é o dobro do parâmetro (e não igual ao parâmetro). Logo, o estimador
+definido na alternativa D é tendencioso.
+Por fim, a esperança do estimador da alternativa E é:
+                                         𝐸(𝜃𝐸 ) = 𝐸(5. 𝑋4 ) = 5. 𝐸(𝑋4 ) = 5. 𝜇
+Portanto, a esperança do estimador é 5 vezes o parâmetro (e não igual ao parâmetro). Logo, o estimador
+definido na alternativa E é tendencioso.
+Gabarito: C
+
+
+23.    (FGV/2022 – PC-AM) Suponha que X tenha distribuição normal com média μ e variância σ2.
+Considere uma amostra aleatória X1, X2 e X3. Dos estimadores da média populacional a seguir, assinale o
+que é viesado.
+
+  1         1
+a) 2 𝑋1 + 2 𝑋2 .
+
+  1         1
+b) 2 𝑋1 + 2 𝑋3.
+
+         Receita Federal (Analista Tributário) Estatística                                               166
+         www.estrategiaconcursos.com.br                                                                  297
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+  1          1     1
+c) 2 𝑋1 + 4 𝑋2 + 4 𝑋3.
+
+   1         1     1
+d) 2 𝑋1 + 2 𝑋2 + 2 𝑋3.
+
+e) 𝑋2 .
+
+Comentários:
+
+O enunciado pede para reconhecermos o estimador viesado. Para um estimador viesado (ou tendencioso),
+a sua esperança é diferente do parâmetro sendo estimado, no caso, a média populacional 𝜇.
+
+A esperança do estimador indicado na alternativa A é:
+
+                                                            1    1
+                                                𝐸(𝑇𝐴 ) = 𝐸 ( 𝑋1 + 𝑋2 )
+                                                            2    2
+
+Pelas propriedades da esperança, a esperança da soma é igual à soma das esperanças:
+
+                                                          1          1
+                                              𝐸(𝑇𝐴 ) = 𝐸 ( 𝑋1 ) + 𝐸 ( 𝑋2 )
+                                                          2          2
+
+Ademais, quando multiplicamos a variável por uma constante, a esperança é multiplicada pela mesma
+constante, logo:
+
+                                                     1          1
+                                             𝐸(𝑇𝐴 ) = . 𝐸(𝑋1 ) + . 𝐸(𝑋2 )
+                                                     2          2
+
+Considerando que a amostra segue a mesma distribuição da população, temos 𝐸(𝑋1 ) = 𝜇 e 𝐸(𝑋2 ) = 𝜇:
+
+                                                        1     1
+                                                𝐸(𝑇𝐴 ) = . 𝜇 + . 𝜇 = 𝜇
+                                                        2     2
+
+Como a esperança desse estimador é igual ao parâmetro populacional sendo estimado (𝜇), concluímos que
+esse estimador é não tendencioso (ou não viesado).
+
+O estimador indicado na alternativa B é muito similar ao da alternativa A:
+
+                                1    1          1          1      1          1
+                    𝐸(𝑇𝐵 ) = 𝐸 ( 𝑋1 + 𝑋3 ) = 𝐸 ( 𝑋1 ) + 𝐸 ( 𝑋3 ) = . 𝐸(𝑋1 ) + . 𝐸(𝑋3 )
+                                2    2          2          2      2          2
+
+Considerando que a amostra segue a mesma distribuição da população, temos 𝐸(𝑋1 ) = 𝜇 e 𝐸(𝑋3 ) = 𝜇:
+
+                                                        1     1
+                                                𝐸(𝑇𝐵 ) = . 𝜇 + . 𝜇 = 𝜇
+                                                        2     2
+
+Logo, esse também é um estimador não viesado.
+
+A esperança do estimador indicado na alternativa C é:
+
+
+          Receita Federal (Analista Tributário) Estatística                                          167
+          www.estrategiaconcursos.com.br                                                             297
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+             1    1    1          1          1          1      1          1          1
+ 𝐸(𝑇𝐶 ) = 𝐸 ( 𝑋1 + 𝑋2 + 𝑋3 ) = 𝐸 ( 𝑋1 ) + 𝐸 ( 𝑋2 ) + 𝐸 ( 𝑋3 ) = . 𝐸(𝑋1 ) + . 𝐸(𝑋2 ) + . 𝐸(𝑋3 )
+             2    4    4          2          4          4      2          4          4
+
+Sendo 𝐸(𝑋1 ) = 𝜇, 𝐸(𝑋2 ) = 𝜇 e 𝐸(𝑋3 ) = 𝜇, temos:
+
+                                                   1     1     1
+                                           𝐸(𝑇𝐶 ) = . 𝜇 + . 𝜇 + . 𝜇 = 𝜇
+                                                   2     4     4
+
+Portanto, esse estimador também é não viesado. Para o estimador da alternativa D, a esperança é:
+
+             1    1    1          1          1          1      1          1         1
+ 𝐸(𝑇𝐷 ) = 𝐸 ( 𝑋1 + 𝑋2 + 𝑋3 ) = 𝐸 ( 𝑋1 ) + 𝐸 ( 𝑋2 ) + 𝐸 ( 𝑋3 ) = . 𝐸(𝑋1 ) + . 𝐸(𝑋2) + . 𝐸(𝑋3 )
+             2    2    2          2          2          2      2          2         2
+
+Sendo 𝐸(𝑋1 ) = 𝜇, 𝐸(𝑋2 ) = 𝜇 e 𝐸(𝑋3 ) = 𝜇, temos:
+
+                                                     1     1    1    3
+                                         𝐸(𝑇𝐷 ) =      .𝜇 + .𝜇 + .𝜇 = .𝜇
+                                                     2     2    2    2
+
+Que é diferente de 𝜇, logo, esse estimador é viesado. Por fim, para a alternativa E, temos:
+
+                                                     𝐸(𝑇𝐸 ) = 𝐸(𝑋2 )
+
+Sendo 𝐸(𝑋2 ) = 𝜇, então:
+
+                                                        𝐸(𝑇𝐸 ) = 𝜇
+
+Ou seja, o estimador é não viesado.
+
+Gabarito: D
+
+24.     (FGV/2022 – SEMSA/Manaus) Considere uma amostra aleatória simples X1, X2, ..., Xn de uma
+densidade com parâmetro θ unidimensional e avalie se as seguintes afirmativas acerca de estatísticas
+suficientes são falsas (F) ou verdadeiras (V).
+I - Se a densidade é Bernoulli (θ), então ∑𝒏𝒊=𝟏 𝑿𝒊 é suficiente.
+II - Se a densidade é Normal com média θ com variância conhecida, então ∑𝒏𝒊=𝟏 𝑿𝒊 é suficiente.
+III - Se a densidade é uniforme no intervalo (0,θ), então ∑𝒏𝒊=𝟏 𝑿𝒊 é suficiente.
+As afirmativas são respectivamente
+
+a) V, F e V
+
+b) V, V e F
+
+c) V, F e F
+
+         Receita Federal (Analista Tributário) Estatística                                         168
+         www.estrategiaconcursos.com.br                                                            297
+
+                                       
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+d) F, V e F
+
+e) F, F e F
+
+Comentários:
+
+O enunciado indaga se a estatística ∑𝑛𝑖=1 𝑋𝑖 é ou não suficiente para estimar o parâmetro θ, nas situações
+descritas nas afirmativas.
+
+Em relação à afirmativa I, as variáveis seguem distribuição de Bernoulli, com probabilidade θ, ou seja,
+assumem X = 1, com probabilidade θ, e X = 0, com probabilidade 1 - θ. A probabilidade θ é estimada pela
+soma dos resultados, dividida pelo número de variáveis na amostra. Logo, para determinado valor da
+estatística ∑𝑛𝑖=1 𝑋𝑖 , teremos sempre a mesma estimativa para θ, independentemente de qualquer outro
+resultado. Logo, temos uma estatística suficiente.
+
+Em relação à afirmativa II, as variáveis seguem distribuição normal com variância conhecida e média θ. Assim,
+a média θ é estimada pela soma dos resultados da amostra, dividida pelo seu tamanho. Logo, para
+determinado valor da estatística ∑𝑛𝑖=1 𝑋𝑖 , teremos sempre a mesma estimativa para a média,
+independentemente de qualquer outro resultado. Logo, aqui também temos uma estatística suficiente.
+
+Em relação à afirmativa III, as variáveis seguem distribuição uniforme no intervalo (0, θ), em que a estimativa
+para θ é o maior valor obtido. Assim, a soma dos valores da amostra não carrega toda a informação
+necessária para estimar o limite máximo θ, podendo haver amostras com a mesma soma ∑𝑛𝑖=1 𝑋𝑖 , mas com
+valores máximos diferentes, o que nos levaria a estimativas diferentes para θ. Logo, essa estatística não é
+suficiente.
+
+Gabarito: B
+
+25.   (FGV/2022 – TRT/MA) Considere 𝑿𝟏 , 𝑿𝟐 , ..., 𝑿𝐧 uma amostra aleatória simples de uma função de
+densidade exponencial parâmetro q, ou seja,
+                               𝒇(𝒙, 𝜽) = 𝜽. 𝒆𝒙𝒑{−𝜽𝒙},             𝒔𝒆 𝒙 > 𝟎; 𝒇(𝒙, 𝜽) = 𝟎,   𝒔𝒆 𝒙 ≤ 𝟎
+O estimador não tendencioso de variância uniformemente mínima de 1/ é
+        𝑛
+a) ∑𝑛
+      𝑖=1 𝑋𝑖
+
+     ∑𝑛
+      𝑖=1 𝑋𝑖
+b)        𝑛
+      𝑛−1
+c) ∑𝑛
+      𝑖=1 𝑋𝑖
+
+     ∑𝑛
+   𝑖=1 𝑖      𝑋
+d) 𝑛−1
+     ∑𝑛
+      𝑖=1 𝑋𝑖
+e)     2𝑛
+
+Comentários:
+
+                  Receita Federal (Analista Tributário) Estatística                                        169
+                  www.estrategiaconcursos.com.br                                                           297
+
+                                                
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+                                                                                           1
+O enunciado pede o estimador eficiente, isto é, não tendencioso e de variância mínima para 𝜃, sendo 𝜃 o
+parâmetro de uma distribuição exponencial.
+O estimador eficiente para o parâmetro da distribuição exponencial, que usualmente indicamos como 𝜆, é o
+inverso da média amostral:
+
+                                                                       1
+                                                                𝜆̂ =
+                                                                       𝑋̅
+
+Assim, para estimar o inverso do parâmetro, temos:
+
+                                                          1 1
+                                                             = = 𝑋̅
+                                                          𝜆̂  1
+                                                              𝑋̅
+                                   ∑            𝑛
+                                        𝑋𝑖
+Sabendo que a média amostral é 𝑋̅ = 𝑖=1    , então:
+                                      𝑛
+
+
+                                                          1 ∑𝑛𝑖=1 𝑋𝑖
+                                                             =
+                                                          𝜆̂   𝑛
+
+Gabarito: B
+
+26.    (FGV/2022 – TRT/PB) Se 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 é uma amostra aleatória simples de uma densidade
+exponencial 𝒇(𝒙; 𝜽) = 𝜽. 𝒆𝒙𝒑{− 𝜽𝒙}, 𝒙 > 𝟎, e se T é um estimador não tendencioso qualquer de 𝜽, então,
+pela desigualdade de Cramér-Rao, a variância de T é maior ou igual a
+  𝜃
+a) 𝑛
+b) 𝑛. 𝜃 2
+       𝜃2
+c) (𝑛−1)
+   𝑛
+d) 𝜃
+   𝜃2
+e) 𝑛
+Comentários:
+
+A desigualdade de Cramér-Rao afirma que o limite mínimo para a variância de um estimador não tendencioso
+é o inverso da Informação de Fisher:
+
+                                                                            1
+                                                          𝑉𝑎𝑟(𝜃̂) ≥
+                                                                            𝐼
+
+                      𝜕              2
+Em que 𝐼 = 𝐸 [(𝜕𝜃 ln 𝑓(𝑥, 𝜃)) ] ou, quando algumas condições de regularidade estiverem presentes, como
+no caso da distribuição exponencial:
+
+
+            Receita Federal (Analista Tributário) Estatística                                        170
+            www.estrategiaconcursos.com.br                                                           297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                         𝜕2
+                                                𝐼 = −𝐸 [ 2 ln 𝑓(𝑥, 𝜃)]
+                                                        𝜕𝜃
+
+O primeiro passo é calcular a função de verossimilhança 𝑓(𝑥, 𝜃), que corresponde à função densidade
+conjunta aplicada para as observações da amostra.
+
+Para a distribuição exponencial, a função densidade de probabilidade de cada elemento é:
+
+                                                   𝑓(𝑥, 𝜃) = 𝜃. 𝑒 −𝜃𝑥
+
+E a função de probabilidade conjunta para uma amostra de tamanho 𝑛 (função de verossimilhança) é:
+                                                                                             𝑛
+                        𝑓(𝑥, 𝜃) = 𝜃. 𝑒 −𝜃𝑥1 × 𝜃. 𝑒 −𝜃𝑥2 × … × 𝜃. 𝑒 −𝜃𝑥𝑛 = 𝜃 𝑛 . 𝑒 −𝜃 ∑𝑖=1 𝑥𝑖
+
+A função log-verossimilhança é o logaritmo natural dessa função:
+                                                            𝑛
+                               ln 𝑓(𝑥, 𝜃) = ln(𝜃 𝑛 . 𝑒 −𝜃 ∑𝑖=1 𝑥𝑖 ) = 𝑛. ln 𝜃 − 𝜃 ∑𝑛𝑖=1 𝑥𝑖
+
+Agora, derivamos essa função em relação a 𝜃:
+                                                                        𝑛
+                                            𝜕
+                                               ln 𝑓(𝑥, 𝜃) = 𝑛. 𝜃 −1 − ∑ 𝑥𝑖
+                                            𝜕𝜃
+                                                                        𝑖=1
+
+E a segunda derivada é:
+
+                                                𝜕2
+                                                  2
+                                                    ln 𝑓(𝑥, 𝜃) = −𝑛. 𝜃 −2
+                                               𝜕𝜃
+
+Como esse resultado é independente de 𝒙, a sua esperança é igual à própria expressão, logo:
+
+                                    𝜕2                 𝜕2                              𝑛
+                        𝐼 = −𝐸 [      2
+                                        ln 𝑓(𝑥, 𝜃)] =    2
+                                                           ln 𝑓(𝑥, 𝜃) = −(−𝑛. 𝜃 −2 ) = 2
+                                   𝜕𝜃                 𝜕𝜃                              𝜃
+
+E o limite mínimo de Cramér-Rao para a variância de um estimador não tendencioso para a distribuição
+exponencial é o inverso desse resultado:
+
+                                                                1 𝜃2
+                                                   𝑉𝑎𝑟(𝜃̂) ≥      =
+                                                                𝐼   𝑛
+
+Vale ressaltar que não há estimador não tendencioso que atinja esse limite.
+
+Gabarito: E
+
+
+27.    (FGV/2022 – TRT/PB) A seguinte amostra de uma densidade uniforme no intervalo (0, 𝜽) foi obtida:
+                        22,1     23,5      18,5    30,1     28,7   20,0 16,4      29,2       25,5
+
+
+        Receita Federal (Analista Tributário) Estatística                                           171
+        www.estrategiaconcursos.com.br                                                              297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A estimativa de máxima verossimilhança de 𝜽 é igual a
+a) 21,4.
+b) 25,5.
+c) 28,7.
+d) 29,0.
+e) 30,1.
+Comentários:
+A estimativa de máxima verossimilhança para uma distribuição uniforme no intervalo (0, 𝜃) é o maior valor
+obtido na amostra, no caso, 30,1.
+Gabarito: E
+
+
+28.     (FGV/2022 – EPE) Suponha que a variável aleatória W seja uniformemente distribuída no intervalo
+[0, Ω]. Uma amostra aleatória de tamanho 10 foi obtida e mostrou os seguintes resultados: 0,2; 1,0; 0,5;
+1,3; 1,8; 2,0; 1,0; 0,7; 0,3 e 1,2.
+A estimativa de máxima verossimilhança de Ω é, então, igual a
+
+a) 0,2
+
+b) 0,5
+
+c) 1,0
+
+d) 1,5
+
+e) 2,0
+
+Comentários:
+
+Para uma variável com distribuição uniforme no intervalo [0, Ω], a estimativa para Ω é o maior valor
+observado na amostra (diferentemente do método dos momentos, cuja estimativa para Ω é o dobro da
+média amostral).
+
+O maior valor observado na amostra é 2,0; logo, esta é a estimativa de máxima verossimilhança para Ω.
+
+Gabarito: E
+
+29.   (FGV/2022 – TRT/MA) Considere uma amostra aleatória de tamanho n obtida de uma distribuição
+Bernoulli com parâmetro p:
+
+                              𝒇(𝒙; 𝒑) = 𝒑𝒙 (𝟏 − 𝒑)𝟏−𝒙 ,        𝒙 = 𝟎 𝒐𝒖 𝟏,    𝟎≤𝒑≤𝟏
+
+           Receita Federal (Analista Tributário) Estatística                                            172
+           www.estrategiaconcursos.com.br                                                               297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A função de verossimilhança correspondente é então
+a) 𝐿(𝑝) = 𝑝∑ 𝑥𝑖 (1 − 𝑝)𝑛−∑ 𝑥𝑖
+b) 𝐿(𝑝) = 𝑝𝑛−∑ 𝑥𝑖 (1 − 𝑝)1−∑ 𝑥𝑖
+c) 𝐿(𝑝) = 𝑝2 (1 − 𝑝)𝑛−1 ∑ 𝑥𝑖
+d) 𝐿(𝑝) = 𝑝𝑛 (1 − 𝑝)𝑛−1 ∑ 𝑥𝑖
+                         ∑ 𝑥𝑖
+e) 𝐿(𝑝) = (1 − 𝑝)𝑛−1 .      ⁄ ∑ 𝑥𝑖
+                              𝑝
+Comentários:
+A função de máxima verossimilhança é o produto da função de probabilidade, para cada resultado amostral:
+                         𝐿(𝜃, 𝑥𝑖 ) = ∏𝑛𝑖=1 𝑓(𝜃, 𝑥𝑖 ) = 𝑓(𝜃, 𝑥1 ) × 𝑓(𝜃, 𝑥2 ) × … × 𝑓(𝜃, 𝑥𝑛 )
+Sendo a função 𝑓(𝑥; 𝑝) = 𝑝 𝑥 (1 − 𝑝)1−𝑥 , o produto para uma amostra de tamanho 𝑛 é dada por:
+
+                      𝐿(𝑝, 𝑥𝑖 ) = 𝑝 𝑥1 (1 − 𝑝)1−𝑥1 × 𝑝 𝑥2 (1 − 𝑝)1−𝑥2 × … × 𝑝 𝑥𝑛 (1 − 𝑝)1−𝑥𝑛
+
+O que precisamos fazer para encontrar a resposta da questão é condensar essa expressão. Para isso,
+consideramos que 𝑎 𝑥 . 𝑎 𝑦 = 𝑎 𝑥+𝑦 :
+
+                                 𝐿(𝑝, 𝑥𝑖 ) = 𝑝 𝑥1+𝑥2+⋯+𝑥𝑛 (1 − 𝑝)1−𝑥1+1−𝑥2+⋯+1−𝑥𝑛
+
+O somatório 𝑥1 + 𝑥2 + ⋯ + 𝑥𝑛 pode ser representado como ∑ 𝑥𝑖 .
+
+                                      𝐿(𝑝, 𝑥𝑖 ) = 𝑝∑ 𝑥𝑖 (1 − 𝑝)1−𝑥1+1−𝑥2+⋯+1−𝑥𝑛
+
+Ademais, a expressão 1 − 𝑥1 + 1 − 𝑥2 + ⋯ + 1 − 𝑥𝑛 corresponde a 𝑛 vezes 1 menos o somatório ∑ 𝑥𝑖 :
+
+                                             𝐿(𝑝, 𝑥𝑖 ) = 𝑝∑ 𝑥𝑖 (1 − 𝑝)𝑛−∑ 𝑥𝑖
+
+Gabarito: A
+
+
+30.    (FGV/2022 – TRT/MA) Se 𝑿𝟏 , 𝑿𝟐 , ..., 𝑿𝐧 é uma amostra aleatória simples de uma variável
+populacional normalmente distribuída com média  e variância ², então o estimador de máxima
+verossimilhança de log(²) é
+
+a) 𝑛. log[∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ]
+         1
+b) log [𝑛+1 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ]
+
+c) 2𝑛. log[∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ]
+        1
+d) log [𝑛 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ]
+
+         1
+e) log [𝑛−1 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ]
+
+
+         Receita Federal (Analista Tributário) Estatística                                           173
+         www.estrategiaconcursos.com.br                                                              297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+O estimador de máxima verossimilhança para a variância de uma população normal é:
+
+                                                   2
+                                                             ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                 𝜎̂𝑀𝑉 =
+                                                                    𝑛
+Que é tendencioso, por dividir a soma dos quadrados dos desvios por 𝒏 e não por 𝑛 − 1.
+O logaritmo desse estimador (referente à função de log-verossimilhança) é:
+                                                                          𝑛
+                                              ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2          1
+                                    2
+                              log 𝜎̂𝑀𝑉 = log [                ] = log [ ∑(𝑋𝑖 − 𝑋̅)2 ]
+                                                     𝑛                 𝑛
+                                                                         𝑖=1
+
+Gabarito: D
+
+
+31.    (FGV/2021 – FunSaúde/CE) Os táxis, em uma determinada cidade, são numerados de 1 a n, ou seja,
+n é quantidade de táxis na cidade. Para estimar n, uma amostra aleatória simples de 10 números de táxis
+indicou as seguintes numerações:
+                                     23, 35, 57, 102, 305, 38, 48, 204, 245, 267
+A estimativa de máxima verossimilhança de n é
+
+a) 132
+
+b) 267
+
+c) 289
+
+d) 305
+
+e) 328
+
+Comentários:
+
+Nessa questão, temos uma situação similar a uma distribuição uniforme, em que desejamos estimar o limite
+máximo da distribuição. Pelo método da máxima verossimilhança, a estimativa é o maior valor observado na
+amostra.
+
+O maior valor observado na amostra é 305; logo, esta é a estimativa de máxima verossimilhança para a
+quantidade de carros.
+
+Gabarito: D
+
+32.   (FGV/2021 – FUNSAÚDE-CE) Uma amostra aleatória simples X1, X2, X3, de tamanho 3, de uma
+população com média µ será obtida.
+
+
+         Receita Federal (Analista Tributário) Estatística                                           174
+         www.estrategiaconcursos.com.br                                                              297
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Avalie, então, se os seguintes estimadores são não-tendenciosos para µ:
+I. T1 = X1 + X2 + X3
+II. T2 = (X1 + X2 + X3)/3
+III. T3 = X1 – X2 + X3
+Assinale:
+
+a) se apenas o estimador T2 é não-tendencioso;
+
+b) se apenas os estimadores T1 e T2 são não-tendenciosos;
+
+c) se apenas os estimadores T1 e T3 são não-tendenciosos;
+
+d) se apenas os estimadores T2 e T3 são não-tendenciosos;
+
+e) se os estimadores T1, T2 e T3 são não-tendenciosos.
+
+Comentários:
+
+Essa questão trabalha com o cálculo da tendência (ou viés) de estimador, que corresponde à diferença entre
+a esperança do estimador e o verdadeiro valor do parâmetro, no caso, 𝜇:
+
+                                                   𝑏(𝑇𝑖 ) = 𝐸(𝑇𝑖 ) − 𝜇
+
+A esperança do primeiro estimador é:
+
+                                               𝐸(𝑇1 ) = 𝐸(𝑋1 + 𝑋2 + 𝑋3 )
+
+A esperança da soma de variáveis corresponde à soma das esperanças das variáveis, isto é:
+
+                                          𝐸(𝑇1 ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 )
+
+Cada elemento da amostra Xi apresenta a mesma distribuição da população e, portanto, a mesma esperança:
+𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 𝐸(𝑋) = 𝜇.
+
+Logo:
+
+                                               𝐸(𝑇1 ) = 𝜇 + 𝜇 + 𝜇 = 3. 𝜇
+
+Assim, a tendência do estimador é a diferença entre esse resultado e o verdadeiro valor do parâmetro:
+
+                                                𝑏(𝑇1 ) = 3. 𝜇 − 𝜇 = 2. 𝜇
+
+Como esse resultado é diferente de zero, dizemos que esse estimador é tendencioso.
+
+A esperança do segundo estimador é:
+
+         Receita Federal (Analista Tributário) Estatística                                              175
+         www.estrategiaconcursos.com.br                                                                 297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                           𝑋1 + 𝑋2 + 𝑋3
+                                               𝐸(𝑇2 ) = 𝐸 (             )
+                                                                3
+
+Quando dividimos as variáveis por uma constante, a esperança também é dividida por essa constante:
+
+                                            𝐸(𝑋1 + 𝑋2 + 𝑋3 ) 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 )
+                                 𝐸(𝑇2 ) =                   =
+                                                   3                    3
+
+Sabendo que 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 𝐸(𝑋) = 𝜇, temos:
+
+                                                         𝜇 + 𝜇 + 𝜇 3. 𝜇
+                                              𝐸(𝑇2 ) =            =     =𝜇
+                                                             3      3
+
+Considerando que a tendência do estimador é a diferença entre esse resultado e o verdadeiro valor do
+parâmetro, temos:
+
+                                                   𝑏(𝑇2 ) = 𝜇 − 𝜇 = 0
+
+Como esse resultado é igual a zero, dizemos que esse estimador é não-tendencioso.
+
+A esperança do terceiro estimador é:
+
+                                 𝐸(𝑇3 ) = 𝐸(𝑋1 − 𝑋2 + 𝑋3 ) = 𝐸(𝑋1 ) − 𝐸(𝑋2 ) + 𝐸(𝑋3 )
+
+Sabendo que 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) = 𝐸(𝑋) = 𝜇, logo:
+
+                                                 𝐸(𝑇3 ) = 𝜇 − 𝜇 + 𝜇 = 𝜇
+
+E a tendência desse estimador é:
+
+                                                   𝑏(𝑇3 ) = 𝜇 − 𝜇 = 0
+
+Como esse resultado é igual a zero, concluímos que esse estimador também é não-tendencioso.
+
+Gabarito: D
+
+33.    (FGV/2021 – FUNSAÚDE-CE) Planeja-se estimar o parâmetro p de uma distribuição Bernoulli a partir
+de uma amostra aleatória simples. Como sabemos, p é a proporção de “sucessos” na população. Avalie,
+então, se as afirmativas a seguir, acerca do estimador ”proporção de sucessos na amostra”, estão corretas.
+I. É estimador de máxima verossimilhança.
+II. É estimador não tendencioso.
+III. É estatística suficiente.
+Está correto o que se afirma em
+
+         Receita Federal (Analista Tributário) Estatística                                             176
+         www.estrategiaconcursos.com.br                                                                297
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários:
+Essa questão trabalha com propriedades dos estimadores (suficiência e não tendenciosidade) e com o
+método de estimação da máxima verossimilhança. Esse método busca a estimativa para a qual a
+probabilidade de se obter os valores observados é a maior possível. Em outras palavras, suponha que as
+observações tenham sido 𝑋1 , 𝑋2 , … , 𝑋𝑛 . Nesse caso, considerando o estimador de máxima verossimilhança,
+a probabilidade associada às observações 𝑋1 , 𝑋2 , … , 𝑋𝑛 é maior do que se considerássemos qualquer outro
+estimador.
+Aqui, é importante saber que a proporção amostral 𝑝̂ é o estimador para a proporção populacional 𝑝 obtido
+pelo método da máxima verossimilhança, assim como a média amostral 𝑋̅ é o estimador para a média
+populacional 𝜇 obtido por esse método. Vale acrescentar também que esses são os estimadores obtidos a
+partir de outros métodos também, como o método dos mínimos quadrados e o método dos momentos.
+Assim, a afirmativa I está correta.
+A esperança da proporção amostral é igual à proporção populacional, assim como a esperança da média
+amostral é igual à média populacional. Logo, esses estimadores são não tendenciosos e a afirmativa II está
+correta.
+A proporção amostral também captura toda a informação disponível na amostra para estimar a proporção
+populacional, sendo portanto uma estatística suficiente (o mesmo ocorre com a média amostral). Logo, a
+afirmativa III está correta.
+Não está sendo exigido pela questão, mas vale acrescentar que o estimador para a variância populacional
+obtido tanto pelo método dos momentos quanto pelo método da máxima verossimilhança é:
+                                                             ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                     ̂∗2 =
+                                                     𝜎
+                                                                    𝒏
+
+Esse estimador é tendencioso. O estimador não tendencioso para a variância populacional é a variância
+amostral:
+
+                                                             ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                     𝑠2 =
+                                                                  𝒏−𝟏
+
+Gabarito: E
+
+            Receita Federal (Analista Tributário) Estatística                                          177
+            www.estrategiaconcursos.com.br                                                             297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+34.     (FGV/2019 – DPE-RJ) Sejam θ1, θ2 e θ3 estimadores de um parâmetro populacional θ gerados a
+partir de uma amostra do tipo AAS de tamanho n.
+Sabe-se ainda que θ1 é eficiente quando comparada com uma certa classe de estimadores, que θ2 e θ3 são
+tendenciosos, mas θ2 não é assintoticamente tendencioso. Então:
+a) Se lim 𝑉(𝜃3 ) ≠ 0, o estimador não é consistente;
+     𝑛→∞
+            𝜃 +𝜃
+b) Se 𝜃 ∗ = 2 2 3 , então 𝜃 ∗ é um estimador inconsistente de 𝜃;
+
+c) Se 𝜃 ∗∗ = 𝜃1 + 𝜃2 − 𝜃3 , então 𝜃 ∗∗ é não tendencioso;
+d) Se lim 𝑉(𝜃1 ) = 0, então 𝜃1 é um estimador consistente;
+      𝑛→∞
+
+e) Se lim 𝐸𝑄𝑀(𝜃2 ) ≠ 0, então 𝜃2 não é consistente.
+      𝑛→∞
+
+Comentários:
+Essa questão pode ser mais rapidamente resolvida ao atentarmos para o fato de que não podemos concluir
+que um estimador seja inconsistente (ou não consistente), com base nas propriedades assintóticas de não
+tendência e eficiência, apenas que ele seja consistente, se apresentar tais propriedades.
+Assim, eliminamos as alternativas A, B e E, pois elas concluem que o estimador é inconsistente.
+Em particular, a alternativa A afirma que o estimador 𝜃3 será inconsistente se não for assintoticamente
+eficiente.
+Já a alternativa B define o estimador 𝜃 ∗ como a média dos estimadores 𝜃2 e 𝜃3 . Como não podemos concluir
+que 𝜃2 e 𝜃3 são inconsistentes, então também não podemos afirmar a sua média, 𝜃 ∗ , será inconsistente.
+Por fim, a alternativa E afirma que o estimador 𝜃3 será inconsistente se o seu erro quadrático médio (EQM)
+não tender a zero quando 𝑛 tende a infinito.
+Se o EQM desse estimador não tende a zero, então a sua variância não tende a zero e/ou o seu viés não
+tende a zero.
+De qualquer forma, não podemos afirmar que o estimador é consistente, nem inconsistente.
+Em relação à alternativa C, para saber se o estimador 𝜃 ∗∗ = 𝜃1 + 𝜃2 − 𝜃3 é tendencioso ou não, precisamos
+calcular o seu viés:
+            𝑏(𝜃 ∗∗ ) = 𝐸(𝑒) = 𝐸(𝜃 ∗∗ ) − 𝜃 = 𝐸(𝜃1 + 𝜃2 − 𝜃3 ) − 𝜃 = 𝐸(𝜃1 ) + 𝐸(𝜃2 ) − 𝐸(𝜃3 ) − 𝜃
+O primeiro estimador, 𝜃1 , é eficiente, sendo, portanto, não tendencioso, ou seja, 𝐸(𝜃1 ) = 𝜃:
+                              𝑏(𝜃 ∗∗ ) = 𝜃 + 𝐸(𝜃2 ) − 𝐸(𝜃3 ) − 𝜃 = 𝐸(𝜃2 ) − 𝐸(𝜃3 )
+Ou seja, para que o estimador 𝜃 ∗∗ fosse não tendencioso seria necessário que os vieses dos estimadores 𝜃2
+e 𝜃3 fossem iguais. Como isso não ocorre, então não podemos dizer que 𝜃 ∗∗ é não tendencioso. Logo, a
+alternativa C está incorreta.
+
+        Receita Federal (Analista Tributário) Estatística                                              178
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Em relação à alternativa D, o enunciado afirma que 𝜃1 é eficiente, o que significa que esse estimador é não
+tendencioso. Então, se a sua variância tender a zero quando 𝑛 tende a infinito (assintoticamente eficiente),
+o estimador 𝜃1 será consistente (alternativa certa).
+Gabarito: D
+
+
+35.   (FGV/2018 – TJ-AL - Adaptada) Sobre as propriedades dos estimadores, para pequenas e grandes
+amostras, é correto afirmar que:
+
+a) a não tendenciosidade é uma condição necessária para a suficiência de um estimador;
+
+b) a consistência de um dado estimador pressupõe que a sua tendenciosidade assintótica seja nula;
+
+c) a igualdade entre a variância e o limite de Cramér-Rao correspondente é uma condição necessária para a
+eficiência;
+
+d) a eficiência assintótica é uma propriedade baseada na ideia de velocidade de convergência da variância;
+
+Comentários:
+
+Essa questão trabalha com as propriedades de estimadores.
+
+Em relação à alternativa A, um estimador é dito suficiente se ele captura toda a informação possível a
+respeito do parâmetro, de modo que qualquer outra informação não irá influenciar na estimativa. Já a não
+tendenciosidade implica que a esperança do estimador é igual ao parâmetro populacional.
+
+Para que um estimador seja suficiente, não é necessário que ele seja não tendencioso. Inclusive, podemos
+                            ∑𝑛 (𝑋 −𝑋̅) 2
+citar como exemplo 𝑠∗2 = 𝑖=1 𝑛𝑖            , que é um estimador suficiente, mas tendencioso para a variância. Logo,
+a alternativa A está incorreta.
+
+Em relação à alternativa B, sabemos que um estimador é consistente quando ele reúne as seguintes
+características:
+
+                                                        lim 𝐸(𝜃̂) = 𝜃
+                                                        𝑛→∞
+
+
+                                                        lim 𝑉(𝜃̂) = 0
+                                                        𝑛→∞
+
+Portanto, quando um estimador é assintoticamente não tendencioso e sua variância tende a zero quando o
+tamanho da amostra tende a infinito, podemos concluir que o estimador é consistente.
+
+No entanto, essas condições não são necessárias para a consistência. Em outras palavras, é possível que um
+estimador não cumpra essas condições, mas, ainda assim, seja um estimador consistente. Assim, a
+consistência não pressupõe que o estimador seja assintoticamente não tendencioso, logo, a alternativa B
+está incorreta.
+
+        Receita Federal (Analista Tributário) Estatística                                                      179
+        www.estrategiaconcursos.com.br                                                                         297
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Em relação à alternativa C, o limite de Cramér-Rao é um limite inferior para a variância de um estimador não
+tendencioso. Se um estimador não tendencioso apresenta variância igual ao limite de Cramér-Rao, então
+podemos concluir que tal estimador é eficiente. No entanto, nem sempre o limite inferior de Cramér-Rao
+poderá ser atingido por um estimador não tendencioso. Assim, a variância de um estimador eficiente, isto é,
+de um estimador não tendencioso com a menor variância possível, não será necessariamente igual ao limite
+inferior de Cramér-Rao. Logo, a alternativa C está incorreta.
+
+Em relação à alternativa D, a variância de um estimador assintoticamente deve convergir mais rapidamente
+que a de qualquer outro estimador. Logo, a alternativa D está correta.
+
+Gabarito: D
+
+36.    (FGV 2018/AL-RO) Suponha que X1, X2, ..., Xn seja uma amostra aleatória simples de uma variável
+aleatória populacional qualquer com média µ e variância finita. Considere os seguintes estimadores de µ:
+T 1 = X1
+T2 = X1 + X2 + X3 – X4 – X5.
+T3 = (X1 + X2 + X3)/3.
+T4 = X1 – X2.
+T5 = (X1 + X2 + X3 + X4 + X5)/5.
+São estimadores não tendenciosos de µ:
+a) T1 e T2, somente.
+b) T1, T2 e T3, somente.
+c) T1, T2, T3 e T5, somente.
+d) T2, T3, T4 e T5, somente.
+e) T1, T2, T3, T4 e T5.
+Comentários:
+Para estimadores não tendenciosos, a esperança do estimador é igual ao parâmetro a ser estimado:
+                                                          𝐸(𝑇) = 𝜇
+A esperança do primeiro estimador, 𝑇1 = 𝑋1 , é:
+                                                       𝐸(𝑇1 ) = 𝐸(𝑋1 )
+Sabemos que a amostra segue a mesma distribuição da população, logo, 𝐸(𝑋1 ) = 𝐸(𝑋) = 𝜇:
+                                                          𝐸(𝑇1 ) = 𝜇
+Portanto, o primeiro estimador é não tendencioso. A esperança do segundo estimador, 𝑇2 = 𝑋1 + 𝑋2 +
+𝑋3 − 𝑋4 − 𝑋5, é (considere as propriedades da esperança):
+
+
+           Receita Federal (Analista Tributário) Estatística                                            180
+           www.estrategiaconcursos.com.br                                                               297
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+                𝐸(𝑇2 ) = 𝐸(𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) − 𝐸(𝑋4 ) − 𝐸(𝑋5 )
+Como 𝐸(𝑋𝑖 ) = 𝐸(𝑋) = 𝜇, temos:
+                                             𝐸(𝑇2 ) = 𝜇 + 𝜇 + 𝜇 − 𝜇 − 𝜇 = 𝜇
+                                                                                  𝑋1 +𝑋2 +𝑋3
+Logo, o segundo estimador é não tendencioso. Para o terceiro estimador, 𝑇3 =                   , temos:
+                                                                                      3
+
+                         𝑋1 + 𝑋2 + 𝑋3    1                            1              3𝜇
+             𝐸(𝑇3 ) = 𝐸 (             ) = [𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 )] = [𝜇 + 𝜇 + 𝜇] =    =𝜇
+                              3          3                            3               3
+Ou seja, o terceiro estimador também é não tendencioso. Para o quarto estimador, 𝑇4 = 𝑋1 − 𝑋2:
+                                 𝐸(𝑇4 ) = 𝐸(𝑋1 − 𝑋2 ) = 𝐸(𝑋1 ) − 𝐸(𝑋2 ) = 𝜇 − 𝜇 = 0
+Como a esperança do estimador é diferente do parâmetro populacional, 𝜇, o quarto estimador é
+                                                     𝑋1 +𝑋2 +𝑋3 +𝑋4 +𝑋5
+tendencioso. Para o quinto estimador, 𝑇5 =                                :
+                                                               5
+
+                         𝑋1 + 𝑋2 + 𝑋3 + 𝑋4 + 𝑋5    1
+             𝐸(𝑇5 ) = 𝐸 (                       ) = [𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) + 𝐸(𝑋4 ) + 𝐸(𝑋5 )]
+                                   5               5
+                                               1                      5𝜇
+                                       𝐸(𝑇5 ) = [𝜇 + 𝜇 + 𝜇 + 𝜇 + 𝜇] =    =𝜇
+                                               5                       5
+Assim, concluímos que o quinto estimador é não tendencioso.
+Gabarito: C
+
+
+37.    (FGV 2018/AL-RO) Suponha que X1, X2, ..., Xn seja uma amostra aleatória simples de uma variável
+aleatória populacional qualquer com média µ e variância finita. Considere os seguintes estimadores de µ:
+T 1 = X1
+T2 = X1 + X2 + X3 – X4 – X5.
+T3 = (X1 + X2 + X3)/3.
+T4 = X1 – X2.
+T5 = (X1 + X2 + X3 + X4 + X5)/5.
+O estimador não tendencioso de variância uniformemente mínima de μ é:
+a) T1
+b) T2
+c) T3
+d) T4
+e) T5
+Comentários:
+
+
+           Receita Federal (Analista Tributário) Estatística                                              181
+           www.estrategiaconcursos.com.br                                                                 297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Na questão anterior, vimos que os estimadores não tendenciosos são 𝑇1 , 𝑇2 , 𝑇3 , 𝑇5 . Agora, vamos calcular as
+suas variâncias, lembrando que as amostras seguem a mesma distribuição da população, logo 𝑉(𝑋𝑖 ) = 𝑉(𝑋)
+e supondo as amostras independentes. Para o primeiro estimador, 𝑇1 = 𝑋1:
+                                                      𝑉(𝑇1 ) = 𝑉(𝑋1 ) = 𝑉(𝑋)
+Para o segundo estimador, 𝑇2 = 𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 , temos:
+       𝑉(𝑇2 ) = 𝑉(𝑋1 + 𝑋2 + 𝑋3 − 𝑋4 − 𝑋5 ) = 𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 ) + 𝑉(𝑋4 ) + 𝑉(𝑋5 ) = 5. 𝑉(𝑋)
+                                     𝑋1 +𝑋2 +𝑋3
+Para o terceiro estimador, 𝑇3 =                   :
+                                         3
+
+                            𝑋1 + 𝑋2 + 𝑋3    1                             3. 𝑉(𝑋) 𝑉(𝑋)
+                𝑉(𝑇3 ) = 𝑉 (             ) = [𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 )] =        =
+                                 3          9                                 9    3
+                                     𝑋1 +𝑋2 +𝑋3 +𝑋4 +𝑋5
+E para o quinto estimador, 𝑇5 =                            :
+                                              5
+
+                      𝑋1 + 𝑋2 + 𝑋3 + 𝑋4 + 𝑋5     1
+          𝑉(𝑇5 ) = 𝑉 (                       )=    [𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 ) + 𝑉(𝑋4 ) + 𝑉(𝑋5 )]
+                                5               25
+                                                               5. 𝑉(𝑋) 𝑉(𝑋)
+                                                  𝑉(𝑇5 ) =            =
+                                                                  25    5
+Assim, o estimador de menor variância é o quinto estimador, 𝑇5 .
+Gabarito: E
+
+38.    (FGV/2018 – TJ-AL) Para estimar um determinado parâmetro populacional, estão disponíveis os
+seguintes estimadores cujas estimativas serão obtidas através de uma AAS de tamanho n = 3.
+
+̂ = 𝟏 . 𝑿𝟏 + 𝟐 . (𝑿𝟑 − 𝑿𝟐 ) e 𝜽
+𝜽                             ̃ = 𝟏 . 𝑿𝟏 + 𝟐 . 𝑿𝟐 + 𝟒 . 𝑿𝟑
+    𝟑        𝟑                    𝟕        𝟕        𝟕
+
+Sobre as alternativas disponíveis, é correto afirmar que:
+
+a) ambos são não tendenciosos;
+
+b) o estimador 𝜃̂ é mais eficiente do que 𝜃̃;
+
+c) o estimador 𝜃̃ é mais eficiente do que 𝜃̂;
+
+d) a variância de 𝜃̃ é menor do que a variância de 𝜃̂;
+
+e) o estimador subestima o verdadeiro valor de 𝜃.
+
+Comentários:
+
+Para resolver essa questão sobre as propriedades dos estimadores, vamos começar calculando o viés dos
+estimadores, dado pela diferença entre a esperança do estimador e o parâmetro populacional:
+
+         Receita Federal (Analista Tributário) Estatística                                                 182
+         www.estrategiaconcursos.com.br                                                                    297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                  𝑏(𝜃̂) = 𝐸(𝜃̂) − 𝜃
+
+A esperança do primeiro estimador é dada por:
+
+                                                    1      2
+                                         𝐸(𝜃̂) = 𝐸 ( . 𝑋1 + . (𝑋3 − 𝑋2 ))
+                                                    3      3
+
+Pelas propriedades da esperança, temos:
+
+                                               1           2
+                                     𝐸(𝜃̂) =     . 𝐸(𝑋1 ) + . [𝐸(𝑋3 ) − 𝐸(𝑋2 )]
+                                               3           3
+
+Considerando que a amostra segue a mesma distribuição da população, temos 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) =
+𝐸(𝑋) = 𝜃, logo:
+
+                                                 1     2           1
+                                          𝐸(𝜃̂) = . 𝜃 + . [𝜃 − 𝜃] = . 𝜃
+                                                 3     3           3
+
+Assim, o viés do primeiro estimador é:
+
+                                                         1           2
+                                      𝑏(𝜃̂) = 𝐸(𝜃̂) − 𝜃 = . 𝜃 − 𝜃 = − . 𝜃
+                                                         3           3
+
+Como o viés do estimador não é nulo, concluímos que o estimador 𝜃̂ é tendencioso.
+
+Para calcular o viés do segundo estimador, vejamos primeiro a sua esperança:
+
+                              1      2      4        1          2          4
+                   𝐸(𝜃̃) = 𝐸 ( . 𝑋1 + . 𝑋2 + . 𝑋3 ) = . 𝐸(𝑋1 ) + . 𝐸(𝑋2 ) + . 𝐸(𝑋3 )
+                              7      7      7        7          7          7
+
+                                                 1     2    4    7
+                                       𝐸(𝜃̃) =     .𝜃 + .𝜃 + .𝜃 = 𝜃 = 𝜃
+                                                 7     7    7    7
+
+Logo, o viés do segundo estimador é:
+
+                                          𝑏(𝜃̃) = 𝐸(𝜃̃ ) − 𝜃 = 𝜃 − 𝜃 = 0
+
+Assim, concluímos que o segundo estimador é não tendencioso.
+
+Em relação à alternativa A, sabemos que o primeiro estimador é tendencioso, logo a alternativa A está
+incorreta.
+
+Em relação às alternativas B e C, a eficiência de estimadores pode ser comparada, com base nas respectivas
+variâncias, quando os estimadores apresentam o mesmo viés. Como, nessa questão, temos um estimador
+tendencioso e outro não tendencioso, não podemos comparar dizer que um é mais eficiente que outro.
+Logo, essas alternativas estão incorretas.
+
+        Receita Federal (Analista Tributário) Estatística                                              183
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para analisar a alternativa D, precisamos calcular as variâncias dos estimadores. Para o primeiro estimador,
+temos:
+
+                                                    1      2
+                                         𝑉(𝜃̂) = 𝑉 ( . 𝑋1 + . (𝑋3 − 𝑋2 ))
+                                                    3      3
+
+Considerando que 𝑋1 , 𝑋2 e 𝑋3 são independentes, então, pelas propriedades da variância, temos:
+
+                                           1 2            2 2
+                                     ̂
+                                   𝑉(𝜃) = ( ) . 𝑉(𝑋1 ) + ( ) . [𝑉(𝑋3 ) + 𝑉(𝑋2 )]
+                                           3              3
+
+                                             1          4
+                                      𝑉(𝜃̂) = . 𝑉(𝑋1 ) + . [𝑉(𝑋3 ) + 𝑉(𝑋2 )]
+                                             9          9
+
+Considerando que a amostra segue a mesma distribuição da população, temos 𝑉(𝑋1 ) = 𝑉(𝑋2 ) = 𝑉(𝑋3 ) =
+𝑉(𝑋), logo:
+
+                                   1         4                 1        4
+                        𝑉(𝜃̂ ) =     . 𝑉(𝑋) + . [𝑉(𝑋) + 𝑉(𝑋)] = . 𝑉(𝑋) + . [2. 𝑉(𝑋)]
+                                   9         9                 9        9
+                                                      1+8
+                                            𝑉(𝜃̂) =       . 𝑉(𝑋) = 𝑉(𝑋)
+                                                       9
+
+E a variância do segundo estimador é dada por:
+
+                                                    1      2      4
+                                         𝑉(𝜃̃) = 𝑉 ( . 𝑋1 + . 𝑋2 + . 𝑋3 )
+                                                    7      7      7
+
+Considerando que 𝑋1 , 𝑋2 e 𝑋3 são independentes, temos:
+
+                                         1 2            2 2            4 2
+                               𝑉(𝜃̃ ) = ( ) . 𝑉(𝑋1 ) + ( ) . 𝑉(𝑋2 ) + ( ) . 𝑉(𝑋3 )
+                                         7              7              7
+
+                                                1           4         16
+                                     𝑉(𝜃̃) =      . 𝑉(𝑋) +    . 𝑉(𝑋) + . 𝑉(𝑋)
+                                               49          49         49
+                                         1 + 4 + 16          21         3
+                               𝑉(𝜃̃) =              . 𝑉(𝑋) =    . 𝑉(𝑋) = . 𝑉(𝑋)
+                                             49              49         7
+      3
+Como 7 . 𝑉(𝑋) < 𝑉(𝑋), concluímos que a variância de 𝜃̃ é menor do que a variância de 𝜃̂. Logo, a alternativa
+D está correta.
+
+Em relação à alternativa E, a prova não especificou qual estimador subestima o verdadeiro parâmetro. No
+entanto, vale ressaltar que não é adequado dizer que o estimador com viés negativo subestima o verdadeiro
+valor do parâmetro, pois este é fixo. O que ocorre é que o estimador com viés negativo é, em média, inferior
+ao verdadeiro parâmetro. Por isso, a alternativa E não está adequada, ainda que ela se refira ao estimador
+com viés negativo.
+
+Gabarito: D
+
+
+        Receita Federal (Analista Tributário) Estatística                                                184
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+39.     (FGV 2018/AL-RO) Se X1, X2, ..., Xn é uma amostra aleatória simples de uma distribuição Bernoulli
+(p), então o estimador de máxima verossimilhança da variância populacional é
+
+a) 𝑋̅
+     ∑𝑛       ̅ 2
+      𝑖=1(𝑋𝑖 −𝑋 )
+b)        𝑛
+
+     ∑𝑛       ̅ 2
+      𝑖=1(𝑋𝑖 −𝑋)
+c)       𝑛−1
+
+     ∑𝑛       ̅ 2
+      𝑖=1(𝑋𝑖 −𝑋 )
+d)        2𝑛
+
+e) 𝑋̅(1 − 𝑋̅)
+Comentários:
+O estimador de máxima verossimilhança da proporção populacional é a proporção amostral, que é calculada
+da mesma forma que a média amostral:
+                                                                  ∑ 𝑋𝑖
+                                                           𝑝̂ =        = 𝑋̅
+                                                                   𝑛
+Sabendo que a variância da distribuição de Bernoulli é 𝑉(𝑋) = 𝑝. 𝑞 = 𝑝. (1 − 𝑝), então a estimativa da
+variância é:
+
+                                                     𝑝̂ . (1 − 𝑝̂ ) = 𝑋̅. (1 − 𝑋̅)
+Gabarito: E
+
+
+40.   (FGV/2018 – TJ-AL) Seja X variável aleatória com função de probabilidade dada por 𝑷(𝑿 = 𝒌) =
+𝒑 (𝟏 − 𝒑)𝟏−𝒌 para K = 0 e 1, onde X = 1 está associado a um sucesso e X = 0 a um fracasso. Suponha que
+ 𝒌
+
+uma AAS, 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 é extraída para estimar p.
+Se o método usado é de Máxima Verossimilhança, o estimador é:
+
+          ∑ 𝑋𝑖
+a) 𝑝̂ =            ;
+           𝑛
+
+           𝑛
+b) 𝑝̂ = ∑ 𝑋 ;
+               𝑖
+
+
+           1
+c) 𝑝̂ = ∑ 𝑋 ;
+               𝑖
+
+
+d) 𝑝̂ = ∑ 𝑋𝑖 ;
+
+e) 𝑝̂ = 𝑛. ∑ 𝑋𝑖
+
+Comentários:
+
+              Receita Federal (Analista Tributário) Estatística                                       185
+              www.estrategiaconcursos.com.br                                                          297
+
+                                            
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+O enunciado informa que a função de probabilidade da variável X é 𝑃(𝑋 = 𝑘) = 𝑝𝑘 (1 − 𝑝)1−𝑘 e que k
+assume os valores 0 ou 1. Para k = 0, temos:
+
+                                               𝑃(𝑋 = 0) = 𝑝0 . (1 − 𝑝)1−0 = 1 − 𝑝
+
+E para k = 1, temos:
+
+                                                 𝑃(𝑋 = 1) = 𝑝1 . (1 − 𝑝)1−1 = 𝑝
+
+Em outras palavras, a variável assume o valor 0 com probabilidade p e o valor 1 com probabilidade 1 – p.
+Assim, concluímos que se trata de uma variável com distribuição de Bernoulli, cujo parâmetro é a proporção
+p de sucesso.
+
+O estimador de máxima verossimilhança da proporção populacional p é a proporção amostral, definida
+como:
+
+                                                                      ∑ 𝑋𝑖
+                                                               𝑝̂ =
+                                                                       𝑛
+
+Note que a proporção amostral é definida da mesma forma que a média amostral. A diferença é que, no
+cálculo da proporção amostral, os valores somados são 0s e 1s, de modo que a soma corresponde ao número
+de sucessos obtidos na amostra. Assim, quando dividimos pelo número total de elementos na amostra,
+obtemos a proporção de sucessos na amostra, que é a proporção amostral.
+
+Gabarito: A
+
+41.   (FGV 2018/AL-RO) Se X1, X2, ..., Xn é uma amostra aleatória simples de uma distribuição exponencial
+com parâmetro θ, ou seja,
+f(x|θ) = θe-θx , θ > 0,
+então, o estimador de θ pelo método dos momentos é
+             ∑𝑛
+              𝑖=1 𝑋𝑖
+a) 𝑋̅ =         𝑛
+     1          𝑛
+b) 𝑋̅ = ∑𝑛
+               𝑖=1 𝑋𝑖
+
+c) 𝑋̅ 2
+d) ∑𝑛𝑖=1 𝑋𝑖
+     ∑𝑛
+      𝑖=1 𝑋𝑖
+e)       2
+
+Comentários:
+Para uma distribuição exponencial, a média é o inverso do parâmetro (que normalmente chamamos de 𝜆,
+mas o enunciado está chamando de 𝜃):
+
+               Receita Federal (Analista Tributário) Estatística                                       186
+               www.estrategiaconcursos.com.br                                                          297
+
+                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                                 1
+                                                        𝐸(𝑋) =
+                                                                 𝜃
+O estimador de máxima verossimilhança para essa distribuição também considera a média amostral, sendo
+calculado pelo inverso da média:
+                                                             1   𝑛
+                                                      𝜃̂ =     =
+                                                             ̅
+                                                             𝑋 ∑ 𝑋𝑖
+Gabarito: B
+
+
+42.    (FGV/2017 – IBGE) Para estimar a média de certa população μ, desconhecida, partindo apenas de
+duas observações amostrais, cogita-se o emprego de um dos seguintes estimadores, onde X1 e X2
+representam os indivíduos da amostra ex ante.
+
+̂ = 𝟐 𝑿𝟏 + 𝟏 𝑿𝟐 e 𝜽
+𝜽                 ̃ = 𝟐 𝑿𝟏 + 𝟒 𝑿𝟐
+    𝟑      𝟑          𝟕      𝟕
+
+Sobre os estimadores, é correto afirmar que:
+
+a) o estimador 𝜃̃ é mais eficiente do que 𝜃̂;
+
+b) o estimador 𝜃̃ subestima, em média, o valor verdadeiro de μ;
+
+c) a tendenciosidade de 𝜃̂, T (𝜃̂), é igual a μ/4;
+                                             20
+d) o Erro Quadrático Médio de 𝜃̃, EQM(𝜃̃), é 49·σ2;
+                                               −μ
+e) a tendenciosidade de 𝜃̃, T(𝜃̃), é igual a 7 .
+
+Comentários:
+
+Pelas expressões dos estimadores fornecidas, observamos que o primeiro estimador, 𝜃̂, é uma espécie de
+média ponderada, em que o valor do primeiro elemento da amostra, 𝑋1, tem peso 2, enquanto o primeiro
+elemento da amostra, 𝑋2, tem peso 1. Já o segundo estimador, 𝜃̃, não faz uma média ponderada, deixando
+de fora uma parte dos valores (mais especificamente, 1/7).
+O viés (ou tendenciosidade) do segundo estimador pode ser calculado como (lembre-se das propriedades da
+esperança):
+                                                    2    4      2        4
+                      𝑏(𝜃̃) = 𝐸(𝑒) = 𝐸(𝜃̃) − μ = 𝐸 ( 𝑋1 + 𝑋2 ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 )
+                                                    7    7      7        7
+Como a amostra segue a mesma distribuição da população, então 𝐸(𝑋1 ) = 𝐸(𝑋) = μ:
+                                                 2   4     6       μ
+                                       𝑏(𝜃̃) =     μ+ μ−μ = μ−μ= −
+                                                 7   7     7       7
+Portanto, a alternativa E está correta.
+Em relação a alternativa B, não podemos dizer que o estimador subestima o valor verdadeiro, pois o valor
+de μ é fixo. O que ocorre é que, em média, o estimador é inferior ao parâmetro (viés negativo).
+
+
+         Receita Federal (Analista Tributário) Estatística                                           187
+         www.estrategiaconcursos.com.br                                                              297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para calcular o EQM desse estimador, precisamos da sua variância (lembre-se das propriedades da variância).
+Supondo as amostras independentes, temos:
+
+                         2    4        2 2          4 2          4         16
+                 ̃
+               𝑉(𝜃) = 𝑉 ( 𝑋1 + 𝑋2 ) = ( ) 𝑉(𝑋1 ) + ( ) 𝑉(𝑋2 ) =    𝑉(𝑋1 ) + 𝑉(𝑋2 )
+                         7    7        7            7           49         49
+Como a amostra segue a mesma distribuição da população, então 𝑉(𝑋1 ) = 𝑉(𝑋) = 𝜎 2 :
+                                                     4 2 16 2 20 2
+                                          𝑉(𝜃̃) =      𝜎 + 𝜎 =    𝜎
+                                                    49    49   49
+O EQM do estimador é a soma da sua variância com o quadrado do seu viés:
+                                                     20 2     μ 2 20 2 μ2 20𝜎 2 + μ2
+                𝐸𝑄𝑀(𝜃̃) = 𝑉(𝜃̃) + [𝑏(𝜃̃)]2 =            𝜎 + (− ) =    𝜎 +    =
+                                                     49       7    49     49   49
+Portanto, a alternativa D está errada (o valor fornecido é o valor da variância do estimador).
+
+Com relação ao estimador 𝜃̂, o seu viés é dado por:
+                                               2    1          2        1
+                𝑏(𝜃̂) = 𝐸(𝑒) = 𝐸(𝜃̂ ) − μ = 𝐸 ( 𝑋1 + 𝑋2 ) − μ = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) − μ
+                                               3    3          3        3
+                                                  2   1
+                                        𝑏(𝜃̂) =     μ+ μ−μ= μ−μ= 0
+                                                  3   3
+Portanto, o estimador 𝜃̂ é não tendencioso e a alternativa C está errada. Ademais, a alternativa A está errada
+porque esse estimador é não tendencioso, enquanto 𝜃̃ é tendencioso. Por esse motivo, 𝜃̃ não pode ser mais
+eficiente que 𝜃̂.
+Gabarito: E
+
+43.                                       ̂𝟏 e 𝜽
+      (FGV/2017 – IBGE) Dois estimadores, 𝜽    ̂ 𝟐 , para um parâmetro populacional θ, têm seus Erros
+Quadráticos Médios (EQM) dados por:
+                 𝟐          𝟐                        𝟐          𝟐
+    ̂ 𝟏 ) = 𝟑.𝝈 + (𝜽−𝟏) e 𝑬𝑸𝑴(𝜽
+𝑬𝑸𝑴(𝜽                         ̂ 𝟐 ) = √𝒏.𝝈 + (𝟏 + 𝜽)
+             𝒏      𝒏                   𝒔         𝒏
+
+Com base apenas nas expressões, onde as primeiras parcelas são as variâncias, é correto concluir que:
+
+a) 𝜃̂1 é não tendencioso;
+
+b) 𝜃̂1 é um estimador consistente;
+
+c) 𝜃̂2 é assintoticamente não tendencioso;
+
+d) 𝜃̂2 não é um estimador consistente;
+e) ambos são assintoticamente eficientes.
+Comentários:
+O Erro Quadrático Médio de um estimador é a soma da variância com o quadrado do viés:
+
+        Receita Federal (Analista Tributário) Estatística                                                 188
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+                                                                            2
+                                                 𝐸𝑄𝑀(𝜃̂ ) = 𝑉(𝜃̂) + [𝑏(𝜃̂)]
+
+Como as primeiras parcelas das expressões são as variâncias, então as segundas parcelas são os vieses.
+Portanto, os estimadores são tendenciosos (alternativa A errada).
+
+Para um estimador consistente, quando 𝑛 é grande, a sua esperança tende ao parâmetro populacional e a
+sua variância tende a zero:
+
+                                                        lim 𝐸(𝜃̂) = 𝜃
+                                                       𝑛→∞
+
+
+                                                        lim 𝑉(𝜃̂) = 0
+                                                        𝑛→∞
+
+                                     𝜃−1 2
+O viés do primeiro estimador, ( 𝑛 ) , é dividido por 𝑛 e, por isso, diminui conforme 𝑛 aumenta:
+
+                                                             ̂1 ) = 𝜃
+                                                       lim 𝐸(𝜃
+                                                       𝑛→∞
+
+                                         3.𝜎2
+A variância do primeiro estimador,              , também é dividida por 𝑛, logo:
+                                          𝑛
+
+                                                             ̂1 ) = 0
+                                                       lim 𝑉(𝜃
+                                                       𝑛→∞
+
+Portanto, o primeiro estimador é consistente (alternativa B correta).
+
+                                                              𝜃 2
+Já em relação ao viés do segundo estimador, (1 + 𝑛) , quando 𝑛 aumenta, o viés tende a 1, pois a expressão
+𝜃
+    tende a 0. Por isso, o estimador é tendencioso, mesmo quando 𝑛 tende a infinito (alternativa C errada).
+𝑛
+
+Apesar de o estimador não apresentar as propriedades assintóticas associadas à consistência, não podemos
+concluir que o estimador é inconsistente, pois essas propriedades são condições suficientes, porém não
+necessárias (alternativa D errada).
+
+                                         √𝑛.𝜎2
+A variância do segundo estimador, 𝑠 , também não tende a zero quando 𝑛 tende a infinito (pelo contrário,
+essa razão aumento com o crescimento de 𝑛). Logo, esse estimador não é assintoticamente eficiente
+(alternativa E errada).
+
+Gabarito: B
+
+
+44.   (FGV/2016 – IBGE – Tecnologista/Estatística) Considere os estimadores a seguir, tendo em vista a
+média populacional 𝝁, a partir de uma amostra de tamanho n.
+                                            ∑𝒏𝒊=𝟏 𝑿𝒊                   ∑𝒏𝒊=𝟐 𝑿𝒊 𝑿𝟏
+                                         𝝁
+                                         ̂=          𝒆              𝝁
+                                                                    ̃=         −
+                                            (𝒏 − 𝟏)                    (𝒏 − 𝟏) 𝒏
+Se a variância populacional é finita, sobre as propriedades de 𝝁
+                                                               ̂e𝝁
+                                                                 ̃ é correto afirmar que:
+
+
+          Receita Federal (Analista Tributário) Estatística                                               189
+          www.estrategiaconcursos.com.br                                                                  297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) apenas um dos estimadores propostos é assintoticamente não tendencioso;
+
+b) o estimador 𝜇̂ subestima enquanto 𝜇̃ superestima o valor verdadeiro da média populacional 𝜇;
+
+c) a variância do estimador 𝜇̂ é maior do que a variância do estimador 𝜇̃;
+
+d) o estimador 𝜇̃ é mais eficiente do que o estimador 𝜇̂ ;
+
+e) em termos absolutos, a tendenciosidade de 𝜇̂ é menor do que a tendenciosidade de 𝜇̃.
+
+Comentários:
+
+Essa questão é similar à anterior, exigindo conhecimento sobre conceitos relacionados às propriedades dos
+estimadores e também cálculos de tendência e variância.
+
+Vamos começar calculando a tendência dos estimadores, o que nos permitirá analisar a alternativa E:
+
+                                                   𝑏(𝜇̂ ) = 𝐸(𝜇̂ ) − 𝜇
+
+A esperança do primeiro estimador, tendo em vista as propriedades da esperança, é dada por:
+
+                   ∑𝑛𝑖=1 𝑋𝑖    𝐸(∑𝑛𝑖=1 𝑋𝑖 ) 𝐸(𝑋1 + 𝑋2 + ⋯ + 𝑋𝑛 ) 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + ⋯ + 𝐸(𝑋𝑛 )
+       𝐸(𝜇̂ ) = 𝐸 (         )=             =                    =
+                    𝑛−1          𝑛−1               𝑛−1                      𝑛−1
+
+Considerando que a amostra segue a mesma distribuição, temos 𝐸(𝑋1 ) = 𝐸(𝑋2 ) = ⋯ 𝐸(𝑋𝑛 ) = 𝜇:
+
+                                                                𝑛. 𝜇
+                                                     𝐸(𝜇̂ ) =
+                                                                𝑛−1
+
+E a tendência desse estimador é:
+
+                                  𝑛. 𝜇      𝑛. 𝜇 − (𝑛 − 1). 𝜇 𝑛. 𝜇 − 𝑛. 𝜇 + 𝜇    𝜇
+                       𝑏(𝜇̂ ) =        −𝜇 =                  =                =
+                                  𝑛−1             𝑛−1              𝑛−1          𝑛−1
+
+Agora, para calcular a tendência do segundo estimador, vamos começar pela sua esperança:
+
+                    ∑𝑛𝑖=2 𝑋𝑖 𝑋1  𝐸(∑𝑛𝑖=2 𝑋𝑖 ) 𝐸(𝑋1 ) 𝐸(𝑋2 ) + 𝐸(𝑋3 ) + ⋯ + 𝐸(𝑋𝑛 ) 𝐸(𝑋1 )
+        𝐸(𝜇̃) = 𝐸 (         − )=             −      =                            −
+                   (𝑛 − 1) 𝑛       𝑛−1          𝑛               𝑛−1                 𝑛
+
+Note que o somatório começa a partir de X2, logo:
+
+                                                    (𝑛 − 1). 𝜇 𝜇    𝜇
+                                          𝐸(𝜇̃) =             − =𝜇−
+                                                      𝑛−1      𝑛    𝑛
+
+E a tendência desse estimador é:
+
+                                                            𝜇       𝜇
+                                              𝑏(𝜇̃) = 𝜇 −     −𝜇 =−
+                                                            𝑛       𝑛
+
+
+        Receita Federal (Analista Tributário) Estatística                                             190
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para analisar a alternativa E, precisamos comparar, em termos absolutos os dois resultados. Em relação ao
+primeiro estimador, temos uma divisão por um número menor (n-1) do que em relação ao segundo
+estimador (n). Logo, o viés do primeiro estimador é maior:
+
+                                                        𝜇   𝜇
+                                                          >
+                                                       𝑛−1 𝑛
+
+Assim, concluímos que a alternativa E está incorreta. Em relação à alternativa A, quando 𝑛 tende a infinito,
+essas razões tendem a zero. Assim, concluímos que ambos os estimadores são assintoticamente não
+tendenciosos, logo, a alternativa A está incorreta.
+
+Em relação à alternativa B, o viés do estimador do primeiro estimador é positivo, enquanto o viés do segundo
+estimador é negativo. Assim, a alternativa B está incorreta.
+
+Em relação à alternativa D, não podemos comparar a eficiência desses dois estimadores, pois apresentam
+valores diferentes de viés. Por isso, a alternativa D está incorreta.
+
+Para analisar a alternativa C, precisamos calcular a variância dos estimadores. Em relação ao primeiro
+estimador, tendo em vista as propriedades da variância, temos:
+
+                                      ∑𝑛𝑖=1 𝑋𝑖    𝑉(∑𝑛𝑖=1 𝑋𝑖 ) 𝑉(𝑋1 + 𝑋2 + ⋯ + 𝑋𝑛 )
+                          𝑉(𝜇̂ ) = 𝑉 (         )=             =
+                                       𝑛−1         (𝑛 − 1)2          (𝑛 − 1)2
+
+Considerando que as variáveis 𝑋𝑖 são independentes, temos:
+
+                                                  𝑉(𝑋1 ) + 𝑉(𝑋2 ) + ⋯ + 𝑉(𝑋𝑛 )
+                                       𝑉(𝜇̂ ) =
+                                                            (𝑛 − 1)2
+
+Sabendo que a amostra segue a mesma distribuição, temos 𝑉(𝑋1 ) = 𝑉(𝑋2 ) = ⋯ 𝑉(𝑋𝑛 ) = 𝑉(𝑋):
+
+                                                                   𝑛
+                                                𝑉(𝜇̂ ) = 𝑉(𝑋)
+                                                                (𝑛 − 1)2
+
+Em relação ao segundo estimador, temos:
+
+                   ∑𝑛𝑖=2 𝑋𝑖 𝑋1  𝑉(∑𝑛𝑖=2 𝑋𝑖 ) 𝑉(𝑋1 ) 𝑉(𝑋2 ) + 𝑉(𝑋3 ) + ⋯ + 𝑉(𝑋𝑛 ) 𝑉(𝑋1 )
+       𝑉(𝜇̃) = 𝑉 (         − )=             +      =                            +
+                  (𝑛 − 1) 𝑛      (𝑛 − 1)2     𝑛2              (𝑛 − 1)2            𝑛2
+
+                                      (𝑛 − 1). 𝑉(𝑋) 𝑉(𝑋)         𝑛−1        1
+                            𝑉(𝜇̃) =             2
+                                                   + 2 = 𝑉(𝑋) [         2
+                                                                          + 2]
+                                        (𝑛 − 1)      𝑛          (𝑛 − 1)    𝑛
+
+Para comparar a variância dos 2 estimadores, vamos subtrair os seus resultados:
+
+                               𝑛         𝑛−1        1            𝑛−𝑛+1 1                     1        1
+  𝑉(𝜇̂ ) − 𝑉(𝜇̃) = 𝑉(𝑋) [           2
+                                      −         2
+                                                  − 2 ] = 𝑉(𝑋) [         2
+                                                                           − 2 ] = 𝑉(𝑋) [         2
+                                                                                                    − 2]
+                            (𝑛 − 1)     (𝑛 − 1)    𝑛             (𝑛 − 1)    𝑛             (𝑛 − 1)    𝑛
+
+        Receita Federal (Analista Tributário) Estatística                                                191
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O denominador da primeira fração é menor do que o da segunda fração. Como os numeradores são iguais,
+então a primeira fração é maior que a segunda fração, o que resulta em uma diferença positiva. O valor exato
+dessa diferença pode ser calculado, conforme a seguir:
+
+                               𝑛2 − (𝑛 − 1)2            𝑛2 − (𝑛2 − 2𝑛 + 1)              2𝑛 − 1
+       𝑉(𝜇̂ ) − 𝑉(𝜇̃) = 𝑉(𝑋) [         2    2
+                                              ] = 𝑉(𝑋) [          2    2
+                                                                           ] = 𝑉(𝑋) [               ]
+                                (𝑛 − 1) . 𝑛                (𝑛 − 1) . 𝑛                (𝑛 − 1)2 . 𝑛2
+
+Como a diferença entre a variância de 𝜇̂ e a variância de 𝜇̃ é positiva, concluímos que a variância do primeiro
+estimador é maior do que a do segundo. Logo, a alternativa C está correta.
+
+Gabarito: C
+
+45.   (FGV/2015 – TJ-BA) Para estimar a média populacional de uma distribuição, com base em uma
+amostra de tamanho n = 3, são propostos os seguintes estimadores:
+                                                      𝟑     𝟓    𝟏
+                                                 𝝁
+                                                 ̂=     𝑿𝟏 + 𝑿𝟐 − 𝑿𝟑
+                                                      𝟕     𝟕    𝟕
+                                                      𝟏     𝟐    𝟏
+                                                 𝝁
+                                                 ̃=     𝑿𝟏 + 𝑿𝟐 + 𝑿𝟑
+                                                      𝟑     𝟓    𝟒
+                                                      𝟏     𝟏    𝟐
+                                                𝝁
+                                                ̿=      𝑿𝟏 + 𝑿𝟐 + 𝑿𝟑
+                                                     𝟏𝟐     𝟒    𝟑
+Sobre esses estimadores é correto afirmar que:
+a) os estimadores são todos não tendenciosos;
+b) apenas o estimador 𝜇̂ é não viesado e eficiente com relação aos demais;
+c) exceto 𝜇̿ , os outros estimadores são não tendenciosos e consistentes;
+d) dentre os três estimadores sugeridos, o que apresenta a menor variância é 𝝁
+                                                                             ̃ , mas não é o mais
+eficiente;
+e) o erro quadrático médio de 𝝁
+                              ̿ difere da sua variância a razão de 1/3 da variância populacional
+Comentários:
+Vamos primeiro calcular o viés dos 3 estimadores. Para o primeiro estimador, temos:
+                                                            3    5    1
+                            𝑏(𝜇̂ ) = 𝐸(𝑒) = 𝐸(𝜇̂ ) − 𝜇 = 𝐸 ( 𝑋1 + 𝑋2 − 𝑋3 ) − 𝜇
+                                                            7    7    7
+                       3        5        1            3   5   1
+               𝑏(𝜇̂ ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) − 𝐸(𝑋3 ) − 𝜇 = 𝜇 + 𝜇 − 𝜇 − 𝜇 = 𝜇 − 𝜇 = 0
+                       7        7        7            7   7   7
+Ou seja, o primeiro estimador é não tendencioso. Para o segundo estimador, temos:
+                                                          1    2    1
+                            𝑏(𝜇̃) = 𝐸(𝑒) = 𝐸(𝜇̃) − 𝜇 = 𝐸 ( 𝑋1 + 𝑋2 + 𝑋3 ) − 𝜇
+                                                          3    5    4
+
+        Receita Federal (Analista Tributário) Estatística                                                  192
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+               1         2        1            1   2   1        20 + 24 + 15 − 60    −𝜇
+     𝑏(𝜇̃) =     𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) − 𝜇 = 𝜇 + 𝜇 + 𝜇 − 𝜇 =                   𝜇=
+               3         5        4            3   5   4               60            60
+Portanto, o segundo estimador é tendencioso. Para o terceiro estimador, temos:
+                                                                  1     1    2
+                            𝑏(𝜇̿ ) = 𝐸(𝑒) = 𝐸(𝜇̿ ) − 𝜇 = 𝐸 (        𝑋1 + 𝑋2 + 𝑋3 ) − 𝜇
+                                                                 12     4    3
+                   1         1        2              1   1  2      1 + 3 + 8 − 12
+       𝑏(𝜇̿ ) =      𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 ) − 𝜇 =    𝜇+ 𝜇+ 𝜇−𝜇 =                𝜇=0
+                  12         4        3             12   4  3            12
+Logo, o terceiro estimador é não tendencioso.
+Com isso, vemos que a alternativa A, B e C estão incorretas. Além disso, como estimador 𝜇̿ é não tendencioso,
+o seu EQM é igual à sua variância. Portanto, a alternativa E também está incorreta.
+Para verificar a alternativa D, vamos calcular as variâncias dos estimadores, supondo as amostras
+independentes:
+
+                  3    5    1        9         25        1         9 2 25 2  1
+      𝑉(𝜇̂ ) = 𝑉 ( 𝑋1 + 𝑋2 − 𝑋3 ) =    𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 ) =    𝜎 + 𝜎 + 𝜎2
+                  7    7    7       49         49       49        49    49  49
+
+                                                            35 2
+                                               𝑉(𝜇̂ ) =        𝜎 ≅ 0,7𝜎 2
+                                                            49
+
+                 1    2    1      1          4          1       1       4 2    1 2
+      𝑉(𝜇̃) = 𝑉 ( 𝑋1 + 𝑋2 + 𝑋3 ) = 𝑉(𝑋1 ) +    𝑉(𝑋2 ) + 𝑉(𝑋3 ) = 𝜎 2 +    𝜎 +    𝜎 =
+                 3    5    4      9         25         16       9      25     16
+
+                                   400 + 144 + 225 2  378 2    63 2
+                         𝑉(𝜇̃) =                  𝜎 =      𝜎 =     𝜎 ≅ 0,1𝜎 2
+                                        3600          3600     600
+
+                  1   1    2        1           1       4          1 2    1   4
+     𝑉(𝜇̿ ) = 𝑉 ( 𝑋1 + 𝑋2 + 𝑋3 ) =     𝑉(𝑋1 ) + 𝑉(𝑋2 ) + 𝑉(𝑋3 ) =     𝜎 + 𝜎2 + 𝜎2
+                 12   4    3       144         16       9         144    16   9
+
+                                               1 + 9 + 64 2  74 2
+                                    𝑉(𝜇̿ ) =             𝜎 =     𝜎 ≅ 0,5𝜎 2
+                                                  144        144
+
+Logo, o estimador de menor variância é 𝜇̃, porém ele não é o mais eficiente, por ser tendencioso. Assim, a
+alternativa D está correta.
+Gabarito: D
+
+
+46.    (FGV/2014 – Prefeitura de Recife/PE) Avalie se as seguintes propriedades de um estimador de um
+certo parâmetro são desejáveis:
+I. Ser não tendencioso para esse parâmetro.
+II. Ter variância grande.
+III. Ter erro quadrático médio grande.
+
+        Receita Federal (Analista Tributário) Estatística                                                193
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 11
+
+Assinale:
+a) se apenas a propriedade I estiver correta.
+b) se apenas as propriedades I e II estiverem corretas.
+c) se apenas as propriedades I e III estiverem corretas.
+d) se apenas as propriedades II e III estiverem corretas.
+e) se todas as propriedades estiverem corretas.
+Comentários:
+Em relação ao item I, uma das características desejáveis do estimador é ele ser não tendencioso. Logo, o
+item I está correto.
+Em relação ao item II, o estimador deve ter a menor variância possível (eficiência). Logo, o item II está
+incorreto.
+Em relação ao item III, o Erro Quadrático Médio, que é igual à variância do estimador, se ele for não
+tendencioso, deve ser o menor possível. Logo o item III está incorreto.
+Gabarito: A
+
+47.   (FGV 2014/DPE-RJ) Sejam 𝜽   ̂𝟏 e 𝜽̂𝟐 dois estimadores pontuais, ambos não tendenciosos e
+                                          ̂𝟏 ) = Var(𝜽
+igualmente eficientes do parâmetro 𝜽 (Var(𝜽          ̂𝟐 )) , sendo que a covariância entre eles é igual a
+      ̂𝟏 ).
+½.Var(𝜽
+Então, também é não tendencioso e mais eficiente o estimador
+    2       1
+     ̂1 + 𝜃
+a) 3 𝜃    ̂
+         3 2
+   1
+     ̂1 + 3 𝜃
+b) 5 𝜃      ̂
+          4 2
+    3       4
+c) 5 ̂      ̂2
+     𝜃1 + 7 𝜃
+    ̂ +𝜃
+    𝜃  ̂
+d) 1 2 2
+    3         7
+     ̂1 + 𝜃
+e) 8 𝜃    ̂
+         8 2
+
+Comentários:
+Esta questão envolve a combinação de estimadores e pergunta pelo estimador não tendencioso e mais
+eficiente (ou seja, com menor variância). Em relação à alternativa A, vamos calcular a esperança do estimador
+2      1
+  ̂
+  𝜃1 + 𝜃 ̂2 para sabermos se o estimador é tendencioso ou não:
+3       3
+
+                                             2     1       2        1
+                                           𝐸( 𝜃̂1 + 𝜃̂2 ) = 𝐸(𝜃
+                                                              ̂1 ) + 𝐸(𝜃
+                                                                       ̂2 )
+                                             3     3       3        3
+
+            Receita Federal (Analista Tributário) Estatística                                               194
+            www.estrategiaconcursos.com.br                                                                  297
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+     ̂1 e 𝜃
+Como 𝜃    ̂2 são não tendenciosos, então a sua esperança é 𝐸(𝜃
+                                                             ̂1 ) = 𝐸(𝜃
+                                                                      ̂2 ) = 𝜃:
+
+                                            2     1       2   1
+                                          𝐸( 𝜃̂1 + 𝜃̂2 ) = 𝜃 + 𝜃 = 𝜃
+                                            3     3       3   3
+Portanto, o estimador é não tendencioso. Agora, vamos calcular a sua variância, utilizando a fórmula da
+variância da soma:
+                                     𝑉(𝑋, 𝑌) = 𝑉(𝑋) + 𝑉(𝑌) + 2. 𝐶𝑜𝑣(𝑋, 𝑌)
+                           2     1           2           1                2 1
+                         𝑉( 𝜃̂1 + 𝜃̂2 ) = 𝑉 ( 𝜃̂1 ) + 𝑉 ( 𝜃̂2 ) + 2. 𝐶𝑜𝑣 ( ̂
+                                                                           𝜃, 𝜃̂)
+                           3     3           3           3                3 1 3 2
+Agora, aplicamos as propriedades da variância, 𝑉(𝑘. 𝑋) = 𝑘 2 𝑉(𝑋), e da covariância:
+                                        𝐶𝑜𝑣(𝑙. 𝑋, 𝑘. 𝑌) = 𝑙 × 𝑘 × 𝐶𝑜𝑣(𝑋, 𝑌)
+                         2     1       4        1            2 1
+                       𝑉( 𝜃̂1 + 𝜃̂2 ) = 𝑉(𝜃
+                                          ̂1 ) + 𝑉(𝜃
+                                                   ̂2 ) + 2 × × . 𝐶𝑜𝑣(𝜃
+                                                                      ̂1 , 𝜃
+                                                                           ̂2 )
+                         3     3       9        9            3 3
+                                                    ̂1 ) = 𝑉(𝜃
+O enunciado informa que as variâncias são iguais, 𝑉(𝜃        ̂2 ), e que a covariância é 𝐶𝑜𝑣(𝜃
+                                                                                             ̂1 , 𝜃
+                                                                                                  ̂2 ) =
+  ̂1 )
+𝑉(𝜃   ⁄ , então:
+       2
+                        2     1       5            ̂1 ) 𝟕
+                                               4 𝑉(𝜃
+                      𝑉( 𝜃̂1 + 𝜃̂2 ) = 𝑉(𝜃
+                                         ̂1 ) + ×          ̂𝟏 ) ≅ 𝟎, 𝟕𝟖𝑽(𝜽
+                                                       = 𝑽(𝜽             ̂𝟏 )
+                        3     3       9        9   2    𝟗
+                                           1         3
+                                        ̂1 + 𝜃
+Vejamos o estimador da alternativa B, 5 𝜃    ̂. A sua esperança é:
+                                            4 2
+
+                      1     3       1        3        1   3    4 + 15    19
+                    𝐸( 𝜃̂1 + 𝜃̂2 ) = 𝐸(𝜃
+                                       ̂1 ) + 𝐸(𝜃
+                                                ̂2 ) = 𝜃 + 𝜃 =        𝜃=    𝜃
+                      5     4       5        4        5   4      20      20
+Como a esperança do estimador é diferente do parâmetro 𝜃, então o estimador é tendencioso e, por isso, a
+resposta não pode ser a alternativa B.
+                                                3          4
+                                            ̂1 + 𝜃
+Em relação ao estimador na alternativa C, 5 𝜃    ̂, a esperança é:
+                                                7 2
+
+                     3     4       3        4        3   4    21 + 20    41
+                   𝐸( 𝜃̂1 + 𝜃̂2 ) = 𝐸(𝜃
+                                      ̂1 ) + 𝐸(𝜃
+                                               ̂2 ) = 𝜃 + 𝜃 =         𝜃=    𝜃
+                     5     7       5        7        5   7      35       35
+Como a esperança do estimador é diferente do parâmetro 𝜃, então o estimador é tendencioso e a resposta
+não pode ser a alternativa C.
+                                                    ̂ +𝜃
+                                                    𝜃  ̂
+A esperança do estimador da alternativa D, 1 2 2, é:
+
+                                       𝜃̂1 + 𝜃
+                                             ̂2      ̂1 + 𝜃
+                                                   𝐸(𝜃    ̂2 ) 𝜃 + 𝜃
+                                     𝐸(         )=            =      =𝜃
+                                           2           2         2
+
+Portanto, o estimador é não tendencioso. Agora, vamos calcular a sua variância:
+
+                                𝜃̂1 + 𝜃
+                                      ̂2        ̂1
+                                                𝜃       ̂2
+                                                        𝜃            ̂1 𝜃
+                                                                     𝜃  ̂2
+                              𝑉(         ) = 𝑉 ( ) + 𝑉 ( ) + 2. 𝐶𝑜𝑣 ( , )
+                                    2           2       2            2 2
+
+        Receita Federal (Analista Tributário) Estatística                                            195
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                              𝜃̂1 + 𝜃
+                                    ̂2    1        1            1 1
+                            𝑉(               ̂1 ) + 𝑉(𝜃
+                                       ) = 𝑉(𝜃        ̂2 ) + 2 × × 𝐶𝑜𝑣(𝜃
+                                                                       ̂1 , 𝜃
+                                                                            ̂2 )
+                                  2       4        4            2 2
+                                                ̂
+              ̂1 ) = 𝑉(𝜃
+Sabendo que 𝑉(𝜃        ̂2 ) e 𝐶𝑜𝑣(𝜃    ̂2 ) = 𝑉(𝜃1 )⁄ , então:
+                                  ̂1 , 𝜃
+                                                     2
+                        ̂    ̂2
+                        𝜃1 + 𝜃     1        1        1 1        𝟑
+                   𝑉(                 ̂1 ) + 𝑉(𝜃
+                                ) = 𝑉(𝜃        ̂1 ) + × 𝑉(𝜃
+                                                          ̂1 ) = 𝑽(𝜽
+                                                                   ̂𝟏 ) = 𝟎, 𝟕𝟓𝑽(𝜽
+                                                                                 ̂𝟏 )
+                           2       4        4        2 2        𝟒
+                              3      7
+                              ̂1 + 𝜃
+Em relação à alternativa E, 8 𝜃    ̂, a esperança é:
+                                  8 2
+
+                           3     7       3        7        3   7    10   5
+                         𝐸( 𝜃̂1 + 𝜃̂2 ) = 𝐸(𝜃
+                                            ̂1 ) + 𝐸(𝜃
+                                                     ̂2 ) = 𝜃 + 𝜃 =    𝜃= 𝜃
+                           8     8       8        8        8   8     8   4
+Como a esperança do estimador é diferente do parâmetro 𝜃, então o estimador é tendencioso e a resposta
+não pode ser a alternativa E.
+Portanto, os estimadores não tendenciosos são os da alternativa A e D. Como a variância do estimador da
+              𝟕
+alternativa A, 𝑽(𝜽              ̂𝟏 ), é MAIOR que a variância do estimador da alternativa D, 𝟑 𝑽(𝜽
+                  ̂𝟏 ) ≅ 𝟎, 𝟕𝟖𝑽(𝜽                                                                ̂𝟏 ) =
+               𝟗                                                                             𝟒
+       ̂𝟏 ), então o estimador mais eficiente é o da alternativa D.
+𝟎, 𝟕𝟓𝑽(𝜽
+
+Gabarito: D
+
+48.                                       ̂ de um parâmetro populacional θ tal que
+       (FGV 2014/DPE-RJ) Seja o estimador 𝜽
+
+                                                                  𝟏 𝟐
+                                              ̂ ) − 𝑽𝒂𝒓(𝜽
+                                          𝑬𝑸𝑴(𝜽         ̂ ) = (𝒌 − ) ,
+                                                                  𝒏
+onde k (≠ zero) é uma constante que depende do verdadeiro valor de θ e n é o tamanho da amostra. Então,
+o estimador será
+
+a) assintoticamente eficiente se lim 𝑉𝑎𝑟( 𝜃̂) = 0
+                                    𝑛→∞
+
+b) assintoticamente tendencioso.
+c) assintoticamente tendencioso, subestimando o parâmetro 𝜃.
+d) assintoticamente tendencioso, superestimando o parâmetro 𝜃.
+
+e) consistente, desde que lim 𝐸𝑄𝑀( 𝜃̂) = (𝑘)2
+                             𝑛→∞
+
+Comentários:
+O erro quadrático médio (EQM) é a soma da variância do estimador e o quadrado do seu viés:
+
+                                           𝐸𝑄𝑀(𝜃̂) = 𝑉𝑎𝑟(𝜃̂) + [𝑏(𝜃̂)]2
+
+Então, a diferença entre o EQM e a variância fornecida no enunciado é justamente o quadrado do viés do
+estimador:
+
+        Receita Federal (Analista Tributário) Estatística                                           196
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                              1 2
+                                                    ̂  2
+                                                 [𝑏(𝜃)] = (𝑘 − )
+                                                              𝑛
+                                                                 1
+                                                   |𝑏(𝜃̂)| = |𝑘 − |
+                                                                 𝑛
+Podemos observar que quando 𝑛 fica muito grande (tende a infinito), o viés tende a 𝑘, que é diferente de
+zero, conforme o enunciado. Portanto, o estimador é assintoticamente tendencioso (alternativa B correta).
+Sendo assintoticamente tendencioso, ele não será eficiente, mesmo que a variância seja nula para 𝑛 → ∞
+(alternativa A incorreta).
+Ademais, pelo fato de o estimador ser assintoticamente tendencioso, não podemos concluir que ele é
+consistente (alternativa incorreta). Pelo fato de não se a constante k é positiva ou negativa, não sabemos se
+o viés é positivo ou negativo (alternativas C e D incorretas).
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Estatística                                                197
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                            QUESTÕES COMENTADAS - FGV
+
+Estimação Intervalar
+
+1.      (FGV/2025 – TCE-PI) Suponha que uma amostra aleatória simples de tamanho 𝒏 de uma
+distribuição normal com média 𝝁 e variância 𝝈𝟐 será obtida. Sejam 𝒙 ̅ e 𝒔 a média amostral e o desvio
+padrão amostral usuais. Se 𝒛 denota o 97,5% percentil da distribuição normal padrão, então o intervalo
+de 95% de confiança usual para 𝝁 será dado por:
+
+a) (𝑥̅ − √𝑛𝑧𝑠/2; 𝑥̅ + √𝑛𝑧𝑠/2)
+
+b) (𝑥̅ − 2𝑧𝑠/√𝑛; 𝑥̅ + 2𝑧𝑠/√𝑛)
+
+c) (𝑥̅ − 𝑧/𝑠√𝑛; 𝑥̅ + 𝑧/𝑠√𝑛)
+
+d) (𝑥̅ − 𝑧𝑠/√𝑛; 𝑥̅ + 𝑧𝑠/√𝑛)
+
+e) (𝑥̅ − 𝑧𝑠; 𝑥̅ + 𝑧𝑠)
+
+Comentários:
+
+O intervalo de confiança para a média, quando a variância é estimada a partir da amostra, é:
+
+                                                                          𝑠
+                                                𝐼𝐶 = 𝑥̅ ± 𝐸 = 𝑥̅ ± 𝑡.
+                                                                          √𝑛
+
+Essa questão utilizou a distribuição normal, em vez da t-Student, o que pode ser feito para amostras
+suficientemente grandes:
+
+                                                                     𝑠
+                                                      𝐼𝐶 = 𝑥̅ ± 𝑧.
+                                                                     √𝑛
+
+O enunciado informa que 𝑧 denota o 97,5% percentil da distribuição normal padrão, ou seja, 𝑃(𝑍 < 𝑧) =
+97,5%. Portanto, ao utilizarmos 𝑧 como valor crítico, construímos um intervalo de 95% de confiança (que é
+justamente o que a questão pede), pois temos 2,5% acima de 𝑧 e 2,5% abaixo de −𝑧, conforme ilustrado a
+seguir:
+                                            97,5%
+
+                                                         95%
+
+                                                 −𝑧                  𝑧
+
+         Receita Federal (Analista Tributário) Estatística                                            198
+         www.estrategiaconcursos.com.br                                                               297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                              𝑠
+Assim, o intervalo de confiança é realmente 𝐼𝐶 = 𝑥̅ ± 𝑧. 𝑛 = (𝑥̅ − 𝑧. 𝑠/√𝑛 ; 𝑥̅ + 𝑧. 𝑠/√𝑛).
+                                                             √
+
+
+Gabarito: D
+
+2.     (FGV/2025 – TCE-RR - Adaptada) Sobre noções básicas de estimação e testes de hipóteses, julgue a
+afirmativa a seguir.
+
+Um intervalo de confiança fornece uma estimativa por intervalo para o parâmetro populacional,
+acompanhada de um nível de confiança que indica a probabilidade de o intervalo conter o verdadeiro valor
+do parâmetro.
+
+Comentários:
+
+Um intervalo de confiança é um intervalo utilizado para estimar o parâmetro populacional desconhecido,
+indicando a precisão da estimativa. O intervalo é realmente associado a um nível de confiança, que indica a
+probabilidade de o intervalo conter o verdadeiro valor do parâmetro.
+
+Resposta: Certo
+
+3.     (FGV/2025 – TCE-RR - Adaptada) Com relação aos conceitos de estimação e testes de hipóteses,
+julgue a afirmativa a seguir.
+
+A estimativa pontual é obtida por meio de um intervalo de confiança que contém o valor estimado do
+parâmetro populacional com uma certa probabilidade, como 95%.
+
+Comentários:
+
+A estimativa pontual infere a respeito do parâmetro populacional, por meio de um único valor. Quando
+construímos um intervalo de confiança, temos a estimação intervalar.
+
+Resposta: Errado
+
+4.     (FGV/2024 – SES/MT) Uma amostra aleatória simples de tamanho 25 de uma variável aleatória
+populacional suposta normalmente distribuída com média μ desconhecida e variância suposta igual a 100
+revelou uma média amostral igual a 20,8.
+Lembre-se que se Z tem distribuição normal padrão, então P[ - 1,96 < Z < 1,96 ] = 0,95.
+Assim, um intervalo de 95% de confiança para μ será dado, aproximadamente, por
+
+        Receita Federal (Analista Tributário) Estatística                                               199
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) (16,9; 24,7)
+
+b) (16,4; 25,2)
+
+c) (15,9; 25,7)
+
+d) (15,4; 26,2)
+
+Comentários:
+
+Precisamos construir um intervalo de confiança para a média de uma população normal com variância
+conhecida, dado por:
+
+                                                                    𝜎
+                                                     𝐼𝐶 = 𝑋̅ ± 𝑧.
+                                                                    √𝑛
+
+O enunciado informa que:
+
+    •   A média amostral observada é 𝑋̅ = 20,8;
+    •   O tamanho da amostra é 𝑛 = 25;
+    •   A variância da população é 𝜎 2 = 100, logo o desvio padrão é 𝜎 = √100 = 10;
+    •   Para 95% de confiança, o escore da normal padrão é 𝑧 = 1,96.
+
+Substituindo esses dados na fórmula, temos:
+
+                                        10                    10
+                  𝐼𝐶 = 20,8 ± 1,96.          = 20,8 ± 1,96.      = 20,8 ± 1,96 × 2 = 20,8 ± 3,92
+                                       √25                     5
+
+                                                   𝐼𝐶 ≅ (16,9; 24,7)
+
+Gabarito: A
+
+5.    (FGV/2024 – Pref. Vitória) Uma amostra aleatória simples de tamanho 25 de uma variável
+populacional com média desconhecida  e variância suposta igual a 4 foi obtida e resultou numa média
+amostral igual a 5,48.
+Lembre-se que se Z tem distribuição normal padrão, então P[ - 1,96 < Z < 1,96 ] = 0,95.
+Um intervalo de 95% de confiança para µ será então dado aproximadamente por
+
+a) (4,70; 6,26)
+
+b) (4,50; 6,46)
+
+c) (4,30; 6,66)
+
+         Receita Federal (Analista Tributário) Estatística                                         200
+         www.estrategiaconcursos.com.br                                                            297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+d) (4,10; 6,86)
+
+e) (3,90; 7,06)
+
+Comentários:
+
+Precisamos construir um intervalo de confiança para a média de uma população normal com variância
+conhecida, dado por:
+
+                                                                    𝜎
+                                                     𝐼𝐶 = 𝑋̅ ± 𝑧.
+                                                                    √𝑛
+
+O enunciado informa que:
+
+   •   A média amostral observada é 𝑋̅ = 5,48;
+   •   O tamanho da amostra é 𝑛 = 25;
+   •   A variância da população é 𝜎 2 = 4, logo o desvio padrão é 𝜎 = √4 = 2;
+   •   Para 95% de confiança, o escore da normal padrão é 𝑧 = 1,96.
+
+Substituindo esses dados na fórmula, temos:
+
+                                                    2               2
+                            𝐼𝐶 = 5,48 ± 1,96.         = 5,48 ± 1,96. = 5,48 ± 0,784
+                                                  √25               5
+
+                                                   𝐼𝐶 ≅ (4,70; 6,26)
+
+Gabarito: A
+
+6.    (FGV/2024 – Pref. Vitória) Uma amostra aleatória simples 𝒙𝟏 , 𝒙𝟐 , … , 𝒙𝟐𝟓 , de tamanho 25 foi obtida
+de uma variável populacional normalmente distribuída com média µ desconhecida e variância 𝝈𝟐 = 𝟏𝟎𝟎.
+                            ̅ = 𝟔𝟎.
+A média amostral obtida foi 𝒙
+Lembre-se que se Z tem distribuição normal padrão, então P[Z < 1,96] = 0,975.
+Um intervalo de 95% de confiança para µ será então dado por
+
+a) (50,16; 69,84)
+
+b) (53,88; 66,12)
+
+c) (56,08; 63,92)
+
+d) (57,25; 62,75)
+
+e) (57,99; 62,01)
+
+         Receita Federal (Analista Tributário) Estatística                                             201
+         www.estrategiaconcursos.com.br                                                                297
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+Comentários:
+
+Precisamos construir novamente um intervalo de confiança para a média de uma população normal com
+variância conhecida, dado por:
+
+                                                                    𝜎
+                                                     𝐼𝐶 = 𝑋̅ ± 𝑧.
+                                                                    √𝑛
+
+O enunciado informa que:
+
+    •   A média amostral observada é 𝑋̅ = 60;
+    •   O tamanho da amostra é 𝑛 = 25;
+    •   A variância da população é 𝜎 2 = 100, logo o desvio padrão é 𝜎 = √100 = 10;
+    •   Para 95% de confiança, o escore da normal padrão é 𝑧 = 1,96.
+
+Substituindo esses dados na fórmula, temos:
+
+                                                    10                   10
+                               𝐼𝐶 = 60 ± 1,96.           = 60 ± 1,96.       = 60 ± 3,92
+                                                   √25                    5
+
+                                                  𝐼𝐶 = (56,08; 63,92)
+
+Gabarito: C
+
+7.    (FGV/2024 – TJ/RR) Uma amostra aleatória simples 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝟒𝟎𝟎 , de tamanho 400, foi obtida de
+uma distribuição normal com média desconhecida 𝝁.
+
+                                     ̅ = 𝟔 e ∑𝟒𝟎𝟎
+Os seguintes dados foram observados: 𝒙             𝟐
+                                              𝒊=𝟏 𝒙𝒊 = 𝟏𝟕. 𝟗𝟗𝟏
+
+Um intervalo aproximado de 95% de confiança para μ será então dado por
+
+a) (5,9; 6,1).
+
+b) (5,8; 6,2).
+
+c) (5,7; 6,3).
+
+d) (5,6; 6,4).
+
+e) (5,5; 6,5).
+
+Comentários:
+
+Precisamos construir um intervalo de confiança para a média de uma população normal. O enunciado
+fornece dados que nos permitem calcular a variância amostral, pela fórmula:
+
+         Receita Federal (Analista Tributário) Estatística                                            202
+         www.estrategiaconcursos.com.br                                                               297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                    ∑ 𝑥𝑖2             𝑛
+                                              𝑠2 = (      − 𝑥̅ 2 ) ×
+                                                     𝑛               𝑛−1
+
+Entre parêntesis, temos a fórmula alternativa para o cálculo da variância populacional. Em seguida,
+precisamos multiplicá-la por 𝑛 e dividi-la por 𝑛 − 1, para obter a variância amostral. Essa expressão pode ser
+indicada como:
+
+                                      2
+                                          ∑ 𝑥𝑖2     2
+                                                          𝑛    ∑ 𝑥𝑖2 − 𝑛. 𝑥̅ 2
+                                     𝑠 =(       − 𝑥̅ ) ×     =
+                                           𝑛             𝑛−1      𝑛−1
+
+O enunciado informa que 𝑥̅ = 6, ∑ 𝑥𝑖2 = 17.991 e 𝑛 = 400, logo a variância amostral é:
+
+                2
+                  17.991 − 400 × 62 17.991 − 14.400 17.991 − 14.400 3591
+              𝑠 =                  =               =               =     =9
+                       400 − 1            399             399        399
+
+Logo, o desvio padrão amostral é 𝑠 = √𝑠 2 = √9 = 3.
+
+Agora, podemos obter o intervalo de confiança. Considerando que a amostra é suficientemente grande,
+podemos utilizar a aproximação para a distribuição normal padrão, em que o nível de confiança de 95% está
+associado ao escore 𝑧 = 1,96:
+
+                              𝑠                      3                       3
+               𝐼𝐶 = 𝑥̅ ± 𝑧.        = 6 ± 1,96 ×              = 6 ± 1,96 ×      = 6 ± 0,294 ≅ (5,7; 6,3)
+                              √𝑛                   √400                     20
+
+Gabarito: C
+
+8.    (FGV/2024 – TJ/MS) Um estatístico precisa estimar a quantidade média de processos
+administrativos com 99% de confiança. Assuma que o desvio padrão é conhecido e igual a 10 processos, e
+que a margem de erro aceita é de 1 processo. O menor tamanho amostral que ele deve usar é de,
+aproximadamente:
+Observação: Considere a estatística teste utilizada como sendo exatamente igual a 2,58 para o grau de
+confiança desejado.
+
+a) 15
+
+b) 26
+
+c) 100
+
+d) 258
+
+e) 666
+
+Comentários:
+
+
+         Receita Federal (Analista Tributário) Estatística                                                203
+         www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Precisamos calcular o tamanho da amostra necessária, para estimar a média de uma população, com
+variância conhecida, dado por:
+
+                                                            𝑧     2
+                                                       𝑛 = ( . 𝜎)
+                                                            𝐸
+
+O enunciado informa que:
+
+    •   O desvio padrão da população é 𝜎 = 10;
+    •   A margem de erro é 𝐸 = 1;
+    •   O escore da normal padrão associado ao nível de confiança desejado é 𝑧 = 2,58.
+
+Substituindo esses dados na fórmula, temos:
+
+                                                      2
+                                            2,58
+                                         𝑛=(     × 10) = 25,82 ≅ 665,6
+                                             1
+
+Gabarito: E
+
+9.      (FGV/2024 – SES/MT) Para estimar um parâmetro p (uma proporção de “sucessos”) de uma
+distribuição Bernoulli, uma amostra aleatória simples de tamanho 625 foi obtida e mostrou um número
+de “sucessos” igual a 344.
+Lembre que se Z~N (0, 1), então P[-1,96 < Z < 1,96] = 0,95; assim, um intervalo de 95% de confiança
+estimado para p, no pior caso, será dado aproximadamente por
+
+a) (0,53; 0,57).
+
+b) (0,51; 0,59).
+
+c) (0,48; 0,62).
+
+d) (0,45; 0,65).
+
+Comentários:
+
+Precisamos construir um intervalo de confiança para a proporção, dado por:
+
+
+                                                                𝑝̂ × (1 − 𝑝̂ )
+                                               𝐼𝐶 = 𝑝̂ ± 𝑧. √
+                                                                      𝑛
+
+O enunciado informa que o tamanho da amostra é 𝑛 = 625, dos quais 344 correspondem ao sucesso. Assim,
+a proporção amostral é:
+
+         Receita Federal (Analista Tributário) Estatística                                        204
+         www.estrategiaconcursos.com.br                                                           297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                            344
+                                                   𝑝̂ =         ≅ 0,55
+                                                            625
+
+Considerando que o escore da normal padrão associado ao nível de confiança desejado é 𝑧 = 1,96, temos:
+
+
+                                             0,55 × (1 − 0,55)                  0,55 × 0,45
+                    𝐼𝐶 = 0,55 ± 1,96. √                        = 0,55 ± 1,96. √
+                                                   625                              625
+
+
+                                         0,25                0,5
+                𝐼𝐶 ≅ 0,55 ± 1,96. √           = 0,55 ± 1,96.     ≅ 0,55 ± 0,04 = (0,51; 0,59)
+                                         625                 25
+
+Gabarito: B
+
+10.    (FGV/2024 – Pref. Vitória) Uma amostra aleatória simples de tamanho 100 foi obtida para estimar
+uma proporção p populacional de indivíduos que apresentam uma característica A. Como resultado, 36
+indivíduos amostrais apresentaram a característica A.
+Lembre-se que de, se Z tem distribuição normal padrão, então P[Z< 1.96] = 0,975. Usando a estimativa de
+p no lugar do valor desconhecido, um intervalo de 95% de confiança para p será dado aproximadamente
+por
+
+a) (0,304; 0,416)
+
+b) (0,266; 0,454)
+
+c) (0,210; 0,510)
+
+d) (0,202; 0,518)
+
+e) (0,199; 0,601)
+
+Comentários:
+
+Precisamos construir um intervalo de confiança para a proporção, dado por:
+
+
+                                                               𝑝̂ × (1 − 𝑝̂ )
+                                              𝐼𝐶 = 𝑝̂ ± 𝑧. √
+                                                                     𝑛
+
+O enunciado informa que o tamanho da amostra é 𝑛 = 100, dos quais 36 correspondem ao sucesso. Assim,
+a proporção amostral é:
+
+                                                            36
+                                                   𝑝̂ =         = 0,36
+                                                            100
+
+
+        Receita Federal (Analista Tributário) Estatística                                           205
+        www.estrategiaconcursos.com.br                                                              297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Considerando que o escore da normal padrão associado ao nível de confiança desejado é 𝑧 = 1,96, temos:
+
+
+                                             0,36 × (1 − 0,36)                  0,36 × 0,64
+                    𝐼𝐶 = 0,36 ± 1,96. √                        = 0,36 ± 1,96. √
+                                                   100                              100
+
+                                0,6 × 0,8
+            𝐼𝐶 = 0,36 ± 1,96.             = 0,36 ± 0,196 × 0,48 ≅ 0,36 ± 0,094 = (0,266; 0,454)
+                                   10
+
+Gabarito: B
+
+11.     (FGV/2024 – INPE) Uma empresa do ramo de turismo procurou um analista de mercado para
+realizar uma pesquisa de satisfação do seu serviço. Supondo que o nível de significância adotado pelo
+analista foi de 5% e que o tamanho da amostra foi de 2401 indivíduos, assinale a opção que indica o erro
+amostral utilizado na pesquisa. Dado: Z0,0025 = 1,96.
+
+a) 1%
+
+b) 2%
+
+c) 3%
+
+d) 4%
+
+e) 5%
+
+Comentários:
+
+Precisamos calcular a margem de erro, na pesquisa de satisfação realizada. Considerando que o objetivo é
+estimar a proporção de clientes satisfeitos, a margem de erro é dada por:
+
+
+                                                            𝑝 × (1 − 𝑝)
+                                                 𝐸 = 𝑧. √
+                                                                 𝑛
+
+O enunciado informa que o tamanho da amostra é 𝑛 = 2401 indivíduos e que o escore da normal padrão
+associado ao nível de confiança desejado é 𝑧 = 1,96.
+
+Como não há qualquer informação sobre a proporção, utilizamos aquela que maximiza o erro, quais sejam,
+𝑝 = 0,5. Assim, temos:
+
+
+                                           0,5 × 0,5         0,5 0,98
+                            𝐸 = 1,96. √              = 1,96.    =     = 0,02 = 2%
+                                             2401            49   49
+
+Gabarito: B
+
+
+        Receita Federal (Analista Tributário) Estatística                                            206
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+12.    (FGV/2024 – SES/MT) Pretende-se estimar a proporção populacional de pessoas p que têm um
+certo atributo. Planeja-se obter uma amostra aleatória simples que assegure que a probabilidade de a
+proporção amostral de pessoas com o tal atributo na amostra não difira do valor de p por mais de 3% com
+95% de confiança. Lembrando que o valor de percentil 97,5% da distribuição normal padrão é 1,96, o
+tamanho da amostra deve ser, no mínimo, aproximadamente igual a
+
+a) 987
+
+b) 1026
+
+c) 1067
+
+d) 1234
+
+Comentários:
+
+Precisamos calcular o tamanho da amostra necessária, para estimar a proporção de uma população:
+
+                                                        𝑧 2
+                                                   𝑛 = ( ) . 𝑝. (1 − 𝑝)
+                                                        𝐸
+
+O enunciado informa que a margem de erro é 𝐸 = 3% = 0,03; e que o escore da normal padrão associado
+ao nível de confiança desejado é 𝑧 = 1,96.
+
+Considerando que a proporção não é fornecida, devemos utilizar aquela que maximiza o tamanho amostral,
+qual seja, 𝑝 = 1 − 𝑝 = 0,5. Substituindo esses dados na fórmula, temos:
+
+                           1,96 2
+                       𝑛=(      ) × 0,5 × 0,5 = 65,332 × 0,25 ≅ 4268 × 0,25 ≅ 1067
+                           0,03
+
+Gabarito: C
+
+13.    (FGV/2024 – CVM) Um investidor quer construir um intervalo de confiança para a variância dos
+retornos de um ativo, com base em uma amostra aleatória de 11 dias. A variância amostral dos retornos
+no período foi 19,7. Supondo que os retornos sigam distribuição normal, o limite superior do intervalo de
+90% para a variância (considerando probabilidades iguais em cada cauda) é:
+Distribuição qui-quadrado:
+
+                                  Graus de          Área de extremidade superior
+                                 Liberdade       99%    98% 97,5% 95% 90%
+                                     8          1,646 2,032 2,180 2,733 3,490
+                                     9          2,088 2,532 2,700 3,325 4,168
+                                     10         2,558 3,059 3,247 3,940 4,865
+                                     11         3,053 3,609 3,816 4,575 5,578
+                                     12         3,571 4,178 4,404 5,226 6,304
+
+
+          Receita Federal (Analista Tributário) Estatística                                           207
+          www.estrategiaconcursos.com.br                                                              297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) 35
+
+b) 40
+
+c) 45
+
+d) 50
+
+e) 55
+
+Comentários:
+
+Essa questão pede o limite superior do intervalo de confiança para a variância, dado por:
+
+                                                  (𝑛 − 1)𝑠 2 (𝑛 − 1)𝑠 2
+                                           𝐼𝐶 = (     2     ;    2      )
+                                                    𝒳𝑆𝑢𝑝       𝒳𝐼𝑛𝑓
+
+O enunciado informa que o tamanho da amostra é 𝑛 = 11 e que a variância amostral observada é 𝑠 2 = 19,7.
+
+Para um nível de 90% de confiança, temos 5% abaixo do limite inferior e 5% acima do limite superior. Assim,
+                                                                                           2
+o limite inferior está associado a 95% de área da extremidade superior, ou seja, 𝑃(𝒳 2 > 𝒳𝐼𝑛𝑓 ) = 0,95. Para
+                                                     2
+𝑛 − 1 = 10 graus de liberdade, observamos que 𝒳𝐼𝑛𝑓 = 3,94.
+
+Assim, o limite superior do intervalo é:
+
+                                      (𝑛 − 1)𝑠 2 (11 − 1) × 19,7 197
+                               𝐿𝑆𝑢𝑝 =     2     =               =      = 50
+                                        𝒳𝐼𝑛𝑓          3,94        3,94
+
+Gabarito: D
+
+14.     (FGV/2024 – CVM) Um indicador de desempenho das instituições que atuam no mercado financeiro
+brasileiro é avaliado com base nas 8 observações de uma amostra aleatória simples, considerando 8 dessas
+instituições. O desvio padrão amostral do indicador foi igual a 8. Supondo que a distribuição dos valores
+do indicador no universo em estudo seja Normal, o limite inferior do intervalo de confiança de 95% para a
+variância populacional é, aproximadamente (considere probabilidades iguais nas caudas):
+Distribuição qui-quadrado:
+
+                             Graus de            Área de extremidade superior
+                            Liberdade       2,5%     2%       1%     0,2%     0,1%
+                                6          14,449 15,033 16,812 20,791 22,457
+                                7          16,013 16,622 18,472 22,601 24,322
+                                8          17,534 18,168 20,090 24,352 26,125
+                                9          19,023 19,679 21,666 26,056 27,877
+                                10         20,483 21,161 23,209 27,722 29,588
+
+
+        Receita Federal (Analista Tributário) Estatística                                               208
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+a) 16
+
+b) 20
+
+c) 24
+
+d) 28
+
+e) 32
+
+Comentários:
+
+Essa questão pede o limite superior do intervalo de confiança para a variância, dado por:
+
+                                                    (𝑛 − 1)𝑠 2 (𝑛 − 1)𝑠 2
+                                             𝐼𝐶 = (     2     ;    2      )
+                                                      𝒳𝑆𝑢𝑝       𝒳𝐼𝑛𝑓
+
+O enunciado informa que o tamanho da amostra é 𝑛 = 8 e que o desvio padrão amostral é 𝑠 = 8, logo a
+variância amostral é 𝑠 2 = 82 = 64.
+
+Para um nível de 95% de confiança, temos 2,5% abaixo do limite inferior e 2,5% acima do limite superior.
+                                                                                                  2
+Assim, o limite inferior está associado a 2,5% de área da extremidade superior, ou seja, 𝑃(𝒳 2 > 𝒳𝑆𝑢𝑝 )=
+                                                              2
+0,025. Para 𝑛 − 1 = 7 graus de liberdade, observamos que 𝒳𝑆𝑢𝑝 = 16,013.
+
+Assim, o limite superior do intervalo é:
+
+                                          (𝑛 − 1)𝑠 2 (8 − 1) × 64    448
+                                 𝐿𝐼𝑛𝑓 =       2     =             =        ≅ 28
+                                            𝒳𝑆𝑢𝑝        16,013      16,013
+
+Gabarito: D
+
+15.   (FGV/2023 – TJ/SE) Um analista gostaria de estimar a quantidade média de processos
+administrativos com 95% de confiança. Assuma que o desvio padrão é conhecido e igual a 5 processos. A
+margem de erro aceita é 0,25. O menor tamanho amostral que o analista deve usar é, aproximadamente:
+Obs: assuma que a estatística teste utilizada é 1,96.
+
+a) 6
+
+b) 39
+
+c) 307
+
+d) 384
+
+e) 1537
+
+
+          Receita Federal (Analista Tributário) Estatística                                          209
+          www.estrategiaconcursos.com.br                                                             297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+
+Essa questão trabalha com o tamanho amostral para construir um intervalo de confiança para a média, com
+variância conhecida. A fórmula do tamanho amostral é:
+
+                                                           𝑧     2
+                                                      𝑛 = ( . 𝜎)
+                                                           𝐸
+
+O enunciado informa que z = 1,96; que a margem de erro E = 0,25 e que o desvio padrão 𝜎 = 5:
+
+                                                  2
+                                         1,96
+                                      𝑛=(     . 5) = (39,2)2 = 1536,64
+                                         0,25
+
+Logo, o menor tamanho amostral, que corresponde ao menor número inteiro maior que o valor calculado, é
+1537.
+
+Gabarito: E
+
+16.   (FGV/2023 – TJ/SE) Numa tentativa de melhorar o esquema de atendimento, um médico procurou
+estimar o tempo médio que gasta com cada paciente. Uma amostra de 30 pacientes acusou uma média de
+40 minutos, com desvio padrão de 4 minutos.
+Se, em vez da amostra de 30 pacientes, tivesse sido adotada uma amostra de 60 pacientes:
+
+a) a estimativa do tempo médio de atendimento seria menor;
+
+b) a estimativa do tempo médio de atendimento seria maior;
+
+c) o erro da estimativa do tempo médio de atendimento dos pacientes seria maior;
+
+d) o erro da estimativa do tempo médio de atendimento dos pacientes seria menor;
+
+e) nada poderia ser afirmado sobre o erro da estimativa do tempo médio de atendimento.
+
+Comentários:
+
+Essa questão trabalha com um intervalo para a média. O erro da estimativa corresponde ao produto do valor
+de z associado ao nível de confiança pelo erro padrão do estimador, que, por sua vez, é a razão entre o desvio
+padrão da população e a raiz quadrada do tamanho amostral:
+
+                                                                     𝜎
+                                                   𝐸 = 𝑧. 𝜎𝑥̅ = 𝑧.
+                                                                     √𝑛
+
+Assim, quando aumentamos o tamanho da amostra, diminuímos o erro. Portanto, a alternativa D está certa
+e as alternativas C e E estão erradas.
+
+        Receita Federal (Analista Tributário) Estatística                                                 210
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Em relação às alternativas A e B, não temos como saber qual seria a média da nova amostra, que pode
+aumentar ou diminuir.
+
+Gabarito: D
+
+17.    (FGV/2023 – SEFAZ/MG) O menor tamanho da amostra aleatória simples para que possamos
+garantir, com 99% de confiança, que a proporção de sucessos amostral não diferirá da proporção de
+sucessos populacional por mais de 1% deve ser aproximadamente igual a
+[dado: se 𝒁~𝑵(𝟎, 𝟏), 𝑷[𝒁 < 𝟐, 𝟓𝟖] = 𝟎, 𝟗𝟗𝟓]
+
+a) 1.032.
+
+b) 4.236.
+
+c) 6.488.
+
+d) 16.642.
+
+e) 18.544.
+
+Comentários:
+O enunciado pede o tamanho da amostra necessário, na construção de um intervalo de confiança para a
+proporção:
+                                                          𝑧 2
+                                                     𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                          𝐸
+O enunciado informa que a proporção amostral não deve se afastar da proporção populacional por mais de
+1%, o que corresponde ao erro amostral: E = 0,01.
+Para um nível de 99% de confiança, temos 0,5% abaixo do limite inferior e 0,5% acima do limite superior.
+Assim, precisamos do valor de z que delimita uma probabilidade P(Z < z) = 0,5% + 99% = 99,5% = 0,995.
+Pelos dados fornecidos, observamos que z = 2,58, pois P(Z < 2,58) = 0,995.
+Como o enunciado não forneceu uma estimativa para a proporção, devemos utilizar a proporção que
+maximiza o tamanho amostral, para que possamos garantir que ele estará adequado.
+Essa proporção é 𝑝̂ = 𝑞̂ = 0,5, logo:
+
+                                 2,58 2
+                              𝑛=(    ) × 0,5 × 0,5 = (258)2 × 0,25 = 16.641
+                                 0,01
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                            211
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+18.    (FGV/2022 – TRT/MA) Se p é uma proporção populacional, o tamanho da amostra necessário para
+que possamos garantir, com 95% de confiança, que o valor da proporção amostral não se afastará do valor
+de p por mais de 2% é, aproximadamente, igual a
+a) 1.600.
+b) 1.800.
+c) 2.000.
+d) 2.200.
+e) 2.400.
+Para resolver essa questão, utilize a tabela normal apresentada ao final desta seção, fornecida na prova.
+Comentários:
+O enunciado pede o tamanho da amostra necessário, na construção de um intervalo de confiança para a
+proporção:
+                                                          𝑧 2
+                                                     𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                          𝐸
+O enunciado informa que a proporção amostral não deve se afastar da proporção da população por mais de
+2%, o que corresponde ao erro amostral: E = 0,02.
+Para um nível de 95% de confiança, temos 2,5% abaixo do limite inferior e 2,5% acima do limite superior.
+Assim, precisamos do valor de z que delimita uma probabilidade P(Z < z) = 2,5% + 95% = 97,5%. Pela tabela
+fornecida na prova, observamos que z = 1,96, pois P(Z < 1,96) = 0,9750.
+Como o enunciado não forneceu uma estimativa para a proporção, devemos utilizar a proporção que
+maximiza o tamanho amostral, para que possamos garantir que ele estará adequado. Essa proporção é 𝑝̂ =
+𝑞̂ = 0,5, logo:
+                             1,96 2
+                          𝑛=(     ) × 0,5 × 0,5 = (98)2 × 0,25 = 2401 ≅ 2400
+                             0,02
+Gabarito: E
+
+
+19.    (FGV/2022 – TRT/PB) Supondo amostra aleatória simples, usando o teorema central do limite e
+considerando, ainda, o pior caso, o tamanho da amostra para que possamos garantir, com 99% de
+confiança, que o valor de uma proporção amostral não diferirá do valor da proporção populacional por
+mais de 2% é, no mínimo, aproximadamente igual a
+a) 1.640.
+b) 2.720.
+c) 3.105.
+d) 3.458.
+e) 4.160.
+Para resolver essa questão, utilize a tabela normal apresentada ao final desta seção, fornecida na prova.
+
+
+        Receita Federal (Analista Tributário) Estatística                                             212
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+Essa questão trabalha com o tamanho da amostra necessário, na construção de um intervalo de confiança
+para a proporção:
+                                                             𝑧 2
+                                                        𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                             𝐸
+O enunciado informa que a proporção amostral não deve se afastar da proporção população por mais de
+2%, o que corresponde ao erro amostral: E = 0,02.
+Para um nível de 99% de confiança, temos 0,5% abaixo do limite inferior e 0,5% acima do limite superior.
+Assim, precisamos do valor de z que delimita uma probabilidade P(Z < z) = 0,5% + 99% = 99,5%.
+Pela tabela fornecida na prova, observamos que z = 2,58, pois P(Z < 2,58) = 0,9951 ≅ 0,995.
+O enunciado considera o pior caso, para que possamos garantir o intervalo de confiança. Em outras palavras,
+devemos utilizar a proporção que maximiza o tamanho amostral, qual seja 𝑝̂ = 𝑞̂ = 0,5, logo:
+
+                                     2,58 2
+                                  𝑛=(    ) × 0,5 × 0,5 = (129)2 × 0,25 ≅ 4160
+                                     0,02
+Gabarito: E
+
+
+20.   (FGV/2022 – CGU) Um analista da CGU gostaria de estimar a quantidade média de processos
+administrativos contra um certo ente federativo com 95% de confiança. Assuma que o desvio padrão é
+conhecido e é igual a cinco processos. A margem de erro aceita é 0,25.
+O menor tamanho amostral que o analista deve usar é:
+
+a) 30;
+
+b) 1500;
+
+c) 1535;
+
+d) 1536;
+
+e) 1537.
+
+Comentários:
+
+Essa questão trabalha com o tamanho amostral para construir um intervalo de confiança para a média, com
+variância conhecida, cuja fórmula é:
+
+                                                              𝑧     2
+                                                         𝑛 = ( . 𝜎)
+                                                              𝐸
+
+Em que 𝑧 é o valor da tabela normal padrão associado ao nível de confiança desejado; 𝐸 é a margem de erro
+e 𝜎 é o desvio padrão.
+
+
+           Receita Federal (Analista Tributário) Estatística                                            213
+           www.estrategiaconcursos.com.br                                                               297
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+O enunciado informa que o nível de confiança é de 95% (logo, z = 1,96); margem de erro E = 0,25 e desvio
+padrão 𝜎 = 5:
+
+                                                   2
+                                          1,96
+                                       𝑛=(     . 5) = (39,2)2 = 1536,64
+                                          0,25
+
+Logo, o menor tamanho amostral, que corresponde ao menor número inteiro maior que o valor calculado, é
+1537.
+
+Gabarito: E
+
+21.    (FGV/2022 – TJDFT) Um estatístico deseja selecionar uma amostra aleatória simples, com
+reposição, de uma população em que a variância é conhecida e igual a 40.000. A amostra precisa atender
+ao seguinte critério: A amplitude máxima do intervalo bilateral de 95% de confiança para a média
+populacional deve ser de 200. O menor tamanho de amostra que atende à condição descrita acima é:
+a) 16;
+b) 15;
+c) 5;
+d) 4;
+e) 3.
+Comentários:
+
+Essa questão também trabalha com o tamanho amostral, para um intervalo de confiança para a média, com
+variância conhecida:
+
+                                                            𝑧     2
+                                                       𝑛 = ( . 𝜎)
+                                                            𝐸
+
+A questão informa que a variância da população é 𝜎 2 = 40.000, logo o desvio padrão é a raiz quadrada:
+
+                                                  𝜎 = √40.000 = 200
+
+Para um nível de confiança de 95%, temos z = 1,96 (a tabela normal padrão, foi fornecida nesta prova).
+Ademais, a questão informa que a amplitude do intervalo de confiança deve ser de 200. Assim, a semi-
+amplitude do intervalo, que corresponde à margem de erro, é a metade:
+
+                                                             200
+                                                     𝐸=          = 100
+                                                              2
+
+Substituindo esses dados na fórmula, temos:
+
+         Receita Federal (Analista Tributário) Estatística                                               214
+         www.estrategiaconcursos.com.br                                                                  297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                               2
+                                                    1,96
+                                                𝑛=(      . 200) = (3,92)2 ≅ 15,4
+                                                    100
+
+Logo, o menor tamanho amostral, que corresponde ao menor número inteiro maior que o valor calculado, é
+n = 16.
+
+Gabarito: A
+
+22.   (FGV/2022 – SEFAZ/BA) Suponha que uma variável aleatória populacional X pode ser suposta
+normalmente distribuída com média X desconhecida e variância σ2 conhecida.
+                                                       ̅ é o valor observado da média amostral, então
+Se uma amostra aleatória de tamanho n for obtida, e se 𝒙
+um intervalo de 95% de confiança para μ será dado por
+
+           1,96.𝜎            1,96.𝜎
+a) (𝑥̅ −            ; 𝑥̅ +             )
+               𝑛               𝑛
+
+           1,96           1,96
+b) (𝑥̅ −         ; 𝑥̅ +        )
+           √   𝑛          √𝑛
+
+
+c) (𝑥̅ − 1,96. √𝑛; 𝑥̅ + 1,96. √𝑛)
+
+           1,96.𝜎2            1,96.𝜎2
+d) (𝑥̅ −             ; 𝑥̅ +                )
+               𝑛                   𝑛
+
+           1,96.𝜎            1,96.𝜎
+e) (𝑥̅ −            ; 𝑥̅ +             )
+            √𝑛                √𝑛
+
+
+Comentários:
+
+O intervalo de confiança para a média 𝜇 com variância conhecida é dado por:
+
+                                                                   𝑥̅ ± 𝐸
+
+Em que 𝐸 é o erro amostral e corresponde ao produto de z associado ao nível de confiança desejado e o
+                                      𝜎
+desvio padrão da média amostral 𝜎𝑥̅ = 𝑛:
+                                                    √
+
+                                                                           𝜎
+                                                               𝐸 = 𝑧.
+                                                                          √𝑛
+
+Ou seja, o intervalo de confiança é:
+
+                                                                   𝜎                𝜎
+                                                        (𝑥̅ − 𝑧.        ; 𝑥̅ + 𝑧.        )
+                                                                   √𝑛               √𝑛
+
+Para um nível de 95% de confiança, temos z = 1,96 (embora esse conhecimento não seja necessário para
+resolver a questão, uma vez que todas as alternativas apresentam esse mesmo valor de z).
+
+           Receita Federal (Analista Tributário) Estatística                                       215
+           www.estrategiaconcursos.com.br                                                          297
+
+                                               
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Assim, o intervalo de confiança é:
+
+                                                                    𝜎                     𝜎
+                                                     (𝑥̅ − 1,96.         ; 𝑥̅ + 1,96.          )
+                                                                    √𝑛                    √𝑛
+
+Gabarito: E
+
+23.   (FGV/2022 – TJDFT) Suponha que uma variável aleatória populacional X pode ser suposta
+normalmente distribuída com média X desconhecida e variância σ2 conhecida.
+                                                       ̅ é o valor observado da média amostral, então
+Se uma amostra aleatória de tamanho n for obtida, e se 𝒙
+um intervalo de 95% de confiança para μ será dado por
+
+           1,96.𝜎            1,96.𝜎
+a) (𝑥̅ −            ; 𝑥̅ +              )
+             𝑛                  𝑛
+
+           1,96            1,96
+b) (𝑥̅ −          ; 𝑥̅ +        )
+           √𝑛              √𝑛
+
+
+c) (𝑥̅ − 1,96. √𝑛; 𝑥̅ + 1,96. √𝑛)
+
+           1,96.𝜎2            1,96.𝜎2
+d) (𝑥̅ −             ; 𝑥̅ +                 )
+              𝑛                     𝑛
+
+           1,96.𝜎            1,96.𝜎
+e) (𝑥̅ −            ; 𝑥̅ +              )
+            √𝑛                √𝑛
+
+
+Comentários:
+
+O intervalo de confiança para a média 𝜇 com variância conhecida é dado por:
+
+                                                                    𝑥̅ ± 𝐸
+
+Em que 𝐸 é o erro amostral e corresponde ao produto de z associado ao nível de confiança desejado e o
+                                      𝜎
+desvio padrão da média amostral 𝜎𝑥̅ = 𝑛:
+                                                     √
+
+                                                                            𝜎
+                                                                𝐸 = 𝑧.
+                                                                           √𝑛
+
+Ou seja, o intervalo de confiança é:
+
+                                                                    𝜎                𝜎
+                                                         (𝑥̅ − 𝑧.        ; 𝑥̅ + 𝑧.        )
+                                                                    √𝑛               √𝑛
+
+Para um nível de 95% de confiança, temos z = 1,96 (embora esse conhecimento não seja necessário para
+resolver a questão, uma vez que todas as alternativas apresentam esse mesmo valor de z).
+
+Assim, o intervalo de confiança é:
+
+
+           Receita Federal (Analista Tributário) Estatística                                       216
+           www.estrategiaconcursos.com.br                                                          297
+
+                                                
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                            𝜎                     𝜎
+                                            (𝑥̅ − 1,96.          ; 𝑥̅ + 1,96.          )
+                                                            √𝑛                    √𝑛
+
+Gabarito: E
+
+24.   (FGV/2022 – SEFAZ/ES) Uma amostra aleatória simples X1, X2 ..., X225, de tamanho 225, de uma
+população suposta normal com média e variância desconhecidas forneceu os seguintes dados:
+                                                        ̅ = 𝟐𝟖, 𝟐
+                                                        𝒙
+
+                                                        ̅)𝟐 = 𝟖𝟗𝟔
+                                                 ∑(𝒙𝒊 − 𝒙
+
+Lembre que se Z tem distribuição normal padrão então P[Z < 1,64] = 0,95, P[Z < 1,96] = 0,975.
+Um intervalo de 95% de confiança para a média populacional será dado aproximadamente por
+
+a) (27,94; 28,46);
+
+b) (27,76; 28,64);
+
+c) (27,38; 29,02);
+
+d) (27,18; 29,22);
+
+e) (26,16; 30,24).
+
+Comentários:
+
+Essa questão trabalha com um intervalo de confiança para a média. Se a variância fosse conhecida, teríamos:
+
+                                                            𝜎                𝜎
+                                                (𝑥̅ − 𝑧.         ; 𝑥̅ + 𝑧.        )
+                                                            √𝑛               √𝑛
+
+O enunciado informa que a variância não é conhecida, sendo necessário estimá-la a partir da variância
+amostral. O estimador não tendencioso para a variância é:
+
+                                                        ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2
+                                                 𝑠2 =
+                                                             𝑛−1
+
+Nessa situação, utilizaríamos a distribuição de t-Student, mas como a amostra é significativamente grande
+(𝑛 = 225 > 30), podemos utilizar a distribuição normal. Então, passemos aos cálculos. Sabendo que
+∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2 = 896, então a estimativa para a variância é:
+
+                                                                896
+                                                     𝑠2 =           =4
+                                                                224
+Logo, a estimativa para o desvio padrão é a raiz quadrada:
+
+        Receita Federal (Analista Tributário) Estatística                                               217
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                   𝑠 = √𝑠 2 = √4 = 2
+
+Para um intervalo de 95% de confiança, que deixa 2,5% abaixo do limite inferior do intervalo e 2,5% acima
+do limite superior, precisamos do valor de z que delimita uma probabilidade P(Z < z) = 97,5%.
+
+Pelos dados fornecidos no enunciado, observamos que z = 1,96. Logo, o erro do intervalo de confiança é:
+
+                                               𝑠               2           3,92
+                                     𝐸 = 𝑧.        = 1,96.             =        ≅ 0,26
+                                              √𝑛             √225           15
+
+E o intervalo de confiança é:
+
+                                  (28,2 − 0,26; 28,2 + 0,26) = (27,94; 28,46)
+
+Gabarito: A
+
+25.  (FGV/2022 – TRT/PB) Uma amostra aleatória simples de tamanho 16 de uma densidade normal
+com média 𝝁 e variância 𝝈𝟐 apresentou os seguintes resultados:
+
+                  ̅)𝟐 = 60
+̅ = 20,5 e ∑(𝒙𝒊 − 𝒙
+𝒙
+
+Um intervalo de 95% de confiança para  será dado aproximadamente por
+a) (19,43; 21,57)
+b) (19,14; 21,86)
+c) (18,62; 22,38)
+d) (18,32; 22,68)
+e) (18,00; 23,00)
+Para resolver essa questão, utilize as tabelas apresentadas ao final desta seção, fornecidas na prova.
+Comentários:
+Essa questão pede o intervalo de confiança para a média, com variância populacional desconhecida
+(estimada a partir da amostra), dado por:
+                                                            𝑋̅ ± 𝐸
+Em que o erro é calculado como:
+                                                                   𝑠
+                                                       𝐸 = 𝑡.
+                                                                √𝑛
+E a estimativa para o desvio padrão (amostral) é:
+
+                                                                ∑(𝑋𝑖 − 𝑋̅)2
+                                              𝑠 = √𝑠 2 = √
+                                                                  𝑛−1
+
+        Receita Federal (Analista Tributário) Estatística                                                218
+        www.estrategiaconcursos.com.br                                                                   297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Sabendo que ∑(𝑋𝑖 − 𝑋̅)2 = 60 e que o tamanho da amostra é 𝑛 = 16, a estimativa para o desvio padrão
+(amostral) é:
+
+                                                     60      60
+                                           𝑠=√            = √ = √4 = 2
+                                                   16 − 1    15
+
+Para um nível de confiança de 95%, temos 2,5% abaixo do limite inferior (e 2,5% acima do limite superior).
+Considerando que é fornecida a tabela da distribuição acumulada de t-Student 𝑃(𝑇 ≤ 𝑡), precisamos do
+valor de 𝑡 que delimita uma probabilidade 𝑃(𝑇 ≤ 𝑡) = 97,5% para 𝑛 − 1 = 15 graus de liberdade.
+Observamos que 𝑡 = 2,131. Assim, o erro é dado por:
+                                                         2         2
+                                         𝐸 = 2,131.        = 2,131. ≅ 1,07
+                                                       √16         4
+Sabendo que a média amostral é 𝑋̅ = 20,5, o intervalo de confiança é:
+                              𝑋̅ ± 𝐸 = (20,5 − 1,07; 20,5 + 1,07) = (19,43; 21,57)
+Gabarito: A
+
+
+26.    (FGV/2022 – SEFAZ/AM) Uma amostra aleatória simples de 1.600 eleitores mostrou que 800
+disseram que, se a eleição fosse naquele momento, votariam no candidato X.
+Um intervalo de 95% de confiança para p, a verdadeira proporção de leitores que pretendiam, naquele
+momento, votar em X, é aproximadamente dado por
+[use P[Z < 1,96] = 0,975]
+
+a) (0,45; 0,55);
+
+b) (0,465; 0,535);
+
+c) (0,468; 0,532);
+
+d) (0,471; 0,529);
+
+e) (0,475; 0,525).
+
+Comentários:
+
+Essa questão trabalha com um intervalo de confiança para a proporção, dada por:
+
+
+                                                                   𝑝̂ . 𝑞̂
+                                                       𝑝̂ ± 𝑧. √
+                                                                    𝑛
+
+Em que 𝑞̂ = 1 − 𝑝̂ .
+
+         Receita Federal (Analista Tributário) Estatística                                             219
+         www.estrategiaconcursos.com.br                                                                297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O enunciado informa que o tamanho da amostra é n = 1600, dos quais 800 votariam no candidato, logo a
+proporção de sucessos é:
+
+                                                        800
+                                                 𝑝̂ =        = 2 = 0,5
+                                                        1600
+
+E a proporção de fracassos também é 𝑞̂ = 1 − 𝑝̂ = 0,5.
+
+Um nível de confiança de 95% deixa 2,5% abaixo do limite mínimo (e 2,5% acima do limite máximo), de modo
+que precisamos do valor de z, para o qual P(Z < z) = 95% + 2,5% = 97,5% = 0,975. O enunciado informou
+justamente que z = 1,96.
+
+Substituindo os dados na fórmula do intervalo de confiança, temos:
+
+
+                                 0,5 × 0,5               0,5
+                 0,5 ± 1,96. √             = 0,5 ± 1,96.     ≅ 0,5 ± 0,025 = (0,475; 0,525)
+                                   1600                  40
+
+Gabarito: E
+
+27.    (FGV/2022 – TRT/PB) Considere 𝑿𝟏 , 𝑿𝟐 , … , 𝑿𝒏 uma amostra aleatória simples de uma variável
+populacional normalmente distribuída com média 𝝁 e variância 𝝈𝟐 . Um intervalo de confiança para 𝝈𝟐
+será dado por
+
+                                            ̅ )𝟐
+                                 ∑𝒏𝒊=𝟏(𝑿𝒊 − 𝑿                    ̅ )𝟐
+                                                      ∑𝒏𝒊=𝟏(𝑿𝒊 − 𝑿
+                                                   𝟐
+                               𝑷[                ≤𝝈 ≤                 ] = 𝟎, 𝟗𝟓
+                                        𝒂                    𝒂
+
+Assim, 𝒂 e 𝒃 podem ser, respectivamente,
+
+a) o percentil 2,5% e o percentil 97,5% da distribuição qui-quadrado com n – 1 graus de liberdade.
+
+b) o percentil 97,5% e o percentil 2,5% da distribuição qui-quadrado com n – 1 graus de liberdade.
+
+c) o percentil 2,5% e o percentil 97,5% da distribuição qui-quadrado com n graus de liberdade.
+
+d) o percentil 97,5% e o percentil 2,5% da distribuição qui-quadrado com n graus de liberdade.
+
+e) o percentil 97,5% e o percentil 2,5% da distribuição t com n – 1 graus de liberdade.
+
+Comentários:
+Essa questão trabalha com o intervalo de confiança para a variância, dado por:
+                                                (𝑛 − 1). 𝑠 2 (𝑛 − 1). 𝑠 2
+                                          𝐼𝐶 = (    2       ;     2       )
+                                                   𝒳𝑆𝑈𝑃         𝒳𝐼𝑁𝐹
+
+        Receita Federal (Analista Tributário) Estatística                                            220
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+          2      2
+Em que 𝒳𝑆𝑈𝑃  e 𝒳𝐼𝑁𝐹  são os valores tabelados da distribuição qui-quadrado com 𝑛 − 1 graus de liberdade,
+considerando o nível de confiança, conforme ilustrado a seguir:
+
+
+                                     𝛼⁄                             𝛼⁄
+                                       2                              2
+                                                  1−𝛼
+
+
+                                             2                2
+                                           𝒳𝐼𝑁𝐹              𝒳𝑆𝑈𝑃
+
+O enunciado utiliza a soma dos quadrados ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2, em vez da variância amostral 𝑠 2 , a qual pode ser
+calculada como:
+                                                         ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                                  𝑠2 =
+                                                              𝑛−1
+Assim, o intervalo de confiança para a variância pode ser representado como:
+                                (𝑛 − 1) ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 (𝑛 − 1) ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                          𝐼𝐶 = ( 2     ×               ;   2   ×                )
+                                 𝒳𝑆𝑈𝑃        𝑛−1         𝒳𝐼𝑁𝐹        𝑛−1
+                                             ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2 ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                       𝐼𝐶 = (       2       ;       2        )
+                                                  𝒳𝑆𝑈𝑃            𝒳𝐼𝑁𝐹
+Para um nível de confiança (1 − 𝛼) = 95%, temos que a probabilidade de o intervalo de confiança englobar
+o parâmetro verdadeiro é de 95%, ou seja:
+                                  ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2   2
+                                                       ∑𝑛𝑖=1(𝑋𝑖 − 𝑋̅)2
+                                𝑃[       2        ≤𝜎 ≤        2        ] = 95%
+                                       𝒳𝑆𝑈𝑃                 𝒳𝐼𝑁𝐹
+                                                                      2
+Assim, o denominador do limite inferior do intervalo (𝑎) é igual a 𝒳𝑆𝑈𝑃   , que corresponde ao percentil 97,5%
+da distribuição qui-quadrado com 𝑛 − 1 graus de liberdade; e o denominador do limite superior intervalo do
+                          2
+intervalo (𝑏) é igual a 𝒳𝐼𝑁𝐹 , que corresponde ao percentil 2,5% da distribuição qui-quadrado com 𝑛 − 1 graus
+de liberdade.
+Gabarito: B
+
+
+28.    (FGV/2021 – FunSaúde/CE) Uma amostra aleatória simples de 625 trabalhadores mostrou que,
+desses, 125 estavam desempregados.
+Um intervalo aproximado de 95% de confiança para a verdadeira proporção de desempregados na
+população de trabalhadores, será dado por
+
+a) (0,19; 0,21);
+
+b) (0,17; 0,23);
+
+c) (0,16; 0,24);
+
+         Receita Federal (Analista Tributário) Estatística                                                221
+         www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+d) (0,15; 0,25);
+
+e) (0,14; 0,26).
+
+Para resolver esta questão, utilize a tabela normal padrão fornecida na prova, ao final desta seção.
+Comentários:
+
+Essa questão também trabalha com um intervalo de confiança para a proporção, dada por:
+
+
+                                                                   𝑝̂ . 𝑞̂
+                                                       𝑝̂ ± 𝑧. √
+                                                                    𝑛
+
+O enunciado informa que o tamanho da amostra é n = 625, dos quais 125 estavam desempregados, logo a
+proporção de sucessos é:
+
+                                                         125 1
+                                                  𝑝̂ =      = = 0,2
+                                                         625 5
+
+E a proporção de fracassos é 𝑞̂ = 1 − 𝑝̂ = 0,8.
+
+Um nível de confiança de 95% deixa 2,5% abaixo do limite mínimo (e 2,5% acima do limite máximo), de modo
+que precisamos do valor de z, para o qual P(Z < z) = 95% + 2,5% = 97,5% = 0,975. Pela tabela normal padrão,
+observamos que z = 1,96.
+
+Substituindo os dados na fórmula do intervalo de confiança, temos:
+
+
+                       0,2 × 0,8                 0,16               0,4
+       0,2 ± 1,96. √             = 0,2 ± 1,96. √      = 0,2 ± 1,96.     ≅ 0,2 ± 0,032 ≅ (0,17; 0,23)
+                          625                    625                25
+
+Gabarito: B
+
+29.   (FGV/2021 – FunSaúde/CE) Uma amostra aleatória simples de tamanho 25 de uma distribuição
+normal com média µ e variância σ2 desconhecidas, apresentou os seguintes dados suficientes:
+Média amostral = 40,0
+Desvio-padrão amostral = 2,5
+
+Um intervalo de 95% de confiança para µ será dado, aproximadamente, por
+
+a) (39,0; 41,0);
+b) (38,6; 41,4);
+c) (38,0; 42,0);
+
+         Receita Federal (Analista Tributário) Estatística                                             222
+         www.estrategiaconcursos.com.br                                                                297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+d) (37,6; 42,4);
+e) (37,0; 43,0).
+Para resolver esta questão, consulte as tabelas constantes ao final desta seção.
+Comentários:
+
+Essa questão trabalha com intervalo de confiança para a média, com variância desconhecida, dada por:
+
+                                                                   𝑠
+                                                         𝑋̅ ± 𝑡.
+                                                                   √𝑛
+
+O enunciado forneceu os seguintes dados:
+
+    •     Média amostral 𝑋̅ = 40
+    •     Desvio padrão amostral 𝑠 = 2,5
+    •     Tamanho da amostra 𝑛 = 25, logo, √𝑛 = √25 = 5
+
+Precisamos do valor de 𝑡, para 95% de confiança. Para utilizarmos a tabela constante ao final desta seção,
+precisamos do valor do complementar do nível de confiança, ou seja, p = 100% - 95% = 5%. Para essa
+probabilidade e n - 1 = 24 graus de liberdade, temos t = 2,064 ≅ 2.
+
+Substituindo esses dados na fórmula, temos:
+
+                                                      2,5
+                                            40 ± 2.       = 40 ± 1 = (39; 41)
+                                                       5
+
+Gabarito: A
+
+
+30.   (FGV/2021 – FunSaúde/CE) No cálculo do tamanho da amostra para a estimação de uma média, um
+aspecto muito importante é o fator de correção de população finita, a ser usado se o tamanho N da
+população a ser estudada não é grande o suficiente em relação ao tamanho n da amostra.
+Quando é esse o caso, o fator de correção a ser usado é dado por
+a) (N – n)/N;
+b) (N – n)/(N – 1);
+c) (N – 1)/(n – 1);
+d) n/(N – 1);
+e) n/N.
+Comentários:
+
+          Receita Federal (Analista Tributário) Estatística                                            223
+          www.estrategiaconcursos.com.br                                                               297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Essa questão trabalha com o fator de correção para populações finitas, que deve ser utilizado quando a
+amostra é extraída sem reposição e a população é finita e não muito grande em relação à amostra, o que
+nos impede de aproximá-la a uma população infinita.
+
+                                                                           𝑁−𝑛
+Nesse caso, multiplicamos a variância do estimador pelo fator de correção 𝑁−1. Assim, quando calculamos o
+tamanho amostral necessário, multiplicamos a fórmula clássica por tal fator.
+
+Gabarito: B
+
+31.     (FGV/2019 – DPE/RJ) Com o objetivo de estimar uma proporção populacional, será extraída uma
+amostra aleatória simples. O tamanho dessa amostra será determinado pelas escolhas do erro amostral
+(E), do grau de confiança e por hipóteses sobre o verdadeiro valor da proporção (p).
+Além disso, com Z~N(0,1), sabe-se que: P(Z > 1,25) ≅ 0,1, P(Z > 1,5) ≅ 0,05 e P(Z > 2) ≅ 0,025
+Dentre as alternativas abaixo, todas tidas como aceitáveis, a mais econômica é:
+
+a) E = 0,02, 𝛼 = 20% e p = 0,5;
+
+b) E = 0,02, 𝛼 = 20% e p = 0,6;
+
+c) E = 0,03, 𝛼 = 5% e p = 0,4;
+
+d) E = 0,03, 𝛼 = 5% e p = 0,5;
+
+e) E = 0,025, 𝛼 = 10% e p = 0,5;
+
+Comentários:
+
+Essa questão trabalha com o tamanho amostral para proporção:
+
+                                                         𝑧2
+                                                      𝑛 = 2 . 𝑝̂ . 𝑞̂
+                                                         𝐸
+
+A questão pede pela alternativa mais econômica, isto é, com menor tamanho amostral. Para isso, podemos
+substituir os parâmetros fornecidos nas alternativas.
+
+No entanto, na questão anterior, vimos que p = q = 0,5 maximiza a variância da distribuição, pois maximiza
+o produto pxq. Assim, essas proporções também maximizam o tamanho amostral. Consequentemente,
+quando temos todos os demais parâmetros iguais, a alternativa com p = 0,5 resultará em um tamanho
+amostral maior do que qualquer outro.
+
+Isso ocorre nas alternativas A e B, em que os valores do erro e de 𝛼 são os mesmos, modificando-se apenas
+a proporção p. Assim, mesmo sem fazer contas, sabemos que o tamanho amostral da alternativa A será
+maior do que o tamanho amostral da alternativa B.
+
+        Receita Federal (Analista Tributário) Estatística                                              224
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+O mesmo ocorre com as alternativas C e D, em que podemos concluir que o tamanho amostral alternativa D
+será maior do que o tamanho amostral da alternativa C.
+
+Logo, para encontrar o menor tamanho amostral, basta compararmos as alternativas B, C e E.
+
+Em relação à alternativa B, um nível de significância 𝛼 = 20% corresponde à seguinte situação:
+
+                                                         1−𝛼
+                                      𝛼                  = 80%            𝛼
+                                        = 10%                               = 10%
+                                      2                                   2
+
+                                                  −𝑧              𝑧
+
+
+Logo, precisamos de um valor de z tal que P(Z > z) = 10% = 0,1. Pelos dados fornecidos, observamos que z =
+1,25. Substituindo z = 1,25, E = 0,02 e p = 0,6 (logo, q = 1 – p = 0,4) na fórmula do tamanho amostral, temos:
+
+                                              1,252
+                                           𝑛=       . 0,6 × 0,4 = 937,5
+                                              0,022
+
+Em relação à alternativa C, um nível de significância 𝛼 = 5% corresponde à seguinte situação:
+
+                                 𝛼                       1−𝛼
+                                                                      𝛼
+                                   = 2,5%                = 95%          = 2,5%
+                                 2                                    2
+
+                                             −𝑧                       𝑧
+
+
+Logo, precisamos de um valor de z tal que P(Z > z) = 2,5% = 0,025. Pelos dados fornecidos, observamos que
+z = 2.
+
+Substituindo z = 2, E = 0,03 e p = 0,4 (logo, q = 1 – p = 0,6) na fórmula do tamanho amostral, temos:
+
+                                                   22
+                                          𝑛=            . 0,6 × 0,4 ≅ 1.066,7
+                                                  0,032
+
+Em relação à alternativa E, um nível de significância 𝛼 = 10% corresponde à seguinte situação:
+
+        Receita Federal (Analista Tributário) Estatística                                                 225
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                         1−𝛼
+                                     𝛼                   = 90%                𝛼
+                                       = 5%                                     = 5%
+                                     2                                        2
+                                               −𝑧                    𝑧
+
+
+Logo, precisamos de um valor de z tal que P(Z > z) = 5% = 0,05. Pelos dados fornecidos, observamos que z =
+1,5.
+
+Substituindo z = 1,5, E = 0,025 e p = 0,5 (logo, q = 1 – p = 0,5) na fórmula do tamanho amostral, temos:
+
+                                                 1,52
+                                             𝑛=        . 0,5 × 0,5 = 900
+                                                0,0252
+
+Assim, o menor tamanho amostral corresponde à alternativa E.
+
+Gabarito: E
+
+32.   (FGV/2018 – TJ-AL) Suponha que o estimador 𝜽   ̂ do parâmetro populacional 𝜽 tem distribuição
+                                                                                               ̂ = 7.
+normal com média 𝜽 e variância igual a 4. Uma amostra de tamanho n = 16 é extraída obtendo-se 𝜽
+Supondo φ(1,5) ≅ 0,95 e φ(2) ≅ 0,975, onde φ(z) a função distribuição acumulada da normal-padrão.
+Então o intervalo para 𝜽, com 95% de confiança, será:
+
+a) 3 < 𝜃 < 11;
+
+b) 6 < 𝜃 < 8;
+
+c) 4 < 𝜃 < 10;
+
+d) 6,25 < 𝜃 < 7,75;
+
+e) 5 < 𝜃 < 9.
+
+Comentários:
+
+Essa questão trabalha com intervalo de confiança para a média, dado por:
+
+                                                                         𝜎
+                                                 𝑥̅ ± 𝑧. 𝜎𝑥̅ = 𝑥̅ ± 𝑧.
+                                                                         √𝑛
+
+Para um nível de confiança 1 − 𝛼 = 95%, temos o seguinte:
+
+
+         Receita Federal (Analista Tributário) Estatística                                                 226
+         www.estrategiaconcursos.com.br                                                                    297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                     𝛼                      1−𝛼                    𝛼
+                                       = 2,5%               = 95%                    = 2,5%
+                                     2                                             2
+
+                                                −𝑧                          𝑧
+
+
+Portanto, precisamos do valor de z tal que φ(z) = P(Z < z) = 2,5% + 95% = 97,5% = 0,975. Pelos dados da
+normal padrão fornecidos, observamos que z = 2. Além disso, o enunciado informa que:
+
+   •   A média observada na amostra é 𝜃̂ = 𝑥̅ = 7;
+   •   A variância da população é 𝜎 2 = 4, logo o desvio padrão da população é 𝜎 = √𝜎 2 = √4 = 2;
+   •   O tamanho da amostra é n = 16.
+                                                                            𝜎
+Com esses dados e z = 2, temos o seguinte resultado para 𝑧. 𝑛 (qual seja a semi-amplitude do intervalo de
+                                                                            √
+confiança, chamado de erro amostral):
+
+                                                        𝜎              2        4
+                                               𝐸 = 𝑧.          = 2.         =     =1
+                                                        √𝑛            √16       4
+
+Portanto, o intervalo de confiança é dado por:
+
+                                                𝐿𝑆𝑢𝑝 = 𝑥̅ + 𝐸 = 7 + 1 = 8
+
+                                                𝐿𝑆𝑢𝑝 = 𝑥̅ − 𝐸 = 7 − 1 = 6
+
+Gabarito: B
+
+33.     (FGV/2018 – AL-RO) Uma variável aleatória populacional tem média desconhecida e variância 25.
+O tamanho da amostra aleatória simples para que possamos garantir, com 95% de confiança, que o valor
+da média amostral não se afastará do da média populacional por mais de 0,2 unidade, deve ser maior ou
+igual a
+a) 1296;
+b) 2304;
+c) 2401;
+d) 2500;
+e) 2916
+
+Utilize a tabela normal apresentada ao final, fornecida na prova.
+
+
+           Receita Federal (Analista Tributário) Estatística                                          227
+           www.estrategiaconcursos.com.br                                                             297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+
+Essa questão trabalha com o tamanho amostral para a estimação da média, cuja fórmula pode ser obtida
+reorganizando-se a fórmula do erro (isto é, da semiamplitude do intervalo de confiança):
+
+                                                                 𝜎
+                                                        𝐸 = 𝑧.
+                                                                 √𝑛
+
+                                                               𝜎 2
+                                                        𝑛 = (𝑧. )
+                                                               𝐸
+
+Para um nível de confiança 1 − 𝛼 = 95%, temos a seguinte situação:
+
+                                        𝛼                    1−𝛼
+                                          = 2,5%                            𝛼
+                                        2                    = 95%            = 2,5%
+                                                                            2
+
+                                                   −𝑧                 𝑧
+
+Logo, precisamos do valor de z tal que P(Z < z) = 2,5% + 95% = 0,975. Pela tabela normal padrão, observamos
+que z = 1,96.
+
+Ademais, o enunciado informa que a variância populacional é 𝜎 2 = 25, logo o desvio padrão é 𝜎 = √𝜎 2 =
+√25 = 5. O enunciado também informa que o valor da média amostral não pode se afastar em mais do que
+E = 0,2 da média populacional. Substituindo esses dados na fórmula acima, temos:
+
+                                                     5 2
+                                    𝑛 = (1,96 ×        ) = (1,96 × 25)2 = 2401
+                                                    0,2
+
+Gabarito: C
+
+34.    (FGV/2018 – AL-RO) Para estimar a proporção p de eleitores que, em um dado momento,
+pretendiam votar em certo candidato em uma eleição futura, uma amostra de 625 eleitores foi observada
+e constatou- se que, na amostra, 312 eleitores disseram que pretendiam votar no candidato.
+Um intervalo aproximado de 99% de confiança para p é dado por
+
+a) [0,40; 0,60]
+
+b) [0,42; 0,58]
+
+         Receita Federal (Analista Tributário) Estatística                                              228
+         www.estrategiaconcursos.com.br                                                                 297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+c) [0,45; 0,55]
+
+d) [0,47; 0,53]
+
+e) [0,48; 0,52]
+
+Para resolver essa questão, utilize a tabela normal ao final, fornecida na prova.
+Comentários:
+
+O enunciado pede para construirmos um intervalo de confiança em torno da proporção observada 𝑝̂ , o qual
+é dado por:
+
+                                                                 𝑝. 𝑞
+                                                        𝑝̂ ± 𝑧. √
+                                                                  𝑛
+
+             𝑝.𝑞
+Em que 𝑧. √ 𝑛 pode ser chamada de margem de erro.
+
+A proporção observada é a razão entre o número de eleitores favoráveis observado na amostra e o tamanho
+da amostra:
+
+                                                        ∑ 𝑋 312
+                                                 𝑝̂ =      =     ≅ 0,5
+                                                         𝑛   625
+
+O nível de confiança desejado é de 1 − 𝛼 = 99%, conforme ilustrado a seguir:
+
+                                   𝛼                                       𝛼
+                                     = 0,5%              1−𝛼                 = 0,5%
+                                   2                                       2
+                                                         = 99%
+
+
+                                              𝐿𝐼𝑁𝐹                  𝐿𝑆𝑈𝑃
+
+
+Assim, precisamos do valor de z que delimita uma probabilidade P(Z < z) = 0,5% + 99% = 99,5% = 0,995. Pela
+tabela normal padrão, observamos que z = 2,57, pois P(Z < 2,57) = 0,9949 ≅ 0,995.
+
+Para z = 2,75, 𝑝̂ = 0,5 (logo, 𝑞̂ = 1 − 𝑝̂ = 0,5) e n = 625, temos o seguinte erro:
+
+
+                              𝑝̂ . 𝑞̂           0,5 × 0,5         0,5
+                   𝐸 = 𝑧. √           = 2,57. √           = 2,57.     = 2,57 × 0,02 = 0,0514 ≅ 0,05
+                               𝑛                   625            25
+
+Assim, o intervalo é dado por:
+
+         Receita Federal (Analista Tributário) Estatística                                             229
+         www.estrategiaconcursos.com.br                                                                297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                             𝐿𝑆𝑈𝑃 = 0,5 + 0,05 = 0,55
+
+                                              𝐿𝐼𝑁𝐹 = 0,5 − 0,05 = 0,45
+
+Gabarito: C
+
+35.    (FGV/2018 – TJ-AL) Com o objetivo de construir um intervalo de confiança para a proporção de
+recursos não conhecidos por determinada corte, é extraída uma amostra de tamanho n = 625. Verifica-se
+que a proporção de recursos não conhecidos é igual a 6%.
+Supondo φ(1,5) ≅ 0,95 e φ(2) ≅ 0,975 e usando a variância máxima para a proporção (p), o intervalo com
+grau de 95% é:
+
+a) 1% < p < 11%;
+
+b) 4% < p < 8%;
+
+c) 3% < p < 9%;
+
+d) p < 12%;
+
+e) 2% < p < 10%
+
+Comentários:
+
+Novamente, precisamos construir um intervalo de confiança em torno da proporção observada 𝑝̂ , dado por:
+
+                                                                  𝑝. 𝑞
+                                                      𝑝̂ ± 𝑧. √
+                                                                   𝑛
+
+            𝑝.𝑞
+Sendo 𝑧. √ 𝑛 a margem de erro.
+
+O enunciado informa que o tamanho da amostra é n = 625 e que o nível de confiança é de 95%, conforme
+ilustrado a seguir:
+
+                                     2,5%                   95%             2,5%
+
+                                             𝐿𝐼𝑁𝐹                    𝐿𝑆𝑈𝑃
+
+        Receita Federal (Analista Tributário) Estatística                                            230
+        www.estrategiaconcursos.com.br                                                               297
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 11
+
+Podemos observar que precisamos do valor de z tal que φ(z) = P(Z < z) = 97,5% = 0,975. Pelos dados
+fornecidos no enunciado, observamos que z = 2, pois φ(2) ≅ 0,975.
+
+Por fim, o enunciado pede para considerarmos a variância máxima para a proporção, V(p) = p.q. Essa medida
+é máxima para p = q = 0,51. Assim, a margem de erro do intervalo de confiança é dada por:
+
+
+                                        𝑝. 𝑞        0,5 × 0,5      0,5   1
+                              𝐸 = 𝑧. √       = 2. √           = 2.     =   = 0,04 = 4%
+                                         𝑛             625         25 25
+
+Considerando o dado de que a proporção observada é 𝑝̂ = 6%, os limites do intervalo são:
+
+                                                 𝐿𝑆𝑈𝑃 = 6% + 4% = 10%
+
+                                                  𝐿𝐼𝑁𝐹 = 6% − 4% = 2%
+
+Gabarito: E
+
+36.    (FGV/2018 – TJ-AL) Um político que será candidato nas próximas eleições resolve contratar os
+serviços de um instituto de pesquisas para que avalie o seu potencial de votos. Como a disputa ainda está
+distante, ele se contentará com um erro de 4%, para mais ou para menos. Sabe-se que nas eleições
+passadas ele teve 20% das preferências, podendo esse percentual ser utilizado para o cálculo da variância.
+Tome φ(1,25) ≅ 0,90, φ(1,5) ≅ 0,95 e φ(2) ≅ 0,975, sendo φ(z) a função de distribuição acumulada da
+nomal-padrão.
+Para garantir um grau de confiança de 95%, o tamanho da amostra deverá ser:
+
+a) 100;
+
+b) 157;
+
+c) 225;
+
+d) 400;
+
+e) 625;
+
+Comentários:
+
+1
+    Esse resultado pode ser obtido igualando a zero a derivada da variância 𝑉(𝑝) = 𝑝(1 – 𝑝) = 𝑝 − 𝑝2 :
+                                                      𝑉 ′ (𝑝) = 1 − 2𝑝 = 0
+                                                               2𝑝 = 1
+                                                               𝑝 = 0,5
+
+
+           Receita Federal (Analista Tributário) Estatística                                             231
+           www.estrategiaconcursos.com.br                                                                297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Essa questão trabalha com o tamanho amostral para proporção, cuja fórmula pode ser obtida reorganizando-
+se a fórmula do erro amostral:
+
+
+                                                                  𝑝̂ . 𝑞̂
+                                                      𝐸 = 𝑧. √
+                                                                   𝑛
+
+                                                              𝑧 2 𝑝̂ . 𝑞̂
+                                                      𝐸2 =
+                                                                 𝑛
+
+                                                   𝑧2              𝑧 2
+                                              𝑛=      . 𝑝̂ . 𝑞
+                                                             ̂ = (   ) . 𝑝̂ . 𝑞̂
+                                                   𝐸2              𝐸
+
+O nível de confiança desejado é 1 − 𝛼 = 95%, ilustrado a seguir:
+
+                                                       1−𝛼
+                                  𝛼                    = 95%                    𝛼
+                                    = 2,5%                                        = 2,5%
+                                  2                                             2
+
+                                             −𝑧                             𝑧
+
+
+Logo, precisamos do valor de z tal que φ(z) = P(Z < z) = 2,5% + 95% = 97,5% = 0,975. Pelos dados da normal
+padrão fornecidos, observamos que z = 2.
+
+Assim, para z = 2, E = 4% = 0,04 e 𝑝̂ = 20% = 0,2 (logo, 𝑞̂ = 1 - 𝑝̂ = 0,8), temos o seguinte resultado para o
+tamanho amostral:
+
+                                2 2
+                        𝑛=(        ) × 0,2 × 0,8 = (50)2 × 0,16 = 2500 × 0,16 = 400
+                              0,04
+
+Gabarito: D
+
+37.   (FGV/2017 – IBGE) Para estimar uma proporção populacional, será extraída uma amostra de
+tamanho n, usando a proporção amostral como estimador. Em pesquisas anteriores o valor da proporção
+                    𝟗
+foi avaliado em 𝟐𝟓. O erro máximo tolerado é de 0,02 (= E) e o grau de confiança de 95% (z0,05 = 2). Então,
+para os casos de variâncias estimadas através do uso da evidência empírica do passado e do valor máximo
+para proporções, os respectivos tamanhos ótimos de amostras são:
+
+a) 1.600 e 2.560;
+
+b) 8.600 e 1.280;
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 232
+        www.estrategiaconcursos.com.br                                                                    297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+c) 2.048 e 5.000;
+
+d) 4.096 e 10.000;
+
+e) 2.304 e 2500.
+
+Comentários:
+
+Essa questão compara justamente o tamanho amostral para proporção obtido a partir da proporção
+amostral observada 𝑝̂ e o tamanho amostral máximo, obtido a partir da proporção que leva à variância
+máxima, 𝑝 = 0,5. De uma forma ou de outra, o tamanho amostral é dado por:
+
+                                                         𝑧 2
+                                                    𝑛 = ( ) . 𝑝̂ . 𝑞̂
+                                                         𝐸
+                                                            ==219a34==
+
+O enunciado informa que para o nível de confiança desejado, tem-se z = 2 e que o erro amostral (ou erro
+                                               9                 25    9   16
+máximo tolerado) é E = 0,02. Assim, para 𝑝̂ = 25 e 𝑞̂ = 1 − 𝑝̂ = 25 − 25 = 25, temos o seguinte tamanho
+amostral:
+
+                             2 2 9 16                144
+                     𝑛=(        ) ×   ×   = (100)2 ×     = 10000 × 0,2304 = 2304
+                           0,02     25 25            625
+
+E o tamanho máximo para a amostra considera 𝑝̂ = 0,5 e 𝑞̂ = 1 − 𝑝̂ = 0,5:
+
+                         2 2
+                     𝑛=(    ) × 0,5 × 0,5 = (100)2 × 0,25 = 10000 × 0,25 = 2500
+                        0,02
+
+Gabarito: E
+
+38.     (FGV/2017 – IBGE) Para estimar por intervalo da proporção de indivíduos que, em certa população,
+são portadores de diabetes, é extraída uma amostra aleatória simples (AAS) com tamanho n = 2500. Do
+total, 375 indivíduos foram classificados como portadores da doença. Adicionalmente, ɸ(.), a distribuição
+acumulada da normal-padrão assume os valores: ɸ(1,96) = 0,975, ɸ(1,64) = 0,95, ɸ(1,28) = 0,90. Fazendo
+uso do limite superior da variância de proporções e com nível de significância de 10%, o intervalo de
+confiança procurado é:
+
+a) (0,1336, 0,1664);
+
+b) (0,1372, 0,1628);
+
+c) (0,1244, 0,1756);
+
+d) (0,1168, 0,1832);
+
+e) (0,1304, 0,1696).
+
+
+        Receita Federal (Analista Tributário) Estatística                                             233
+        www.estrategiaconcursos.com.br                                                                297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+
+O enunciado fornece os elementos necessários para calcularmos a proporção amostral, sabendo que 375
+foram classificados como portadores da doença, dentre os 2500 indivíduos analisados:
+
+                                                          375
+                                                   𝑝̂ =        = 0,15
+                                                          2500
+
+Logo, a proporção de indivíduos que não possuem a doença é 𝑞̂ = 1 − 𝑝̂ = 0,85. Isso nos permite calcular o
+intervalo de confiança pela fórmula:
+
+
+                                                                  𝑝̂ . 𝑞̂
+                                                      𝑝̂ ± 𝑧. √
+                                                                   𝑛
+
+Porém, o enunciado pede que se faça uso do limite superior da variância no cálculo do erro. A variância
+máxima é obtida ao considerarmos 𝑝̂∗ = 𝑞̂∗ = 0,5.
+
+Considerando que o tamanho da amostra é n = 2500, então o desvio padrão amostral máximo é dado por:
+
+
+                           𝑝̂ . 𝑞̂ 0,5 × 0,5    0,25      1     1
+                          √ ∗ ∗=√            =√      =√       =    = 0,01
+                             𝑛       2500       2500    10.000 100
+
+Agora, falta encontrar o valor de z. Considerando que o nível de significância é 𝛼 = 10%, então o nível de
+confiança é complementar: 1 − 𝛼 = 90%, como ilustrado a seguir:
+
+
+                                                 5%                         5%
+
+                                                            90%
+
+                                                   𝑋̅ − 𝐸         𝑋̅ + 𝐸
+
+Portanto, precisamos do valor de z cuja função acumulada é de 5% + 90% = 95% = 0,95. Pelos dados
+fornecidos no enunciado, observamos que ɸ(1,64) = 0,95, ou seja, z = 1,64. Logo, o intervalo de confiança é:
+
+
+                                   𝑝̂∗ . 𝑞̂∗
+                       𝑝̂ + 𝑧. √             = 0,15 + 1,64 × 0,01 = 0,15 + 0,0164 = 0,1664
+                                      𝑛
+
+
+                                   𝑝̂∗ . 𝑞̂∗
+                       𝑝̂ − 𝑧. √             = 0,15 − 1,64 × 0,01 = 0,15 − 0,0164 = 0,1336
+                                      𝑛
+
+                                                   (0,1336; 0,1664)
+
+Gabarito: A
+
+
+        Receita Federal (Analista Tributário) Estatística                                               234
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+39.    (FGV/2017 – MPE-BA) O número de policiais assassinados nas cidades brasileiras tem despertado
+a preocupação dos especialistas. Para uma amostra de 16 cidades, a média mensal de policiais mortos foi
+de 12.
+Embora discreta, supõe-se que tal variável possa ser aproximada por uma Normal, sobre a qual é sabido
+que: φ(1,28) = 0,9, φ(1,64) = 0,95 e φ(1,96) = 0,975, onde φ é a função distribuição acumulada da normal
+padrão.
+Se o desvio padrão verdadeiro do número de óbitos é dado, igual a seis, é correto afirmar que:
+
+a) ao nível de significância de 10%, o número de homicídios estará entre 9 e 15, inclusive;
+
+b) considerando apenas o limite superior, com grau de confiança de 97,5%, o número de óbitos será superior
+a 18;
+
+c) a variância da média de homicídios é superior a quatro;
+
+d) considerando apenas o limite inferior, com grau de confiança de 90%, o número de óbitos será inferior a
+10;
+
+e) ao nível de significância de 5%, o número de homicídios estará entre 9 e 15, exclusive.
+
+Comentários:
+
+Essa questão trabalha com intervalo de confiança para a média. O enunciado fornece o seguinte:
+
+   •   O tamanho da amostra é n = 16;
+   •   A média amostral observada é 𝑥̅ = 12;
+   •   O desvio padrão populacional é 𝜎 = 6.
+
+Os intervalos de confiança (bilaterais) são construídos da forma:
+
+                                            𝜎               6                6           3
+                                  𝑥̅ ± 𝑧.        12 ± 𝑧.         = 12 ± 𝑧.     = 12 ± 𝑧.
+                                            √𝑛             √16               4           2
+
+Em que z depende do nível de confiança/significância desejado.
+
+A alternativa A trabalha o intervalo a um nível de significância 𝛼 = 10%:
+
+                                                           1−𝛼               𝛼
+                                   𝛼                                           = 5%
+                                     = 5%                  = 90%             2
+                                   2                                         = 5%
+                                   = 5%
+                                                 −𝑧                     𝑧
+
+         Receita Federal (Analista Tributário) Estatística                                                235
+         www.estrategiaconcursos.com.br                                                                   297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Assim, precisamos do valor de z que delimita uma probabilidade φ(z) = P(Z < z) = 5% + 90% = 0,95. Pelos
+dados fornecidos, observamos que z = 1,64, logo o intervalo de confiança é dado por:
+
+                                                            3
+                                    𝐿𝑆𝑢𝑝 = 12 + 1,64.         = 12 + 2,46 = 14,46
+                                                            2
+                                                      3
+                                     𝐿𝐼𝑛𝑓 = 12 − 1,64. = 12 − 2,46 = 9,54
+                                                      2
+
+Assim, o intervalo de confiança para o número de policiais mortos (que é uma variável discreta, assumindo
+apenas valores inteiros) será de 9 a 15, mas sem incluir os extremos. Por isso, a alternativa A está incorreta.
+
+A alternativa B trabalha com um nível de confiança 1 − 𝛼 = 97,5%, considerando apenas o limite superior:
+
+                                                       1−𝛼
+                                                       = 97,5%                𝛼 = 2,5%
+
+
+                                                                          𝑧
+
+
+Assim, precisamos do valor de z que delimita uma probabilidade φ(z) = P(Z < z) = 97,5% = 0,975. Pelos dados
+fornecidos, observamos que z = 1,96, logo o limite superior é dado por:
+
+                                                            3
+                                    𝐿𝑆𝑢𝑝 = 12 + 1,96.         = 12 + 2,94 = 14,94
+                                                            2
+
+Logo, o número de óbitos não será superior a 18 e a alternativa B está incorreta.
+
+Em relação à alternativa C, a variância da média amostral é o quadrado do seu desvio padrão:
+
+                                                      𝜎          6        6 3
+                                              𝜎𝑋̅ =         =         =    =
+                                                      √𝑛        √16       4 2
+
+                                                         3 2 9
+                                          ̅          2
+                                        𝑉(𝑋) = (𝜎𝑋̅ ) = ( ) = = 2,25
+                                                         2   4
+
+Portanto, a variância não é superior a 4 e a alternativa C está incorreta.
+
+A alternativa D trabalha com grau de confiança 1 − 𝛼 = 90%, considerando apenas o limite inferior:
+
+        Receita Federal (Analista Tributário) Estatística                                                  236
+        www.estrategiaconcursos.com.br                                                                     297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                                        1−𝛼
+                                                        = 90%
+                                       𝛼 = 10%
+
+                                                   −𝑧
+
+
+Assim, precisamos do valor de z que delimita uma probabilidade φ(-z) = P(Z < -z) = 10%. Pela simetria da
+normal padrão, temos φ(z) = P(Z < z) = 90% = 0,9. Pelos dados fornecidos, observamos que z = 1,28, logo o
+limite inferior é dado por:
+
+                                                            3
+                                    𝐿𝐼𝑛𝑓 = 12 − 1,28.         = 12 − 1,92 = 10,08
+                                                            2
+
+Portanto, o limite inferior não será inferior a 10 e a alternativa D está incorreta.
+
+A alternativa E trabalha o intervalo a um nível de significância 𝛼 = 5%:
+
+                                                        1−𝛼             𝛼
+                                   𝛼                                      = 2,5%
+                                     = 2,5%             = 95%           2
+                                   2                                    = 5%
+                                   = 5%
+                                              −𝑧                    𝑧
+
+
+Assim, precisamos do valor de z que delimita uma probabilidade φ(z) = P(Z < z) = 2,5% + 95% = 0,975. Pelos
+dados fornecidos, observamos que z = 1,96, logo o intervalo de confiança é dado por:
+
+                                                            3
+                                    𝐿𝑆𝑢𝑝 = 12 + 1,96.         = 12 + 2,94 = 14,94
+                                                            2
+                                                      3
+                                     𝐿𝐼𝑛𝑓 = 12 − 1,96. = 12 − 2,94 = 9,06
+                                                      2
+
+Assim, o intervalo de confiança para o número de policiais mortos (que assume apenas valores inteiros) será
+de 9 a 15, sem incluir os extremos. Portanto, a alternativa E está correta.
+
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Estatística                                               237
+        www.estrategiaconcursos.com.br                                                                  297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+40.    (FGV/2016 – IBGE) Com o objetivo de estimar, por intervalo, a verdadeira média populacional de
+uma distribuição, é extraída uma amostra aleatória de tamanho n = 26. Sendo a variância desconhecida,
+                                                        ̅ = 8 de grau de confiança pretendido é de 95%.
+calcula-se o valor de 𝒔̂𝟐 = 𝟏𝟎𝟎, além da média amostral 𝑿
+Somam-se a todas essas informações os valores tabulados:
+Φ(1,65) ≅ 0,95         Φ(1,96) ≅ 0,975
+T25(1,71) ≅ 0,95       T26(1,70) ≅ 0,95           T25(2,06) ≅ 0,975             T26(2,05) ≅ 0,975
+
+Onde 𝒔̂𝟐 = estimador não-viesado da variância populacional;
+Φ(z) = fç distribuição acumulada da Normal-padrão;
+Tn(t)= fç distribuição acumulada da T-Student com n graus de liberdade.
+Então os limites do intervalo de confiança desejado são:
+a) 3,86 e 12,14;
+b) 3,88 e 12,12;
+c) 4,30 e 11,70;
+d) 4,58 e 11,42;
+e) 4,60 e 11,40.
+Comentários:
+O enunciado informa que a variância da população é desconhecida, tendo apresentado a variância amostral,
+𝑠̂ 2 = 100, e a média amostral, 𝑋̅ = 8, e o tamanho da amostra, 𝑛 = 26. Dessa forma, precisamos utilizar a
+distribuição de t-Student, em que o intervalo de confiança é da forma:
+                                                                      𝑠
+                                                        𝑋̅ ± 𝑡𝑛−1 .
+                                                                      √𝑛
+Para um intervalo de confiança de 95%, temos 2,5% na região crítica inferior:
+
+
+                                           2,5%                                2,5%
+
+                                                          95%
+
+
+                                               𝑋̅ − 𝐸        𝑋̅       𝑋̅ + 𝐸
+
+
+Assim, devemos buscar o valor para o qual a função acumulada é T = 2,5% + 95% = 97,5% = 0,975. Para n – 1
+= 25 graus de liberdade, o enunciado informa que T25(2,06) ≅ 0,975, ou seja, 𝑡𝑛−1 = 2,06.
+
+Considerando, ainda, que o desvio padrão é 𝑠̂ = √𝑠̂ 2 = √100 = 10, o intervalo de confiança é:
+                                  𝑠                     10
+                    𝑋̅ + 𝑡𝑛−1 .        = 8 + 2,06 ×           ≅ 8 + 2,06 × 2 = 8 + 4,12 = 12,12
+                                  √𝑛                    √26
+
+        Receita Federal (Analista Tributário) Estatística                                              238
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+                                   𝑠                    10
+                     𝑋̅ − 𝑡𝑛−1 .        = 8 − 2,06 ×              ≅ 8 − 2,06 × 2 = 8 − 4,12 = 3,88
+                                   √𝑛                   √26
+Gabarito: B
+
+
+41.    (FGV/2016 – IBGE) Com a finalidade de estimar a proporção p de indivíduos de certa população,
+com determinado atributo, através da proporção amostral 𝒑 ̂, é extraída uma amostra de tamanho n,
+grande, compatível com um erro amostral de ɛ e com um grau de confiança de (1-α). Assim, é correto
+afirmar que:
+a) uma redução de α pode ser compensado por uma redução de ɛ, compatíveis com o mesmo tamanho de
+amostra n;
+b) quanto maior a variância verdadeira de 𝑝̂ , menor poderá ser a amostra capaz de assegurar a manutenção
+ɛ e (1-α);
+c) se a variância de 𝑝̂ for máxima, o erro ɛ for 5% e a amostra tiver tamanho n = 1000, o nível de significância
+será de 5%;
+d) fixos α e p, quanto maior a amostra menores serão os ganhos de precisão (redução de ɛ) gerados por seus
+incrementos;
+e) fixo ɛ, quanto menor a proporção populacional (p) e maior o nível de significância (α), maior deverá ser a
+amostra (n).
+Comentários:
+A questão trata do intervalo para a proporção amostral, em que a margem de erro é dada por:
+
+                                                                     𝑝̂ . 𝑞̂
+                                                        𝜀 = 𝑧. √
+                                                                      𝑛
+
+Em relação à alternativa A, uma redução do nível de significância 𝜶 implicaria no aumento do nível de
+confiança, 1 − 𝛼 (isto é, maior valor de 𝒛), o que aumentaria a margem de erro 𝜺, conforme ilustrado abaixo.
+
+                                                         1−𝛼
+
+                                             𝛼/2                               𝛼/2
+                                               𝑝̂ − 𝐸        𝑝̂        𝑝̂ + 𝐸
+
+
+Por isso, a alternativa A está incorreta.
+Analogamente, em relação à alternativa E, quanto maior o nível de significância 𝜶, menor o nível de
+confiança 1 − 𝜶 (isto é, menor valor de 𝒛). Sabendo que o tamanho amostral é proporcional ao quadrado
+
+        Receita Federal (Analista Tributário) Estatística                                                   239
+        www.estrategiaconcursos.com.br                                                                      297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+            𝑧 2
+de z, 𝑛 = (𝜀 ) 𝑝̂ . 𝑞̂, então para uma mesma margem de erro 𝜀, teríamos uma amostra 𝑛 menor. Por esse
+motivo, sabemos que a alternativa E está errada.
+Em relação à alternativa B, o tamanho amostral é calculado como:
+                                                           𝑧 2
+                                                      𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                           𝜀
+E a variância é populacional é 𝑉(𝑋) = 𝑛. 𝑝. 𝑞. Ou seja, a variância aumenta com o aumento do produto 𝑝. 𝑞.
+                                                                                  𝑧 2
+Quanto maior esse produto, maior será o tamanho amostral 𝑛 = (𝜀 ) 𝑝̂ . 𝑞̂, para um mesmo erro 𝜀 e mesmo
+nível de confiança 1 − 𝛼. Por isso, a alternativa B está incorreta.
+Em relação à alternativa C, a variância é máxima para 𝑝 = 𝑞 = 0,5. Para um erro 𝜀 = 0,05 e para uma
+amostra de tamanho 𝑛 = 1000, teremos:
+
+                                                                 𝑝̂ . 𝑞̂
+                                                      𝜀 = 𝑧. √
+                                                                  𝑛
+
+                                                        𝜀                  √𝑛
+                                                𝑧=              =𝜀×
+                                                     √𝑝̂ . 𝑞̂          √𝑝̂ . 𝑞̂
+                                                       𝑛
+
+                                            √1000                      10√10
+                            𝑧 = 0,05 ×                  = 0,05 ×             = √10 ≅ 3,16
+                                          √0,5 × 0,5                    0,5
+
+Para um nível de significância 𝛼 = 5%, descrito na alternativa, o valor crítico é 𝑧𝛼⁄2 = 1,96. Logo, a
+alternativa C está incorreta.
+Em relação à alternativa D, para um mesmo 𝛼 (ou seja, mesmo z) e mesmo 𝑝̂ , sabemos que o aumento da
+amostra gera um aumento da precisão, isto é, uma redução do erro 𝜀:
+
+                                                                 𝑝̂ . 𝑞̂
+                                                      𝜀 = 𝑧. √
+                                                                  𝑛
+
+Porém, quanto maior a amostra, menor será o efeito de determinado incremento. Por exemplo, se tivermos
+uma amostra de tamanho n = 10 e aumentarmos para n = 40, esse incremento quadruplica a amostra e, com
+isso, reduzimos o erro à metade:
+
+                                                     𝑝̂ . 𝑞̂        𝑝̂ . 𝑞̂ 1 1
+                                         𝜀2 = 𝑧. √           = 𝑧. √        × = 𝜀
+                                                     4. 𝑛            𝑛      2 2
+
+Por outro lado, o aumento de n = 100 para n = 130 (mesmo incremento de 30 unidades) representa um
+aumento de 1,3 e o novo erro terá uma redução aproximada de 12%. Ou seja, o ganho de precisão é bem
+menor e a alternativa D está correta.
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                              240
+        www.estrategiaconcursos.com.br                                                                 297
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+42.    (FGV/2011 – AFRE/RJ) Um processo X segue uma distribuição normal com média populacional
+desconhecida, mas com desvio-padrão conhecido e igual a 4. Uma amostra com 64 observações dessa
+população é feita, com média amostral 45. Dada essa média amostral, a estimativa da média populacional,
+a um intervalo de confiança de 95%, é
+a) (41;49).
+b) (37;54).
+c) (44,875;45,125).
+d) (42,5;46,5).
+e) (44;46).
+Comentários:
+Sabendo que o processo segue distribuição normal com média desconhecida, mas com desvio padrão
+conhecido (𝜎 = 4), então a média amostral seguirá distribuição normal e o intervalo será da forma:
+                                                                  𝜎
+                                                        𝑋̅ ± 𝑧.
+                                                                  √𝑛
+O enunciado informa que a média amostral é 𝑋̅ = 45 e o tamanho amostral é 𝑛 = 64. Para um intervalo de
+confiança de 95%, o valor crítico da normal padrão é 𝑧 = 1,96. Assim, o intervalo é:
+                                   𝜎                   4             4
+                         𝑋̅ + 𝑧.        = 45 + 1,96       = 45 + 1,96 = 45 + 0,98 ≅ 46
+                                   √𝑛                 √64            8
+                                   𝜎                   4             4
+                         𝑋̅ − 𝑧.        = 45 − 1,96       = 45 − 1,96 = 45 − 0,98 ≅ 44
+                                   √𝑛                 √64            8
+Gabarito: E
+
+
+43.    (FGV/2010 – Fiscal de Rendas/RJ) Para estimar a proporção p de pessoas acometidas por uma certa
+gripe numa população, uma amostra aleatória simples de 1600 pessoas foi observada e constatou-se que,
+dessas pessoas, 160 estavam com a gripe.
+Um intervalo aproximado de 95% de confiança para p será dado por:
+
+a) (0,066, 0,134).
+
+b) (0,085, 0,115).
+
+c) (0,058, 0,142).
+
+d) (0,091, 0,109).
+
+e) (0,034, 0,166).
+
+         Receita Federal (Analista Tributário) Estatística                                          241
+         www.estrategiaconcursos.com.br                                                             297
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Comentários:
+A partir da proporção amostral, o intervalo de confiança é calculado como:
+
+                                                                    𝑝̂ . 𝑞̂
+                                                        𝑝̂ ± 𝑧. √
+                                                                     𝑛
+
+A proporção encontrada na amostra foi de:
+                                                              160
+                                                      𝑝̂ =         = 0,1
+                                                              1600
+Logo, 𝑞̂ = 1 − 𝑝̂ = 0,9.
+Também sabemos que o tamanho amostral é 𝑛 = 1600 e o valor de 𝑧 para um intervalo de confiança de
+                                                                              𝑝̂.𝑞̂
+95% é 𝑧 = 1,96. Portanto, a margem de erro do intervalo, 𝑧. √ 𝑛 , é:
+
+
+                          𝑝̂ . 𝑞̂           0,1 × 0,9           0,09         0,3
+                   𝑧. √           = 1,96. √           = 1,96. √      = 1,96.     = 0,0147 ≅ 0,015
+                           𝑛                  1600              1600         40
+
+Assim, o intervalo é:
+
+                                                     𝑝̂ . 𝑞̂
+                                         𝑝̂ + 𝑧. √           = 0,1 + 0,015 = 0,115
+                                                      𝑛
+
+                                                     𝑝̂ . 𝑞̂
+                                         𝑝̂ − 𝑧. √           = 0,1 − 0,015 = 0,085
+                                                      𝑛
+
+Gabarito: B
+
+
+44.    (FGV/2009 – Fiscal de Rendas/RJ) Para examinar a opinião de uma população sobre uma proposta,
+foi montada uma pesquisa de opinião em que foram ouvidas 1680 pessoas, das quais 51,3% se declararam
+favoráveis à proposta. Os analistas responsáveis determinaram que a margem de erro desse resultado,
+em um determinado nível de confiança, era de 2 pontos percentuais, para mais ou para menos.
+Considerando que fosse desejada uma margem de erro de 1 ponto percentual, para mais ou para menos,
+no mesmo nível de confiança, assinale a alternativa que indique o número de pessoas que deveriam ser
+ouvidas.
+
+a) 840
+
+b) 2520
+
+c) 3360
+
+          Receita Federal (Analista Tributário) Estatística                                         242
+          www.estrategiaconcursos.com.br                                                            297
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 11
+
+d) 5040
+
+e) 6720
+
+Comentários:
+O tamanho da amostra, em função da proporção amostral e da margem de erro, é dado por 2:
+                                                            𝑧 2
+                                                       𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                            𝐸
+Para o erro cair pela metade, precisamos que o novo tamanho da amostra seja de:
+                                             2
+                                      𝑧                𝑧    2              𝑧 2
+                              𝑛2 = (      ) 𝑝̂ . 𝑞̂ = ( × 2) 𝑝̂ . 𝑞̂ = 4. ( ) 𝑝̂ . 𝑞̂ = 4. 𝑛
+                                     𝐸⁄                𝐸                   𝐸
+                                        2
+Ou seja, o tamanho da amostra precisa quadruplicar. Se anteriormente a amostra era 𝑛 = 1680, a nova
+amostra precisa ser de:
+                                                 𝑛2 = 4 × 1680 = 6720
+Gabarito: E
+
+
+45.   (FGV/2008 – Senado Federal) Na estimação da média de uma população cujo desvio-padrão é 4,
+usando uma amostra aleatória de tamanho 120, obteve-se o seguinte intervalo de 95% de confiança para
+a média: 5 ± 2. O tamanho de amostra que deverá ser considerado para que o comprimento do intervalo
+de 95% seja reduzido à metade é
+a) 60
+b) 240
+c) 300
+d) 360
+e) 480
+Comentários:
+
+2 Se preferir, desenvolva essa fórmula a partir da fórmula do Erro:
+
+                                                                     𝑝̂ . 𝑞̂
+                                                        𝐸 =𝑧×√
+                                                                      𝑛
+
+                                                             𝑧 2 . 𝑝̂ . 𝑞̂
+                                                         𝐸2 =
+                                                                  𝑛
+                                                             𝑧  2
+                                                        𝑛 = ( ) 𝑝̂ . 𝑞̂
+                                                             𝐸
+
+
+          Receita Federal (Analista Tributário) Estatística                                      243
+          www.estrategiaconcursos.com.br                                                         297
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+Para calcular o tamanho da amostra necessário para reduzir a margem de erro à metade, vamos considerar
+a fórmula do tamanho amostral:
+                                                              𝜎 2
+                                                      𝑛1 = (𝑧. )
+                                                              𝐸
+Ao dividirmos o erro por 2, temos:
+                                              2
+                                      𝜎       𝜎    2         𝜎 2
+                              𝑛2 = (𝑧. ) = (𝑧. × 2) = 4 × (𝑧. ) = 4 × 𝑛1
+                                      𝐸       𝐸              𝐸
+                                      2
+Ou seja, para que o erro seja reduzido à metade, a amostra precisa ser quadruplicada. Como a amostra inicial
+era 𝑛1 = 120, a nova amostra será:
+                                            𝑛2 = 4 × 𝑛1 = 4 × 120 = 480
+Gabarito: E
+
+
+46.     (FGV/2008 – Senado Federal) Uma amostra aleatória simples X1, X2, ..., X16, de tamanho 16, de uma
+distribuição normal foi observada e indicou as seguintes estatísticas:
+                                            𝟏𝟔                𝟏𝟔
+
+                                                                 ̅)𝟐 = 𝟔𝟎
+                                            ∑ 𝒙𝒊 = 𝟕𝟎, 𝟒; ∑(𝒙𝒊 − 𝒙
+                                            𝒊=𝟏              𝒊=𝟏
+
+O intervalo usual de 95% de confiança para a média populacional, com duas casas decimais, é
+
+a) (3,58; 5,22).
+
+b) (3,47; 5,33).
+
+c) (3,33; 5,47).
+
+d) (3,19; 5,61).
+
+e) (3,01; 5,81).
+
+Para essa questão, utilize a tabela apresentada ao final desta seção, fornecida na prova:
+Comentários:
+O enunciado informa que a população segue distribuição normal, mas não informa a variância da população,
+tendo apresentado dados que permitem calcular a variância amostral. Dessa forma, precisamos utilizar a
+distribuição de t-Student, em que o intervalo de confiança é da forma:
+                                                                    𝑠
+                                                      𝑋̅ ± 𝑡𝑛−1 .
+                                                                    √𝑛
+
+         Receita Federal (Analista Tributário) Estatística                                               244
+         www.estrategiaconcursos.com.br                                                                  297
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 11
+
+A média amostral é a razão entre a soma dos valores observados e o número de elementos da amostra. O
+enunciado forneceu o resultado da soma dos elementos (∑ 𝑥 = 70,4) e informou que o tamanho da amostra
+é 𝑛 = 16:
+                                                       ∑ 𝑥 70,4
+                                                𝑋̅ =      =     = 4,4
+                                                        𝑛   16
+O valor do desvio padrão, 𝑠, pode ser obtido a partir da variância amostral:
+                                                    ∑(𝑥𝑖 − 𝑥̅ )2 60
+                                             𝑠2 =               =    =4
+                                                      𝑛−1         15
+Logo, o desvio padrão é 𝑠 = √𝑠 2 = √4 = 2.
+A tabela de t-Student fornecida, considera o valor de 𝑝 = 𝛼, isto é, o nível de significância, complementar
+do nível de confiança, que é de 95%:
+                                              𝛼 = 100% − 95% = 5%
+Considerando 𝑛 − 1 = 15 graus de liberdade, para p = 5%, temos 𝑡𝑛−1 = 2,131. Assim, o intervalo é:
+                                 𝑠                      2
+                       𝑋̅ + 𝑡.        = 4,4 + 2,131 ×     = 4,4 + 1,0655 = 5,4655 ≅ 5,47
+                                 √𝑛                     4
+                                 𝑠                      2
+                       𝑋̅ − 𝑡.        = 4,4 − 2,131 ×     = 4,4 − 1,0655 = 3,3345 ≅ 3,33

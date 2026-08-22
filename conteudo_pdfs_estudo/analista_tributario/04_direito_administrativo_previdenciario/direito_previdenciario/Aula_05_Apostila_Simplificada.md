@@ -1,0 +1,5128 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 05_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Maurício
+artigos_citados:
+- Art. 457...
+- Art. 496
+- art. 201.
+- art. 214
+- art. 22
+- art. 239
+- art. 32
+- art. 7º
+sumulas_citadas:
+- Súmula 207
+- Súmula 247
+- Súmula 261
+- Súmula 437
+- Súmula 67
+- Súmula 688
+---
+
+# Maurício
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                         Direito Previdenciário - Prof. Rubens
+                                                      Maurício
+
+                                                        Autor:
+                                     Rubens Mauricio Corrêa
+
+                                         08 de Setembro de 2025
+
+---
+
+      Rubens Mauricio Corrêa
+      Aula 04
+
+                                                                                     Índice
+1) Salário-de-Contribuição - Simplificado
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                          110
+
+                                                             
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    SALÁRIO DE CONTRIBUIÇÃO
+
+    INTRODUÇÃO
+
+    Trata-se de um conceito previdenciário, destinado a identificar quais parcelas
+    recebidas pelo segurado sofrerão ou não a incidência da contribuição
+    previdenciária.
+
+    Podemos afirmar, portanto, que o salário de contribuição é, em regra, a base de
+    cálculo utilizada para se calcular o valor da contribuição devida pelo trabalhador,
+    destinada à Previdência Social. Essa regra não é absoluta, pois no caso do segurado
+    especial a base de cálculo é a receita bruta da comercialização de sua produção
+    rural, e não seu salário de contribuição.
+
+    O salário de contribuição, contudo, não deve ser confundido com a remuneração
+    do segurado, pois, em relação ao salário de contribuição, deve ser observado os
+    limites mínimo e máximo previstos em lei.
+
+    Podemos afirmar, portanto, que a remuneração (sem limites mínimo e máximo) é,
+    em regra, a base de cálculo da contribuição previdenciária das empresas. Por outro
+    lado, o salário de contribuição é, em regra, a base de cálculo da contribuição dos
+    segurados (exceto segurado especial).
+
+           Observação 1: O segurado especial, em regra, não contribui sobre seu
+           salário de contribuição. Sua contribuição será sobre a receita bruta da
+           comercialização da sua produção rural. No entanto, como já estudado, o
+           segurado especial poderá recolher facultativamente uma contribuição de
+           20% sobre seu salário de contribuição (além da contribuição obrigatória
+           sobre a receita bruta da comercialização de sua produção rural). Neste
+           caso, o salário de contribuição do segurado especial será o valor por ele
+           declarado, observados os limites mínimos e máximo.
+
+
+           Observação 2: A base de cálculo da contribuição do empregador
+           doméstico é o salário de contribuição do empregado doméstico a seu
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    3
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           serviço, respeitando, portanto, os limites mínimo e máximo. (não é a
+           remuneração total do empregado)
+
+
+    SALÁRIO DE CONTRIBUIÇÃO X REMUNERAÇÃO
+
+    Como já alertado, não devemos confundir os conceitos previdenciário de salário de
+    contribuição com remuneração.
+
+    Em regra, a base de cálculo das contribuições previdenciárias das empresas é a
+    remuneração paga, devida ou creditada aos trabalhadores a seu serviço, em
+    retribuição pelo trabalho prestado, não se sujeitando a qualquer limite mínimo ou
+    máximo.
+
+    Por sua vez, o salário de contribuição tem limite mínimo e máximo. Outrossim, o
+    salário de contribuição não é utilizado como base de cálculo da contribuição da
+    empresa, mas tão somente para cálculo das contribuições dos segurados e dos
+    empregadores domésticos.
+
+    Em exceção a esta regra, temos o segurado especial, cuja base de cálculo é a
+    receita bruta da comercialização de sua produção rural, e não seu salário de
+    contribuição.
+
+    Apesar das noções introdutórias acerca do salário de contribuição, temos um
+    conceito mais específico para cada tipo de segurado e para o empregador
+    doméstico, conforme estudaremos a seguir.
+
+    CONCEITO DE SALÁRIO DE CONTRIBUIÇÃO                                                      -   SEGURADO
+    EMPREGADO E TRABALHADOR AVULSO
+
+    Nos termos do art. 28, inciso I, da Lei n 8.212/91, entende-se por salário de
+    contribuição, para o empregado e trabalhador avulso:
+
+           Lei 8.212/91.
+
+           Art. 28. (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               4
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           I - a remuneração auferida em uma ou mais empresas, assim entendida a totalidade dos
+           rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a
+           retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais
+           sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+           serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador
+           de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de
+           trabalho ou sentença normativa.
+
+    Limites do Salário De Contribuição - Segurado Empregado e Trabalhador Avulso
+
+    Os limites mínimo e máximo do salário de contribuição para o segurado
+    empregado e trabalhador avulso encontram-se abaixo discriminado:
+
+           Limite Máximo: Nos termos da PORTARIA INTERMINISTERIAL MTP/ME
+           Nº 12, DE 17 DE JANEIRO DE 2022, o limite máximo do salário de
+           contribuição para o ano de 2022 é de R$ 7.087,22.
+
+           Limite Mínimo: É o piso salarial legal ou normativo da categoria ou,
+           inexistindo este, o salário mínimo, tomado no seu valor mensal, diário ou
+           horário, conforme o ajustado e o tempo de trabalho efetivo durante o
+           mês.
+
+    CONCEITO DE SALÁRIO                               DE       CONTRIBUIÇÃO                  -   SEGURADO
+    EMPREGADO DOMÉSTICO
+
+    Nos termos do art. 28, inciso II, da Lei n 8.212/91, entende-se por salário de
+    contribuição, para o empregado doméstico:
+
+           Art. 28. (...)
+
+           II - a remuneração registrada na Carteira de Trabalho e Previdência Social, observadas as
+           normas a serem estabelecidas em regulamento para comprovação do vínculo empregatício
+           e do valor da remuneração.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               5
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Limites do Salário De Contribuição - Segurado Empregado Doméstico
+
+    Os limites mínimo e máximo do salário de contribuição para o segurado
+    empregado doméstico encontram-se abaixo discriminado:
+
+           Limite Máximo: Nos termos da PORTARIA INTERMINISTERIAL MTP/ME
+           Nº 12, DE 17 DE JANEIRO DE 2022, o limite máximo do salário de
+           contribuição para o ano de 2022 é de R$ 7.087,22.
+
+           Limite Mínimo: É o piso salarial legal ou normativo da categoria ou,
+           inexistindo este, ao salário mínimo, tomado no seu valor mensal, diário
+           ou horário, conforme o ajustado e o tempo de trabalho efetivo durante o
+           mês.
+
+    CONCEITO DE SALÁRIO                                DE       CONTRIBUIÇÃO                 -   SEGURADO
+    CONTRIBUINTE INDIVIDUAL
+
+    Nos termos do art. 28, inciso III, da Lei n 8.212/91, entende-se por salário de
+    contribuição, para o contribuinte individual:
+
+           Art. 28. (...) III - a remuneração auferida em uma ou mais empresas ou pelo exercício de sua
+           atividade por conta própria, durante o mês.
+
+    Limites do Salário de Contribuição - Segurado Contribuinte Individual
+
+    Os limites mínimo e máximo do salário de contribuição para o segurado
+    contribuinte individual encontram-se abaixo discriminado:
+
+           Limite Máximo: Nos termos da PORTARIA INTERMINISTERIAL MTP/ME
+           Nº 12, DE 17 DE JANEIRO DE 2022, o limite máximo do salário de
+           contribuição para o ano de 2022 é de R$ 7.087,22.
+
+           Limite Mínimo: É o salário mínimo, tomado no seu valor mensal.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               6
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    *ATENÇÃO: O limite mínimo do salário de contribuição para o contribuinte
+    individual é apenas o salário mínimo no seu valor mensal, independentemente de
+    quantos dias tenha trabalhado no mês.
+
+    CONCEITO DE                    SALÁRIO            DE       CONTRIBUIÇÃO                  -   SEGURADO
+    FACULTATIVO
+
+    Nos termos do art. 28, inciso IV, da Lei n 8.212/91, entende-se por salário de
+    contribuição, para o segurado facultativo:
+
+           Art. 28 (...) IV - “o valor por ele declarado”.
+
+    Limites do Salário De Contribuição - Segurado Facultativo
+
+    Os limites mínimo e máximo do salário de contribuição para o segurado facultativo
+    encontram-se abaixo discriminado:
+
+           Limite Máximo: Nos termos da PORTARIA INTERMINISTERIAL MTP/ME
+           Nº 12, DE 17 DE JANEIRO DE 2022, o limite máximo do salário de
+           contribuição para o ano de 2022 é de R$ 7.087,22.
+
+           Limite Mínimo: É o salário mínimo, tomado no seu valor mensal.
+
+    ATENÇÃO: O limite mínimo do salário de contribuição para o segurado facultativo,
+    assim como ocorre com o contribuinte individual, é apenas o salário mínimo no seu
+    valor mensal.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               7
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    REAJUSTAMENTO
+
+    Nos termos do art. 28, § 5º, da Lei n 8.212/91, o limite máximo do salário de
+    contribuição será reajustado na mesma época e com os mesmos índices que os do
+    reajustamento dos benefícios de prestação continuada da Previdência Social.
+
+    No ano de 2022, o reajustamento do limite máximo do salário de contribuição
+    ocorreu por meio da PORTARIA INTERMINISTERIAL MTP/ME Nº 12, DE 17 DE
+    JANEIRO DE 2022, que reajustou em 5,45%, a partir de 1º de janeiro de 2022, os
+    benefícios pagos pelo Instituto Nacional do Seguro Social (INSS), bem como os
+    valores da Tabela de Salários de Contribuição aplicável aos segurados
+    empregados, domésticos e trabalhadores avulsos.
+
+    Os valores foram atualizados segundo o INPC (Índice Nacional de Preços ao
+    Consumidor), medido pelo IBGE (Instituto Brasileiro de Geografia e Estatística).
+
+    PAGAMENTO “PELO TRABALHO” X PAGAMENTO “PARA O
+    TRABALHO”
+
+    Integram o salário de contribuição as parcelas remuneratórias, ou seja, aquelas
+    compreendidas no conceito de remuneração e pagas ao trabalhador em retribuição
+    ao serviço prestado. Tais parcelas são pagas PELO TRABALHO (destinadas a
+    retribuir o trabalho), representando um acréscimo ao patrimônio do trabalhador.
+    O art. 457 da CLT dispõe, acerca da remuneração, que a mesma é composta pelo
+    salário mais as gorjetas, senão vejamos:
+           “Art. 457 - Compreendem-se na remuneração do empregado, para todos os efeitos legais,
+           além do salário devido e pago diretamente pelo empregador, como contraprestação do
+           serviço, as gorjetas que receber.”
+
+    Por outro lado, temos parcelas recebidas pelo trabalhador com o objetivo de dar
+    condições ou facilitar a execução do trabalho, ou a ressarcir um valor que o
+    empregado tenha tido que desembolsar em razão da sua atividade.
+    Neste caso, dizemos que tais valores foram pagos PARA O TRABALHO, sem
+    representar um acréscimo patrimonial. Assim sendo, não deverão integrar o salário
+    de contribuição.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      8
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Em regra, os valores pagos, visando uma indenização ou ressarcimento do
+    trabalhador, não são considerados como parcelas integrantes do salário de
+    contribuição.
+    Importante destacar que, apesar de remuneração e de salário de contribuição ter
+    conceitos diferentes dentro do direito previdenciário, as parcelas que não integram
+    o salário de contribuição não integrarão, também, a remuneração.
+
+    INDENIZAÇÃO E RESSARCIMENTO
+
+    Para melhor compreensão do assunto, vamos conceituar indenização e
+    ressarcimento:
+
+           Indenização: destina-se a reparar um dano, não integrando o salário de
+           contribuição.
+
+           Ressarcimento: é o reembolso de despesas pagas pelo trabalhador,
+           quando executa alguma atividade de interesse do empregador, não
+           integrando, também, o salário de contribuição.
+
+    PARCELAS INTEGRANTES DO SALÁRIO DE CONTRIBUIÇÃO
+
+    As parcelas integrantes do salário de contribuição são estudadas de forma
+    exemplificativa, pois a legislação previdenciária relaciona de forma exaustiva em
+    seu texto, tão somente, as parcelas não integrantes do salário de contribuição.
+    Assim sendo, podemos concluir que, em regra, todas as parcelas cuja legislação
+    previdenciária não afaste expressamente do campo de incidência e se enquadrem
+    no conceito de remuneração (direta ou indireta), serão consideradas parcelas
+    integrantes do salário de contribuição e, consequentemente, estarão no campo de
+    exigência tributária.
+
+    Para efeito de prova, segue relação com as principais parcelas que integram o
+    salário de contribuição:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    9
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Salário
+
+    Assim dispõe o § 1º do art. 457 da CLT acerca do salário:
+
+              “Integram o salário a importância fixa estipulada, as gratificações legais e as comissões
+              pagas pelo empregador.”
+
+    Além do salário, também integram o salário de contribuição o saldo de salário
+    pagos na rescisão do contrato de trabalho, pois são pagos pelos dias trabalhados
+    pelo empregado no mês da rescisão. Desta forma, incidirá contribuição
+    previdenciária sobre o salário e respectivo saldo pago na rescisão.
+
+    Salário Maternidade (cota patronal deixou de integrar o salário de contribuição)
+
+    Assim dispõe o § 2º do art. 28 da Lei nº 8.212/91:
+
+              “O salário-maternidade é considerado salário de contribuição”.
+
+    Contudo, Supremo Tribunal Federal (STF), no julgamento do Recurso
+    Extraordinário nº 576.967/PR, declarou a inconstitucionalidade de dispositivos da
+    Lei 8.212/1991 que instituíam a cobrança da contribuição previdenciária patronal (a
+    cargo do empregador) sobre o salário-maternidade. Com base nesse
+    entendimento, a Procuradoria Geral da Fazenda Nacional editou o PARECER SEI
+    Nº 18361/2020/ME, em que orienta os órgãos da Administração para se
+    adequarem, mediante autorização para dispensa de contestar e recorrer. A decisão
+    tem repercussão geral, tendo-se fixada a seguinte tese: “É inconstitucional a
+    incidência da contribuição previdenciária a cargo do empregador sobre o salário
+    maternidade".
+
+
+    Salário-maternidade é um benefício previdenciário devido à segurada em função
+    de:
+
+          •    Parto;
+          •    Adoção;
+          •    Guarda judicial para fins de adoção; ou
+          •    Aborto não criminoso
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            10
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           IMPORTANTE: o salário-maternidade era o único dos benefícios devidos
+           pelo Regime Geral de Previdência Social - RGPS que integrava o salário
+           de contribuição. Agora nenhum benefício do RGPS integra o salário de
+           contribuição para o empregador. Contudo, o entendimento da
+           Procuradoria da Fazenda Nacional e da Secretaria da Receita Federal do
+           Brasil é no sentido de que continua incidindo a contribuição do segurado
+           sobre a parcela de salário-maternidade.
+
+    Férias Gozadas
+
+    Trata-se de um direito assegurado pela CF/88 aos empregados e trabalhadores
+    avulsos, que terão direito a férias anuais remuneradas de 30 dias com, pelo menos,
+    1/3 a mais que o salário normal, após cada período de 12 meses de trabalho. No
+    entanto, tal direito foi estendido, também, aos empregados domésticos pela Lei nº
+    11.324/2006.
+
+           FÉRIAS GOZADAS: São aquelas férias usufruídas pelo trabalhador,
+           durante a vigência do contrato de trabalho, que se afasta de suas
+           atividades laborativas para descansar, recebendo sua remuneração
+           acrescida de 1/3.
+
+    Não podemos confundir férias gozadas com férias indenizadas. As férias gozadas
+    integram o salário de contribuição. As férias indenizadas, como estudaremos
+    adiante, não integram.
+
+           FÉRIAS INDENIZADAS: são aquelas que não chegaram a ser gozadas
+           pelo trabalhador dentro do seu contrato de trabalho. Neste caso, caso o
+           trabalhador já tenha adquirido direito às férias, porém não as tenha
+           gozado oportunamente durante o contrato de trabalho, deverão ser
+           indenizadas, ou seja, convertidas em dinheiro e pagas ao trabalhador
+           quando da rescisão do seu contrato de trabalho. As férias indenizadas,
+           pagas ao trabalhador quando da rescisão do contrato de trabalho, não
+           integram o salário de contribuição, ou seja, sobre elas não incidirá
+           contribuição social previdenciária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   11
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           A Jurisprudência recente do STJ tem decidido favoravelmente à incidência de contribuição
+           previdenciária sobre as férias gozadas, por considerá-la verba de natureza remuneratória e
+           salarial, nos termos do art. 148 da CLT, integrando, portanto, o salário de contribuição (Resp
+           1240038/PR, DJe 02/05/2014).
+
+    Décimo Terceiro Salário (13º Salário)
+
+    Também denominado gratificação natalina, o 13º salário corresponde a 1/12 da
+    remuneração devida em dezembro, por mês de serviço no ano ou fração igual ou
+    superior a 15 dias de trabalho no mês.
+
+    O 13º salário integra o salário de contribuição para efeito de recolhimento de
+    contribuição previdenciária. No entanto, não integrará o cálculo do salário de
+    benefício, para apuração da renda mensal inicial do benefício a ser pago pelo INSS
+    ao segurado ou seu dependente.
+
+    As respectivas contribuições, decorrentes do pagamento do 13º salário, serão
+    devidas quando do pagamento ou crédito da última parcela ou na rescisão do
+    contrato de trabalho, sendo calculada sempre em separado da remuneração do
+    mês.
+
+    A respeito da incidência de contribuição previdenciária sobre o 13º salário, o STF
+    editou a Súmula 688, senão vejamos:
+
+            “Súmula 688: É legítima a incidência da contribuição previdenciária sobre o 13º salário”.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              12
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Horas Extras
+
+    Hora extra consiste no tempo laborado além da jornada diária estabelecida pela
+    legislação.
+
+    Segundo o art. 7º, inciso XVI, da CF/88, são direitos dos trabalhadores urbanos e
+    rurais, além de outros que visem à melhoria de sua condição social, a remuneração
+    do serviço extraordinário superior, no mínimo, em 50% à do normal.
+
+    As horas extras têm natureza salarial (e não indenizatória), pois são pagas como
+    uma contraprestação pelo trabalho prestado após a jornada normal de trabalho.
+
+           O STJ, ao apreciar o REsp1.358.281/SP, em 23/04/2014, decidiu, por unanimidade, que
+           incide contribuição previdenciária sobre o adicional de horas extras, devendo tal decisão ser
+           observada pelas instâncias inferiores.
+
+    Gorjetas
+
+    Considera-se gorjeta a parte da remuneração do empregado que não é paga
+    diretamente por seu empregador, mas por terceiros, normalmente clientes,
+    denominadas gorjetas espontâneas.
+
+    Também se considera gorjeta a importância cobrada pela empresa do cliente,
+    como adicional nas contas, a ser posteriormente distribuída entre seus
+    empregados. Trata-se da gorjeta conhecida como compulsória. (exemplo: 10% em
+    contas de restaurantes)
+
+    O art. 457 da CLT dispõe, acerca da remuneração, que a mesma é composta pelo
+    salário mais as gorjetas, senão vejamos:
+
+           “Art. 457 - Compreendem-se na remuneração do empregado, para todos os efeitos legais,
+           além do salário devido e pago diretamente pelo empregador, como contraprestação do
+           serviço, as gorjetas que receber.
+
+           (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             13
+      www.estrategiaconcursos.com.br                                                                  110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           § 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao
+           empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a
+           qualquer título, e destinado à distribuição aos empregados.”
+
+    Como integram o conceito de remuneração, as gorjetas integram o salário de
+    contribuição. Desta forma, haverá incidência da contribuição previdenciária sobre
+    tais parcelas.
+
+    O STJ também tem julgado neste sentido, nos termos do REsp 1.099.319/RJ,
+    publicada em 12/09/2012, senão vejamos:
+
+           "A gorjeta, compulsória ou inserida na nota de serviço, tem natureza salarial. Em
+           consequência, há de ser incluída no cálculo de vantagens trabalhistas e deve sofrer a
+           incidência de tributos e contribuições que incidem sobre o salário”
+
+    Comissões e Percentagens
+
+    Comissões é uma recompensa retributiva, na maioria das vezes financeira,
+    condicionada a determinado serviço realizado pelo trabalhador, oferecida pela
+    intermediação de negócios ou cumprimento de metas ou objetivos definidos
+    previamente com o intuito de incentivar os resultados comerciais.
+
+    Segundo o § 1º, do art. 457 da CLT, acerca das parcelas integrantes do salário,
+    temos que:
+
+           “Art. 457...
+
+           § 1º - Integram o salário a importância fixa estipulada, as gratificações legais e as comissões
+           pagas pelo empregador”.
+
+    Assim sendo, as comissões e percentagens integram o salário de contribuição e
+    fazem parte, portanto, da base de cálculo das contribuições previdenciárias.
+
+    Obs.: Caso o empregado seja remunerado exclusivamente por meio de comissões,
+    terá direito a um salário mensal nunca inferior a um salário mínimo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               14
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Salário pago sob a forma de utilidades
+
+    Nos termos do art. 28, inciso I, da Lei n 8.212/91, entende-se por salário de
+    contribuição, para o empregado e trabalhador avulso:
+
+              “Art. 28 (...)
+
+              I - a remuneração auferida em uma ou mais empresas, assim entendida a totalidade dos
+              rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a
+              retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais
+              sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+              serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador
+              de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de
+              trabalho ou sentença normativa.”
+
+    A CLT admite que uma parte do salário do trabalhador seja paga sob a forma de
+    utilidades, também conhecido como salário in natura. No entanto, pelo menos 30%
+    do salário deve ser pago em dinheiro. Considera-se pagamento em utilidades o
+    fornecimento habitual ao trabalhador de outro bem, diferente do dinheiro, por
+    força de contrato ou de costume, como retribuição pelo seu trabalho.
+
+    Consideram-se utilidades, dentre outras:
+
+          •    Alimentação (máximo 20% do salário-contratual);
+          •    Habitação (máximo 25% do salário-contratual);
+          •    Vestuário;
+          •    Higiene;
+          •    Transporte;
+          •    etc.
+
+    Tais pagamentos, em regra, integram o salário de contribuição. No entanto, para
+    que o salário pago sob forma de utilidades integre o salário de contribuição deverá
+    observar as seguintes condições:
+
+          • Fornecimento Habitual;
+          • Ser concedida em retribuição ao trabalho prestado, ou seja, pelo trabalho.
+
+    Se a prestação in natura for fornecida para o trabalho, não terá natureza salarial.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  15
+      www.estrategiaconcursos.com.br                                                                       110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Em relação à alimentação fornecida pela empresa ao trabalhador, não se considera
+    salário-utilidade quando tal prestação for fornecida de acordo com o Programa de
+    Alimentação do Trabalhador – PAT, como iremos estudar adiante.
+
+           EXEMPLO: Algumas empresas oferecem a seus funcionários do alto
+           escalão um imóvel para que o mesmo resida com sua família. A empresa
+           paga, em regra, o aluguel, condomínio e, muitas vezes, até mesmo as
+           contas de água, luz, telefone, etc. Nesses casos, temos pagamento de
+           salários in natura, por meio de utilidades, os quais devem ter seus valores
+           somados à respectiva remuneração para fins de incidência de
+           contribuições previdenciárias.
+
+    Remuneração do aposentado que volta a trabalhar
+
+    Tal situação está prevista no § 4º, do art. 12 da Lei nº 8.212/91, conforme segue:
+
+           “Art. 12...
+
+           ...
+
+           § 4º O aposentado pelo Regime Geral de Previdência Social - RGPS que estiver exercendo
+           ou que voltar a exercer atividade abrangida por este Regime é segurado obrigatório em
+           relação a essa atividade, ficando sujeito às contribuições previdenciárias, para fins de custeio
+           da Seguridade Social”.
+
+    IMPORTANTE: Não confundir a remuneração recebida por aposentado que volte
+    a trabalhar, em retribuição a seu trabalho, com a aposentadoria recebida da
+    Previdência Social. Apenas a remuneração pelo trabalho integrará o salário de
+    contribuição. A aposentadoria, como benefício previdenciário que é, não sofre
+    incidência de contribuição previdenciária.
+
+    O próprio STF , ao julgar o RE 437640/RS, publicado em 02/03/2007, decidiu neste
+    sentido, conforme segue:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                16
+      www.estrategiaconcursos.com.br                                                                     110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           Contribuição previdenciária: aposentado que retorna à atividade: CF, art. 201, § 4º; L.
+           8.212/91, art. 12: aplicação à espécie, mutatis mutandis, da decisão plenária da ADIn 3.105,
+           red.p/acórdão Peluso, DJ 18.2.05. A contribuição previdenciária do aposentado que retorna
+           à atividade está amparada no princípio da universalidade do custeio da Previdência Social
+           (CF, art. 195); o art. 201, § 4º, da Constituição Federal "remete à lei os casos em que a
+           contribuição repercute nos benefícios"
+
+    Gratificações Ajustadas ou Habituais
+
+    As gratificações ajustadas (combinadas), entre empresa e seus trabalhadores,
+    integram o conceito de salário, nos termos do art. 457, § 1º, da CLT.
+
+    Tais ajustes, podem ser expressos ou tácitos:
+
+           AJUSTES EXPRESSOS: São as gratificações previstas em contrato de
+           trabalho, convenções coletivas, regulamentos da empresa, etc.
+
+           AJUSTES TÁCITOS: São as gratificações não previstas formalmente, mas
+           que são fornecidas ao trabalhador com habitualidade.
+
+    Neste sentido, temos a Súmula 207 do STF, conforme segue:
+
+           “Súmula 207: As gratificações habituais, inclusive a de Natal, consideram-se tacitamente
+           convencionadas, integrando o salário.”.
+
+    Assim sendo, as gratificações habituais, sejam elas expressas ou tácitas, terão a
+    incidência de contribuição previdenciária. Se as gratificações forem eventuais, não
+    haverá incidência de contribuição.
+
+    Quebra de Caixa
+
+    Quebra de caixa é a verba destinada a cobrir os riscos assumidos pelos
+    trabalhadores que lidam com manuseio constante de numerário, diretamente no
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            17
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    caixa da empresa, fazendo recebimentos e pagamentos em nome do empregador,
+    visando compensar possíveis diferenças de caixa.
+
+    Usualmente, é paga aos caixas de banco, de supermercados, agências lotéricas,
+    etc.
+
+    Não há, na legislação, obrigatoriedade de pagamento do "Adicional de Quebra de
+    Caixa". Porém, é comum que os Acordos ou Convenções Coletivas de Trabalho
+    fixem tal obrigatoriedade, em relação àqueles empregados sujeitos ao risco de
+    erros de contagem ou enganos relativos a transações de valores monetários.
+
+    Assim dispõe a Súmula 247 do TST:
+
+           “Súmula 247: A parcela paga aos bancários sob a denominação quebra de caixa possui
+           natureza salarial, integrando o salário do prestador dos serviços, para todos os efeitos
+           legais”.
+
+    Adicional por tempo de serviço
+
+    Trata-se do conhecido anuênio, triênio, quinquênio, etc, pagos pela empresa,
+    basicamente, como uma forma de incentivar os trabalhadores a permanecerem na
+    empresa por mais tempo e beneficiar os trabalhadores mais antigos que possuem,
+    teoricamente, mais experiência.
+
+    Assim dispõe a Súmula 203 do TST:
+
+           “Súmula 203: A gratificação por tempo de serviço integra o salário para todos os efeitos
+           legais.”.
+
+    Desta forma, os valores pagos a título de adicional por tempo de serviço integram
+    o salário de contribuição, havendo, portanto, incidência de contribuição
+    previdenciária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        18
+      www.estrategiaconcursos.com.br                                                              110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Adicionais de Insalubridade, Periculosidade e Noturno
+
+    Nos termos da CLT, consideram-se:
+
+          • ATIVIDADES INSALUBRES: Aquelas que, por sua natureza, condições ou
+            métodos de trabalho, exponham os empregados a agentes nocivos à saúde,
+            acima dos limites de tolerância fixados em razão da natureza e da intensidade
+            do agente e do tempo de exposição aos seus efeitos.
+
+    Assegura ao trabalhador a percepção de adicional de 40%, 20% ou 10% sobre o
+    salário mínimo (conforme o grau da insalubridade seja, respectivamente, máximo,
+    médio ou mínimo)
+
+
+          • ATIVIDADES PERIGOSAS: São consideradas atividades ou operações
+            perigosas, na forma da regulamentação aprovada pelo Ministério do
+            Trabalho e Emprego, aquelas que, por sua natureza ou métodos de trabalho,
+            impliquem risco acentuado em virtude de exposição permanente do
+            trabalhador a:
+
+                 o Inflamáveis, explosivos ou energia elétrica;
+                 o Roubos ou outras espécies de violência física nas atividades
+                   profissionais de segurança pessoal ou patrimonial.
+
+    Assegura ao trabalhador a percepção de adicional de 30% sobre o salário básico
+    do empregado.
+
+          • ATIVIDADES NOTURNA: Considera-se noturno o trabalho executado por
+            empregado urbano entre as 22 horas de um dia e as 5 horas do dia seguinte.
+            No entanto, em relação ao trabalho rural, considera-se trabalho noturno
+            aquele executado entre as 21 horas de um dia e às 5 horas do dia seguinte
+            na lavoura. Outrossim, na atividade de pecuária, considera-se noturno
+            quando executado entre as 20 horas de um dia às 4 horas do dia seguinte.
+
+    Para o empregado urbano, o adicional noturno será de pelo menos 20% sobre a
+    hora diurna.
+    Para o trabalhador rural, o adicional será de 25% sobre a remuneração normal.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   19
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Tais adicionais de insalubridade, periculosidade e noturno possuem caráter
+    retributivo e, consequentemente, natureza salarial. Desta forma, tais rubricas
+    integram o salário de contribuição e sobre estes valores será cobrada contribuição
+    previdenciária.
+
+           O STJ, ao julgar o REsp 1.358.281/SP, em 23/04/2014, decidiu, por unanimidade, que incide
+           contribuição previdenciária sobre os adicionais de insalubridade, periculosidade e noturno.
+
+    Adicional de Transferência
+
+    Trata-se de um valor adicional pago ao empregado quando transferido
+    “provisoriamente” para outro local, importando mudança de residência. Tal
+    adicional não é devido nas transferências definitivas.
+
+    No caso de transferências provisórias, o empregador é obrigado a pagar um valor
+    complementar, de pelo menos 25% do salário contratual que o empregado estiver
+    recebendo na nova localidade, pelo tempo que durar a transferência provisória.
+
+    Tal adicional deverá integrar o salário de contribuição, incidindo sobre ele,
+    portanto, contribuição previdenciária.
+
+    Aviso-Prévio
+
+    O aviso-prévio é a notificação de rompimento do contrato de trabalho que uma
+    das partes (empregado ou empregador), dá à outra, sem motivo justificado.
+
+    O objetivo do aviso-prévio é:
+
+          • dar tempo ao empregado de procurar outro serviço, caso seja dado pelo
+            empregador;
+
+          • permitir ao empregado ter tempo de contratar um novo colaborador, caso
+            seja dado pelo empregado.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           20
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Além disso, o aviso-prévio se aplica somente a:
+
+          • contratos de trabalho de prazo indeterminado;
+
+          • contratos de trabalho de prazo determinado nos quais há uma cláusula que
+            assegure o direito de ambas as partes rescindirem antecipadamente.
+
+           Observação: o aviso-prévio não se aplica a empregados atuando sob
+           contrato de experiência, de maneira que, em casos assim, qualquer uma
+           das partes possa rescindi-lo sem que haja necessidade de notificar a outra
+           com antecedência.
+
+    O prazo do aviso-prévio é proporcional ao tempo de serviço do empregado na
+    mesma empresa, sendo que não pode ser menor do que 30 dias ou maior do que
+    90 dias.
+
+    Funcionários com até 1 ano no serviço têm direito a aviso-prévio de 30 dias. A cada
+    ano trabalhado, ganham direito a mais 3 dias, não podendo exceder o limite
+    máximo de 90 dias.
+
+    A contagem do prazo começa no dia seguinte ao da notificação de uma das partes.
+
+    Existem dois tipos de aviso-prévio, o trabalhado e o indenizado, conforme
+    explicado abaixo:
+
+           AVISO-PRÉVIO TRABALHADO: o empregado trabalha normalmente
+           durante o período de aviso prévio, não importando se a decisão de
+           desligamento foi tomada por parte dele ou pelo empregador.
+
+           AVISO-PRÉVIO INDENIZADO: a empresa dispensa o colaborador e paga
+           a ele o valor correspondente ao seu aviso prévio, de modo que o
+           funcionário não precise trabalhar durante o período.
+
+    Quando o aviso-prévio é trabalhado, não há dúvidas de que o valor recebido tem
+    natureza salarial, integrando o salário de contribuição e sofrendo incidência de
+    contribuição previdenciária.
+
+    No entanto, quando o aviso-prévio é indenizado, temos uma divergência entre lei
+    e jurisprudência.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   21
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Para a lei, incide contribuição previdenciária tanto no aviso-prévio trabalhado,
+    quanto no indenizado.
+
+    No entanto, no julgamento do REsp 1.230.957/RS, em 26/02/2014, o STJ decidiu
+    pela não incidência de contribuição previdenciária sobre o aviso-prévio indenizado.
+
+    Em prova de concursos, temos que responder da seguinte forma:
+
+           Caso a questão pergunte sobre o aviso-prévio indenizado “NOS TERMOS
+           DA LEI”: Responda que incide contribuição previdenciária.
+
+           Caso a questão pergunte sobre aviso-prévio indenizado “SEGUNDO
+           ENTENDIMENTO DA JURISPRUDÊNCIA”: Responda que não incide
+           contribuição previdenciária
+
+    Repouso Semanal Remunerado
+
+    O descanso semanal remunerado é um direito que todo trabalhador possui e, como
+    o nome sugere, trata-se de um dia na semana que o trabalhador é dispensado do
+    trabalho sem prejuízo do salário.
+
+    É assegurado aos trabalhadores urbanos e rurais o repouso semanal remunerado,
+    preferencialmente aos domingos, nos termos o art. 7º, inciso XV, da CF/88.
+
+    Durante o repouso semanal remunerado, mesmo sem trabalhar, o empregador é
+    obrigado a pagar o salário do empregado.
+
+    Tais valores, pagos pelos dias não trabalhados decorrentes de repouso semanal
+    não remunerado, bem como os valores pagos pelos feriados não trabalhados,
+    integrarão o salário de contribuição e, consequentemente, sofrerão incidência de
+    contribuição previdenciária. Esse também é o entendimento do STJ.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   22
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Auxílio-Moradia
+
+    A parcela paga a título de auxílio-moradia não está relacionada entre as exceções
+    legais para deixar de integrar a base de cálculo da contribuição previdenciária.
+    Além disso, o STJ já decidiu que o auxílio-moradia tem natureza remuneratória,
+    integrando, consequentemente, o salário de contribuição e sofrendo incidência de
+    contribuição previdenciária.
+
+    Licença Casamento
+
+    Nos termos do inciso II do art. 473 da CLT, o empregado poderá deixar de
+    comparecer ao serviço, sem prejuízo do salário, até 3 (três) dias consecutivos, em
+    virtude de casamento.
+
+    Os valores recebidos durante a licença casamento possuem clara natureza
+    remuneratória. Além disso, os valores pagos a título de licença casamento não
+    estão relacionados entre as exceções legais para afastar a incidência contribuição
+    previdenciária.
+
+    Licença para Prestação de Serviço Eleitoral
+
+    Nos termos do art. 98 da Lei 9.504/97, os eleitores nomeados para compor as
+    Mesas Receptoras ou Juntas Eleitorais e os requisitados para auxiliar seus trabalhos
+    serão dispensados do serviço, mediante declaração expedida pela Justiça Eleitoral,
+    sem prejuízo do salário, vencimento ou qualquer outra vantagem, pelo dobro dos
+    dias de convocação.
+
+    Os valores recebidos durante a licença para prestação de serviço eleitoral possuem
+    clara natureza remuneratória. Além disso, os valores pagos a título de licença para
+    prestação de serviço eleitoral não estão relacionados entre as exceções legais para
+    afastar a incidência contribuição previdenciária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   23
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Salário Paternidade
+
+    Considera-se salário paternidade os valores recebidos pelo trabalhador durante sua
+    licença paternidade, que é um direito constitucional que garante aos homens
+    empregados o direito de estarem afastados de suas atividades no trabalho durante
+    cinco dias, em razão do nascimento de filho, sem qualquer prejuízo do salário. Pais
+    adotivos também possuem este direito e fazem parte dos beneficiados.
+
+    Ao contrário do que ocorre com o salário maternidade, o salário paternidade
+    constitui ônus da empresa, ou seja, não se trata de benefício previdenciário. Desse
+    modo, em se tratando de verba de natureza salarial, é legítima a incidência de
+    contribuição previdenciária sobre o salário paternidade.
+
+    Valor da Compensação Pecuniária a ser paga no âmbito do Programa de Proteção
+    ao Emprego (PPE)
+
+    O Programa de Proteção ao Emprego – PPE, instituído pela Lei 13.189/2015, é um
+    programa que visa preservar os empregos dos trabalhadores de empresas que se
+    encontram temporariamente em situação de dificuldade econômico-financeira.
+
+    No período de adesão ao PPE, os empregados beneficiários do PPE têm jornada
+    de trabalho reduzida, em até 30%, com redução proporcional do salário.
+
+    Durante o Programa, os empregados beneficiados recebem compensação
+    pecuniária de até 50% do valor da redução salarial, limitado ao montante
+    correspondente a 65% da parcela máxima do benefício do seguro-desemprego.
+
+    O Programa possibilita a preservação dos empregos em momentos de retração da
+    atividade econômica, além de favorecer a recuperação econômico-financeira das
+    empresas; contribui para sustentar a demanda agregada em momentos de
+    adversidade; estimula a produtividade do trabalho, por meio do aumento da
+    duração do vínculo empregatício e fomentar a negociação coletiva e aperfeiçoar as
+    relações de emprego.
+
+    Todas as empresas que atenderem aos critérios estabelecidos pelo Programa
+    poderão solicitar adesão ao PPE.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   24
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Os valores pagos a título de compensação pecuniária, no âmbito do Programa de
+    Proteção ao Emprego – PPE, integrarão o salário de contribuição e irão compor a
+    base de cálculo da contribuição previdenciária.
+
+    Seguro Desemprego
+
+    Nos termos da lei 8.212/91, com as alterações trazidas pela MP 905/2019 (revogada
+    e com vigência encerrada), o beneficiário do Seguro-Desemprego concedido nos
+    termos da lei era segurado obrigatório da previdência social.
+    Durante os meses de percepção, o valor do seguro-desemprego era considerado
+    salário de contribuição, devendo-se descontar, nos pagamentos ao beneficiário, a
+    respectiva contribuição previdenciária.
+    Tal período era computado como tempo de contribuição para efeito de concessão
+    de benefícios previdenciários.
+
+           Observação: A Medida Provisória nº 905/2019 foi REVOGADA pela MP 955,
+           publicada em 20 de abril de 2020. Dessa forma, as alterações e inovações
+           promovidas pela MP 905/2020 perdem a eficácia. A revogação se deu em razão
+           da iminente caducidade da MP que fora revogada.
+
+    Terço Constitucional de Férias Gozadas (1/3 de Férias Gozadas)
+
+    Trata-se de um direito assegurado pela CF/88 aos empregados, inclusive
+    domésticos, e trabalhadores avulsos, que terão direito a férias anuais remuneradas
+    de 30 dias com, pelo menos, 1/3 a mais que o salário normal, após cada período
+    de 12 meses de trabalho.
+
+           1/3 de FÉRIAS GOZADAS: Férias gozadas são aquelas férias usufruídas
+           pelo trabalhador, durante a vigência do contrato de trabalho, que se
+           afasta de suas atividades laborativas para descansar, recebendo sua
+           remuneração acrescida de 1/3.
+
+    Segundo entendimento da Receita Federal, o terço constitucional de férias,
+    incidente sobre as férias gozadas, integrará o salário de contribuição. Como as
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   25
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    férias gozadas têm natureza salarial, entende que o terço constitucional também
+    deverá ter tal natureza.
+
+    Contudo, havia divergência entre a lei e a jurisprudência sobre o tema em questão.
+    Porém, com o julgamento do RECURSO EXTRAORDINÁRIO 1.072.485 PARANÁ, o
+    Supremo Tribunal Federal - STF, por maioria, apreciando o tema 985 da
+    repercussão geral, deu parcial provimento ao recurso extraordinário interposto
+    pela União, assentando a incidência de contribuição previdenciária sobre valores
+    pagos pelo empregador a título de terço constitucional de férias gozadas, nos
+    termos do voto do Relator, vencido o Ministro Edson Fachin.
+
+    Diante do exposto, o Supremo Tribunal Federal publicou, em 02/10/2020, o
+    acórdão de mérito da questão constitucional suscitada no RE 1.072.485, do
+    respectivo tema 985, cuja tese foi firmada nos seguintes termos: “É legítima a
+    incidência de contribuição social sobre o valor satisfeito a título de terço
+    constitucional de férias”.
+
+    Como a tese também teve repercussão geral reconhecida, deve ser aplicada no
+    âmbito de todos os órgãos do Poder Judiciário, de forma a garantir a racionalidade
+    dos trabalhos e a segurança dos jurisdicionados.
+
+    Deve-se destacar que a posição do STF se aplica apenas ao terço constitucional
+    que incide sobre as férias gozadas. Isso porque, com relação às férias indenizadas
+    (e respectivo adicional de 1/3), o art. 28, § 9º, “d”, da Lei 8.212/1991, determina
+    expressamente a não incidência de contribuição social.
+
+    PARCELAS NÃO INTEGRANTES DO SALÁRIO DE CONTRIBUIÇÃO
+
+    As parcelas não integrantes do salário de contribuição estão relacionadas numa
+    lista exaustiva e previstas no § 9º do art. 28 da Lei nº 8.212/91 e no § 9º do art. 214
+    do Regulamento da Previdência Social (Decreto 3.048/99).
+
+    Antes de estudarmos cada uma dessas parcelas que não integram o salário de
+    contribuição, vamos aprender algumas dicas que visam facilitar nossa compreensão
+    e memorização do assunto.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   26
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Em regra, os valores pagos, visando uma indenização ou ressarcimento do
+    trabalhador, são considerados como parcelas não integrantes do salário de
+    contribuição.
+
+    Para melhor compreensão do assunto, vamos conceituar, novamente, indenização
+    e ressarcimento:
+
+           INDENIZAÇÃO: destina-se a reparar um dano, não integrando o salário
+           de contribuição.
+
+           RESSARCIMENTO: é o reembolso de despesas pagas pelo trabalhador,
+           quando executa alguma atividade de interesse do empregador, não
+           integrando, também, o salário de contribuição.
+
+    Vejamos quais são as parcelas não integrantes do salário de contribuição, previstas
+    na legislação previdenciária:
+
+    Os Benefícios da Previdência Social, nos termos e limites legais.
+
+    Os benefícios da Previdência Social não integram o salário de contribuição.
+
+    O salário-maternidade, entretanto, era exceção absoluta a esta regra, pois
+    integrava o salário de contribuição e sobre ele incidia contribuição previdenciária.
+
+    Contudo, Supremo Tribunal Federal (STF), no julgamento do Recurso
+    Extraordinário nº 576.967/PR, declarou a inconstitucionalidade de dispositivos da
+    Lei 8.212/1991 que instituíam a cobrança da contribuição previdenciária patronal
+    sobre o salário-maternidade. Com base nesse entendimento, a Procuradoria Geral
+    da Fazenda Nacional editou o PARECER SEI Nº 18361/2020/ME, em que orienta os
+    órgãos da Administração para se adequarem, mediante autorização para dispensa
+    de contestar e recorrer.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   27
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    A decisão tem repercussão geral, tendo-se fixada a seguinte tese: “É
+    inconstitucional a incidência da contribuição previdenciária a cargo do empregador
+    sobre o salário maternidade".
+
+    Contudo, o entendimento da Procuradoria da Fazenda Nacional e da Secretaria da
+    Receita Federal do Brasil é no sentido de que continua incidindo a contribuição do
+    segurado sobre a parcela de salário-maternidade.
+
+    As Ajudas de Custo e o Adicional Mensal recebidos pelo aeronauta
+
+           AJUDA DE CUSTO: Devido no caso de transferência permanente, com
+           mudança de domicílio, por período superior a 120 dias. Nesta situação,
+           além do salário, o aeronauta receberá uma ajuda de custo, nunca inferior
+           ao valor de 4 meses de salário.
+
+           ADICIONAL MENSAL: Devido no caso de transferência provisória, por
+           período igual ou inferior a 120 dias. Nesta situação, além do salário, o
+           aeronauta receberá um adicional, que nunca poderá ser inferior a 25% do
+           salário recebido na base.
+
+    Tais verbas tem caráter indenizatório, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+    A parcela "in natura" recebida de acordo com os Programas de Alimentação
+    aprovados pelo Ministério do Trabalho e da Previdência Social, nos termos da Lei
+    6.321/76
+
+    O Programa de Alimentação do Trabalhador – PAT, aprovado pelo Ministério do
+    Trabalho, quando devidamente cumprido pelo contribuinte, nos exatos termos da
+    lei, permite que a empresa forneça alimentação e cestas básicas a seus segurados,
+    sem que tais valores integrem a base de cálculo das contribuições previdenciárias.
+
+    A Receita Federal do Brasil - RFB, até 2011, apurava e cobrava contribuição social
+    incidente sobre os valores de alimentação e cesta básica fornecidas pela empresa
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   28
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    a seus trabalhadores, quando as mesmas não estavam inscritas no PAT ou
+    descumpriam algum de seus requisitos legais.
+
+           Entretanto, o STJ, por diversas vezes, decidiu em sentido contrário, ao firmar entendimento
+           de que, mesmo não inscrita e não cumprindo os requisitos legais do Programa de
+           Alimentação do Trabalhador – PAT, não deveria haver incidência de contribuição
+           previdenciária sobre a alimentação e cestas básicas fornecida aos trabalhadores, uma vez
+           que não possui natureza salarial.
+
+    Diante da jurisprudência já pacificada, e buscando evitar maiores prejuízos para a
+    Fazenda Nacional, haja vista as sucessivas derrotas na esfera judicial, a própria
+    administração pública reconheceu tal entendimento e, por meio da Procuradoria
+    Geral da Fazenda Nacional – PGFN, emitiu o Parecer nº 2.117/2011. Neste parecer
+    recomenda-se a não apresentação de contestação, a não interposição de recursos
+    e a desistência dos já interpostos, desde que inexista outro fundamento relevante,
+    nas ações judiciais que visem obter a declaração de que sobre o pagamento in
+    natura do auxílio-alimentação não há incidência da contribuição previdenciária.
+
+    Desta forma, para questões de prova que discorram sobra a incidência ou não de
+    contribuição previdenciária sobre o pagamento in natura do auxílio-alimentação, a
+    melhor resposta em qualquer desses casos, e que tais valores não integram o salário
+    de contribuição.
+
+    No entanto, se o pagamento do auxílio-alimentação for feito em dinheiro, ele
+    integra a base de cálculo das contribuições previdenciárias. Este, inclusive, é o
+    entendimento da Turma Nacional de Uniformização de Jurisprudência dos Juizados
+    Especiais Federais (TNU), conforme segue:
+
+           TNU, Súmula 67 - O auxílio-alimentação recebido em pecúnia por segurado filiado ao
+           Regime Geral da Previdência Social integra o salário de contribuição e sujeita-se à incidência
+           de contribuição previdenciária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              29
+      www.estrategiaconcursos.com.br                                                                   110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    As importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional, inclusive o valor correspondente à dobra da remuneração de férias
+
+    Considera-se:
+
+           FÉRIAS INDENIZADAS: Aquelas que, até o momento da dispensa do
+           trabalhador, já foram adquiridas, porém não foram gozadas durante a
+           vigência do seu contrato de trabalho. Serão convertidas em dinheiro e
+           pagas ao segurado na rescisão.
+
+           ADICIONAL CONSTITUCIONAL DE FÉRIAS INDENIZADAS: Trata-se de
+           um direito assegurado pela CF/88 aos empregados e trabalhadores
+           avulsos, bem como os empregados domésticos, que terão direito a férias
+           anuais remuneradas de 30 dias com, pelo menos, 1/3 a mais que o salário
+           normal, após cada período de 12 meses de trabalho. Mesmo no caso de
+           férias indenizadas, o trabalhador terá direito ao terço constitucional de
+           férias respectivo.
+
+           DOBRA DE FÉRIAS: Sempre que as férias forem concedidas após o prazo
+           legal, denominado período concessivo, o empregador pagará em dobro
+           a respectiva remuneração de férias.
+
+    No caso de férias vencidas no momento da rescisão, independentemente do
+    motivo, o empregado tem direito a indenização de férias. No entanto, existem
+    casos em que há férias proporcionais a receber, por não ter o trabalhador
+    completado o período aquisitivo no momento da rescisão.
+
+    No caso das férias proporcionais, vejamos as regras estabelecidas pelo TST:
+
+           Sumula 171 – TST: Salvo na hipótese de dispensa do empregado por justa causa, a extinção
+           do contrato de trabalho sujeita o empregador ao pagamento da remuneração das férias
+           proporcionais, ainda que incompleto o período aquisitivo de 12 (doze) meses.
+
+           Súmula 261 – TST: O empregado que se demite antes de complementar 12 (doze) meses
+           de serviço tem direito a férias proporcionais.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        30
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Assim sendo, podemos concluir que o empregado só terá direito a férias
+    proporcionais (devida nos casos em que não completa o período aquisitivo no
+    momento da rescisão) se não for dispensado por justa causa.
+
+    Uma vez que receba indenização de férias, na rescisão de contrato de trabalho
+    (sejam vencidas ou proporcionais), terão natureza de indenização e sobre tais
+    valores não incide contribuição previdenciária.
+
+    Da mesma forma, o terço constitucional de férias indenizadas (pago na rescisão do
+    contrato de trabalho), bem como a dobra de férias ( por ter sido concedida após o
+    prazo legal), não sofrerão incidência de contribuição previdenciária.
+
+    Indenização de 40% do montante depositado no FGTS, por demissão sem justa
+    causa
+
+    Na ocorrência de despedida arbitrária ou sem justa causa, além das parcelas
+    salariais devidas, o empregado receberá uma indenização compensatória igual a
+    40% sobre o montante dos depósitos efetuados ao FGTS, acrescidos da correção
+    monetária e dos juros capitalizados. Na rescisão por culpa recíproca ou por força
+    maior, a indenização será de 20%.
+
+    Tais verbas tem caráter indenizatório, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+    Indenização por despedida sem justa causa nos contratos por prazo determinado
+
+    Nos contratos que tenham termo estipulado, o empregador que, sem justa causa,
+    despedir o empregado será obrigado a pagar-lhe, a título de indenização, e por
+    metade, a remuneração a que teria direito até o termo do contrato.
+
+    Tais verbas tem natureza indenizatória, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   31
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Indenização do tempo de serviço do safrista, quando da expiração normal do
+    contrato
+
+    Expirado normalmente o contrato, a empresa pagará ao safrista, a título de
+    indenização do tempo de serviço, importância correspondente a 1/12 (um doze
+    avos) do salário mensal, por mês de serviço ou fração superior a 14 (quatorze) dias,
+    nos termos do art. 14 da Lei 5.889/73.
+
+    Contrato de safra é aquele que tem sua duração dependente de variações
+    estacionais das atividades agrárias, assim entendidas as tarefas normalmente
+    executadas no período compreendido entre o preparo do solo para o cultivo e a
+    colheita.
+
+    Tais verbas tem natureza indenizatória, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+    Incentivo a demissão ou plano de demissão voluntária (PDV)
+
+    O Plano de Demissão Voluntária (PDV) se consubstancia como um mecanismo de
+    incentivo financeiro dado pelo empregador a seus empregados, com objetivo de
+    incentivar pedidos de rescisão contratual pelos trabalhadores.
+
+    Os PDVs são, portanto, instrumento de enxugamento de pessoal, que decorrem da
+    falta de interesse do empregador na manutenção de determinada mão de obra, e
+    que visam a desencadear pedidos de demissão mediante pagamento de uma
+    indenização baseada no tempo de serviço do trabalhador. Ou seja, em troca do
+    pedido de dispensa voluntária do obreiro, este é compensado monetariamente,
+    segundo o período de labor já prestado ao empregador.
+
+    Tais verbas tem natureza indenizatória, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   32
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Abono de Férias
+
+    Abono de férias (ou abono pecuniário) é a conversão, em dinheiro, de 1/3 (um
+    terço) dos dias de férias a que o empregado tem direito.
+
+    É uma opção do empregado, independente da concordância do empregador,
+    desde que requerido no prazo estabelecido na legislação trabalhista.
+
+    Tais verbas tem natureza indenizatória, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias.
+
+    Ganhos eventuais expressamente desvinculados do salário, por força de lei
+
+
+           GANHOS EVENTUAIS: São verbas pagas por liberalidade do empregador
+           e de forma eventual, ou seja, sem habitualidade. Quando pagos
+           eventualmente, tais verbas não integram o salário de contribuição, não
+           incidindo contribuições sociais sobre elas.
+
+    Licença-prêmio indenizada
+
+           LICENÇA PRÊMIO: É um direito concedido ao trabalhador para licenciar-
+           se do serviço, sem prejuízo de sua remuneração, após cumprido um
+           determinando período ininterrupto pré-estabelecido.
+
+    Tais regras podem varia de empresa para empresa e nem todas as empresas
+    oferecem este benefício a seus empregados.
+
+    Quando o benefício é concedido, alguns trabalhadores optam por não gozar a
+    licença prêmio a que tem direito, convertendo este direito em pecúnia,
+    “vendendo” sua licença prêmio à empresa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   33
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Neste caso, a empresa indeniza o trabalhador, pagando-lhe a denominada licença
+    prêmio indenizada.
+
+    Pode ocorrer, também, de ter o empregado adquirido o direito à licença-prêmio,
+    mas ter sido demitido antes de gozá-la. Neste caso, o empregado também
+    receberá em uma indenização em dinheiro, no valor correspondente aos dias de
+    licença-prêmio não gozada.
+
+    Como se trata de indenização, tais valores não integrarão o salário de
+    contribuição do empregado, nem tampouco incidirá sobre eles contribuição
+    previdenciária.
+
+    Indenização por dispensa sem justa causa, no período de 30 dias que antecede a
+    correção salarial
+
+    Também conhecido como demissão obstativa, tal situação está prevista no art. 9
+    da Lei nº 7.238/84, nos seguintes termos:
+
+           O empregado dispensado, sem justa causa, no período de 30 (trinta) dias que antecede a
+           data de sua correção salarial, terá direito à indenização adicional equivalente a um salário
+           mensal, seja ele optante ou não pelo Fundo de Garantia do Tempo de Serviço - FGTS.
+
+    Tal indenização visa reparar o dano causado ao trabalhador que foi impedido de
+    obter correção salarial por ter sido demitido, sem justa causa, nos 30 dias que
+    antecedem este aumento.
+
+    No mesmo sentido manifestou-se o TST:
+
+           É devido o pagamento da indenização adicional na hipótese de dispensa injusta do
+           empregado, ocorrida no trintídio que antecede a data-base. A legislação posterior não
+           revogou os arts. 9º da Lei nº 6.708/1979 e 9º da Lei nº 7.238/1984.
+
+    O valor desta indenização, equivalente a 1 salário mensal, não tem natureza salarial
+    e, portanto, não integra a base de cálculo das contribuições previdenciárias.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            34
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    A parcela recebida a título de vale-transporte, na forma da legislação própria
+
+    A Lei nº 8.212/91 apresenta, em seu art. 28, § 9º, uma lista exaustiva das parcelas
+    que não integram o salário de contribuição. Dentre elas, de acordo com a alínea
+    “f” do mencionado texto legal, aparece a parcela recebida a título de vale-
+    transporte, na forma da legislação própria.
+
+    A lei que disciplina a concessão de vale-transporte é a Lei nº 7.418/85,
+    regulamentada pelo Decreto nº 95.247/87.
+
+    Dentre as principais disposições legais acerca do fornecimento de vale transporte
+    pela empresa, podemos destacar:
+
+          • O Vale-Transporte, concedido nas condições e limites definidos na Lei, no
+            que se refere à contribuição do empregador:
+
+                 o não tem natureza salarial, nem se incorpora à remuneração para
+                   quaisquer efeitos;
+
+                 o não constitui base de incidência de contribuição previdenciária ou de
+                   Fundo de Garantia por Tempo de Serviço;
+
+                 o não se configura como rendimento tributável do trabalhador.
+
+          • É vedado ao empregador substituir o Vale-Transporte por antecipação em
+            dinheiro ou qualquer outra forma de pagamento, ressalvado no caso de falta
+            ou insuficiência de estoque de Vale-Transporte, necessário ao atendimento
+            da demanda e ao funcionamento do sistema.
+
+          • O empregador participará dos gastos de deslocamento do trabalhador com
+            a ajuda de custo equivalente à parcela que exceder a 6% (seis por cento) de
+            seu salário básico.
+
+    Com base no art. 28, § 9º, alínea “f” da Lei nº 8.212/91, combinada com a Lei nº
+    7.418/85, regulamentada pelo Decreto nº 95.247/87, a Receita Federal do Brasil –
+    RFB tinha entendimento de que o vale-transporte pago em dinheiro ao trabalhador
+    sofria a incidência da contribuição previdenciária, pois não estaria sendo paga na
+    forma da legislação própria.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   35
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           Todavia, o STF, tem se posicionado no sentido de que o vale-transporte, mesmo sendo pago
+           em dinheiro, não sofre incidência de contribuição previdenciária, em virtude de sua natureza
+           não salarial. Diante deste entendimento do STF, o STJ revisou seu entendimento anterior e
+           passou a decidir no mesmo sentido.
+
+    Reconhecendo a jurisprudência já pacificada, a Procuradoria Geral da Fazenda
+    Nacional – PGFN emitiu o Parecer nº 2.120/2011, recomendando a não
+    apresentação de contestação, a não interposição de recursos e a desistência dos já
+    interpostos, desde que inexista outro fundamento relevante, nas ações judiciais que
+    visem obter a declaração de que sobre o pagamento de vale transporte em
+    dinheiro não há incidência da contribuição previdenciária.
+
+    No mesmo ano, foi publicada a Súmula nº 60, de 08 de dezembro de 2011
+    dispondo sobre o tema, conforme segue:
+
+           "Não há incidência de contribuição previdenciária sobre o vale transporte pago em pecúnia,
+           considerando o caráter indenizatório da verba".
+
+    A presente Súmula vincula a RFB e a Fazenda Nacional, impedindo a cobrança de
+    contribuições previdenciárias sobre tais verbas, ainda que pagas em dinheiro.
+
+    Tais verbas tem natureza indenizatória, não possuindo, portanto, natureza salarial.
+    Desta forma, não integram o salário de contribuição e não serão base de cálculo
+    das contribuições previdenciárias, ainda que pagas em dinheiro.
+
+    Contudo, se os empregadores descumprirem outras disposições constantes da
+    legislação própria, como, por exemplo, deixar de efetuar o desconto obrigatório
+    de 6% sobre o salário básico do trabalhador, tais verbas integrarão o salário de
+    contribuição e serão consideradas base de cálculo para a cobrança de contribuições
+    previdenciárias.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            36
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    A ajuda de custo, em parcela única, recebida exclusivamente em decorrência de
+    mudança de local de trabalho do empregado, na forma do art. 470 da CLT
+
+    As ajudas de custo têm a finalidade de indenizar o empregado, ressarcindo ou
+    antecipando as despesas do trabalhador com a transferência para local diverso do
+    seu domicílio.
+
+    Vejamos o que está disposto sobre ajudas de custo na Lei 8.212/91:
+
+           Lei 8.212/91
+
+           Art. 28 (...)
+
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+
+           (...)
+
+           g) a ajuda de custo, em parcela única, recebida exclusivamente em decorrência de mudança
+           de local de trabalho do empregado, na forma do art. 470 da CLT;
+
+    Assim dispõe o art. 470 da CLT:
+
+           “Art. 470 - As despesas resultantes da transferência correrão por conta do empregador.”
+
+    Assim sendo, a ajuda de custo, em parcela única, recebida exclusivamente em
+    decorrência de mudança do local de trabalho do empregado, não integrará a base
+    de cálculo para cobrança de contribuições previdenciárias.
+
+           ATENÇÃO: Para que não sofra incidência de contribuição previdenciária,
+           a ajuda de custo deverá ser paga em parcela única. Caso seja paga em 2
+           ou mais parcelas, haverá a incidência da contribuição previdenciária sobre
+           todas elas.
+
+    As diárias para viagem
+
+    As diárias visam indenizar o trabalhador com deslocamento, alimentação,
+    hospedagem, etc., quando este necessita deslocar-se, temporariamente, para
+    realizar determinada atividade a mando do seu empregador.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           37
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Vejamos o disposto no art. 457, §2º da CLT:
+
+            “As importâncias, ainda que habituais, pagas a título de ajuda de custo, auxílio-alimentação,
+           vedado seu pagamento em dinheiro, diárias para viagem, prêmios e abonos não integram a
+           remuneração do empregado, não se incorporam ao contrato de trabalho e não constituem
+           base de incidência de qualquer encargo trabalhista e previdenciário”.
+
+    Após as recentes alterações decorrentes da Lei 13.467/17, a nova redação da lei
+    8.212/91 a respeito de diárias para viagem ficou da seguinte forma:
+
+    Texto original do § 8º do art. 28 da Lei nº 8.212/91, antes de ser revogado pela Lei
+    13.467/17:
+
+           “§ 8º Integram o salário-de-contribuição pelo seu valor total: (REVOGADO)
+
+           a) o total das diárias pagas, quando excedente a cinquenta por cento da remuneração
+           mensal ” (REVOGADO)
+
+    Texto original do § 9º do art. 28 da Lei nº 8.212/91, antes de ser alterado pela Lei
+    13.467/17:
+
+           “§9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+
+           h) as diárias para viagens, desde que não excedam a 50% (cinquenta por cento) da
+           remuneração mensal (ALTERADO)
+
+    Após a vigência da Lei 13.467/17, a redação nova redação da Lei 8.212/91, a
+    respeito das diárias para viagem, ficou assim:
+
+           Art. 28. Lei 8212/91.(...)
+
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente (...)
+
+           h) as diárias para viagens
+
+
+           CONCLUSÃO: a partir da vigência da Lei nº 13.467/2017, podemos
+           concluir que o total das diárias pagas, ainda quando excedentes a
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              38
+      www.estrategiaconcursos.com.br                                                                   110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           cinquenta por cento da remuneração mensal, não mais integrarão o
+           salário de contribuição, em qualquer caso.
+
+    Assim sendo, as diárias para viagem, ainda que habituais, não integram a remuneração do
+    empregado e nem tampouco o salário de contribuição,
+
+    A importância recebida a título de bolsa de complementação educacional de
+    estagiário, quando paga nos termos da lei
+
+    A importância recebida a título de bolsa de complementação educacional de
+    estagiário, quando paga nos termos da Lei no 11.788/2008, não integra o salário
+    de contribuição, pois, neste caso, o estagiário não é considerado segurado
+    obrigatório do RGPS e os valores por ele recebidos não são considerados
+    remuneração. Assim sendo, se cumpridos os preceitos legais do contrato de
+    estágio, não incidirá contribuição previdenciária sobre sua bolsa de
+    complementação educacional.
+
+    O estagiário, se quiser, poderá filiar-se na condição de segurado facultativo.
+
+           ATENÇÃO: se o estágio for realizado em desacordo com a lei, o
+           estagiário será segurado obrigatório, na qualidade de empregado, os
+           valores recebidos irão integrar o salário de contribuição e sobre eles
+           incidirá, consequentemente, contribuições previdenciárias.
+
+    A Participação nos Lucros ou Resultados da empresa - PLR, quando paga ou
+    creditada de acordo com lei específica.
+
+    A CF/88, em seu art. 7º, inciso XI, afirma ser direitos dos trabalhadores urbanos e
+    rurais, além de outros que visem à melhoria de sua condição social, participação
+    nos lucros, ou resultados, desvinculada da remuneração.
+
+    Sobre a questão, assim dispõe a alínea “j” do § 9º do art. 28 da Lei nº 8.212/1991:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   39
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           “Art. 28...
+
+           (...)
+
+           § 9º Não integram o salário de contribuição para os fins desta Lei, exclusivamente:
+
+           (...)
+
+           j) a participação dos empregados nos lucros ou resultados da empresa, quando paga ou
+           creditada de acordo com lei específica”.
+
+    A lei específica que regula a participação dos trabalhadores nos lucros ou
+    resultados da empresa é a Lei no 10.101/2000, cujas principais disposições são
+    mencionadas a seguir:
+
+          • A participação nos lucros ou resultados será objeto de negociação entre a
+            empresa e seus empregados, mediante um dos procedimentos a seguir
+            descritos, escolhidos pelas partes de comum acordo:
+
+                   o comissão escolhida pelas partes, integrada, também, por um
+                     representante indicado pelo sindicato da respectiva categoria;
+
+                   o convenção ou acordo coletivo.
+
+          • Dos instrumentos decorrentes da negociação deverão constar regras claras
+            e objetivas quanto à fixação dos direitos substantivos da participação e das
+            regras adjetivas, inclusive mecanismos de aferição das informações
+            pertinentes ao cumprimento do acordado, periodicidade da distribuição,
+            período de vigência e prazos para revisão do acordo, podendo ser
+            considerados, entre outros, os seguintes critérios e condições:
+
+                   o índices de produtividade, qualidade ou lucratividade da empresa;
+
+                   o programas de metas, resultados e prazos, pactuados previamente.
+
+          • O instrumento de acordo celebrado será arquivado na entidade sindical dos
+            trabalhadores.
+
+          • É vedado o pagamento de qualquer antecipação ou distribuição de valores
+            a título de participação nos lucros ou resultados da empresa em mais de 2
+            (duas) vezes no mesmo ano civil e em periodicidade inferior a 1 (um) trimestre
+            civil.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       40
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Desta forma, a importância paga a título de participação nos lucros ou resultados
+    da empresa, quando paga nos termos da Lei no 10.101/2000, não integra o salário
+    de contribuição.
+
+    Por outro lado, se descumpridos os requisitos legais, tal verba será considerada
+    base de cálculo de contribuições previdenciárias.
+
+    O abono do Programa de Integração Social - PIS e do Programa de Assistência ao
+    Servidor Público - PASEP
+
+    A CF/88, em seu art. 239, §3º, dispõe que:
+
+           “Aos empregados que percebam de empregadores que contribuem para o Programa de
+           Integração Social ou para o Programa de Formação do Patrimônio do Servidor Público, até
+           dois salários-mínimos de remuneração mensal, é assegurado o pagamento de um salário
+           mínimo anual, computado neste valor o rendimento das contas individuais, no caso daqueles
+           que já participavam dos referidos programas, até a data da promulgação desta Constituição.
+           “
+
+    Tais valores, denominados abono do PIS/PASEP, não sofrem incidência de
+    contribuição previdenciária, pois, além de não serem pagos pelo empregador,
+    estão expressamente previstos no §9º, do art. 28, da Lei n 8.212/91 como parcelas
+    não integrantes do salário de contribuição.
+
+    Transporte, alimentação e habitação
+
+    Os valores correspondentes a transporte, alimentação e habitação fornecidos pela
+    empresa ao empregado contratado para trabalhar em localidade distante da de
+    sua residência, em canteiro de obras ou local que, por força da atividade, exija
+    deslocamento e estada, observadas as normas de proteção estabelecidas pelo
+    Ministério do Trabalho, não integram o salário de contribuição, pois não são
+    fornecidas ao trabalhador como retribuição por seu trabalho.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          41
+      www.estrategiaconcursos.com.br                                                               110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Nesta hipótese, as mencionadas utilidades não são concedidas pelo trabalho, mas
+    sim para o trabalho. Tais elementos são necessários à prestação dos serviços, sem
+    as quais o trabalhador teria prejuízo no desempenho de suas funções. Tais
+    utilidades não têm natureza salarial e estão fora, portanto, do campo de incidência
+    das contribuições previdenciárias.
+
+    EXEMPLO: O exemplo clássico refere-se ao trabalhador contratado para trabalhar
+    em plataformas petrolíferas em alto mar. Ora, se não houvesse o fornecimento do
+    transporte pela empresa, o trabalhador teria sérias dificuldades e alto custo para
+    chegar a seu local de trabalho. Do mesmo modo, não seria razoável exigir que o
+    segurado providenciasse sua alimentação e habitação, enquanto estiver
+    desenvolvendo as suas atividades.
+
+    A importância paga ao empregado a título de complementação ao valor do auxílio
+    por incapacidade temporária, desde que este direito seja extensivo à totalidade dos
+    empregados da empresa
+
+    A importância paga ao empregado a título de complementação ao valor do auxílio
+    por incapacidade temporária não integra o salário de contribuição, desde que este
+    direito seja extensivo à totalidade dos empregados da empresa.
+
+           “Art. 28. Lei 8212/91.(...)
+
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+
+           (...)
+
+           n) a importância paga ao empregado a título de complementação ao valor do auxílio por
+           incapacidade temporária, desde que este direito seja extensivo à totalidade dos
+           empregados da empresa”
+
+    A palavra-chave que devemos memorizar, necessária para que a complementação
+    do auxílio por incapacidade temporária não integre a base de cálculo das
+    contribuições previdenciárias, é a obrigatoriedade de que este direito seja
+    extensivo a todos os empregados da empresa.
+
+    O auxílio por incapacidade temporária é um benefício previdenciário devido ao
+    segurado que se encontra temporariamente incapaz para o exercício da sua
+    atividade habitual por período superior a quinze dias consecutivos, seja por motivo
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       42
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    de doença ou acidente. A renda mensal deste benefício é de 91% do salário de
+    benefício do segurado.
+
+    Em regra, o valor do auxílio por incapacidade temporária é inferior à remuneração
+    mensal do trabalhador. Para evitar que o trabalhador tenha uma redução em sua
+    renda, algumas empresas complementam tal valor, pagando a diferença entre o
+    valor do auxílio por incapacidade temporária pago pelo INSS e o valor da
+    remuneração do empregado, buscando manter o poder aquisitivo de seus
+    empregados durante o gozo do benefício.
+
+    No entanto, tal complementação somente deixará de integra o salário de
+    contribuição se for extensiva à totalidade de empregados da empresa.
+
+    Previdência Complementar
+
+    O valor das contribuições efetivamente pagas pelo empregador, pessoa jurídica,
+    relativo a programa de Previdência Complementar, aberta ou fechada, desde que
+    disponível à totalidade de seus empregados e dirigentes, não integra o salário de
+    contribuição.
+
+    Contudo, para que tais valores não integrem o salário de contribuição e não haja,
+    consequentemente, incidência de contribuições previdenciárias sobre eles, é
+    necessário e obrigatório que tal benefício seja disponibilizado a todos os
+    empregados e dirigentes.
+
+    Caso seja concedido em favor de apenas de alguns segurados, sobre tais valores
+    repassados pela empresa haverá incidência de contribuições previdenciárias.
+
+    ATENÇÃO: É necessário que gravemos as seguintes palavras-chave para a prova,
+    para que a previdência complementar não integre o salário de contribuição:
+
+          • Todos os empregados; e
+          • Todos os dirigentes.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   43
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Assistência médica, odontológica e reembolso de despesas médico-hospitalares
+
+    Não integra o salário de contribuição, para qualquer efeito, mesmo quando
+    concedido em diferentes modalidades de planos e coberturas e mesmo que não
+    abranja a totalidade de empregados e dirigente da empresa, o valor relativo à:
+
+          • assistência prestada por serviço médico, próprio da empresa ou por ela
+            conveniado;
+
+          • assistência prestada por serviço odontológico, próprio da empresa ou por
+            ela conveniado,
+
+          • reembolso de despesas com:
+
+                   o   medicamentos;
+                   o   óculos;
+                   o   aparelhos ortopédicos;
+                   o   próteses;
+                   o   órteses;
+                   o   despesas médico-hospitalares e
+                   o   outras similares,
+
+    Após a vigência da Lei 13.467/17, a redação nova redação da Lei 8.212/91, a
+    respeito de assistência médica, odontológica e reembolso de despesas médico-
+    hospitalares ficou assim:
+
+           “Art. 28. Lei 8212/91.(...)
+
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+
+           (...)
+
+           q) o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da
+           empresa ou por ela conveniado, inclusive o reembolso de despesas com medicamentos,
+           óculos, aparelhos ortopédicos, próteses, órteses, despesas médico-hospitalares e outras
+           similares”
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         44
+      www.estrategiaconcursos.com.br                                                              110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Atualmente a exigência de que a cobertura abranja a totalidade de empregados e
+    dirigentes da empresa não existe mais. Assim sendo, tais valores não integrarão,
+    em qualquer caso, o salário de contribuição e não sofrerão incidência de
+    contribuição previdenciária.
+
+           CONCLUSÃO: a partir da vigência da Lei nº 13.467/2017, podemos
+           concluir que os valores relativos à assistência prestada por serviço médico
+           ou odontológico, próprio ou não, inclusive o reembolso de despesas com
+           medicamentos, óculos, aparelhos ortopédicos, próteses, órteses,
+           despesas médico-hospitalares e outras similares não mais integrarão o
+           salário de contribuição, em qualquer caso.
+
+    O valor correspondente a vestuários, equipamentos e outros acessórios fornecidos
+    ao empregado e utilizados no local do trabalho para prestação dos respectivos
+    serviços
+
+    Não integram o salário de contribuição, quando fornecidos ao empregado e
+    utilizados no local do trabalho para prestação dos respectivos serviços, o valor
+    correspondente a:
+
+          • vestuários;
+
+          • equipamentos; e
+
+          • outros acessórios.
+
+    Tais itens, quando utilizados no local do trabalho, para a prestação dos respectivos
+    serviços, não são fornecidas como retribuição pelo trabalho. Nesta hipótese, as
+    mencionadas utilidades são concedidas para o trabalho.
+
+    Tais elementos são necessários à prestação dos serviços, sem as quais o trabalhador
+    teria prejuízo no desempenho de suas funções. Tais utilidades não têm natureza
+    salarial e estão fora, portanto, do campo de incidência das contribuições
+    previdenciárias.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   45
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Ressarcimento de despesas
+
+    Não integram o salário de contribuição, quando devidamente comprovadas:
+
+          • ressarcimento de despesas pelo uso de veículo do empregado; e
+
+          • reembolso creche pago em conformidade com a legislação trabalhista,
+            observado o limite máximo de seis anos de idade da criança.
+
+          • reembolso babá, limitado ao menor salário de contribuição mensal e
+            condicionado à comprovação:
+
+                 o   do registro na Carteira de Trabalho e Previdência Social da
+                     empregada;
+
+                 o do pagamento da remuneração; e
+
+                 o do recolhimento da contribuição previdenciária, pago em
+                   conformidade com a legislação trabalhista, observado o limite máximo
+                   de seis anos de idade da criança.
+
+    Os ressarcimentos e reembolso não fazer parte da remuneração do segurado. Não
+    são pagos para retribuir o trabalho. Desta forma, não têm natureza salarial e estão
+    fora, portanto, do campo de incidência das contribuições previdenciárias.
+
+    No entanto, é necessário que as despesas sejam devidamente comprovadas, sob
+    pena de o fisco considerá-las base de cálculo de contribuição previdenciária.
+
+    Plano educacional
+
+    Não integra o salário de contribuição o valor relativo a plano educacional ou bolsa
+    de estudo que vise à:
+
+          • Educação básica de empregados e seus dependentes, formada pela
+            educação infantil, ensino fundamental e ensino médio;
+
+          • Educação profissional e tecnológica de empregados, desde que vinculada às
+            atividades desenvolvidas pela empresa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   46
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Em quaisquer dos casos mencionados, para que não haja incidência de contribuição
+    previdenciária, é necessário que:
+
+          • Tais valores não sejam utilizados em substituição da parcela salarial;
+
+          • O valor mensal do plano educacional ou bolsa de estudo, considerado
+            individualmente, não ultrapasse 5% (cinco por cento) da remuneração do
+            segurado a que se destina ou o valor correspondente a uma vez e meia o
+            valor do limite mínimo mensal do salário de contribuição, o que for maior.
+
+    Os valores recebidos em decorrência da cessão de direitos autorais
+
+    Direitos autorais são as denominações utilizadas para definir a posse, exercida pelo
+    autor ou por seus dependentes, sobre obras intelectuais. Tais obras podem ser
+    artísticas, literárias ou científicas.
+
+    O autor poderá ceder seus direitos autorais, para que terceiros comercializem sua
+    obra. Os valores recebidos em decorrência da cessão de direitos autorais não
+    integram o salário de contribuição, pois não são recebidas como contraprestação
+    por serviços prestados, mas sim pela cessão de direitos para que determinada
+    empresa explore sua obra intelectual.
+
+    Valor da multa paga ao empregado em decorrência da mora no pagamento das
+    parcelas constantes do instrumento de rescisão de contrato de trabalho
+
+    Assim está previsto no § 6º do art. 477 da CLT:
+
+           “A entrega ao empregado de documentos que comprovem a comunicação da extinção
+           contratual aos órgãos competentes bem como o pagamento dos valores constantes do
+           instrumento de rescisão ou recibo de quitação deverão ser efetuados até dez dias contados
+           a partir do término do contrato”.
+
+    A inobservância do prazo acima mencionados sujeitará o infrator ao pagamento da
+    multa a favor do empregado, em valor equivalente ao seu salário, devidamente
+    corrigido, salvo quando, comprovadamente, o trabalhador der causa à mora.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         47
+      www.estrategiaconcursos.com.br                                                              110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    A multa paga ao empregado em decorrência da mora no pagamento das parcelas
+    constantes do instrumento de rescisão de contrato de trabalho é considerada uma
+    penalidade pecuniária, sem natureza salarial. Desta forma, sobre tais valores não
+    incidirá contribuição previdenciária.
+
+    O valor correspondente ao vale-cultura
+
+    Em 27 de dezembro de 2012 foi publicada a Lei nº 12.761/2012, que criou, dentre
+    outras coisas, o vale-cultura, com destaque para os seguintes pontos:
+
+          • O vale-cultura terá caráter pessoal e intransferível, válido em todo o território
+            nacional, para acesso e fruição de produtos e serviços culturais, no âmbito
+            do Programa de Cultura do Trabalhador.
+
+          • O vale-cultura deverá ser fornecido ao trabalhador que perceba até 5 (cinco)
+            salários mínimos mensais.
+
+          • Os trabalhadores com renda superior a 5 (cinco) salários mínimos poderão
+            receber o vale-cultura, desde que garantido o atendimento à totalidade dos
+            empregados com a remuneração de até 5 (cinco) salários mínimos mensais.
+
+          • O valor mensal do vale-cultura, por usuário, atualmente estabelecido, será de
+            R$ 50,00 (cinquenta reais).
+
+          • É vedada, em qualquer hipótese, a reversão do valor do vale-cultura em
+            pecúnia.
+
+    Os valores correspondentes ao vale-cultura não integram o salário de contribuição,
+    por expressa determinação legal. Logo, sobre eles, não incidirá contribuição
+    previdenciária.
+
+    Prêmios e Abonos
+
+    Nos termos no art. 457, §2, da CLT, “as importâncias, ainda que habituais, pagas a
+    título de ajuda de custo, auxílio-alimentação, vedado seu pagamento em dinheiro,
+    diárias para viagem, prêmios e abonos não integram a remuneração do
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   48
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    empregado, não se incorporam ao contrato de trabalho e não constituem base de
+    incidência de qualquer encargo trabalhista e previdenciário”
+
+           PRÊMIOS: liberalidades concedidas pelo empregador, até duas vezes ao
+           ano, em forma de bens, serviços ou valor em dinheiro, a empregado,
+           grupo de empregados ou terceiros vinculados à sua atividade econômica
+           em razão de desempenho superior ao ordinariamente esperado no
+           exercício de suas atividades.
+
+           ABONOS: é um bônus, uma “plus” ou complemento salarial, geralmente
+           temporário, concedido ao empregado.
+
+    Após a vigência da Lei 13.467/17, a redação nova redação da Lei 8.212/91, a
+    respeito de prêmios e abonos, ficou assim:
+
+           “Art. 28. Lei 8212/91.(...)
+
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+
+           z) os prêmios e os abonos”
+
+    Assim sendo, nos termos da Lei 8.212/91, art. 28, §9º, “z”, combinado com o art.
+    457, §2, da CLT, não incide contribuição previdenciária sobre os prêmios e abonos.
+
+           CONCLUSÃO: a partir da vigência da Lei nº 13.467/2017, podemos
+           concluir que os prêmios e os abonos não mais integrarão o salário de
+           contribuição, em qualquer caso.
+
+    Seguro de Vida em Grupo
+
+    Não integra a base de cálculo das contribuições previdenciárias o valor das
+    contribuições efetivamente pagas pela pessoa jurídica relativo a prêmio de seguro
+    de vida em grupo, desde que:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             49
+      www.estrategiaconcursos.com.br                                                                   110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          • Previsto em acordo ou convenção coletiva de trabalho;
+
+          • Disponível à totalidade de seus empregados e dirigentes.
+
+
+    Valor Dispendido com Ministro de Confissão Religiosa e Membro de Instituto de
+    Vida Consagrada, de Congregação ou Ordem Religiosa
+
+    Os valores recebidos pelos ministros de confissão religiosa e membros de instituto
+    de vida consagrada, de congregação ou ordem religiosa, não serão considerados
+    remuneração e não integrarão o salário de contribuição, afastando-se a incidência
+    de contribuição previdenciária, nos seguintes casos:
+
+          • Sejam pagos em face do seu mister religioso ou para sua sobrevivência; e
+          • Fornecidos em condições que independam da natureza e quantidade do
+            trabalho executado.
+
+
+    Indenizações Previstas nos arts. 496 e 997 da CLT.
+           Art. 496 - Quando a reintegração do empregado estável for desaconselhável, dado o grau
+           de incompatibilidade resultante do dissídio, especialmente quando for o empregador
+           pessoa física, o tribunal do trabalho poderá converter aquela obrigação em indenização
+           devida nos termos do artigo seguinte.
+
+           Art. 497 - Extinguindo-se a empresa, sem a ocorrência de motivo de força maior, ao
+           empregado estável despedido é garantida a indenização por rescisão do contrato por prazo
+           indeterminado, paga em dobro
+
+    Em resumo, nos casos em que for possível a conversão da estabilidade do
+    trabalhador em indenização, esta não integrará a base de cálculo das contribuições
+    previdenciárias.
+
+    Pagamento relativo aos 15 primeiros dias de afastamento do empregado por
+    motivo de doença ou acidente de trabalho
+
+    Conforme disposto no art. 60, §3º, da Lei 8.213/91, está previsto claramente que o
+    pagamento relativo aos 15 primeiros dias de afastamento do empregado por
+    motivo de doença ou acidente de trabalho se trata de parcela remuneratória.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        50
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           § 3o Durante os primeiros quinze dias consecutivos ao do afastamento da atividade por
+           motivo de doença, incumbirá à empresa pagar ao segurado empregado o seu salário
+           integral.
+
+    Assim sendo, nos termos da lei, era claro o entendimento da Receita Federal de
+    que tais parcelas deveriam integrar o salário de contribuição e sobre eles incidir
+    contribuições previdenciárias
+
+    Contudo, o STJ, no julgamento do REsp nº 1.230.957/RS, entendeu pela exclusão
+    da remuneração (paga pelo empregador ao empregado nos primeiros 15 dias de
+    afastamento do trabalhador que antecedem o auxílio por incapacidade temporária)
+    da base de cálculo da contribuição previdenciária patronal disciplinada no art. 22,
+    I, da Lei nº 8.212, de 1991.
+
+    Esse mesmo entendimento foi replicado para a contribuição do empregado, as
+    contribuições de terceiros e do SAT/RAT.
+
+    Observação 1: A dispensa da contribuição do empregado do art. 28, I, da Lei nº
+    8.212, de 2002, foi autorizada na Nota PGFN/CRJ Nº 115/2017.
+
+    Observação 2: A dispensa da contribuição do empregador de que trata o art. 22, I
+    e §1º, da Lei nº 8.212, de 2002, foi autorizada na Mensagem Eletrônica
+    PGFN/CRJ/COJUD n.º 08, de 18/09/2020, mas a inclusão em lista foi positivada no
+    Parecer SEI Nº 1446/2021/ME.
+
+    Observação 3: A dispensa da contribuição do empregador do art. 22, II, da Lei nº
+    8.212, de 2002, (SAT/RAT) do seu adicional regido no art. 57, §6º, da Lei nº 8.213,
+    de 1991, bem como das contribuições destinadas aos terceiros incidentes sobre a
+    folha de salários foi autorizada no Parecer SEI Nº 16120/2020/ME.
+
+    Dessa forma, com base nesse entendimento, a Procuradoria Geral da Fazenda
+    Nacional editou o PARECER SEI Nº 16120/2020/ME e o PARECER SEI Nº
+    1446/2021/ME, incluindo o tema na lista de dispensa de contestar e de recorrer.
+
+    Como vimos, o STJ, no julgamento do REsp 1.230.957/RS, de 26/02/2014, decidiu
+    pela não incidência da contribuição previdenciárias sobre a importância paga nos
+    primeiros 15 dias que antecedem o auxílio por incapacidade temporária.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     51
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Aviso Prévio Indenizado
+
+    Quando o aviso-prévio é trabalhado, não há dúvidas de que o valor recebido tem
+    natureza salarial, integrando o salário de contribuição e sofrendo incidência de
+    contribuição previdenciária, como já estudado nesta aula.
+
+    No entanto, quando o aviso-prévio é indenizado, tínhamos uma divergência entre
+    lei e jurisprudência.
+
+    Nos termos da lei, era claro o entendimento da Receita Federal de que o aviso
+    prévio indenizado deveria integrar o salário de contribuição e sobre ele incidir
+    contribuições previdenciárias, a exemplo do que ocorre com o aviso prévio
+    trabalhado.
+
+    Contudo, firmou-se jurisprudência consolidada do STJ no sentido de que a
+    contribuição previdenciária não incide sobre o aviso prévio indenizado, tendo, a
+    PGFN, por meio da Nota PGFN/CRJ Nº 485/2016 incluído o aviso prévio
+    indenizado em lista de dispensa de atuação judicial, tanto para a contribuição a
+    cargo do empregador, como para a contribuição a cargo do empregado, incluindo
+    o tema na lista de dispensa de contestar e de recorrer.
+
+    Outrossim, no julgamento do REsp 1.230.957/RS, em 26/02/2014, o STJ já havia
+    decidido pela não incidência de contribuição previdenciária sobre o aviso-prévio
+    indenizado.
+
+    Hora Repouso Alimentação
+
+                        Houve, novamente, mudança de entendimento acerca da
+                        natureza indenizatória ou remuneratória da verba
+                        relacionada à supressão da hora repouso alimentação – HRA,
+    paga como retribuição pela hora em que o empregado fica à disposição do
+    empregador.
+
+    Na sessão do dia 21 de fevereiro de 2017, a 1ª Turma do Superior Tribunal de
+    Justiça (STJ) havia concluído o julgamento do Recurso Especial nº 1.328.326, que
+    trata da incidência de contribuição previdenciária sobre pagamento de hora
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   52
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    repouso alimentação (HRA) à trabalhadores que possuem turno contínuo, sem
+    horário de almoço. O julgamento foi iniciado em 2016, com o voto do Ministro
+    Relator Gurgel de Faria, que citou a Súmula 437 do Tribunal Superior do Trabalho
+    (TST) para confirmar a natureza salarial da hora de repouso alimentação, sendo
+    acompanhado pelo Ministro Sérgio Kukina. Prevaleceu, entretanto, o voto em
+    sentido contrário dos Ministros Regina Helena Costa, Napoleão Nunes Maia Filho
+    e Benedito Gonçalves, reconhecendo que a remuneração ao repouso possuía
+    natureza indenizatória, motivo pelo qual não deveria integrar a base de cálculo das
+    contribuições previdenciárias. Na ocasião, para a maioria dos Ministros da Turma,
+    o pagamento da verba não remunera qualquer serviço prestado, mas decorre da
+    supressão do intervalo de repouso e alimentação a que o trabalhador teria direito,
+    o que revela seu caráter indenizatório.
+
+    Contudo, houve uma mudança de entendimento no Superior Tribunal de Justiça,
+    conforme podemos observar no Recurso Especial n° 1.727.114 – BA
+    (2018/0046038-0). Na sessão do dia 14 de janeiro de 2019, decidiu-se que incide
+    contribuição previdenciária sobre a verba relacionada à supressão da hora repouso
+    alimentação – HRA, paga como retribuição pela hora em que o empregado fica à
+    disposição do empregador, tendo em vista sua natureza eminentemente salarial.
+
+    POSIÇÃO ATUAL DO STJ:
+
+    Outrossim, tivemos, mais uma vez, alteração nos mencionados entendimentos,
+    conforme passamos a expor:
+
+    Em decisão monocrática publicada em 04/11/2021 (REsp 1.963.274/SP), o Ministro
+    Herman Benjamin, da 2ª Turma do Superior Tribunal de Justiça - STJ, determinou
+    que, em situações ocorridas após a entrada em vigor da Lei 13.467/2017 (Reforma
+    Trabalhista), não incide a contribuição previdenciária patronal sobre a Hora
+    Repouso Alimentação (HRA).
+
+    Em julgado publicado em maio de 2020, a 1ª Seção do STJ já havia se manifestado
+    sobre a questão, abordando apenas o período anterior à entrada em vigor da Lei
+    13.467/2017 (Reforma Trabalhista), onde reconheceu a incidência de contribuição
+    sobre a HRA para casos ocorridos tão somente antes da Reforma Trabalhista (EREsp
+    1.619.117). Naquela oportunidade, o Ministro Herman Benjamin, relator, destacou
+    a “nítida natureza remuneratória” da HRA, sobre a qual deveria incidir contribuição
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   53
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    previdenciária. Por outro lado, pontuou que, a partir da Lei 13.467/2017, o
+    pagamento de intervalo intrajornada suprimido passou a ter natureza indenizatória,
+    sobre a qual não incide a contribuição previdenciária.
+
+    O QUE RESPONDER NA PROVA:
+
+    Para efeito de prova e segundo a jurisprudência mais recente, temos o seguinte
+    posicionamento:
+
+          • Período anterior à entrada em vigor da Lei 13.467/2017 (Reforma
+            Trabalhista): incide contribuição previdenciária sobre a verba relacionada à
+            supressão da hora repouso alimentação – HRA, tendo em vista sua natureza
+            eminentemente salarial (natureza remuneratória).
+          • Período posterior à entrada em vigor da Lei 13.467/2017 (Reforma
+            Trabalhista): não incide contribuição previdenciária sobre a verba
+            relacionada à supressão da hora repouso alimentação – HRA, tendo em vista
+            sua natureza indenizatória.
+          • Se a questão não mencionar se o período é anterior ou posterior à entrada
+            em vigor da Lei 13.467/2017 (Reforma Trabalhista): adotar a posição atual
+            (posterior à entrada em vigor da Lei 13.467/2017), na qual não incide
+            contribuição previdenciária sobre a verba relacionada à supressão da hora
+            repouso alimentação – HRA, tendo em vista sua natureza indenizatória.
+
+    PAGAMENTO EM DESACORDO COM A LEGISLAÇÃO
+
+    As parcelas definidas como não integrantes do salário de contribuição, quando
+    pagas ou creditadas em desacordo com a legislação pertinente, passam a integrá-
+    lo, para todos fins e efeitos.
+
+    Ou seja, mesmo as parcelas não integrantes do salário de contribuição, passarão a
+    integrá-lo, com incidência de contribuição previdenciária, caso sejam pagas ou
+    creditadas em desacordo com a legislação.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   54
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    PROPORCIONALIDADE DO SALÁRIO DE CONTRIBUIÇÃO
+
+    Vejamos o disposto no Regulamento da Previdência Social – RPS, art. 214, §1º:
+
+           Art. 214. (...)
+
+           §1º - Quando a admissão, a dispensa, o afastamento ou a falta do empregado ocorrer no
+           curso do mês, o salário de contribuição será proporcional ao número de dias de trabalho
+           efetivo.
+
+    Assim sendo, é possível que um trabalhador que seja contratado no dia 16 de abril
+    mês para ganhar R$ 2.000,00/mês receba, no mês de sua contratação, apenas R$
+    1000,00, proporcionalmente aos 15 dias trabalhados.
+
+    Apesar de tal valor ser inferior a um salário-mínimo mensal, a legislação
+    previdenciária determina que para o empregado, empregado doméstico e
+    trabalhador avulso o limite mínimo do salário de contribuição é o piso da categoria
+    ou o salário mínimo, considerando seu valor mensal, diário ou horário, conforme o
+    caso.
+
+    Neste exemplo, foi respeitado o salário-mínimo diário em cada um dos dias
+    trabalhados.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       55
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    QUESTÕES COMENTADAS
+
+                                     Questões Comentadas para Fixação
+
+          1. (CESPE – Analista Judiciário – STJ)
+    Acerca do custeio da seguridade social, julgue o próximo item.
+    O salário-de- contribuição de segurado empregado deverá corresponder à integralidade de
+    uma remuneração auferida durante o mês de trabalho.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    A contribuição do segurado empregado possui uma base de cálculo a qual conhecemos
+    como salário-de-contribuição. Vejamos a definição de salário-de-contribuição:
+           Lei 8.212./91:
+           Art. 28. Entende-se por salário-de-contribuição:
+           I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas, assim
+           entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês,
+           destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+           habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+           serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços
+           nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+           normativa;
+           (...)
+           § 5º O limite máximo do salário-de-contribuição é de Cr$ 170.000,00 (cento e setenta mil cruzeiros),
+           reajustado a partir da data da entrada em vigor desta Lei, na mesma época e com os mesmos índices
+           que os do reajustamento dos benefícios de prestação continuada da Previdência Social.
+           (grifos nossos)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    56
+      www.estrategiaconcursos.com.br                                                                          110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Portanto, para os segurados empregados e trabalhadores avulsos, o salário de contribuição
+    compreende basicamente a remuneração auferida em uma ou mais empresas, ainda que
+    essa remuneração ainda não tenha sido efetivamente paga pelo empregador, mas apenas
+    creditada.
+
+    Entretanto, ao contrário do que afirma o enunciado, nem sempre o salário-de-contribuição
+    será correspondente à integralidade da remuneração recebida, uma vez que existem
+    algumas parcelas que a lei exclui expressamente do salário-de-contribuição, como podemos
+    citar o vale transporte pago de acordo com a lei específica. Além disso, o salário de
+    contribuição possui um limite máximo, conforme § 5º do art. 28 da Lei 8.213/91. O valor do
+    limite máximo do salário-de-contribuição para 2022 é de R$ 7.087,22. O valor da
+    remuneração do empregado que ultrapasse esse limite não fará parte do salário de
+    contribuição.
+    Por todo o exposto, chegamos à conclusão de que a questão está ERRADA.
+
+
+    Gabarito: ERRADO.
+
+          2. (CESPE – Analista Administrativo – EBSERH)
+
+    Julgue o item subsecutivo, relativo às Instruções Normativas da Receita Federal do Brasil n.º
+    971/2009 e n.º 1.234/2012 e à Lei Complementar n.º 116/2003.
+     Não integram a base de cálculo para fins de incidência de contribuições previdenciárias do
+    empregado as importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional, incluído o valor correspondente à dobra da remuneração de férias.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    A questão está correta, a importância recebida a título de férias indenizadas e o respectivo
+    adicional constitucional, incluindo o valor correspondente à dobra da remuneração de férias
+    não integram o salário de contribuição. Não precisávamos conhecer os normativos previstos
+    no enunciado para acertar a questão, uma vez que há previsão nesse sentido na Lei
+    8.212/91:
+           Art. 28. Entende-se por salário-de-contribuição:
+           (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       57
+      www.estrategiaconcursos.com.br                                                             110
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           (...)
+           d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional, inclusive o valor
+           correspondente à dobra da remuneração de férias de que trata o art. 137 da Consolidação das Leis do Trabalho-
+           CLT;
+           (grifos nossos)
+
+
+    As férias indenizadas são aquelas que não chegaram a ser gozadas pelo trabalhador dentro
+    do seu contrato de trabalho. Além disso, prevê a lei trabalhista que empregado deve ter
+    suas férias concedidas durante o período de 12 meses que sucedem à data em que ele
+    adquiriu o direito. Se as férias forem concedidas após esse período, o empregador deverá
+    pagá-las em dobro, que é a chamada dobra da remuneração de férias.
+
+
+    Gabarito: CERTO.
+
+          3. (CESPE – Delegado de Polícia Federal)
+
+    Roberto é empregado da empresa XYZ ME há trinta anos e pretende requerer ao INSS, em
+    1.º/10/2018, a concessão de aposentadoria por tempo de contribuição.
+    Com referência a essa situação hipotética, julgue o item a seguir.
+    O salário de contribuição de Roberto corresponde ao valor de sua remuneração, respeitados
+    os limites mínimo e máximo desse salário.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    A contribuição do segurado empregado possui uma base de cálculo a qual conhecemos
+    como salário-de-contribuição. Vejamos a definição de salário-de-contribuição:
+           Lei 8.212./91:
+           Art. 28. Entende-se por salário-de-contribuição:
+           I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas, assim
+           entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês,
+           destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+           habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+           serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços
+           nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+           normativa;
+           (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                   58
+      www.estrategiaconcursos.com.br                                                                                         110
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           § 3º O limite mínimo do salário-de-contribuição corresponde ao piso salarial, legal ou normativo, da
+           categoria ou, inexistindo este, ao salário mínimo, tomado no seu valor mensal, diário ou horário,
+           conforme o ajustado e o tempo de trabalho efetivo durante o mês.
+           (...)
+           § 5º O limite máximo do salário-de-contribuição é de Cr$ 170.000,00 (cento e setenta mil cruzeiros),
+           reajustado a partir da data da entrada em vigor desta Lei, na mesma época e com os mesmos índices
+           que os do reajustamento dos benefícios de prestação continuada da Previdência Social.
+           (grifos nossos)
+
+
+    Portanto, para os segurados empregados e trabalhadores avulsos, o salário de contribuição
+    compreende basicamente a remuneração auferida em uma ou mais empresas, ainda que
+    essa remuneração ainda não tenha sido efetivamente paga pelo empregador, mas apenas
+    creditada.
+
+    A lei prevê os limites mínimos e máximos do salário de contribuição, conforme § 3º e § 5º
+    da Lei 8.212/91 do artigo 28 da Lei 8.212/91. O valor do limite máximo do salário-de-
+    contribuição para 2022 é de R$ 7.087,22. O valor da remuneração do empregado que
+    ultrapasse esse limite não fará parte do salário de contribuição.
+
+
+    Gabarito: CORRETO.
+
+          4. (FCC – Analista Previdenciário – SEGEP MA)
+
+    NÃO integram o salário- de- contribuição para os fins da Lei nº 8.212/1991, exclusivamente,
+    as importâncias recebidas a título de férias
+
+    a) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração de férias, além da importância paga ao segurado facultativo a
+    título de complementação ao valor do auxílio-moradia, desde que extensivo à totalidade de
+    empregados da empresa.
+    b) gozadas e respectivo adicional constitucional, inclusive o valor correspondente à dobra
+    legal da remuneração de férias, além da importância paga ao empregado a título de
+    complementação ao valor do auxílio-acidente, desde que extensivo à totalidade de
+    empregados da empresa.
+    c) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    metade da remuneração legal de férias, além da importância paga ao empregado a título de
+    complementação ao valor do auxílio-moradia, desde que extensivo à totalidade de
+    empregados da empresa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   59
+      www.estrategiaconcursos.com.br                                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    d) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração do décimo terceiro salário, além da importância paga ao
+    empregado a título de complementação ao valor do auxílio-acidente, desde que extensivo
+    a alguns empregados da empresa.
+    e) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração de férias prevista na legislação pertinente, além da importância
+    paga ao empregado a título de complementação ao valor do auxílio por incapacidade
+    temporária, desde que extensivo à totalidade de empregados da empresa.
+
+
+    COMENTÁRIOS:
+    Para respondermos à questão, devemos encontrar aquela parcela que NÃO integra o salário
+    de contribuição, de acordo com a Lei, como citado no enunciado. A lei 8.212/91 traz uma
+    lista dos itens que não integram o salário de contribuição. Vejamos:
+
+
+           Art. 28. Entende-se por salário-de-contribuição:
+           (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           (...)
+           d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional, inclusive o valor
+           correspondente à dobra da remuneração de férias de que trata o art. 137 da Consolidação das Leis do Trabalho-
+           CLT;
+           (...)
+           n) a importância paga ao empregado a título de complementação ao valor do auxílio por incapacidade
+           temporária, desde que este direito seja extensivo à totalidade dos empregados da empresa;
+           (grifos nossos)
+
+    As férias indenizadas são aquelas que não chegaram a ser gozadas pelo trabalhador dentro
+    do seu contrato de trabalho. De acordo com a lei, não incidirá contribuição social no
+    recebimento deste valor e do respectivo adicional constitucional.
+    Quanto à hipótese prevista no art. 28, § 9º, “n” da Lei 8.212/91, algumas empresas
+    fornecem o benefício de complementação do valor do auxílio por incapacidade temporária
+    para seus funcionários, uma vez que o valor desse auxílio nem sempre é igual à remuneração
+    que o segurado recebe na empresa. Se o benefício de complementação do auxílio por
+    incapacidade temporária for extensível aos funcionários da empresa, ele não será parcela
+    integrante do salário de contribuição.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                   60
+      www.estrategiaconcursos.com.br                                                                                         110
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Feitas essas considerações iniciais, vamos avaliar as assertivas.
+    a) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração de férias, além da importância paga ao segurado facultativo a
+    título de complementação ao valor do auxílio-moradia, desde que extensivo à totalidade de
+    empregados da empresa.
+    Não existe a importância paga ao segurado facultativo a título de complementação do
+    auxílio-moradia. Alternativa ERRADA.
+
+
+    b) gozadas e respectivo adicional constitucional, inclusive o valor correspondente à dobra
+    legal da remuneração de férias, além da importância paga ao empregado a título de
+    complementação ao valor do auxílio-acidente, desde que extensivo à totalidade de
+    empregados da empresa.
+    Sobre as férias gozadas e respectivo adicional, de acordo com a Lei, incide a contribuição
+    previdenciária. Além disso, a importância que a empresa paga é complementação de auxílio
+    por incapacidade temporária, e não de auxílio-acidente. Alternativa ERRADA.
+
+
+    c) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    metade da remuneração legal de férias, além da importância paga ao empregado a título de
+    complementação ao valor do auxílio-moradia, desde que extensivo à totalidade de
+    empregados da empresa.
+    A parcela não integrante do salário de contribuição é a dobra da remuneração legal de férias,
+    e não metade, como afirmado. O empregado deve ter suas férias concedidas durante o
+    período de 12 meses que sucedem à data em que ele adquiriu o direito. Se as férias forem
+    concedidas após esse período, o empregador deverá pagá-las em dobro.
+    Além disso, não existe complementação do auxílio-moradia, mas sim do auxílio por
+    incapacidade temporária. Alternativa ERRADA.
+
+
+    d) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração do décimo terceiro salário, além da importância paga ao
+    empregado a título de complementação ao valor do auxílio-acidente, desde que extensivo
+    a alguns empregados da empresa.
+    A dobra ocorre sobre o valor da remuneração das férias, e não do décimo-terceiro salário.
+    A questão também erra ao afirmar que a complementação é do auxílio-acidente. Alternativa
+    ERRADA.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      61
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    e) indenizadas e respectivo adicional constitucional, inclusive o valor correspondente à
+    dobra legal da remuneração de férias prevista na legislação pertinente, além da importância
+    paga ao empregado a título de complementação ao valor do auxílio- doença, desde que
+    extensivo à totalidade de empregados da empresa.
+    Eis o nosso gabarito. A alternativa está em conformidade as alíneas “d”e “n” do § 9º do art.
+    29 da Lei 8.212/91. Alternativa CORRETA.
+
+
+    Gabarito: E.
+
+          5. (FCC – Técnico Previdenciário – SEGEP MA)
+
+    Com base na Lei nº 8.212 de 1991, que dispõe sobre a Organização da Seguridade Social,
+    a) o salário-maternidade integra o salário de contribuição, desde que pago em valor superior
+    ao salário mínimo.
+    b) as gorjetas, com exceção das espontâneas do cliente, integram o salário de contribuição
+    do empregado.
+    c) as importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional integram o salário de contribuição.
+    d) as diárias para viagens, desde que não excedam a 50% da remuneração mensal, não
+    integram o salário de contribuição.
+    e) a importância paga ao empregado a título de complementação ao valor do auxílio por
+    incapacidade temporária, desde que este direito seja extensivo à totalidade dos
+    empregados da empresa, não integra o salário de contribuição.
+
+
+    COMENTÁRIOS:
+    a) o salário-maternidade integra o salário de contribuição, desde que pago em valor superior
+    ao salário mínimo.
+           O salário-maternidade, nos termos da lei, integrava o salário de contribuição e sobre ele incidia contribuição
+           previdenciária.
+           Contudo, Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário nº 576.967/PR, declarou a
+           inconstitucionalidade de dispositivos da Lei 8.212/1991 que instituíam a cobrança da contribuição previdenciária
+           patronal sobre o salário-maternidade. Com base nesse entendimento, a Procuradoria Geral da Fazenda Nacional
+           editou o PARECER SEI Nº 18361/2020/ME, em que orienta os órgãos da Administração para se adequarem,
+           mediante autorização para dispensa de contestar e recorrer. A decisão tem repercussão geral, tendo-se fixada a
+           seguinte tese: “É inconstitucional a incidência da contribuição previdenciária a cargo do empregador sobre o
+           salário maternidade".
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                               62
+      www.estrategiaconcursos.com.br                                                                                     110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Independente do seu valor, o salário maternidade não irá integrar o salário de contribuição.
+    Alternativa ERRADA.
+
+    b) as gorjetas, com exceção das espontâneas do cliente, integram o salário de contribuição
+    do empregado.
+           Lei 8.212/91
+           Art. 28. Entende-se por salário-de-contribuição:
+           I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas, assim entendida
+           a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a retribuir
+           o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e
+           os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente prestados, quer pelo tempo
+           à disposição do empregador ou tomador de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou
+           acordo coletivo de trabalho ou sentença normativa;
+           (grifos nossos)
+
+    As gorjetas, pagas a qualquer título, ainda que pagas espontâneamente pelo cliente, serão
+    parte integrante do salário de contribuição. Alternativa ERRADA.
+
+
+    c) as importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional integram o salário de contribuição.
+           Art. 28. Entende-se por salário-de-contribuição:
+           (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           (...)
+           d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional, inclusive o valor
+           correspondente à dobra da remuneração de férias de que trata o art. 137 da Consolidação das Leis do Trabalho-
+           CLT;
+           (...)
+           n) a importância paga ao empregado a título de complementação ao valor do auxílio por incapacidade
+           temporária, desde que este direito seja extensivo à totalidade dos empregados da empresa;
+           (grifos nossos)
+
+
+    As férias indenizadas são aquelas que não chegaram a ser gozadas pelo trabalhador dentro
+    do seu contrato de trabalho. De acordo com a lei, não incidirá contribuição social no
+    recebimento deste valor e do respectivo adicional constitucional. Alternativa ERRADA.
+
+    d) as diárias para viagens, desde que não excedam a 50% da remuneração mensal, não
+    integram o salário de contribuição.
+           Lei n. 8.212/ 91
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                   63
+      www.estrategiaconcursos.com.br                                                                                         110
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           Art. 28, § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           (...)
+           h) as diárias para viagens;
+
+    As diárias para viagem, independentemente de seu valor, não integrarão o salário de
+    contribuição. Alternativa ERRADA.
+
+    e) a importância paga ao empregado a título de complementação ao valor do auxílio por
+    incapacidade temporária, desde que este direito seja extensivo à totalidade dos
+    empregados da empresa, não integra o salário de contribuição.
+    Algumas empresas fornecem o benefício de complementação do valor do auxílio por
+    incapacidade temporária para seus funcionários, uma vez que o valor desse auxílio nem
+    sempre é igual à remuneração que o segurado recebe na empresa. Se o benefício de
+    complementação do auxílio por incapacidade temporária for extensível aos funcionários da
+    empresa, ele não será parcela integrante do salário de contribuição.
+
+
+           Art. 28. Entende-se por salário-de-contribuição:
+           (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           (...)
+           n) a importância paga ao empregado a título de complementação ao valor do auxílio por incapacidade
+           temporária, desde que este direito seja extensivo à totalidade dos empregados da empresa;
+           (grifos nossos)
+
+    Portanto, a assertiva está correta.
+
+
+    Gabarito: E.
+
+          6. (FCC – Analista Previdenciário – SEGEP MA)
+
+    A empresa é obrigada a preparar a folha de pagamento
+
+    a) apenas das remunerações pagas a todos os segurados a seu serviço, de acordo com os
+    padrões e normas estabelecidos pelo órgão competente da Seguridade Social.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 64
+      www.estrategiaconcursos.com.br                                                                       110
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    b) das remunerações pagas ou creditadas a todos os segurados a seu serviço, de acordo com
+    os padrões e normas estabelecidos pelo órgão competente da Seguridade Social.
+    c) apenas das remunerações creditadas a alguns dos segurados a seu serviço, de acordo com
+    os padrões e normas estabelecidos pelo órgão competente da Seguridade Social.
+    d) das remunerações pagas ou creditadas a todos os segurados a serviço de outrem, de
+    acordo com os padrões e normas estabelecidos pelo órgão competente da Seguridade
+    Social.
+    e) apenas das remunerações pagas a todos os segurados a serviço de outrem, de acordo
+    com os padrões e normas estabelecidos pelo órgão competente da Seguridade Social.
+
+
+    COMENTÁRIOS:
+    A questão é um assunto cobrado com menos frequência nas provas de concurso: obrigações
+    acessórias. As obrigações acessórias são estipuladas para acessoramento da atividade de
+    arredação e fiscalização das contribuições sociais. Vejamos o texto da Lei 8.212/91 que
+    estipula a obrigação exigida nessa questão:
+           Lei 8.212/91
+           Art. 32. A empresa é também obrigada a:
+           I - preparar folhas-de-pagamento das remunerações pagas ou creditadas a todos os segurados a seu serviço,
+           de acordo com os padrões e normas estabelecidos pelo órgão competente da Seguridade Social;
+           (...)
+           (grifos nossos)
+
+    Sendo assim, a empresa é obrigada a preparar a folha das remunerações de todos os
+    segurados que lhe prestaram serviços, tenham essas remunerações sido pagas ou creditadas
+    para pagamento posterior.
+    A alternativa que “b” é a reprodução do art. 32, “I”da Lei 8.212/91.
+
+
+    Gabarito: B.
+
+          7. (FCC - Juiz do Trabalho - TRT 6ª Região).
+
+    Exclusivamente para os casos do segurado empregado e do segurado trabalhador avulso, o
+    salário-de-contribuição é a remuneração auferida em:
+    a) uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou
+    creditados a qualquer título, durante o mês, destinados a retribuir apenas o trabalho sem
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                        65
+      www.estrategiaconcursos.com.br                                                                              110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    vínculo empregatício, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+    eventuais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial,
+    quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador
+    ou tomador de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo
+    coletivo de trabalho ou sentença normativa.
+    b) uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos ou
+    creditados a qualquer título, durante a quinzena, destinados a retribuir o trabalho, qualquer
+    que seja a sua forma, inclusive as gorjetas, os ganhos eventuais sob a forma de utilidades e
+    os adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente
+    prestados, quer pelo tempo à disposição do empregador ou tomador de serviços nos termos
+    da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+    normativa.
+    c) uma empresa, assim entendida a totalidade dos rendimentos devidos ou creditados a
+    qualquer título, durante o mês, destinados a retribuir apenas o trabalho com vínculo
+    empregatício, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os
+    adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente
+    prestados, quer pelo tempo à disposição do empregador ou tomador de serviços nos termos
+    da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+    normativa.
+    d) uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou
+    creditados a qualquer título, durante o mês, destinados a retribuir o trabalho e o capital
+    investido, quaisquer que sejam as suas formas, inclusive as gorjetas, os ganhos habituais sob
+    a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+    serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador
+    de serviços nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de
+    trabalho ou sentença normativa.
+    e) uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou
+    creditados a qualquer título, durante o mês, destinados a retribuir o trabalho, qualquer que
+    seja a sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os
+    adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente
+    prestados, quer pelo tempo à disposição do empregador ou tomador de serviços nos termos
+    da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+    normativa.
+
+
+    COMENTÁRIOS:
+    Para resolver essa questão, apesar das assertivas serem muito grandes, basta uma leitura
+    atenta às alternativas e ter observado o comando da questão. Do ponto de vista de
+    conhecimento de leis, bastaria lembrar de um único inciso (o primeiro, que por sinal é muito
+    importante para o nosso estudo), do Art. 28, Lei 8.212/91. Vejamos o que ele nos diz:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      66
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            Art. 28. Entende-se por salário-de-contribuição:
+            I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas, assim
+            entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês,
+            destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+            habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+            serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços
+            nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+            normativa;
+    Sendo assim, podemos concluir que a assertiva “E” é a correta. Apesar de serem assertivas
+    grandes, a questão é simples, pois a assertiva trata da literalidade da lei. Como dissemos,
+    com uma leitura atenta, o candidato preparado resolve. Portanto, não se assuste com
+    questões longas na hora da prova. Ser longa, não necessariamente significa que a questão é
+    difícil.
+
+    Gabarito: E.
+
+          8. (CESPE - Técnico do Seguro Social).
+
+    No próximo item, é apresentada uma situação hipotética acerca de salário-de-contribuição,
+    seguida de uma assertiva a ser julgada.
+    Zilda mantém vínculo empregatício com a empresa Y e com a empresa Z, das quais recebe
+    remuneração mensal equivalente a dois e três salários mínimos, respectivamente. Nessa
+    situação, a contribuição previdenciária de Zilda deverá incidir sobre os valores recebidos de
+    ambos os empregos.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O salário de contribuição é detalhado pelo art. 28 da LOCSS — Lei 8.212/91, por isso vamos
+    recorrer a ele para responder a esta questão.
+            Art. 28. Entende-se por salário-de-contribuição:
+            I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas,
+            assim entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante
+            o mês, destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+            habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+            serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços
+            nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+            normativa;
+            (Destaques Nossos).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                          67
+      www.estrategiaconcursos.com.br                                                                               110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Lembrando que salário de contribuição é diferente do salário do segurado, este é um dos
+    componentes daquele.
+    Lembremos ainda que, no caso de a soma dos dois salários ultrapassar o teto do salário de
+    contribuição, a parte que exceder será desconsiderada para efeito de cálculo do SC.
+    Como podemos analisar a assertiva está correta.
+
+
+    Gabarito: CERTO.
+
+          9. (CESPE - Procurador do Estado do Piauí ).
+
+    Em relação ao salário de contribuição, julgue o item a seguir:
+    O salário de contribuição de empregado que, vinculado ao RGPS, integre categoria cuja
+    remuneração mensal mínima seja fixada em R$ 1.800,00 por acordo coletivo é o salário
+    mínimo.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Esta questão foi bem elaborada.
+    As normas do salário de contribuição estão em grande parte no Art. 28 da Lei 8212/91, por
+    isso vamos ver o que diz a lei:
+            Lei 8212/91.
+            Art. 28. §3º O limite mínimo do salário-de-contribuição corresponde ao piso salarial, legal ou
+            normativo, da categoria ou, inexistindo este, ao salário mínimo, tomado no seu valor mensal, diário
+            ou horário, conforme o ajustado e o tempo de trabalho efetivo durante o mês.
+            (Destaques Nossos).
+    Sendo assim podemos concluir que, para o segurado empregado, o salário mínimo apenas
+    é considerado quando inexiste piso salarial da categoria. Portanto a assertiva é falsa.
+
+
+    Gabarito: ERRADA.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    68
+      www.estrategiaconcursos.com.br                                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          10. (CESPE - Técnico do Seguro Social).
+
+    No próximo item, é apresentada uma situação hipotética acerca de salário-de-contribuição,
+    seguida de uma assertiva a ser julgada.
+    Gustavo inscreveu-se na previdência social na condição de segurado facultativo. Nessa
+    situação, o salário-de-contribuição de Gustavo deverá variar entre um salário mínimo e o
+    teto máximo fixado em portaria interministerial.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    De fato, é assim que funciona. Para responder a esta questão iremos recorrer ao art. 214 do
+    RPS — Decreto 3.048/99, pois lá estão listadas as parcelas integrantes e não integrantes do
+    salário de contribuição, além de estar conceituado o salário de contribuição de cada
+    categoria de segurado.
+            Art. 214. Entende-se por salário-de-contribuição: (...)
+            VI - para o segurado facultativo: o valor por ele declarado, observados os limites a que se referem os
+            § 3º e §5º; (...)
+            § 3º O limite mínimo do salário-de-contribuição corresponde:
+            I - para os segurados contribuinte individual e facultativo, ao salário mínimo; (...)
+            § 5º O valor do limite máximo do salário-de-contribuição será publicado mediante portaria do
+            Ministério da Previdência e Assistência Social, sempre que ocorrer alteração do valor dos benefícios.
+            (Destaques Nossos).
+    Obs: Atualmente a citada portaria é publicada pelo Ministério da Fazenda.
+    Sendo assim, podemos concluir que a assertiva é verdadeira.
+
+
+    Gabarito: CERTA.
+
+          11. (FCC - Procurador do Tribunal de Contas do Município do Rio de Janeiro).
+
+    Quanto ao custeio da Seguridade Social, conforme normas constitucionais e da legislação
+    aplicável à matéria, é correto afirmar:
+    a) As contribuições sociais sempre incidirão sobre aposentadoria e pensão, do trabalhador
+    e dos demais segurados, concedidas pelo Regime Geral da Previdência Social.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                       69
+      www.estrategiaconcursos.com.br                                                                            110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    b) O salário de contribuição se confunde com o valor da contribuição recolhida à Previdência
+    Social.
+    c) Entende-se por salário de contribuição o valor base sobre o qual será determinada a
+    contribuição a ser recolhida; para o empregado doméstico será a remuneração registrada
+    na Carteira de Trabalho e Previdência Social.
+    d) O salário de benefício é sinônimo de salário de contribuição, possuindo assim mesma
+    natureza jurídica e destinação.
+    e) Não há previsão legal para fixação de limites mínimo e máximo para o salário de
+    contribuição.
+
+
+    COMENTÁRIOS:
+    Essa questão exige seus conhecimentos sobre a Lei 8.212/91.
+    Vamos às assertivas:
+    a) As contribuições sociais sempre incidirão sobre aposentadoria e pensão, do trabalhador
+    e dos demais segurados, concedidas pelo Regime Geral da Previdência Social.
+    Incorreta, uma vez que não incide contribuição previdenciária sobre aposentadorias e
+    pensões, nem tampouco sobre qualquer benefício previdenciário, conforme podemos
+    verificar no art. 28. da Lei 8.212/91:
+           Art. 28. Da Lei 8.212/91.(...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           a) os benefícios da previdência social, nos termos e limites legais, (...)
+
+           Obs.: O salário-maternidade, entretanto, era exceção a esta regra, pois integrava o
+           salário de contribuição e sobre ele incidia contribuição previdenciária.
+           Contudo, Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário
+           nº 576.967/PR, declarou a inconstitucionalidade de dispositivos da Lei 8.212/1991 que
+           instituíam a cobrança da contribuição previdenciária patronal sobre o salário-
+           maternidade. Com base nesse entendimento, a Procuradoria Geral da Fazenda
+           Nacional editou o PARECER SEI Nº 18361/2020/ME, em que orienta os órgãos da
+           Administração para se adequarem, mediante autorização para dispensa de contestar
+           e recorrer. A decisão tem repercussão geral, tendo-se fixada a seguinte tese: “É
+           inconstitucional a incidência da contribuição previdenciária a cargo do empregador
+           sobre o salário maternidade"
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       70
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    b) O salário de contribuição se confunde com o valor da contribuição recolhida à Previdência
+    Social.
+    Incorreto. São coisas diferentes. O salário de contribuição é, em regra, a base de cálculo da
+    contribuição dos segurados, mas não o valor da contribuição em si. Revisitemos a definição
+    do salário de contribuição, conforme o Art. 28. Da Lei 8.212/91:
+           Art. 28. Entende-se por salário-de-contribuição:
+            I - para o empregado e trabalhador avulso: a remuneração auferida em uma ou mais empresas, assim
+           entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês,
+           destinados a retribuir o trabalho, qualquer que seja a sua forma, inclusive as gorjetas, os ganhos
+           habituais sob a forma de utilidades e os adiantamentos decorrentes de reajuste salarial, quer pelos
+           serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços
+           nos termos da lei ou do contrato ou, ainda, de convenção ou acordo coletivo de trabalho ou sentença
+           normativa;
+           II - para o empregado doméstico: a remuneração registrada na Carteira de Trabalho e Previdência
+           Social, observadas as normas a serem estabelecidas em regulamento para comprovação do vínculo
+           empregatício e do valor da remuneração;
+           III - para o contribuinte individual: a remuneração auferida em uma ou mais empresas ou pelo exercício
+           de sua atividade por conta própria, durante o mês, observado o limite máximo a que se refere o § 5o;
+           IV - para o segurado facultativo: o valor por ele declarado, observado o limite máximo a que se refere
+           o § 5 o.
+
+
+    c) Entende-se por salário de contribuição o valor base sobre o qual será determinada a
+    contribuição a ser recolhida; para o empregado doméstico será a remuneração registrada
+    na Carteira de Trabalho e Previdência Social.
+    Correta, conforme podemos verificar no Art. 28, da Lei 8.212/91, em seu inciso II, abaixo
+    transcrito:
+           Art. 28. Entende-se por salário-de-contribuição:(...)
+           II - para o empregado doméstico: a remuneração registrada na Carteira de Trabalho e Previdência
+           Social, observadas as normas a serem estabelecidas em regulamento para comprovação do vínculo
+           empregatício e do valor da remuneração;
+
+
+    d) O salário de benefício é sinônimo de salário de contribuição, possuindo assim mesma
+    natureza jurídica e destinação.
+    Incorreta, pois o salário de contribuição, como dissemos, é base de cálculo par o valor a ser
+    recolhido (pago) como contribuição, já o salário de benefício, como estudaremos adiante,
+    guarda relação com o valor do benefício previdenciário (a ser recebido).
+
+
+    e) Não há previsão legal para fixação de limites mínimo e máximo para o salário de
+    contribuição.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                      71
+      www.estrategiaconcursos.com.br                                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Incorreta. O salário de contribuição possui limite máximo (teto) e também limite mínimo. O
+    valor máximo é reajustado anualmente. Para este último caso, por exemplo, podemos citar
+    o art. 28 da Lei 8.212/91:
+            Art. 28.(...)
+             § 3º O limite mínimo do salário-de-contribuição corresponde ao piso salarial, legal ou normativo, da
+            categoria ou, inexistindo este, ao salário mínimo, tomado no seu valor mensal, diário ou horário,
+            conforme o ajustado e o tempo de trabalho efetivo durante o mês.
+
+    Gabarito: C.
+
+          12. (CESPE - Técnico do Seguro Social).
+
+    No próximo item, é apresentada uma situação hipotética acerca de salário-de-contribuição,
+    seguida de uma assertiva a ser julgada.
+    Bruna, empregada da empresa Vargas & Vargas Cia. Ltda., entrou em gozo de licença-
+    maternidade. Nessa situação, haverá incidência da contribuição previdenciária sobre o valor
+    recebido por Bruna a título de salário-maternidade.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+            Conforme podemos verificar no Art. 28. da Lei 8.212/91, salário maternidade era o
+            único benefício previdenciário, concedido pelo RGPS, sobre o qual a lei prevê a
+            incidência de contribuição:
+            Art. 28. Da Lei 8.212/91.
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+            a) os benefícios da previdência social, nos termos e limites legais, salvo o salário-
+            maternidade;
+
+
+            Portanto assertiva foi considerada correta na ocasião da aplicação da prova.
+
+
+            Obs: Apesar de ter sido considerada correta na época da aplicação da prova,
+            atualmente foi declarado pelo STF como inconstitucional a incidência da contribuição
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                      72
+      www.estrategiaconcursos.com.br                                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           previdenciária a cargo do empregador sobre o salário maternidade". Por tal motivo,
+           atualizamos o gabarito para assertiva INCORRETA.;
+
+
+    Gabarito: ERRADO.
+
+          13. (CESPE - Advogado da União – AGU).
+
+    Acerca do RGPS, julgue o item subsequente.
+    Conforme entendimento do STF, não há incidência de contribuição previdenciária nos
+    benefícios do RGPS, incluído o salário-maternidade.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Conforme podemos verificar no Art. 28. da Lei 8.212/91, salário maternidade era o único
+    benefício previdenciário, concedido pelo RGPS, sobre o qual a lei prevê a incidência de
+    contribuição:
+    Art. 28. Da Lei 8.212/91.
+    § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+    a) os benefícios da previdência social, nos termos e limites legais, salvo o salário-
+    maternidade;
+
+
+    Portanto assertiva foi considerada errada na ocasião.
+
+
+    Obs: Apesar de ter sido considerada incorreta na época da aplicação da prova, atualmente
+    foi declarado pelo STF como inconstitucional a incidência da contribuição previdenciária a
+    cargo do empregador sobre o salário maternidade". Por tal motivo, atualizamos o gabarito
+    para assertiva CORRETA.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   73
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          14. (CESPE - Auditor de Controle Externo – TC/ DF).
+
+    No que se refere ao Regime Geral de Previdência Social (RGPS), julgue o item seguinte.
+    Não é considerado salário de contribuição o salário-maternidade.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Conforme podemos verificar no Art. 28. da Lei 8.212/91, salário maternidade era o único
+    benefício previdenciário, concedido pelo RGPS, sobre o qual a lei prevê a incidência de
+    contribuição:
+    Art. 28. da Lei 8.212/91:
+    § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+    a) os benefícios da previdência social, nos termos e limites legais, salvo o salário-
+    maternidade;
+
+
+    Portanto assertiva foi considerada errada na ocasião.
+
+
+    Obs: Apesar de ter sido considerada incorreta na época da aplicação da prova, atualmente
+    foi declarado pelo STF como inconstitucional a incidência da contribuição previdenciária a
+    cargo do empregador sobre o salário maternidade". Por tal motivo, atualizamos o gabarito
+    para assertiva CORRETA.
+
+
+    Gabarito: CERTO.
+
+          15. (CESPE - Procurador do Estado do Piauí)
+
+    Em relação ao salário de contribuição, julgue o item a seguir:
+    Compõem o salário de contribuição do empregado vinculado ao RGPS as parcelas
+    remuneratórias decorrentes do seu trabalho, ressalvada a gratificação natalina (décimo
+    terceiro salário), conforme entendimento do STF.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   74
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    COMENTÁRIOS:
+    Para o candidato despreparado, é fácil errar esta questão.
+    As normas do salário de contribuição estão em grande parte no Art. 28 da Lei 8212/91, por
+    isso vamos ver o que diz a lei:
+
+
+            Lei 8212/91.
+            Art. 28. (...)
+            § 7º O décimo-terceiro salário (gratificação natalina) integra o salário-de-contribuição, exceto para o
+            cálculo de benefício, na forma estabelecida em regulamento.
+            (Destaques Nossos).
+    A respeito da incidência de contribuição previdenciária sobre o 13º salário, o STF editou a
+    Súmula 688, senão vejamos:
+            “Súmula 688: É legítima a incidência da contribuição previdenciária sobre o 13º salário”.
+    Como podemos perceber, segundo a lei e segundo o STF, a gratificação natalina integra
+    normalmente o salário de contribuição e, sobre ela, deverá incidir contribuição
+    previdenciária .
+    Sendo assim podemos concluir que a assertiva está incorreta.
+
+
+    Gabarito: ERRADA.
+
+          16. (CESPE - Auditor de Controle Externo – TCE/ RO – Direito).
+
+    Acerca do financiamento dos RPPSs e do RGPS, julgue o próximo item.
+    Os aposentados e pensionistas do RGPS deverão contribuir para o financiamento desse
+    mesmo regime com proventos de seus respectivos benefícios, com a incidência da mesma
+    alíquota aplicada aos segurados em atividade, desde que o valor de seus proventos supere
+    o limite máximo estabelecido para o referido regime.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Assertiva incorreta. Para embasar nossa resposta, vamos recorrer ao Art. 195 da
+    Constituição Federal.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                        75
+      www.estrategiaconcursos.com.br                                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            Art. 195. (...)
+            II - do trabalhador e dos demais segurados da previdência social, não incidindo contribuição sobre
+            aposentadoria e pensão concedidas pelo regime geral de previdência social de que trata o art. 201.
+            (Destaques Nossos).
+    Vejamos, agora, o que diz a Lei 8.212/91 sobre tal assunto:
+            Art. 28. Entende-se por salário-de-contribuição:
+            (...)
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+            os benefícios da previdência social, nos termos e limites legais, (...)
+            (Destaques nossos)
+    Assim sendo, podemos concluir que aposentadoria ou pensão, quando são concedidas pelo
+    Regime Geral, não sofrem incidência de contribuição previdenciária. Por outro lado, no
+    Regime Próprio de Previdência Social – RPP, incidirá contribuição quando os proventos
+    ultrapassarem o teto do RGPS. Portanto, assertiva incorreta.
+
+
+    Gabarito: ERRADA.
+
+          17. (CESPE - Técnico do Seguro Social).
+
+    No próximo item, é apresentada uma situação hipotética acerca de salário-de- contribuição,
+    seguida de uma assertiva a ser julgada.
+     O contrato de trabalho de Carlos, empregado da empresa L & M Ltda., foi rescindido antes
+    que ele pudesse usufruir de férias vencidas. Nessa situação, haverá a incidência de
+    contribuição previdenciária sobre a importância paga a título de indenização das férias
+    vencidas e sobre o respectivo adicional constitucional.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O salário de contribuição é detalhado pelo art. 28 da LOCSS — Lei 8.212/91, por isso
+    recorramos a ele para responder esta questão.
+            Art. 28. Entende-se por salário-de-contribuição: (...)
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   76
+      www.estrategiaconcursos.com.br                                                                        110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional,
+            inclusive o valor correspondente à dobra da remuneração de férias de que trata o art. 137 da
+            Consolidação das Leis do Trabalho-CLT;
+            (Destaques Nossos).
+    Como podemos verificar a assertiva diz exatamente o contrário da lei, por isso está
+    incorreta.
+
+    Gabarito: ERRADA.
+
+
+          18. (CESPE - Delegado de Polícia Federal).
+                                                       ==219a34==
+
+    De acordo com as normas constitucionais e legais acerca do financiamento da seguridade
+    social, julgue o item seguinte.
+    Integram o salário de contribuição que equivale à remuneração auferida pelo empregado,
+    as parcelas referentes ao salário e às férias, ainda que indenizadas.
+    ( ) Certo
+    ( ) Errado
+
+    COMENTÁRIOS:
+    Ora, foi o "ainda que indenizadas" do examinador que tornou essa resposta incorreta.
+    Sabemos que férias gozadas e salário integram o salário-de-contribuição. Já quanto às férias
+    indenizadas, é diferente. Sobre férias indenizadas, não incide a contribuição para a
+    Seguridade Social. Vejamos o Decreto 3048/98 em alguns trechos que selecionamos:
+            Art. 214. (...)
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+            IV - as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional,
+            inclusive o valor correspondente à dobra da remuneração de férias de que trata o art. 137 da
+            Consolidação das Leis do Trabalho; (...)
+            § 14. A incidência da contribuição sobre a remuneração das férias ocorrerá no mês a que elas se
+            referirem, mesmo quando pagas antecipadamente na forma da legislação trabalhista.
+            (Destaques nossos)
+    Portanto, assertiva incorreta.
+
+    Gabarito: ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                     77
+      www.estrategiaconcursos.com.br                                                                          110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          19. (CESPE - Analista Técnico-Administrativo – DPU).
+
+    No que se refere ao financiamento da seguridade social, julgue o item a seguir.
+    Segundo a legislação vigente, deve haver incidência de contribuição previdenciária sobre
+    importância recebida a título de incentivo a demissão voluntária e abono de férias.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O salário de contribuição é detalhado pelo art. 28 da LOCSS — Lei 8.212/91, por isso vamos
+    recorrer a ele para responder à questão.
+            Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+            e) as importâncias: (...)
+            5. recebidas a título de incentivo à demissão;
+            6. recebidas a título de abono de férias na forma dos arts. 143 e 144 da CLT;
+            (Destaques Nossos).
+    Como podemos verificar a assertiva diz exatamente o contrário da lei, por isso está
+    incorreta.
+
+
+    Gabarito: ERRADA.
+
+          20. (CESPE - Procurador do Estado do Piauí).
+
+    Em relação ao salário de contribuição, julgue o item a seguir:
+    Segundo entendimento do STF, a indenização de transporte paga em dinheiro não integra o
+    salário de contribuição.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Via de regra, indenizações não integram o salário de contribuição.
+    As normas do salário de contribuição estão em grande parte no Art. 28 da Lei 8212/91.
+    Vejamos o que diz a lei, especificamente sobre esta questão:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                             78
+      www.estrategiaconcursos.com.br                                                                                   110
+
+                                        
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+            f) a parcela recebida a título de vale-transporte, na forma da legislação própria;
+            (Destaques Nossos).
+    Ademais, o STF, tem se posicionado no sentido de que o vale-transporte, mesmo sendo pago
+    em dinheiro, não sofre incidência de contribuição previdenciária, em virtude de sua
+    natureza não salarial. Diante deste entendimento do STF, o STJ revisou seu entendimento
+    anterior e passou a decidir no mesmo sentido.
+
+
+    Gabarito: CERTO.
+
+          21. (FCC – Analista Judiciário - TRT 21ª Região – Judiciária).
+
+    De acordo com a Lei nº 13.467/2017, para fins de contribuição à Previdência Social:
+    a) o total das diárias para viagem pagas pelo empregador, quando excedente a cinquenta
+    por cento do salário mensal, integra o salário de contribuição.
+    b) as diárias para viagem pagas pelo empregador, em nenhuma hipótese, integram o salário
+    de contribuição.
+    c) apenas o percentual das diárias para viagem que exceder cinquenta por cento do salário
+    mensal do empregado integra o salário de contribuição.
+    d) os prêmios e abonos integram o salário de contribuição, desde que decorram de
+    regulamento interno da empresa.
+    e) o valor relativo à assistência prestada por serviço médico ou odontológico conveniado
+    pela empresa integra o salário de contribuição, desde que concedido a todos os
+    empregados.
+
+
+    COMENTÁRIOS:
+    Essa questão testa os seus conhecimentos a respeito do art. 28 da LOCSS — Lei 8.212/91,
+    que trata do assunto parcelas integrantes e não integrantes do salário-de-contribuição.
+    Vamos às Assertivas:
+    a) o total das diárias para viagem pagas pelo empregador, quando excedente a cinquenta
+    por cento do salário mensal, integra o salário de contribuição.
+    Incorreta. Essa era a regra antes da Lei 13.467/17. A redação do dispositivo correspondente
+    foi alterada, conforme podemos verificar:
+            Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                             79
+      www.estrategiaconcursos.com.br                                                                                   110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           h) as diárias para viagens; (...)
+
+
+    b) as diárias para viagem pagas pelo empregador, em nenhuma hipótese, integram o salário
+    de contribuição.
+    Correta. Basta conferir no Art. 28 da Lei 8.212/91 (mesma alínea que analisamos acima):
+           Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           h) as diárias para viagens;
+    Dica: não que isso seja uma regra absoluta, mas preste atenção quando há alternativas com
+    conceitos totalmente (ou mesmo parcialmente) opostos nas assertivas de uma mesma
+    questão. Pois, quando isto acontece, é comum a resposta correta estar em uma das
+    alternativas com ideias opostas.
+
+
+    c) apenas o percentual das diárias para viagem que exceder cinquenta por cento do salário
+    mensal do empregado integra o salário de contribuição.
+    Incorreta, pois, como vimos, com a Lei 13.467/17, as diárias para viagem deixaram de
+    integrar o salário de contribuição, sem limite de valor.
+
+
+    d) os prêmios e abonos integram o salário de contribuição, desde que decorram de
+    regulamento interno da empresa.
+    Incorreta. Antes da Lei 13.467/17, havia uma pequena restrição normativa em relação aos
+    prêmios e abonos, que não poderiam ser habituais ou contratuais. No entanto, atualmente
+    prêmios e abonos não integram mais o salário de contribuição, em qualquer caso. Vamos
+    conferir agora como ficou a Lei, após as mudanças feitas no §9º do art. 28 da Lei 8.212/91:
+           Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           z) os prêmios e os abonos.
+
+
+    e) o valor relativo à assistência prestada por serviço médico ou odontológico conveniado
+    pela empresa integra o salário de contribuição, desde que concedido a todos os
+    empregados.
+    Incorreta. Antes das alterações trazidas pela Lei 13.467/17, tais valores não integrariam o
+    Salário de Contribuição desde que disponível à totalidade dos empregados e dirigentes da
+    empresa. Após as modificações, foi eliminado esse condicionante, conforme podemos ver
+    em §9º do art. 28 da Lei 8.212/91:
+           Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                            80
+      www.estrategiaconcursos.com.br                                                                                  110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+           q) o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou
+           por ela conveniado, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos
+           ortopédicos, próteses, órteses, despesas médico-hospitalares e outras similares;
+           (...)
+
+    Gabarito: B
+
+          22. (FCC - Procurador Autárquico – MANAUSPREV).
+
+    Nos termos da legislação que institui e regulamenta o Plano de Custeio da Seguridade Social
+    no Brasil, sobre salário de contribuição, é INCORRETO afirmar:
+    a) O valor de diárias para viagem não excedentes de 50% da remuneração mensal, a parcela
+    recebida a título de vale-transporte na forma da lei própria e a participação nos lucros e
+    resultados da empresa integram o salário de contribuição do empregado urbano.
+    b) O salário de contribuição para o empregado doméstico é a remuneração registrada em
+    Carteira de Trabalho e Previdência Social, observadas as normas a serem estabelecidas em
+    regulamento para comprovação de vínculo empregatício e os limites mínimo e máximo da
+    remuneração.
+    c) A gratificação natalina integra o salário de contribuição da empregada urbana, exceto
+    para o cálculo do salário de benefício.
+    d) As importâncias recebidas a título de férias indenizadas com o respectivo adicional
+    constitucional, inclusive o valor da dobra da remuneração de férias, prevista no art. 137, da
+    CLT não integram o salário de contribuição do empregado urbano.
+    e) O salário de contribuição do contribuinte individual é a remuneração auferida em uma ou
+    mais empresas ou pelo exercício de sua atividade por conta própria, durante o mês,
+    observados os limites mínimo e máximo previstos no decreto regulamentador.
+
+
+    COMENTÁRIOS:
+    Essa questão exige seus conhecimentos sobre a Lei 8.212/91 e atenção, pois o examinador
+    pede a alternativa incorreta.
+    Vamos às assertivas:
+    a) O valor de diárias para viagem não excedentes de 50% da remuneração mensal, a parcela
+    recebida a título de vale-transporte na forma da lei própria e a participação nos lucros e
+    resultados da empresa integram o salário de contribuição do empregado urbano.
+    Incorreta, conforme veremos abaixo:
+    Art. 28. Lei 8212/91.(...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    81
+      www.estrategiaconcursos.com.br                                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente (...)
+    f) a parcela recebida a título de vale-transporte, na forma da legislação própria;
+    h) as diárias para viagens, desde que não excedam a 50% (cinquenta por cento) da remuneração mensal;
+    h) as diárias para viagens
+    j) a participação nos lucros ou resultados da empresa, quando paga ou creditada de acordo com lei específica;
+    Notem que a alínea “h” foi alterada, exatamente onde podemos encontrar o primeiro erro
+    da assertiva.
+    Além disso, a parcela recebida a título de vale-transporte na forma da lei própria (item “f”
+    acima) e a participação nos lucros e resultados da empresa (item “j” acima) não integram o
+    salário de contribuição. Assim sendo, temos 3 erros na mesma assertiva.
+    Portanto, está será o gabarito da questão.
+
+
+    b) O salário de contribuição para o empregado doméstico é a remuneração registrada em
+    Carteira de Trabalho e Previdência Social, observadas as normas a serem estabelecidas em
+    regulamento para comprovação de vínculo empregatício e os limites mínimo e máximo da
+    remuneração.
+    Correta, conforme podemos verificar na Lei 8212/91:
+           Art. 28. Entende-se por salário-de-contribuição:
+           II - para o empregado doméstico: a remuneração registrada na Carteira de Trabalho e Previdência
+           Social, observadas as normas a serem estabelecidas em regulamento para comprovação do vínculo
+           empregatício e do valor da remuneração;
+
+
+    c) A gratificação natalina integra o salário de contribuição da empregada urbana, exceto
+    para o cálculo do salário de benefício.
+    Correta, conforme podemos verificar no mesmo artigo da Lei 8212/91:
+           Art. 28. Entende-se por salário-de-contribuição: (...)
+           § 7º O décimo-terceiro salário (gratificação natalina) integra o salário-de-contribuição, exceto para o
+           cálculo de benefício, na forma estabelecida em regulamento.
+           (Destaques Nossos)
+
+
+    d) As importâncias recebidas a título de férias indenizadas com o respectivo adicional
+    constitucional, inclusive o valor da dobra da remuneração de férias, prevista no art. 137, da
+    CLT não integram o salário de contribuição do empregado urbano.
+    Assertiva também correta, conforme podemos verificar na mesma lei:
+           Lei 8212/91:
+           Art. 28. Entende-se por salário-de-contribuição:(...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                       82
+      www.estrategiaconcursos.com.br                                                                            110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+            d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional,
+            inclusive o valor correspondente à dobra da remuneração de férias de que trata o art. 137 da
+            Consolidação das Leis do Trabalho-CLT;
+
+
+    e) O salário de contribuição do contribuinte individual é a remuneração auferida em uma ou
+    mais empresas ou pelo exercício de sua atividade por conta própria, durante o mês,
+    observados os limites mínimo e máximo previstos no decreto regulamentador.
+    Correta, conforme também podemos verificar na:
+            Lei 8212/91
+            Art. 28. Entende-se por salário-de-contribuição:(...)
+            II - para o contribuinte individual: a remuneração auferida em uma ou mais empresas ou pelo exercício
+            de sua atividade por conta própria, durante o mês, observado o limite máximo a que se refere o § 5o
+
+    Portanto, gabarito: A.
+
+          23. (FCC - Juiz do Trabalho - TRT 1ª Região).
+
+    A respeito do salário de contribuição, conforme estabelecido pela Lei nº 8.212/1991, é
+    correto afirmar:
+    a) Não integram o salário de contribuição os benefícios da previdência social, nos termos e
+    limites legais.
+    b) Integram o salário de contribuição, pelo seu valor total, as diárias pagas, mesmo quando
+    o montante não exceder a 50% da remuneração mensal.
+    c) Integram o salário de contribuição as importâncias recebidas a título de incentivo à
+    demissão.
+    d) O décimo terceiro salário (gratificação natalina) integra o salário de contribuição, inclusive
+    para o cálculo de benefício.
+    e) Integram o salário de contribuição as importâncias recebidas a título de férias indenizadas
+    e respectivo adicional constitucional.
+
+
+    COMENTÁRIOS:
+    Essa questão exige o seu conhecimento a respeito do art. 28 da LOCSS — Lei 8.212/91
+    Vamos às Assertivas:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                      83
+      www.estrategiaconcursos.com.br                                                                           110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    a) Não integram o salário de contribuição os benefícios da previdência social, nos termos e
+    limites legais.
+    Correto, conforme podemos verificar no art. 28. da Lei 8.212/91:
+           Art. 28. Da Lei 8.212/91.(...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           a) os benefícios da previdência social, nos termos e limites legais, (...);
+           Obs.: O salário-maternidade, entretanto, era exceção a esta regra, pois integrava o salário de
+           contribuição e sobre ele incidia contribuição previdenciária.
+           Contudo, Supremo Tribunal Federal (STF), no julgamento do Recurso Extraordinário nº 576.967/PR,
+           declarou a inconstitucionalidade de dispositivos da Lei 8.212/1991 que instituíam a cobrança da
+           contribuição previdenciária patronal sobre o salário-maternidade. Com base nesse entendimento, a
+           Procuradoria Geral da Fazenda Nacional editou o PARECER SEI Nº 18361/2020/ME, em que orienta os
+           órgãos da Administração para se adequarem, mediante autorização para dispensa de contestar e
+           recorrer. A decisão tem repercussão geral, tendo-se fixada a seguinte tese: “É inconstitucional a
+           incidência da contribuição previdenciária a cargo do empregador sobre o salário maternidade;
+
+
+    b) Integram o salário de contribuição, pelo seu valor total, as diárias pagas, mesmo quando
+    o montante não exceder a 50% da remuneração mensal.
+    Assertiva incorreta, senão, vejamos o que diz a lei (atualizada):
+           Art. 28. Lei 8212/91.(...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente (...)
+           f) a parcela recebida a título de vale-transporte, na forma da legislação própria;
+           h) as diárias para viagens, desde que não excedam a 50% (cinquenta por cento) da remuneração
+           mensal;
+           h) as diárias para viagens
+           j) a participação nos lucros ou resultados da empresa, quando paga ou creditada de acordo com lei
+           específica;
+    Notem que a alínea “h” foi alterada.
+
+
+    c) Integram o salário de contribuição as importâncias recebidas a título de incentivo à
+    demissão.
+    Incorreta. Incentivo à demissão é claramente excluído da contribuição:
+           Art. 28. (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           e) as importâncias: (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 84
+      www.estrategiaconcursos.com.br                                                                      110
+
+                                       
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            5. recebidas a título de incentivo à demissão;
+
+
+    d) O décimo terceiro salário (gratificação natalina) integra o salário de contribuição, inclusive
+    para o cálculo de benefício.
+    Realmente existe incidência sobre o 13º salário da contribuição, só que conforme podemos
+    verificar na lei ele não entra no cálculo do benefício:
+            Art. 28. (...) § 7º O décimo-terceiro salário (gratificação natalina) integra o salário-de-contribuição,
+            exceto para o cálculo de benefício, na forma estabelecida em regulamento.
+
+
+    e) Integram o salário de contribuição as importâncias recebidas a título de férias indenizadas
+    e respectivo adicional constitucional.
+    Lembre-se pagamento de férias indenizadas e respectivo adicional constitucional não
+    integram o salário de contribuição. Assertiva incorreta, conforme podemos verificar abaixo:
+            Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+            d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional,
+            inclusive o valor correspondente à dobra da remuneração de férias de que trata o art. 137 da
+            Consolidação das Leis do Trabalho; (...
+
+    Gabarito: Letra A.
+
+          24. (FCC - Analista Judiciário - TRT 15ª Região – Judiciária).
+
+    Integra o salário-de-contribuição, devendo incidir contribuições previdenciárias:
+    a) o auxílio por incapacidade temporária e o auxílio-acidente pagos pela Previdência Social
+    a empregados, nos termos e limites legais.
+    b) a parcela "in natura" recebida de acordo com os programas de alimentação aprovados
+    pelo Ministério do Trabalho e Emprego.
+    c) a parcela recebida a título de vale-transporte, na forma da legislação própria.
+    d) a ajuda de custo, em parcela única, recebida exclusivamente em decorrência de mudança
+    de local de trabalho do empregado.
+    e) a importância paga ao empregado a título de complementação ao valor do auxílio por
+    incapacidade temporária, quando este direito não seja extensivo à totalidade dos
+    empregados.
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                             85
+      www.estrategiaconcursos.com.br                                                                                   110
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Essa questão sobre os itens que integram (ou não integram) o salário de contribuição exige
+    seus conhecimentos sobre a Lei 8.212/91 Art. 28.
+    Analisemos as assertivas:
+
+
+    a) o auxílio por incapacidade temporária e o auxílio-acidente pagos pela Previdência Social
+    a empregados, nos termos e limites legais.
+    Incorreto. O auxílio por incapacidade temporária, bem como o auxílio acidente, não
+    integram o salário de contribuição, nos termos do art. 28. da Lei 8.212/91:
+           Art. 28. Da Lei 8.212/91.
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+           a) os benefícios da previdência social, nos termos e limites legais, (...);
+
+
+    b) a parcela "in natura" recebida de acordo com os programas de alimentação aprovados
+    pelo Ministério do Trabalho e Emprego.
+    Incorreto, conforme podemos verificar no mesmo Art. 28. Da Lei 8.212/91:
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           c) a parcela "in natura" recebida de acordo com os programas de alimentação aprovados pelo
+           Ministério do Trabalho e da Previdência Social, nos termos da Lei nº 6.321, de 14 de abril de 1976; (...)
+
+
+    c) a parcela recebida a título de vale-transporte, na forma da legislação própria.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           f) a parcela recebida a título de vale-transporte, na forma da legislação própria; (...)
+
+
+    d) a ajuda de custo, em parcela única, recebida exclusivamente em decorrência de mudança
+    de local de trabalho do empregado.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           b) as ajudas de custo e o adicional mensal recebidos pelo aeronauta nos termos da Lei nº 5.929, de 30
+           de outubro de 1973;
+
+
+    e) a importância paga ao empregado a título de complementação ao valor do auxílio por
+    incapacidade temporária, quando este direito não seja extensivo à totalidade dos
+    empregados.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                         86
+      www.estrategiaconcursos.com.br                                                                              110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Correto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente:
+            n) a importância paga ao empregado a título de complementação ao valor do auxílio por incapacidade
+            temporária, desde que este direito seja extensivo à totalidade dos empregados da empresa;
+            (Destaques Nossos).
+    Portanto, a situação hipotética da questão integraria o salário de contribuição.
+
+    Gabarito: Letra E.
+
+          25. (FCC - Juiz do Trabalho - TRT 1ª Região).
+
+    Integra o salário-de-contribuição, devendo incidir as contribuições previdenciárias:
+    a) As importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional.
+    b) A participação nos lucros ou resultados da empresa, quando paga ou creditada de acordo
+    com lei específica.
+    c) O valor das contribuições vertidas pelo empregador a plano de previdência
+    complementar, aberto ou fechado, quando tal direito não seja disponível à totalidade dos
+    empregados.
+    d) O valor correspondente ao vale-cultura.
+    e) O valor correspondente a vestuários, equipamentos e outros acessórios fornecidos ao
+    empregado e utilizados no local do trabalho para prestação dos respectivos serviços.
+
+
+    COMENTÁRIOS:
+    Essa questão exige seus conhecimentos sobre a Lei 8.212/91 Art. 28.
+    Vamos às assertivas:
+    a) As importâncias recebidas a título de férias indenizadas e respectivo adicional
+    constitucional.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+            Art. 28. (...)
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+            d) as importâncias recebidas a título de férias indenizadas e respectivo adicional constitucional,
+            inclusive o valor correspondente à dobra da remuneração de férias de que trata o art. 137 da
+            Consolidação das Leis do Trabalho-CLT;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   87
+      www.estrategiaconcursos.com.br                                                                        110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    b) A participação nos lucros ou resultados da empresa, quando paga ou creditada de acordo
+    com lei específica.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           Art. 28. (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           j) a participação nos lucros ou resultados da empresa, quando paga ou creditada de acordo com lei
+           específica;
+    c) O valor das contribuições vertidas pelo empregador a plano de previdência
+    complementar, aberto ou fechado, quando tal direito não seja disponível à totalidade dos
+    empregados.
+    Correto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           Art. 28. (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           p) o valor das contribuições efetivamente pago pela pessoa jurídica relativo a programa de previdência
+           complementar, aberto ou fechado, desde que disponível à totalidade de seus empregados e
+           dirigentes, observados, no que couber, os arts. 9º e 468 da CLT;
+           (Destaques Nossos)
+    d) O valor correspondente ao vale-cultura.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           Art. 28.
+           (...) § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           y) o valor correspondente ao vale-cultura.
+    e) O valor correspondente a vestuários, equipamentos e outros acessórios fornecidos ao
+    empregado e utilizados no local do trabalho para prestação dos respectivos serviços.
+    Incorreto, conforme podemos verificar no Art. 28. Da Lei 8.212/91:
+           Art. 28. (...)
+           § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+           r) o valor correspondente a vestuários, equipamentos e outros acessórios fornecidos ao empregado e
+           utilizados no local do trabalho para prestação dos respectivos serviços;
+
+    Gabarito: Letra C
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                            88
+      www.estrategiaconcursos.com.br                                                                                  110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          26. (ESAF – AFRFB).
+
+    Sobre as verbas que não integram o salário de contribuição é correto afirmar que, dentre
+    elas, temos a ajuda de custo, em parcela única, recebida exclusivamente em decorrência
+    de mudança de local de trabalho do empregado.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso VII, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição,
+    senão vejamos:
+            Lei 8.212/91
+            Art. 28 (...)
+            § 9º Não integram o salário-de-contribuição para os fins desta Lei, exclusivamente: (...)
+            g) a ajuda de custo, em parcela única, recebida exclusivamente em decorrência de mudança de local
+            de trabalho do empregado, na forma do art. 470 da CLT;
+    Assim dispõe o art. 470 da CLT:
+            “Art. 470 - As despesas resultantes da transferência correrão por conta do empregador.”
+    As ajudas de custo têm a finalidade de indenizar o empregado, ressarcindo ou antecipando
+    as despesas do trabalhador com a transferência para local diverso do seu domicílio.
+    ATENÇÃO: Para que não sofra incidência de contribuição previdenciária, a ajuda de custo
+    deverá ser paga em parcela única. Caso seja paga em 2 ou mais parcelas, haverá a incidência
+    da contribuição previdenciária sobre todas elas.
+
+    GABARITO: CERTO
+
+          27. (ESAF – AFRFB).
+
+    Sobre as verbas que não integram o salário de contribuição é correto afirmar que, dentre
+    elas, temos a importância recebida a título de bolsa de complementação educacional de
+    estagiário quando paga nos termos da Lei n. 6.494/77.
+    ( ) Certo
+    ( ) Errado
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  89
+      www.estrategiaconcursos.com.br                                                                       110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso IX, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    A importância recebida a título de bolsa de complementação educacional de estagiário,
+    quando paga nos termos da Lei (atualmente Lei nº 11.788/2008), não integra o salário de
+    contribuição, pois, neste caso, o estagiário não é considerado segurado obrigatório do RGPS
+    e os valores por ele recebidos não são considerados remuneração. Assim sendo, se
+    cumpridos os preceitos legais do contrato de estágio, não incidirá contribuição
+    previdenciária sobre sua bolsa de complementação educacional.
+    Contudo, se o estágio for realizado em desacordo com a lei, o estagiário será segurado
+    obrigatório, na qualidade de empregado, e a bolsa integrará o salário de contribuição e
+    sobre ela incidirá, consequentemente, contribuições previdenciárias.
+
+
+    GABARITO: CERTO
+
+          28. (ESAF – AFRFB).
+
+    Sobre as verbas que não integram o salário de contribuição é correto afirmar que, dentre
+    elas, temos a participação nos lucros ou resultados da empresa, quando paga ou
+    creditada de acordo e nos limites de lei específica.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso X, do Regulamento da Previdência Social – RPS, aprovado
+    pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição, desde que
+    paga ou creditada nos termos da lei.
+    A CF/88, em seu art. 7º, inciso XI, afirma ser direitos dos trabalhadores urbanos e rurais,
+    além de outros que visem à melhoria de sua condição social, participação nos lucros, ou
+    resultados, desvinculada da remuneração.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     90
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Sobre a questão, assim dispõe a alínea “j” do § 9º do art. 28 da Lei nº 8.212/1991:
+           “Art. 28...
+           (...)
+           § 9º Não integram o salário de contribuição para os fins desta Lei, exclusivamente:
+           (...)
+           j) a participação dos empregados nos lucros ou resultados da empresa, quando paga ou creditada de
+           acordo com lei específica”.
+    A lei específica que regula a participação dos trabalhadores nos lucros ou resultados da
+    empresa é a Lei no 10.101/2000, cujas principais disposições são mencionadas a seguir:
+     • A participação nos lucros ou resultados será objeto de negociação entre a empresa e
+       seus empregados, mediante um dos procedimentos a seguir descritos, escolhidos pelas
+       partes de comum acordo:
+                   o comissão escolhida pelas partes, integrada, também, por um representante
+                     indicado pelo sindicato da respectiva categoria;
+                   o convenção ou acordo coletivo.
+     • Dos instrumentos decorrentes da negociação deverão constar regras claras e objetivas
+       quanto à fixação dos direitos substantivos da participação e das regras adjetivas,
+       inclusive mecanismos de aferição das informações pertinentes ao cumprimento do
+       acordado, periodicidade da distribuição, período de vigência e prazos para revisão do
+       acordo, podendo ser considerados, entre outros, os seguintes critérios e condições:
+                   o índices de produtividade, qualidade ou lucratividade da empresa;
+                   o programas de metas, resultados e prazos, pactuados previamente.
+     • O instrumento de acordo celebrado será arquivado na entidade sindical dos
+       trabalhadores.
+     • É vedado o pagamento de qualquer antecipação ou distribuição de valores a título de
+       participação nos lucros ou resultados da empresa em mais de 2 (duas) vezes no mesmo
+       ano civil e em periodicidade inferior a 1 (um) trimestre civil.
+    Desta forma, a importância paga a título de participação nos lucros ou resultados da
+    empresa, quando paga nos termos da Lei no 10.101/2000, não integra o salário de
+    contribuição.
+    Por outro lado, se descumpridos os requisitos legais, tal verba será considerada base de
+    cálculo de contribuições previdenciárias.
+
+    GABARITO: CERTO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 91
+      www.estrategiaconcursos.com.br                                                                      110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          29. (ESAF – AFRFB).
+
+    Sobre as verbas que não integram o salário de contribuição é correto afirmar que, dentre
+    elas, temos o abono do Programa de Integração Social-PIS e do Programa de Assistência
+    ao Servidor Público-PASEP.
+    ( ) Certo
+    ( ) Errado
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso XI, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    A CF/88, em seu art. 239, §3º, dispõe que:
+            “Art. 239. (...)
+            §3º Aos empregados que percebam de empregadores que contribuem para o Programa de Integração
+            Social ou para o Programa de Formação do Patrimônio do Servidor Público, até dois salários mínimos
+            de remuneração mensal, é assegurado o pagamento de um salário mínimo anual, computado neste
+            valor o rendimento das contas individuais, no caso daqueles que já participavam dos referidos
+            programas, até a data da promulgação desta Constituição.”
+    Tais valores, denominados abono do PIS/PASEP, não sofrem incidência de contribuição
+    previdenciária, pois, além de não serem pagos pelo empregador, estão expressamente
+    previstos no §9º, do art. 28, da Lei n 8.212/91 como parcelas não integrantes do salário de
+    contribuição.
+
+    GABARITO: CERTO
+
+
+          30. (ESAF – AFRFB).
+
+    Sobre as verbas que não integram o salário de contribuição é correto afirmar que, dentre
+    elas, temos a importância paga ao empregado a título de complementação ao valor do
+    auxílio por incapacidade temporária, desde que este direito seja extensivo aos demais
+    empregados da empresa.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   92
+      www.estrategiaconcursos.com.br                                                                        110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso XIII, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    A importância paga ao empregado a título de complementação ao valor do auxílio por
+    incapacidade temporária não integra o salário de contribuição, desde que este direito seja
+    extensivo à totalidade dos empregados da empresa.
+    A palavra-chave que devemos memorizar, necessária para que a complementação do auxílio
+    por incapacidade temporária não integre a base de cálculo das contribuições
+    previdenciárias, é a obrigatoriedade de que este direito seja extensivo a todos os
+    empregados da empresa.
+    O auxílio por incapacidade temporária é um benefício previdenciário devido ao segurado
+    que se encontra temporariamente incapaz para o exercício da sua atividade habitual por
+    período superior a quinze dias consecutivos, seja por motivo de doença ou acidente. A renda
+    mensal deste benefício é de 91% do salário de benefício do segurado.
+    Em regra, o valor do auxílio por incapacidade temporária é inferior à remuneração mensal
+    do trabalhador. Para evitar que o trabalhador tenha uma redução em sua renda, algumas
+    empresas complementam tal valor, pagando a diferença entre o valor do auxílio por
+    incapacidade temporária pago pelo INSS e o valor da remuneração do empregado, buscando
+    manter o poder aquisitivo de seus empregados durante o gozo do benefício.
+    No entanto, tal complementação somente deixará de integra o salário de contribuição se
+    for extensiva à totalidade de empregados da empresa.
+
+    GABARITO: CERTO
+
+
+          31. (ESAF – AFRFB).
+
+    Sobre o conceito de salário de contribuição, é correto afirmar que para os segurados
+    empregado e trabalhador avulso, a remuneração auferida em uma ou mais empresas,
+    assim entendida a totalidade dos rendimentos que lhe são pagos, devidos ou creditados
+    a qualquer título, durante o mês, destinados a retribuir o trabalho, qualquer que seja a
+    sua forma, inclusive as gorjetas, os ganhos habituais sob a forma de utilidades e os
+    adiantamentos decorrentes de reajuste salarial, quer pelos serviços efetivamente
+    prestados, quer pelo tempo à disposição do empregador ou tomador de serviços, nos
+    termos da lei ou do contrato ou, ainda, de convenção ou de acordo coletivo de trabalho
+    ou de sentença normativa, observados os limites mínimo e máximo.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     93
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca do conceito do salário de
+    contribuição dos segurados empregados e trabalhadores avulso.
+    Nos termos do art. 214, inciso I, do Regulamento da Previdência Social – RPS, aprovado pelo
+    Decreto nº 3.048/99, tal assertiva reproduz com perfeição o conceito de salário de
+    contribuição para os segurados empregado e trabalhador avulso.
+
+
+    GABARITO: CERTO
+
+
+          32. (ESAF – AFRFB).
+
+    Sobre o conceito de salário de contribuição, é correto afirmar que para o segurado
+    empregado doméstico, a remuneração registrada em sua CTPS ou comprovada mediante
+    recibos de pagamento, observados os limites mínimo e máximo.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca do conceito do salário de
+    contribuição do empregado doméstico.
+    Nos termos do art. 214, inciso II, do Regulamento da Previdência Social – RPS, aprovado pelo
+    Decreto nº 3.048/99, tal assertiva reproduz com perfeição o conceito de salário de
+    contribuição para o segurado empregado doméstico.
+
+    GABARITO: CERTO
+
+          33. (ESAF – AFRFB).
+
+    Sobre o conceito de salário de contribuição, é correto afirmar que para o segurado
+    contribuinte individual, independentemente da data de filiação ao RGPS, considerando
+    os fatos geradores ocorridos desde 1º de abril de 2003, a remuneração auferida em uma
+    ou mais empresas ou pelo exercício de sua atividade por conta própria, durante o mês,
+    observados os limites mínimo e máximo do salário de contribuição.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     94
+      www.estrategiaconcursos.com.br                                                          110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca do conceito do salário de
+    contribuição do contribuinte individual.
+    Nos termos do art. 214, inciso III, do Regulamento da Previdência Social – RPS, aprovado
+    pelo Decreto nº 3.048/99, tal assertiva reproduz com perfeição o conceito de salário de
+    contribuição para o segurado contribuinte individual.
+
+
+    GABARITO: CERTO
+
+          34. (ESAF – AFRFB).
+
+    Sobre o conceito de salário de contribuição, é correto afirmar que para o segurado
+    especial que usar da faculdade de contribuir individualmente, considera-se salário de
+    contribuição o valor por ele declarado.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca do conceito do salário de
+    contribuição do segurado facultativo.
+    Nos termos do art. 200, § 2º, do Regulamento da Previdência Social – RPS, aprovado pelo
+    Decreto nº 3.048/99, o segurado especial, além da sua contribuição obrigatória, poderá
+    contribuir, facultativamente, tal qual o contribuinte individual.
+    Neste caso, nos termos da IN RFB 971/2009, art. 55, V, o salário de contribuição do segurado
+    especial, que usar da faculdade de contribuir individualmente, será o valor por ele
+    declarado.
+    Por oportuno, devemos lembrar que o recolhimento de contribuições facultativas sobre o
+    salário de contribuição não desobriga o segurado especial de continuar contribuindo
+    normalmente sobre a receita bruta da comercialização da sua produção rural.
+
+
+    GABARITO: CERTO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     95
+      www.estrategiaconcursos.com.br                                                          110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          35. (ESAF – ATRFB).
+
+    Integra o salário de contribuição o valor recebido a título de indenização por despedida
+    sem justa causa nos contratos de trabalho por prazo determinado.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso V, item “c”, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    Na ocorrência de despedida arbitrária ou sem justa causa, além das parcelas salariais
+    devidas, o empregado receberá uma indenização compensatória igual a 40% sobre o
+    montante dos depósitos efetuados ao FGTS, acrescidos da correção monetária e dos juros
+    capitalizados.
+    Tais verbas tem caráter indenizatório, não possuindo, portanto, natureza salarial. Desta
+    forma, não integram o salário de contribuição e não serão base de cálculo das contribuições
+    previdenciárias.
+    Como o enunciado afirma equivocadamente que tais verbas integram o salário de
+    contribuição, é incorreta a presente assertiva.
+
+    GABARITO: ERRADO
+
+          36. (ESAF – ATRFB).
+
+    Integra o salário de contribuição a parcela recebida de acordo com programa de
+    alimentação aprovado pelo Ministério do Trabalho e Emprego, nos termos da Lei da
+    Alimentação do Trabalhador.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     96
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Nos termos do art. 214, § 9º, inciso III, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição,
+    desde que fornecidas de acordo com o Programa de Alimentação do Trabalhador - PAT.
+    Entretanto, o STJ, por diversas vezes, decidiu que, mesmo não inscrita e não cumprindo os requisitos legais
+    do Programa de Alimentação do Trabalhador – PAT, não deveria haver incidência de contribuição
+    previdenciária sobre a alimentação e cestas básicas fornecida aos trabalhadores, uma vez que não possui
+    natureza salarial
+    No entanto, se o pagamento do auxílio-alimentação for feito em dinheiro, ele integra a base
+    de cálculo das contribuições previdenciárias. Este, inclusive, é o entendimento da Turma
+    Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais (TNU),
+    conforme segue:
+    TNU – Súmula 67 – O auxílio-alimentação recebido em pecúnia por segurado filiado ao Regime Geral da
+    Previdência Social integra o salário de contribuição e sujeita-se à incidência de contribuição previdenciária.
+    Como o enunciado afirma equivocadamente que tais verbas integram o salário de
+    contribuição, é incorreta a presente assertiva.
+
+
+    GABARITO: ERRADO
+
+          37. (ESAF – ATRFB).
+
+    Integra o salário de contribuição a importância recebida a título de férias indenizadas e
+    respectivo adicional constitucional.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso IV, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    Como o enunciado afirma equivocadamente que tais verbas integram o salário de
+    contribuição, é incorreta a presente assertiva.
+
+
+    GABARITO: ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                       97
+      www.estrategiaconcursos.com.br                                                                            110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          38. (ESAF – ATRFB).
+
+    Integra o salário de contribuição o valor recebido como indenização de 40% do montante
+    depositado no FGTS, como proteção à relação de emprego contra despedida arbitrária ou
+    sem justa causa.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+    Nos termos do art. 214, § 9º, inciso V, item “c”, do Regulamento da Previdência Social – RPS,
+    aprovado pelo Decreto nº 3.048/99, tais valores não integram o salário de contribuição.
+    Na ocorrência de despedida arbitrária ou sem justa causa, além das parcelas salariais
+    devidas, o empregado receberá uma indenização compensatória igual a 40% sobre o
+    montante dos depósitos efetuados ao FGTS, acrescidos da correção monetária e dos juros
+    capitalizados.
+    Tais verbas tem caráter indenizatório, não possuindo, portanto, natureza salarial. Desta
+    forma, não integram o salário de contribuição e não serão base de cálculo das contribuições
+    previdenciárias.
+    Como o enunciado afirma equivocadamente que tais verbas integram o salário de
+    contribuição, é incorreta a presente assertiva.
+
+
+    GABARITO: ERRADO
+
+          39. (ESAF – ATRFB).
+
+    Integra o salário de contribuição a remuneração auferida, a qualquer título, em uma ou
+    mais empresas, por trabalhador avulso, durante o mês, destinado a retribuir o trabalho.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     98
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+    Nos termos do art. 214, inciso I, do Regulamento da Previdência Social – RPS, aprovado pelo
+    Decreto nº 3.048/99, a remuneração auferida, a qualquer título, em uma ou mais empresas,
+    por trabalhador avulso, durante o mês, destinado a retribuir o trabalho, integra o conceito
+    de salário de contribuição para o trabalhador avulso, bem como para o segurado
+    empregado.
+    Como o enunciado afirma corretamente que tais verbas integram o salário de contribuição,
+    é correta a presente assertiva.
+
+
+    GABARITO: CERTO
+
+          40. (TRT - 15ª Região – Juiz)
+
+    Não integram o salário de contribuição: a parcela recebida a título de vale-transporte, na
+    forma da legislação própria; a ajuda de custo, em parcela única, recebida exclusivamente
+    em decorrência de mudança de local de trabalho do empregado, na forma do art. 470 da
+    CLT; as diárias para viagens, qualquer que seja o seu valor.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Vamos analisar cada uma das verbas apresentadas no enunciado:
+          • a parcela recebida a título de vale-transporte, na forma da legislação própria
+            (CORRETA): a
+          • Lei nº 8.212/91 apresenta, em seu art. 28, § 9º, uma lista exaustiva das parcelas que
+            não integram o salário de contribuição. Dentre elas, de acordo com a alínea “f” do
+            mencionado texto legal, aparece a parcela recebida a título de vale-transporte, na
+            forma da legislação própria.
+          • a ajuda de custo, em parcela única, recebida exclusivamente em decorrência de
+            mudança de local de trabalho do empregado, na forma do art. 470 da CLT (CORRETA):
+            a Lei nº 8.212/91 apresenta, em seu art. 28, § 9º, uma lista exaustiva das parcelas que
+            não integram o salário de contribuição. Dentre elas, de acordo com a alínea “g” do
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        99
+      www.estrategiaconcursos.com.br                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+             mencionado texto legal, aparece a presente verba. A ajuda de custo tem a finalidade
+             de indenizar o empregado, ressarcindo ou antecipando as despesas do trabalhador
+             com a transferência para local diverso do seu domicílio.
+          • as diárias para viagens, qualquer que seja o seu valor (CORRETA): a partir da vigência
+            da Lei nº 13.467/2017, o total das diárias pagas, ainda quando excedentes a
+            cinquenta por cento da remuneração mensal, não mais integrarão o salário de
+            contribuição, em qualquer caso.
+
+
+    GABARITO: CERTO
+
+          41. (TRT - 15ª Região – Juiz)
+
+    Não integram o salário de contribuição: a importância recebida a título de bolsa de
+    complementação educacional de estagiário quando paga nos termos da Lei n. 6.494/77;
+    a remuneração trezena ou 13° salário; a participação nos lucros ou resultados da
+    empresa, quando paga ou creditada de acordo com lei específica; o abono do Programa
+    de Integração Social-PIS e do Programa de Assistência ao Servidor Público-PASEP.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que NÃO
+    INTEGRAM o salário de contribuição.
+    Vamos analisar cada uma das verbas apresentadas no enunciado:
+          • a importância recebida a título de bolsa de complementação educacional de
+            estagiário quando paga nos termos da Lei n. 6.494/77 (CORRETA): Nos termos da
+            alínea “j” do § 9º do art. 28 da Lei nº 8.212/9, a importância recebida a título de bolsa
+            de complementação educacional de estagiário, quando paga nos termos da Lei, não
+            integra o salário de contribuição, pois, neste caso, o estagiário não é considerado
+            segurado obrigatório do RGPS e os valores por ele recebidos não são considerados
+            remuneração. Assim sendo, se cumpridos os preceitos legais do contrato de estágio,
+            não incidirá contribuição previdenciária sobre sua bolsa de complementação
+            educacional.
+          • a remuneração trezena ou 13° salário (INCORRETA): O 13º salário integra o salário de
+            contribuição. A respeito da incidência de contribuição previdenciária sobre o 13º
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         100
+      www.estrategiaconcursos.com.br                                                               110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+             salário, o STF editou a Súmula 688, senão vejamos: “Súmula 688: É legítima a
+             incidência da contribuição previdenciária sobre o 13º salário”.
+          • a participação nos lucros ou resultados da empresa, quando paga ou creditada de
+            acordo com lei específica (CORRETA): Nos termos da alínea “j” do § 9º do art. 28 da
+            Lei nº 8.212/91, não integram o salário de contribuição a participação dos
+            empregados nos lucros ou resultados da empresa, quando paga ou creditada de
+            acordo com lei específica.
+          • o abono do Programa de Integração Social-PIS e do Programa de Assistência ao
+            Servidor Público-PASEP (CORRETA): Tais valores não sofrem incidência de
+            contribuição previdenciária, pois, além de não serem pagos pelo empregador, estão
+            expressamente previstos no §9º, do art. 28, da Lei n 8.212/91 como parcelas não
+            integrantes do salário de contribuição.
+
+
+    GABARITO: ERRADO
+
+          42. (TRT - 15ª Região – Juiz)
+
+    Integram o salário de contribuição: os valores correspondentes a transporte, alimentação
+    e habitação fornecidos pela empresa ao empregado contratado para trabalhar em
+    localidade distante da de sua residência, em canteiro de obras ou local que, por força da
+    atividade, exija deslocamento e estada, observadas as normas de proteção estabelecidas
+    pelo Ministério do Trabalho.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enunciado pede que analisemos a presente assertiva, acerca das verbas que INTEGRAM o
+    salário de contribuição.
+    Os valores correspondentes a transporte, alimentação e habitação fornecidos pela empresa
+    ao empregado contratado para trabalhar em localidade distante da de sua residência, em
+    canteiro de obras ou local que, por força da atividade, exija deslocamento e estada,
+    observadas as normas de proteção estabelecidas pelo Ministério do Trabalho não integram
+    o salário de contribuição, nos termos da alínea “m” do § 9º do art. 28 da Lei nº 8.212/91.
+    Assim sendo, está incorreta a presente assertiva.
+
+    GABARITO: ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      101
+      www.estrategiaconcursos.com.br                                                            110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          43. (CESPE - PREVIC - Analista Administrativo - Área Administrativa)
+
+    Com relação às normas constitucionais que regem a previdência social, os ganhos
+    habituais do empregado, inclusive o valor pago, em dinheiro, a título de vale-transporte,
+    incorporam-se ao seu salário para efeito de contribuição previdenciária e consequente
+    repercussão em benefícios.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Em regra, os ganhos habituais do empregado integram o salário de contribuição. Contudo,
+    em relação ao vale-transporte, o STF, tem se posicionado no sentido de que, mesmo sendo
+    pago em dinheiro, não sofre incidência de contribuição previdenciária. Diante deste
+    entendimento do STF, o STJ revisou seu entendimento anterior e passou a decidir no mesmo
+    sentido.
+    Reconhecendo a jurisprudência já pacificada, a Procuradoria Geral da Fazenda Nacional –
+    PGFN emitiu o Parecer nº 2.120/2011, recomendando a não apresentação de contestação,
+    a não interposição de recursos e a desistência dos já interpostos, desde que inexista outro
+    fundamento relevante, nas ações judiciais que visem obter a declaração de que sobre o
+    pagamento de vale transporte em dinheiro não há incidência da contribuição previdenciária.
+    No mesmo ano, foi publicada a Súmula nº 60, de 08 de dezembro de 2011 dispondo sobre
+    o tema, conforme segue (A presente Súmula vincula a RFB e a Fazenda Nacional, impedindo
+    a cobrança de contribuições previdenciárias sobre tais verbas, ainda que pagas em dinheiro:
+            "Não há incidência de contribuição previdenciária sobre o vale transporte pago em pecúnia,
+            considerando o caráter indenizatório da verba".
+
+    GABARITO: ERRADO
+
+
+          44. (CESPE - DETRAN-ES - Advogado)
+
+    Com relação ao salário de contribuição e ao custeio do regime geral de previdência social,
+    o salário de contribuição é um instituto de direito previdenciário inaplicável ao segurado
+    facultativo que não exerce atividade remunerada.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           102
+      www.estrategiaconcursos.com.br                                                                 110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    COMENTÁRIOS:
+    Nos termos do art. 28, inciso IV, da Lei n 8.212/91, entende-se por salário de contribuição,
+    para o segurado facultativo, o valor por ele declarado.
+    Os limites mínimo e máximo do salário de contribuição para o segurado facultativo
+    encontram-se abaixo discriminado:
+    Limite Máximo: Nos termos da Portaria Interministerial MTP/ME Nº 12, DE 17/01/2022, o
+    limite máximo do salário de contribuição para o ano de 2022 é de R$ 7.087,22.
+    Limite Mínimo: É o salário mínimo, tomado no seu valor mensal. (Atualmente R$ 1.212,00)
+    Desta forma, é incorreto afirmar que o salário de contribuição é um instituto de direito
+    previdenciário inaplicável ao segurado facultativo que não exerce atividade remunerada.
+
+
+    GABARITO: ERRADO
+
+          45. (CESPE - PGE-CE - Procurador de Estado)
+
+    Telma é empregada doméstica e segurada da previdência social. Nessa situação, o salário
+    de contribuição de Telma é o valor total recebido, incluindo os ganhos habituais na forma
+    de utilidade, tais como alimentação e moradia.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Nos termos do art. 28, inciso II, da Lei n 8.212/91, entende-se por salário de contribuição,
+    para o empregado doméstico:
+            “a remuneração registrada na Carteira de Trabalho e Previdência Social, observadas as normas a
+            serem estabelecidas em regulamento para comprovação do vínculo empregatício e do valor da
+            remuneração”.
+    Desta forma, é incorreto afirmar que o salário de contribuição de Telma é o valor total
+    recebido, incluindo os ganhos habituais na forma de utilidade, tais como alimentação e
+    moradia, sendo considerado, tão somente, o valor registrado em sua carteira de trabalho.
+
+
+    GABARITO: ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              103
+      www.estrategiaconcursos.com.br                                                                    110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          46. (CESPE - PGE-CE - Procurador de Estado)
+
+    Marcos trabalha em uma empresa que, entre outras vantagens, oferece programa de
+    previdência complementar aberta, disponível a todos os empregados e dirigentes. Nessa
+    situação, pelo fato de esses valores serem dedutíveis do imposto de renda da pessoa
+    física beneficiária, a legislação previdenciária considera tais rubricas como salário de
+    contribuição.
+    ( ) Certo
+    ( ) Errado
+
+    COMENTÁRIOS:
+    O valor das contribuições efetivamente pagas pelo empregador, pessoa jurídica, relativo a
+    programa de Previdência Complementar, aberto ou fechado, desde que disponível à
+    totalidade de seus empregados e dirigentes, não integra o salário de contribuição.
+    Contudo, para que tais valores não integrem o salário de contribuição e não haja,
+    consequentemente, incidência de contribuições previdenciárias sobre eles, é necessário e
+    obrigatório que tal benefício seja disponibilizado a todos os empregados e dirigentes.
+    Caso seja concedido em favor de apenas de alguns segurados, sobre tais valores repassados
+    pela empresa haverá incidência de contribuições previdenciárias.
+    Irrelevante o fato desses valores serem dedutíveis do imposto de renda da pessoa física
+    beneficiária, para ser ou não consideradas parcelas integrantes do salário de contribuição.
+
+    GABARITO: ERRADO
+
+          47. (CESPE - Polícia Federal - Delegado de Polícia - Nacional)
+
+    Carlos advogava para diversas empresas na justiça do trabalho, sem manter vínculo de
+    emprego, auferindo valores fixos mensais de cada uma delas. Nessa situação, o salário de
+    contribuição de Carlos corresponde à soma de todas as remunerações percebidas,
+    independentemente de qualquer limite.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+            Carlos é segurado obrigatório do RGPS na qualidade de contribuinte individual. Nos termos do art. 28,
+            inciso III, da Lei nº 8.212/91, entende-se por salário de contribuição, para o contribuinte individual:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                       104
+      www.estrategiaconcursos.com.br                                                                             110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+            “Art. 28. (...)
+            III - a remuneração auferida em uma ou mais empresas ou pelo exercício de sua atividade por conta
+            própria, durante o mês”.
+    Os limites mínimo e máximo do salário de contribuição para o segurado contribuinte
+    individual encontram-se abaixo discriminado:
+    Limite Máximo: Nos termos da Portaria Interministerial MTP/ME Nº 12, DE 17/01/2022, o
+    limite máximo do salário de contribuição para o ano de 2020 é de R$ 7.087,22.
+    Limite Mínimo: É o salário mínimo, tomado no seu valor mensal. (Atualmente R$ 1.212,00)
+    Logo, incorreta a assertiva, pois afirma que o salário de contribuição de Carlos corresponde
+    à soma de todas as remunerações percebidas, independentemente de qualquer limite.
+
+
+    GABARITO: ERRADO
+
+          48. (INSTITUTO CIDADES - TRT - 1ª REGIÃO (RJ) - Juiz - 1ª Fase)
+
+    De acordo com o artigo 28, da Lei nº 8.212/91, não integram o salário de contribuição a
+    parcela in natura recebida de acordo com os programas de alimentação aprovados pelo
+    Ministério do Trabalho e da Previdência Social, nos termos da Lei nº 6.321, de 14 de abril
+    de 1976.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    O Programa de Alimentação do Trabalhador – PAT, aprovado pelo Ministério do Trabalho,
+    quando devidamente cumprido pelo contribuinte, nos exatos termos da lei, permite que a
+    empresa forneça alimentação e cestas básicas a seus segurados, sem que tais valores
+    integrem a base de cálculo das contribuições previdenciárias.
+    A Receita Federal do Brasil - RFB, até 2011, apurava e cobrava contribuição social incidentes
+    sobre os valores de alimentação e cesta básica fornecidas pela empresa a seus
+    trabalhadores, quando as mesmas não estavam inscritas no PAT ou descumpriam algum de
+    seus requisitos legais.
+    Entretanto, o STJ, por diversas vezes, decidiu em sentido contrário, ao firmar entendimento
+    de que, mesmo não inscrita e não cumprindo os requisitos legais do Programa de
+    Alimentação do Trabalhador – PAT, não deveria haver incidência de contribuição
+    previdenciária sobre a alimentação e cestas básicas fornecida aos trabalhadores.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 105
+      www.estrategiaconcursos.com.br                                                                       110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    Diante da jurisprudência já pacificada, e buscando evitar maiores prejuízos para a Fazenda
+    Nacional, haja vista as sucessivas derrotas na esfera judicial, a própria administração pública
+    reconheceu tal entendimento e, por meio da Procuradoria Geral da Fazenda Nacional –
+    PGFN, emitiu o Parecer nº 2.117/2011. Neste parecer recomenda-se a não apresentação de
+    contestação, a não interposição de recursos e a desistência dos já interpostos, desde que
+    inexista outro fundamento relevante, nas ações judiciais que visem obter a declaração de
+    que sobre o pagamento in natura do auxílio-alimentação não há incidência da contribuição
+    previdenciária.
+    Desta forma, para questões de prova que discorram sobra a incidência ou não de
+    contribuição previdenciária sobre parcela in natura recebida de acordo com os programas
+    de alimentação, a melhor resposta em qualquer desses casos, e que tais valores não
+    integram o salário de contribuição.
+    Outrossim, caso o auxílio alimentação seja fornecido em dinheiro, a RFB considera que tais
+    valores integram o salário de contribuição e sobre eles deve haver cobrança de contribuição
+    previdenciária.
+
+    GABARITO: CERTO
+
+          49. (CESPE - INSS - Técnico do Seguro Social)
+
+    A empresa em que Maurício trabalha paga a ele, a cada mês, um valor referente à
+    participação nos lucros, que é apurado mensalmente. Nessa situação, incide contribuição
+    previdenciária sobre o valor recebido mensalmente por Maurício a título de participação
+    nos lucros.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    A CF/88, em seu art. 7º, inciso XI, afirma ser direitos dos trabalhadores urbanos e rurais,
+    além de outros que visem à melhoria de sua condição social, participação nos lucros, ou
+    resultados, desvinculada da remuneração.
+    Sobre a questão, assim dispõe a alínea “j” do § 9º do art. 28 da Lei nº 8.212/1991:
+            “Art. 28. (...)
+            § 9º Não integram o salário de contribuição para os fins desta Lei, exclusivamente: (...)
+            j) a participação dos empregados nos lucros ou resultados da empresa, quando paga ou creditada de
+            acordo com lei específica”.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 106
+      www.estrategiaconcursos.com.br                                                                       110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    A lei específica que regula a participação dos trabalhadores nos lucros ou resultados da
+    empresa é a Lei no 10.101/2000, cujas principais disposições são mencionadas a seguir:
+     • A participação nos lucros ou resultados será objeto de negociação entre a empresa e
+       seus empregados, mediante um dos procedimentos a seguir descritos, escolhidos pelas
+       partes de comum acordo:
+                 o comissão escolhida pelas partes, integrada, também, por um representante
+                   indicado pelo sindicato da respectiva categoria;
+                 o convenção ou acordo coletivo.
+     • Dos instrumentos decorrentes da negociação deverão constar regras claras e objetivas
+       quanto à fixação dos direitos substantivos da participação e das regras adjetivas,
+       inclusive mecanismos de aferição das informações pertinentes ao cumprimento do
+       acordado, periodicidade da distribuição, período de vigência e prazos para revisão do
+       acordo, podendo ser considerados, entre outros, os seguintes critérios e condições:
+                 o índices de produtividade, qualidade ou lucratividade da empresa;
+                 o programas de metas, resultados e prazos, pactuados previamente.
+     • O instrumento de acordo celebrado será arquivado na entidade sindical dos
+       trabalhadores.
+     • É vedado o pagamento de qualquer antecipação ou distribuição de valores a título de
+       participação nos lucros ou resultados da empresa em mais de 2 (duas) vezes no mesmo
+       ano civil e em periodicidade inferior a 1 (um) trimestre civil.
+    Desta forma, a importância paga a título de participação nos lucros ou resultados da
+    empresa, quando paga nos termos da Lei no 10.101/2000, não integra o salário de
+    contribuição.
+    Por outro lado, se descumpridos os requisitos legais, tal verba será considerada base de
+    cálculo de contribuições previdenciárias.
+    Na presente questão, Maurício recebe, a cada mês, um valor referente à participação nos
+    lucros, que é apurado mensalmente. Nesta situação, a empresa paga participação nos lucros
+    em desacordo com o previsto em lei específica, pois efetua tais pagamentos mais de 2 (duas)
+    vezes no mesmo ano civil e em periodicidade inferior a 1 (um) trimestre civil. Assim sendo,
+    por descumprir a legislação pertinente, incide contribuição previdenciária sobre o valor
+    recebido mensalmente por Maurício a título de participação nos lucros.
+
+    GABARITO: CERTO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   107
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+          50. (CESPE - INSS - Técnico do Seguro Social)
+
+    Luís é vendedor em uma grande empresa que comercializa eletrodomésticos. A título de
+    incentivo, essa empresa oferece aos empregados do setor de vendas um plano de
+    previdência privada. Nessa situação, incide contribuição previdenciária sobre os valores
+    pagos, pela empresa, a título de contribuição para a previdência privada, a Luís.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O valor das contribuições efetivamente pagas pelo empregador, pessoa jurídica, relativo a
+    programa de Previdência Complementar, aberto ou fechado, desde que disponível à
+    totalidade de seus empregados e dirigentes, não integra o salário de contribuição.
+    Contudo, para que tais valores não integrem o salário de contribuição e não haja,
+    consequentemente, incidência de contribuições previdenciárias sobre eles, é necessário e
+    obrigatório que tal benefício seja disponibilizado a todos os empregados e dirigentes.
+    Caso seja concedido em favor de apenas de alguns segurados, sobre tais valores repassados
+    pela empresa haverá incidência de contribuições previdenciárias.
+    Na presente questão, apenas os empregados do setor de vendas recebem um plano de
+    previdência privada. Assim sendo, por não estar disponível à totalidade de seus empregados
+    e dirigentes, integra o salário de contribuição.
+
+    GABARITO: CERTO
+
+          51. (CESPE - INSS - Técnico do Seguro Social)
+
+    Mateus trabalha em uma empresa de informática e recebe o vale-transporte junto às
+    demais rubricas que compõem sua remuneração, que é devidamente depositada em sua
+    conta bancária. Nessa situação, incide contribuição previdenciária sobre os valores
+    recebidos por Mateus a título de vale-transporte.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Com base no art. 28, § 9º, alínea “f” da Lei nº 8.212/91, combinada com a Lei nº 7.418/85,
+    regulamentada pelo Decreto nº 95.247/87, a Receita Federal do Brasil – RFB tinha
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     108
+      www.estrategiaconcursos.com.br                                                           110
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 04
+
+    entendimento de que o vale-transporte pago em dinheiro ao trabalhador sofria a incidência
+    da contribuição previdenciária, pois não estaria sendo paga na forma da legislação própria.
+    Todavia, o STF, tem se posicionado no sentido de que o vale-transporte, mesmo sendo pago
+    em dinheiro, não sofre incidência de contribuição previdenciária. Diante deste
+    entendimento do STF, o STJ revisou seu entendimento anterior e passou a decidir no mesmo
+    sentido.
+    Reconhecendo a jurisprudência já pacificada, a Procuradoria Geral da Fazenda Nacional –
+    PGFN emitiu o Parecer nº 2.120/2011, recomendando a não apresentação de contestação,
+    a não interposição de recursos e a desistência dos já interpostos, desde que inexista outro
+    fundamento relevante, nas ações judiciais que visem obter a declaração de que sobre o
+    pagamento de vale transporte em dinheiro não há incidência da contribuição previdenciária.
+    No mesmo ano, foi publicada a Súmula nº 60, de 08 de dezembro de 2011 dispondo sobre
+    o tema, conforme segue:
+    "Não há incidência de contribuição previdenciária sobre o vale transporte pago em pecúnia,
+    considerando o caráter indenizatório da verba".
+    A presente Súmula vincula a RFB e a Fazenda Nacional, impedindo a cobrança de
+    contribuições previdenciárias sobre tais verbas, ainda que pagas em dinheiro.
+    Na presente questão, ainda que Mateus receba o vale-transporte junto com as demais
+    rubricas que compõem sua remuneração, através de depósito em sua conta bancária, não
+    incidirá contribuição previdenciária sobre os valores por ele recebidos a este título.
+
+
+    GABARITO: ERRADA
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   109
+      www.estrategiaconcursos.com.br                                                         110
+
+                                   
+
+
+---
+
+---

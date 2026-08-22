@@ -1,0 +1,2829 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 18_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: Passo Estratégico de Direito Tributário
+artigos_citados:
+- Art. 156.
+- Art. 158.
+- Art. 168.
+- Art. 174.
+- Artigo 170-A
+- art. 174.
+- artigo 164
+- artigo 165
+sumulas_citadas:
+- Súmula 436
+---
+
+# Passo Estratégico de Direito Tributário
+
+Aula 17
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+                                              19 de Maio de 2023
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
+
+
+    1. Palavras do Professor 
+    2. Análise Estatística 
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+    3. Roteiro de Revisão e Pontos que merecem Destaque 
+    4. Aposta Estratégica 
+    5. Questões Estratégicas 
+          QUESTÕES FGV
+    6. Questionário de Revisão 
+    7. Questões de Aula 
+          QUESTÕES FGV
+          GABARITO 
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre Extinção do Crédito Tributário.
+
+                           Vamos ver os Conceito e Modalidades de Extinção do Crédito
+                           Tributário, além dos principais pontos sobre Pagamento
+                           Indevido e Repetição do Indébito Tributário, sempre mirando
+    o que tem sido cobrado em prova.
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+                           @proffernandoM                                    Tributário FM
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          2
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    2. ANÁLISE ESTATÍSTICA
+
+    Com base na análise estatística das questões de Concursos da Área Fiscal dos
+    últimos anos, temos o seguinte resultado para o(s) assunto(s) que serão
+    tratados neste relatório:
+
+                            Assunto do Edital                                         FGV
+
+                   Extinção do Crédito Tributário                                     7,14%
+
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos da Área Fiscal, que o assunto “Extinção do Crédito Tributário”
+    possui importância Alta, tendo aparecido em mais de 7% das questões da
+    Banca.
+
+                    % de Cobrança                                  Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+                                         Tópico                                       FGV
+          Decadência e Prescrição                                                     35,18%
+
+          Compensação                                                                 8,82%
+
+          Pagamento                                                                   29,41%
+
+          Consignação em Pagamento                                                    5,88%
+
+          Transação                                                                   5,88%
+
+          Remissão                                                                    2,94%
+
+          Outros casos de Extinção do Crédito Tributário                              11,89%
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            4
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+    1. Extinguem o crédito tributário:
+
+          ▪ o Pagamento;
+
+          ▪ a Compensação;
+
+          ▪ a Transação;
+
+          ▪ a Remissão;
+
+          ▪ a Prescrição e a Decadência;
+
+          ▪ a Conversão de depósito em renda;
+
+          ▪ o Pagamento antecipado e a homologação do lançamento;
+
+          ▪ a Consignação em pagamento;
+
+          ▪ a Decisão administrativa irreformável;
+
+          ▪ a Decisão judicial passada em julgado;
+
+          ▪ a Dação em pagamento em bens imóveis, na forma e condições
+
+             estabelecidas em lei.
+
+    2. Atenção, pois não é causa de extinção do crédito tributário a dação em
+    pagamento em bens móveis, por ofensa ao princípio da licitação.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    3. O Pagamento é efetuado:
+
+          ▪ em moeda corrente, cheque ou vale postal;
+
+          ▪ Também é possível que o pagamento seja efetuado em estampilha,
+
+             papel selado ou processo mecânico, apenas nos casos estabelecidos em
+
+             lei.
+
+    4. O crédito pago em cheque somente se considera extinto com o resgate
+    deste pelo sacado.
+
+    5. O crédito pagável em estampilha considera-se extinto com a sua inutilização
+    regular.
+
+    Obs.: A perda ou destruição da estampilha, ou o erro no pagamento por esta
+    modalidade, não dão direito a restituição, salvo nos casos expressamente
+    previstos na legislação tributária, ou naquelas em que o erro seja imputável à
+    autoridade administrativa.
+
+    6. A imposição de penalidade não retira a obrigação do pagamento integral
+    do crédito tributário.
+
+    7. O pagamento de um crédito não importa em presunção de pagamento:
+
+          ▪ quando parcial, das prestações em que se decomponha;
+
+          ▪ quando total, de outros créditos referentes ao mesmo ou a outros
+
+             tributos.
+
+    8. A eventual concessão de descontos para pagamento de tributos só pode
+    ser feita através de lei.
+
+    9. O crédito não integralmente pago no vencimento é acrescido de juros de
+    mora, sem prejuízo da imposição das penalidades cabíveis e da aplicação de
+    quaisquer medidas de garantia previstas nesta Lei ou em lei tributária.
+
+    Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa
+    de 1% ao mês.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   6
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    10. Segundo o STJ, a taxa SELIC não pode ser cumulada com qualquer outro
+    índice de correção, tendo em vista ela já ser composta de taxa de juros mais
+    taxa de correção monetária.
+
+    11. Existindo simultaneamente dois ou mais débitos vencidos do mesmo
+    sujeito passivo para com a mesma pessoa jurídica de direito público, relativos
+    ao mesmo ou a diferentes tributos ou provenientes de penalidade pecuniária
+    ou juros de mora, a autoridade administrativa competente para receber o
+    pagamento determinará a respectiva imputação, obedecidas as seguintes
+    regras, na ordem em que enumeradas:
+
+          ▪ em primeiro lugar, aos débitos por obrigação própria, e em segundo
+             lugar aos decorrentes de responsabilidade tributária;
+          ▪ primeiramente, às contribuições de melhoria, depois às taxas e por fim
+             aos impostos;
+          ▪ na ordem crescente dos prazos de prescrição; (1º os mais curtos)
+          ▪ na ordem decrescente dos montantes. (do maior valor para o menor)
+
+    12. O sujeito passivo tem direito, independentemente de prévio protesto, à
+    restituição total ou parcial do tributo, seja qual for a modalidade do seu
+    pagamento*, nos seguintes casos:
+
+          ▪ cobrança ou pagamento espontâneo de tributo indevido ou maior que
+             o devido em face da legislação tributária aplicável, ou da natureza ou
+             circunstâncias materiais do fato gerador efetivamente ocorrido;
+
+          ▪ erro na edificação do sujeito passivo, na determinação da alíquota
+             aplicável, no cálculo do montante do débito ou na elaboração ou
+             conferência de qualquer documento relativo ao pagamento;
+
+          ▪ reforma, anulação, revogação ou rescisão de decisão condenatória.
+
+    Atenção: Restituição também pode aparecer em prova como “Repetição de
+    Indébito”
+
+    * A restituição não é permitida na hipótese de perda ou destruição da
+    estampilha, ou o erro no pagamento por esta modalidade.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   7
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    13. A Restituição de tributos indiretos (aqueles em que há a transferência do
+    respectivo encargo financeiro) somente será feita a quem prove haver
+    assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar
+    por este expressamente autorizado a recebê-la.
+
+    Em outras palavras, no caso de Tributos Indiretos, quem tem direito à
+    Restituição é o Contribuinte de Direito.
+
+    14. Súmula STF 546: “Cabe a restituição do tributo pago indevidamente,
+    quando reconhecido por decisão, que o contribuinte de jure não recuperou
+    do contribuinte de facto o quantum respectivo”.
+
+    15. Segundo o STJ (REsp 903.394/AL), em regra, o Contribuinte de Fato não
+    possui legitimidade para pleitear a restituição do que foi pago indevidamente,
+    no que se refere aos tributos indiretos.
+
+    16. Porém, no caso de Concessionárias de Serviço Público, é cabível o pedido
+    de Restituição de Tributos Indiretos pelo Contribuinte de Fato nas hipóteses
+    de:
+
+          ▪ ICMS cobrado sobre demanda de Energia Elétrica contratada e não
+
+             utilizada;
+
+          ▪ ICMS cobrado indevidamente em relação a Serviço de provedor de
+             acesso à internet.
+
+    17. Ao pleitear a restituição do tributo pago indevidamente, o sujeito passivo
+    também possui direito à restituição, na mesma proporção, dos juros de mora
+    e da multa moratória paga a maior.
+
+    18. A restituição vence juros não capitalizáveis (juros simples), a partir do
+    trânsito em julgado da decisão definitiva que a determinar.
+
+    19. Súmula STJ 188 – “Os juros moratórios, na repetição do indébito tributário,
+    são devidos a partir do trânsito em julgado da sentença”.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   8
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    20. Súmula STJ 162 – “Na repetição de indébito tributário, a correção
+    monetária incide a partir do pagamento indevido”.
+    21. A taxa de juros de mora na restituição dos tributos deve ser a mesma
+    utilizada na cobrança do tributo pago em atraso.
+
+    22. O prazo para pleitear a restituição, em regra, é de 5 anos, contados da
+    data da extinção do crédito tributário.
+
+    23. Quando o pedido administrativo de restituição é negado, o contribuinte
+    tem 2 anos para pedir judicialmente a anulação da decisão administrativa que
+    denegou a restituição do imposto pago indevidamente.
+
+    Nas palavras do CTN:
+
+                        Art. 169. Prescreve em dois anos a ação anulatória da decisão
+                        administrativa que denegar a restituição.
+
+                        Parágrafo único. O prazo de prescrição é interrompido pelo
+                        início da ação judicial, recomeçando o seu curso, por metade, a
+                        partir da data da intimação validamente feita ao representante
+                        judicial da Fazenda Pública interessada.
+
+    Para a prova, memorize “Denegar” = “Dois anos” (ambos começam com a
+    letra “D”)
+
+    24. Existindo lei autorizativa, pode a Fazenda Compensar créditos tributários
+    com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo
+    contra a Fazenda pública.
+
+    Sendo vincendo o crédito do sujeito passivo, a lei determinará a apuração do
+    seu montante, não podendo a redução ser maior que 1% ao mês pelo tempo
+    a decorrer entre a data da compensação e a do vencimento.
+
+    25. É proibida a Compensação mediante o aproveitamento de tributo, objeto
+    de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da
+    respectiva decisão judicial.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       9
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    26. A Transação tem por objetivo pôr fim a um litígio (seja ele administrativo
+    ou judicial) instaurado entre o sujeito passivo e a Fazenda Pública, mediante
+    concessões mútuas.
+
+
+    27. A Transação só pode ocorrer se existir lei autorizativa.
+
+
+    28. A Remissão é modalidade de Extinção do Crédito tributário, em que ocorre
+    o perdão da dívida (podendo ser tanto de tributo, como de multas).
+
+
+    29. Cuidado pois é comum o examinador trazer na questão o termo
+    “Remição”, que não tem nada a ver com a modalidade de extinção
+    “Remissão”.
+
+
+    30. Prazo Decadencial é aquele que a autoridade possui para promover o
+    lançamento.
+
+
+    31. Prazo Prescricional é aquele que a Fazenda Pública possui, após o
+    lançamento definitivo do tributo, para promover a ação de execução fiscal.
+
+
+    32. Em regra, o direito de a Fazenda Pública constituir o crédito tributário
+    (decadência) extingue-se em 5 anos, contados do primeiro dia do exercício
+    seguinte àquele em que o lançamento poderia ter sido efetuado.
+
+    No caso de a autoridade fiscal notificar o sujeito passivo do início de uma
+    fiscalização ainda no mesmo ano que o lançamento poderia ser efetuado,
+    haverá antecipação da contagem do prazo decadencial para a data em que o
+    sujeito passivo tomou ciência do termo de início de fiscalização, não contando
+    mais a partir do 1º dia do exercício seguinte.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   10
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    33. No caso anulação por vício formal de um crédito tributário, a Fazenda
+    Pública tem ainda 5 anos para novamente constituir este crédito (agora sem o
+    vício formal), a contar da data da respectiva decisão de anulação.
+
+    Nas palavras do CTN:
+
+                        Art. 173. O direito de a Fazenda Pública constituir o crédito
+                        tributário extingue-se após 5 (cinco) anos, contados:
+
+                        II - da data em que se tornar definitiva a decisão que houver
+                        anulado, por vício formal, o lançamento anteriormente
+                        efetuado.
+
+    34. No caso dos Tributos lançados por homologação, o prazo decadencial
+    segue as seguintes regras:
+
+          ▪ Se o sujeito passivo não declara nem paga qualquer valor até a data do
+             vencimento, aplica-se a regra geral, ou seja, o prazo de decadência será
+             de 5 anos contado a partir do primeiro dia do exercício seguinte àquele
+             em que o lançamento poderia ter sido efetuado. (Súmula STJ 555)
+
+
+          ▪ Se o sujeito passivo declara e paga o crédito tributário apenas de forma
+             parcial, a regra é aquela típica dos tributos lançados por homologação,
+             ou seja, conta-se 5 anos a partir da data do fato gerador.
+
+
+          ▪ No caso de dolo, fraude ou simulação, a decadência começa a contar a
+             partir do primeiro dia do exercício seguinte àquele em que o
+             lançamento poderia ter sido efetuado.
+
+    Já se o sujeito passivo declara, mas não paga, o STJ entende que a própria
+    declaração do sujeito passivo constitui o crédito tributário, não sendo mais
+    caso de decadência, e sim de prescrição.
+
+    35. O prazo Prescricional é de 5 anos, contados da data da constituição
+    definitiva do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     11
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    36. No caso de tributos lançados por homologação, o termo inicial do prazo
+    prescricional é a data do vencimento da obrigação tributária, e, quando não
+    houver pagamento, a data da entrega da declaração, sendo esta posterior.
+
+    37. A Prescrição se interrompe nos seguintes casos:
+
+          ▪ pelo despacho do juiz que ordenar a citação em execução fiscal
+
+          ▪ pelo protesto judicial;
+
+          ▪ por qualquer ato judicial que constitua em mora o devedor;
+
+          ▪ por qualquer ato inequívoco ainda que extrajudicial, que importe em
+             reconhecimento do débito pelo devedor.
+
+    38. A Suspensão da exigibilidade do crédito tributário, também suspende o
+    curso do prazo prescricional.
+
+    39. Súmula STJ 314 – “Em execução fiscal, não localizados bens penhoráveis,
+    suspende-se o processo por um ano, findo o qual se inicia o prazo da
+    prescrição quinquenal intercorrente”.
+
+    40. A importância de crédito tributário pode ser consignada judicialmente pelo
+    sujeito passivo, nos casos (Consignação em Pagamento):
+
+          ▪ de recusa de recebimento, ou subordinação deste ao pagamento de
+             outro tributo ou de penalidade, ou ao cumprimento de obrigação
+             acessória;
+          ▪ de subordinação do recebimento ao cumprimento de exigências
+             administrativas sem fundamento legal;
+          ▪ de exigência, por mais de uma pessoa jurídica de direito público, de
+             tributo idêntico sobre um mesmo fato gerador.
+
+    41. A dação em pagamento de Bens Imóveis depende sempre de LEI.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   12
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+                                                Constituição Federal:
+
+
+                        Artigo 100:
+                        Art. 100. Os pagamentos devidos pelas Fazendas Públicas
+                        Federal, Estaduais, Distrital e Municipais, em virtude de
+                        sentença judiciária, far-se-ão exclusivamente na ordem
+                        cronológica de apresentação dos precatórios e à conta dos
+                        créditos respectivos, proibida a designação de casos ou de
+                        pessoas nas dotações orçamentárias e nos créditos adicionais
+                        abertos para este fim.
+
+                        § 1º Os débitos de natureza alimentícia compreendem aqueles
+                        decorrentes de salários, vencimentos, proventos, pensões e
+                        suas complementações, benefícios previdenciários e
+                        indenizações por morte ou por invalidez, fundadas em
+                        responsabilidade civil, em virtude de sentença judicial
+                        transitada em julgado, e serão pagos com preferência sobre
+                        todos os demais débitos, exceto sobre aqueles referidos no §
+                        2º deste artigo.
+
+                                                           CTN:
+
+
+                        Artigo 156:
+                        Art. 156. Extinguem o crédito tributário:
+                        I - o pagamento;
+                        II - a compensação;
+                        III - a transação;
+                        IV - remissão;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    13
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        V - a prescrição e a decadência;
+                        VI - a conversão de depósito em renda;
+                        VII - o pagamento antecipado e a homologação do lançamento
+                        nos termos do disposto no artigo 150 e seus §§ 1º e 4º;
+                        VIII - a consignação em pagamento, nos termos do disposto no
+                        § 2º do artigo 164;
+                        IX - a decisão administrativa irreformável, assim entendida a
+                        definitiva na órbita administrativa, que não mais possa ser
+                        objeto de ação anulatória;
+                        X - a decisão judicial passada em julgado.
+                        XI – a dação em pagamento em bens imóveis, na forma e
+                        condições estabelecidas em lei.
+                        Parágrafo único. A lei disporá quanto aos efeitos da extinção
+                        total ou parcial do crédito sobre a ulterior verificação da
+                        irregularidade da sua constituição, observado o disposto nos
+                        artigos 144 e 149.
+
+                        Artigo 157:
+                        Art. 157. A imposição de penalidade não ilide o pagamento
+                        integral do crédito tributário.
+
+                        Artigo 158:
+                        Art. 158. O pagamento de um crédito não importa em
+                        presunção de pagamento:
+
+                        I - quando parcial, das prestações em que se decomponha;
+
+                        II - quando total, de outros créditos referentes ao mesmo ou a
+                        outros tributos.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      14
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 159:
+                        Art. 159. Quando a legislação tributária não dispuser a respeito,
+                        o pagamento é efetuado na repartição competente do
+                        domicílio do sujeito passivo.
+
+                        Artigo 160:
+                        Art. 160. Quando a legislação tributária não fixar o tempo do
+                        pagamento, o vencimento do crédito ocorre trinta dias depois
+                        da data em que se considera o sujeito passivo notificado do
+                        lançamento.
+
+                        Parágrafo único. A legislação tributária pode conceder
+                        desconto pela antecipação do pagamento, nas condições que
+                        estabeleça.
+
+                        Artigo 161:
+                        Art. 161. O crédito não integralmente pago no vencimento é
+                        acrescido de juros de mora, seja qual for o motivo determinante
+                        da falta, sem prejuízo da imposição das penalidades cabíveis e
+                        da aplicação de quaisquer medidas de garantia previstas nesta
+                        Lei ou em lei tributária.
+
+                        § 1º Se a lei não dispuser de modo diverso, os juros de mora
+                        são calculados à taxa de um por cento ao mês.
+
+                        § 2º O disposto neste artigo não se aplica na pendência de
+                        consulta formulada pelo devedor dentro do prazo legal para
+                        pagamento do crédito.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         15
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 162:
+                        Art. 162. O pagamento é efetuado:
+
+                        I - em moeda corrente, cheque ou vale postal;
+
+                        II - nos casos previstos em lei, em estampilha, em papel selado,
+                        ou por processo mecânico.
+
+
+                        § 1º A legislação tributária pode determinar as garantias
+                        exigidas para o pagamento por cheque ou vale postal, desde
+                        que não o torne impossível ou mais oneroso que o pagamento
+                        em moeda corrente.
+
+
+                        § 2º O crédito pago por cheque somente se considera extinto
+                        com o resgate deste pelo sacado.
+
+
+                        § 3º O crédito pagável em estampilha considera-se extinto com
+                        a inutilização regular daquela, ressalvado o disposto no artigo
+                        150.
+
+
+                        § 4º A perda ou destruição da estampilha, ou o erro no
+                        pagamento por esta modalidade, não dão direito a restituição,
+                        salvo nos casos expressamente previstos na legislação
+                        tributária, ou naquelas em que o erro seja imputável à
+                        autoridade administrativa.
+
+
+                        § 5º O pagamento em papel selado ou por processo mecânico
+                        equipara-se ao pagamento em estampilha.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 163:
+                        Art. 163. Existindo simultaneamente dois ou mais débitos
+                        vencidos do mesmo sujeito passivo para com a mesma pessoa
+                        jurídica de direito público, relativos ao mesmo ou a diferentes
+                        tributos ou provenientes de penalidade pecuniária ou juros de
+                        mora, a autoridade administrativa competente para receber o
+                        pagamento determinará a respectiva imputação, obedecidas as
+                        seguintes regras, na ordem em que enumeradas:
+
+                        I - em primeiro lugar, aos débitos por obrigação própria, e em
+                        segundo lugar aos decorrentes de responsabilidade tributária;
+
+                        II - primeiramente, às contribuições de melhoria, depois às taxas
+                        e por fim aos impostos;
+
+                        III - na ordem crescente dos prazos de prescrição;
+
+                        IV - na ordem decrescente dos montantes.
+
+                        Artigo 164:
+                        Art. 164. A importância de crédito tributário pode ser
+                        consignada judicialmente pelo sujeito passivo, nos casos:
+
+                        I - de recusa de recebimento, ou subordinação deste ao
+                        pagamento de outro tributo ou de penalidade, ou ao
+                        cumprimento de obrigação acessória;
+
+                        II - de subordinação do recebimento ao cumprimento de
+                        exigências administrativas sem fundamento legal;
+
+                        III - de exigência, por mais de uma pessoa jurídica de direito
+                        público, de tributo idêntico sobre um mesmo fato gerador.
+
+                        § 1º A consignação só pode versar sobre o crédito que o
+                        consignante se propõe pagar.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         17
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                         § 2º Julgada procedente a consignação, o pagamento se
+                        reputa efetuado e a importância consignada é convertida em
+                        renda; julgada improcedente a consignação no todo ou em
+                        parte, cobra-se o crédito acrescido de juros de mora, sem
+                        prejuízo das penalidades cabíveis.
+
+                        Artigo 165:
+                        Art. 165. O sujeito passivo tem direito, independentemente de
+                        prévio protesto, à restituição total ou parcial do tributo, seja
+                        qual for a modalidade do seu pagamento, ressalvado o disposto
+                        no § 4º do artigo 162, nos seguintes casos:
+
+
+                        I - cobrança ou pagamento espontâneo de tributo indevido ou
+                        maior que o devido em face da legislação tributária aplicável,
+                        ou da natureza ou circunstâncias materiais do fato gerador
+                        efetivamente ocorrido;
+
+
+                        II - erro na edificação do sujeito passivo, na determinação da
+                        alíquota aplicável, no cálculo do montante do débito ou na
+                        elaboração ou conferência de qualquer documento relativo ao
+                        pagamento;
+
+
+                        III - reforma, anulação, revogação ou rescisão de decisão
+                        condenatória.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        18
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 166:
+                        Art. 166. A restituição de tributos que comportem, por sua
+                        natureza, transferência do respectivo encargo financeiro
+                        somente será feita a quem prove haver assumido o referido
+                        encargo, ou, no caso de tê-lo transferido a terceiro, estar por
+                        este expressamente autorizado a recebê-la.
+
+                        Artigo 167:
+                        Art. 167. A restituição total ou parcial do tributo dá lugar à
+                        restituição, na mesma proporção, dos juros de mora e das
+                        penalidades pecuniárias, salvo as referentes a infrações de
+                        caráter formal não prejudicadas pela causa da restituição.
+
+                        Parágrafo único. A restituição vence juros não capitalizáveis, a
+                        partir do trânsito em julgado da decisão definitiva que a
+                        determinar.
+
+                        Artigo 168:
+                        Art. 168. O direito de pleitear a restituição extingue-se com o
+                        decurso do prazo de 5 (cinco) anos, contados:
+
+                        I - nas hipótese dos incisos I e II do artigo 165, da data da
+                        extinção do crédito tributário
+
+                        II - na hipótese do inciso III do artigo 165, da data em que se
+                        tornar definitiva a decisão administrativa ou passar em julgado
+                        a decisão judicial que tenha reformado, anulado, revogado ou
+                        rescindido a decisão condenatória.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        19
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 169:
+                        Art. 169. Prescreve em dois anos a ação anulatória da decisão
+                        administrativa que denegar a restituição.
+
+                        Parágrafo único. O prazo de prescrição é interrompido pelo
+                        início da ação judicial, recomeçando o seu curso, por metade, a
+                        partir da data da intimação validamente feita ao representante
+                        judicial da Fazenda Pública interessada.
+
+                        Artigo 170:
+                        Art. 170. A lei pode, nas condições e sob as garantias que
+                        estipular, ou cuja estipulação em cada caso atribuir à autoridade
+                        administrativa, autorizar a compensação de créditos tributários
+                        com créditos líquidos e certos, vencidos ou vincendos, do
+                        sujeito passivo contra a Fazenda pública.
+
+                        Parágrafo único. Sendo vincendo o crédito do sujeito passivo, a
+                        lei determinará, para os efeitos deste artigo, a apuração do seu
+                        montante, não podendo, porém, cominar redução maior que a
+                        correspondente ao juro de 1% (um por cento) ao mês pelo
+                        tempo a decorrer entre a data da compensação e a do
+                        vencimento.
+
+                        Artigo 170-A:
+                        Art.     170-A.       É     vedada       a     compensação    mediante   o
+                        aproveitamento de tributo, objeto de contestação judicial pelo
+                        sujeito passivo, antes do trânsito em julgado da respectiva
+                        decisão judicial.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                  20
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 171:
+                        Art. 171. A lei pode facultar, nas condições que estabeleça, aos
+                        sujeitos ativo e passivo da obrigação tributária celebrar
+                        transação que, mediante concessões mútuas, importe em
+                        determinação de litígio e consequente extinção de crédito
+                        tributário.
+
+                        Parágrafo único. A lei indicará a autoridade competente para
+                        autorizar a transação em cada caso.
+
+                        Artigo 172:
+                        Art. 172. A lei pode autorizar a autoridade administrativa a
+                        conceder, por despacho fundamentado, remissão total ou
+                        parcial do crédito tributário, atendendo:
+
+                        I - à situação econômica do sujeito passivo;
+
+                        II - ao erro ou ignorância excusáveis do sujeito passivo, quanto
+                        a matéria de fato;
+
+                        III - à diminuta importância do crédito tributário;
+
+                        IV - a considerações de equidade, em relação com as
+                        características pessoais ou materiais do caso;
+
+                        V - a condições peculiares a determinada região do território da
+                        entidade tributante.
+
+                        Parágrafo único. O despacho referido neste artigo não gera
+                        direito adquirido, aplicando-se, quando cabível, o disposto no
+                        artigo 155.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        21
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Artigo 173:
+                        Art. 173. O direito de a Fazenda Pública constituir o crédito
+                        tributário extingue-se após 5 (cinco) anos, contados:
+
+                        I - do primeiro dia do exercício seguinte àquele em que o
+                        lançamento poderia ter sido efetuado;
+
+                        II - da data em que se tornar definitiva a decisão que houver
+                        anulado, por vício formal, o lançamento anteriormente
+                        efetuado.
+
+                        Parágrafo único. O direito a que se refere este artigo extingue-
+                        se definitivamente com o decurso do prazo nele previsto,
+                        contado da data em que tenha sido iniciada a constituição do
+                        crédito tributário pela notificação, ao sujeito passivo, de
+                        qualquer medida preparatória indispensável ao lançamento.
+
+                        Artigo 174:
+                        Art. 174. A ação para a cobrança do crédito tributário prescreve
+                        em cinco anos, contados da data da sua constituição definitiva.
+
+                        Parágrafo único. A prescrição se interrompe:
+
+                        I – pelo despacho do juiz que ordenar a citação em execução
+                        fiscal;
+
+                        II - pelo protesto judicial;
+
+                        III - por qualquer ato judicial que constitua em mora o devedor;
+
+                        IV - por qualquer ato inequívoco ainda que extrajudicial, que
+                        importe em reconhecimento do débito pelo devedor.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        22
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                                                      Súmulas STJ:
+
+
+                        Súmula STJ 162
+                        Na repetição de indébito tributário, a correção monetária incide
+                        a partir do pagamento indevido.
+
+                        Súmula STJ 188
+                        Os juros moratórios, na repetição do indébito tributário, são
+                        devidos a partir do trânsito em julgado da sentença.
+
+                        Súmula STJ 213
+                        O mandado de segurança constitui ação adequada para a
+                        declaração do direito à compensação tributária.
+
+                        Súmula STJ 314
+                        Em execução fiscal, não localizados bens penhoráveis,
+                        suspende-se o processo por um ano, findo o qual se inicia o
+                        prazo da prescrição quinquenal intercorrente.
+
+                        Súmula STJ 391
+                        O ICMS incide sobre o valor da tarifa de energia elétrica
+                        correspondente à demanda de potência efetivamente utilizada.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        23
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Súmula STJ 436
+                        A entrega de declaração pelo contribuinte reconhecendo
+                        débito fiscal constitui o crédito tributário, dispensada qualquer
+                        outra providência por parte do fisco.
+
+                        Súmula STJ 460
+                        É incabível o mandado de segurança para convalidar a
+                        compensação tributária realizada pelo contribuinte.
+
+                        Súmula STJ 523
+                        A taxa de juros de mora incidente na repetição de indébito de
+                        tributos estaduais deve corresponder à utilizada para cobrança
+                        do tributo pago em atraso, sendo legítima a incidência da taxa
+                        Selic, em ambas as hipóteses, quando prevista na legislação
+                        local, vedada sua cumulação com quaisquer outros índices.
+
+                        Súmula STJ 555
+                        Quando não houver declaração do débito, o prazo decadencial
+                        quinquenal para o Fisco constituir o crédito tributário conta-se
+                        exclusivamente na forma do art. 173, I, do CTN, nos casos em
+                        que a legislação atribui ao sujeito passivo o dever de antecipar
+                        o pagamento sem prévio exame da autoridade administrativa.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         24
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Súmula STJ 622
+                        A notificação do auto de infração faz cessar a contagem da
+                        decadência para a constituição do crédito tributário; exaurida a
+                        instância administrativa com o decurso do prazo para a
+                        impugnação ou com a notificação de seu julgamento definitivo
+                        e esgotado o prazo concedido pela Administração para o
+                        pagamento voluntário, inicia-se o prazo prescricional para a
+                        cobrança judicial.
+
+                        Súmula STJ 625
+                        O pedido administrativo de compensação ou de restituição não
+                        interrompe o prazo prescricional para a ação de repetição de
+                        indébito tributário de que trata o art. 168 do CTN nem o da
+                        execução de título judicial contra a Fazenda Pública.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        25
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                                                      Súmulas STF:
+
+                        Súmula STF 70
+                        É inadmissível a interdição de estabelecimento como meio
+                        coercitivo para cobrança de tributo.
+
+                        Súmula STF 323
+                        É inadmissível a apreensão de mercadorias como meio
+                        coercitivo para pagamento de tributos.
+
+
+                        Súmula STF 546
+                        Cabe a restituição do tributo pago indevidamente, quando
+                        reconhecido por decisão, que o contribuinte de jure não
+                        recuperou do contribuinte de facto o quantum respectivo.
+
+                        Súmula STF 547
+                        Não é lícito à autoridade proibir que o contribuinte em débito
+                        adquira estampilhas, despache mercadorias nas alfândegas e
+                        exerça suas atividades profissionais.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      26
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    4. APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+    Vamos ao conteúdo da nossa aposta?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   27
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    O objetivo desta seção é procurar identificar, por meio de uma amostra de
+    questões de prova, como a Banca cobra o(s) assunto(s), de forma a orientar o
+    estudo dos temas.
+
+    QUESTÕES FGV
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) A pretensão
+    para a propositura de ação anulatória da decisão administrativa, que denega
+    a restituição de indébito tributário, tem prazo de prescrição.
+
+    Sobre esse prazo de prescrição, assinale a afirmativa correta.
+
+    (A) É de 5 (cinco) anos, a contar da notificação do contribuinte da decisão
+    administrativa denegatória da restituição.
+
+    (B) É de 2 (dois) anos, a contar da notificação do contribuinte da decisão
+    administrativa denegatória da restituição.
+
+    (C) É de 5 (cinco) anos, a contar da data da extinção do crédito tributário.
+
+    (D) É de 5 (cinco) anos, a contar da data da ocorrência do fato gerador.
+
+    (E) É de 2 (dois) anos, a contar da notificação da extinção do crédito tributário.
+
+    Comentários: A questão quer saber se o candidato sabe o prazo prescricional
+    para propositura de ação anulatória da decisão administrativa que denega a
+    restituição do indébito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      28
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    O que seria isso? Imagine que seja lançado um crédito tributário em seu nome.
+    Você, por algum descuido, paga uma quantia maior que a devida. Após algum
+    tempo você percebe o erro e deseja realizar a repetição de indébito
+    (restituição do valor pago a maior) na via Administrativa. Você segue os
+    trâmites da legislação tributária, inicia um Processo Administrativo Tributário,
+    mas sua impugnação é denegada e esgotam-se as vias recursais
+    administrativas.
+
+    O que você poderia fazer? Propor uma ação anulatória da decisão
+    administrativa que denegou a repetição do indébito na VIA JUDICIAL. Mas
+    você poderia fazer isso a qualquer momento? É claro que não! Segundo o
+    CTN, você tem um prazo prescricional para isso! Vejamos:
+
+                        Art. 169. Prescreve em dois anos a ação anulatória da decisão
+                        administrativa que denegar a restituição.
+
+    Mas este prazo seria contado da notificação do contribuinte da decisão
+    administrativa denegatória da restituição ou da notificação da extinção do
+    crédito tributário?
+
+    O prazo é contado da ciência do contribuinte sobre a decisão desfavorável.
+    Não seria coerente este prazo correr antes desta decisão.
+
+    Assim chegamos à Alternativa B como resposta: “É de 2 (dois) anos, a contar
+    da notificação do contribuinte da decisão administrativa denegatória da
+    restituição.”
+
+    Gabarito: B
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     29
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    2-) (FGV - Técnico Tributário - SEFIN RO/2018) A sociedade empresária Zeta,
+    contribuinte do tributo Y, pretende realizar compensação tributária, havendo
+    débitos e créditos recíprocos entre a sociedade empresária e a Fazenda.
+    Entretanto, ela tem dúvida sobre qual lei deve ser aplicada para regular a
+    compensação.
+
+    Para esse caso, deve ser utilizada a lei vigente
+
+    (A) na data do encontro de contas.
+
+    (B) no momento da apuração do crédito.
+
+    (C) no encerramento do exercício fiscal.
+
+    (D) na propositura da demanda com este fim.
+
+    (E) na data do pedido administrativo.
+
+    Comentários: A questão cobra uma jurisprudência bem específica sobre a
+    compensação tributária. Vamos revisar este instituto pelo CTN.
+
+                        Art. 170. A lei pode, nas condições e sob as garantias que
+                        estipular, ou cuja estipulação em cada caso atribuir à autoridade
+                        administrativa, autorizar a compensação de créditos tributários
+                        com créditos líquidos e certos, vencidos ou vincendos, do
+                        sujeito passivo contra a Fazenda pública.
+
+                        Parágrafo único. Sendo vincendo o crédito do sujeito passivo, a
+                        lei determinará, para os efeitos deste artigo, a apuração do seu
+                        montante, não podendo, porém, cominar redução maior que a
+                        correspondente ao juro de 1% (um por cento) ao mês pelo
+                        tempo a decorrer entre a data da compensação e a do
+                        vencimento.
+
+                        Art.     170-A.       É     vedada       a     compensação    mediante   o
+                        aproveitamento de tributo, objeto de contestação judicial pelo
+                        sujeito passivo, antes do trânsito em julgado da respectiva
+                        decisão judicial.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                  30
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    O CTN traz apenas as diretrizes gerais sobre a compensação, devendo a lei do
+    ente federativo que a instituir, regulá-la. Mas a questão quer saber qual lei do
+    ente federativo deve ser aplicada para regular a compensação (caso exista um
+    conflito temporal de leis). Segundo o STJ:
+
+                        “A lei que regula a compensação tributária é a vigente à data
+                        do encontro de contas entre os recíprocos débito e crédito da
+                        Fazenda e do contribuinte” (REsp 1.164.452).
+
+    Assim chegamos à Alternativa A como Correta: “na data do encontro de
+    contas.”
+
+    Gabarito: A
+
+    3-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Em
+    dezembro de 2015, a pessoa jurídica X efetuou a entrega da declaração do
+    imposto sobre a renda pessoa jurídica (IRPJ), relativo a fatos geradores
+    ocorridos no mês de julho de 2015, na qual reconheceu o débito fiscal, na sua
+    integralidade.
+
+    No entanto, a pessoa jurídica X não realizou o pagamento do IRPJ, vencido
+    em dezembro de 2015.
+
+    Sobre a hipótese, é correto afirmar que a União Federal deverá
+
+    (A) constituir o crédito, por meio de lançamento, até julho de 2020.
+
+    (B) constituir o crédito, por meio de lançamento, até janeiro de 2021.
+
+    (C) inscrever o crédito em dívida ativa, até julho de 2020.
+
+    (D) ajuizar execução fiscal, até julho de 2020.
+
+    (E) ajuizar execução fiscal, até dezembro de 2020.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     31
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Comentários: Nesta questão devemos conhecer a Súmula 436 do STJ e
+    conjugá-la com o que diz o CTN sobre a prescrição do crédito tributário.
+    Vejamos:
+
+                        STJ. Súmula 436. A entrega de declaração pelo contribuinte
+                        reconhecendo            débito       fiscal     CONSTITUI     O   CRÉDITO
+                        TRIBUTÁRIO, dispensada qualquer outra providência por parte
+                        do fisco.
+
+    Temos, então, que o contribuinte entregou a declaração em Dez/2015
+    (referente aos fatos geradores ocorridos em Julho/2015), constituindo o
+    crédito tributário nesta data, mas não pagou (vencimento também em
+    Dez/2015).
+
+    Se ocorreu a constituição do crédito tributário, não mais podemos falar em
+    decadência a partir deste momento, iniciando o prazo prescricional para a
+    Fazenda propor ação de execução fiscal. E qual é este prazo? Vejamos o CTN:
+
+                        Art. 174. A ação para a cobrança do crédito tributário prescreve
+                        em cinco anos, contados da data da sua constituição definitiva.
+
+    E quando se dá a constituição definitiva do crédito tributário? Em regra, a
+    constituição definitiva do crédito tributário se dá quando se esgota o prazo
+    para impugnação do sujeito passivo. Porém, nos tributos sujeitos a lançamento
+    por homologação, conforme o STJ, a entrega da declaração já constitui o
+    crédito tributário. Neste caso, a partir de que momento se conta o prazo
+    prescricional? Vejamos a jurisprudência do STJ:
+
+                        “(...)1. A Primeira Seção deste STJ no julgamento do REsp
+                        1.120.295/SP, processado sob o rito do art. 543-C do CPC,
+                        confirmou entendimento no sentido de que o termo inicial do
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                 32
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        prazo prescricional quinquenal para cobrança dos tributos
+                        sujeitos a lançamento por homologação é a data do vencimento
+                        da obrigação tributária, e, quando não houver pagamento, a
+                        data da entrega da declaração, sendo esta posterior. (...)”
+                        (STJ, AgRg no AREsp 349.146/SP, Primeira Turma, Rel. Min.
+                        Sérgio Kukina, Julgamento em 07/11/2013)
+
+
+    Com este embasamento, podemos responder à questão. Se o contribuinte
+    entregou a declaração em Dez/2015, constituindo o crédito tributário nesta
+    data e não pagou no vencimento, que também ocorreu em Dez/2015, as datas
+    de vencimento e de entrega da declaração são as mesmas, iniciando o prazo
+    prescricional em Dez/2015. Como esse prazo é de 5 anos, a Fazenda, neste
+    caso, tem até Dez/2020 para ajuizar a ação de execução fiscal.
+
+    Assim chegamos à Alternativa E como Correta: “ajuizar execução fiscal, até
+    dezembro de 2020.”
+
+    Gabarito: E
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) Nos termos do Código Tributário
+    Nacional, se a legislação tributária não fixar o tempo do pagamento, após a
+    data em que se considera o sujeito passivo notificado do lançamento, o
+    vencimento do crédito tributário ocorrerá em:
+
+    (A) 5 dias;
+
+    (B) 10 dias;
+
+    (C) 20 dias;
+
+    (D) 30 dias;
+
+    (E) 45 dias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    33
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Comentários: A questão pede o prazo para pagamento nos termos do CTN.
+    Vejamos:
+
+                        Art. 160. Quando a legislação tributária não fixar o tempo do
+                        pagamento, o vencimento do crédito ocorre trinta dias depois
+                        da data em que se considera o sujeito passivo notificado do
+                        lançamento.
+
+
+                        Parágrafo único. A legislação tributária pode conceder
+                        desconto pela antecipação do pagamento, nas condições que
+                        estabeleça.
+
+    Gabarito: D
+
+    5-) (FGV - Agente Fazendário - Niterói/2015) Nos termos do Código Tributário
+    Nacional, são modalidades de extinção do crédito tributário:
+
+    (A) parcelamento, remissão e decadência;
+
+    (B) pagamento, transação e conversão do depósito em renda;
+
+    (C) anistia, moratória e prescrição;
+
+    (D) decadência, transação e isenção;
+
+    (E) pagamento, prescrição e parcelamento.
+
+    Comentários: Vejamos as hipóteses de extinção do crédito tributário no CTN:
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     34
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Art. 156. Extinguem o crédito tributário:
+
+                        I - o pagamento;
+
+                        II - a compensação;
+
+                        III - a transação;
+
+                        IV - remissão;
+
+                        V - a prescrição e a decadência;
+
+                        VI - a conversão de depósito em renda;
+
+                        VII - o pagamento antecipado e a homologação do lançamento
+                        nos termos do disposto no artigo 150 e seus §§ 1º e 4º;
+
+                        VIII - a consignação em pagamento, nos termos do disposto no
+                        § 2º do artigo 164;
+
+                        IX - a decisão administrativa irreformável, assim entendida a
+                        definitiva na órbita administrativa, que não mais possa ser
+                        objeto de ação anulatória;
+
+                        X - a decisão judicial passada em julgado.
+
+                        XI – a dação em pagamento em bens imóveis, na forma e
+                        condições estabelecidas em lei.
+
+                        Parágrafo único. A lei disporá quanto aos efeitos da extinção
+                        total ou parcial do crédito sobre a ulterior verificação da
+                        irregularidade da sua constituição, observado o disposto nos
+                        artigos 144 e 149.
+
+    Alternativa A (Incorreta): “parcelamento, remissão e decadência;”
+
+    Parcelamento é hipótese de suspensão.
+
+    Alternativa B (Correta): “pagamento, transação e conversão do depósito em
+    renda;”
+
+    É o nosso Gabarito, conforme Art. 156 do CTN.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     35
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Alternativa C (Incorreta): “anistia, moratória e prescrição;”
+
+    Anistia é hipótese de exclusão e moratória é hipótese de suspensão.
+
+    Alternativa D (Incorreta): “decadência, transação e isenção;”
+
+    Isenção é hipótese de exclusão.
+
+    Alternativa E (Incorreta): “pagamento, prescrição e parcelamento.”
+
+    Parcelamento é hipótese de suspensão.
+
+    Gabarito: B
+
+    6-) (FGV - Fiscal de Tributos - Niterói/2015) Um contribuinte é devedor do
+    Município em relação aos seguintes créditos tributários de impostos:
+
+    IPTU – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/10/13;
+
+    ITBIM – R$ 500,00, na qualidade de responsável, vencido em 02/10/13;
+
+    IPTU – R$ 400,00, na qualidade de contribuinte, vencido em 02/09/13;
+
+    ISS – R$ 2.000,00, na qualidade de responsável, vencido em 02/10/12;
+
+    ISS – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/09/13.
+
+    O contribuinte realiza um único pagamento. De acordo com as normas do
+    CTN, a autoridade administrativa competente para receber o pagamento
+    determinará a respectiva imputação em primeiro lugar para o seguinte crédito
+    tributário:
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   36
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    (A) IPTU – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/10/13;
+
+    (B) ITBIM – R$ 500,00, na qualidade de responsável, vencido em 02/10/13;
+
+    (C) IPTU – R$ 400,00, na qualidade de contribuinte, vencido em 02/09/13;
+
+    (D) ISS – R$ 2.000,00, na qualidade de responsável, vencido em 02/10/12;
+
+    (E) ISS – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/09/13.
+
+    Comentários: A questão exige que o candidato saiba sobre Imputação em
+    pagamento. Vejamos o que diz o CTN:
+
+
+                        Art. 163. Existindo simultaneamente dois ou mais débitos
+                        vencidos do mesmo sujeito passivo para com a mesma pessoa
+                        jurídica de direito público, relativos ao mesmo ou a diferentes
+                        tributos ou provenientes de penalidade pecuniária ou juros de
+                        mora, a autoridade administrativa competente para receber o
+                        pagamento determinará a respectiva imputação, obedecidas as
+                        seguintes regras, na ordem em que enumeradas:
+
+                         I - em primeiro lugar, aos débitos por obrigação própria, e em
+                        segundo lugar aos decorrentes de responsabilidade tributária;
+
+                        II - primeiramente, às contribuições de melhoria, depois às taxas
+                        e por fim aos impostos;
+
+                        III - na ordem crescente dos prazos de prescrição;
+
+                        IV - na ordem decrescente dos montantes.
+
+
+    Você pode perceber que o primeiro critério é pessoal (1º contribuinte, depois
+    o responsável), o segundo se relaciona com a vinculação do fato gerador
+    (quanto mais vinculado a uma atividade estatal específica, mais prioritário será
+    sobre os outros), o terceiro refere-se aos prazos prescricionais (1º prazos mais
+    curtos e depois os demais) e por último é utilizado o critério do valor do crédito
+    tributário (do maior para o menor).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         37
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Agora é só ordenarmos segundo os critérios:
+
+    1º ISS – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/09/13.
+
+    2º IPTU – R$ 400,00, na qualidade de contribuinte, vencido em 02/09/13;
+
+    3º IPTU – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/10/13;
+
+    4º ISS – R$ 2.000,00, na qualidade de responsável, vencido em 02/10/12;
+
+    5º ITBIM – R$ 500,00, na qualidade de responsável, vencido em 02/10/13;
+
+    Reparem que colocamos os contribuintes nas três primeiras posições, depois
+    verificamos que todas as dívidas referem-se a impostos, depois ordenamos
+    pelos prazos prescricionais (do mais curto para o mais longo) e por último
+    ordenamos pelos valores (do maior para o menor).
+
+    Vamos às alternativas:
+
+    Alternativa A (Incorreta): “IPTU – R$ 1.000,00, na qualidade de contribuinte,
+    vencido em 02/10/13;”
+
+    Esta alternativa ficou em terceiro lugar em nossa classificação, pois o sujeito
+    passivo está na qualidade de contribuinte, as três primeiras dívidas (dos
+    contribuintes) referem-se a impostos e seu prazo prescricional é o mais longo
+    dentre as três.
+
+    Alternativa B (Incorreta): “ITBIM – R$ 500,00, na qualidade de responsável,
+    vencido em 02/10/13;”
+
+    Esta alternativa ficou em último lugar em nossa classificação, pois o sujeito
+    passivo está na qualidade de responsável, as duas últimas dívidas (dos
+    responsáveis) referem-se a impostos e seu prazo prescricional é o mais longo
+    dentre essas duas.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   38
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Alternativa C (Incorreta): “IPTU – R$ 400,00, na qualidade de contribuinte,
+    vencido em 02/09/13;”
+
+    Esta é nossa segunda posição, pois perde para a primeira em relação ao valor.
+    O sujeito passivo está na qualidade de contribuinte, todos as dívidas referem-
+    se a impostos, o prazo prescricional é o mais curto entre as três primeiras
+    opções (empatando com a primeira opção), porém o valor do crédito tributário
+    é MENOR dentre as duas primeiras opções (que estavam empatadas).
+
+    Alternativa D (Incorreta): “ISS – R$ 2.000,00, na qualidade de responsável,
+    vencido em 02/10/12;”
+
+    Esta alternativa fica na quarta posição, porque o sujeito passivo está na
+    qualidade de responsável, as duas dívidas referem-se a impostos e o prazo
+    prescricional é o mais curto entre as duas.
+
+    Alternativa E (Correta): “ISS – R$ 1.000,00, na qualidade de contribuinte,
+    vencido em 02/09/13.”
+
+    Perfeito! O sujeito passivo está na qualidade de contribuinte, todos as dívidas
+    referem-se a impostos, o prazo prescricional é o mais curto entre as três
+    primeiras opções (empatando com a segunda opção) e o valor do crédito
+    tributário é o MAIOR dentre as duas primeiras opções (que estavam
+    empatadas).
+
+    Gabarito: E
+
+    7-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Assinale a opção que
+    indica uma forma de extinção do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   39
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    (A) A substituição da obrigação tributária anterior por outra que lhe é
+    posterior.
+
+    (B) A delegação de competência tributária de um ente político a outro.
+
+    (C) Cláusula contratual específica que desonere uma das partes do pagamento
+    do tributo.
+
+    (D) Decisão administrativa definitiva e irreformável sobre a quitação do crédito
+    fiscal.
+
+    (E) Decisão judicial que desonere o contribuinte do pagamento do tributo.
+
+    Comentários: Vejamos as hipóteses de extinção do crédito tributário no CTN:
+
+                        Art. 156. Extinguem o crédito tributário:
+
+                        I - o pagamento;
+
+                        II - a compensação;
+
+                        III - a transação;
+
+                        IV - remissão;
+
+                        V - a prescrição e a decadência;
+
+                        VI - a conversão de depósito em renda;
+
+                        VII - o pagamento antecipado e a homologação do lançamento
+                        nos termos do disposto no artigo 150 e seus §§ 1º e 4º;
+
+                        VIII - a consignação em pagamento, nos termos do disposto no
+                        § 2º do artigo 164;
+
+                        IX - a decisão administrativa irreformável, assim entendida a
+                        definitiva na órbita administrativa, que não mais possa ser
+                        objeto de ação anulatória;
+
+                        X - a decisão judicial passada em julgado.
+
+                        XI – a dação em pagamento em bens imóveis, na forma e
+                        condições estabelecidas em lei.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     40
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Parágrafo único. A lei disporá quanto aos efeitos da extinção
+                        total ou parcial do crédito sobre a ulterior verificação da
+                        irregularidade da sua constituição, observado o disposto nos
+                        artigos 144 e 149.
+
+    Alternativa A (Incorreta): “A substituição da obrigação tributária anterior por
+    outra que lhe é posterior.”
+
+    Substituição não pode ser extinção.
+
+    Alternativa B (Incorreta): “A delegação de competência tributária de um ente
+    político a outro.”
+
+    A delegação de competência não guarda relação com a extinção do crédito
+    tributário. Além disso, a competência tributária é indelegável.
+
+    Alternativa C (Incorreta): “Cláusula contratual específica que desonere uma
+    das partes do pagamento do tributo.”
+
+    Não guarda relação com a extinção do crédito tributário. Além disso,
+    conforme o CTN:
+
+                         Art. 123. Salvo disposições de lei em contrário, as convenções
+                        particulares, relativas à responsabilidade pelo pagamento de
+                        tributos, não podem ser opostas à Fazenda Pública, para
+                        modificar a definição legal do sujeito passivo das obrigações
+                        tributárias correspondentes.
+
+    Alternativa D (Correta): “Decisão administrativa definitiva e irreformável sobre
+    a quitação do crédito fiscal.”
+
+    É o nosso gabarito conforme inciso IX do Art. 156 do CTN.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       41
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Alternativa E (Incorreta): “Decisão judicial que desonere o contribuinte do
+    pagamento do tributo.”
+
+    Conforme o inciso X do Art. 156 do CTN, acima citado, a decisão judicial
+    precisa transitar em julgado para ocorrer a extinção do crédito tributário.
+
+
+    Gabarito: D
+
+    8-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) O CTN
+    expressamente estabelece, no que diz respeito à extinção do crédito
+    tributário, que
+
+    (A) é vedada a compensação mediante o aproveitamento de tributo que seja
+    objeto de contestação judicial pelo sujeito passivo, antes do trânsito em
+    julgado da respectiva decisão judicial.
+
+    (B) a lei permite à autoridade administrativa conceder remissão total ou parcial
+    do crédito tributário em virtude de erro ou ignorância escusáveis do sujeito
+    passivo quanto à matéria de direito, em exceção ao art. 3º da LICC. que dispõe
+    que ninguém se escusa de cumprir a lei, alegando que não a conhece.
+
+    (C) no caso de consignação do pagamento pelo sujeito passivo, caso seja
+    julgada procedente, o montante consignado é convertido em renda, ao passo
+    que, na improcedência, o crédito tributário é cobrado acrescido de juros de
+    mora, sem aplicação de qualquer penalidade.
+
+    (D) caso haja dois ou mais débitos simultâneos do mesmo sujeito passivo para
+    com o mesmo sujeito ativo, a imputação do pagamento compete, em primeiro
+    lugar, ao contribuinte ou responsável pelo pagamento. Somente na hipótese
+    de abstenção deste, a autoridade administrativa fará a imputação.
+
+    (E) a isenção, uma das modalidades de extinção do crédito tributário, é sempre
+    decorrente de lei que especifique as condições e requisitos exigidos para a
+    sua concessão, os tributos a que se aplica e, sendo o caso, o prazo de sua
+    duração.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    42
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Comentários: Vejamos as alternativas:
+
+    Alternativa A (Correta): “é vedada a compensação mediante o aproveitamento
+    de tributo que seja objeto de contestação judicial pelo sujeito passivo, antes
+    do trânsito em julgado da respectiva decisão judicial.”
+
+    É o nosso gabarito. É a literalidade do Art. 170-A do CTN.
+
+                        Art.     170-A.       É     vedada       a     compensação    mediante   o
+                        aproveitamento de tributo, objeto de contestação judicial pelo
+                        sujeito passivo, antes do trânsito em julgado da respectiva
+                        decisão judicial.
+
+    Alternativa B (Incorreta): “a lei permite à autoridade administrativa conceder
+    remissão total ou parcial do crédito tributário em virtude de erro ou ignorância
+    escusáveis do sujeito passivo quanto à matéria de direito, em exceção ao art.
+    3º da LICC. que dispõe que ninguém se escusa de cumprir a lei, alegando que
+    não a conhece.”
+
+    Versa a LINDB (Lei de Introdução às Normas do Direito Brasileiro), antiga LICC
+    (Lei de introdução ao Código Civil) que:
+
+                        Art. 3o. Ninguém se escusa de cumprir a lei, alegando que não
+                        a conhece.
+
+    Este seria o erro de direito, o erro sobre a norma.
+
+    Porém o CTN traz uma regra diferente:
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                  43
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        Art. 172. A lei pode autorizar a autoridade administrativa a
+                        conceder, por despacho fundamentado, remissão total ou
+                        parcial do crédito tributário, atendendo:
+
+                        (..)
+                        II - ao erro ou ignorância excusáveis do sujeito passivo, quanto
+                        a matéria de fato;
+
+    Vejam que o CTN traz uma regra dirigida ao legislador, que pode editar uma
+    lei autorizando a autoridade administrativa a conceder, por despacho
+    fundamentado, a remissão total ou parcial do crédito tributário, atendendo
+    ao erro ou a ignorância escusáveis (não é mais escrito com “x”) do sujeito
+    passivo quanto a matéria de fato (não quanto a matéria de direito).
+
+    Alternativa C (Incorreta): “no caso de consignação do pagamento pelo sujeito
+    passivo, caso seja julgada procedente, o montante consignado é convertido
+    em renda, ao passo que, na improcedência, o crédito tributário é cobrado
+    acrescido de juros de mora, sem aplicação de qualquer penalidade.”
+
+                        CTN. Art. 164, § 2º Julgada procedente a consignação, o
+                        pagamento se reputa efetuado e a importância consignada é
+                        convertida em renda; julgada improcedente a consignação no
+                        todo ou em parte, cobra-se o crédito acrescido de juros de
+                        mora, sem prejuízo das penalidades cabíveis.
+
+    Alternativa D (Incorreta): “caso haja dois ou mais débitos simultâneos do
+    mesmo sujeito passivo para com o mesmo sujeito ativo, a imputação do
+    pagamento compete, em primeiro lugar, ao contribuinte ou responsável pelo
+    pagamento. Somente na hipótese de abstenção deste, a autoridade
+    administrativa fará a imputação.”
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        44
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    A alternativa quis confundir o candidato desatento com a ordem que a
+    AUTORIDADE ADMINISTRATIVA deve realizar a imputação em pagamento.
+    Não é o sujeito passivo que decide esta ordem.
+
+                        Art. 163. Existindo simultaneamente dois ou mais débitos
+                        vencidos do mesmo sujeito passivo para com a mesma pessoa
+                        jurídica de direito público, relativos ao mesmo ou a diferentes
+                        tributos ou provenientes de penalidade pecuniária ou juros de
+                        mora, a autoridade administrativa competente para receber o
+                        pagamento determinará a respectiva imputação, obedecidas as
+                        seguintes regras, na ordem em que enumeradas:
+
+                         I - em primeiro lugar, aos débitos por obrigação própria, e em
+                        segundo lugar aos decorrentes de responsabilidade tributária;
+
+                        II - primeiramente, às contribuições de melhoria, depois às taxas
+                        e por fim aos impostos;
+
+                        III - na ordem crescente dos prazos de prescrição;
+
+                        IV - na ordem decrescente dos montantes.
+
+    Alternativa E (Incorreta): “a isenção, uma das modalidades de extinção do
+    crédito tributário, é sempre decorrente de lei que especifique as condições e
+    requisitos exigidos para a sua concessão, os tributos a que se aplica e, sendo
+    o caso, o prazo de sua duração.”
+
+    Sabemos que a isenção é hipótese de exclusão.
+
+    Gabarito: A
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         45
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    9-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) Em relação à
+    prescrição e decadência no âmbito tributário, é correto afirmar que
+
+    (A) o despacho do juiz que ordenar a citação do réu em ação de execução
+    fiscal não tem o condão de suspender ou interromper o prazo prescricional,
+    uma vez que, em relação aos prazos, estes serão sempre mais benéficos ao
+    contribuinte.
+
+    (B) a decadência se refere ao prazo de 2 (dois) anos de que a administração
+    pública dispõe para o lançamento do crédito tributário, a partir da ocorrência
+    do fato gerador da obrigação principal.
+
+    (C) a decadência é fenômeno que atinge a obrigação tributária, não
+    permitindo a sua constituição, ao passo que a prescrição alcança o crédito
+    tributável tornando-o inexequível.
+
+    (D) o direito de pleitear a restituição de tributos obedece ao prazo
+    prescricional de 2 (dois) anos a contar da data do pagamento espontâneo do
+    tributo pago indevidamente ou a maior.
+
+    (E) a ação para a cobrança do crédito tributário prescreve em 3 (três) anos,
+    contados da data de sua constituição definitiva.
+
+    Comentários: Vamos analisar as alternativas:
+
+    Alternativa A (Incorreta): “o despacho do juiz que ordenar a citação do réu em
+    ação de execução fiscal não tem o condão de suspender ou interromper o
+    prazo prescricional, uma vez que, em relação aos prazos, estes serão sempre
+    mais benéficos ao contribuinte.”
+
+    Podemos ver, pelo Art. 174 do CTN que o despacho que ordenar a citação do
+    réu em ação de execução fiscal interrompe o prazo prescricional.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   46
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        CTN, art. 174. A ação para a cobrança do crédito tributário
+                        prescreve em cinco anos, contados da data da sua constituição
+                        definitiva.
+
+                        Parágrafo único. A prescrição se interrompe:
+
+                        I – pelo despacho do juiz que ordenar a citação em execução
+                        fiscal;
+
+    Alternativa B (Incorreta): “a decadência se refere ao prazo de 2 (dois) anos de
+    que a administração pública dispõe para o lançamento do crédito tributário, a
+    partir da ocorrência do fato gerador da obrigação principal.”
+
+    O prazo decadencial refere-se ao prazo que a Fazenda Pública tem para
+    constituir o crédito tributário através do Lançamento. Vejamos o que diz o
+    CTN:
+
+                        CTN, art. 173. O direito de a Fazenda Pública constituir o
+                        crédito tributário extingue-se após 5 (cinco) anos, contados:
+
+                        I - do primeiro dia do exercício seguinte àquele em que o
+                        lançamento poderia ter sido efetuado;
+
+                        II - da data em que se tornar definitiva a decisão que houver
+                        anulado, por vício formal, o lançamento anteriormente
+                        efetuado.
+
+                        Parágrafo único. O direito a que se refere este artigo extingue-
+                        se definitivamente com o decurso do prazo nele previsto,
+                        contado da data em que tenha sido iniciada a constituição do
+                        crédito tributário pela notificação, ao sujeito passivo, de
+                        qualquer medida preparatória indispensável ao lançamento.
+
+    O parágrafo único refere-se à antecipação do prazo decadencial, quando a
+    autoridade administrativa notifica o sujeito passivo sobre as medidas
+    preparatórias indispensáveis à constituição do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        47
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    Alternativa C (Correta): “a decadência é fenômeno que atinge a obrigação
+    tributária, não permitindo a sua constituição, ao passo que a prescrição alcança
+    o crédito tributável tornando-o inexequível.”
+
+    A redação não é das melhores, mas o item está correto. Explico: O prazo
+    decadencial refere-se ao prazo que a Fazenda Pública tem para constituir o
+    crédito tributário por meio do lançamento. O lançamento tem natureza jurídica
+    mista (declaratória e constitutiva), pois declara a obrigação tributária e
+    constitui o crédito tributário.
+
+    Se o prazo para realizar o lançamento esgota-se, podemos dizer a decadência
+    atinge o direito de constituir o crédito tributário (ela não atinge exatamente a
+    obrigação tributária, que nasceu com o Fato Gerador).
+
+    Por sua vez, para falarmos em prescrição, devemos ter o crédito tributário
+    definitivamente constituído.
+
+    Quando a prescrição o atinge, torna-o inexigível, pois ocorre sua extinção.
+
+
+    Alternativa D (Incorreta): “o direito de pleitear a restituição de tributos
+    obedece ao prazo prescricional de 2 (dois) anos a contar da data do
+    pagamento espontâneo do tributo pago indevidamente ou a maior.”
+
+                        CTN,        art.     165.       O      sujeito       passivo   tem   direito,
+                        independentemente de prévio protesto, à restituição total ou
+                        parcial do tributo, seja qual for a modalidade do seu
+                        pagamento, ressalvado o disposto no § 4º do artigo 162, nos
+                        seguintes casos:
+
+                        I - cobrança ou pagamento espontâneo de tributo indevido ou
+                        maior que o devido em face da legislação tributária aplicável,
+                        ou da natureza ou circunstâncias materiais do fato gerador
+                        efetivamente ocorrido;
+
+                        II - erro na edificação do sujeito passivo, na determinação da
+                        alíquota aplicável, no cálculo do montante do débito ou na
+                        elaboração ou conferência de qualquer documento relativo ao
+                        pagamento;
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                     48
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                        III - reforma, anulação, revogação ou rescisão de decisão
+                        condenatória.
+
+                        CTN, art. 168. O direito de pleitear a restituição extingue-se
+                        com o decurso do prazo de 5 (cinco) anos, contados:
+
+                        I - nas hipótese dos incisos I e II do artigo 165, da data da
+                        extinção do crédito tributário;
+
+                        II - na hipótese do inciso III do artigo 165, da data em que se
+                        tornar definitiva a decisão administrativa ou passar em julgado
+                        a decisão judicial que tenha reformado, anulado, revogado ou
+                        rescindido a decisão condenatória.
+
+    Nos incisos I e II do Art. 165 do CTN, temos as hipóteses de restituição sem
+    litígio e no inciso III do Art. 165, temos a hipótese de restituição com litígio.
+    Em ambas as hipóteses o prazo para pleitear a restituição é de 5 anos,
+    conforme o Art. 168.
+
+    Alternativa E (Incorreta): “a ação para a cobrança do crédito tributário
+    prescreve em 3 (três) anos, contados da data de sua constituição definitiva.”
+
+    Esta alternativa resolvemos com a literalidade do CTN.
+
+                        CTN, art. 174. A ação para a cobrança do crédito tributário
+                        prescreve em cinco anos, contados da data da sua constituição
+                        definitiva.
+
+    Gabarito: C
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       49
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    10-) FGV - Notário e Registrador (TJ SC)/Provimento/2021
+    Um tabelião deixou de declarar e recolher, na modalidade de lançamento por
+    homologação, ISS incidente sobre serviços notariais por ele prestados de abril
+    a agosto de 2014. Em fevereiro de 2020, o Fisco do município X efetua o
+    lançamento de ofício dos tributos não declarados nem pagos, notificando o
+    tabelião para pagamento em trinta dias. O tabelião então adere a um
+    parcelamento de tais débitos em seis prestações. Concluído o pagamento, é
+    advertido por seu advogado de que este teria sido indevido, pois o crédito
+    tributário parcelado já teria decaído.
+
+
+    Diante desse cenário, na data da constituição do crédito tributário, o prazo
+    decadencial:
+    (A) ainda não havia se completado, sendo tal pagamento devido;
+    (B) já havia se completado, mas não o prazo prescricional, sendo tal
+    pagamento devido;
+    (C) já havia se completado, configurando hipótese de extinção do crédito
+    tributário, sendo tal pagamento indevido;
+    (D) já havia se completado, mas o pagamento voluntário de dívida tributária
+    alcançada pela decadência não permite a restituição;
+    (E) já havia se completado, mas a confissão da dívida pelo parcelamento
+    operou uma novação do débito, sendo tal pagamento devido.
+
+
+    Comentários: Pessoal. Nesse tipo de questão, precisamos buscar as
+    informações de que necessitamos. Vamos lá: O examinador disse que se trata
+    de tributo sujeito a homologação. Nesse caso, devemos tem em mente o
+    seguinte:
+    No caso dos Tributos lançados por homologação, o prazo decadencial segue
+    as seguintes regras:
+
+          ▪ Se o sujeito passivo não declara nem paga qualquer valor até a data do
+             vencimento, aplica-se a regra geral, ou seja, o prazo de decadência será
+             de 5 anos contado a partir do primeiro dia do exercício seguinte àquele
+             em que o lançamento poderia ter sido efetuado. (Súmula STJ 555)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     50
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+          ▪ Se o sujeito passivo declara e paga o crédito tributário apenas de forma
+             parcial, a regra é aquela típica dos tributos lançados por homologação,
+             ou seja, conta-se 5 anos a partir da data do fato gerador.
+
+
+          ▪ No caso de dolo, fraude ou simulação, a decadência começa a contar a
+             partir do primeiro dia do exercício seguinte àquele em que o
+             lançamento poderia ter sido efetuado.
+
+    Já se o sujeito passivo declara, mas não paga, o STJ entende que a própria
+    declaração do sujeito passivo constitui o crédito tributário, não sendo mais
+    caso de decadência, e sim de prescrição.
+
+    O examinador trouxe também a informação de que nada foi declarado nem
+    recolhido. Pronto! Questão resolvida! Se o sujeito passivo não declara nem
+    paga qualquer valor até a data do vencimento, aplica-se a regra geral, ou seja,
+    o prazo de decadência será de 5 anos contado a partir do primeiro dia do
+    exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+    (Súmula STJ 555).
+    Se os fatos geradores ocorreram em 2014, devemos contar 5 anos a partir do
+    primeiro dia do exercício seguinte. Se contarmos 5 anos a partir de
+    01/01/2015, o direito da Fazenda de promover o lançamento se extingue no
+    dia 01/01/2020, ou seja, o último dia que pode ocorrer o lançamento é o dia
+    31/12/2019.
+    O examinador disse que o Fisco promoveu o lançamento em fevereiro de
+    2020. Assim, o direito de constituir o crédito tributário pelo lançamento
+    DECAIU (se extinguiu, foi para o “beleléu”).
+    Assim, na data da constituição do crédito tributário, o prazo decadencial já
+    havia se completado, configurando hipótese de extinção do crédito tributário,
+    sendo tal pagamento indevido. Alternativa C (Correta)
+
+
+    Gabarito: C
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    51
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    6. QUESTIONÁRIO DE REVISÃO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+                                  Questionário – Somente perguntas
+
+    1-) Quais são as hipóteses de Extinção do Crédito Tributário?
+
+
+    2-) Ao impor uma penalidade, retira-se a obrigação pelo pagamento do
+    crédito tributário?
+
+
+    3-) É possível a concessão de descontos para pagamentos antecipados de
+    Auto de Infração, através de Decreto?
+
+
+    4-) Qual a ordem de imputação, na hipótese de existirem simultaneamente
+    dois ou mais débitos vencidos do mesmo sujeito passivo para com a mesma
+    pessoa jurídica de direito público?
+
+
+    5-) Em quais hipóteses o sujeito passivo tem direito à restituição do tributo
+    pago? Essas hipóteses de restituição valem para qualquer modalidade de
+    pagamento?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   52
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    6-) Em regra, qual Contribuinte tem direito a pedir restituição no caso de
+    tributos indiretos? E quais são as exceções?
+
+
+    7-) No caso da repetição do indébito (restituição do tributo pago
+    indevidamente), os juros moratórios são devidos a partir de qual momento? E
+    no caso da correção monetária?
+
+
+    8-) Qual a diferença entre Prazo Decadencial e Prazo Prescricional?
+
+
+    9-) Qual o marco inicial da contagem do prazo de Decadência para os tributos
+    lançados por homologação?
+
+
+    10-) Quais casos interrompem a Prescrição?
+
+
+    11-) Em quais circunstâncias o crédito tributário pode ser consignado
+    judicialmente pelo sujeito passivo?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   53
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                                Questionário – Perguntas e Respostas
+
+    1-) Quais são as hipóteses de Extinção do Crédito Tributário?
+    Resposta: Extinguem o crédito tributário:
+
+          ▪ o Pagamento;
+
+          ▪ a Compensação;
+
+          ▪ a Transação;
+
+          ▪ a Remissão;
+
+          ▪ a Prescrição e a Decadência;
+
+          ▪ a Conversão de depósito em renda;
+
+          ▪ o Pagamento antecipado e a homologação do lançamento;
+
+          ▪ a Consignação em pagamento;
+
+          ▪ a Decisão administrativa irreformável;
+
+          ▪ a Decisão judicial passada em julgado;
+
+          ▪ a Dação em pagamento em bens imóveis, na forma e condições
+
+             estabelecidas em lei.
+
+    2-) Ao impor uma penalidade, retira-se a obrigação pelo pagamento do
+    crédito tributário?
+    Resposta: Não. A imposição de penalidade não retira a obrigação do
+    pagamento integral do crédito tributário.
+
+    Nas palavras do CTN, “A imposição de penalidade não ilide o pagamento
+    integral do crédito tributário”.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   54
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    3-) É possível a concessão de descontos para pagamentos antecipados de
+    Auto de Infração, através de Decreto?
+    Resposta: Não. A eventual concessão de descontos para pagamento de
+    tributos só pode ser feita através de lei.
+
+    4-) Qual a ordem de imputação, na hipótese de existirem simultaneamente
+    dois ou mais débitos vencidos do mesmo sujeito passivo para com a mesma
+    pessoa jurídica de direito público?
+    Resposta: Existindo simultaneamente dois ou mais débitos vencidos do
+    mesmo sujeito passivo para com a mesma pessoa jurídica de direito público,
+    relativos ao mesmo ou a diferentes tributos ou provenientes de penalidade
+    pecuniária ou juros de mora, a autoridade administrativa competente para
+    receber o pagamento determinará a respectiva imputação, obedecidas as
+    seguintes regras, na ordem em que enumeradas:
+
+          ▪ em primeiro lugar, aos débitos por obrigação própria, e em segundo
+             lugar aos decorrentes de responsabilidade tributária;
+          ▪ primeiramente, às contribuições de melhoria, depois às taxas e por fim,
+             aos impostos;
+          ▪ na ordem crescente dos prazos de prescrição; (do mais antigo para o
+             mais novo)
+          ▪ na ordem decrescente dos montantes. (do maior para o menor)
+
+    5-) Em quais hipóteses o sujeito passivo tem direito à restituição do tributo
+    pago? Essas hipóteses de restituição valem para qualquer modalidade de
+    pagamento?
+    Resposta: O sujeito passivo tem direito, independentemente de prévio
+    protesto, à restituição total ou parcial do tributo, seja qual for a modalidade
+    do seu pagamento*, nos seguintes casos:
+
+          ▪ cobrança ou pagamento espontâneo de tributo indevido ou maior que
+             o devido em face da legislação tributária aplicável, ou da natureza ou
+             circunstâncias materiais do fato gerador efetivamente ocorrido;
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   55
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+          ▪ erro na edificação do sujeito passivo, na determinação da alíquota
+             aplicável, no cálculo do montante do débito ou na elaboração ou
+             conferência de qualquer documento relativo ao pagamento;
+
+          ▪ reforma, anulação, revogação ou rescisão de decisão condenatória.
+
+    A restituição não é permitida na hipótese de perda ou destruição da
+    estampilha, ou o erro no pagamento por esta modalidade.
+
+    6-) Em regra, qual Contribuinte tem direito a pedir restituição no caso de
+    tributos indiretos? E quais são as exceções?
+
+    Resposta: Em regra, quem pode pedir a restituição de tributos indiretos é o
+    Contribuinte de Direito.
+    Porém, no caso de Concessionárias de Serviço Público, é cabível o pedido de
+    Restituição de Tributos Indiretos pelo Contribuinte de Fato nas hipóteses de:
+
+          ▪ ICMS cobrado sobre demanda de Energia Elétrica contratada e não
+             utilizada;
+          ▪ ICMS cobrado indevidamente em relação a Serviço de provedor de
+             acesso à internet.
+
+    7-) No caso da repetição do indébito (restituição do tributo pago
+    indevidamente), os juros moratórios são devidos a partir de qual momento? E
+    no caso da correção monetária?
+
+    Resposta: Os Juros moratórios, na repetição do indébito tributário, são
+    devidos a partir do trânsito em julgado da sentença (Súmula STJ 188).
+
+    Já a Correção Monetária incide a partir do pagamento indevido (Súmula STJ
+    162).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   56
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    8-) Qual a diferença entre Prazo Decadencial e Prazo Prescricional?
+
+    Resposta: Prazo Decadencial é aquele que a autoridade possui para promover
+    o lançamento.
+
+    Prazo Prescricional é aquele que a Fazenda Pública possui, após o lançamento
+    definitivo do tributo, para promover a ação de execução fiscal.
+
+    9-) Qual o marco inicial da contagem do prazo de Decadência para os tributos
+    lançados por homologação?
+    Resposta: No caso dos Tributos lançados por homologação, o prazo
+    decadencial segue as seguintes regras:
+
+          ▪ Se o sujeito passivo não declara nem paga qualquer valor até a data do
+             vencimento, aplica-se a regra geral, ou seja, o prazo de decadência será
+             de 5 anos contado a partir do primeiro dia do exercício seguinte àquele
+             em que o lançamento poderia ter sido efetuado. (Súmula STJ 555)
+          ▪ Se o sujeito passivo declara e paga o crédito tributário apenas de forma
+             parcial, a regra é aquela típica dos tributos lançados por homologação,
+             ou seja, conta-se 5 anos a partir da data do fato gerador.
+
+
+          ▪ No caso de dolo, fraude ou simulação, a de decadência começa a contar
+             a partir do primeiro dia do exercício seguinte àquele em que o
+             lançamento poderia ter sido efetuado.
+
+    Já se o sujeito passivo declara, mas não paga, o STJ entende que a própria
+    declaração do sujeito passivo constitui o crédito tributário, não sendo mais
+    caso de decadência, e sim de prescrição.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     57
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    10-) Quais casos interrompem a Prescrição?
+    Resposta: A Prescrição se interrompe nos seguintes casos:
+
+          ▪ pelo despacho do juiz que ordenar a citação em execução fiscal
+
+          ▪ pelo protesto judicial;
+
+          ▪ por qualquer ato judicial que constitua em mora o devedor;
+
+          ▪ por qualquer ato inequívoco ainda que extrajudicial, que importe em
+             reconhecimento do débito pelo devedor.
+
+    11-) Em quais circunstâncias o crédito tributário pode ser consignado
+    judicialmente pelo sujeito passivo?
+    Resposta: A importância de crédito tributário pode ser consignada
+    judicialmente pelo sujeito passivo, nos casos (Consignação em Pagamento):
+
+          ▪ de recusa de recebimento, ou subordinação deste ao pagamento de
+             outro tributo ou de penalidade, ou ao cumprimento de obrigação
+             acessória;
+          ▪ de subordinação do recebimento ao cumprimento de exigências
+             administrativas sem fundamento legal;
+          ▪ de exigência, por mais de uma pessoa jurídica de direito público, de
+             tributo idêntico sobre um mesmo fato gerador.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   58
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    7. QUESTÕES DE AULA
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Questões Estratégicas”:
+
+    QUESTÕES FGV
+                                                       ==219a34==
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) A pretensão
+    para a propositura de ação anulatória da decisão administrativa, que denega
+    a restituição de indébito tributário, tem prazo de prescrição.
+
+    Sobre esse prazo de prescrição, assinale a afirmativa correta.
+
+    (A) É de 5 (cinco) anos, a contar da notificação do contribuinte da decisão
+    administrativa denegatória da restituição.
+
+    (B) É de 2 (dois) anos, a contar da notificação do contribuinte da decisão
+    administrativa denegatória da restituição.
+
+    (C) É de 5 (cinco) anos, a contar da data da extinção do crédito tributário.
+
+    (D) É de 5 (cinco) anos, a contar da data da ocorrência do fato gerador.
+
+    (E) É de 2 (dois) anos, a contar da notificação da extinção do crédito tributário.
+
+    2-) (FGV - Técnico Tributário - SEFIN RO/2018) A sociedade empresária Zeta,
+    contribuinte do tributo Y, pretende realizar compensação tributária, havendo
+    débitos e créditos recíprocos entre a sociedade empresária e a Fazenda.
+    Entretanto, ela tem dúvida sobre qual lei deve ser aplicada para regular a
+    compensação.
+
+    Para esse caso, deve ser utilizada a lei vigente
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      59
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    (A) na data do encontro de contas.
+
+    (B) no momento da apuração do crédito.
+
+    (C) no encerramento do exercício fiscal.
+
+    (D) na propositura da demanda com este fim.
+
+    (E) na data do pedido administrativo.
+
+    3-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Em
+    dezembro de 2015, a pessoa jurídica X efetuou a entrega da declaração do
+    imposto sobre a renda pessoa jurídica (IRPJ), relativo a fatos geradores
+    ocorridos no mês de julho de 2015, na qual reconheceu o débito fiscal, na sua
+    integralidade.
+
+    No entanto, a pessoa jurídica X não realizou o pagamento do IRPJ, vencido
+    em dezembro de 2015.
+
+    Sobre a hipótese, é correto afirmar que a União Federal deverá
+
+    (A) constituir o crédito, por meio de lançamento, até julho de 2020.
+
+    (B) constituir o crédito, por meio de lançamento, até janeiro de 2021.
+
+    (C) inscrever o crédito em dívida ativa, até julho de 2020.
+
+    (D) ajuizar execução fiscal, até julho de 2020.
+
+    (E) ajuizar execução fiscal, até dezembro de 2020.
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) Nos termos do Código Tributário
+    Nacional, se a legislação tributária não fixar o tempo do pagamento, após a
+    data em que se considera o sujeito passivo notificado do lançamento, o
+    vencimento do crédito tributário ocorrerá em:
+
+    (A) 5 dias;                                                (D) 30 dias;
+
+    (B) 10 dias;                                               (E) 45 dias.
+
+    (C) 20 dias;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   60
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    5-) (FGV - Agente Fazendário - Niterói/2015) Nos termos do Código Tributário
+    Nacional, são modalidades de extinção do crédito tributário:
+
+    (A) parcelamento, remissão e decadência;
+
+    (B) pagamento, transação e conversão do depósito em renda;
+
+    (C) anistia, moratória e prescrição;
+
+    (D) decadência, transação e isenção;
+
+    (E) pagamento, prescrição e parcelamento.
+
+    6-) (FGV - Fiscal de Tributos - Niterói/2015) Um contribuinte é devedor do
+    Município em relação aos seguintes créditos tributários de impostos:
+
+
+    IPTU – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/10/13;
+
+    ITBIM – R$ 500,00, na qualidade de responsável, vencido em 02/10/13;
+
+    IPTU – R$ 400,00, na qualidade de contribuinte, vencido em 02/09/13;
+
+    ISS – R$ 2.000,00, na qualidade de responsável, vencido em 02/10/12;
+
+    ISS – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/09/13.
+
+    O contribuinte realiza um único pagamento. De acordo com as normas do
+    CTN, a autoridade administrativa competente para receber o pagamento
+    determinará a respectiva imputação em primeiro lugar para o seguinte crédito
+    tributário:
+
+    (A) IPTU – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/10/13;
+
+    (B) ITBIM – R$ 500,00, na qualidade de responsável, vencido em 02/10/13;
+
+    (C) IPTU – R$ 400,00, na qualidade de contribuinte, vencido em 02/09/13;
+
+    (D) ISS – R$ 2.000,00, na qualidade de responsável, vencido em 02/10/12;
+
+    (E) ISS – R$ 1.000,00, na qualidade de contribuinte, vencido em 02/09/13.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   61
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    7-) (FGV - Auditor do Tesouro Municipal - Recife/2014) Assinale a opção que
+    indica uma forma de extinção do crédito tributário.
+
+    (A) A substituição da obrigação tributária anterior por outra que lhe é
+    posterior.
+
+    (B) A delegação de competência tributária de um ente político a outro.
+
+    (C) Cláusula contratual específica que desonere uma das partes do pagamento
+    do tributo.
+
+    (D) Decisão administrativa definitiva e irreformável sobre a quitação do crédito
+    fiscal.
+
+    (E) Decisão judicial que desonere o contribuinte do pagamento do tributo.
+
+    8-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) O CTN
+    expressamente estabelece, no que diz respeito à extinção do crédito
+    tributário, que
+
+    (A) é vedada a compensação mediante o aproveitamento de tributo que seja
+    objeto de contestação judicial pelo sujeito passivo, antes do trânsito em
+    julgado da respectiva decisão judicial.
+
+    (B) a lei permite à autoridade administrativa conceder remissão total ou parcial
+    do crédito tributário em virtude de erro ou ignorância escusáveis do sujeito
+    passivo quanto à matéria de direito, em exceção ao art. 3º da LICC. que dispõe
+    que ninguém se escusa de cumprir a lei, alegando que não a conhece.
+
+    (C) no caso de consignação do pagamento pelo sujeito passivo, caso seja
+    julgada procedente, o montante consignado é convertido em renda, ao passo
+    que, na improcedência, o crédito tributário é cobrado acrescido de juros de
+    mora, sem aplicação de qualquer penalidade.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    62
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    (D) caso haja dois ou mais débitos simultâneos do mesmo sujeito passivo para
+    com o mesmo sujeito ativo, a imputação do pagamento compete, em primeiro
+    lugar, ao contribuinte ou responsável pelo pagamento. Somente na hipótese
+    de abstenção deste, a autoridade administrativa fará a imputação.
+
+    (E) a isenção, uma das modalidades de extinção do crédito tributário, é sempre
+    decorrente de lei que especifique as condições e requisitos exigidos para a
+    sua concessão, os tributos a que se aplica e, sendo o caso, o prazo de sua
+    duração.
+
+    9-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2011) Em relação à
+    prescrição e decadência no âmbito tributário, é correto afirmar que
+
+    (A) o despacho do juiz que ordenar a citação do réu em ação de execução
+    fiscal não tem o condão de suspender ou interromper o prazo prescricional,
+    uma vez que, em relação aos prazos, estes serão sempre mais benéficos ao
+    contribuinte.
+
+    (B) a decadência se refere ao prazo de 2 (dois) anos de que a administração
+    pública dispõe para o lançamento do crédito tributário, a partir da ocorrência
+    do fato gerador da obrigação principal.
+
+    (C) a decadência é fenômeno que atinge a obrigação tributária, não
+    permitindo a sua constituição, ao passo que a prescrição alcança o crédito
+    tributável tornando-o inexequível.
+
+    (D) o direito de pleitear a restituição de tributos obedece ao prazo
+    prescricional de 2 (dois) anos a contar da data do pagamento espontâneo do
+    tributo pago indevidamente ou a maior.
+
+    (E) a ação para a cobrança do crédito tributário prescreve em 3 (três) anos,
+    contados da data de sua constituição definitiva.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   63
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    10-) FGV - Notário e Registrador (TJ SC)/Provimento/2021
+    Um tabelião deixou de declarar e recolher, na modalidade de lançamento por
+    homologação, ISS incidente sobre serviços notariais por ele prestados de abril
+    a agosto de 2014. Em fevereiro de 2020, o Fisco do município X efetua o
+    lançamento de ofício dos tributos não declarados nem pagos, notificando o
+    tabelião para pagamento em trinta dias. O tabelião então adere a um
+    parcelamento de tais débitos em seis prestações. Concluído o pagamento, é
+    advertido por seu advogado de que este teria sido indevido, pois o crédito
+    tributário parcelado já teria decaído.
+
+
+    Diante desse cenário, na data da constituição do crédito tributário, o prazo
+    decadencial:
+    (A) ainda não havia se completado, sendo tal pagamento devido;
+    (B) já havia se completado, mas não o prazo prescricional, sendo tal
+    pagamento devido;
+    (C) já havia se completado, configurando hipótese de extinção do crédito
+    tributário, sendo tal pagamento indevido;
+    (D) já havia se completado, mas o pagamento voluntário de dívida tributária
+    alcançada pela decadência não permite a restituição;
+    (E) já havia se completado, mas a confissão da dívida pelo parcelamento
+    operou uma novação do débito, sendo tal pagamento devido.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   64
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+    GABARITO
+
+          1-B                  2-A                   3-E                 4-D          5-B
+          6-E                 7-D                   8-A                   9-C         10-C
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          65
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 17
+
+                           Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+                                No estudo de hoje vimos os principais pontos sobre
+    Extinção do Crédito Tributário.
+
+                     Um grande abraço e que Deus os abençoe.
+
+                                        Até a próxima aula!!!
+
+                           @proffernandoM                                    Tributário FM
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          66
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+---

@@ -1,0 +1,223 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 05_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: 28/08/2020
+artigos_citados:
+- art. 26
+- art. 27
+- art. 28
+- art. 29
+- art. 31
+---
+
+# 28/08/2020
+
+28/08/2020
+
+                         IMPOSTO DE RENDA
+                               IRPF
+
+                         DOMICÍLIO FISCAL
+
+70
+
+     IRPF – Domicílio Fiscal
+
+        ❑ Considera-se como domicílio tributário da pessoa física aquele eleito por
+          ela, nos termos da legislação aplicável. (RIR/2018, art. 26)
+
+ Legislação Tributária
+                                                                              @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+71
+
+                                                              1
+
+
+---
+
+                                                                                         28/08/2020
+
+     IRPF – Domicílio Fiscal
+
+        ❑ Observações:
+
+        ❑ Na falta de eleição, considera-se como domicílio a sua residência habitual,
+          ou, sendo esta incerta ou desconhecida, o centro habitual de sua
+          atividade.
+
+        ❑ Considera-se como residência habitual o lugar em que a pessoa física tiver
+          uma habitação em condições que permitam presumir intenção de mantê-
+          la.
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+72
+
+     IRPF – Domicílio Fiscal
+
+      ❑ Na hipótese em que não couber a aplicação das regras estabelecidas no
+        RIR (eleição, residência habitual ou centro de atividade), será considerado
+        como domicílio tributário o lugar da situação dos bens ou da ocorrência
+        dos atos ou dos fatos que deram origem à obrigação. (RIR/2018, art. 26, §
+        3º)
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+73
+
+                                                                2
+
+
+---
+
+                                                                                       28/08/2020
+
+     IRPF – Domicílio Fiscal
+
+      ❑ A autoridade administrativa pode recusar o domicílio eleito, quando
+        impossibilite ou dificulte a arrecadação ou a fiscalização do imposto sobre
+        a renda.
+
+
+      ❑ Em tal situação, considera-se como domicílio residência habitual, ou,
+        sendo esta incerta ou desconhecida, o centro habitual de sua atividade e,
+        se inaplicável esta regra, será considerado como domicílio tributário o
+        lugar da situação dos bens ou da ocorrência dos atos ou dos fatos que
+        deram origem à obrigação. (RIR/2018, art. 26, § 4º)
+
+
+ Legislação Tributária
+                                                                              @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+74
+
+     IRPF – Domicílio Fiscal
+
+      ❑ Para fins de intimação, considera-se domicílio:
+
+      ❑ o endereço postal por ele fornecido, para fins cadastrais, à administração
+        tributária; e
+
+      ❑ o endereço eletrônico a ele atribuído pela administração tributária, desde
+        que autorizado pelo sujeito passivo.
+
+      ❑ Observação: O endereço eletrônico somente será implementado com
+        consentimento expresso do sujeito passivo e a administração tributária
+        informará ao sujeito passivo as normas e as condições de sua utilização e
+        de sua manutenção. (RIR/2018, art. 27)
+ Legislação Tributária
+                                                                              @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+75
+
+                                                              3
+
+
+---
+
+                                                                                                 28/08/2020
+
+     IRPF – Domicílio Fiscal
+     ❑ Transferência de Domicílio
+
+     ❑ O contribuinte que transferir sua residência de um Município para outro ou de
+       um ponto para outro do mesmo Município fica obrigado a comunicar essa
+       mudança na forma, no prazo e nas condições estabelecidos pela Secretaria da
+       Receita Federal do Brasil do Ministério da Fazenda. (RIR/2018, art. 28)
+
+ Legislação Tributária
+                                                                                        @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+76
+
+     IRPF – Domicílio Fiscal
+     ❑ Transferência de Domicílio
+
+     ❑ A transferência do domicílio fiscal da pessoa física residente e domiciliada no
+       País para país ou dependência com tributação favorecida ou regime fiscal
+       privilegiado somente terá seus efeitos reconhecidos a partir da data em que o
+       contribuinte comprovar:
+
+                         ❑ser residente, de fato, naquele país ou dependência; ou
+
+                         ❑sujeitar-se a imposto sobre a totalidade dos rendimentos do trabalho e
+                         do capital e demonstrar o pagamento efetivo desse imposto. (RIR/2018,
+                         art. 29)
+
+ Legislação Tributária
+                                                                                        @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+77
+
+                                                                        4
+
+
+---
+
+                                                                                        28/08/2020
+
+     IRPF – Domicílio Fiscal
+     ❑ Domicílio dos Residentes no Exterior
+
+     ❑ O domicílio fiscal do procurador ou do representante de residentes ou
+       domiciliados no exterior será o lugar onde se achar a sua residência habitual
+       ou a sede da representação no País, observado, no que couber, a regra geral
+       do domicílio de pessoas físicas.
+
+
+     ❑ Se o residente no exterior permanecer no território nacional e não tiver
+       procurador, representante ou empresário no País, o domicílio fiscal será o
+       lugar onde estiver exercendo a sua atividade. (RIR/2018, art. 31)
+
+
+ Legislação Tributária
+                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+78
+
+     QUESTÃO INÉDITA
+
+        O estrangeiro, não residente no Brasil, que permaneça em território nacional,
+        sem nomear qualquer procurador para atuar em seu nome, não possui
+        domicílio tributário.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                      @ProfFabioDutra
+
+
+79
+
+                                                               5
+
+
+---

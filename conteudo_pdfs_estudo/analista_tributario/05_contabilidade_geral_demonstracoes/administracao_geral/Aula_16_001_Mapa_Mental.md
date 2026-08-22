@@ -1,0 +1,207 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 16_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '16'
+titulo_aula: CPC 00 (R2) – ESTRUTURA CONCEITUAL
+---
+
+# CPC 00 (R2) – ESTRUTURA CONCEITUAL
+
+CPC 00 (R2) – ESTRUTURA CONCEITUAL
+       FINALIDADE DA ESTRUTURA CONCEITUAL
+                                                                                 PARA RELATÓRIO FINANCEIRO I
+• AUXILIAR O DESENVOLVIMENTO DAS NORMAS INTERNACIONAIS
+  DE CONTABILIDADE (IFRS) PARA QUE TENHAM BASE EM
+  CONCEITOS CONSISTENTES
+• AUXILIAR OS RESPONSÁVEIS PELA ELABORAÇÃO DOS RELATÓRIOS                                 A   ESTRUTURA   CONCEITUAL  NÃO   É  UM
+  FINANCEIROS    A    DESENVOLVER   POLÍTICAS   CONTÁBEIS                                 PRONUNCIAMENTO PROPRIAMENTE DITO E NÃO
+  CONSISTENTES   QUANDO    NENHUM   PRONUNCIAMENTO      SE
+                                                                                          SE SOBREPÕE A QUALQUER PRONUNCIAMENTO
+  APLICA À DETERMINADA TRANSAÇÃO OU OUTRO EVENTO, OU
+  QUANDO O PRONUNCIAMENTO PERMITE UMA ESCOLHA DE
+  POLÍTICA CONTÁBIL
+• AUXILIAR TODAS AS PARTES A ENTENDER E INTERPRETAR OS
+  PRONUNCIAMENTOS
+
+
+     O OBJETIVO DO RELATÓRIO FINANCEIRO PARA FINS GERAIS (DEMONSTRAÇÕES CONTÁBEIS)
+     É FORNECER INFORMAÇÕES FINANCEIRAS QUE SEJAM ÚTEIS AOS SEUS USUÁRIOS
+
+    DESTINA-SE PRINCIPALMENTE AOS USUÁRIOS EXTERNOS, COM FOCO NOS INVESTIDORES, CREDORES POR
+    EMPRÉSTIMOS E A OUTROS CREDORES, PARA QUE POSSAM DECIDIR SOBRE
+
+            • COMPRAR, VENDER OU MANTER INSTRUMENTO DE PATRIMÔNIO E DE DÍVIDA
+            • CONCEDER OU LIQUIDAR EMPRÉSTIMOS OU OUTRAS FORMAS DE CRÉDITO
+            • EXERCER DIREITOS DE VOTAR OU DE OUTRO MODO INFLUENCIAR OS ATOS DA ADMINISTRAÇÃO
+                                                                                                                          CONTABILIDADE GERAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                   CPC 00 (R2) – ESTRUTURA CONCEITUAL
+                                                                                      PARA RELATÓRIO FINANCEIRO I
+
+  OS RELATÓRIOS FINANCEIROS PARA FINS GERAIS NÃO FORNECEM NEM PODEM FORNECER
+  TODAS AS INFORMAÇÕES DE QUE NECESSITAM OS PRINCIPAIS USUÁRIOS (USUÁRIOS EXTERNOS)
+
+
+  RELATÓRIOS FINANCEIROS PARA FINS GERAIS NÃO SE DESTINAM A APRESENTAR O VALOR DA ENTIDADE
+  QUE REPORTA, MAS FORNECEM INFORMAÇÕES PARA AUXILIAR USUÁRIOS EXTERNOS A ESTIMAR O VALOR
+
+                                           PRINCIPAIS INFORMAÇÕES OBTIDAS DOS RELATÓRIOS FINANCEIROS
+                                           • POSIÇÃO FINANCEIRA (OBTIDA PRINCIPALMENTE PELO BALANÇO PATRIMONIAL)
+                                           • EFEITO DE TRANSAÇÕES E OUTROS EVENTOS QUE ALTERAM OS RECURSOS
+                                             ECONÔMICOS E REIVINDICAÇÕES (DEMONSTRAÇÃO DO RESULTADO DO
+                                             EXERCÍCIO E DEMONSTRAÇÃO DO RESULTADO ABRANGENTE)
+
+                   RESTRIÇÃO DE CUSTO: CUSTO PARA GERAR A INFORMAÇÃO É UMA RESTRIÇÃO QUE
+                   IMPEDE A GERAÇÃO DE TODA A INFORMAÇÃO CONSIDERADA RELEVANTE PARA O USUÁRIO
+
+
+           PREMISSA DA CONTINUIDADE: A EMPRESA VAI CONTINUAR EM OPERAÇÃO (PREÇOS DE ENTRADA)
+SE HOUVER PREVISÃO DE FIM, UTILIZAMOS PREÇOS DE SAÍDA
+
+                                                                                                                    CONTABILIDADE GERAL
+                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+ CPC 00 (R2) – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO II
+
+                                                                                            ❑ RELEVÂNCIA
+                                                    FUNDAMENTAIS (2)
+                                                                                            ❑ REPRESENTAÇÃO FIDEDIGNA
+ CARACTERÍSTICAS QUALITATIVAS DE
+ INFORMAÇÕES FINANCEIRAS ÚTEIS                                                              ❑ COMPARABILIDADE
+                                                                                            ❑ CAPACIDADE DE VERIFICAÇÃO (VERIFICABILIDADE)
+                                                     DE MELHORIA (4)
+                                                                                            ❑ TEMPESTIVIDADE
+                                                                                            ❑ COMPREENSIBILIDADE
+
+                                                                                      REPRESENTAÇÃO FIDEDIGNA: A INFORMAÇÃO PRECISA SER COMPLETA,
+    CARACTERÍSTICAS QUALITATIVAS FUNDAMENTAIS
+                                                                                      NEUTRA E LIVRE DE ERROS
+
+
+RELEVÂNCIA: É A INFORMAÇÃO FINANCEIRA CAPAZ DE                                  • COMPLETA:     A INFORMAÇÃO DEVE INCLUIR TODAS AS INFORMAÇÕES
+FAZER DIFERENÇA NAS DECISÕES QUE POSSAM SER                                          NECESSÁRIAS PARA QUE O USUÁRIO COMPREENDA O FENÔMENO SENDO
+                                                                                     RETRATADO
+TOMADAS PELOS USUÁRIOS
+                                                                                •    NEUTRA: A INFORMAÇÃO DEVE ESTAR LIVRE DE VIÉS NA SELEÇÃO OU NA
+     A INFORMAÇÃO DEVE TER VALOR PREDITIVO, VALOR                                    APRESENTAÇÃO, NÃO PODENDO ESTAR DISTORCIDA PARA MAIS OU PARA MENOR
+               CONFIRMATÓRIO OU AMBOS                                                        A NEUTRALIDADE É APOIADA PELO EXERCÍCIO DA PRUDÊNCIA
+• VALOR   PREDITIVO:   UTILIZADA   PARA   PREVER   FUTUROS                      • LIVRE DE ERROS: NÃO SIGNIFICA TOTAL EXATIDÃO, MAS SIM QUE O PROCESSO
+  RESULTADOS                                                                         PARA OBTENÇÃO DA INFORMAÇÃO TENHA SIDO SELECIONADO E APLICADO LIVRE
+• VALOR CONFIRMATÓRIO: FORNECE FEEDBACK              SOBRE                           DE ERROS
+  (CONFIRMAM OU ALTERAM) AVALIAÇÕES ANTERIORES
+                                                                                                       ATENÇÃO!
+      A MATERIALIDADE É UM ASPECTO DA RELEVÂNCIA
+                                                                                      AS INFORMAÇÕES DEVEM TANTO SER RELEVANTES
+A INFORMAÇÃO É MATERIAL SE A SUA OMISSÃO, DISTORÇÃO OU                                COMO FORNECER REPRESENTAÇÃO FIDEDIGNA DO
+OBSCURIDADE PUDER INFLUENCIAR, RAZOAVELMENTE, AS                                      QUE PRETENDEM REPRESENTAR PARA SEREM ÚTEIS
+DECISÕES
+                                                                                                                                       CONTABILIDADE GERAL
+                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+ CPC 00 (R2) – ESTRUTURA CONCEITUAL PARA RELATÓRIO FINANCEIRO II
+
+
+                                      CARACTERÍSTICAS QUALITATIVAS DE MELHORIA
+                                                                                            COMPARABILIDADE É DIFERENTE DE CONSISTÊNCIA (USO DOS
+                                                                                            MESMOS MÉTODOS PARA OS MESMOS ITENS)
+COMPARABILIDADE: PERMITE AOS USUÁRIOS IDENTIFICAR E
+COMPREENDER SIMILARIDADES E DIFERENÇAS ENTRE ITENS
+                                                                                            COMPARABILIDADE NÃO É UNIFORMIDADE
+
+CAPACIDADE DE VERIFICAÇÃO (VERIFICABILIDADE): AJUDA A GARANTIR QUE AS INFORMAÇÕES
+REPRESENTEM DE FORMA FIDEDIGNA OS FENÔMENOS ECONÔMICOS QUE PRETENDEM REPRESENTAR
+
+                                                                                                         A VERIFICAÇÃO PODE SER DIRETA OU INDIRETA
+DIFERENTES   OBSERVADORES   BEM INFORMADOS    E    INDEPENDENTES                   PODEM
+CHEGAR AO CONSENSO, EMBORA NÃO A ACORDO NECESSARIAMENTE COMPLETO,
+DE QUE A REPRESENTAÇÃO ESPECÍFICA É REPRESENTAÇÃO FIDEDIGNA
+
+TEMPESTIVIDADE:      DISPONIBILIZAR     INFORMAÇÕES                    AOS         TOMADORES        DE
+DECISÕES A TEMPO PARA QUE SEJAM CAPAZES DE INFLUENCIAR SUAS DECISÕES
+
+COMPREENSIBILIDADE:         CLASSIFICAR,      CARACTERIZAR                         E       APRESENTAR
+INFORMAÇÕES DE MODO CLARO E CONCISO AS TORNA COMPREENSÍVEIS
+
+                                                                                                                                CONTABILIDADE GERAL
+                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                        MENSURAÇÃO
+                                                                                      CPC 00 (R2) – ESTRUTURA CONCEITUAL
+                                                                                        PARA RELATÓRIO FINANCEIRO III
+              CUSTO HISTÓRICO: VALOR INICIAL
+• ATIVO: É O VALOR DOS CUSTOS INCORRIDOS NA AQUISIÇÃO OU                                           ELEMENTOS DAS DEMONSTRAÇÕES CONTÁBEIS
+CRIAÇÃO DO ATIVO, COMPREENDENDO A CONTRAPRESTAÇÃO PAGA
+PARA ADQUIRIR OU CRIAR O ATIVO MAIS CUSTOS DE TRANSAÇÃO                                  ATIVO: É UM RECURSO ECONÔMICO PRESENTE CONTROLADO PELA
+• PASSIVO: É O VALOR DA CONTRAPRESTAÇÃO RECEBIDA PARA                                    ENTIDADE COMO RESULTADO DE EVENTOS PASSADOS
+INCORRER OU ASSUMIR O PASSIVO MENOS CUSTOS DE TRANSAÇÃO
+                                                                                         PASSIVO: É UMA OBRIGAÇÃO PRESENTE DA ENTIDADE DE TRANSFERIR
+                                                                                         UM RECURSO ECONÔMICO COMO RESULTADO DE EVENTOS PASSADOS
+VALOR ATUAL: UTILIZA INFORMAÇÕES ATUALIZADAS PARA
+REFLETIR CONDIÇÕES NA DATA DE MENSURAÇÃO                                                 PATRIMÔNIO LÍQUIDO: É A PARTICIPAÇÃO RESIDUAL NOS ATIVOS DA
+• VALOR JUSTO: PREÇO QUE SERIA RECEBIDO PELA VENDA DE ATIVO                              ENTIDADE APÓS A DEDUÇÃO DE TODOS OS SEUS PASSIVOS
+OU QUE SERIA PAGO PELA TRANSFERÊNCIA DE PASSIVO EM TRANSAÇÃO
+ORDENADA ENTRE PARTICIPANTES DO MERCADO NA DATA DE                                       RECEITAS: SÃO AUMENTOS NOS ATIVOS, OU REDUÇÕES NOS PASSIVOS,
+MENSURAÇÃO                                                                               QUE RESULTAM EM AUMENTOS NO PATRIMÔNIO LÍQUIDO, EXCETO
+• VALOR EM USO DE ATIVOS: É O VALOR PRESENTE DOS FLUXOS DE                               AQUELES REFERENTES A CONTRIBUIÇÕES DE DETENTORES DE DIREITOS
+CAIXA, OU OUTROS BENEFÍCIOS ECONÔMICOS, QUE A ENTIDADE                                   SOBRE O PATRIMÔNIO
+ESPERA OBTER DO USO DE ATIVO E DE SUA ALIENAÇÃO FINAL
+• VALOR DE CUMPRIMENTO DE PASSIVOS: É O VALOR PRESENTE DO                                DESPESAS: SÃO REDUÇÕES NOS ATIVOS, OU AUMENTOS NOS PASSIVOS,
+CAIXA, OU DE OUTROS RECURSOS ECONÔMICOS, QUE A ENTIDADE                                  QUE RESULTAM EM REDUÇÕES NO PATRIMÔNIO LÍQUIDO, EXCETO
+ESPERA SER OBRIGADA A TRANSFERIR PARA CUMPRIR A OBRIGAÇÃO                                AQUELES REFERENTES A DISTRIBUIÇÕES AOS DETENTORES DE DIREITOS
+• CUSTO CORRENTE                                                                         SOBRE O PATRIMÔNIO
+
+                           • ATIVO: É O CUSTO DE ATIVO EQUIVALENTE NA DATA DE MENSURAÇÃO, COMPREENDENDO A
+                              CONTRAPRESTAÇÃO QUE SERIA PAGA NA DATA DE MENSURAÇÃO MAIS OS CUSTOS DE
+                              TRANSAÇÃO QUE SERIAM INCORRIDOS NESSA DATA
+                           • PASSIVO: É A CONTRAPRESTAÇÃO QUE SERIA RECEBIDA PELO PASSIVO EQUIVALENTE NA DATA
+                              DE MENSURAÇÃO MENOS OS CUSTOS DE TRANSAÇÃO QUE SERIAM INCORRIDOS NESSA DATA                             CONTABILIDADE GERAL
+                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+CPC 00 (R2) – ESTRUTURA CONCEITUAL
+  PARA RELATÓRIO FINANCEIRO IV
+
+                                                                          CONCEITOS DE CAPITAL E MANUTENÇÃO DE CAPITAL
+
+ CAPITAL FINANCEIRO: É SINÔNIMO DE ATIVOS LÍQUIDOS OU PATRIMÔNIO LÍQUIDO DA ENTIDADE
+ MANUTENÇÃO DO CAPITAL FINANCEIRO: O LUCRO É CONSIDERADO AUFERIDO SOMENTE SE O MONTANTE FINANCEIRO
+ (OU DINHEIRO) DOS ATIVOS LÍQUIDOS NO FIM DO PERÍODO EXCEDER O SEU MONTANTE FINANCEIRO (OU DINHEIRO)
+ NO COMEÇO DO PERÍODO, DEPOIS DE EXCLUÍDAS QUAISQUER DISTRIBUIÇÕES AOS PROPRIETÁRIOS E SEUS APORTES DE
+ CAPITAL DURANTE O PERÍODO
+
+ CAPITAL OPERACIONAL: É CONSIDERADO COMO A CAPACIDADE PRODUTIVA DA ENTIDADE
+ MANUTENÇÃO DO CAPITAL OPERACIONAL: O LUCRO É CONSIDERADO AUFERIDO SOMENTE SE A CAPACIDADE FÍSICA
+ PRODUTIVA (OU CAPACIDADE OPERACIONAL) DA ENTIDADE (OU OS RECURSOS OU FUNDOS NECESSÁRIOS PARA
+ ATINGIR ESSA CAPACIDADE) NO FIM DO PERÍODO EXCEDER A CAPACIDADE FÍSICA PRODUTIVA NO INÍCIO DO PERÍODO,
+ DEPOIS DE EXCLUÍDAS QUAISQUER DISTRIBUIÇÕES AOS PROPRIETÁRIOS E SEUS APORTES DE CAPITAL DURANTE O PERÍODO
+
+                                                                                                                CONTABILIDADE GERAL
+                                                                             ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,527 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 04_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+ESTOQUES - I
+BANCAS DIVERSAS - IV
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Questão Comentada
+     01. (FCC/Pref. Mun. Macapá-AP/Administrador/2018) No bojo das metodologias de
+     administração de materiais, emergiu como paradigma para controle de estoques a
+     ferramenta denominada Kanban atrelada:
+     a) ao método UEPS (o último a entrar é o primeiro a sair) ou LIFO (last in, firstout), que
+     preconiza a reposição mais rápida dos últimos itens da cadeia produtiva.
+     b) à priorização da reposição de estoque de acordo com a demanda, que “empurra” o
+     estoque de acordo com os itens mais requeridos.
+     c) à denominada Curva ABC que propõe a escolha de três principais itens para
+     estocagem, de acordo com o seu peso relativo.
+     d) ao conceito just-in-time, que preconiza a reposição nas quantidades necessárias e no
+     momento necessário, idealizando o estoque zero.
+     e) ao método PEPS (o primeiro a entrar é o primeiro a sair) ou FIFO (first in, firstout), que
+     preconiza a reposição mais rápida dos primeiros itens da cadeia produtiva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoque “zero”: JIT e Kanban
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que
+         já tem demanda assegurada. É popularmente conhecido por aquele sistema em que a demanda
+         "puxa" a produção (ao contrário dos sistemas que vimos até agora, inclusive o MRP), ou seja, a
+         fábrica apenas se mobiliza, planeja e produz aquilo que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de
+         80, trazendo a meta do "estoque zero". O JIT é comumente associado a expressões (que
+         aparecem muito em provas!) como "produção sem estoques", "eliminação do desperdício",
+         "melhora contínua de processos", etc.
+
+       ❑ O Kanban também é um sistema japonês de gestão de estoques que consiste na utilização de
+         cartões pelos integrantes da linha de produção. É considerada uma ferramenta com a mesma
+         filosofia do sistema Just in Time portanto tem a velocidade do abastecimento também
+         influenciada pela demanda real de produção. Atenção pois não é um sinônimo do JIT, mas sim
+         um instrumento que utiliza como filosofia os conceitos do JIT.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (FCC/Pref. Mun. Macapá-AP/Administrador/2018) No bojo das metodologias de
+     administração de materiais, emergiu como paradigma para controle de estoques a
+     ferramenta denominada Kanban atrelada:
+     a) ao método UEPS (o último a entrar é o primeiro a sair) ou LIFO (last in, firstout), que
+     preconiza a reposição mais rápida dos últimos itens da cadeia produtiva.
+     b) à priorização da reposição de estoque de acordo com a demanda, que “empurra” o
+     estoque de acordo com os itens mais requeridos.
+     c) à denominada Curva ABC que propõe a escolha de três principais itens para
+     estocagem, de acordo com o seu peso relativo.
+     d) ao conceito just-in-time, que preconiza a reposição nas quantidades necessárias e no
+     momento necessário, idealizando o estoque zero.
+     e) ao método PEPS (o primeiro a entrar é o primeiro a sair) ou FIFO (first in, firstout), que
+     preconiza a reposição mais rápida dos primeiros itens da cadeia produtiva.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) Considerando a aplicação de
+     técnicas de previsões de consumo e sua natureza, quando os consumidores
+     compartilham uma forte necessidade que não pode ser satisfeita por nenhum produto
+     existente no mercado, tal natureza é classificada como demanda:
+     a) irregular.
+     b) latente.
+     c) excessiva.
+     d) plena.
+     e) indesejada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Demandas
+        Demanda irregular: tem por característica a utilização de materiais em quantidades aleatórias, por meio de grande variação entre
+        sucessivos intervalos de tempo.
+
+        Demanda latente: é justamente aquela demanda de mercado diagnosticada, porém ainda não atendida, ou seja, uma grande
+        oportunidade para os fabricantes de produtos ou prestadores de serviços.
+
+        Demanda excessiva: é representada por um volume de procura maior do que a oferta de fabricantes para seu atendimento, ou
+        seja, é uma demanda que não consegue ser plenamente atendida.
+
+        Demanda plena: representa um equilíbrio entre o volume demandado e o volume atendido. É uma situação hipotética de
+        equilíbrio de mercado.
+
+        Demanda indesejada: pode ser representada pela procura de produto/serviços prejudiciais à saúde, sociedade ou meio-ambiente,
+        como aqueles Normalmente regulados pelas autoridades públicas com o intuito de desestimular o seu consumo ( exs.: bebidas
+        alcoólicas, cigarros, armas, etc).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     02. (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) Considerando a aplicação de
+     técnicas de previsões de consumo e sua natureza, quando os consumidores
+     compartilham uma forte necessidade que não pode ser satisfeita por nenhum produto
+     existente no mercado, tal natureza é classificada como demanda:
+     a) irregular.
+     b) latente.
+     c) excessiva.                   A demanda latente é justamente aquela demanda de mercado
+                                     diagnosticada, porém ainda não atendida, ou seja, uma grande
+     d) plena.                       oportunidade para os fabricantes de produtos ou prestadores de
+     e) indesejada.                  serviços.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/FITO/Técnico em Gestão/2020) O estoque mais adequado para as
+     instituições que operam com uma alta rotatividade de produtos e que devem assegurar
+     a otimização dos níveis de estoque a partir de demandas diferentes e constantes é
+     denominado:
+     a) antecipação.
+     b) ciclo.
+     c) proteção.
+     d) canal.
+     e) inativo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       Para Slack, Chambers e Johnston
+
+      •     Estoque de Proteção
+      O estoque de proteção também é chamado de estoque isolador. Seu propósito é compensar as incertezas inerentes a fornecimento e demanda.
+      É o famoso estoque de segurança ou mínimo, um estoque adicional capaz de cobrir eventuais situações imprevisíveis (exemplo: atraso no tempo decorrido na
+      entrega – ressuprimento).
+
+      •      Estoque de Ciclo
+      O estoque de ciclo ocorre porque um ou mais estágios na operação não podem fornecer simultaneamente todos os itens que produzem.
+      Este tipo de estoque existe porque a operação não pode fornecer simultaneamente todos os itens que produz (produzindo assim em ciclos), utilizado
+      principalmente nas organizações que comercializam diversos tipos de produtos. Vejamos exemplo dos autores: "suponhamos uma padaria que faz três tipos de
+      pães, todos igualmente populares entre seus consumidores. Devido à natureza dos processos de misturar e assar, somente um tipo de pão pode ser produzido
+      por vez. O padeiro teria que produzir cada tipo de pão em fornadas (ou "lotes", como algumas vezes são conhecidos). As fornadas devem ser grandes o
+      bastante para satisfazer à demanda de cada tipo de pão entre os momentos em que cada fornada fica pronta para venda".
+
+      •     Estoque de Antecipação
+      É quando a organização, devido a sua demanda sazonal, antecipa a sua produção para atender uma demanda futura esperada.
+      O estoque de antecipação é mais comumente usado quando as flutuações de demanda são significativas, mas relativamente previsíveis.
+      Exemplificando: é quando uma organização na qual comercializa enfeites de Natal, produz ao longo do ano à frente da demanda e coloca em estoque até que
+      chegue época de maior demanda (Natal).
+
+      •     Estoques no Canal (de distribuição)
+      Estoques no canal de distribuição existem porque o material não pode ser transportado instantaneamente entre o ponto de fornecimento e o ponto de
+      demanda. É o produto colocado em estoque desde o seu carregamento no depósito do fornecedor até o momento em que é descarregado para o varejista.
+      Neste sentido, todo o estoque em trânsito é estoque de canal.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                          
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/FITO/Técnico em Gestão/2020) O estoque mais adequado para as
+     instituições que operam com uma alta rotatividade de produtos e que devem assegurar
+     a otimização dos níveis de estoque a partir de demandas diferentes e constantes é
+     denominado:
+     a) antecipação.
+     b) ciclo.
+     c) proteção.
+     d) canal.
+     e) inativo.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO CONSULPLAN/CRQ 3 RJ/Profissional Analista Superior/2020) O estoque de muitas
+     empresas é composto por centenas ou milhares de itens, dependendo do setor de atividade, o que
+     dificulta bastante a aplicabilidade de uma metodologia de previsão de estoques eficiente. Para
+     maximizar a eficácia das projeções de demanda é essencial, em muitos casos, ter conhecimento sobre o
+     comportamento da demanda de determinados produtos ou famílias de produtos; assim, o estoque
+     poderá ser ajustado de forma a atender melhor as necessidades do mercado. Tendo em vista os
+     diferentes modelos de comportamento de consumo, analise a o gráfico apresentado. Podemos afirmar
+     que o gráfico se refere à evolução de consumo:
+     a) sazonal.
+     b) constante.
+     c) de tendência.
+     d) comportamental.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO CONSULPLAN/CRQ 3 RJ/Profissional Analista Superior/2020) O estoque de muitas
+     empresas é composto por centenas ou milhares de itens, dependendo do setor de atividade, o que
+     dificulta bastante a aplicabilidade de uma metodologia de previsão de estoques eficiente. Para
+     maximizar a eficácia das projeções de demanda é essencial, em muitos casos, ter conhecimento sobre o
+     comportamento da demanda de determinados produtos ou famílias de produtos; assim, o estoque
+     poderá ser ajustado de forma a atender melhor as necessidades do mercado. Tendo em vista os
+     diferentes modelos de comportamento de consumo, analise a o gráfico apresentado. Podemos afirmar
+     que o gráfico se refere à evolução de consumo:
+                                                                                    No consumo sazonal, que é um padrão
+     a) sazonal.                                                                    repetitivo, o consumo apresenta
+                                                                                    intervalos de considerável elevação em
+     b) constante.                                                                  alguns períodos do ano (exemplos:
+     c) de tendência.                                                               consumo/vendas de sorvetes e
+                                                                                    aparelho de ar condicionado no verão
+     d) comportamental.                                                             ou de cobertores e antigripais no
+                                                                                    inverno).
+     GABARITO - A
+                                                                                    Esse tipo de consumo possui oscilações
+                                                                                    regulares, que tanto podem ser
+                                                                                    positivas quanto negativas. É
+                                                                                    considerado sazonal quando o desvio é
+                                                                                    de no mínimo 25% do consumo médio
+                                                                                    e quando aparece condicionado a
+                                                                                    determinadas causas.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRM AC/Assistente Administrativo/2019) Julgue o item. Por meio do
+     método da média móvel, a previsão de consumo de materiais gerada será menor que os
+     valores verificados se o padrão de consumo for decrescente.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRM AC/Assistente Administrativo/2019) Julgue o item. Por meio do
+     método da média móvel, a previsão de consumo de materiais gerada será menor que os
+     valores verificados se o padrão de consumo for decrescente.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CONRERP 2/Assistente Administrativo/2019) Julgue o item. Por meio do
+     método da média móvel, a previsão de consumo de materiais gerada será maior que os
+     valores verificados se o padrão de consumo for crescente.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CONRERP 2/Assistente Administrativo/2019) Julgue o item. Por meio do
+     método da média móvel, a previsão de consumo de materiais gerada será maior que os
+     valores verificados se o padrão de consumo for crescente.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (IDCAP/CM Boa Esperança-MG/Técnico/2019) A Gestão de Recursos Materiais é um
+     sistema responsável pelo suprimento dos meios (materiais) para o funcionamento da
+     organização no:
+     a) Tempo ideal; quantidade necessária; e quantidade abaixo do ideal.
+     b) Tempo ideal; quantidade necessária; e quantidade adequada.
+     c) Tempo ideal; quantidade excessiva; e quantidade necessária.
+     d) Tempo excessivo; quantidade excessiva; e quantidade desnecessária.
+     e) Tempo excessivo; quantidade necessária; e quantidade adequada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (IDCAP/CM Boa Esperança-MG/Técnico/2019) A Gestão de Recursos Materiais é um
+     sistema responsável pelo suprimento dos meios (materiais) para o funcionamento da
+     organização no:
+     a) Tempo ideal; quantidade necessária; e quantidade abaixo do ideal.
+     b) Tempo ideal; quantidade necessária; e quantidade adequada.
+     c) Tempo ideal; quantidade excessiva; e quantidade necessária.
+     d) Tempo excessivo; quantidade excessiva; e quantidade desnecessária.
+     e) Tempo excessivo; quantidade necessária; e quantidade adequada.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (INSTITUTO AOCP/Pref. Mun. Sã Bento do Sul-SC/Auxiliar/2019) Considerando a
+     imagem a seguir, assinale a alternativa que apresenta, respectivamente, a Quantidade
+     Consumida durante o mês e o Tempo de Reposição do produto.
+     a) 540 unidades / 10 dias.
+     b) 180 unidades / 30 dias.
+     c) 18 unidades / 30 dias.
+     d) 180 unidades / 10 dias.
+
+                                                                                 Fonte: Adaptada de Dias (2012).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (INSTITUTO AOCP/Pref. Mun. Sã Bento do Sul-SC/Auxiliar/2019) Considerando a
+     imagem a seguir, assinale a alternativa que apresenta, respectivamente, a Quantidade
+     Consumida durante o mês e o Tempo de Reposição do produto.
+     a) 540 unidades / 10 dias.
+     b) 180 unidades / 30 dias.
+     c) 18 unidades / 30 dias.
+     d) 180 unidades / 10 dias.
+
+        A quantidade consumida ao longo de 1 mês é de 540 unidades. Note que a cada 10 dias,
+        180 unidades são consumidas. Dessa forma: 1 mês = 30 dias, logo, quantidade total
+        consumida = 3x180 = 540 unidades.
+
+        Já em relação ao tempo de reposição, assumindo-se que o pedido é feito quando o estoque
+        chega a 0, concluímos que em 10 dias um novo lote é entregue ao comprador.
+
+        Vejamos: no dia 1, quando o estoque atingiu 0 um novo pedido de 180 unidades foi
+        colocado e, neste mesmo dia, foi recebido o pedido de 180 unidades feito 10 dias atrás.
+        No dia 10, as 180 unidades foram entregues, no mesmo momento em que o estoque               Fonte: Adaptada de Dias (2012).
+        chegou a zero, quando é disparado um novo pedido (no dia 10), entregue no dia 20,
+        novamente de 180 unidades, e assim por diante.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                               
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CREF11/Assistente Administrativo/2019) A partir dos dados apresentados
+     na tabela, julgue o item. Utilizando‐se o método da média ponderada móvel dos três
+     últimos períodos com percentuais de 50%, 30% e 20%, a previsão de consumo para o mês
+     de abril/2019 será inferior a 28 unidades.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CREF11/Assistente Administrativo/2019) A partir dos dados apresentados
+     na tabela, julgue o item. Utilizando‐se o método da média ponderada móvel dos três
+     últimos períodos com percentuais de 50%, 30% e 20%, a previsão de consumo para o mês
+     de abril/2019 será inferior a 28 unidades.
+     a) Certo
+     b) Errado                         Vamos ao cálculo da média ponderada móvel de acordo com os dados fornecidos:
+     GABARITO – ERRADA                 Janeiro - 35 x 20% = 7,0
+
+                                            Fevereiro - 30 x 30% = 9,0
+
+                                            Março - 25 x 50% = 12,5
+
+                                            Nesse cenário, a previsão de consumo esperada para Abril é de 28,5 (7,0+9,0+12,5),
+                                            ou seja, superior (e não inferior) a 28 unidades.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CREF11/Assistente Administrativo/2019) A partir dos dados apresentados
+     na tabela, julgue o item. Suponha‐se que, por meio do método da média móvel
+     exponencialmente ponderada, a previsão para o mês de março/2019 tenha sido de 35
+     unidades e o coeficiente de ajuste igual a 0,2. Nesse caso, a previsão para o mês de
+     abril/2019, por meio do método da média móvel exponencialmente ponderada, será de 33
+     unidades.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CREF11/Assistente Administrativo/2019) A partir dos dados apresentados
+     na tabela, julgue o item. Suponha‐se que, por meio do método da média móvel
+     exponencialmente ponderada, a previsão para o mês de março/2019 tenha sido de 35
+     unidades e o coeficiente de ajuste igual a 0,2. Nesse caso, a previsão para o mês de
+     abril/2019, por meio do método da média móvel exponencialmente ponderada, será de 33
+     unidades.
+     a) Certo
+                                De acordo com Fenili: "este método tem sua aplicação mais recomendada quando, no período anterior, houve significativa
+     b) Errado                  diferença entre a previsão de consumo e o consumo efetivo. Assim, cabe ao gestor definir se a mudança de padrão observada
+                                no período anterior deu-se devido a causas aleatórias (não sendo, assim, perpetuada em períodos subsequentes) ou houve
+     GABARITO - CORRETA         efetivamente uma alteração de comportamento que afetará o período futuro (ou seja, se é uma nova tendência)."
+                                                 Para o cálculo desse método são necessários os seguintes dados:
+
+                                                 •      a previsão de demanda do último período;
+                                                 •      o consumo real do último período;
+                                                 •      o valor do coeficiente de ajuste (β).
+
+                                                 Previsão = β x Consumo Real Anterior + (1- β) x Previsão Anterior
+                                                 Vamos ao cálculo:
+
+                                                 Previsão = 0,2 x 25 + (1-0,2) x 35
+                                                 Previsão = 5 + 28
+                                                 Previsão = 33
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

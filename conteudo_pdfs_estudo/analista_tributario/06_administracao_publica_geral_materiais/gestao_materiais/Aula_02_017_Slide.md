@@ -1,0 +1,651 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_017_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: CLASSIFICAÇÃO DE MATERIAIS
+artigos_citados:
+- Art. 3º
+---
+
+# CLASSIFICAÇÃO DE MATERIAIS
+
+---
+
+---
+
+CLASSIFICAÇÃO DE MATERIAIS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - IX
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRF-AP/2022) A respeito da administração de materiais, julgue o item. Na
+     classificação de materiais, o atributo da abrangência estabelece que a classificação deve
+     ser simples e direta, sem demandar do gestor procedimentos complexos.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atributos para a Classificação
+       Resumo Geral!
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Atributos para a Classificação
+       Abrangência
+
+
+       ❑ A abrangência deve permitir que a classificação possa incluir um vasto número de
+         diferentes tipos de materiais, englobando uma grande variedade de características
+         como peso, forma, dimensão, custos, aspectos contábeis, etc.
+       ❑ Deve tratar da maior gama possível de características.
+       ❑ Isso permite que o sistema seja abrangente o suficiente para representar todos os
+         tipos de materiais em suas mais variadas dimensões, conseguindo diferenciá-los um a
+         um e evitando qualquer tipo de duplicidade ou confusão.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRF-AP/2022) A respeito da administração de materiais, julgue o item. Na
+     classificação de materiais, o atributo da abrangência estabelece que a classificação deve
+     ser simples e direta, sem demandar do gestor procedimentos complexos.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CREFITO-4/2022) A respeito da administração de materiais, julgue o item.
+     Material de consumo é aquele que, em razão de seu uso corrente, perde normalmente sua
+     identidade física e(ou) tem sua durabilidade limitada a dois anos.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Portaria STN 448/2002
+       Material Permanente x Consumo
+
+                 Art. 3º - Na classificação da despesa serão adotados os seguintes parâmetros excludentes,
+                 tomados em conjunto, para a identificação do material permanente:
+
+                 I - Durabilidade, quando o material em uso normal perde ou tem reduzidas as suas
+                 condições de funcionamento, no prazo máximo de dois anos;
+
+                 II - Fragilidade, cuja estrutura esteja sujeita a modificação, por ser quebradiço ou
+                 deformável, caracterizando-se pela irrecuperabilidade e/ou perda de sua identidade;
+
+                 III - Perecibilidade, quando sujeito a modificações (químicas ou físicas) ou que se deteriora
+                 ou perde sua característica normal de uso;
+
+                 IV - Incorporabilidade, quando destinado à incorporação a outro bem, não podendo ser
+                 retirado sem prejuízo das características do principal; e
+
+                 V - Transformabilidade, quando adquirido para fim de transformação.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CREFITO-4/2022) A respeito da administração de materiais, julgue o item.
+     Material de consumo é aquele que, em razão de seu uso corrente, perde normalmente sua
+     identidade física e(ou) tem sua durabilidade limitada a dois anos.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+      Cuidado, pois, há uma sutileza difícil de ser enxergada nessa questão. Vejamos o que diz Fenili:
+      “Material de consumo é aquele que, em razão de seu uso corrente, perde normalmente sua
+      identidade física e tem sua utilização limitada a dois anos”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CREFITO-4/2022) A respeito da administração de materiais, julgue o item.
+     Frutas e legumes deteriorados não são considerados como perda com quebra, pois são
+     bens perecíveis que não entram nessa classificação.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CREFITO-4/2022) A respeito da administração de materiais, julgue o item.
+     Frutas e legumes deteriorados não são considerados como perda com quebra, pois são
+     bens perecíveis que não entram nessa classificação.
+     C) Certo
+                                Questão específica que se baseia em conceito de Lapa. Confira, de acordo com
+     E) Errado                  o autor:
+     GABARITO - ERRADA          Na visão de Lapa (2010),
+                                            “As perdas com quebras são aquelas que são definidas e descriminadas, tais
+                                            como:
+                                            a) Mercadorias vencidas;
+                                            b) Frutas e legumes deteriorados;
+                                            c) Balcões com problemas de refrigeração;
+                                            d) Produtos não separados por categoria;
+                                            e) Produtos empilhados acima da recomendação do fabricante;
+                                            f) Descarga de produtos inadequada (produtos jogados no piso);
+                                            g) Produtos mais pesados estocados sobre outros mais frágeis;
+                                            h) Pedidos acima da quantidade ideal (compras);
+                                            i) Produção de fatiados acima do giro;
+                                            j) Produtos furtados com vestígios como embalagens violadas (furto externo e
+                                            interno)”.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     04. (OBJETIVA/Pref. Venâncio Aires-RS/2022) Em conformidade com VIANA, são objetivos
+     da padronização:
+     I. Aumentar o número de itens no estoque.
+     II. Simplificação dos materiais.
+     III. Permitir compra em grandes lotes.
+     IV. Aumentar a quantidade de itens no estoque.
+     Estão CORRETOS:
+     A) Somente os itens I e II.
+     B) Somente os itens II e III.
+     C) Somente os itens III e IV.
+     D) Todos os itens.
+     E) Nenhum dos itens.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Etapas da Classificação
+       Padronização
+       ❑ A padronização procura estabelecer padrões idênticos de medidas de peso, formato e outras correlatas e está
+         diretamente ligada ao processo de simplificação pois, obtida a padronização, um dos seus grandes benefícios é a
+         diminuição do número de itens em estoque, evitando ou minimizando a variedade de itens dentro de uma mesma
+         classe de materiais utilizados para o mesmo fim.
+
+       ❑ A etapa de padronização gera algumas vantagens à organização:
+
+       ✓    Redução do risco de falta de materiais no estoque por meio da redução da variedade, o que permite maior
+            volume em menor número de itens.
+
+       ✓    Compras em maiores lotes: menos itens levam a compras de maior volume, gerando ganhos de escala e descontos
+            na aquisição. Note que a ideia não é comprar "mais". O volume é provavelmente o mesmo porém, agora não se
+            distribui em diversos itens provavelmente de fornecedores diferentes, mas concentra-se em menos itens,
+            padronizados, que podem ser adquiridos juntos a um mesmo fornecedor.
+
+       ✓    Redução da quantidade de itens em estoque: a redução do número e da variedade de itens permite reduzir os
+            custos de armazenamento pois leva à melhoria do layout e provável diminuição do espaço físico utilizado.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     04. (OBJETIVA/Pref. Venâncio Aires-RS/2022) Em conformidade com VIANA, são objetivos
+     da padronização:
+     I. Aumentar o número de itens no estoque.
+     II. Simplificação dos materiais.
+     III. Permitir compra em grandes lotes.
+     IV. Aumentar a quantidade de itens no estoque.
+     Estão CORRETOS:
+     A) Somente os itens I e II.
+     B) Somente os itens II e III.
+     C) Somente os itens III e IV.
+     D) Todos os itens.
+     E) Nenhum dos itens.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRQ-XX/2021) Ao longo do processo produtivo, os materiais, seguindo seu
+     fluxo, sofrem modificações de acordo com o estágio de processamento. Sendo assim,
+     assinale a alternativa que apresenta a denominação correspondente às peças isoladas, já
+     prontas, que serão componentes do produto final.
+     A) produtos acabados
+     B) materiais auxiliares
+     C) materiais acabados
+     D) materiais de manutenção
+     E) matérias-primas
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRQ-XX/2021) Ao longo do processo produtivo, os materiais, seguindo seu
+     fluxo, sofrem modificações de acordo com o estágio de processamento. Sendo assim,
+     assinale a alternativa que apresenta a denominação correspondente às peças isoladas, já
+     prontas, que serão componentes do produto final.
+     A) produtos acabados
+     B) materiais auxiliares
+     C) materiais acabados
+     D) materiais de manutenção
+     E) matérias-primas
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRESS-23-R0/2021) Os dados advindos da classificação de materiais servem de
+     informação gerencial ao administrador de materiais, que se torna capaz de voltar sua atenção a
+     determinada(s) categoria(s) de material(is), ao invés de tentar, em vão, lidar com uma infinidade de itens
+     de materiais. Sem uma classificação de materiais bem definida, seria quase impossível ao gestor de
+     materiais administrar seus estoques. Assim, criar uma classificação de materiais que promova uma
+     gestão mais pontual do processo sustenta uma administração mais ampla do material junto ao estoque.
+     Nesse pensamento, utilizar-se dos atributos da gestão de materiais permite uma condução mais
+     assertiva da gestão na estocagem. Logo, é correto afirmar que os atributos de um sistema de
+     classificação são:
+     A) abrangência, praticidade e normalização.
+     B) codificação, abrangência e flexibilidade.
+     C) simplicidade, padronização e abrangência.
+     D) praticidade, identificação e abrangência.
+     E) praticidade, flexibilidade e abrangência.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atributos para a Classificação
+       Resumo Geral!
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRESS-23-R0/2021) Os dados advindos da classificação de materiais servem de
+     informação gerencial ao administrador de materiais, que se torna capaz de voltar sua atenção a
+     determinada(s) categoria(s) de material(is), ao invés de tentar, em vão, lidar com uma infinidade de itens
+     de materiais. Sem uma classificação de materiais bem definida, seria quase impossível ao gestor de
+     materiais administrar seus estoques. Assim, criar uma classificação de materiais que promova uma
+     gestão mais pontual do processo sustenta uma administração mais ampla do material junto ao estoque.
+     Nesse pensamento, utilizar-se dos atributos da gestão de materiais permite uma condução mais
+     assertiva da gestão na estocagem. Logo, é correto afirmar que os atributos de um sistema de
+     classificação são:
+     A) abrangência, praticidade e normalização.
+     B) codificação, abrangência e flexibilidade.
+     C) simplicidade, padronização e abrangência.
+     D) praticidade, identificação e abrangência.
+     E) praticidade, flexibilidade e abrangência.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (OBJETIVA CONCURSOS/Pref. Cel. Martins-SC/2021) Em conformidade com VIANA,
+     sobre a classificação de materiais, analisar a sentença abaixo: Para atender às necessidades
+     de cada empresa, é necessária uma divisão que norteie as várias formas de classificação (1ª
+     parte). A classificação deve ser analisada no todo, em conjunto, visando propiciar decisões
+     e resultados que contribuam para atenuar o risco de falta (2ª parte). A sentença está:
+     A) Totalmente correta.
+     B) Correta somente em sua 1ª parte.
+     C) Correta somente em sua 2ª parte.
+     D) Totalmente incorreta.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Classificação de Materiais
+       Agrupando materiais com características comuns
+       ❑ A classificação deve sempre ser feita de maneira que cada material, identificado em todo seu nível
+         de detalhe, ocupe seu respectivo local, onde obtenha segurança para sua armazenagem, não
+         ofereça perigo aos materiais próximos (exemplo: produto químico que altere a característica de
+         um produto alimentício ao lado) e possa ser rapidamente localizado.
+
+       ❑ Dessa forma, pode-se concluir que classificar um material é:
+
+        Ordená-lo segundo critérios adotados, agrupando-o de acordo com a semelhança, sem causar
+        confusão ou dispersão no espaço e alteração na qualidade.
+
+       ❑ Após todo esse processo de classificação, que se divide em várias etapas que veremos mais
+         adiante, temos como resultado a possibilidade de codificar o material, ou seja, representar todas
+         essas informações previamente coletadas por meio de números, letras ou outro método adotado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (OBJETIVA CONCURSOS/Pref. Cel. Martins-SC/2021) Em conformidade com VIANA,
+     sobre a classificação de materiais, analisar a sentença abaixo: Para atender às necessidades
+     de cada empresa, é necessária uma divisão que norteie as várias formas de classificação (1ª
+     parte). A classificação deve ser analisada no todo, em conjunto, visando propiciar decisões
+     e resultados que contribuam para atenuar o risco de falta (2ª parte). A sentença está:
+     A) Totalmente correta.
+     B) Correta somente em sua 1ª parte.
+     C) Correta somente em sua 2ª parte.
+     D) Totalmente incorreta.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (OBJETIVA CONCURSOS/Pref. Cel. Maripá-PR/2021) De acordo com VIANA, sobre a
+     classificação na administração de materiais, analisar os itens abaixo: I. Os materiais de
+     estoque são materiais de demanda imprevisível para os quais não são definidos
+     parâmetros a fim de ressuprimento automático. II. Para os materiais não de estoque, são
+     determinados critérios e parâmetros de ressuprimento automático, com base na demanda
+     prevista e na importância para a empresa.
+     A) Os itens I e II estão corretos.
+     B) Somente o item I está correto.
+     C) Somente o item II está correto.
+     D) Os itens I e II estão incorretos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Tipos de Demanda: “de estoque” e “não de estoque”
+
+       ❑ Em relação ao tipo de demanda temos os chamados materiais "de estoque" e os
+         materiais "não de estoque".
+       ❑ Os materiais de estoque são aqueles consumidos rotineiramente ao longo do
+         processo de produção e, por isso, devem ser sempre adquiridos e estar
+         continuamente à disposição quando requisitados, ou seja, devem possuir estoque.
+       ❑ Geralmente possuem sistemas de reposição automática de estoques, que não exigem
+         a participação do usuário, minimizando o risco de desabastecimento.
+       ❑ Os materiais de estoque podem ser subdivididos quanto à aplicação, quanto ao valor
+         de consumo (Curva ABC) e quanto à importância operacional (XYZ). Veremos todas
+         essas subdivisões mais adiante.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Tipos de Demanda: “de estoque” e “não de estoque”
+    ❑ Já os materiais de não estoque são consumidos com menor frequência, têm demanda irregular ou
+      mesmo imprevisível e, portanto, muitas vezes não têm previsão de utilização. Dessa forma, não
+      devem ser mantidos em estoque em função dos custos diretos e indiretos de tal opção. Quando a
+      organização necessita deles, compra para utilização imediata, sendo raros os casos em que são
+      comprados para utilização posterior.
+
+    ❑ Nesse contexto, ao contrário dos materiais "de estoque", os materiais "não de estoque" não
+      possuem critérios e parâmetros para o ressuprimento automático, geralmente exigindo o
+      envolvimento do usuário para identificar a necessidade de abastecimento por meio de solicitação
+      direta de aquisição.
+                                                                Tipo de
+                                                               Demanda
+
+
+                                                                             "Não de
+                                               "De Estoque"
+Administração de Materiais para Concursos
+                                                                             Estoque"
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (OBJETIVA CONCURSOS/Pref. Cel. Maripá-PR/2021) De acordo com VIANA, sobre a
+     classificação na administração de materiais, analisar os itens abaixo: I. Os materiais de
+     estoque são materiais de demanda imprevisível para os quais não são definidos
+     parâmetros a fim de ressuprimento automático. II. Para os materiais não de estoque, são
+     determinados critérios e parâmetros de ressuprimento automático, com base na demanda
+     prevista e na importância para a empresa.
+     A) Os itens I e II estão corretos.
+     B) Somente o item I está correto.
+     C) Somente o item II está correto.
+     D) Os itens I e II estão incorretos.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (UFMT/UFMT/2021) Na organização da área de materiais, a classificação por
+     importância operacional ___________ avalia o grau de criticidade ou de imprescindibilidade
+     do item de material nas atividades desempenhadas pela organização. Assinale a alternativa
+     que preenche corretamente a lacuna.
+     A) XYZ
+     B) BIM
+     C) CIO
+     D) ABC
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Importância Operacional ou XYZ
+       ❑ Note que aqui não estamos mais falando de valores mas sim da importância do material para o
+         processo produtivo da empresa, ou seja, sem o material crítico, a produção ou a operação da
+         empresa, para!
+       ❑ São geralmente materiais vitais para equipamentos produtivos, que servem de reposição para um
+         equipamento ou grupo de equipamentos e que devem permanecer estocados até a sua
+         utilização, compensando o prejuízo potencialmente gerado pela sua falta.
+       ❑ Veja abaixo as classificações adotadas quanto a esse quesito:
+       ✓ Classe X - Materiais de aplicação não importante. Criticidade baixa. Falta não acarreta paralisação
+         do processo. Podem ser facilmente adquiridos ou substituídos por materiais similares da própria
+         organização.
+       ✓ Classe Y - Criticidade média. São importantes para o processo porém podem ser substituídos por
+         outros com relativa facilidade, mesmo não possuindo similares na empresa.
+       ✓ Classe Z - Criticidade máxima. Imprescindíveis ao processo e não podem ser substituídos por
+         similares. Sua falta provoca a paralisação da produção e/ou fases operativas da organização.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (UFMT/UFMT/2021) Na organização da área de materiais, a classificação por
+     importância operacional ___________ avalia o grau de criticidade ou de imprescindibilidade
+     do item de material nas atividades desempenhadas pela organização. Assinale a alternativa
+     que preenche corretamente a lacuna.
+     A) XYZ
+     B) BIM
+     C) CIO
+     D) ABC
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CFT/2021) Quanto à administração de recursos materiais e à gestão de
+     estoques, julgue o item. No que se refere à classificação quanto ao estado de
+     apresentação, os materiais imprestáveis são aqueles cuja recuperação não é viável e que
+     não possuem condições de uso.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Decreto 9.373/2018
+       Bens Inservíveis
+
+                 Art. 3º Para que seja considerado inservível, o bem será classificado como:
+
+                 I - ocioso - bem móvel que se encontra em perfeitas condições de uso, mas não é aproveitado;
+
+                 II - recuperável - bem móvel que não se encontra em condições de uso e cujo custo da
+                 recuperação seja de até cinquenta por cento do seu valor de mercado ou cuja análise de custo
+                 e benefício demonstre ser justificável a sua recuperação;
+
+                 III - antieconômico - bem móvel cuja manutenção seja onerosa ou cujo rendimento seja
+                 precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo; ou
+
+                 IV - irrecuperável - bem móvel que não pode ser utilizado para o fim a que se destina devido à
+                 perda de suas características ou em razão de ser o seu custo de recuperação mais de cinquenta
+                 por cento do seu valor de mercado ou de a análise do seu custo e benefício demonstrar ser
+                 injustificável a sua recuperação.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CFT/2021) Quanto à administração de recursos materiais e à gestão de
+     estoques, julgue o item. No que se refere à classificação quanto ao estado de
+     apresentação, os materiais imprestáveis são aqueles cuja recuperação não é viável e que
+     não possuem condições de uso.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

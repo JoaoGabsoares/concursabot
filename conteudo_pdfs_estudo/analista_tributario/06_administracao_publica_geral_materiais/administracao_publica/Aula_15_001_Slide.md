@@ -1,0 +1,1243 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 15_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: COMUNICAÇÃO
+---
+
+# COMUNICAÇÃO
+
+---
+
+---
+
+COMUNICAÇÃO
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Comunicação
+Conceito
+
+A comunicação consiste na transmissão de uma informação (pelo emissor) e a
+consequente compreensão do significado dessa informação (pelo destinatário).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+Comunicação
+Dado x Informação
+
+                                           Registro ou anotação de algum evento ou
+                          Dado
+                                         ocorrência. Não possuem qualquer significado.
+      Dado
+        x
+   Informação
+                                            Conjunto de dados com um determinado
+                        Informação
+                                                         significado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Comunicação
+Organizacional x Interpessoal
+
+                                            Trata-se da comunicação utilizada pelas
+                    Organizacional
+                                                          empresas.
+Comunicação
+                                         Se refere à comunicação que ocorre entre os
+                        Interpessoal
+                                                         indivíduos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+                        (IESES – CRA-SC – Agente Administrativo - 2017)
+É um conjunto de dados com determinado significado, ou seja, que reduz a incerteza
+a respeito de algo ou que permite o conhecimento a respeito de algo:
+a) Emissor.
+b) Dado.
+c) Comunicação.
+d) Informação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CEPS – UFPA – Assistente em Administração - 2016)
+A comunicação entre duas pessoas, seja na comunicação face a face ou em
+contextos de grupos, nas quais as partes são tratadas como indivíduos, denomina-se
+comunicação
+a) organizacional.
+b) em rede.
+c) paralela.
+d) interpessoal.
+e) processual.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Funções da Comunicação
+
+
+                                       A comunicação funciona com um tipo de
+                         Controle
+                                      controle no comportamento das pessoas.
+
+
+                                     A comunicação funciona como uma fonte de
+                        Motivação
+                                                    motivação.
+  04 funções
+   básicas                            É através da comunicação que os indivíduos
+                        Expressão
+                                     expressam seus sentimentos de satisfação
+                        emocional
+                                                    ou insatisfação.
+
+                                     A comunicação proporciona informação aos
+                        Informação     indivíduos, que os auxilia no processo de
+                                                tomada de decisões.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+                        (FCC – TRE-SP – Analista Judiciário)
+A comunicação tem quatro funções básicas dentro de um grupo ou de uma
+organização
+a) controle, motivação, expressão emocional e informação.
+b) comprometimento, semântica, feedback e decodificação.
+c) formal, informal, entendimento e expressão.
+d) vertical, horizontal, não verbal e oral.
+e) emissão, recepção, clareza e canal.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Processo de Comunicação
+                                                           Ruído
+
+                 Mensagem                  Mensagem                        Mensagem                   Mensagem
+    Remetente                                                                                                    Destinatário
+     (Fonte)                Transmissor                     Canal                      Receptor
+                                                                                                                  (Destino)
+
+
+                             Codificação                                              Decodificação
+
+                                                         Feedback
+                                                        (Retroação)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Processo de Comunicação
+Visão 02
+
+                                                           Ruído
+
+                 Mensagem                 Mensagem                        Mensagem                   Mensagem
+     Emissor
+     (Fonte)                Codificação                    Canal                     Decodificação              Receptor
+
+                                                         Feedback
+                                                        (Retroação)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (FADESP – CPC – Perito Criminal - 2019)
+A comunicação tem aplicação em todas as funções administrativas, mas é
+particularmente importante na função de direção. Ela envolve o intercâmbio de
+ideias, informações e pensamentos. O processo de comunicação envolve os
+seguintes componentes:
+a) chefe, subordinado, secretária, servente, clientes e fornecedores.
+b) fonte, transmissor, canal, receptor, destino e ruído.
+c) celular, computador, tablet, impressora, rede wifi e redes sociais.
+d) remetente, conteúdo, envelope, ofício, carta e destinatário.
+e) mensagens, fotos, dados, posts, arquivos e nuvens.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IBFC – EBSERH – Pedagogo - 2016)
+De acordo com Chiavenato (2009, p.61-62) a comunicação constitui um processo
+composto de alguns elementos: I. Emissor ou fonte. II. Transmissor ou codificador.
+III. Canal. IV. Receptor ou decodificador. V. Destino. Estão corretas as afirmativas:
+a) I, IV apenas
+b) II, III, V apenas
+c) IV, V apenas
+d) I, II, III, IV, V
+e) III, IV apenas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – COMPESA – Analista – Administrador - 2014)
+Assinale a opção que indica os seis elementos fundamentais do processo de
+comunicação.
+a) Destinatário, transmissor, meio, receptor, destino e ruído.
+b) Pessoa, remetente, canal, receptor, destino e barreiras.
+c) Fonte, transmissor, canal, receptor, destino e ruído.
+d) Pessoa, remetente, meio, transmissor, receptor e ruído.
+e) Fonte, transmissor, meio, ambiente, receptor e barreiras.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – FBN – Assistente Técnico Administrativo - 2013)
+A comunicação é um processo necessário dentro das organizações para o qual se
+deve estabelecer um canal efetivo e transparente afim de obter resultados positivos
+Assinale a alternativa que indica a ordem correta dos elementos do processo de
+comunicação.
+a) Receptor, canal, emissor e ruído.
+b) Receptor, canal, mensagem efeedback.
+c) Emissor, canal, mensagem e redundância.
+d) Emissor, canal, mensagem e receptor.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FUMARC – SEPLAG-MG – Gestor Governamental)
+O processo da comunicação nas empresas, segundo Robbins e Decenzo, é composto
+de sete partes. Elas funcionam de forma integrada com o objetivo de evitar
+bloqueios ou desvios neste fluxo. Selecione a alternativa CORRETA da descrição dos
+componentes deste fluxo informacional:
+a) O emissor, a decodificação, o receptor, a mensagem, o tratamento, o
+armazenamento dos ruídos, o controle de conteúdos.
+b) A fonte de comunicação, o processo decisório, a mensagem, o canal, o receptor, o
+armazenamento, o feedback.
+c) A fonte de comunicação, a codificação, a mensagem, o canal, a decodificação, o
+receptor, o feedback.
+d) O emissor, a codificação, a seleção, o canal, a decodificação, o receptor, o
+armazenamento.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IF-SC – IF-SC – Assistente em Administração - 2019)
+A todo momento, seja no âmbito laboral, acadêmico, social ou em família, temos
+que conviver e lidar com outras pessoas. A maioria de nossas ações para com os
+outros e vice-versa são atos comunicação, sejam verbais ou não. Segundo
+Chiavenato a comunicação é o processo de transmitir a informação e compreensão
+de uma pessoa para outra. Se não houver esta compreensão, não ocorre a
+comunicação. Se uma pessoa transmitir uma mensagem e esta não for
+compreendida pela outra pessoa, a comunicação não se efetivou. Com relação a
+comunicação, marque (V) para as afirmativas verdadeiras e (F), para as falsas.
+( ) O Processo de Comunicação funciona como um sistema aberto em que ocorre
+certa quantidade de ruido. Este ruido seria uma perturbação indesejável que não
+tende a deturpar, distorcer e alterar de maneira imprevisível a mensagem
+transmitida.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IF-SC – IF-SC – Assistente em Administração - 2019)
+(...)
+( ) O transmissor é o equipamento situado entre o canal e o destino, que decodifica
+a mensagem para os destinos
+( ) A comunicação é feita por um processo composto de 5 (cinco) elementos:
+emissor, transmissor, canal, receptor e destinatário.
+( ) Entende-se por ruído de comunicação qualquer fonte de erro, distúrbio ou
+deformação da fidelidade da comunicação de uma mensagem, seja sonora, visual ou
+escrita.
+( ) O receptor opera as mensagens emitidas pela fonte no sentido de codificá-las,
+isto é transformado-as em formas adequadas ao canal.
+( ) No processo de comunicação o destinatário é a pessoa, coisa ou processo para
+qual a mensagem é enviada.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IF-SC – IF-SC – Assistente em Administração - 2019)
+(...)
+Assinale a alternativa que contém a sequência CORRETA de cima para baixo.
+a) V, F, V, F, F, V
+b) F, V, V, F, V, F
+c) F, V, F, V, V, F
+d) F, V, V, V, F, V
+e) F, F, V, V, F, V
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IESES – IF-SC – Assistente – 2014 - ADAPTADA)
+A comunicação é feita por um processo composto de cinco elementos. Baseado nessa
+afirmação, assinale “V” para as afirmativas verdadeiras e “F para as afirmativas falsas:
+( ) Emissor é a pessoa, coisa ou processo que emite a mensagem para alguém.
+( ) Transmissor ou codificador é o equipamento situado entre o canal e o destino, isto é,
+que decodifica a mensagem para o destino.
+( ) Receptor ou decodificador é o equipamento que liga a fonte ao canal, isto é, que
+codifica a mensagem emitida pela fonte para torná-la adequada ao canal.
+( ) Destino é a pessoa, coisa ou processo para o qual a mensagem é enviada.
+A alternativa correta é:
+a) V, F, F, V.
+b) V, V, V, V.
+c) V, F, F, F.
+d) F, V, V, F.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Comunicação Eficiente e Comunicação Eficaz
+
+                           Comunicação Eficiente                                     Comunicação Eficaz
+                               O emissor fala bem.                           A mensagem é clara, objetiva e unívoca.
+                          O transmissor funciona bem.                        O significado é consoante e consistente.
+                             O canal não tem ruído.                       O destinatário compreende a mensagem.
+                        O canal é o meio mais apropriado.                  A comunicação é totalmente completada.
+
+                            O receptor funciona bem.                    A mensagem torna-se comum a ambas as partes.
+
+
+                                                                         O destinatário fornece retroação (feedback) ao
+                            O destinatário ouve bem.                        emissor, indicando que compreendeu
+                                                                                  perfeitamente a mensagem.
+
+                  Não há ruídos ou interferências internas ou        O significado da mensagem é o mesmo para o
+                                     externas.                                    emissor e para o destinatário.
+                O relacionamento entre emissor e destinatário é           A mensagem transmitida produz alguma
+                                    bom.                                              consequência.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (IF-MS – IF-MS – Administrator - 2019)
+A comunicação organizacional constitui o processo pelo qual a informação se
+movimenta e é intercambiada entre as pessoas dentro de uma organização. Nesse
+sentido, o processo de comunicação deve ser eficiente e eficaz. Assinale a
+alternativa que corresponde a um processo de comunicação eficiente.
+a) A mensagem torna-se comum a ambas as partes.
+b) O canal utilizado não apresenta ruídos.
+c) O destinatário fornece retroação ao emissor, indicando que compreendeu
+perfeitamente a mensagem enviada.
+d) O significado da mensagem é o mesmo para o emissor e para o destinatário.
+e) A mensagem transmitida produz alguma consequência.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Barreiras à Comunicação
+Robbins                                  O emissor manipula a informação, para que ela seja vista de maneira mais
+                          Filtragem
+                                                               favorável pelo destinatário
+
+                   Percepção Seletiva    O destinatário vê e escuta “seletivamente”, interpretando a mensagem de
+                                                          acordo com suas características pessoais
+                        Sobrecarga de      Existe um volume muito grande de informações, fazendo com que o
+                         Informação         destinatário não seja capaz de processar todas essas informações
+
+                          Emoções         Os estados emocionais (felicidade, tristeza, sofrimento, alegria, etc.) do
+                                                 indivíduo influenciam a forma ele interpreta a mensagem.
+                         Linguagem /       A linguagem utilizada pelo indivíduo é influenciada por aspectos como:
+        Robbins           Semântica                          idade, cultura e grau de educação
+                           Medo da
+                        Comunicação                 Decorre do medo que a pessoa sente de se comunicar
+                         (Ansiedade)
+                        Diferenças de
+                            Gênero          Homens e mulheres utilizam a comunicação de formas diferentes.
+                        Comunicação
+                        “politicamente   As pessoas “modificam” o seu vocabulário para se “ajustar” ao movimento
+                           correta”                           do “politicamente correto”,
+
+                           Silêncio      Utilização do silêncio (ausência de palavras) para evitar conflitos, e isso
+Prof. Stefan Fantini                                             prejudica a comunicação,
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Barreiras à Comunicação
+Chiavenato
+
+                Barreiras Pessoais       Decorrem das limitações, emoções, valores e crenças de cada
+                                                                  indivíduos
+
+                 Barreiras Fisícas    São as interferências que acontecem no ambiente em que o processo
+  Chiavenato
+                                                             de comunicação ocorre
+
+               Barreiras Semânticas      Tratam-se das barreiras decorrentes do símbolos pelos quais a
+                                                           comunicação é realizada
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Barreiras à Comunicação
+Macedo
+
+              Barreiras no Emissor     Timidez; medo; dificuldades de se expressar; ausência de carisma;
+                                                   escolha inadequada do destinatário, etc.
+
+              Barreiras no Receptor     Preocupação; preconceitos; falta de interesse; distração; pressa;
+                                                 impaciência; comportamento defensivo, etc.
+  Macedo
+              Barreiras no Emissor e     Hostilidade; intenções ocultas; estado emocional; sentimentos;
+                   no Receptor                    relacionamento entre emissor e receptor; etc.
+
+              Barreiras no Ambiente          Ruídos externos; interrupções; inadequação do canal
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Barreiras à Comunicação
+Outras
+
+                 Sistema Cognitivo -       O significado da mensagem enviada pelo emissor é diferente do
+                     Dissonância                          significado percebido pelo receptor
+
+
+                        Omissão         Ocorre quando elementos importantes da mensagem são suprimidos,
+    Outras
+                                                afetando substancialmente o conteúdo da comincação
+
+
+                        Distorção      Ocorre quando a mensagem sofre algum tipo de modificação que altera o
+                                                              seu conteúdo original
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Barreiras à Comunicação
+                                                                       Filtragem
+                                                                 Percepção Seletiva
+
+Resumo                                                        Sobrecarga de Informação
+                                                                       Emoções
+                                   Robbins                     Linguagem / Semântica
+                                                        Medo da Comunicação (Ansiedade)
+                                                                Diferenças de Gênero
+                                                        Comunicação “politicamente correta”
+                                                                       Silêncio
+                                                                 Barreiras Pessoais
+
+                    Barreiras à   Chiavenato                      Barreiras Fisícas
+                   comunicação                                  Barreiras Semânticas
+                                                                Barreiras no Emissor
+                                                                Barreiras no Receptor
+                                   Macedo
+                                                        Barreiras no Emissor e no Receptor
+                                                               Barreiras no Ambiente
+                                                          Sistema Cognitivo - Dissonância
+
+Prof. Stefan Fantini                Outras                             Omissão
+ @prof.stefan.fantini                                                  Distorção
+                                  
+
+
+---
+
+                        (FUNDATEC – Prefeitura de Gramado – Auxiliar - 2019)
+Todas as organizações necessitam da comunicação. É através dela que os membros
+da empresa se comunicam entre si e com a sociedade. A comunicação
+organizacional pode ser interna ou externa. Internamente, ela busca transmitir aos
+funcionários informações sobre a própria organização, maximizando a integração no
+nível interno. Externamente, ela busca consolidar e ampliar sua imagem perante os
+públicos de interesse. Entretanto, o papel de informar nem sempre ocorre de
+maneira efetiva, já que existem as barreiras à comunicação. Quando o emissor
+manipula a informação, buscando fazer com o que o receptor a veja de forma mais
+favorável, no sentido de evitar conflitos, está ocorrendo a barreira de comunicação
+conhecida por:
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FUNDATEC – Prefeitura de Gramado – Auxiliar - 2019)
+(...)
+a) Filtragem.
+b) Percepção seletiva.
+c) Decodificação interpretativa.
+d) Sobrecarga de informação.
+e) Erro de semântica proposital.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFMT – UFMT – Assistente em Administração - 2016)
+A comunicação tem quatro funções básicas dentro de uma organização: controle,
+motivação, expressão emocional e informação, porém diversas barreiras podem
+distorcer a comunicação eficaz. Marque a alternativa que apresenta uma barreira à
+comunicação eficaz.
+a) Redundância
+b) Percepção seletiva
+c) Sinergia
+d) Homeostasia
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TRT 3a Região – Analista Judiciário - 2015)
+Dificilmente o processo de comunicação ocorre sem problemas. Entre a mensagem
+“tal como é enviada” e a mensagem “tal como é recebida”, existem barreiras que
+fazem com que a mensagem enviada e a recebida sejam diferentes entre si. O
+sistema cognitivo é considerado uma barreira à comunicação. São elementos
+cognitivos:
+a) omissão e sobrecarga.
+b) consonância e dissonância.
+c) transmissor e receptor.
+d) codificador e decodificador.
+e) ruído e falsa percepção.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Meios (Canais) de Comunicação
+                        Vantagens dos Canais Pobres                                  Vantagens dos Canais Ricos
+                                                                           Permite captar um maior número de sinais de
+                             Gasta “menos tempo”.
+                                                                                           informação.
+                     Atinge um maior número de pessoas.                                    É mais “pessoal”.
+
+                     Pode ser planejada com antecedência.                       Permite um “feedback instantâneo”.
+
+                           A mensagem fica registrada.                                 É uma “via de mão dupla”.
+
+                        A mensagem pode ser armazenada.                  É possível obter uma resposta rápida do receptor.
+
+                                                                         Possibilita uma melhor discussão, compreensão e
+                Pode ser replicada e redistribuída com facilidade          percepção das informações que estão sendo
+                                                                                           transmitidas.
+
+                          São mais rápidos e mais fáceis.               Diminuem a ambiguidade (a “dupla interpretação”).
+
+                                                                            Indicados para comunicações importantes,
+                    Indicados para comunicações rotineiras.
+                                                                                     complexas, e ambíguas.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+Meios (Canais) de Comunicação
+               “Riqueza” do Canal        Exemplo de Canal                “Conteúdo” da Mensagem
+
+                                                 Conversa
+                Canal                          “cara a cara”                            Mensagem
+                Rico                                                                    Complexa
+
+                                                Telefone
+
+
+                                                 E-mail
+
+
+                                        Memorandos, cartas
+
+
+                Canal               Relatórios, boletins, panfletos                     Mensagem
+                Pobre                                                                   Simples
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (FCC – TJ-AP – Analista Judiciário - 2014)
+O meio mais rico de comunicação é o face a face, caracterizado pela riqueza das
+expressões adicionais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Comunicação
+Verbal/Oral x Escrita x Não-Verbal
+
+                                                    Trata-se da comunicação que é realizada através da
+                        Verbal (Oral)
+                                                                 oratória (isto é, da “fala”).
+
+   Tipos de                                         Trata-se da comunicação que é realizada através da
+                          Escrita
+ Comunicação                                                  linguagem escrita ou simbólica.
+
+
+                                                    Trata-se da comunicação que é realizada através da
+                        Não Verbal                 linguagem corporal ou das “ações” do indivíduo que
+                                                      acabam transmitindo algum tipo de comunicação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (IF-RS – IF-RS – Auxiliar – 2016 - ADAPTADA)
+Para entendermos melhor os ruídos da comunicação, é importante conhecermos a
+comunicação verbal e a comunicação não verbal. Sobre comunicação verbal e não
+verbal, assinale a alternativa em que todas as afirmativas estão CORRETAS:
+I. Uma conversa por telefone é considerada uma forma de comunicação verbal.
+II. A mímica é uma forma de comunicação não verbal.
+III. Um ato como coçar a cabeça não pode ser considerado uma forma de
+comunicação nem verbal nem não verbal.
+a) Apenas II e IV.
+b) Apenas I e III.
+c) Apenas I e II.
+d) I, II, III.
+e) Apenas I.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Comunicação
+Formal x Informal
+
+                   Comunicação Formal
+                -Mensagens relacionadas ao trabalho.
+                     -Segue a rede de autoridade e
+                              hierarquia.
+                                                                       Comunicação Informal
+              -Utiliza canais formais determinados pela
+                             organização.                      -Mensagens relacionadas às necessidades de
+                                                                        relacionamento interpessoal.
+                      Exemplos: memorando, e-mail
+                              corporativo.                                -Flui em qualquer direção.
+                                                                -Utiliza canais espotâneos de comunicação.
+                                                                        Exemplo: conversa no corredor.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Boatos (Redes de Rumores)
+Características
+
+                                    Não é controlada pela direção da empresa
+
+
+                            É tida pela maioria dos funcionários como mais confiável e
+Características da Rede
+                          fidedigna do que os comunicados formais vindos da cúpula da
+     de Rumores
+                                                    organização
+
+
+                          É amplamente utilizada para servir aos interesses pessoais dos
+                                                  que a integram.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Boatos (Redes de Rumores)
+Sugestões para mitigar as consequências negativas dos rumores
+
+
+                                                    Fornecer informações
+
+                                            Explicar decisões e comportamento
+
+                                             Abster-se de atingir o mensageiro
+ Sugestões para mitigar as
+ consequências negativas                  Manter canais de comunicação abertos
+   dos rumores (boatos).
+                                        Enfatizar as vantagens e as desvantagens
+
+
+                                      Discutir abertamente as piores possibilidades
+
+
+                             Anunciar um cronograma para a tomada de decisões importantes
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+                        (CONSULPLAN – HOB – Agente de Administração - 2015)
+Rumores e fofocas são elementos bastante comuns nas organizações. Em épocas de
+crise, então, essas práticas tornam-se ainda mais utilizadas pelos apreensivos
+funcionários. Em decorrência desse clima de angústia, os rumores são criados e se
+espalham a uma velocidade impressionante. Para reduzir as consequências
+negativas dos rumores, as empresas devem adotar os seguintes procedimentos,
+EXCETO:
+a) Fornecer informações.
+b) Abster-se de atingir o mensageiro.
+c) Explicar decisões e comportamentos.
+d) Manter canais de comunicação unilateral.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TRT 13a Região – Analista Judiciário - 2014)
+Nas empresas, além do sistema formal de comunicação, existe um sistema informal
+denominado rede de rumores. Os rumores tendem a emergir em reação a situações
+importantes para as pessoas, nas quais há ambiguidade e sob condições que causam
+a) confusão.
+b) agonia.
+c) torpor.
+d) surpresa.
+e) ansiedade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Fluxos de Direção da Comunicação
+                                      Horizontal
+
+                                       Direção
+
+                                       Gerência
+
+                                                             Vertical
+                                      Supervisão
+
+                                  Nível Operacional
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Fluxos de Direção da Comunicação
+
+                          Vertical:                  Ocorre entre diferentes níveis hierárquicos. Ocorre de
+                        Descendente                                    “cima para baixo”.
+
+
+                           Vertical:                 Ocorre entre diferentes níveis hierárquicos. Ocorre de
+                         Ascendente                                    “baixo para cima”.
+    Fluxos de
+   Direção da
+  Comunicação
+                          Horizontal                    Ocorre entre o mesmo nível hierárquico. Ocorre
+                          (Lateral)                                     “lateralmente”.
+
+
+                                                     Ocorre em todas as direções ao mesmo tempo. Ou
+                        Multidirecional              seja, ela flui, ao mesmo tempo, de forma lateral e de
+                                                                         forma horizontal.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (FGV – MPE-AL – Técnico do Ministério Público - 2018)
+O processo de comunicação pode fluir em diferentes direções, sendo sua dimensão
+definida de acordo com o contexto.
+Em uma situação na qual os relatórios de desempenho dos funcionários são
+enviados para análise dos altos executivos da organização, está ocorrendo uma
+comunicação
+a) horizontal.
+b) descendente.
+c) ascendente.
+d) diagonal.
+e) cíclica.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (UFG – Câmara de Goiânia-GO – Assessor - 2018)
+No contexto organizacional, a comunicação que ocorre entre unidades de trabalho
+do mesmo nível é chamada de
+a) comunicação ascendente.
+b) comunicação externa.
+c) comunicação descendente.
+d) comunicação lateral.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Redes de Comunicação
+Formais x Informais
+
+                                                      são aquelas criadas, definidas, padronizadas e
+                        Formais
+                                                            administradas pela organização.
+
+      Redes
+
+                                                são aquelas que surgem espontaneamente, e derivam da
+                        Informais
+                                                 necessidade de relação interpessoal dos funcionários.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Redes de Comunicação
+Centralizadas x Descentralizadas
+
+                                                       são as redes de comunicação que são centralizadas no
+                         Centralizadas
+                                                                              gestor.
+
+      Redes
+
+                                                       são as redes que conferem uma maior liberdade aos
+                        Descentralizadas
+                                                      membros, para que eles possam se comunicar entre si.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Redes Informais de Comunicação
+Chiavenato
+
+                        Passeando pela                 Consiste em conversar com os funcionários enquanto
+                         organização                    andam (passeiam) pelos setores da organização.
+ Redes Informais
+  (Chiavenato)
+                                                        a comunicação flui de pessoa a pessoa, interligando
+                        Cachos de Uva                 funcionários em todas as direções e em todos os níveis
+                                                                         organizacionais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Redes Formais de Comunicação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Redes Formais de Comunicação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Redes Formais de Comunicação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+                        (FGV – COMPESA – Analista de Gestão - 2018)
+A comunicação organizacional se utiliza de redes para disseminar informações,
+podendo variar entre modelos formais e informais. Relacione as características
+relativas às redes de comunicação formais, listadas a seguir, às suas classificações.
+1 É estruturada de acordo com a hierarquia da organização.
+2 As informações perdem qualidade ao serem retransmitidas.
+3 A comunicação é centralizada em torno de uma pessoa.
+( ) Tipo cadeia
+( ) Tipo Círculo
+( ) Tipo Roda
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – COMPESA – Analista de Gestão - 2018)
+(...)
+Assinale a opção que apresenta a relação correta, segundo a ordem apresentada.
+a) 1 – 2 – 3.
+b) 1 – 3 – 2.
+c) 2 – 3 – 1.
+d) 2 – 1 – 3.
+e) 3 – 2 – 1.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IBEG – Prefeitura de Mendes-RJ – 2016 - ADAPTADA)
+O sistema formal não é o único sistema de comunicação dentro de um grupo ou
+organização. Existem também, a rede de rumores. Mesmo sendo informal é
+importante fonte de informação. Uma pesquisa recente revelou que 75% dos
+funcionários sabem primeiro das notícias através da rede de rumores.
+Com relação a rede de rumores, pode-se afirmar que:
+I - A rede de rumores não é controlada pela direção da empresa.
+II – É tida pela maioria dos funcionários como a mais confiável e fidedigna do que a
+comunicação formal.
+III – É largamente utilizada para servir aos interesses pessoais dos que a integram.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IBEG – Prefeitura de Mendes-RJ – 2016 - ADAPTADA)
+(...)
+a) As alternativas II e III estão corretas, apenas.
+b) As alternativas I, II e III estão corretas.
+c) As alternativas I e II estão corretas, apenas.
+d) A alternativa I está correta, apenas.
+e) As alternativas I e III estão corretas, apenas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Comunicação Organizacional Integrada
+
+
+                        Comunicação                   Busca melhorar a imagem da organização perante a
+                        Institucional                                    sociedade
+
+
+                                                 Vincula todas as funções administrativas, com o objetivo de
+                         Comunicação
+                                                    organizar o fluxo de informações das ações de planejar,
+  Comunicação           Administrativa
+                                                                 organizar, dirigir e controlar.
+  Organizacional
+    Integrada
+                                                 Busca viabilizar toda a interação entre a organização e seus
+                        Comunicação
+                                                colaboradores., no intuito de compatibilizar os interesses de
+                          Interna
+                                                        gestores e colaboradores por meio do diálogo.
+
+
+                         Comunicação               Objetiva vender ou melhorar a imagem dos produtos ou
+                        Mercadológica                              serviços da organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Comunicação Organizacional Integrada
+
+                           Comunicação                      Comunicação
+                           Institucional                   Administrativa
+
+                                           Comunicação
+                                             Integrada
+
+                                                            Comunicação
+                        Comunicação Interna
+                                                           Mercadológica
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+                        (UFG – SANEAGO-GO – Administrador - 2018)
+O princípio de comunicação organizacional integrada pressupõe convergência
+sinérgica em ramos da comunicação, como:
+a) comunicação administrativa e comunicação pessoal.
+b) comunicação institucional e comunicação mercadológica.
+c) comunicação interna e comunicação internacional.
+d) comunicação empresarial e comunicação técnica.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – FIOCRUZ – Assessor)
+O conceito de comunicação integrada, elaborado por Margarida Kunsch, trata das
+formas de comunicação que permitem a uma organização se relacionar com os
+diferentes públicos de seu interesse e também com a sociedade em geral. Isso
+implica na convergência de diversas áreas, como:
+a) comunicação corporativa, comunicação organizacional, comunicação empresarial
+e comunicação institucional.
+b) comunicação interna, comunicação mercadológica, comunicação institucional e
+comunicação administrativa.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – FIOCRUZ – Assessor)
+(...)
+c) comunicação organizacional, comunicação interna, comunicação empresarial e
+comunicação institucional.
+d) comunicação corporativa, comunicação mercadológica, comunicação empresarial
+e comunicação institucional.
+e) comunicação administrativa, comunicação organizacional, comunicação
+institucional e comunicação corporativa.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Endomarketing
+
+O endomarketing consiste em uma espécie de “marketing interno” direcionado aos próprios
+funcionários da organização. Ele é realizado através da comunicação interna.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFF – UFF – Administrador)
+No contexto das práticas de Recursos Humanos, de acordo com Bekin, a atividade
+que é considerada a espinha dorsal do endomarketing denomina-se:
+a) treinamento sob a ótica de educação e desenvolvimento;
+b) motivação, valorização, comprometimento e recompensa;
+c) recrutamento e seleção;
+d) comunicação interna;
+e) pesquisa de mercado de clientes internos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (VUNESP – SPTRANS – Analista)
+O termo endomarketing de Bekin está melhor relacionado às atividades de
+a) QVT.
+b) marketing interno.
+c) relações públicas com governos.
+c) marketing voltadas às causas sociais.
+e) promoção de vendas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Comunicação Pública
+
+                                                               Comunicação da Sociedade Civil
+                            Comunicação Estatal
+                                                                        Organizada
+
+
+                                                  Comunicação
+                                                    Pública
+
+                        Comunicação institucional dos
+                                                                     Comunicação Política
+                            Órgãos Públicos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (UFMG – UFMG – Jornalista – 2018 - ADAPTADA)
+A comunicação política, comunicação estatal e comunicação da sociedade civil, que
+atuam na esfera pública em defesa da coletividade, não podem ser entendidas como
+comunicação pública, por ser tal comunicação tida como sinônimo de comunicação
+governamental.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+---
+
+---

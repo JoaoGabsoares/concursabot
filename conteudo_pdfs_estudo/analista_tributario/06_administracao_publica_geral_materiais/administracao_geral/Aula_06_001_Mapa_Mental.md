@@ -1,0 +1,283 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: DIREÇÃO E LIDERANÇA
+---
+
+# DIREÇÃO E LIDERANÇA
+
+DIREÇÃO E LIDERANÇA
+
+                                                         DIREÇÃO:
+
+
+❑ É CONDUZIR OS TRABALHOS PARA QUE SEJA COLOCADO EM PRÁTICA TUDO AQUILO QUE FOI ORGANIZADO E PLANEJADO.
+
+❑ USAR A INFLUÊNCIA PARA ORIENTAR E MOTIVAR AS PESSOAS.
+
+
+❑ ESTÁ RELACIONADA À LIDERANÇA, COORDENAÇÃO, COMUNICAÇÃO, MOTIVAÇÃO, RELACIONAMENTO E INTERAÇÃO, PARA QUE AS
+    PESSOAS DESEMPENHEM AS ATIVIDADES NECESSÁRIAS À CONCRETIZAÇÃO DOS OBJETIVOS ORGANIZACIONAIS PROPOSTOS.
+
+                                                                                                             ADMINISTRAÇÃO GERAL
+                                                                                                             ESTRATÉGIA CONCURSOS
+                                              
+
+
+---
+
+                                              DIREÇÃO E LIDERANÇA
+                                                 CHEFIA X DIREÇÃO:
+
+          CHEFE / GERENTE / ADMINISTRADOR                                                                 LÍDER
+                      Administra                                                                          Inova
+                     É uma cópia                                                                       É o original
+                       Mantém                                                                          Desenvolve
+                   Processo formal                                                                  Processo informal
+             Focaliza o sistema e estrutura                                                        Focaliza as pessoas
+Baseia-se nas normas, nas regras e na autoridade formal                                          Baseia-se na conﬁança
+      Exerce o controle sobre as pessoas                                             Inspira conﬁança, incentiva e motiva as pessoas
+  Assegura o controle e a disciplina dos subordinados                                      Estimula a criatividade das pessoas
+       Estabelece limites para os subordinados                                       Potencializa as competências de cada pessoa
+ Atua com base na estrutura hierárquica organizacional                                Atua de acordo com as situações apresentadas
+                 Visão de curto prazo                                                  Perspectiva de longo prazo / Visão de futuro
+               Pergunta como e quando                                                          Pergunta o quê e o por quê
+     Olhos na base da organização (visão limitada)                                                 Olhos no horizonte
+                         Imita                                                                          É original
+                  Aceita o status quo                                                             Desaﬁa o status quo
+               É o clássico bom soldado                                                           É sua própria pessoa
+             Faz certo as coisas (eﬁciente)                                                    Faz as coisas certas (eﬁcaz)
+
+                                                                                                                                       ADMINISTRAÇÃO GERAL
+                                                                                                                                       ESTRATÉGIA CONCURSOS
+                                                
+
+
+---
+
+DIREÇÃO E LIDERANÇA
+
+     TIPOS DE PODER:
+
+                                       ADMINISTRAÇÃO GERAL
+                                       ESTRATÉGIA CONCURSOS
+  
+
+
+---
+
+DIREÇÃO E LIDERANÇA
+
+ TEORIAS DA LIDERANÇA:
+
+                                        ADMINISTRAÇÃO GERAL
+                                        ESTRATÉGIA CONCURSOS
+   
+
+
+---
+
+   DIREÇÃO E LIDERANÇA
+TEORIA DE TRAÇOS DE PERSONALIDADE:
+
+                                            ADMINISTRAÇÃO GERAL
+                                            ESTRATÉGIA CONCURSOS
+       
+
+
+---
+
+                                               DIREÇÃO E LIDERANÇA
+TEORIA DOS ESTILOS DE LIDERANÇA (COMPORTAMENTAIS): A LIDERANÇA DECORRE DO COMPORTAMENTO DOS LÍDERES E, PORTANTO,
+                                       ESSES COMPORTAMENTOS PODEM SER APRENDIDOS.
+
+                             ESTILOS DE LIDERANÇA (“OS TRÊS DE WHITE E LIPPITT”):
+  ❑   LIDERANÇA AUTOCRÁTICA;
+  ❑   LIDERANÇA DEMOCRÁTICA;
+  ❑   LIDERANÇA LIBERAL (OU LAISSEZ-FAIRE).
+
+
+                                          ESTUDOS DA UNIVERSIDADE DE OHIO:
+  ❑   ESTRUTURA DE INICIAÇÃO (ESTRUTURA INICIAL);
+  ❑   CONSIDERAÇÃO.
+
+
+                       ESTUDOS DA UNIVERSIDADE DE MICHIGAN (TEORIA BIDIMENSIONAL):
+  ❑   LIDERANÇA ORIENTADA PARA A TAREFA/PRODUÇÃO;
+  ❑   LIDERANÇA ORIENTADA PARA AS PESSOAS/RELACIONAMENTOS.
+
+                                                                                                               ADMINISTRAÇÃO GERAL
+                                                                                                               ESTRATÉGIA CONCURSOS
+                                                    
+
+
+---
+
+                                                 DIREÇÃO E LIDERANÇA
+
+                                             TEORIA DOS ESTILOS DE LIDERANÇA
+
+
+                               OS 04 ESTILOS DE LIDERANÇA DE LIKERT (04 SISTEMAS GERENCIAIS):
+
+
+❑   AUTORITÁRIO-COERCITIVO;
+❑   AUTORITÁRIO-BENEVOLENTE;
+❑   CONSULTIVO;
+❑   PARTICIPATIVO.
+
+
+                                        TEORIA DO GRID GERENCIAL DE BLAKE E MOUTON:
+
+
+❑   LIDERANÇA “EMPOBRECIDA” / ENFRAQUECIDA / LÍDER-NEGLIGENTE (1.1);
+❑   LIDERANÇA “CLUBE DE CAMPO” / PLAYGROUND / LÍDER-PESSOA (1.9);
+❑   LIDERANÇA “MEIO-TERMO” / ORGANIZAÇÃO HUMANA / LÍDER- ORGANIZACIONAL (5.5);
+❑   LIDERANÇA DE TAREFAS / AUTORIDADE-OBEDIÊNCIA/SUBMISSÃO / LÍDER-TAREFA (9.1);
+❑   LIDERANÇA DE EQUIPES / LÍDER-EQUIPE (9.9).
+
+
+                                                                                                ADMINISTRAÇÃO GERAL
+                                                                                                ESTRATÉGIA CONCURSOS
+                                                    
+
+
+---
+
+                                           DIREÇÃO E LIDERANÇA
+                                      TEORIA DA CONTINGÊNCIA DE FIEDLER:
+
+❑   TEORIAS CONTINGENCIAIS DE LIDERANÇA (SITUACIONAIS): CONSIDERAM QUE PARA CADA TIPO DE SITUAÇÃO, EXISTIRÁ UM ESTILO DE
+    LIDERANÇA ADEQUADO.
+
+                                                                                                                           ADMINISTRAÇÃO GERAL
+                                                                                                                           ESTRATÉGIA CONCURSOS
+                                               
+
+
+---
+
+                           DIREÇÃO E LIDERANÇA
+                         TEORIA DO CAMINHO-META DE HOUSE:
+
+TEORIA DO RECURSO COGNITIVO DE
+           FIEDLER:
+
+
+                                                                 ADMINISTRAÇÃO GERAL
+                                                                 ESTRATÉGIA CONCURSOS
+                            
+
+
+---
+
+                                                         DIREÇÃO E LIDERANÇA
+
+❑   TEORIA SITUACIONAL DE HERSEY E BLANCHARD: O FOCO PRINCIPAL ESTÁ NOS LIDERADOS (E NÃO NOS LÍDERES). A ESCOLHA DO MELHOR ESTILO DE LIDERANÇA
+    DEPENDE DO NÍVEL DE MATURIDADE (OU NÍVEL DE PRONTIDÃO) DOS LIDERADOS.
+
+                                                                                                                                   ADMINISTRAÇÃO GERAL
+                                                                                                                                   ESTRATÉGIA CONCURSOS
+                                                             
+
+
+---
+
+                                                             DIREÇÃO E LIDERANÇA
+
+❑   TEORIA SITUACIONAL DE HERSEY E BLANCHARD: O FOCO PRINCIPAL ESTÁ NOS LIDERADOS (E NÃO NOS LÍDERES). A ESCOLHA DO MELHOR ESTILO DE LIDERANÇA DEPENDE DO
+    NÍVEL DE MATURIDADE (OU NÍVEL DE PRONTIDÃO) DOS LIDERADOS.
+
+                                                                                                            TEORIA 3D DE REDDIN
+
+                                                                                                                                           ADMINISTRAÇÃO GERAL
+                                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                                 
+
+
+---
+
+O CONTINUUM DA LIDERANÇA                                        DIREÇÃO E LIDERANÇA
+
+                                                                                      ADMINISTRAÇÃO GERAL
+                                                                                      ESTRATÉGIA CONCURSOS
+                           
+
+
+---
+
+                                                  DIREÇÃO E LIDERANÇA
+                           TEORIAS EMERGENTES DE LIDERANÇA (NOVAS TEORIAS DE LIDERANÇA)
+
+     ❑   LIDERANÇA TRANSACIONAL: O LÍDER ORIENTA OS SUBORDINADOS E OS MANTÉM MOTIVADOS ATRAVÉS DA TROCA (TRANSAÇÕES MÚTUAS). O
+         LÍDER CONDUZ OS SUBORDINADOS ATRAVÉS DO ESCLARECIMENTO DAS FUNÇÕES E DAS EXIGÊNCIAS DAS TAREFAS. O FOCO DO LÍDER ESTÁ NOS
+
+         OBJETIVOS.
+
+
+     ❑   LIDERANÇA TRANSFORMACIONAL: O LÍDER SE PREOCUPA COM AS NECESSIDADES DE SEUS LIDERADOS. ELE INSPIRA OS SEUS LIDERADOS A
+         TRANSCENDEREM OS SEUS PRÓPRIOS OBJETIVOS E INTERESSES.
+
+                       LÍDER TRANSACIONAL                                                            LÍDER TRANSFORMACIONAL
+
+   Recompensa contingente: Troca recompensa por esforço.                          Inﬂuência idealizada: Ganha o respeito e a conﬁança de seus
+    Promete recompensas em troca de bom desempenho.                                       subordinados. Oferece o sentido da missão.
+
+Exceção ativa: Monitora as ações e corrige os desvios assim que                  Motivação inspiracional: Comunica as suas altas expectativas e
+                   eles forem identiﬁcados.                                               utiliza símbolos para focalizar os esforços.
+
+Exceção passiva: Intervém para corrigir as ações apenas quando                 Estimulação intelectual: Promove a inteligência e a racionalidade
+         os padrões ou as metas não são alcançados.                                                   de seus liderados.
+
+      Laissez-faire: Evita tomar decisões. Abdica de suas                        Consideração individualizada: Orienta, aconselha e trata cada
+  responsabilidades. Decisões ﬁcam por conta dos liderados.                                 funcionário de forma individualizada.
+
+                                                                                                                                         ADMINISTRAÇÃO GERAL
+                                                                                                                                         ESTRATÉGIA CONCURSOS
+                                                        
+
+
+---
+
+                                                DIREÇÃO E LIDERANÇA
+                                      OUTRAS TEORIAS EMERGENTES DE LIDERANÇA
+
+❑   LIDERANÇA CARISMÁTICA: É BASEADA NO CARISMA DO LÍDER. OS LIDERADOS OBSERVAM OS COMPORTAMENTOS DO LÍDER E O ATRIBUEM CERTAS
+    CARACTERÍSTICAS EXTRAORDINÁRIAS E “HEROICAS”.
+
+
+❑   LIDERANÇA AUTÊNTICA: O LÍDER ATUA DE ACORDO COM SEUS PRÓPRIOS VALORES E CRENÇAS; ELE É FIEL A SEUS PRÓPRIOS IDEAIS. ELE
+    COMPARTILHA INFORMAÇÕES E AGE DE MANEIRA HONESTA E ABERTA COM SEUS SEGUIDORES. É PAUTADA NA CONFIANÇA E NA ÉTICA.
+
+❑   LIDERANÇA SERVIDORA: O LÍDER-SERVO FAZ TUDO QUE ESTÁ AO SEU ALCANCE PARA AJUDAR E APOIAR SEUS LIDERADOS. ELE REMOVE BARREIRAS E
+    FORNECE OS RECURSOS NECESSÁRIOS À REALIZAÇÃO DO TRABALHO E AO ALCANCE DAS METAS E OBJETIVOS ORGANIZACIONAIS.
+
+❑   LIDERANÇA VISIONÁRIA: UM LÍDER VISIONÁRIO CONSEGUE CRIAR E “VENDER” UMA VISÃO AOS SEUS LIDERADOS. ELE É CAPAZ DE FAZER COM QUE
+    OS MEMBROS DA ORGANIZAÇÃO “COMPREM” ESSA VISÃO, E SE ESFORCEM PARA FAZER COM QUE ESSA VISÃO (OBJETIVO GLOBAL “FINAL”) SEJA
+
+    ALCANÇADA.
+
+
+❑   TEORIA DE TROCA ENTRE LÍDERES E LIDERADOS (LMX): OS SUBORDINADOS QUE FAZEM PARTE DO “GRUPO DE DENTRO” TÊM A CONFIANÇA DO
+    LÍDER, RECEBEM TRATAMENTO DESPROPORCIONAL, E COSTUMAM RECEBER PRIVILÉGIOS ESPECIAIS.
+
+
+     Os integrantes do “grupo de fora” recebem menos atenção do líder, menos recompensas, menos privilégios, e
+                          costumam ter suas relações baseadas na autoridade e formalidade.
+
+                                                                                                                                  ADMINISTRAÇÃO GERAL
+                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                                     
+
+
+---

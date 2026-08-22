@@ -1,0 +1,475 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+TRANSPORTES & DISTRIBUIÇÃO
+BANCAS DIVERSAS - XII
+
+                                                Prof. Ricardo Campanario
+
+
+
+
+           https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FGV/DPE RS/Técnico/2023) A escolha do modal de transporte de carga pelo gestor deve ser feita levando-se em
+     consideração o tipo de carga, a disponibilidade, a capacitação, a frequência e a consistência do modal, a velocidade do
+     transporte no respectivo modal e os custos dos fretes unitários de cada modal. Com base nessas informações e com
+     atenção ao contexto brasileiro, é correto afirmar que a escolha pelo modal rodoviário é vantajosa:
+     a) nas curtas distâncias, abaixo de 300 km; quando o frete unitário é de menor valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final é necessária;
+     b) nas curtas distâncias, abaixo de 300 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária;
+     c) nas curtas distâncias, acima de 300 km; quando o frete unitário é de menor valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final é necessária;
+     d) nas longas distâncias, acima de 900 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária;
+     e) nas curtas distâncias, acima de 900 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Transporte Rodoviário
+       “Monopólio”, flexível e custos relativos elevados
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FGV/DPE RS/Técnico/2023) A escolha do modal de transporte de carga pelo gestor deve ser feita levando-se em
+     consideração o tipo de carga, a disponibilidade, a capacitação, a frequência e a consistência do modal, a velocidade do
+     transporte no respectivo modal e os custos dos fretes unitários de cada modal. Com base nessas informações e com
+     atenção ao contexto brasileiro, é correto afirmar que a escolha pelo modal rodoviário é vantajosa:
+     a) nas curtas distâncias, abaixo de 300 km; quando o frete unitário é de menor valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final é necessária;
+     b) nas curtas distâncias, abaixo de 300 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária;
+     c) nas curtas distâncias, acima de 300 km; quando o frete unitário é de menor valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final é necessária;
+     d) nas longas distâncias, acima de 900 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária;
+     e) nas curtas distâncias, acima de 900 km; quando o frete unitário é de elevado valor em relação aos demais modais e
+     quando a capilaridade para movimentar e entregar a carga até o destino final não é necessária.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FGV/DPE RS/Técnico/2023) No nível operacional do modal rodoviário, a gestão do transporte
+     envolve diariamente a execução da programação dos veículos, com o carregamento de caminhões e o
+     controle do tempo de viagem do percurso, bem como o acompanhamento das previsões de chegada
+     dos veículos nos respectivos destinos. Para o êxito dessa operação, devem ser observadas, entre outros
+     aspectos, as características da carga (tipo, peso, volume) e as características do percurso (distância,
+     condições das estradas, velocidade média do veículo, tempo, horários). Considerando essas
+     informações, suponha que um veículo de carga tenha sido despachado na origem às 6 horas da manhã
+     em ponto. A distância do percurso entre a origem e o destino é de 135 km e a velocidade média do
+     veículo no percurso é de 60 km/h. Para fins de acompanhamento e controle, o horário previsto de
+     chegada desse veículo no destino é às:
+     a) 2 horas e 15 minutos;
+     b) 2 horas e 25 minutos;
+     c) 6 horas e 25 minutos;
+     d) 8 horas e 15 minutos;
+     e) 8 horas e 25 minutos.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FGV/DPE RS/Técnico/2023) No nível operacional do modal rodoviário, a gestão do transporte
+     envolve diariamente a execução da programação dos veículos, com o carregamento de caminhões e o
+     controle do tempo de viagem do percurso, bem como o acompanhamento das previsões de chegada
+     dos veículos nos respectivos destinos. Para o êxito dessa operação, devem ser observadas, entre outros
+     aspectos, as características da carga (tipo, peso, volume) e as características do percurso (distância,
+     condições das estradas, velocidade média do veículo, tempo, horários). Considerando essas
+     informações, suponha que um veículo de carga tenha sido despachado na origem às 6 horas da manhã
+     em ponto. A distância do percurso entre a origem e o destino é de 135 km e a velocidade média do
+     veículo no percurso é de 60 km/h. Para fins de acompanhamento e controle, o horário previsto de
+     chegada desse veículo no destino é às:
+     a) 2 horas e 15 minutos;      Embora seja muito mais uma questão de raciocínio lógico do que de
+     b) 2 horas e 25 minutos;      Administração de Materiais, vamos à solução:
+     c) 6 horas e 25 minutos;      60km/h = 1km/min
+     d) 8 horas e 15 minutos;      135 km = 135 minutos logo, se o veículo saiu as 6h da manhã ele chegará ao seu
+     e) 8 horas e 25 minutos.      destino 135 minutos depois, ou 2h e 15 minutos após a saída, ou seja, as 8:15h.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FGV/DPE RS/Técnico/2023) A atividade de transporte está relacionada às diversas alternativas para movimentar
+     insumos, componentes e produtos variados, sendo essencial ao processo logístico. Um dos itens elementares do
+     transporte é o frete, que se apoia em algumas variáveis para ter seu valor calculado. Os dados listados a seguir referem-
+     se às informações necessárias para obter o valor final do frete de uma operação de transporte hipotética:
+      - Modal a ser utilizado no transporte da carga: rodoviário;
+      - Distância do percurso desde a origem até o destino: 600 km;
+      - Carga total a ser transportada: 100 unidades do produto X;
+      - Valor do frete unitário apresentado pelo transportador ao embarcador para a movimentação e entrega da carga do
+     ponto de origem até o destino: R$ 0,02/km por unidade.
+     Com base nessas informações, o valor final do frete dessa operação hipotética será de:
+     a) R$ 120,00;
+     b) R$ 1.200,00;
+     c) R$ 6.000,00;
+     d) R$ 12.000,00;
+     e) R$ 60.000,00.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FGV/DPE RS/Técnico/2023) A atividade de transporte está relacionada às diversas alternativas para movimentar
+     insumos, componentes e produtos variados, sendo essencial ao processo logístico. Um dos itens elementares do
+     transporte é o frete, que se apoia em algumas variáveis para ter seu valor calculado. Os dados listados a seguir referem-
+     se às informações necessárias para obter o valor final do frete de uma operação de transporte hipotética:
+      - Modal a ser utilizado no transporte da carga: rodoviário;
+      - Distância do percurso desde a origem até o destino: 600 km;
+      - Carga total a ser transportada: 100 unidades do produto X;
+      - Valor do frete unitário apresentado pelo transportador ao embarcador para a movimentação e entrega da carga do
+     ponto de origem até o destino: R$ 0,02/km por unidade.
+     Com base nessas informações, o valor final do frete dessa operação hipotética será de:
+     a) R$ 120,00;
+     b) R$ 1.200,00;                    Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+     c) R$ 6.000,00;
+     d) R$ 12.000,00;
+                                        Valor final do frete = distância x valor carga x quantidade
+     e) R$ 60.000,00.                   Valor carga = $0,02/km
+     GABARITO - B                       Distância = 600km
+                                            Quantidade = 100 unidades
+                                            Valor final do frete = 600 x $0,02 x 100
+                                            Valor final do frete = $1.200
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/PETROBRAS/Logística/2023) Em relação a conceitos de tecnologias,
+     logística 4.0, transformação digital e ERP, julgue o próximo item. O custo de transporte é o
+     mais importante de todos os custos logísticos, ele envolve os custos com as despesas com
+     fretes, todas as despesas relacionadas à movimentação de materiais fora da empresa,
+     depreciação dos veículos, pneus, combustíveis, custo de oportunidade dos veículos,
+     manutenção, seguros, impostos etc.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/PETROBRAS/Logística/2023) Em relação a conceitos de tecnologias,
+     logística 4.0, transformação digital e ERP, julgue o próximo item. O custo de transporte é o
+     mais importante de todos os custos logísticos, ele envolve os custos com as despesas com
+     fretes, todas as despesas relacionadas à movimentação de materiais fora da empresa,
+     depreciação dos veículos, pneus, combustíveis, custo de oportunidade dos veículos,
+     manutenção, seguros, impostos etc.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+       É o entendimento majoritário da doutrina. Embora haja algumas divergências em
+       relação ao que se refere exatamente o processo (e os custos) logísticos, de forma geral
+       os custos de transporte são considerados os mais importantes justamente por
+       envolverem fretes, movimentação de materiais fora da empresa, depreciação dos
+       veículos, pneus, combustíveis, custo de oportunidade dos veículos, manutenção,
+       seguros, impostos, etc.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/PETROBRAS/Logística/2023) Em relação à gestão integrada de operações
+     e de logística de suprimento, julgue o item que se segue. Devido ao aumento do número
+     de pontos de venda de combustíveis, os sistemas especiais de roteirização são
+     desenvolvidos para que o trajeto das entregas seja feito de forma mais rápida e
+     econômica.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Roteirização e TMS
+       A opção pelo melhor trajeto
+
+     ❑ A ferramenta de roteirização é responsável por fornecer à organização dados para a escolha do
+       melhor trajeto (origem/destino) para entrega do produto. É claramente uma forma de buscar a
+       redução de custo ao longo da cadeia logística.
+
+     ❑ Existem vários modelos de softwares de roteadores disponíveis no mercado para executar esse
+       trabalho de otimização. São instrumentos muito úteis no estudo de localização de depósitos, no
+       controle de custos operacionais e no planejamento de ampliação ou renovação da frota.
+
+     ❑ Seu maior objetivo, porém, é a definição de itinerários capazes de reduzir ao mínimo o tempo
+       total do percurso da frota e o número de veículos envolvidos na operação.
+
+     ❑ Um sistema costumeiramente cobrado em provas e que você precisa conhecer é o TMS
+       (Transportation Management System ou Sistema de Gerenciamento de Transporte).
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/PETROBRAS/Logística/2023) Em relação à gestão integrada de operações
+     e de logística de suprimento, julgue o item que se segue. Devido ao aumento do número
+     de pontos de venda de combustíveis, os sistemas especiais de roteirização são
+     desenvolvidos para que o trajeto das entregas seja feito de forma mais rápida e
+     econômica.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+      A roteirização é uma das principais ferramentas logísticas para a otimização
+      dos trajetos que devem ser percorridos ao longo do processo de
+      distribuição. O emprego eficiente de ferramentas de roteirização traz
+      imensos ganhos ao distribuidor e seus clientes, diminuindo tempo de
+      entrega, consumo de combustível e custos em geral.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/PETROBRAS/Logística/2023) Acerca de operações logísticas, julgue o item
+     a seguir. Entrega porta a porta, rapidez e versatilidade são características do transporte
+     rodoviário de cargas em curtas distâncias.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Transporte Rodoviário
+       “Monopólio”, flexível e custos relativos elevados
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/PETROBRAS/Logística/2023) Acerca de operações logísticas, julgue o item
+     a seguir. Entrega porta a porta, rapidez e versatilidade são características do transporte
+     rodoviário de cargas em curtas distâncias.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Logística/2023) No que se refere a logística, armazenagem e
+     movimentação de cargas, julgue o item a seguir. A competitividade dos preços dos bens e
+     serviços disponibilizados no mercado independe da maneira em que os sistemas de
+     transportes são viabilizados.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Logística/2023) No que se refere a logística, armazenagem e
+     movimentação de cargas, julgue o item a seguir. A competitividade dos preços dos bens e
+     serviços disponibilizados no mercado independe da maneira em que os sistemas de
+     transportes são viabilizados.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+     Ao contrário, a escolha dos modais de transportes empregados no processo de distribuição é crítica para a definição de preços e
+     respectiva competitividade dos bens/produtos no mercado. Modais de transportes mais caros como o aéreo, quando utilizados,
+     requerem alta geração de valor ao longo do transporte (produto sai de um lugar a um preço e chega a outro lugar valendo muito mais)
+     para que possam ser empregados, permitindo cobranças desse custo do cliente que vai adquirir o bem, viabilizando toda a operação.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/Logística/2023) Acerca de operações logísticas, julgue o item
+     a seguir. O retroporto é a área adjacente ao porto, situada em local formado por
+     fundeadouro de espera e canal de acesso.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/Logística/2023) Acerca de operações logísticas, julgue o item
+     a seguir. O retroporto é a área adjacente ao porto, situada em local formado por
+     fundeadouro de espera e canal de acesso.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+       O retroporto é a designação para uma área terrestre preferencialmente localizada próxima às estruturas de atracação, onde
+       ficam os depósitos de cargas a serem embarcadas ou desembarcadas, armazéns, frigoríficos, prédios administrativos, oficinas,
+       pátios a céu aberto para caminhões, contêineres, etc. É um verdadeiro terminal auxiliar do porto. Dessa forma, ao contrário do
+       que aponta o enunciado, não é necessariamente um local formado por fundeadouro de espera (local de atracamento de
+       navios) e canal de acesso, características do próprio porto e não do retroporto.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) No que diz respeito às operações logísticas e
+     suas características, julgue o item subsequente. A implantação de um centro de
+     distribuição regional inaltera o custo total logístico em comparação com o custo das
+     entregas diretas da indústria aos clientes.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) No que diz respeito às operações logísticas e
+     suas características, julgue o item subsequente. A implantação de um centro de
+     distribuição regional inaltera o custo total logístico em comparação com o custo das
+     entregas diretas da indústria aos clientes.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (CEBRASPE/PETROBRAS/Logística/2023) No que diz respeito às operações logísticas e
+     suas características, julgue o item subsequente. O modo dutoviário representa alternativa
+     de transporte pouco poluente e imune a congestionamentos, mas os custos de transporte
+     são bem mais altos que os do transporte rodoviário de cargas.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Transporte Dutoviário
+       Elevado custo inicial, baixo custo operacional e confiável!
+
+     ❑ O transporte por meio de dutos ou tubos, só é indicado para certos materiais como,
+       por exemplo, o petróleo e o gás.
+     ❑ Principais características do transporte dutoviário:
+
+       •      Elevados investimentos iniciais.
+       •      Elevado custo de capital.
+       •      Baixos custos operacionais.
+       •      Indicado apenas para materiais específicos, ao contrário dos demais modais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (CEBRASPE/PETROBRAS/Logística/2023) No que diz respeito às operações logísticas e
+     suas características, julgue o item subsequente. O modo dutoviário representa alternativa
+     de transporte pouco poluente e imune a congestionamentos, mas os custos de transporte
+     são bem mais altos que os do transporte rodoviário de cargas.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+
+
+
+       ricardocampanario
+                   https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

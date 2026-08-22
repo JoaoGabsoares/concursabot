@@ -1,0 +1,1025 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 11_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: TECNOLOGIA DA INFORMAÇÃO
+---
+
+# TECNOLOGIA DA INFORMAÇÃO
+
+---
+
+---
+
+TECNOLOGIA DA INFORMAÇÃO
+
+                             Profa. Emannuelle Gouveia
+                             @Emannuellegouveia
+
+
+      
+
+
+---
+
+ APRENDIZADO DE
+    MÁQUINA
+MACHINE LEARNING
+     AULA 04 Prof. Emannuelle Gouveia
+                                             @Emannuelle Gouveia
+
+
+        
+
+
+---
+
+                            REGRESSÃO
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+         Regressão
+            Na regressão, em vez de prever uma categoria, o objetivo é prever um
+       número.
+            Vamos pegar o exemplo da Target novamente! Eles queriam saber não
+       apenas se cada cliente estava grávida, mas quando enviar cada cupom de
+       desconto. Então eles conseguiram estimar as datas de nascimento também
+       dos bebês. Essa é uma questão de regressão, i.e., quantas semanas até a
+       cliente dar à luz.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         Regressão
+            A Regressão depende muitas vezes de dezenas ou mesmo milhares de
+       variáveis ou características que descrevam cada exemplo e encontra uma
+       equação ou curva para ajustar os pontos de dados.
+            Como na classificação, muitas técnicas de regressão dão a cada
+       característica um peso, então combinam contribuições positivas e negativas
+       dos recursos ponderados para obter uma estimativa.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         Regressão
+                 Vejam no exemplo a seguir:
+
+           Notem que baseado em diversos pontos de dados, foi traçada uma linha
+       capaz de estimar dados, que poderia ter sido não-linear também.
+           Essa linha do gráfico é dada por uma equação baseada em variáveis.
+       Logo, tendo a equação, pode-se estimar qualquer outro valor, basta jogar na
+       equação e esperar o resultado.
+           Vamos supor que o exemplo acima seja dado pela equação y = 2,2923x –
+       46,244 – se eu quiser saber qualquer valor de y, é só mudar o valor de x.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                   
+
+
+---
+
+         Regressão
+             E, assim como a classificação, a regressão também é usada em vários
+        lugares.
+             Um dos exemplos mais conhecidos é o Google Trend da Gripe. Em 2008,
+        o Google começou a publicar estimativas em tempo real de quantas pessoas
+        teriam gripe com base em pesquisas por palavras como "febre" e "tosse".
+        Em alguns casos, ele foi capaz de prever surtos regionais de gripe até 10 dias
+        antes de serem notificados pelo CDC (Centros de Controle e Prevenção de
+        Doenças).
+             Em 2010, o CDC identificou um pico de casos de gripe na região do
+        Atlântico dos Estados Unidos. No entanto, os dados das consultas de
+        pesquisa do Google sobre os sintomas da gripe conseguiram mostrar esse
+        mesmo pico duas semanas antes do relatório do CDC!
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         Regressão
+            Inicialmente, o Google tinha uma precisão de 97% em relação ao CDC,
+       porém em anos subsequentes ele reduziu sua precisão e o Google decidiu
+       retirar do ar enquanto não houvesse uma precisão melhor.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         Regressão
+            Em uma definição formal, Navathe afirma que a regressão é uma
+       aplicação especial da regra de classificação.
+            Se uma regra de classificação é considerada uma função sobre variáveis
+       que as mapeia em uma classe destino, a regra é chamada regressão. Isto
+       ocorre quando, ao invés de mapear um registro de dados para uma classe
+       específica, o valor da variável é previsto (calculado) baseado em outros
+       atributos do próprio registro.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         Regressão Linear
+            A regressão linear é um tipo de algoritmo de aprendizado de máquina
+       supervisionado utilizado na mineração de dados.
+            Ela é usada para prever uma variável de destino contínua ajustando uma
+       equação linear aos pontos de dados.
+            Baseia-se na relação entre as variáveis independentes (preditoras) e a
+       variável dependente (alvo).
+            O algoritmo de regressão linear encontra a melhor linha de ajuste que
+       minimiza a soma dos erros quadrados. Essa linha de melhor ajuste é então
+       usada para prever valores para a variável dependente.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         Regressão Linear
+            Dito de outra forma, a ideia é modelar o relacionamento entre uma
+       variável dependente (Y) e uma ou mais variáveis independentes (Y).
+            Esse modelo é utilizado para fazer previsões sobre a variável
+       dependente ajustando uma equação linear aos dados observados. A
+       equação de regressão linear mostra a relação linear entre a(s) variável(eis)
+       independente(s) e a variável dependente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         Regressão Linear
+            Sendo assim, o modelo de regressão para uma única variável preditora
+       x, ou regressão linear simples, pode ser definido pela seguinte equação da
+       reta:
+
+       em que a e b são coeficientes de regressão (pesos) e especificam o
+       intercepto do eixo y e a inclinação da reta, respectivamente.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         Regressão Linear
+           Deve-se, então, encontrar valores para os coeficientes de regressão, de
+       forma que a reta (ou o plano/hiperplano, se for uma regressão linear
+       multivariada) se ajuste aos valores assumidos pelas variáveis nos exemplares
+       de um conjunto de dados. O melhor ajuste da reta pode ser encontrado, por
+       exemplo, pelo método dos mínimos quadrados, o qual minimiza o erro entre
+       os valores das variáveis nos exemplares do conjunto de dados e os valores
+       estimados pelo regressor.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         Regressão Logística
+           Na mineração de dados, a regressão logística é uma técnica de
+       modelagem preditiva utilizada para problemas de classificação.
+           Trata-se de um algoritmo de aprendizado supervisionado que usa um
+       conjunto de dados de treinamento rotulados para construir um modelo que
+       pode prever com precisão os resultados de dados não vistos.
+           A regressão logística é usada para identificar padrões em grandes
+       conjuntos de dados e para estimar a probabilidade de um determinado
+       evento ocorrer.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+         MODELOS LINEARES
+
+            Uma das principais aplicações de aprendizado de máquina é a previsão.
+       Ela consiste na tentativa de previsão de algum atributo usando somente
+       alguns dados de entrada.
+            Ela é determinada com base em exemplos históricos de dados de
+       entrada e saída, ou seja, com a análise de comportamentos passados
+       conseguimos fazer inferências sobre o futuro.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+            Nela são usados modelos preditivos responsáveis por relacionar dados
+       de entrada (também chamados de variáveis independentes) com o resultado
+       esperado (também chamados de variável dependente ou variável alvo
+       contínua).
+            Diferentes modelos geram formas matematicamente muito diferentes
+       de construir a relação entre as variáveis de entrada e de saída, tornando-os
+       assim capazes de captar padrões estatísticos também diferentes. Dessa
+       forma, como já vimos ser comum no aprendizado de máquina, devemos
+       testar diferentes conjunturas até achar a mais adequada para a situação.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+            Modelos preditivos, então, são basicamente uma função matemática
+       que, quando aplicada a uma massa de dados, é capaz de identificar padrões
+       e oferecer uma previsão do que pode ocorrer.
+            Existem vários tipos de modelos de predição, dentre eles se destacam os
+       modelos lineares. Esses modelos compreendem uma ampla família de
+       modelos derivados da estatística, embora apenas dois deles (regressão linear
+       e a regressão logística) sejam frequentemente utilizados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+       Regressão Linear: é a ferramenta estatística que nos ajuda a quantificar a
+       relação entre uma variável específica e um resultado que nos interessa
+       enquanto controlamos outros fatores. Nela, podemos isolar o efeito de uma
+       variável enquanto mantemos os efeitos das outras variáveis constantes.
+            Em essência, a regressão linear busca encontrar o “melhor encaixe” para
+       uma relação linear entre duas variáveis.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+           A Regressão Linear utiliza tipicamente uma metodologia chamada de
+       Mínimos Quadrados Ordinários (MQO) que nos dão a melhor descrição de
+       uma relação linear entre duas variáveis.
+           O resultado é uma equação de regressão linear simples:
+
+                 y = a + bx
+       ou
+                 y = α + ßx
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+         MODELOS LINEARES
+
+                 Por exemplo, na relação entre peso e altura:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                    
+
+
+---
+
+         MODELOS LINEARES
+
+            O MQO encaixa a reta que minimiza a soma dos residuais elevados ao
+       quadrado.
+            Cada observação nos nossos dados de altura e peso tem um residual,
+       que é a distância vertical a partir da reta de regressão, exceto para aquelas
+       observações que se situam diretamente em cima da reta, para as quais o
+       residual vale zero.
+            Note que, quanto maior a soma geral dos residuais, pior é o encaixe da
+       reta.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+            Por que o nome do método contém as palavras “mínimo quadrados”?
+       Porque a fórmula pega o quadrado de cada residual antes de somar todos e
+       isso aumenta o peso dado àquelas observações mais distantes da reta de
+       regressão – chamadas de extremos ou outliers.
+            Dessa forma, os mínimos quadrados ordinários “encaixam” a reta que
+       minimiza a soma dos residuais ao quadrado conforme é ilustrado na
+       imagem.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+        Para esse caso, poderíamos escrever a nossa equação de regressão dessa
+       forma:
+
+                 peso = a + (inclinação)*x
+
+            Onde y é o peso em quilos; a é o intercepto, isto é, ponto em que a reta
+       intercepta o eixo y (valor de y quando x = 0); b é a inclinação da reta; e x é a
+       altura em centímetros.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                     
+
+
+---
+
+         MODELOS LINEARES
+
+           A ferramenta de regressão linear é eficaz, mas possui suas limitações!
+       Ela permite trabalhar apenas com dados quantitativos (contínuos) e, não,
+       com dados qualitativos (categóricos).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+           Regressão Logística: é um algoritmo de aprendizagem de máquina
+       supervisionado utilizado para classificação.
+           Trabalha com dados qualitativos (categóricos).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+         MODELOS LINEARES
+
+                 Em geral, a utilização da regressão logística se dá com categorias
+       binárias, isto é, aquelas que podem assumir somente dois valores (Ex:
+       grande ou pequeno, alto ou baixo, sim ou não, lucro ou prejuízo, válido ou
+       inválido, entre outros).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+             No nosso exemplo, vamos definir se um determinado paciente está ou
+       não infectado com coronavírus, logo nossas categorias são: infectado ou
+       não-infectado.
+            Para tal, nós vamos reunir diversas informações contidas em um exame
+       de sangue, tais como contagem de anticorpos, contagem de plaquetas,
+       contagem de leucócitos, entre outros – essas informações são também
+       chamadas de variáveis independentes.
+            Em seguida, será aplicado um coeficiente ou peso a cada uma dessas
+       variáveis que comporão uma função de regressão linear múltipla e retornará
+       um determinado valor como resposta (variável dependente).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+            Ocorre que a regressão logística é um tipo de algoritmo de classificação,
+       logo precisamos transformar esse valor real retornado pela regressão linear
+       em uma das categorias pré-definidas por um supervisor.
+            Para tal, nós temos que utilizar um modelo logístico (chamado logit)
+       para fazer um mapeamento desse valor dentro de um intervalo entre [0, 1],
+       que pode ser interpretado como a probabilidade de ser da categoria que nos
+       interessa.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+         MODELOS LINEARES
+
+           A função de ativação que recebe como entrada um número real [-∞,
+       +∞] retornado por uma função de regressão linear e sempre retorna um
+       número entre [0,1] é chamada de Função Sigmóide.
+           Trata-se de uma função estritamente crescente que varia [-∞,+∞]
+       horizontalmente e [0,1] verticalmente. Por conta de seu formato, pode ser
+       chamada de Função em S.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+         MODELOS LINEARES
+
+            As informações de cada pessoa entram no processo de treinamento do
+       modelo de aprendizado de máquina.
+            Podemos usar os exames de várias pessoas com coronavírus e ir
+       ajustando os coeficientes das variáveis independentes da minha regressão
+       linear para refletir um valor coerente de probabilidade após aplicar a
+       regressão logística. Vejamos:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+         MODELOS LINEARES
+
+           Coloca-se os valores de quantidade de anticorpos, leucócitos e
+       plaquetas de uma pessoa que sabe-se que está com coronavírus, o modelo
+       ajusta os coeficientes (a, b, c, d) e retorna um resultado.
+           Em seguida, após aplicar a função sigmóide nesse resultado, espera-se
+       que ela retorne uma alta probabilidade de essa pessoa estar com
+       coronavírus (Ex: 0,9), dado que a pessoa realmente está infectada com
+       coronavírus, logo esse seria um resultado coerente.
+           Se ele retornar um valor como 0,2 (isto é, 20% de probabilidade de essa
+       pessoa estar infectada com coronavírus), significa que o modelo ainda não
+       está refinado e os ajustes vão sendo feitos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+         MODELOS LINEARES
+
+           Quanto mais dados de treinamento, mais o modelo de aprendizado de
+       máquina ajusta os coeficientes e maiores as chances de ele retornar uma
+       probabilidade coerente com a realidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+                            REDES NEURAIS
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            A redes neurais artificiais são versáteis, poderosas e escaláveis,
+        tornando-as ideais para lidar com tarefas de aprendizado de máquina
+        altamente complexas, como classificar bilhões de imagens (Ex: Google
+        Imagens), alimentar serviços de reconhecimento de voz (Ex: Siri da Apple),
+        recomendar os melhores vídeos para assistir (Ex: YouTube
+        Recommendations).
+            O neurônio artificial funciona de maneira muito simples e parecida com
+        o neurônio biológico: ele ativa sua saída quando mais de um certo número
+        de suas entradas estão ativas.
+            Os pesquisadores mostraram que mesmo com um modelo tão
+        simplificado é possível construir uma rede de neurônios artificiais que
+        computa qualquer proposição lógica que você deseja.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Frank Rosenblatt criou o Perceptron e o conectou a uma câmera
+       fotográfica. A ideia era o fazer capturar imagens e ensiná-lo a identificar o
+       que era ou não um triangulo.
+           Em cada imagem ele identifica os pixels pretos em uma determinada
+       área e calculava a carga elétrica total. Se fosse acima de um certo limite,
+       acenderia uma lâmpada.
+           Se realmente estivesse certo o operador apertaria um botão indicando
+       certo e se fosse errado outro indicando erro o que disparava uma cadeia de
+       eventos e cálculos para reajustar o limite de carga elétrica suficiente para
+       acender a lâmpada de forma que as chances de a máquina acertar nas
+       próximas vezes aumentava.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+           O perceptron é a unidade básica de uma Rede Neural Artificial (RNA),
+       sendo equivalente a um neurônio biológico. Vejamos abaixo como seria sua
+       estrutura básica:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+                Note que temos um conjunto de n entradas (e1, e2, e3, ..., en) que
+       são multiplicadas por pesos específicos associados a cada entrada (p1, p2,
+       p3, ..., pn). Cada um desses pesos é livremente ajustável de forma
+       independente dos demais. Em seguida, nós realizamos a soma de cada
+       entrada multiplicada por seu respectivo peso associado. E o próximo passo é
+       somar tudo isso com uma entrada especial denominada viés ou bias (b).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+                Em outras palavras, podemos afirmar que o peso de uma entrada
+       representa seu grau de força ou influência no resultado – quanto maior o
+       peso de uma determinada entrada, maior será a influência no resultado; e o
+       viés (bias) é um valor que pode ser ajustado para aumentar ou diminuir a
+       força do sinal ao adicionar um valor positivo/negativo com o intuito de
+       regular o formato/curvatura da função e ajustá-la ao propósito desejado.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Estamos multiplicando valores por um coeficiente, somando-os e
+       adicionando uma constante! Bem, isso parece uma regressão linear múltipla:
+            y = a + bx + cy + dz ...
+
+
+                 s = b + p1e1 + p2e2 + p3e3 ... + pnen
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                    
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            A lógica básica de um perceptron na parte inicial é realmente parecida
+       com uma regressão linear, mas na etapa seguinte, passa o resultado da
+       regressão linear por uma função de ativação, responsável por fazer uma
+       transformação não-linear do resultado da etapa anterior e definir se um nó
+       será ativado ou não.
+            Funções lineares (Ex: regressão linear) são aquelas que podem ser
+       representadas em um plano cartesiano como uma reta. O objetivo da função
+       de ativação é transformar o formato de reta em um formato não linear,
+       tornando a função mais flexível/adaptável para tarefas complexas e
+       permitir que pequenas alterações na entrada de dados não causem grandes
+       alterações na saída de dados
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Existem duas grandes classes de funções de ativação: funções de limite
+       e funções sigmóides.
+            Os perceptrons originais utilizavam funções de limite. Nesse caso, se o
+       resultado da função de ativação fosse maior ou igual a um determinado
+       limite (em inglês, threshold), então essa função retornaria 1 (nó ativado); se
+       o resultado da função de ativação fosse menor que um determinado limite,
+       então essa função retornaria 0 (nó não-ativado).
+            Existem outras variações, mas funções desse tipo sempre têm formato
+       de um degrau (em inglês, step).
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Ocorre que a maioria das aplicações necessita de um resultado
+       probabilístico (contínuo) e, não, de um resultado binário (discreto) e a
+       função limite não é capaz de retornar esse tipo de resultado.
+            Dessa forma, perceptrons modernos utilizam funções sigmóide.
+            Nesse caso, podemos ver o resultado do perceptron como uma espécie
+       de regressão logística, trata-se de uma função estritamente crescente que
+       recebe um valor real qualquer que varia horizontalmente entre [-∞,+∞] e
+       varia verticalmente [0,1].
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+                 A função sigmóide mais famosa é a função logística apresentada a
+       seguir (frequentemente são tratadas como sinônimos):
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Há também o caso em que desejamos que o resultado assuma valores
+       entre [-1,1]. Para tal, podemos utilizar um outro tipo de função sigmóide
+       chamada de tangente hiperbólica:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Essa transformação não-linear realizada pelas funções de ativação
+       permite tornar o perceptron mais capaz de aprender e executar tarefas
+       complexas.
+            O aprendizado vai se dando por massa de dados e ajustes dos pesos de
+       acordo com a supervisão.
+            Observe que o perceptron é a unidade básica de uma rede neural
+       artificial, assim como o neurônio é a unidade básica de uma rede neural
+       biológica.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Na prática, os perceptrons não são utilizados isoladamente e sim de
+       forma combinada.
+           Existem diversas formas de organização de perceptrons, sendo a
+       organização por camadas a mais comum.
+           Aquelas que serão objeto de estudo nesse tópico serão: Single Layer
+       Perceptrons (SLP) ou Multilayer Perceptrons (MLP).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+           Single Layer Perceptrons (SLP): trata-se de uma rede neural que organiza
+       os perceptrons em uma única camada de processamento. Onde os nós
+       (preceptons) da camada de saída realizam processamentos e os nós da
+       camada de entrada apenas transferem os valores diretamente para a
+       camada de saída.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Esse tipo de rede neural é raramente utilizado justamente por utilizar
+       perceptrons originais, isto é, aqueles cuja função de ativação é uma função
+       de limite (em formato de degrau) é mais adequado para resolver problemas
+       de classificação em que as classes são linearmente separáveis, ou seja, ele só
+       lida com situações em que é possível traçar ao menos uma linha reta
+       separando classes em um plano coordenado.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Multilayer Perceptrons (MLP): Trata-se de uma arquitetura de redes
+       neurais artificiais que utiliza múltiplas camadas de perceptrons.
+           Temos duas camadas que realizam processamentos: camada oculta e
+       camada de saída.
+           Da mesma forma da arquitetura anterior, os nós da camada de entrada
+       apenas transferem os valores (com seus respectivos pesos) para os nós da
+       camada oculta ou camada escondida, sendo os únicos perceptrons que não
+       executam uma função de ativação.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Já em contraste com a arquitetura anterior, aqui são utilizados
+       perceptrons modernos, isto é, aqueles cuja função de ativação é uma função
+       sigmóide. Aos dados de entrada são aplicados pesos, em seguida eles são
+       sendo processados pela camada oculta até chegarem a um resultado de
+       saída.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Em MLP, a lógica de conexão é: todos os elementos de uma camada se
+       conectam a todos os elementos da camada seguinte e apenas a eles, ou seja,
+       os elementos da mesma camada não se conectam entre si.
+            Até existem diversas outras arquiteturas de redes neurais (Ex:
+       Convolutivas (CNN), Recorrentes (RNN), Long Short-Term Memory (LSTM)),
+       mas o nosso foco aqui é em redes neurais de multicamadas.
+            São redes neurais feed-forward, ou seja, os sinais de informação de uma
+       camada somente alimentam a próxima camada e jamais alimentam a
+       camada anterior ou a camada atual.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+            Em redes neurais feed-forward, os sinais avançam sempre para frente,
+       fluindo da camada atual para a próxima de forma sequencial não formando
+       ciclos (em contraste com redes neurais recorrentes, por exemplo).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Atualmente existem redes neurais com mais de mil camadas escondidas,
+       além de trilhões de perceptrons, que é o caso da Deep Learning.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+        A ideia é que, após um grande número de iterações, os pesos estejam
+   relativamente ajustados e a rede convirja para um ponto de estabilidade
+   onde há pouco ou nenhum ajuste dos pesos e os erros são bem mais raros e
+   a rede neural pode ser usada para generalizar um problema para futuros
+   novos dados de maneira assertiva.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Esse fenômeno em que erros de previsão entre saídas obtidas e saídas
+       esperadas de uma rede neural artificial são quantificados por meio de uma
+       função de custo/perda (Ex: Erro Quadrático Médio – EQM) e retornam para a
+       rede em forma de ajuste dos pesos e vieses é chamado de retropropagação
+       (ou backpropagation).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+                 Esse algoritmo consiste basicamente de duas etapas principais:
+
+      1.         Etapa de Propagação: as entradas fluem através das camadas ocultas da
+                 rede neural e previsões são obtidas na camada de saída;
+
+       2. Etapa de Retropropagação: calcula-se o gradiente da função de
+       custo/perda na camada de saída e ele é utilizado para atualizar os pesos
+       (inclusive o viés) recursivamente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                    
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+            Há duas maneiras de representar o viés em uma arquitetura de
+       multicamadas de perceptrons:
+            Como um valor externo adicionado à soma ponderada de cada
+       perceptron ou como um nó sempre ativo que recebe uma entrada de valor
+       fixo = 1 e é multiplicado por um valor de peso variável.
+            Ele existe para aumentar a flexibilidade do modelo para se adequar aos
+       dados, evitando, por exemplo, saídas zeradas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Note que, no segundo caso, o nó especial de viés é inserido na camada
+       de entrada e nas camadas ocultas, mas não faz sentido incluí-lo na camada
+       de saída. Além disso, não está representado na imagem, mas cada segmento
+       de reta que liga representa um valor da camada anterior multiplicado pelo
+       seu respectivo peso.
+           Em prova, já foi chamado de Termo de Interceptação (ou Intercept
+       Term) que é análogo ao intercepto em um modelo de regressão linear e tem
+       exatamente a mesma função que é representar o valor no qual uma função
+       cruza o eixo y.
+           Como se trata de um valor constante independente de outras variáveis,
+       mesmo que as entradas sejam 0, ainda teremos um valor de saída.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+MACHINE LEARNING – REDES NEURAIS FEED-FORWARD
+
+           Vale ressaltar que há aplicações de redes neurais artificiais também em
+       aprendizado não-supervisionado, mas ainda são mais raras.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+OBRIGADA
+                             Prof. Emannuelle Gouveia
+                             @emannuellegouveia
+
+
+     
+
+
+---
+
+---

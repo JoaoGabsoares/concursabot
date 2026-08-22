@@ -1,0 +1,3926 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Administração Financeira
+artigos_citados:
+- artigo 202
+---
+
+# Administração Financeira
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                     Administração Financeira
+
+                                                        Autor:
+                                              Paulo Portinho
+
+                                            27 de Março de 2023
+
+---
+
+   Paulo Portinho
+   Aula 04
+
+Sumário
+
+Lista de Questões 
+
+Questões comentadas com gabarito 
+
+                                                                                                                                                           1
+            Receita Federal (Analista Tributário) Administração Financeira
+            www.estrategiaconcursos.com.br
+
+                                                  
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                                              INTRODUÇÃO
+O objetivo do módulo é trazer uma miscelânea de tipos diferentes de questões envolvendo os temas das
+Aulas de Administração Financeira. São de várias bancas e, na medida do possível, não terão temas
+repetitivos. Nem sempre conseguimos, apenas com questões da banca do concurso, cobrir toda a matéria
+com exercícios.
+
+A estratégia dessa aula de exercícios é tentar ser o mais abrangente possível, portanto é possível que
+algumas das questões abaixo não estejam explicitamente pedidas no edital (infelizmente alguns editais são
+pouco detalhados e deixam a matéria muito aberta).
+
+O aluno deverá seguir as instruções das aulas. Não temos como saber se a banca vai pedir questões que não
+estão explícitas no edital, como Alavancagem, Ponto de Equilíbrio etc., mas que também fazem parte da
+administração financeira, porém é pouco provável que a banca peça explicitamente algo complexo que não
+foi colocado no edital. Por outro lado, é comum que os editais sejam suficientemente vagos para que
+praticamente toda matéria que vimos possa cair nas provas.
+
+O aluno poderá passar direto pelas questões sobre matérias que não foram pedidas explicitamente no
+edital, caso precise se dedicar a questões e matérias mais prováveis de serem pedidas na prova.
+
+IMPORTANTE! Também utilizamos essas questões para introduzir novos conceitos pontuais, questões
+específicas que costuma ser "pegadinhas" das bancas.
+
+        Alguns alunos podem preferir ir diretamente para a aula de questões apenas da banca do
+        concurso (em casos de pós-edital ou quando disponível). Se não houver tempo para
+        estudar, é uma boa estratégia, porém é ALTAMENTE recomendável tentar fazer essas
+        questões, pois procurei abranger todas as formas de cobrar a matéria.
+
+        Infelizmente, para matérias da área financeira, algumas bancas ainda têm poucos
+        exercícios, ou muito repetitivos.
+
+                                                                                                       2
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                                           LISTA DE QUESTÕES
+
+As questões aqui colocadas não estão associadas diretamente à banca dos concursos, foram escolhidas para
+cobrirem os principais modelos e as principais formas de trabalhar os temas.
+
+Seguem os enunciados sem resolução. No capítulo seguinte os resultados com os comentários.
+
+Prova: CESPE 2004 – Certo ou Errado
+
+Com relação à administração financeira e orçamentária nas empresas, julgue os itens a seguir.
+
+1 O orçamento estático, elaborado apenas para o nível planejado de atividade, é inadequado para a
+avaliação de eficiência do controle de custos. Se a atividade real for maior que a planejada, os custos
+variáveis devem ser superiores aos estimados; se for menor, devem ser inferiores.
+
+2 Os custos indiretos fixos, para efeito de análise das variações entre os valores reais e os orçados, devem
+ser expressos e analisados em forma unitária ou horária, relacionando-os à variação de volume dentro da
+faixa relevante de atividade.
+
+3 A variação de gasto do custo indireto variável é útil apenas se as horas efetivamente trabalhadas forem
+realmente o direcionador do custo. Como a influência do preço nessa variação geralmente é pequena, o
+grau de eficiência com que são consumidos os recursos terá peso maior.
+
+No que tange às modernas técnicas de administração financeira, julgue os itens seguintes.
+
+4 O planejamento financeiro permite evidenciar as necessidades de expansão da empresa, bem como
+identificar eventuais desajustes futuros. Possibilita também a seleção, com maior margem de segurança,
+
+                                                                                                          3
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+dos ativos mais rentáveis e adequados aos negócios da empresa, de forma a otimizar a rentabilidade sobre
+os investimentos.
+
+5 O nível e a importância do capital de giro variam em função das características de atuação de cada
+empresa, do desempenho da conjuntura econômica e da relação entre risco e rentabilidade desejada.
+
+6 Em qualquer ramo empresarial, os itens circulantes, quando comparados aos ativos fixos, apresentam
+sempre maior rentabilidade e menor divisibilidade. Essas características justificam o constante aporte de
+capital na manutenção de um elevado capital de giro.
+
+7 Uma das fontes de financiamento de longo prazo à disposição das empresas é a subscrição pública de suas
+ações por uma instituição financeira não-bancária, visando à colocação posterior dessas ações no mercado
+acionário do tipo residual (standby), operação em que a instituição financeira não se responsabiliza, no
+momento do lançamento, pela integralização do total das ações emitidas, mas compromete-se a fazê-lo
+após um período de negociação das novas ações, caso o mercado não as absorva integralmente.
+
+8 O orçamento geral é o resumo dos planos da organização e estabelece metas específicas das atividades
+de venda, produção, de distribuição e financeira. É, geralmente, representado por um orçamento de caixa,
+uma demonstração de resultado orçada e um balanço patrimonial orçado.
+
+9 Quando se emprega o orçamento flexível para avaliação de desempenho, os custos reais são comparados
+com os custos do orçamento original, o que facilita a interpretação e os ajustes entre os custos orçados e os
+custos reais.
+
+Prova: CESPE 2007 – Certo ou Errado
+
+Acerca dos conceitos de alavancagem e das análises de demonstrações financeiras e de investimentos,
+julgue os próximos itens.
+
+                                                                                                           4
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+10 As demonstrações financeiras reúnem informações de curto e de longo prazos da empresa, as quais
+podem ser analisadas separadamente ou integrar um sistema de informação gerencial.
+
+11 A estimativa do fluxo de caixa de um projeto a ser implantado é uma das etapas da análise de
+investimentos.
+
+12 A alavancagem financeira é representada pelo uso de ativos operacionais, com custos e despesas fixas,
+com o objetivo de se garantir aos acionistas o retorno.
+
+13 Para que se possa calcular o valor presente de determinada opção de investimento, deve-se determinar
+a taxa de desconto a ser utilizada, a qual é definida em função do custo do capital e do risco.
+
+14 A análise das demonstrações financeiras é realizada a partir do balanço social da empresa, o qual
+apresenta bens, direitos, obrigações e capital dos proprietários no encerramento de cada exercício.
+
+A respeito de planejamento financeiro, administração do capital de giro e fontes de financiamento de longo
+prazo, julgue os itens que se seguem.
+
+15 O uso de capital de terceiros, que consiste na utilização de recursos externos sob a forma de
+endividamento, é uma das formas de se realizar financiamento de longo prazo.
+
+16 No Brasil, a concessão de financiamento de longo prazo é atribuída aos bancos de desenvolvimento,
+como o BNDES, sendo vedada a participação de bancos comerciais nesse segmento financeiro.
+
+17     A administração do capital de giro consiste no conjunto de tarefas relacionadas ao planejamento
+financeiro de longo prazo da empresa.
+
+                                                                                                        5
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+18 O planejamento financeiro de longo prazo deve refletir os objetivos traçados no planejamento
+estratégico da empresa.
+
+19 A gestão e a projeção do orçamento de caixa para períodos inferiores a um ano inserem-se no âmbito do
+planejamento financeiro de curto prazo.
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+20 Ao final de cada exercício social, uma empresa efetua análise das variações de seu orçamento planejado
+e o efetivamente realizado naquele ano. No último ano, a empresa apresentou o seguinte quadro
+comparativo:
+
+Analisando-se as variações de preço e de volume a partir do demonstrativo, conclui-se que a(o)
+
+(A) variação do preço de venda foi desfavorável em R$ 2,00 por unidade.
+
+(B) variação do custo variável unitário foi favorável em R$ 5,00 por unidade.
+
+(C) variação dos custos fixos foram desfavoráveis em R$ 1.000,00 no total.
+
+(D) margem de contribuição unitária aumentou em R$ 3,00 por unidade.
+
+(E) volume de venda isoladamente aumentou o resultado em R$ 2.000,00.
+
+21 Uma empresa industrial consegue obter um lucro operacional de R$ 200.000,00 mantendo uma
+produção de 10.000 unidades. Sabendo-se que sua margem de contribuição unitária é de ¼ do preço, qual
+o valor médio estimado, em reais, do custo variável unitário do produto?
+
+                                                                                                       6
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(A) R$ 20,00
+
+(B) R$ 40,00
+
+(C) R$ 50,00
+
+(D) R$ 60,00
+
+(E) R$ 80,00
+
+Prova: CESGRANRIO 2011 – MÚLTIPLA ESCOLHA
+
+Considere as informações dos Balanços Patrimoniais e a Demonstração de Resultados da Empresa XisY
+publicados em 31 de março de 2011, em milhares de reais, para responder às questões de nos 59, 60 e 61.
+
+Balanço Patrimonial da Empresa XisY em 31 de dezembro de 2009 e 2010
+
+                                                                                                      7
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+22 Sabendo-se que 20% de todas as vendas são realizadas à vista e as demais a prazo, qual o ciclo
+operacional (aproximado), em dias, da empresa XisY?
+
+(A) 70
+
+(B) 81
+
+(C) 90
+
+(D) 101
+
+(E) 111
+
+23 Qual é, aproximadamente, o ciclo de caixa da empresa XisY, em dias?
+
+(A) 38
+
+(B) 42
+
+(C) 48
+
+(D) 52
+
+(E) 56
+
+                                                                                               8
+          Receita Federal (Analista Tributário) Administração Financeira
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+24 Você está preparando o planejamento da receita de vendas de sua empresa e pede para um estagiário
+preparar um gráfico com as vendas mensais dos últimos 3 anos para utilizá-lo em seu modelo de previsão
+de vendas. O gráfico abaixo representa essa solicitação.
+
+Quais os tipos de componentes dessa série temporal que podem ser observados no gráfico?
+
+(A) Ciclicidade e média estacionária
+
+(B) Tendência e média estacionária
+
+(C) Sazonalidade e ciclicidade
+
+(D) Tendência e ciclicidade
+
+(E) Tendência e sazonalidade
+
+Prova: CESGRANRIO 2014 – MÚLTIPLA ESCOLHA
+
+25 O orçamento empresarial pode ser entendido como a expressão quantitativa de um plano de ação futuro
+da administração para um determinado período. O processo de orçamento empresarial pode utilizar-se de
+algumas abordagens, como, por exemplo, a “Beyond Budgeting”, que possui algumas características
+marcantes.
+
+Uma dessas características é
+
+(A) apresentar metas fixas para os gestores.
+
+(B) apresentar um processo decisório centralizado.
+
+
+                                                                                                    9
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(C) desestimular as equipes a assumirem riscos.
+
+(D) ser semelhante ao orçamento tradicional.
+
+(E) prover os recursos quando forem necessários.
+
+26 Alguns ativos e passivos circulantes do Balanço Patrimonial de uma empresa possuem características
+específicas que os identificam como sendo contas patrimoniais operacionais. O capital de giro operacional
+líquido de uma empresa não costuma ser constante, podendo variar, por exemplo, mensalmente.
+
+Quanto à variação mensal do capital de giro operacional líquido, sendo não nula, no mês em análise, ela
+sempre
+
+(A) implicará novos financiamentos.
+
+(B) implicará novos investimentos.
+
+(C) impactará o caixa da empresa.
+
+(D) resultará em um valor positivo.
+
+(E) resultará em um valor negativo.
+
+Prova: CESPE 2001 – Certo ou Errado
+
+Considerando os dados apresentados no quadro acima, referentes a uma empresa que tem um único
+produto em linha de produção, julgue os itens a seguir.
+
+27 Aumentando a sua produção até o limite da capacidade instalada (500.000 unidades) e mantendo o preço
+atual, o lucro bruto da companhia seria elevado para um valor superior a R$ 520.000,00.
+
+                                                                                                      10
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+28 Caso as 200.000 unidades adicionais fossem vendidas a R$ 2,50, não haveria aumento do lucro bruto da
+companhia, em relação à situação inicial..
+
+29 O preço de venda de equilíbrio (lucro bruto igual a zero), utilizando a capacidade total, é igual a R$ 2,95.
+
+30 O ponto de equilíbrio, ao preço de venda de R$ 4,00, está entre 200.000 e 220.000 unidades.
+
+31 Caso recebesse proposta para colocação das 200.000 unidades que cabem na sua capacidade de
+produção, ao preço de R$ 2,65, a empresa não deveria aceitar, porque cairia o lucro bruto.
+
+Prova: CESGRANRIO 2006 – MÚLTIPLA ESCOLHA
+
+32 Obtiveram-se da Cia. Mega S/A as seguintes informações, considerando o ano de 360 dias:
+
+• Rotação de duplicatas a receber: 12 vezes
+
+• Rotação de fornecedores: 24 vezes
+
+• Rotação de estoques: 8 vezes
+
+Com base nesses dados, o ciclo de caixa da empresa, em dias, é de:
+
+(A) 44
+
+(B) 45
+
+(C) 60
+
+(D) 75
+
+(E) 90.
+
+33 A Cia. Progresso S/A, durante o período de planejamento orçamentário para o exercício de 2006,
+recolheu as seguintes informações do exercício de 2005, para poder projetar o custo total de mão-de-obra:
+                                                                                                            11
+          Receita Federal (Analista Tributário) Administração Financeira
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+• Total de horas de máquina utilizadas 60.000 HM
+
+• Custo total de mão-de-obra para R$ 250.000,00
+
+• Parte fixa do custo de mão-de-obra R$ 40.000,00
+
+Considerando-se que uma das premissas do orçamento é o aumento de vendas e, conseqüentemente, de
+produção, a empresa passará a consumir 80.000 horas de máquina.
+
+Com base nos dados acima, pode-se afirmar que o custo total, em reais, de mão-de-obra para 80.000 horas
+de máquina será de:
+
+(A) 260.000,00
+
+(B) 280.000,00
+
+(C) 290.000,00
+
+(D) 320.000,00
+
+(E) 350.000,00
+
+34 A Cia. Piratininga S/A trabalha com previsão orçamentária trimestral. Para o 1o trimestre de 2006, foram
+projetados os valores de vendas abaixo.
+
+As vendas da empresa são feitas 60% à vista e 40% a prazo. As vendas a prazo são cobradas no mês seguinte
+ao das vendas e as duplicatas a receber no dia 31 de dezembro de 2005 só refletem a parcela a receber das
+vendas feitas em dezembro, no valor de R$ 40.000,00.
+
+As contas não recebidas são desprezíveis e devem ser desconsideradas.
+
+Em decorrência, a previsão de entrada de caixa proveniente das vendas, para o mês de janeiro de 2005, foi,
+em reais, de:
+
+(A) 36.000,00
+
+(B) 38.000,00
+
+                                                                                                        12
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(C) 44.000,00
+
+(D) 46.000,00
+
+(E) 50.000,00
+
+35 O principal objetivo da existência das Bolsas de Valores é:
+
+(A) proporcionar liquidez aos títulos.
+
+(B) proporcionar às empresas a possibilidade de vender partes beneficiárias.
+
+(C) comprar e vender debêntures emitidas pelas instituições financeiras.
+
+(D) permitir que as empresas obtenham capitais de terceiros a baixo custo.
+
+(E) realizar operações de compra e venda de moeda estrangeira.
+
+36 Quando uma Sociedade Anônima pretende lançar novas ações, precisa contratar uma instituição
+financeira para realizar essa subscrição. As principais formas de subscrição pública de ações (underwriting)
+realizadas pelas instituições financeiras são:
+
+(A) integral, diferencial e complementar.
+
+(B) puro ou firme, stand by ou residual e melhor esforço.
+
+(C) junk bond, meridional e melhor performance.
+
+(D) task risk, principal ou proporcional e estrutural ou sunk coast.
+
+(E) básico ou primário, secundário e fatorial ou split.
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+37 A Ação Indústria de Aços Ltda produz parafusos e porcas de aço de uma polegada, de alta resistência,
+com as mesmas máquinas, matéria-prima e mão de obra, nas seguintes condições:
+
+                                                                                                         13
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Com o mercado aquecido e com o aumento das obras de grande porte que utilizam esse tipo de parafuso e
+porca, a empresa percebeu existir uma grande possibilidade de negócios e resolveu aceitar a oferta de
+porcas, ao custo de R$ 1,05 por unidade, feita por outra indústria que só produz as porcas, com qualidade
+idêntica à da sua produção.
+
+Considerando exclusivamente as informações acima e desconsiderando a incidência de qualquer tipo de
+imposto, o resultado mensal previsto pela empresa Ação, comprando as porcas e aproveitando a
+capacidade instalada para produzir somente os parafusos, em reais, é
+
+(A) 360.000,00
+
+(B) 507.000,00
+
+(C) 545.000,00
+
+(D) 592.000,00
+
+(E) 630.000,00
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+38 A Cia. Planaltina S/A apresentou as seguintes demonstrações contábeis em 31/12/2009:
+
+                                                                                                      14
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Sabendo-se que a empresa utiliza a alavancagem financeira como ferramenta de avaliação do desempenho
+operacional e desconsiderando-se qualquer efeito inflacionário na avaliação, o Grau de Alavancagem
+Financeira (GAF) da empresa no exercício foi de
+
+(A) 1,55
+
+(B) 1,49
+
+(C) 1,38
+
+(D) 1,13
+
+(E) 1,10
+                                                           ==219a34==
+
+Prova: CESGRANRIO 2011 – MÚLTIPLA ESCOLHA
+
+39 No estudo da alavancagem financeira, a fórmula para se calcular o ROA (Retorno sobre o Ativo Total)
+divide o lucro antes dos encargos financeiros sobre o ativo total.
+
+Tal fato ocorre porque, no conceito de administração financeira, o lucro antes dos encargos financeiros
+representa a(o)
+
+(A) geração bruta de caixa obtida pela diferença entre as receitas geradas pelas operações e as despesas
+operacionais e não operacionais.
+
+(B) geração de recursos oriundos das operações que não transitam em resultado.
+
+(C) valor gerado pela empresa no período, quer seja operacional, quer seja de outra fonte.
+
+(D) valor efetivo que os ativos conseguem gerar, independentemente da forma como são financiados.
+
+(E) lucro antes dos juros, da depreciação, da amortização e do imposto de renda, isto é, O EBTIDA.
+
+Prova: CESGRANRIO 2014 – MÚLTIPLA ESCOLHA
+
+40 Os orçamentos financeiros são as últimas peças orçamentárias a serem elaboradas num orçamento
+empresarial, qualquer que seja seu nível de detalhamento. O orçamento da demonstração do resultado é
+fundamentado nos orçamentos operacionais de vendas, produção e despesas, o mesmo ocorrendo com o
+
+
+                                                                                                     15
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+orçamento de caixa, que projeta as entradas e saídas dos fluxos financeiros de uma empresa e permite
+tentar conhecer esses fluxos tanto no curto prazo, como no longo prazo.
+
+Uma das finalidades básicas do orçamento de caixa é a de
+
+(A) analisar o retorno dos investimentos financeiros.
+
+(B) determinar a validade das políticas de investimento.
+
+(C) estabelecer bases sólidas para a política de crédito.
+
+(D) evidenciar o fluxo de caixa operacional e financeiro.
+
+(E) fundamentar os controles e a análise orçamentária.
+
+41 Desejando participar de uma proposta para a realização de um determinado serviço, a Companhia Q S/A
+levantou os seguintes dados, em reais, retirados do balancete de verificação, levantado em novembro/2013:
+
+Desconto concedido por pagamento antecipado 9.600,00
+
+Despesas administrativas e comerciais                              157.400,00
+
+Lucro Bruto                                                        181.400,00
+
+Passivo Exigível                                                            60.000,00
+
+Patrimônio líquido                                                 40.000,00
+
+Considerando exclusivamente os dados fornecidos, as normas contábeis para elaboração das
+demonstrações contábeis e a boa técnica de análise financeira, o grau de alavancagem financeira da
+Companhia Q S/A é de
+
+(A) 1,21
+
+(B) 1,50
+
+(C) 1,67
+
+(D) 2,50
+
+(E) 2,77
+
+
+                                                                                                      16
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+UFG – Administrador Ano 2015
+
+42 Os fluxos de caixa operacionais de uma empresa são as entradas e saídas relacionadas diretamente à
+produção e venda de seus produtos. Assim, fazem parte desse fluxo:
+
+(A) imposto de renda e salários a pagar.
+
+(B) vendas de ações e pagamentos de dividendos em dinheiro.
+
+(C) ativos imobilizados e participações societárias.
+
+(D) recompra de ações e duplicatas a receber.
+
+43 No mercado de capitais, o título que “realiza distribuição periódica de lucros aos acionistas de uma
+determinada organização” é o seguinte:
+
+(A) ação preferencial.
+
+(B) ação ordinária.
+
+(C) dividendos.
+
+(D) títulos de dívida.
+
+44 O controle financeiro é um método de controle administrativo. Uma abordagem eficaz para avaliar o
+desempenho total de uma empresa é utilizar índices financeiros importantes que ajudam a indicar possíveis
+pontos fortes e fracos. O índice que demonstra a quantia relativa de fundos na empresa fornecidos por
+credores a acionistas é o índice de
+
+(A) liquidez.
+
+(B) alavancagem.
+
+(C) percepção.
+
+(D) resultados.
+
+                                                                                                      17
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+UFG – Administrador - Ano 2010
+
+45 Ao se considerar a continuidade de uma empresa, seu valor e as decisões do administrador financeiro
+devem ser avaliados à luz de fluxos de caixa presentes e futuros. Assim, na busca de taxas de retorno
+positivas sobre os fundos, pode-se considerar que:
+
+(A) o tempo dos fluxos de caixa tem importantes consequências econômicas para a tomada de decisão.
+
+(B) as técnicas do valor futuro e do valor presente consideram as mesmas perspectivas, porém resultando
+em decisões diferentes.
+
+(C) o dinheiro tem valor no tempo, por isso os fluxos de caixa associados com um investimento devem ser
+medidos em instantes de tempo diferentes.
+
+(D) a técnica do valor futuro utiliza o valor composto para descontar os fluxos de caixa, enquanto a técnica
+do valor presente utiliza a capitalização para encontrar o seu valor atual.
+
+46 onforme entendimento de Sanvicente (1995, p. 120), “dentre as aplicações de fundos por uma empresa,
+uma parcela ponderável destina-se ao que, alternativamente, podemos chamar de ativos correntes, ativos
+circulantes, ou capital de giro”. Em geral, esses ativos compreendem:
+
+(A) o capital da empresa que circula até transformar-se em dinheiro dentro de um ciclo de operações que
+tem prazo determinado , sem a necessidade de se considerar a natureza das operações.
+
+(B) os saldos mantidos por uma empresa nas contas disponibilidades, investimentos temporários, contas a
+receber e estoques.
+
+(C) os saldos de curto prazo existentes, que também podem ser vistos como investimentos necessários,
+podendo assim serem comparados com investimentos em ativos imobilizados no que se refere à frequência
+do planejamento e controle.
+
+(D) os investimentos relacionados principalmente com as vendas, disponíveis nas contas a receber,
+possibilitando uma maior frequência de operações, a previsão de flutuações de necessidades de caixa e
+custos de obtenção mais baixos.
+
+47 Dentre os princípios básicos do capital de giro, segundo Sanvicente (1995), destacam-se:
+
+(A) o problema da liquidez dos ativos correntes da empresa, em face da composição dos prazos de
+vencimento de suas dívidas e o conflito entre liquidez e rentabilidade.
+
+
+                                                                                                         18
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(B) a concentração de esforços da empresa para manter sua liquidez, por meio da aplicação de recursos em
+ativos correntes, que vão resultar em um aumento da rentabilidade dos investimentos e o aumento do risco
+em relação ao porte operacional da empresa.
+
+(C) os dilemas enfrentados, nos casos de disponibilidades e estoques e na manutenção dos saldos excessivos
+com custos mais baixos ou saldos insuficientes com custos maiores e a conciliação entre rentabilidade e
+manutenção de saldos elevados.
+
+(D) as atitudes da administração em relação à falta de fundos, que é uma questão de conciliação entre o
+ganho (rentabilidade) e o aumento de saldos necessários para garantia quanto ao problema de insuficiência
+de fundos.
+
+UFG – Administrador - Ano 2009
+
+48 A necessidade da atuação do administrador financeiro ocorre porque, independentemente do segmento
+de atuação, em toda entidade, há um constante fluxo de recursos financeiros. Especificamente quanto a
+função gestão do caixa, o administrador financeiro deve
+
+(A) normatizar os critérios a serem seguidos para conceder prazo de pagamento aos clientes.
+
+(B) avaliar constantemente o fluxo de pagamentos e recebimentos que a empresa possui.
+
+(C) atuar de modo a otimizar o resultado do período.
+
+(D) adotar procedimentos que facultem planejar a necessidade, ou disponibilidade, de capital da empresa
+ao longo de um período qualquer.
+
+49 Cabe ao administrador financeiro de uma empresa obter recursos requeridos para saldar as obrigações
+quando não há saldo de caixa suficiente ou para propiciar capital adicional para expandir os negócios. Esta
+atuação relaciona-se à função de:
+
+(A) administração da cobrança.
+
+(B) gestão de custos e preço.
+
+(C) captação de recursos.
+
+(D) decisão de investimento.
+
+                                                                                                        19
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+UFG - Assistente em Administração Ano 2018
+
+50 A administração financeira, no contexto empresarial, tem como função típica a tomada de decisão que
+defina a melhor estrutura de ativos da organização. Essa função está relacionada
+
+(A) ao controle financeiro.
+
+(B) à análise e ao planejamento financeiros.
+
+(C) à tomada de decisões de investimento.
+
+(D) à tomada de decisões de financiamentos.
+
+UFG – Administrador - Ano 2015
+
+51 Faz parte do passivo circulante, em um balanço patrimonial, o seguinte:
+
+(A) ações preferenciais.
+
+(B) lucros retidos.
+
+(C) móveis e utensílios.
+
+(D) títulos a pagar
+
+52 Faz parte da demonstração de resultado do exercício o seguinte:
+
+(A) lucro bruto (+ despesas operacionais).
+
+(B) lucro antes de impostos (+ imposto de renda e contribuição social).
+
+(C) lucro operacional (+ receitas não operacionais; - despesas não operacionais).
+
+(D) receita bruta de venda de bens e serviços (+ impostos sobre vendas; + descontos comerciais e
+abatimentos).
+
+                                                                                                   20
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+IFMT – UFMT – Assistente de Administração Ano 2008
+
+53 No livro Pai rico, pai pobre de Augusto Cury, o autor afirma que uma das principais causas das dificuldades
+financeiras está associada ao desconhecimento da diferença entre Ativo e Passivo. Sobre o assunto, assinale
+a afirmativa correta.
+
+A) Passivo corresponde ao conjunto de bens e direitos de propriedade da empresa.
+
+B) Passivo corresponde às dívidas que serão recebidas pela empresa.
+
+C) Ativo corresponde às obrigações exigíveis da empresa.
+
+D) Ativo corresponde ao conjunto de bens e direitos de propriedade da empresa.
+
+E) Ativo corresponde às vantagens concedidas às empresas impossibilitadas de pagar suas dívidas no prazo
+contratado.
+
+54 A distribuição dos lucros é feita com base no:
+
+a) Lucro líquido.
+
+b) Lucro tributável.
+
+c) Resultado operacional.
+
+d) Lucro bruto.
+
+e) Lucro operacional.
+
+55 A finalidade da Contabilidade é:
+
+a) Registrar, de acordo com o mecanismo de escrituração contábil, todos os eventos em uma empresa.
+
+b) Determinar e implementar o processo de escrituração contábil mais adequado à empresa.
+
+c) Proporcionar à administração, e aos demais interessados, informações relevantes para a tomada de
+decisão.
+
+d) Elaborar o plano de contas que será utilizado na escrituração contábil, bem como proceder à classificação
+e escrituração dos eventos.
+
+                                                                                                           21
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+e) Implementar o plano de contas e escriturar os eventos.
+
+IFMT – UFMT – Administrador Ano 2014
+
+56 Em edital de concorrência pública, havia exigência de Índice de Liquidez Corrente igual ou superior a 1,2
+para habilitação de licitante. Ao se deparar com essa informação, um Assistente em Administração realizou
+análise financeira dos balanços patrimoniais apresentados, objetivando verificar a saúde financeira das
+empresas que participavam da licitação. O que indica a Liquidez Corrente, sob a perspectiva da
+Administração Financeira?
+
+A] Quanto das dívidas de curto prazo poderia ser resgatado, caso a empresa lançasse mão apenas de seus
+ativos de maior liquidez.
+
+B] Quanto a empresa possui em bens e direitos de curto prazo para cada um real de obrigações vencíveis no
+curto prazo.
+
+C] Porcentagem das dívidas de curto prazo que pode ser quitada por suas disponibilidades financeiras.
+
+D] Porcentagem de ativo permanente que não está em utilização nas atividades finalísticas da empresa.
+
+ESAF - Analista Técnico da SUSEP/Controle e Fiscalização - Atuária/2006
+
+57 A empresa Orizonina Metais S/A elaborou seu balanço com os seguintes dados contábeis, referentes ao
+exercício de 2005, cujos valores são aqui apresentados ao lado dos saldos anteriores:
+
+                                                                                                         22
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Finalizada sua elaboração, as demonstrações financeiras foram submetidas ao processo de análise contábil
+possibilitando de sua leitura a conclusão de que:
+
+a) a liquidez geral da empresa demonstra capacidade de pagamento de 71% das dívidas já assumidas.
+
+b) a liquidez corrente não alcança a cobertura de metade das dívidas de curto prazo.
+
+c) a rentabilidade líquida alcançada no período foi, exatamente, um terço da rentabilidade bruta.
+
+d) o capital de giro líquido, em 31 de dezembro, é positivo em 29% das obrigações a pagar, no exercício
+seguinte ao balanço.
+
+e) o grau de imobilização do capital alcança 70% do patrimônio bruto.
+
+CESPE - Perito Criminal Federal/Área 1/1997
+
+58 A análise de balanços pode ser vista como a arte de saber extrair relações úteis, para o objetivo
+econômico que se pretenda, dos relatórios contábeis tradicionais e de suas extensões e detalhamentos, se
+for o caso. Há autores que consideram a análise de balanços uma arte, pois, embora existam alguns cálculos
+razoavelmente formalizados, não existe forma científica ou metodologicamente comprovada de relacionar
+os índices de maneira a obter um diagnóstico preciso. Ou, melhor dizendo, cada analista poderia, com o
+mesmo conjunto de informações e de quocientes, chegar a conclusões ligeira ou completamente
+diferenciadas. É provável, todavia que dois analistas experimentados, conhecendo igualmente bem o ramo
+de atividade da empresa, cheguem a conclusões bastante parecidas (mas nunca idênticas) sobre a situação
+atual da empresa, embora quase sempre apontem tendências diferentes, pelo menos em grau, para o
+empreendimento. Os problemas começam a surgir da sintetização das várias informações dispersas, pois,
+em pontos ou em quocientes isolados, é mais fácil haver certeza de conclusão ou opinião técnica. Acerca de
+tal assunto, julgue o item que se segue.
+
+A elevada rentabilidade de uma empresa combinada com o aumento da sua situação líquida circulante,
+pode explicar uma boa situação econômica e uma situação financeira ruim.
+
+Certo
+
+Errado
+
+CESPE - Analista Judiciário (TRE RJ) /Administrativa/ Contabilidade/2012
+
+                                                                                                       23
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+59 A elaboração de indicadores tem por finalidade avaliar o desempenho de determinada entidade a partir
+de diferentes critérios. Em relação a essa matéria, julgue o item subsequente.
+
+Se determinada empresa realizou um empréstimo para a construção de uma nova sede corporativa, seu
+indicador de giro operacional não será diretamente influenciado pela referida operação.
+
+Certo
+
+Errado
+
+CEPERJ - Analista de Controle Interno (SEFAZ RJ)/2012/
+
+60 Foram obtidas as seguintes informações de uma determinada empresa:
+
+                               Grupos de Contas 01.01.2011 31.12.2011
+                               Ativo Circulante   R$ 7.000 R$ 15.850
+                               Passivo Circulante R$ 3.800 R$ 8.200
+
+Com esses dados, pode-se afirmar que o Capital Circulante Líquido apresentou a seguinte variação:
+
+a) negativa no montante de R$ 4.450.
+
+b) positiva no montante de R$ 3.200
+
+c) positiva no montante de R$ 4.450
+
+d) negativa no montante de R$ 7.650
+
+e) negativa no montante de R$ 8.850
+
+FCC - Analista Judiciário (TRT 6ª Região)/Administrativa/Contabilidade/2012/
+
+61 A partir da análise das demonstrações financeiras da empresa AGA, obteve-se os seguintes indicadores:
+Grau de Endividamento (participação de capitais de terceiros em relação ao capital próprio) 200%;
+Composição do Endividamento 40%, Liquidez Corrente 1,6 e Liquidez Geral 1,0. Sabendo que o Ativo Total
+era R$ 375.000,00, o seu Ativo Circulante era, em reais,
+
+a) 240.000.
+
+
+                                                                                                     24
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+b) 160.000.
+
+c) 150.000.
+
+d) 125.000.
+
+e) 100.000.
+
+FCC - Técnico Judiciário (TRF 4ª Região)/Apoio Especializado/Contabilidade/2014/
+
+62 Com base no Balanço Patrimonial de 31/12/2013 de uma empresa, foram obtidas as seguintes
+informações:
+
+− Índice de liquidez corrente = 2,0.
+
+− Grau de concentração da dívida no curto prazo = 60%.
+
+− Passivo Não Circulante = R$ 120.000,00.
+
+− Ativo Não Circulante = R$ 174.000,00.
+
+Sabendo-se que o Patrimônio Líquido da empresa, em 31/12/2012, era R$ 200.000,00, que não houve
+aumento de Capital nem distribuição de dividendos durante o ano de 2013, e que ainda não foi realizada a
+distribuição do resultado obtido em 2013, o Resultado Líquido obtido pela empresa em 2013, foi, em reais,
+
+a) 34.000,00 (Lucro).
+
+b) 32.300,00 (Lucro).
+
+c) 24.225,00 (Lucro).
+
+d) 46.000,00 (Prejuízo).
+
+e) 46.000,00 (Lucro).
+
+CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2011
+
+                                                                                                      25
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+63 Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a
+entrega na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após
+receber a matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+a) endividamento de longo prazo na sua estrutura de capital
+
+b) prazo médio de estocagem de matérias-primas
+
+c) prazo médio de processamento das matérias-primas na fabricação dos produtos
+
+d) tempo médio de transporte dos produtos até o comprador
+
+e) adiantamentos pagos a alguns de seus fornecedores
+
+VUNESP - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2001
+
+Dados extraídos do Balanço Patrimonial da Cia. Transamérica em 31.12.X0:
+
+                                        ATIVO CIRCULANTE         R$
+                                       Disponível             30.000,00
+                                       Clientes              250.000,00
+                                       Estoques              180.000,00
+                                       PASSIVO CIRCULANTE        R$
+                                       Fornecedores          150.000,00
+                                       Impostos a Pagar       40.000,00
+                                       Salários a Pagar       60.000,00
+                                       Empréstimos Bancários  90.000,00
+
+64 Com base nessas informações, o Investimento Operacional em Giro (IOG) da companhia é, em R$
+
+a) nulo.
+
+b) 90.000,00.
+
+c) 180.000,00.
+
+d) 210.000,00.
+
+e) 250.000,00.
+
+
+                                                                                                          26
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+FCC - Analista Judiciário (TRT 4ª Região)/Apoio Especializado/Economia/2006/
+
+65 Considere os seguintes dados extraídos do Balanço Patrimonial da Cia. ABC (em R$):
+
+                                        Ativo Circulante
+                                                                                          12.000,00
+                     Disponível .000,00
+                     Aplicações Financeiras .000,00
+                     Duplicatas a Receber .000,00
+                     Estoques .000,00
+                     Impostos a Recuperar ......................................
+                                       Passivo Circulante
+                                                                                       97.000,00
+                      Fornecedores .000,00
+                      Salários a Pagar.000,00
+                      Dividendos a Pagar .000,00
+                      Empréstimos bancários.000,00
+                      Impostos a Recolher ........................................
+
+A Necessidade Líquida de Capital de Giro (ou Necessidade de Investimento em Giro) da companhia monta
+(em R$) a
+
+a) 74.000,00
+
+b) 62.000,00
+
+c) 56.000,00
+
+d) 38.000,00
+
+e) 30.000,00 negativos
+
+FUNRIO - Analista Técnico-Administrativo (MJ)/2009/
+
+66 Uma empresa apresenta, em seu balanço patrimonial, ativo circulante de $ 32.000, dos quais $ 17.000
+são ativos operacionais. Seu passivo circulante é de $ 30.000, dos quais $ 14.000 são passivos financeiros.
+Em relação a essa empresa, pode-se afirmar que
+
+a) seu capital circulante líquido é de $ 5.000.
+
+                                                                                                        27
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+b) sua necessidade de capital de giro é de $ 1.000.
+
+c) sua necessidade de capital de giro é de $ 3.000.
+
+d) seu capital de giro próprio é de $ 15.000.
+
+e) seu capital circulante líquido e necessidade de capital de giro são de $ 2.000.
+
+FUNDATEC - Auditor do Estado (CAGE RS)/2014/
+
+67 Dentro da Teoria de Análise Dinâmica de Capital de Giro, podemos definir a Necessidade de Capital de
+Giro (NCG) a partir da seguinte fórmula:
+
+a) Clientes + Estoques – Adiantamento a Fornecedores
+
+b) Clientes + Adiantamentos de Clientes – Fornecedores
+
+c) Clientes + Estoques – Fornecedores
+
+d) Clientes + Adiantamentos de Fornecedores + Fornecedores
+
+e) Clientes – Estoques + Fornecedores
+
+FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015/
+
+68 Uma empresa possui necessidade de capital de giro negativa quando:
+
+a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+
+b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente caixa;
+
+c) o fluxo de caixa operacional é inferior ao financeiro;
+
+d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de fornecedores;
+
+e) as aplicações de recursos são superiores às origens de recursos.
+
+FBC - Bacharel em Ciências Contábeis (CFC)/2º Exame de Suficiência/2015
+                                                                                                         28
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+69 Uma Sociedade Comercial informa que o seu ciclo operacional é, em média, de 50 dias; o prazo médio
+de rotação de estoque é de 20 dias; o prazo médio de recebimento é de 30 dias; e o prazo médio de
+pagamento dos fornecedores é de 15 dias.
+
+Com base nos dados apresentados, assinale a opção CORRETA.
+
+a) Como o ciclo operacional da empresa é, em média, de 50 dias, e o prazo médio de recebimento é de 30
+dias, a empresa permanece, em média, 20 dias sem cobertura de fontes operacionais.
+
+b) Como o ciclo operacional da empresa é, em média, de 50 dias, o prazo médio de recebimento é de 30
+dias, e o prazo de pagamento de fornecedores é de 15 dias, a empresa permanece, em média, 5 dias sem
+cobertura de fontes operacionais.
+
+c) Como o prazo de rotação de estoque conjugado com o de recebimento das vendas ocorrerá, em média,
+35 dias depois do prazo médio de pagamento dos fornecedores, a empresa permanece, em média, 35 dias
+sem cobertura de fontes operacionais.
+
+d) Como o prazo de rotação de estoque conjugado com o de recebimento das vendas ocorrerá, em média,
+em 30 dias, e o prazo médio de pagamento de fornecedores é de 15 dias, a empresa permanece, em média,
+15 dias sem cobertura de fontes operacionais.
+
+AOCP - Técnico em Desenvolvimento (BADESUL)/Economista/2010
+
+70 Preencha as lacunas abaixo e, em seguida, assinale a alternativa correta.
+
+Os ativos circulantes, comumente chamados de _____, representam a proporção do investimento total da
+empresa que circula, de uma forma para outra, na condução normal das operações. Os balanços
+patrimoniais fornecem dados para cálculo da sua necessidade. Ela constitui-se no fundamento básico da(o)
+______ de uma empresa. Pela análise de seus elementos patrimoniais são identificados os prazos
+operacionais, o volume de recursos permanentes (longo prazo) que se encontra financiando o giro e as
+necessidades de investimento operacional. A(o) ______ é a diferença entre o Ativo Circulante Operacional
+e o Passivo Circulante Operacional, sendo que este último, à medida que vai sendo realizado, é substituído
+por outro ativo de mesma natureza, para manter o nível das atividades de operações.
+
+a) elementos fundamentais para análise das demonstrações financeiras / Índices-padrão / análise através de
+índices
+
+b) fontes de financiamento / estrutura de capital / modelo de avaliação de empresas
+
+c) fontes de numerário / planejamento financeiro / fonte de comprometimento de solvência da empresa
+
+                                                                                                       29
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+d) exigências de financiamento resultantes do ciclo de conversão de caixa / técnica de análise / capital de
+giro próprio
+
+e) capital de giro / avaliação do equilíbrio financeiro / necessidade líquida de capital de giro
+
+CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2007
+
+71 Dados extraídos das demonstrações contábeis da Cia. Ômega S/A.
+
+                               Contas                 2005       2006
+                               Caixa                 25.000,00 45.000,00
+                               Bancos               105.000,00 155.000,00
+                               Duplicatas a Receber 150.000,00 310.000,00
+                               Estoques             200.000,00 350.000,00
+                               Ativo Circulante     480.000,00 860.000,00
+
+                               Empréstimos a Pagar 75.000,00 100.000,00
+                               Fornecedores          160.000,00 200.000,00
+                               Obrigações tributárias 62.500,00 100.000,00
+                               Obrigações sociais     82.500,00 100.000,00
+                               Passivo Circulante    380.000,00 500.000,00
+
+Com base nos dados acima, pode-se afirmar que a variação da Necessidade de Capital de Giro – NCG entre
+2005 e 2006 alcançou, em reais, o montante de
+
+a) 45.000,00
+
+b) 95.000,00
+
+c) 215.000,00
+
+d) 260.000,00
+
+e) 310.000,00
+
+ESAF – MF Analista de Finanças e Controle/2013
+
+                                                                                                        30
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+72 Levando-se em consideração o quadro a seguir, a alavancagem operacional, financeira e combinada são,
+respectivamente:
+
+a) 4,00; 1,50; 5,50
+
+b) 5,00; 1,30; 5,00
+
+c) 6,00; 3,00; 4,50
+
+d) 1,20; 5,00; 6,00
+
+e) 4,50; 3,00; 6,00
+
+CESPE – TCU/2013
+
+73 O grau de alavancagem financeira é a razão entre a taxa de retorno sobre o investimento e a de retorno
+sobre o ativo:
+
+Certo
+
+Errado
+
+
+                                                                                                      31
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+CESGRANRIO – BNDES/2013
+
+74 A maioria das empresas utiliza capital de terceiros em suas estruturas de capital, a fim de conseguir uma
+maior alavancagem financeira.
+
+Isso se deve, dentre outros motivos, ao fato de:
+
+A) o custo médio ponderado de capital ser cada vez menor quanto mais capital de terceiros a empresa tiver
+em sua estrutura de capital.
+
+B) o serviço da dívida com relação ao capital de terceiros ser lançado contabilmente na DRE da empresa
+antes do cálculo do imposto de renda.
+
+C) o capital próprio sempre receber sua remuneração antes da remuneração do capital de terceiros.
+
+D) a remuneração pela utilização do capital próprio, via dividendos, ser lançada contabilmente na DRE da
+empresa, antes do cálculo do imposto de renda.
+
+E) as empresas não possuírem restrição de capital para realizarem todos os seus projetos.
+
+                                                                                                         32
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                          QUESTÕES COMENTADAS COM GABARITO
+
+As respostas estão associadas ao número das questões do capítulo anterior, com comentários logo a seguir.
+
+Prova: CESPE 2004 – Certo ou Errado
+
+Com relação à administração financeira e orçamentária nas empresas, julgue os itens a seguir.
+
+1 O orçamento estático, elaborado apenas para o nível planejado de atividade, é inadequado para a
+avaliação de eficiência do controle de custos. Se a atividade real for maior que a planejada, os custos
+variáveis devem ser superiores aos estimados; se for menor, devem ser inferiores.
+
+CERTO
+
+Aproveitamos essa questão para complementar o material sobre orçamento empresarial (nem todos os livros
+trazem essa divisão):
+
+Orçamento Estático
+
+É baseado nos resultados de um único planejamento, uma única atividade, uma vez que é elaborado, não muda,
+fica estático, parado, permanece sem alterações desde seu princípio. É um tipo de orçamento não se ajusta a
+mudanças.
+
+Aplica-se a funções administrativas básicas altamente previsíveis. Ou seja, como é fácil de prever, não há
+porque apresentar mudanças. O orçamento de manutenção de impressoras, por exemplo, pode ser fechado com
+exatidão (terceirizado).
+
+Orçamento Flexível
+
+Tem origem na década de 70, na Alemanha por Kilger e Plaut (GPK), englobando dois princípios básicos:
+controle e cálculo de custo por produto e a diversificação entre custos fixos e variáveis. É um orçamento
+financeiro-contábil essencialmente.
+
+                                                                                                        33
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Serve para que a empresa calcule com precisão sua capacidade produtiva e possa prever os custos para os vários
+níveis de atividades. É eficaz apenas quando a empresa consegue calcular o que cada empregado produz, e/ou
+o que cada equipamento produz etc. Outros parâmetros também podem ser utilizados como produção/metro
+quadrado, produção/número de boxes (oficina) etc..
+
+Aplica-se a empresas industriais, com relação clara entre produção e parâmetros produtivos dos insumos
+(máquinas, homem-hora, eletricidade etc.).
+
+Orçamento Rolling ou Contínuo
+
+Na verdade, diz respeito à técnica de contínua verificação e atualização do orçamento, avaliação de todos os
+pontos, certos e errados, subdimensionados ou superdimensionados. Cobre um período de 12 meses, podendo
+ser subdividido em meses, bimestres, trimestres etc..
+
+Esse orçamento é útil para empresas que produzem artigos com ciclo de vida bem curto, com pouca
+previsibilidade, dessa forma evita-se “consertar” o orçamento em prazos dilatados (como anual).
+
+Orçamento Beyond Budgeting
+
+Foi criado por um grupo de empresas em 1998, quando renunciaram o orçamento tradicional e apostaram na
+flexibilidade e descentralização dos setores e unidades de negócio.
+
+Tem como objetivo promover um ambiente de trabalho favorável e mais livre (menos hierarquia). Promove a
+autogestão a uma cultura organizacional focada em distribuição de responsabilidades, buscando formatar uma
+cadeia de motivação, produtividade e melhor atendimento aos clientes. Estimula a formação de líderes setorias.
+Os orçamentos individuais são dinâmicos, mas o orçamento global é projetado a médio e longo prazo.
+
+Sua maior aplicação se dá em empresas modernas e dinâmicas, em que há necessidade de tomada de decisões
+em nível micro. Empresas industriais engessadas, com processos predefinidos e soluções de engenharia de
+produção precisas NÃO poderiam usar esse modelo de orçamentação.
+
+Orçamento Ajustado
+
+Refere-se apenas à técnica de, a partir do orçamento aprovado, para o ano atual ou anterior, modifica-lo para
+se ajustar a novas condições, premissas ou estratégias.
+
+Orçamento Base Zero (OBZ)
+
+Data da década de 1960, no Departamento de Agricultura dos Estados Unidos, porém sua formalização e
+implementação ocorreu somente na década de 1970, com a implementação na Divisão de Assessoria e Pesquisa
+da Texas Instruments.
+
+
+                                                                                                           34
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+É uma abordagem para planejamento e orçamentação que busca inverter a lógica tradicional de orçamentação.
+Na orçamentação tradicional é utilizada uma abordagem incremental, na qual os gestores setoriais ou das
+unidades orçamentárias (unidades de negócios) justificam apenas as variações em relação aos anos anteriores,
+baseados na suposição de que o baseline dos está implicitamente aprovado.
+
+É como se o orçamento de marketing, por exemplo, não precisasse ser justificado novamente de forma integral,
+apenas as mudanças deveriam ser justificadas.
+
+No orçamento base zero, cada item do orçamento precisa ser explicitamente aprovado DE NOVO, a cada
+orçamento, e não apenas as alterações em relação ao ano anterior.
+
+Durante o processo orçamentação, nenhuma referência é feita ao nível de despesas do ano anterior.
+
+O processo de orçamento base zero requer que a solicitação orçamentária seja revisada e avaliada
+completamente, a partir de uma "base zero".
+
+2 Os custos indiretos fixos, para efeito de análise das variações entre os valores reais e os orçados, devem
+ser expressos e analisados em forma unitária ou horária, relacionando-os à variação de volume dentro da
+faixa relevante de atividade.
+
+ERRADO
+
+Não faz sentido que custos FIXOS sejam relacionados a volumes de produção.
+
+3 A variação de gasto do custo indireto variável é útil apenas se as horas efetivamente trabalhadas forem
+realmente o direcionador do custo. Como a influência do preço nessa variação geralmente é pequena, o
+grau de eficiência com que são consumidos os recursos terá peso maior.
+
+CERTO
+
+O que se quer aqui é saber se o aluno entende que só devemos apropriar o custo indireto variável, se realmente
+for relevante para o custo global, pois normalmente esses custos indiretos são bem pequenos em relação ao
+custo global.
+
+No que tange às modernas técnicas de administração financeira, julgue os itens seguintes.
+
+                                                                                                           35
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+4 O planejamento financeiro permite evidenciar as necessidades de expansão da empresa, bem como
+identificar eventuais desajustes futuros. Possibilita também a seleção, com maior margem de segurança,
+dos ativos mais rentáveis e adequados aos negócios da empresa, de forma a otimizar a rentabilidade sobre
+os investimentos.
+
+CERTO
+
+A afirmativa é puro bom senso.
+
+5 O nível e a importância do capital de giro variam em função das características de atuação de cada
+empresa, do desempenho da conjuntura econômica e da relação entre risco e rentabilidade desejada.
+
+CERTO
+
+Também é bom senso. É claro que o capital de giro vai depender do tipo de negócio e dos objetivos de risco e
+retorno.
+
+6 Em qualquer ramo empresarial, os itens circulantes, quando comparados aos ativos fixos, apresentam
+sempre maior rentabilidade e menor divisibilidade. Essas características justificam o constante aporte de
+capital na manutenção de um elevado capital de giro.
+
+ERRADO
+
+É o contrário do bom senso. Não há qualquer justificativa para crer que qualquer ramo empresarial terá as
+mesmas condições e necessidades de capital de giro. Além disso, não há porque afirmar que os ativos circulantes
+tenham menos divisibilidade (normalmente são mais numerosos que os ativos fixos).
+
+7 Uma das fontes de financiamento de longo prazo à disposição das empresas é a subscrição pública de suas
+ações por uma instituição financeira não-bancária, visando à colocação posterior dessas ações no mercado
+acionário do tipo residual (standby), operação em que a instituição financeira não se responsabiliza, no
+momento do lançamento, pela integralização do total das ações emitidas, mas compromete-se a fazê-lo
+após um período de negociação das novas ações, caso o mercado não as absorva integralmente.
+
+CERTO
+
+Aproveitamos para complementar o material.
+
+
+                                                                                                            36
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+A atividade de underwriting é aquela em que instituições financeiras buscam investidores para subscreverem as
+ações a serem emitidas pelas empresas que querem se capitalizar.
+
+Há três formas básicas de contratos de subscrição (underwriting):
+
+Melhores esforços ou “best efforts”, é quando a instituição financeira contratada se compromete a realizar
+os melhores esforços para a colocação dos títulos emitidos pela empresa junto ao mercado.
+
+Não há garantias de colocação por parte do intermediário financeiro. A empresa corre o risco de não conseguir
+aumentar o seu capital no montante pretendido, uma vez que assume todos os riscos do lançamento.
+
+Normalmente o que acontece é que o preço estipulado no prospecto de lançamento, se ficar alto demais
+(verificado no processo de bookbuilding, ou seja, a avaliação do interesse de investidores institucionais nas
+ações), a instituição pode indicar que é necessário baixar o preço. Se a empresa aceitar, a colocação continua,
+se recusar, retira-se a oferta.
+
+Underwriting de stand-by é a subscrição em que a instituição financeira se compromete a colocar as sobras
+junto ao público em determinado espaço de tempo, após o qual ela mesmo subscreve o total das ações não
+colocadas. Decorrido o prazo, o risco de mercado é do intermediário financeiro.
+
+É comum quando o apetite do mercado é baixo, mas o intermediário tem interesse nos papéis, mas não o
+suficiente para “encarteirar” toda a oferta.
+
+Underwriting de garantia firme (straight) de colocação é o processo de subscrição em que a instituição
+financeira subscreve integralmente a emissão para revendê-la posteriormente ao público. Selecionando esta
+opção, a empresa assegura a entrada de recursos. O risco de mercado é do intermediário financeiro.
+
+É bem comum e significa que o intermediário reconhece com excelente negócio.
+
+Infelizmente, já vimos recentemente no mercado com empresas do grupo X (Eike Batista), acontece de uma
+garantia firme de subscrição, logo após a tomada de preços e interesse do mercado fracassar, ser retirada pela
+instituição financeira. É um péssimo indicador, pois pode significar que a instituição financeira apresentou a
+garantia firme de forma leviana, apenas para “forjar” uma demanda que não existia.
+
+8 O orçamento geral é o resumo dos planos da organização e estabelece metas específicas das atividades
+de venda, produção, de distribuição e financeira. É, geralmente, representado por um orçamento de caixa,
+uma demonstração de resultado orçada e um balanço patrimonial orçado.
+
+CERTO
+
+
+                                                                                                            37
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+A afirmativa está incompleta, mas não está errada, principalmente porque utiliza a palavra “geralmente”.
+
+9 Quando se emprega o orçamento flexível para avaliação de desempenho, os custos reais são comparados
+com os custos do orçamento original, o que facilita a interpretação e os ajustes entre os custos orçados e os
+custos reais.
+
+ERRADO
+
+Essa definição está mais próxima do orçamento contínuo ou ajustado. Orçamento flexível diz respeito a controle
+de custos por produto.
+
+Prova: CESPE 2007 – Certo ou Errado
+
+Acerca dos conceitos de alavancagem e das análises de demonstrações financeiras e de investimentos,
+julgue os próximos itens.
+
+10 As demonstrações financeiras reúnem informações de curto e de longo prazos da empresa, as quais
+podem ser analisadas separadamente ou integrar um sistema de informação gerencial.
+
+CERTO
+
+Puro bom senso e nenhuma informação equivocada.
+
+11 A estimativa do fluxo de caixa de um projeto a ser implantado é uma das etapas da análise de
+investimentos.
+
+CERTO
+
+Evidente, como vimos, a estimativa de fluxo de caixa do projeto é uma etapa (a mais importante) da análise de
+investimentos.
+
+12 A alavancagem financeira é representada pelo uso de ativos operacionais, com custos e despesas fixas,
+com o objetivo de se garantir aos acionistas o retorno.
+
+ERRADO
+
+                                                                                                           38
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Alavancagem financeira é estrutura de capital, uso de capital de terceiros, nada a ver com uso de ativos
+operacionais.
+
+13 Para que se possa calcular o valor presente de determinada opção de investimento, deve-se determinar
+a taxa de desconto a ser utilizada, a qual é definida em função do custo do capital e do risco.
+
+CERTO
+
+14 A análise das demonstrações financeiras é realizada a partir do balanço social da empresa, o qual
+apresenta bens, direitos, obrigações e capital dos proprietários no encerramento de cada exercício.
+
+ERRADO
+
+É realizada a partir do balanço e da DRE.
+
+A respeito de planejamento financeiro, administração do capital de giro e fontes de financiamento de longo
+prazo, julgue os itens que se seguem.
+
+15 O uso de capital de terceiros, que consiste na utilização de recursos externos sob a forma de
+endividamento, é uma das formas de se realizar financiamento de longo prazo.
+
+CERTO
+
+Sim, juntamente com o capital próprio.
+
+16 No Brasil, a concessão de financiamento de longo prazo é atribuída aos bancos de desenvolvimento,
+como o BNDES, sendo vedada a participação de bancos comerciais nesse segmento financeiro.
+
+ERRADO
+
+17     A administração do capital de giro consiste no conjunto de tarefas relacionadas ao planejamento
+financeiro de longo prazo da empresa.
+
+
+                                                                                                       39
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+ERRADO
+
+Capital de giro é curto prazo, contas circulantes do balanço.
+
+18 O planejamento financeiro de longo prazo deve refletir os objetivos traçados no planejamento
+estratégico da empresa.
+
+CERTO
+
+Perfeito, foi o que vimos em orçamento empresarial.
+
+19 A gestão e a projeção do orçamento de caixa para períodos inferiores a um ano inserem-se no âmbito do
+planejamento financeiro de curto prazo.
+
+CERTO
+
+Por definição, se está se referindo a períodos inferiores a um ano, é tratado como circulante.
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+20 Ao final de cada exercício social, uma empresa efetua análise das variações de seu orçamento planejado
+e o efetivamente realizado naquele ano. No último ano, a empresa apresentou o seguinte quadro
+comparativo:
+
+Analisando-se as variações de preço e de volume a partir do demonstrativo, conclui-se que a(o)
+
+(A) variação do preço de venda foi desfavorável em R$ 2,00 por unidade.
+
+                                                                                                      40
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(B) variação do custo variável unitário foi favorável em R$ 5,00 por unidade.
+
+(C) variação dos custos fixos foram desfavoráveis em R$ 1.000,00 no total.
+
+(D) margem de contribuição unitária aumentou em R$ 3,00 por unidade.
+
+(E) volume de venda isoladamente aumentou o resultado em R$ 2.000,00.
+
+A) está errada, pois o preço de venda efetivo foi de R$ 8,00 por unidade, contra R$ 7,00 previsto
+
+B) está errada, pois o custo foi o mesmo, R$ 5,00 por unidade (não houve variação).
+
+C) Está certa, pois o custo previsto era de 6.000, ficamos em 7.000, o que, do ponto de vista de custo, é
+DESFAVORÁVEL.
+
+D) A margem de contribuição subiu de R$ 2 para R$ 3.
+
+E) o volume de venda não pode ter contribuído isoladamente para o aumento do resultado, pois o volume
+diminuiu. Quem contribuiu foi o aumento do preço.
+
+21 Uma empresa industrial consegue obter um lucro operacional de R$ 200.000,00 mantendo uma
+produção de 10.000 unidades. Sabendo-se que sua margem de contribuição unitária é de ¼ do preço, qual
+o valor médio estimado, em reais, do custo variável unitário do produto?
+
+(A) R$ 20,00
+
+(B) R$ 40,00
+
+(C) R$ 50,00
+
+(D) R$ 60,00
+
+(E) R$ 80,00
+
+Margem de contribuição = (Preço – CMV) x QTD.
+
+Margem% = (Preço – CMV)/Preço; 0,25xP = P – CMV; P = CMV/0,75.
+
+200.000 = 10.000x(CMV/0,75-CMV)
+
+20 = 0,33333xCMV
+
+
+                                                                                                      41
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+CMV=60
+
+Prova: CESGRANRIO 2011 – MÚLTIPLA ESCOLHA
+
+Considere as informações dos Balanços Patrimoniais e a Demonstração de Resultados da Empresa XisY
+publicados em 31 de março de 2011, em milhares de reais, para responder às questões de nos 59, 60 e 61.
+
+Balanço Patrimonial da Empresa XisY em 31 de dezembro de 2009 e 2010
+
+                                                                                                    42
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+22 Sabendo-se que 20% de todas as vendas são realizadas à vista e as demais a prazo, qual o ciclo
+operacional (aproximado), em dias, da empresa XisY?
+
+(A) 70
+
+(B) 81
+
+(C) 90
+
+(D) 101
+
+(E) 111
+
+                                                       𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                 𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                              𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                           2.100
+                                   𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =                  = 8,4
+                                                                            250
+
+                                             𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (365 𝑑𝑖𝑎𝑠)
+          𝑃𝑒𝑟í𝑜𝑑𝑜 𝑀é𝑑𝑖𝑜 𝑛𝑜 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 =                                              = 𝐴𝑝𝑟𝑜𝑥 43 𝑑𝑖𝑎𝑠
+                                                       𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (8,4)
+
+                                                                                                    43
+          Receita Federal (Analista Tributário) Administração Financeira
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Para calcular o período do contas a receber, precisamos entender que há DOIS componentes das vendas, o
+componente a prazo, que aumenta o período do contas a receber, e o componente à vista, que tem contribuição
+ZERO para esse período.
+
+Como o enunciado diz que 80% das vendas são a prazo, temos que, dos 2.540 vendidos, 20% tem entrada
+IMEDIATA, ou seja, prazo ZERO, e 80% (R$ 2.032) contribuem para o período do contas a receber.
+
+                                                                             𝑉𝑒𝑛𝑑𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+         𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =
+                                                                     𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑟𝑒𝑐𝑒𝑏𝑒𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                               2.032
+                     𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =                  = 7,81
+                                                                                260
+
+                                             𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (365 𝑑𝑖𝑎𝑠)
+     𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑅𝑒𝑐𝑒𝑏𝑖𝑚𝑒𝑛𝑡𝑜 =                                                 = 𝐴𝑝𝑟𝑜𝑥 46,7 𝑑𝑖𝑎𝑠
+                                                 𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠 (7,81)
+
+             𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+                            𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 43 + 46,7 = 90 𝑑𝑖𝑎𝑠 𝑎𝑝𝑟𝑜𝑥
+
+23 Qual é, aproximadamente, o ciclo de caixa da empresa XisY, em dias?
+
+(A) 38
+
+(B) 42
+
+(C) 48
+
+(D) 52
+
+(E) 56
+
+                                                                    Custos da Merc Vendida no período
+            Turnover Contas a Pagar(giro das obrigações) =
+                                                                     contas a pagar médio no período
+
+                                                                              2.100
+                       Turnover Contas a Pagar(giro das obrigações) =               = 7,64
+                                                                               275
+
+                                             Número de dias no período (365 dias)
+          Prazo Médio de Pagamento =                                              = Aprox 48 dias
+                                                Turnover Obrigações (7,64)
+
+                                                                                                         44
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+O ciclo de caixa é o ciclo operacional (90), menos o prazo de pgto (48)=42
+
+24 Você está preparando o planejamento da receita de vendas de sua empresa e pede para um estagiário
+preparar um gráfico com as vendas mensais dos últimos 3 anos para utilizá-lo em seu modelo de previsão
+de vendas. O gráfico abaixo representa essa solicitação.
+
+Quais os tipos de componentes dessa série temporal que podem ser observados no gráfico?
+
+(A) Ciclicidade e média estacionária
+
+(B) Tendência e média estacionária
+
+(C) Sazonalidade e ciclicidade
+
+(D) Tendência e ciclicidade
+
+(E) Tendência e sazonalidade
+
+Aproveitamos para complementar o material das aulas.
+
+Os componentes básicos de uma série temporal são:
+
+Tendência = Procura captar elementos de longo prazo que influenciam a evolução do dado observado com o
+tempo. Pode ser uma tendência de queda, de alta ou de estagnação.
+
+                                                                                                   45
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Ciclicidade – Mostra se a evolução dos dados ao longo do tempo apresenta retorno à média ou à linha de
+tendência. Caso haja oscilações evidentes em torno da linha de tendência, há ciclicidade temporal nos
+resultados.
+
+Sazonalidade – Procura identificar fatores regulares e recorrentes na série ao longo do tempo. Não é reversão à
+média, pois a ciclicidade é algo que pode acontecer SEM algum fator regular identificável.
+
+Componentes aleatórios, que não apresentam regularidade estatística calculável ou observável.
+
+A séries podem ser: Estacionárias (ou convergentes) ou Não-estacionárias (e divergentes).
+
+Séries convergentes são aquelas que flutuam ao longo de uma mesma média ao longo do tempo.
+
+Séries divergentes são aquelas que não convergem para a média ao longo do tempo.
+
+No caso analisado, não podemos tratar como série estacionária, pois evidentemente os pontos (ver máximos e
+mínimos) estão com tendência de alta.
+
+Não é ciclicidade, mas sim sazonalidade, pois os pontos de máximo e mínimo ocorrem em intervalos regulares
+(de 12 períodos).
+
+Portanto, letra E.
+
+Prova: CESGRANRIO 2014 – MÚLTIPLA ESCOLHA
+
+25 O orçamento empresarial pode ser entendido como a expressão quantitativa de um plano de ação futuro
+da administração para um determinado período. O processo de orçamento empresarial pode utilizar-se de
+algumas abordagens, como, por exemplo, a “Beyond Budgeting”, que possui algumas características
+marcantes.
+
+Uma dessas características é
+
+(A) apresentar metas fixas para os gestores.
+
+(B) apresentar um processo decisório centralizado.
+
+(C) desestimular as equipes a assumirem riscos.
+
+(D) ser semelhante ao orçamento tradicional.
+
+(E) prover os recursos quando forem necessários.
+
+                                                                                                            46
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Ver questão anterior.
+
+26 Alguns ativos e passivos circulantes do Balanço Patrimonial de uma empresa possuem características
+específicas que os identificam como sendo contas patrimoniais operacionais. O capital de giro operacional
+líquido de uma empresa não costuma ser constante, podendo variar, por exemplo, mensalmente.
+
+Quanto à variação mensal do capital de giro operacional líquido, sendo não nula, no mês em análise, ela
+sempre
+
+(A) implicará novos financiamentos.
+
+(B) implicará novos investimentos.
+
+(C) impactará o caixa da empresa.
+
+(D) resultará em um valor positivo.
+
+(E) resultará em um valor negativo.
+
+𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = (𝑐𝑎𝑖𝑥𝑎 + 𝑜𝑢𝑡𝑟𝑜𝑠 𝑎𝑡𝑖𝑣𝑜𝑠 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒𝑠 𝑂𝐴𝐶) − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+Não é possível afirmar que implicará em novos financiamentos (mais caixa) ou novos investimentos (menos
+caixa).
+
+Não é possível avaliar se haverá um valor positivo ou negativo.
+
+Mas se há variação do CCL, há variação no caixa.
+
+Um aumento nos financiamentos (passivo circulante) pode gerar caixa ou novos ativos circulantes. Num
+primeiro momento não muda o CCL.
+
+Uma redução nos financiamentos implica mudança no caixa, pois não se paga dívida com outros ativos
+normalmente. Uma redução nos outros ativos circulantes normalmente gera caixa, pois significa venda.
+
+De qualquer forma, os itens a, b, d e e, não são respostas possíveis.
+
+Prova: CESPE 2001 – Certo ou Errado
+
+                                                                                                      47
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Considerando os dados apresentados no quadro acima, referentes a uma empresa que tem um único
+produto em linha de produção, julgue os itens a seguir.
+
+27 Aumentando a sua produção até o limite da capacidade instalada (500.000 unidades) e mantendo o preço
+atual, o lucro bruto da companhia seria elevado para um valor superior a R$ 520.000,00.
+
+CERTO
+
+Sim, irá para 525.000. Receita – CMV – Fixos
+
+500.000x(4,00-2,35)-300.000 = 525.000
+
+28 Caso as 200.000 unidades adicionais fossem vendidas a R$ 2,50, não haveria aumento do lucro bruto da
+companhia, em relação à situação inicial.
+
+ERRADO
+
+Com certeza haveria, pois ainda assim estaria vendendo acima dos 2,35. Perceba que estamos falando APENAS
+das unidades adicionais.
+
+29 O preço de venda de equilíbrio (lucro bruto igual a zero), utilizando a capacidade total, é igual a R$ 2,95.
+
+CERTO
+
+Para lucro bruto = zero teríamos:
+
+(preço – 2,35)x500.000=300.000; preço - 2,35 = 0,60, logo p = 2,95. Essa é uma matéria de administração da
+produção e de custos.
+
+30 O ponto de equilíbrio, ao preço de venda de R$ 4,00, está entre 200.000 e 220.000 unidades.
+
+ERRADO
+
+                                                                                                            48
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Ao preço de R$ 4,00 a margem de contribuição por produto é de R$ 1,65 ( R$ 4,00 – R$ 2,35).
+
+300.000/1,65 = 181 mil unidades.
+
+31 Caso recebesse proposta para colocação das 200.000 unidades que cabem na sua capacidade de
+produção, ao preço de R$ 2,65, a empresa não deveria aceitar, porque cairia o lucro bruto.
+
+ERRADO
+
+Mesmo lógica da anterior, como já vendemos 300.000 a R$ 4,00, os adicionais, se houver margem de
+contribuição unitária positiva, sempre farão o lucro bruto crescer, pois os custos fixos já estão pagos.
+
+Prova: CESGRANRIO 2006 – MÚLTIPLA ESCOLHA
+
+32 Obtiveram-se da Cia. Mega S/A as seguintes informações, considerando o ano de 360 dias:
+
+• Rotação de duplicatas a receber: 12 vezes
+
+• Rotação de fornecedores: 24 vezes
+
+• Rotação de estoques: 8 vezes
+
+Com base nesses dados, o ciclo de caixa da empresa, em dias, é de:
+
+(A) 44
+
+(B) 45
+
+(C) 60
+
+(D) 75
+
+(E) 90.
+
+Vamos trabalhar com o ano comercial de 360 dias, para facilitar.
+
+O prazo de realização dos estoques será 360/8= 45 dias.
+
+Prazo de pagamento a fornecedores = 360/24 = 15 dias
+
+
+                                                                                                     49
+          Receita Federal (Analista Tributário) Administração Financeira
+          www.estrategiaconcursos.com.br
+
+                                       
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Prazo de recebimento = 360/12=30 dias
+
+Ciclo de caixa = 45 + 30 – 15 = 60 dias.
+
+33 A Cia. Progresso S/A, durante o período de planejamento orçamentário para o exercício de 2006,
+recolheu as seguintes informações do exercício de 2005, para poder projetar o custo total de mão-de-obra:
+
+• Total de horas de máquina utilizadas 60.000 HM
+
+• Custo total de mão-de-obra para R$ 250.000,00
+
+• Parte fixa do custo de mão-de-obra R$ 40.000,00
+
+Considerando-se que uma das premissas do orçamento é o aumento de vendas e, conseqüentemente, de
+produção, a empresa passará a consumir 80.000 horas de máquina.
+
+Com base nos dados acima, pode-se afirmar que o custo total, em reais, de mão-de-obra para 80.000 horas
+de máquina será de:
+
+(A) 260.000,00
+
+(B) 280.000,00
+
+(C) 290.000,00
+
+(D) 320.000,00
+
+(E) 350.000,00
+
+Primeiro precisamos descobrir a parte variável do custo de mão de obra, que é R$ 210.000 (R$ 250.000 – parte
+fixa R$ 40.000).
+
+O aumento proporcional na parte variável é de 80/60, que, multiplicado por 210.000 dará 280.000.
+
+Adicionamos a isso, novamente, o custo fixo e teremos R$ 320.000 (280.000 + 40.000).
+
+34 A Cia. Piratininga S/A trabalha com previsão orçamentária trimestral. Para o 1o trimestre de 2006, foram
+projetados os valores de vendas abaixo.
+
+                                                                                                         50
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+As vendas da empresa são feitas 60% à vista e 40% a prazo. As vendas a prazo são cobradas no mês seguinte
+ao das vendas e as duplicatas a receber no dia 31 de dezembro de 2005 só refletem a parcela a receber das
+vendas feitas em dezembro, no valor de R$ 40.000,00.
+
+As contas não recebidas são desprezíveis e devem ser desconsideradas.
+
+Em decorrência, a previsão de entrada de caixa proveniente das vendas, para o mês de janeiro de 2005, foi,
+em reais, de:
+
+(A) 36.000,00
+
+(B) 38.000,00
+
+(C) 44.000,00
+
+(D) 46.000,00
+
+(E) 50.000,00
+
+É uma questão confusa, pois não temos certeza se os R$ 40.000 são as vendas totais de dezembro ou a parcela
+vendida a prazo.
+
+Mas, se fizermos as duas opções, veremos que a banca considera que os 40.000 são o total de vendas em
+dezembro, portanto 40% disso será recebido em janeiro (vendas a prazo). Estamos falando de 16.000.
+
+Adicione-se isso a previsão de vendas à vista em janeiro, 60% de 50.000 = 30.000, teremos a resposta.
+
+35 O principal objetivo da existência das Bolsas de Valores é:
+
+(A) proporcionar liquidez aos títulos.
+
+(B) proporcionar às empresas a possibilidade de vender partes beneficiárias.
+
+(C) comprar e vender debêntures emitidas pelas instituições financeiras.
+
+(D) permitir que as empresas obtenham capitais de terceiros a baixo custo.
+
+                                                                                                        51
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(E) realizar operações de compra e venda de moeda estrangeira.
+
+B) A legislação de cias abertas brasileiras nem permite mais a emissão de partes beneficiárias.
+
+C) A bolsa não tem função de comprar e vender nada, ela é apenas um ambiente de negociação. Instituições
+financeiras lançam letras financeiras, não debêntures.
+
+D) Bolsa é onde se negociam, principalmente, ações, portanto, estamos falando de capital próprio.
+
+D) Bolsas de valores negociam contratos futuros de moeda, a negociação maior de moedas é feita pelas
+autoridades monetárias.
+
+A) A principal função de uma bolsa é REALMENTE dar liquidez aos títulos que por lá transacionam. A emissão
+primária, captação primária, seria muito fraca se não houvesse negociação em bolsa. O comprador do título
+teria que ficar com ele até o vencimento.
+
+36 Quando uma Sociedade Anônima pretende lançar novas ações, precisa contratar uma instituição
+financeira para realizar essa subscrição. As principais formas de subscrição pública de ações (underwriting)
+realizadas pelas instituições financeiras são:
+
+(A) integral, diferencial e complementar.
+
+(B) puro ou firme, stand by ou residual e melhor esforço.
+
+(C) junk bond, meridional e melhor performance.
+
+(D) task risk, principal ou proporcional e estrutural ou sunk coast.
+
+(E) básico ou primário, secundário e fatorial ou split.
+
+Ver questão anterior (administrador jr.), para complementar o material sobre processo de underwriting.
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+37 A Ação Indústria de Aços Ltda produz parafusos e porcas de aço de uma polegada, de alta resistência,
+com as mesmas máquinas, matéria-prima e mão de obra, nas seguintes condições:
+
+                                                                                                         52
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Com o mercado aquecido e com o aumento das obras de grande porte que utilizam esse tipo de parafuso e
+porca, a empresa percebeu existir uma grande possibilidade de negócios e resolveu aceitar a oferta de
+porcas, ao custo de R$ 1,05 por unidade, feita por outra indústria que só produz as porcas, com qualidade
+idêntica à da sua produção.
+
+Considerando exclusivamente as informações acima e desconsiderando a incidência de qualquer tipo de
+imposto, o resultado mensal previsto pela empresa Ação, comprando as porcas e aproveitando a
+capacidade instalada para produzir somente os parafusos, em reais, é
+
+(A) 360.000,00
+
+(B) 507.000,00
+
+(C) 545.000,00
+
+(D) 592.000,00
+
+(E) 630.000,00
+
+Também é uma questão mais de administração da produção do que de orçamento, mas vale como exemplo.
+
+Primeiro é necessário ver quantos parafusos conseguiríamos fazer utilizando o maquinário que sobrou das
+porcas.
+
+Gastamos 800.000x24 minutos de máquinas = 19.200.000 minuto-máquina.
+
+Precisamos de 32 minutos para fazer um parafuso, portanto basta dividir aquela quantidade “ociosa” de
+minuto-máquina.
+
+Teríamos, portanto, capacidade de produzir 600.000 parafusos.
+
+Total da produção 1.400.000 parafusos. Receita será isso vezes o preço de venda do conjunto de porcas e
+parafusos (R$ 4,00).
+
+Total = R$ 5.600.000
+
+
+                                                                                                      53
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+O CMV seria 1.400.000 VEZES o custo total de parafuso e porca (terceirizada) (R$ 2,50 + R$ 1,05) = R$ 4.970.000
+
+A margem de contribuição seria R$ 630.000 e o lucro bruto (reduzindo 85.000 dos custos fixos) = R$ 545.000
+
+Prova: CESGRANRIO 2010 – MÚLTIPLA ESCOLHA
+
+38 A Cia. Planaltina S/A apresentou as seguintes demonstrações contábeis em 31/12/2009:
+
+Sabendo-se que a empresa utiliza a alavancagem financeira como ferramenta de avaliação do desempenho
+operacional e desconsiderando-se qualquer efeito inflacionário na avaliação, o Grau de Alavancagem
+Financeira (GAF) da empresa no exercício foi de
+
+(A) 1,55
+
+(B) 1,49
+
+(C) 1,38
+
+(D) 1,13
+
+(E) 1,10
+
+Questão aparentemente simples, mas esconde uma pegadinha. A despesa com juros tem que ser líquida de IR.
+
+Como os 300.000 reduzem a base de cálculo do imposto (35%) o impacto líquido da despesa financeira no lucro
+líquido é de apenas 65% (195.000).
+
+                                                                     𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+       𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑓𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =
+                                                       𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑙í𝑞𝑢𝑖𝑑𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠
+
+                                                                                                             54
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                                                                      1.700.000
+                   𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑓𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =                                  = 1,13
+                                                                 1.700.000 − 195.000
+
+Prova: CESGRANRIO 2011 – MÚLTIPLA ESCOLHA
+
+39 No estudo da alavancagem financeira, a fórmula para se calcular o ROA (Retorno sobre o Ativo Total)
+divide o lucro antes dos encargos financeiros sobre o ativo total.
+
+Tal fato ocorre porque, no conceito de administração financeira, o lucro antes dos encargos financeiros
+representa a(o)
+
+(A) geração bruta de caixa obtida pela diferença entre as receitas geradas pelas operações e as despesas
+operacionais e não operacionais.
+
+(B) geração de recursos oriundos das operações que não transitam em resultado.
+
+(C) valor gerado pela empresa no período, quer seja operacional, quer seja de outra fonte.
+
+(D) valor efetivo que os ativos conseguem gerar, independentemente da forma como são financiados.
+
+(E) lucro antes dos juros, da depreciação, da amortização e do imposto de renda, isto é, O EBTIDA.
+
+Ao retirar os efeitos líquidos das despesas financeiras, estamos RETIRANDO os efeitos da forma de
+financiamento desses ativos. Isso é útil para sabermos o retorno ANTES da influência da estrutura de capital.
+
+Prova: CESGRANRIO 2014 – MÚLTIPLA ESCOLHA
+
+40 Os orçamentos financeiros são as últimas peças orçamentárias a serem elaboradas num orçamento
+empresarial, qualquer que seja seu nível de detalhamento. O orçamento da demonstração do resultado é
+fundamentado nos orçamentos operacionais de vendas, produção e despesas, o mesmo ocorrendo com o
+orçamento de caixa, que projeta as entradas e saídas dos fluxos financeiros de uma empresa e permite
+tentar conhecer esses fluxos tanto no curto prazo, como no longo prazo.
+
+Uma das finalidades básicas do orçamento de caixa é a de
+
+(A) analisar o retorno dos investimentos financeiros.
+
+(B) determinar a validade das políticas de investimento.
+
+                                                                                                          55
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(C) estabelecer bases sólidas para a política de crédito.
+
+(D) evidenciar o fluxo de caixa operacional e financeiro.
+
+(E) fundamentar os controles e a análise orçamentária.
+
+A) O orçamento de caixa não se presta a análise de retorno dos investimentos financeiros,
+
+B) Não é função do orçamento de caixa definir política de investimento.
+
+D) O fluxo de caixa operacional e financeiro são identificados no orçamento empresarial, na DRE projetada.
+
+E) Esse item é muito genérico.
+
+C) a política de crédito tem a ver com recebíveis, que é um item sensível no orçamento de caixa. É a opção que
+melhor se encaixa.
+
+41 Desejando participar de uma proposta para a realização de um determinado serviço, a Companhia Q S/A
+levantou os seguintes dados, em reais, retirados do balancete de verificação, levantado em novembro/2013:
+
+Desconto concedido por pagamento antecipado 9.600,00
+
+Despesas administrativas e comerciais                              157.400,00
+
+Lucro Bruto                                                        181.400,00
+
+Passivo Exigível                                                            60.000,00
+
+Patrimônio líquido                                                 40.000,00
+
+Considerando exclusivamente os dados fornecidos, as normas contábeis para elaboração das
+demonstrações contábeis e a boa técnica de análise financeira, o grau de alavancagem financeira da
+Companhia Q S/A é de
+
+(A) 1,21
+
+(B) 1,50
+
+(C) 1,67
+
+(D) 2,50
+
+
+                                                                                                             56
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(E) 2,77
+
+Questão complicada, pois permite o uso de várias abordagens.
+
+Lucro Bruto                                                          181.400,00
+- Despesas administrativas e comerciais                              157.400,00
+LAJIR                                                                 24.000,00
+- Despesa financeira, desconto comercial                               9.600,00
+LAIR                                                                  14.400,00
+
+                                                                           24.000
+                         𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝑓𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =                             = 1,67
+                                                                       24.000 − 9.600
+
+NÃO É ESSE O GABARITO.
+
+O problema dessa solução é que utilizamos uma premissa que não está no enunciado, que é o IR igual a zero. Se
+houvesse IR, teríamos que utilizar a receita financeira líquida de IR.
+
+Como o enunciado é claro, devemos usar exclusivamente os dados fornecidos, deve ser por isso que essa
+resposta está errada.
+
+                                                                                𝑅𝑂𝐸
+                                    𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =
+                                                                                𝑅𝑂𝐴
+
+Sem tributos (IR) teríamos Lucro Líquido = LAIR = 14.400.
+
+ROE = 14.400/40.000 = 0,36
+
+ROA = 14.400/(ativo total = 100.000)=0,144
+
+                                                                             0,36
+                                𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =                   = 2,5
+                                                                             0,144
+
+Também não é a resposta, e também assumimos 2 premissas, que não havia IR que todo o ativo é operacional.
+
+Há uma abordagem (mais completa) que calcula o ROI em vez do ROA.
+
+O ROI seria = NOPAT (lucro operacional menos IR)/Ativos.
+
+O NOPAT seria (24.000 – IR (que estamos considerando zero))/100.000
+
+Não há informação sobre ativo operacional.
+
+O ROI seria 0,24.
+
+
+                                                                                                          57
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Nessa abordagem temos o
+
+                                                                          0,36
+                              𝐺𝑟𝑎𝑢 𝑑𝑒 𝐴𝑙𝑎𝑣𝑎𝑛𝑐𝑎𝑔𝑒𝑚 𝐹𝑖𝑛𝑎𝑛𝑐𝑒𝑖𝑟𝑎 =                 = 1,5
+                                                                          0,24
+
+Que é o gabarito.
+
+Outra abordagem, que não faz qualquer inferência sobre o IR é considerar que a banca queria medir o índice de
+alavancagem financeira (debt/equity ratio), que daria 1,5 também 60.000/40.000.
+
+Normalmente as bancas não colocam 2 ou 3 respostas que podem ser obtidas por diferentes abordagens.
+Infelizmente aconteceu nessa prova.
+
+UFG – Administrador Ano 2015
+
+42 Os fluxos de caixa operacionais de uma empresa são as entradas e saídas relacionadas diretamente à
+produção e venda de seus produtos. Assim, fazem parte desse fluxo:
+
+(A) imposto de renda e salários a pagar.
+
+(B) vendas de ações e pagamentos de dividendos em dinheiro.
+
+(C) ativos imobilizados e participações societárias.
+
+(D) recompra de ações e duplicatas a receber.
+
+A resposta da banca é razoavelmente controversa, pois o imposto de renda não deveria fazer parte do fluxo
+operacional, uma vez que depende de lucro tributável e de não haver prejuízos acumulados.
+
+Salários a pagar pode fazer parte, se estiverem relacionados à operação.
+
+Ocorre que as outras opções não têm nenhuma relação com a operação da empresa. Vendas e recompras de
+ações, ativos imobilizados e participações societárias, além de pagamentos em dinheiro.
+
+Duplicatas a receber até tem a ver, mas recompra de ações não.
+
+Como o imposto de renda representa uma saída de caixa, a banca pode ter entendido que fazia parte do fluxo
+operacional.
+
+                                                                                                          58
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+A única opção viável é A, apesar de estar bem fora dos padrões do ensino de finanças no Brasil e no mundo.
+
+43 No mercado de capitais, o título que “realiza distribuição periódica de lucros aos acionistas de uma
+determinada organização” é o seguinte:
+
+(A) ação preferencial.
+
+(B) ação ordinária.
+
+(C) dividendos.
+
+(D) títulos de dívida.
+
+Outra questão mal formulada. Título, em finanças, representa contrato com direitos. Aparentemente a banca
+trata título apenas como denominação de algo.
+
+Nesse caso, “aquilo” que realiza distribuição periódica de lucros é mesmo o dividendo.
+
+As ações também poderiam distribuir lucros, mas ambas distribuem, o que nos faz entender que não poderiam
+ser ações. E títulos de dívida distribuem juros e não lucros.
+
+44 O controle financeiro é um método de controle administrativo. Uma abordagem eficaz para avaliar o
+desempenho total de uma empresa é utilizar índices financeiros importantes que ajudam a indicar possíveis
+pontos fortes e fracos. O índice que demonstra a quantia relativa de fundos na empresa fornecidos por
+credores a acionistas é o índice de
+
+(A) liquidez.
+
+(B) alavancagem.
+
+(C) percepção.
+
+(D) resultados.
+
+Índice de liquidez diz respeito à capacidade de pagamento, mas é exclusivamente relacionada a ativos e
+passivos.
+
+Índice de percepção não existe.
+
+                                                                                                             59
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Índice de resultados dizem respeito à lucratividade e retorno.
+
+A resposta precisa seria índice de endividamento, pois relaciona a quantidade de fundos fornecidos por credores
+(passivo) e acionistas (patrimônio líquido).
+
+Não há essa opção. Como sabemos que alavancagem está associada a quanto tomamos de dívida, em relação
+ao que temos de capital próprio, sobra essa opção.
+
+UFG – Administrador - Ano 2010
+
+45 Ao se considerar a continuidade de uma empresa, seu valor e as decisões do administrador financeiro
+devem ser avaliados à luz de fluxos de caixa presentes e futuros. Assim, na busca de taxas de retorno
+positivas sobre os fundos, pode-se considerar que:
+
+(A) o tempo dos fluxos de caixa tem importantes consequências econômicas para a tomada de decisão.
+
+(B) as técnicas do valor futuro e do valor presente consideram as mesmas perspectivas, porém resultando
+em decisões diferentes.
+
+(C) o dinheiro tem valor no tempo, por isso os fluxos de caixa associados com um investimento devem ser
+medidos em instantes de tempo diferentes.
+
+(D) a técnica do valor futuro utiliza o valor composto para descontar os fluxos de caixa, enquanto a técnica
+do valor presente utiliza a capitalização para encontrar o seu valor atual.
+O item B não tem nenhuma relação com a questão, a busca por taxas de retornos positivas, portanto, ainda que
+não tenha nenhum erro evidente, está fora do contexto.
+
+O item C está errado, nós precisamos trazer todos os fluxos a valor presente, portanto, no mesmo período.
+
+O item D está errado, a técnica do valor presente utiliza o desconto e não a capitalização.
+
+O item A diz que o momento em que entram ou saem os recursos é de fundamental importância para a análise,
+o que está correto.
+
+46 Conforme entendimento de Sanvicente (1995, p. 120), “dentre as aplicações de fundos por uma empresa,
+uma parcela ponderável destina-se ao que, alternativamente, podemos chamar de ativos correntes, ativos
+circulantes, ou capital de giro”. Em geral, esses ativos compreendem:
+
+                                                                                                            60
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+(A) o capital da empresa que circula até transformar-se em dinheiro dentro de um ciclo de operações que
+tem prazo determinado , sem a necessidade de se considerar a natureza das operações.
+
+(B) os saldos mantidos por uma empresa nas contas disponibilidades, investimentos temporários,
+contas a receber e estoques.
+
+(C) os saldos de curto prazo existentes, que também podem ser vistos como investimentos necessários,
+podendo assim serem comparados com investimentos em ativos imobilizados no que se refere à frequência
+do planejamento e controle.
+
+(D) os investimentos relacionados principalmente com as vendas, disponíveis nas contas a receber,
+possibilitando uma maior frequência de operações, a previsão de flutuações de necessidades de caixa e
+custos de obtenção mais baixos.
+É a definição básica de ativo circulante, aquele que já é ou vai virar liquidez em até 1 ano (realizado, tornado
+caixa). É o caso das disponibilidades, dos estoques, dos investimentos temporários (de curto prazo) e do contas
+a receber.
+
+No item A, o capital da empresa está no Patrimônio Líquido (capital social). Há outro erro ao afirmar eu o giro
+não leva em consideração a natureza das operações.
+
+No item C temos vários erros, o mais grave é comparar os ativos de curto prazo, que estão descritos no
+enunciado, com ativos imobilizados.
+
+No item D nada faz sentido. Investimentos nas vendas disponíveis nas contas a receber é puro non sense.
+
+47 Dentre os princípios básicos do capital de giro, segundo Sanvicente (1995), destacam-se:
+
+(A) o problema da liquidez dos ativos correntes da empresa, em face da composição dos prazos de
+vencimento de suas dívidas e o conflito entre liquidez e rentabilidade.
+
+(B) a concentração de esforços da empresa para manter sua liquidez, por meio da aplicação de recursos em
+ativos correntes, que vão resultar em um aumento da rentabilidade dos investimentos e o aumento do risco
+em relação ao porte operacional da empresa.
+
+(C) os dilemas enfrentados, nos casos de disponibilidades e estoques e na manutenção dos saldos excessivos
+com custos mais baixos ou saldos insuficientes com custos maiores e a conciliação entre rentabilidade e
+manutenção de saldos elevados.
+
+(D) as atitudes da administração em relação à falta de fundos, que é uma questão de conciliação entre o
+ganho (rentabilidade) e o aumento de saldos necessários para garantia quanto ao problema de insuficiência
+
+                                                                                                             61
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+de fundos.
+O Item B perde o sentido quando fala do aumento de risco em relação ao porte operacional da empresa. O porte
+operacional da empresa não é relevante para as estratégias de capital de giro. São as mesmas.
+
+O Item C confunde as coisas. Os dilemas estão errados. Saldos excessivos não têm custos mais baixos, ao
+contrário, tem custos mais altos, assim como saldos insuficientes não tem custos maiores, mas menores. O
+dilema é entre o saldo excessivo que GERA custo e o saldo insuficiente que gera perda de receita.
+
+No Item D temos outro problema. A atitude de administrar capital de giro não é conciliar rentabilidade e
+aumento de saldos, mas identificar o investimento mínimo necessário para a operação da empresa, uma vez
+que excesso de capital de giro pode significar perda para a empresa, pois sua atividade operacional, em tese, é
+a que remunera melhor seus ativos.
+
+O Item a traz questões comuns da gestão de capital de giro. A liquidez dos ativos correntes diz respeito a quando
+se tornarão caixa, o que deverá ser confrontado com os prazos de vencimento dos passivos, para evitar
+descasamento. E também é o caso de gerir o conflito entre liquidez e rentabilidade. Como já dissemos, um
+excesso de liquidez (estoques grandes demais, caixa grande demais etc.) deve trazer remuneração menor do
+que a da operação. Dinheiro parado gera menos do que na operação. Por isso devemos deixar a liquidez no
+patamar ideal para não perder rentabilidade.
+
+UFG – Administrador - Ano 2009
+
+48 A necessidade da atuação do administrador financeiro ocorre porque, independentemente do segmento
+de atuação, em toda entidade, há um constante fluxo de recursos financeiros. Especificamente quanto a
+função gestão do caixa, o administrador financeiro deve
+
+(A) normatizar os critérios a serem seguidos para conceder prazo de pagamento aos clientes.
+
+(B) avaliar constantemente o fluxo de pagamentos e recebimentos que a empresa possui.
+
+(C) atuar de modo a otimizar o resultado do período.
+
+(D) adotar procedimentos que facultem planejar a necessidade, ou disponibilidade, de capital da empresa
+ao longo de um período qualquer.
+
+A normatização faz parte da política de crédito da empresa, mas não é função de gestor de caixa.
+
+A função do gestor de caixa é exatamente fazer o fluxo de pagamentos e recebimentos, item B.
+
+O resultado do período é fruto de políticas de vendas e de redução de custos.
+
+                                                                                                              62
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Buscar disponibilidade de recursos de longo prazo, por exemplo, não é função da gestão de caixa.
+
+49 Cabe ao administrador financeiro de uma empresa obter recursos requeridos para saldar as obrigações
+quando não há saldo de caixa suficiente ou para propiciar capital adicional para expandir os negócios. Esta
+atuação relaciona-se à função de:
+
+(A) administração da cobrança.
+
+(B) gestão de custos e preço.
+
+(C) captação de recursos.
+
+(D) decisão de investimento.
+
+Buscar saldo de curto prazo é gestão de caixa, buscar saldo para investimentos de longo prazo é gestão de
+capital, ambas são funções do administrador financeiro.
+
+Obviamente a captação de recursos é a função relacionada à busca por esses saldos (de curto ou de longo
+prazos).
+
+UFG - Assistente em Administração Ano 2018
+
+50 A administração financeira, no contexto empresarial, tem como função típica a tomada de decisão que
+defina a melhor estrutura de ativos da organização. Essa função está relacionada
+
+(A) ao controle financeiro.
+
+(B) à análise e ao planejamento financeiros.
+
+(C) à tomada de decisões de investimento.
+
+(D) à tomada de decisões de financiamentos.
+
+Estrutura de ativos diz respeito aos investimentos que serão feitos. Estrutura de passivos e patrimônio (estrutura
+de capital) diz respeito aos financiamentos que serão tomados.
+
+A resposta direta é C.
+
+                                                                                                               63
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+UFG – Administrador - Ano 2015
+
+51 Faz parte do passivo circulante, em um balanço patrimonial, o seguinte:
+
+(A) ações preferenciais.
+
+(B) lucros retidos.
+
+(C) móveis e utensílios.
+
+(D) títulos a pagar
+
+Ações e lucros retidos são contas do Patrimônio Líquido. Móveis e utensílios do ativo imobilizado.
+
+O único item que diz respeito a passivos é D.
+
+52 Faz parte da demonstração de resultado do exercício o seguinte:
+
+(A) lucro bruto (+ despesas operacionais).
+
+(B) lucro antes de impostos (+ imposto de renda e contribuição social).
+
+(C) lucro operacional (+ receitas não operacionais; - despesas não operacionais).
+
+(D) receita bruta de venda de bens e serviços (+ impostos sobre vendas; + descontos comerciais e
+abatimentos).
+A lógica para resolver essa questão é olhar para o sinal.
+
+No item A após o Lucro bruto não somamos despesas operacionais, subtraímos.
+
+No B após o LAIR não somamos o IR, mas subtraímos.
+
+No C após o lucro operacional nós somamos as receitas não operacionais e subtraímos as despesas não
+operacionais.
+
+No D após a receita bruta de vendas nós não somamos impostos e descontos, mas subtraímos.
+
+                                                                                                     64
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+IFMT – UFMT – Assistente de Administração Ano 2008
+
+53 No livro Pai rico, pai pobre de Augusto Cury, o autor afirma que uma das principais causas das dificuldades
+financeiras está associada ao desconhecimento da diferença entre Ativo e Passivo. Sobre o assunto, assinale
+a afirmativa correta.
+
+A) Passivo corresponde ao conjunto de bens e direitos de propriedade da empresa.
+
+B) Passivo corresponde às dívidas que serão recebidas pela empresa.
+
+C) Ativo corresponde às obrigações exigíveis da empresa.
+
+D) Ativo corresponde ao conjunto de bens e direitos de propriedade da empresa.
+
+E) Ativo corresponde às vantagens concedidas às empresas impossibilitadas de pagar suas dívidas no prazo
+contratado.
+
+Passivo refere-se a obrigações e não a bens ou dívidas que serão recebidas pela empresa.
+
+Ativo diz respeito aos bens e direitos da sociedade, não às obrigações.
+
+O item E não faz sentido.
+
+54 A distribuição dos lucros é feita com base no:
+
+a) Lucro líquido.
+
+b) Lucro tributável.
+
+c) Resultado operacional.
+
+d) Lucro bruto.
+
+e) Lucro operacional.
+
+Lucro tributável é base para IR. Resultado (lucro) operacional e lucro bruto não podem ser base de distribuição,
+pois há ainda outras obrigações a pagar.
+
+O lucro líquido está no final da demonstração de resultados e é a base pra cálculo de dividendos. (A rigor, pela
+lei brasileira, é o lucro líquido ajustado segundo o artigo 202 da LSA).
+
+                                                                                                             65
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+55 A finalidade da Contabilidade é:
+
+a) Registrar, de acordo com o mecanismo de escrituração contábil, todos os eventos em uma empresa.
+
+b) Determinar e implementar o processo de escrituração contábil mais adequado à empresa.
+
+c) Proporcionar à administração, e aos demais interessados, informações relevantes para a tomada de
+decisão.
+
+d) Elaborar o plano de contas que será utilizado na escrituração contábil, bem como proceder à classificação
+e escrituração dos eventos.
+
+e) Implementar o plano de contas e escriturar os eventos.
+
+Todos os itens errados dizem respeito a atividades MEIO, da forma como se contabiliza.
+
+A FINALIDADE é fornecer informações à administração e ao mercado.
+
+IFMT – UFMT – Administrador Ano 2014
+
+56 Em edital de concorrência pública, havia exigência de Índice de Liquidez Corrente igual ou superior a 1,2
+para habilitação de licitante. Ao se deparar com essa informação, um Assistente em Administração realizou
+análise financeira dos balanços patrimoniais apresentados, objetivando verificar a saúde financeira das
+empresas que participavam da licitação. O que indica a Liquidez Corrente, sob a perspectiva da
+Administração Financeira?
+
+A] Quanto das dívidas de curto prazo poderia ser resgatado, caso a empresa lançasse mão apenas de seus
+ativos de maior liquidez.
+
+B] Quanto a empresa possui em bens e direitos de curto prazo para cada um real de obrigações vencíveis
+no curto prazo.
+
+C] Porcentagem das dívidas de curto prazo que pode ser quitada por suas disponibilidades financeiras.
+
+D] Porcentagem de ativo permanente que não está em utilização nas atividades finalísticas da empresa.
+Liquidez = ativo circulante / passivo circulante, ou seja, indica quanto a empresa possui de bens e direitos de
+curto prazo para cada real de obrigações exigíveis em um ano.
+
+                                                                                                            66
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Liquidez de 1,2 significa que a empresa tem R$ 1,20 de direitos de curto prazo para cada R$ 1,00 de obrigações
+de curto prazo.
+
+ESAF - Analista Técnico da SUSEP/Controle e Fiscalização - Atuária/2006
+
+57 A empresa Orizonina Metais S/A elaborou seu balanço com os seguintes dados contábeis, referentes ao
+exercício de 2005, cujos valores são aqui apresentados ao lado dos saldos anteriores:
+
+Finalizada sua elaboração, as demonstrações financeiras foram submetidas ao processo de análise contábil
+possibilitando de sua leitura a conclusão de que:
+
+a) a liquidez geral da empresa demonstra capacidade de pagamento de 71% das dívidas já assumidas.
+
+b) a liquidez corrente não alcança a cobertura de metade das dívidas de curto prazo.
+
+c) a rentabilidade líquida alcançada no período foi, exatamente, um terço da rentabilidade bruta.
+
+d) o capital de giro líquido, em 31 de dezembro, é positivo em 29% das obrigações a pagar, no exercício
+seguinte ao balanço.
+
+e) o grau de imobilização do capital alcança 70% do patrimônio bruto.
+
+ Demonstração do Resultado do Exercício
+                – DRE (R$)
+ Receita de Vendas               9.000
+ Custo das Mercadorias Vendidas  -6.000
+
+                                                                                                           67
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+ lucro bruto                                      3.000
+ Desp ADM                                         -1.300
+ Depreciação no período                             -200
+ Desp Financeiras                                   -500
+ Lucro Líquido                                    1.000
+
+                                                Balanço
+ Ativo Circulante                                2.260 Passivo Circulante                      3.200
+ Caixa                                              260 Fornecedores                              700
+ Títulos a Receber                                  500 Empréstimos Bancários                   2.500
+ Mercadorias                                      1.500
+                                                        Passivo Exigível a LP                   400
+                                                        Títulos a Pagar a LP                    400
+ Ativo Não Circulante                            5.040
+ Realizável a LP                                   600 Patrimônio Líquido                      3.700
+ Títulos a Receber a LP                             600 Capital Social                          3.000
+                                                        Reservas de Lucro                         500
+ Imobilizado                                     4.440 Lucros Acumulados                         200
+ Móveis e Utensílios                              4.800
+ (-) Depreciação Acumulada                         -360
+
+ Total do Ativo                                   7.300 Total do Passivo + PL                  7.300
+
+a) A liquidez geral divide o Ativo circulante + Realizável a LP pelo Passivo Exigível total.
+
+                                                    2.260 + 600
+                                            𝐼𝐿𝐺 =               = 79%
+                                                    3200 + 400
+
+b) Alcança mais da metade.
+
+                                                        2.260
+                                                𝐼𝐿𝐶 =         = 70%
+                                                        3200
+
+c) É exatamente 1/3.
+
+                                                                   3.000
+                                      𝑅𝑒𝑛𝑡𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒 𝑏𝑟𝑢𝑡𝑎 =              = 1/3
+                                                                   9.000
+
+                                                                    1.000
+                                     𝑅𝑒𝑛𝑡𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑎 =              = 1/9
+                                                                    9.000
+
+                                                                                                        68
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+d) O CGL é negativo.
+
+                              𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 = 2.260 − 3.200 = −940
+
+e) Não existe patrimônio bruto nos conceitos contábeis, se estiver se referindo ao Ativo Total (patrimônio
+integral), seria o seguinte:
+
+                                                                          4.440
+                               𝐺𝑟𝑎𝑢 𝑑𝑒 𝐼𝑚𝑜𝑏𝑖𝑙𝑖𝑧𝑎çã𝑜 𝑑𝑜 𝐴𝑡𝑖𝑣𝑜 =                  = 60%
+                                                                          7.300
+
+CESPE - Perito Criminal Federal/Área 1/1997
+
+58 A análise de balanços pode ser vista como a arte de saber extrair relações úteis, para o objetivo
+econômico que se pretenda, dos relatórios contábeis tradicionais e de suas extensões e detalhamentos, se
+for o caso. Há autores que consideram a análise de balanços uma arte, pois, embora existam alguns cálculos
+razoavelmente formalizados, não existe forma científica ou metodologicamente comprovada de relacionar
+os índices de maneira a obter um diagnóstico preciso. Ou, melhor dizendo, cada analista poderia, com o
+mesmo conjunto de informações e de quocientes, chegar a conclusões ligeira ou completamente
+diferenciadas. É provável, todavia que dois analistas experimentados, conhecendo igualmente bem o ramo
+de atividade da empresa, cheguem a conclusões bastante parecidas (mas nunca idênticas) sobre a situação
+atual da empresa, embora quase sempre apontem tendências diferentes, pelo menos em grau, para o
+empreendimento. Os problemas começam a surgir da sintetização das várias informações dispersas, pois,
+em pontos ou em quocientes isolados, é mais fácil haver certeza de conclusão ou opinião técnica. Acerca de
+tal assunto, julgue o item que se segue.
+
+A elevada rentabilidade de uma empresa combinada com o aumento da sua situação líquida circulante,
+pode explicar uma boa situação econômica e uma situação financeira ruim.
+
+Certo
+
+Errado
+
+Tanto a situação econômica (rentabilidade alta) quanto a financeira (alta liquidez) são boas. Situação líquida
+circulante é um termo que não existe, mas é óbvio que se refere à liquidez, não importa se CGL, ILC etc.
+
+CESPE - Analista Judiciário (TRE RJ) /Administrativa/ Contabilidade/2012
+
+                                                                                                           69
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+59 A elaboração de indicadores tem por finalidade avaliar o desempenho de determinada entidade a partir
+de diferentes critérios. Em relação a essa matéria, julgue o item subsequente.
+
+Se determinada empresa realizou um empréstimo para a construção de uma nova sede corporativa, seu
+indicador de giro operacional não será diretamente influenciado pela referida operação.
+
+Certo
+
+Errado
+
+O empréstimo para a sede não tem influência operacional direta, pois estamos falando de investimento em
+áreas não ligadas à produção (sede).
+
+CEPERJ - Analista de Controle Interno (SEFAZ RJ)/2012/
+
+60 Foram obtidas as seguintes informações de uma determinada empresa:
+
+                               Grupos de Contas 01.01.2011 31.12.2011
+                               Ativo Circulante   R$ 7.000 R$ 15.850
+                               Passivo Circulante R$ 3.800 R$ 8.200
+
+Com esses dados, pode-se afirmar que o Capital Circulante Líquido apresentou a seguinte variação:
+
+a) negativa no montante de R$ 4.450.
+
+b) positiva no montante de R$ 3.200
+
+c) positiva no montante de R$ 4.450
+
+d) negativa no montante de R$ 7.650
+
+e) negativa no montante de R$ 8.850
+
+                          𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑖𝑛𝑖𝑐𝑖𝑎𝑙 = 7.000 − 3.800 = 3.200
+
+                          𝑐𝑎𝑝𝑖𝑡𝑎𝑙 𝑑𝑒 𝑔𝑖𝑟𝑜 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑓𝑖𝑛𝑎𝑙 = 15.850 − 8.200 = 7.650
+
+                                                                                                    70
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Variou positivamente (cresceu) R$ 4.450 no período.
+
+FCC - Analista Judiciário (TRT 6ª Região)/Administrativa/Contabilidade/2012/
+
+61 A partir da análise das demonstrações financeiras da empresa AGA, obteve-se os seguintes indicadores:
+Grau de Endividamento (participação de capitais de terceiros em relação ao capital próprio) 200%;
+Composição do Endividamento 40%, Liquidez Corrente 1,6 e Liquidez Geral 1,0. Sabendo que o Ativo Total
+era R$ 375.000,00, o seu Ativo Circulante era, em reais,
+
+a) 240.000.
+
+b) 160.000.
+
+c) 150.000.
+
+d) 125.000.
+
+e) 100.000.
+
+O índice de endividamento padrão, definido pela CVM na ICVM 480/09, não é o que o enunciado trata, ele divide
+o passivo exigível pelo ativo total, no caso, o enunciado trata da divisão entre capital de terceiros e capital
+próprio.
+
+Porém, como o enunciado já deu a fórmula podemos seguir sem problemas.
+
+                                                         𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                              𝐿𝑖𝑞𝑢𝑖𝑑𝑒𝑧 𝐶𝑜𝑟𝑟𝑒𝑛𝑡𝑒 =                          = 1,6
+                                                        𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+                                 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 1,6𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+                                                               𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+                    𝐶𝑜𝑚𝑝𝑜𝑠𝑖çã𝑜 𝑑𝑜 𝑒𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 =                                    = 0,4
+                                                              𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+                                             𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑅𝑒𝑎𝑙𝑖𝑧á𝑣𝑒𝑙 𝑎 𝐿𝑃
+                       𝐿𝑖𝑞𝑢𝑖𝑑𝑒𝑧 𝐺𝑒𝑟𝑎𝑙 =                                         = 1,0
+                                                   𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐸𝑥𝑖𝑔í𝑣𝑒𝑙 𝑇𝑜𝑡𝑎𝑙
+
+                                                                𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙
+                              𝐺𝑟𝑎𝑢 𝑑𝑒 𝐸𝑛𝑑𝑖𝑣𝑖𝑑𝑎𝑚𝑒𝑛𝑡𝑜 =                          =2
+                                                               𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜
+
+                                      𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 2𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜
+
+                                                                                                            71
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                     𝐴𝑡𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 2𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 + 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 = 375.000
+
+                                          𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝑃𝑟ó𝑝𝑟𝑖𝑜 = 125.000
+
+                                            𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑇𝑜𝑡𝑎𝑙 = 250.000
+
+                               𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 250.000𝑥0,4 = 100.000
+
+                                𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 = 100.000𝑥1,6 = 160.000
+
+FCC - Técnico Judiciário (TRF 4ª Região)/Apoio Especializado/Contabilidade/2014/
+
+62 Com base no Balanço Patrimonial de 31/12/2013 de uma empresa, foram obtidas as seguintes
+informações:
+
+− Índice de liquidez corrente = 2,0.
+
+− Grau de concentração da dívida no curto prazo = 60%.
+
+− Passivo Não Circulante = R$ 120.000,00.
+
+− Ativo Não Circulante = R$ 174.000,00.
+
+Sabendo-se que o Patrimônio Líquido da empresa, em 31/12/2012, era R$ 200.000,00, que não houve
+aumento de Capital nem distribuição de dividendos durante o ano de 2013, e que ainda não foi realizada a
+distribuição do resultado obtido em 2013, o Resultado Líquido obtido pela empresa em 2013, foi, em reais,
+
+a) 34.000,00 (Lucro).
+
+b) 32.300,00 (Lucro).
+
+c) 24.225,00 (Lucro).
+
+d) 46.000,00 (Prejuízo).
+
+e) 46.000,00 (Lucro).
+
+Temos que o Ativo Circulante = 2 Passivo Circulante
+
+Passivo Total = 120.000 + Passivo Circulante
+
+60% do Passivo Total é Circulante, logo 0,4 é Passivo não circulante.
+
+                                                                                                      72
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+0,4PT = 120.000, logo PT = 300.000
+
+O Passivo circulante, portanto, será 180.000.
+
+O ativo circulante será, portanto, 360.000 (2xPC)
+
+O Ativo Não Circulante é 174.000, logo o Ativo Total = 534.000.
+
+O Patrimônio do ANO ANTERIOR era de 200.000 e não houve aumento de capital.
+
+Logo, ao final de 2013 teríamos um PL + Passivo de 200.000 + 300.000 + Lucro do exercício.
+
+Como PL + Passivo tem que ser igual ao Ativo Total, temos que o lucro é:
+
+534.000 – 500.000 = 34.000.
+
+CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2011
+
+63 Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a
+entrega na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após
+receber a matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+a) endividamento de longo prazo na sua estrutura de capital
+
+b) prazo médio de estocagem de matérias-primas
+
+c) prazo médio de processamento das matérias-primas na fabricação dos produtos
+
+d) tempo médio de transporte dos produtos até o comprador
+
+e) adiantamentos pagos a alguns de seus fornecedores
+
+A diminuição do endividamento de longo prazo reduz caixa. A diminuição dos prazos médios de estocagem e de
+processamento (reduz o ciclo do estoque) reduz o ciclo de caixa, pois ele poderá vender MAIS rápido. A
+diminuição do tempo de transportes reduz o tempo para receber, melhorando a situação de caixa e a diminuição
+de adiantamentos pagos a fornecedores mantém MAIS caixa.
+
+                                                                                                          73
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+VUNESP - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2001
+
+Dados extraídos do Balanço Patrimonial da Cia. Transamérica em 31.12.X0:
+
+                                        ATIVO CIRCULANTE         R$
+                                       Disponível             30.000,00
+                                       Clientes              250.000,00
+                                       Estoques              180.000,00
+                                       PASSIVO CIRCULANTE        R$
+                                       Fornecedores          150.000,00
+                                       Impostos a Pagar       40.000,00
+                                       Salários a Pagar       60.000,00
+                                       Empréstimos Bancários  90.000,00
+
+64 Com base nessas informações, o Investimento Operacional em Giro (IOG) da companhia é, em R$
+
+a) nulo.
+
+b) 90.000,00.
+
+c) 180.000,00.
+
+d) 210.000,00.
+
+e) 250.000,00.
+
+É uma questão que trata da NECESSIDADE LÍQUIDA de Capital de Giro Operacional (investimento operacional
+em giro). Essa conta, muito comum em finanças, exclui do Ativo Circulante e do Passivo Circulante o caixa (que
+já é líquido, portanto não estará mais relacionado à parte operacional da empresa) e recebíveis que não estão
+relacionados com a operação e do Passivo circulante os itens que não tem a ver com o financiamento direto das
+operações.
+
+Dessa forma temos:
+
+                         𝑁𝐶𝐺 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐. 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐. 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+                 𝑁𝐶𝐺 = (250.000 + 180.000) − (150.000 + 40.000 + 60.000) = 𝑅$ 180.000
+
+FCC - Analista Judiciário (TRT 4ª Região)/Apoio Especializado/Economia/2006/
+
+65 Considere os seguintes dados extraídos do Balanço Patrimonial da Cia. ABC (em R$):
+
+
+                                                                                                           74
+           Receita Federal (Analista Tributário) Administração Financeira
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+                                        Ativo Circulante
+                                                                                          12.000,00
+                     Disponível .000,00
+                     Aplicações Financeiras .000,00
+                     Duplicatas a Receber .000,00
+                     Estoques .000,00
+                     Impostos a Recuperar ......................................
+                                       Passivo Circulante
+                                                                                       97.000,00
+                      Fornecedores .000,00
+                      Salários a Pagar.000,00
+                      Dividendos a Pagar .000,00
+                      Empréstimos bancários.000,00
+                      Impostos a Recolher ........................................
+
+A Necessidade Líquida de Capital de Giro (ou Necessidade de Investimento em Giro) da companhia monta
+(em R$) a
+
+a) 74.000,00
+
+b) 62.000,00
+
+c) 56.000,00
+
+d) 38.000,00
+
+e) 30.000,00 negativos
+
+Idêntica à anterior, atentando para:
+
+Impostos a recuperar FAZ parte da operação, pois os impostos vieram de algum valor excessivo pago a partir
+das vendas.
+
+Disponível e aplicação financeira é CAIXA.
+
+Dividendos a pagar NÃO é despesa operacional, é distribuição de lucro.
+
+FUNRIO - Analista Técnico-Administrativo (MJ)/2009/
+
+66 Uma empresa apresenta, em seu balanço patrimonial, ativo circulante de $ 32.000, dos quais $ 17.000
+são ativos operacionais. Seu passivo circulante é de $ 30.000, dos quais $ 14.000 são passivos financeiros.
+Em relação a essa empresa, pode-se afirmar que
+
+                                                                                                        75
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+a) seu capital circulante líquido é de $ 5.000.
+
+b) sua necessidade de capital de giro é de $ 1.000.
+
+c) sua necessidade de capital de giro é de $ 3.000.
+
+d) seu capital de giro próprio é de $ 15.000.
+
+e) seu capital circulante líquido e necessidade de capital de giro são de $ 2.000.
+
+Mais uma vez é necessário diferenciar a parte financeira da parte operacional. A parte financeira, o capital
+circulante líquido, é AC – PC = 32.000 – 30.000 = 2.000, o que já diz que a letra A está errada.
+
+Na Letra B, temos que a parte operacional dos ativos circulantes é 17.000 e a parte operacional dos passivos
+circulantes é (R$ 30.000 – R$ 14.000) R$ 16.000, de forma que a necessidade de capital de giro líquido
+operacional é (R$ 17.000 – R$ 16.000) R$ 1.000.
+
+FUNDATEC - Auditor do Estado (CAGE RS)/2014/
+
+67 Dentro da Teoria de Análise Dinâmica de Capital de Giro, podemos definir a Necessidade de Capital de
+Giro (NCG) a partir da seguinte fórmula:
+
+a) Clientes + Estoques – Adiantamento a Fornecedores
+
+b) Clientes + Adiantamentos de Clientes – Fornecedores
+
+c) Clientes + Estoques – Fornecedores
+
+d) Clientes + Adiantamentos de Fornecedores + Fornecedores
+
+e) Clientes – Estoques + Fornecedores
+
+Ativo circulante operacional – passivo circulante operacional.
+
+Na letra A, adiantamento a fornecedores não é passivo, mas ativo (eles devem a você).
+
+Na letra B, adiantamento de clientes é PASSIVO, pois você deve a eles.
+
+Letra C correta.
+
+Na letra D está somando fornecedores, errado.
+
+
+                                                                                                         76
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Na letra E está diminuindo estoques, errado.
+
+FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015/
+
+68 Uma empresa possui necessidade de capital de giro negativa quando:
+
+a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+
+b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente caixa;
+
+c) o fluxo de caixa operacional é inferior ao financeiro;
+
+d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de
+fornecedores;
+
+e) as aplicações de recursos são superiores às origens de recursos.
+
+É fácil perceber que se recebermos no tempo de estocagem (que vai até a venda) somado ao tempo até receber
+(após a venda) e isso for MENOR que o prazo de pagamento a fornecedores, nós teremos CAIXA ANTES de ter
+que pagar o fornecedor, portanto teríamos necessidade de capital de giro negativa.
+
+FBC - Bacharel em Ciências Contábeis (CFC)/2º Exame de Suficiência/2015
+
+69 Uma Sociedade Comercial informa que o seu ciclo operacional é, em média, de 50 dias; o prazo médio
+de rotação de estoque é de 20 dias; o prazo médio de recebimento é de 30 dias; e o prazo médio de
+pagamento dos fornecedores é de 15 dias.
+
+Com base nos dados apresentados, assinale a opção CORRETA.
+
+a) Como o ciclo operacional da empresa é, em média, de 50 dias, e o prazo médio de recebimento é de 30
+dias, a empresa permanece, em média, 20 dias sem cobertura de fontes operacionais.
+
+b) Como o ciclo operacional da empresa é, em média, de 50 dias, o prazo médio de recebimento é de 30
+dias, e o prazo de pagamento de fornecedores é de 15 dias, a empresa permanece, em média, 5 dias sem
+cobertura de fontes operacionais.
+
+                                                                                                         77
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+c) Como o prazo de rotação de estoque conjugado com o de recebimento das vendas ocorrerá, em
+média, 35 dias depois do prazo médio de pagamento dos fornecedores, a empresa permanece, em
+média, 35 dias sem cobertura de fontes operacionais.
+
+d) Como o prazo de rotação de estoque conjugado com o de recebimento das vendas ocorrerá, em média,
+em 30 dias, e o prazo médio de pagamento de fornecedores é de 15 dias, a empresa permanece, em média,
+15 dias sem cobertura de fontes operacionais.
+
+O ciclo de caixa da empresa é de 35 dias. Uso direto da fórmula.
+
+AOCP - Técnico em Desenvolvimento (BADESUL)/Economista/2010
+
+70 Preencha as lacunas abaixo e, em seguida, assinale a alternativa correta.
+
+Os ativos circulantes, comumente chamados de _____, representam a proporção do investimento total da
+empresa que circula, de uma forma para outra, na condução normal das operações. Os balanços
+patrimoniais fornecem dados para cálculo da sua necessidade. Ela constitui-se no fundamento básico da(o)
+______ de uma empresa. Pela análise de seus elementos patrimoniais são identificados os prazos
+operacionais, o volume de recursos permanentes (longo prazo) que se encontra financiando o giro e as
+necessidades de investimento operacional. A(o) ______ é a diferença entre o Ativo Circulante Operacional
+e o Passivo Circulante Operacional, sendo que este último, à medida que vai sendo realizado, é substituído
+por outro ativo de mesma natureza, para manter o nível das atividades de operações.
+
+a) elementos fundamentais para análise das demonstrações financeiras / Índices-padrão / análise através de
+índices
+
+b) fontes de financiamento / estrutura de capital / modelo de avaliação de empresas
+
+c) fontes de numerário / planejamento financeiro / fonte de comprometimento de solvência da empresa
+
+d) exigências de financiamento resultantes do ciclo de conversão de caixa / técnica de análise / capital de
+giro próprio
+
+e) capital de giro / avaliação do equilíbrio financeiro / necessidade líquida de capital de giro
+
+CESGRANRIO - Profissional Básico (BNDES)/Contabilidade (Ciências Contábeis)/2007
+
+                                                                                                        78
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+71 Dados extraídos das demonstrações contábeis da Cia. Ômega S/A.
+
+                               Contas                 2005       2006
+                               Caixa                 25.000,00 45.000,00
+                               Bancos               105.000,00 155.000,00
+                               Duplicatas a Receber 150.000,00 310.000,00
+                               Estoques             200.000,00 350.000,00
+                               Ativo Circulante     480.000,00 860.000,00
+
+                               Empréstimos a Pagar 75.000,00 100.000,00
+                               Fornecedores          160.000,00 200.000,00
+                               Obrigações tributárias 62.500,00 100.000,00
+                               Obrigações sociais     82.500,00 100.000,00
+                               Passivo Circulante    380.000,00 500.000,00
+
+Com base nos dados acima, pode-se afirmar que a variação da Necessidade de Capital de Giro – NCG entre
+2005 e 2006 alcançou, em reais, o montante de
+
+a) 45.000,00
+
+b) 95.000,00
+
+c) 215.000,00
+
+d) 260.000,00
+
+e) 310.000,00
+
+O Ativo Circulante Operacional é 350 mil para 2005 e 660.000 em 2006.
+
+O Passivo Circulante Operacional deve RETIRAR os Empréstimos a Pagar (pois costumam ser a parte
+“circulante” de empréstimos de longo prazo, que nada tem a ver com capital de giro) e INCLUIR as obrigações
+tributárias e sociais, pois provavelmente têm a ver diretamente com a produção e vendas (salários, impostos
+etc.).
+
+Dessa forma o Passivo Circulante Operacional era de 305 mil em 2005 e 400 mil em 2006.
+
+A NCG de 2005 seria de 45 mil e a NCG de 2006 seria de 260 mil, portanto, resposta C é a diferença entre eles.
+
+ESAF – MF Analista de Finanças e Controle/2013
+
+                                                                                                            79
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+72 Levando-se em consideração o quadro a seguir, a alavancagem operacional, financeira e combinada são,
+respectivamente:
+
+a) 4,00; 1,50; 5,50
+
+b) 5,00; 1,30; 5,00
+
+c) 6,00; 3,00; 4,50
+
+d) 1,20; 5,00; 6,00
+
+e) 4,50; 3,00; 6,00
+
+                           𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 + 𝐶𝑢𝑠𝑡𝑜𝑠 𝐹𝑖𝑥𝑜𝑠 50.000 + 10.000
+                   𝐺𝐴𝑂 =                                   =                = 1,2
+                                  𝐿𝑢𝑐𝑟𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙             50.000
+
+                                𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙                    50.000
+            𝐺𝐴𝐹 =                                          =                         =5
+                      𝐿𝑢𝑐𝑟𝑜 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝐷𝑒𝑠𝑝𝑒𝑠𝑎 𝑐𝑜𝑚 𝑗𝑢𝑟𝑜𝑠 50.000 − 20.000 − 12.000
+                                                                                0,6
+
+Em tese o que sobraria de lucro disponível aos acionistas ordinaristas (com direito a voto) seria R$ 6.000 pós IR,
+logo R$ 10.000 antes do IR.
+
+                                                                                                               80
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+Ações preferenciais no Brasil são consideradas equity (patrimônio), porém, nesse caso elas são dívida, pois a
+empresa estaria OBRIGADA a pagar R$ 12.000 de dividendo obrigatório a elas, independente do lucro.
+
+Isso não é característica de EQUITY, mas de dívida.
+
+A alavancagem é sempre calculada ANTES do IR, de forma que os “juros” pagos aos preferencialistas também
+precisam ser calculados ANTES do IR. Se depois do IR seriam R$ 12.000, antes seriam R$ 12.000/0,6 = R$
+20.000.
+
+Por isso o GAF seria 5.
+
+É uma questão extremamente difícil de acertar, porém muito fácil de ganhar o ponto, pois a única opção
+POSSÍVEL é a D, pois o GAC é a multiplicação de ambos.
+
+CESPE – TCU/2013
+
+73 O grau de alavancagem financeira é a razão entre a taxa de retorno sobre o investimento e a de retorno
+sobre o ativo:
+
+Certo
+
+Errado
+
+Nesse caso o retorno sobre investimentos NÃO é o retorno sobre o patrimônio líquido, que seria o retorno sobre
+o investimento DO ACIONISTA.
+
+O retorno sobre os investimentos totais da empresa (investimento de acionistas e de credores) é o próprio ROA,
+retorno sobre os ativos.
+
+Está errada, pois ROI é diferente de ROE.
+
+CESGRANRIO – BNDES/2013
+
+74 A maioria das empresas utiliza capital de terceiros em suas estruturas de capital, a fim de conseguir uma
+maior alavancagem financeira.
+
+Isso se deve, dentre outros motivos, ao fato de:
+
+                                                                                                           81
+         Receita Federal (Analista Tributário) Administração Financeira
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Paulo Portinho
+  Aula 04
+
+A) o custo médio ponderado de capital ser cada vez menor quanto mais capital de terceiros a empresa tiver
+em sua estrutura de capital.
+
+B) o serviço da dívida com relação ao capital de terceiros ser lançado contabilmente na DRE da empresa
+antes do cálculo do imposto de renda.
+
+C) o capital próprio sempre receber sua remuneração antes da remuneração do capital de terceiros.
+
+D) a remuneração pela utilização do capital próprio, via dividendos, ser lançada contabilmente na DRE da
+empresa, antes do cálculo do imposto de renda.
+
+E) as empresas não possuírem restrição de capital para realizarem todos os seus projetos.
+
+A) Isso, na prática, não é verdade, pois existem custos adicionais pelo alto endividamento, de forma que, apesar
+de a teoria da Modigliani-Miller sugerir que o endividamento poderia ser total, na prática isso não se verifica e
+os custos para tomar capital a partir de determinado nível de dívida ficam altos demais, aumentando o WACC.
+
+B) Correto. Isso é que permite o tal benefício fiscal da dívida, pois nem tudo que é pago em dívida é retirado do
+lucro líquido da Companhia. Imagine uma empresa sem dívida com LAJIR de R$ 100 e IR de 30%. Seu lucro
+líquido seria R$ 70. Se colocarmos uma despesa financeira de R$ 50, o LAIR cairia para R$ 50,00 e o imposto
+seria de R$ 15, dando um lucro líquido de R$ 35. Ou seja, pagamos 50 de dívida, mas o lucro líquido caiu apenas
+R$ 35,00.
+
+C) Errado, a prioridade é do capital de terceiros em relação ao próprio.
+
+D) Os dividendos são pagos APÒS o IR, com base no lucro líquido ajustado (menos reserva legal).
+
+E) Se não há restrição de capital, não há porque tomar recursos com terceiros.
+
+                                                                                                              82
+        Receita Federal (Analista Tributário) Administração Financeira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+---

@@ -1,0 +1,494 @@
+ESTATÍSTICA PARA DESESPERADOS
+ – QUESTÕES EXCLUSIVAS FGV
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+PROBABILIDADE – DEFINIÇÃO
+CLÁSSICA
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+        (FGV/BANESTES - 2021) Marcelo joga, simultaneamente, dois dados cúbicos honestos
+        cujas faces estão numeradas de 1 a 6.
+        A probabilidade de os dois números sorteados serem consecutivos é:
+        a) 5/18;
+        b) 5/36;
+        c) 1/3;
+        d) 1/9;
+        e) 7/36.
+
+
+
+
+Prof. Carlos Henrique
+                                    https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+       (FGV/PC-AM - 2022) Um dado comum, com as faces numeradas de 1 a 6, é lançado 3
+      vezes. A probabilidade de a soma dos 3 números obtidos ser igual a 16 é:
+      a) 1/16.
+      b) 1/18.
+      c) 1/36.
+      d) 1/54.
+      e) 1/108.
+
+
+
+
+Prof. Carlos Henrique
+                                  https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+ (FGV/CBM-AM - 2022) Márcia tem uma ficha amarela, uma ficha verde e duas
+ vermelhas. Joana tem duas fichas amarelas e uma ficha verde.
+
+ Cada uma delas escolhe aleatoriamente uma de suas fichas e mostra para a outra.
+
+ A probabilidade de que as fichas mostradas tenham a mesma cor é:
+ a) 1/12.
+ b) 1/7.
+ c) 1/6.
+ d) 1/4.
+ e) 1/3.
+
+
+
+
+Prof. Carlos Henrique
+                             https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+    (FGV/Pref. Paulínia - 2021) Em uma caixa há 2 bolas brancas e 4 bolas pretas.
+    Retirando, ao acaso 2 bolas, a probabilidade de que elas sejam de cores diferentes é
+    de:
+    a) 2/5.
+    b) 5/8.
+    c) 5/9.
+    d) 7/12.
+    e) 8/15.
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+      (FGV/CBM-AM - 2022) Uma caixa contém 4 bolas numeradas 1, 2, 3 e 4. Selecionam-
+      se, ao acaso, 2 bolas sem reposição.
+      A probabilidade de 3 ser o maior número selecionado é:
+      a) 1/6
+      b) 1/4
+      c) 2/3
+      d) 1/3
+      e) 1/2
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+     (FGV/PM-AM - 2022) O soldado Garcia vai liderar uma equipe de 3 soldados (ele incluído)
+     para uma missão. Os outros 2 soldados da equipe serão sorteados aleatoriamente de um
+     grupo de 6 soldados, sendo que um dos 6 é o soldado Ryan, amigo do soldado Garcia. A
+     probabilidade de o soldado Ryan ser um dos 2 sorteados é:
+     a) 1/6
+     b) 1/5
+     c) 1/4
+     d) 1/3
+     e) 1/2
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+   (FGV/TJ-RO - 2021) As amigas Alice e Bianca estão entre as 6 pessoas classificadas em um
+   concurso e esperam a entrevista com a banca examinadora. Os classificados receberão
+   aleatoriamente números de 1 a 6, que determinarão a ordem em que eles serão
+   entrevistados. A probabilidade de que Alice e Bianca fiquem vizinhas nessa fila é:
+   a) 1/2;
+   b) 1/3;
+   c) 1/4;
+   d) 1/5;
+   e) 1/6.
+
+
+
+
+Prof. Carlos Henrique
+                                  https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+    (FGV/PM-PB - 2021) Considere o conjunto {−3; −2; −1; 0; 1; 2; 3}. Sorteiam-se,
+    aleatoriamente sem reposição, dois elementos desse conjunto.
+    A probabilidade de a soma dos dois números sorteados ser positiva é:
+    a) 1/7;
+    b) 2/7;
+    c) 3/7;
+    d) 4/7;
+    e) 5/7;
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+    (FGV/Pref. Paulínia - 2021) Duas crianças jogam par ou ímpar. Nesse jogo, um dos
+    participantes escolhe “par” e o outro fica com “ímpar”. Em seguida, e simultaneamente,
+    mostram 1, 2, 3, 4, ou 5 dedos de uma mão. A soma dos números de dedos será par ou
+    ímpar, e fica decidido o vencedor.
+    A probabilidade de que o jogador que escolhe “impar” ganhe o jogo é de:
+    a) 0,46.
+    b) 0,48.
+    c) 0,50.
+    d) 0,52.
+    e) 0,54.
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+      (FGV/SSP-AM - 2022) Duas urnas A e B têm, cada uma, 26 bolinhas. Em cada urna, cada
+      bolinha tem uma letra do alfabeto, sem repetição. Retira-se aleatoriamente uma
+      bolinha de cada urna.
+      A probabilidade de a bolinha sorteada da urna A ter uma letra que, na ordem alfabética,
+      é anterior à letra sorteada da urna B é:
+      a) 1/2.
+      b) 25/52.
+      c) 13/50.
+      d) 1/3.
+      e) 1/26.
+
+
+
+
+Prof. Carlos Henrique
+                                    https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+      (FGV/PM-AM - 2022) Em uma fila com 12 cadeiras, três delas foram ocupadas
+      aleatoriamente. A cadeira em que Valter deverá se sentar será sorteada entre as
+      cadeiras que estão vazias.
+      A probabilidade de que Valter não se sente ao lado de nenhuma pessoa já sentada é, no
+      mínimo:
+      a) 1/2.
+      b) 1/3.
+      c) 2/3.
+      d) 1/4.
+      e) 1/6.
+
+
+
+
+Prof. Carlos Henrique
+                                   https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+    (FGV/PC-RJ - 2022) Na enfermaria de um hospital estavam internados 32 pacientes.
+    Destes, 8 apresentavam pneumonia, 6 tinham diagnóstico de asma, 10 estavam com gripe,
+    6 tinham câncer no pulmão e os demais aguardavam atendimento. Coincidentemente, em
+    cada grupo a quantidade de homens e mulheres era a mesma. Considerando essa situação
+    hipotética, assinale a opção correta.
+
+
+
+
+Prof. Carlos Henrique
+                                 https://t.me/KakashiAssinaturasBot
+ a) Foram escolhidos aleatoriamente 3 pacientes dentre aqueles com gripe para responder
+ uma pesquisa. A probabilidade de todos eles serem mulheres é de 50%.
+ b) Se selecionado um paciente aleatoriamente para a realização de um exame, a
+ probabilidade de ele estar com asma ou ser um dos que têm câncer no pulmão é de 18,75%.
+ c) 4 pacientes serão escolhidos aleatoriamente para receber uma visita especial. A chance
+ deste grupo ser composto por um homem com pneumonia, uma mulher com asma, uma
+ mulher com gripe e um homem que tem câncer no pulmão é de 0,12%.
+ d) Sabe-se que a proporção de diagnóstico de asma nos pacientes que chegam ao hospital é
+ a mesma daquela dos pacientes já diagnosticados que estavam na enfermaria. Assim, a
+ probabilidade dos dois pacientes que aguardam atendimento receberem diagnóstico de
+ asma é de 20%.
+ e) A cada dia, durante os próximos 4 dias, um paciente será escolhido aleatoriamente para
+ receber uma sobremesa especial no almoço. A chance dos quatro pacientes sorteados
+ serem mulheres é de 6,25%.
+
+Prof. Carlos Henrique
+                                 https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+PROBABILIDADES CONDICIONAIS
+
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+PROBABILIDADE – COMBINAÇÕES DE
+EVENTOS
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+ESPERANÇA MATEMÁTICA –
+VARIÁVEIS ALEATÓRIAS DISCRETAS
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+VARIÂNCIA E DESVIO PADRÃO –
+VARIÁVEIS ALEATÓRIAS DISCRETAS
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+VARIÂNCIA DA SOMA E DA
+DIFERENÇA DE DUAS VARIÁVEIS
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+DISTRIBUIÇÃO BINOMIAL
+
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+DISTRIBUIÇÃO POISSON
+
+
+
+                                              Prof. Carlos Henri
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+Prof. Carlos Henrique
+                        https://t.me/KakashiAssinaturasBot
+

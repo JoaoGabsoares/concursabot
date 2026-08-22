@@ -1,0 +1,2818 @@
+                                                      Aula 00
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                            07 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 00
+
+
+
+
+                                                                                     Índice
+1) Apresentação do Curso - RFB - Analista Tributário
+..............................................................................................................................................................................................3
+
+2) Conceito de Tributos e Espécies Tributárias - Teoria
+..............................................................................................................................................................................................5
+
+3) DTJ - Conceito de Tributo - Súmulas Abordadas Na Aula
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+4) Questões Comentadas - Conceito de Tributos e Espécies Tributárias
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+5) Lista de Questões - Conceito de Tributos e Espécies Tributárias
+..............................................................................................................................................................................................
+                                                                                                                                                                                            46
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           54
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+    APRESENTAÇÃO DO PROFESSOR E DO CURSO
+Olá meu amigo(a)! Tudo bem com você?
+Seja bem-vindo ao nosso curso de Direito Tributário Jurisprudencial focado no concurso da Receita Federal,
+cargo de Analista-Tributário! Nosso curso é totalmente direcionado para o que você precisa para fazer a
+prova desse concurso específico, sem enrolação, sem leitura cansativa. E para te falar a verdade, este curso
+foi elaborado pensando tanto no aluno que já tem conhecimento de Direito Tributário e quer avançar ainda
+mais para as difíceis provas da RFB!
+Assim, se você ainda está começando o estudo do Direito Tributário, a minha recomendação é ir até o
+nosso curso de Direito Tributário, para aprender e avançar bastante antes de chegar neste curso.
+Combinado?! :)
+Agora, permita-me fazer uma breve apresentação pessoal: meu nome é Fábio Dutra. Sou Auditor-Fiscal da
+                                                         ==219a34==
+
+
+
+
+Receita Federal do Brasil. Sou também pós-graduado em Direito Tributário. Fui aprovado no concurso de
+Auditor-Fiscal da Receita Federal do Brasil de 2012, tendo alcançado a 28ª posição nesse certame
+extremamente difícil. Sou também coautor de um livro sobre provas discursivas.
+Na Receita Federal, já atuei tanto na área aduaneira, como na área de tributos internos. Já trabalhei em
+fronteira, mas hoje trabalho na região sudeste do Brasil. A verdade, meus amigos, é que já tive muitas
+experiências nesse cargo do qual muito me orgulho!
+No Estratégia Concursos, já escrevi centenas de materiais em PDF, já gravei muitas videoaulas, já participei
+de inúmeras revisões de véspera, correções de gabaritos, recursos, discursivas, muita coisa mesmo. Mas o
+que eu gostaria de enfatizar aqui é que eu já conheci centenas de alunos que foram aprovados nos mais
+diversos concursos Brasil afora. E a sua hora está chegando!
+Destaco que o índice de aprovação dos meus cursos aqui no Estratégia Concursos é muito próximo de
+100%, sendo que em alguns deles alcançamos a aprovação unânime dos alunos. Portanto, tenha certeza de
+que você está adquirindo um material de excelente qualidade, alinhado com o edital do concurso de
+Analista da Receita Federal!!!
+Em paralelo aos cursos, você pode acompanhar a minha rotina diária e muitas dicas de estudos (resumos,
+atualizações, jurisprudência etc.) no meu Instagram (bora lá?!): @proffabiodutra
+Estamos juntos até a aprovação!
+Prof. Fábio Dutra
+
+
+
+
+                        ESTRUTURA DO CURSO - RFB
+
+             Aula                                                     Conteúdo Exigido e Abordado
+            Aula 00                                     Conceito e Classificação dos Tributos.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          3
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 00
+
+
+
+
+                                Limitações Constitucionais do Poder de Tributar. Princípios Constitucionais
+          Aula 01
+                                                               Tributários.
+          Aula 02                                                    Imunidades
+                                  Competência Tributária. Tributos de Competência da União. Tributos de
+          Aula 03
+                                   Competência dos Estados. Tributos de Competência dos Municípios.
+                                Legislação Tributária. Fontes do Direito Tributário. Vigência da Legislação
+                               Tributária. Aplicação da Legislação Tributária. Interpretação e Integração da
+                              Legislação Tributária. Obrigação Tributária Principal e Acessória. Fato Gerador
+                               da Obrigação Tributária. Sujeição Ativa e Passiva. Solidariedade. Capacidade
+                                  Tributária. Domicílio Tributário. Responsabilidade Tributária. Conceito.
+          Aula 04
+                                     Responsabilidade dos Sucessores. Responsabilidade de Terceiros.
+                              Responsabilidade por Infrações. Crédito Tributário. Conceito. Constituição do
+                               Crédito Tributário. Lançamento. Modalidades de Lançamento. Hipóteses de
+                               alteração do lançamento. Suspensão da Exigibilidade do Crédito Tributário.
+                                        Modalidades. Exclusão do Crédito Tributário. Modalidades.
+                               Extinção do Crédito Tributário. Modalidades. Pagamento Indevido. Garantias
+          Aula 05                e Privilégios do Crédito Tributário. Administração Tributária. Fiscalização.
+                                                Dívida Ativa. Certidões Negativas. Sigilo Fiscal.
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                4
+      www.estrategiaconcursos.com.br                                                                       54
+
+                                    https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+      CONCEITO, ESPÉCIES E CLASSIFICAÇÃO DOS
+                    TRIBUTOS
+Vamos dar início ao primeiro tópico de hoje, tratando do conceito e classificação dos tributos. Vejamos a
+primeira jurisprudência acerca desse assunto:
+
+"De efeito, a par das três modalidades de tributos (os impostos, as taxas e as contribuições de melhoria)
+a que se refere o artigo 145 para declarar que são competentes para instituí-los a União, os Estados, o
+Distrito Federal e os Municípios, os artigos 148 e 149 aludem a duas outras modalidades tributárias,
+para cuja instituição só a União é competente: os empréstimos compulsórios e as contribuições
+sociais, inclusive as de intervenção no domínio econômico e de interesse das categorias profissionais
+ou econômica.”
+
+(STF, Pleno, RE 146.733/SP, Rel. Min. Moreira Alves, Julgamento em 29/06/1992, Extrato do voto do
+relator)
+
+
+
+
+A CF/88 adotou a teoria pentapartida. Dessa forma, podemos dividir as espécies tributárias em: impostos,
+taxas, contribuições de melhoria, empréstimos compulsórios e contribuições especiais.
+
+
+
+
+QUESTÃO INÉDITA
+Tanto a Constituição Federal como o Código Tributário Nacional adotaram, de acordo com entendimento
+pacificado no STF, a teoria tripartida.
+
+Comentário: Na realidade, o CTN adotou a teoria tripartida, conforme está previsto em seu art. 5°, mas a
+CF/88 já trouxe no seu texto originário a previsão de 5 espécies tributárias. Portanto, a questão está errada.
+
+Gabarito: Errada
+
+No que diz respeito ao conceito de tributo, sabemos que o art. 3º delineia as características que nos
+permitem definir se determinada prestação é ou não tributária. De forma sintetizada, esquematizamos
+abaixo a redação do art. 3º, do CTN:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            5
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 00
+
+
+
+
+                                                                      Prestação Pecuniária
+
+
+
+
+                                 Conceito de Tributos
+                                                                     Prestação Compulsória
+
+
+
+                                                                  Prestação que não constitui
+                                                                      sanção de ato ilícito
+
+
+
+                                                                   Prestação instituída em lei
+
+
+
+                                                                   Prestação cobra mediante
+                                                                      atividade vinculada
+
+
+
+
+Ao estabelecer que o tributo é uma prestação pecuniária, o legislador complementar, dizendo “em moeda
+ou cujo valor                                  nela se possa exprimir”. Dessa forma, podemos inferir que
+não há incompatibilidade com a Lei Complementar 104/2001, responsável por acrescentar o inciso XI ao art.
+156 da Lei 5.172 (CTN). O dispositivo prevê o seguinte:
+
+“Art. 156. Extinguem o crédito tributário:
+
+(...)
+
+XI – a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.”
+
+A polêmica, na realidade, reside na possibilidade de uma lei ordinária estabelecer outras formas de extinção
+do crédito tributário além daquelas que foram previstas no art. 156, como a dação em pagamento em bens
+IMÓVEIS, já que neste caso estamos tratando de uma lei complementar.
+
+Vamos tornar a interpretação mais fácil: seria possível determinada lei prever outra forma de extinção do
+crédito tributário, como o pagamento em bens MÓVEIS, por exemplo? Embora seja um tema bastante
+controvertido, é importante conhecermos o que estabelece o CTN acerca do assunto bem como o que já foi
+decidido pelo STF!
+
+O art. 141, do CTN, estabelece que o crédito tributário só pode ser extinto nos casos previstos no próprio
+CTN, e o CTN não prevê em qualquer ponto a extinção do crédito tributário por meio de entrega de bens
+móveis (apenas imóveis, lembre-se!).
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         6
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Ao julgar a Medida Cautelar na ADI 1.917, o Supremo Tribunal Federal considerou inconstitucional uma lei
+do Distrito Federal que permitia a dação em pagamento com bens móveis. Alegou-se, na ocasião, haver
+reserva de lei complementar para tratar de extinção do crédito tributário.
+
+Observação: Primeiramente, você deve se lembrar que comentamos que o CTN possui status de lei
+complementar, correto? Neste caso, é válido conferir o que estabelece o art. 146, III, “b”, da CF/88,
+ao reservar à lei complementar o estabelecimento de normas gerais acerca do crédito tributário.
+
+Ocorre que, depois desse julgamento, o STF apreciou um caso semelhante (ADI 2.405-MC), desta vez relativo
+a uma lei do Estado do Rio Grande do Sul, que previu o uso do instituto da dação em pagamento para
+extinção de créditos tributários, mediante a entrega de bens imóveis e móveis. Neste caso, o STF decidiu
+pela possibilidade de o Estado-membro estabelecer regras específicas de quitação de seus próprios créditos
+tributários, ou seja, foi favorável à dação em pagamento com bens móveis. O interessante é que existem
+alguns doutrinadores que também defendem esta linha!
+
+Algum tempo depois, no julgamento de mérito da ADI 1.917, que lei local de determinado ente federado não
+pode estabelecer a dação em pagamento de bens MÓVEIS, como forma de extinção do crédito tributário.
+Contudo, o argumento neste caso foi a ofensa ao princípio da licitação. Vejamos:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUICIONALIDADE. OFENSA AO PRINCÍPIO DA LICITAÇÃO (CF, ART.
+37, XXI). I - Lei ordinária distrital - pagamento de débitos tributários por meio de dação em
+pagamento. II - Hipótese de criação de nova causa de extinção do crédito tributário. III - Ofensa ao
+princípio da licitação na aquisição de materiais pela administração pública. IV - Confirmação do
+julgamento cautelar em que se declarou a inconstitucionalidade da lei ordinária distrital 1.624/1997.
+
+(STF, ADI 1.917/DF, Plenário, Rel. Min. Ricardo Lewandowski, Julgamento em 26/04/2007)
+
+
+
+Vamos a um exemplo: se o estado de Pernambuco recebe um lote de papel A4 como quitação de algum
+tributo, ainda que amparado por lei estadual, estaria adquirindo tais produtos sem a realização de uma
+licitação. Apenas como ilustração, caso houvesse tal permissão, uma empresa pernambucana fabricante de
+papel iria conseguir “vendê-lo” ao governo, ainda que perdesse a licitação.
+
+
+
+
+Se este assunto for cobrado em sua prova, analise toda a questão para verificar o que o examinador está
+considerando na questão!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        7
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 00
+
+
+
+Outro ponto em que há relevância no estudo da jurisprudência diz respeito à natureza jurídica da
+contribuição dos empregadores ao Fundo de Garantia do Tempo de Serviço (FGTS), se tributária ou não. Para
+fins de concursos públicos, é importante saber que existem as seguintes contribuições ao FGTS:
+
+•Lei 8.036/90: Contribuição tradicional, correspondente a 8% da remuneração paga pelo empregador ao
+trabalhador;
+
+•Lei Complementar 110/01: Contribuição correspondente a 10% sobre o montante de todos os depósitos
+realizados ao FGTS durante o período do contrato de trabalho, em caso de despedida de empregado sem
+justa causa. É a denominada multa de 10% do FGTS.
+
+Observação: A LC 110/01 também instituiu outra contribuição devida pelos empregadores à
+alíquota de 0,5% sobre a remuneração devida mensalmente a cada trabalhador. Contudo, esta, por
+expressa disposição na referida lei complementar, foi devida pelo prazo de 60 meses, a contar de
+sua exigibilidade, que se iniciou em 2002. Por conseguinte, não é mais devida atualmente.
+                                                          ==219a34==
+
+
+
+
+A contribuição tradicional ao FGTS, instituída pela Lei 8.036/90, não se caracteriza como tributo, em razão
+de os recursos não serem destinados ao Estado, mas sim aos próprios trabalhadores. Nesse sentido, o
+Plenário do STF, em 1987, formulou decisão no âmbito do RE 100.249-S/SP, cuja ementa foi parcialmente
+transcrita abaixo:
+
+Fundo de Garantia por Tempo de Serviço. Sua natureza jurídica. Constituição, art. 165, XIII. Lei nº 5.107,
+de 13.9.1966.
+
+As contribuições para o FGTS não se caracterizam como crédito tributário ou contribuições a tributo
+equiparáveis. Sua sede está no art. 165, XIII, da Constituição. Assegura-se ao trabalhador estabilidade,
+ou fundo de garantia equivalente. Dessa garantia, de índole social, promana, assim, a exigibilidade pelo
+trabalhador do pagamento do FGTS, quando despedido, na forma prevista em lei. Cuida-se de um
+direito do trabalhador. Dá-lhe o Estado garantia desse pagamento. A contribuição pelo empregador,
+no caso, deflui do fato de ser ele o sujeito passivo da obrigação, de natureza trabalhista e social, que
+encontra, na regra constitucional aludida, sua fonte.
+
+(...)
+
+(STF, RE 100.249-2/SP, Plenário, Rel. p/ Acórdão Min. Néri da Silveira, DJU 01/07/1988)
+
+
+
+
+Observação: A contribuição ao FGTS foi originalmente instituída pela Lei 5.107/66. Mesmo assim,
+tal posicionamento da Suprema Corte foi reiteradamente adotado após a CF/88.
+
+Diferentemente da aludida contribuição instituída pela Lei 8.036/90, as contribuições instituídas pela LC
+110/01 tiveram como objetivo o pagamento da atualização monetária das contas vinculadas de FGTS, que,
+por conta do Plano Verão e Plano Collor, sofreram expurgos. Não se trata, pois, de contribuições decorrentes
+de contrato de trabalho.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            8
+         www.estrategiaconcursos.com.br                                                                      54
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 00
+
+
+
+Assim, no julgamento das ADIs 2.556 e 2.568, o STF decidiu pela constitucionalidade da contribuição de 10%,
+entendendo que houve perda de objeto, no que se refere à contribuição de 0,5%, já extinta, por expressa
+disposição legal. Posteriormente, quando do julgamento das ADIs, foi reforçada a natureza tributária da
+contribuição, tanto é que a submete ao princípio constitucional tributário, previsto no art. 150, III, “b”, da CF
+(princípio da anterioridade nonagesimal):
+
+(...)
+
+A segunda contribuição criada pela LC 110/2001, calculada à alíquota de cinco décimos por cento
+sobre a remuneração devida, no mês anterior, a cada trabalhador, extinguiu-se por ter alcançado seu
+prazo de vigência (sessenta meses contados a partir da exigibilidade – art. 2º, §2º da LC 110/2001).
+Portanto, houve a perda superveniente dessa parte do objeto de ambas as ações diretas de
+inconstitucionalidade. Esta Suprema Corte considera constitucional a contribuição prevista no art. 1º
+da LC 110/2001, desde que respeitado o prazo de anterioridade para início das respectivas
+exigibilidades (art. 150, III, b da Constituição).
+
+(...)
+
+(STF, ADI 2.556/DF, Plenário, Rel. Min. Joaquim Barbosa, Julgamento em 13/06/2012)
+
+
+
+
+Observação: Em sede de cautelar, julgada em 2002, o STF entendeu tratar-se de contribuições
+sociais gerais.
+
+Não obstante toda a explanação acima acerca da conturbada natureza jurídica das contribuições ao FGTS,
+há os que entendem que as contribuições instituídas pela LC 110/01 se sujeitam ao mesmo regime jurídico
+da contribuição instituída pela Lei 8.036/90, de forma que, se aquelas são consideradas tributos, esta
+também deveria o ser. Controvérsias à parte, o tema deve ser levado para a prova com muito cuidado,
+lembrando-se, ainda, de que o STJ possui súmula vigente, que, se cobrada literalmente, pode ser considerada
+correta pela banca examinadora:
+
+Súmula STJ 353 - As disposições do Código Tributário Nacional não se aplicam às contribuições para o
+FGTS.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             9
+         www.estrategiaconcursos.com.br                                                                       54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+                                ESPÉCIES DE TRIBUTO
+
+Impostos
+
+Veremos, em aula própria, cada um dos impostos previstos na CF/88 e seus respectivos entendimentos
+jurisprudenciais.
+
+
+Taxas
+
+       Comecemos a falar sobre as taxas, abordando as taxas de polícia:
+
+"O texto constitucional diferencia as taxas decorrentes do exercício do poder de polícia daquelas de
+utilização de serviços específicos e divisíveis, facultando apenas a estas a prestação potencial do serviço
+público. A regularidade do exercício do poder de polícia é imprescindível para a cobrança da taxa de
+localização e fiscalização. À luz da jurisprudência deste STF, a existência do órgão administrativo não
+é condição para o reconhecimento da constitucionalidade da cobrança da taxa de localização e
+fiscalização, mas constitui um dos elementos admitidos para se inferir o efetivo exercício do poder
+de polícia, exigido constitucionalmente. É constitucional taxa de renovação de funcionamento e
+localização municipal, desde que efetivo o exercício do poder de polícia, demonstrado pela existência
+de órgão e estrutura competentes para o respectivo exercício, tal como verificado na espécie quanto
+ao Município de Porto Velho/RO."
+
+(STF, Plenário, RE 588.322/RO, Rel. Min. Gilmar Mendes, Julgamento em 16/06/2010, com repercussão
+geral)
+
+Em outras palavras, a existência do órgão não é condição para a cobrança da taxa, pois se o poder de polícia
+foi exercido efetivamente (o Fiscal visitou o estabelecimento), pode ser cobrado o tributo. Contudo, se há o
+aparato administrativo, fica caracterizado o exercício do poder de polícia.
+
+       No mesmo sentido, temos o seguinte julgado:
+
+EMENTA: TAXA DE LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO. EXERCÍCIO DO PODER DE
+POLÍCIA. ART. 145, II, DA CONSTITUIÇÃO. - Ausência de prequestionamento - fundamento suficiente,
+que não restou impugnado pela agravante. - A cobrança da taxa de localização e funcionamento, pelo
+Município de São Paulo, prescinde da efetiva comprovação da atividade fiscalizadora, diante da
+notoriedade do exercício do poder de polícia pelo aparato administrativo dessa municipalidade.
+Precedentes. - Agravo regimental a que se nega provimento.
+
+(STF, 1ª Turma, RE 222.252-AgR/SP, Rel. Min. Ellen Gracie, Julgamento em 16/04/2001, com
+repercussão geral.)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              10
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Vamos falar agora sobre a taxa de polícia devida pela fiscalização das atividades de pesquisa, lavra,
+exploração e aproveitamento de recursos minerários:
+
+     1. O Estado-membro é competente para a instituição de taxa pelo exercício regular do poder
+     de polícia sobre as atividades de pesquisa, lavra, exploração ou aproveitamento, de recursos
+     minerários, realizada no Estado.
+
+     2. É inconstitucional a instituição de taxa de polícia que exceda flagrante e
+     desproporcionalmente os custos da atividade estatal de fiscalização.”
+
+     [STF, ADI 7.400, rel. min. Luís Roberto Barroso, j. 18.12.2023, P, Informativo STF 1.121.]
+
+Ainda sobre a taxa de controle, acompanhamento e fiscalização das atividades de pesquisa, lavra, exploração
+e aproveitamento de recursos minerários, temos o seguinte julgado:
+
+     Lei n. 7.591/2011. Estado do Pará. Taxa de controle, acompanhamento e fiscalização das
+     atividades de pesquisa, lavra, exploração e aproveitamento de recursos minerários. A
+     instituição de taxa em razão do exercício de poder de polícia por Estado-Membro, respeitadas as
+     características essenciais do tributo, não afronta o art. 145, II, da Constituição Federal. É
+     admissível a utilização, a título de elemento para a quantificação tributária, do volume de
+     minério extraído, porquanto razoável a conclusão de que, quanto maior a quantidade, maior
+     pode ser o impacto social e ambiental do empreendimento e, assim, maior deve ser o grau de
+     controle e de fiscalização do poder público.
+
+     [STF, ADI 4.786, rel. min. Nunes Marques, j. 1º-8-2022, P, DJE de 14-10-2022.]
+
+Além disso, a impossibilidade de os municípios instituírem taxas para fiscalização de postes de energia
+elétrica tem sido reconhecida pela jurisprudência do STF:
+
+     É inconstitucional — por violar a competência da União privativa para legislar sobre energia
+     (CF/1988, art. 22, IV) e exclusiva para fiscalizar os serviços de energia e editar suas normas gerais
+     sobre sua transmissão (CF/1988, arts. 21, XII, “b”; e 175) — norma municipal que, sob o
+     fundamento do exercício do poder de polícia, institui taxa em razão da fiscalização da ocupação
+     e da permanência de postes instalados em suas vias públicas.
+
+     [STF, ADPF 512/DF, relator Ministro Edson Fachin, julgamento virtual finalizado em 19.5.2023]
+
+Por fim, deve-se frisar que o exercício do poder de polícia deve ser regular, isto significa, de acordo com o
+par. único do art. 78, do CTN, que deve ser desempenhado pelo órgão competente nos limites da lei
+aplicável, com observância do processo legal e, tratando-se de atividade que a lei tenha como
+discricionária, sem abuso ou desvio de poder.
+
+Outro tema farto de jurisprudência diz respeito à distinção entre taxas e tarifas ou preços públicos. Pela
+relevância do assunto, abordaremos, a seguir, vários entendimentos dos tribunais:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             11
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 00
+
+
+
+
+"Taxa e preço público diferem quanto à compulsoriedade de seu pagamento. A taxa é cobrada em
+razão de uma obrigação legal enquanto o preço público é de pagamento facultativo por quem
+pretende se beneficiar de um serviço prestado.”
+
+(STF, Plenário, RE 556.854/AM, Rel. Min. Cármen Lúcia, Julgamento em 30/06/2011)
+
+O caráter facultativo é um dos elementos diferenciadores das tarifas/preços públicos das taxas, tendo em
+vista que estas, pelo próprio conceito de tributo, são prestações compulsórias.
+
+Súmula STF 545 - Preços de serviços públicos e taxas não se confundem, porque estas, diferentemente
+daqueles, são compulsórias e tem sua cobrança condicionada a prévia autorização orçamentária, em
+relação a lei que as instituiu.
+
+Observação: A Súmula 545 do STF foi aprovada e publicada em 1969.
+
+Vamos relembrar as principais distinções entre os preços públicos (ou tarifas) e as taxas:
+
+
+
+                          Taxa                                                 Preço Público (Tarifa)
+               Possui natureza tributária                                 Não possui natureza tributária
+                     Decorre de lei                                     Decorre de contrato administrativo
+           Não há manifestação de vontade                                   Há manifestação de vontade
+                  Caráter compulsório                                           Caráter facultativo
+           Regime jurídico de direito público                            Regime jurídico de direito privado
+      Cobrada por pessoa jurídica de direito público               Cobrada por pessoa jurídica de direito público e
+                                                                                      privado
+                      Receita derivada                                           Receita originária
+
+
+
+Precisamos ter a noção dos serviços que são remunerados por meio de taxas e aqueles remunerados por
+meio de tarifas. Para isso, utilizaremos o acórdão do RE n. 89.876/RJ, cujo relator foi o Ministro Moreira
+Alves, bem como a conferência por ele proferida no X Simpósio Nacional de Direito Tributário acerca do tema
+“Taxa e Preço Público”, realizado em 19/10/1985, cujo resumo foi apresentado por Vittorio Cassone 1, e, em
+relação ao qual, trazemos a essência do que você precisa saber para nossa aula:
+
+
+
+1)Serviços públicos propriamente estatais: serviços em cuja prestação o Estado atue no exercício de sua
+soberania, visualizada esta sob o ponto de vista interno e externo; esses serviços são indelegáveis, porque
+somente o Estado pode prestá-los. São remunerados, por isso mesmo, mediante taxa, mas o particular pode,
+de regra, optar opor sua utilização ou não. Exemplos: o serviço judiciário e o de emissão de passaportes.
+
+
+
+1
+    CASSONE, Vittorio. Direito Tributário. 15ª Edição. São Paulo: Atlas, 2003, págs. 96 e 97.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                   12
+           www.estrategiaconcursos.com.br                                                                             54
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+2)Serviços públicos essenciais ao interesse público: são serviços prestados no interesse da comunidade. São
+remunerados mediante taxa. E porque é essencial ao interesse público, a taxa incidirá sobre a utilização
+efetiva ou potencial do serviço. Exemplos: serviço de distribuição de água, de coleta de lixo, de esgoto, de
+sepultamento.
+
+
+
+3)Serviços públicos não essenciais: são aqueles que, quando não utilizados, não resultam dano ou prejuízo
+para a comunidade ou para o interesse público. São serviços, de regra, delegáveis, podendo ser remunerados
+mediante preço público. Exemplo: serviços telefônicos, distribuição de energia elétrica etc.
+
+
+
+Atualmente, a jurisprudência caminha no sentido de que os serviços de água e esgoto prestados por
+concessionárias de serviço público detêm natureza jurídica de tarifa ou preço público. Com base nisso, o STJ
+já editou a Súmula 412, estabelecendo como prazo de prescrição para repetição do indébito o prazo previsto
+no Código Civil (e não o prazo previsto no Código Tributário Nacional.
+
+Há também a Súmula 407, do STJ, cuja redação aponta para a cobrança de tarifa:
+
+Súmula STJ 407 - É legítima a cobrança da tarifa de água fixada de acordo com as categorias de
+usuários e as faixas de consumo.
+
+
+
+
+Fornecimento de Água e Tratamento de Esgoto por concessionárias = Tarifa
+
+Ainda sobre as taxas, há outros detalhes que precisamos ficar atentos, quando o assunto é provas de
+concurso público. Senão, vejamos:
+
+"Taxa: correspondência entre o valor exigido e o custo da atividade estatal. A taxa, enquanto
+contraprestação a uma atividade do Poder Público, não pode superar a relação de razoável
+equivalência que deve existir entre o custo real da atuação estatal referida ao contribuinte e o valor
+que o Estado pode exigir de cada contribuinte, considerados, para esse efeito, os elementos
+pertinentes às alíquotas e à base de cálculo fixadas em lei. Se o valor da taxa, no entanto, ultrapassar
+o custo do serviço prestado ou posto à disposição do contribuinte, dando causa, assim, a uma situação
+de onerosidade excessiva, que descaracterize essa relação de equivalência entre os fatores referidos (o
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           13
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+custo real do serviço, de um lado, e o valor exigido do contribuinte, de outro), configurar-se-á, então,
+quanto a essa modalidade de tributo, hipótese de ofensa à cláusula vedatória inscrita no art. 150, IV,
+da CF. Jurisprudência. Doutrina."
+
+(STF, ADI 2.551, Rel. Min. Celso de Mello, Julgamento em 02/04/2003)
+
+Outro ponto a ser destacado é a decisão do STF pela inconstitucionalidade da taxa cobrada pelo Município
+por emissão ou remessa de carnês/guias de recolhimento de tributos. Seria o caso, por exemplo, de o
+Município cobrar uma taxa juntamente com o IPTU, referente ao custo de emissão desse carnê. O STF
+considerou a exação inconstitucional em decisão cuja ementa segue abaixo:
+
+EMENTA TRIBUTÁRIO. REPERCUSSÃO GERAL. RATIFICAÇÃO DA JURISPRUDÊNCIA. TAXA DE
+EXPEDIENTE. FATO GERADOR. EMISSÃO DE GUIA PARA PAGAMENTO DE TRIBUTO. AUSÊNCIA DOS
+CRITÉRIOS EXIGIDOS PELO ART. 145, II, CF/88. INCONSTITUCIONALIDADE. 1. A emissão de guia de
+recolhimento de tributos é de interesse exclusivo da Administração, sendo mero instrumento de
+arrecadação, não envolvendo a prestação de um serviço público ao contribuinte.
+
+2. Possui repercussão geral a questão constitucional suscitada no apelo extremo. Ratifica-se, no caso,
+a jurisprudência da Corte consolidada no sentido de ser inconstitucional a instituição e a cobrança
+de taxas por emissão ou remessa de carnês/guias de recolhimento de tributos. Precedente do Plenário
+da Corte: Rp nº 903, Rel. Min. Thompson Flores, DJ de 28/6/74. 3. Recurso extraordinário do qual se
+conhece, mas ao qual, no mérito, se nega provimento.
+
+(STF, Plenário, RE 789.218-RG/MG, Rel. Min. Dias Toffoli, Julgamento em 17/04/2014)
+
+Sobre a taxa de polícia, observe como o STF já decidiu:
+
+“É condição constitucional para a cobrança de taxa pelo exercício de poder de polícia a competência
+do ente tributante para exercer a fiscalização da atividade específica do contribuinte.
+
+Em termos gerais, por se tratar de competência comum, exercida concomitantemente pela União, pelos
+estados (Distrito Federal) e pelos municípios, as diversas iniciativas de fiscalização das atividades
+potencialmente modificadoras do meio ambiente não são mutuamente exclusivas (arts. 23, VI, 24, VI e
+VIII da Constituição e 6º, III da Lei 9.985/2000).”
+
+(STF, RE 602.089-AgR/MG, Rel. Min. Joaquim Barbosa, Julgamento em 24/04/2012)
+
+
+
+
+QUESTÃO INÉDITA
+Para que seja constitucional a cobrança de taxa pelo exercício do poder de polícia, faz-se necessário que o
+ente federado seja competente para exercer tal fiscalização.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           14
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Comentário: É dessa forma que o assunto deve ser encarado em provas de concurso, pois é assim que o STF
+tem decidido recentemente. Aliás, ao analisar o assunto em si, percebemos que é bem óbvio, concorda? A
+questão, portanto, está correta.
+
+Gabarito: Correta
+
+Ainda sobre as taxas, o CTN (art. 77, parágrafo único) afirma que as taxas não podem ter base de cálculo
+idêntica às dos impostos. Sobre o assunto, a CF/88 (art. 145, §2°) assevera que as taxas não podem ter base
+de cálculo própria de impostos. E a jurisprudência? Qual o seu posicionamento? Veja a seguir:
+
+Súmula Vinculante STF 29 - É constitucional a adoção no cálculo do valor de taxa de um ou mais
+elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade
+entre uma base e outra.
+
+
+
+
+Súmula STF 595 - É inconstitucional a taxa municipal de conservação de estradas de rodagem cuja base
+de cálculo seja idêntica a do imposto territorial rural.
+
+
+
+
+”A escolha do valor do monte-mor como base de cálculo da taxa judiciária encontra óbice no art. 145,
+§ 2º, da CF, visto que o monte-mor que contenha bens imóveis é também base de cálculo do imposto
+de transmissão causa mortis e inter vivos."
+
+(STF, Plenário, ADI 2.040-MC, Rel. Min. Maurício Corrêa, Julgamento em 15/12/1999)
+
+Observação: Monte-mor significa o valor total dos bens a partilhar deixados por pessoa falida.
+
+
+
+
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. TAXA DE COLETA DE LIXO: BASE DE CÁLCULO. IPTU.
+MUNICÍPIO DE SÃO CARLOS, S.P. I. - O fato de um dos elementos utilizados na fixação da base de
+cálculo do IPTU - a metragem da área construída do imóvel - que é o valor do imóvel (CTN, art. 33),
+ser tomado em linha de conta na determinação da alíquota da taxa de coleta de lixo, não quer dizer
+que teria essa taxa base de cálculo igual à do IPTU: o custo do serviço constitui a base imponível da
+taxa. Todavia, para o fim de aferir, em cada caso concreto, a alíquota, utiliza-se a metragem da área
+construída do imóvel, certo que a alíquota não se confunde com a base imponível do tributo. Tem-se,
+com isto, também, forma de realização da isonomia tributária e do princípio da capacidade
+contributiva: C.F., artigos 150, II, 145, § 1º. II. - R.E. não conhecido.”
+
+(STF, RE 232.393/SP, Rel. Min. Carlos Velloso, 12/08/1999)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        15
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+“A Corte adota entendimento no sentido da inconstitucionalidade da cobrança da Taxa de Licença de
+Localização e de Funcionamento pelos municípios quando utilizado como base de cálculo o número de
+empregados.
+
+(STF, RE 614.246-AgR/SP, Rel. Min. Dias Tóffoli, Julgamento em 07/02/2012)
+
+De acordo com a mesma Corte (RE 202.393/RJ), “não se coaduna com a natureza do tributo o cálculo a
+partir do número de empregados”.
+
+O STF também entende que a cobrança de taxa de matrícula nas universidades públicas é inconstitucional:
+
+Súmula Vinculante STF 12 - A cobrança de taxa de matrícula nas universidades públicas viola o disposto
+no art. 206, IV, da Constituição Federal.
+
+De acordo com o art. 77, do CTN, as taxas de serviço têm como fato gerador a utilização efetiva ou potencial
+de serviço público, específico e divisível.
+
+Outro serviço público que não pode ser remunerado por taxa é a segurança pública. Por ser atividade
+indivisível, deve ser remunerada pelos impostos. Segundo o entendimento do STF (ADI 1.942-MC, Rel. Min.
+Moreira Alves), “sendo a segurança pública, dever do Estado e direito de todos, exercida para a preservação
+da ordem pública e da incolumidade das pessoas e do patrimônio, através, entre outras, da Polícia Militar,
+essa atividade do Estado só pode ser sustentada pelos impostos, e não por taxa...”.
+
+Precisamos ter ainda mais cuidado quando o assunto é taxa de incêndio! Estou falando para você prestar
+muita atenção, porque cai recorrentemente em prova e tivemos evolução na jurisprudência! Vamos
+entender o porquê!
+
+Julgamento da ADI 2908 (ano 2020): O caso versava sobre uma lei do Estado de Sergipe, prevendo a cobrança
+de uma taxa anual de segurança contra incêndio. No julgamento, de relatoria da Min. Cármen Lúcia, o STF
+frisou o que já aprendemos, ou seja, que a instituição de taxa exige que os serviços públicos por ela
+remunerados cumulem os requisitos de especificidade e divisibilidade. E que aquela taxa deveria se
+considerada inconstitucional, por se referir a serviço de caráter geral (uti universi), que não pode ser
+custeado via taxa.
+
+Depois desse julgado, muitas questões de prova abordaram essa jurisprudência. E então, o aluno chegava na
+prova e era certo: taxa de incêndio = inconstitucional. Porém, você precisa ter muita atenção com o julgado
+a seguir:
+
+Julgamento do Recurso Extraordinário 1.417.155 (ano 2025):
+
+Trata-se de Recurso Extraordinário em que o Tribunal de Justiça do Estado do Rio Grande do Norte (TJ/RN)
+declarara inconstitucionais dispositivos de lei complementar estadual que instituiu:
+
+       - Taxa anual de prevenção e combate a incêndios, busca e salvamento (TCIBS) relativa a imóveis
+       situados na região metropolitana de Natal (item 1 do Anexo Único) e no interior do Estado (item 2),
+       com valores variando conforme a área construída do imóvel, bem como sua natureza (residencial,
+       comercial, industrial etc.).
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         16
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+       - Taxa anual de proteção contra incêndio, salvamento e resgate em via pública para veículos
+       automotores (item 6), com valores diferenciados de acordo com o tipo de veículo (motocicletas,
+       automóveis, caminhões, transporte de passageiros etc.).
+
+Por considerar que a matéria está dentro da competência estadual, e que o serviço pode ser caracterizado
+como específico e divisível, a taxa seria constitucional. E, para finalizar, o tema foi configurado como
+Repercussão Geral no STF (Tema 1282) - Constitucionalidade das taxas de prevenção e combate a
+incêndios, busca, salvamento e resgate instituídas por estados-membros.
+
+Assim, como tem acontecido em muitas provas recentes de Direito Tributário, o examinador tem a tendência
+de explorar as teses de Repercussão Geral!
+
+Devemos destacar também que as custas judiciais e os emolumentos concernentes aos serviços notariais
+e registrais são considerados taxas de serviço, de acordo com o entendimento do STF. O motivo é bastante
+simples: são serviços específicos e divisíveis. Tudo bem até aqui?
+
+“Professor, quais seriam as diferenças entre custas judiciais, taxa judiciária e emolumentos?”
+
+Vamos esquematizar aqui embaixo para facilitar a sua vida:
+
+Custas Judiciais: são taxas que envolvem o financiamento dos serviços prestados pelos distribuidores,
+escrivães, secretarias de tribunais, oficiais de justiça etc.
+
+Taxa Judiciária: Envolvem a atuação dos magistrados e do Ministério Público.
+
+Emolumentos: São taxas cobradas no âmbito extrajudicial por tabeliães e registradores por cada ato a ser
+realizado.
+
+Sobre esse tópico, temos uma jurisprudência já explorada em provas:
+
+     “Consoante a jurisprudência da Corte, taxas judiciárias e custas judiciais, embora pertençam à
+     espécie tributária taxa, possuem características distintas, não havendo que se falar em bis in
+     idem na cobrança de ambos os tributos.”
+
+     (STF, Plenário, ADI 5688/PB, Rel. Min Edson Fachin, Julgamento: 25/10/2021, Publicação:
+     18/02/2022)
+
+Ou seja, você precisa ter em mente é que, embora sejam consideradas taxas, não figuram sobre o mesmo
+fato gerador, podendo ser cobradas em conjunto, sem desrespeitar os princípios constitucionais! Ok?!
+
+Acerca da destinação do produto da arrecadação das taxas, temos o seguinte:
+
+É constitucional a destinação do produto da arrecadação da taxa de fiscalização da atividade notarial
+e de registro a órgão público e ao próprio Poder Judiciário".
+
+(STF, Plenário, ADI 3.151, Rel. Min. Ayres Britto, 08/06/2005)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        17
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+“As custas, a taxa judiciária e os emolumentos constituem espécie tributária, são taxas, segundo a
+jurisprudência iterativa do Supremo Tribunal Federal. (...) Impossibilidade da destinação do produto
+da arrecadação, ou de parte deste, a instituições privadas, entidades de classe e Caixa de Assistência
+dos Advogados. Permiti-lo, importaria ofensa ao princípio da igualdade. Precedentes do STF.”
+
+(STF, Plenário, ADI 1.145, Rel. Min. Carlos Velloso, Julgamento em 03/10/2002)
+
+O entendimento do STF é o de que não se pode destinar as taxas para (custas e emolumentos) a entidades
+de direito privado, como as entidades de classe, por exemplo. Noutro sentido, seria a destinação ao próprio
+Poder Judiciário, permitida pelo STF (ADI 2.059-PR).
+
+Vamos ver se você está “afiado” agora: podemos destinar as taxas (emolumentos) para modernizar o próprio
+Poder Judiciário? Veja o julgado a seguir:
+
+“Preceito de lei estadual que destina 5% dos emolumentos cobrados pelas serventias extrajudiciais e
+não oficializadas ao Fundo Estadual de Reaparelhamento e Modernização do Poder Judiciário –
+FUNDESP não ofende o disposto no art. 167, IV, da CF. Precedentes. A norma constitucional veda a
+vinculação da receita dos impostos, não existindo, na Constituição, preceito análogo pertinente às
+taxas.”
+
+(STF, RE 570.513-AgR, Rel. Min. Eros Grau, Julgamento em 16/12/2008)
+
+Perceba que o foco da decisão é que as taxas não estão impedidas de ter a arrecadação vinculada, como os
+impostos estão por meio do art. 167, VI. Contudo, podemos entender também que é possível a destinação
+ao Poder Judiciário, mas não para entidades de direito privado, como vimos acima! Entendido?
+
+Súmula Vinculante STF 19 - A taxa cobrada exclusivamente em razão dos serviços públicos de coleta,
+remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo
+145, II, da Constituição Federal.
+
+Esta súmula vinculante teve como precedente o seguinte julgado:
+
+Com efeito, a Corte entende como específicos e divisíveis os serviços públicos de coleta, remoção e
+tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades
+sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da
+população em geral (uti universi) e de forma indivisível, tais como os de conservação e limpeza de
+logradouros e bens públicos (praças, calçadas, vias, ruas, bueiros).
+
+(STF, RE 576.321 RG-QO, Rel. Min. Ricardo Lewandowski, Julgamento em 04/12/2008)
+
+
+
+
+(...) Decorre daí que as taxas cobradas em razão exclusivamente dos serviços públicos de coleta,
+remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis são constitucionais,
+ao passo que é inconstitucional a cobrança de valores tidos como taxa em razão de serviços de
+conservação e limpeza de logradouros e bens públicos. (...)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         18
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+(STF, RE 576.321/SP, Rel. Min. Ricardo Lewandowski, Julgamento em 04/12/2008)
+
+
+
+
+Não confunda! Permite-se a cobrança da taxa de coleta domiciliar de lixo, mas não taxa sobre serviço de
+limpeza de logradouros e bens públicos!
+
+EMENTA: TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TAXA JUDICIÁRIA. BASE
+DE CÁLCULO O VALOR DA CAUSA OU DA CONDENAÇÃO. OFENSA AO PRINCÍPIO DO LIVRE ACESSO AO
+JUDICIÁRIO. INEXISTÊNCIA. AGRAVO IMPROVIDO. I - É legítima taxa judiciária que tenha base de
+cálculo o valor da causa ou da condenação. Precedentes. II - A simples circunstância de não haver sido
+estipulado um teto-limite para a taxa judiciária não constitui razão suficiente para que se tenha por
+violado o princípio do livre acesso ao Poder Judiciário. III - Agravo regimental improvido.
+
+(STF, AI 564.642-AgR/SP, Rel. Min. Ricardo Lewandowski, 30/06/2009)
+
+Com base no exercício regular do poder de polícia, o STF também já decidiu ser constitucional a taxa de
+fiscalização de anúncios, cobrada pelo Município de Belo Horizonte:
+
+“EMENTA: TRIBUTÁRIO. MUNICÍPIO DE BELO HORIZONTE. TAXA DE FISCALIZAÇÃO DE ANÚNCIOS
+(TFA). CONSTITUCIONALIDADE. De presumir-se a efetividade da fiscalização exercida pelos agentes da
+Municipalidade de Belo Horizonte, uma das maiores do País, no controle da exploração e utilização da
+publicidade na paisagem urbana, com vista a evitar prejuízos à estética da cidade e à segurança dos
+munícipes. (...)”
+
+(STF, RE 216.207/MG, Rel. Min. Ilmar Galvão, 02/03/1999)
+
+Ainda abordando a jurisprudência da taxa, temos a seguinte Súmula Vinculante do STF:
+
+Súmula Vinculante 41 - O serviço de iluminação pública não pode ser remunerado mediante taxa
+
+Esta súmula vinculante possui a mesma redação da Súmula 670 do STF. Isso significa que já se tratava de
+entendimento pacífico no STF. A distinção é que, a partir da sua publicação, o posicionamento nela contido
+possui efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta
+e indireta.
+
+Súmula STF 665 - É constitucional a Taxa de Fiscalização dos Mercados de Títulos e Valores Mobiliários
+instituída pela Lei 7.940/89.
+
+A respeito da taxa judiciária, vamos entender um pouco sobre o histórico de entendimentos do STF. Desde
+1995, o STF já entendia que o valor da taxa judiciária deveria ser proporcional ao custo da atividade estatal:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TAXA JUDICIÁRIA. NATUREZA JURÍDICA:
+TRIBUTO DA ESPÉCIE TAXA. PRECEDENTE DO STF. VALOR PROPORCIONAL AO CUSTO DA ATIVIDADE DO
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           19
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+ESTADO. Sobre o tema da natureza jurídica dessa exação, o Supremo Tribunal Federal firmou
+jurisprudência no sentido de se tratar de tributo da espécie taxa (Representação 1.077). Ela resulta
+da prestação de serviço público específico e divisível, cuja base de cálculo é o valor da atividade estatal
+deferida diretamente ao contribuinte. A taxa judiciária deve, pois, ser proporcional ao custo da
+atividade do Estado a que se vincula. E há de ter um limite, sob pena de inviabilizar, à vista do valor
+cobrado, o acesso de muitos à Justiça. (...)
+
+(STF, ADI 948/GO, Rel. Min. Francisco Rezek, 09/11/1995)
+
+A que limite a Suprema Corte se referia? Qual seria o limite que poderia ser imposto como “teto” para
+cobrança da taxa judiciária? Em 2003, o STF publicou a seguinte súmula:
+
+Súmula STF 667 - Viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem
+limite sobre o valor da causa.
+
+Devemos acrescentar também que o STF (ADI/3.887-SP) também já se posicionou no sentido de que é
+possível utilizar o valor do imóvel como fator de referência para a cobrança de taxas aos cartórios para
+transferir imóveis. Neste caso, não há que se falar em identidade de base de cálculo com o IPTU e ITBI, tendo
+em vista que essa não é a base de cálculo da referida taxa, mas tão somente um parâmetro para a cobrança
+do tributo devido.
+
+Por último, cumpre-nos destacar o recente entendimento do STF sobre a inconstitucionalidade da
+denominada “taxa de alimentação” ou “anuidade-alimentação”:
+
+EDUCAÇÃO – DIREITO FUNDAMENTAL – ARTIGOS 206, INCISO IV, E 208, INCISO VI, DA CONSTITUIÇÃO
+FEDERAL – ENSINO PROFISSIONALIZANTE – ESTADO – ALIMENTAÇÃO – COBRANÇA – IMPROPRIEDADE.
+Ante o teor dos artigos 206, inciso IV, e 208, inciso VI, da Carta de 1988, descabe a instituição pública
+de ensino profissionalizante a cobrança de anuidade relativa à alimentação.
+
+(STF, RE 357.148/MT, Primeira Turma, Rel. Min. Marco Aurélio, Julgamento em 25/02/2015)
+
+A cobrança da referida “taxa” teria sido instituída por portarias administrativas, violando claramente o
+princípio da legalidade.
+
+Outra taxa que já foi considerada constitucional pelo STF é a taxa de serviço público referente à realização
+de perícia e diligências a pedido do contribuinte no âmbito do processo administrativo fiscal:
+
+      Mostra-se constitucional a instituição de taxa referente à realização de perícia e diligências a
+      pedido do contribuinte no âmbito do processo administrativo fiscal, pois consubstanciam
+      serviços públicos, colocados à disposição do sujeito passivo da obrigação tributária, específicos
+      e divisíveis de utilização não compulsória. (...) A instituição de taxa sem razoável equivalência
+      recíproca entre o valor exigido do contribuinte e o efetivo custo da atividade estatal referida
+      acarreta grave violação dos princípios da proporcionalidade e da comutatividade. Tal como
+      instituída, no caso, a taxa revela-se inconstitucional, pois o estabelecimento de um valor fixo para
+      realização de perícias e diligências sem levar em consideração a complexidade, o lapso temporal
+      para sua execução, os valores envolvidos na apuração do crédito fiscal e o custo efetivo do serviço
+      público evidenciam a desproporcionalidade e desconexão da comutatividade ou referibilidade.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              20
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+ Fábio Dutra
+ Aula 00
+
+
+
+    [ADI 6.145, rel. min. Rosa Weber, j. 14-9-2022, P, DJE de 24-10-2022.]
+
+
+
+
+                                         RESUMO DE TAXAS DE POLÍCIA
+
+   Constitucional: É constitucional a taxa de fiscalização dos mercados de títulos e valores mobiliários
+                                       instituída pela Lei 7.940/1989.
+     Constitucional: Taxa de Fiscalização de Anúncios - TFA e da Taxa de Fiscalização, Localização e
+ Funcionamento - TFLF, com fundamento no efetivo exercício do poder de polícia pelo ente municipal.
+   Constitucional: Taxa de renovação de funcionamento e localização municipal, desde que efetivo o
+  exercício do poder de polícia, demonstrado pela existência de órgão e estrutura competentes para o
+                                             respectivo exercício.
+Constitucional: A cobrança da taxa de localização e funcionamento prescinde da efetiva comprovação da
+       atividade fiscalizadora, diante da notoriedade do exercício do poder de polícia pelo aparato
+                                    administrativo dessa municipalidade.
+  Constitucional: O Estado-membro é competente para a instituição de taxa pelo exercício regular do
+   poder de polícia sobre as atividades de pesquisa, lavra, exploração ou aproveitamento, de recursos
+                                      minerários, realizada no Estado.
+Constitucional: É admissível a utilização, a título de elemento para a quantificação tributária, do volume
+                                             de minério extraído
+ Inconstitucional: Taxa de polícia que exceda flagrante e desproporcionalmente os custos da atividade
+                                            estatal de fiscalização.
+
+
+
+
+                                         RESUMO DE TAXAS DE SERVIÇO
+
+                                 Constitucional: Taxa de coleta de lixo
+                            Constitucional: Custas Judiciais e Taxa Judiciária
+                     Constitucional: Emolumentos dos serviços notariais e registrais
+                     Constitucional: Emolumentos dos serviços notariais e registrais
+ Constitucional: taxas de prevenção e combate a incêndios, busca, salvamento e resgate instituídas por
+                                           estados-membros.
+                                  Inconstitucional: Iluminação Pública
+                                  Inconstitucional: Segurança Pública
+          Inconstitucional: Taxa pela emissão de guia/carnê de pagamento de outros tributos
+
+
+
+
+       Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          21
+       www.estrategiaconcursos.com.br                                                                    54
+
+                                     https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+Contribuições de Melhoria
+
+“EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO.
+CONTRIBUIÇÃO DE MELHORIA. FATO GERADOR: QUANTUM DA VALORIZAÇÃO IMOBILIÁRIA.
+PRECEDENTES. 1. Esta Corte consolidou o entendimento no sentido de que a contribuição de melhoria
+incide sobre o quantum da valorização imobiliária. (...)”
+
+(STF, AI 694.836, Rel. Min. Ellen Gracie, 24/11/2009)
+
+Nesse contexto, para o STF, no que se refere à pavimentação de vias públicas, a realização de pavimentação
+nova justifica a cobrança da contribuição de melhoria. Contudo, o recapeamento configura serviço de
+manutenção, não sendo razoável a cobrança do tributo ora em análise.
+
+
+
+
+QUESTÃO INÉDITA
+Para a cobrança da contribuição de melhoria, basta que haja a realização de uma obra pública.
+
+Comentário: O fato gerador da contribuição de melhoria não ocorre com a realização de uma obra pública,
+mas sim quando esta gere valorização imobiliária para os contribuintes. Fique sempre atento a esses
+detalhes. As bancas tentam distrair o candidato, ao mencionar o gasto da obra, sem levar em consideração
+a valorização.
+
+Gabarito: Errada
+
+
+
+
+Empréstimos Compulsórios
+
+Cumpre ressaltar, inicialmente, que os empréstimos compulsórios são inegavelmente tributos. De acordo
+como vimos no primeiro tópico, o STF (RE 146.733-9/SP) já se posicionou nesse sentido, caracterizando-os
+como espécie tributária autônoma.
+
+“EMENTA: EMPRESTIMO COMPULSORIO - AQUISIÇÃO DE COMBUSTIVEIS. O empréstimo compulsório
+alusivo a aquisição de combustíveis - Decreto-Lei n. 2.288/86 mostra-se inconstitucional tendo em
+conta a forma de devolução - quotas do Fundo Nacional de Desenvolvimento - ao invés de operar-se
+na mesma espécie em que recolhido (...)”
+
+(STF, RE 175.385/SC, Rel. Min. Marco Aurélio, 01/12/1994)
+
+Sobre esse julgado, é importante guardar que a restituição do valor recolhido a título de empréstimo
+compulsório deve ser feita na mesma espécie em que foi recolhido.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       22
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+QUESTÃO INÉDITA
+Os empréstimos compulsórios não podem ser considerados tributos, pois sua receita é temporária, visto que
+os recursos devem ser devolvidos aos contribuintes.
+
+Comentário: Já vimos que o STF considera o empréstimo compulsório um tributo, correto? Além disso, eles
+foram inseridos dentro do capítulo que cuida do Sistema Tributário Nacional, na CF/88. Por fim, vale ressaltar
+que a necessidade de que as receitas sejam permanentes não foi mencionada no conceito de tributo,
+estampado no art. 3° do CTN.
+
+Gabarito: Errada
+
+
+Contribuições Especiais
+
+"Todas as contribuições, sem exceção, sujeitam-se à lei complementar de normas gerais, assim ao
+C.T.N. (art. 146, III, ex vi do disposto no art. 149). Isto não quer dizer que a instituição dessas
+contribuições exige lei complementar: porque não são impostos, não há a exigência no sentido de
+que os seus fatos geradores, bases de cálculo e contribuintes estejam definidos na lei complementar"
+
+(STF, RE 148.754/RJ, Rel. Min. Carlos Velloso, 24/06/1993)
+
+
+
+
+Por que as contribuições se sujeitam à lei complementar de normas gerais (CTN), mas não têm seus fatos
+geradores, bases de cálculo e contribuintes definidos em lei complementar?
+
+As contribuições especiais são tributos, assim como os impostos e as taxas o também o são. Logo, as normas
+gerais em matéria tributária aplicam-se não só a todas as contribuições, como a todo e qualquer tributo em
+nosso ordenamento jurídico.
+
+Já a necessidade de definição dos fatos geradores, bases de cálculo e contribuintes em lei complementar
+somente é aplicável aos impostos, conforme previsão no art. 146, III, “a”, da CF/88.
+
+Isso também não faz com que todos impostos tenham que ser instituídos por meio de lei complementar,
+mas sim que haja uma norma geral definindo os parâmetros para que o ente tributante, por lei ordinária,
+institua o imposto. Neste momento, a lei instituidora fica adstrita ao que consta na lei complementar
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           23
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 00
+
+
+
+
+“O Supremo Tribunal Federal fixou entendimento no sentido da dispensabilidade de lei complementar
+para a criação das contribuições de intervenção no domínio econômico e de interesse das categorias
+profissionais.
+
+(STF, AI 739.715, Rel. Min. Eros Grau, 26/05/2009)
+
+A exigência de lei complementar é para instituir novas contribuições (contribuições residuais), e também a
+Contribuição sobre Bens e Serviços (CBS), prevista no art. 195, V, da CF/88, fruto da Reforma Tributária (EC
+132/2023). As demais contribuições descritas na CF/88 podem ser instituídas por lei ordinária.
+
+Súmula STF 688 - É legítima a incidência da contribuição previdenciária sobre o 13º salário.
+
+
+
+
+Súmula STJ 458 - A contribuição previdenciária incide sobre a comissão paga ao corretor de seguros.
+
+Ainda no que se refere às contribuições previdenciárias, é relevante destacar o que a Suprema Corte entende
+como sendo “regime previdenciário”:
+
+EMENTA: CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR,
+ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE
+MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS
+TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE.
+RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+
+I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002,
+do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+
+(...)
+
+III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica
+automaticamente a competência para a instituição de tributos. Os entes federativos somente podem
+instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+
+IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do
+regime de previdência de seus servidores. A expressão "regime previdenciário" não abrange a
+prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.
+
+(STF, Plenário, RE 573.540/MG, Rel. Min. Gilmar Mendes, Julgamento em 14/04/2010)
+
+Entendamos a situação: o Estado de Minas Gerais instituiu contribuição para o custeio dos serviços de
+assistência médica, hospitalar, odontológica e farmacêutica. Não se nega a compulsoriedade da referida
+contribuição, possuindo natureza tributária.
+
+Contudo, o objeto do julgamento é a incompetência dos Estados para instituir outra contribuição especial,
+que não seja a destinada ao custeio do regime de previdência de seus servidores. Nesse contexto, ficou
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            24
+         www.estrategiaconcursos.com.br                                                                      54
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+definido que a expressão "regime previdenciário" não abrange a prestação de serviços médicos,
+hospitalares, odontológicos e farmacêuticos.
+
+Assim, nada impede que tais serviços sejam oferecidos aos seus servidores, desde que a adesão e a
+contribuição não sejam compulsórias.
+
+Súmula STF 659 - É legítima a cobrança da COFINS, do PIS e do FINSOCIAL sobre as operações relativas
+a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do
+País.
+
+Ressalte-se que o FINSOCIAL (Fundo de Investimento Social) foi extinto e substituído pela PIS e COFINS na
+década de 90. No entanto, como já vimos, se a assertiva “copiar e colar” a súmula, provavelmente ela estará
+correta.
+
+O STF também já se posicionou da seguinte forma sobre a base de cálculo da COFINS:
+
+"O conceito de receita bruta sujeita à incidência da COFINS envolve, não só aquela decorrente da
+venda de mercadorias e da prestação de serviços, mas também a soma das receitas oriundas do
+exercício de outras atividades empresariais."
+
+(STF, RE 444.601, Rel. Min. Cezar Peluso, 07/11/2006)
+
+
+
+
+Súmula STJ 423 - A Contribuição para Financiamento da Seguridade Social - Cofins incide sobre as
+receitas provenientes das operações de locação de bens móveis.
+
+
+
+
+Grave isso! A COFINS incide sobre receita de locação de bens MÓVEIS!
+
+Nas próximas aulas, aprenderemos que o STF considera inconstitucional a incidência de ISS (imposto
+municipal) sobre as operações de locação de bens móveis.
+
+
+
+“CONSTITUCIONAL E TRIBUTÁRIO. RECEITAS ORIUNDAS DE EXPORTAÇÃO. ARTIGO 149, § 2º, I, DA CF.
+IMUNIDADE. CSLL. NÃO EXTENSÃO. RECEITA E LUCRO. CONCEITOS DISTINTOS. RECURSO
+DESPROVIDO.1. A Contribuição Social sobre o Lucro Líquido incide sobre o lucro auferido pelas
+empresas de exportação, mercê de a incidência não recair sobre as receitas, tout court, considerando-
+se que o método analógico interpretativo não pode gerar exclusão tributária.”
+
+(STF, RE 524.444, Rel. Min. Luiz Fux, 02/05/2011)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        25
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+QUESTÃO INÉDITA
+Não há incidência da CSLL sobre o lucro auferido pelas empresas de exportação, eis que, se não há ônus
+tributário sobre as receitas de exportação, também não deve haver sobre o lucro delas decorrente.
+
+Comentário: Deve-se ter em mente que receita e lucro são conceitos distintos. O fato de a regra ser a
+desoneração tributária sobre as operações de exportações, não implica que o lucra advindo de tais
+transações também seja imune.
+
+Gabarito: Errada
+
+Súmula STF 732 - É constitucional a cobrança da contribuição do salário-educação, seja sob a Carta de
+1969, seja sob a Constituição Federal de 1988, e no regime da Lei 9.424/96.
+
+“É inconstitucional interpretação da Lei Orçamentária nº 10.640, de 14 de janeiro de 2003, que implique
+abertura de crédito suplementar em rubrica estranha à destinação do que arrecadado a partir do
+disposto no § 4º do artigo 177 da Constituição Federal”.
+
+(STF, ADI 2.925, Rel. Min. Ellen Gracie, 19/12/2003)
+
+Para facilitar o entendimento do julgado citado acima, lembre-se que o art. 177, § 4°, da CF/88, trata da CIDE-
+Combustíveis. Nesse sentido, não é permitido que seja dada destinação diferente das que deram ensejo à
+instituição deste tributo.
+
+“A contribuição do SEBRAE é contribuição de intervenção no domínio econômico, não obstante a lei
+a ela se referir como adicional às alíquotas das contribuições sociais gerais relativas às entidades de
+que trata o art. 1º do D.L. 2.318/86, SESI, SENAI, SESC, SENAC.”
+
+(STF, RE 396.266, Min. Carlos Velloso, 26/11/2003)
+
+Além da contribuição do SEBRAE, também foram consideradas CIDEs os seguintes tributos: Adicional ao
+Frete para Renovação da Marinha Mercante (AFRMM) e Adicional de Tarifa Portuária (ATP).
+
+Por outro lado, o STF (RE 138.284-8/CE) já se posicionou no sentido de que as contribuições vertidas para
+os demais serviços sociais autônomos são consideradas contribuições sociais gerais. Foram citadas, no
+julgamento, as contribuições do SENAI, do SESI e do SENAC.
+
+Especificamente em relação à CIDE destinada ao INCRA, vamos trazer mais detalhes, à luz da jurisprudência
+do STF:
+
+     Tema Repercussão Geral 495 - É constitucional a contribuição de intervenção no domínio
+     econômico destinada ao INCRA devida pelas empresas urbanas e rurais, inclusive após o advento
+     da EC nº 33/2001.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            26
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+A controvérsia era sobre a contribuição de 0,2% ao INCRA, incidente sobre a folha de salários das empresas
+urbanas e rurais. Muitos contribuintes alegavam que, após a EC 33/2001, a contribuição teria perdido
+fundamento, porque a emenda listou bases econômicas específicas (faturamento, receita bruta, valor da
+operação e valor aduaneiro) e não incluiu a folha de salários.
+
+O STF afirmou que a contribuição ao INCRA tem natureza de CIDE (Contribuição de Intervenção no Domínio
+Econômico), voltada a financiar políticas de reforma agrária e colonização. Além disso, definiu que o rol do
+art. 149, § 2º, III, a, da CF, não é taxativo, mas apenas exemplificativo. Isso significa que a contribuição pode
+incidir sobre a folha de salários, mesmo que a folha não esteja expressa no dispositivo.
+
+Por consequência, a contribuição continua sendo exigível mesmo após a EC 33/2001, e tanto empresas
+urbanas e rurais devem recolher a alíquota de 0,2% sobre a folha de salários.
+
+Dando continuidade ao nosso estudo das contribuições especiais, não podemos nos esquecer das
+contribuições sindicais. Pela redação do art. 8º, IV, da CF/88, podemos perceber que há dois tipos de
+contribuições relacionadas ao sindicado. Uma é denominada contribuição confederativa, cobrada apenas
+daqueles que se filiaram a essas entidades representativas. Vejamos o entendimento do STF:
+
+Súmula Vinculante 40 - A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal,
+só é exigível dos filiados ao sindicato respectivo.
+
+Observação: Esta súmula vinculante possui a mesma redação da Súmula 666 do STF. Isso significa
+que já se tratava de entendimento pacífico no STF.
+
+A outra é a contribuição sindical, que era compulsória antes da reforma trabalhista ocorrida em 2017. O
+próprio Supremo Tribunal Federal (MS 28.465) já reconheceu a natureza tributária da exação, como sendo
+uma contribuição social, e amoldando-se à definição de tributo, prevista no já estudado art. 3º, do CTN.
+
+Trata-se da cobrança de um valor correspondente à remuneração de um dia de trabalho dos empregados.
+As entidades sindicais figuram como destinatárias desses recursos, motivo pelo qual torna-se totalmente
+inadequado nomeá-la “imposto sindical”, uma vez que há vinculação em relação ao destino da sua
+arrecadação.
+
+De qualquer modo, como comentamos, a reforma trabalhista estabelecida pela Lei 13.467/2017 pôs fim à
+compulsoriedade da referida contribuição, alterando a redação dos arts. 578 e 579, da CLT, os quais
+passaram a exigir prévia e expressa autorização para o seu desconto:
+
+Art. 578. As contribuições devidas aos sindicatos pelos participantes das categorias econômicas ou
+profissionais ou das profissões liberais representadas pelas referidas entidades serão, sob a
+denominação de contribuição sindical, pagas, recolhidas e aplicadas na forma estabelecida neste
+Capítulo, desde que prévia e expressamente autorizadas. (Redação dada pela Lei nº 13.467, de
+2017)
+
+Art. 579. O desconto da contribuição sindical está condicionado à autorização prévia e expressa
+dos que participarem de uma determinada categoria econômica ou profissional, ou de uma
+profissão liberal, em favor do sindicato representativo da mesma categoria ou profissão ou,
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              27
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+inexistindo este, na conformidade do disposto no art. 591 desta Consolidação. (Redação dada pela
+Lei nº 13.467, de 2017)
+
+Em junho de 2018, o STF, por 6 votos a 3, julgou que o fim da obrigatoriedade da contribuição sindical é
+constitucional. De acordo com o STF, não se pode admitir que a contribuição sindical seja imposta a
+trabalhadores e empregadores quando a Constituição determina que ninguém é obrigado a se filiar ou a se
+manter filiado a uma entidade sindical.
+
+Dessa forma, o que você precisa saber para concursos públicos é que não há que se falar em contribuição
+sindical como tendo natureza tributária a partir da Lei 13.467/2017, pois a compulsoriedade não está mais
+presente nesta prestação pecuniária, não mais se adequando à definição de tributo.
+
+Destacamos que, em relação à OAB, o STF decidiu em 2023, no julgamento do Recurso Extraordinário (RE)
+1182189, com repercussão geral reconhecida (Tema 1.054), que não possuem natureza tributária. No caso
+em comento, prevaleceu o voto do Min. Edson Fachin, para quem as anuidades cobradas dos advogados
+não detêm natureza tributária e, para garantir que a entidade possa cumprir suas finalidades institucionais,
+ela não pode estar atrelada ao Estado.
+
+Vale lembrar que também temos uma jurisprudência de 2020, em que o STF definiu que nenhum conselho
+profissional (OAB, CRM, CREA, CRC, CRO, etc.) pode suspender ou impedir que o profissional atue apenas
+porque não pagou a anuidade. De acordo com a tese fixada no Tema 732 de Repercussão Geral, temos o
+seguinte:
+
+     Tema 732 Repercussão Geral - É inconstitucional a suspensão realizada por conselho de
+     fiscalização profissional do exercício laboral de seus inscritos por inadimplência de anuidades,
+     pois a medida consiste em sanção política em matéria tributária.
+
+O processo de origem do caso discutia se a OAB (e, por consequência, outros conselhos profissionais) poderia
+suspender o exercício profissional de advogados inadimplentes com as anuidades. O Tribunal reforçou a
+jurisprudência de que é inconstitucional impor medidas que inviabilizem o exercício profissional ou
+econômico como forma de cobrança.
+
+“Professor, mas como fica essa situação? Afinal, a anuidade da OAB tem ou não natureza jurídica?”
+
+O STJ (AREsp 2.451.645) apreciou exatamente o fato do julgado que deu origem ao Tema 732 (RE 647.885),
+e se alinhou ao fato de que realmente as anuidades da OAB não possuem natureza tributária. Na ocasião, o
+Ministro do STJ, Mauro Campbell Marques, definiu que o julgado acima não distinguiu os conselhos
+profissionais genericamente considerados e a OAB, de forma que não seria possível extrair, apenas a partir
+desse precedente, o caráter tributário das anuidades.
+
+Em suma, as anuidades para os demais conselhos possuem natureza tributária. Em relação à anuidade da
+OAB, não há natureza tributária.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         28
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+A jurisprudência mais recente do STF é no sentido de que as anuidades da OAB não possuem natureza
+tributária.
+
+Por fim, vamos falar acerca da Contribuição de Iluminação Pública, que foi impactada pela EC 132/2023
+(Reforma Tributária), ampliando o seu campo de incidência:
+
+Vejamos o que diz o art. 149-A:
+
+         Art. 149-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das
+         respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública
+         e de sistemas de monitoramento para segurança e preservação de logradouros públicos,
+         observado o disposto no art. 150, I e III. (Redação dada pela Emenda Constitucional nº 132,
+         de 2023)
+
+         Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura
+         de consumo de energia elétrica. (Incluído pela Emenda Constitucional nº 39, de 2002)
+
+Três aspectos devem ser levados em conta, na leitura dos dispositivos supra citados:
+
+   ➢ A competência é restrita aos Municípios e ao DF;
+   ➢ A contribuição financiará não apenas o custeio do serviço de iluminação pública, mas também a
+     expansão e a melhoria do serviço de iluminação pública bem como de sistemas de monitoramento
+     para segurança e preservação de logradouros públicos;
+   ➢ A arrecadação do tributo é vinculada ao custeio desse serviço;
+   ➢ É facultado que a cobrança desse tributo seja feita na fatura de consumo de energia elétrica.
+No que se refere à COSIP, faz-se necessário demonstrar o seguinte posicionamento da Suprema Corte:
+
+I – Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não
+ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários
+do serviço de iluminação pública.
+
+II – A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os
+consumidores de energia elétrica, não afronta o princípio da capacidade contributiva.
+
+III – Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina
+a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um
+serviço ao contribuinte.
+
+IV – Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade.
+
+V – Recurso extraordinário conhecido e improvido.
+
+(STF, RE 573.675-SC, Rel. Min. Ricardo Lewandowski, 25/03/2009)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             29
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com o entendimento do STF, como o serviço de iluminação pública beneficia toda população,
+afronta o princípio da isonomia restringir os contribuintes apenas aos consumidores de energia elétrica.
+
+Comentário: Como vimos, não é essa a posição do STF acerca do tema. Para a Corte, “ante a impossibilidade
+de se identificar e tributar todos os beneficiários do serviço de iluminação pública”, é possível restringir o
+custeio desse serviço aos consumidores de energia elétrica.
+
+Gabarito: Errada
+
+Uma outra jurisprudência importante é a que consta do Informativo 1139 do STF:
+
+     A majoração da alíquota da contribuição dos servidores estaduais ao Regime Próprio de
+     Previdência Social (RPPS) não exige a edição de lei complementar, sendo constitucional que
+     ocorra mediante lei ordinária (CF/1988, art. 149, § 1º). Também é cabível, para esse fim, a edição
+     de medida provisória, desde que presentes os pressupostos constitucionais autorizadores —
+     relevância e urgência (CF/1988, art. 62, caput) — e observado o princípio da anterioridade
+     nonagesimal (CF/1988, art. 149, caput c/c o art. 195, § 6º).
+
+     (ADI 6.534/TO, relator Ministro Flávio Dino, julgamento virtual finalizado em 04.06.2024 (Info
+     1139 STF)
+
+Caros amigos, o texto constitucional no art. 149, § 1º, prevê que a instituição da contribuição de custeio do
+RPPS e a majoração de suas respectivas alíquotas são exercidas “por meio de lei”, motivo pelo qual não há
+que se falar em reserva de lei complementar para dispor sobre o tema em questão.
+
+E, para finalizar, vamos citar a jurisprudência do STF, em sede de Repercussão Geral (Tema 696), acerca da
+COSIP:
+
+É constitucional a aplicação dos recursos arrecadados por meio de contribuição para o custeio da
+iluminação pública na expansão e aprimoramento da rede. (STF, RE 666404)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           30
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+            SÚMULAS ABORDADAS DURANTE A AULA
+Súmula Vinculante 41:
+
+Súmula Vinculante 41 - O serviço de iluminação pública não pode ser remunerado mediante taxa
+
+Súmula Vinculante 19:
+
+Súmula Vinculante 19: A taxa cobrada exclusivamente em razão dos serviços públicos de coleta,
+remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo
+145, II, da Constituição Federal.
+
+Súmula STF 665: O STF considerou constitucional a taxa de fiscalização dos mercados de títulos e valores
+mobiliários pela Comissão de Valores Mobiliários (CVM).
+
+Súmula STF 665 – É constitucional a taxa de fiscalização dos mercados de títulos e valores mobiliários
+instituída pela Lei 7.940/1989.
+
+Súmula STF 595:
+
+Súmula STF 595 – É inconstitucional a taxa municipal de conservação de estradas de rodagem cuja base
+de cálculo seja idêntica à do Imposto Territorial Rural.
+
+Súmula Vinculante 29:
+
+Súmula Vinculante 29 - É constitucional a adoção, no cálculo do valor de taxa, de um ou mais
+elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade
+entre uma base e outra.
+
+Súmula STF 667:
+
+Súmula STF 667 – Viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem
+limite sobre o valor da causa.
+
+Súmula STF 545: Não se pode esquecer que o princípio da anualidade (necessidade de prévia autorização
+orçamentária para cobrança de tributos) não consta em nosso atual texto constitucional.
+
+Súmula STF 545 - Preços de serviços públicos e taxas não se confundem, porque estas, diferentemente
+daqueles, são compulsórias e tem sua cobrança condicionada a prévia autorização orçamentária, em
+relação a lei que as instituiu.
+
+Súmula STJ 407: Serviço de fornecimento de água e tratamento de esgoto são remunerados por meio de
+tarifas:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          31
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+Súmula STJ 407 - É legítima a cobrança da tarifa de água fixada de acordo com as categorias de
+usuários e as faixas de consumo.
+
+Súmula STJ 353: Não obstante a importância do texto da referida súmula, não pode desprezar o estudo da
+jurisprudência do STF, quanto às contribuições instituídas pela LC 110/01.
+
+Súmula STJ 353 - As disposições do Código Tributário Nacional não se aplicam às contribuições para o
+FGTS.
+
+Súmula Vinculante 40: A contribuição confederativa só é cobrada daqueles que se filiaram a essas entidades
+representativas (sindicatos).
+
+Súmula Vinculante 40 - A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal,
+só é exigível dos filiados ao sindicato respectivo.      ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           32
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+
+1.FGV/TCE-RR-Auditor Substituto Conselheiro/2025
+
+O Estado Alfa, com o intuito de atualizar a sua legislação tributária, resolveu criar três taxas distintas:
+
+1. Taxa de fiscalização sobre as atividades de pesquisa, lavra, exploração ou aproveitamento, de recursos
+minerários;
+
+2. Taxa de controle, acompanhamento e fiscalização de atividades de exploração e aproveitamento de
+recursos hídricos; e
+
+3. Taxa de fiscalização e vistoria em estabelecimentos comerciais abertos ao público.
+
+De acordo com o disposto na Constituição Federal de 1988 e a jurisprudência do Supremo Tribunal Federal,
+assinale a afirmativa correta.
+
+a) É inconstitucional a instituição da taxa de fiscalização de recursos minerários pelo Estado, pois, embora a
+competência político-administrativa em matéria ambiental seja comum, compete privativamente à União
+legislar sobre minas e jazidas.
+
+b) É inconstitucional a inserção do volume hídrico como elemento de quantificação de taxa de fiscalização,
+pois as taxas não podem ter base de cálculo própria de impostos e nem levar em consideração dados
+relativos à atividade do contribuinte na sua quantificação.
+
+c) É inconstitucional a instituição de taxa de fiscalização de recursos minerários, cuja expectativa de
+arrecadação extrapole excessivamente a totalidade da despesa realizada pelo órgão de fiscalização, ainda
+que haja aderência entre o critério de quantificação eleito pelo legislador (recursos extraídos) e a atividade
+de fiscalização exercida.
+
+d) É inconstitucional a instituição de taxa de fiscalização de recursos minerários, sem que haja equivalência
+estrita entre o valor da taxa e os custos da atividade estatal.
+
+e) É inconstitucional a instituição de taxa de fiscalização e vistoria em estabelecimentos comerciais abertos
+ao público, como casas noturnas e restaurantes, pois a competência administrativa para a fiscalização e, por
+consequência, a competência tributária para a instituição da taxa é exclusiva dos municípios, nessas
+hipóteses.
+
+Comentário: A questão traz três taxas criadas pelo Estado Alfa, e nós vamos diretamente para as alternativas,
+uma vez que a análise individual delas se faz necessário para encontrarmos a resposta da questão!
+
+Letra A: Errada. É constitucional a criação de taxa estadual sobre atividades de pesquisa, lavra, exploração
+ou aproveitamento de recursos minerários. A competência da União para legislar sobre minas não impede
+que os Estados exerçam poder de polícia ambiental sobre tais atividades. (STF, ADI 4785 e ADI 4700).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              33
+        www.estrategiaconcursos.com.br                                                                        54
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 00
+
+
+
+Letra B: Errada. É constitucional inserir o volume hídrico como base de cálculo de taxas de fiscalização
+ambiental, pois isso reflete a proporcionalidade entre custo da fiscalização e impacto ambiental da atividade
+(STF, ADI 5374).
+
+Letra C: Correta. É inconstitucional a instituição de taxa de fiscalização quando a arrecadação excede
+claramente e desproporcionalmente os custos totais da fiscalização estatal, mesmo que o critério de
+quantificação seja razoável. Esta é a jurisprudência consolidada do STF (ADI 4700).
+
+Letra D: Errada. O STF não exige equivalência estrita, mas sim equivalência razoável entre o valor da taxa e
+o custo da fiscalização (ADI 4786). Assim, exigir equivalência estrita é incorreto.
+
+Letra E: Errada. É constitucional a instituição de taxas de fiscalização pelos Estados em estabelecimentos
+comerciais abertos ao público, como casas noturnas e restaurantes (ADI 3770).
+
+Gabarito: C
+
+2.FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+De acordo com a jurisprudência do Supremo Tribunal Federal em relação à tributação no sistema brasileiro,
+analise as assertivas abaixo:
+
+I. É inconstitucional a instituição de taxa de polícia que exceda flagrante e desproporcionalmente os custos
+da atividade estatal de fiscalização.
+
+II. A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade
+precípua, pela unidade da Federação e, porque serviço essencial, tem como viabilizá-la a arrecadação de
+impostos, não cabendo ao Município a criação de taxa para tal fim.
+
+III. São constitucionais a instituição e a cobrança de taxas por emissão ou remessa de carnês/guias de
+recolhimento de tributos.
+
+Quais estão corretas?
+
+a) Apenas I.
+
+b) Apenas II.
+
+c) Apenas I e II.
+
+d) Apenas I e III.
+
+e) I, II e III.
+
+Comentário:
+
+Item I: Correto. É entendimento consolidado pelo STF que a taxa cobrada em razão do poder de polícia não
+pode ser desproporcional aos custos da atividade estatal. Caso contrário, haverá violação do princípio da
+proporcionalidade.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       34
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Item II: Correto. Segundo o STF, os serviços essenciais e indivisíveis, como segurança pública, incluindo
+prevenção e combate a incêndios, são custeados por impostos, não podendo os Municípios instituir taxas
+para financiá-los.
+
+Item III: Errado. O STF já consolidou entendimento de que é inconstitucional a cobrança de taxas pela
+emissão ou remessa de carnês ou guias para pagamento de tributos, pois não configuram serviços específicos
+e divisíveis prestados ao contribuinte. Trata-se apenas de atividade administrativa de interesse exclusivo da
+Fazenda Pública.
+
+Gabarito: C
+
+3.CEBRASPE/Auditor do Estado (CGE RJ) /2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF:
+"A cobrança de taxa como contraprestação pelo serviço público de iluminação pública não encontra amparo
+constitucional, ante a indivisibilidade do serviço."
+
+Comentário: De acordo com a Súmula Vinculante nº 41 e a jurisprudência do STF, a taxa para o serviço de
+iluminação pública é inconstitucional devido à sua natureza inespecífica e indivisível. A cobrança deve
+ocorrer via COSIP, conforme art. 149-A da CF após a EC 39/2002.
+
+Gabarito: Correto
+
+4.FGV/RFB-Analista Tributário/2023
+
+A natureza jurídica dos empréstimos compulsórios suscitou, no passado, forte controvérsia doutrinária e
+jurisprudencial que chegou a envolver mudanças de posicionamento por parte do próprio Supremo Tribunal
+Federal.
+
+À luz da visão constitucional atual sobre os empréstimos compulsórios, assinale a afirmativa correta.
+
+A) Os empréstimos compulsórios não podem ser instituídos com o fim de atender conjuntura que exija a
+absorção temporária de poder aquisitivo.
+
+B) No caso de investimento público de caráter urgente e de relevante interesse nacional, o Presidente da
+República poderá criar o empréstimo compulsório por meio de Medida Provisória.
+
+C) No caso de investimento público de caráter urgente e de relevante interesse nacional, um empréstimo
+compulsório criado por lei publicada em dezembro de 2022 poderá ser exigido a partir de 1º de janeiro de
+2023.
+
+D) Os empréstimos compulsórios podem ser criados por lei ordinária.
+
+E) Os empréstimos compulsórios podem ser instituídos pela União, pelos Estados, pelo Distrito Federal e
+pelos Municípios.
+
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          35
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Letra A: Esta possibilidade encontra-se no art. 15, III, do CTN, dispositivo não recepcionado pela CF/88, por
+ser incompatível com o art. 148 do texto constitucional. Alternativa correta.
+
+Letra B: O empréstimo compulsório deve sempre ser instituído por lei complementar, e as medidas
+provisórias não podem tratar de assuntos reservados pela CF/88 a lei complementar (CF, art. 148).
+Alternativa errada.
+
+Letra C: O empréstimo compulsório, no caso de investimento público de caráter urgente e de relevante
+interesse nacional, deve respeitar tanto a anterioridade anual como nonagesimal. Ou seja, só poderá ser
+cobrado após decorridos 90 dias da publicação da lei instituidora. Alternativa errada.
+
+Letra D: O empréstimo compulsório só pode ser instituído por meio de lei complementar (CF, art. 148).
+Alternativa errada.
+
+Letra E: O empréstimo compulsório é tributo de competência exclusiva da União (CF, art. 148). Alternativa
+errada.
+
+Gabarito: Letra A
+
+5.CEBRASPE/APO -SEPLAN-RR/2023
+
+No que se refere a espécies e classificações de tributos, julgue o item subsequente.
+
+Ainda que auferidos por particulares, os emolumentos pagos aos cartórios extrajudiciais constituem tributo
+da espécie taxa, conforme decisão do STF.
+
+Comentário: A jurisprudência do Supremo Tribunal Federal é exatamente neste sentido: os emolumentos
+pagos aos cartórios extrajudiciais constituem tributo da espécie taxa.
+
+Gabarito: Certo
+
+6.CEBRASPE/TJDFT/2023
+
+Determinado município instituiu taxa de combate a sinistros destinada a custear assistência, combate e
+extinção de incêndios, sendo a base de cálculo dessa taxa o metro quadrado do imóvel.
+
+Considerando a situação hipotética anterior, assinale a opção correta.
+
+a) O estado, mas não o município, poderia, no âmbito da segurança pública, instituir a taxa de forma válida.
+
+b) Os serviços de extinção e prevenção de incêndios não são específicos ou divisíveis, razão pela qual podem
+ser remunerados por taxa.
+
+c) A base de cálculo da taxa deve mensurar a atividade estatal, podendo ter como parâmetro fatos geradores
+tributados por impostos.
+
+d) O fato gerador, nesse caso, caracteriza-se pela utilização, efetiva ou potencial, de serviço de segurança
+pública, podendo, portanto, ser custeado por taxa.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          36
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+e) Sendo a segurança pública dever do Estado e direito de todos, essa atividade só pode ser sustentada pelos
+impostos.
+
+Comentário:
+
+Alternativa A: Nem o Estado, tampouco o Município poderia, no âmbito da segurança pública, instituir a taxa
+de forma válida.
+
+Alternativa B: Exatamente por isso é que os serviços de extinção e prevenção de incêndios não podem ser
+remunerados por meio de taxas.
+
+Alternativa C: Conforme jurisprudência do STF, tal serviço não pode ser custeado por taxas.
+
+Alternativa D: O STF entende que tal serviço não pode ser custeado por taxas.
+
+Alternativa E: O entendimento mais recente do STF sobre o caso é exatamente o de que a segurança pública
+deve ser custeada pelos impostos.
+
+Gabarito: E
+
+7.CEBRASPE/PGFN-PROCURADOR/2023
+
+O STF e o STJ reconhecem a validade da tributação de rendimentos provenientes de atos ilícitos, pois a
+interpretação legal do fato gerador é feita abstraindo-se a validade jurídica dos atos praticados, a natureza
+do objeto ou os efeitos desses atos. Trata-se da aplicação do princípio tributário
+
+a) da tipicidade.
+
+b) da legalidade.
+
+c) do non olet.
+
+d) da capacidade contributiva.
+
+e) da isonomia.
+
+Comentário: O caso em questão é o princípio pecúnia non olet, que tem relação com a tributação de
+rendimentos provenientes de atos ilícitos. É o posicionamento da jurisprudência ,que encontra, inclusive,
+previsão no CTN:
+
+       Art. 118. A definição legal do fato gerador é interpretada abstraindo-se:
+
+       I - da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou
+       terceiros, bem como da natureza do seu objeto ou dos seus efeitos;
+
+       II - dos efeitos dos fatos efetivamente ocorridos.
+
+Gabarito: C
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          37
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+8.CEBRASPE/ SEFAZ SE/2022
+
+A respeito do regime jurídico tributário das taxas, assinale a opção correta.
+
+a) É constitucional a destinação da receita de custas e emolumentos judiciais a fundo do Poder Judiciário, a
+seccional estadual da OAB e à respectiva caixa de assistência dos advogados.
+
+b) É constitucional a instituição pelos estados de taxa para a expedição por órgão de segurança pública de
+alvarás de funcionamento de estabelecimentos que fabriquem, transportem ou comercializem armas de
+fogo.
+
+c) É constitucional a instituição pelos estados de taxa a ser satisfeita por sociedade seguradora, tendo em
+conta atendimento, no âmbito do SUS, de vítima de sinistro coberto pelo DPVAT.
+
+d) O pedágio cobrado pela efetiva utilização de rodovias conservadas pelo poder público tem natureza
+                                                         ==219a34==
+
+
+
+
+jurídica de taxa de serviço público.
+
+e) É inconstitucional a instituição pelos estados de taxa de polícia sobre a atividade de exploração de recursos
+hídricos em seu território.
+
+Comentário:
+
+Alternativa A: De acordo com a jurisprudência do STF, é inconstitucional a destinação da receita de custas e
+emolumentos judiciais a fundo do Poder Judiciário, a seccional estadual da OAB e à respectiva caixa de
+assistência dos advogados.
+
+Alternativa B: De fato, o STF (ADI 3770) considera constitucional a instituição pelos estados de taxa para a
+expedição por órgão de segurança pública de alvarás de funcionamento de estabelecimentos que fabriquem,
+transportem ou comercializem armas de fogo.
+
+Alternativa C: De acordo com o STF, conflita com a Constituição Federal a criação, pelo Estado, de taxa a ser
+satisfeita por sociedade seguradora, tendo em conta atendimento, no âmbito do SUS, de vítima de sinistro
+coberto pelo DPVAT.
+
+Alternativa D: De acordo com o STF, o pedágio cobrado em rodovias conservadas pelo poder público não
+tem natureza jurídica de taxa, e sim de preço público.
+
+Alternativa E: Conforme a ementa do STF, considerado o princípio da proporcionalidade, conflita com a
+Constituição Federal instituição de taxa ausente equivalência entre o valor exigido do contribuinte e os custos
+alusivos ao exercício do poder de polícia – artigo 145, inciso II, da Lei Maior –, sob pena de ter-se espécie
+tributária de caráter arrecadatório cujo alcance extrapola a obtenção do fim que lhe fundamenta a
+existência, dificultando ou mesmo inviabilizando o desenvolvimento da atividade econômica.
+
+Gabarito: B
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             38
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+9.CEBRASPE/Pref Maringá-Auditor/2022
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+Comentário:
+
+Alternativa A: A cobrança de pedágio pela utilização de vias conservadas pelo poder público não é
+considerada taxa, de acordo com a jurisprudência do STF.
+
+Alternativa B: O art. 151, III, da CF/88 veda que a União institua isenções de tributos da competência dos
+estados, do Distrito Federal ou dos municípios. Trata-se das isenções heterônomas.
+
+Alternativa C: As CIDEs, assim como as contribuições sociais, podem ter alíquotas específicas ou ad valorem,
+conforme estabelece o art. 149, § 2º, da CF. Especificamente em relação a CIDE-Combustíveis, existe exceção
+quanto ao princípio da anterioridade anual no caso de ter sua alíquota reduzida e restabelecida, mas deve
+obedecer ao princípio da anterioridade nonagesimal.
+
+Alternativa D: Trata-se de assunto relativo às imunidades tributárias. Tal imunidade abrange os livros, jornais
+e periódicos (art. 150, VI, “d”, da CF). A jurisprudência do STF entende que a tinta destinada à impressão de
+livros não tem imunidade tributária de impostos.
+
+Alternativa E: A imunidade tributária abrange apenas os impostos incidentes sobre fonogramas e
+videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores
+brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem como os suportes materiais ou
+arquivos digitais que os contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a
+laser.
+
+Gabarito: C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            39
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+10.VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Segundo a Constituição Federal e jurisprudência dos tribunais superiores, é correto afirmar sobre as taxas
+que:
+
+A) podem ser cobradas em razão da prestação de serviços públicos uti universi ou uti singuli.
+
+B) podem possuir base de cálculo idêntica à dos impostos, caso sejam cobradas em razão do exercício do
+poder de polícia.
+
+C) não exigem a efetiva prestação de serviço público para a sua cobrança pelo ente público competente.
+
+D) não podem ser cobradas para fins de financiamento do serviço público de coleta de lixo domiciliar.
+
+E) podem ser criadas para fins de financiamento do serviço de iluminação pública.
+
+Comentário:
+
+Alternativa A: As taxas de serviço tem como fato gerador a utilização de serviços públicos específicos e
+divisíveis, ou seja, serviços caracterizados como “uti singuli”.
+
+Alternativa B: O art. 77, par. único, do CTN, define que as taxas não podem possuir base de cálculo idêntica
+à dos impostos, sejam elas taxas de polícia, ou taxas de serviços.
+
+Alternativa C: De fato, a forma de utilização do serviço público pode ser efetiva ou potencial. Ou seja, na
+utilização potencial os serviços são postos à sua disposição do contribuinte mediante atividade
+administrativa em efetivo funcionamento. Assim, não há exigência de efetiva prestação de serviço público
+para a sua cobrança pelo ente público competente.
+
+Alternativa D: O STF já reconheceu a constitucionalidade do serviço de coleta domiciliar de lixo. Trata-se da
+Súmula Vinculante 19.
+
+Alternativa E: A Súmula Vinculante 41, do STF, define que o serviço de iluminação pública não pode ser
+remunerado por meio de taxa.
+
+Gabarito: Letra C
+
+11.VUNESP/Auditor Fiscal de Tributos Municipais (Pref Sorocaba)/2022
+
+Os tributos são categoria de receita pública sujeita a regras específicas para sua cobrança.
+
+A respeito das taxas, é correto afirmar, com base na legislação tributária e jurisprudência nacionais, que
+
+A) é inconstitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo
+própria de determinado imposto, mesmo que não haja integral identidade entre uma base e outra.
+
+B) a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou
+destinação de lixo provenientes de imóveis viola a Constituição Federal de 1988.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             40
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+C) não viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem limite sobre o
+valor da causa.
+
+D) o serviço de iluminação pública deve ser remunerado mediante taxa decorrente da prestação de serviço
+público indivisível.
+
+E) a cobrança de taxa de matrícula nas universidades públicas viola a Constituição Federal de 1988.
+
+Comentário:
+
+Alternativa A: De acordo com a Súmula Vinculante 29, é constitucional a adoção, no cálculo do valor de taxa,
+de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral
+identidade entre uma base e outra.
+
+Alternativa B: De acordo com a Súmula Vinculante 19, a taxa cobrada exclusivamente em razão dos serviços
+públicos de coleta, remoção e tratamento ou destinação de lixo provenientes de imóveis não viola a
+Constituição Federal de 1988.
+
+Alternativa C: De acordo com a Súmula STF 667, viola a garantia constitucional de acesso à jurisdição a taxa
+judiciária calculada sem limite sobre o valor da causa.
+
+Alternativa D: Conforme estabelece o art. 77, do CTN, as taxas cobradas pela União, pelos Estados, pelo
+Distrito Federal ou pelos Municípios, no âmbito de suas respectivas atribuições, têm como fato gerador o
+exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e
+divisível, prestado ao contribuinte ou posto à sua disposição.
+
+Como o serviço de iluminação pública é indivisível, seu custeio se dará por meio de contribuição de
+iluminação pública, prevista no art. 149-A, da CF.
+
+Alternativa E: Assim como mencionado na questão, de acordo com a Súmula Vinculante 12, a cobrança de
+taxa de matrícula nas universidades públicas viola o disposto no art. 206, IV, da Constituição Federal.
+
+Gabarito: Letra E
+
+12.VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Fulano de Tal foi condenado pela prática do ilícito de corrupção passiva, tendo sido provado o fato de ter
+recebido cerca de um milhão de reais para a realização de ato administrativo em favor de determinada
+empresa. Como parte da condenação, Fulano foi obrigado a pagar multa no valor de 2x (duas vezes) o
+montante recebido como propina. Nada obstante, Fulano foi surpreendido com autuação pela Receita
+Federal pelo não pagamento do imposto de renda sobre os proventos decorrentes da corrupção. A respeito
+dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que:
+
+A) não se pode falar em recebimento de proventos para fins de incidência do imposto de renda,
+considerando que Fulano foi condenado ao pagamento de multa em montante de 2x o valor recebido.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          41
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+B) o princípio tributário do não confisco prevê a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, mesmo nos casos de fato gerador que se refira à situação
+jurídica.
+
+C) não há que se falar em incidência de tributos em geral sobre situações consideradas ilícitas, tais como a
+situação de receitas decorrentes do recebimento de propinas por agente público.
+
+D) por se tratar de imposto sobre produto de ato ilícito, é imprescritível o crédito tributário decorrente da
+autuação apresentada pela Receita Federal.
+
+E) o princípio do non olet estabelece a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da corrupção.
+
+ Comentário: O princípio do pecunia non olet estabelece a possibilidade de cobrança de tributos sobre
+situações independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da
+corrupção.
+
+Sua base está na jurisprudência do STF e no art. 118, do CTN:
+
+Art. 118. A definição legal do fato gerador é interpretada abstraindo-se:
+
+I - da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem
+como da natureza do seu objeto ou dos seus efeitos;
+
+II - dos efeitos dos fatos efetivamente ocorridos.
+
+Gabarito: Letra E
+
+13. (FGV/SEFAZ-ES/2022)
+
+O Município X, para custeio do serviço público coletivo e geral de iluminação das vias públicas, instituiu por
+lei municipal ordinária a taxa de iluminação pública. Também instituiu, por outra lei municipal ordinária, uma
+taxa de coleta domiciliar de lixo, pelo serviço público de retirada de lixo de cada imóvel individualmente
+considerado.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+A) Ambos os serviços públicos indicados no enunciado podem ser remunerados mediante taxa.
+
+B) O serviço público de iluminação das vias públicas necessita de lei complementar para instituição de sua
+taxa remuneratória.
+
+C) O serviço público de iluminação de vias públicas não pode ser remunerado mediante taxa.
+
+D) O serviço público de retirada de lixo de cada imóvel individualmente considerado não pode ser
+remunerado mediante taxa.
+
+E) Nenhum dos serviços públicos indicados no enunciado pode ser remunerado mediante taxa.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           42
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Comentário: Ressalta-se que as taxas têm como fato gerador o exercício regular do poder de polícia, ou a
+utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto
+à sua disposição, conforme art. 77, do CTN. Portanto o fato gerador de uma taxa tem que ser suscetível de
+utilização, separadamente, por parte de cada um dos seus usuários.
+
+Alternativa A: O custeio do serviço público coletivo e geral de iluminação das vias públicas é um serviço que
+não respeita os conceitos de especificidade e divisibilidade, ou seja, não é suscetível de utilização,
+separadamente, por parte de cada um, por conseguinte não pode ser remunerado mediante taxa. Conforme
+a Súmula Vinculante 41 do STF.
+
+Súmula Vinculante nº 41: O serviço de iluminação pública não pode ser remunerado mediante taxa.
+
+Em relação à taxa de coleta domiciliar de lixo, pelo serviço público de retirada de lixo de cada imóvel
+individualmente, o STF já pacificou que tal cobrança por meio de taxa é constitucional.
+
+Súmula Vinculante nº 19: A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção
+e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II, da
+Constituição Federal.
+
+Apenas tome cuidado para não confundir com a instituição de taxa em razão dos serviços de conservação e
+limpeza de logradouros e bens públicos, pois esta é inconstitucional. Alternativa errada.
+
+Alternativa B: A instituição de taxa exige apenas lei ordinária. Alternativa errada.
+
+Alternativa C: O serviço de iluminação de vias públicas não pode ser cobrado por taxa, mas sim por
+contribuição específica, mais detalhadamente pela COSIP, tal instituto é previsto na Constituição Federal,
+art. 149-A. Sendo facultado a sua cobrança por meio da fatura de consumo de energia elétrica.
+
+Art. 149-A Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis,
+para o custeio do serviço de iluminação pública, observado o disposto no art. 150, I e III.
+
+Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de
+energia elétrica.
+
+Alternativa correta.
+
+Alternativa D: Conforme a Súmula Vinculante 19 do SFT, a referida taxa pode sim ser instituída por meio de
+taxa. Alternativa errada.
+
+Alternativa E: O custeio do serviço público coletivo e geral de iluminação das vias públicas deve ser instituído
+por meio da COSIP, e coleta domiciliar de lixo, pelo serviço público de retirada de lixo de cada imóvel
+individualmente pode ser remunerada por taxa. Alternativa errada.
+
+Gabarito: Letra C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             43
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+14. (FGV/Pref. Salvador-BA-Técnico de Nível Superior-Direito/2017)
+O Município “X” instituiu, por lei, uma taxa, com o objetivo de prevenção e combate a incêndios.
+Considerando tal hipótese, à luz da Jurisprudência do Supremo Tribunal Federal, assinale a afirmativa
+correta.
+a) A lei municipal é constitucional, pois adstrita aos exatos limites da competência tributária atribuída aos
+municípios pela CRFB/88.
+b) A lei municipal é constitucional, pois a saúde financeira do município é um objetivo constitucional.
+c) A lei municipal é inconstitucional, pois se trata de tributo da competência exclusiva da União.
+d) A lei municipal é inconstitucional, pois a prevenção e o combate a incêndios compõem a segurança
+pública, não cabendo ao Município a criação de taxa para tal fim.
+e) A lei municipal é inconstitucional, pois trata de matéria típica de decreto municipal ou portaria.
+
+Comentário: Em 2017 (RE 643.247/SP), o STF julgou inconstitucional lei municipal que instituiu taxa pela
+utilização efetiva ou potencial dos serviços municipais de assistência, combate e extinção de incêndios,
+instituída com o objetivo de ressarcir o erário municipal do custo da manutenção do serviço de combate a
+incêndios.
+
+De acordo com o Relator Min. Marco Aurélio, o art. 144, da Constituição Federal, atribui aos estados, por
+meio dos Corpos de Bombeiros Militares, a execução de atividades de defesa civil, incluindo a prevenção e o
+combate a incêndios. Por essa razão, o Município não poderia substituir o Estado, por meio da criação de um
+tributo específico para esse fim.
+
+Gabarito: Letra D
+
+15. FGV/ISS-Cuiabá-Auditor Fiscal/2016
+A Constituição Federal de 1988 autoriza a instituição de novas contribuições de seguridade social, destinadas
+a garantir a sua manutenção ou expansão. As opções a seguir apresentam os requisitos para a instituição de
+novas contribuições de seguridade social, à exceção de uma. Assinale-a.
+a) Ser instituída por lei complementar.
+b) Ser não cumulativa.
+c) Ser instituída pela União.
+d) Ter fato gerador distinto das contribuições sociais já previstas na Constituição Federal.
+e) Ter base de cálculo distinta dos impostos já previstos na Constituição Federal.
+
+Comentário: A instituição de novas contribuições de seguridade social deve respeitar as regras previstas no
+art. 154, I, da CF/88, que dizem respeito aos impostos residuais. Assim sendo, elas devem ser instituídas em
+lei complementar, devem ser não cumulativas e, além disso, não podem ter fato gerador ou base de cálculo
+próprios das demais contribuições previstas na CF/88.
+
+Não obstante o dispositivo mencione a inovação do fato gerador e base de cálculo para os impostos, o STF
+entende que, ao instituir novas contribuições, o critério de diferenciação deve ocorrer em relação às demais
+contribuições.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          44
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+Portanto, o erro da Letra E está em afirmar que a base de cálculo da contribuição residual deve ser distinta
+dos impostos já previstos na Constituição Federal.
+
+Gabarito: Letra E
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         45
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 00
+
+
+
+
+                                          LISTA DE QUESTÕES
+1.       FGV/TCE-RR-Auditor Substituto Conselheiro/2025
+
+O Estado Alfa, com o intuito de atualizar a sua legislação tributária, resolveu criar três taxas distintas:
+
+1. Taxa de fiscalização sobre as atividades de pesquisa, lavra, exploração ou aproveitamento, de recursos
+minerários;
+
+2. Taxa de controle, acompanhamento e fiscalização de atividades de exploração e aproveitamento de
+recursos hídricos; e
+
+3. Taxa de fiscalização e vistoria em estabelecimentos comerciais abertos ao público.
+
+De acordo com o disposto na Constituição Federal de 1988 e a jurisprudência do Supremo Tribunal Federal,
+assinale a afirmativa correta.
+
+a) É inconstitucional a instituição da taxa de fiscalização de recursos minerários pelo Estado, pois, embora a
+competência político-administrativa em matéria ambiental seja comum, compete privativamente à União
+legislar sobre minas e jazidas.
+
+b) É inconstitucional a inserção do volume hídrico como elemento de quantificação de taxa de fiscalização,
+pois as taxas não podem ter base de cálculo própria de impostos e nem levar em consideração dados
+relativos à atividade do contribuinte na sua quantificação.
+
+c) É inconstitucional a instituição de taxa de fiscalização de recursos minerários, cuja expectativa de
+arrecadação extrapole excessivamente a totalidade da despesa realizada pelo órgão de fiscalização, ainda
+que haja aderência entre o critério de quantificação eleito pelo legislador (recursos extraídos) e a atividade
+de fiscalização exercida.
+
+d) É inconstitucional a instituição de taxa de fiscalização de recursos minerários, sem que haja equivalência
+estrita entre o valor da taxa e os custos da atividade estatal.
+
+e) É inconstitucional a instituição de taxa de fiscalização e vistoria em estabelecimentos comerciais abertos
+ao público, como casas noturnas e restaurantes, pois a competência administrativa para a fiscalização e, por
+consequência, a competência tributária para a instituição da taxa é exclusiva dos municípios, nessas
+hipóteses.
+
+2.       FUNDATEC/Pref. Porto Alegre - Auditor Fiscal/2025
+
+De acordo com a jurisprudência do Supremo Tribunal Federal em relação à tributação no sistema brasileiro,
+analise as assertivas abaixo:
+
+I. É inconstitucional a instituição de taxa de polícia que exceda flagrante e desproporcionalmente os custos
+da atividade estatal de fiscalização.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           46
+           www.estrategiaconcursos.com.br                                                                     54
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 00
+
+
+
+II. A segurança pública, presentes a prevenção e o combate a incêndios, faz-se, no campo da atividade
+precípua, pela unidade da Federação e, porque serviço essencial, tem como viabilizá-la a arrecadação de
+impostos, não cabendo ao Município a criação de taxa para tal fim.
+
+III. São constitucionais a instituição e a cobrança de taxas por emissão ou remessa de carnês/guias de
+recolhimento de tributos.
+
+Quais estão corretas?
+
+a) Apenas I.
+
+b) Apenas II.
+
+c) Apenas I e II.
+
+d) Apenas I e III.
+
+e) I, II e III.
+
+3.       CEBRASPE/Auditor do Estado (CGE RJ) /2024
+
+A respeito dos princípios constitucionais tributários e das espécies tributárias, julgue o item a seguir,
+considerando o Código Tributário Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF:
+"A cobrança de taxa como contraprestação pelo serviço público de iluminação pública não encontra amparo
+constitucional, ante a indivisibilidade do serviço."
+
+4.       FGV/RFB-Analista Tributário/2023
+
+A natureza jurídica dos empréstimos compulsórios suscitou, no passado, forte controvérsia doutrinária e
+jurisprudencial que chegou a envolver mudanças de posicionamento por parte do próprio Supremo Tribunal
+Federal.
+
+À luz da visão constitucional atual sobre os empréstimos compulsórios, assinale a afirmativa correta.
+
+A) Os empréstimos compulsórios não podem ser instituídos com o fim de atender conjuntura que exija a
+absorção temporária de poder aquisitivo.
+
+B) No caso de investimento público de caráter urgente e de relevante interesse nacional, o Presidente da
+República poderá criar o empréstimo compulsório por meio de Medida Provisória.
+
+C) No caso de investimento público de caráter urgente e de relevante interesse nacional, um empréstimo
+compulsório criado por lei publicada em dezembro de 2022 poderá ser exigido a partir de 1º de janeiro de
+2023.
+
+D) Os empréstimos compulsórios podem ser criados por lei ordinária.
+
+E) Os empréstimos compulsórios podem ser instituídos pela União, pelos Estados, pelo Distrito Federal e
+pelos Municípios.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     47
+           www.estrategiaconcursos.com.br                                                               54
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 00
+
+
+
+
+5.       CEBRASPE/APO -SEPLAN-RR/2023
+
+No que se refere a espécies e classificações de tributos, julgue o item subsequente.
+
+Ainda que auferidos por particulares, os emolumentos pagos aos cartórios extrajudiciais constituem tributo
+da espécie taxa, conforme decisão do STF.
+
+6.       CEBRASPE/TJDFT/2023
+
+Determinado município instituiu taxa de combate a sinistros destinada a custear assistência, combate e
+extinção de incêndios, sendo a base de cálculo dessa taxa o metro quadrado do imóvel.
+
+Considerando a situação hipotética anterior, assinale a opção correta.
+
+a) O estado, mas não o município, poderia, no âmbito da segurança pública, instituir a taxa de forma válida.
+
+b) Os serviços de extinção e prevenção de incêndios não são específicos ou divisíveis, razão pela qual podem
+ser remunerados por taxa.
+
+c) A base de cálculo da taxa deve mensurar a atividade estatal, podendo ter como parâmetro fatos geradores
+tributados por impostos.
+
+d) O fato gerador, nesse caso, caracteriza-se pela utilização, efetiva ou potencial, de serviço de segurança
+pública, podendo, portanto, ser custeado por taxa.
+
+e) Sendo a segurança pública dever do Estado e direito de todos, essa atividade só pode ser sustentada pelos
+impostos.
+
+Alternativa A: Nem o Estado, tampouco o Município poderia, no âmbito da segurança pública, instituir a taxa
+de forma válida.
+
+Alternativa B: Exatamente por isso é que os serviços de extinção e prevenção de incêndios não podem ser
+remunerados por meio de taxas.
+
+Alternativa C: Conforme jurisprudência do STF, tal serviço não pode ser custeado por taxas.
+
+Alternativa D: O STF entende que tal serviço não pode ser custeado por taxas.
+
+Alternativa E: O entendimento mais recente do STF sobre o caso é exatamente o de que a segurança pública
+deve ser custeada pelos impostos.
+
+7.       CEBRASPE/PGFN-PROCURADOR/2023
+
+O STF e o STJ reconhecem a validade da tributação de rendimentos provenientes de atos ilícitos, pois a
+interpretação legal do fato gerador é feita abstraindo-se a validade jurídica dos atos praticados, a natureza
+do objeto ou os efeitos desses atos. Trata-se da aplicação do princípio tributário
+
+a) da tipicidade.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       48
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                         https://t.me/KakashiAssinaturasBot
+     Fábio Dutra
+     Aula 00
+
+
+
+b) da legalidade.
+
+c) do non olet.
+
+d) da capacidade contributiva.
+
+e) da isonomia.
+
+8.       CEBRASPE/ SEFAZ SE/2022
+
+A respeito do regime jurídico tributário das taxas, assinale a opção correta.
+
+a) É constitucional a destinação da receita de custas e emolumentos judiciais a fundo do Poder Judiciário, a
+seccional estadual da OAB e à respectiva caixa de assistência dos advogados.
+
+b) É constitucional a instituição pelos estados de taxa para a expedição por órgão de segurança pública de
+alvarás de funcionamento de estabelecimentos que fabriquem, transportem ou comercializem armas de
+fogo.
+
+c) É constitucional a instituição pelos estados de taxa a ser satisfeita por sociedade seguradora, tendo em
+conta atendimento, no âmbito do SUS, de vítima de sinistro coberto pelo DPVAT.
+
+d) O pedágio cobrado pela efetiva utilização de rodovias conservadas pelo poder público tem natureza
+jurídica de taxa de serviço público.
+
+e) É inconstitucional a instituição pelos estados de taxa de polícia sobre a atividade de exploração de recursos
+hídricos em seu território.
+
+9.       CEBRASPE/Pref Maringá-Auditor/2022
+
+A Carta Magna estipulou a competência tributária, a imunidade tributária, o alcance da norma e as limitações
+ao poder de tributar, parâmetros que devem ser respeitados pelos cidadãos e pelos entes federados. Acerca
+do tema, assinale a opção correta.
+
+a) A cobrança de pedágio pela utilização de vias conservadas pelo poder público é considerada taxa, que não
+se inclui entre as espécies de tributo.
+
+b) A União tem competência constitucional para instituir isenções de tributos da competência dos estados,
+do Distrito Federal ou dos municípios.
+
+c) A CIDE-combustíveis poderá ter alíquota específica, tendo por base a unidade de medida adotada, e terá
+que respeitar o princípio da anterioridade nonagesimal no caso de ter sua alíquota reduzida e restabelecida.
+
+d) Além do papel, a tinta destinada à impressão de livros também tem imunidade tributária de impostos.
+
+e) Os videofonogramas contendo obras musicais de artistas brasileiros ou europeus, gravados no país em
+mídia física, apenas, têm imunidade tributária de impostos.
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          49
+           www.estrategiaconcursos.com.br                                                                    54
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+
+10.    VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Segundo a Constituição Federal e jurisprudência dos tribunais superiores, é correto afirmar sobre as taxas
+que:
+
+A) podem ser cobradas em razão da prestação de serviços públicos uti universi ou uti singuli.
+
+B) podem possuir base de cálculo idêntica à dos impostos, caso sejam cobradas em razão do exercício do
+poder de polícia.
+
+C) não exigem a efetiva prestação de serviço público para a sua cobrança pelo ente público competente.
+
+D) não podem ser cobradas para fins de financiamento do serviço público de coleta de lixo domiciliar.
+
+E) podem ser criadas para fins de financiamento do serviço de iluminação pública.
+
+11.    VUNESP/Auditor Fiscal de Tributos Municipais (Pref Sorocaba)/2022
+
+Os tributos são categoria de receita pública sujeita a regras específicas para sua cobrança.
+
+A respeito das taxas, é correto afirmar, com base na legislação tributária e jurisprudência nacionais, que
+
+A) é inconstitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo
+própria de determinado imposto, mesmo que não haja integral identidade entre uma base e outra.
+
+B) a taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou
+destinação de lixo provenientes de imóveis viola a Constituição Federal de 1988.
+
+C) não viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem limite sobre o
+valor da causa.
+
+D) o serviço de iluminação pública deve ser remunerado mediante taxa decorrente da prestação de serviço
+público indivisível.
+
+E) a cobrança de taxa de matrícula nas universidades públicas viola a Constituição Federal de 1988.
+
+12.    VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Fulano de Tal foi condenado pela prática do ilícito de corrupção passiva, tendo sido provado o fato de ter
+recebido cerca de um milhão de reais para a realização de ato administrativo em favor de determinada
+empresa. Como parte da condenação, Fulano foi obrigado a pagar multa no valor de 2x (duas vezes) o
+montante recebido como propina. Nada obstante, Fulano foi surpreendido com autuação pela Receita
+Federal pelo não pagamento do imposto de renda sobre os proventos decorrentes da corrupção. A respeito
+dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que:
+
+A) não se pode falar em recebimento de proventos para fins de incidência do imposto de renda,
+considerando que Fulano foi condenado ao pagamento de multa em montante de 2x o valor recebido.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             50
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+B) o princípio tributário do não confisco prevê a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, mesmo nos casos de fato gerador que se refira à situação
+jurídica.
+
+C) não há que se falar em incidência de tributos em geral sobre situações consideradas ilícitas, tais como a
+situação de receitas decorrentes do recebimento de propinas por agente público.
+
+D) por se tratar de imposto sobre produto de ato ilícito, é imprescritível o crédito tributário decorrente da
+autuação apresentada pela Receita Federal.
+
+E) o princípio do non olet estabelece a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da corrupção.
+
+13. (FGV/SEFAZ-ES/2022)
+
+O Município X, para custeio do serviço público coletivo e geral de iluminação das vias públicas, instituiu por
+lei municipal ordinária a taxa de iluminação pública. Também instituiu, por outra lei municipal ordinária, uma
+taxa de coleta domiciliar de lixo, pelo serviço público de retirada de lixo de cada imóvel individualmente
+considerado.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+A) Ambos os serviços públicos indicados no enunciado podem ser remunerados mediante taxa.
+
+B) O serviço público de iluminação das vias públicas necessita de lei complementar para instituição de sua
+taxa remuneratória.
+
+C) O serviço público de iluminação de vias públicas não pode ser remunerado mediante taxa.
+
+D) O serviço público de retirada de lixo de cada imóvel individualmente considerado não pode ser
+remunerado mediante taxa.
+
+E) Nenhum dos serviços públicos indicados no enunciado pode ser remunerado mediante taxa.
+
+14. (FGV/Pref. Salvador-BA-Técnico de Nível Superior-Direito/2017)
+
+O Município “X” instituiu, por lei, uma taxa, com o objetivo de prevenção e combate a incêndios.
+
+Considerando tal hipótese, à luz da Jurisprudência do Supremo Tribunal Federal, assinale a afirmativa
+correta.
+
+a) A lei municipal é constitucional, pois adstrita aos exatos limites da competência tributária atribuída aos
+municípios pela CRFB/88.
+
+b) A lei municipal é constitucional, pois a saúde financeira do município é um objetivo constitucional.
+
+c) A lei municipal é inconstitucional, pois se trata de tributo da competência exclusiva da União.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                51
+        www.estrategiaconcursos.com.br                                                                          54
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 00
+
+
+
+d) A lei municipal é inconstitucional, pois a prevenção e o combate a incêndios compõem a segurança
+pública, não cabendo ao Município a criação de taxa para tal fim.
+
+e) A lei municipal é inconstitucional, pois trata de matéria típica de decreto municipal ou portaria.
+
+15. FGV/ISS-Cuiabá-Auditor Fiscal/2016
+
+A Constituição Federal de 1988 autoriza a instituição de novas contribuições de seguridade social,
+destinadas a garantir a sua manutenção ou expansão. As opções a seguir apresentam os requisitos para a
+instituição de novas contribuições de seguridade social, à exceção de uma. Assinale-a.
+
+a) Ser instituída por lei complementar.
+
+b) Ser não cumulativa.
+                                                         ==219a34==
+
+
+
+
+c) Ser instituída pela União.
+
+d) Ter fato gerador distinto das contribuições sociais já previstas na Constituição Federal.
+
+e) Ter base de cálculo distinta dos impostos já previstos na Constituição Federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         52
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 00
+
+
+
+
+                                                GABARITO
+ 1. C
+ 2. C
+ 3. Correto
+ 4. A
+ 5. Certo
+ 6. E
+ 7. C
+ 8. B
+ 9. C
+ 10. C
+ 11. E
+ 12. E
+ 13. C
+ 14. D
+ 15. E
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   53
+      www.estrategiaconcursos.com.br                                             54
+
+                                    https://t.me/KakashiAssinaturasBot
+

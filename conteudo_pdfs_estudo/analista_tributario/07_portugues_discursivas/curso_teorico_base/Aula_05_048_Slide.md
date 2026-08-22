@@ -1,0 +1,421 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 05_048_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: TEMAS ESPECIAIS DE PORTUGUÊS
+---
+
+# TEMAS ESPECIAIS DE PORTUGUÊS
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                   Profª. Adriana Figueiredo
+
+              
+
+
+---
+
+TEMAS ESPECIAIS DE PORTUGUÊS
+
+                                              Profª. Adriana Figueiredo
+
+         
+
+
+---
+
+                           CADERNO 4
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                           VERBOS PRONOMINAIS
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Verbos pronominais são aqueles que trazem um pronome “integrante” do verbo e
+que não podem ser conjugados sem ele. Veja alguns deles: ARREPENDER-SE,
+ATREVER-SE, ASSEMELHAR-SE, CANDIDATAR-SE, DIGNAR-SE, ESFORÇAR-SE,
+QUEIXAR-SE, REFUGIAR-SE, SUICIDAR-SE, ESTREITAR-SE...
+
+O pronome é parte integrante do verbo, não pode ser retirado e não exerce função
+sintática.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+REVISÃO DO “SE”
+
+• Parte integrante do verbo (PIV): A mulher queixava-se de tudo.
+
+
+•     Pronome reflexivo: Pedi a ela que se afastasse da cadeira.
+
+
+• Pronome recíproco: Os amigos se abraçaram na despedida.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+REVISÃO DO “SE”
+
+• Pronome apassivador (PA): Destruíram-se as provas do crime.
+
+
+•     Partícula indeterminadora do sujeito (PIS): Precisa-se de voluntários.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+REVISÃO DO “SE”
+
+• Conjunção Integrante: Não sei se irei à aula hoje.
+
+
+•     Conjunção Condicional: Se ela for, eu vou.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+            EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+I. Classifique o SE destacado nas frases a seguir.
+
+
+a) Do que importa a vida se nela não houver risos e lágrimas.
+
+b) O governo ainda irá decidir se libera o pagamento dos funcionários.
+
+c) A menina concentrava-se para realizar a prova.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+d) Naquelas aulas, percebe-se o destaque dado à linguagem.
+
+e) A profissão de dentista tornou-se uma tendência durante o século XX.
+
+f) A mulher feriu-se com a faca.
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+g) Os alunos se olharam surpresos com a atitude do professor.
+
+h) Não se exigiu do cronista a perfeição.
+
+i) Vive-se melhor nas montanhas.
+
+j) Não se atreva a desafiar a autoridade.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                      QUESTÕES DE CONCURSO
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+01. VUNESP - 2021 - Prefeitura de Marília - SP - Supervisor de Saúde
+Na frase – As pessoas se repelem e se atraem o tempo inteiro. –, o vocábulo se
+indica reciprocidade, como em:
+
+A) Quanto ao exposto, constata-se que é uma discussão filosófica.
+
+B) A população não se rendeu diante das imposições do governo.
+
+C) Ao dividirem o palco, trataram-se com muita indiferença.
+
+D) Compra-se ouro nos centros das grandes cidades.
+
+E) Foram-se os dias em que as pessoas prestavam atenção umas nas outras
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+02. INSTITUTO AOCP - 2020 - Prefeitura de Cariacica - ES - Fiscal de
+Tributos Municipais
+
+Na Língua Portuguesa, a palavra “SE” pode pertencer a várias categorias
+gramaticais. Tal termo pode, por exemplo, funcionar como partícula apassivadora
+(ou pronome apassivador) quando, ligado a um verbo transitivo direto, torna a
+oração passiva.
+
+Considerando as informações apresentada se seu conhecimento sobre o assunto,
+assinale a alternativa em que “SE” está funcionando como partícula apassivadora.
+
+A) “No trabalho, percebe-se facilmente o efeito negativo dos aparelhinhos sobre a
+produtividade.”.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. INSTITUTO AOCP - 2020 - Prefeitura de Cariacica - ES - Fiscal de
+Tributos Municipais
+
+B) “De símbolo de status, transformaram-se rapidamente em bem de consumo
+obrigatório (...)”.
+
+C) “(...) e faz com que todos se sintam como bombeiros sem equipamentos, (...)”.
+
+D) “Não se trata de combater, tal qual luditas, a tecnologia.”.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+03. CESGRANRIO - Petrobras - Todos os Cargos - Nível Superior -
+Conhecimentos Básicos
+
+Em "...de que você possa arrepender-se" (título), o pronome destacado é parte
+integrante do verbo. Em qual das frases a seguir o "se" também é parte integrante
+do verbo?
+
+A) Ninguém se queixou de problemas maiores.
+B) Encontrou-se um caminho para um futuro ameno.
+C) Não sei se um dia seria censurado.
+D) Vive-se melhor com a ajuda de um especialista.
+E) Viu-se diante de um problema insolúvel.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+04. VUNESP - 2022 - Câmara de Suzano - SP - Telefonista
+Considere o trecho do 5º parágrafo do texto
+
+... e depois o sorriso malandro e aliviado porque “ninguém” se zangou....
+
+O vocábulo destacado foi empregado com a mesma função encontrada em:
+
+A) Não me importa se ela foi demitida do trabalho.
+B) Os garotos machucaram-se jogando bola.
+C) Aprovou-se a nova legislação.
+D) Se chegarmos atrasados não poderemos entrar.
+E) Estou analisando se devo aceitar a proposta.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. INSTITUTO AOCP - 2019 - PC-ES - Investigador
+
+No trecho “Seus filhos devem informar sempre [...] se vão se atrasar [...]”, os termos
+em destaque classificam-se, respectivamente, como
+
+A) conjunção subordinativa causal – partícula de realce.
+
+B) pronome apassivador – conjunção subordinativa condicional.
+
+C) conjunção subordinativa conformativa – pronome apassivador.
+
+D) pronome reflexivo – conjunção integrante.
+
+E) conjunção integrante – pronome reflexivo.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. INSTITUTO AOCP - EBSERH - Técnico em Radiologia - Radioterapia
+(CH-UFPA)
+
+Em “Segundo Wild, se você não se sente à vontade para sair de casa [...]”, os termos
+em destaque funcionam, respectivamente, como
+
+A) conjunção subordinativa condicional e parte integrante do verbo.
+B) conjunção subordinativa condicional e pronome apassivador.
+C) índice de indeterminação do sujeito e parte integrante do verbo.
+D) parte integrante do verbo e conjunção subordinativa condicional.
+E) conjunção subordinativa condicional e índice de indeterminação do sujeito.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - AL-RO - Analista Legislativo - Redação e Revisão
+“O homem nunca poderá ser igual a um animal: ou se eleva e torna-se melhor, ou se
+precipita e torna-se muito pior”.
+
+Sobre as ocorrências do vocábulo se nesse pensamento, assinale a afirmativa
+correta.
+
+A) A primeira ocorrência mostra valor diferente da terceira.
+B) Todas as ocorrências possuem valor diferente.
+C) Todas as ocorrências exemplificam reciprocidade.
+D) Todas as ocorrências mostram valor de reflexividade.
+E) A segunda ocorrência tem valor diferente das demais.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. CESPE - TCE-RO - Agente Administrativo
+
+Em “assemelhando-se” (l.10), o emprego da partícula “-se” deve-se ao emprego
+pronominal do verbo assemelhar.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+09. CESPE / CEBRASPE - 2021 - SEDUC-AL - Professor - Português
+
+No trecho “Que diriam elas se se vissem impressas”, a primeira ocorrência do “se” é
+conjunção condicional, ao passo que, na segunda ocorrência, o “se” indica que o
+verbo ver é pronominal.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+10. CESPE - MC - Todos os Cargos - Especialidades 1, 7 , 13 e 19
+
+Na linha 1, o pronome “se” é elemento integrante da forma verbal pronominal
+“apressa” e indica reciprocidade.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. CESPE / CEBRASPE - 2021 - Polícia Federal - Escrivão de Polícia
+Federal
+Cresce rapidamente, em quase todos os países, o número de pessoas na prisão ou
+que esperam prováveis sentenças de prisão. Em quase toda parte, a rede de prisões
+está se ampliando intensamente. Os gastos orçamentários do Estado com as forças
+da lei e da ordem, principalmente os efetivos policiais e os serviços penitenciários,
+crescem em todo o planeta. [...]
+
+No segundo período do texto, a partícula “se” classifica-se como partícula
+apassivadora.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+Obrigada
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIA
+
+NAF
+                                                  Profª. Adriana Figueiredo
+
+             
+
+
+---
+
+---

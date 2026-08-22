@@ -1,0 +1,161 @@
+Prof. Brunno Lima
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+NEGAÇÕES E EQUIVALÊNCIAS
+
+
+                                          Prof. Brunno Lima
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+RESOLUÇÃO DE QUESTÕES –
+BANCAS DIVERSAS
+
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+ (CESPE/TCE-ES/2012)
+ Considerando a proposição {(P ∨ Q) → [R ∧ (~S)]} ∨ [(P ∧ S) ↔ (Q ∧ R)],
+ julgue o item a seguir.
+
+ A negação da referida proposição é a proposição
+  {[(P ∨ Q) ∧ [(~R) ∨ S]} ∧ {[(~P) ∨ (~S)] ↔ (~Q) ∨ (~R)]}.
+ ( ) CERTO            ( ) ERRADO
+
+
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ GABARITO:
+ ERRADO
+
+
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ (VUNESP / PREF. DE PRESIDENTE PRUDENTE – SP / 2016)
+ Considere falsa a seguinte afirmação: Czergw é inteligente se, e somente
+ se, ele foi aprovado no concurso. Com base nas informações
+ apresentadas, é necessariamente verdadeira a afirmação:
+ (A) Czergw é inteligente se, e somente se, ele não foi aprovado no
+ concurso.
+ (B) Czergw foi aprovado no concurso e não é inteligente.
+ (C) Se Czergw foi aprovado no concurso, então ele não é inteligente.
+ (D) Czergw não foi aprovado no concurso e é inteligente.
+ (E) Se Czergw não foi aprovado no concurso, então ele é inteligente.
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ GABARITO:
+ (A) Czergw é inteligente se, e somente se, ele não foi aprovado no
+ concurso.
+
+
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ (VUNESP / DCTA / 2013)
+ Uma negação lógica para a proposição a Terra é redonda se e somente se
+ o céu não é azul pode ser dada por
+ (A) o céu é azul e a Terra é redonda, ou a Terra é redonda e o céu não é
+ azul.
+ (B) a Terra é redonda e o céu não é azul.
+ (C) o céu não é azul e a Terra não é redonda, ou a Terra é redonda e o céu
+ é azul.
+ (D) a Terra não é redonda ou o céu não é azul.
+ (E) O céu não é azul e a Terra não é redonda.
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ GABARITO:
+ (C) o céu não é azul e a Terra não é redonda, ou a Terra é redonda e o céu
+ é azul.
+
+
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ (FCC / TCE-SP / 2015)
+ Considere a afirmação: Se Kléber é escritor, então ou João é biólogo ou é
+ matemático. Uma afirmação equivalente é:
+ (A) Se João não é biólogo e é matemático, então Kléber não é escritor.
+ (B) Se João não é biólogo nem matemático ou se João é biólogo e
+ matemático, então Kléber não é escritor.
+ (C) Se João é biólogo e não é matemático, então Kléber não é escritor.
+ (D) Se João é biólogo e não é matemático ou se João não é biólogo e é
+ matemático, então Kléber não é escritor.
+ (E) Se João é biólogo e matemático, então Kléber é escritor.
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+ GABARITO:
+ (C) Se João é biólogo e não é matemático, então Kléber não é escritor.
+
+
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+
+
+
+                                           https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

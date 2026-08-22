@@ -1,0 +1,1996 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 10_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Índice
+artigos_citados:
+- Art. 208.
+- art. 210
+- art. 233
+- art. 293
+- art. 591
+- art. 654
+- art. 720
+- art. 745
+---
+
+# Índice
+
+Índice
+1)  Lucro Presumido
+
+
+)  Lucro Arbitrado                                                                                                                                                                         11
+
+3)  Omissão de Receitas                                                                                                                                                                     17
+)  Tributação na Fonte                                                                                                                                                                     19
+..............................................................................................................................................................................................
+
+)  Questões Comentadas - IRPJ - Parte III - Multibancas                                                                                                                                    36
+
+6)  Lista de Questões - IRPJ - Parte III - Multibancas                                                                                                                                      47
+..............................................................................................................................................................................................
+
+
+---
+
+                                LUCRO PRESUMIDO
+Sabemos que os tributos são calculados pela multiplicação da base de cálculo pela alíquota. Na sistemática
+do IRPJ, não é diferente: o imposto é calculado pela multiplicação da base de cálculo pela alíquota de 15%,
+acrescido do respectivo adicional (10%). Isso ocorre em todos os regimes de apuração.
+
+Sendo assim, o que diferencia o regime do lucro real, presumido e arbitrado é a forma de determinação da
+base de cálculo. Nesse sentido, lembre-se de que o art. 210 do RIR salienta que a base de cálculo do imposto
+(IRPJ), determinada segundo a lei vigente na data de ocorrência do fato gerador, é o lucro real, presumido
+ou arbitrado, correspondente ao período de apuração.
+
+Já estudamos que o lucro real consiste no lucro líquido do período de apuração, ajustado pelas adições,
+exclusões e compensações legalmente admitidas. Mas e o lucro presumido? Como se calcula a base de
+cálculo do IRPJ de acordo com esse regime?
+
+Como o próprio nome diz, trata-se de uma presunção, isto é, não tomando como parâmetro o lucro da
+empresa, mas sim algo que se presume ser o seu lucro em determinado período de apuração. O parâmetro
+dessa presunção é a receita bruta auferida pela pessoa jurídica.
+
+        Observação: Na aula anterior, foi visto que aquelas pessoas jurídicas optantes pela
+        tributação com base no lucro presumido podem reconhecer suas receitas com base no
+        regime de competência ou de caixa.
+
+Imagino que essa última informação tenha feito você se lembrar de algo que estudamos na aula anterior: as
+estimativas mensais do IRPJ no lucro real anual. O cálculo do lucro presumido é bastante semelhante ao
+cálculo das estimativas mensais. Antes de demonstrarmos como é efetuado esse cálculo, vamos trabalhar
+algumas informações importantes sobre o lucro presumido para serem levadas para a sua prova.
+
+Primeiramente, cabe relembrar que o IRPJ apurado com base no lucro presumido é devido trimestralmente,
+sendo que os períodos de apuração se encerram em: 31 de março, 30 de junho, 30 de setembro e 31 de
+dezembro de cada ano-calendário. A opção pelo lucro presumido será manifestada com o pagamento da
+primeira ou única quota do imposto devido correspondente ao primeiro período de apuração de cada ano-
+calendário.
+
+Atenção: A opção pelo lucro presumido é irretratável para todo o ano-calendário. É o mesmo raciocínio do
+que ocorre no lucro real.
+
+       Art. 587. A pessoa jurídica cuja receita bruta total no ano-calendário anterior tenha sido igual ou
+       inferior a R$ 78.000.000,00 (setenta e oito milhões de reais) ou a R$ 6.500.000,00 (seis milhões e
+
+
+---
+
+       quinhentos mil reais) multiplicado pelo número de meses de atividade do ano-calendário anterior,
+       quando inferior a doze meses, poderá optar pelo regime de tributação com base no lucro presumido.
+
+   Estão sujeitas ao lucro real (RIR, art. 257):
+
+1. PJ cuja receita total no ano-calendário anterior seja superior ao limite de R$ 78.000.000,00; (O valor
+   que consta no RIR está desatualizado);
+2. PJ que explore atividades de bancos, sociedades de crédito, financiamento e investimento, sociedades
+   corretoras de títulos, valores mobiliários e câmbio, distribuidoras de títulos e valores mobiliários,
+   empresas de arrendamento mercantil, cooperativas de crédito, empresas de seguros privados e de
+   capitalização e entidades de previdência privada aberta;
+3. PJ que obtiver lucros, rendimentos e ganhos de capital obtidos no exterior;
+4. PJ que goze de benefício fiscal (isenção ou redução de IRPJ);
+5. PJ que tenha optado pela apuração anual do lucro real, mediante pagamento de estimativa mensal
+   (será explicado a seguir);
+6. PJ que explore atividade de assessoria creditícia e mercadológica, administração de contas a pagar e a
+   receber, e compra de direitos creditórios (cheques e duplicatas, por exemplo) resultantes de vendas
+   mercantis ou prestação de serviços a prazo. Esta última é denominada factoring ou fomento comercial
+   ou mercantil.
+7. PJ que explore atividades de securitização de créditos imobiliários, financeiros e do agronegócio.
+8. PJ que tenha sido constituída sob a forma de sociedade de propósito específico, formada por
+   microempresas e empresas de pequeno porte.
+9. PJ com menor porte que emitam ações e que tais ações sejam negociadas na bolsa de valores.
+
+Feitas todas as considerações acima, estudaremos a seguir o cálculo do lucro presumido.
+
+1.– Cálculo do Lucro Presumido
+
+Primeiramente, vamos sintetizar o cálculo do lucro presumido em uma fórmula, para depois esmiuçarmos
+os cada um dos conceitos:
+
+A base de cálculo do lucro presumido é calculada do seguinte modo:
+
+                   Base Cálculo = (Receita Bruta Trimestral x %Atividade) + Acréscimos
+
+        Observação: Embora pareça idêntica à fórmula utilizada para o cálculo da estimativa
+        mensal, o candidato deve se atentar ao fato de que a receita bruta, no caso do lucro
+        presumido, é trimestral.
+
+
+---
+
+1.1. – Receita Bruta Trimestral
+
+O conceito de receita bruta é o mesmo aplicável ao lucro real. Conforme foi dito naquela ocasião, o conceito
+foi atualizado e previsto no art. 208 , do RIR, cuja redação é a seguinte:
+
+       Art. 208. A receita bruta compreende:
+
+       I - o produto da venda de bens nas operações de conta própria;
+
+       II - o preço da prestação de serviços em geral;
+
+       III - o resultado auferido nas operações de conta alheia; e
+
+       IV - as receitas da atividade ou objeto principal da pessoa jurídica, não compreendidas nos incisos I a
+       III.
+
+       (...)
+
+O conceito de receita líquida já foi cobrado, em 2012, na prova de Analista-Tributário da RFB. Contudo, a
+questão acabou sendo anulada. Fique atento!
+
+Este conceito pode cair em prova? Sim!
+
+Este conceito de receita líquida é a base de cálculo do lucro presumido? Não! Preste atenção no que será
+dito adiante e você perceberá isso claramente! 
+
+Continuando, vejamos o que estabelecem os parágrafos desse art. 208:
+
+       Art. 208:
+
+       (...)
+
+       § 2º Na receita bruta não se incluem os tributos não cumulativos cobrados, destacadamente, do
+       comprador ou contratante pelo vendedor dos bens ou pelo prestador dos serviços na condição de
+       mero depositário.
+
+       § 3º Na receita bruta incluem-se os tributos sobre ela incidentes e os valores decorrentes do ajuste
+       a valor presente, de que trata o inciso VIII do caput do art. 183 da Lei nº 6.404, de 1976, das operações
+       previstas no caput deste artigo, observado o disposto no § 2º.
+
+       Você se lembra do que foi comentado na aula anterior? Vamos repetir! 
+
+
+---
+
+Na receita bruta não podemos incluir o IPI e o ICMS, este quando destacado por substituição tributária. Na
+realidade, são tributos que, por sua natureza, não estão embutidos no montante da receita bruta. Portanto,
+na hora de resolver uma prova, basta que você os ignore.
+
+        Observação: O ICMS destacado por substituição tributária ocorre quando a lei determina
+        que o vendedor recolha antecipadamente, na condição de substituto tributário, os tributos
+        incidentes sobre operações posteriores.
+
+Por outro lado, o ICMS incidente sobre as vendas da pessoa jurídica devem estar inclusos na receita bruta,
+bem como os demais tributos sobre ela incidentes, ressalvadas as exceções citadas no parágrafo anterior.
+Ademais, incluem-se também os valores decorrentes de ajuste a valor presente.
+
+Dito tudo isso, precisamos saber o mais importante: para fins de cálculo do lucro presumido, a receita bruta
+deve ser deduzida das devoluções, das vendas canceladas e dos descontos incondicionais, conforme
+estabelece o art. 591, do RIR.
+
+        Observação: O art. 591 ainda prevê o cômputo de receitas calculadas pela aplicação dos
+        preços de transferências, assunto que não será tratado nesta aula.
+
+Embora seja algo mais específico, observo, ainda, que o § 1º, do art. 591, prevê a dedução do valor
+correspondente à compensação fiscal efetuada pelas emissoras de rádio e televisão e pelas empresas
+concessionárias de serviços públicos de telecomunicações obrigadas ao tráfego gratuito de sinais de
+televisão e rádio, pela cedência do horário gratuito, na forma estabelecida na legislação específica.
+
+Para fins de apuração do lucro presumido, a receita bruta deve ser sempre deduzida das:
+
+   Devoluções;
+   Vendas Canceladas; e
+   Descontos Incondicionais.
+
+        Observação: Não se preocupe, pois resolveremos algumas questões que nos deixarão
+        “craques” no assunto.
+
+
+---
+
+1.2 – Percentual de Atividade
+
+No que concerne aos percentuais de atividade, basicamente são os mesmos previstos para o cálculo da
+estimativa mensal. Merece destaque o fato de que a regra geral é a aplicação do percentual de 8% sobre a
+receita bruta trimestral auferida.
+
+DICA DE PROVA: Se a questão não mencionar o segmento da empresa, dizendo apenas se tratar de industrial,
+atacadista ou comercial, o percentual é de 8%. As exceções, como veremos a seguir, são basicamente
+atividades de prestação de serviços, revenda de combustíveis (postos de gasolina) intermediação de
+negócios, construção, loteamentos e incorporações imobiliárias.
+
+Senão, vejamos:
+
+   1,6% sobre a receita bruta auferida na revenda, para consumo, de combustível derivado de petróleo,
+    álcool etílico carburante e gás natural;
+
+   8% sobre a receita bruta auferida:
+
+a) na prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia,
+anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a
+prestadora desses serviços seja organizada sob a forma de sociedade empresária e atenda às normas
+estabelecidas pela Anvisa;
+
+b) na prestação de serviços de transporte de carga;
+
+   16% sobre a receita bruta auferida:
+
+a) na prestação dos serviços de transporte, exceto o de carga (8%); e
+
+   32% sobre a receita bruta auferida com as atividades de:
+
+a) prestação de serviços em geral;
+
+b) intermediação de negócios;
+
+c) administração, locação ou cessão de bens imóveis, móveis e direitos de qualquer natureza;
+
+d) prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de
+infraestrutura vinculados a contrato de concessão de serviço público.
+
+O percentual de 8% também será aplicado sobre a receita financeira da pessoa jurídica que explore
+atividades imobiliárias relativas a loteamento de terrenos, incorporação imobiliária, construção de prédios
+destinados à venda e a venda de imóveis construídos ou adquiridos para a revenda, quando decorrente da
+comercialização de imóveis e for apurada por meio de índices ou coeficientes previstos em contrato.
+
+         Observação: Algumas empresas, tais como os bancos comerciais e outras entidades que
+         exerçam atividades relacionadas, bem como as entidades de previdência privada e as
+
+
+---
+
+         empresas de factoring, são obrigatoriamente tributadas pelo lucro real. Portanto, embora
+         estejam previstas na relação da estimativa mensal, não constarão na lista acima.
+
+   No caso de atividades diversificadas será aplicado o percentual correspondente a cada atividade.
+   A receita bruta auferida pela pessoa jurídica decorrente da prestação de serviços em geral, como limpeza
+    e locação de mão de obra, ainda que sejam fornecidos os materiais, está sujeita à aplicação do
+    percentual de 32%.
+
+Além disso, embora o percentual de 32% seja a regra para os prestadores de serviço, a legislação confere
+tratamento diferenciado aos pequenos prestadores de serviços, assim considerados aqueles com receita
+bruta anual abaixo de R$ 120 mil. A tributação diferenciada consiste na aplicação do percentual de 16%, em
+vez de 32%, lembrando-se de que essa regra não se aplica às pessoas jurídicas que prestam serviços
+hospitalares e de transporte nem às sociedades prestadoras de serviços de profissões legalmente
+regulamentadas.
+
+1.3 – Acréscimos
+
+Após a multiplicação da receita bruta trimestral pelo percentual previsto para a respectiva atividade da
+pessoa jurídica, devem ser somadas as seguintes parcelas, para fins de determinação do lucro presumido do
+período de apuração:
+
+   Os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas não abrangidas no
+    conceito de receita bruta, auferidos no mesmo período;
+
+         Observação: Entenda-se como ganho de capital a diferença positiva entre o valor da
+         alienação de bens e direitos e o respectivo valor contábil.
+
+         Acrescente-se ainda que, na apuração de ganho de capital de pessoa jurídica tributada pelo
+         lucro presumido ou arbitrado, os valores acrescidos em virtude de reavaliação (aumento
+         do seu valor contábil) somente poderão ser computados como parte integrante dos custos
+         de aquisição dos bens e direitos se a empresa comprovar que os valores acrescidos foram
+         computados na determinação da base de cálculo do imposto de renda. Isso quer dizer
+         que a redução do ganho de capital e, consequentemente, do lucro presumido, por aumento
+         do valor contábil do bem, somente se justifica se esse aumento tiver sido tributado em
+         períodos anteriores.
+
+   Os rendimentos e ganhos líquidos auferidos em aplicações financeiras de renda fixa e renda variável;
+
+
+---
+
+   Os juros sobre o capital próprio auferidos;
+
+   Os valores recuperados, correspondentes a custos e despesas, inclusive com perdas no recebimento de
+    créditos, salvo se a pessoa jurídica comprovar não os ter deduzido em período anterior no qual tenha se
+    submetido ao regime de tributação com base no lucro real ou que se refiram a período no qual tenha se
+    submetido ao regime de tributação com base no lucro presumido ou arbitrado;
+
+Preciso esclarecer algo sobre esses “valores recuperados” que acabamos de estudar. Vamos lá?!
+
+Primeiramente, é importante considerarmos que estamos tratando do lucro presumido aqui, certo? Logo,
+não se considera o resultado, mas a receita bruta, para o cálculo do IRPJ.
+
+Então, esses valores recuperados devem ser tributados pelos acréscimos na base de cálculo do lucro
+presumido, salvo se a pessoa jurídica provar o seguinte:
+
+1 – Apuração pelo lucro real no período anterior: no período anterior, a empresa escriturou uma perda com
+clientes devedores, mas não excluiu no lucro real. Se não excluiu, já tributou aquele valor, motivo pelo qual
+não deve oferecer à tributação novamente.
+
+2 - Apuração pelo lucro presumido no período anterior: No período anterior, a empresa já apurava IRPJ pelo
+lucro presumido, que é calculado com base na receita bruta. Logo, a pessoa jurídica obviamente não excluiu
+aquele valor da base de cálculo, motivo pelo qual não deve oferecer à tributação novamente.
+
+         Observação: Além disso, a pessoa jurídica que, até o ano-calendário anterior, houver sido
+         tributada com base no lucro real deverá adicionar à base de cálculo do imposto de renda,
+         correspondente ao primeiro período de apuração no qual houver optado pela tributação
+         com base no lucro presumido, os saldos dos valores cuja tributação havia diferido. Como
+         já foi dito, tais valores são mantidos na Escrituração Contábil Fiscal (ECF).
+
+   O valor resultante de ajustes relativos a preços de transferência;
+
+   As multas ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de
+    indenização, em virtude de rescisão de contrato.
+
+         Observação: O imposto retido na fonte será considerado como antecipação do devido em
+         cada período de apuração.
+
+Veja que todos esses valores não se incluem no conceito de receita bruta, pois se assim o fosse não haveria
+razão para acrescentá-los ao cálculo do lucro presumido.
+
+
+---
+
+1.2 – Obrigações Acessórias no Lucro Presumido
+
+O art. 600 do RIR impôs às pessoas jurídicas optantes pela tributação com base no lucro presumido as
+seguintes obrigações acessórias:
+
+I – Manter escrituração contábil nos termos da legislação comercial;
+
+II - Manter Livro Registro de Inventário, no qual deverão constar registrados os estoques existentes no
+término do ano-calendário;
+
+III - Manter em boa guarda e ordem, enquanto não decorrido o prazo decadencial e não prescritas eventuais
+ações que lhes sejam pertinentes, todos os livros de escrituração obrigatórios por legislação fiscal específica,
+bem como os documentos e demais papéis que serviram de base para escrituração comercial e fiscal.
+
+Destaque-se que se a pessoa jurídica, no decorrer do ano-calendário, mantiver Livro Caixa, no qual deverá
+estar escriturado toda a movimentação financeira, inclusive bancária, fica dispensada de manter a
+escrituração contábil nos termos da legislação comercial.
+
+A opção pela tributação com base no lucro presumido não dispensa o contribuinte de apresentar sua
+escrituração contábil!
+
+
+---
+
+                                  LUCRO ARBITRADO
+No regime de tributação com base no lucro arbitrado, a base de cálculo do IRPJ, isto é, o lucro, é apurada
+por arbitramento. É importante mencionar que, quando se fala em arbitramento do lucro, deve ficar claro
+que não se confunde com arbitrariedade.
+
+Nesse sentido, o professor Eduardo Sabbag1 ensina o seguinte:
+
+         “É bom salientar que a sistemática existe para se chegar a valor arbitrado, e não a “valor arbitrário”.
+         Este indica excesso, exagero; aquele, aferição, identificação. O primeiro avoca o bom senso; o
+         segundo, afasta-o. O primeiro é ato extremado; o segundo, indevido.”
+
+Trata-se, assim, de um regime excepcional, com períodos de apuração trimestrais. O arbitramento
+normalmente ocorre de ofício pela fiscalização da Receita Federal, quando esta se vê impossibilitada de
+aceitar ou de apurar o lucro real da pessoa jurídica. No entanto, o arbitramento pode ser efetuado pelo
+sujeito passivo.
+
+Por ora, memorize o seguinte: o arbitramento pode ser efetuado pela Receita Federal de ofício e também
+pelo contribuinte.
+
+Dito isso, vejamos, então, quais são as situações que ensejam o arbitramento do lucro.
+
+1 – Hipóteses de Arbitramento
+
+De acordo com o art. 226, da IN RFB 1.700/2017, o lucro da pessoa jurídica será arbitrado quando:
+
+1
+    SABBAG, Eduardo. Manual de Direito Tributário. 5ª Edição. 2013. Pág. 739
+
+
+---
+
+   O contribuinte, obrigado à tributação com base no lucro real, não mantiver escrituração na forma das
+    leis comerciais e fiscais, ou deixar de elaborar as demonstrações financeiras exigidas pela legislação
+    fiscal;
+
+   A escrituração a que estiver obrigado o contribuinte revelar evidentes indícios de fraude ou contiver
+    vícios, erros ou deficiências que a tornem imprestável para:
+
+a) identificar a efetiva movimentação financeira, inclusive bancária; ou
+
+b) determinar o lucro real.
+
+   O contribuinte, não obrigado à tributação com base no lucro real, deixar de apresentar à autoridade
+    tributária os livros e documentos da escrituração comercial e fiscal, ou o livro Caixa, na hipótese de ter
+    optado pelo lucro presumido;
+
+   O contribuinte optar indevidamente pela tributação com base no lucro presumido;
+
+   O comissário ou representante da pessoa jurídica estrangeira deixar de escriturar e apurar o lucro da
+    sua atividade separadamente do lucro do comitente residente ou domiciliado no exterior;
+
+   O contribuinte não mantiver, em boa ordem e segundo as normas contábeis recomendadas, livro Razão
+    ou fichas utilizados para resumir e totalizar, por conta ou subconta, os lançamentos efetuados no Diário;
+
+   O contribuinte não escriturar ou deixar de apresentar à autoridade tributária as informações necessárias
+    para gerar o FCONT (Controle Fiscal Contábil de Transição) por meio do Programa Validador e Assinador
+    da Entrada de Dados para o FCONT, no caso de pessoas jurídicas sujeitas ao Regime Tributário de
+    Transição (RTT);
+
+   O contribuinte não escriturar ou deixar de apresentar à autoridade tributária a ECF (Escrituração
+    Contábil Fiscal).
+
+         Observação: Grifamos as palavras-chave, a fim de que o aluno tenha condições de assimilar
+         as situações que ensejam a tributação com base no lucro arbitrado. Veja que, em todos os
+         casos, a tributação ocorre por conta de uma atuação do contribuinte em desconformidade
+         com a legislação tributária.
+
+         O RTT foi revogado pela Lei 12.973/2014. Com isso, o preenchimento do FCONT, oriundo
+         do RTT, deixa de ser exigido. Atualmente, o contribuinte se sujeita à escrituração e
+         apresentação da ECF, sob pena de se submeter a tributação com base no lucro arbitrado.
+
+Nesse ponto do nosso estudo, é relevante destacar que o arbitramento do lucro pode ser efetuado pelo
+sujeito passivo, desde que alguma das hipóteses acima tenha sido concretamente verificada e que a receita
+bruta seja conhecida.
+
+
+---
+
+Estudaremos, a seguir, mais detalhes sobre essa questão de a receita bruta ser ou não conhecida.
+
+
+2 – Cálculo do Lucro Arbitrado
+
+O cálculo do lucro arbitrado distingue-se, a depender de a receita bruta auferida pela pessoa jurídica ser
+ou não conhecida. Vamos estudar cada uma dessas hipóteses.
+
+2.1 – Receita Bruta Conhecida
+
+Em linhas gerais, o cálculo do lucro arbitrado, quando a receita bruta da pessoa jurídica é conhecida, mostra-
+se muito semelhante ao cálculo do lucro presumido, com a principal diferença de que os percentuais de cada
+atividade são acrescidos de 20%. Dessa forma, podemos montar a nossa fórmula para o cálculo do lucro
+presumido (base de cálculo do IRPJ):
+
+
+                   Base Cálculo = (Receita Bruta Trimestral x %Atividade x 1,2) + Acréscimos
+
+A propósito, você se lembra dos percentuais de cada atividade previstos para o cálculo do lucro presumido?
+Vamos fazer uma recordação, mostrando como ficam após o acréscimo de 20%:
+
+                 LUCRO PRESUMIDO                                         LUCRO ARBITRADO
+                       1,6%                                                   1,92%
+                        8%                                                     9,6%
+                       16%                                                    19,2%
+                       32%                                                    38,4%
+
+        Observação: As empresas de factoring podem, em algum momento, se submeter à
+        tributação com base no lucro arbitrado. Se isso ocorrer, o percentual a ser multiplicado
+        pela sua receita bruta é de 38,4% (32% x 1,2). Lembre-se de que estudamos que tais
+        empresas, ao optar pelo lucro real anual, pagam estimativas mensais com base na
+        multiplicação da sua receita bruta pelo percentual de 32%.
+
+        Além disso, as instituições financeiras, quando tributadas com base no lucro arbitrado,
+        submetem-se ao percentual fixo de 45%.
+
+
+---
+
+A receita bruta deve ser sempre deduzida das:
+
+   Devoluções;
+
+   Vendas Canceladas; e
+   Descontos Incondicionais.
+
+No que concerne aos acréscimos, são os mesmos previstos para o cálculo do lucro presumido. Vamos
+relembrar?
+
+   Os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas não abrangidas no
+    conceito de receita bruta, auferidos no mesmo período;
+
+   Os rendimentos e ganhos líquidos auferidos em aplicações financeiras de renda fixa e renda variável;
+
+   Os juros sobre o capital próprio auferidos;
+
+   Os valores recuperados, correspondentes a custos e despesas, inclusive com perdas no recebimento de
+    créditos, salvo se a pessoa jurídica comprovar não os ter deduzido em período anterior no qual tenha se
+    submetido ao regime de tributação com base no lucro real ou que se refiram a período no qual tenha se
+    submetido ao regime de tributação com base no lucro presumido ou arbitrado;
+
+         Observação: Além disso, a pessoa jurídica que, até o ano-calendário anterior, houver sido
+         tributada com base no lucro real deverá adicionar à base de cálculo do imposto de renda,
+         correspondente ao primeiro período de apuração em que for tributada com base no lucro
+         arbitrado, os saldos dos valores cuja tributação havia diferido. Como já foi dito, tais
+         valores são mantidos na Escrituração Contábil Fiscal (ECF).
+
+   O valor resultante de ajustes relativos a preços de transferência;
+
+   As multas ou qualquer outra vantagem paga ou creditada por pessoa jurídica, ainda que a título de
+    indenização, em virtude de rescisão de contrato.
+
+Vejamos, a partir de agora, como se calcula o lucro arbitrado, na hipótese de a receita bruta ser
+desconhecida.
+
+2.2 – Receita Bruta Desconhecida
+
+Lembre-se, em primeiro lugar, de que quando a receita bruta é desconhecida, o contribuinte não pode
+efetuar o arbitramento do lucro por conta própria. Assim sendo, tal procedimento deve ser efetuado de
+ofício pelo Auditor-Fiscal da Receita Federal do Brasil.
+
+De acordo com o art. 535, do RIR, o cálculo do lucro arbitrado deve ser realizado mediante a utilização de
+uma das seguintes alternativas de cálculo:
+
+
+---
+
+I - 1,5 do lucro real referente ao último período em que pessoa jurídica manteve escrituração de acordo com
+as leis comerciais e fiscais, atualizado monetariamente;
+
+II - 0,04 da soma dos valores do ativo circulante, realizável a longo prazo e permanente, existentes no último
+balanço patrimonial conhecido, atualizado monetariamente;
+
+III - 0,07 do valor do capital, inclusive a sua correção monetária contabilizada como reserva de capital,
+constante do último balanço patrimonial conhecido ou registrado nos atos de constituição ou alteração da
+sociedade, atualizado monetariamente;
+
+IV - 0,05 do valor do patrimônio líquido constante do último balanço patrimonial conhecido, atualizado
+monetariamente;
+
+V - 0,4 do valor das compras de mercadorias efetuadas no mês;
+
+VI - 0,4 da soma, em cada mês, dos valores da folha de pagamento dos empregados e das compras de
+matérias-primas, produtos intermediários e materiais de embalagem;
+
+VII - 0,8 da soma dos valores devidos no mês a empregados;
+
+VIII - 0,9 do valor mensal do aluguel devido.
+
+Não, não será necessário decorar tudo isso... Mas você precisa entender que o cálculo de uma das
+alternativas acima deve ser efetuado sem prejuízo dos acréscimos à base de cálculo.
+
+Vamos montar a nossa fórmula, a fim de facilitar a compreensão:
+
+
+                          Base Cálculo = (Coeficiente x Parâmetro) + Acréscimos
+
+        Observação:
+
+        Coeficiente: são os valores negritados nas alternativas de cálculo (1,5; 0,04; 0,07 etc.)
+
+        Parâmetro: elemento contábil utilizado para determinação da base de cálculo (lucro real,
+        valor do capital, valor das compras no mês etc.)
+
+    Por último, cabe ressaltar que os acréscimos, em se tratando de receita bruta desconhecida, são os
+mesmos que compõem a base de cálculo do lucro arbitrado, quando a receita é conhecida.
+
+
+---
+
+Dica de Prova: Mais importante do que memorizar os coeficientes acima, é memorizar os parâmetros! Ok?
+
+
+
+---
+
+                            OMISSÃO DE RECEITAS
+Sabe-se que em todos os regimes de apuração do IRPJ, o ponto de partida para a determinação do imposto
+tem início nas receitas auferidas pela pessoa jurídica. Veja bem:
+
+Lucro Real  Nesse regime de tributação, o IRPJ é calculado com base no lucro líquido ajustado. Este, por
+sua vez, consiste no resultado contábil apurado pelo confronto das receitas com as despesas.
+
+Lucro Presumido e Arbitrado  Em ambos regimes, a base de cálculo do IRPJ, em regra, é determinada com
+base na receita bruta auferida pela pessoa jurídica no período de apuração.
+
+Com base no exposto, percebe-se a importância da contabilização das receitas para fins de incidência do
+IRPJ. Portanto, a omissão de receitas deve ser severamente punida pela fiscalização da Receita Federal, já
+que constitui um meio muito comum de tentar ludibriar o Fisco.
+
+Nesse rumo, há fatos que revelam indícios de omissão de receitas. Em tais casos, a legislação prevê a
+presunção de omissão de receitas, cabendo ao contribuinte provar o contrário. Ou seja, havendo os indícios
+legalmente previstos, o Auditor-Fiscal pode presumir a omissão de receitas, cabendo o ônus da prova à
+pessoa jurídica.
+
+São hipóteses de omissão de receitas:
+
+   Saldo credor de caixa;
+   Falta de escrituração de pagamentos;
+   Manutenção no passivo de obrigações já pagas ou cuja exigibilidade não seja comprovada;
+   Suprimentos de caixa realizados por administradores ou sócios sem comprovação da efetividade da
+    entrega ou da origem dos recursos;
+   Diferenças apuradas nos estoques de matérias-primas e produtos intermediários;
+   Depósitos bancários de origem não comprovada.
+
+A manutenção no passivo de obrigações já pagas caracteriza-se passivo fictício. Guarde isso!
+
+Obs.: passivo fictício ocorre quando o passivo registrado na contabilidade é maior do que as obrigações da
+pessoa jurídica.
+
+
+---
+
+Sendo assim, determina o art. 296 do RIR que, verificada a omissão de receita, a autoridade tributária
+determinará o valor do imposto e do adicional a serem lançados de acordo com o regime de tributação a
+que estiver submetida a pessoa jurídica no período-base a que corresponder a omissão.
+
+No caso de pessoa jurídica com atividades diversificadas tributadas com base no lucro presumido ou
+arbitrado, não sendo possível a identificação da atividade a que se refere a receita omitida, esta será
+adicionada àquela a que corresponder o percentual mais elevado.
+
+Frise-se que cabe ao contribuinte a prova em contrário, demonstrando através de documentação idônea de
+que não houve omissão de receitas por parte da pessoa jurídica.
+
+
+---
+
+                           TRIBUTAÇÃO NA FONTE
+O tema tributação na fonte, previsto no Livro III do RIR, envolve muitos assuntos já estudados em nosso
+curso, pois aborda os casos em que a legislação impõe a retenção do imposto pela fonte pagadora. O assunto
+é tão extenso que existe um manual específico sobre isso na Receita Federal, denominado Mafon – Manual
+do Imposto de Renda Retido na Fonte. Como são muitos detalhes (mais de 100 artigos do RIR), veremos o
+que for mais relevante para fins de prova.
+
+Antes de iniciarmos, é importante saber que, sempre quando falarmos em Imposto de Renda retido na fonte,
+utilizaremos a abreviação IRRF!
+
+Comecemos com os rendimentos de pessoas físicas sujeitos à tabela progressiva.
+
+
+1 – Rendimentos Sujeitos à Tabela Progressiva
+
+Devemos saber que a tributação na fonte dos rendimentos sujeitos à tributação progressiva normalmente
+ocorre a título de antecipação, isto é, é uma forma de ir recolhendo antecipadamente o imposto, cuja
+apuração será feita apenas com a apresentação da DIRPF, ao realizar o ajuste anual. Lembra-se disso?
+Vamos prosseguir.
+
+De acordo com o § 1°, do art. 677, do RIR, o imposto será calculado sobre os rendimentos efetivamente
+recebidos em cada mês. Ademais, o imposto será retido por ocasião de cada pagamento e se, dentro do
+mês, houver mais de um pagamento, a qualquer título, pela mesma fonte pagadora, aplicar-se-á a alíquota
+correspondente à soma dos rendimentos pagos à pessoa física, deduzido o imposto anteriormente retido
+no próprio mês (RIR, art. 677, § 2º).
+
+Assim, imagine que o Sr. Tributino tenha recebido R$ 2.500 de uma pessoa jurídica. A retenção na fonte deve
+ter como base esse valor. Assim, desconsiderando qualquer dedução, o imposto a ser retido seria de R$
+44,70 ((2.500,00 x 7,5%)-142,80). Se, dentro do mesmo mês, a pessoa jurídica efetuar outro pagamento de
+R$ 2.500,00 ao Sr. Tributino, o cálculo deve ser feito da seguinte forma (considerando a tabela progressiva
+vigente a partir de abril do ano-calendário de 2015):
+
+(2.500+2.500) x 27,5% = 1375,00 – 869,36 = R$ 505,64 (IRPF Apurado)
+
+505,64 – 44,70 = R$ 460,94 (IRPF a ser recolhido)
+
+        Observação: O valor de R$ 869,36 representa a dedução padrão da tabela progressiva
+        mensal, para os rendimentos sujeitos à alíquota de 27,5%, e o valor de R$ 44,70, representa
+        o imposto já retido quando do primeiro pagamento pela pessoa jurídica.
+
+Destaque-se, todavia, que o adiantamento de rendimentos correspondentes a determinado mês não
+estará sujeito à retenção, desde que os rendimentos sejam integralmente pagos no próprio mês a que se
+referirem, momento em que serão efetuados o cálculo e a retenção do imposto sobre o total dos
+rendimentos pagos no mês (RIR, art. 678, caput).
+
+
+---
+
+Vamos exemplificar o que foi comentado acima, a respeito do adiantamento de rendimentos!
+
+Imagine o caso de um funcionário que trabalhe em uma empresa e cujo salário se submeta mensalmente à
+retenção do IR. Neste caso, se em determinado mês, ele solicita um adiantamento do seu salário (conhecido
+como “vale”), não haverá retenção de IR sobre o vale, mas sim de uma só vez, quando do pagamento do
+restante do seu salário.
+
+Feitas as considerações iniciais sobre a retenção na fonte de rendimentos sujeitos à tabela progressiva,
+vamos ver quais são os casos em que tal retenção deve ocorrer:
+
+   Rendimentos do trabalho assalariado;
+
+   Rendimentos do trabalho não assalariado;
+
+Lembre-se do que já aprendemos:
+
+Rendimentos de trabalho assalariado  Há retenção na fonte, seja a fonte uma pessoa física ou jurídica.
+
+Rendimentos de trabalho sem vínculo empregatício  Há retenção na fonte apenas se a fonte for pessoa
+jurídica.
+
+
+---
+
+Neste ponto, precisamos relembrar alguns detalhes sobre o trabalho não assalariado e que são
+importantíssimos para a sua prova! Vamos lá!?
+
+    1) Na hipótese de rendimentos pagos por pessoas jurídicas a pessoas físicas pela prestação de serviços
+       de transporte, em veículo próprio, locado ou adquirido com reserva de domínio ou alienação
+       fiduciária, o imposto sobre a renda na fonte (com base na tabela progressiva) incidirá sobre:
+
+               I – 10% do rendimento bruto, decorrente do transporte de; e
+
+               II – 60% do rendimento bruto, decorrente do transporte de passageiros.
+
+    2) Ficam sujeitos à tributação na fonte, calculado de acordo com a tabela progressiva, 10% do
+       rendimento total percebido por garimpeiros na venda, a empresas legalmente habilitadas, de metais
+       preciosos, pedras preciosas e semipreciosas, por eles extraídos.
+
+Pronto! Continuemos, amigos! 
+
+   Rendimentos de aluguéis e royalties;
+
+   Os benefícios pagos a pessoas físicas, pelas entidades de previdência privada, inclusive as importâncias
+    correspondentes ao resgate de contribuições;
+
+   Os resgates efetuados pelos quotistas do Fundo de Aposentadoria Programada Individual – FAPI;
+
+   Os rendimentos efetivamente pagos aos sócios ou ao titular da microempresa e empresa de pequeno
+    porte, correspondentes a pro labore, aluguéis ou serviços prestados;
+
+   Os valores recebidos em decorrência de cobertura por sobrevivência em apólices de seguros de vida;
+
+   Os interesses e os demais rendimentos de partes beneficiárias pagos a pessoas físicas;
+
+   Os rendimentos pagos aos titulares, sócios, dirigentes, administradores e conselheiros de pessoas
+    jurídicas, a título de remuneração mensal por prestação de serviços, de gratificação ou participação no
+    resultado;
+
+   Os rendimentos pagos a título de décimo terceiro salário;
+
+         Observação: Lembre-se de que os rendimentos pagos a título de 13° estão submetidos à
+         tributação exclusiva na fonte, não constituindo antecipação do imposto anual.
+
+   Os rendimentos recebidos acumuladamente.
+
+   Os demais rendimentos pagos por pessoa jurídica a pessoa física, para os quais não haja incidência
+    específica e não estejam incluídos entre aqueles tributados exclusivamente na fonte;
+
+
+---
+
+        Observação: Lembre-se de que os rendimentos recebidos acumuladamente também estão
+        submetidos à tributação exclusiva na fonte, não constituindo antecipação do imposto
+        anual. Ademais, a tabela progressiva neste caso deve ser resultante da multiplicação da
+        quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela
+        progressiva mensal correspondente ao mês do recebimento do crédito (IN RFB 1.500/2014,
+        art. 37)
+
+
+2 – Rendimentos de Pessoas Jurídicas Sujeitos a Alíquotas
+Específicas
+
+Trataremos, neste tópico, dos rendimentos de pessoas jurídicas sujeitos a retenção na fonte, pela aplicação
+de alíquotas específicas. Antes, convém ressaltar um dispositivo no RIR que cuida da escrituração dos
+rendimentos auferidos com desconto do IR nas fontes pagadoras:
+
+       Art. 284. Na escrituração dos rendimentos auferidos com desconto do imposto retido pelas fontes
+       pagadoras, serão observadas, nas empresas beneficiadas, as seguintes normas:
+
+       I - o rendimento percebido será escriturado como receita pela respectiva importância bruta, verificada
+       antes de sofrer o desconto do imposto na fonte;
+
+       II - o imposto descontado na fonte pagadora será escriturado, na empresa beneficiária do
+       rendimento:
+
+       a) como despesa ou encargo não dedutível na determinação do lucro real, quando se tratar de
+       incidência exclusiva na fonte;
+
+       b) como parcela do ativo circulante, nas demais hipóteses.
+
+O rendimento será escriturado como receita e entrará na base de cálculo do IRPJ da empresa beneficiada?
+Ou seja, o rendimento será tributado 02 vezes e o valor retido na fonte não poderá ser deduzido?
+
+Não, na verdade não! Vamos entender o porquê? A resposta consta no art. 233, § 1º, da IN RFB 1.700/2017:
+
+Para efeitos de pagamento, a pessoa jurídica poderá deduzir, do IRPJ apurado em cada trimestre, o imposto
+sobre a renda pago ou retido na fonte sobre receitas que integraram a base de cálculo do imposto devido.
+
+Ou seja, a princípio pode parecer que há duas incidências, mas, quando apurado o imposto devido naquele
+período de apuração, é possível subtrair o que já foi retido na fonte.
+
+
+---
+
+Exemplo:
+
+Vamos supor que a empresa A paga R$ R$ 100.000,00 à empresa B, com retenção na fonte de R$ 15.000,00.
+Logo, a empresa B recebe líquido R$ 85 mil. Certo? Ok!
+
+       Segundo a norma que estudamos, na contabilidade da empresa B será registrada receita de R$ 100
+       mil (valor antes de sofrer retenção), mas após apurar o imposto nesta empresa, será possível deduzir
+       os R$ 15 mil que já foram retidos pela empresa A.
+
+   Rendimentos de serviços profissionais prestados por pessoas jurídicas
+
+Alíquota  1,5%
+
+Dispositivo: As importâncias pagas ou creditadas por pessoas jurídicas a outras pessoas jurídicas, civis ou
+mercantis, pela prestação de serviços caracterizadamente de natureza profissional. (RIR, art. 714)
+
+   Serviços de limpeza, conservação, segurança, vigilância e locação de mão-de-obra
+
+Alíquota  1%
+
+Dispositivo: Rendimentos pagos ou creditados por pessoas jurídicas a outras pessoas jurídicas civis ou
+mercantis pela prestação de serviços de limpeza, conservação, segurança, vigilância e por locação de mão-
+de-obra. (RIR, art. 716)
+
+   Mediação de negócios, propaganda e publicidade
+
+Alíquota  1,5%
+
+Dispositivo: As importâncias pagas ou creditadas por pessoas jurídicas a outras pessoas jurídicas (RIR, art.
+718)
+
+   Pagamentos a cooperativas de trabalho e associações profissionais ou assemelhadas
+
+Alíquota 1,5%.
+
+Dispositivo: As importâncias pagas ou creditadas por pessoas jurídicas a cooperativas de trabalho,
+associações de profissionais ou assemelhadas, relativas a serviços pessoais que lhes forem prestados por
+associados destas ou colocados à disposição (RIR, art. 719).
+
+   Pagamentos efetuados por órgãos e entidades da administração pública federal
+
+
+---
+
+Alíquota 15%, multiplicado pelo percentual de estimativa mensal, relativo à atividade correspondente ao
+tipo de bem fornecido ou serviço prestado.
+
+Dispositivo: Os pagamentos efetuados por órgãos, autarquias e fundações da administração pública federal
+a pessoas jurídicas, pelo fornecimento de bens ou prestação de serviços, estão sujeitos à incidência do
+imposto na fonte. (RIR, art. 720)
+
+         Observação: 15% x %Atividade x Valor a ser pago, onde %Atividade corresponde àquele
+         aplicável ao cálculo da estimativa mensal do lucro real, relativo à atividade a que se refere
+         o fornecimento de bens ou a prestação de serviços.
+
+   Importâncias pagas a título de prestação de serviços a pessoas jurídicas que explorem atividades de
+    prestação de serviços de assessoria creditícia, mercadológica, gestão de crédito, seleção e riscos,
+    administração de contas a pagar e a receber
+
+Alíquota  1,5%
+
+Dispositivo: Sujeitam-se ao desconto do imposto de renda, à alíquota de 1,5% (um inteiro e cinco décimos
+por cento), que será deduzido do apurado no encerramento do período de apuração, as importâncias pagas
+ou creditadas por pessoas jurídicas a título de prestação de serviços a outras pessoas jurídicas que explorem
+as atividades de prestação de serviços de assessoria creditícia, mercadológica, gestão de crédito, seleção e
+riscos, administração de contas a pagar e a receber. (RIR, art. 723)
+
+3 – Rendimentos de Participações Societárias
+
+Sobre os rendimentos de participações societárias, o candidato deve saber que os lucros ou dividendos
+calculados com base nos resultados apurados a partir do mês de janeiro de 1996, pagos ou creditados pelas
+pessoas jurídicas tributadas com base no lucro real, presumido ou arbitrado, não estão sujeitos à
+incidência do imposto na fonte, nem integram a base de cálculo do imposto do beneficiário, pessoa física
+ou jurídica, domiciliado no País ou no exterior. É o que prescreve o art. 10, da Lei 9.249/1995.
+
+Vamos esquematizar porque essa informação é muito importante:
+
+                                                             Não há incidência na fonte
+
+     Lucros ou Dividendos Calculados
+    sobre Resultados Apurados       a
+             partir de Jan/96                            Não integram base de cálculo do IR
+                                                          do beneficiário (PF ou PJ), ainda
+                                                            que domiciliado no exterior
+
+
+---
+
+Professor, mas onde está isso no RIR? A resposta é: no art. 654! Vejamos:
+
+      Art. 654. Os lucros ou dividendos calculados com base nos resultados apurados a partir do mês de
+      janeiro de 1996, pagos ou creditados pelas pessoas jurídicas tributadas com base no lucro real, não
+      estão sujeitos à incidência do imposto na fonte, nem integram a base de cálculo do imposto do
+      beneficiário, pessoa física ou jurídica, domiciliado no País ou no exterior (Lei nº 9.249, de 1995, art.
+      10).
+
+         Observação: Esta isenção também alcança os valores efetivamente pagos ou distribuídos
+         ao titular ou sócio da microempresa ou empresa de pequeno porte optante pelo Regime
+         Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas
+         Microempresas e Empresas de Pequeno Porte (Simples Nacional), salvo os que
+         corresponderem a pró-labore, aluguéis ou serviços prestados.
+
+Não obstante tal previsão, há outros diversos rendimentos decorrentes de participações societárias que
+ensejam tributação na fonte. Senão, vejamos:
+
+   Juros sobre o capital próprio
+
+Alíquota  15%
+
+Dispositivo: Estão sujeitos ao imposto na fonte, à alíquota de quinze por cento, na data do pagamento ou
+crédito, os juros calculados sobre as contas do patrimônio líquido. (RIR, art. 726)
+
+   Rendimentos de partes beneficiárias ou de fundador
+
+Alíquota 
+
+    1) Se pagos a pessoa física, aplica-se tabela progressiva;
+    2) Se pagos a pessoa jurídica, aplica-se a alíquota de 15%.
+
+Dispositivo: Estão sujeitos à incidência do imposto na fonte, calculado na forma do art. 677 (tabela
+progressiva), os interesses e quaisquer outros rendimentos de partes beneficiárias ou de fundador pagos a
+pessoas físicas. (RIR, art. 727)
+
+4 – Rendimentos Diversos
+
+Vejamos, ainda, outras hipóteses em que ocorre tributação na fonte:
+
+
+---
+
+   Pagamento a beneficiário não identificado
+
+Alíquota  35%
+
+Dispositivo: Está sujeito à incidência do imposto, exclusivamente na fonte, à alíquota de 35%, todo
+pagamento efetuado pelas pessoas jurídicas a beneficiário não identificado, ressalvado o disposto em
+normas especiais. (RIR, art. 730)
+
+        Observação: Se o beneficiário não é identificado, a tributação não pode ocorrer a título de
+        antecipação, pois não sabemos quem é a pessoa que faria o ajuste anual. Portanto, a
+        tributação é exclusiva na fonte.
+
+        Destaque-se que, em se tratando de remuneração indireta (despesas diversas pagas aos
+        empregados, por exemplo) paga a beneficiário não identificado, também há sujeição à
+        alíquota de 35%, mediante tributação exclusiva na fonte.
+
+        Acrescento, ainda, que tais despesas (com pagamento a beneficiários não identificados)
+        são indedutíveis, conforme estabelece o art. 316 do RIR, para fins de apuração do lucro
+        real.
+
+   Prêmios em Loterias recebidos em dinheiro
+
+Alíquota  30%
+
+Dispositivo: Estão sujeitos à incidência do imposto, à alíquota de 30%, exclusivamente na fonte:
+
+I - os lucros decorrentes de prêmios em dinheiro obtidos em loterias, inclusive as instantâneas, mesmo as de
+finalidade assistencial, ainda que exploradas diretamente pelo Estado, concursos desportivos em geral,
+compreendidos os de turfe e sorteios de qualquer espécie, exclusive os de antecipação nos títulos de
+capitalização e os de amortização e resgate das ações das sociedades anônimas;
+
+II - os prêmios em concursos de prognósticos desportivos, seja qual for o valor do rateio atribuído a cada
+ganhador. (RIR, art. 732, I e II)
+
+De acordo com o que prevê o art. 35, VII, “i”, do RIR, são isentos de IRPF o prêmio em dinheiro obtido em
+loterias até o limite do valor da 1ª (primeira) faixa da tabela de incidência mensal do IRPF.
+
+   Outros prêmios em bens e serviços
+
+
+---
+
+Alíquota  20%
+
+Dispositivo: Os prêmios distribuídos sob a forma de bens e serviços, através de concursos e sorteios de
+qualquer espécie, estão sujeitos à incidência do imposto, à alíquota de 20%, exclusivamente na fonte. (RIR,
+art. 733)
+
+   Títulos de capitalização
+
+Alíquota  25%
+
+Dispositivo: Estão sujeitos à incidência do imposto na fonte, à alíquota de 25%:
+
+     os benefícios líquidos resultantes da amortização antecipada, mediante sorteio, dos títulos de
+      economia denominados capitalização;
+     os benefícios atribuídos aos portadores de títulos de capitalização nos lucros da empresa emitente.
+      (RIR, art. 736, I)
+
+Alíquota  20%
+
+Dispositivo: Estão sujeitos à incidência do imposto na fonte, à alíquota de 20%:
+
+     os rendimentos auferidos com títulos de capitalização, na hipótese de resgate, sem sorteio (RIR, art.
+      736, II)
+
+         Observação: Se o beneficiário for pessoa jurídica tributada com base no lucro real,
+         presumido ou arbitrado, considera-se o imposto pago como antecipação do devido no final
+         do período de apuração. Por outro lado, se o beneficiário for pessoa física ou jurídica isenta,
+         ocorre tributação exclusiva na fonte.
+
+   Rendimentos de proprietários e criadores de cavalos de corrida
+
+Alíquota  15%
+
+Dispositivo: Estão sujeitos à incidência do imposto na fonte, à alíquota de 15%, os prêmios pagos aos
+proprietários e criadores de cavalos de corrida (RIR, art. 737, caput)
+
+         Observação: Se o beneficiário for pessoa jurídica tributada com base no lucro real,
+         considera-se o imposto pago como antecipação do devido no final do período de apuração.
+
+
+---
+
+        Nos demais casos, inclusive pessoa física ou jurídica isenta, ocorre tributação exclusiva na
+        fonte.
+
+   Rendimentos pagos a pessoas jurídicas por sentença judicial
+
+Alíquota  5%
+
+Dispositivo: Estão sujeitas ao desconto do imposto na fonte, à alíquota de 5%, as importâncias pagas às
+pessoas jurídicas a título de juros e de indenizações por lucros cessantes, decorrentes de sentença judicial.
+(RIR, art. 738)
+
+   Rendimentos decorrentes de decisão da Justiça Federal
+
+Alíquota  3%
+
+Dispositivo: O imposto sobre a renda sobre os rendimentos pagos, em cumprimento a decisão da Justiça
+Federal, por meio de precatório ou de requisição de pequeno valor, será retido na fonte pela instituição
+financeira responsável pelo pagamento e incidirá à alíquota de três por cento sobre o montante pago, sem
+deduções, no momento do pagamento ao beneficiário ou ao seu representante legal. (RIR, art. 739)
+
+        Observação: O imposto retido na fonte será considerado antecipação do imposto apurado
+        na declaração de ajuste anual das pessoas físicas; ou deduzido do apurado no
+        encerramento do período de apuração ou na data da extinção, no caso de beneficiário
+        pessoa jurídica.
+
+   Multas por rescisão de contratos
+
+Alíquota  15%
+
+Dispositivo: Estão sujeitas ao imposto na fonte, à alíquota de 15%, as multas ou quaisquer outras vantagens
+pagas ou creditadas por pessoa jurídica, ainda que a título de indenização, a beneficiária pessoa física ou
+jurídica, inclusive isenta, em virtude de rescisão de contrato. (RIR, art. 740)
+
+Antes de encerrarmos este tópico, gostaria de frisar que existe uma regra constante no RIR/2018, que trata
+dos rendimentos auferidos por pessoas jurídicas, e também pessoas físicas, nos programas de concessão de
+crédito e do estímulo à solicitação de documento fiscal:
+
+       Art. 734. Não ficam sujeitos à incidência do imposto sobre a renda na fonte os valores em espécie
+       pagos ou creditados a pessoas jurídicas pelos Estados, pelo Distrito Federal e pelos Municípios,
+       relativos ao ICMS e ao ISS, no âmbito de programas de concessão de crédito voltados ao estímulo à
+       solicitação de documento fiscal na aquisição de mercadorias e serviços
+
+
+---
+
+       Art. 735. Não ficam sujeitos à incidência do imposto sobre a renda na fonte os rendimentos pagos
+       em espécie a pessoas físicas pelos Estados, pelo Distrito Federal e pelos Municípios, relativos ao ICMS
+       e ao ISS, no âmbito de programas de concessão de crédito voltados ao estímulo à solicitação de
+       documento fiscal na aquisição de mercadorias e serviços
+
+       Parágrafo único. O disposto neste artigo não se aplica aos prêmios recebidos por meio de sorteios,
+       em espécie, bens ou serviços, no âmbito dos programas referidos no caput.
+
+         Observação: Esses programas de concessão de crédito e do estímulo à solicitação de
+         documento fiscal são como a Nota Fiscal Paulista, entre outros programas instituídos pelos
+         entes federativos para estimular a emissão de documentos fiscais.
+
+5 – Rendimentos de Residentes ou Domiciliados no Exterior
+
+De acordo com o art. 741, do RIR, estão sujeitos ao imposto na fonte a renda e os proventos de qualquer
+natureza provenientes de fontes situadas no País, quando percebidos:
+
+I - pelas pessoas físicas ou jurídicas residentes ou domiciliadas no exterior;
+
+II - pelos residentes no País que estiverem ausentes no exterior por mais de doze meses, salvo os ausentes
+no exterior a serviço do País, que recebam rendimentos do trabalho assalariado de autarquias ou repartições
+do Governo brasileiro situadas no exterior;
+
+III - pela pessoa física proveniente do exterior, com visto temporário;
+
+IV - pela pessoa física residente no País que passar à condição de não residente, a partir da data de
+caracterização da nova condição.
+
+Lembre-se dos conceitos elementares, vistos nas aulas sobre o IRPF: os rendimentos do não residente
+apenas são tributados quando a sua fonte estiver situada no Brasil.
+
+Os rendimentos, ganhos de capital e demais proventos pagos, creditados, entregues, empregados ou
+remetidos, por fonte situada no País, a pessoa física ou jurídica residente no exterior, estão sujeitos à
+incidência na fonte à alíquota de 15%, quando não tiverem tributação específica, inclusive nas seguintes
+hipóteses (RIR, art. 744):
+
+
+---
+
+          pensões alimentícias e pecúlios;
+          prêmios conquistados em concursos ou competições;
+          valores correspondentes aos pagamentos de contraprestação de arrendamento mercantil de
+           bens de capital, celebrados com entidade mercantil de bens de capital domiciliadas no exterior;
+          as comissões e as despesas incorridas nas operações de colocação, no exterior, de ações de
+           companhias abertas, domiciliadas no País;
+          a solicitação, a obtenção e a manutenção de direitos de propriedades industriais no exterior;
+          os juros decorrentes de empréstimos contraídos no exterior, em países que mantenham acordos
+           tributários com o País, por empresas nacionais, particulares ou oficiais, por prazo igual ou superior
+           a quinze anos, à taxa de juros do mercado credor, com instituições financeiras tributadas em nível
+           inferior ao admitido pelo crédito fiscal nos acordos tributários;
+          os juros, as comissões, as despesas e os descontos decorrentes de colocações no exterior,
+           previamente autorizadas pelo Banco Central do Brasil, de títulos de crédito internacionais,
+           inclusive commercial papers, desde que o prazo médio de amortização corresponda, no mínimo,
+           a noventa e seis meses;
+
+Haverá, ainda, tributação à alíquota de 25%, para os casos de:
+
+   rendimentos de residentes ou domiciliados em países ou dependências classificados como de tributação
+    favorecida;
+   rendimentos do trabalho, com ou sem vínculo empregatício, de aposentadoria, de pensão e os
+    rendimentos da prestação de serviços, pagos, creditados, entregues, empregados ou remetidos a
+    residentes ou domiciliados no exterior, ficam sujeitos à incidência do imposto sobre a renda na fonte, à
+    alíquota de vinte e cinco por cento, excepcionado, no que se refere a serviços.
+
+Já o art. 745, do RIR, prevê que o ganho de capital auferido por residente ou domiciliado no exterior será
+apurado e tributado de acordo com as regras aplicáveis aos residentes no País, e ficará sujeito à incidência
+do imposto sobre a renda com a aplicação das alíquotas progressivas previstas no art. 153, do RIR.
+
+Caro candidato(a), sabemos que estudar legislação tributária não é uma tarefa fácil. Exige-se muita, mas
+muita, memorização!
+
+O meu papel como professor é tentar facilitar ao máximo a sua vida. Portanto, não vou deixá-lo perdido em
+meio a tantas informações contidas no tópico 4 desta aula.
+
+Boa parte dessas informações, relativas ao IRPF, já foram vistas, quando do estudo do regime de tributação
+exclusiva na fonte. As demais são inéditas. Contudo, você não precisa sair memorizando tudo não. Não tenha
+como objetivo principal decorar alíquotas, mas foque no rendimento, memorizando quais estão sendo
+retidos na fonte! Isso é o principal!
+
+
+---
+
+Bom, chega de teoria por hoje! Vamos exercitar!
+
+
+---
+
+                                    RESUMO DA AULA
+
+Lucro Presumido
+
+
+   Pessoas jurídicas que podem optar pelo lucro presumido: aquelas que não estiverem obrigadas à
+    apuração com base no lucro real (pelo faturamento ou pela atividade que excerce)
+
+   Período de Apuração: trimestral (encerramento em 31 de março, 30 de junho, 30 de setembro e 31 de
+    dezembro de cada ano-calendário)
+
+   Regime de Apuração: regime de competência ou regime de caixa
+
+   Cálculo: semelhante ao cálculo das estimativas mensais do IRPJ no lucro real anual
+
+                   Base Cálculo = (Receita Bruta Trimestral x %Atividade) + Acréscimos
+
+   A receita bruta compreende:
+
+        I - o produto da venda de bens nas operações de conta própria;
+
+        II - o preço da prestação de serviços em geral;
+
+        III - o resultado auferido nas operações de conta alheia; e
+
+        IV - as receitas da atividade ou objeto principal da pessoa jurídica, não compreendidas nos incisos I a
+        III.
+
+
+   Para fins de apuração do lucro presumido, a receita bruta deve ser sempre deduzida das:
+
+       Devoluções;
+       Vendas Canceladas; e
+       Descontos Incondicionais.
+
+
+---
+
+         Atenção: Embora pareça idêntica à fórmula utilizada para o cálculo da estimativa mensal,
+         o candidato deve se atentar ao fato de que a receita bruta, no caso do lucro presumido, é
+         trimestral.
+
+   Obrigações Acessórias Exigidas no Regime de Lucro Real
+
+        I – Manter escrituração contábil nos termos da legislação comercial;
+
+        II - Manter Livro Registro de Inventário, no qual deverão constar registrados os estoques existentes
+        no término do ano-calendário;
+
+        III - Manter em boa guarda e ordem, enquanto não decorrido o prazo decadencial e não prescritas
+        eventuais ações que lhes sejam pertinentes, todos os livros de escrituração obrigatórios por
+        legislação fiscal específica, bem como os documentos e demais papéis que serviram de base para
+        escrituração comercial e fiscal.
+
+Lucro Arbitrado
+
+   Lucro Arbitrado: regime excepcional (pode ser efetuado pela Receita Federal de ofício e também pelo
+    contribuinte)
+
+   Período de Apuração: trimestral (encerramento em 31 de março, 30 de junho, 30 de setembro e 31 de
+    dezembro de cada ano-calendário)
+
+   Hipóteses de Arbitramento:
+
+       O contribuinte, obrigado à tributação com base no lucro real, não mantiver escrituração na forma
+        das leis comerciais e fiscais, ou deixar de elaborar as demonstrações financeiras exigidas pela
+        legislação fiscal;
+
+       A escrituração a que estiver obrigado o contribuinte revelar evidentes indícios de fraude ou contiver
+        vícios, erros ou deficiências que a tornem imprestável para:
+
+               a) identificar a efetiva movimentação financeira, inclusive bancária; ou
+
+               b) determinar o lucro real.
+
+       O contribuinte, não obrigado à tributação com base no lucro real, deixar de apresentar à autoridade
+        tributária os livros e documentos da escrituração comercial e fiscal, ou o livro Caixa, na hipótese de
+        ter optado pelo lucro presumido;
+
+
+---
+
+       O contribuinte optar indevidamente pela tributação com base no lucro presumido;
+
+       O comissário ou representante da pessoa jurídica estrangeira deixar de escriturar e apurar o lucro
+        da sua atividade separadamente do lucro do comitente residente ou domiciliado no exterior;
+
+       O contribuinte não mantiver, em boa ordem e segundo as normas contábeis recomendadas, livro
+        Razão ou fichas utilizados para resumir e totalizar, por conta ou subconta, os lançamentos efetuados
+        no Diário;
+
+       O contribuinte não escriturar ou deixar de apresentar à autoridade tributária as informações
+        necessárias para gerar o FCONT (Controle Fiscal Contábil de Transição) por meio do Programa
+        Validador e Assinador da Entrada de Dados para o FCONT, no caso de pessoas jurídicas sujeitas ao
+        Regime Tributário de Transição (RTT);
+
+       O contribuinte não escriturar ou deixar de apresentar à autoridade tributária a ECF (Escrituração
+        Contábil Fiscal).
+
+   Cálculo:
+
+    Receita Bruta Conhecida: semelhante ao cálculo do lucro presumido, com a principal diferença de que
+    os percentuais de cada atividade são acrescidos de 20%
+
+                   Base Cálculo = (Receita Bruta Trimestral x %Atividade x 1,2) + Acréscimos
+
+   Para fins de apuração do lucro arbitrado, a receita bruta deve ser sempre deduzida das:
+
+       Devoluções;
+       Vendas Canceladas; e
+       Descontos Incondicionais.
+
+   Receita Bruta Desconhecida: o cálculo do lucro arbitrado deve ser realizado mediante a utilização de
+    uma das seguintes alternativas de cálculo:
+
+        I - 1,5 do lucro real referente ao último período em que pessoa jurídica manteve escrituração de
+        acordo com as leis comerciais e fiscais, atualizado monetariamente;
+
+        II - 0,04 da soma dos valores do ativo circulante, realizável a longo prazo e permanente, existentes
+        no último balanço patrimonial conhecido, atualizado monetariamente;
+
+
+---
+
+III - 0,07 do valor do capital, inclusive a sua correção monetária contabilizada como reserva de capital,
+constante do último balanço patrimonial conhecido ou registrado nos atos de constituição ou
+alteração da sociedade, atualizado monetariamente;
+
+IV - 0,05 do valor do patrimônio líquido constante do último balanço patrimonial conhecido,
+atualizado monetariamente;
+
+V - 0,4 do valor das compras de mercadorias efetuadas no mês;
+
+VI - 0,4 da soma, em cada mês, dos valores da folha de pagamento dos empregados e das compras
+de matérias-primas, produtos intermediários e materiais de embalagem;
+
+VII - 0,8 da soma dos valores devidos no mês a empregados;
+
+VIII - 0,9 do valor mensal do aluguel devido.
+
+                      Base Cálculo = (Coeficiente x Parâmetro) + Acréscimos
+
+
+---
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+
+1.QUESTÃO INÉDITA
+Podem optar pelo lucro presumido as pessoas jurídicas cuja receita total no ano-calendário anterior seja
+superior a R$ 78.000.000,00.
+
+Comentário: As pessoas jurídicas cuja receita total no ano-calendário anterior seja superior a 78 milhões de
+reais estão obrigadas à tributação com base no lucro real. Portanto, não podem optar pelo lucro presumido.
+
+Gabarito: Errada
+
+2.QUESTÃO INÉDITA
+Para fins de cálculo do IRPJ no regime de tributação com base no lucro presumido, devem ser acrescidos à
+base de cálculo os juros sobre o capital próprio auferidos.
+
+Comentário: Realmente, os juros sobre o capital próprio auferidos devem ser acrescidos à base de cálculo
+do IRPJ com base no lucro presumido.
+
+Gabarito: Correta.
+
+3.QUESTÃO INÉDITA
+O contribuinte que optar indevidamente pela tributação com base no lucro real terá o lucro arbitrado,
+conforme previsão na legislação tributária.
+
+Comentário: Ora, se toda pessoa jurídica pode optar pelo lucro real, evidentemente não há opção indevida
+por esse regime de tributação. O que enseja o arbitramento do lucro é a opção indevida pelo lucro
+presumido.
+
+Gabarito: Errada
+
+4.QUESTÃO INÉDITA
+Os rendimentos das pessoas físicas, quando submetidos à tributação pela tabela progressiva, podem sofrer
+retenção de imposto de renda na fonte. A respeito dessa retenção, julgue o item que se segue: o
+
+
+---
+
+adiantamento de rendimentos correspondentes a determinado mês não estará sujeito à retenção, ainda que
+os rendimentos não sejam integralmente pagos no próprio mês a que se referirem.
+
+Comentário: Somente não haverá retenção, se os rendimentos forem pagos integralmente no mês que se
+referirem (RIR, art. 678, caput).
+
+Gabarito: Errada
+
+5.QUESTÃO INÉDITA
+
+Estão sujeitas ao imposto na fonte, à alíquota de 15%, as multas ou quaisquer outras vantagens pagas ou
+creditadas por pessoa jurídica, ainda que a título de indenização, a beneficiária pessoa física ou jurídica,
+inclusive isenta, em virtude de rescisão de contrato.
+
+Comentário: É o que estabelece o art. 740, do RIR.
+
+Gabarito: Correta
+
+6.FGV/CODEMIG-Contador Corporativo/2015
+A tributação do imposto de renda das pessoas jurídicas, decorrente da não validação da escrituração
+contábil, por apresentar evidentes indícios de fraudes ou conter vícios, é feita pelo enquadramento do
+contribuinte no lucro:
+a) real;
+b) contábil;
+c) arbitrado;
+d) líquido;
+e) presumido.
+
+Comentário: Uma das hipóteses de arbitramento do lucro é a que consta no art. 603, III, do RIR: quando a
+escrituração a que o contribuinte estiver obrigado revelar evidentes indícios de fraudes ou contiver vícios,
+erros ou deficiências que a tornem imprestável para identificar a efetiva movimentação financeira, inclusive
+bancária; ou determinar o lucro real.
+
+Gabarito: Letra C
+
+7.CESPE/TCE-ES-Auditor de Controle Externo/2012
+Sujeita-se à incidência de IRRF o rendimento percebido por garimpeiros na venda de metais preciosos, pedras
+preciosas e semipreciosas por eles extraídos a empresas legalmente habilitadas.
+
+
+---
+
+Comentário: De fato, há incidência de imposto de renda na fonte sobre 10% do rendimento percebido por
+garimpeiros na venda de metais preciosos, pedras preciosas e semipreciosas por eles extraídos a empresas
+legalmente habilitadas.
+
+Gabarito: Correta
+
+8.ESAF/PGFN/2015
+Sobre o Imposto sobre a Renda das Pessoas Jurídicas - IRPJ, assinale a opção correta.
+a) Considera-se lucro real a soma do lucro operacional e das participações.
+b) Considera-se lucro real a soma dos resultados não operacionais e das participações.
+c) Considera-se lucro real o lucro líquido apurado num exercício financeiro.
+d) O lucro real não pode ser obtido por arbitramento.
+e) O lucro arbitrado é uma forma de tributação simplificada para determinação da base de cálculo do
+imposto de renda das pessoas jurídicas que não estiverem obrigadas, no ano- calendário, à apuração do lucro
+real.
+
+Comentário:
+
+Alternativa A: De acordo com o art. 258, do Decreto 3.000/99 (RIR), lucro real é o lucro líquido do período
+de apuração ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas na legislação
+tributária. Alternativa errada
+
+Alternativa B: Da mesma forma, de acordo com o art. 258, do Decreto 3.000/99 (RIR), lucro real é o lucro
+líquido do período de apuração ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas
+na legislação tributária. Alternativa errada.
+
+Alternativa C: Conforme já comentado nas alternativas anteriores, o lucro real não se confunde com o lucro
+líquido, pois é ajustado pelas adições, exclusões ou compensações prescritas ou autorizadas na legislação
+tributária. Alternativa errada.
+
+Alternativa D: De fato, o lucro real não pode ser obtido pelo arbitramento, pois o lucro arbitrado não é um
+mecanismo para apuração do lucro real. Alternativa correta.
+
+Alternativa E: O lucro arbitrado é uma forma de tributação para determinação da base de cálculo do imposto
+de renda das pessoas jurídicas, mas só é utilizado nas hipóteses legalmente previstas, como é o caso do
+contribuinte optar indevidamente pela tributação com base no lucro presumido. Alternativa errada.
+
+Gabarito: Letra D
+
+9.ESAF/AFRFB/2014
+Caracteriza omissão de receita, e não mera presunção de omissão de receita, constituindo prova suficiente
+para o lançamento do Imposto de Renda em desfavor da pessoa jurídica:
+a) falta de emissão de nota fiscal ou documento equivalente por ocasião da efetivação das vendas de
+mercadorias.
+
+
+---
+
+b) falta de escrituração de pagamentos efetuados.
+c) manutenção de obrigações já pagas registradas no passivo.
+d) divergência entre a quantidade de matéria-prima registrada na entrada e a soma da quantidade de
+mercadorias registradas na saída com os produtos em estoque.
+e) diferença de valores no confronto entre a movimentação bancária contabilizada e a receita auferida
+registrada.
+
+Comentário: De acordo com o parecer da banca, em resposta aos recursos interpostos contra o gabarito
+preliminar desta questão, foi solicitada a alternativa em que apresente uma situação que seja prova
+suficiente para o lançamento do IRPJ, contra a pessoa jurídica. Assim, se não houve emissão de nota fiscal,
+ocorreu omissão de receita. Analisemos as alternativas:
+
+Alternativa A: De acordo com o art. 295, do RIR, caracteriza omissão de receita ou de rendimentos, inclusive
+ganhos de capital, a falta de emissão de nota fiscal, recibo ou documento equivalente, no momento da
+efetivação das operações de venda de mercadorias, prestação de serviços, operações de alienação de bens
+móveis, locação de bens móveis e imóveis ou quaisquer outras transações realizadas com bens ou serviços,
+bem como a sua emissão com valor inferior ao da operação. Alternativa correta.
+
+Alternativa B: O art. 293, II, do RIR, definiu que se caracteriza como omissão no registro de receita, ressalvada
+ao contribuinte a prova da improcedência da presunção: a falta de escrituração de pagamentos efetuados.
+Alternativa errada.
+
+Alternativa C: O art. 293, III, do RIR, definiu que se caracteriza como omissão no registro de receita,
+ressalvada ao contribuinte a prova da improcedência da presunção: a manutenção no passivo de obrigações
+já pagas ou cuja exigibilidade não seja comprovada. Alternativa errada.
+
+Alternativa D: Dispõe o art. 298, caput, do RIR, que a omissão de receita poderá, também, ser determinada
+a partir de levantamento por espécie de quantidade de matérias-primas e produtos intermediários utilizados
+no processo produtivo da pessoa jurídica. Alternativa errada.
+
+Alternativa E: Determina o caput do art. 299, do RIR, que se caracterizam também como omissão de receita
+os valores creditados em conta de depósito ou de investimento mantida junto a instituição financeira, em
+relação aos quais o titular, pessoa jurídica, regularmente intimado, não comprove, mediante documentação
+hábil e idônea, a origem dos recursos utilizados nessas operações. Alternativa errada.
+
+Gabarito: Letra A
+
+10.ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte,
+obrigado à tributação com base no lucro real, não mantiver escrituração na forma das leis comerciais e
+fiscais, ou deixar de elaborar as demonstrações financeiras exigidas pela legislação fiscal.
+
+Comentário: Trata-se de hipótese de arbitramento do lucro, prevista no art. 226, I, da IN RFB 1.700/2017.
+
+
+---
+
+Gabarito: Correta
+
+11.ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando a escrituração
+a que estiver obrigado o contribuinte revelar evidentes indícios de fraudes ou contiver vícios, erros ou
+deficiências que a tornem imprestável para identificar a efetiva movimentação financeira, inclusive bancária.
+
+Comentário: Mais uma vez a questão cita uma das hipóteses de arbitramento do lucro, desta feita com base
+no art. 226, II, “a”, da IN RFB 1.700/2017.
+
+Gabarito: Correta
+
+12.ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando a escrituração
+a que estiver obrigado o contribuinte revelar evidentes indícios de fraudes ou contiver vícios, erros ou
+deficiências que a tornem imprestável para determinar a receita bruta.
+
+Comentário: Essa hipótese de arbitramento do lucro (escrituração contendo indícios de fraude, vícios, erros
+ou deficiências) só justifica quando a escrituração se tornar imprestável para identificar a efetiva
+movimentação financeira ou para determinar o lucro real, mas não para determinar a receita bruta.
+Portanto, a questão está errada.
+
+Gabarito: Errada
+
+13.ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte
+optar indevidamente pela tributação com base no lucro presumido
+
+Comentário: Deveras, o contribuinte que optar indevidamente pelo lucro presumido está sujeito à tributação
+com base no lucro arbitrado. É o que está consignado no art. 226, IV, da IN RFB 1.700/2017.
+
+Gabarito: Correta
+
+14.ESAF/AFRFB/2012 – Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte
+não mantiver, em boa ordem e segundo as normas contábeis recomendadas, Livro Razão ou fichas utilizadas
+para resumir e totalizar, por conta ou subconta, os lançamentos efetuados no Diário.
+
+Comentário: Trata-se de hipótese de arbitramento do lucro, prevista no art. 226, VI, da IN RFB 1.700/2017.
+
+Gabarito: Correta
+
+
+---
+
+15.ESAF/ATRFB/2012
+Com relação à tributação da pessoa jurídica, pode-se afirmar que a pessoa jurídica pode optar pelo
+arbitramento, pois se trata de base de cálculo substitutiva em face de dificuldade ocorrida na apuração pelo
+lucro presumido.
+
+Comentário: As hipóteses de arbitramento se restringem àquelas previstas no art. 226, da IN RFB
+1.700/2017. Portanto, o contribuinte não pode alegar dificuldade ocorrida na apuração do lucro presumido
+como justificativa para arbitrar o seu lucro.
+
+Gabarito: Errada
+
+16.ESAF/ATRFB/2012
+Com relação à tributação da pessoa jurídica, pode-se afirmar que a opção do contribuinte pela apuração com
+base no lucro presumido permite ao contribuinte deixar de apresentar ao fisco sua escrituração contábil.
+
+Comentário: A pessoa jurídica optante pelo lucro presumido deverá manter escrituração contábil, nos
+termos do art. 600, I, do RIR. Contudo, a pessoa jurídica pode ser dispensada dessa obrigação acessória,
+desde que mantenha livro Caixa, no qual deverá estar escriturado toda a movimentação financeira, inclusive
+bancária.
+
+Portanto, perceba que a pessoa jurídica optante pelo lucro presumido até pode deixar de manter
+escrituração contábil, mas não é a opção que a exime da obrigação, mas sim o fato de manter o livro Caixa.
+
+Gabarito: Errada
+
+17.QUESTÃO INÉDITA
+A alíquota de IRPJ, para os contribuintes optantes pela tributação com base no lucro presumido, varia
+conforme o seu ramo de atividade.
+
+Comentário: Vimos durante a aula que a alíquota do IRPJ é a mesma, seja qual for o regime de tributação a
+que esteja sujeito o contribuinte. O que pode variar, a depender do ramo de atividade do contribuinte, é o
+percentual de presunção, a ser aplicado sobre a receita bruta por ele auferida.
+
+Gabarito: Errada
+
+18.QUESTÃO INÉDITA
+Da mesma forma que alguns contribuintes podem livremente optar pela tributação com base no lucro
+presumido, há pessoas jurídicas obrigadas por expressa disposição legal à tributação com base nesse regime
+de apuração do IRPJ.
+
+Comentário: Lembre-se de que, para o lucro presumido, vale a seguinte afirmação: “alguns podem, outros
+não”. Com base nessas palavras, percebemos que ninguém está obrigado a sofrer a tributação com base no
+lucro presumido. Portanto, a questão está errada.
+
+Gabarito: Errada
+
+19.QUESTÃO INÉDITA
+
+
+---
+
+É permitido que uma cooperativa de crédito opte pela tributação com base no lucro presumido, desde que
+suas receitas, no ano-calendário anterior, não sejam superior a R$ 78.000.000.
+
+Comentário: As cooperativas de crédito se submetem obrigatoriamente à tributação com base no lucro real,
+independentemente do montante de receitas auferidas no ano-calendário anterior.
+
+Gabarito: Errada
+
+20.QUESTÃO INÉDITA
+Assim como ocorre no regime de tributação com base no lucro real, as optantes pelo lucro presumido podem
+apurar o IRPJ anualmente, desde que efetuem antecipações mensais, por meio de cálculo do imposto por
+estimativa.
+
+Comentário: Apenas o lucro real pode ser apurado anualmente, com estimativas mensais. Os demais regimes
+de tributação do IRPJ (presumido e arbitrado) possuem períodos de apuração trimestrais.
+
+Gabarito: Errada
+
+21.QUESTÃO INÉDITA
+O lucro presumido é calculado com base na receita bruta, não se incluindo nesta os tributos não cumulativos
+cobrados, destacadamente, do comprador ou contratante pelo vendedor dos bens ou pelo prestador dos
+serviços na condição de mero depositário.
+
+Comentário: Conforme foi dito, o IPI e o ICMS destacado por substituição tributária não devem ser incluídos
+na receita bruta, para fins de apuração do lucro presumido.
+
+Gabarito: Correta
+
+22.QUESTÃO INÉDITA
+Os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas não abrangidas no
+conceito de receita bruta, auferidos no mesmo período, devem ser acrescidos à base de cálculo IRPJ, no
+regime de tributação pelo lucro presumido.
+
+Comentário: Realmente, os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas
+não abrangidas no conceito de receita bruta, devem ser somados à base de cálculo para apuração do lucro
+presumido.
+
+Gabarito: Correta
+
+23.QUESTÃO INÉDITA
+Apenas as empresas tributadas com base no lucro presumido, podem, em certas circunstâncias, ter o seu
+lucro arbitrado.
+
+
+---
+
+Comentário: Qualquer pessoa jurídica que se enquadre nas hipóteses previstas no art. 226, da IN RFB
+1.700/2017, podem sofrer arbitramento em seus lucros.
+
+Gabarito: Errada
+
+24.QUESTÃO INÉDITA
+A existência de passivo fictício, detectado pela fiscalização da Receita Federal no balanço patrimonial da
+pessoa jurídica, caracteriza hipótese de omissão de receitas.
+
+Comentário: Passivo fictício, conforme foi explicado, ocorre quando o passivo registrado na contabilidade é
+maior do que as obrigações da pessoa jurídica. Portanto, configura omissão de receitas por haver obrigações
+já pagas, que ainda não foram baixadas.
+
+Gabarito: Correta
+
+25.ESAF/TRF/2000 - Adaptada
+Quando o contribuinte não mantiver escrituração na forma das leis comerciais e fiscais, a que estiver
+obrigado, e deixar de elaborar as demonstrações financeiras exigidas pela legislação fiscal, será ele tributado
+obrigatoriamente pelo lucro arbitrado.
+
+Comentário: O contribuinte, obrigado à tributação com base no lucro real, que não mantiver escrituração
+na forma das leis comerciais e fiscais ou deixar de elaborar as demonstrações financeiras exigidas pela
+legislação fiscal, fica submetido à tributação pelo lucro arbitrado (IN RFB 1.700/2017, art. 226, I).
+
+Gabarito: Correta
+
+26.ESAF/TRF/2000 - Adaptada
+Quando conhecida a receita bruta e desde que ocorridas as hipóteses previstas para o cálculo do tributo pelo
+lucro arbitrado, o fisco ou o próprio contribuinte poderá calcular o imposto pelo arbitramento do lucro.
+
+Comentário: De fato, se a receita bruta for conhecida, e ocorrer alguma das hipóteses que ensejam o
+arbitramento do lucro, o próprio contribuinte pode efetuar o cálculo do imposto com base nesse regime de
+tributação.
+
+Gabarito: Correta
+
+27.QUESTÃO INÉDITA
+Caracterizada a omissão de receitas por parte de pessoa jurídica com atividades diversificadas tributadas
+com base no lucro presumido ou arbitrado, não sendo possível a identificação da atividade a que se refere a
+receita omitida, esta será adicionada àquela a que corresponder o percentual menor.
+
+Comentário: Se não for possível a identificação da atividade a que se refere a receita omitida, esta será
+adicionada àquela a que corresponder o percentual maior, e não menor.
+
+Gabarito: Errada
+
+28.ESAF/TRF/2000 – Adaptada
+
+
+---
+
+Diante das hipóteses estabelecidas no Regulamento do Imposto de Renda como presunção de omissão de
+receitas por parte das pessoas jurídicas, não cabe prova em contrário do contribuinte.
+
+Comentário: É bastante ilógica essa questão, não é mesmo? É claro que o contribuinte possui o direito de
+contestar a presunção efetuada pelo AFRFB.
+
+Gabarito: Errada
+
+A respeito da hipotética distribuidora de brinquedos LOGAN Ltda., consideremos as seguintes informações:
+
+Receitas totais no ano-calendário X1: R$ 50.000.000,00
+
+No primeiro trimestre de X2, foram apuradas as seguintes informações contábeis:
+
+Receita bruta de venda: R$ 10.000.000,00
+
+Custo de Mercadorias Vendidas: R$ 4.500.000,00
+
+Descontos incondicionais: R$ 500.000,00
+
+Descontos condicionais: R$ 150.000,00
+
+Vendas canceladas: R$ 650.000,00
+
+Receita na venda de bem do ativo imobilizado: R$ 2.000.000,00
+
+Devoluções de mercadorias: R$ 200.000,00
+
+Valor contábil do ativo imobilizado vendido: R$ 1.500.000,00
+
+ICMS sobre vendas: R$ 950.000,00
+
+Despesas administrativas: R$ 1.250.000,00
+
+Com base unicamente nos dados dispostos acima, responda as 03 questões seguintes:
+
+29.QUESTÃO INÉDITA
+A empresa LOGAN Ltda. pode optar pela tributação com base no lucro presumido, no ano-calendário de X2.
+
+Comentário: Como as receitas da pessoa jurídica no ano-calendário anterior (X1) não foram superiores a 78
+milhões, a legislação tributária permite que a empresa opte pela tributação com base no lucro presumido.
+
+Gabarito: Correta
+
+30.QUESTÃO INÉDITA
+O lucro presumido apurado no primeiro trimestre de X2 é de R$ 692.000,00.
+
+
+---
+
+Comentário: O lucro presumido deve ser calculado do seguinte modo:
+
+  10.000.000,00 (Receita bruta de vendas)
+
+(-) 500.000,00 (Descontos incondicionais)
+
+(-) 650.000,00 (Vendas canceladas)
+
+(-) 200.000,00 (Devoluções de mercadorias)
+
+(=) 8.650.000,00 x 8% = 692.000,00
+
+Apuração de Acréscimos:
+
+  2.000.000,00 (Receita com venda de bens do ativo imobilizado)
+
+(-) 1.500.000,00 (Valor contábil do ativo imobilizado)
+
+  500.000,00  Ganho de capital
+
+Lucro Presumido = 692.000 + 500.000 = 1.192.000
+
+        Observação: Foi aplicado o percentual geral de presunção, pelo fato de a atividade do
+        contribuinte não se enquadrar nos demais percentuais.
+
+        Além disso, não se pode confundir descontos condicionais com os descontos
+        incondicionais. Aqueles são despesas financeiras, ao passo que estes são deduções da
+        receita bruta e, portanto, dedutíveis.
+
+O lucro presumido encontrado foi de R$ 1.192.000,00. A questão, portanto, está errada.
+
+Gabarito: Errada
+
+31.QUESTÃO INÉDITA
+O valor do IRPJ a pagar, apurado com base no lucro presumido, é de R$ 292.000,00.
+
+Comentário: A base de cálculo do IRPJ é o lucro presumido, apurado na questão anterior. Com base nessa
+informação, aplicamos a alíquota de 15%, e o respectivo adicional de 10%, sobre o valor que exceder R$
+60.000 (20.000 x 3):
+
+IRPJ: 1.192.000 x 15% = 178.800
+
+Adicional: (1.192.000 – 20.000 x 3) x 10% = 113.200
+
+
+---
+
+IRPJ a pagar: 178.800 + 113.200 = 292.000
+
+O valor do IRPJ a ser pago no primeiro trimestre de X2 é de R$ 292.000,00.
+
+Gabarito: Correta
+
+
+---
+
+            LISTA DAS QUESTÕES COMPLEMENTARES
+
+     1. QUESTÃO INÉDITA
+Podem optar pelo lucro presumido as pessoas jurídicas cuja receita total no ano-calendário anterior seja
+superior a R$ 78.000.000,00.
+
+
+2.         QUESTÃO INÉDITA
+Para fins de cálculo do IRPJ no regime de tributação com base no lucro presumido, devem ser acrescidos à
+base de cálculo os juros sobre o capital próprio auferidos.
+
+
+3.         QUESTÃO INÉDITA
+O contribuinte que optar indevidamente pela tributação com base no lucro real terá o lucro arbitrado,
+conforme previsão na legislação tributária.
+
+
+4.         QUESTÃO INÉDITA
+Os rendimentos das pessoas físicas, quando submetidos à tributação pela tabela progressiva, podem sofrer
+retenção de imposto de renda na fonte. A respeito dessa retenção, julgue o item que se segue: o
+adiantamento de rendimentos correspondentes a determinado mês não estará sujeito à retenção, ainda que
+os rendimentos não sejam integralmente pagos no próprio mês a que se referirem.
+
+
+5.         QUESTÃO INÉDITA
+Estão sujeitas ao imposto na fonte, à alíquota de 15%, as multas ou quaisquer outras vantagens pagas ou creditadas
+por pessoa jurídica, ainda que a título de indenização, a beneficiária pessoa física ou jurídica, inclusive isenta, em
+virtude de rescisão de contrato.
+
+
+6.         FGV/CODEMIG-Contador Corporativo/2015
+A tributação do imposto de renda das pessoas jurídicas, decorrente da não validação da escrituração
+contábil, por apresentar evidentes indícios de fraudes ou conter vícios, é feita pelo enquadramento do
+contribuinte no lucro:
+a) real;
+b) contábil;
+c) arbitrado;
+d) líquido;
+e) presumido.
+7.         CESPE/TCE-ES-Auditor de Controle Externo/2012
+
+
+---
+
+Sujeita-se à incidência de IRRF o rendimento percebido por garimpeiros na venda de metais preciosos, pedras
+preciosas e semipreciosas por eles extraídos a empresas legalmente habilitadas.
+
+
+8.     ESAF/PGFN/2015
+Sobre o Imposto sobre a Renda das Pessoas Jurídicas - IRPJ, assinale a opção correta.
+a) Considera-se lucro real a soma do lucro operacional e das participações.
+b) Considera-se lucro real a soma dos resultados não operacionais e das participações.
+c) Considera-se lucro real o lucro líquido apurado num exercício financeiro.
+d) O lucro real não pode ser obtido por arbitramento.
+e) O lucro arbitrado é uma forma de tributação simplificada para determinação da base de cálculo do
+imposto de renda das pessoas jurídicas que não estiverem obrigadas, no ano- calendário, à apuração do lucro
+real.
+
+
+9.     ESAF/AFRFB/2014
+Caracteriza omissão de receita, e não mera presunção de omissão de receita, constituindo prova suficiente
+para o lançamento do Imposto de Renda em desfavor da pessoa jurídica:
+a) falta de emissão de nota fiscal ou documento equivalente por ocasião da efetivação das vendas de
+mercadorias.
+b) falta de escrituração de pagamentos efetuados.
+c) manutenção de obrigações já pagas registradas no passivo.
+d) divergência entre a quantidade de matéria-prima registrada na entrada e a soma da quantidade de
+mercadorias registradas na saída com os produtos em estoque.
+e) diferença de valores no confronto entre a movimentação bancária contabilizada e a receita auferida
+registrada.
+
+
+10.    ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte,
+obrigado à tributação com base no lucro real, não mantiver escrituração na forma das leis comerciais e
+fiscais, ou deixar de elaborar as demonstrações financeiras exigidas pela legislação fiscal.
+
+
+11.    ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando a escrituração
+a que estiver obrigado o contribuinte revelar evidentes indícios de fraudes ou contiver vícios, erros ou
+deficiências que a tornem imprestável para identificar a efetiva movimentação financeira, inclusive bancária.
+
+
+---
+
+12.    ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando a escrituração
+a que estiver obrigado o contribuinte revelar evidentes indícios de fraudes ou contiver vícios, erros ou
+deficiências que a tornem imprestável para determinar a receita bruta.
+
+
+13.    ESAF/AFRFB/2012 - Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte
+optar indevidamente pela tributação com base no lucro presumido.
+
+
+14.    ESAF/AFRFB/2012 – Adaptada
+Julgue a assertiva a seguir, de acordo com a sua correspondência com as hipóteses legais que determinam a
+apuração do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) sobre o lucro arbitrado: Quando o contribuinte
+não mantiver, em boa ordem e segundo as normas contábeis recomendadas, Livro Razão ou fichas utilizadas
+para resumir e totalizar, por conta ou subconta, os lançamentos efetuados no Diário.
+
+
+15.    ESAF/ATRFB/2012
+Com relação à tributação da pessoa jurídica, pode-se afirmar que a pessoa jurídica pode optar pelo
+arbitramento, pois se trata de base de cálculo substitutiva em face de dificuldade ocorrida na apuração pelo
+lucro presumido.
+
+
+16.    ESAF/ATRFB/2012
+Com relação à tributação da pessoa jurídica, pode-se afirmar que a opção do contribuinte pela apuração com
+base no lucro presumido permite ao contribuinte deixar de apresentar ao fisco sua escrituração contábil.
+
+
+17.    QUESTÃO INÉDITA
+A alíquota de IRPJ, para os contribuintes optantes pela tributação com base no lucro presumido, varia
+conforme o seu ramo de atividade.
+
+
+18.    QUESTÃO INÉDITA
+Da mesma forma que alguns contribuintes podem livremente optar pela tributação com base no lucro
+presumido, há pessoas jurídicas obrigadas por expressa disposição legal à tributação com base nesse regime
+de apuração do IRPJ.
+
+
+19.    QUESTÃO INÉDITA
+É permitido que uma cooperativa de crédito opte pela tributação com base no lucro presumido, desde que
+suas receitas, no ano-calendário anterior, não sejam superior a R$ 78.000.000.
+
+
+---
+
+20.    QUESTÃO INÉDITA
+Assim como ocorre no regime de tributação com base no lucro real, as optantes pelo lucro presumido podem
+apurar o IRPJ anualmente, desde que efetuem antecipações mensais, por meio de cálculo do imposto por
+estimativa.
+
+
+21.    QUESTÃO INÉDITA
+O lucro presumido é calculado com base na receita bruta, não se incluindo nesta os tributos não cumulativos
+cobrados, destacadamente, do comprador ou contratante pelo vendedor dos bens ou pelo prestador dos
+serviços na condição de mero depositário.
+
+
+22.    QUESTÃO INÉDITA
+Os ganhos de capital, demais receitas e resultados positivos decorrentes de receitas não abrangidas no
+conceito de receita bruta, auferidos no mesmo período, devem ser acrescidos à base de cálculo IRPJ, no
+regime de tributação pelo lucro presumido.
+
+
+23.    QUESTÃO INÉDITA
+Apenas as empresas tributadas com base no lucro presumido, podem, em certas circunstâncias, ter o seu
+lucro arbitrado.
+
+
+24.    QUESTÃO INÉDITA
+A existência de passivo fictício, detectado pela fiscalização da Receita Federal no balanço patrimonial da
+pessoa jurídica, caracteriza hipótese de omissão de receitas.
+
+
+25.    ESAF/TRF/2000 - Adaptada
+Quando o contribuinte não mantiver escrituração na forma das leis comerciais e fiscais, a que estiver
+obrigado, e deixar de elaborar as demonstrações financeiras exigidas pela legislação fiscal, será ele tributado
+obrigatoriamente pelo lucro arbitrado.
+
+
+26.    ESAF/TRF/2000 - Adaptada
+Quando conhecida a receita bruta e desde que ocorridas as hipóteses previstas para o cálculo do tributo pelo
+lucro arbitrado, o fisco ou o próprio contribuinte poderá calcular o imposto pelo arbitramento do lucro.
+
+
+27.    QUESTÃO INÉDITA
+Caracterizada a omissão de receitas por parte de pessoa jurídica com atividades diversificadas tributadas
+com base no lucro presumido ou arbitrado, não sendo possível a identificação da atividade a que se refere a
+receita omitida, esta será adicionada àquela a que corresponder o percentual menor.
+
+
+---
+
+28.    ESAF/TRF/2000 – Adaptada
+Diante das hipóteses estabelecidas no Regulamento do Imposto de Renda como presunção de omissão de
+receitas por parte das pessoas jurídicas, não cabe prova em contrário do contribuinte.
+
+
+29.    QUESTÃO INÉDITA
+A empresa LOGAN Ltda. pode optar pela tributação com base no lucro presumido, no ano-calendário de X2.
+
+
+30.    QUESTÃO INÉDITA
+O lucro presumido apurado no primeiro trimestre de X2 é de R$ 692.000,00.
+
+
+31.    QUESTÃO INÉDITA
+O valor do IRPJ a pagar, apurado com base no lucro presumido, é de R$ 292.000,00.
+
+
+---
+
+GABARITO DAS QUESTÕES COMPLEMENTARES
+
+             11. C         22. C
+1. E
+             12. E         23. E
+2. C
+             13. C         24. C
+3. E
+             14. C         25. C
+4. E
+             15. E         26. C
+5. C
+             16. E         27. E
+6. C
+             17. E         28. E
+7. C
+             18. E         29. C
+8. D
+             19. E         30. E
+9. A
+             20. E         31. C
+10. C
+             21. C
+
+
+---

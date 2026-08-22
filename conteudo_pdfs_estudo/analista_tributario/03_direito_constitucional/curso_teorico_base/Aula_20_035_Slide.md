@@ -1,0 +1,116 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_035_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: REMOÇÃO DE GRUPOS INDÍGENAS
+artigos_citados:
+- Art. 174.
+- Art. 232.
+- art. 174
+- art. 21
+---
+
+# REMOÇÃO DE GRUPOS INDÍGENAS
+
+REMOÇÃO DE GRUPOS INDÍGENAS
+
+     5º É vedada a remoção dos grupos indígenas de suas terras,
+    salvo, "ad referendum" do Congresso Nacional, em caso de
+    catástrofe ou epidemia que ponha em risco sua população, ou no
+    interesse da soberania do País, após deliberação do Congresso
+    Nacional, garantido, em qualquer hipótese, o retorno imediato
+    logo que cesse o risco.
+
+                         
+
+
+---
+
+REMOÇÃO DE GRUPOS INDÍGENAS
+
+          
+
+
+---
+
+ATOS EM TERRAS INDÍGENAS
+     6º São nulos e extintos, não produzindo efeitos jurídicos, os
+    atos que tenham por objeto a ocupação, o domínio e a posse das
+    terras a que se refere este artigo, ou a exploração das riquezas
+    naturais do solo, dos rios e dos lagos nelas existentes, ressalvado
+    relevante interesse público da União, segundo o que dispuser lei
+    complementar, não gerando a nulidade e a extinção direito a
+    indenização ou a ações contra a União, salvo, na forma da lei,
+    quanto às benfeitorias derivadas da ocupação de boa fé.
+
+                           
+
+
+---
+
+ATOS EM TERRAS INDÍGENAS
+
+           
+
+
+---
+
+ ATIVIDADE GARIMPEIRA
+    7º Não se aplica às terras indígenas o disposto no art. 174,   3º
+    e 4º.
+
+Art. 174. Como agente normativo e regulador da atividade
+econômica, o Estado exercerá, na forma da lei, as funções de
+fiscalização, incentivo e planejamento, sendo este determinante
+para o setor público e indicativo para o setor privado.
+   3º O Estado favorecerá a organização da atividade garimpeira em
+cooperativas, levando em conta a proteção do meio ambiente e a
+promoção econômico-social dos garimpeiros.
+    4º As cooperativas a que se refere o parágrafo anterior terão
+prioridade na autorização ou concessão para pesquisa e lavra dos
+recursos e jazidas de minerais garimpáveis, nas áreas onde estejam
+atuando, e naquelas fixadas de acordo com o art. 21, XXV, na forma da
+lei.
+
+                            
+
+
+---
+
+ LEGITIMIDADE AD CAUSAM
+Art. 232. Os índios, suas comunidades e organizações são partes
+legítimas para ingressar em juízo em defesa de seus direitos e
+interesses, intervindo o Ministério Público em todos os atos do
+processo.
+
+                         
+
+
+---
+
+LEGITIMIDADE AD CAUSAM
+
+           
+
+
+---
+
+                  OBRIGADA!
+@adrianefauth
+ Profa. Adriane
+Fauth
+@FauthAdriane                                           Prof. Adriane Fauth
+Adriane Fauth
+
+                   
+
+
+---

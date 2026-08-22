@@ -1,0 +1,436 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 02_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: MÉDIA - FGV
+---
+
+# MÉDIA - FGV
+
+Prof. Jhoni Zini
+
+                   
+
+
+---
+
+MÉDIA - FGV
+
+
+                                                   Profº Jhoni zini
+
+              
+
+
+---
+
+FGV – FISCAL (PREF SALVADOR)/2019
+Em uma pequena empresa, a média salarial dos 12 funcionários era de R$ 2.400,00.
+Lúcio Mauro, que ganhava R$ 3.000,00, se aposentou e para ocupar sua vaga foi
+contratado Felipe, com um salário de R$ 1800,00.
+
+Assinale a opção que indica a nova média salarial dos 12 funcionários dessa
+empresa.
+A. R$ 2.350,00
+B. R$ 2.300,00
+C. R$ 2.280,00
+D. R$ 2.250,00
+E. R$ 2.200,00
+
+                               
+
+
+---
+
+FGV - ANALISTA (CGM NITERÓI)/
+Um casal pesou suas quatro malas no aeroporto para o embarque. As três
+primeiras malas pesaram 8 kg, 12 kg e 9 kg. Sabe-se que a média dos pesos das
+quatro malas foi de 11 kg.
+
+O peso da quarta mala é
+A. 12 kg.
+B. 13 kg.
+C. 14 kg.
+D. 15 kg.
+E. 16 kg.
+
+                              
+
+
+---
+
+FGV - ANALISTA (BANESTES)/2018
+A média dos quatro maiores salários de uma determinada empresa é R$ 14.700,00.
+A média dos cinco maiores salários dessa mesma empresa é R$ 14.250,00.
+
+O quinto maior salário dessa empresa é:
+A. R$ 12.450,00;
+B. R$ 12.500,00;
+C. R$ 12.550,00;
+D. R$ 12.600,00;
+E. R$ 12.650,00.
+
+                              
+
+
+---
+
+FGV - ANALISTA LEGISLATIVO (ALERO)/2018
+A média de dez números diferentes é 8. A média dos quatro menores desses
+números é 5.
+
+A média dos seis maiores daqueles dez números é
+A. 12.
+B. 11.
+C. 10.
+D. 9.
+E. 8.
+
+                             
+
+
+---
+
+FGV - ANALISTA DE GESTÃO (COMPESA)/2018
+Em um determinado dia de julho, em Recife, a diferença entre a temperatura
+máxima e a temperatura mínima foi de 6,8ºC.
+
+A média entre a temperatura máxima e a mínima, nesse dia, foi de 24,3ºC.
+
+Nesse dia, a temperatura mínima em Recife foi
+A. 20,9ºC.
+B. 21,1ºC.
+C. 21,3ºC.
+D. 21,5ºC.
+E. 21,7ºC.
+
+                              
+
+
+---
+
+  FGV – TÉCNICO (BANESTES)/2018
+ Em uma empresa, os funcionários são classificados em atendentes, técnicos ou
+ gerentes. A tabela abaixo mostra aquantidade de funcionários de cada categoria e
+ o salário que cada um recebe.
+
+                         Número de
+        Categoria                    Salário em reais
+                        funcionários
+       Atendente                  10            1800
+          Técnico                  8            3000
+         Gerente                   2            4200
+Nessa empresa, o salário médio dos seus funcionários é de:
+A. 2480 reais;
+B. 2520 reais;
+C. 2640 reais;
+D. 2700 reais;
+E. 3000 reais.
+
+
+                                   
+
+
+---
+
+              Número de
+Categoria                 Salário em reais
+             funcionários
+Atendente              10            1800
+   Técnico              8            3000
+  Gerente               2            4200
+
+                       
+
+
+---
+
+ FGV - ANALISTA ECONÔMICO (BANESTES)/2018
+Os Índices Gerais de Preços (IGP-M e IGP-DI) são, ambos, médias aritméticas ponderadas de
+três outros índices de preços:
+
+- o Índice de Preços ao Produtor Amplo (IPA.), com peso 6;
+- o Índice de Preços ao Consumidor (IPC.), com peso 3; e
+- o Índice Nacional de Custo da Construção (INCC.), com peso 1.
+
+Suponha que, entre duas apurações consecutivas do IGP-DI, o IPA tenha aumentado de 2,1%
+para 2,4%; o IPC tenha também aumentado de 1,7% para 1,9%; e que o INCC tenha sofrido
+redução de 4,2% para 3,7%.
+
+Nessas condições, da apuração anterior para a apuração mais recente, o IGP-DI:
+A. sofreu aumento de 2,19% para 2,38%;
+B. sofreu aumento de 1,35% para 1,64%;
+C. não sofreu alteração;
+D. sofreu redução de 1,35% para 1,20%;
+E. sofreu redução de 2,19% para 2,00%.
+
+
+                                  
+
+
+---
+
+- o Índice de Preços ao Produtor Amplo (IPA.), com peso 6;
+- o Índice de Preços ao Consumidor (IPC.), com peso 3; e
+- o Índice Nacional de Custo da Construção (INCC.), com peso 1.
+
+Suponha que, entre duas apurações consecutivas do IGP-DI, o IPA tenha aumentado de 2,1%
+para 2,4%; o IPC tenha também aumentado de 1,7% para 1,9%; e que o INCC tenha sofrido
+redução de 4,2% para 3,7%.
+
+                                  
+
+
+---
+
+ FGV - TÉCNICO BANCÁRIO (BANESTES)/2018
+Alberto aplicou um capital C da seguinte forma:
+
+a.) 40% de C em papéis de Renda Fixa (R.F.);
+b.) 60% de C em Letra de Crédito Imobiliário (L.C.I.).
+
+Ao longo de um ano, nenhum novo depósito foi feito em qualquer das duas modalidades de
+aplicação. Nesse mesmo período, não houve qualquer resgate.
+
+Se as taxas efetivas de rendimento da R.F. e da L.C.I., no período referido, foram de 15% a.a.
+e 10% a.a., respectivamente, então essa estratégia conjunta de aplicação possibilitou a
+Alberto uma rentabilidade total sobre o capital C de:
+A. 25%;
+B. 19%;
+C. 15%;
+D. 12%;
+E. 5%.
+
+                                    
+
+
+---
+
+ FGV - ANALISTA (TJ SC)/JURÍDICO/2018
+Uma pequena empresa tem 10 funcionários. A média salarial dos 6 funcionários com
+menores salários é R$ 2600,00 e a média salarial dos 4 funcionários com maiores salários é
+R$ 4200,00.
+
+A média salarial dos 10 funcionários dessa empresa é:
+A. R$ 3480,00;
+B. R$ 3440,00;
+C. R$ 3400,00;
+D. R$ 3360,00;
+E. R$ 3240,00.
+
+                                  
+
+
+---
+
+MÉDIA - CEBRASPE
+
+
+                                                        Profº Jhoni zini
+
+                   
+
+
+---
+
+CEBRASPE - ANALISTA DE CONTROLE EXTERNO (TCE-RJ)/2021
+     X     frequência
+            absoluta
+    0          5
+    1          10
+    2          20
+    3          15
+  total        50
+
+Considerando que a tabela precedente mostra a distribuição de frequências de uma variável
+quantitativa X, julgue o item a seguir.
+
+A média amostral da variável em tela é inferior a 2.
+
+
+                                    
+
+
+---
+
+CEBRASPE (CESPE) - PERITO CRIMINAL FEDERAL/ÁREA 6/2018
+Considerando que a análise de uma amostra de minério de chumbo tenha apresentado os
+seguintes resultados percentuais (%): 8,10; 8,32; 8,12; 8,22; 7,99; 8,31, julgue o item a
+seguir, relativo a esses dados.
+
+O valor médio do teor de chumbo presente na amostra foi superior a 8%.
+
+                                   
+
+
+---
+
+CEBRASPE (CESPE) - AUXILIAR EM ADMINISTRAÇÃO (IFF)/2018
+Considere que o peso de 5 pessoas, juntas em um elevador, seja de 340 kg. Se, em
+determinado andar, mais um indivíduo entrar no elevador, sem que dele ninguém desça, e a
+média aritmética dos pesos dessas 6 pessoas passar a ser de 70 kg, esse sexto indivíduo pesa
+A. 68,3 kg.
+B. 69 kg.
+C. 70 kg.
+D. 80 kg.
+E. 82 kg.
+
+                                   
+
+
+---
+
+CEBRASPE - SOLDADO POLICIAL MILITAR (PM AL)/2018
+Acerca de análise de dados, julgue o próximo item.
+
+O gráfico a seguir mostra a distribuição de frequência de delitos ocorridos em determinado
+bairro nos seis primeiros meses de 2018.
+
+ Nesse caso, a média dos delitos ocorridos no semestre considerado foi superior à média dos
+ delitos ocorridos no segundo trimestre.
+
+
+                                   
+
+
+---
+
+---
+
+CEBRASPE (CESPE) - AUXILIAR EM ADMINISTRAÇÃO (IFF)/2018
+A tabela seguinte mostra a distribuição das idades dos 30 alunos da turma A do quinto ano
+de uma escola de ensino fundamental.
+
+                              idade (em anos)                      9 10 11 12 13 14
+                  quantidade de estudantes                         6 22      0   1   0   1
+
+A partir dessa tabela, julgue o item.
+
+Se, em outra turma B, as frequências das idades fossem respectivamente iguais ao dobro das
+frequências da turma A, então a média aritmética das idades da turma B seria igual ao dobro
+da média da turma A.
+
+                                        
+
+
+---
+
+CEBRASPE (CESPE) - AUDITOR FISCAL (SEFAZ DF)/2020
+A partir de uma amostra aleatória simples de tamanho n, sabe-se que a média aritmética de
+uma variável X foi igual a 3. Considerando que os valores possíveis para a variável X sejam -1
+e +4, julgue o item que se segue.
+
+Nessa amostra aleatória, a quantidade de observações iguais a +4 foi igual a 0,8 n.
+
+                                    
+
+
+---
+
+CEBRASPE (CESPE) - ASSISTENTE (FUB)/ADMINISTRAÇÃO/2016
+Em um almoxarifado há, em estoque, 100 caixas na forma de paralelepípedos retângulos. Na
+tabela a seguir são mostrados alguns valores da frequência absoluta, da frequência relativa e
+da porcentagem da variável volume interno da caixa, em litros (L).
+                                                      porcentage
+ volume da      frequência     frequência
+                                                              m
+   caixa (L)      absoluta        relativa
+                                                             (%)
+         10              10                  *                 *
+         20               *                  *                 *
+         45               *                0,2                 *
+         60               *                  *                40
+       Total            100                  1               100
+
+Considerando essas informações, julgue o seguinte item.
+A média aritmética dos volumes dessas caixas é igual a 40 L.
+
+
+                                   
+
+
+---
+
+                                                 porcentage
+volume da     frequência   frequência
+                                                         m
+  caixa (L)     absoluta      relativa
+                                                        (%)
+       10            10                 *                 *
+       20             *                 *                 *
+       45             *               0,2                 *
+       60             *                 *                40
+     Total          100                 1               100
+
+                              
+
+
+---
+
+CEBRASPE - AGENTE FEDERAL DE EXECUÇÃO PENAL/2015
+Em um almoxarifado há, em estoque, 100 caixas na forma de paralelepípedos retângulos. Na
+tabela a seguir são mostrados alguns valores da frequência absoluta, da frequência relativa e
+da porcentagem da variável volume interno da caixa, em litros (L).
+
+     idade (x)          percentual
+    18 < x < 25            30%
+    25 < x < 30            25%
+    30 < x < 35            20%
+    35 < x < 45            15%
+    45 < x < 60            10%
+       total              100%
+A maior parte da população prisional brasileira em 2010 era formada por pessoas com
+idades inferiores a 30 anos. Porém, a média da distribuição das idades dos presos no Brasil
+nesse ano foi superior a 30 anos.
+
+
+                                    
+
+
+---
+
+CEBRASPE (CESPE) - ANALISTA BANCÁRIO (BNB)/2018
+No item a seguir é apresentada uma situação hipotética, seguida de uma assertiva
+a ser julgada, a respeito de proporcionalidade, divisão proporcional, média e
+porcentagem.
+Em uma faculdade, para avaliar o aprendizado dos alunos em determinada
+disciplina, o professor aplica as provas A, B e C e a nota final do aluno é a média
+ponderada das notas obtidas em cada prova. Na prova A, o peso é 1; na prova B, o
+peso é 10% maior que o peso na prova A; na prova C, o peso é 20% maior que o
+peso na prova B.
+Nesse caso, se P A, P B e P C forem as notas obtidas por um aluno nas provas A, B
+e C, respectivamente, então a nota final desse aluno é expressa
+          ,      ,
+por
+           ,
+
+                                
+
+
+---
+
+CEBRASPE - SOLDADO POLICIAL MILITAR (PM AL)/2017
+Em um tanque A, há uma mistura homogênea de 240 L de gasolina e 60 L de álcool; em
+outro tanque B, 150 L de gasolina estão misturados homogeneamente com 50 L de álcool.
+
+A respeito dessas misturas, julgue o item subsequente.
+
+Considere que em um tanque C, inicialmente vazio, tenham sido despejadas certas
+quantidades das misturas dos tanques A e B totalizando 100 L. Considere também que,
+depois de homogeneizada essa mistura no tanque C, a separação de álcool e gasolina por um
+processo químico tenha mostrado que nesses 100 L, 22 L eram de álcool. Nessa situação,
+para formar essa mistura no tanque C foram usados mais de 55 L da mistura do tanque A.
+
+                                   
+
+
+---

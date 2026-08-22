@@ -1,0 +1,1331 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 10_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Passo Estratégico de Língua Inglesa
+---
+
+# Passo Estratégico de Língua Inglesa
+
+Aula 09
+                          Receita Federal (Analista Tributário)
+                         Passo Estratégico de Língua Inglesa
+
+                                                        Autor:
+                                               Rodrigo Perni
+
+                                             24 de Maio de 2023
+
+---
+
+      Rodrigo Perni
+      Aula 09
+
+                                                                                     Índice
+1) Caderno de Exercícios III
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                                                                                 2
+                www.estrategiaconcursos.com.br                                                                                                                                           40
+
+                                                             
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                                     INGLÊS
+Apresentação                                                                        2
+
+O que é o Passo Estratégico?                                                        3
+
+Análise Estatística                                                                 4
+
+Dicas do Coach                                                                      4
+
+Caderno de Exercícios                                                               5
+
+Gabarito                                                                            36
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   3
+        www.estrategiaconcursos.com.br                                              40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                             APRESENTAÇÃO
+Olá!
+Sou o professor Rodrigo Perni e, com imensa satisfação, serei o seu analista do Passo Estratégico!
+Para que você conheça um pouco sobre mim segue um resumo de nossa experiência profissional,
+acadêmica e como concurseiros:
+
+                                               Rodrigo Perni
+       *Auditor – Fiscal da Receita Federal do Brasil;
+
+       * Coach do Estratégia Concursos;
+
+       * Responsável pela elaboração e análise estatística do Passo Estratégico de
+       Arquivologia, Recursos de Administração de Materiais, Conhecimento Específico e
+       Inglês;
+
+       * Formado em Administração de Empresas e
+
+       * Aprovado no concurso do ano de 2005, na 21ª posição na 2ª Região Fiscal no
+       concurso para Auditor-Fiscal da Receita Federal do Brasil.
+
+Estou extremamente feliz de ter a oportunidade de trabalhar na equipe do “Passo”, porque
+tenho convicção de que nossos relatórios e simulados proporcionarão uma preparação
+diferenciada aos nossos alunos!
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa              4
+         www.estrategiaconcursos.com.br                                                         40
+
+                                      
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                           O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+a) orientar revisões eficientes;
+b) destacar os pontos mais importantes e prováveis de serem cobrados em prova.
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+Assim, se você vai utilizar o Passo Estratégico:
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras
+indicadas no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em
+nossos relatórios;
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em
+razão do seu nível de conhecimento do assunto.
+
+
+                        Seu cantinho de estudos famoso!
+                       Poste uma foto do seu cantinho de estudos nos stories do
+                                       Instagram e nos marque:
+
+                                           @passoestrategico
+                       Vamos repostar sua foto no nosso perfil para que ele fique
+                               famoso entre milhares de concurseiros!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa          5
+        www.estrategiaconcursos.com.br                                                     40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                       ANÁLISE ESTATÍSTICA
+Inicialmente, convém destacar os percentuais de incidência das questões de Inglês nas provas
+elaboradas pelas bancas CEBRASPE, FCC, FGV e VUNESP nos últimos anos.
+Lembrando, quanto maior o percentual de cobrança de um dado assunto, maior sua importância:
+
+                                   Assunto                                            Grau de incidência em
+                                                                                    concursos anteriores para a
+                                                                                            Área Fiscal
+
+
+            Interpretação de Textos (compreensão)                                             9,71%
+
+
+                  Vocabulário e Tradução (inglês)                                              15%
+
+
+                          Gramática (inglês)                                                  6,45%
+
+
+                             Inglês Técnico                                                   4,09%
+
+                                          DICAS DO COACH
+       Prezados,
+
+       durante a resolução dos exercícios você precisa estar concentrado, pois qualquer desatenção fará
+com que deixe passar detalhes cobrados nas questões. Para evitar que isso ocorra, recomendamos que
+você adote as seguintes ações:
+
+       1 - Faça marcações dos principais pontos exigidos nos enunciados; e
+
+      2 - Caso entenda necessário faça anotações sintéticas daquilo que remete você àquilo que está
+sendo perguntado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 6
+        www.estrategiaconcursos.com.br                                                                            40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                   CADERNO DE EXERCÍCIOS
+(PREFEITURA MUNICIPAL DE DOIS CÓRREGOS (SP) - VUNESP - 2019)
+
+1 - TEXT
+
+Two Aug. 31 articles painted different pictures of whether the District of Columbia is a safe place
+to live. “D.C. rises to No. 7 in world’s safest cities index, up from 23rd two years ago” mentions
+the results of the latest report by the British organization Economist Intelligence Unit ranking 60
+cities using an index of 57 indicators, including digital security, access to quality health care and
+disaster preparedness.
+“One dead, six wounded following overnight and early-morning violence” told a different story. A
+16-year-old boy was found shot dead. In five other incidents, “no one suffered serious injuries,
+but all of the victims were taken to hospitals.” All involved gunshot. A man and a woman were hit
+by bullets fired from a passing car. Police found a man with gunshot wounds. A woman eating
+dinner at her dining room table heard several shots, then discovered a bullet had hit her shoulder.
+A man passing a small group of men was shot in the back. A woman was hurt in the ribs by a man
+trying to rob her.
+On the issue of whether the District is safe, the situation can look very different from an
+economist’s downtown suite than from a city street on a hot summer night.
+Karl Polzer, Falls Church.
+
+                                                                (www.thewashingtonpost.com. 04.09.2019. Adaptado)
+
+Assinale a alternativa em que o trecho encontra-se na voz ativa.
+
+A) A 16-year-old boy was found shot dead.
+B) All of the victims were taken to hospital.
+C) A man and a woman were hit by bullets fired from a passing car.
+D) A bullet had hurt the woman’s shoulder.
+E) A woman was hurt in the ribs by a man trying to rob her.
+
+
+(PREFEITURA MUNICIPAL DE DOIS CÓRREGOS (SP) - VUNESP - 2019)
+
+2 - TEXT
+
+                                              The Indonesian tribe that rejects technology
+
+The Baduy tribe from Banten in Indonesia practise seclusion and reject all modern technology to
+protect their ancient traditions. For centuries, their way of life hasn’t changed. Electricity is
+prohibited, along with modern modes of communication and formal education. Power lines stop
+at the border of their lands, but in recent years, the outside world has begun to creep in.
+The tribe has split in two – the more strict inner circle remain “pure”, while the outer circle have
+relaxed some rules. Some have started using mobile phones and solar-powered lanterns. Will
+adopting some aspects of modern technology help the Baduy survive the modern world, or will it
+make their ancient traditions disappear?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                              7
+        www.estrategiaconcursos.com.br                                                                        40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+
+                                                                       (Hassan Ghani. www.aljazeera.com. 20.02.2018)
+
+O tempo verbal present perfect simple está corretamente utilizado na alternativa:
+
+A) I have known him for years – we lived in neighboring streets and walked to school together.
+B) We have first met just a few years ago – but then became best friends forever!
+C) I have often complained about homework assigning before I became a teacher myself.
+D) My family have lived in the big city for years before we had to move to the country.
+E) I have finished the long battery of tests and could go home and at last.
+
+
+(PREFEITURA MUNICIPAL DE ITAPEVI (SP) - VUNESP - 2019)
+
+3 - Na oração “Your teacher told me that you’re having trouble…”, os verbos em negrito estão
+nos mesmos tempos verbais que os da alternativa:
+
+A) begged – be marked.
+B) said – will have worked.
+C) fell – is trying.
+D) plays – are working.
+E) is being called – takes.
+
+(UNIVERSIDADE ESTADUAL DE CAMPINAS (SP) - VUNESP - 2018 - 2019)
+
+4 - Leia o texto para responde à questão.
+
+A Free Press Needs You
+
+By The Editorial Board
+August 15, 2018
+
+In 1787, the year the Constitution was adopted in the USA, Thomas Jefferson famously wrote to a
+friend, “Were it left to me to decide whether we should have a government without newspapers,
+or newspapers without a government, I should not hesitate a moment to prefer the latter.”
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 8
+        www.estrategiaconcursos.com.br                                                                           40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+That’s how he felt before he became president, anyway. Twenty years later, after enduring the
+oversight of the press from inside the White House, he was less sure of its value. “Nothing can
+now be believed which is seen in a newspaper,” he wrote. “Truth itself becomes suspicious by
+being put into that polluted vehicle.”
+
+Jefferson’s discomfort was, and remains, understandable. Reporting the news in an open society
+is an enterprise laced with conflict. His discomfort also illustrates the need for the right of free
+press he helped to preserve. As the founders believed from their own experience, a well-informed
+public is best equipped to root out corruption and, over the long haul, promotes liberty and
+justice. “Public discussion is a political duty,” the Supreme Court said in 1964. That discussion
+must be “uninhibited, robust, and wide-open” and “may well include vehement, caustic and
+sometimes unpleasantly sharp attacks on government and public officials.”
+
+(www.nytimes.com/interactive/2018/08/15/opinion/editorials/free-press-local-journalism-news-donald-trump.html?action=click&m
+                                    odule=Trending&pgtype=Article&region=Footer&contentCollection=Trending. Adaptado.)
+
+
+No trecho do terceiro parágrafo – That discussion must be “uninhibited, robust, and wide-open”
+–, o termo em destaque pode ser substituído, sem alteração de sentido, por
+
+A) used to.
+B) can.
+C) going to.
+D) might.
+E) has to.
+
+(PREFEITURA MUNICIPAL DE CERQUILHO (SP) - VUNESP - 2019)
+
+5 - TEXT
+
+I have suggested that many, if not most teachers, could usefully adjust the values they emphasise.
+Here, three of them:
+
+1. From Short-Term to Long-Term Aims
+
+Learning a foreign language can be a valuable, long-term personal asset for the student. lt can be
+inhibited by over-emphasising short-term objectives — tests, pressure to speak before you are
+ready etc.
+
+2. From Knowledge to Skill
+
+Knowledge involves answers and explanations and is necessary, but not sufficient. What matters is
+not what you know, but what you can do. ‘Knowing’ a foreign language may be interesting; the
+ability to use it is life-enhancing.
+
+3. From Accuracy to Communication
+
+Successful communication always involves at least limited accuracy. Accuracy need not involve
+communication at all. Communication is a wider, more useful concept; successful language is
+more valuable than language which is only accurate.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                        9
+        www.estrategiaconcursos.com.br                                                                                   40
+
+                                      
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                                               (Michael Lewis. The lexical approach. 2002. Adaptado)
+
+In the sentence “What matters is not what you know, but what you can do”, the underlined verb
+indicates
+
+A) a certainty.
+B) a necessity.
+C) a suggestion.
+D) a permission.
+E) an ability.
+
+(SERVIÇO SOCIAL DA INDÚSTRIA DO ESTADO DE SÃO PAULO - CESPE (CEBRASPE) - 2008)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                10
+        www.estrategiaconcursos.com.br                                                                           40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+6 - “did” (Line 11) indicates
+
+A) an interrogative-negative form.
+B) a negative form.
+C) an interrogative form.
+D) an inversion after a negative adverb.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   11
+        www.estrategiaconcursos.com.br                                              40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(SERVIÇO SOCIAL DA INDÚSTRIA DO ESTADO DE SÃO PAULO - CESPE (CEBRASPE) - 2008)
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   12
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+7 - “She was invited to the home of an Australian friend” (R.2-3) is the same as
+
+A) an Australian friend had invited her.
+B) an Australian friend invited her.
+C) an Australian friend has invited her.
+D) an Australian friend was going to invite her.
+
+(CÂMARA DOS DEPUTADOS - FCC - 2007)
+
+8 - E-9.025 Patient Advocacy for Change in Law and Policy
+
+Physicians may participate in individual acts, grassroots activities, or legally permissible collective
+action to advocate for change, as provided for in the AMA’s Principles of Medical Ethics.
+Whenever engaging in advocacy efforts, physicians ____________ ensure that the health of
+patients is not jeopardized and that patient care is not compromised.
+
+Formal unionization of physicians, and including physicians-in-training, may tie physicians’
+obligations to the interests of workers who may not share physicians’ primary and overriding
+commitment to patients and the public health. Physicians should not form workplace alliances
+with those who do not share these ethical priorities.
+
+Strikes and other collective action may reduce access to care, eliminate or delay necessary care,
+and interfere with continuity of care. Each of these consequences raises ethical concerns.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                   13
+        www.estrategiaconcursos.com.br                                                              40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Physicians should refrain from the use of the strike as a bargaining tactic. In rare circumstances,
+individual or grassroots actions, such as brief limitations of personal availability, may be
+appropriate as a means of calling attention to needed changes in patient care. Physicians are
+cautioned that some actions may put them or their organizations at risk of violating antitrust laws.
+Consultation with legal counsel is advised.
+
+Physicians and physicians-in-training should press for needed reforms through the use of
+informational campaigns, non-disruptive public demonstrations, lobbying and publicity
+campaigns, and collective negotiation, or other options that do not jeopardize the health of
+patients or compromise patient care.
+
+                                   (Adapted from htpp://www.ama-assn.org/ama1/pub/upload/mm/38/a-05ceja.pdf)
+
+A palavra que preenche a lacuna corretamente é
+
+A) can.
+B) must.
+C) may.
+D) might.
+E) could.
+
+(PREFEITURA MUNICIPAL DE VITÓRIA (ES) - CESPE (CEBRASPE) - 2007)
+
+9 - Consider the following sentence.
+
+There is a new shopping mall in town.
+
+With respect to this sentence, judge the following item.
+
+There to be is the infinitive form of “There is”.
+
+C) Certo.
+E) Errado.
+
+
+(PREFEITURA MUNICIPAL DE VITÓRIA (ES) - CESPE (CEBRASPE) - 2007)
+
+10 - Regarding the use of phrasal verbs, judge the item below.
+
+To be fed up with something means to be annoyed, angry or bored.
+
+C) Certo.
+E) Errado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                        14
+        www.estrategiaconcursos.com.br                                                                   40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(PREFEITURA MUNICIPAL DE OSASCO (SP) - FGV - 2014)
+
+11 - Help prevent a coral catastrophe
+
+Fight the destructive harvesting and unregulated trade of one of the most attractive inhabitants of
+our tropical oceans.
+
+                                                                                    (http://wwf.panda.org/)
+Fight in “Fight the destructive harvesting” is in the
+
+A) future.
+B) gerund.
+C) imperative.
+D) simple past.
+E) simple present.
+
+(PREFEITURA MUNICIPAL DE JOÃO PESSOA (PB) - FGV - 2013)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                       15
+        www.estrategiaconcursos.com.br                                                                  40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+12 - In the fragment “where students have to act out roles” (lines 20 and 21), “have to” means
+
+A) should.
+B) must.
+C) may.
+D) will.
+E) can.
+
+
+(INSTITUTO ESTADUAL DO AMBIENTE DO RIO DE JANEIRO - FGV - 2013)
+
+Water Resources Management
+
+Water is essential for socio‐economic development and for maintaining healthy ecosystems.
+Properly managed water resources are a critical component of growth, poverty reduction and
+equity. The livelihoods of the poorest are
+
+5 critically associated with access to water services.
+
+With higher rates of urbanization, increasing demand for drinking water will put stress on existing
+water sources. Feeding a planet of 8 billion by 2030 will require producing more food with less
+water and through improved water
+
+10 efficiency in agriculture. Energy demand will more than double in poor and emerging
+economies in the next 25 years and hydropower will need to be a key contributor to clean energy
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                16
+        www.estrategiaconcursos.com.br                                                           40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+production. Floods and droughts will continue to threaten farmer livelihoods and lowland
+economies. Besides the needs
+
+15 for these human activities we have to ensure that the environmental water flows required to
+maintain ecosystems are also maintained.
+
+Water Resources Management aims at optimizing the available natural water flows, including
+surface water and
+20 groundwater, to satisfy these competing needs. Adding uncertainty, climate change will
+increase the complexity of managing water resources. In some parts of the world, there will be
+more available water but in other parts, including the developing world, there will be less.
+
+25 The mounting challenges posed by the changing demand for and supply of the resource
+highlight the importance of water in any development and growth agenda. The ability of
+developing countries to make more water available for domestic, agricultural, industrial and
+environmental uses will
+
+30 depend on better management of water resources and more cross‐sectoral planning and
+integration. With water security declining in many parts of the world, strengthening the resiliency
+of the poorest countries and populations to climate change impacts becomes crucial, not only to
+ensure future
+
+35 water supply but also to combat food and energy price volatility.
+
+                   (http://water.worldbank.org/topics/water‐resources‐management, retrieved on March 29th, 2013)
+
+13 - Highlight in “highlight the importance of water” (lines 26 and 27) has the same meaning of:
+
+A) bring in.
+B) bring out.
+C) bring down.
+D) bring under.
+E) bring about.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                            17
+        www.estrategiaconcursos.com.br                                                                       40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(INSTITUTO ESTADUAL DO AMBIENTE DO RIO DE JANEIRO - FGV - 2013)
+
+14 - The underlined word in “the available natural water flows” (lines 18 and 19) is a(n):
+
+A) preposition.
+B) adjective.
+C) adverb.
+D) noun.
+E)) verb.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa            18
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(INSTITUTO ESTADUAL DO AMBIENTE DO RIO DE JANEIRO - FGV - 2013)
+
+Executive Secretary Job Description
+
+Executive secretaries are not just a pleasant voice answering the phone, making coffee or typing
+memos. The main responsibility of an executive secretary is to provide administrative support to
+high‐level officials in an organization.
+
+5 Executive secretaries are responsible for handling highly
+
+confidential documents, protecting an organization's confidential information, communication
+and information management, managing office supplies, making travel arrangements, scheduling
+meetings and events and
+
+10 negotiating with vendors.
+
+The executive secretary should have great familiarity with office software and machines. She or he
+may even train new lower‐level secretaries. In some professions, like law and medicine, the
+executive secretary is expected to be familiar
+
+15 with the technical vocabulary of the industry.
+
+Changing Job Duties
+
+The evolution of technology makes individuals more productive, and tough economic factors
+force companies to downsize. As a result, executive secretaries today don't just do
+
+20 traditional staff support work. They also take on increasingly more responsibilities, which
+individuals in higher management positions previously were responsible. These tasks may include
+project research and management, PowerPoint presentations and report generation.
+
+                              (http://education‐portal.com/executive_secretary.html, retrieved on March 30th, 2013)
+
+15 - The modal auxiliary in the sentence “She or he may even train new lower‐level secretaries”
+(lines 12 and 13) indicates a(n):
+
+A) prohibition.
+B) possibility.
+C) suggestion.
+D) obligation.
+E) necessity.
+
+(POLÍCIA CIVIL DO ESTADO DO RIO DE JANEIRO - FGV - 2011)
+
+The Lifting Force of the Rotor
+
+Helicopters and other related rotary wing aircraft are widely varied in their concept and
+configuration. These notes relate primarily to the single rotor helicopter of the type that employs
+a compensating tail rotor.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               19
+        www.estrategiaconcursos.com.br                                                                          40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Although the aerodynamics of the helicopter are based on the same laws that govern the flight of
+a fixed wing aeroplane, the significance of some considerations is somewhat changed.
+
+Both rely on lift produced from air flowing around an aerofoil, but whereas the aeroplane must
+move bodily through the air, the helicopter’s “wings” move independently of the fuselage and
+can produce lift with the aircraft remaining stationary.
+
+                     (http://www.amazon.com/Helicopter-Pilots-Manual-Vol-1/dp/185310759X#reader_185310759X)
+
+16 - must in “must move bodily” indicates:
+
+A) necessity.
+B) condition.
+C) probability.
+D) advice.
+E) permission.
+
+(SENADO FEDERAL - FGV - 2008)
+
+17 - The verb form in “Many sociology majors are able to…” (line 13) can be replaced by
+
+A) must
+B) should
+C) will
+D) could
+E) can
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                       20
+        www.estrategiaconcursos.com.br                                                                  40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(SECRETARIA DE ESTADO DA FAZENDA DE MATO GROSSO DO SUL - FGV - 2006)
+
+                                                                          (International Herald Tribune, April 8-9, 2006)
+
+18 - In the text, all the following constructions are passive, except
+
+A) are constructed (lines 1-2).
+B) has been created (line 2).
+C) are using (line 9).
+D) will be added (line 12).
+E) to be used (line 13).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                     21
+        www.estrategiaconcursos.com.br                                                                                40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(PREFEITURA MUNICIPAL DE OSASCO (SP) - FGV - 2014)
+
+19 - The modal verb in “Teachers of English could not only work together with teachers of music”
+(lines 23 and 24) implies
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa            22
+        www.estrategiaconcursos.com.br                                                       40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+A) necessity.
+B) obligation.
+C) possibility.
+D) permission.
+E) impossibility.
+
+
+(SECRETÁRIO DE EDUCAÇÃO DO ESTADO DE PERNAMBUCO - FGV - 2015)
+
+20 - At a buffet service where all food is arranged on tables and waiters do not take orders, the
+most polite and adequate instruction a waiter should give to customers is:
+
+A) “Please feed yourselves”.
+B) “You may help yourselves”.
+C) “Make sure you eat all you can”.
+D) “Our service is the best in town”.
+E) “I apologize for not taking your order”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa             23
+        www.estrategiaconcursos.com.br                                                        40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(BANCO DO BRASIL - CESGRANRIO - 2021)
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   24
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                                                          Available at <https://www.usbank.com/fi
+                                                                          nancialiq/manage-your-household/personal-i
+                                                                          nance/covid-economy-expert-insights.
+                                                                          tml>. Retrieved on: Jul. 20, 2021. Adapted.
+
+21 - In the 3ʳᵈ paragraph, in the fragment “These everyday purchases put money back into the
+economy and prevent it from dipping further into a recession”, the pronoun it refers to
+
+A) money
+B) purchases
+C) recession
+D) economy
+E) back
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                 25
+        www.estrategiaconcursos.com.br                                                                            40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(BANCO DO BRASIL - CESGRANRIO - 2021)
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   26
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+                                                                          Available at <https://www.usbank.com/fi
+                                                                          ancialiq/manage-your-household/personal-
+                                                                          nance/covid-economy-expert-insights.
+                                                                          html>. Retrieved on: Jul. 20, 2021. Adapted.
+
+22 - In the 1ˢᵗ paragraph, the word uncertain, in the fragment “in this uncertain time” is formed
+with the prefix un-. A pair of words formed with prefixes that convey the same meaning is:
+
+A) doubtful / joblessness
+B) unique / only
+C) impossible / discourage
+D) certainty / envision
+E) inside / intimate
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                                  27
+        www.estrategiaconcursos.com.br                                                                             40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(BANCO DO BRASIL - CESGRANRIO - 2018)
+
+                                                       ==219a34==
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   28
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Available at: <http://careers.stateuniversity.com/pages/151/Bank-Clerk.html>. Retrieved on: Aug. 22, 2017. Adapted.
+
+23 - In “In addition to these specialists, banks need general clerical help” (lines 25-27), the phrase
+these specialists refers to
+
+A) “messengers” (line 28)
+B) “mail handlers” (lines 27-28)
+C) “proof operators” (line 23) and “bookkeeping clerks” (lines 24-25)
+D) “data entry keyers” (line 27)
+E) “file clerks” (line 27)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               29
+        www.estrategiaconcursos.com.br                                                                          40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(BANCO DO BRASIL - CESGRANRIO - 2018)
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   30
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Available at: <http://careers.stateuniversity.com/pages/151/Bank-Clerk.html>. Retrieved on: Aug. 22, 2017. Adapted.
+
+24 - In the sentence of the text “Generally, loan clerks are on the high end of this range,whereas
+general office clerks are on the lower end” (lines 78-80), the word whereas
+
+A) expresses a contrast.
+B) highlights a problem.
+C) imposes a condition.
+D) introduces an example.
+E) points out a solution.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                               31
+        www.estrategiaconcursos.com.br                                                                          40
+
+                                     
+
+
+---
+
+ Rodrigo Perni
+ Aula 09
+
+(PETROBRÁS TRANSPORTES - CESGRANRIO - 2017)
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   32
+       www.estrategiaconcursos.com.br                                              40
+
+                                    
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+25 - In the fragment “...which are used to handle cargo on container ships” (line 14), which refers
+to
+
+A) containers (line 10)
+B) officers (line 13)
+C) tools (line 14)
+D) ships (line 15)
+E) points (line 16)
+
+(PREFEITURA MUNICIPAL DE SÃO LUÍS (MA) - FCC - 2018)
+
+26 - Considere o texto abaixo.
+
+"[AuditFile] is a great auditing tool and I love how I can log in while I'm at the client’s office
+instead of worrying about checking out
+files like I did with the previous software I used."
+− Reviewer A
+
+"AuditFile rocks! I have the opportunity to look at a lot of accounting tools. The sign-up process
+for AuditFile is one of the easiest I
+have seen... it only takes a few minutes to be up and running!"
+− Reviewer B
+
+"AuditFile.com has been the best project management system we have used, allowing us to
+easily manage over 20 projects.
+Their integration of file management and progress reporting has made our practice more
+efficient. Additionally, the ability to track
+our target projects with their CRM tool has allowed us to close more deals. Kevin and his team
+add tremendous value to our
+small practice."
+− Reviewer C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa               33
+        www.estrategiaconcursos.com.br                                                          40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+"AuditFile.com has been amazing for our firm. It’s not just a change in platform, but a change in
+the way we view our audit
+practice. We now have the reach and resources of firms several times our size. As a small firm who
+has had parts of their
+accounting practice in the cloud for years it’s been a goal of ours to move our audit practice to
+the cloud for quite some time."
+− Reviewer D
+
+"AuditFile is a cloud-based audit solution that lets firms track and manage every aspect of the
+audit, review or compilation
+process. It's also working on integrating with major online accounting software solutions, so it's
+more than doing its part to bring
+audit into the same cloud-based, integrated, automated world that tax and accounting have been
+in for more than a decade."
+− Reviewer E
+
+(Adapted from: https://auditfile.com/)
+
+Afirma-se com propriedade sobre o texto:
+
+A) De acordo com o comentário de E, o AuditFile é o único sistema de auditoria que já permite
+integração com algumas ferramentas de contabilidade.
+B) Segundo o comentário de D, com o AuditFile, sua empresa poderá finalmente transferir seus
+processos de contabilidade e
+auditoria para a nuvem.
+C) Infere-se do comentário de B que se trata de proprietário de empresa de pequeno porte.
+D) O comentário de A é o único que apresenta preocupação com a segurança dos arquivos de
+seus clientes.
+E) O comentário de C salienta que a ferramenta CRM do AuditFile permitiu à sua empresa
+ampliar sua carteira de clientes.
+
+(PREFEITURA MUNICIPAL DE TERESINA (PI) - FCC - 2018)
+
+27 - “If you have an employee who constantly tries to get out of doing his work you may have to
+think about firing him”
+
+Com relação a frase acima, é correto afirmar:
+
+A) Se você contratou um funcionário que frequentemente mente sobre suas tarefas, deveria
+pensar em demiti-lo
+B) Se você tem um funcionário que frequentemente tenta sair mais cedo do trabalho, deveria
+pensar em demiti-lo
+C) Se você possui um funcionário que constantemente não cumpre com as suas obrigações,
+deveria pensar em adverti-lo.
+D) Se você tem um funcionário que constantemente tenta safar-se do seu trabalho, deveria
+pensar em demiti-lo
+E) Se você contratou um funcionário que diariamente tenta sair mais cedo do trabalho, deveria
+pensar em adverti-lo
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa              34
+        www.estrategiaconcursos.com.br                                                         40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+28 - Family-Based Immigrant Visas
+
+Two groups of family based immigrant visa categories, including immediate relatives and family
+preference categories, are provided under the provisions of United States immigration law,
+specifically the Immigration and Nationality Act (INA). As the first step, a sponsoring relative must
+file a Petition for Alien Relative, Form I-130 with the Department of Homeland Security, U.S.
+Citizenship and Immigration Services (USCIS).
+
+Immediate Relative Immigrant Visas (Unlimited): These visa types are based on a close family
+relationship with a United States (U.S.) citizen described as an Immediate Relative (IR). The
+number of immigrants in these categories is not limited each fiscal year. Immediate relative visa
+types include:
+
+      − IR-1: Spouse of a U.S. Citizen Note: A spouse is a legally wedded husband or wife. Merely
+living together does not qualify a marriage for immigration.
+
+    − IR-2: Unmarried Child Under 21 Years of Age of a U.S. Citizen
+
+    − IR-3: Orphan adopted abroad by a U.S. Citizen
+
+    − IR-4: Orphan to be adopted in the U.S. by a U.S. citizen
+
+    − IR-5: Parent of a U.S. Citizen who is at least 21 years old
+
+Family Preference Immigrant Visas (Limited): These visa types are for specific, more distant, family
+relationships with a U.S. citizen and some specified relationships with a Lawful Permanent
+Resident (LPR). There are fiscal year numerical limitations on family preference immigrants, shown
+at the end of each category. The family preference categories are:
+
+      − Family First Preference (F1): Unmarried sons and daughters of U.S. citizens, and their minor
+children, if any. (23,400)
+
+     − Family Second Preference (F2): Spouses, minor children, and unmarried sons and daughters
+(age 21 and over) of LPRs. At least seventy-seven percent of all visas available for this category
+will go to the spouses and children; the remainder is allocated to unmarried sons and daughters.
+(114,200)
+
+    − Family Third Preference (F3): Married sons and daughters of U.S. citizens, and their spouses
+and minor children. (23,400)
+
+    − Family Fourth Preference (F4): Brothers and sisters of U.S. citizens, and their spouses and
+minor children, provided the U.S. citizens are at least 21 years of age. (65,000)
+
+Note: Grandparents, aunts, uncles, in-laws, and cousins cannot sponsor a relative for immigration.
+
+Numerical Limitations for Limited Family-Based Preference Categories
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 35
+        www.estrategiaconcursos.com.br                                                            40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Whenever the number of qualified applicants for a category exceeds the available immigrant
+visas, there will be an immigration wait. In this situation, the available immigrant visas will be
+issued in the chronological order in which the petitions were filed using their priority date.
+
+(Adapted                                                                                    from:
+https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/family-based-im
+migrant-visas.html#1)
+
+De acordo com o texto,
+
+A) filhos de pais solteiros, mesmo que esses sejam filhos de cidadãos americanos, não
+preenchem os requisitos para obter o visto F1.
+B) cerca de 3/4 dos vistos da categoria F2 são destinados a cônjuges e filhos menores e maiores
+de Residentes Legais Permanentes
+C) sogros de cidadãos americanos não podem patrocinar a imigração de parentes
+D) vistos não concedidos por excederem o número disponível naquele ano fiscal devem ser
+solicitados novamente.
+E) há um claro esforço para que os limites dos vistos de imigração baseados em parentesco
+sejam revistos.
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF)- FCC - 2018)
+
+29 - Leia o texto a seguir.
+
+Microphone Though many video cameras have microphones built in, you’ll get better quality
+audio with a lavalier or headset microphone, because the mic itself can be much closer to the
+source of the audio.
+
+ Our ears and brain can filter out ambient noise so we can listen to what’s important, but
+microphones cannot, and a mic placed several feet away from the subject will pick up a lot of
+extra noise (heating/air conditioning systems, automotive traffic, people walking in a hallway, etc.)
+that will be noticeable and probably distracting in the final recording.
+
+ If possible, record a minute or several minutes of the subject speaking normally as they will
+during the interview and listen to the recording to see how much extra noise is audible; the less,
+the better.
+
+ Tip: get the mic as close to the subject as you reasonably can without it being visually distracting.
+ (How to Record High-Quality Audio and Video, Andrew Minion, 3 Apr 2014. Disponível em:
+https://computers.tutsplus.com/tutorials/ how-to-record-high-quality-audio-and-video-cms-19668)
+
+De acordo com o texto,
+
+A) deve-se utilizar um filtro para a retirada do ruído ambiente.
+B) um áudio de melhor qualidade será obtido com microfones embutidos das câmeras de vídeo
+do que um microfone de lapela ou headset.
+C) não se deve colocar o microfone muito próximo de quem for falar, pois isso causa distração
+visual.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                  36
+        www.estrategiaconcursos.com.br                                                             40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+D) gravar um pequeno tempo falando-se normalmente como se fosse a entrevista, para depois
+ouvir essa gravação, permite avaliar quanto ruído audível se encontra presente
+E) ruído ambiente captado pelos microfones não são tão importantes, pois nossos ouvidos e
+cérebro podem filtrá-los.
+
+(CÂMARA LEGISLATIVA DO DISTRITO FEDERAL (DF) - FCC - 2018)
+
+30 - Leia o texto a seguir.
+
+Video Camera Ensure you have a good-quality video camera. Generally, a higher-cost camera
+probably will be better quality, because a large part of the cost goes towards the lens and
+sensors. As far as resolution goes, there is no real reason not to record in HD at least in 720p (720
+pixels tall) or maybe even 1080p (1,080 pixels tall).
+
+Tip: the p stands for progressive, which means that each horizontal row of the picture is recorded
+and played in succession (1, 2, 3, 4, etc.), as opposed to i, or interlaced, where every other
+horizontal row is recorded and played in an alternating pattern (1, 3, 2, 4, etc.).
+
+You’ll also want to take care of all the creative details, including ensuring that there is enough
+light to get a good image. Too little light results in a dark or grainy video.
+
+Tip: Ensure the camera is in focus before starting the recording.
+
+(How to Record High-Quality Audio and Video, Andrew Minion, 3 Apr 2014. Disponível em:
+https://computers.tutsplus.com/tutorials/ how-to-record-high-quality-audio-and-video-cms-19668)
+
+De acordo com o texto,
+
+A) geralmente, mesmo as câmeras de alto custo, não permitem gravação no padrão hd.
+B) a letra p após o número de pixels indica que cada linha horizontal da imagem é gravada e
+reproduzida em sequência do tipo 1, 3, 2, 4, ...).
+C) uma gravação que resulte em um vídeo granulado é devido a pouca presença de luz.
+D) a letra i após o número de pixels indica que se trata do padrão interlaçado, que é o oposto do
+padrão p, ou seja, cada linha horizontal da imagem é gravada e reproduzida em sequência do
+tipo 1, 2, 3, 4, ...).
+E) deve-se desfocar a câmera antes de iniciar a gravação, focando-a gradativamente para
+produzir um efeito na abertura.
+
+                                    “Ganhar não é tudo, mas querer ganhar é.”
+
+                                                   Vince Lombardi
+
+                                                  Rodrigo Perni
+
+                           Instagram: www.instagram.com/coachrodrigoperni
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa                 37
+        www.estrategiaconcursos.com.br                                                            40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+Gabarito
+
+1 - Letra D
+
+2 - Letra A
+
+3 - Letra C
+
+4 - Letra E
+
+5 - Letra E
+
+6 - Letra D
+
+7 - Letra B
+
+8 - Letra B
+
+9 - Certo
+
+10 - Certo
+
+11 - Letra C
+
+12 - Letra B
+
+13 - Letra B
+
+14 - Letra D
+
+15 - Letra B
+
+16 - Letra A
+
+17 - Letra E
+
+18 - Letra C
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   38
+        www.estrategiaconcursos.com.br                                              40
+
+                                     
+
+
+---
+
+  Rodrigo Perni
+  Aula 09
+
+19 - Letra C
+
+20 - Letra B
+
+21 - Letra D
+
+22 - Letra C
+
+23 - Letra C
+
+24 - Letra A
+
+25 - Letra C
+
+26 - Letra E
+
+27 - Letra D
+
+28 - Letra C
+
+29 - Letra D
+
+30 - Letra C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Língua Inglesa   39
+        www.estrategiaconcursos.com.br                                              40
+
+                                     
+
+
+---
+
+---

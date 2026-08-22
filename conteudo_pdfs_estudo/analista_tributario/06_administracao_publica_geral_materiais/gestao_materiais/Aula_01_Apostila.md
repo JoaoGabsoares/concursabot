@@ -1,0 +1,8762 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Administração de Compras e Materiais
+---
+
+# Administração de Compras e Materiais
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                     Administração de Compras e Materiais
+
+                                                        Autor:
+                                        Ricardo Campanario
+
+                                          15 de Outubro de 2024
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+                                                                                     Índice
+1) Administração de Materiais - AULA COMPLETA
+
+                Receita Federal (Analista Tributário) Administração de Compras e Materiais                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                          165
+
+                                                             
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+                                APRESENTAÇÃO PESSOAL
+Antes de qualquer coisa, peço licença para me apresentar!
+
+Meu nome é Ricardo Campanario, tenho graduações em Administração de Empresas, com ênfase
+em Mercadologia pela FAAP-SP e em Comunicação Social com habilitação em Publicidade e
+Propaganda na ESPM-SP, além de MBA por Darden Graduate School of Business, na Virginia
+(USA), onde me especializei em Estratégia e Marketing.
+
+Trabalhei por cerca de 15 anos na iniciativa privada, em cargos executivos de indústrias
+multinacionais e de consultorias como Johnson & Johnson, Monsanto e Nielsen, sempre
+responsável pela gestão e desenvolvimento de marcas e de produtos.
+
+Nessa época tive a oportunidade de acompanhar de perto todo o processo de fabricação,
+comercialização e distribuição de centenas de marcas e produtos diferentes por todo o Brasil e
+países da América Latina.
+
+A partir de 2013 migrei para a área pública e hoje sou Auditor Fiscal da Secretaria da Fazenda do
+Estado de São Paulo, onde ocupo a posição de Supervisor Fiscal e lidero uma equipe de 8 fazendários
+na Diretoria de Gestão e Atendimento da Secretaria, em sua sede em São Paulo.
+
+Somos responsáveis por atuar no mapeamento e otimização dos mais variados processos,
+relacionados a todas as atividades ﬁm da Fazenda: ﬁscalização, atendimento, cobrança e inteligência de
+dados, assim como pelo processo de Inovação da SEFAZ-SP.
+
+É isso! Vamos em frente!
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                  3
+        www.estrategiaconcursos.com.br                                                             165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+            INTRODUÇÃO À ADMINISTRAÇÃO DE MATERIAIS
+
+Administração de Recursos
+A gestão de recursos dentro de uma organização é uma das mais importantes, senão a
+
+principal, função dos gestores.
+
+Conseguir alocar os recursos corretos, nos locais corretos e na hora correta é a meta principal de
+quem tem responsabilidade pela gestão de processos, sejam eles na área industrial ou de serviços
+e na iniciativa pública ou privada.
+
+E, note, não estamos falando apenas dos recursos materiais e patrimoniais, que iremos estudar ao
+longo desse curso. Estou me referindo a qualquer tipo de recurso.
+
+Alocar o funcionário correto, que tem determinadas competências e interesses, em um trabalho
+no qual ele desempenhará no máximo de sua capacidade e estará motivado, por exemplo, é um
+desaﬁo à gestão de recursos humanos.
+
+Nessa direção teríamos dezenas de exemplos a respeito da alocação correta de recursos dentro de uma
+instituição. Resumindo a história, podemos dizer que, conseguindo otimizar essa alocação, o gestor
+atingirá os dois maiores objetivos de qualquer empresa que visa o lucro: maximizar suas receitas e
+diminuir os seus custos.
+
+Aí você pode perguntar: Ah, mas então essa abordagem não se aplica ao mundo público? Não é
+verdade. Não é porque órgãos públicos da administração direta e indireta não tenham o lucro
+como principal objetivo que, por exemplo, possam se dar ao luxo de desperdiçar recursos ou
+eventuais oportunidades de mercado.
+
+É importante que o gestor público tenha a ciência e atue também na direção de poupar os recursos
+públicos, evitando desperdícios e maximizando as oportunidades de prestação de serviços à
+população, seja por meio de processos mais ágeis, mais baratos, com altos níveis de qualidade e
+que não empreguem recursos acima do necessário, além de maximizar os seus aproveitamentos.
+
+Tudo isso tem um nome: eﬁciência.
+
+E é basicamente isso que tanto a administração de materiais como a administração de patrimônio
+buscam o tempo todo, ou seja, maximizar o uso de recursos em atividades meio da organização,
+permitindo que todo o processo seja cada vez mais eﬁciente e gere lucros e satisfação aos seus
+clientes com o menor custo possível, sejam esses clientes consumidores, cidadãos, contribuintes,
+etc.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               4
+        www.estrategiaconcursos.com.br                                                          165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Antes de avançarmos, muita atenção com esse ponto pois ele confunde muita gente. O objetivo
+é maximizar o USO daqueles recursos que devem ser empregados no processo, ou seja, utilizá-los
+ao máximo, sem sobras, desperdícios ou ineﬁciências. Isso não signiﬁca que se deva aumentar o
+volume de recursos empregados - como estoques, por exemplo - que devem manter-se em níveis
+suﬁcientes para atender a demanda.
+
+        Assim, o gestor de materiais deve encontrar o nível necessário de recursos que
+        deve ser empregado na atividade e, dentro desse cenário, maximizar a sua
+        utilização, ok?
+
+Fatores de produção e principais recursos
+O universo dos recursos administráveis é bastante amplo.
+
+Chamamos de recurso tudo aquilo que gera ou tem capacidade de gerar riqueza, no sentido econômico
+do termo. São também conhecidos por fatores de produção.
+
+Nesse curso abordaremos os recursos materiais e patrimoniais, mas veja abaixo que há uma gama
+de recursos com a qual o administrador deve estar apto a lidar:
+
+Essa é a primeira coisa que você precisa saber e levar para a prova.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             5
+        www.estrategiaconcursos.com.br                                                        165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Os recursos humanos são as pessoas, suas competências, habilidades e atitudes. É o capital
+intelectual e humano da organização. Alocar pessoas nos lugares em que possam gerar os
+melhores resultados para a organização e para o próprio indivíduo é tarefa das mais complexas,
+seja no mundo público ou privado.
+
+Os recursos ﬁnanceiros dizem respeito ao capital, a disponibilidade ﬁnanceira da organização. É
+o recurso mais facilmente reconhecido, por sua característica de liquidez. Pode e deve ser utilizado
+na aquisição de outros recursos que de forma direta ou indireta colaborem na cadeia produtiva da
+organização.
+
+Os recursos tecnológicos são compostos pelo corpo de conhecimentos com o qual a organização
+conta para a produção de seus produtos ou serviços (patentes, tecnologias, máquinas,
+equipamentos, etc.). Atualmente, instituições que se encontram defasadas em relação aos seus
+recursos tecnológicos perdem sua competitividade de maneira muito rápida e signiﬁcativa.
+
+Por ﬁm, temos os recursos materiais e patrimoniais, que dizem respeito a disciplina de
+Administração de Materiais e Patrimônio.
+
+         Os recursos materiais podem ser deﬁnidos como os elementos físicos que
+        servem para a construção do produto ﬁnal e funcionamento da organização,
+        sempre caracterizados por não serem permanentes.
+
+Esses recursos são transformados ou consumidos, tornando-se produtos acabados ao ﬁnal da
+cadeia de produção. Isso diferencia claramente o que é material do que é patrimônio.
+
+        Já os recursos patrimoniais são deﬁnidos como o conjunto de bens, valores,
+        direitos e obrigações que possuam valor monetário quantiﬁcável e possam ser
+        utilizados para gerar riqueza. Nesse contexto, o foco da atividade de
+        administração patrimonial recai sobre os bens patrimoniais de caráter
+        permanente (ao contrário dos materiais) que incluem instalações, veículos, móveis,
+        equipamentos, etc.
+Saindo um pouco da questão dos recursos, mas ainda dentro desse cenário temos os bens
+
+e o patrimônio, outra forma de endereçar esse mesmo tema.
+
+Bens também têm a capacidade de produzir produtos ou serviços e, por isso, são muitas vezes
+considerados como sinônimos de recursos. Como exemplo, observe um automóvel. É tipicamente
+um bem móvel, porém, como pode ser usado na prestação de serviços, acaba sendo visto também
+como recurso.
+
+Já o patrimônio, segundo Martins e Alt é o
+
+"Conjunto de bens, valores, direitos e obrigações de uma pessoa física ou jurídica que possa ser
+avaliado monetariamente e que seja utilizado na realização de seus objetivos sociais".
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                6
+        www.estrategiaconcursos.com.br                                                           165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+(Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que diferencia
+um recurso material de um recurso patrimonial?
+
+·O recurso patrimonial é de natureza permanente.
+·O recurso material é de natureza permanente.
+
+·O recurso patrimonial é um material de consumo.
+·O recurso material é um equipamento de produção.
+·O recurso patrimonial é bem de estoque.
+Comentário:
+
+Questão típica das bancas e que tenta confundir os candidatos em relação as semelhanças e
+diferenças dos recursos materiais e patrimoniais. Relembrando:
+
+-   Recursos Materiais podem ser deﬁnidos como os elementos físicos que servem para a
+construção do produto ﬁnal e funcionamento da organização, sempre caracterizados por não
+serem permanentes.
+
+- Recursos Patrimoniais são deﬁnidos como o conjunto de bens, valores, direitos e obrigações
+que possuam valor monetário quantiﬁcável e possam ser utilizados para gerar riqueza. Nesse
+contexto, o foco da atividade de administração patrimonial recai sobre os bens patrimoniais de
+caráter permanente (ao contrário dos materiais) que incluem instalações, veículos, móveis,
+equipamentos, etc.
+
+A alternativa A é a correta e é o gabarito da questão.
+
+(QUADRIX/CRP14-MS/Auxiliar Administrativo/2021) O maior objetivo de um gestor de recursos
+materiais é utilizar os recursos da melhor forma possível, sem gastos desnecessários, sem perdas,
+sem desperdícios e sem afetar negativamente a operação da instituição.
+
+a)     CERTO
+
+b)     ERRADO
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          7
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Comentário:
+
+Em Administração de Materiais (ou administração de recursos em geral), a busca pelo máximo
+aproveitamento dos recursos é constante. Toda vez que o examinador citar algo como "utilizar os
+recursos da melhor forma possível", "evitar gastos e perdas", etc, possivelmente está indo na
+direção correta!
+
+Aﬁrmação CORRETA.
+
+(FUNDEP/Pref.             Mun. Ibirité-MG/Técnico Material/2016) Eﬁciência é um princípio
+                          da administração de recursos, é mais que uma simples medida numérica de
+desempenho.
+
+Com relação à abordagem, a produtividade e o desempenho nas organizações, analise as
+aﬁrmativas a seguir e assinale com as V as verdadeiras e com F as falsas.
+
+( ) Eﬁciência signiﬁca realizar as tarefas de modo inteligente, com o mínimo de esforço e com o
+melhor aproveitamento possível de recursos.
+
+( ) O oposto da eﬁciência é o desperdício e é o que ocorre, por exemplo, quando se consomem
+recursos e nenhum objetivo é realizado.
+
+( ) A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os
+mesmos resultados anteriores, mas com o uso de menos recursos.
+
+( ) A eﬁciência no uso dos recursos e a satisfação dos funcionários relacionam-se com a
+qualidade dos produtos e serviços e são critérios de grande importância para a avaliação de
+desempenho.
+
+Assinale a sequência CORRETA.
+
+a)     FVFV
+
+b)     VVFV
+
+c)     FFVV
+
+d)     VVVF
+
+Comentário:
+
+Antes de buscar a alternativa correta, vamos avaliar cada uma das aﬁrmativas:
+
+Eﬁciência signiﬁca realizar as tarefas de modo inteligente, com o mínimo de esforço e com o
+melhor aproveitamento possível de recursos - Correto. É exatamente o que estudamos e está
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais               8
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+diretamente ligado à administração de materiais e de patrimônio. Alocar os recursos da melhor
+forma possível é o objetivo do gestor de materiais. Isso gera o melhor aproveitamento dos recursos
+e, por consequência, eleva a eﬁciência do processo. Temos então V-X-X-X.
+
+O oposto da eﬁciência é o desperdício e é o que ocorre, por exemplo, quando se consomem
+recursos e nenhum objetivo é realizado - Correto também. Um processo eﬁciente não possui
+desperdícios. Os recursos são aplicados no local correto, na quantidade correta e no momento
+correto. Desperdício e eﬁciência nunca caminham juntos.
+
+Veja essa deﬁnição de Idalberto Chiavenato sobre Administração de Materiais. Chiavenato é um
+dos principais autores sobre o tema:
+
+"A administração de materiais (AM) consiste em ter os materiais necessários na quantidade certa,
+no local certo e no tempo certo à disposição dos órgãos que compõem o processo produtivo da
+empresa. O volume de dinheiro investido em materiais faz com que as empresas procurem sempre
+o mínimo tempo de estocagem e o mínimo volume possível de materiais em processamento
+capazes de garantir a continuidade do processo produtivo".
+
+Temos agora: V-V-X-X
+
+A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os mesmos
+resultados anteriores, mas com o uso de menos recursos - Não está certo. Note que há uma
+contradição na frase. Diz o examinador que a produtividade cresce com o aumento de recursos
+aplicados e, mais adiante, usa a expressão "com o uso de menos recursos"...Estranho não? Na
+verdade a produtividade não está relacionada a aplicação de mais recursos, mas sim a utilização
+mais eﬁciente possível do volume de recursos necessário.
+
+Agora estamos com V-V-F-X
+
+A eﬁciência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade
+dos produtos e serviços e são critérios de grande importância para a avaliação de desempenho.
+Perfeito. Eﬁciência na utilização de recursos e satisfação do funcionário. Note que o examinador
+usa agora, além dos recursos materiais, a noção de recursos humanos. No ﬁnal do dia, gerenciar
+com eﬁciência todos os recursos da organização: humanos, ﬁnanceiros, tecnológicos, materiais e
+patrimoniais é o que leva a obtenção de um bom resultado.
+
+Ficamos portanto com V-V-F-V.
+
+A alternativa B é a correta e é o gabarito da questão.
+
+(IDCAP/CM Boa Esperança-MG/Técnico Administrativo/2019) “Trata-se de conceito, no qual
+incluem-se os recursos materiais e os recursos patrimoniais. Enquanto o primeiro são materiais
+que têm vida útil estipulada, como o caso de materiais físicos que são utilizados pela empresa, o
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              9
+        www.estrategiaconcursos.com.br                                                         165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+segundo são bens que são permanentes. Em ambos os casos, o objetivo dessa área é evitar o
+desperdício do material e maximizar o seu uso.”
+
+O trecho acima diz respeito à:
+
+a)     Arquivologia.
+
+b)     Protocolo.
+
+c)     Direito Administrativo.
+
+d)     Administração de materiais.
+
+e)     Distribuição.
+
+Comentário:
+
+Trago essa questão simples e recente apenas para enfatizar as deﬁnições utilizadas pela banca.
+Note que o enunciado traz três informações super importantes e que acabamos de estudar:
+
+1. "Trata-se de conceito, no qual incluem-se os recursos materiais e os recursos patrimoniais.
+Enquanto o primeiro são materiais que têm vida útil estipulada, como o caso de materiais físicos
+que são utilizados pela empresa" - aqui o examinador fala claramente do caráter não permanente
+dos recursos materiais. Como são usados pela empresa, perdem seu valor ao longo do tempo ou
+desaparecem, sendo transformados em produtos ﬁnais. Isso é importante. Não esqueça! Materiais
+tem caráter não permanente!
+
+2. "o segundo são bens que são permanentes" - veja que agora a banca está falando dos
+recursos patrimoniais e sua principal característica: são permanentes!
+
+3. Por último: "Em ambos os casos, o objetivo dessa área é evitar o desperdício do material e
+maximizar o seu uso" - essa é a função principal da gestão de recursos, nesse caso da gestão de
+materiais e patrimônio: evitar desperdício maximizando seu uso, alocando de forma correta, na
+quantidade correta e na hora exata. Tudo isso traz eﬁciência ao processo.
+
+Bem, considerando as alternativas, a alternativa D é a correta e é o gabarito da questão.
+
+Nas demais alternativas, Arquivologia, Protocolo e Direito Administrativo sequer tem qualquer
+relação com o tema.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            10
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Distribuição na letra E é apenas uma parte do ciclo produtivo e está contida dentro do processo
+de administração de materiais e de patrimônio. Não confunda!
+
+Objetivos e Atribuições de Administração de Materiais
+A administração dos recursos materiais é a atividade responsável pela gestão do ﬂuxo de
+materiais.
+
+Engloba todo ﬂuxo de uma cadeia produtiva, o chamado ciclo produtivo. Algumas fontes e mesmo
+algumas bancas chamam o processo de "gestão da cadeia de suprimentos", "cadeia de valor" ou
+mesmo, de forma genérica, de "logística". Fique atento!
+
+Para Dias (1993), a Administração de Materiais é
+
+    Um conjunto de atividades desenvolvidas dentro de uma empresa, de forma centralizada ou
+    não, destinadas a suprir as diversas unidades, com os materiais necessários ao desempenho
+    normal das respectivas atribuições.
+
+Considerando que há uma determinada demanda para o produto/serviço em questão, o ciclo se
+inicia na identiﬁcação ou mesmo no desenvolvimento do fornecedor, avança pela compra do bem,
+seu transporte e recebimento, armazenagem e movimentação interna, transformação em produto,
+nova armazenagem, agora do produto acabado e, por ﬁm, sua expedição para os distribuidores
+ou entrega ao cliente ﬁnal, o que inclui muitas vezes a distribuição e/ou transporte até o ponto de
+venda.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              11
+        www.estrategiaconcursos.com.br                                                          165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Vale lembrar que dentro desse ﬂuxo temos todo o ciclo produtivo completo da organização, que
+começa na compra do material e se estende até a expedição do produto acabado para o cliente
+ﬁnal.
+
+Outra importante visão desse processo o divide em 3 partes, ou fases do ﬂuxo de materiais:
+
+Na primeira, as matérias primas ﬂuem para uma empresa fabricante com base em um sistema de
+suprimento físico. Na sequência esses materiais são processados pela produção e, por ﬁm, os
+produtos acabados são distribuídos para os clientes ﬁnais por meio de um sistema de distribuição
+física.
+
+Note que esta abordagem simplesmente quebra em 3 grandes partes o ciclo produtivo que estudamos
+acima. São elas a compra dos materiais junto aos fornecedores, a sua transformação em produto
+acabado na indústria e a distribuição desses produtos aos clientes ﬁnais que podem ser os próprios
+consumidores ou intermediários (atacadistas, distribuidores ou varejistas) que farão parte da cadeia,
+até o produto acabado chegar ao cliente ﬁnal. Veja abaixo:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                12
+        www.estrategiaconcursos.com.br                                                            165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Para que todo esse ciclo funcione - lembre-se da deﬁnição de Idalberto Chiavenato que vimos em
+exercício anterior - os materiais devem ser adquiridos e disponibilizados no momento certo, na
+quantidade necessária e no local onde serão utilizados, tudo isso com o menor custo. Lembre-se
+que, neste processo, estamos sempre buscando a maior eﬁciência possível.
+
+Importante lembrar também que é muito comum, ao falarmos de gestão de materiais, nos referirmos ao
+setor secundário, ou seja, a indústria de transformação.
+
+Esse é sempre o exemplo clássico para ilustrar a discussão e, quase sempre, o que cai em prova.
+Porém, é importante você saber que a atividade de gestão de materiais acontece também nos
+setores primário (agricultura, extrativismo, etc.) e terciário (serviços) da economia.
+
+No setor primário, por exemplo, os materiais adquiridos visam possibilitar operações de extração
+de matéria primas diversas como barcos, equipamentos e combustíveis para o setor de pesca;
+sondas e torres para a extração de óleo e adubos e sementes para as atividades de colheitas
+agrícolas.
+
+Já no setor terciário os materiais entram na composição do serviço prestado (como os produtos
+hospitalares) ou podem servir de suporte para a prestação dos mais variados serviços (como o
+material de papelaria e escritório).
+
+Voltando ao ponto em que paramos, perceba que falaremos o tempo todo de gestão ao longo de
+todos esses processos. Vale aqui trazer a deﬁnição de João José Viana (2010) sobre administração
+de materiais. Segundo o autor a administração de materiais é:
+
+O planejamento, a coordenação, a direção e o controle de todas as atividades ligadas à aquisição de
+materiais para a formação de estoques, desde o momento de sua concepção até seu consumo ﬁnal.
+
+Note que estamos falando do famoso ciclo PDCA (em inglês: plan, do, check and act) ou, em
+português, planejar, desenvolver, controlar e agir. É o conceito clássico de gestão, aplicado aqui
+à administração de materiais.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               13
+        www.estrategiaconcursos.com.br                                                           165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+(QUADRIX/CRP14-MS/Assessor Técnico/2021) O objetivo da administração de materiais é
+garantir a qualidade e a quantidade adequada dos materiais no momento certo.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentário:
+
+A Administração de Materiais tem como grandes objetivos garantir a quantidade de material
+necessária na especiﬁcação (qualidade) correta, no momento preciso, no local desejado e, tudo
+isso, a um preço competitivo.
+
+Aﬁrmação CORRETA.
+
+(CEBRASPE/MPI-PI/Técnico/2012) A administração de materiais pode ser conceituada como um
+sistema integrado que garante o suprimento da organização, no tempo oportuno, na quantidade
+necessária, na qualidade requerida, pelo menor custo.
+
+a)     Certo
+
+b)     Errado
+
+Comentário:
+
+Vimos em primeiro lugar que o ciclo é absolutamente integrado, começando com a
+demanda/identiﬁcação dos fornecedores e percorrendo todo um ﬂuxo até que o produto ﬁnal seja
+entregue ao cliente que o adquiriu.
+
+Ao mesmo tempo, vimos que, na busca da eﬁciência, todo esse processo deve ser gerido com a
+maior atenção e rigor possível, evitando desperdícios e fornecendo sempre o que é necessário no
+local certo e no tempo exato.
+
+Veremos mais à frente como isso se aplica, por exemplo, ao sistema Just In Time (JIT), no qual os
+materiais são fornecidos apenas no momento em que começam a ser transformados para que
+virem produto ﬁnal, ou seja, a organização praticamente atua "sem estoques". Calma! Veremos
+isso na hora certa.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         14
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Aﬁrmação CORRETA. É exatamente o que acabamos de estudar.
+
+Objetivos da área de materiais
+Bem, levando em conta tudo que já vimos, ﬁca mais fácil entender quais são os principais objetivos da
+administração de materiais. É possível aﬁrmar que o objetivo maior de qualquer gestor de materiais
+é maximizar a utilização dos recursos materiais da organização. E como ele consegue fazer isso? Já
+vimos: utilizando os recursos sem qualquer desperdício, gastos desnecessários ou perdas.
+
+Além de maximizar a utilização dos recursos, outro objetivo da Administração de Materiais é
+fornecer o nível requerido de serviços ao consumidor, ou do cliente que será atendido pelos
+materiais demandados, geralmente interno.
+
+O nível de serviço é, em linhas gerais, uma métrica que aponta para o percentual de solicitações
+de materiais atendidas da melhor forma possível, ou seja, no volume correto, no local indicado e
+no momento preciso. Vale lembrar que tudo isso deve ser feito a um custo mínimo, considerando
+que a busca pela eﬁciência está sempre por trás de todas as ações em gestão de materiais.
+
+E, voltando a essas três variáveis, vamos entender um pouco mais a deﬁnição que Idalberto
+Chiavenato traz a respeito do conceito de Administração de Materiais que, em essência, é o
+grande objetivo da gestão de materiais:
+
+      Quantidade correta: quando se trabalha com estoques, na busca da eﬁciência a
+      organização não pode ter nem mais nem menos que o necessário. Estoque menor
+      que o necessário signiﬁca que a linha de produção ou outras atividades da
+      organização podem parar caso haja qualquer falha no suprimento de materiais a
+      qualquer momento.
+
+      Por outro lado, estoques além do necessário representam custos à organização pois
+      o capital investido na compra desses materiais ﬁca “parado” ao invés de ser aplicado
+      em atividades produtivas ou mesmo no mercado ﬁnanceiro, onde certamente seriam
+      remunerados.
+
+      Além disso, causam também aumento dos custos de armazenagem pois exigem
+      almoxarifados maiores, mais gente para tomar conta desse processo, valores de
+      seguros mais altos e assim por diante.
+
+      Local certo: bem, não adianta ter a quantidade exata de material, como falamos
+      acima, no local errado...O material necessário ao ciclo produtivo deve estar próximo
+      da área de produção ou da prestação de serviços.
+
+      Materiais distantes do local de seu emprego ou transformação geram altos custos de
+      transporte ao longo do processo, o que é exatamente o que o gestor de materiais
+      não quer...
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                15
+        www.estrategiaconcursos.com.br                                                            165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+      Tempo certo: Por ﬁm, também não adianta a organização ter exatamente a
+      quantidade ideal, no local perfeito porém, tudo entregue só amanhã e a produção
+      estava agendada para começar hoje.
+
+      Veja só. Essa situação geraria um dia de paralisação na produção. Imagine o prejuízo!
+      Essa integração com os fornecedores para que os materiais sejam entregues no
+      momento certo é fundamental para a minimização de custos ao longo de toda a
+      cadeia.
+
+Portanto podemos considerar como principais objetivos da gestão de materiais a maximização da
+utilização dos recursos, um alto nível de serviço por meio do atendimento das demandas de
+materiais no volume, local e momento adequados e, tudo isso, ao menor custo possível.
+
+É bom salientar aqui que, dentro dessa pequena lista, alguns autores enfatizam alguns dos
+objetivos enquanto outros preferem os demais. Dessa forma, ao se deparar com pergunta nesse
+tema é comum encontrar respostas que endereçam apenas parte dessa lista estudada.
+
+Além destes objetivos da administração de materiais, temos outros que também devemos
+explorar:
+
+Qualidade correta: mais uma vez, não adianta termos o material na quantidade, tempo e local
+corretos se a qualidade não é a combinada ou não atende os requisitos da produção ou do serviço
+que vai ser prestado.
+
+Imagine que o fornecedor, para atender os prazos combinados, envia um material que, ao passar
+pelo processo produtivo quebra, derrete, etc. Ele cumpriu os prazos e entregou o volume exato
+no local esperado porém, não tinha o material que era necessário e entregou um “similar”...
+
+Preço correto: não se pode pagar qualquer preço para ter tudo isso. O preço da matéria prima
+geralmente é um dos maiores custos do produto ﬁnal. O preço, além de respeitar o que foi
+contratado, deve ser competitivo em relação aos demais preços de mercado.
+
+Continuidade no fornecimento: é importante identiﬁcar ou até mesmo desenvolver fornecedores
+que possam prover materiais seguindo tudo o que estudamos aí acima, de maneira contínua.
+Buscar ou trocar de fornecedor é sempre desgastante e traz custos e desgastes a todo o processo.
+
+Dessa forma o fornecedor deve estar apto a fornecer não só um ou dois pedidos pontuais, mas
+abastecer a cadeia de produção com o mesmo nível de precisão e qualidade ao longo de meses
+ou anos, dependendo do que for contratado.
+
+Registros ﬁdedignos: registros contábeis e ﬁnanceiros corretos e identiﬁcáveis das negociações e
+transações entre fornecedor e comprador, permitindo as necessárias auditorias, distribuição de custos
+e demais acompanhamentos gerenciais.
+
+Minimização dos custos: uma das maiores preocupações da administração de materiais será
+sempre essa: diminuir custos, sejam eles na aquisição, na armazenagem, no transporte, na
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                16
+        www.estrategiaconcursos.com.br                                                            165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+transformação, na venda dos produtos acabados ou mesmo no investimento em estoques.
+
+Dessa forma a minimização dos estoques será sempre uma meta a ser buscada pelo gestor de
+materiais. O custo de material é, geralmente, o maior custo de uma organização industrial. Tudo
+isso, se não for bem controlado, colabora para incremento dos custos e redução das margens e
+da lucratividade da organização.
+
+(FADESP/UEPA/Agente Administrativo/2020) A gestão de materiais
+
+a) é um processo simples que envolve a parte dos ﬂuxos de materiais da empresa voltados
+exclusivamente à movimentação de produtos acabados.
+
+b) consiste em dispor os materiais necessários na quantidade certa, no local certo e no tempo
+certo, à disposição dos órgãos que compõem o processo produtivo.
+
+c) focaliza a estocagem como a atividade que deve ser a principal preocupação e requer o
+envolvimento apenas do gestor de materiais.
+
+d) está restrita aos cargos e órgãos que têm a responsabilidade pela compra de materiais e
+pela venda de produtos.
+
+Comentário:
+
+Mais uma vez recorremos aos grandes objetivos da gestão de materiais, entre eles garantir a
+quantidade de material necessária na especiﬁcação (qualidade) correta, no momento preciso, no
+local desejado e, tudo isso, a um preço competitivo.
+
+A alternativa B é a correta e é o gabarito da questão.
+
+(BACEN/Técnico de Suporte Administrativo) Qualidade do material, quantidade necessária, prazo
+de entrega, preço e condições de pagamento são pré-requisitos da administração de materiais
+para abastecer, continuamente, determinada empresa com material necessário para suas
+atividades.
+
+a)     Certo
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        17
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     Errado
+
+Comentário:
+
+Note que o enunciado passa por praticamente todos os pontos que listamos acima. A
+administração de materiais deve buscar a redução de custos e adequação dos respectivos
+fornecedores em todos esses pontos: qualidade do material, volume entregue de acordo com suas
+necessidades, rigoroso cumprimento dos prazos, preços competitivos e assim por diante.
+
+E veja ainda que o examinador já traz no enunciado que essas são condições que devem ser
+continuamente respeitadas, evitando portanto a troca ou busca de novos fornecedores, o que tem
+alto potencial para prejudicar o ciclo de produção.
+
+Gabarito: CORRETA
+
+Atribuições da área de materiais
+
+Para que a área de gestão de materiais consiga atingir todos os objetivos que acabamos de
+elencar, ela possui uma série de atribuições. Vamos conhecer as principais:
+
+Planejamento e previsão de demanda por materiais: a primeira medida do administrador de
+materiais deve ser a determinação da demanda que a organização espera ter para cada um dos
+materiais que precisará ser adquirido. Sem esse planejamento prévio é impossível evoluir de
+maneira eﬁciente e apenas um planejamento bem feito permite a criação de plano eﬁciente de
+compra, armazenagem, produção e venda.
+
+Avaliação e seleção de fornecedores: com o planejamento em mãos, cabe ao administrador de
+materiais identiﬁcar os melhores fornecedores no mercado com base especialmente na qualidade
+de seus produtos, cumprimento de prazos, processos de entrega e preço. Às vezes e dependendo
+da especiﬁcidade do produto/serviço em questão, os fornecedores precisam ser desenvolvidos e
+podem passar a atuar exclusivamente para a organização.
+
+Fixação de estoques mínimos e aplicação de um sistema adequado para reposição dos estoques:
+identiﬁcado o fornecedor, cabe ao administrador de materiais estabelecer os níveis mínimos de
+estoques (que não permitirão que a produção seja paralisada) e, com isso, desenvolver sistema
+objetivo de reposição, alertando de preferência de forma automática nos momentos em que novos
+pedidos de compras de materiais devem ser realizados.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       18
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Realização de compras para a organização, suprindo-a com os materiais necessários para o seu
+funcionamento: veja que tudo está intimamente interligado. Com o planejamento pronto, a
+deﬁnição do fornecedor e do sistema de reposição, cabe ao administrador fazer os primeiros
+pedidos de materiais para a organização, suprindo o processo com o material necessário. Esses
+pedidos depois tornam-se recorrentes conforme o sistema de acompanhamento de estoques
+alerta o gestor que chegou o momento de uma nova reposição.
+
+Estabelecimento de um sistema adequado para estocagem de materiais: com a entrega do
+material é necessário que o administrador estabeleça sistema adequado de estocagem,
+considerando os locais de uso, os volumes, os custos, a complexidade da movimentação interna
+do material e as características de cada produto adquirido.
+
+Implantação e uso da taxonomia dos materiais (identiﬁcação, descrição, nomenclatura e
+classiﬁcação): permite a gestão de toda a cadeia de suprimentos por meio da identiﬁcação, descrição,
+classiﬁcação/nomenclatura e eventual catalogação de cada um dos materiais necessários e
+adquiridos pela organização, minimizando o risco de trocas e erros diversos, além de propiciar o
+controle efetivo dos estoques.
+
+Supervisão dos almoxarifados (espaços físicos de estocagem, armazéns) da organização: com o
+processo já em andamento será necessário supervisionar a atividade do almoxarifado de forma
+contínua, evitando desperdícios, perdas e buscando oportunidades de melhorias e reduções de custo.
+
+Administração e controle de estoques dos diferentes tipos de materiais, na busca de eﬁciência e
+eﬁcácia: comum a todo o processo, a busca da eﬁciência e eﬁcácia certamente atingirá em cheio
+o controle de estoques, seguindo os níveis mínimos estabelecidos e sempre permitindo que a
+produção seja contínua e sem interrupções.
+
+Transporte de materiais: cabe ainda ao administrador de materiais planejar, executar e otimizar
+o transporte dos materiais, seja interna ou externamente, a partir do momento que o produto
+acabado é vendido e deve ser entregue ao cliente que o adquiriu.
+
+Completo gerenciamento da cadeia de suprimentos (supply chain management ou SCM, em inglês):
+esta é uma atribuição abrangente. Tudo isso que estamos falando diz respeito ao gerenciamento
+integral da cadeia de suprimentos, desde o fornecimento de materiais (fornecedores do fornecedor)
+até o cliente ﬁnal.
+
+Aqui estamos falando de todo o processo logístico (materiais, informações e ﬁnanceiro), do
+fornecedor do fornecedor até o cliente (ponto de origem ao ponto de consumo), ou da logística
+reversa (do cliente ao fornecedor).
+
+Ao longo da cadeia, cada uma das etapas tem a função de gerar valor ao longo do processo, seja ele à
+jusante (do fornecedor ao cliente ﬁnal) ou à montante (do consumidor ao fornecedor, ou logística
+reversa).
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               19
+        www.estrategiaconcursos.com.br                                                           165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Ufa! Veja que o administrador de materiais precisa ser capaz de realizar inúmeras atividades ao
+longo de toda a cadeia de suprimentos, desde o planejamento da demanda até a entrega do
+produto ﬁnal ao cliente da organização. É um longo rol de atividades que, somente se forem
+implementadas com o mais alto padrão de qualidade e rigor, permitem a organização maximizar
+a eﬁciência de todo o processo.
+
+Atividades da área de materiais
+De acordo com Paulo Sérgio Gonçalves (2013), as principais atividades da área de gestão de materiais
+são:
+
+Gestão dos Estoques – trata do gerenciamento dos materiais, por meio do uso de técnicas de previsão
+do consumo, sistema de controle dos estoques, etc., com o objetivo primordial de adequar os níveis de
+estoque as necessidades dos usuários dos diversos materiais, com o menor custo possível, sem
+comprometer o nível de serviço esperado para atender as exigências do usuário.
+
+Gestão de Compras – envolve o atendimento das solicitações de compras de materiais destinadas aos
+diversos órgãos que compõem uma empresa e, principalmente, atender as necessidades de reposição
+dos estoques planejados pela gestão de estoques, de acordo com as quantidades e prazos por ela ﬁxados.
+
+Gestão dos Centros de Distribuição – envolve atividades vinculadas ao recebimento dos materiais,
+movimentação, estocagem e fornecimento destes, de acordo com as necessidades dos usuários. A gestão
+dos centros de distribuição resulta no controle físico dos materiais armazenados.
+
+Como já pudemos observar ao listar todas as atribuições do administrador de materiais, todas
+essas atividades estão diretamente interligadas.
+
+Uma gestão de estoques eﬁciente pode minimizar as compras de matéria prima, permitindo ao
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                 20
+        www.estrategiaconcursos.com.br                                                             165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+fabricante reduzir a imobilização de seu capital em estoques e permitindo que possa investir, por
+exemplo, em novas tecnologias ou outros fatores que incrementem a produção.
+
+A gestão de compras por sua vez pode desenvolver duradouros relacionamentos com os
+fornecedores, minimizando os recursos empregados em sua identiﬁcação ou na eventual troca de
+parceiro comercial.
+
+Note que, como sempre, em administração de materiais estamos falando na busca da eﬁciência
+por meio da otimização de todos os processos e da redução de custos.
+
+(QUADRIX/CRP14-MS/Auxiliar Administrativo/2021) O ciclo da administração de materiais
+envolve diversas etapas e atividades. Essas etapas são: sinalização da demanda; identiﬁcação dos
+fornecedores; compra de materiais; e alienação.
+
+a)     Certo
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         21
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     Errado
+
+Comentário:
+
+A Administração de Materiais é composta por diversas etapas, que se espalham pelos três grandes
+grupos de atividades abaixo que, de fato, englobam as atividades de sinalização da demanda,
+identiﬁcação dos fornecedores e compra de materiais. Porém, no enunciado o examinador faz
+referência à alienação, que é atividade típica do processo de gestão patrimonial e não de materiais.
+Vejamos:
+
+De acordo com Gonçalves (2007), a administração de materiais pode ser dividida em três grandes
+nichos de atividades, complementares entre si:
+
+- Gestão de estoques: responsável por adequar os níveis de estoque às necessidades e à política
+de gestão de materiais da organização.
+                                                          ==219a34==
+
+- Gestão de compras: responsável por efetuar as aquisições demandadas pelos diversos órgãos
+componentes da empresa, bem como atender às solicitações da área gestora de estoques.
+
+- Gestão dos centros de distribuição: responsável pelo controle físico dos materiais, bem como
+pelo seu recebimento na organização, movimentação, armazenagem e distribuição interna.
+
+Gabarito: ERRADA.
+
+(CEBRASPE/TRT/Técnico/2010) A eﬁciente gestão de recursos materiais de uma organização
+compreende etapas relativas a adequada identiﬁcação de fornecedores, compras, transporte e
+armazenagem, bem como a informações ﬁnanceiras e gerenciais que conﬁram conﬁabilidade ao
+processo.
+
+a)     Certo
+
+b)     Errado
+
+Comentário:
+
+Veja que as atividades descritas pelo enunciado estão todas contempladas entre as atribuições do
+administrador de materiais e as principais atividades da área de materiais.
+
+É fundamental que o administrador de materiais consiga obter sucesso em cada uma dessas frentes para
+que a organização colha bons resultado sua área de gestão de materiais.
+
+Aﬁrmação CORRETA.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            22
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Integração em Administração de Recursos Materiais
+A área de materiais interage com as mais variadas áreas da empresa. É necessário que os esforços
+sejam planejados e integrados para que a organização tenha o máximo benefício.
+
+O setor de produção (esse é o exemplo mais óbvio) é diretamente inﬂuenciado pela área de
+materiais. Falhas nas compras de suprimentos ou mesmo na disponibilização do material na área
+correta de produção e no momento preciso, podem levar a paralisação da produção. Ainda,
+materiais que não tenham a qualidade requisitada podem resultar em produtos acabados de baixa
+qualidade, menor resistência e assim por diante.
+
+Agora, pense na área de vendas da organização. Será que há alguma relação com a área de
+materiais? Alguma, não! A relação é enorme! Imagine que os vendedores conseguem uma grande
+negociação com um cliente, que antecipa os pagamentos a ﬁm de conseguir um grande desconto
+e - surpresa! - não há estoque para produzir o combinado e o único fornecedor que possuía a
+matéria prima necessária fechou suas portas.
+
+Por isso que todas as ações ao longo da cadeia têm que ser planejadas e integradas, inclusive o
+ﬂuxo de informações de uma área a outra. No momento em que foi detectado o problema com
+o fornecedor - o que impactaria a produção dos itens X, Y e Z, tão logo o estoque se esgotasse -
+todo o restante da cadeia e demais áreas envolvidas deveriam ter sido informados. Desta forma o
+comercial não venderia algo a um cliente que não pudesse ser produzido e entregue no tempo
+combinado.
+
+O setor ﬁnanceiro também está intimamente ligado. Imagine que a organização tenha os seus
+orçamentos, previsões de vendas e, com base nisso tudo, tem suas receitas, margens e lucro
+previstos para o ano.
+
+Se um produto rentável e de grande volume, por qualquer razão (falta de estoques, troca de
+fornecedor, problemas na produção) deixa de ser vendido no volume esperado, isso afeta
+imediatamente o caixa da empresa, podendo resultar em diﬁculdades para a empresa honrar seus
+compromissos de curto prazo (dívidas, salários, impostos, etc.).
+
+E o marketing, que colocou no ar uma imensa campanha de publicidade a respeito do produto X
+e ele não chegou as gôndolas dos supermercados pois a área de compras não chegou a um acordo
+com o fornecedor na compra de matéria prima e a produção parou?
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           23
+        www.estrategiaconcursos.com.br                                                       165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+   Veja, portanto, que não há como considerar a área de materiais de forma isolada. Tudo que lá
+   acontece está diretamente ligado ao restante da organização e a sua integração aos demais
+   setores deve ser total.
+
+Ainda em relação a como a área de materiais se posiciona dentro de uma organização, ela pode
+ser inteiramente centralizada ou pode ser espalhada pelos diferentes setores, permitindo que
+toda a atividade de planejamento, compras e etc. seja feita de forma descentralizada dentro da
+mesma organização.
+
+A centralização claramente permite um planejamento integrado e uniﬁcado e que consiga olhar para
+toda a organização de uma só vez.
+
+Traz ainda economias de escala pois quando as compras são centralizadas, ocorrem em volumes
+maiores, o que possibilita descontos juntos aos fornecedores.
+
+A centralização permite ainda a alocação dos especialistas na atividade e um controle de custos
+eﬁciente, visto que os custos estão todos reunidos e localizáveis em um mesmo lugar.
+
+Por outro lado, é um modelo signiﬁcativamente mais lento, especialmente no atendimento de
+demandas urgentes, pois tem menos ﬂexibilidade. Em função disso, geralmente é indicado para
+processos de produção estáveis.
+
+O modelo descentralizado por sua vez, é basicamente o inverso. Cada setor da organização tem sua
+própria estrutura de gestão de materiais para efetuar a compra e gerenciamento dos materiais
+demandados.
+
+Tem como grande vantagem a velocidade no atendimento das requisições de materiais visto que
+o gestor está bastante próximo da unidade de negócio, o que geralmente não acontece no
+modelo centralizado. Justamente em função disso, permite ainda um acesso mais rápido e direto
+ao responsável pela atividade de gestão de materiais.
+
+Porém, possivelmente gerará mais custos pelo desdobramento da estrutura por toda a
+organização, assim como perderá preciosas oportunidades de negociações de preços e volumes
+com os fornecedores pois não haverá essa visão do volume total necessário pela organização e
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                24
+        www.estrategiaconcursos.com.br                                                        165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+sim apenas daquela unidade representada pela estrutura de materiais especíﬁca.
+
+A falta de visão do todo para a execução de um planejamento único e integrado também é um
+risco ao qual a organização estaria exposta nesse modelo.
+
+Em função de tudo isso, o modelo descentralizado é indicado para modelos de negócio que
+necessitem de agilidade e ﬂexibilidade na aquisição de materiais e para organizações que produzam
+ou atuem em diferentes localizações de maneira simultânea.
+
+(FUNDATEC/Pref. Mun. Tramandaí-RS/Patrimônio/2021) Gurgel e Francischini (2013) deﬁnem
+que as compras podem ser centralizadas ou não. O tipo de empreendimento é que deﬁnirá a
+necessidade de centralização. De modo geral, a centralização dos serviços de compras apresenta
+aspectos positivos, apesar de, em certos tipos, ser mais aconselhável a aquisição descentralizada.
+Segundo os autores, entre as vantagens da centralização das compras, estão:
+
+I. O poder de negociação para melhoria dos níveis de preços obtidos dos fornecedores.
+
+II. A análise do mercado com eﬁcácia em virtude da especialização do pessoal que trabalha no
+serviço de compras.
+
+III. A economia de escala na aquisição centralizada, baixando os custos.
+
+a) apenas I e II
+
+b) apenas I e III
+
+c) apenas II e III
+
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais            25
+         www.estrategiaconcursos.com.br                                                        165
+
+                                     
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+d) I, II e III
+
+Comentário:
+
+Mais uma questão que aborda a centralização da administração de materiais, nesse caso, das
+compras:
+
+Na aﬁrmativa I, certamente a centralização gera a chamada economia de escala, derivada do
+maior poder de negociação em razão da concentração do volume de compras em um só local.
+
+Na aﬁrmativa II, outro acerto. A centralização permite a especialização do pessoal envolvido na
+respectiva atividade.
+
+Por ﬁm, na aﬁrmativa III, nova referência à economia de escala que, sim, permite a redução de
+custos como já vimos na primeira aﬁrmativa
+
+Dessa forma todas estão corretas e a alternativa D é a correta e gabarito da questão.
+
+Gabarito: letra D
+
+(FGV/Pref. Florianópolis-SC/Administrador/2014) Uma metalúrgica fabricante de parafusos,
+porcas e ﬁxadores opera em um mercado relativamente estável e previsível. Nesse contexto, a
+gestão de sua cadeia de valor deve ser voltada, principalmente, para:
+
+a)     rapidez na entrega e escolha de fornecedores ﬂexíveis;
+
+b)     manutenção de baixos níveis de estoque e escolha de fornecedores de baixo custo;
+
+c)     escolha de fornecedores ﬂexíveis e manutenção de estoques na cadeia;
+
+d)     manutenção de baixos níveis de estoque e delegação de autoridade;
+
+e)     rapidez na entrega e centralização das decisões.
+
+Comentário:
+
+Essa é uma boa questão para exercitarmos o que vimos em relação à centralização e
+descentralização em um caso concreto. Veja que o enunciado traz a informação que o mercado é
+"relativamente estável e previsível". O que fazer nesses casos? Vimos que em cenários como esse
+a centralização da atividade de administração de materiais é recomendável, visando a redução de
+custos e níveis de estoques, além da negociação de preços com fornecedores ao longo do tempo.
+
+A alternativa B é a correta e é o gabarito da questão.
+
+O cenário estável permite a manutenção de baixos níveis de estoque e a busca de um fornecedor
+que apresente baixos custos, especialmente por ser possível concentrar nele todo o volume de
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais             26
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+compras da unidade produtiva, o que certamente gerará descontos no pedido total.
+
+Na alternativa A o examinador fala na escolha de fornecedores ﬂexíveis e rapidez na entrega. Não
+é necessário e isso certamente encarece o processo de aquisição de materiais.
+
+Na letra C a banca fala novamente na ﬂexibilidade do fornecedor (que já descartamos pelo custo)
+e na manutenção de estoques na cadeia. Dentro desse cenário apresentado, o objetivo da
+administração de materiais é manter estoques mínimos ao longo da cadeia e, se possível, nenhum.
+Portanto, errado.
+
+Na alternativa D fala em baixos níveis de estoque, o que está correto. Porém fala em delegação
+de autoridade que, a princípio não tem relação com o tema. Pode estar se referindo a
+descentralização da atividade de administração de materiais o que, nesse caso, não é recomendável.
+
+Por último, na letra E a banca fala em centralizar os decisões, o que é ok, porém insiste na rapidez da
+entrega. Como a demanda é previsível, a entrega pode ser planejada e não é necessário pressionar o
+fornecedor por velocidade, o que também encarece o processo.
+
+Gabarito: letra B
+
+Nível de Serviço e Medidas de Desempenho
+Medidas de desempenho são maneiras de medir a performance em determinada área.
+
+Além disso, a medida de desempenho deve permitir que a administração possa agir sobre os
+desvios em relação aos objetivos traçados, efetuando as correções necessárias, seja no processo,
+nos recursos alocados, na performance ou mesmo nas metas utilizadas, que podem estar sub ou
+super alocadas (ou seja muito abaixo ou muito acima do razoável).
+
+Nesse contexto, em administração de materiais há um índice que é necessário você conhecer,
+especialmente porque ele costuma ser cobrado em provas: é o chamado Nível de Serviço.
+
+    O Nível de Serviço nada mais é do que o percentual de pedidos/requisições de materiais que
+    são atendidos de maneira satisfatória pela área de administração de materiais.
+
+A fórmula é bastante simples, veja abaixo:
+
+       Nível de Serviço = Pedidos Atendidos Satisfatoriamente / Pedidos Totais
+
+Tão importante quanto conhecer a fórmula, é estar ciente do desaﬁo que está por trás
+
+Antes disso, importante explicar o que é a chamada requisição de materiais, já que ela faz
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                  27
+        www.estrategiaconcursos.com.br                                                              165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+parte do cálculo do nível de serviços e falaremos bastante dela ao long
+
+o do curso.
+
+A requisição de materiais é o documento hábil pelo qual o material é solicitado ao almoxarifado
+para utilização. É o pedido de material enviado ao setor responsável pelo fornecimento de
+materiais. É por meio dela que os clientes internos informam ao responsável pelo
+almoxarifado/estoque, que estão desabastecidos e precisam de reposição.
+
+Veja portanto que, a somatória das requisições de materiais apresentadas, em tese forma o
+denominador da fórmula acima, ou seja os "Pedidos Totais".
+
+Voltando, você se lembra que desde o início de nossa aula estamos falando em eﬁciência, redução
+de custos, volumes mínimos de estoques e etc., correto? Pois é. O problema é que, quanto menor
+for o estoque, em tese, maior o risco de que o administrador de materiais não consiga atender
+alguns pedidos (que chegam via requisição de materiais) e isso vai impactar diretamente o seu
+nível de serviço.
+
+É claro que tudo isso é muito teórico. Se o planejamento de demanda e de produção forem
+absolutamente perfeitos e o fornecedor não falhar nunca nas entregas em relação ao local, prazo
+e qualidade, poderíamos chegar ao cenário hipotético de estoque zero. Mas isso só ocorre na
+teoria (embora a teoria caia em prova!).
+
+Nesse cenário, tão logo a produção do produto X estivesse programada para ser iniciada, o
+material necessário seria imediatamente entregue, sem qualquer falha. Esse, aliás, é o conceito do
+Just In Time, bem resumidamente.
+
+Acontece que falhas existem. A demanda pode superar o planejado. O fornecedor pode ter tido
+um problema aquele dia e ﬁcou sem material para entregar. O caminhão que estava trazendo o
+material até a linha de produção sofreu um acidente e perdeu a carga.
+
+Ou seja, é necessário trabalhar com o chamado estoque de segurança (ou estoque mínimo), que
+permite à empresa não precisar parar a sua operação quando uma entrega programada não
+acontecer ou quando se deparar com um incremento inesperado de demanda, por exemplo.
+
+O estoque de segurança absorve as ﬂutuações e garante a manutenção do ciclo produtivo da
+empresa, garantindo as entregas dos materiais quando solicitados, especialmente pela área
+produtiva.
+
+E é disso que estamos falando quando usamos o Nível de Serviço, ou seja, o percentual de
+atendimento das solicitação recebidas pelo gestor de materiais, utilizando os recursos que forem
+necessários para isso, entre eles o estoque regular, o estoque mínimo ou de segurança ou qualquer
+outra fonte necessária.
+
+Por outro lado, obviamente níveis mais altos de serviço custam mais caro que níveis mais baixos.
+Os conceitos mais modernos da administração de materiais sugerem que as necessidades de
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             28
+        www.estrategiaconcursos.com.br                                                         165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+serviços aos clientes devem ser satisfeitas sempre dentro de limites razoáveis de custo. Ou seja, o
+custo de estabelecer certo nível de serviço deve ser contrabalançado com vendas potenciais para
+aquele serviço ou produto, de maneira a dar a máxima contribuição possível nos lucros.
+
+Assim, nem sempre a organização vai optar pelo maior nível de serviço possível, mas sim pelo mais
+lucrativo (no caso de empresas que visam o lucro). Em algumas ocasiões vale a pena abrir mão do
+atendimento de algumas demandas ou clientes em função do custo que isso representaria para
+todo o sistema. Essa é uma decisão da organização.
+
+         Dentro desse contexto, o administrador de materiais deve ser competente o suficiente
+        para trabalhar com o estoque mais baixo possível, reduzindo os custos do emprego de
+        capital, de armazenagem e demais custos alocados e, ao mesmo tempo, ser capaz de
+        manter um alto Nível de Serviço, ou seja, atender o maior número possível de
+        pedidos/requisições de materiais colocadas pela área de produção ou demais clientes
+        internos, tudo dentro da estratégia estabelecida pela empresa, que visa a maior
+        lucratividade possível.
+
+Veja que é uma fronteira na qual o administrador de materiais tem que transitar o tempo todo. Não
+pode ter estoques altos a ponto de aumentar os custos de produção da organização e, ao mesmo
+tempo, não pode ter estoques baixos a ponto de afetar uma das métricas mais importantes que
+medem o seu trabalho: o Nível de Serviço.
+
+É um baita desaﬁo!
+
+(FCC/Pref. Mun. Recife-PE/Analista de Gestão Administrativa/2019) Entre os indicadores de
+gestão de estoques que são utilizados de forma corrente nas organizações insere-se o nível de
+serviço, que mede
+
+a)     a relação entre o número de requisições atendidas em face das requisições efetuadas.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           29
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     a rotatividade dos itens repostos e o custo médio de manutenção em estoque.
+
+c)     o custo relativo de cada item de material em relação ao total do estoque mantido.
+
+d)     o número de vezes que o estoque de determinado item de material é renovado.
+
+e)     o período em que o estoque médio será capaz de atender a demanda média.
+
+Comentário:
+
+A    questão aborda a deﬁnição técnica de nível de serviço, ou seja: o percentual de
+pedidos/requisições que são atendidos de maneira satisfatória pela área demandada.
+
+Gabarito: letra A
+
+(ACEP/Pref. Aracati-CE/Almoxarife/2018) Durante o planejamento do Programa de
+Desenvolvimento Institucional (PDI) da Prefeitura de Aracati-CE, o Gestor da área de materiais
+apresentou um indicador que retratava o nível de serviço do Almoxarifado. É correto aﬁrmar sobre
+este indicador que:
+
+a) indica o número de unidades de tempo que o estoque médio será suﬁciente para cobrir a
+demanda média.
+
+b) se o número de requisições atendidas pelo Almoxarifado foi de 4.400 e 4.495 foi o número
+de requisições efetuadas pelos usuários, então o nível de serviço foi de 97,88%.
+
+c)     o nível de serviço serve para medir a qualidade do material entregue.
+
+d)     quanto mais requisições forem atendidas, menor será o nível de serviço.
+
+Comentário:
+
+A questão cobra exatamente o conhecimento do índice que acabamos de estudar: o Nível de
+Serviço.
+
+Note que, mesmo sem fazer a conta proposta pela banca, é possível matar a questão pois as
+demais alternativas não são aplicáveis. Vejamos.
+
+Na alternativa A o examinador fala em tempo médio de cobertura do estoque. Isso não se refere
+a Nível de Serviço. Acabamos de ver.
+
+Na letra C a banca relaciona o Nível de Serviço a qualidade do material. Também não é por aí. A
+mensuração é feita considerando a entrega satisfatória, incluindo o prazo, o local, a quantidade e,
+inclusive, a qualidade. Somente assim um pedido ou requisição pode ser considerado atendido de forma
+satisfatória.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            30
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Imagine se a qualidade é excelente mas o material foi entregue uma semana depois do necessário e a
+produção parou por sete dias!
+
+Por ﬁm, na alternativa D a banca estabelece relação inversa à utilizada pelo índice. O correto é: quanto
+mais requisições forem atendidas, maior o Nível de Serviço e não o contrário.
+
+Gabarito: letra B
+
+Ética em Administração de Materiais
+
+A Ética é geralmente deﬁnida como parte da ﬁlosoﬁa responsável pela investigação dos
+
+princípios que motivam, distorcem, disciplinam ou orientam o comportamento humano, reﬂetindo
+a respeito da essência das normas, valores, prescrições e exortações presentes em qualquer
+realidade social.
+
+No âmbito proﬁssional é composta pelos padrões e valores da sociedade e do ambiente de
+trabalho no qual a pessoa convive.
+
+No meio corporativo, a ética proﬁssional traz maior produtividade e integração dos colaboradores
+e, para o proﬁssional, ela agrega credibilidade, conﬁança e respeito ao trabalho.
+
+Indo agora para o campo da organização pública, temos como exemplo o Decreto 1.171/1994, o
+chamado Código de Ética do Servidor Público Federal. Nos âmbitos Estadual, Distrital e Municipal
+temos também normas e regulamentos que procuram pautar o comportamento ético em suas
+respectivas jurisdições.
+
+Já no campo da administração de materiais temos questões especíﬁcas que valem a pena serem
+trazidas para a discussão.
+
+Vimos que a atividade de gestão de materiais é absolutamente integrada com vários
+departamentos da empresa. Não trabalha sozinha e estabelece relações de interdependência com
+diferentes áreas como produção (especialmente), marketing, comercial, ﬁnanceiro, entre outros.
+
+Além disso, veremos mais adiante que para um bom funcionamento de todo o ciclo produtivo é
+fundamental a manutenção de boas relações entre os diferentes membros da cadeia. E aí estamos
+falando das relações mantidas entre compradores e fornecedores, entre os gestores internos e
+seus respectivos departamentos e entre os vendedores e clientes.
+
+Na administração de materiais a manutenção destes relacionamentos é sensivelmente mais
+importante que em outras áreas, em função do caráter cíclico do processo.
+
+E, enﬁm, do que estamos falando? Estamos falando que é fundamental que o gestor de materiais
+- além dos compradores e vendedores da cadeia - deva ter conduta clara e transparente,
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                   31
+        www.estrategiaconcursos.com.br                                                               165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+respeitando pares, fornecedores e clientes e, sobretudo, cultivando relações duradouras e não
+pontuais.
+
+Vimos que a manutenção da continuidade no fornecimento é também um dos objetivos da
+administração de materiais. Para isso, relações "ganha-ganha" devem ser cultivadas.
+Fornecedores, por exemplo, não devem ser continuamente "massacrados" em busca de
+lucratividade. A organização muitas vezes depende deles e até precisa desenvolvê-los.
+
+Nesse contexto deve-se sempre procurar um meio termo que atenda aos interesses de todos os
+integrantes da cadeia que, no fundo, têm o objetivo comum de fazer com que todo o ciclo
+funcione da maneira mais eﬁciente possível, gerando justos ganhos para todos os seus integrantes
+e - o mais importante e que permite a perenidade do processo - atenda também as necessidades
+do cliente ﬁnal.
+
+Isso tudo é comportamento ético na prática.
+
+Ética no Setor Público
+No setor público, um ponto muito importante nessa conversa é a tomada de decisão ao longo do
+processo, escolhendo sempre a opção que seja mais vantajosa para o bem comum.
+
+É exatamente isso que diz o Código de Ética do Servidor Público Federal:
+
+        "...ser probo, reto, leal e justo, demonstrando toda a integridade de seu caráter,
+        escolhendo sempre, quando estiver diante de duas opções, a melhor e a mais
+        vantajosa para o bem comum".
+
+E - preste atenção pois isso cai em prova - não é a melhor opção para a Administração Pública,
+mas sim para o bem comum. Isso sugere um escopo maior, envolvendo a sociedade como um
+todo o que, imagina-se, também seja o desejo do órgão público, visto que em última instância ele
+trabalha e defende o interesse de toda a sociedade. Mas ﬁque atento com o contexto da questão!
+
+Ainda no setor público, importante listar esta outra passagem do Código de Ética do Servidor:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              32
+        www.estrategiaconcursos.com.br                                                          165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+        "...exercer suas atribuições com rapidez, perfeição e rendimento, pondo ﬁm ou
+        procurando prioritariamente resolver situações procrastinatórias...".
+
+Dentro da gestão de materiais tal passagem também deve ser observada e deve ser o norte na
+conduta ética do servidor, deixando-o desconfortável, impelindo-o a ação e cultivando o senso de
+urgência ao se deparar com ﬁlas, atrasos ou outros obstáculos que impeçam o órgão público de
+prestar o melhor serviço ao cidadão, como demora nas reposições de estoque, procedimentos
+demasiadamente burocráticos que não permitam a disponibilização do material necessário à
+prestação de serviços, etc.
+
+Ética em Compras
+Outro tema muito explorado pelas bancas em relação à ética está ligado à atividade de compras.
+
+Como os proﬁssionais desse setor estão sempre envolvidos com grandes valores monetários e têm o
+poder de decisão em relação a escolha dos fornecedores, é fundamental que tenham comportamento
+ético no que diz respeito ao direcionamento que darão aos recursos ﬁnanceiros da organização e a
+toda a condução do processo de negociação.
+
+Em relação a este ponto especíﬁco, importante estender a reﬂexão a todos os proﬁssionais
+envolvidos no processo de compras, ou seja, não só os responsáveis pelos contatos com os
+fornecedores, mas também aqueles que deﬁnem os tipos e volumes de materiais que devem ser
+adquiridos, os especiﬁcadores de contratos de fornecimento e demais proﬁssionais relacionados
+a estas atividades.
+
+Ainda em compras, importante frisar a manutenção de relacionamento duradouros com os
+fornecedores, que permitam a continuidade do fornecimento, minimizando custos de prospecção,
+desenvolvimento ou negociação com novos fornecedores.
+
+Isso tudo, claro, é facilitado pelo comportamento ético no exercício da atividade e não por postura
+individual ou míope, que vise apenas maximizar o lucro e a performance de uma das partes da
+relação comercial.
+
+(ESAF/DNIT/Técnico Administrativo/2013) Considere um setor de compras e os responsáveis
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               33
+        www.estrategiaconcursos.com.br                                                           165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+pelas compras. Analise as opções abaixo e selecione aquela que representa um atributo do perﬁl
+do comprador.
+
+a) Um comprador deve ser preparado, mas não é preciso que seu conhecimento esteja no
+mesmo nível do fornecedor.
+
+b) Todo comprador deve perseguir uma compra que resulte em economia de recurso
+ﬁnanceiro, independentemente das políticas organizacionais.
+
+c)   O comprador deve orientar seu comportamento nos mais altos níveis em concorrências,
+discussões de preços e ﬁnalização da compra.
+
+d)     A ética negocial é deﬁnida pelos negociadores e não pelas organizações.
+
+e) O sigilo das negociações é opcional, podendo o negociador revelar as ofertas feitas por
+concorrentes para obter melhor preço do fornecedor.
+
+Comentário:
+
+Essa é uma questão que fala exatamente da conduta do proﬁssional responsável pelas compras
+na organização.
+
+A alternativa C é a correta e é o gabarito da questão. O comprador sempre deve orientar seu
+comportamento nos mais altos níveis ao longo do processo de compras. Não há exceções ou
+brechas.
+
+A alternativa A coloca em patamares distintos o comprador e o fornecedor. Não faz sentido.
+
+Na letra B o examinador assume que o comprador pode ignorar as políticas organizacionais em
+busca de bons resultados. Também não é aceitável.
+
+Na alternativa D a deﬁnição da ética negocial é atribuída aos negociadores e não as organizações.
+A ética negocial é única e deriva de uma conduta aceita por toda a sociedade e não estabelecida
+apenas entre 2 representantes de duas empresas que mantêm relação comercial.
+
+Por ﬁm, a letra E ignora o sigilo das negociações, outro princípio ético importante para quem atua
+na área de compras.
+
+(CEBRASPE/ANCINE/Técnico Administrativo/2006) Com relação ao processo de compras no
+setor público, são atitudes éticas priorizar os interesses da organização, atuar de forma
+transparente nas negociações com fornecedores, denunciar manifestações ou tentativas de
+suborno e fatos ilícitos internos relacionados a compras, ter critérios claros e transparentes no
+recebimento de presentes de fornecedores.
+
+·Certo
+·Errado
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          34
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Comentário:
+
+Todas as ações citadas enquadram-se nos princípios éticos previstos pelo Código de Ética do Servidor
+Público Federal.
+
+A alternativa está CORRETA.
+
+Tendências em Administração de Materiais
+
+A logística e todas as atividades desempenhadas no âmbito da Administração de Materiais são
+críticas para a melhoria da performance de uma organização, seja ela da área pública ou privada
+ou dos setores primário, secundário ou terciário da economia.
+
+A logística bem administrada e uma cadeia de valor eﬁciente trazem à organização vantagens
+competitivas que se reﬂetem em altos níveis de atendimento e satisfação de clientes o que geram,
+por sua vez, maior faturamento, participação de mercado e lucro.
+
+No mundo público pode-se assumir que tudo isso gera serviços prestados da mais alta qualidade
+e à altura do esperado pela sociedade, com o menor e mais eﬁciente emprego dos recursos
+públicos.
+
+Bem, dito isso, para onde vamos?
+
+Assim como diversos outros setores a administração de materiais também está sujeita a mudanças
+que, aliás, vêm acontecendo em alta velocidade. Vamos ver alguns temas que são críticos na
+transformação dessas atividades a longo dos próximos anos:
+
+TECNOLOGIA E INFORMATIZAÇÃO
+
+Essa é provavelmente a variável que pode impactar mais drasticamente a administração de
+materiais no curtíssimo prazo. Os processos que estudaremos aqui são automatizáveis
+praticamente na sua íntegra e, assumindo que a automatização representa redução de custos, é
+certo que os processos que veremos daqui em diante serão cada vez mais automáticos e
+informatizados e não manuais.
+
+Veremos que ainda temos muitos desse processos feitos e acompanhados de forma manual.
+Processos e requisições de compras, cálculos de demanda, geração de layouts e adoção de
+métodos de armazenamento, elaboração de rotas de distribuição, entre outros. São todos
+processos que podem ter valor adicionado com o emprego da tecnologia.
+
+Assim, as empresas usarão extensivamente modelagem, simulações e sistemas de informação e
+de controle adaptativos e de resposta rápida (como RFDI, GPS e outros), tudo isso por meio do
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                 35
+        www.estrategiaconcursos.com.br                                                            165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+uso de equipamentos e processos de última geração.
+
+A empresa, organização pública ou gestor que não se adaptar a isso no curto prazo certamente
+ﬁcará para trás em curto espaço de tempo.
+
+TENDÊNCIAS GEOGRÁFICAS
+Aqui estamos falando de três pontos distintos: o crescimento da população em locais especíﬁcos,
+mudanças signiﬁcativas em locais de produção em razão de custos, mão de obra especializada ou
+outros fatores e, por último, novas demandas por produtos e serviços regionalizados, que hoje sequer
+imaginamos que existirão no futuro.
+
+Note que qualquer uma das três mudanças pode afetar signiﬁcativamente as cadeias logísticas
+visto que, em busca da eﬁciência, elas devem estar próximas de seus clientes e sempre em busca
+do menor custo possível, ou seja, buscando também locais de produção mais baratos, sem falar
+nas alterações impostas por novos produtos e serviços.
+
+TENDÊNCIAS DE CUSTOS
+Já falamos de custos de mão de obra (que poderiam estar incluídos neste item também), mas também é
+necessário prestar atenção em custos de transportes e de estoque.
+
+Em relação aos custos de transporte as maiores preocupações dizem respeito as tendências
+futuras em relação aos combustíveis ou outras fontes de energia.
+
+Já em relação aos estoques, é natural aguardar movimentações no sentido de que ele seja
+
+cada vez menor ao longo tempo, fruto da integração de toda a cadeia.
+
+Esse movimento certamente dará vantagens competitivas a quem conseguir integrar de forma
+deﬁnitiva à cadeia de valor os seus fornecedores, para que possam entregar os materiais de forma
+cada vez mais rápida e de acordo com as customizações e especiﬁcações necessárias, minimizando
+os custos de estoque e perdas de produção.
+
+Essa integração deve ser ainda maior. Na busca por maior eﬁciência e compartilhamento de
+custos, deverá haver maior colaboração entre empresas estendidas (cadeias formadas pelas
+empresas mais seus fornecedores e distribuidores, que pode até mesmo chegar ao conceito de
+"empresas virtuais") que tenham objetivos especíﬁcos e interesses comuns, atuando de forma
+conjunta a partir de localidades diferentes e não integradas ﬁsicamente, mas em rede.
+
+TENDÊNCIAS AMBIENTAIS
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               36
+        www.estrategiaconcursos.com.br                                                           165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+As crescentes preocupações com o impacto da atividade econômica nos recursos ambientais
+globais certamente impactarão a atividade de gestão de materiais no futuro.
+
+O uso de determinados combustíveis, a gestão das sobras de produção, emprego de materiais
+recicláveis e/ou menos poluentes nas atividades produtivas, entre outros, certamente são fatores que
+demandarão atenção dos gestores de materiais nos próximos anos.
+
+(FGV/IBGE/Analista Censitário/2017) Com o desenvolvimento tecnológico, os problemas
+logísticos tornaram-se cada vez mais complexos, exigindo maior visão sistêmica das
+organizações e do mercado. A proliferação de variedades de produtos leva a uma grande
+diversidade e quantidade de itens, o que conduz a uma situação complexa de administração dos
+estoques. Uma das mais importantes tendências da logística empresarial moderna é o uso de
+operadores logísticos, que têm como característica:
+
+·a) prestar serviço padronizado e genérico, concentrando-se em uma única atividade logística;
+·b) possuir conhecimentos práticos especializados e limitados;
+
+·c) oferecer serviços sob medida, com capacidade de análise e planejamento logístico;
+
+·d) apresentar contratos de serviços que tendem a ser de curto e médio prazo (seis meses a um ano);
+
+·e) oferecer custo especíﬁco minimizado da atividade contratada para a empresa contratante.
+Comentário:
+
+A questão aborda uma das tendência em administração de materiais que é a busca pela redução de
+custos por meio da integração de toda a cadeia. A customização ou o oferecimento de serviços sob
+medida, com capacidade de análise e planejamento logístico é característica dos operadores logísticos e
+considerada muito importante para agregar valor ao produto, otimizar os processos, reduzir custos etc.
+
+Gabarito: letra C
+
+
+                                         LISTA DE QUESTÕES
+
+
+1.             (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023)
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais                 37
+           www.estrategiaconcursos.com.br                                                             165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Recursos materiais referem-se aos elementos utilizados por uma organização em suas
+atividades diárias, na fabricação de seu produto ﬁnal ou na realização de sua missão
+institucional.
+
+A respeito das operações que ocorrem na administração dos recursos materiais de uma
+organização, assinale a opção que indica a operação inicial.
+
+(A)      Identiﬁcação do fornecedor.
+
+(B)      Transporte interno do bem.
+
+(C)       Acondicionamento do bem.
+
+(D)      Aquisição do bem.
+
+(E)      Recebimento do bem.
+
+2.             (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023)
+
+Os bens são frequentemente considerados “recursos”, porque podem gerar produtos e serviços
+e, consequentemente, criar riqueza.
+
+A disciplina que lida com a preservação, manutenção ou alienação de um bem, é a Administração
+de Recursos
+
+(A)      Humanos.
+
+(B)      Patrimoniais.
+
+(C)       Tecnológicos.
+
+(D)      de Capital.
+
+(E)      Materiais.
+
+3.             (VUNESP/Pref Pindamonhangaba/Gestão Pública/2023)
+
+Na administração de materiais,
+
+a)  procura-se maximizar o uso dos recursos materiais na organização pública, de modo a causar
+desperdícios.
+
+b)   as compras públicas possuem papel reduzido em termos de fomento de mercado, ou seja,
+nas aquisições e contratações.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais      38
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+c)  a gestão de estoques contempla, entre outros, tombamento, alienação, guarda e
+conservação.
+
+d)      abrangência, ﬂexibilidade e praticidade são critérios de classiﬁcação dos materiais.
+
+e)  recurso material é todo bem tangível e intangível empregado em uma organização que
+detém natureza permanente.
+
+4.             (VUNESP/Pref Araçatuba/Administrativo/2023)
+
+Uma gestão de materiais eﬁciente é importante para qualquer negócio e tem como objetivo
+
+a)   redimensionar as vendas, as compras de material processado e os registros de estoque de
+suprimentos.
+
+b) organizar e controlar compras, almoxarifado, estoque e a utilização dos materiais na
+produção.
+
+c)      reposicionar os custos ﬁxos referentes ao armazenamento e aos processos produtivos.
+
+d)      incrementar a logística para recebimento de produtos de maior demanda local e baixo custo.
+
+e)      manter um alto estoque de matéria-prima para garantir uma eventual produção sazonal.
+
+5.             (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023)
+
+Acerca da administração de materiais, julgue o item.
+
+O nome secundário refere-se às empresas que ﬁcam em um lugar inicial ao longo do processo
+produtivo.
+
+6.             (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+O produto ou o serviço representa o que a empresa está apta a fazer e a produzir.
+
+7.             (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          39
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+O produto oferecido pela empresa primária é, em regra, a matéria-prima inicial para as empresas
+secundárias.
+
+8.             (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+As empresas primárias também são chamadas de extrativas pelo fato de obterem o produto ou
+o material por meio da ação direta sobre a natureza.
+
+9.             (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+O exterior de uma empresa é, invariavelmente, o cenário de uma série de ações aplicadas sobre
+os materiais.
+
+10. (QUADRIX/CREFONO 2/2023)
+
+Em relação à administração de materiais, julgue o item.
+
+Dentro de uma conjuntura economicamente estável, é fundamental que o gerente de materiais
+tenha capacitação para responder às novas exigências de mercado.
+
+11. (QUADRIX/CAU PA/2023)
+
+Com base nas noções de administração de recursos materiais, julgue o item a seguir.
+
+A preocupação com as máquinas, os equipamentos e a tecnologia antecede à preocupação que
+é direcionada aos materiais que passam por elas.
+
+12. (CEBRASPE (CESPE/Pref Fortaleza/Administração/2023)
+
+A respeito das boas práticas na gestão de contratações e de materiais, julgue o item subsecutivo.
+
+São consideradas boas práticas na gestão de materiais o combate à obsolescência, a reutilização
+de materiais e a padronização de componentes.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         40
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+13. (FURB/Pref. Mun. Blumenau-SC/2022)
+
+As atividades-chave da administração de materiais são:
+
+A)     Processamento de pedidos, transporte e controle de estoque.
+
+B)     Transporte, manutenção de estoque e do sistema de informação.
+
+C)     Manutenção do estoque, processamento de materiais e controle dos custos totais.
+
+D)      Processamento de pedidos, transporte e controle dos custos totais.
+
+E)     Transporte, processamento de embalagens e manutenção de estoque.
+
+14. (AOCP/Pref. Belém-PA/2022)
+
+Qual é a ﬁnalidade principal da administração de materiais?
+
+A) Assegurar o contínuo abastecimento de produtos para comercialização direta ou para
+atender aos serviços executados pela empresa.
+
+B) Reduzir os custos operacionais para garantir a competitividade dos produtos no mercado e
+a satisfação das exigências de qualidade.
+
+C) Proporcionar a segurança de produtos que atendem às especiﬁcações técnicas e aos níveis
+de adequação apropriada aos seus usuários.
+
+D)   Disponibilizar para os fornecedores as condições de recebimento e para os clientes as
+melhores condições de colocação.
+
+E) Contribuir para que toda a empresa venha usufruir de um sistema que assegura o
+desempenho funcional do pessoal com satisfação.
+
+15. (QUADRIX/CRF-GO/Agte. Administrativo/2022)
+
+Acerca da administração e de seus conceitos fundamentais, julgue o item.
+
+Do ponto de vista da administração, os materiais correspondem aos insumos básicos para que o
+processo produtivo possa acontecer e, na medida em que são exclusivamente sólidos, não
+requerem diversidade de acondicionamento, transporte, estocagem e processamento.
+
+A)      Certo
+
+B)     Errado
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais     41
+           www.estrategiaconcursos.com.br                                                165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+16. (QUADRIX/CRN 4/Administrativo/2022)
+
+Acerca das noções de administração e de seus conceitos fundamentais, julgue o item.
+
+Para alcançar sua ﬁnalidade precípua, ou seja, assegurar a disponibilidade dos bens necessários à
+manutenção da operacionalidade da produção, a área de gestão de recursos materiais deve atuar
+de modo independente dos demais setores organizacionais.
+
+A)     Certo
+
+B)     Errado
+
+17. (QUADRIX/CRBM3/Assistente Administrativo/2022)
+
+A respeito da administração de materiais, julgue o item.
+
+A quantidade de material manipulada por vez e a frequência com que são realizadas as diversas
+movimentações estão ligadas, exclusivamente, ao grau de especialização.
+
+A)     Certo
+
+B)     Errado
+
+18. (SELECON/Câm. Mun. São Gonçalo-RJ/Ass. Legislativo/2022)
+
+A gestão de materiais é o conjunto de atividades destinadas a suprir e controlar os materiais
+necessários ao desempenho das atribuições de um estabelecimento ou setor. O controle
+inadequado do material de expediente provoca o seguinte sintoma:
+
+A)     melhoria das relações com usuários
+
+B)     redução de custos e de perdas de estoque
+
+C)     redução dos materiais comprados
+
+D)      crescimento do estoque quando a demanda for inferior ao consumo
+
+19. (FCC/TRT 4ª Região/Técnico Judiciário/2022)
+
+A administração de recursos materiais constitui uma atividade que deve levar em conta conceitos
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         42
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+e indicadores especíﬁcos, recorrentemente citados na literatura especializada, entre os quais se
+insere:
+
+A) o nível de serviço, calculado dividindo-se o número de pedidos atendidos pelo número de
+pedidos ou requisições de materiais efetuados pelas áreas da organização.
+
+B) a curva ABC, que corresponde a um método de indexação de materiais para ﬁns de controle
+patrimonial e de estocagem de itens.
+
+C) o diagrama de Pareto, consistente em uma matriz que deﬁne os materiais que devem ser
+repostos no estoque mantido pela organização de acordo com sua perecibilidade.
+
+D) o giro de estoque, calculado dividindo-se o número de itens em estoque pelos dias de
+permanência sem utilização ou requisição pelas áreas da organização.
+
+E) o Turnover, que corresponde à rotatividade de itens em um estoque, sendo um indicador
+muito utilizado nas demonstrações ﬁnanceiras ou balanço patrimonial das empresas.
+
+20. (INSTITUTO MAIS/Câm. Mun. Santos-SP/ Gestão Pública/2022)
+
+Sobre a administração de recursos materiais, analise as proposições abaixo e assinale (V) para
+Verdadeiro ou (F) para Falso.
+
+(       ) Recurso material, em sentido lato, é todo bem físico utilizado em uma organização.
+
+(   ) Recurso material, em sentido estrito, é todo e qualquer bem físico utilizado em uma
+organização que possui natureza permanente.
+
+(   ) Recurso patrimonial é o bem físico que tem natureza transitória, sendo denominado
+também de bens de estoque.
+
+Assinale a alternativa que apresenta a sequência correta.
+
+A)     V/F/F
+
+B)     V/V/V
+
+C)     F/F/V
+
+D)      F/V/F
+
+21. (QUADRIX/CREMERO/Ass. Administrativo/2022)
+
+Com relação às noções de administração de materiais e almoxarifado, julgue o item.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          43
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Há, no total, quatro fatores fundamentais para uma boa gestão de recursos materiais: qualidade
+do material; quantidade necessária; prazo de entrega; e preço.
+
+A)     Certo
+
+B)     Errado
+
+22. (QUADRIX/CREMERO/Ass. Administrativo/2022)
+
+Com relação às noções de administração de materiais e almoxarifado, julgue o item.
+
+A administração de materiais é uma área da gestão que visa assegurar que a organização
+disponha, de modo contínuo, dos insumos necessários para suas atividades.
+
+A)     erto
+
+B)     Errado
+
+23.             (QUADRIX/CREMERO/Ass. Administrativo/2022)
+
+Com relação às noções de administração de materiais e almoxarifado, julgue o item.
+
+A qualidade de material manipulado por vez e a frequência com que são realizadas as diversas
+movimentações estão ligadas às variações que o material sofre durante o processo, ao seu grau
+de especialização e às características dos produtos nas diversas fases.
+
+A)     Certo
+
+B)     Errado
+
+24.             (QUADRIX/CREMERO/Ass. Administrativo/2022)
+
+Com relação às noções de administração de materiais e almoxarifado, julgue o item.
+
+Não se associam à administração de materiais os serviços a eles relacionados, como assistência
+técnica, seguros, distribuição regionalizada e reposição automática.
+
+A)     Certo
+
+B)     Errado
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       44
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+25.             (QUADRIX/CREMERO/Ass. Administrativo/2022)
+
+Com relação às noções de administração de materiais e almoxarifado, julgue o item.
+
+As áreas e os itens a sere minventariados deverão ser arrumados da melhor forma possível,
+agrupando-se os produtos iguais e identiﬁcando-se todos os materiais com os seus respectivos
+cartões.
+
+A)     Certo
+
+B)     Errado
+
+26.            (QUADRIX/CFFA/Ass. Administrativo/2022)
+
+A respeito das noções de administração de materiais, julgue o item.
+
+O relatório de inspeção é uma descrição dos materiais recebidos, isto é, de suas quantidades, seu
+fornecedor e seu número de pedido de compra, entre outras informações oportunas.
+
+A)     Certo
+
+B)     Errado
+
+27. (QUADRIX/CRM-SC/Ass. Administrativo/2022)
+
+Acerca das noções de administração de materiais, julgue o item.
+
+A internalização ocupa-se da maneira como devem ser utilizados os materiais, em suas diversas
+ﬁnalidades, e da padronização e da identiﬁcação do material.
+
+A)     Certo
+
+B)     Errado
+
+28. (FUNDATEC/Câm. Mun. Bagé-RS/Agente Legislativo)
+
+Segundo Dias (2012), em relação aos conceitos da Administração de Materiais, estabelecer
+sequencialmente as tarefas/trabalhos a serem executados, de acordo com datas estipuladas para
+cada tarefa/trabalho desta sequência, denomina-se:
+
+A)     Organograma.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         45
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+B)     Pentagrama.
+
+C)     Cronograma.
+
+D)      Fluxograma.
+
+E)     Diagrama.
+
+29. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021)
+
+Sobre administração de material e patrimônio, assinale (V) para as aﬁrmativas VERDADEIRAS e (F)
+para as FALSAS.
+
+( ) Patrimônio material é constituído por todos os bens móveis e imóveis pertencentes ao ente
+público.
+
+( ) Esses bens vão desde as instalações físicas, passando pela mobília, aparelhos eletroeletrônicos,
+equipamentos etc. (materiais permanentes) e chegando aos papéis, cartuchos de tinta para
+impressora, itens de higiene e limpeza etc. (materiais de consumo).
+
+( ) O Just in Time é uma das principais Técnicas de Administração de Patrimônio. Trata-se de um
+sistema que garante a quantidade exata, na hora certa, que atenda às necessidades de demanda
+com o mínimo em estoque, buscando assim a eliminação de tudo que não agregue valor ao
+produto ou serviço realizado.
+
+Marque a opção que apresenta a sequência CORRETA.
+
+A)     F – F – F.
+
+B)     V – V – F.
+
+C)     F – V – F.
+
+D)      F – F – V.
+
+E)     V – V – V.
+
+30. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021)
+
+Sabemos que a gestão de materiais é um ramo especíﬁco da ciência da administração. Sobre as
+gestões, assinale (V) para as aﬁrmativas VERDADEIRAS e (F) para as FALSAS, sobre quais
+pertencem à gestão de materiais.
+
+(              ) Gestão de resíduos sólidos.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            46
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+(              ) Gestão de estoque.
+
+(              ) Gestão do tratamento d´água.
+
+(              ) Gestão de compras.
+
+Marque a opção que apresenta a sequência CORRETA.
+
+A)     F – F – F – F.
+
+B)     V – V – F – F.
+
+C)     F – V – F – V.
+
+D)      V – V – V – V.
+
+E)     F – F – V – V.
+
+31.             (QUADRIX/CRBM4PA/Agente Administrativo/2021)
+
+Em termos genéricos, a administração consiste no processo de planejar, organizar, dirigir e
+controlar o uso de recursos e competências, a ﬁm de alcançar os objetivos organizacionais
+desejados.
+
+Idalberto Chiavenato. Introdução à teoria geral da administração: uma
+
+visão abrangente da moderna administração das organizações. 5.ª ed. São Paulo: Atlas, 2021, p.
+10.
+
+Tendo o texto acima como referência inicial, julgue o item a seguir.
+
+Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface com
+diversos setores da organização e deve atuar de modo a conciliar interesses conﬂitantes,
+harmonizando as necessidades desses setores para assegurar a disponibilidade dos bens
+necessários para a operacionalização da produção.
+
+A)     Certo
+
+B)     Errado
+
+32.             (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021)
+
+O que diferencia um recurso material de um recurso patrimonial?
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       47
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A)     O recurso patrimonial é de natureza permanente.
+
+B)     O recurso material é de natureza permanente.
+
+C)     O recurso patrimonial é um material de consumo.
+
+D)      O recurso material é um equipamento de produção.
+
+E)     O recurso patrimonial é bem de estoque.
+
+33.            (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021)
+
+Quanto à administração de recursos materiais, julgue o item.
+
+A organização é o somatório de quatro pilares: indivíduos; recursos; tarefas coordenadas; e
+objetivos comuns.
+
+A)     Certo
+
+B)     Errado
+
+34. (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de recursos
+materiais, julgue o item.
+
+Recursos são os meios empregados por uma organização para a consecução de seus objetivos.
+São as ferramentas que servem de base para o desempenho organizacional. Como exemplos de
+recursos tangíveis, podem ser citadas as patentes e as logomarcas registradas.
+
+A)     Certo
+
+B)     Errado
+
+35. (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021)
+
+Quanto à administração de recursos materiais, julgue o item.
+
+São três os atributos de um bom sistema de classiﬁcação de materiais: a abrangência; a
+ﬂexibilidade; e a praticidade.
+
+A)     Certo
+
+B)     Errado
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais    48
+           www.estrategiaconcursos.com.br                                               165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+36. (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021)
+
+Quanto à administração de recursos materiais, julgue o item.
+
+Na classiﬁcação de materiais, o atributo ﬂexibilidade está ligado à abordagem das características
+dos materiais, levando em consideração aspectos físicos, ﬁnanceiros e contábeis.
+
+A)     Certo
+
+B)     Errado
+
+37. (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021)
+
+Quanto à administração de recursos materiais, julgue o item.
+
+Além dos atributos de um sistema de classiﬁcação de materiais, há também os princípios que o
+regem. São eles: catalogação; redução; identiﬁcação; normalização; e intercambialidade.
+
+A)     Certo
+
+B)     Errado
+
+38. (GUALIMP/Pref. Mun. Com. Levy Gasparian-RJ/Almoxarife/2021)
+
+Fichas de prateleira devem conter informações. Não é uma delas:
+
+A)     Lote.
+
+B)     Unidade.
+
+C)     Relatividade.
+
+D)      Referência.
+
+39. (CP CAP/Marinha/Corpo Auxiliar de Praça/2021)
+
+Na administração de materiais, a verticalização é a estratégia de aquisição de recursos materiais
+e patrimoniais que prevê que a empresa produzirá internamente tudo o que puder. Assim,
+classiﬁque os itens abaixo como Vantagens (V) ou Desvantagens (D) dessa estratégia e assinale a
+opção correta.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         49
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+( ) Independência de terceiros.
+
+( ) Maior investimento .
+
+( ) Menor ﬂexibilidade.
+
+( ) Maiores lucros.
+
+( ) Maior autonomia.
+
+( ) Aumento da estrutura da empresa.
+
+A) (D) (D) (D) (V) (V) (D)
+
+B) (D) (D) (D) (V) (D) (V)
+
+C) (V) (D) (D) (V) (V) (V)
+
+D) (V) (D) (D) (V) (D) (V)
+
+E) (V) (D) (D) (V) (V) (D)
+
+40. (INSTITUTO MAIS/SMTCA/Auxiliar Administrativo/2021)
+
+Sobre as fases da administração de recursos materiais e patrimoniais, assinale a alternativa correta.
+
+A)     Produtividade, qualidade e volume adequado.
+
+B)     Produtividade, qualidade e agilidade.
+
+C)     Qualidade e volume adequado, apenas.
+
+D)     Qualidade, volume adequado e estoque mínimo.
+
+41. (INSTITUTO MAIS/SMTCA/Auxiliar Administrativo/2021)
+
+De acordo com o ﬂuxo de administração de , diz respeito desde circuito de reprovisionamento,
+inclusive compras, o recebimento, a armazenagem dos materiais, o fornecimento dos mesmos aos
+órgãos requisitantes e demais operações gerais de controle de estoques. Assinale a alternativa
+que preenche corretamente a lacuna.
+
+A)     produtos acabados
+
+B)     produtos semiacabados
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais             50
+           www.estrategiaconcursos.com.br                                                         165
+
+                                       
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+C)      produtos industrializados
+
+D)       materiais
+
+42.             (INSTITUTO MAIS/SETEC CAMPINAS/Agente/2021)
+
+Sobre a administração de materiais, analise os elementos fundamentais para gestão e assinale (V)
+para Verdadeiro ou (F) para Falso.
+
+(        ) Qualidade do material, quantidade necessária e prazo de entrega.
+
+(        ) Layout do armazém e logística reversa.
+
+(        ) Preço e condições de pagamento.
+
+Assinale a alternativa que apresenta a sequência correta.
+
+A)      F/V/F
+
+B)      V/V/F
+
+C)      F/F/V
+
+D)       V/F/V
+
+43.              (INSTITUTO MAIS/SETEC CAMPINAS/Agente/2021)
+
+Com relação às fases da administração de recursos de materiais e patrimoniais, analise as
+proposições abaixo.
+
+I.      Aumento de produtividade e busca pela eﬁciência.
+
+II.      Aumento de qualidade sem preocupação em prejudicar outras áreas da organização.
+
+III.     Gerar quantidade certa para o momento certo.
+
+É correto o que se aﬁrma em
+
+A)      I e II, apenas.
+
+B)      I e III, apenas.
+
+C)      II e III, apenas.
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais       51
+            www.estrategiaconcursos.com.br                                                   165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+D)      I, II e III.
+
+44. (INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020)
+
+Dentre as subfunções especíﬁcas da administração de materiais, assinale a alternativa que
+apresenta aquela que veriﬁca a aplicação das normas e dos procedimentos estabelecidos para o
+funcionamento da administração de materiais em toda a organização, analisando os desvios da
+política de suprimento traçada pela administração e proporcionando soluções.
+
+A)     Transporte de material.
+
+B)     Inspeção de suprimentos.
+
+C)     Classiﬁcação de material.
+
+D)      Padronização de material.
+
+E)     Normalização de material.
+
+45. (VUNESP/FITO/Analista de Gestão/2020)
+
+A empresa de instalação de aquecedores de passagem ABC vem registrando aumento, nos
+últimos três meses, no volume de reclamações de clientes insatisfeitos e cancelamento das
+cotações de preços para serviços de instalações, pois tem apresentado uma demora cada vez
+maior nas respostas das cotações. Ao analisar com os responsáveis o que estava gerando o atraso
+para responder aos clientes, a empresa evidenciou que as demoras eram decorrentes da
+incapacidade de assegurar que o material necessário para as instalações das chaminés estivesse
+na quantidade devida, no estoque determinado, quando se fazia necessário. Essa condição
+decorre da
+
+A)     aplicação incorreta da ferramenta de análise 360º de oportunidades de negócio.
+
+B) análise conceitual incorreta dos pontos fortes ( strenghts) e fracos ( weaknesses) obtidos por
+meio da análise SWOT.
+
+C)     falha na execução de funções básicas do almoxarifado.
+
+D) análise conceitual incorreta das oportunidades ( opportunities) e ameaças ( threats) obtidas
+por meio da análise SWOT.
+
+E) realização equivocada da avaliação das 5 Forças de Porter quando deveria ter implementado
+a Matriz BTG.
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais        52
+            www.estrategiaconcursos.com.br                                                    165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+46. (ITAME/Pref. Sen. Canedo-GO/Assistente Administrativo/2020)
+
+De acordo com os subsistemas da administração de materiais, assinale a alternativa que
+corresponda com a correta deﬁnição de Subsistema de Armazenagem / Almoxarifado:
+
+A)   responsável pela gestão física dos estoques, compreendendo as atividades de guarda,
+preservação, embalagem, recepção e expedição de material, segundo determinadas normas e
+métodos de armazenamento. É o subsistema responsável pela guarda física dos materiais em
+estoque, com exceção dos produtos em processo.
+
+B)    responsável pela gestão, negociação e contratação de compras de material através do
+processo de licitação. Preocupa-se sobremaneira com o estoque de matéria-prima. É da
+responsabilidade deste subsistema assegurar que as matérias-primas exigidas pela produção
+estejam à disposição nas quantidades certas, nos períodos desejados.
+
+C)    encarregado do controle e normalização das transações de recebimento, fornecimento,
+devoluções, transferências de materiais e quaisquer outros tipos de movimentações de entrada e
+de saída de material.
+
+D)      encarregado do cadastramento de fornecedores, pesquisa de mercado e compras.
+
+47.(QUADRIX/CRBM 4 PA/Agente Administrativo/2021)
+
+Em termos genéricos, a administração consiste no processo de planejar, organizar, dirigir e
+controlar o uso de recursos e competências, a ﬁm de alcançar os objetivos organizacionais
+desejados. Idalberto Chiavenato. Introdução à teoria geral da administração: uma visão
+abrangente da moderna administração das organizações. 5.ª ed. São Paulo: Atlas, 2021, p. 10.
+
+Tendo o texto acima como referência inicial, julgue o item a seguir.
+
+Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface com
+diversos setores da organização e deve atuar de modo a conciliar interesses conﬂitantes,
+harmonizando as necessidades desses setores para assegurar a disponibilidade dos bens
+necessários para a operacionalização da produção.
+
+a)     CERTO
+
+b)     ERRADO
+
+48.(INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021)
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       53
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+O que diferencia um recurso material de um recurso patrimonial?
+
+a)     O recurso patrimonial é de natureza permanente.
+
+b)     O recurso material é de natureza permanente.
+
+c)     O recurso patrimonial é um material de consumo.
+
+d)     O recurso material é um equipamento de produção.
+
+e)     O recurso patrimonial é bem de estoque.
+
+49.(QUADRIX/CRP 14 MS/Assessor Técnico/2021)
+
+Julgue o item.
+
+O objetivo da administração de materiais é garantir a qualidade e a quantidade adequada dos
+materiais no momento certo.
+
+a)     CERTO
+
+b)     ERRADO
+
+50.(QUADRIX/CRP 14 MS/Auxiliar Administrativo/2021)
+
+Julgue o item.
+
+O maior objetivo de um gestor de recursos materiais é utilizar os recursos da melhor forma
+possível, sem gastos desnecessários, sem perdas, sem desperdícios e sem afetar negativamente
+a operação da instituição.
+
+a)     CERTO
+
+b)     ERRADO
+
+51.(QUADRIX/CRP 14 MS/Auxiliar Administrativo/2021)
+
+Julgue o item.
+
+O ciclo da administração de materiais envolve diversas etapas e atividades. Essas etapas são:
+sinalização da demanda; identiﬁcação dos fornecedores; compra de materiais; e alienação.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais     54
+           www.estrategiaconcursos.com.br                                                 165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)     CERTO
+
+b)     ERRADO
+
+52.(QUADRIX/CRF MA/Assistente Administrativo/2021)
+
+Não se refere à função da administração de materiais o(a):
+
+a)     aquisição.
+
+b)     transporte.
+
+c)     arquivamento.
+
+d)     almoxarifado.
+
+e)     estoque.
+
+53.(QUADRIX/CRESS 18 SE/Coordenador-Geral/2021)
+
+Acerca da administração de patrimônios, julgue o item.
+
+A administração de materiais teve uma evolução muito grande nos últimos setenta anos. Nos anos
+1950, o foco era no inventário da organização. Já nos anos 1970, o foco mudou para a produção.
+A partir dos anos 2000, com a globalização e as parcerias cada vez mais presentes, o foco passou
+a ser em processos gerenciais.
+
+a)     CERTO
+
+b)     ERRADO
+
+54.(FADESP/UEPA/Agente Administrativo/2020)
+
+A gestão de materiais:
+
+a) é um processo simples que envolve a parte dos ﬂuxos de materiais da empresa voltados
+exclusivamente à movimentação de produtos acabados.
+
+b) consiste em dispor os materiais necessários na quantidade certa, no local certo e no tempo
+certo, à disposição dos órgãos que compõem o processo produtivo.
+
+c)      focaliza a estocagem como a atividade que deve ser a principal preocupação e requer o
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        55
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+envolvimento apenas do gestor de materiais.
+
+d) está restrita aos cargos e órgãos que têm a responsabilidade pela compra de materiais e pela
+venda de produtos.
+
+55.(FAFIPA/CISPAR/Auxiliar/2020)
+
+Com base no tema Controle de material de expediente, analise os itens a seguir e assinale a
+alternativa que apresenta qual(is) está(ão) CORRETO(S):
+
+I.      É necessário controlar a quantidade para que não ocorra falta ou excessos.
+
+II.      Os materiais devem estar disponíveis sempre que necessário.
+
+III. Um bom controle de materiais leva em consideração que os itens precisam estar no
+momento certo, na quantidade certa e no local certo, para que o processo produtivo ocorra de
+maneira adequada.
+
+a)      Apenas II está correto.
+
+b)      Apenas III está correto.
+
+c)      Apenas I está correto.
+
+d)      Todos estão corretos.
+
+e)      Todos estão incorretos.
+
+56.(VUNESP/VALIPREV/Agente Administrativo/2020)
+
+Para que exista a economia de suprimentos no setor público, é preciso gerir corretamente os
+recursos, assim como realizar bem a gestão logística. Nesse sentido, deve-se atuar na gestão de:
+
+a)      licitações, contratos, de compra e venda e avaliação 360º.
+
+b)      bens e serviços, de preços e cotações, plataforma e IoT.
+
+c)      orçamento, compra e venda, de estoques e inovação tecnológica.
+
+d)      compra, estoque, contratos, plataforma e inovação incremental.
+
+e)      estoques, de bens e serviços, contratos e fornecedores.
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais       56
+            www.estrategiaconcursos.com.br                                                   165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+57.(FEPESE/Pref. Mun. Itajaí-SC/Agente/2020)
+
+Um servidor público, diante da busca por melhorias no seu trabalho, realizou algumas medidas
+tais como: criou padrões e regras para organização, desenhou um ﬂuxo de entrada e saída, deﬁniu
+datas e períodos de compras e deﬁniu um volume mínimo e máximo para cada produto. Diante
+dessas ações, o servidor fez melhorias visando ao controle de:
+
+a)     saída.
+
+b)     estoque.
+
+c)     materiais.
+
+d)     recebimento.
+
+e)     conservação.
+
+58.(QUADRIX/CREFONO 1/Proﬁssional Administrativo/2020)
+
+A respeito da administração ﬁnanceira e da administração de pessoas e de materiais, julgue o
+item. A administração de recursos materiais engloba a seguinte sequência de operações:
+identiﬁcação do fornecedor; compra do bem; seu recebimento; transporte interno e
+acondicionamento; transporte durante o processo produtivo; armazenagem como produto
+acabado; e, ﬁnalmente, sua distribuição.
+
+a)     CERTO
+
+b)     ERRADO
+
+59.(INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020)
+
+A administração de materiais é um sistema integrado destinado a dotar a administração dos meios
+necessários ao suprimento de materiais no tempo oportuno, na quantidade necessária, na
+qualidade requerida e pelo menor custo. Assinale a alternativa que apresenta consequências do
+mal planejamento do tempo oportuno e da quantidade necessária no suprimento de materiais.
+
+a)     Estoques elevados e ociosidade de materiais.
+
+b)     Insuﬁciência de estoque e ineﬁciência operacional.
+
+c)     Retenções ociosas de capital e compras adicionais.
+
+d)     Defeitos na fabricação e interrupções de máquinas.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       57
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+e)     Custos ﬁnanceiros indesejáveis e lucros cessantes.
+
+60.(INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020)
+
+A decomposição da atividade de Administração de materiais permite identiﬁcar as subfunções ou
+os subsistemas típicos e especíﬁcos. Dentre os subsistemas típicos, qual é responsável pela gestão
+econômica dos estoques, por meio do planejamento e da programação de material,
+compreendendo a análise, a previsão, o controle e o ressuprimento de material?
+
+a)     Controle de estoque.
+
+b)     Aquisição de material.
+
+c)     Cadastro de fornecedores.
+
+d)     Movimentação de material.
+
+e)     Armazenamento de material.
+
+61.(FAPEC/UFMS/Assistente em Administração/2020)
+
+Sobre a Administração de Recursos Materiais, analise as assertivas a seguir.
+
+I - A Administração de Materiais compreende processos e projetos que se desenvolvem no
+contexto da cultura organizacional.
+
+II - Recursos materiais são também denominados recursos físicos e englobam todos os aspectos
+materiais e físicos que a organização utiliza para produzir.
+
+III - A Administração de Materiais consiste em ter os materiais necessários na quantidade
+certa, no local certo e no tempo certo, à disposição das unidades que compõem o funcionamento
+da organização.
+
+IV - A Administração de Materiais corresponde à totalidade das funções relacionadas com os
+materiais, seja com sua programação, aquisição, estocagem, distribuição, etc.
+
+V - A Administração de Materiais diz respeito à totalidade de recursos disponíveis em uma
+organização em termos tecnológicos, humanos e patrimoniais.
+
+Assinale a alternativa correta.
+
+a)     Apenas I, III, IV e V estão corretas.
+
+b)     Apenas IV e V estão corretas.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          58
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+c)     Apenas I, III e IV estão corretas.
+
+d)     Apenas III e IV estão corretas.
+
+e)     Apenas II, III e IV estão corretas.
+
+62.(FAPEC/UFMS/Assistente em Administração/2020)
+
+Acerca dos procedimentos fundamentais da administração de materiais, assinale a alternativa
+correta.
+
+a) Gestão refere-se à atividade que focaliza o cadastro de materiais necessários à manutenção
+e ao desenvolvimento da organização.
+
+b) Recebimento refere-se à atividade de assegurar a ﬁel guarda dos materiais conﬁados pela
+organização, objetivando sua preservação até o consumo ﬁnal.
+
+c) Almoxarifado refere-se à atividade de assegurar o rápido recebimento de materiais adquiridos
+pela organização.
+
+d) Cadastramento refere-se à atividade de gerenciamento dos estoques, por meio de técnicas
+que permitam manter o equilíbrio com o consumo.
+
+e)     Compras corresponde à atividade que tem por ﬁnalidade suprir as necessidades da
+organização, mediante aquisição de materiais ou serviços, com base no levantamento de
+solicitações dos usuários.
+
+63.(ITAME/Pref. Mun. Edéia-GO/Assistente Administrativo/2020)
+
+Os Recursos Materiais são aqueles que:
+
+a)  constituem todos os aspectos relacionados com o dinheiro utilizado pela empresa para
+ﬁnanciar suas operações;
+
+b)     constituem toda forma de atividade humana dentro da empresa;
+
+c) constituem toda atividade voltada para o atendimento do mercado de clientes e
+consumidores da empresa;
+
+d)    refere-se aos elementos físicos empregados por uma organização e concorre para a
+constituição de seu produto ﬁnal, que poderá ser um material processado ou serviço.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       59
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+64.(ITAME/Pref. Mun. Ipiranga de Goiás-GO/Auxiliar Administrativo/2020)
+
+Podemos deﬁnir como gestão de materiais o conjunto de atividades desenvolvidas dentro de uma
+empresa, de forma centralizada ou não, destinadas a suprir as diversas unidades, com materiais
+necessários ao desempenho normal das respectivas atribuições. Nesse contexto, podemos deﬁnir
+como a missão do gestor de materiais o que se aﬁrma em:
+
+a) Assegurar um satisfatório padrão de qualidade no atendimento das necessidades de seus
+clientes e elevar a produtividade da empresa, administrando os materiais, recursos e as
+informações relacionadas.
+
+b)     Compras, recebimento, armazenamento, fornecimento e controle de estoque.
+
+c) Garantir a existência contínua de um atendimento organizado, de modo a nunca faltar
+nenhum dos itens que o compõe, sem excessos.
+
+d) Suprimento de materiais na quantidade necessária, qualidade requerida, tempo oportuno e
+menor custo.
+
+65.(IDCAP/SAAE Ibiraçu/Auxiliar/2020)
+
+Segundo Fenili (2016) ao inserir a gestão de materiais na administração pública pode-se aﬁrmar
+que os materiais são os recursos públicos, adquiridos e mantidos com recursos oriundos da
+sociedade. Há, portanto, o dever do agente de empregá-los da melhor forma. Assinale a
+alternativa CORRETA em relação aos objetivos da gestão de materiais:
+
+a) O objetivo central da administração de recursos materiais é maximizar o uso dos recursos
+materiais na organização pública, ou seja, evitar desperdícios.
+
+b)   Um objetivo secundário da gestão de materiais é suprir a organização dos materiais
+necessários ao seu desempenho, antecipando os pedidos e mantendo alto nível de estoque.
+
+c) Um objetivo secundário da gestão de materiais é aumentar os estoques e minimizar o uso dos
+recursos materiais.
+
+d) O objetivo central da administração de recursos materiais é minimizar o uso dos recursos
+materiais na organização pública, ou seja, evitar desperdícios.
+
+e)   Um objetivo secundário da gestão de materiais é praticar preços econômicos, receber e
+armazenar obrigatoriamente os bens em um mesmo espaço, com o intuito de reduzir custos de
+alocação.
+
+66.(IDECAN/IF RR/Assistente/2020)
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais      60
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Acerca dos principais objetivos da área de Administração de Recursos Materiais e Patrimoniais,
+assinale a alternativa correta.
+
+a)   Os custos de produção, expedição e transportes não são afetados diretamente pela
+continuidade de fornecimento.
+
+b) As despesas com pessoal não fazem parte dos principais objetivos da área de Administração
+de Recursos Materiais e Patrimoniais.
+
+c) A área de materiais é responsável apenas pela qualidade de materiais e serviços provenientes
+de fornecedores externos.
+
+d) As relações com os fornecedores, sejam elas favoráveis ou não, são alheias aos objetivos
+almejados pela área de Administração de Recursos Materiais e Patrimoniais.
+
+e)   O preço baixo implica em melhor utilização do capital, aumentando o retorno sobre os
+investimentos e reduzindo o valor do capital de giro.
+
+67.(VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015)
+
+Ao resumir a postura do Administrador Público frente aos problemas de Gestão do patrimônio e
+estoque, o administrador de estoque deve:
+
+a)     avisar a alta direção quando houver problemas de falta de estoque.
+
+b)     entrar em contato com os clientes relatando os fatos ocorridos pela falta da entrega.
+
+c)     gerenciar com efetividade os recursos existentes.
+
+d)     fazer relatório dos recursos faltantes para todos os setores da empresa.
+
+e)     entrar em contato com a Controladoria da União.
+
+68.(VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015)
+
+O conceito da Administração de materiais, no sistema de Gestão de Patrimônio e Estoque na
+Administração Pública, é:
+
+a)    um conjunto de ações destinadas a assegurar a aquisição, os registros e controles das
+atividades relacionadas com o emprego, a movimentação e a destinação dos diversos materiais.
+
+b)    a designação genérica de equipamentos, componentes, sobressalentes, acessórios,
+matérias-primas e outros itens empregados ou passíveis de empregos nas atividades dos órgãos,
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          61
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+autarquias e fundações do Poder Executivo.
+
+c) um controle exercido pelo cidadão e associações representativas da comunidade, mediante
+amplo e irrestrito exercício do direito de petição perante qualquer órgão do poder e entidade da
+Administração pública.
+
+d)   o processo pelo qual se obtém ou se consegue um material ou bem, seja de natureza
+industrial, comercial ou prestação de serviços.
+
+e)     a atividade ou função administrativa que compreende trocar dinheiro por mercadoria.
+
+69.(VUNESP/TJ-SP/Administrador Judiciário/2019)
+
+A metodologia que busca observar uma dada companhia como um conjunto de atividades inter-
+relacionadas, que buscam agregar valor especíﬁco ao cliente, indicando como um produto se
+movimenta desde a etapa da matéria-prima até a sua chegada ao consumidor ﬁnal, sendo que o
+objetivo por todo esse processo é adicionar o máximo de valor aos elos da cadeia de maneira
+menos dispendiosa possível, é denominada
+
+a)     cadeia de valor.
+
+b)     custos de transporte.
+
+c)     valor do arranjo físico.
+
+d)     custos de armazenagem.
+
+e)     picking.
+
+70.(VUNESP/UFABC/Assistente Administração/2019)
+
+Avaliar a necessidade de aquisição de suprimentos e equipamentos, evitando a compra de bens
+desnecessários ou inadequados, é função da
+
+a)     Avaliação Contábil.
+
+b)     Auditoria Patrimonial.
+
+c)     Análise Financeira.
+
+d)     Análise Patrimonial.
+
+e)     Auditoria Contábil.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        62
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+71.(VUNESP/Pref. Atibaia-SP/Assistente Serviços de Gestão Administrativa/2014)
+
+A visão moderna da cadeia de suprimentos – supply chain – enxerga todo o processo de geração
+de produtos e serviços (desde a entrada da matéria-prima até a entrega do produto ao cliente) e
+monitora esse processo de maneira integrada.
+
+Os grandes objetivos dessa visão são:
+
+a) diminuir o turnover, reduzir o tempo total, aumentar as margens dos produtos, aumentar a
+produção e melhorar índices de qualidade.
+
+b)  diminuir o turnover, reduzir o estoque, aumentar as margens dos produtos, aumentar a
+produção e melhorar o retorno do investimento.
+
+c)  reduzir os custos de fornecimento, reduzir o estoque, aumentar os ganhos ﬁnanceiros,
+aumentar a motivação e reduzir o absenteísmo.
+
+d) reduzir os custos de fornecimento, reduzir o tempo total, aumentar as margens dos produtos,
+aumentar a produção e melhorar o retorno do investimento.
+
+e) reduzir os custos de fornecimento, reduzir o tempo total, aumentar os ganhos ﬁnanceiros,
+aumentar a produção e reduzir o absenteísmo.
+
+72.(IBFD/EBSERH/Assistente Administrativo/2020)
+
+A Administração de Materiais é um conjunto de atividades desenvolvidas dentro de uma empresa,
+de forma centralizada ou não, destinadas a suprir as diversas unidades, com os materiais
+necessários ao desempenho normal das respectivas atribuições (Dias, 1993). Acerca desse assunto
+analise as aﬁrmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).
+
+( ) Compras a prazo e baixo giro de estoque são alguns dos objetivos da administração de
+materiais.
+
+( ) O Almoxarifado é o responsável pela guarda física dos materiais em estoque.
+
+( ) Avaliar outras empresas como possíveis fornecedores e supervisionar os almoxarifados da
+empresa são exemplos de responsabilidades da administração de materiais.
+
+( ) A padronização/normalização é um subsistema de apoio ao qual cabe a obtenção de menor
+número de variedades existentes de determinado tipo de material, por meio de uniﬁcação e
+especiﬁcação dos mesmos, propondo medidas de redução de estoques.
+
+Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          63
+        www.estrategiaconcursos.com.br                                                      165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)     F, V, V, F
+
+b)     V, V, V, F
+
+c)     F, V, V, V
+
+d)     V, F, V, F
+
+e)     V, V, F, V
+
+73.(FADESP/UEPA/Agente Administrativo/2020)
+
+A gestão de materiais envolve um conjunto de atividades ligado estreitamente à área de produção
+e operações de um grande número de organizações. Neste sentido, o processo produtivo
+
+a) é a contínua transformação de matérias-primas, materiais, energia e informações em produtos
+acabados ou em serviços prestados.
+
+b) diz respeito unicamente a empresas industriais, pois somente elas têm a tecnologia e as
+condições necessárias para produzir bens e serviços.
+
+c) representa toda e qualquer movimentação de materiais que saem do almoxarifado para serem
+disponibilizados para comercialização.
+
+d)     signiﬁca o trânsito percorrido pelos produtos desde que são fabricados até o armazenamento.
+
+74.(FADESP/UEPA/Agente Administrativo/2020)
+
+A gestão de materiais
+
+a) é um processo simples que envolve a parte dos ﬂuxos de materiais da empresa voltados
+exclusivamente à movimentação de produtos acabados.
+
+b) consiste em dispor os materiais necessários na quantidade certa, no local certo e no tempo
+certo, à disposição dos órgãos que compõem o processo produtivo.
+
+c) focaliza a estocagem como a atividade que deve ser a principal preocupação e requer o
+envolvimento apenas do gestor de materiais.
+
+d) está restrita aos cargos e órgãos que têm a responsabilidade pela compra de materiais e pela
+venda de produtos.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          64
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+75.(NC-UFPR/UFPR/Almoxarife/2019)
+
+O objetivo fundamental da Administração de Materiais é determinar   e     adquirir,   para
+repor o estoque, o que determina que a estratégica do abastecimento sempre é acionada pelo
+usuário, à medida que, como consumidor, ele detona o processo. Assinale a alternativa que
+preenche corretamente as lacunas.
+
+a)     como – quanto.
+
+b)     volume – o que.
+
+c)     quando – o que.
+
+d)     quando – quanto.
+
+e)     preço – como.
+
+76.(AOCP/UFRB/Assistente Administração/2019)
+
+A Administração de Recursos Materiais e Patrimoniais possui alguns objetivos e critérios para sua
+gestão. Assinale a alternativa que apresenta o objetivo que é resultado de uma análise criteriosa,
+quando da escolha dos fornecedores, e inclui os custos de produção, expedição e transportes,
+sendo que, na administração pública, esses processos estão implícitos no edital de licitação.
+
+a)     Capacitação e aperfeiçoamento de pessoal.
+
+b)     Manutenção e continuidade de fornecimento.
+
+c)     Bom relacionamento com fornecedores.
+
+d)     Despesas com recursos humanos.
+
+77.(IDCAP/SAAE Linhares/Oﬁcial Administrativo/2019)
+
+Quais dessas opções não são procedimentos da Administração de Materiais?
+
+a)     Identiﬁcação do fornecedor na compra do bem.
+
+b)     Recebimento e transporte interno.
+
+c)     Identiﬁcação do entregador na compra do bem
+
+d)     Acondicionamento e armazenagem do produto.
+
+e)     Cadastro dos salários, benefícios, metas e documentos dos funcionários da organização.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           65
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+78.(IDCAP/CM Boa Esperança-MG/Técnico Administrativo/2019)
+
+“Trata-se de conceito, no qual incluem-se os recursos materiais e os recursos patrimoniais.
+Enquanto o primeiro são materiais que têm vida útil estipulada, como o caso de materiais físicos
+que são utilizados pela empresa, o segundo são bens que são permanentes. Em ambos os casos,
+o objetivo dessa área é evitar o desperdício do material e maximizar o seu uso.”
+
+O trecho acima diz respeito à:
+
+a)     Arquivologia.
+
+b)     Protocolo.
+
+c)     Direito Administrativo.
+
+d)     Administração de materiais.
+
+e)     Distribuição.
+
+79.(FEPESE/CELESC/Técnico Industrial/2018)
+
+Assinale a alternativa que indica o conceito correto com relação à Administração de Recursos
+Materiais.
+
+a) Engloba a sequência de operações que tem início na identiﬁcação do fornecedor, na compra
+do bem ou serviço, em seu recebimento, transporte interno e acondicionamento (armazenagem),
+em seu transporte durante o processo produtivo, em sua armazenagem como produto acabado
+e, ﬁnalmente, em sua distribuição ao consumidor ﬁnal.
+
+b)     Engloba o recebimento, transporte interno, armazenagem e distribuição de bens ou serviços.
+
+c) Engloba a sequência de operações que tem início na identiﬁcação do fornecedor, na compra
+do bem ou serviço, em seu recebimento, acondicionamento como produto acabado e, ﬁnalmente,
+em sua distribuição ao consumidor ﬁnal.
+
+d)   Engloba exclusivamente as atividades de controle computacional de todos os materiais
+adquiridos, armazenados e expedidos pela empresa.
+
+e)     Signiﬁca um controle apurado de estoques.
+
+80.(CS UFG/CM GYN/Assistente Técnico Legislativo/2018)
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          66
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Os três principais nichos da gestão de materiais são:
+
+a)     a gestão dos centros de distribuição, a gestão de estoques e a gestão de compras.
+
+b)     a gestão de recursos patrimoniais, a gestão de clientes e a gestão de cúpula.
+
+c)     a gestão de serviços gerais, a gestão de contratos e a gestão de fornecedores.
+
+d)     a gestão de catalogação, a gestão de especiﬁcação e a gestão de normalização.
+
+81.(INAZ-PA/CRF-SC/Atendente Técnico Fiscal/2018)
+
+Sendo os materiais recursos públicos, adquiridos e mantidos com recursos oriundos da sociedade,
+há o dever do agente de empregá-los da melhor forma. Encontramos várias atividades inseridas
+na gestão de recursos materiais. Qual das alternativas abaixo não se relaciona ao processo de
+gestão de materiais?
+
+a)     Gestão dos centros de distribuição.
+
+b)     Gestão de patrimônios.
+
+c)     Gestão de compras.
+
+d)     Gestão de estoques.
+
+e)     Gestão de suprimento de fundos.
+
+82.(AOCP/UNIR-RR/Assistente Administração/2018)
+
+A Área de Gestão de Materiais possui grande inﬂuência sobre a logística e os custos dos produtos.
+Ela é responsável por gerir todos os processos que envolvem desde a compra de matéria-prima
+(MP), até armazenagem e destinação. Referente ao assunto, julgue, como VERDADEIRO ou
+FALSO, o item a seguir.
+
+A Área de Gestão de Materiais tem por ﬁnalidade o controle do abastecimento e de saída de todos
+os bens materiais, ou seja, dos itens para fabricação de produtos, ou produtos fabricados
+destinados à comercialização.
+
+a)     Certo
+
+b)     Errada
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         67
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+83.(FUNCERN/CP Trairi-CE/Auxiliar Administrativo/2018)
+
+Quanto a administração de materiais, pode-se aﬁrmar que
+
+a) a administração de materiais se preocupa em atender às demandas solicitadas, cujo prazo é
+de 30 dias para a entrega dos produtos.
+
+b) a administração de materiais se preocupa em atender às demandas solicitadas, tendo como
+prazo o mínimo de 10 dias úteis para a entrega dos produtos.
+
+c)  a administração de materiais tem como ﬁnalidade garantir os materiais necessários na
+quantidade certa, no local certo e no tempo à disposição dos setores produtivos da empresa.
+
+d) a administração de materiais tem como ﬁnalidade garantir os bens manufaturados após 15
+dias da solicitação pelos setores produtivos da empresa.
+
+84.(FEPESE/JUCESC/Técnico em Atividades Administrativas/2017)
+
+Qual área de administração de uma organização que normalmente é responsável pelos centros
+de distribuição, estoques, compras e recursos patrimoniais?
+
+a)     Jurídico
+
+b)     Projetos
+
+c)     Materiais
+
+d)     Qualidade
+
+e)     Pessoas
+
+85.(CS UFG/UFG/Auxiliar Administração/2017)
+
+Pode-se deﬁnir administração de materiais do seguinte modo:
+
+a) atividade que planeja, executa e controla o ﬂuxo de material, com base nas especiﬁcações
+dos artigos para a compra até a entrega do produto.
+
+b) estratégia organizacional de otimização de lucros por meio da adequação da produção e
+oferta de mercadorias ou serviços às necessidades e preferências dos consumidores, recorrendo
+a pesquisas de mercado e design.
+
+c)   área que trata das decisões de investimento e ﬁnanciamento, bem como dos principais
+indicadores ﬁnanceiros e de suas implicações no planejamento do futuro da organização.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais      68
+           www.estrategiaconcursos.com.br                                                 165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+d) associação de habilidades e métodos, políticas, técnicas e práticas deﬁnidas, com o objetivo
+de administrar os comportamentos internos e potencializar o capital humano nas organizações.
+
+86.(AOCP/CM Maringá-PR/Assistente Administrativo/2017)
+
+No que diz respeito à Gestão de Materiais, entende-se que são objetivos da Administração,
+EXCETO
+
+a)     o suprimento nas quantidades necessárias.
+
+b)     a prática de preços econômicos.
+
+c)     o local de armazenamento apropriado.
+
+d)     o armazenamento da maneira correta.
+
+e)     os estoques maximizados.
+
+87.(AOCP/CODEM/Assistente Administrativo/2017)
+
+Referente aos principais enfoques dos administradores de materiais, assinale a alternativa que
+apresenta aquele que é, em grande parte, baseado em técnicas que integram os elementos de
+tecnologia de manufatura e otimizam a utilização de pessoas, materiais e instalações ou
+equipamentos.
+
+a)     Sistemas de controles.
+
+b)     Administração de recursos.
+
+c)     Sistemas de informações.
+
+d)     Processos de fabricação.
+
+e)     Integração de sistemas tecnológicos.
+
+88.(FUNDATEC/CREMERS/Assistente Básico/2017)
+
+Uma tradicional organização de um sistema de materiais pode ser dividida em áreas de
+concentração. Assinale a alternativa que NÃO corresponde a uma dessas áreas de concentração.
+
+a)     Controle de Estoques.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       69
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     Compras.
+
+c)     Almoxarifado.
+
+d)     Planejamento e Controle da Produção.
+
+e)     Ouvidoria.
+
+89.(RHS Consult/CM Cerquilho-SP/Assistente de RH e Tesouraria/2016)
+
+É função do administrador de recursos materiais e patrimoniais:
+
+a)     Receber qualquer tipo de bem doado por pessoa jurídica.
+
+b)     Doar o patrimônio usado exclusivamente para instituições ﬁlantrópicas.
+
+c)     Recepção, registro, controle, utilização e desfazimento do ativo permanente.
+
+d)     Comprar, vender, cadastrar e doar recursos materiais e patrimoniais.
+
+e)     Autorizar a aquisição de bens imóveis.
+
+90.(FUNDEP/CM Ibirité-MG/Técnico Material/2016)
+
+Na área funcional da administração de materiais, a administração é desenvolvida através da
+atuação gerencial e de exercícios diários das atribuições e responsabilidades de cada funcionário
+da área. A rotina depende do uso das técnicas e recursos necessários para realização dos
+trabalhos.
+
+Referente aos elementos necessários para a realização das rotinas da administração de
+materiais, assinale a alternativa INCORRETA.
+
+a)     O Almoxarifado é o departamento responsável pela guarda física dos materiais em estoque.
+
+b) O Setor de Compras preocupa-se também em realizar a aquisição de materiais e mercadorias
+no preço mais favorável possível.
+
+c) Arquivos, prateleiras, pallets e veículos são os recursos que serão transformados para
+produção de bens ou realização dos serviços.
+
+d)  Os materiais são todos os artigos essenciais para a atividade produtiva da organização
+empresarial (matérias-primas, máquinas, equipamentos, ferramentas, utensílios e outros).
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         70
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+91.(FUNDEP/CM Ibirité-MG/Técnico Material/2016)
+
+Eﬁciência é um princípio da administração de recursos, é mais que uma simples medida numérica
+de desempenho.
+
+Com relação à abordagem, a produtividade e o desempenho nas organizações, analise as
+aﬁrmativas a seguir e assinale com as V as verdadeiras e com F as falsas.
+
+( ) Eﬁciência signiﬁca realizar as tarefas de modo inteligente, com o mínimo de esforço e com o
+melhor aproveitamento possível de recursos.
+
+( ) O oposto da eﬁciência é o desperdício e é o que ocorre, por exemplo, quando se consomem
+recursos e nenhum objetivo é realizado.
+
+( ) A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os
+mesmos resultados anteriores, mas com o uso de menos recursos.
+
+( ) A eﬁciência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade
+dos produtos e serviços e são critérios de grande importância para a avaliação de desempenho.
+
+Assinale a sequência CORRETA.
+
+a)     FVFV
+
+b)     VVFV
+
+c)     FFVV
+
+d)     VVVF
+
+92.(AOCP/UFFS/Administrador/2016)
+
+Como a Administração de Materiais consegue promover uma maior margem de lucro de forma
+quantiﬁcável?
+
+a)     Desenvolvendo marketing de compras.
+
+b)     Planejando estrategicamente as aquisições e promovendo padronização nos materiais.
+
+c)     Reduzindo os custos operativo, do capital e do material.
+
+d)     Promovendo análise SWOT.
+
+e)     Utilizando o método análise de valor.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         71
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+93.(FEPESE/CM São José-RS/Auxiliar Administrativo/2016)
+
+É objetivo da administração de materiais:
+
+a)     Planejar expansões da organização.
+
+b)     Decidir sobre a substituição de materiais no processo produtivo.
+
+c)     Detectar a necessidade de treinamentos em geral.
+
+d)     Maximizar a utilização dos recursos da empresa.
+
+e)     Contratar mão de obra especializada quando necessário.
+
+94.(FCC/TRE-RR/Analista Judiciário/2015)
+
+As funções da Administração de Materiais são consideradas como a
+
+a) estrutura de um sistema para solucionar problemas por meio do uso de um conjunto
+especíﬁco de técnicas, um corpo de conhecimento e pessoas especializadas.
+
+b)     atividade que planeja as compras empresariais.
+
+c)     atividade que executa a entrega do produto ao cliente ﬁnal.
+
+d) sequência estruturada de atividades que, por meio de ações físicas, comportamentais e/ou
+informações, permitem a agregação de valor a uma ou mais entradas, transformando-as em uma
+ou mais saídas.
+
+e) sequência de operações que se inicia na identiﬁcação do fornecedor, na compra do bem, seu
+recebimento, transporte interno e acondicionamento, seu transporte durante o processo
+produtivo/uso, na armazenagem como produto acabado e na sua distribuição ao consumidor ﬁnal.
+
+95.(IBFC/MGS/Técnico Superior Especializado/2015)
+
+Leia as aﬁrmações abaixo e assinale a alternativa correta.
+
+I.    Os órgãos envolvidos com a Administração de Materiais são os seguintes: compras,
+planejamento e controle de materiais, armazenamento, programação da produção, distribuição
+e logística externa.
+
+II. O ciclo da Administração de Materiais é: Necessidade do cliente, análise, reposição dos
+materiais, recebimento, armazenamento e logística (distribuição / entrega).
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais     72
+           www.estrategiaconcursos.com.br                                                165
+
+                                       
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+a)      Somente a aﬁrmação I está correta.
+
+b)      Somente a aﬁrmação II está correta.
+
+c)      Nenhuma das aﬁrmações está correta.
+
+d)      Todas as aﬁrmações estão corretas.
+
+96.(CEBRASPE/MDIC/Agente Administrativo/2014)
+
+Com referência à gestão de materiais, julgue o item.
+
+Os principais problemas relativos à administração de materiais são: a má localização dos
+estoques, o armazenamento inadequado, os erros de cálculo nos relatórios de entrada e saída de
+materiais, os erros gerados no recebimento, o esquecimento e atraso na emissão de documentos
+relativos à entrada e saída de material e a inadequação nos procedimentos de contagem física.
+
+a)      Certo
+
+b)      Errada
+
+97.(FGV/TCE-BA/Agente Público/2014)
+
+Sobre as vantagens competitivas que uma empresa obtém com uma administração de materiais
+bem organizada, analise os itens a seguir.
+
+I.         Redução de custos.
+
+II.         Redução do volume de investimentos em estoques.
+
+III.            Melhores condições de compra por meio de negociações com os fornecedores.
+
+Assinale:
+
+a)      se apenas o item I estiver correto.
+
+b)      se apenas os itens I e II estiverem corretos.
+
+c)      se apenas os itens I e III estiverem corretos.
+
+d)      se apenas os itens II e III estiverem corretos.
+
+e)      se todos os itens estiverem corretos.
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais      73
+            www.estrategiaconcursos.com.br                                                  165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+98.(CONSULPLAN/PM Cascavel-PR/Administrador/2014)
+
+“A administração de materiais moderna é conceituada e estudada como um sistema integrado em
+que diversos subsistemas próprios interagem para constituir um todo organizado.”
+
+Um dos objetivos da área de administração de recursos materiais é o(a)
+
+a)     preço alto.
+
+b)     baixo giro de estoques.
+
+c)     consistência de qualidade.
+
+d)     alto custo de aquisição e posse.
+
+e)     descontinuidade de fornecimento.
+
+99.(FEPESE/MP TCE-SC/Analistas de Contas Públicas/2014)
+
+Analise o texto abaixo:
+
+A                           tem como foco a garantia de existência contínua de um estoque,
+
+organizado de modo a nunca faltar nenhum dos itens que o compõem, sem tornar excessivo o
+investimento total.
+
+Assinale a alternativa que completa corretamente a lacuna do texto.
+
+a)     gestão de materiais
+
+b)     metodologia de redesenho
+
+c)     baixa por alienação ou doação
+
+d)     contratação (MAS/APS)
+
+e)     reengenharia
+
+100.            (FCC/Sabesp/Analistas de Gestão/2014)
+
+Analise o texto abaixo:
+
+O sistema de materiais, dentro de uma empresa privada com ﬁns lucrativos, pode ser dividido
+em algumas áreas de concentração ou setores, como:
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        74
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)     compras; controladoria.
+
+b)     relações públicas; almoxarifado.
+
+c)     controle de estoques; transportes e distribuição.
+
+d)     planejamento da produção; recursos humanos.
+
+e)     auditoria; importação.
+
+101.            (FCC/SERGAS/Administrador/2013)
+
+A teoria da administração de recursos materiais aﬁrma que as empresas estão sujeitas ao
+denominado “ciclo da administração de materiais”. A sequência correta de operações é,
+respectivamente,
+
+a)     clientes, transporte, compra de materiais e expedição.
+
+b)     identiﬁcação de demanda, expedição, identiﬁcação de fornecedores e compra de materiais.
+
+c)     clientes, compra de materiais, identiﬁcação de fornecedores e expedição.
+
+d)     armazenagem do produto ﬁnal, expedição, identiﬁcação de demanda e clientes.
+
+e)     compra de materiais, transporte, armazenagem e movimentação interna.
+
+102.            (CEBRASPE/BACEN/Técnico Administrativo/2013)
+
+A integração entre logística e marketing ocorre no nível de serviço logístico, sendo importante a
+observação de aspectos referentes ao atendimento ao cliente para garantir que o ﬂuxo de bens e
+serviços seja gerenciado com qualidade.
+
+a)     CERTO
+
+b)     ERRADO
+
+103.            (CEBRASPE/BACEN/Técnico Administrativo/2013)
+
+Qualidade do material, quantidade necessária, prazo de entrega, preço e condições de
+pagamento são pré-requisitos da administração de materiais para abastecer, continuamente,
+determinada empresa com material necessário para suas atividades.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         75
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)     CERTO
+
+b)     ERRADO
+
+104.            (CEBRASPE/STF/Analista Judiciário/2013)
+
+Apesar da aparência meramente operacional, a administração de materiais constitui função de
+grande valor estratégico de uma organização. A respeito desse assunto, julgue o próximo item.
+
+A transmissão simultânea de dados, a informatização de tarefas administrativas e a automação
+de processos têm contribuído para diminuir o tempo de processamento de um pedido ou
+entrada.
+
+a)     CERTO
+
+b)     ERRADO
+
+105.            (CEBRASPE/ANS/Técnico Administrativo/2013)
+
+Nos dias atuais, a administração de materiais caracteriza-se como um conjunto de atividades
+orientadas a evitar a falta e a desmobilização dos estoques.
+
+a)     CERTO
+
+b)     ERRADO
+
+106.            (CEBRASPE/ANS/Técnico Administrativo/2013)
+
+A área de administração de materiais pode atuar como conciliadora de interesses conﬂitantes
+entre as áreas de vendas e de administração ﬁnanceira, uma vez que desenvolve técnicas de
+planejamento para garantir 100% da entrega dos pedidos realizados pelos clientes.
+
+a)     CERTO
+
+b)     ERRADO
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais      76
+           www.estrategiaconcursos.com.br                                                 165
+
+                                       
+
+
+---
+
+Ricardo Campanario
+Aula 00
+
+                                               GABARITO
+
+
+  01           02           03           04            05           06              07      08       09
+  A             B            D            B         Errada       Correta       Correta    Correta   Errada
+
+  10           11           12           13            14           15              16      17       18
+
+Errada      Errada       Correta          A             A         Errada       Errada     Errada      D
+
+  19           20           21           22            23           24              25      26       27
+
+  A             A        Errada       Correta       Errada        Errada       Correta    Errada    Errada
+
+  28           29           30           31            32           33              34      35       36
+
+  C             B            C        Correta           A        Correta       Errada     Correta   Errada
+
+  37           38           39           40            41           42              43      44       45
+
+Errada          C            E            A             D            D              D       B         C
+
+  46           47           48           49            50           51              52      53       54
+
+  A         Correta          A        Correta       Correta       Errada             C    Errada      B
+
+  55           56           57           58            59           60              61      62       63
+
+  D             E            C        Correta           E            A               E      E         D
+
+  64           65           66           67            68           69              70      71       72
+
+  A             A            C            C             A            A              D       D         C
+
+  73           74           75           76            77           78              79      80       81
+
+  A             B            D            B             E            D              A       A         E
+
+  82           83           84           85            86           87              88      89       90
+
+Correta         C            C            A             E            B               E      C         C
+
+  91           92           93           94            95           96              97      98       99
+
+  B             C            D            E             D        Correta             E      C         A
+
+ 100          101          102           103          104           105             106
+
+  C             E        Correta      Correta       Correta       Errada       Correta
+
+       Receita Federal (Analista Tributário) Administração de Compras e Materiais                         77
+       www.estrategiaconcursos.com.br                                                                     165
+
+                                   
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+                                 QUESTÕES COMENTADAS
+
+1.      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023) Recursos materiais
+referem-se aos elementos utilizados por uma organização em suas atividades diárias, na fabricação
+de seu produto ﬁnal ou na realização de sua missão institucional.
+
+A respeito das operações que ocorrem na administração dos recursos materiais de uma
+organização, assinale a opção que indica a operação inicial.
+
+(A)   Identiﬁcação do fornecedor.
+
+(B)   Transporte interno do bem.
+
+(C)    Acondicionamento do bem.
+
+(D)   Aquisição do bem.
+
+(E)   Recebimento do bem.
+
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. A primeira operação que ocorre na
+administração dos recursos materiais de uma organização é aquela que deﬁne quem são os
+fornecedores dos quais serão adquiridas as matérias primas e materiais necessários para todo o
+processo operacional e produtivo da organização. Assim tem início o processo de compras, que
+depois é seguido pelo de estocagem/armazenamento e, ﬁnalmente, pela distribuição dos
+produtos acabados ao cliente, fechando todo o ciclo de gestão de materiais.
+
+A alternativa B está incorreta. A primeira do processo é a identiﬁcação do fornecedor e não o
+transporte do bem. Veja mais detalhes no gabarito da questão.
+
+A alternativa C está incorreta. A primeira do processo é a identiﬁcação do fornecedor e não o
+acondicionamento do bem. Veja mais detalhes no gabarito da questão.
+
+A alternativa D está incorreta. A primeira do processo é a identiﬁcação do fornecedor e não a
+aquisição do bem (que depende da escolha do fornecedor!). Veja mais detalhes no gabarito da
+questão.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            78
+        www.estrategiaconcursos.com.br                                                        165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+A alternativa E está incorreta. A primeira do processo é a identiﬁcação do fornecedor e não o
+recebimento do bem, que ocorre ao ﬁnal do ciclo de compras. Veja mais detalhes no gabarito da
+questão.
+
+Gabarito: letra A
+
+2.      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023)Os bens são
+frequentemente considerados “recursos”, porque podem gerar produtos e serviços e,
+consequentemente, criar riqueza.
+
+A disciplina que lida com a preservação, manutenção ou alienação de um bem, é a Administração
+de Recursos
+
+(A)   Humanos.
+
+(B)   Patrimoniais.
+
+(C)    Tecnológicos.
+
+(D)   de Capital.
+
+(E)   Materiais.
+
+Comentário:
+
+A alternativa A está incorreta. A disciplina que lida com a preservação, manutenção ou alienação
+de um bem, é a Administração de Recursos Patrimoniais e não Humanos.
+
+A alternativa B está correta e é o gabarito da questão. Aqui a banca se refere aos bens
+patrimoniais, deﬁnidos como o conjunto de bens, valores, direitos e obrigações que possuam valor
+monetário quantiﬁcável e possam ser utilizados para gerar riqueza. Nesse contexto, o foco da
+atividade de administração patrimonial recai sobre os bens patrimoniais de caráter permanente
+(ao contrário dos materiais) que incluem instalações, veículos, móveis, equipamentos, etc.
+
+A alternativa C está incorreta. A disciplina que lida com a preservação, manutenção ou alienação
+de um bem, é a Administração de Recursos Patrimoniais e não Tecnológicos.
+
+A alternativa D está incorreta. A disciplina que lida com a preservação, manutenção ou alienação
+de um bem, é a Administração de Recursos Patrimoniais e não de Capitais.
+
+A alternativa E está incorreta. A disciplina que lida com a preservação, manutenção ou alienação
+de um bem, é a Administração de Recursos Patrimoniais e não Materiais.
+
+Gabarito: letra B
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           79
+        www.estrategiaconcursos.com.br                                                       165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+3.             (VUNESP/Pref Pindamonhangaba/Gestão Pública/2023) Na administração de materiais,
+
+a)  procura-se maximizar o uso dos recursos materiais na organização pública, de modo a causar
+desperdícios.
+
+b)   as compras públicas possuem papel reduzido em termos de fomento de mercado, ou seja,
+nas aquisições e contratações.
+
+c)  a gestão de estoques contempla, entre outros, tombamento, alienação, guarda e
+conservação.
+
+d)      abrangência, ﬂexibilidade e praticidade são critérios de classiﬁcação dos materiais.
+
+e)  recurso material é todo bem tangível e intangível empregado em uma organização que
+detém natureza permanente.
+
+Comentário:
+
+A alternativa A está incorreta. Procura-se maximizar o uso dos recursos materiais na organização
+pública, de modo a evitar (e não causar) desperdícios.
+
+A alternativa B está incorreta. As compras públicas possuem papel signiﬁcativo pelo volume (e
+não reduzido) em termos de fomento de mercado, ou seja, nas aquisições e contratações.
+
+A alternativa C está incorreta. A gestão de patrimônio (e não de estoques) contempla, entre
+outros, tombamento, alienação, guarda e conservação.
+
+A alternativa D está correta e é o gabarito da questão. Na verdade, são os três atributos de um
+bom sistema de classiﬁcação, que a banca acabou chamando de "critérios de classiﬁcação dos
+materiais”.
+
+A alternativa E está incorreta. Recurso patrimonial (e não material) é todo bem tangível e
+intangível empregado em uma organização que detém natureza permanente.
+
+Gabarito: letra D
+
+4.      (VUNESP/Pref Araçatuba/Administrativo/2023)Uma gestão de materiais eﬁciente é
+importante para qualquer negócio e tem como objetivo
+
+a)   redimensionar as vendas, as compras de material processado e os registros de estoque de
+suprimentos.
+
+b)      organizar e controlar compras, almoxarifado, estoque e a utilização dos materiais na
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          80
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+produção.
+
+c)      reposicionar os custos ﬁxos referentes ao armazenamento e aos processos produtivos.
+
+d)      incrementar a logística para recebimento de produtos de maior demanda local e baixo custo.
+
+e)      manter um alto estoque de matéria-prima para garantir uma eventual produção sazonal.
+
+Comentário:
+
+A alternativa A está incorreta. A gestão de materiais não trabalha diretamente com o
+redimensionamento das vendas, mas sim com compras de matérias primas (e não de material
+processado) e registros de estoque de suprimentos.
+
+A alternativa B está correta e é o gabarito da questão. Essas são mesmo todas atribuições de uma
+gestão eﬁciente de materiais.
+
+A alternativa C está incorreta. A gestão de materiais não gerencia diretamente os custos ﬁxos dos
+processos produtivos.
+
+A alternativa D está incorreta. A gestão de materiais não toma decisões diretamente ligadas a
+escolha ou compra de produtos com maior ou menor demanda local. Essa é uma decisão que cabe
+ao usuário, que apenas abastece compras com a informação correta para a aquisição.
+
+A alternativa E está incorreta. Cabe a gestão de materiais manter estoques suﬁcientes de matéria-
+prima (não necessariamente altos) para garantir uma eventual produção sazonal ou todo e
+qualquer tipo de necessidade esperada ou não.
+
+Gabarito: letra B
+
+5.       (QUADRIX/CRECI 6 (PR)/Técnico Administrativo/2023) Acerca da administração de
+materiais, julgue o item.
+
+O nome secundário refere-se às empresas que ﬁcam em um lugar inicial ao longo do processo
+produtivo.
+
+Comentário:
+
+Ao contrário, o nome secundário se refere às empresas que não ﬁcam em um lugar inicial ao longo
+do processo produtivo, mas sim aquelas que geralmente recebem matéria prima para posterior
+processo de transformação.
+
+Gabarito: a aﬁrmativa está ERRADA.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          81
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+6.       (QUADRIX/CAU PA/2023)Com base nas noções de administração de recursos materiais,
+julgue o item a seguir.
+
+O produto ou o serviço representa o que a empresa está apta a fazer e a produzir.
+
+Comentário:
+
+Ao ﬁnal do processo de gestão de materiais geralmente a empresa possui um produto acabado a
+ser oferecido ou um serviço a ser prestado ao cliente.
+
+Gabarito: a aﬁrmativa está CORRETA.
+
+7.       (QUADRIX/CAU PA/2023) Com base nas noções de administração de recursos materiais,
+julgue o item a seguir.
+
+O produto oferecido pela empresa primária é, em regra, a matéria-prima inicial para as empresas
+secundárias.
+
+Comentário:
+
+Empresas primárias de fato geralmente oferecem matéria prima para que empresas chamadas de
+secundárias executem a transformação, cheguem ao produto acabado e o ofereçam ao mercado.
+
+O setor secundário é formado por atividades industriais diversas, que vão desde a fabricação de
+produtos até a prestação de serviços industriais. As atividades secundárias são resultantes do
+processo de transformação de matérias-primas em produtos acabados.
+
+Já o setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+Gabarito: a aﬁrmativa está CORRETA.
+
+8.       (QUADRIX/CAU PA/2023)Com base nas noções de administração de recursos materiais,
+julgue o item a seguir.
+
+As empresas primárias também são chamadas de extrativas pelo fato de obterem o produto ou o
+material por meio da ação direta sobre a natureza.
+
+Comentário:
+
+Empresas que praticam atividades de extração natural são mesmo reconhecidas pelo termo
+"empresa primária", geralmente oferecendo essa matéria prima a empresas transformadoras ao
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          82
+        www.estrategiaconcursos.com.br                                                      165
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+longo da cadeia para a produção de produtos acabados.
+
+O setor primário corresponde ao campo das atividades econômicas referente à produção de
+matérias-primas, que também são chamadas de “produtos primários” por serem, em geral,
+recursos cultivados ou extraídos da natureza e que, posteriormente, são consumidos ou
+transformados em mercadorias. As atividades pertencentes ao Setor Primário são especialmente
+a agricultura, a pecuária e o extrativismo vegetal, animal e mineral.
+
+Gabarito: Correta
+
+9.       (QUADRIX/CAU PA/2023) Com base nas noções de administração de recursos materiais,
+julgue o item a seguir.
+
+O exterior de uma empresa é, invariavelmente, o cenário de uma série de ações aplicadas sobre
+os materiais.
+
+Comentário:
+
+Não necessariamente, como diz o enunciado ao trazer o termo "invariavelmente". Ao se deparar
+com esse tipo de ênfase na aﬁrmativa, sempre desconﬁe...As ações que são aplicadas sobre os
+materiais de uma empresa geralmente ocorrem no interior da empresa e não em seu exterior.
+
+Gabarito: Errada
+
+10.         (QUADRIX/CREFONO 2/2023) Em relação à administração de materiais, julgue o item.
+
+Dentro de uma conjuntura economicamente estável, é fundamental que o gerente de materiais
+tenha capacitação para responder às novas exigências de mercado.
+
+Comentário:
+
+A banca optou por considerar a alternativa errada. Embora o gerente de materiais precise de
+capacitação técnica para responder às novas exigências de mercado tanto em situações de
+instabilidade como de estabilidade, sem dúvida em mercados instáveis essas condições são mais
+necessárias e, provavelmente por isso, a banca entendeu que a aﬁrmativa não está ok.
+
+Gabarito: Errada
+
+11.      (QUADRIX/CAU PA/2023) Com base nas noções de administração de recursos materiais,
+julgue o item a seguir.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         83
+        www.estrategiaconcursos.com.br                                                     165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A preocupação com as máquinas, os equipamentos e a tecnologia antecede à preocupação que
+é direcionada aos materiais que passam por elas.
+
+Comentário:
+
+As preocupações devem ocorrer de forma conjunta, pois de nada adianta a organização possuir
+os melhores equipamentos, máquinas e tecnologias caso elas não estejam aptas a produzir os
+produtos acabados usando os materiais e matérias primas que são adquiridos pela organização.
+Dessa forma, o planejamento entre os recursos patrimoniais (máquinas e equipamentos) e recursos
+materiais (materiais e matérias primas) deve ser feito de forma conjunto e não priorizando um ou
+outro.
+
+Gabarito: Errada
+
+12.     (CEBRASPE (CESPE/Pref Fortaleza/Administração/2023) A respeito das boas práticas na
+gestão de contratações e de materiais, julgue o item subsecutivo.
+
+São consideradas boas práticas na gestão de materiais o combate à obsolescência, a reutilização
+de materiais e a padronização de componentes.
+
+Comentário:
+
+Todas as práticas listadas pelo examinador são bem vindas a gestão de materiais. A obsolescência
+com certeza deve ser evitada, a reutilização de materiais pode reduzir custos e traz variados
+benefícios a todo o sistema e a padronização de componentes torna a gestão do portfólio mais
+racional e menos complexa, podendo inclusive levar a sua simpliﬁcação.
+
+Gabarito: Correta
+
+13.            (FURB/Pref. Mun. Blumenau-SC/2022) As atividades-chave da administração de materiais
+são:
+
+A)     Processamento de pedidos, transporte e controle de estoque.
+
+B)     Transporte, manutenção de estoque e do sistema de informação.
+
+C)     Manutenção do estoque, processamento de materiais e controle dos custos totais.
+
+D)      Processamento de pedidos, transporte e controle dos custos totais.
+
+E)     Transporte, processamento de embalagens e manutenção de estoque.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Pergunta clássica de Administração de
+Materiais. Trata das chamadas atividades primárias da Administração de Materiais, listadas por
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            84
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Ronald Ballou. São elas: processamento de pedidos, manutenção (controle) de estoques e
+transportes. Conﬁra abaixo:
+
+A alternativa B está incorreta. Sistema de informação não é considerada uma atividade chave
+(primária) da administração de materiais.
+
+A alternativa C está incorreta. Controle dos custos totais não é considerada uma atividade chave
+(primária) da administração de Controle dos custos totais materiais.
+
+A alternativa D está incorreta. Controle dos custos totais não é considerada uma atividade chave
+(primária) da administração de materiais.
+
+A alternativa E está incorreta. Processamento de embalagens não é considerada uma atividade
+chave (primária) da administração de materiais.
+
+Gabarito: letra A
+
+14.         (AOCP/Pref. Belém-PA/2022) Qual é a ﬁnalidade principal da administração de materiais?
+
+A) Assegurar o contínuo abastecimento de produtos para comercialização direta ou para
+atender aos serviços executados pela empresa.
+
+B) Reduzir os custos operacionais para garantir a competitividade dos produtos no mercado e
+a satisfação das exigências de qualidade.
+
+C) Proporcionar a segurança de produtos que atendem às especiﬁcações técnicas e aos níveis
+de adequação apropriada aos seus usuários.
+
+D)   Disponibilizar para os fornecedores as condições de recebimento e para os clientes as
+melhores condições de colocação.
+
+E) Contribuir para que toda a empresa venha usufruir de um sistema que assegura o
+desempenho funcional do pessoal com satisfação.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. A Administração de Materiais tem como
+uma de suas principais funções garantir o contínuo abastecimento do processo produtivo da
+organização que, para isso, preciso do fornecimento contínuo de matérias primas, materiais e tudo
+o que for necessário para manter a organização em operação e não impedir a continuidade de seu
+processo produtivo ou de prestação de serviços.
+
+A alternativa B está incorreta. A manutenção de um ﬂuxo contínuo de abastecimento para todo
+o processo é ainda mais importante do que a redução dos custos operacionais da operação.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              85
+        www.estrategiaconcursos.com.br                                                         165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa C está incorreta. A manutenção de um ﬂuxo contínuo de abastecimento para todo o
+processo é ainda mais importante do que a manutenção da segurança dos produtos.
+
+A alternativa D está incorreta. A manutenção de um ﬂuxo contínuo de abastecimento para todo
+o processo é ainda mais importante do que as condições de negociação oferecidas a fornecedores
+e clientes.
+
+A alternativa E está incorreta. A manutenção de um ﬂuxo contínuo de abastecimento para todo o
+processo é ainda mais importante do que um sistema que garanta a satisfação ao longo do
+desempenho funcional.
+
+Gabarito: letra A
+
+15.     (QUADRIX/CRF-GO/Agte. Administrativo/2022) Acerca da administração e de seus
+conceitos fundamentais, julgue o item. Do ponto de vista da administração, os materiais
+correspondem aos insumos básicos para que o processo produtivo possa acontecer e, na medida
+em que são exclusivamente sólidos, não requerem diversidade de acondicionamento, transporte,
+estocagem e processamento.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Materiais não são exclusivamente sólidos. Um processo produtivo ou mesmo a operação de uma
+organização pode requerer materiais em suas mais variadas apresentação como líquidos, gases,
+etc, requerendo portanto condições especiais de acondicionamento, transporte, preservação,
+emprego na operação, etc.
+
+Gabarito: Errada
+
+16.     (QUADRIX/CRN 4/Administrativo/2022) Acerca das noções de administração e de seus
+conceitos fundamentais, julgue o item. Para alcançar sua ﬁnalidade precípua, ou seja, assegurar a
+disponibilidade dos bens necessários à manutenção da operacionalidade da produção, a área de
+gestão de recursos materiais deve atuar de modo independente dos demais setores
+organizacionais.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         86
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Ao contrário, para poder garantir a disponibilidade dos bens necessários à manutenção da
+operacionalidade da produção a área de Administração de Materiais deve estar intimamente
+ligada aos demais setores da empresa pois tem os clientes internos como um dos focos mais
+importantes do seu trabalho além de depender deles para as determinações, por exemplo, de
+volumes, especiﬁcações, datas, etc. para a compra, entrega e processamento dos mais variados
+tipos de materiais.
+
+Gabarito: errada
+
+17.      (QUADRIX/CRBM3/Assistente Administrativo/2022) A respeito da administração de
+materiais, julgue o item. A quantidade de material manipulada por vez e a frequência com que
+são realizadas as diversas movimentações estão ligadas, exclusivamente, ao grau de
+especialização.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Não só ao grau de especialização. Nessa questão a banca se refere literalmente a Marco Aurélio
+Dias. Vamos ao autor: “A quantidade de material manipulado por vez e a frequência com que são
+realizadas as diversas movimentações estão ligadas às variações que o material sofre durante o
+processo, ao seu grau de especialização e às características dos produtos nas diversas fases”.
+
+Gabarito: errada
+
+18.     (SELECON/Câm. Mun. São Gonçalo-RJ/Ass. Legislativo/2022) A gestão de materiais é o
+conjunto de atividades destinadas a suprir e controlar os materiais necessários ao desempenho
+das atribuições de um estabelecimento ou setor. O controle inadequado do material de
+expediente provoca o seguinte sintoma:
+
+A)     melhoria das relações com usuários
+
+B)     redução de custos e de perdas de estoque
+
+C)     redução dos materiais comprados
+
+D)      crescimento do estoque quando a demanda for inferior ao consumo
+
+Comentários:
+
+A alternativa A está incorreta. O controle inadequado dos materiais tende a provocar a piora e
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais      87
+           www.estrategiaconcursos.com.br                                                  165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+não a melhoria das relações com usuários.
+
+A alternativa B está incorreta. O controle inadequado dos materiais tende a provocar o aumento
+e não a redução de custos e de perdas de estoque
+
+A alternativa C está incorreta. O controle inadequado dos materiais tende a provocar o aumento
+e não a redução dos materiais comprados
+
+A alternativa D está correta e é o gabarito da questão. Controles inadequados de materiais levam
+a situações indesejadas como o crescimento de estoques em momentos de baixa demanda,
+gerando custos e complexidades desnecessárias.
+
+Gabarito: letra D
+
+19.         (FCC/TRT 4ª Região/Técnico Judiciário/2022)
+
+A administração de recursos materiais constitui uma atividade que deve levar em conta conceitos
+e indicadores especíﬁcos, recorrentemente citados na literatura especializada, entre os quais se
+insere:
+
+A) o nível de serviço, calculado dividindo-se o número de pedidos atendidos pelo número de
+pedidos ou requisições de materiais efetuados pelas áreas da organização.
+
+B) a curva ABC, que corresponde a um método de indexação de materiais para ﬁns de controle
+patrimonial e de estocagem de itens.
+
+C) o diagrama de Pareto, consistente em uma matriz que deﬁne os materiais que devem ser
+repostos no estoque mantido pela organização de acordo com sua perecibilidade.
+
+D) o giro de estoque, calculado dividindo-se o número de itens em estoque pelos dias de
+permanência sem utilização ou requisição pelas áreas da organização.
+
+E) o Turnover, que corresponde à rotatividade de itens em um estoque, sendo um indicador
+muito utilizado nas demonstrações ﬁnanceiras ou balanço patrimonial das empresas.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Essa é a fórmula clássica de cálculo do
+nível de serviço, decisão estratégica da organização em relação ao nível de atendimento das
+demandas esperadas.
+
+A alternativa B está incorreta. A curva ABC classiﬁca os materiais de acordo com sua importância
+em valor mas não é um método de indexação de materiais para ﬁns de controle patrimonial e de
+estocagem de itens.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           88
+        www.estrategiaconcursos.com.br                                                       165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa C está incorreta. O diagrama de Pareto está relacionado aos mesmos cálculos da
+curva ABC (acima) e não a uma matriz que deﬁne os materiais que devem ser repostos no estoque
+mantido pela organização de acordo com sua perecibilidade.
+
+A alternativa D está incorreta. O giro de estoque é calculado dividindo-se o volume demandado
+do período (saídas), pelo estoque médio do mesmo período e não dividindo-se o número de itens
+em estoque pelos dias de permanência sem utilização ou requisição pelas áreas da organização.
+
+A alternativa E está incorreta. O Turnover de fato corresponde à rotatividade de itens em um
+estoque, porém não costuma ser um indicador muito utilizado nas demonstrações ﬁnanceiras ou,
+especialmente, no balanço patrimonial das empresas.
+
+Gabarito: letra A
+
+20.      (INSTITUTO MAIS/Câm. Mun. Santos-SP/ Gestão Pública/2022) Sobre a administração de
+recursos materiais, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso.
+
+(       ) Recurso material, em sentido lato, é todo bem físico utilizado em uma organização.
+
+(    ) Recurso material, em sentido estrito, é todo e qualquer bem físico utilizado em uma
+organização que possui natureza permanente.
+
+(   ) Recurso patrimonial é o bem físico que tem natureza transitória, sendo denominado
+também de bens de estoque.
+
+Assinale a alternativa que apresenta a sequência correta.
+
+A)     V/F/F
+
+B)     V/V/V
+
+C)     F/F/V
+
+D)      F/V/F
+
+Comentários:
+
+Vamos avaliar as aﬁrmativas antes de buscar a alternativa correta:
+
+Recurso material, em sentido lato, é todo bem físico utilizado em uma organização - CORRETA.
+De modo genérico pode ser entendido como os bens físicos utilizados por uma organização.
+
+Recurso material, em sentido estrito, é todo e qualquer bem físico utilizado em uma organização
+que possui natureza permanente - ERRADA. Aqui estamos falando especiﬁcamente dos bens
+patrimoniais.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           89
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Recurso patrimonial é o bem físico que tem natureza transitória, sendo denominado também de
+bens de estoque. - ERRADA. Recursos Patrimoniais têm natureza permanente e não são
+considerados bens de estoque pois, como ativos imobilizados, não estão destinados a venda.
+
+Assim temos V-F-F.
+
+A alternativa A está correta e é o gabarito da questão.
+
+Gabarito: letra A
+
+21.     (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+administração de materiais e almoxarifado, julgue o item. Há, no total, quatro fatores
+fundamentais para uma boa gestão de recursos materiais: qualidade do material; quantidade
+necessária; prazo de entrega; e preço.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Levando em conta o famoso "mantra" da Administração de Materiais é possível sentir a falta de um
+elemento. Além da qualidade do material; da quantidade necessária; do prazo de entrega; e do preço, é
+necessário também fornecer os materiais no local demandado pelo cliente. Vejamos para Renato Fenili:
+“Suprir a organização dos materiais nas quantidades corretas, na qualidade requerida, no momento
+certo, armazenando-os e no local apropriados, praticando preços econômicos e minimizando estoques”.
+
+Gabarito: Errada
+
+22.     (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+administração de materiais e almoxarifado, julgue o item. A administração de materiais é uma área
+da gestão que visa assegurar que a organização disponha, de modo contínuo, dos insumos
+necessários para suas atividades.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais             90
+           www.estrategiaconcursos.com.br                                                         165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Exato. A manutenção de um fornecimento contínuo de insumos para que o processo produtivo ou
+de prestação de serviços não seja interrompido é um objetivo primordial da Administração de
+Materiais.
+
+Gabarito: Correta
+
+23.         (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+administração de materiais e almoxarifado, julgue o item. A qualidade de material manipulado por
+vez e a frequência com que são realizadas as diversas movimentações estão ligadas às variações
+que o material sofre durante o processo, ao seu grau de especialização e às características dos
+produtos nas diversas fases.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+A questão deveria se referir a quantidade (e não a qualidade) do material manipulado. Nessa
+questão a banca se baseia literalmente em Marco Aurélio Dias. Vamos ao autor: “A quantidade de
+material manipulado por vez e a frequência com que são realizadas as diversas movimentações
+estão ligadas às variações que o material sofre durante o processo, ao seu grau de especialização
+e às características dos produtos nas diversas fases”.
+
+Gabarito: Errada
+
+24.          (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+administração de materiais e almoxarifado, julgue o item. Não se associam à administração de
+materiais os serviços a eles relacionados, como assistência técnica, seguros, distribuição
+regionalizada e reposição automática.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Ao contrário, os serviços relacionados ao processo de pós venda estão sim relacionados à
+Administração de Materiais pois complementam o pacote ofertado ao consumidor sob a
+perspectiva comercial/marketing. A distribuição, por exemplo, é parte integrante e crítica do
+famoso "tripé" da Administração de Materiais, representando a saída do produto acabado rumo
+ao cliente.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         91
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Gabarito: Errada
+
+25.          (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+administração de materiais e almoxarifado, julgue o item. As áreas e os itens a serem inventariados
+deverão ser arrumados da melhor forma possível, agrupando-se os produtos iguais e
+identiﬁcando-se todos os materiais com os seus respectivos cartões.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Esses são procedimentos clássicos para a realização do inventário. Um inventário demanda uma
+série de atividades prévias para que possa ser realizado da forma mais eﬁciente possível.
+
+Gabarito: Correta
+
+26.           (QUADRIX/CFFA/Ass. Administrativo/2022) A respeito das noções de administração
+de materiais, julgue o item. O relatório de inspeção é uma descrição dos materiais recebidos, isto
+é, de suas quantidades, seu fornecedor e seu número de pedido de compra, entre outras
+informações oportunas.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Esse é um relatório de recebimento e não de inspeção.
+
+O relatório de inspeção é um documento que descreve as atividades realizadas durante a
+inspeção, incluindo os resultados das medições e testes efetuados nos materiais recebidos para
+garantir que eles estejam em conformidade com as especiﬁcações do pedido de compra. Ele até
+pode conter informações sobre as quantidades recebidas, o fornecedor e o número do pedido de
+compra, mas essas informações não são o foco principal do relatório, que tem como objetivo
+principal veriﬁcar a qualidade dos materiais recebidos.
+
+Gabarito: Errada
+
+27.      (QUADRIX/CRM-SC/Ass. Administrativo/2022) Acerca das noções de administração de
+materiais, julgue o item. A internalização ocupa-se da maneira como devem ser utilizados os
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           92
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+materiais, em suas diversas ﬁnalidades, e da padronização e da identiﬁcação do material.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Essa é uma questão até mais relacionada à Administração Geral. A internalização é o contrário da
+terceirização, ou seja, ocorre quando A organização opta por realizar internamente os serviços
+necessários em detrimento de terceirizá-los, ou seja, buscar fornecedores externos para a sua
+realização. Áreas que passam por essa decisão podem ser o RH/Depto. Pessoal, Contabilidade,
+Segurança, Manutenção e Limpeza e mesmo Marketing e Comunicação
+
+Gabarito: Errada
+
+28.     (FUNDATEC/Câm. Mun. Bagé-RS/Agente Legislativo) Segundo Dias (2012), em relação
+aos conceitos da Administração de Materiais, estabelecer sequencialmente as tarefas/trabalhos a
+serem executados, de acordo com datas estipuladas para cada tarefa/trabalho desta sequência,
+denomina-se:
+
+A)     Organograma.
+
+B)     Pentagrama.
+
+C)     Cronograma.
+
+D)      Fluxograma.
+
+E)     Diagrama.
+
+Comentários:
+
+A alternativa A está incorreta. O sequenciamento de tarefas seguidas de suas datas para a
+realização caracteriza um cronograma e não um organograma. Veja um exemplo no gabarito da
+questão.
+
+A alternativa B está incorreta. O sequenciamento de tarefas seguidas de suas datas para a
+realização caracteriza um cronograma e não um pentagrama. Veja um exemplo no gabarito da
+questão.
+
+A alternativa C está correta e é o gabarito da questão. O sequenciamento de tarefas seguidas de
+suas datas para a realização caracteriza um cronograma.
+
+A alternativa D está incorreta. O sequenciamento de tarefas seguidas de suas datas para a
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        93
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+realização caracteriza um cronograma e não um ﬂuxograma. Veja um exemplo no gabarito da
+questão.
+
+A alternativa E está incorreta. O sequenciamento de tarefas seguidas de suas datas para a
+realização caracteriza um cronograma e não um diagrama. Veja um exemplo no gabarito da
+questão.
+
+Gabarito: letra C
+
+29.      (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sobre administração de material e
+patrimônio, assinale (V) para as aﬁrmativas VERDADEIRAS e (F) para as FALSAS.
+
+( ) Patrimônio material é constituído por todos os bens móveis e imóveis pertencentes ao ente
+público.
+
+( ) Esses bens vão desde as instalações físicas, passando pela mobília, aparelhos eletroeletrônicos,
+equipamentos etc. (materiais permanentes) e chegando aos papéis, cartuchos de tinta para
+impressora, itens de higiene e limpeza etc. (materiais de consumo).
+
+( ) O Just in Time é uma das principais Técnicas de Administração de Patrimônio. Trata-se de um
+sistema que garante a quantidade exata, na hora certa, que atenda às necessidades de demanda
+com o mínimo em estoque, buscando assim a eliminação de tudo que não agregue valor ao
+produto ou serviço realizado.
+
+Marque a opção que apresenta a sequência CORRETA.
+
+A)     F – F – F.
+
+B)     V – V – F.
+
+C)     F – V – F.
+
+D)      F – F – V.
+
+E)     V – V – V.
+
+Comentários:
+
+Vamos avaliar as aﬁrmativas antes de buscar uma alternativa correta:
+
+Patrimônio material é constituído por todos os bens móveis e imóveis pertencentes ao ente
+público. CORRETA. O uso dos termos bem ou patrimônio material representa mesmo todos os
+bens móveis e imóveis do ente público.
+
+Esses bens vão desde as instalações físicas, passando pela mobília, aparelhos eletroeletrônicos,
+equipamentos etc. (materiais permanentes) e chegando aos papéis, cartuchos de tinta para
+impressora, itens de higiene e limpeza etc. (materiais de consumo). CORRETA. Tudo isso faz parte
+de um grande grupo chamado de patrimônio ou bens materiais.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            94
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+O Just in Time é uma das principais Técnicas de Administração de Patrimônio. Trata-se de um
+sistema que garante a quantidade exata, na hora certa, que atenda às necessidades de demanda
+com o mínimo em estoque, buscando assim a eliminação de tudo que não agregue valor ao
+produto ou serviço realizado. ERRADA. A deﬁnição do Just In Time até pode ser considerada
+correta porém é uma ferramenta da Administração de Materiais e não de Patrimônio...
+
+Dessa forma temos V-V-F.
+
+A alternativa B está correta e é o gabarito da questão.
+
+Gabarito: letra B
+
+30.     (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sabemos que a gestão de materiais
+é um ramo especíﬁco da ciência da administração. Sobre as gestões, assinale (V) para as aﬁrmativas
+VERDADEIRAS e (F) para as FALSAS, sobre quais pertencem à gestão de materiais.
+
+(              ) Gestão de resíduos sólidos.
+
+(              ) Gestão de estoque.
+
+(              ) Gestão do tratamento d´água.
+
+(              ) Gestão de compras.
+
+Marque a opção que apresenta a sequência CORRETA.
+
+A)     F – F – F – F.
+
+B)     V – V – F – F.
+
+C)     F – V – F – V.
+
+D)      V – V – V – V.
+
+E)     F – F – V – V.
+
+Comentários:
+
+A Gestão de Materiais ocupa-se basicamente de um tripé de atividades que são as compras, a
+gestão e armazenamento dos estoques e a distribuição/entrega dos produtos acabados aos
+clientes. Dessa forma as gestões de estoques e de compras fazem parte da gestão de materiais
+porém a gestão de resíduos sólidos (após os seus descartes) e do tratamento de água não são
+tarefas da área de gestão de materiais mas sim da área de gestão ambiental ou órgão correlato
+da organização.
+
+Assim temos F-V-F-V.
+
+A alternativa C está correta e é o gabarito da questão.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          95
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Gabarito: letra C
+
+31.      (QUADRIX/CRBM4PA/Agente Administrativo/2021) Em termos genéricos, a
+administração consiste no processo de planejar, organizar, dirigir e controlar o uso de recursos e
+competências, a ﬁm de alcançar os objetivos organizacionais desejados. Idalberto Chiavenato.
+Introdução à teoria geral da administração: uma visão abrangente da moderna administração das
+organizações. 5.ª ed. São Paulo: Atlas, 2021, p. 10. Tendo o texto acima como referência inicial,
+julgue o item a seguir.
+
+Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface com
+diversos setores da organização e deve atuar de modo a conciliar interesses conﬂitantes,
+harmonizando as necessidades desses setores para assegurar a disponibilidade dos bens
+necessários para a operacionalização da produção.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Esse é exatamente o papel da Administração de Materiais que não só interage com todas as áreas
+da organização como depende delas para receber inputs sobre volumes, especiﬁcações, dados de
+clientes, etc que norteiam as ações em relação a aquisição, armazenagem e distribuição dos
+materiais e produtos acabados.
+
+Gabarito: Correta
+
+32.          (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+diferencia um recurso material de um recurso patrimonial?
+
+A)     O recurso patrimonial é de natureza permanente.
+
+B)     O recurso material é de natureza permanente.
+
+C)     O recurso patrimonial é um material de consumo.
+
+D)      O recurso material é um equipamento de produção.
+
+E)     O recurso patrimonial é bem de estoque.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Enquanto o recurso material é
+costumeiramente transformado ou consumido ao longo do processo, o recurso patrimonial tem
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          96
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+natureza permanente.
+
+A alternativa B está incorreta. O recurso patrimonial (e não o material) é de natureza permanente.
+A alternativa C está incorreta. O recurso material (e não patrimonial) é um material de consumo.
+
+A alternativa D está incorreta. O recurso patrimonial (e não material) é um equipamento de
+produção.
+
+A alternativa E está incorreta. O recurso material (e não patrimonial) é bem de estoque.
+
+Gabarito: letra A
+
+33.           (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de
+recursos materiais, julgue o item. A organização é o somatório de quatro pilares: indivíduos;
+recursos; tarefas coordenadas; e objetivos comuns.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Essa é basicamente a deﬁnição de Lacombe para organização que vale, inclusive, para
+Administração de Materiais. Vejamos: “Organização é um grupo de pessoas que se constitui de
+forma organizada para atingir objetivos comuns”. Renato Fenili vai na mesma direção: “A
+existência de uma organização envolve quatro ingredientes: indivíduos que fazem uso de recursos
+e coordenam suas tarefas para que atinjam objetivos comuns”.
+
+Gabarito: Correta
+
+34.      (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de recursos
+materiais, julgue o item. Recursos são os meios empregados por uma organização para a
+consecução de seus objetivos. São as ferramentas que servem de base para o desempenho
+organizacional. Como exemplos de recursos tangíveis, podem ser citadas as patentes e as
+logomarcas registradas.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+A aﬁrmativa está correta no que diz respeito ao que são os recursos que, aliás, se dividem em
+materiais, patrimoniais, humanos, tecnológicos e ﬁnanceiros (alguns autores admitem ainda os
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          97
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+recursos mercadológicos). Porém, erra ao dizer que patentes e logomarcas são recursos tangíveis,
+pois são exemplos clássicos de recursos imateriais, incorpóreos ou intangíveis.
+
+Gabarito: Errada
+
+35.      (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de recursos
+materiais, julgue o item. São três os atributos de um bom sistema de classiﬁcação de materiais: a
+abrangência; a ﬂexibilidade; e a praticidade.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Pergunta recorrente em prova a respeito dos atributos de um bom sistema de classiﬁcação. São
+3: Abrangência, Flexibilidade e Praticidade. É preciso conhecê-los e saber identiﬁcar e diferenciar
+cada um deles.
+
+A abrangência deve permitir que a classiﬁcação possa incluir um vasto número de diferentes tipos
+de materiais, englobando uma grande variedade de características como peso, forma, dimensão,
+custos, aspectos contábeis, etc.
+
+Deve tratar da maior gama possível de características. Isso permite que o sistema seja abrangente
+o suﬁciente para representar todos os tipos de materiais em suas mais variadas dimensões,
+conseguindo diferenciá-los um a um e evitando qualquer tipo de duplicidade ou confusão.
+
+Já a ﬂexibilidade deve proporcionar uma visão global do estoque e, especialmente, o inter-
+relacionamento entre as diversas classiﬁcações.
+
+Dessa forma a classiﬁcação deve ser sempre maleável e adaptável, podendo se adequar à
+realidade da organização e facilitando a comunicação entre os diferentes tipos adotados.
+
+O importante é que o sistema de classiﬁcação se adeque as necessidades da organização e não o
+contrário. Caso a organização decida alterar os itens com os quais costumeiramente trabalha, a
+classiﬁcação deve se adaptar à mudança e não ser um empecilho a ela, por exemplo, fazendo com
+que a mudança não seja adotada pois geraria problemas no sistema de classiﬁcação.
+
+Somente dessa forma o sistema de classiﬁcação estará sempre atualizado, facilitando a
+comunicação e a integração entre os diferentes tipos de classiﬁcação.
+
+Por último, a praticidade exige simplicidade da classiﬁcação. Não deve exigir do classiﬁcador
+julgamentos subjetivos ou complexos, tarefas complicadas e conceitos abstratos. Deve ser simples
+e direta.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           98
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Gabarito: Correta
+
+36.      (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de recursos
+materiais, julgue o item. Na classiﬁcação de materiais, o atributo ﬂexibilidade está ligado à
+abordagem das características dos materiais, levando em consideração aspectos físicos,
+ﬁnanceiros e contábeis.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Aqui a banca traz a deﬁnição do atributo abrangência, que diz respeito a captura das diferentes
+características dos materiais. A ﬂexibilidade deve proporcionar uma visão global do estoque e,
+especialmente, o inter-relacionamento entre as diversas classiﬁcações.
+
+Gabarito: Errada
+
+37.      (QUADRIX/CRMV-RO/Auxiliar Administrativo/2021) Quanto à administração de recursos
+materiais, julgue o item. Além dos atributos de um sistema de classiﬁcação de materiais, há
+também os princípios que o regem. São eles: catalogação; redução; identiﬁcação; normalização;
+e intercambialidade.
+
+A)     Certo
+
+B)     Errado
+
+Comentários:
+
+Esses não são os princípios de um sistema de classiﬁcação, mas sim algumas de suas etapas
+(mesmo assim, não todas).
+
+Os princípios básicos de um sistema de classiﬁcação são um tema pouco cobrado em provas, mas
+importante conhecê-los. Segundo Francischini e Gurgel, "são observados, basicamente, quatro
+princípios no estabelecimento de um Sistema de Classiﬁcação de Materiais". São eles:
+
+PRINCÍPIO ARBITRÁRIO
+
+Os itens de material são codiﬁcados de maneira sequencial, a medida que vão entrando no
+estoque. A grande desvantagem desta forma de sistema é o fato de não permitir nenhuma forma
+de identidade entre itens de material de mesma natureza como, por exemplo, duas luminárias
+semelhantes. São aglutinados com base apenas na ordem de chegada.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       99
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+PRINCÍPIO ARBITRÁRIO FICHADO
+
+A codiﬁcação sequencial - assim como no princípio arbitrário - é agora associada a um arquivo, em
+que as características do material são bem detalhadas. Ao se acessar um determinado código o
+arquivo deve trazer todos os dados do item anteriormente registrado.
+
+PRINCÍPIO SIMBÓLICO
+
+Neste princípio utiliza-se a codiﬁcação sob a forma numérica, como também sob a forma
+mnemônica para facilitar a memorização. Outra possibilidade é a codiﬁcação alfanumérica, criando
+a possibilidade de que os códigos guardem identidade entre si. Não é recomendável para séries
+muito numerosas de itens e deve-se levar em conta as naturais diﬁculdade do uso da técnica
+mnemônica (complexa para outros que não o próprio criador).
+
+PRINCÍPIO DOS NÚMEROS DE PROJETO
+
+Neste princípio são utilizados os números dos desenhos de detalhamento dos projetos. A
+codiﬁcação cobre apenas as partes e materiais integrantes dos projetos especíﬁcos.
+
+Gabarito: Errada
+
+38.          (GUALIMP/Pref. Mun. Com. Levy Gasparian-RJ/Almoxarife/2021) Fichas de
+prateleira devem conter informações. Não é uma delas:
+
+A)     Lote.
+
+B)     Unidade.
+
+C)     Relatividade.
+
+D)      Referência.
+
+Comentários:
+
+A alternativa A está incorreta. O lote é uma informação constante de uma ﬁcha de prateleira.
+
+A alternativa B está incorreta. A unidade é uma informação constante de uma ﬁcha de prateleira.
+
+A alternativa C está correta e é o gabarito da questão. Lote, unidade e referência são informações
+constantes de uma ﬁcha de prateleira, porém "relatividade" não tem qualquer relação com o
+tema...
+
+A alternativa D está incorreta. A referência é uma informação constante de uma ﬁcha de prateleira.
+
+Gabarito: letra C
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          100
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+39.       (CP CAP/Marinha/Corpo Auxiliar de Praça/2021) Na administração de materiais, a
+verticalização é a estratégia de aquisição de recursos materiais e patrimoniais que prevê que a
+empresa produzirá internamente tudo o que puder. Assim, classiﬁque os itens abaixo como
+Vantagens (V) ou Desvantagens (D) dessa estratégia e assinale a opção correta.
+
+( ) Independência de terceiros. ( ) Maior investimento .
+
+( ) Menor ﬂexibilidade. ( ) Maiores lucros.
+
+( ) Maior autonomia.
+
+( ) Aumento da estrutura da empresa.
+
+A) (D) (D) (D) (V) (V) (D)
+
+B) (D) (D) (D) (V) (D) (V)
+
+C) (V) (D) (D) (V) (V) (V)
+
+D) (V) (D) (D) (V) (D) (V)
+
+E) (V) (D) (D) (V) (V) (D)
+
+Comentários:
+
+Vamos avaliar cada um dos itens antes de buscar a alternativa correta:
+
+Independência de terceiros. VANTAGEM. A verticalização permite que todas as necessidades
+sejam supridas por meio da produção interna. Em tese, passa-se a não ter a dependência de
+qualquer terceiro.
+
+Maior investimento. DESVANTAGEM. A                        verticalização      exige   investimentos   para    a
+construção/montagem da estrutura produtiva.
+
+Menor ﬂexibilidade. DESVANTAGEM. A verticalização não permite que a organização conte com
+a diversidade de produtos oferecido pelo mercado.
+
+Maiores lucros. VANTAGEM. Em tese a verticalização possibilidade que a organização não pague
+os preços (e margens) cobradas pelos fabricantes externos.
+
+Maior autonomia. VANTAGEM. A verticalização dá a organização autonomia para as decisões em
+relação ao processo produtivo.
+
+Aumento da estrutura da empresa. DESVANTAGEM. A verticalização obriga a implementação de
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                           101
+        www.estrategiaconcursos.com.br                                                                       165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+estrutura produtiva adicional e seus custos respectivos.
+
+Assim temos: V-D-D-V-V-D.
+
+A alternativa E está correta e é o gabarito da questão.
+
+Gabarito: letra E
+
+40.     (INSTITUTO MAIS/SMTCA/Auxiliar Administrativo/2021) Sobre as fases da administração
+de recursos materiais e patrimoniais, assinale a alternativa correta.
+
+A)     Produtividade, qualidade e volume adequado.
+
+B)     Produtividade, qualidade e agilidade.
+
+C)     Qualidade e volume adequado, apenas.
+
+D)      Qualidade, volume adequado e estoque mínimo.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Questão rara que elenca as chamadas "três
+fases" da Administração de Materiais: produtividade (ligada a eﬁciência), qualidade (ligada as
+especiﬁcações necessárias) e volume adequado (ligado aos volumes relacionados as quantidades
+necessárias de matéria prima, estoques e produtos acabados).
+
+A alternativa B está incorreta. As chamadas "três fases" da Administração de Materiais são a
+produtividade, qualidade e volume adequado e não a produtividade, qualidade e agilidade.
+
+A alternativa C está incorreta. As chamadas "três fases" da Administração de Materiais são a
+produtividade, qualidade e volume adequado e não a qualidade e volume adequado, apenas.
+
+A alternativa D está incorreta. As chamadas "três fases" da Administração de Materiais são a
+produtividade, qualidade e volume adequado e não a qualidade, volume adequado e estoque
+mínimo.
+
+Gabarito: letra A
+
+41.       (INSTITUTO MAIS/SMTCA/Auxiliar Administrativo/2021) De acordo com o ﬂuxo de
+administração de                            , diz respeito desde circuito de reprovisionamento,
+inclusive compras, o recebimento, a armazenagem dos materiais, o fornecimento dos mesmos aos
+órgãos requisitantes e demais operações gerais de controle de estoques. Assinale a alternativa
+que preenche corretamente a lacuna.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         102
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A)     produtos acabados
+
+B)     produtos semiacabados
+
+C)     produtos industrializados
+
+D)      materiais
+
+Comentários:
+
+A alternativa A está incorreta. O examinador se refere à Administração de Materiais e não de
+produtos acabados. Veja mais detalhes no gabarito da questão.
+
+A alternativa B está incorreta. O examinador se refere à Administração de Materiais e não de
+produtos semiacabados. Veja mais detalhes no gabarito da questão.
+
+A alternativa C está incorreta. O examinador se refere à Administração de Materiais e não de
+produtos industrializados. Veja mais detalhes no gabarito da questão.
+
+A alternativa D está correta e é o gabarito da questão. A aﬁrmativa diz respeito à Administração
+de Materiais, listando praticamente todas as suas atividades, desde as compras até o fornecimento
+do que foi comprado/produzido aos usuários/solicitantes.
+
+Gabarito: letra D
+
+42.          (INSTITUTO MAIS/SETEC CAMPINAS/Agente/2021) Sobre a administração de
+materiais, analise os elementos fundamentais para gestão e assinale (V) para Verdadeiro ou (F)
+para Falso.
+
+(       ) Qualidade do material, quantidade necessária e prazo de entrega.
+
+(       ) Layout do armazém e logística reversa.
+
+(       ) Preço e condições de pagamento.
+
+Assinale a alternativa que apresenta a sequência correta.
+
+A)     F/V/F
+
+B)     V/V/F
+
+C)     F/F/V
+
+D)      V/F/V
+
+Comentários:
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         103
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+Vamos avaliar as aﬁrmativas antes de buscar a alternativa correta.
+
+Qualidade do material, quantidade necessária e prazo de entrega. CORRETA. Nesta questão a
+banca parece se referir ao "mantra" da ARM, ou seja, quantidade correta, na qualidade
+especiﬁcada, no local e momento indicados e a um preço justo e competitivo.
+
+Layout do armazém e logística reversa. ERRADA. O layout, embora importante no processo de
+ARM, não faz parte do "mantra" que vimos acima.
+
+Preço e condições de pagamento. CORRETA. O preço é um dos elementos fundamentais da ARM.
+
+Assim temos V-F-V.
+
+A alternativa D está correta e é o gabarito da questão.
+
+Gabarito: letra D
+
+43.             (INSTITUTO MAIS/SETEC CAMPINAS/Agente/2021)                 Com relação às fases
+                da administração de recursos de materiais e patrimoniais, analise as proposições abaixo.
+
+I.     Aumento de produtividade e busca pela eﬁciência.
+
+II.      Aumento de qualidade sem preocupação em prejudicar outras áreas da organização.
+
+III.      Gerar quantidade certa para o momento certo.
+
+É correto o que se aﬁrma em
+
+A)      I e II, apenas.
+
+B)      I e III, apenas.
+
+C)      II e III, apenas.
+
+D)       I, II e III.
+
+Comentários:
+
+Vamos avaliar as aﬁrmativas antes de buscar a alternativa correta.
+
+I. Aumento de produtividade e busca pela eﬁciência. CORRETA. A ARM sempre estará em busca
+de maior produtividade e mais eﬁciência.
+
+II. Aumento de qualidade sem preocupação em prejudicar outras áreas da organização.
+ERRADA. Embora o aumento de qualidade seja sempre perseguido, ele não pode vir
+acompanhado de prejuízo a outras áreas da organização.
+
+             Receita Federal (Analista Tributário) Administração de Compras e Materiais              104
+             www.estrategiaconcursos.com.br                                                          165
+
+                                         
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+III.  Gerar quantidade certa para o momento certo. CORRETA. A busca por quantidades certas
+entregues nos momentos necessários é fundamental para garantir eﬁciência ao longo do processo
+produtivo e da gestão de materiais.
+
+Assim temos V-F-V ou alternativa B. Eu discordo do gabarito da banca que considerou o item II
+correto...
+
+A alternativa D está correta e é o gabarito da questão.
+
+Gabarito: letra D
+
+44.      (INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020) Dentre as
+subfunções especíﬁcas da administração de materiais, assinale a alternativa que apresenta aquela
+que veriﬁca a aplicação das normas e dos procedimentos estabelecidos para o funcionamento da
+administração de materiais em toda a organização, analisando os desvios da política de
+suprimento traçada pela administração e proporcionando soluções.
+
+A)     Transporte de material.
+
+B)     Inspeção de suprimentos.
+
+C)     Classiﬁcação de material.
+
+D)      Padronização de material.
+
+E)     Normalização de material.
+
+Comentários:
+
+A alternativa A está incorreta. O enunciado se refere ao subsistema conhecido como inspeção de
+suprimentos e não transporte de material. Veja os detalhes desse tema na alternativa gabarito da
+questão.
+
+A alternativa B está correta e é o gabarito da questão. Essa é uma questão que se refere
+especiﬁcamente a um autor. Segundo Martins (2006) a Administração de Materiais tem 7
+subsistemas especíﬁcos: Controle de estoque, Classiﬁcação de material, Aquisição/compra de
+material, Armazenagem/almoxarifado, Movimentação de material, Inspeção de recebimento e
+Cadastro. Das alternativas listadas apenas o Controle de Estoques apresenta a sua correta
+deﬁnição, sendo deﬁnido como responsável pela gestão econômica dos estoques, através do
+planejamento e da programação do material, compreendendo análise, previsão, controle e
+ressuprimento.
+
+As deﬁnições completas de cada um dos subsistemas segue abaixo:
+
+a)     Controle de estoque - subsistema responsável pela gestão econômica dos estoques, através
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        105
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+do planejamento e da programação de material, compreendendo a análise, a previsão, o controle
+e o ressuprimento de material. Os estoques podem ser de: matéria-prima, produtos em fabricação
+e produtos acabados. O setor de controle de estoque acompanha e controla o nível de estoque e
+o investimento ﬁnanceiro envolvido.
+
+b)      Classiﬁcação de material - subsistema responsável pela identiﬁcação (especiﬁcação),
+classiﬁcação, codiﬁcação, cadastramento e catalogação de material.
+
+c)      Aquisição/compra de material - subsistema responsável pela gestão, negociação e
+contratação de compras de material através do processo de licitação. O setor de compras
+preocupa-se sobremaneira com o estoque de matéria-prima. É da responsabilidade de compras
+assegurar que as matérias primas exigidas pela produção estejam à disposição nas quantidades
+certas, nos períodos desejados.
+
+d)     Armazenagem/almoxarifado - subsistema responsável pela gestão física dos estoques,
+compreendendo as atividades de guarda, preservação, embalagem, recepção e expedição de
+material, segundo determinadas normas e métodos de armazenamento.
+
+e)     Movimentação de material - subsistema encarregado do controle e normalização das
+transações de recebimento, fornecimento, devoluções, transferências de materiais e quaisquer
+outros tipos de movimentações de entrada e de saída de material.
+
+f)   Inspeção de recebimento - subsistema responsável pela veriﬁcação física e documental do
+recebimento de material, podendo ainda encarregar-se da veriﬁcação dos atributos qualitativos
+pelas normas de controle de qualidade.
+
+g)  Cadastro - subsistema encarregado do cadastramento de fornecedores, pesquisa de
+mercado e compras.
+
+Adicionalmente o autor elenca três outros subsistemas especíﬁcos:
+
+a)   Inspeção de suprimentos - subsistema de apoio responsável pela veriﬁcação da aplicação das
+normas e dos procedimentos estabelecidos para o funcionamento da Administração de Materiais em
+toda a organização, analisando os desvios da política de suprimento traçada pela administração e
+proporcionando soluções.
+
+b)    Padronização e normalização - subsistema de apoio ao qual cabe a obtenção de menor
+número de variedades existentes de determinado tipo de material, por meio de uniﬁcação e
+especiﬁcação dos mesmos, propondo medidas de redução de estoques.
+
+c)   Transporte de material - subsistema de apoio que se responsabiliza pela política e pela
+execução do transporte, movimentação e distribuição de material.
+
+A alternativa C está incorreta. O enunciado se refere ao subsistema conhecido como inspeção de
+suprimentos e não classiﬁcação de material. Veja os detalhes desse tema na alternativa gabarito
+da questão.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           106
+        www.estrategiaconcursos.com.br                                                       165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa D está incorreta. O enunciado se refere ao subsistema conhecido como inspeção de
+suprimentos e não padronização de material. Veja os detalhes desse tema na alternativa gabarito
+da questão.
+
+A alternativa E está incorreta. O enunciado se refere ao subsistema conhecido como inspeção de
+suprimentos e não normalização de material. Veja os detalhes desse tema na alternativa gabarito
+da questão.
+
+Gabarito: letra B
+
+45.       (VUNESP/FITO/Analista de Gestão/2020) A empresa de instalação de aquecedores de
+passagem ABC vem registrando aumento, nos últimos três meses, no volume de reclamações de
+clientes insatisfeitos e cancelamento das cotações de preços para serviços de instalações, pois
+tem apresentado uma demora cada vez maior nas respostas das cotações. Ao analisar com os
+responsáveis o que estava gerando o atraso para responder aos clientes, a empresa evidenciou
+que as demoras eram decorrentes da incapacidade de assegurar que o material necessário para
+as instalações das chaminés estivesse na quantidade devida, no estoque determinado, quando se
+fazia necessário. Essa condição decorre da
+
+A)     aplicação incorreta da ferramenta de análise 360º de oportunidades de negócio.
+
+B) análise conceitual incorreta dos pontos fortes ( strenghts) e fracos ( weaknesses) obtidos por
+meio da análise SWOT.
+
+C)     falha na execução de funções básicas do almoxarifado.
+
+D) análise conceitual incorreta das oportunidades ( opportunities) e ameaças ( threats) obtidas
+por meio da análise SWOT.
+
+E) realização equivocada da avaliação das 5 Forças de Porter quando deveria ter implementado
+a Matriz BTG.
+
+Comentários:
+
+A alternativa A está incorreta. A raiz do problema está na gestão do almoxarifado (e não de
+análises 360o de oportunidades de negócio), pois a questão se refere à disponibilização de
+materiais no momento correto.
+
+A alternativa B está incorreta. A raiz do problema está na gestão do almoxarifado (e não na
+realização de uma análise SWOT) pois a questão se refere à disponibilização de materiais no
+momento correto.
+
+A alternativa C está correta e é o gabarito da questão. Note que o enunciado descreve que o
+problema tinha como causa "a incapacidade de assegurar que o material necessário para as
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         107
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+instalações das chaminés estivesse na quantidade devida, no estoque determinado, quando se
+fazia necessário", o que conﬁgura um claro problema de gestão/execução nas funções principais
+do almoxarifado.
+
+A alternativa D está incorreta. A raiz do problema está na gestão do almoxarifado (e não na
+realização de uma análise SWOT), pois a questão se refere à disponibilização de materiais no
+momento correto.
+
+A alternativa E está incorreta. A raiz do problema está na gestão do almoxarifado (e não na
+aplicação da matriz Five Forces de Porter ou da matriz BCG), pois a questão se refere à
+disponibilização de materiais no momento correto.
+
+Gabarito: letra C
+
+46.     (ITAME/Pref. Sen. Canedo-GO/Assistente Administrativo/2020) De acordo com os
+subsistemas da administração de materiais, assinale a alternativa que corresponda com a correta
+deﬁnição de Subsistema de Armazenagem / Almoxarifado:
+
+A)   responsável pela gestão física dos estoques, compreendendo as atividades de guarda,
+preservação, embalagem, recepção e expedição de material, segundo determinadas normas e
+métodos de armazenamento. É o subsistema responsável pela guarda física dos materiais em
+estoque, com exceção dos produtos em processo.
+
+B)   responsável pela gestão, negociação e contratação de compras de material através do
+processo de licitação. Preocupa-se sobremaneira com o estoque de matéria-prima. É da
+responsabilidade deste subsistema assegurar que as matérias-primas exigidas pela produção
+estejam à disposição nas quantidades certas, nos períodos desejados.
+
+C)   encarregado do controle e normalização das transações de recebimento, fornecimento,
+devoluções, transferências de materiais e quaisquer outros tipos de movimentações de entrada e
+de saída de material.
+
+D)     encarregado do cadastramento de fornecedores, pesquisa de mercado e compras.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Essa é uma questão que se refere
+especiﬁcamente a um autor. Segundo Martins (2006) a Administração de Materiais tem 7
+subsistemas especíﬁcos: Controle de estoque, Classiﬁcação de material, Aquisição/compra de
+material, Armazenagem/almoxarifado, Movimentação de material, Inspeção de recebimento e
+Cadastro. Das alternativas listadas apenas o Controle de Estoques apresenta a sua correta
+deﬁnição, sendo deﬁnido como responsável pela gestão econômica dos estoques, através do
+planejamento e da programação do material, compreendendo análise, previsão, controle e
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       108
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+ressuprimento.
+
+As deﬁnições completas de cada um dos subsistemas segue abaixo:
+
+a) Controle de estoque - subsistema responsável pela gestão econômica dos estoques, através
+do planejamento e da programação de material, compreendendo a análise, a previsão, o controle
+e o ressuprimento de material. Os estoques podem ser de: matéria-prima, produtos em fabricação
+e produtos acabados. O setor de controle de estoque acompanha e controla o nível de estoque e
+o investimento ﬁnanceiro envolvido.
+
+b)     Classiﬁcação de material - subsistema responsável pela identiﬁcação (especiﬁcação),
+classiﬁcação, codiﬁcação, cadastramento e catalogação de material.
+
+c) Aquisição/compra de material - subsistema responsável pela gestão, negociação e
+contratação de compras de material através do processo de licitação. O setor de compras
+preocupa-se sobremaneira com o estoque de matéria-prima. É da responsabilidade de compras
+assegurar que as matérias primas exigidas pela produção estejam à disposição nas quantidades
+certas, nos períodos desejados.
+
+d)   Armazenagem/almoxarifado - subsistema responsável pela gestão física dos estoques,
+compreendendo as atividades de guarda, preservação, embalagem, recepção e expedição de material,
+segundo determinadas normas e métodos de armazenamento.
+
+e)    Movimentação de material - subsistema encarregado do controle e normalização das
+transações de recebimento, fornecimento, devoluções, transferências de materiais e quaisquer
+outros tipos de movimentações de entrada e de saída de material.
+
+f) Inspeção de recebimento - subsistema responsável pela veriﬁcação física e documental do
+recebimento de material, podendo ainda encarregar-se da veriﬁcação dos atributos qualitativos
+pelas normas de controle de qualidade.
+
+g) Cadastro - subsistema encarregado do cadastramento de fornecedores, pesquisa de mercado
+e compras.
+
+Adicionalmente o autor elenca três outros subsistemas especíﬁcos:
+
+a) Inspeção de suprimentos - subsistema de apoio responsável pela veriﬁcação da aplicação das
+normas e dos procedimentos estabelecidos para o funcionamento da Administração de Materiais
+em toda a organização, analisando os desvios da política de suprimento traçada pela
+administração e proporcionando soluções.
+
+b) Padronização e normalização - subsistema de apoio ao qual cabe a obtenção de menor
+número de variedades existentes de determinado tipo de material, por meio de uniﬁcação e
+especiﬁcação dos mesmos, propondo medidas de redução de estoques.
+
+c)      Transporte de material - subsistema de apoio que se responsabiliza pela política e pela
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        109
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+execução do transporte, movimentação e distribuição de material.
+
+A    alternativa B está incorreta. Esse é o subsistema de aquisição/compras e não de
+armazenagem/almoxarifado. Conﬁra no gabarito da questão.
+
+A alternativa C está incorreta. Esse é o subsistema de movimentação de material e não de
+armazenagem/almoxarifado. Conﬁra no gabarito da questão.
+
+A alternativa D está incorreta. Esse é o subsistema de cadastro e não de armazenagem
+
+Gabarito: letra A
+
+47.     (QUADRIX/CRBM 4 PA/Agente Administrativo/2021) Em termos genéricos, a
+administração consiste no processo de planejar, organizar, dirigir e controlar o uso de recursos e
+competências, a ﬁm de alcançar os objetivos organizacionais desejados. Idalberto Chiavenato.
+Introdução à teoria geral da administração: uma                      visão      abrangente      da
+moderna administração das organizações. 5.ª ed. São Paulo: Atlas, 2021, p. 10.
+
+Tendo o texto acima como referência inicial, julgue o item a seguir.
+
+Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface com
+diversos setores da organização e deve atuar de modo a conciliar interesses conﬂitantes,
+harmonizando as necessidades desses setores para assegurar a disponibilidade dos bens
+necessários para a operacionalização da produção.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+A área de Administração de Materiais é uma área que tipicamente resolve conﬂitos, muitas vezes
+lembrada pelo seu papel mediador entre departamentos com diferentes interesses como, por
+exemplo, o constante embate a respeito dos estoques entre os departamentos ﬁnanceiro e de
+vendas/comercial/produção, o primeiro querendo reduzi-lo com foco nos custos gerados e os
+segundos querendo aumentá-lo, evitando ao máximo problemas com as entregas comprometidas
+aos clientes.
+
+Ainda, de acordo com Marco Aurélio Dias, "a Administração de Materiais compreende o
+agrupamento dos materiais de várias origens, e a coordenação dessa atividade com a demanda
+de produtos ou serviços da empresa. Desse modo, soma esforços de vários setores, que,
+naturalmente, apresentam visões diferentes."
+
+Nesse cenário, continua o autor: "a Administração de Materiais deve buscar a maximização do
+efeito lubriﬁcante do feedback de vendas e o ajuste do planejamento e programação da
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          110
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+produção."
+
+Gabarito: Correta
+
+48.      (INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+diferencia um recurso material de um recurso patrimonial?
+
+a)     O recurso patrimonial é de natureza permanente.
+
+b)     O recurso material é de natureza permanente.
+
+c)     O recurso patrimonial é um material de consumo.
+
+d)     O recurso material é um equipamento de produção.
+
+e)     O recurso patrimonial é bem de estoque.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Segundo Fenilli, de forma genérica o
+recurso patrimonial é considerado "todo o bem físico (tangível) empregado em uma organização
+que detém natureza permanente", ao contrário do recurso material, pronto para o consumo e/ou
+emprego no processo produtivo. Em geral, os bens patrimoniais podem ser de três tipos:
+imóveis (prédios, terrenos etc.), instalações (uma central de ar condicionado, por exemplo) e
+materiais permanentes (máquinas, móveis, computadores etc.).
+
+A alternativa B está incorreta. Ao contrário, o recurso material é de natureza não permanente.
+Segundo Fenilli "é todo o bem físico (tangível) empregado em uma organização que detém
+natureza não permanente. Em geral, constituem-se em materiais que são consumidos ao longo do
+tempo, constituindo-se, usualmente, bens de estoque. Apesar de ser esta uma classiﬁcação
+contábil, o conceito de recurso material, em sentido estrito, aproxima-se sobremaneira do inerente
+a material de consumo."
+
+A alternativa C está incorreta. O recurso patrimonial é um bem patrimonial e não um material de
+consumo, este, tipicamente, um recurso material.
+
+A alternativa D está incorreta. Um equipamento de produção é um bem patrimonial.
+
+A alternativa E está incorreta. Bens de estoque são recursos materiais e não patrimoniais.
+
+Gabarito: letra A
+
+49.            (QUADRIX/CRP 14 MS/Assessor Técnico/2021) Julgue o item. O objetivo da
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          111
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+administração de materiais é garantir a qualidade e a quantidade adequada dos materiais no
+momento certo.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+A aﬁrmativa se baseia em uma das deﬁnições clássicas da Administração de Materiais, ou seja,
+garantir os materiais desejados na quantidade exata, com a qualidade especiﬁcada, no local
+correto, no tempo preciso e a um preço competitivo.
+
+Gabarito: Correta
+
+50.       (QUADRIX/CRP 14 MS/Auxiliar Administrativo/2021) Julgue o item. O maior objetivo de
+um gestor de recursos materiais é utilizar os recursos da melhor forma possível, sem gastos
+desnecessários, sem perdas, sem desperdícios e sem afetar negativamente a operação da
+instituição.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+Todas essas metas são almejadas por um administrador de materiais. Utilizar os recursos da melhor
+forma possível e maximizar o seu uso, evitar gastos e desperdícios fazem sempre parte do rol de
+objetivos do gestor de materiais.
+
+De acordo com Fenili (2011), os objetivos da Administração de Materiais são “Suprir a organização
+dos materiais nas quantidades corretas, na qualidade requerida, no momento certo, armazenando-
+os e no local apropriados, praticando preços econômicos e minimizando estoques”.
+
+Gabarito: Correta
+
+51.     (QUADRIX/CRP 14 MS/Auxiliar Administrativo/2021) Julgue o item. O ciclo da
+administração de materiais envolve diversas etapas e atividades. Essas etapas são: sinalização da
+demanda; identiﬁcação dos fornecedores; compra de materiais; e alienação.
+
+a)     CERTO
+
+b)     ERRADO
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         112
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Comentários:
+
+O ciclo da Administração de Materiais envolve classicamente três etapas, a aquisição dos
+materiais, o seu estoque/armazenamento e a sua distribuição, ou seja, a chegada do
+material/produto acabado ao cliente que o adquire.
+
+De acordo com Gonçalves (2007), a administração de materiais pode ser dividida em três grandes
+nichos de atividades, complementares entre si:
+
+“Gestão de estoques que objetiva adequar os níveis de estoque às necessidades e à política de
+gestão de materiais da organização.
+
+Gestão de compras que objetiva efetuar as aquisições demandadas pelos diversos órgãos
+componentes da empresa, bem como atender às solicitações da área gestora de estoques.
+
+Gestão dos centros de distribuição responsável pelo controle físico dos materiais, bem como pelo
+seu recebimento na organização, movimentação, armazenagem e distribuição interna”.
+
+Gabarito: Errada
+
+52.     (QUADRIX/CRF MA/Assistente Administrativo/2021) Não se refere à função da
+administração de materiais o(a):
+
+a)     aquisição.
+
+b)     transporte.
+
+c)     arquivamento.
+
+d)     almoxarifado.
+
+e)     estoque.
+
+Comentários:
+
+A alternativa A está incorreta. As principais atividades da administração de materiais dividem-se
+em aquisição/compras, armazenagem/estoque (aqui incluídos os almoxarifados) e a
+distribuição/transporte dos materiais e/ou produtos acabados aos clientes que os adquirirem.
+
+A alternativa B está incorreta. As principais atividades da administração de materiais dividem-se
+em aquisição/compras, armazenagem/estoque (aqui incluídos os almoxarifados) e a
+distribuição/transporte dos materiais e/ou produtos acabados aos clientes que os adquirirem.
+
+A alternativa C está correta e é o gabarito da questão. Arquivamento não tem qualquer relação
+com as principais atividades de administração de materiais.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         113
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa D está incorreta. As principais atividades da administração de materiais dividem-se
+em aquisição/compras, armazenagem/estoque (aqui incluídos os almoxarifados) e a
+distribuição/transporte dos materiais e/ou produtos acabados aos clientes que os adquirirem.
+
+A alternativa E está incorreta. As principais atividades da administração de materiais dividem-se
+em aquisição/compras, armazenagem/estoque (aqui incluídos os almoxarifados) e a
+distribuição/transporte dos materiais e/ou produtos acabados aos clientes que os adquirirem.
+
+Gabarito: letra C
+
+53.      (QUADRIX/CRESS 18 SE/Coordenador-Geral/2021) Acerca da administração de
+patrimônios, julgue o item. A administração de materiais teve uma evolução muito grande nos
+últimos setenta anos. Nos anos 1950, o foco era no inventário da organização. Já nos anos 1970,
+o foco mudou para a produção. A partir dos anos 2000, com a globalização e as parcerias cada
+vez mais presentes, o foco passou a ser em processos gerenciais.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+Na década de 50 de fato o processo de gestão de materiais voltava-se para o gerenciamento dos
+estoques e inventários, enquanto nos anos 70 esse foco foi direcionado para os processos
+produtivos. Porém, a partir dos anos 2000 a Administração de Materiais ao invés de voltar-se para
+os processos gerenciais ( o que ocorre ao longo dos anos 90) passa sim a mirar a ﬂexibilidade e a
+agilidade dos processos. Vejamos a seguir:
+
+     Época      Cenário de negócios                        Ênfase da ARM
+
+
+     1950       Volume de produção                         Foco no inventário
+
+
+     1960       Vendas                                     Foco na distribuição
+
+
+     1970       Investimento de capitais                   Foco na produção
+
+
+     1980       Competição acirrada                        Foco em compras-produção e vendas
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais         114
+            www.estrategiaconcursos.com.br                                                     165
+
+                                        
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+  1990        Globalização                              Foco nos processos gerenciais
+
+
+  2000        Globalização, alianças                    Foco na ﬂexibilidade e na agilidade
+
+
+Gabarito: Errada
+
+54.         (FADESP/UEPA/Agente Administrativo/2020) A gestão de materiais:
+
+a) é um processo simples que envolve a parte dos ﬂuxos de materiais da empresa voltados
+exclusivamente à movimentação de produtos acabados.
+
+b) consiste em dispor os materiais necessários na quantidade certa, no local certo e no tempo
+certo, à disposição dos órgãos que compõem o processo produtivo.
+
+c) focaliza a estocagem como a atividade que deve ser a principal preocupação e requer o
+envolvimento apenas do gestor de materiais.
+
+d) está restrita aos cargos e órgãos que têm a responsabilidade pela compra de materiais e pela
+venda de produtos.
+
+Comentários:
+
+A alternativa A está incorreta. A gestão de materiais não é um processo simples, mas sim
+complexo e envolve várias etapas além da movimentação de produtos acabados, como a compra
+de materiais, seu armazenamento, transporte e distribuição após, aí sim, serem transformados em
+produtos acabados.
+
+A alternativa B está correta e é o gabarito da questão. Deﬁnição típica de administração de
+materiais. Vejamos: "garantir os materiais desejados na quantidade exata, com a qualidade
+especiﬁcada, no local correto, no tempo preciso e a um preço competitivo".
+
+A alternativa C está incorreta. A estocagem é uma das atividades da administração de materiais e
+envolve outros proﬁssionais além do gestor de materiais, como todos os funcionários/servidores
+envolvidos no processo.
+
+A alternativa D está incorreta. Além dos cargos e órgãos citados temos também que considerar
+todos os envolvidos com armazenamento / estoque dos materiais, produtos, pelo transporte e
+distribuição dos produtos acabados, etc.
+
+Gabarito: letra B
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais           115
+         www.estrategiaconcursos.com.br                                                       165
+
+                                     
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+55.      (FAFIPA/CISPAR/Auxiliar/2020) Com base no tema Controle de material de expediente,
+analise os itens a seguir e assinale a alternativa que apresenta qual(is) está(ão) CORRETO(S):
+
+I.      É necessário controlar a quantidade para que não ocorra falta ou excessos.
+
+II.      Os materiais devem estar disponíveis sempre que necessário.
+
+III. Um bom controle de materiais leva em consideração que os itens precisam estar no
+momento certo, na quantidade certa e no local certo, para que o processo produtivo ocorra de
+maneira adequada.
+
+a)      Apenas II está correto.
+
+b)      Apenas III está correto.
+
+c)      Apenas I está correto.
+
+d)      Todos estão corretos.
+
+e)      Todos estão incorretos.
+
+Comentários:
+
+Antes de buscar a alternativa correta vamos avaliar cada uma das aﬁrmativas.
+
+I. É necessário controlar a quantidade para que não ocorra falta ou excessos. CORRETO. O
+controle e planejamento dos volumes adquiridos é crucial na busca do maior nível possível de
+eﬁciência e aproveitamento no processo de gestão de materiais.
+
+II.  Os materiais devem estar disponíveis sempre que necessário. CORRETA. Os materiais
+desejados devem estar disponíveis na quantidade exata, com a qualidade especiﬁcada, no local
+correto, no tempo preciso e a um preço competitivo".
+
+III. Um bom controle de materiais leva em consideração que os itens precisam estar no
+momento certo, na quantidade certa e no local certo, para que o processo produtivo ocorra de
+maneira adequada. CORRETA. Como vimos acima, os materiais desejados devem estar disponíveis
+na quantidade exata, com a qualidade especiﬁcada, no local correto, no tempo preciso e a um
+preço competitivo".
+
+Dessa forma, todas as aﬁrmativas estão corretas.
+
+A alternativa D está correta e é o gabarito da questão.
+
+Gabarito: letra D
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais     116
+            www.estrategiaconcursos.com.br                                                 165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+56.     (VUNESP/VALIPREV/Agente Administrativo/2020) Para que exista a economia de
+suprimentos no setor público, é preciso gerir corretamente os recursos, assim como realizar bem
+a gestão logística. Nesse sentido, deve-se atuar na gestão de:
+
+a)     licitações, contratos, de compra e venda e avaliação 360º.
+
+b)     bens e serviços, de preços e cotações, plataforma e IoT.
+
+c)     orçamento, compra e venda, de estoques e inovação tecnológica.
+
+d)     compra, estoque, contratos, plataforma e inovação incremental.
+
+e)     estoques, de bens e serviços, contratos e fornecedores.
+
+Comentários:
+
+A alternativa A está incorreta. A avaliação 360o é uma atividade relacionada a RH e não a logística
+da organização.
+
+A alternativa B está incorreta. A IoT é uma atividade relacionada a TI e não a logística da
+organização.
+
+A alternativa C está incorreta. A Inovação Tecnológica é uma atividade relacionada a TI e não a
+logística da organização.
+
+A alternativa D está incorreta. A Inovação Incremental é uma atividade relacionada ao
+Planejamento Estratégico e não a logística da organização.
+
+A alternativa E está correta e é o gabarito da questão. Estoques, de bens e serviços, contratos e
+fornecedores estão todos ligados as atividades logísticas da organização.
+
+Gabarito: letra E
+
+57.     (FEPESE/Pref. Mun. Itajaí-SC/Agente/2020) Um servidor público, diante da busca por
+melhorias no seu trabalho, realizou algumas medidas tais como: criou padrões e regras para
+organização, desenhou um ﬂuxo de entrada e saída, deﬁniu datas e períodos de compras e deﬁniu
+um volume mínimo e máximo para cada produto. Diante dessas ações, o servidor fez melhorias
+visando ao controle de:
+
+a)     saída.
+
+b)     estoque.
+
+c)     materiais.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           117
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+d)     recebimento.
+
+e)     conservação.
+
+Comentários:
+
+A alternativa A está incorreta. São todas medidas que visam a melhoria do processo de gestão de
+materiais e não apenas do processo de saída (transporte, distribuição, etc).
+
+A alternativa B está incorreta. Embora todas as ações sejam medidas que visam a melhoria do
+processo de gestão de materiais, as datas de períodos de compras estão relacionadas a atividade
+de aquisição (compras) e não armazenamento (estoques).
+
+A alternativa C está correta e é o gabarito da questão. Todas essas são medidas que visam a
+melhoria do processo de gestão de materiais.
+
+A alternativa D está incorreta. São todas medidas que visam a melhoria do processo de gestão
+de materiais e não apenas do processo de recebimento (entrada, conferências, armazenamento
+posterior, etc).
+
+A alternativa E está incorreta. São todas medidas que visam a melhoria do processo de gestão de
+materiais e não apenas do processo de conservação.
+
+Gabarito: letra C
+
+58.     (QUADRIX/CREFONO 1/Proﬁssional Administrativo/2020) A respeito da administração
+ﬁnanceira e da administração de pessoas e de materiais, julgue o item. A administração de
+recursos materiais engloba a seguinte sequência de operações: identiﬁcação do fornecedor;
+compra do bem; seu recebimento; transporte interno e acondicionamento; transporte durante o
+processo produtivo; armazenagem como produto acabado; e, ﬁnalmente, sua distribuição.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+O enunciado descreve praticamente todo o ﬂuxo da atividade de gestão de materiais, desde a
+atividade de compras (que começa com a identiﬁcação e escolha dos fornecedores) até a
+saída/entrega do material/produto acabado aos clientes que o adquiriram.
+
+O processo abrange as três etapas nas quais está sustentado a administração de materiais.
+Vejamos, de acordo com Gonçalves:
+
+●              Gestão de compras: Identiﬁcação de fornecedores, pesquisa de preços, negociação com
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          118
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+o mercado, acompanhamento de pedidos.
+
+●       Gestão de estoques: Análise dos custos de estoque, previsão de consumo,
+operacionalização dos sistemas de reposição de estoque, inventários dos estoques, apuração de
+indicadores.
+
+●      Gestão dos centros de distribuição: Recebimento, armazenagem, distribuição,
+movimentação de materiais.
+
+Gabarito: Correta
+
+59.     (INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020) A
+administração de materiais é um sistema integrado destinado a dotar a administração dos meios
+necessários ao suprimento de materiais no tempo oportuno, na quantidade necessária, na
+qualidade requerida e pelo menor custo. Assinale a alternativa que apresenta consequências do
+mal planejamento do tempo oportuno e da quantidade necessária no suprimento de materiais.
+
+a)     Estoques elevados e ociosidade de materiais.
+
+b)     Insuﬁciência de estoque e ineﬁciência operacional.
+
+c)     Retenções ociosas de capital e compras adicionais.
+
+d)     Defeitos na fabricação e interrupções de máquinas.
+
+e)     Custos ﬁnanceiros indesejáveis e lucros cessantes.
+
+Comentários:
+
+A alternativa A está incorreta. A ociosidade de materiais, embora possa estar ligada ao
+planejamento de compras está também relacionada a atividade comercial da empresa que,
+quando ineﬁciente, faz com que, mesmo planejado com precisão, o volume estocado não seja
+escoado e possa se tornar ocioso. Além disso o mal planejamento na maioria das vezes leva a
+ruptura dos estoques (falta) e não a sua elevação.
+
+A alternativa B está incorreta. A ineﬁciência operacional está em grande parte ligada ao processo
+produtivo e não à gestão de materiais.
+
+A alternativa C está incorreta. A retenção ociosa de capital está relacionada a gestão ﬁnanceira e
+não de materiais.
+
+A alternativa D está incorreta. São ambos problemas ligados ao processo produtivo e não à gestão
+de materiais.
+
+A alternativa E está correta e é o gabarito da questão. O cálculo ineﬁciente dos volumes
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          119
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+necessários de estoques, assim como do tempo correto para sua aquisição podem levar a geração
+de custos adicionais como de manutenção, de armazenamento ou de pedidos mal planejados.
+Paralelamente, a compra em momento inoportuno pode levar à quebra de estoque (falta),
+causando a diminuição ou mesmo cessação dos lucros da organização por falta de produtos a
+serem oferecidos ao mercado.
+
+Gabarito: letra E
+
+60.      (INSTITUTO AOCP/Pref. Mun. Betim-MG/Oﬁcial de Administração/2020) A
+decomposição da atividade de Administração de materiais permite identiﬁcar as subfunções ou
+os subsistemas típicos e especíﬁcos. Dentre os subsistemas típicos, qual é responsável pela gestão
+econômica dos estoques, por meio do planejamento e da programação de material,
+compreendendo a análise, a previsão, o controle e o ressuprimento de material?
+
+a)     Controle de estoque.
+
+b)     Aquisição de material.
+
+c)     Cadastro de fornecedores.
+
+d)     Movimentação de material.
+
+e)     Armazenamento de material.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. De acordo com a doutrina, a Administração
+de Materiais pode ser dividia em subsistemas típicos e especíﬁcos. São eles:
+
+Subsistemas Típicos: Controle de Estoques, Classiﬁcação de Materiais, Aquisição de Materiais,
+Armazenagem, Movimentação de Material, Inspeção de Recebimento e Cadastro.
+
+Subsistemas Especíﬁcos: Inspeção de Suprimentos, Padronização e Normalização e Transporte de
+Material.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          120
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+Dessa forma, podemos apontar o Controle de Estoque como o subsistema típico responsável pela
+gestão econômica dos estoques, por meio do planejamento e da programação de material,
+compreendendo a análise, a previsão, o controle e o ressuprimento de material.
+
+A alternativa B está incorreta. O subsistema típico responsável pela gestão econômica dos
+estoques, por meio do planejamento e da programação de material, compreendendo a análise, a
+previsão, o controle e o ressuprimento de material é o Controle de Estoque e não a Aquisição de
+Material.
+
+A alternativa C está incorreta. O subsistema típico responsável pela gestão econômica dos
+estoques, por meio do planejamento e da programação de material, compreendendo a análise, a
+previsão, o controle e o ressuprimento de material é o Controle de Estoque e não o Cadastro de
+Fornecedores.
+
+A alternativa D está incorreta. O subsistema típico responsável pela gestão econômica dos
+estoques, por meio do planejamento e da programação de material, compreendendo a análise, a
+previsão, o controle e o ressuprimento de material é o Controle de Estoque e não a Movimentação
+de Material.
+
+A alternativa E está incorreta. O subsistema típico responsável pela gestão econômica dos
+estoques, por meio do planejamento e da programação de material, compreendendo a análise, a
+previsão, o controle e o ressuprimento de material é o Controle de Estoque e não o
+Armazenamento de Material.
+
+Gabarito: letra A
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          121
+        www.estrategiaconcursos.com.br                                                      165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+61.      (FAPEC/UFMS/Assistente em Administração/2020) Sobre a Administração de Recursos
+Materiais, analise as assertivas a seguir.
+
+I - A Administração de Materiais compreende processos e projetos que se desenvolvem no
+contexto da cultura organizacional.
+
+II - Recursos materiais são também denominados recursos físicos e englobam todos os aspectos
+materiais e físicos que a organização utiliza para produzir.
+
+III - A Administração de Materiais consiste em ter os materiais necessários na quantidade
+certa, no local certo e no tempo certo, à disposição das unidades que compõem o funcionamento
+da organização.
+
+IV - A Administração de Materiais corresponde à totalidade das funções relacionadas com os
+materiais, seja com sua programação, aquisição, estocagem, distribuição, etc.
+
+V - A Administração de Materiais diz respeito à totalidade de recursos disponíveis em uma
+organização em termos tecnológicos, humanos e patrimoniais.
+
+Assinale a alternativa correta.
+
+a)     Apenas I, III, IV e V estão corretas.
+
+b)     Apenas IV e V estão corretas.
+
+c)     Apenas I, III e IV estão corretas.
+
+d)     Apenas III e IV estão corretas.
+
+e)     Apenas II, III e IV estão corretas.
+
+Comentários:
+
+Vamos avaliar as aﬁrmativas antes de buscar as alternativas corretas:
+
+I - A Administração de Materiais compreende processos e projetos que se desenvolvem no
+contexto da cultura organizacional. ERRADA. A cultura organizacional está muito mais ligada à
+gestão dos recursos humanos e à estratégia da organização do que a gestão de recursos materiais.
+
+II - Recursos materiais são também denominados recursos físicos e englobam todos os aspectos
+materiais e físicos que a organização utiliza para produzir. CORRETA. Os recursos materiais em
+regra são empregados no processo produtivo e transformados em produtos acabados que depois
+são disponibilizados ao mercado.
+
+III - A Administração de Materiais consiste em ter os materiais necessários na quantidade certa,
+no local certo e no tempo certo, à disposição das unidades que compõem o funcionamento da
+organização. CORRETA. Deﬁnição clássica da gestão de materiais, ou seja, garantir os materiais
+desejados na quantidade exata, com a qualidade especiﬁcada, no local correto, no tempo preciso
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        122
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+e a um preço competitivo.
+
+IV - A Administração de Materiais corresponde à totalidade das funções relacionadas com os
+materiais, seja com sua programação, aquisição, estocagem, distribuição, etc. CORRETA. Esse é
+mesmo o escopo da gestão de materiais, abrangendo tudo que diz respeito aos recursos materiais,
+de sua programação/obtenção, até a distribuição dos produtos acabados aos clientes/mercado.
+
+V - A Administração de Materiais diz respeito à totalidade de recursos disponíveis em uma
+organização em termos tecnológicos, humanos e patrimoniais. ERRADA. A Administração de
+Materiais é responsável pela gestão dos recursos materiais. Os recursos patrimoniais, ﬁnanceiros,
+humanos, tecnológicos, mercadológicos e administrativos são geridos por outras áreas da
+organização.
+
+Dessa forma temos: F-V-V-V-F
+
+A alternativa E está correta e é o gabarito da questão.
+
+Gabarito: letra E
+
+62.    (FAPEC/UFMS/Assistente em Administração/2020) Acerca dos                      procedimentos
+fundamentais da administração de materiais, assinale a alternativa correta.
+
+a) Gestão refere-se à atividade que focaliza o cadastro de materiais necessários à manutenção
+e ao desenvolvimento da organização.
+
+b) Recebimento refere-se à atividade de assegurar a ﬁel guarda dos materiais conﬁados pela
+organização, objetivando sua preservação até o consumo ﬁnal.
+
+c) Almoxarifado refere-se à atividade de assegurar o rápido recebimento de materiais adquiridos
+pela organização.
+
+d) Cadastramento refere-se à atividade de gerenciamento dos estoques, por meio de técnicas
+que permitam manter o equilíbrio com o consumo.
+
+e)     Compras corresponde à atividade que tem por ﬁnalidade suprir as necessidades da
+organização, mediante aquisição de materiais ou serviços, com base no levantamento de
+solicitações dos usuários.
+
+Comentários:
+
+A alternativa A está incorreta. Gestão é um termo absolutamente genérico que se refere à
+administração de inúmeros processos e não só à atividade que focaliza o cadastro de materiais
+necessários à manutenção e ao desenvolvimento da organização, centrada na área de compras e
+chamada de cadastramento.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              123
+        www.estrategiaconcursos.com.br                                                          165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa B está incorreta. Aqui o examinador de refere à atividade de armazenagem e não
+ao recebimento.
+
+A alternativa C está incorreta. Aqui o examinador de refere à atividade de recebimento e não ao
+almoxarifado/armazenamento.
+
+A alternativa D está incorreta. Aqui o examinador de refere à atividade de gestão de estoques e
+não ao cadastramento.
+
+A alternativa E está correta e é o gabarito da questão. Exatamente a deﬁnição adotada para a
+área de compras de uma organização, focada na aquisição externa de materiais ou serviços.
+
+Gabarito: letra E
+
+63.     (ITAME/Pref. Mun. Edéia-GO/Assistente Administrativo/2020) Os Recursos Materiais são
+aqueles que:
+
+a)  constituem todos os aspectos relacionados com o dinheiro utilizado pela empresa para
+ﬁnanciar suas operações;
+
+b)     constituem toda forma de atividade humana dentro da empresa;
+
+c) constituem toda atividade voltada para o atendimento do mercado de clientes e
+consumidores da empresa;
+
+d)    refere-se aos elementos físicos empregados por uma organização e concorre para a
+constituição de seu produto ﬁnal, que poderá ser um material processado ou serviço.
+
+Comentários:
+
+A alternativa A está incorreta. Aqui a banca descreve os recursos ﬁnanceiros e não materiais. A
+alternativa B está incorreta. Aqui a banca descreve os recursos humanos e não materiais.
+
+A alternativa C está incorreta. Aqui a banca descreve os recursos mercadológicos e não materiais.
+Os recursos mercadológicos são deﬁnidos pela estratégia de marketing ou comercial da empresa,
+composta por propaganda, posicionamento, vendas, assistência técnica, pós venda, etc.
+
+A alternativa D está correta e é o gabarito da questão. Descrição correta dos recursos materiais,
+que serão transformados em produtos/serviços e disponibilizados ao mercado. Esse é o
+entendimento de Idalberto Chiavenato a respeito dos recursos organizacionais: Materiais,
+Financeiros, Humanos, Mercadológicos e Administrativos, o que difere um pouco do
+entendimento clássico que traz os recursos Materiais, Patrimoniais, Humanos, Financeiros e
+Tecnológicos.
+
+Gabarito: letra D
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         124
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+64.     (ITAME/Pref. Mun. Ipiranga de Goiás-GO/Auxiliar Administrativo/2020) Podemos deﬁnir
+como gestão de materiais o conjunto de atividades desenvolvidas dentro de uma empresa, de
+forma centralizada ou não, destinadas a suprir as diversas unidades, com materiais necessários ao
+desempenho normal das respectivas atribuições. Nesse contexto, podemos deﬁnir como a missão
+do gestor de materiais o que se aﬁrma em:
+
+a) Assegurar um satisfatório padrão de qualidade no atendimento das necessidades de seus
+clientes e elevar a produtividade da empresa, administrando os materiais, recursos e as
+informações relacionadas.
+
+b)     Compras, recebimento, armazenamento, fornecimento e controle de estoque.
+
+c) Garantir a existência contínua de um atendimento organizado, de modo a nunca faltar
+nenhum dos itens que o compõe, sem excessos.
+
+d) Suprimento de materiais na quantidade necessária, qualidade requerida, tempo oportuno e
+menor custo.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Deﬁnição exata das atribuições de um
+gestor de materiais, compreendendo o atendimento das necessidades externas (clientes) por meio
+da gestão de todo o processo interno (administração dos recursos materiais: compras, estoques,
+distribuição), obtendo como resultado a elevação da produtividade da organização.
+
+A alternativa B está incorreta. O fornecimento não é uma atividade ligada ao gestor de materiais,
+visto que a atividade busca a compra externa dos materiais demandados.
+
+A alternativa C está incorreta. O fornecimento contínuo é mesmo buscado pela administração de
+materiais, porém, especiﬁcamente por sua área de compras e, portanto, não pode ser considerada
+a missão de um gestor de materiais, mas sim parte de seus objetivos.
+
+A alternativa D está incorreta. Embora aqui tenhamos alguns objetivos buscados pelo gestor de
+materiais, não podemos considerar como uma missão do proﬁssional, o que está melhor
+representado no gabarito da questão.
+
+Gabarito: letra A
+
+65.      (IDCAP/SAAE Ibiraçu/Auxiliar/2020) Segundo Fenili (2016) ao inserir a gestão de
+materiais na administração pública pode-se aﬁrmar que os materiais são os recursos públicos,
+adquiridos e mantidos com recursos oriundos da sociedade. Há, portanto, o dever do agente de
+empregá-los da melhor forma. Assinale a alternativa CORRETA em relação aos objetivos da gestão
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         125
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+de materiais:
+
+a) O objetivo central da administração de recursos materiais é maximizar o uso dos recursos
+materiais na organização pública, ou seja, evitar desperdícios.
+
+b)   Um objetivo secundário da gestão de materiais é suprir a organização dos materiais
+necessários ao seu desempenho, antecipando os pedidos e mantendo alto nível de estoque.
+
+c) Um objetivo secundário da gestão de materiais é aumentar os estoques e minimizar o uso dos
+recursos materiais.
+
+d) O objetivo central da administração de recursos materiais é minimizar o uso dos recursos
+materiais na organização pública, ou seja, evitar desperdícios.
+
+e)   Um objetivo secundário da gestão de materiais é praticar preços econômicos, receber e
+armazenar obrigatoriamente os bens em um mesmo espaço, com o intuito de reduzir custos de
+alocação.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. A maximização da utilização de recursos é
+mesmo o maior objetivo da gestão de materiais, minimizando desperdício e qualquer outro custo
+desnecessário à operação.
+
+A alternativa B está incorreta. A gestão de materiais não busca a manutenção de altos níveis de
+estoque pois geralmente geram elevados e indesejáveis custos à organização.
+
+A alternativa C está incorreta. Ao contrário, a gestão de materiais visa diminuir os estoques e
+maximizar o uso dos recursos materiais.
+
+A alternativa D está incorreta. Ao contrário, o objetivo central da administração de recursos materiais é
+maximizar (e não minimiza) o uso dos recursos materiais na organização pública, ou seja, evitar desperdícios.
+
+A alternativa E está incorreta. A prática de preços econômicos, ou mesmo a armazenagem
+obrigatória de bens em um mesmo espaço não é um objetivo da gestão de materiais que,
+dependendo do contexto pode pulverizar a armazenagem de bens em locais diferentes
+justamente buscando a maximização do uso dos recursos disponíveis. A prática de preços ao
+mercado, por sua vez, foge da competência da gestão de materiais e recai sobre as áreas de
+marketing, comercial e ﬁnanceira.
+
+Gabarito: letra A
+
+66.     (IDECAN/IF RR/Assistente/2020) Acerca dos principais objetivos da                           área    de
+Administração de Recursos Materiais e Patrimoniais, assinale a alternativa correta.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                          126
+        www.estrategiaconcursos.com.br                                                                      165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)   Os custos de produção, expedição e transportes não são afetados diretamente pela
+continuidade de fornecimento.
+
+b) As despesas com pessoal não fazem parte dos principais objetivos da área de Administração
+de Recursos Materiais e Patrimoniais.
+
+c) A área de materiais é responsável apenas pela qualidade de materiais e serviços provenientes
+de fornecedores externos.
+
+d) As relações com os fornecedores, sejam elas favoráveis ou não, são alheias aos objetivos
+almejados pela área de Administração de Recursos Materiais e Patrimoniais.
+
+e)   O preço baixo implica em melhor utilização do capital, aumentando o retorno sobre os
+investimentos e reduzindo o valor do capital de giro.
+
+Comentários:
+
+A alternativa A está incorreta. Ao contrário, falhas na continuidade de fornecimento afetam
+diretamente o processo produtivo e, por consequência, seus custos.
+
+A alternativa B está incorreta. As despesas com pessoal são inﬂuenciadas pela gestão de
+materiais. Ao se planejar mal os suprimentos e gerar estoques desnecessários, por exemplo, é
+possível que a organização tenha que alocar mais funcionários na sua gestão, elevando os valores
+com despesa de pessoal.
+
+A alternativa C está correta e é o gabarito da questão. A área de materiais de fato tem
+responsabilidade em relação aos materiais adquiridos externamente (compras). Materiais
+produzidos internamente em eventual processo de verticalização são de responsabilidade da área
+de produção.
+
+A alternativa D está incorreta. As relações com os fornecedores são um dos maiores objetivos da
+área de compras, portanto intimamente ligas as atividades de gestão de materiais.
+
+A alternativa E está incorreta. O preço não mantém relação diretamente proporcional com o
+retorno sobre os investimentos, podendo ser alto ou baixo para otimizá-lo.
+
+Gabarito: letra C
+
+67.     (VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015) Ao resumir a
+postura do Administrador Público frente aos problemas de Gestão do patrimônio e estoque, o
+administrador de estoque deve:
+
+a)     avisar a alta direção quando houver problemas de falta de estoque.
+
+b)     entrar em contato com os clientes relatando os fatos ocorridos pela falta da entrega.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          127
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+c)     gerenciar com efetividade os recursos existentes.
+
+d)     fazer relatório dos recursos faltantes para todos os setores da empresa.
+
+e)     entrar em contato com a Controladoria da União.
+
+Comentários:
+
+A alternativa A está incorreta. O gestor de materiais nesses casos deve é corrigir a situação e não
+avisar a alta gestão.
+
+A alternativa B está incorreta. Entrar em contato com os clientes não resolve o problema, embora
+seja recomendável alertá-los sobre potenciais problemas na entrega do que foi vendido. Porém,
+o mais importante é garantir junto aos fornecedores o fornecimento correto e contínuo do que foi
+contratado.
+
+A alternativa C está correta e é o gabarito da questão. Quando falamos em administração de
+materiais, a busca por eﬁciência é sempre uma constante. Nesse cenário, especialmente em
+questões genéricas como essa, ao se deparar com termos como "eﬁciência", "eﬁcácia" ou
+"efetividade", analise com carinho pois há grande chance de estar correto.
+
+E, no ﬁm do dia, este é mesmo o maior objetivo do gestor de materiais, ou seja, gerenciar de
+forma eﬁciente a aplicação dos recursos, evitando desperdícios, perdas e minimizando os custos.
+
+A alternativa D está incorreta. Não é a principal função do gestor de patrimônio e estoque. A
+alternativa E está incorreta. Controladoria da União? Essa é a mais distante de todas…
+
+Gabarito: letra C
+
+68.      (VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015) O conceito da
+Administração de materiais, no sistema de Gestão de Patrimônio e Estoque na Administração
+Pública, é:
+
+a)    um conjunto de ações destinadas a assegurar a aquisição, os registros e controles das
+atividades relacionadas com o emprego, a movimentação e a destinação dos diversos materiais.
+
+b)    a designação genérica de equipamentos, componentes, sobressalentes, acessórios,
+matérias-primas e outros itens empregados ou passíveis de empregos nas atividades dos órgãos,
+autarquias e fundações do Poder Executivo.
+
+c) um controle exercido pelo cidadão e associações representativas da comunidade, mediante
+amplo e irrestrito exercício do direito de petição perante qualquer órgão do poder e entidade da
+Administração pública.
+
+d)      o processo pelo qual se obtém ou se consegue um material ou bem, seja de natureza
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           128
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+industrial, comercial ou prestação de serviços.
+
+e)     a atividade ou função administrativa que compreende trocar dinheiro por mercadoria.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Veja que a alternativa passa por várias das
+etapas do ciclo que estudamos: aquisição, registro, controle, movimentação e destinação de
+materiais. Correto.
+
+A alternativa B está incorreta. A deﬁnição apresentada não corresponde a de gestão de materiais,
+de patrimônio ou de estoque que estudamos em aula.
+
+A alternativa C está incorreta. Essa muito menos. Aqui a banca fala em controle externo pelo
+cidadão. Bem distante do que vimos.
+
+A alternativa D está incorreta. Não é isso. Não é um processo de obtenção de um bem, mas um
+processo de gestão, interno, composto de várias etapas, como estudamos.
+
+A alternativa E está incorreta. Não. Essa deﬁnição pode ser aplicada ao processo de aquisição ou
+de venda.
+
+Gabarito: letra A
+
+69.      (VUNESP/TJ-SP/Administrador Judiciário/2019) A metodologia que busca observar uma
+dada companhia como um conjunto de atividades inter-relacionadas, que buscam agregar valor
+especíﬁco ao cliente, indicando como um produto se movimenta desde a etapa da matéria-prima
+até a sua chegada ao consumidor ﬁnal, sendo que o objetivo por todo esse processo é adicionar
+o máximo de valor aos elos da cadeia de maneira menos dispendiosa possível, é denominada
+
+a)     cadeia de valor.
+
+b)     custos de transporte.
+
+c)     valor do arranjo físico.
+
+d)     custos de armazenagem.
+
+e)     picking.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Esta é uma ótima deﬁnição da cadeia de
+processos conhecida por "gestão de materiais", "gestão da cadeia de suprimentos", "cadeia de
+valor" ou mesmo, de forma genérica, de "logística".
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           129
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa B está incorreta. Custos de transportes referem-se exclusivamente aos custos
+relativos à parte desta cadeia, aquela que movimenta mercadorias de fornecedores para a
+organização e dela para seus clientes.
+
+A alternativa C está incorreta. Também não é este o termo que o examinador está buscando no
+enunciado. O arranjo físico ou leiaute é exatamente a disposição de equipamentos , materiais e
+pessoas na unidade, de modo que o ﬂuxo de materiais e pessoas seja o mais eﬁciente possível.
+
+A alternativa D está incorreta. Esses são os custos relativos ao estoque do material, seja ele
+matéria prima, em transformação ou produto acabado.
+
+A alternativa E está incorreta. O processo de picking é a coleta, no estoque, do material solicitado.
+Não é disso que a banca está falando na questão.
+
+Gabarito: letra A
+
+70.     (VUNESP/UFABC/Assistente Administração/2019) Avaliar a necessidade de aquisição de
+suprimentos e equipamentos, evitando a compra de bens desnecessários ou inadequados, é
+função da
+
+a)     Avaliação Contábil.
+
+b)     Auditoria Patrimonial.
+
+c)     Análise Financeira.
+
+d)     Análise Patrimonial.
+
+e)     Auditoria Contábil.
+
+Comentários:
+
+A alternativa A está incorreta. A avaliação contábil não é responsável por essas atividades de
+gestão.
+
+A alternativa B está incorreta. A auditoria patrimonial não realiza esse tipo de processo. Tem por
+objetivo na verdade, examinar os controles administrativos e contábeis, a situação e condições
+existentes, bem como a veriﬁcação física e localização dos bens móveis e imóveis
+
+A alternativa C está incorreta. A análise ﬁnanceira também está bastante distante deste tipo de
+atividade.
+
+A alternativa D está correta e é o gabarito da questão. A gestão de toda a cadeia de suprimentos
+e, portanto, a avaliação da necessidade de aquisição de suprimentos e equipamentos, evitando a
+compra de bens desnecessários ou inadequados, é função típica da análise patrimonial.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais             130
+           www.estrategiaconcursos.com.br                                                         165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+A alternativa E está incorreta. A auditoria contábil, por ﬁm, compreende o exame de documentos,
+livros contábeis, registros, além de realização de inspeções e obtenção de informações de fontes
+internas e externas, tudo relacionado com o controle do patrimônio da entidade auditada.
+
+Gabarito: letra D
+
+71.     (VUNESP/Pref. Atibaia-SP/Assistente Serviços de Gestão Administrativa/2014) A visão
+moderna da cadeia de suprimentos – supply chain – enxerga todo o processo de geração de
+produtos e serviços (desde a entrada da matéria-prima até a entrega do produto ao cliente) e
+monitora esse processo de maneira integrada.
+
+Os grandes objetivos dessa visão são:
+
+a) diminuir o turnover, reduzir o tempo total, aumentar as margens dos produtos, aumentar a
+produção e melhorar índices de qualidade.
+
+b)  diminuir o turnover, reduzir o estoque, aumentar as margens dos produtos, aumentar a
+produção e melhorar o retorno do investimento.
+
+c)  reduzir os custos de fornecimento, reduzir o estoque, aumentar os ganhos ﬁnanceiros,
+aumentar a motivação e reduzir o absenteísmo.
+
+d) reduzir os custos de fornecimento, reduzir o tempo total, aumentar as margens dos produtos,
+aumentar a produção e melhorar o retorno do investimento.
+
+e) reduzir os custos de fornecimento, reduzir o tempo total, aumentar os ganhos ﬁnanceiros,
+aumentar a produção e reduzir o absenteísmo.
+
+Comentários:
+
+A alternativa A está incorreta. A gestão do supply chain não tem relação direta com os índices de
+turnover, listados na alternativa.
+
+A alternativa B está incorreta. Mais uma vez, índices de turnover não têm relação direta com a
+gestão da cadeia de suprimentos.
+
+A alternativa C está incorreta. Motivação e absenteísmo não estão ligados a gestão do supply
+chain.
+
+A alternativa D está correta e é o gabarito da questão. A gestão de toda a cadeia de suprimentos
+tem sempre os objetivos de reduzir os custos e o tempo total de atendimento, assim como atender
+ou aumentar o volume possível da produção e, como última consequência, as margens do produto
+e da organização, especialmente em função da redução de custos.
+
+A alternativa E está incorreta. O absenteísmo não tem qualquer ligação com a gestão do supply
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            131
+        www.estrategiaconcursos.com.br                                                        165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+chain.
+
+Gabarito: letra D
+
+72.      (IBFD/EBSERH/Assistente Administrativo/2020) A Administração de Materiais é um
+conjunto de atividades desenvolvidas dentro de uma empresa, de forma centralizada ou não,
+destinadas a suprir as diversas unidades, com os materiais necessários ao desempenho normal das
+respectivas atribuições (Dias, 1993). Acerca desse assunto analise as aﬁrmativas abaixo e dê
+valores Verdadeiro (V) ou Falso (F).
+
+( ) Compras a prazo e baixo giro de estoque são alguns dos objetivos da administração de
+materiais.
+
+( ) O Almoxarifado é o responsável pela guarda física dos materiais em estoque.
+
+( ) Avaliar outras empresas como possíveis fornecedores e supervisionar os almoxarifados da
+empresa são exemplos de responsabilidades da administração de materiais.
+
+( ) A padronização/normalização é um subsistema de apoio ao qual cabe a obtenção de menor
+número de variedades existentes de determinado tipo de material, por meio de uniﬁcação e
+especiﬁcação dos mesmos, propondo medidas de redução de estoques.
+
+Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+a)     F, V, V, F
+
+b)     V, V, V, F
+
+c)     F, V, V, V
+
+d)     V, F, V, F
+
+e)     V, V, F, V
+
+Comentários:
+
+Antes de analisar as alternativas, vamos analisar cada uma das aﬁrmativas.
+
+Compras a prazo e baixo giro de estoque são alguns dos objetivos da administração de materiais
+- Não está correto. O baixo giro de estoques não é um objetivo da gestão de materiais que, ao
+contrário, busca maximizar seu giro, diminuindo os custos da atividade de estocagem.
+
+O Almoxarifado é o responsável pela guarda física dos materiais em estoque. - Correto. É mesmo
+o almoxarifado o responsável pela estocagem dos materiais.
+
+Avaliar outras empresas como possíveis fornecedores e supervisionar os almoxarifados da empresa
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       132
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+são exemplos de responsabilidades da administração de materiais. - Correto. Ambas são funções
+do gestor de materiais.
+
+A padronização/normalização é um subsistema de apoio ao qual cabe a obtenção de menor
+número de variedades existentes de determinado tipo de material, por meio de uniﬁcação e
+especiﬁcação dos mesmos, propondo medidas de redução de estoques. - Correto também. Como
+vimos em aula, a padronização realmente busca a uniformização das medidas, formatos e pesos
+dos materiais, resultando em redução dos estoques.
+
+Portanto temos a sequência F-V-V-V.
+
+A alternativa C está correta e é o gabarito da questão.
+
+Gabarito: letra C
+
+73.      (FADESP/UEPA/Agente Administrativo/2020) A gestão de materiais envolve um conjunto
+de atividades ligado estreitamente à área de produção e operações de um grande número de
+organizações. Neste sentido, o processo produtivo
+
+a) é a contínua transformação de matérias-primas, materiais, energia e informações em produtos
+acabados ou em serviços prestados.
+
+b) diz respeito unicamente a empresas industriais, pois somente elas têm a tecnologia e as
+condições necessárias para produzir bens e serviços.
+
+c) representa toda e qualquer movimentação de materiais que saem do almoxarifado para serem
+disponibilizados para comercialização.
+
+d)     signiﬁca o trânsito percorrido pelos produtos desde que são fabricados até o armazenamento.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. O processo produtivo ou gestão da cadeia
+de suprimentos consiste realmente na transformação de matérias-primas, materiais, energia e
+informações em produtos acabados ou em serviços prestados.
+
+A alternativa B está incorreta. O processo produtivo não está restrito a empresas industriais. Pode
+ser encontrado em outros tipos de empresas e mesmo em organizações públicas.
+
+A alternativa C está incorreta. O processo de produção não é isso. Não representa apenas
+materiais que saem do almoxarifado para serem comercializados (neste caso pensando nos
+produtos acabados), mas também materiais que saem dos almoxarifados para serem
+transformados e, aí sim, serem disponibilizados para venda.
+
+A alternativa D está incorreta. O escopo da atividade não é só esse. O processo produtivo começa
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           133
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+antes, desde a escolha do fornecedor e, mais adiante, aí sim, vêm os processos de produção e
+armazenamento para posterior comercialização.
+
+Gabarito: letra A
+
+74.         (FADESP/UEPA/Agente Administrativo/2020) A gestão de materiais
+
+a) é um processo simples que envolve a parte dos ﬂuxos de materiais da empresa voltados
+exclusivamente à movimentação de produtos acabados.
+
+b) consiste em dispor os materiais necessários na quantidade certa, no local certo e no tempo
+certo, à disposição dos órgãos que compõem o processo produtivo.
+
+c) focaliza a estocagem como a atividade que deve ser a principal preocupação e requer o
+envolvimento apenas do gestor de materiais.
+
+d) está restrita aos cargos e órgãos que têm a responsabilidade pela compra de materiais e pela
+venda de produtos.
+
+Comentários:
+
+A alternativa A está incorreta. Primeiro que a gestão de materiais diﬁcilmente pode ser
+considerada um processo simples em virtude da complexidade trazida por diversos atores e
+cenários envolvidos.
+
+Além disso, não está voltada exclusivamente à movimentação de produtos acabados, envolvendo
+a matéria prima, os materiais em transformação e, inclusive e não somente, os produtos acabados.
+
+A alternativa B está correta e é o gabarito da questão. Essa é exatamente uma das deﬁnições que
+estudamos, de Idalberto Chiavenato e que corresponde aos grandes objetivos buscados pelo
+administrador de materiais.
+
+A alternativa C está incorreta. A estocagem exige o envolvimento de inúmeros outros proﬁssionais
+além do gestor de materiais, como o responsável pelos estoques, o planejador e outros mais
+envolvidos em diferentes etapas do ciclo produtivo.
+
+A alternativa D está incorreta. A gestão de materiais envolve mais atores além dos responsáveis
+pela compra de materiais e venda dos produtos acabados. Os responsáveis pelo transporte,
+produção e o próprio responsável pelo estoque, por exemplo, não estão aí considerados.
+
+Gabarito: letra B
+
+75.         (NC-UFPR/UFPR/Almoxarife/2019) O objetivo fundamental da Administração de
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           134
+        www.estrategiaconcursos.com.br                                                       165
+
+                                    
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Materiais é determinar                           e                  adquirir, para repor o
+estoque, o que determina que a estratégica do abastecimento sempre é acionada pelo usuário, à
+medida que, como consumidor, ele detona o processo. Assinale a alternativa que preenche
+corretamente as lacunas.
+
+a)     como – quanto.
+
+b)     volume – o que.
+
+c)     quando – o que.
+
+d)     quando – quanto.
+
+e)     preço – como.
+
+Comentários:
+
+A alternativa A está incorreta. O "como" não é objetivo fundamental da gestão de materiais.
+
+A alternativa B está incorreta. O "o que" também não é objetivo fundamental da gestão de
+materiais.
+
+A alternativa C está incorreta. Mais uma vez, o "o que" não é objetivo fundamental da gestão de
+materiais.
+
+A alternativa D está correta e é o gabarito da questão. Vimos pela deﬁnição de Chiavenato que a
+gestão de materiais procura disponibilizar a quantidade correta, no tempo correto e no local
+correto. Dessa forma precisamos deﬁnir quanto, quando e onde. Das alternativas disponibilizadas
+essa é a que melhor atende o enunciado.
+
+A alternativa E está incorreta. Preço e o "como" não são objetivos fundamentais da atividade de
+gestão de materiais.
+
+Gabarito: letra D
+
+76.          (AOCP/UFRB/Assistente Administração/2019) A Administração de Recursos
+Materiais e Patrimoniais possui alguns objetivos e critérios para sua gestão. Assinale a alternativa
+que apresenta o objetivo que é resultado de uma análise criteriosa, quando da escolha dos
+fornecedores, e inclui os custos de produção, expedição e transportes, sendo que, na
+administração pública, esses processos estão implícitos no edital de licitação.
+
+a)     Capacitação e aperfeiçoamento de pessoal.
+
+b)     Manutenção e continuidade de fornecimento.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            135
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+c)     Bom relacionamento com fornecedores.
+
+d)     Despesas com recursos humanos.
+
+Comentários:
+
+A alternativa A está incorreta. A capacitação e aperfeiçoamento do pessoal do fornecedor não
+estão a cargo da gestão de materiais da organização.
+
+A alternativa B está correta e é o gabarito da questão. Um dos maiores objetivos da gestão de
+material junto aos potenciais fornecedores é encontrar alguém que possa manter a continuidade
+do fornecimento ao longo do tempo, respeitando os prazos, locais, volumes e qualidade
+acordados.
+
+A alternativa C está incorreta. O bom relacionamento é uma consequência da parceria comercial
+criada e, sobretudo, não constará no edital de licitação.
+
+A alternativa D está incorreta. As despesas com os recursos humanos não estão no escopo do
+trabalho de identiﬁcação e escolha dos fornecedores.
+
+Gabarito: letra B
+
+77.     (IDCAP/SAAE Linhares/Oﬁcial Administrativo/2019) Quais dessas opções não são
+procedimentos da Administração de Materiais?
+
+a)     Identiﬁcação do fornecedor na compra do bem.
+
+b)     Recebimento e transporte interno.
+
+c)     Identiﬁcação do entregador na compra do bem
+
+d)     Acondicionamento e armazenagem do produto.
+
+e)     Cadastro dos salários, benefícios, metas e documentos dos funcionários da organização.
+
+Comentários:
+
+A alternativa A está incorreta. A identiﬁcação do fornecedor na compra do bem faz parte da
+gestão dos materiais. É uma de suas primeiras etapas.
+
+A alternativa B está incorreta. O recebimento do material, assim como o seu transporte interno
+também estão dentro das atividades que fazem parte do dia a dia do gestor de materiais.
+
+A alternativa C está incorreta. A identiﬁcação do entregador na compra do bem também faz parte
+da gestão dos materiais.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           136
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa D está incorreta. Acondicionamento e armazenagem do produto recebido fazem
+parte da cadeia de gestão endereçada pela administração de materiais.
+
+A alternativa E está correta e é o gabarito da questão. Por ﬁm, o cadastro dos salários, benefícios,
+metas e documentos dos funcionários da organização, aí sim, não fazem parte do que se entende
+pela gestão do ciclo produtivo de uma organização.
+
+Gabarito: letra E
+
+78.      (IDCAP/CM Boa Esperança-MG/Técnico Administrativo/2019) “Trata-se de conceito, no
+qual incluem-se os recursos materiais e os recursos patrimoniais. Enquanto o primeiro são
+materiais que têm vida útil estipulada, como o caso de materiais físicos que são utilizados pela
+empresa, o segundo são bens que são permanentes. Em ambos os casos, o objetivo dessa área é
+evitar o desperdício do material e maximizar o seu uso.”
+
+O trecho acima diz respeito à:
+
+a)     Arquivologia.
+
+b)     Protocolo.
+
+c)     Direito Administrativo.
+
+d)     Administração de materiais.
+
+e)     Distribuição.
+
+Comentários:
+
+A alternativa A está incorreta. Arquivologia nada tem a ver com o tema em questão. Trata dos
+documentos, arquivos e todo o processo de gestão documental, desde o nascimento de um
+documento até a sua destinação ﬁnal e/ou eliminação.
+
+A alternativa B está incorreta. O protocolo é uma das fases da gestão de documentos,
+concentrada no arquivo corrente.
+
+A alternativa C está incorreta. Sem qualquer relação com o tema.
+
+A alternativa D está correta e é o gabarito da questão. Questão simples, mas vale a pena
+conhecermos como a banca endereça o tema. Obviamente estamos falando da administração de
+materiais.
+
+A alternativa E está incorreta. A distribuição é uma das etapas do ciclo produtivo quando, ao ﬁnal,
+o produto acabado é vendido e deve ser distribuído ou entregue ao cliente ﬁnal.
+
+Gabarito: letra D
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            137
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+79.      (FEPESE/CELESC/Técnico Industrial/2018) Assinale a alternativa que indica o conceito
+correto com relação à Administração de Recursos Materiais.
+
+a) Engloba a sequência de operações que tem início na identiﬁcação do fornecedor, na compra
+do bem ou serviço, em seu recebimento, transporte interno e acondicionamento (armazenagem),
+em seu transporte durante o processo produtivo, em sua armazenagem como produto acabado
+e, ﬁnalmente, em sua distribuição ao consumidor ﬁnal.
+
+b)     Engloba o recebimento, transporte interno, armazenagem e distribuição de bens ou serviços.
+
+c) Engloba a sequência de operações que tem início na identiﬁcação do fornecedor, na compra
+do bem ou serviço, em seu recebimento, acondicionamento como produto acabado e, ﬁnalmente,
+em sua distribuição ao consumidor ﬁnal.
+
+d)   Engloba exclusivamente as atividades de controle computacional de todos os materiais
+adquiridos, armazenados e expedidos pela empresa.
+
+e)     Signiﬁca um controle apurado de estoques.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Resume a chamada cadeia de suprimentos
+de ponta a ponta. Correto!
+
+A alternativa B está incorreta. Aqui o examinador ignora a etapa de escolha do fornecedor e
+compra do bem, logo no início das atividades do ciclo produtivo.
+
+A alternativa C está incorreta. Nesta faltaram os transportes, relatados na alternativa A, mais
+completa.
+
+A alternativa D está incorreta. Desta vez o examinador está bastante fora do contexto. Essa não
+dá nem para confundir, ao contrário da anterior.
+
+A alternativa E está incorreta. Outra que limita o escopo da atividade de Administração de
+Materiais a apenas uma pequena parte da cadeia.
+
+Gabarito: letra A
+
+80.     (CS UFG/CM GYN/Assistente Técnico Legislativo/2018) Os três principais nichos da
+gestão de materiais são:
+
+a)     a gestão dos centros de distribuição, a gestão de estoques e a gestão de compras.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         138
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     a gestão de recursos patrimoniais, a gestão de clientes e a gestão de cúpula.
+
+c)     a gestão de serviços gerais, a gestão de contratos e a gestão de fornecedores.
+
+d)     a gestão de catalogação, a gestão de especiﬁcação e a gestão de normalização.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Vimos que as principais atividades de
+gestão de materiais são:
+
+Gestão dos Estoques – trata do gerenciamento dos materiais, por meio do uso de técnicas de
+previsão do consumo, sistema de controle dos estoques, etc., com o objetivo primordial de
+adequar os níveis de estoque as necessidades dos usuários dos diversos materiais, com o menor
+custo possível, sem comprometer o nível de serviço esperado para atender as exigências do
+usuário.
+
+Gestão de Compras – envolve o atendimento das solicitações de compras de materiais destinadas
+aos diversos órgãos que compõem uma empresa e, principalmente, atender as necessidades de
+reposição dos estoques planejados pela gestão de estoques, de acordo com as quantidades e
+prazos por ela ﬁxados.
+
+Gestão dos Centros de Distribuição – envolve atividades vinculadas ao recebimento dos materiais,
+movimentação, estocagem e fornecimento destes, de acordo com as necessidades dos usuários.
+A gestão dos centros de distribuição resulta no controle físico dos materiais armazenados.
+
+A alternativa B está incorreta. Nenhuma das três gestões listadas faz parte das principais
+atividades da Administração de Materiais.
+
+A alternativa C está incorreta. Mais uma vez, nenhuma das três gestões listadas faz parte das
+principais atividades da Administração de Materiais.
+
+A alternativa D está incorreta. De novo. Isso torna a questão até mais fácil, pois não dá para
+confundir. Nenhuma das três gestões listadas faz parte das principais atividades da Administração
+de Materiais.
+
+Gabarito: letra A
+
+81.     (INAZ-PA/CRF-SC/Atendente Técnico Fiscal/2018) Sendo os materiais recursos públicos,
+adquiridos e mantidos com recursos oriundos da sociedade, há o dever do agente de empregá-
+los da melhor forma. Encontramos várias atividades inseridas na gestão de recursos materiais.
+Qual das alternativas abaixo não se relaciona ao processo de gestão de materiais?
+
+a)     Gestão dos centros de distribuição.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         139
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     Gestão de patrimônios.
+
+c)     Gestão de compras.
+
+d)     Gestão de estoques.
+
+e)     Gestão de suprimento de fundos.
+
+Comentários:
+
+A alternativa A está incorreta. É uma das principais etapas do processo de gestão de materiais.
+
+A alternativa B está incorreta. Essa alternativa é interessante. Não faz parte das três atividades
+tidas como mais importantes por Paulo Gonçalves (2013) porém, olhando para as duas que estão
+nessa situação, certamente gestão de patrimônios é muito mais aceitável do que a alternativa E.
+
+A alternativa C está incorreta. É mais uma das principais etapas do processo de gestão de
+materiais.
+
+A alternativa D está incorreta. É também uma das principais etapas do processo de gestão de
+materiais.
+
+A alternativa E está correta e é o gabarito da questão. Vimos que as três principais atividades do
+processo de gestão de materiais são: Gestão dos Estoques, Gestão de Compras e Gestão dos
+Centros de Distribuição. Gestão de Suprimentos de Fundos não faz parte deste grupo.
+
+Gabarito: letra E
+
+82.     (AOCP/UNIR-RR/Assistente Administração/2018) A Área de Gestão de Materiais possui
+grande inﬂuência sobre a logística e os custos dos produtos. Ela é responsável por gerir todos os
+processos que envolvem desde a compra de matéria-prima (MP), até armazenagem e destinação.
+Referente ao assunto, julgue, como VERDADEIRO ou FALSO, o item a seguir.
+
+A Área de Gestão de Materiais tem por ﬁnalidade o controle do abastecimento e de saída de todos
+os bens materiais, ou seja, dos itens para fabricação de produtos, ou produtos fabricados
+destinados à comercialização.
+
+a)     Certo
+
+b)     Errada
+
+Comentários:
+
+A aﬁrmativa está CORRETA. É isso mesmo. A área de gestão de materiais é responsável pela
+gestão não só da entrada de materiais que serão transformados ou consumidos no processo de
+produção como pela gestão da saída dos produtos acabados resultantes deste processo.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          140
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Gabarito: Correta
+
+83.      (FUNCERN/CP Trairi-CE/Auxiliar Administrativo/2018) Quanto a administração de
+materiais, pode-se aﬁrmar que
+
+a) a administração de materiais se preocupa em atender às demandas solicitadas, cujo prazo é
+de 30 dias para a entrega dos produtos.
+
+b) a administração de materiais se preocupa em atender às demandas solicitadas, tendo como
+prazo o mínimo de 10 dias úteis para a entrega dos produtos.
+
+c)  a administração de materiais tem como ﬁnalidade garantir os materiais necessários na
+quantidade certa, no local certo e no tempo à disposição dos setores produtivos da empresa.
+
+d) a administração de materiais tem como ﬁnalidade garantir os bens manufaturados após 15
+dias da solicitação pelos setores produtivos da empresa.
+
+Comentários:
+
+A alternativa A está incorreta. Não há prazo de 30 dias estipulado de forma genérica para o
+atendimento de demandas, como colocado pela banca.
+
+A alternativa B está incorreta. Também não existe o prazo de 10 dias úteis. O prazo sempre será
+combinado entre o fornecedor e o comprador.
+
+A alternativa C está correta e é o gabarito da questão. Deﬁnição que já estudamos algumas vezes
+e que é bastante cobrada em prova. Quantidade certa, no local correto e na hora combinada.
+
+A alternativa D está incorreta. Mais uma vez o examinador traz um prazo que seria adotado de
+forma genérica para o procedimento. Isso não existe.
+
+Gabarito: letra C
+
+84.     (FEPESE/JUCESC/Técnico em Atividades Administrativas/2017) Qual área de
+administração de uma organização que normalmente é responsável pelos centros de distribuição,
+estoques, compras e recursos patrimoniais?
+
+a)     Jurídico
+
+b)     Projetos
+
+c)     Materiais
+
+d)     Qualidade
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       141
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+e)     Pessoas
+
+Comentários:
+
+A alternativa A está incorreta. Deﬁnitivamente não é o Jurídico que cuida dos centros de
+distribuição, estoques, compras e recursos patrimoniais.
+
+A alternativa B está incorreta. Também não é a área de Projetos responsável pela gestão dos
+processos da cadeia produtiva.
+
+A alternativa C está correta e é o gabarito da questão. Questão simples, que cobra o
+conhecimento básico sobre a área de gestão de materiais.
+
+A alternativa D está incorreta. A área de qualidade não tem como escopo cuidar dos centros de
+distribuição, estoques, compras e recursos patrimoniais
+
+A alternativa E está incorreta. Muito menos a área de pessoas, ou RH…
+
+Gabarito: letra C
+
+85.     (CS UFG/UFG/Auxiliar Administração/2017) Pode-se deﬁnir administração de materiais
+do seguinte modo:
+
+a) atividade que planeja, executa e controla o ﬂuxo de material, com base nas especiﬁcações
+dos artigos para a compra até a entrega do produto.
+
+b) estratégia organizacional de otimização de lucros por meio da adequação da produção e
+oferta de mercadorias ou serviços às necessidades e preferências dos consumidores, recorrendo
+a pesquisas de mercado e design.
+
+c)   área que trata das decisões de investimento e ﬁnanciamento, bem como dos principais
+indicadores ﬁnanceiros e de suas implicações no planejamento do futuro da organização.
+
+d) associação de habilidades e métodos, políticas, técnicas e práticas deﬁnidas, com o objetivo
+de administrar os comportamentos internos e potencializar o capital humano nas organizações.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Boa deﬁnição para a atividade,
+especialmente em comparação com as demais alternativas disponibilizadas: atividade que planeja,
+executa e controla o ﬂuxo de material, com base nas especiﬁcações dos artigos para a compra até
+a entrega do produto.
+
+A alternativa B está incorreta. Otimização de lucros recorrendo a pesquisas e design... O
+examinador foi bem criativo nessa.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais       142
+           www.estrategiaconcursos.com.br                                                   165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+A alternativa C está incorreta. Decisões de investimento e ﬁnanciamento. Certamente são
+atribuições da área ﬁnanceira, mas não da gestão de materiais.
+
+A alternativa D está incorreta. Basicamente descreve as funções do RH, mas não do administrador
+de materiais.
+
+Gabarito: letra A
+
+86.      (AOCP/CM Maringá-PR/Assistente Administrativo/2017) No que diz respeito à Gestão
+de Materiais, entende-se que são objetivos da Administração, EXCETO
+
+a)     o suprimento nas quantidades necessárias.
+
+b)     a prática de preços econômicos.
+
+c)     o local de armazenamento apropriado.
+
+d)     o armazenamento da maneira correta.
+
+e)     os estoques maximizados.
+
+Comentários:
+
+A alternativa A está incorreta. Prover suprimentos nas quantidades, local e momento correto são
+os principais objetivos da Administração de Materiais.
+
+A alternativa B está incorreta. A busca e a prática de preços econômicos também são buscadas
+pela área de gestão de materiais.
+
+A alternativa C está incorreta. Ter um local de armazenamento apropriado também é muito
+importante, reduzindo custos e evitando perdas e/ou desperdícios.
+
+A alternativa D está incorreta. Armazenar os materiais de forma correta também faz parte do que
+estamos estudando. Tal ação minimiza perdas e pode conferir agilidade a toda a cadeia.
+
+A alternativa E está correta e é o gabarito da questão. Maximizar o estoque nunca será um
+objetivo da área de gestão de materiais pois isso aumento o custo do processo produtivo e
+certamente reduz margens e lucratividade da organização. Falou em estoques, lembre-se em
+minimizar.
+
+Gabarito: letra E
+
+87.     (AOCP/CODEM/Assistente Administrativo/2017) Referente aos principais enfoques dos
+administradores de materiais, assinale a alternativa que apresenta aquele que é, em grande parte,
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         143
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+baseado em técnicas que integram os elementos de tecnologia de manufatura e otimizam a
+utilização de pessoas, materiais e instalações ou equipamentos.
+
+a)     Sistemas de controles.
+
+b)     Administração de recursos.
+
+c)     Sistemas de informações.
+
+d)     Processos de fabricação.
+
+e)     Integração de sistemas tecnológicos.
+
+Comentários:
+
+A alternativa A está incorreta. Não são os sistemas de controle que executam essas atividades.
+
+A alternativa B está correta e é o gabarito da questão. Vimos no início da aula que a administração
+de recursos busca integrar e utilizar todos os recursos disponíveis, sejam eles humanos, ﬁnanceiros,
+tecnológicos, materiais ou patrimoniais.
+
+A alternativa C está incorreta. Também não são os sistemas de informações que executam essas
+atividades.
+
+A alternativa D está incorreta. O processo de fabricação é apenas uma pequena parte da
+administração de materiais, insuﬁciente para promover toda a integração relatada no enunciado
+da questão.
+
+A alternativa E está incorreta. Embora mencione a integração, a alternativa a restringe aos
+recursos tecnológicos e sequer cita os demais: humanos, ﬁnanceiros, patrimoniais e materiais.
+
+Gabarito: letra B
+
+88.      (FUNDATEC/CREMERS/Assistente Básico/2017) Uma tradicional organização de um
+sistema de materiais pode ser dividida em áreas de concentração. Assinale a alternativa que NÃO
+corresponde a uma dessas áreas de concentração.
+
+a)     Controle de Estoques.
+
+b)     Compras.
+
+c)     Almoxarifado.
+
+d)     Planejamento e Controle da Produção.
+
+e)     Ouvidoria.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            144
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Comentários:
+
+A alternativa A está incorreta. O controle de estoques certamente faz parte de um sistema de
+materiais.
+
+A alternativa B está incorreta. A área de compras também faz parte de um sistema de materiais.
+
+A alternativa C está incorreta. Da mesma forma, almoxarifado faz parte de um sistema de
+materiais.
+
+A alternativa D está incorreta. Planejamento e Controle da Produção também são partes
+integrantes de um sistema de materiais.
+
+A alternativa E está correta e é o gabarito da questão. Ouvidoria certamente está bastante
+distante de tudo o que discutimos até agora.
+
+Gabarito: letra E
+
+89.     (RHS Consult/CM Cerquilho-SP/Assistente de RH e Tesouraria/2016) É função do
+administrador de recursos materiais e patrimoniais:
+
+a)     Receber qualquer tipo de bem doado por pessoa jurídica.
+
+b)     Doar o patrimônio usado exclusivamente para instituições ﬁlantrópicas.
+
+c)     Recepção, registro, controle, utilização e desfazimento do ativo permanente.
+
+d)     Comprar, vender, cadastrar e doar recursos materiais e patrimoniais.
+
+e)     Autorizar a aquisição de bens imóveis.
+
+Comentários:
+
+A alternativa A está incorreta. Não há esse vínculo especíﬁco com o recebimento de bens
+provenientes de pessoas jurídica.
+
+A alternativa B está incorreta. Também não há esse vínculo com doações para entidades
+ﬁlantrópicas.
+
+A alternativa C está correta e é o gabarito da questão. São mesmo funções do administrador de
+recursos materiais e patrimoniais as atividades de recepção, registro, controle, utilização, guarda,
+conservação, além de desfazimento dos bens permanentes da organização, especiﬁcamente os
+bens móveis.
+
+A alternativa D está incorreta. Mais uma vez a questão da doação dos recursos materiais e
+patrimoniais. Venda e doação de recursos materiais não se inserem nas atividades da gestão de
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            145
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+materiais.
+
+A alternativa E está incorreta. A aquisição de bens imóveis não está inserida no rol de funções do
+administrador de recursos materiais e patrimoniais, mas apenas de bens móveis.
+
+Gabarito: letra C
+
+90.           (FUNDEP/CM Ibirité-MG/Técnico Material/2016) Na área funcional da administração
+de materiais, a administração é desenvolvida através da atuação gerencial e de exercícios diários
+das atribuições e responsabilidades de cada funcionário da área. A rotina depende do uso das
+técnicas e recursos necessários para realização dos trabalhos.
+
+Referente aos elementos necessários para a realização das rotinas da administração de
+materiais, assinale a alternativa INCORRETA.
+
+a)     O Almoxarifado é o departamento responsável pela guarda física dos materiais em estoque.
+
+b) O Setor de Compras preocupa-se também em realizar a aquisição de materiais e mercadorias
+no preço mais favorável possível.
+
+c) Arquivos, prateleiras, pallets e veículos são os recursos que serão transformados para
+produção de bens ou realização dos serviços.
+
+d)  Os materiais são todos os artigos essenciais para a atividade produtiva da organização
+empresarial (matérias-primas, máquinas, equipamentos, ferramentas, utensílios e outros).
+
+Comentários:
+
+A alternativa A está incorreta. É isso mesmo. O almoxarifado realiza a guarda física dos materiais
+em estoque.
+
+A alternativa B está incorreta. A aﬁrmativa também é correta. Setor de compras, entre outras
+atribuições, deve buscar as mercadorias no preço mais favorável possível.
+
+A alternativa C está correta e é o gabarito da questão. Não! Arquivos, prateleiras, pallets e veículos
+não são matéria prima que passarão por transformação para a obtenção do produto ﬁnal.
+
+A alternativa D está incorreta. Perfeito. Materiais são mesmo todos os artigos essenciais para a
+atividade produtiva da organização empresarial.
+
+Gabarito: letra C
+
+91.     (FUNDEP/CM Ibirité-MG/Técnico Material/2016) Eﬁciência é um princípio da
+administração de recursos, é mais que uma simples medida numérica de desempenho.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais              146
+           www.estrategiaconcursos.com.br                                                          165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Com relação à abordagem, a produtividade e o desempenho nas organizações, analise as
+aﬁrmativas a seguir e assinale com as V as verdadeiras e com F as falsas.
+
+( ) Eﬁciência signiﬁca realizar as tarefas de modo inteligente, com o mínimo de esforço e com o
+melhor aproveitamento possível de recursos.
+
+( ) O oposto da eﬁciência é o desperdício e é o que ocorre, por exemplo, quando se consomem
+recursos e nenhum objetivo é realizado.
+
+( ) A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os
+mesmos resultados anteriores, mas com o uso de menos recursos.
+
+( ) A eﬁciência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade
+dos produtos e serviços e são critérios de grande importância para a avaliação de desempenho.
+
+Assinale a sequência CORRETA.
+
+a)     FVFV
+
+b)     VVFV
+
+c)     FFVV
+
+d)     VVVF
+
+Comentários:
+
+Antes de analisar as alternativas vamos analisar cada uma das aﬁrmativas.
+
+Eﬁciência signiﬁca realizar as tarefas de modo inteligente, com o mínimo de esforço e com o
+melhor aproveitamento possível de recursos - Exato. O maior aproveitamento de recurso com o
+menos esforço empregado.
+
+O oposto da eﬁciência é o desperdício e é o que ocorre, por exemplo, quando se consomem
+recursos e nenhum objetivo é realizado - Também correto. Consumo de recursos sem o
+atingimento de qualquer objetivo é puro desperdício.
+
+A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os mesmos
+resultados anteriores, mas com o uso de menos recursos - Não. A frase por si só é confusa. Diz o
+examinador que há o aumento de recursos aplicados e, depois, alega o uso de menos recursos.
+De qualquer forma, se o volume de recursos empregados aumentou e o resultado é o mesmo,
+signiﬁca que não houve aumento de produtividade. Pelo contrário, ela diminuiu.
+
+A eﬁciência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade
+dos produtos e serviços e são critérios de grande importância para a avaliação de desempenho -
+Sim. Eﬁciência no uso de recursos e funcionários satisfeitos têm como provável consequência
+impacto positivo na qualidade dos produtos produzidos.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         147
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+Temos então V-V-F-V.
+
+A alternativa B está correta e é o gabarito da questão.
+
+Gabarito: letra B
+
+92.      (AOCP/UFFS/Administrador/2016) Como a Administração de Materiais consegue
+promover uma maior margem de lucro de forma quantiﬁcável?
+
+a)     Desenvolvendo marketing de compras.
+
+b)     Planejando estrategicamente as aquisições e promovendo padronização nos materiais.
+
+c)     Reduzindo os custos operativo, do capital e do material.
+
+d)     Promovendo análise SWOT.
+
+e)     Utilizando o método análise de valor.
+
+Comentários:
+
+A alternativa A está incorreta. O marketing de compras (?) não está ligado as atividades da
+administração de materiais.
+
+A alternativa B está incorreta. O planejamento estratégico das aquisições é um caminho viável
+para o aumento da margem de lucro, porém a padronização dos materiais não garante incremento
+de lucratividade.
+
+A alternativa C está correta e é o gabarito da questão. Lembre-se que a administração de materiais
+procura sempre minimizar os custos. Sempre! Nesse caso a banca fala da minimização de custos
+operativos, de capital e do material empregado. Correto!
+
+A alternativa D está incorreta. O uso da análise SWOT não pode ser relacionado de forma direta
+ao aumento das margens e da lucratividade de forma quantiﬁcável.
+
+A alternativa E está incorreta. O método de análise de valor também não.
+
+Gabarito: letra C
+
+93.      (FEPESE/CM São José-RS/Auxiliar Administrativo/2016) É objetivo da administração de
+materiais:
+
+a)     Planejar expansões da organização.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          148
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     Decidir sobre a substituição de materiais no processo produtivo.
+
+c)     Detectar a necessidade de treinamentos em geral.
+
+d)     Maximizar a utilização dos recursos da empresa.
+
+e)     Contratar mão de obra especializada quando necessário.
+
+Comentários:
+
+A alternativa A está incorreta. Expansão da organização ﬁca a cargo de outras áreas da empresa,
+mais estratégicas.
+
+A alternativa B está incorreta. A substituição de materiais no processo não deriva da própria área
+de administração de materiais, que apenas compra e disponibiliza o material requisitado pelas
+áreas responsáveis. Elas é que devem tomar a decisão sobre a alteração do material utilizado.
+
+A alternativa C está incorreta. Também não é uma atribuição da área de materiais. Cabe ao RH
+ou a área responsável pelos recursos humanos.
+
+A alternativa D está correta e é o gabarito da questão. Questão importante pois falamos em
+administração de materiais o tempo todo sobre "minimizar". Atenção, pois estamos falando de
+custos! Quando se fala no emprego de recursos, o objetivo do gestor é maximizar o seu emprego,
+inibindo a ociosidade e gerando a maior produtividade possível.
+
+A alternativa E está incorreta. Outra atribuição do RH e não da área de materiais.
+
+Gabarito: letra D
+
+94.     (FCC/TRE-RR/Analista Judiciário/2015) As funções da Administração de Materiais são
+consideradas como a
+
+a) estrutura de um sistema para solucionar problemas por meio do uso de um conjunto
+especíﬁco de técnicas, um corpo de conhecimento e pessoas especializadas.
+
+b)     atividade que planeja as compras empresariais.
+
+c)     atividade que executa a entrega do produto ao cliente ﬁnal.
+
+d) sequência estruturada de atividades que, por meio de ações físicas, comportamentais e/ou
+informações, permitem a agregação de valor a uma ou mais entradas, transformando-as em uma
+ou mais saídas.
+
+e) sequência de operações que se inicia na identiﬁcação do fornecedor, na compra do bem, seu
+recebimento, transporte interno e acondicionamento, seu transporte durante o processo
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          149
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+produtivo/uso, na armazenagem como produto acabado e na sua distribuição ao consumidor ﬁnal.
+
+Comentários:
+
+A alternativa A está incorreta. Conceito difuso e genérico. A área de materiais tem funções e
+competências bem especíﬁcas.
+
+A alternativa B está incorreta. Não é só isso. Compras é apenas uma das primeiras etapas do ciclo.
+
+A alternativa C está incorreta. Nesta alternativa a função de administração de materiais foi
+profundamente simpliﬁcada. É muito mais do que isso.
+
+A alternativa D está incorreta. Aqui o examinador criou um conceito complexo que mistura ações
+físicas e comportamentais (?). Não é por aí.
+
+A alternativa E está correta e é o gabarito da questão. É exatamente a deﬁnição de todo o ciclo
+produtivo, pelo qual responde a área de administração de materiais.
+
+Gabarito: letra E
+
+95.      (IBFC/MGS/Técnico Superior Especializado/2015) Leia as aﬁrmações abaixo e assinale a
+alternativa correta.
+
+I.    Os órgãos envolvidos com a Administração de Materiais são os seguintes: compras,
+planejamento e controle de materiais, armazenamento, programação da produção, distribuição
+e logística externa.
+
+II. O ciclo da Administração de Materiais é: Necessidade do cliente, análise, reposição dos
+materiais, recebimento, armazenamento e logística (distribuição / entrega).
+
+a)     Somente a aﬁrmação I está correta.
+
+b)     Somente a aﬁrmação II está correta.
+
+c)     Nenhuma das aﬁrmações está correta.
+
+d)     Todas as aﬁrmações estão corretas.
+
+Comentários:
+
+Antes de avaliar as alternativas vamos a cada uma das aﬁrmativas.
+
+I.   Os órgãos envolvidos com a Administração de Materiais são os seguintes: compras,
+planejamento controle de materiais, armazenamento, programação da produção, distribuição e
+logística externa - Correto. Temos outros órgãos envolvidos mas esses, sem dúvida, fazem parte
+do processo.
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          150
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+II. O ciclo da Administração de Materiais é: Necessidade do cliente, análise, reposição dos
+materiais, recebimento, armazenamento e logística (distribuição / entrega) - Correto também.
+Início na demanda do cliente e ﬁnalização na entrega ao cliente ﬁnal.
+
+Dessa forma as duas aﬁrmativas estão corretas.
+
+A alternativa D está correta e é o gabarito da questão.
+
+Gabarito: letra D
+
+96.      (CEBRASPE/MDIC/Agente Administrativo/2014) Com referência à gestão de materiais,
+julgue o item.
+
+Os principais problemas relativos à administração de materiais são: a má localização dos
+estoques, o armazenamento inadequado, os erros de cálculo nos relatórios de entrada e saída de
+materiais, os erros gerados no recebimento, o esquecimento e atraso na emissão de documentos
+relativos à entrada e saída de material e a inadequação nos procedimentos de contagem física.
+
+a)     Certo
+
+b)     Errada
+
+Comentários:
+
+Essa é uma lista não exaustiva dos principais problemas relativos à Administração de Materiais,
+focados especialmente nas atividades relativas aos estoques/almoxarifados.
+
+Não são os únicos problemas mas, certamente, são problemas signiﬁcativos relativos à gestão dos
+estoques e, portanto, à Administração de Materiais.
+
+Note que a banca usa literalmente o texto de Marco Dias a respeito dos maiores problemas de
+Administração de Materiais relativos à imprecisão:
+
+1.     Má localização dos estoques;
+
+2.     Armazenamento inadequado;
+
+3.     Erros de cálculo nos relatórios de entrada e saída de materiais;
+
+4.     Erros gerados no recebimento;
+
+5.     Esquecimento e atraso na emissão de documentos relativos à entrada e saída de material;
+
+6.     Procedimentos de contagem física inadequados.
+
+Gabarito: Correta
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            151
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+      Ricardo Campanario
+      Aula 00
+
+97.    (FGV/TCE-BA/Agente Público/2014) Sobre as vantagens competitivas que uma empresa
+obtém com uma administração de materiais bem organizada, analise os itens a seguir.
+
+I.         Redução de custos.
+
+II.         Redução do volume de investimentos em estoques.
+
+III.            Melhores condições de compra por meio de negociações com os fornecedores.
+
+Assinale:
+
+a)      se apenas o item I estiver correto.
+
+b)      se apenas os itens I e II estiverem corretos.
+
+c)      se apenas os itens I e III estiverem corretos.
+
+d)      se apenas os itens II e III estiverem corretos.
+
+e)      se todos os itens estiverem corretos.
+
+Comentários:
+
+Vamos avaliar cada uma das aﬁrmações antes de buscar a alternativa correta:
+
+I. Redução de custos - certamente é uma grande vantagem que a organização pode obter junto
+aos seus fornecedores nas compras (especialmente quando centralizadas) ou, especialmente, ao
+longo da cadeia, com a redução dos volumes de estoques e a maximização do emprego dos
+recursos disponíveis.
+
+II. Redução do volume de investimentos em estoques - outro ponto importante e que pode
+gerar ganhos à organização. Investimentos menores em estoque signiﬁcam ou menores custos de
+aquisição ou menores volumes estocados. No segundo caso isso impacta positivamente nos custos
+de armazenagem, de seguros, de pessoal responsável pela gestão e etc.
+
+III. Melhores condições de compra por meio de negociações com os fornecedores - também
+representa ganho tangível à organização. Como já vimos, quando a gestão de todo o processo é
+centralizada, isso faz com que a organização possa concentrar o volume total das compras em um
+fornecedor e, com isso, conseguir descontos ou condições comerciais vantajosas o que pode sim
+gerar vantagens competitivas no mercado.
+
+Dessa forma as três aﬁrmativas estão corretas.
+
+A alternativa E está correta e é o gabarito da questão.
+
+Gabarito: letra E
+
+
+            Receita Federal (Analista Tributário) Administração de Compras e Materiais      152
+            www.estrategiaconcursos.com.br                                                  165
+
+                                        
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+98.      (CONSULPLAN/PM Cascavel-PR/Administrador/2014) “A administração de materiais
+moderna é conceituada e estudada como um sistema integrado em que diversos subsistemas
+próprios interagem para constituir um todo organizado.”
+
+Um dos objetivos da área de administração de recursos materiais é o(a)
+
+a)     preço alto.
+
+b)     baixo giro de estoques.
+
+c)     consistência de qualidade.
+
+d)     alto custo de aquisição e posse.
+
+e)     descontinuidade de fornecimento.
+
+Comentários:
+
+A alternativa A está incorreta. É o contrário. A busca por preços competitivos, descontos e
+condições comerciais vantajosas no processo de compra é objetivo do gestor de materiais.
+
+A alternativa B está incorreta. Também não. Baixo giro de estoques signiﬁca que a utilização do
+material foi super estimada, ou ocorre porque a demanda é menor que a planejada e, nesse
+cenário, comprou-se mais do que o necessário. Em ambos os casos, não é o que se espera de uma
+gestão eﬁciente da cadeia produtiva.
+
+A alternativa C está correta e é o gabarito da questão. A obtenção da qualidade de forma
+consistente é quase que uma consequência da execução dos demais objetivos da organização. Se
+os materiais são sempre entregues na quantidade e qualidade corretas, no local e no tempo certo,
+de forma consistente e contínua pelos mesmo fornecedores e a preços competitivos, a
+organização terá todas as possibilidades para entregar produtos acabados de qualidade aos seus
+clientes.
+
+A alternativa D está incorreta. Não. Já vimos que o objetivo do gestor de materiais é reduzir os
+custos tanto na aquisição dos materiais quanto ao longo de sua posse, seja na fase de
+armazenagem, transformação, transporte ou distribuição.
+
+A alternativa E está incorreta. A continuidade do fornecimento é que se caracteriza como um
+objetivo do gestor de materiais. Falhas no fornecimento ou mesmo a troca de fornecedores, além
+de gerarem custos e o emprego de recursos diversos (como funcionários para pesquisar, negociar,
+etc.), podem resultar em interrupções da produção o que é um dos maiores problemas que deve
+ser evitado pela área de administração de materiais.
+
+Gabarito: letra C
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais        153
+           www.estrategiaconcursos.com.br                                                    165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+99.            (FEPESE/MP TCE-SC/Analistas de Contas Públicas/2014) Analise o texto abaixo:
+
+A                           tem como foco a garantia de existência contínua de um estoque,
+
+organizado de modo a nunca faltar nenhum dos itens que o compõem, sem tornar excessivo o
+investimento total.
+
+Assinale a alternativa que completa corretamente a lacuna do texto.
+
+a)     gestão de materiais
+
+b)     metodologia de redesenho
+
+c)     baixa por alienação ou doação
+
+d)     contratação (MAS/APS)
+
+e)     reengenharia
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. Questão de baixa complexidade que
+apenas traz mais uma deﬁnição de administração de materiais, dessa vez focando no equilíbrio da
+atividade de estocagem, ou seja: o estoque deve ser pequeno o suﬁciente para garantir baixos
+custos e grande o suﬁciente para que não permita a falta de materiais solicitados pelas diferentes
+áreas da organização.
+
+A alternativa B está incorreta. O termo não tem qualquer relação com o enunciado trazido pela
+banca.
+
+A alternativa C está incorreta. Também não. Essa é uma das atividades que aparece ao ﬁnal do
+ciclo de gestão de bens patrimoniais, que veremos em aula posterior.
+
+A alternativa D está incorreta. Não tem qualquer relação com o enunciado trazido pela banca. A
+alternativa E está incorreta. Também não.
+
+Gabarito: letra A
+
+100.           (FCC/Sabesp/Analistas de Gestão/2014) Analise o texto abaixo:
+
+O sistema de materiais, dentro de uma empresa privada com ﬁns lucrativos, pode ser dividido
+em algumas áreas de concentração ou setores, como:
+
+a)     compras; controladoria.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          154
+           www.estrategiaconcursos.com.br                                                      165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+b)     relações públicas; almoxarifado.
+
+c)     controle de estoques; transportes e distribuição.
+
+d)     planejamento da produção; recursos humanos.
+
+e)     auditoria; importação.
+
+Comentários:
+
+A alternativa A está incorreta. Controladoria não faz parte da atividade de gestão de materiais.
+
+A alternativa B está incorreta. Dessa vez, Relações Públicas não fazem parte da atividade de
+gestão de materiais.
+
+A alternativa C está correta e é o gabarito da questão. O sistema de materiais pode ser dividido
+em inúmeras áreas, a depender de como a organização pretende se estruturar e de acordo com
+seu ﬂuxo de trabalho. Compras, planejamento, estoques, transportes, produção, logística,
+distribuição são todas áreas possíveis de segmentação da atividade de administração de materiais.
+
+A alternativa D está incorreta. Planejamento de produção é atividade típica de gestão de materiais
+mas o mesmo não se aplica aos Recursos Humanos.
+
+A alternativa E está incorreta. Por ﬁm, auditoria não faz parte do rol de atividades de
+administração de materiais. Importação, dependendo do contexto, pode estar incluída no setor
+de compras.
+
+Gabarito: letra C
+
+101.    (FCC/SERGAS/Administrador/2013) A teoria da administração de recursos materiais
+aﬁrma que as empresas estão sujeitas ao denominado “ciclo da administração de materiais”. A
+sequência correta de operações é, respectivamente,
+
+a)     clientes, transporte, compra de materiais e expedição.
+
+b)     identiﬁcação de demanda, expedição, identiﬁcação de fornecedores e compra de materiais.
+
+c)     clientes, compra de materiais, identiﬁcação de fornecedores e expedição.
+
+d)     armazenagem do produto ﬁnal, expedição, identiﬁcação de demanda e clientes.
+
+e)     compra de materiais, transporte, armazenagem e movimentação interna.
+
+Comentário:
+
+A alternativa A está incorreta. Cliente é na verdade a etapa ﬁnal de toda a cadeia de administração
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais           155
+           www.estrategiaconcursos.com.br                                                       165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+de materiais e não a inicial.
+
+A alternativa B está incorreta. OK começar pela identiﬁcação da demanda porém a expedição
+não pode vir logo na sequência. É sim uma das últimas etapas, após a ﬁnalização da produção e
+no momento do envio do produto acabado ao cliente ﬁnal ou quando o material é internamente
+liberado para o processo produtivo. Note que, em ambos os casos as etapas identiﬁcação de
+fornecedores e compras de materiais, que na alternativa vêm após, já ocorreram.
+
+A alternativa C está incorreta. Novamente a etapa clientes aparece no início da cadeia, o que não
+está correto. Cuidado pois pode haver a interpretação de que isso representa a identiﬁcação da
+demanda (que vem dos clientes) mas note que na alternativa B essa possibilidade aparece de
+forma explícita, eliminando a dúvida.
+
+A alternativa D está incorreta. Etapas em ordem invertida. Identiﬁcação da demanda é a primeira
+delas e armazenagem do produto ﬁnal uma das últimas, próxima da entrega ao cliente ﬁnal.
+
+A alternativa E está correta e é o gabarito da questão. A alternativa, embora não englobe todas
+as operações do ciclo de administração de materiais, ao menos lista na ordem correta algumas
+delas: após a compra do material ele é transportado até quem o adquiriu, em seguida armazenado
+e movimentado durante o seu processo produtivo.
+
+Gabarito: letra E
+
+102.     (CEBRASPE/BACEN/Técnico Administrativo/2013) A integração entre logística e
+marketing ocorre no nível de serviço logístico, sendo importante a observação de aspectos
+referentes ao atendimento ao cliente para garantir que o ﬂuxo de bens e serviços seja gerenciado
+com qualidade.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+Segundo Ballou, as atividades de logística e de marketing de uma organização estão diretamente
+ligadas por meio das interfaces ilustradas na ﬁgura abaixo.
+
+Os pontos de intersecção representam exatamente a adequação dos respectivos níveis de serviço
+as expectativas e necessidades dos consumidores.
+
+Atividades de logística e de marketing devem sempre estar absolutamente integradas. O ﬂuxo de
+informações (pesquisa, necessidades, demanda, etc.) do consumidor / cliente deve abastecer a
+cadeia de valor em ordem reversa enquanto a logística direta deve atender o mesmo consumidor
+entregando a ele os produtos ﬁnais demandados nos locais e no momento correto, ao preço e
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         156
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+apresentação corretos (aí já vemos novamente a integração com marketing, responsável por essas
+duas frentes).
+
+Gabarito: Correta
+
+103.    (CEBRASPE/BACEN/Técnico Administrativo/2013) Qualidade do material, quantidade
+necessária, prazo de entrega, preço e condições de pagamento são pré-requisitos da
+administração de materiais para abastecer, continuamente, determinada empresa com material
+necessário para suas atividades.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+Segundo Idalberto Chiavenato os grandes objetivos da Gestão de Materiais são obter e
+disponibilizar os materiais na quantidade, no local e no tempo corretos. Além disso alerta ainda
+sobre outros objetivos como a qualidade correta, o preço correto, a continuidade no
+fornecimento, os registros ﬁdedignos e a minimização geral dos custos ao longo de toda a cadeia
+de valor.
+
+Gabarito: Correta
+
+104.           (CEBRASPE/STF/Analista Judiciário/2013) Apesar da aparência meramente operacional,
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         157
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a administração de materiais constitui função de grande valor estratégico de uma organização. A
+respeito desse assunto, julgue o próximo item.
+
+A transmissão simultânea de dados, a informatização de tarefas administrativas e a automação
+de processos têm contribuído para diminuir o tempo de processamento de um pedido ou
+entrada.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+O processamento do pedido inclui as atividades que vão desde a realização do pedido até a
+entrega ao cliente. O enunciado da questão lista o emprego de recursos tecnológicos ao longo
+do processo o que, naturalmente, diminui seu tempo de duração.
+
+Gabarito: Correta
+
+105.     (CEBRASPE/ANS/Técnico Administrativo/2013) Nos dias atuais, a administração de
+materiais caracteriza-se como um conjunto de atividades orientadas a evitar a falta e a
+desmobilização dos estoques.
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+O enunciado está correto quando fala em evitar a falta de estoques, o que pode causar paralisação
+na atividade produtiva da organização porém não se pode dizer o mesmo em relação a "evitar a
+desmobilização" dos estoques. Isso signiﬁcaria deixá-los imobilizados e inibir o seu giro, o que
+deﬁnitivamente não é uma prática recomendada em Administração dos Materiais em função do
+custo e da óbvia necessidade de utilizar os estoques de maneira contínua com o intuito de
+abastecer a cadeia produtiva da organização.
+
+Gabarito: Errada
+
+106.    (CEBRASPE/ANS/Técnico Administrativo/2013) A área de administração de materiais
+pode atuar como conciliadora de interesses conﬂitantes entre as áreas de vendas e de
+administração ﬁnanceira, uma vez que desenvolve técnicas de planejamento para garantir 100%
+da entrega dos pedidos realizados pelos clientes.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais         158
+           www.estrategiaconcursos.com.br                                                     165
+
+                                       
+
+
+---
+
+     Ricardo Campanario
+     Aula 00
+
+a)     CERTO
+
+b)     ERRADO
+
+Comentários:
+
+De acordo com Dias (2010), a Administração de Materiais compreende o agrupamento dos
+materiais de várias origens, e a coordenação dessa atividade com a demanda de produtos ou
+serviços da empresa. Desse modo, soma esforços de vários setores, que, naturalmente,
+apresentam visões diferentes.
+
+A expressão "visões diferentes" é empregada pelo fato de que os vendedores exijam altos níveis
+de estoque de produtos acabados para garantir alto padrão de atendimento ao cliente; por seu
+turno, do ponto de vista ﬁnanceiro, necessita-se de estoques reduzidos para diminuir o capital
+investido.
+
+Assim, a Administração deverá conciliar, da melhor maneira, os objetivos dos departamentos, sem
+prejudicar a operacionalidade da empresa, assim como a deﬁnição e a execução da política de
+estoques. Essa é também conhecida como a "função lubriﬁcante" dos estoques entre diferentes
+setores da organização, ou seja, a administração de materiais é uma "resolvedora de conﬂitos"
+entre áreas ou atores com objetivos conﬂitantes. Veja abaixo exemplos:
+
+●              Absorver diferenças entre oferta e demanda.
+
+●              Atender demanda dos clientes por produtos acabados entre os ciclos de produção.
+
+●              Atender a demanda variável por insumos na organização, permitindo seu abastecimento.
+
+●              Manter a produção funcionando mesmo com o atraso de entrega de fornecedores.
+
+●              Proporcionar ganhos ﬁnanceiros para a organização e evitar perdas.
+
+Gabarito: Correta
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais            159
+           www.estrategiaconcursos.com.br                                                        165
+
+                                       
+
+
+---
+
+    Ricardo Campanario
+    Aula 00
+
+                                                   RESUMO
+Administração de Recursos: Conseguir alocar os recursos corretos, nos locais corretos e na hora
+correta é a meta principal de quem tem responsabilidade pela gestão de processos, sejam eles na
+área industrial ou de serviços e na iniciativa pública ou privada. Deve-se encontrar o nível
+necessário e suﬁciente de recursos e, dentro desse cenário, maximizar a sua utilização.
+
+●                  Otimizar a alocação de recursos, maximizando a sua utilização.
+
+●                  Incrementar receitas.
+
+●                  Diminuir custos.
+
+●                  Buscar a eﬁciência em toda a cadeia.
+
+Fatores de produção e principais recursos: O universo dos recursos administráveis é bastante
+amplo. Chamamos de recurso tudo aquilo que gera ou tem capacidade de gerar riqueza, no
+sentido econômico do termo. São também conhecidos por fatores de produção.
+
+●                Recursos Humanos: são as pessoas, suas competências, habilidades e atitudes. É
+o capital intelectual e humano da organização.
+
+●                  Recursos Financeiros: dizem respeito ao capital, a disponibilidade ﬁnanceira da
+organização.
+
+●              Recursos Tecnológicos: são compostos pelo corpo de conhecimentos com o qual
+a organização conta para a produção de seus produtos ou serviços.
+
+●              Recursos Materiais: elementos físicos que servem para a construção do produto
+ﬁnal e funcionamento da organização, sempre caracterizados por não serem permanentes.
+
+●               Recursos Patrimoniais: são deﬁnidos como o conjunto de bens, valores, direitos
+e obrigações que possuam valor monetário quantiﬁcável e possam ser utilizados para gerar
+riqueza. Foco recai sobre os bens patrimoniais de caráter permanente (ao contrário dos materiais)
+que incluem instalações, veículos, móveis, equipamentos, etc.
+
+Bens: têm a capacidade de produzir produtos ou serviços e, por isso, são muitas vezes
+considerados como sinônimos de recursos.
+
+Patrimônio: conjunto de bens, valores, direitos e obrigações de uma pessoa física ou jurídica que
+possa ser avaliado monetariamente e que seja utilizado na realização de seus objetivos sociais.
+
+Objetivos, atribuições e atividades: A administração dos recursos materiais engloba todo ﬂuxo de
+uma cadeia produtiva, o chamado ciclo produtivo. Algumas fontes e mesmo algumas bancas chamam
+o processo de "gestão da cadeia de suprimentos", "cadeia de valor" ou mesmo, de forma genérica,
+
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais           160
+          www.estrategiaconcursos.com.br                                                       165
+
+                                      
+
+
+---
+
+    Ricardo Campanario
+    Aula 00
+
+de "logística".
+
+Administração de Materiais: o planejamento, a coordenação, a direção e o controle de todas as
+atividades ligadas à aquisição de materiais para a formação de estoques, desde o momento de
+sua concepção até seu consumo ﬁnal.
+
+Objetivos: podemos considerar como principais objetivos da gestão de materiais a maximização
+da utilização dos recursos, um alto nível de serviço por meio do atendimento das demandas de
+materiais no volume, local e momento adequados e, tudo isso, ao menor custo possível. Tudo isso
+se traduz no fornecimento de materiais no volume, local e momento adequados:
+
+●              Quantidade correta: quando se trabalha com estoques, na busca da eﬁciência a
+organização não pode ter nem mais nem menos que o necessário. Estoque menor que o
+necessário signiﬁca que a linha de produção ou outras atividades da organização podem parar
+caso haja qualquer falha no suprimento de materiais a qualquer momento.
+
+●             Local correto: o material necessário ao ciclo produtivo deve estar próximo da área
+de produção ou da prestação de serviços
+
+●              Tempo correto: materiais devem ser entregues no momento certo para propiciar
+a minimização de custos ao longo de toda a cadeia.
+
+●             Outros objetivos: qualidade correta, preço correto, continuidade no fornecimento,
+continuidade no fornecimento e minimização dos custos.
+
+Atribuições: para que a área de gestão de materiais consiga atingir todos os seus objetivos, deve
+possuir uma série de atribuições:
+
+●                  Planejamento e previsão da demanda.
+
+●                  Avaliação e seleção de fornecedores.
+
+●             Fixação de estoques mínimos e aplicação de um sistema adequado para reposição
+dos estoques.
+
+●              Realização de compras para a organização, suprindo-a com os materiais
+necessários para o seu funcionamento.
+
+●                  Estabelecimento de um sistema adequado para estocagem de materiais.
+
+●                  Implantação e uso da taxonomia dos materiais.
+
+●                  Supervisão dos almoxarifados da organização.
+
+●              Administração e controle de estoques dos diferentes tipos de materiais, na busca
+de eﬁciência e eﬁcácia.
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais          161
+          www.estrategiaconcursos.com.br                                                      165
+
+                                      
+
+
+---
+
+    Ricardo Campanario
+    Aula 00
+
+●                  Transporte otimizado de materiais.
+
+Completo gerenciamento da cadeia de suprimentos.
+
+Atividades: as principais atividades da gestão de materiais são:
+
+●              Gestão dos Estoques - trata do gerenciamento dos materiais, por meio do uso de
+técnicas de previsão do consumo, sistema de controle dos estoques, etc., com o objetivo
+primordial de adequar os níveis de estoque as necessidades dos usuários dos diversos materiais,
+com o menor custo possível, sem comprometer o nível de serviço esperado para atender as
+exigências do usuário.
+
+●               Gestão de Compras - envolve o atendimento das solicitações de compras de
+materiais destinadas aos diversos órgãos que compõem uma empresa e, principalmente, atender
+as necessidades de reposição dos estoques planejados pela gestão de estoques, de acordo com
+as quantidades e prazos por ela ﬁxados.
+
+●              Gestão dos Centros de Distribuição - envolve atividades vinculadas ao
+recebimento dos materiais, movimentação, estocagem e fornecimento destes, de acordo com as
+necessidades dos usuários. A gestão dos centros de distribuição resulta no controle físico dos
+materiais armazenados.
+
+Integração da área de materiais: A área de materiais interage com as mais variadas as áreas da
+empresa. É necessário que os esforços sejam planejados e integrados para que a organização
+tenha o máximo benefício.
+
+●                  Centralização
+
+o                          Planejamento uniﬁcado
+
+o                          Economias de escala e descontos
+
+o                          Alocação de especialistas na atividade
+
+o                          Controle de custos mais eﬁciente
+
+o                          Processo mais lento e menos ﬂexível
+
+o                          Recomendado para processos e cenários estáveis de produção
+
+●                  Descentralização
+
+o                          Maior velocidade
+
+o                          Mais ﬂexibilidade
+
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais        162
+          www.estrategiaconcursos.com.br                                                    165
+
+                                      
+
+
+---
+
+    Ricardo Campanario
+    Aula 00
+
+o                          Proximidade da unidade de negócio
+
+o                          Custos mais altos
+
+o                          Perda da economia de escala e de descontos nas compras
+
+o      Falta de "visão do todo" para o planejamento
+
+o                     Indicado para modelos de negócio que necessitem de agilidade
+e ﬂexibilidade e para organizações que produzam em diferentes locais.
+
+Nível de serviço e medidas de desempenho percentual de pedidos/requisições de materiais que são
+atendidos de maneira satisfatória pela área de administração de materiais.
+
+●                  Nível de Serviço = pedidos atendidos / pedidos totais
+
+●              Quanto menor for o estoque, em tese, maior o risco de que o administrador de
+materiais não consiga atender alguns pedidos.
+
+●              Administrador de materiais deve trabalhar com o estoque mais baixo possível,
+reduzindo os custos do processo, e manter um alto Nível de Serviço atendendo o maior número
+possível de pedidos/requisições de materiais colocadas pela área de produção.
+
+Ética em administração de materiais: a atividade de administração de materiais é absolutamente
+integrada com as demais áreas da empresa e mesmo com fornecedores e clientes, exigindo
+comportamento ético e transparente.
+
+Ética no setor público: a tomada de decisão ao longo do processo deve escolher sempre a opção
+que seja mais vantajosa para o bem comum.
+
+Ética em compras: os proﬁssionais desse setor estão sempre envolvidos com grandes valores
+monetários e têm o poder de decisão em relação a escolha dos fornecedores, dessa forma é
+fundamental que tenham comportamento ético no que diz respeito ao direcionamento que darão
+aos recursos ﬁnanceiros da organização e a toda a condução do processo de negociação.
+
+Tendências em administração de materiais: a administração de materiais também está sujeita a
+mudanças que, aliás, vêm acontecendo em alta velocidade.
+
+●            Tendências em tecnologia e informatização: empresas usarão extensivamente
+modelagem, simulações e sistemas de informação e de controle adaptativos e de resposta rápida.
+
+●              Tendências geográﬁcas: crescimento da população em locais especíﬁcos,
+mudanças signiﬁcativas em locais de produção em razão de custos, mão de obra especializada ou
+outros fatores e, por último, novas demandas por produtos e serviços regionalizados, que hoje
+sequer imaginamos que existirão no futuro.
+
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais        163
+          www.estrategiaconcursos.com.br                                                    165
+
+                                      
+
+
+---
+
+  Ricardo Campanario
+  Aula 00
+
+●             Tendências de custos: busca por menores custo causará movimento de integração
+e formação de cadeias logísticas virtuais entre fornecedores, fabricantes e distribuidores.
+
+●              Tendências ambientais: crescentes preocupações com o impacto da atividade
+econômica nos recursos ambientais globais certamente impactará a atividade de gestão de
+materiais no curto prazo
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais      164
+        www.estrategiaconcursos.com.br                                                  165
+
+                                    
+
+
+---
+
+---

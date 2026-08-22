@@ -1,0 +1,2080 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 07_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 93
+- art. 11
+- art. 15
+- art. 22
+- art. 50
+- art. 54
+- art. 55.
+- art. 93
+sumulas_citadas:
+- Súmula 473
+---
+
+# Passo Estratégico de Direito
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             31 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 05
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Atos Administrativos - FGV
+
+
+2) Roteiro de Revisão - Atos Administrativos
+
+
+3) Aposta Estratégica - Atos Administrativos - Desfazimento
+
+
+4) Questões Estratégicas - Atos Administrativos - FGV - Nível Superior
+
+
+5) Questionário de Revisão - Atos Administrativos
+
+
+6) Referências Bibliográficas
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           42
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                    Tópico
+                                                                                                FGV
+Conhecimentos introdutórios: conceito de ato administrativo. Atos
+     privados praticados pela administração pública. Fato                                       1,48%
+                        administrativo.
+            Classificações dos atos administrativos                                            22,96%
+             Elementos dos atos administrativos                                                11,85%
+                                                        ==219a34==
+
+                 Mérito do ato administrativo                                                  1,48%
+        Motivação e teoria dos motivos determinantes                                           2,22%
+              Atributos dos atos administrativos                                               14,81%
+               Extinção dos atos administrativos                                               23,70%
+                   Convalidação e conversão                                                    10,37%
+               Espécies de atos administrativos                                                11,11%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   3
+        www.estrategiaconcursos.com.br                                                                      42
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+           ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                         MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem-preparado no assunto, você precisa, basicamente, compreender e
+memorizar os pontos a seguir:
+
+
+Aspectos iniciais
+
+Conceito de ato administrativo
+
+     a) de acordo com Maria Sylvia Di Pietro: declaração do Estado ou de quem o represente, que
+     produz efeitos jurídicos imediatos, com observância da lei, sob o regime jurídico de Direito
+     Público e sujeita a controle pelo Poder Judiciário”1.
+
+     b) de acordo com José dos Santos Carvalho Filho: “a exteriorização da vontade de agentes da
+     Administração Pública ou de seus delegatários, nessa condição, que, sob regime de direito
+     público, vise à produção de efeitos jurídicos, com o fim de atender ao interesse público”2.
+
+                                        Declaração do Estado ou de quem o represente (delegatário).
+                                                Exteriorização da contade da administração.
+
+                                                         Produz efeitos jurídicos imediatos.
+
+        Ato                                                        Deve observar a lei.
+    administrativo
+                                                         Atendimento ao interesse público.
+
+                                                         Regime jurídico de direito público.
+
+                                                           Controle pelo Poder Judiciário.
+
+1
+    Di Pietro, 2016, p. 239.
+2
+    Carvalho Filho, 2017, p. 105.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               4
+           www.estrategiaconcursos.com.br                                                                 42
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Ato administrativo x ato jurídico x fato administrativo x fato jurídico
+
+- O ato administrativo é espécie do gênero ato jurídico, que é uma manifestação unilateral, oriunda
+da vontade humana, que tem por objetivo produzir alguma alteração no mundo jurídico.
+
+Por sua vez, o ato jurídico é espécie do gênero fato jurídico em sentido amplo, que é basicamente
+qualquer acontecimento que produz alteração no mundo jurídico.
+
+Outra espécie de fato jurídico em sentido amplo é o fato jurídico em sentido estrito, que é um
+acontecimento que não depende da vontade humana e que produz efeitos jurídicos (ex:
+nascimento de uma pessoa, catástrofe natural que produz a destruição de um bem etc.
+
+                                                                          Fato jurídico em sentido estrito
+
+      Fato jurídico em sentido amplo
+
+                                                                                      Ato jurídico
+
+- Fato administrativo é um fato jurídico que produz efeitos sobre a Administração Pública, mesmo
+que não envolva a participação de agentes públicos.
+
+Esses efeitos gerados sobre a Administração podem ser jurídicos ou não. Quando não produzem
+efeitos jurídicos sobre a Administração, os fatos administrativos são também chamados de fato da
+Administração.
+
+- Os atos administrativos não devem ser confundidos com os atos políticos ou de governo, nem
+com os atos legislativos (elaboração de normas primárias, ato típico do Poder Legislativo) e os atos
+judiciais (exercício da jurisdição, ato típico do Poder Judiciário).
+
+Vale lembrar que não apenas o Poder Executivo pratica ato administrativo: os Poderes Legislativo
+e Judiciário, no exercício de sua função atípica administrativa, também editam atos
+administrativos.
+
+Ato administrativo x ato da administração
+
+- Ato da administração é todo ato praticado no exercício da função administrativa, englobando
+todos os atos praticados pela administração, sejam regidos essencialmente pelo direito privado
+ou público.
+
+Alcançam, assim, não apenas os atos administrativos propriamente ditos, mas também os atos de
+direito privado (ex: doação, permuta etc.) e os atos materiais da administração que não contenham
+manifestação de vontade (que são mera execução de determinações administrativas).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    5
+        www.estrategiaconcursos.com.br                                                                       42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Portanto, o ato administrativo é espécie de ato da administração.
+
+
+Atributos dos atos administrativos
+
+- São eles:
+
+                                         Presunção de legitimidade
+                                            Autoexecutoriedade
+                                                Tipicidade
+                                              Imperatividade
+
+Para facilitar a memorização, lembrar do mnemônico “PATI.” (Presunção de legitimidade,
+Autoexecutoriedade, Tipicidade e Imperatividade).
+
+Presunção de legitimidade
+
+- Presume-se que os atos administrativos foram emitidos com observância da lei (ou seja, são
+considerados legais e legítimos), produzindo efeitos imediatamente, ainda que eivados de vícios
+ou defeitos aparentes, até sua eventual anulação pela Administração ou pelo Judiciário.
+
+Essa presunção é relativa (juris tantum), admitindo prova em contrário. Todavia, quem deve
+demonstrar eventuais vícios do ato é o administrado, já que a presunção de legitimidade produz
+o efeito de inverter o ônus da prova em favor da Administração.
+
+- Há, ainda, a dimensão da presunção de veracidade, impondo que devem ser considerados
+verdadeiros os fatos declarados pela administração para fundamentar a prática do ato
+administrativo.
+
+- Atributo presente em todos os atos administrativos.
+
+Autoexecutoriedade
+
+- Informa que os atos administrativos podem ser executados pela própria Administração, sem a
+necessidade de autorização prévia do Poder Judiciário.
+
+- Possui duas características: exigibilidade e executoriedade. A exigibilidade é caracterizada pela
+obrigação que o administrado tem de cumprir o comando imperativo do ato (uma coação
+indireta). Por sua vez, a executoriedade é a possibilidade de a própria Administração praticar o
+ato ou, utilizando de meios diretos de coerção, compelir, direta e materialmente, o administrado
+a praticá-lo (coação material, direta).
+
+- A autoexecutoriedade não impede o controle judicial do ato administrativo, apenas dispensa a
+autorização prévia do Poder Judiciário.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        6
+        www.estrategiaconcursos.com.br                                                          42
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+- Atributo presente em apenas parcela dos atos administrativos (ex: cobrança de multas não é
+autoexecutória, havendo necessidade de ajuizamento de ação judicial por parte da administração
+caso o administrado não efetue o pagamento).
+
+Tipicidade
+
+- “É o atributo pelo qual o ato administrativo deve corresponder a figuras definidas previamente
+pela lei como aptas a produzir determinados resultados. Para cada finalidade que a Administração
+pretende alcançar existe um ato definido em lei”3.
+
+- Decorre diretamente do princípio da legalidade, impedindo que a Administração pratique atos
+inominados, sem previsão legal, bem como a prática de atos totalmente discricionários e,
+consequentemente, arbitrários, uma vez que a lei já define os limites em que a discricionariedade
+poderá ser exercida.
+
+- Atributo presente em todos os atos administrativos.
+
+Imperatividade
+
+- Informa que o ato deve ser observado pelo administrado independentemente da sua
+concordância, ou seja, os efeitos do ato são impostos ao administrado de forma unilateral por
+parte da administração.
+
+- Está relacionada, portanto, à coercibilidade das obrigações e restrições impostas pelo Poder
+Público aos administrados.
+
+- Atributo presente em apenas parcela dos atos administrativos (somente nos atos que impõem
+obrigações ou restrições).
+
+
+Elementos dos atos administrativos
+
+Elementos essenciais (ou requisitos de validade)
+
+- São eles:
+
+                                                    COMpetência
+                                                     FInalidade
+                                                      FORma
+                                                       Motivo
+                                                       OBjeto
+
+3
+    Di Pietro, 2016, p. 244.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   7
+           www.estrategiaconcursos.com.br                                                      42
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Para facilitar a memorização: lembrar do mnemônico “COMFIFORMOB” (COMpetência,
+FInalidade, FORma, Motivo e OBjeto).
+
+Competência
+
+- É o poder atribuído ao agente para a prática do ato, dizendo respeito, assim, ao sujeito que,
+segundo expresso na norma, é o responsável por praticar determinado ato.
+
+- A competência decorre de norma expressa (não há presunção de competência administrativa),
+normalmente da lei, embora determinados agentes retirem sua competência diretamente da
+Constituição (como o Presidente da República) ou de normas administrativas infralegais (como um
+Regimento Interno).
+
+- Principais características - a competência é:
+
+  a) de exercício obrigatório: seu titular não pode optar entre exercê-la ou não. O exercício da
+  competência é um poder-dever (art. 11 da Lei 9.784/1999);
+
+  b) irrenunciável: seu titular não pode dela abrir mão;
+
+  c) intransferível: seu titular não pode transferi-la a outrem;
+
+  d) imodificável pela vontade de titular: apenas o ordenamento jurídico pode modificar a
+  titularidade da competência;
+
+  e) imprescritível: continua sob titularidade do agente mesmo quando não é exercida;
+
+  f) improrrogável: o decurso do tempo não torna competente um agente incompetente a
+  praticar o ato.
+
+- Delegação x avocação
+
+Não é admitida a transferência ou a renúncia da titularidade da competência, mas o seu exercício
+pode sim ser transferido a outros órgãos ou agentes, por meio dos institutos da delegação e da
+avocação.
+
+Na delegação, ocorre a transferência do exercício de parcela da competência a outro órgão ou
+agente, mesmo que estes não sejam subordinados ao titular da competência, embora o mais
+comum seja que a delegação ocorra quando há relação de hierarquia.
+
+Por outro lado, na avocação, a autoridade hierarquicamente superior chama para si o exercício de
+determinada competência atribuída a órgão hierarquicamente inferior.
+
+Assim, ao contrário da delegação, a avocação só é possível na existência de relação de hierarquia.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       8
+        www.estrategiaconcursos.com.br                                                         42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Comparativo das principais características entre delegação e avocação:
+
+                      DELEGAÇÃO                                                       AVOCAÇÃO
+    Não precisa haver relação de hierarquia.                               Deve haver relação de hierarquia.
+                                                                     É permitida apenas em caráter excepcional e
+  Em regra, é permitida, salvo quando houver
+                                                                          por motivos relevantes devidamente
+              impedimento legal.
+                                                                        justificados (art. 15, da Lei 9.784/1999).
+ Não podem ser objeto de delegação (art. 13
+           da Lei 9.784/1999):
+     a) a edição de atos de caráter normativo;                       Não será possível a avocação quando se tratar
+     b) a decisão de recursos administrativos;                        de competência exclusiva do subordinado.
+                                                        ==219a34==
+
+  c) as matérias de competência exclusiva do
+             órgão ou autoridade.
+Outras características importantes da delegação:
+  a) apenas parcela das competências pode ser delegada;
+  b) é feita por prazo determinado (art. 14, § 1º, da Lei 9.784/1999);
+  c) a delegação é ato discricionário e revogável a qualquer tempo pelo delegante (deve haver
+  publicação do ato no meio oficial – art. 14 da Lei 9.784/1999);
+  d) o agente delegado responde pelo ato praticado por delegação, como regra.
+
+Finalidade
+
+- É o resultado pretendido pela administração com a prática do ato administrativo.
+
+- Diz-se que a finalidade é o efeito mediato ou geral do ato, que invariavelmente será a satisfação
+do interesse público.
+
+Forma
+
+- É a maneira, o modo, pelo qual é exteriorizado o ato administrativo.
+
+- Princípio do formalismo moderado: preceitua que, para a prática de qualquer ato administrativo,
+devem ser exigidas tão somente as formalidades estritamente essenciais, desprezando-se
+procedimentos meramente protelatórios, o que se coaduna com o art. 22 da Lei 9.784/1999, que
+dispõe que “os atos do processo administrativo não dependem de forma determinada senão
+quando a lei expressamente a exigir”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                            9
+        www.estrategiaconcursos.com.br                                                                           42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+- A forma é um elemento vinculado do ato administrativo, porque deve ser exteriorizado na forma
+que a lei exigir. Somente no caso de a lei não exigir essa forma determinada é que a administração
+poderá praticar o ato com a forma que lhe parecer mais adequada.
+
+- A motivação (exposição, por escrito, dos motivos que levaram à prática do ato) integra a forma
+do ato administrativo.
+
+Motivo
+
+- É a causa do ato administrativo, consubstanciada nas razões, nas situações ou nos pressupostos
+de fato e de direito que dão embasamento à sua prática.
+
+- Pressuposto de fato x pressuposto de direito
+
+Pressuposto de fato é o conjunto de circunstâncias, de acontecimentos, de situações ocorridas no
+mundo real que levam a Administração a praticar o ato. Por sua vez, pressuposto de direito é o
+dispositivo legal em que se baseia o ato.
+
+- Motivo x motivação
+
+O motivo é um elemento que está presente em todos os atos administrativos, correspondendo às
+razões (pressupostos de fato de direito) que justificam sua prática.
+
+Já a motivação é a exposição, a exteriorização dos motivos, ou seja, é a demonstração, por escrito,
+do que levou a Administração produzir determinado ato administrativo, sendo parte integrante
+da forma do ato administrativo.
+
+Embora o motivo sempre esteja presente em um ato administrativo, a motivação, a rigor, somente
+será obrigatória quando a lei assim o exigir, embora a doutrina e a boa prática administrativa
+defendam que sempre seja aplicável.
+
+Assim, temos os atos que devem ser necessariamente motivados (art. 50 da Lei 9.784/1999):
+
+Lei 9.784/1999, art. 50. Os atos administrativos deverão ser motivados, com indicação dos fatos e dos
+fundamentos jurídicos, quando:
+I - neguem, limitem ou afetem direitos ou interesses;
+II - imponham ou agravem deveres, encargos ou sanções;
+III - decidam processos administrativos de concurso ou seleção pública;
+IV - dispensem ou declarem a inexigibilidade de processo licitatório;
+V - decidam recursos administrativos;
+VI - decorram de reexame de ofício;
+VII - deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos,
+propostas e relatórios oficiais;
+VIII - importem anulação, revogação, suspensão ou convalidação de ato administrativo.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        10
+         www.estrategiaconcursos.com.br                                                           42
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Além dessas hipóteses estabelecidas na Lei 9.784/1999, a CF/88 também estabeleceu uma
+hipótese de motivação obrigatória:
+
+CF/88, art. 93, X - as decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo as
+disciplinares tomadas pelo voto da maioria absoluta de seus membros;
+
+- Motivo x móvel
+
+Motivo é a situação objetiva, real, externa ao agente que pratica o ato, enquanto o móvel é a
+intenção, propósito, realidade interna, psicológica desse agente.
+
+No controle dos atos administrativos discricionários, o exame do móvel é relevante, porque a
+prática de tais atos admite uma apreciação subjetiva do agente público quanto à melhor forma de
+proceder para dar correto atendimento à finalidade legal, de modo que o ato será inválido, se o
+móvel do agente estiver viciado (ex: tiver como objetivo favorecer ou perseguir alguém).
+
+Nos atos completamente vinculados, o exame do móvel é irrelevante, porque a lei já define o
+único comportamento possível perante o motivo por ela já caracterizado, inadmitindo qualquer
+subjetivismo por parte do agente.
+
+- Teoria dos motivos determinantes: preceitua que a validade do ato está adstrita aos motivos
+indicados como seu fundamento, de maneira que, se os motivos forem inexistentes ou falsos, o
+ato será nulo.
+
+Objeto
+
+- É o conteúdo do ato, seu resultado prático, seu efeito jurídico imediato.
+
+- Objeto vinculado x discricionário
+
+Nos atos vinculados, o objeto deve ser exatamente aquele que a lei estabeleceu. Esse é o objeto
+vinculado.
+
+Por outro lado, nos atos discricionários, o objeto pode ser escolhido pelo agente público, dentre
+os possíveis autorizados na lei, mediante a avaliação dos critérios de conveniência e oportunidade.
+Esse é o objeto variável.
+
+- Objeto x Finalidade
+
+O objeto é o efeito jurídico imediato que o ato produz, sua finalidade específica, que será variável
+de acordo com cada ato: aquisição, transformação ou extinção de direitos.
+
+Por sua vez, a finalidade é o efeito geral ou mediato (no futuro) do ato, que será sempre o mesmo
+(expresso ou implicitamente estabelecido na lei): a satisfação do interesse público.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              11
+         www.estrategiaconcursos.com.br                                                                 42
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Elementos acidentais
+
+- São elementos acessórios do ato administrativo: sua ausência não torna inválido o ato (ou seja,
+não são essenciais ao ato).
+
+- São eles:
+
+                                              Encargo (ou modo)
+                                                  Condição
+                                                    Termo
+
+Para facilitar a memorização: lembrar do mnemônico “ECT” (Encargo ou modo, Condição e
+Termo).
+
+- Encargo (ou modo): é o ônus imposto ao destinatário do ato.
+
+- Condição: é o evento futuro e incerto ao qual estão subordinados os efeitos do ato.
+
+- Termo: é o evento futuro e certo ao qual estão subordinados os efeitos do ato.
+
+- Os elementos acidentais estão presentes apenas nos atos discricionários.
+
+Vícios nos elementos de formação
+
+Vício de competência
+
+- Excesso de poder: ocorre quando o agente excede os limites da sua competência para praticar
+determinado ato (ex: demissão de servidor aplicada por Ministro de Estado, quando a lei lhe
+permitia aplicar apenas a penalidade de suspensão, devendo a penalidade de demissão ser
+aplicada exclusivamente pelo Presidente da República).
+
+No excesso de poder, nem sempre o ato deve obrigatoriamente ser anulado, uma vez que o vício
+de competência admite convalidação, exceto na hipótese de competência exclusiva ou de
+competência em razão de matéria.
+
+- Usurpação de função pública: é o apoderamento da atribuição de agente público por parte de
+alguém não investido no cargo, emprego ou função (ex: uma pessoa qualquer se vestir de policial
+e passar a fazer patrulhas nas ruas, sem ter sido investido no cargo), sendo considerados
+inexistentes os atos praticados pelo usurpador.
+
+- Função de fato: ocorre quando o agente foi investido no cargo, emprego ou função, mas há
+alguma ilegalidade em sua investidura ou algum impedimento legal para a prática do ato. Nesse
+caso, os efeitos do ato são considerados válidos, em razão da "teoria da aparência".
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     12
+        www.estrategiaconcursos.com.br                                                        42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Vício de finalidade
+
+- O vício de finalidade é denominado desvio de poder (ou desvio de finalidade), que é a prática
+de ato visando fim diverso do previsto, mesmo que implicitamente, na lei (ex: remoção de servidor
+público com o objetivo de puni-lo).
+
+Trata-se de vício insanável, não podendo ser objeto de convalidação, sendo nulo o ato viciado.
+
+Muita atenção para não confundir desvio de poder (vício de finalidade) com excesso de poder
+(vício de competência)!
+
+Vício de forma
+
+- O vício de forma importa na anulação do ato apenas quando a forma for essencial (ou seja,
+quando é estabelecida em lei). Nos demais casos, o vício é sanável e o ato passível de
+convalidação.
+
+- Quando a motivação for obrigatória, sua ausência implica vício de forma, resultando na nulidade
+do ato.
+
+Vício de motivo
+
+- Há duas espécies (art. 2º, parágrafo único, "d", da Lei 4.717/1965):
+
+  a) Motivo inexistente: ocorre quando o pressuposto de fato é inexistente (ex: a administração
+  pratica determinado ato alegando como fundamento o fato "F", quando efetivamente esse fato
+  "F" não ocorreu, não existiu), implicando a nulidade do ato.
+
+  b) Motivo ilegítimo: ocorre quando o motivo alegado é juridicamente inadequado,
+  incongruente, impertinente (ex: a administração pratica determinado ato alegando como
+  fundamento o fato "F", quando efetivamente esse fato "F" não é previsto na norma como apta
+  a fundamentar a prática do ato. Ou seja, o fato "F" existe, mas não é previsto na norma como
+  apto a fundamentar o ato praticado pela administração – há um erro de enquadramento do fato
+  na norma).
+
+Vício de objeto
+
+- Objeto impossível: ocorre quando seu conteúdo não é realizável, factualmente e/ou
+juridicamente.
+
+- Objeto proibido pela lei: ocorre quando seu conteúdo contraria a lei, regulamento ou outro ato
+normativo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        13
+        www.estrategiaconcursos.com.br                                                           42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+- Objeto não previsto em lei: ocorre quando seu conteúdo é distinto do previsto na lei (exemplo:
+aplicação de uma dada penalidade por 10 dias, quando a lei estabelece que para tal penalidade
+o prazo máximo de aplicação é de 5 dias).
+
+- Objeto diferente daquele que a lei prevê para a situação: ocorre quando, mesmo efetuando um
+enquadramento correto entre o pressuposto de fato e a norma, a administração pratica um ato
+com objeto distinto ao previsto na lei para o enquadramento que foi efetuado (se houvesse erro
+de enquadramento seria vício de motivo – motivo ilegítimo).
+
+Abuso de poder
+
+- O abuso de poder ocorre de duas maneiras: excesso de poder (vício de competência) e desvio
+de finalidade (ou desvio de poder, vício de finalidade), que já foram explicadas anteriormente.
+
+
+                                                                                              vício de
+                                                Excesso de Poder
+                                                                                            competência
+    Abuso de Poder
+                                              Desvio de Finalidade                            vício de
+                                              (ou Desvio de Poder)                           finalidade
+
+
+Vinculação e discricionariedade
+
+- Atos administrativos vinculados x discricionários
+
+Nos atos administrativos vinculados, o agente público não possui margem para valorar ou escolher
+nenhum de seus elementos, já que todos são vinculados.
+
+Já nos atos administrativos discricionários, são vinculados os elementos competência, finalidade e
+forma, mas os demais são discricionários, de modo que o agente que pratica o ato pode valorar
+seu motivo e escolher seu objeto, ou seja, o mérito do ato.
+
+Portanto, o grau de liberdade que a lei confere ao administrador para a prática dos atos
+discricionários é maior do que para a prática dos atos vinculados.
+
+Essa liberdade, entretanto, nunca é total, já que não existe ato totalmente discricionário – o ato
+administrativo deve corresponder a figuras previamente definidas e delimitadas em lei, segundo
+o atributo da tipicidade.
+
+Inclusive, não se pode confundir discricionariedade com arbitrariedade, que seria a atuação
+administrativa fora dos limites impostos pela lei.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 14
+        www.estrategiaconcursos.com.br                                                                    42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Mérito administrativo
+
+- É a prerrogativa conferida ao administrador para praticar atos discricionários fundados em uma
+análise de oportunidade (se o momento para praticar o ato é adequado) e conveniência (se o ato
+é interessante ao interesse público), que é denominada "juízo de mérito".
+
+Esse juízo recai apenas sobre os elementos motivo e objeto, como já dito.
+
+Portanto, só existe mérito administrativo em atos discricionários.
+
+                      ATOS VINCULADOS                                 ATOS DISCRICIONÁRIOS
+                                                                           Competência
+    Elementos
+                             Todos                                           Finalidade
+    Vinculados
+                                                                                Forma
+                                                                              MOTIVO
+    Elementos                                                                 OBJETO
+                            Nenhum
+  Discricionários                               (o juízo de mérito – oportunidade e conveniência – recai sobre estes dois
+                                                                               elementos)
+
+
+- O Judiciário não pode efetuar controle de mérito do ato administrativo. Portanto, somente a
+própria Administração pode realizar o controle do mérito do ato administrativo, que resulta na sua
+revogação (e não anulação, que é um controle de legalidade ou legitimidade).
+
+Inclusive, o Judiciário pode efetuar o controle de atos discricionários, mas nunca o do mérito do
+ato: somente da legalidade ou legitimidade do ato, resultando na sua anulação em caso de vício
+em seus elementos.
+
+Isso implica dizer, mais uma vez, que não é possível asseverar que a discricionariedade
+administrativa é absoluta, devendo: a) ser exercida nos limites da lei; b) observar os princípios da
+Administração Pública, especialmente os da razoabilidade, da proporcionalidade e da moralidade;
+e c) atender à teoria dos motivos determinantes.
+
+
+Classificações dos atos administrativos
+
+Classificações mais cobradas em provas
+
+- Quanto ao grau de liberdade em sua prática:
+
+                    ATO VINCULADO                                              ATO DISCRICIONÁRIO
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                   15
+        www.estrategiaconcursos.com.br                                                                                      42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+   Não há margem de liberdade para decisão na
+                                                              Há certa liberdade de decisão na prática do
+  prática do ato (comportamento único possível a
+                                                              ato, dentro dos limites estipulados pela lei
+  ser adotado obrigatoriamente, por força da lei).
+
+
+- Quanto à formação de vontade:
+
+            ATO SIMPLES                          ATO COMPLEXO                               ATO COMPOSTO
+  Vontade de um único órgão                Vontade de dois ou mais
+                                                                                 Vontade de um único órgão
+    (singular ou colegiado)                        órgãos
+
+                                                                                              Dois atos
+                                                                                (ato principal + ato acessório)
+            Um único ato                          Um único ato                (o ato acessório pode ser prévio, com a
+                                                                              função de autorizar a prática do ato
+                                                                              principal, ou posterior, com a função de
+                                                                              conferir eficácia ao ato principal)
+
+
+Demais classificações
+
+- Quanto à sua estrutura:
+
+                    ATO ABSTRATO                                                 ATO CONCRETO
+ Disciplinam situações aplicáveis a um número
+                                                                       Tratam de um caso específico.
+           indeterminado de casos.
+
+            São atos gerais (normativos).                                    São atos individuais.
+
+
+- Quanto aos destinatários do ato:
+
+                      ATO GERAL                                                  ATO INDIVIDUAL
+                                                                   Possuem destinatários determinados.
+                                                                  Podem ser direcionados a um único
+    Atingem um número indeterminado de                        destinatário (atos individuais singulares) ou a
+               destinatários.                                  múltiplos destinatários, a uma coletividade
+                                                                (atos individuais plúrimos) desde que os
+                                                                   destinatários sejam determinados.
+
+      São os atos normativos, dotados de
+                                                                            São os atos concretos.
+          generalidade e abstração.
+
+    São discricionários quanto ao conteúdo.                      Podem ser discricionários ou vinculados.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                           16
+        www.estrategiaconcursos.com.br                                                                              42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+     Prevalecem sobre os atos individuais.                             Submetem-se aos atos gerais.
+
+       Não admitem impugnação pela via
+                administrativa.
+    Judicialmente, não admitem impugnação                      Podem ser impugnados diretamente, tanto
+   direta por parte da pessoa lesada, para que                 pela via administrativa, quanto pela judicial.
+  sejam invalidados (só podem ser impugnados
+ judicialmente de modo incidental, para afastar
+         sua aplicação no caso concreto).
+
+  São sempre revogáveis, mesmo se gerarem                         Não podem ser revogados se gerarem
+             direitos adquiridos.                                         direitos adquiridos.
+
+     Ex: regimentos, instruções normativas,                        Ex: nomeação de servidor público,
+              portarias, circulares.                            desapropriação de bens de um particular.
+
+
+- Quanto ao âmbito de aplicação:
+
+                     ATO INTERNO                                                  ATO EXTERNO
+ Produzem efeitos no interior da administração                   Produzem efeitos fora da administração
+                   pública.                                                     pública.
+
+  Em regra, não requerem publicação oficial.
+
+   Em regra, não geram direitos adquiridos,                       Em regra, requerem publicação oficial.
+  podendo ser revogados a qualquer tempo.
+
+
+- Quanto às prerrogativas com que atua a Administração:
+
+            ATO DE IMPÉRIO
+                                                 ATO DE GESTÃO                         ATO DE EXPEDIENTE
+       (OU DE AUTORIDADE)
+                                            Administração efetua a
+   Administração utiliza suas
+                                            gestão de seus bens e
+ prerrogativas para realizar uma
+                                           serviços, em situação de              Administração em sua rotina
+     imposição coercitiva ao
+                                              igualdade com os                   interna, praticando atos sem
+     administrado, de forma
+                                          particulares (sem o uso de                  conteúdo decisório.
+  unilateral (poder extroverso,
+                                          sua supremacia, do poder
+           de império).
+                                                 extroverso).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                       17
+        www.estrategiaconcursos.com.br                                                                          42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+                                               Ex: celebração de
+                                          contrato de locação ou de
+ Ex: apreensão de mercadorias,
+                                          seguro, atos negociais (ex:   Ex: juntada de documentos a
+         atos de polícia,
+                                          autorização, permissão de     processo, movimentação de
+ desapropriações, interdição de
+                                             uso de bem público),     processo, protocolo de petições.
+  estabelecimento comercial.
+                                            alienação/aquisição de
+                                                     bens.
+
+
+- Quanto aos efeitos:
+
+   ATO CONSTITUTIVO             ATO DECLARATÓRIO               ATO EXTINTIVO                ATO MODIFICATIVO
+                                   Reconhece e
+                                                                                        Altera situações jurídicas
+   Cria nova situação            declara situação
+                                                                                           preexistentes, sem
+  jurídica (direitos ou           jurídica ou fato          Extingue situação
+                                                                                           extingui-las ou criar
+ obrigações) para seus          preexistente, sem           jurídica individual.
+                                                                                            novos direitos ou
+      destinatários.            criar nova situação
+                                                                                               obrigações.
+                                      jurídica.
+
+    Ex: nomeação de                                           Ex: cassação de           Ex: alteração do local de
+                                    Ex: certidão.
+    servidor público.                                          autorização.                    uma reunião
+
+
+                   ATO ALIENATIVO                                               ATO ABDICATIVO
+  Administração transfere bens e direitos de                  Administração renuncia a algum direito, em
+           uma pessoa para outra.                                 caráter irreversível e imodificável.
+
+
+- Quanto aos requisitos de validade:
+
+   ATO VÁLIDO              ATO NULO               ATO ANULÁVEL                        ATO INEXISTENTE
+                                                                              Possui apenas aparência de
+                                                                              manifestação da vontade da
+                                                                                    administração.
+                        Apresenta vício          Apresenta vício             Ato juridicamente impossível
+ Seus elementos           insanável.                sanável.              também é considerado inexistente.
+   de formação
+ não apresentam                                                           No ato inexistente, não se reconhece que
+                                                                          houve a prática de um ato, a manifestação
+  nenhum vício.
+                                                                           de vontade da administração, portanto.
+
+                                                   Pode ser                  Ao contrário dos atos nulos, os atos
+                         Não pode ser
+                                                 convalidado (a                         inexistentes:
+                         convalidado
+                                                 administração
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                           18
+        www.estrategiaconcursos.com.br                                                                              42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+                            (deve ser           pode optar entre              a) não devem ter qualquer efeito
+                            anulado).            convalidar ou           preservado, inclusive a terceiros de boa fé;
+
+                                                  anular o ato).         b) não estão sujeitos a prazos prescricionais
+                                                                             ou decadenciais para desfazimento,
+                                                                         podendo ter sua inexistência reconhecida a
+                                                                                      qualquer tempo.
+
+
+- Quanto à exequibilidade:
+
+  ATO PERFEITO         ATO IMPERFEITO        ATO EFICAZ              ATO PENDENTE                ATO CONSUMADO
+  Está pronto,            Não está                             Está sujeito a condição
+                                             Está apto
+     tendo              pronto, não                              suspensiva, termo,
+                                                 à                                                   Já exauriu seus
+  completado           completou seu                         autorização, homologação
+                                             produção                                                    efeitos.
+  seu ciclo de            ciclo de                               ou aprovação para
+                                             de efeitos.
+   formação.             formação.                                produzir efeitos.
+
+                                       Perfeição e validade não se confundem.
+                      Assim, o ato perfeito, que já completou seu ciclo de formação, pode ser:
+                      a) válido e eficaz: conforme às exigências legais e apto a produzir efeitos;
+            b) inválido e eficaz: desconforme às exigências legais, mas, mesmo assim, produzindo efeitos;
+  c) válido e ineficaz: conforme às exigências legais, mas dependente de condição ou termo para produzir efeitos;
+    d) inválido e ineficaz: desconforme às exigências legais e dependente de condição ou termo para produzir
+                                                       efeitos.
+
+Espécies dos atos administrativos
+
+- São elas:
+
+                                                   Normativo
+                                                   Ordinatório
+                                                    Negocial
+                                                   Enunciativo
+                                                    Punitivo
+
+Para facilitar a memorização: lembrar do mnemônico “NONEP” (Normativo, Ordinatório,
+Negocial, Enunciativo e Punitivo).
+
+Atos normativos
+
+- São os que veiculam regras gerais e abstratas, visando permitir a fiel execução das leis.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                              19
+        www.estrategiaconcursos.com.br                                                                                 42
+
+                                      
+
+
+---
+
+    Tulio Lages
+    Aula 05
+
+- São dotados de generalidade e abstração (alcança um número indeterminado de pessoas, não
+tratando de casos concretos).
+
+- Não inovam no ordenamento jurídico (ao contrário das leis).
+
+                   ATOS NORMATIVOS                                                        LEIS
+                                                                     São elaboradas a partir do processo
+         São praticados pela Administração
+                                                               legislativo e podem criar direitos e obrigações
+
+    Não podem inovar o ordenamento jurídico                         Podem inovar o ordenamento jurídico
+
+
+- Exemplos: decretos regulamentares, decreto autônomo que trata da organização e
+funcionamento da administração federal (art. 84, VI, "a", da CF/88), resoluções, regimentos,
+instruções normativas, deliberações.
+
+O decreto autônomo que trata da extinção de funções e cargos quando vagos (art. 84, VI, "b", da
+CF/88) produz efeitos concretos, não sendo considerado ato normativo.
+
+Atos ordinatórios
+
+- São voltados aos próprios agentes públicos, com efeitos restritos ao âmbito interno, contendo
+determinações voltadas ao exercício desses agentes.
+
+- São oriundos do poder hierárquico.
+
+- Exemplos de atos ordinatórios, segundo Hely Lopes Meireles4:
+
+a) Circulares: são ordens escritas, de caráter uniforme, expedidas a determinados funcionários ou
+agentes administrativos incumbidos de certo serviço, ou do desempenho de certas atribuições em
+circunstâncias especiais.
+
+b) Instruções (desde que não possuam caráter normativo): são ordens escritas e gerais a respeito
+do modo e forma de execução de determinado serviço público, expedidas pelo superior
+hierárquico com o escopo de orientar os subalternos no desempenho das atribuições que lhes
+estão afetas e assegurar a unidade de ação no organismo administrativo.
+
+c) Ordens de serviço: são determinações especiais dirigidas aos responsáveis por obras ou serviços
+públicos autorizando seu início, ou contendo imposições de caráter administrativo, ou
+especificações técnicas sobre o modo e forma de sua realização.
+
+Hely Lopes Meireles - Direito Administrativo Brasileiro - 42ª ed.- Fl. 209-210
+4
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 20
+          www.estrategiaconcursos.com.br                                                                    42
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+d) Portarias: são atos administrativos internos pelos quais os chefes de órgãos, repartições ou
+serviços expedem determinações gerais ou especiais a seus subordinados, ou designam servidores
+para funções e cargos secundários.
+
+Atos negociais
+
+- Ocorrem quando há alinhamento entre o interesse público e o privado, possibilitando ao
+particular o exercício de uma atividade ou o uso de um bem público, como as licenças, as
+autorizações e as permissões de uso de bem público.
+
+- São oriundos do poder de polícia ou da necessidade de descentralização da prestação de
+serviços públicos.
+
+- Apesar de serem denominados "negociais", tais atos não tratam de contrato ou de negócio
+jurídico – são declarações unilaterais da vontade da Administração.
+
+- Podem ser vinculados ou discricionários, expedidos a título precário ou definitivo.
+
+           Vinculados: uma vez cumpridos os requisitos estipulados pela lei por parte do
+           particular, este terá o direito subjetivo de obter a anuência da Administração, que
+           não tem margem para decidir sobre o pedido.
+
+           Discricionários: mesmo cumpridos os requisitos estipulados pela lei por parte do
+           particular, a Administração possui margem para decidir se defere ou nega o
+           pedido efetuado por aquele. O particular, assim, não possui direito subjetivo em
+           obter a anuência da Administração, mas mero interesse.
+
+           Precários: revogáveis a qualquer tempo;
+
+           Definitivos: não podem ser revogados, mas tão apenas anulados ou cassados (ou
+           seja, não duram eternamente – inclusive podem ter prazo de validade –, apesar de
+           serem denominados "definitivos". O que há é uma expectativa de definitividade).
+
+Com base em tais características, segundo Maria Sylvia Zanella Di Pietro5, temos que:
+
+     a) Autorização: ato administrativo unilateral, discricionário e precário pelo qual a Administração
+     faculta ao particular o uso de bem público (autorização de uso), ou a prestação de serviço
+     público (autorização de serviço público), ou o desempenho de atividade material, ou a prática
+     de ato que, sem esse consentimento, seriam legalmente proibidos (autorização como ato de
+     polícia).
+
+5
+    Direito Administrativo – 30ª Ed. – Págs. 241/243 e 398
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        21
+           www.estrategiaconcursos.com.br                                                           42
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+  b) Licença: ato administrativo unilateral e vinculado pelo qual a Administração faculta àquele
+  que preencha os requisitos legais o exercício de uma atividade.
+
+  c) Admissão: ato unilateral e vinculado pelo qual a Administração reconhece ao particular, que
+  preencha os requisitos legais, o direito à prestação de um serviço público.
+
+  d) Permissão: ato administrativo unilateral, discricionário e precário, gratuito ou oneroso, pelo
+  qual a Administração Pública faculta ao particular a execução de serviço público ou a utilização
+  privativa de bem público. O seu objeto é a utilização privativa de bem público por particular ou
+  a execução de serviço público.
+
+  e) Adjudicação: ato declaratório e vinculado, pelo qual a Administração, pela mesma autoridade
+  competente para homologar, atribui ao vencedor o objeto da licitação.
+
+Outros atos negociais (pouco frequentes em prova): aprovação, homologação, visto, admissão,
+dispensa e renúncia.
+
+Atos enunciativos
+
+- Contêm uma declaração da Administração (quanto a uma situação ou um fato), sem veicularem
+manifestação de vontade do poder público, como as certidões, os atestados, os pareceres e as
+apostilas.
+
+- Não comportam revogação.
+
+- Certidão x Atestado
+
+Na certidão, a Administração fornece cópia fiel de informações que possui em seus arquivos e
+bases de dados (registros públicos). No atestado, a Administração comprova (e declara) um fato
+de que tenha conhecimento em razão da atuação de seus agentes (o fato não consta dos registros
+públicos).
+
+- Pareceres
+
+O parecer veicula opinião técnica, fornecendo subsídios para a tomada de decisão de autoridades.
+Por via de regra, não produz sozinho efeitos jurídicos (nada obstante, um ato decisório posterior
+pode aprovar o parecer e determinar que seja seguida pelos subordinados a opinião técnica
+contida no parecer).
+
+Há, por outro lado, duas espécies de pareceres com conteúdo decisório: os pareceres normativos
+os pareceres vinculantes.
+
+O parecer normativo é utilizado para expedir determinações gerais e abstratas, sendo, portanto,
+um ato normativo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       22
+        www.estrategiaconcursos.com.br                                                          42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Já o parecer vinculante é utilizado para expedir ordens, sendo, portanto, um ato ordinatório.
+
+- Apostilas
+
+Prestam-se a alterar, atualizar, corrigir, complementar informações de um ato praticado ou
+contrato celebrado (frequentemente utiliza-se a palavra "averbação").
+
+Atos punitivos
+
+- Impõem penalidades, seja aos agentes públicos, seja aos particulares.
+
+- Não se confundem com o poder punitivo do Estado, exercido pelo Poder Judiciário, em
+decorrência de crimes e contravenções.
+
+- A sanção aplicada a servidores públicos é oriunda dos poderes hierárquico e disciplinar; quando
+aplicada a particulares com vínculo específico, origina-se do poder disciplinar (apenas); e quando
+aplicada a particulares em geral (sem vínculo específico), emana do poder de polícia.
+
+- Exemplos: multa administrativa (como uma multa tributária), interdição de estabelecimentos,
+destruição de coisas etc.
+
+
+Desfazimento/extinção dos atos administrativos
+
+- Anulação e revogação
+
+                      ANULAÇÃO                                                     REVOGAÇÃO
+                                                              Opera sobre atos discricionários válidos, por
+ Opera sobre atos ilegais, ilegítimos, inválidos.
+                                                               razões de conveniência e oportunidade.
+
+ Se o vício do ato é insanável, o administrador
+                                                              O administrador pode decidir entre revogar
+    é obrigado a proceder à sua anulação
+                                                              ou não o ato (atuação discricionária), a partir
+              (atuação vinculada).
+                                                                  de um juízo de mérito sobre o ato.
+
+
+   Se o vício é sanável, o administrador pode
+                                                              A revogação pode ser total (ab-rogação) ou
+    optar entre anular o ato ou convalidá-lo
+                                                                        parcial (derrogação).
+             (atuação discricionária).
+
+  A anulação produz efeitos retroativos à data
+          da prática do ato (ex tunc).
+                                                                A revogação produz efeitos prospectivos
+  Nada obstante, o ato nulo não gera direitos                          (para frente ou ex nunc).
+    adquiridos à produção de seus efeitos,
+ embora a jurisprudência venha reconhecendo
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   23
+        www.estrategiaconcursos.com.br                                                                      42
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+        a necessidade de proteger os efeitos já
+    produzidos (ou seja, não entram aqui os novos
+    efeitos) em relação aos terceiros de boa-fé (ou
+      seja, aos destinatários do ato não há de se
+     falar em proteção, devendo ser desfeitos os
+                 efeitos já produzidos).
+
+    Opera tanto sobre os atos vinculados quanto
+                                                                  Opera apenas sobre os atos discricionários.
+                 os discricionários.
+
+                                                                    A revogação é realizada por aquele que
+                                                                   detém a competência para praticar o ato
+      A anulação pode ser realizada tanto pela
+                                                                   (portanto, não há de se falar em controle
+      própria Administração Pública (controle
+                                                                 judicial do mérito do ato – cuidado: o Poder
+       interno) quanto pelo Poder Judiciário
+                                                                Judiciário pode revogar seus próprios atos, no
+                 (controle judicial).
+                                                                   exercício da função administrativa, assim
+                                                                           como os demais poderes).
+
+                                                                      Atos que não podem ser revogados:
+                                                                a) atos vinculados (porque não há mérito a ser
+                                                                                    revisto);
+                                                                  b) atos consumados (que já exauriram seus
+                                                                                  efeitos);
+       Prazo para o exercício do direito de a                      c) atos que geraram direito adquirido (por
+    Administração anular atos administrativos = 5                       força do art. 5º, XXXVI, da CF/88);
+     anos, salvo ocorrência de má-fé, na esfera
+      federal (Lei 9.784/1999, art. 54) – prazo                   c) atos que integram um procedimento (a
+                     decadencial.                                    cada novo ato ocorre a preclusão da
+                                                                 possibilidade de revogação do ato anterior);
+                                                                 d) atos que estejam sobre reapreciação de
+             Em situações flagrantemente                        autoridade superior (ocorre o exaurimento da
+      inconstitucionais, o STF6 entende que esse                 competência da autoridade que praticou o
+                  prazo é inaplicável.                                              ato);
+                                                                 e) "meros atos administrativos" (aqueles que
+                                                                     não possuem manifestam vontade da
+                                                                 administração – pareceres, certidões etc. São
+                                                                 considerados apenas atos administrativos em
+                                                                               sentido formal).
+
+6
+    STF – MS 28279/DF.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    24
+           www.estrategiaconcursos.com.br                                                                       42
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+Os tribunais superiores têm entendido que tanto a anulação quanto a revogação de atos que
+desfavoreça interesses do administrado deve ser precedida de procedimento administrativo em
+que lhe seja assegurado o exercício do direito ao contraditório e à ampla defesa, mesmo que seja
+nítida a ilegalidade.
+
+Precedentes judiciais e entendimentos jurisprudenciais importantes:
+
+                                                    JURISPRUDÊNCIA
+    “A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque
+    deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados
+    os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial”7.
+
+    A anulação de atos que afrontem flagrantemente a determinação expressa na CF não está sujeita a prazo
+    decadencial, podendo ocorrer a qualquer tempo8.
+
+- Cassação: ocorre quando seu beneficiário deixa de cumprir os requisitos para continuar
+beneficiando-se dos efeitos do ato (ex: cassação de licença para dirigir ou para construir, quando
+seu titular deixa de atender aos requisitos previstos na lei para manter o seu direito).
+
+- Contraposição: ocorre quando surge um novo ato com efeitos opostos a outro já praticado, que
+acaba sendo extinto.
+
+- Caducidade: ocorre quando há superveniência de norma jurídica que torna ilegal um ato
+praticado anteriormente, porque passa a contrariar a nova legislação. O ato, assim, é extinto.
+
+- Renúncia: ocorre quando o próprio beneficiário abre mão do seu benefício, por livre iniciativa.
+
+- Extinção natural: ocorre quando há o cumprimento normal de seus efeitos (ex: ato que possuía
+vigência de 2 meses, cujo prazo de validade se exaure);
+
+- Extinção subjetiva: ocorre quando há o desaparecimento do sujeito beneficiário do ato;
+
+- Extinção objetiva: ocorre quando há o desaparecimento do objeto do ato praticado.
+
+           Observação importante: na anulação, na revogação e na cassação, o desfazimento
+           do ato ocorre por manifestação expressa da administração – desfazimento volitivo.
+
+           Nas demais hipóteses aqui apresentadas, a extinção do ato ocorre de maneira
+           independente da manifestação expressa acerca do ato extinto.
+
+7
+    STF – Súmula 473.
+8
+    STF – MS 28.273/DF.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             25
+           www.estrategiaconcursos.com.br                                                                42
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Convalidação
+
+- É a faculdade de a Administração corrigir e regularizar os vícios sanáveis dos atos administrativos,
+produzindo efeitos ex tunc, a fim de preservar e tornar válidos os efeitos já produzidos pelo ato
+enquanto ainda eivado de vícios.
+
+A convalidação, portanto, é um ato discricionário: o administrador decide se anula ou convalida o
+ato eivado de vício sanável.
+
+O ato com vício sanável é também chamado de "ato anulável", ao passo que o ato com vício
+insanável é denominado "ato nulo". Essa classificação vem da teoria dualista das nulidades,
+adotada no Brasil.
+
+Diz-se que há "nulidade absoluta" no caso de vício insanável, e "nulidade relativa" no caso de
+vício sanável.
+
+Há ainda outra corrente, a monista, não adotada no Brasil, que preconiza a impossibilidade de
+convalidação de qualquer ato administrativo, de maneira que qualquer vício no ato deve ensejar
+a sua invalidação: ou o ato é válido ou é nulo (não havendo, portanto, ato anulável).
+
+- A convalidação pode operar tanto em atos vinculados como discricionários, não sendo um
+controle de mérito, mas de legalidade.
+
+- Limites ao poder de convalidar
+
+Na esfera federal, a Lei 9.784/99 prevê a possibilidade de convalidação nos seguintes termos:
+
+Lei 9.784/99, art. 55. Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem
+prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria
+Administração.
+
+Assim, nos termos do dispositivo, a convalidação na esfera federal deve observar os seguintes
+requisitos:
+
+  a) não pode prejudicar terceiros;
+
+  b) deve visar a realização do interesse público;
+
+  c) deve recair sobre vícios sanáveis.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          26
+        www.estrategiaconcursos.com.br                                                             42
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 05
+
+Cumpre destacar, por fim, que a autora Weida Zancaner e a jurisprudência do STJ9 apontam como
+óbice à convalidação a existência de impugnação administrativa ou judicial, salvo situações
+excepcionais que autorizam a convalidação do ato impugnado.
+
+- Vícios nos elementos motivo e finalidade são insanáveis.
+
+Por outro lado, são sanáveis os seguintes vícios em atos administrativos:
+
+     a) vício de competência relativa à pessoa (não à matéria, portanto), desde que não se trate de
+     competência exclusiva;
+
+     b) vício de forma, exceto se esta for considerada essencial pela lei;
+
+     c) vício de objeto, desde que seja caso de conteúdo plúrimo (que contém mais de uma
+     providência administrativa), aproveitando-se as providências não atingidas por nenhum vício –
+     ou seja, trata-se de uma convalidação parcial.
+
+     Atenção! A possibilidade convalidação de vício de objeto é um entendimento controverso na
+     doutrina, alguns autores entendem que essa convalidação não seria possível. Portanto, o
+     entendimento que deve ser levado à prova é o de que, via de regra, vício de objeto não é
+     convalidável, mas, excepcionalmente, caso se trate de ato plúrimo, é possível a convalidação.
+
+- Formas (ou espécies) de convalidação e hipóteses de não desfazimento
+
+Os principais autores divergem sobre a terminologia empregada. No quadro a seguir, temos os
+entendimentos de cada um deles, que podem todos serem cobrados em prova. Ao resolver uma
+questão, o aluno precisa buscar identificar qual a corrente o examinador está aplicando.
+
+                FORMAS DE CONVALIDAÇÃO                                       HIPÓTESES DE NÃO DESFAZIMENTO
+        Celso Antônio      José dos Santos Carvalho
+                                                                              Maria Sylvia Zanella Di Pietro
+      Bandeira de Mello              Filho
+    Ratificação: ato da própria   Ratificação: ato da própria
+    autoridade que praticou o     autoridade     ou   superior        Convalidação (ou saneamento): é suprido o
+    ato;                          hierárquico;                        vício existente em um ato, com efeitos
+                                                                      retroativos;
+    Confirmação: ato de outra     Reforma: novo ato suprime
+    autoridade     (autoridade    trecho viciado/inválido de ato      Conversão: substituição do ato viciado por
+    superior, via de regra);      anterior, mantendo a parte          outro, de outra categoria, com efeitos
+                                  válida;                             retroativos (não se confunde com convalidação,
+    Saneamento:      ato    do                                        para a autora);
+    próprio particular afetado    Conversão: novo ato substitui
+    pelo fato.                    a parte inválida do ato
+
+9
+    STJ - REsp 719.548/PR, REsp 663.889/DF etc.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                      27
+           www.estrategiaconcursos.com.br                                                                         42
+
+                                        
+
+
+---
+
+Tulio Lages
+Aula 05
+
+                             anterior, além de manter a          Confirmação: a administração renuncia ao
+                             parte válida.                       poder de anular o ato ilegal (também não se
+                                                                 confunde com convalidação, para a autora).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   28
+      www.estrategiaconcursos.com.br                                                                      42
+
+                                   
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+                                                                     APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o histórico de questões da banca em provas
+de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Atos Administrativos”, o tópico “Desfazimento” é o ponto que acreditamos ser o que possui mais chances de ser cobrado
+pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+                                                        ==219a34==
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                       29
+        www.estrategiaconcursos.com.br                                                                                                                          42
+
+                                                                     
+
+
+---
+
+Tulio Lages
+Aula 05
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              30
+      www.estrategiaconcursos.com.br                                                                 42
+
+                                                                
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o
+conteúdo por meio de uma bateria extensa de questões, mas que você faça uma boa revisão global do
+assunto a partir de, relativamente, poucas questões.
+
+1. (FGV/2024/TCE-PA/Auditor de Controle Externo - Administrativa - Gestão Governamental) No âmbito
+da autotutela, existem diferentes modalidades de extinção do ato por manifestação de vontade da
+Administração, entre as quais encontram-se as seguintes situações:
+
+I. Extinção do ato administrativo discricionário, apenas pelo fato de que a situação nele contemplada não
+é mais admitida pela legislação.
+
+II. Extinção do ato administrativo em razão de ilegalidade superveniente atribuída ao respectivo
+beneficiário.
+
+III. Extinção do ato administrativo em decorrência do reconhecimento de um vício grave e insanável.
+
+As situações I, II e III referem-se, respectivamente, a extinções por
+
+a) caducidade, cassação e anulação.
+
+b) revogação, anulação e caducidade.
+
+c) anulação, cassação e revogação.
+
+d) revogação, cassação e anulação.
+
+e) caducidade, revogação e cassação.
+
+Comentários
+
+Situação I - Temos aqui a extinção por caducidade, que ocorre quando há superveniência de norma jurídica
+que torna ilegal um ato praticado anteriormente, porque passa a contrariar a nova legislação. O ato, assim,
+é extinto.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               31
+        www.estrategiaconcursos.com.br                                                                  42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Situação II - Essa extinção é a denominada cassação, que ocorre quando seu beneficiário deixa de cumprir
+os requisitos para continuar beneficiando-se dos efeitos do ato (ex: cassação de licença para dirigir ou para
+construir, quando seu titular deixa de atender aos requisitos previstos na lei para manter o seu direito).
+
+Situação III - Por fim, temos aqui a extinção por anulação, que opera sobre atos ilegais, ilegítimos,
+inválidos. Se o vício do ato for insanável, o administrador é obrigado a proceder à sua anulação, enquanto
+se o vício for sanável, o administrador pode optar entre anular o ato ou convalidá-lo.
+
+Assim, a sequência correta é caducidade, cassação e anulação, sendo a letra A o gabarito.
+
+Gabarito: Letra A.
+
+2. (FGV/2023/TJ-RN/Analista Judiciário) João, agente público de direito, editou um ato administrativo
+sancionatório, punindo um subordinado que violou o regime jurídico administrativo, após a observância
+do contraditório e da ampla defesa, consectários do devido processo legal.
+
+Nesse cenário, considerando os elementos do ato administrativo e as disposições da Lei nº 9.784/1999, é
+correto afirmar que:
+
+a) o motivo e a motivação são elementos dos atos administrativos, ao lado da competência, da forma, da
+finalidade e do objeto. O motivo diz respeito às situações de fato ou de direito que justificam a edição do
+ato administrativo. A motivação, por outro lado, é a exteriorização dos motivos, exigível no caso concreto,
+em razão da natureza sancionatória do ato administrativo;
+
+b) o motivo e a motivação são elementos dos atos administrativos, ao lado da competência, da forma, da
+finalidade e do objeto. A motivação diz respeito às situações de fato ou de direito que justificam a edição
+do ato administrativo. O motivo, por outro lado, é a exteriorização da motivação, exigível no caso concreto,
+em razão da natureza sancionatória do ato administrativo;
+
+c) o motivo e a motivação são elementos dos atos administrativos, ao lado da competência, da forma, da
+finalidade e do objeto. A motivação diz respeito às situações de fato ou de direito que justificam a edição
+do ato administrativo. O motivo, por outro lado, é a exteriorização da motivação, inexigível no caso
+concreto, em razão da ausência de previsão legal;
+
+d) o motivo é elemento dos atos administrativos, ao lado da competência, da forma, da finalidade e do
+objeto. O motivo diz respeito às situações de fato ou de direito que justificam a edição do ato
+administrativo. A motivação, por outro lado, é a exteriorização dos motivos, exigível no caso concreto, em
+razão da natureza sancionatória do ato administrativo;
+
+e) o motivo é elemento dos atos administrativos, ao lado da competência, da forma, da finalidade e do
+objeto. O motivo diz respeito às situações de fato ou de direito que justificam a edição do ato
+administrativo. A motivação, por outro lado, é a exteriorização dos motivos, inexigível no caso concreto,
+em razão da ausência de previsão legal.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 32
+        www.estrategiaconcursos.com.br                                                                    42
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Vamos analisar as alternativas:
+
+Letras A, B e C - incorretas. Os elementos do ato administrativo são COMpetência, FInalidade, FORma,
+Motivo e OBjeto (“COMFIFORMOB”). Vejam que a motivação não faz parte dos elementos, o que torna as
+alternativas A, B e C em incorretas.
+
+Letra D - correta. A alternativa está correta, já que motivo é a causa do ato administrativo,
+consubstanciada nas razões, nas situações ou nos pressupostos de fato e de direito que dão embasamento
+à sua prática, enquanto a motivação é a exposição, a exteriorização dos motivos, ou seja, é a
+demonstração, por escrito, do que levou a Administração a produzir determinado ato administrativo,
+sendo parte integrante da forma do ato administrativo.
+
+Letra E - incorreta. A motivação, a rigor, somente será obrigatória quando a lei assim o exigir, porém a
+doutrina e a boa prática administrativa defendam que sempre seja aplicável, o que torna a alternativa
+incorreta.
+
+Gabarito: Letra D.
+
+3. (FGV/2023/Prefeitura do Rio de Janeiro/Analista de Planejamento e Orçamento) Sociedade Incrível
+pleiteou um ato administrativo vinculado perante o órgão público competente, o qual foi indeferido, sob
+o fundamento de que não foram preenchidos os requisitos necessários, tal como se observa do
+respectivo banco de dados no sistema eletrônico de tal órgão.
+
+Em razão disso, a mencionada sociedade ajuizou ação com vistas a obter o reconhecimento do direito
+subjetivo ao ato administrativo em questão, sob o fundamento de que há equívoco no mencionado
+banco de dados, no qual pleiteou a tutela provisória, que foi negada pelo juízo.
+
+Diante dessa situação hipotética, o atributo do ato administrativo que respalda a decisão que negou o
+pedido de tutela provisória é o da:
+
+a) imperatividade;
+
+b) autoexecutoriedade;
+
+c) consensualidade;
+
+d) heteroexecutoriedade;
+
+e) presunção de veracidade.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            33
+        www.estrategiaconcursos.com.br                                                               42
+
+                                     
+
+
+---
+
+    Tulio Lages
+    Aula 05
+
+Letra A - incorreta. A imperatividade informa que o ato deve ser observado pelo administrado
+independentemente da sua concordância, ou seja, os efeitos do ato são impostos ao administrado de
+forma unilateral por parte da administração.
+
+Letra B - incorreta. A autoexecutoriedade está ligada ao fato de os atos administrativos poderem ser
+executados pela própria Administração, sem a necessidade de autorização prévia do Poder Judiciário.
+
+Letra C - incorreta. A consensualidade não é um atributo dos atos administrativos.
+
+Letra D - incorreta. Segundo BINEBOJIM1:
+
+       “diz-se haver heteroexecutoriedade quando o ato administrativo, embora imperativo e exigível,
+       depende do concurso do Poder Judiciário para fazer-se- cumprir no mundo dos fatos”
+
+Letra E - correta. Esse é o gabarito, já que a presunção de veracidade impõe que devem ser consideradom
+                                                          ==219a34==
+
+verdadeiro os fatos declarados pela administração para fundamentar a prática do ato administrativo, até
+que se prove o contrário.
+
+Gabarito: Letra E.
+
+4. (FGV/2025/PM-TO/Cadete) Os atos administrativos podem apresentar vícios, sendo certo que, a
+depender dos elementos do ato sobre os quais recaiam, tais vícios podem ser considerados vícios
+sanáveis (passíveis de convalidação) ou vícios insanáveis.
+
+Os elementos do ato administrativo apresentam vícios considerados insanáveis:
+
+a) competência e forma, caso o ato seja discricionário.
+
+b) forma e finalidade, na hipótese de ato discricionário.
+
+c) objeto e competência, exclusivamente para os atos vinculados.
+
+d) finalidade e motivo, tanto para os atos vinculados quanto para os discricionários.
+
+e) motivo e competência, apenas em relação aos atos vinculados.
+
+Comentários
+
+1
+  BINENBOJM, Gustavo. Poder de polícia, ordenação, regulação: transformações político jurídicas,
+econômicas e institucionais do Direito Administrativo ordenador. Belo Horizonte: Fórum, 2020. – Pág.
+115
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            34
+          www.estrategiaconcursos.com.br                                                               42
+
+                                       
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+Quando a questão fala de vícios insanáveis ela se refere aos vícios não passíveis de convalidação, que são
+aqueles ligados aos elementos do ato administrativo motivo e finalidade, não importando se o ato é
+vinculado ou discricionário.
+
+Já entre os vícios sanáveis temos:
+
+   a) vício de competência relativa à pessoa (não à matéria, portanto), desde que não se trate de
+   competência exclusiva;
+
+   b) vício de forma, exceto se esta for considerada essencial pela lei;
+
+   c) vício de objeto, desde que seja caso de conteúdo plúrimo (que contém mais de uma providência
+   administrativa), aproveitando-se as providências não atingidas por nenhum vício – ou seja, trata-se de
+   uma convalidação parcial.
+
+Dessa forma, veja que a alternativa correta é a letra D. As demais alternativas estão erradas, pois a regra da
+convalidação se aplica tanto aos atos discricionários quanto os vinculados.
+
+Gabarito: Letra D
+
+5. (FGV/2025/PGM-RJ/Analista de Procuradoria - Administrativa) Relacione os conceitos de atos
+administrativos a seguir com suas respectivas definições ou características principais.
+
+(__) Anulação
+
+(__) Revogação
+
+(__) Convalidação
+
+(__) Presunção de legitimidade
+
+1. Atributo do ato administrativo que assume sua validade até prova em contrário, permitindo execução
+imediata sem contestação inicial.
+
+2. Extinção do ato por motivo de vício de legalidade, com efeitos retroativos (ex tunc) à data de sua
+edição.
+
+3. Extinção do ato válido por motivo de conveniência ou oportunidade da administração, com efeitos
+não retroativos (ex nunc).
+
+4. Sanação de vício sanável no ato, tornando-o válido retroativamente desde sua origem, quando não
+lesar interesse público ou terceiros.
+
+A relação correta, na ordem apresentada, é:
+
+a) 2 – 3 – 4 – 1.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 35
+         www.estrategiaconcursos.com.br                                                                    42
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+b) 2 – 4 – 1 – 3.
+
+c) 1 – 2 – 3 – 4.
+
+d) 4 – 1 – 2 – 3.
+
+e) 3 – 4 – 2 – 1.
+
+Comentários
+
+O item 1 se refere ao atributo denominado presunção de legitimidade, pelo qual se presume
+que os atos administrativos foram emitidos com observância da lei (ou seja, são considerados
+legais e legítimos), produzindo efeitos imediatamente, ainda que eivados de vícios ou defeitos
+aparentes, até sua eventual anulação pela Administração ou pelo Judiciário.
+
+O item 2 é a forma de extinção denominada anulação, a qual opera sobre atos ilegais, ilegítimos, inválidos,
+produzindo efeitos retroativos à data do ato (ex tunc).
+
+O item 3 se refere à forma de extinção do ato administrativo denominada revogação, a qual opera sobre
+atos discricionários válidos, por razões de conveniência e oportunidade, sendo que produz efeitos
+prospectivos (para frente ou ex nunc).
+
+O item 4 se refere à convalidação, que é a faculdade de a Administração corrigir e regularizar os vícios
+sanáveis dos atos administrativos, produzindo efeitos ex tunc, a fim de preservar e tornar válidos os efeitos
+já produzidos pelo ato enquanto ainda eivado de vícios.
+
+Assim, a sequência correta é 2-3-4-1, letra A.
+
+Gabarito: Letra A
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                36
+         www.estrategiaconcursos.com.br                                                                   42
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 05
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+Perguntas
+
+1) Qual o conceito de ato administrativo?
+2) O que é fato administrativo?
+3) Quais os atributos dos atos administrativos?
+4) Em quais espécies de atos administrativos está presente a presunção de legitimidade? E a
+tipicidade?
+5) A imperatividade está presente em todos os atos administrativos?
+6) Quais os elementos essenciais dos atos administrativos?
+7) O que é o elemento da competência?
+8) A delegação pode ser realizada mesmo a órgãos ou agentes não subordinados? E a avocação?
+9) Havendo relação de hierarquia, a avocação de competência sempre será possível?
+10) Qual a diferença entre a finalidade e o objeto do ato administrativo?
+11) O que preceitua o princípio do formalismo moderado?
+12) A forma é um elemento vinculado ou discricionário do ato administrativo?
+13) A motivação (exposição, por escrito, dos motivos que levaram à prática do ato) integra qual
+elemento do ato administrativo?
+14) Além dessas hipóteses estabelecidas na Lei 9.784/1999, a CF/88 também estabeleceu uma
+hipótese de motivação obrigatória. Qual seria esta hipótese?
+15) O que se entende por "função de fato"?
+16) Qual a diferença do desvio de poder para o excesso de poder?
+17) Quais são os elementos acidentais dos atos administrativos?
+18) É possível o controle de atos administrativos discricionários pelo Judiciário?
+19) Diferencie atos abstratos de atos concretos.
+20. O que é um ato inválido e eficaz?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                     37
+         www.estrategiaconcursos.com.br                                                                        42
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 05
+
+Perguntas com respostas
+
+1) Qual o conceito de ato administrativo?
+
+De acordo com Maria Sylvia Di Pietro: “declaração do Estado ou de quem o represente, que
+produz efeitos jurídicos imediatos, com observância da lei, sob o regime jurídico de Direito Público
+e sujeita a controle pelo Poder Judiciário”1.
+
+De acordo com José dos Santos Carvalho Filho: “a exteriorização da vontade de agentes da
+Administração Pública ou de seus delegatários, nessa condição, que, sob regime de direito
+público, vise à produção de efeitos jurídicos, com o fim de atender ao interesse público”2.
+
+2) O que é fato administrativo?
+
+É um fato jurídico que produz efeitos sobre a Administração Pública, mesmo que não envolva a
+participação de agentes públicos.
+
+Esses efeitos gerados sobre a Administração podem ser jurídicos ou não. Quando não produzem
+efeitos jurídicos sobre a Administração, os fatos administrativos são também chamados de fato da
+Administração.
+
+3) Quais os atributos dos atos administrativos?
+
+Importante lembrar do mnemônico “PATI”: Presunção de legitimidade, Autoexecutoriedade,
+Tipicidade e Imperatividade.
+
+4) Em quais espécies de atos administrativos está presente a presunção de legitimidade? E a
+tipicidade?
+Tanto a presunção de legitimidade quanto a tipicidade se fazem presentes em todos os atos
+administrativos (e, portanto, em todas as suas espécies).
+5) A imperatividade está presente em todos os atos administrativos?
+
+Não. A imperatividade está presente somente nos atos que impõem obrigações ou restrições.
+
+6) Quais os elementos essenciais dos atos administrativos?
+
+São eles a competência, finalidade, forma, motivo e objeto. Lembrar do mnemônico
+“COMFIFORMOB” (COMpetência, FInalidade, FORma, Motivo e OBjeto).
+
+1
+    Di Pietro, 2016, p. 239.
+2
+    Carvalho Filho, 2017, p. 105.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     38
+           www.estrategiaconcursos.com.br                                                        42
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 05
+
+7) O que é o elemento da competência?
+
+Competência é o poder atribuído ao agente para a prática do ato dizendo respeito, assim, ao
+sujeito que, segundo expresso na norma, é o responsável por praticar determinado ato.
+
+Decorre de norma expressa (não há presunção de competência administrativa), normalmente da
+lei, embora determinados agentes retirem sua competência diretamente da Constituição (como o
+Presidente da República) ou de normas administrativas infralegais (como um Regimento Interno).
+
+8) A delegação pode ser realizada mesmo a órgãos ou agentes não subordinados? E a avocação?
+
+Sim, embora o mais comum é que a delegação ocorra quando há relação de hierarquia. Por outro
+lado, a avocação só é possível na existência de relação de hierarquia.
+
+9) Havendo relação de hierarquia, a avocação de competência sempre será possível?
+                                                         ==219a34==
+
+Não, a avocação não será possível quando se tratar de competência exclusiva do subordinado.
+
+10) Qual a diferença entre a finalidade e o objeto do ato administrativo?
+
+O objeto é o efeito jurídico imediato que o ato produz, sua finalidade específica, seu conteúdo,
+seu resultado prático, que será variável: aquisição, transformação ou extinção de direitos.
+
+Por sua vez, a finalidade é o efeito geral ou mediato (no futuro) do ato, que será sempre o mesmo
+(expresso ou implicitamente estabelecido na lei): a satisfação do interesse público.
+
+11) O que preceitua o princípio do formalismo moderado?
+
+Preceitua que, para a prática de qualquer ato administrativo, devem ser exigidas tão somente as
+formalidades estritamente essenciais, desprezando-se procedimentos meramente protelatórios, o
+que se coaduna com o art. 22 da Lei 9.784/1999, que dispõe que “os atos do processo
+administrativo não dependem de forma determinada senão quando a lei expressamente a exigir”.
+
+12) A forma é um elemento vinculado ou discricionário do ato administrativo?
+
+Vinculado, porque deve ser exteriorizado na forma que a lei exigir. Somente no caso de a lei não
+exigir essa forma determinada é que a Administração poderá praticar o ato com a forma que lhe
+parecer mais adequada.
+
+13) A motivação (exposição, por escrito, dos motivos que levaram à prática do ato) integra qual
+elemento do ato administrativo?
+Integra a forma do ato administrativo.
+14) Além dessas hipóteses estabelecidas na Lei 9.784/1999, a CF/88 também estabeleceu uma
+hipótese de motivação obrigatória. Qual seria esta hipótese?
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    39
+         www.estrategiaconcursos.com.br                                                       42
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 05
+
+A seguinte hipótese de motivação obrigatória encontra-se na CF/88:
+
+      Art. 93, X - as decisões administrativas dos tribunais serão motivadas e em sessão
+      pública, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus
+      membros;
+
+15) O que se entende por "função de fato"?
+É a situação na qual o agente foi investido no cargo, emprego ou função, mas há alguma
+ilegalidade em sua investidura ou algum impedimento legal para a prática do ato. Nesse caso, os
+efeitos do ato são considerados válidos, em razão da "teoria da aparência".
+16) Qual a diferença do desvio de poder para o excesso de poder?
+
+Desvio de poder (ou desvio de finalidade) é a prática de ato visando fim diverso do previsto,
+mesmo que implicitamente, na lei (ex: remoção de servidor público com o objetivo de puni-lo).
+Trata-se de vício de finalidade do ato.
+
+O excesso de poder ocorre quando o agente excede os limites da sua competência para praticar
+determinado ato (ex: demissão de servidor aplicada por Ministro de Estado, quando a lei lhe
+permitia aplicar apenas a penalidade de suspensão, devendo a penalidade de demissão ser
+aplicada exclusivamente pelo Presidente da República).
+
+17) Quais são os elementos acidentais dos atos administrativos?
+
+São o Termo, Encargo e a Condição. Lembrar do mnemônico “ECT” (Encardo, Condição e Termo).
+
+18) É possível o controle de atos administrativos discricionários pelo Judiciário?
+
+Sim, mas nunca do mérito do ato: somente da legalidade ou legitimidade do ato, resultando na
+sua anulação em caso de vício em seus elementos.
+
+19) Diferencie atos abstratos de atos concretos.
+Enquanto os atos abstratos disciplinam situações aplicáveis a um número indeterminado de casos,
+sendo atos gerais (normativos), os atos concretos, por sua vez, tratam de um caso específico,
+sendo atos individuais.
+20. O que é um ato inválido e eficaz?
+
+É um ato desconforme às exigências legais, mas, mesmo assim, produzindo efeitos.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   40
+         www.estrategiaconcursos.com.br                                                      42
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 05
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+                                                        ==219a34==
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            41
+        www.estrategiaconcursos.com.br                                                               42
+
+                                     
+
+
+---
+
+---

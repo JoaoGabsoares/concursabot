@@ -1,0 +1,807 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 14_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: TECNOLOGIA DA
+---
+
+# TECNOLOGIA DA
+
+---
+
+---
+
+TECNOLOGIA DA
+ INFORMAÇÃO
+                             Profa. Emannuelle Gouveia
+                             @Emannuellegouveia
+
+
+  
+
+
+---
+
+BIG DATA E CIÊNCIA DE
+       DADOS
+
+                              Prof. Emannuelle Gouveia
+                              @Emannuelle Gouveia
+
+
+       
+
+
+---
+
+Importância da Informação
+    Com grandes quantidades de dados agora disponíveis, as
+ empresas em quase todos os setores estão focadas em
+ explorar os dados para obter vantagem competitiva.
+    O volume e a variedade de dados ultrapassaram em
+ muito a capacidade da análise manual e, em alguns casos,
+ excederam inclusive a capacidade dos bancos de dados
+ convencionais.
+    Ao mesmo tempo, tivemos diversas outras evoluções
+ tecnológicas. Os computadores tornaram-se muito mais
+ poderosos, as redes de computadores hoje em dia são
+ onipresentes em quase todo globo terrestre e foram
+ desenvolvidos algoritmos que podem conectar conjuntos de
+ dados a fim de permitir análises mais amplas e abrangentes
+Informática
+
+ do que era possível anteriormente.
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia      
+
+
+---
+
+Importância da Informação
+     A convergência desses fenômenos deu origem à aplicação
+ comercial cada vez mais difundida da ciência de dados.
+     No entanto, há confusão sobre o que exatamente é
+ ciência de dados dado que ela está intrinsecamente
+ entrelaçada com outros conceitos importantes como Big
+ Data, Data Analytics, etc.
+     Falando de uma perspectiva de alto nível, a ciência de
+ dados é um conjunto de princípios fundamentais que apoiam
+ e orientam a extração de informações e conhecimento dos
+ dados. Trata-se de um conceito bastante relacionado também
+ à mineração de dados, isto é, a extração real de
+ conhecimento por meio de tecnologias que incorporam esses
+ princípios. Esses princípios e técnicas são amplamente
+Informática
+
+ aplicados em todas as áreas
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                  funcionais dos negócios.
+                         
+
+
+---
+
+Importância da Informação
+     A ciência de dados atualmente é aplicada em diversos
+ setores, como marketing, publicidade, gerenciamento de
+ relacionamento com clientes, setor financeiro, detecção de
+ fraude, entre outros.
+     A ciência de dados envolve princípios, processos e
+ técnicas para entender fenômenos por meio da análise
+ (automatizada) de dados, sendo seu objetivo primordial a
+ melhoria da tomada de decisão.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Importância da Informação
+     Nesse contexto, temos o Data-Driven Decision (DDD), isto
+ é, a prática de basear decisões na análise de dados, e não
+ apenas na intuição para tomada de decisões de negócio.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Importância da Informação
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+     De acordo com o livro Data Science for Business de Foster
+ Provost & Tom Fawcett, há muita sobreposição entre os
+ termos “Ciência de Dados” e “Big Data”.
+     Big Data refere-se a várias tendências no armazenamento
+ e processamento de dados, que têm colocado novos desafios,
+ proporcionado novas oportunidades e exigido novas soluções.
+     Frequentemente, esses problemas de Big Data exigiam
+ um nível de especialização em engenharia de software que
+ estatísticos e analistas de dados normais não conseguiam
+ lidar.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+ Ciência de Dados
+
+    A ciência de dados refere-se ao gerenciamento científico
+ de dados e processos relacionados a dados, técnicas e
+ habilidades usadas para derivar informações, descobertas e
+ conhecimento viáveis dos dados pertencentes a vários
+ campos.
+    Lida com coleta, extração, limpeza, manipulação,
+ enumeração, tabulação, combinação, exame, interpretação,
+ simulação, visualização e outros processos aplicados aos
+ dados e por isso envolve conhecimentos interdisciplinares e
+ tem aplicação nos mais diversos ramos de negócios.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+     Em termos simples, a ciência de dados é um termo
+ abrangente para ferramentas e métodos para obter
+ informações perspicazes dos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+ Big Data
+
+     Big Data é frequentemente denominado como dados de
+ alto volume, alta variedade e alta velocidade que exigem
+ formas inovadoras e econômicas de processamento de
+ informações permitindo uma visão aprimorada para a tomada
+ de decisões e automação de processos a partir dos
+ importantes insights derivados dele.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+    Data Analytics
+
+        A Análise de Dados é a aplicação de técnicas e métodos
+    de algoritmos ou linguagens de programação ao Big Data ou
+    subconjuntos do Big Data para chegar a conclusões úteis e
+    pertinentes a partir deles. Dessa forma, quando alguém usa a
+    parte analítica da Ciência de Dados em Big Data (ou em
+    dados     brutos)    para   obter   insights e   informações
+    significativas, isso é chamado de Data Analytics (ou Análise
+    de Dados).
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+     Podemos dizer que Big Data é a fonte de uma infinidade
+ de dados e a ciência de dados é a ferramenta que permite
+ tratar e analisar dados.
+     Enquanto Big Data dá suporte à coleta e gerenciamento
+ de dados, a Ciência de Dados aplica técnicas a esses dados
+ para descobrir conhecimento novo e útil: Big Data coleta e
+ Ciência de Dados descobre.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+     Concluímos, então, que Big Data está mais relacionado à
+ tecnologia e infraestrutura necessárias para armazenar e
+ processar gigantescas quantidades de dados fornecendo um
+ ambiente computacional não apenas para análise como
+ também para outros tipos de tarefas de processamento; Data
+ Science, por sua vez, está mais relacionada à criação de
+ modelos capazes de extrair padrões de dados complexos e o
+ seu uso em problemas da vida real e Data Analytics envolve
+ a interpretação de dados para extrair insights interessantes e
+ significativos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Disciplinas
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+    Toda vez que falamos de ciclo de vida na área de
+ tecnologia da informação, temos um problema: cada autor
+ decide criar o seu próprio ciclo.
+
+    Vamos ver o ciclo de vida dos dados e depois veremos
+ algumas abordagens de ciclo de vida do processo de ciência
+ de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+     O ciclo de vida dos dados é bem documentado por
+ Ricardo César Gonçalves Sant’Ana, dividindo as fases em
+ coleta, armazenamento, recuperação e descarte:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+      Coleta é a fase de obtenção dos dados que podem ser
+ utilizados para atender necessidades em um determinado
+ contexto;
+      Armazenamento é a fase de persistência dos dados em
+ uma base de dados;
+      Recuperação é a fase que trata do acesso e uso dos
+ dados; e o descarte é a fase em que ocorre a eliminação dos
+ dados.
+      Todas essas fases são permeadas por fatores como
+ privacidade,    integração,  qualidade,  direitos  autorais,
+ disseminação e preservação:
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+   Agora vamos ver algumas versões do processo do ciclo de
+  vida de ciência de dados.
+     Uma primeira versão divide o ciclo de vida da seguinte
+  forma:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+     A Microsoft também criou seu próprio ciclo de vida para
+ projetos de ciência de dados que devem ser fornecidos como
+ parte de aplicações inteligentes. Essas aplicações implantam
+ modelos de aprendizado de máquina ou de inteligência
+ artificial para análise preditiva.
+     Esse ciclo de vida é composto por cinco estágios
+ executados de forma iterativa: entendimento do negócio;
+ aquisição      e   compreensão     de  dados;    modelagem;
+ implantação; e aceitação do cliente e é modelado como uma
+ sequência de etapas iteradas que fornecem diretrizes sobre
+ as tarefas necessárias para usar os modelos preditivos.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+    Há diversas outras classificações:
+ uma que divide os estágios do ciclo de vida em: requisitos de
+ negócio, aquisição de dados, processamento de dados e
+ modelagem;
+  outra versão que divide em: compreensão dos problemas de
+ negócio, coleta de dados, processamento e limpeza de dados,
+ análise exploratória de dados, construção e avaliação do
+ modelo, comunicação do resultado do modelo.
+ uma outra versão faz uma divisão um pouco maior:
+ compreensão do negócio, mineração de dados, limpeza dos
+ dados, exploração dos dados, engenharia de features,
+ modelagem preditiva e visualização de dados.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Ciclo de Vida do Processo de Ciência de
+Dados
+  A última versão que vamos apresentar é exibida na
+imagem seguinte e contempla as etapas de coleta, limpeza,
+análise exploratória de dados, construção do modelo e
+implantação do modelo
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+     Os projetos de Ciência de Dados e Big Data envolvem
+ assuntos transversais que vão desde a estrutura de TI até o
+ conhecimento do negócio e gestão, sendo projetos
+ cooperativos vitais.
+     Nessas equipes, entre os domínios de conhecimento, os
+ profissionais se dividem em dois grandes perfis ou pilares:
+ administrativos (ou de negócios) e técnicos (ou de tecnologia
+ da informação)
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+Papeis Administrativos
+
+    Os papéis administrativos (ou de negócios) são aqueles
+mais direcionados para o negócio da empresa e o mercado no
+qual ela está inserida.
+a) Usuário Solicitante: O usuário solicitante é o profissional
+mais interessado no produto final, isto é, nas análises,
+respostas obtidas ou até mesmo novas funcionalidades para
+o sistema de informação empresarial.
+    Ele fazer solicitações diretamente à equipe ou poderá
+passar inicialmente para um analista de negócio, responsável
+por entender melhor a solicitação.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+        São de sua responsabilidade:
+
+ • A descrição precisa da sua necessidade e de como
+   inicialmente propõem supri-las;
+ • O acompanhamento da realização do projeto;
+ • A remoção dos impedimentos quanto à usabilidade do
+   produto final;
+ • A validação de uso nas principais etapas que ocorrerem no
+   decorrer do projeto;
+ • A validação de uso final e conclusão da solicitação de
+   projeto.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+ b) Analista de Negócios: O analista de negócios é o
+ profissional que faz a ponte entre o usuário solicitante e a
+ equipe de Ciência de Dados e Big Data, servindo como
+ intermediário entre ambos, geralmente é alguém que tem
+ noção da regra de negócio e de TI.
+     Identifica novos negócios, tendências e oportunidades, e
+ pode repensar e relançar produtos já existentes ou propor o
+ lançamento de novos produtos e serviços, assim como pode
+ se adequar ao perfil de usuário solicitante, partindo dele a
+ necessidade de um produto orientado a dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+ O analista de negócios deve:
+
+ • Dominar o negócio da empresa;
+ • Conhecer os produtos e serviços tanto da própria empresa
+   quanto da concorrência;
+ • Encontrar oportunidades de negócio e sugerir produtos e
+   serviços que atendam a elas;
+ • Ser um facilitador entre as áreas de negócios e de TI;
+ • Remover impedimentos e mediar conflitos;
+ • Zelar pelo bom andamento dos projetos.
+ •
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+  c) Gerente de Projetos: O gerente de projetos é o profissional
+  que garante o bom andamento do projeto como um todo,
+  mas não se envolve com o teor do projeto em si ou se o
+  produto final realmente tem um significado para o negócio,
+  apenas deve garantir que o projeto tenha um ciclo de vida e
+  que obedeça dentro do possível o escopo, tempo e custo
+  acordados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+        São suas responsabilidades:
+
+ •    Liderar a equipe para um objetivo em comum;
+ •    Definir o escopo do projeto;
+ •    Definir o cronograma e garantir que ele seja cumprido;
+ •    Identificar os obstáculos e deliberar soluções;
+ •    Avaliar riscos e mitigá-los;
+ •    Negociar conflitos entre as partes interessadas;
+ •    Documentar o projeto quanto à sua construção e fazer
+      saber aos demais.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+        Papeis Técnicos
+
+     Os papéis técnicos (ou de tecnologia da informação) são
+ voltados para sistemas de informação e computação, a
+ construção e a manutenção de produtos e serviços ligados à
+ tecnologia, seja para uso do cliente final ou para uso interno
+ das áreas de negócio. Eles precisam dos papeis
+ administrativos para intermediarem os projetos, de modo a
+ melhor entenderem as necessidades de negócios da empresa
+ e concluírem os projetos com êxito e qualidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+ a) Administrador de Banco de Dados: são os profissionais
+ responsáveis por criar e manter bancos de dados.
+     Suas principais atividades são:
+ • Manutenção do servidor físico do banco de dados;
+ • Recuperação de desastres;
+ • Melhoria no desempenho de consultas ao banco de dados
+    feito por aplicações da empresa;
+ • Controle de acesso aos dados;
+ • Criação de objetos (tabelas, funções, procedimentos,
+    visualizações, etc.) no banco de dados;
+ • Uso dos dados da empresa para alimentar os processos de
+    negócios.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+ b) Engenheiro de Dados:
+      Assim como os cientistas de dados, os engenheiros de
+ dados são profissionais novos no mercado de trabalho, e
+ extremamente valiosos para uma equipe orientada a dados.
+     Els cuidam de todos os processos, desde a captura e o
+ armazenamento dos dados (geralmente sistemas NoSQL) até
+ a entrega para uso dos cientistas de dados ou até mesmo
+ dados processados para a área de negócios, sendo capazes
+ de lidar com o grande volume, velocidade, variedade,
+ veracidade e valor dos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+    São algumas responsabilidades dos engenheiros de
+ dados:
+ • Criar/manter sistemas de captura/armazenamento de
+   dados sob demanda, batch ou streaming;
+ • Cuidar do inventário dos dados brutos;
+ • Cuidar da catalogação e manter metadados de todos os
+   dados;
+ • Fazer a classificação dos dados quanto ao seu teor e
+   sensibilidade frente aos diversos acessos;
+ • Fazer o versionamento e definir o ciclo de vida dos dados e
+   o seu tempo de vida;
+ • Garantir a confiabilidade dos dados;
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+ c) Cientista de Dados: é peça fundamental em um projeto
+ orientado a dados, tendo a missão de extrair conhecimento
+ dos dados da empresa, geralmente preparados e entregues
+ pelo engenheiro de dados, a fim de agregar valor ao negócio.
+     É desejável que ele tenha um perfil curioso e investigativo
+ que manipula os dados à procura de correlações e
+ explicações para determinadas necessidades de negócio.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+    Trata-se de um profissional multidisciplinar por natureza
+ que utiliza programação e outros conhecimentos de
+ computação para manipular dados; detém conhecimento
+ matemático e estatístico para validar as análises feitas nos
+ dados; e possui razoável expertise do negócio da empresa e
+ do mercado onde ela está inserida para saber fazer as
+ perguntas corretas e como respondê-las com os dados.
+    Deve dominar técnicas de aprendizado de máquina para
+ fazer predições com base em dados do passado.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+     Em projetos orientados a dados, cientistas de dados
+ geralmente coletam dados históricos de uma área da
+ empresa (como logística ou departamento financeiro) e
+ aplicam conhecimentos estatísticos e de aprendizado de
+ máquina em busca de correlações nos dados do passado, que
+ possam ser confiáveis a ponto de conseguirem predizer o
+ futuro.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+
+     O cientista de dados deve saber reportar descobertas e
+ análises aos tomadores de decisão, sabendo pontuar: de
+ onde são os dados; em qual contexto aqueles dados estão
+ inseridos; quais perguntas pretendem responder; quais as
+ respostas propostas; e qual nível de confiança têm as suas
+ análises e respostas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Principais Papeis
+         Ele é responsável por:
+  •     Coletar os dados corretos para determinado problema de
+        negócio;
+  •     Manipular os dados de modo a entender as suas
+        características e particularidades;
+  •     Aplicar    conhecimento                estatístico       para encontrar
+        correlações/informações interessantes;
+  •     Testar hipóteses de profissionais de negócio ou aquelas
+        concebidas pelo próprio profissional;
+  •     Garantir um nível de confiabilidade nas análises feitas;
+  •     Buscar padrões em dados passados a fim de treinar a
+        máquina para predição de eventos futuros;
+  •     Reportar descobertas, conclusões e valor agregado ao
+Informática
+        negócio adquiridos com
+Profa: Emannuell Gouveia
+@Emannuelle Gouveia
+                                        todo o processo.
+                              
+
+
+---
+
+OBRIGADA
+                               Prof. Emannuelle Gouveia
+                               @emannuellegouveia
+
+
+   
+
+
+---
+
+---

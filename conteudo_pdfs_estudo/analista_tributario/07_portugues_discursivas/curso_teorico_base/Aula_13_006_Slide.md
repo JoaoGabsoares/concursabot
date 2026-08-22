@@ -1,0 +1,345 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 13_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: QUESTÕES DE CONCURSO
+---
+
+# QUESTÕES DE CONCURSO
+
+QUESTÕES DE CONCURSO
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+VUNESP
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+VUNESP - 2025 - SEDUC-SP - Professor de Educação Básica
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP - 2025 - SEDUC-SP - Professor de Educação Básica
+A relação coesiva estabelecida entre o pronome “Elas” (1º quadro) e “as baratas”
+(2º quadro) é denominada
+
+
+ A) catáfora.
+
+ B) rótulo.
+
+ C) anáfora associativa.
+
+ D) dêixis.
+
+ E) anáfora indireta.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP - 2025 - SEDUC-SP - Professor de Educação Básica
+A relação coesiva estabelecida entre o pronome “Elas” (1º quadro) e “as baratas”
+(2º quadro) é denominada
+
+
+ A) catáfora.
+
+ B) rótulo.
+
+ C) anáfora associativa.
+
+ D) dêixis.
+
+ E) anáfora indireta.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - 2023 - PC-SP - Escrivão
+                          Os gatos podem se manifestar?
+          Um dia, aconteceu isto: um gatito apareceu no nosso quintal. De abuso, ninguém lhe
+ tinha convidado. Pensei em ir atirá-lo no fundo da Ilha, onde há sempre restos dos restaurantes
+ e suficientemente longe de casa para não aprender o caminho de volta. De fome não morreria,
+ se evitasse outras mortes. Mas ele era engraçado, sem medo do cão nem das pessoas. E o cão
+ adotou-o. Ficou, que remédio. Cresceu. Notamos logo a diminuição de ratos no quintal,
+ tentando entrar em casa. Um dia o gato desapareceu, deixando um vazio. Mais tarde uma gata
+ vadia pariu no quintal, entre as plantas. Os gatitos cresceram e deixamos, na esperança de
+ domarmos algum. Até procurávamos seduzi-los com comida, pois eram muito esquivos,
+ medrosos ou desconfiados. Tinham as suas razões para desconfiarem dos humanos.
+ Desapareceram também. É lógico, na vizinhança há quem não goste de gatos, embora haja
+ ratos que chegue. Havia também umas obras e parece que os trabalhadores gostam de atirar
+ ferramentas aos bichos. Pode ser a causa.
+
+                                                                             (Pepetela. Crónicas Maldispostas, 2015. Adaptado)
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+VUNESP - 2023 - PC-SP - Escrivão
+ Identifica-se coesão por catáfora em:
+
+
+ A) Mas ele era engraçado, sem medo do cão nem das pessoas.
+
+
+ B) Os gatitos cresceram e deixamos, na esperança de domarmos algum.
+
+
+ C) Tinham as suas razões para desconfiarem dos humanos.
+
+
+ D) De fome não morreria, se evitasse outras mortes.
+
+
+ E) Um dia, aconteceu isto: um gatito apareceu no nosso quintal.
+
+
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+VUNESP - 2023 - PC-SP - Escrivão
+ Identifica-se coesão por catáfora em:
+
+
+ A) Mas ele era engraçado, sem medo do cão nem das pessoas.
+
+
+ B) Os gatitos cresceram e deixamos, na esperança de domarmos algum.
+
+
+ C) Tinham as suas razões para desconfiarem dos humanos.
+
+
+ D) De fome não morreria, se evitasse outras mortes.
+
+
+ E) Um dia, aconteceu isto: um gatito apareceu no nosso quintal.
+
+
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - 2025 - Prefeitura de Itatiba - SP - Professor de Ensino Básico
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2025 - Prefeitura de Itatiba - SP - Professor de Ensino Básico
+ Nas falas – Eu liguei pra ele a noite passada, Marcie. (1º quadro) – e – Eu pensei que falar com
+ ele pelo telefone fosse ajudar. (3º quadro) –, os termos destacados são classificados, correta e
+ respectivamente, como:
+
+
+ A) dêitico, pronome catafórico e pronome catafórico.
+
+
+ B) pronome anafórico, dêitico e pronome catafórico.
+
+
+ C) pronome catafórico, pronome anafórico e pronome anafórico.
+
+
+ D) dêitico, pronome catafórico e pronome anafórico.
+
+
+ E) pronome anafórico, pronome anafórico e dêitico.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+VUNESP - 2025 - Prefeitura de Itatiba - SP - Professor de Ensino Básico
+ Nas falas – Eu liguei pra ele a noite passada, Marcie. (1º quadro) – e – Eu pensei que falar com
+ ele pelo telefone fosse ajudar. (3º quadro) –, os termos destacados são classificados, correta e
+ respectivamente, como:
+
+
+ A) dêitico, pronome catafórico e pronome catafórico.
+
+
+ B) pronome anafórico, dêitico e pronome catafórico.
+
+
+ C) pronome catafórico, pronome anafórico e pronome anafórico.
+
+
+ D) dêitico, pronome catafórico e pronome anafórico.
+
+
+ E) pronome anafórico, pronome anafórico e dêitico.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - 2025 - TJ-SP - Psicólogo Judiciário
+ 1º PARÁGRAFO
+          Prefiro a prosa ao verso, como modo de arte, por duas razões, das quais a primeira, que
+ é minha, é que não tenho escolha, pois sou incapaz de escrever em verso. A segunda, porém, é
+ de todos, e não é — creio bem — uma sombra ou disfarce da primeira. Vale pois a pena que eu
+ a esfie, porque toca no sentido íntimo de toda a valia da arte.
+
+
+ Na passagem do 1º parágrafo – Vale pois a pena que eu a esfie, porque toca no sentido íntimo
+ de toda a valia da arte. –, o termo destacado mantém relação coesiva com a expressão
+
+
+ A) “a prosa”.
+ B) “a primeira”.
+ C) “uma sombra”.
+ D) “A segunda”.
+ E) “escolha”.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+VUNESP - 2025 - TJ-SP - Psicólogo Judiciário
+ 1º PARÁGRAFO
+          Prefiro a prosa ao verso, como modo de arte, por duas razões, das quais a primeira, que
+ é minha, é que não tenho escolha, pois sou incapaz de escrever em verso. A segunda, porém, é
+ de todos, e não é — creio bem — uma sombra ou disfarce da primeira. Vale pois a pena que eu
+ a esfie, porque toca no sentido íntimo de toda a valia da arte.
+
+
+ Na passagem do 1º parágrafo – Vale pois a pena que eu a esfie, porque toca no sentido íntimo
+ de toda a valia da arte. –, o termo destacado mantém relação coesiva com a expressão
+
+
+ A) “a prosa”.
+ B) “a primeira”.
+ C) “uma sombra”.
+ D) “A segunda”.
+ E) “escolha”.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP - 2025 - Prefeitura de Osasco - SP - Auxiliar em Saúde Bucal
+ 3º PARÁGRAFO
+     Em teoria, o SUS seria um exemplo de cooperação entre o público e o privado para outros
+ serviços públicos do País e para sistemas de saúde de todo o mundo: o Estado recolhe o
+ dinheiro do contribuinte e o repassa a entidades sem fins lucrativos com o alcance e a expertise
+ que ele não tem, garantindo a prestação de serviços de qualidade a todos os cidadãos. Mas
+ como, na prática, os repasses não cobrem os serviços, os hospitais são obrigados a pagá-los.
+
+
+ No trecho do 3° parágrafo “… os hospitais são obrigados a pagá-los”, o pronome destacado
+ retoma:
+ A) fins lucrativos.
+ B) cidadãos.
+ C) repasses.
+ D) serviços.
+ E) Hospitais.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+VUNESP - 2025 - Prefeitura de Osasco - SP - Auxiliar em Saúde Bucal
+ 3º PARÁGRAFO
+     Em teoria, o SUS seria um exemplo de cooperação entre o público e o privado para outros
+ serviços públicos do País e para sistemas de saúde de todo o mundo: o Estado recolhe o
+ dinheiro do contribuinte e o repassa a entidades sem fins lucrativos com o alcance e a expertise
+ que ele não tem, garantindo a prestação de serviços de qualidade a todos os cidadãos. Mas
+ como, na prática, os repasses não cobrem os serviços, os hospitais são obrigados a pagá-los.
+
+
+ No trecho do 3° parágrafo “… os hospitais são obrigados a pagá-los”, o pronome destacado
+ retoma:
+ A) fins lucrativos.
+ B) cidadãos.
+ C) repasses.
+ D) serviços.
+ E) Hospitais.
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---

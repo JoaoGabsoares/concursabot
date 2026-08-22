@@ -1,0 +1,3825 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 06_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Legislação Aduaneira
+artigos_citados:
+- art. 32
+- art. 476
+- art. 480
+- artigo 23
+- artigo 459
+- artigo 463
+- artigo 6º-A
+- artigo 6º-B
+---
+
+# Legislação Aduaneira
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                                         Legislação Aduaneira
+
+                                                         Autor:
+                                     Áulus Dias Warzeé Mattos
+
+                                          08 de Novembro de 2024
+
+---
+
+      Áulus Dias Warzeé Mattos
+      Aula 05
+
+                                                                                     Índice
+1) Regimes Aduaneiros Especiais - Parte II
+
+                Receita Federal (Analista Tributário) Legislação Aduaneira                                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                           73
+
+                                                             
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 05
+
+Sumário
+
+1 - Entreposto Aduaneiro 
+
+   1.1 - Entreposto Aduaneiro na Importação 
+
+      1.1.1 - Disposições gerais 
+
+      1.1.2 - Hipóteses de extinção do regime 
+
+   1.2 - Entreposto Aduaneiro na Exportação 
+
+      1.2.1 - Disposições gerais 
+
+      1.2.2 - Hipóteses de extinção do regime 
+
+   1.3 - Disposições comuns ao entreposto aduaneiro na importação e ao entreposto aduaneiro na
+   exportação 
+
+2 - Regime de Entreposto Industrial sob Controle Aduaneiro Informatizado (RECOF) 
+
+3 - Exportação Temporária 
+
+   3.1 - Conceito e generalidades 
+
+   3.2 - Hipóteses de extinção do regime 
+
+   3.3 - Exportação temporária para aperfeiçoamento passivo 
+
+4 - Loja Franca
+
+   4.1 - Conceito e generalidades 
+
+   4.2 - Restrições às vendas em loja franca 
+
+   4.3 – Tratamento tributário das aquisições em Loja Franca 
+
+   4.4 - Extinção do regime 
+
+5 - Depósito Especial 
+
+   5.1 - Habilitação para operar no regime 
+
+   5.2 - Extinção do regime 
+                                                                                                                                          1
+                                                                                                                                               70
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                           3
+           www.estrategiaconcursos.com.br                                                                                                      73
+
+                                              
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 05
+
+6 - Depósito Afiançado 
+
+   6.1 - Conceito e generalidades 
+
+   6.2 - Habilitação para operar no regime 
+
+   6.3 - Aplicação do regime 
+
+   6.4 – Extinção do regime
+
+7 - Depósito Alfandegado Certificado (DAC) 
+
+8 - Depósito Franco 
+
+9 - Regime Aduaneiro Especial de Exportação e de Importação de Bens Destinados às Atividades
+de Pesquisa e de Lavra de Jazidas de Petróleo e de Gás Natural (REPETRO): 
+
+10 - Regime Aduaneiro Especial de Importação de Petróleo Bruto e seus Derivados (REPEX) 
+
+11 - REPORTO 
+
+12 - RECOM: 
+
+13 - Regimes Aduaneiros Aplicados em Áreas Especiais 
+
+   13.1 - Zona Franca de Manaus 
+
+      13.1.1 - Generalidades 
+
+      13.1.2 - Benefícios fiscais na importação 
+
+      13.1.3 - Benefícios Fiscais na Exportação 
+
+      13.1.4 - Benefícios Fiscais nas vendas para a ZFM 
+
+      13.1.5 - Benefícios Fiscais na Internação
+
+   13.2 - Zonas de Processamento de Exportações (ZPEs) 
+
+   13.3 - Áreas de Livre Comércio 
+
+   13.4 - Amazônia Ocidental 
+
+Lista de Questões 
+                                                                                                                                               2
+                                                                                                                                             70
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                         4
+           www.estrategiaconcursos.com.br                                                                                                    73
+
+                                              
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 05
+
+   1 – Entreposto Aduaneiro 
+
+   3 – Exportação Temporária 
+
+   4 – Loja Franca
+
+   5 – Depósito Especial 
+
+   6 – Depósito Afiançado 
+
+   13 – Regimes Aduaneiros Aplicados em Áreas Especiais 
+
+      13.1 – Zona Franca de Manaus 
+
+      13.2 – Zonas de Processamento de Exportações 
+
+      13.3 – Áreas de Livre Comércio 
+
+      13.4 – Amazônia Ocidental 
+
+Gabarito 
+
+Questões Comentadas 
+
+   1 – Entreposto Aduaneiro 
+
+   3 – Exportação Temporária 
+
+   4 – Loja Franca
+
+   5 – Depósito Especial 
+
+   6 – Depósito Afiançado 
+
+   13 – Regimes Aduaneiros Aplicados em Áreas Especiais 
+
+      13.1 – Zona Franca de Manaus 
+
+      13.2 – Zonas de Processamento de Exportações 
+
+      13.3 – Áreas de Livre Comércio 
+
+      13.4 – Amazônia Ocidental 
+
+
+                                                                                                                                                   3
+                                                                                                                                                 70
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                             5
+           www.estrategiaconcursos.com.br                                                                                                        73
+
+                                               
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+                             1 - ENTREPOSTO ADUANEIRO
+
+1.1 - Entreposto Aduaneiro na Importação
+
+1.1.1 - Disposições gerais
+
+Segundo o art. 404 do R/A, entreposto aduaneiro na importação é o regime aduaneiro especial
+que permite a armazenagem de mercadoria estrangeira em recinto alfandegado com suspensão
+do pagamento dos impostos federais e do PIS/PASEP e COFINS incidentes na importação.
+
+O entreposto aduaneiro na importação será operado, como regra geral, em recintos alfandegados
+de uso público, tais como os localizados em portos e aeroportos alfandegados ou, ainda, em
+portos secos. Todavia, o entreposto aduaneiro também poderá ser operado em recintos
+alfandegados situados em instalação portuária de uso privativo misto e recintos de uso privativo.
+
+O regime de entreposto aduaneiro na importação operado em recinto de uso privativo será
+aplicável para a realização de exposição de mercadorias importadas em feiras, congressos,
+mostras ou evento semelhante. Nesse caso, o recinto de uso privativo será temporariamente
+alfandegado, pelo período em que for realizado o evento.
+
+O entreposto aduaneiro na importação também poderá ser operado em: a) plataformas
+destinadas à pesquisa e lavra de jazidas de petróleo e gás natural em construção ou conversão no
+País, contratadas por empresas sediadas no exterior; e b) estaleiros navais ou em outras
+instalações industriais localizadas à beira-mar, destinadas à construção de estruturas marítimas,
+plataformas de petróleo e módulos para plataformas.
+
+Quanto aos beneficiários: no caso de feiras, congressos, mostras ou eventos semelhantes, o
+beneficiário será o promotor do evento; no caso das mercadorias armazenadas em recintos
+alfandegados e em instalação portuária de uso privativo misto, o beneficiário será o consignatário
+da mercadoria entrepostada; por fim, nas hipóteses de plataformas ou estaleiros e outras
+instalações industriais à beira-mar, o beneficiário é o contratado pela empresa sediada no exterior.
+
+Vale destacar que, nos termos do artigo 19, §3º, da IN 241/02, o permissionário ou concessionário
+do recinto alfandegado poderá ser beneficiário do regime de entreposto aduaneiro na
+importação, quando figurar como consignatário da mercadoria.
+
+A mercadoria poderá permanecer no regime de entreposto aduaneiro na importação pelo prazo
+de até 1 (um) ano, prorrogável por período não superior, no total, a 2 (dois) anos contados do
+
+                                                                                                  4
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                6
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+desembaraço aduaneiro de admissão. Excepcionalmente, o prazo poderá ser prorrogado uma
+segunda vez, nunca ultrapassando, todavia, o limite máximo de 3 (três) anos.
+
+O regime de entreposto aduaneiro permite a admissão de mercadorias mediante importação com
+ou sem cobertura cambial. Porém, se a mercadoria for destinada a evento desportivo, feira,
+congresso, mostra ou evento semelhante, ou se o beneficiário do regime for administrador do
+recinto em que a mercadoria ficará armazenada, não se admite a importação com cobertura
+cambial.
+
+1.1.2 - Hipóteses de extinção do regime
+
+As destinações possíveis estão previstas no art. 409 do R/A.
+
+A forma de extinção mais comum do regime de entreposto aduaneiro na importação é o despacho
+para consumo (prevista no inciso I), isto é, a venda da mercadoria a comprador brasileiro. No
+momento da venda, a mercadoria é nacionalizada e, portanto, é feito o recolhimento tributário
+integral dos tributos que estavam suspensos.
+
+Vale lembrar que o adquirente de mercadoria entrepostada é contribuinte do imposto de
+importação, conforme prevê o art. 104, inciso III, do R/A.
+
+O inciso II faz menção à reexportação. É o caso em que a mercadoria foi admitida no entreposto
+aduaneiro, mas não foi vendida dentro do prazo de concessão do regime (1 ano, podendo chegar,
+excepcionalmente, a 3 anos). Se a mercadoria não for vendida, ela deverá regressar ao exterior,
+isto é ser reexportada. Notem, contudo, que a hipótese relacionada no inciso II só se aplica se a
+mercadoria houver sido admitida no entreposto aduaneiro por meio de operação sem cobertura
+cambial.
+
+O inciso III faz menção à exportação como forma de extinção do regime de entreposto aduaneiro.
+Nessa situação, a mercadoria ingressa no entreposto aduaneiro, permanecendo ali armazenada
+até ser vendida para um terceiro país.
+
+Trata-se do entreposto vinculado, assim considerado aquele em que a mercadoria entra no país,
+permanecendo armazenada em recinto alfandegado, mas tendo o exterior como destino. Se, de
+um lado, temos o entreposto vinculado, do outro, existe o entreposto não-vinculado, que é o que
+fica configurado nas demais situações.
+
+Por último, o inciso IV se refere à transferência para outro regime aduaneiro especial ou aplicado
+em áreas especiais.
+
+Todas essas formas de extinção do regime devem ocorrer em até 45 dias após o término do prazo
+concedido pela autoridade aduaneira para permanência da mercadoria em entreposto aduaneiro.
+
+                                                                                                5
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              7
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Caso o prazo seja ultrapassado sem que tenha sido extinto o regime, a mercadoria será declarada
+abandonada, tendo início o processo administrativo para aplicação da pena de perdimento.
+
+Vale reforçar que, no entreposto aduaneiro, as mercadorias poderão ser admitidas com cobertura
+cambial ou sem cobertura cambial. As mercadorias que ingressarem com cobertura cambial não
+poderão ser reexportadas; elas podem apenas ser despachadas para consumo ou exportadas. Já
+as mercadorias que entrarem no País sem cobertura cambial poderão ser despachadas para
+consumo, reexportadas ou exportadas.
+
+A possibilidade de transferência para outro regime especial, por outro lado, fica condicionada aos
+requisitos do regime de destino. Por exemplo, se a intenção for transferir a mercadoria para o
+regime de admissão temporária, a importação deve ter sido realizada sem cobertura cambial,
+porque esse é um dos requisitos do regime (artigo 358, inciso II, do R/A).
+
+
+1.2 - Entreposto Aduaneiro na Exportação
+
+1.2.1 - Disposições gerais
+
+o art. 410 do R/A, o regime especial de entreposto aduaneiro na exportação é o que permite a
+armazenagem de mercadoria destinada à exportação. Existem duas modalidades de entreposto
+aduaneiro na exportação: o regime comum e o regime extraordinário.
+
+Na modalidade de regime comum, as mercadorias ficam armazenadas em recintos alfandegados
+de uso público com suspensão do pagamento dos impostos federais.
+
+A modalidade de regime extraordinário, por sua vez, é operada por empresa comercial
+exportadora. Nesse regime, as mercadorias ficam armazenadas em recintos de uso privativo, com
+direito à utilização dos benefícios fiscais previstos para incentivo à exportação, mesmo antes do
+seu efetivo embarque para o exterior.
+
+No caso do regime comum, o prazo de permanência das mercadorias é de 1 (um) ano, prorrogável
+por período não superior, no total, a 2 (dois) anos. Excepcionalmente, poderá ser concedida nova
+prorrogação, respeitado o limite de 3 (três) anos.
+
+No caso do regime extraordinário, a mercadoria poderá permanecer no regime de entreposto
+aduaneiro na exportação por até 180 dias.
+
+O início do prazo de concessão do regime comum começa a contar a partir da data da entrada da
+mercadoria na unidade de armazenagem. Já no caso do regime extraordinário, o início do prazo
+de concessão do regime extraordinário começa a contar a partir da data da saída da mercadoria
+do estabelecimento produtor-vendedor.
+
+                                                                                                6
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              8
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+São beneficiários do regime de entreposto aduaneiro na exportação: a) na modalidade de regime
+comum, a pessoa jurídica que depositar, em recinto credenciado, mercadoria destinada ao
+mercado externo; b) na modalidade de regime extraordinário, a empresa comercial exportadora.
+
+1.2.2 - Hipóteses de extinção do regime
+
+A extinção do regime de entreposto aduaneiro na exportação ocorrerá nas hipóteses previstas no
+art. 415 do R/A.
+
+A forma de extinção típica do entreposto aduaneiro na exportação é a exportação propriamente
+dita. Dessa forma, o art. 415, inciso I, do R/A reconhece que o regime será extinto no momento
+em que tiver início o despacho de exportação. Destaque-se que o despacho de exportação deverá
+ter início até 45 dias após o encerramento do prazo de concessão do regime de entreposto
+aduaneiro na exportação.
+
+E se não for possível dar início ao despacho de exportação dentro desse prazo? Nesse caso,
+teremos que observar os incisos II e III.
+
+No caso de regime comum, a extinção do regime ocorrerá com a reintegração da mercadoria ao
+estoque.
+
+No caso de regime extraordinário, a extinção do regime ocorrerá com o pagamento dos tributos
+suspensos e ressarcimento dos benefícios fiscais acaso fruídos pela empresa comercial
+exportadora.
+
+
+1.3 - Disposições comuns ao entreposto aduaneiro na importação
+e ao entreposto aduaneiro na exportação
+
+O entreposto aduaneiro na importação e o entreposto aduaneiro na exportação possuem algumas
+semelhanças, quais sejam:
+
+       a) A admissão dispensa a constituição de Termo de Responsabilidade, uma vez que as
+          mercadorias são mantidas sob controle aduaneiro;
+
+       b) O depositário será responsável pelo pagamento dos tributos na ocorrência de avaria ou
+          extravio de mercadoria submetida ao regime de entreposto aduaneiro;
+
+       c) Segundo a IN SRF nº 241/2002, as mercadorias admitidas em entreposto aduaneiro
+          podem ser submetidas às seguintes operações:
+
+                     I.      operações de industrialização (acondicionamento ou reacondicionamento;
+                             montagem; beneficiamento; recondicionamento; e transformação, no caso
+                                                                                                 7
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               9
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+                             de preparo de alimentos para consumo a bordo de aeronaves e
+                             embarcações utilizadas no transporte comercial internacional ou
+                             destinados à exportação, e no caso de esmagamento de grãos de cereais
+                             e sementes para produção de óleo, farelo ou outros subprodutos
+                             destinados à exportação);
+                     II.     exposição, demonstração e teste de funcionamento;
+                    III.     etiquetagem e marcação, para atender a exigências do comprador
+                             estrangeiro; e
+                    IV.      manutenção ou reparo.
+
+       d) Não é autorizada a admissão, em entreposto aduaneiro:
+
+                      I.     de mercadorias cuja importação ou exportação esteja proibida;
+
+                     II.     de bens usados.
+
+(AFRFB – 2014) O regime especial de entreposto aduaneiro na importação é o que permite a
+armazenagem de mercadoria estrangeira em recinto alfandegado de uso público, com suspensão
+do pagamento dos impostos federais, mas com incidência da contribuição para o PIS/PASEP-
+Importação e da COFINS-Importação.
+
+Comentários
+
+No entreposto aduaneiro, também há suspensão do PIS/PASEP-Importação e da COFINS-
+Importação.
+
+Gabarito: errada
+
+
+  2 - REGIME DE ENTREPOSTO INDUSTRIAL SOB CONTROLE
+          ADUANEIRO INFORMATIZADO (RECOF)
+Segundo o art. 420 do R/A, o regime de entreposto industrial sob controle aduaneiro
+informatizado (RECOF) é o que permite a empresa importar, com ou sem cobertura cambial, e
+
+
+                                                                                                8
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             10
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+com suspensão do pagamento de tributos, sob controle aduaneiro informatizado, mercadorias
+que, depois de submetidas à operação de industrialização, sejam destinadas à exportação.
+
+Anotem, no entanto, que as aquisições de mercadorias no mercado interno por empresas
+habilitadas ao RECOF também se beneficiam da suspensão de tributos. Com efeito, tanto as
+importações quanto as aquisições no mercado interno realizadas pelas empresas beneficiárias do
+RECOF são objeto de desoneração tributária.
+
+Ressalte-se que a desoneração abrange as mercadorias que serão submetidas a operações de
+industrialização, sendo que o produto resultante não precisa ser necessariamente exportado. Ou
+seja, parte da mercadoria admitida no regime pode ser despachada para consumo. No entanto,
+as mercadorias destinadas ao mercado interno deverão se sujeitar ao recolhimento dos tributos
+suspensos.
+
+O RECOF é administrado pela Receita Federal do Brasil. Nesse sentido, compete à Receita Federal
+autorizar uma empresa a operar no regime e, além disso, definir em ato normativo os requisitos
+necessários para que uma empresa se habilite no RECOF. É o que dispõe o art. 422, do
+Regulamento Aduaneiro.
+
+O inciso I do art. 422 nos indica que o ato normativo da RFB pode limitar as mercadorias que
+podem ser admitidas no RECOF. Atualmente, a IN RFB nº 2.126/2022 autoriza qualquer empresa
+industrial e também a empresa que realiza exclusivamente operações de renovação ou
+recondicionamento, manutenção ou reparo de aeronaves e de equipamentos e instrumentos de
+uso aeronáutico a habilitarem-se no regime.
+
+O inciso II do art. 422, por sua vez, nos revela que pode haver limitação quanto às operações de
+industrialização autorizadas no regime. Atualmente, a IN RFB nº 2.126/2022 dispõe que as
+operações de industrialização se limitam à montagem, transformação, beneficiamento,
+acondicionamento e reacondicionamento e renovação ou recondicionamento.
+
+O inciso III do art. 422 faz referência a um percentual máximo de tolerância para efeito de exclusão
+da responsabilidade tributária do beneficiário, no caso de perda inevitável do processo produtivo.
+Atualmente, o art. 37 da IN RFB nº 2.126/2022 estabelece que, para efeito de exclusão da
+responsabilidade tributária, será aceito o percentual de perda do processo produtivo declarado
+pelo próprio beneficiário do regime.
+
+Os incisos IV, V e VI do art. 422 dizem respeito, respectivamente, a um percentual mínimo da
+produção destinada ao mercado externo, a um valor mínimo de exportações anuais, e a um
+percentual máximo de mercadorias importadas destinadas ao mercado interno no estado em que
+foram importadas.
+
+                                                                                                  9
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               11
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+O art. 13 da IN RFB nº 2.126/2022 estabelece esses percentuais como condições para que a
+empresa habilitada no RECOF possa usufruir dos benefícios do regime, nos seguintes termos:
+
+       a) exportar produtos industrializados resultantes dos processos de industrialização
+          admitidos, que contenham ou não mercadorias admitidas no regime, no valor mínimo
+          anual equivalente a 50% do valor total das mercadorias admitidas no regime no mesmo
+          período;
+
+       b) aplicar, anualmente, na produção dos bens que industrializar, pelo menos 70% das
+          mercadorias admitidas no regime.
+
+Anotem, no entanto, que, com o objetivo de reduzir os impactos da pandemia do coronavírus, o
+artigo 42, da mesma IN RFB nº 2.126/22, conferiu uma redução temporária de 50% nos percentuais
+indicados acima para os períodos de apuração dos regimes encerrados entre 1º de maio de 2020
+e 30 de abril de 2023.
+
+Há, atualmente, duas modalidades disponíveis entre as quais o beneficiário pode escolher para a
+operação do RECOF:
+
+   a) RECOF Sistema, em que o controle informatizado é efetuado pela utilização de sistema
+      informatizado de controle, integrado aos sistemas corporativos da empresa;
+
+   b) RECOF SPED, em que o controle informatizado é efetuado com a utilização do Sistema
+      Público de Escrituração Digital.
+
+Para encerramento do regime, a mercadoria admitida no RECOF poderá ter uma das seguintes
+destinações: a) exportação; b) reexportação; c) despacho para consumo; d) destruição; e) retorno
+ao mercado interno; f) venda direta para empresa comercial exportadora com fim específico de
+exportação para o exterior.
+
+Destaque-se que o prazo de vigência do RECOF é de 1 (um) ano, prorrogável automaticamente
+por mais 1 (um) ano, contado da data da liberação da mercadoria constante da respectiva
+declaração de importação para admissão no regime ou da aquisição no mercado interno.
+
+Findo o prazo estabelecido para a vigência do regime, serão exigidos os tributos suspensos, em
+relação ao estoque, com os acréscimos de juros e multa de mora, calculados a partir da data do
+registro da admissão das mercadorias no regime.
+
+                                                                                             10
+                                                                                             70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           12
+        www.estrategiaconcursos.com.br                                                       73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+(Exame Despachante Aduaneiro – 2012) O regime aduaneiro especial de entreposto industrial sob
+controle informatizado (RECOF) permite a empresa beneficiária importar ou adquirir no mercado
+interno, com suspensão do pagamento de tributos, mercadorias a serem submetidas a operações
+de industrialização de produtos destinados à exportação ou ao mercado interno, sem pagamento
+dos tributos suspensos em quaisquer dos dois casos.
+
+Comentários
+
+No caso de mercadorias destinadas ao mercado interno, deverá ser efetuado o recolhimento dos
+tributos suspensos.
+
+Gabarito: errada
+
+
+                             3 - EXPORTAÇÃO TEMPORÁRIA
+
+3.1 - Conceito e generalidades
+
+Segundo o art. 431 do R/A, o regime de exportação temporária é o que permite a saída, do País,
+com suspensão do pagamento do imposto de exportação, de mercadoria nacional ou
+nacionalizada, condicionada à reimportação em prazo determinado, no mesmo estado em que foi
+exportada.
+
+A grande vantagem da exportação temporária reside no fato de que não haverá tributação na
+reimportação (retorno da mercadoria exportada temporariamente). Com efeito, considerando que
+a exportação não teve ânimo de definitividade, considera-se que não ocorreu a desnacionalização
+do bem. Assim, quando uma mercadoria exportada temporariamente retorna ao País, não ocorre
+o fato gerador do Imposto de Importação.
+
+Quando se tratar de exportação temporária de mercadoria sujeita ao imposto de exportação, a
+obrigação tributária será constituída em termo de responsabilidade, não se exigindo garantia.
+
+Os bens aos quais pode ser concedido o regime de exportação temporária estão previstos no art.
+91 da IN RFB nº 1.600/2015.
+
+
+                                                                                            11
+                                                                                            70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          13
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Reputa-se, ainda, em exportação temporária, independentemente de qualquer procedimento
+administrativo, a bagagem acompanhada levada ao exterior por viajante residente no País, nos
+termos do art. 440, inciso I, do R/A.
+
+Para que seja concedido o regime de exportação temporária, devem ser observadas as seguintes
+condições:
+
+            I - exportação em caráter temporário;
+
+            II - exportação sem cobertura cambial;
+
+            III - adequação dos bens e do prazo de permanência à finalidade da exportação; e
+
+            IV - identificação dos bens.
+
+A concessão do regime de exportação temporária compete ao Auditor da RFB responsável pelo
+despacho aduaneiro, que também fixará o prazo para permanência dos bens no exterior. O prazo
+de vigência do regime será de até 1 (um) ano, contado a partir do desembaraço aduaneiro do
+bem, prorrogável, a juízo da autoridade aduaneira, por período não superior, no total, a 2 (dois)
+anos.
+
+Excepcionalmente, em casos devidamente justificados, a critério do Ministro de Estado da
+Fazenda, o prazo de vigência do regime pode ser prorrogado por período superior a 2 (dois) anos.
+Oportuno ressaltar, a esse respeito, que o artigo 103, §1º, inciso II, da IN RFB nº 1.600/15, prevê
+a possibilidade de prorrogação do regime inclusive por período superior a 5 (cinco) anos.
+
+Quando houver um contrato de prestação de serviço por prazo certo entre o exportador brasileiro
+e pessoa residente ou domiciliada no exterior, inclusive no caso de arrendamento operacional,
+aluguel ou empréstimo, o regime de exportação temporária será concedido pelo prazo do
+contrato, prorrogável na mesma medida deste.
+
+Ao ser concedido o regime de exportação temporária pela RFB, não caberá mais a discussão do
+mérito desse ato administrativo por ocasião da reimportação. Assim, se a autoridade aduaneira
+competente para a concessão do regime concluiu pelo cabimento da exportação temporária, esse
+entendimento não poderá ser revisto por ocasião da reimportação.
+
+
+3.2 - Hipóteses de extinção do regime
+
+A forma mais natural de extinção do regime de exportação temporária é a reimportação (art. 443,
+inciso I do R/A), que consiste no regresso ao país de um bem exportado temporariamente. O art.
+
+
+                                                                                                12
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              14
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+443, inciso II, do R/A, por sua vez, faz menção à exportação definitiva da mercadoria admitida no
+regime como hipótese de extinção do regime.
+
+Por fim, o art. 444 do R/A se refere à importação de produto equivalente àquele submetido ao
+regime como hipótese de extinção da exportação temporária.
+
+
+3.3 - Exportação temporária para aperfeiçoamento passivo
+
+Também existe o regime de exportação temporária para aperfeiçoamento passivo. Segundo o art.
+449 do R/A, trata-se de regime aduaneiro especial que permite a saída, do País, por tempo
+determinado, de mercadoria nacional ou nacionalizada, para ser submetida a operação de
+transformação, elaboração, beneficiamento ou montagem, no exterior, e a posterior reimportação,
+sob a forma do produto resultante, com pagamento dos tributos sobre o valor agregado.
+
+(AFRFB – 2014) O regime de exportação temporária para aperfeiçoamento passivo é o que
+permite a saída, do País, por tempo determinado, de mercadoria nacional ou nacionalizada, para
+ser submetida a operação de transformação, elaboração, beneficiamento ou montagem, no
+exterior, e a posterior reimportação, sob a forma do produto resultante, com pagamento dos
+tributos sobre o valor agregado.
+
+Comentários
+
+A exportação temporária para aperfeiçoamento passivo permite que uma mercadoria saia do País
+por tempo determinado para ser submetida a operação de industrialização. No retorno, haverá
+tributação sobre o valor agregado.
+
+Gabarito: certa
+
+
+                                         4 - LOJA FRANCA
+
+4.1 - Conceito e generalidades
+
+Segundo o art. 476 do R/A, loja franca é um regime aduaneiro especial que permite a
+estabelecimento instalado em zona primária de porto ou de aeroporto alfandegado vender
+
+                                                                                              13
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            15
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+mercadoria nacional ou estrangeira a passageiro em viagem internacional, contra pagamento em
+moeda nacional ou estrangeira.
+
+Desse modo, os estabelecimentos que operam o regime aduaneiro especial de loja franca estão
+situados, a princípio, em zona primária de porto ou de aeroporto alfandegado.
+
+Nada obstante, segundo o art. 15-A, do Decreto-lei nº 1.455/76, a autorização para a instalação
+de lojas francas também poderá ser concedida às sedes de Municípios caracterizados como
+cidades gêmeas de cidades estrangeiras na linha de fronteira do Brasil, a critério da autoridade
+competente, para venda de mercadorias, nacionais ou estrangerias, mas apenas para pessoas
+físicas. São as lojas francas de fronteira terrestre.
+
+Somente poderão explorar o regime de loja franca as empresas habilitadas pela Secretaria da
+Receita Federal, através de um processo de pré-qualificação (artigo 15, §1º, do Decreto-Lei nº
+1.455/76). Os requisitos e condições para a concessão do regime estão relacionados nos artigos
+5º, 6º e 7º da Instrução Normativa RFB nº 2.075/22.
+
+A mercadoria estrangeira importada diretamente pelos concessionários das lojas francas fará jus
+à suspensão dos tributos incidentes na operação. Essa suspensão se converte em isenção no
+momento em que a mercadoria é vendida a passageiro em viagem internacional, nos termos das
+normas aplicáveis ao regime de loja franca.
+
+Por sua vez, as compras de produtos nacionais realizadas por estabelecimentos que operam o
+regime de loja franca são beneficiadas diretamente pela isenção.
+
+Notem, sem embargo, que somente pode ser admitida no regime aduaneiro especial de loja
+franca mercadoria que possa ser enquadrada no conceito de bagagem (artigo 13, da IN RFB nº
+2.075/22).
+
+A importação de mercadorias para o regime de loja franca será realizada em consignação,
+permitido o pagamento ao consignante no exterior somente após a efetiva comercialização das
+mercadorias no País.
+
+Anote-se, por fim, que o prazo de permanência de mercadoria no regime será de 1 (um) ano,
+contado da data de sua entrada na unidade de venda ou depósito da beneficiária, se nacional e
+obtida diretamente do estabelecimento industrial ou equiparado, ou de seu desembaraço
+aduaneiro, se importada, prorrogado automaticamente por mais 1 (um) ano.
+
+
+4.2 - Restrições às vendas em loja franca
+
+Quanto às restrições qualitativas, cabe dar ênfase ao fato de que o Regulamento Aduaneiro dispõe
+que as vendas em loja franca devem ser feitas a passageiro em viagem internacional.
+                                                                                              14
+                                                                                             70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           16
+        www.estrategiaconcursos.com.br                                                       73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Entretanto, no que diz respeito às lojas francas de zona primária, o conceito de passageiro em
+viagem internacional deve ser compreendido em sentido amplo, abrangendo também outras
+pessoas físicas e jurídicas (como no caso da empresa de navegação aérea ou marítima para
+consumo a bordo ou venda a passageiros quando em águas ou espaço aéreo internacional, por
+exemplo).
+
+No caso das lojas francas de fronteira terrestre, por outro lado, a venda só é admitida para pessoas
+físicas viajantes realmente.
+
+Quanto às restrições quantitativas, deve-se observar o disposto no artigo 23 da IN RFB nº 2.075/22
+quanto aos limites máximos de produtos que podem ser vendidos (por exemplo, 12 litros de
+bebidas alcoólicas).
+
+
+4.3 – Tratamento tributário das aquisições em Loja Franca
+
+Segundo o artigo 26 da IN RFB nº 2.075/22, a aquisição de mercadoria em loja franca está isenta
+de tributos até o limite de valor de US$ 500,00 (quinhentos dólares dos Estados Unidos da
+América) ou o equivalente em outra moeda, por viajante, a cada intervalo de 30 (trinta) dias, no
+caso de lojas francas de fronteira terrestres, e de US$ 1.000,00 (mil dólares dos Estados Unidos
+da América) ou o equivalente em outra moeda, por passageiro que chega do exterior no primeiro
+porto ou aeroporto de desembarque no País.
+
+Percebam que o passageiro somente terá direito à isenção relativa aos bens adquiridos em loja
+franca após o desembarque no País. Isso porque, nos termos do art. 32 da IN RFB nº 2.075/22,
+será considerada exportação a venda de mercadoria em loja franca a um passageiro saindo do
+Brasil.
+
+Assim, no momento em que o passageiro retornar ao Brasil, os bens adquiridos na partida serão
+considerados para o cálculo do limite de isenção para bagagem. Da mesma forma, os bens
+adquiridos em lojas francas no exterior também receberão tratamento de bagagem
+acompanhada.
+
+O passageiro pode também adquirir em loja franca de chegada bens cujo valor exceda US$
+1.000,00. No entanto, esses bens estarão sujeitos ao regime de tributação especial, isto é, incidirá
+apenas o Imposto de Importação, a uma alíquota de 50%, sobre o montante que exceder o limite
+de US$ 1.000,00.
+
+
+4.4 - Extinção do regime
+
+A primeira forma de extinção ocorre por meio da venda das mercadorias, obedecidas as restrições
+qualitativas estabelecidas pelo artigo 21 da IN RFB nº 2.075/22, que nós já estudamos.
+                                                                                                 15
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               17
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+A segunda forma de extinção indicada é a exportação. Nesse caso, mercadorias nacionais são
+admitidas em loja franca e depois destinadas ao exterior.
+
+A terceira forma de extinção prevista é a reexportação. As mercadorias importadas são admitidas
+em loja franca mediante consignação. Caso não sejam vendidos, retornam ao exterior, isto é, são
+reexportadas.
+
+A quarta forma de extinção é a devolução ao estabelecimento industrial ou equiparado que
+vendeu a mercadoria nacional admitida no regime com base em nota fiscal.
+
+A quinta forma de extinção é o despacho para consumo, isto é, a nacionalização. Seria o caso, por
+exemplo, da venda no mercado interno dos produtos que haviam sido admitidos em loja franca.
+
+A sexta forma de extinção é a transferência para outro regime aduaneiro especial ou aplicado em
+área especial. Cabe destacar que, nessa hipótese, a transferência depende do cumprimento dos
+requisitos de admissibilidade no novo regime e a mercadoria não poderá retornar ao regime
+aduaneiro especial de loja franca posteriormente.
+
+A sétima forma de extinção é a transferência para outra beneficiária do regime aduaneiro especial
+de loja franca. Vale salientar, no entanto, que não há reinício da contagem do prazo de
+permanência da mercadoria no regime.
+
+A oitava forma de extinção do regime é a entrega dos bens à Fazenda Nacional, desde que
+estejam livres de quaisquer despesas, e desde que o Auditor-Fiscal da Receita Federal do Brasil
+responsável concorde em recebê-los (competência discricionária).
+
+A nona e última forma de extinção do regime de loja franca é a destruição dos bens, que deve
+ocorrer sob controle aduaneiro e às expensas da beneficiária do regime.
+
+(AFRFB – 2014) Poderá ser concedida autorização às sedes de Municípios caracterizados como
+cidades gêmeas de cidades estrangeiras na linha de fronteira do Brasil, a critério da autoridade
+competente, para a instalação de lojas francas para a venda de mercadoria nacional ou estrangeira
+contra pagamento em moeda nacional ou estrangeira. A venda de mercadoria nas referidas lojas
+francas somente será autorizada à pessoa física.
+
+Comentários
+
+                                                                                              16
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            18
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+A autorização para a instalação de lojas francas também poderá ser concedida às sedes de
+Municípios caracterizados como cidades gêmeas de cidades estrangeiras na linha de fronteira do
+Brasil, a critério da autoridade competente. Nesse caso, somente se admite a venda de
+mercadorias a pessoas físicas.
+
+Gabarito: certa
+
+
+                                  5 - DEPÓSITO ESPECIAL
+Segundo o art. 480 do R/A, o regime aduaneiro de depósito especial é o que permite a estocagem
+de partes, peças, componentes e materiais de reposição ou manutenção, com suspensão do
+pagamento dos impostos federais, da contribuição para o PIS/PASEP-Importação e da COFINS-
+Importação, para veículos, máquinas, equipamentos, aparelhos e instrumentos, estrangeiros,
+nacionalizados ou não, e nacionais em que tenham sido empregados partes, peças e componentes
+estrangeiros, nos casos definidos pelo Ministro da Economia.
+
+Explicando cada elemento do conceito:
+
+       a) Não se admite o ingresso em depósito especial de qualquer tipo de mercadoria.
+          Somente são admitidos em depósito especial partes, peças, componentes e materiais
+          de reposição ou manutenção;
+
+       b) As partes, peças e componentes admitidos no regime de depósito especial destinam-
+          se a bens estrangeiros (nacionalizados ou não) e a bens nacionais em que tenham sido
+          empregados partes, peças e componentes estrangeiros. Assim, as partes, peças e
+          componentes admitidos em depósito especial não podem destinar-se a produtos
+          exclusivamente fabricados no Brasil;
+
+       c) Os bens admitidos em depósito especial ficam com a exigibilidade dos tributos
+          suspensa (impostos federais + PIS/PASEP + COFINS).
+
+
+5.1 - Habilitação para operar no regime
+
+A aplicação do regime depende de prévia habilitação da pessoa jurídica interessada, pela
+Secretaria da Receita Federal do Brasil (SRFB). Para ser habilitada, a pessoa jurídica precisa cumprir
+os seguintes requisitos:
+
+       a) regularidade fiscal;
+
+       b) dispor de sistema informatizado de controle de entrada, permanência e saída de
+          mercadorias, de registro e apuração de créditos tributários devidos, extintos ou com
+                                                                                                   17
+                                                                                                   70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 19
+        www.estrategiaconcursos.com.br                                                             73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+            exigibilidade suspensa, integrado aos sistemas corporativos da empresa no País, com
+            livre e permanente acesso da RFB;
+
+       c) exercer uma das atividades relacionadas no art. 2º da IN SRF nº 386/2004 ou, na
+          qualidade de subsidiária ou representante do fabricante estrangeiro, importar em
+          consignação partes, peças, componentes e materiais de reposição ou manutenção para
+          máquinas, equipamentos, aparelhos e instrumentos, estrangeiros, nacionalizados ou
+          não, empregados em tais atividades.
+
+O prazo de concessão do regime é de até 5 anos, contados da data do desembaraço aduaneiro
+para admissão. Destaque-se que somente são admitidas no regime mercadorias importadas sem
+cobertura cambial.
+
+
+5.2 - Extinção do regime
+
+A extinção do regime de depósito especial ocorrerá nas hipóteses do art. 485 do R/A
+(reexportação, exportação, transferência para outro regime especial, despacho para consumo ou
+destruição).
+
+O despacho para consumo de mercadoria admitida em depósito especial será efetuado pelo
+beneficiário até o dia 10 do mês seguinte ao da saída das mercadorias do estoque, com
+observância das exigências legais e regulamentares, inclusive as relativas ao controle
+administrativo das importações.
+
+Vale destacar que o controle aduaneiro da entrada, da permanência e da saída de mercadorias
+será efetuado mediante processo informatizado, com base em software desenvolvido pelo
+beneficiário, que atenda ao estabelecido em ato normativo da Secretaria da Receita Federal do
+Brasil (art. 487, do R/A).
+
+(Questão Inédita) O despacho para consumo de mercadoria admitida no regime de depósito
+especial será efetuado pelo beneficiário até o dia dez do mês seguinte ao da saída das
+mercadorias do estoque, com observância das exigências legais e regulamentares, inclusive as
+relativas ao controle administrativo das importações.
+
+Comentários
+
+
+                                                                                            18
+                                                                                             70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          20
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Isso é o que dispõe o art. 486, do R/A. Mercadorias admitidas em depósito especial serão objeto
+de despacho para consumo até o dia 10 do mês seguinte ao da saída do estoque.
+
+Gabarito: certa
+
+
+                                6 - DEPÓSITO AFIANÇADO
+
+6.1 - Conceito e generalidades
+
+De acordo com o art. 488 do R/A, o regime aduaneiro especial de depósito afiançado é o que
+permite a estocagem, com suspensão do pagamento dos impostos federais, da contribuição para
+o PIS/PASEP-Importação e da COFINS-Importação, de materiais importados sem cobertura
+cambial, destinados à manutenção e ao reparo de embarcação ou de aeronave pertencentes a
+empresa autorizada a operar no transporte comercial internacional, e utilizadas nessa atividade. O
+regime de depósito afiançado poderá, ainda, ser concedido a empresas estrangeiras que operem
+no transporte rodoviário.
+
+Muito embora a previsão do Regulamento Aduaneiro não limite o modal de transporte que pode
+ser beneficiado com o DAF, apenas o transporte comercial internacional aéreo foi contemplado
+pela normativa da Receita Federal do Brasil (RFB).
+
+
+6.2 - Habilitação para operar no regime
+
+A aplicação do regime de depósito afiançado depende de prévia habilitação da empresa
+interessada junto à Receita Federal do Brasil (RFB). Para que possa se habilitar, a empresa necessita
+de cumprir basicamente dois requisitos:
+
+                   I.    manter serviço de transporte aéreo internacional regular; e
+
+                   II.   dispor de sistema informatizado de controle de entrada, permanência e
+                         saída de mercadorias, de registro e apuração de créditos tributários devidos,
+                         extintos ou com exigibilidade suspensa, integrado aos sistemas corporativos
+                         da empresa no País, com livre e permanente acesso da RFB.
+
+Ainda com relação à habilitação ao regime de depósito afiançado, a autorização para empresa
+estrangeira operar no regime, pela autoridade aduaneira, é condicionada a previsão em ato
+internacional firmado pelo Brasil, ou a que seja comprovada a existência de reciprocidade de
+tratamento.
+
+
+                                                                                                   19
+                                                                                                   70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 21
+        www.estrategiaconcursos.com.br                                                             73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+6.3 - Aplicação do regime
+
+Somente podem ser admitidos no regime aduaneiro especial de depósito afiançado (DAF)
+materiais destinados à manutenção e ao reparo de embarcação ou de aeronave que pertença à
+empresa que opere no transporte comercial internacional. Tais materiais deverão,
+obrigatoriamente, ser importados sem cobertura cambial, isto é, sem que haja transferência de
+divisas ao exterior.
+
+Na IN SRF nº 409/2004, que dispõe sobre a aplicação do regime de depósito afiançado a empresas
+que operam o transporte aéreo internacional, estão definidos os bens que se enquadram no
+conceito acima exposto.
+
+Um detalhe importante: o regime de depósito afiançado também pode ser utilizado para
+provisões de bordo.
+
+O prazo de permanência dos materiais no regime será de até 5 (cinco) anos, contados da data do
+desembaraço aduaneiro para admissão. Destaque-se que todo o controle aduaneiro da entrada,
+da permanência e da saída de mercadorias será efetuado mediante processo informatizado.
+
+
+6.4 – Extinção do regime
+
+A extinção do regime de Depósito Afiançado deve observar as hipóteses previstas pelo artigo 17,
+da IN SRF nº 409/04. São três possibilidades:
+
+  I.   Reexportação, inclusive nos casos em que os materiais forem empregados em aeronaves e
+       as provisões de bordo forem utilizadas nos vôos internacionais;
+
+ II.   Destruição mediante autorização do consignante, às expensas do beneficiário do regime e
+       sob controle aduaneiro; ou
+
+III.   Entrega à Fazenda Nacional, livres de quaisquer despesas, desde que o chefe da unidade
+       da Secretaria Especial da Receita Federal (RFB) jurisdicionante concorde em recebê-las.
+
+Importa ressaltar, no mais, que a IN SRF nº 409/04 prevê expressamente que a transferência da
+mercadoria para outro estabelecimento habilitado não implica a extinção do regime, e só pode
+ser autorizada entre filiais de uma mesma empresa.
+
+                                                                                            20
+                                                                                            70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          22
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+(Questão Inédita) O controle aduaneiro da entrada, da permanência e da saída de mercadorias no
+depósito afiançado será efetuado mediante processo informatizado.
+
+Comentários
+
+Um dos requisitos para que a RFB conceda a habilitação para operar o regime de depósito
+afiançado é que a empresa disponha de sistema informatizado de controle aduaneiro da entrada,
+da permanência e da saída de mercadorias.
+
+Gabarito: certa
+
+
+       7 - DEPÓSITO ALFANDEGADO CERTIFICADO (DAC)
+Segundo o art. 493 do R/A, o regime de depósito alfandegado certificado é o que permite
+considerar exportada, para todos os efeitos fiscais, creditícios e cambiais, a mercadoria nacional
+depositada em recinto alfandegado, vendida a pessoa sediada no exterior, mediante contrato de
+entrega no território nacional e à ordem do adquirente.
+
+Ou seja, quando se usa o regime de depósito alfandegado certificado (DAC), a mercadoria é
+considerada exportada sem que tenha saído do território nacional. É o que é conhecido por
+exportação ficta.
+
+A exportação é contratada com cláusula de entrega da mercadoria em recinto autorizado no Brasil,
+para depósito por conta e ordem do comprador.
+
+São processados simultaneamente os despachos de exportação da mercadoria e o de sua
+admissão no regime. A emissão do Conhecimento de Depósito Alfandegado (CDA) pelo
+depositário marca a admissão da mercadoria no regime. Para efeitos fiscais, creditícios e cambiais,
+a data de emissão do conhecimento de depósito equivale à data de embarque ou de transposição
+de fronteira da mercadoria.
+
+O regime de depósito alfandegado certificado (DAC) será operado, mediante autorização da RFB,
+em recinto alfandegado de uso público. Poderá, também, ser operado em instalação portuária de
+uso privativo misto, atendidas as condições estabelecidas pela Secretaria da Receita Federal do
+Brasil.
+                                                                                                21
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              23
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+O prazo de permanência da mercadoria no regime será aquele estabelecido no CDA, não
+podendo superar um ano. A extinção da aplicação do regime poderá ocorrer nas hipóteses
+elencadas no art. 497 do R/A (comprovação do efetivo embarque ou transposição da fronteira,
+despacho para consumo ou transferência algum outro regime aduaneiro especial autorizado).
+
+(Questão Inédita) O regime de depósito alfandegado certificado é o que permite considerar
+exportada, para todos os efeitos fiscais, creditícios e cambiais, a mercadoria nacional depositada
+em recinto alfandegado, vendida a pessoa sediada no exterior, mediante contrato de entrega no
+território nacional e à ordem do adquirente.
+
+Comentários
+
+Essa é a definição do regime aduaneiro especial de depósito alfandegado certificado (DAC). Esse
+regime permite que a mercadoria nele admitida seja considerada exportada para todos os efeitos
+fiscais, creditícios e cambiais.
+
+Gabarito: certa
+
+
+                                   8 - DEPÓSITO FRANCO
+Nos termos do art. 499 do R/A, o regime aduaneiro especial de depósito franco é o que permite,
+em recinto alfandegado, a armazenagem de mercadoria estrangeira para atender ao fluxo
+comercial de países limítrofes (Argentina, por exemplo) com terceiros países (Inglaterra, por
+exemplo).
+
+O regime de depósito franco será concedido somente quando autorizado em acordo ou convênio
+internacional firmado pelo Brasil. De acordo com a IN SRF nº 38/2001, estarão obrigatoriamente
+sujeitas à verificação aduaneira as mercadorias cuja permanência em Depósito Franco ultrapasse
+o prazo de noventa dias de sua entrada naquele recinto e ainda os volumes em relação aos quais
+houver fundada suspeita de falsa declaração de conteúdo.
+
+                                                                                               22
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             24
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+(Questão Inédita) O depósito franco tem como objetivo atender ao fluxo comercial do Brasil com
+terceiros países.
+
+Comentários
+
+O depósito franco tem como objetivo atender ao fluxo comercial que países limítrofes ao Brasil
+tenham com terceiros países.
+
+Gabarito: errada
+
+
+ 9 - REGIME ADUANEIRO ESPECIAL DE EXPORTAÇÃO E DE
+ IMPORTAÇÃO DE BENS DESTINADOS ÀS ATIVIDADES DE
+PESQUISA E DE LAVRA DE JAZIDAS DE PETRÓLEO E DE GÁS
+               NATURAL (REPETRO):
+O REPETRO é um regime aduaneiro especial criado com o objetivo de incentivar a produção
+nacional de bens destinados às atividades de pesquisa e lavra de jazidas de petróleo e de gás
+natural, previstas na Lei nº 9.478/97. Além disso, o REPETRO também se aplica às atividades de
+pesquisa e lavra de que trata a Lei nº 12.276/2010 e às atividades de exploração, avaliação,
+desenvolvimento e produção de que trata a Lei nº 12.351/2010.
+
+O REPETRO é um regime aduaneiro especial que somente poderá ser utilizado por pessoa jurídica
+habilitada pela Receita Federal. Somente poderão ser habilitadas ao REPETRO:
+
+       a) as pessoas jurídicas detentoras de concessão ou autorização, nos termos da Lei nº
+          9.478/97, para exercer, no País, as atividades de pesquisa e lavra de jazidas de petróleo
+          e de gás natural;
+
+       b) as pessoas jurídicas detentoras de cessão, nos termos da Lei nº 12.276/2010;
+
+       c) as pessoas jurídicas contratadas sob o regime de partilha de produção, nos termos da
+          Lei nº 12.351/2010;
+
+       d) as pessoas jurídicas contratadas pelas empresas mencionadas acima, em afretamento
+          por tempo ou para a prestação de serviços destinados à execução das atividades objeto
+          da concessão ou autorização, bem como as suas subcontratadas.
+
+A habilitação será outorgada pelo prazo de duração do contrato de concessão, autorização,
+cessão, partilha de produção ou relacionado à prestação de serviços, conforme o caso, prorrogável
+na mesma medida do contrato.
+                                                                                                23
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              25
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Ao amparo do REPETRO, uma empresa habilitada pela RFB realiza a importação, sob o regime de
+drawback suspensão, de matérias-primas, produtos semielaborados ou acabados e partes ou
+peças. O objetivo é utilizar esses insumos no processo produtivo de bens destinados às atividades
+relacionadas à indústria do petróleo.
+
+O compromisso de exportação referente ao drawback é honrado mediante a realização de uma
+exportação ficta, é dizer, uma exportação sem que tenha ocorrido a saída da mercadoria do
+território aduaneiro.
+
+Destaque-se que, embora a mercadoria não saia do território aduaneiro, ela será considerada,
+para todos os fins, como exportada. Nesse caso, a aquisição deverá ser feita por pessoa sediada
+no exterior, contra pagamento em moeda nacional ou estrangeira de livre conversibilidade e
+mediante cláusula de entrega, sob controle aduaneiro, no território aduaneiro. Nos termos do
+artigo 459, §1º, do R/A, a aquisição, nesse caso, deve ser realizada diretamente do respectivo
+fabricante ou de empresas comerciais exportadoras.
+
+Em seguida à exportação ficta, é aplicado à mercadoria o regime aduaneiro especial de admissão
+temporária. Perceba que, em momento algum, houve recolhimento tributário e, ainda por cima,
+incentivou-se a produção dos bens no País.
+
+O REPETRO aplica-se a bens constantes em relação elaborada pela Receita Federal do Brasil, que
+é o órgão responsável por sua administração. O regime também poderá ser aplicado às máquinas
+e aos equipamentos sobressalentes, às ferramentas e aos aparelhos e a outras partes e peças
+destinados a garantir a operacionalidade dos bens constantes da relação elaborada pela RFB.
+
+(Questão Inédita) O REPETRO permite a importação, sob o regime de drawback, na modalidade
+suspensão, de matérias-primas, produtos semielaborados ou acabados e de partes ou peças,
+utilizados na fabricação de bens destinados às atividades de pesquisa e de lavra das jazidas de
+petróleo e de gás natural, e posterior comprovação do adimplemento das obrigações decorrentes
+da aplicação desse regime mediante exportação sem saída do território aduaneiro.
+
+Comentários
+
+Enunciado gigante, mas que ilustra bem o REPETRO. Trata-se de regime aduaneiro especial
+destinado a estimular a produção nacional de bens destinados às atividades de pesquisa e de lavra
+das jazidas de petróleo e de gás natural. Primeiro, é realizada a importação, ao amparo do
+drawback suspensão, de matérias-primas e outros insumos utilizados na fabricação desses bens.
+                                                                                               24
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            26
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+O compromisso de exportação do drawback é cumprido mediante exportação ficta (exportação
+sem saída do território aduaneiro).
+
+Gabarito: certa
+
+
+   10 - REGIME ADUANEIRO ESPECIAL DE IMPORTAÇÃO DE
+       PETRÓLEO BRUTO E SEUS DERIVADOS (REPEX)
+Segundo o art. 463 do R/A, o regime aduaneiro especial de importação de petróleo bruto e seus
+derivados (REPEX) é o que permite a importação desses produtos, com suspensão do pagamento
+dos impostos federais, da contribuição para o PIS/PASEP-Importação e da COFINS-Importação,
+para posterior exportação, no mesmo estado em que foram importados.
+
+Por meio do REPEX, uma empresa poderá importar petróleo bruto e seus derivados com
+suspensão de tributos. No entanto, em troca, a empresa exporta petróleo bruto ou derivados, no
+mesmo estado em que foram importados. Admite-se que uma empresa habilitada realize uma
+importação desonerada de tributos e, em seguida, proceda à venda no mercado interno, desde
+que realize posteriormente uma exportação equivalente.
+
+O prazo de vigência do REPEX é de 90 (noventa) dias, prorrogável uma única vez por igual
+período, com termo inicial a data do desembaraço aduaneiro de admissão de mercadorias.
+
+(Questão Inédita) O regime aduaneiro especial de importação de petróleo bruto e seus derivados
+- REPEX é o que permite a importação desses produtos, com suspensão do pagamento dos
+impostos federais, da contribuição para o PIS/PASEP-Importação e da COFINS-Importação, para
+posterior exportação, no mesmo estado em que foram importados.
+
+Comentários
+
+Essa é a definição do REPEX: permite a importação de petróleo bruto e seus derivados com
+suspensão tributária, para posterior exportação.
+
+Gabarito: certa
+
+                                                                                           25
+                                                                                           70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                         27
+        www.estrategiaconcursos.com.br                                                     73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+                                           11 - REPORTO
+Segundo o art. 471, do R/A, o REPORTO é o regime tributário que permite, na importação de
+máquinas, equipamentos, peças de reposição e outros bens, a suspensão do pagamento do I.I,
+do IPI, da contribuição para o PIS/PASEP-Importação e da COFINS-Importação, quando
+importados diretamente pelos beneficiários do regime e destinados ao seu ativo imobilizado para
+utilização exclusiva em portos na execução de serviços de carga, descarga, movimentação de
+mercadorias e dragagem, e na execução de treinamento e formação de trabalhadores em Centros
+
+Podem ser beneficiários do regime:
+
+   a) o operador portuário, o concessionário de porto organizado, o arrendatário de instalação
+      portuária de uso público e a empresa autorizada a explorar instalação portuária de uso
+      privativo misto;
+   b) as empresas de dragagem, os permissionários ou concessionários de recintos alfandegados
+      de zona secundária e os Centros de Treinamento Profissional;
+   c) os concessionários de transporte ferroviário.
+
+Quando um bem é importado ao amparo do REPORTO, ele faz jus à suspensão dos tributos
+federais (I.I, IPI, PIS/PASEP-Importação e COFINS-Importação). A suspensão do II e do IPI se
+converterá em isenção após o decurso do prazo de 5 (cinco) anos contados da data da ocorrência
+do fato gerador. Por sua vez, a suspensão do PIS/PASEP-Importação e da COFINS-Importação se
+converterá em alíquota zero uma vez decorridos 5 (cinco) anos do fato gerador.
+
+É importante destacar que a suspensão do imposto de importação somente irá beneficiar bens
+sem similar nacional.
+
+A aplicação dos benefícios fiscais relativos ao II e ao IPI fica condicionada à comprovação, pelo
+beneficiário, da quitação de tributos e contribuições federais (regularidade fiscal) e à formalização
+de termo de responsabilidade em relação ao crédito tributário com pagamento suspenso.
+
+A transferência de propriedade dos bens importados ao amparo do REPORTO, dentro do prazo
+de cinco anos, pode ser feita, mas depende de autorização da Receita Federal do Brasil e, em
+regra, do recolhimento dos tributos com pagamento suspenso, acrescido de juros e de multa de
+mora (salvo se o adquirente assumir a responsabilidade pelos tributos desde os respectivos fatos
+geradores e formalizar novo termo de responsabilidade).
+
+                                                                                                  26
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                28
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+(Questão Inédita) O REPORTO é o regime aduaneiro especial que permite, na importação de
+máquinas, equipamentos, peças de reposição e outros bens, a suspensão do pagamento dos
+tributos federais, desde que importados diretamente pelos beneficiários do regime e destinados
+à revenda.
+
+Comentários
+
+Os bens importados ao amparo do REPORTO devem destinados ao ativo imobilizado do
+beneficiário do regime.
+
+Gabarito: errada
+
+
+                                             12 - RECOM:
+O regime aduaneiro especial de importação de insumos destinados a industrialização por
+encomenda de produtos classificados nas posições 8701 a 8705 da Nomenclatura Comum do
+Mercosul - RECOM é o que permite a importação, sem cobertura cambial, de chassis, carroçarias,
+peças, partes, componentes e acessórios, com suspensão do pagamento do imposto sobre
+produtos industrializados, da contribuição para o PIS/PASEP-Importação e da COFINS-
+Importação.
+
+Vamos entender esse dispositivo por partes:
+
+       a) Ao amparo do RECOM, serão importados chassis, carroçarias, peças, partes,
+          componentes e acessórios com suspensão do pagamento do IPI e das contribuições
+          para o PIS/PASEP-Importação e COFINS-Importação;
+
+       b) Os bens importados ao amparo do RECOM entram no país sem cobertura cambial. Em
+          outras palavras, não há uma contrapartida em divisas;
+
+       c) Os bens importados ao amparo do RECOM destinam-se à industrialização por
+          encomenda dos produtos classificados nas posições 8701 a 8705 da NCM. Os produtos
+          a que se faz referência são veículos automóveis (de diversos tipos) e tratores.
+
+       d) O RECOM somente se aplica a importações realizadas por conta e ordem de pessoa
+          jurídica encomendante domiciliada no exterior.
+                                                                                           27
+                                                                                           70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                         29
+        www.estrategiaconcursos.com.br                                                     73
+
+                                     
+
+
+---
+
+    Áulus Dias Warzeé Mattos
+    Aula 05
+
+Segundo o art. 428 do R/A, o Imposto de Importação incidirá somente sobre os insumos
+importados empregados na industrialização dos veículos classificados nas posições 8701 a 8705.
+
+Nos termos do art. 429 do R/A, os produtos resultantes da industrialização por encomenda
+poderão ter duas destinações possíveis:
+
+         a) quando destinados ao exterior, resolve-se a suspensão do pagamento do IPI, da
+            contribuição para o PIS/PASEP-Importação e da COFINS-Importação incidentes na
+            importação e na aquisição, no mercado interno, dos insumos neles empregados. 1
+
+         b) quando destinados ao mercado interno, serão remetidos obrigatoriamente a empresa
+            comercial atacadista, controlada, direta ou indiretamente, pela pessoa jurídica
+            encomendante domiciliada no exterior, por conta e ordem desta, com suspensão do
+            pagamento do IPI, da contribuição para o PIS/PASEP-Importação e da COFINS-
+            Importação.
+
+(Questão Inédita) O RECOM será aplicado exclusivamente a importações realizadas por conta e
+ordem de pessoa jurídica encomendante domiciliada no exterior
+
+Comentários
+
+De fato, o RECOM somente será aplicado a importações realizadas por conta e ordem de pessoa
+jurídica encomendante domiciliada no exterior.
+
+Gabarito: certa
+
+1
+ A título de complementação da literalidade do Regulamento Aduaneiro, vale a pena destacar que a IN SRF nº 017/2000 estabelece
+que o imposto de importação incidente sobre os insumos e recolhido quando do desembaraço aduaneiro poderá ser objeto de
+restituição.
+                                                                                                                          28
+                                                                                                                           70
+
+          Receita Federal (Analista Tributário) Legislação Aduaneira                                                       30
+          www.estrategiaconcursos.com.br                                                                                   73
+
+                                        
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+        13 - REGIMES ADUANEIROS APLICADOS EM ÁREAS
+                         ESPECIAIS
+
+13.1 - Zona Franca de Manaus
+
+13.1.1 - Generalidades
+
+A Zona Franca de Manaus é um regime aduaneiro aplicado em área especial, criado com o objetivo
+de incentivar o desenvolvimento regional de uma área específica do País. Sua criação remonta ao
+ano de 1967, quando foi editado o Decreto-Lei nº 288/67, que estabeleceu incentivos fiscais com
+vistas a implantar na Amazônia um polo industrial, comercial e agropecuário.
+
+Um detalhe importante é que até mesmo a Constituição da República de 1988 faz menção à Zona
+Franca de Manaus, no art. 40 dos ADCT. Atualmente, a previsão é de que os benefícios da ZFM
+irão vigorar até 2073.
+
+Nos termos do Regulamento Aduaneiro, a Zona Franca de Manaus é uma área de livre comércio
+de importação e de exportação e de incentivos fiscais especiais, estabelecida com a finalidade de
+criar no interior da Amazônia um centro industrial, comercial e agropecuário, dotado de condições
+econômicas que permitam seu desenvolvimento, em face dos fatores locais e da grande distância
+a que se encontram os centros consumidores de seus produtos.
+
+13.1.2 - Benefícios fiscais na importação
+
+A entrada de mercadorias estrangeiras na Zona Franca de Manaus, destinadas a seu consumo
+interno, industrialização em qualquer grau, inclusive beneficiamento, agropecuária, pesca,
+instalação e operação de indústrias e serviços de qualquer natureza, bem como a estocagem para
+reexportação, será isenta do Imposto de Importação e do Imposto sobre Produtos
+Industrializados. Trata-se de característica própria de uma área de livre comércio de importação.
+
+Além disso, há suspensão do pagamento do PIS/PASEP-Importação e da COFINS-Importação, no
+caso de matérias-primas, produtos intermediários e materiais de embalagem para emprego em
+processo de industrialização, de bens a serem empregados, pelo importador, na elaboração de
+matérias-primas, produtos intermediários e materiais de embalagem destinados a emprego em
+processo de industrialização, e de máquinas, aparelhos, instrumentos e equipamentos, novos,
+para incorporação ao ativo imobilizado, sempre por estabelecimentos industriais instalados na
+Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de Administração da
+Superintendência da Zona Franca de Manaus.
+
+                                                                                              29
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            31
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+No caso de máquinas, aparelhos, instrumentos e equipamentos, novos, a incorporação ao ativo
+imobilizado permite a conversão da suspensão em alíquota zero após dezoito meses (artigo 263,
+§1º, do R/A).
+
+Quanto ao ICMS, vale notar que a legislação do Estado do Amazonas também traz incentivos
+fiscais, como o diferimento e a redução de base de cálculo, por exemplo (artigos 14, inciso I, e 18,
+da Lei Estadual nº 2.826/03.
+
+13.1.3 - Benefícios Fiscais na Exportação
+
+Por tratar-se de área de livre comércio de exportação, as exportações de mercadorias da ZFM
+para o exterior são isentas do Imposto de Exportação.
+
+13.1.4 - Benefícios Fiscais nas vendas para a ZFM
+
+A remessa de mercadorias de origem nacional para a Zona Franca de Manaus será equiparada,
+para efeitos fiscais, a uma exportação brasileira.
+
+Ou seja, a venda de mercadorias nacionais para a ZFM não gera recolhimento dos tributos federais
+(PIS/PASEP, COFINS e IPI) e do ICMS. O recolhimento tributário não ocorrerá tendo em vista a
+imunidade tributária na exportação garantida pela Constituição da República de 1988.
+
+13.1.5 - Benefícios Fiscais na Internação
+
+A saída de mercadorias estrangeiras da ZFM para o restante do território nacional, chamada de
+internação, implica no recolhimento dos tributos exigíveis na importação.
+
+Há, no entanto, um tratamento mais favorável na internação para:
+
+       a) Bagagem de viajantes: é possível que o viajante compre e traga com isenção
+          mercadorias estrangeiras até um limite de US$ 2.000,00. Entretanto, devem ser
+          observados alguns limites quantitativos – pode comprar até 3 unidades de bem com a
+          mesma finalidade, se o valor unitário não ultrapassar US$ 200,00. Se o valor total das
+          mercadorias exceder US$ 2.000,00, será aplicado apenas o Imposto de Importação a
+          uma alíquota de 50% sobre o excesso. Caso o valor das mercadorias apresentadas como
+          bagagem exceder US$ 4.800,00 será aplicada a pena de perdimento sobre o excesso.
+
+Ainda sobre benefícios fiscais na internação aplicáveis à bagagem, quando se trate de mercadorias
+industrializadas com insumos estrangeiros que estiverem saindo da ZFM com destino ao restante
+do território nacional, não haverá tributação, havendo, no entanto, o limite quantitativo de 2 (duas)
+unidades para cada mercadoria.
+
+
+                                                                                                  30
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                32
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+       b) Produtos industrializados com insumos estrangeiros: os produtos industrializados com
+          insumos estrangeiros que sejam destinados a qualquer outra parte do território nacional
+          estarão sujeitos a recolhimento integral do Imposto de Importação na internação,
+          somente em relação à parcela correspondente aos insumos estrangeiros. No que diz
+          respeito ao IPI, haverá isenção sobre o valor total do produto industrializado na ZFM. A
+          condição para que se possa auferir tais benefícios fiscais na internação é o cumprimento
+          do Processo Produtivo Básico (PPB), que, segundo a legislação aduaneira, é o conjunto
+          mínimo de operações, no estabelecimento fabril, que caracteriza a efetiva
+          industrialização de determinado produto.
+
+       c) Mercadorias destinadas às Áreas de Livre Comércio e à Amazônia Ocidental: ao sair da
+          ZFM, com destino à Amazônia Ocidental, não haverá recolhimento tributário
+          relativamente aos produtos compreendidos na pauta do art. 516 do R/A (motores
+          marítimos de centro e de popa; máquinas, implementos e insumos utilizados na
+          agricultura, na pecuária e nas atividades afins; máquinas para construção rodoviária;
+          máquinas, motores e acessórios para instalação industrial; materiais de construção;
+          produtos alimentares; e medicamentos). Da mesma forma, quando uma mercadoria sair
+          da ZFM com destino a uma Área de Livre Comércio situada na Amazônia Ocidental, não
+          haverá recolhimento tributário.
+
+(ATRFB – 2012) A exportação de mercadorias da Zona Franca de Manaus para o exterior, qualquer
+que seja sua origem, está isenta do Imposto de Exportação.
+
+Comentários
+
+A exportação de mercadorias da ZFM para o exterior recebe isenção do IE.
+
+Gabarito: certa
+
+
+13.2 - Zonas de Processamento de Exportações (ZPEs)
+
+As ZPEs consistem em áreas de livre comércio com o exterior, destinadas à instalação de empresas
+direcionadas para a produção de bens a serem comercializados no exterior, a prestação de
+serviços vinculados à industrialização das mercadorias a serem exportadas ou a prestação de
+serviços a serem comercializados ou destinados exclusivamente para o exterior, consideradas
+zonas primárias para efeito de controle aduaneiro.
+                                                                                               31
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             33
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Existe um órgão encarregado de analisar as propostas de criação de Zonas de Processamento de
+Exportação e submetê-las à decisão do Presidente da República, acompanhadas de parecer
+conclusivo. Trata-se do Conselho Nacional das Zonas de Processamento de Exportação (CZPE). O
+CZPE é responsável, também, por analisar e aprovar os projetos de empresas interessadas em se
+instalar nas Zonas de Processamento de Exportação.
+
+O início do funcionamento da Zona de Processamento de Exportação depende, ainda, do prévio
+alfandegamento do conjunto das áreas segregadas na ZPE e destinadas à movimentação, à
+armazenagem e à submissão a despacho aduaneiro de mercadorias procedentes do exterior ou a
+ele destinadas.
+
+De acordo com o artigo 6º-A da Lei nº 11.508/07, as importações ou aquisições no mercado
+interno de máquinas, de aparelhos, de instrumentos e de equipamentos por empresa autorizada
+a operar em ZPE gozam de suspensão da exigibilidade dos seguintes tributos federais: Imposto
+de Importação, IPI, COFINS, COFINS-Importação, PIS, PIS-Importação e AFRMM.
+
+Vale destacar, contudo, que a suspensão mencionada se aplica apenas às máquinas, aos aparelhos,
+aos instrumentos e aos equipamentos, novos ou usados, necessários às atividades da empresa
+autorizada a operar em ZPE, para incorporação ao seu ativo imobilizado.
+
+No que se refere ao IPI, ao PIS, ao PIS-Importação, à COFINS, e a COFINS-Importação, decorrido
+o prazo de dois anos, contados da ocorrência do fato gerador, a suspensão é convertida em
+alíquota zero. No tocante ao II e ao AFRMM, por outro lado, decorrido o prazo de cinco anos,
+contados da ocorrência do fato gerador, a suspensão é convertida em isenção.
+
+Além disso, em conformidade com o disposto no artigo 6º-B da Lei nº 11.508/07, as importações
+ou aquisições no mercado interno de matérias-primas, produtos intermediários e materiais de
+embalagem por empresa autorizada a operar em ZPE também gozam de suspensão da
+exigibilidade dos tributos federais mencionados acima (II, IPI, COFINS, COFINS-Importação, PIS,
+PIS-Importação e AFRMM).
+
+Nesse caso, porém, a suspensão é convertida em alíquota zero (nos casos do IPI, da COFINS, da
+COFINS-Importação, do PIS e do PIS-Importação) ou isenção (nos casos do II e do AFRMM),
+apenas com a exportação do produto final. Dessa forma, os produtos industrializados por empresa
+beneficiária do regime jurídico instituído para as ZPEs podem ser vendidos para o mercado
+interno, porém desde que a pessoa jurídica efetue o pagamento dos tributos que ficaram
+suspensos, com acréscimo de juros e multa de mora.
+
+Ainda no que se refere aos benefícios fiscais, temos que são reduzidas a zero as alíquotas do PIS
+e da COFINS incidentes na contratação (seja importação ou aquisição no mercado interno) de
+serviços por empresa autorizada a operar em ZPE, conforme previsto pelo artigo 6º-D da Lei nº
+11.508/07.
+                                                                                              32
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            34
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+(AFRFB – 2012) De acordo com a legislação em vigor, as empresas instaladas em Zonas de
+Processamento de Exportação (ZPE), caracterizadas como áreas de livre comércio com o exterior,
+não podem vender produtos para o mercado interno.
+
+Comentários
+
+Os produtos industrializados por empresa beneficiária do regime jurídico instituído para as ZPEs
+podem ser vendidos para o mercado interno, desde que a pessoa jurídica efetue o pagamento
+dos tributos que ficaram suspensos, com acréscimo de juros e multa de mora.
+
+Gabarito: errada
+
+
+13.3 - Áreas de Livre Comércio
+
+As áreas de livre comércio de importação e exportação são regimes aduaneiros aplicados em
+áreas especiais que funcionam em certos lugares da Região Norte do País. Trata-se de regiões
+que funcionam sob regime fiscal especial, estabelecido como a finalidade de promover o
+desenvolvimento de áreas fronteiriças específicas e de incrementar as relações bilaterais com os
+países vizinhos, segundo a política de integração latino-americana.
+
+As áreas de livre comércio são administradas pela SUFRAMA (Superintendência da Zona Franca
+de Manaus) e envolvem os perímetros urbanos dos seguintes municípios: Tabatinga (AM), Guajará-
+Mirim (RO), Boa Vista e Bonfim (RR), Macapá e Santana (AP) e Brasiléia, com extensão para o
+município de Epitaciolândia, e Cruzeiro do Sul (AC).
+
+A entrada de produtos em área de livre comércio é feita com suspensão do Imposto de Importação
+e do Imposto sobre Produtos Industrializados. A suspensão se converte, a posteriori, em isenção,
+o que está condicionado à ocorrência de uma das situações previstas no art. 525 do R/A.
+
+Em regra, a venda de mercadorias nacionais ou nacionalizadas para as áreas de livre comércio não
+é equiparada à exportação (ao contrário do que ocorre com as vendas para a ZFM). Tal regra não
+se aplica às vendas de mercadorias nacionais ou nacionalizadas para empresas situadas nas áreas
+de livre comércio de Boa Vista e Bonfim. As vendas para essas duas ALCs são equiparadas à
+exportação.
+
+                                                                                             33
+                                                                                             70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           35
+        www.estrategiaconcursos.com.br                                                       73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Se as mercadorias estrangeiras importadas para as áreas de livre comércio forem destinadas a
+outros pontos do território aduaneiro, estas ficarão sujeitas ao tratamento fiscal e administrativo
+dado às importações do exterior.
+
+(ATRFB – 2012) As áreas de livre comércio serão administradas pela Superintendência da Zona
+Franca de Manaus.
+
+Comentários
+
+Segundo o art. 530, do R/A, a administração das ALC compete à SUFRAMA.
+
+Gabarito: certa
+
+
+13.4 - Amazônia Ocidental
+
+A Amazônia Ocidental também pode ser considerada um regime aduaneiro aplicado em área
+especial, sendo constituída pelos Estados do Amazonas, do Acre, de Rondônia e de Roraima.
+
+O art. 516, do Regulamento Aduaneiro, trata dos benefícios fiscais aplicáveis à Amazônia
+Ocidental. Nesse sentido, não haverá recolhimento tributário quando algum dos produtos
+relacionados nos incisos I a VII do art. 516 sair da ZFM ou de alguma ALC em direção à Amazônia
+Ocidental.
+
+(Questão Inédita) A saída de produtos alimentares importados via Zona Franca de Manaus,
+quando destinados à Amazônia Ocidental, pode ser dispensada da obrigação de recolhimento
+dos impostos exigíveis sobre as importações do exterior.
+
+Comentários
+
+Os benefícios fiscais concedidos pelo DL 288/67 se estendem à Amazônia Ocidental, no que se
+refere a produtos alimentares (artigo 516, inciso VI, do R/A), observada a pauta fixada pelo
+                                                                                                34
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              36
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Ministério da Economia, pelo que a saída desses produtos da Zona Franca de Manaus pode ser
+dispensada da obrigação de recolhimento dos impostos exigíveis sobre as importações do
+exterior, em conformidade com o disposto no artigo 509, inciso III, do R/A.
+
+Gabarito: certa
+
+                                                                                       35
+                                                                                       70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                     37
+        www.estrategiaconcursos.com.br                                                 73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+                                      LISTA DE QUESTÕES
+
+1 – Entreposto Aduaneiro
+
+1. (AFTN-1994) A exploração de entreposto aduaneiro de uso privativo será permitida:
+
+  a) apenas na importação e exclusivamente para estocagem de partes, peças e materiais de
+  reposição ou manutenção para veículos ou equipamentos estrangeiros, em uso no país e
+  empregados na prestação de serviços.
+
+  b) apenas na exportação e exclusivamente pelas empresas de armazéns gerais.
+
+  c) na exportação, para depósito de produtos da empresa permissionária e na importação,
+  para depósito de bens de produção, excetuados os de consumo.
+
+  d) na exportação pelas empresas comerciais exportadoras (trading companies) e na
+  importação em recintos destinados à exposição em feiras e semelhantes.
+
+  e) na exportação e importação exclusivamente para depósito de produtos de relevante
+  interesse para a economia nacional, após análise pela administração aduaneira das razões de
+  interesse público, caso a caso.
+
+2. (TTN-1998) O regime de entreposto aduaneiro na exportação subsiste na modalidade de
+   regime:
+
+  a) comum, a partir da data da saída da mercadoria do estabelecimento do vendedor.
+
+  b) comum, a partir da data da entrada da mercadoria na unidade de entreposto.
+
+  c) comum, a partir da data do registro da chegada do veículo transportador à sede da
+  empresa permissionária do regime.
+
+  d) extraordinário, a partir da data da entrada da mercadoria adquirida no mercado interno
+  por qualquer empresa comercial, industrial ou prestadora de serviços de transporte
+  internacional.
+
+  e) extraordinário, a partir da data da entrada da mercadoria na unidade de entreposto.
+
+3. (AFRF-2002.2-adaptada) No regime aduaneiro especial de entreposto aduaneiro operado em
+   recinto alfandegado
+
+
+                                                                                                36
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              38
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  a) a nacionalização e o despacho para consumo das mercadorias entrepostadas somente
+  poderão ser feitos pelo consignatário, sendo vedadas operações de industrialização, só
+  admissíveis no regime de entreposto industrial e no RECOF.
+
+  b) a nacionalização da mercadoria deverá ser feita pelo consignatário e o despacho para
+  consumo pelo adquirente da mercadoria entrepostada, permitidas apenas as operações de
+  recondicionamento de equipamento para a produção industrial e beneficiamento.
+
+  c) a mercadoria poderá ser nacionalizada pelo adquirente ou pelo consignatário, e, em seu
+  nome, despachada para consumo ou exportada, permitidas, mediante credenciamento do
+  recinto, as operações de montagem, acondicionamento, reacondicionamento,
+  beneficiamento, recondicionamento de partes e peças e materiais de reposição, manutenção
+  e reparo de aeronaves e embarcações, e transformação, no caso de alimentos para consumo
+  de bordo de aeronaves e embarcações ou destinados à exportação.
+
+  d) as mercadorias importadas em consignação, sem cobertura cambial, e entrepostadas
+  poderão ser objeto de exportação, sendo permitidos apenas os serviços conexos e a
+  unitização e desunitização de volumes.
+
+  e) o permissionário ou concessionário de recinto alfandegado de uso público poderá ser
+  beneficiário do regime de entreposto aduaneiro apenas na importação, relativamente a
+  mercadorias que armazene e, neste caso, são permitidas apenas as operações de
+  embalagem, reembalagem, etiquetagem e marcação dos volumes, não sendo considerado
+  contribuinte do IPI relativamente às operações de industrialização efetuadas.
+
+
+3 – Exportação Temporária
+
+4. (ATRFB - 2023) O retorno de uma mercadoria objeto de exportação fora do prazo estipulado
+   para permanência no exterior enseja
+
+  (A) a cobrança apenas de multa, tendo em vista que a mercadoria não se torna estrangeira
+  pelo fato de não haver cumprido o prazo determinado.
+
+  (B) a cobrança de tributos e multas, visto constituir-se em irregularidade prevista no Decreto-
+  Lei nº 37/1966 e no Regulamento Aduaneiro.
+
+  (C) a exigência do pagamento do Imposto de Importação e demais tributos devidos, uma
+  vez que excedendo o prazo a mercadoria se desnacionaliza.
+
+  (D) a apreensão da mercadoria, nos termos do Decreto-Lei nº 37/1966, e do Regulamento
+  Aduaneiro aprovado pelo Decreto nº 6.759/2009.
+
+                                                                                                    37
+                                                                                                    70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                  39
+        www.estrategiaconcursos.com.br                                                              73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  (E) a re-exportação da mercadoria ou a sua reimportação definitiva, mediante o pagamento
+  de tributos e multas previstos no Decreto-Lei nº 37/1966.
+
+5. (TTN-1998) Determinada empresa requereu a concessão e aplicação do regime de exportação
+   temporária a uma mercadoria sujeita à alíquota do Imposto de Exportação de 0.75% ad
+   valorem, garantido por termo de responsabilidade, tendo-lhe sido deferido o pedido, pela
+   autoridade aduaneira jurisdicionante do porto de saída, após o exame da operação em todos
+   os seus aspectos (fiscal, físico, legal, etc). Por ocasião da reimportação da mercadoria, dentro
+   do prazo, o funcionário fiscal, reexaminando o processo, descaracterizou o regime sob o
+   argumento de que para aquela mercadoria não era passível de ser aplicado o regime. O
+   procedimento do funcionário
+
+  a) justificava-se porque era sua obrigação rever a legalidade do ato concessivo do regime em
+  todos os seus aspectos e tomar as providências fiscais cabíveis, dentro do período
+  prescricional de 5 (cinco) anos.
+
+  b) procedia porque, no caso, a mercadoria era sujeita a Imposto de Exportação e lhe
+  competia efetuar o lançamento e cobrança do imposto, uma vez que, no seu entendimento,
+  o regime não deveria ter sido concedido.
+
+  c) não se justificava porque o Imposto de Exportação estava garantido por termo de
+  responsabilidade a ser baixado, tendo em vista a reimportação dentro do prazo, além do
+  que o exame do mérito da aplicação do regime exauriu- se com a sua concessão, não
+  cabendo mais discuti-lo quando da reimportação da mercadoria.
+
+  d) justificava-se porque, nos termos do art. 149 do Código Tributário Nacional, o lançamento
+  é efetuado e revisto de ofício, quando se comprove omissão ou inexatidão, por parte da
+  pessoa legalmente obrigada, no exercício da atividade administrativa, além do que, sua
+  atividade é vinculada e obrigatória sob pena de responsabilidade funcional.
+
+  e) não se justificava porque a entrada, dentro do prazo, no território aduaneiro de mercadoria
+  à qual tenha sido aplicado o regime de exportação temporária não constitui fato gerador do
+  Imposto de Importação, competindo-lhe tão-somente cobrar o Imposto sobre Produtos
+  Industrializados e a multa por descumprimento das obrigações acessórias.
+
+6. (AFRF-2000-adaptada) Leia com atenção as frases abaixo:
+
+  “Vendas no estrangeiro de bens e serviços produzidos em um país”.
+
+  “Entrada de mercadorias e serviços estrangeiros em um país”.
+
+                                                                                                   38
+                                                                                                   70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 40
+        www.estrategiaconcursos.com.br                                                             73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  “Retorno a um país de mercadorias de sua produção, anteriormente remetidas a um segundo
+  país, após maior ou menor grau de transformação realizada por este último”.
+
+  “Retorno ao exterior de um bem admitido temporariamente para ser submetido a reparo”.
+
+  “Remessa de bens de uma região para outra dentro do mesmo país.”
+
+  Os conceitos acima mencionados referem-se respectivamente a:
+
+  a) reexportação, exportação interna, exportação, importação, reimportação.
+
+  b) exportação, importação, reimportação, reexportação, exportação interna.
+
+  c) reimportação, reexportação, exportação interna, exportação e importação.
+
+  d) Importação, reimportação, reexportação, exportação interna e exportação.
+
+  e) exportação interna, exportação, importação, reimportação, reexportação.
+
+7. (AFRF-2002.1) Sobre uma mercadoria que foi reimportada é correto afirmar que:
+
+  a) tendo sido importada pelo país A, foi exportada para um outro país, que não o de origem
+  da mercadoria, sem ter sofrido qualquer transformação.
+
+  b) tendo sido produzida no país A, foi exportada ao país B, tendo, em seguida, sido
+  importada deste por um terceiro país.
+
+  c) tendo sido produzida no país A, foi exportada ao país B, onde sofreu transformação.
+
+  d) tendo sido importada pelo país A, nele sofreu transformação e foi, em seguida, exportada
+  para um segundo país.
+
+  e) tendo sido produzida no país A, foi exportada para o país B onde sofreu transformação,
+  após o que retornou ao país de origem.
+
+8. (Ajudante de Despachante Aduaneiro – 2018) Quanto ao regime aduaneiro de exportação
+   temporária, assinale a opção correta.
+
+  a) O regime aduaneiro especial de exportação temporária é o que permite a saída do País
+  de bem estrangeiro condicionado à reimportação em prazo determinado no mesmo estado
+  em que foi exportado.
+
+                                                                                                39
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              41
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  b) Os veículos de transporte comercial brasileiros conduzindo carga ou passageiros não são
+  automaticamente submetidos ao regime de exportação temporária.
+
+  c) Quando se tratar de bens cuja exportação estiver sujeita à prévia manifestação de outros
+  órgãos da administração pública, a concessão do regime dependerá da satisfação desse
+  requisito.
+
+  d) A exportação definitiva não é uma das hipóteses de extinção do regime de exportação
+  temporária.
+
+  e) O despacho aduaneiro de reimportação dos bens exportados temporariamente deverá ser
+  processado exclusivamente com base em DSI registrada no Siscomex.
+
+9. (Ajudante de Despachante Aduaneiro – 2018) Com relação ao regime aduaneiro de exportação
+   temporária, assinale a alternativa incorreta.
+
+  a) Poderão ser submetidos ao regime de exportação temporária os bens destinados à
+  promoção comercial, inclusive amostras sem destinação comercial.
+
+  b) Os bens reutilizáveis destinados ao transporte de outros bens não se submetem ao regime
+  de exportação temporária.
+
+  c) Exportação sem cobertura cambial é condição para a concessão do regime de exportação
+  temporária.
+
+  d) O prazo de vigência do regime será, em todos os casos, de 12 meses, prorrogável
+  automaticamente por mais 12 meses.
+
+  e) Quando se tratar de exportação temporária de bem sujeito ao imposto de exportação, o
+  montante dos tributos com exigibilidade suspensa em decorrência da aplicação do regime
+  será consubstanciado em TR, dispensada a garantia.
+
+
+4 – Loja Franca
+
+10. (TTN-1998-adaptada) No regime aduaneiro especial de loja franca:
+
+  a) poderá ser autorizado o seu funcionamento na zona primária de porto ou aeroporto, nos
+  termos e condições fixados pelo Ministro da Fazenda, para venda de mercadoria nacional ou
+  estrangeira, a passageiros de viagens internacionais, contra pagamento em moeda nacional
+  ou estrangeira.
+
+                                                                                                40
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              42
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  b) somente poderá ser autorizado o seu funcionamento em zona primária de ponto de
+  fronteira alfandegado para venda de mercadoria estrangeira a passageiros chegando de
+  viagem internacional por via aérea, terrestre, fluvial ou lacustre.
+
+  c) poderá também ser autorizado o seu funcionamento em depósitos alfandegados de
+  empresas de transporte rodoviário localizados em área contígua à de porto ou aeroporto
+  alfandegado
+
+  d) será autorizado seu funcionamento em recintos alfandegados de zona secundária próxima
+  a porto ou aeroporto para venda de mercadoria nacional exclusivamente a passageiros com
+  destino ao exterior.
+
+  e) somente poderão ser vendidas mercadorias nacionais ou estrangeiras a passageiros de
+  viagens internacionais, sendo vedado nesse regime o fornecimento de produtos destinados
+  ao uso ou consumo de bordo de embarcações ou aeronaves, de bandeira estrangeira,
+  aportadas no país.
+
+11. (TTN-1997-adaptada) As lojas francas instaladas na Zona Primária de porto e aeroporto
+    destinam-se a venda de mercadoria
+
+  a) nacional ou estrangeira a passageiros de viagens internacionais, contra pagamento em
+  moeda nacional ou estrangeira.
+
+  b) nacional ou estrangeira somente a passageiro de viagem internacional em trânsito pelo
+  País, contra pagamento em moeda estrangeira conversível.
+
+  c) estrangeira ou nacional somente a passageiro de viagem internacional saindo do País,
+  contra pagamento em moeda estrangeira conversível ou cheque de viagem.
+
+  d) estrangeira somente a passageiros de viagem internacional chegando ao País, contra
+  pagamento em cheque de viagem ou moeda estrangeira conversível.
+
+  e) estrangeira ou nacional importada por firmas permissionárias de entrepostos aduaneiros,
+  a passageiros e tripulantes de veículos em viagem internacional contra pagamento
+  exclusivamente em moeda estrangeira conversível.
+
+
+5 – Depósito Especial
+
+12. (AFRFB-2009) O regime aduaneiro especial que contempla a estocagem de partes, peças e
+    materiais de reposição ou manutenção, com suspensão do pagamento dos impostos federais,
+    da contribuição para o PIS/PASEP - Importação e da COFINS importação, para veículos,
+    máquinas, equipamentos, aparelhos e instrumentos estrangeiros, nacionalizados ou não, e
+                                                                                               41
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             43
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+   nacionais em que tenham sido empregadas partes, peças e componentes estrangeiros, nos
+   casos definidos pelo Ministro da Fazenda, é conhecido como:
+
+  a) depósito alfandegado.
+
+  b) trânsito aduaneiro.
+
+  c) depósito especial.
+
+  d) loja franca.
+
+  e) depósito alfandegado certificado.
+
+
+6 – Depósito Afiançado
+
+13. (TTN-1997-adaptada) O local na zona primária, autorizado à guarda de materiais de
+    manutenção e reparo de embarcações e aeronaves utilizadas no transporte comercial
+    internacional, de empresas nacionais ou estrangeiras autorizadas a operar nesse serviço
+    denomina-se:
+
+  a) depósito afiançado
+
+  b) depósito especial alfandegado
+
+  c) depósito alfandegado de zona primária
+
+  d) depósito franco
+
+  e) depósito alfandegado privativo
+
+
+10 – REPEX
+
+14. (AFRFB - 2023) O regime aduaneiro especial do REPEX consiste na
+
+  (A) autorização para importação de petróleo bruto, gasolina e óleo diesel, com o fim de se
+  manter no país estoque estratégico desses bens.
+
+  (B) autorização para importação de petróleo bruto, pela Petrobras, com vistas a manter
+  estoque estratégico desses produtos.
+
+  (C) importação de petróleo bruto e gás natural, com o fim de atender eventual necessidade
+  no país dos referidos hidrocarbonetos.
+                                                                                               42
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             44
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  (D) importação de petróleo, basicamente para fornecimento a mercados estrangeiros, em
+  regra, para países limítrofes.
+
+  (E) importação em períodos de crise energética, não podendo, em hipótese alguma, ser
+  exportado a outros países.
+
+
+11 – REPORTO
+
+15. (ATRFB - 2023) Em relação às características do Regime Tributário para Incentivo
+    Modernização e à Ampliação da Estrutura Portuária – Reporto, assinale a afirmativa correta.
+
+  (A) O regime se estende ao transporte de mercadorias por via ferroviária e aérea, sendo que,
+  neste último caso, limitado às operações em aeroportos internacionais.
+
+  (B) Podem habilitar-se ao regime fiscal previsto no enunciado o operador portuário, mas não
+  o concessionário de transporte ferroviário, ainda que internacional.
+
+  (C) Pode habilitar-se ao regime a empresa que explora instalações portuárias de uso privativo
+  misto ou exclusivo, incluindo as que operam com embarcações off shore.
+
+  (D) O regime prevê a isenção total dos tributos federais, entre eles incluídos o Imposto de
+  Importação, o IPI e as contribuições para o PIS/PASEP-Importação e para a COFINS-
+  Importação.
+
+  (E) Em caso de descumprimento das normas relativas ao regime, sujeita-se o infrator ao
+  pagamento da multa de 100% calculada sobre o valor do bem importado.
+
+
+13 – Regimes Aduaneiros Aplicados em Áreas Especiais
+
+13.1 – Zona Franca de Manaus
+
+16. (ATRFB - 2023) A Zona Franca de Manaus consiste em uma área de livre comércio de
+    importação e de exportação e de incentivos fiscais, com vistas a promover e desenvolver toda
+    uma região distante dos centros produtores e financeiros. Tendo em vista esses objetivos, são
+    dispensados tratamentos tributários que beneficiam a indústria e as populações da região.
+    Entre eles, é correto citar
+
+  (A) a isenção dos Impostos de Importação e sobre Produtos Industrializados, estando em
+  estudo convênio com o Estado do Amazonas para o fim de estender a isenção ao imposto
+  estadual ICMS.
+
+
+                                                                                                  43
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                45
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  (B) a isenção, não só do Imposto de Importação e do IPI, que incidem sobre o comércio
+  exterior, como, também, do ICMS e das contribuições para o PIS/PASEP e a COFINS sobre
+  as importações.
+
+  (C) a suspensão dos impostos sobre as importações, que se convertem em isenção quando
+  os bens se destinem à venda para outros Estados da Federação, exceto para os Estados do
+  Amazonas e do Pará.
+
+  (D) a extensão das isenções de tributos devidos pela importação e pela exportação,
+  relativamente a bens destinados aos Estados da Região Norte, a saber, Pará, Rondônia,
+  Roraima, Acre e Amapá.
+
+  (E) a isenção de tributos incidentes sobre a importação de bens que se destinem à
+  industrialização no Parque Industrial, sendo, no entanto, vedada a venda desses produtos
+  para outros Estados.
+
+17. (ATRFB – 2012) O art. 40 do Ato das Disposições Constitucionais Transitórias (ADCT), manteve
+    a Zona Franca de Manaus, com suas características de área de livre comércio, de exportação e
+    importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação
+    da Constituição Federal.
+
+18. (ATRFB – 2012) O art. 92 do Ato das Disposições Constitucionais Transitórias, incluído pela
+    Emenda Constitucional n. 42, de 19 de dezembro de 2003, acrescentou quinze anos ao prazo
+    fixado no art. 40 do ADCT.
+
+19. (TTN-1997) As mercadorias estrangeiras importadas para a Zona Franca de Manaus, quando
+    desta saírem para outros pontos do Território Nacional sem sofrerem quaisquer processos de
+    industrialização, exceção feita à bagagem de passageiros e as destinadas a Amazônia
+    Ocidental:
+
+  a) não estão sujeitas a tributação tendo em vista que sua situação fiscal já foi regularizada
+  quando de seu ingresso na referida Zona Franca.
+
+  b) estão sujeitas apenas ao pagamento do Imposto sobre Produtos Industrializados - IPI e ao
+  Imposto sobre Circulação de Mercadorias e Serviços – ICMS.
+
+  c) ficam sujeitas ao pagamento de todos os impostos exigíveis sobre importações do exterior.
+
+  d) ficam sujeitas apenas ao pagamento do Imposto de Importação, salvo quando se
+  destinarem à Amazônia Ocidental, quando sairão com isenção do referido imposto.
+
+                                                                                                  44
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                46
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  e) não estão sujeitas ao controle administrativo das importações (licenciamento) sujeitando-
+  se porém ao regime fiscal aplicável aos regimes aduaneiros especiais (suspensão dos
+  tributos).
+
+20. (AFRF-2002.1) A Zona Franca de Manaus é uma área de livre comércio de importação e de
+    exportação e de incentivos fiscais especiais, estabelecida com a finalidade de criar no interior
+    da Amazônia um centro industrial, comercial e agropecuário dotado de condições econômicas
+    que permitam seu desenvolvimento, em face dos fatores locais e da grande distância a que se
+    encontram os centros consumidores de seus produtos. (Dec.Lei 288/67, art.1º, artigo 389 do
+    Dec.91.030/85 - Regulamento Aduaneiro) Em face do enunciado, assinale a opção correta.
+
+  a) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  especial típico.
+
+  b) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário
+  da Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  aplicado em áreas especiais.
+
+  c) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. Por ser área de livre comércio não
+  lhe corresponde qualquer regime aduaneiro especial, típico ou atípico.
+
+  d) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário
+  da Amazônia, sendo definida como área de livre comércio. É, portanto, um regime aduaneiro
+  comum.
+
+  e) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  especial típico unicamente no que se refere ao trânsito de bens ingressados na Zona Franca
+  e destinados a qualquer outro ponto do território aduaneiro.
+
+21. (AFRF-2003) A saída temporária de mercadorias da Zona Franca de Manaus, das Áreas de Livre
+    Comércio e da Amazônia Ocidental e sua readmissão serão feitas com base em:
+
+  a) Declaração de Saída Temporária (DST)
+
+  b) Declaração Simplificada de Internação (DSI)
+
+  c) Demonstrativo do Coeficiente de Redução (DCR)
+
+  d) Declaração para Controle de Internação (DCI)
+
+                                                                                                 45
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               47
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  e) Declaração de Internação Temporária (DIT)
+
+22. (Ajudante de Despachante Aduaneiro – 2018-adaptada) Quanto aos regimes aduaneiros
+    especiais, julgue o item a seguir.
+
+   Não está entre os objetivos da Zona Franca de Manaus (ZFM) promover a melhor integração
+   produtiva e social na Amazônia Ocidental.
+
+13.2 – Zonas de Processamento de Exportações
+
+23. (AFTN-1996) Uma zona de processamento de exportação (ZPE) corresponde a uma área onde:
+
+  a) As exportações de terceiros países ingressam em caráter temporário, e sem sofrerem
+  qualquer carga fiscal, para transitarem rumo aos seus mercados de destino.
+
+  b) As exportações não estão sujeitas a restrições independentemente de sua origem e
+  destino.
+
+  c) As importações usufruem de favorecimento fiscal sempre que forem empregadas na
+  produção de bens a serem exportados.
+
+  d) Há medidas restritivas às importações e incentivos creditícios e fiscais à exportação.
+
+  e) Há um regime de livre comércio com o exterior e que é destinado à instalação de empresas
+  industriais voltadas para a exportação.
+
+13.3 – Áreas de Livre Comércio
+
+24. (ATRFB – 2012) A venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas
+    estabelecidas fora das Áreas de Livre Comércio de Boa Vista – ALCBV e de Bonfim – ALCB, de
+    que trata a Lei n. 8.256, de 25 de novembro de 1991, para empresas ali estabelecidas, fica
+    equiparada à exportação.
+
+25. (TTN-1998) As Áreas de Livre Comércio criadas no Brasil têm cumulativamente as seguintes
+    características:
+
+  a) regime fiscal especial, localizam-se em qualquer região do País, têm por finalidade a
+  integração latino-americana
+
+  b) regime fiscal atípico, localizam-se de preferência em regiões adversas, atuam
+  exclusivamente na exportação e têm por finalidade desenvolver a política de integração com
+  os países do MERCOSUL.
+
+                                                                                                46
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              48
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+     Áulus Dias Warzeé Mattos
+     Aula 05
+
+      c) regime fiscal especial, assemelhado ao da Zona Franca de Manaus, operando
+      exclusivamente na importação, criadas exclusivamente para promover a integração das
+      regiões isoladas com o restante do território nacional, dentro da política de integração
+      nacional.
+
+      d) regime aduaneiro especial, são criadas para operar exclusivamente na importação e com
+      finalidade de promover o desenvolvimento das regiões carentes para incrementar o comércio
+      exterior brasileiro.
+
+      e) regime fiscal especial, operam na importação e exportação, são criadas com a finalidade
+      precípua de promover o desenvolvimento das regiões fronteiriças e com o objetivo de
+      incrementar as relações bilaterais com países vizinhos, segundo a política de integração
+      latino-americana.
+
+13.4 – Amazônia Ocidental
+
+26. (ATRFB – 2012) De acordo com o Decreto-Lei n. 291, de 28 de fevereiro de 1967, a Amazônia
+    Ocidental é constituída pelos Estados do Amazonas, do Acre, de Rondônia e de Roraima.
+
+GABARITO
+
+           1. Letra D                     8. Letra C                        15. Letra C   22. E
+           2. Letra B                     9. Anulada                        16. Anulada   23. Letra E
+           3. Letra C                     10. Letra A                       17. C         24. C
+           4. Letra A                     11. Letra A                       18. E         25. Letra E
+           5. Letra C                     12. Letra C                       19. Letra C   26. C
+           6. Letra B                     13. Letra A                       20. Letra B
+           7. Letra E                     14. D                             21. Letra A
+
+                                                                                                        47
+                                                                                                        70
+
+               Receita Federal (Analista Tributário) Legislação Aduaneira                               49
+               www.estrategiaconcursos.com.br                                                           73
+
+                                            
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+                                 QUESTÕES COMENTADAS
+
+1 – Entreposto Aduaneiro
+
+1. (AFTN-1994) A exploração de entreposto aduaneiro de uso privativo será permitida:
+
+  a) apenas na importação e exclusivamente para estocagem de partes, peças e materiais de
+  reposição ou manutenção para veículos ou equipamentos estrangeiros, em uso no país e
+  empregados na prestação de serviços.
+
+  b) apenas na exportação e exclusivamente pelas empresas de armazéns gerais.
+
+  c) na exportação, para depósito de produtos da empresa permissionária e na importação,
+  para depósito de bens de produção, excetuados os de consumo.
+
+  d) na exportação pelas empresas comerciais exportadoras (trading companies) e na
+  importação em recintos destinados à exposição em feiras e semelhantes.
+
+  e) na exportação e importação exclusivamente para depósito de produtos de relevante
+  interesse para a economia nacional, após análise pela administração aduaneira das razões de
+  interesse público, caso a caso.
+
+Comentários
+
+Letra A e B: erradas. O entreposto aduaneiro de uso privativo será permitido na importação e na
+exportação.
+
+Letra C e E: erradas. Na exportação, o entreposto aduaneiro de uso privativo será aquele operado
+por empresa comercial exportadora. Por sua vez, na importação, o entreposto aduaneiro de uso
+privativo será aquele operado nas hipóteses elencadas pelo art. 405, inciso I, do R/A (feiras,
+congressos, mostras).
+
+Resta-nos a letra D, que é a resposta correta.
+
+Gabarito: letra D
+
+2. (TTN-1998) O regime de entreposto aduaneiro na exportação subsiste na modalidade de
+   regime:
+
+  a) comum, a partir da data da saída da mercadoria do estabelecimento do vendedor.
+
+
+                                                                                                45
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              50
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  b) comum, a partir da data da entrada da mercadoria na unidade de entreposto.
+
+  c) comum, a partir da data do registro da chegada do veículo transportador à sede da
+  empresa permissionária do regime.
+
+  d) extraordinário, a partir da data da entrada da mercadoria adquirida no mercado interno
+  por qualquer empresa comercial, industrial ou prestadora de serviços de transporte
+  internacional.
+
+  e) extraordinário, a partir da data da entrada da mercadoria na unidade de entreposto.
+
+Comentários
+
+Letra A e C: erradas. O entreposto aduaneiro na exportação, na modalidade comum, é aquele
+operado em recinto alfandegado de uso público. O início do prazo de concessão do regime
+comum começa a contar a partir da data da entrada da mercadoria na unidade de armazenagem.
+
+Letra D e E: erradas. O entreposto aduaneiro na exportação, na modalidade extraordinário, é
+aquele operado por empresa comercial exportadora. O início do prazo de concessão do regime
+extraordinário começa a contar a partir da data da saída da mercadoria do estabelecimento
+produtor-vendedor.
+
+Resta-nos a letra B, que descreve perfeitamente o momento em que se inicia a contagem do prazo
+de concessão do regime de entreposto aduaneiro na exportação, na modalidade comum.
+
+Gabarito: letra B
+
+3. (AFRF-2002.2-adaptada) No regime aduaneiro especial de entreposto aduaneiro operado em
+   recinto alfandegado
+
+  a) a nacionalização e o despacho para consumo das mercadorias entrepostadas somente
+  poderão ser feitos pelo consignatário, sendo vedadas operações de industrialização, só
+  admissíveis no regime de entreposto industrial e no RECOF.
+
+  b) a nacionalização da mercadoria deverá ser feita pelo consignatário e o despacho para
+  consumo pelo adquirente da mercadoria entrepostada, permitidas apenas as operações de
+  recondicionamento de equipamento para a produção industrial e beneficiamento.
+
+  c) a mercadoria poderá ser nacionalizada pelo adquirente ou pelo consignatário, e, em seu
+  nome, despachada para consumo ou exportada, permitidas, mediante credenciamento do
+  recinto, as operações de montagem, acondicionamento, reacondicionamento,
+  beneficiamento, recondicionamento de partes e peças e materiais de reposição, manutenção
+
+                                                                                              46
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            51
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  e reparo de aeronaves e embarcações, e transformação, no caso de alimentos para consumo
+  de bordo de aeronaves e embarcações ou destinados à exportação.
+
+  d) as mercadorias importadas em consignação, sem cobertura cambial, e entrepostadas
+  poderão ser objeto de exportação, sendo permitidos apenas os serviços conexos e a
+  unitização e desunitização de volumes.
+
+  e) o permissionário ou concessionário de recinto alfandegado de uso público poderá ser
+  beneficiário do regime de entreposto aduaneiro apenas na importação, relativamente a
+  mercadorias que armazene e, neste caso, são permitidas apenas as operações de
+  embalagem, reembalagem, etiquetagem e marcação dos volumes, não sendo considerado
+  contribuinte do IPI relativamente às operações de industrialização efetuadas.
+
+Comentários
+
+Letra A: errada. As mercadorias admitidas no regime aduaneiro especial de entreposto aduaneiro
+poderão, sim, ser objeto de operações de industrialização.
+
+Letra B: errada. O despacho para consumo poderá ser feito pelo adquirente ou pelo consignatário.
+Além disso, são autorizados, em regime de entreposto aduaneiro, diversos tipos de operações de
+industrialização.
+
+Letra C: correta. Várias informações importantes nessa assertiva:
+
+       a) A nacionalização da mercadoria entrepostada poderá ser feita pelo consignatário
+          (beneficiário do regime) ou pelo adquirente.
+
+       b) São formas de extinção do entreposto aduaneiro na importação o despacho para
+          consumo e a exportação.
+
+       c) No entreposto aduaneiro, são autorizadas diversas operações de industrialização.
+
+Letra D: errada. São autorizadas diferentes operações de industrialização em um entreposto
+aduaneiro.
+
+Letra E: errada. O permissionário ou concessionário do recinto alfandegado poderá ser
+beneficiário do regime de entreposto aduaneiro na importação, quando figurar como
+consignatário da mercadoria.
+
+Gabarito: letra C
+
+                                                                                             47
+                                                                                             70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           52
+        www.estrategiaconcursos.com.br                                                       73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+3 – Exportação Temporária
+
+4. (ATRFB - 2023) O retorno de uma mercadoria objeto de exportação fora do prazo estipulado
+   para permanência no exterior enseja
+
+  (A) a cobrança apenas de multa, tendo em vista que a mercadoria não se torna estrangeira
+  pelo fato de não haver cumprido o prazo determinado.
+
+  (B) a cobrança de tributos e multas, visto constituir-se em irregularidade prevista no Decreto-
+  Lei nº 37/1966 e no Regulamento Aduaneiro.
+
+  (C) a exigência do pagamento do Imposto de Importação e demais tributos devidos, uma
+  vez que excedendo o prazo a mercadoria se desnacionaliza.
+                                                        ==219a34==
+
+  (D) a apreensão da mercadoria, nos termos do Decreto-Lei nº 37/1966, e do Regulamento
+  Aduaneiro aprovado pelo Decreto nº 6.759/2009.
+
+  (E) a re-exportação da mercadoria ou a sua reimportação definitiva, mediante o pagamento
+  de tributos e multas previstos no Decreto-Lei nº 37/1966.
+
+Comentários:
+
+De acordo com o artigo 74, inciso II, do Regulamento Aduaneiro, não constitui fato gerador do
+Imposto de Importação a entrada no território aduaneiro de mercadoria à qual tenha sido aplicado
+o regime de exportação temporária, ainda que o regime tenha sido descumprido.
+
+Isso porque, como a remessa do bem ao exterior não teve caráter de definitividade, não se
+considera que houve desnacionalização. Desse modo, o bem não pode ser considerado
+estrangeiro quando retorna ao País.
+
+O descumprimento do regime de exportação temporária é uma infração prevista pela Legislação
+Aduaneira, punida com multa equivalente a 5% do preço normal da mercadoria, nos termos do
+artigo 724 do Regulamento Aduaneiro.
+
+Assim:
+
+Letra A: certa. Perfeito. Como o regime foi descumprido, há incidência de multa, mas não há
+cobrança de tributos, porque a mercadoria não se tornou estrangeira, não se desnacionalizou.
+
+Letra B: errada. Não há cobrança de tributos no retorno, apesar do descumprimento, porque a
+mercadoria não se tornou estrangeira, não se desnacionalizou.
+
+
+                                                                                                    48
+                                                                                                    70
+
+         Receita Federal (Analista Tributário) Legislação Aduaneira                                 53
+         www.estrategiaconcursos.com.br                                                             73
+
+                                      
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Letra C: errada. Não há cobrança de tributos no retorno, apesar do descumprimento,
+precisamente porque se entende que a mercadoria não se tornou estrangeira, não se
+desnacionalizou.
+
+Letra D: errada. O descumprimento do regime é considerado uma infração à Legislação
+Aduaneira, mas essa infração é punida com multa equivalente a 5% do preço normal da
+mercadoria, nos termos do artigo 724 do Regulamento Aduaneiro. Não há apreensão da
+mercadoria, notadamente porque não se aplica a pena de perdimento.
+
+Letra E: errada. A reexportação se aplica no âmbito da Admissão Temporária (não no contexto da
+Exportação Temporária). No mais, não há pagamento de tributos na reimportação, porque a
+mercadoria não se tornou estrangeira pelo simples descumprimento do regime.
+
+Gabarito: letra A.
+
+5. (TTN-1998) Determinada empresa requereu a concessão e aplicação do regime de exportação
+   temporária a uma mercadoria sujeita à alíquota do Imposto de Exportação de 0.75% ad
+   valorem, garantido por termo de responsabilidade, tendo-lhe sido deferido o pedido, pela
+   autoridade aduaneira jurisdicionante do porto de saída, após o exame da operação em todos
+   os seus aspectos (fiscal, físico, legal, etc). Por ocasião da reimportação da mercadoria, dentro
+   do prazo, o funcionário fiscal, reexaminando o processo, descaracterizou o regime sob o
+   argumento de que para aquela mercadoria não era passível de ser aplicado o regime. O
+   procedimento do funcionário
+
+  a) justificava-se porque era sua obrigação rever a legalidade do ato concessivo do regime em
+  todos os seus aspectos e tomar as providências fiscais cabíveis, dentro do período
+  prescricional de 5 (cinco) anos.
+
+  b) procedia porque, no caso, a mercadoria era sujeita a Imposto de Exportação e lhe
+  competia efetuar o lançamento e cobrança do imposto, uma vez que, no seu entendimento,
+  o regime não deveria ter sido concedido.
+
+  c) não se justificava porque o Imposto de Exportação estava garantido por termo de
+  responsabilidade a ser baixado, tendo em vista a reimportação dentro do prazo, além do
+  que o exame do mérito da aplicação do regime exauriu- se com a sua concessão, não
+  cabendo mais discuti-lo quando da reimportação da mercadoria.
+
+  d) justificava-se porque, nos termos do art. 149 do Código Tributário Nacional, o lançamento
+  é efetuado e revisto de ofício, quando se comprove omissão ou inexatidão, por parte da
+  pessoa legalmente obrigada, no exercício da atividade administrativa, além do que, sua
+  atividade é vinculada e obrigatória sob pena de responsabilidade funcional.
+
+
+                                                                                                 49
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               54
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  e) não se justificava porque a entrada, dentro do prazo, no território aduaneiro de mercadoria
+  à qual tenha sido aplicado o regime de exportação temporária não constitui fato gerador do
+  Imposto de Importação, competindo-lhe tão-somente cobrar o Imposto sobre Produtos
+  Industrializados e a multa por descumprimento das obrigações acessórias.
+
+Comentários
+
+Segundo o art. 445, do R/A, o exame do mérito de aplicação do regime de exportação temporária
+exaure-se com a sua concessão, não cabendo mais discuti-lo quando da reimportação da
+mercadoria. Assim, não pode a autoridade aduaneira, por ocasião da reimportação,
+descaracterizar o regime com a alegação de que a exportação temporária não poderia ter sido
+concedida. Destaque-se que o Imposto de Exportação estava suspenso e consubstanciado em
+Termo de Responsabilidade. A resposta é a letra C.
+
+Gabarito: letra C
+
+6. (AFRF-2000-adaptada) Leia com atenção as frases abaixo:
+
+  “Vendas no estrangeiro de bens e serviços produzidos em um país”.
+
+  “Entrada de mercadorias e serviços estrangeiros em um país”.
+
+  “Retorno a um país de mercadorias de sua produção, anteriormente remetidas a um segundo
+  país, após maior ou menor grau de transformação realizada por este último”.
+
+  “Retorno ao exterior de um bem admitido temporariamente para ser submetido a reparo”.
+
+  “Remessa de bens de uma região para outra dentro do mesmo país.”
+
+  Os conceitos acima mencionados referem-se respectivamente a:
+
+  a) reexportação, exportação interna, exportação, importação, reimportação.
+
+  b) exportação, importação, reimportação, reexportação, exportação interna.
+
+  c) reimportação, reexportação, exportação interna, exportação e importação.
+
+  d) Importação, reimportação, reexportação, exportação interna e exportação.
+
+  e) exportação interna, exportação, importação, reimportação, reexportação.
+
+Comentários
+
+
+                                                                                                   50
+                                                                                                   70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 55
+        www.estrategiaconcursos.com.br                                                             73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+       a) A venda no estrangeiro de bens e serviços produzidos em um país é uma exportação.
+
+       b) A entrada de mercadorias e serviços estrangeiros em um país é uma importação.
+
+       c) O retorno a um país de mercadorias de sua produção, anteriormente remetidas a um
+          segundo país, após maior ou menor grau de transformação realizada por este último é
+          uma reimportação.
+
+       d) O retorno ao exterior de um bem admitido temporariamente para ser submetido a
+          reparo é uma reexportação.
+
+       e) A remessa de bens de uma região para outra dentro do mesmo país é o que a ESAF
+          chamou de “exportação interna”. Esse conceito não mais se aplica nos dias atuais.
+
+Gabarito: letra B
+
+7. (AFRF-2002.1) Sobre uma mercadoria que foi reimportada é correto afirmar que:
+
+  a) tendo sido importada pelo país A, foi exportada para um outro país, que não o de origem
+  da mercadoria, sem ter sofrido qualquer transformação.
+
+  b) tendo sido produzida no país A, foi exportada ao país B, tendo, em seguida, sido
+  importada deste por um terceiro país.
+
+  c) tendo sido produzida no país A, foi exportada ao país B, onde sofreu transformação.
+
+  d) tendo sido importada pelo país A, nele sofreu transformação e foi, em seguida, exportada
+  para um segundo país.
+
+  e) tendo sido produzida no país A, foi exportada para o país B onde sofreu transformação,
+  após o que retornou ao país de origem.
+
+Comentários
+
+O termo reimportação se refere à situação em que uma mercadoria é exportada a título
+temporário e, posteriormente, retorna ao país de origem. A letra E descreve perfeitamente uma
+reimportação, já que a mercadoria é fabricada em um país, sendo exportada para outro com a
+finalidade de sofrer uma transformação. A mercadoria, em momento algum, se desnacionalizou,
+já que sua situação no outro país seria somente temporária. Ela só estava ali para sofrer uma
+transformação, após o que retorna ao país de origem. O regime aduaneiro especial aplicável a
+essa situação é o de exportação temporária para aperfeiçoamento passivo.
+
+Gabarito: letra E
+
+                                                                                                51
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              56
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+8. (Ajudante de Despachante Aduaneiro – 2018) Quanto ao regime aduaneiro de exportação
+   temporária, assinale a opção correta.
+
+  a) O regime aduaneiro especial de exportação temporária é o que permite a saída do País
+  de bem estrangeiro condicionado à reimportação em prazo determinado no mesmo estado
+  em que foi exportado.
+
+  b) Os veículos de transporte comercial brasileiros conduzindo carga ou passageiros não são
+  automaticamente submetidos ao regime de exportação temporária.
+
+  c) Quando se tratar de bens cuja exportação estiver sujeita à prévia manifestação de outros
+  órgãos da administração pública, a concessão do regime dependerá da satisfação desse
+  requisito.
+
+  d) A exportação definitiva não é uma das hipóteses de extinção do regime de exportação
+  temporária.
+
+  e) O despacho aduaneiro de reimportação dos bens exportados temporariamente deverá ser
+  processado exclusivamente com base em DSI registrada no Siscomex.
+
+Comentários
+
+Letra A: errada. O regime de exportação temporária é o que permite a saída, do País, com
+suspensão do pagamento do imposto de exportação, de mercadoria nacional ou nacionalizada,
+condicionada à reimportação em prazo determinado, no mesmo estado em que foi exportada.
+
+Letra B: errada. Os veículos de transporte comercial brasileiros, conduzindo carga ou passageiros,
+são automaticamente submetidos ao regime de exportação temporária, de acordo com o artigo
+92, inciso II, da IN RFB nº 1.600/15.
+
+Letra C: correta. Perfeito. No caso de bens cuja exportação esteja sujeita à prévia manifestação
+de outros órgãos da administração pública, a concessão do regime dependerá do cumprimento
+desse requisito, conforme estabelece o artigo 94, parágrafo único, da IN RFB nº 1.600/15.
+
+Letra D: errada. A exportação definitiva é prevista como hipótese de extinção do regime pelo
+artigo 443, inciso II, do R/A.
+
+Letra E: errada. Não há essa exigência. À época da prova, o artigo 105, da IN RFB nº 1.600/15,
+estabelecia que o despacho aduaneiro de reimportação dos bens exportados temporariamente
+poderia ser processado com base em DI ou DSI registrada no Siscomex.
+
+                                                                                                52
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              57
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Atualmente, o mesmo artigo 105, da IN RFB nº 1.600/15, com a redação dada pela IN RFB nº
+1.989/20, prevê que o despacho aduaneiro de importação que servirá de base para a extinção da
+aplicação do regime será processado com base em DI ou Duimp.
+
+Gabarito: letra C
+
+9. (Ajudante de Despachante Aduaneiro – 2018) Com relação ao regime aduaneiro de exportação
+   temporária, assinale a alternativa incorreta.
+
+  a) Poderão ser submetidos ao regime de exportação temporária os bens destinados à
+  promoção comercial, inclusive amostras sem destinação comercial.
+
+  b) Os bens reutilizáveis destinados ao transporte de outros bens não se submetem ao regime
+  de exportação temporária.
+
+  c) Exportação sem cobertura cambial é condição para a concessão do regime de exportação
+  temporária.
+
+  d) O prazo de vigência do regime será, em todos os casos, de 12 meses, prorrogável
+  automaticamente por mais 12 meses.
+
+  e) Quando se tratar de exportação temporária de bem sujeito ao imposto de exportação, o
+  montante dos tributos com exigibilidade suspensa em decorrência da aplicação do regime
+  será consubstanciado em TR, dispensada a garantia.
+
+Comentários
+
+Letra A: correta. A admissão de bens destinados a promoção comercial, inclusive amostras sem
+destinação comercial, está prevista pelo artigo 91, inciso IV, da IN RFB nº 1.600/15.
+
+Letra B: errada. O gabarito provisório considerou correta, a princípio, a alternativa B. Entretanto,
+após recursos, a questão foi anulada, justamente porque a alternativa B tem que ser considerada
+incorreta.
+
+Com efeito, nos termos do artigo 92, inciso V, da IN RFB nº 1.600/15, os bens reutilizáveis
+destinados ao transporte de outros bens são submetidos automaticamente ao regime de
+exportação temporária.
+
+Letra C: correta. Para que seja concedido o regime de exportação temporária, devem ser
+observadas as seguintes condições: a) exportação em caráter temporário; b) exportação sem
+cobertura cambial; c) adequação dos bens e do prazo de permanência à finalidade da exportação;
+e d) identificação dos bens.
+
+                                                                                                 53
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               58
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Letra D: errada. Esse foi o gabarito provisório da questão. De fato, a alternativa D está incorreta.
+O prazo de vigência do regime será de até 1 (um) ano, contado a partir do desembaraço aduaneiro
+do bem, prorrogável, a juízo da autoridade aduaneira, por período não superior, no total, a 2
+(dois) anos.
+
+Convém reforçar, no entanto, que a questão acabou sendo anulada porque a alternativa B também
+está incorreta.
+
+Letra E: errada. Quando se tratar de exportação temporária de mercadoria sujeita ao imposto de
+exportação, a obrigação tributária será constituída em termo de responsabilidade, não se exigindo
+garantia, em conformidade com o disposto no artigo 446, do R/A.
+
+Gabarito: anulada
+
+
+4 – Loja Franca
+
+10. (TTN-1998-adaptada) No regime aduaneiro especial de loja franca:
+
+  a) poderá ser autorizado o seu funcionamento na zona primária de porto ou aeroporto, nos
+  termos e condições fixados pelo Ministro da Fazenda, para venda de mercadoria nacional ou
+  estrangeira, a passageiros de viagens internacionais, contra pagamento em moeda nacional
+  ou estrangeira.
+
+  b) somente poderá ser autorizado o seu funcionamento em zona primária de ponto de
+  fronteira alfandegado para venda de mercadoria estrangeira a passageiros chegando de
+  viagem internacional por via aérea, terrestre, fluvial ou lacustre.
+
+  c) poderá também ser autorizado o seu funcionamento em depósitos alfandegados de
+  empresas de transporte rodoviário localizados em área contígua à de porto ou aeroporto
+  alfandegado
+
+  d) será autorizado seu funcionamento em recintos alfandegados de zona secundária próxima
+  a porto ou aeroporto para venda de mercadoria nacional exclusivamente a passageiros com
+  destino ao exterior.
+
+  e) somente poderão ser vendidas mercadorias nacionais ou estrangeiras a passageiros de
+  viagens internacionais, sendo vedado nesse regime o fornecimento de produtos destinados
+  ao uso ou consumo de bordo de embarcações ou aeronaves, de bandeira estrangeira,
+  aportadas no país.
+
+Comentários
+
+                                                                                                 54
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               59
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Letra A: correta. A loja franca permite que estabelecimento situado em zona primária de porto ou
+aeroporto alfandegado venda mercadoria nacional ou estrangeira a passageiro em viagem
+internacional, contra pagamento em moeda nacional ou estrangeira.
+
+Letra B: errada. O funcionamento de loja franca ocorrerá em zona primária de porto ou aeroporto
+alfandegado. Também existe a possibilidade de que a autorização para a instalação de loja franca
+seja concedida às sedes de Municípios caracterizados como cidades gêmeas de cidades
+estrangeiras na linha de fronteira do Brasil.
+
+Letra C: errada. Somente será autorizado a operar o regime de loja franca o estabelecimento
+situado em zona primária de porto ou aeroporto alfandegado, ou em sedes de Municípios
+caracterizados como cidades gêmeas de cidades estrangeiras na linha de fronteira do Brasil.
+
+Letra D: errada. O funcionamento de loja franca em zona secundária está limitado à hipótese das
+sedes de Municípios caracterizados como cidades gêmeas de cidades estrangeiras na linha de
+fronteira do Brasil.
+
+Letra E: errada. O conceito de passageiro em viagem internacional deve ser compreendido em
+um sentido mais amplo. É autorizada a venda de produtos a empresas de navegação aérea e
+marítima, para consumo de bordo ou venda a passageiros.
+
+Gabarito: letra A
+
+11. (TTN-1997-adaptada) As lojas francas instaladas na Zona Primária de porto e aeroporto
+    destinam-se a venda de mercadoria
+
+  a) nacional ou estrangeira a passageiros de viagens internacionais, contra pagamento em
+  moeda nacional ou estrangeira.
+
+  b) nacional ou estrangeira somente a passageiro de viagem internacional em trânsito pelo
+  País, contra pagamento em moeda estrangeira conversível.
+
+  c) estrangeira ou nacional somente a passageiro de viagem internacional saindo do País,
+  contra pagamento em moeda estrangeira conversível ou cheque de viagem.
+
+  d) estrangeira somente a passageiros de viagem internacional chegando ao País, contra
+  pagamento em cheque de viagem ou moeda estrangeira conversível.
+
+  e) estrangeira ou nacional importada por firmas permissionárias de entrepostos aduaneiros,
+  a passageiros e tripulantes de veículos em viagem internacional contra pagamento
+  exclusivamente em moeda estrangeira conversível.
+
+
+                                                                                               55
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             60
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Comentários
+
+Segundo o art. 476, do R/A, o regime aduaneiro especial de loja franca é o que permite a
+estabelecimento instalado em zona primária de porto ou de aeroporto alfandegado vender
+mercadoria nacional ou estrangeira a passageiro em viagem internacional, contra pagamento em
+moeda nacional ou estrangeira. Logo, a resposta é a letra A.
+
+Gabarito: letra A
+
+
+5 – Depósito Especial
+
+12. (AFRFB-2009) O regime aduaneiro especial que contempla a estocagem de partes, peças e
+    materiais de reposição ou manutenção, com suspensão do pagamento dos impostos federais,
+    da contribuição para o PIS/PASEP - Importação e da COFINS importação, para veículos,
+    máquinas, equipamentos, aparelhos e instrumentos estrangeiros, nacionalizados ou não, e
+    nacionais em que tenham sido empregadas partes, peças e componentes estrangeiros, nos
+    casos definidos pelo Ministro da Fazenda, é conhecido como:
+
+  a) depósito alfandegado.
+
+  b) trânsito aduaneiro.
+
+  c) depósito especial.
+
+  d) loja franca.
+
+  e) depósito alfandegado certificado.
+
+Comentários
+
+A definição apresentada pela questão é a de depósito especial, exatamente em conformidade
+com o que prevê o art. 480 do R/A. A resposta é a letra C.
+
+Letra A: errada. Não existe mais um regime aduaneiro especial denominado depósito
+alfandegado. Recorde-se que o depósito especial é operado em recinto não-alfandegado.
+
+Letra B: errada. O trânsito aduaneiro é o regime aduaneiro especial que permite o transporte de
+mercadorias de um ponto a outro do território nacional, com suspensão do pagamento dos
+tributos incidentes.
+
+Letra D: errada. A loja franca é o regime aduaneiro especial que permite a estabelecimento
+instalado em zona primária de porto ou de aeroporto alfandegado vender mercadoria nacional ou
+
+                                                                                            56
+                                                                                            70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          61
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+estrangeira o passageiro em viagem internacional, contra pagamento em moeda nacional ou
+estrangeira.
+
+Letra E: errada. Depósito alfandegado certificado (DAC) é aquele que permite considerar
+exportada, para todos os efeitos fiscais, creditícios e cambiais, a mercadoria nacional depositada
+em recinto alfandegado, vendida a pessoa sediada no exterior, mediante contrato de entrega no
+território nacional e à ordem do adquirente.
+
+Gabarito: letra C
+
+
+6 – Depósito Afiançado
+
+13. (TTN-1997-adaptada) O local na zona primária, autorizado à guarda de materiais de
+    manutenção e reparo de embarcações e aeronaves utilizadas no transporte comercial
+    internacional, de empresas nacionais ou estrangeiras autorizadas a operar nesse serviço
+    denomina-se:
+
+  a) depósito afiançado
+
+  b) depósito especial alfandegado
+
+  c) depósito alfandegado de zona primária
+
+  d) depósito franco
+
+  e) depósito alfandegado privativo
+
+Comentários
+
+Segundo o art. 488, do R/A, o regime aduaneiro especial de depósito afiançado é o que permite
+a estocagem, com suspensão do pagamento dos impostos federais, da contribuição para o
+PIS/PASEP-Importação e da COFINS-Importação, de materiais importados sem cobertura cambial,
+destinados à manutenção e ao reparo de embarcação ou de aeronave pertencentes a empresa
+autorizada a operar no transporte comercial internacional, e utilizadas nessa atividade. A resposta
+é, portanto, a letra A.
+
+Gabarito: letra A
+
+
+10 – REPEX
+
+14. (AFRFB - 2023) O regime aduaneiro especial do REPEX consiste na
+
+                                                                                                57
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              62
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  (A) autorização para importação de petróleo bruto, gasolina e óleo diesel, com o fim de se
+  manter no país estoque estratégico desses bens.
+
+  (B) autorização para importação de petróleo bruto, pela Petrobras, com vistas a manter
+  estoque estratégico desses produtos.
+
+  (C) importação de petróleo bruto e gás natural, com o fim de atender eventual necessidade
+  no país dos referidos hidrocarbonetos.
+
+  (D) importação de petróleo, basicamente para fornecimento a mercados estrangeiros, em
+  regra, para países limítrofes.
+
+  (E) importação em períodos de crise energética, não podendo, em hipótese alguma, ser
+  exportado a outros países.
+
+Comentários:
+
+O REPEX é o regime aduaneiro especial que permite a importação de petróleo bruto e seus
+derivados, com suspensão do pagamento dos tributos federais, para posterior exportação, no
+mesmo estado em que foram importados, conforme estabelece o artigo 463 do Regulamento
+Aduaneiro.
+
+De acordo com a Fundação Getúlio Vargas, em que pese a possibilidade de destinação do
+petróleo importado ao amparo do REPEX para abastecimento interno, com posterior exportação
+de produto nacional em substituição, conforme previsto pelo artigo 467 do Regulamento
+Aduaneiro, o objetivo do regime é funcionar como se fosse um "entreposto" de petróleo para
+atendimento de outros países, notadamente países vizinhos.
+
+A alternativa considerada correta pela banca foi, portanto, a alternativa D.
+
+Gabarito: letra D.
+
+
+11 – REPORTO
+
+15. (ATRFB - 2023) Em relação às características do Regime Tributário para Incentivo
+    Modernização e à Ampliação da Estrutura Portuária – Reporto, assinale a afirmativa correta.
+
+  (A) O regime se estende ao transporte de mercadorias por via ferroviária e aérea, sendo que,
+  neste último caso, limitado às operações em aeroportos internacionais.
+
+  (B) Podem habilitar-se ao regime fiscal previsto no enunciado o operador portuário, mas não
+  o concessionário de transporte ferroviário, ainda que internacional.
+
+                                                                                                 58
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               63
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  (C) Pode habilitar-se ao regime a empresa que explora instalações portuárias de uso privativo
+  misto ou exclusivo, incluindo as que operam com embarcações off shore.
+
+  (D) O regime prevê a isenção total dos tributos federais, entre eles incluídos o Imposto de
+  Importação, o IPI e as contribuições para o PIS/PASEP-Importação e para a COFINS-
+  Importação.
+
+  (E) Em caso de descumprimento das normas relativas ao regime, sujeita-se o infrator ao
+  pagamento da multa de 100% calculada sobre o valor do bem importado.
+
+Comentários:
+
+Letra A: errada. De acordo com os artigos 471, § 1º, do Regulamento Aduaneiro, e 5º, §1º, da IN
+RFB nº 1.370/13, o regime também se aplica no contexto da execução de serviços de transporte
+de mercadorias em ferrovias, e aos trilhos e demais elementos de vias férreas. Não há previsão de
+extensão para o transporte de mercadorias pela via aérea.
+
+Letra B: errada. São possíveis beneficiários do REPORTO tanto o operador portuário quanto o
+concessionário de transporte ferroviário, conforme estabelecem os artigos 472, incisos I e III, do
+Regulamento Aduaneiro, e 6º, incisos I e VII, da IN RFB nº 1.370/13.
+
+Letra C: certa. Perfeito. De acordo com os artigos 472, inciso I, do Regulamento Aduaneiro, e 6º,
+inciso IV, da IN RFB nº 1.370/13, pode se habilitar como beneficiário do REPORTO a pessoa
+jurídica autorizada a explorar instalação portuária de uso privativo misto ou exclusivo, inclusive
+aquelas que operam com embarcações de offshore.
+
+Letra D: errada. O REPORTO permite a importação de bens com suspensão da exigibilidade dos
+tributos aduaneiros federais. Essa suspensão, após cinco anos, pode ser convertida em isenção
+(nos casos do II e do IPI) ou em alíquota zero (nos casos do PIS-Importação e da COFINS-
+Importação), conforme estabelecem os artigos 473 e 474, do Regulamento Aduaneiro, e 3º e 4º,
+da IN RFB nº 1.370/13.
+
+Letra E: errada. Aplica-se a multa de cinquenta por cento do valor aduaneiro no caso de utilização
+de bem admitido no REPORTO em finalidade diversa da que motivou a concessão do regime, de
+sua não incorporação ao ativo imobilizado ou de ausência da identificação, nos termos dos artigos
+705, do Regulamento Aduaneiro, e 21, inciso I e § 1º, da IN RFB nº 1.370/13.
+
+Gabarito: letra C.
+
+                                                                                                  59
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                64
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+13 – Regimes Aduaneiros Aplicados em Áreas Especiais
+
+13.1 – Zona Franca de Manaus
+
+16. (ATRFB - 2023) A Zona Franca de Manaus consiste em uma área de livre comércio de
+    importação e de exportação e de incentivos fiscais, com vistas a promover e desenvolver toda
+    uma região distante dos centros produtores e financeiros. Tendo em vista esses objetivos, são
+    dispensados tratamentos tributários que beneficiam a indústria e as populações da região.
+    Entre eles, é correto citar
+
+  (A) a isenção dos Impostos de Importação e sobre Produtos Industrializados, estando em
+  estudo convênio com o Estado do Amazonas para o fim de estender a isenção ao imposto
+  estadual ICMS.
+
+  (B) a isenção, não só do Imposto de Importação e do IPI, que incidem sobre o comércio
+  exterior, como, também, do ICMS e das contribuições para o PIS/PASEP e a COFINS sobre
+  as importações.
+
+  (C) a suspensão dos impostos sobre as importações, que se convertem em isenção quando
+  os bens se destinem à venda para outros Estados da Federação, exceto para os Estados do
+  Amazonas e do Pará.
+
+  (D) a extensão das isenções de tributos devidos pela importação e pela exportação,
+  relativamente a bens destinados aos Estados da Região Norte, a saber, Pará, Rondônia,
+  Roraima, Acre e Amapá.
+
+  (E) a isenção de tributos incidentes sobre a importação de bens que se destinem à
+  industrialização no Parque Industrial, sendo, no entanto, vedada a venda desses produtos
+  para outros Estados.
+
+Comentários:
+
+Letra A: errada. Há, de fato, isenção de II e de IPI. Mas não há esse convênio em estudo com o
+Estado do Amazonas para o fim de estender a isenção ao ICMS.
+
+Letra B: errada. Há, de fato, isenção de II e de IPI. No que diz respeito às contribuições PIS-
+Importação e COFINS-Importação, por outro lado, há suspensão da exigibilidade, que pode,
+posteriormente, ser convertida em alíquota zero. Também não se pode falar que há isenção de
+ICMS. A legislação estadual do Estado do Amazonas (Lei Estadual nº 2.826/03) prevê benefícios
+fiscais diversos para as situações que discrimina, como hipóteses de diferimento do recolhimento
+do tributo e de redução da base de cálculo.
+
+                                                                                              60
+                                                                                              70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            65
+        www.estrategiaconcursos.com.br                                                        73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Letra C: errada. Há isenção dos impostos federais aduaneiros (II e IPI).
+
+Letra D: errada. Os benefícios fiscais da Zona Franca de Manaus estendem-se a outras localidades
+da Amazonia Ocidental (Amazonas, Acre, Rondônia e Roraima), no que diz respeito aos produtos
+discriminados no artigo 516 do Regulamento Aduaneiro.
+
+Letra E: errada. Há isenção apenas no que diz respeito aos impostos aduaneiros federais (II e IPI),
+inclusivo no que diz respeito à entrada de mercadorias estrangeiras que serão submetidas a
+processo de industrialização. No mais, não é vedada a venda de bens importados pela Zona Franca
+de Manaus para outros Estados, operação que recebe o nome de internação. Inclusive, quando
+há internação de produtos industrializados na Zona Franca de Manaus com insumos estrangeiros
+não se exige o pagamento dos tributos exigíveis sobre importações do exterior, conforme
+estabelece o artigo 509, parágrafo único, inciso II, do Regulamento Aduaneiro.
+
+Gabarito: anulada.
+
+17. (ATRFB – 2012) O art. 40 do Ato das Disposições Constitucionais Transitórias (ADCT), manteve
+    a Zona Franca de Manaus, com suas características de área de livre comércio, de exportação e
+    importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação
+    da Constituição Federal.
+
+Comentários
+
+O art. 40, do ADCT, dispõe que é mantida a Zona Franca de Manaus, com suas características de
+área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e
+cinco anos, a partir da promulgação da Constituição.
+
+Gabarito: certa
+
+18. (ATRFB – 2012) O art. 92 do Ato das Disposições Constitucionais Transitórias, incluído pela
+    Emenda Constitucional n. 42, de 19 de dezembro de 2003, acrescentou quinze anos ao prazo
+    fixado no art. 40 do ADCT.
+
+Comentários
+
+A EC nº 42/2003 acrescentou 10 anos ao prazo fixado no art. 40 do ADCT. Com essa emenda
+constitucional, os benefícios fiscais da ZFM passaram a ser válidos até 2023. Sabe-se, todavia, que
+a EC nº 83/2014 estendeu esse prazo por mais 50 anos, ou seja, os benefícios, atualmente, são
+válidos até 2073.
+
+Gabarito: errada
+
+
+                                                                                                61
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              66
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+19. (TTN-1997) As mercadorias estrangeiras importadas para a Zona Franca de Manaus, quando
+    desta saírem para outros pontos do Território Nacional sem sofrerem quaisquer processos de
+    industrialização, exceção feita à bagagem de passageiros e as destinadas a Amazônia
+    Ocidental:
+
+  a) não estão sujeitas a tributação tendo em vista que sua situação fiscal já foi regularizada
+  quando de seu ingresso na referida Zona Franca.
+
+  b) estão sujeitas apenas ao pagamento do Imposto sobre Produtos Industrializados - IPI e ao
+  Imposto sobre Circulação de Mercadorias e Serviços – ICMS.
+
+  c) ficam sujeitas ao pagamento de todos os impostos exigíveis sobre importações do exterior.
+
+  d) ficam sujeitas apenas ao pagamento do Imposto de Importação, salvo quando se
+  destinarem à Amazônia Ocidental, quando sairão com isenção do referido imposto.
+
+  e) não estão sujeitas ao controle administrativo das importações (licenciamento) sujeitando-
+  se porém ao regime fiscal aplicável aos regimes aduaneiros especiais (suspensão dos
+  tributos).
+
+Comentários
+
+A pergunta que a questão nos faz sobre a ZFM é a seguinte: qual o tratamento tributário na
+internação?
+
+Letra A: errada. Na internação de produtos não-industrializados na ZFM, haverá recolhimento
+tributário integral em relação aos tributos que receberam isenção por ocasião do ingresso no
+regime.
+
+Letra B: errada. Na internação de produtos não-industrializados na ZFM, também haverá
+recolhimento tributário relativo ao Imposto de Importação.
+
+Letra C: correta. Na internação de produtos não-industrializados na ZFM, haverá recolhimento dos
+tributos exigíveis sobre as importações do exterior. Caso a internação seja de produto
+industrializado na ZFM, haverá isenção de IPI e recolhimento do II apenas em relação aos insumos
+estrangeiros.
+
+Letra D: errada. Na internação de produtos não-industrializados na ZFM, haverá recolhimento
+tributário relativo a todos os tributos que receberam isenção por ocasião do ingresso no regime.
+
+Letra E: errada. Na internação, os produtos não-industrializados na ZFM irão se submeter ao
+tratamento administrativo e tributário aplicável às importações. Destaque-se que, na internação,
+
+                                                                                                  62
+                                                                                                  70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                67
+        www.estrategiaconcursos.com.br                                                            73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+haverá recolhimento tributário (e não suspensão!) relativo aos tributos que receberam isenção por
+ocasião da admissão no regime.
+
+Gabarito: letra C
+
+20. (AFRF-2002.1) A Zona Franca de Manaus é uma área de livre comércio de importação e de
+    exportação e de incentivos fiscais especiais, estabelecida com a finalidade de criar no interior
+    da Amazônia um centro industrial, comercial e agropecuário dotado de condições econômicas
+    que permitam seu desenvolvimento, em face dos fatores locais e da grande distância a que se
+    encontram os centros consumidores de seus produtos. (Dec.Lei 288/67, art.1º, artigo 389 do
+    Dec.91.030/85 - Regulamento Aduaneiro) Em face do enunciado, assinale a opção correta.
+
+  a) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  especial típico.
+
+  b) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário
+  da Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  aplicado em áreas especiais.
+
+  c) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. Por ser área de livre comércio não
+  lhe corresponde qualquer regime aduaneiro especial, típico ou atípico.
+
+  d) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário
+  da Amazônia, sendo definida como área de livre comércio. É, portanto, um regime aduaneiro
+  comum.
+
+  e) A Zona Franca de Manaus visa ao desenvolvimento industrial, comercial e agropecuário da
+  Amazônia, sendo definida como área de livre comércio. É, portanto, regime aduaneiro
+  especial típico unicamente no que se refere ao trânsito de bens ingressados na Zona Franca
+  e destinados a qualquer outro ponto do território aduaneiro.
+
+Comentários
+
+A Zona Franca de Manaus é um regime aduaneiro aplicado em áreas especiais, criado para obter
+o desenvolvimento industrial, comercial e agropecuário da Amazônia. Para isso, recebe vários
+benefícios fiscais próprios de uma área de livre comércio de importação e exportação. A resposta
+é a letra B.
+
+Gabarito: letra B
+
+
+                                                                                                 63
+                                                                                                 70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               68
+        www.estrategiaconcursos.com.br                                                           73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+21. (AFRF-2003) A saída temporária de mercadorias da Zona Franca de Manaus, das Áreas de Livre
+    Comércio e da Amazônia Ocidental e sua readmissão serão feitas com base em:
+
+  a) Declaração de Saída Temporária (DST)
+
+  b) Declaração Simplificada de Internação (DSI)
+
+  c) Demonstrativo do Coeficiente de Redução (DCR)
+
+  d) Declaração para Controle de Internação (DCI)
+
+  e) Declaração de Internação Temporária (DIT)
+
+Comentários
+
+A saída temporária de mercadoria da Zona Franca de Manaus, das Áreas de Livre Comércio ou da
+Amazônia Ocidental é feita com base em Declaração de Saída Temporária. Portanto, a resposta é
+a letra A.
+
+Gabarito: letra A
+
+22. (Ajudante de Despachante Aduaneiro – 2018-adaptada) Quanto aos regimes aduaneiros
+    especiais, julgue o item a seguir.
+
+    Não está entre os objetivos da Zona Franca de Manaus (ZFM) promover a melhor integração
+    produtiva e social na Amazônia Ocidental.
+
+Comentários
+
+A Zona Franca de Manaus é uma área de livre comércio de importação e de exportação e de
+incentivos fiscais especiais, estabelecida com a finalidade de criar no interior da Amazônia um
+centro industrial, comercial e agropecuário, dotado de condições econômicas que permitam seu
+desenvolvimento.
+
+O texto da assertiva está, inclusive, em perfeita consonância com a apresentação inserta na
+seguinte página (https://www.gov.br/suframa/pt-br/zfm - acesso em 05/10/21).
+
+Gabarito: errada
+
+13.2 – Zonas de Processamento de Exportações
+
+23. (AFTN-1996) Uma zona de processamento de exportação (ZPE) corresponde a uma área onde:
+
+
+                                                                                            64
+                                                                                            70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          69
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+  a) As exportações de terceiros países ingressam em caráter temporário, e sem sofrerem
+  qualquer carga fiscal, para transitarem rumo aos seus mercados de destino.
+
+  b) As exportações não estão sujeitas a restrições independentemente de sua origem e
+  destino.
+
+  c) As importações usufruem de favorecimento fiscal sempre que forem empregadas na
+  produção de bens a serem exportados.
+
+  d) Há medidas restritivas às importações e incentivos creditícios e fiscais à exportação.
+
+  e) Há um regime de livre comércio com o exterior e que é destinado à instalação de empresas
+  industriais voltadas para a exportação.
+
+Comentários
+
+Letra A: errada. Da forma como está escrito, ficou parecendo que as ZPEs funcionariam apenas
+como uma “escala” para exportações de terceiros países.
+
+Letra B: errada. A vantagem tributária às empresas instaladas em ZPEs diz respeito à suspensão
+dos tributos na importação.
+
+Letra C: errada. Não há essa vinculação necessária entre a fruição de favorecimento fiscal e o
+emprego na produção de bens a serem exportados. Lembrem-se que as máquinas necessárias
+para as atividades da empresa autorizada a operar em ZPE, por exemplo, são beneficiadas com
+os incentivos fiscais, ainda que sejam utilizadas para a produção de bens introduzidos no mercado
+interno.
+
+Letra D: errada. Nas ZPEs, não há medidas restritivas às importações. Ao contrário, as importações
+são efetuadas com suspensão tributária.
+
+Letra E: correta. As ZPEs consistem em áreas de livre comércio com o exterior, destinadas à
+instalação de empresas direcionadas para a produção de bens a serem comercializados no
+exterior, a prestação de serviços vinculados à industrialização das mercadorias a serem exportadas
+ou a prestação de serviços a serem comercializados ou destinados exclusivamente para o exterior.
+
+Gabarito: letra E
+
+13.3 – Áreas de Livre Comércio
+
+24. (ATRFB – 2012) A venda de mercadorias nacionais ou nacionalizadas, efetuada por empresas
+    estabelecidas fora das Áreas de Livre Comércio de Boa Vista – ALCBV e de Bonfim – ALCB, de
+
+                                                                                                65
+                                                                                                70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              70
+        www.estrategiaconcursos.com.br                                                          73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+   que trata a Lei n. 8.256, de 25 de novembro de 1991, para empresas ali estabelecidas, fica
+   equiparada à exportação.
+
+Comentários
+
+É o que prevê o art. 527, do R/A: a venda de mercadorias nacionais ou nacionalizadas para as ALC
+de Boa Vista e Bonfim é equiparada à exportação.
+
+Gabarito: certa
+
+25. (TTN-1998) As Áreas de Livre Comércio criadas no Brasil têm cumulativamente as seguintes
+    características:
+
+  a) regime fiscal especial, localizam-se em qualquer região do País, têm por finalidade a
+  integração latino-americana
+
+  b) regime fiscal atípico, localizam-se de preferência em regiões adversas, atuam
+  exclusivamente na exportação e têm por finalidade desenvolver a política de integração com
+  os países do MERCOSUL.
+
+  c) regime fiscal especial, assemelhado ao da Zona Franca de Manaus, operando
+  exclusivamente na importação, criadas exclusivamente para promover a integração das
+  regiões isoladas com o restante do território nacional, dentro da política de integração
+  nacional.
+
+  d) regime aduaneiro especial, são criadas para operar exclusivamente na importação e com
+  finalidade de promover o desenvolvimento das regiões carentes para incrementar o comércio
+  exterior brasileiro.
+
+  e) regime fiscal especial, operam na importação e exportação, são criadas com a finalidade
+  precípua de promover o desenvolvimento das regiões fronteiriças e com o objetivo de
+  incrementar as relações bilaterais com países vizinhos, segundo a política de integração
+  latino-americana.
+
+Comentários
+
+Letra A: errada. As Áreas de Livre Comércio são destinadas a promover o desenvolvimento de
+áreas específicas fronteiriças da região Norte do país.
+
+Letra B: errada. São concedidos benefícios fiscais nas importações de produtos para as Áreas de
+Livre Comércio. O objetivo dessas áreas não é apenas a integração com países do MERCOSUL,
+mas com os países latino-americanos em geral.
+
+                                                                                               66
+                                                                                               70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             71
+        www.estrategiaconcursos.com.br                                                         73
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 05
+
+Letra C e D erradas. Os objetivos das ALCs são promover o desenvolvimento de áreas fronteiriças
+específicas da Região Norte do País e incrementar as relações bilaterais com países vizinhos,
+segundo a política de integração latino-americana.
+
+Letra E: correta. Segundo o art. 524, do R/A, são áreas de livre comércio de importação e de
+exportação as que, sob regime fiscal especial, são estabelecidas com a finalidade de promover o
+desenvolvimento de áreas fronteiriças específicas da Região Norte do País e de incrementar as
+relações bilaterais com os países vizinhos, segundo a política de integração latino-americana.
+
+Gabarito: letra E
+
+13.4 – Amazônia Ocidental
+
+26. (ATRFB – 2012) De acordo com o Decreto-Lei n. 291, de 28 de fevereiro de 1967, a Amazônia
+    Ocidental é constituída pelos Estados do Amazonas, do Acre, de Rondônia e de Roraima.
+
+Comentários
+
+Segundo o art. 516, § 1º, do R/A, também, a Amazônia Ocidental é constituída pelos Estados do
+Amazonas, do Acre, de Rondônia e de Roraima.
+
+Gabarito: certa
+
+                                                                                            67
+                                                                                            70
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          72
+        www.estrategiaconcursos.com.br                                                      73
+
+                                     
+
+
+---
+
+---

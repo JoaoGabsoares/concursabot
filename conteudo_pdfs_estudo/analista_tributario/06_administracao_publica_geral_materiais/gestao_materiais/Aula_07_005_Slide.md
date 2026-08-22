@@ -1,0 +1,241 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: CANAIS DE DISTRIBUIÇÃO E
+---
+
+# CANAIS DE DISTRIBUIÇÃO E
+
+---
+
+---
+
+CANAIS DE DISTRIBUIÇÃO E
+ATENDIMENTO
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Estratégia de Canais
+       Como atender diferentes mercados?
+
+     ❑ Além da estrutura física de distribuição, a empresa deve tomar outra decisão acerca
+       de sua estratégia de canais.
+     ❑ É normal que a empresa encontre não apenas um, mas vários tipos de mercado
+       dentro de seu próprio mercado ou, dizendo isso de outra forma, vários tipos de
+       clientes dentro de um único mercado. Essa variação cria grupos e blocos complexos
+       e, para satisfazer a necessidade de cada um deles, é necessário atendê-los de formas
+       distintas.
+     ❑ Esse cenário afeta diretamente a estratégia de canais de distribuição da empresa,
+       muito sensível ao aumento de produtos comercializados, a variação das embalagens,
+       o aumento de pontos de vendas que precisam ser abastecidos, entre outras variáveis
+       mercadológicas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégia de Canais
+       Fatores que devem ser avaliados
+
+     ❑ Para a definição final de sua estratégia de canais a empresa deve avaliar:
+     •      Características dos clientes: número de clientes, dispersão dos clientes pelo mercado, seus
+            padrões de compra, reação aos diferentes métodos de vendas, etc.
+
+     •      Características dos produtos: tipo do produto, mercado consumidor do produto, tipos de clientes
+            dentro desse mercado, volume consumido, valor unitário, etc.
+
+     •      Características dos intermediários: atacadista, representante ou vendedor próprio.
+
+     •      Características dos concorrentes: tipos de canais utilizados, características desses canais, etc.
+
+     •      Características da empresa: tamanho da empresa, posição financeira, composto de produto,
+            políticas da empresa, etc.
+
+     •      Características do meio ambiente: condições econômicas, regulamentos e restrições, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégia de Canais
+       Opções mais comuns
+
+     ❑ Feita esta análise a empresa estará apta a decidir sobre sua estratégia de canais que é um dos
+       componentes do seu composto mercadológico, ao lado do preço, do esforço promocional e de
+       sua política de produtos.
+
+     ❑ Lembrando que por trás da decisão sobre qual(is) canal(is) utilizar estão sempre duas das decisões
+       mais importantes em relação à distribuição dos produtos: o volume potencial de vendas em cada
+       uma das alternativas e o custo necessário para a obtenção de tal volume, o que afeta de forma
+       direta tanto a margem como o lucro final esperado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégia de Canais
+       Opções mais comuns
+     ❑ Em linhas gerais a empresa tem três opções quanto a sua estratégia de canais:
+     •      Fabricante -> Cliente: ocorre quando há necessidade de venda sob pressão (novos produtos);
+            aguda concorrência; preferência dos compradores por comprar diretamente do fabricante ou
+            insatisfação com revendedores. Pode ocorrer via correio, entrega a domicílio, loja do fabricante,
+            mala direta, vendedor de caminhão, etc.
+
+     •      Fabricante -> Varejista -> Cliente: empregado quando o número de consumidores é elevado em
+            relação ao território; os produtos são perecíveis e a distribuição deve ser rápida; preço unitário
+            elevado; amplo sortimento; influência da moda, etc.
+
+     •      Fabricante -> Atacadista -> Varejista -> Cliente: é o sistema tradicional de distribuição porém,
+            poucas vezes usado isoladamente. Aplica-se a bens de conveniência para varejistas
+            independentes e as vezes utiliza-se de agentes e representantes para a empresa sem
+            possibilidades de manter organização própria de vendas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Grau de Atendimento
+       Decisão estratégica atrelada ao Nível de Serviço escolhido
+     ❑ Bem, já vimos que a organização deve ser capaz de lidar com diversos cenários diferentes de
+       acordo com sua carteira de clientes. Cada segmento ou grupo de clientes valoriza mais ou menos
+       determinadas características do produto. Isso faz com que para uns a entrega muito rápida seja o
+       mais importante, enquanto para outros a data da entrega não seja tão relevante, mas sim a
+       entrega em locais de mais difícil acesso, por exemplo.
+
+     ❑ Ou seja, a organização deverá ser capaz de estruturar da forma mais eficiente possível toda a sua
+       estrutura logística com o objetivo de atender os diferentes segmentos de mercado que ela julga
+       atraentes.
+
+     ❑ Dentro desse contexto a organização deverá tomar decisões, entre elas a adoção de "Graus de
+       Atendimento".
+
+     ❑ Esse é um conceito muito parecido com o Nível de Serviço, ou seja, é calculado dividindo-se o
+       número de pedidos atendidos de clientes (de maneira plenamente satisfatória), pelo número total
+       de pedidos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Grau de Atendimento
+       Decisão estratégica atrelada ao Nível de Serviço escolhido
+
+
+                           Grau de Atendimento = pedidos entregues / pedidos realizados
+
+                Suponha que em determinado segmento que valoriza muito a entrega em até 24 horas a
+                organização recebeu 100 pedidos este mês e conseguiu realizar as entregas nesse prazo curto em 85
+                deles. Seu grau de atendimento foi de 85%.
+
+                Neste mesmo mês a empresa recebeu 10 pedidos para entrega em locais de muito difícil acesso e
+                conseguiu entregar apenas 6 desses pedidos no prazo combinado. Neste caso o grau de
+                atendimento foi de 60%. O grau de atendimento é simplesmente o percentual de pedidos entregues
+                em relação ao volume total de pedidos recebidos.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Grau de Atendimento
+       Natural não trabalhar com atendimento de 100%
+
+     ❑ Perceba que é natural que a empresa não trabalhe com grau de atendimento de 100%.
+       Pode e deve ser demasiadamente caro. Por exemplo, no segmento de clientes que exige
+       entrega em lugares inóspitos, sem acesso por estradas, o custo de atingir o cliente em
+       prazos as vezes até mesmo extensos, é muito alto.
+
+     ❑ A empresa pode optar por não atuar nesse mercado ou, atuando, optar por ter um grau de
+       atendimento mais baixo, ou seja, alguns pedidos ela já reconhece que não vai atender a
+       contento. Faz parte do jogo. Passa a não ser lucrativo atender a todos o tempo todo.
+     ❑ Nesse processo não há certo ou errado. Isso depende do posicionamento mercadológico
+       da empresa, de suas capacidades e limitações logísticas, de seus objetivos de volume e
+       rentabilidade e assim por diante. Certo é que, na maioria das vezes, o grau de atendimento
+       não será o máximo possível, sendo dosado por essas variáveis que acabamos de listar.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/SERPRO/Técnico Administrativo/2013) Uma empresa que atua como intermediário
+     comerciante, vendendo suprimentos ao consumidor final é caracterizada como atacadista.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/SERPRO/Técnico Administrativo/2013) Uma empresa que atua como intermediário
+     comerciante, vendendo suprimentos ao consumidor final é caracterizada como atacadista.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+     Varejista - "é o intermediário comerciante ou estabelecimento comercial que vende principalmente para o
+     consumidor final. Sua venda típica é efetuada ao consumidor final. Entende-se varejo como as atividades de
+     venda ao consumidor final.“
+
+     Atacadista - "é o intermediário comerciante que vende para varejistas e outros comerciantes, consumidores
+     industriais e comerciais. O atacadista é conhecido também pelo nome de distribuidor ou fornecedor, quando
+     negocia com MP, materiais semiacabados, componentes, ferramentas e maquinário em geral."
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

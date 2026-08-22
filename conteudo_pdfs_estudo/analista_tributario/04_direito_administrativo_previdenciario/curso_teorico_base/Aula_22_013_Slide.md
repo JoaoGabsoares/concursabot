@@ -1,0 +1,131 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 22_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '22'
+titulo_aula: PROCESSO ADMINISTRATIVO –
+---
+
+# PROCESSO ADMINISTRATIVO –
+
+PROCESSO ADMINISTRATIVO –
+                         LEI 9.784/1999
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                           
+
+
+---
+
+---
+
+                           atuação conforme a lei e o Direito
+                             (princ. da legalidade/juridicidade)
+                                                                                 vedada a renúncia de poderes ou
+                          atendimento a fins de interesse geral                   competências, total ou parcial,
+                                                                                     salvo autorização em lei
+observados no PAF (1/2)
+                                                                                  vedada a promoção pessoal de
+                            objetividade no atendimento do
+   critérios a serem
+
+                                                                                     agentes ou autoridades
+                                    interesse público                                  (princ. impessoalidade)
+                          atuação segundo padrões éticos de
+                              probidade, decoro e boa-fé
+                                    (princ. moralidade)
+
+                              divulgação oficial dos atos                        ressalvadas as hipóteses de sigilo
+                            administrativos (princ. publicidade)                     previstas na Constituição
+
+                                                                                      vedada a imposição de
+                                                                                  obrigações, restrições e sanções
+                                                                                    em medida superior àquelas
+                             adequação entre meios e fins
+                                                                                    estritamente necessárias ao
+                                                                                 atendimento do interesse público
+                                                                                     (princ. proporcionalidade)
+
+                                            
+
+
+---
+
+                           indicação dos pressupostos de fato e de
+                          direito que determinarem a decisão (princ.
+                                            motivação)
+
+                          observância das formalidades essenciais à
+                           garantia dos direitos dos administrados
+                          adoção de formas simples, suficientes para
+                             propiciar adequado grau de certeza,
+observados no PAF (2/2)
+
+                             segurança e respeito aos direitos dos
+   critérios a serem
+
+                                        administrados
+                            garantia dos direitos à comunicação, à
+                              apresentação de alegações finais, à               nos processos de que possam resultar
+                            produção de provas e à interposição de                sanções e nas situações de litígio
+                                           recursos
+                              proibição de cobrança de despesas
+                                                                                    ressalvadas as previstas em lei
+                                         processuais
+                               impulsão, de ofício, do processo
+                          administrativo, sem prejuízo da atuação dos
+                                          interessados
+                           interpretação da norma administrativa da
+                                                                                  vedada aplicação retroativa de nova
+                           forma que melhor garanta o atendimento                            interpretação
+                                 do fim público
+                                                a que se dirige
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+           Não emissão de parecer obrigatório no prazo
+
+       Parecer vinculante                                   Parecer não vinculante
+
+Responsabiliza
+                  Processo não                        Processo          Responsabiliza
+  quem deu
+                     segue                             segue            quem se omitiu
+causa ao atraso
+                       
+
+
+---
+
+---
+
+---
+
+OBRIGADO
+
+
+     
+
+
+---

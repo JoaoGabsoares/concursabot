@@ -1,0 +1,344 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '03'
+titulo_aula: OBJETIVOS E IMPORTÂNCIA DA FUNÇÃO COMPRAS
+artigos_citados:
+- art. 104
+- art. 156
+- art. 22
+- art. 37
+- art. 74
+- art. 75
+- art. 76
+- art. 96
+---
+
+# OBJETIVOS E IMPORTÂNCIA DA FUNÇÃO COMPRAS
+
+OBJETIVOS E IMPORTÂNCIA DA FUNÇÃO COMPRAS
+
+                                                                                                            Função compras é parte da logística e da cadeia de suprimentos
+               Principais objetivos da área de compras
+                                                                                                                                   (supply chain)
+
+            Garantir fluxo contínuo de materiais à produção                                       Suprir a produção com material           Em grandes indústrias, mais de 50% do
+                                                                                                   correto, no momento e local             valor das vendas vai para aquisição de
+                                                                                                               exatos                                  matéria-prima
+
+
+         Adquirir a preços competitivos e de forma econômica
+
+                                                                                                           Boa estratégia de compras gera vantagem competitiva e custos enxutos
+
+
+         Obter materiais na qualidade exigida pela organização
+
+            Pesquisar e manter parceria com fornecedores
+
+       Perfil do comprador: analítico, estratégico e bom negociador
+
+Gerir a armazenagem NÃO é objetivo de compras - cabe ao almoxarifado;
+  compras apenas considera limitações de armazenagem e transporte
+
+                                                                                                                                                         ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                           ETAPAS DO PROCESSO E ESTRUTURA DE COMPRAS
+
+Princípios (Viana)       Autoridade para Compra               Registro de Compras                       Registro de Preços                    Registro de Forncedores
+
+                                   AMPLITUDE DE COMPRAS: Todo o fluxo da necessidade até a entrega do material
+
+
+ Pedido de Compra          Processamento de Compra              Cadastro de Fornecedores                      Concorrência
+
+                                                                                                                                                      Julgamento
+
+    Recebimento            Diligenciamento (Follow-up)             Adjucação do Pedido                         Negociação
+
+                                            Setores típicos da estrutura de compras
+
+
+                                          Pesquisa, cadastro e avaliação de fornecedores
+
+
+                                     Processamento de compras (monta e conduz o processo)
+
+
+                                    Compras locais e por importação; licitações no setor público
+
+
+Acompanhamento de compras = follow-up ou diligenciamento           e-procurement: sourcing eletrônico, licitação eletrônica, leilão reverso
+
+
+                                                                                                                                                ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            CICLO DO PEDIDO E OPERAÇÕES DE COMPRAS
+
+            Ciclo do pedido - 5 etapas sequenciais (Ballou)                                                   Características estáveis das operações de compras
+
+PREPARAÇÃO           Requisição e escolha de informações (no comprador)                                    Três cotações: número mínimo para encorajar competidores
+
+TRANSMISSÃO          Envio de informações ao fornecedor (no comprador)                                Preço objetivo: conhecer o preço justo dá verificação dupla nas cotações
+
+                       Verifica exatidão, quantidade, preço e crédito (no
+RECEBIMENTO                                                                                                Duas ou mais aprovações: mínimo duas pessoas por decisão
+                                           fornecedor)
+
+ATENDIMENTO       Embala, programa embarque e documenta (no fornecedor)                                              Documentação escrita anexa ao pedido
+
+RELATÓRIO DA
+                            Informa atrasos, acompanha e localiza
+  SITUAÇÃO
+
+A maioria das etapas ocorre no FORNECEDOR; só preparação e transmissão
+                       ocorrem em quem compra
+
+                                                                                                                                                      ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               DOCUMENTOS E MODALIDADES DE COMPRAS
+
+              Modalidades de compras (Classificações)                                                            Documentos do processo de compras
+
+
+                                   Locais (nacional)
+  Origem                                                                                                             Solicitação (requisição): autoriza o comprador; vem do
+                                                                                                     Trâmite
+                               Importação (estrangeiro)                                                                               usuário final do item
+
+
+                          Emergenciais (caras/desvantajosas)
+  Trâmite                                                                                                                 Registro do preço ofertado por fornecedores
+                                                                                              Coleta de preços
+                                 Normais, parceladas                                             (cotação)
+                                                                                                                       Emitida em duas vias: uma ao fornecedor, outra ao
+                                                                                                                                      controle interno
+                                     Patrimoniais
+   Item
+                                    Para consumo
+                                                                                            Pedido de compra                Contrato formal com força de contrato
+Formalidade                            Formais
+
+
+                                    Inéditas/novas
+
+Recorrência                          Modificadas
+
+                             Rotineiras (recompra simples)
+
+
+                     Recompra simples só verifica se marcas/produtos
+                                 seguem adequados
+
+                                                                                                                                                 ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            LOTE ECONÔMICO DE COMPRAS (LEC)
+
+                              Equilibra custo do pedido e custo de armazenagem                  Ponto ótimo: onde as curvas de custo do
+                                           (manutenção de estoque)                               pedido e de armazenagem se cruzam
+
+                                                                                                 O preço unitário não entra na fórmula -
+                                                                                                                descartar
+                         Fórmula: LEC = √((2 × Demanda × Custo do Pedido) ÷ Custo de
+                                                Armazenagem)
+                                                                                              Se vier taxa (%): custo de armazenagem = preço
+                                                                                                                 unitário × taxa
+LEC = volume ideal por
+pedido que minimiza os
+     custos totais
+                                                                                                  Ex.: demanda 250.000, pedido $100,
+                                   Nº de pedidos no ano = Demanda ÷ LEC
+                                                                                               armazenagem $2 → LEC = 5.000 (50 pedidos)
+
+                                       Premissas: demanda constante e conhecida; reposição instantânea; custos constantes
+
+                         O LEC NÃO gerencia demanda de insumos - só equilibra custos de pedido e de posse (armazenagem); maior custo
+                                                             de armazenagem → lote menor
+
+                                                                                                                                  ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               FORNECEDORES: CADASTRO, SELEÇÃO E FONTES
+
+                                      CLASSIFICAÇÃO: VAREJISTAS, ATACADISTAS, INDÚSTRIAS, PRESTADORES, CONSTRUTORES
+
+             Fontes de fornecedores                         Critérios de seleção (Tony Arnold)                      Cadastro de fornecedores
+
+                                                                                                                    Qualifica e avalia desempenho
+   Única               Um só fornecedor, sem             Habilidade técnica, capacidade de produção,
+(monopolista)               alternativa                                confiabilidade
+                                                                                                                                         Qualidade
+                                                                                                               Avalia
+                                                                                                            performance
+                                                                                                                                           Preços
+                                                                                                                sob 3
+                    Vários existem, mas concentra                                                             aspectos
+  Simples                                            Serviço pós-venda, localização e preços competitivos
+                           em um habitual                                                                                                  Prazos
+
+                        Distribui a demanda
+                      estimulando competição          Não basta preço e prazo no cadastro: a qualidade
+                                                                é a 3ª dimensão obrigatória
+  Múltipla
+                         Manter ao menos 3
+                     fornecedores por material
+                         (salvo fonte única)
+
+                                                                                                                                 ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                            ESTRATÉGIAS DE COMPRAS
+
+                   Verticalização x Horizontalização                                                              Centralização x Descentralização
+
+                       Produz internamente; independência e domínio da
+                                                                                                                         Mais controle, especialização e ganho de escala
+                                         tecnologia
+ Verticalização                                                                                Centralização
+                          Permite customização, mas gera altos custos
+                                    estruturais e ociosidade                                                                Indicada em demanda estável e previsível
+
+            PARA FRENTE
+                                    controla distribuição e pontos de venda
+       (JUSANTE/ DOWNSTREAM)                                                                Descentralização          Mais agilidade e flexibilidade para compras urgentes
+
+
+            PARA TRÁS
+                                      assume atividades de fornecedores
+       (MONTANTE/ UPSTREAM)
+                                                                                               Flexibilidade/agilidade NÃO é vantagem da centralização - ela tem filas e
+                                                                                                                          processos rígidos
+
+                      Adquire no mercado; mais foco no negócio principal
+
+Horizontalização
+                     É a estratégia mais empregada atualmente; depende
+                                    de fornecimento externo
+
+                                                                                                                                                     ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                        LICITAÇÃO NO SETOR PÚBLICO (LEI 14.133/2021)
+
+             Regra geral e habilitação                        Tipos x Modalidades (o examinador mistura!)                      Contratação direta: 3 exceções à licitação
+
+  Objetivo: selecionar a proposta mais vantajosa,                                                                           Dispensada (art. 76): a lei já afasta - NÃO ocorre (ex.:
+                                                                                                  Menor preço, maior
+            com isonomia e competição                                                                                            doação, permuta, dação em pagamento)
+                                                                                              desconto, melhor técnica,
+                                                             Tipos = critério de
+                                                                                                técnica e preço, maior
+                                                                julgamento
+                                                                                                lance e maior retorno
+                                                                                                     econômico
+                                                                                                                            Dispensável (art. 75): PODE ou não ocorrer - decisão
+Base na CF/88 (art. 22, XXVII e art. 37, XXI): licitação é
+                                                                                                                            discricionária; baixo valor: até R$100 mil (obras/eng.)
+   a regra; vinculação ao edital obriga as partes
+                                                                                                                                       e R$50 mil (compras/serviços)
+
+                                                                                                 Pregão, concorrência,
+                                                             Modalidades (art.
+                                                                                               concurso, leilão e diálogo
+                                                                 28) = 5
+      Atenção: no setor público prevalece a                                                          competitivo             Inexigível (art. 74): inviabilidade de competição -
+   formalidade obrigatória (≠ informalidade da                                                                                     fornecedor, serviço ou artista exclusivo
+               iniciativa privada)
+
+                                                               Cuidado: diálogo competitivo é a novidade;
+                                                              tomada de preços e convite foram extintos; o                        SRP (registro de preços) e SICAF/SIASG:
+     Habilitação: 4                                             pregão foi absorvido (revogou a 10.520/02)                     procedimentos auxiliares de apoio às compras
+  dimensões (jurídica,           Na 14.133 é exigida só
+         técnica,                do vencedor, após o
+fiscal/social/trabalhista        julgamento (≠ 8.666,
+     e econômico-                  que a fazia antes)
+       financeira)
+
+                                                                                                                                                      ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               CONTRATOS ADMINISTRATIVOS (LEI 14.133/2021)
+
+                                                                                                                      Cláusulas exorbitantes: prerrogativas da
+Vigência: prorrogação, renovação e extinção                           Garantia e sanções
+                                                                                                                              Administração (art. 104)
+
+  Prorrogação: estende só o PRAZO (serviços                                                                          Modificação e extinção (rescisão) unilateral do
+                                                                                           Modalidades (o
+           contínuos: até 10 anos)                                                                                                      contrato
+                                                                                        contratado escolhe):
+                                                                                      caução, seguro-garantia,
+                                                                                      fiança bancária ou título
+                                                     Garantia (art. 96):
+Renovação: MODIFICA cláusula ou a forma de                                                de capitalização          Fiscalização da execução e aplicação de sanções
+                                                     não é obrigatória;
+               execução                             se exigida, prevista
+                                                         no edital
+                                                                                                                   Ocupação provisória de bens, pessoal e serviços do
+                          Causas comuns:                                                Limite: 5% do valor (até                      contrato
+                        conclusão do objeto,                                             10% em contratos de
+                        término do prazo ou                                                  grande vulto)
+                             anulação
+  Extinção do                                                                                                        Cláusulas econômico-financeiras não mudam
+   contrato                                                                                                         sem o contratado; alteração unilateral obriga o
+                                                                                       Advertência, multa,                reequilíbrio econômico-financeiro
+                        Formas: consensual,             Sanções
+                                                                                     impedimento de licitar e
+                      unilateral (Administração)     administrativas
+                                                                                     contratar, e declaração de
+                          ou judicial/arbitral          (art. 156)
+                                                                                           inidoneidade
+
+ É vedado contrato por prazo indeterminado
+
+                                                                                                                                           ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---

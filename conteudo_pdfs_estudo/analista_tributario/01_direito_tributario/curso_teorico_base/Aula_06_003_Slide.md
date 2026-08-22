@@ -1,0 +1,994 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 06_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: DIREITO TRIBUTÁRIO
+artigos_citados:
+- art. 116
+- art. 119
+- art. 121
+- art. 122
+- art. 124
+- art. 129
+- art. 130
+- art. 7º
+---
+
+# DIREITO TRIBUTÁRIO
+
+---
+
+---
+
+DIREITO TRIBUTÁRIO
+
+                                        Prof. Fábio Dutra
+
+   
+
+
+---
+
+Prof Fábio Dutra
+
+       @proffabiodutra                Fábio Dutra     ProfFabioDutraConcursos
+
+                 
+
+
+---
+
+---
+
+---
+
+OBRIGAÇÃO TRIBUTÁRIA
+PLANEJAMENTO TRIBUTÁRIO
+
+                                              Prof. Fábio Dutra
+
+         
+
+
+---
+
+---
+
+Planejamento Tributário
+    ❑ 1) Elisão Fiscal
+
+      ❑ Exemplo: opção pelo Simples Nacional ou Lucro Real.
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                               
+
+
+---
+
+Planejamento Tributário
+    ❑ 2) Evasão Fiscal
+
+      ❑ Exemplo: Realização de “Caixa 2” para omissão de receitas.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                               
+
+
+---
+
+Planejamento Tributário
+    ❑ 3) Elusão Fiscal
+
+      ❑ Exemplo: Preços de transferência
+
+Direito Tributário
+Prof. Fábio Dutra                                                  @ProfFabioDutra
+                              
+
+
+---
+
+Planejamento Tributário
+
+Direito Tributário
+Prof. Fábio Dutra                                         @ProfFabioDutra
+                     
+
+
+---
+
+Planejamento Tributário
+    ❑ O princípio da interpretação econômica do fato gerador
+
+    ❑ Influência da doutrina alemã;
+
+    ❑ A ideia é que a lei tributária deve considerar a substância econômica das
+      transações ao invés de apenas a forma jurídica.
+
+    ❑ Este princípio é usado para combater esquemas de evasão fiscal onde a
+      forma jurídica das transações é usada para mascarar a realidade
+      econômica.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                               
+
+
+---
+
+Planejamento Tributário
+     ❑ A autoridade administrativa poderá desconsiderar atos ou negócios
+       jurídicos praticados com a finalidade de dissimular a ocorrência do fato
+       gerador do tributo ou a natureza dos elementos constitutivos da obrigação
+       tributária, observados os procedimentos a serem estabelecidos em lei
+       ordinária. (CTN, art. 116, par. único)
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+Planejamento Tributário
+
+    ❑ A autoridade poderá “desconsiderar”;
+
+    ❑ Não confundir “autoridade administrativa” com autoridade judiciária;
+
+    ❑ Os procedimentos serão estabelecidos em “lei ordinária”.
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+  OBRIGAÇÃO TRIBUTÁRIA
+SUJEITO PASSIVO E SUJEITO ATIVO
+
+                                              Prof. Fábio Dutra
+
+         
+
+
+---
+
+---
+
+Sujeitos da Obrigação Tributária
+       ❑ Sujeito ativo da obrigação é a pessoa jurídica de direito público, titular da
+         competência para exigir o seu cumprimento. (CTN, art. 119)
+
+
+       ❑ Sujeito Ativo Direto →
+
+
+       ❑ Sujeito Ativo Indireto →
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Sujeitos da Obrigação Tributária
+      ❑ Salvo disposição de lei em contrário, a pessoa jurídica de direito público,
+        que se constituir pelo desmembramento territorial de outra, subroga-se
+        nos direitos desta, cuja legislação tributária aplicará até que entre em
+        vigor a sua própria. (CTN, art. 120)
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                 
+
+
+---
+
+Sujeitos da Obrigação Tributária
+      ❑ Inovação Subjetiva: desmembramento territorial;
+
+
+      ❑ 1) Alteração do sujeito ativo (obrigações tributárias já existentes);
+
+
+      ❑ 2) Recepção da legislação tributária (extraterritorialidade da legislação
+        tributária.
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                  
+
+
+---
+
+Sujeitos da Obrigação Tributária
+   ❑ Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento
+     de tributo ou penalidade pecuniária.
+
+   ❑ O sujeito passivo da obrigação principal diz-se:
+
+             ❑ contribuinte, quando tenha relação pessoal e direta com a situação
+               que constitua o respectivo fato gerador;
+
+
+             ❑ responsável, quando, sem revestir a condição de contribuinte, sua
+               obrigação decorra de disposição expressa de lei. (CTN, art. 121)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                   
+
+
+---
+
+---
+
+Sujeitos da Obrigação Tributária
+   ❑ Sujeito passivo da obrigação acessória é a pessoa obrigada às prestações
+     que constituam o seu objeto. (CTN, art. 122)
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                             
+
+
+---
+
+Sujeitos da Obrigação Tributária
+
+                                                                     Relação pessoal e
+                                                   Contribuinte
+                                                                      direta com F.G.
+                        Obrigação
+                        Principal
+                                                                         Obrigação
+                                                   Responsável
+                                                                      decorrente da lei
+      Sujeito passivo
+
+
+                        Obrigação                 Obrigado a fazer/deixar de fazer
+                        Acessória                               algo
+
+Direito Tributário
+Prof. Fábio Dutra                                                                         @ProfFabioDutra
+                             
+
+
+---
+
+Sujeitos da Obrigação Tributária
+      ❑ A competência tributária é indelegável, salvo atribuição das funções de
+        arrecadar ou fiscalizar tributos, ou de executar leis, serviços, atos ou
+        decisões administrativas em matéria tributária, conferida por uma pessoa
+        jurídica de direito público a outra, nos termos do § 3º do artigo 18 da
+        Constituição. (CTN, art. 7º)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                               
+
+
+---
+
+Sujeitos da Obrigação Tributária
+      ❑ Resumo:
+
+      ❑ Competência Tributária
+
+
+      ❑ Capacidade Tributária Ativa
+
+
+      ❑ Arrecadação Bancária
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                               
+
+
+---
+
+Sujeitos da Obrigação Tributária
+
+   ❑ Sujeito Passivo Direto → Contribuinte (relação pessoal e direta com o fato
+     gerador)
+
+
+   ❑ Sujeito Passivo Indireto → Responsável (terceira pessoa com obrigação
+     legal de efetuar o pagamento).
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+Sujeitos da Obrigação Tributária
+      ❑ Capacidade Tributária Ativa: sujeito ativo (pessoa jurídica de direito
+        público)
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                              
+
+
+---
+
+Sujeitos da Obrigação Tributária
+  ❑ Capacidade Tributária Passiva: sujeito passivo (contribuinte ou responsável)
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+Sujeitos da Obrigação Tributária
+  ❑ A capacidade tributária passiva independe:
+
+  ❑ da capacidade civil das pessoas naturais;
+
+  ❑ de achar-se a pessoa natural sujeita a medidas que importem privação ou
+    limitação do exercício de atividades civis, comerciais ou profissionais, ou da
+    administração direta de seus bens ou negócios;
+
+  ❑ de estar a pessoa jurídica regularmente constituída, bastando que configure
+    uma unidade econômica ou profissional.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                               
+
+
+---
+
+Sujeitos da Obrigação Tributária
+ ❑ Salvo disposições de lei em contrário, as convenções particulares, relativas à
+   responsabilidade pelo pagamento de tributos, não podem ser opostas à
+   Fazenda Pública, para modificar a definição legal do sujeito passivo das
+   obrigações tributárias correspondentes. (CTN, art. 123)
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+SOLIDARIEDADE TRIBUTÁRIA
+
+                                            Prof. Fábio Dutra
+
+       
+
+
+---
+
+Solidariedade Tributária
+     ❑ Conceito de solidariedade trazido no Código Civil:
+
+     ❑ Art. 264. Há solidariedade, quando na mesma obrigação concorre mais de
+       um credor, ou mais de um devedor, cada um com direito, ou obrigado, à
+       dívida toda.
+
+     ❑ Art. 265. A solidariedade não se presume; resulta da lei ou da vontade das
+       partes.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+Solidariedade Tributária
+      ❑ Solidariedade no Direito Tributário:
+
+      ❑ São solidariamente obrigadas:
+
+                ❑ Solidariedade de fato ou natural → pessoas que tenham interesse
+                  comum na situação que constitua o fato gerador da obrigação
+                  principal;
+
+                ❑ Solidariedade de direito ou legal → pessoas expressamente
+                  designadas por lei. (CTN, art. 124)
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                    
+
+
+---
+
+---
+
+Solidariedade Tributária
+         ❑ Características da solidariedade no Direito Tributário:
+
+         ❑ Não há benefício de ordem
+
+         ❑ Não há devedor principal
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                  
+
+
+---
+
+Solidariedade Tributária
+   ❑ Exemplo Parte 1: um imóvel pertence a quatro irmãos (A, B, C e D),
+     possuindo cada um o seguinte percentual sobre o imóvel:
+      ❑ A → 10%
+      ❑ B → 60%
+      ❑ C → 15%
+      ❑ D → 15%
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                            
+
+
+---
+
+Solidariedade Tributária
+   ❑ Salvo disposição de lei em contrário, são os seguintes os efeitos da
+     solidariedade:
+
+          ❑ o pagamento efetuado por um dos obrigados aproveita aos demais;
+
+          ❑ a isenção ou remissão de crédito exonera todos os obrigados, salvo se
+            outorgada pessoalmente a um deles, subsistindo, nesse caso, a
+            solidariedade quanto aos demais pelo saldo;
+
+          ❑ a interrupção da prescrição, em favor ou contra um dos obrigados,
+            favorece ou prejudica aos demais. (CTN, art. 125)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Solidariedade Tributária
+   ❑ Exemplo Parte 2: O irmão “B” foi cobrado e pagou a totalidade da dívida.
+
+             ❑ A → 10%
+             ❑ B → 60%
+             ❑ C → 15%
+             ❑ D → 15%
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+Solidariedade Tributária
+   ❑ Exemplo Parte 3: O imóvel foi beneficiado por uma isenção fiscal.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                               
+
+
+---
+
+Solidariedade Tributária
+   ❑ Exemplo Parte 4: O irmão “A” foi beneficiado por uma isenção fiscal de
+     caráter subjetivo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+Solidariedade Tributária
+
+                          Pagamento                   Aproveita aos demais
+
+                                                   Exonera todos os demais
+                                                         devedores
+          Efeitos da     Isenção/Remiss
+        Solidariedade          ão                                             Subsiste
+                                                    Exceto se pessoal a um
+                                                                                saldo
+                                                             deles
+                                                                              p/demais
+              Salvo
+         disposição de   Interrupção da            Favorece ou prejudica os
+             lei em        Prescrição                      demais
+          contrário...
+
+Direito Tributário
+Prof. Fábio Dutra                                                                        @ProfFabioDutra
+                                  
+
+
+---
+
+---
+
+DOMICÍLIO TRIBUTÁRIO
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+Domicílio Tributário
+   ❑ Domicílio Tributário: lugar para o sujeito passivo exercer seus direitos e
+     cumprir suas obrigações.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+Domicílio Tributário
+      ❑ Na falta de eleição, pelo contribuinte ou responsável, de domicílio
+        tributário, na forma da legislação aplicável, considera-se como tal:
+
+                ❑ quanto às pessoas naturais, a sua residência habitual, ou, sendo esta
+                  incerta ou desconhecida, o centro habitual de sua atividade;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                      
+
+
+---
+
+Domicílio Tributário
+      ❑ Na falta de eleição, pelo contribuinte ou responsável, de domicílio
+        tributário, na forma da legislação aplicável, considera-se como tal:
+
+                ❑ quanto às pessoas jurídicas de direito privado ou às firmas
+                  individuais, o lugar da sua sede, ou, em relação aos atos ou fatos que
+                  derem origem à obrigação, o de cada estabelecimento;
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                      
+
+
+---
+
+Domicílio Tributário
+      ❑ Na falta de eleição, pelo contribuinte ou responsável, de domicílio
+        tributário, na forma da legislação aplicável, considera-se como tal:
+
+                ❑ quanto às pessoas jurídicas de direito público, qualquer de suas
+                  repartições no território da entidade tributante. (CTN, art. 127)
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                     
+
+
+---
+
+Domicílio Tributário
+      ❑ Quando não couber a aplicação das regras fixadas em qualquer dos
+        incisos deste artigo, considerar-se-á como domicílio tributário do
+        contribuinte ou responsável o lugar da situação dos bens ou da ocorrência
+        dos atos ou fatos que deram origem à obrigação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+Domicílio Tributário
+      ❑ A autoridade administrativa pode recusar o domicílio eleito, quando
+        impossibilite ou dificulte a arrecadação ou a fiscalização do tributo,
+        aplicando-se então a regra do parágrafo anterior.
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                               
+
+
+---
+
+Domicílio Tributário
+             Regra: O sujeito passivo
+              escolhe seu domicílio                                       Pessoa natural: residência habitual, ou,
+                    tributário                                            sendo esta incerta ou desconhecida, o
+                                                                          centro habitual de sua atividade.
+                                                                          PJ de direito privado: local da sede ou de
+                                                                          cada estabelecimento, para FG nele
+                                                                          ocorrido.
+             O domicílio impediu ou                                       PJ de direito público: qualquer de suas
+                                                                          repartições no território da entidade
+             dificultou a fiscalização                                    tributante.
+                  e arrecadação
+
+                                                                              O domicílio será o local dos bens ou
+                  Autoridade
+                                                                              da ocorrência dos atos ou fatos que
+             administrativa recusa o
+                                                                                   deram origem à obrigação
+                domicílio eleito
+Direito Tributário
+Prof. Fábio Dutra                                                                                                 @ProfFabioDutra
+                                         
+
+
+---
+
+Domicílio Tributário
+         ❑ É inválida notificação fiscal enviada para endereço diverso do domicílio
+           tributário do contribuinte. (STJ, Resp 33.837/MG)
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                   
+
+
+---
+
+---
+
+RESPONSABILIDADE
+   TRIBUTÁRIA
+  NOÇÕES GERAIS
+                                        Prof. Fábio Dutra
+
+   
+
+
+---
+
+Responsabilidade Tributária
+   ❑ Sujeito Passivo da Obrigação Tributária:
+
+
+             ❑ Contribuinte: Relação pessoal e direta;
+
+             ❑ Responsável: Obrigação decorrente da lei.
+
+Direito Tributário
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+Responsabilidade Tributária
+   ❑ A lei pode atribuir de modo expresso a responsabilidade pelo crédito
+     tributário a terceira pessoa, vinculada ao fato gerador da respectiva
+     obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a
+     este em caráter supletivo do cumprimento total ou parcial da referida
+     obrigação. (CTN, art. 128)
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+Responsabilidade Tributária
+   ❑ Responsabilidade pessoal
+
+   ❑ Responsabilidade subsidiária ou supletiva
+
+   ❑ Responsabilidade solidária
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+Responsabilidade Tributária
+    ❑ Responsabilidade tributária por substituição
+
+    ❑ Responsabilidade tributária por transferência
+
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+---
+
+  RESPONSABILIDADE
+     TRIBUTÁRIA
+
+SUBSTITUIÇÃO TRIBUTÁRIA
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+Responsabilidade Tributária
+   ❑ Substituição Tributária
+
+   ❑ Momento: antes do fato gerador ou no momento da ocorrência deste;
+
+   ❑ Casos específicos de substituição tributária:
+     ❑ Substituição tributária progressiva (ou para frente);
+     ❑ Substituição tributária regressiva (ou para trás).
+
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+Responsabilidade Tributária
+   ❑ Substituição Tributária
+
+   ❑ Substituição Tributária Regressiva
+
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+Responsabilidade Tributária
+   ❑ Substituição Tributária Progressiva
+
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+Responsabilidade Tributária
+      Art. 150:
+      (...)
+      § 7º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição
+      de responsável pelo pagamento de imposto ou contribuição, cujo fato
+      gerador deva ocorrer posteriormente, assegurada a imediata e preferencial
+      restituição da quantia paga, caso não se realize o fato gerador presumido.
+      (Incluído pela Emenda Constitucional nº 3, de 1993)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Responsabilidade Tributária
+      Jurisprudência – STF:
+
+
+      Anterior: O fato gerador presumido não é provisório, mas definitivo, não
+      dando ensejo a restituição ou complementação do imposto pago, senão, no
+      primeiro caso, na hipótese de sua não realização. (ADI 1.851/AL)
+
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+Responsabilidade Tributária
+      Jurisprudência – STF:
+
+
+      Atual: É devida a restituição da diferença do Imposto sobre Circulação de
+      Mercadorias e Serviços – ICMS pago a mais no regime de substituição
+      tributária para a frente se a base de cálculo efetiva da operação for inferior à
+      presumida. (RE 593.849/MG)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+---
+
+RESPONSABILIDADE
+   TRIBUTÁRIA
+ DOS SUCESSORES
+     PARTE 1
+
+                                        Prof. Fábio Dutra
+
+   
+
+
+---
+
+---
+
+Responsabilidade dos Sucessores
+      ❑ As regras sobre responsabilidade dos sucessores aplicam-se por igual aos
+        créditos tributários definitivamente constituídos ou em curso de
+        constituição à data dos atos nela referidos, e aos constituídos
+        posteriormente aos mesmos atos, desde que relativos a obrigações
+        tributárias surgidas até a referida data. (CTN, art. 129)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Responsabilidade dos Sucessores
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+Responsabilidade dos Sucessores
+     ❑ Os créditos tributários relativos a impostos cujo fato gerador seja a
+       propriedade, o domínio útil ou a posse de bens imóveis, e bem assim os
+       relativos a taxas pela prestação de serviços referentes a tais bens, ou a
+       contribuições de melhoria, subrogam-se na pessoa dos respectivos
+       adquirentes, salvo quando conste do título a prova de sua quitação.
+
+     ❑ No caso de arrematação em hasta pública, a sub-rogação ocorre sobre o
+       respectivo preço. (CTN, art. 130)
+
+     ❑ Exceção 01: Quando constar do título a prova de sua quitação.
+
+     ❑ Exceção 02: Arrematação em hasta pública
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Responsabilidade dos Sucessores
+
+
+     ❑ Exceções de responsabilidade na aquisição de bens imóveis:
+
+
+     ❑ Exceção 01: Quando constar do título a prova de sua quitação.
+
+     ❑ Exceção 02: Arrematação em hasta pública
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Responsabilidade dos Sucessores
+
+       ❑ Sub-rogação pessoal: O adquirente assume a responsabilidade sobre os
+         tributos, respondendo por todo o crédito tributário relativo ao imóvel,
+         mesmo que ultrapasse o valor deste.
+
+
+       ❑ Sub-rogação real: O imóvel responde pela dívida tributária. Logo, a
+         responsabilidade é limitada ao valor do bem.
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+Responsabilidade dos Sucessores
+
+       ❑ Responsabilidade tributária em caso de desapropriação: O ente
+         desapropriante não responde por tributos incidentes sobre o imóvel
+         desapropriado nas hipóteses em que o período de ocorrência dos fatos
+         geradores é anterior ao ato de aquisição originária da propriedade. (STJ,
+         REsp, 1.668.058/ES)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+Responsabilidade dos Sucessores
+         ❑ São pessoalmente responsáveis:
+
+                ❑ o adquirente ou remitente, pelos tributos relativos aos bens
+                  adquiridos ou remidos. (CTN, art. 131, I)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+Responsabilidade dos Sucessores
+         ❑ São pessoalmente responsáveis:
+
+                ❑ o sucessor a qualquer título e o cônjuge meeiro, pelos tributos
+                  devidos pelo de cujus até a data da partilha ou adjudicação, limitada
+                  esta responsabilidade ao montante do quinhão do legado ou da
+                  meação;
+
+                ❑ o espólio, pelos tributos devidos pelo de cujus até a data da abertura
+                  da sucessão. (CTN, art. 131, II e III)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                       
+
+
+---
+
+---
+
+Responsabilidade dos Sucessores
+       ❑Sucessão causa mortis:
+   De Cujus
+   • É contribuinte pelos FGs antes da morte.
+   • A resposabilidade é transferida ao espólio.
+
+                Espólio
+                • É responsável pelos FGs antes da abertura da sucessão;
+                • É contribuinte pelos FGs após a abertura da sucessão;
+
+                      Sucessores
+                      • É responsável pelos FGs antes da partilha;
+                      • É contribuinte pelos FGs após a partilha;
+Direito Tributário
+Prof. Fábio Dutra
+                                         
+
+
+---
+
+---

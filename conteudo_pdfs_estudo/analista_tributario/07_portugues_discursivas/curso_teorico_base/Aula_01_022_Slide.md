@@ -1,0 +1,268 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_022_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: MISCELÂNEA
+---
+
+# MISCELÂNEA
+
+MISCELÂNEA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+COSEAC UFF - Técnico em Contabilidade
+Considerando, mais uma vez, o Novo Acordo Ortográfico vigente, em amarelo-
+limão, o hífen é utilizado porque
+ A) o segundo elemento da composição inicia com                           .
+
+ B) o prefixo amarelo exige hífen.
+
+ C) os elementos constituem uma unidade sintagmática e semântica.
+
+ D) o primeiro elemento da composição termina com vogal.
+
+ E) a palavra composta designa uma espécie.
+Profª Adriana Figueiredo
+
+                                     
+
+
+---
+
+IBFC MGS - Técnico Contábil
+ De acordo com as regras de ortografa, atribua valores Verdadeiro (V) ou Falso (F)
+ para as afirmações a seguir.
+
+ ( ) A palavra pega-pega é escrita com hífen, pois é composta por dois vocábulos
+ semelhantes.
+ ( ) Girassol deve ser escrito sem o hífen, pois o primeiro elemento é verbo e o
+ segundo substantivo.
+ ( ) Usa-se hífen em palavras que apresentam elementos de ligação como cara-de-
+ pau.
+ ( ) Não se usa hífen se o prefixo terminar com a mesma letra com que se inicia a
+ outra palavra. Ex: anti inflacionário.
+
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+IBFC MGS - Técnico Contábil
+ Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+ A) V, V, F, F
+
+ B) V, F, F, F
+
+ C) F, F, V, V
+
+ D) V, F, V, V
+
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Formiga - MG - Auxiliar de
+Biblioteca
+ O prefixo        (3º§) deve ser hifenizado quando vier acompanhado de qual
+ destas palavras?
+
+ A) Amigo.
+
+ B) Mulher.
+
+ C) Homem.
+
+ D) Exigente.
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Orlândia - SP - Guarda Civil
+Municipal
+ Em        mania de se autoconhecer. Chega de se autoconhecer. Você é o que é,
+ um imperfeito bem-intencionado e que muda de opinião sem a menor culpa.
+ (13º§), a palavra       -                é composta e está separada por hífen.
+ Marque a alternativa cuja palavra assinalada foi escrita INCORRETAMENTE.
+ A) Isso que você está fazendo é anti-higiênico.
+
+ B) Aquela loja de autopeças sempre vende mais barato.
+
+ C) O desenvolvimento aero-espacial fez o país sair da crise.
+
+ D) Uma bactéria super-resistente foi descoberta no laboratório.
+Profª Adriana Figueiredo
+
+                                   
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Câmara de Cotia - SP - Assistente de
+Serviço de Pessoal
+ O emprego do hífen em         -de-       (7º§) se justifica por ser uma palavra que
+ nomeia uma espécie vegetal. Conforme as demais regras ortográficas, assinale a
+ alternativa em que o hífen está corretamente empregado.
+
+
+ A) Dia-a-dia.
+
+ B) Cor-de-rosa.
+
+ C) Mão-de-obra.
+
+ D) Contra-indicação.
+
+ E) Auto-regulamentação.
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+VUNESP Prefeitura de Pindamonhangaba - SP - Assistente Social
+ Assinale a alternativa em que a flexão do substantivo composto no plural é feita da
+ mesma forma que ocorre com a palavra         -de-      .
+ A) beija-flor
+
+ B) estrela-do-mar
+
+ C) segunda-feira
+
+ D) cirurgião-dentista
+
+ E) bem-me-quer
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+VUNESP DPE-SP - Oficial de Defensoria
+ Assim como                -   estão corretamente grafados com hífen os termos:
+
+ A) infra-estrutura; para-quedas; sul-africano.
+
+ B) recém-nascido; manda-chuva; médico-cirurgião.
+
+ C) bem-aventurado; arco-íris; decreto-lei.
+
+ D) ultra-romântico; ponta-pé; guarda-noturno.
+
+ E) guarda-sol; fim-de-semana; anti-depressivo.
+Profª Adriana Figueiredo
+
+                                    
+
+
+---
+
+FCC TRF - 2ª REGIÃO - Analista Judiciário - Taquigrafia
+ Consideradas as prescrições do Acordo Ortográfico da Língua Portuguesa, em vigor
+ desde janeiro de 2009, a palavra em que o hífen foi empregado de modo
+ INCORRETO é:
+
+
+ A) anti-higiênico.
+
+ B) hiper-realista.
+
+ C) aquém-fronteiras.
+
+ D) bem-visto.
+
+ E) anti-semita.
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+CESGRANRIO LIQUIGÁS - Conferente I
+ No Texto II, a autora criou a palavra                         -       (l. 17) e empregou nela
+ corretamente o hífen.
+
+ Usando uma estratégia criativa semelhante, será necessário usar esse sinal gráfico
+ em
+
+ A) pseudo-viajante
+ B) super-viajante
+ C) ex-viajante
+ D) anti-viajante
+ E) neo-viajante
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+CESGRANRIO       BNDES - Nível Superior - Conhecimentos Básicos -
+Todos os Cargos
+No trecho do Texto II       exigências de infraestrutura e de serviços públicos. (L.
+4-5), a palavra destacada não apresenta o emprego do hífen, segundo as regras
+ortográficas da Língua Portuguesa.
+
+ Da mesma forma, o hífen não deve ser empregado na combinação dos seguintes
+ elementos:
+ A) mal + educado
+ B) supra + atmosférico
+ C) anti + higiênico
+ D) anti + aéreo
+ E) vice + reitor
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                   @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/professoraadriana
+           f
+
+                facebook.com/prof.adriana.figueired
+                o
+
+                 
+
+
+---
+
+---

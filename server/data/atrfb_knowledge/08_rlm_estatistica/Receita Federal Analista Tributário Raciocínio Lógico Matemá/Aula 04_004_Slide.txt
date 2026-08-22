@@ -1,0 +1,58 @@
+https://t.me/KakashiAssinaturasBot   1
+https://t.me/KakashiAssinaturasBot   2
+LÓGICA DE 1ª ORDEM
+PROF. BRUNNO LIMA
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot   3
+   FORMA    SIMBÓLICA                               DAS         PROPOSIÇÕES
+   CATEGÓRICAS
+
+
+
+
+LÓGICA DE PRIMEIRA ORDEM
+Prof. Brunno Lima
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot                 4
+https://t.me/KakashiAssinaturasBot   5
+FORMA SIMBÓLICA DAS PROPOSIÇÕES CATEGÓRICAS
+
+•     Todo A é B
+
+    褐姉 冊岫姉岻 蝦 刷岫姉岻 ou 反 且姉 冊岫姉岻 巻 反刷岫姉岻
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot   6
+•     Nenhum A é B
+
+    褐姉 冊岫姉岻 蝦 反刷岫姉岻 ou 反 且姉 冊岫姉岻 巻 刷岫姉岻
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot   7
+•     Algum A é B
+
+    且姉 冊岫姉岻 巻 刷岫姉岻 ou 反 褐姉 冊岫姉岻 蝦 反刷岫姉岻
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot   8
+•     Algum A não é B
+
+    且姉 冊岫姉岻 巻 反刷岫姉岻 ou 反 褐姉 冊岫姉岻 蝦 刷岫姉岻
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot   9
+

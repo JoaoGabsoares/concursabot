@@ -1,0 +1,156 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 03_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: QUANTIS E BOX PLOT - FGV
+---
+
+# QUANTIS E BOX PLOT - FGV
+
+Prof. Jhoni Zini
+
+                   
+
+
+---
+
+QUANTIS E BOX PLOT - FGV
+
+
+                                                     Profº Jhoni zini
+
+                
+
+
+---
+
+FGV - ANALISTA DE CONTROLE INTERNO (PREF RECIFE)/2014
+
+A seguinte amostra de idades foi obtida:
+
+19; 25; 39; 20; 16; 27; 40; 38; 28; 32; 30.
+
+Assinale a opção que indica a mediana dessas idades.
+A. 27
+B. 28
+C. 29
+D. 30
+E. 31
+
+Prof. Jhoni Zini
+                                
+
+
+---
+
+FGV - ANALISTA PORTUÁRIO (CODEBA)/ECONOMISTA/2016
+
+Uma das características principais da mediana é
+A. a invariância à unidade de medida utilizada.
+B. a robustez à presença de outliers.
+C. a identificação da observação mais frequente.
+D. o fato de, em seu cálculo, dar mais peso às observações mais frequentes.
+E. a normalização pelos desvios em relação à média.
+
+Prof. Jhoni Zini
+                             
+
+
+---
+
+FGV - AUDITOR DO ESTADO (CGE MA)/2014
+
+Sobre uma amostra com uma quantidade ímpar de valores, todos diferentes de uma
+variável aleatória, sabe-se que a média é maior que a mediana.
+
+Com relação aos valores dessa amostra é necessariamente verdade que
+A. há mais valores acima da média do que abaixo da média.
+B. há mais valores abaixo da média do que acima da média.
+C. há mais valores acima da média do que abaixo da mediana.
+D. há mais valores acima da mediana do que abaixo da média.
+E. a quantidade de valores acima da média é igual à quantidade de valores abaixo da
+média.
+
+Prof. Jhoni Zini
+                                
+
+
+---
+
+FGV - ADVOGADO (IMBEL)/2021
+Considere a lista de cinco números reais: 2, 9, 4, 10, x.
+Sabe-se que a mediana desses números é igual à média deles.
+A soma dos possíveis valores de x é:
+A. 22,5.
+B. 21,25.
+C. 20,75.
+D. 19,5.
+E. 17,5.
+
+Prof. Jhoni Zini
+                            
+
+
+---
+
+FGV - TECNOLOGISTA (IBGE)/ESTATÍSTICA/2016
+
+Adotando-se para as estatísticas de posição de uma dada distribuição de
+frequências as convenções, QK = Quartil de ordem k, DK = Decil de ordem k, QtK =
+Quintil de ordem k e PK = Percentil de ordem k, é correto afirmar que:
+A. Q3 ≥ D6 ≥ Qt4 = P80;
+B. Qt2 ≤ P55 ≤ D6 ≤ Q3;
+C. D9 ≥ P85 ≥ Q3 = Qt3;
+D. Q1 ≥ Qt2 = P20 ≤ D3;
+E. D6 ≤ Q3 = P75 ≤ Qt3.
+
+Prof. Jhoni Zini
+                             
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---
+
+Prof. Jhoni Zini
+                   
+
+
+---

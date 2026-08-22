@@ -1,0 +1,2737 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 24_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '24'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- "art.\n  140"
+- 'art.
+
+  22'
+- art. 120
+- art. 130
+- art. 133
+- art. 162
+- art. 184
+- art. 7º
+---
+
+# Passo Estratégico de Direito
+
+Aula 22
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             31 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 22
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Contratos Administrativos (Lei 14.133/2021) - FGV
+
+
+2) Roteiro de Revisão - Contratos Administrativos (Lei 14.133/2021)
+
+
+3) Aposta Estratégica - Contratos Administrativos (Lei 14.133/2021) - Nível Superior
+
+
+4) Questões Estratégicas - Contratos Administrativos (Lei 14.133/2021) - FGV - Nível Superior
+
+
+5) Questionário de Revisão - Contratos Administrativos (Lei 14.133/2021)
+
+
+6) Referências Bibliográficas
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           55
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                                % de
+                                                Tópico                                        cobrança
+                                                                                                FGV
+                                 Formalização dos Contratos (arts. 89 a 95 da Lei nº
+                                                                                               11,46%
+                                                      14.133/2021)
+                                   Garantias (arts. 96 a 102 da Lei nº 14.133/2021)            3,44%
+                                Alocação de Riscos (art. 103 da Lei nº 14.133/2021)            5,73%
+                                  Prerrogativas da Administração (art. 104 da Lei nº
+                                                                                               1,42%
+                                                      14.133/2021)
+                                  Duração dos Contratos (arts. 105 a 114 da Lei nº
+                                                                                               10,30%
+                                                      14.133/2021)
+                               Execução dos Contratos (arts. 115 a art. 123 da Lei nº
+                                                                                               5,73%
+  Contratos Administrativos                           14.133/2021)
+   (arts. 89 a 154 da Lei nº  Alteração dos Contratos e dos Preços (art. 124 a 136 da
+                                                                                               12,62%
+          14.133/2021)                             Lei nº 14.133/2021)
+                               Hipóteses de Extinção dos Contratos (arts. 137 a 139
+                                                                                               6,89%
+                                                 da Lei nº 14.133/2021)
+                              Recebimento do Objeto do Contrato (art. 140 da Lei nº
+                                                                                               2,28%
+                                                      14.133/2021)
+                                Pagamentos (arts. 141 a 146 da Lei nº 14.133/2021)             0,00%
+                                  Nulidade dos Contratos (arts. 147 a 150 da Lei nº
+                                                                                               9,17%
+                                                      14.133/2021)
+                              Meios Alternativos de Resolução de Controvérsias (arts.
+                                                                                               1,16%
+                                           151 a 154 da Lei nº 14.133/2021)
+                              Infrações e Sanções Administrativas (arts. 155 a 163 da
+                                                                                               13,74%
+                                                   Lei nº 14.133/2021)
+ Irregularidades (arts. 155 a
+                               Impugnações, Pedidos de Esclarecimento e Recursos
+          173 da Lei nº                                                                        3,44%
+                                        (arts. 164 a 168 da Lei nº 14.133/2021)
+          14.133/2021)
+                                Controle das Contratações (arts. 169 a 173 da Lei nº
+                                                                                               9,17%
+                                                      14.133/2021)
+                              Portal Nacional de Contratações Públicas - PNCP (arts.
+   Disposições Gerais (arts.                                                                   0,00%
+                                           174 a 176 da Lei nº 14.133/2021)
+     174 a 194 da Lei nº
+                                   Alterações Legislativas (arts. 177 a 180 da Lei nº
+          14.133/2021)                                                                         0,00%
+                                                      14.133/2021)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               3
+        www.estrategiaconcursos.com.br                                                                 55
+
+                                     
+
+
+---
+
+Tulio Lages
+Aula 22
+
+                                  Disposições Transitórias e Finais (arts. 181 a 194 da Lei
+                                                                                              3,44%
+                                                     nº 14.133/2021)
+
+                                                      ==219a34==
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               4
+      www.estrategiaconcursos.com.br                                                                  55
+
+                                   
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ter um bom nível de preparação no assunto, você precisa, basicamente,
+compreender e memorizar os pontos a seguir:
+
+
+Contratos administrativos
+
+Formalização dos contratos
+
+Os contratos de que trata a Lei regular-se-ão pelas suas cláusulas e pelos preceitos de direito
+público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos contratos e as
+disposições de direito privado (art. 89).
+
+Prazo de convocação do licitante vencedor para assinar o termo de contrato
+
+A Administração convocará o licitante vencedor para assinar o termo de contrato ou para aceitar
+ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de
+licitação, sob pena de decair o direito à contratação (art. 90).
+
+  - O prazo de convocação poderá ser prorrogado 1 vez, por igual período, mediante solicitação
+  da parte durante seu transcurso, devidamente justificada, e desde que o motivo apresentado
+  seja aceito pela Administração.
+
+  - Quando o convocado não assinar o termo de contrato ou não aceitar ou não retirar o
+  instrumento equivalente no prazo e nas condições estabelecidas, será facultado à
+  Administração convocar os licitantes remanescentes, na ordem de classificação, para a
+  celebração do contrato nas condições propostas pelo licitante vencedor.
+
+  - Na hipótese de nenhum dos licitantes aceitar a contratação, a Administração poderá:
+
+     I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com
+     vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário;
+
+     II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes,
+     atendida a ordem classificatória, quando frustrada a negociação de melhor condição.
+
+  - Decorrido o prazo de validade da proposta indicado no edital sem convocação para a
+  contratação, ficarão os licitantes liberados dos compromissos assumidos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  5
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  - A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o
+  instrumento equivalente no prazo estabelecido pela Administração caracterizará o
+  descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente
+  estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou entidade
+  licitante.
+
+
+        Essa regra não se aplica aos licitantes remanescentes convocados para
+        negociação.
+
+  - É facultada à Administração a convocação dos demais licitantes classificados para a
+  contratação de remanescente de obra, de serviço ou de fornecimento em consequência de
+  rescisão contratual.
+
+     Licitante vencedor é                             1º) a administração convoca os demais licitantes, na
+  convocado e não assina o                            ordem de classificação, para celebrar o contrato nas
+contrato ou termo equivalente                             condições propostas pelo licitante vencedor.
+
+                                                          2º) nenhum aceitando, convoca os licitantes
+                                                         remanescentes para negociação, na ordem de
+                                                                        classificação.
+
+                                                       3º) frustrada a negociação, celebra o contrato nas
+                                                      condições ofertadas pelos remanescentes, na ordem
+                                                                         de classificação.
+
+Reajustamento de preços
+
+Independentemente do prazo de duração do contrato, será obrigatória a previsão no edital de
+índice de reajustamento de preço, com data-base vinculada à data do orçamento estimado e com
+a possibilidade de ser estabelecido mais de um índice específico ou setorial, em conformidade
+com a realidade de mercado dos respectivos insumos (art. 25, § 7º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    6
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+        Essa mesma previsão deverá constar em cláusula contratual (art. 92, § 3º).
+
+Nos contratos de serviços contínuos, observado o interregno mínimo de 1 ano, o critério de
+reajustamento de preços será por (art. 92, § 4º)
+
+  I - reajustamento em sentido estrito, quando não houver regime de dedicação exclusiva de mão
+  de obra ou predominância de mão de obra, mediante previsão de índices específicos ou
+  setoriais;
+
+  II - repactuação, quando houver regime de dedicação exclusiva de mão de obra ou
+  predominância de mão de obra, mediante demonstração analítica da variação dos custos.
+
+Os conceitos de reajustamento em sentido estrito e de repactuação constam no art. 6º da Lei:
+
+Art. 6º, LVIII - reajustamento em sentido estrito: forma de manutenção do equilíbrio econômico-financeiro
+de contrato consistente na aplicação do índice de correção monetária previsto no contrato, que deve
+retratar a variação efetiva do custo de produção, admitida a adoção de índices específicos ou setoriais;
+LIX - repactuação: forma de manutenção do equilíbrio econômico-financeiro de contrato utilizada para
+serviços contínuos com regime de dedicação exclusiva de mão de obra ou predominância de mão de obra,
+por meio da análise da variação dos custos contratuais, devendo estar prevista no edital com data vinculada
+à apresentação das propostas, para os custos decorrentes do mercado, e com data vinculada ao acordo, à
+convenção coletiva ou ao dissídio coletivo ao qual o orçamento esteja vinculado, para os custos decorrentes
+da mão de obra;
+
+                            Dedicação exclusiva ou predominância de mão-de obra
+
+
+                     Não                                                              Sim
+        Reajustamento em sentido estrito                                          Repactuação
+                                                             - demonstração analítica da variação dos
+ - previsão de índices específicos ou setoriais;             custos;
+
+ - aplicação de índice de correção monetária                 - deve estar prevista no edital com data
+ previsto no contrato, que deve retratar a                   vinculada:
+ variação efetiva do custo de produção.                                   o à apresentação das propostas,
+                                                                              para os custos decorrentes do
+                                                                              mercado;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                     7
+        www.estrategiaconcursos.com.br                                                                        55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+                                                                          o ao acordo, à convenção coletiva
+                                                                              ou ao dissídio coletivo ao qual o
+                                                                              orçamento esteja vinculado,
+                                                                              para os custos decorrentes da
+                                                                              mão de obra.
+
+A definição de serviços contínuos, contínuos com dedicação exclusiva de mão de obra e não
+contínuos consta no art. 6º da Lei:
+
+Art. 6º, XV - serviços e fornecimentos contínuos: serviços contratados e compras realizadas pela
+Administração Pública para a manutenção da atividade administrativa, decorrentes de necessidades
+permanentes ou prolongadas;
+XVI - serviços contínuos com regime de dedicação exclusiva de mão de obra: aqueles cujo modelo de
+execução contratual exige, entre outros requisitos, que:
+a) os empregados do contratado fiquem à disposição nas dependências do contratante para a prestação
+dos serviços;
+b) o contratado não compartilhe os recursos humanos e materiais disponíveis de uma contratação para
+execução simultânea de outros contratos;
+c) o contratado possibilite a fiscalização pelo contratante quanto à distribuição, controle e supervisão dos
+recursos humanos alocados aos seus contratos;
+XVII - serviços não contínuos ou contratados por escopo: aqueles que impõem ao contratado o dever de
+realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde
+que justificadamente, pelo prazo necessário à conclusão do objeto;
+
+A Lei nº 14.770/2023 incluiu na Lei nº 14.133/2021 o que se considera adimplemento da obrigação
+contratual (art. 92, § 7º):
+
+Art. 92, § 7º Para efeito do disposto nesta Lei, consideram-se como adimplemento da obrigação contratual
+a prestação do serviço, a realização da obra ou a entrega do bem, ou parcela destes, bem como qualquer
+outro evento contratual a cuja ocorrência esteja vinculada a emissão de documento de cobrança.
+
+Divulgação no PNCP
+
+A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para
+a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da
+data de sua assinatura (art. 94):
+
+  I - 20 dias úteis, no caso de licitação;
+
+  II - 10 dias úteis, no caso de contratação direta.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                     8
+        www.estrategiaconcursos.com.br                                                                        55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Observações:
+
+  - Os contratos celebrados em caso de urgência terão eficácia a partir de sua assinatura, mas
+  deverão ser publicados nos prazos acima, sob pena de nulidade (art. 94, § 1º).
+
+  - Na contratação de profissional do setor artístico por inexigibilidade, a divulgação deverá
+  identificar os custos do cachê do artista, dos músicos ou da banda, quando houver, do
+  transporte, da hospedagem, da infraestrutura, da logística do evento e das demais despesas
+  específicas (art. 94, § 2º).
+
+  - No caso de obras (art. 94, § 3º):
+
+     a) a Administração divulgará em sítio eletrônico oficial, em até 25 dias úteis após a assinatura
+     do contrato, os quantitativos e os preços unitários e totais que contratar; e
+
+     b) em até 45 dias úteis após a conclusão do contrato, os quantitativos executados e os preços
+     praticados.
+
+Obrigatoriedade do instrumento de contrato
+
+O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses (art. 95):
+
+  I - dispensa de licitação em razão de valor;
+
+  II - compras com entrega imediata e integral dos bens adquiridos e dos quais não resultem
+  obrigações futuras, inclusive quanto a assistência técnica, independentemente de seu valor.
+
+Nesses casos, a Administração poderá substituí-lo por outro instrumento hábil, como carta-
+contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço.
+
+É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras
+ou o de prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não
+superior a R$ 10.000,00 R$ 12.545,11 (valor atualizado pelo Decreto 12.343/2024).
+
+Garantias
+
+A critério da autoridade competente, poderá ser exigida, mediante previsão no edital, prestação
+de garantia nas contratações de obras, serviços e fornecimentos (art.96), cabendo ao contratado
+optar por uma das seguintes modalidades (art. 96, § 1º):
+
+  I - caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante
+  registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do
+  Brasil, e avaliados por seus valores econômicos, conforme definido pelo Ministério da
+  Economia;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          9
+        www.estrategiaconcursos.com.br                                                            55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  II - seguro-garantia, assim conceituado no art. 6º da Lei:
+
+Art. 6º, LIV - seguro-garantia: seguro que garante o fiel cumprimento das obrigações assumidas pelo
+contratado;
+
+  III - fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar
+  no País pelo Banco Central do Brasil;
+
+  IV - título de capitalização custeado por pagamento único, com resgate pelo valor total.
+
+Valor da garantia nas contratações de obras, serviços e fornecimentos
+
+Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% do valor
+inicial do contrato (art. 98).
+
+  a) É autorizada a majoração desse percentual para até 10%, desde que justificada mediante
+  análise da complexidade técnica e dos riscos envolvidos.
+
+  b) Nas contratações de serviços e fornecimentos contínuos com vigência superior a 1 ano, assim
+  como nas subsequentes prorrogações, será utilizado o valor anual do contrato para definição e
+  aplicação dos percentuais.
+
+Liberação ou restituição da garantia
+
+A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato
+ou após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada
+monetariamente (art. 100).
+
+Seguro-garantia na contratação de obras e serviços de engenharia
+
+Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia
+na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de
+inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato, hipótese
+em que (art. 102):
+
+  I - a seguradora deverá firmar o contrato, inclusive os aditivos, como interveniente anuente e
+  poderá:
+
+     a) ter livre acesso às instalações em que for executado o contrato principal;
+
+     b) acompanhar a execução do contrato principal;
+
+     c) ter acesso a auditoria técnica e contábil;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       10
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+     d) requerer esclarecimentos ao responsável técnico pela obra ou pelo fornecimento;
+
+  II - a emissão de empenho em nome da seguradora, ou a quem ela indicar para a conclusão do
+  contrato, será autorizada desde que demonstrada sua regularidade fiscal;
+
+  III - a seguradora poderá subcontratar a conclusão do contrato, total ou parcialmente.
+
+Na hipótese de inadimplemento do contratado, serão observadas as seguintes disposições (art.
+102, parágrafo único):
+
+  I - caso a seguradora execute e conclua o objeto do contrato, estará isenta da obrigação de
+  pagar a importância segurada indicada na apólice;
+
+  II - caso a seguradora não assuma a execução do contrato, pagará a integralidade da
+  importância segurada indicada na apólice.
+
+Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a
+prestação de garantia, na modalidade seguro-garantia, com a cláusula de retomada acima citada,
+em percentual equivalente a até 30% do valor inicial do contrato (art. 99).
+
+Alocação de riscos
+
+O edital poderá contemplar matriz de alocação de riscos entre o contratante e o contratado,
+hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco
+compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com
+metodologia predefinida pelo ente federativo (art. 22).
+
+A matriz de riscos é assim definida no art. 6º da Lei:
+
+Art. 6º, XXVII - matriz de riscos: cláusula contratual definidora de riscos e de responsabilidades entre as
+partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus
+financeiro decorrente de eventos supervenientes à contratação, contendo, no mínimo, as seguintes
+informações:
+a) listagem de possíveis eventos supervenientes à assinatura do contrato que possam causar impacto em
+seu equilíbrio econômico-financeiro e previsão de eventual necessidade de prolação de termo aditivo por
+ocasião de sua ocorrência;
+b) no caso de obrigações de resultado, estabelecimento das frações do objeto com relação às quais haverá
+liberdade para os contratados inovarem em soluções metodológicas ou tecnológicas, em termos de
+modificação das soluções previamente delineadas no anteprojeto ou no projeto básico;
+c) no caso de obrigações de meio, estabelecimento preciso das frações do objeto com relação às quais não
+haverá liberdade para os contratados inovarem em soluções metodológicas ou tecnológicas, devendo
+haver obrigação de aderência entre a execução e a solução predefinida no anteprojeto ou no projeto
+básico, consideradas as características do regime de execução no caso de obras e serviços de engenharia;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               11
+        www.estrategiaconcursos.com.br                                                                  55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+A matriz deverá promover a alocação eficiente dos riscos de cada contrato e estabelecer a
+responsabilidade que caiba a cada parte contratante, bem como os mecanismos que afastem a
+ocorrência do sinistro e mitiguem os seus efeitos, caso este ocorra durante a execução contratual
+(art. 22, § 1º).
+
+O contrato deverá refletir a alocação realizada pela matriz de riscos, especialmente quanto (art.
+22, § 2º):
+
+  I - às hipóteses de alteração para o restabelecimento da equação econômico-financeira do
+  contrato nos casos em que o sinistro seja considerado na matriz de riscos como causa de
+  desequilíbrio não suportada pela parte que pretenda o restabelecimento;
+
+  II - à possibilidade de resolução quando o sinistro majorar excessivamente ou impedir a
+  continuidade da execução contratual;
+
+  III - à contratação de seguros obrigatórios previamente definidos no contrato, integrado o custo
+  de contratação ao preço ofertado.
+
+Casos em que o edital obrigatoriamente deverá contemplar matriz de alocação de riscos
+
+O edital obrigatoriamente deverá contemplar matriz de alocação de riscos entre o contratante e
+o contratado quando (art. 22, § 3º):
+
+  - a contratação se referir a obras e serviços de grande vulto; ou
+
+  - forem adotados os regimes de contratação integrada ou semi-integrada.
+
+Nas contratações integradas ou semi-integradas, os riscos decorrentes de fatos supervenientes à
+contratação associados à escolha da solução de projeto básico pelo contratado deverão ser
+alocados como de sua responsabilidade na matriz de riscos (art. 22, § 3º).
+
+Riscos contratuais podem ser identificados no contrato
+
+O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de
+alocação de riscos, alocando-os entre contratante e contratado, indicando (art. 103):
+
+  - Riscos assumidos pelo setor público
+
+  - Riscos assumidos pelo setor privado
+
+  - Riscos compartilhados
+
+Para a alocação dos riscos, serão considerados, em compatibilidade com as obrigações e os
+encargos atribuídos às partes no contrato, a natureza do risco, o beneficiário das prestações a que
+se vincula e a capacidade de cada setor para melhor gerenciá-lo (art. 103, § 1º).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       12
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  - Os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente
+  transferidos ao contratado (art. 103, § 2º).
+
+  - A alocação dos riscos contratuais será quantificada para fins de projeção dos reflexos de seus
+  custos no valor estimado da contratação (art. 103, § 3º).
+
+  - A matriz de alocação de riscos definirá o equilíbrio econômico-financeiro inicial do contrato
+  em relação a eventos supervenientes e deverá ser observada na solução de eventuais pleitos
+  das partes (art. 103, § 4º).
+
+Prerrogativas da Administração
+
+À Administração são conferidas as seguintes prerrogativas em relação aos contratos (art. 104):
+
+     I - modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público,
+     respeitados os direitos do contratado;
+
+        Nesse caso, as cláusulas econômico-financeiras do contrato deverão ser revistas
+        para que se mantenha o equilíbrio contratual (art. 104, § 2º).
+
+  II - extingui-los, unilateralmente, nos casos especificados na Lei;
+
+  III - fiscalizar sua execução;
+
+  IV - aplicar sanções motivadas pela inexecução total ou parcial do ajuste;
+
+  V - ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao
+  objeto do contrato nas hipóteses de:
+
+     a) risco à prestação de serviços essenciais;
+
+     b) necessidade de acautelar apuração administrativa de faltas contratuais pelo contratado,
+     inclusive após extinção do contrato.
+
+As cláusulas econômico-financeiras e monetárias dos contratos não poderão ser alteradas sem
+prévia concordância do contratado (art. 104, § 1º).
+
+Duração dos contratos
+
+Serviços e fornecimentos contínuos
+
+A Administração poderá celebrar contratos com prazo de até 5 anos (art. 106).
+
+Diretrizes:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        13
+        www.estrategiaconcursos.com.br                                                           55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  I - a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem
+  econômica vislumbrada em razão da contratação plurianual;
+
+  II - a Administração deverá atestar, no início da contratação e de cada exercício, a existência de
+  créditos orçamentários vinculados à contratação e a vantagem em sua manutenção;
+
+  III - a Administração terá a opção de extinguir o contrato, sem ônus, quando não dispuser de
+  créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe
+  oferece vantagem.
+
+
+         Nesse caso, a extinção ocorrerá apenas na próxima data de aniversário do contrato
+         e não poderá ocorrer em prazo inferior a 2 meses, contado da referida data.
+
+Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente,
+respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade
+competente ateste que as condições e os preços permanecem vantajosos para a Administração,
+permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das
+partes (art. 107).
+
+        5 anos - prazo máximo do contrato                      10 anos - prazo máximo com prorrogações
+
+Em contratos nos quais seja usuária de serviço público oferecido em regime de monopólio, a
+Administração poderá estabelecer a vigência por prazo indeterminado, desde que comprovada,
+a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação (art.
+109).
+
+Contratação que gere receita e contrato de eficiência que gere economia para a
+Administração
+
+Prazos (art. 110):
+
+  I - até 10 anos, nos contratos sem investimento;
+
+  II - até 35 anos, nos contratos com investimento.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                14
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+        Consideram-se contratos com investimento aqueles que impliquem a elaboração
+        de benfeitorias permanentes, realizadas exclusivamente a expensas do
+        contratado, que serão revertidas ao patrimônio da Administração Pública ao
+        término do contrato.
+
+Escopo definido
+
+Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será
+automaticamente prorrogado quando seu objeto não for concluído no período firmado no
+contrato (art. 111).
+
+Quando a não conclusão decorrer de culpa do contratado:
+
+  I - o contratado será constituído em mora, aplicáveis a ele as respectivas sanções
+  administrativas;
+
+  II - a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas
+  admitidas em lei para a continuidade da execução contratual.
+
+Fornecimento e prestação de serviço associado
+
+Terá sua vigência máxima definida pela soma (art. 113):
+
+  - do prazo relativo ao fornecimento inicial ou à entrega da obra
+
+  - com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 anos contados
+  da data de recebimento do objeto inicial, autorizada a prorrogação, com vigência máxima
+  decenal.
+
+Operação continuada de sistemas estruturantes de tecnologia da informação
+
+Poderá ter vigência máxima de 15 anos.
+
+Execução dos contratos
+
+Principais regras acerca da execução contratual:
+
+  - O contrato deverá ser executado fielmente pelas partes e cada parte responderá pelas
+  consequências de sua inexecução total ou parcial (art. 115).
+
+  - É proibido à Administração retardar imotivadamente a execução de obra ou serviço, ou de
+  suas parcelas, inclusive na hipótese de posse do respectivo chefe do Poder Executivo ou de
+  novo titular no órgão ou entidade contratante (art. 115, § 1º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   15
+        www.estrategiaconcursos.com.br                                                      55
+
+                                     
+
+
+---
+
+Tulio Lages
+Aula 22
+
+- Nas contratações de obras e serviços de engenharia, sempre que a responsabilidade pelo
+licenciamento ambiental for da Administração, a manifestação prévia ou licença prévia, quando
+cabíveis, deverão ser obtidas antes da divulgação do edital (art. 115, § 4º).
+
+- Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de
+execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais
+circunstâncias mediante simples apostila (art. 115, § 5º).
+
+
+      Havendo paralisação ou suspensão por mais de 1 mês, a Administração deverá
+      divulgar, em sítio eletrônico oficial e em placa a ser afixada em local da obra de
+      fácil visualização pelos cidadãos, aviso público de obra paralisada, com o motivo
+      e o responsável pela inexecução temporária do objeto do contrato e a data
+      prevista para o reinício da sua execução, devendo os textos com as informações
+      serem elaborados pela Administração (art. 115, §§ 6º e 7º).
+
+- O contratado será:
+
+   a) Obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no total
+   ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções
+   resultantes de sua execução ou de materiais nela empregados (art. 119).
+
+   b) Responsável pelos danos causados diretamente à Administração ou a terceiros em razão
+   da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou
+   o acompanhamento pelo contratante (art. 120).
+
+   c) Responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes
+   da execução do contrato (art. 121).
+
+- Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o
+contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite
+autorizado, em cada caso, pela Administração (art. 122).
+
+   - O contratado apresentará à Administração documentação que comprove a capacidade
+   técnica do subcontratado, que será avaliada e juntada aos autos do processo
+   correspondente.
+
+   - Regulamento ou edital de licitação poderão vedar, restringir ou estabelecer condições para
+   a subcontratação.
+
+   - Será vedada a subcontratação de pessoa física ou jurídica que mantiverem vínculo de
+   natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do
+   órgão ou entidade contratante ou com agente público que desempenhe função na licitação
+   ou atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, companheiro
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       16
+      www.estrategiaconcursos.com.br                                                          55
+
+                                   
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+     ou parente em linha reta, colateral, ou por afinidade, até o terceiro grau, devendo essa
+     proibição constar expressamente do edital de licitação.
+
+Alteração dos contratos e dos preços
+
+Os contratos poderão ser alterados, com as devidas justificativas, nos seguintes casos (art. 124):
+
+  I - unilateralmente pela Administração:
+
+     a) quando houver modificação do projeto ou das especificações, para melhor adequação
+     técnica a seus objetivos;
+
+     b) quando for necessária a modificação do valor contratual em decorrência de acréscimo ou
+     diminuição quantitativa de seu objeto, nos seguintes limites:
+
+        - Acréscimos ou supressões de até 25% do valor inicial atualizado do contrato que se
+        fizerem nas obras, nos serviços ou nas compras.
+
+        - Acréscimo de 50% no caso de reforma de edifício ou de equipamento.
+
+  II - por acordo entre as partes:
+
+     a) quando conveniente a substituição da garantia de execução;
+
+     b) quando necessária a modificação do regime de execução da obra ou do serviço, bem
+     como do modo de fornecimento, em face de verificação técnica da inaplicabilidade dos
+     termos contratuais originários;
+
+     c) quando necessária a modificação da forma de pagamento por imposição de circunstâncias
+     supervenientes, mantido o valor inicial atualizado e vedada a antecipação do pagamento em
+     relação ao cronograma financeiro fixado sem a correspondente contraprestação de
+     fornecimento de bens ou execução de obra ou serviço;
+
+     d) para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força
+     maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou
+     previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como
+     pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no
+     contrato.
+
+        -Essa regra se aplica às contratações de obras e serviços de engenharia quando a
+        execução for obstada pelo atraso na conclusão de procedimentos de
+        desapropriação, desocupação, servidão administrativa ou licenciamento
+        ambiental, por circunstâncias alheias ao contratado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        17
+        www.estrategiaconcursos.com.br                                                           55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Nas alterações contratuais para supressão de obras, bens ou serviços, se o contratado já houver
+adquirido os materiais e os colocado no local dos trabalhos, estes deverão ser pagos pela
+Administração pelos custos de aquisição regularmente comprovados e monetariamente
+reajustados, podendo caber indenização por outros danos eventualmente decorrentes da
+supressão, desde que regularmente comprovados (art. 129).
+
+Caso haja alteração unilateral do contrato que aumente ou diminua os encargos do contratado, a
+Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro
+inicial (art. 130).
+
+Mesmo que ocorra a extinção do contrato, é possível o reconhecimento do desequilíbrio
+econômico-financeiro, hipótese em que será concedida indenização por meio de termo
+indenizatório (art. 131).
+
+        Nesse caso, o pedido de restabelecimento do equilíbrio econômico-financeiro
+        deverá ser formulado durante a vigência do contrato e antes de eventual
+        prorrogação.
+
+Nas hipóteses em que for adotada a contratação integrada ou semi-integrada, é vedada a
+alteração dos valores contratuais, exceto nos seguintes casos (art. 133):
+
+  I - para restabelecimento do equilíbrio econômico-financeiro decorrente de caso fortuito ou
+  força maior;
+
+  II - por necessidade de alteração do projeto ou das especificações para melhor adequação
+  técnica aos objetivos da contratação, a pedido da Administração, desde que não decorrente
+  de erros ou omissões por parte do contratado, observados os limites estabelecidos;
+
+  III - por necessidade de alteração do projeto nas contratações semi-integradas;
+
+  IV - por ocorrência de evento superveniente alocado na matriz de riscos como de
+  responsabilidade da Administração.
+
+Os preços dos contratos para serviços contínuos com regime de dedicação exclusiva de mão de
+obra ou com predominância de mão de obra serão repactuados para manutenção do equilíbrio
+econômico-financeiro, mediante demonstração analítica da variação dos custos contratuais, com
+data vinculada (art. 135):
+
+  I - à da apresentação da proposta, para custos decorrentes do mercado;
+
+  II - ao acordo, à convenção coletiva ou ao dissídio coletivo ao qual a proposta esteja vinculada,
+  para os custos de mão de obra.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       18
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Registros realizados por simples apostila
+
+Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila,
+dispensada a celebração de termo aditivo, como nas seguintes situações (art. 136):
+
+  I - variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos
+  no próprio contrato;
+
+  II - atualizações, compensações ou penalizações financeiras decorrentes das condições de
+  pagamento previstas no contrato;
+
+  III - alterações na razão ou na denominação social do contratado;
+
+  IV - empenho de dotações orçamentárias.
+
+Hipóteses de extinção dos contratos
+
+Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos
+do processo, assegurados o contraditório e a ampla defesa, as seguintes situações (art. 137):
+
+  I - não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais,
+  de especificações, de projetos ou de prazos;
+
+  II - desatendimento das determinações regulares emitidas pela autoridade designada para
+  acompanhar e fiscalizar sua execução ou por autoridade superior;
+
+  III - alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua
+  capacidade de concluir o contrato;
+
+  IV - decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento do
+  contratado;
+
+  V - caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do
+  contrato;
+
+  VI - atraso na obtenção da licença ambiental, ou impossibilidade de obtê-la, ou alteração
+  substancial do anteprojeto que dela resultar, ainda que obtida no prazo previsto;
+
+  VII - atraso na liberação das áreas sujeitas a desapropriação, a desocupação ou a servidão
+  administrativa, ou impossibilidade de liberação dessas áreas;
+
+  VIII - razões de interesse público, justificadas pela autoridade máxima do órgão ou da entidade
+  contratante;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       19
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  IX - não cumprimento das obrigações relativas à reserva de cargos prevista em lei, bem como
+  em outras normas específicas, para pessoa com deficiência, para reabilitado da Previdência
+  Social ou para aprendiz.
+
+O contratado terá direito à extinção do contrato nas seguintes hipóteses (art. 137, § 2º):
+
+  I - supressão, por parte da Administração, de obras, serviços ou compras que acarrete
+  modificação do valor inicial do contrato além do limite de 25% permitido na Lei;
+
+  II - suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior
+  a 3 meses;
+
+  III - repetidas suspensões que totalizem 90 dias úteis, independentemente do pagamento
+  obrigatório de indenização pelas sucessivas e contratualmente imprevistas desmobilizações e
+  mobilizações e outras previstas;
+
+  IV - atraso superior a 2 meses, contado da emissão da nota fiscal, dos pagamentos ou de
+  parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou
+  fornecimentos;
+
+  V - não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para
+  execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no
+  projeto, inclusive devido a atraso ou descumprimento das obrigações atribuídas pelo contrato
+  à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a
+  licenciamento ambiental.
+
+As hipóteses de extinção II, III e IV acima observarão as seguintes disposições (art. 137, § 3º):
+
+  I - não serão admitidas em caso de calamidade pública, de grave perturbação da ordem interna
+  ou de guerra, bem como quando decorrerem de ato ou fato que o contratado tenha praticado,
+  do qual tenha participado ou para o qual tenha contribuído;
+
+  II - assegurarão ao contratado o direito de optar pela suspensão do cumprimento das
+  obrigações assumidas até a normalização da situação, admitido o restabelecimento do
+  equilíbrio econômico-financeiro do contrato.
+
+A extinção do contrato poderá ser (art. 138):
+
+  I - determinada por ato unilateral e escrito da Administração, exceto no caso de
+  descumprimento decorrente de sua própria conduta;
+
+  II - consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de
+  resolução de disputas, desde que haja interesse da Administração;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           20
+        www.estrategiaconcursos.com.br                                                              55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  III - determinada por decisão arbitral, em decorrência de cláusula compromissória ou
+  compromisso arbitral, ou por decisão judicial.
+
+Extinção decorrente de culpa exclusiva da Administração
+
+Quando a extinção decorrer de culpa exclusiva da Administração, o contratado será ressarcido
+pelos prejuízos regularmente comprovados que houver sofrido e terá direito a (art. 138, § 2º):
+
+  I - devolução da garantia;
+
+  II - pagamentos devidos pela execução do contrato até a data de extinção;
+
+  III - pagamento do custo da desmobilização.
+
+Extinção determinada por ato unilateral da Administração
+
+A extinção determinada por ato unilateral da Administração poderá acarretar, além da aplicação
+de sanções, as seguintes consequências (art. 139):
+
+  I - assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato
+  próprio da Administração;
+
+  II - ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal
+  empregados na execução do contrato e necessários à sua continuidade;
+
+  III - execução da garantia contratual para:
+
+     a) ressarcimento da Administração Pública por prejuízos decorrentes da não execução;
+
+     b) pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível;
+
+     c) pagamento das multas devidas à Administração Pública;
+
+     d) exigência da assunção da execução e da conclusão do objeto do contrato pela seguradora,
+     quando cabível;
+
+  IV - retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados à
+  Administração Pública e das multas aplicadas.
+
+Recebimento do objeto do contrato
+
+O objeto do contrato será recebido (art. 140):
+
+  I - em se tratando de obras e serviços:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      21
+        www.estrategiaconcursos.com.br                                                         55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+            a) provisoriamente, pelo responsável por seu acompanhamento e fiscalização, mediante
+            termo detalhado, quando verificado o cumprimento das exigências de caráter técnico;
+
+            b) definitivamente, por servidor ou comissão designada pela autoridade competente,
+            mediante termo detalhado que comprove o atendimento das exigências contratuais;
+
+  II - em se tratando de compras:
+
+     a) provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e
+     fiscalização, com verificação posterior da conformidade do material com as exigências
+     contratuais;
+
+     b) definitivamente, por servidor ou comissão designada pela autoridade competente,
+     mediante termo detalhado que comprove o atendimento das exigências contratuais.
+
+O objeto do contrato poderá ser rejeitado, no todo ou em parte, quando estiver em desacordo
+com o contrato (art. 140, § 1º).
+
+Em se tratando de:
+
+  a) Projeto de obra, o recebimento definitivo pela Administração não eximirá o projetista ou o
+  consultor da responsabilidade objetiva por todos os danos causados por falha de projeto (art.
+  140, § 5º).
+
+  b) Obra, o recebimento definitivo pela Administração não eximirá o contratado, pelo prazo
+  mínimo de 5 anos, admitida a previsão de prazo de garantia superior no edital e no contrato,
+  da responsabilidade objetiva pela solidez e pela segurança dos materiais e dos serviços
+  executados e pela funcionalidade da construção, da reforma, da recuperação ou da ampliação
+  do bem imóvel, e, em caso de vício, defeito ou incorreção identificados, o contratado ficará
+  responsável pela reparação, pela correção, pela reconstrução ou pela substituição necessárias.
+
+Pagamentos
+
+Na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser
+estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas,
+padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no
+edital de licitação e no contrato (art. 144).
+
+  - O pagamento poderá ser ajustado em base percentual sobre o valor economizado em
+  determinada despesa, quando o objeto do contrato visar à implantação de processo de
+  racionalização, hipótese em que as despesas correrão à conta dos mesmos créditos
+  orçamentários.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    22
+        www.estrategiaconcursos.com.br                                                       55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  - A utilização de remuneração variável será motivada e respeitará o limite orçamentário fixado
+  pela Administração para a contratação.
+
+O pagamento antecipado é vedado, via de regra
+
+Não será permitido pagamento antecipado, parcial ou total, relativo a parcelas contratuais
+vinculadas ao fornecimento de bens, à execução de obras ou à prestação de serviços (art. 145).
+
+  - A antecipação de pagamento somente será permitida se:
+
+     - propiciar sensível economia de recursos; ou
+
+     - se representar condição indispensável para a obtenção do bem ou para a prestação do
+     serviço, hipótese que deverá ser previamente justificada no processo licitatório e
+     expressamente prevista no edital de licitação ou instrumento formal de contratação direta.
+
+  - Administração poderá exigir a prestação de garantia adicional como condição para o
+  pagamento antecipado.
+
+  - Caso o objeto não seja executado no prazo contratual, o valor antecipado deverá ser
+  devolvido.
+
+Nulidade dos contratos
+
+Se for constatada irregularidade no procedimento licitatório ou na execução contratual e não seja
+possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de
+nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse
+público, com avaliação de vários aspectos, dentre os quais (art. 147):
+
+  - impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto
+  do contrato;
+
+  - riscos sociais, ambientais e à segurança da população local decorrentes do atraso na fruição
+  dos benefícios do objeto do contrato;
+
+  - custo da deterioração ou da perda das parcelas executadas;
+
+  - despesa necessária à preservação das instalações e dos serviços já executados;
+
+  - despesa inerente à desmobilização e ao posterior retorno às atividades;
+
+  - fechamento de postos de trabalho diretos e indiretos em razão da paralisação;
+
+  - custo para realização de nova licitação ou celebração de novo contrato;
+
+  - custo de oportunidade do capital durante o período de paralisação.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     23
+        www.estrategiaconcursos.com.br                                                        55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Se a paralisação ou anulação não se revele medida de interesse público, o poder público deverá
+optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização
+por perdas e danos, sem prejuízo da apuração de responsabilidade e da aplicação de penalidades
+cabíveis.
+
+A declaração de nulidade do contrato administrativo requererá análise prévia do interesse público
+envolvido e operará retroativamente, impedindo os efeitos jurídicos que o contrato deveria
+produzir ordinariamente e desconstituindo os já produzidos (art. 148).
+
+  - Não sendo possível o retorno à situação fática anterior, a nulidade será resolvida pela
+  indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e aplicação das
+  penalidades cabíveis.
+
+  - Com vistas à continuidade da atividade administrativa, ao declarar a nulidade, a autoridade
+                                                        ==219a34==
+
+  poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova
+  contratação, por prazo de até 6 meses, prorrogável uma única vez.
+
+A nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver
+executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos
+regularmente comprovados, desde que não lhe seja imputável, e será promovida a
+responsabilização de quem lhe tenha dado causa.
+
+Meios alternativos de resolução de controvérsias
+
+A NLLC permite a utilização de meios alternativos de prevenção e resolução de controvérsias nas
+contratações por ela regidas, notadamente (art. 151):
+
+  - a conciliação;
+
+  - a mediação;
+
+  - o comitê de resolução de disputas; e
+
+  - a arbitragem.
+
+Serão aplicados os meios alternativos às controvérsias relacionadas a direitos patrimoniais
+disponíveis, como as questões relacionadas (art. 151, parágrafo único):
+
+  - ao restabelecimento do equilíbrio econômico-financeiro do contrato;
+
+  - ao inadimplemento de obrigações contratuais por quaisquer das partes; e
+
+  - ao cálculo de indenizações.
+
+A arbitragem será sempre de direito e observará o princípio da publicidade (art. 152).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     24
+        www.estrategiaconcursos.com.br                                                        55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+É permitido o aditamento dos contratos para permitir a adoção dos meios alternativos de
+resolução de controvérsias (art. 153).
+
+O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de
+disputas observará critérios isonômicos, técnicos e transparentes (art. 154).
+
+
+Irregularidades
+
+Infrações e sanções administrativas
+
+As sanções aplicadas ao responsável pelas infrações são as seguintes (art. 156):
+
+  I - advertência;
+
+  II - multa;
+
+  III - impedimento de licitar e contratar;
+
+  IV - declaração de inidoneidade para licitar ou contratar.
+
+Devem ser considerados na aplicação das sanções (art. 156, § 1º):
+
+  I - a natureza e a gravidade da infração cometida;
+
+  II - as peculiaridades do caso concreto;
+
+  III - as circunstâncias agravantes ou atenuantes;
+
+  IV - os danos que dela provierem para a Administração Pública;
+
+  V - a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+  orientações dos órgãos de controle.
+
+O art. 155 traz as infrações pelas quais o licitante ou o contratado será responsabilizado
+administrativamente. Os §§ 2º a 5º do art. 156 trazem as sanções aplicáveis às infrações.
+Consolidamos no quadro a seguir as infrações com as sanções, destacando que elas serão
+aplicadas sempre que não justificarem a imposição de penalidade mais grave.
+
+
+     Sanção                   Observações                                   Infrações (art. 155)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          25
+        www.estrategiaconcursos.com.br                                                             55
+
+                                     
+
+
+---
+
+ Tulio Lages
+ Aula 22
+
+                                                        I - dar causa à inexecução parcial do contrato;
+Advertência
+                                                        (exclusivamente nesse caso)
+
+
+                      Valor: 0,5% a 30% do              É aplicável a qualquer das infrações previstas no
+Multa
+                      valor do contrato.                art. 155.
+
+
+                                                        II - dar causa à inexecução parcial do contrato que
+                                                        cause grave dano à Administração, ao
+                                                        funcionamento dos serviços públicos ou ao
+                                                        interesse coletivo;
+
+
+                                                        III - dar causa à inexecução total do contrato;
+
+
+                      - Aplicável à                     IV - deixar de entregar a documentação exigida
+                      Administração Pública             para o certame;
+                      direta e indireta do
+Impedimento
+                      ente que tiver aplicado
+de licitar e
+                      a sanção.                         V - não manter a proposta, salvo em decorrência
+contratar                                               de fato superveniente devidamente justificado;
+                      - Tem o prazo máximo
+                      de 3 anos
+                                                        VI - não celebrar o contrato ou não entregar a
+                                                        documentação exigida para a contratação,
+                                                        quando convocado dentro do prazo de validade
+                                                        de sua proposta;
+
+
+                                                        VII - ensejar o retardamento da execução ou da
+                                                        entrega do objeto da licitação sem motivo
+                                                        justificado;
+
+
+Declaração de                                   VIII - apresentar declaração ou documentação
+                      - Impedirá o
+inidoneidade                                    falsa exigida para o certame ou prestar
+                      responsável de licitar ou
+para licitar ou                                 declaração falsa durante a licitação ou a execução
+                      contratar no âmbito da
+contratar                                       do contrato;
+                      Administração Pública
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   26
+        www.estrategiaconcursos.com.br                                                                      55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+                      direta e indireta de
+                      todos os entes                    IX - fraudar a licitação ou praticar ato fraudulento
+                      federativos.                      na execução do contrato;
+
+                      - Tem o prazo mínimo
+                      de 3 anos e máximo de             X - comportar-se de modo inidôneo ou cometer
+                      6 anos                            fraude de qualquer natureza;
+
+
+                                                        XI - praticar atos ilícitos com vistas a frustrar os
+                                                        objetivos da licitação;
+
+
+                                                        XII - praticar ato lesivo à administração pública
+                                                        previsto na Lei Anticorrupção (Lei 12.846/2013,
+                                                        estando os atos no art. 5º).
+
+
+As multas poderão ser aplicadas cumulativamente com as demais sanções (art. 156, § 7º).
+
+Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento
+eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença
+será descontada da garantia prestada ou será cobrada judicialmente (art. 156, § 8º).
+
+A aplicação das sanções não exclui, em hipótese alguma, a obrigação de reparação integral do
+dano causado à Administração Pública (art. 156, § 9º).
+
+Na aplicação da multa (art. 157):
+
+  - Será facultada a defesa do interessado no prazo de 15 dias úteis, contado da data de sua
+  intimação.
+
+Na aplicação das sanções de impedimento e declaração de inidoneidade (art. 158):
+
+  - Será instaurado de processo de responsabilização, a ser conduzido por comissão composta
+  de 2 ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o
+  licitante ou o contratado para, no prazo de 15 dias úteis, contado da data de intimação,
+  apresentar defesa escrita e especificar as provas que pretenda produzir.
+
+
+        Em órgão ou entidade cujo quadro funcional não seja formado de servidores
+        estatutários, a comissão será composta de 2 ou mais empregados públicos
+        pertencentes aos seus quadros permanentes, preferencialmente com, no mínimo,
+        3 anos de tempo de serviço no órgão ou entidade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                      27
+        www.estrategiaconcursos.com.br                                                                         55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+A prescrição ocorrerá em 5 anos, contados da ciência da infração pela Administração, e será:
+
+  I - interrompida pela instauração do processo de responsabilização;
+
+  II - suspensa pela celebração de acordo de leniência;
+
+  III - suspensa por decisão judicial que inviabilize a conclusão da apuração administrativa.
+
+O atraso injustificado na execução do contrato sujeitará o contratado a multa de mora, na forma
+prevista em edital ou em contrato (art. 162).
+
+        A aplicação de multa de mora não impedirá que a Administração a converta em
+        compensatória e promova a extinção unilateral do contrato com a aplicação
+        cumulada de outras sanções previstas nesta Lei.
+
+É admitida a reabilitação do licitante ou contratado perante a própria autoridade que aplicou a
+penalidade, exigidos, cumulativamente (art. 163):
+
+  I - reparação integral do dano causado à Administração Pública;
+
+  II - pagamento da multa;
+
+  III - transcurso do prazo mínimo de:
+
+     - 1 ano da aplicação da penalidade, no caso de impedimento de licitar e contratar; ou
+
+     - 3 anos da aplicação da penalidade, no caso de declaração de inidoneidade;
+
+  IV - cumprimento das condições de reabilitação definidas no ato punitivo;
+
+  V - análise jurídica prévia, com posicionamento conclusivo quanto ao cumprimento dos
+  requisitos.
+
+Impugnações, pedidos de esclarecimento e recursos
+
+Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação
+da Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3
+dias úteis antes da data de abertura do certame (art. 164).
+
+        A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio
+        eletrônico oficial no prazo de até 3 dias úteis, limitado ao último dia útil anterior à
+        data da abertura do certame.
+
+Dos atos da Administração decorrentes da aplicação da Lei cabem:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo         28
+        www.estrategiaconcursos.com.br                                                            55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  I - recurso, no prazo de 3 dias úteis, contado da data de intimação ou de lavratura da ata, em
+  face de:
+
+     a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em
+     registro cadastral, sua alteração ou cancelamento;
+
+     b) julgamento das propostas;
+
+     c) ato de habilitação ou inabilitação de licitante;
+
+     d) anulação ou revogação da licitação;
+
+     e) extinção do contrato, quando determinada por ato unilateral e escrito da Administração;
+
+  II - pedido de reconsideração, no prazo de 3 dias úteis, contado da data de intimação,
+  relativamente a ato do qual não caiba recurso hierárquico.
+
+Da aplicação das sanções de advertência, multa e impedimento caberá recurso no prazo de 15
+dias úteis, contado da data da intimação (art. 166).
+
+        Esse recurso será dirigido à autoridade que tiver proferido a decisão recorrida,
+        que, se não a reconsiderar no prazo de 5 dias úteis, encaminhará o recurso com
+        sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo
+        máximo de 20 dias úteis, contado do recebimento dos autos.
+
+Da aplicação da sanção de inidoneidade caberá apenas pedido de reconsideração, que deverá ser
+apresentado no prazo de 15 dias úteis, contado da data da intimação, e decidido no prazo máximo
+de 20 dias úteis, contado do seu recebimento (art. 167).
+
+O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida
+até que sobrevenha decisão final da autoridade competente (art. 168).
+
+Controle das contratações
+
+As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de
+riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da
+informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de
+defesa (art. 169):
+
+
+                           Integrada por servidores e empregados públicos, agentes de licitação e
+ 1ª linha de defesa        autoridades que atuam na estrutura de governança do órgão ou
+                           entidade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       29
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+                           Integrada pelas unidades de assessoramento jurídico e de controle
+ 2ª linha de defesa
+                           interno do próprio órgão ou entidade.
+
+
+                           Integrada pelo órgão central de controle interno da Administração e
+ 3ª linha de defesa
+                           pelo Tribunal de Contas.
+
+
+A implementação das práticas será de responsabilidade da alta administração do órgão ou
+entidade e levará em consideração os custos e os benefícios decorrentes de sua implementação,
+optando-se pelas medidas que promovam relações íntegras e confiáveis, com segurança jurídica
+para todos os envolvidos, e que produzam o resultado mais vantajoso para a Administração, com
+eficiência, eficácia e efetividade nas contratações públicas (art. 169, § 1º).
+
+Os órgãos de controle:
+
+  - Para a realização de suas atividades, deverão ter acesso irrestrito aos documentos e às
+  informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo
+  órgão ou entidade nos termos da Lei de Acesso à Informação, e o órgão de controle com o
+  qual foi compartilhada eventual informação sigilosa tornar-se-á corresponsável pela
+  manutenção do seu sigilo (art. 169, § 2º).
+
+  - Adotarão, na fiscalização dos atos, critérios de oportunidade, materialidade, relevância e risco
+  e considerarão as razões apresentadas pelos órgãos e entidades responsáveis e os resultados
+  obtidos com a contratação (art. 170).
+
+Os integrantes das linhas de defesa devem observar o seguinte (art. 169, § 3º):
+
+  I - quando constatarem simples impropriedade formal, adotarão medidas para o seu
+  saneamento e para a mitigação de riscos de sua nova ocorrência, preferencialmente com o
+  aperfeiçoamento dos controles preventivos e com a capacitação dos agentes públicos
+  responsáveis;
+
+  II - quando constatarem irregularidade que configure dano à Administração, sem prejuízo das
+  medidas acima, adotarão as providências necessárias para a apuração das infrações
+  administrativas, observadas a segregação de funções e a necessidade de individualização das
+  condutas, bem como remeterão ao Ministério Público competente cópias dos documentos
+  cabíveis para a apuração dos ilícitos de sua competência.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        30
+        www.estrategiaconcursos.com.br                                                           55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Legitimidade para representar aos órgãos de controle interno ou ao Tribunal de Contas
+
+Qualquer licitante, contratado ou pessoa física ou jurídica poderá representar aos órgãos de
+controle interno ou ao Tribunal de Contas competente contra irregularidades na aplicação da Lei
+(art. 170, § 4º).
+
+Portal Nacional de Contratações Públicas (PNCP)
+
+A Lei criou o Portal Nacional de Contratações Públicas (PNCP), que é o sítio eletrônico oficial
+destinado à (art. 174):
+
+   I - divulgação centralizada e obrigatória dos atos exigidos pela Lei;
+
+   II - realização facultativa das contratações pelos órgãos e entidades dos Poderes Executivo,
+   Legislativo e Judiciário de todos os entes federativos.
+
+Informações que devem constar no PNCP
+
+São informações que devem constar no PNCP (art. 174, § 2º):
+
+   I - planos de contratação anuais;
+
+   II - catálogos eletrônicos de padronização;
+
+   III - editais de credenciamento e de pré-qualificação, avisos de contratação direta e editais de
+   licitação e respectivos anexos;
+
+   IV - atas de registro de preços;
+
+   V - contratos e termos aditivos;
+
+   VI - notas fiscais eletrônicas, quando for o caso.
+
+Funcionalidades a serem oferecidas pelo PNCP
+
+São funcionalidades a serem oferecidas pelo PNCP (art. 174, § 3º):
+
+   I - sistema de registro cadastral unificado;
+
+   II - painel para consulta de preços, banco de preços em saúde e acesso à base nacional de notas
+   fiscais eletrônicas;
+
+   III - sistema de planejamento e gerenciamento de contratações, incluído o cadastro de atesto
+   de cumprimento de obrigações;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       31
+        www.estrategiaconcursos.com.br                                                          55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+  IV - sistema eletrônico para a realização de sessões públicas;
+
+  V - acesso ao Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e ao Cadastro
+  Nacional de Empresas Punidas (Cnep);
+
+  VI - sistema de gestão compartilhada com a sociedade de informações referentes à execução
+  do contrato, que possibilite:
+
+     a) envio, registro, armazenamento e divulgação de mensagens de texto ou imagens pelo
+     interessado previamente identificado;
+
+     b) acesso ao sistema informatizado de acompanhamento de obras;
+
+     c) comunicação entre a população e representantes da Administração e do contratado
+     designados para prestar as informações e esclarecimentos pertinentes;
+
+     d) divulgação de relatório final com informações sobre a consecução dos objetivos que
+     tenham justificado a contratação e eventuais condutas a serem adotadas para o
+     aprimoramento das atividades da Administração.
+
+Cumprimento das disposições da NLLC por parte dos Municípios
+
+Os Municípios com até 20.000 habitantes terão o prazo de 6 anos contados da data de publicação
+da Lei (2027), para cumprimento (art. 176):
+
+  I - dos requisitos de designação de agentes públicos e agente de contratação (estabelecidos
+  nos arts. 7º e 8º da Lei);
+
+  II - da obrigatoriedade de realização da licitação sob a forma eletrônica;
+
+  III - das regras relativas à divulgação em sítio eletrônico oficial.
+
+Enquanto não adotarem o PNCP, esses Municípios deverão:
+
+  I - publicar, em diário oficial, as informações que a Lei exige que sejam divulgadas em sítio
+  eletrônico oficial, admitida a publicação de extrato;
+
+  II - disponibilizar a versão física dos documentos em suas repartições, vedada a cobrança de
+  qualquer valor, salvo o referente ao fornecimento de edital ou de cópia de documento, que
+  não será superior ao custo de sua reprodução gráfica.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   32
+        www.estrategiaconcursos.com.br                                                      55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Convênios, acordos ajustes e outros instrumentos congêneres
+
+Aplicam-se as disposições da Lei nº 14.133/2021, no que couber e na ausência de norma
+específica, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por
+órgãos e entidades da Administração Pública (art. 184).
+
+Quando ocorrer acordo entre as partes para restabelecer o equilíbrio econômico-financeiro inicial
+do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos
+imprevisíveis ou previsíveis de consequências incalculáveis e o valor global inicialmente pactuado
+demonstrar-se insuficiente para a execução do objeto, poderão ser (art. 184, § 2º):
+
+  I - utilizados saldos de recursos ou rendimentos de aplicação financeira;
+
+  II - aportados novos recursos pelo concedente;
+
+  III - reduzidas as metas e as etapas, desde que isso não comprometa a fruição ou a
+  funcionalidade do objeto pactuado.
+
+São permitidos ajustes nos instrumentos celebrados com recursos de transferências voluntárias,
+para promover alterações em seu objeto, desde que (art. 184, § 3º):
+
+  I - isso não importe transposição, remanejamento ou transferência de recursos de uma categoria
+  de programação para outra ou de um órgão para outro;
+
+  II - seja apresentada justificativa objetiva pelo convenente; e
+
+  III - quando se tratar de obra, seja mantido o que foi pactuado quanto a suas características.
+
+Nos convênios, contratos de repasse e instrumentos congêneres em que for parte a União, com
+valor global de até R$ 1.500.000 R$ 1.576.882,20 (valor atualizado pelo Decreto 12.343/2024),
+aplica-se o seguinte regime simplificado à celebração, à execução, ao acompanhamento e à
+prestação de contas (art. 184-A):
+
+  - o plano de trabalho aprovado conterá parâmetros objetivos para caracterizar o cumprimento
+  do objeto;
+
+  - a minuta dos instrumentos deverá ser simplificada;
+
+  - a verificação da execução do objeto ocorrerá mediante visita de constatação da
+  compatibilidade com o plano de trabalho.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          33
+        www.estrategiaconcursos.com.br                                                             55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Disposições transitórias
+
+A Lei entrou em vigor na data de sua publicação (art. 194), em 1º de abril de 2021, portanto, não
+há que se falar em vacatio legis.
+
+Ocorre que a Lei 8.666/93, a Lei 10.520/2002 e os arts. 1º a 47-A da Lei 12.462/2011 passam a ser
+revogados em 30/12/2023 (prazo após alteração pela Medida Provisória 1.167/2023) (art. 193).
+
+Nesse período de coexistência das leis, a Administração poderá optar por licitar ou contratar
+diretamente de acordo com a Lei 14.133/2021 ou de acordo com as citadas leis que serão
+revogadas. Para tanto, foram estabelecidas as seguintes regras (art. 191):
+
+  I - a publicação do edital ou do ato autorizativo da contratação direta ocorra até 29 de
+  dezembro de 2023; e
+
+  II - a opção escolhida seja expressamente indicada no edital ou no ato autorizativo da
+  contratação direta.
+
+Se a Administração optar por licitar de acordo com as leis que serão revogadas, o respectivo
+contrato será regido pelas regras nelas previstas durante toda a sua vigência (art. 191, § 1º).
+
+É vedada a aplicação combinada da Lei 14.133/2021 com as leis a serem revogadas (art. 191, §
+2º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     34
+        www.estrategiaconcursos.com.br                                                        55
+
+                                     
+
+
+---
+
+Tulio Lages
+Aula 22
+
+                                                                   APOSTA ESTRATÉGICA
+    Dentro do assunto “Contratos Administrativos (Lei 14.133/2021)”, “Execução dos Contratos (arts. 115 a art. 123 da Lei nº
+    14.133/2021)" é/são o(s) ponto(s) que acreditamos que possui(em) mais chances de ser(em) cobrado(s) pela banca.
+
+                                                      ==219a34==
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                        35
+      www.estrategiaconcursos.com.br                                                                                           55
+
+                                                                   
+
+
+---
+
+Tulio Lages
+Aula 22
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              36
+      www.estrategiaconcursos.com.br                                                                 55
+
+                                                                
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar para a sua
+prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não é que você fixe o
+conteúdo por meio de uma bateria extensa de questões, mas que você faça uma boa revisão global do
+assunto a partir de, relativamente, poucas questões.
+
+1. (FGV/2024/STN/Auditor Federal de Finanças e Controle) A sociedade empresária XYZ, constituída e em
+funcionamento há cinco anos, sempre atuou na esfera privada. Contudo, os seus membros verificaram
+que a celebração de contratos administrativos com o poder público poderia favorecer o crescimento
+regular e lícito da entidade privada. Assim sendo, para tomar uma decisão informada sobre a estratégia
+empresarial que adotariam na sequência, os sócios resolveram estudar a Lei de Licitações e Contratos
+Administrativos, em especial a parte atinente às garantias fornecidas pelo contratado.
+
+Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é correto afirmar que
+
+a) o contratado poderá optar, como garantia da contratação, pela caução em dinheiro ou em títulos de dívida
+pública ou privada, pelo seguro-garantia, pela fiança bancária emitida por banco ou instituição financeira
+brasileira ou por título de capitalização custeado por pagamento parcelado, com resgate pelo valor total.
+
+b) nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até dez por cento do valor
+inicial do contrato, autorizada a majoração desse percentual para até vinte por cento, desde que justificada
+mediante análise da complexidade técnica e dos riscos envolvidos.
+
+c) nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de
+garantia, na modalidade seguro garantia, vedada a cláusula de retomada, em percentual equivalente a até
+30% do valor inicial do contrato.
+
+d) a garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou após
+a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada monetariamente e
+acrescida de juros de mora.
+
+e) nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais o contratado ficará
+depositário, o valor desses bens deverá ser acrescido ao valor da garantia.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                37
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Letra A - incorreta. Das modalidades citadas, não há possibilidade de caução com base em títulos da dívida
+privada, além do título de capitalização ser custeado por pagamento único, nos termos do § 1º do artigo 96
+da Lei nº 14.133/2021:
+
+     Art. 96. A critério da autoridade competente, em cada caso, poderá ser exigida, mediante
+     previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos.
+
+     § 1º Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+
+     I - caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante
+     registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do
+     Brasil, e avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia;
+
+     II - seguro-garantia;
+
+     III - fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar
+     no País pelo Banco Central do Brasil.
+
+     IV - título de capitalização custeado por pagamento único, com resgate pelo valor total.
+
+Letra B - incorreta. A garantia pode ser de até 5%, havendo possibilidade de majoração para até 10%,
+conforme artigo 98 da Lei nº 14.133/2021:
+
+     Art. 98. Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5%
+     (cinco por cento) do valor inicial do contrato, autorizada a majoração desse percentual para até
+     10% (dez por cento), desde que justificada mediante análise da complexidade técnica e dos riscos
+     envolvidos.
+
+Letra C - incorreta. Não existe vedação para a cláusula de retomada, conforme artigo 99 da Lei nº
+14.133/2021:
+
+     Art. 99. Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida
+     a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada prevista no
+     art. 102 desta Lei, em percentual equivalente a até 30% (trinta por cento) do valor inicial do
+     contrato.
+
+Letra D - incorreta. Não se fala em aplicação de juros de mora, apenas atualização monetária, conforme
+artigo 100 da Lei nº 14.133/2021:
+
+     Art. 100. A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do
+     contrato ou após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro,
+     atualizada monetariamente.
+
+Letra E - correta. Está de acordo com o artigo 101 da Lei nº 14.133/2021:
+
+     Art. 101. Nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais
+     o contratado ficará depositário, o valor desses bens deverá ser acrescido ao valor da garantia.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                38
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Gabarito: Letra E.
+
+2. (FGV/2024/STN/Auditor Federal de Finanças e Controle - Econômico-Financeira - Contratações) Após
+os devidos procedimentos, as autoridades competentes da União realizaram uma contratação direta para
+a aquisição de bens produzidos no país. Tais bens envolvem, cumulativamente, alta complexidade
+tecnológica e defesa nacional.
+
+Diante dessa situação hipotética, à luz do disposto na Lei nº 14.133/2021, é correto afirmar que,
+preenchidos os requisitos estabelecidos em lei, o Poder Público poderá celebrar tal avença com prazo
+
+a) de dez anos.
+
+b) de vinte anos.
+
+c) de vinte e cinco anos.
+
+d) de trinta anos.
+
+e) indeterminado.
+
+Comentários
+
+O prazo correto é de 10 anos, alternativa A, e está previsto no artigo 108 da Lei nº 14.133/2021:
+
+      Art. 75. É dispensável a licitação:
+
+      (...)
+
+      IV - para contratação que tenha por objeto:
+
+      (...)
+
+      f) bens ou serviços produzidos ou prestados no País que envolvam, cumulativamente, alta
+      complexidade tecnológica e defesa nacional;
+
+      (...)
+
+      Art. 108. A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas
+      hipóteses previstas nas alíneas “f” e “g” do inciso IV e nos incisos V, VI, XII e XVI do caput do art.
+      75 desta Lei.
+
+Gabarito: Letra A.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                     39
+         www.estrategiaconcursos.com.br                                                                        55
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+3. (FGV/2024/STN/Auditor Federal de Finanças e Controle - Econômico-Financeira - Contratações) Jonas,
+sócio da sociedade empresária ABC, interessado em celebrar um contrato administrativo com o Estado
+Alfa, pediu à sua equipe jurídica a elaboração de um estudo versando sobre as regras aplicáveis à
+formalização das avenças administrativas.
+
+Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é incorreto afirmar que
+
+a) a recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento
+equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação
+assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta
+em favor do órgão ou entidade licitante.
+
+b) a Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para
+aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de
+licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na Lei de Licitações
+e Contratos Administrativos.
+
+c) a Administração deverá, quando o convocado não assinar o termo de contrato ou não aceitar ou não
+retirar o instrumento equivalente no prazo de cinco dias, contado da data da intimação, convocar os
+licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições propostas
+pelo licitante vencedor.
+
+d) o prazo de convocação poderá ser prorrogado uma vez, por igual período, mediante solicitação da parte
+durante seu transcurso, devidamente justificada, e desde que o motivo apresentado seja aceito pela
+Administração.
+
+e) decorrido o prazo de validade da proposta indicado no edital sem convocação para a contratação, ficarão
+os licitantes liberados dos compromissos assumidos.
+
+Comentários
+
+A alternativa incorreta é a letra C, pois não é um dever da Administração convocar os licitantes
+remanescentes, tampouco a lei traz o prazo de 5 dias que a alternativa afirma, conforme § 2º do artigo 90
+da Lei nº 14.133/2021:
+
+     Art. 90, § 2º Será facultado à Administração, quando o convocado não assinar o termo de
+     contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições
+     estabelecidas, convocar os licitantes remanescentes, na ordem de classificação, para a
+     celebração do contrato nas condições propostas pelo licitante vencedor.
+
+As demais alternativa correspondem aos seguintes preceitos da Lei nº 14.133/2021:
+
+     Art. 90. A Administração convocará regularmente o licitante vencedor para assinar o termo de
+     contrato ou para aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições
+     estabelecidas no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das
+     sanções previstas nesta Lei. (Letra B)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  40
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+     § 1º O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante
+     solicitação da parte durante seu transcurso, devidamente justificada, e desde que o motivo
+     apresentado seja aceito pela Administração. (Letra D)
+
+     (...)
+
+     § 3º Decorrido o prazo de validade da proposta indicado no edital sem convocação para a
+     contratação, ficarão os licitantes liberados dos compromissos assumidos. (Letra E)
+
+     (...)
+
+     § 5º A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o
+     instrumento equivalente no prazo estabelecido pela Administração caracterizará o
+     descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente
+     estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou entidade
+                                                        ==219a34==
+
+     licitante. (Letra A)
+
+Gabarito: Letra C.
+
+4. (FGV/2024/STN/Auditor Federal de Finanças e Controle - Econômico-Financeira - Contratações) Entre
+as penalidades previstas em decorrência das infrações relacionadas às licitações e contratações na Lei nº
+14.133/2021, está a multa.
+
+Com base no mencionado Diploma Legal, é correto afirmar que tal sanção
+
+a) não pode ser cumulada com qualquer outra penalidade prevista na norma em questão.
+
+b) pode ser aplicada apenas nas situações em que se verifique a inexecução parcial da avença pelo
+contratado.
+
+c) há de ser aplicada em valor fixo e preestabelecido, não sendo cabível considerar a natureza e gravidade
+da infração cometida, nem as circunstâncias agravantes e atenuantes.
+
+d) pode importar na perda de valor eventualmente devido pela Administração, caso a multa seja superior a
+tal montante, hipótese em que a lei admite o desconto da diferença restante da garantia prestada pelo
+contratado.
+
+e) deve ser calculada na forma do edital ou do contrato, não podendo ser inferior 10% (dez por cento) nem
+superior a 50% (cinquenta por cento) do valor do contrato licitado ou celebrado com contratação direta.
+
+Comentários
+
+Letra A - incorreta. Pelo contrário, a penalidade de multa pode ser aplicada de forma cumulativa com as
+demais penalidades, conforme § 7º do artigo 156 da Lei nº 14.133/2021:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              41
+        www.estrategiaconcursos.com.br                                                                 55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+     Art. 156. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as
+     seguintes sanções:
+
+     I - advertência;
+
+     II - multa;
+
+     III - impedimento de licitar e contratar;
+
+     IV - declaração de inidoneidade para licitar ou contratar.
+
+     (...)
+
+     § 7º As sanções previstas nos incisos I, III e IV do caput deste artigo poderão ser aplicadas
+     cumulativamente com a prevista no inciso II do caput deste artigo.
+
+Letra B - incorreta. A pena de multa pode ser aplicada em qualquer das infrações previstas na Lei nº
+14.133/2021, conforme § 3º do artigo 156:
+
+     § 3º A sanção prevista no inciso II do caput deste artigo, calculada na forma do edital ou do
+     contrato, não poderá ser inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por
+     cento) do valor do contrato licitado ou celebrado com contratação direta e será aplicada ao
+     responsável por qualquer das infrações administrativas previstas no art. 155 desta Lei.
+
+Letra C - incorreta. Os aspectos mencionados pela alternativa são requisitos de consideração para aplicação
+das sanções, conforme § 1º do artigo 156 da Lei nº 14.133/2021:
+
+     § 1º Na aplicação das sanções serão considerados:
+
+     I - a natureza e a gravidade da infração cometida;
+
+     II - as peculiaridades do caso concreto;
+
+     III - as circunstâncias agravantes ou atenuantes;
+
+     IV - os danos que dela provierem para a Administração Pública;
+
+     V - a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e
+     orientações dos órgãos de controle.
+
+Letra D - correta. Está de acordo com o § 8º do artigo 156 da Lei nº 14.133/2021:
+
+     § 8º Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento
+     eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença
+     será descontada da garantia prestada ou será cobrada judicialmente.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                42
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                     
+
+
+---
+
+   Tulio Lages
+   Aula 22
+
+Letra E - incorreta. A pena de multa não poderá ser inferior a 0,5% (cinco décimos por cento) nem superior
+a 30% (trinta por cento) do valor do contrato licitado ou celebrado com contratação direta, conforme
+comentários na alternativa B.
+
+Gabarito: Letra D.
+
+5. (FGV/2025/TRT 24ª Região/Analista Judiciário - Administrativa) De acordo com a Lei nº 14.133/2021,
+após o resultado do processo de licitação, será facultado à Administração, quando o convocado não assinar
+o termo de contrato ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições
+estabelecidas, convocar os licitantes remanescentes, na ordem de classificação, para a celebração do
+contrato nas condições propostas pelo licitante vencedor.
+
+Em relação à hipótese de nenhum dos licitantes aceitar a contratação nos termos propostos, analise o que
+se afirma a seguir.
+
+I. A Administração poderá convocar os licitantes remanescentes para negociação, na ordem de
+classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário.
+
+II. A Administração poderá adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes
+remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor condição.
+
+III. A Administração poderá anular o edital de licitação e suspender as suas intenções originais em relação
+ao objeto da licitação.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários
+
+Itens I e II - corretos. Estão de acordo com o § 4º do artigo 90 da Lei nº 14.133/2021:
+
+        Art. 90, § 4º Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do § 2º deste
+        artigo, a Administração, observados o valor estimado e sua eventual atualização nos termos do
+        edital, poderá:
+
+        I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas
+        à obtenção de preço melhor, mesmo que acima do preço do adjudicatário;
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               43
+            www.estrategiaconcursos.com.br                                                                  55
+
+                                         
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+      II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes,
+      atendida a ordem classificatória, quando frustrada a negociação de melhor condição.
+
+Item III - incorreto. A Lei não traz essa hipótese em seus artigos. Além disso, há previsão de anulação após a
+fase de julgamento, conforme o artigo 71 da Lei nº 14.133/2021:
+
+      Art. 71. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos,
+      o processo licitatório será encaminhado à autoridade superior, que poderá:
+
+      I - determinar o retorno dos autos para saneamento de irregularidades;
+
+      II - revogar a licitação por motivo de conveniência e oportunidade;
+
+      III - proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que
+      presente ilegalidade insanável;
+
+Assim, apenas os itens I e II estão corretos, letra B.
+
+Gabarito: Letra B
+
+6. (FGV/2025/DPE-RO/Analista da Defensoria Pública - Engenharia Civil) Segundo a Lei 14.133/2021, a
+medição das obras e serviços de engenharia deve ser feita, contanto que esteja compatível com o regime
+de execução, com periodicidade
+
+a) diária.
+
+b) semanal.
+
+c) quinzenal.
+
+d) mensal.
+
+e) trimestral.
+
+Comentários
+
+A referida periodicidade será mensal, letra D, conforme o § 5º do artigo 92 da Lei nº 14.133/2021:
+
+      Art. 92, § 5º Nos contratos de obras e serviços de engenharia, sempre que compatível com o
+      regime de execução, a medição será mensal.
+
+Gabarito: Letra D
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 44
+         www.estrategiaconcursos.com.br                                                                    55
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+7. (FGV/2025/EBSERH/Analista Administrativo) Em decorrência de ter sido designado para exercer a
+atribuição de fiscal de contrato, Lélio, que é empregado público integrante dos quadros permanentes da
+Administração, passou a analisar as disposições da Lei nº 14.133/2021 acerca das peculiaridades de tal
+papel no âmbito dos contratos administrativos.
+
+Nesse contexto, Lélio verificou corretamente que
+
+a) é vedada a contratação de terceiros que não integrem a Administração Pública para assisti-lo ou subsidiá-
+lo no papel de fiscalizador do contrato, notadamente porque tal atividade deve ser desempenhada no âmbito
+do controle interno.
+
+b) não poderia ter sido designado como fiscal de contrato com base na mencionada norma, na medida em
+que não se submete ao regime estatutário e não pode alcançar a garantia da estabilidade, que é
+imprescindível para o exercício de tal mister.
+
+c) a sua designação como fiscal do contrato confere a ele automaticamente as atribuições concernentes às
+autoridades superiores, cabendo-lhe, portanto, adotar as medidas convenientes para sanar as
+irregularidades verificadas, mesmo que ultrapassem a sua competência.
+
+d) para que possa desempenhar a atribuição de fiscal do contrato, ele deve exercer simultaneamente a
+função de agente da contratação, a qual lhe conferirá melhores subsídios para a realização da fiscalização.
+
+e) no papel de fiscalizador do contrato, ele anotará em registro próprio todas as ocorrências relacionadas à
+execução do contrato, determinando o que for necessário para a regularização das faltas ou dos defeitos
+observados, no âmbito de sua competência.
+
+Comentários
+
+Letra A - incorreta. É admitida a contratação de terceiros nesse caso, conforme o artigo 117 da Lei nº
+14.133/2021:
+
+      Art. 117. A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais
+      do contrato, representantes da Administração especialmente designados conforme requisitos
+      estabelecidos no art. 7º desta Lei, ou pelos respectivos substitutos, permitida a contratação de
+      terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.
+
+Letra B - incorreta. Não existe obrigação de o fiscal ser servidor efetivo, já que a Lei apenas diz que deve ser
+preferencialmente servidor, conforme o inciso I do artigo 7º da Lei nº 14.133/2021:
+
+      Art. 7º Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de
+      organização administrativa indicarem, promover gestão por competências e designar agentes
+      públicos para o desempenho das funções essenciais à execução desta Lei que preencham os
+      seguintes requisitos:
+
+      I - sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da
+      Administração Pública;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    45
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Letra C - incorreta. O fiscal irá registrar e documentar eventuais irregularidades, informando essas a seus
+superiores, logo não se confere automaticamente as atribuições elencadas na alternativa, conforme o § 2º
+do artigo 117 da Lei nº 14.133/2021:
+
+     Art. 117, § 2º O fiscal do contrato informará a seus superiores, em tempo hábil para a adoção das
+     medidas convenientes, a situação que demandar decisão ou providência que ultrapasse sua
+     competência.
+
+Letra D - incorreta. O fiscal deve atender o princípio das segregações de funções, sendo vedada sua
+designação para a função de agente de contratação, conforme o § 2º do artigo 7º da Lei nº 14.133/2021:
+
+     Art. 7º, § 1º A autoridade referida no caput deste artigo deverá observar o princípio da
+     segregação de funções, vedada a designação do mesmo agente público para atuação simultânea
+     em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e
+     de ocorrência de fraudes na respectiva contratação.
+
+Letra E - correta. Está de acordo com o § 1º do artigo 117 da Lei nº 14.133/2021:
+
+     Art. 117, § 1º O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas
+     à execução do contrato, determinando o que for necessário para a regularização das faltas ou
+     dos defeitos observados.
+
+Gabarito: Letra E
+
+8. (FGV/2025/TRT 24ª Região/Analista Judiciário - Engenharia) Os contratos administrativos podem ser
+alterados unilateralmente pela Administração Pública, com as devidas justificativas.
+
+Considerando a realização de obra pública e tomando por base o valor inicial atualizado do contrato, o
+contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até
+
+a) 10%.
+
+b) 15%.
+
+c) 20%.
+
+d) 25%.
+
+e) 50%.
+
+Comentários
+
+Os acréscimo e supressões mencionados podem ser de até 25%, letra D, conforme o artigo 125 da Lei nº
+14.133/2021:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              46
+          www.estrategiaconcursos.com.br                                                                 55
+
+                                       
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+      Art. 125. Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o
+      contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou
+      supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se
+      fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de
+      equipamento, o limite para os acréscimos será de 50% (cinquenta por cento).
+
+Vale ressaltar que se fosse o caso de reforma de edifício ou de equipamento, o limite para os acréscimos
+seria de até 50%.
+
+Gabarito: Letra D
+
+9. (FGV/2025/EBSERH/Analista Administrativo - Administração) Na execução de determinado contrato
+administrativo regularmente formalizado para a prestação de serviços contínuos com predominância de
+mão de obra, diante de circunstâncias específicas, que não envolvem calamidade pública, grave
+perturbação da ordem interna ou guerra e que não decorreram de ato ou fato praticado pelo contratado,
+do qual tenha participado ou para o qual tenha contribuído, as autoridades competentes estão em vias de
+determinar a suspensão do contrato, por ordem escrita.
+
+Nesse contexto, as referidas autoridades foram informadas de que, à luz da Lei nº 14.133/2021, o
+contratado terá direito à extinção do contrato, caso a suspensão, por ordem escrita da Administração,
+tenha prazo superior a
+
+a) 15 dias úteis.
+
+b) 2 meses.
+
+c) 45 dias corridos.
+
+d) 3 meses.
+
+e) 30 dias úteis.
+
+Comentários
+
+No caso narrado, o contratado terá direito à extinção do contrato, caso a suspensão, por ordem escrita da
+Administração, tenha prazo superior a 3 meses, letra D, conforme o inciso II do § 2º do artigo 137 da Lei nº
+14.133/2021:
+
+      Art. 137, § 2º O contratado terá direito à extinção do contrato nas seguintes hipóteses:
+
+      (...)
+
+      II - suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior
+      a 3 (três) meses;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                47
+         www.estrategiaconcursos.com.br                                                                   55
+
+                                      
+
+
+---
+
+   Tulio Lages
+   Aula 22
+
+Gabarito: Letra D
+
+10. (FGV/2025/TCE-PE/Analista de Controle Externo) A execução da pavimentação de uma rua será
+realizada por uma empresa de engenharia mediante contrato administrativo firmado com a Administração
+Pública de um Município.
+
+Observando o exposto na Lei nº 14.133/2021, analise as afirmativas a seguir.
+
+I. A responsabilidade pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da
+execução do contrato é compartilhada entre a empresa e a Administração Pública.
+
+II. Em contratos administrativos desse tipo, é vedada por lei ao contratado a subcontratação de partes da
+obra.
+
+III. A execução do contrato deverá ser acompanhada e fiscalizada por, pelo menos, um fiscal de contrato,
+representante da Administração Pública. Além desse, o contratado deverá manter preposto aceito pela
+Administração no local da obra para representá-lo na execução do contrato.
+
+Está correto o que se afirma em:
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) II e III, apenas.
+
+Comentários
+
+Item I - incorreto. Apenas nas contratações de serviços contínuos com regime de dedicação exclusiva de mão
+de obra a Administração responderá solidariamente, conforme o § 2º do artigo 121 da Lei nº 14.133/2021:
+
+        Art. 121. Somente o contratado será responsável pelos encargos trabalhistas, previdenciários,
+        fiscais e comerciais resultantes da execução do contrato.
+
+        (...)
+
+        § 2º Exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva
+        de mão de obra, a Administração responderá solidariamente pelos encargos previdenciários e
+        subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do
+        cumprimento das obrigações do contratado.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            48
+           www.estrategiaconcursos.com.br                                                               55
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Item II - incorreto. A Lei permite que ocorra a subcontratação nesse tipo de contrato, conforme o artigo 122
+da Lei nº 14.133/2021:
+
+      Art. 122. Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o
+      contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite
+      autorizado, em cada caso, pela Administração.
+
+Item III - correto. Está de acordo com os artigos 117 e 118 da Lei nº 14.133/2021:
+
+      Art. 117. A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais
+      do contrato, representantes da Administração especialmente designados conforme requisitos
+      estabelecidos no art. 7º desta Lei, ou pelos respectivos substitutos, permitida a contratação de
+      terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.
+
+      (...)
+
+      Art. 118. O contratado deverá manter preposto aceito pela Administração no local da obra ou do
+      serviço para representá-lo na execução do contrato.
+
+Assim, apenas o item III está correto, Letra C
+
+Gabarito: Letra C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               49
+         www.estrategiaconcursos.com.br                                                                  55
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas também).
+
+
+Perguntas
+
+1. Segundo a Lei nº 14.133/2021, o prazo de convocação do licitante vencedor poderá ser
+prorrogado?
+2. Quais são as consequências da recusa injustificada do adjudicatário no momento da assinatura
+do contrato, conforme disciplina a Lei nº 14.133/2021?
+3. De acordo com a nova Lei de Licitações e Contratos Administrativos, a divulgação do contrato
+de licitação no Portal Nacional de Contratações Públicas é de caráter obrigatório?
+4. De acordo com a Lei nº 14.133/2021, em quais hipóteses o contrato poderá ser dispensado?
+5. Segundo a Lei nº 14.133/2021, nas contratações de serviços de engenharia, o edital poderá
+exigir garantia na modalidade específica?
+6. De acordo com a Lei nº 14.133/2021, as alterações unilaterais determinadas pela
+Administração independem do restabelecimento do equilíbrio econômico-financeiro?
+7. De acordo com a Lei nº 14.133/2021, a Administração, em alguma hipótese, poderá celebrar
+contratos de vigência indeterminada?
+8. Quais possibilidades terá a Administração Pública quando a não conclusão do contrato
+decorrer de culpa do contratado, de acordo com a Lei nº 14.133/2021?
+9. De acordo com a Lei nº 14.133/2021, o contratado poderá subcontratar partes da obra?
+10. Os contratos regidos pela Lei nº 14.133/2021 poderão sofrer alterações unilaterais pela
+Administração? Em quais hipóteses?
+11. Segundo a Lei nº 14.133/2021, poderá haver antecipação de pagamento?
+12. Quais são as sanções previstas na Lei nº 14.133/2021?
+13. De acordo com a Lei nº 14.133/2021, quem poderá impugnar edital de licitação que contenha
+irregularidades?
+
+
+Perguntas com respostas
+
+1. Segundo a Lei nº 14.133/2021, o prazo de convocação do licitante vencedor poderá ser
+prorrogado?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                      50
+        www.estrategiaconcursos.com.br                                                                         55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Sim, o prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante
+solicitação da parte durante seu transcurso, devidamente justificada, e desde que o motivo
+apresentado seja aceito pela Administração (art. 90, § 1º).
+
+2. Quais são as consequências da recusa injustificada do adjudicatário no momento da assinatura
+do contrato, conforme disciplina a Lei nº 14.133/2021?
+
+A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento
+equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da
+obrigação assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da
+garantia de proposta em favor do órgão ou entidade licitante (art. 90, § 5º).
+
+3. De acordo com a nova Lei de Licitações e Contratos Administrativos, a divulgação do contrato
+de licitação no Portal Nacional de Contratações Públicas é de caráter obrigatório?
+                                                        ==219a34==
+
+Sim, a divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável
+para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados
+da data de sua assinatura (art. 94):
+
+   a) 20 (vinte) dias úteis, no caso de licitação; e
+   b) 10 (dez) dias úteis, no caso de contratação direta.
+
+4. De acordo com a Lei nº 14.133/2021, em quais hipóteses o contrato poderá ser dispensado?
+
+O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses, em que a Administração
+poderá substituí-lo por outro instrumento hábil, como carta-contrato, nota de empenho de
+despesa, autorização de compra ou ordem de execução de serviço (art. 95):
+
+   a) dispensa de licitação em razão de valor; e
+   b) compras com entrega imediata e integral dos bens adquiridos e dos quais não resultem
+      obrigações futuras, inclusive quanto a assistência técnica, independentemente de seu valor.
+
+5. Segundo a Lei nº 14.133/2021, nas contratações de serviços de engenharia, o edital poderá
+exigir garantia na modalidade específica?
+
+Sim, na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da
+garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de
+inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato (art. 102).
+
+6. De acordo com a Lei nº 14.133/2021, as alterações unilaterais determinadas pela
+Administração independem do restabelecimento do equilíbrio econômico-financeiro?
+
+Não, sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será
+considerado mantido o equilíbrio econômico-financeiro, renunciando as partes aos pedidos de
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        51
+        www.estrategiaconcursos.com.br                                                           55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+restabelecimento do equilíbrio relacionados aos riscos assumidos, exceto no que se refere (art.
+103, § 5º):
+
+   a) às alterações unilaterais determinadas pela Administração, nas hipóteses do inciso I do
+      caput do art. 124 da Lei; e
+   b) ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos
+      pelo contratado em decorrência do contrato.
+
+7. De acordo com a Lei nº 14.133/2021, a Administração, em alguma hipótese, poderá celebrar
+contratos de vigência indeterminada?
+
+Sim, a Administração poderá estabelecer a vigência por prazo indeterminado nos contratos em
+que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada,
+a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação (art.
+109).
+
+8. Quais possibilidades terá a Administração Pública quando a não conclusão do contrato
+decorrer de culpa do contratado, de acordo com a Lei nº 14.133/2021?
+
+Quando a não conclusão decorrer de culpa do contratado (art. 111, parágrafo único):
+
+   a) o contratado será constituído em mora, aplicáveis a ele as respectivas sanções
+      administrativas; e
+   b) a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas
+      admitidas em lei para a continuidade da execução contratual.
+
+9. De acordo com a Lei nº 14.133/2021, o contratado poderá subcontratar partes da obra?
+
+Sim, na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o
+contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite
+autorizado, em cada caso, pela Administração (art. 122).
+
+10. Os contratos regidos pela Lei nº 14.133/2021 poderão sofrer alterações unilaterais pela
+Administração? Em quais hipóteses?
+
+Sim, os contratos poderão ser alterados, com as devidas justificativas, unilateralmente pela
+Administração (art. 124, I):
+
+   a) quando houver modificação do projeto ou das especificações, para melhor adequação
+      técnica a seus objetivos; e
+   b) quando for necessária a modificação do valor contratual em decorrência de acréscimo ou
+      diminuição quantitativa de seu objeto, nos limites permitidos por esta Lei.
+
+11. Segundo a Lei nº 14.133/2021, poderá haver antecipação de pagamento?
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      52
+        www.estrategiaconcursos.com.br                                                         55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+Sim, mas a antecipação de pagamento somente será permitida se propiciar sensível economia de
+recursos ou se representar condição indispensável para a obtenção do bem ou para a prestação
+do serviço, hipótese que deverá ser previamente justificada no processo licitatório e
+expressamente prevista no edital de licitação ou instrumento formal de contratação direta (art.
+145, § 1º).
+
+12. Quais são as sanções previstas na Lei nº 14.133/2021?
+
+Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes
+sanções (art. 156):
+
+   a) advertência;
+   b) multa;
+   c) impedimento de licitar e contratar; e
+   d) declaração de inidoneidade para licitar ou contratar.
+
+13. De acordo com a Lei nº 14.133/2021, quem poderá impugnar edital de licitação que contenha
+irregularidades?
+
+Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação
+da Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3
+(três) dias úteis antes da data de abertura do certame (art. 164).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      53
+        www.estrategiaconcursos.com.br                                                         55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 22
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+                                                        ==219a34==
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            54
+        www.estrategiaconcursos.com.br                                                               55
+
+                                     
+
+
+---
+
+---

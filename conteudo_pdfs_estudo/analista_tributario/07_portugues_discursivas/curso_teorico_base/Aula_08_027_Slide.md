@@ -1,0 +1,3011 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 08_027_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: TEMAS ESPECIAIS DE
+---
+
+# TEMAS ESPECIAIS DE
+
+---
+
+TEMAS ESPECIAIS DE
+   PORTUGUÊS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+CADERNO 28
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+FUNÇÕES SINTÁTICAS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+TERMOS ACESSÓRIOS DA
+      ORAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+  PARTE II - Adjunto
+Adnominal e Predicativo
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+ Adjunto adnominal
+ O adjunto adnominal é o “termo que limita, individua a significação de um
+ substantivo.”
+ Ex.: Dois alunos; O / Um aluno; Aluno inteligente / de inteligência.
+      (num.)          (art.)                   (adj.)         (loc. adj.)
+
+ Meu aluno; Invasão dos mosquitos.
+ (pron.)                 (loc. adj.)
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+ Predicativo
+
+
+ - Predicativo do sujeito
+ Termo que acrescenta alguma coisa ao sujeito mediante um verbo qualquer. Em
+ geral, é um atributo, uma característica, atribuído ao sujeito. É constituído por
+ substantivo, adjetivo, pronome ou numeral.
+ O mar virou sertão.
+ O homem estava preocupado.
+ Tu não és eu.
+ Nós somos cinco.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+ - Predicativo do objeto
+ Termo que acrescenta alguma coisa ao objeto mediante um verbo qualquer. Em
+ geral, é um atributo, uma característica, atribuído ao objeto. O predicativo do
+ objeto, em geral, ocorre por extensão semântica do verbo, que, além do objeto,
+ pede um outro termo que complete o seu sentido.
+ Achei-o competente.
+ Julguei as suas perguntas tolas.
+ Chamaram o delegado de inquieto.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Distinga predicativo do sujeito do predicativo do objeto, destacando-
+os entre parênteses
+
+ a) Zeca parece alegre.
+
+ b) O rapaz chegou gravemente ferido ao hospital.
+
+ c) Chamaram o menino de mentiroso.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Distinga predicativo do sujeito do predicativo do objeto, destacando-
+os entre parênteses
+
+ d) Consideramos o candidato apto.
+
+ e) O mar parecia traiçoeiro naquela manhã.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+ OBSERVAÇÕES IMPORTANTES
+
+
+ Adjunto adnominal X Predicativo do objeto
+ A retirada do adjunto adnominal não prejudica a essência da informação.
+ A nova geração de leitores não tem opiniões fortes.
+ Nossas discussões intelectuais se tornaram silenciosas.
+
+
+ O predicativo do objeto corre por exigência do valor semântico do verbo, que além
+ do complemento, necessita de outro termo que o complete, sem o qual o sentido
+ da frase fica prejudicado.
+ Achei esse menino inteligente.
+ O povo considerou os governantes incompetentes.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+ #ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Distinga adjunto adnominal de predicativo do objeto
+
+ a) Os candidatos resolveram uma questão difícil.
+
+ b) Os candidatos consideraram a prova difícil.
+
+ c) A pobre criança comeu aquela sopa horrorosa.
+
+ d) Acho aquela senhora muito simpática.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+VUNESP
+                                     Profª. Adriana Figueiredo
+
+---
+
+VUNESP – TJ – SP – Assistente Social Jurídico
+Leia o texto para responder à questão.
+
+     A moléstia conservou durante muitos dias – dias angustiosos e terríveis – um
+ caráter de excessiva gravidade; durante longo tempo, Fadinha, que estava com
+ todo o corpo cruelmente invadido pela medonha erupção, teve a existência por
+ um fio. Entretanto, os cuidados da ciência e a ciência dos cuidados triunfaram do
+ mal, e Fadinha ficou boa, completamente boa, depois de ter estado suspensa
+ entre a vida e a morte.
+     Ficou boa, mas desfigurada: a moça mais bonita do Rio de Janeiro
+ transformara-se num monstro. Aquele rosto intumescido e esburacado não
+ conservara nada, absolutamente nada da beleza célebre de outrora. Ela, porém,
+ consolou-se vendo que o amor de Remígio, longe de enfraquecer, crescera,
+ fortificado pelo espetáculo do seu martírio.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – TJ – SP – Assistente Social Jurídico
+    Um ano depois do casamento, Fadinha estava outra vez bonita, não da
+boniteza irradiante e espetaculosa de outrora, mas, enfim, com um semblante
+agradável, o quanto bastava para regalo dos olhos enamorados do esposo. Remígio
+dizia, sinceramente, quem sabe? que a achava assim mais simpática, e os sinais das
+bexigas lhe davam até um “não sei quê”, que lhe faltava dantes.
+    – Não é bela que me inquiete, nem feia que me repugne. Era assim que eu a
+desejava.
+    O caso é que ambos foram muito felizes. Ainda vivem. Remígio é atualmente
+um alto funcionário, pai de cinco filhos perfeitamente educados.
+
+     (Arthur Azevedo, “A moça mais bonita do Rio de Janeiro”. Em: Seleção de Contos,
+                                                                   2014. Adaptado.)
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP – TJ – SP – Assistente Social Jurídico
+Na Nova Gramática do Português Contemporâneo, os autores Celso Cunha e
+Lindley Cintra explicam que o adjunto adnominal “é o termo de valor adjetivo que
+serve para especificar ou delimitar o significado de um substantivo, qualquer que
+seja a função deste.” Tal definição está corretamente exemplificada com a
+expressão destacada em:
+
+ A) Um ano depois do casamento, Fadinha estava outra vez bonita...
+
+
+ B) O caso é que ambos foram muito felizes. Ainda vivem.
+
+
+ C) ... com todo o corpo cruelmente invadido pela medonha erupção...
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – TJ – SP – Assistente Social Jurídico
+Na Nova Gramática do Português Contemporâneo, os autores Celso Cunha e
+Lindley Cintra explicam que o adjunto adnominal “é o termo de valor adjetivo que
+serve para especificar ou delimitar o significado de um substantivo, qualquer que
+seja a função deste.” Tal definição está corretamente exemplificada com a
+expressão destacada em:
+
+ D) ... absolutamente nada da beleza célebre de outrora.
+
+
+ E) ... depois de ter estado suspensa entre a vida e a morte.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP – TJ – SP – Assistente Social Jurídico
+Na Nova Gramática do Português Contemporâneo, os autores Celso Cunha e
+Lindley Cintra explicam que o adjunto adnominal “é o termo de valor adjetivo que
+serve para especificar ou delimitar o significado de um substantivo, qualquer que
+seja a função deste.” Tal definição está corretamente exemplificada com a
+expressão destacada em:
+
+ D) ... absolutamente nada da beleza célebre de outrora.
+
+
+ E) ... depois de ter estado suspensa entre a vida e a morte.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – 2023 – Prefeitura de São Bernardo do Campo – SP –
+Professor II de Educação Básica - Português
+                                 Um rato na rede
+
+        Transcrevo um encontro com um rato, ocorrido numa aldeia dos nativos
+ Apinayé, nos anos 60.
+        “Insone, senti um tremor nas cordas da rede. Com a lanterna, vi um rato
+ saindo dos meus pés. O velhaco me olhou, passou velozmente pelo punho da rede
+ e entrou na palha do telhado. Sentado, examinei trêmulo cada dedo. Foi um
+ exercício de ioga ver o meu pé; no esforço, derrubei a lanterna. Conformado, vi no
+ dedão do pé direito um arranhão sangrento. Era o presente do rato de merda que
+ fez meu dedão de queijo...
+        Eu volto desconfiado para a rede, só que nela entro com um pé calçado de
+ meias e botas. Numa das mãos, empunho a lanterna; na outra, o revólver. Cubro-
+ me parcialmente com o lençol e espero atento pelo rato.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – 2023 – Prefeitura de São Bernardo do Campo – SP –
+Professor II de Educação Básica - Português
+        Esmiúço com a lanterna o teto e ouço apenas as batidas do meu coração. O
+ rato sumiu e no seu lugar sinto minha perna direita ficar dormente. Tenho a
+ certeza de que estou envenenado. Pulo da rede, abro minha caixa de primeiros
+ socorros, tiro dela um bisturi (para casos de emergências) e me preparo para
+ cortar o dedo no local da mordida para que o sangue renovado expulse o veneno.
+ Agarro meu próprio pé, dobro a perna direita sobre o joelho esquerdo, meço com
+ cautela o lugar onde farei a incisão que vi muitas vezes no cinema os mocinhos
+ fazendo em si próprios sem o menor problema, derramo na “área” a ser cortada o
+ mercúrio cromo, que escorre pelo pé, mas quando encosto no dedo a lâmina fria,
+ falta-me a coragem, o tutano, a força dos verdadeiros heróis. Contento-me em
+ fazer um bom e útil curativo.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+VUNESP – 2023 – Prefeitura de São Bernardo do Campo – SP –
+Professor II de Educação Básica - Português
+
+        Afinal, justifico, os ratos do sertão não são venenosos como os seus irmãos
+ urbanos. Desisto da caçada do roedor por incompetência e da autocirurgia por
+ covardia.
+        Deprimido, desfaço-me do aparato de cirurgião e, insone e com medo da
+ volta do rato, volto ao balanço da rede onde acabo dormindo com saudade de
+ tempos normais.”
+
+                           (Roberto DaMatta. Em: https://www.estadao.com.br/, 02.11.2022. Adaptado.)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+VUNESP – 2023 – Prefeitura de São Bernardo do Campo – SP –
+Professor II de Educação Básica - Português
+ Ensinando-se a gramática da língua por meio da metalinguagem, espera-se que os
+ alunos identifiquem que o termo integrante predicativo do sujeito, destacado na
+ oração “... examinei trêmulo cada dedo.”, também ocorre no seguinte enunciado:
+
+ A) ... vi no dedão do pé direito um arranhão sangrento.
+
+ B) ... nela entro com um pé calçado de meias e botas.
+
+ C) Cubro-me parcialmente com o lençol...
+
+ D) Contento-me em fazer um bom e útil curativo.
+
+ E) Deprimido, desfaço-me do aparato de cirurgião...
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP – 2023 – Prefeitura de São Bernardo do Campo – SP –
+Professor II de Educação Básica - Português
+ Ensinando-se a gramática da língua por meio da metalinguagem, espera-se que os
+ alunos identifiquem que o termo integrante predicativo do sujeito, destacado na
+ oração “... examinei trêmulo cada dedo.”, também ocorre no seguinte enunciado:
+
+ A) ... vi no dedão do pé direito um arranhão sangrento.
+
+ B) ... nela entro com um pé calçado de meias e botas.
+
+ C) Cubro-me parcialmente com o lençol...
+
+ D) Contento-me em fazer um bom e útil curativo.
+
+ E) Deprimido, desfaço-me do aparato de cirurgião...
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – 2023 – PC – SP - Escrivão
+        Para que serve uma premiação científica? Há várias maneiras de responder
+a essa pergunta. Todo prêmio é, em primeiro lugar, um reconhecimento do
+trabalho realizado por um pesquisador, uma equipe ou instituição. Seu valor é
+imaterial. Premiar, nesse sentido, é prestigiar quem contribuiu de maneira
+significativa para o avanço de determinado campo do conhecimento.
+        Essas honrarias costumam vir acompanhadas de alguma quantia em
+dinheiro. Logo, prêmios também ajudam a financiar a pesquisa científica e a dar
+incentivos concretos, materiais, para que os pesquisadores continuem seu
+trabalho, sobretudo num país como o Brasil, que remunera mal seus cientistas.
+        Mas acreditamos que a função mais importante de um prêmio é a de
+destacar certas temáticas ou áreas do conhecimento. Um prêmio é um farol, que
+aponta direções nas quais a curiosidade humana deve continuar avançando, e
+também um holofote, capaz de jogar luz sobre assuntos até então pouco
+conhecidos do público geral.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+VUNESP – 2023 – PC – SP - Escrivão
+       O Prêmio Nobel, o mais prestigioso do mundo, é o que melhor ilustra esse
+fenômeno. Quando a academia sueca anuncia os vencedores do Nobel de Física ou
+Química, telejornais do mundo inteiro dedicam preciosos minutos a temas
+herméticos como entrelaçamento quântico ou química bio-ortogonal. De que
+outra maneira isso ganharia espaço no horário nobre?
+       Portanto, um prêmio, na medida em que chama a atenção da sociedade
+para esta ou aquela temática, é uma forma de valorizar e divulgar a própria
+ciência. É com base nisso que afirmamos que o Brasil precisa como nunca premiar
+o trabalho de seus cientistas.
+
+                           (Opinião. https://www.estadao.com.br/opiniao, 29.09.2023. Adaptado.)
+
+Profª Adriana Figueiredo
+                                          
+
+
+---
+
+VUNESP – 2023 – PC – SP - Escrivão
+Assinale a alternativa em que a expressão destacada corresponde a um termo
+integrante da oração.
+
+ A) … um holofote, capaz de jogar luz sobre assuntos até então pouco conhecidos…
+
+ B) O Prêmio Nobel, o mais prestigioso do mundo, é o que melhor ilustra esse
+ fenômeno.
+
+ C) Portanto, um prêmio […] é uma forma de valorizar e divulgar a própria ciência.
+
+ D) … sobretudo num país como o Brasil, que remunera mal seus cientistas.
+
+ E) Todo prêmio é, em primeiro lugar, um reconhecimento do trabalho realizado…
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP – 2023 – PC – SP - Escrivão
+Assinale a alternativa em que a expressão destacada corresponde a um termo
+integrante da oração.
+
+ A) … um holofote, capaz de jogar luz sobre assuntos até então pouco conhecidos…
+
+ B) O Prêmio Nobel, o mais prestigioso do mundo, é o que melhor ilustra esse
+ fenômeno.
+
+ C) Portanto, um prêmio […] é uma forma de valorizar e divulgar a própria ciência.
+
+ D) … sobretudo num país como o Brasil, que remunera mal seus cientistas.
+
+ E) Todo prêmio é, em primeiro lugar, um reconhecimento do trabalho realizado…
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+      IBFC
+                                     Profª. Adriana Figueiredo
+
+---
+
+IBFC – 2022 – INDEA – MT - Fiscal Estadual de Defesa Agropecuária e
+Florestal
+ Considere o fragmento abaixo para responder à questão seguinte.
+
+      “Costelas de areia branca e estriões de praia em contraste com a água escura;
+ lagos cercados por uma vegetação densa; poças enormes, formadas pela vazante,
+ e ilhas que pareciam continente.”
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+IBFC – 2022 – INDEA – MT - Fiscal Estadual de Defesa Agropecuária e
+Florestal
+ A descrição do local ganha expressividade por meio da caracterização dos
+ substantivos. No fragmento em questão, a função sintática que cumpre esse papel
+ caracterizador é, predominantemente:
+
+
+ A) adjunto adnominal.
+
+ B) predicativo.
+
+ C) complemento nominal.
+
+ D) adjunto adverbial.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – 2022 – INDEA – MT - Fiscal Estadual de Defesa Agropecuária e
+Florestal
+ A descrição do local ganha expressividade por meio da caracterização dos
+ substantivos. No fragmento em questão, a função sintática que cumpre esse papel
+ caracterizador é, predominantemente:
+
+
+ A) adjunto adnominal.
+
+ B) predicativo.
+
+ C) complemento nominal.
+
+ D) adjunto adverbial.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2022 – DPE – MT – Analista – Administrador
+ O texto abaixo é um fragmento do conto “O homem que sabia javanês”, do escritor
+ brasileiro Lima Barreto.
+
+     Em uma confeitaria, certa vez, ao meu amigo Castro, contava eu as partidas
+ que havia pregado às convicções e às respeitabilidades, para poder viver.
+     Houve mesmo, uma dada ocasião, quando estive em Manaus, em que fui
+ obrigado a esconder a minha qualidade de bacharel, para mais confiança obter dos
+ clientes, que afluíam ao meu escritório de feiticeiro e adivinho. Contava eu isso.
+     O meu amigo ouvia-me calado, embevecido, gostando daquele meu Gil Blas1
+ vivido, até que, em uma pausa da conversa, ao esgotarmos os copos, observou a
+ esmo:
+      — Tens levado uma vida bem engraçada, Castelo!
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+IBFC – 2022 – DPE – MT – Analista – Administrador
+
+ Em “O meu amigo ouvia-me calado” (3º§), o termo em destaque exerce,
+ sintaticamente, a função de:
+
+ A) adjunto adverbial.
+
+ B) adjunto adnominal.
+
+ C) predicativo do sujeito.
+
+ D) complemento nominal.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – 2022 – DPE – MT – Analista – Administrador
+
+ Em “O meu amigo ouvia-me calado” (3º§), o termo em destaque exerce,
+ sintaticamente, a função de:
+
+ A) adjunto adverbial.
+
+ B) adjunto adnominal.
+
+ C) predicativo do sujeito.
+
+ D) complemento nominal.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2024 – TRF 5a Região - Analista Judiciário
+ 2º PARÁGRAFO
+
+         Um dos momentos mais icônicos foi quando Axelle Saint-Cirel, uma cantora
+ lírica negra, entoou “La Marseillaise”, o hino francês no alto do Grand Palais. A luta
+ pela inclusão parece mais uma maratona do que uma prova de 100 metros. No
+ entanto, há vitórias, ao longo do caminho, que precisamos celebrar, como a
+ performance da Aya Nakamura. A escolha da cantora francesa foi política e
+ acertada.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+IBFC – 2024 – TRF 5a Região - Analista Judiciário
+ No final do segundo parágrafo, a enunciadora caracteriza a escolha por Aya
+ Nakamura como “política” e “acertada”. No contexto em que se encontram, tais
+ vocábulos devem ser classificados, sintaticamente, como:
+
+ A) predicativos do sujeito.
+
+ B) adjuntos adverbiais.
+
+ C) adjuntos adnominais.
+
+ D) complementos verbais.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+IBFC – 2024 – TRF 5a Região - Analista Judiciário
+ No final do segundo parágrafo, a enunciadora caracteriza a escolha por Aya
+ Nakamura como “política” e “acertada”. No contexto em que se encontram, tais
+ vocábulos devem ser classificados, sintaticamente, como:
+
+ A) predicativos do sujeito.
+
+ B) adjuntos adverbiais.
+
+ C) adjuntos adnominais.
+
+ D) complementos verbais.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+         FCC
+                                     Profª. Adriana Figueiredo
+
+---
+
+FCC – 2023 – TRT 18a Região - Analista Judiciário
+
+        Não tive como lhe dizer, naquele momento, que entre as tantas formas de
+ se atirar à vida está a de se valer de uma caneta para perseguir poemas e achar as
+ falas humanas mais urgentes e precisas, essenciais para quem as diz,
+ indispensáveis para quem as ouve, vivas para dentro e para além do tempo e do
+ espaço imediatos. Espero que o jovem aluno logo tenha se convencido de que um
+ poeta torna aberto para todos o universo reflexivo de sua intimidade, onde
+ também podemos reconhecer algo da nossa.
+
+ (Aldair Rômulo Siqueira, a publicar)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FCC – 2023 – TRT 18a Região - Analista Judiciário
+
+ Na frase um poeta torna aberto para todos o universo reflexivo de sua intimidade,
+
+ A) o termo aberto qualifica o objeto direto universo reflexivo.
+
+ B) sua intimidade refere-se ao termo todos.
+
+ C) para todos é um exemplo de vocativo.
+
+ D) ocorre uma indeterminação do sujeito em um poeta.
+
+ E) o verbo tornar está conjugado na voz passiva.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FCC – 2023 – TRT 18a Região - Analista Judiciário
+
+ Na frase um poeta torna aberto para todos o universo reflexivo de sua intimidade,
+
+ A) o termo aberto qualifica o objeto direto universo reflexivo.
+
+ B) sua intimidade refere-se ao termo todos.
+
+ C) para todos é um exemplo de vocativo.
+
+ D) ocorre uma indeterminação do sujeito em um poeta.
+
+ E) o verbo tornar está conjugado na voz passiva.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – DPE – RS – Analista - Administração
+ Os elementos sublinhados são exemplos de uma mesma função sintática no
+ seguinte segmento:
+
+ A) Nas redes sociais, emoções destemperadas convivem com confissões
+ perturbadoras...
+
+
+ B) Os mais velhos devem se lembrar do tempo em que era feio “ouvir conversa
+ alheia”.
+
+
+ C) Hoje é impossível transitar por qualquer espaço público sem recolher
+ informações pessoais...
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+FCC – DPE – RS – Analista - Administração
+ Os elementos sublinhados são exemplos de uma mesma função sintática no
+ seguinte segmento:
+
+
+ D) Ainda é possível ter privacidade em meio a celulares (...)?
+
+
+ E) ...a reclamação por privacidade é recebida como o mais condenável egoísmo.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FCC – DPE – RS – Analista - Administração
+ Os elementos sublinhados são exemplos de uma mesma função sintática no
+ seguinte segmento:
+
+ A) Nas redes sociais, emoções destemperadas convivem com confissões
+ perturbadoras...
+
+
+ B) Os mais velhos devem se lembrar do tempo em que era feio “ouvir conversa
+ alheia”.
+
+
+ C) Hoje é impossível transitar por qualquer espaço público sem recolher
+ informações pessoais...
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – 2022 – TRT 9a Região - Analista Judiciário
+
+        Consegue afinal apertar-lhe a mãozinha na luva de crochê, ri (descuidoso
+ de ser feio) dentro de seus olhos glaucos. Discutem o narizinho, quem sabe
+ arrebitado, segundo ela. E para ele, nada mais bonito que tal narizinho. Meio do
+ sono acorda, olho arregalado no escuro. A sua imagem o percorre, impetuoso
+ vento por uma casa de portas abertas. Ninguém por perto, fala sozinho. A mãe o
+ acha mais magro. Quem dera ser o terceiro motociclista do Globo da Morte.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FCC – 2022 – TRT 9a Região - Analista Judiciário
+         Em guarda no portão, as mãos suadas, fumando. Ela aparece: um caramanchão
+ florido de glicínia azul. Olhinho esquivo que fixa e foge. O sorriso (uma virgem fatal?) na
+ pequena boca fresca. Um dentinho ectópico no lado esquerdo, onde a palavra tiau esbarra
+ quando sai. Ah, se ela deixar, passa o resto da vida adorando esse dentinho. Espera outras
+ vezes, fumando aflito, um cigarro aceso no outro. Ele mesmo um cigarro em chamas. A
+ mocinha não quer lhe dar a mão. Como pode, uma santinha disfarçada na terra? Depois,
+ deu.
+         Brava, ainda mais linda. Toda rosa, o lenço no pescoço, gatinha na janela depois do
+ banho. A curva altaneira da testa, os cachos loiros arrepiados ao vento. Ai, não, uma pérola
+ na orelha. A pérola da orelha. Uma divina orelhinha esquerda, sabe o que é? A voz meio
+ rouca: Adivinhe o que eu tenho na mão? “Bem, pode ser tanta coisa.” Bala de mel, seu
+ bobo. Pra você que não merece. Já esquecido de timidez e feiura: “Sabe o que eu mais
+ quero? É embalar você no colo.” Pronto, ofendida, lhe negaceou o rosto. De mal, até
+ amanhã. Amanhã nosso herói vai cultivar uma barbicha.
+
+Profª Adriana Figueiredo
+                                                                                    (TREVISAN, Dalton. Namorada. Adaptado de:
+                                        https://www.bpp.pr.gov.br/Candido/Pagina/Namorada)
+
+
+---
+
+FCC – 2022 – TRT 9a Região - Analista Judiciário
+ Leia as seguintes afirmações:
+
+ I. Em Consegue afinal apertar-lhe a mãozinha na luva de crochê, o termo “lhe”
+ exerce a função sintática de adjunto adnominal.
+
+ II. Em Pronto, ofendida, lhe negaceou o rosto, o “lhe” atua como objeto direto.
+
+ III. Em A mocinha não quer lhe dar a mão, o termo “lhe” exerce a função de objeto
+ indireto.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FCC – 2022 – TRT 9a Região - Analista Judiciário
+ Está correto o que se afirma APENAS em
+
+
+ A) II e III.
+
+ B) III.
+
+ C) I e II.
+
+ D) II.
+
+ E) I e III.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FCC – 2022 – TRT 9a Região - Analista Judiciário
+ Está correto o que se afirma APENAS em
+
+
+ A) II e III.
+
+ B) III.
+
+ C) I e II.
+
+ D) II.
+
+ E) I e III.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+       FGV
+                                     Profª. Adriana Figueiredo
+
+---
+
+FGV – 2024 – Prefeitura de Nova Iguaçu - Analista Tributário do
+Tesouro Municipal
+ Assinale a opção em que o elemento destacado não funciona como complemento.
+
+ A) Agora peço-te em nome da amizade que te consagro, continua a tua obra de
+ generosidade.
+
+ B) No entanto, ele estava tranquilo, e um só gemido não se lhe ouvia.
+
+ C) O mancebo, antevendo a sua resolução, caiu-lhe aos pés.
+
+ D) Só então notei que aquela moça estava só, e que a ausência de um pai, de um
+ marido, ou de um irmão, devia me ter feito suspeitar a verdade.
+
+ E) Pela vez primeira, sentia a necessidade de uma alma que compreendesse a sua.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2024 – Prefeitura de Nova Iguaçu - Analista Tributário do
+Tesouro Municipal
+ Assinale a opção em que o elemento destacado não funciona como complemento.
+
+ A) Agora peço-te em nome da amizade que te consagro, continua a tua obra de
+ generosidade.
+
+ B) No entanto, ele estava tranquilo, e um só gemido não se lhe ouvia.
+
+ C) O mancebo, antevendo a sua resolução, caiu-lhe aos pés.
+
+ D) Só então notei que aquela moça estava só, e que a ausência de um pai, de um
+ marido, ou de um irmão, devia me ter feito suspeitar a verdade.
+
+ E) Pela vez primeira, sentia a necessidade de uma alma que compreendesse a sua.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Professor C - Língua Portuguesa
+
+ As frases a seguir têm dois adjetivos sublinhados; assinale a frase em que esses
+ adjetivos exercem uma função sintática diferente.
+
+ A) Afinal, o que é Deus? Uma eterna criança brincando eternamente no
+ jardim eterno.
+
+ B) Eu tive uma grande vantagem que meus filhos não tiveram. Eu nasci pobre.
+
+ C) A juventude é coisa suspeita mesmo quando a fidelidade é certa.
+
+ D) Com dinheiro pode-se construir uma casa esplêndida, mas não uma boa família.
+
+ E) Mães são necessidade biológica. Os pais, uma intervenção social.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Professor C - Língua Portuguesa
+
+ As frases a seguir têm dois adjetivos sublinhados; assinale a frase em que esses
+ adjetivos exercem uma função sintática diferente.
+
+ A) Afinal, o que é Deus? Uma eterna criança brincando eternamente no
+ jardim eterno.
+
+ B) Eu tive uma grande vantagem que meus filhos não tiveram. Eu nasci pobre.
+
+ C) A juventude é coisa suspeita mesmo quando a fidelidade é certa.
+
+ D) Com dinheiro pode-se construir uma casa esplêndida, mas não uma boa família.
+
+ E) Mães são necessidade biológica. Os pais, uma intervenção social.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ FGV - 2024 - Prefeitura de Vitória - ES - Guarda Municipal de Vitória
+
+ Assinale a opção em que o lhe é adjunto adnominal.
+
+ A) Disse-lhe, senhor, mostra-nos o Pai.
+
+ B) Avisei-lhe o horário da prova.
+
+ C) Deixei-lhe sair à noite.
+
+ D) Entreguei-lhe a encomenda.
+
+ E) Roubaram-lhe as chaves.
+
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+ FGV - 2024 - Prefeitura de Vitória - ES - Guarda Municipal de Vitória
+
+ Assinale a opção em que o lhe é adjunto adnominal.
+
+ A) Disse-lhe, senhor, mostra-nos o Pai.
+
+ B) Avisei-lhe o horário da prova.
+
+ C) Deixei-lhe sair à noite.
+
+ D) Entreguei-lhe a encomenda.
+
+ E) Roubaram-lhe as chaves.
+
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CADERNO 29
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+CLASSES DE PALAVRAS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+ARTIGO
+                                     Profª. Adriana Figueiredo
+
+---
+
+                                          Indica conhecimento prévio, por        Comprei o livro.
+               Definido                    parte dos interlocutores, do ser   Recebi as notificações.
+                                             ou do objeto mencionado.
+
+                                           Denota desconhecimento, por          Comprei um livro.
+ARTIGO        Indefinido                  parte de um dos interlocutores,         Recebi umas
+ (classe                                        do ser ou do objeto.              notificações.
+variável)
+
+
+            Sempre antecede                      Refere-se sempre a um         Comprou um livro.
+             um substantivo                           substantivo.            Recebi as notificações.
+
+                                    Prof. Adriana Figueiredo
+                           
+
+
+---
+
+              PRONOME PESSOAL                                   Não a encontrei.
+
+                  ARTIGO                                      Desejava a felicidade.
+OBSERVAÇÕES
+IMPORTANTES
+                PREPOSIÇÃO                                  Aspirava a dias melhores.
+
+                PRONOME                                      Esta música é boa, mas
+              DEMONSTRATIVO                                prefiro a do álbum anterior.
+                                                                (= aquela música)
+                               Prof. Adriana Figueiredo
+                      
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+I. Identifique os termos destacados nas frases. Utilize a seguinte
+numeração:
+
+ (1) artigo definido (2) artigo indefinido     (3) pronome pessoal
+ (4) preposição      (5) pronome demonstrativo
+
+ a) Chegaram uns papéis para você assinar. Eu os coloquei sobre a pasta. ( ) ( ) ( )
+
+
+ b) Ela começou a cantar assim que viu as crianças. ( ) ( )
+
+
+ c) Não as interessam o programa de benefícios e as pontuações. ( ) ( ) ( )
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+I. Identifique os termos destacados nas frases. Utilize a seguinte
+numeração:
+ (1) artigo definido (2) artigo indefinido (3) pronome pessoal
+ (4) preposição      (5) pronome demonstrativo
+
+  d) Entre todas as respostas, escolhi a que estava mais completa. ( ) ( )
+
+
+  e) Visamos a momentos felizes quando os filhos crescem. ( ) ( )
+
+
+  f) Um homem suspeito foi visto com a vítima minutos antes do crime. ( ) ( )
+
+
+  g) Levei as camisas usadas a ela, mas a que estou usando é nova. ( ) ( ) ( )
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+INSTITUTO CONSULPLAN
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Instituto Consulplan – 2022 – FEPAM – RS – Agente Técnico - Técnico
+em Administração
+ Em “A gente se acostuma a ler o jornal no ônibus porque não pode perder o
+ tempo da viagem” (2º§), o artigo “o”, contraído com a preposição “em”, antes de
+ “ônibus”, indica
+
+ A) indefinição.
+
+ B) inexistência.
+
+ C) generalidade.
+
+ D) especificidade.
+
+ E) particularidade.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Instituto Consulplan – 2022 – FEPAM – RS – Agente Técnico - Técnico
+em Administração
+ Em “A gente se acostuma a ler o jornal no ônibus porque não pode perder o
+ tempo da viagem” (2º§), o artigo “o”, contraído com a preposição “em”, antes de
+ “ônibus”, indica
+
+ A) indefinição.
+
+ B) inexistência.
+
+ C) generalidade.
+
+ D) especificidade.
+
+ E) particularidade.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Instituto Consulplan – 2024 – Prefeitura de Nova Iguaçu – RJ –
+Assistente Social III
+ Em “A educação em 2024 será marcada pela integração da tecnologia como
+ objeto e ferramenta de ensino e por uma educação humanizadora [...]” (1º§), os
+ termos destacados pertencem à classe de palavras denominada “artigo”, palavra
+ que se antepõe aos substantivos. Acerca dos termos destacados pode-se afirmar
+ que:
+
+ A) A distinção morfológica proporciona a distinção semântica.
+
+ B) Sintaticamente ocupam funções distintas em relação ao substantivo que
+ antecedem.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Instituto Consulplan – 2024 – Prefeitura de Nova Iguaçu – RJ –
+Assistente Social III
+ Em “A educação em 2024 será marcada pela integração da tecnologia como
+ objeto e ferramenta de ensino e por uma educação humanizadora [...]” (1º§), os
+ termos destacados pertencem à classe de palavras denominada “artigo”, palavra
+ que se antepõe aos substantivos. Acerca dos termos destacados pode-se afirmar
+ que:
+
+ C) A inversão do seu emprego na frase, ou seja, a substituição de um pelo outro
+ não promoveria alteração substancial.
+
+ D) A compreensão das escolhas feitas no uso das palavras permite a identificação
+ da distinção semântica e funcional existente.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Instituto Consulplan – 2024 – Prefeitura de Nova Iguaçu – RJ –
+Assistente Social III
+ Em “A educação em 2024 será marcada pela integração da tecnologia como
+ objeto e ferramenta de ensino e por uma educação humanizadora [...]” (1º§), os
+ termos destacados pertencem à classe de palavras denominada “artigo”, palavra
+ que se antepõe aos substantivos. Acerca dos termos destacados pode-se afirmar
+ que:
+
+ C) A inversão do seu emprego na frase, ou seja, a substituição de um pelo outro
+ não promoveria alteração substancial.
+
+ D) A compreensão das escolhas feitas no uso das palavras permite a
+ identificação da distinção semântica e funcional existente.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Instituto Consulplan – 2023 – CORE – MG – Recepcionista
+
+ A função do termo em destaque difere-se dos demais em:
+
+ A) “Havia a suspeita, [...]” (9º§)
+
+ B) “[...] tirou a foto e foi dormir.” (21º§)
+
+ C) “O Dudu se prontificou a tirar [...]” (10º§)
+
+ D) “A ideia foi sepultada em protestos.” (16º§)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+Instituto Consulplan – 2023 – CORE – MG – Recepcionista
+
+ A função do termo em destaque difere-se dos demais em:
+
+ A) “Havia a suspeita, [...]” (9º§)
+
+ B) “[...] tirou a foto e foi dormir.” (21º§)
+
+ C) “O Dudu se prontificou a tirar [...]” (10º§)
+
+ D) “A ideia foi sepultada em protestos.” (16º§)
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+      IBFC
+                                     Profª. Adriana Figueiredo
+
+---
+
+IBFC – 2024 – INDEA – MT – Fiscal Estadual de Defesa Agropecuária e
+Florestal – Engenheiro Agrônomo
+ Em alguns momentos, o narrador faz uso reiterado de um tipo de artigo, como se
+ nota em “uma casa de farinha” ou “uns latidos”. No texto, de modo geral, esses
+ artigos reforçam:
+
+ A) a incapacidade de nomear.
+
+ B) a noção de quantidade.
+
+ C) a ideia de imprecisão.
+
+ D) um descuido de percepção.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – 2024 – INDEA – MT – Fiscal Estadual de Defesa Agropecuária e
+Florestal – Engenheiro Agrônomo
+ Em alguns momentos, o narrador faz uso reiterado de um tipo de artigo, como se
+ nota em “uma casa de farinha” ou “uns latidos”. No texto, de modo geral, esses
+ artigos reforçam:
+
+ A) a incapacidade de nomear.
+
+ B) a noção de quantidade.
+
+ C) a ideia de imprecisão.
+
+ D) um descuido de percepção.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – Prefeitura de Divinópolis – MG – Enfermeiro
+ O emprego dos artigos destacados em “Em um ponto qualquer da praia de
+ Copacabana, o ônibus para” ressalta, respectivamente:
+
+ A) a quantidade de locais de parada e a aproximação entre o ônibus retratado e os
+ demais.
+
+ B) o desconhecimento do narrador sobre o local de parada e a omissão do veículo
+ em questão.
+
+ C) a indefinição do lugar de parada e a especificidade na apresentação do ônibus
+ em questão.
+
+ D) o descaso na apresentação da localização do ponto e a precisão na indicação do
+ coletivo.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – Prefeitura de Divinópolis – MG – Enfermeiro
+ O emprego dos artigos destacados em “Em um ponto qualquer da praia de
+ Copacabana, o ônibus para” ressalta, respectivamente:
+
+ A) a quantidade de locais de parada e a aproximação entre o ônibus retratado e os
+ demais.
+
+ B) o desconhecimento do narrador sobre o local de parada e a omissão do veículo
+ em questão.
+
+ C) a indefinição do lugar de parada e a especificidade na apresentação do ônibus
+ em questão.
+
+ D) o descaso na apresentação da localização do ponto e a precisão na indicação do
+ coletivo.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC (ADAPTADA) – EMDEC – SP – Assistente Administrativo Jr.
+
+ O vocábulo “a” que está presente no título “Aprendendo a pensar” possui a
+ mesma classificação morfológica do que se encontra destacado em:
+
+ A) “Ocorre que a educação não investe” (4°§)
+
+ B) “A mais velha tinha quatro anos...“ (5°§)
+
+ C) “A mãe lia para ele histórias infantis” (6°§)
+
+ D) “o menino começou a ler antes” (6°§)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+IBFC (ADAPTADA) – EMDEC – SP – Assistente Administrativo Jr.
+
+ O vocábulo “a” que está presente no título “Aprendendo a pensar” possui a
+ mesma classificação morfológica do que se encontra destacado em:
+
+ A) “Ocorre que a educação não investe” (4°§)
+
+ B) “A mais velha tinha quatro anos...“ (5°§)
+
+ C) “A mãe lia para ele histórias infantis” (6°§)
+
+ D) “o menino começou a ler antes” (6°§)
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP
+                                     Profª. Adriana Figueiredo
+
+---
+
+VUNESP – 2024 – TJ – SP – Escrevente Técnico Judiciário
+
+ Identifica-se uma expressão iniciada com artigo definido em:
+
+ A) a expressiva queda do desemprego no país (1º parágrafo).
+
+ B) com taxa de desocupação de 7,9% (2º parágrafo).
+
+ C) em busca de ocupação (5º parágrafo).
+
+ D) Entre os que se declaram pretos (5º parágrafo).
+
+ E) um momento brilhante de pujança econômica e ascensão social (3º parágrafo).
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – 2024 – TJ – SP – Escrevente Técnico Judiciário
+
+ Identifica-se uma expressão iniciada com artigo definido em:
+
+ A) a expressiva queda do desemprego no país (1º parágrafo).
+
+ B) com taxa de desocupação de 7,9% (2º parágrafo).
+
+ C) em busca de ocupação (5º parágrafo).
+
+ D) Entre os que se declaram pretos (5º parágrafo).
+
+ E) um momento brilhante de pujança econômica e ascensão social (3º parágrafo).
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP (ADAPTADA) – 2022 – Prefeitura de Jundiaí – SP –
+Farmacêutico
+ Considere as frases do 1º parágrafo:
+ • ... “o algoritmo não ficou feliz com esse post”.
+ • ... sei muito bem o que é um algoritmo.
+
+ Os termos destacados nas frases referem-se, respectivamente, a algoritmos:
+
+ A) determinado; indeterminado.
+
+ B) determinado; determinado.
+
+ D) indeterminado; determinado.
+
+ C) indeterminado; indeterminado.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP (ADAPTADA) – 2022 – Prefeitura de Jundiaí – SP –
+Farmacêutico
+ Considere as frases do 1º parágrafo:
+ • ... “o algoritmo não ficou feliz com esse post”.
+ • ... sei muito bem o que é um algoritmo.
+
+ Os termos destacados nas frases referem-se, respectivamente, a algoritmos:
+
+ A) determinado; indeterminado.
+
+ B) determinado; determinado.
+
+ D) indeterminado; determinado.
+
+ C) indeterminado; indeterminado.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – MPE – SP – Analista Técnico Científico - Contador
+
+        É muito comum o brasileiro sofrer com o acento grave, sinal que serve para
+ indicar crase, ou seja, a fusão de “a + a”. Ele é apenas um sinalzinho com
+ inclinação à esquerda, tem seus encantos, porém deixa muita gente boa em
+ situação delicada.
+        Quando alguém me pergunta como faz para aprender a “crasear”, digo para
+ começar pelo avesso: primeiro aprenda a não colocar o acento em lugar proibido.
+ Há certas construções em que ele não cabe, pois falta metade: um dos “a + a” não
+ comparece. Por exemplo, o artigo definido feminino “a” não pode ser usado em
+ determinadas situações, o que, por exclusão, nos leva ao raciocínio de que o “a”
+ da construção é apenas a preposição “a”.
+
+               (Dica do professor João Bolognesi, texto editado por Talita Abrantes. Em: https://exame.abril.com.br)
+
+Profª Adriana Figueiredo
+                                                 
+
+
+---
+
+VUNESP – MPE – SP – Analista Técnico Científico - Contador
+
+ Considere o trecho final do texto:
+
+ Por exemplo, o artigo definido feminino “a” não pode ser usado em determinadas
+ situações, o que, por exclusão, nos leva ao raciocínio de que o “a” da construção é
+ apenas a preposição “a”.
+
+ Assinale a alternativa em que a primeira frase confirma e a segunda frase nega o
+ contido na passagem final do texto.
+
+ A) Quando cheguei à repartição, percebi que ali foram feitas algumas mudanças. /
+ A nova funcionária foi encaminhada à direção do setor.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP – MPE – SP – Analista Técnico Científico - Contador
+
+
+ B) Durante a reunião do departamento, lemos, com atenção, a ata da anterior. /
+ Emprestei o livro importado a quem não deveria.
+
+ C) Oferecemos a todos os participantes do evento um exemplar do livro. / Na
+ reunião, eles se referiram a essa nova lei.
+
+ D) Analisando a documentação, conclui-se que está tudo em ordem. / Pedimos
+ atenção à nova legislação do condomínio.
+
+ E) Encontrei o autor a cujo livro nos referimos na última bienal. / A foto do
+ acidente à qual tive acesso me deixou chocada.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+VUNESP – MPE – SP – Analista Técnico Científico - Contador
+
+
+ B) Durante a reunião do departamento, lemos, com atenção, a ata da anterior. /
+ Emprestei o livro importado a quem não deveria.
+
+ C) Oferecemos a todos os participantes do evento um exemplar do livro. / Na
+ reunião, eles se referiram a essa nova lei.
+
+ D) Analisando a documentação, conclui-se que está tudo em ordem. / Pedimos
+ atenção à nova legislação do condomínio.
+
+ E) Encontrei o autor a cujo livro nos referimos na última bienal. / A foto do
+ acidente à qual tive acesso me deixou chocada.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+- Língua Portuguesa
+ Leia o texto para responder à questão.
+ Com “O Homem que Matou Dom Quixote”, Terry Gilliam segue fiel a seu cinema
+                           O HOMEM QUE MATOU DOM QUIXOTE
+                           (THE MAN WHO KILLED DON QUIXOTE)
+
+
+     • Classificação 12 anos
+     • Elenco Jonathan Price, Adam Driver, Joana Ribeiro
+     • Produção Bélgica, 2018
+     • Direção Terry Gilliam
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+    Lutar contra moinhos de vento acreditando que combate gigantes é a ação
+ mais conhecida de Dom Quixote. Assim como o personagem do romance de
+ Cervantes, os filmes de Terry Gilliam se encontram no limiar entre o que os olhos
+ veem e o que a imaginação enxerga.
+     “O Homem que Matou Dom Quixote” dá um fecho à epopeia do cineasta,
+ iniciada 30 anos atrás, quando ele começou o projeto de uma livre adaptação do
+ clássico espanhol.
+    A produção naufragou após uma sucessão quase irreal de problemas –
+ registrada no documentário “Perdido em La Mancha” (2002) – que fizeram Gilliam
+ abandonar o sonho.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+     O longa finalmente concluído sobrepõe um tanto de ficção inspirada nas
+ peripécias do romance a outro tanto de documentário, em seu modo de crônica
+ aloprada do que é fazer cinema. Gilliam se projeta no personagem de Toby (Adam
+ Driver), cineasta com síndrome de grandeza que retorna à Espanha para dirigir um
+ filme publicitário.
+    Entediado com o trabalho de encomenda, ele parte em busca do passado,
+ quando filmou na mesma região uma adaptação barata do “Dom Quixote”.
+    O motivo do cineasta em crise remete ao “Oito e Meio” de Fellini, mas Gilliam,
+ ainda bem, nem tenta se equiparar ao mestre. Toby logo assume o lugar de
+ Sancho, o pançudo companheiro que faz o papel de testemunha e contrapõe
+ alguma lucidez aos delírios do Quixote.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+    Este reencarna na figura de um sapateiro, tipo comum escolhido por Toby para
+ protagonizar seu filme juvenil, mas que um dia entrou e não saiu do personagem.
+ Jonathan Price, formidável, se encarrega de transformar o zé ninguém em
+ paradigma dos que preferem viver no mundo da lua.
+    A partir desse material, Gilliam embaralha situações realistas, memórias e
+ sonhos para afirmar a contiguidade entre criação artística e imaginação, a mesma
+ ponte que o levou a projetar seu espírito delirante nas figuras do Barão de
+ Munchausen, dos Irmãos Grimm e do jornalista gonzo Hunter S. Thompson.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+    O reflexo dessa autoimagem do artista como variação do louco aparece,
+ contudo, menos no personagem do criador em crise que na do próprio Quixote,
+ cujos devaneios ultrapassam qualquer realidade. “Santo ou insano?” é uma
+ pergunta que Toby faz ao Quixote mais de uma vez.
+    O espírito picaresco e farsesco da obra de Cervantes acompanha cada peripécia
+ da dupla e ajuda o filme a não ser uma adaptação para iniciados. A narrativa em
+ forma de episódios ajusta-se bem à atenção flutuante do público atual e apenas a
+ duração da apoteótica sequência de uma festa à fantasia vai além da conta.
+    Apesar de quase ter sido morto por Dom Quixote, Gilliam prossegue fiel a seu
+ cinema como arte do desastre.
+                           (Cássio Starling Carlos, Ilustrada. https://www1.folha.uol.com.br. 06.06.2019. Adaptado)
+Profª Adriana Figueiredo
+                                                
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+ Quando se analisam as classes de palavras, é muito importante que o trabalho
+ docente reforce a sensibilidade dos alunos para a percepção dos usos
+ contextualizados, permitindo-se o discernimento, sobretudo em relação a palavras
+ cujas grafias semelhantes reportam a diferentes classes gramaticais, como o termo
+ destacado em “entre o que os olhos veem e o que a imaginação enxerga”, que é
+ um
+
+
+ A) pronome possessivo, cujo emprego é igual ao que se verifica na passagem “em
+ seu modo de crônica aloprada do que é fazer cinema” (4° parágrafo).
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+ B) artigo definido, cujo emprego é igual ao que se verifica na passagem “Jonathan
+ Price, formidável, se encarrega de transformar o zé ninguém” (7° parágrafo).
+
+
+ C) pronome demonstrativo, cujo emprego é igual ao que se verifica na passagem
+ “em paradigma dos que preferem viver no mundo da lua” (7° parágrafo).
+
+
+ D) pronome oblíquo, cujo emprego é igual ao que se verifica na passagem “a
+ mesma ponte que o levou a projetar seu espírito delirante” (8° parágrafo).
+
+
+ E) artigo definido, cujo emprego é igual ao que se verifica na passagem “é uma
+ pergunta que Toby faz ao Quixote mais de uma vez” (9° parágrafo).
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP – Prefeitura de Cerquilho – SP – Professor de Educação Básica
+ B) artigo definido, cujo emprego é igual ao que se verifica na passagem “Jonathan
+ Price, formidável, se encarrega de transformar o zé ninguém” (7° parágrafo).
+
+
+ C) pronome demonstrativo, cujo emprego é igual ao que se verifica na passagem
+ “em paradigma dos que preferem viver no mundo da lua” (7° parágrafo).
+
+
+ D) pronome oblíquo, cujo emprego é igual ao que se verifica na passagem “a
+ mesma ponte que o levou a projetar seu espírito delirante” (8° parágrafo).
+
+
+ E) artigo definido, cujo emprego é igual ao que se verifica na passagem “é uma
+ pergunta que Toby faz ao Quixote mais de uma vez” (9° parágrafo).
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+         FCC
+                                     Profª. Adriana Figueiredo
+
+---
+
+FCC – 2022 – TRT 23a Região – MT – Técnico Judiciário - Área Apoio –
+Tecnologia da Informação
+ Em “O espelho recusou-se a responder a Lavínia que ela é a mais bela mulher do
+ Brasil.” (1º parágrafo), os termos sublinhados constituem, respectivamente,
+
+ A) uma preposição, um artigo e um pronome.
+
+ B) um pronome, um artigo e um artigo.
+
+ C) um artigo, um pronome e um artigo.
+
+ D) um pronome, uma preposição e um pronome.
+
+ E) uma preposição, uma preposição e um artigo.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+FCC – 2022 – TRT 23a Região – MT – Técnico Judiciário - Área Apoio –
+Tecnologia da Informação
+ Em “O espelho recusou-se a responder a Lavínia que ela é a mais bela mulher do
+ Brasil.” (1º parágrafo), os termos sublinhados constituem, respectivamente,
+
+ A) uma preposição, um artigo e um pronome.
+
+ B) um pronome, um artigo e um artigo.
+
+ C) um artigo, um pronome e um artigo.
+
+ D) um pronome, uma preposição e um pronome.
+
+ E) uma preposição, uma preposição e um artigo.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – 2022 – TRT 4a Região – RS – Analista Judiciário
+
+                                         Velha história
+     Era uma vez um homem que estava pescando, Maria. Até que apanhou um peixinho!
+ Mas o peixinho era tão pequenininho e inocente, e tinha um azulado tão indescritível nas
+ escamas, que o homem ficou com pena. E retirou cuidadosamente o anzol e pincelou com
+ iodo a garganta do coitadinho. Depois guardou-o no bolso traseiro das calças, para que o
+ animalzinho sarasse no quente. E desde então ficaram inseparáveis. Aonde o homem ia, o
+ peixinho o acompanhava a trote, que nem um cachorrinho. Pelas calçadas. Pelos
+ elevadores. Pelo café. Como era tocante vê-los no "17"! – o homem, grave, de preto, com
+ uma das mãos segurando a xícara de fumegante moca, com a outra lendo o jornal, com a
+ outra fumando, com a outra cuidando do peixinho, enquanto este, silencioso e levemente
+ melancólico, tomava laranjada por um canudinho especial...
+                                   (Mario Quintana. Eu passarinho. São Paulo: Ática, 2014)
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+FCC – 2022 – TRT 4a Região – RS – Analista Judiciário
+ Aonde o homem ia, o peixinho o acompanhava a trote, que nem um cachorrinho.
+ (1º parágrafo)
+
+ Considerando o contexto, os termos sublinhados constituem, respectivamente,
+
+ A) um pronome, um artigo, um artigo e uma preposição.
+
+ B) uma preposição, um pronome, um pronome e um artigo.
+
+ C) um pronome, um pronome, um pronome e um artigo.
+
+ D) um artigo, um artigo, um artigo e uma preposição.
+
+ E) um artigo, um artigo, um pronome e uma preposição.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FCC – 2022 – TRT 4a Região – RS – Analista Judiciário
+ Aonde o homem ia, o peixinho o acompanhava a trote, que nem um cachorrinho.
+ (1º parágrafo)
+
+ Considerando o contexto, os termos sublinhados constituem, respectivamente,
+
+ A) um pronome, um artigo, um artigo e uma preposição.
+
+ B) uma preposição, um pronome, um pronome e um artigo.
+
+ C) um pronome, um pronome, um pronome e um artigo.
+
+ D) um artigo, um artigo, um artigo e uma preposição.
+
+ E) um artigo, um artigo, um pronome e uma preposição.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FCC – 2022 – TRT 5a Região – BA – Analista Judiciário - Área
+Administrativa – Contabilidade
+ Quem perdia um escravo por fuga dava algum dinheiro a quem lho levasse. Punha
+ anúncios nas folhas públicas, com os sinais do fugido, o nome, a roupa, o defeito
+ físico, se o tinha, o bairro por onde andava e a quantia de gratificação. (4º
+ parágrafo)
+
+ Os termos sublinhados acima constituem, respectivamente,
+
+ A) uma preposição, um artigo e um pronome.
+ B) um pronome, um artigo e um pronome
+ C) um artigo, um pronome e um artigo.
+ D) um pronome, um pronome e um artigo.
+ E) uma preposição, um pronome e um artigo.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+FCC – 2022 – TRT 5a Região – BA – Analista Judiciário - Área
+Administrativa – Contabilidade
+ Quem perdia um escravo por fuga dava algum dinheiro a quem lho levasse. Punha
+ anúncios nas folhas públicas, com os sinais do fugido, o nome, a roupa, o defeito
+ físico, se o tinha, o bairro por onde andava e a quantia de gratificação. (4º
+ parágrafo)
+
+ Os termos sublinhados acima constituem, respectivamente,
+
+ A) uma preposição, um artigo e um pronome.
+ B) um pronome, um artigo e um pronome
+ C) um artigo, um pronome e um artigo.
+ D) um pronome, um pronome e um artigo.
+ E) uma preposição, um pronome e um artigo.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+       FGV
+                                     Profª. Adriana Figueiredo
+
+---
+
+FGV – 2023 – AL – MA – Consultor Legislativo Especial – Direito
+Constitucional
+
+
+ Observe o início de uma descrição, em que alguns artigos estão destacados.
+
+ “Um casal dirigia-se a um restaurante do centro da cidade para comemorar 20
+ anos de casados; o restaurante estava repleto, mas havia ainda algumas mesas
+ disponíveis; logo que se sentaram numa delas, um garçom aproximou-se e
+ entregou-lhes o cardápio”.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+FGV – 2023 – AL – MA – Consultor Legislativo Especial – Direito
+Constitucional
+ Sobre um desses artigos, assinale a afirmativa correta.
+
+ A) “Um casal” mostra o artigo indefinido para indicar nenhuma importância
+ narrativa.
+
+ B) o termo “o restaurante” mostra o artigo definido por já haver sido citado
+ anteriormente.
+
+ C) o elemento “um restaurante” mostra o artigo indefinido para mostrar que se
+ trata de um restaurante qualquer, sem sofisticação.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2023 – AL – MA – Consultor Legislativo Especial – Direito
+Constitucional
+ Sobre um desses artigos, assinale a afirmativa correta.
+
+ D) “um garçom” mostra um emprego inadequado do artigo indefinido.
+
+ E) “o cardápio” traz um artigo definido por ser um elemento inesperado na
+ situação narrada.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2023 – AL – MA – Consultor Legislativo Especial – Direito
+Constitucional
+ Sobre um desses artigos, assinale a afirmativa correta.
+
+ A) “Um casal” mostra o artigo indefinido para indicar nenhuma importância
+ narrativa.
+
+ B) o termo “o restaurante” mostra o artigo definido por já haver sido citado
+ anteriormente.
+
+ C) o elemento “um restaurante” mostra o artigo indefinido para mostrar que se
+ trata de um restaurante qualquer, sem sofisticação.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – AL – MA – Assistente Administrativo Legislativo – Agente
+Legislativo
+ Assinale a frase em que é optativo o emprego do artigo sublinhado.
+
+ A) Engenheiros são as únicas pessoas que não podem ignorar a Matemática.
+
+ B) Uma coisa urgente a fazer é prender todos os corruptos.
+
+ C) Nunca diga mentiras para os seus pais.
+
+ D) O Brasil é o maior país da América do Sul.
+
+ E) É necessário acabar com a inflação neste país.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2023 – AL – MA – Assistente Administrativo Legislativo – Agente
+Legislativo
+ Assinale a frase em que é optativo o emprego do artigo sublinhado.
+
+ A) Engenheiros são as únicas pessoas que não podem ignorar a Matemática.
+
+ B) Uma coisa urgente a fazer é prender todos os corruptos.
+
+ C) Nunca diga mentiras para os seus pais.
+
+ D) O Brasil é o maior país da América do Sul.
+
+ E) É necessário acabar com a inflação neste país.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2023 – DPE – RS – Analista - Área Judiciária - Processual
+
+ Os artigos definidos indicam uma realidade conhecida; a frase abaixo em que o
+ artigo sublinhado acompanha uma realidade que é do conhecimento do leitor ou
+ ouvinte, não por seu conhecimento de mundo, mas por ter sido mencionando
+ antes, é:
+
+ A) Alguns indígenas aproximaram-se da canoa, mas a um pedido do comandante,
+ os índios se afastaram;
+
+ B) O carro entrou no estacionamento do prédio com os faróis acesos;
+
+ C) O dicionário tinha as páginas amareladas por ser antigo;
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2023 – DPE – RS – Analista - Área Judiciária - Processual
+
+ Os artigos definidos indicam uma realidade conhecida; a frase abaixo em que o
+ artigo sublinhado acompanha uma realidade que é do conhecimento do leitor ou
+ ouvinte, não por seu conhecimento de mundo, mas por ter sido mencionando
+ antes, é:
+
+ D) Quando os piratas esconderam o imenso tesouro na ilha, não esperavam que a
+ riqueza fosse atrair a atenção de outros navegantes;
+
+ E) Um baralho é um objeto interessante e as figuras nele inseridas mostram valor
+ histórico.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FGV – 2023 – DPE – RS – Analista - Área Judiciária - Processual
+
+ Os artigos definidos indicam uma realidade conhecida; a frase abaixo em que o
+ artigo sublinhado acompanha uma realidade que é do conhecimento do leitor ou
+ ouvinte, não por seu conhecimento de mundo, mas por ter sido mencionando
+ antes, é:
+
+ A) Alguns indígenas aproximaram-se da canoa, mas a um pedido do comandante,
+ os índios se afastaram;
+
+ B) O carro entrou no estacionamento do prédio com os faróis acesos;
+
+ C) O dicionário tinha as páginas amareladas por ser antigo;
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CEBRASPE
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+CESPE/CEBRASPE – 2025 – InoversaSul – Professor de Língua
+Portuguesa – Anos Finais
+ Texto 19A1
+ [ÚLTIMO PARÁGRAFO]
+     Ao lado da noção de língua, é necessário ter uma noção de texto. A escola trata o texto
+ como um produto acabado e que funciona como uma cesta natalina, de onde a gente tira
+ coisas. O texto não é um produto nem um simples artefato pronto; ele é um processo.
+ Assim, não sendo um produto acabado, objetivo, como uma espécie de depósito de
+ informações, mas sendo um processo, o texto se acha em permanente elaboração e
+ reelaboração ao longo de sua história e ao longo das diversas recepções pelos diversos
+ leitores. Em suma, texto é uma proposta de sentido e ele se acha aberto a várias
+ alternativas de compreensão.
+      (Luiz Antônio Marcuschi. Exercícios de compreensão ou copiação nos manuais de ensino de língua? Em Aberto, Brasília,
+                                                                         ano 16, n.º 69, jan.-mar./1996 - com adaptações).
+Profª Adriana Figueiredo
+                                                  
+
+
+---
+
+CESPE/CEBRASPE – 2025 – InoversaSul – Professor de Língua
+Portuguesa – Anos Finais
+
+ No último período do texto, os vocábulos “uma” e “a” fazem parte da mesma
+ classe gramatical de palavras.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+CESPE/CEBRASPE – 2025 – InoversaSul – Professor de Língua
+Portuguesa – Anos Finais
+
+ No último período do texto, os vocábulos “uma” e “a” fazem parte da mesma
+ classe gramatical de palavras.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE/CEBRASPE – DEPEN – Cargo 1 – Enfermagem
+
+ [1o E 2 o PARÁGRAFOS]
+     No dia 31 de outubro de 1861, depois de um conturbado processo de construção, que durou
+ cerca de três décadas, a Bahia inaugurou a sua primeira penitenciária, que recebeu oficialmente o
+ nome de Casa de Prisão com Trabalho. A instituição foi construída numa área pantanosa, na periferia
+ da cidade de Salvador.
+     A implantação da penitenciária fazia parte do projeto civilizador oitocentista, e o Brasil
+ acompanhava uma tendência mundial de modernização do sistema prisional, que teve início na
+ Inglaterra e nos Estados Unidos no final do século XVIII. As execuções e as torturas em praças
+ públicas, utilizadas para atemorizar a quem estivesse planejando novos crimes, foram,
+ gradativamente, abandonadas. Entrava em cena a penalidade moderna, que planejava privar o
+ criminoso do seu bem maior — a sua liberdade —, internando-o numa instituição construída
+ especificamente para recuperá-lo, que recebeu o nome de penitenciária. [...]
+  Cláudia Moraes Trindade. O nascimento de uma penitenciária: os primeiros presos da Casa de Prisão com Trabalho da Bahia (1860-1865).
+                                                                     In: Tempo, Niterói, v. 16, n. 30, p. 167-196, 2011 (com adaptações).
+Profª Adriana Figueiredo
+                                                       
+
+
+---
+
+CESPE/CEBRASPE – DEPEN – Cargo 1 – Enfermagem
+
+ Com o uso do artigo definido na contração “do” em “do projeto civilizador
+ oitocentista” (no início do segundo parágrafo), pressupõe-se que a autora parte do
+ princípio de que os leitores tenham conhecimento prévio acerca desse projeto.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+CESPE/CEBRASPE – DEPEN – Cargo 1 – Enfermagem
+
+ Com o uso do artigo definido na contração “do” em “do projeto civilizador
+ oitocentista” (no início do segundo parágrafo), pressupõe-se que a autora parte do
+ princípio de que os leitores tenham conhecimento prévio acerca desse projeto.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE/CEBRASPE – UNIPAMPA – Engenheiro Civil
+
+ [1o PARÁGRAFO]
+    Segundo uma abordagem educacional tradicional, a educação objetiva a
+ transmissão dos saberes formulados ao longo da história, cabendo ao educando as
+ funções de memorizá-los e de reproduzi-los. Em uma visão contemporânea, a
+ educação tem como objetivo a formação cidadã, que abrange um conhecimento
+ qualificado fomentador da construção da moral e do comportamento individual e
+ social infantojuvenil.
+ (Nilton S. Formiga et al. As causas da evasão escolar: um estudo descrito em
+ jovens brasileiros. Internet: <www.psicologia.pt> (com adaptações).
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+CESPE/CEBRASPE – UNIPAMPA – Engenheiro Civil
+
+ O emprego do artigo indefinido no trecho “Em uma visão contemporânea” (l.4-5)
+ indica a possibilidade de existirem outras abordagens educacionais.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+CESPE/CEBRASPE – UNIPAMPA – Engenheiro Civil
+
+ O emprego do artigo indefinido no trecho “Em uma visão contemporânea” (l.4-5)
+ indica a possibilidade de existirem outras abordagens educacionais.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+NUMERAL
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+                                                                                       Treze candidatos
+                      CARDINAIS                        um, dois, mil, milhão etc.    chegaram atrasados.
+
+                                                    primeiro, segundo, milésimo,
+ NUMERAL:              ORDINAIS
+                                                          milionésimo etc.
+                                                                                    A primeira conquista foi
+    exprime                                                                               aos 18 anos.
+quantidade exata,
+ordem, múltiplos
+ ou frações dos                                                                        Já percorremos um
+                     FRACIONÁRIOS                        três quartos, meio etc.
+   números.                                                                             terço do caminho.
+
+                                                                                      Ele tem o triplo da
+                    MULTIPLICATIVOS                           dobro, triplo etc.      experiência que eu
+                                                                                            tenho.
+                                             Prof. Adriana Figueiredo
+                                    
+
+
+---
+
+                                                           Faria uma viagem.
+              ARTIGO
+                                                          Um médico chegou.
+
+OBSERVAÇÕES
+IMPORTANTES
+
+                                                       Tinha somente um vestido.
+              NUMERAL
+                                                       Trouxe apenas uma moeda.
+
+                           Prof. Adriana Figueiredo
+                  
+
+
+---
+
+              A palavra “segundo”, que pode
+                ser numeral ou conjunção,                          Segundo a previsão do tempo,
+                funciona como preposição                            teremos sol neste domingo.
+OBSERVAÇÃO               acidental.
+IMPORTANTE    Basta trocá-la por uma locução                     De acordo com a previsão do tempo,
+             prepositiva (“de acordo com”) e                         teremos sol neste domingo.
+             você verá o valor de preposição
+                  que ela possui na frase.
+
+                                     Prof. Adriana Figueiredo
+                            
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+II. Classifique as palavras sublinhadas. Utilize a seguinte convenção:
+ (1) numeral (2) artigo     (3) conjunção
+
+
+ a) Assisti a um filme interessante ontem. ( )
+
+ b) Havia apenas uma pessoa na fila de espera. ( )
+
+ c) Este é o segundo livro da coleção. ( )
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+II. Classifique as palavras sublinhadas. Utilize a seguinte convenção:
+
+ (1) numeral (2) artigo    (3) conjunção
+
+
+ d) Precisamos de uma solução para isso. ( )
+
+
+ e) Segundo um quinto dos entrevistados, as mudanças são inevitáveis. ( ) ( )
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+      IBFC
+                                     Profª. Adriana Figueiredo
+
+---
+
+IBFC – 2023 - SEAD – GO - Técnico Ambiental
+ Bezerra (2015 p. 251) afirma que um numeral é uma “(...) palavra variável que,
+ acompanhando ou substituindo o substantivo, transmite uma noção de
+ quantidade ou de ordem numérica.” Diante do exposto, assinale a alternativa
+ incorreta.
+
+
+ A) Apenas um terço dos investidores pesquisados, ainda investem na poupança - o
+ numeral em destaque transmite a ideia de um todo.
+
+
+ B) A LCI da corretora em questão ficou em terceiro lugar entre as mais rentáveis - o
+ numeral sublinhado transmite a ideia de ordem em uma sequência.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+IBFC – 2023 - SEAD – GO - Técnico Ambiental
+ Bezerra (2015 p. 251) afirma que um numeral é uma “(...) palavra variável que,
+ acompanhando ou substituindo o substantivo, transmite uma noção de
+ quantidade ou de ordem numérica.” Diante do exposto, assinale a alternativa
+ incorreta.
+
+
+ C) Devido à alta dos juros, cinquenta por cento das aplicações desse mês foram
+ em LCI ou LCA - o numeral expressa um percentual.
+
+
+ D) Uma LCI chega a render o quádruplo comparada à rentabilidade da poupança -
+ o numeral remete a multiplicidade.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – 2023 - SEAD – GO - Técnico Ambiental
+ Bezerra (2015 p. 251) afirma que um numeral é uma “(...) palavra variável que,
+ acompanhando ou substituindo o substantivo, transmite uma noção de
+ quantidade ou de ordem numérica.” Diante do exposto, assinale a alternativa
+ incorreta.
+
+
+ E) 52% das Letras de Crédito renderam muito neste ano – o numeral em destaque
+ indica que mais da metade das Letras de Crédito teve um bom rendimento neste
+ ano.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – 2023 - SEAD – GO - Técnico Ambiental
+ Bezerra (2015 p. 251) afirma que um numeral é uma “(...) palavra variável que,
+ acompanhando ou substituindo o substantivo, transmite uma noção de
+ quantidade ou de ordem numérica.” Diante do exposto, assinale a alternativa
+ incorreta.
+
+
+ A) Apenas um terço dos investidores pesquisados, ainda investem na poupança - o
+ numeral em destaque transmite a ideia de um todo.
+
+
+ B) A LCI da corretora em questão ficou em terceiro lugar entre as mais rentáveis -
+ o numeral sublinhado transmite a ideia de ordem em uma sequência.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – 2023 – Prefeitura de Cuiabá - MT – Agente de Saúde / Agente de
+Call Center
+
+ O emprego das classes de palavras contribui para a construção de efeitos
+ expressivos. Em “O problema – um dos problemas, porque havia outros, bem
+ mais graves -, o problema inicial” (1º§), os vocábulos destacados contribuem
+ para esse efeito e classificam-se, respectivamente, como:
+
+ A) artigo definido - numeral - pronome oblíquo.
+
+ B) artigo definido - artigo indefinido - artigo definido.
+
+ C) artigo definido - artigo indefinido - pronome oblíquo.
+
+ D) artigo definido - numeral - artigo definido.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+IBFC – 2023 – Prefeitura de Cuiabá - MT – Agente de Saúde / Agente de
+Call Center
+
+ O emprego das classes de palavras contribui para a construção de efeitos
+ expressivos. Em “O problema – um dos problemas, porque havia outros, bem
+ mais graves -, o problema inicial” (1º§), os vocábulos destacados contribuem
+ para esse efeito e classificam-se, respectivamente, como:
+
+ A) artigo definido - numeral - pronome oblíquo.
+
+ B) artigo definido - artigo indefinido - artigo definido.
+
+ C) artigo definido - artigo indefinido - pronome oblíquo.
+
+ D) artigo definido - numeral - artigo definido.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IBFC – AGERBA - Técnico em Regulação
+ Considere as palavras destacadas na frase abaixo e assinale a alternativa em que
+ se indica, respectivamente e de modo correto, sua classificação morfológica.
+ “Durante anos, o homem teve um sonho: queria viajar de avião na primeira
+ classe.” (1º§)
+
+ A) numeral e numeral.
+
+ B) numeral e pronome.
+
+ C) artigo e numeral.
+
+ D) pronome e numeral.
+
+ E) artigo e pronome.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+IBFC – AGERBA - Técnico em Regulação
+ Considere as palavras destacadas na frase abaixo e assinale a alternativa em que
+ se indica, respectivamente e de modo correto, sua classificação morfológica.
+ “Durante anos, o homem teve um sonho: queria viajar de avião na primeira
+ classe.” (1º§)
+
+ A) numeral e numeral.
+
+ B) numeral e pronome.
+
+ C) artigo e numeral.
+
+ D) pronome e numeral.
+
+ E) artigo e pronome.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+       FGV
+                                     Profª. Adriana Figueiredo
+
+---
+
+FGV – Prefeitura de Osasco – SP – Agente Funerário
+ No texto aparecem alguns numerais que, como sabemos, podem ser cardinais,
+ ordinais, fracionários, multiplicativos e coletivos. Assinale a opção em que a
+ classificação do elemento sublinhado está feita de forma correta:
+
+ A) “Somente nas últimas décadas” / numeral cardinal;
+
+ B) “Somente nas últimas décadas” / numeral multiplicativo;
+
+ C) “em relação ao meio ambiente” / numeral coletivo;
+
+ D) “aproximadamente 1,5 Kg” / numeral ordinal;
+
+ E) “Praticamente metade das sepulturas” / numeral fracionário.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FGV – Prefeitura de Osasco – SP – Agente Funerário
+ No texto aparecem alguns numerais que, como sabemos, podem ser cardinais,
+ ordinais, fracionários, multiplicativos e coletivos. Assinale a opção em que a
+ classificação do elemento sublinhado está feita de forma correta:
+
+ A) “Somente nas últimas décadas” / numeral cardinal;
+
+ B) “Somente nas últimas décadas” / numeral multiplicativo;
+
+ C) “em relação ao meio ambiente” / numeral coletivo;
+
+ D) “aproximadamente 1,5 Kg” / numeral ordinal;
+
+ E) “Praticamente metade das sepulturas” / numeral fracionário.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV – 2024 – Prefeitura de São José dos Campos – SP – Assistente em
+Gestão Municipal
+
+ Assinale a frase que mostra uma quantidade definida.
+
+
+ A) Um grupo de estudantes chegou atrasado à formatura.
+ B) Centenas de militares participaram do desfile.
+ C) Uma dúzia de bananas está custando muito caro.
+ D) Há muitos desertores na guerra da Ucrânia.
+ E) Cerca de 130 pessoas não compareceram.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV – 2024 – Prefeitura de São José dos Campos – SP – Assistente em
+Gestão Municipal
+
+ Assinale a frase que mostra uma quantidade definida.
+
+
+ A) Um grupo de estudantes chegou atrasado à formatura.
+ B) Centenas de militares participaram do desfile.
+ C) Uma dúzia de bananas está custando muito caro.
+ D) Há muitos desertores na guerra da Ucrânia.
+ E) Cerca de 130 pessoas não compareceram.
+
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CEBRASPE
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+CESPE/CEBRASPE – Prefeitura de São Cristóvão – SE – Professor de
+Educação Básica
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+CESPE/CEBRASPE – Prefeitura de São Cristóvão – SE – Professor de
+Educação Básica
+
+O vocábulo “num” (l.9) é formado pela contração da preposição em com o
+numeral um.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+CESPE/CEBRASPE – Prefeitura de São Cristóvão – SE – Professor de
+Educação Básica
+
+O vocábulo “num” (l.9) é formado pela contração da preposição em com o
+numeral um.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE/CEBRASPE (ADAPTADA) – INMETRO – Todos os Cargos
+
+ [3o PARÁGRAFO]
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+CESPE/CEBRASPE (ADAPTADA) – INMETRO – Todos os Cargos
+
+ Como empregado no texto, o vocábulo “Segundo" (l.15) classifica-se como
+ numeral ordinal.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+CESPE/CEBRASPE (ADAPTADA) – INMETRO – Todos os Cargos
+
+ Como empregado no texto, o vocábulo “Segundo" (l.15) classifica-se como
+ numeral ordinal.
+
+
+ Certo
+ Errado
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                     @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/professoraadriana
+           f
+
+                facebook.com/prof.adriana.figueired
+                o
+                 
+
+
+---
+
+---

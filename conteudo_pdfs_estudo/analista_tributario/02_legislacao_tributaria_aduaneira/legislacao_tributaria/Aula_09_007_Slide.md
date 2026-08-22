@@ -1,0 +1,445 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 09_007_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 330.
+- Art. 730.
+- "art.\n      316"
+- art. 311
+- art. 314
+- art. 315
+- art. 317
+- art. 320
+---
+
+# IRPJ
+
+IRPJ
+LUCRO REAL
+  PARTE 3
+
+                                     Prof. Fábio Dutra
+
+---
+
+IRPJ – Lucro Real
+    ❑ Despesas Dedutíveis e Despesas Indedutíveis:
+
+    ❑ Despesas dedutíveis: são despesas contabilizadas e aceitas pela legislação
+      tributária como dedutíveis do lucro real. Não há ajuste a ser feito, pois já
+      foram subtraídas para se chegar ao lucro líquido, ponto de partida para a
+      apuração do lucro real.
+
+
+    ❑ Despesas indedutíveis: há despesas contabilizadas na DRE que reduzem o
+      lucro contábil, mas que não são aceitas pelo Fisco para reduzir o lucro
+      real.
+
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Despesas Operacionais:
+
+    ❑ Como regra, são dedutíveis as despesas operacionais usuais ou normais no
+      tipo de transações, operações ou atividades da empresa. Portanto, a
+      despesa operacional deve guardar relação com a finalidade da empresa.
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Despesas Operacionais:
+
+    ❑ São operacionais as despesas não computadas nos custos, necessárias à
+      atividade da empresa e à manutenção da fonte produtora. (RIR, art. 311)
+
+    ❑ São necessárias as despesas pagas ou incorridas para a realização das transações
+      ou operações exigidas pela atividade da empresa.
+
+    ❑ As despesas operacionais admitidas são as usuais ou normais no tipo de
+      transações, operações ou atividades da empresa.
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+QUESTÃO INÉDITA
+       A legislação do IRPJ admite que sejam deduzidas as despesas operacionais,
+       quando necessárias à atividade da empresa e à manutenção da fonte
+       produtora.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Aplicações de Capital:
+
+    ❑ O custo de aquisição de bens do ativo não circulante imobilizado e
+      intangível não poderá ser deduzido como despesa operacional. (RIR, art.
+      313)
+
+    ❑ Exceções:
+
+    ❑ I - se o bem adquirido tiver valor unitário não superior a R$ 1.200,00; ou
+
+    ❑ II - se o prazo de vida útil do bem adquirido não for superior a um ano.
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Pagamentos a Pessoa Física Vinculada:
+
+    ❑ Os pagamentos, de qualquer natureza, a titular, sócio ou dirigente da
+      pessoa jurídica, ou a quaisquer de seus parentes, poderão ser
+      impugnados pela autoridade lançadora, se o contribuinte não provar:
+      (RIR, art. 314)
+
+               I - no caso de compensação por trabalho assalariado, autônomo ou
+               profissional, a prestação efetiva dos serviços;
+
+               II - no caso de outros rendimentos ou pagamentos, a origem e a
+               efetividade da operação ou transação.
+
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Pagamentos a Pessoa Física Vinculada:
+
+    ❑ Não serão dedutíveis, como custos ou despesas operacionais, as
+      gratificações ou participações no resultado, atribuídas aos dirigentes ou
+      administradores da pessoa jurídica. (RIR, art. 315)
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Pagamentos Sem Causa ou a Beneficiário Não Identificado:
+
+
+    ❑ Não são dedutíveis as importâncias declaradas como pagas ou creditadas
+      a título de comissões, bonificações, gratificações ou semelhantes: (RIR, art.
+      316)
+
+    ❑ I - quando não for indicada a operação ou a causa que deu origem ao
+      rendimento; e
+    ❑ II - quando o comprovante do pagamento não individualizar o beneficiário
+      do rendimento.
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Pagamentos Sem Causa ou a Beneficiário Não Identificado:
+
+
+    ❑ Art. 730.      Fica sujeito à incidência do imposto sobre a renda
+      exclusivamente na fonte, à alíquota de trinta e cinco por cento, todo
+      pagamento efetuado pelas pessoas jurídicas a beneficiário não
+      identificado, ressalvado o disposto em normas especiais.
+
+    ❑ § 1º A incidência de que trata o caput aplica-se, também, aos
+      pagamentos efetuados ou aos recursos entregues a terceiros ou sócios,
+      acionistas ou titulares, contabilizados ou não, quando não for comprovada
+      a operação ou a sua causa. (RIR)
+
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+QUESTÃO INÉDITA
+       O contribuinte pessoa jurídica não pode deduzir como despesas para fins de
+       apuração do lucro real pagamentos realizados sem indicação da operação
+       que lhe deu origem.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Depreciação:
+
+    ❑ Poderá ser computada, como custo ou encargo, em cada período de
+      apuração, a importância correspondente à diminuição do valor dos bens
+      do ativo resultante do desgaste pelo uso, da ação da natureza e da
+      obsolescência normal. (RIR, art. 317)
+
+Legislação Tributária
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Depreciação:
+
+    ❑ A depreciação será deduzida pelo contribuinte que suportar o encargo
+      econômico do desgaste ou da obsolescência, de acordo com as condições
+      de propriedade, posse ou uso do bem;
+
+    ❑ A quota de depreciação é dedutível a partir da época em que o bem é
+      instalado, posto em serviço ou em condições de produzir;
+
+    ❑ Em qualquer hipótese, o montante acumulado das quotas de depreciação
+      não poderá ultrapassar o custo de aquisição do bem.
+
+Legislação Tributária
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Depreciação:
+
+    ❑ Somente será permitida depreciação de bens móveis e imóveis
+      intrinsecamente relacionados com a produção ou a comercialização dos
+      bens e dos serviços.
+
+Legislação Tributária
+                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Podem ser objeto de depreciação todos os bens sujeitos a desgaste pelo
+      uso ou por causas naturais ou obsolescência normal, inclusive (RIR, art.
+      318):
+
+    ❑ I - edifícios e construções, observando-se que:
+      ❑ a) a quota de depreciação é dedutível a partir da época da conclusão e
+          início da utilização;
+      ❑ b) o valor das edificações deve estar destacado do valor do custo de
+          aquisição do terreno, admitindo-se o destaque baseado em laudo
+          pericial;
+
+    ❑ II - projetos florestais destinados à exploração dos respectivos frutos.
+
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Não será admitida quota de depreciação referente a:
+
+    ❑ I - terrenos, salvo em relação aos melhoramentos ou construções;
+
+    ❑ II - prédios ou construções não alugados nem utilizados pelo proprietário
+      na produção dos seus rendimentos ou destinados a revenda;
+
+    ❑ III - bens que normalmente aumentam de valor com o tempo, como obras
+      de arte ou antiguidades;
+
+    ❑ IV - bens para os quais seja registrada quota de exaustão.
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ A taxa anual de depreciação será fixada em função do prazo durante o qual se
+      possa esperar utilização econômica do bem pelo contribuinte na produção de
+      seus rendimentos (RIR, art. 320) .
+
+
+    ❑ A Secretaria da Receita Federal do Brasil do Ministério da Fazenda publicará
+      periodicamente o prazo de vida útil admissível, em condições normais ou médias,
+      para cada espécie de bem, assegurado ao contribuinte o direito de computar a
+      quota efetivamente adequada às condições de depreciação de seus bens, desde
+      que faça a prova dessa adequação, quando adotar taxa diferente.
+
+Legislação Tributária
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Relativamente à depreciação de bens usados, a taxa anual de depreciação será
+      fixada tendo em vista o maior dos seguintes prazos (RIR, art. 322):
+
+    ❑ I - metade da vida útil admissível para o bem adquirido novo;
+
+    ❑ II - restante da vida útil, considerada esta em relação à primeira instalação para
+      utilização do bem.
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Amortização:
+
+    ❑ Art. 330. Poderá ser computada como custo ou encargo, em cada período
+      de apuração, a importância correspondente à recuperação do capital
+      aplicado na aquisição de direitos cuja existência ou cujo exercício tenha
+      duração limitada, ou de bens cuja utilização pelo contribuinte tenha o
+      prazo legal ou contratualmente limitado.
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Amortização:
+
+    ❑ Direitos cuja existência ou cujo exercício tenha duração limitada; ou
+
+    ❑ Bens cuja utilização pelo contribuinte tenha o prazo legal ou contratualmente
+      limitado.
+
+
+    ❑ Obs. 1: Não será admitida amortização de bens, custos ou despesas para os
+      quais seja registrada quota de exaustão.
+
+    ❑ Obs. 2: A taxa anual de amortização será estabelecida tendo em vista o
+      número de anos restantes de existência do direito.
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+QUESTÃO INÉDITA
+       Poderá ser computada como custo ou encargo, em cada período de
+       apuração, a importância correspondente à recuperação do capital
+       aplicado na aquisição de direitos cuja existência ou cujo exercício
+       tenha duração limitada, ou de bens cuja utilização pelo contribuinte
+       tenha o prazo legal ou contratualmente limitado.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Exemplos de amortizações:
+
+    ❑ I - patentes de invenção, fórmulas e processos de fabricação, direitos
+      autorais, licenças, autorizações ou concessões;
+    ❑ II - custo de aquisição, prorrogação ou modificação de contratos e direitos
+      de qualquer natureza, inclusive de exploração de fundos de comércio;
+    ❑ III - custos de construções ou benfeitorias em bens locados ou arrendados,
+      ou em bens de terceiros, quando não houver direito ao recebimento de
+      seu valor;
+    ❑ IV - o valor de direitos contratuais de exploração de florestas; e
+    ❑ V - os demais direitos classificados no ativo não circulante intangível.
+
+Legislação Tributária
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Exaustão de recursos minerais ou florestais:
+
+      Art. 336. Poderá ser computada como custo ou encargo, em cada período
+      de apuração, a importância correspondente à diminuição do valor de
+      recursos minerais, resultante da sua exploração.
+
+
+      Art. 337. Poderá ser computada como custo ou encargo, em cada período
+      de apuração, a importância correspondente à diminuição do valor de
+      recursos florestais, resultante de sua exploração.
+
+Legislação Tributária
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---

@@ -1,0 +1,509 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+CLASSIFICAÇÃO DE MATERIAIS
+BANCAS DIVERSAS - IV
+
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (QUADRIX/CREF 8/Assistente/2018) No que se refere à classificação de materiais,
+     julgue o item. Materiais de estoque são os materiais que, dada a previsibilidade da
+     demanda pela organização, devem ser mantidos em estoque.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipo de Demanda
+       ❑ Em relação ao tipo de demanda temos os chamados materiais "de estoque" e os materiais "não de estoque".
+
+       ❑ Os materiais de estoque são aqueles consumidos rotineiramente ao longo do processo de produção e, por isso,
+         devem ser sempre adquiridos e estar continuamente à disposição quando requisitados, ou seja, devem possuir
+         estoque.
+
+       ❑ Já os materiais de não estoque são consumidos com menor frequência, têm demanda irregular ou mesmo
+         imprevisível e, portanto, muitas vezes não têm previsão de utilização. Dessa forma por não devem ser mantidos
+         em estoque em função dos custos diretos e indiretos de tal opção. Quando a organização necessita deles, compra
+         para utilização imediata, sendo raros os casos em que são comprados para utilização posterior.
+
+
+
+                                                               Tipo de
+                                                              Demanda
+
+
+                                                                            "Não de
+                                              "De Estoque"
+                                                                            Estoque"
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (QUADRIX/CREF 8/Assistente/2018) No que se refere à classificação de materiais,
+     julgue o item. Materiais de estoque são os materiais que, dada a previsibilidade da
+     demanda pela organização, devem ser mantidos em estoque.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (QUADRIX/CREF 8/Assistente/2018) Com relação à gestão dos estoques, julgue o
+     item. O custo da obsolescência está relacionado à maior probabilidade de os itens em
+     estoque se tornarem obsoletos e é inversamente proporcional ao tamanho do estoque.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (QUADRIX/CREF 8/Assistente/2018) Com relação à gestão dos estoques, julgue o
+     item. O custo da obsolescência está relacionado à maior probabilidade de os itens em
+     estoque se tornarem obsoletos e é inversamente proporcional ao tamanho do estoque.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+      O custo da obsolescência está mesmo relacionado a probabilidade dos itens em estoque se tornarem obsoletos, porém,
+      essa relação é diretamente (e não inversamente) proporcional ao tamanho dos estoques.
+
+      Vejamos: caso um estoque seja muito grande, maior o risco de tornar-se antigo e obsoleto (ao menos parte dele).
+      Estoques menores e de alto giro têm essa possibilidade diminuída. Assim, maior o estoque, maior o risco do custo de
+      obsolescência. Relação diretamente proporcional.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (QUADRIX/CRO MT/Analista Administrativo/2018) Com base nas normas e práticas
+     aplicáveis à administração de recursos materiais, julgue o item. Entre os atributos para a
+     classificação de materiais, destaca-se a abrangência, segundo a qual a classificação deve
+     abordar uma série de características; em outros termos, o foco é a apresentação de
+     diversas facetas de um item de material, como, por exemplo, dimensão, forma e
+     acondicionamento.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (QUADRIX/CRO MT/Analista Administrativo/2018) Com base nas normas e práticas
+     aplicáveis à administração de recursos materiais, julgue o item. Entre os atributos para a
+     classificação de materiais, destaca-se a abrangência, segundo a qual a classificação deve
+     abordar uma série de características; em outros termos, o foco é a apresentação de
+     diversas facetas de um item de material, como, por exemplo, dimensão, forma e
+     acondicionamento.
+     a) Certo                                        ATRIBUTOS DA CLASSIFICAÇÃO DE
+     b) Errado                                                 MATERIAIS
+     GABARITO - CORRETA
+
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+Administração de Materiais para Concursos
+                                            se obtenha ampla visão do gerenciamento de estoques.
+Prof. Ricardo Campanario                    •    Praticidade: a classificação deve ser direta e simples.
+                                                     https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (QUADRIX/CRP 2 PE/Assistente Administrativo/2018) A classificação de materiais é a atividade
+     responsável pela identificação, pela codificação e pela catalogação de materiais e fornecedores, dando
+     apoio às demais atividades de suprimento. No Brasil, a primeira instituição a usar a classificação de
+     materiais foi a Marinha de Guerra. (Loreni Brandalise. Administração de materiais e logística). Na
+     classificação de materiais, é importante se considerar alguns atributos, tais como: abrangência;
+     flexibilidade; e praticidade. Em relação à classificação de materiais, julgue os itens que se seguem.
+     I. Flexibilidade significa tratar de uma gama de características em vez de simplesmente reunir materiais
+     para serem classificados.
+     II. Abrangência significa permitir interfaces entre os diversos tipos de classificação, de modo a obter
+     ampla visão do gerenciamento de estoque.
+     III. Praticidade significa que a classificação deve ser direta e simples.
+     Assinale a alternativa correta.
+     a) Nenhum item está certo.
+     b) Apenas o item I está certo.
+     c) Apenas o item II está certo.
+     d) Apenas o item III está certo.
+     e) Todos os itens estão certos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Atributos em Resumo
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+
+
+
+                                            Abrangência               Flexibilidade       Praticidade
+
+
+
+
+            •   Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+            para serem classificados;
+            •   Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+            se obtenha ampla visão do gerenciamento de estoques.
+            •   Praticidade: a classificação deve ser direta e simples.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (QUADRIX/CRP 2 PE/Assistente Administrativo/2018) A classificação de materiais é a atividade
+     responsável pela identificação, pela codificação e pela catalogação de materiais e fornecedores, dando
+     apoio às demais atividades de suprimento. No Brasil, a primeira instituição a usar a classificação de
+     materiais foi a Marinha de Guerra. (Loreni Brandalise. Administração de materiais e logística). Na
+     classificação de materiais, é importante se considerar alguns atributos, tais como: abrangência;
+     flexibilidade; e praticidade. Em relação à classificação de materiais, julgue os itens que se seguem.
+     I. Flexibilidade significa tratar de uma gama de características em vez de simplesmente reunir materiais
+     para serem classificados.
+     II. Abrangência significa permitir interfaces entre os diversos tipos de classificação, de modo a obter
+     ampla visão do gerenciamento de estoque.
+     III. Praticidade significa que a classificação deve ser direta e simples.
+     Assinale a alternativa correta.
+     a) Nenhum item está certo.
+     b) Apenas o item I está certo.
+     c) Apenas o item II está certo.
+     d) Apenas o item III está certo.
+     e) Todos os itens estão certos.
+     GABARITO - D
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (DIRENS AERONÁUTICA/EEAR/Estágio/2019) Com relação aos Bens, em um
+     momento inicial de estudos, qual é a classificação mais interessante a ser utilizada?
+     a) Móveis e imóveis.
+     b) Imateriais e materiais.
+     c) Imateriais e intangíveis.
+     d) Consumo, móveis e imóveis.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Classificação dos Bens
+       ❑ Uma classificação típica dos bens é em relação a sua constituição material: temos os
+         bens corpóreos / materiais / tangíveis e os incorpóreos / imateriais / intangíveis.
+
+
+
+                              CORPÓREOS / MATERIAIS /                               INCORPÓREOS / IMATERIAIS /
+                                   TANGÍVEIS                                              INTANGÍVEIS
+
+
+                       Constituídos de matéria, possuem forma               Não constituídos de matéria, não possuem corpo
+                        identificável, são palpáveis e possuem               ou forma, substância ou massa. Exs: direitos de
+                      substância ou massa. Exs: mesas, veículos,             uso de marcas e fórmulas, registros de jazidas,
+                                         canetas.                           projetos de produtos, patentes, direitos autorais.
+
+
+
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (DIRENS AERONÁUTICA/EEAR/Estágio/2019) Com relação aos Bens, em um
+     momento inicial de estudos, qual é a classificação mais interessante a ser utilizada?
+     a) Móveis e imóveis.
+     b) Imateriais e materiais.
+     c) Imateriais e intangíveis.
+     d) Consumo, móveis e imóveis.
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) De acordo com o atributo da
+     flexibilidade, a classificação deve abordar, de forma abrangente, uma série de
+     características dos materiais.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) De acordo com o atributo da
+     flexibilidade, a classificação deve abordar, de forma abrangente, uma série de
+     características dos materiais.
+     a) Certo
+     b) Errado
+                                                  ATRIBUTOS DA CLASSIFICAÇÃO DE
+     GABARITO - ERRADA                                      MATERIAIS
+
+
+
+
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) A flexibilidade refere‐se à
+     “comunicação” entre os tipos de classificação, bem como à possibilidade de adaptar e
+     melhorar o sistema de classificação sempre que se desejar.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) A flexibilidade refere‐se à
+     “comunicação” entre os tipos de classificação, bem como à possibilidade de adaptar e
+     melhorar o sistema de classificação sempre que se desejar.
+     a) Certo
+     b) Errado
+                                                   ATRIBUTOS DA CLASSIFICAÇÃO DE
+     GABARITO - CORRETA                                      MATERIAIS
+
+
+
+
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) Materiais não de estoque têm
+     uma demanda imprevisível pela organização.
+     a) Certo
+     b) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipo de Demanda
+       ❑ Em relação ao tipo de demanda temos os chamados materiais "de estoque" e os materiais "não de estoque".
+
+       ❑ Os materiais de estoque são aqueles consumidos rotineiramente ao longo do processo de produção e, por isso,
+         devem ser sempre adquiridos e estar continuamente à disposição quando requisitados, ou seja, devem possuir
+         estoque.
+
+       ❑ Já os materiais de não estoque são consumidos com menor frequência, têm demanda irregular ou mesmo
+         imprevisível e, portanto, muitas vezes não têm previsão de utilização. Dessa forma por não devem ser mantidos
+         em estoque em função dos custos diretos e indiretos de tal opção. Quando a organização necessita deles, compra
+         para utilização imediata, sendo raros os casos em que são comprados para utilização posterior.
+
+
+
+                                                               Tipo de
+                                                              Demanda
+
+
+                                                                            "Não de
+                                              "De Estoque"
+                                                                            Estoque"
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (QUADRIX/CRBM 6 PR/Agente Administrativo/2018) Materiais não de estoque têm
+     uma demanda imprevisível pela organização.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Serrana-SP/Almoxarife/2018) Simplificar materiais é:
+     a) confrontar os materiais, classificá-los e codificá-los para produção de serviços.
+     b) reduzir a diversidade de um item empregado para o mesmo fim.
+     c) racionalizar os itens a serem faturados.
+     d) confrontar os registros do estoque com o financeiro.
+     e) localizar e classificar os itens estocados.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas em Resumo
+
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Serrana-SP/Almoxarife/2018) Simplificar materiais é:
+     a) confrontar os materiais, classificá-los e codificá-los para produção de serviços.
+     b) reduzir a diversidade de um item empregado para o mesmo fim.
+     c) racionalizar os itens a serem faturados.
+     d) confrontar os registros do estoque com o financeiro.
+     e) localizar e classificar os itens estocados.
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (ACEP/Pref. Mun. Aracati-CE/Almoxarife/2018) É correto afirmar que a codificação
+     de materiais consiste em:
+     a) atribuir uma série de números ou letras para cada material, de tal forma que esse
+     conjunto possa representar as características de cada material.
+     b) agrupar os materiais segundo determinados critérios, como força, dimensão, peso,
+     tipo etc.
+     c) analisar e registrar os principais dados que caracterizam e individualizam cada item de
+     material.
+     d) atribuir uma nomenclatura padronizada para todos os materiais.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Codificação
+       ❑ Codificar os itens significa representar todas as informações necessárias, suficientes e
+         desejadas de um item por meio de números e/ou letras com base em toda a
+         classificação recém obtida do material.
+       ❑ Nesse cenário cada item terá seu código, permitindo e facilitando o controle, a
+         retirada e a movimentação dos itens na organização. Sabendo qual o código do item
+         qualquer um desses processos se torna completamente objetivo e traz rapidez na
+         identificação e localização dos itens nos armazéns assim como nos controles de
+         volumes e demais controles gerenciais em relação aos estoques disponíveis.
+       ❑ Os sistemas de codificação mais comumente utilizados são o alfabético, o
+         alfanumérico e o numérico (este é o mais usado), também chamado sistema decimal.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas em Resumo
+
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (ACEP/Pref. Mun. Aracati-CE/Almoxarife/2018) É correto afirmar que a codificação
+     de materiais consiste em:
+     a) atribuir uma série de números ou letras para cada material, de tal forma que esse
+     conjunto possa representar as características de cada material.
+     b) agrupar os materiais segundo determinados critérios, como força, dimensão, peso,
+     tipo etc.
+     c) analisar e registrar os principais dados que caracterizam e individualizam cada item de
+     material.
+     d) atribuir uma nomenclatura padronizada para todos os materiais.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

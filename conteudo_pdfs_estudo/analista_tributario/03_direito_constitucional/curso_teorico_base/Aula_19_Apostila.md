@@ -1,0 +1,3611 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 19_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 174.
+- Art. 184.
+- 'art.
+
+  5º'
+- art. 1
+- art. 174
+- art. 187
+- art. 21
+- art. 5º
+sumulas_citadas:
+- Súmula Vinculante nº 49
+---
+
+# Direito Constitucional
+
+Aula 18
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            27 de Agosto de 2025
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 18
+
+                                                                                     Índice
+1) Princípios Gerais da Atividade Econômica (art. 170 - art. 181, CF/88)
+
+
+2) Política Urbana (art. 182 e art. 183, CF/88)
+
+
+3) Política Agrícola, Fundiária e Reforma Agrária (art. 184 - art. 191, CF/88)
+
+
+4) Sistema Financeiro Nacional (art. 192, CF/88)
+
+
+5) Questões Comentadas - Ordem Econômica e Financeira - FGV
+
+
+6) Lista de Questões - Ordem Econômica e Financeira - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           74
+
+                                                             
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 18
+
+                             ORDEM ECONÔMICA E FINANCEIRA
+Introdução
+A ordem econômica consiste em um conjunto de normas que regulam o sistema econômico do
+País, definindo, dentre outros pontos, a forma de intervenção do Estado na economia.
+A disciplina constitucional da ordem econômica forma aquilo que a doutrina denomina
+“Constituição econômica”, que, nas palavras do Prof. Uadi Lammêgo Bulos, “consiste em um
+microssistema normativo, integrado à própria carta constitucional positiva, em cujo esteio
+erigem-se normas e diretrizes constitucionais que disciplinam, juridicamente, a macroeconomia”.1
+Há que se destacar, ainda, que a “Constituição econômica” não se esgota no texto
+constitucional: ela também se manifesta por meio de normas infraconstitucionais. É a partir disso
+que se pode fazer a distinção entre Constituição econômica material (núcleo essencial de normas
+que regem o sistema econômico, quer constem ou não do texto constitucional) e Constituição
+econômica formal (normas que regem o sistema econômico e que estão positivadas no texto
+constitucional, ainda que não dotadas de relevância material).2
+A constitucionalização da ordem econômica foi um movimento que ganhou força com a Primeira
+Guerra Mundial. Em virtude daquele conflito, o Estado teve que assumir um papel mais ativo na
+regulação da economia, o que se acentuou ainda mais com a Crise da Bolsa de Nova York (1929)
+e com a Segunda Guerra Mundial.
+Constata-se que a inserção da ordem econômica nos textos constitucionais foi uma das
+características da transição do Estado liberal para o Estado social. O Estado liberal era
+eminentemente não intervencionista; o Estado social, por sua vez, é marcado pela maior atuação
+governamental, seja intervindo na economia, seja ofertando prestações positivas em favor dos
+indivíduos. Dessa forma, a constitucionalização da ordem econômica é resultado do
+aparecimento da ideia de Estado de bem-estar social.
+No Brasil, a Constituição de 1934 foi a primeira a trazer em seu texto a disciplina da ordem
+econômica, o que se deveu à forte influência da Constituição alemã de Weimar (1919).
+Destaque-se que a Carta de 1934 também tratou com pioneirismo a disciplina da ordem social,
+que está intimamente relacionada à ordem econômica.
+Na CF/88, a ordem econômica e financeira é dividida da seguinte forma:
+         - Princípios Gerais da Ordem econômica (art. 170 – art. 181)
+         - Política Urbana (art. 182 – art. 183)
+         - Política agrícola e fundiária e a reforma agrária (art. 184 – art. 191)
+         - Sistema Financeiro Nacional (art. 192)
+Essas normas, que consubstanciam a chamada “Constituição econômica”, podem ser
+classificadas, segundo a doutrina do Prof. José Afonso da Silva, como elementos
+
+1
+ BULOS, Uadi Lammêgo. Curso de Direito Constitucional, 6a edição. Ed. Saraiva. São Paulo: 2011, pp. 1490.
+2
+ CUNHA JÚNIOR, Dirley da. Curso de Direito Constitucional, 6ª edição. Ed. Juspodium. Salvador: 2012, p.
+1276 – 1277.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                 3
+          www.estrategiaconcursos.com.br                                                              74
+
+                                        
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 18
+
+socioideológicos. São elementos socioideológicos o conjunto de normas que refletem a
+existência do Estado social, intervencionista, prestacionista.
+
+Fundamentos e Princípios Gerais da Ordem Econômica
+Princípios constitucionais da ordem econômica
+A doutrina considera que a Constituição Federal de 1988, ao tratar da ordem econômica,
+estabeleceu princípios e soluções um tanto quanto contraditórios. Ao mesmo tempo em que
+consagra a liberdade de iniciativa, a CF/88 busca, em diversos momentos, regulamentar a
+atividade econômica. Assim, liberalismo e intervencionismo se alternam na formulação dos
+princípios da ordem econômica, o que demonstra o resultado consensual de um debate entre as
+diversas correntes que participaram da formulação da CF/88.3
+Segundo o art. 170, CF/88, a ordem econômica, fundada na valorização do trabalho humano e
+na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça
+social. Por meio desse dispositivo, a CF/88 consagra a existência de uma economia de mercado,
+de índole capitalista. Isso fica claro ao estabelecer-se que o fundamento da ordem econômica é a
+livre iniciativa; com efeito, a livre iniciativa é característica central do sistema capitalista.
+Ao mesmo tempo, percebe-se que o art. 170, CF/88, estabeleceu que a finalidade da ordem
+econômica é promover a existência digna de todos, conforme os ditames da justiça social. Nesse
+sentido, busca-se compatibilizar o desenvolvimento econômico com o princípio da dignidade da
+pessoa humana.
+Os princípios constitucionais da ordem econômica são os seguintes:
+         a) Soberania nacional. A soberania é um dos fundamentos da República Federativa do
+         Brasil (art. 1º, I). Aqui, ela aparece no sentido de “soberania econômica”. Com isso, o
+         legislador constituinte quis deixar claro que o Brasil deve buscar o seu desenvolvimento e
+         evitar a situação de dependência em relação aos países industrializados.
+         b) Propriedade privada. A propriedade privada dos meios de produção é a grande
+         característica do sistema econômico capitalista.
+         c) Função social da propriedade. O direito à propriedade não é absoluto; em outras
+         palavras, a propriedade é garantida, desde que cumpra sua função social. Nos termos do
+         art. 5º, XXIII, “a propriedade atenderá a sua função social”.
+         d) Livre concorrência. A livre concorrência é um princípio que deriva do princípio da livre
+         iniciativa. Ao estabelecer a livre concorrência como um princípio geral da ordem
+         econômica, a CF/88 reconhece, implicitamente, a tese de que mercados competitivos
+         geram maior eficiência econômica, possibilitando maior bem-estar e qualidade de vida aos
+         cidadãos.
+         Destaque-se, entretanto, que, embora o legislador constituinte tenha optado pela livre
+         concorrência, esta não é absoluta. O Estado possui diversas formas de intervenção na
+         economia. A intervenção estatal pode ser direta (como no caso de monopólios em setores
+         estratégicos) ou indireta (através da regulação econômica).
+
+
+3
+ MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 1875-1877.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                    4
+          www.estrategiaconcursos.com.br                                                                 74
+
+                                        
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 18
+
+         Em consonância com o princípio da livre concorrência, o art. 173, § 4º, dispõe que “a lei
+         reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação
+         da concorrência e ao aumento arbitrário dos lucros.” Perceba que a livre concorrência é a
+         regra geral na ordem econômica do Estado brasileiro, admitindo-se a intervenção estatal
+         para reprimir condutas anticoncorrenciais, caracterizadas pelo abuso do poder econômico.
+         Segundo o STF, os regimes jurídicos sob os quais, em regra, são prestados os serviços
+         públicos importam em que essa atividade seja desenvolvida sob privilégio, inclusive o da
+         exclusividade. Por esse motivo, o privilégio de entrega de correspondência da ECT
+         (Empresa de Correios e Telégrafos) não violaria a proteção à livre concorrência4.
+
+          A jurisprudência do STF nos traz alguns entendimentos importantes relacionados
+          à proteção da livre concorrência. Destacamos os seguintes:
+          1) Súmula Vinculante nº 49: Ofende o princípio da livre concorrência lei municipal
+          que impede a instalação de estabelecimentos comerciais do mesmo ramo em
+          determinada área.
+          Dessa forma, será inconstitucional lei municipal que proíba dois estabelecimentos
+          comerciais do mesmo ramo de se instalarem em uma determinada área.
+          Ao debater a aprovação da Súmula Vinculante nº 49, os Ministros do STF
+          deixaram claro que esta deveria ser encarada como um princípio geral, não
+          devendo se aplicar a todos os casos.
+          Nesse sentido, o STF reconhece a constitucionalidade de lei municipal que fixa
+          distanciamento mínimo entre postos de revenda de combustíveis, por motivo de
+          segurança.5
+          2) Segundo o STF, a proibição ou restrição da atividade de transporte privado
+          individual por motorista cadastrado em aplicativo é inconstitucional, por violação
+          aos princípios da livre iniciativa e da livre concorrência.
+          Assim, leis municipais que proíbam o transporte privado de passageiros por
+          aplicativos móveis (ex: Uber, Cabify, etc) são inconstitucionais. Segundo a Corte,
+          qualquer restrição à atividade econômica deve passar pelo teste da
+          proporcionalidade.
+          3) “O princípio da livre iniciativa não pode ser invocado para afastar regras de
+          regulamentação do mercado e de defesa do consumidor."6 Esse entendimento
+          deriva da lógica de que não há princípios absolutos em nosso ordenamento
+
+4
+  ADPF 46, Rel. Min. Marco Aurélio, 05.08.2009.
+5
+  RE 566.836, Rel. Min. Carmen Lúcia. 27.11.2008.
+6
+  RE 349.686, Rel. Min. Ellen Gracie, 14.06.2005.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                          5
+          www.estrategiaconcursos.com.br                                                       74
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+           jurídico. Assim, regras de regulamentação do mercado e de defesa do
+           consumidor não violam a livre iniciativa.
+           4) Ainda sobre a livre iniciativa, há um importante precedente do STF, o qual
+           legitima a terceirização das atividades-fim de uma empresa. "A Constituição não
+           impõe uma única forma de estruturar a produção. Ao contrário, o princípio
+           constitucional da livre iniciativa garante aos agentes econômicos liberdade para
+           eleger suas estratégias empresariais dentro do marco vigente"7.
+
+        e) Defesa do consumidor. A ordem econômica tem como finalidade assegurar a todos uma
+        existência digna; dito de outra maneira, ela visa garantir a dignidade da pessoa humana. É
+        justamente nesse contexto que se busca assegurar a defesa do consumidor, que é a parte
+        hipossuficiente em uma relação de consumo.
+
+           O STF julgou inconstitucional a cobrança de tarifa por disponibilizar limite de
+           cheque especial ao cliente. Trata-se de cobrança que coloca o consumidor em
+           situação de vulnerabilidade econômico-jurídica. Desproporcionalidade da
+           medida adotada pelo Conselho Monetário Nacional (CMN) para correção de
+           falha de mercado8.
+
+        f) Busca do pleno emprego. Conforme já comentamos, a ordem econômica tem como um
+        de seus fundamentos a valorização do trabalho humano. Nesse sentido, a busca do pleno
+        emprego é diretriz constitucional que tem como objetivo assegurar que toda a força de
+        trabalho disponível seja utilizada na atividade econômica.
+        g) Redução das desigualdades sociais e regionais. Nos termos do art. 3º, III, um dos
+        objetivos fundamentais da República Federativa do Brasil é “erradicar a pobreza e a
+        marginalização e reduzir as desigualdades sociais e regionais”.
+        h) Defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o
+        impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação.
+        i) Tratamento favorecido para as empresas de pequeno porte constituídas sob as leis
+        brasileiras e que tenham sua sede e administração no País. Esse tratamento diferenciado se
+        materializa no art. 179, CF/88:
+
+           Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às
+           microempresas e às empresas de pequeno porte, assim definidas em lei,
+           tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de
+
+7
+    ADC 48, Rel. Min. Roberto Barroso, j. 15.04.2020.
+8
+    ADI 6.407, Rel. Min. Gilmar Mendes, j. 3-5-2021.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         6
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 18
+
+      suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela
+      eliminação ou redução destas por meio de lei.
+
+      O Prof. José Afonso da Silva chama de princípios de integração os seguintes
+      princípios da ordem econômica:
+      a) defesa do consumidor;
+      b) defesa do meio ambiente;                      ==219a34==
+
+      c) redução das desigualdades sociais e regionais;
+      d) busca do pleno emprego.
+      Essa denominação se deve ao fato de que esses 4 (quatro) princípios têm como
+      objetivo resolver os problemas da marginalização regional ou social.
+
+      Receita Federal (Analista Tributário) Direito Constitucional                           7
+      www.estrategiaconcursos.com.br                                                         74
+
+                                    
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Há que se mencionar também o que estabelece o art. 170, parágrafo único, CF/88. Segundo
+esse dispositivo, é assegurado a todos o livre exercício de qualquer atividade econômica,
+independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei. Esse
+dispositivo, aliado ao art. 5º, XIII, da CF/88, consagram o princípio da liberdade de exercício de
+atividade econômica.
+
+        A Lei Federal nº 13.874/2019, conhecida como Lei de Liberdade Econômica,
+        estabelece garantias de livre mercado e dispõe sobre a atuação do Estado como
+        agente normativo e regulador. A intenção é propiciar maior simplificação
+        administrativa para um ambiente de regras claras e estímulo à competitividade.
+
+Todos os princípios mencionados devem ser interpretados em conjunto, em harmonia, evitando
+contradições aparentes entre si. Neles, verifica-se que o constituinte adotou o modelo capitalista,
+porém não se esqueceu da finalidade da ordem econômica: assegurar a todos a existência digna,
+conforme os ditames da justiça social.
+
+(Pref. Fortaleza – 2023) Segundo o STF, eventual lei que proíba ou restrinja a atividade de
+transporte privado individual por motorista cadastrado em aplicativo seria inconstitucional, por
+violação aos princípios da livre iniciativa e da livre concorrência.
+
+Comentários:
+
+De acordo com o STF, são inconstitucionais leis que proíbam ou restrinjam a atividade de
+transporte privado individual por motorista cadastrado em aplicativo, por violar os princípios da
+livre iniciativa e da livre concorrência. Questão correta.
+
+(COREN-CE – 2021) Um dos princípios gerais da atividade econômica expressamente previsto na
+Constituição Federal de 1988 (CF), que deve ser observado pela ordem econômica, fundada na
+valorização do trabalho humano e na livre iniciativa, é o da dignidade da pessoa humana.
+Comentários:
+Apesar de a dignidade da pessoa humana ser um fundamento da República Federativa do Brasil,
+esse princípio não foi expressamente mencionado pelo art. 170 da CF/88, que dispõe sobre os
+princípios gerais da atividade econômica. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             8
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+(TRE-MA – 2015) A defesa do meio ambiente, inclusive com tratamento diferenciado conforme o
+impacto ambiental dos produtos e serviços, constitui princípio que orienta a atividade
+econômica.
+Comentários:
+O art. 170, VI, CF/88, prevê que é princípio da ordem econômica a defesa do meio ambiente,
+inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e
+serviços e de seus processos de elaboração e prestação. Questão correta.
+(TRT 8ª Região – 2015) Não poderá a lei dispensar às microempresas e às empresas de pequeno
+porte tratamento jurídico diferenciado, sob pena de violar o princípio da igualdade, exceto se,
+em se tratando de empresas de pequeno porte, estas forem constituídas sob as leis brasileiras.
+Comentários:
+O art. 179, CF/88, prevê que os entes federativos (União, Estados, Distrito Federal e Municípios)
+poderão dispensar tratamento jurídico diferenciado às microempresas e às empresas de pequeno
+porte. Não há que se falar em violação ao princípio da igualdade. Questão errada.
+(MPE-SP – 2015) A ordem econômica nacional tem por finalidade assegurar a todos existência
+digna, conforme os ditames da justiça social.
+Comentários:
+A ordem econômica, fundada na valorização do trabalho e da livre iniciativa, tem por fim
+assegurar a todos uma existência digna. Questão correta.
+
+Investimentos estrangeiros no Brasil
+A disciplina dos investimentos estrangeiros no Brasil está prevista no art. 172, CF/88:
+
+        Art. 172. A lei disciplinará, com base no interesse nacional, os investimentos de
+        capital estrangeiro, incentivará os reinvestimentos e regulará a remessa de lucros.
+
+A regulação do investimento estrangeiro é corolário do princípio da soberania nacional. Note
+que a CF/88 não impede o ingresso de capital estrangeiro no País; ao contrário, ela permite que
+sejam feitos investimentos estrangeiros, uma vez que estes podem funcionar como importante
+instrumento para o desenvolvimento econômico nacional.
+A legislação ordinária irá, portanto, disciplinar os investimentos de capital estrangeiro, incentivar
+os reinvestimentos e regular a remessa de lucros para o exterior.
+
+(TRE-MA – 2015) São livres os investimentos de capital estrangeiro no país, bem como a remessa
+de lucros ao exterior.
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               9
+        www.estrategiaconcursos.com.br                                                            74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+Não se pode dizer que são livres os investimentos de capital estrangeiro no país e a remessa de
+lucros ao exterior. A lei regulamentará essas matérias. Questão errada.
+
+Empresa nacional x Empresa estrangeira
+A Emenda Constitucional nº 06/1995, a fim de incentivar a realização de investimentos
+estrangeiros no País, acabou com a distinção entre empresa brasileira de capital nacional e
+empresa brasileira de capital estrangeiro. Agora, só há que se diferençar a empresa brasileira da
+empresa estrangeira.
+E qual o conceito de empresa brasileira?
+Empresa brasileira é aquela constituída sob as leis brasileiras e que tenha sua sede e
+administração no País. Assim, não interessa se o capital é nacional ou estrangeiro; caso a
+empresa seja constituída sob as leis brasileiras e tenha sede e administração em nosso território,
+ela será considerada uma empresa brasileira.
+
+Atuação estatal no domínio econômico
+Segundo o Prof. José Afonso da Silva9[1], a CF/88 não é muito clara quanto aos modos de
+atuação do Estado na economia. Ela fala em exploração direta da atividade econômica pelo
+Estado e do Estado como agente normativo e regulador da atividade econômica. Em outras
+palavras: o Estado pode ser um agente econômico e um agente disciplinador da economia.
+Pode-se manter, à luz da Constituição atual, a mesma distinção que surtia das Constituições
+anteriores, qual seja, a de que ela reconhece duas formas de ingerência do Estado na ordem
+econômica: a participação e a intervenção.
+
+Ambas as formas de ingerência estatal na ordem econômica são instrumentos por meio dos
+quais o Poder Público ordena, coordena e atua a observância dos princípios da ordem
+econômica tendo em vista a realização de seus fundamentos e de seu fim. Ainda para José
+Afonso da Silva, "é importante ter em vista essas razões que fundamentam a atuação do Estado
+brasileiro no domínio econômico porque, se essa atuação não é princípio da ordem econômica,
+não pode também ser vista como simples exceção, na medida em que tanto a iniciativa privada
+como a estatal se destinam ao mesmo objetivo de realização daqueles fins, princípios e
+fundamentos".
+
+Embora a Constituição Federal de 1988 tenha estabelecido que a livre iniciativa é um princípio
+geral da ordem econômica, desenhou-se, paralelo a isso, um modelo de Estado intervencionista.
+A doutrina considera que há 3 (três) formas de intervenção estatal na economia:10
+a) Intervenção direta.
+A intervenção direta do Estado fica caracterizada quando o Estado explora diretamente uma
+atividade econômica. Trata-se de situação excepcional, regulada no art. 173, CF/88:
+
+9
+ SILVA, José Afonso. Curso de Direito Constitucional Positivo. 40. ed. São Paulo: Malheiros,
+2017.
+10
+  CUNHA JÚNIOR, Dirley da. Curso de Direito Constitucional, 6ª edição. Ed. Juspodium. Salvador: 2012, p.
+1280.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                              10
+           www.estrategiaconcursos.com.br                                                            74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta
+        de atividade econômica pelo Estado só será permitida quando necessária aos
+        imperativos da segurança nacional ou a relevante interesse coletivo, conforme
+        definidos em lei.
+
+O art. 173 consagra, assim, o princípio da subsidiariedade na atuação direta do Estado na
+economia, ou seja, este somente atuará quando o setor privado não tiver capacidade ou
+interesse de atuar em determinado setor econômico ou, ainda, por imperativos de segurança
+nacional ou relevante interesse coletivo.
+
+        É bastante comum que as bancas examinadoras digam que o Estado somente
+        pode explorar diretamente atividade econômica em caso de imperativo de
+        segurança nacional ou de relevante interesse coletivo. Esse entendimento é
+        encontrado nas questões da banca Cebraspe.
+        Todavia, com base no art. 173, que ressalva “os casos previstos na Constituição”,
+        é possível afirmar que os imperativos da segurança nacional e o relevante
+        interesse coletivo não são os únicos casos em que o Estado poderá explorar
+        diretamente atividade econômica. Há outros casos previstos na CF/88, como as
+        atividades submetidas ao regime de monopólio da União (art. 177).
+
+Essa atuação direta do Estado no domínio econômico é feita por meio das empresas públicas e
+das sociedades de economia mista exploradoras de atividades econômicas. Cabe destacar que,
+nos termos do art. 173, § 2º, “as empresas públicas e as sociedades de economia mista não
+poderão gozar de privilégios fiscais não extensivos às do setor privado”. Observe que essa é
+uma regra válida apenas para as empresas públicas e sociedades de economia mista
+exploradoras de atividades econômicas. Não alcança, portanto, as empresas públicas e
+sociedades de economia mista prestadoras de serviços públicos.
+
+        Os arts. 170, parágrafo único, e 173, caput, da CF autorizam o legislador a
+        restringir o livre exercício de atividade econômica para preservar outros direitos e
+        valores constitucionais, destacando-se, no caso de serviços estratégicos de
+        tecnologia da informação contratados pela União, os imperativos da soberania,
+        da segurança nacional e da proteção da privacidade de contribuintes e
+        destinatários de programas governamentais. Interesse público a legitimar
+        decisão do legislador no sentido da prestação de serviços estratégicos de
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           11
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+           tecnologia da informação com exclusividade por empresa pública federal criada
+           para esse fim.11
+
+A CF/88 prevê a elaboração de um estatuto jurídico para as empresas públicas e sociedades de
+economia mista exploradoras de atividade econômica:
+
+           § 1º A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de
+           economia mista e de suas subsidiárias que explorem atividade econômica de
+           produção ou comercialização de bens ou de prestação de serviços, dispondo
+           sobre:
+           I - sua função social e formas de fiscalização pelo Estado e pela sociedade;
+           II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto
+           aos direitos e obrigações civis, comerciais, trabalhistas e tributários;
+           III - licitação e contratação de obras, serviços, compras e alienações, observados
+           os princípios da administração pública;
+           IV - a constituição e o funcionamento dos conselhos de administração e fiscal,
+           com a participação de acionistas minoritários;
+           V - os mandatos, a avaliação de desempenho e a responsabilidade dos
+           administradores.
+
+Note que esse dispositivo se refere às empresas públicas e sociedades de economia mista
+exploradoras de atividades econômicas em sentido estrito. Não trata das empresas públicas e
+sociedades de economia mista prestadoras de serviços públicos. Destaque-se que essas pessoas
+jurídicas em regra são alcançadas por todas as normas constitucionais aplicáveis à Administração
+Pública. Entretanto, possuem algumas características próprias do setor privado, devido à
+“sujeição ao regime jurídico próprio das empresas privadas”, conforme previsto pela Carta
+Magna.
+
+           O Supremo Tribunal Federal distingue empresas estatais prestadoras de serviço
+           público e empresas estatais que desenvolvem atividade econômica em sentido
+           estrito. As sociedades de economia mista e as empresas públicas que explorem
+           atividade econômica em sentido estrito estão sujeitas, nos termos do disposto no
+           § 1º do art. 173 da Constituição, ao regime jurídico próprio das empresas
+           privadas. Logo, o § 1º do art. 173 da Constituição do Brasil não se aplica às
+           empresas públicas, sociedades de economia mista e entidades (estatais) que
+
+
+11
+     ADI 4.829, Rel. Min. Rosa Weber, j. 22.03.2021.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         12
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        prestam serviço público. (STF, ARE 689.588 AgR, rel. min. Luiz Fux, j. 27-11-2012,
+        1ª T, DJE de 13-2-2012).
+
+(AGU – 2023) O regime de licitação estabelecido na Lei n.º 8.666/1993 é inaplicável às
+sociedades de economia mista que exploram atividade econômica própria das empresas
+privadas.
+
+Comentários:
+
+Nos termos do art. 173, § 1º, inciso III, da CF/88, uma lei específica estabelecerá o estatuto
+jurídico da empresa pública, da sociedade de economista e de suas subsidiárias, dispondo sobre
+licitação e contratação de obras, serviços, compras e alienações, observados os princípios da
+administração pública. Além disso, segundo o STF, não é possível conciliar o regime previsto na
+Lei nº 8.666/93 com a agilidade própria desse tipo de mercado que é movido por intensa
+concorrência entre as empresas que nele atuam (RE 441.280/RS, Rel. Min. Dias Toffoli, j.
+06.03.2021). Questão errada.
+
+(COREN-CE – 2021) Segundo a Constituição Federal de 1988, a exploração direta de atividade
+econômica pelo Estado poderá ocorrer somente se for imperativa para a segurança nacional ou
+de relevante interesse coletivo, conforme definido em lei.
+Comentários:
+A questão vai ao encontro da literalidade do art. 173 da CF/88. Esse entendimento é bastante
+comum de ser encontrado nas questões da banca Cebraspe. O gabarito é certo. No entanto,
+ressalvamos que os casos de atuação do Estado em regime de monopólio, a exemplo do art.
+177, também abrangem exploração direta de atividade econômica pelo Estado.
+(TRT 21ª Região – 2015) É possível afirmar que as empresas públicas e sociedades de economia
+mista poderão gozar de privilégios fiscais não extensivos ao setor privado.
+Comentários:
+Pegadinha! As sociedades de economia mista e empresas públicas prestadoras de serviço
+público poderão gozar de privilégios fiscais não extensivos ao setor privado. Questão correta.
+(TRE-MA – 2015) A exploração direta de atividade econômica pelo Estado será permitida em
+casos de interesse financeiro que justifique a concessão de privilégios fiscais não extensivos ao
+mercado.
+Comentários:
+A exploração direta de atividade econômica pelo Estado será permitida apenas em razão de
+imperativos de segurança nacional ou relevante interesse coletivo. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           13
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+(TRF 1ª Região – 2015) O Estado não pode explorar, de forma direta ou indireta, atividade
+econômica, salvo em caso de necessidade relativa à segurança nacional, mediante prévia
+autorização do Congresso Nacional.
+Comentários:
+Dois erros:
+1) Não há necessidade de autorização do Congresso Nacional para que possa ocorrer a
+exploração direta de atividade econômica pelo Estado.
+2) A exploração direta de atividade econômica pelo Estado também poderá ocorrer em razão de
+relevante interesse coletivo.
+Questão errada.
+(MPDFT – 2015) O art. 173 da Constituição dispõe que “ressalvados os casos previstos nesta
+Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando
+necessária aos imperativos de segurança nacional ou relevante interesse coletivo, conforme
+definidos em lei". Esse dispositivo constitucional consagra o princípio da subsidiariedade.
+Comentários:
+É isso mesmo! O art. 173, CF/88, consagra o princípio da subsidiariedade. Questão correta.
+b) Intervenção indireta.
+A intervenção indireta na economia fica caracterizada quando o Estado assume o papel de
+agente normativo e regulador da atividade econômica. O fundamento da intervenção indireta é
+o art. 174, CF/88:
+
+        Art. 174. Como agente normativo e regulador da atividade econômica, o Estado
+        exercerá, na forma da lei, as funções de fiscalização, incentivo e planejamento,
+        sendo este determinante para o setor público e indicativo para o setor privado.
+        § 1º - A lei estabelecerá as diretrizes e bases do planejamento do
+        desenvolvimento nacional equilibrado, o qual incorporará e compatibilizará os
+        planos nacionais e regionais de desenvolvimento.
+        § 2º - A lei apoiará e estimulará o cooperativismo e outras formas de
+        associativismo.
+        § 3º - O Estado favorecerá a organização da atividade garimpeira em
+        cooperativas, levando em conta a proteção do meio ambiente e a promoção
+        econômico-social dos garimpeiros.
+        § 4º - As cooperativas a que se refere o parágrafo anterior terão prioridade na
+        autorização ou concessão para pesquisa e lavra dos recursos e jazidas de minerais
+        garimpáveis, nas áreas onde estejam atuando, e naquelas fixadas de acordo com
+        o art. 21, XXV, na forma da lei.
+
+Quando o Estado intervém indiretamente na economia, ele exerce três funções: i) fiscalização; ii)
+incentivo e; iii) planejamento.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           14
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+A fiscalização é atividade tipicamente estatal, que engloba o poder regulamentar, a investigação
+e aplicação de sanções. Como exemplo da atividade de fiscalização estatal, podemos citar o art.
+173, § 4º e § 5º:
+
+            § 4º - A lei reprimirá o abuso do poder econômico que vise à dominação dos
+            mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros.
+            § 5º - A lei, sem prejuízo da responsabilidade individual dos dirigentes da pessoa
+            jurídica, estabelecerá a responsabilidade desta, sujeitando-a às punições
+            compatíveis com sua natureza, nos atos praticados contra a ordem econômica e
+            financeira e contra a economia popular.
+
+Como se pode perceber, esses dois dispositivos são normas de eficácia limitada, dependentes de
+regulamentação por lei para que produzam todos os seus efeitos.
+Para dar efetividade a esses dispositivos constitucionais, foi editada a Lei nº 12.529/2011, que
+estrutura o Sistema Brasileiro de Defesa da Concorrência (SBDC) e dispõe sobre a prevenção e a
+repressão às infrações contra a ordem econômica, orientada pelos ditames constitucionais de
+liberdade de iniciativa, livre concorrência, função social da propriedade, defesa dos consumidores
+e repressão ao abuso do poder econômico. A Lei nº 12.529/2011 também prevê a atuação do
+CADE (Conselho Administrativo de Defesa Econômica) no controle das práticas
+anticoncorrenciais.
+O incentivo, por sua vez, é a atuação estatal no sentido de estimular determinados setores da
+economia. É a atividade de fomento estatal, que se evidencia no art. 174, §§ 2º, 3º e 4º (estímulo
+ao cooperativismo) e art. 179 (estímulo às microempresas e empresas de pequeno porte).
+Por último, cabe tratar sobre a função de planejamento, que é determinante para o setor público
+e indicativo para o setor privado. Segundo o art. 174, § 1º, CF/88, “a lei estabelecerá as
+diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, o qual incorporará
+e compatibilizará os planos nacionais e regionais de desenvolvimento”.
+Segundo Eros Grau12, planejamento é a forma de ação estatal caracterizada pela previsão de
+comportamentos econômicos e sociais futuros, pela formulação explícita de objetivos e pela
+definição de meios de ação coordenadamente dispostos, mediante a qual se procura ordenar,
+sob o ângulo macroeconômico, o processo econômico, para melhor funcionamento da ordem
+social, em condições de mercado.
+Para José Afonso da Silva, o planejamento se instrumenta por meio da elaboração de plano ou
+planos. Isso está presente na Constituição em vários momentos, ao dizer que o planejamento
+incorporará e compatibilizar os planos nacionais e regionais (art. 174, § 1º), ao estatuir que é
+função da lei dispor sobre planos e programas nacionais, regionais e setoriais de
+desenvolvimento (art. 48, IV) e que estes devam ser elaborados em consonância com o plano
+plurianual (arts. 48, II e 165, § 4º), consubstanciando aí os princípios do planejamento estrutural.
+
+12
+     GRAU, Eros Roberto. Planejamento econômico e regra jurídica. São Paulo: Revista dos Tribunais, 1978.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                     15
+           www.estrategiaconcursos.com.br                                                                   74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        É bastante comum que as bancas examinadoras invertam o planejamento. O
+        correto é que o planejamento é determinante para o setor público e indicativo
+        para o setor privado.
+
+(MPE-AM – 2023) O Estado, como agente normativo e regulador da atividade econômica, exerce
+as funções de fiscalização, incentivo e planejamento, sendo este último determinante para o
+setor privado.
+
+Comentários:
+
+De acordo com o art. 174 da CF/88, o Estado exercerá, na forma da lei, as funções de
+fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo
+para o setor privado. Questão errada.
+
+(TRF 1ª Região – 2015) A CF prevê expressamente a edição de lei que reprima o abuso do poder
+econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento
+arbitrário dos lucros.
+Comentários:
+O art. 173, § 4º, CF/88, prevê que “a lei reprimirá o abuso do poder econômico que vise à
+dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros”.
+Questão correta.
+c) Intervenção mediante a instituição de monopólios.
+O art. 177, CF/88, prevê que determinadas atividades serão exploradas sob o regime de
+monopólio. Veja sua redação:
+
+        Art. 177. Constituem monopólio da União:
+        I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros
+        hidrocarbonetos fluidos;
+        II - a refinação do petróleo nacional ou estrangeiro;
+        III - a importação e exportação dos produtos e derivados básicos resultantes das
+        atividades previstas nos incisos anteriores;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          16
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        IV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados
+        básicos de petróleo produzidos no País, bem assim o transporte, por meio de
+        conduto, de petróleo bruto, seus derivados e gás natural de qualquer origem;
+        V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e
+        o comércio de minérios e minerais nucleares e seus derivados, com exceção dos
+        radioisótopos cuja produção, comercialização e utilização poderão ser
+        autorizadas sob regime de permissão, conforme as alíneas b e c do inciso XXIII
+        do caput do art. 21 desta Constituição Federal.
+        § 1º A União poderá contratar com empresas estatais ou privadas a realização das
+        atividades previstas nos incisos I a IV deste artigo observadas as condições
+        estabelecidas em lei.
+
+A atividades a serem exploradas sob o regime de monopólio são apresentadas, no dispositivo
+supratranscrito, em rol exaustivo (lista “numerus clausus”). Todas elas foram atribuídas
+exclusivamente à União.
+É necessário enfatizar, todavia, o seguinte:
+a) As atividades descritas nos incisos I a IV podem ter seu exercício contratado, pela União, com
+empresas estatais ou privadas, observadas as condições estabelecidas em lei.
+b) As atividades previstas no inciso V, relacionadas aos radioisótopos, poderão ser autorizadas
+sob o regime de permissão, segundo as regras do art. 21, XXIII:
+       - sob regime de permissão, são autorizadas a comercialização e a utilização de
+       radioisótopos para a pesquisa e usos médicos, agrícolas e industriais;
+       - sob regime de permissão, são autorizadas a produção, comercialização e utilização de
+       radioisótopos de meia-vida igual ou inferior a duas horas.
+Trata-se de regra que visa flexibilizar o controle da União, que passa a se limitar a casos muito
+específicos, de modo a permitir o avanço das pesquisas em medicina nuclear. A submissão ao
+regime de permissão garantirá o necessário controle da referida atividade pelo Poder Público.
+
+Serviços Públicos
+Inicialmente, é importante destacar que a Constituição Federal e a legislação infraconstitucional
+não estabelecem o conceito de serviço público. No entanto, é possível afirmar que o Estado é o
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           17
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+titular exclusivo dos serviços públicos. Assim, nenhum serviço público será livre à iniciativa
+privada.
+O art. 175 versa sobre a prestação de serviços públicos pelo Estado, que pode ser feita direta ou
+indiretamente (sob o regime de concessão ou permissão).
+
+        Art. 175. Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime
+        de concessão ou permissão, sempre através de licitação, a prestação de serviços
+        públicos.
+        Parágrafo único. A lei disporá sobre:
+        I - o regime das empresas concessionárias e permissionárias de serviços públicos,
+        o caráter especial de seu contrato e de sua prorrogação, bem como as condições
+        de caducidade, fiscalização e rescisão da concessão ou permissão;
+        II - os direitos dos usuários;
+        III - política tarifária;
+        IV - a obrigação de manter serviço adequado.
+
+A prestação direta de um serviço público é aquela realizada pelo próprio Estado, por meio de
+seus órgãos ou entidades da administração indireta. Já a prestação indireta é a realizada por
+particulares, mediante delegação estatal, sob o regime de concessão ou permissão.
+
+        A titularidade do serviço público será sempre do Poder Público. A execução do
+        serviço público é que poderá ser delegada a um particular, sob o regime de
+        concessão ou permissão.
+
+Os conceitos de “concessão” e de “permissão” estão previstos no art. 2º, da Lei nº 8.987/1995:
+       a) Concessão de serviço público: delegação de sua prestação, feita pelo poder
+       concedente, mediante licitação, na modalidade de concorrência ou diálogo competitivo, à
+       pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu
+       desempenho, por sua conta e risco e por prazo determinado.
+       b) Permissão de serviço público: a delegação, a título precário, mediante licitação, da
+       prestação de serviços públicos, feita pelo poder concedente à pessoa física ou jurídica que
+       demonstre capacidade para seu desempenho, por sua conta e risco.
+Na concessão, a delegação do serviço público não poderá ser feita a pessoa física, mas somente
+a pessoa jurídica ou consórcio de empresas, devendo ser precedida de licitação na modalidade
+de concorrência. Além disso, a concessão é feita por prazo determinado e não possui caráter
+precário.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           18
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Na permissão, a delegação do serviço público poderá ser feita tanto a pessoa física quanto a
+pessoa jurídica. Também é precedida de licitação, mas não há previsão de qual modalidade
+deverá ser usada. Além disso, possui caráter precário, podendo ser revogada a qualquer tempo.
+Em ambos os casos (concessão e permissão), o particular será responsável pela execução do
+serviço público por sua conta e risco, sendo remunerado por tarifas cobradas diretamente dos
+usuários do serviço.
+A delegação de serviço público, seja por concessão ou permissão, deverá ser sempre precedida
+de licitação, nos termos do art. 175, caput. Nesse sentido, o STF declarou a inconstitucionalidade
+de lei estadual que pretendia prorrogar contratos administrativos indefinidamente (ADI nº 3521).
+Há previsão constitucional (art. 175, parágrafo único) para a edição de lei que disponha sobre o
+regime das concessionárias e permissionárias de serviços públicos, os direitos dos usuários, a
+política tarifaria e a obrigação de manter serviço adequado. Trata-se de lei de normas gerais de
+caráter nacional (aplicável à União, aos Estados, ao Distrito Federal e aos Municípios), já editada:
+a Lei 8.987/1995. Destaque-se, ainda, que há outras leis de abrangência nacional que também
+tratam de serviços públicos, a exemplo da Lei 9.074/1995 e da Lei 11.079/2004.
+
+Aprofundando no tema, é importante que você saiba que, além da permissão e da concessão,
+também é possível a prestação indireta de serviços públicos por meio de autorização (art. 21, XII,
+CF). Esta, ao contrario da permissão e da concessão, dispensa procedimento de licitação, de
+forma geral.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             19
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+(AGU – 2023) O monopólio da União concernente a atividade econômica relacionada ao petróleo
+impede a contratação de empresas privadas para a realização de serviços inerentes à exploração
+desse recurso natural.
+
+Comentários:
+
+Conforme o art. 177, § 1º, a União poderá contratar com empresas estatais ou privadas a
+realização das atividades previstas nos incisos I a IV do art. 177, desde que observadas as
+condições estabelecidas em lei, o que abrange, por exemplo, as atividades de pesquisa e lavra
+das jazidas de petróleo, bem como a refinação do petróleo nacional ou estrangeiro. Questão
+errada.
+
+(TCE-RJ - 2023) A prestação de serviços públicos pode ser realizada de três formas: diretamente
+pelo Estado; em regime de concessão; ou em regime de permissão.
+
+Comentários:
+
+Nos termos do art. 175, CF/88, incumbe ao Poder Público, na forma da lei, diretamente ou sob
+regime de concessão ou permissão, sempre através de licitação, a prestação de serviços
+públicos. Questão correta.
+
+Exploração de recursos minerais e potenciais de energia hidráulica
+A exploração de recursos minerais e de potenciais de energia hidráulica é regulada pelo art. 176,
+CF/88. Esse dispositivo deixa bastante claro que a propriedade do solo não se confunde com a
+propriedade dos recursos minerais e dos potenciais de energia hidráulica.
+A propriedade dos recursos minerais e dos potenciais de energia hidráulica será sempre da
+União, por força do que determina o art. 20, VIII e IX, CF/88. A propriedade do solo, por sua vez,
+pode ser de um particular ou mesmo do Poder Público. Isso é exatamente o que dispõe o art.
+176, caput:
+
+           Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais
+           de energia hidráulica constituem propriedade distinta da do solo, para efeito de
+           exploração ou aproveitamento, e pertencem à União, garantida ao
+           concessionário a propriedade do produto da lavra.
+
+A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais de energia
+hidráulica somente poderão ser efetuados mediante autorização ou concessão da União, no
+interesse nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que tenha sua
+sede e administração no País, na forma da lei. Assim, a União delega essas atividades a um
+particular (minerador), o qual é denominado de concessionário.
+O concessionário realizará a pesquisa e a lavra dos recursos minerais e ficará com a propriedade
+do produto da lavra. Nada mais natural! Segundo o Ministro Eros Grau, “a concessão seria
+materialmente impossível sem que o proprietário se apropriasse do produto da exploração da
+jazida”.13 Como contrapartida, o concessionário (mineradora) deverá recolher uma compensação
+financeira, nos termos do art. 20, § 1º:
+
+13
+  In: CANOTILHO, J.J. Gomes; MENDES, Gilmar Ferreira; SARLET, Ingo Wolfgang; STRECK, Lenio Luiz.
+Comentários à Constituição do Brasil. Ed. Saraiva, São Paulo: 2013, pp. 1850.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        20
+           www.estrategiaconcursos.com.br                                                      74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        Art. 20. (...)
+        § 1º - É assegurada, nos termos da lei, aos Estados, ao Distrito Federal e aos
+        Municípios, bem como a órgãos da administração direta da União, participação
+        no resultado da exploração de petróleo ou gás natural, de recursos hídricos para
+        fins de geração de energia elétrica e de outros recursos minerais no respectivo
+        território, plataforma continental, mar territorial ou zona econômica exclusiva, ou
+        compensação financeira por essa exploração.
+
+A CF/88 também assegura ao proprietário do solo participação nos resultados da lavra, na forma
+e nos valor que dispuser a lei. É o que dispõe o art. 176, § 2º, CF/88:
+
+        Art. 176 (...)
+        § 2º - É assegurada participação ao proprietário do solo nos resultados da lavra,
+        na forma e no valor que dispuser a lei.
+
+Para finalizar, vejamos o que dispõem os § 3º e § 4º, do art. 176:
+
+        § 3º - A autorização de pesquisa será sempre por prazo determinado, e as
+        autorizações e concessões previstas neste artigo não poderão ser cedidas ou
+        transferidas, total ou parcialmente, sem prévia anuência do poder concedente.
+        § 4º - Não dependerá de autorização ou concessão o aproveitamento do
+        potencial de energia renovável de capacidade reduzida.
+
+Suponha que em um sítio exista uma pequena cachoeira com capacidade para gerar energia
+elétrica suficiente para atender a família que ali vive. Nesse caso, por se tratar de aproveitamento
+de potencial de energia renovável de capacidade reduzida, não será necessária concessão ou
+autorização.
+
+(MPE-PA – 2023) A pesquisa e a lavra de recursos minerais podem ser concedidas pela União a
+empresa brasileira sediada no exterior, desde que esta esteja constituída sob as leis brasileiras.
+
+Comentários:
+
+Segundo o art. 176, § 1º, da CF/88, a pesquisa e a lavra de recursos minerais somente poderão
+ser efetuados mediante autorização ou concessão da União, no interesse nacional, por brasileiros
+ou empresa constituída sob as leis brasileiras e que tenha sua sede e administração no País.
+Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             21
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Ordenação dos Transportes / Incentivo ao Turismo / Requisição de
+documentos
+Segundo o art. 178, a lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre,
+devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela
+União, atendido o princípio da reciprocidade.
+Cabe destacar que a atual redação do art. 178 é fruto da EC nº 07/1995, que realizou mudanças
+substanciais nesse dispositivo. Uma das alterações de maior destaque foi a extinção da
+exclusividade das embarcações brasileiras na navegação de cabotagem.
+O art. 180, CF/88, por sua vez, dispõe que a União, os Estados, o Distrito Federal e os Municípios
+promoverão e incentivarão o turismo como fator de desenvolvimento social e econômico.
+Trata-se de norma programática, que estabelece uma diretriz para todos os entes federativos.
+Por fim, mencionamos o art. 181, CF/88, que trata da requisição de documentos por autoridades
+estrangeiras. Segundo esse dispositivo, o atendimento de requisição de documento ou
+informação de natureza comercial, feita por autoridade administrativa ou judiciária estrangeira, a
+pessoa física ou jurídica residente ou domiciliada no País dependerá de autorização do Poder
+competente.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           22
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 18
+
+                             ORDEM ECONÔMICA E FINANCEIRA
+Política Urbana
+Segundo o art. 182, “caput”, da Carta Magna, a política de desenvolvimento urbano será
+executada pelo Poder Público municipal, devendo obedecer diretrizes gerais fixadas em lei
+federal, de caráter nacional1. O objetivo da política de desenvolvimento urbano é ordenar o
+pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes.
+O instrumento básico da política de desenvolvimento urbano é o Plano Diretor, que deve ser
+aprovado pela Câmara Municipal. Cabe destacar que, segundo a CF/88, o Plano Diretor é
+obrigatório para cidades com mais de 20.000 habitantes.
+A política de desenvolvimento urbano também se apoia na exigência de que a propriedade
+cumpra a sua função social. É o que dispõe o art. 182, § 2º, segundo o qual “a propriedade
+urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da
+cidade expressas no plano diretor”. Recorde-se que o direito de propriedade, garantido pelo art.
+5º, XXII, é norma constitucional de eficácia contida e, portanto, está sujeito à atuação restritiva,
+por parte do Poder Público. Assim como todos os direitos fundamentais, não é absoluto: a
+Constituição exige que a propriedade cumpra sua função social (art. 5º, XXIII).
+A Constituição Federal abre a possibilidade para que seja realizada a desapropriação de imóveis
+urbanos. Segundo o art. 182, § 3º, as desapropriações de imóveis urbanos serão feitas com
+prévia e justa indenização em dinheiro. Essa é a regra geral!
+No entanto, existem casos em que a desapropriação não ocorrerá com indenização em dinheiro:
+a) O art. 182, § 4º, CF/88 estabelece que o Poder Público Municipal poderá exigir que o
+proprietário do solo urbano não edificado, subutilizado ou não utilizado promova seu adequado
+aproveitamento, sob pena de sanções sucessivas.
+
+          § 4º - É facultado ao Poder Público municipal, mediante lei específica para área
+          incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo
+          urbano não edificado, subutilizado ou não utilizado, que promova seu adequado
+          aproveitamento, sob pena, sucessivamente, de:
+          I - parcelamento ou edificação compulsórios;
+          II - imposto sobre a propriedade predial e territorial urbana progressivo no
+          tempo;
+          III - desapropriação com pagamento mediante títulos da dívida pública de
+          emissão previamente aprovada pelo Senado Federal, com prazo de resgate de
+          até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da
+          indenização e os juros legais.
+
+O inciso III prevê a chamada desapropriação-sanção, que é uma clara consequência do
+descumprimento da função social da propriedade. A indenização não será em dinheiro, mas em
+
+1
+ As diretrizes gerais sobre a política de desenvolvimento urbano estão previstas no Estatuto das Cidades (Lei
+nº 10.527/2011).
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                    23
+          www.estrategiaconcursos.com.br                                                                  74
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+títulos da dívida pública de emissão previamente aprovada pelo Senado, com prazo de resgate
+de até 10 (dez) anos.
+b) O art. 243, CF/88 estabelece a chamada “desapropriação confiscatória”, que foi objeto de
+relevante alteração promovida pela EC nº 81/2014. Segundo esse dispositivo, “as propriedades
+rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas
+psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e
+destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao
+proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o
+disposto no art. 5º”.
+Como se pode verificar, no caso da “desapropriação confiscatória”, não haverá qualquer
+indenização ao proprietário. A propriedade, seja ela urbana ou rural, será expropriada e
+destinada à reforma agrária e a programas de habitação popular. Destaque-se que são dois os
+motivos que levam à desapropriação confiscatória:
+          i) culturas ilegais de plantas psicotrópicas e;
+          ii) exploração de trabalho escravo.
+A expropriação é aplicada como uma verdadeira penalidade contra aquele que incorrer em
+qualquer dessas condutas. Na condição de penalidade, há que se exigir algum grau de culpa do
+proprietário para que seja imposta. Nesse sentido, decidiu o STF que ficará afastada a
+expropriação prevista no art. 243 se o proprietário do imóvel comprovar que não incorreu em
+culpa, ainda que “in vigilando” ou “in eligendo”. 2
+Culpa “in vigilando” é aquela que decorre da falta de atenção, falta de fiscalização dos atos de
+outras pessoas sob a sua responsabilidade. A culpa “in eligendo”, por sua vez, decorre de uma
+má escolha daquele que confia a prática de um ato a outra pessoa.
+Observe que o proprietário tem o dever de zelar para que atividades ilícitas (cultivo ilegal de
+plantas psicotrópicas e exploração de trabalho escravo) não ocorram no seu imóvel. Assim, se ele
+tiver incorrido em culpa “in vigilando” ou “in eligendo”, sofrerá a responsabilização, com o
+consequente confisco do imóvel. Por outro lado, se ele puder provar que não teve nenhuma
+culpa no ocorrido (o proprietário possui o ônus da prova!), ficará afastada sua responsabilidade.
+O fato de não ter participado diretamente das atividades ilícitas não afasta a expropriação.
+Segundo o STF, a responsabilidade do proprietário é subjetiva, mas próxima da objetiva. Há que
+se conferir, afinal, uma proteção mínima ao proprietário não culpado pelas atividades ilícitas.
+Ainda sobre a política urbana, temos que mencionar o art. 183, CF/88, que trata da chamada
+usucapião constitucional do imóvel urbano.
+
+           Art. 183. Aquele que possuir como sua área urbana de até duzentos e cinquenta
+           metros quadrados, por cinco anos, ininterruptamente e sem oposição,
+           utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde
+           que não seja proprietário de outro imóvel urbano ou rural.
+           1º - O título de domínio e a concessão de uso serão conferidos ao homem ou à
+           mulher, ou a ambos, independentemente do estado civil.
+           § 2º - Esse direito não será reconhecido ao mesmo possuidor mais de uma vez.
+2
+    STF. Plenário. RE 635336/PE, Rel. Min. Gilmar Mendes, 14.12.2016.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       24
+           www.estrategiaconcursos.com.br                                                     74
+
+                                         
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 18
+
+          § 3º - Os imóveis públicos não serão adquiridos por usucapião.
+
+A usucapião constitucional do imóvel urbano, também chamada de usucapião pró-moradia,
+consiste na aquisição do domínio de área urbana por aquele que tenha tido sua posse durante
+um certo período de tempo. Os requisitos para que o usucapião pró-moradia se efetive são os
+seguintes:
+         a) Área urbana de até 250 metros quadrados;
+         b) Posse ininterrupta durante 5 anos, sem qualquer oposição. Segundo o STF, o tempo de
+         posse anterior à promulgação da Constituição de 1988 não se inclui na contagem desse
+         prazo quinquenal.3
+         c) Utilização para moradia própria ou da família.
+Cabe destacar que, para usufruir desse direito, o indivíduo não poderá ser proprietário de
+nenhum outro imóvel urbano ou rural. Além disso, não é possível a usucapião de imóveis
+                                                           ==219a34==
+
+públicos.
+
+          Suponha que um indivíduo tenha a posse ininterrupta por 5 anos de área urbana
+          de 250 metros quadrados, utilizando-a para moradia própria ou de sua família.
+          Além disso, não é proprietário de nenhum outro imóvel urbano ou rural.
+          Nessa situação, como se vê, foram preenchidos todos os requisitos para que o
+          indivíduo usufrua da usucapião especial urbana.
+          Todavia, lei municipal estabelece que a metragem mínima para lotes urbanos é
+          de 300 metros quadrados. Considerando que o imóvel de posse do indivíduo
+          tem somente 250 metros quadrados, poderia lhe ser negado o direito à
+          usucapião desse imóvel?
+          No RE 422.349/RS, o STF fixou o entendimento de que, uma vez cumpridos os
+          requisitos do art. 183, CF/88, o reconhecimento do direito à usucapião especial
+          urbana não pode ser obstado por legislação infraconstitucional que estabeleça
+          módulos urbanos na área em que situado o imóvel.
+
+3
+ RE 206.659, Min. Rel. Galvão, DJ de 6.2.1998; RE 191.603, Min. Rel. Marco Aurélio, DJ de 28.8.1998; RE
+187.913, Min. Rel. Néri, DJ de 22.5.1998; RE 214.851, Min. Rel. Moreira Alves, DJ de 8.5.1998; RE 217.414,
+Rel. Min. Sepúlveda Pertence, j. 11.12.1998, DJ de 26.3.1999.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                 25
+          www.estrategiaconcursos.com.br                                                               74
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+(MPE-SE - 2023) No que diz respeito a Constituição Federal de 1988, o plano diretor, que contém
+a política de desenvolvimento e de expansão urbana, é obrigatório para municípios com mais de
+quinze mil habitantes.
+
+Comentários:
+
+O plano diretor, aprovado pela Câmara Municipal, é obrigatório para cidades com mais de 20 mil
+habitantes (art. 182, § 1º, CF/88). Questão errada.
+
+(TJ-PE – 2022) João, proprietário de terreno no centro da cidade de Pouso Feliz, subutiliza-o, sem
+edificar ou parcelar, mantendo-o abandonado, com vegetação aleatória, acúmulo de água, entre
+outras situações que deixam claro o não cumprimento do princípio da função social. Nesse caso,
+a melhor conduta a ser tomada é o Município onde está localizado o terreno deverá intimar João
+a edificar, parcelar ou utilizar o bem, sob pena de estipulação de alíquotas progressivas de IPTU.
+
+Comentários:
+
+Conforme o art. 182, § 4º, CF/88, há uma escala progressiva quanto às medidas cabíveis ao
+Poder Público municipal para exigir do proprietário do solo urbano não edificado, subutilizado ou
+não utilizado o seu adequado aproveitamento. Primeiramente cabe ao Município exigir o
+parcelamento ou edificação compulsórios. No caso de não surtir efeito, cabe o IPTU progressivo
+no tempo. Em última medida, é possível a desapropriação com pagamento mediante títulos da
+dívida pública. Questão correta.
+
+(Procurador de Salvador – 2015) A política de desenvolvimento urbano, executada pelo
+município, deve obedecer às diretrizes gerais fixadas em lei nacional, sem prejuízo da
+competência das câmaras municipais para editar o plano diretor do município.
+Comentários:
+É isso mesmo! A política de desenvolvimento urbano é conduzida pelo Município, devendo
+obedecer às diretrizes gerais fixadas em lei nacional. A competência para editar o Plano Diretor é
+das Câmaras Municipais. Questão correta.
+(MPE-SP – 2015) Os imóveis públicos não podem ser adquiridos por usucapião, salvo quando
+não atenderem às exigências fundamentais de ordenação da cidade expressas no plano diretor.
+Comentários:
+Segundo o art. 183, § 3º, “os imóveis públicos não serão adquiridos por usucapião”. Não há
+qualquer ressalva a isso. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           26
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+                              ORDEM ECONÔMICA E FINANCEIRA
+Política agrícola, fundiária e a reforma agrária
+Esse assunto foi resultado de grandes confrontos à época da elaboração da Constituição Federal
+de 1988. De um lado, havia os “sem terra”; do outro, os grandes proprietários de terra (os
+ruralistas). Como resultado, os dispositivos constitucionais que tratam da política agrícola e
+fundiária e da reforma agrária refletem interesses variados.1
+A política agrícola, fundiária e a reforma agrária são tratadas nos arts. 184 a 191 da Carta Magna.
+Em essência, todos esses dispositivos têm como fim último garantir que a propriedade atenda a
+sua função social.
+Para sistematizar o nosso estudo, vamos falar, separadamente, sobre cada um desses três temas:
+i) política agrícola; ii) política fundiária e; iii) reforma agrária.
+a) A política agrícola está intimamente relacionada à política econômica. Trata-se, na verdade, de
+importante vertente desta, buscando orientar as atividades agropecuárias com o objetivo de
+promover o desenvolvimento e o bem-estar da comunidade rural.
+Segundo o art. 187, CF/88, a política agrícola será planejada e executada na forma da lei, com a
+participação efetiva do setor de produção, envolvendo produtores e trabalhadores rurais, bem
+como dos setores de comercialização, de armazenamento e de transportes, levando em conta,
+especialmente:
+          - Os instrumentos creditícios e fiscais;
+          - Os preços compatíveis com os custos de produção e a garantia de comercialização;
+          - O incentivo à pesquisa e à tecnologia;
+          - A assistência técnica e extensão rural;
+          - O seguro agrícola;
+          - O cooperativismo;
+          - A eletrificação rural e irrigação;
+          - A habitação para o trabalhador rural.
+Incluem-se no planejamento agrícola as atividades agroindustriais, agropecuárias, pesqueiras e
+florestais (art. 187, § 1º, CF). Além disso, serão compatibilizadas as ações de política agrícola e de
+reforma agrária (art. 187, § 2º, CF).
+b) A política fundiária, por sua vez, é o que determina o destino das terras públicas e devolutas
+no Brasil. Essa destinação deve ser compatível com a política agrícola e com o plano nacional de
+reforma agrária (art. 188, “caput”, CF). Por terras devolutas entende-se aquelas que, não sendo
+próprias nem aplicadas a algum uso público federal, estadual territorial ou municipal, não se
+incorporaram ao domínio privado (art. 5º, Decreto-Lei 9.760 de 1946). Trata-se de terras
+pertencentes ao Estado brasileiro, mesmo não estando destinadas a nenhum uso público.
+
+1
+    BULOS, Uadi Lammêgo. Curso de Direito Constitucional, 6a edição. Ed. Saraiva. São Paulo: 2011, pp. 1511.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                    27
+           www.estrategiaconcursos.com.br                                                                  74
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+Dispõe a Constituição (art. 188, § 1º, CF) que a alienação ou a concessão, a qualquer título, de
+terras públicas com área superior a 2.500 hectares a pessoa física ou jurídica, ainda que por
+interposta pessoa, dependerá de prévia aprovação do Congresso Nacional. Excetuam-se dessa
+regra (art. 188, § 2º, CF) as alienações ou as concessões de terras públicas para fins de reforma
+agrária.
+Segundo o art. 190, CF/88, a lei regulará e limitará a aquisição ou o arrendamento de
+propriedade rural por pessoa física ou jurídica estrangeira e estabelecerá os casos que
+dependerão de autorização do Congresso Nacional.
+Ainda no que tange à política fundiária, cabe fazer menção à usucapião constitucional rural,
+também denominado usucapião pro labore.
+
+           Art. 191. Aquele que, não sendo proprietário de imóvel rural ou urbano, possua
+           como seu, por cinco anos ininterruptos, sem oposição, área de terra, em zona
+           rural, não superior a cinquenta hectares, tornando-a produtiva por seu trabalho
+                                                            ==219a34==
+
+           ou de sua família, tendo nela sua moradia, adquirir-lhe-á a propriedade.
+           Parágrafo único. Os imóveis públicos não serão adquiridos por usucapião.
+
+Esse instituto é chamado “usucapião pro labore” porque seu título deriva do fato de a área ter
+adquirido produtividade em virtude do trabalho do usucapiente ou de seus familiares. Aplica-se
+exclusivamente às áreas rurais não superiores a 50 hectares.
+Cabe enfatizar que a Carta Magna exige que o beneficiário não seja proprietário nem de imóvel
+rural, nem de imóvel urbano. Busca-se, com isso, que apenas os hipossuficientes sejam
+beneficiados por esse tipo de usucapião. Um importante requisito para que seja usufruída a
+usucapião constitucional rural é a posse da área rural durante 5 (cinco) anos ininterruptos, sem
+oposição. Por fim, os imóveis públicos não podem ser adquiridos por usucapião.
+
+O STF entende ser impenhorável a pequena propriedade rural familiar constituída de mais de 01
+(um) terreno, desde que contínuos e com área total inferior a 04 (quatro) módulos fiscais do
+município de localização2. A título informativo, módulo fiscal é uma unidade de medida, em
+hectares, cujo valor é fixado pelo INCRA para cada município levando-se em conta: (a) o tipo de
+exploração predominante no município (hortifrutigranjeira, cultura permanente, cultura
+temporária, pecuária ou florestal); (b) a renda obtida no tipo de exploração predominante; (c)
+outras explorações existentes no município que, embora não predominantes, sejam expressivas
+em função da renda ou da área utilizada; (d) o conceito de "propriedade familiar". A dimensão
+de um módulo fiscal varia de acordo com o município onde está localizada a propriedade. O
+valor do módulo fiscal no Brasil varia de 5 a 110 hectares3.
+
+2
+    ARE 1038507 (Tema 961). Rel. Min. Edson Fachin, julgamento em 18.12.2020
+3
+    Disponível em: https://www.embrapa.br/codigo-florestal/area-de-reserva-legal-arl/modulo-fiscal
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         28
+           www.estrategiaconcursos.com.br                                                       74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+        Segundo o Superior Tribunal de Justiça (REsp 1.591.298/RJ), a pequena
+        propriedade rural trabalhada pela família não pode ser objeto de penhora para
+        pagamento, mesmo no caso de débitos estranhos à sua atividade produtiva.
+
+
+c) A reforma agrária, a seu turno, é um instrumento da política agrícola e fundiária por meio do
+qual o Estado intervém na economia agrícola a fim de promover a repartição da propriedade
+fundiária. Nesse sentido, o art. 184, CF/88 determina que a União poderá realizar desapropriação
+por interesse social, para fins de reforma agrária, do imóvel rural que não estiver cumprindo a sua
+função social.
+
+        Art. 184. Compete à União desapropriar por interesse social, para fins de reforma
+        agrária, o imóvel rural que não esteja cumprindo sua função social, mediante
+        prévia e justa indenização em títulos da dívida agrária, com cláusula de
+        preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do
+        segundo ano de sua emissão, e cuja utilização será definida em lei.
+        § 1º - As benfeitorias úteis e necessárias serão indenizadas em dinheiro.
+        § 2º - O decreto que declarar o imóvel como de interesse social, para fins de
+        reforma agrária, autoriza a União a propor a ação de desapropriação.
+        § 3º - Cabe à lei complementar estabelecer procedimento contraditório especial,
+        de rito sumário, para o processo judicial de desapropriação.
+        § 4º - O orçamento fixará anualmente o volume total de títulos da dívida agrária,
+        assim como o montante de recursos para atender ao programa de reforma
+        agrária no exercício.
+        § 5º - São isentas de impostos federais, estaduais e municipais as operações de
+        transferência de imóveis desapropriados para fins de reforma agrária.
+
+A desapropriação por interesse social, para fins de reforma agrária, não será feita mediante
+indenização em dinheiro. A indenização ao proprietário será em títulos da dívida agrária, com
+cláusula de preservação do valor real, resgatáveis no prazo de até 20 (vinte) anos, a partir do
+segundo ano de sua emissão, e cuja utilização será definida em lei. Por outro lado, as benfeitorias
+úteis e necessárias feitas no imóvel rural serão indenizadas em dinheiro.
+
+        A desapropriação por interesse social, para fins de reforma agrária, é
+        competência da União. Já a desapropriação de imóvel urbano é competência
+        dos Municípios.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            29
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Conforme comentamos, a desapropriação para fins de reforma agrária ocorrerá quando o imóvel
+rural não estiver cumprindo a sua função social. É aí que vem uma importante pergunta: quando
+é que se considera que a função social foi cumprida?
+A resposta está no art. 186, CF/88. Segundo esse dispositivo, a função social é cumprida quando
+a propriedade rural atende, simultaneamente, segundo critérios e graus de exigência
+estabelecidos em lei, aos seguintes requisitos:
+       - aproveitamento racional e adequado;
+       - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+       - observância das disposições que regulam as relações de trabalho;
+       - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+Uma vez atendidos esses requisitos, a propriedade rural estará cumprindo sua função social e,
+portanto, não poderá ser objeto de desapropriação.
+A Constituição Federal também protegeu outros imóveis rurais da desapropriação. Vejamos o
+art. 185, CF/88:
+
+        Art. 185. São insuscetíveis de desapropriação para fins de reforma agrária:
+        I - a pequena e média propriedade rural, assim definida em lei, desde que seu
+        proprietário não possua outra;
+        II - a propriedade produtiva.
+        Parágrafo único. A lei garantirá tratamento especial à propriedade produtiva e
+        fixará normas para o cumprimento dos requisitos relativos a sua função social.
+
+Note que a pequena e a média propriedade rural são insuscetíveis de desapropriação para fins
+de reforma agrária, desde que o seu proprietário não possua outra. Caso ele possua outra, será
+possível a desapropriação.
+Também é insuscetível de desapropriação para fins de reforma agrária a propriedade produtiva.
+Perceba que o grande foco das desapropriações para reforma agrária são as grandes
+propriedades e as propriedades improdutivas.
+Para fecharmos o estudo deste tema à luz da Constituição Federal, observe o art. 189:
+
+        Art. 189. Os beneficiários da distribuição de imóveis rurais pela reforma agrária
+        receberão títulos de domínio ou de concessão de uso, inegociáveis pelo prazo de
+        dez anos.
+        Parágrafo único. O título de domínio e a concessão de uso serão conferidos ao
+        homem ou à mulher, ou a ambos, independentemente do estado civil, nos
+        termos e condições previstos em lei.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             30
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+(Pref. São Paulo/SP – 2023) Considere que Francisco foi beneficiado com a distribuição de um
+imóvel pela reforma agrária e recebeu o devido título de domínio. Com base na situação
+hipotética e no disposto na Constituição Federal, é correto afirmar que o título de domínio é
+inegociável pelo prazo de dez anos.
+
+Comentários:
+
+Conforme o caput do art. 189 da CF/88, tem-se que as pessoas beneficiárias da distribuição de
+imóveis por reforma agrária não podem negociar os respectivos títulos de domínio ou de
+concessão de uso pelo prazo de 10 anos. Questão correta.
+
+(MPE-PA – 2023) A alienação ou a concessão, a qualquer título, de terras públicas com área
+superior a mil e quinhentos hectares a pessoa física ou jurídica dependerá de prévia aprovação
+do Congresso Nacional.
+
+Comentários:
+
+A alienação ou a concessão, a qualquer título, de terras públicas com área superior a dois mil e
+quinhentos hectares a pessoa física ou jurídica, ainda que por interposta pessoa, dependerá de
+prévia aprovação do Congresso Nacional. Questão errada.
+
+(TRF 1ª Região – 2015) A CF prevê que tanto a desapropriação por interesse social quanto a
+desapropriação por necessidade ou utilidade pública seja feita somente mediante justa e prévia
+indenização em dinheiro.
+Comentários:
+Há casos previstos na CF/88 nos quais a desapropriação não será feita mediante indenização em
+dinheiro. É o caso da desapropriação por interesse social para fins de reforma agrária. Nessa
+situação, a indenização em títulos da dívida agrária. Questão errada.
+(TRT 21ª Região – 2015) A propriedade produtiva é insuscetível de desapropriação, desde que
+seu proprietário não possua outra.
+Comentários:
+As propriedades produtivas são insuscetíveis de desapropriação, sem qualquer ressalva. Questão
+errada.
+(MPE-SP – 2015) A média propriedade rural, assim definida em lei, desde que seu proprietário
+não possua outra, é insuscetível de desapropriação para fins de reforma agrária.
+Comentários:
+Segundo o art. 185, I, CF/88, são insuscetíveis de desapropriação, para fins de reforma agrária, a
+pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não
+possua outra. Questão correta.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           31
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 18
+
+                              ORDEM ECONÔMICA E FINANCEIRA
+Sistema Financeiro Nacional
+A Emenda Constitucional no 40 de 29 de maio de 2003 suprimiu todos os incisos, alíneas e
+parágrafos constantes da redação original do art. 182, CF, mas não lhe alterou o conteúdo de
+maneira substancial. Após a redação dada pela referida emenda, o capítulo da Constituição
+referente ao Sistema Financeiro Nacional passou a se resumir ao seguinte dispositivo:
+
+           Art. 192. O sistema financeiro nacional, estruturado de forma a promover o
+           desenvolvimento equilibrado do País e a servir aos interesses da coletividade, em
+           todas as partes que o compõem, abrangendo as cooperativas de crédito, será
+           regulado por leis complementares que disporão, inclusive, sobre a participação
+           do capital estrangeiro nas instituições que o integram.
+                                                            ==219a34==
+
+A Constituição reserva a leis complementares a disciplina da matéria. Atente para o fato de que
+várias leis complementares poderão dispor sobre a matéria, não havendo restrição a uma só lei.
+
+           A regulação do Seguro Obrigatório de Danos Pessoais causados por Veículos
+           Automotores de Vias Terrestres (DPVAT) e do Seguro Obrigatório de Danos
+           Pessoais Causados por Embarcações ou por sua Carga exige, nos termos do art.
+           192 da Constituição Federal, lei complementar1.
+
+1
+    ADI 6.262 MC, Rel. Min. Edson Fachin, j. 20-12-2019.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        32
+           www.estrategiaconcursos.com.br                                                      74
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+                                    QUESTÕES COMENTADAS
+1.​    (FGV/Câmara Municipal de São Paulo-SP/2024) João e sua família residiam em uma área
+urbana de duzentos e cinquenta metros quadrados situada no Município Beta. Essa situação, que
+já perdurava há cinco anos, sem qualquer oposição, não foi alterada mesmo durante os dois
+meses em que trabalharam como agricultores em sua pequena propriedade rural, já que
+continuaram a pernoitar no imóvel. Apesar de o módulo urbano em Beta ser fixado por lei em
+trezentos metros quadrados, foi reconhecida a aquisição do domínio por usucapião.
+Considerando os balizamentos estabelecidos pela Constituição da República, é correto afirmar,
+em relação à narrativa acima, que
+a) não apresenta qualquer irregularidade.
+b) somente apresenta irregularidade em relação ao tempo de posse.
+c) somente apresenta irregularidade em relação aos requisitos a serem preenchidos pelo
+possuidor.
+d) somente apresenta irregularidades em relação aos requisitos a serem preenchidos pelo
+possuidor e ao tempo de posse.
+e) somente apresenta irregularidades em relação à dimensão do imóvel, que não se ajusta ao
+módulo urbano estabelecido em lei.
+Comentários:
+LETRA A. INCORRETA. De forma alguma! A situação apresenta irregularidade, já que o possuidor
+é proprietário de um imóvel rural, de acordo com o art. 183 da CRFB/88.
+LETRA B. INCORRETA. Na verdade, foi preenchido o tempo de posse, no entanto, João não
+pode adquirir a propriedade do imóvel por usucapião, tendo em vista que já é proprietário de
+outro imóvel (art. 183 da CRFB/88).
+LETRA C. CORRETA. Exatamente! João não preencheu os requisitos para aquisição da
+propriedade, já que é proprietário de outro imóvel, de acordo com o art. 183 da CRFB/88:
+Art. 183. Aquele que possuir como sua área urbana de até duzentos e cinquenta metros
+quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou
+de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano
+ou rural.
+LETRA D. INCORRETA. O tempo de posse foi atingido para requerer a usucapião, no entanto,
+João já é proprietário de outro imóvel.
+LETRA E. INCORRETA. A dimensão do imóvel se enquadra com a estabelecida pela Constituição,
+de acordo com o art. 183 da CRFB/88.
+Gabarito: Letra C.
+
+
+2.​   (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo/Consultor Legislativo –
+Reaplicação/2024) Foi detectado pelo órgão competente da União que, em determinada região
+do país, existiam grandes faixas de terras pertencentes ao Poder Público, não afetadas a uma
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         33
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+finalidade específica, mas que se encontravam irregularmente na posse de particulares. Em razão
+dessa constatação, foram iniciados debates em relação à possível vinculação dessas terras à
+política agrícola. Considerando a sistemática constitucional afeta a essa temática, é correto
+afirmar que
+a) a destinação dessas terras deve ser compatibilizada com a política agrícola.
+b) somente terras devolutas, o que não é o caso, devem ser vinculadas à política agrícola.
+c) essas terras, por determinação constitucional, já são destinadas ao assento de colonos.
+d) terras dessa natureza devem ser direcionadas apenas à política nacional de reforma agrária.
+e) somente após a desapropriação do domínio útil dessas terras é que serão direcionadas à
+política agrícola.
+Comentários:
+LETRA A. CORRETA. De cara, temos o nosso gabarito! A nossa Constituição determina que a
+destinação de terras públicas e devolutas será compatibilizada tanto com a política agrícola como
+com o plano nacional de reforma agrária, de acordo com o art. 188 da CRFB/88: “A destinação
+de terras públicas e devolutas será compatibilizada com a política agrícola e com o plano
+nacional de reforma agrária”.
+LETRA B. INCORRETA. Além das terras devolutas, as terras públicas também devem ser
+vinculadas à política agrícola, de acordo com o art. 188 da CRFB/88.
+LETRA C. INCORRETA. Claro que não! A Constituição Federal não prevê a destinação automática
+dessas terras ao assento de colonos
+LETRA D. INCORRETA. Na verdade, a Carta Magna possibilita a compatibilização com a política
+agrícola, de forma geral, não fazendo restrições, consoante art. 188 da CRFB/88.
+LETRA E. INCORRETA. Não é necessário a desapropriação de terras para a destinação dessas
+terras à política agrícola, conforme art. 188 da CRFB/88.
+Gabarito: Letra A.
+
+
+3.​    (FGV/TJ-AP/2024) Maria, estudiosa do direito, realizou alentada análise a respeito da
+concepção de anterioridade na Constituição da República. Ao fim de suas reflexões, concluiu
+que: (1) a vedação à cobrança de tributos em relação aos fatos geradores anteriores ao início da
+vigência da lei não afasta a possibilidade de a contribuição de melhoria alcançar as obras
+iniciadas em momento anterior, mas no decorrer do mesmo exercício financeiro; (2) não há
+exceções à vedação de cobrança de tributos no mesmo exercício financeiro em que haja sido
+publicada a lei que os instituiu; e (3) a anterioridade nonagesimal não se aplica ao imposto sobre
+operações de crédito, câmbio e seguro, relativas a títulos ou valores mobiliários.
+Ao analisar a compatibilidade das conclusões de Maria com a Constituição da República, Joana
+depreendeu, corretamente, que:
+a) apenas as conclusões 1 e 2 estão certas;
+b) apenas as conclusões 1 e 3 estão certas;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             34
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 18
+
+c) apenas a conclusão 2 está certa;
+d) apenas a conclusão 3 está certa;
+e) todas estão certas.
+Comentários:
+A questão trata sobre os princípios constitucionais que norteiam o Sistema Tributário Brasileiro,
+notadamente sobre o princípio da anterioridade.
+Para um estudo mais dinâmico vamos analisar cada afirmativa separadamente.
+(1) a vedação à cobrança de tributos em relação aos fatos geradores anteriores ao início da
+vigência da lei não afasta a possibilidade de a contribuição de melhoria alcançar as obras
+iniciadas em momento anterior, mas no decorrer do mesmo exercício financeiro
+O entendimento de Maria está incorreto, porque a Constituição determina que não é possível
+cobrar tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que
+houver instituído ou aumentado, vejamos:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+(...)
+III - cobrar tributos:
+a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver
+instituído ou aumentado.
+A jurisprudência e a legislação tributária reconhecem algumas situações em que a retroatividade
+é permitida, desde que isso seja expresso e justificado, não é o caso. Portanto, a afirmativa
+número 1 está ERRADA.
+(2) não há exceções à vedação de cobrança de tributos no mesmo exercício financeiro em que
+haja sido publicada a lei que os instituiu.
+A segunda conclusão feita por Maria também está errada, porque o princípio da anterioridade
+admite exceção. É possível cobrar tributos no mesmo exercício financeiro em que haja sido
+publicada a lei que o instituiu ou aumentou, conforme dispõe o art. 150, inciso III, alínea b, §1º:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
+§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e
+V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I,
+II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e
+156, I.
+Assim, a afirmativa número 02 está ERRADA.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                  35
+         www.estrategiaconcursos.com.br                                                                74
+
+                                       
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 18
+
+(3) a anterioridade nonagesimal não se aplica ao imposto sobre operações de crédito, câmbio e
+seguro, relativas a títulos ou valores mobiliários.
+A terceira afirmativa feita por Maria está correta! Os referidos impostos não se sujeitam ao
+princípio da anterioridade nonagesimal, uma vez que têm como objetivo intervir ou regular a
+situação econômica, isto é, exige-se imediatismo. Nesse sentido, confira o texto constitucional:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou
+aumentou, observado o disposto na alínea b;
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou
+aumentou, observado o disposto na alínea b;
+§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e
+V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I,
+II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e
+156, I.
+ Art. 153. Compete à União instituir impostos sobre:
+V - operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários.
+Portanto, a afirmativa número 03 está CERTA.
+Logo, podemos identificar que o nosso gabarito é a LETRA D!
+(...)
+LETRA A. INCORRETA. As afirmativas 01 e 02 estão em desacordo com a Constituição, sendo
+correta apenas a afirmativa 03.
+LETRA B. INCORRETA. A afirmativa 01 não se coaduna com a Constituição Federal, está correta
+apenas a afirmativa 03.
+LETRA C. INCORRETA. A afirmativa 02 feita por Maria está em desacordo com a Constituição.
+Apenas a afirmativa 03 está correta.
+LETRA D. CORRETA. De fato, apenas a afirmativa 03 feita por Maria está correta, uma vez que o
+imposto sobre operações de crédito, câmbio e seguro, relativas a títulos ou valores mobiliários,
+não se submete à anterioridade nonagesimal.
+A terceira afirmativa feita por Maria está correta! Os referidos impostos não se sujeitam ao
+princípio da anterioridade nonagesimal, uma vez que têm como objetivo intervir ou regular a
+situação econômica, isto é, exige-se imediatismo. Nesse sentido, confira o texto constitucional:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou
+aumentou, observado o disposto na alínea b;
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                  36
+         www.estrategiaconcursos.com.br                                                                74
+
+                                       
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 18
+
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou
+aumentou, observado o disposto na alínea b;
+§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e
+V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I,
+II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e
+156, I.
+ Art. 153. Compete à União instituir impostos sobre:
+V - operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários.
+LETRA E. INCORRETA. As afirmativas 01 e 02 feitas por Maria estão em desacordo com a
+Constituição, sendo correta apenas a afirmativa 03.
+Sobre a conclusão 1: O entendimento de Maria está incorreto porque, a constituição determina
+que não é possível cobrar tributos em relação a fatos geradores ocorridos antes do início da
+vigência da lei que houver instituído ou aumentado, vejamos:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+(...)
+III - cobrar tributos:
+a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver
+instituído ou aumentado;
+A jurisprudência e a legislação tributária reconhecem algumas situações em que a retroatividade
+é permitida, desde que isso seja expresso e justificado, não é o caso. Portanto, a afirmativa
+número 1 está ERRADA.
+Sobre a conclusão 2: A segunda conclusão feita por Maria também está errada, porque o
+princípio da anterioridade admite exceção. É possível cobrar tributos no mesmo exercício
+financeiro em que haja sido publicada a lei que o instituiu ou aumentou, conforme dispõe o art.
+150, inciso III, alínea b, §1º:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
+
+
+§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts. 148, I, 153, I, II, IV e
+V; e 154, II; e a vedação do inciso III, c, não se aplica aos tributos previstos nos arts. 148, I, 153, I,
+II, III e V; e 154, II, nem à fixação da base de cálculo dos impostos previstos nos arts. 155, III, e
+156, I.
+Assim, a afirmativa número 02 está ERRADA.
+Gabarito: Letra D.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                  37
+         www.estrategiaconcursos.com.br                                                                74
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+4.​   (FGV/TRF 1ª Região/2023) Joana recebeu autorização de pesquisa do órgão competente,
+tendo por objeto uma jazida de recursos minerais encontrada no subsolo da propriedade de
+João. Irresignado com o que considerava uma indevida ingerência sobre a sua esfera jurídica,
+João procurou se inteirar a respeito da juridicidade dessa autorização.
+Ao final de suas reflexões, João concluiu, corretamente, que:
+a) a autorização poderia ter sido concedida, sendo imperativo que isso tenha ocorrido por prazo
+determinado;
+b) a autorização somente poderia ser concedida a Joana se fosse demonstrada a inexistência de
+órgão público capaz de realizar a pesquisa;
+c) a autorização poderia ter sido concedida, observada a imperatividade de que isso tenha
+ocorrido em caráter precário, sem prazo fixo;
+d) como a propriedade do subsolo é da União, esse ente federativo poderia celebrar ajustes com
+                                                         ==219a34==
+
+terceiros tendo-a como objeto, mas apenas para fins de exploração;
+e) a autorização pode ser transferida a terceiros, conforme ajuste celebrado por Joana, que não
+carece de aprovação da União, sendo imperativa a observância dos termos da autorização
+original.
+Comentários:
+LETRA A. CORRETA. É o nosso gabarito! As jazidas são de propriedade da União e para sua
+exploração é necessário a autorização desse Ente Federado. Assim, a pesquisa deve ser feita
+dentro do prazo determinado, consoante art. 176, §§ 1ºe 3º da CRFB/88:
+Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de energia
+hidráulica constituem propriedade distinta da do solo, para efeito de exploração ou
+aproveitamento, e pertencem à União, garantida ao concessionário a propriedade do produto da
+lavra.
+§ 1º A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere
+o "caput" deste artigo somente poderão ser efetuados mediante autorização ou concessão da
+União, no interesse nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que
+tenha sua sede e administração no País, na forma da lei, que estabelecerá as condições
+específicas quando essas atividades se desenvolverem em faixa de fronteira ou terras indígenas.
+§ 3º A autorização de pesquisa será sempre por prazo determinado, e as autorizações e
+concessões previstas neste artigo não poderão ser cedidas ou transferidas, total ou parcialmente,
+sem prévia anuência do poder concedente.
+LETRA B. INCORRETA. Nada a ver! A Carta Magna não exige que seja demonstrada a
+inexistência de órgão público capacitado para realizar tal pesquisa (art. 176, § 1º da CRFB/88).
+LETRA C. INCORRETA. Não, pessoal! A autorização de pesquisa deve ser sempre por prazo
+determinado, de acordo com o art. 173, § 3º da CRFB/88.
+LETRA D. INCORRETA. Nada a ver! A Constituição determina que os ajustes podem ser feitos
+tanto para a exploração, bem como para aproveitamento, de acordo com o art. 176 da CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           38
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+LETRA E. INCORRETA. Na verdade, as autorizações e concessões podem ser concedidas, total
+ou parcialmente, desde que haja anuência prévia do poder concedente (art. 176, § 3º da
+CRFB/88).
+Gabarito: Letra A.
+
+
+5.​   (FGV/ISS-RJ/Fiscal de Rendas/2023) O prefeito do Município Beta, após a adoção dos
+procedimentos necessários, almejava criar duas empresas públicas, sendo uma delas destinada a
+desempenhar atividade econômica em sentido amplo, e a outra, a desempenhar atividade
+econômica em sentido estrito.
+Ao questionar sua assessoria a respeito dessa possibilidade, foi-lhe corretamente respondido
+que a atividade econômica em sentido:
+a) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá os mesmos direitos e obrigações das
+empresas privadas;
+b) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da primeira, terá direitos e obrigações diferenciados
+em relação às empresas privadas;
+c) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá direitos e obrigações diferenciados em
+relação às empresas privadas;
+d) amplo é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido estrito, tendo os mesmos direitos e obrigações
+que as empresas privadas;
+e) estrito é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido amplo, tendo direitos e obrigações diferenciados
+em relação às empresas privadas.
+Comentários:
+LETRA A. INCORRETA. No sentido mais abrangente, quando as Empresas Públicas (EP) e
+Sociedades de Economia Mista (SEM) prestam serviços públicos, elas podem ter direitos e
+obrigações distintos daqueles aplicados a entidades privadas. Contudo, em um sentido estrito, a
+atuação das EP e SEM é restrita a situações que envolvam imperativos da segurança nacional ou
+de relevante interesse coletivo, conforme estabelecido pela Constituição Federal. Nessas
+situações específicas, o próprio artigo 173, em seu § 2º, determina que essas empresas não
+poderão usufruir de privilégios fiscais que não se estendam também ao setor privado.
+LETRA B. INCORRETA. Claro que não! As empresas públicas e SEM quando exercem atividades
+econômicas em sentido estrito, não possuem privilégios fiscais não extensivos às do setor
+privado, conforme art.173, §2 da CRFB/88: “As empresas públicas e as sociedades de economia
+mista não poderão gozar de privilégios fiscais não extensivos às do setor privado”.
+LETRA C. CORRETA. Exatamente! As atividades econômicas em sentido estrito, bem como as em
+sentido amplo, podem ser desempenhadas por empresa pública, sendo que, no exercício da
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        39
+        www.estrategiaconcursos.com.br                                                      74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+última, terá direitos e obrigações diferenciados em relação às empresas privadas, de acordo com
+o art. 173, §2 da CRFB/88:
+§ 2º As empresas públicas e as sociedades de economia mista não poderão gozar de privilégios
+fiscais não extensivos às do setor privado.
+LETRA D. INCORRETA. Pessoal, não esqueçam! A atividade econômica exercida em sentido
+amplo não é privativa de particulares.
+LETRA E. INCORRETA. A Constituição possibilita que as EP e SEM possam exercer atividade
+econômica em sentido estrito, apenas na hipótese de imperativos da segurança nacional, ou no
+caso de relevante interesse objetivo, consoante art. 173 da CRFB/88.
+Gabarito: Letra C.
+
+
+6.​    (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) Diplomatas brasileiros
+recebem, em Brasília, uma comitiva de políticos e empresários alemães, buscando ampliar a
+relação comercial bilateral entre os países, de forma a gerar externalidades positivas recíprocas.
+Nesse contexto, os parlamentares europeus realizam diversos questionamentos ao corpo
+diplomático pátrio sobre a ordem econômica no Brasil, em especial no que atina à intervenção
+do Estado no âmbito desta.
+Nesse cenário, considerando as disposições da Constituição Federal, caracteriza-se como um
+fundamento da ordem econômica a
+a) redução das desigualdades regionais e sociais.
+b) função social da propriedade.
+c) busca do pleno emprego.
+d) soberania nacional.
+e) livre iniciativa.
+Comentários:
+LETRA A. INCORRETA. Na verdade, a redução das desigualdades regionais e sociais são
+objetivos fundamentais da República Federativa, conforme art. 3º, inciso III da CRFB/88:
+”erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais”.
+LETRA B. INCORRETA. A função social da propriedade é um dos princípios da ordem econômica,
+conforme art. 170, inciso III da CRFB/88.
+LETRA C. INCORRETA. A busca do pleno emprego é um princípio norteador da ordem
+econômica, de acordo com o art. 170, inciso VIII da CRFB/88.
+LETRA D. INCORRETA. A soberania nacional é um fundamento da República Federativa, de
+acordo com o art. 1, inciso I da CRFB/88.
+LETRA E. CORRETA. É o nosso gabarito! A ordem econômica tem como fundamento a livre
+iniciativa, consoante art. 170 da CRFB/88:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           40
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa,
+tem por fim assegurar a todos existência digna, conforme os ditames da justiça social,
+observados os seguintes princípios:
+Gabarito: Letra E.
+
+
+7.​    (FGV/CÂMARA DOS DEPUTADOS/2023) João, Deputado Federal, solicitou que sua
+assessoria realizasse um estudo a respeito da possibilidade de ser apresentada uma proposição
+legislativa disciplinando a sistemática de permissão para a comercialização de minérios, minerais
+nucleares e derivados.
+Ao fim da análise, a assessoria de João concluiu corretamente que
+a) as atividades descritas por João são livres à iniciativa privada, mas estão sujeitas à fiscalização
+da União.
+b) como a exploração dessas atividades constitui monopólio da União, o objetivo alvitrado por
+João não pode ser alcançado.
+c) o objetivo alvitrado por João somente pode ser alcançado em relação aos radioisótopos, nas
+circunstâncias Indicadas pela ordem constitucional.
+d) a permissão somente é necessária em relação à comercialização dos minerais nucleares, por
+se tratar de atividade outorgada à União.
+e) a permissão alvitrada por João somente é possível em relação aos minerais, não quanto aos
+minerais nucleares, que caracterizam monopólio da União.
+Comentários:
+LETRA A. INCORRETA. Na verdade, a Constituição instituiu monopólio da União para exploração
+e comercialização de materiais nucleares e seus derivados, assim tal atividade não é de iniciativa
+privada, conforme art. 177 inciso V da CRFB/88:
+V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de
+minérios e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção,
+comercialização e utilização poderão ser autorizadas sob regime de permissão, conforme as
+alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal.
+LETRA B. INCORRETA. Apesar de ser monopólio da União, a Constituição permite a
+comercialização apenas de radioisótopos para fins de pesquisa e uso médico, de acordo com o
+art. 21, inciso XXIII, alínea “c” da CRFB/88:
+c) sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de
+radioisótopos para pesquisa e uso médicos
+LETRA C. CORRETA. É o nosso gabarito! A Constituição apenas permite a comercialização de
+radioisótopos para fins de pesquisa e uso médico, conforme art. 21, inciso XXIII, alínea “c” da
+CRFB/88:
+c) sob regime de permissão, são autorizadas a produção, a comercialização e a utilização de
+radioisótopos para pesquisa e uso médicos
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               41
+        www.estrategiaconcursos.com.br                                                             74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+LETRA D. INCORRETA. A permissão (ou melhor, a autorização, concessão ou permissão,
+conforme o Art. 177) é necessária para toda a cadeia de atividades relacionadas a materiais
+nucleares e seus derivados, não apenas para a comercialização. E o ponto crucial é que é um
+monopólio da União, não algo que a União "outorga" no sentido de permitir a qualquer
+particular.
+LETRA E. INCORRETA. Embora os minerais nucleares sejam monopólio da União, a exploração
+de outros minérios também possui regras específicas. O Art. 176 da CRFB/88 estabelece que a
+pesquisa e lavra de jazidas em minas e outras explorações *pertencem à União, mas podem ser
+realizadas por brasileiros ou por empresa constituída sob leis brasileiras, com sede e
+administração no País, e que explore o recurso mediante autorização, concessão ou permissão.
+§ 1º A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere
+o "caput" deste artigo somente poderão ser efetuados mediante autorização ou concessão da
+União, no interesse nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que
+tenha sua sede e administração no País, na forma da lei, que estabelecerá as condições
+específicas quando essas atividades se desenvolverem em faixa de fronteira ou terras indígenas.
+Gabarito: Letra C.
+
+
+8.​     (FGV/Câmara dos Deputados/Consultor Legislativo/2023) A Constituição Federal de 1988
+consagrou como direito fundamental a propriedade privada, porém, condicionou-o à função
+social. Acerca da função social da propriedade rural assinale a afirmativa correta.
+a) A propriedade rural cumpre a sua função social quando atende ao aproveitamento racional e
+adequado do solo, bem como ao uso adequado dos recursos naturais disponíveis e à
+preservação do meio ambiente.
+b) O descumprimento da função social da propriedade rural ocasiona a desapropriação agrária
+com prévia e justa indenização em dinheiro.
+c) A grande propriedade rural produtiva não pode ser objeto de desapropriação agrária, mas se
+sujeita a desapropriação por interesse social, podendo ser destinada ao trabalho agrícola.
+d) A função social da propriedade rural incide também em imóvel público, que poderá ser
+adquirido por usucapião pelo proprietário que ocupá-lo tornando-a produtiva.
+e) Cabe desapropriação para fins de reforma agrária da média propriedade desde que seu
+proprietário, ainda que não possua outra, não cumprir sua função social.
+Comentários:
+LETRA A. INCORRETA. Está incorreta diante da falta de alguns requisitos! Confira a previsão do
+art. 186 da CRFB/88:
+Art. 186. A função social é cumprida quando a propriedade rural atende, simultaneamente,
+segundo critérios e graus de exigência estabelecidos em lei, aos seguintes requisitos:
+I - aproveitamento racional e adequado;
+II - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+III - observância das disposições que regulam as relações de trabalho;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           42
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+Perceba que os requisitos dos incisos III e IV não foram mencionados. Conforme o caput do art.
+186, os requisitos devem ser cumpridos SIMULTANEAMENTE!
+LETRA B. INCORRETA. A indenização não é prévia, justa e em dinheiro. Conforme o art. 184 da
+CRFB/88, a indenização é PRÉVIA, JUSTA e EM TÍTULOS DA DÍVIDA AGRÁRIA.
+LETRA C. CORRETA. Conforme o art. 185, inciso II da CRFB/88, a propriedade produtiva é
+insuscetível de desapropriação para fins de reforma agrária. Não há impedimento para
+desapropriação por interesse social e destinação ao trabalho agrícola.
+LETRA D. INCORRETA. Nos termos do art. 191, parágrafo único da CRFB/88, os imóveis públicos
+não serão adquiridos por usucapião.
+ LETRA E. INCORRETA. Segundo o art. 185, inciso I da CRFB/88, a média propriedade rural,
+assim definida em lei, desde que seu proprietário não possua outra é insuscetível de
+desapropriação para fins de reforma agrária.
+Gabarito: Letra C.
+
+
+9.​   (FGV/ISS-RJ/Fiscal de Rendas/2023) De modo a tutelar a função social da propriedade
+urbana, a Constituição da República de 1988, em seu Art. 182, §4º, prevê a possibilidade de
+cobrança de IPTU progressivo no tempo. São requisitos para a instituição dessa cobrança
+progressiva no tempo, EXCETO:
+A) deve-se atender ao previsto no Estatuto da Cidade;
+B) a previsão em lei complementar específica do Município da cobrança progressiva do IPTU no
+tempo;
+C) a área sobre a qual recairá a cobrança progressiva do IPTU no tempo deve estar incluída no
+plano diretor;
+D) é necessário que o proprietário do solo urbano não tenha edificado ou esteja subutilizando ou
+não utilizando seu imóvel;
+E) é necessária a prévia notificação do proprietário para parcelamento ou edificação compulsórios
+de seu imóvel.
+Comentários:
+Letra A. INCORRETA. Nos termos do art. 1º da Lei 10.257/2001 (Estatuto da Cidade), na
+execução da política urbana (arts. 182 e 183 da Constituição Federal) será aplicado o previsto
+nesta Lei.
+Letra B. CORRETA. Opa, aqui temos o erro!! Achamos a resposta! Não há necessidade de lei
+complementar específica do Município da cobrança progressiva do IPTU no tempo, nos termos
+do art. 182, §4º, II da CRFB/88, vejamos:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          43
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra C. INCORRETA. Realmente a área sobre a qual recairá a cobrança progressiva do IPTU no
+tempo deve estar incluída no plano diretor, vejamos o art. 182, §4º, II da CRFB/88:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra D. INCORRETA. É a previsão do art. 182, §4º, II da CRFB/88, confira:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra E. INCORRETA. Segundo o art. 5º, §2º da Lei 10.257/2001, o proprietário será notificado
+pelo Poder Executivo municipal para o cumprimento da obrigação, devendo a notificação ser
+averbada no cartório de registro de imóveis.
+Gabarito: Letra B.
+
+
+10.​ (FGV/CGE-SC/2023) Determinado diploma normativo editado pela União dispôs que era
+vedada a adesão, a certo regime tributário diferenciado, pela microempresa e pela empresa de
+pequeno porte que possuíssem débito com as Fazendas Públicas Federal, Estadual ou Municipal.
+Irresignado com o teor desse diploma normativo, o Partido Político Alfa, que defendia, como
+principal ideologia, o liberalismo econômico, consultou um advogado a respeito de sua
+compatibilidade com os princípios gerais da atividade econômica consagrados na Constituição
+da República de 1988. O advogado respondeu corretamente a Alfa que a parte do diploma
+normativo descrita na narrativa é
+A) inconstitucional, pois configura verdadeira “sanção política”, tratando-se de meio indireto de
+cobrança de tributos que afronta a igualdade que deve caracterizar a exploração da atividade
+econômica.
+B) inconstitucional, pois é ilícita a imposição de qualquer restrição ou condicionamento ao
+exercício da atividade econômica, além daquelas expressamente previstas na ordem
+constitucional.
+C) inconstitucional, pois a ordem constitucional assegura o tratamento diferenciado das empresas
+de pequeno porte que tenham sua sede e administração no País, as quais devem ser excluídas
+do alcance do diploma normativo.
+D) constitucional, pois o exercício da atividade econômica por operadores privados sempre
+pressupõe autorização do Poder Público, logo, não há óbice em restringir benefícios ao seu
+exercício nas hipóteses de afronta à juridicidade.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          44
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+E) constitucional, pois, longe de afrontar a livre concorrência, impede que pessoas jurídicas que
+infrinjam as leis fiscais possam se beneficiar de um regime tributário diferenciado, o que lhes
+daria melhores condições de atuar no mercado.
+Comentários:
+Letra A. INCORRETA.O diploma normativo é constitucional, pois não configura “sanção
+política”imposta ao contribuinte. A lei traz requisitos mínimos a serem cumpridos para que
+microempresa e empresa de pequeno porte possam participar de um regime tributário
+diferenciado.
+Letra B. INCORRETA. O diploma normativo é constitucional, pois não há imposição de qualquer
+restrição ou condicionamento ao exercício da atividade econômica.
+Letra C. INCORRETA. O diploma normativo é constitucional, pois não viola o art. 170 IX da
+CF/88 que prevê tratamento diferenciado das empresas de pequeno porte que tenham sua sede
+e administração no País. A lei apenas traz requisitos mínimos a serem cumpridos para que
+microempresa e empresa de pequeno porte possam participar de um regime tributário
+diferenciado, que está em conformidade com o entendimento jurisprudencial.
+Letra D. INCORRETA. O diploma normativo é constitucional, mas o exercício da atividade
+econômica por operadores privados não pressupõe autorização do Poder Público, logo. O
+parágrafo único do art. 170 da CF/88 determina que: "é assegurado a todos o livre exercício de
+qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo
+nos casos previstos em lei".
+Letra E. CORRETA. O diploma normativo é constitucional, pois, longe de afrontar a livre
+concorrência, impede que pessoas jurídicas que infrinjam as leis fiscais possam se beneficiar de
+um regime tributário diferenciado, o que lhes daria melhores condições de atuar no mercado.
+Gabarito: Letra E
+
+
+11.​ (FGV/TCE-BA/2023) Há pouco mais de seis anos, Maria tinha a posse mansa e pacífica de
+parte de um imóvel urbano, localizado no Município X, no qual o módulo urbano mínimo fora
+fixado em 300 m2. O imóvel tinha uma área total de 1.000 m2 e a parte ocupada por Maria era
+de 250 m2. Como esse era o seu único imóvel, no qual residia com seus filhos e netos, tinha a
+especial preocupação de continuar no local. Com esse objetivo, procurou um advogado e o
+questionou sobre ter, ou não, preenchido os requisitos para a aquisição originária da
+propriedade, da parte que ocupava do imóvel, por meio de usucapião especial, conforme
+previsão constitucional.
+O advogado respondeu, corretamente, que:
+a) Maria preencheu os requisitos exigidos, não havendo nenhum óbice ao reconhecimento da
+usucapião;
+b) o requisito concernente ao tempo mínimo de posse ininterrupta e sem oposição não foi
+preenchido;
+c) o requisito concernente à área máxima do imóvel não foi preenchido, pois a parte ocupada por
+Maria ultrapassa 200 m2;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          45
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+d) Maria deve requerer a usucapião da integralidade do imóvel, o que lhe será deferido em razão
+do módulo urbano mínimo fixado no Município X;
+e) a área ocupada por Maria não atende ao módulo urbano mínimo fixado pelo Município X, o
+que impede a aquisição originária da propriedade dessa área.
+Comentários:
+LETRA A. CORRETA. Realmente Maria preencheu os requisitos dispostos no art. 183 da CRFB/88.
+Assim, pode ser reconhecida a usucapião especial urbana:
+Art. 183. Aquele que possuir como sua área urbana de até duzentos e cinquenta metros
+quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou
+de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano
+ou rural.
+LETRA B. INCORRETA. Pegadinha. O tempo mínimo (5 anos) foi atendido!
+LETRA C. INCORRETA. A área máxima deve ser de 250m². Portanto, o requisito foi atendido!
+LETRA D. INCORRETA. Maria deve se restringir aos 250m² que ocupa.
+LETRA E. INCORRETA. Segundo o STJ, o fato de o imóvel não atender ao mínimo dos módulos
+urbanos exigidos pela legislação municipal para a respectiva área não é motivo suficiente para se
+negar usucapião (STJ, RESP 1667842).
+Gabarito: Letra A.
+
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023) A Constituição Federal de 1988 consagrou como
+direito fundamental a propriedade privada, porém, condicionou-o à função social. Acerca da
+função social da propriedade rural assinale a afirmativa correta.
+a) A propriedade rural cumpre a sua função social quando atende ao aproveitamento racional e
+adequado do solo, bem como ao uso adequado dos recursos naturais disponíveis e à
+preservação do meio ambiente.
+b) O descumprimento da função social da propriedade rural ocasiona a desapropriação agrária
+com prévia e justa indenização em dinheiro.
+c) A grande propriedade rural produtiva não pode ser objeto de desapropriação agrária, mas se
+sujeita a desapropriação por interesse social, podendo ser destinada ao trabalho agrícola.
+d) A função social da propriedade rural incide também em imóvel público, que poderá ser
+adquirido por usucapião pelo proprietário que ocupá-lo tornando-a produtiva.
+e) Cabe desapropriação para fins de reforma agrária da média propriedade desde que seu
+proprietário, ainda que não possua outra, não cumprir sua função social.
+Comentários:
+LETRA A. INCORRETA. Está incorreta diante da falta de alguns requisitos! Confira a previsão do
+art. 186 da CRFB/88:
+Art. 186. A função social é cumprida quando a propriedade rural atende, simultaneamente,
+segundo critérios e graus de exigência estabelecidos em lei, aos seguintes requisitos:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          46
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+I - aproveitamento racional e adequado;
+II - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+III - observância das disposições que regulam as relações de trabalho;
+IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+Perceba que os requisitos dos incisos III e IV não foram mencionados. Conforme o caput do art.
+186, os requisitos devem ser cumpridos SIMULTANEAMENTE!
+LETRA B. INCORRETA. A indenização não é prévia, justa e em dinheiro. Conforme o art. 184 da
+CRFB/88, a indenização é PRÉVIA, JUSTA e EM TÍTULOS DA DÍVIDA AGRÁRIA.
+LETRA C. CORRETA. É o nosso gabarito! Conforme o art. 185, inciso II da CRFB/88, a
+propriedade produtiva é insuscetível de desapropriação para fins de reforma agrária. Não há
+impedimento para desapropriação por interesse social e destinação ao trabalho agrícola.
+LETRA D. INCORRETA. Nos termos do art. 191, parágrafo único da CRFB/88, os imóveis públicos
+não serão adquiridos por usucapião.
+ LETRA E. INCORRETA. Segundo o art. 185, inciso I da CRFB/88, a média propriedade rural,
+assim definida em lei, desde que seu proprietário não possua outra é insuscetível de
+desapropriação para fins de reforma agrária.
+Gabarito: Letra C.
+
+
+13.​ (FGV/ISS-RJ/2023) O prefeito do Município Beta, após a adoção dos procedimentos
+necessários, almejava criar duas empresas públicas, sendo uma delas destinada a desempenhar
+atividade econômica em sentido amplo, e a outra, a desempenhar atividade econômica em
+sentido estrito.
+Ao questionar sua assessoria a respeito dessa possibilidade, foi-lhe corretamente respondido
+que a atividade econômica em sentido:
+a) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá os mesmos direitos e obrigações das
+empresas privadas;
+b) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da primeira, terá direitos e obrigações diferenciados
+em relação às empresas privadas;
+c) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá direitos e obrigações diferenciados em
+relação às empresas privadas;
+d) amplo é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido estrito, tendo os mesmos direitos e obrigações
+que as empresas privadas;
+e) estrito é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido amplo, tendo direitos e obrigações diferenciados
+em relação às empresas privadas.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         47
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Comentários:
+Letra A. INCORRETA. Cuidado! Não terá os mesmos direitos e obrigações das empresas
+privadas. A atividade econômica em sentido amplo pode ser desempenhada por empresa
+pública e terá direitos e obrigações diferenciados em relação às empresas privadas.
+Letra B. INCORRETA. É errado dizer que, ao realizar a atividade econômica em sentido estrito,
+terá direitos e obrigações diferenciados em relação às empresas privadas. Em verdade, não
+poderão gozar de privilégios fiscais não extensivos às do setor privado, conforme art. 173, § 2º
+da CRFB/88.
+Letra C. CORRETA. É o nosso gabarito!!!! A atividade econômica em sentido estrito, bem como a
+atividade econômica em sentido amplo pode ser desempenhada por empresa pública, sendo
+que, no exercício desta última (sentido amplo), terá direitos e obrigações diferenciados em
+relação às empresas privadas. Em sentido estrito, não poderão gozar de privilégios fiscais não
+extensivos às do setor privado, nos termos do art. 173, § 2º da Constituição Federal.
+Letra D. INCORRETA. A alternativa está errada, pois a atividade econômica em sentido amplo
+não é privativa de particulares. Pode ser desempenhada por empresa pública. Olha a maldade da
+FGV!
+Letra E. INCORRETA. As Empresas Públicas e Sociedades de Economia Mista podem exercer
+atividade econômica em sentido estrito nos casos de imperativos da segurança nacional ou a
+relevante interesse coletivo, conforme o art. 173 da CRFB/88:
+Art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade
+econômica pelo Estado só será permitida quando necessária aos imperativos da segurança
+nacional ou a relevante interesse coletivo, conforme definidos em lei.
+Gabarito: Letra C.
+
+
+14.​ (FGV/SEFAZ-MG/2023) Inês e Ana pretendiam implementar uma atividade econômica
+inovadora em determinada área de serviços, que consistia na conjugação de apoio tecnológico e
+transferência pontual e casuística de know-how, de modo que o próprio cliente seria orientado a
+realizar as atividades necessárias, o que reduziria consideravelmente os custos do serviço. Apesar
+disso, tomaram conhecimento de que essa atividade ainda não fora disciplinada no âmbito do
+Município Alfa, em cuja esfera territorial seria situada a sede da sociedade empresária a ser
+criada.
+Considerando que todas as suas iniciativas estavam estritamente vinculadas à juridicidade,
+decidiram consultar o seu advogado, o qual lhes respondeu corretamente que a falta de
+regulamentação da atividade econômica pelo Município Alfa:
+A) impede a sua exploração, por se tratar de verdadeiro serviço público.
+B) não impede a sua exploração, o que decorre do princípio da livre iniciativa.
+C) impede a sua exploração, considerando a impossibilidade de serem protegidos os interesses
+do consumidor.
+D) impede a sua exploração, pois a atividade econômica deve ser sempre regida pelo princípio
+da legalidade estrita.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           48
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+E) não impede a sua exploração, pois o exercício de atividade econômica, por força do princípio
+da livre concorrência, jamais pode ser restringido pela lei.
+Comentários:
+Letra A. INCORRETA. O enunciado trata da exploração de uma atividade econômica. E de
+acordo com o parágrafo único do art. 170 da CF/88: "é assegurado a todos o livre exercício de
+qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos
+casos previstos em lei".
+Letra B. CORRETA. Temos o gabarito!!! A falta de regulamentação não impede a sua exploração.
+Afinal, a regra vigente no ordenamento jurídico brasileiro é a não exigência de autorização, de
+acordo com o parágrafo único do art. 170 da CF/88. Em igual sentido, temos o art. 3º da Lei nº.
+13.874/19, chamada Lei de Liberdade Econômica.
+Letra C. INCORRETA. Cuidado! A falta de regulamentação não impede a sua exploração. Isso
+porque, a atividade econômica é regida pela liberdade de exercício prevista no parágrafo único
+do art. 170 da CRFB/88. Por ser uma norma de eficácia contida, a não regulamentação permite o
+livre exercício da atividade independente de autorização do poder público.
+Letra D. INCORRETA. A atividade econômica é regida pela liberdade de exercício (art. 170, p.u
+da CRFB/88). Assim, a falta de regulamentação não impede a sua exploração.
+Letra E. INCORRETA. Pegadinha das boas rs! De fato, a falta de regulamentação de fato não
+impede a sua exploração. A regra vigente no ordenamento jurídico brasileiro é a não exigência
+de autorização. Entretanto, conforme dispõe o parágrafo único do art. 170 da CRFB/88, o
+exercício da atividade econômica pode sofrer restrição pelo legislador comum - “salvo nos casos
+previstos em lei".
+Gabarito: Letra B.
+
+
+15.​ (FGV/ISS-RJ/2023) De modo a tutelar a função social da propriedade urbana, a
+Constituição da República de 1988, em seu Art. 182, §4º, prevê a possibilidade de cobrança de
+IPTU progressivo no tempo.
+São requisitos para a instituição dessa cobrança progressiva no tempo, EXCETO:
+A) deve-se atender ao previsto no Estatuto da Cidade;
+B) a previsão em lei complementar específica do Município da cobrança progressiva do IPTU no
+tempo;
+C) a área sobre a qual recairá a cobrança progressiva do IPTU no tempo deve estar incluída no
+plano diretor;
+D) é necessário que o proprietário do solo urbano não tenha edificado ou esteja subutilizando ou
+não utilizando seu imóvel;
+E) é necessária a prévia notificação do proprietário para parcelamento ou edificação compulsórios
+de seu imóvel.
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          49
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Letra A. INCORRETA. Nos termos do art. 1º da Lei 10.257/2001 (Estatuto da Cidade), na
+execução da política urbana (arts. 182 e 183 da Constituição Federal) será aplicado o previsto
+nesta Lei.
+Letra B. CORRETA. Opa, aqui temos o erro!! Achamos a resposta! Não há necessidade de lei
+complementar específica do Município da cobrança progressiva do IPTU no tempo, nos termos
+do art. 182, §4º, II da CRFB/88, vejamos:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra C. INCORRETA. Realmente a área sobre a qual recairá a cobrança progressiva do IPTU no
+tempo deve estar incluída no plano diretor, vejamos o art. 182, §4º, II da CRFB/88:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra D. INCORRETA. É a previsão do art. 182, §4º, II da CRFB/88, confira:
+§ 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano
+diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado,
+subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena,
+sucessivamente, de:
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo.
+Letra E. INCORRETA. Segundo o art. 5º, §2º da Lei 10.257/2001, o proprietário será notificado
+pelo Poder Executivo municipal para o cumprimento da obrigação, devendo a notificação ser
+averbada no cartório de registro de imóveis.
+Gabarito: Letra B.
+
+
+16.​ (FGV/CGU/2022) O Estado Alfa editou a Lei nº XX, estabelecendo os requisitos a serem
+preenchidos para que seja deferido o requerimento de inscrição no cadastro de produtor rural,
+obrigatório para aquelas pessoas que desenvolvem atividade econômica primária agrícola,
+pecuária e similares. Entre esses requisitos, foi estabelecida a exigência de apresentação de
+certidão negativa de débitos fiscais com o Estado Alfa. João, que possui débitos fiscais com o
+Estado Alfa, mas almeja exercer a referida atividade, consultou um advogado a respeito da
+constitucionalidade da exigência, sendo-lhe respondido, corretamente, que ela é:
+a) inconstitucional, pois afronta a unidade da federação restringir a certidão negativa apenas aos
+débitos mantidos com o Estado Alfa, o que termina por estimular os débitos com os demais;
+b) inconstitucional, pois afronta a livre iniciativa obstar o exercício da atividade econômica pelos
+que tenham débitos tributários, caracterizando espécie de sanção política;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             50
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+c) constitucional, pois a livre iniciativa não está desconectada do interesse coletivo, não sendo
+possível o seu exercício descompromissado com o dever de pagar tributos;
+d) constitucional, pois a inexistência de débitos tributários indica a higidez financeira que dá
+sustentação à atividade econômica e assegura o cumprimento de obrigações;
+e) constitucional, já que livre iniciativa não se identifica com iniciativa desregulada, sendo dever
+do Estado Alfa estabelecer os requisitos que entenda adequados.
+Comentários:
+A alternativa B é a alternativa correta.
+Com o conhecimento da jurisprudência do STF, é possível responder a essa pergunta.
+Veja trecho do julgado transcrito abaixo:
+
+A exigência de certidão negativa de débitos fiscais com o Estado configura sanção política, ou
+seja, o estado se vale de meios indiretos de coerção, convertendo-os em instrumentos de
+acertamento da relação tributária, para, em função deles — e mediante interdição ou grave
+estrição ao exercício da atividade empresarial, econômica ou profissional — constranger o
+contribuinte a adimplir obrigações fiscais eventualmente em atraso. (RE 374981/RS, DJ
+08/04/2005)
+
+Assim, a Lei nº XX editada pelo Estado Alfa é inconstitucional. Afinal, a exigência da
+apresentação de certidão negativa de débitos fiscais com o Estado Alfa como condição para o
+exercício da atividade econômica configura uma sanção política. Essa afronta à livre iniciativa
+(princípio previsto no art. 170 da CF/88) é vedada pelo Supremo.
+
+
+17.​ (FGV/Prefeitura de Salvador/2019) A sociedade empresária Alfa, após ampliar seu parque
+industrial e aumentar drasticamente sua produção, resolveu oferecer seus produtos pela metade
+do custo oferecido pelos outros produtores existentes, o que somente foi possível, apesar dos
+prejuízos, em razão das elevadas reservas de capital que amealhara nos últimos anos.
+Dois anos após a implementação dessa política, os demais produtores estavam falidos, o que
+consolidou o domínio da sociedade empresária Alfa no mercado interno.
+À luz das normas a respeito dessa temática previstas na Constituição de 1988, cuja eficácia será
+integrada pela legislação infraconstitucional, deve-se afirmar que o proceder da referida
+sociedade empresária foi
+a) correto, pois, nos sistemas de livre iniciativa, cada sociedade empresária pode adotar os meios
+ao seu alcance para dominar o mercado.
+b) incorreto, pois devem ser reprimidas pela legislação as práticas que visem à dominação de
+mercados e à eliminação da concorrência.
+c) correto, pois, no sistema capitalista, compete ao próprio mercado autorregular-se, o que é
+secundado pelo poder de escolha do consumidor.
+d) incorreto, pois a redução de preços deveria ser previamente informada aos concorrentes, de
+modo que pudessem ajustar-se à nova realidade do mercado.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             51
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+e) correto, pois a preferibilidade da livre concorrência não pode privar o consumidor dos
+benefícios obtidos com a aquisição de produtos por preços mais baixos.
+Comentários:
+O proceder da empresa Alfa foi incorreto, pois mesmo num sistema de livre iniciativa, há limites
+que devem ser respeitados. Nesse sentido, a Carta Magna prevê que “a lei reprimirá o abuso do
+poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao
+aumento arbitrário dos lucros (art. 173, § 4º, CF)”.
+O gabarito é a letra B.
+
+
+18.​ (FGV/Prefeitura de Niterói/2018) José e Antônio, estudantes de Direito, considerando a
+livre iniciativa, travaram intenso debate a respeito da intervenção do Estado na atividade
+econômica, sendo suas conclusões nitidamente influenciadas pela ideologia político-econômica
+que cada um deles adotava.
+José afirmava que a livre iniciativa exigia que o Estado se distanciasse dessa atividade, não
+podendo incentivá-la ou planejá-la, mas apenas fiscalizá-la. Antônio, por sua vez, defendia que o
+Estado deveria não só fiscalizar como incentivar e planejar, sendo o planejamento determinante
+para o setor público e indicativo para o setor privado.
+À luz da sistemática constitucional, assinale a afirmativa correta.
+a) José está totalmente certo e Antônio, apenas na parte em que defende a fiscalização do
+Estado.
+b) José e Antônio estão totalmente errados, porque o Estado não pode intervir na atividade
+econômica.
+c) José e Antônio estão parcialmente certos, porque o Estado deve fiscalizar e planejar a
+atividade econômica, não a incentivá-la.
+d) José e Antônio estão parcialmente certos, porque o Estado deve fiscalizar e incentivar a
+atividade econômica, não a planejá-la.
+e) Antônio está totalmente certo e José, apenas na parte em que defende a fiscalização do
+Estado.
+Comentários:
+O art. 174 da Carta Magna dispõe que “como agente normativo e regulador da atividade
+econômica, o Estado exercerá na forma da lei, as funções de fiscalização, incentivo e
+planejamento, sendo este determinante para o setor público e indicativo para o setor privado”.
+Antônio está totalmente certo e José está parcialmente certo, ao dizer que cabe ao Estado
+fiscalizar a atividade econômica. O gabarito é a letra E.
+
+
+19.​ (FGV / ISS-Niterói – 2015) A Constituição do Estado YX dispôs, em seu art. 100, que é
+vedado ao Poder Executivo Estadual deixar de explorar as atividades econômicas nele
+elencadas. Quanto às demais atividades, dispôs o art. 101 que a sua exploração, ou não, por
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          52
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+empresas públicas e sociedades de economia mista, deve seguir como diretriz a relevância para
+o interesse coletivo, conforme definido em decreto do Poder Executivo.
+À luz da Constituição da República Federativa do Brasil, é correto afirmar que:
+a) somente o art. 101 é inconstitucional, pois a relevância para o interesse coletivo deve ser
+definida em lei.
+b) somente o art. 100 é inconstitucional, pois a atuação do Estado na ordem econômica não é
+matéria a ser tratada na Constituição Estadual.
+c) os arts. 100 e 101 são inconstitucionais, pois a Constituição Estadual não pode estabelecer tal
+vedação, e a relevância da atividade deve ser definida em lei.
+d) os arts. 100 e 101 são constitucionais, pois compete a cada Estado regular, em sua
+Constituição, a forma pela qual se dará a sua participação na atividade econômica.
+e) os arts. 100 e 101 somente serão constitucionais se demonstrado que as finanças do Estado
+estão plenamente ajustadas à Lei de Responsabilidade Fiscal.
+Comentários:
+Segundo o art. 173, CF/88, “ressalvados os casos previstos nesta Constituição, a exploração
+direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos
+da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.”
+Com base nesse dispositivo, temos que:
+a) A exploração direta de atividade econômica pelo Estado é permitida em três situações
+diferentes:
+- nos casos definidos pela Constituição Federal.
+- quando necessária aos imperativos de segurança nacional.
+- quando for de relevante interesse público.
+b) A lei federal irá definir o que se considera “imperativo de segurança nacional” e “relevante
+interesse público”.
+c) A Constituição Estadual não pode definir situações nas quais o Estado poderá explorar
+diretamente atividade econômica. É a Constituição Federal que irá determinar os casos de
+exploração direta de atividade econômica pelo Estado.
+Com base nesses entendimentos, chega-se às seguintes conclusões:
+O art. 100 é inconstitucional, pois a Constituição Estadual não pode estabelecer tal vedação. Ao
+fazê-lo, a Constituição Estadual estaria definindo hipóteses de exploração direta de atividade
+econômica pelo Estado.
+O art. 101 é inconstitucional, uma vez que o decreto não pode definir o que é “relevante
+interesse público”. A lei é que deverá fazê-lo.
+Portanto, o gabarito é a letra C.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            53
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+20.​ (FGV / CODEMIG – 2015) Os princípios gerais da ordem econômica, na forma em que
+sistematizados pela Constituição da República Federativa do Brasil, alcançam as relações
+mantidas entre o Poder Público, o setor produtivo e o setor consumidor.
+A respeito dessas relações, é correto afirmar que:
+a) a preferibilidade da livre concorrência não impede que o legislador infraconstitucional
+estabeleça situações de exclusividade na exploração de certas atividades econômicas;
+b) a exploração direta de atividade econômica pelo Estado é possível quando necessária à
+realização de relevante interesse coletivo;
+c) a defesa do meio ambiente é realizada a partir de um padrão conceitual, sendo desnecessárias
+considerações a respeito do impacto ambiental específico de produtos e serviços;
+d) o exercício de atividade econômica está sempre condicionado à autorização dos órgãos
+públicos competentes, salvo os casos previstos em lei;
+e) a redução das desigualdades regionais e sociais sempre pressupõe a implementação, pelo
+Estado, de direitos prestacionais, não sendo propriamente um princípio da ordem econômica.
+Comentários:
+Letra A: errada. A livre concorrência é um princípio da ordem econômica. No entanto, é possível
+que a Constituição estabeleça situações de exclusividade (monopólios) na exploração de certas
+atividades econômicas.
+Letra B: correta. A exploração direta de atividade econômica pelo Estado será permitida quando
+necessária aos imperativos de segurança nacional ou a relevante interesse coletivo, além de
+outros casos previstos na Constituição.
+Letra C: errada. O art. 170, IV, CF/88, estabelece que é um princípio da ordem econômica a
+defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto
+ambiental dos produtos e serviços e de seus processos de elaboração e prestação.
+Letra D: errada. Segundo o art. 170, parágrafo único, CF/88, é assegurado a todos o livre
+exercício de qualquer atividade econômica, independentemente de autorização de órgãos
+públicos, salvo nos casos previstos em lei
+Letra E: errada. A redução das desigualdades regionais e sociais é um princípio da ordem
+econômica (art. 170, VII, CF/88).
+O gabarito é a letra B.
+
+
+21.​ (FGV / ISS-Recife – 2014) A Constituição Brasileira de 1988 determina que a ordem
+econômica é fundada na valorização do trabalho humano e da livre iniciativa, indicando os
+princípios que devem ser observados. Com base no constante nas disposições constitucionais
+específicas da ordem econômica, assinale a opção que apresenta apenas os princípios que
+devem ser observados.
+a) Supremacia do interesse público / Função social da propriedade.
+b) Tratamento favorecido para as empresas de grande porte constituídas sob as leis brasileiras e
+que tenham ou não sua sede e administração no país / Autonomia nacional.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          54
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+c) Busca do pleno cargo público / Livre concorrência.
+d) Soberania nacional / Redução das desigualdades regionais e sociais.
+e) Regulação da concorrência / Defesa do consumidor.
+Comentários:
+São princípios da ordem econômica, dentre outros, a soberania nacional (art. 170, I) e a redução
+das desigualdades regionais e sociais (art. 170, VII).
+O gabarito é a letra D.
+
+
+22.​ (FGV / AL-BA – 2014) Nos termos da Constituição Federal, a ordem econômica atua sob a
+premissa de determinados princípios, dentre os quais podemos destacar o relacionado:
+a) à propriedade coletiva.
+b) ao privilégio às empresas nacionais.
+c) à defesa de monopólios especiais.
+d) à redução das desigualdades regionais.
+e) à proteção aos fornecedores.
+Comentários:
+Letra A: errada. A propriedade privada é um princípio da ordem econômica.
+Letra B: errada. É princípio da ordem econômica o tratamento favorecido para as empresas de
+pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País.
+Letra C: errada. Não há que se falar em defesa dos monopólios. É princípio da ordem econômica
+a defesa do consumidor.
+Letra D: correta. É princípio da ordem econômica a redução das desigualdades regionais e
+sociais.
+Letra E: errada. A defesa do consumidor é princípio da ordem econômica.
+O gabarito é a letra D.
+
+
+23.​    (FGV / AL-BA – 2014) A Constituição Federal privilegia a atuação da iniciativa privada na
+atividade econômica, podendo estabelecer, em determinadas situações, regime de concessões e
+permissões. Salvo as situações expressamente previstas na Constituição, a exploração direta de
+atividade econômica pelo Estado só será permitida quando:
+a) significar uma necessidade da economia.
+b) necessária aos imperativos da segurança nacional.
+c) expressar a vontade do governo.
+d) resultar de uma imposição do Congresso.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          55
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+e) representar uma manifestação popular.
+Comentários:
+Segundo o art. 173, CF/88, ressalvados os casos previstos nesta Constituição, a exploração direta
+de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da
+segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.
+O gabarito é a letra B.
+
+
+24.​ (FGV / OAB – 2013) “M” vem desrespeitando o zoneamento estipulado pelo Município X
+em seu plano diretor, uma vez que mantém, com nítido caráter de especulação, terreno não
+utilizado em área residencial.
+Assinale a alternativa que indica medida que o Município X pode tomar para que “M” utilize
+adequadamente seu terreno.
+a) Desapropriar o terreno, sem que haja pagamento de indenização.
+b) Desapropriar o terreno, mediante pagamento de indenização justa, prévia e em dinheiro.
+c) Determinar edificação compulsória naquele terreno.
+d) Instituir multa administrativa no patamar de até 100% do valor no IPTU do imóvel.
+Comentários:
+A Constituição prevê, em seu art. 182, § 4o, que é facultado ao Poder Público municipal,
+mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do
+proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu
+adequado aproveitamento, sob pena, sucessivamente, de:
+
+I - parcelamento ou edificação compulsórios;
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo;
+III - desapropriação com pagamento mediante títulos da dívida pública de emissão previamente
+aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais
+e sucessivas, assegurados o valor real da indenização e os juros legais.
+
+O gabarito é a letra C.
+
+
+25.​ (FGV / CONDER – 2013) Quanto à política urbana definida na Constituição Federal de
+1988, analise as afirmativas a seguir.
+I. A política de desenvolvimento urbano é executada pelas esferas federal, estadual e municipal
+com objetivo de ordenar o pleno desenvolvimento das funções sociais e garantir o bem-estar da
+população assistida.
+II. O plano diretor é o instrumento básico da política de desenvolvimento e de expansão urbana.
+III. As desapropriações de imóveis urbanos serão feitas com prévia e justa indenização, podendo
+ou não ser em dinheiro.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           56
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Assinale:
+a) se somente a afirmativa I estiver correta.
+b) se somente a afirmativa II estiver correta.
+c) se somente a afirmativa III estiver correta.
+d) se somente as afirmativas I e II estiverem corretas.
+e) se todas as afirmativas estiverem corretas
+Comentários:
+O item I está incorreto. A política de desenvolvimento urbano é de responsabilidade dos
+municípios, tendo por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e
+garantir o bem- estar de seus habitantes (art. 182, “caput”, CF).
+O item II está correto. É o que prevê o art. 182, § 1º, da Constituição.
+O item III está incorreto. As desapropriações de imóveis urbanos serão feitas com prévia e justa
+indenização em dinheiro (art. 182, § 3º, CF).
+O gabarito é a letra B.
+
+
+26.​ (FGV / OAB – 2013) Assinale a alternativa que completa corretamente o fragmento a
+seguir.
+A desapropriação para fins de reforma agrária ocorre mediante prévia e justa indenização:
+a) em dinheiro, incluindo-se as benfeitorias úteis e necessárias.
+b) em dinheiro, mas as benfeitorias não são passíveis de indenização.
+c) em títulos da dívida agrária, incluindo-se as benfeitorias úteis e necessárias.
+d) em títulos da dívida agrária, mas as benfeitorias úteis e necessárias serão indenizadas em
+dinheiro.
+Comentários:
+De acordo com o art. 184 da Constituição, caso a propriedade não esteja cumprindo sua função
+social, a desapropriação dar-se-á mediante prévia e justa indenização em títulos da dívida
+agrária. As benfeitorias úteis e necessárias serão indenizadas em dinheiro.
+O gabarito é a letra D.
+
+
+27.​ (FGV / SEFAZ-RJ – 2011) A Constituição da República enumera os princípios que regem a
+atividade econômica, dentre os quais o tratamento favorecido para as empresas de pequeno e
+médio porte constituídas sob as leis brasileiras e que tenham sua sede e administração no país.
+Essa afirmativa está incorreta porque:
+a) O tratamento favorecido viola a livre concorrência, que é um dos princípios da atividade
+econômica.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         57
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+b) A constituição não admite tratamento favorecido, em respeito ao direito à igualdade.
+c) O tratamento favorecido deve ser condicionado apenas à redução das desigualdades
+regionais.
+d) O tratamento favorecido deve ser condicionado apenas à redução das desigualdades sociais.
+e) O tratamento favorecido não se estende às empresas de médio porte.
+Comentários:
+O art. 170, inciso IX, da Constituição, prevê como princípio da ordem econômica o tratamento
+favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham
+sua sede e administração no País. Essa previsão não se estende às empresas de médio porte.
+O gabarito é a letra E.
+
+
+28.​ (FGV / SEAD-AP – 2010) A ordem econômica, fundada na valorização do trabalho humano
+e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da
+justiça social, observados determinados princípios.Assinale a opção cujo conteúdo não
+corresponde aos princípios constantes do art. 170, da Constituição.
+a) Soberania nacional, propriedade privada, função social da propriedade, livre concorrência,
+busca do pleno emprego.
+b) Propriedade privada, livre concorrência, defesa do meio ambiente, inclusive mediante
+tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus
+processos de elaboração e prestação.
+c) Soberania nacional, propriedade privada, função social da propriedade, livre concorrência,
+vedação ao tratamento favorecido para as empresas de pequeno porte constituídas sob as leis
+brasileiras que tenham sua sede e administração no país.
+d) Função social da propriedade, livre concorrência, defesa do meio ambiente, busca do pleno
+emprego, redução das desigualdades regionais e sociais.
+e) Soberania nacional, livre concorrência, defesa do consumidor.
+Comentários:
+O art. 170 da Constituição prevê os seguintes princípios da ordem econômica e financeira:
+
+I - soberania nacional;
+II - propriedade privada;
+III - função social da propriedade;
+IV - livre concorrência;
+V - defesa do consumidor;
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto
+ambiental dos produtos e serviços e de seus processos de elaboração e prestação;
+VII - redução das desigualdades regionais e sociais;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        58
+        www.estrategiaconcursos.com.br                                                      74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+VIII - busca do pleno emprego;
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras
+e que tenham sua sede e administração no País.
+
+O gabarito é a letra C.
+
+
+29.​   (FGV / Senado Federal – 2008) Analise as afirmativas abaixo:
+I. A ordem econômica é calcada na valorização do trabalho humano e na livre iniciativa e em
+relação a ela devem ser observados vários princípios, como, entre outros, a busca do pleno
+emprego, a seguridade social, a saúde, o meio ambiente e a livre concorrência.
+II. No regime econômico adotado no direito pátrio vigora o princípio da livre iniciativa, segundo
+o qual a todos é assegurado o exercício de atividades econômicas independentemente de
+consentimento do Poder Público, com as ressalvas constantes de lei; ao Estado, porém, é
+permitida, em algumas situações, a exploração direta da atividade econômica, inclusive com o
+afastamento da iniciativa privada.
+III. A lei deve reprimir o abuso do poder econômico consubstanciado pelo domínio dos
+mercados, pela eliminação da concorrência e pelo aumento arbitrário dos lucros. Nos atos
+praticados contra a ordem econômica e financeira e contra a economia popular, a lei, embora
+isentando a pessoa jurídica em si, deve estabelecer a responsabilidade individual de seus
+dirigentes.
+Assinale:
+a) se todas as afirmativas estiverem corretas.
+b) se apenas as afirmativas II e III estiverem corretas.
+c) se apenas as afirmativas I e III estiverem corretas.
+d) se apenas a afirmativa II estiver correta.
+e) se apenas a afirmativa I estiver correta.
+Comentários:
+A primeira assertiva está errada. O art. 170 da Carta Magna estabelece que a ordem econômica,
+fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos
+existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
+
+I - soberania nacional;
+II - propriedade privada;
+III - função social da propriedade;
+IV - livre concorrência;
+V - defesa do consumidor;
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto
+ambiental dos produtos e serviços e de seus processos de elaboração e prestação;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           59
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+VII - redução das desigualdades regionais e sociais;
+VIII - busca do pleno emprego;
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras
+e que tenham sua sede e administração no País.
+
+A saúde e a seguridade social não são princípios da ordem econômica.
+A segunda assertiva está correta. A livre iniciativa é fundamento da RFB (art. 1º, IV, CF) e da
+ordem econômica (art. 170, “caput”. CF). A regra, por isso, é o exercício das atividades
+econômicas independentemente do consentimento do Poder Público. Entretanto, é possível,
+excepcionalmente, a exploração direta de atividade econômica pelo Estado, quando necessária
+aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em
+lei (art. 173, “caput”, CF).
+A terceira assertiva está errada. De fato, a CF/88 prevê (art. 173, § 4º) que a lei reprimirá o abuso
+do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao
+aumento arbitrário dos lucros. Entretanto, diferentemente do que diz a questão, a pessoa jurídica
+tem, sim, responsabilidade, sujeitando-a às punições compatíveis com sua natureza, nos atos
+praticados contra a ordem econômica e financeira e contra a economia popular (art. 173, § 5º,
+CF).
+O gabarito é a letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              60
+        www.estrategiaconcursos.com.br                                                            74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+                                         LISTA DE QUESTÕES
+1.​    (FGV/Câmara Municipal de São Paulo-SP/2024) João e sua família residiam em uma área
+urbana de duzentos e cinquenta metros quadrados situada no Município Beta. Essa situação, que
+já perdurava há cinco anos, sem qualquer oposição, não foi alterada mesmo durante os dois
+meses em que trabalharam como agricultores em sua pequena propriedade rural, já que
+continuaram a pernoitar no imóvel. Apesar de o módulo urbano em Beta ser fixado por lei em
+trezentos metros quadrados, foi reconhecida a aquisição do domínio por usucapião.
+Considerando os balizamentos estabelecidos pela Constituição da República, é correto afirmar,
+em relação à narrativa acima, que
+a) não apresenta qualquer irregularidade.
+b) somente apresenta irregularidade em relação ao tempo de posse.
+c) somente apresenta irregularidade em relação aos requisitos a serem preenchidos pelo
+possuidor.
+d) somente apresenta irregularidades em relação aos requisitos a serem preenchidos pelo
+possuidor e ao tempo de posse.
+e) somente apresenta irregularidades em relação à dimensão do imóvel, que não se ajusta ao
+módulo urbano estabelecido em lei.
+
+
+2.​     (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo/Consultor Legislativo –
+Reaplicação/2024) Foi detectado pelo órgão competente da União que, em determinada região
+do país, existiam grandes faixas de terras pertencentes ao Poder Público, não afetadas a uma
+finalidade específica, mas que se encontravam irregularmente na posse de particulares. Em razão
+dessa constatação, foram iniciados debates em relação à possível vinculação dessas terras à
+política agrícola. Considerando a sistemática constitucional afeta a essa temática, é correto
+afirmar que
+a) a destinação dessas terras deve ser compatibilizada com a política agrícola.
+b) somente terras devolutas, o que não é o caso, devem ser vinculadas à política agrícola.
+c) essas terras, por determinação constitucional, já são destinadas ao assento de colonos.
+d) terras dessa natureza devem ser direcionadas apenas à política nacional de reforma agrária.
+e) somente após a desapropriação do domínio útil dessas terras é que serão direcionadas à
+política agrícola.
+
+
+3.​    (FGV/TJ-AP/2024) Maria, estudiosa do direito, realizou alentada análise a respeito da
+concepção de anterioridade na Constituição da República. Ao fim de suas reflexões, concluiu
+que: (1) a vedação à cobrança de tributos em relação aos fatos geradores anteriores ao início da
+vigência da lei não afasta a possibilidade de a contribuição de melhoria alcançar as obras
+iniciadas em momento anterior, mas no decorrer do mesmo exercício financeiro; (2) não há
+exceções à vedação de cobrança de tributos no mesmo exercício financeiro em que haja sido
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             61
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+publicada a lei que os instituiu; e (3) a anterioridade nonagesimal não se aplica ao imposto sobre
+operações de crédito, câmbio e seguro, relativas a títulos ou valores mobiliários.
+Ao analisar a compatibilidade das conclusões de Maria com a Constituição da República, Joana
+depreendeu, corretamente, que:
+a) apenas as conclusões 1 e 2 estão certas;
+b) apenas as conclusões 1 e 3 estão certas;
+c) apenas a conclusão 2 está certa;
+d) apenas a conclusão 3 está certa;
+e) todas estão certas.
+
+
+4.​   (FGV/TRF 1ª Região/2023) Joana recebeu autorização de pesquisa do órgão competente,
+tendo por objeto uma jazida de recursos minerais encontrada no subsolo da propriedade de
+João. Irresignado com o que considerava uma indevida ingerência sobre a sua esfera jurídica,
+João procurou se inteirar a respeito da juridicidade dessa autorização.
+Ao final de suas reflexões, João concluiu, corretamente, que:
+a) a autorização poderia ter sido concedida, sendo imperativo que isso tenha ocorrido por prazo
+determinado;
+b) a autorização somente poderia ser concedida a Joana se fosse demonstrada a inexistência de
+órgão público capaz de realizar a pesquisa;
+c) a autorização poderia ter sido concedida, observada a imperatividade de que isso tenha
+ocorrido em caráter precário, sem prazo fixo;
+d) como a propriedade do subsolo é da União, esse ente federativo poderia celebrar ajustes com
+terceiros tendo-a como objeto, mas apenas para fins de exploração;
+e) a autorização pode ser transferida a terceiros, conforme ajuste celebrado por Joana, que não
+carece de aprovação da União, sendo imperativa a observância dos termos da autorização
+original.
+
+
+5.​   (FGV/ISS-RJ/Fiscal de Rendas/2023) O prefeito do Município Beta, após a adoção dos
+procedimentos necessários, almejava criar duas empresas públicas, sendo uma delas destinada a
+desempenhar atividade econômica em sentido amplo, e a outra, a desempenhar atividade
+econômica em sentido estrito.
+Ao questionar sua assessoria a respeito dessa possibilidade, foi-lhe corretamente respondido
+que a atividade econômica em sentido:
+a) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá os mesmos direitos e obrigações das
+empresas privadas;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           62
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+b) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da primeira, terá direitos e obrigações diferenciados
+em relação às empresas privadas;
+c) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá direitos e obrigações diferenciados em
+relação às empresas privadas;
+d) amplo é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido estrito, tendo os mesmos direitos e obrigações
+que as empresas privadas;
+e) estrito é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido amplo, tendo direitos e obrigações diferenciados
+em relação às empresas privadas.
+
+
+6.​    (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo/2023) Diplomatas brasileiros
+recebem, em Brasília, uma comitiva de políticos e empresários alemães, buscando ampliar a
+relação comercial bilateral entre os países, de forma a gerar externalidades positivas recíprocas.
+Nesse contexto, os parlamentares europeus realizam diversos questionamentos ao corpo
+diplomático pátrio sobre a ordem econômica no Brasil, em especial no que atina à intervenção
+do Estado no âmbito desta.
+Nesse cenário, considerando as disposições da Constituição Federal, caracteriza-se como um
+fundamento da ordem econômica a
+a) redução das desigualdades regionais e sociais.
+b) função social da propriedade.
+c) busca do pleno emprego.
+d) soberania nacional.
+e) livre iniciativa.
+
+
+7.​    (FGV/CÂMARA DOS DEPUTADOS/2023) João, Deputado Federal, solicitou que sua
+assessoria realizasse um estudo a respeito da possibilidade de ser apresentada uma proposição
+legislativa disciplinando a sistemática de permissão para a comercialização de minérios, minerais
+nucleares e derivados.
+Ao fim da análise, a assessoria de João concluiu corretamente que
+a) as atividades descritas por João são livres à iniciativa privada, mas estão sujeitas à fiscalização
+da União.
+b) como a exploração dessas atividades constitui monopólio da União, o objetivo alvitrado por
+João não pode ser alcançado.
+c) o objetivo alvitrado por João somente pode ser alcançado em relação aos radioisótopos, nas
+circunstâncias Indicadas pela ordem constitucional.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               63
+        www.estrategiaconcursos.com.br                                                             74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+d) a permissão somente é necessária em relação à comercialização dos minerais nucleares, por
+se tratar de atividade outorgada à União.
+e) a permissão alvitrada por João somente é possível em relação aos minerais, não quanto aos
+minerais nucleares, que caracterizam monopólio da União.
+
+
+8.​     (FGV/Câmara dos Deputados/Consultor Legislativo/2023) A Constituição Federal de 1988
+consagrou como direito fundamental a propriedade privada, porém, condicionou-o à função
+social. Acerca da função social da propriedade rural assinale a afirmativa correta.
+a) A propriedade rural cumpre a sua função social quando atende ao aproveitamento racional e
+adequado do solo, bem como ao uso adequado dos recursos naturais disponíveis e à
+preservação do meio ambiente.
+b) O descumprimento da função social da propriedade rural ocasiona a desapropriação agrária
+com prévia e justa indenização em dinheiro.
+c) A grande propriedade rural produtiva não pode ser objeto de desapropriação agrária, mas se
+sujeita a desapropriação por interesse social, podendo ser destinada ao trabalho agrícola.
+d) A função social da propriedade rural incide também em imóvel público, que poderá ser
+adquirido por usucapião pelo proprietário que ocupá-lo tornando-a produtiva.
+e) Cabe desapropriação para fins de reforma agrária da média propriedade desde que seu
+proprietário, ainda que não possua outra, não cumprir sua função social.
+
+
+9.​   (FGV/ISS-RJ/Fiscal de Rendas/2023) De modo a tutelar a função social da propriedade
+urbana, a Constituição da República de 1988, em seu Art. 182, §4º, prevê a possibilidade de
+cobrança de IPTU progressivo no tempo. São requisitos para a instituição dessa cobrança
+progressiva no tempo, EXCETO:
+A) deve-se atender ao previsto no Estatuto da Cidade;
+B) a previsão em lei complementar específica do Município da cobrança progressiva do IPTU no
+tempo;
+C) a área sobre a qual recairá a cobrança progressiva do IPTU no tempo deve estar incluída no
+plano diretor;
+D) é necessário que o proprietário do solo urbano não tenha edificado ou esteja subutilizando ou
+não utilizando seu imóvel;
+E) é necessária a prévia notificação do proprietário para parcelamento ou edificação compulsórios
+de seu imóvel.
+
+
+10.​ (FGV/CGE-SC/2023) Determinado diploma normativo editado pela União dispôs que era
+vedada a adesão, a certo regime tributário diferenciado, pela microempresa e pela empresa de
+pequeno porte que possuíssem débito com as Fazendas Públicas Federal, Estadual ou Municipal.
+Irresignado com o teor desse diploma normativo, o Partido Político Alfa, que defendia, como
+principal ideologia, o liberalismo econômico, consultou um advogado a respeito de sua
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          64
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+compatibilidade com os princípios gerais da atividade econômica consagrados na Constituição
+da República de 1988. O advogado respondeu corretamente a Alfa que a parte do diploma
+normativo descrita na narrativa é
+A) inconstitucional, pois configura verdadeira “sanção política”, tratando-se de meio indireto de
+cobrança de tributos que afronta a igualdade que deve caracterizar a exploração da atividade
+econômica.
+B) inconstitucional, pois é ilícita a imposição de qualquer restrição ou condicionamento ao
+exercício da atividade econômica, além daquelas expressamente previstas na ordem
+constitucional.
+C) inconstitucional, pois a ordem constitucional assegura o tratamento diferenciado das empresas
+de pequeno porte que tenham sua sede e administração no País, as quais devem ser excluídas
+do alcance do diploma normativo.
+D) constitucional, pois o exercício da atividade econômica por operadores privados sempre
+pressupõe autorização do Poder Público, logo, não há óbice em restringir benefícios ao seu
+exercício nas hipóteses de afronta à juridicidade.
+E) constitucional, pois, longe de afrontar a livre concorrência, impede que pessoas jurídicas que
+infrinjam as leis fiscais possam se beneficiar de um regime tributário diferenciado, o que lhes
+daria melhores condições de atuar no mercado.
+
+
+11.​ (FGV/TCE-BA/2023) Há pouco mais de seis anos, Maria tinha a posse mansa e pacífica de
+parte de um imóvel urbano, localizado no Município X, no qual o módulo urbano mínimo fora
+fixado em 300 m2. O imóvel tinha uma área total de 1.000 m2 e a parte ocupada por Maria era
+de 250 m2. Como esse era o seu único imóvel, no qual residia com seus filhos e netos, tinha a
+especial preocupação de continuar no local. Com esse objetivo, procurou um advogado e o
+questionou sobre ter, ou não, preenchido os requisitos para a aquisição originária da
+propriedade, da parte que ocupava do imóvel, por meio de usucapião especial, conforme
+previsão constitucional.
+O advogado respondeu, corretamente, que:
+a) Maria preencheu os requisitos exigidos, não havendo nenhum óbice ao reconhecimento da
+usucapião;
+b) o requisito concernente ao tempo mínimo de posse ininterrupta e sem oposição não foi
+preenchido;
+c) o requisito concernente à área máxima do imóvel não foi preenchido, pois a parte ocupada por
+Maria ultrapassa 200 m2;
+d) Maria deve requerer a usucapião da integralidade do imóvel, o que lhe será deferido em razão
+do módulo urbano mínimo fixado no Município X;
+e) a área ocupada por Maria não atende ao módulo urbano mínimo fixado pelo Município X, o
+que impede a aquisição originária da propriedade dessa área.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          65
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023) A Constituição Federal de 1988 consagrou como
+direito fundamental a propriedade privada, porém, condicionou-o à função social. Acerca da
+função social da propriedade rural assinale a afirmativa correta.
+a) A propriedade rural cumpre a sua função social quando atende ao aproveitamento racional e
+adequado do solo, bem como ao uso adequado dos recursos naturais disponíveis e à
+preservação do meio ambiente.
+b) O descumprimento da função social da propriedade rural ocasiona a desapropriação agrária
+com prévia e justa indenização em dinheiro.
+c) A grande propriedade rural produtiva não pode ser objeto de desapropriação agrária, mas se
+sujeita a desapropriação por interesse social, podendo ser destinada ao trabalho agrícola.
+d) A função social da propriedade rural incide também em imóvel público, que poderá ser
+adquirido por usucapião pelo proprietário que ocupá-lo tornando-a produtiva.
+e) Cabe desapropriação para fins de reforma agrária da média propriedade desde que seu
+proprietário, ainda que não possua outra, não cumprir sua função social.
+
+
+13.​ (FGV/ISS-RJ/2023) O prefeito do Município Beta, após a adoção dos procedimentos
+necessários, almejava criar duas empresas públicas, sendo uma delas destinada a desempenhar
+atividade econômica em sentido amplo, e a outra, a desempenhar atividade econômica em
+sentido estrito.
+Ao questionar sua assessoria a respeito dessa possibilidade, foi-lhe corretamente respondido
+que a atividade econômica em sentido:
+a) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá os mesmos direitos e obrigações das
+empresas privadas;
+b) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da primeira, terá direitos e obrigações diferenciados
+em relação às empresas privadas;
+c) estrito, bem como a atividade econômica em sentido amplo, podem ser desempenhadas por
+empresa pública, sendo que, no exercício da última, terá direitos e obrigações diferenciados em
+relação às empresas privadas;
+d) amplo é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido estrito, tendo os mesmos direitos e obrigações
+que as empresas privadas;
+e) estrito é privativa dos particulares, logo, só é possível a criação de empresa pública para
+desempenhar atividade econômica em sentido amplo, tendo direitos e obrigações diferenciados
+em relação às empresas privadas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         66
+        www.estrategiaconcursos.com.br                                                       74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+14.​ (FGV/SEFAZ-MG/2023) Inês e Ana pretendiam implementar uma atividade econômica
+inovadora em determinada área de serviços, que consistia na conjugação de apoio tecnológico e
+transferência pontual e casuística de know-how, de modo que o próprio cliente seria orientado a
+realizar as atividades necessárias, o que reduziria consideravelmente os custos do serviço. Apesar
+disso, tomaram conhecimento de que essa atividade ainda não fora disciplinada no âmbito do
+Município Alfa, em cuja esfera territorial seria situada a sede da sociedade empresária a ser
+criada.
+Considerando que todas as suas iniciativas estavam estritamente vinculadas à juridicidade,
+decidiram consultar o seu advogado, o qual lhes respondeu corretamente que a falta de
+regulamentação da atividade econômica pelo Município Alfa:
+A) impede a sua exploração, por se tratar de verdadeiro serviço público.
+B) não impede a sua exploração, o que decorre do princípio da livre iniciativa.
+C) impede a sua exploração, considerando a impossibilidade de serem protegidos os interesses
+do consumidor.
+D) impede a sua exploração, pois a atividade econômica deve ser sempre regida pelo princípio
+da legalidade estrita.
+E) não impede a sua exploração, pois o exercício de atividade econômica, por força do princípio
+da livre concorrência, jamais pode ser restringido pela lei.
+
+
+15.​ (FGV/ISS-RJ/2023) De modo a tutelar a função social da propriedade urbana, a
+Constituição da República de 1988, em seu Art. 182, §4º, prevê a possibilidade de cobrança de
+IPTU progressivo no tempo.
+São requisitos para a instituição dessa cobrança progressiva no tempo, EXCETO:
+A) deve-se atender ao previsto no Estatuto da Cidade;
+B) a previsão em lei complementar específica do Município da cobrança progressiva do IPTU no
+tempo;
+C) a área sobre a qual recairá a cobrança progressiva do IPTU no tempo deve estar incluída no
+plano diretor;
+D) é necessário que o proprietário do solo urbano não tenha edificado ou esteja subutilizando ou
+não utilizando seu imóvel;
+E) é necessária a prévia notificação do proprietário para parcelamento ou edificação compulsórios
+de seu imóvel.
+
+
+16.​ (FGV/CGU/2022) O Estado Alfa editou a Lei nº XX, estabelecendo os requisitos a serem
+preenchidos para que seja deferido o requerimento de inscrição no cadastro de produtor rural,
+obrigatório para aquelas pessoas que desenvolvem atividade econômica primária agrícola,
+pecuária e similares. Entre esses requisitos, foi estabelecida a exigência de apresentação de
+certidão negativa de débitos fiscais com o Estado Alfa. João, que possui débitos fiscais com o
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           67
+        www.estrategiaconcursos.com.br                                                         74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Estado Alfa, mas almeja exercer a referida atividade, consultou um advogado a respeito da
+constitucionalidade da exigência, sendo-lhe respondido, corretamente, que ela é:
+a) inconstitucional, pois afronta a unidade da federação restringir a certidão negativa apenas aos
+débitos mantidos com o Estado Alfa, o que termina por estimular os débitos com os demais;
+b) inconstitucional, pois afronta a livre iniciativa obstar o exercício da atividade econômica pelos
+que tenham débitos tributários, caracterizando espécie de sanção política;
+c) constitucional, pois a livre iniciativa não está desconectada do interesse coletivo, não sendo
+possível o seu exercício descompromissado com o dever de pagar tributos;
+d) constitucional, pois a inexistência de débitos tributários indica a higidez financeira que dá
+sustentação à atividade econômica e assegura o cumprimento de obrigações;
+e) constitucional, já que livre iniciativa não se identifica com iniciativa desregulada, sendo dever
+do Estado Alfa estabelecer os requisitos que entenda adequados.
+
+
+17.​ (FGV/Prefeitura de Salvador/2019) A sociedade empresária Alfa, após ampliar seu parque
+industrial e aumentar drasticamente sua produção, resolveu oferecer seus produtos pela metade
+do custo oferecido pelos outros produtores existentes, o que somente foi possível, apesar dos
+prejuízos, em razão das elevadas reservas de capital que amealhara nos últimos anos.
+Dois anos após a implementação dessa política, os demais produtores estavam falidos, o que
+consolidou o domínio da sociedade empresária Alfa no mercado interno.
+À luz das normas a respeito dessa temática previstas na Constituição de 1988, cuja eficácia será
+integrada pela legislação infraconstitucional, deve-se afirmar que o proceder da referida
+sociedade empresária foi
+a) correto, pois, nos sistemas de livre iniciativa, cada sociedade empresária pode adotar os meios
+ao seu alcance para dominar o mercado.
+b) incorreto, pois devem ser reprimidas pela legislação as práticas que visem à dominação de
+mercados e à eliminação da concorrência.
+c) correto, pois, no sistema capitalista, compete ao próprio mercado autorregular-se, o que é
+secundado pelo poder de escolha do consumidor.
+d) incorreto, pois a redução de preços deveria ser previamente informada aos concorrentes, de
+modo que pudessem ajustar-se à nova realidade do mercado.
+e) correto, pois a preferibilidade da livre concorrência não pode privar o consumidor dos
+benefícios obtidos com a aquisição de produtos por preços mais baixos.
+
+
+18.​ (FGV/Prefeitura de Niterói/2018) José e Antônio, estudantes de Direito, considerando a
+livre iniciativa, travaram intenso debate a respeito da intervenção do Estado na atividade
+econômica, sendo suas conclusões nitidamente influenciadas pela ideologia político-econômica
+que cada um deles adotava.
+José afirmava que a livre iniciativa exigia que o Estado se distanciasse dessa atividade, não
+podendo incentivá-la ou planejá-la, mas apenas fiscalizá-la. Antônio, por sua vez, defendia que o
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             68
+        www.estrategiaconcursos.com.br                                                           74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+Estado deveria não só fiscalizar como incentivar e planejar, sendo o planejamento determinante
+para o setor público e indicativo para o setor privado.
+À luz da sistemática constitucional, assinale a afirmativa correta.
+a) José está totalmente certo e Antônio, apenas na parte em que defende a fiscalização do
+Estado.
+b) José e Antônio estão totalmente errados, porque o Estado não pode intervir na atividade
+econômica.
+c) José e Antônio estão parcialmente certos, porque o Estado deve fiscalizar e planejar a
+atividade econômica, não a incentivá-la.
+d) José e Antônio estão parcialmente certos, porque o Estado deve fiscalizar e incentivar a
+atividade econômica, não a planejá-la.
+e) Antônio está totalmente certo e José, apenas na parte em que defende a fiscalização do
+Estado.
+
+
+19.​ (FGV / ISS-Niterói – 2015) A Constituição do Estado YX dispôs, em seu art. 100, que é
+vedado ao Poder Executivo Estadual deixar de explorar as atividades econômicas nele
+elencadas. Quanto às demais atividades, dispôs o art. 101 que a sua exploração, ou não, por
+empresas públicas e sociedades de economia mista, deve seguir como diretriz a relevância para
+o interesse coletivo, conforme definido em decreto do Poder Executivo.
+À luz da Constituição da República Federativa do Brasil, é correto afirmar que:
+a) somente o art. 101 é inconstitucional, pois a relevância para o interesse coletivo deve ser
+definida em lei.
+b) somente o art. 100 é inconstitucional, pois a atuação do Estado na ordem econômica não é
+matéria a ser tratada na Constituição Estadual.
+c) os arts. 100 e 101 são inconstitucionais, pois a Constituição Estadual não pode estabelecer tal
+vedação, e a relevância da atividade deve ser definida em lei.
+d) os arts. 100 e 101 são constitucionais, pois compete a cada Estado regular, em sua
+Constituição, a forma pela qual se dará a sua participação na atividade econômica.
+e) os arts. 100 e 101 somente serão constitucionais se demonstrado que as finanças do Estado
+estão plenamente ajustadas à Lei de Responsabilidade Fiscal.
+
+
+20.​ (FGV / CODEMIG – 2015) Os princípios gerais da ordem econômica, na forma em que
+sistematizados pela Constituição da República Federativa do Brasil, alcançam as relações
+mantidas entre o Poder Público, o setor produtivo e o setor consumidor.
+A respeito dessas relações, é correto afirmar que:
+a) a preferibilidade da livre concorrência não impede que o legislador infraconstitucional
+estabeleça situações de exclusividade na exploração de certas atividades econômicas;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            69
+        www.estrategiaconcursos.com.br                                                          74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+b) a exploração direta de atividade econômica pelo Estado é possível quando necessária à
+realização de relevante interesse coletivo;
+c) a defesa do meio ambiente é realizada a partir de um padrão conceitual, sendo desnecessárias
+considerações a respeito do impacto ambiental específico de produtos e serviços;
+d) o exercício de atividade econômica está sempre condicionado à autorização dos órgãos
+públicos competentes, salvo os casos previstos em lei;
+e) a redução das desigualdades regionais e sociais sempre pressupõe a implementação, pelo
+Estado, de direitos prestacionais, não sendo propriamente um princípio da ordem econômica.
+
+
+21.​ (FGV / ISS-Recife – 2014) A Constituição Brasileira de 1988 determina que a ordem
+econômica é fundada na valorização do trabalho humano e da livre iniciativa, indicando os
+princípios que devem ser observados. Com base no constante nas disposições constitucionais
+específicas da ordem econômica, assinale a opção que apresenta apenas os princípios que
+devem ser observados.
+a) Supremacia do interesse público / Função social da propriedade.
+b) Tratamento favorecido para as empresas de grande porte constituídas sob as leis brasileiras e
+que tenham ou não sua sede e administração no país / Autonomia nacional.
+c) Busca do pleno cargo público / Livre concorrência.
+d) Soberania nacional / Redução das desigualdades regionais e sociais.
+e) Regulação da concorrência / Defesa do consumidor.
+
+
+22.​ (FGV / AL-BA – 2014) Nos termos da Constituição Federal, a ordem econômica atua sob a
+premissa de determinados princípios, dentre os quais podemos destacar o relacionado:
+a) à propriedade coletiva.
+b) ao privilégio às empresas nacionais.
+c) à defesa de monopólios especiais.
+d) à redução das desigualdades regionais.
+e) à proteção aos fornecedores.
+
+
+23.​    (FGV / AL-BA – 2014) A Constituição Federal privilegia a atuação da iniciativa privada na
+atividade econômica, podendo estabelecer, em determinadas situações, regime de concessões e
+permissões. Salvo as situações expressamente previstas na Constituição, a exploração direta de
+atividade econômica pelo Estado só será permitida quando:
+a) significar uma necessidade da economia.
+b) necessária aos imperativos da segurança nacional.
+c) expressar a vontade do governo.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          70
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+d) resultar de uma imposição do Congresso.
+e) representar uma manifestação popular.
+
+
+24.​ (FGV / OAB – 2013) “M” vem desrespeitando o zoneamento estipulado pelo Município X
+em seu plano diretor, uma vez que mantém, com nítido caráter de especulação, terreno não
+utilizado em área residencial.
+Assinale a alternativa que indica medida que o Município X pode tomar para que “M” utilize
+adequadamente seu terreno.
+a) Desapropriar o terreno, sem que haja pagamento de indenização.
+b) Desapropriar o terreno, mediante pagamento de indenização justa, prévia e em dinheiro.
+c) Determinar edificação compulsória naquele terreno.    ==219a34==
+
+d) Instituir multa administrativa no patamar de até 100% do valor no IPTU do imóvel.
+
+
+25.​ (FGV / CONDER – 2013) Quanto à política urbana definida na Constituição Federal de
+1988, analise as afirmativas a seguir.
+I. A política de desenvolvimento urbano é executada pelas esferas federal, estadual e municipal
+com objetivo de ordenar o pleno desenvolvimento das funções sociais e garantir o bem-estar da
+população assistida.
+II. O plano diretor é o instrumento básico da política de desenvolvimento e de expansão urbana.
+III. As desapropriações de imóveis urbanos serão feitas com prévia e justa indenização, podendo
+ou não ser em dinheiro.
+Assinale:
+a) se somente a afirmativa I estiver correta.
+b) se somente a afirmativa II estiver correta.
+c) se somente a afirmativa III estiver correta.
+d) se somente as afirmativas I e II estiverem corretas.
+e) se todas as afirmativas estiverem corretas
+
+
+26.​ (FGV / OAB – 2013) Assinale a alternativa que completa corretamente o fragmento a
+seguir.
+A desapropriação para fins de reforma agrária ocorre mediante prévia e justa indenização:
+a) em dinheiro, incluindo-se as benfeitorias úteis e necessárias.
+b) em dinheiro, mas as benfeitorias não são passíveis de indenização.
+c) em títulos da dívida agrária, incluindo-se as benfeitorias úteis e necessárias.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          71
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+d) em títulos da dívida agrária, mas as benfeitorias úteis e necessárias serão indenizadas em
+dinheiro.
+
+
+27.​ (FGV / SEFAZ-RJ – 2011) A Constituição da República enumera os princípios que regem a
+atividade econômica, dentre os quais o tratamento favorecido para as empresas de pequeno e
+médio porte constituídas sob as leis brasileiras e que tenham sua sede e administração no país.
+Essa afirmativa está incorreta porque:
+a) O tratamento favorecido viola a livre concorrência, que é um dos princípios da atividade
+econômica.
+b) A constituição não admite tratamento favorecido, em respeito ao direito à igualdade.
+c) O tratamento favorecido deve ser condicionado apenas à redução das desigualdades
+regionais.
+d) O tratamento favorecido deve ser condicionado apenas à redução das desigualdades sociais.
+e) O tratamento favorecido não se estende às empresas de médio porte.
+
+
+28.​ (FGV / SEAD-AP – 2010) A ordem econômica, fundada na valorização do trabalho humano
+e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da
+justiça social, observados determinados princípios.Assinale a opção cujo conteúdo não
+corresponde aos princípios constantes do art. 170, da Constituição.
+a) Soberania nacional, propriedade privada, função social da propriedade, livre concorrência,
+busca do pleno emprego.
+b) Propriedade privada, livre concorrência, defesa do meio ambiente, inclusive mediante
+tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus
+processos de elaboração e prestação.
+c) Soberania nacional, propriedade privada, função social da propriedade, livre concorrência,
+vedação ao tratamento favorecido para as empresas de pequeno porte constituídas sob as leis
+brasileiras que tenham sua sede e administração no país.
+d) Função social da propriedade, livre concorrência, defesa do meio ambiente, busca do pleno
+emprego, redução das desigualdades regionais e sociais.
+e) Soberania nacional, livre concorrência, defesa do consumidor.
+
+
+29.​   (FGV / Senado Federal – 2008) Analise as afirmativas abaixo:
+I. A ordem econômica é calcada na valorização do trabalho humano e na livre iniciativa e em
+relação a ela devem ser observados vários princípios, como, entre outros, a busca do pleno
+emprego, a seguridade social, a saúde, o meio ambiente e a livre concorrência.
+II. No regime econômico adotado no direito pátrio vigora o princípio da livre iniciativa, segundo
+o qual a todos é assegurado o exercício de atividades econômicas independentemente de
+consentimento do Poder Público, com as ressalvas constantes de lei; ao Estado, porém, é
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          72
+        www.estrategiaconcursos.com.br                                                        74
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 18
+
+permitida, em algumas situações, a exploração direta da atividade econômica, inclusive com o
+afastamento da iniciativa privada.
+III. A lei deve reprimir o abuso do poder econômico consubstanciado pelo domínio dos
+mercados, pela eliminação da concorrência e pelo aumento arbitrário dos lucros. Nos atos
+praticados contra a ordem econômica e financeira e contra a economia popular, a lei, embora
+isentando a pessoa jurídica em si, deve estabelecer a responsabilidade individual de seus
+dirigentes.
+Assinale:
+a) se todas as afirmativas estiverem corretas.
+b) se apenas as afirmativas II e III estiverem corretas.
+c) se apenas as afirmativas I e III estiverem corretas.
+d) se apenas a afirmativa II estiver correta.
+e) se apenas a afirmativa I estiver correta.
+
+                                                   GABARITO
+                1.​ LETRA C                                                15.​LETRA B
+                2.​ LETRA A                                                16.​LETRA B
+                3.​ LETRA D                                                17.​LETRA B
+                4.​ LETRA A                                                18.​LETRA E
+                5.​ LETRA C                                                19.​LETRA C
+                6.​ LETRA E                                                20.​LETRA B
+                7.​ LETRA C                                                21.​LETRA D
+                8.​ LETRA C                                                22.​LETRA D
+                9.​ LETRA B                                                23.​LETRA B
+                10.​LETRA E                                                24.​LETRA C
+                11.​LETRA A                                                25.​LETRA B
+                12.​LETRA C                                                26.​LETRA D
+                13.​LETRA C                                                27.​LETRA E
+                14.​LETRA B                                                28.​LETRA C
+                                                                           29.​LETRA D
+
+        Receita Federal (Analista Tributário) Direito Constitucional                      73
+        www.estrategiaconcursos.com.br                                                    74
+
+                                      
+
+
+---
+
+---

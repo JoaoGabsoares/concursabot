@@ -1,0 +1,788 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 01_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+artigos_citados:
+- Art. 194
+- Art. 196
+- Art. 197
+- Art. 198
+- Art. 199
+- Art. 201
+- Art. 203
+- Art. 204
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+Rubens Maurício
+  @profrubensmauricio
+  Previdenciário Diagramado
+
+                                             Prof. Rubens Mauricio
+
+        
+
+
+---
+
+SEGURIDADE SOCIAL
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+        Seguridade Social - Conceito
+
+                        Art. 194
+                         CF/88
+                                     A Seguridade                                           Poderes Públicos
+                                   Social compreende                       de
+                                      um conjunto                      iniciativa
+                                       integrado                          dos
+                                        de ações                                               Sociedade
+
+
+                                                       destinadas a assegurar os
+                                                          direitos relativos a
+
+
+                                                                     Assistência                Previdência
+                                         Saúde
+                                                                       Social                      Social
+
+
+Prof. Rubens Mauricio
+                                                       
+
+
+---
+
+                                                      Seguridade
+                                                        Social
+
+                                                         Assistência               Previdência
+                            Saúde
+                                                           Social                     Social
+
+                         direito de todos              direito dos que               direito dos
+                        e dever do estado               necessitarem                beneficiários
+                                                                                 (segurados/dependentes)
+
+                           independe                       independe                  caráter
+                               de                              de                   contributivo
+                          contribuição                    contribuição             e compulsório
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+        Seguridade Social
+        Organização e Princípios Constitucionais
+
+
+                            Art. 194
+                        § único – CF/88
+                                                                                        nos termos
+                                                                                          da lei
+                                                                      Poder
+                                 Compete ao                          Público
+
+                                                 organizar a seguridade social
+
+                                          com base nos seguintes objetivos/princípios:
+
+Prof. Rubens Mauricio
+                                                   
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                        Art. 194
+                    § Único, I – CF/88
+
+
+                                          Universalidade da cobertura e do atendimento
+
+
+                                         Universalidade da Cobertura – todas as contingências sociais que
+                                         gerem necessidade de proteção social (maternidade, velhice,
+                                         doença, acidente, invalidez, reclusão e morte) deverão ser
+                                         cobertas pela Seguridade Social.
+
+
+                                         Universalidade do Atendimento – todas as pessoas serão
+                                         indistintamente acolhidas pela Seguridade Social.
+
+Prof. Rubens Mauricio
+                                                         
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                         Art. 194
+                    § Único, II – CF/88
+                                              Uniformidade e equivalência dos benefícios
+                                               e serviços às populações urbanas e rurais
+
+                                          Uniformidade – todas as contingências sociais que gerem necessidade
+                                          de proteção social (maternidade, velhice, doença, acidente, invalidez,
+                                          reclusão e morte) serão cobertas tanto para as populações urbanas
+                                          como para as rurais.
+
+
+                                          Equivalência – refere-se ao aspecto pecuniário dos benefícios ou à
+                                          qualidade dos serviços.
+
+Prof. Rubens Mauricio
+                                                            
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                        Art. 194
+                   § Único, III – CF/88
+                                                   Seletividade e distributividade na
+                                                  prestação dos benefícios e serviços
+
+                                          Seletividade – delimitação do rol de prestações que são mantidos
+                                          pela Seguridade Social.
+
+                                           Distributividade – nem todos os segurados terão direito a todas as
+                                           prestações que o sistema pode fornecer. Haverá atendimento
+                                           distintivo e prioritário aos mais necessitados.
+
+Prof. Rubens Mauricio
+                                                          
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                        Art. 194
+                   § Único, IV – CF/88
+
+
+                                              Irredutibilidade do valor dos benefícios
+
+
+                                         Conforme jurisprudência predominante no STF, o princípio da
+                                         irredutibilidade do valor dos benefícios previsto na CF/88 refere-
+                                         se à Seguridade Social e veda a redução do valor nominal dos
+                                         benefícios.
+
+
+                                         Ademais, os benefícios previdenciários deverão ser reajustados
+                                         para preservar-lhe, em caráter permanente, seu valor real de
+                                         compra.
+
+Prof. Rubens Mauricio
+                                                        
+
+
+---
+
+                       Art. 194
+                  § Único, IV – CF/88
+
+                                              Irredutibilidade do valor dos benefícios
+
+
+                                                   Dica prática para prova:
+                            Se a questão
+                           for referente à    Veda-se a redução do valor NOMINAL dos benefícios de seguridade
+                           Seguridade         social (saúde, assistência social e previdência social).
+                             Social
+
+                                              Veda-se a redução do valor REAL dos benefícios previdenciários.
+                            Se a questão      (para os benefícios previdenciários, além da vedação à redução do
+                           for referente à    seu valor nominal, veda-se, também, a redução do seu valor REAL.
+                           Previdência
+                              Social         Veda-se a redução do valor NOMINAL dos benefícios previdenciários
+                                             em caso de deflação.
+Prof. Rubens Mauricio
+                                                 
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                         Art. 194
+                    § Único, V – CF/88
+
+
+                                         Equidade na forma de participação no custeio
+
+
+                                         Deve-se tratar igualmente os iguais e desigualmente os
+                                         desiguais.
+
+
+                                         Quem tem maior capacidade contributiva irá contribuir com
+                                         mais; quem tem menor capacidade, contribuirá com menos.
+
+Prof. Rubens Mauricio
+                                                   
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                        Art. 194
+                   § Único, VI – CF/88
+
+
+                                               Diversidade da base de financiamento.
+
+
+                                         Compete ao Poder Público, nos termos da lei, organizar a
+                                         seguridade social, com base na Diversidade da Base de
+                                         Financiamento, identificando-se, em rubricas contábeis específicas
+                                         para cada área, as receitas e as despesas vinculadas a ações de
+                                         saúde, previdência e assistência social, preservado o caráter
+                                         contributivo da previdência social.
+
+
+                                         Visa assegurar, de diversas formas, os direitos relativos à Saúde,
+                                         Previdência e Assistência Social.
+
+Prof. Rubens Mauricio
+                                                        
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+
+                              Art. 194
+                        § Único, VII – CF/88
+                                                              democrático
+                                                                                            da
+                                        Caráter                                        administração
+                                                           descentralizado
+
+
+                                                          trabalhadores
+                           mediante                      empregadores
+                            gestão                                                     nos órgãos
+                          quadripartite                    aposentados                 colegiados
+
+                                                               governo
+
+Prof. Rubens Mauricio
+                                                  
+
+
+---
+
+     Princípios/Objetivos da Seguridade Social
+
+                                             Solidariedade
+
+
+                        Impede a adoção de um sistema de capitalização pura na previdência
+                        social. Quem contribui não o faz para si, mas para toda a sociedade.
+
+
+                         É esse princípio que permite um segurado ser aposentado por
+                         incapacidade permanente em seu primeiro dia de trabalho, sem ter
+                         qualquer contribuição recolhida para o sistema.
+
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+        Quadro Resumo
+
+                                                                            poder público
+                          Iniciativa
+                                                                             sociedade
+
+
+                        Organização                                         poder público
+
+                                                                            trabalhadores
+                        Administração                                       empregadores
+                          (Gestão)                                          aposentados
+                                                                              governo
+
+Prof. Rubens Mauricio
+                                       
+
+
+---
+
+SEGURIDADE SOCIAL
+SAÚDE
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+     Seguridade Social (Saúde)
+
+              Art. 196 da CF/88
+
+
+                                                                 Saúde
+
+
+                             A saúde será garantida mediante políticas sociais e econômicas que visem:
+
+
+                                     à redução do risco de doença e de outros agravos;
+
+
+                                     acesso universal e igualitário às ações e serviços para sua
+                                     promoção, proteção e recuperação.
+
+Prof. Rubens Mauricio
+                                                     
+
+
+---
+
+     Seguridade Social (Saúde)
+                 Art. 197 da CF/88
+
+
+                                                                 Saúde
+
+
+                             São de relevância pública as ações e serviços de saúde, cabendo ao Poder
+                             Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e
+                             controle, devendo sua execução ser feita:
+
+
+                                     diretamente;
+
+
+                                     através de terceiros;
+
+
+                                     por pessoa física ou jurídica de direito privado;
+
+Prof. Rubens Mauricio
+                                                     
+
+
+---
+
+     Seguridade Social (Saúde)
+                 Art. 198 da CF/88
+
+
+                                                                Saúde
+
+
+                             As ações e serviços públicos de saúde integram uma rede regionalizada e
+                             hierarquizada e constituem um sistema único, organizado de acordo com as
+                             seguintes diretrizes:
+
+
+                                     descentralização, com direção única em cada esfera de governo;
+
+
+                                     atendimento integral, com prioridade para as            atividades
+                                     preventivas, sem prejuízo dos serviços assistenciais;
+
+
+                                     participação da comunidade;
+
+
+Prof. Rubens Mauricio
+                                                    
+
+
+---
+
+     Seguridade Social (Saúde)
+
+                 Art. 198, § 1º, da
+                       CF/88
+
+                                                        Saúde
+
+
+                                      O sistema único de saúde será financiado com recursos
+                                      do orçamento:
+
+
+                                                                           •     da Seguridade Social;
+                                                                           •     da União;
+                                                                           •     dos Estados;
+                                                                           •     do Distrito Federal;
+                                                                           •     dos Municípios;
+                                                                           •     outras fontes.
+
+
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+     Seguridade Social (Saúde)
+
+                    Art. 199 da CF/88
+
+
+                                                                         Saúde
+
+
+                                        A assistência à saúde é livre à iniciativa privada.
+
+
+                                        As instituições privadas poderão participar de forma
+                                        complementar do sistema único de saúde, segundo diretrizes
+                                        deste, mediante contrato de direito público ou convênio, tendo
+                                        preferência as entidades filantrópicas e as sem fins lucrativos.
+
+Prof. Rubens Mauricio
+                                                     
+
+
+---
+
+     Seguridade Social (Saúde)
+
+                        Art. 199, § 2º e § 3º
+                              da CF/88
+
+
+                                                                                Saúde
+
+
+                                                É vedada a destinação de recursos públicos para auxílios ou
+                                                subvenções às instituições privadas com fins lucrativos.
+
+
+                                                É vedada a participação direta ou indireta de empresas ou
+                                                capitais estrangeiros na assistência à saúde no País, salvo nos
+                                                casos previstos em lei.
+
+Prof. Rubens Mauricio
+                                                            
+
+
+---
+
+SEGURIDADE SOCIAL
+ASSISTÊNCIA SOCIAL
+
+                                                     Prof. Rubens Mauricio
+
+                
+
+
+---
+
+     Seguridade Social (Assistência Social)
+           Art. 203 da CF/88                                   Assistência Social
+                               A assistência social será prestada a quem dela necessitar, independentemente de
+                               contribuição à seguridade social, e tem por objetivos:
+
+                                       a proteção à família, à maternidade, à infância, à adolescência e à velhice;
+
+                                       o amparo às crianças e adolescentes carentes;
+
+                                       a promoção da integração ao mercado de trabalho;
+
+                                       a habilitação e reabilitação das pessoas portadoras de deficiência e a promoção
+                                       de sua integração à vida comunitária;
+
+                                       a garantia de um salário-mínimo de benefício mensal à pessoa portadora de
+                                       deficiência e ao idoso que comprovem não possuir meios de prover à própria
+                                       manutenção ou de tê-la provida por sua família, conforme dispuser a lei; e
+
+                                       a redução da vulnerabilidade socioeconômica de famílias em situação de pobreza
+                                       ou de extrema pobreza.
+Prof. Rubens Mauricio
+                                                         
+
+
+---
+
+     Seguridade Social (Assistência Social)
+
+
+                 Art. 204 da CF/88
+
+
+                                          Assistência Social
+
+
+                                     As ações governamentais na área da assistência social
+                                     serão realizadas com recursos do orçamento:
+
+
+                                                                          •     da Seguridade Social;
+                                                                          •     outras fontes.
+
+Prof. Rubens Mauricio
+                                           
+
+
+---
+
+     Seguridade Social (Assistência Social)
+
+              Art. 204 da CF/88
+
+                                                           Assistência Social
+
+                             As ações na área de assistência social, serão organizadas com base nas seguintes
+                             diretrizes:
+
+
+                                     descentralização político-administrativa, cabendo a coordenação e as
+                                     normas gerais à esfera federal e a coordenação e a execução dos
+                                     respectivos programas às esferas estadual e municipal, bem como a
+                                     entidades beneficentes e de assistência social;
+
+
+                                     participação da população, por meio de organizações representativas, na
+                                     formulação das políticas e no controle das ações em todos os níveis.
+
+Prof. Rubens Mauricio
+                                                     
+
+
+---
+
+SEGURIDADE SOCIAL
+PREVIDÊNCIA SOCIAL
+
+                                                    Prof. Rubens Mauricio
+
+               
+
+
+---
+
+     Seguridade Social (Previdência Social)
+                 Art. 201 da CF/88                        Previdência Social
+                              A previdência social será organizada sob a forma de regime geral, de caráter
+                              contributivo e de filiação obrigatória, observados critérios que preservem o
+                              equilíbrio financeiro e atuarial, e atenderá, nos termos da lei, a:
+
+                                      cobertura dos eventos de incapacidade temporária ou permanente para o
+                                      trabalho e idade avançada;
+                                      proteção à maternidade, especialmente à gestante;
+
+                                      proteção ao trabalhador em situação de desemprego involuntário;
+
+                                      salário-família e auxílio-reclusão para os dependentes dos segurados de
+                                      baixa renda; e
+
+                                      pensão por morte do segurado, homem ou mulher, ao cônjuge ou
+                                      companheiro e dependentes.
+
+Prof. Rubens Mauricio
+                                                     
+
+
+---
+
+QUESTÕES CESPE/CEBRASPE
+SEGURIDADE SOCIAL
+
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        No que diz respeito aos princípios constitucionais da seguridade social, julgue
+        os itens a seguir:
+
+        O princípio democrático exige a necessidade de envolvimento de diversos
+        segmentos na administração do Sistema de seguridade, de forma que sua
+        gestão deve contar com a participação dos trabalhadores, dos empregadores,
+        dos aposentados e do governo.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        No que diz respeito aos princípios constitucionais da seguridade social, julgue
+        os itens a seguir:
+
+        São garantidas a uniformidade e a equivalência dos benefícios e serviços às
+        populações urbanas e rurais, embora não se objetive a equidade na forma de
+        participação no custeio.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        Em relação aos princípios da seguridade social, integração da legislação
+        previdenciária e conceito de seguridade social, julgue os itens a seguir.
+
+        O princípio da seguridade social que estabelece que a contribuição social para
+        o custeio do regime geral de previdência social deve ser proporcional à
+        condição financeira dos seus contribuintes denomina-se equidade na forma de
+        participação no custeio.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        A seguridade social obedecerá a diversos princípios, tais como a vedação à
+        seletividade na prestação dos serviços e à redutibilidade do valor nominal dos
+        benefícios.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        A seguridade social compreende um conjunto integrado de ações de iniciativa
+        dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à
+        saúde, à previdência e à assistência social. A esse respeito, julgue os itens a
+        seguir.
+
+        São princípios da seguridade social a universalidade da cobertura e do
+        atendimento, a seletividade e distributividade na prestação dos benefícios e
+        serviços e a progressividade na forma de participação no custeio.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        Em relação aos princípios da seguridade social, integração da legislação
+        previdenciária e conceito de seguridade social, julgue os itens a seguir.
+
+        A assistência social integra a seguridade social, cujos programas são
+        coordenados e executados pelas esferas estadual e municipal, com recursos do
+        orçamento da seguridade social, bem como por entidades beneficentes e de
+        assistência social.
+
+Prof. Rubens Mauricio
+                                    
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        A seguridade social compreende um conjunto integrado de ações de iniciativa
+        dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à
+        saúde, à previdência e à assistência social. A esse respeito, julgue os itens a
+        seguir.
+
+        O direito à saúde deve ser garantido mediante políticas sociais e econômicas
+        que assegurem o acesso universal e igualitário às ações e aos serviços voltados
+        para sua promoção, proteção e recuperação, promovidos por meio de rede
+        regionalizada e hierarquizada e integrados em sistema único.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        A seguridade social compreende um conjunto integrado de ações de iniciativa
+        dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à
+        saúde, à previdência e à assistência social. A esse respeito, julgue os itens a
+        seguir.
+
+        A previdência social tem a finalidade de assegurar aos seus contribuintes a
+        proteção em face de eventos como incapacidade, idade avançada,
+        desemprego voluntário e reclusão ou morte daqueles de quem dependam
+        economicamente.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CEBRASPE – INSS (GEX GUARULHOS) – TÉCNICO DO SEGURO SOCIAL – 2022
+
+        A seguridade social compreende um conjunto integrado de ações de iniciativa
+        dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à
+        saúde, à previdência e à assistência social. A esse respeito, julgue os itens a
+        seguir.
+
+        A assistência social será prestada a quem dela necessitar, independentemente
+        de contribuição, a fim de garantir, entre outros objetivos, a proteção à
+        maternidade, à infância e à pessoa com deficiência.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---

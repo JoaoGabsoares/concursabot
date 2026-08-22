@@ -1,0 +1,440 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: PRAGMÁTICA
+---
+
+# PRAGMÁTICA
+
+---
+
+---
+
+PRAGMÁTICA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+                                               Situação real de uso da língua; momento
+                                                  imediato em que um texto (oral ou
+                                                         escrito) é produzido.
+
+
+               SITUAÇÃO
+PRAGMÁTICA   COMUNICATIVA
+                                                 EXEMPLO: Ao longo de uma aula, em
+                                                uma escola, o diretor pede licença para
+                                                          dar um aviso à turma:
+                                                   — Bom dia, alunos! Como vocês já
+                                                sabem, amanhã teremos o campeonato
+                                                  interclasses. Portanto, venham com
+                                                 roupas adequadas para participar dos
+                                                                  jogos.
+
+                                Prof. Adriana Figueiredo
+                    
+
+
+---
+
+                Interlocutores                                 Participantes
+
+                    Espaço                                       Contexto
+
+  SITUAÇÃO
+COMUNICATIVA
+                  Objetivos                                      Finalidade
+                comunicativos
+
+
+               Gênero discursivo                               “Tipo” de texto
+
+                                    Prof. Adriana Figueiredo
+                        
+
+
+---
+
+               MENSAGEM                               (Caminhando no parque)
+                IMEDIATA                             — As árvores estão bonitas!
+
+
+  SITUAÇÃO
+COMUNICATIVA
+
+
+               MENSAGEM                                    (Caminhando no parque)
+               CONTEXTUAL                                  — O sol está muito forte!
+
+                                Prof. Adriana Figueiredo
+                    
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+8. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+ Qualquer falante tem a intuição de que muitas vezes, com as palavras, queremos dizer mais
+ coisas do que aquilo que significam. Com a frase Está fazendo frio, se dizemos isso numa sala
+ com a janela aberta, nosso interlocutor entenderá que estamos pedindo que fechem as
+ janelas.
+ Essa mensagem implícita mostra algumas características básicas. Assinale a opção que
+ apresenta a característica que está em desacordo com essa mensagem.
+
+ A) É uma mensagem intencional porque, de fato, o emissor deseja que fechem a janela.
+ B) É uma mensagem inferida e contextual, e não está expressa semanticamente com as
+ palavras empregadas.
+ C) É uma mensagem imediata, no sentido de que é o primeiro significado que se mostra na
+ mente do interlocutor.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+8. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+
+ D) É uma mensagem que nunca representa uma concreção da informação explícita.
+
+ E) É uma mensagem que traz uma informação que se acrescenta à explícita, mas não a
+ corrige nem a nega.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+9. FGV - 2022 - Prefeitura de Manaus - AM - Advogado
+ Imaginemos a situação de um cliente que diz ao médico:
+ Hoje me levantei pálido, com febre e com enjoo.
+
+ Sobre essa situação comunicativa, assinale a afirmativa correta.
+
+ A) As palavras do cliente possuem valor figurado e, por elas, o médico pode identificar a
+ enfermidade.
+ B) O cliente não soube expressar suas queixas de forma adequada, tornando impossível a
+ identificação da doença.
+ C) As palavras ditas pelo cliente indicam implicitamente a sua enfermidade.
+ D) O médico pode interpretar literalmente as palavras do cliente e também como indícios de
+ enfermidade.
+ E) As palavras do cliente em nada auxiliam o médico na identificação do mal que o ataca.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+10. FGV - 2021 - PC RJ - Inspetor de Polícia
+ Numa noite friorenta, um casal recebe um casal de amigos para jantar; sentam-se
+ inicialmente na sala de visitas, onde as janelas estão abertas e a mulher recém-chegada diz:
+ "Os jornais dizem que hoje vai ser a noite mais fria do ano!"
+
+ Nesse caso, a frase tem uma função manifesta e uma função real, que correspondem,
+ respectivamente, a:
+
+ A) uma informação e um pedido;
+ B) uma declaração e uma ordem
+ C) uma manifestação afetiva e uma informação;
+ D) uma constatação e uma explicação;
+ E) uma explicação e uma solicitação.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+11. FGV - 2021 - TJ-RO - Técnico Judiciário
+ “As fotografias estão ótimas; acho que perdi bons momentos; vou ver se qualquer dia desses
+ envio uma foto minha para você, você sabe que eu não gosto de tirar fotos.”
+
+ O emprego da expressão “vou ver” nesse e-mail indica:
+
+ A) retribuição formal a uma ação do outro;
+
+ B) desprezo pela ação a ser praticada;
+
+ C) pouco compromisso na promessa feita;
+
+ D) preocupação com um compromisso firmado;
+
+ E) sugestão de uma ação dependente do outro.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+12. FGV - 2021 - PC RJ - Perito Legista
+ Num jantar de amigos, em um restaurante, um dos presentes diz: "Estas sopas de legumes
+ ficam sempre um pouco insossas, né?"
+
+ Considerando a situação comunicativa da frase, a sua finalidade mais importante é:
+
+ A) ofender o cozinheiro que não prepara bem as sopas;
+
+ B) declarar que não gosta de sopas de legumes;
+
+ C) solicitar indiretamente que lhe passem o sal;
+
+ D) mostrar desagrado por estar presente no encontro;
+
+ E) indicar a má seleção do restaurante para o encontro.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+13. FGV - 2022 - PC-RJ - Auxiliar Policial de Necropsia de 3ª Classe
+
+ Um cliente de um restaurante estuda o cardápio e pede explicações sobre a “sopa de ninhos
+ de andorinha”; o garçom explica que se trata de andorinhas marinhas e que a sopa é feita
+ com as algas que a ave recolhe no mar e deposita no ninho. O cliente comenta: – Ainda bem!
+
+ O comentário do cliente indica que ele estava preocupado com:
+
+ A) a demora na preparação do prato;
+ B) o alto custo da refeição;
+ C) a utilização de elementos estranhos;
+ D) o futuro das aves;
+ E) o visual negativo da comida.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+14. FGV - 2022 - Prefeitura de Manaus - AM - Condutor de Ambulância
+
+ Se alguém anota em uma agenda, no dia 30 de abril, a seguinte mensagem: “Aniversário de
+ Bruna”, essa anotação só não tem a função de
+
+ A) comprar um presente para Bruna.
+
+ B) telefonar para Bruna.
+
+ C) não esquecer de homenageá-la.
+
+ D) lembrar a data do aniversário de Bruna.
+
+ E) mostrar que Bruna é uma pessoa amiga.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+15. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+
+ Observe agora um pequeno cartaz na porta de um estacionamento no centro da cidade,
+ voltado para a rua: SAÍDA DE VEÍCULOS OBRIGADO
+
+ Nesse cartaz, a finalidade maior é:
+
+ A) solicitar que não se estacione na saída;
+
+ B) alertar para o perigo de atropelamento;
+
+ C) avisar que a entrada é localizada em outro lugar;
+
+ D) agradecer o uso do estacionamento;
+
+ E) evitar a entrada e a saída de veículos simultaneamente.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+16. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+
+ Observe o seguinte diálogo, presente numa tira da célebre Mafalda, em que uma amiga da
+ mãe conversa com elas: — Amiga: Ah, então esta é a tua filha? Que bonitinha! - Amiga:
+ (dirigindo-se a Mafalda) Então, de quem você gosta mais: do papai ou da mamãe? - Mafalda:
+ A senhora quer uma resposta standard ou uma resposta mais completa do que sinto por
+ cada um deles?
+
+ Sobre os componentes dessa tira, é correto afirmar que:
+
+ A) a primeira pergunta da senhora tem por objetivo criar alguma dificuldade para a menina;
+
+ B) a resposta standard aludida por Mafalda certamente mostraria a sua preferência por um
+ deles;
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+16. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+
+ C) a resposta mais completa aludida por Mafalda estaria mais de acordo com a situação
+ comunicativa da tira;
+
+ D) o efeito cômico da tira se efetiva no fato de Mafalda fugir da resposta da amiga da mãe;
+
+ E) a primeira pergunta da senhora busca criar simpatia e estabelecer uma relação amistosa
+ com Mafalda.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+17. FGV - 2022 - PC-RJ - Auxiliar Policial de Necropsia de 3ª Classe
+
+ Num passeio, alguém pergunta a um dos acompanhantes: – Que horas são? A resposta mais
+ relevante para essa pergunta é
+
+ A) Não sei, mas estou com uma fome danada;
+
+ B) Deve ser tarde porque o sol já está se pondo;
+
+ C) Ali na esquina, vamos ver no relógio da torre;
+
+ D) Hora de voltar, pois já estou cansado;
+
+ E) Para que ficar preocupado com a hora?
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+            COMUNICAÇÃO
+
+EMISSOR       MENSAGEM                           RECEPTOR
+
+                  CÓDIGO
+
+                      Prof. Adriana Figueiredo
+          
+
+
+---
+
+                                                           (Para um receptor que não fala português)
+                      CÓDIGO                                   - Preciso saber onde é o banheiro.
+
+
+                   MENSAGEM                                        (Em uma conversa entre amigos)
+                    AMBÍGUA                                     - João foi embora da loja de calçados.
+
+
+  FALHAS DE    CONHECIMENTOS                                      (Em uma conversa entre amigos)
+COMUNICAÇÃO    INSUFICIENTES DO                                 - Terminei com a minha namorada!
+                  RECEPTOR                                      - Não sabia que estava namorando!
+
+                                                            (Em uma entrevista de emprego)
+                                                    - Sou formado em Direito pela Universidade de
+                                                     Brasília, onde morei a minha vida toda. Minha
+              MENSAGEM PROLIXA                     mãe foi morar lá quando se casou com meu pai,
+                                                    aos 24 anos. Quando nasci, ela já tinha 32 e, no
+                                                  mesmo ano, infelizmente meu pai faleceu vítima
+                           Prof. Adriana Figueiredo                  de um câncer.
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+18. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+Observe a seguinte situação: Guilherme, que está viajando, pede a Magda, por e-mail, que
+compre para ele uma revista e verifique se foi publicado corretamente o artigo que ele havia
+escrito e, se isso ocorreu, que lhe envie. Alguns dias depois, Magda responde: “Não me
+esqueci da revista. Já a comprei.”
+
+Ocorre nessa situação uma falha na comunicação, que é certamente devida ao seguinte fato:
+
+A) Magda mentiu sobre o fato de ter comprado a revista;
+B) Magda presta informações insuficientes a Guilherme;
+C) Guilherme não expõe com clareza seu pedido;
+D) Magda constrói sua resposta com ambiguidade;
+E) Guilherme é muito prolixo em sua solicitação.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+19. FGV - 2021 - Banestes - Analista em Tecnologia da Informação
+Quando um ato comunicativo não se realiza de forma adequada, isso pode ser explicado por
+problemas de um dos fatores presentes nesse ato. Observe o caso a seguir.
+
+Roberto chegou atrasado ao cinema e não pôde compreender por que a heroína do filme
+recusou a casar-se com o campeão mundial de skate.
+
+Aponte a razão da falha na comunicação:
+
+A) o código empregado é diferente para o emissor e o receptor;
+B) a presença de ambiguidade na comunicação;
+C) os conhecimentos do receptor são insuficientes;
+D) a mensagem é bastante densa e difícil;
+E) a pouca colaboração do receptor na compreensão da mensagem.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                    @professoraadrianafigueiredo
+
+              
+
+
+---
+
+---

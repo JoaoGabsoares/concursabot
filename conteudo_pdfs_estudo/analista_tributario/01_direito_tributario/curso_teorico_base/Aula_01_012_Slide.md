@@ -1,0 +1,1667 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 01_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO TRIBUTÁRIO
+---
+
+# DIREITO TRIBUTÁRIO
+
+---
+
+---
+
+DIREITO TRIBUTÁRIO
+     SEFAZ-SE
+HORA DA VERDADE
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+  Prof. Fábio Dutra
+
+                       @proffabiodutra             Fábio DutraProfFabioDutraConcursos
+
+Espécies Tributárias
+Prof. Fábio Dutra
+                                
+
+
+---
+
+---
+
+NOÇÕES DE TRIBUTOS
+QUESTÕES CEBRASPE
+
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+---
+
+   CEBRASPE/CAU
+   MG-Contador/2025
+   Julgue o item seguinte, no que se refere a conceito e espécie de
+     tributos, repartição das receitas tributárias e normas tributárias.
+     O tributo é uma obrigação pecuniária imposta por lei, sem natureza de
+     sanção, enquanto o imposto é uma espécie tributária não vinculada,
+     cuja cobrança independe de qualquer contraprestação direta ao
+     contribuinte.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+ CEBRASPE/PC-PE-Delegado/2025
+  O sistema tributário nacional (STN) compreende o conjunto de normas
+  constitucionais e infraconstitucionais que disciplinam a tributação. A
+  complexidade de tal sistema advém tanto da disciplina constitucional
+  quanto do modelo federativo adotado, caracterizado pela autonomia
+  recíproca entre União e estados-membros e municípios, constituindo-
+  se, assim, a pluralidade de pessoas dotadas de competência legislativa
+  para instituir tributos. A respeito dos tributos, julgue os itens que se
+  seguem.
+      I De acordo com o Código Tributário Nacional (CTN), tributo é toda
+      prestação pecuniária compulsória, em moeda ou cujo valor nela se
+      possa exprimir, instituída em lei e cobrada mediante atividade
+      administrativa plenamente vinculada, ainda que constitua sanção de
+      ato ilícito, como é o caso da taxa para retirada de veículo apreendido
+      por infração de trânsito, que inclui custos de guincho e estadia no
+      pátio.
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+   CEBRASPE/PC-PE-Delegado/2025
+     II De acordo com disposição literal do CTN, são tributos os impostos, as
+     taxas e as contribuições de melhoria.
+     III A Constituição Federal de 1988 prevê cinco espécies tributárias:
+     impostos, taxas, contribuição de melhoria, empréstimos compulsórios
+     e contribuições especiais.
+     Assinale a opção correta.
+     a) Apenas o item I está certo.
+     b) Apenas o item II está certo.
+     c) Apenas os itens I e III estão certos.
+     d) Apenas os itens II e III estão certos.
+     e) Todos os itens estão certos.
+
+                Gabarito: D
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+   CEBRASPE/CAU-MG-Adv/2025
+     Em relação a aspectos concernentes à obrigação tributária e à
+     cobrança do crédito tributário, julgue o item seguinte, à luz da
+     jurisprudência dos tribunais superiores.
+     Segundo a jurisprudência do STF, é legítimo aos conselhos de
+     fiscalização suspender o registro profissional quando verificada a
+     inadimplência reiterada das anuidades.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   Tema 732 - STF
+     Tese:
+     É inconstitucional a suspensão realizada por conselho de fiscalização
+     profissional do exercício laboral de seus inscritos por inadimplência de
+     anuidades, pois a medida consiste em sanção política em matéria
+     tributária.
+
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/IBAMA/2025
+     Em relação ao direito financeiro e tributário, julgue o item a seguir, de
+     acordo com as legislações pertinentes e as normas aplicáveis ao
+     IBAMA.
+
+
+     Considera-se tributo toda prestação pecuniária compulsória, instituída
+     em lei, cobrada mediante atividade administrativa plenamente
+     vinculada e que não constitua sanção por ato ilícito.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/CAGEPA/2024
+     Julgue os seguintes itens, relativos a tributos.
+     I Tributo é toda prestação pecuniária compulsória, em moeda ou cujo
+     valor nela se possa exprimir, que não constitua sanção de ato ilícito,
+     instituída em lei e cobrada mediante atividade administrativa
+     plenamente vinculada.
+     II Imposto é uma espécie de tributo que tem como fato gerador uma
+     atuação estatal específica, diretamente referida ao contribuinte.
+     III Taxa é uma espécie de tributo que tem como fato gerador o
+     exercício regular do poder de polícia ou a utilização, efetiva ou
+     potencial, de serviço público específico e divisível, prestado ao
+     contribuinte ou posto a sua disposição.
+
+
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+---
+
+   CEBRASPE/CAGEPA/2024
+     Assinale a opção correta.
+     a) Apenas o item I está certo.
+     b) Apenas o item II está certo.
+     c) Apenas o item III está certo.
+     d) Apenas os itens I e II estão certos.
+     e) Apenas os itens I e III estão certos.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+   CEBRASPE/PGM Mossoró/2024
+     A multa cobrada por atraso no pagamento do ITD, imposto de
+     competência dos estados e do DF, não é considerada como tributo pois
+     representa uma punição pelo não cumprimento da obrigação legal de
+     pagamento no prazo estabelecido pela legislação.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/CAGEPA/2024
+     À luz da Constituição Federal de 1988 (CF) e do Código Tributário
+     Nacional (CTN), assinale a opção correta.
+     a) A instituição de um imposto extraordinário não pode conduzir a um
+     bis in idem e não se sujeita aos princípios da anterioridade e da
+     reserva das competências impositivas.
+     b) Tributos constituem obrigação ex lege.
+     c) A CF delegou à legislação infraconstitucional a tarefa de traçar o
+     arquétipo genérico de cada tributo, limitando-se a fazer distinção
+     nominal de cada espécie tributária.
+     d) O imposto é uma           exação            vinculada     dependente   de   uma
+     contraprestação estatal.
+      e) Na parafiscalidade, uma terceira pessoa arrecada tributo que não
+      criou para sustentar encargos próprios do Estado.
+               Gabarito: B
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+ESPÉCIES TRIBUTÁRIAS
+ QUESTÕES CEBRASPE
+
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+---
+
+   CEBRASPE/STM-Analista/2025
+     Em relação a impostos, taxas e contribuições, julgue o item a seguir,
+     considerando as disposições da Constituição Federal de 1988 (CF) e a
+     jurisprudência dos tribunais superiores.
+     É competência comum à União, aos estados e ao Distrito Federal a
+     instituição de contribuições sociais e de interesse das categorias
+     profissionais ou econômicas.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/ANM-Contab./2025
+     Considerando as disposições da Constituição Federal de 1988 acerca
+     de competência tributária, limitações ao poder de tributar e tributos
+     dos diferentes entes federativos, julgue o item a seguir.
+     Em caso de déficit atuarial nos sistemas de custeio de regime próprio
+     de previdência social, a contribuição ordinária dos aposentados e
+     pensionistas poderá incidir sobre o valor dos proventos de
+     aposentadoria e de pensões que supere o salário mínimo.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/CAU
+   MG-Contador/2025
+   Julgue o item seguinte, no que se refere a conceito e espécie de
+     tributos, repartição das receitas tributárias e normas tributárias.
+     As taxas e as contribuições de melhoria possuem a mesma natureza
+     jurídica, uma vez que ambas são tributos vinculados, exigidos como
+     contraprestação direta por serviços públicos específicos e divisíveis.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+---
+
+   CEBRASPE/EMBRAPA-Adv/2025
+     Julgue o item a seguir, relativo ao Sistema Tributário Nacional, com
+     base no disposto na Constituição Federal de 1988 (CF) e na
+     jurisprudência do Supremo Tribunal Federal (STF).
+     O STF reconheceu a legitimidade da contribuição ao INCRA, assentada
+     a natureza de contribuição de intervenção sobre o domínio econômico,
+     exceto no que diz respeito à cobrança em face das empresas urbanas,
+     uma vez que a referida espécie tributária exige relação direta entre o
+     contribuinte e a atuação estatal patrocinada pelo tributo.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   Tema 495 - STF
+     Tese:
+     É constitucional a contribuição de intervenção no domínio econômico
+     destinada ao INCRA devida pelas empresas urbanas e rurais, inclusive
+     após o advento da EC nº 33/2001.
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+---
+
+   CEBRASPE/CAU-MG-Adv/2025
+     Em relação a aspectos concernentes à obrigação tributária e à
+     cobrança do crédito tributário, julgue o item seguinte, à luz da
+     jurisprudência dos tribunais superiores.
+     As anuidades cobradas pelos conselhos de fiscalização têm natureza
+     jurídica de tributo, estando situadas no âmbito da competência
+     exclusiva da União para edição de contribuições corporativas.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/SEFAZ-AC/2024
+     De acordo com a CF, os empréstimos compulsórios podem
+     a) prover recursos cuja aplicação não será necessariamente vinculada.
+     b) ser instituídos por todos os entes federativos.
+     c) ser instituídos por medida provisória em caso de urgência ou
+     calamidade pública.
+     d) ser instituídos no caso de guerra externa ou sua iminência.
+     e) servir para atender a despesas ordinárias de relevante interesse
+     municipal.
+
+                Gabarito: D
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/SEFAZ-AC/2024
+     De acordo com a Constituição Federal de 1988, a contribuição fixada
+     pela assembleia-geral para custeio do sistema confederativo do
+     respectivo sindicato
+     a) depende de instituição por lei.
+     b) não tem natureza jurídica de tributo.
+     c) tem natureza jurídica tributária de contribuição social sindical.
+     d) é compulsória.
+     e) é cobrada de todos os trabalhadores, incluídos os não filiados.
+
+                Gabarito: B
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+---
+
+---
+
+---
+
+PRINCÍPIOS TRIBUTÁRIOS
+ QUESTÕES CEBRASPE
+
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+---
+
+   CEBRASPE/CAU
+   MG-Contador/2025
+   Julgue o item seguinte, a respeito dos princípios gerais do Sistema
+     Tributário Nacional e das limitações do poder de tributar.
+     À luz do princípio da legalidade tributária, a majoração de tributo
+     somente pode ser promovida mediante lei em sentido estrito, salvos os
+     casos expressamente autorizados pela própria Constituição.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/EMBRAPA-Adv/2025
+     Julgue o item a seguir, relativo ao Sistema Tributário Nacional, com
+     base no disposto na Constituição Federal de 1988 (CF) e na
+     jurisprudência do Supremo Tribunal Federal (STF).
+     Por meio da reforma tributária implementada pela EC 123/2023, foram
+     inseridos novos princípios expressos no âmbito do Sistema Tributário
+     Nacional, como a simplicidade, a cooperação e a defesa do meio
+     ambiente.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/CAU
+   MG-Contador/2025
+   Julgue o item seguinte, a respeito dos princípios gerais do Sistema
+     Tributário Nacional e das limitações do poder de tributar.
+     O exercício do poder de tributar deve estar em fiel observância às
+     normas constitucionais, razão pela qual uma lei regularmente
+     aprovada pode ser considerada inválida se contrariar princípios
+     tributários.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/PF-Contador/2025
+     Julgue o item que se seguem, relativos às normas tributárias gerais e
+     ao tratamento contábil aplicável aos impostos e contribuições.
+     De acordo com o princípio da anterioridade nonagesimal, tributos
+     majorados não devem ser cobrados imediatamente, exigindo-se um
+     intervalo mínimo de 90 dias entre a publicação da lei que o majorou e
+     o início da exigência do tributo, contudo essa regra não se aplica, por
+     exemplo, aos impostos de importação, de exportação e sobre
+     operações financeiras, cujas alíquotas podem ser alteradas com
+     cobrança imediata.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/CAU
+   MG-Contador/2025
+   Julgue o item seguinte, a respeito dos princípios gerais do Sistema
+     Tributário Nacional e das limitações do poder de tributar.
+     A redução significativa de renda, ou patrimônio, do contribuinte por
+     força da tributação, configura, por si só, indesejável atitude com
+     natureza confiscatória, vedada pelo princípio constitucional do não
+     confisco, mesmo que no momento da fixação da carga tributária, tenha
+     sido respeitada a proporcionalidade, a capacidade contributiva, e a
+     finalidade do tributo.
+
+                Gabarito: E
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+   CEBRASPE/PF-Contador/2025
+     Julgue o item que se seguem, relativos às normas tributárias gerais e
+     ao tratamento contábil aplicável aos impostos e contribuições.
+     Embora não esteja previsto expressamente no Código Tributário
+     Nacional como imposto, taxa ou contribuição de melhoria, a CSLL é um
+     tipo de tributo constitucionalmente previsto e atende ao princípio da
+     legalidade.
+
+                Gabarito: C
+Direito Tributário
+Prof. Fábio Dutra
+                              
+
+
+---
+
+CEBRASPE/TRF6-Analista
+Judiciário/2025
+A respeito do Sistema Tributário Nacional, considerando as disposições
+constitucionais e as alterações promovidas pela Reforma Tributária do
+Consumo (Emenda Constitucional n.º 132/2023), julgue o item a seguir.
+A anterioridade nonagesimal deve ser observada na majoração do
+imposto de renda.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/Auditor (CGE RJ) /2024
+A respeito dos princípios constitucionais tributários e das espécies
+tributárias, julgue o item a seguir, considerando o Código Tributário
+Nacional (CTN), a Constituição Federal de 1988 e a jurisprudência do STF.
+É legítimo ao estado do Rio de Janeiro estabelecer regime diferenciado de
+tributação exclusivamente em favor de operações das quais resulte a
+saída interna de mercadorias produzidas em estabelecimentos localizados
+naquele estado.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/PGE-RR-Procurador/2023
+Considerando o princípio constitucional da retroatividade em matéria
+tributária, julgue o próximo item.
+ A retroatividade de nova lei não pode ser aplicada quando se diminui
+alíquota de tributo devido anteriormente.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+---
+
+---
+
+---
+
+QUESTÕES CEBRASPE
+IMUNIDADE TRIBUTÁRIA
+
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, a respeito dos princípios gerais do Sistema
+Tributário Nacional e das limitações do poder de tributar.
+É vedado ao fisco instituir taxas sobre o patrimônio de entidades
+religiosas.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/InoversaSul-Comp/2025
+Julgue o item seguinte, a respeito dos princípios gerais do Sistema
+Tributário Nacional e das limitações do poder de tributar.
+É vedado ao fisco instituir taxas sobre o patrimônio de entidades
+religiosas.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/2025
+O poder de tributar é expressão da soberania estatal, mas não é absoluto.
+Ao contrário, é moldado por um conjunto de limitações constitucionais que
+atuam como garantias individuais e coletivas contra os abusos do fisco. A
+respeito das limitações ao poder de tributar, julgue os itens subsecutivos.
+I De acordo com o STF, aplica-se a imunidade tributária às importações de
+discos de vinil que contenham obras de artistas brasileiros e tenham sido
+produzidos no Paraguai, visto que o intuito da norma imunizante é a
+proteção    da    criação   intelectual  brasileira   de    fonogramas     e
+videofonogramas musicais, independentemente de onde tenha sido criada
+ou produzida a obra.
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                            
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/2025
+ II A imunidade tributária sobre livros, jornais e periódicos se estende aos
+ livros eletrônicos ou digitais, uma vez que a interpretação acerca das
+ imunidades tributárias deve considerar os novos fenômenos sociais,
+ culturais e tecnológicos, evitando-se o esvaziamento das normas
+ imunizantes por mero lapso temporal e visando-se à constante
+ atualização do alcance de seus preceitos.
+ III É vedado à União, aos estados, ao Distrito Federal e aos municípios
+ instituir impostos sobre o patrimônio, a renda e o serviço das entidades
+ religiosas e dos templos de qualquer culto, desde que relacionados com
+ suas atividades essenciais, representando tal vedação uma imunidade
+ subjetiva.
+ Assinale a opção correta.
+ a) Apenas o item I está certo.
+ b) Apenas o item III está certo.
+ c) Apenas os itens I e II estão certos.
+ d) Apenas
+Direito  Tributário
+Prof. Fábio Dutra
+                     os itens II D
+                    Gabarito:    e III estão certos.                        @ProfFabioDutra
+ e) Todos os itens estão certos.         
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+  QUESTÕES CEBRASPE
+COMPETÊNCIA TRIBUTÁRIA
+
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+---
+
+CEBRASPE/POLÍCIA FEDERAL/2025
+Julgue o item que se segue, relativo ao Sistema Tributário Nacional.
+A administração tributária pode delegar a função de arrecadação de
+tributos a instituições financeiras sem que isso implique a delegação da
+competência tributária.
+
+Prof. Fábio Dutra
+                 Gabarito: C
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, no que se refere a conceito e espécie de
+tributos, repartição das receitas tributárias e normas tributárias.
+Compete aos municípios instituir e arrecadar os seguintes tributos:
+Imposto Predial e Territorial Urbano (IPTU); Imposto sobre Transmissão
+Causa Mortis e Doação (ITCMD); e Imposto sobre Serviços de Qualquer
+Natureza (ISS).
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/FUNPRESP-Contab/2025
+Acerca de retenção tributária e obrigações fiscais acessórias, julgue o
+item a seguir, considerando a legislação pertinente em vigor.
+A instituição do imposto de importação (II), do imposto sobre operações
+relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação (ICMS), e
+da contribuição social sobre o lucro líquido (CSLL) compete,
+respectivamente, à esfera municipal, estadual e federal do governo.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/STM-Analista/2025
+Em relação a impostos, taxas e contribuições, julgue o item a seguir,
+considerando as disposições da Constituição Federal de 1988 (CF) e a
+jurisprudência dos tribunais superiores.
+Por se enquadrarem na espécie tributária taxa, as taxas judiciárias e as
+custas judiciais não podem ser cobradas simultaneamente, sob pena de
+se configurar bis in idem.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/ISS-Cuiabá/2024
+   À luz do disposto no CTN, assinale a opção correta a respeito do
+instituto da delegação no âmbito do direito tributário.
+a) A delegação das funções de arrecadação e fiscalização dos tributos
+não é passível de revogação.
+b) É vedado cometimento da função de arrecadação de tributo a
+pessoa jurídica de direito privado.
+c)          É possível a delegação da competência tributária desde que
+realizada em favor de pessoa jurídica de direito público.
+d) Admite-se a delegação a pessoa jurídica de direito público das
+funções de executar atos ou decisões administrativas em matéria
+tributária.
+e) Admite-se a delegação a pessoas jurídica de direito público das
+funções de arrecadar ou fiscalizar tributos, o que não compreende as
+garantias e os privilégios processuais de que goza o ente público
+Direito TributárioGabarito: D
+delegante.
+Prof. Fábio Dutra
+                              
+                                                                 @ProfFabioDutra
+
+
+---
+
+CEBRASPE/SEFAZ-AC/2024
+A competência tributária residual
+
+a) pode ser exercida por meio de qualquer espécie tributária.
+b) é exercida pela União por meio de lei complementar e de forma não
+cumulativa.
+c) é exercida pelos municípios no âmbito de sua competência residual
+local.
+d) não pode ter a mesma alíquota de outro imposto.
+e) pode ser exercida mediante lei ordinária ou medida provisória.
+
+Prof. Fábio Dutra
+                 Gabarito: B
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/FINEP/2024
+A respeito da competência tributária, assinale a opção correta,
+considerando a jurisprudência dos tribunais superiores e o disposto no
+Código Tributário Nacional (CTN).
+a) A competência tributária é delegável, mediante convênio, a pessoas
+jurídicas de direito público, ficando estas investidas, inclusive, do poder
+de legislar sobre o tributo objeto da delegação.
+b) Eventual revogação da delegação da competência tributária por
+prazo determinado só produzirá efeitos se ratificada pela pessoa
+jurídica de direito público delegatária.
+c) Os tributos cuja receita seja distribuída, no todo ou em parte, a
+outras pessoas jurídicas de direito público pertencem à competência
+legislativa daquela a que tenham sido atribuídos.
+
+
+Direito Tributário
+Prof. Fábio Dutra
+                                                                   @ProfFabioDutra
+                          
+
+
+---
+
+CEBRASPE/FINEP/2024
+d) O não exercício da competência tributária pelo município autoriza o
+seu exercício pelo estado-membro em que aquele se localiza, visto que
+a Constituição Federal de 1988 (CF) prescreve o dever fundamental de
+pagar tributos.
+e) A concessão de isenção pelo ente competente, no caso de tributos
+cuja receita seja distribuída, no todo ou em parte, a outras pessoas
+jurídicas de direito público, depende da anuência destas, sob pena de
+ofensa ao pacto federativo.
+
+Prof. Fábio Dutra
+                 Gabarito: C
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/ DATAPREV/2023
+No que diz respeito à atribuição de competência tributária, a norma
+proíbe que o ente competente transfira funções de arrecadação de
+tributos ao setor privado.
+
+                Gabarito: Errado
+Direito Tributário
+Prof. Fábio Dutra
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+---
+
+ QUESTÕES CEBRASPE
+LEGISLAÇÃO TRIBUTÁRIA
+
+
+                                           Prof. Fábio Dutra
+
+      
+
+
+---
+
+---
+
+CEBRASPE/ANM-Contabilidade/2025
+Com relação à administração tributária e à vigência, aplicação,
+interpretação e integração da legislação tributária, julgue o seguinte
+item.
+Se não houver disposição legal em sentido contrário, um convênio em
+matéria tributária celebrado entre a União e o Distrito Federal entra em
+vigor na data nele prevista.
+
+Prof. Fábio Dutra
+                 Gabarito: C
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/ANM-Contabilidade/2025
+Com relação à administração tributária e à vigência, aplicação,
+interpretação e integração da legislação tributária, julgue o seguinte
+item.
+Na hipótese de dúvida sobre a capitulação legal de fato jurídico
+tributário, a interpretação da lei tributária que define infrações deve ser
+feita de modo mais benéfico à administração tributária.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+CEBRASPE/ANM-Contabilidade/2025
+Com relação à administração tributária e à vigência, aplicação,
+interpretação e integração da legislação tributária, julgue o seguinte
+item.
+A lei tributária não se aplica a ato pretérito não definitivamente julgado
+quando deixe de defini-lo como infração.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, no que se refere a conceito e espécie de
+tributos, repartição das receitas tributárias e normas tributárias.
+Em matéria de legislação tributária, a instituição de normas gerais
+sobre obrigação, lançamento e crédito tributários é reservada à lei
+complementar.
+
+Prof. Fábio Dutra
+                 Gabarito: C
+Direito Tributário
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+CEBRASPE/SEFAZ AC/2024
+O legislador poderá propor alteração nas normas tributárias, por meio
+de lei ordinária, em matéria de
+
+a) definição das alíquotas dos impostos previstos na Constituição
+Federal de 1988.
+b) criação de imposto residual.
+c) definição das bases de cálculo dos impostos previstos na
+Constituição Federal de 1988.
+d) definição dos fatos geradores dos impostos previstos na Constituição
+Federal de 1988.
+e) definição dos contribuintes dos impostos previstos na Constituição
+Federal de 1988.
+
+
+Direito Tributário
+Prof. Fábio Dutra
+                     Gabarito: A                                        @ProfFabioDutra
+                                   
+
+
+---
+
+---
+
+---
+
+ QUESTÕES CEBRASPE
+OBRIGAÇÃO TRIBUTÁRIA
+
+
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+A respeito do fato gerador dos tributos, à luz do CTN e do
+2025
+entendimento jurisprudencial do STJ, julgue os itens seguintes.
+I O CTN consagra o princípio do non olet, segundo o qual o produto de
+atividade ilícita é passível de tributação, desde que realizada, no
+mundo dos fatos, a hipótese de incidência da obrigação tributária.
+II Eventual renda obtida por meio de tráfico de drogas deve ser
+tributada, já que o que se tributa é o aumento patrimonial, e não o
+tráfico em si, sendo a ilicitude circunstância acidental à aplicação da
+norma de tributação.
+
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                         
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+III De acordo com o STJ, no caso de importação ilícita de mercadorias,
+2025 a sua ilicitude e aplicada a pena de perdimento dos bens
+reconhecida
+àquele que realizou a importação, não lhe poderá ser cobrado o
+imposto de importação, já que a conduta de importar mercadorias é
+elemento essencial do tipo tributário e a ilicitude da importação afeta
+a própria incidência da regra tributária.
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item III está certo.
+c) Apenas os itens I e II estão certos.
+d) Apenas os itens II e III estão certos.
+e) Todos os itens estão certos.
+
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+A respeito do fato gerador da obrigação tributária, assinale a opção
+2025de acordo com o CTN e a jurisprudência dos tribunais
+correta
+superiores.
+a) É permitido que a autoridade administrativa desconsidere atos ou
+negócios jurídicos praticados com a finalidade de dissimular a
+ocorrência do fato gerador do tributo, observados os procedimentos
+previstos em lei ordinária, sendo tal prática considerada constitucional
+pelo STF.
+b) O fato gerador da obrigação acessória é qualquer situação que, na
+forma da legislação aplicável, imponha necessariamente a prática de
+um ato que estabeleça comportamentos comissivos ao sujeito passivo
+da obrigação tributária.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                @ProfFabioDutra
+                         
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+c) Em se tratando de situação jurídica, considera-se ocorrido o fato
+2025e existentes os seus efeitos desde o momento em que se
+gerador
+verificam as circunstâncias materiais necessárias para a produção dos
+efeitos que normalmente lhe são próprios.
+d) A definição legal do fato gerador deve ser interpretada abstraindo-
+se apenas os efeitos dos fatos efetivamente ocorridos.
+e) O fato gerador da obrigação principal é a situação definida na lei
+ou no regulamento do fisco como necessária e suficiente à sua
+ocorrência.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: A                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/CAU MG-Cont/2025
+Julgue o item seguinte, acerca da obrigação tributária, da
+solidariedade e da responsabilidade tributária.
+O sujeito ativo da obrigação tributária é a pessoa jurídica de direito
+público titular da competência para exigir o tributo, enquanto o sujeito
+passivo pode ser o contribuinte ou o responsável, conforme definido
+na legislação.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+Em relação aos sujeitos ativo e passivo da obrigação tributária, julgue os
+2025
+itens seguintes, de acordo com o CTN.
+ I As convenções particulares, relativas à responsabilidade pelo pagamento
+ de tributos, não podem, em qualquer hipótese, ser opostas à fazenda
+ pública para modificar a definição legal do sujeito passivo das obrigações
+ tributárias correspondentes.
+ II A pessoa obrigada ao pagamento de tributo ou de penalidade pecuniária
+ é denominada sujeito passivo da obrigação principal.
+ III Sujeito ativo da obrigação é a pessoa jurídica de direito público titular
+ da competência para exigir o seu cumprimento.
+ Assinale a opção correta.
+ a) Apenas o item I está certo.
+ b) Apenas o item II está certo.
+ c) Apenas os itens I e III estão certos.
+ d) Apenas os itens II e III estão certos.
+Direito Tributário
+ e)FábioTodos
+Prof.      Dutra   Gabarito:   D certos.
+                   os itens estão                                     @ProfFabioDutra
+                             
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/
+No que diz respeito à prescrição e à decadência do crédito tributário e
+2025
+à solidariedade na responsabilidade tributária, assinale a opção
+ correta.
+ a) O pagamento efetuado por um dos devedores solidários obrigados
+ não aproveita aos demais, caso seja realizado contrariamente ao
+ interesse dos codevedores.
+ b) Somente as pessoas que tenham interesse comum na situação que
+ constitua o fato gerador serão solidariamente obrigadas ao
+ pagamento do tributo.
+ c) Em uma ação de execução fiscal contra um dos devedores
+ solidários, a interrupção da prescrição por meio de despacho do juiz
+ que ordenar a citação do referido devedor se estenderá aos demais
+ devedores.
+ d) Na solidariedade tributária, deve ser observado o benefício de
+ ordem:
+Direito Tributário
+Prof. Fábio Dutra  a cobrança
+                   Gabarito: C dos devedores solidários deve respeitar     a
+                                                                  @ProfFabioDutra
+                            
+
+
+---
+
+CEBRASPE/CAU MG-Cont/2025
+Julgue o item seguinte, acerca da obrigação tributária, da
+solidariedade e da responsabilidade tributária.
+A remissão do crédito tributário concedida pessoalmente a um dos
+devedores solidários estende-se a todos os demais.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/POLÍCIA FEDERAL/2025
+Julgue o item que se segue, relativo ao Sistema Tributário Nacional.
+Considera-se como domicílio tributário da pessoa natural o local da
+sua residência habitual, sendo vedada a indicação de outro domicílio
+pelo contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/2025
+Acerca da capacidade tributária e do domicílio tributário, assinale a
+opção correta de acordo com as disposições do CTN.
+a) O domicílio tributário das pessoas jurídicas de direito privado,
+assim como o das firmas individuais, corresponde ao lugar de sua
+sede, ou, em relação aos atos ou fatos que derem origem à obrigação,
+o lugar de cada estabelecimento.
+b) Considera-se domicílio tributário de uma pessoa natural a sua
+residência habitual, ou, sendo esta incerta ou desconhecida, qualquer
+local onde a pessoa possa ser encontrada.
+
+Direito Tributário
+Prof. Fábio Dutra                                             @ProfFabioDutra
+                        
+
+
+---
+
+CEBRASPE/PC-PE-Delegado/2025
+c) A capacidade tributária passiva, isto é, a aptidão de uma pessoa
+para figurar no polo passivo de uma obrigação tributária, depende de
+sua capacidade civil, de modo que uma pessoa absolutamente incapaz
+não pode ser sujeito passivo de uma obrigação tributária.
+d) A capacidade tributária passiva depende de a pessoa natural
+considerar-se sujeita a medidas que importem, por exemplo, a
+privação ou limitação do exercício de atividades civis ou da
+administração direta de seus bens ou negócios.
+e) Uma pessoa jurídica em situação irregular por lhe faltar a regular
+inscrição no Cadastro Nacional das Pessoas Jurídicas, mesmo que
+configure uma unidade econômica ou profissional, não pode ser
+tributada.
+
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: A                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/FUNPRESP-Gestão/2025
+A respeito do planejamento tributário, julgue o item subsecutivo.
+O uso de paraísos fiscais no planejamento tributário é considerado
+evasão fiscal e, portanto, ilegal.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/FUNPRESP-Gestão/2025
+A respeito do planejamento tributário, julgue o item subsecutivo.
+A escolha do regime tributário entre lucro real, lucro presumido e o
+Simples Nacional deve ser feita apenas com base no faturamento da
+empresa, pois este é o principal critério para otimizar a carga
+tributária.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: E                                        @ProfFabioDutra
+                                   
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+CESPE/ATM -Pref
+Com base no sistema tributário nacional, que abrange as regras
+Fortaleza/2023
+criadas pela Constituição Federal bem como as normas primárias e
+secundárias que envolvam o direito tributário, julgue o item a seguir.
+Quando a autoridade administrativa impõe uma penalidade, basta que
+o contribuinte a pague para que esteja desobrigado do pagamento
+integral do crédito tributário.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Errado                                   @ProfFabioDutra
+                                   
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+QUESTÕES CEBRASPE
+RESPONSABILIDADE
+   TRIBUTÁRIA
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, acerca da obrigação tributária, da solidariedade e da
+responsabilidade tributária.
+O adquirente de fundo de comércio que continuar a atividade empresarial
+responde pelos tributos devidos pelo antigo titular do estabelecimento, salvo
+se comprovar que desconhecia a existência de débitos tributários no
+momento do trespasse.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                     @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/ANM-Contabilidade/2025
+Julgue o item subsecutivo, acerca do sigilo fiscal, da responsabilidade
+tributária e de hipóteses de extinção e suspensão da exigibilidade do crédito
+tributário.
+A extensão da responsabilidade tributária da empresa sucessora independe
+da continuidade de exploração da atividade empresarial pela empresa
+sucedida. Julgue o item subsecutivo, acerca do sigilo fiscal, da
+responsabilidade tributária e de hipóteses de extinção e suspensão da
+exigibilidade do crédito tributário.
+A extensão da responsabilidade tributária da empresa sucessora independe
+da continuidade de exploração da atividade empresarial pela empresa
+sucedida.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                     @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/CAU-MG-Advogado/2025
+Em relação a aspectos concernentes à obrigação tributária e à cobrança do
+crédito tributário, julgue o item seguinte, à luz da jurisprudência dos tribunais
+superiores.
+Caso o CAU/MG adquira imóvel particular com débitos pretéritos de IPTU em
+aberto, por ser o conselho órgão integrante da administração pública com
+imunidade tributária, não haverá sub-rogação em relação a essas dívidas
+pendentes.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                        @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/PGE-PI-Procurador/2025
+Assinale a opção correta acerca da responsabilidade tributária.
+a) A responsabilidade por infrações da legislação tributária depende da
+intenção do agente ou do responsável e da efetividade, natureza e extensão
+dos efeitos do ato, salvo disposição de lei em contrário.
+b) Uma empresa que deixe de funcionar no seu domicílio fiscal e de
+comunicar            essa  mudança         aos         órgãos      competentes legitima        o
+redirecionamento da execução fiscal para o sócio gerente, o que configura
+uma presunção juris tantum de dissolução irregular, à luz da jurisprudência
+do STJ.
+c) Os diretores, gerentes ou representantes de pessoas jurídicas de direito
+privado são pessoalmente responsáveis pelos créditos correspondentes a
+obrigações tributárias resultantes de atos intra vires por eles praticados.
+d) Segundo o CTN, são pessoalmente responsáveis pelos créditos
+correspondentes a obrigações tributárias resultantes de atos praticados
+dentro do escopo do contrato de trabalho, entre outros, os mandatários,
+prepostos e empregados.
+Direito TributárioGabarito: B
+                                                                                     @ProfFabioDutra
+e) Fábio
+Prof. DeDutra acordo com o entendimento          do STJ, o inadimplemento da obrigação
+                                
+
+
+---
+
+CEBRASPE/EMBRAPA-Advogado/2025
+Acerca de lançamento e responsabilidade, bem como da administração
+tributária, julgue o item a seguir, de acordo com o disposto no Código
+Tributário Nacional (CTN) e o entendimento Superior Tribunal de Justiça (STJ).
+É válida a previsão, em edital, de leilão em que se atribua responsabilidade
+ao arrematante pelos débitos tributários até então pendentes.
+
+Prof. Fábio Dutra
+                 Gabarito: E
+Direito Tributário
+                                                                      @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/PGE-PI-Procurador/2025
+Assinale a opção correta no que diz respeito à responsabilidade tributária e à
+responsabilidade dos sucessores, de terceiros e por infrações.
+a) Na hipótese de uma empresa ter apenas se instalado em prédio antes
+alugado a outra sociedade empresária devedora de tributos, aquela que veio
+a ocupá-lo posteriormente, também por força de locação, será considerada
+sucessora para os efeitos tributários, por se tratar de sucessão presumida.
+b) Em processo de falência, o produto da alienação judicial de empresa, filial
+ou unidade produtiva isolada permanecerá em conta de depósito à disposição
+do juízo de falência pelo prazo de um ano, contado da data de alienação, e
+somente poderá ser utilizado para o pagamento de créditos extraconcursais
+ou de créditos que preferem ao tributário.
+c) A norma atributiva de responsabilidade tributária aos adquirentes de fundo
+de comércio ou estabelecimentos comerciais não se aplica à hipótese de
+alienação judicial em processo de falência, ainda que o adquirente seja o
+sócio da sociedade falida.
+Direito Tributário
+Prof. Fábio Dutra
+                                                                      @ProfFabioDutra
+                            
+
+
+---
+
+CEBRASPE/PGE-PI-Procurador/2025
+d) A pessoa jurídica de direito privado que adquirir o fundo de comércio de
+outra e permanecer com a respectiva exploração econômica sob outra razão
+social responde pelos tributos relativos ao fundo adquirido e devidos até à
+data do ato, de forma solidária com o alienante, se este prosseguir na
+exploração ou iniciar dentro de seis meses, a contar da data da alienação,
+nova atividade no mesmo ou em outro ramo do comércio, indústria ou
+profissão.
+e) Considere que a empresa Alfa tenha adquirido, em janeiro de 2025, o
+fundo de comércio da sociedade empresária Beta, que devia ao fisco estadual
+vultosa quantia referente ao ICMS dos exercícios de 2021 a 2024. Considere,
+ainda, que Alfa tenha continuado a exploração da atividade de Beta, mas
+com razão social diversa desta. Nessa situação, caso a empresa Beta cesse a
+exploração da atividade, Alfa responderá pelos tributos relativos ao fundo, a
+partir da data do ato de cessação, de forma integral.
+
+Prof. Fábio Dutra
+                 Gabarito: B
+Direito Tributário
+                                                                     @ProfFabioDutra
+                               
+
+
+---
+
+---
+
+QUESTÕES CEBRASPE
+CRÉDITO TRIBUTÁRIO
+  CONSTITUIÇÃO E
+   LANÇAMENTO
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+CEBRASPE/2024
+A respeito das modalidades de lançamento tributário e de aspectos
+atinentes a esse tema, assinale a opção correta à luz do CTN e da
+jurisprudência dos tribunais superiores.
+a) O lançamento por homologação é realizado quanto a tributos
+indicados pela administração tributária, e seu pagamento deve ser
+antecipado pelo sujeito passivo.
+b) O lançamento por declaração deve ser efetuado pelo contribuinte, ou
+seja, aquele que possui relação pessoal e direta com a situação que
+constitui o fato gerador da obrigação tributária, não se admitindo a
+declaração prestada por terceiro.
+c) O lançamento de ofício poderá ser revisto a qualquer tempo pela
+autoridade administrativa.
+d) A mudança do critério jurídico adotado pelo fisco não autoriza a
+revisão do lançamento que se reporte a fato gerador ocorrido antes de
+sua
+Prof. Fábio
+                Gabarito: Letra D
+          introdução.
+Direito Tributário
+            Dutra
+                                                                   @ProfFabioDutra
+                                
+
+
+---
+
+CEBRASPE/Pref Camaçari/2024
+À luz do Código Tributário Nacional (CTN), assinale a opção correta a
+respeito do lançamento tributário.
+a) O lançamento tributário compete à autoridade administrativa, que, por
+sua vez, poderá delegá-lo a outros agentes públicos, quando julgar
+oportuno.
+b) Quando o valor tributário estiver expresso em moeda estrangeira, a taxa
+de conversão do câmbio deverá corresponder àquela em vigor na data do
+lançamento tributário, salvo disposição legal em sentido contrário.
+c) O lançamento tributário é marcado pela discricionariedade, porquanto
+está condicionado a juízo de valor da autoridade administrativa na
+avaliação dos elementos da regra matriz de incidência tributária.
+d) O lançamento tributário será regido pela lei vigente à época do fato
+gerador, exceto se esta for posteriormente revogada.
+e) A legislação tributária que amplie os poderes de investigação das
+autoridades administrativas, por meio de novos poderes de fiscalização, é
+aplicável
+Direito Tributário
+Prof. Fábio Dutra
+                   a fatos geradores
+                Gabarito:    Letra Epretéritos à sua vigência.      @ProfFabioDutra
+                             
+
+
+---
+
+CEBRASPE/Pref Cach.
+Itapemirim/2024
+ Em 20/1/2022, a Prefeitura de Cachoeiro de Itapemirim emitiu os
+boletos para a cobrança do IPTU de 2022, no valor de R$
+34.033.996,80. Em 1.º/1/2023, o município fez a cobrança judicial dos
+valores do IPTU de 2022 dos contribuintes inadimplentes, no montante
+de R$ 4.033.000,00.
+
+A partir dessa situação hipotética, julgue o item que se segue.
+
+No momento da emissão dos boletos para a cobrança do IPTU de 2022
+(20/1/2022), quando a Prefeitura de Cachoeiro de Itapemirim identificou
+a ocorrência do fato gerador do IPTU, determinou a matéria tributável,
+calculou o montante do tributo devido e identificou o sujeito passivo, o
+estágio da receita do IPTU era o da cobrança.
+
+                Gabarito: Errado
+Direito Tributário
+Prof. Fábio Dutra
+                                                                    @ProfFabioDutra
+                               
+
+
+---
+
+CEBRASPE/TBG/Jurídico/2023
+Com relação à constituição do crédito tributário, à sua suspensão e à
+extinção da sua exigibilidade, julgue o próximo item, considerando o
+disposto no Código Tributário Nacional.
+
+
+A atividade administrativa de lançamento do crédito tributário é
+vinculada e obrigatória, independentemente do tributo em questão.
+
+                Gabarito: Certo
+Direito Tributário
+Prof. Fábio Dutra
+                                                                       @ProfFabioDutra
+                                  
+
+
+---
+
+CEBRASPE/PGE RR/2023
+Considerando o princípio constitucional da retroatividade em matéria
+tributária, julgue o próximo item.
+
+
+A retroatividade de nova lei não pode ser aplicada quando se diminui
+alíquota de tributo devido anteriormente.
+
+                Gabarito: Certo
+Direito Tributário
+Prof. Fábio Dutra
+                                                                       @ProfFabioDutra
+                                  
+
+
+---
+
+---
+
+---
+
+QUESTÕES CEBRASPE
+EXTINÇÃO DO CRÉDITO
+     TRIBUTÁRIO
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, no que diz respeito a crédito e administração
+tributários.
+Quando o lançamento do tributo depender da iniciativa do fisco, o direito
+da fazenda pública de constituir o crédito tributário decai em cinco anos,
+contados do primeiro dia do exercício seguinte àquele em que o
+lançamento poderia ter sido efetuado.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/ANM-Contabilidade/
+2025
+Julgue o item subsecutivo, acerca do sigilo fiscal, da responsabilidade
+tributária e de hipóteses de extinção e suspensão da exigibilidade do
+crédito tributário.
+Em matéria tributária, são critérios de imputação do pagamento a ordem
+crescente dos prazos de prescrição e a ordem decrescente dos montantes
+devidos.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/CAU MG-Contador/2025
+Julgue o item seguinte, no que diz respeito a crédito e administração
+tributários.
+A dação em pagamento em bens imóveis, quando feita nos termos da lei,
+extingue o crédito tributário.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/ANM-Contabilidade/
+2025
+Julgue o item subsecutivo, acerca do sigilo fiscal, da responsabilidade
+tributária e de hipóteses de extinção e suspensão da exigibilidade do
+crédito tributário.
+Em matéria tributária, os protestos judicial e extrajudicial são causas de
+interrupção do prazo prescricional.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: C                                        @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/ITAIPU/2024
+Acerca do crédito tributário, considerando a jurisprudência do STJ e o
+Código Tributário Nacional, julgue os itens a seguir.
+I No caso dos tributos sujeitos a lançamento por homologação, a entrega
+de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do
+fisco.
+II O pagamento antecipado, quando o tributo é sujeito a lançamento por
+homologação, extingue o crédito tributário, sob condição resolutória da
+ulterior homologação do lançamento.
+III A notificação do auto de infração faz cessar a contagem da prescrição
+do crédito tributário.
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                           
+
+
+---
+
+CEBRASPE/ITAIPU/2024
+IV A confissão espontânea da dívida acompanhada do pedido de
+parcelamento restabelece o crédito tributário decaído ou prescrito, por se
+tratar de renúncia tácita a direito disponível.
+Estão certos apenas os itens
+a) I e II.
+b) I e III.
+c) I, II e IV.
+d) III e IV.
+e) II, III e IV.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Letra A                                  @ProfFabioDutra
+                                   
+
+
+---
+
+CEBRASPE/Pref. Mossoró/2024
+Prescreve em dois anos a ação anulatória da decisão administrativa que
+denegar a restituição, sem possibilidade de suspensão ou interrupção
+desse prazo.
+
+Direito Tributário
+Prof. Fábio Dutra    Gabarito: Errado                                   @ProfFabioDutra
+                                   
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---
+
+Direito Tributário
+Prof. Fábio Dutra
+                     
+
+
+---

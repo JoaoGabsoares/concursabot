@@ -1,0 +1,505 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 16_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '16'
+titulo_aula: 'SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO'
+artigos_citados:
+- ART. 144
+- ART. 37º
+- ART. 7º
+sumulas_citadas:
+- SV Nº 06
+- SV Nº 39
+---
+
+# SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+                                           CONJUNTO DE NORMAS CONSTITUCIONAIS DESTINADAS A REGULAR AS SITUAÇÕES DE CRISE GRAVE, A
+      INTRODUÇÃO                           FIM DE RESTABELECER A NORMALIDADE CONSTITUCIONAL.
+
+                                                                                             ESTADO DE DEFESA.
+O SISTEMA CONSTITUCIONAL DE CRISE PREVÊ A EXISTÊNCIA DE 2 REGIMES JURÍDICOS DISTINTOS.
+                                                                                             ESTADO DE SÍTIO.
+
+SÃO VERDADEIROS “ESTADOS DE EXCEÇÃO”, NOS QUAIS A LEGALIDADE NORMAL É SUBSTITUÍDA PELA LEGALIDADE EXTRAORDINÁRIA (EXCEPCIONAL).
+
+O ESTADO DA DEFESA E O ESTADO DE SÍTIO SE SUBMETEM AOS SEGUINTES PRINCÍPIOS:
+• PRINCÍPIO DA NECESSIDADE: SOMENTE DEVEM OCORRER EM ÚLTIMO CASO, NA FALTA DE SOLUÇÕES
+  MENOS GRAVOSAS PARA DEBELAR A CRISE.
+
+
+• PRINCÍPIO DA TEMPORARIEDADE: DEVEM SER TEMPORÁRIOS E DEVEM TER A DURAÇÃO MÍNIMA
+  NECESSÁRIA PARA SE RESTABELECER A NORMALIDADE.
+
+• PRINCÍPIO DA PROPORCIONALIDADE: AS MEDIDAS ADOTADAS DEVEM SER PROPORCIONAIS À
+  GRAVIDADE DA CRISE.
+
+
+• PRINCÍPIO DO CONTROLE POLÍTICO E JUDICIAL: OS “ESTADOS DE EXCEÇÃO” ESTÃO SUBMETIDOS
+  TANTO AO CONTROLE DO CONGRESSO NACIONAL QUANTO AO DO PODER JUDICIÁRIO.                                      DIREITO CONSTITUCIONAL
+                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+         SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+                                                                                                                     ❑ GRAVE       E     IMINENTE   INSTABILIDADE
+                                           FINALIDADE       DE       PRESERVAR               OU   PRONTAMENTE
+                                                                                                                        INSTITUCIONAL.
+ ESTADO DE DEFESA                          RESTABELECER, EM LOCAIS RESTRITOS E DETERMINADOS,
+                                                                                                                     ❑ CALAMIDADES DE GRANDES PROPORÇÕES
+                                           A ORDEM PÚBLICA OU A PAZ SOCIAL AMEAÇADAS POR:
+                                                                                                                       NA NATUREZA.
+
+MEDIDA EXCEPCIONAL DECRETADA PELO PRESIDENTE DA REPÚBLICA (PR),                                   ❑ CONSELHO DA REPÚBLICA.
+APÓS MANIFESTAÇÕES CONSULTIVAS (NÃO VINCULANTES) E OBRIGATÓRIAS DO:                               ❑ CONSELHO DE DEFESA NACIONAL.
+
+
+A DECRETAÇÃO É ATO DISCRICIONÁRIO DO PR, REALIZADA MEDIANTE
+DECRETO EXECUTIVO, OBSERVADAS OS SEGUINTES REQUISITOS FORMAIS:
+                                                                                                                      • REUNIÃO.
+• TEMPO DE DURAÇÃO NÃO SUPERIOR A 30 DIAS, PRORROGÁVEL UMA                                                            • SIGILO DE CORRESPONDÊNCIA.
+  VEZ, POR IGUAL PERÍODO.                                                        RESTRIÇÕES AOS DIREITOS DE:          • SIGILO DE COMUNICAÇÃO
+• ESPECIFICAÇÃO DAS ÁREAS ABRANGIDAS.                                                                                   TELEGRÁFICA E TELEFÔNICA.
+• INDICAÇÃO DAS MEDIDAS COERCITIVAS, QUE PODEM SER:
+                                                                                OCUPAÇÃO E USO TEMPORÁRIO DE BENS E SERVIÇOS PÚBLICOS, NA HIPÓTESE DE
+                                                                                CALAMIDADE PÚBLICA.
+
+DECRETO SUBMETIDO, DENTRO DE 24 HORAS, À POSTERIOR APROVAÇÃO PELO CONGRESSO NACIONAL (CN):
+• CN DECIDIRÁ APROVAÇÃO POR MAIORIA ABSOLUTA.                                                                 SE O CN ESTIVER EM RECESSO, OCORRERÁ CONVOCAÇÃO
+• APRECIAÇÃO DO CN DENTRO DE 10 (DEZ) DIAS A PARTIR DO RECEBIMENTO.                                                  EXTRAORDINÁRIA NO PRAZO DE 5 DIAS.
+
+
+NA VIGÊNCIA DO ESTADO DE DEFESA, A PRISÃO POR CRIME CONTRA O ESTADO PODE SER DETERMINADA PELO EXECUTOR DA MEDIDA.
+
+A ORDEM DE PRISÃO OU DETENÇÃO DE QUALQUER PESSOA NÃO PODERÁ SER SUPERIOR A 10 DIAS, SALVO QUANDO AUTORIZADA PELO PODER JUDICIÁRIO.
+
+NO ESTADO DE DEFESA É VEDADA A INCOMUNICABILIDADE DO PRESO.                                                                                DIREITO CONSTITUCIONAL
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+         SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+
+  ESTADO DE SÍTIO                         O ESTADO DE SÍTIO É MEDIDA MAIS GRAVOSA DO QUE O ESTADO DE DEFESA, DECRETADO NOS SEGUINTES CASOS:
+                                          • COMOÇÃO GRAVE DE REPERCUSSÃO NACIONAL OU OCORRÊNCIA DE FATOS QUE COMPROVEM A INEFICÁCIA DE
+                                            MEDIDA TOMADA DURANTE O ESTADO DE DEFESA (ESTADO DE SÍTIO SIMPLES).
+                                          • DECLARAÇÃO DE ESTADO DE GUERRA OU RESPOSTA A AGRESSÃO ARMADA ESTRANGEIRA (ESTADO DE SÍTIO
+                                            QUALIFICADO).
+
+MEDIDA EXCEPCIONAL, CUJA SOLICITAÇÃO PARA DECRETAÇÃO PELO PRESIDENTE DA REPÚBLICA (PR) OCORRERÁ APÓS:
+
+                                                                                      ❑ CONSELHO DA REPÚBLICA.
+• MANIFESTAÇÕES CONSULTIVAS (NÃO VINCULANTES) E OBRIGATÓRIAS DO:
+                                                                                      ❑ CONSELHO DE DEFESA NACIONAL.
+
+                                                       ❑ SOLICITAÇÃO DE AUTORIZAÇÃO DEVE CONTER OS MOTIVOS DETERMINANTES DO PEDIDO.
+                                                       ❑ DECISÃO POR MAIORIA ABSOLUTA.
+                                                       ❑ SE O CN ESTIVER EM RECESSO, O PRESIDENTE DO SENADO REALIZARÁ CONVOCAÇÃO
+• AUTORIZAÇÃO PRÉVIA DO CONGRESSO NACIONAL (CN).
+                                                         EXTRAORDINÁRIA NO PRAZO DE 5 DIAS.
+                                                       ❑ O CONGRESSO NACIONAL PERMANECERÁ EM FUNCIONAMENTO ATÉ O TÉRMINO DAS MEDIDAS
+                                                         COERCITIVAS.
+
+A DECRETAÇÃO É ATO DISCRICIONÁRIO DO PR, REALIZADA MEDIANTE DECRETO EXECUTIVO, OBSERVADAS OS SEGUINTES REQUISITOS FORMAIS:
+
+                                                 ESTADO DE SÍTIO SIMPLES – NÃO PODERÁ SER DECRETADO POR MAIS DE 30 DIAS,
+                                                 ADMITINDO PRORROGAÇÕES SUCESSIVAS.
+• INDICAR A DURAÇÃO DO ESTADO DE SÍTIO.
+                                                 ESTADO DE SÍTIO QUALIFICADO – DECRETADO POR TODO O TEMPO QUE PERDURAR A
+                                                 GUERRA OU A AGRESSÃO ARMADA ESTRANGEIRA.
+                                                                                                                       DIREITO CONSTITUCIONAL
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+            SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+                                             A DECRETAÇÃO É ATO DISCRICIONÁRIO DO PR, REALIZADA MEDIANTE DECRETO EXECUTIVO, OBSERVADAS OS
+     ESTADO DE SÍTIO                         SEGUINTES REQUISITOS FORMAIS:
+
+                                            • NORMAS NECESSÁRIAS À EXECUÇÃO DO ESTADO DE SÍTIO.
+                                            • GARANTIAS CONSTITUCIONAIS QUE FICARÃO SUSPENSAS:
+
+NO ESTADO DE SÍTIO QUALIFICADO, EM VIRTUDE DA                      NO ESTADO DE SÍTIO SIMPLES, PODERÃO SER ADOTADAS AS SEGUINTES MEDIDAS COERCITIVAS:
+OMISSÃO DE MEDIDAS COERCITIVAS PELA CF/88, A
+                                                                   • OBRIGAÇÃO DE PERMANÊNCIA EM LOCALIDADE DETERMINADA.
+DOUTRINA ENTENDE QUE QUALQUER GARANTIA
+                                                                   • DETENÇÃO EM EDIFÍCIO NÃO DESTINADO A ACUSADOS OU CONDENADOS POR CRIMES
+CONSTITUCIONAL PODE SER SUSPENSA, DESDE QUE:
+                                                                     COMUNS.
+• OBSERVE OS PRINCÍPIOS DA NECESSIDADE E DA                        • RESTRIÇÕES RELATIVAS À INVIOLABILIDADE DA CORRESPONDÊNCIA, AO SIGILO DAS
+  TEMPORARIEDADE.                                                    COMUNICAÇÕES, À PRESTAÇÃO DE INFORMAÇÕES E À LIBERDADE DE IMPRENSA,
+• EXISTA AUTORIZAÇÃO DO CONGRESSO NACIONAL.                          RADIODIFUSÃO E TELEVISÃO, NA FORMA DA LEI.
+• O DECRETO DO ESTADO DE SÍTIO TENHA INDICADO
+  AS   GARANTIAS   CONSTITUCIONAIS   A   SEREM
+  SUSPENSAS.
+
+                                                                             ATENÇÃO: É PERMITIDA A DIFUSÃO DE PRONUNCIAMENTOS DE PARLAMENTARES
+                                                                         EFETUADOS EM SUAS CASAS LEGISLATIVAS, DESDE QUE LIBERADA PELA RESPECTIVA MESA.
+
+                                                                   •   SUSPENSÃO DA LIBERDADE DE REUNIÃO.
+ATENÇÃO: AS IMUNIDADES DE DEPUTADOS OU                             •   BUSCA E APREENSÃO EM DOMICÍLIO.
+SENADORES SUBSISTIRÃO DURANTE O ESTADO DE                          •   INTERVENÇÃO NAS EMPRESAS DE SERVIÇOS PÚBLICOS.
+SÍTIO, SÓ PODENDO SER SUSPENSAS MEDIANTE O VOTO                    •   REQUISIÇÃO DE BENS.
+DE 2/3 DOS MEMBROS DA CASA RESPECTIVA, NOS
+CASOS DE ATOS PRATICADOS FORA DO RECINTO DO
+CONGRESSO NACIONAL, QUE SEJAM INCOMPATÍVEIS
+COM A EXECUÇÃO DA MEDIDA.                                                                                                         DIREITO CONSTITUCIONAL
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+         SISTEMA CONSTITUCIONAL DE CRISE: OS ESTADOS DE EXCEÇÃO
+
+
+DISPOSIÇÕES COMUNS AO ESTADO                         EM VIRTUDE DA EXCEPCIONALIDADE, A CONSTITUIÇÃO FEDERAL NÃO PODERÁ SER EMENDADA NA
+  DE DEFESA E ESTADO DE SÍTIO                        VIGÊNCIA DE QUALQUER UM DELES.
+
+   AMBOS ESTÃO SUJEITOS AO CONTROLE POLÍTICO, EFETUADO PELO CONGRESSO NACIONAL (CN), E AO CONTROLE JUDICIAL.
+
+                                                                    • CONTROLE POLÍTICO IMEDIATO: SUBMISSÃO DO DECRETO DE ESTADO DE DEFESA À
+                                                                      APROVAÇÃO DO CN.
+                                                                    • CONTROLE POLÍTICO PRÉVIO: PR SOLICITA AO CN AUTORIZAÇÃO PARA DECRETAR O
+                                                                      ESTADO DE SÍTIO, RELATANDO OS MOTIVOS DETERMINANTES DO PEDIDO.
+                                                                    • CONTROLE POLÍTICO CONCOMITANTE: DESIGNAÇÃO DE COMISSÃO DE 5 MEMBROS DA
+                                                                      MESA DO CN PARA FISCALIZAR A EXECUÇÃO DAS MEDIDAS DO ESTADO DE DEFESA E DO
+   O CONTROLE POLÍTICO COMUM A AMBOS OS INSTITUTOS SÃO:
+                                                                      ESTADO DE SÍTIO.
+                                                                    • CONTROLE POLÍTICO SUCESSIVO (“A POSTERIORI”): APÓS O FINAL DO ESTADO DE
+                                                                      DEFESA OU DE SÍTIO, PR DEVE RELATAR DETALHADAMENTE AS MEDIDAS APLICADAS NA
+                                                                      VIGÊNCIA DO ESTADO DE EXCEÇÃO EM MENSAGEM AO CN, COM ESPECIFICAÇÃO E
+                                                                      JUSTIFICAÇÃO DAS PROVIDÊNCIAS, RELAÇÃO NOMINAL DOS ATINGIDOS E INDICAÇÃO DAS
+                                                                      RESTRIÇÕES APLICADAS.
+
+   CESSADO O ESTADO DE DEFESA OU O ESTADO DE SÍTIO, CESSARÃO TAMBÉM SEUS EFEITOS, SEM PREJUÍZO DA RESPONSABILIDADE PELOS ILÍCITOS COMETIDOS
+   POR SEUS EXECUTORES OU AGENTES.
+
+                                                                                                                             DIREITO CONSTITUCIONAL
+                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+              FORÇAS                                                                                                                                 • MARINHA.
+                                                    FORÇAS ARMADAS                                       CONSTITUIÇÃO DAS FORÇAS ARMADAS.            • EXÉRCITO.
+             ARMADAS                                                                                                                                 • AERONÁUTICA.
+
+
+                                                                                                            • DEFESA DA PÁTRIA.
+  INSTITUIÇÕES NACIONAIS PERMANENTES E REGULARES.                            FINALIDADES                    • GARANTIA DOS PODERES CONSTITUCIONAIS.
+                                                                                                            • GARANTIA DA LEI E DA ORDEM, POR INICIATIVA DE
+                                                                                                              QUALQUER UM DOS PODERES (FUNÇÃO SUBSIDIÁRIA).
+ORGANIZADAS COM BASE NA HIERARQUIA E NA DISCIPLINA.
+
+                                                                                       STF: FORÇAS ARMADAS NÃO EXERCEM “PODER MODERADOR”.
+
+                                                                        O COMANDO SUPREMO DAS FORÇAS ARMADAS É DO PRESIDENTE DA REPÚBLICA (PR).
+
+                                                                        LEI COMPLEMENTAR ESTABELECERÁ NORMAS GERAIS ADOTADAS NA ORGANIZAÇÃO, NO
+                                                                        PREPARO E NO EMPREGO DAS FORÇAS ARMADAS.
+
+
+                           DISPOSIÇÕES APLICÁVEIS AOS MEMBROS DAS FORÇAS ARMADAS (MILITARES)
+
+ O MILITAR EM ATIVIDADE QUE TOMAR POSSE EM CARGO OU                  AS PATENTES, COM PRERROGATIVAS, DIREITOS E DEVERES A ELAS INERENTES, SÃO CONFERIDAS
+ EMPREGO PÚBLICO CIVIL PERMANENTE, EM REGRA, SERÁ                    PELO PR E ASSEGURADAS EM PLENITUDE AOS OFICIAIS DA ATIVA, DA RESERVA OU REFORMADOS.
+ TRANSFERIDO PARA A RESERVA, NOS TERMOS DA LEI.
+
+ O MILITAR DA ATIVA QUE TOMAR POSSE EM CARGO, EMPREGO
+                                                                                                   USO    PRIVATIVOS DOS TÍTULOS, DOS POSTOS
+ OU FUNÇÃO PÚBLICA CIVIL TEMPORÁRIA, NÃO ELETIVA FICARÁ
+                                                                                                   MILITARES E DOS UNIFORMES DAS FORÇAS ARMADAS.
+ AGREGADO AO RESPECTIVO QUADRO, NOS TERMOS DA LEI.
+
+ NESSA SITUAÇÃO, SÓ SERÁ PROMOVIDO POR ANTIGUIDADE,
+                                                             DEPOIS DE DOIS ANOS DE AFASTAMENTO, CONTÍNUOS OU NÃO, O
+ CONTANDO-SE-LHE O TEMPO DE SERVIÇO APENAS PARA AQUELA
+                                                             MILITAR É TRANSFERIDO PARA A RESERVA, NOS TERMOS DA LEI.
+ PROMOÇÃO E TRANSFERÊNCIA PARA A RESERVA.                                                                                                          DIREITO CONSTITUCIONAL
+                                                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                FORÇAS ARMADAS                                  DISPOSIÇÕES APLICÁVEIS AOS MEMBROS DAS FORÇAS ARMADAS (MILITARES)
+
+          O MILITAR, ENQUANTO EM SERVIÇO ATIVO, NÃO PODE ESTAR FILIADO A PARTIDOS POLÍTICOS.           EXCEÇÃO (NOVIDADE EC Nº 77/2014):             NA
+                                                                                                       HIPÓTESE DE ACUMULAÇÃO DE DOIS CARGOS OU
+                                                                                                       EMPREGOS PRIVATIVOS DE PROFISSIONAIS DE SAÚDE,
+                                                                                                       COM PROFISSÕES REGULAMENTADAS.
+                             CASO O MILITAR DESEJE SE CANDIDATAR E TENHA
+
+          MENOS DE 10 ANOS DE SERVIÇO: DEVERÁ SE AFASTAR DA ATIVIDADE.
+          MAIS DE 10 ANOS DE SERVIÇO: SERÁ AGREGADO PELA AUTORIDADE SUPERIOR, E, CASO                  O MILITAR EM ATIVIDADE NÃO SERÁ TRANSFERIDO
+          ELEITO, PASSARÁ PARA INATIVIDADE NO ATO DA DIPLOMAÇÃO.                                       PARA RESERVA OU AGREGADO AO RESPECTIVO
+                                                                                                       QUADRO.
+
+
+                           FORÇAS ARMADAS                                                              AO MILITAR SÃO PROIBIDAS A SINDICALIZAÇÃO E A
+                                                                                                       GREVE.
+
+                                                                                                       DIREITO SOCIAIS APLICÁVEIS AOS MILITARES (CF/88,
+O OFICIAL SÓ PERDERÁ O POSTO E A PATENTE SE FOR JULGADO INDIGNO DO OFICIALATO OU COM ELE               ART. 7º)
+INCOMPATÍVEL.
+
+                                                                                                       •   13º SALÁRIO.
+                • EM TEMPOS DE PAZ: TRIBUNAL MILITAR DE CARÁTER PERMANENTE.                            •   SALÁRIO-FAMÍLIA.
+                • EM TEMPOS DE GUERRA: DE TRIBUNAL ESPECIAL.                                           •   FÉRIAS ANUAIS.
+                                                                                                       •   LICENÇA À GESTANTE.
+O OFICIAL CONDENADO NA JUSTIÇA COMUM OU MILITAR A PENA PRIVATIVA DE LIBERDADE SUPERIOR A               •   LICENÇA-PATERNIDADE.
+DOIS ANOS, POR SENTENÇA TRANSITADA EM JULGADO, SERÁ SUBMETIDO AO JULGAMENTO:                           •   ASSISTÊNCIA GRATUITA AOS FILHOS E DEPENDENTES
+                                                                                                           DESDE O NASCIMENTO ATÉ 5 ANOS DE IDADE EM
+                                                                                                           CRECHES E PRÉ-ESCOLAS.
+
+                • EM TEMPOS DE PAZ: TRIBUNAL MILITAR DE CARÁTER PERMANENTE.
+                • EM TEMPOS DE GUERRA: DE TRIBUNAL ESPECIAL.
+
+                                                                                                                                  DIREITO CONSTITUCIONAL
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+      FORÇAS ARMADAS                                  DISPOSIÇÕES APLICÁVEIS AOS MEMBROS DAS FORÇAS ARMADAS (MILITARES)
+
+                                                                                             DISPOSIÇÕES DOS SERVIDORES PÚBLICOS APLICÁVEIS
+SV Nº 06: “NÃO VIOLA A CONSTITUIÇÃO O ESTABELECIMENTO DE REMUNERAÇÃO INFERIOR                AOS MILITARES (CF/88, ART. 37º):
+AO SALÁRIO-MÍNIMO PARA AS PRAÇAS PRESTADORAS DE SERVIÇO MILITAR INICIAL”.
+
+
+A LEI DISPORÁ DAS CONDIÇÕES DE INGRESSO NAS FORÇAS ARMADAS, DE TRANSFERÊNCIA,                • TETO REMUNERATÓRIO (SUBSÍDIO DOS MINISTROS
+DIREITOS, DEVERES E SITUAÇÕES ESPECIAIS, INCLUSIVE EM CASO DE COMPROMISSOS                     DO STF).
+INTERNACIONAIS E DE GUERRA.                                                                  • VEDAÇÃO À VINCULAÇÃO OU EQUIPARAÇÃO DE
+                                                                                               SUA REMUNERAÇÃO A OUTRA(S) DO SERVIÇO
+                                                                                               PÚBLICO.
+                                                                                             • VEDAÇÃO DE CÔMPUTO OU ACÚMULO DOS
+                 FORÇAS ARMADAS                                                                  ACRÉSCIMOS PECUNIÁRIOS POR ELES PERCEBIDOS
+                                                                                                 PARA FINS DE CONCESSÃO DE ACRÉSCIMOS
+                                                                                                 ULTERIORES.
+                                                                                             •   IRREDUTIBILIDADE   DE    SEUS   VENCIMENTOS,
+O SERVIÇO MILITAR É OBRIGATÓRIO, NOS TERMOS DA LEI.                                              RESSALVADA AS HIPÓTESES CONSTITUCIONAIS.
+                                                                                             •   POSSIBILIDADE DE ACUMULAÇÃO DE 2 CARGOS OU
+                                                                                                 EMPREGOS PRIVATIVOS DE PROFISSIONAIS DE
+                                                                                                 SAÚDE, DESDE QUE     HAJA   PREVALÊNCIA   DA
+• CONTUDO, PODE SER ATRIBUÍDO SERVIÇO ALTERNATIVO AOS QUE ALEGAREM IMPERATIVO DE
+                                                                                                 ATIVIDADE MILITAR.
+  CONSCIÊNCIA PARA SE EXIMIREM DE ATIVIDADES DE CARÁTER ESSENCIALMENTE MILITAR.
+
+     DECORRENTE DE CRENÇA RELIGIOSA E DE CONVICÇÃO FILOSÓFICA OU POLÍTICA.
+
+• AS MULHERES E OS ECLESIÁSTICOS FICAM ISENTOS DO SERVIÇO MILITAR OBRIGATÓRIO
+  EM TEMPO DE PAZ, SUJEITOS, PORÉM, A OUTROS ENCARGOS QUE A LEI LHES ATRIBUIR.
+
+NÃO CABERÁ HABEAS CORPUS EM RELAÇÃO A PUNIÇÕES DISCIPLINARES MILITARES.
+
+
+ STF: É POSSÍVEL DISCUTIR OS PRESSUPOSTOS DE LEGALIDADE DAS PUNIÇÕES,
+                                                                                                                       DIREITO CONSTITUCIONAL
+         NÃO SENDO POSSÍVEL DISCUTIR O MÉRITO POR MEIO DE HC.
+                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+INTRODUÇÃO À SEGURANÇA PÚBLICA                                                             SEGURANÇA PÚBLICA
+
+                DEVER DO ESTADO.
+
+
+       DIREITO E RESPONSABILIDADE DE TODOS.
+
+
+                                                               • PRESERVAÇÃO DA ORDEM PÚBLICA.
+                   FINALIDADE
+                                                               • PRESERVAÇÃO DA INCOLUMIDADE DAS PESSOAS E DO PATRIMÔNIO.
+
+                                                               • POLÍCIA ADMINISTRATIVA.           ATUAÇÃO PREVENTIVA OU OSTENSIVA.
+               POLÍCIA DE SEGURANÇA
+                                                               • POLÍCIA JUDICIÁRIA.               ATUAÇÃO INVESTIGATIVA OU REPRESSIVA.
+
+     A REMUNERAÇÃO DOS SERVIDORES POLICIAIS
+     INTEGRANTES DOS ÓRGÃOS DE SEGURANÇA
+     PÚBLICA SERÁ FIXADA NA FORMA DE SUBSÍDIO.            • O EXERCÍCIO DO DIREITO DE GREVE, SOB QUALQUER FORMA OU MODALIDADE, É VEDADO
+                                                               AOS POLICIAIS CIVIS E A TODOS OS SERVIDORES PÚBLICOS QUE ATUEM DIRETAMENTE NA
+                                                               ÁREA DE SEGURANÇA PÚBLICA.
+                                                          •    O PODER JUDICIÁRIO PODE DETERMINAR A IMPLEMENTAÇÃO PELO ESTADO, QUANDO
+                  DECISÕES STF:
+                                                               INADIMPLENTE, DE POLÍTICAS PÚBLICAS DE SEGURANÇA PÚBLICA
+                                                               CONSTITUCIONALMENTE PREVISTAS, SEM INCORRER EM INGERÊNCIA NO EXECUTIVO.
+                                                          • É INCONSTITUCIONAL A COBRANÇA DE TAXA DE SEGURANÇA PARA EVENTOS, DEVENDO
+                                                            SER REMUNERADA POR MEIO DE IMPOSTOS.
+
+
+                                                                                                                      DIREITO CONSTITUCIONAL
+                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                  CONTRA A ORDEM POLÍTICA E SOCIAL OU EM DETRIMENTO DE BENS, SERVIÇOS E INTERESSES DA UNIÃO OU DE
+                                                  SUAS ENTIDADES AUTÁRQUICAS E EMPRESAS PÚBLICAS.
+
+                                                                                        NÃO SE ESTENDE ÀS SOCIEDADES DE ECONOMIA MISTA.
+              APURAR INFRAÇÕES PENAIS:
+                                                  CUJA PRÁTICA TENHA REPERCUSSÃO INTERESTADUAL OU INTERNACIONAL E EXIJA REPRESSÃO UNIFORME,
+                                                  SEGUNDO SE DISPUSER EM LEI.
+
+                           OS SEGUINTES ÓRGÃOS PERMANENTES, ORGANIZADOS E MANTIDOS PELA
+ POLÍCIA FEDERAL.
+                           UNIÃO E ESTRUTURADOS EM CARREIRA, DESTINAM-SE, NA FORMA DA LEI:
+                                  PATRULHAMENTO OSTENSIVO DAS RODOVIAS FEDERAIS.                             POLÍCIA RODOVIÁRIA FEDERAL.
+
+                                  PATRULHAMENTO OSTENSIVO DAS FERROVIAS FEDERAIS.                            POLÍCIA FERROVIÁRIA FEDERAL.
+
+POLÍCIAS FEDERAIS                 ÓRGÃOS DE SEGURANÇA PÚBLICA E SUAS COMPETÊNCIAS
+
+              PREVENIR E REPRIMIR O TRÁFICO ILÍCITO DE ENTORPECENTES E DROGAS AFINS, O CONTRABANDO E O DESCAMINHO.
+
+              SEM PREJUÍZO DA AÇÃO FAZENDÁRIA E DE OUTROS ÓRGÃOS PÚBLICOS NAS RESPECTIVAS ÁREAS DE COMPETÊNCIA.
+
+
+              EXERCER AS FUNÇÕES DE POLÍCIA MARÍTIMA, AEROPORTUÁRIA E DE FRONTEIRAS.
+
+
+              EXERCER, COM EXCLUSIVIDADE, AS FUNÇÕES DE POLÍCIA JUDICIÁRIA DA UNIÃO.
+
+
+              STF: A POLÍCIA FEDERAL TEM PRIMAZIA INVESTIGATÓRIA NA APURAÇÃO DOS
+              CRIMES PREVISTOS NO PRÓPRIO TEXTO DA LEI FUNDAMENTAL OU, AINDA, EM
+              TRATADOS OU CONVENÇÕES INTERNACIONAIS.
+                                                                                                                                            DIREITO CONSTITUCIONAL
+                                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+              APESAR DE MANTIDAS PELOS ESTADOS, SÃO REGIDAS POR NORMAS GERAIS FEDERAIS DE ORGANIZAÇÃO, EFETIVOS,
+              MATERIAL BÉLICO, GARANTIAS, CONVOCAÇÃO E MOBILIZAÇÃO DAS POLÍCIAS MILITARES E CORPOS DE BOMBEIROS MILITARES.
+
+
+              SUBORDINAM-SE AOS GOVERNADORES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+
+DIRIGIDAS POR DELEGADOS DE POLÍCIA
+DE CARREIRA.
+                                                                                                     POLÍCIAS CIVIS               POLÍCIAS DOS ESTADOS
+
+COMO     A  POLÍCIA   CIVIL   ESTÁ       FUNÇÃO DE POLÍCIA JUDICIÁRIA E APURAÇÃO
+SUBORDINADA   AO     CHEFE     DO        DE INFRAÇÕES PENAIS, EXCETO MILITARES.
+EXECUTIVO       ESTADUAL,        É
+INCONSTITUCIONAL NORMA ESTADUAL
+QUE ASSEGURE A INDEPENDÊNCIA             STF: COMPETE À POLÍCIA CIVIL A APURAÇÃO
+FUNCIONAL A DELEGADOS DE POLÍCIA.        DE CRIMES     COMUNS      PRATICADOS              POR
+                                         MILITARES.
+
+
+                                         STF:   OS ESTADOS   PODEM OPTAR                   POR
+                                         GARANTIR A     AUTONOMIA FORMAL                   AOS
+                                                                                                       NÃO HÁ OBRIGAÇÃO DE ÓRGÃO ADMINISTRATIVO
+                                         INSTITUTOS DE CRIMINALÍSTICA OU PODEM
+                                                                                                       DE PERÍCIA SER SUBORDINADO À POLÍCIA CIVIL.
+                                         INTEGRÁ-LOS  AOS   DEMAIS    ÓRGÃO DE
+                                         SEGURANÇA PÚBLICA.
+
+                                        ÓRGÃOS DE SEGURANÇA PÚBLICA E SUAS COMPETÊNCIAS
+
+                                                                                                                                            DIREITO CONSTITUCIONAL
+                                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                 ATIVIDADES DE DEFESA CIVIL, ALÉM DAS ATRIBUIÇÕES DEFINIDAS EM LEI.            CORPOS DE BOMBEIROS MILITARES
+
+ POLÍCIA OSTENSIVA E A PRESERVAÇÃO DA ORDEM PÚBLICA (POLÍCIA ADMINISTRATIVA).                             POLÍCIAS MILITARES     POLÍCIAS DOS ESTADOS
+
+ STF: AINDA QUE NÃO SEJA POLÍCIA JUDICIÁRIA, A POLÍCIA MILITAR PODE REALIZAR
+ FLAGRANTES OU PARTICIPAR DA BUSCA E APREENSÃO DETERMINADA POR ORDEM JUDICIAL.
+                                                                                                                                  POLÍCIAS PENAIS FEDERAL,
+A EC Nº 104/2019 INCLUIU NO ROL DE ÓRGÃOS DE SEGURANÇA PÚBLICA AS POLÍCIAS PENAIS FEDERAL, ESTADUAIS E DISTRITAL.                   ESTADUAIS E DISTRITAL
+                                                                                                                                     (EC Nº 104/2019).
+
+
+                                  AS ANTIGAS CARREIRAS DE AGENTES PENITENCIÁRIOS
+                                  FORAM TRANSFORMADAS EM “CARREIRAS POLICIAIS”.
+
+
+                                             COMPETE ÀS POLÍCIAS PENAIS A SEGURANÇA DOS ESTABELECIMENTOS PRISIONAIS.
+
+AS POLÍCIAS PENAIS ESTÃO VINCULADAS AO ÓRGÃO ADMINISTRADOR DO SISTEMA PENAL DA UNIDADE FEDERATIVA A QUE PERTENCEM.
+
+                                            ÓRGÃOS DE SEGURANÇA PÚBLICA E SUAS COMPETÊNCIAS
+
+                                                                                                                                         DIREITO CONSTITUCIONAL
+                                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+       LEI FEDERAL DISPÕE SOBRE SUA UTILIZAÇÃO PELO GOVERNADOR DO DISTRITO FEDERAL.
+
+                                                                                       POLÍCIAS DO DISTRITO FEDERAL
+
+                               ÓRGÃOS DE SEGURANÇA PÚBLICA E SUAS COMPETÊNCIAS
+
+
+       AS POLÍCIAS CIVIL, MILITAR, PENAL E O CORPO DE BOMBEIROS DO DISTRITO
+       FEDERAL SÃO ORGANIZADAS E MANTIDAS DIRETAMENTE PELA UNIÃO.
+
+SV Nº 39: “COMPETE PRIVATIVAMENTE À UNIÃO LEGISLAR SOBRE VENCIMENTOS DOS MEMBROS
+  DAS POLÍCIAS CIVIL E MILITAR E DO CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL”.
+
+                                                                                                      DIREITO CONSTITUCIONAL
+                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+               INTEGRANTES DAS FORÇAS ARMADAS                                                             INTEGRANTES DAS FORÇAS AUXILIARES E RESERVA DO EXÉRCITO
+               (EXÉRCITO, MARINHA E AERONÁUTICA).                    MILITARES                            (POLÍCIAS MILITARES E CORPOS DE BOMBEIROS MILITARES).
+
+
+                           NACIONAIS.                                                                             ESTADUAL, DISTRITAL OU DOS TERRITÓRIOS.
+
+
+                                         MILITARES, GUARDAS MUNICIPAIS
+GUARDAS MUNICIPAIS                                                                                                                   SEGURANÇA VIÁRIA
+                                               E SEGURANÇA VIÁRIA
+
+ PROTEÇÃO DE BENS, SERVIÇOS E INSTALAÇÕES DOS MUNICÍPIOS.
+
+                                                                                          A EC Nº 82/2014 CRIOU A CARREIRA DE AGENTES DE TRÂNSITO NO SISTEMA
+ SOB O PONTO ESTRITAMENTE FORMAL, AS GUARDAS MUNICIPAIS NÃO                               DE SEGURANÇA PÚBLICA.
+ INTEGRAM OS ÓRGÃOS DE SEGURANÇA PÚBLICA DO ESTADO BRASILEIRO, POR
+ NÃO ESTAREM ARROLADAS NO ART. 144 DA CF/88.                                              OBJETIVA A PRESERVAÇÃO DA ORDEM PÚBLICA E DA INCOLUMIDADE DAS
+                                                                                          PESSOAS E DO SEU PATRIMÔNIO NAS VIAS PÚBLICAS.
+
+              CONTUDO, HÁ DECISÕES DIVERGENTES DO STF:
+ • GUARDAS MUNICIPAIS EXERCEM ATIVIDADE DE SEGURANÇA PÚBLICA E,                           PROMOÇÃO DE EDUCAÇÃO, ENGENHARIA E FISCALIZAÇÃO DE TRÂNSITO PARA
+   PORTANTO, NÃO TÊM O DIREITO DE GREVE.                                                               ASSEGURAR MOBILIDADE URBANA EFICIENTE.
+ • GUARDAS MUNICIPAIS NÃO TÊM O DIREITO À APOSENTADORIA ESPECIAL
+   POR ATIVIDADE DE RISCO, POR NÃO INTEGRAR O CONJUNTO DOS ÓRGÃOS                         ASSEGURA A COMPETÊNCIA DOS RESPECTIVOS ÓRGÃOS OU ENTIDADES
+   DE SEGURANÇA PÚBLICA.                                                                  EXECUTIVOS E SEUS AGENTES DE TRÂNSITO NO ÂMBITO DOS ESTADOS, DO
+ • GUARDAS MUNICIPAIS PODEM EXERCER PODER DE POLÍCIA DE TRÂNSITO,                         DISTRITO FEDERAL E DOS MUNICÍPIOS.
+   INCLUSIVE APLICANDO SANÇÕES ADMINISTRATIVAS (MULTAS) AOS
+   INFRATORES.
+                                                                                                                                           DIREITO CONSTITUCIONAL
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---

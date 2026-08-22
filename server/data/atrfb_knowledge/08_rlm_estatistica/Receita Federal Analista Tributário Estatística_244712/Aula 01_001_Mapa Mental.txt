@@ -1,0 +1,385 @@
+                                               Estatística é a ciência que estuda os processos de coleta, organização,
+                       CONCEITO                análise e interpretação de dados numéricos variáveis referentes a qualquer
+                                               fenômeno.
+
+INTRODUÇÃO À ESTATÍSTICA                       Diz respeito ao conjunto de técnicas de coleta, organização, análise e
+                                               interpretação de dados, aplicáveis a várias áreas do conhecimento, que
+                                               auxiliam no processo de tomada de decisão.
+
+
+
+                    a) coleta, organização, descrição e resumo dos dados observados.
+   ESTATÍSTICA
+  DESCRITIVA (OU    b) organiza os dados em tabelas (ou gráficos) e estabelece um sumário por meio de medidas descritivas
+   DEDUTIVA):       como a média, os valores mínimo e máximo, o desvio padrão, entre outras.
+
+
+
+                    a) estabelece o modelo matemático probabilístico adotado para explicar os fenômenos
+                        aleatórios investigados pela Estatística.
+    ESTATÍSTICA
+  PROBABILÍSTICA:   b) a Teoria da Probabilidade é usada para medir a chance de ocorrência de determinados eventos.
+
+
+
+                    a) análise e interpretação dos dados.
+    ESTATÍSTICA
+  INFERENCIAL (OU   b) faz inferências e previsões sobre a população, auxiliando na tomada de decisões.
+     INDUTIVA):     c) busca tirar conclusões a respeito da população a partir de uma amostra.
+
+                                                                                                          INTRODUÇÃO À ESTATÍSTICA
+                                      https://t.me/KakashiAssinaturasBot                                     ESTRATÉGIA CONCURSOS
+                                                      CONCEITOS INICIAIS
+
+
+                                                                                          AMOSTRA
+                                    POPULAÇÃO
+                                                                                          Subconjunto extraído da população para
+Conjunto que contém todos os indivíduos,
+                                                                                          análise, devendo ser representativo daquele
+objetos ou elementos a serem estudados, que
+                                                                                          grupo.
+apresentam uma ou mais características em
+comum. A população pode ser finita ou infinita.
+
+                                                                                         CENSO (OU
+                                                                                       RECENSEAMENTO)
+                                     AMOSTRAGEM
+                                                                                         Estudo dos dados relativos     a   todos     os
+Processo que consiste na seleção criteriosa dos
+                                                                                         elementos de uma população.
+elementos      a     serem    submetidos      à
+investigação. Devemos garantir que a amostra
+seja representativa da população.
+
+                                                                                        PARÂMETROS
+                                    ESTATÍSTICA (OU
+                                                                                        Descrições numéricas de características
+                                      ESTIMADOR)                                        populacionais que raramente são conhecidas.
+                                                                                        Normalmente, os parâmetros populacionais são
+Medidas numéricas obtidas de amostras                                                   constantes para uma população.
+representativas extraídas da população. As
+estatísticas amostrais podem ser utilizadas
+para inferir ou tirar conclusões acerca dos
+parâmetros populacionais.
+                                                                                                                       INTRODUÇÃO À ESTATÍSTICA
+                                                  https://t.me/KakashiAssinaturasBot                                      ESTRATÉGIA CONCURSOS
+                                                               Resultam do processo de coleta de dados.
+                                   CONCEITO
+                                                               Conjunto organizado por meio de variáveis (a característica está
+                                                               sendo medida) e observações (elementos da amostra/população).
+
+
+
+
+  COM RELAÇÃO AO NÚMERO DE                                                                     QUANTO À FORMA DE APRESENTAÇÃO, OS
+OBSERVAÇÕES COLETADAS, OS DADOS                    DADOS ESTATÍSTICOS                           DADOS PODEM SER CLASSIFICADOS EM:
+     SÃO CLASSIFICADOS EM:
+
+
+
+                                                                       Dados que não foram numericamente
+  DADOS UNIVARIADOS       Uma única observação de                      organizados em ordem crescente ou
+                          cada indivíduo é registrada.                 decrescente, ou seja, estão na forma             DADOS BRUTOS
+                          Por exemplo: peso;                           como foram coletados. A tabela na qual
+                                                                       os dados não aparecem numericamente
+                                                                       ordenados    é  chamada    de   tabela
+  DADOS BIVARIADOS        Duas observações de cada                     primitiva.
+                          indivíduo são registradas.
+                          Por exemplo: peso e altura;
+                                                                       É a organização dos dados brutos em
+                                                                       ordem de grandeza crescente ou
+                         Mais de duas observações                      decrescente. Com os dados organizados                   ROL
+       DADOS
+                         acerca de cada indivíduo são                  em rol, podemos saber, com facilidade,
+   MULTIVARIADOS:        registradas.    Por    exemplo:               qual o menor e o maior elemento de um
+                         peso, altura, sexo e idade.                   conjunto de dados.
+
+
+
+                                                                                                                        DADOS ESTATÍSTICOS
+                                                https://t.me/KakashiAssinaturasBot                                       ESTRATÉGIA CONCURSOS
+                                              VARIÁVEIS ESTATÍSTICAS
+
+
+                                                                                   VARIÁVEIS QUANTITATIVAS
+                   VARIÁVEIS QUALITATIVAS
+
+
+
+São as características que podem ser descritas                          São as características que podem ser descritas
+por meio de qualidades (atributos) do indivíduo                         por meio de quantidades (valores numéricos):
+pesquisado:
+
+
+                                                          a) discretas:
+
+a) nominais: as possíveis categorias não                • os possíveis valores formam um conjunto finito ou enumerável de números;
+  podem ser ordenadas.
+                                                        • resultam de um processo de contagem;
+    ○ Ex: cor dos olhos, esporte praticado.             • o número de ocorrências da característica em análise pode ser contado.
+                                                             ○ Ex: número de leitos pot cidade, idade.
+                                                        b) contínuas:
+a) ordinais: as possíveis categorias podem
+  ser ordenadas de alguma forma.                        • os possíveis valores formam um intervalo de números reais
+    ○ Ex: nível de escolaridade.                        • resultam de um processo de mensuração;
+                                                        • a característica pode ser medida em uma escala contínua.
+                                                             ○ Ex: peso, altura.
+                                                                                                                         VARIÁVEIS ESTATÍSTICAS
+                                              https://t.me/KakashiAssinaturasBot                                           ESTRATÉGIA CONCURSOS
+                          SÉRIES ESTATÍSTICAS
+
+
+SÉRIE ESTATÍSTICA CONSISTE EM UM CONJUNTO DE DADOS ORGANIZADO COM
+  BASE EM UMA CARACTERÍSTICA COMUM, OU SEJA, UMA MESMA VARIÁVEL.
+
+
+
+
+                    • É um quadro que resume um conjunto de observações.
+      TABELA        • Composta por corpo, cabeçalho, coluna indicadora,
+                      linhas, célula, título e fonte.
+
+
+
+
+                   • Gráfico é o elemento que busca proporcionar uma compreensão mais rápida do
+                     fenômeno em estudo, devendo:
+      GRÁFICO             a) Ser destituído de detalhes sem importância (ser simples);
+                          b)Permitir a correta interpretação dos valores representativos do
+                             fenômeno (ser claro);
+                          c) Transmitir a verdade sobre o fenômeno (ser verossímil).
+
+                                                                                          SÉRIES ESTATÍSTICAS
+                          https://t.me/KakashiAssinaturasBot                              ESTRATÉGIA CONCURSOS
+                SÉRIES TEMPORAIS (OU                                                                SÉRIES GEOGRÁFICAS (OU
+                   CRONOLÓGICAS)                                                                         TERRITORIAIS)
+
+  • É a série cujos dados são dispostos                                                         • É a série cujos dados são dispostos segundo a
+     segundo a época de ocorrência.                                                               localidade de ocorrência.
+  • Isto é, enquanto o tempo varia, o fato e o                                                  • Enquanto o local varia, o fato e o tempo
+     local permanecem constantes.                                                                 permanecem constantes.
+  • Também       são chamadas       de       séries
+                                                                                                • Também são chamadas de séries espaciais
+     históricas ou evolutivas.
+                                                                                                  ou de localização.
+  • A   principal característica   é     o    fator
+     cronológico variável.                                                                      • A principal característica é o fator geográfico
+                                                                                                  variável.
+
+                                                               SÉRIES
+
+                  SÉRIES ESPECÍFICAS                                                               SÉRIES MISTAS (OU COMPOSTAS)
+
+• É a série cujos dados são dispostos segundo a                                        • As séries resultantes desse processo de combinação;
+  modalidade de ocorrência.                                                            • Apresentadas por meio de tabelas de dupla entrada.
+• Enquanto o fato varia, a época e o local permanecem                                  • Se tivermos uma série mista de fato e tempo,
+  constantes.                                                                              denominaremos de série específico-temporal.
+• Também são chamadas de séries categóricas.                                           • Se tivermos uma série mista de local e tempo,
+• A principal característica é o fator especificativo                                      denominaremos de série geográfica-temporal.
+  variável.
+                                                                                                                                             SÉRIES
+                                                      https://t.me/KakashiAssinaturasBot                                             ESTRATÉGIA CONCURSOS
+                       CLASSE                      ❑As classes são os intervalos nos quais o fenômeno é subdividido.
+                                                      Podemos dizer que as classes são os intervalos ou subdivisões dos
+                                                      elementos que compõem um conjunto de dados.
+
+
+                   LIMITE DE CLASSE
+
+
+                                                             ,
+
+
+
+DISTRIBUIÇÕES DE   AMPLITUDE DE UM
+                    INTERVALO DE
+  FREQUÊNCIAS          CLASSE
+
+
+
+
+                   AMPLITUDE TOTAL
+
+                                                                                   .
+
+
+
+                   PONTO MÉDIO DE
+                       CLASSE                                    (         )
+
+
+                                                                                                     DISTRIBUIÇÕES DE FREQUÊNCIAS
+                                      https://t.me/KakashiAssinaturasBot                                    ESTRATÉGIA CONCURSOS
+                                        É o número de ocorrências de
+                 FREQUÊNCIAS            um determinado valor ou de
+                                        uma certa classe. Existem
+                                        quatro tipos de frequência, os
+                                        quais serão analisados nas
+                                        subseções seguintes:                           .
+
+DISTRIBUIÇÃO DE FREQUÊNCIAS
+                      SIMPLES
+
+  FREQUÊNCIA
+   ABSOLUTA
+
+
+
+                    ACUMULADA
+
+
+
+
+  FREQUÊNCIA          SIMPLES
+   RELATIVA
+
+
+                     ACUMULADA
+
+  DENSIDADE DE
+   FREQUÊNCIA
+                                                                            FREQUÊNCIAS
+                                 https://t.me/KakashiAssinaturasBot      ESTRATÉGIA CONCURSOS
+                                               REPRESENTAÇÕES GRÁFICAS DAS
+                                               DISTRIBUIÇÕES DE FREQUÊNCIA
+GRÁFICO DE HASTES OU                                                                                            POLÍGONO DE FREQUÊNCIAS
+      BASTÕES                                                 HISTOGRAMAS
+
+
+
+   Muito utilizado para         Destinado a representar dados                Dito isso, é importante       Obtido por meio da ligação, por
+ representar dados não           agrupados em classe, sendo              mencionarmos a existência do     segmentos de retas, dos pontos
+agrupados em classes, o         composto por um conjunto de                 gráfico denominado de         médios das bases superiores dos
+que normalmente ocorre                retângulos contíguos                poligonal característica, que    retângulos de um histograma:
+  com dados discretos.              (justapostos) cujas bases            construímos utilizando apenas
+                                 ficam localizadas sobre o eixo           os contornos do histograma.
+                                   horizontal, de forma que os
+                                seus pontos médios coincidam
+                                   com os pontos médios dos
+                                   intervalos de classe e seus
+                                    limites coincidam com os
+                                         limites da classe.
+
+
+
+
+A diferença básica entre um
+histograma e um gráfico de                                            O histograma pode ocasionar um certo
+colunas é a separação entre                                           nível de perda de informações, pois os
+os retângulos adjacentes. Não                                         elementos da distribuição de frequência
+existe separação entre os                                             não    são    representados de    forma
+retângulos no caso do                                                 individualizada, mas sim por meio de
+histograma.                                                           suas classes.                                      REPRESENTAÇÕES GRÁFICAS
+                                                        https://t.me/KakashiAssinaturasBot                                   ESTRATÉGIA CONCURSOS
+                                             REPRESENTAÇÕES GRÁFICAS DAS
+                                             DISTRIBUIÇÕES DE FREQUÊNCIA
+
+A curva de frequências é                                                               OGIVA (POLÍGONO DE        O     gráfico   de   ogiva
+obtida    a     partir do
+                                 CURVA DE FREQUÊNCIAS
+                                                                                          FREQUÊNCIAS            corresponde a um polígono
+polimento de um polígono                                                                                         de frequências acumuladas.
+de frequências.
+                                                                                         ACUMULADAS)
+
+
+
+          Esse processo suaviza os contornos do                                              Esse   gráfico   é    empregado na
+          polígono de frequências, o que                                                     representação de distribuições de
+          evidencia a verdadeira natureza dos                                                frequências acumuladas, sejam elas
+          dados em análise.                                                                  crescentes ou decrescentes.
+
+
+
+
+                                                                                                                         REPRESENTAÇÕES GRÁFICAS
+                                                  https://t.me/KakashiAssinaturasBot                                        ESTRATÉGIA CONCURSOS
+            GRÁFICOS EM LINHAS                                                                                                  GRÁFICOS EM COLUNAS
+
+                                                    OUTROS GRÁFICOS E REPRESENTAÇÕES
+
+                                                                                                                 São usados para distribuições de dados
+ Os gráficos em linha normalmente são
+                                                                                                                       categóricos ou qualitativos.
+   usados para representar dados de
+                                                                      GRÁFICOS EM BARRAS                            Representada por um conjunto de
+  séries temporais, com a finalidade de
+                                                                                                                   retângulos dispostos verticalmente.
+ mostrar a variação dos valores de uma
+       variável ao longo do tempo:
+                                                       São usados para representar distribuições
+                                                         de dados categóricos ou qualitativos.
+                                                           Representada por um conjunto de
+                                                      retângulos dispostos horizontalmente, cada
+                                                        um indicando uma categoria particular.
+
+
+                                                                                                                                                   gráfico de
+                                                                                                                                                    colunas
+                                                                                                                                                  justapostas.
+
+
+                                                                                                    Apresenta mais informação
+                                                                                                    num espaço menor.
+
+                                               gráfico de
+                                                 barras                                              gráfico de colunas
+                                              justapostas                                             sobrepostas (ou
+Também podemos elaborar um gráfico de
+linhas múltiplas para comparar a evolução                                                            gráfico de colunas
+    da população residente nas Grandes                                                                  empilhadas):
+  Regiões do Brasil em diferentes períodos.
+                                                 Representa a variação de                                                                REPRESENTAÇÕES GRÁFICAS
+                                                 uma determinada categoria.
+                                                               https://t.me/KakashiAssinaturasBot                                           ESTRATÉGIA CONCURSOS
+                                             OUTROS GRÁFICOS E REPRESENTAÇÕES
+
+      GRÁFICO EM SETORES                                                                                           PICTOGRAMA
+
+
+    Também conhecido como                    GRÁFICO POLAR                          CARTOGRAMA
+                                                                                                            Substitui valores por ícones,
+  gráfico de pizza) é usado para
+                                                                                                               tornando os dados mais
+representar a frequência relativa
+                                                                                                               atraentes e facilitando o
+ (porcentagem) de uma variável
+                                                                                                             entendimento acerca de um
+  categórica. Cada setor circular    O gráfico polar consiste em                  É empregado com a           determinado fenômeno. A
+representa uma categoria, sendo        uma sequência de eixos                  finalidade de apresentar    legenda é utilizada para indicar
+  o ângulo central proporcional à       igualmente espaçados                       dados estatísticos        o que cada ícone representa
+ frequência relativa da categoria.    (ângulos iguais), cada um               diretamente relacionados
+                                       representando uma das                  com áreas geográficas. As
+                                         variáveis. Uma linha é              áreas do cartograma podem
+                                         desenhada ligando os                ser preenchidas por pontos,
+                                          valores de cada eixo:                    hachuras ou cores
+
+
+
+
+                                                                                                                       REPRESENTAÇÕES GRÁFICAS
+                                                     https://t.me/KakashiAssinaturasBot                                   ESTRATÉGIA CONCURSOS
+                                        OUTROS GRÁFICOS E REPRESENTAÇÕES
+
+                                                                                                                 O diagrama de ramos e
+O gráfico de dispersão é                                                                                         folhas fornece uma maneira
+uma representação de
+                                GRÁFICO DE DISPERSÃO                                 DIAGRAMA DE RAMOS E
+                                                                                                                 rápida     de   representar
+pares ordenados em um                                                                      FOLHAS                graficamente a distribuição
+plano cartesiano.                                                                                                dos dados.
+
+
+
+         Composto por um eixo                                                              Cada número é separado em duas
+         vertical (ordenada) e um                                                          partes, de um lado ficam as unidades do
+         eixo horizontal (abcissa):                                                        número e do outro lado fica o restante
+                                                                                           desse número:
+
+
+
+
+                                                                                                                           REPRESENTAÇÕES GRÁFICAS
+                                                https://t.me/KakashiAssinaturasBot                                            ESTRATÉGIA CONCURSOS
+

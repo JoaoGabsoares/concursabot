@@ -1,0 +1,132 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 11_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Controle Externo
+artigos_citados:
+- Art. 31.
+- Art. 70
+- Art. 75.
+---
+
+# Controle Externo
+
+Controle Externo
+  EC 139/2026
+
+
+  
+
+
+---
+
+Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal,
+mediante controle externo, e pelos sistemas de controle interno do Poder Executivo
+Municipal, na forma da lei.
+§ 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de
+Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos
+Municípios, onde houver, vedada sua extinção, criação ou instalação. (Redação dada pela
+Emenda Constitucional nº 139, de 2026)
+
+                               
+
+
+---
+
+ Art. 75. Os Tribunais de Contas são instituições permanentes, essenciais ao exercício do
+controle externo, e as normas estabelecidas nesta Seção aplicam-se, no que couber, à
+organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito
+Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios, vedada sua
+extinção, criação ou instalação. (Redação dada pela Emenda Constitucional nº 139, de
+2026)
+
+                                
+
+
+---
+
+1. (2026/CESPE/CEBRASPE/TCE-RN/Auditor de Controle Externo) Ao tomarem
+conhecimento de qualquer irregularidade ou ilegalidade, os responsáveis pelo controle
+interno deverão dar ciência ao Tribunal de Contas da União, sob pena de
+responsabilidade solidária. CERTO
+
+                               
+
+
+---
+
+2. (2026/CESPE/CEBRASPE/TCE-RN/Auditor de Controle Externo) Ao tomar conhecimento
+de ilegalidades, qualquer cidadão tem o dever legal de denunciá-las perante o Tribunal de
+Contas da União. ERRADO
+
+                               
+
+
+---
+
+3. (2026/CESPE/CEBRASPE/TCE-RN/Auditor de Controle Externo) O Ministério Público de
+Contas não tem legitimidade para a execução de crédito decorrente de multa aplicada por
+tribunal de contas estadual a agente público municipal em razão de danos causados ao
+erário municipal. CERTO
+
+                              
+
+
+---
+
+4. (2026/CESPE/CEBRASPE/TCE-RN/Auditor de Controle Externo) Compete ao estado
+vinculado o tribunal de contas a execução de multa aplicada a agente público municip
+débito decorra de dano causado ao erário municipal. ERRADO
+
+                       
+
+
+---
+
+5. (2026/FGV/ENAM) O Art. 70 da Constituição Federal dispõe que "[A] fiscalização contábil,
+financeira, orçamentária, operacional e patrimonial da União e das entidades da
+administração direta e indireta, quanto à legalidade, legitimidade, economicidade,
+aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional,
+mediante controle externo, e pelo sistema de controle interno de cada Poder". Sobre o
+Tribunal de Contas, com base no entendimento do Supremo Tribunal Federal (STF), avalie
+as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+I. O Ministério Público possui legitimidade ativa para a propositura de ação executiva
+decorrente de condenação patrimonial imposta por Tribunais de Contas.
+II. O Município prejudicado é parte legítima para a execução do crédito decorrente de
+multa aplicada por Tribunal de Contas Estadual a agente público municipal, em razão de
+danos causados ao erário municipal. CERTO
+
+                                
+
+
+---
+
+III. Compete ao Estado-membro a execução de crédito decorrente de multas simples,
+aplicadas por Tribunais de Contas Estaduais a agentes públicos municipais, em razão da
+inobservância das normas de Direito Financeiro ou, ainda, do descumprimento dos deveres
+de colaboração impostos pela legislação aos agentes públicos fiscalizados. CERTO
+As afirmativas são, respectivamente:
+
+a)   F – F – V.
+b)   F – V – V.
+c)   V – F – V.
+d)   F – V – F.
+e)   V – V – F.
+
+                               
+
+
+---
+
+                                     Estratégia
+                                     Concursos
+
+---

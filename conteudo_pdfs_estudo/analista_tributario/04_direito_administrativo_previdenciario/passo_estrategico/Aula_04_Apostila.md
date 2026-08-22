@@ -1,0 +1,2150 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- art. 11
+- art. 15-B
+- art. 16
+- art. 2
+- art. 21
+- art. 72
+- art. 7º
+- artigo 9º
+---
+
+# Passo Estratégico de Direito
+
+Aula 02
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             31 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 02
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Entidades Paraestatais e o Terceiro Setor - FGV
+
+
+2) Roteiro de Revisão - Entidades Paraestatais e Terceiro Setor
+
+
+3) Aposta Estratégica - Entidades Paraestatais e Terceiro Setor - OS
+
+
+4) Questões Estratégicas - Entidades Paraestatais e Terceiro Setor - FGV - Nível Superior
+
+
+5) Questionário de Revisão - Entidades Paraestatais e Terceiro Setor
+
+
+6) Referências Bibliográficas
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           44
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                 FGV
+                          Organizações sociais                                                 42,31%
+            Organizações da sociedade civil de interesse público                               42,31%
+                       Serviços sociais autônomos                                               7,69%
+                           Entidades de apoio                                                   7,69%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   3
+        www.estrategiaconcursos.com.br                                                                      44
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                       MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem-preparado no assunto, você precisa, basicamente, compreender e
+memorizar os pontos a seguir:
+
+
+Terceiro Setor
+
+- São entidades privadas da sociedade civil, surgidas necessariamente no meio privado, mas que
+não possuem fins lucrativos nem econômicos e que atuam em colaboração ou apoio ao Estado
+na prestação de atividades de utilidade pública.
+
+- Decorrem da publicização, isto é, a transferência do estado para a sociedade civil de atividades
+de relevância social.
+
+- O primeiro setor é o próprio Estado, enquanto o segundo setor é formado pelo mercado.
+
+As entidades do terceiro setor não fazem parte da Administração Pública (por isso não integram
+o primeiro setor) e não possuem fins lucrativos nem exploram atividade econômica,
+diferentemente do mercado (ou segundo setor).
+
+                 1º Setor - Estado
+                 2º Setor - Mercado
+                 3º Setor - Organizações da sociedade civil sem fins lucrativos
+
+- São chamadas pela legislação e pela doutrina de "organizações da sociedade civil", porém são
+conhecidas, na linguagem comum, como organizações não governamentais (ONG).
+
+
+Entidades Paraestatais
+
+- São os entes privados, sem fins lucrativos, que atuam em colaboração com o Estado, mas que
+não fazem parte do conceito formal de Administração Pública, integrando, portanto, o terceiro
+setor e, além disso, possuindo algum vínculo com o poder público.
+
+As entidades do terceiro setor não são obrigadas a manter qualquer vínculo com o Poder
+Público, porém, se caso haja esse vínculo, a entidade do terceiro setor passará a ser considerada
+uma entidade paraestatal.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 4
+         www.estrategiaconcursos.com.br                                                                   44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+- Exercem função típica, porém não exclusiva do Estado, como as de assistência social, de
+formação profissional, entre outras.
+
+- Espécies de entidades paraestatais:
+
+                   Serviços sociais autônomos
+                   Organizações sociais (OS)
+                   Organizações da sociedade civil de interesse público (Oscip)
+                   “Entidades de apoio”
+                   Organizações da sociedade civil
+
+
+Serviços sociais autônomos
+
+- São pessoas jurídicas direito privado, sem fins lucrativos, criadas por meio de autorização legal,
+para ministrar assistência ou ensino a certas categorias sociais ou grupos profissionais.
+
+Apesar de sua criação depender de autorização em lei, a criação só é efetivada propriamente
+com o registro do respectivo ato constitutivo no registro civil das pessoas jurídicas.
+
+- Exemplos de serviços sociais autônomos são as famosas entidades do “Sistema S”, como:
+
+   Serviço Nacional de Aprendizagem Industrial – Senai;
+   Serviço Social do Comércio – Sesc;
+   Serviço Social da Indústria – Sesi;
+   Serviço Nacional de Aprendizagem do Comércio – Senac; e
+   Serviço Brasileiro de Apoio às Micro e Pequenas Empresas – Sebrae.
+
+- São mantidos por recursos provenientes de contribuições instituídas no interesse de categorias
+profissionais ou de interesse no domínio econômico, de natureza tributária, conhecidas como
+contribuições parafiscais. Além disso, essas entidades podem inclusive chegar a receber recursos
+orçamentários.
+
+- Como seus recursos têm natureza pública, os serviços sociais autônomos possuem o dever de
+prestar contas e se submetem à fiscalização do Tribunal de Contas da União.
+
+Adicionalmente, os serviços sociais autônomos geralmente vinculam-se aos órgãos da
+administração direta, em geral ao ministério do setor correspondente.
+
+- Foro competente para julgamento de suas causas: justiça estadual, em razão de se tratarem
+entidades privadas, não integrantes, portanto, da administração pública.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        5
+         www.estrategiaconcursos.com.br                                                          44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+- Não se exige a realização de concurso público para a contratação de seu pessoal, mas a
+contratação deve se realizar por um processo seletivo, ainda que de forma simplificada, que
+garanta a observância dos princípios constitucionais da legalidade, da publicidade, da
+moralidade, da impessoalidade, da finalidade e da isonomia (entendimento do TCU).
+
+- Seu pessoal submete-se à legislação trabalhista (CLT). Contudo, seus empregados são
+equiparados a funcionários públicos para fins penais (Código Penal, art. 327) e de improbidade
+administrativa (Lei 8.429/1992). Além de que, por aplicarem recursos públicos, submetem-se à
+Lei de Improbidade Administrativa.
+
+- Não se submetem completamente à Lei de Licitações, mas devem observar regulamentos
+próprios, devidamente publicados, os quais devem se pautar nos princípios gerais do processo
+licitatório e nos princípios relativos à Administração Pública, em especial os da legalidade,
+moralidade, impessoalidade, isonomia e publicidade, constantes do art. 37, caput, da
+Constituição Federal (entendimento do TCU).
+
+Seus regulamentos próprios não podem inovar na ordem jurídica, não podendo criar um novo
+caso de dispensa/inexigibilidade de licitação, uma vez que essa matéria é reservada à lei
+ordinária, em matéria de competência privativa da União, consoante o art. 22, XXVII, da
+Constituição Federal (entendimento do TCU).
+
+"Novos” serviços sociais autônomos
+
+- Recentemente, a legislação vem permitindo a criação de entidades chamadas de "serviços
+sociais autônomos", mas que, na verdade, não possuem as características mencionadas
+anteriormente.
+
+Os “novos” serviços sociais autônomos possuem, em regra, as seguintes características:
+
+   (i) são criados pelo próprio Poder Executivo, por meio de autorização legal;
+   (ii) o presidente da entidade é escolhido e nomeado pelo Presidente da República;
+   (iii) submetem-se à supervisão ministerial;
+   (iv) celebram contrato de gestão com o Poder Executivo;
+   (v) podem receber dotações consignadas diretamente no orçamento geral da União.
+
+Exemplos: a) Apex-Brasil: Agência de Promoção de Exportações do Brasil; b) ABDI: Agência
+Brasileira de Desenvolvimento Industrial; e c) Anater: Agência Nacional de Assistência Técnica e
+Extensão Rural.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    6
+         www.estrategiaconcursos.com.br                                                      44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 02
+
+Organizações Sociais (OS)
+
+As OS são disciplinadas pela Lei 9.637/98. Para uma revisão minuciosa do conteúdo, portanto,
+recomenda-se a leitura da referida Lei. A seguir, seguem os principais pontos sobre a temática.
+
+- Organização social (OS) é a qualificação jurídica dada a pessoa jurídica de direito privado, sem
+fins lucrativos, instituída por iniciativa de particulares, e que recebe delegação do Poder Público,
+mediante contrato de gestão, para desempenhar serviço público de natureza social1.
+
+Nenhuma entidade nasce organização social: a entidade é criada como associação ou fundação
+e, cumprindo os critérios de habilitação, recebe a qualificação.
+
+- Áreas de atuação das OS (art. 1º da Lei 9.637/98):
+
+     a) ensino;
+     b) pesquisa científica;
+     c) desenvolvimento tecnológico;
+     d) proteção e preservação do meio ambiente;
+     e) cultura;
+     f) saúde.
+
+- As OS são conhecidas como entidades públicas não estatais.
+
+São públicas, porque prestam serviços públicos e administram patrimônio público e, não
+estatais, porque não integram nem a Administração direta nem a indireta.
+
+Lei 9.637/98, art. 11 As entidades qualificadas como organizações sociais são declaradas como entidades
+de interesse social e utilidade pública, para todos os efeitos legais.
+
+- Para ser qualificada como OS a entidade:
+
+     a) deve ter personalidade jurídica de direito privado;
+     b) não pode ter finalidade lucrativa;
+     c) deve atuar nas atividades de ensino, pesquisa científica, desenvolvimento tecnológico,
+     proteção e preservação do meio ambiente, cultura ou saúde.
+
+- A qualificação da entidade como OS depende de duas etapas, ambas envolvendo um juízo
+discricionário das autoridades envolvidas (art. 2º, II, da Lei 9.637/98).
+
+1
+    Di Pietro. Direito Administrativo.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo         7
+           www.estrategiaconcursos.com.br                                                           44
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+Primeiro, a qualificação depende de aprovação discricionária do Ministro ou titular de órgão
+supervisor ou regulador da área de atividade correspondente ao seu objeto social, bem como
+do Ministro de Estado da Administração Federal e Reforma do Estado (este Ministério, no
+entanto, foi extinto e, atualmente, suas atribuições estão dentro do Ministério da Gestão e
+Inovação em Serviços Públicos).
+
+Após a aprovação pelos ministros de Estado indicados acima, a qualificação de entidade privada
+como organização social poderá ser formalizada em ato do Presidente da República.
+
+- A parceria entre o Poder Público e a OS é formalizada mediante contrato de gestão, para
+fomento e execução das atividades relativas às áreas de ensino, pesquisa científica,
+desenvolvimento tecnológico, proteção e preservação do meio ambiente, cultura e saúde (art. 5º
+da Lei 9.637/98).
+
+O contrato de gestão (CG), elaborado de comum acordo entre o órgão ou entidade supervisora
+e a organização social, discriminará as atribuições, responsabilidades e obrigações do Poder
+Público e da organização social (art. 6º, caput, da Lei 9.637/98).
+
+Na elaboração do CG, devem ser observados os princípios da legalidade, impessoalidade,
+moralidade, publicidade, economicidade (Mnemônico “LIMPEco”) e, também, os seguintes
+preceitos (art. 7º da Lei 9.637/98):
+
+   a) especificação do programa de trabalho proposto pela OS, a estipulação das metas a serem
+   atingidas e os respectivos prazos de execução, bem como previsão expressa dos critérios
+   objetivos de avaliação de desempenho a serem utilizados, mediante indicadores de qualidade
+   e produtividade;
+
+   b) a estipulação dos limites e critérios para despesa com remuneração e vantagens de
+   qualquer natureza a serem percebidas pelos dirigentes e empregados das organizações
+   sociais, no exercício de suas funções.
+
+- CG firmado por OS x CG firmado por Autarquias e Fundações
+
+Há um outro tipo de CG, firmado dentro da própria Administração Pública com o objetivo de
+pactuar metas de desempenho entre os órgãos e entidades públicos, em troca de maior
+autonomia (37, § 8º, da CF/88):
+
+CF/88, art. 37, § 8º A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da
+administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus
+administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o
+órgão ou entidade, cabendo à lei dispor sobre:
+I - o prazo de duração do contrato;
+II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos
+dirigentes;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo         8
+         www.estrategiaconcursos.com.br                                                           44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+III - a remuneração do pessoal.
+
+Um exemplo de utilização deste tipo de contrato de gestão previsto na CF/88 ocorre na
+qualificação das autarquias e fundações como agências executivas, conforme arts. 51 e 52 da Lei
+9.649/1998.
+
+Portanto, existem pelo menos dois tipos de contrato de gestão:
+
+   (a) um como requisito para qualificação de uma autarquia ou fundação como agência
+   executiva (fundado no art. 37, § 8º, da CF/88, em conjunto com os arts. 51 e 52 da arts. 51 e
+   52 da Lei 9.649/1998);
+
+   (b) outro para firmar a parceria entre o Poder Público e a organização social (fundado na Lei
+   9.637/98).
+
+- A execução do CG celebrado por organização social será fiscalizada pelo órgão ou entidade
+supervisora da área de atuação correspondente à atividade fomentada (art. 8º, caput, da Lei
+9.637/98).
+
+Os resultados atingidos com a execução do contrato de gestão devem ser analisados,
+periodicamente, por comissão de avaliação, indicada pela autoridade supervisora da área
+correspondente, composta por especialistas de notória capacidade e adequada qualificação (art.
+8º, § 2º, da Lei 9.637/98).
+
+- Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem
+conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de
+origem pública por organização social, dela darão ciência ao Tribunal de Contas da União, sob
+pena de responsabilidade solidária (art. 9º da Lei 9.637/98).
+
+Além disso, se a gravidade dos fatos ou o interesse público assim exigir, existindo indícios
+fundados de malversação de bens ou recursos de origem pública, os responsáveis pela
+fiscalização representarão ao Ministério Público, à Advocacia-Geral da União ou à Procuradoria
+da entidade para que requeira ao juízo competente a decretação da indisponibilidade dos bens
+da entidade e o sequestro dos bens dos seus dirigentes, bem como de agente público ou
+terceiro, que possam ter enriquecido ilicitamente ou causado dano ao patrimônio público (art.
+10, caput, da Lei 9.637/98).
+
+- As entidades qualificadas como organizações sociais são declaradas, para todos os efeitos
+legais, como entidades de interesse social e utilidade pública (art. 11 da Lei 9.637/98).
+
+Como forma de fomento às atividades sociais desempenhadas pelas OS, poderão ser destinados
+a elas recursos orçamentários e bens públicos necessários ao cumprimento do contrato de
+gestão (art. 12, caput, da Lei 9.637/98).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    9
+         www.estrategiaconcursos.com.br                                                      44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 02
+
+Tais bens serão destinados às OS, dispensada licitação, mediante permissão de uso, consoante
+cláusula expressa do contrato de gestão (art. 12, § 3º, da Lei 9.637/98).
+
+Ainda, faculta-se ao Poder Executivo a cessão especial de servidor para as OS, com ônus para a
+origem (art. 14, caput, da Lei 9.637/98).
+
+
+                                                              Recursos orçamentários
+
+                                                       Permissão de uso de bens públicos
+      Fomento
+                                                            Cessão de servidor público
+
+                                                                Dispensa de licitação
+
+
+- A organização social fará publicar, no prazo máximo de noventa dias contado da assinatura do
+contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a
+contratação de obras e serviços, bem como para compras com emprego de recursos
+provenientes do Poder Público (art. 17 da Lei 9.637/98).
+
+Assim, as OS não se submetem à Lei 14.133/2021 em suas contratações, mas ao seu
+regulamento próprio.
+
+Com efeito, o STF2 entende que as OS, “por integrarem o Terceiro Setor, não fazem parte do
+conceito constitucional de Administração Pública, razão pela qual não se submetem, em suas
+contratações com terceiros, ao dever de licitar, o que consistiria em quebra da lógica de
+flexibilidade do setor privado, finalidade por detrás de todo o marco regulatório instituído pela
+Lei” 9.637/98.
+
+Nada obstante, continua o STF, em razão de as OS receberem recursos públicos, bens públicos
+e servidores públicos, “seu regime jurídico tem de ser minimamente informado pela incidência
+do núcleo essencial dos princípios da Administração Pública (CF, art. 37, caput), dentre os quais
+se destaca o princípio da impessoalidade, de modo que suas contratações devem observar o
+disposto em regulamento próprio (Lei nº 9.637/98, art. 4º, VIII), fixando regras objetivas e
+impessoais para o dispêndio de recursos públicos.
+
+- O Poder Executivo poderá levar a cabo a desqualificação da entidade como organização social,
+quando constatar que houve descumprimento das disposições contidas no contrato de gestão
+(art. 16).
+
+2
+    STF – ADI 1.923.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   10
+           www.estrategiaconcursos.com.br                                                      44
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 02
+
+A desqualificação será precedida de processo administrativo, assegurado o direito de ampla
+defesa, respondendo os dirigentes da organização social, individual e solidariamente, pelos
+danos ou prejuízos decorrentes de sua ação ou omissão (art. 16, § 1º, da Lei 9.637/98).
+
+A desqualificação importará reversão dos bens permitidos e dos valores entregues à utilização
+da organização social, sem prejuízo de outras sanções cabíveis (art. 16, § 2º, da Lei 9.637/98).
+
+
+Organizações da sociedade civil de interesse público (Oscip)
+
+As Oscip são disciplinadas pela Lei 9.790/99. Para uma revisão minuciosa do conteúdo, portanto,
+recomenda-se a leitura da referida Lei. A seguir, seguem os principais pontos sobre a temática.
+
+- Trata-se de qualificação jurídica dada a pessoas jurídicas de direito privado, sem fins lucrativos,
+instituídas por iniciativa de particulares, para desempenhar serviços sociais não exclusivos do
+                                                           ==219a34==
+
+Estado com incentivo e fiscalização do Poder Público, mediante vínculo jurídico instituído por
+meio de termo de parceria3.
+
+Ou seja, enquanto o vínculo da OS ocorre por meio de contrato de gestão, o da Oscip ocorre
+por meio de termo de parceria.
+
+- Podem qualificar-se como Oscip as pessoas jurídicas de direito privado, sem fins lucrativos, que
+tenham sido constituídas e se encontrem em funcionamento regular há, no mínimo, 3 anos,
+desde que os respectivos objetivos sociais e normas estatutárias atendam aos requisitos
+instituídos na Lei (art. 1º, caput, da Lei 9.790/1999).
+
+Considera-se sem fins lucrativos a pessoa jurídica de direito privado que não distribui, entre os
+seus sócios ou associados, conselheiros, diretores, empregados ou doadores, eventuais
+excedentes operacionais, brutos ou líquidos, dividendos, bonificações, participações ou parcelas
+do seu patrimônio, auferidos mediante o exercício de suas atividades, e que os aplica
+integralmente na consecução do respectivo objeto social (art. 1º, parágrafo único, da Lei
+9.790/1999).
+
+- A qualificação como Oscip somente será conferida às pessoas jurídicas de direito privado, sem
+fins lucrativos, cujos objetivos sociais tenham pelo menos uma das seguintes finalidades (art. 3º
+da Lei 9.790/1999):
+
+    a) promoção da assistência social;
+    b) promoção da cultura, defesa e conservação do patrimônio histórico e artístico;
+    c) promoção gratuita da educação, observando-se a forma complementar de participação das
+    organizações de que trata a Lei 9.790/1999;
+
+3
+    Di Pietro. Direito Administrativo.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      11
+           www.estrategiaconcursos.com.br                                                         44
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+ d) promoção gratuita da saúde, observando-se a forma complementar de participação das
+ organizações de que trata a Lei 9.790/1999;
+ e) promoção da segurança alimentar e nutricional;
+ f) defesa, preservação e conservação do meio ambiente e promoção do desenvolvimento sustentável;
+ g) promoção do voluntariado;
+ h) promoção do desenvolvimento econômico e social e combate à pobreza;
+ i) experimentação, não lucrativa, de novos modelos sócio-produtivos e de sistemas alternativos de
+ produção, comércio, emprego e crédito;
+ j) promoção de direitos estabelecidos, construção de novos direitos e assessoria jurídica gratuita de
+ interesse suplementar;
+ k) promoção da ética, da paz, da cidadania, dos direitos humanos, da democracia e de outros valores
+ universais;
+ l) estudos e pesquisas, desenvolvimento de tecnologias alternativas, produção e divulgação de
+ informações e conhecimentos técnicos e científicos que digam respeito às atividades mencionadas
+ acima;
+ m) estudos e pesquisas para o desenvolvimento, a disponibilização e a implementação de tecnologias
+ voltadas à mobilidade de pessoas, por qualquer meio de transporte.
+
+
+Além disso, exige-se ainda, para qualificarem-se como Oscip, que as pessoas jurídicas
+interessadas sejam regidas por estatutos cujas normas expressamente disponham sobre:
+
+ a) a observância dos princípios               da   legalidade,     impessoalidade,          moralidade,   publicidade,
+ economicidade e da eficiência;
+ b) a adoção de práticas de gestão administrativa, necessárias e suficientes a coibir a obtenção, de
+ forma individual ou coletiva, de benefícios ou vantagens pessoais, em decorrência da participação no
+ respectivo processo decisório;
+ c) a constituição de conselho fiscal ou órgão equivalente, dotado de competência para opinar sobre os
+ relatórios de desempenho financeiro e contábil, e sobre as operações patrimoniais realizadas, emitindo
+ pareceres para os organismos superiores da entidade;
+ d) a previsão de que, em caso de dissolução da entidade, o respectivo patrimônio líquido será
+ transferido a outra pessoa jurídica qualificada nos termos da Lei 9.790/1999, preferencialmente que
+ tenha o mesmo objeto social da extinta;
+ e) a previsão de que, na hipótese de a pessoa jurídica perder a qualificação instituída pela Lei
+ 9.790/1999, o respectivo acervo patrimonial disponível, adquirido com recursos públicos durante o
+ período em que perdurou aquela qualificação, será transferido a outra pessoa jurídica qualificada nos
+ termos desta Lei, preferencialmente que tenha o mesmo objeto social;
+ f) a possibilidade de se instituir remuneração para os dirigentes da entidade que atuem efetivamente
+ na gestão executiva e para aqueles que a ela prestam serviços específicos, respeitados, em ambos os
+ casos, os valores praticados pelo mercado, na região correspondente a sua área de atuação;
+ g) as normas de prestação de contas a serem observadas pela entidade, que determinarão, no mínimo:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                           12
+         www.estrategiaconcursos.com.br                                                                              44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+  g1) a observância dos princípios fundamentais de contabilidade e das Normas Brasileiras de
+ Contabilidade;
+  g2) que se dê publicidade por qualquer meio eficaz, no encerramento do exercício fiscal, ao relatório
+ de atividades e das demonstrações financeiras da entidade, incluindo-se as certidões negativas de
+ débitos junto ao INSS e ao FGTS, colocando-os à disposição para exame de qualquer cidadão;
+  g3) a realização de auditoria, inclusive por auditores externos independentes se for o caso, da
+ aplicação dos eventuais recursos objeto do termo de parceria conforme previsto em regulamento;
+  g4) a prestação de contas de todos os recursos e bens de origem pública recebidos pelas
+ Organizações da Sociedade Civil de Interesse Público será feita conforme determina o parágrafo único
+ do art. 70 da Constituição Federal.
+
+
+Em qualquer caso, mesmo atendendo aos requisitos acima, não são passíveis de qualificação
+como Oscip (art. 2º da Lei 9.790/1999):
+
+ a) as sociedades comerciais;
+ b) os sindicatos, as associações de classe ou de representação de categoria profissional;
+ c) as instituições religiosas ou voltadas para a disseminação de credos, cultos, práticas e visões
+ devocionais e confessionais;
+ d) as organizações partidárias e assemelhadas, inclusive suas fundações;
+ e) as entidades de benefício mútuo destinadas a proporcionar bens ou serviços a um círculo restrito de
+ associados ou sócios;
+ f) as entidades e empresas que comercializam planos de saúde e assemelhados;
+ g) as instituições hospitalares privadas não gratuitas e suas mantenedoras;
+ h) as escolas privadas dedicadas ao ensino formal não gratuito e suas mantenedoras
+ i) as organizações sociais;
+ j) as cooperativas;
+ k) as fundações públicas;
+ l) as fundações, sociedades civis ou associações de direito privado criadas por órgão público ou por
+ fundações públicas;
+ m) as organizações creditícias que tenham quaisquer tipo de vinculação com o sistema financeiro
+ nacional a que se refere o art. 192 da Constituição Federal (todavia, não constituem impedimento à
+ qualificação como Oscip as operações destinadas a microcrédito realizadas com instituições financeiras
+ na forma de recebimento de repasses, venda de operações realizadas ou atuação como mandatárias).
+
+
+Destaca-se, portanto, que não é possível qualificar uma OS como Oscip, ou seja, nenhuma
+entidade pode ser qualificada concomitantemente como OS e Oscip.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           13
+         www.estrategiaconcursos.com.br                                                              44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+- O interessado em se qualificar como Oscip deve formular requerimento escrito ao Ministério da
+Justiça, que, verificando que há o cumprimento dos requisitos previstos na Lei 9.790/1999,
+deferirá o pedido e expedirá o certificado de qualificação (arts. 5º e 6º da Lei 9.790/1999).
+
+Perceba que, diferentemente do que ocorre com as OS, a decisão é vinculada, pois cabe ao
+Ministro da Justiça apenas verificar se os requisitos foram atendidos e, se positivo, deverá
+conceder a qualificação da requerente como Oscip.
+
+- Termo de Parceria é o instrumento passível de ser firmado entre o Poder Público e as
+entidades qualificadas como Oscip destinado à formação de vínculo de cooperação entre as
+partes, para o fomento e a execução das atividades de interesse público previstas no art. 3º da
+Lei 9.790/1999 (transcritas mais acima) – art. 9º da Lei 9.790/1999.
+
+O Termo de Parceria, firmado de comum acordo entre o Poder Público e as Oscip discriminará
+direitos, responsabilidades e obrigações das partes signatárias (art. 10, caput, da Lei
+9.790/1999).
+
+- As Oscip devem elaborar, no prazo máximo de 30 dias, contado da assinatura do termo de
+parceria, regulamento próprio contendo os procedimentos que adotarão para a contratação de
+obras e serviços, bem como para compras com emprego de recursos provenientes do Poder
+Público, observados os princípios da legalidade, impessoalidade, moralidade, publicidade,
+economicidade e da eficiência (art. 14 da Lei 9.790/1999).
+
+Portanto, as Oscip não se submetem à Lei de Licitações, mas a regulamento próprio.
+
+- A execução do objeto do termo de parceria será acompanhada e fiscalizada por órgão do
+Poder Público da área de atuação correspondente à atividade fomentada, e pelos Conselhos de
+Políticas Públicas das áreas correspondentes de atuação existentes, em cada nível de governo
+(art. 11, caput, da Lei 9.790/1999).
+
+Os resultados atingidos com a execução do termo de parceria devem ser analisados por
+comissão de avaliação, composta de comum acordo entre o órgão parceiro e a Oscip (art. 11, §
+1º, da Lei 9.790/1999).
+
+Essa comissão encaminhará à autoridade competente relatório conclusivo sobre a avaliação
+procedida (art. 11, § 2º, da Lei 9.790/1999).
+
+Além disso, os termos de parceria destinados ao fomento de atividades nas áreas previstas na
+Lei estarão sujeitos aos mecanismos de controle social previstos na legislação (art. 11, § 3º, da
+Lei 9.790/1999).
+
+Os responsáveis pela fiscalização do Termo de Parceria, ao tomarem conhecimento de qualquer
+irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    14
+         www.estrategiaconcursos.com.br                                                       44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+organização parceira, darão imediata ciência ao Tribunal de Contas respectivo e ao Ministério
+Público, sob pena de responsabilidade solidária (art. 12 da Lei 9.790/1999).
+
+Além disso, havendo indícios fundados de malversação de bens ou recursos de origem pública,
+os responsáveis pela fiscalização representarão ao Ministério Público, à Advocacia-Geral da
+União, para que requeiram ao juízo competente a decretação da indisponibilidade dos bens da
+entidade e o sequestro dos bens dos seus dirigentes, bem como de agente público ou terceiro,
+que possam ter enriquecido ilicitamente ou causado dano ao patrimônio público, além de outras
+medidas consubstanciadas na Lei 8.429/1992, e na Lei Complementar 64/1990 (art. 13, caput, da
+Lei 9.790/1999).
+
+- A Oscip deverá prestar contas relativamente à execução do Termo de Parceria perante o órgão
+da entidade estatal parceira, referindo-se a mencionada prestação de contas à correta aplicação
+dos recursos públicos recebidos e ao adimplemento do objeto do Termo de Parceria (art. 15-B,
+da Lei 9.790/1999).
+
+- A entidade poderá perder a qualificação. A iniciativa do processo de perda da qualificação da
+Oscip pode se dar (art. 7º da Lei 9.790/1999):
+
+   (a) a pedido; ou
+
+   (b) por iniciativa popular ou do Ministério Público, mediante decisão proferida em processo
+   administrativo ou judicial, no qual serão assegurados a ampla defesa e o devido contraditório.
+
+Além disso, vedado o anonimato, e desde que amparado por fundadas evidências de erro ou
+fraude, qualquer cidadão, respeitadas as prerrogativas do Ministério Público, é parte legítima
+para requerer, judicial ou administrativamente, a perda da qualificação da Oscip (art. 8º da Lei
+9.790/1999).
+
+- É vedada às entidades qualificadas como Oscip a participação em campanhas de interesse
+político-partidário ou eleitorais, sob quaisquer meios ou formas (art. 16 da Lei 9.790/1999).
+
+
+Organizações da Sociedade Civil (OSC)
+
+As OSC são disciplinadas pela Lei 13.019/2014. Para uma revisão minuciosa do conteúdo,
+portanto, recomenda-se a leitura da referida Lei. A seguir, seguem os principais pontos sobre a
+temática.
+
+- Considera-se organização da sociedade civil (OSC) - art. 2º:
+
+   a) entidade privada sem fins lucrativos que não distribua entre os seus sócios ou associados,
+   conselheiros, diretores, empregados, doadores ou terceiros eventuais resultados, sobras,
+   excedentes operacionais, brutos ou líquidos, dividendos, isenções de qualquer natureza,
+   participações ou parcelas do seu patrimônio, auferidos mediante o exercício de suas
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    15
+         www.estrategiaconcursos.com.br                                                       44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+   atividades, e que os aplique integralmente na consecução do respectivo objeto social, de
+   forma imediata ou por meio da constituição de fundo patrimonial ou fundo de reserva;
+   b) as sociedades cooperativas previstas na Lei 9.867/1999; as integradas por pessoas em
+   situação de risco ou vulnerabilidade pessoal ou social; as alcançadas por programas e ações
+   de combate à pobreza e de geração de trabalho e renda; as voltadas para fomento, educação
+   e capacitação de trabalhadores rurais ou capacitação de agentes de assistência técnica e
+   extensão rural; e as capacitadas para execução de atividades ou de projetos de interesse
+   público e de cunho social;
+   c) as organizações religiosas que se dediquem a atividades ou a projetos de interesse público
+   e de cunho social distintas das destinadas a fins exclusivamente religiosos.
+
+- O regime jurídico das parcerias entre a administração pública e as OSC instituído pela Lei
+13.019/2014 é um regime de mútua cooperação, destinado à consecução de finalidades de
+interesse público e recíproco, mediante a execução de atividade ou de projeto expressos em
+termos de colaboração, em termos de fomento ou em acordos de cooperação.
+
+Considera-se administração pública, para os fins da Lei 13.019/2014: União, estados, Distrito
+Federal, municípios e respectivas autarquias, fundações, empresas públicas e sociedades de
+economia mista prestadoras de serviço público, e suas subsidiárias que recebam recursos do
+ente instituidor para pagamento de despesas com pessoal e custeio em geral (art. 2º, II).
+
+Portanto, não são todas as empresas públicas, sociedades de economia mista e subsidiárias que
+se submetem à Lei 13.019/2014, mas somente aquelas que recebam do ente instituidor (União,
+estados, Distrito Federal e municípios) recursos para suas despesas com pessoal ou custeio em
+geral.
+
+Além disso, não é a qualquer forma de parceria com OSC que se aplicam às exigências da Lei
+13.019/2014. Nesse sentido, não se aplicam as exigências da referida Lei (art. 3º):
+
+ a) às transferências de recursos homologadas pelo Congresso Nacional ou autorizadas pelo Senado
+ Federal naquilo em que as disposições específicas dos tratados, acordos e convenções internacionais
+ conflitarem com esta Lei;
+ b) aos contratos de gestão celebrados com organizações sociais, desde que cumpridos os requisitos
+ previstos na Lei 9.637/1998 (Lei das OS);
+ c) aos convênios e contratos celebrados com entidades filantrópicas e sem fins lucrativos nos termos
+ do § 1º do art. 199 da Constituição Federal;
+ d) aos termos de compromisso cultural referidos no § 1º do art. 9º da Lei 13.018/2014;
+ e) aos termos de parceria celebrados com organizações da sociedade civil de interesse público, desde
+ que cumpridos os requisitos previstos na Lei 9.790/1999 (Lei das Oscip);
+ f) às transferências referidas no art. 2º da Lei 10.845/2004, e nos arts. 5º e 22 da Lei 11.947/2009;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               16
+         www.estrategiaconcursos.com.br                                                                  44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 02
+
+    g) aos pagamentos realizados a título de anuidades, contribuições ou taxas associativas em favor de
+    organismos internacionais ou entidades que sejam obrigatoriamente constituídas por:
+     (g1) membros de Poder ou do Ministério Público;
+     (g2) dirigentes de órgão ou de entidade da administração pública;
+     (g3) pessoas jurídicas de direito público interno;
+     (g4) pessoas jurídicas integrantes da administração pública;
+    h) às parcerias entre a administração pública e os serviços sociais autônomos
+
+
+Perceba, portanto, que a Lei 13.019/2014 não se aplica aos contratos de gestão e aos termos de
+parcerias firmados, respectivamente, com as OS e Oscip.
+
+Além disso, é vedada a celebração de parcerias previstas na Lei 13.019/2014 que tenham por
+objeto, envolvam ou incluam, direta ou indiretamente, delegação das funções de regulação, de
+fiscalização, de exercício do poder de polícia ou de outras atividades exclusivas de Estado (art.
+40).
+
+- Parceria é o conjunto de direitos, responsabilidades e obrigações decorrentes de relação
+jurídica estabelecida formalmente entre a administração pública e OSC, em regime de mútua
+cooperação, para a consecução de finalidades de interesse público e recíproco, mediante a
+execução de atividade ou de projeto expressos em termos de colaboração, em termos de
+fomento ou em acordos de cooperação (art. 2º, III).
+
+Atividade é conjunto de operações que se realizam de modo contínuo ou permanente, das quais
+resulta um produto ou serviço necessário à satisfação de interesses compartilhados pela
+administração pública e pela OSC (art. 2º, III-A).
+
+Já o projeto é conjunto de operações, limitadas no tempo, das quais resulta um produto
+destinado à satisfação de interesses compartilhados pela administração pública e OSC (art. 2º,
+III-B).
+
+Termo de colaboração (TC) é instrumento por meio do qual são formalizadas as parcerias
+estabelecidas pela administração pública com OSC para a consecução de finalidades de
+interesse público e recíproco propostas pela administração pública que envolvam a transferência
+de recursos financeiros (art. 2, VII).
+
+Portanto, para a consecução de planos de trabalho de iniciativa da administração pública 4, para
+celebração de parcerias com OSC que envolvam a transferência de recursos financeiros, o TC
+deve ser adotado (art. 16, caput).
+
+4
+  Inobstante, os conselhos de políticas públicas poderão apresentar propostas à administração pública para
+celebração de termo de colaboração com organizações da sociedade civil (art. 16, parágrafo único).
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           17
+           www.estrategiaconcursos.com.br                                                              44
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+Por sua vez, o termo de fomento (TF) é o instrumento por meio do qual são formalizadas as
+parcerias estabelecidas pela administração pública com organizações da sociedade civil para a
+consecução de finalidades de interesse público e recíproco propostas pelas OSC, que envolvam
+a transferência de recursos financeiros (art. 2, VIII).
+
+Portanto, para a consecução de planos de trabalho propostos por OSC que envolvam a
+transferência de recursos financeiros, o TF deve ser adotado (art. 17).
+
+Por fim, o acordo de cooperação (AF) é o instrumento por meio do qual são formalizadas as
+parcerias estabelecidas pela administração pública com OSC para a consecução de finalidades
+de interesse público e recíproco que não envolvam a transferência de recursos financeiros (art. 2,
+VIII-A).
+
+Perceba que ambos os “termos” (termo de colaboração e termo de fomento) envolvem a
+transferência de recursos financeiros, sendo que o termo de colaboração formaliza parceria
+proposta por iniciativa da administração, enquanto o termo de fomento formaliza parceria
+proposta por iniciativa da OSC.
+
+O TF, o TC e o AC somente produzirão efeitos jurídicos após a publicação dos respectivos
+extratos no meio oficial de publicidade da administração pública (art. 38).
+
+                                              RECURSOS
+INSTRUMENTO            INICIATIVA                                  INTERESSE        PRODUÇÃO DE EFEITOS JURÍDICOS
+                                            FINANCEIROS?
+                    Administração
+      TC                                          Sim                              Somente após a publicação dos
+                        Pública                                    Interesse
+                                                                                    respectivos extratos no meio
+      TF                 OSC                      Sim              público e
+                                                                                      oficial de publicidade da
+                    Administração                                  recíproco
+      AC                                          Não                                  administração pública
+                    Pública ou OSC
+
+- O Procedimento de Manifestação de Interesse Social (PMIS) é o instrumento por meio do qual
+as OSC, movimentos sociais e cidadãos poderão apresentar propostas ao poder público para
+que este avalie a possibilidade de realização de um chamamento público objetivando a
+celebração de parceria (art. 18).
+
+A proposta a ser encaminhada à administração pública deverá atender aos seguintes requisitos
+(art. 19):
+
+ a) identificação do subscritor da proposta;
+ b) indicação do interesse público envolvido;
+ c) diagnóstico da realidade que se quer modificar, aprimorar ou desenvolver e, quando possível,
+ indicação da viabilidade, dos custos, dos benefícios e dos prazos de execução da ação pretendida.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                      18
+         www.estrategiaconcursos.com.br                                                                         44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+Atendidos tais requisitos, a administração pública deverá tornar pública a proposta em seu sítio
+eletrônico e, verificada a conveniência e oportunidade para realização do PMIS, o instaurará para
+oitiva da sociedade sobre o tema (art. 20).
+
+A realização do PMIS:
+
+   a) não implicará necessariamente na execução do chamamento público, que acontecerá de
+   acordo com os interesses da administração (art. 21, caput).
+   b) não dispensa a convocação por meio de chamamento público para a celebração de
+   parceria (art. 21, § 1º).
+
+Inclusive, é vedado condicionar a realização de chamamento público ou a celebração de parceria
+à prévia realização de PMIS (art. 21, § 3º).
+
+Por fim, a proposição ou a participação no PMIS não impede a OSC de participar no eventual
+chamamento público subsequente (art. 21, § 2º).
+
+- Chamamento público (CP) é o procedimento destinado a selecionar OSC para firmar parceria
+por meio de termo de colaboração ou de fomento, no qual se garanta a observância dos
+princípios da isonomia, da legalidade, da impessoalidade, da moralidade, da igualdade, da
+publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do
+julgamento objetivo e dos que lhes são correlatos (art. 2º, XII).
+
+O CP não é uma licitação, nem modalidade licitatória, mas sim um procedimento destinado à
+seleção da OSC para firmar a parceria.
+
+Além disso, o CP aplica-se, em regra, aos termos de colaboração e de fomento. Porém, há uma
+única exceção em que há previsão de realização de CP para a celebração de acordo de
+cooperação, prevista nos seguintes termos:
+
+Lei 13.019/2014, art. 29. Os termos de colaboração ou de fomento que envolvam recursos decorrentes
+de emendas parlamentares às leis orçamentárias anuais e os acordos de cooperação serão celebrados
+sem chamamento público, exceto, em relação aos acordos de cooperação, quando o objeto envolver a
+celebração de comodato, doação de bens ou outra forma de compartilhamento de recurso patrimonial,
+hipótese em que o respectivo chamamento público observará o disposto nesta Lei.
+
+Ainda, há casos em que a administração pública poderá dispensar a realização do chamamento
+público, quais sejam (art. 30):
+
+ a) no caso de urgência decorrente de paralisação ou iminência de paralisação de atividades de
+ relevante interesse público, pelo prazo de até cento e oitenta dias;
+ b) nos casos de guerra, calamidade pública, grave perturbação da ordem pública ou ameaça à
+ paz social;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     19
+         www.estrategiaconcursos.com.br                                                        44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+ c) quando se tratar da realização de programa de proteção a pessoas ameaçadas ou em
+ situação que possa comprometer a sua segurança;
+ d) no caso de atividades voltadas ou vinculadas a serviços de educação, saúde e assistência
+ social, desde que executadas por organizações da sociedade civil previamente credenciadas
+ pelo órgão gestor da respectiva política.
+
+Por outro lado, há também a previsão de inexigibilidade do chamamento público, na hipótese
+de inviabilidade de competição entre as organizações da sociedade civil, em razão da natureza
+singular do objeto da parceria ou se as metas somente puderem ser atingidas por uma entidade
+específica, especialmente quando (art. 31):
+
+ a) o objeto da parceria constituir incumbência prevista em acordo, ato ou compromisso
+ internacional, no qual sejam indicadas as instituições que utilizarão os recursos;
+ b) a parceria decorrer de transferência para organização da sociedade civil que esteja
+ autorizada em lei na qual seja identificada expressamente a entidade beneficiária, inclusive
+ quando se tratar da subvenção social.
+
+- As parcerias serão formalizadas mediante a celebração de termo de colaboração, de termo de
+fomento ou de acordo de cooperação, devendo constar como anexo de tais instrumentos o
+plano de trabalho, que deles será parte integrante e indissociável (art. 42, parágrafo único).
+
+Deverá constar do plano de trabalho de parcerias celebradas mediante termo de colaboração ou
+de fomento (não entra aqui o acordo de cooperação – art. 22):
+
+ a) descrição da realidade que será objeto da parceria, devendo ser demonstrado o nexo entre
+ essa realidade e as atividades ou projetos e metas a serem atingidas;
+ b) descrição de metas a serem atingidas e de atividades ou projetos a serem executados;
+ c) previsão de receitas e de despesas a serem realizadas na execução das atividades ou dos
+ projetos abrangidos pela parceria;
+ d) forma de execução das atividades ou dos projetos e de cumprimento das metas a eles
+ atreladas;
+ e) definição dos parâmetros a serem utilizados para a aferição do cumprimento das metas.
+
+O plano de trabalho da parceria poderá ser revisto para alteração de valores ou de metas,
+mediante termo aditivo ou por apostila ao plano de trabalho original (art. 57).
+
+- Não poderá ser exigida contrapartida financeira como requisito para firmar a parceria. Por
+outro lado, faculta-se à administração exigir contrapartida em bens e serviços, cuja expressão
+monetária será obrigatoriamente identificada no termo de colaboração ou de fomento (art. 35, §
+1º).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   20
+         www.estrategiaconcursos.com.br                                                      44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+- É permitida a atuação em rede, por duas ou mais organizações da sociedade civil, mantida a
+integral responsabilidade da organização celebrante do termo de fomento ou de colaboração,
+desde que a organização da sociedade civil signatária do termo de fomento ou de colaboração
+possua mais de cinco anos de inscrição no CNPJ, bem como capacidade técnica e operacional
+para supervisionar e orientar diretamente a atuação da organização que com ela estiver atuando
+em rede (art. 35-A).
+
+A OSC que assinar o TC ou o TF deverá celebrar termo de atuação em rede para repasse de
+recursos às não celebrantes (art. 35-A, parágrafo único).
+
+- Será obrigatória a estipulação do destino a ser dado aos bens remanescentes da parceria (art.
+36, caput).
+
+Os bens remanescentes adquiridos com recursos transferidos poderão, a critério do
+administrador público, ser doados quando, após a consecução do objeto, não forem necessários
+para assegurar a continuidade do objeto pactuado, observado o disposto no respectivo termo e
+na legislação vigente (art. 36, parágrafo único).
+
+- A administração pública promoverá o monitoramento e a avaliação do cumprimento do objeto
+da parceria (art. 58, caput).
+
+A administração pública emitirá relatório técnico de monitoramento e avaliação de parceria
+celebrada mediante termo de colaboração ou termo de fomento (não vale para acordo de
+cooperação) e o submeterá à comissão de monitoramento e avaliação designada, que o
+homologará, independentemente da obrigatoriedade de apresentação da prestação de contas
+devida pela organização da sociedade civil (art. 59, caput).
+
+Sem prejuízo da fiscalização pela administração pública e pelos órgãos de controle, a execução
+da parceria será acompanhada e fiscalizada pelos conselhos de políticas públicas das áreas
+correspondentes de atuação existentes em cada esfera de governo (art. 60, caput).
+
+As parcerias estarão também sujeitas aos mecanismos de controle social previstos na legislação
+(art. 60, parágrafo único).
+
+- A administração pública deverá manter, em seu sítio oficial na internet, a relação das parcerias
+celebradas e dos respectivos planos de trabalho, até 180 dias após o respectivo encerramento
+(art. 10).
+
+Além disso, deverá divulgar pela internet os meios de representação sobre a aplicação irregular
+dos recursos envolvidos na parceria (art. 12).
+
+Já a OSC deverá divulgar na internet e em locais visíveis de suas sedes sociais e dos
+estabelecimentos em que exerça suas ações todas as parcerias celebradas com a administração
+pública (art. 11, caput).
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     21
+         www.estrategiaconcursos.com.br                                                        44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+
+RESPONSÁVEL PELA
+                                 LOCAL DE DIVULGAÇÃO                              OBJETO DE DIVULGAÇÃO
+  DIVULGAÇÃO
+                                                                 Relação das parcerias celebradas e dos respectivos
+                      Sítio oficial na internet                  planos de trabalho, até 180 dias após o
+  Administração                                                  encerramento.
+                                                                 Meios de representação sobre a aplicação irregular
+                      Internet
+                                                                 dos recursos envolvidos na parceria.
+                      1) Internet;
+
+                                                                 Todas as parcerias celebradas com a administração
+       OSC            2) Locais visíveis de suas sedes sociais
+                                                                 pública.
+                      e dos estabelecimentos em que
+                      exerça suas ações.
+
+
+As informações sobre as parcerias, que devem ser divulgadas pela administração e pela OSC,
+devem conter, no mínimo, os seguintes elementos (art. 11, parágrafo único):
+
+ a) data de assinatura e identificação do instrumento de parceria e do órgão da administração pública
+ responsável;
+
+ b) nome da organização da sociedade civil e seu número de inscrição no Cadastro Nacional da Pessoa
+ Jurídica - CNPJ da Secretaria da Receita Federal do Brasil - RFB;
+
+ c) descrição do objeto da parceria;
+
+ d) valor total da parceria e valores liberados, quando for o caso;
+
+ e) situação da prestação de contas da parceria, que deverá informar a data prevista para a sua
+ apresentação, a data em que foi apresentada, o prazo para a sua análise e o resultado conclusivo;
+
+ f) quando vinculados à execução do objeto e pagos com recursos da parceria, o valor total da remuneração
+ da equipe de trabalho, as funções que seus integrantes desempenham e a remuneração prevista para o
+ respectivo exercício.
+
+
+- Para o fortalecimento da participação social e da divulgação das ações, são previstas duas
+medidas (arts. 14 e 15):
+
+            MEDIDAS DE FORTALECIMENTO DA PARTICIPAÇÃO SOCIAL E DA DIVULGAÇÃO DAS AÇÕES
+
+       Ampla divulgação de campanhas                       Possibilidade de criação do Conselho Nacional
+         publicitárias e programações                      de Fomento e Colaboração no âmbito federal
+     desenvolvidas por OSC, no âmbito das                   e de instâncias participativas no âmbito dos
+     parcerias previstas na Lei 13.019/2014                            demais entes federados
+
+   A administração pública divulgará, na forma de         Poderá ser criado, no âmbito do Poder Executivo
+   regulamento, nos meios públicos de comunicação         federal, o Conselho Nacional de Fomento e
+   por radiodifusão de sons e de sons e imagens,          Colaboração, de composição paritária entre
+   campanhas publicitárias e programações                 representantes governamentais e organizações da
+   desenvolvidas por organizações da sociedade civil,     sociedade civil, com a finalidade de divulgar boas
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                            22
+         www.estrategiaconcursos.com.br                                                                               44
+
+                                       
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+
+   no âmbito das parcerias previstas na Lei               práticas e de propor e apoiar políticas e ações voltadas
+   13.019/2014, mediante o emprego de recursos            ao fortalecimento das relações de fomento e de
+   tecnológicos e de linguagem adequados à                colaboração previstas na Lei 13.019/2014.
+   garantia de acessibilidade por pessoas com
+   deficiência.                                           Os demais entes federados também poderão criar
+                                                          instância participativa.
+
+
+- A prestação de contas é o procedimento em que se analisa e se avalia a execução da parceria,
+pelo qual seja possível verificar o cumprimento do objeto da parceria e o alcance das metas e
+dos resultados previstos, compreendendo duas fases (art. 2º, XIV):
+
+    a) apresentação das contas, de responsabilidade da organização da sociedade civil;
+    b) análise e manifestação conclusiva das contas, de responsabilidade da administração
+    pública, sem prejuízo da atuação dos órgãos de controle.
+
+A prestação de contas apresentada pela organização da sociedade civil deverá conter elementos
+que permitam ao gestor da parceria avaliar o andamento ou concluir que o seu objeto foi
+executado conforme pactuado, com a descrição pormenorizada das atividades realizadas e a
+comprovação do alcance das metas e dos resultados esperados, até o período de que trata a
+prestação de contas (art. 64, caput).
+
+O gestor emitirá parecer técnico de análise de prestação de contas da parceria celebrada (art.
+67, caput).
+
+A organização da sociedade civil prestará contas da boa e regular aplicação dos recursos
+recebidos no prazo de até noventa dias a partir do término da vigência da parceria ou no final de
+cada exercício, se a duração da parceria exceder um ano (art. 69, caput).
+
+Isso não impede, por outro lado, que a administração pública promova a instauração de tomada
+de contas especial antes do término da parceria, ante evidências de irregularidades na execução
+do objeto (art. 69, § 2º).
+
+A manifestação conclusiva sobre a prestação de contas pela administração pública deverá
+concluir, alternativamente, pela (art. 69, § 5º):
+
+ a) aprovação da prestação de contas;
+ b) aprovação da prestação de contas com ressalvas; ou
+ c) rejeição da prestação de contas e determinação de imediata instauração de tomada de
+ contas especial.
+
+As prestações de contas serão avaliadas (art. 72):
+
+ a) regulares, quando expressarem, de forma clara e objetiva, o cumprimento dos objetivos e
+ metas estabelecidos no plano de trabalho;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                           23
+         www.estrategiaconcursos.com.br                                                                              44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+ b) regulares com ressalva, quando evidenciarem impropriedade ou qualquer outra falta de
+ natureza formal que não resulte em dano ao erário;
+ c) irregulares, quando comprovada qualquer das seguintes circunstâncias:
+   c1) omissão no dever de prestar contas;
+   c2) descumprimento injustificado dos objetivos e metas estabelecidos no plano de trabalho;
+   c3) dano ao erário decorrente de ato de gestão ilegítimo ou antieconômico;
+   c4) desfalque ou desvio de dinheiro, bens ou valores públicos.
+
+- Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei
+13.019/2014 e da legislação específica, a administração pública poderá, garantida a prévia
+defesa, aplicar à organização da sociedade civil as seguintes sanções (art. 73, caput e incisos I a
+III):
+
+ a) advertência;
+
+ b) suspensão temporária da participação em chamamento público e impedimento de celebrar
+ parceria ou contrato com órgãos e entidades da esfera de governo da administração pública
+ sancionadora, por prazo não superior a dois anos;
+
+ c) declaração de inidoneidade para participar de chamamento público ou celebrar parceria ou
+ contrato com órgãos e entidades de todas as esferas de governo, enquanto perdurarem os
+ motivos determinantes da punição ou até que seja promovida a reabilitação perante a própria
+ autoridade que aplicou a penalidade, que será concedida sempre que a organização da
+ sociedade civil ressarcir a administração pública pelos prejuízos resultantes e após decorrido o
+ prazo da sanção aplicada com base na letra "b".
+
+As sanções estabelecidas nas letras "b" e "c" são de competência exclusiva de Ministro de
+Estado ou de Secretário Estadual, Distrital ou Municipal (art. 73, § 1º).
+
+
+Entidades de Apoio
+
+- São as pessoas jurídicas de direito privado, sem fins lucrativos, instituídas por servidores
+públicos, porém em nome próprio, sob a forma de fundação, associação ou cooperativa, para a
+prestação, em caráter privado, de serviços sociais não exclusivos do Estado, mantendo vínculo
+jurídico com entidades da administração direta ou indireta, em regra por meio de convênio
+(entendimento de Maria Di Pietro).
+
+- São entidades paraestatais (não integram a Administração Pública).
+
+- Não contam com uma lei geral que as regule.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      24
+         www.estrategiaconcursos.com.br                                                         44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+- Exemplo de entidade de apoio é a fundação de apoio prevista no art. 2º, VII, da Lei
+10.973/2004, que é a fundação criada com a finalidade de dar apoio a projetos de pesquisa,
+ensino e extensão, projetos de desenvolvimento institucional, científico, tecnológico e projetos
+de estímulo à inovação de interesse das Instituições Científicas e Tecnológicas, registrada e
+credenciada no Ministério da Educação e no Ministério da Ciência, Tecnologia e Inovação, nos
+termos da Lei 8.958/1994, e das demais legislações pertinentes nas esferas estadual, distrital e
+municipal.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   25
+         www.estrategiaconcursos.com.br                                                      44
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+                                                                     APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o histórico de questões da banca em provas
+de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Entidades Paraestatais e Terceiro Setor”, o tópico “OS” é o ponto que acreditamos ser o que possui mais chances de ser
+cobrado pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+                                                        ==219a34==
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                       26
+        www.estrategiaconcursos.com.br                                                                                                                          44
+
+                                                                     
+
+
+---
+
+Tulio Lages
+Aula 02
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              27
+      www.estrategiaconcursos.com.br                                                                 44
+
+                                                                
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui,
+não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas que você
+faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+1. (FGV/2023/Procurador do Município de Niterói) Há cerca de seis meses, a associação
+Boazínea, organização da sociedade civil, apresentou para o Município Delta um projeto por ela
+elaborado em seu âmbito de atuação, muito bem embasado, do qual constava a subscrição da
+proposta, a indicação do interesse público envolvido e o diagnóstico da realidade que se quer
+modificar, mediante a indicação da viabilidade, dos custos, dos benefícios e dos prazos da ação
+pretendida, que envolve a transferência de recursos financeiros.
+
+Após certa hesitação das autoridades competentes, foi instaurado o respectivo procedimento de
+manifestação de interesse social para a formalização do instrumento cabível para a realização do
+projeto, que competirá a uma única entidade parceira, dentre as várias que realizam a atividade.
+
+Diante da situação descrita, é correto afirmar que:
+
+a) a Administração não poderia ter hesitado, na medida em que a instauração do procedimento
+de manifestação de interesse é ato vinculado;
+
+b) o Município deverá formalizar termo de colaboração com a organização da sociedade civil que
+apresentou a proposta, mediante dispensa de licitação nos termos da Lei nº 14.133/2021;
+
+c) deverá ser realizado chamamento público pelo Município, para fins de credenciamento da Lei
+nº 14.133/2021, com vistas à formalização do respectivo instrumento;
+
+d) caberá ao Município a formalização de um termo de fomento, a ser firmado após a realização
+do procedimento de chamamento público;
+
+e) é viável para o Município realizar um acordo de cooperação com a associação Boazínea,
+mediante inexigibilidade de chamamento público.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    28
+        www.estrategiaconcursos.com.br                                                       44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. A instauração de procedimento de manifestação de interesse social não é ato
+vinculado, sendo que o artigo 21 da Lei nº 13.019/2014 determina que a Administração não
+necessariamente precisará executar o chamamento público:
+
+     Art. 18. É instituído o Procedimento de Manifestação de Interesse Social como
+     instrumento por meio do qual as organizações da sociedade civil, movimentos sociais
+     e cidadãos poderão apresentar propostas ao poder público para que este avalie a
+     possibilidade de realização de um chamamento público objetivando a celebração de
+     parceria.
+
+     (...)
+
+     Art. 21. A realização do Procedimento de Manifestação de Interesse Social não
+     implicará necessariamente na execução do chamamento público, que acontecerá de
+     acordo com os interesses da administração.
+
+Letra B - incorreta. Uma vez que a proposta partiu da OSC, não é possível a formalização de
+termo de colaboração, já que esse parte da Administração, conforme inciso VII do artigo 2º da
+Lei nº 13.019/2014:
+
+     Art. 2º Para os fins desta Lei, considera-se:
+
+     (...)
+
+     VII - termo de colaboração: instrumento por meio do qual são formalizadas as
+     parcerias estabelecidas pela administração pública com organizações da sociedade
+     civil para a consecução de finalidades de interesse público e recíproco propostas pela
+     administração pública que envolvam a transferência de recursos financeiros;
+
+Letra C - incorreta. Conforme inciso XLIII do artigo 6º da Lei nº 14.133/2021, o credenciamento é
+aberto a todos que tiverem interesse e atenderem os requisitos necessários, porém a questão
+afirma que apenas uma única entidade parceira irá realizar o projeto, embora existam outras
+atuantes na mesma área, logo não condiz com o instrumento do credenciamento:
+
+     Art. 6º Para os fins desta Lei, consideram-se:
+
+     (...)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     29
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+     XLIII - credenciamento: processo administrativo de chamamento público em que a
+     Administração Pública convoca interessados em prestar serviços ou fornecer bens
+     para que, preenchidos os requisitos necessários, se credenciem no órgão ou na
+     entidade para executar o objeto quando convocados;
+
+Letra D - correta. O instrumento a ser formalizado para a parceria descrita na questão é o termo
+de fomento, pois esse envolve a transferência de recursos financeiros da Administração para o
+particular, sendo que sua proposição parte do ente privado, conforme inciso VIII do artigo 2º da
+Lei nº 13.019/2014:
+
+     VIII - termo de fomento: instrumento por meio do qual são formalizadas as parcerias
+     estabelecidas pela administração pública com organizações da sociedade civil para a
+     consecução de finalidades de interesse público e recíproco propostas pelas
+     organizações da sociedade civil, que envolvam a transferência de recursos financeiros;
+
+Ademais, geralmente a escolha do parceiro privado para firmar um termo de colaboração ou
+fomento é feita via chamamento público, conforme define o inciso XII do artigo 2º da Lei nº
+13.019/2014
+
+     XII - chamamento público: procedimento destinado a selecionar organização da
+     sociedade civil para firmar parceria por meio de termo de colaboração ou de fomento,
+     no qual se garanta a observância dos princípios da isonomia, da legalidade, da
+     impessoalidade, da moralidade, da igualdade, da publicidade, da probidade
+     administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo e
+     dos que lhes são correlatos;
+
+Letra E - incorreta. Acordos de colaboração não envolvem transferência de recursos financeiros,
+logo não condizem com o enunciado da questão, conforme VIII-A do artigo 2º da Lei nº
+13.019/2014:
+
+     VIII-A - acordo de cooperação: instrumento por meio do qual são formalizadas as
+     parcerias estabelecidas pela administração pública com organizações da sociedade
+     civil para a consecução de finalidades de interesse público e recíproco que não
+     envolvam a transferência de recursos financeiros;
+
+Gabarito: Letra D.
+
+2. (FGV/2023/PGM Niterói/Analista Processual) Determinada entidade privada, sem fins
+lucrativos, caracterizada como organização da sociedade civil, propõe e acaba por celebrar
+parceria com a Administração Pública, com o desiderato precípuo de alcançar finalidades de
+interesse público e recíproco, mediante a transferência de recursos financeiros.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     30
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+Nesse cenário, a parceria entre a entidade privada e a Administração Pública é formalizada por
+meio do seguinte instrumento jurídico:
+
+a) termo de colaboração;
+
+b) acordo de cooperação;
+
+c) contrato de gestão;
+
+d) termo de parceria;
+
+e) termo de fomento.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. Quem propõe o termo de colaboração é a Administração Pública, o que não
+se encaixa na situação narrada, conforme inciso VII do artigo 2º da Lei nº 13.019/2014:
+
+     Art. 2º Para os fins desta Lei, considera-se:
+
+     (...)
+
+     VII - termo de colaboração: instrumento por meio do qual são formalizadas as
+     parcerias estabelecidas pela administração pública com organizações da sociedade
+     civil para a consecução de finalidades de interesse público e recíproco propostas pela
+     administração pública que envolvam a transferência de recursos financeiros;
+
+Letra B - incorreta. No acordo de cooperação não existe transferência de recursos financeiros,
+conforme VIII-A do artigo 2º da Lei nº 13.019/2014:
+
+     VIII-A - acordo de cooperação: instrumento por meio do qual são formalizadas as
+     parcerias estabelecidas pela administração pública com organizações da sociedade
+     civil para a consecução de finalidades de interesse público e recíproco que não
+     envolvam a transferência de recursos financeiros;
+
+Letra C - incorreta. Contrato de gestão é o instrumento que firma parceria entre a Administração
+Pública e as Organizações Sociais (OS), conforme artigo 5º da Lei nº 9.637/1998:
+
+     Art. 5º Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento
+     firmado entre o Poder Público e a entidade qualificada como organização social, com
+     vistas à formação de parceria entre as partes para fomento e execução de atividades
+     relativas às áreas relacionadas no art. 1º.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     31
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+Letra D - incorreta. Termo de parceria é o instrumento de parceria firmado entre a Administração
+Pública e as Organizações da Sociedade Civil de Interesse Público (OSCIP), conforme artigo 9º
+da Lei nº 9.790/1999:
+
+     Art. 9º Fica instituído o Termo de Parceria, assim considerado o instrumento passível
+     de ser firmado entre o Poder Público e as entidades qualificadas como Organizações
+     da Sociedade Civil de Interesse Público destinado à formação de vínculo de
+     cooperação entre as partes, para o fomento e a execução das atividades de interesse
+     público previstas no art. 3º desta Lei.
+
+Letra E - correta. Essa é a resposta, já que o termo de fomento parte da Administração Pública e
+envolve transferência de recursos para firmar parcerias com as Organizações da Sociedade Civil,
+conforme inciso VIII do artigo 2º da Lei nº 13.019/2014:
+
+     VIII - termo de fomento: instrumento por meio do qual são formalizadas as parcerias
+     estabelecidas pela administração pública com organizações da sociedade civil para a
+     consecução de finalidades de interesse público e recíproco propostas pelas
+     organizações da sociedade civil, que envolvam a transferência de recursos financeiros;
+
+Gabarito: Letra E.
+
+3. (FGV/2023/Prefeitura do Rio de Janeiro/Analista de Planejamento e Orçamento) No âmbito
+de um procedimento de manifestação de interesse social, certa organização da sociedade civil
+encaminhou a determinado Município proposta que contém a indicação do subscritor e do
+interesse público envolvido, assim como o diagnóstico da realidade que se pretende aprimorar,
+além de indicação da viabilidade, dos custos, dos benefícios e dos prazos de execução da ação
+pretendida.
+
+Pelas devidas vias, a respectiva Administração tornou pública a proposta, a fim de promover a
+oitiva da sociedade sobre o tema.
+
+A proposta foi extremamente bem recebida e tem concretas aptidões para promover os efeitos
+almejados.
+
+Diante dessa situação hipotética, considerando o disposto na Lei nº 13.019/2014, é correto
+afirmar que:
+
+a) a organização da sociedade civil que realizou a proposta está impedida de participar do
+respectivo chamamento público;
+
+b) a boa aceitação da proposta pela sociedade obriga a Administração a executar o
+chamamento público, inexistindo discricionariedade quanto à eventual celebração da parceria;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     32
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+c) o aludido procedimento não tem previsão específica no âmbito da lei das parcerias, sendo
+restrito aos contratos administrativos regidos pela Lei nº 14.133/2021;
+
+d) a realização do procedimento em questão não dispensa a convocação por meio de
+chamamento público para a celebração de parceria;
+
+e) por se tratar de matéria submetida à discricionariedade da Administração, não deveria ter sido
+realizada a oitiva da sociedade.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. A organização da sociedade civil que realizou a proposta não está impedida
+de participar do chamamento público, conforme § 2º do artigo 21 da Lei nº 13.019/2014:
+
+     Art. 21. A realização do Procedimento de Manifestação de Interesse Social não
+     implicará necessariamente na execução do chamamento público, que acontecerá de
+     acordo com os interesses da administração.
+
+     (...)
+
+     § 2º A proposição ou a participação no Procedimento de Manifestação de Interesse
+     Social não impede a organização da sociedade civil de participar no eventual
+     chamamento público subsequente.
+
+Letra B - incorreta. Não existe tal obrigatoriedade, sendo realizada de acordo com os interesses
+da administração, conforme artigo 21 da Lei nº 13.019/2014:
+
+     Art. 21. A realização do Procedimento de Manifestação de Interesse Social não
+     implicará necessariamente na execução do chamamento público, que acontecerá de
+     acordo com os interesses da administração.
+
+Letra C - incorreta. O procedimento em questão, Procedimento de Manifestação de Interesse
+Social, está previso na Lei nº 13.019/2014 na sua seção VI, artigos 18 a 21.
+
+Letra D - correta. É o que está previsto no § 1º do artigo 21 da Lei nº 13.019/2014:
+
+     § 1º A realização do Procedimento de Manifestação de Interesse Social não dispensa a
+     convocação por meio de chamamento público para a celebração de parceria.
+
+Letra E - incorreta. Segundo o artigo 20 da Lei nº 13.019/2014, verificada a conveniência e a
+oportunidade para realização do Procedimento de Manifestação de Interesse Social, a
+administração o instaurará para oitiva da sociedade sobre o tema:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     33
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+     Art. 20. Preenchidos os requisitos do art. 19, a administração pública deverá tornar
+     pública a proposta em seu sítio eletrônico e, verificada a conveniência e oportunidade
+     para realização do Procedimento de Manifestação de Interesse Social, o instaurará
+     para oitiva da sociedade sobre o tema.
+
+Gabarito: Letra D.
+
+4. (FGV/2024/CVM/Analista da Comissão de Valores Mobiliários - Gestão - Perfil 5) O município
+Alfa e a organização social Beta firmaram parceria para fomento e execução de atividades
+relacionadas à proteção e preservação do meio ambiente, nos termos da legislação de regência.
+
+Observadas as cautelas legais, o instrumento firmado é denominado:
+                                                        ==219a34==
+
+a) termo de parceria, em cuja elaboração deve ser observada a estipulação dos valores exatos de
+despesa com remuneração e vantagens de qualquer natureza a serem percebidas pelos
+dirigentes e empregados da organização social, no exercício de suas funções;
+
+b) convênio, que deve ser submetido, após aprovação pelo conselho de administração da
+entidade, à autoridade supervisora da área correspondente à atividade fomentada, qual seja, a
+Secretaria Municipal de Meio Ambiente, bem como aos demais órgãos do sistema nacional de
+meio ambiente;
+
+c) termo de cooperação técnica, e os resultados atingidos com sua execução devem ser
+analisados, mensalmente, por comissão de avaliação, indicada pela autoridade supervisora da
+área correspondente, composta por especialistas de notória capacidade e adequada
+qualificação;
+
+d) contrato de concessão, que assegura, à organização social, direito aos créditos previstos no
+orçamento e às respectivas liberações financeiras, de acordo com o cronograma de desembolso
+previsto no contrato, com a posterior análise pelo Tribunal de Contas e Procuradoria local, em
+matéria de controle externo;
+
+e) contrato de gestão, em cuja elaboração deve ser observada a especificação do programa de
+trabalho proposto pela organização social, a estipulação das metas a serem atingidas e os
+respectivos prazos de execução, bem como previsão expressa dos critérios objetivos de
+avaliação de desempenho a serem utilizados, mediante indicadores de qualidade e
+produtividade.
+
+Comentários
+
+O instrumento a ser firmado é o contrato de gestão, alternativa E, conforme artigos 5º e 6º da
+Lei nº 9.637/1998:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     34
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+     Art. 5º Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento
+     firmado entre o Poder Público e a entidade qualificada como organização social, com
+     vistas à formação de parceria entre as partes para fomento e execução de atividades
+     relativas às áreas relacionadas no art. 1º.
+
+     Art. 6º O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade
+     supervisora e a organização social, discriminará as atribuições, responsabilidades e
+     obrigações do Poder Público e da organização social.
+
+Ademais, na elaboração do contrato de gestão deve ser observada a especificação do programa
+de trabalho proposto pela organização social, a estipulação das metas a serem atingidas e os
+respectivos prazos de execução, bem como previsão expressa dos critérios objetivos de
+avaliação de desempenho a serem utilizados, mediante indicadores de qualidade e
+produtividade, conforme inciso I do artigo 7º da Lei nº 9.637/1998:
+
+     Art. 7º Na elaboração do contrato de gestão, devem ser observados os princípios da
+     legalidade, impessoalidade, moralidade, publicidade, economicidade e, também, os
+     seguintes preceitos:
+
+     I - especificação do programa de trabalho proposto pela organização social, a
+     estipulação das metas a serem atingidas e os respectivos prazos de execução, bem
+     como previsão expressa dos critérios objetivos de avaliação de desempenho a serem
+     utilizados, mediante indicadores de qualidade e produtividade;
+
+Gabarito: Letra E.
+
+5. (FGV/2023/PM-AC/Aluno Oficial/Combatente) O ente competente almeja realizar um
+contrato de gestão com entidade do chamado terceiro setor, com vistas a viabilizar a
+transferência de recursos financeiros para projeto destinado a promover o desenvolvimento
+tecnológico.
+
+Nesse caso, é correto afirmar que o mencionado instrumento deverá ser formalizado com
+entidade
+
+a) qualificada como organização social;
+
+b) que integre o serviço social autônomo;
+
+c) qualificada como organização da sociedade civil;
+
+d) qualificada como organização da sociedade civil de interesse público;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   35
+        www.estrategiaconcursos.com.br                                                      44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+e) que não precisa ter qualificação prévia, desde que se enquadre no conceito legal de
+organização da sociedade civil.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - correta. Esse é o gabarito, uma vez que a questão menciona que o instrumento a ser
+utilizado é o contrato de gestão, o qual é destinado à formação de vínculos entre a
+Administração e as organizações sociais, conforme artigo 5º da Lei nº 9.637/1998:
+
+     Art. 5º Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento
+     firmado entre o Poder Público e a entidade qualificada como organização social, com
+     vistas à formação de parceria entre as partes para fomento e execução de atividades
+     relativas às áreas relacionadas no art. 1º.
+
+Letra B - incorreta. As entidades que compõem o sistema social autônomo são pessoas jurídicas
+direito privado, sem fins lucrativos, criadas por meio de autorização legal, para ministrar
+assistência ou ensino a certas categorias sociais ou grupos profissionais, não se enquadrando ao
+enunciado da questão.
+
+Letra C - incorreta. O instrumento utilizado para firmar relação entre as organizações da
+sociedade civil e o Poder Público é o termo de colaboração ou termo de fomento, a depender
+de quem propor a parceria, conforme incisos VII e VIII do artigo 2º da Lei nº 13.019/2014:
+
+     Art. 2º Para os fins desta Lei, considera-se:
+
+     (...)
+
+     VII - termo de colaboração: instrumento por meio do qual são formalizadas as
+     parcerias estabelecidas pela administração pública com organizações da sociedade
+     civil para a consecução de finalidades de interesse público e recíproco propostas pela
+     administração pública que envolvam a transferência de recursos financeiros;
+
+     VIII - termo de fomento: instrumento por meio do qual são formalizadas as parcerias
+     estabelecidas pela administração pública com organizações da sociedade civil para a
+     consecução de finalidades de interesse público e recíproco propostas pelas
+     organizações da sociedade civil, que envolvam a transferência de recursos financeiros;
+
+Letra D - incorreta. O instrumento firmado entre o Poder Público e as Organizações da
+Sociedade Civil de Interesse Público é o Termo de Parceria, conforme artigo 9º da Lei nº
+9.790/1999:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     36
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+     Art. 9º Fica instituído o Termo de Parceria, assim considerado o instrumento passível
+     de ser firmado entre o Poder Público e as entidades qualificadas como Organizações
+     da Sociedade Civil de Interesse Público destinado à formação de vínculo de
+     cooperação entre as partes, para o fomento e a execução das atividades de interesse
+     público previstas no art. 3º desta Lei.
+
+Letra E - incorreta. Cabe ao Poder Executivo qualificar as entidades como organizações sociais,
+conforme artigo 1º da Lei nº 9.637/1998:
+
+     Art. 1º O Poder Executivo poderá qualificar como organizações sociais pessoas
+     jurídicas de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao
+     ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e
+     preservação do meio ambiente, à cultura e à saúde, atendidos aos requisitos previstos
+     nesta Lei.
+
+Gabarito: Letra A.
+
+6. (FGV/2025/TRT 24ª Região/Analista Judiciário) Nos termos da Lei nº 9.637/1998, entende-se
+por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada
+como organização social, com vistas à formação de parceria entre as partes para fomento e
+execução de atividades relativas às áreas de ensino, pesquisa científica, desenvolvimento
+tecnológico, proteção e preservação do meio ambiente, cultura e saúde.
+
+De acordo com a narrativa, considerando as disposições da Lei nº 9.637/1998, analise as
+afirmativas a seguir.
+
+I. O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade supervisora e a
+organização social, discriminará as atribuições, responsabilidades e obrigações do Poder Público
+e da organização social.
+
+II. O contrato de gestão deve ser submetido, após aprovação pelo Conselho de Administração
+da entidade, ao Ministro de Estado ou autoridade supervisora da área correspondente à
+atividade fomentada.
+
+III. Na elaboração do contrato de gestão, devem ser observados os princípios da legalidade,
+impessoalidade, publicidade, eficiência e supremacia do interesse público.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     37
+        www.estrategiaconcursos.com.br                                                        44
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+e) I e III, apenas.
+
+Comentários
+
+Itens I e II - corretos. Os itens estão de acordo com que está previsto no artigo 6º da Lei nº
+9.637/1998:
+
+      Art. 6º O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade
+      supervisora e a organização social, discriminará as atribuições, responsabilidades e
+      obrigações do Poder Público e da organização social.
+
+      Parágrafo único. O contrato de gestão deve ser submetido, após aprovação pelo
+      Conselho de Administração da entidade, ao Ministro de Estado ou autoridade
+      supervisora da área correspondente à atividade fomentada.
+
+Item III - incorreto. Na verdade, no caput do artigo 7º da Lei nº 9.637/1998 não se fala dos
+princípios da eficiência e da supremacia do interesse público, sendo mencionado o princípio da
+economicidade:
+
+      Art. 7º Na elaboração do contrato de gestão, devem ser observados os princípios da
+      legalidade, impessoalidade, moralidade, publicidade, economicidade e, também, os
+      seguintes preceitos:
+
+Assim, apenas os itens I e II estão corretos, letra D.
+
+Gabarito: Letra D
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    38
+        www.estrategiaconcursos.com.br                                                       44
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+
+Perguntas
+
+1) O que são serviços sociais autônomos?
+2) Como se dá a criação dos serviços sociais autônomos?
+3) Os serviços sociais autônomos são vinculados a qual órgão da Administração? Eles são
+obrigados a prestar contas?
+4) Os que são organizações sociais?
+5) A qualificação como organização social é ato vinculado ou discricionário do Poder Público? A
+quem compete conferir essa qualificação?
+6) Quais atividades devem ser desempenhadas pela organização social?
+7) O que são organizações da sociedade civil de interesse público (OSCIP)?
+8) A qualificação como Oscip é ato vinculado ou discricionário do Poder Público? A quem
+compete conferir essa qualificação?
+9) É possível que uma entidade seja qualificada simultaneamente como organização social e
+Oscip?
+10) O que é o procedimento de manifestação de interesse social previsto na Lei 13.019/2014?
+11) Há alguma vedação na celebração de parceiras entre Poder Público e OSC, considerando o
+objeto da parceira?
+12) O que são entidades de apoio?
+
+
+Perguntas com respostas
+
+1) O que são serviços sociais autônomos?
+
+São paraestatais que desempenham atividades de utilidade pública com vistas a beneficiar
+determinados grupamentos sociais ou profissionais, geralmente voltadas para o ensino
+profissionalizante e a prestação de serviços sociais (entidades do “sistema S” – Senai, Sebrae,
+Sesc etc.).
+
+2) Como se dá a criação dos serviços sociais autônomos?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  39
+         www.estrategiaconcursos.com.br                                                                     44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 02
+
+Sua criação depende de autorização em lei, em razão de suas atividades serem custeadas pela
+arrecadação compulsória de contribuições parafiscais – que são instituídas por lei ordinária (não
+precisa de lei complementar)1 e consideradas recursos públicos – exigidas das pessoas jurídicas
+incluídas no setor econômico a que está vinculada a entidade, mesmo que não haja
+contraprestação direta em favor do contribuinte.
+
+3) Os serviços sociais autônomos são vinculados a qual órgão da Administração? Eles são
+obrigados a prestar contas?
+
+São vinculados ao Ministério em cuja área de competência atuam, e se sujeitam à obrigação de
+prestar de contas ao Tribunal de Contas da União.
+
+4) Os que são organizações sociais?
+                                                           ==219a34==
+
+Organização social é uma qualificação (ou seja, não é uma categoria de pessoa jurídica)
+conferida à entidade privada instituída por particulares, sem fins lucrativos, que, por ato
+discricionário do Poder Público, recebe incentivos do Estado para desempenhar serviço público
+de natureza social, mediante celebração de contrato de gestão.
+
+5) A qualificação como organização social é ato vinculado ou discricionário do Poder Público? A
+quem compete conferir essa qualificação?
+
+Ato discricionário, dependendo da aprovação do “Ministro ou titular de órgão supervisor ou
+regulador da área de atividade correspondente ao seu objeto social e do Ministro de Estado da
+Administração Federal e Reforma do Estado” (Lei 9.637/1998, art. 2º, inciso II).
+
+6) Quais atividades devem ser desempenhadas pela organização social?
+
+A organização social deve realizar atividades dirigidas “ao ensino, à pesquisa, ao
+desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde”,
+consoante art. 1º da Lei 9.637/1998.
+
+7) O que são organizações da sociedade civil de interesse público (OSCIP)?
+
+Organização da sociedade civil de interesse público (Oscip) é uma qualificação (ou seja, não é
+uma categoria de pessoa jurídica) conferida à entidade privada instituída por particulares, sem
+fins lucrativos, que, por ato vinculado do Poder Público (Ministério da Justiça) ao cumprimento
+dos requisitos estabelecidos em lei, recebe incentivos do Estado para desempenhar atividade
+social ou de utilidade pública, mediante celebração de termo de parceria.
+
+8) A qualificação como Oscip é ato vinculado ou discricionário do Poder Público? A quem
+compete conferir essa qualificação?
+
+
+1
+    RE 635.682/RJ
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   40
+           www.estrategiaconcursos.com.br                                                      44
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+Ato vinculado, de competência do Ministério da Justiça.
+
+9) É possível que uma entidade seja qualificada simultaneamente como organização social e
+Oscip?
+
+Atualmente, não é possível que uma entidade seja qualificada simultaneamente como
+organização social e Oscip, em razão do decurso do prazo estabelecido no art. 18º da Lei
+9.790/1999:
+
+      Art. 18. As pessoas jurídicas de direito privado sem fins lucrativos, qualificadas com
+      base em outros diplomas legais, poderão qualificar-se como Organizações da
+      Sociedade Civil de Interesse Público, desde que atendidos aos requisitos para tanto
+      exigidos, sendo-lhes assegurada a manutenção simultânea dessas qualificações, até
+      cinco anos contados da data de vigência desta Lei.
+
+      § 1o Findo o prazo de cinco anos, a pessoa jurídica interessada em manter a
+      qualificação prevista nesta Lei deverá por ela optar, fato que implicará a renúncia
+      automática de suas qualificações anteriores.
+
+      § 2o Caso não seja feita a opção prevista no parágrafo anterior, a pessoa jurídica
+      perderá automaticamente a qualificação obtida nos termos desta Lei.
+
+10) O que é o procedimento de manifestação de interesse social previsto na Lei 13.019/2014?
+
+A Lei 13.019/2014 prevê o procedimento de manifestação de interesse social como instrumento
+por meio do qual as organizações da sociedade civil, os movimentos sociais e os cidadãos
+poderão apresentar propostas ao Poder Público para que este avalie a possibilidade – ou seja,
+não há obrigatoriedade à Administração – de realização de um chamamento público objetivando
+a celebração de parceria.
+
+11) Há alguma vedação na celebração de parceiras entre Poder Público e OSC, considerando o
+objeto da parceira?
+
+Sim, de acordo com o art. 40 da Lei 13.109/2014, são vedadas a celebração de parcerias
+previstas nesta Lei que tenham por objeto, envolvam ou incluam, direta ou indiretamente,
+delegação das funções de regulação, de fiscalização, de exercício do poder de polícia ou de
+outras atividades exclusivas de Estado.
+
+12) O que são entidades de apoio?
+
+São pessoas jurídicas de direito privado, sem fins lucrativos, instituídas por servidores púbicos,
+em nome próprio, sob forma de fundação, associação ou cooperativa, para prestação, em
+caráter privado, de serviços sociais não exclusivos do Estado, vinculadas à Administração Pública
+(direta ou indireta), em regra, mediante convênio.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     41
+         www.estrategiaconcursos.com.br                                                        44
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 02
+
+Um exemplo dessas entidades são as fundações instituídas com a finalidade de apoiar projetos
+de ensino e pesquisa de interesse das Instituições Federais de Ensino Superior (IFES) e demais
+Instituições Científicas e Tecnológicas (ICTS), disciplinadas pela Lei 8.958/1994.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   42
+         www.estrategiaconcursos.com.br                                                      44
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 02
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            43
+        www.estrategiaconcursos.com.br                                                               44
+
+                                     
+
+
+---
+
+---

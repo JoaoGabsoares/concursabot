@@ -1,0 +1,2056 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 04_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Índice
+artigos_citados:
+- Art. 158.
+- Art. 1º
+- Art. 44.
+- art. 145
+- art. 167
+- art. 1º
+- art. 27
+- art. 44
+sumulas_citadas:
+- Súmula 498
+- Súmula 584
+---
+
+# Índice
+
+Índice
+1)  Princípios Constitucionais Aplicáveis ao IR
+
+
+)  O Imposto de Renda e as Diretrizes do CTN                                                                                                                                               17
+
+3)  Questões Comentadas - IRPF - Disposições Gerais - Multibancas                                                                                                                           34
+)  Lista de Questões - IRPF - Disposições Gerais - Multibancas                                                                                                                             44
+..............................................................................................................................................................................................
+
+
+---
+
+   PRINCÍPIOS CONSTITUCIONAIS APLICÁVEIS AO
+               IMPOSTO DE RENDA
+Se, por um lado, a CF/88 concedeu à União a competência tributária para instituir o Imposto de Renda,
+por outro, impôs algumas restrições a fim de evitar a tributação excessiva e injusta.
+
+A partir de agora, vamos estudar os princípios constitucionais tributários, relativos ao IR, que
+constituem verdadeiras limitações ao poder de tributar.
+
+
+1 – Isonomia e a Capacidade Contributiva
+
+O princípio da isonomia veda a tributação diferenciada àqueles que se encontrem em situação
+equivalente. No mesmo sentido, veda-se tributar igualmente os que possuem capacidade financeira
+distintas.
+
+Repare que a isonomia ou igualdade tributária não pode ser entendida como tributação uniforme
+a todas as pessoas. Deve-se respeitar as diferenças entre a capacidade contributiva de cada
+contribuinte. É por esse motivo que se diz que a capacidade contributiva constitui subprincípio do
+princípio da solidariedade, tendo em vista a ideia de justiça fiscal.
+
+É por meio da apuração das diferentes capacidades contributivas que se chega ao valor que cada pessoa
+deve contribuir sobre a sua renda! Podemos dizer, portanto, que a capacidade contributiva torna
+possível a concretização do postulado da isonomia. Aliás, diz-se que a capacidade contributiva
+constitui também subprincípio do princípio da igualdade (ou isonomia).
+
+A capacidade contributiva...
+
+Constitui subprincípio do princípio da solidariedade;
+
+Constitui subprincípio do princípio da igualdade.
+
+Com efeito, se “A” aufere maiores rendimentos do que B, nada mais justo do que “A” tenha que arcar
+com o pagamento de valores maiores, a título de tributo. Por outro lado, se duas pessoas podem ser
+consideradas iguais, sob a ótica tributária, nada mais injusto do que tributá-las de maneira diferente.
+
+
+---
+
+Vale ressaltar que é em decorrência desses preceitos que a tabela mensal do IRPF, a partir do mês de
+abril do ano-calendário 2015 será a seguinte:
+
+   Base de cálculo mensal em R$         Alíquota %       Parcela a deduzir do imposto em R$
+ Até 1.903,98                                -                            -
+ De 1.903,99 até 2.826,65                   7,5                        142,80
+ De 2.826,66 até 3.751,05                  15,0                        354,80
+ De 3.751,06 até 4.664,68                  22,5                        636,13
+ Acima de 4.664,68                         27,5                        869,36
+
+    Não se preocupe com detalhes. No momento, o que importa é que você veja que a tributação
+aumenta conforme o crescimento da capacidade contributiva, que é aferida por meio da base de
+cálculo do IRPF. Nessa linha, quem tiver rendimentos de até R$ 1.903,98 mensais está livre do
+pagamento do IRPF. Isso ocorre porque o objetivo é não intervir no mínimo vital.
+
+Destaque-se ainda que o IRPF considera os aspectos pessoais de cada pessoa. Assim, por exemplo,
+um pai de família que possua gastos com dependentes e despesas médicas pode deduzir tais despesas
+da base de cálculo do imposto. Certamente, ele será menos onerado do que um jovem que receba os
+mesmo rendimentos.
+
+Por tal motivo, dizemos que o IR é um imposto pessoal, pois considera as características pessoais de
+cada contribuinte, o que auxilia a graduá-lo conforme a capacidade econômica do contribuinte.
+
+Nesse sentido, vejamos o que diz o art. 145, § 1º, da CF/88:
+
+       Art. 145: (...)
+
+       § 1º - Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a
+       capacidade econômica do contribuinte, facultado à administração tributária, especialmente
+       para conferir efetividade a esses objetivos, identificar, respeitados os direitos individuais e nos
+       termos da lei, o patrimônio, os rendimentos e as atividades econômicas do contribuinte.
+
+        Observação: Embora o exemplo acima se refira estritamente às pessoas físicas, o
+        princípio da isonomia também é respeitado quando se trata de pessoas jurídicas.
+        Estas são tributadas por uma alíquota adicional de IRPJ, a depender do seu lucro.
+
+
+---
+
+1.QUESTÃO INÉDITA
+Sempre que possível, os tributos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte.
+
+Comentário: Essa “pegadinha” é clássica em provas, pois muitos ainda associam “tributos” como
+sinônimos de “impostos”. Tenha muita atenção na prova!
+
+Gabarito: Errada
+
+2.ESAF/ACE-MDIC/2012
+O princípio da capacidade contributiva, que informa o ordenamento jurídico tributário, estabelece que,
+sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte, facultado à administração tributária, especialmente para conferir
+efetividade a esses objetivos, identiﬁcar, respeitados os direitos individuais e nos termos da lei, o
+patrimônio, os rendimentos e as atividades econômicas do contribuinte. Sobre ele, assinale a opção
+incorreta.
+a) Tal princípio aplica-se somente às pessoas físicas.
+b) Constitui subprincípio do princípio da solidariedade.
+c) Visa, entre outros objetivos, a assegurar o mínimo vital, ou mínimo existencial.
+d) Constitui subprincípio do princípio da igualdade.
+e) É compatível com a progressividade de alíquotas.
+
+Comentário:
+
+A questão aborda o princípio da capacidade contributiva aplicável ao imposto de renda.
+
+Alternativa A: Isso não é verdade. Veremos, ao estudar o IRPJ, que as pessoas jurídicas que apurarem,
+mensalmente, base de cálculo do imposto superior a R$ 20.000, ficam sujeitas a uma alíquota adicional.
+Isso não é nada mais do que adequação do IRPJ ao princípio da capacidade contributiva. Item errado.
+
+Alternativa B: Podemos dizer que o princípio da capacidade contributiva constitui subprincípio do
+princípio da solidariedade, pois aquele busca a justiça fiscal, ao graduar a tributação conforme a
+manifestação de riqueza do contribuinte. Quem possui mais riqueza contribui de forma mais acentuada,
+a fim de que os recursos arrecadados sejam utilizados em prol daqueles que deles mais necessitam. Item
+correto.
+
+Alternativa C: Sem dúvidas, um dos objetivos da capacidade contributiva é assegurar o mínimo
+existencial dos cidadãos. Seguindo essa diretriz, a tabela progressiva do IRPF possui um limite para que
+os rendimentos abaixo dele estejam isentos à tributação. Item correto.
+
+
+---
+
+Alternativa D: O princípio da igualdade consiste em conceder tratamento igual aos que são que estão
+em situação equivalente, e tratamento desigual na medida em que se desigualam. Dessa forma, o
+princípio da capacidade contributiva pode ser considerado subprincípio da igualdade. Item correto.
+
+Alternativa E: Em decorrência do que comentamos na assertiva D, a progressividade de alíquotas tem
+como função desigualar os que não se encontram em situações equivalentes. Item correto.
+
+Gabarito: Letra A
+
+2 – Vedação ao Confisco
+
+Embora majoritariamente conhecido simplesmente por princípio do não confisco, o que a Constituição
+quis proteger foi a tributação com efeito confiscatório, que é diferente do confisco em si.
+
+Veja que confiscar bens significa aplicar pena de perdimento nos bens dos contribuintes. Tendo em vista
+que a perda de bens é considerada uma punição pela própria Magna Carta (art. 5°, XLVI, “b”), o tributo
+não poderia ser confiscatório, pois o art. 3° do CTN assevera que o tributo não constitui sanção por ato
+ilícito.
+
+Então, o que seria a tributação com efeito confiscatório? Ora, seria uma sobrecarga de tributos de tal
+forma que se assemelhe a uma punição, pois o Estado estaria absorvendo boa parte da riqueza gerada
+pelos contribuintes. Também podemos dizer que seria confiscatório tributar a ponto de privar as
+pessoas do mínimo necessário para sobrevivência.
+
+Se você também faz parte da nossa turma de Direito Tributário para a RFB, certamente já leu algo
+bastante semelhante a isso naquele curso. Todavia, nunca é demais relembrar tais conceitos!
+
+No que se refere ao Imposto de Renda, o princípio da vedação ao confisco objetiva evitar a tributação
+excessiva sobre os rendimentos das pessoas.
+
+Observe que o “efeito confiscatório” é um conceito indeterminado, ou seja, não há qualquer previsão
+constitucional no sentido de definir exatamente qual seria o limite abaixo do qual não haveria confisco.
+Como vamos, então definir o limite?
+
+Para o Supremo Tribunal Federal, a caracterização do efeito confiscatório deve ser obtida, analisando
+a totalidade de tributos a que um contribuinte está submetido, dentro de determinado período,
+em relação à mesma pessoa política. Ou seja, se o objetivo é descobrir se o IR está sendo utilizado
+com efeito de confisco, há que se verificar todo o ônus tributário com que certo contribuinte arca em
+relação à União.
+
+
+---
+
+Princípio do não confisco: Totalidade da carga tributária / Mesma pessoa política (União, por
+exemplo).
+
+3 – Os Critérios                     da      Generalidade,             Universalidade             e
+Progressividade
+
+De acordo com o art. 153, § 2º, I, o IR será informado pelos critérios da generalidade, da
+universalidade e da progressividade, na forma da lei.
+
+        Observação: Não obstante o legislador tenha se referido aos “critérios”, a doutrina
+        entende que se identificam como princípios informadores do IR.
+
+Comecemos pelos critérios da generalidade e da universalidade!
+
+Os critérios generalidade e universalidade, quando analisados em conjunto, denotam que todas as
+pessoas devem sofrer a tributação pelo IR sobre todos os seus rendimentos.
+
+Embora haja divergência doutrinária, o entendimento mais adequado de cada critério isolado parece
+ser o seguinte:
+
+Generalidade  significa dizer que a tributação alcança todas as pessoas.
+
+Universalidade  significa dizer que a tributação alcança todas as espécies de rendimentos.
+
+É muito importante que você entenda que tais critérios não se chocam com a possibilidade de haver
+isenções tributárias no IR ou mesmo reduções do referido imposto. Desse modo, indo ao encontro
+do que já comentamos anteriormente, é possível que uma pessoa esteja isenta, por possuir rendimentos
+abaixo do mínimo a ser tributado!
+
+Universalidade e Generalidade  Não impedem a existência de isenções ou reduções.
+
+Ressaltamos também que a generalidade não inibe a instituição de critérios distintos entre
+pessoas físicas e pessoas jurídicas, desde que o tratamento para elas previsto também seja de
+caráter geral.
+
+
+---
+
+Vamos inserir um pouco do Regulamento do Imposto de Renda para começar a se habituar com o
+linguajar da legislação? Pois bem, seguindo à risca a linha de tais princípios – ou critérios -, o art. 1º do
+RIR/2018 estabeleceu o seguinte sobre a tributação das pessoas físicas:
+
+       Art. 1º - As pessoas físicas que perceberem renda ou proventos de qualquer natureza, inclusive
+       rendimentos e ganhos de capital, são contribuintes do imposto sobre a renda, sem distinção de
+       nacionalidade, sexo, idade, estado civil ou profissão.
+
+No que se refere aos seus rendimentos, o RIR inseriu a seguinte regra:
+
+       Art. 34. A tributação independe da denominação dos rendimentos, dos títulos ou dos direitos,
+       da localização, da condição jurídica ou da nacionalidade da fonte, da origem dos bens
+       produtores da renda e da forma de percepção das rendas ou dos proventos, sendo suficiente,
+       para a incidência do imposto sobre a renda, o benefício do contribuinte por qualquer forma e a
+       qualquer título.
+
+       Em relação às pessoas jurídicas, não foi diferente. Vamos ver o que estabelece o art. 158 do RIR:
+
+       Art. 158. São contribuintes do imposto sobre a renda e terão seus lucros apurados de acordo com
+       este Regulamento (Decreto-Lei nº 5.844, de 1943, art. 27):
+
+       I - as pessoas jurídicas, a que se refere o Capítulo I deste Título; e
+
+       II - as empresas individuais, a que se refere o Capítulo II deste Título.
+
+       § 1º O disposto neste artigo aplica-se independentemente de a pessoa jurídica estar
+       regularmente constituída, bastando que configure uma unidade econômica ou profissional.
+
+Deu pra perceber como funciona na prática a universalidade e a generalidade? Eu não quero que você
+entenda os dispositivos agora, mas apenas repare que o legislador seguiu os ditames da CF/88, no
+sentido da universalização dos rendimentos e da generalização das pessoas a serem tributadas! Tudo
+bem?
+
+No tocante à progressividade, sabemos que a isonomia é efetivada por meio do respeito à capacidade
+contributiva de cada pessoa, tributando os desiguais, na medida de suas desigualdades, correto?
+
+O critério da progressividade tem como finalidade viabilizar essa tributação diferenciada, sendo
+sustentado pelo próprio princípio da isonomia. A exemplo do que estamos falando, retorne algumas
+páginas e veja a tabela do IRPF, que, como o próprio nome já diz, é a Tabela Progressiva para o cálculo
+mensal do IRPF.
+
+
+---
+
+3.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem alíquota proporcional, pois as alíquotas vão aumentando
+gradativamente, conforme vai aumentando a base de cálculo, que é a renda ou provento de qualquer
+natureza.
+
+Comentário: Na realidade, trata-se da progressividade, pelo fato de as alíquotas aumentarem conforme
+maior seja a base de cálculo do imposto.
+
+Gabarito: Errada
+
+4.CESPE/JUIZ FEDERAL-5ª REGIÃO/2013
+O IR será norteado pelos critérios da generalidade, da seletividade e da progressividade, na forma da
+lei.
+
+Comentário: Os critérios que nortearão o IR são: generalidade, universalidade e progressividade.
+
+Gabarito: Errada
+
+5.ESAF/PFN/2004
+O imposto sobre renda e proventos de qualquer natureza sujeita-se aos princípios da generalidade,
+uniformidade e progressividade.
+
+Comentário: O IR sujeita-se aos princípios da generalidade, universalidade – e não uniformidade – e
+progressividade. Cuidado com pegadinhas!
+
+Gabarito: Errada
+
+6.ESAF/AFRF/2002
+A Constituição determina que o imposto de renda seja informado pelo critério de que aquele que ganhe
+mais deverá pagar de imposto uma proporção maior do que aquele que ganhe menos.
+
+Comentário: Um dos critérios definidos no art. 153, § 2º, I, é o da progressividade, segundo o qual,
+quem ganha mais deve pagar proporcionalmente mais do que aquele que ganhe menos.
+
+Gabarito: Correta
+
+7.ESAF/TRF/2002
+O imposto sobre a renda e proventos de qualquer natureza, de competência da União, deve ser
+informado pelos critérios da progressividade e da especialidade.
+
+
+---
+
+Comentário: De acordo com o art. 153, § 2º, da CF/88, o Imposto de Renda será informado pelos
+critérios da generalidade, da universalidade e da progressividade, na forma da lei.
+
+Gabarito: Errada
+
+8.ESAF/TRF/2003
+O critério da progressividade do imposto de renda está sintonizado com a capacidade econômica do
+contribuinte e observa o caráter pessoal previsto na
+Constituição.
+
+Comentário: A progressividade de alíquotas é uma forma de graduar o IR conforme a capacidade
+contributiva de cada um. Por conseguinte, há a observância do caráter pessoal previsto na CF/88 (art.
+145, § 1º).
+
+Gabarito: Correta
+
+
+4 – Irretroatividade, Anterioridade Anual e Anterioridade
+Nonagesimal
+
+Primeiramente, é relevante que você se lembre dos seguintes princípios constitucionais, que são
+explicados de forma sintética a seguir:
+
+Princípio da Irretroatividade  Impede cobrar tributos em relação aos fatos geradores ocorridos
+antes do início da vigência da lei que os instituiu ou majorou.
+
+Princípio da Anterioridade Anual  Impede cobrar tributos no mesmo ano da publicação da lei que
+os tenha instituído ou majorado.
+
+Princípio da Anterioridade Nonagesimal  Impede cobrar tributos antes de 90 dias a partir da
+publicação da lei que os tenha instituído ou majorado.
+
+        Observação: O marco temporal da vedação estabelecida pelo princípio da
+        anterioridade anual e nonagesimal é a publicação da lei, enquanto o do princípio
+        da irretroatividade é a vigência da lei.
+
+     Não vamos entrar em detalhes, pois esse assunto é profundamente estudado em Direito Tributário.
+Tenha em mente que todos os tributos devem se sujeitar ao princípio da irretroatividade, mas nem
+todos se submetem ao da anterioridade anual e nonagesimal. No caso do IR, que é o que nos importa
+neste momento, tal imposto apenas se sujeita ao princípio da anterioridade anual, estando
+excepcionado da anterioridade nonagesimal.
+
+
+---
+
+                        Imposto de Renda
+
+Irretroatividade                   SIM
+
+Anterioridade Anual                SIM
+
+Anterioridade Nonagesimal           NÃO
+
+Agora que você já sabe distinguir os princípios, e sabe também os que se aplicam e o que não se aplicam
+ao IR, vamos entender como funciona o fato gerador desse imposto.
+
+O fato gerador do IR é denominado periódico, tendo em vista que se prolonga durante um período
+estabelecido em lei, sendo considerado ocorrido no final deste período. Ademais, diferentemente do que
+ocorre com o IPVA ou IPTU, o fato gerador do IR é composto de diversos eventos ocorridos dentro do
+período citado, fazendo com que seja chamado de fato gerador período composto (ou complexivo).
+
+        Observação: O IPTU e o IPVA possuem fatos geradores periódicos simples, pois são
+        constituídos de um único evento no período, qual seja a propriedade de veículo
+        automotor ou de imóvel urbano.
+
+Assim, por exemplo, no regime de tributação anual do IRPF, o imposto é apurado com base nos
+rendimentos recebidos pelo contribuinte no decorrer do exercício financeiro. O fato gerador considera-
+se ocorrido no dia 31 de dezembro, embora seja constituído do conjunto de fatos isolados durante o
+ano. No ano seguinte, o contribuinte tem um prazo para entregar a declaração à Receita Federal,
+demonstrando a apuração do IRPF anual e o pagamento, se houver, do imposto.
+
+Vamos ilustrar para facilitar:
+
+                                                                  Fato Gerador
+
+                                                                                 Entrega da
+         Salário     Salário     Salário   Salário   Salário   Salário           Declaração
+
+                                     Ano 2020                                    Ano 2021
+                                                                   31/12/20
+
+Você já deve estar se perguntando onde os princípios estudados neste tópico entram em toda essa
+explicação. Ora, foi necessário te fornecer toda essa explicação, para que você seja capaz de responder
+
+
+---
+
+a seguinte pergunta: caso uma lei que majore o IR seja publicada no meio do ano de 2020, essa lei
+produziria efeitos sobre todo o IR apurado em 2020?
+
+Não poderia, pois se assim o fosse, a lei acabaria produzindo efeitos sobre rendimentos anteriores ao
+início da sua vigência (afinal, há rendimentos auferidos desde o início do ano 2020). Isso, por si só, já
+violaria o princípio da irretroatividade. Ademais, essa aplicação também violaria o princípio da
+anterioridade anual, pois a lei produziria efeitos sobre o fato gerador ocorrido no mesmo exercício
+de sua publicação, isto é, dentro do próprio ano 2020.
+
+Estamos explicando com detalhes essa situação, pois havia uma súmula do STF (Súmula 584), que previa que
+a lei vigente no ano da declaração do imposto de renda (2021), poderia se aplicada aos rendimentos do ano-
+base (2020). A Súmula era bastante antiga (de 1976) e não guardava mais contabilidade com a sistemática
+de apresentação de declaração de imposto de renda atual, que sempre se refere ao ano anterior, e por isso,
+violaria o princípio da anterioridade anual e também da irretroatividade.
+
+        Atualmente, você pode considerar incorreta a questão que afirma a redação da
+        Súmula 584, que foi cancelada:
+
+        Súmula STF 584 – Ao imposto de renda calculado sobre os rendimentos do ano base
+        aplica-se a lei vigente no exercício financeiro em que deve ser apresentada a declaração.
+
+Por último, gostaria de elaborar uma breve explicação acerca do art. 104 do CTN, cuja redação é a
+seguinte:
+
+       Art. 104. Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua
+       publicação os dispositivos de lei, referentes a impostos sobre o patrimônio ou a renda:
+
+       I - que instituem ou majoram tais impostos;
+
+       II - que definem novas hipóteses de incidência;
+
+       III - que extinguem ou reduzem isenções, salvo se a lei dispuser de maneira mais favorável ao
+       contribuinte.
+
+Quanto aos incisos I e II, há forte discussão doutrinária no sentido de que estão revogados, por haver,
+hoje, o princípio da anterioridade. Contudo, ainda assim as bancas o cobram literalmente.
+
+        Observação: É importante prestar atenção ao fato de que o dispositivo se refere à
+        vigência da lei, e não à sua eficácia (produção de efeitos). Ademais, a sua aplicação é
+        restrita aos impostos sobre o patrimônio ou a renda.
+
+No que se refere ao inciso III, embora a norma diga que lei que extingue ou reduz isenções relativas a
+impostos sobre o patrimônio ou a renda só passe a vigorar no primeiro dia do exercício seguinte.
+
+
+---
+
+        Nesse sentido, o entendimento mais recente do STF é o de que a redução de benefício fiscal
+caracteriza aumento indireto de tributo, atraindo a aplicação do princípio da anterioridade, sendo
+que esta será estudada adiante. Ademais, entende a Corte que o prévio conhecimento da carga
+tributária tem como base a segurança jurídica e, como conteúdo, a garantia da certeza do direito.
+
+Leve isto para a sua prova: A majoração indireta de tributo, levada a cabo por meio de redução de
+benefício fiscal, atrai a aplicação do princípio da anterioridade.
+
+Não se esqueça de que ao IR somente se aplica a anterioridade ANUAL.
+
+5 – Princípio da Legalidade
+
+A Constituição Federal de 1988 consagra o princípio da legalidade tributária, ao prever as seguintes
+palavras:
+
+       Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+       Estados, ao Distrito Federal e aos Municípios:
+
+       I - exigir ou aumentar tributo sem lei que o estabeleça;
+
+A regra, portanto, é que não se pode instituir qualquer tributo, ou majorá-lo, sem que haja lei para esse
+propósito. No que se refere à instituição de tributos, não há qualquer exceção. Contudo, em relação à
+majoração de alíquotas, há diversas exceções e é sobre esse ponto que eu gostaria de esclarecer algumas
+questões.
+
+Muito embora haja diversos tributos que constituem exceção ao princípio da legalidade, quanto à
+majoração das suas alíquotas, o candidato deve ter bem fixado na memória que o IR não se encontra
+nesse rol. Assim, qualquer majoração do Imposto de Renda submete-se ao princípio da legalidade,
+ou seja, deve haver lei ou ato normativo com a mesma força (medida provisória), para tornar possível a
+majoração.
+
+
+---
+
+O Imposto de Renda não constitui exceção ao princípio da legalidade.
+
+9.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física pode ser instituído somente por lei complementar e não deve
+obediência à anterioridade anual e nonagesimal.
+
+Comentário: O IR pode ser instituído por lei ordinária e deve obediência ao princípio da anterioridade
+anual, embora constitua exceção ao princípio da anterioridade nonagesimal.
+
+Gabarito: Errada
+
+10.ESAF/TTN/1998 - Adaptada
+No que diz respeito ao Imposto sobre a Renda e Proventos de Qualquer Natureza, pode-se afirmar,
+exceto, que
+a) deve ser progressivo, aumentando a alíquota à medida que se eleva a base de cálculo.
+b) deve obedecer aos critérios da universalidade e da generalidade.
+c) deve obedecer aos princípios da capacidade contributiva, irretroatividade e anterioridade, entre
+outras.
+d) não pode ter suas alíquotas alteradas pelo Poder Executivo.
+e) não pode prever hipóteses de isenção, sob pena de violar-se o princípio da igualdade.
+
+Comentário:
+
+Alternativa A: Deveras, o IR deve ser progressivo, por expressa disposição constitucional. Item correto.
+
+Alternativa B: Tal como a imposição de ser progressivo, o IR também deve obedecer aos critérios da
+universalidade e da generalidade. Item correto.
+
+Alternativa C: Trata-se dos princípios estudados durante a aula, que são aplicáveis ao IR. Item correto.
+
+Alternativa D: Perfeito! O IR não pode mesmo ter suas alíquotas alteradas pelo Poder Executivo. Item
+correto.
+
+
+---
+
+Alternativa E: O princípio da igualdade não impede a criação de isenções, justamente porque a
+isonomia não se traduz na aplicação das mesmas regras a pessoas com capacidades contributivas
+distintas. Item errado.
+
+Gabarito: Letra E
+
+11.ESAF/TRF/2003
+O princípio constitucional da anterioridade significa que a lei tributária não se aplica aos fatos geradores
+anteriores à sua publicação.
+
+Comentário: O princípio da anterioridade veda a cobrança de tributos no mesmo exercício financeiro
+em que haja sido publicada a lei que os instituiu ou aumentou. A assertiva se refere ao princípio da
+irretroatividade.
+
+Gabarito: Errada
+
+12.ESAF/TRF/2003
+Em atendimento às normas constitucionais relativas aos impostos de competência da União, para fins
+de incidência do imposto de renda, devem ser deduzidos da renda recebida todos os valores pagos,
+necessários à sua percepção, atendendo-se, assim, o princípio da não-cumulatividade.
+
+Comentário: Não caia nessa, candidato. O princípio da não cumulatividade não é aplicável ao IR, até
+porque este é um imposto direto (não há transferência do encargo financeiro a outra pessoa). Sobre as
+possibilidades de dedução da base de cálculo do IR, não se preocupe, pois trataremos disso no nosso
+curso.
+
+Gabarito: Errada
+
+13.ESAF/TRF/2003
+Para atender a despesas extraordinárias decorrentes de calamidade pública, em janeiro do ano de 200X,
+o Congresso Nacional aprovou uma lei complementar que instituiu um imposto de renda adicional, à
+alíquota de 5%, a ser cobrado imediatamente, incidente sobre quaisquer rendimentos de pessoas
+físicas. Esse imposto, cobrado de forma definitiva (o que significa que não é deduzido do imposto
+apurado na declaração anual de rendimentos), não exclui a incidência do imposto de renda segundo a
+tabela progressiva.
+Considerando a situação descrita, assinale as proposições abaixo com F para falsa ou V para verdadeira
+e, a seguir, indique a opção que contém a seqüência correta.
+( ) A lei em questão não atende o critério da progressividade.
+( ) Dada a situação de urgência e excepcionalidade, o Congresso pode editar uma lei nessas condições,
+sem observar o princípio da anterioridade.
+( ) A lei em questão está informada pelos critérios da generalidade, da universalidade e da seletividade.
+a) F, F, V
+b) V, V, F
+c) F, V, F
+d) V, F, V
+
+
+---
+
+e) V, F, F
+
+Comentário:
+
+Item I: De fato, a lei não atende ao critério da progressividade, pois foi estipulada uma alíquota única,
+de forma que o tributo em questão será “proporcional”. Item correto.
+
+Item II: Esse tributo supostamente instituído é “muito louco”, caro candidato. De imediato, já podemos
+dizer que imposto é um tributo de arrecadação não vinculada (salvo hipóteses previstas no art. 167, IV,
+da CF/88). Por esse motivo, não seria possível instituir imposto para atender a despesas decorrentes de
+calamidade pública.
+
+Ignorando o argumento acima, também não poderia ser enquadrado como imposto residual, embora
+seja instituído por lei complementar, pois deveria ter tido base de cálculo e fato gerador diferentes dos
+demais impostos discriminados na CF/88. Mesmo assim, essa parece ser a solução mais viável para se
+chegar ao gabarito da questão.
+
+“Mas, professor, não poderia ser empréstimo compulsório”? Poderia, até porque a denominação do
+tributo não é suficiente para determinar sua natureza jurídica (art. 4º do CTN). Além disso, foi instituído
+por lei complementar.
+
+Contudo, diante dessa hipótese autorizadora (calamidade pública), não seria necessário obedecer ao
+princípio da anterioridade, já que nesse caso a exação pode ser exigida imediatamente. Afinal, como a
+banca considerou este item como errado, inferimos que o referido tributo se submete ao princípio da
+anterioridade, o que não condiz com as regras do empréstimo compulsório instituído para custear
+calamidade pública.
+
+Fiquemos, pois, com a possibilidade de ser imposto de renda (um adicional, talvez), estando sujeito ao
+princípio da anterioridade. Item errado.
+
+Item III: Nada foi dito no enunciado a respeito da seletividade. Item errado.
+
+Sendo assim, a sequência é V, F, F.
+
+Gabarito: Letra E
+
+14.ESAF/TRF/2002
+De acordo com o princípio da anterioridade, sobrevindo lei que aumente o imposto de renda e preveja
+expressamente sua entrada em vigor para a data de sua publicação, o imposto decorrente do aumento
+pode ser cobrado imediatamente a partir da data da publicação, porém sem alcançar fatos geradores
+ocorridos anteriormente.
+
+Comentário: A questão menciona o princípio da anterioridade. Contudo, disserta sobre as
+características do princípio da irretroatividade.
+
+Gabarito: Errada
+
+
+---
+
+  O IMPOSTO DE RENDA E AS DIRETRIZES DO CTN
+Além dos princípios constitucionais, o legislador também está sujeito às normas gerais estabelecidas
+em lei complementar. Em se tratando de impostos, o art. 146, III, a, da CF/88, também incumbiu a lei
+complementar a definição dos fatos geradores, das bases de cálculo e dos contribuintes.
+
+Quem cumpre tais papéis é o Código Tributário Nacional (CTN), lei ordinária, publicada antes da
+promulgação da CF/88. Por ser materialmente compatível com a Constituição vigente, o CTN foi
+recepcionado com status de lei complementar.
+
+Relembre-se de que a CF/88 não instituiu qualquer tributo, apenas conferiu a competência tributária
+aos entes federativos para que estes a exerçam. Do mesmo modo, o CTN também não instituiu nenhum
+tributo, apenas definiu normas gerais em matéria de Direito Tributário. Tranquilo até aqui?
+
+     CF/88 e CTN                 Não instituem tributos
+
+
+         CF/88                   Apenas confere a competência tributária
+
+          CTN                    Define normas gerais de Direito Tributário
+
+    Em relação ao Imposto de Renda, nós já estudamos os princípios constitucionais e as características
+básicas desse imposto. Resta-nos, então, estudar as disposições específicas do CTN sobre o IR, que se
+resumem na definição do seu fato gerador, da sua base de cálculo e dos seus contribuintes.
+
+15.QUESTÃO INÉDITA
+Devido ao fato de o CTN estabelecer os fatos geradores, a base de cálculo e os contribuintes do Imposto
+de Renda, pode-se afirmar que esta é a lei instituidora do IR.
+
+Comentário: O CTN não institui qualquer tributo, mas apenas define os parâmetros para a sua
+instituição (fatos geradores, base de cálculo e contribuintes).
+
+Gabarito: Errada
+
+
+---
+
+1 – Fato Gerador do Imposto de Renda
+
+Em cumprimento ao disposto e já explicado art. 146, III, a, da CF/88, o CTN definiu o fato gerador do IR
+da seguinte forma:
+
+       Art. 43. O imposto, de competência da União, sobre a renda e proventos de qualquer natureza tem
+       como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+
+       I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+
+       II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não
+       compreendidos no inciso anterior.
+
+Em termos bastante simples, o fato gerador do IR é a aquisição da disponibilidade econômica ou
+jurídica de algo, que pode ser tanto renda como os proventos de qualquer natureza. Em qualquer
+caso, estamos nos referindo aos acréscimos patrimoniais. Estudaremos todos esses conceitos, que
+podem ser objeto de questões complexas!
+
+Antes, contudo, vamos ver o que diz os parágrafos do art. 43, do CTN:
+
+       § 1o A incidência do imposto independe da denominação da receita ou do rendimento, da
+       localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+       (Incluído pela Lcp nº 104, de 2001)
+
+O que o legislador quis dizer é que o IR irá incidir sobre a aquisição da disponibilidade econômica ou
+jurídica de renda ou de proventos de qualquer natureza, independentemente da denominação, da
+origem e da forma de percepção da receita ou rendimento.
+
+No que se refere à fonte dessa receita ou rendimento, a incidência do IR independe da sua
+localização, condição jurídica ou nacionalidade.
+
+Em suma, temos o seguinte:
+
+Incide IR  Independentemente da denominação, da origem e da forma de percepção da receita ou
+rendimento.
+
+Incide IR  Independentemente da localização, condição jurídica ou nacionalidade da fonte da receita
+ou do rendimento.
+
+Repare que essa regra torna bastante ampla a incidência do IR. Na realidade, constitui verdadeiro
+cumprimento ao postulado da isonomia, ao tributar, em princípio, todas as receitas e rendimentos, seja
+qual for a sua fonte. Isso nos faz lembrar também dos critérios da universalidade e generalidade,
+que foram previstos no art. 153, § 2º, I, da CF/88.
+
+Destaque-se que nada impede que as leis ordinárias utilizem de maneira reduzida ou limitada
+tais regras, prevendo, por exemplo, isenção a determinadas receitas ou rendimentos.
+
+
+---
+
+Dessa forma, torna-se irrelevante a denominação que é dada à receita ou rendimento, pois o IR incidirá
+de qualquer modo. Ademais, ainda que a origem seja ilícita, ocorre tributação pelo IR. Aliás, ainda que a
+forma de percepção não seja em dinheiro, o IR também incide.
+
+        Observação: A respeito da tributação sobre rendimentos decorrentes de atividades
+        ilícitas, lembre-se do princípio do pecúnia non olet consagrado pela jurisprudência
+        do STF, no HC 77.530/RS, e respaldado no art. 118, II, do CTN.
+
+        No que se refere à forma de percepção, a IN RFB 1500/2014 regulamenta a
+        tributação dos rendimentos recebidos em bens, os quais serão avaliados em
+        dinheiro pelo valor de mercado que tiverem na data do recebimento.
+
+No tocante à fonte das receitas e rendimentos, o IR incidirá qualquer que seja a sua condição jurídica,
+ou seja, a fonte pagadora pode não estar regularmente constituída na forma de pessoa jurídica ou
+mesmo se tratar de uma pessoa física incapaz.
+
+Além disso, o dispositivo ainda prevê que a tributação pelo IR independe da localização ou
+nacionalidade da fonte da receita ou rendimento. Esse assunto será estudado nas aulas específicas sobre
+o IRPF e IRPJ. O que eu quero que você entenda agora é que o CTN permitiu a tributação sobre rendas
+advindas do exterior, o que foi tratado mais especificamente pelo § 2º, do art. 43, do CTN:
+
+        § 2o Na hipótese de receita ou de rendimento oriundos do exterior, a lei estabelecerá as
+       condições e o momento em que se dará sua disponibilidade, para fins de incidência do imposto
+       referido neste artigo. (Incluído pela Lcp nº 104, de 2001)
+
+O parágrafo 2º, do art. 43, do CTN, veio eliminar qualquer resistência à tributação de rendas e
+proventos cuja produção tenha ocorrido no exterior por contribuintes, pessoas físicas ou jurídicas,
+residentes ou com domicílio no Brasil.
+
+As especificidades desse tema serão estudadas em aula específica. Neste momento, é importante que
+você memorize apenas o seguinte: é a lei (e não o Decreto do Poder Executivo) que estabelecerá as
+condições e o momento em que se dará a disponibilidade dos rendimentos oriundos do exterior.
+
+Memorize o seguinte:
+
+   O IR incide sobre receita e rendimentos oriundos do exterior.
+   É a lei que estabelece as condições e o momento em que esse ganhos se consideram disponibilizados.
+
+
+---
+
+16.QUESTÃO INÉDITA
+Na hipótese de receita ou de rendimento oriundos do exterior, o Poder Executivo estabelecerá as
+condições e o momento em que se dará sua disponibilidade, para fins de incidência do IR.
+
+Comentário: Trata-se de mais uma típica “pegadinha” sobre o IR. É a lei, e não o Poder Executivo.
+
+Gabarito: Errada
+
+Agora que você já tem uma boa noção do fato gerador do IR, vamos estudar os conceitos específicos,
+previstos no art. 43, do CTN. São eles: aquisição de disponibilidade econômica ou jurídica, renda e
+proventos de qualquer natureza
+
+1.1 - Aquisição de Disponibilidade Econômica ou Jurídica
+
+Como já foi dito, o IR tem como fato gerador a aquisição da disponibilidade econômica ou jurídica de
+renda ou de proventos de qualquer natureza.
+
+O que é aquisição de disponibilidade? O que é disponibilidade econômica ou jurídica?
+
+Não resta dúvidas quanto ao conceito de disponibilidade, de modo que os juristas definem como a
+qualidade de algo estar disponível, isto é, algo que esteja na disposição de alguém, que, no caso
+do IR, traduz-se na disposição do contribuinte titular do patrimônio aumentado. Assim, ele pode
+fazer o que bem entender com o seu patrimônio, inclusive aliená-lo.
+
+No que se refere aos conceitos de disponibilidade econômica ou jurídica, infere-se, da forma como foram
+inseridos no CTN, que há distinção entre eles, tendo em vista que foi dito “disponibilidade econômica ou
+jurídica”, e não disponibilidade econômica e jurídica. Mas qual seria essa distinção?
+
+De acordo com o coautor do anteprojeto do CTN, Gilberto de Ulhôa Canto2:
+
+       “I.9. Segue-se a questão de como distinguir aqui a dicção da disponibilidade ‘econômica’ e a da
+       ‘jurídica’, modalidades referidas no texto sob comentário. Dize-se que há disponibilidade econômica
+       quando alguém pode, efetivamente, tomar, usar e alienar bem ou direito. Jurídica é a
+       disponibilidade quando o seu titular pode, embora não haja recebido fisicamente a coisa ou o
+
+2
+ CANTO, Gilberto de Ulhôa; MUNIZ, Ian de Porto Alegre; SOUZA, Antonio Carlos Garcia de. “Imposto
+sobre a Renda e Proventos de Qualquer Natureza”. In: MATINS, Ives Gandra da Silva (coord.). O
+Fato Gerador do Imposto sobre a Renda e Proventos de Qualquer Natureza. São Paulo: Centro de Estudos
+de Extensão Universitária/Resenha Tributária, 1986. P. 5. (Caderno de Pesquisas Tributárias – Vol. 11).
+
+
+---
+
+       direito, deles fazer uso ou tirar os proveitos resultantes do domínio porque a lei ou o contrato lho
+       permitem, mesmo sem que seja preciso ter a sua detenção material.”
+
+Seguindo essa linha, teríamos os seguintes significados para disponibilidade econômica ou jurídica:
+
+   Disponibilidade Econômica: ocorre quando se obtém dinheiro ou bens nele conversíveis.
+   Disponibilidade Jurídica: ocorre quando se tem direito a um crédito, podendo fazer uso ou tirar os
+    proveitos desse domínio, com base em lei ou contrato, sem recebê-lo fisicamente.
+
+Não há disponibilidade jurídica se o direito obtido estiver sujeito a alguma condição suspensiva.
+
+Nessa toada, surge outro conceito relevante para o estudo deste assunto: a disponibilidade financeira.
+Embora alguns autores defendam que tal disponibilidade se confunde com a econômica, não é assim
+que o STJ entende, conforme se demonstra na ementa do julgado a seguir:
+
+     TRIBUTÁRIO. IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. EMPRESAS
+     CONTROLADAS SITUADAS NO EXTERIOR. DISPONIBILIDADE ECONÔMICA E JURÍDICA DA
+     RENDA. ARTS. 43, § 2º, DO CTN E 74 DA MP 2.158-35/2001.
+
+     4. Não se deve confundir disponibilidade econômica com disponibilidade financeira da renda
+     ou dos proventos de qualquer natureza. Enquanto esta última se refere à imediata "utilidade"
+     da renda, a segunda está atrelada ao simples acréscimo patrimonial, independentemente da
+     existência de recursos financeiros.
+
+     5. Não é necessário que a renda se torne efetivamente disponível (disponibilidade financeira)
+     para que se considere ocorrido o fato gerador do imposto de renda, limitando-se a lei a exigir
+     a verificação do acréscimo patrimonial (disponibilidade econômica). No caso, o incremento
+     patrimonial verificado no balanço de uma empresa coligada ou controlada no exterior
+     representa a majoração, proporcionalmente à participação acionária, do patrimônio da
+     empresa coligada ou controladora no Brasil.
+
+     (STJ, Segunda Turma, REsp 983.134/RS, Min. Rel. Castro Meira, Julgamento em 03/04/2008)
+
+Em suma, a disponibilidade se traduz na obtenção do dinheiro propriamente dito ou por transferência
+bancária. Observe também que o conceito de disponibilidade financeira está contido dentro do
+conceito de disponibilidade econômica, sendo este mais amplo.
+
+Enfim, o que você deve memorizar para a prova é o seguinte:
+
+
+---
+
+   Tanto a aquisição de disponibilidade econômica como a jurídica constituem fato gerador do IR;
+   Disponibilidade financeira não se confunde com disponibilidade econômica;
+   Não é necessário que haja aquisição de disponibilidade financeira para que o fato gerador do IR
+    ocorra, bastando a disponibilidade econômica;
+
+1.2 - Conceito de Renda e Proventos de Qualquer Natureza
+
+O art. 43, caput, do CTN, estabelece como fato gerador do IR a aquisição de disponibilidade econômica
+ou jurídica de renda, sendo esta considerada como o produto do capital, do trabalho ou da combinação
+de ambos, ou de proventos de qualquer natureza, assim considerados os acréscimos patrimoniais não
+compreendidos no conceito de renda.
+
+Ao dizer que os proventos de qualquer natureza são acréscimos patrimoniais não compreendidos no
+conceito de renda, o legislador deixou claro que esta também consiste em acréscimos
+patrimoniais.
+
+Dessa forma, tanto a renda como os proventos de qualquer natureza são acréscimos patrimoniais, sendo
+que a renda consiste nos acréscimos resultantes do capital, do trabalho ou da combinação de ambos. Já
+os proventos são os demais acréscimos, por exclusão.
+
+Para tornar mais clara a compreensão deste assunto, vamos exemplificar:
+
+Produto do Capital  Rendimentos de aluguéis, juros e lucros
+
+Produto do Trabalho  Salários e honorários
+
+Produto da Combinação do Capital e do Trabalho  pró-labore
+
+Com base em todo o exposto, o que viria a ser, então, os proventos de qualquer natureza? Ora, a
+aposentadoria constitui exemplo disso, não é mesmo? Não se trata de produto do capital, do trabalho
+ou mesmo da combinação de ambos, mas não deixa de ser um acréscimo patrimonial! Além disso,
+podemos citar também as pensões recebidas, o prêmio recebido na Mega-Sena ou em jogos de cartas.
+
+Tanto a renda como os proventos de qualquer natureza são acréscimos patrimoniais.
+
+Mas o que é exatamente um acréscimo patrimonial? Vamos ver!
+
+1.3 - Conceito de Acréscimos Patrimoniais
+
+Para definir com precisão o que são os acréscimos patrimoniais, precisamos, antes, saber o que vem a
+ser o patrimônio. De acordo com os conceitos contábeis, o patrimônio é composto do conjunto de bens,
+direitos e obrigações, pertencentes a uma pessoa física ou jurídica.
+
+
+---
+
+Assim sendo, o acréscimo patrimonial representa a variação positiva da situação patrimonial de
+uma pessoa em um determinado período de tempo. Esse é um dos motivos pelo qual o contribuinte
+pessoa física está obrigado a apresentar a Declaração de Imposto de Renda Pessoa Física (DIRPF), ou
+seja, para explicar a variação do seu patrimônio no ano anterior, bem como apurar eventual saldo de
+imposto a pagar ou a restituir.
+
+        Observação: A apresentação da DIRPF deve ser efetuada até o último dia útil do mês
+        de abril do ano-calendário subsequente ao qual se refere. Assim, por exemplo, a DIRPF
+        referente ao ano-calendário de 2014, é apresentada em 2015. Isso será estudado com
+        mais detalhes nas próximas aulas.
+
+Desse modo, se houve acréscimo patrimonial, a princípio, haveria tributação! Mas o que dizer sobre as
+indenizações? Há incidência do IR sobre as indenizações?
+
+A resposta correta é que, em regra, as indenizações não acrescem o patrimônio do contribuinte,
+representando apenas uma recomposição de algo que já fazia parte dele. Por tal motivo, não há
+incidência de IR sobre as indenizações. Essa é a regra geral.
+
+Contudo, existem indenizações que indubitavelmente aumentam o patrimônio do contribuinte,
+razão pela qual se justifica a incidência do IR. Como exemplo, podemos citar as indenizações por
+seguro e os lucros cessantes.
+
+Quando a indenização provoca aumento no patrimônio, é necessário perquirir se o referido aumento
+diz respeito ao patrimônio material ou imaterial do contribuinte.
+
+“Como assim patrimônio material e imaterial, professor?” Vamos explicar!
+
+Sabemos que a indenização é a prestação destinada a reparar ou recompensar dano causado a bens
+jurídicos. Tais bens podem ser de natureza patrimonial ou não patrimonial. Os bens de natureza
+patrimonial integram o patrimônio material, e os de natureza não patrimonial integram o patrimônio
+imaterial (ou moral) da pessoa.
+
+Dessa forma, quando a indenização visa reparar o patrimônio material, não há qualquer acréscimo
+patrimonial, salvo quando o valor reparado ultrapassar o valor do dano material verificado. Nesse
+caso, há acréscimo patrimonial e, consequentemente, incidência do IR.
+
+Vejamos um trecho da ementa de uma decisão proferida pelo STJ
+
+     EMENTA: "(...)Não é o nomen juris, mas a natureza jurídica da verba que definirá a incidência
+     tributária ou não. O fato gerador de incidência tributária sobre renda e proventos, conforme
+     dispõe o art. 43 do CTN, é tudo que tipificar acréscimo ao patrimônio material do contribuinte."
+
+     (STJ, Primeira Seção, EREsp 979765/SE, Rel. Min. Mauro Campbell Marques, Julgamento em
+     13/08/2008)
+
+
+---
+
+        Observação: nomen juris significa o mesmo que “definição legal” em latim.
+
+Nessa mesma linha, o STJ também já decidiu o seguinte:
+
+     Súmula STJ 463 – Incide imposto de renda sobre os valores percebidos a título de indenização
+     por horas extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+
+No que se refere à indenização destinada a reparar o patrimônio imaterial do contribuinte, o
+posicionamento firmado pelo STJ é o de que não há incidência do IR, por não haver riqueza nova.
+
+Quanto a esse entendimento, transcrevemos a seguir a Súmula 498 do STJ:
+
+     Súmula STJ 498 - Não incide imposto de renda sobre a indenização por danos morais.
+
+Devemos considerar que houve incorporação da jurisprudência na legislação tributária, com base no
+art. 19, da Lei 10.522/2002, com redação dada pela Lei 11.033/2004, o qual autoriza a Procuradoria-
+Geral da Fazenda Nacional autorizada a não contestar, a não interpor recurso ou a desistir do que
+tenha sido interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar
+sobre matérias que, em virtude de jurisprudência pacífica do Supremo Tribunal Federal, do Superior
+Tribunal de Justiça, do Tribunal Superior do Trabalho e do Tribunal Superior Eleitoral, sejam objeto de
+ato declaratório do Procurador-Geral da Fazenda Nacional, aprovado pelo Ministro de Estado da
+Fazenda. Tal regra encontra-se prevista no art. 904, do RIR/2018.
+
+A ideia é não “perder tempo” com matérias que serão rechaçadas pelos tribunais superiores, por já ter
+sido formada jurisprudência pacífica sobre tais casos, como o caso previsto na Súmula 498. Quanto à
+Receita Federal, o § 4º, do art. 19, da lei supracitada, estabelece que este órgão não constituirá os
+créditos tributários relativos a essas matérias.
+
+Conforme art. 62, XVI, da IN RFB 1500/2014, não haverá retenção de imposto de renda em relação
+às verbas recebidas a título de dano moral.
+
+Simplificando este tema, você deve guardar apenas o seguinte:
+
+
+                                                             Se for maior que o dano, incide
+                                                                           IR.
+
+Recomposição ao Patrimônio Material
+                                                              Se for menor que o dano, não
+                                                                       incide IR.
+
+
+---
+
+Recomposição ao Patrimônio Imaterial                                   Não incide IR.
+
+        Observação: Nós aprenderemos outros casos de indenização na aula específica sobre
+        IRPF.
+
+Se a questão disser que, via de regra, as indenizações são isentas de IR, por não acrescerem o patrimônio
+do contribuinte, a questão estará correta!
+
+17.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem por fato gerador as rendas e proventos de qualquer natureza
+(acréscimos patrimoniais líquidos) auferidos em determinado período de tempo.
+
+Comentário: Conforme estudamos, o fato gerador do IR (e o IRPF é uma das formas de incidência do
+IR) é a aquisição de rendas e proventos de qualquer natureza (acréscimos patrimoniais líquidos)
+auferidos em determinado período de tempo.
+
+Gabarito: Correta
+
+18.QUESTÃO INÉDITA
+Conforme art. 43 do Código Tributário Nacional, o IR tem como fato gerador a aquisição da
+disponibilidade econômica ou jurídica de renda ou proventos de qualquer natureza. Contudo, o STJ já
+se posicionou que o que importa para a ocorrência do fato gerador é a disponibilidade financeira, ou
+seja, que o rendimento se torne efetivamente disponível.
+
+Comentário: De acordo com o STJ, não é necessário que a renda se torne efetivamente disponível para
+que ocorra o fato gerador do IR.
+
+
+---
+
+Gabarito: Errada
+
+19.QUESTÃO INÉDITA
+De acordo com o STJ, não incide imposto de renda sobre os valores percebidos a título de indenização
+por horas extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+
+Comentário: O erro está em dizer que não incide IR sobre horas extras trabalhadas, quando há claro
+aumento patrimonial. Assim entende o STJ.
+
+Gabarito: Errada
+
+20.VUNESP/Câmara Municipal Jaboticabal-SP-Agente Contábil e Financeiro/2015
+O imposto, de competência da União, cujo fato gerador é a aquisição da disponibilidade econômica ou
+jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos; e de
+proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos
+anteriormente, é o
+a) Imposto sobre Bens de Capital e da Renda.
+b) Imposto sobre a Produção e Circulação.
+c) Imposto sobre a Renda e Proventos de Qualquer Natureza.
+d) Imposto sobre Transmissão Inter vivos.
+e) Imposto sobre Operações Financeiras.
+
+Comentário: Trata-se de uma questão bastante direta. O imposto descrito na questão é o Imposto sobre
+a Renda e Proventos de Qualquer Natureza (IR).
+
+Gabarito: Letra C
+21.VUNESP/FUNDAÇÃO CASA-Analista Administrativo/2013
+Segundo o Código Tributário Nacional (CTN), o fato gerador do Imposto de Renda é a aquisição da
+disponibilidade econômica ou jurídica
+a) de renda produzida por trabalho empresarial.
+b) de renda produzida por trabalho individual.
+c) decorrente da venda de bens ou serviços.
+d) de renda e de proventos de qualquer natureza.
+e) decorrente do Lucro Antes do Imposto de Renda (LAIR).
+
+Comentário: De acordo com o art. 43, I e II, do CTN, o fato gerador do Imposto de Renda é a aquisição
+da disponibilidade econômica ou jurídica de renda e de proventos de qualquer natureza.
+
+Gabarito: Letra D
+
+
+---
+
+2 – Base de Cálculo do Imposto de Renda
+
+A base de cálculo do IR, definida no CTN, é seguinte:
+
+       Art. 44. A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos
+       proventos tributáveis.
+
+O dispositivo acima apenas dispôs sobre a base de cálculo do IRPJ, sendo esta o montante real, arbitrado
+ou presumido, da renda ou dos proventos tributáveis. A base de cálculo encontrada varia de acordo com
+a forma de tributação que pode ser a tributação pelo lucro real, o presumido ou o arbitrado.
+
+Temos, ainda, a tributação do IRPJ pelo Simples Nacional, que consiste no Regime Especial Unificado de
+Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte.
+Neste caso, a tributação ocorre pela aplicação de uma alíquota sobre a receita mensal auferida pela
+pessoa jurídica.
+
+Na próxima aula, estudaremos a base de cálculo do IRPF. Apenas para já termos uma noção do que se
+trata, a base de cálculo do IRPF corresponde, de um modo geral, aos rendimentos do trabalho, do capital
+ou da combinação de ambos depois de feitas as deduções e abatimentos dos valores autorizados em lei.
+Ou melhor, é o rendimento bruto subtraído das deduções permitidas em lei.
+
+3 – Contribuintes do Imposto de Renda
+
+O art. 45 do CTN estabelece que o contribuinte do IR é o titular da disponibilidade econômica ou
+jurídica de renda e proventos de qualquer natureza, sem prejuízo de atribuir a lei essa condição ao
+possuidor, a qualquer título, dos bens produtores de renda ou dos proventos tributáveis.
+
+Desse modo, mesmo que a pessoa não seja proprietária do bem produtor de renda, pode se
+revestir na condição de contribuinte, quando seja possuidor de tal bem.
+
+        Observação: O possuidor, ao contrário do proprietário, não possui documento que
+        comprove a qualidade proprietário, mas age como o fosse, uma vez que tem de fato o
+        exercício, pleno ou não, de algum dos poderes inerentes à propriedade (Código Civil,
+        art. 1.196).
+
+Ademais, o par. único do art. 45, do CTN, disciplina que a lei pode atribuir à fonte pagadora da renda ou
+dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento
+lhe caibam. Isso será estudado posteriormente. De momento, apenas memorize essa possibilidade.
+
+Caro aluno(a), finalizamos aqui o conteúdo teórico desta aula. Trata-se de uma aula menor, razão pela
+qual unificaremos as questões em apenas um bloco. Vamos exercitar!
+
+
+---
+
+22.CETRO/TJ-RJ-Titular de Serviços de Notas e de Registros/2012
+É correto afirmar que o imposto de renda
+a) se sujeita ao princípio da noventena.
+b) possui função predominantemente extrafiscal.
+c) tem o seu lançamento por declaração.
+d) tem como fato gerador a aquisição da disponibilidade econômica ou jurídica sobre a renda e
+proventos de qualquer natureza.
+e) incide sobre verbas de natureza indenizatória.
+
+Comentário:
+
+Alternativa A: O IR não se sujeita ao princípio da noventena. Alternativa errada.
+
+Alternativa B: O IR possui nítida função fiscal, isto é, é um imposto com finalidade eminentemente
+arrecadatória. Alternativa errada.
+
+Alternativa C: Embora não tenhamos estudado este tema, que é abordado no Direito Tributário, o IR é
+lançado por homologação, e não por declaração. Alternativa errada.
+
+Alternativa D: Realmente, o fato gerador do imposto de renda é a aquisição da disponibilidade
+econômica ou jurídica sobre a renda e proventos de qualquer natureza. Alternativa correta.
+
+Alternativa E: O IR somente incide sobre acréscimos patrimoniais. As verbas de natureza indenizatória
+não geram acréscimo patrimonial, em regra, não havendo, portanto, incidência do IR. Alternativa errada.
+
+Gabarito: Letra D
+
+23.CESPE/TJ-ES-Titular de Serviços de Notas e de Registros/2013
+O imposto incidente sobre a renda e proventos de qualquer natureza.
+a) deve ser instituído pela União e, subsidiariamente, pelos estados.
+b) é tipicamente regressivo.
+c) deve ser informado pelos critérios da não cumulatividade, universalidade e da progressividade.
+d) tem caráter real.
+e) deve ser informado pelos critérios da generalidade, da universalidade e da progressividade.
+
+Comentário:
+
+
+---
+
+Alternativa A: O IR é instituído apenas pela União. Alternativa errada.
+
+Alternativa B: O IR é um imposto obrigatoriamente progressivo. Alternativa errada.
+
+Alternativa C: O IR deve ser informado pelos critérios da generalidade, universalidade e
+progressividade. Alternativa errada.
+
+Alternativa D: O IR é um imposto pessoal, e não real, pois considera as características da pessoa cuja
+renda é tributada. Alternativa errada.
+
+Alternativa E: Conforme já mencionamos, o IR deve ser informado pelos critérios da generalidade,
+universalidade e progressividade. Alternativa correta.
+
+Gabarito: Letra E
+
+24.CESPE/TC-DF-Procurador/2013
+O fato gerador do imposto sobre a renda e proventos de qualquer natureza é a disponibilidade
+financeira da renda.
+
+Comentário: Tanto a aquisição de disponibilidade econômica (aqui incluída a disponibilidade
+financeira) como a disponibilidade jurídica constituem fato gerador do IR.
+
+Gabarito: Errada
+
+25.CESPE/ANTT-Analista Administrativo/2013
+A fonte pagadora de renda ou dos proventos tributáveis poderá ser instituída em lei como responsável
+pela retenção e recolhimento do imposto de renda.
+
+Comentário: O par. único, do art. 45, do CTN, prevê que a lei pode atribuir à fonte pagadora da renda
+ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe
+caibam.
+
+Gabarito: Correta
+
+26.CESPE/INCA-Analista-Gestão Pública/2010
+A retenção do imposto de renda e do imposto sobre serviços de qualquer natureza está amparada em
+lei complementar. O imposto de renda na fonte está fundamentado no Código Tributário Nacional, que
+atribui à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável pelo imposto,
+cuja retenção e recolhimento lhe cabem.
+
+Comentário: O par. único, do art. 45, do CTN, prevê que a lei pode atribuir à fonte pagadora da renda
+ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe
+caibam.
+
+Gabarito: Correta
+
+27.ESAF/Auditor-TCE-PR/2003
+
+
+---
+
+Em relação ao imposto sobre a renda e proventos de qualquer natureza, é incorreto afirmar que, nos
+termos do Código Tributário Nacional:
+a) A incidência do imposto independe da denominação da receita ou do rendimento, da localização,
+condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+b) Na hipótese de receitas ou rendimentos tributáveis, oriundos do exterior, é facultado ao Poder
+Executivo estabelecer, mediante decreto, as condições e o momento em que se dará sua disponibilidade,
+para fins de incidência do imposto.
+c) A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos proventos
+tributáveis.
+d) Contribuinte do imposto é o titular de disponibilidade econômica ou jurídica de renda ou de
+proventos de qualquer natureza, sem prejuízo de a lei atribuir essa condição ao possuidor, a qualquer
+título, dos bens produtores de renda ou dos proventos tributáveis.
+e) A lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável
+pelo imposto cuja retenção e recolhimento lhe caibam.
+
+Comentário:
+
+Alternativa A: De acordo com o art. 43, § 1º do CTN. Item correto.
+
+Alternativa B: Conforme vimos, embora os rendimentos oriundos do exterior também sejam sujeitos à
+tributação pelo IR, somente a lei pode estabelecer o momento e as condições em que estarão disponíveis
+para fins de incidência de IR. Item errado.
+
+Alternativa C: De acordo com o art. 44 do CTN. Item correto.
+
+Alternativa D: De acordo com o caput do art. 45 do CTN. Item correto.
+
+Alternativa E: De acordo com o parágrafo único do art. 45 do CTN. Item correto.
+
+Gabarito: Letra B
+
+28.ESAF/AFRF/2005-Adaptada
+Para os efeitos do imposto de renda, o _____(I)_____ percebido na alienação de bens imóveis considera-se
+_____(II)_____. Já a importância paga a título de aluguel, remetida, creditada, empregada ou entregue ao
+contribuinte, produzido por bens imóveis é denominada ___(III)___. Um(a) ____(IV)__, na linguagem
+tributária, é o valor percebido independentemente de ser produzido pelo capital ou o trabalho do
+contribuinte.
+a) rendimento....rendimento de capital........ganho imobiliário....sinecura
+b) rendimento....rendimento de capital.......ganho imobiliário....prebenda
+c) ganho ....ganho de capital......rendimento de capital.... provento
+d) ganho....ganho de capital.......rendimento de capital.... sinecura
+e) provento.......rendimento imobiliário.......provento predial....provento
+
+
+---
+
+Comentário: O único enquadramento para os itens I e II (devem ser interpretados conjuntamente) é
+rendimento e ganho de capital. Por sua vez (apenas a título de observação), os ganhos de capital
+constituem uma forma de renda.
+
+Já o item III refere-se ao produto do capital, sendo, então, rendimento de capital. Em relação ao item IV,
+é o valor percebido, independentemente de ser produzido pelo capital ou o trabalho do contribuinte.
+Ora, só pode ser o provento. O gabarito, portanto, é a Letra C.
+
+DICA DE PROVA: O candidato atento consegue resolver essa questão, mesmo não sabendo todos os
+conceitos (embora você, a partir de agora, já saiba). Analise novamente as alternativas e veja as
+possibilidades que você teria de resolvê-las, ainda que não dominasse por completo o assunto.
+Gabarito: Letra C
+
+É isso por hoje pessoal! Ficamos por aqui!
+
+Um abraço e até a próxima aula!
+
+
+---
+
+                                 RESUMO DA AULA
+
+Conceitos Básicos sobre o IR
+
+   O IR é um imposto com marcante finalidade fiscal, isto é, o seu objetivo principal é carrear
+    recursos aos cofres públicos.
+
+   O IR é um tributo não contraprestacional (ou simplesmente não vinculado), podendo ser cobrado,
+    independentemente de o Estado ter ou não prestado qualquer atividade em benefício do
+    contribuinte.
+
+   O IR é um tributo de arrecadação não vinculada, ou seja, o destino dos recursos arrecadados não
+    está vinculado ao custeio de alguma atividade específica.
+
+   O IR é um tributo que deve obedecer aos seguintes critérios: generalidade (todas as pessoas),
+    universalidade (todas os rendimentos) e progressividade (aumento de alíquotas conforme o
+    aumento da base de cálculo).
+
+
+PRINCÍPIOS CONSTITUCIONAIS APLICÁVEIS AO IMPOSTO DE
+RENDA
+
+   Aplica-se o princípio da legalidade, sem qualquer mitigação para alteração de alíquotas.
+
+   Aplica-se o princípio da isonomia e capacidade contributiva.
+
+   Sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade
+    econômica do contribuinte.
+
+   Aplica-se o princípio da vedação ao efeito de confisco (devendo ser considerada a totalidade da carga
+    tributária do sujeito passivo para sua averiguação, e não um tributo isoladamente).
+
+       Aplica-se o princípio da irretroatividade  impede cobrar tributos em relação aos fatos
+        geradores ocorridos antes do início da vigência da lei que os instituiu ou majorou.
+       Aplica-se o princípio da Anterioridade Anual  impede cobrar tributos no mesmo ano da
+        publicação da lei que os tenha instituído ou majorado.
+       Não se aplica o princípio da Anterioridade Nonagesimal  que impediria cobrar tributos
+        antes de 90 dias a partir da publicação da lei que os tenha instituído ou majorado.
+
+
+---
+
+O IR E AS DIRETRIZES DO CTN
+
+      CF/88 e CTN                 Não instituem tributos
+
+
+         CF/88                    Apenas confere a competência tributária
+
+          CTN                     Define normas gerais de Direito Tributário
+
+   O fato gerador do IR é a aquisição de disponibilidade econômica ou jurídica:
+
+       I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+
+       II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não
+       compreendidos no inciso anterior.
+
+Incide IR  Independentemente da denominação, da origem e da forma de percepção da receita ou
+rendimento.
+
+Incide IR  Independentemente da localização, condição jurídica ou nacionalidade da fonte da receita
+ou do rendimento.
+
+   O IR incide sobre receita e rendimentos oriundos do exterior.
+
+   É a lei que estabelece as condições e o momento em que esse ganhos se consideram disponibilizados.
+
+
+---
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1.QUESTÃO INÉDITA
+Sempre que possível, os tributos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte.
+
+Comentário: Essa “pegadinha” é clássica em provas, pois muitos ainda associam “tributos” como
+sinônimos de “impostos”. Tenha muita atenção na prova!
+
+Gabarito: Errada
+
+2.ESAF/ACE-MDIC/2012
+O princípio da capacidade contributiva, que informa o ordenamento jurídico tributário, estabelece que,
+sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte, facultado à administração tributária, especialmente para conferir
+efetividade a esses objetivos, identiﬁcar, respeitados os direitos individuais e nos termos da lei, o
+patrimônio, os rendimentos e as atividades econômicas do contribuinte. Sobre ele, assinale a opção
+incorreta.
+a) Tal princípio aplica-se somente às pessoas físicas.
+b) Constitui subprincípio do princípio da solidariedade.
+c) Visa, entre outros objetivos, a assegurar o mínimo vital, ou mínimo existencial.
+d) Constitui subprincípio do princípio da igualdade.
+e) É compatível com a progressividade de alíquotas.
+
+Comentário:
+
+A questão aborda o princípio da capacidade contributiva aplicável ao imposto de renda.
+
+Alternativa A: Isso não é verdade. Veremos, ao estudar o IRPJ, que as pessoas jurídicas que apurarem,
+mensalmente, base de cálculo do imposto superior a R$ 20.000, ficam sujeitas a uma alíquota adicional.
+Isso não é nada mais do que adequação do IRPJ ao princípio da capacidade contributiva. Item errado.
+
+Alternativa B: Podemos dizer que o princípio da capacidade contributiva constitui subprincípio do
+princípio da solidariedade, pois aquele busca a justiça fiscal, ao graduar a tributação conforme a
+manifestação de riqueza do contribuinte. Quem possui mais riqueza contribui de forma mais acentuada,
+a fim de que os recursos arrecadados sejam utilizados em prol daqueles que deles mais necessitam. Item
+correto.
+
+Alternativa C: Sem dúvidas, um dos objetivos da capacidade contributiva é assegurar o mínimo
+existencial dos cidadãos. Seguindo essa diretriz, a tabela progressiva do IRPF possui um limite para que
+os rendimentos abaixo dele estejam isentos à tributação. Item correto.
+
+Alternativa D: O princípio da igualdade consiste em conceder tratamento igual aos que são que estão
+em situação equivalente, e tratamento desigual na medida em que se desigualam. Dessa forma, o
+princípio da capacidade contributiva pode ser considerado subprincípio da igualdade. Item correto.
+
+
+---
+
+Alternativa E: Em decorrência do que comentamos na assertiva D, a progressividade de alíquotas tem
+como função desigualar os que não se encontram em situações equivalentes. Item correto.
+
+Gabarito: Letra A
+
+3.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem alíquota proporcional, pois as alíquotas vão aumentando
+gradativamente, conforme vai aumentando a base de cálculo, que é a renda ou provento de qualquer
+natureza.
+
+Comentário: Na realidade, trata-se da progressividade, pelo fato de as alíquotas aumentarem conforme
+maior seja a base de cálculo do imposto.
+
+Gabarito: Errada
+
+4.CESPE/JUIZ FEDERAL-5ª REGIÃO/2013
+O IR será norteado pelos critérios da generalidade, da seletividade e da progressividade, na forma da
+lei.
+
+Comentário: Os critérios que nortearão o IR são: generalidade, universalidade e progressividade.
+
+Gabarito: Errada
+
+5.ESAF/PFN/2004
+O imposto sobre renda e proventos de qualquer natureza sujeita-se aos princípios da generalidade,
+uniformidade e progressividade.
+
+Comentário: O IR sujeita-se aos princípios da generalidade, universalidade – e não uniformidade – e
+progressividade. Cuidado com pegadinhas!
+
+Gabarito: Errada
+
+6.ESAF/AFRF/2002
+A Constituição determina que o imposto de renda seja informado pelo critério de que aquele que ganhe
+mais deverá pagar de imposto uma proporção maior do que aquele que ganhe menos.
+
+Comentário: Um dos critérios definidos no art. 153, § 2º, I, é o da progressividade, segundo o qual,
+quem ganha mais deve pagar proporcionalmente mais do que aquele que ganhe menos.
+
+Gabarito: Correta
+
+7.ESAF/TRF/2002
+O imposto sobre a renda e proventos de qualquer natureza, de competência da União, deve ser
+informado pelos critérios da progressividade e da especialidade.
+
+Comentário: De acordo com o art. 153, § 2º, da CF/88, o Imposto de Renda será informado pelos
+critérios da generalidade, da universalidade e da progressividade, na forma da lei.
+
+
+---
+
+Gabarito: Errada
+
+8.ESAF/TRF/2003
+O critério da progressividade do imposto de renda está sintonizado com a capacidade econômica do
+contribuinte e observa o caráter pessoal previsto na
+Constituição.
+
+Comentário: A progressividade de alíquotas é uma forma de graduar o IR conforme a capacidade
+contributiva de cada um. Por conseguinte, há a observância do caráter pessoal previsto na CF/88 (art.
+145, § 1º).
+
+Gabarito: Correta
+
+9.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física pode ser instituído somente por lei complementar e não deve
+obediência à anterioridade anual e nonagesimal.
+
+Comentário: O IR pode ser instituído por lei ordinária e deve obediência ao princípio da anterioridade
+anual, embora constitua exceção ao princípio da anterioridade nonagesimal.
+
+Gabarito: Errada
+
+10.ESAF/TTN/1998 - Adaptada
+No que diz respeito ao Imposto sobre a Renda e Proventos de Qualquer Natureza, pode-se afirmar,
+exceto, que
+a) deve ser progressivo, aumentando a alíquota à medida que se eleva a base de cálculo.
+b) deve obedecer aos critérios da universalidade e da generalidade.
+c) deve obedecer aos princípios da capacidade contributiva, irretroatividade e anterioridade, entre
+outras.
+d) não pode ter suas alíquotas alteradas pelo Poder Executivo.
+e) não pode prever hipóteses de isenção, sob pena de violar-se o princípio da igualdade.
+
+Comentário:
+
+Alternativa A: Deveras, o IR deve ser progressivo, por expressa disposição constitucional. Item correto.
+
+Alternativa B: Tal como a imposição de ser progressivo, o IR também deve obedecer aos critérios da
+universalidade e da generalidade. Item correto.
+
+Alternativa C: Trata-se dos princípios estudados durante a aula, que são aplicáveis ao IR. Item correto.
+
+Alternativa D: Perfeito! O IR não pode mesmo ter suas alíquotas alteradas pelo Poder Executivo. Item
+correto.
+
+
+---
+
+Alternativa E: O princípio da igualdade não impede a criação de isenções, justamente porque a
+isonomia não se traduz na aplicação das mesmas regras a pessoas com capacidades contributivas
+distintas. Item errado.
+
+Gabarito: Letra E
+
+11.ESAF/TRF/2003
+O princípio constitucional da anterioridade significa que a lei tributária não se aplica aos fatos geradores
+anteriores à sua publicação.
+
+Comentário: O princípio da anterioridade veda a cobrança de tributos no mesmo exercício financeiro
+em que haja sido publicada a lei que os instituiu ou aumentou. A assertiva se refere ao princípio da
+irretroatividade.
+
+Gabarito: Errada
+
+12.ESAF/TRF/2003
+Em atendimento às normas constitucionais relativas aos impostos de competência da União, para fins
+de incidência do imposto de renda, devem ser deduzidos da renda recebida todos os valores pagos,
+necessários à sua percepção, atendendo-se, assim, o princípio da não-cumulatividade.
+
+Comentário: Não caia nessa, candidato. O princípio da não cumulatividade não é aplicável ao IR, até
+porque este é um imposto direto (não há transferência do encargo financeiro a outra pessoa). Sobre as
+possibilidades de dedução da base de cálculo do IR, não se preocupe, pois trataremos disso no nosso
+curso.
+
+Gabarito: Errada
+
+13.ESAF/TRF/2003
+Para atender a despesas extraordinárias decorrentes de calamidade pública, em janeiro do ano de 200X,
+o Congresso Nacional aprovou uma lei complementar que instituiu um imposto de renda adicional, à
+alíquota de 5%, a ser cobrado imediatamente, incidente sobre quaisquer rendimentos de pessoas
+físicas. Esse imposto, cobrado de forma definitiva (o que significa que não é deduzido do imposto
+apurado na declaração anual de rendimentos), não exclui a incidência do imposto de renda segundo a
+tabela progressiva.
+Considerando a situação descrita, assinale as proposições abaixo com F para falsa ou V para verdadeira
+e, a seguir, indique a opção que contém a seqüência correta.
+( ) A lei em questão não atende o critério da progressividade.
+( ) Dada a situação de urgência e excepcionalidade, o Congresso pode editar uma lei nessas condições,
+sem observar o princípio da anterioridade.
+( ) A lei em questão está informada pelos critérios da generalidade, da universalidade e da seletividade.
+a) F, F, V
+b) V, V, F
+c) F, V, F
+d) V, F, V
+
+
+---
+
+e) V, F, F
+
+Comentário:
+
+Item I: De fato, a lei não atende ao critério da progressividade, pois foi estipulada uma alíquota única,
+de forma que o tributo em questão será “proporcional”. Item correto.
+
+Item II: Esse tributo supostamente instituído é “muito louco”, caro candidato. De imediato, já podemos
+dizer que imposto é um tributo de arrecadação não vinculada (salvo hipóteses previstas no art. 167, IV,
+da CF/88). Por esse motivo, não seria possível instituir imposto para atender a despesas decorrentes de
+calamidade pública.
+
+Ignorando o argumento acima, também não poderia ser enquadrado como imposto residual, embora
+seja instituído por lei complementar, pois deveria ter tido base de cálculo e fato gerador diferentes dos
+demais impostos discriminados na CF/88. Mesmo assim, essa parece ser a solução mais viável para se
+chegar ao gabarito da questão.
+
+“Mas, professor, não poderia ser empréstimo compulsório”? Poderia, até porque a denominação do
+tributo não é suficiente para determinar sua natureza jurídica (art. 4º do CTN). Além disso, foi instituído
+por lei complementar.
+
+Contudo, diante dessa hipótese autorizadora (calamidade pública), não seria necessário obedecer ao
+princípio da anterioridade, já que nesse caso a exação pode ser exigida imediatamente. Afinal, como a
+banca considerou este item como errado, inferimos que o referido tributo se submete ao princípio da
+anterioridade, o que não condiz com as regras do empréstimo compulsório instituído para custear
+calamidade pública.
+
+Fiquemos, pois, com a possibilidade de ser imposto de renda (um adicional, talvez), estando sujeito ao
+princípio da anterioridade. Item errado.
+
+Item III: Nada foi dito no enunciado a respeito da seletividade. Item errado.
+
+Sendo assim, a sequência é V, F, F.
+
+Gabarito: Letra E
+
+14.ESAF/TRF/2002
+De acordo com o princípio da anterioridade, sobrevindo lei que aumente o imposto de renda e preveja
+expressamente sua entrada em vigor para a data de sua publicação, o imposto decorrente do aumento
+pode ser cobrado imediatamente a partir da data da publicação, porém sem alcançar fatos geradores
+ocorridos anteriormente.
+
+Comentário: A questão menciona o princípio da anterioridade. Contudo, disserta sobre as
+características do princípio da irretroatividade.
+
+Gabarito: Errada
+
+15.QUESTÃO INÉDITA
+
+
+---
+
+Devido ao fato de o CTN estabelecer os fatos geradores, a base de cálculo e os contribuintes do Imposto
+de Renda, pode-se afirmar que esta é a lei instituidora do IR.
+
+Comentário: O CTN não institui qualquer tributo, mas apenas define os parâmetros para a sua
+instituição (fatos geradores, base de cálculo e contribuintes).
+
+Gabarito: Errada
+
+16.QUESTÃO INÉDITA
+Na hipótese de receita ou de rendimento oriundos do exterior, o Poder Executivo estabelecerá as
+condições e o momento em que se dará sua disponibilidade, para fins de incidência do IR.
+
+Comentário: Trata-se de mais uma típica “pegadinha” sobre o IR. É a lei, e não o Poder Executivo.
+
+Gabarito: Errada
+
+17.FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem por fato gerador as rendas e proventos de qualquer natureza
+(acréscimos patrimoniais líquidos) auferidos em determinado período de tempo.
+
+Comentário: Conforme estudamos, o fato gerador do IR (e o IRPF é uma das formas de incidência do
+IR) é a aquisição de rendas e proventos de qualquer natureza (acréscimos patrimoniais líquidos)
+auferidos em determinado período de tempo.
+
+Gabarito: Correta
+
+18.QUESTÃO INÉDITA
+Conforme art. 43 do Código Tributário Nacional, o IR tem como fato gerador a aquisição da
+disponibilidade econômica ou jurídica de renda ou proventos de qualquer natureza. Contudo, o STJ já
+se posicionou que o que importa para a ocorrência do fato gerador é a disponibilidade financeira, ou
+seja, que o rendimento se torne efetivamente disponível.
+
+Comentário: De acordo com o STJ, não é necessário que a renda se torne efetivamente disponível para
+que ocorra o fato gerador do IR.
+
+Gabarito: Errada
+
+19.QUESTÃO INÉDITA
+De acordo com o STJ, não incide imposto de renda sobre os valores percebidos a título de indenização
+por horas extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+
+Comentário: O erro está em dizer que não incide IR sobre horas extras trabalhadas, quando há claro
+aumento patrimonial. Assim entende o STJ.
+
+Gabarito: Errada
+
+
+---
+
+20.VUNESP/Câmara Municipal Jaboticabal-SP-Agente Contábil e Financeiro/2015
+O imposto, de competência da União, cujo fato gerador é a aquisição da disponibilidade econômica ou
+jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos; e de
+proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos
+anteriormente, é o
+a) Imposto sobre Bens de Capital e da Renda.
+b) Imposto sobre a Produção e Circulação.
+c) Imposto sobre a Renda e Proventos de Qualquer Natureza.
+d) Imposto sobre Transmissão Inter vivos.
+e) Imposto sobre Operações Financeiras.
+
+Comentário: Trata-se de uma questão bastante direta. O imposto descrito na questão é o Imposto sobre
+a Renda e Proventos de Qualquer Natureza (IR).
+
+Gabarito: Letra C
+21.VUNESP/FUNDAÇÃO CASA-Analista Administrativo/2013
+Segundo o Código Tributário Nacional (CTN), o fato gerador do Imposto de Renda é a aquisição da
+disponibilidade econômica ou jurídica
+a) de renda produzida por trabalho empresarial.
+b) de renda produzida por trabalho individual.
+c) decorrente da venda de bens ou serviços.
+d) de renda e de proventos de qualquer natureza.
+e) decorrente do Lucro Antes do Imposto de Renda (LAIR).
+
+Comentário: De acordo com o art. 43, I e II, do CTN, o fato gerador do Imposto de Renda é a aquisição
+da disponibilidade econômica ou jurídica de renda e de proventos de qualquer natureza.
+
+Gabarito: Letra D
+22.CETRO/TJ-RJ-Titular de Serviços de Notas e de Registros/2012
+É correto afirmar que o imposto de renda
+a) se sujeita ao princípio da noventena.
+b) possui função predominantemente extrafiscal.
+c) tem o seu lançamento por declaração.
+d) tem como fato gerador a aquisição da disponibilidade econômica ou jurídica sobre a renda e
+proventos de qualquer natureza.
+e) incide sobre verbas de natureza indenizatória.
+
+Comentário:
+
+Alternativa A: O IR não se sujeita ao princípio da noventena. Alternativa errada.
+
+
+---
+
+Alternativa B: O IR possui nítida função fiscal, isto é, é um imposto com finalidade eminentemente
+arrecadatória. Alternativa errada.
+
+Alternativa C: Embora não tenhamos estudado este tema, que é abordado no Direito Tributário, o IR é
+lançado por homologação, e não por declaração. Alternativa errada.
+
+Alternativa D: Realmente, o fato gerador do imposto de renda é a aquisição da disponibilidade
+econômica ou jurídica sobre a renda e proventos de qualquer natureza. Alternativa correta.
+
+Alternativa E: O IR somente incide sobre acréscimos patrimoniais. As verbas de natureza indenizatória
+não geram acréscimo patrimonial, em regra, não havendo, portanto, incidência do IR. Alternativa errada.
+
+Gabarito: Letra D
+
+23.CESPE/TJ-ES-Titular de Serviços de Notas e de Registros/2013
+O imposto incidente sobre a renda e proventos de qualquer natureza.
+a) deve ser instituído pela União e, subsidiariamente, pelos estados.
+b) é tipicamente regressivo.
+c) deve ser informado pelos critérios da não cumulatividade, universalidade e da progressividade.
+d) tem caráter real.
+e) deve ser informado pelos critérios da generalidade, da universalidade e da progressividade.
+
+Comentário:
+
+Alternativa A: O IR é instituído apenas pela União. Alternativa errada.
+
+Alternativa B: O IR é um imposto obrigatoriamente progressivo. Alternativa errada.
+
+Alternativa C: O IR deve ser informado pelos critérios da generalidade, universalidade e
+progressividade. Alternativa errada.
+
+Alternativa D: O IR é um imposto pessoal, e não real, pois considera as características da pessoa cuja
+renda é tributada. Alternativa errada.
+
+Alternativa E: Conforme já mencionamos, o IR deve ser informado pelos critérios da generalidade,
+universalidade e progressividade. Alternativa correta.
+
+Gabarito: Letra E
+
+24.CESPE/TC-DF-Procurador/2013
+O fato gerador do imposto sobre a renda e proventos de qualquer natureza é a disponibilidade
+financeira da renda.
+
+Comentário: Tanto a aquisição de disponibilidade econômica (aqui incluída a disponibilidade
+financeira) como a disponibilidade jurídica constituem fato gerador do IR.
+
+Gabarito: Errada
+
+
+---
+
+25.CESPE/ANTT-Analista Administrativo/2013
+A fonte pagadora de renda ou dos proventos tributáveis poderá ser instituída em lei como responsável
+pela retenção e recolhimento do imposto de renda.
+
+Comentário: O par. único, do art. 45, do CTN, prevê que a lei pode atribuir à fonte pagadora da renda
+ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe
+caibam.
+
+Gabarito: Correta
+
+26.CESPE/INCA-Analista-Gestão Pública/2010
+A retenção do imposto de renda e do imposto sobre serviços de qualquer natureza está amparada em
+lei complementar. O imposto de renda na fonte está fundamentado no Código Tributário Nacional, que
+atribui à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável pelo imposto,
+cuja retenção e recolhimento lhe cabem.
+
+Comentário: O par. único, do art. 45, do CTN, prevê que a lei pode atribuir à fonte pagadora da renda
+ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe
+caibam.
+
+Gabarito: Correta
+
+27.ESAF/Auditor-TCE-PR/2003
+Em relação ao imposto sobre a renda e proventos de qualquer natureza, é incorreto afirmar que, nos
+termos do Código Tributário Nacional:
+a) A incidência do imposto independe da denominação da receita ou do rendimento, da localização,
+condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+b) Na hipótese de receitas ou rendimentos tributáveis, oriundos do exterior, é facultado ao Poder
+Executivo estabelecer, mediante decreto, as condições e o momento em que se dará sua disponibilidade,
+para fins de incidência do imposto.
+c) A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos proventos
+tributáveis.
+d) Contribuinte do imposto é o titular de disponibilidade econômica ou jurídica de renda ou de
+proventos de qualquer natureza, sem prejuízo de a lei atribuir essa condição ao possuidor, a qualquer
+título, dos bens produtores de renda ou dos proventos tributáveis.
+e) A lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável
+pelo imposto cuja retenção e recolhimento lhe caibam.
+
+Comentário:
+
+Alternativa A: De acordo com o art. 43, § 1º do CTN. Item correto.
+
+Alternativa B: Conforme vimos, embora os rendimentos oriundos do exterior também sejam sujeitos à
+tributação pelo IR, somente a lei pode estabelecer o momento e as condições em que estarão disponíveis
+para fins de incidência de IR. Item errado.
+
+
+---
+
+Alternativa C: De acordo com o art. 44 do CTN. Item correto.
+
+Alternativa D: De acordo com o caput do art. 45 do CTN. Item correto.
+
+Alternativa E: De acordo com o parágrafo único do art. 45 do CTN. Item correto.
+
+Gabarito: Letra B
+
+28.ESAF/AFRF/2005-Adaptada
+Para os efeitos do imposto de renda, o _____(I)_____ percebido na alienação de bens imóveis considera-se
+_____(II)_____. Já a importância paga a título de aluguel, remetida, creditada, empregada ou entregue ao
+contribuinte, produzido por bens imóveis é denominada ___(III)___. Um(a) ____(IV)__, na linguagem
+tributária, é o valor percebido independentemente de ser produzido pelo capital ou o trabalho do
+contribuinte.
+a) rendimento....rendimento de capital........ganho imobiliário....sinecura
+b) rendimento....rendimento de capital.......ganho imobiliário....prebenda
+c) ganho ....ganho de capital......rendimento de capital.... provento
+d) ganho....ganho de capital.......rendimento de capital.... sinecura
+e) provento.......rendimento imobiliário.......provento predial....provento
+
+Comentário: O único enquadramento para os itens I e II (devem ser interpretados conjuntamente) é
+rendimento e ganho de capital. Por sua vez (apenas a título de observação), os ganhos de capital
+constituem uma forma de renda.
+
+Já o item III refere-se ao produto do capital, sendo, então, rendimento de capital. Em relação ao item IV,
+é o valor percebido, independentemente de ser produzido pelo capital ou o trabalho do contribuinte.
+Ora, só pode ser o provento. O gabarito, portanto, é a Letra C.
+
+DICA DE PROVA: O candidato atento consegue resolver essa questão, mesmo não sabendo todos os
+conceitos (embora você, a partir de agora, já saiba). Analise novamente as alternativas e veja as
+possibilidades que você teria de resolvê-las, ainda que não dominasse por completo o assunto.
+Gabarito: Letra C
+
+
+---
+
+         LISTA DAS QUESTÕES COMPLEMENTARES
+
+
+     1. QUESTÃO INÉDITA
+Sempre que possível, os tributos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte.
+
+
+2.      ESAF/ACE-MDIC/2012
+O princípio da capacidade contributiva, que informa o ordenamento jurídico tributário, estabelece que,
+sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a capacidade
+econômica do contribuinte, facultado à administração tributária, especialmente para conferir
+efetividade a esses objetivos, identiﬁcar, respeitados os direitos individuais e nos termos da lei, o
+patrimônio, os rendimentos e as atividades econômicas do contribuinte. Sobre ele, assinale a opção
+incorreta.
+a) Tal princípio aplica-se somente às pessoas físicas.
+b) Constitui subprincípio do princípio da solidariedade.
+c) Visa, entre outros objetivos, a assegurar o mínimo vital, ou mínimo existencial.
+d) Constitui subprincípio do princípio da igualdade.
+e) É compatível com a progressividade de alíquotas.
+
+3.      FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem alíquota proporcional, pois as alíquotas vão aumentando
+gradativamente, conforme vai aumentando a base de cálculo, que é a renda ou provento de qualquer
+natureza.
+
+
+4.      CESPE/JUIZ FEDERAL-5ª REGIÃO/2013
+O IR será norteado pelos critérios da generalidade, da seletividade e da progressividade, na forma da
+lei.
+
+
+5.      ESAF/PFN/2004
+O imposto sobre renda e proventos de qualquer natureza sujeita-se aos princípios da generalidade,
+uniformidade e progressividade.
+
+
+6.      ESAF/AFRF/2002
+A Constituição determina que o imposto de renda seja informado pelo critério de que aquele que ganhe
+mais deverá pagar de imposto uma proporção maior do que aquele que ganhe menos.
+
+
+---
+
+7.     ESAF/TRF/2002
+O imposto sobre a renda e proventos de qualquer natureza, de competência da União, deve ser
+informado pelos critérios da progressividade e da especialidade.
+
+
+8.     ESAF/TRF/2003
+O critério da progressividade do imposto de renda está sintonizado com a capacidade econômica do
+contribuinte e observa o caráter pessoal previsto na
+Constituição.
+
+
+9.     FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física pode ser instituído somente por lei complementar e não deve
+obediência à anterioridade anual e nonagesimal.
+
+
+10.    ESAF/TTN/1998 - Adaptada
+No que diz respeito ao Imposto sobre a Renda e Proventos de Qualquer Natureza, pode-se afirmar,
+exceto, que
+a) deve ser progressivo, aumentando a alíquota à medida que se eleva a base de cálculo.
+b) deve obedecer aos critérios da universalidade e da generalidade.
+c) deve obedecer aos princípios da capacidade contributiva, irretroatividade e anterioridade, entre
+outras.
+d) não pode ter suas alíquotas alteradas pelo Poder Executivo.
+e) não pode prever hipóteses de isenção, sob pena de violar-se o princípio da igualdade.
+
+
+11.    ESAF/TRF/2003
+O princípio constitucional da anterioridade significa que a lei tributária não se aplica aos fatos geradores
+anteriores à sua publicação.
+
+
+12.    ESAF/TRF/2003
+Em atendimento às normas constitucionais relativas aos impostos de competência da União, para fins
+de incidência do imposto de renda, devem ser deduzidos da renda recebida todos os valores pagos,
+necessários à sua percepção, atendendo-se, assim, o princípio da não-cumulatividade.
+
+
+13.    ESAF/TRF/2003
+Para atender a despesas extraordinárias decorrentes de calamidade pública, em janeiro do ano de 200X,
+o Congresso Nacional aprovou uma lei complementar que instituiu um imposto de renda adicional, à
+alíquota de 5%, a ser cobrado imediatamente, incidente sobre quaisquer rendimentos de pessoas
+físicas. Esse imposto, cobrado de forma definitiva (o que significa que não é deduzido do imposto
+
+
+---
+
+apurado na declaração anual de rendimentos), não exclui a incidência do imposto de renda segundo a
+tabela progressiva.
+Considerando a situação descrita, assinale as proposições abaixo com F para falsa ou V para verdadeira
+e, a seguir, indique a opção que contém a seqüência correta.
+( ) A lei em questão não atende o critério da progressividade.
+( ) Dada a situação de urgência e excepcionalidade, o Congresso pode editar uma lei nessas condições,
+sem observar o princípio da anterioridade.
+( ) A lei em questão está informada pelos critérios da generalidade, da universalidade e da seletividade.
+a) F, F, V
+b) V, V, F
+c) F, V, F
+d) V, F, V
+e) V, F, F
+
+
+14.     ESAF/TRF/2002
+De acordo com o princípio da anterioridade, sobrevindo lei que aumente o imposto de renda e preveja
+expressamente sua entrada em vigor para a data de sua publicação, o imposto decorrente do aumento
+pode ser cobrado imediatamente a partir da data da publicação, porém sem alcançar fatos geradores
+ocorridos anteriormente.
+
+15.     QUESTÃO INÉDITA
+Devido ao fato de o CTN estabelecer os fatos geradores, a base de cálculo e os contribuintes do Imposto
+de Renda, pode-se afirmar que esta é a lei instituidora do IR.
+
+
+16.     QUESTÃO INÉDITA
+Na hipótese de receita ou de rendimento oriundos do exterior, o Poder Executivo estabelecerá as
+condições e o momento em que se dará sua disponibilidade, para fins de incidência do IR.
+
+17.     FCC/PGE-BA-Analista de Procuradoria/2013
+O Imposto de Renda de Pessoa Física tem por fato gerador as rendas e proventos de qualquer natureza
+(acréscimos patrimoniais líquidos) auferidos em determinado período de tempo.
+
+
+18.     QUESTÃO INÉDITA
+Conforme art. 43 do Código Tributário Nacional, o IR tem como fato gerador a aquisição da
+disponibilidade econômica ou jurídica de renda ou proventos de qualquer natureza. Contudo, o STJ já
+se posicionou que o que importa para a ocorrência do fato gerador é a disponibilidade financeira, ou
+seja, que o rendimento se torne efetivamente disponível.
+
+
+---
+
+19.    QUESTÃO INÉDITA
+De acordo com o STJ, não incide imposto de renda sobre os valores percebidos a título de indenização
+por horas extraordinárias trabalhadas, ainda que decorrentes de acordo coletivo.
+
+
+20.    VUNESP/Câmara Municipal Jaboticabal-SP-Agente Contábil e Financeiro/2015
+O imposto, de competência da União, cujo fato gerador é a aquisição da disponibilidade econômica ou
+jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos; e de
+proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos
+anteriormente, é o
+a) Imposto sobre Bens de Capital e da Renda.
+b) Imposto sobre a Produção e Circulação.
+c) Imposto sobre a Renda e Proventos de Qualquer Natureza.
+d) Imposto sobre Transmissão Inter vivos.
+e) Imposto sobre Operações Financeiras.
+
+
+21.    VUNESP/FUNDAÇÃO CASA-Analista Administrativo/2013
+Segundo o Código Tributário Nacional (CTN), o fato gerador do Imposto de Renda é a aquisição da
+disponibilidade econômica ou jurídica
+a) de renda produzida por trabalho empresarial.
+b) de renda produzida por trabalho individual.
+c) decorrente da venda de bens ou serviços.
+d) de renda e de proventos de qualquer natureza.
+e) decorrente do Lucro Antes do Imposto de Renda (LAIR).
+
+22.    CETRO/TJ-RJ-Titular de Serviços de Notas e de Registros/2012
+É correto afirmar que o imposto de renda
+a) se sujeita ao princípio da noventena.
+b) possui função predominantemente extrafiscal.
+c) tem o seu lançamento por declaração.
+d) tem como fato gerador a aquisição da disponibilidade econômica ou jurídica sobre a renda e
+proventos de qualquer natureza.
+e) incide sobre verbas de natureza indenizatória.
+
+23.    CESPE/TJ-ES-Titular de Serviços de Notas e de Registros/2013
+
+
+---
+
+O imposto incidente sobre a renda e proventos de qualquer natureza.
+a) deve ser instituído pela União e, subsidiariamente, pelos estados.
+b) é tipicamente regressivo.
+c) deve ser informado pelos critérios da não cumulatividade, universalidade e da progressividade.
+d) tem caráter real.
+e) deve ser informado pelos critérios da generalidade, da universalidade e da progressividade.
+
+
+24.    CESPE/TC-DF-Procurador/2013
+O fato gerador do imposto sobre a renda e proventos de qualquer natureza é a disponibilidade
+financeira da renda.
+
+
+25.    CESPE/ANTT-Analista Administrativo/2013
+A fonte pagadora de renda ou dos proventos tributáveis poderá ser instituída em lei como responsável
+pela retenção e recolhimento do imposto de renda.
+
+
+26.    CESPE/INCA-Analista-Gestão Pública/2010
+A retenção do imposto de renda e do imposto sobre serviços de qualquer natureza está amparada em
+lei complementar. O imposto de renda na fonte está fundamentado no Código Tributário Nacional, que
+atribui à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável pelo imposto,
+cuja retenção e recolhimento lhe cabem.
+
+27.    ESAF/Auditor-TCE-PR/2003
+Em relação ao imposto sobre a renda e proventos de qualquer natureza, é incorreto afirmar que, nos
+termos do Código Tributário Nacional:
+a) A incidência do imposto independe da denominação da receita ou do rendimento, da localização,
+condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+b) Na hipótese de receitas ou rendimentos tributáveis, oriundos do exterior, é facultado ao Poder
+Executivo estabelecer, mediante decreto, as condições e o momento em que se dará sua disponibilidade,
+para fins de incidência do imposto.
+c) A base de cálculo do imposto é o montante, real, arbitrado ou presumido, da renda ou dos proventos
+tributáveis.
+d) Contribuinte do imposto é o titular de disponibilidade econômica ou jurídica de renda ou de
+proventos de qualquer natureza, sem prejuízo de a lei atribuir essa condição ao possuidor, a qualquer
+título, dos bens produtores de renda ou dos proventos tributáveis.
+e) A lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável
+pelo imposto cuja retenção e recolhimento lhe caibam.
+28.    ESAF/AFRF/2005-Adaptada
+
+
+---
+
+Para os efeitos do imposto de renda, o _____(I)_____ percebido na alienação de bens imóveis considera-se
+_____(II)_____. Já a importância paga a título de aluguel, remetida, creditada, empregada ou entregue ao
+contribuinte, produzido por bens imóveis é denominada ___(III)___. Um(a) ____(IV)__, na linguagem
+tributária, é o valor percebido independentemente de ser produzido pelo capital ou o trabalho do
+contribuinte.
+a) rendimento....rendimento de capital........ganho imobiliário....sinecura
+b) rendimento....rendimento de capital.......ganho imobiliário....prebenda
+c) ganho ....ganho de capital......rendimento de capital.... provento
+d) ganho....ganho de capital.......rendimento de capital.... sinecura
+e) provento.......rendimento imobiliário.......provento predial....provento
+
+
+---
+
+       GABARITO DAS QUESTÕES COMENTADAS
+
+1. E              10. E         20. C
+2. A              11. E         21. D
+3. E              12. E         22. D
+4. E              13. E         23. E
+5. E              14. E         24. E
+6. C              15. E         25. C
+7. E              16. E         26. C
+8. C              17. C         27. B
+9. E              18. E         28. C
+                  19. E
+
+
+---

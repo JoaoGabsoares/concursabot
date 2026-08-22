@@ -1,0 +1,839 @@
+                           LEGISLAÇÃO TRIBUTÁRIA
+É importante ressaltar que boa parte da jurisprudência sobre legislação tributária gira em torno do art. 98
+do CTN, o qual elenca algumas matérias capazes de serem estabelecidas apenas pela lei.
+
+Como nós já vimos o que há de mais importante sobre o assunto, ao tratar do princípio da legalidade, não
+vejo razões para fazermos nova análise sobre o tema.
+
+Portanto, partiremos para a análise dos tratados internacionais. Inicialmente, é válido dizer que os tratados
+internacionais não podem tratar de matéria reservada à lei complementar:
+
+“(...) TRATADO INTERNACIONAL E RESERVA CONSTITUCIONAL DE LEI COMPLEMENTAR. - O primado da
+Constituição, no sistema jurídico brasileiro, é oponível ao princípio pacta sunt servanda, inexistindo, por
+isso mesmo, no direito positivo nacional, o problema da concorrência entre tratados internacionais e a
+Lei Fundamental da República, cuja suprema autoridade normativa deverá sempre prevalecer sobre os
+atos de direito internacional público. Os tratados internacionais celebrados pelo Brasil - ou aos quais o
+Brasil venha a aderir - não podem, em conseqüência, versar matéria posta sob reserva constitucional
+de lei complementar. É que, em tal situação, a própria Carta Política subordina o tratamento
+legislativo de determinado tema ao exclusivo domínio normativo da lei complementar, que não pode
+ser substituída por qualquer outra espécie normativa infraconstitucional, inclusive pelos atos
+internacionais já incorporados ao direito positivo interno. (...)”
+
+(STF, ADI 1.480-MC/DF, Plenário, Rel. Min. Celso de Mello, Julgamento em 04/09/1997)
+
+Dito isso, acompanhe o que diz o art. 98 do CTN:
+
+Art. 98. Os tratados e as convenções internacionais revogam ou modificam a legislação tributária interna,
+e serão observados pela que lhes sobrevenha.
+
+Na visão da doutrina, o conflito entre a lei interna e o tratado deve ser resolvido em favor da norma especial,
+que é o tratado:
+
+ “O conflito entre a lei interna e o tratado resolve-se, pois, a favor da norma especial (do tratado), que
+excepciona a norma geral (da lei interna), tornando-se indiferente que a norma interna seja anterior ou
+posterior ao tratado. Este prepondera em ambos os casos (abstraída a discussão sobre se ele é ou não
+superior à lei interna) porque traduz preceito especial, harmonizável com a norma geral.” (AMARO, Luciano.
+Direito Tributário Brasileiro. 14ª Ed. Saraiva, 2008, p.181)
+
+Nesse sentido, diante desse conflito, resolvido em favor da norma especial, ocorreria, então, a revogação da
+lei interna? Não! Na verdade, segundo a doutrina, haveria suspensão da eficácia da norma nacional:
+
+“... não se trata, a rigor, de revogação da legislação interna, mas de suspensão da eficácia da norma
+tributária nacional, que readquirirá a sua aptidão para produzir efeitos se e quando o tratado for
+denunciado.” (TORRES, Ricardo Lobo. Curso de Direito Financeiro e Tributário. 16ª Ed. Renovar, 2009, p.49)
+Portanto, se o tratado algum dia vier a ser denunciado, deixando de produzir efeitos internos, a lei interna
+readquire sua eficácia, isto é, volta a produzir efeitos normalmente.
+
+Na contramão da redação dada pelo CTN, o STF já se posicionou no sentido da paridade normativa entre os
+tratados internacionais e as leis ordinárias:
+
+"(...) PARIDADE NORMATIVA ENTRE ATOS INTERNACIONAIS E NORMAS INFRACONSTITUCIONAIS DE
+DIREITO INTERNO. - Os tratados ou convenções internacionais, uma vez regularmente incorporados ao
+direito interno, situam-se, no sistema jurídico brasileiro, nos mesmos planos de validade, de eficácia
+e de autoridade em que se posicionam as leis ordinárias, havendo, em conseqüência, entre estas e os
+atos de direito internacional público, mera relação de paridade normativa. (...)"
+
+(STF, ADI 1.480-MC/DF, Plenário, Rel. Min. Celso de Mello, Julgamento em 04/09/1997)
+
+Observação: Existe a possibilidade de esse entendimento mudar, quando do julgamento do RE
+460.320. O Min. Gilmar Mendes já demonstrou o entendimento a respeito da prevalência dos
+tratados internacionais, em seu voto. Por hora, o que devemos levar para a prova é a paridade,
+salvo, em último caso, se a banca fizer menção a esse voto do ministro relator.
+
+
+
+
+Segundo o STF, se há paridade normativa entre tratado internacional e as leis ordinárias, estas podem alterar
+aqueles.
+
+Súmula STF 575 - À mercadoria importada de país signatário do (GATT), ou membro da (ALALC),
+estende-se a isenção do imposto de circulação de mercadorias concedida a similar nacional.
+
+Muito embora o art. 111, II, do CTN, afirme que a outorga de isenção deve ser interpretada literalmente, o
+GATT prevê o princípio do tratamento nacional, que foi explicado pelo ilustre professor Ricardo Vale nos
+seguintes termos:
+
+“Em linhas gerais, o princípio do tratamento nacional (também chamado de princípio da paridade) proíbe
+os membros da OMC de conceder tratamento mais favorável aos produtos domésticos do que aos produtos
+de outros membros da OMC, uma vez que estes últimos tenham adentrado o território aduaneiro.” (Curso de
+Comércio Internacional, Prof. Ricardo Vale)
+
+Conforme a súmula acima citada, percebemos que este é o posicionamento da Suprema Corte (e do STJ
+também) no sentido da extensão do benefício fiscal.
+
+Destaque-se que o art. 152 da CF/88 também preceitua que é vedado aos Estados, Distrito Federal e
+Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua
+procedência ou destino.
+Meu aluno, minha aluna, por favor, não se esqueça do que vimos nas aulas anteriores: o Presidente da
+República, ao firmar tratados internacionais, age em nome da República Federativa do Brasil, podendo,
+inclusive, conceder isenções a tributos estaduais e municipais, sem que se caracterize isenções
+heterônomas.
+
+Antes de encerrar este tópico, vejamos mais uma jurisprudência acerca de legislação tributária:
+
+3. O art. 3º da LC 118/2005, a pretexto de interpretar os arts. 150, § 1º, 160, I, do CTN, conferiu-lhes,
+na verdade, um sentido e um alcance diferente daquele dado pelo Judiciário. Ainda que defensável a
+“interpretação” dada, não há como negar que a Lei inovou no plano normativo, pois retirou das
+disposições interpretadas um dos seus sentidos possíveis, justamente aquele tido como correto pelo
+STJ, intérprete e guardião da legislação federal. Portanto, o art. 3º da LC 118/2005 só pode ter eficácia
+prospectiva, incidindo apenas sobre situações que venham a ocorrer a partir da sua vigência.
+
+4.Assim, tratando-se de preceito normativo modificativo, e não simplesmente interpretativo, o art. 3º
+da LC 118/2005 só pode ter eficácia prospectiva, incidindo apenas sobre situações que venham a
+ocorrer a partir da sua vigência.
+
+5. O artigo 4º, segunda parte, da LC 118/2005, que determina a aplicação retroativa do seu art. 3º,
+para alcançar inclusive fatos passados, ofende o princípio constitucional da autonomia e independência
+dos poderes (CF, art. 2º) e o da garantia do direito adquirido, do ato jurídico perfeito e da coisa
+julgada (CF, art. 5º, XXXVI).
+
+
+
+(STJ, AgRg no REsp 672.032/DF, Primeira Turma, Rel. Min. Teori Albino Zavascki, Julgamento em
+07/04/2005)
+
+O art. 168, I, do CTN, prevê que o prazo para pleitear restituição de pagamento indevido é de 5 anos a contar
+da data da extinção do crédito tributário.
+
+O STJ entendia que a extinção, para lançamentos por homologação, ocorria apenas com a homologação do
+lançamento, que normalmente ocorre tacitamente 5 anos após o lançamento (art. 150, § 4º). Na prática, o
+sujeito passivo acabava tendo 10 anos (5+5).
+
+Contudo, a LC 118/05, em seu art. 3º, alterou tal interpretação, estabelecendo que o prazo inicia-se da data
+do pagamento antecipado. A decisão ora analisada demonstra que o entendimento do STJ é o de que a lei
+não apenas interpretou, mas inovou na ordem jurídica, não podendo ser aplicada retroativamente, nos
+termos do art. 106, I, do CTN. Entendido?
+                           OBRIGAÇÃO TRIBUTÁRIA
+É sabido que a obrigação tributária é principal ou acessória. Defendendo a autonomia das obrigações
+acessórias, o STJ já decidiu que é permitido que se exija do contribuinte as notas fiscais de bens deslocados
+entre estabelecimentos da mesma empresa, em operação interestadual:
+
+Afirmou-se que os deveres instrumentais, previstos na legislação tributária, ostentam caráter
+autônomo em relação à regra matriz de incidência do tributo, uma vez que vinculam, inclusive, as
+pessoas físicas ou jurídicas que gozem de imunidade ou outro benefício fiscal, ex vi dos arts. 175 e 194,
+parág. único do CTN; assim, ainda que, em tese, o deslocamento de bens do ativo imobilizado e de
+material de uso e consumo entre estabelecimentos de uma mesma instituição financeira não configure
+hipótese de incidência do ICMS, compete ao Fisco Estadual averiguar a veracidade da aludida
+operação, sobressaindo a razoabilidade e proporcionalidade da norma jurídica que tão somente
+exige que os bens da pessoa jurídica sejam acompanhados das respectivas notas fiscais.
+
+(STJ, EDcl nos EDcl no REsp 1116792/PB, Primeira Seção, Rel. Min. Napoleão Nunes Maia Filho,
+Julgamento em 22/08/2012)
+
+instituição de obrigações acessórias. O CTN – em seu art. 113, § 2º - afirma que tais obrigações decorrem da
+legislação tributária, expressão explicada no texto do próprio CTN (art. 96) como leis, tratados internacionais,
+decretos e normas complementares. Nesse sentido:
+
+"(...)É cediço que, nos termos do art. 113, § 2º, do CTN, em torno das relações jurídico-tributárias
+relacionadas ao tributo em si, exsurgem outras, de conteúdo extra-patrimonial, consubstanciadas em
+um dever de fazer, não-fazer ou tolerar. São os denominados deveres instrumentais ou obrigações
+acessórias, inerentes à regulamentação das questões operacionais relativas à tributação, razão pela
+qual sua regulação foi legada à "legislação tributária" em sentido lato, podendo ser disciplinados
+por meio de decretos e de normas complementares, sempre vinculados à lei da qual dependem."
+
+(STJ, REsp 724.779/RJ, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 12/09/2006)
+
+Dessa forma, fica claro que o STJ entende que as obrigações acessórias podem ser previstas em atos
+infralegais.
+
+
+
+
+O art. 113, § 3º, do CTN, assevera que as obrigações acessórias, quando descumpridas geram uma penalidade
+pecuniária. Fique atento, pois essa penalidade está submetida ao princípio da legalidade (art. 97, V, do
+próprio CTN).
+
+O STJ entende que, para verificar se há ou não a ocorrência do fato gerador do imposto de renda, o que
+importa é a realidade econômica, e não a simples forma jurídica. Nesse sentido:
+TRIBUTÁRIO. IMPOSTO DE RENDA. ABONO CONCEDIDO EM ACORDO COLETIVO. CARÁTER
+SUBSTITUTIVO DE REAJUSTE SALARIAL. NATUREZA SALARIAL. INCIDÊNCIA. INDENIZAÇÃO DE AUXILIO-
+ALIMENTAÇÃO. CARACTERIZAÇÃO SUPRESSÃO DE DIREITO TRABALHISTA. CARÁTER INDENIZATÓRIO.
+NÃO-INCIDÊNCIA.
+
+4. Interpretação econômica que se impõe, uma vez que a realidade econômica há de prevalecer sobre
+a simples forma jurídica. 5. As verbas indenizatórias não estão sujeitas à incidência do Imposto de
+Renda.
+
+(STJ, REsp 696.745/CE, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 07/06/2005)
+
+       A respeito do fato gerador, o art. 118 preconiza que sua definição legal é interpretada abstraindo-se
+da validade jurídica dos atos praticados bem como da natureza do seu objeto ou dos seus efeitos. Nessa
+linha, o STJ já decidiu:
+
+TRIBUTÁRIO – ICMS – SERVIÇO DE TELEFONIA MÓVEL – INADIMPLÊNCIA DOS USUÁRIOS – FURTO DE
+SINAL (CLONAGEM) – INCIDÊNCIA DO TRIBUTO.
+
+1. O fato gerador do ICMS na telefonia é a disponibilização da linha em favor do usuário que contrata,
+onerosamente, os serviços de comunicação da operadora. A inadimplência e o furto por "clonagem"
+fazem parte dos riscos da atividade econômica, que não podem ser transferidos ao Estado.
+
+2. Nos termos do art. 118 do Código Tributário Nacional, o descumprimento da operação de compra
+e venda mercantil não tem o condão de malferir a ocorrência do fato gerador do ICMS.
+
+(STJ, REsp 1.189.924/MG, Segunda Turma, Rel. Min. Humberto Martins, Julgamento em 25/05/2010)
+
+
+
+
+QUESTÃO INÉDITA
+No que se refere aos serviços de telefonia móvel, o STJ já decidiu que a inadimplência e o furto por clonagem
+descaracterizam a incidência do ICMS.
+
+Comentário: O que o STJ decidiu é que o fato gerador do ICMS na telefonia é a disponibilização da linha em
+favor do usuário que contrata, não importando se houve furto por clonagem ou inadimplência. De qualquer
+modo, ocorre o fato gerador do ICMS. Questão errada.
+
+Gabarito: Errada
+
+Na mesma direção:
+
+TRIBUTÁRIO. PIS/PASEP E COFINS. BASE DE CÁLCULO. FATURAMENTO. ARTIGO 3º, § 2º, I, DA LEI
+9.718/98. HIGIDEZ CONSTITUCIONAL RECONHECIDA PELO STF EM SEDE DE CONTROLE DIFUSO.
+EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. "VENDAS INADIMPLIDAS". ALEGADA EQUIPARAÇÃO COM
+"VENDAS CANCELADAS". ANALOGIA/EQÜIDADE. INAPLICABILIDADE. ARTIGOS 111 E 118, DO CTN.
+OBSERVÂNCIA.
+
+(...) Entrementes, o inadimplemento do consumidor não equivale ao cancelamento da compra e
+venda, no qual ocorre o desfazimento do negócio jurídico, denotando a ausência de receita e,
+conseqüente, intributabilidade da operação.
+
+(STJ, REsp 1.029.434/CE, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 20/05/2008)
+
+
+
+
+QUESTÃO INÉDITA
+No tocante à incidência tributária sobre o faturamento, as vendas realizadas pela empresa e inadimplidas
+pelos seus clientes não se equipara a vendas canceladas.
+
+Comentário: No entendimento do STJ, as vendas inadimplidas não podem ser consideradas como
+cancelamento, tendo em vista que naquele caso não ocorre o desfazimento do negócio jurídico como neste.
+
+Gabarito: Correta
+
+Outro ponto relevante sobre o art. 118, do CTN, é o princípio do pecunia non olet. Se você já estudou Direito
+Tributário, com certeza deve ter ouvido falar na tributação do rendimento decorrente de atividades ilícitas,
+correto? Sobre ele, vejamos o seguinte julgado:
+
+Sonegação fiscal de lucro advindo de atividade criminosa: "non olet". Drogas: tráfico de drogas,
+envolvendo sociedades comerciais organizadas, com lucros vultosos subtraídos à contabilização regular
+das empresas e subtraídos à declaração de rendimentos: caracterização, em tese, de crime de
+sonegação fiscal, a acarretar a competência da Justiça Federal e atrair pela conexão, o tráfico de
+entorpecentes: irrelevância da origem ilícita, mesmo quando criminal, da renda subtraída à tributação.
+A exoneração tributária dos resultados econômicos de fato criminoso - antes de ser corolário do
+princípio da moralidade - constitui violação do princípio de isonomia fiscal, de manifesta inspiração
+ética.
+
+STF, Primeira Turma, HC 77.530/RS, Rel. Min. Sepúlveda Pertence, Julgamento em 25/08/1998)
+
+Nesse diapasão, trazemos à lume o brilhante entendimento do STJ, esclarecendo que se admite a incidência
+tributária sobre o ato ilícito, quando este seja acidental á norma de tributação, isto é, quando estiver na
+periferia da regra de incidência. O que não se admite é que o ato ilícito seja o elemento essencial da norma
+tributária, sendo definido com o próprio fato gerador do tributo. Assim, por exemplo, permite-se tributar
+a renda auferida com o tráfico de drogas, mas não a própria atividade ilícita.
+
+Senão, vejamos o trecho mais relevante da ementa:
+
+TRIBUTÁRIO. APREENSÃO DE MERCADORIAS. IMPORTAÇÃO IRREGULAR. PENA DE PERDIMENTO.
+CONVERSÃO EM RENDA.
+(...)
+
+2. O art. 118 do CTN consagra o princípio do "non olet", segundo o qual o produto da atividade ilícita
+deve ser tributado, desde que realizado, no mundo dos fatos, a hipótese de incidência da obrigação
+tributária.
+
+3. Se o ato ou negócio ilícito for acidental à norma de tributação (= estiver na periferia da regra de
+incidência), surgirá a obrigação tributária com todas as consequências que lhe são inerentes. Por outro
+lado, não se admite que a ilicitude recaia sobre elemento essencial da norma de tributação.
+
+4. Assim, por exemplo, a renda obtida com o tráfico de drogas deve ser tributada, já que o que se
+tributa é o aumento patrimonial e não o próprio tráfico. Nesse caso, a ilicitude é circunstância
+acidental à norma de tributação. No caso de importação ilícita, reconhecida a ilicitude e aplicada a
+pena de perdimento, não poderá ser cobrado o imposto de importação, já que "importar mercadorias"
+é elemento essencial do tipo tributário. Assim, a ilicitude da importação afeta a própria incidência da
+regra tributária no caso concerto.
+
+
+
+(STJ, Segunda Turma, Rel. Min. Castro Meira, REsp 984.607/PR, Julgamento em 07/10/2008)
+
+Esse raciocínio encontra harmonia com o já citado art. 118, do CTN, já que o fato gerador não é a prática
+criminosa, mas a sua interpretação deve ser realizada abstraindo-se da validade jurídica dos atos
+efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem como da natureza do seu
+objeto ou dos seus efeitos.
+
+Quanto à definição do sujeito ativo da obrigação tributária, é necessário nos lembrarmos da definição trazida
+pelo art. 119, do CTN:
+
+Art. 119. Sujeito ativo da obrigação é a pessoa jurídica de direito público, titular da competência para exigir
+o seu cumprimento.
+
+Pela redação do dispositivo, fica claro que o sujeito ativo da obrigação tributária deve ser necessariamente
+uma pessoa jurídica de direito público. Foi com base nessa regra que o STJ decidiu que a concessionária não
+é considerada sujeito ativo do ICMS que incide sobre o ponto telefônico:
+
+(...) A concessionária não possui legitimidade para figurar no pólo passivo de ação que visa a
+restituição de valores cobrados à título de ICMS incidente sobre ponto telefônico. O sujeito ativo da
+relação tributária discutida é a Fazenda Pública, nos termos do art. 119 do Código Tributário Nacional,
+e não a concessionária de telefonia, simples responsável pelo repasse dos valores. (...)
+
+(STJ, Primeira Turma, REsp 1.036.589/MG, Rel. Min. José Delgado, Julgamento em 06/05/2008)
+
+Embora a ementa acima se refira à restituição de valores pagos a título de ICMS, o que se está dizendo é que,
+por não ser o sujeito ativo do ICMS, a concessionária também não figura no polo passivo em uma ação judicial
+com o objetivo de restituir valores pagos a título de ICMS. Ora, a empresa apenas inclui na fatura o valor a
+ser pago de ICMS, e o repassa ao Fisco.
+A despeito do exposto acima, digno de nota é a excepcional possibilidade de o sujeito ativo da obrigação
+tributária ser pessoa jurídica de direito privado, no entendimento da jurisprudência do STJ. Esta Corte já
+sumulou o seguinte:
+
+Súmula STJ 396 - A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da
+contribuição sindical rural.
+
+Ademais, essa Corte também proferiu decisão que o SENAI pode figurar como sujeito ativo das obrigações
+tributárias a ele destinadas (REsp 735.278/PR). No entanto, lembre-se que a regra é o que está no art. 119
+do CTN, ou seja, somente pode figurar como sujeito ativo da obrigação tributária pessoa jurídica de direito
+público.
+
+
+
+
+Mesmo havendo esse posicionamento do STJ, recomendo que você siga o texto do art. 119 do CTN, somente
+considerando correto se houver cópia literal da mencionada súmula ou do caso referente ao SENAI.
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com entendimento sumulado pelo STJ, a Confederação Nacional da Agricultura tem legitimidade
+ativa para a cobrança da contribuição sindical rural.
+
+Comentário: Nessa questão, como foi mencionada a súmula do STJ, devemos considerar o que diz a sua
+redação, ou seja, a CNA possui legitimidade ativa para tal cobrança.
+
+Gabarito: Correta
+
+Conforme você já deve ter estudado, de acordo com o art. 123 do CTN, “as convenções particulares, relativas
+à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a
+definição legal do sujeito passivo das obrigações tributárias correspondentes.”
+
+Nesse contexto, a alienação fiduciária não afasta a pena de perdimento de veículo, quando houver previsão
+legal para aplicação de tal pena:
+
+CONVENÇÃO PARTICULAR NÃO OPONÍVEL À FAZENDA PÚBLICA. APLICAÇÃO DO ART. 123, DO CTN.
+PRINCÍPIOS DA ETICIDADE E DA FUNÇÃO SOCIAL DO CONTRATO. ARTS. 421 E 2035, DO CC/2002.
+JURISPRUDÊNCIA DO EXTINTO TRIBUNAL FEDERAL DE RECURSOS. COMPATIBILIDADE COM A SÚMULA
+N. 138/TFR.
+
+É admitida a aplicação da pena de perdimento de veículo objeto de alienação fiduciária.
+(STJ, REsp 1.387.990/PR, Segunda Turma, Rel. Min. Mauro Campbell Marques, Julgamento em
+17/09/2013)
+
+
+
+
+QUESTÃO INÉDITA
+Não se admite a aplicação da pena de perdimento de veículo objeto de alienação fiduciária.
+
+Comentário: De acordo com o REsp 1.387.990/PR, admite-se a aplicação da pena de perdimento de veículo
+objeto de alienação fiduciária. O embasamento legal para tal decisão foi o previsto no art. 123 do CTN.
+
+Gabarito: Errada
+
+    Na mesma linha da irrelevância do adimplemento ou não das vendas efetuadas, é de se destacar
+também o entendimento do STF sobre o aspecto temporal da hipótese de incidência (a partir de que
+momento considera-se ocorrido o fato gerador) da COFINS e PIS:
+
+“Quanto ao aspecto temporal da hipótese de incidência da COFINS e da contribuição para o PIS,
+portanto, temos que o fato gerador da obrigação ocorre com o aperfeiçoamento do contrato de
+compra e venda (entrega do produto), e não com o recebimento do preço acordado.”
+
+(STF, RE 586.482-RS, Rel. Min. Dias Toffoli, 23/11/2011)
+
+Sobre a solidariedade prevista no art. 124, I, do CTN, é de ressaltar que o STJ já decidiu que para configurar
+o interesse comum na situação que constitua o fato gerador do tributo, é necessário haver, no caso de
+prestação de serviços, prestação conjunta por parte das empresas envolvidas.
+
+O simples fato de as empresas pertencerem ao mesmo conglomerado financeiro não caracteriza por si só o
+interesse comum capaz de gerar solidariedade tributária:
+
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. TRIBUTÁRIO. ISS. EXECUÇÃO
+FISCAL. PESSOAS JURÍDICAS QUE PERTENCEM AO MESMO GRUPO ECONÔMICO. CIRCUNSTÂNCIA QUE,
+POR SI SÓ, NÃO ENSEJA SOLIDARIEDADE PASSIVA.
+
+1. O entendimento prevalente no âmbito das Turmas que integram a Primeira Seção desta Corte é no
+sentido de que o fato de haver pessoas jurídicas que pertençam ao mesmo grupo econômico, por si
+só, não enseja a responsabilidade solidária, na forma prevista no art. 124 do CTN. Ressalte-se que a
+solidariedade não se presume (art. 265 do CC/2002), sobretudo em sede de direito tributário.(...)"
+
+(STJ, REsp 834.044/RS, Primeira Seção, Rel. Min. Mauro Campbell Marques, Julgamento em
+08/09/2010)
+     No que se refere ao domicílio tributário do sujeito passivo, destaque-se que o STJ tem entendido que
+caracteriza cerceamento de defesa do sujeito passivo notificação fiscal enviada para endereço diferente do
+domicílio tributário, quando é do conhecimento do fisco:
+
+TRIBUTARIO. DOMICILIO TRIBUTARIO. FIRMA INDIVIDUAL. C.T.N., ART.127, II. APLICAÇÃO.
+
+I - O acórdão recorrido, ao admitir como válida notificação fiscal enviada para local diverso do
+domicílio tributário do contribuinte, que era do conhecimento do fisco, ofendeu o art. 127, II, do C.T.N.
+II - Recurso Especial conhecido e provido.
+
+(STJ, 33.837/MG, Segunda Turma, Rel. Min. Antônio de Pádua Ribeiro, Julgamento em 04/03/1996)
+
+Ademais, destaque-se que, para o STJ, a remessa de carnê para o endereço do contribuinte configura
+notificação de lançamento nos termos da Súmula 397:
+
+Súmula STJ 397 - O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu
+endereço.
+
+Ainda sobre o domicílio tributário, não há base legal para impedir o contribuinte de indicar sua residência
+como domicílio tributário, pois, de acordo com o STJ:
+
+DOMICILIO TRIBUTARIO - MESMO DA RESIDENCIA.
+
+Não procede o argumento de que sendo inviolável o domicílio da pessoa física, dificultaria atuação dos
+agentes fiscais, caso tenha o domicílio tributário a mesma sede, porque tal proteção deixaria de existir.
+É injustificável e sem base legal impedir o contribuinte de indicar sua residência para domicílio
+tributário. Recurso improvido.
+
+(STJ, REsp 28.237/SP, Primeira Turma, Rel. Min Garcia Vieira, Julgameno em 16/11/1992)
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com entendimento do STJ, os agentes fiscais podem impedir o contribuinte de indicar sua
+residência como seu domicílio tributário.
+
+Comentário: Não é possível tal impedimento. Não se mostra razoável obstar o contribuinte de indicar sua
+residência para domicílio tributário.
+
+Gabarito: Errada
+
+Digno de nota é o fato de o STJ aceitar a pluralidade de domicílios tributários para pessoas jurídicas ou firmas
+individuais:
+TRIBUTARIO. ISS. MUNICIPIO COMPETENTE PARA EXIGIR O TRIBUTO. CTN,ART. 127, II. DECRETO-LEI
+406/68 (ART. 12, 'A').
+
+É juridicamente possível as pessoas jurídicas ou firmas individuais possuírem mais de um domicílio
+tributário.
+
+(STJ, Primeira Turma, REsp 23.371/SP, Rel. Min. Milton Luiz Pereira, Julgamento em 31/08/1994)
+
+     Por último, destaque-se o princípio da autonomia de cada estabelecimento por meio da jurisprudência
+do STJ:
+
+TRIBUTÁRIO. CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA. FILIAL. PENDÊNCIA DA MATRIZ.
+POSSIBILIDADE.
+
+1. O Tribunal a quo concluiu pela "impossibilidade de a Unidade localizada em Goiânia ser penalizada
+pela existência de débito constituído em nome da matriz ou outras filiais, haja vista que cada Unidade
+tem seu registro no CNPJ, de modo que não há que se falar em negativa de expedição de certidão de
+regularidade fiscal" (e-STJ fl.445).
+
+2. O art. 127, I, do Código Tributário Nacional consagra o princípio da autonomia de cada
+estabelecimento da empresa que tenha o respectivo CNPJ, o que justifica o direito à certidão positiva
+com efeito de negativa em nome de filial de grupo econômico, ainda que fiquem pendências
+tributárias da matriz ou de outras filiais.
+
+(STJ, AgRg no AREsp 192.658/AM, Segunda Turma, Rel. Min Castro Meira, Julgamento em 23/10/2012)
+
+
+
+
+QUESTÃO INÉDITA
+O Código Tributário Nacional (Lei 5.172/1966), ao tratar do domicílio tributário, consagrou o princípio da
+autonomia de cada estabelecimento.
+
+Comentário: O STJ entende que o art. 127, II (não é o primeiro, como diz a ementa), do Código Tributário
+Nacional consagra o princípio da autonomia de cada estabelecimento da empresa que tenha o respectivo
+CNPJ.
+
+Gabarito: Correta
+            CRÉDITO TRIBUTÁRIO E LANÇAMENTO
+Inicialmente, cumpre-nos transcrever o entendimento básico do STJ acerca da amplitude da expressão
+“crédito tributário”:
+
+(...) observa-se que crédito tributário não diz respeito apenas a tributo em sentido estrito, mas
+alcança, também, as penalidades que incidam sobre ele.
+
+(STJ, Primeira Seção, EREsp 760.290/PR, Rel. Min. Castro Meira, Julgamento em 13/06/2007)
+
+Na realidade, esse entendimento decorre da própria literalidade do CTN, já que no art. 113, § 1º, o legislador
+afirma que a obrigação tributária tem por objeto o pagamento de tributo ou de penalidade pecuniária, e no
+art. 139 ficou estabelecido que o crédito tributário decorre da obrigação principal. Portanto, o crédito
+tributário não diz respeito apenas a tributo, mas também às penalidades pecuniárias!
+
+Veja que esse tipo de questão também cai em provas:
+
+A respeito do lançamento por homologação, é de se destacar que o entendimento do STJ é que a entrega de
+declaração (obrigação acessória criada para tributos sujeitos a esta modalidade de lançamento) pelo
+contribuinte constitui o crédito tributário. Vejamos o que diz a Súmula 436:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Nesse rumo, o STJ também já decidiu:
+
+No caso de tributos sujeitos à lançamento por homologação a declaração do contribuinte elide a
+necessidade da constituição formal do crédito, podendo ser realizada a inscrição em dívida ativa.
+
+(STJ, REsp 1.195.286/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 17/09/2013)
+
+Exemplo: A Declaração de Débitos e Créditos Tributários Federais (DCTF) é uma declaração obrigatória para
+pessoas jurídicas em geral, referindo-se a diversos impostos e contribuições federais. O objetivo é informar
+o fisco sobre os tributos apurados pela empresa. A entrega dessa declaração constitui o crédito tributário,
+dispensando as providências do fisco nesse sentido.
+
+
+
+
+QUESTÃO INÉDITA
+O STJ tem entendido que a entrega de declaração pelo contribuinte, reconhecendo a dívida fiscal, constitui
+o crédito tributário, podendo o fisco realizar a inscrição em dívida ativa.
+Comentário: Esse é um tema muito bom de ser cobrado em prova. Você precisa dominar o assunto!
+Portanto, a entrega da declaração constitui o crédito tributário.
+
+Gabarito: Correta
+
+A respeito da alteração do lançamento, é evidente o entendimento do STJ no sentido de não ser possível
+revisar lançamento por erro de direito (art. 146, CTN):
+
+TRIBUTÁRIO - IMPORTAÇÃO - REVISÃO DE LANÇAMENTO POR ERRO DE DIREITO - SÚMULA 227/TFR.
+
+1. Em havendo na declaração do contribuinte erro de direito não detectado pelo Fisco, que a aceita
+integralmente, a mudança de entendimento constitui-se em alteração de critério vedada pelo CTN.
+
+2. Só a falsidade, o erro ou a omissão são capazes de provocar a revisão do lançamento com a
+conseqüente autuação do contribuinte.
+
+(STJ, REsp 171.119/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 07/08/2001)
+
+Não se esqueça de que o erro de fato, caso identificado, deve ser revisto pela autoridade administrativa.
+
+
+
+
+QUESTÃO INÉDITA
+Só a falsidade, o erro ou a omissão são capazes de provocar a revisão do lançamento com a conseqüente
+autuação do contribuinte, não podendo, portanto, haver alteração motivada por erro de direito.
+
+Comentário: Não pode haver revisão de lançamento por erro de direito. A mudança de critérios jurídicos
+adotados pela autoridade administrativa no exercício do lançamento somente pode ser efetivada, em
+relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução (art.
+146, CTN).
+
+Gabarito: Correta
+
+
+
+
+•   Erro de Fato: Inexatidão dos fatos que deram origem à obrigação tributária;
+•   Erro de Direito: Aplicação incorreta de uma norma.
+
+Havendo, contudo, alguma das hipóteses previstas no art. 149 do CTN, a autoridade administrativa tem o
+poder-dever de fazer a alteração, de ofício.
+No caso de alterações de lançamentos efetuados com base em declaração prestada pelo sujeito passivo, o
+STJ entende que não há possibilidade de alteração após a notificação do lançamento, respeitado, é claro,
+o direito do contribuinte de pleitear judicialmente a alteração:
+
+A modificação da declaração do sujeito passivo pela Administração Fazendária fica obstada a partir
+da notificação do lançamento, consoante o disposto pelo art. 147, § 1.º, do CTN. Isto porque, com o
+lançamento encerra-se o procedimento administrativo, ficando a Fazenda, por força do princípio geral
+da imutabilidade do lançamento, impedida de alterá-lo.
+
+(...)
+
+Assim, uma vez feita a notificação ao contribuinte, não poderá a Administração, de ofício, ou a
+requerimento deste, alterar o procedimento já definitivamente encerrado.
+
+(...)
+
+Deveras, mesmo findo referido procedimento, é assegurado ao sujeito passivo da obrigação tributária
+o direito de pretender judicialmente a anulação do crédito oriundo do lançamento eventualmente
+fundado em erro de fato(...)"
+
+(STJ, REsp 770.236/PB, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 14/08/2007)
+
+Observação: Não se esqueça do que abordamos na anterior, acerca da cobrança de tributos com
+base em pauta fiscal. Conforme dissemos, é possível haver o arbitramento, mas não a cobrança
+generalizada por meio do uso de pautas fiscais.
+
+Por fim, ainda no que se refere ao lançamento tributário, o STJ já decidiu sobre a nulidade da notificação
+fiscal que não indica o prazo para o sujeito passivo impugnar o crédito tributário contra ele constituído:
+
+TRIBUTÁRIO - COBRANÇA DE TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA - AUSÊNCIA DE
+INDICAÇÃO DO PRAZO PARA IMPUGNAÇÃO - NOTIFICAÇÃO IRREGULAR - NULIDADE DO LANÇAMENTO
+TRIBUTÁRIO. 1. É nula a notificação fiscal que não indica o prazo para impugnação, acarretando a
+nulidade do lançamento do crédito tributário. Precedentes. 2. Recurso especial não provido.
+
+(STJ, Segunda Turma, REsp 1353605/RS, Min. Rel. Eliana Calmon, Julgamento 25/06/2013)
+     SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO
+                 TRIBUTÁRIO
+O sujeito passivo, quando discorde de algum crédito tributário contra ele lançado, tem a seu dispor a via
+administrativa ou judicial. Caso opte pela via judicial, há que se fazer o depósito do montante integral para
+suspender a exigibilidade do crédito, já que apenas o ajuizamento da ação não é capaz, por si só, de
+suspendê-la:
+
+"(...) 3. Decorrência lógica da referida presunção é a e que o crédito tributário só pode ter sua
+exigibilidade suspensa na ocorrência de uma das hipóteses estabelecidas no art. 151 do mesmo
+diploma legal.
+
+4. Deveras, o ajuizamento de ação anulatória de débito fiscal, desacompanhada de depósito no
+montante integral, não tem o condão de suspender o curso de execução fiscal já proposta (...)."
+
+(STJ, REsp 758.270/RS, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 08/05/2007)
+
+Havendo o mencionado depósito, o STJ entende que ele deve ocorrer da seguinte maneira:
+
+Súmula STJ 112 - O depósito somente suspende a exigibilidade do crédito tributário se for integral e em
+dinheiro.
+
+
+
+
+O oferecimento de bens em caução não tem efeito de depósito (STJ, AgRg no AREsp 354.521/GO).
+
+Sendo a decisão favorável à Fazenda Pública, ou seja, se o lançamento for legítimo, o depósito é convertido
+em renda (ver CTN, art. 156, VI), e o crédito tributário é extinto. Nessa linha, de acordo com o STJ (EREsp
+767.328/RS), em relação aos tributos lançados por homologação, o depósito judicial em dinheiro equivale
+ao recolhimento da exação tributária, ocorrendo o lançamento tácito. Não há que se falar, portanto, em
+decadência.
+
+Por outro lado, se a decisão de mérito for favorável ao sujeito passivo, ou seja, se o lançamento ou o valor
+lançado for ilegítimo, caberá ao sujeito passivo proceder o levantamento do depósito realizado.
+
+Observação: Levantamento significa o resgate do valor depositado em juízo.
+
+Há ainda uma terceira hipótese: quando o processo judicial é extinto sem julgamento de mérito. Nesse caso,
+ocorre a conversão do depósito (do montante integral) em renda, em favor da Fazenda, como demonstra a
+ementa a seguir:
+PROCESSUAL CIVIL E TRIBUTÁRIO. DEPÓSITO JUDICIAL PARA SUSPENSÃO DA EXIGIBILIDADE DO
+CRÉDITO TRIBUTÁRIO. ART. 151, II, DO CTN. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO.
+CONVERSÃO DO DEPÓSITO EM RENDA. PRECEDENTES.
+
+Com a extinção do processo sem resolução de mérito, o depósito do montante integral realizado pelo
+contribuinte nos termos do art. 151, II, do CTN para suspender a exigibilidade do crédito tributário deve
+ser convertido em renda da Fazenda Pública. Precedentes. 2. Recurso especial provido.
+
+(STJ, REsp 884.625/SP, Min. Rel. Castro Meira, Julgamento em 13/05/2008)
+
+Observação: Lembre-se de que a conversão do depósito em renda constitui hipótese de extinção
+do crédito tributário, como se estudará adiante.
+
+Outra jurisprudência digna do nosso estudo é o entendimento do STJ de que, no caso dos tributos sujeitos a
+lançamento por homologação, ao ser realizado o depósito do montante integral com o objetivo de suspender
+a exigibilidade do crédito tributário, ocorre a constituição do crédito tributário, dispensando a necessidade
+de ato formal de lançamento pela autoridade administrativa. Consequentemente, não cabe alegação de
+inércia do fisco, quanto ao lançamento, no sentido de ter ocorrido decadência:
+
+TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO.
+PRAZO DECADENCIAL PARA CONSTITUIÇÃO DO CRÉDITO. DEPÓSITO JUDICIAL. LANÇAMENTO FORMAL
+PELO FISCO. DESNECESSIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+
+1. No caso de tributos sujeitos a lançamento por homologação, o contribuinte, ao realizar o depósito
+judicial com vistas à suspensão da exigibilidade do crédito tributário, promove a constituição deste
+nos moldes do que dispõe o art. 150 e parágrafos do CTN. Isso, porque verifica a ocorrência do fato
+gerador, calcula o montante devido e, em vez de efetuar o pagamento, deposita a quantia aferida, a
+fim de impugnar a cobrança da exação. Assim, o crédito tributário é constituído por meio da declaração
+do sujeito passivo, não havendo falar em decadência do direito do Fisco de lançar, caracterizando-se,
+com a inércia da autoridade fazendária apenas a homologação tácita da apuração anteriormente
+realizada. Não há, portanto, necessidade de ato formal de lançamento por parte da autoridade
+administrativa quanto aos valores depositados.
+
+(STJ, EREsp 686.479/RJ, Min. Rel. Denise Arruda, Julgamento em 27/08/2008)
+
+Observação: A decadência extingue o crédito tributário, nos termos do art. 156, V, do CTN, pela
+inércia da autoridade competente para efetuar a constituição do crédito tributário pelo lançamento,
+no prazo previsto no próprio CTN.
+
+
+
+
+QUESTÃO INÉDITA
+O oferecimento de bens em caução pode ser caracterizado como hipótese de suspensão da exigibilidade do
+crédito tributário.
+Comentário: Acabamos de aprender que o oferecimento de bens em caução não tem efeito de depósito.
+
+Gabarito: Errada
+
+QUESTÃO INÉDITA
+Havendo extinção de processo judicial sem julgamento de mérito em matéria tributária, no curso do qual
+houve depósito do montante integral pelo contribuinte, o valor oferecido em depósito deve ser convertido
+em renda da Fazenda Pública, consoante a jurisprudência do Superior Tribunal de Justiça.
+
+Comentário: Com a extinção do processo sem resolução de mérito, o depósito do montante integral
+realizado pelo contribuinte deve ser convertido em renda da Fazenda Pública.
+
+Gabarito: Correta
+
+Destaque-se ainda que, tendo o depósito do montante integral o objetivo de suspender a exigibilidade do
+crédito tributário, não pode ser exigido como condição para o ajuizamento da ação judicial, sob pena de
+ferir o princípio do Livre Acesso ao Judiciário (art. 5º, XXV, da CF/88):
+
+Súmula Vinculante 28 - É inconstitucional a exigência de depósito prévio como requisito de
+admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+
+No que se refere ao lançamento por homologação, o STJ assim já decidiu:
+
+A Segunda Turma, ao julgar o REsp 804.415/RS (15/02/2007) adotou o entendimento da Primeira
+Turma de que, com relação aos tributos lançados por homologação, o depósito judicial em dinheiro,
+efetuado pelo contribuinte com o intuito de suspender a exigibilidade do crédito tributário, equivale ao
+recolhimento da exação, cuja conversão em renda fica condicionada à improcedência da demanda. Na
+hipótese, não transcorre o prazo decadencial, já que houve constituição do crédito tributário por
+lançamento tácito.
+
+(STJ, EREsp 767.328/RS, Primeira Seção, Rel. Min. Herman Benjamin, Julgamento em 11/04/2007)
+
+Como nessa modalidade de lançamento, cabe ao sujeito passivo a apuração e o recolhimento do montante
+devido, sem prévio exame da autoridade administrativa, o depósito do montante integral equivale ao
+recolhimento da exação.
+
+Caso posteriormente o sujeito passivo não obtenha sucesso na ação judicial, o depósito é convertido em
+renda. Não há de se falar em decadência, pois houve a constituição do crédito tributário, por lançamento
+tácito (sem manifestação da autoridade).
+
+Por outro lado, caso o sujeito passivo, opte pela via administrativa, a interposição de recurso já suspende a
+exigibilidade do crédito tributário.
+Em caso de interposição de recurso administrativo, o sujeito passivo até pode fazer o depósito do montante
+integral, mas este servirá apenas para impedir a fluência de juros e correção monetária sobre os tributos
+suspensos, já que a impugnação tem efeito de suspensão do crédito tributário.
+
+Nesse sentido, vejamos as seguintes súmulas:
+
+Súmula Vinculante 21 - É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro
+ou bens para admissibilidade de recurso administrativo.
+
+
+
+
+Súmula STJ 373 - É ilegítima a exigência de depósito prévio para admissibilidade de recurso
+administrativo.
+
+
+
+
+QUESTÃO INÉDITA
+É constitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de
+recurso administrativo.
+
+Comentário: Acabamos de estudar que a exigência de depósito ou arrolamento prévios de dinheiro ou bens
+para admissibilidade de recurso administrativo é inconstitucional.
+
+Gabarito: Errada
+
+Para finalizar, devemos saber também que se o juiz condiciona a concessão de medida liminar em mandado
+de segurança à realização do depósito do montante integral, está, na verdade, indeferindo a liminar.
+
+Vejamos:
+
+TRIBUTARIO. SUSPENSÃO DA EXIGIBILIDADE DO CREDITO TRIBUTARIO. DISTINÇÃO ENTRE MEDIDA
+LIMINAR E DEPOSITO DO TRIBUTO CONTROVERTIDO.
+
+A medida liminar em mandado de segurança suspende a exigibilidade do crédito tributário,
+independentemente do depósito do tributo controvertido; se o juiz condiciona a concessão da medida
+liminar à realização do depósito, está, na verdade, indeferindo a medida liminar. Recurso ordinário
+provido em parte.
+(STJ,RMS 3.881/SP, Segunda Turma, Rel. Min. Ari Pargendler, Julgamento em 01/09/1997)
+
+Caro aluno(a), por hoje é só!
+
+Um abraço e até a próxima aula!
+          SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STF 575: O STF já decidiu que, embora o art. 111, II, do CTN, afirme que a outorga de isenção deve
+ser interpretada literalmente, prevalece o princípio do tratamento nacional consignado no GATT (tratado
+internacional), que proíbe os países dele signatários de conceder tratamento mais favorável aos produtos
+domésticos do que aos produtos importados de outros países que celebraram o tratado:
+
+Súmula STF 575 - À mercadoria importada de país signatário do (GATT), ou membro da (ALALC),
+estende-se a isenção do imposto de circulação de mercadorias concedida a similar nacional.
+
+Súmula STJ 396: A jurisprudência do STJ aborda um caso excepcionalíssimo acerca da legitimidade ativa de
+pessoas jurídicas de direito privado, que é o caso da CNA:
+
+Súmula STJ 396 - A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da
+contribuição sindical rural.
+
+Súmula STJ 554: De acordo com a jurisprudência do STJ, na sucessão empresarial, a sucessora é responsável
+pelos tributos e multas (moratórias ou punitivas) devidos pela sucedida:
+
+Súmula STJ 554 - Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange não
+apenas os tributos devidos pela sucedida, mas também as multas moratórias ou punitivas referentes a
+fatos geradores ocorridos até a data da sucessão.
+
+Súmula STJ 435:
+
+Súmula STJ 435 - Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu
+domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da
+execução fiscal para o sócio-gerente.
+
+Súmula STJ 430: Conforme jurisprudência do STJ, o descumprimento da obrigação tributária principal, ou
+seja, o não pagamento do tributo, caso não haja dolo ou fraude, não caracteriza infração legal, de modo que
+a mora é da empresa, e o gestor não passa a ser pessoalmente responsabilizado
+
+Súmula STJ 430 - O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a
+responsabilidade solidária do sócio-gerente.
+
+Súmula STJ 360: O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por
+homologação, quando, embora declarados, sejam pagos a após esgotamento do prazo de vencimento:
+
+
+
+Súmula STJ 360 - O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento
+por homologação regularmente declarados, mas pagos a destempo.
+Súmula STJ 431: De acordo com a jurisprudência do STJ, considera-se ilegal o uso indiscriminado da pauta
+fiscal para apuração da base de cálculo do ICMS:
+
+Súmula STJ 431 - É ilegal a cobrança de ICMS com base no valor da mercadoria submetido ao regime
+de pauta fiscal.
+
+Súmula STJ 436: Conforme a jurisprudência do STJ, a entrega de declaração (obrigação acessória) pelo
+contribuinte constitui o crédito tributário, caracterizando confissão de dívida:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Súmula Vinculante 21: O STF possui jurisprudência vinculante, no sentido da inconstitucionalidade da
+exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+administrativo, os qual tem o condão de suspender a exigibilidade do crédito tributário:
+
+Súmula Vinculante 21 - É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro
+ou bens para admissibilidade de recurso administrativo.
+
+Súmula STJ 373:
+
+Súmula STJ 373 - É ilegítima a exigência de depósito prévio para admissibilidade de recurso
+administrativo.
+
+Súmula Vinculante 28: De acordo com o STF, também é inconstitucional a exigência de depósito prévio
+como requisito de admissibilidade para discutir a exigibilidade do crédito tributário judicialmente:
+
+Súmula Vinculante 28 - É inconstitucional a exigência de depósito prévio como requisito de
+admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+
+Súmula STJ 112: A jurisprudência do STJ é no sentido de que, para suspender a exigibilidade do crédito
+tributário, o depósito deve ser feito integralmente e em dinheiro:
+
+Súmula STJ 112 - O depósito somente suspende a exigibilidade do crédito tributário se for integral e em
+dinheiro.
+

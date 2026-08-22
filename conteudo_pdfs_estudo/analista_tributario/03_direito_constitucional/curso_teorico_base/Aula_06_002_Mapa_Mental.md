@@ -1,0 +1,212 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 06_002_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+---
+
+# INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+
+INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+
+
+TÓPICOS INTRODUTÓRIOS                     NACIONALIDADE É O VÍNCULO JURÍDICO-POLÍTICO ENTRE O ESTADO SOBERANO E O INDIVÍDUO.
+
+                                                         OBS.: A NACIONALIDADE É MAIS AMPLA E NÃO SE CONFUNDE COM A CIDADANIA.
+
+   ELEMENTOS CONSTITUTIVOS DO ESTADO: TERRITÓRIO, POVO E GOVERNO SOBERANO.
+
+   CABE A CADA ESTADO LEGISLAR SOBRE SUA PRÓPRIA NACIONALIDADE (ATO DE SOBERANIA ESTATAL).
+
+   O TERRITÓRIO DA REPÚBLICA FEDERATIVA DO BRASIL (RFB) ABRANGE AS FRONTEIRAS GEOGRÁFICAS, O MAR TERRITORIAL E O ESPAÇO AÉREO.
+
+NACIONALIDADE ORIGINÁRIA (PRIMÁRIA)                                                     RESULTA DE UM FATO NATURAL, O NASCIMENTO.
+
+                                                TERRITORIAIS (JUS SOLI) – REGRA.
+    ATRIBUÍDA EM RAZÃO DOS CRITÉRIOS
+                                                SANGUÍNEOS (JUS SANGUINIS) – EXCEÇÃO.
+
+
+   SÃO “BRASILEIROS NATOS”    OS NASCIDOS NA RFB, AINDA QUE DE PAIS ESTRANGEIROS, DESDE QUE ESTES NÃO ESTEJAM A SERVIÇO DE SEU PAÍS (JUS SOLI).
+
+
+                                                             REQUISITOS PARA CONFIGURAR EXCEÇÃO:
+                                              • AMBOS OS PAIS ESTRANGEIROS.
+                                                                                                                            DIREITO CONSTITUCIONAL
+                                              • PELO MENOS UM DOS PAIS DEVE ESTAR A SERVIÇO DE SEU PAÍS.
+                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+             INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+
+
+NACIONALIDADE ORIGINÁRIA (PRIMÁRIA)
+
+                            OS NASCIDOS NO ESTRANGEIRO, DE PAI BRASILEIRO OU MÃE BRASILEIRA, DESDE QUE QUALQUER DELES ESTEJA A SERVIÇO DA
+  SÃO “BRASILEIROS NATOS”   RFB (JUS SANGUINIS).
+
+                                                                                 REQUISITOS:
+                                           • SER FILHO DE PAI BRASILEIRO OU MÃE BRASILEIRA, OU DE
+                                             AMBOS.
+                                           • O PAI OU A MÃE, OU AMBOS, DEVERÃO ESTAR A SERVIÇO DO
+                                             BRASIL NO EXTERIOR.
+
+                            OS NASCIDOS NO ESTRANGEIRO DE PAI OU DE MÃE BRASILEIRA, DESDE QUE:
+
+
+                            • SEJAM REGISTRADOS EM REPARTIÇÃO BRASILEIRA COMPETENTE; OU
+                            • VENHAM A RESIDIR NO BRASIL E OPTEM, EM QUALQUER TEMPO, DEPOIS DE ATINGIDA A MAIORIDADE, PELA NACIONALIDADE
+                              BRASILEIRA (NACIONALIDADE POTESTATIVA).
+
+                                                 OPÇÃO DEVE SER FEITA EM JUÍZO (JUSTIÇA FEDERAL), COM EFEITOS EX TUNC.
+
+                                                                                                                         DIREITO CONSTITUCIONAL
+                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                  INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+ATENÇÃO: NÃO       É   POSSÍVEL   A   AQUISIÇÃO   DA
+NACIONALIDADE              “JURE
+                  BRASILEIRA           MATRIMONII”,
+RESULTANTE DO CASAMENTO CIVIL.
+
+                                                                          AQUISIÇÃO DEPENDE DE ATO DE VONTADE (ATO VOLITIVO), PRATICADO DEPOIS
+ NACIONALIDADE DERIVADA (SECUNDÁRIA)                                      DO NASCIMENTO.
+
+
+                                                                            NATURALIZAÇÃO ORDINÁRIA.
+
+  HIPÓTESES DE “BRASILEIROS NATURALIZADOS”.                                         REGRA GERAL, PODE SER CONCEDIDA AOS ESTRANGEIROS QUE CUMPRAM OS
+                                                                                    REQUISITOS DA LEI (LEI DA MIGRAÇÃO).
+          NATURALIZAÇÃO EXTRAORDINÁRIA.
+                                                                                    ESPECIFICAMENTE PARA OS ESTRANGEIROS ORIGINÁRIOS DE PAÍSES DE LÍNGUA
+     ESTRANGEIROS DE QUALQUER NACIONALIDADE, DESDE                                  PORTUGUESA, SÃO EXIGIDOS APENAS 2 (DOIS) REQUISITOS:
+     QUE CUMPRAM 3 (TRÊS) REQUISITOS:
+                                                                                             • RESIDÊNCIA POR UM ANO ININTERRUPTO; E
+         • RESIDÊNCIA ININTERRUPTA NO BRASIL POR MAIS                                        • IDONEIDADE MORAL.
+           DE QUINZE ANOS;
+         • AUSÊNCIA DE CONDENAÇÃO PENAL; E                                          A CONCESSÃO É ATO DISCRICIONÁRIO DO PRESIDENTE DA REPÚBLICA.
+         • REQUERIMENTO DO INTERESSADO.
+     A    CONCESSÃO   É   DIREITO SUBJETIVO   DO
+     INTERESSADO, ATO VINCULADO DO PRESIDENTE DA
+     REPÚBLICA.
+     STF: O RECONHECIMENTO PELO EXECUTIVO GERA
+     EFEITOS DECLARATÓRIOS, RETROAGINDO À DATA DE
+     APRESENTAÇÃO DO REQUERIMENTO.                                                                                                     DIREITO CONSTITUCIONAL
+                                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+        INTRODUÇÃO, NACIONALIDADE ORIGINÁRIA E DERIVADA
+
+ PORTUGUESES RESIDENTES NO              SITUAÇÃO DE “QUASE NACIONALIDADE”, JÁ QUE RECEBEM O
+          BRASIL                        TRATAMENTO DE BRASILEIRO NATURALIZADO.
+
+CONCESSÃO DE DIREITOS INERENTES                  REQUISITOS (2)
+AOS NACIONAIS DO ESTADO.
+
+                                                                   • OS PORTUGUESES DEVERÃO TER RESIDÊNCIA PERMANENTE
+                                                                     NO BRASIL; E
+                                                                   • DEVERÁ HAVER RECIPROCIDADE DE TRATAMENTO DE
+                                                                     PORTUGAL EM FAVOR DOS BRASILEIROS.
+
+                                                                                                      DIREITO CONSTITUCIONAL
+                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+     CONDIÇÃO JURÍDICA DO NACIONALIZADO, PERDA DA NACIONALIDADE E
+                      LÍNGUAS E SÍMBOLOS OFICIAIS
+
+                                                                     CF/88: “A LEI NÃO PODERÁ ESTABELECER DISTINÇÃO ENTRE BRASILEIROS NATOS
+    CONDIÇÃO JURÍDICA DO NACIONALIZADO                               E NATURALIZADOS, SALVO NOS CASOS PREVISTOS NESTA CONSTITUIÇÃO”.
+
+                                                                     OS BRASILEIROS NATOS NÃO SERÃO EXTRADITADOS, EM NENHUMA HIPÓTESE.
+
+       CARGOS PRIVATIVOS DE BRASILEIRO NATO
+•   MINISTRO DO SUPREMO TRIBUNAL FEDERAL                             DISTINÇÕES ENTRE BRASILEIROS NATOS E NATURALIZADOS ESTABELECIDAS PELA
+•   PRESIDENTE E VICE-PRESIDENTE DA REPÚBLICA                        CF/88.
+•   PRESIDENTE DA CÂMARA DOS DEPUTADOS
+                                                                             6 (SEIS) VAGAS DO CONSELHO DE REPÚBLICA SÃO RESERVADAS PARA OS BRASILEIROS
+•   PRESIDENTE DO SENADO FEDERAL
+                                                                             NATOS.
+•   CARREIRA DIPLOMÁTICA
+•   OFICIAL DAS FORÇAS ARMADAS                                               OS BRASILEIROS NATURALIZADOS PODERÃO SER EXTRADITADOS EM CASO DE:
+•   MINISTRO DE ESTADO DA DEFESA                                                   • CRIME COMUM COMETIDO ANTES DA NATURALIZAÇÃO; OU
+                                                                                   • COMPROVADO ENVOLVIMENTO COM TRÁFICO ILÍCITO DE ENTORPECENTES E
+                                                                                     DROGAS AFINS, NA FORMA DA LEI.
+
+                                                                             APENAS OS BRASILEIROS NATOS OU OS NATURALIZADOS HÁ MAIS DE 10 ANOS TERÃO:
+         MNEMÔNICO: MP3.COM (LISTA TAXATIVA)
+                                                                                   • DIREITO DE PROPRIEDADE DE EMPRESAS JORNALÍSTICAS E DE RADIODIFUSÃO
+                                                                                     SONORA E DE SONS E IMAGENS.
+
+    • DIREITO DE EXERCER A GESTÃO DAS ATIVIDADES E ESTABELECER O CONTEÚDO DA PROGRAMAÇÃO.
+    • CASO SEJA SOCIEDADE, PELO MENOS 70% DO CAPITAL SOCIAL E DO VOTANTE DEVE PERTENCER A
+      BRASILEIRO NATO OU NATURALIZADO HÁ MAIS DE 10 ANOS.
+                                                                                                                                   DIREITO CONSTITUCIONAL
+                                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                CONDIÇÃO JURÍDICA DO NACIONALIZADO, PERDA DA
+                 NACIONALIDADE E LÍNGUAS E SÍMBOLOS OFICIAIS
+
+                                                                             A PERDA DA NACIONALIDADE É A EXTINÇÃO DO VÍNCULO PATRIAL QUE LIGA O
+             PERDA DA NACIONALIDADE                                          INDIVÍDUO AO ESTADO.
+
+NOVIDADE – EC Nº 131/2023: SERÁ DECLARADA A                                  TIVER CANCELADA SUA NATURALIZAÇÃO, POR SENTENÇA JUDICIAL, EM VIRTUDE
+PERDA DA NACIONALIDADE DO BRASILEIRO QUE:                                    DE:
+
+                                                                                  • FRAUDE RELACIONADA AO PROCESSO DE NATURALIZAÇÃO; OU
+                                                                                  • ATENTADO CONTRA A ORDEM CONSTITUCIONAL E O             ESTADO
+FIZER PEDIDO EXPRESSO DE PERDA DA NACIONALIDADE                                     DEMOCRÁTICO.
+BRASILEIRA     PERANTE     AUTORIDADE         BRASILEIRA
+COMPETENTE,      RESSALVADAS       SITUAÇÕES       QUE
+ACARRETEM APATRIDIA.
+
+A   RENÚNCIA    DA   NACIONALIDADE      NÃO   IMPEDE   O
+INTERESSADO     DE   READQUIRIR   SUA   NACIONALIDADE
+BRASILEIRA ORIGINÁRIA, NOS TERMOS DA LEI.
+                                                                                                                              DIREITO CONSTITUCIONAL
+                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+             CONDIÇÃO JURÍDICA DO NACIONALIZADO, PERDA DA
+              NACIONALIDADE E LÍNGUAS E SÍMBOLOS OFICIAIS
+
+                                                                   A LÍNGUA PORTUGUESA É O IDIOMA OFICIAL DA RFB.
+        LÍNGUA E SÍMBOLOS OFICIAIS
+
+OS ESTADOS, O DISTRITO FEDERAL E OS MUNICÍPIOS
+PODERÃO TER SÍMBOLOS PRÓPRIOS.
+
+                                                                                       SÃO SÍMBOLOS DA RFB:
+
+                                                                                        •   A BANDEIRA.
+                                                                                        •   O HINO.
+                                                                                        •   AS ARMAS.
+                                                                                        •   OS SELOS NACIONAIS.
+
+                                                                                                                    DIREITO CONSTITUCIONAL
+                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---

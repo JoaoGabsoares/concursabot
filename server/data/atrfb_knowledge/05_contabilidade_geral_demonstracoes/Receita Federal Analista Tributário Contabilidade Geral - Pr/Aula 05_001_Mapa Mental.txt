@@ -1,0 +1,229 @@
+                                                                  CONTA É O NOME DADO AOS COMPONENTES PATRIMONIAIS (BENS,
+                                                                  DIREITOS E OBRIGAÇÕES) E DE RESULTADO (DESPESAS E RECEITAS)
+
+
+                  PLANO DE CONTAS
+
+
+PLANO DE CONTAS      É O CONJUNTO DE TODAS AS CONTAS EXISTENTES DENTRO UMA ENTIDADE PARA UNIFORMIZAR OS REGISTROS CONTÁBEIS
+
+
+                     VARIA DE ENTIDADE PARA ENTIDADE
+
+
+                                    ELENCO DE CONTAS: RELAÇÃO DE CONTAS UTILIZADAS PELA EMPRESA E ENVOLVE A TITULAÇÃO (NOME) E O
+                                    CÓDIGO DA CONTA
+
+
+
+                     PARTES         MANUAL DE CONTAS: APRESENTA INFORMAÇÕES SOBRE CADA CONTA (FUNÇÃO, FUNCIONAMENTO, ETC)
+
+
+
+                                    MODELOS DE DEMONSTRAÇÕES CONTÁBEIS
+
+                                                                                                              CONTABILIDADE GERAL
+                                                https://t.me/KakashiAssinaturasBot                           ESTRATÉGIA CONCURSOS
+                                               ELEMENTOS ESSENCIAIS DO LANÇAMENTO
+
+FORMALIDADES SEGUNDO A ITG 2000 (R1)
+
+                                                           ATENÇÃO! A PREPOSIÇÃO “A” INDICA CONTA CREDITADA
+
+
+
+                                                  A) EM IDIOMA E EM MOEDA CORRENTE NACIONAIS
+                                                  B) EM FORMA CONTÁBIL
+                                                  C) EM ORDEM CRONOLÓGICA DE DIA, MÊS E ANO
+     A ESCRITURAÇÃO CONTÁBIL DEVE SER EXECUTADA
+                                                  D) COM AUSÊNCIA DE ESPAÇOS EM BRANCO, ENTRELINHAS, BORRÕES, RASURAS OU EMENDAS
+                                                  E) COM BASE EM DOCUMENTOS DE ORIGEM EXTERNA OU INTERNA OU, NA SUA FALTA, EM ELEMENTOS QUE
+                                                  COMPROVEM OU EVIDENCIEM FATOS CONTÁBEIS
+
+
+                                                  A) DATA DO REGISTRO CONTÁBIL, OU SEJA, A DATA EM QUE O FATO CONTÁBIL OCORREU
+                                                  B) CONTA DEVEDORA
+                                                  C) CONTA CREDORA
+                                                  D) HISTÓRICO QUE REPRESENTE A ESSÊNCIA ECONÔMICA DA TRANSAÇÃO OU O CÓDIGO DE HISTÓRICO
+     É ESSENCIAL QUE CONSTE EM UM LANÇAMENTO
+                                                  PADRONIZADO, NESTE CASO BASEADO EM TABELA AUXILIAR INCLUSA EM LIVRO PRÓPRIO
+                                                  E) VALOR DO REGISTRO CONTÁBIL
+                                                  F) INFORMAÇÃO QUE PERMITA IDENTIFICAR, DE FORMA UNÍVOCA, TODOS OS REGISTROS QUE INTEGRAM
+                                                  UM MESMO LANÇAMENTO CONTÁBIL
+
+
+                                                                                                                           CONTABILIDADE GERAL
+                                                     https://t.me/KakashiAssinaturasBot                                   ESTRATÉGIA CONCURSOS
+           MÉTODO DAS PARTIDAS DOBRADAS: UM OU                          APLICAÇÃO DE RECURSOS (DÉBITOS) = ORIGEM DE RECURSOS (CRÉDITOS)
+           MAIS DÉBITOS EM UMA OU MAIS CONTAS DEVE
+                                                                        EQUAÇÃO FUNDAMENTAL DA CONTABILIDADE
+           CORRESPONDER A UM OU MAIS CRÉDITOS DE
+           VALOR EQUIVALENTE EM UMA OU MAIS CONTAS
+                                                                                • ATIVO = PASSIVO EXIGÍVEL + PATRIMÔNIO LÍQUIDO (PL)
+                                                                                • ATIVO + DESPESA = PASSIVO EXIGÍVEL + PATRIMÔNIO LÍQUIDO (PL) + RECEITA
+
+
+AS CONTAS DO ATIVO, RETIFICADORAS
+DO PASSIVO, RETIFICADORAS DO PL E AS
+                                                 MÉTODO DAS PARTIDAS DOBRADAS,
+DE DESPESA TÊM NATUREZA DEVEDORA              FÓRMULAS E RETIFICAÇÃO DO LANÇAMENTO
+AS CONTAS DO PASSIVO, PL, RETIFICADORAS DO ATIVO E AS DE RECEITA TÊM NATUREZA CREDORA
+
+                 FÓRMULAS DE LANÇAMENTO
+
+
+ Lançamento        Débito          Crédito     Denominação                        RETIFICAÇÃO  DE LANÇAMENTO: CORREÇÃO DE REGISTRO
+                                                                                  REALIZADO COM ERRO NA ESCRITURAÇÃO CONTÁBIL, POR MEIO DE
+                                                Lançamento
+ 1ª Fórmula          1                 1
+                                                  Simples                                 •   ESTORNO: LANÇAMENTO INVERSO, ANULANDO O ANTERIOR
+                                                Lançamento                                •   TRANSFERÊNCIA: LANÇAMENTO TRANSPÕE PARA A CONTA CORRETA
+ 2ª Fórmula          1            2 ou mais
+                                                 Composto                                 •   COMPLEMENTAÇÃO: LANÇAMENTO COMPLEMENTAR, AUMENTANDO
+                                                                                              OU REDUZINDO O SALDO DA CONTA
+                                                Lançamento
+ 3ª Fórmula       2 ou mais            1                                                  •   RESSALVA: ANTES DE ENCERRAR O LANÇAMENTO ERRÔNEO, PERCEBE-
+                                                 Composto
+                                                                                              SE A INCORREÇÃO E PROMOVE-SE A CORREÇÃO NO PRÓPRIO
+                                                Lançamento                                    HISTÓRICO. USO DAS EXPRESSÕES “DIGO”, “OU MELHOR”, “EM TEMPO”
+ 4ª Fórmula       2 ou mais       2 ou mais
+                                                 Complexo
+                                                                                                                                           CONTABILIDADE GERAL
+                                                     https://t.me/KakashiAssinaturasBot                                                   ESTRATÉGIA CONCURSOS
+                                                           TIPOS DE FATOS CONTÁBEIS
+
+ATOS CONTÁBEIS/ADMINISTRATIVOS: SÃO ATOS RELEVANTES QUE NÃO ALTERAM O PATRIMÔNIO DA
+ENTIDADE (CONTRATAÇÃO DE EMPREGADO, ASSINATURA DE CONTRATO DE COMPRA E VENDA, AVAL DE
+TÍTULO DE CRÉDITO, ETC)
+
+
+
+FATOS CONTÁBEIS/ADMINISTRATIVOS: SÃO FATOS RELEVANTES QUE ALTERAM O PATRIMÔNIO DA ENTIDADE
+
+
+   FATO PERMUTATIVO/QUALITATIVO: NÃO ALTERAM O VALOR DO PL, CONSTITUINDO APENAS PERMUTAÇÃO ENTRE ELEMENTOS PATRIMONIAIS
+
+
+   FATO MODIFICATIVO/QUANTITATIVO: ALTERAM O VALOR DO PL, ENVOLVENDO CONTAS DE RESULTADO
+
+     • AUMENTATIVOS: AUMENTO DA SITUAÇÃO LÍQUIDA MEDIANTE AUMENTO DO
+       ATIVO OU DIMINUIÇÃO DO PASSIVO. HÁ O RECONHECIMENTO DE RECEITA
+     • DIMINUTIVOS: DIMINUIÇÃO DA SITUAÇÃO LÍQUIDA MEDIANTE AUMENTO DO
+       PASSIVO OU DIMINUIÇÃO DO ATIVO. HÁ O RECONHECIMENTO DE DESPESA
+
+
+
+   FATOS MISTOS: ENVOLVEM, AO MESMO TEMPO, UM FATO PERMUTATIVO E UM FATO MODIFICATIVO
+
+     • AUMENTATIVOS: AUMENTAM A SITUAÇÃO LÍQUIDA PATRIMONIAL
+     • DIMINUTIVOS: DIMINUEM A SITUAÇÃO LÍQUIDA PATRIMONIAL
+
+
+                                                                                                               CONTABILIDADE GERAL
+                                              https://t.me/KakashiAssinaturasBot                              ESTRATÉGIA CONCURSOS
+                         INSUBSISTÊNCIAS E SUPERVENIÊNCIAS
+
+SUPERVENIÊNCIAS   ATIVAS: FATOS INESPERADOS QUE AUMENTAM O PATRIMÔNIO DA ENTIDADE, GERANDO RECEITAS
+
+                  EX: NASCIMENTO DE REBANHO, RECEBIMENTO DE HERANÇA
+
+                  PASSIVAS: FATOS INESPERADOS QUE DIMINUEM O PATRIMÔNIO DA ENTIDADE, GERANDO DESPESAS
+
+                  EX: JULGAMENTO DESFAVORÁVEL EM PROCESSO JUDICIAL
+
+
+
+
+                  ATIVAS/DO PASSIVO: FATOS QUE DEIXAM DE EXISTIR E AUMENTAM O PATRIMÔNIO DA ENTIDADE,
+INSUBSISTÊNCIAS   GERANDO RECEITAS
+
+                  EX: PERDÃO DE UMA DÍVIDA
+
+                  PASSIVAS/DO ATIVO: FATOS QUE DEIXAM DE EXISTIR E DIMINUEM O PATRIMÔNIO DA ENTIDADE,
+                  GERANDO DESPESAS
+
+                  EX: MORTE DE UM ANIMAL DA ENTIDADE
+
+
+
+                                                                                               CONTABILIDADE GERAL
+                                     https://t.me/KakashiAssinaturasBot                       ESTRATÉGIA CONCURSOS
+                                                                                                            LIVROS CONTÁBEIS FISCAIS
+                                                                                              •      ESTÁ PREVISTO NO CÓDIGO CIVIL
+                                  LIVRO DIÁRIO                                                •      CONTÉM O REGISTRO DE TODO E CADA LANÇAMENTO EM ORDEM CRONOLÓGICA
+                                                                                              •      É UM LIVRO PRINCIPAL E OBRIGATÓRIO (REGRA)
+•    O REGULAMENTO DO IMPOSTO DE RENDA (IR) ADMITE A ESCRITURAÇÃO
+     RESUMIDA DO DIÁRIO, COM TOTAIS QUE NÃO EXCEDAM O PERÍODO DE TRINTA                                                        É dispensado para o pequeno empresário
+     DIAS, RELATIVAMENTE A CONTAS, CUJAS OPERAÇÕES SEJAM NUMEROSAS OU
+     REALIZADAS FORA DA SEDE DO ESTABELECIMENTO
+•    FORMALIDADES                                                                  Formato Não Digital
+
+
+                 INTRÍNSECAS (FINALIDADE: RESGUARDAR A FIDEDIGNIDADE                     EXTRÍNSECAS (FINALIDADE: DIFICULTAR ADULTERAÇÃO)
+                 DOS FATOS OCORRIDOS EM RELAÇÃO AOS FATOS REGISTRADOS)
+                                                                                         • DEVE SER ENCADERNADO
+                                                                                         • AS FOLHAS DEVEM SER NUMERADAS
+                 • SEGUIR UMA ORDEM CRONOLÓGICA                                          • DEVE CONTER TERMO DE ABERTURA E DE ENCERRAMENTO ASSINADOS PELO TITULAR
+                 • NÃO DEVE HAVER RASURAS, BORRÕES, SINAIS, LINHAS EM                         OU REPRESENTANTE LEGAL DA ENTIDADE E PELO PROFISSIONAL DA CONTABILIDADE
+                   BRANCO, ENTRELINHAS, FOLHAS EM BRANCO ETC                                  REGULARMENTE HABILITADO NO CONSELHO REGIONAL DE CONTABILIDADE
+
+                 • A ESCRITURAÇÃO DEVE SER FEITA EM LÍNGUA E MOEDA
+                      NACIONAIS
+
+
+
+
+                           • SER ASSINADO DIGITALMENTE PELA ENTIDADE E PELO PROFISSIONAL DA CONTABILIDADE REGULARMENTE HABILITADO
+    Formato Digital
+                           • QUANDO EXIGÍVEL POR LEGISLAÇÃO ESPECÍFICA, SER AUTENTICADO NO REGISTRO PÚBLICO OU ENTIDADE COMPETENTE
+
+
+                                                                                                                                                   CONTABILIDADE GERAL
+                                                                https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+                                    LIVROS CONTÁBEIS FISCAIS
+
+
+                    LIVRO RAZÃO                                            LIVROS OBRIGATÓRIOS PARA AS SOCIEDADES ANÔNIMAS
+• APRESENTA AS MODIFICAÇÕES OCORRIDAS EM CADA CONTA                       • LIVRO DE REGISTRO DE AÇÕES NOMINATIVAS
+• É UM LIVRO FACULTATIVO (REGRA), PRINCIPAL E SISTEMÁTICO                 • LIVRO DE "TRANSFERÊNCIA DE AÇÕES NOMINATIVAS"
+• LEGISLAÇÃO DO IR: CONTRIBUINTES SUJEITOS À APURAÇÃO DO                  • LIVRO DE "REGISTRO DE PARTES BENEFICIÁRIAS NOMINATIVAS" E O DE
+  LUCRO REAL DEVEM ESCRITURAR O LIVRO RAZÃO                                 "TRANSFERÊNCIA DE PARTES BENEFICIÁRIAS NOMINATIVAS"
+• ITG   2000    (R1):   O   LIVRO   RAZÃO   É   CONSIDERADO               • LIVRO DE ATAS DAS ASSEMBLEIAS GERAIS
+  OBRIGATÓRIO                                                             • LIVRO DE PRESENÇA DOS ACIONISTAS
+• APLICAM-SE AS MESMAS FORMALIDADES DO LIVRO DIÁRIO,                      • LIVROS DE ATAS DAS REUNIÕES DO CONSELHO DE ADMINISTRAÇÃO, SE HOUVER,
+  SEGUNDO A ITG 2000 (R1)                                                   E DE ATAS DAS REUNIÕES DE DIRETORIA
+                                                                          • LIVRO DE ATAS E PARECERES DO CONSELHO FISCAL
+
+                    LIVRO CAIXA
+• REGISTRA AS ENTRADAS E SAÍDAS DE NUMERÁRIO
+• É UM LIVRO OBRIGATÓRIO PARA CONTRIBUINTES QUE ESTEJAM
+  NO REGIME SIMPLIFICADO PREVISTO NA LEI COMPLEMENTAR Nº
+  123/2006
+
+                                                                                                                             CONTABILIDADE GERAL
+                                                        https://t.me/KakashiAssinaturasBot                                  ESTRATÉGIA CONCURSOS
+BALANCETE DE VERIFICAÇÃO
+DEMONSTRATIVO DE CARÁTER AUXILIAR EM QUE SÃO RELACIONADAS TODAS AS CONTAS
+
+SEU OBJETIVO É VERIFICAR SE FOI APLICADO CORRETAMENTE O MÉTODO DAS PARTIDAS DOBRADAS
+
+AS INFORMAÇÕES NECESSÁRIAS PARA SUA ELABORAÇÃO SÃO ORIUNDAS DO LIVRO RAZÃO
+
+NEM TODOS OS ERROS DE ESCRITURAÇÃO SÃO VERIFICÁVEIS NO BALANCETE DE VERIFICAÇÃO, TAIS COMO
+•   ESTORNOS DO PERÍODO
+•   CLASSIFICAÇÃO DAS CONTAS
+•   MOVIMENTO INDIVIDUAL DAS CONTAS
+•   LANÇAMENTO DO PERÍODO
+
+
+HÁ BALANCETES DE 2, 4, 6 E 8 COLUNAS                                        •   IDENTIFICAÇÃO DA ENTIDADE
+                                                                            •   DATA A QUE SE REFERE
+                                                                            •   ABRANGÊNCIA
+ELEMENTOS MÍNIMOS, SEGUNDO A NBC T 2.7 (REVOGADA)
+                                                                            •   IDENTIFICAÇÃO DAS CONTAS E RESPECTIVOS GRUPOS
+                                                                            •   SALDOS DAS CONTAS, INDICANDO SE DEVEDORES OU CREDORES
+                                                                            •   SOMA DOS SALDOS DEVEDORES E CREDORES
+
+                                                                                                                  CONTABILIDADE GERAL
+                                       https://t.me/KakashiAssinaturasBot                                        ESTRATÉGIA CONCURSOS
+

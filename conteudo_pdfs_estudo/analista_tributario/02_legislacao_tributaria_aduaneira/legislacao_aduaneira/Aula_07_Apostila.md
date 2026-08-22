@@ -1,0 +1,5213 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 07_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Legislação Aduaneira
+artigos_citados:
+- ART. 617
+- Art. 698.
+- Art. 706.
+- art. 694
+- art. 695
+- art. 728
+- art. 737.
+- artigo 23
+---
+
+# Legislação Aduaneira
+
+Aula 06
+                          Receita Federal (Analista Tributário)
+                                         Legislação Aduaneira
+
+                                                          Autor:
+                                     Áulus Dias Warzeé Mattos
+
+                                              08 de Abril de 2024
+
+---
+
+      Áulus Dias Warzeé Mattos
+      Aula 06
+
+                                                                                     Índice
+1) Infrações e Penalidades
+
+
+2) Pena de Perdimento
+
+
+3) Multas na Importação e na Exportação
+
+
+4) Intervenientes e Sanções Administrativas
+
+
+5) Infrações Praticadas pela Administração Pública
+
+
+6) Questões Comentadas - Infrações e Penalidades - Multibancas
+
+
+7) Questões Comentadas - Pena de Perdimento - Multibancas
+
+
+8) Questões Comentadas - Multas na Importação e na Exportação - Multibancas
+
+
+9) Questões Comentadas - Intervenientes e Sanções Administrativas - Multibancas
+
+
+10) Lista de Questões - Infrações e Penalidades - Multibancas
+
+
+11) Lista de Questões - Pena de Perdimento - Multibancas
+
+
+12) Lista de Questões - Multas na Importação e na Exportação - Multibancas
+
+
+13) Lista de Questões - Intervenientes e Sanções Administrativas - Multibancas
+
+                Receita Federal (Analista Tributário) Legislação Aduaneira                                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                          106
+
+                                                             
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                              INFRAÇÕES E PENALIDADES
+
+Infrações à Legislação Aduaneira
+
+O art. 673 do Regulamento Aduaneiro estabelece o conceito de infração à legislação aduaneira.
+Vejamos:
+
+        Art. 673. Constitui infração toda ação ou omissão, voluntária ou involuntária, que
+        importe inobservância, por parte de pessoa física ou jurídica, de norma
+        estabelecida ou disciplinada neste Decreto ou em ato administrativo de caráter
+        normativo destinado a completá-lo.
+
+        Parágrafo único. Salvo disposição expressa em contrário, a responsabilidade por
+        infração independe da intenção do agente ou do responsável e da efetividade, da
+        natureza e da extensão dos efeitos do ato.
+
+Da definição de infração prevista no art. 673, do R/A, podemos extrair as seguintes informações:
+
+            a) A infração à legislação aduaneira poderá decorrer de uma ação ou omissão, ou seja,
+               condutas comissivas ou omissivas podem ser consideradas infrações aduaneiras;
+
+            b) A infração à legislação aduaneira consiste na inobservância de normas estabelecidas
+               pelo Regulamento Aduaneiro ou por atos administrativos de caráter normativo
+               destinados a completá-lo;
+
+            c) A infração à legislação aduaneira pode ser cometida por pessoa física ou pessoa
+               jurídica;
+
+            d) A infração à legislação aduaneira poderá ser aplicada diante de ação/omissão
+               voluntária ou involuntária. Aplica-se, portanto, às infrações aduaneiras, o princípio da
+               responsabilidade objetiva. Em regra, a responsabilidade por infração independe da
+               intenção do agente ou do responsável e da efetividade, da natureza e da extensão
+               dos efeitos do ato;
+
+Vale destacar que as infrações à legislação aduaneira, assim como as penalidades a elas aplicáveis,
+precisam estar previstas em lei, e que somente podem ser alcançadas pelas disposições legais
+sancionatórias as condutas praticadas após a entrada em vigor da referida lei (princípios da
+legalidade e da irretroatividade). Notem, em consonância, que essa definição de infração
+estabelecida pelo Regulamento Aduaneiro (que é um decreto) encontra respaldo no artigo 94 do
+Decreto-Lei nº 37/66.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                   3
+        www.estrategiaconcursos.com.br                                                              106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+O art. 674 do R/A esclarece quais as pessoas que podem ser responsabilizadas pelas infrações
+aduaneiras. A regra geral é a seguinte: responde pela infração à legislação aduaneira quem quer
+que, de qualquer forma, concorra para a sua prática ou dela se beneficie.
+
+        Art. 674. Respondem pela infração:
+
+        I - conjunta ou isoladamente, quem quer que, de qualquer forma, concorra para
+        sua prática ou dela se beneficie;
+
+        II - conjunta ou isoladamente, o proprietário e o consignatário do veículo, quanto
+        à que decorra do exercício de atividade própria do veículo, ou de ação ou omissão
+        de seus tripulantes;
+
+        III - o comandante ou o condutor de veículo, nos casos do inciso II, quando o
+        veículo proceder do exterior sem estar consignado a pessoa física ou jurídica
+        estabelecida no ponto de destino;
+
+        IV - a pessoa física ou jurídica, em razão do despacho que promova, de qualquer
+        mercadoria;
+
+        V - conjunta ou isoladamente, o importador e o adquirente de mercadoria de
+        procedência estrangeira, no caso de importação realizada por conta e ordem
+        deste, por intermédio de pessoa jurídica importadora; e
+
+        VI - conjunta ou isoladamente, o importador e o encomendante predeterminado
+        que adquire mercadoria de procedência estrangeira de pessoa jurídica
+        importadora.
+
+        Parágrafo único. Para fins de aplicação do disposto no inciso V, presume-se por
+        conta e ordem de terceiro a operação de comércio exterior realizada mediante
+        utilização de recursos deste, ou em desacordo com os requisitos e condições
+        estabelecidos na forma da alínea “b” do inciso I do § 1o do art. 106.
+
+Penalidades previstas na Legislação Aduaneira
+
+As infrações à legislação aduaneira estão sujeitas a cinco tipos de penalidades, conforme o art.
+675, do Regulamento Aduaneiro: perdimento de veículo; perdimento de mercadoria; perdimento
+de moeda; multa; e sanção administrativa.
+
+        Art. 675. As infrações estão sujeitas às seguintes penalidades, aplicáveis separada
+        ou cumulativamente:
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             4
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        I - perdimento do veículo;
+
+        II - perdimento da mercadoria;
+
+        III - perdimento de moeda;
+
+        IV - multa; e
+
+        V - sanção administrativa.
+
+De início, cumpre-nos ressaltar que, nos termos dos artigos 676 e 677 do Regulamento Aduaneiro,
+a penalidade será proposta por um Auditor-Fiscal da RFB, ao passo que a aplicação efetiva
+competirá à autoridade julgadora (outro Auditor-Fiscal da RFB investido na competência de
+julgador).                                             ==219a34==
+
+        Art. 676. A aplicação das penalidades a que se refere o art. 675 será proposta por
+        Auditor-Fiscal da Receita Federal do Brasil.
+
+        Art. 677. Compete à autoridade julgadora:
+
+        I - determinar a pena ou as penas aplicáveis ao infrator ou a quem deva responder
+        pela infração; e
+
+        II - fixar a quantidade da pena, respeitados os limites legais.
+
+Em um mesmo processo, é possível que seja apurada a prática de duas ou mais infrações
+diferentes pela mesma pessoa física ou jurídica. (art. 679. do R/A) Nesse caso, as penalidades
+poderão ser aplicadas cumulativamente. Assim, se uma mesma empresa cometer duas infrações,
+apuradas em um mesmo processo, ela poderá sofrer a incidência de duas penalidades.
+
+Também pode acontecer de, em um mesmo processo, ser apurada a responsabilidade de duas
+ou mais pessoas. Nessa situação, será imposta a cada uma delas a penalidade relativa à infração
+que houver cometido.
+
+Importa ressaltar que, salvo disposição em contrário, a aplicação de penalidade tributária, e seu
+cumprimento, não impedem a cobrança dos tributos devidos, nem prejudicam a aplicação das
+penas cominadas para o mesmo fato pela legislação criminal e especial.
+
+O art. 683, do R/A, versa sobre o instituto da denúncia espontânea. A denúncia espontânea da
+infração, acompanhada, se for o caso, do pagamento dos tributos e dos acréscimos legais, excluirá
+a imposição da correspondente penalidade.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             5
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        O Decreto nº 8.010/2013, reproduzindo comando da Lei nº 12.350/2010, dispôs
+        o seguinte sobre a denúncia espontânea:
+
+        “A denúncia espontânea exclui a aplicação de multas de natureza tributária ou
+        administrativa, com exceção das aplicáveis na hipótese de mercadoria sujeita a
+        pena de perdimento.”
+
+        Até a edição da Lei nº 12.350/2010, a denúncia espontânea excluía apenas as
+        penalidades de natureza tributária.
+
+        Com a publicação dessa lei, temos duas inovações:
+
+        Ampliação do alcance da denúncia espontânea, que passa a abranger também as
+        penalidades de natureza administrativa.
+
+        Menção ao fato de que a denúncia espontânea não exclui a aplicação da pena de
+        perdimento.
+
+A pergunta que eu faço agora é a seguinte: quando uma denúncia não será considerada
+espontânea?
+
+Simples. Não é considerada espontânea a denúncia apresentada:
+
+            a) no curso do despacho aduaneiro, até o desembaraço da mercadoria. O registro da
+               DI exclui a espontaneidade do sujeito passivo;
+
+            b) após o início de qualquer outro procedimento fiscal, mediante ato de ofício, escrito,
+               praticado por servidor competente, tendente a apurar a infração. Ao iniciar a
+               fiscalização, a autoridade aduaneira deverá lavrar um termo, marcando, assim, o fim
+               da espontaneidade do sujeito passivo quanto à matéria objeto da fiscalização;
+
+            c) após formalizada a entrada do veículo procedente do exterior, no caso de infração
+               imputável ao transportador.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                6
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+(Questão Inédita/2022) Constitui infração à legislação aduaneira toda ação ou omissão, desde que
+voluntária, que resulte em inobservância a norma disciplinada no Regulamento Aduaneiro ou em
+ato administrativo de caráter normativo destinado a completá-lo.
+
+Comentários
+
+Para configurar infração à legislação aduaneira, a ação ou omissão poderá ser voluntária ou
+involuntária.
+
+Gabarito: errada
+
+(Questão Inédita/2022) As infrações à legislação aduaneira podem ser praticadas tanto por
+pessoas físicas quanto por pessoas jurídicas. A responsabilidade por infração, em qualquer caso,
+independe da intenção do agente.
+
+Comentários
+
+Salvo disposição em contrário, a responsabilidade por infrações à Legislação Aduaneira independe
+da intenção do agente. Há determinadas infrações, no entanto, que pressupõem a conduta dolosa
+(intenção) do agente.
+
+Gabarito: errada
+
+(Questão Inédita/2022) Não se considera espontânea a denúncia apresentada antes da lavratura
+do termo de início da fiscalização.
+
+Comentários
+
+Antes da lavratura do termo de início da fiscalização, a denúncia apresentada será considerada
+espontânea.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            7
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                   PENA DE PERDIMENTO
+
+Natureza jurídica
+
+De início, cumpre-nos esclarecer que a Constituição de 1967 previa expressamente, em seu artigo
+150, §11, o cabimento do perdimento de bens em decorrência de danos causados ao erário.
+Precisamente por isso, as normas que tratam do perdimento de bens vinculam as infrações
+correspondentes com a ocorrência de dano ao erário.
+
+Notem, nesse sentido, que os artigos 23 e 24, do Decreto-Lei nº 1.455/76, estabelecem uma
+presunção absoluta (iuris et de iure) de ocorrência de dano ao erário nas hipóteses que relaciona
+para efeito de aplicação da pena de perdimento.
+
+A Constituição de 1988, por outro lado, em seu artigo 5º, inciso XLVI, alínea “b”, estabelece
+apenas que a lei regulará a individualização da pena e adotará, dentre outras, a perda de bens.
+Não há, dessa forma, previsão explícita na CR/88 da pena de perdimento de bens especificamente
+por dano ao erário. Isso já levou alguns autores a, inclusive, se posicionarem pela defesa da
+inconstitucionalidade da pena de perdimento.
+
+Não é, todavia, esse o pensamento que deve prosperar. A falta de menção expressa na CR/88 não
+autoriza a conclusão pela não-recepção das normas que estabelecem a penalidade. Com efeito, a
+admissibilidade da pena de perda de bens continua sendo prevista expressamente na
+Constituição, e as hipóteses em que ela será admitida simplesmente não foi tratada pela Carta
+Magna, sendo remetida ao tratamento via lei ordinária.
+
+Nesse sentido, os diversos tribunais pátrios têm decidido pela compatibilidade da pena de
+perdimento com o atual ordenamento constitucional brasileiro.
+
+Mas em que consiste a pena de perdimento? E qual é seu fundamento jurídico?
+
+A pena de perdimento consiste em manifestação do poder de polícia, por meio do qual o Estado
+expropria o bem de uma pessoa, o qual, a partir daí, se incorpora ao seu patrimônio. Trata-se de
+sanção de ato ilícito, de natureza repressivo-compensatória. De fato, a pena de perdimento
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             8
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+     Áulus Dias Warzeé Mattos
+     Aula 06
+
+objetiva, ao mesmo tempo, castigar o infrator (natureza repressiva) e ressarcir o erário (natureza
+compensatória). Daí dizer-se, também, que a pena de perdimento tem natureza mista1.
+
+Há quem diga que o fundamento jurídico da pena de perdimento continua sendo o dano ao erário.
+Nesse sentido, de acordo com Vera Lúcia Feil Ponciano, a validade da pena de perdimento
+decorre precisamente da tradição histórica brasileira de proteção ao erário2. Vale destacar, no
+entanto, que o dano ao erário não diz respeito exclusivamente a prejuízos na atividade
+arrecadatória (tributação), abrangendo a proteção do patrimônio público como um todo.
+
+Ainda assim, essa compreensão de que o dano ao erário é o fundamento jurídico da pena de
+perdimento faz com que sujeitos passivos autuados exijam a quantificação do dano ao patrimônio
+público como condição para que seja aplicável a penalidade.
+
+Nesse contexto, importa reiterar que o cabimento da pena de perdimento não é mais vinculado
+à ocorrência de dano ao erário pela Constituição, pelo que não estaria em dissonância com a Carta
+Política eventual aplicação da pena de perdimento com fundamento em lesão a bem jurídico
+diverso, mesmo em casos em que não há identificação de dano ao patrimônio público
+propriamente dito. Notem, por exemplo, que o artigo 105, inciso XIX, do Decreto-Lei nº 37/66,
+prevê a aplicação da pena de perdimento da mercadoria estrangeira atentatória à moral, aos bons
+costumes ou à saúde pública.
+
+De toda sorte, mesmo para aqueles que sustentam que a pena de perdimento somente se aplica
+com fundamento no dano ao erário, convém recordar que os artigos 23 e 24, do Decreto-Lei nº
+1.455/76, estabelecem uma presunção absoluta de ocorrência de dano ao erário nas hipóteses
+em que se aplica a pena de perdimento (inclusive no caso do artigo 105, inciso XIX, do DL 37/66),
+pelo que não se exige a comprovação do dano ao patrimônio público tampouco a sua
+quantificação para que seja imposta a sanção.
+
+1
+    FERREIRA, Jean Marcos. Confisco e Perda de Bens no Direito Brasileiro . Campo Grande, 2000, p. 203.
+
+2
+ PONCIANO, Vera Lúcia Feil. Sanção Aplicável ao Subfaturamento na Importação: Pena de Perdimento ou Pena de Multa? In:
+Temas Atuais de Direito Aduaneiro, São Paulo: Lex Editora, 2008, pp. 275-283
+
+            Receita Federal (Analista Tributário) Legislação Aduaneira                                             9
+            www.estrategiaconcursos.com.br                                                                        106
+
+                                          
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                                                 Consiste em manifestação
+                                                                  do poder de polícia do
+                                                                          Estado
+
+                    Pena de Perdimento
+                                                                 O Estado expropria o bem
+                                                                 de uma pessoa, o qual, a
+                                                                 partir daí, se incorpora ao
+                                                                       seu patrimônio
+
+Hipóteses de aplicação
+
+Amigos, esse tópico do edital é “pura memorização”! Peço que leiam atentamente cada uma das
+hipóteses de aplicação da pena de perdimento, as quais serão ilustradas por exemplos práticos
+sempre que possível. Creio que essa será uma boa metodologia para que vocês internalizem o
+assunto!
+
+Pena de perdimento de veículos
+
+A pena de perdimento de veículos será aplicada nas hipóteses do art. 688 do Regulamento
+Aduaneiro. Vale destacar que somente será alcançado por tais disposições o veículo transportador
+procedente do exterior ou a ele destinado. Notem, no mais, que, na ocorrência de tais situações,
+resta configurado dano ao erário, por força do disposto no artigo 24 do Decreto-Lei nº 1.455/76.
+
+Vejamos cada uma das situações previstas no art. 688!
+
+            a) quando o veículo transportador estiver em situação ilegal, quanto às normas que o
+               habilitem a exercer a navegação ou o transporte internacional correspondente à sua
+               espécie;
+
+A habilitação para o transporte rodoviário internacional de cargas depende de habilitação junto à
+Agência Nacional de Transportes Terrestres (ANTT). Já a habilitação para a navegação marítima
+deve observar as normas da Agência Nacional de Transportes Aquaviários (ANTAQ). Se o veículo
+transportador estiver em situação ilegal no que diz respeito às normas de habilitação, ele se
+sujeitará à pena de perdimento.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             10
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            b) quando o veículo transportador efetuar operação de descarga de mercadoria
+               estrangeira ou de carga de mercadoria nacional ou nacionalizada, fora do porto, do
+               aeroporto ou de outro local para isso habilitado;
+
+Os veículos deverão entrar no território pela zona primária. Após terem sido prestadas as
+informações, será feita a descarga em um recinto alfandegado de zona primária. É possível, ainda,
+que seja concedido o regime de trânsito aduaneiro à mercadoria, que, então, seguirá até um
+recinto alfandegado de zona secundária, onde será descarregada.
+
+Contudo, o descarregamento de mercadoria (ou mesmo o carregamento), caso não seja realizado
+nesses locais autorizados, dará ensejo à aplicação da pena de perdimento do veículo infrator.
+Recorde-se que o art. 27, inciso I, do R/A estabelece que é proibido ao condutor de veículo
+procedente do exterior ou a ele destinado estacionar ou efetuar operações de carga ou descarga
+de mercadoria, inclusive transbordo, fora de local habilitado.
+                                                       ==219a34==
+
+            c) quando a embarcação atracar a navio ou quando qualquer veículo, na zona primária,
+               se colocar nas proximidades de outro, um deles procedente do exterior ou a ele
+               destinado, de modo a tornar possível o transbordo de pessoa ou de carga, sem
+               observância das normas legais e regulamentares;
+
+Suponha que uma embarcação tenha chegado no Porto de Santos e aí um outro barco (fora de
+controle aduaneiro) se posiciona ao seu lado, de modo a tornar possível o transbordo de
+mercadorias. Se for realizado o transbordo (transferência direta de mercadorias de um veículo
+para o outro), várias mercadorias trazidas pela embarcação poderão fugir ao controle aduaneiro,
+não é mesmo?
+
+Para prevenir essa prática ilícita, o art. 28, caput, do R/A, estabelece que é proibido ao condutor
+do veículo colocá-lo nas proximidades de outro, sendo um deles procedente do exterior ou a ele
+destinado, de modo a tornar possível o transbordo de pessoa ou mercadoria, sem observância
+das normas de controle aduaneiro. Caso essa proibição seja desrespeitada, aplica-se a pena de
+perdimento.
+
+            d) quando a embarcação navegar dentro do porto, sem trazer escrito, em tipo
+               destacado e em local visível do casco, seu nome de registro;
+
+O navio deve trazer sua identificação no casco. É como se fosse uma placa! Caso não o faça, ficará
+sujeito à aplicação da pena de perdimento.
+
+            e) quando o veículo conduzir mercadoria sujeita a perdimento, se pertencente ao
+               responsável por infração punível com essa penalidade;
+
+Entre todas as hipóteses de aplicação da pena de perdimento de veículos, considero essa é a que
+mais ocorre na prática, pelo que é também a mais importante para a sua prova. Suponha que você
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              11
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+é um Auditor Fiscal RFB exercendo suas atribuições em Foz da Iguaçu. Aí você depara com uma
+kombi trazendo no porta-malas, em um fundo falso, uma enorme quantidade de cigarros do
+Paraguai sem selos de controle. Esses cigarros irão se sujeitar à aplicação da pena de perdimento.
+Junto com eles, a kombi também se sujeitará ao perdimento, se pertencente ao responsável pela
+infração. O objetivo de se aplicar o perdimento a veículo que transporta mercadoria sujeita a
+perdimento é quebrar o fluxo logístico de atividades ilícitas.
+
+Destaque-se que, conforme jurisprudência do STJ sobre o tema, a responsabilidade e a má fé do
+proprietário do veículo na prática do ilícito são condições imprescindíveis para a aplicação da pena
+de perdimento.
+
+        ADMINISTRATIVO. INFRAÇÃO.VEÍCULO TRANSPORTADOR E MERCADORIA
+        APREENDIDA.PENA    DE   PERDIMENTO   DO   VEÍCULO. PROCESSO
+        ADMINISTRATIVO. NECESSIDADE.
+
+        1. A Segunda Turma firmou o entendimento de que não cabe a aplicação da pena
+        de perdimento de veículo quando não forem devidamente comprovadas,
+        mediante regular processo administrativo, a responsabilidade e a má-fé de seu
+        proprietário na prática do ilícito.
+
+        2. Agravo Regimental não provido.
+
+        (AgRg no REsp 1295754 DF 2011/0285835-4, Rel.: Min. Herman Benjamin, Órgão
+        Julgador: 2ª Turma, Pub. DJe 12/04/2012)
+
+Reforçando esse entendimento, o art. 688, § 2º, do R/A, estabelece que, para efeitos de aplicação
+do perdimento do veículo, na hipótese do inciso V, deverá ser demonstrada, em procedimento
+regular, a responsabilidade do proprietário do veículo na prática do ilícito.
+
+Outra questão que se impõe em relação aos veículos sujeitos à aplicação da pena de perdimento
+é saber se esta também poderá incidir naqueles que forem objeto de operações de leasing. A
+controvérsia reside no fato de que o arrendatário não detém a propriedade do veículo. Sobre o
+assunto, chamo novamente sua atenção para jurisprudência do STJ, segundo a qual é possível que
+a pena de perdimento recaia sobre veículo adquirido em contrato de leasing, quando há cláusula
+de aquisição ao final do contrato (leasing financeiro). Confiram:
+
+        ADMINISTRATIVO - PENA DE PERDIMENTO DE VEÍCULO - TRANSPORTE
+        IRREGULAR DE MERCADORIAS - POSSIBILIDADE - VEÍCULO ADQUIRIDO EM
+        CONTRATO DE LEASING.
+
+        1. Não se aplica a Súmula n. 7/STJ, quando a matéria a ser decidida é
+        exclusivamente de direito.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               12
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        2. A pena de perdimento de veículo por transporte irregular de mercadoria pode
+        atingir os veículos adquiridos em contrato de leasing, quando há cláusula de
+        aquisição ao final do contrato.
+
+        3. A pena de perdimento não altera a obrigação do arrendatário do veículo, que
+        continua vinculado ao contrato.
+
+        4. Admitir que veículo objeto de leasing não possa ser alvo da pena de perdimento
+        seria verdadeiro salvo-conduto para a prática de ilícitos fiscais.
+
+        5. Recurso especial conhecido em parte e, nessa parte, não provido.
+
+        (REsp 1153767 PR 2009/0164600-7, Rel.: Min. Eliana Calmon, Órgão Julgador: 2ª
+        Turma, Publ.: DJe 26/08/2010).
+
+            f) quando o veículo terrestre utilizado no trânsito de mercadoria estrangeira for
+               desviado de sua rota legal sem motivo justificado;
+
+Quando a autoridade aduaneira concede o regime de trânsito aduaneiro à mercadoria estrangeira,
+é fixada uma rota a ser cumprida pelo transportador. Se o veículo se desviar dessa rota sem motivo
+justificado, ele se sujeitará à aplicação da pena de perdimento. Relembramos que o art. 27, inciso
+III, do R/A proíbe ao condutor de veículo procedente do exterior ou a ele destinado desviá-lo da
+rota estabelecida pela autoridade aduaneira, sem motivo justificado.
+
+            g) quando o veículo for considerado abandonado pelo decurso do prazo referido no art.
+               648;
+
+Resumidamente, caso não seja evidenciada a responsabilidade do proprietário do veículo que
+estiver transportando mercadorias sujeitas à pena de perdimento (conforme hipótese vista
+anteriormente), não cabe a aplicação da pena de perdimento do veículo, mas pode ser imposta
+uma multa. Nessa hipótese, o veículo fica retido até o pagamento da multa. Se a multa não for
+paga em 45 dias, o veículo é considerado abandonado e se aplica a pena de perdimento.
+
+Pena de perdimento de mercadorias
+
+A pena de perdimento de mercadorias será aplicada nas hipóteses relacionadas nos arts. 689 a
+697 do Regulamento Aduaneiro.
+
+O art. 689 do Regulamento Aduaneiro relaciona situações em que fica configurado dano ao erário,
+por força do disposto no artigo 23, do Decreto-Lei nº 1.455/76. O “cardápio” é enorme, futuros
+Auditores e Analistas da RFB!
+
+Vejamos, uma a uma, todas elas:
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             13
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            a) em operação de carga ou já carregada em qualquer veículo, ou dele descarregada
+               ou em descarga, sem ordem, despacho ou licença, por escrito, da autoridade
+               aduaneira, ou sem o cumprimento de outra formalidade essencial estabelecida em
+               texto normativo;
+
+Exemplo: O transportador Brincante S/A chega com seu navio ao Porto de Santos e, antes de
+prestadas as informações no SISCOMEX Carga, começa a fazer o descarregamento da mercadoria.
+
+            b) incluída em listas de sobressalentes e de provisões de bordo quando em desacordo,
+               quantitativo ou qualitativo, com as necessidades do serviço, do custeio do veículo e
+               da manutenção de sua tripulação e de seus passageiros;
+
+Exemplo: O navio da empresa Pilantragem S/A atraca ao Porto de Salvador trazendo mercadorias
+do exterior. Ele, então, apresenta à autoridade o manifesto de carga e a lista de sobressalentes e
+provisões de bordo. Todavia, nessa lista, estão relacionados 10.000 kg de bacalhau norueguês
+como provisão de bordo. O objetivo disso pode ser entrar com todo esse bacalhau
+clandestinamente no país. E, é claro, dizer que consumiu tudo enquanto o navio ficou no Brasil.
+
+            c) oculta, a bordo do veículo ou na zona primária, qualquer que seja o processo
+               utilizado;
+
+Exemplo: O transportador Pilantragem Ltda chega ao Brasil por Foz do Iguaçu trazendo 30 Ipads
+bem escondidos no porta-malas do veículo, em um fundo falso. O “pessoal da repressão”, que
+não é bobo, descobre. Aí, meu amigo, só lamento.
+
+            d) existente a bordo do veículo, sem registro em manifesto, em documento de efeito
+               equivalente ou em outras declarações;
+
+Exemplo: O transportador Fanfarrão S/A chega ao Porto de Paranaguá e apresenta à autoridade
+aduaneira um manifesto de carga em que constam 20 volumes. Na realização de busca à
+embarcação, a autoridade aduaneira constata que há vários volumes não relacionados do
+manifesto de carga.
+
+            e) nacional ou nacionalizada, em grande quantidade ou de vultoso valor, encontrada na
+               zona de vigilância aduaneira, em circunstâncias que tornem evidente destinar-se a
+               exportação clandestina;
+
+Exemplo: Zé Bonachão e Xande Vigarista são uns caras safos! 😊 Eles sabem que existe uma
+estradinha de terra por meio da qual é possível cruzar a fronteira entre o Brasil e o Paraguai. Com
+essa informação, eles colocam uma grande quantidade de cigarros em uma caminhonete e
+seguem por essa estrada com destino ao Paraguai. O objetivo é fazer uma exportação clandestina,
+pois a CAMEX acabou de fixar uma alíquota elevadíssima de imposto de exportação sobre
+cigarros. O “pessoal da repressão” tá de olho aberto e descobre a fraude. Pau neles! 😊
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              14
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            f) estrangeira ou nacional, na importação ou na exportação, se qualquer documento
+               necessário ao seu embarque ou desembaraço tiver sido falsificado ou adulterado.
+
+Exemplo: A empresa Parlapatona Ltda está fazendo a importação de ventiladores originários da
+China, sobre os quais incidiriam direitos antidumping. Entretanto, para instruir a declaração de
+importação, é fornecida uma fatura comercial falsa, na qual consta que os ventiladores vêm da
+Índia.
+
+Importa ressaltar, para efeito de configuração da infração, são considerados necessários ao
+desembaraço aduaneiro, na importação, os documentos relacionados no artigo 553, incisos I a III,
+do Regulamento Aduaneiro (via original do conhecimento de carga ou documento de efeito
+equivalente; via original da fatura comercial, assinada pelo exportador; comprovante de
+pagamento dos tributos, se exigível).
+
+Saliente-se, ainda, que a falsificação pode ser material ou ideológica, exceto no caso de falsidade
+ideológica exclusivamente quanto ao preço que implique subfaturamento da operação (caso em
+que se aplica apenas multa, como veremos em detalhes oportunamente), conforme estabelecido
+pelo artigo 689, §3º-A, do Regulamento Aduaneiro.
+
+            g) nas condições do inciso VI [documento falsificado ou adulterado], possuída a qualquer
+               título ou para qualquer fim;
+
+Exemplo: A empresa Divertinte Ltda importa os tais ventiladores originários da China, declarando,
+todavia, que eles são da Índia. Ela já tem a posse dos ventiladores. Aí, a autoridade aduaneira,
+fazendo uma fiscalização de zona secundária, pede os documentos ao importador. Ao receber os
+documentos, constata que a fatura comercial foi falsificada. Perdimento neles! 😊
+
+            h) estrangeira, que apresente característica essencial falsificada ou adulterada, que
+               impeça ou dificulte sua identificação, ainda que a falsificação ou a adulteração não
+               influa no seu tratamento tributário ou cambial;
+
+Exemplo: A empresa Sem Noção Ltda está importando brinquedos da China. Durante a
+conferência aduaneira, no entanto, a equipe de fiscalização repara que os produtos são de péssima
+qualidade, muito embora ostentem marcas reconhecidas. Ao solicitar a avaliação pelos detentores
+das marcas, são fornecidos laudos que confirmam que os produtos são contrafeitos.
+
+            i) estrangeira, encontrada ao abandono, desacompanhada de prova do pagamento dos
+               tributos aduaneiros;
+
+Exemplo: A Receita Federal está realizando uma operação na zona secundária. Um helicóptero da
+RFB, ao avistar um ônibus suspeito em uma estrada de pouco tráfego, determina que o motorista
+pare. Os passageiros e o motorista, então, abandonam tudo e se embrenham na mata! Com a
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               15
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+chegada das viaturas da RFB, são encontradas várias mercadorias abandonadas e sem qualquer
+documentação que comprove o pagamento dos tributos aduaneiros.
+
+            j) estrangeira, exposta à venda, depositada ou em circulação comercial no País, se não
+               for feita prova de sua importação regular;
+
+Exemplo: A equipe de repressão ao contrabando e descaminho da Receita Federal faz operação
+nas lojas da 25 de março, em São Paulo. Ao chegar no local, encontra diversos produtos de origem
+estrangeira expostos à venda. Os responsáveis pelos estabelecimentos são intimados, então, para
+apresentar prova da importação regular. Se a importação regular não for comprovada, os bens
+ficam sujeitos à pena de perdimento.
+
+            k) estrangeira, já desembaraçada e cujos tributos aduaneiros tenham sido pagos apenas
+               em parte, mediante artifício doloso;
+
+Exemplo: A empresa Picaretus Ltda importa uma prensa automática, a qual é enquadrada como
+ex-tarifário e, portanto, paga uma alíquota reduzida do imposto de importação. Ao realizar uma
+fiscalização de zona secundária, a Receita Federal verifica que o equipamento importado não
+poderia ter sido enquadrado como ex-tarifário, pois não se tratava de prensa automática, mas sim
+de prensa manual (a qual não estava contemplada com ex-tarifário!). Perdimento neles!
+
+            l) estrangeira, chegada ao País com falsa declaração de conteúdo;
+
+Exemplo: A empresa Pilantragem Ltda instruiu a DI com uma fatura comercial indicando que os
+produtos importados eram sapatos. Porém, durante a verificação física da carga, foi constatado
+que os volumes continham na verdade aparelhos celulares de última geração. Pau neles!
+
+Convém destacar que, para se considera falsa declaração de conteúdo aquela constante de
+documento emitido pelo exportador estrangeiro ou pelo transportador, anteriormente ao
+despacho aduaneiro, conforme esclarece o artigo 689, §4º, do Regulamento Aduaneiro.
+
+            m) transferida a terceiro, sem o pagamento dos tributos aduaneiros e de outros
+               gravames, quando desembaraçada com a isenção referida nos arts. 142, 143, 162,
+               163 e 187 [isenções de natureza subjetiva];
+
+Comentários: A referência que se faz é a certas isenções de natureza subjetiva. Na hipótese de
+transferência a terceiros sem o pagamento dos tributos, será aplicável a pena de perdimento.
+Importa frisar que, de acordo com o artigo 689, §5º, do Regulamento Aduaneiro, a transferência
+para terceiro, inclusive de automóveis, fica caracterizada quando: há transferência de propriedade
+ou cessão de uso, a qualquer título; há depósito para fins comerciais; há exposição para venda ou
+para qualquer outra modalidade de oferta pública.
+
+            n) encontrada em poder de pessoa física ou jurídica não habilitada, tratando-se de papel
+               com linha ou marca d'água, inclusive aparas;
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               16
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Comentários: Conforme já estudamos, as importações de papel destinado à impressão de livros,
+jornais e periódicos são imunes ao Imposto de Importação. A pessoa jurídica que fizer a
+importação de papel precisa ter um registro especial junto à RFB. Vale destacar que a linha ou
+marca d’água, que antes diferenciava o produto imune, não mais existe nos dias de hoje.
+
+            o) constante de remessa postal internacional com falsa declaração de conteúdo;
+
+Exemplo: Chega ao País uma remessa postal internacional cujo conteúdo declarado é composto
+por 2 (dois) livros. No entanto, ao verificar a mercadoria, a RFB constata que se trata de um
+notebook. Resta configurada a falsa declaração de conteúdo, ensejando a aplicação da pena de
+perdimento.
+
+            p) fracionada em duas ou mais remessas postais ou encomendas aéreas internacionais
+               visando a iludir, no todo ou em parte, o pagamento dos tributos aduaneiros ou
+               quaisquer normas estabelecidas para o controle das importações ou, ainda, a
+               beneficiar-se de regime de tributação simplificada;
+
+Exemplo: Zé Postulão sabe que pessoa física não pode importar com finalidade comercial. Mesmo
+assim, ele quer importar Ipads para revendê-los no Brasil. Na tentativa de burlar a fiscalização, ele
+pede a Luizinho (que mora nos EUA) que lhe envie os Ipads, um a um, por meio de remessa postal
+internacional. Trata-se de fracionamento de mercadoria em duas ou mais remessas postais
+internacionais visando a iludir normas de controle de importação. Se a RFB pegar, vai dar problema
+pro Zé Postulão.
+
+            q) estrangeira, em trânsito no território aduaneiro, quando o veículo terrestre que a
+               conduzir for desviado de sua rota legal, sem motivo justificado;
+
+Exemplo: A autoridade aduaneira determina que o transportador Lentus Ltda siga em trânsito
+aduaneiro até o porto seco de Campinas indo pela Rodovia dos Imigrantes. No entanto, sem
+motivo justificado, ele se desvia da rota definida.
+
+            r) estrangeira, acondicionada sob fundo falso, ou de qualquer modo oculta;
+
+Exemplo: O transportador Impostor Ltda entra no País trazendo mercadorias escondidas em seu
+veículo, buscando furtar-se à incidência dos direitos aduaneiros. A RFB descobre as mercadorias
+ocultas e aplica a pena de perdimento.
+
+            s) estrangeira, atentatória à moral, aos bons costumes, à saúde ou à ordem públicas;
+
+Comentários: Essa hipótese é bastante abrangente e diz respeito, por exemplo, à aplicação da
+pena de perdimento sobre medicamentos importados sem autorização da ANVISA. Ou, então, à
+importação de brinquedos sem que tenham sido observados regulamentos técnicos expedidos
+pelo INMETRO. Também é utilizada para aplicação da pena de perdimento sobre mercadorias
+falsificadas, notadamente quando a marca não é característica essencial do produto.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 17
+        www.estrategiaconcursos.com.br                                                            106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            t) importada ao desamparo de licença de importação ou documento de efeito
+               equivalente, quando a sua emissão estiver vedada ou suspensa, na forma da
+               legislação específica;
+
+Exemplo: É vedada a emissão de licenças de importação de pneus usados, inclusive os remoldados
+originários do MERCOSUL. Se a empresa Maximus Ltda trouxer pneus usados ao Brasil, sem
+amparo em licença de importação, será aplicada a pena de perdimento.
+
+            u) importada e que for considerada abandonada pelo decurso do prazo de permanência
+               em recinto alfandegado, nas hipóteses referidas no art. 642;
+
+Exemplo: A empresa transportadora Bazinga Ltda descarrega determinadas mercadorias na zona
+primária. Passados 90 dias da descarga, o importador não aparece para dar início ao despacho de
+importação. Nesse caso, a mercadoria é considerada abandonada e tem início o processo para
+aplicação da pena de perdimento.
+
+            v) estrangeira ou nacional, na importação ou na exportação, na hipótese de ocultação
+               do sujeito passivo, do real vendedor, comprador ou de responsável pela operação,
+               mediante fraude ou simulação, inclusive a interposição fraudulenta de terceiros;
+
+Exemplo: A empresa Pilantragem Ltda é uma trading que importa farinha de trigo da Argentina.
+Nos documentos de importação, ela consta como importadora, repassando as mercadorias para
+quatro empresas situadas em Foz do Iguaçu. Na prática, porém toda a negociação é feita pelas
+empresas de Foz do Iguaçu, que são, inclusive, as provedoras dos recursos. As empresas de Foz
+do Iguaçu não realizam a importação diretamente porque não têm habilitação para operar no
+SISCOMEX. Nesse exemplo, fica caracterizada a interposição fraudulenta de terceiros, ensejando
+a aplicação da pena de perdimento às mercadorias.
+
+Essa é uma das hipóteses mais comuns de aplicação da pena de perdimento na prática. Vale
+destacar, inclusive, que, se o importador não for capaz de comprovar a origem, a disponibilidade
+e a transferência dos recursos empregados na operação de comércio exterior, a interposição
+fraudulenta é presumida (artigo 689, §6º, do Regulamento Aduaneiro).
+
+Além disso, quando o importador não comprova a origem, a disponibilidade e a transferência dos
+recursos empregados na operação, é declarada, ainda, a inaptidão de sua inscrição no Cadastro
+Nacional de Pessoas Jurídicas – CNPJ, em conformidade com o disposto no artigo 81, inciso II, da
+Lei nº 9.430/96.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           18
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+As infrações previstas no art. 689 do Regulamento Aduaneiro dão ensejo à aplicação da pena de
+perdimento das mercadorias. No entanto, caso as mercadorias não tiverem sido localizadas, ou
+tiverem sido consumidas ou revendidas, essas infrações serão punidas com multa equivalente ao
+valor aduaneiro da mercadoria (no caso de importação) ou com multa igual ao preço da nota fiscal
+ou documento equivalente (no caso de exportação).
+
+De toda sorte, a aplicação da multa mencionada acima não impede a apreensão da mercadoria,
+caso ela seja encontrada, na hipótese de perdimento fundamentado em mercadoria importada ao
+desamparo de licença de importação, quando a sua emissão estiver vedada ou suspensa (inciso
+XX), ou quando for proibida a importação, consumo ou circulação do produto no território
+aduaneiro.
+
+Vejamos, agora, outras hipóteses de perdimento, previstas nos arts. 690-697, do R/A:
+
+             I.    O art. 690 prevê que será aplicada a pena de perdimento sobre mercadoria de
+                   procedência estrangeira encontrada na zona secundária, introduzida
+                   clandestinamente no País ou importada irregular ou fraudulentamente;
+
+            II.    O art. 691 prevê que será aplicada a pena de perdimento da mercadoria que
+                   esteja proibida de sair do território aduaneiro e cuja exportação for tentada;
+
+            III.   O art. 692 determina que as mercadorias de importação proibida, na forma da
+                   legislação específica, serão apreendidas, liminarmente, em nome e ordem do
+                   Ministro de Estado da Fazenda, para fins de aplicação da pena de perdimento;
+
+            IV.    A pena de perdimento da mercadoria será ainda aplicada aos que, em infração às
+                   medidas de controle fiscal estabelecidas pelo Ministro de Estado da Fazenda para
+                   o desembaraço aduaneiro, a circulação, a posse e o consumo de fumo, charuto,
+                   cigarrilha e cigarro de procedência estrangeira, adquirirem, transportarem,
+                   venderem, expuserem à venda, tiverem em depósito, possuírem ou consumirem
+                   tais produtos, por configurar crime de contrabando ou de descaminho. (art. 693,
+                   do R/A);
+
+            V.     Os cigarros nacionais destinados à exportação que forem encontrados no País são
+                   considerados produtos estrangeiros introduzidos clandestinamente no território
+                   aduaneiro, o que dará ensejo à aplicação da pena de perdimento. (art. 694, do
+                   R/A);
+
+            VI.    O art. 695 determina que seja aplicada a pena de perdimento a diamantes brutos
+                   que não tenham amparo no sistema de certificação internacional do Processo de
+                   Kimberley;
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              19
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            VII.    Será aplicada a pena de perdimento a mercadoria que saia da Zona Franca de
+                    Manaus sem autorização da autoridade aduaneira, quando necessária, por
+                    configurar o crime de contrabando (art. 696, do R/A);
+
+            VIII.   Será aplicada a pena de perdimento a mercadoria introduzida no mercado interno,
+                    procedente de zona de processamento de exportação, que tenha sido importada,
+                    adquirida ou produzida fora dos casos autorizados pela Lei nº 11.508/2007. (art.
+                    697, inciso I, do R/A);
+
+             IX.    Será aplicada a pena de perdimento a mercadoria estrangeira não permitida,
+                    introduzida em zona de processamento de exportação (art. 697, inciso II, do R/A).
+
+Pena de perdimento de moeda
+
+O art. 65, da Lei nº 9.069/95, determina que o ingresso no País e a saída do País, de moeda
+nacional e estrangeira serão processados exclusivamente através de instituição autorizada a
+operar no mercado de câmbio, cabendo ao estabelecimento bancário a perfeita identificação do
+cliente ou do beneficiário. Excepciona essa regra o porte, em espécie, de até R$ 10.000,00 em
+moeda nacional ou o equivalente a esse montante em moeda estrangeira.
+
+É com fundamento nesse dispositivo que o art. 700, do R/A, determina a possibilidade de
+aplicação da pena de perdimento de moeda nacional ou estrangeira. Segundo o referido
+dispositivo, será aplicada a pena de perdimento da moeda nacional ou estrangeira, em espécie,
+no valor excedente a R$ 10.000,00, ou o equivalente em moeda estrangeira, que ingresse no
+território aduaneiro ou dele saia. Destaque-se que é considerada moeda nacional, para fins de
+aplicação desse dispositivo, somente o papel-moeda (não compreendidos os títulos de crédito,
+cheques ou cheques de viagem).
+
+O controle sobre a entrada e saída de moeda nacional ou estrangeira é feito, primariamente, na
+circulação transfronteiriça, ou seja, no momento em que há o ingresso pela zona primária. No
+entanto, é possível a aplicação da pena de perdimento de moeda encontrada em zona secundária,
+desde que as circunstâncias tornarem evidente a tentativa de saída do País ou o ingresso no País,
+da moeda, por qualquer forma não autorizada pela legislação específica.
+
+O perdimento de moeda incidirá sobre o montante que exceder os R$ 10.000,00. Isso, é claro, se
+aplica na situação em que a moeda ingressa ou sai do território aduaneiro portada por viajante.
+Quando a moeda ingressar no território aduaneiro ou dele sair não portada por viajante, o
+perdimento se aplicará à totalidade da moeda.
+
+Vale destacar, ainda, que o perdimento de moeda não exclui a aplicação das sanções penais
+previstas para a hipótese.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                20
+        www.estrategiaconcursos.com.br                                                            106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Por último, importa anotar que a lei nº 14.286/21 passou o limite de R$ 10.000,00 (dez mil reais)
+que vimos acima para US$ 10.000,00 (dez mil dólares dos Estados Unidos da América). Essa lei foi
+publicada no Diário Oficial da União em 30/12/21, mas previu uma vacatio legis de um ano.
+
+Assim, a partir de 30/12/22, o limite para ingresso ou saída de moeda do País, mediante porte em
+espécie por viajante, passa a ser de US$ 10.000,00 (dez mil dólares dos Estados Unidos da
+América) ou seu equivalente em outras moedas.
+
+
+Limites
+
+Para que seja aplicada a pena de perdimento, deve ser observado o devido processo legal, por
+força do disposto no artigo 5º, inciso LIV, da CR/88, que estabelece que ninguém será privado da
+liberdade ou de seus bens sem o devido processo legal.
+
+Com efeito, não se admite, à luz do ordenamento jurídico brasileiro, que a pena de perdimento
+seja aplicada sem o regular processo administrativo, no qual sejam observados os direitos ao
+contraditório e à ampla defesa.
+
+Devem, ainda, ser observados os princípios da razoabilidade e da proporcionalidade na aplicação
+da pena de perdimento. Há que existir nexo de causalidade entre o meio e o fim, de forma a
+verificar a utilidade ou a necessidade da medida extrema.
+
+Chamo a sua atenção para algumas decisões do STJ em que se afasta a aplicação da pena de
+perdimento com fulcro no princípio da proporcionalidade, notadamente em casos de perda de
+veículo pelo transporte de mercadorias sujeitas à pena de perdimento, quando o valor das
+mercadorias é muito inferior ao valor do veículo.
+
+        PROCESSUAL CIVIL E ADMINISTRATIVO. DECRETO-LEI 37/1966. PENA DE
+        PERDIMENTO DE VEÍCULO. DESCAMINHO. APLICAÇÃO DOS PRINCÍPIOS DA
+        PROPORCIONALIDADE E RAZOABILIDADE.
+
+        1. No transporte de bens irregularmente importados, a flagrante
+        desproporcionalidade entre o valor do veículo e das mercadorias nele
+        transportadas não dá ensejo à aplicação da pena de perdimento daquele.
+
+        2. Na hipótese dos autos foram apreendidas mercadorias no valor de R$
+        124.100,00*, e os veículos estão avaliados em R$ 106.725,00. Dessa forma, com
+        fundamento nos princípios da proporcionalidade e da razoabilidade, inaplicável a
+        pena de perdimento.
+
+        3. Agravo Regimental não provido.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            21
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        (AgRg no Ag 1091208 SP 2008/0198231-3, Rel. : Min. Herman Benjamin, Órgão
+        Julgador: 2ª Turma, DJe 16/12/2009)
+
+* Houve erro material na redação da ementa do julgado, o que foi corrigido em sede de Embargos
+de Declaração. O valor real das mercadorias era de R$ 34.166,00.
+
+        ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. APREENSÃO DE
+        VEÍCULO. DESCAMINHO. TRANSPORTE DE MERCADORIA ESTRANGEIRA SEM
+        DOCUMENTAÇÃO QUE COMPROVE SUA REGULAR IMPORTAÇÃO. ART. 617
+        DO DL.4.543/2002. PENA DE PERDIMENTO DE VEÍCULO AFASTADA.
+        APLICAÇÃO DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+
+        1. Hipótese em que se busca a anulação do ato administrativo que determinou o
+        perdimento de veículo apreendido quando transportava mercadorias
+        desacompanhadas de documentação legal que comprovasse sua regular
+        importação.
+
+        2. Alega-se dissídio jurisprudencial com julgados desta Corte e de outros
+        Tribunais, os quais entendem inaplicável a pena de perdimento quando existir uma
+        grande desproporção entre o valor da mercadoria internalizada sem a
+        comprovação de sua origem e o do veículo apreendido.
+
+        3. Com efeito, foram apreendidas mercadorias no valor de R$ 7.973,67
+        transportadas em veículo avaliado, à época dos fatos, em R$ 42.000, 00. Tem-se,
+        desse modo, que não foram observados os princípios da proporcionalidade e da
+        razoabilidade, razão por que não deve ser aplicada a pena de perdimento.
+        Precedentes jurisprudenciais desta Corte.
+
+        4. Recurso especial provido.
+
+        (REsp 1072040 PR 2008/0142428-6, Rel.: Ministro Benedito Gonçalves, Órgão
+        Julgador: 1ª Turma, DJe: 21/009/2009)
+
+
+Relevação da pena de perdimento
+
+Há três formas de relevação da pena de perdimento.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                         22
+        www.estrategiaconcursos.com.br                                                     106
+
+                                     
+
+
+---
+
+     Áulus Dias Warzeé Mattos
+     Aula 06
+
+A primeira situação3 está prevista no art. 698 do R/A, que dispõe o seguinte:
+
+            Art. 698. O importador, depois de aplicado o perdimento da mercadoria
+            considerada abandonada na hipótese a que se refere o inciso XXI do art. 689, mas
+            antes de efetuada a sua destinação, poderá requerer a conversão dessa
+            penalidade em multa equivalente ao valor aduaneiro da mercadoria.
+
+            Parágrafo único. A entrega da mercadoria ao importador, na hipótese do caput,
+            está condicionada à comprovação do pagamento da multa e ao cumprimento das
+            formalidades exigidas para o respectivo despacho de importação, sem prejuízo do
+            atendimento das normas de controle administrativo.
+
+Como é possível perceber a partir da leitura do dispositivo supratranscrito, esta primeira situação
+se refere à hipótese em que foi aplicada a pena de perdimento em virtude de a mercadoria ter
+sido considerada abandonada. Nesse caso, será possível a conversão da pena de perdimento em
+multa equivalente ao valor aduaneiro da mercadoria. Detalhe importante: o pleito de conversão
+deverá ser feito pelo importador antes de ter sido dada uma destinação à mercadoria4.
+
+A segunda situação está prevista no art. 737 do R/A, que estabelece o seguinte:
+
+            Art. 737. A pena de perdimento decorrente de infração de que não tenha
+            resultado falta ou insuficiência de recolhimento de tributos federais poderá ser
+            relevada com base no disposto no art. 736, mediante a aplicação da multa referida
+            no art. 712
+
+            § 1o A relevação não poderá ser deferida:
+
+            I - mais de uma vez para a mesma mercadoria; e
+
+            II - depois da destinação da respectiva mercadoria.
+
+            § 2o A aplicação da multa a que se refere este artigo não prejudica:
+
+            I - a exigência dos tributos, de outras penalidades e dos acréscimos legais cabíveis
+            para a regularização da mercadoria no País; ou
+
+3
+ Embora o texto do Regulamento Aduaneiro trate essa hipótese como de conversão da pena de perdimento em multa, a doutrina
+defende que trata-se de hipótese de relevação da aplicação da pena.
+
+4
+    Por ora, você só precisa saber que as mercadorias poderão ser alienadas, incorporadas, destruídas ou inutilizadas.
+
+            Receita Federal (Analista Tributário) Legislação Aduaneira                                                   23
+            www.estrategiaconcursos.com.br                                                                               106
+
+                                           
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        II - a exigência da multa a que se refere o art. 709, para a reexportação de
+        mercadoria submetida ao regime de admissão temporária, quando sujeita a
+        licença de importação vedada ou suspensa.
+
+        § 3o A entrega da mercadoria ao importador, na hipótese deste artigo, está
+        condicionada à comprovação do pagamento da multa e ao cumprimento das
+        formalidades exigidas para o respectivo despacho de importação, sem prejuízo do
+        atendimento das normas de controle administrativo.
+
+Essa hipótese de relevação somente será possível caso a pena de perdimento seja decorrente de
+infração da qual não tenha resultado falta ou insuficiência de recolhimento de tributos federais.
+Nesse caso, deverá ser observado o art. 736, do R/A, que prevê que o Ministro da Fazenda, com
+base em parecer fundamentado, poderá relevar penalidades relativas a infrações de que não tenha
+resultado falta ou insuficiência de recolhimento de tributos federais. A relevação da pena de
+perdimento poderá ser feita com fundamento em dois motivos:
+
+            a) erro ou a ignorância escusável do infrator, quanto à matéria de fato; ou
+
+            b) a equidade, em relação às características pessoais ou materiais do caso, inclusive
+               ausência de intuito doloso. Cabe destacar que equidade é a aplicação de
+               considerações de justiça a um caso concreto.
+
+E como será feita a relevação da pena de perdimento nesse caso?
+
+Nesse caso, a pena de perdimento será relevada por meio da aplicação, ao importador, de multa
+correspondente a 1% do valor aduaneiro da mercadoria. A entrega da mercadoria ao importador
+estará condicionada à comprovação do pagamento da multa e ao cumprimento das formalidades
+exigidas para o despacho de importação.
+
+A terceira situação de relevação da pena de perdimento está prevista no art. 739 do R/A:
+
+        Art. 739. A pena de perdimento a que se refere o inciso VII do art. 688, enquanto
+        não efetuada a destinação do veículo, poderá ser relevada à vista de requerimento
+        do interessado, desde que recolhido o montante correspondente a duas vezes o
+        valor da multa inicialmente aplicada.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            24
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        Parágrafo único. A relevação a que se refere o caput compete ao titular da unidade
+        da Secretaria da Receita Federal do Brasil responsável pela apuração da infração.
+
+Como se vê, o art. 739 do R/A faz referência à hipótese de aplicação da pena de perdimento
+prevista no art.688, inciso VII, do R/A. Trata-se da situação por nós já estudada em que o veículo
+que transporta mercadoria sujeita a pena de perdimento é retido pela fiscalização aduaneira,
+sendo aplicada multa de R$ 15.000,00 (ou R$ 30.000,00) ao transportador. Em virtude de não ter
+sido paga a multa, ele é considerado abandonado.
+
+Pois bem, nesse caso, uma vez aplicada a pena de perdimento, esta poderá ser relevada mediante
+o pagamento de multa correspondente a duas vezes o valor da multa inicialmente aplicada. Em
+outras palavras, o perdimento será relevado caso recolhida a multa de R$ 30.000,00 ou R$
+60.000,00, conforme o caso (o dobro da multa inicialmente aplicada). Nesse caso específico, a
+relevação da pena de perdimento caberá ao titular da unidade da Receita Federal responsável
+pela apuração da infração.
+
+(Questão Inédita/2022) Aplica-se a pena de perdimento ao veículo que conduzir mercadoria
+sujeita a perdimento, a menos que seja pertencente ao responsável por infração punível com essa
+penalidade.
+
+Comentários
+
+Aplica-se a pena de perdimento ao veículo que conduzir mercadoria sujeita a perdimento, desde
+que seja pertencente ao responsável por infração punível com essa penalidade.
+
+Gabarito: errada
+
+(Questão Inédita/2022) Não é possível a relevação da aplicação da pena de perdimento.
+
+Comentários
+
+Há, sim, hipóteses de relevação da aplicação da pena de perdimento previstas pela legislação.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              25
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                                  MULTAS
+São inúmeras as multas por infração à legislação aduaneira. Se você perguntar a um Auditor Fiscal
+RFB, ele dificilmente vai saber tudo “de cabeça”! Já fiz esse teste e o avaliado não foi bem-
+sucedido!     E olha que o camarada era experiente...
+
+Não se preocupem, tampouco se assustem!          Acredito que não há grande probabilidade de a
+banca cobrar isso na prova, logo o custo-benefício de sair decorando todas as hipóteses de multa
+não é interessante. Entretanto, algumas situações que ensejam a aplicação de multa são bem mais
+comuns que outras. É exatamente nessas situações que concentraremos nossos esforços,
+combinado?
+
+O Regulamento Aduaneiro, de forma bem didática, separa as multas por infração à legislação
+aduaneira em três tipos: i) multas na importação; ii) multas à exportação; e iii) multas comuns à
+importação e exportação. Vamos também seguir essa divisão!
+
+
+Multas na importação
+
+Multas do art. 702 do R/A
+
+O art. 702 do R/A relaciona multas proporcionais ao valor do imposto incidente sobre a
+importação da mercadoria ou ao valor do imposto que incidiria se não houvesse isenção ou
+redução. Em outras palavras, a base de cálculo das multas do art. 702 é o valor do tributo incidente
+sobre a importação.
+
+Vejamos caso a caso:
+
+            a) Multas de 100%:
+
+            ● Pelo não-emprego dos bens de qualquer natureza nos fins ou atividades para que
+              foram importados com isenção do imposto;
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               26
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+Áulus Dias Warzeé Mattos
+Aula 06
+
+          ● Pelo desvio, por qualquer forma, de bens importados com isenção ou com redução
+            do imposto;
+
+          ● Pelo uso de falsidade nas provas exigidas para obtenção dos benefícios e incentivos
+            previstos no Decreto-Lei no 37, de 1966;
+
+          ● Pela não-apresentação de mercadoria submetida ao regime de entreposto
+            aduaneiro.
+
+          b) Multa de 75%:
+
+          ● Pela venda não-faturada de sobra de papel não-impresso (mantas, aparas de bobinas
+            e restos de bobinas.
+
+          c) Multas de 50%:
+
+          ● Pela transferência a terceiro, a qualquer título, de bens importados com isenção do
+            imposto, sem prévia autorização da unidade aduaneira, ressalvada a hipótese
+            referida no inciso XIII do art. 689. [Destaque-se que o inciso XIII do art. 689 relaciona
+            situações em que será aplicada a pena de perdimento em virtude de certos bens
+            importados com isenção serem transferidos a terceiros sem autorização da
+            autoridade aduaneira];
+
+          ● Pela importação, como bagagem, de mercadoria que, por sua quantidade e
+            qualidade, revele finalidade comercial. [Como observação, anoto que essa multa está
+            sem aplicabilidade prática, na medida em que não é permitida a importação, por
+            pessoa física, de bens para fins comerciais ou industriais];
+
+          ● Pelo extravio de mercadoria. [Admite-se o limite de tolerância de 5% para exclusão
+            da responsabilidade tributária em casos de perda inevitável de mercadoria em
+            operação, sob controle aduaneiro, de transporte, carga, descarga ou armazenagem].
+
+          d) Multas de 20%:
+
+          ● Pela chegada ao País de bagagem e bens de passageiro fora dos prazos
+            regulamentares, quando sujeitos a tributação;
+
+          ● Nos casos de venda de sobra de papel não-impresso (mantas, aparas de bobinas e
+            restos de bobinas), salvo a editoras ou, como matéria-prima, a fábricas.
+
+          e) Multas de 10%:
+
+      Receita Federal (Analista Tributário) Legislação Aduaneira                                  27
+      www.estrategiaconcursos.com.br                                                              106
+
+                                   
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            ● Pela apresentação da fatura comercial sem o visto consular, quando exigida essa
+              formalidade;
+
+            ● Pela comprovação, fora do prazo, da chegada da mercadoria ao local de destino, no
+              caso de trânsito aduaneiro.
+
+        SITUAÇÃO PRÁTICA nº 01:
+
+        O hospital SONHOS FELIZES importa um ecógrafo para análise espectral com
+        isenção tributária, afinal, trata-se de entidade de assistência social. Após ter
+        importado o equipamento, ele o transfere a um hospital privado com fins
+        lucrativos, instituição que não faz jus à isenção tributária.
+
+        Você, Auditor Fiscal da RFB, ao realizar uma fiscalização de zona secundária
+        constata que foi feita a transferência do equipamento sem qualquer recolhimento
+        tributário e sem prévia autorização da unidade aduaneira.
+
+        Qual a solução para o caso?
+
+        RESPOSTA:
+
+        Deverá ser aplicada a multa de 50% sobre o valor do imposto que incidiria sobre
+        a importação caso não tivesse havido a isenção. A aplicação da multa seria feita
+        sem prejuízo da exigência dos tributos que receberam isenção.
+
+Multa do art. 703 do R/A
+
+O art. 703 do R/A trata de uma das consequências do subfaturamento na importação, o qual
+enseja a aplicação de multa. Quando o preço declarado pelo importador for diferente do preço
+arbitrado pela autoridade aduaneira ou do preço efetivamente praticado, aplica-se a multa de
+100% sobre a diferença. Isso se dá sem prejuízo da exigência dos tributos, de multa de ofício e
+acréscimos legais cabíveis.
+
+A multa de 100% será aplicada, inclusive, na hipótese de ausência de apresentação da fatura
+comercial. Se, posteriormente, for encontrada fatura comercial falsificada ou adulterada, será
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          28
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+aplicada a pena de perdimento. Você deve se lembrar de que uma das situações em que se aplica
+o perdimento é quando algum documento necessário ao desembaraço da mercadoria tenha sido
+falsificado ou adulterado.
+
+Multas do art. 703-A e art. 704-A
+
+As multas previstas no art. 703-A e art. 704-A são casos bem específicos relativos ao Regime de
+Tributação Unificada (RTU).
+
+        Art. 703-A. Aplica-se a multa de cem por cento sobre a diferença de preço das
+        mercadorias submetidas a despacho ou desembaraçadas ao amparo do regime de
+        que trata o art. 102-A quando:
+
+        I - a mercadoria declarada não for idêntica à mercadoria efetivamente importada;
+        ou
+
+        II - a quantidade de mercadorias efetivamente importadas for maior que a
+        quantidade declarada.
+
+        § 1o A multa prevista no inciso I do caput não se aplica quando a mercadoria estiver
+        sujeita à pena de perdimento prevista no inciso XII do caput do art. 689.
+
+        § 2o Na ocorrência de mais de uma das condutas infracionais passíveis de
+        enquadramento no mesmo inciso ou em diferentes incisos deste artigo e do art.
+        704-A, aplica-se somente a multa de maior valor.
+
+        § 3o A aplicação das penalidades previstas neste artigo não elide a exigência dos
+        tributos incidentes, a aplicação de outras penalidades cabíveis e a representação
+        fiscal para fins penais, quando for o caso.
+
+        Art. 704-A. Aplica-se, relativamente às mercadorias submetidas a despacho ou
+        desembaraçadas ao amparo do regime de que trata o art. 102-A, a multa de
+
+        I - cinquenta por cento, na hipótese de o excesso, em valor ou em quantidade, ser
+        igual ou inferior a vinte por cento do limite máximo, em valor ou em quantidade,
+        permitido;
+
+        II - setenta e cinco por cento, na hipótese de o excesso, em valor ou em
+        quantidade, ser superior a vinte por cento e igual ou inferior a cinquenta por cento
+        do limite máximo, em valor ou em quantidade, permitido; e
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             29
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        III - cem por cento, na hipótese de o excesso, em valor ou em quantidade, ser
+        superior a cinquenta por cento do limite máximo, em valor ou em quantidade,
+        permitido.
+
+        § 1o As multas de que trata o caput aplicam-se por inobservância do limite de valor
+        ou de quantidade no trimestre-calendário, no semestre-calendário ou no ano-
+        calendário correspondente.
+
+        § 2o As multas de que trata o caput incidem sobre:
+
+        I - a diferença entre o preço total das mercadorias importadas e o limite máximo
+        de valor fixado; ou
+
+        II - o preço das mercadorias importadas que excederem o limite de quantidade
+        fixado.
+
+        § 3o Na ocorrência de mais de uma das condutas infracionais passíveis de
+        enquadramento no mesmo inciso ou em diferentes incisos deste artigo e do art.
+        703-A, aplica-se somente a multa de maior valor.
+
+        § 4o A aplicação das penalidades previstas neste artigo não elide a exigência dos
+        tributos incidentes, a aplicação de outras penalidades cabíveis e a representação
+        fiscal para fins penais, quando for o caso.
+
+Multa do art. 705 do R/A
+
+Aplica-se a multa de 50% do valor aduaneiro no caso de utilização de bem admitido no REPORTO
+em finalidade diversa da que motivou a concessão do regime, de sua não incorporação ao ativo
+imobilizado ou, no caso de veículos adquiridos ao amparo do regime, ausência da identificação
+externa.
+
+Multas do art. 706 do R/A
+
+As multas do art. 706, do R/A, constituem sanções ao controle administrativo das importações. A
+base de cálculo dessas multas será o valor aduaneiro das mercadorias. Vale a pena destacar que
+as infrações ao controle administrativo serão puníveis com multas que não poderão ser inferiores
+a R$ 500,00 (limite mínimo) ou superiores a R$ 5.000,00 (limite máximo). Na ocorrência simultânea
+de mais de uma infração ao controle administrativo, será punida apenas aquela a que for cominada
+a penalidade mais grave.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            30
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Para entender a aplicação dessas multas, uma informação é bastante importante: as Licenças de
+Importação, uma vez deferidas, têm validade de 90 dias. Essa validade de 90 dias é o prazo dentro
+do qual a mercadoria deverá ser embarcada no exterior.
+
+Vejamos caso a caso:
+
+            a) Multas de 30% do valor aduaneiro:
+
+            ● Pela importação de mercadoria sem licença de importação. [Considera-se importada
+              sem licença de importação ou documento de efeito equivalente, a mercadoria cujo
+              embarque tenha se efetivado depois de decorridos mais de quarenta dias do
+              respectivo prazo de validade. Vale destacar que o prazo de validade da LI é de 90
+              dias para embarque da mercadoria no exterior];
+
+            ● Pelo embarque de mercadoria antes de emitida a licença de importação. [Recorde-
+              se que a licença de importação, em regra, deve ser deferida previamente ao
+              embarque da mercadoria no exterior].
+
+            b) Multas de 20% do valor aduaneiro:
+
+            ● Pelo embarque da mercadoria depois de vencido o prazo de validade da licença de
+              importação respectiva ou documento de efeito equivalente, de mais de vinte até
+              quarenta dias.
+
+            c) Multa de 10% do Valor Aduaneiro:
+
+            ● Pelo embarque da mercadoria, depois de vencido o prazo de validade da licença de
+              importação respectiva ou documento de efeito equivalente, até vinte dias.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            31
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+Áulus Dias Warzeé Mattos
+Aula 06
+
+
+                                                  20
+                                                                        Embarque
+ Embarque
+                                                                        entre 20 e
+  antes do
+                                                                          40 dias
+deferimento:                            Data de
+                                                                          após a
+multa de 30%                           Validade p/
+                           0                                             validade:
+   do VA                               embarque             110          multa de
+                                                                        20% do VA
+
+                      Data de                            Embarque                    Embarque
+                    Deferimento             90           até 20 dias      130          após 40
+                       da LI                               após a                      dias da
+                                                          validade:                   validade:
+                                                          multa de                    multa de
+                                                         10% do VA                   30% do VA
+
+                                                          40
+
+      SITUAÇÃO nº 02:
+
+      A empresa CHARLATONA TERMINAIS LTDA está importando dois guindastes
+      autopropulsados do tipo REACH STACKER. Como se trata de importação a ser
+      enquadrada no regime aduaneiro especial do REPORTO, será necessária a
+      realização do exame de similaridade. Com efeito, a suspensão do imposto de
+      importação está condicionada à inexistência de similar nacional. A apuração de
+      similaridade depende de aprovação de licença de importação pela SECEX.
+
+      Antes de registrar a LI, a empresa CHARLATONA TERMINAIS LTDA embarca os
+      dois guindastes e traz para o Brasil. Após a chegada dos guindastes no Brasil, a
+      empresa tenta registrar a DI. O SISCOMEX, todavia, não aceita, uma vez que há
+      exigência de licença de importação prévia ao embarque.
+
+      Considerando que o valor aduaneiro dos dois guindastes em conjunto é R$
+      900.000,00, qual será a multa aplicável?
+
+      RESPOSTA:
+
+      Receita Federal (Analista Tributário) Legislação Aduaneira                                  32
+      www.estrategiaconcursos.com.br                                                              106
+
+                                   
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        O que aconteceu no caso acima foi o embarque da mercadoria no exterior antes
+        de deferida a licença de importação. Nesse caso, será aplicada multa de 30% do
+        valor aduaneiro. Entretanto, o valor máximo da multa é de R$ 5.000,00, valor este
+        que será aplicado no caso concreto. Vale a pena destacar que deverá ser
+        registrada e deferida a LI, sem o que não será possível ao importador registrar a
+        DI.
+
+Multa do art. 709 do R/A
+
+Aplica-se a multa de 10% sobre o valor aduaneiro, no caso de descumprimento de condições,
+requisitos ou prazos estabelecidos para aplicação do regime aduaneiro especial de admissão
+temporária ou de admissão temporária para aperfeiçoamento ativo. O valor mínimo dessa multa
+é de R$ 500,00.                                        ==219a34==
+
+Destaque-se que essa multa não será aplicada caso o despacho de reexportação seja iniciado
+dentro de 30 dias (ou do prazo fixado pela decisão) do indeferimento do pedido de prorrogação
+de prazo ou de extinção regime via entrega à Fazenda Nacional, destruição ou transferência para
+outro regime especial.
+
+Multa do art. 710 do R/A
+
+Aplica-se a multa de 5% do valor aduaneiro das mercadorias importadas, no caso de
+descumprimento de obrigação de manter, em boa guarda e ordem, os documentos obrigatórios
+de instrução das declarações aduaneiras.
+
+        SITUAÇÃO nº 03:
+
+        Você, Auditor-Fiscal RFB, está realizando uma fiscalização aduaneira sobre a
+        empresa PICARETAGEM E TRAMBIQUES Ltda. Para isso, solicita à empresa que
+        lhe apresente a fatura comercial relativa à importação de duas prensas importadas
+        no semestre passado pela empresa. O importador te diz que, depois de muito
+        procurar, não encontrou nenhum vestígio de fatura! 😊
+
+        Qual a solução para o caso?
+
+        SOLUÇÃO:
+
+        As consequências serão duas:
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          33
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        1) Se o importador não mantém, em boa guarda e ordem, os documentos
+        obrigatórios de instrução das declarações aduaneiras, o Auditor Fiscal RFB fará o
+        arbitramento do valor aduaneiro.
+
+        2) Será aplicada multa de 5% do valor aduaneiro em razão do descumprimento
+        obrigação de manter, em boa guarda e ordem, os documentos obrigatórios de
+        instrução das declarações aduaneiras.
+
+Multas do art. 711 do R/A
+
+As multas do art. 711 do R/A são muito importantes e talvez sejam as mais prováveis de serem
+cobradas em prova. Fique ligado (a)!
+
+Será aplicada multa de 1% do valor aduaneiro da mercadoria nas seguintes situações:
+
+            a) Mercadoria classificada incorretamente na Nomenclatura Comum do Mercosul, nas
+               nomenclaturas complementares ou em outros detalhamentos instituídos para a
+               identificação da mercadoria;
+
+            b) Mercadoria quantificada incorretamente na unidade de medida estatística
+               estabelecida pela Secretaria da Receita Federal do Brasil; ou
+
+            c) Quando o importador ou beneficiário de regime aduaneiro omitir ou prestar de forma
+               inexata ou incompleta informação de natureza administrativo-tributária, cambial ou
+               comercial necessária à determinação do procedimento de controle aduaneiro
+               apropriado.
+
+As multas do art. 711 têm o valor mínimo de R$ 500,00.
+
+Na ocorrência de mais de uma das condutas previstas nesse dispositivo, para a mesma mercadoria,
+a multa será aplicada apenas uma vez. Se as mercadorias forem diferentes, mas forem classificadas
+na mesma NCM, a multa de 1% será aplicada sobre o somatório do valor aduaneiro de tais
+mercadorias.
+
+        SITUAÇÃO PRÁTICA nº 04:
+
+        A empresa POSTULÕES & BRINCANTES S/A registra uma DI amparando a
+        importação de camisas (mercadoria A) e sapatos (mercadoria B). As camisas têm
+        um valor aduaneiro total de R$ 40.000,00 e os sapatos têm um valor aduaneiro
+        total de R$ 80.000,00. A DI foi direcionada para o canal vermelho e você, Auditor-
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            34
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        Fiscal RFB, foi encarregado de realizar a conferência aduaneira. Ao fazer a
+        verificação física, você constata as seguintes infrações:
+
+        a) Camisas (mercadoria A): classificação fiscal incorreta e erro de quantificação na
+        unidade de medida estatística.
+
+        b) Sapatos (mercadoria B): classificação fiscal incorreta e omissão de informação
+        necessária para a determinação do correto tratamento aduaneiro.
+
+        Diante dessa situação, qual a multa aplicável?
+
+        RESPOSTA:
+
+        Temos duas infrações para a mercadoria A e duas infrações para a mercadoria B.
+        No caso específico das multas do art. 711, estas somente se aplicam uma única
+        vez para a mesma mercadoria. Portanto, irá incidir uma multa de 1% sobre o valor
+        aduaneiro da mercadoria A e outra multa de 1% sobre o valor aduaneiro da
+        mercadoria B. Teremos então:
+
+        a) Mercadoria A: 1% de R$ 50.000,00 = R$ 400,00 (inferior ao valor mínimo)
+
+        b) Mercadoria B: 1% de R$ 80.000,00 = R$ 800,00
+
+        Para a mercadoria A, teremos que utilizar o valor mínimo da multa, ou seja, R$
+        500,00. O total da multa será, então, R$ 1.300,00 (R$ 500,00 + R$ 800,00).
+
+Multa do art. 712 do R/A
+
+Aplica-se ao importador a multa correspondente a um por cento do valor aduaneiro da
+mercadoria, na hipótese de relevação da pena de perdimento de que trata o art. 737.
+
+Multas do art. 713 do R/A
+
+As infrações relativas à bagagem de viajante serão punidas com as seguintes multas:
+
+            a) de 200% do valor dos bens trazidos como bagagem, quando forem objeto de
+               comércio; e
+
+            b) de 50% do valor excedente ao limite de isenção, sem prejuízo do imposto de
+               importação devido, calculado na forma do art. 101, pela apresentação de declaração
+               falsa ou inexata de bagagem.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             35
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        SITUAÇÃO PRÁTICA nº 05:
+
+        Zé Espertão se acha um “cara safo”! 😊 Viajou para Miami e está trazendo na
+        bagagem 2 notebooks, cada um no valor de US$ 2.000,00. Achando que a Receita
+        Federal não vai ver nada, ele já parte direto para o canal de “nada a declarar”.
+        Agora, como você já sabe, se ele vai para o canal de “nada a declarar”, não precisa
+        nem mesmo apresentar a e-DBV! Molezinha! 😊
+
+        Entretanto, Zé Espertão não contava com a sua astúcia! De plantão na madrugada,
+        aguardando a chegada do voo que vem de Miami, você, Auditor-Fiscal RFB, o
+        aborda: “Senhor, por favor, abra a sua mala!”
+
+        Ao abrir a mala, você vê 2 notebooks!
+
+        Considerando que o valor de cada um dos notebooks é US$ 2.000,00 (Zé Espertão
+        te mostra as notas fiscais), o que é que vai acontecer?
+
+        RESPOSTA:
+
+        Serão duas as consequências:
+
+        1) Exigência do Imposto de Importação a uma alíquota de 50% sobre o que
+        exceder o limite de isenção (aplicação do Regime de Tributação Especial). Assim,
+        teremos a incidência de imposto de importação a 50% sobre o montante de U$
+        3.000,00 (US$ 4.000,00 – US$ 1.000,00).
+
+        2) Aplicação de multa de 50% sobre o que exceder o limite de isenção em razão
+        da apresentação de falsa declaração de bagagem. O fato de Zé Espertão ter se
+        dirigido para o canal de “nada a declarar”, deixando de preencher a e-DBV
+        quando deveria fazê-lo caracteriza a falsa declaração. Assim, teremos uma multa
+        de US$ 1.500,00 (50% incidente sobre US$ 3.000,00).
+
+Multas do art. 714 do R/A
+
+Aplica-se a multa de R$ 1.000,00 (mil reais), pela importação de mercadoria estrangeira atentatória
+à moral, aos bons costumes, à saúde ou à ordem pública, sem prejuízo da aplicação da pena de
+perdimento, de outras penalidades cabíveis e da representação fiscal para fins penais, quando for
+o caso.
+
+A lavratura do auto de infração para exigência da multa será efetuada após a conclusão do
+processo relativo à aplicação da pena de perdimento (ou antes, para prevenir a decadência).
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              36
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Multas do art. 715 do R/A
+
+Aplica-se a multa de R$ 200,00, pela apresentação de fatura comercial em desacordo com uma
+ou mais de uma das indicações estabelecidas no art. 557.
+
+Simples enganos ou omissões na emissão da fatura comercial, corrigidos ou corretamente supridos
+na declaração de importação, não acarretarão a aplicação da referida penalidade. Destaque-se
+que essa multa não prejudica a exigência dos tributos incidentes, a aplicação de outras
+penalidades cabíveis e a representação fiscal para fins penais, quando for o caso.
+
+Multas do art. 716 do R/A
+
+Aplica-se a multa de R$ 2,00 (dois reais) por maço de cigarro, unidade de charuto ou de cigarrilha,
+ou quilograma líquido de qualquer outro produto apreendido, na hipótese do art. 693 (infração
+às medidas de controle fiscal), cumulativamente com o perdimento da respectiva mercadoria.
+
+Atenção, pessoal! Essa multa aqui é MUITO aplicada na prática!!           Olhem com bastante carinho
+pra ela! rs... Vejam notícia selecionada do site da RFB!
+
+     “06/08/2012 - Operação Fronteira Blindada apreende armas, drogas, cigarros e veículos na
+     região de Foz do Iguaçu.
+
+     Servidores da Receita Federal, com o apoio do helicóptero da RFB, apreenderam três
+     veículos carregados com cigarros e mercadorias estrangeiras irregularmente introduzidos no
+     território nacional, durante operação realizada dia 1º de agosto em estradas vicinais, hotéis
+     e portos clandestinos em Foz do Iguaçu. Os veículos e mercadorias foram encaminhados ao
+     pátio da RFB em Foz do Iguaçu.
+
+     Em outra ação, realizada no Posto de Fiscalização da Polícia Rodoviária Federal, em Santa
+     Terezinha de Itaipu, foram apreendidos um revólver calibre 9mm, 31 cartuchos intactos e 15
+     quilos de maconha. A arma, a munição e a droga foram encontradas durante a abordagem
+     de um ônibus que fazia a linha Foz do Iguaçu/Londrina. Já em outra bagagem foram
+     encontrados 13 tabletes de maconha, o equivalente a 21 quilos, além de um revólver calibre
+     9mm de uso restrito. O passageiro foi identificado e encaminhado à Delegacia de Polícia
+     Civil em Santa Terezinha de Itaipu, junto com o material apreendido. Todas as ações fazem
+     parte da Operação Fronteira Blindada.”
+
+Multas do art. 717 do R/A
+
+A falta de recolhimento de direitos antidumping ou de direitos compensatórios na data do registro
+da declaração de importação acarretará, sobre o valor não recolhido:
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               37
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            a) no caso de pagamento espontâneo, após o desembaraço aduaneiro:
+
+            ● a incidência de multa de mora, calculada à 0,33%, por dia de atraso, a partir do
+              primeiro dia subsequente ao do registro da declaração de importação até o dia em
+              que ocorrer o seu pagamento, limitada a 20%; e
+
+            ● a incidência de juros de mora calculados à taxa referencial do Sistema Especial de
+              Liquidação e de Custódia (SELIC), para títulos federais, acumulada mensalmente, a
+              partir do primeiro dia do mês subsequente ao do registro da declaração de
+              importação até o último dia do mês anterior ao do pagamento e de um por cento
+              no mês do pagamento; e
+
+            b) no caso de exigência de ofício, de multa de 75% e juros de mora.
+
+
+Multas na Exportação
+
+Multas do art. 718 do R/A
+
+Será aplicada multa de 25% sobre o valor das mercadorias nas seguintes situações:
+
+            a) no caso de fraude, caracterizada de forma inequívoca, relativamente a preço, peso,
+               medida, classificação ou qualidade;
+
+            b) no caso de exportação ou tentativa de exportação de mercadoria cuja saída do
+               território aduaneiro seja proibida, considerando-se como tal aquela que assim for
+               prevista em lei, ou em tratados, acordos ou convenções internacionais firmadas pelo
+               Brasil, sem prejuízo da aplicação da pena de perdimento da mercadoria.
+
+No caso de reincidência de fraude, genérica ou específica, a multa a ser aplicada será de 60% a
+100% do valor da mercadoria.
+
+Multa do art. 724 do R/A
+
+Será aplicada multa de 5% do preço normal no caso de descumprimento do regime aduaneiro
+especial de exportação temporária, ou de exportação temporária para aperfeiçoamento passivo.
+O valor mínimo da multa será de R$ 500,00.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             38
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            a) Descumprimento do regime de admissão temporária: multa de 10% do valor
+               aduaneiro;
+
+            b) Descumprimento do regime de exportação temporária: multa de 5% do preço
+               normal.
+
+O valor mínimo dessas duas multas é de R$ 500,00.
+
+
+Multas Comuns à Importação e Exportação
+
+Multas do art. 725 do R/A
+
+Nos casos de lançamentos de ofício, relativos a operações de importação ou de exportação, serão
+aplicadas as seguintes multas, calculadas sobre a totalidade ou a diferença apurada para os
+tributos:
+
+            a) de 75%, nos casos de falta de pagamento, de falta de declaração e nos de declaração
+               inexata, excetuada se houver fraude, sonegação ou conluio; e
+
+            b) de 150%, independentemente de outras penalidades administrativas ou criminais
+               cabíveis, nos casos de fraude, sonegação ou conluio.
+
+Multas do art. 726 do R/A
+
+Aplica-se a multa de 100% do valor da mercadoria:
+
+            a) ao comércio internacional de diamantes brutos, sem amparo do Certificado do
+               Processo de Kimberley, verificado em ação fiscal aduaneira de zona secundária, com
+               base em registros assentados em livros fiscais ou comerciais; e
+
+            b) à prática de artifício para a obtenção do certificado do Processo de Kimberley.
+
+Multas do art. 727 do R/A
+
+Aplica-se a multa de 10% do valor da operação à pessoa jurídica que ceder seu nome, inclusive
+mediante a disponibilização de documentos próprios, para a realização de operações de comércio
+exterior de terceiros com vistas ao acobertamento de seus reais intervenientes ou beneficiários.
+O valor mínimo dessa multa é de R$ 5.000,00. A multa não prejudica a aplicação da pena de
+perdimento às mercadorias na importação e na exportação.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               39
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Multas do art. 728 do R/A
+
+O art. 728 do R/A estabelece diversas multas aplicadas sob a forma de valores fixos. São elas:
+
+               I.   R$ 50.000,00 por contêiner ou qualquer veículo contendo mercadoria, inclusive a
+                    granel, ingressado em local ou recinto sob controle aduaneiro, que não seja
+                    localizado;
+
+              II.   R$ 15.000,00 por contêiner ou veículo contendo mercadoria, inclusive a granel, no
+                    regime de trânsito aduaneiro, que não seja localizado;
+
+             III.   R$ 10.000,00, por desacato à autoridade aduaneira;
+
+             IV.    R$ 10.000,00 por dia, pelo descumprimento dos requisitos do art. 13-A (requisitos
+                    para o alfandegamento de recintos) ou pelo seu cumprimento fora do prazo fixado
+                    com base no art. 13-C;
+
+              V.    R$ 5.000,00 por ponto percentual que ultrapasse a margem de cinco por cento,
+                    na diferença de peso apurada em relação ao manifesto de carga a granel
+                    apresentado pelo transportador marítimo, fluvial ou lacustre;
+
+             VI.    R$ 5.000,00 por mês-calendário, a quem não apresentar à fiscalização os
+                    documentos relativos à operação que realizar ou em que intervier, bem como
+                    outros documentos exigidos pela Secretaria da Receita Federal do Brasil, ou não
+                    mantiver os correspondentes arquivos em boa guarda e ordem;
+
+            VII.    R$ 5.000,00 a quem, por qualquer meio ou forma, omissiva ou comissiva,
+                    embaraçar, dificultar ou impedir ação de fiscalização aduaneira, inclusive no caso
+                    de não-apresentação de resposta, no prazo estipulado, a intimação em
+                    procedimento fiscal;
+
+            VIII.   R$ 5.000,00 a quem promover a saída de veículo de local ou recinto sob controle
+                    aduaneiro, sem autorização prévia da autoridade aduaneira;
+
+             IX.    R$ 5.000,00, por deixar de prestar informação sobre veículo ou carga nele
+                    transportada, ou sobre as operações que execute, na forma e no prazo
+                    estabelecidos pela Secretaria da Receita Federal do Brasil, aplicada à empresa de
+                    transporte internacional, inclusive a prestadora de serviços de transporte
+                    internacional expresso porta-a-porta, ou ao agente de carga;
+
+              X.    R$ 5.000,00 por deixar de prestar informação sobre carga armazenada, ou sob sua
+                    responsabilidade, ou sobre as operações que execute, na forma e no prazo
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 40
+        www.estrategiaconcursos.com.br                                                             106
+
+                                     
+
+
+---
+
+Áulus Dias Warzeé Mattos
+Aula 06
+
+                  estabelecidos pela Secretaria da Receita Federal do Brasil, aplicada ao depositário
+                  ou ao operador portuário;
+
+           XI.    R$ 3.000,00, ao transportador de carga ou de passageiro, pelo descumprimento
+                  de exigência estabelecida para a circulação de veículos e mercadorias em zona de
+                  vigilância aduaneira;
+
+          XII.    R$ 2.000,00, no caso de violação de volume ou unidade de carga que contenha
+                  mercadoria sob controle aduaneiro, ou de dispositivo de segurança;
+
+          XIII.   R$ 1.000,00 por volume depositado em local ou recinto sob controle aduaneiro,
+                  que não seja localizado;
+
+          XIV.    R$ 1.000,00 pela substituição do veículo transportador, em operação de trânsito
+                  aduaneiro, sem autorização prévia da autoridade aduaneira;
+
+          XV.     R$ 1.000,00 por dia, pelo descumprimento de condição estabelecida pela
+                  administração aduaneira para a prestação de serviços relacionados com o
+                  despacho aduaneiro;
+
+          XVI.    R$ 1.000,00 por dia, pelo descumprimento de requisito, condição ou norma
+                  operacional para habilitar-se ou utilizar regime aduaneiro especial ou aplicado em
+                  áreas especiais, ou para habilitar-se ou manter recintos nos quais tais regimes
+                  sejam aplicados, exceto os requisitos técnicos e operacionais referidos no art. 13-
+                  A;
+
+      XVII.       R$ 1.000,00 por dia, pelo descumprimento de requisito, condição ou norma
+                  operacional para executar atividades de movimentação e armazenagem de
+                  mercadorias sob controle aduaneiro, e serviços conexos, exceto os requisitos
+                  técnicos e operacionais referidos no art. 13-A;
+
+     XVIII.       R$ 1.000,00 por dia, pelo descumprimento de condição estabelecida para
+                  utilização de procedimento aduaneiro simplificado;
+
+          XIX.    R$ 500,00 por ingresso de pessoa em local ou recinto sob controle aduaneiro sem
+                  a regular autorização, aplicada ao administrador do local ou recinto;
+
+          XX.     R$ 500,00 por tonelada de carga a granel depositada em local ou recinto sob
+                  controle aduaneiro, que não seja localizada;
+
+      Receita Federal (Analista Tributário) Legislação Aduaneira                                  41
+      www.estrategiaconcursos.com.br                                                              106
+
+                                   
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            XXI.   R$ 500,00 por dia de atraso ou fração, no caso de veículo que, em operação de
+                   trânsito aduaneiro, chegar ao destino fora do prazo estabelecido, sem motivo
+                   justificado;
+
+        XXII.      R$ 500,00 por erro ou omissão de informação em declaração relativa ao controle
+                   de papel imune;
+
+       XXIII.      R$ 500,00 pela não-apresentação do romaneio de carga (packing-list) nos
+                   documentos de instrução da declaração aduaneira;
+
+       XXIV.       R$ 300,00, por volume de mercadoria, em regime de trânsito aduaneiro, que não
+                   seja localizado no veículo transportador, limitada ao valor de R$ 15.000,00 (quinze
+                   mil reais);
+
+        XXV.       R$ 200,00 por tonelada de carga a granel em regime de trânsito aduaneiro que
+                   não seja localizada no veículo transportador, limitada ao valor de R$ 15.000,00
+                   (quinze mil reais);
+
+       XXVI.       R$ 200,00 para a pessoa que ingressar em local ou recinto sob controle aduaneiro
+                   sem a regular autorização;
+
+       XXVII.      R$ 100,00 por volume de carga não manifestada pelo transportador, sem prejuízo
+                   da aplicação da pena prevista no inciso IV do art. 689 (aplicação da pena de
+                   perdimento);
+
+      XXVIII.      R$ 100,00 por ponto percentual que ultrapasse a margem de cinco por cento, na
+                   diferença de peso apurada em relação ao manifesto de carga a granel
+                   apresentado pelo transportador rodoviário ou ferroviário.
+
+Multas do art. 729 do R/A
+
+Aplica-se à empresa de transporte internacional que opere em linha regular, por via aérea ou
+marítima, a multa de:
+
+            a) R$ 5.000,00 por veículo cujas informações sobre tripulantes e passageiros não sejam
+               prestadas na forma e no prazo estabelecidos pela Secretaria da Receita Federal do
+               Brasil; ou
+
+            b) R$ 200,00 por informação omitida, limitada ao valor de R$ 5.000,00 por veículo.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 42
+        www.estrategiaconcursos.com.br                                                             106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Multas do art. 730 do R/A
+
+Aplica-se cumulativamente ao perdimento do veículo e da mercadoria, a multa de R$ 200,00 por
+passageiro ou tripulante conduzido pelo veículo que efetuar a operação proibida, no caso do
+inciso III do art. 688 (embarcação atracar a navio ou quando qualquer veículo, na zona primária, se
+colocar nas proximidades de outro, um deles procedente do exterior ou a ele destinado, de modo
+a tornar possível o transbordo de pessoa ou de carga, sem observância das normas legais e
+regulamentares)
+
+Multas do art. 731 do R/A
+
+Aplica-se a multa de R$ 15.000,00 ao transportador, de passageiros ou de carga, em viagem
+doméstica ou internacional que transportar mercadoria sujeita a pena de perdimento:
+
+            a) sem identificação do proprietário ou possuidor; ou
+
+            b) ainda que identificado o proprietário ou possuidor, as características ou a quantidade
+               dos volumes transportados evidenciarem que se trata de mercadoria sujeita à referida
+               pena.
+
+A multa a ser aplicada será de R$ 30.000,00 nas hipóteses de:
+
+            a) reincidência da infração prevista no item anterior, envolvendo o mesmo veículo
+               transportador; ou
+
+            c) modificações da estrutura ou das características do veículo, com a finalidade de
+               efetuar o transporte de mercadorias ou permitir a sua ocultação.
+
+
+Redução de Multas
+
+O art. 732 do Regulamento Aduaneiro prevê hipóteses de redução de multas:
+
+        Art. 732. Ao sujeito passivo que, notificado, efetuar o pagamento, a compensação
+        ou o parcelamento dos tributos administrados pela Secretaria da Receita Federal
+        do Brasil, será concedida redução da multa de lançamento de ofício nos seguintes
+        percentuais.
+
+        I - cinquenta por cento, se for efetuado o pagamento ou a compensação no prazo
+        de trinta dias, contados da data em que o sujeito passivo foi notificado do
+        lançamento;
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                43
+        www.estrategiaconcursos.com.br                                                            106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        II - quarenta por cento, se o sujeito passivo requerer o parcelamento no prazo de
+        trinta dias, contados da data em que foi notificado do lançamento;
+
+        III - trinta por cento, se for efetuado o pagamento ou a compensação no prazo de
+        trinta dias, contados da data em que o sujeito passivo foi notificado da decisão
+        administrativa de primeira instância; e
+
+        IV - vinte por cento, se o sujeito passivo requerer o parcelamento no prazo de
+        trinta dias, contados da data em que foi notificado da decisão administrativa de
+        primeira instância.
+
+        § 1o No caso de provimento a recurso de ofício interposto por autoridade
+        julgadora de primeira instância, aplica-se a redução prevista no inciso III do caput,
+        para o caso de pagamento ou compensação, e no inciso IV do caput, para o caso
+        de parcelamento.
+
+        § 2o A rescisão do parcelamento, motivada pelo descumprimento das normas que
+        o regulam, implicará restabelecimento do montante da multa proporcionalmente
+        ao valor da receita não satisfeita e que exceder o valor obtido com a garantia
+        apresentada.
+
+Em todos os casos apresentados, percebe-se o incentivo para que o sujeito passivo quite os
+débitos que possui frente à Fazenda Pública. O sujeito passivo, uma vez notificado da existência
+de multa por infração à legislação aduaneira, fará jus à redução de multa nas seguintes situações:
+
+            a) 50% de redução, se for efetuado o pagamento ou a compensação no prazo de 30
+               dias contados da data em que o sujeito passivo foi notificado do lançamento;
+
+            b) 40% de redução, se o sujeito passivo requerer o parcelamento no prazo de 30 dias
+               contados da data em que foi notificado do lançamento;
+
+            c) 30% de redução, se for efetuado o pagamento ou a compensação no prazo de 30
+               dias, contados da data em que o sujeito passivo foi notificado da decisão
+               administrativa de primeira instância;
+
+            d) 20% de redução, se o sujeito passivo requerer o parcelamento no prazo de 30 dias,
+               contados da data em que foi notificado da decisão administrativa de primeira
+               instância.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              44
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Perceba, caro amigo, que temos aí uma escadinha! O percentual de redução para pagamento ou
+compensação é sempre maior do que o percentual de redução para parcelamento. E, ainda, o
+percentual de redução para quitação do débito após decisão administrativa de primeira instância
+é sempre menor do que o percentual de redução antes de qualquer decisão recursal. A decisão
+administrativa de primeira instância é aquela tomada diante de impugnação feita pelo sujeito
+passivo.
+
+Por último, vale destacar que a redução de multas não se aplica a todos os casos. Essa é a exata
+inteligência do art. 734 do Regulamento Aduaneiro. Acredito que não compense decorar os casos
+em que não se aplica a redução de multas. Mas é importante saber que ela nem sempre se aplica.
+
+        Art. 734. A redução de que trata este Capítulo não se aplica aos seguintes casos:
+
+        I - multas referidas no § 1º do art. 689, no inciso II do caput do art. 717, e nos arts.
+        698, 703, 703-A, 704, 709, 710, 711, 712, 714, 715, 724, 728 e 731
+
+        II - outras hipóteses de conversão da pena de perdimento em multa equivalente
+        ao valor aduaneiro da mercadoria;
+
+        III - outras hipóteses de relevação da pena de perdimento mediante aplicação de
+        multa;
+
+        IV - lançamento de ofício da multa de mora; e
+
+        V - outras hipóteses de não-redução previstas em lei.
+
+(Questão Inédita) Nas hipóteses em que o preço declarado for diferente do arbitrado pela
+autoridade aduaneira ou do efetivamente praticado na operação, aplica-se a multa de 100% sobre
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 45
+        www.estrategiaconcursos.com.br                                                             106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+a diferença, sem prejuízo da exigência dos tributos, da multa de ofício e dos acréscimos legais
+cabíveis.
+
+Comentários
+
+Trata-se da multa prevista pelo artigo 703, caput, do Regulamento Aduaneiro.
+
+Art. 703. Nas hipóteses em que o preço declarado for diferente do arbitrado na forma do art. 86
+ou do efetivamente praticado, aplica-se a multa de cem por cento sobre a diferença, sem prejuízo
+da exigência dos tributos, da multa de ofício referida no art. 725 e dos acréscimos legais cabíveis.
+
+Gabarito: certa
+
+(Questão Inédita) Aplica-se multa equivalente a 10% do valor aduaneiro no caso de mercadoria
+classificada incorretamente na NCM.
+
+Comentários
+
+Aplica-se multa equivalente a 1% do valor aduaneiro no caso de mercadoria classificada
+incorretamente na NCM, conforme artigo 711, inciso I, do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+(Questão Inédita) Aplica-se a multa de R$ 2,00 (dois reais) por maço de cigarro apreendido por
+infração às medidas de controle fiscal estabelecidas pelo Ministro da Fazenda, desde que não
+tenha sido aplicada a pena de perdimento.
+
+Comentários
+
+Aplica-se a multa de R$ 2,00 (dois reais) por maço de cigarro apreendido por infração às medidas
+de controle fiscal estabelecidas pelo Ministro da Fazenda, cumulativamente com a pena de
+perdimento da mercadoria.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               46
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            INTERVENIENTES E SANÇÕES ADMINISTRATIVAS
+
+Intervenientes
+
+O art. 735, § 2º, do R/A estabelece que são consideradas intervenientes no comércio exterior as
+seguintes pessoas:
+
+       a) o importador;
+
+       b) o exportador;
+
+       c) o beneficiário de regime aduaneiro ou de procedimento simplificado;
+
+       d) o despachante aduaneiro e seus ajudantes;
+
+       e) o transportador;
+
+       f) o agente de carga;
+
+       g) o operador de transporte multimodal (OTM),
+
+       h) o operador portuário;
+
+       i) o depositário;
+
+       j) o administrador de recinto alfandegado;
+
+       k) o perito;
+
+       l) qualquer outra pessoa que tenha relação, direta ou indireta, com a operação de
+          comércio exterior.
+
+Relação enorme, não é mesmo? A evolução das práticas do comércio internacional tem
+aumentado cada vez mais o número de intervenientes no comércio exterior. A existência dessa
+variedade de pessoas traz a necessidade de controle governamental.
+
+O controle pela RFB dos intervenientes do comércio exterior, inclusive dos despachantes
+aduaneiros e dos ajudantes de despachante aduaneiro, e da representação das pessoas físicas e
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          47
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+jurídicas, para fins de atuação nas operações de comércio exterior, será exercido por meio do
+Cadastro Aduaneiro Informatizado de Intervenientes de Comércio Exterior, Sistema CAD-
+ADUANA.
+
+A respeito dos intervenientes relacionados artigo 735, §2º, do Regulamento Aduaneiro, convém
+anotar alguns breves esclarecimentos:
+
+       a) Despachante Aduaneiro e Ajudante de Despachante Aduaneiro: o despachante
+          aduaneiro é o profissional competente para realizar, em nome dos seus representados,
+          os atos relacionados ao despacho aduaneiro de bens ou de mercadorias; existe,
+          também, a figura do ajudante de despachante aduaneiro, que poderá estar
+          tecnicamente subordinado a um despachante aduaneiro. O ajudante de despachante
+          tem atribuições mais limitadas que as do despachante;
+
+       b) Agentes de Unitização e Desunitização: esses agentes alugam contêineres inteiros dos
+          armadores e oferecem pequenos espaços internos para os operadores de comércio
+          exterior que não utilizarão um contêiner inteiro sozinhos. Os agentes de unitização são,
+          portanto, aqueles que colocam diversas cargas em uma unidade de carga maior (ova ou
+          estufagem), ao passo que os agentes de desunitização, fazem o processo inverso, ou
+          seja, pegam a unidade de carga maior e promovem a separação das cargas (desova);
+
+       c) Operador de Transporte Multimodal: o transporte multimodal de cargas é aquele que,
+          regido por um único contrato, utiliza duas ou mais modalidades de transporte
+          (rodoviário e aquaviário, por exemplo) desde a origem até o destino, e é executado sob
+          a responsabilidade única de um operador de transporte multimodal;
+
+       d) Operador Portuário: é a pessoa jurídica pré-qualificada para exercer as atividades de
+          movimentação de passageiros ou movimentação e armazenagem de mercadorias,
+          destinados ou provenientes de transporte aquaviário, dentro da área do porto
+          organizado;
+
+       e) Depositário e Administrador de recinto alfandegado: o depositário é quem recebe
+          determinado bem para sua guarda. O administrador de recinto alfandegado, como o
+          próprio nome já diz, é aquele que é o responsável pelo recinto alfandegado. Destaque-
+          se que é o administrador do recinto alfandegado que assume a condição de depositário
+          da mercadoria nele armazenada.
+
+       f) Perito e Assistente Técnico: a perícia (que é realizada pelos laboratórios da própria RFB,
+          por órgãos ou entidades da administração pública, ou por entidades privadas e técnicos
+          especializados previamente credenciados) pode ser solicitada para auxiliar na
+          identificação e quantificação de mercadorias, na avaliação de equipamentos de
+          segurança e sistemas informatizados e para a emissão de laudos sobre o estado e valor
+          residual dos bens; os legítimos interessados na perícia podem designar, ainda, um
+          assistente técnico (uma espécie de “perito particular”) para acompanhar a perícia.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               48
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Vale recordar, ainda, que vigora atualmente no Brasil a IN RFB nº 1.985/20, que trata do Operador
+Econômico Autorizado. Esse tema tem tudo a ver com a facilitação de comércio e a
+desburocratização das operações de comércio exterior.
+
+Em resumo, os Operadores Econômicos Autorizados usufruem de diversos benefícios, todos eles
+relacionados à simplificação de procedimentos aduaneiros. Por exemplo, uma empresa habilitada
+como OEA-S fica dispensada de apresentar garantia no regime de trânsito aduaneiro.
+
+Segundo a IN RFB nº 1.985/2020, entende-se por Operador Econômico Autorizado (OEA) o
+interveniente em operação de comércio exterior envolvido na movimentação internacional de
+mercadorias a qualquer título que demonstre atendimento aos requisitos e critérios exigidos pelo
+Programa OEA e seja devidamente certificado.
+
+Mas quem pode ser certificado como OEA?
+
+São passíveis de certificação:
+
+       a) o importador ou exportador;
+
+       b) o depositário de mercadoria sob controle aduaneiro em recinto alfandegado;
+
+       c) o operador portuário ou aeroportuário;
+
+       d) o transportador;
+
+       e) o agente de carga; e
+
+       f) o depositário em Recinto Especial para Despacho Aduaneiro de Exportação (REDEX).
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            49
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                          O importador ou exportador
+
+            O depositário de mercadoria
+                                                                          O operador portuário ou
+             sob controle aduaneiro em
+                                                                              aeroportuário
+                recinto alfandegado
+
+                                        São passíveis de certificação
+                                                   - OEA
+
+                                                                          O Recinto Especial para
+                  O transportador                                         Despacho Aduaneiro de
+                                                                           Exportação (REDEX)
+
+                                                O agente de carga
+
+Sanções Administrativas
+
+Há vários tipos de penalidades por infração à legislação aduaneira. Dentre elas, nos interessam,
+nesse momento, as sanções administrativas aplicáveis aos intervenientes. Trata-se de sanções não-
+pecuniárias, ou seja, que não implicam na imputação de débito em dinheiro ao infrator.
+
+As sanções administrativas aplicáveis aos intervenientes no comércio exterior são de três tipos:
+
+       a) advertência;
+
+       b) suspensão de registro, licença, autorização, credenciamento ou habilitação, pelo prazo
+          de até doze meses (na determinação do prazo de suspensão, devem ser considerados
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                  50
+        www.estrategiaconcursos.com.br                                                              106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+            a natureza e a gravidade da infração cometida, os danos que dela provierem e os
+            antecedentes do infrator);
+
+       c) cancelamento ou cassação de registro, licença, autorização, credenciamento ou
+          habilitação (caso ocorra cancelamento ou cassação, a reinscrição ou a inscrição para
+          exercer outra atividade sujeita a controle aduaneiro somente poderá ser solicitada dois
+          anos após a data de aplicação definitiva da sanção. Nessa hipótese, deverão ser
+          novamente cumpridas todas as exigências e formalidades necessárias para uma
+          inscrição).
+
+Há uma natural correlação entre a gravidade das infrações e a sanção aplicável, consistindo, é
+claro, o cancelamento ou cassação de registro/licença na hipótese mais gravosa ao interveniente.
+
+                                                       ==219a34==
+
+Segundo o art. 735, § 1º, do R/A, as sanções administrativas, uma vez aplicadas, serão anotadas
+no registro do infrator pela administração aduaneira. Nesse mesmo sentido, o art. 10 da IN RFB
+nº 1.273/2012 estabelece que as sanções administrativas relativas aos intervenientes no comércio
+exterior deverão ser registradas no sistema CAD-ADUANA, pela unidade da RFB que as aplicou.
+Tais sanções serão canceladas após o decurso de 5 (cinco) anos de sua efetivação, ou seja, o
+infrator ficará com a “ficha limpa” após passados 5 anos.
+
+A sanção administrativa é considerada definitivamente aplicada após a notificação ao sancionado
+da decisão administrativa da qual não caiba recurso. No caso de advertência, a notificação
+ocorrerá mediante simples ciência do interessado. Já no caso de suspensão ou
+cancelamento/cassação de registro, a notificação será feita mediante publicação de ato específico
+no Diário Oficial da União. As sanções aplicadas aos intervenientes não prejudicam a exigência
+dos tributos incidentes, a aplicação de outras penalidades cabíveis e a representação fiscal para
+fins penais, quando for o caso.
+
+Amigos, caso seja cobrada uma questão sobre as sanções administrativas a que estão sujeitos os
+intervenientes no comércio exterior, acreditamos que o mais provável é que sejam pedidos
+conhecimentos genéricos, sobre os quais comentamos acima.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            51
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+De qualquer modo, como está previsto no edital, vejamos uma a uma as sanções administrativas
+aplicáveis aos intervenientes. Mas precisamos ressaltar que o custo-benefício de ficar decorando
+essas disposições é baixo! Dê apenas uma lida para que, se for necessário, esses conhecimentos
+venham à sua cabeça na hora da prova.
+
+
+Infrações Puníveis com Advertência
+
+Aplica-se a sanção de advertência nos seguintes casos:
+
+       a) Atraso, de forma contumaz, na chegada ao destino de veículo conduzindo mercadoria
+          submetida ao regime de trânsito aduaneiro (considera-se contumaz o atraso sem motivo
+          justificado ocorrido em mais de 20% das operações de trânsito aduaneiro realizadas no
+          mês, se superior a 5 (cinco) o número total de operações);
+
+       a) Emissão de documento de identificação ou quantificação de mercadoria sob controle
+          aduaneiro em desacordo com o previsto em ato normativo, relativamente a sua efetiva
+          qualidade ou quantidade;
+
+       b) Prática de ato que prejudique a identificação ou quantificação de mercadoria sob
+          controle aduaneiro;
+
+       c) Consolidação ou desconsolidação de carga efetuada em desacordo com disposição
+          estabelecida em ato normativo e que altere o tratamento tributário ou aduaneiro da
+          mercadoria;
+
+       d) Atraso, por mais de três vezes, em um mesmo mês, na prestação de informações sobre
+          carga e descarga de veículos, ou movimentação e armazenagem de mercadorias sob
+          controle aduaneiro;
+
+       e) Descumprimento de requisito, condição ou norma operacional para habilitar-se ou
+          utilizar regime aduaneiro especial ou aplicado em áreas especiais, ou para habilitar-se
+          ou manter recintos nos quais tais regimes sejam aplicados;
+
+       f) Descumprimento de requisito, condição ou norma operacional para executar atividades
+          de movimentação e armazenagem de mercadorias sob controle aduaneiro, e serviços
+          conexos;
+
+       g) Descumprimento de condição estabelecida para utilização de procedimento aduaneiro
+          simplificado;
+
+       h) Deixar de comunicar à Secretaria da Receita Federal do Brasil qualquer alteração das
+          informações prestadas para inscrição no registro de despachante aduaneiro ou de
+          ajudante;
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            52
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+       i) Descumprimento de obrigação de apresentar à fiscalização, em boa ordem, os
+          documentos relativos à operação em que realizar ou em que intervier, bem como outros
+          documentos exigidos pela Secretaria da Receita Federal do Brasil;
+
+       j) Descumprimento de determinação legal ou de outras obrigações relativas ao controle
+          aduaneiro previstas em ato normativo.
+
+
+Infrações Puníveis com suspensão de registro/licença pelo
+prazo de até 12 meses
+
+Aplica-se a sanção de suspensão por até doze meses nos seguintes casos:
+
+       a) Reincidência em conduta já sancionada com advertência;
+
+       b) Atuação em nome de pessoa que esteja cumprindo suspensão, ou no interesse desta;
+
+       c) Delegação de atribuição privativa a pessoa não credenciada ou habilitada;
+
+       d) Realização, por despachante aduaneiro ou ajudante, em nome próprio ou de terceiro,
+          de exportação ou importação de quaisquer mercadorias, exceto para uso próprio, ou
+          exercício, por estes, de comércio interno de mercadorias estrangeiras;
+
+       e) Descumprimento, pelo importador, depositário ou transportador, da determinação
+          efetuada pela autoridade aduaneira para destruir mercadoria ou devolvê-la ao exterior;
+
+       f) Prática de qualquer outra conduta sancionada com suspensão de registro, licença,
+          autorização, credenciamento ou habilitação, nos termos de legislação específica;
+
+       g) Agressão ou desacato à autoridade aduaneira no exercício da função.
+
+
+Infrações Puníveis                      com          cancelamento         ou   cassação      de
+registro/licença
+
+Aplica-se a sanção de cancelamento ou cassação de registro ou licença nos seguintes casos:
+
+       a) Acúmulo, em período de três anos, de suspensão cujo prazo total supere doze meses;
+
+       b) Atuação em nome de pessoa cujo registro, licença, autorização, credenciamento ou
+          habilitação tenha sido objeto de cancelamento ou cassação, ou no interesse desta;
+
+       c) Exercício, por pessoa credenciada ou habilitada, de atividade ou cargo vedados na
+          legislação específica;
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           53
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+       d) Prática de ato que embarace, dificulte ou impeça a ação da fiscalização aduaneira, para
+          benefício próprio ou de terceiros;
+
+       e) Sentença condenatória, transitada em julgado, por participação, direta ou indireta, na
+          prática de crime contra a administração pública ou contra a ordem tributária;
+
+       f) Sentença condenatória, transitada em julgado, à pena privativa de liberdade;
+
+       g) Descumprimento das obrigações eleitorais;
+
+       h) Ação ou omissão dolosa tendente a subtrair ao controle aduaneiro, ou dele ocultar, a
+          importação ou a exportação de bens ou de mercadorias;
+
+       i) Prática de qualquer outra conduta sancionada com cancelamento ou cassação de
+          registro, licença, autorização, credenciamento ou habilitação, nos termos de legislação
+          específica.
+
+O artigo 13-A do Regulamento Aduaneiro prevê requisitos técnicos e operacionais mínimos para
+os recintos alfandegados. A pergunta que fazemos, então, é a seguinte: o que acontecerá se a
+pessoa jurídica responsável pela administração dos recintos alfandegados descumprir esses
+requisitos?
+
+A resposta está no art. 735-C, do Regulamento Aduaneiro:
+
+        Art. 735-C. A pessoa jurídica de que tratam os arts. 13-B e 13-C, responsável pela
+        administração de local ou recinto alfandegado, fica sujeita, observados a forma, o
+        rito e as competências estabelecidos nos arts. 735, 782 e 783, à aplicação da
+        sanção de:
+
+        I - advertência, na hipótese de descumprimento de requisito técnico ou
+        operacional para o alfandegamento, definido com fundamento no art. 13-A; e
+
+        II - suspensão das atividades de movimentação, armazenagem e despacho
+        aduaneiro de mercadorias sob controle aduaneiro, referidas no caput do art. 13-
+        A, na hipótese de reincidência em conduta já punida com advertência, até a
+        constatação pela autoridade aduaneira do cumprimento do requisito ou da
+        obrigação estabelecida.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            54
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        § 1º Para os fins do disposto no inciso II do caput, será considerado reincidente o
+        infrator que, no período de trezentos e sessenta e cinco dias, contados da data da
+        aplicação da sanção, cometer nova infração pela mesma conduta já penalizada
+        com advertência.
+
+Anotem, por fim, que a aplicação de sanções administrativas aos intervenientes depende da
+realização de um processo administrativo próprio.
+
+(Exame Despachante Aduaneiro – 2012) Aplica-se a sanção administrativa de suspensão, pelo
+prazo de até 12 (doze) meses, ao interveniente que reincidir em conduta já sancionada com
+advertência.
+
+Comentários
+
+A reincidência em conduta já sancionada com advertência dá ensejo à aplicação de sanção
+administrativa de suspensão (art. 735, inciso II, alínea “a”).
+
+Gabarito: certa
+
+(Exame Despachante Aduaneiro – 2012) As sanções administrativas cabíveis aos intervenientes
+nas operações de comércio exterior serão anotadas no registro do infrator pela administração
+aduaneira, devendo a anotação ser cancelada após o decurso de 5 (cinco) anos da aplicação da
+sanção.
+
+Comentários
+
+A administração aduaneira irá anotar no registro do infrator as sanções administrativas. A anotação
+deverá ser cancelada (retirada do registro), no entanto, após o decurso de 5 anos da aplicação da
+sanção. A partir daí o infrator voltar a ficar com a “ficha limpa”.
+
+Gabarito: certa
+
+(Exame Despachante Aduaneiro – 2012) As sanções cabíveis aos intervenientes nas operações de
+comércio exterior não prejudicam a exigência dos impostos incidentes, mas impedem a aplicação
+de outras penalidades cabíveis e a representação fiscal para fins penais, quando for o caso.
+
+Comentários
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              55
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+As sanções administrativas, aplicadas aos intervenientes, não prejudicam a exigência dos tributos
+incidentes, a aplicação de outras penalidades cabíveis e a representação fiscal para fins penais. O
+erro da assertiva está em dizer que a aplicação de sanção administrativa impede a aplicação de
+outras penalidades e a representação fiscal para fins penais.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              56
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  INFRAÇÕES PRATICADAS PELA ADMINISTRAÇÃO PÚBLICA
+Sabemos que órgãos da Administração Pública também podem realizar operações de importação.
+Com efeito, o Regulamento Aduaneiro reconhece até mesmo a incidência de isenção tributária
+nas importações efetuadas pela União, pelos estados, pelo Distrito Federal, pelos municípios e
+pelas respectivas autarquias, conforme artigo 136, inciso I, alínea “a”, do Decreto nº 6.759/09.
+
+E, como podemos imaginar, se determinado sujeito pode figurar como importador em uma
+operação de comércio exterior, é também possível que esse sujeito seja responsável pela prática
+de infrações à legislação aduaneira.
+
+Nesse contexto, anotem que existe, inclusive, uma conduta ilícita para a qual é prevista punição
+específica caso seja praticada por órgão da Administração Pública. De fato, segundo o artigo 742,
+caput, do Regulamento Aduaneiro, constitui falta grave, praticada pelos chefes de órgãos da
+Administração Pública direta ou indireta, promover importação ao desamparo de licença de
+importação, quando exigível na forma da legislação em vigor.
+
+        Art. 742. Constitui falta grave, praticada pelos chefes de órgãos da administração
+        pública direta ou indireta, promover importação ao desamparo de licença de
+        importação ou documento de efeito equivalente, quando exigível na forma da
+        legislação em vigor.
+
+        § 1º A apuração da irregularidade de que trata este artigo será efetuada mediante
+        inquérito determinado pela autoridade competente
+
+        § 2º O prosseguimento do despacho aduaneiro dos bens importados nas
+        condições deste artigo ficará condicionado à conclusão do inquérito a que se
+        refere o § 1º.
+
+Notem que a conduta de promover importação sem licença de importação constitui infração
+administrativa ao controle das importações em qualquer caso, mesmo quando o importador não
+é órgão da Administração Pública. Vale destacar que o artigo 706, inciso I, alínea “a”, do
+Regulamento Aduaneiro, prevê a aplicação de multa equivalente a trinta por cento do valor
+aduaneiro nessa hipótese.
+
+        Art. 706. Aplicam-se, na ocorrência das hipóteses abaixo tipificadas, por
+        constituírem infrações administrativas ao controle das importações, as seguintes
+        multas:
+
+        I - de trinta por cento sobre o valor aduaneiro:
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            57
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+        a) pela importação de mercadoria sem licença de importação ou documento de
+        efeito equivalente, inclusive no caso de remessa postal internacional e de bens
+        conduzidos por viajante, desembaraçados no regime comum de importação
+
+Caso a importação sem licença de importação seja promovida pela Administração Pública, porém,
+a legislação determina a responsabilização funcional do agente investido na função de chefia do
+órgão público importador.
+
+“Certo, professor. Promover importação sem licença de importação caracteriza falta grave para o
+chefe do órgão público importador. Mas qual é a consequência da falta grave?”
+
+Ótima pergunta. A punição para a “falta grave” depende da legislação a que está sujeito o agente.
+O servidor de um órgão público do estado de São Paulo, por exemplo, está sujeito ao Estatuto
+dos Funcionários Públicos Civis do Estado de São Paulo (Lei Estadual nº 10.261/68) – para esse
+agente, a falta grave é punida com suspensão de até 90 dias (artigo 254).
+
+Para os servidores públicos federais, de outro turno, a situação não é tão clara. Sobre o assunto,
+importa esclarecer, primeiramente, que o artigo 742 do Regulamento Aduaneiro tem por
+fundamento o artigo 34 do Decreto-Lei nº 1.455/76 (lembrem-se que o Regulamento Aduaneiro
+é um decreto regulamentador, ou seja, trata-se de diploma que não possui normas primárias).
+
+Quando o artigo 34 do Decreto-Lei nº 1.455/76 foi editado, estava em vigor o Estatuto dos
+Funcionários Públicos Civil da União positivado pela Lei nº 1.711/52. Nesse diploma normativo, a
+punição para a falta grave era prevista expressamente no artigo 205 (suspensão por até 90 dias).
+
+Ocorre, porém, que a Lei nº 1.711/52 foi revogada pela Lei nº 8.112/90, que dispõe, atualmente,
+sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações
+públicas federais. No âmbito da Lei nº 8.112/90, por sua vez, não há disposição expressa acerca
+da punição aplicável em caso de “falta grave”. Essa terminologia não é mais adotada pelo novo
+diploma.
+
+Há, portanto, alguma insegurança jurídica quanto à sanção aplicável. Há quem defenda a aplicação
+de advertência, com fundamento no artigo 129 da Lei nº 8.112/90 (“inobservância de dever
+funcional previsto em lei, regulamentação ou norma interna, que não justifique imposição de
+penalidade mais grave”).
+
+De toda sorte, muito embora haja divergência a esse respeito, como a advertência é adequada
+apenas para a punição de faltas leves, prevalece o entendimento de que continua sendo aplicável
+a suspensão por até noventa dias, com base no artigo 130 da Lei nº 8.112/90 (“violação das demais
+proibições que não tipifiquem infração sujeita a penalidade de demissão”).
+
+Isso, claro, se a conduta, no caso concreto, não caracterizar hipótese de infração punida com a
+pena de demissão. Assim, supondo, por exemplo, que o agente que promoveu a importação ao
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             58
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+desamparo de licença de importação estivesse agindo com vistas à obtenção de proveito próprio,
+seria possível o enquadramento no artigo 132, inciso XIII, combinado com o artigo 117, inciso IX,
+ambos da Lei nº 8.112/90, aplicando-se, como consequência, a penalidade de demissão.
+
+O artigo 742 do Regulamento Aduaneiro, em seus parágrafos 1º e 2º, estabelece, ainda, que a
+apuração da infração deve ser promovida via inquérito determinado pela autoridade competente,
+e que o prosseguimento do despacho aduaneiro dos bens fica condicionado à conclusão do
+inquérito.
+
+Convém esclarecer, no ponto, que o inquérito administrativo corresponde a uma das fases do
+processo administrativo disciplinar, compreendendo a instrução do feito, a defesa do acusado e a
+emissão de um relatório pela comissão formada para conduzir o PAD (artigo 151, inciso II, da Lei
+nº 8.112/90).
+                                                       ==219a34==
+
+Para além dessa previsão de penalidade específica no caso de importação de mercadoria sem
+licença de importação, o artigo 743 do Regulamento Aduaneiro encarrega o Ministro de Estado
+da Fazenda de disciplinar procedimentos fiscais específicos a serem adotados pelas unidades da
+Receita Federal em caso de infrações na importação que envolvam órgãos da Administração
+Pública.
+
+        Art. 743. O Ministro de Estado da Fazenda disciplinará os procedimentos fiscais
+        a serem adotados pelas unidades aduaneiras na ocorrência de infrações na
+        importação, que envolvam órgãos da administração pública.
+
+Importa ressaltar, no entanto, que isso não significa que devem ser necessariamente estabelecidos
+procedimentos especiais no caso de infrações que envolvam órgãos da Administração Pública.
+Essa noção foi objeto de uma solução de consulta interna (SCI COSIST nº 18/21), inclusive, em
+caso prático envolvendo o abandono de bens importados por órgão da Administração Pública.
+
+A esse respeito, determina o artigo 644, inciso I, do Regulamento Aduaneiro, que, tratando-se de
+importação efetuada por órgãos da administração direta, de qualquer nível, ou suas autarquias,
+serão declarados abandonados os bens que permanecerem em recinto alfandegado sem que o
+seu despacho seja iniciado dentro de noventa dias da descarga.
+
+Vale lembrar que nesse caso não há dano ao Erário, apenas declaração de abandono, conforme
+esclarece o artigo 644, §4º, do Regulamento Aduaneiro.
+
+Pois bem. Nessa hipótese, decorrido o prazo de noventa dias, a autoridade aduaneira deve,
+primeiramente, comunicar o fato ao órgão importador, para que seja promovido o início do
+despacho, e, se ainda assim não forem adotadas as devidas providências, no prazo de trinta dias
+da ciência da comunicação, a autoridade aduaneira deve encaminhar representação ao Ministério
+Público (artigo 644, §2º, do Regulamento Aduaneiro).
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            59
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Anotem, por fim, que o artigo 644, §5º, do Regulamento Aduaneiro, em consonância com o
+disposto no artigo 743 do Regulamento Aduaneiro, encarrega o Ministro de Estado da Fazenda
+de regular o processo de declaração de abandono nessa situação.
+
+Ocorre, porém, que não há regulamentação específica editada pelo Ministro de Estado da
+Fazenda sobre o assunto. Essa circunstância levou algumas unidades da Receita Federal a não
+adotar nenhuma providência após a representação ao Ministério Público, por falta de
+regulamentação específica do processo de declaração de abandono a ser adotado, o que resultou
+em cargas abandonadas sendo armazenadas por anos sem destinação.
+
+Por meio da SCI COSIT nº 18/21, no entanto, ficou estipulado que a Portaria MF nº 282/11, que
+disciplina os procedimentos gerais a serem adotados para a destinação de mercadorias
+abandonadas, entregues à Fazenda Nacional ou objeto da pena de perdimento, deve ser aplicada
+também quando há abandono de mercadorias importadas por órgãos da Administração Pública,
+muito embora não haja, no diploma, nenhuma disposição específica para casos em que o
+importador é órgão da Administração Pública.
+
+(Questão Inédita/2022) Constitui falta grave, praticada pelos chefes de órgãos da Administração
+Pública direta ou indireta, promover importação ao desamparo de licença de importação ou
+documento de efeito equivalente, quando exigível na forma da legislação em vigor.
+
+Comentários
+
+Esse é o exato teor do artigo 742, caput, do Regulamento Aduaneiro.
+
+Gabarito: certa
+
+(Questão Inédita/2022) A conduta praticada por chefe de órgão da Administração Pública direta
+de promover importação ao desamparo de licença de importação constitui falta grave que deve
+ser apurada via inquérito policial.
+
+Comentários
+
+A conduta deve ser apurada via inquérito administrativo.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          60
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                 QUESTÕES COMENTADAS
+
+Infrações e Penalidades
+
+1. (ATRFB - 2023) Segundo o Art. 675, do Regulamento Aduaneiro, aprovado pelo Decreto nº
+   6.759/2009, as penalidades em matéria aduaneira são aplicadas isolada ou cumulativamente.
+   Essas penalidades consistem
+
+  (A) no perdimento da mercadoria e na proibição temporária de transacionar com a Fazenda.
+
+  (B) no perdimento da moeda e na proibição de viajar ao exterior, quando se tratar de viajante.
+
+  (C) na aplicação de multas, que, no entender de alguns doutrinadores, constituem as sanções
+  políticas.
+
+  (D) na suspensão do cadastro de importadores e exportadores junto à Receita Federal do
+  Brasil.
+
+  (E) no perdimento do veículo, da mercadoria e da moeda, na multa e nas sanções
+  administrativas.
+
+Comentários
+
+De acordo com o artigo 675, do Regulamento Aduaneiro, as infrações aduaneiras estão sujeitas
+às seguintes penalidades: i) perdimento do veículo; ii) perdimento da mercadoria; iii) perdimento
+de moeda; iv) multa; e v) sanção administrativa.
+
+Gabarito: letra E.
+
+2. (Ajudante de Despachante Aduaneiro - 2018) Assinale, entre as opções apresentadas, aquela
+   que não representa uma espécie de penalidade:
+
+  a) multa.
+
+  b) sanção administrativa.
+
+  c) perdimento de moeda.
+
+  d) auto de infração.
+
+  e) perdimento da mercadoria.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 61
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Comentários
+
+Nos termos do artigo 675, do Regulamento Aduaneiro, as infrações estão sujeitas às seguintes
+penalidades, aplicáveis separada ou cumulativamente: i) perdimento do veículo; ii) perdimento da
+mercadoria (letra e); iii) perdimento de moeda (letra c); iv) multa (letra a); v) sanção administrativa
+(letra b).
+
+O auto de infração é a peça inaugural do processo administrativo formalizado para aplicação da
+penalidade, mas não é uma espécie de penalidade.
+
+Gabarito: letra D
+
+3. (Exame Despachante Aduaneiro – 2012) Assinale a opção correta, de acordo com as
+   disposições do Decreto 6.759/2009 relativas à responsabilidade por infrações.
+                                                       ==219a34==
+
+  a) Responde pela infração, salvo isoladamente, quem quer que concorra para a sua prática
+  ou dela se beneficie.
+
+  b) Responde pela infração, desde que intencionalmente, quem quer que concorra para a sua
+  prática ou dela se beneficie.
+
+  c) Responde pela infração quem quer que, de qualquer forma, concorra para a sua prática,
+  sendo vedada a responsabilização do mero beneficiário.
+
+  d) Responde pela infração, conjunta ou isoladamente, quem quer que, de qualquer forma,
+  concorra para a sua prática ou dela se beneficie.
+
+  e) Responde pela infração a pessoa jurídica, em razão do despacho que promova, de
+  qualquer mercadoria, não cabendo, nas mesmas circunstâncias, a responsabilidade da
+  pessoa física.
+
+Comentários
+
+Segundo o art. 674, inciso I, do Regulamento Aduaneiro, responde pela infração, conjunta ou
+isoladamente, quem quer que, de qualquer forma, concorra para sua prática ou dela se beneficie.
+A resposta, portanto, é a letra D.
+
+Gabarito: letra D
+
+4. (Exame Despachante Aduaneiro – 2012) A infração deve ser caracterizada por comportamento
+   ativo, isto é, por ação, não havendo previsão de caracterização de infração por omissão.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                  62
+        www.estrategiaconcursos.com.br                                                              106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+As infrações à legislação aduaneira podem ocorrer via ação ou omissão.
+
+Gabarito: errada
+
+5. (Exame Despachante Aduaneiro – 2012) Salvo disposição expressa em contrário, a
+   responsabilidade por infração independe da intenção do agente ou do responsável, mas a
+   ação deve ser necessariamente voluntária.
+
+Comentários
+
+De fato, em regra, a responsabilidade por infração à legislação aduaneira independe da intenção
+do agente. Porém, de acordo com o artigo 673, do Regulamento Aduaneiro, a infração pode ser
+caracterizada por ação ou omissão, voluntária ou involuntária.
+
+Gabarito: errada
+
+6. (Exame Despachante Aduaneiro – 2012) A infração pode ser praticada tanto por pessoa física
+   quanto por pessoa jurídica.
+
+Comentários
+
+As infrações à legislação aduaneira podem ser praticadas tanto por pessoa física quanto por
+pessoa jurídica.
+
+Gabarito: certa
+
+7. (Exame Despachante Aduaneiro – 2012) A infração é caracterizada, também, por inobservância
+   de norma estabelecida ou disciplinada em ato administrativo de caráter normativo destinado
+   a completar o Decreto 6.759/2009.
+
+Comentários
+
+A infração à legislação aduaneira fica caracterizada pelo descumprimento de norma prevista no
+Regulamento Aduaneiro ou em ato administrativo de caráter normativo destinado a completá-lo.
+
+Gabarito: certa
+
+8. (AFRFB – 2012) Salvo disposição expressa em contrário, a responsabilidade por infração
+   depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos
+   efeitos do ato.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          63
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+A responsabilidade por infração à legislação aduaneira, salvo disposição em contrário, independe
+da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do
+ato.
+
+Gabarito: errada
+
+9. (ATRFB – 2012) A denúncia espontânea exclui a aplicação de penalidades de natureza
+   tributária ou administrativa, com exceção das penalidades aplicáveis na hipótese de
+   mercadoria sujeita a pena de perdimento.
+
+Comentários
+
+A denúncia espontânea exclui as penalidades de natureza tributária ou administrativa. Subsiste,
+entretanto, a aplicação da pena de perdimento.
+
+Gabarito: certa
+
+10. (Questão Inédita) Depois de formalizada a entrada do veículo procedente do exterior não mais
+    se tem por espontânea a denúncia de infração imputável ao transportador.
+
+Comentários
+
+Exatamente o que prevê o art. 683, § 3o, do R/A. Depois de formalizada a entrada do veículo, não
+cabe mais falar em denúncia espontânea de infração imputável ao transportador.
+
+Gabarito: certa
+
+11. (Questão Inédita) A aplicação da penalidade tributária, e seu cumprimento, impedem a
+    cobrança dos tributos.
+
+Comentários
+
+A aplicação da penalidade tributária, e seu cumprimento, não impedem a cobrança dos tributos.
+
+Gabarito: errada
+
+12. (Questão Inédita) Caso seja apurada a prática de duas ou mais infrações diferentes, em um
+    mesmo processo, imputáveis à mesma pessoa física ou jurídica, prevalecerá a penalidade mais
+    gravosa.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           64
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Caso seja apurada a prática de duas ou mais infrações diferentes, em um mesmo processo,
+imputáveis à mesma pessoa física ou jurídica, as penalidades poderão ser aplicadas
+cumulativamente (art. 679, do R/A).
+
+Gabarito: errada
+
+13. (AFRF-2010- Curso de Formação) Sobre princípios aplicáveis em matéria de infrações e
+    penalidades aduaneiras, analise se é Verdadeira (V) ou Falsa (F) cada proposição a seguir, e
+    assinale a alternativa que indica a sequência CORRETA.
+
+  ( ) Prevalece o princípio da responsabilidade objetiva, ou seja, a responsabilidade por
+  infração, como regra, independe da intenção do agente ou do responsável e da efetividade,
+  da natureza e da extensão dos efeitos do ato.
+
+  ( ) Aplica-se o princípio da legalidade: somente a lei pode estabelecer a cominação de
+  penalidades para as ações ou omissões contrárias a seus dispositivos, ou para as infrações
+  nela definidas.
+
+  ( ) É observado o princípio da retroatividade na aplicação penal, que significa a possibilidade
+  de se aplicar penalidade à infração cometida antes da vigência da lei que a estabeleceu, se
+  verificado evidente intuito de fraude.
+
+  a) F F V
+
+  b) V F V
+
+  c) V V V
+
+  d) V V F
+
+  e) F V F
+
+Comentários
+
+A primeira assertiva está correta. O princípio da responsabilidade objetiva se aplica às infrações à
+legislação aduaneira.
+
+A segunda assertiva está correta. A definição de infrações à legislação aduaneira, assim como das
+penalidades aplicáveis a cada uma delas, devem estar previstas em lei (princípio da legalidade).
+
+A terceira assertiva está errada. Somente podem ser alcançadas pela disposições legais
+sancionatórias as condutas praticadas após a entrada em vigor da lei (princípio da irretroatividade).
+
+Gabarito: letra D
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                  65
+        www.estrategiaconcursos.com.br                                                            106
+
+                                     
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 06
+
+14. (Questão Inédita) Respondem pela infração, conjunta ou isoladamente, o importador e o
+    adquirente de mercadoria de procedência estrangeira, no caso de importação realizada por
+    conta e ordem deste, por intermédio de pessoa jurídica importadora.
+
+Comentários
+
+Esse é exatamente o teor do artigo 674, inciso V, do Regulamento Aduaneiro:
+
+Art. 674. Respondem pela infração:
+
+(...)
+
+V - conjunta ou isoladamente, o importador e o adquirente de mercadoria de procedência
+estrangeira, no caso de importação realizada por conta e ordem deste, por intermédio de pessoa
+jurídica importadora;
+
+Gabarito: certa
+
+15. (Questão Inédita) A responsabilidade por infração à legislação aduaneira independe, sempre,
+    da intenção do agente ou do responsável.
+
+Comentários
+
+A responsabilidade por infração à legislação aduaneira independe da intenção do agente ou do
+responsável, salvo disposição expressa em contrário, conforme esclarece o artigo 673, parágrafo
+único, do Regulamento Aduaneiro.
+
+Notem, por exemplo, que a pena de perdimento prevista pelo artigo 689, inciso XI, do
+Regulamento Aduaneiro, exige que os tributos aduaneiros tenham sido pagos apenas em parte,
+mediante artifício doloso.
+
+Ou seja, esse é um caso em que o dolo (intenção do agente) é exigido, precisamente em
+decorrência da disposição expressa a respeito, em conformidade com a ressalva inserta no artigo
+673, parágrafo único, do Regulamento Aduaneiro (salvo disposição expressa em contrário).
+
+Gabarito: errada
+
+         Receita Federal (Analista Tributário) Legislação Aduaneira                         66
+         www.estrategiaconcursos.com.br                                                     106
+
+                                      
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                 QUESTÕES COMENTADAS
+
+Pena de Perdimento
+
+1. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria saída da Zona Franca
+   de Manaus sem autorização da autoridade aduaneira, quando necessária, por configurar crime
+   de contrabando.
+
+Comentários
+
+A saída de mercadoria da ZFM sem autorização da autoridade aduaneira, quando esta for
+necessária, configura crime de contrabando. Essa infração será punida com a aplicação da pena
+de perdimento.
+
+Gabarito: certa
+
+2. (Questão Inédita/2022) O transportador, de passageiros ou de carga, em viagem doméstica
+   ou internacional, que transportar mercadoria sujeita a pena de perdimento sem identificação
+   do proprietário ou possuidor será punido com a aplicação da pena de perdimento no veículo.
+
+Comentários
+
+A sanção para essa infração é a aplicação da multa de R$ 15.000,00 (ou de R$ 30.000,00, a
+depender do caso). O veículo será, então, retido e, caso a multa não seja paga, aí sim o veículo
+poderá ser objeto da pena de perdimento.
+
+Gabarito: errada
+
+3. (Questão Inédita/2022) Assinale a alternativa correta sobre as infrações aduaneiras:
+
+  a) A aplicação da pena de perdimento compete ao Auditor-Fiscal da Receita Federal do Brasil
+  que apurou a infração.
+
+  b) Não se considera espontânea a denúncia apresentada antes do início do despacho
+  aduaneiro de importação.
+
+  c) No transporte de bens irregularmente importados, a flagrante desproporcionalidade entre
+  o valor do veículo e das mercadorias nele transportadas obsta a aplicação da pena de
+  perdimento sobre daquele.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              67
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  d) A pena de perdimento decorrente de infração de que não tenha resultado falta ou
+  insuficiência de recolhimento de tributos federais poderá ser relevada pela aplicação de
+  multa equivalente ao valor aduaneiro da mercadoria.
+
+  e) O importador, depois de aplicado o perdimento de mercadoria considerada abandonada,
+  mas antes de efetuada a sua destinação, poderá requerer a conversão dessa penalidade em
+  multa equivalente de 1% do valor aduaneiro.
+
+Comentários
+
+Letra A: errada. Compete ao Auditor-Fiscal RFB responsável pela apuração da infração propor a
+aplicação da pena de perdimento. A aplicação da pena de perdimento compete à autoridade
+julgadora.
+
+Letra B: errada. A denúncia será espontânea se apresentada antes do início do despacho de
+importação. Ela não será espontânea se apresentada no curso do despacho aduaneiro, até o
+desembaraço da mercadoria.
+
+Letra C: correta. Essa assertiva se baseia na jurisprudência do STJ. Se não houver
+proporcionalidade entre o valor das mercadorias e o valor do veículo que as transportar, não
+caberá aplicação da pena de perdimento sobre o veículo.
+
+Letra D: errada. A pena de perdimento decorrente de infração de que não tenha resultado falta
+ou insuficiência de recolhimento de tributos federais poderá ser relevada pela aplicação de multa
+de 1% do valor aduaneiro.
+
+Letra E: errada. Quando aplicada a pena de perdimento em razão de a mercadoria ter sido
+considerada abandonada, o importador poderá requerer, antes de efetuada a destinação, a
+conversão da penalidade em multa equivalente ao valor aduaneiro.
+
+Gabarito: letra C
+
+4. (Questão Inédita/2022) Assinale a alternativa incorreta sobre a aplicação da pena de
+   perdimento:
+
+  a) Será aplicada a pena de perdimento de moeda nacional ou estrangeira portada em
+  espécie, no valor excedente a US$ 10.000,00 (dez mil dólares dos Estados Unidos da
+  América), ou o equivalente em moeda estrangeira, que ingresse no território aduaneiro ou
+  dele saia.
+
+  b) Será aplicada a pena de perdimento à mercadoria estrangeira chegada ao País com falsa
+  declaração de conteúdo.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            68
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  c) O autuado em processo de perdimento terá o prazo de 20 dias para impugnação. Caso a
+  intimação seja feita mediante edital, inicia-se a contagem do prazo para impugnação 15 dias
+  após a publicação do edital.
+
+  d) Em processo de perdimento, uma vez apresentada impugnação, a autoridade preparadora
+  terá o prazo de dez dias para remessa do processo a julgamento. Após o preparo, o processo
+  será submetido à decisão do Ministro de Estado da Fazenda, em instância única
+
+  e) A mercadoria que permanecer em recinto alfandegado sem que o seu despacho de
+  importação seja iniciado no decurso de 90 dias da sua descarga será considerada
+  abandonada, tendo início o processo para aplicação da pena de perdimento.
+
+Comentários
+
+Letra A: correta. A pena de perdimento de moeda será aplicada sobre o valor, em espécie,
+excedente a US$ 10.000,00, que ingresse no território aduaneiro ou dele saia.
+
+Letra B: correta. Trata-se de hipótese de aplicação da pena de perdimento de mercadoria, previsto
+no art. 689, inciso XII.
+
+Letra C: correta. Conforme art. 774, § 1o e § 2o, do R/A.
+
+Letra D: errada. A autoridade preparadora terá o prazo de 15 dias para remessa do processo a
+julgamento (art. 774, § 4º, do R/A)
+
+Letra E: correta. De fato, a mercadoria será considerada abandonada após 90 dias da descarga
+(art. 642, inciso I, alínea “a”).
+
+Gabarito: letra D
+
+5. (Questão Inédita/2022) Assinale a alternativa que contempla situação que NÃO é punível com
+   a pena de perdimento das mercadorias.
+
+  a) Mercadoria estrangeira, em trânsito no território aduaneiro, quando o veículo terrestre
+  que a conduzir for desviado de sua rota legal, sem motivo justificado.
+
+  b) Mercadoria estrangeira, atentatória à moral, aos bons costumes, à saúde ou à ordem
+  públicas.
+
+  c) Mercadoria importada e que for considerada abandonada pelo decurso do prazo de
+  permanência em recinto alfandegado, nas hipóteses referidas no art. 642.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              69
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  d) Mercadoria nacional ou nacionalizada, em grande quantidade ou de vultoso valor,
+  encontrada na zona de vigilância aduaneira, em circunstâncias que tornem evidente destinar-
+  se a exportação clandestina.
+
+  e) Mercadoria em trânsito aduaneiro, cuja comprovação de chegada ao local de destino
+  ocorra fora do prazo.
+
+Comentários
+
+Letra A: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XVII, do R/A.
+
+Letra B: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XIX, do R/A.
+
+Letra C: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XXI, do R/A.
+
+Letra D: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso V, do R/A.
+
+Letra E: errada. Essa não é uma situação que dá ensejo à aplicação da pena de perdimento. Ao
+contrário, é hipótese de aplicação de multa de 10% do valor do imposto incidente sobre a
+operação (art.702, inciso V, alínea “b”, do R/A).
+
+Gabarito: letra E
+
+6. (Questão Inédita/2022) A Constituição de 1988 exige expressamente a ocorrência de dano ao
+   erário para que seja cabível a pena de perdimento de bens.
+
+Comentários
+
+A Constituição de 1988 não vincula a admissibilidade da pena de perdimento de bens à ocorrência
+de dano ao erário. Essa vinculação existia apenas na Constituição de 1967 (no artigo 150, §11).
+
+Gabarito: errada
+
+7. (Questão Inédita/2022) A multa aplicada pelo transporte de mercadorias sujeitas à pena de
+   perdimento, caso não seja recolhida em 45 dias, pode acarretar o perdimento do veículo por
+   abandono.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              70
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Essa hipótese de perdimento de veículo é prevista pelo artigo 688, inciso VII, do Regulamento
+Aduaneiro.
+
+Gabarito: certa
+
+8. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira se qualquer
+   documento necessário ao seu desembaraço tiver sido falsificado ou adulterado. Para que seja
+   configurada a infração, o documento deve ter sido materialmente falsificado, não sendo
+   admitida a hipótese de falsidade ideológica.
+
+Comentários
+
+A falsificação pode ser material ou ideológica, exceto no caso de falsidade ideológica
+exclusivamente quanto ao preço que implique subfaturamento da operação (caso em que se aplica
+apenas multa, como veremos em detalhes oportunamente), conforme estabelecido pelo artigo
+689, §3º-A, do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+9. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira que
+   apresente característica essencial falsificada ou adulterada, que impeça ou dificulte a sua
+   identificação, desde que a falsificação ou adulteração acarrete modificação no tratamento
+   tributário ou cambial do bem.
+
+Comentários
+
+Aplica-se a pena de perdimento da mercadoria estrangeira que apresente característica essencial
+falsificada ou adulterada, que impeça ou dificulte a sua identificação, ainda que a falsificação ou
+adulteração não influa no seu tratamento tributário ou cambial, conforme artigo 689, inciso VIII,
+do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+10. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira na hipótese
+    de ocultação do sujeito passivo mediante fraude ou simulação. Nesse contexto, caso o
+    importador não comprove a origem, a disponibilidade e a transferência dos recursos
+    empregados na operação, a interposição fraudulenta é presumida.
+
+Comentários
+
+A aplicação da pena de perdimento da mercadoria estrangeira na hipótese de ocultação do sujeito
+passivo mediante fraude ou simulação é prevista pelo artigo 689, inciso XXII, do Regulamento
+Aduaneiro. Além disso, de acordo com o artigo 689, §6º, do Regulamento Aduaneiro, presume-
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              71
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+se a interposição fraudulenta na operação de comércio exterior a não-comprovação da origem,
+disponibilidade e transferência dos recursos empregados.
+
+Gabarito: certa
+
+11. (Ajudante de Despachante Aduaneiro - 2018) Aplica-se a pena de perdimento da mercadoria
+    nas seguintes hipóteses, por configurarem dano ao Erário, exceto:
+
+  a) estrangeira, em trânsito no território aduaneiro, quando o veículo terrestre que a conduzir
+  for desviado de sua rota legal sem motivo justificado.
+
+  b) com classificação errada na Nomenclatura Comum do Mercosul (NCM), na Declaração de
+  Importação, em qualquer caso.
+                                                       ==219a34==
+
+  c) estrangeira, exposta à venda, depositada ou em circulação comercial no País, se não for
+  feita prova de sua importação regular.
+
+  d) existente a bordo do veículo, sem registro em manifesto, em documento de efeito
+  equivalente ou em outras declarações.
+
+  e) estrangeira, atentatória à moral, aos bons costumes, à saúde ou à ordem públicas.
+
+Comentários
+
+Letra A: errada. Aplica-se o perdimento nessa hipótese, com fundamento no artigo 689, inciso
+XVII, do Regulamento Aduaneiro.
+
+Letra B: correta. A classificação incorreta da mercadoria não enseja a aplicação da pena de
+perdimento. Aplica-se, nesse caso, a multa de 1% sobre o valor aduaneiro, nos termos do artigo
+711, inciso I, do Regulamento Aduaneiro.
+
+Letra C: errada. Aplica-se o perdimento nessa hipótese, com fundamento no artigo 689, inciso X,
+do Regulamento Aduaneiro.
+
+Letra D: errada. Aplica-se o perdimento nessa hipótese, com fundamento no artigo 689, inciso IV,
+do Regulamento Aduaneiro.
+
+Letra E: errada. Aplica-se o perdimento nessa hipótese, com fundamento no artigo 689, inciso XIX,
+do Regulamento Aduaneiro.
+
+Gabarito: letra B
+
+12. (Exame Despachante Aduaneiro – 2012) Aplica-se a pena de perdimento da mercadoria nos
+    seguintes casos, exceto:
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 72
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  a) mercadoria estrangeira ou nacional, na importação ou na exportação, se qualquer
+  documento necessário ao seu embarque ou desembaraço tiver sido falsificado ou
+  adulterado.
+
+  b) mercadoria oculta, a bordo do veículo ou na zona primária, qualquer que seja o processo
+  utilizado.
+
+  c) mercadoria estrangeira, chegada ao País com falsa declaração de conteúdo.
+
+  d) mercadoria embarcada antes do deferimento da Licença de Importação (LI).
+
+  e) mercadoria estrangeira ou nacional, na importação ou na exportação, na hipótese de
+  ocultação do sujeito passivo, do real vendedor, comprador ou de responsável pela operação,
+  mediante fraude ou simulação, inclusive a interposição fraudulenta de terceiros.
+
+Comentários
+
+Letra A: correta. Conforme art. 689, inciso VI, do R/A, essa é uma hipótese de aplicação da pena
+de perdimento.
+
+Letra B: correta. Conforme art. 689, inciso III, do R/A, essa é uma hipótese de aplicação da pena
+de perdimento.
+
+Letra C: correta. Conforme art. 689, inciso XII, do R/A, essa é uma hipótese de aplicação da pena
+de perdimento.
+
+Letra D: errada. Nos termos do art. 706, inciso I, alínea “b”, do R/A, essa é uma infração ao controle
+administrativo, sendo punível com multa de 30% do valor aduaneiro.
+
+Letra E: correta. Conforme art. 689, inciso XXII, do R/A, essa é uma hipótese de aplicação da pena
+de perdimento.
+
+Gabarito: letra D
+
+13. (ATRFB – 2012) O art. 23 do Decreto-Lei n. 1.455, de 7 de abril de 1976, dispõe sobre infrações
+    consideradas dano ao Erário. De acordo com tal dispositivo, o dano ao erário decorrente das
+    infrações previstas no caput do artigo será punido com a pena de perdimento das mercadorias.
+    O aludido artigo também reza que as infrações previstas em seu caput serão punidas com
+    multa equivalente ao valor aduaneiro da mercadoria, na importação, ou ao preço constante da
+    respectiva nota fiscal ou documento equivalente, na exportação, quando a mercadoria não for
+    localizada, ou tiver sido consumida ou revendida, observados o rito e as competências
+    estabelecidos no Decreto n. 70.235, de 6 de março de 1972.
+
+Comentários
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 73
+        www.estrategiaconcursos.com.br                                                             106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Na hipótese de ser cometida infração punível com a pena de perdimento e as mercadorias não
+serem localizadas, ou terem sido consumidas ou revendidas, será aplicada multa equivalente ao
+valor aduaneiro (no caso de importação) ou ao preço da nota fiscal (no caso de exportação).
+
+Gabarito: certa
+
+14. (AFRF-2010- Curso de Formação) Assinale a alternativa que contempla situação que NÃO é
+    punível com a pena de perdimento das mercadorias.
+
+  a) Mercadoria importada ao desamparo de licença de importação, quando a sua emissão
+  estiver suspensa, na forma da legislação específica.
+
+  b) Mercadoria importada desembaraçada com isenção de caráter geral que tenha sido
+  transferida a terceiro, sem pagamento dos tributos aduaneiros.
+
+  c) Mercadoria estrangeira, na importação, na hipótese de ocultação do sujeito passivo,
+  mediante interposição fraudulenta de terceiros.
+
+  d) Mercadoria estrangeira, já desembaraçada e com o imposto de importação pago em
+  parte, mediante artifício doloso.
+
+  e) Mercadoria oculta, a bordo do veículo ou na zona primária, qualquer que seja o processo
+  utilizado.
+
+Comentários
+
+Letra A: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XX, do R/A.
+
+Letra B: errada. Essa não é hipótese de aplicação da pena de perdimento. Ao contrário, trata-se
+de situação diante da qual se aplica multa de 50% sobre o valor do imposto que incidiria sobre a
+importação (art. 702, inciso III, alínea “a”, do R/A).
+
+Letra C: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XXII, do R/A.
+
+Letra D: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso XI, do R/A.
+
+Letra E: correta. Trata-se de hipótese de aplicação da pena de perdimento, conforme art. 689,
+inciso III, do R/A.
+
+Gabarito: letra B
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             74
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                 QUESTÕES COMENTADAS
+
+Multas
+
+1. (Questão Inédita/2022) A Receita Federal do Brasil está realizando uma operação de repressão
+   na cidade de Foz do Iguaçu. Ao proceder a uma busca em um caminhão, foram descobertos,
+   em um fundo falso, 30 caixas de cigarros paraguaios sem selos de controle entrando
+   irregularmente em território nacional. Cada caixa possui 100 maços de cigarros. Diante dessa
+   situação, aponte a alternativa que melhor descreve as penalidades aplicáveis nesse caso.
+
+  a) Será aplicada multa de R$ 3,00 por maço de cigarro apreendido, aos quais será aplicada a
+  pena de perdimento.
+
+  b) Será aplicada a pena de perdimento ao caminhão e aos cigarros, sem prejuízo da aplicação
+  de multa de 10% do valor aduaneiro.
+
+  c) Será aplicada a pena de perdimento aos cigarros, sem prejuízo da aplicação de multa de
+  R$ 6.000,00. Além disso, será aplicada pena de perdimento ao veículo.
+
+  d) Será aplicada a pena de perdimento aos cigarros e ao caminhão, sem exigência de multa.
+
+  e) Será aplicada a pena de perdimento aos cigarros, sem prejuízo da exigência de multa de
+  10% do valor aduaneiro das mercadorias.
+
+Comentários
+
+A solução para a situação concreta apresentada está na letra C. Será aplicada a pena de
+perdimento sobre os cigarros, sem prejuízo da aplicação de multa de R$ 6.000,00 (R$ 2,00 por
+maço de cigarro). Além disso, será aplicada pena de perdimento sobre o veículo.
+
+O fundamento para essas penalidades está nos seguintes dispositivos do Regulamento Aduaneiro:
+
+     Art. 688. Aplica-se a pena de perdimento do veículo nas seguintes hipóteses, por
+     configurarem dano ao Erário:
+
+     (...)
+
+     V - quando o veículo conduzir mercadoria sujeita a perdimento, se pertencente ao
+     responsável por infração punível com essa penalidade.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              75
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+     Art. 716. Aplica-se a multa de R$ 2,00 (dois reais) por maço de cigarro, unidade de charuto
+     ou de cigarrilha, ou quilograma líquido de qualquer outro produto apreendido, na hipótese
+     do art. 693, cumulativamente com o perdimento da respectiva mercadoria.
+
+Gabarito: letra C
+
+2. (Questão Inédita/2022) Assinale a alternativa correta sobre multas na importação e na
+   exportação:
+
+  a) Será aplicada multa de 75% sobre o valor aduaneiro no caso de extravio de mercadoria.
+
+  b) Será aplicada multa de 10% sobre o valor aduaneiro, no caso de descumprimento de
+  condições, requisitos ou prazos estabelecidos para aplicação do regime aduaneiro especial
+  de admissão temporária ou de admissão temporária para aperfeiçoamento ativo
+
+  c) Será aplicada multa de 10% do valor aduaneiro no caso de embarque de mercadoria no
+  exterior antes de emitida a licença de importação.
+
+  d) Será aplicada multa de 1% do valor aduaneiro no caso de mercadoria em trânsito
+  aduaneiro que chegue ao destino fora do prazo.
+
+  e) Será aplicada a multa de 10% do valor aduaneiro no caso de descumprimento, pelo
+  importador, da obrigação de apresentar, quando solicitado, os documentos obrigatórios das
+  declarações aduaneiras.
+
+Comentários
+
+Questão bem difícil!
+
+Letra A: errada. No caso de extravio de mercadoria, a multa será de 50% sobre o valor do imposto
+que incide sobre a operação.
+
+Letra B: correta. De fato, o descumprimento do regime de admissão temporária dá ensejo à
+aplicação de multa de 10% do valor aduaneiro.
+
+Letra C: errada. O embarque de mercadoria no exterior antes de emitida a licença de importação
+será punível com a aplicação de multa de 30% do valor aduaneiro.
+
+Letra D: errada. A multa será de 10% sobre o valor do imposto no caso de comprovação de
+chegada ao destino fora do prazo no regime de trânsito aduaneiro.
+
+Letra E: errada. No caso de descumprimento, pelo importador, da obrigação de apresentar,
+quando solicitado, os documentos obrigatórios das declarações aduaneiras, será aplicada multa
+de 5% do valor aduaneiro.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            76
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Gabarito: letra B
+
+3. (Questão Inédita/2022) Um viajante, voltando da Europa, chegou ao Brasil pelo Aeroporto
+   Internacional de Congonhas. Não tendo preenchido a Declaração de Bens de Viajantes, dirigiu-
+   se ao canal de “nada a declarar”. O Auditor Fiscal RFB, ao inspecionar sua bagagem,
+   identificou a presença de um notebook cujo valor apurado era de US$ 1.400,00. Analisando o
+   caso apresentado, identifique qual o valor a ser exigido do viajante pela autoridade aduaneira
+   (US$ 1,00= R$ 5,00):
+
+  a) Será exigido do viajante apenas o valor de R$ 1.000,00 referente ao Imposto de
+  Importação.
+
+  b) Será exigido do viajante um total de R$ 1.000,00 referente ao Imposto de Importação e
+  R$ 1.000,00 referente à multa pela apresentação de falsa declaração de bagagem.
+                                                       ==219a34==
+
+  c) Será exigido do viajante um total de R$ 1.000,00 referente ao Imposto de Importação e
+  R$ 500,00 referente ao valor mínimo da multa pela apresentação de falsa declaração de
+  bagagem.
+
+  d) Será exigido do viajante um total de R$ 1.200,00 referente ao Imposto de Importação e
+  R$ 500,00 referente ao valor mínimo da multa pela apresentação de falsa declaração de
+  bagagem.
+
+  e) Será exigido do viajante um total de R$ 1.200,00 referente ao Imposto de Importação e
+  R$ 1.000,00 referente à multa pela apresentação de falsa declaração de bagagem.
+
+Comentários
+
+O caso apresentado pode ser resolvido pela aplicação do art. 713, do R/A. O Imposto de
+Importação será cobrado a uma alíquota de 50% sobre o montante que exceder o limite global
+de isenção (US$1.000,00). Além disso, será aplicada uma multa de 50% sobre o montante que
+exceder o limite global de isenção em razão da apresentação de falsa declaração de bagagem.
+Assim, temos o seguinte:
+
+            a) Imposto de Importação: 50% de R$ 2.000,00 = R$ 1.000,00
+
+            b) Multa: 50% de R$ 2.000,00 = R$ 1.000,00 (Letra B)
+
+Gabarito: letra B
+
+4. (Questão Inédita/2022) Quando houver lançamento de ofício, aplica-se a multa de 75%,
+   calculada sobre a totalidade ou a diferença de crédito tributário apurada, caso a falta de
+   pagamento tenha decorrido de fraude, conluio ou sonegação.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            77
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Comentários
+
+Quando houver lançamento de ofício, aplica-se a multa de 75%, calculada sobre a totalidade ou a
+diferença de crédito tributário apurada, nos casos de falta de pagamento, de falta de declaração
+e nos de declaração inexata, exceto se houver fraude, conluio ou sonegação, conforme artigo 725,
+inciso I, do Regulamento Aduaneiro.
+
+Se houver fraude, conluio ou sonegação, a multa de ofício é de 150%, nos termos do artigo 725,
+inciso II, do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+5. (Questão Inédita/2022) Aplica-se a multa de cinquenta por cento do valor dos bens trazidos
+   como bagagem quando forem objetivo de comércio.
+
+Comentários
+
+Aplica-se a multa de duzentos por cento do valor dos bens trazidos como bagagem quando forem
+objetivo de comércio, nos termos do artigo 713, inciso I, do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+6. (Questão Inédita/2022) Aplica-se a multa de 10% do valor da operação à pessoa jurídica que
+   ceder o seu nome, inclusive mediante a disponibilização de documentos próprios, para a
+   realização de operações de comércio exterior de terceiros, com vistas ao acobertamento de
+   seus reais intervenientes ou beneficiários. A multa não pode ser aplicada cumulativamente com
+   a pena de perdimento das mercadorias, no entanto.
+
+Comentários
+
+A imposição da multa não prejudica a aplicação da pena de perdimento, conforme esclarece o
+artigo 727, §3º, do Regulamento Aduaneiro.
+
+Gabarito: errada
+
+7. Ajudante de Despachante Aduaneiro - 2018) São hipóteses para a aplicação da multa de 100%,
+   proporcional ao valor do imposto incidente sobre a importação da mercadoria, ou o que
+   incidiria se não houvesse isenção ou redução, exceto:
+
+  a) o uso de falsidade nas provas exigidas para obtenção dos benefícios e incentivos previstos
+  em lei específica.
+
+  b) o não emprego dos bens de qualquer natureza nos fins ou nas atividades para que foram
+  importados com isenção do imposto.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                78
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  c) o desvio, por qualquer forma, de bens importados com isenção ou com redução do
+  imposto.
+
+  d) a comprovação, fora do prazo, da chegada da mercadoria ao local de destino, no caso de
+  trânsito aduaneiro.
+
+  e) a não apresentação de mercadoria submetida ao regime de entreposto aduaneiro.
+
+Comentários
+
+Letra A: errada. Aplica-se a multa de 100% do imposto incidente sobre a importação nessa
+hipótese, nos termos do artigo 702, inciso I, alínea "c", do Regulamento Aduaneiro.
+
+Letra B: errada. Aplica-se a multa de 100% do imposto incidente sobre a importação nessa
+hipótese, nos termos do artigo 702, inciso I, alínea "a", do Regulamento Aduaneiro.
+
+Letra C: errada. Aplica-se a multa de 100% do imposto incidente sobre a importação nessa
+hipótese, nos termos do artigo 702, inciso I, alínea "b", do Regulamento Aduaneiro.
+
+Letra D: correta. Nesse caso, aplica-se a multa de 10% do imposto incidente sobre a importação,
+em conformidade com o disposto no artigo 702, inciso V, alínea "b", do Regulamento Aduaneiro.
+
+Letra E: errada. Aplica-se a multa de 100% do imposto incidente sobre a importação nessa
+hipótese, nos termos do artigo 702, inciso I, alínea "d", do Regulamento Aduaneiro.
+
+Gabarito: letra D
+
+8. (Ajudante de Despachante Aduaneiro - 2018) Ao sujeito passivo que, notificado, efetuar o
+   pagamento, a compensação ou o parcelamento dos tributos administrados pela Secretaria da
+   Receita Federal do Brasil será concedida redução de 30% da multa de lançamento se:
+
+  a) for efetuado o pagamento ou a compensação no prazo de trinta dias, contados da data
+  em que o sujeito passivo foi notificado do lançamento.
+
+  b) o sujeito passivo requerer o parcelamento no prazo de trinta dias, contados da data em
+  que foi notificado da decisão administrativa de primeira instância.
+
+  c) o sujeito passivo requerer o parcelamento no prazo de trinta dias, contados da data em
+  que foi notificado do lançamento.
+
+  d) o sujeito passivo requerer o parcelamento, no caso de provimento a recurso de ofício
+  interposto por autoridade julgadora de primeira instância.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            79
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  e) for efetuado o pagamento ou a compensação no prazo de trinta dias, contados da data
+  em que o sujeito passivo foi notificado da decisão administrativa de primeira instância.
+
+Comentários
+
+Letra A: errada. Aplica-se, nessa hipótese, a redução de 50%, conforme artigo 732, inciso I, do
+Regulamento Aduaneiro.
+
+Letra B: errada. Aplica-se, nessa hipótese, a redução de 20%, conforme artigo 732, inciso IV, do
+Regulamento Aduaneiro.
+
+Letra C: errada. Aplica-se, nessa hipótese, a redução de 40%, conforme artigo 732, inciso II, do
+Regulamento Aduaneiro.
+
+Letra D: errada. Aplica-se, nessa hipótese, a redução de 20%, conforme artigo 732, §1º, do
+Regulamento Aduaneiro.
+
+Letra E: correta. Aplica-se, de fato, nessa hipótese, a redução de 30%, conforme artigo 732, inciso
+III, do Regulamento Aduaneiro.
+
+Gabarito: letra E
+
+9. (Exame Despachante Aduaneiro – 2012) O embarque de mercadoria antes de emitida a licença
+   de importação sujeita esta mercadoria à pena de perdimento.
+
+Comentários
+
+O embarque de mercadoria antes de emitida a licença de importação é infração ao controle
+administrativo, punida com multa de 30% do valor aduaneiro.
+
+Gabarito: errada
+
+10. (Exame Despachante Aduaneiro – 2012) A classificação incorreta na Nomenclatura Comum do
+    Mercosul de uma mercadoria objeto de um despacho de exportação (constante em um
+    Registro de Exportação – RE) está sujeita a multa de um por cento sobre o valor aduaneiro
+    desta mercadoria.
+
+Comentários
+
+De fato, a classificação fiscal incorreta dá ensejo à aplicação de multa de 1% do valor aduaneiro.
+No entanto, essa multa se aplica apenas na importação de mercadorias.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              80
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+11. (Exame Despachante Aduaneiro – 2012) A pena de perdimento decorrente de abandono de
+    mercadoria, sem falta ou insuficiência de pagamento de tributos federais, poderá ser relevada
+    pelo Ministro de Estado da Fazenda em despacho fundamentado, sem o pagamento de
+    multas.
+
+Comentários
+
+A pena de perdimento decorrente de abandono de mercadoria poderá ser relevada com o
+pagamento de multa equivalente a 1% do valor aduaneiro.
+
+Gabarito: errada
+
+12. (AFRF-2010- Curso de Formação) Determinada Declaração de Importação – DI ampara as
+    mercadorias “A” e “B”. A mercadoria “A” tem valor aduaneiro de R$ 70.000,00 (setenta mil
+    reais), enquanto a mercadoria “B” tem valor aduaneiro de R$ 10.000,00 (dez mil reais). No
+    curso do despacho aduaneiro, o AFRFB constatou as seguintes irregularidades: para a
+    mercadoria “A” foram informadas incorretamente a classificação na Nomenclatura Comum do
+    Mercosul - NCM e a quantidade na unidade de medida estatística; para a mercadoria “B” o
+    importador omitiu informação de natureza comercial necessária à determinação do
+    procedimento de controle aduaneiro apropriado. Após a necessária correção da NCM
+    informada para a mercadoria “A”, as mercadorias continuaram sendo classificadas em códigos
+    da NCM distintos. Não foi apurada diferença de tributos a recolher. No caso apresentado,
+    assinale a alternativa que indica qual penalidade deve ser aplicada:
+
+  a) Multa de R$ 1.200,00 (mil e duzentos reais), correspondente a: 1% do valor aduaneiro
+  pelas infrações em relação à mercadoria “A”; mais R$ 500,00 (quinhentos reais) pela infração
+  em relação à mercadoria “B”, aplicada em seu valor mínimo.
+
+  b) Multa de R$ 1.500,00 (um mil e quinhentos reais), correspondente à aplicação do valor
+  mínimo de R$ 500,00 (quinhentos reais) para cada uma das três irregularidades verificadas.
+
+  c) Multa de R$ 8.000,00 (oito mil reais), correspondente a 10% do somatório do valor
+  aduaneiro das mercadorias A e B, que representa o teto máximo aplicável ao caso.
+
+  d) Multa de R$ 800,00 (oitocentos reais), correspondente a 1% do somatório do valor
+  aduaneiro das mercadorias A e B.
+
+  e) Multa de R$ 1.900,00 (um mil e novecentos reais), correspondente a: 1% do valor
+  aduaneiro pela classificação incorreta da mercadoria “A”; mais 1% do valor aduaneiro pela
+  quantificação incorreta na unidade de medida estatística da mercadoria “A”; mais R$ 500,00
+  (quinhentos reais) pela infração em relação à mercadoria “B”, aplicada em seu valor mínimo.
+
+Comentários
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               81
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Analisando-se a situação, verificamos que foram cometidas duas infrações em relação à
+mercadoria A: i) classificação fiscal incorreta; ii) quantificação incorreta na unidade de medida
+estatística. Essas duas infrações estão previstas no art. 711 do R/A. Na ocorrência de mais de uma
+dessas infrações do art. 711 para a mesma mercadoria, deve ser aplicada a multa apenas uma vez.
+Logo, em relação à mercadoria A, a multa será de R$ 700,00, equivalente a 1% do valor aduaneiro.
+
+Quanto à mercadoria B, percebe-se que houve apenas uma infração: omissão de informação de
+natureza comercial necessária à determinação do procedimento de controle aduaneiro
+apropriado. Tal infração também está prevista no art. 711 do R/A, sujeita à multa de 1% do valor
+aduaneiro. Destaque-se que o valor mínimo para as multas do art. 711 é de R$ 500,00. Logo,
+considerando-se que o valor aduaneiro da mercadoria B é R$ 10.000,00, deve ser utilizado o valor
+mínimo.
+
+Moral da história: a resposta é a letra A. A multa aplicável ao processo será de R$ 1.200,00.
+
+Gabarito: letra A
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              82
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                 QUESTÕES COMENTADAS
+
+Intervenientes e Sanções Administrativas
+
+1. (Ajudante de Despachante Aduaneiro – 2018) Com relação às sanções administrativas previstas
+   na Lei n. 10.833, de 29 de dezembro de 2003, escolha a opção correta.
+
+  a) A reincidência em conduta já sancionada com advertência poderá acarretar a suspensão,
+  pelo prazo de até 12 meses, do exercício de atividades relacionadas com o despacho
+  aduaneiro.
+
+  b) Os intervenientes nas operações de comércio exterior ficam sujeitos à sanção de
+  advertência caso estejam atuando em nome de pessoa que esteja cumprindo suspensão, ou
+  no interesse desta.
+
+  c) É aplicada a penalidade de suspensão do exercício de atividades relacionadas com o
+  despacho aduaneiro para o interveniente que descumprir requisito, condição ou norma
+  operacional para habilitar-se ou utilizar regime aduaneiro especial ou aplicado em áreas
+  especiais.
+
+  d) No caso de cancelamento ou cassação do registro, licença, autorização, credenciamento
+  ou habilitação para utilização de regime aduaneiro ou de procedimento simplificado, a
+  reinscrição para a atividade que exercia ou a inscrição para exercer outra atividade sujeita a
+  controle aduaneiro só poderá ser solicitada três anos depois da data de aplicação definitiva
+  da sanção, devendo ser cumpridas todas as exigências e formalidades previstas para a
+  inscrição.
+
+  e) A aplicação da sanção de suspensão do exercício de atividades relacionadas com o
+  despacho aduaneiro terá prazo de até 24 meses, considerados a natureza e a gravidade da
+  infração cometida, os danos que dela provierem e os antecedentes do infrator.
+
+Comentários
+
+Letra A: correta. A reincidência em conduta já sancionada com advertência enseja a aplicação da
+sanção de suspensão, pelo prazo de até doze meses, nos termos do artigo 735, inciso II, alínea
+“a”, do Regulamento Aduaneiro.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 83
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Letra B: errada. A atuação em nome ou no interesse de pessoa que esteja cumprindo suspensão
+acarreta a aplicação da sanção de suspensão, em conformidade com o disposto no artigo 735,
+inciso II, alínea “b”, do Regulamento Aduaneiro.
+
+Letra C: errada. O descumprimento de requisito, condição ou norma operacional para habilitar-se
+ou utilizar regime aduaneiro especial ou aplicado em áreas especiais, ou para habilitar-se ou
+manter recintos nos quais tais regimes sejam aplicados, acarreta a aplicação da sanção de
+advertência, conforme artigo 735, inciso I, alínea “i”, do Regulamento Aduaneiro.
+
+Letra D: errada. Na hipótese de cassação ou cancelamento, a reinscrição para a atividade ou a
+inscrição para exercer outra atividade sujeita a controle aduaneiro só poderá ser solicitada dois
+anos depois da data de aplicação definitiva da sanção, devendo ser cumpridas todas as exigências
+e formalidades previstas para a inscrição, nos termos do artigo 735, §6º, do Regulamento
+Aduaneiro.
+
+Letra E: errada. A aplicação da sanção de suspensão do exercício de atividades relacionadas com
+o despacho aduaneiro terá prazo de até 12 meses, considerados a natureza e a gravidade da
+infração cometida, os danos que dela provierem e os antecedentes do infrator, em conformidade
+com o disposto no artigo 735, inciso II e §4º, do Regulamento Aduaneiro.
+
+Gabarito: letra A
+
+2. (Questão Inédita) Acerca das sanções administrativas aplicáveis aos intervenientes nas
+   operações de comércio exterior, assinale a alternativa correta:
+
+  a) São sanções administrativas impostas aos intervenientes nas operações de comércio
+  exterior a advertência, a suspensão de registro/licença pelo prazo de até 12 meses, a
+  cassação/cancelamento do registro/licença e as multas.
+
+  b) As sanções administrativas aos intervenientes no comércio exterior serão anotadas no
+  registro do infrator pela administração aduaneira, devendo a anotação ser cancelada após o
+  decurso de 3 (três) anos da aplicação definitiva da sanção.
+
+  c) Na hipótese de cassação ou cancelamento, a reinscrição para a atividade ou a inscrição
+  para exercer outra atividade sujeita a controle aduaneiro só poderá ser solicitada 3 (três) anos
+  depois da data de aplicação definitiva da sanção, devendo ser cumpridas todas as exigências
+  e formalidades previstas para a inscrição.
+
+  d) Na determinação do prazo para a aplicação das sanções administrativas aos intervenientes,
+  não são levados em consideração os danos que resultaram da infração cometida.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                   84
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  e) Considera-se interveniente nas operações de comércio exterior o importador, o
+  exportador, o beneficiário de regime aduaneiro ou de procedimento simplificado, o
+  despachante aduaneiro e seus ajudantes, o transportador, o agente de carga, o operador de
+  transporte multimodal, o operador portuário, o depositário, o administrador de recinto
+  alfandegado, o perito, o assistente técnico, ou qualquer outra pessoa que tenha relação,
+  direta ou indireta, com a operação de comércio exterior.
+
+Comentários
+
+Letra A: errada. A multa não é uma sanção administrativa aplicada aos intervenientes nas
+operações de comércio exterior.
+
+Letra B: errada. A anotação será cancelada após o decurso de 5 (cinco) anos da aplicação definitiva
+da sanção.
+
+Letra C: errada. A reinscrição ou inscrição para o exercício de nova atividade sujeita a controle
+aduaneiro poderá ser solicitada 2 (anos) depois da data de aplicação definitiva da sanção.
+
+Letra D: errada. Na determinação do prazo para a aplicação das sanções administrativas aos
+intervenientes, serão considerados a natureza e a gravidade da infração cometida, os danos que
+dela provierem e os antecedentes do infrator.
+
+Letra E: correta. Todas as pessoas mencionadas são consideradas intervenientes nas operações
+de comércio exterior. É exatamente o que dispõe o art. 735, § 2o, do R/A.
+
+Gabarito: letra E
+
+3. (Exame Despachante Aduaneiro – 2012) A legislação aduaneira contém previsão de uma série
+   de condutas que ensejam a aplicação de sanção administrativa aos intervenientes aduaneiros,
+   entre os quais o Despachante Aduaneiro e seus ajudantes. Sob essa perspectiva, assinale os
+   itens abaixo que constituem hipóteses de aplicação de sanção:
+
+    I - atraso, de forma contumaz, na chegada ao destino de veículo conduzindo mercadoria
+    submetida ao regime de trânsito aduaneiro.
+
+    II - ação ou omissão dolosa tendente a subtrair ao controle aduaneiro, ou dele ocultar, a
+    importação ou a exportação de bens ou mercadorias.
+
+    III - descumprimento de norma de segurança fiscal em local alfandegado.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              85
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+    IV - exercício, por pessoa credenciada ou habilitada, de atividade ou cargo vedados na
+    legislação específica.
+
+    a) Todos os itens estão corretos.
+
+    b) Somente o item IV está incorreto.
+
+    c) Os itens I e IV estão incorretos.
+
+    d) Os itens I e III estão corretos.
+
+    e) Os itens III e IV estão incorretos.
+
+Comentários
+
+A primeira assertiva é uma hipótese de aplicação de sanção administrativa, prevista no art. 735,
+inciso I, alínea “c”. É punível com advertência.
+
+A segunda assertiva é uma hipótese de aplicação de sanção administrativa, prevista no art. 735,
+inciso III, alínea “i”. É punível com cancelamento ou cassação de registro/licença.
+
+A terceira assertiva é uma hipótese de aplicação de sanção administrativa, prevista no art. 735,
+inciso I, alínea “a”. É punível com advertência.
+
+A quarta assertiva é uma hipótese de aplicação de sanção administrativa, prevista no art. 735,
+inciso III, alínea “c”. É punível com cancelamento ou cassação de registro/licença.
+
+Por tudo o que comentamos, conclui-se que todos os itens estão corretos.
+
+Gabarito: letra A
+
+4. (Exame Despachante Aduaneiro – 2012) Aplica-se a sanção administrativa de cassação ou
+   cancelamento na hipótese de sentença condenatória, transitada em julgado, por participação,
+   direta ou indireta, na prática de crime contra a administração pública ou contra a ordem
+   tributária.
+
+Comentários
+
+Segundo o art. 735, inciso III, alínea “f”, a sentença condenatória, transitada em julgado, por
+participação, direta ou indireta, na prática de crime contra a administração pública ou contra a
+ordem tributária é hipótese de aplicação de cassação/cancelamento.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           86
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+Gabarito: certa
+
+5. (Exame Despachante Aduaneiro – 2012) Na determinação do prazo para a aplicação da sanção
+   administrativa de suspensão, serão considerados a natureza e a gravidade da infração
+   cometida, os danos que dela provierem e os antecedentes do infrator.
+
+Comentários
+
+A sanção administrativa de suspensão é aplicada pelo prazo de até 12 meses. Na determinação
+do prazo de suspensão, leva-se em consideração os critérios enumerados pelo enunciado:
+natureza e gravidade da infração, danos que dela provierem e antecedentes do infrator.
+
+Gabarito: certa
+
+6. (Exame Despachante Aduaneiro – 2012) Na hipótese de aplicação da sanção de cassação ou
+   cancelamento, é vedada a reinscrição para a atividade ou a inscrição para exercer outra
+   atividade sujeita a controle aduaneiro.
+
+Comentários
+
+Caso ocorra cancelamento ou cassação, a reinscrição ou a inscrição para exercer outra atividade
+sujeita a controle aduaneiro somente poderá ser solicitada dois anos após a data de aplicação
+definitiva da sanção. Assim, não é vedada a reinscrição ou inscrição para exercer outra atividade
+sujeita a controle aduaneiro.
+
+Gabarito: errada
+
+7. (Exame Despachante Aduaneiro – 2012) São considerados intervenientes nas operações de
+   comércio exterior, entre outros, o despachante aduaneiro, o agente de carga e o perito.
+
+Comentários
+
+Os intervenientes nas operações de comércio exterior são os seguintes: importador, o exportador,
+o beneficiário de regime aduaneiro ou de procedimento simplificado, o despachante aduaneiro e
+seus ajudantes, o transportador, o agente de carga, o operador de transporte multimodal, o
+operador portuário, o depositário, o administrador de recinto alfandegado, o perito, o assistente
+técnico, ou qualquer outra pessoa que tenha relação, direta ou indireta, com a operação de
+comércio exterior.
+
+Gabarito: certa
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            87
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+8. (AFRFB – 2012) A pessoa jurídica de que tratam os arts. 35 e 36 da Lei nº 12.350, de 20 de
+   dezembro de 2010, responsável pela administração de local ou recinto alfandegado, fica
+   sujeita, observados a forma, o rito e as competências estabelecidos no art. 76 da Lei n. 10.833,
+   de 29 de dezembro de 2003, à aplicação direta da sanção de suspensão das atividades de
+   movimentação, armazenagem e despacho aduaneiro de mercadorias sob controle aduaneiro,
+   referidas no caput do art. 34 da Lei n. 12.350, de 20 de dezembro de 2010.
+
+Comentários
+
+Questão com uma redação bastante confusa! Era pra ninguém acertar! 😊 A ideia central da
+questão é a seguinte: há possibilidade de se aplicar diretamente a sanção de suspensão à pessoa
+jurídica administradora de recinto alfandegado que descumprir requisitos técnicos e operacionais?
+                                                       ==219a34==
+
+A resposta é negativa. O descumprimento de requisitos técnicos e operacionais dá ensejo à
+aplicação de sanção de advertência. A reincidência em conduta já punida com advertência é que
+resultará na aplicação da suspensão (art. 735-C, inciso II).
+
+Gabarito: errada
+
+9. (Questão Inédita) O operador portuário, um dos intervenientes no comércio exterior, é aquele
+   que, amparado por um único contrato, utiliza duas ou mais modalidades de transporte
+   (rodoviário e aquaviário, por exemplo) desde a origem até o destino da carga.
+
+Comentários
+
+O operador de transporte multimodal é aquele que, amparado por um único contrato, utiliza duas
+ou mais modalidades de transporte desde a origem até o destino da carga. O operador portuário
+é a pessoa jurídica pré-qualificada para exercer as atividades de movimentação de passageiros ou
+movimentação e armazenagem de mercadorias destinados ou provenientes de transporte
+aquaviário, dentro da área de porto organizado. Ambos são intervenientes no comércio exterior.
+
+Gabarito: errada
+
+10. (Questão Inédita) A reincidência no descumprimento de requisito técnico ou operacional para
+    o alfandegamento, já punido com advertência, sujeita o responsável pela administração do
+    recinto à sanção administrativa de suspensão das atividades por até doze meses.
+
+Comentários
+
+A reincidência no descumprimento de requisito técnico ou operacional para o alfandegamento, já
+punido com advertência, sujeita o responsável pela administração do recinto à sanção
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              88
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+administrativa de suspensão das atividades até a constatação pela autoridade aduaneira do
+cumprimento do requisito ou da obrigação estabelecida, nos termos do artigo 735-C, inciso II, do
+Regulamento Aduaneiro.
+
+Gabarito: errada
+
+11. (Questão Inédita) A agressão ou o desacato à autoridade aduaneira, no exercício da função,
+    sujeita o interveniente no comércio exterior à sanção administrativa de cancelamento ou
+    cassação de seu registro, licença, autorização, credenciamento ou habilitação.
+
+Comentários
+
+A agressão ou o desacato à autoridade aduaneira, no exercício da função, sujeita, atualmente, o
+interveniente no comércio exterior à sanção administrativa de suspensão, nos termos do artigo
+76, inciso II, alínea “f”, da Lei nº 10.833/03.
+
+Gabarito: errada
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           89
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                      LISTA DE QUESTÕES
+
+Infrações e Penalidades
+
+1. (ATRFB - 2023) Segundo o Art. 675, do Regulamento Aduaneiro, aprovado pelo Decreto nº
+   6.759/2009, as penalidades em matéria aduaneira são aplicadas isolada ou cumulativamente.
+   Essas penalidades consistem
+
+  (A) no perdimento da mercadoria e na proibição temporária de transacionar com a Fazenda.
+
+  (B) no perdimento da moeda e na proibição de viajar ao exterior, quando se tratar de viajante.
+
+  (C) na aplicação de multas, que, no entender de alguns doutrinadores, constituem as sanções
+  políticas.
+
+  (D) na suspensão do cadastro de importadores e exportadores junto à Receita Federal do
+  Brasil.
+
+  (E) no perdimento do veículo, da mercadoria e da moeda, na multa e nas sanções
+  administrativas.
+
+2. (Ajudante de Despachante Aduaneiro - 2018) Assinale, entre as opções apresentadas, aquela
+   que não representa uma espécie de penalidade:
+
+  a) multa.
+
+  b) sanção administrativa.
+
+  c) perdimento de moeda.
+
+  d) auto de infração.
+
+  e) perdimento da mercadoria.
+
+3. (Exame Despachante Aduaneiro – 2012) Assinale a opção correta, de acordo com as
+   disposições do Decreto 6.759/2009 relativas à responsabilidade por infrações.
+
+a) Responde pela infração, salvo isoladamente, quem quer que concorra para a sua prática ou dela
+se beneficie.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 90
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+b) Responde pela infração, desde que intencionalmente, quem quer que concorra para a sua
+prática ou dela se beneficie.
+
+c) Responde pela infração quem quer que, de qualquer forma, concorra para a sua prática, sendo
+vedada a responsabilização do mero beneficiário.
+
+d) Responde pela infração, conjunta ou isoladamente, quem quer que, de qualquer forma,
+concorra para a sua prática ou dela se beneficie.
+
+e) Responde pela infração a pessoa jurídica, em razão do despacho que promova, de qualquer
+mercadoria, não cabendo, nas mesmas circunstâncias, a responsabilidade da pessoa física.
+
+4. (Exame Despachante Aduaneiro – 2012) A infração deve ser caracterizada por comportamento
+   ativo, isto é, por ação, não havendo previsão de caracterização de infração por omissão.
+
+5. (Exame Despachante Aduaneiro – 2012) Salvo disposição expressa em contrário, a
+   responsabilidade por infração independe da intenção do agente ou do responsável, mas a
+   ação deve ser necessariamente voluntária.
+
+6. (Exame Despachante Aduaneiro – 2012) A infração pode ser praticada tanto por pessoa física
+   quanto por pessoa jurídica.
+
+7. (Exame Despachante Aduaneiro – 2012) A infração é caracterizada, também, por inobservância
+   de norma estabelecida ou disciplinada em ato administrativo de caráter normativo destinado
+   a completar o Decreto 6.759/2009.
+
+8. (AFRFB – 2012) Salvo disposição expressa em contrário, a responsabilidade por infração
+   depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos
+   efeitos do ato.
+
+9. (ATRFB – 2012) A denúncia espontânea exclui a aplicação de penalidades de natureza
+   tributária ou administrativa, com exceção das penalidades aplicáveis na hipótese de
+   mercadoria sujeita a pena de perdimento.
+
+10. (Questão Inédita) Depois de formalizada a entrada do veículo procedente do exterior não mais
+    se tem por espontânea a denúncia de infração imputável ao transportador.
+
+11. (Questão Inédita) A aplicação da penalidade tributária, e seu cumprimento, impedem a
+    cobrança dos tributos.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           91
+        www.estrategiaconcursos.com.br                                                       106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+12. (Questão Inédita) Caso seja apurada a prática de duas ou mais infrações diferentes, em um
+    mesmo processo, imputáveis à mesma pessoa física ou jurídica, prevalecerá a penalidade mais
+    gravosa.
+
+13. (AFRF-2010- Curso de Formação) Sobre princípios aplicáveis em matéria de infrações e
+    penalidades aduaneiras, analise se é Verdadeira (V) ou Falsa (F) cada proposição a seguir, e
+    assinale a alternativa que indica a sequência CORRETA.
+
+  ( ) Prevalece o princípio da responsabilidade objetiva, ou seja, a responsabilidade por
+  infração, como regra, independe da intenção do agente ou do responsável e da efetividade,
+  da natureza e da extensão dos efeitos do ato.
+
+  ( ) Aplica-se o princípio da legalidade: somente a lei pode estabelecer a cominação de
+  penalidades para as ações ou omissões contrárias a seus dispositivos, ou para as infrações
+                                                       ==219a34==
+
+  nela definidas.
+
+  ( ) É observado o princípio da retroatividade na aplicação penal, que significa a possibilidade
+  de se aplicar penalidade à infração cometida antes da vigência da lei que a estabeleceu, se
+  verificado evidente intuito de fraude.
+
+  a) F F V
+
+  b) V F V
+
+  c) V V V
+
+  d) V V F
+
+  e) F V F
+
+14. (Questão Inédita) Respondem pela infração, conjunta ou isoladamente, o importador e o
+    adquirente de mercadoria de procedência estrangeira, no caso de importação realizada por
+    conta e ordem deste, por intermédio de pessoa jurídica importadora.
+
+15. (Questão Inédita) A responsabilidade por infração à legislação aduaneira independe, sempre,
+    da intenção do agente ou do responsável.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                  92
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+     Áulus Dias Warzeé Mattos
+     Aula 06
+
+GABARITO
+
+Gabarito
+
+                        01          02          03          04          05    06   07
+                        E           D           D           E           E     C    C
+                        08          09          10          11          12    13   14
+
+                         E          C            C          E           E     D    C
+
+                        15
+                         E
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                   93
+           www.estrategiaconcursos.com.br                                               106
+
+                                         
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                      LISTA DE QUESTÕES
+
+Pena de Perdimento
+
+1. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria saída da Zona Franca
+   de Manaus sem autorização da autoridade aduaneira, quando necessária, por configurar crime
+   de contrabando.
+
+2. (Questão Inédita/2022) O transportador, de passageiros ou de carga, em viagem doméstica
+   ou internacional, que transportar mercadoria sujeita a pena de perdimento sem identificação
+   do proprietário ou possuidor será punido com a aplicação da pena de perdimento no veículo.
+
+3. (Questão Inédita/2022) Assinale a alternativa correta sobre as infrações aduaneiras:
+
+  a) A aplicação da pena de perdimento compete ao Auditor-Fiscal da Receita Federal do Brasil
+  que apurou a infração.
+
+  b) Não se considera espontânea a denúncia apresentada antes do início do despacho
+  aduaneiro de importação.
+
+  c) No transporte de bens irregularmente importados, a flagrante desproporcionalidade entre
+  o valor do veículo e das mercadorias nele transportadas obsta a aplicação da pena de
+  perdimento sobre daquele.
+
+  d) A pena de perdimento decorrente de infração de que não tenha resultado falta ou
+  insuficiência de recolhimento de tributos federais poderá ser relevada pela aplicação de
+  multa equivalente ao valor aduaneiro da mercadoria.
+
+  e) O importador, depois de aplicado o perdimento de mercadoria considerada abandonada,
+  mas antes de efetuada a sua destinação, poderá requerer a conversão dessa penalidade em
+  multa equivalente de 1% do valor aduaneiro.
+
+4. (Questão Inédita/2022) Assinale a alternativa incorreta sobre a aplicação da pena de
+   perdimento:
+
+  a) Será aplicada a pena de perdimento de moeda nacional ou estrangeira portada em
+  espécie, no valor excedente a US$ 10.000,00 (dez mil dólares dos Estados Unidos da
+  América), ou o equivalente em moeda estrangeira, que ingresse no território aduaneiro ou
+  dele saia.
+
+  b) Será aplicada a pena de perdimento à mercadoria estrangeira chegada ao País com falsa
+  declaração de conteúdo.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              94
+        www.estrategiaconcursos.com.br                                                      106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  c) O autuado em processo de perdimento terá o prazo de 20 dias para impugnação. Caso a
+  intimação seja feita mediante edital, inicia-se a contagem do prazo para impugnação 15 dias
+  após a publicação do edital.
+
+  d) Em processo de perdimento, uma vez apresentada impugnação, a autoridade preparadora
+  terá o prazo de dez dias para remessa do processo a julgamento. Após o preparo, o processo
+  será submetido à decisão do Ministro de Estado da Fazenda, em instância única
+
+  e) A mercadoria que permanecer em recinto alfandegado sem que o seu despacho de
+  importação seja iniciado no decurso de 90 dias da sua descarga será considerada
+  abandonada, tendo início o processo para aplicação da pena de perdimento.
+
+5. (Questão Inédita/2022) Assinale a alternativa que contempla situação que NÃO é punível com
+   a pena de perdimento das mercadorias.               ==219a34==
+
+  a) Mercadoria estrangeira, em trânsito no território aduaneiro, quando o veículo terrestre
+  que a conduzir for desviado de sua rota legal, sem motivo justificado.
+
+  b) Mercadoria estrangeira, atentatória à moral, aos bons costumes, à saúde ou à ordem
+  públicas.
+
+  c) Mercadoria importada e que for considerada abandonada pelo decurso do prazo de
+  permanência em recinto alfandegado, nas hipóteses referidas no art. 642.
+
+  d) Mercadoria nacional ou nacionalizada, em grande quantidade ou de vultoso valor,
+  encontrada na zona de vigilância aduaneira, em circunstâncias que tornem evidente destinar-
+  se a exportação clandestina.
+
+  e) Mercadoria em trânsito aduaneiro, cuja comprovação de chegada ao local de destino
+  ocorra fora do prazo.
+
+6. (Questão Inédita/2022) A Constituição de 1988 exige expressamente a ocorrência de dano ao
+   erário para que seja cabível a pena de perdimento de bens.
+
+7. (Questão Inédita/2022) A multa aplicada pelo transporte de mercadorias sujeitas à pena de
+   perdimento, caso não seja recolhida em 45 dias, pode acarretar o perdimento do veículo por
+   abandono.
+
+8. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira se qualquer
+   documento necessário ao seu desembaraço tiver sido falsificado ou adulterado. Para que seja
+   configurada a infração, o documento deve ter sido materialmente falsificado, não sendo
+   admitida a hipótese de falsidade ideológica.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              95
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+9. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira que
+   apresente característica essencial falsificada ou adulterada, que impeça ou dificulte a sua
+   identificação, desde que a falsificação ou adulteração acarrete modificação no tratamento
+   tributário ou cambial do bem.
+
+10. (Questão Inédita/2022) Aplica-se a pena de perdimento da mercadoria estrangeira na hipótese
+    de ocultação do sujeito passivo mediante fraude ou simulação. Nesse contexto, caso o
+    importador não comprove a origem, a disponibilidade e a transferência dos recursos
+    empregados na operação, a interposição fraudulenta é presumida.
+
+11. (Ajudante de Despachante Aduaneiro - 2018) Aplica-se a pena de perdimento da mercadoria
+    nas seguintes hipóteses, por configurarem dano ao Erário, exceto:
+
+  a) estrangeira, em trânsito no território aduaneiro, quando o veículo terrestre que a conduzir
+  for desviado de sua rota legal sem motivo justificado.
+
+  b) com classificação errada na Nomenclatura Comum do Mercosul (NCM), na Declaração de
+  Importação, em qualquer caso.
+
+  c) estrangeira, exposta à venda, depositada ou em circulação comercial no País, se não for
+  feita prova de sua importação regular.
+
+  d) existente a bordo do veículo, sem registro em manifesto, em documento de efeito
+  equivalente ou em outras declarações.
+
+  e) estrangeira, atentatória à moral, aos bons costumes, à saúde ou à ordem públicas.
+
+12. (Exame Despachante Aduaneiro – 2012) Aplica-se a pena de perdimento da mercadoria nos
+    seguintes casos, exceto:
+
+  a) mercadoria estrangeira ou nacional, na importação ou na exportação, se qualquer
+  documento necessário ao seu embarque ou desembaraço tiver sido falsificado ou
+  adulterado.
+
+  b) mercadoria oculta, a bordo do veículo ou na zona primária, qualquer que seja o processo
+  utilizado.
+
+  c) mercadoria estrangeira, chegada ao País com falsa declaração de conteúdo.
+
+  d) mercadoria embarcada antes do deferimento da Licença de Importação (LI).
+
+  e) mercadoria estrangeira ou nacional, na importação ou na exportação, na hipótese de
+  ocultação do sujeito passivo, do real vendedor, comprador ou de responsável pela operação,
+  mediante fraude ou simulação, inclusive a interposição fraudulenta de terceiros.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 96
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+13. (ATRFB – 2012) O art. 23 do Decreto-Lei n. 1.455, de 7 de abril de 1976, dispõe sobre infrações
+    consideradas dano ao Erário. De acordo com tal dispositivo, o dano ao erário decorrente das
+    infrações previstas no caput do artigo será punido com a pena de perdimento das mercadorias.
+    O aludido artigo também reza que as infrações previstas em seu caput serão punidas com
+    multa equivalente ao valor aduaneiro da mercadoria, na importação, ou ao preço constante da
+    respectiva nota fiscal ou documento equivalente, na exportação, quando a mercadoria não for
+    localizada, ou tiver sido consumida ou revendida, observados o rito e as competências
+    estabelecidos no Decreto n. 70.235, de 6 de março de 1972.
+
+14. (AFRF-2010- Curso de Formação) Assinale a alternativa que contempla situação que NÃO é
+    punível com a pena de perdimento das mercadorias.
+
+  a) Mercadoria importada ao desamparo de licença de importação, quando a sua emissão
+  estiver suspensa, na forma da legislação específica.
+
+  b) Mercadoria importada desembaraçada com isenção de caráter geral que tenha sido
+  transferida a terceiro, sem pagamento dos tributos aduaneiros.
+
+  c) Mercadoria estrangeira, na importação, na hipótese de ocultação do sujeito passivo,
+  mediante interposição fraudulenta de terceiros.
+
+  d) Mercadoria estrangeira, já desembaraçada e com o imposto de importação pago em
+  parte, mediante artifício doloso.
+
+  e) Mercadoria oculta, a bordo do veículo ou na zona primária, qualquer que seja o processo
+  utilizado.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              97
+        www.estrategiaconcursos.com.br                                                          106
+
+                                     
+
+
+---
+
+ Áulus Dias Warzeé Mattos
+ Aula 06
+
+Gabarito
+
+                            01        02          03          04         05   06
+                            C         E           C           D          E    E
+                            07        08          09          10         11   12
+
+                            C         E           E           C          B    D
+
+                            13        14
+                            C         B
+
+       Receita Federal (Analista Tributário) Legislação Aduaneira                  98
+       www.estrategiaconcursos.com.br                                              106
+
+                                    
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                      LISTA DE QUESTÕES
+Multas
+1. (Questão Inédita/2022) A Receita Federal do Brasil está realizando uma operação de repressão
+   na cidade de Foz do Iguaçu. Ao proceder a uma busca em um caminhão, foram descobertos,
+   em um fundo falso, 30 caixas de cigarros paraguaios sem selos de controle entrando
+   irregularmente em território nacional. Cada caixa possui 100 maços de cigarros. Diante dessa
+   situação, aponte a alternativa que melhor descreve as penalidades aplicáveis nesse caso.
+  a) Será aplicada multa de R$ 3,00 por maço de cigarro apreendido, aos quais será aplicada a
+  pena de perdimento.
+  b) Será aplicada a pena de perdimento ao caminhão e aos cigarros, sem prejuízo da aplicação
+  de multa de 10% do valor aduaneiro.
+  c) Será aplicada a pena de perdimento aos cigarros, sem prejuízo da aplicação de multa de
+  R$ 6.000,00. Além disso, será aplicada pena de perdimento ao veículo.
+  d) Será aplicada a pena de perdimento aos cigarros e ao caminhão, sem exigência de multa.
+  e) Será aplicada a pena de perdimento aos cigarros, sem prejuízo da exigência de multa de
+  10% do valor aduaneiro das mercadorias.
+2. (Questão Inédita/2022) Assinale a alternativa correta sobre multas na importação e na
+   exportação:
+  a) Será aplicada multa de 75% sobre o valor aduaneiro no caso de extravio de mercadoria.
+  b) Será aplicada multa de 10% sobre o valor aduaneiro, no caso de descumprimento de
+  condições, requisitos ou prazos estabelecidos para aplicação do regime aduaneiro especial
+  de admissão temporária ou de admissão temporária para aperfeiçoamento ativo
+  c) Será aplicada multa de 10% do valor aduaneiro no caso de embarque de mercadoria no
+  exterior antes de emitida a licença de importação.
+  d) Será aplicada multa de 1% do valor aduaneiro no caso de mercadoria em trânsito
+  aduaneiro que chegue ao destino fora do prazo.
+  e) Será aplicada a multa de 10% do valor aduaneiro no caso de descumprimento, pelo
+  importador, da obrigação de apresentar, quando solicitado, os documentos obrigatórios das
+  declarações aduaneiras.
+3. (Questão Inédita/2022) Um viajante, voltando da Europa, chegou ao Brasil pelo Aeroporto
+   Internacional de Congonhas. Não tendo preenchido a Declaração de Bens de Viajantes, dirigiu-
+   se ao canal de “nada a declarar”. O Auditor Fiscal RFB, ao inspecionar sua bagagem,
+   identificou a presença de um notebook cujo valor apurado era de US$ 1.400,00. Analisando o
+   caso apresentado, identifique qual o valor a ser exigido do viajante pela autoridade aduaneira
+   (US$ 1,00= R$ 5,00):
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              99
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  a) Será exigido do viajante apenas o valor de R$ 1.000,00 referente ao Imposto de
+  Importação.
+  b) Será exigido do viajante um total de R$ 1.000,00 referente ao Imposto de Importação e
+  R$ 1.000,00 referente à multa pela apresentação de falsa declaração de bagagem.
+  c) Será exigido do viajante um total de R$ 1.000,00 referente ao Imposto de Importação e
+  R$ 500,00 referente ao valor mínimo da multa pela apresentação de falsa declaração de
+  bagagem.
+  d) Será exigido do viajante um total de R$ 1.200,00 referente ao Imposto de Importação e
+  R$ 500,00 referente ao valor mínimo da multa pela apresentação de falsa declaração de
+  bagagem.
+  e) Será exigido do viajante um total de R$ 1.200,00 referente ao Imposto de Importação e
+  R$ 1.000,00 referente à multa pela apresentação de falsa declaração de bagagem.
+4. (Questão Inédita/2022) Quando houver lançamento de ofício, aplica-se a multa de 75%,
+   calculada sobre a totalidade ou a diferença de crédito tributário apurada, caso a falta de
+   pagamento tenha decorrido de fraude, conluio ou sonegação.
+5. (Questão Inédita/2022) Aplica-se a multa de cinquenta por cento do valor dos bens trazidos
+   como bagagem quando forem objetivo de comércio.
+6. (Questão Inédita/2022) Aplica-se a multa de 10% do valor da operação à pessoa jurídica que
+   ceder o seu nome, inclusive mediante a disponibilização de documentos próprios, para a
+   realização de operações de comércio exterior de terceiros, com vistas ao acobertamento de
+   seus reais intervenientes ou beneficiários. A multa não pode ser aplicada cumulativamente com
+   a pena de perdimento das mercadorias, no entanto.
+7. Ajudante de Despachante Aduaneiro - 2018) São hipóteses para a aplicação da multa de 100%,
+   proporcional ao valor do imposto incidente sobre a importação da mercadoria, ou o que
+   incidiria se não houvesse isenção ou redução, exceto:
+  a) o uso de falsidade nas provas exigidas para obtenção dos benefícios e incentivos previstos
+  em lei específica.
+  b) o não emprego dos bens de qualquer natureza nos fins ou nas atividades para que foram
+  importados com isenção do imposto.
+  c) o desvio, por qualquer forma, de bens importados com isenção ou com redução do
+  imposto.
+  d) a comprovação, fora do prazo, da chegada da mercadoria ao local de destino, no caso de
+  trânsito aduaneiro.
+  e) a não apresentação de mercadoria submetida ao regime de entreposto aduaneiro.
+8. (Ajudante de Despachante Aduaneiro - 2018) Ao sujeito passivo que, notificado, efetuar o
+   pagamento, a compensação ou o parcelamento dos tributos administrados pela Secretaria da
+   Receita Federal do Brasil será concedida redução de 30% da multa de lançamento se:
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            100
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  a) for efetuado o pagamento ou a compensação no prazo de trinta dias, contados da data
+  em que o sujeito passivo foi notificado do lançamento.
+  b) o sujeito passivo requerer o parcelamento no prazo de trinta dias, contados da data em
+  que foi notificado da decisão administrativa de primeira instância.
+  c) o sujeito passivo requerer o parcelamento no prazo de trinta dias, contados da data em
+  que foi notificado do lançamento.
+  d) o sujeito passivo requerer o parcelamento, no caso de provimento a recurso de ofício
+  interposto por autoridade julgadora de primeira instância.
+  e) for efetuado o pagamento ou a compensação no prazo de trinta dias, contados da data
+  em que o sujeito passivo foi notificado da decisão administrativa de primeira instância.
+9. (Exame Despachante Aduaneiro – 2012) O embarque de mercadoria antes de emitida a licença
+   de importação sujeita esta mercadoria à pena de perdimento.
+                                                       ==219a34==
+
+10. (Exame Despachante Aduaneiro – 2012) A classificação incorreta na Nomenclatura Comum do
+    Mercosul de uma mercadoria objeto de um despacho de exportação (constante em um
+    Registro de Exportação – RE) está sujeita a multa de um por cento sobre o valor aduaneiro
+    desta mercadoria.
+11. (Exame Despachante Aduaneiro – 2012) A pena de perdimento decorrente de abandono de
+    mercadoria, sem falta ou insuficiência de pagamento de tributos federais, poderá ser relevada
+    pelo Ministro de Estado da Fazenda em despacho fundamentado, sem o pagamento de
+    multas.
+12. (AFRF-2010- Curso de Formação) Determinada Declaração de Importação – DI ampara as
+    mercadorias “A” e “B”. A mercadoria “A” tem valor aduaneiro de R$ 70.000,00 (setenta mil
+    reais), enquanto a mercadoria “B” tem valor aduaneiro de R$ 10.000,00 (dez mil reais). No
+    curso do despacho aduaneiro, o AFRFB constatou as seguintes irregularidades: para a
+    mercadoria “A” foram informadas incorretamente a classificação na Nomenclatura Comum do
+    Mercosul - NCM e a quantidade na unidade de medida estatística; para a mercadoria “B” o
+    importador omitiu informação de natureza comercial necessária à determinação do
+    procedimento de controle aduaneiro apropriado. Após a necessária correção da NCM
+    informada para a mercadoria “A”, as mercadorias continuaram sendo classificadas em códigos
+    da NCM distintos. Não foi apurada diferença de tributos a recolher. No caso apresentado,
+    assinale a alternativa que indica qual penalidade deve ser aplicada:
+  a) Multa de R$ 1.200,00 (mil e duzentos reais), correspondente a: 1% do valor aduaneiro
+  pelas infrações em relação à mercadoria “A”; mais R$ 500,00 (quinhentos reais) pela infração
+  em relação à mercadoria “B”, aplicada em seu valor mínimo.
+  b) Multa de R$ 1.500,00 (um mil e quinhentos reais), correspondente à aplicação do valor
+  mínimo de R$ 500,00 (quinhentos reais) para cada uma das três irregularidades verificadas.
+  c) Multa de R$ 8.000,00 (oito mil reais), correspondente a 10% do somatório do valor
+  aduaneiro das mercadorias A e B, que representa o teto máximo aplicável ao caso.
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            101
+        www.estrategiaconcursos.com.br                                                        106
+
+                                     
+
+
+---
+
+ Áulus Dias Warzeé Mattos
+ Aula 06
+
+ d) Multa de R$ 800,00 (oitocentos reais), correspondente a 1% do somatório do valor
+ aduaneiro das mercadorias A e B.
+ e) Multa de R$ 1.900,00 (um mil e novecentos reais), correspondente a: 1% do valor
+ aduaneiro pela classificação incorreta da mercadoria “A”; mais 1% do valor aduaneiro pela
+ quantificação incorreta na unidade de medida estatística da mercadoria “A”; mais R$ 500,00
+ (quinhentos reais) pela infração em relação à mercadoria “B”, aplicada em seu valor mínimo.
+
+Gabarito
+
+
+                            01        02          03          04         05   06
+                            C         B           B           E          E    E
+
+                            07        08          09          10         11   12
+                            D         E           E           E          E    A
+
+       Receita Federal (Analista Tributário) Legislação Aduaneira                          102
+       www.estrategiaconcursos.com.br                                                      106
+
+                                    
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+                                      LISTA DE QUESTÕES
+Intervenientes e Sanções Administrativas
+1. (Questão Inédita/2022) O operador portuário, um dos intervenientes no comércio exterior, é
+   aquele que, amparado por um único contrato, utiliza duas ou mais modalidades de transporte
+   (rodoviário e aquaviário, por exemplo) desde a origem até o destino da carga.
+2. (Questão Inédita/2022) A reincidência no descumprimento de requisito técnico ou operacional
+   para o alfandegamento, já punido com advertência, sujeita o responsável pela administração
+   do recinto à sanção administrativa de suspensão das atividades por até doze meses.
+3. (Questão Inédita/2022) A agressão ou o desacato à autoridade aduaneira, no exercício da
+   função, sujeita o interveniente no comércio exterior à sanção administrativa de cancelamento
+   ou cassação de seu registro, licença, autorização, credenciamento ou habilitação.
+4. (Questão Inédita/2022) Acerca das sanções administrativas aplicáveis aos intervenientes nas
+   operações de comércio exterior, assinale a alternativa correta:
+  a) São sanções administrativas impostas aos intervenientes nas operações de comércio
+  exterior a advertência, a suspensão de registro/licença pelo prazo de até 12 meses, a
+  cassação/cancelamento do registro/licença e as multas.
+  b) As sanções administrativas aos intervenientes no comércio exterior serão anotadas no
+  registro do infrator pela administração aduaneira, devendo a anotação ser cancelada após o
+  decurso de 3 (três) anos da aplicação definitiva da sanção.
+  c) Na hipótese de cassação ou cancelamento, a reinscrição para a atividade ou a inscrição
+  para exercer outra atividade sujeita a controle aduaneiro só poderá ser solicitada 3 (três) anos
+  depois da data de aplicação definitiva da sanção, devendo ser cumpridas todas as exigências
+  e formalidades previstas para a inscrição.
+  d) Na determinação do prazo para a aplicação das sanções administrativas aos intervenientes,
+  não são levados em consideração os danos que resultaram da infração cometida.
+  e) Considera-se interveniente nas operações de comércio exterior o importador, o
+  exportador, o beneficiário de regime aduaneiro ou de procedimento simplificado, o
+  despachante aduaneiro e seus ajudantes, o transportador, o agente de carga, o operador de
+  transporte multimodal, o operador portuário, o depositário, o administrador de recinto
+  alfandegado, o perito, o assistente técnico, ou qualquer outra pessoa que tenha relação,
+  direta ou indireta, com a operação de comércio exterior.
+5. (Ajudante de Despachante Aduaneiro – 2018) Com relação às sanções administrativas previstas
+   na Lei n. 10.833, de 29 de dezembro de 2003, escolha a opção correta.
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               103
+        www.estrategiaconcursos.com.br                                                           106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+  a) A reincidência em conduta já sancionada com advertência poderá acarretar a suspensão,
+  pelo prazo de até 12 meses, do exercício de atividades relacionadas com o despacho
+  aduaneiro.
+  b) Os intervenientes nas operações de comércio exterior ficam sujeitos à sanção de
+  advertência caso estejam atuando em nome de pessoa que esteja cumprindo suspensão, ou
+  no interesse desta.
+  c) É aplicada a penalidade de suspensão do exercício de atividades relacionadas com o
+  despacho aduaneiro para o interveniente que descumprir requisito, condição ou norma
+  operacional para habilitar-se ou utilizar regime aduaneiro especial ou aplicado em áreas
+  especiais.
+  d) No caso de cancelamento ou cassação do registro, licença, autorização, credenciamento
+  ou habilitação para utilização de regime aduaneiro ou de procedimento simplificado, a
+                                                       ==219a34==
+
+  reinscrição para a atividade que exercia ou a inscrição para exercer outra atividade sujeita a
+  controle aduaneiro só poderá ser solicitada três anos depois da data de aplicação definitiva
+  da sanção, devendo ser cumpridas todas as exigências e formalidades previstas para a
+  inscrição.
+  e) A aplicação da sanção de suspensão do exercício de atividades relacionadas com o
+  despacho aduaneiro terá prazo de até 24 meses, considerados a natureza e a gravidade da
+  infração cometida, os danos que dela provierem e os antecedentes do infrator.
+6. (Exame Despachante Aduaneiro – 2012) A legislação aduaneira contém previsão de uma série
+   de condutas que ensejam a aplicação de sanção administrativa aos intervenientes aduaneiros,
+   entre os quais o Despachante Aduaneiro e seus ajudantes. Sob essa perspectiva, assinale os
+   itens abaixo que constituem hipóteses de aplicação de sanção:
+   I - atraso, de forma contumaz, na chegada ao destino de veículo conduzindo mercadoria
+   submetida ao regime de trânsito aduaneiro.
+   II - ação ou omissão dolosa tendente a subtrair ao controle aduaneiro, ou dele ocultar, a
+   importação ou a exportação de bens ou mercadorias.
+   III - descumprimento de norma de segurança fiscal em local alfandegado.
+   IV - exercício, por pessoa credenciada ou habilitada, de atividade ou cargo vedados na
+   legislação específica.
+   a) Todos os itens estão corretos.
+   b) Somente o item IV está incorreto.
+   c) Os itens I e IV estão incorretos.
+   d) Os itens I e III estão corretos.
+   e) Os itens III e IV estão incorretos.
+7. (Exame Despachante Aduaneiro – 2012) Aplica-se a sanção administrativa de cassação ou
+   cancelamento na hipótese de sentença condenatória, transitada em julgado, por participação,
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             104
+        www.estrategiaconcursos.com.br                                                         106
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 06
+
+   direta ou indireta, na prática de crime contra a administração pública ou contra a ordem
+   tributária.
+8. (Exame Despachante Aduaneiro – 2012) Na determinação do prazo para a aplicação da sanção
+   administrativa de suspensão, serão considerados a natureza e a gravidade da infração
+   cometida, os danos que dela provierem e os antecedentes do infrator.
+9. (Exame Despachante Aduaneiro – 2012) Na hipótese de aplicação da sanção de cassação ou
+   cancelamento, é vedada a reinscrição para a atividade ou a inscrição para exercer outra
+   atividade sujeita a controle aduaneiro.
+10. (Exame Despachante Aduaneiro – 2012) São considerados intervenientes nas operações de
+    comércio exterior, entre outros, o despachante aduaneiro, o agente de carga e o perito.
+11. (AFRFB – 2012) A pessoa jurídica de que tratam os arts. 35 e 36 da Lei nº 12.350, de 20 de
+    dezembro de 2010, responsável pela administração de local ou recinto alfandegado, fica
+    sujeita, observados a forma, o rito e as competências estabelecidos no art. 76 da Lei n. 10.833,
+    de 29 de dezembro de 2003, à aplicação direta da sanção de suspensão das atividades de
+    movimentação, armazenagem e despacho aduaneiro de mercadorias sob controle aduaneiro,
+    referidas no caput do art. 34 da Lei n. 12.350, de 20 de dezembro de 2010.
+
+Gabarito
+
+
+                                 01          02          03          04    05
+                                  E           E          C           E     A
+
+                                 06          07          08          09    10
+
+                                  A           C          C           E     C
+
+                                 11
+                                  E
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               105
+        www.estrategiaconcursos.com.br                                                           106
+
+                                      
+
+
+---
+
+---

@@ -1,0 +1,162 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 17_003_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '17'
+titulo_aula: INDEPENDEM DA ENTRADA OU SAÍDA DE
+---
+
+# INDEPENDEM DA ENTRADA OU SAÍDA DE
+
+INDEPENDEM DA ENTRADA OU SAÍDA DE
+       RECONHECE RECEITAS E DESPESAS CONFORME A OCORRÊNCIA DO FATO GERADOR.
+                                                                                                   CAIXA PARA SEREM RECONHECIDAS.
+
+       REGIME PREVISTO NA LEI 6.404/1976.
+                                                                                                                    • A    RECEITA   DE   SERVIÇOS   É   RECONHECIDA
+                                                                                                                        QUANDO O SERVIÇO É PRESTADO.
+      COMPETÊNCIA           AS RECEITAS SÃO RECONHECIDAS QUANDO GERADAS (GANHAS).                     EXEMPLOS
+                                                                                                                    •   A RECEITA COM MERCADORIAS É RECONHECIDA
+                                                                                                                        QUANDO A MERCADORIA É ENTREGUE.
+
+                                                                                                 EXEMPLO: A DESPESA COM SALÁRIOS É RECONHECIDA
+                            AS DESPESAS SÃO RECONHECIDAS QUANDO INCORRIDAS.
+                                                                                                 NO MÊS EM QUE O SERVIÇO É PRESTADO.
+
+                                                               ❑ AS RECEITAS SÃO RECONHECIDAS QUANDO DA ENTRADA DE DINHEIRO NO CAIXA.
+ REGIMES CONTÁBEIS                          CAIXA              ❑ AS DESPESAS SÃO RECONHECIDAS QUANDO DA SAÍDA DE DINHEIRO DO CAIXA.
+                                                               ❑ INDEPENDEM DO FATO GERADOR PARA SEREM RECONHECIDAS.
+
+  REGIMES CONTÁBEIS E APURAÇÃO DO
+                                                                                                         RECEITAS E DESPESA ANTECIPADAS
+            RESULTADO
+                        RECEITAS ANTECIPADAS
+
+RECEBIMENTO ANTECIPADO DE CAIXA PARA PRESTAÇÃO FUTURA DE SERVIÇO OU ENTREGA DE BEM/MERCADORIA NO FUTURO.
+
+RECONHECE NO PASSIVO EM CONTRAPARTIDA À ENTRADA DE CAIXA.             A OBRIGAÇÃO É A DE ENTREGAR A MERCADORIA OU PRESTAR O SERVIÇO NO FUTURO.
+
+RECONHECE COMO RECEITA NO RESULTADO QUANDO DA OCORRÊNCIA DO FATO GERADOR.
+
+EXEMPLO: RECEBIMENTO DE CLIENTES PARA ENTREGA DE MERCADORIAS NO MÊS SEGUINTE.
+
+                                                                                                                                              CONTABILIDADE GERAL
+                                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                      RECEITA > DESPESA = LUCRO
+
+APRESENTA O CONFRONTO ENTRE RECEITAS E DESPESAS.
+
+                                                     DESPESA > RECEITA = PREJUÍZO
+
+
+                                                          • APRESENTA APENAS AS CONTAS DE RESULTADO.
+  APURAÇÃO DO RESULTADO NA DRE                            • DESEMPENHO FINANCEIRO.
+
+   REGIMES CONTÁBEIS E APURAÇÃO DO
+                                                                                           RECEITAS E DESPESA ANTECIPADAS
+             RESULTADO
+
+                       DESPESAS ANTECIPADAS
+
+ ❑ PAGAMENTO ANTECIPADO DE DESPESAS AINDA NÃO INCORRIDAS.
+ ❑ RECONHECE NO ATIVO EM CONTRAPARTIDA À SAÍDA DE CAIXA.
+ ❑ EXEMPLO: PAGAMENTO DE SEGUROS PARA COBERTURA DE 1 ANO.
+ ❑ RECONHECE COMO DESPESA NO RESULTADO QUANDO DA OCORRÊNCIA DO FATO GERADOR.
+
+                                                                                                                    CONTABILIDADE GERAL
+                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+OPERAÇÕES COM MERCADORIAS (SEM INCIDÊNCIA DE TRIBUTOS)                               LANÇAMENTOS CONTÁBEIS
+                                           • D - MERCADORIAS (ATIVO).
+      AQUISIÇÃO DE MERCADORIAS À VISTA
+                                           • C - CAIXA (ATIVO).
+
+                                           • D - MERCADORIAS (ATIVO).
+     AQUISIÇÃO DE MERCADORIAS A PRAZO
+                                           • C - FORNECEDORES (PASSIVO).
+
+                                           •   D - CAIXA (ATIVO).
+                                           •   C - RECEITA DE VENDAS (RESULTADO).
+        VENDA DE MERCADORIAS À VISTA
+                                           •   D - CUSTO DA MERCADORIA VENDIDA (RESULTADO).
+                                           •   C - MERCADORIAS (ATIVO).
+
+                                           •   D - CLIENTES (ATIVO).
+                                           •   C - RECEITA DE VENDAS (RESULTADO).
+       VENDA DE MERCADORIAS A PRAZO
+                                           •   D - CUSTO DA MERCADORIA VENDIDA (RESULTADO).
+                                           •   C - MERCADORIAS (ATIVO).
+
+     ADIANTAMENTO A FORNECEDORES (PARA     • D - ADIANTAMENTO A FORNECEDORES (ATIVO).
+    RECEBIMENTO POSTERIOR DE MERCADORIA)   • C- CAIXA (ATIVO).
+
+
+   RECEBIMENTO DE MERCADORIAS QUE FORAM    • D - MERCADORIAS (ATIVO).
+    ANTERIORMENTE PAGAS EM ADIANTAMENTO    • C - ADIANTAMENTO A FORNECEDORES (ATIVO).
+
+
+                                           • D - FORNECEDORES (PASSIVO).
+      PAGAMENTO DE FORNECEDORES COM
+                                           • C - CAIXA (ATIVO).
+    DESCONTO FINANCEIRO (CONDICIONAL)
+                                           • C- DESCONTO FINANCEIRO OBTIDO (RESULTADO).
+                                                                                                   CONTABILIDADE GERAL
+                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+               OPERAÇÕES COM RECEBÍVEIS                                              LANÇAMENTOS CONTÁBEIS
+
+                                                 • D - CAIXA (ATIVO).
+ADIANTAMENTO DE CLIENTES (RECEITA ANTECIPADA)
+                                                 • C - ADIANTAMENTO DE CLIENTES (PASSIVO).
+
+
+                                                 •    D - ADIANTAMENTO DE CLIENTES (PASSIVO)
+ ENTREGA (VENDA) DE MERCADORIAS QUE HAVIAM       •    C - RECEITA DE VENDAS (RESULTADO)
+ SIDO PAGAS ANTECIPADAMENTE PELOS CLIENTES       •    D - CUSTOS DA MERCADORIA VENDIDA (RESULTADO)
+                                                 •    C - MERCADORIAS (ATIVO)
+
+
+                                                 • D - DESCONTOS FINANCEIROS CONCEDIDOS (RESULTADO).
+   RECEBIMENTO DE CLIENTES COM DESCONTO
+                                                 • D - CAIXA (ATIVO).
+                 CONCEDIDO
+                                                 • C - CLIENTES (ATIVO).
+
+
+                                                 • D - DESPESA COM PERDAS ESTIMADAS COM CLIENTES (RESULTADO).
+       PERDAS ESTIMADAS COM CLIENTES
+                                                 • C - AJUSTE DE PERDAS ESTIMADAS COM CLIENTES (ATIVO).
+
+
+                                                 • D - AJUSTE DE PERDAS ESTIMADAS COM CLIENTES (ATIVO).
+  REVERSÃO DA PERDA ESTIMADA COM CLIENTES
+                                                 • C - REVERSÃO DE PERDA ESTIMADA COM CLIENTES (RECEITA).
+
+
+                RECONHECIMENTO DE DEPRECIAÇÃO
+• D - DESPESA DE DEPRECIAÇÃO (RESULTADO).
+• C - DEPRECIAÇÃO ACUMULADA (RETIFICADORA DO ATIVO IMOBILIZADO).
+                                                                                                             CONTABILIDADE GERAL
+                                                                          ESTRATÉGIA CONCURSOS
+
+
+---

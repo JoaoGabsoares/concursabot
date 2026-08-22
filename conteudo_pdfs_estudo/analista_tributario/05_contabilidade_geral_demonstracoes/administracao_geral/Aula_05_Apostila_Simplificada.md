@@ -1,0 +1,2439 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 05_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Possati
+artigos_citados:
+- Art. 1.179.
+- Art. 1.181.
+- Art. 1.194.
+- art. 1.179
+- art. 1.181
+- art. 1.184
+- art. 177.
+- art. 966
+---
+
+# Possati
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                        Possati
+
+                                                         Autor:
+                                               Gilmar Possati
+
+                                         24 de Fevereiro de 2025
+
+---
+
+   Gilmar Possati
+   Aula 04
+
+                                               ESCRITURAÇÃO
+Sumário
+
+1 – Aspectos Introdutórios 
+
+   1.1. Obrigatoriedade da Escrituração 
+
+2 – Livros de Escrituração
+
+   2.1. Livro Diário 
+
+      2.1.1. Finalidade 
+
+   2.2. Livro Razão
+
+      2.2.2. Finalidades do livro Razão 
+
+      2.2.3. Razonete 
+
+   2.3. Livro Caixa 
+
+   2.4. Formalidades da Escrituração Contábil 
+
+      2.4.1. Formalidades Extrínsecas e Intrínsecas 
+
+3 – Lançamentos Contábeis 
+
+   3.1. Elementos essenciais do lançamento 
+
+   3.2. Fórmulas de Lançamento 
+
+      3.2.1. Exemplos de fórmulas de lançamento 
+
+   3.3. Erros de Escrituração e sua correção (retificação) 
+
+4 – Escrituração de operações típicas 
+
+5 – Balancete de Verificação 
+
+   5.1. Definição e objetivo 
+
+   5.2. Elementos mínimos 
+
+                                                                                                                                                  1
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                                                 50
+           www.estrategiaconcursos.com.br
+
+                                              
+
+
+---
+
+   Gilmar Possati
+   Aula 04
+
+   5.3. Tipos de balancete/estrutura
+
+6 – Questões Comentadas 
+
+7 – Lista das Questões Comentadas 
+
+8 – Gabarito 
+
+                                                                                                                                                  2
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                                                 50
+           www.estrategiaconcursos.com.br
+
+                                               
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                            1 – ASPECTOS INTRODUTÓRIOS
+Escrituração Contábil é a técnica utilizada para o registro dos fatos contábeis. A escrituração é
+realizada por meio de lançamentos em livros destinados ao registro das operações que afetam o
+patrimônio. Os lançamentos, por sua vez, são efetuados por meio do método das partidas
+dobradas, o qual estudaremos a seguir.
+Por oportuno, destaca-se que a escrituração contábil deve ser mantida em registros permanentes,
+obedecendo a legislação comercial (societária ou empresarial) e aos princípios de contabilidade
+geralmente aceitos, além de observar métodos ou critérios uniformes, conforme prescreve a Lei
+6.404/76 em seu art. 177.
+Outro aspecto introdutório importante está previsto no art. 177, § 2º da Lei 6.404/76. Referido
+artigo prescreve que a companhia observará exclusivamente em livros ou registros auxiliares, sem
+qualquer modificação da escrituração mercantil e das demonstrações reguladas nesta Lei, as
+disposições da lei tributária, ou de legislação especial sobre a atividade que constitui seu objeto,
+que prescrevam, conduzam ou incentivem a utilização de métodos ou critérios contábeis diferentes
+ou determinem registros, lançamentos ou ajustes ou a elaboração de outras demonstrações
+financeiras.
+Exemplo: Imagine que a legislação do ICMS de determinado Estado preceitue que as empresas
+contribuintes devem elaborar um demonstrativo anual do imposto recolhido aos cofres públicos.
+Nesse caso, como se trata de uma demonstração financeira não prevista na legislação comercial,
+as empresas deverão ter registros auxiliares, sem qualquer modificação da escrituração mercantil
+e das demonstrações reguladas.
+Por fim, cabe destacar que a escrituração está regulamentada na Resolução CFC n. 1.330/2011.
+No decorrer desta aula destacaremos os pontos que mais são exigidos nas provas.
+
+(IBRAM) A contabilidade utiliza-se de registros por meio de lançamentos de partidas dobradas.
+Comentários
+Trata-se da definição de escrituração que acabamos de estudar.
+Gabarito: Certo
+
+1.1. Obrigatoriedade da Escrituração
+O Código Civil Brasileiro (Lei n. 10.406/02) determina a obrigatoriedade da escrituração contábil
+em seu art. 1.179, senão vejamos:
+     Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+     contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+     correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+     o de resultado econômico.
+
+                                                                                                  3
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                  50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Como toda boa regra há exceções, quais sejam, o produtor rural e o pequeno empresário
+(microempreendedor individual - MEI), os quais estão dispensados da escrituração contábil.
+E o que é considerado pequeno empresário para efeito de aplicação dessa dispensa?
+De acordo com a LC 155/2016:
+     Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se
+     enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o
+     empreendedor que exerça as atividades de industrialização, comercialização e prestação
+     de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior,
+     de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que
+     não esteja impedido de optar pela sistemática prevista neste artigo.
+
+                             2 – LIVROS DE ESCRITURAÇÃO  ==219a34==
+
+2.1. Livro Diário
+O Livro diário é obrigatório, principal e cronológico.
+Obrigatório: é exigido pelo Código Civil, estando sujeito às formalidades intrínsecas e extrínsecas
+que estudaremos logo a seguir.
+Regra: obrigatório
+Exceção: pequeno empresário (MEI) – até 81 mil de receita bruta.
+Principal: registra todos os fatos contábeis.
+Cronológico: os fatos contábeis são registrados em ordem cronológica.
+Este livro está regulado pelo Código Civil, que prescreve:
+     Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+     contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+     correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+     o de resultado econômico.
+     Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o diário, que pode ser
+     substituído por fichas no caso de escrituração mecanizada ou eletrônica.
+     Parágrafo único. A adoção de fichas não dispensa o uso de livro apropriado para o lançamento do
+     balanço patrimonial e do de resultado econômico.
+
+2.1.1. Finalidade
+O livro diário é um livro que contém o registro de todo e cada lançamento em ordem cronológica,
+fato que nos permite compreender a sequência de acontecimentos ocorridos na empresa.
+
+                                                                                                    4
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                    50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+A escrituração do livro diário NÃO PODE ser substituída pela escrituração obrigatória do livro
+razão.
+
+2.2. Livro Razão
+Sob o ponto de vista contábil, o livro Razão é o mais importante dentre aqueles utilizados pela
+Contabilidade. Por meio dele, é possível controlar, de forma separada, o movimento de todas as
+Contas.
+Destaca-se que não há necessidade de registro do Livro Razão. No entanto, o mesmo deve conter
+termo de abertura e encerramento, com a assinatura do contabilista e do responsável pela
+empresa.
+A seguir temos o modelo de um razão da conta “Bancos conta Movimento”:
+
+                                                                                             5
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                                           Razão Analítico
+            KKK Comércio Ltda.                  Data: 10.01.20X1
+            CNPJ: 11.222.333/0001-44           Período: 01 a 10.01.20X1
+            Conta: Bancos Conta Movimento – Banco do Brasil S/A
+                Data         Histórico da Operação         Débito    Crédito                 Saldo
+            01.01.20X1    Saldo Inicial                                                    5.000,00
+            05.01.20X1    Depósito                       1.000,00                          6.000,00
+            10.01.20X1    Cheque nº 0123456                         500,00                 5.500,00
+            Totais                                       1.000,00   500,00                 5.500,00
+O livro Razão é facultativo/obrigatório, principal e sistemático.
+Facultativo/obrigatório: facultativo pela legislação societária e obrigatório pelo Regulamento do
+Imposto de Renda (RIR/2018) somente para as entidades obrigadas a declarar o IR com base no
+Lucro Real.
+Principal: registra todos os fatos contábeis.
+Sistemático: os fatos contábeis são registrados por tipo de contas (bancos, duplicatas a receber
+fornecedores, capital social).
+
+Segundo a legislação do IR, os contribuintes sujeitos à apuração do lucro real devem escriturar o
+livro razão.
+
+Além disso, o contribuinte do Imposto de Renda sob Lucro Real deve manter, entre outros,
+basicamente os seguintes livros:
+   §   Registro de Inventário;
+   §   Registro de Compras;
+   §   Apuração de Lucro Real – LALUR.
+2.2.2. Finalidades do livro Razão
+A finalidade do livro Razão é demonstrar a movimentação analítica das contas escrituradas no
+diário e constantes do balanço.
+
+2.2.3. Razonete
+Trata-se da representação gráfica de uma conta em forma de “T”, em que o lado esquerdo é de
+saldo devedor e o lado direito é de saldo credor. O razonete é uma forma simplificada do Razão.
+
+                                                                                                      6
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                      50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                                                  Nome da Conta
+
+
+                                       Lado Esquerdo           Lado Direito
+
+                                       Saldo Devedor           Saldo Credor
+
+2.3. Livro Caixa
+No Livro Caixa são registrados cronologicamente todos os recebimentos e pagamentos realizados.
+Exemplo:
+        Data                     Histórico                            Entradas           Saídas      Saldo
+    01.01.20X1         Saldo Anterior                             -                 -              1.000,00
+    05.01.20X1         Recebimento Fatura 01/2014                     3.350,00      -              4.450,00
+    10.01.20X1         Pagamento de Salários                      -                     2.000,00   2.250,00
+Não existe determinação na legislação aplicável quanto à forma de escrituração do livro Caixa.
+
+(IBRAM) Os principais livros utilizados pela contabilidade são o livro diário e o livro caixa. No
+primeiro, são escriturados os fatos decorrentes da atividade da companhia, explicados no
+histórico, e, no segundo, são feitos os registros em cada conta do sistema contábil.
+Comentários
+Os principais livros utilizados pela contabilidade são o livro Diário e o livro Razão. No primeiro, são
+escriturados os fatos decorrentes da atividade da companhia, explicados no histórico, e, no
+segundo, são feitos os registros em cada conta do sistema contábil. No Livro Caixa são registrados
+cronologicamente todos os recebimentos e pagamentos realizados. Perceba que o examinador
+trocou o livro Razão pelo livro Caixa.
+Gabarito: Errado
+
+                                                                                                              7
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                              50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+2.4. Formalidades da Escrituração Contábil
+A Interpretação Técnica 2000 (ITG 2000), estabelece que a escrituração em forma contábil deve
+conter, no mínimo:
+   §   data do registro contábil, ou seja, a data em que o fato contábil ocorreu;
+   §   conta devedora;
+   §   conta credora;
+   §   histórico que represente a essência econômica da transação ou o código de histórico
+       padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio;
+   §   valor do registro contábil;
+   §   informação que permita identificar, de forma unívoca, todos os registros que integram um
+       mesmo lançamento contábil.
+Esses são o que a doutrina denomina de requisitos das partidas do Diário ou, ainda, os elementos
+essenciais do registro contábil.
+Destaca-se, ainda que se admite a escrituração resumida do Diário, com totais que não excedam
+o período de trinta dias, relativamente a contas, cujas operações sejam numerosas ou realizadas
+fora da sede do estabelecimento, desde que utilizados livros auxiliares regularmente autenticados,
+para registro individualizado, e conservados os documentos que permitam a sua perfeita
+verificação.
+
+A legislação societária permite:
+   §   que o lançamento no Diário seja feito por meio de partidas mensais;
+   §   a escrituração resumida ou sintética, com valores totais que não excedam as operações de
+       um mês, desde que haja escrituração analítica lançada em registros auxiliares;
+   §   Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo
+       ambos ser assinados por profissional de Contabilidade legalmente habilitado e pelo
+       empresário ou sociedade empresária.
+
+A ITG 2000 (R1) informa que o registro contábil deve conter o número de identificação do
+lançamento em ordem sequencial relacionado ao respectivo documento de origem externa ou
+interna ou, na sua falta, em elementos que comprovem ou evidenciem fatos contábeis.
+
+                                                                                                8
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Por fim, a Interpretação destaca que a terminologia utilizada no registro contábil deve expressar a
+essência econômica da transação.
+
+2.4.1. Formalidades Extrínsecas e Intrínsecas
+Formalidades Extrínsecas
+A finalidade das formalidades extrínsecas é dificultar a adulteração do livro. Correspondem à forma
+de apresentação material do livro.
+Segundo a ITG 2000 (R1), os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão,
+em forma não digital, devem revestir-se de formalidades extrínsecas, tais como:
+a) serem encadernados;
+b) terem suas folhas numeradas sequencialmente;
+c) conterem termo de abertura e de encerramento assinados pelo titular ou representante legal da
+entidade e pelo profissional da contabilidade regularmente habilitado no Conselho Regional de
+Contabilidade.
+Os livros contábeis obrigatórios, entre eles o Livro Diário e o Livro Razão, em forma digital, devem
+revestir-se de formalidades extrínsecas, tais como:
+a) serem assinados digitalmente pela entidade e pelo profissional da contabilidade regularmente
+habilitado;
+b) quando exigível por legislação específica, serem autenticados no registro público ou entidade
+competente.
+Em caso de escrituração contábil em forma digital, não há necessidade de impressão e
+encadernação em forma de livro, porém o arquivo magnético autenticado pelo registro público
+competente deve ser mantido pela entidade.
+Cabe destacar que a inobservância das formalidades extrínsecas invalida todo o livro, o qual passa
+a fazer prova apenas contra o contribuinte.
+Formalidades Intrínsecas
+A finalidade das formalidades intrínsecas é resguardar a fidedignidade dos fatos ocorridos em
+relação aos fatos registrados. Estão relacionadas com o lançamento contábil. Sendo assim, a
+escrituração deve ser executada:
+a) em idioma e em moeda corrente nacionais;
+b) em forma contábil;
+c) em ordem cronológica de dia, mês e ano;
+d) com ausência de espaços em branco, entrelinhas, borrões, rasuras ou emendas; e
+e) com base em documentos de origem externa ou interna ou, na sua falta, em elementos que
+comprovem ou evidenciem fatos contábeis. A inobservância das formalidades intrínsecas invalida
+apenas o registro ou registros onde ocorrem.
+
+                                                                                                   9
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                   50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                               3 – LANÇAMENTOS CONTÁBEIS
+3.1. Elementos essenciais do lançamento
+Os elementos essenciais do lançamento contábil no livro Diário são:
+- local e data;
+- conta(s) debitada(s);
+- conta(s) creditada(s);
+- histórico;
+- valor.
+Vejamos um exemplo:
+Brasília, 10 de janeiro de 20X1.                              Local e data
+
+                                                                     Conta Debitada
+      D – Bancos Conta Movimento
+      C – Caixa ,00                             Conta Creditada e valor
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                  Histórico
+
+O exemplo acima é de um lançamento mecanizado. Abaixo segue o mesmo exemplo, mas de um
+lançamento manual:
+                                                                     Local e data
+Brasília, 10 de janeiro de 20X1.
+                                                                     Conta Debitada
+      Bancos Conta Movimento
+      a Caixa ,00                                Conta Creditada e valor
+
+Conforme recibo de depósito nº 001 do Banco XYZ S.A no valor de R$ 500,00.
+                                  Histórico
+
+Observe que na escrituração do livro Diário pelo processo manual, usa-se a preposição “a” para
+indicar a conta creditada.
+Pessoal, é claro que essa formalidade toda você não vai fazer na hora da sua prova. Para fins de
+praticidade, basta fazermos:
+
+      D – Bancos
+      C – Caixa
+
+                                                                                               10
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+           www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+3.2. Fórmulas de Lançamento
+De acordo com número de contas debitadas e creditadas, podemos identificar 4 (quatro) fórmulas
+de lançamento, quais sejam:
+1ª fórmula – uma conta debitada e uma creditada (1 1).
+2ª fórmula – uma conta debitada e duas ou mais creditadas (1 2).
+3ª fórmula – duas ou mais contas debitadas e uma creditada (2 1).
+4ª fórmula – duas ou mais contas debitadas e duas ou mais creditadas (2 2).
+Assim, temos:
+
+                    1ª fórmula            11      1 débito e 1 crédito
+
+                    2ª fórmula            12      1 débito e 2 créditos ou mais
+
+                    3ª fórmula            21      2 débitos ou mais e 1 crédito
+
+                    4ª fórmula            22      2 débitos ou mais e 2 créditos ou mais
+
+3.2.1. Exemplos de fórmulas de lançamento
+1ª fórmula: Compra à vista de veículo no valor de R$ 20.000,00
+
+                   Lançamento Mecanizado                                   Lançamento Manual
+
+       D – Veículos                                           Veículos
+       C – Caixa .000,00                 a Caixa .000,00
+
+Quando a empresa adquire um veículo, ocorre uma redução na conta Caixa (saída de bens) e um
+aumento na conta Veículos (entrada de bens).
+Ativo à Natureza Devedora à Entrada de Bens (Veículo) à Debita
+Ativo à Natureza Devedora à Saída de Bens (Caixa) à Credita
+
+2ª fórmula: Recebimento de duplicatas no valor de R$ 30.000,00, com juros de 10%.
+
+                    Lançamento Mecanizado                                Lançamento Manual
+
+            D – Caixa .000,00     Caixa
+            C – Duplicatas            a    Receber       ... a Diversos
+            30.000,00                                        a Duplicatas a Receber ... 30.000,00
+            C – Juros Ativos .000,00       a Juros Ativos .000,00
+
+                                                                                                        11
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                        50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+No recebimento de duplicatas com juros, há aumento da conta Caixa (entrada de bens) e aumento
+de receitas, além de uma redução em duplicatas a receber (saída de direitos).
+Ativo à Natureza Devedora à Entrada de Bens (Dinheiro) à Debita
+Ativo à Natureza Devedora à Saída de Direitos (Duplicatas a Receber) à Credita
+Receita à Natureza Credora à Aumento de Receitas (Juros Ativos) à Credita
+
+Observação: a expressão “a diversos” significa que existe mais de uma conta sendo creditada, as
+quais estão logo abaixo especificadas (nesse exemplo são as contas Duplicatas a Receber e Juros
+Ativos). Por outro lado, se aparecer a expressão “diversos” sem a preposição “a”, significa que
+temos mais de uma conta sendo debitada (essas contas também estarão especificadas abaixo da
+conta creditada, conforme você pode observar no exemplo abaixo).
+3ª fórmula: Pagamentos de duplicatas no valor de R$ 20.000,00, com juros de 10%.
+
+                     Lançamento Mecanizado                                Lançamento Manual
+
+            D – Duplicatas a Pagar.000,00             Diversos
+            D – Juros Passivos .000,00            a Caixa
+            C – Caixa .000,00       Duplicatas a Pagar ... 20.000,00
+                                                                Juros Passivos .000,00
+
+No pagamento de duplicatas com juros, há diminuição da conta Caixa (saída de bens) e aumento
+de despesas, além de uma redução em duplicatas a pagar (saída de obrigações).
+Passivo à Natureza Credora à Saída de Obrigações (Duplicatas a Pagar) à Debita
+Despesas à Natureza Devedora à Aumento de Despesas (Juros Passivos) à Debita
+Ativo à Natureza Devedora à Saída de Bens (Dinheiro) à Credita
+
+4ª fórmula: Venda à vista de mercadorias no valor de R$ 60.000,00 ao custo de 40.000,00.
+
+                   Lançamento Mecanizado                                  Lançamento Manual
+
+       D - Caixa .000,00                  Diversos
+       D – CMV* .000,00                 a Diversos
+       C - Vendas .000,00                   Caixa .000,00
+       C - Mercadorias .000,00                     CMV .000,00
+                                                            a Vendas .000,00
+                                                            a Mercadorias .000,00
+
+* CMV = Custo da Mercadoria Vendida. Vamos estudar com maiores detalhes o assunto na aula sobre a
+Demonstração do Resultado do Exercício.
+
+                                                                                                     12
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Na venda de mercadorias, há aumento da conta Caixa (entrada de bens) e aumento de receitas.
+Em contrapartida temos uma redução de mercadorias (saída de bens), ocasionando o surgimento
+do Custo da Mercadoria Vendida – CMV (aumento de despesa).
+Ativo à Natureza Devedora à Entrada de Bens (Dinheiro) à Debita
+Receitas à Natureza Credora à Aumento de Receitas (Vendas) à Credita
+Ativo à Natureza Devedora à Saída de Bens (Mercadorias) à Credita
+Despesa à Natureza Devedora à Aumento de Despesas (CMV) à Debita
+
+(IBRAM) O lançamento de segunda fórmula corresponde a mais de um débito e apenas um
+crédito, enquanto o de terceira fórmula corresponde a um débito e diversos créditos.
+Comentários
+Galera, quando nos depararmos com uma questão desse “naipe”, devemos lembrar da nossa
+tabelinha:
+
+Observe que a questão inverte os conceitos de 2ª e 3ª fórmulas.
+Gabarito: Errado
+
+3.3. Erros de Escrituração e sua correção (retificação)
+Os principais erros de escrituração (lançamento) no livro Diário são: Título; Valor; Inversão; Duplo
+registro; Omissão; Histórico incorreto.
+O lançamento realizado de forma errônea pode ser corrigido (retificado) por meio de:
+   §   Estorno;
+   §   Transferência; e
+   §   Complementação.
+Destaca-se que em qualquer dessas formas o histórico do lançamento deve precisar o motivo da
+correção, a data e a localização do lançamento de origem.
+Vejamos do que se trata cada uma dessas formas de correção:
+
+                                                                                                  13
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                  50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+O estorno consiste em lançamento inverso àquele feito erroneamente, anulando-o integralmente.
+Em regra, a correção envolve dois lançamentos, o de estorno e o que corretamente registra a
+transação.
+Exemplo: Registro errado de compra à vista de veículos
+
+     D – Veículos
+     C – Fornecedores .000
+
+Lançamento de estorno:
+
+     D – Fornecedores
+     C – Veículos .000
+
+Após o estorno, realiza-se o registro correto a fim de registrar a compra à vista de veículos:
+
+     D – Veículos
+     C – Caixa .000
+
+A transferência, por sua vez, consiste no estorno parcial. É aquele que promove a regularização de
+conta indevidamente debitada ou creditada, por meio da transposição do registro para a conta
+adequada. A transferência permite a correção do erro mediante um único lançamento. Assim, não
+há necessidade de estornar integralmente o lançamento errado.
+Exemplo: Registro errado de compra à vista de veículos
+
+     D – Veículos
+     C – Fornecedores .000
+
+Como o erro foi apenas na conta creditada (fornecedores), efetuamos o estorno somente nessa
+conta e, em seu lugar, creditamos a conta correta:
+
+     D – Fornecedores
+     C – Caixa .000
+
+A complementação, por fim, consiste em complementar, aumentando ou reduzindo o valor
+anteriormente registrado. Assim, repete-se o lançamento errado e registra-se a diferença de valor.
+Exemplo: Registro errado de compra à vista de veículos no valor de R$ 15.000,00, sendo o correto
+R$ 20.000,00.
+
+                                                                                                 14
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 50
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+     D – Veículos
+     C – Caixa .000
+
+Assim, o lançamento de complementação seria:
+
+     D – Veículos
+     C – Caixa .000
+
+(TRT-10) A retificação de lançamento é o processo técnico de correção de registro que tenha sido
+realizado com erro na escrituração contábil da entidade e pode ser feita por meio de estorno,
+transferência ou complementação.
+Comentários
+Perfeito! Trata-se da definição exata da retificação (correção) de lançamento.
+Gabarito: Certo
+(IBRAM) O lançamento suplementar serve para estornar o registro original que foi lançado com
+valor inferior ao devido.
+Comentários
+Como vimos, o lançamento suplementar serve para complementar o registro original que foi
+lançado com valor inferior ao devido.
+Gabarito: Errado
+
+
+               4 – ESCRITURAÇÃO DE OPERAÇÕES TÍPICAS
+Para abordarmos esse ponto, vamos nos valer de um exemplo doutrinário adaptado para o nosso
+propósito em que constam as principais operações elaboradas por uma empresa comercial. Sendo
+assim, para cada operação vamos:
+a. Identificar os efeitos do fato contábil e classificá-lo;
+b. Efetuar os lançamentos em razonete e em diário;
+A empresa comercial “Tchê Bagual” realizou as seguintes operações durante determinado ano:
+Operação 1: Subscrição de capital com integralização em dinheiro no valor de R$100.000.
+Operação 2: Depósito bancário no valor de R$40.000.
+Operação 3: Compra de mercadorias a prazo por R$20.000, aceitando duplicatas.
+Operação 4: Aplicação financeira no valor de R$10.000.
+Operação 5: Obtenção de empréstimo bancário no valor de R$3.000.
+
+                                                                                              15
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Operação 6: Venda de mercadorias à vista por R$10.000, com lucro de 20% sobre o preço de
+venda.
+Operação 7: Apropriação da folha de pagamento no valor de R$2.000.
+Operação 8: Apropriação de rendimentos financeiros no valor de R$1.000.
+Operação 9: Pagamento de duplicata no valor de R$4.000, em dinheiro, com juros de 10%.
+Operação 10: Pagamento, em dinheiro, de despesas administrativas no valor de R$500.
+Operação 11: Pagamento dos salários provisionados em dinheiro.
+Operação 12: Compra de veículo para uso por R$20.000, sendo 10% à vista, em dinheiro, e o
+restante a prazo.
+Operação 13: Pagamento, em cheque, de duplicata no valor de R$6.000, com desconto de 10%.
+Operação 14: Desconto de R$ 5.000 em duplicatas a vencer no prazo de 30 dias, sob a taxa de
+juros de 10% ao mês.
+Bem, pessoal, mãos à obra! Vamos destrinchar as operações!
+Operação 1: Subscrição de capital com integralização em dinheiro no valor de R$100.000.
+A subscrição de capital nada mais é do que a colocação de recursos (bens e/ou direitos) na
+empresa. Na operação acima a subscrição foi realizada em dinheiro.
+Efeitos do fato contábil à aumento na conta caixa (+A) e aumento na conta capital social (+ PL).
+Classificação à trata-se de um fato modificativo aumentativo (+A; +PL)
+Lançamentos em razonete
+
+                               Caixa                                      Capital Social
+
+
+       (1)          100.000                                                         100.000   (1)
+
+                    100.000                                                         100.000
+
+Lançamentos no diário
+
+     D – Caixa
+     C – Capital Social ... 100.000
+
+Estudaremos com maiores detalhes o assunto de subscrição e integralização de capital nas
+questões comentadas.
+
+
+                                                                                                    16
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                    50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+Operação 2 à Depósito bancário no valor de R$40.000.
+Efeitos do fato contábil à saída na conta caixa (- A) e entrada de valor na conta bancos (+ A).
+Classificação à trata-se de um fato permutativo (-A; +A)
+Lançamentos em razonete
+
+                                   Caixa                                          Bancos
+
+
+           (1)          100.000        40.000          (2)      (2)      40.000
+
+                          60.000                                           40.000
+
+Lançamentos no diário
+
+         D – Bancos
+         C – Caixa ... 40.000
+
+Operação 3 à Compra de mercadorias a prazo por R$20.000, aceitando duplicatas.
+Efeitos do fato contábil à entrada de valor na conta estoque (+A) e surgimento de uma obrigação
+(+P).
+Classificação à trata-se de um fato permutativo (+A; +P)
+Lançamentos em razonete
+
+                         Estoque                                      Duplicatas a Pagar
+
+
+(3)               20.000                                                           20.000      (3)
+
+                  20.000                                                           20.000
+
+Lançamentos no diário
+
+         D – Estoques
+         C – Duplicatas a Pagar ... 20.000
+
+Operação 4 à Aplicação financeira no valor de R$10.000.
+
+                                                                                                     17
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+            www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+Pessoal, antes de procedermos com os nossos registros, cabe destacar que em operações
+financeiras (caso da operação 4) devemos visualizar três momentos diferentes:
+Momento 1 à aplicação
+Ocorre somente uma troca de valores entre componentes patrimoniais (+A, -A).
+Momento 2 à apropriação1 dos rendimentos
+Há o reconhecimento da aplicação financeira pelo rendimento obtido, ou seja, houve um aumento
+de PL em virtude de uma receita financeira (+A, +PL).
+Momento 3 à resgate
+É o inverso da aplicação, ou seja, a empresa resgata o valor da aplicação e retorna para a conta
+no banco (+A,-A). Nesse caso, somam-se os rendimentos apropriados, se houver.
+Considerações realizadas, passemos ao registro da operação.
+Efeitos do fato contábil à diminuição de valor da conta Bancos (-A) e aumento de valor da conta
+Aplicação Financeira (+A).
+Classificação à trata-se de um fato permutativo (-A; +A)
+Lançamentos em razonete
+
+                           Banco                                Aplicações Financeiras
+
+
+(2)               40.000          10.000         (4)      (4)      10.000
+
+                  30.000                                           10.000
+
+Lançamentos no diário
+
+         D – Aplicações Financeiras
+         C – Banco ... 10.000
+
+Operação 5 à Obtenção de empréstimo bancário no valor de R$3.000.
+Na obtenção de empréstimos temos a mesma linha de raciocínio das aplicações financeiras, senão
+vejamos:
+Momento 1 à obtenção do empréstimo
+Ocorre somente uma troca de valores entre componentes patrimoniais (+A, +P).
+
+1
+    Apropriar significa reconhecer a ocorrência do fato gerador de uma receita ou despesa.
+
+                                                                                               18
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+            www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+Momento 2 à apropriação dos juros (provisão dos encargos financeiros)
+Há o reconhecimento da apropriação dos encargos financeiros incidentes sobre a operação, ou
+seja, houve uma diminuição do PL em virtude de uma despesa financeira e o aumento do passivo
+(+P, -PL).
+Momento 3 à pagamento (quitação da dívida)
+Corresponde à saída de valor da conta bancos para quitar a obrigação assumida (-A, -P).
+Vamos aos registros...
+Efeitos do fato contábil à aumento de valor da conta Bancos (+A) e aumento de valor da conta
+Empréstimos Bancários (+P).
+Classificação à trata-se de um fato permutativo (+A; +P)
+Lançamentos em razonete
+
+                           Banco                                Empréstimos Bancários
+
+
+(2)               40.000       10.000          (4)                                 3.000       (5)
+
+(5)                3.000
+
+                  33.000                                                           3.000
+
+Lançamentos no diário
+
+         D – Banco
+         C – Empréstimos Bancários ... 3.000
+
+Operação 6 à Venda de mercadorias à vista por R$10.000, com lucro de 20% sobre o preço de
+venda.
+Trata-se de uma operação de venda. Pessoal, em qualquer operação de venda sempre haverá, no
+mínimo, dois momentos.
+Momento 1 à Reconhecimento da venda
+Corresponde ao valor de entrada, vale dizer, o preço pelo qual a mercadoria foi vendida.
+Momento 2 à Reconhecimento do custo
+Corresponde ao valor de saída, ou seja, ao custo da mercadoria que foi baixada do estoque da
+entidade.
+Aqui cabe uma observação: perceba que falamos em “no mínimo” dois momentos. Ocorre que
+nas operações de vendas, em geral, registramos além do reconhecimento da venda e do custo, o
+reconhecimento dos impostos incidentes sobre as vendas e o reconhecimento de devoluções,
+
+
+                                                                                                     19
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+            www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+abatimentos, descontos e cancelamentos, se houver. Essas operações serão detalhadas em
+momento oportuno do nosso curso.
+Efeitos do fato contábil à entrada de valor na conta Caixa (+A); saída de valor do estoque (-A); e
+aumento no PL, decorrente da receita com vendas (+PL).
+Classificação à trata-se de um fato misto aumentativo (+A; -A; +PL)
+Para efetuarmos os registros, vamos calcular o valor do lucro e o valor do custo.
+Preço de venda: 10.000
+Lucro: 20% de 10.000 = 2.000
+Custo: 10.000 - 2.000 = 8.000
+
+
+Lançamentos em razonete
+Pelo reconhecimento da venda
+
+                           Caixa                                   Receita c/ Vendas
+
+
+(1)               100.000         40.000       (2)                                 10.000      (6)
+
+(6)               10.000
+
+                  70.000                                                           10.000
+
+Pelo reconhecimento do custo
+
+                         Estoque                                            CMV
+
+
+(3)               20.000           8.000       (6)      (6)        8.000
+
+                  12.000                                           8.000
+
+Lançamentos no diário
+Pelo reconhecimento da venda
+
+         D – Caixa
+         C – Receita c/ Vendas ... 10.000
+
+Pelo reconhecimento do custo
+
+                                                                                                     20
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+            www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+         D – CMV
+         C – Estoque .000
+
+Operação 7 à Apropriação da folha de pagamento no valor de R$2.000.
+Antes de efetuarmos o registro, cabe destacarmos alguns pontos para melhor compreensão.
+Nesse fato, temos o reconhecimento de uma despesa já incorrida, vale dizer, cujo fato gerador já
+ocorreu, mas que ainda não foi paga. Tal fato decorre do regime da competência, previsto na
+Estrutura Conceitual (CPC 00) segundo o qual as receitas e as despesas devem ser reconhecidas
+no momento da ocorrência do seu fato gerador, independentemente de recebimento ou de
+pagamento.
+Bem, no caso da folha de pagamento, os salários dos colaboradores são pagos no início do mês
+subsequente ao trabalhado. Entretanto, os trabalhadores fizeram jus a esse salário ao final do mês
+trabalhado (mês anterior). Sendo assim, o fato gerador da despesa com salários ocorreu ao final
+do mês anterior. Portanto, em obediência ao regime da competência (CPC 00), a empresa deve
+reconhecer a despesa com salários ao final do mês trabalhado, para pagamento posterior.
+Considerações realizadas, vamos ao registro da operação.
+Efeitos do fato contábil à reconhecimento de uma despesa, diminuindo o PL (-PL) e surgimento
+de uma obrigação (+P).
+Classificação à trata-se de um fato modificativo diminutivo (+P; -PL)
+Lançamentos em razonete
+
+                       Desp. c/ Salários                             Salários a Pagar
+
+
+(7)                2.000                                                           2.000       (7)
+
+                   2.000                                                           2.000
+
+Lançamentos no diário
+
+         D – Despesa com Salários
+         C – Salários a Pagar ... 2.000
+
+Operação 8 à Apropriação de rendimentos financeiros no valor de R$1.000.
+Chegou a hora de apropriarmos os rendimentos financeiros da aplicação.
+Efeitos do fato contábil à aumento no saldo da aplicação financeira (+A) e reconhecimento de
+uma receita, aumentando o PL da empresa (+PL).
+
+                                                                                                     21
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+            www.estrategiaconcursos.com.br
+
+                                           
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Classificação à trata-se de um fato modificativo aumentativo (+A; +PL)
+Lançamentos em razonete
+
+                                                                  Rendimentos
+              Aplicação Financeira                                 Financeiros
+
+       (4)    10.000                                                         1.000         (8)
+
+       (8)     1.000
+
+              11.000                                                         1.000
+
+Lançamentos no diário
+
+     D – Aplicação Financeira
+     C – Rendimentos Financeiros ... 1.000
+
+Operação 9 à Pagamento de duplicata no valor de R$4.000, em dinheiro, com juros de 10%.
+Efeitos do fato contábil à baixa na obrigação (duplicatas a pagar) (-P), diminuição da conta caixa
+(-A) e reconhecimento de uma despesa (juros passivos), diminuindo o PL (-PL).
+Classificação à trata-se de um fato misto diminutivo (-A; -P; -PL)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 4.000,00
+Despesa de juros (10%): 400,00
+Valor desembolsado: 4.400,00
+Lançamentos em razonete
+
+                       Caixa                                   Duplicatas a Pagar
+
+
+        (1)   100.000         40.000       (2)      (9)        4.000           20.000      (3)
+
+        (6)   10.000           4.400       (9)
+
+
+              65.600                                                           16.000
+
+
+                                                                                                 22
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+                                            Juros Passivos
+
+
+                                 (9)      400
+
+                                          400
+
+Lançamentos no diário
+
+         D – Duplicatas a Pagar .000
+         D – Juros Passivos 
+         C – Caixa .400
+
+Operação 10 à Pagamento, em dinheiro, de despesas administrativas no valor de R$500.
+Efeitos do fato contábil à saída de valor da conta caixa (-A) e reconhecimento de uma despesa,
+diminuindo o PL (-PL).
+Classificação à trata-se de um fato modificativo diminutivo (-A; -PL)
+Lançamentos em razonete
+
+                                                                        Despesas
+                           Caixa                                      Administrativas
+
+
+(1)             100.000        40.000           (2)    (10)     500
+
+(6)             10.000         4.400            (9)
+
+
+                               500              (10)
+
+
+                65.100                                          500
+
+Lançamentos no diário
+
+         D – Despesas Administrativas
+         C – Caixa ... 500
+
+Operação 11 à Pagamento dos salários provisionados em dinheiro.
+Efeitos do fato contábil à saída de valor da conta caixa (-A) e a baixa de uma obrigação (-P).
+Classificação à trata-se de um fato permutativo (-A; -P)
+
+                                                                                                 23
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 50
+            www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+Lançamentos em razonete
+
+                           Caixa                                     Salários a Pagar
+
+
+(1)               100.000         40.000       (2)     (11)         2.000          2.000       (7)
+
+(6)               10.000           4.400       (9)
+
+
+                                    500        (10)             0
+
+                                   2.000       (11)
+
+
+                  63.100
+
+Lançamentos no diário
+
+         D – Salários a Pagar
+         C – Caixa ... 2.000
+
+Operação 12 à Compra de veículo para uso por R$20.000, sendo 10% à vista, em dinheiro, e o
+restante a prazo.
+Efeitos do fato contábil à entrada de valor na conta Veículos (+A); saída de valor da conta Caixa
+(-A); e entrada de valor na conta Financiamentos a Pagar (+P).
+Classificação à trata-se de um fato permutativo (+A; -A; +P)
+Lançamentos em razonete
+
+                           Caixa                                Financiamentos a Pagar
+
+                                                                                   18.000
+(1)               100.000         40.000       (2)                                             (12)
+
+(6)               10.000           4.400       (9)
+
+
+                                    500        (10)
+
+
+                                   2.000       (11)                                18.000
+
+                               2.000           (12)
+
+
+                61.100
+
+                                                                                                      24
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                      50
+            www.estrategiaconcursos.com.br
+
+                                          
+
+
+---
+
+      Gilmar Possati
+      Aula 04
+
+                                                       Veículos
+
+                                   (12)       20.000
+
+                                              20.000
+
+Lançamentos no diário
+
+         D – Veículos .000
+         C – Financiamento a Pagar ... 18.000
+         C – Caixa .000
+
+Operação 13 à Pagamento, em cheque, de duplicata no valor de R$6.000, com desconto de 10%.
+Efeitos do fato contábil à baixa de obrigação (duplicata a pagar) (-P); saída de valor da conta
+Bancos (-A); e reconhecimento de uma receita (descontos obtidos), aumentando o PL (+PL).
+Classificação à trata-se de um fato misto aumentativo (-A; -P; +PL)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 6.000,00
+Desconto obtido (10%): 600,00
+Valor desembolsado: 5.400,00
+Lançamentos em razonete
+
+                           Banco                                   Duplicatas a Pagar
+
+
+(2)               40.000          10.000       (4)       (9)       4.000           20.000      (3)
+
+(5)                3.000           5.400       (13)     (13)       6.000
+
+                                                                                   10.000
+
+                  27.600
+
+                                               Descontos Obtidos
+
+                                                                                                     25
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+            www.estrategiaconcursos.com.br
+
+                                          
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                                                               600          (13)
+
+                                                               600
+
+Lançamentos no diário
+
+     D – Duplicatas a Pagar .000
+     C – Banco .400
+     C – Descontos Obtidos 
+
+Operação 14 à Desconto de R$ 5.000 em duplicatas a vencer no prazo de 30 dias, sob a taxa de
+juros de 10% ao mês.
+Pessoal, essa é uma operação muito comum no âmbito corporativo. Como as empresas atualmente
+necessitam realizar muitas vendas a prazo, ocorre que em muitos casos falta liquidez para a
+empresa comprar mercadorias para venda. Sendo assim, uma saída muito utilizada é o desconto
+de duplicatas. Nessa operação, a entidade entrega as duplicatas de sua emissão ao Banco. Este
+promoverá a cobrança dessas duplicatas e antecipará à entidade o valor respectivo, obviamente
+que para tanto cobrará juros e despesas bancárias, por ocasião da operação financeira. Perceba
+que na essência essa operação corresponde a um empréstimo. Por isso a conta Duplicatas
+Descontadas atualmente é classificada no Passivo, pois representa uma obrigação da empresa
+perante o banco.
+Destaca-se que a empresa nessa operação assume responsabilidade solidária, pois caso o cliente
+não realize o pagamento na data prevista, o banco debita o valor da duplicata na conta corrente
+da empresa.
+Entendido a essência da operação de desconto de duplicatas, vejamos como se efetiva o seu
+registro.
+Efeitos do fato contábil à aumento do saldo da conta Bancos (+A); aumento do saldo da conta
+Encargos Financeiros a Transcorrer (a vencer) (-P); e aumento do saldo da conta Duplicatas
+Descontadas (+P).
+Classificação à trata-se de um fato permutativo (+A; -P; +P)
+Antes de efetuarmos os registros vejamos os valores envolvidos.
+Valor da duplicata: 5.000,00
+Encargos Financeiros (10%): 500,00
+Valor Ativado na conta Bancos: 4.500,00
+
+
+                                                                                             26
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Lançamentos em razonete
+
+                        Banco                                  Duplicatas Descontadas
+
+
+        (2)    40.000           10.000        (4)                               5.000      (14)
+
+        (5)     3.000            5.400        (13)
+
+
+       (14)     4.500                                                           5.000
+
+               32.100
+
+                                           Encargos Financeiros a
+                                                Transcorrer
+
+                                 (14)         500
+
+                                              500
+
+Lançamentos no diário
+
+     D – Banco .500
+     D – Encargos Financeiros a Transcorrer 
+     C – Duplicatas Descontadas .000
+
+A conta encargos financeiros a transcorrer, nesse caso, é uma conta retificadora da conta duplicatas
+descontadas.
+Pessoal, para finalizar a operação de duplicatas descontadas devemos saber que no vencimento
+das duplicatas temos três hipóteses:
+1ª Hipótese à O cliente paga as duplicatas. Nesse caso a empresa registra o seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber
+
+Usando os dados do nosso exemplo, teríamos:
+
+     D – Duplicatas Descontadas
+
+
+                                                                                                  27
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                  50
+        www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+     C – Duplicatas a Receber .000
+
+Perceba que zeramos o saldo da conta duplicatas descontadas e demos baixa nas duplicatas a
+receber, afinal o cliente efetuou o pagamento.
+2ª Hipótese à O cliente não paga as duplicatas. Nesse caso a empresa registra o seguinte
+lançamento:
+
+     D – Duplicatas Descontadas
+     C – Bancos
+
+Como o cliente não pagou as duplicatas no vencimento para o banco, a empresa efetua o
+pagamento, pois é responsável solidária. Observe que não há, nesse caso, baixa das duplicatas a
+receber, pois ocorreu o vencimento e não foram pagas pelo cliente.
+Usando os dados do nosso exemplo, teríamos:
+
+     D – Duplicatas Descontadas
+     C – Bancos .000
+
+3ª Hipótese à O cliente paga apenas uma parte do valor das duplicatas. Nesse caso a empresa
+registra o seguinte lançamento:
+
+     D – Duplicatas Descontadas
+     C – Duplicatas a Receber
+     C – Bancos
+
+Voltando ao nosso exemplo, digamos que o cliente efetuou o pagamento de apenas R$ 3.000,00.
+Assim, teríamos:
+
+     D – Duplicatas Descontadas .000
+     C – Duplicatas a Receber .000
+     C – Bancos .000
+
+Como o cliente pagou apenas 3.000,00, a empresa baixa esse valor das duplicatas a receber e o
+restante (2.000,00) quem paga é a empresa.
+Vale destacar que os Encargos Financeiros a Transcorrer precisam ser baixados em seu vencimento,
+de acordo com a competência (nesse nosso exemplo 30 dias, pois foi somente uma parcela). Assim,
+devemos efetuar o seguinte registro:
+
+     D – Despesas Financeiras
+
+
+                                                                                              28
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+     C – Encargos Financeiros a Transcorrer ... 500,00
+
+Vamos ver um “exemplo real”!
+
+(SEFIN-RO) Em 01/06/X9, a empresa Dara efetuou o desconto de duplicatas no valor de R$
+30.000,00, cujo vencimento era 31/07/X9, à taxa de juros de 2,5% a.m. (juros simples).
+As despesas cobradas pelo banco foram de R$ 500,00. Sabendo que no dia 31/07/X9 o cliente
+não pagou a duplicata, a empresa, nesta data, debitou:
+a) Duplicatas Descontadas e creditou Disponível, no valor de R$ 28.000,00.
+b) Duplicatas Descontadas e creditou Clientes, no valor de R$ 30.000,00.
+c) Perdas com Clientes e creditou Clientes, no valor de R$ 28.000,00.
+d) Duplicatas Descontadas e creditou Disponível, no valor de R$ 30.000,00.
+e) Disponível e creditou Duplicatas Descontadas no valor de R$ 28.000,00.
+Comentários
+Essa é uma típica questão que exige conhecimentos das operações de descontos de duplicatas.
+Em um primeiro momento parece uma questão difícil, não é mesmo? Mas, sabendo as 3 hipóteses
+que acabamos de estudar não tem erro! Vamos à resolução.
+Primeiramente, devemos enquadrar em uma das hipóteses (1ª – o cliente pagou; 2ª – o cliente não
+pagou; e 3ª – o cliente pagou parcialmente).
+No caso apresentado pela banca, o cliente não pagou a duplicata. Nesse caso, a empresa deveria
+efetuar o seguinte lançamento:
+D – Duplicatas Descontadas
+C – Bancos (disponível) ... 30.000
+Gabarito: D
+
+Veja que nesse tipo de questão nem precisamos entrar no mérito dos juros pagos, pois a questão
+pede a contabilização no vencimento!
+Mas, professor, e se a questão pedisse a contabilização na data da operação do desconto
+(01/06/X9), qual o lançamento a ser registrado?
+Bem, pessoal, nesse caso teríamos que efetuar os cálculos. Vejamos como ficaria:
+Valor das Duplicatas = 30.000,00
+Taxa mensal = 2,5% a.m.
+Prazo até o vencimento = 2 meses
+Juros a serem pagos = 30.000,00 x (2 meses x 2,5%) = 1.500,00
+Despesas Bancárias = 500,00
+
+
+                                                                                             29
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                             50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Valor líquido a ser recebido pela entidade (01/06/X9) = 28.000,00
+De posse dessas informações, vamos aproveitar para ver todos os lançamentos:
+Em 01/06/x9, foi feito o seguinte lançamento:
+
+     D - Banco ... 28.000
+     D - Encargos financeiros a transcorrer ...1.500 (=30.000 x 2,5% x 2) ***
+     D - Despesas Bancárias ... 500
+     C - Duplicatas descontas ... 30.000
+
+Em 30/06/x9, foi feito o seguinte lançamento:
+
+     D - Juros passivos ... 750
+     C- Encargos financeiros a transcorrer ... 750 ***
+
+Em 31/07/x9, foram feitos os seguintes lançamentos:
+1) apropriação dos encargos financeiros
+
+     D - Juros passivos ... 750
+     C- Encargos financeiros a transcorrer ... 750 ***
+
+2) pagamento da duplicata
+
+     D - Duplicatas descontas ... 30.000
+     C – Banco ... 30.000
+
+3) baixa da duplicata não paga (considerando não haver estimativa de crédito de liquidação
+duvidosa pré constituída)
+
+     D - Perdas com créditos de liquidação duvidosa ... 30.000
+     C - Duplicatas a receber ... 30.000
+
+*** Perceba que o encargo financeiro vai sendo apropriado pelo regime de competência ao final
+de cada mês (mesmo que tenha sido pago no momento do desconto da duplicata).
+Observe que a conta "encargos financeiros a transcorrer" registra o valor cobrado pelo Banco para
+"adiantar" o pagamento da duplicata. O fato gerador da despesa financeira oriunda do citado
+encargo financeiro é o decorrer do tempo. Nas questões comentadas vamos retornar ao assunto.
+
+                                                                                               30
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                          5 – BALANCETE DE VERIFICAÇÃO
+5.1. Definição e objetivo
+O Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não obrigatório, levantado para
+fins operacionais. É composto por todas as contas com os seus respectivos saldos, extraídos do
+Livro Razão.
+O objetivo do Balancete de Verificação é verificar se o método das partidas dobradas foi
+obedecido ao longo do processo de escrituração dos fatos contábeis, ou seja, se os débitos e
+créditos foram efetuados corretamente.
+
+5.2. Elementos mínimos
+O Balancete de Verificação possui os seguintes elementos mínimos:
+a) identificação da entidade;
+b) data a que se refere;
+c) abrangência;
+d) identificação das contas e respectivos grupos;
+e) indicação dos saldos das contas (devedores ou credores);
+f) soma dos saldos devedores e credores.
+
+5.3. Tipos de balancete/estrutura
+Os balancetes podem ser de 4 tipos, de acordo com o número de colunas: 2, 4, 6 ou 8 colunas.
+Assim, quanto maior o número de colunas, maior será o detalhamento da informação.
+A estrutura do balancete de verificação de 2 colunas (o mais comum) é composta por uma coluna
+para os saldos devedores e outra para os saldos credores.
+A seguir temos um modelo básico do balancete de 2 colunas:
+
+                   Contas                          Saldo Devedor                           Saldo Credor
+                                                      Coluna 1                              Coluna 2
+
+
+       Total
+
+                                                                                                          31
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                          50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Já o balancete de 4 colunas possui mais duas colunas indicando os movimentos:
+
+                                         Movimentos
+            Contas                                                       Saldo Devedor             Saldo Credor
+                                  Devedor             Credor
+                                  Coluna 1           Coluna 2                Coluna 3                Coluna 4
+
+
+ Total
+
+No balancete de 6 colunas, o saldo anterior, os movimentos e o saldo atual são apresentados em
+duas colunas cada, conforme modelo a seguir:
+
+                                 Saldo Anterior                     Movimentos                    Saldo Atual
+         Contas
+                             Devedor          Credor            Devedor        Credor       Devedor        Credor
+                            Coluna 1         Coluna 2           Coluna 3      Coluna 4      Coluna 5      Coluna 6
+
+
+ Total
+
+Por fim, no balancete de 8 colunas, temos mais duas colunas para os saldos relativos ao movimento
+do período. Assim, temos:
+
+                                                         Movimentos
+                     Saldo Anterior                                                               Saldo Atual
+    Contas                                                                  Saldos
+                                              D            C
+                      D          C                                      D            C        D             C
+                      C1        C2           C3            C4          C5          C6        C7            C8
+ Total
+
+Observe que a coluna com o nome das contas não é considerada no número de colunas. Cada
+linha do balancete indica uma conta contábil. As colunas, por sua vez, os débitos e créditos,
+conforme o caso.
+Independente da sua estrutura, a consequência lógica do balancete é a seguinte: como o valor
+total debitado corresponde ao valor total creditado, então o somatório dos débitos corresponde
+ao somatório dos créditos efetuados. Sendo assim, se os totais divergirem entre si, ficará
+evidenciado erro na escrituração e desobediência ao método das partidas dobradas.
+
+(Polícia Federal) Em um balancete de seis colunas, apresentam-se, inicialmente, os saldos
+existentes nas rubricas contábeis no final do período anterior, seguidos da letra D ou C, que
+indicam se o referido saldo é devedor ou credor, respectivamente.
+
+                                                                                                                    32
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                                    50
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Comentários
+A redação dessa questão não é das melhores, infelizmente, mas é uma das únicas questões sobre
+balancete de seis colunas já exigidas em prova de grande expressão. No balancete de seis colunas
+temos duas colunas indicando o saldo anterior, duas colunas indicando o movimento e duas
+colunas indicando o saldo atual.
+Observe acima na estrutura apresentada que inicialmente (as duas primeiras colunas) realmente
+esse tipo de balancete apresenta os saldos do período anterior. No entanto, não são apenas essas
+as colunas apresentadas, motivo pelo qual, a nosso ver, a questão foi considerada errada. Reitero,
+no entanto, que a redação poderia ser bem mais clara, não é mesmo? Vida que segue!
+Gabarito: Errado
+(Polícia Federal) O balancete de verificação pode ser levantado em modelos que vão de um
+mínimo de duas colunas a um máximo de seis colunas.
+Comentários
+O balancete de verificação pode ter até 8 colunas.
+Gabarito: Errado
+(SUFRAMA) Cabe ao contador escolher a quantidade de colunas a ser adotada no balancete de
+verificação, desde que respeitado o limite máximo de seis colunas.
+Comentários
+O limite máximo é de 8 colunas.
+Gabarito: Errado
+(FUB) O balancete de verificação será elaborado em até oito colunas, na qual são apresentados
+os saldos iniciais, o movimento, os saldos do período e os saldos finais.
+Comentários
+Isso mesmo! Saldos iniciais (2 colunas), o movimento (2 colunas), os saldos do período (2 colunas)
+e os saldos finais (2 colunas).
+Gabarito: Certo
+(TRE-BA) Os modelos de balancetes de verificação utilizados incluem o de oito colunas, que
+demonstra os saldos anteriores, o movimento, os saldos do período e os saldos atuais.
+Comentários
+Para fixar! Praticamente igual à questão anterior.
+Gabarito: Certo
+(FUB) A diferença entre os modelos de balancete de 6 e de 8 colunas corresponde aos saldos
+devedores e credores que dizem respeito ao movimento do período, constantes no segundo
+modelo e ausentes no primeiro.
+
+
+                                                                                                33
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Comentários
+Exatamente! A questão descreve a diferença entre os balancetes de 6 e 8 colunas.
+Gabarito: Certo
+(ABIN) O balancete de verificação é um relatório de conferência que corresponde a uma simples
+listagem dos saldos devedores e credores, cujos totais devem ser iguais.
+Comentários
+O item aborda corretamente as principais características do balancete de verificação, conforme
+acabamos de estudar.
+Gabarito: Certo
+
+Resumindo as estruturas dos balancetes, temos:
+     Tipo
+                                                                Estrutura
+   (colunas)
+
+    Duas           saldo devedor (D); saldo credor (C)
+
+   Quatro          movimentos (D/C); saldo devedor (D); saldo credor (C)
+
+     Seis          saldo anterior (D/C), movimento (D/C); saldo atual (D/C)
+
+     Oito          saldo anterior (D/C); movimento (D/C) e Saldos (D/C); saldo atual (D/C)
+
+* saldo anterior pode também ser denominado de “saldo do período anterior” ou “saldo inicial”
+** saldo atual pode também ser denominado de “saldo final”
+Vamos aproveitar o exemplo visto no tópico anterior da nossa aula e fecharmos o balancete de
+verificação da empresa “Tchê Bagual”.
+                    Empresa Tchê Bagual - Balancete de Verificação em 31/12/20X1
+                          Contas                                   Saldo Devedor           Saldo Credor
+                           Caixa                                       61.100
+                         Bancos                                        32.100
+                   Aplicação Financeira                                11.000
+                         Estoque                                       12.000
+                         Veículos                                      20.000
+                    Duplicatas a Pagar                                                       10.000
+                 Empréstimos Bancários                                                       3.000
+                 Duplicatas Descontadas                                                      5.000
+            Encargos Financeiros a Transcorrer                            500
+                     Salários a Pagar                                                         0,00
+                 Financiamentos a Pagar                                                      18.000
+
+
+                                                                                                          34
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                          50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                           Capital                                                         100.000
+                      Receita c/ Vendas                                                     10.000
+                            CMV                                          8.000
+                    Despesa com Salários                                 2.000
+                   Rendimentos Financeiros                                                  1.000
+                       Juros Passivos                                     400
+                   Despesas Administrativas                               500
+                     Descontos Obtidos                                                       600
+                            Total                                       147.600            147.600
+Está fechado o nosso balancete! Destaca-se que o fato de o somatório dos saldos devedores ser
+igual ao somatório dos saldos credores não significa que a escrituração está 100% correta. Existem
+erros que não podem ser detectados pelo levantamento do balancete, quais sejam: omissão de
+registro, erro de título, determinados registros em duplicidade, entre outros. Obviamente que as
+bancas sabem desse detalhe e certamente já foi alvo de exigência.
+
+(ABIN) Quando a soma dos saldos credores for igual à soma dos saldos devedores no balancete
+de verificação, não haverá nenhum erro nos lançamentos contábeis do período.
+Comentários
+Questão de fixação! Como acabamos de ver, o fato de o somatório dos saldos devedores ser igual
+ao somatório dos saldos credores não significa que a escrituração está 100% correta, pois existem
+erros que não podem ser detectados pelo levantamento do balancete.
+Gabarito: Errado
+
+Para finalizar o tópico referente ao balancete de verificação cabe destacar que o balancete pode
+ser sintético ou analítico. O balancete sintético relaciona apenas as contas principais ou de primeiro
+grau (exemplo: conta “Bancos”). O balancete analítico relaciona as subcontas de segundo, terceiro
+e demais graus (exemplo: conta “Banco do Brasil S.A”).
+
+(ABIN) O balancete analítico relaciona as subcontas de segundo, terceiro e outros graus e o
+balancete sintético relaciona apenas as contas principais ou de primeiro grau.
+Comentários
+Trata-se da classificação dos balancetes de verificação de acordo com o grau das contas que
+relacionam, conforme acabamos de estudar.
+Gabarito: Certo
+
+                                                                                                     35
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                              6 – QUESTÕES COMENTADAS
+1. (CESPE/CAGE-RS/2018) A prescrição ou decadência dos atos consignados no diário não
+eximem o empresário e a entidade empresária da sua guarda por um prazo adicional de cinco
+anos.
+Comentários
+Não previsão no Código Civil desse prazo adicional de 5 anos. Nos termos do Código Civil,
+     Art. 1.194. O empresário e a sociedade empresária são obrigados a conservar em boa guarda toda
+     a escrituração, correspondência e mais papéis concernentes à sua atividade, enquanto não ocorrer
+     prescrição ou decadência no tocante aos atos neles consignados.
+
+Gabarito: Errado
+2. (CESPE/CAGE-RS/2018) Antes de ser colocado em uso, o livro diário deverá ser autenticado no
+Registro Público de Empresas Mercantis, salvo disposição especial de lei.
+Comentários
+É o que dispõe o art. 1.181 do Código Civil, senão vejamos:
+     Art. 1.181. Salvo disposição especial de lei, os livros obrigatórios e, se for o caso, as fichas, antes
+     de postos em uso, devem ser autenticados no Registro Público de Empresas Mercantis.
+
+Gabarito: Certo
+3. (CESPE/CAGE-RS/2018) Mesmo no caso de escrituração mecanizada ou eletrônica, o diário não
+poderá ser substituído por fichas.
+Comentários
+O Diário pode sim ser substituído por fichas. Veja o que dispõe o Código Civil:
+     Art. 1.180. Além dos demais livros exigidos por lei, é indispensável o Diário, que pode ser
+     substituído por fichas no caso de escrituração mecanizada ou eletrônica
+
+Gabarito: Errado
+4. (CESPE/CAGE-RS/2018) O balanço patrimonial e o de resultado econômico devem ser lançados
+em livro distinto do diário.
+Comentários
+Ambos demonstrativos devem ser lançados no diário.
+     Art. 1184 § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico,
+     devendo ambos ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo
+     empresário ou sociedade empresária
+Gabarito: Errado
+
+5. (CESPE/CAGE-RS/2018) No diário, deve constar unicamente a assinatura do técnico em ciências
+contábeis legalmente habilitado e responsável pelos lançamentos nele efetuados.
+Comentários
+
+                                                                                                         36
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                          50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Nos termos do Código Civil,
+       Art. 1184 § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo
+       ambos ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo
+       empresário ou sociedade empresária.
+
+Gabarito: Errado
+6. (CESPE/CAGE-RS/2018) No regime de competência, as receitas são reconhecidas quando são
+ganhas, mesmo que não recebidas.
+Comentários
+É isso mesmo. Pelo regime de competência as receitas são reconhecidas pelo fato gerador (quando
+“ganhas”, nos termos do item ora analisado), independentemente de seu recebimento. O mesmo
+raciocínio se aplica às despesas, as quais devem ser reconhecidas no momento do fato gerador,
+independentemente do pagamento.
+Gabarito: Certo
+7. (CESPE/CAGE-RS/2018) No lançamento em livro diário, devem-se descrever o título e o saldo
+da conta.
+Comentários
+Os requisitos das partidas do Diário são os seguintes:
+   §    data do registro contábil, ou seja, a data em que o fato contábil ocorreu;
+   §    conta devedora;
+   §    conta credora;
+   §    histórico que represente a essência econômica da transação ou o código de histórico
+        padronizado, neste caso baseado em tabela auxiliar inclusa em livro próprio;
+   §    valor do registro contábil;
+   §    informação que permita identificar, de forma unívoca, todos os registros que integram um
+        mesmo lançamento contábil.
+É no razão que temos o título da conta e o saldo.
+Gabarito: Errado
+
+8. (CESPE/CAGE-RS/2018) No livro razão, o confronto dos créditos e dos débitos denomina-se
+saldo.
+Comentários
+Perfeito, é isso mesmo. Basta você se lembrar do razonete. Ao confrontarmos os lançamentos a
+crédito e débito de uma conta (os dois lados do razonete) chegamos ao saldo dessa conta.
+Gabarito: Certo
+
+                                                                                                      37
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                      50
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+9. (CESPE/CAGE-RS/2018) De acordo com o regime de competência, as receitas e as despesas
+são consideradas em função dos recebimentos ou dos pagamentos.
+Comentários
+De acordo com o regime de caixa, as receitas e as despesas são consideradas em função dos
+recebimentos ou dos pagamentos.
+Gabarito: Errado
+
+10. (CESPE/PC-MA/2018) As aplicações de recursos são representadas por meio de débitos em
+determinadas rubricas contábeis, enquanto as origens dos recursos aplicados provocam registro a
+crédito em outras rubricas.
+Comentários
+Estudamos o assunto em aula passada. A dica é você relacionar aplicações de recursos com débitos
+(tendo em vista que as aplicações de recursos – ativos e despesas – possuem natureza devedora)
+e origens de recursos com créditos (passivo, PL e receitas possuem natureza credora).
+Gabarito: Certo
+
+11. (CESPE/PC-MA/2018) A aquisição de bens para comercialização a prazo e com juros é um
+exemplo de partida de segunda fórmula.
+Comentários
+Nesse caso temos um lançamento de 3ª fórmula.
+
+     Débito: Estoque
+     Débito: Juros Passivos a Transcorrer (redutora do passivo)
+     Crédito: Fornecedores
+
+Gabarito: Errado
+12. (CESPE/PC-MA/2018) Em uma venda de mercadoria, ocorre a baixa, a crédito, da mercadoria
+vendida, em contrapartida à correspondente conta de receita por venda de mercadorias.
+Comentários
+Sei que pode parecer difícil um item desses na prova. Porém, lembre-se da operação 6 que
+estudamos na parte teórica. Na oportunidade comentamos o seguinte:
+Trata-se de uma operação de venda. Pessoal, em qualquer operação de venda sempre haverá, no
+mínimo, dois momentos.
+Momento 1 à Reconhecimento da venda
+Corresponde ao valor de entrada, vale dizer, o preço pelo qual a mercadoria foi vendida.
+
+
+                                                                                              38
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                              50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Momento 2 à Reconhecimento do custo
+Corresponde ao valor de saída, ou seja, ao custo da mercadoria que foi baixada do estoque da
+entidade.
+Assim, temos os seguintes lançamentos:
+
+     D – Custo da Mercadoria Vendida (CMV)
+     C – Estoques
+
+
+     D – Caixa/banco
+     C – Receita de Vendas
+
+Gabarito: Errado
+
+13. (CESPE/PC-MA/2018) A existência de um conjunto de levantamentos refletindo um elemento
+ou componente formado ou em formação pertencente a um patrimônio, expresso geralmente em
+moeda corrente, é inerente ao método das partidas dobradas.
+Comentários
+Não é muito comum as bancas utilizarem conceitos mais antigos. Porém, nesse item o examinador
+tomou como base uma definição clássica de “contas” presente na obra do teórico Vicenso Mais.
+Basicamente o item nos traz a definição de conta para esse autor. E as contas estão diretamente
+associadas ao método das partidas dobradas.
+Gabarito: Certo
+
+14. (CESPE/TRE-BA/2017) No que se refere à escrituração, o lançamento que consiste na
+regularização da conta indevidamente debitada ou creditada com a transposição do registro para
+a conta adequada é denominado transferência.
+Comentários
+A transferência consiste no estorno parcial. É aquele que promove a regularização de conta
+indevidamente debitada ou creditada, por meio da transposição do registro para a conta
+adequada. A transferência permite a correção do erro mediante um único lançamento. Assim, não
+há necessidade de estornar integralmente o lançamento errado.
+        Dica: memorize a palavra-chave “transposição”. TRANSferência à TRANSposição
+Gabarito: Certo
+
+15. (CESPE/TRE-BA/2017) É obrigatória a escrituração do livro razão por qualquer pessoa jurídica.
+Comentários
+O Razão é facultativo pela legislação societária e obrigatório pelo Regulamento do Imposto de
+Renda (RIR/2018) somente para as entidades obrigadas a declarar o IR com base no Lucro Real.
+
+                                                                                               39
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Gabarito: Errado
+16. (CESPE/TRE-BA/2017) O livro razão, com escrituração sintética, é auxiliar do livro diário.
+Comentários
+O razão é um livro principal. Não é auxiliar.
+Gabarito: Errado
+
+17. (CESPE/TRE-BA/2017) São dispensados no livro razão os termos de abertura e de
+encerramento.
+Comentários
+Tanto o Diário como o Razão devem conter termo de abertura e de encerramento.
+Gabarito: Errado
+18. (CESPE/DPU/2016) Uma das finalidades do balancete de verificação é demonstrar a correta
+aplicação do método das partidas dobradas, pois o total devedor deve ser igual ao total credor,
+ou seja, para cada débito em uma ou mais contas deve haver crédito de igual valor em uma ou
+mais contas.
+Comentários
+Perfeito! O Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não obrigatório,
+levantado para fins operacionais. É composto por todas as contas com os seus respectivos saldos,
+extraídos do Livro Razão.
+Seu objetivo é verificar se o método das partidas dobradas foi obedecido ao longo do processo
+de escrituração dos fatos contábeis, ou seja, se os débitos e créditos foram efetuados
+corretamente.
+A estrutura mais comum do balancete de verificação compreende duas colunas: uma coluna para
+os saldos devedores e outra para os saldos credores.
+A consequência lógica do balancete é a seguinte: como o valor total debitado corresponde ao
+valor total creditado, então o somatório dos débitos corresponde ao somatório dos créditos
+efetuados. Sendo assim, se os totais divergirem entre si, ficará evidenciado erro na escrituração e
+desobediência ao método das partidas dobradas.
+Gabarito: Certo
+19. (CESPE/DPU/2016) Os documentos base para a elaboração do balancete de verificação são o
+livro diário, de onde são extraídos os saldos finais das contas, e o livro razão, no qual estão
+demonstradas as movimentações contábeis.
+Comentários
+O Balancete de Verificação é composto por todas as contas com os seus respectivos saldos,
+extraídos do Livro Razão. O livro diário não é utilizado na elaboração do Balancete.
+
+
+                                                                                                 40
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Gabarito: Errado
+20. (CESPE/PF/2014) O balancete de verificação é feito a partir da extração dos saldos contidos
+no livro diário.
+Comentários
+O Balancete de Verificação é um demonstrativo auxiliar, vale dizer, não obrigatório, levantado para
+fins operacionais. É composto por todas as contas com os seus respectivos saldos, extraídos do
+Livro Razão.
+Gabarito: Errado
+
+21. (CESPE/SUFRAMA/2014) Em um balancete de verificação, é possível verificar a igualdade entre
+o total de débitos e o total de créditos, o que garante a correção dos procedimentos contábeis
+adotados.
+Comentários
+O fato de o somatório dos saldos devedores ser igual ao somatório dos saldos credores não
+significa que a escrituração está 100% correta. Existem erros que não podem ser detectados pelo
+levantamento do balancete, quais sejam: omissão de registro, erro de título, determinados
+registros em duplicidade, entre outros.
+Gabarito: Errado
+
+22. (CESPE/TRT10/2013) O balanço patrimonial e o de resultado econômico devem ser lançados
+no livro razão. Ambos têm de ser assinados por técnico em ciências contábeis legalmente
+habilitado e pelo empresário ou sociedade empresária.
+Comentários
+A questão foi baseada no art. 1.184, §2º do código civil, senão vejamos:
+     § 2º Serão lançados no Diário o balanço patrimonial e o de resultado econômico, devendo ambos
+     ser assinados por técnico em Ciências Contábeis legalmente habilitado e pelo empresário ou
+     sociedade empresária.
+Observe que tanto o Balanço Patrimonial como a DRE são lançados no Diário e não no Razão,
+conforme afirma o item.
+Gabarito: Errado
+23. (CESPE/SEFAZ-ES/2013) O empresário e a sociedade empresária são obrigados a adotar um
+sistema de contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros,
+em correspondência com a documentação respectiva, e a levantar anualmente o balanço
+patrimonial e o de resultado econômico.
+Comentários
+A questão trata sobre a obrigatoriedade da escrituração. O Código Civil Brasileiro (Lei n. 10.406/02)
+determina a obrigatoriedade da escrituração contábil em seu art. 1.179, senão vejamos:
+
+                                                                                                   41
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                   50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+     Art. 1.179. O empresário e a sociedade empresária são obrigados a seguir um sistema de
+     contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros, em
+     correspondência com a documentação respectiva, e a levantar anualmente o balanço patrimonial e
+     o de resultado econômico.
+Como toda boa regra há exceções, quais sejam, o produtor rural e o pequeno empresário, os quais
+estão dispensados da escrituração contábil.
+E o que é considerado pequeno empresário para efeito de aplicação dessa dispensa?
+É o empresário individual caracterizado como microempresa nos termos da Lei Complementar nº
+123/2006 que aufira receita bruta anual de até R$ 81.000,00 (oitenta e um mil reais).
+Gabarito: Certo
+24. (CESPE/PREVIC/2011) O registro do aumento de determinada conta do lado esquerdo do
+razonete não significa que a conta deva estar posicionada no lado esquerdo no balanço
+patrimonial.
+Comentários
+Em primeiro lugar, nem todas as contas são classificadas no balanço patrimonial, mas somente as
+contas patrimoniais (ativo, passivo, PL e retificadoras desses elementos). Além disso, segundo a
+natureza das contas, temos:
+Contas devedoras: aumentam no lado esquerdo do razonete. São elas: Ativo, retificadora de
+passivo e PL e despesas.
+Contas credoras: aumentam no lado direito do razonete. São elas:
+Passivo, retificadora de ativo e receitas.
+Logo, o registro do aumento de determinada conta do lado esquerdo do razonete não significa
+que a conta deva estar posicionada no lado esquerdo no balanço patrimonial (lado do ativo).
+Exemplo: reconhecimento de uma despesa (aumento no lado esquerdo do razonete, mas não
+evidenciado no lado esquerdo do balanço patrimonial, mas sim na demonstração do resultado).
+Gabarito: Certo
+25. (CESPE/TRE-ES/2011) O sistema de partidas dobradas consiste no registro de fatos contábeis
+de modo que, para cada conta debitada, corresponde uma conta creditada e com o mesmo valor.
+Comentários
+O Método das Partidas Dobradas preceitua que:
+     A todo o débito corresponde um ou mais créditos, sendo que o total de débito é exatamente igual
+     ao total de crédito.
+Perceba que, segundo esse método, não existe débito sem crédito. Porém, pode ocorrer um ou
+mais débitos ou créditos, conforme o caso. Isso ficará mais claro quando estudarmos as fórmulas
+de lançamentos.
+Gabarito: Errado
+
+
+                                                                                                  42
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                  50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+26. (CESPE/TRE-ES/2011) Se, indevidamente, um contabilista registrar a compra à vista de um
+automóvel, debitando a conta de veículos em uso e creditando a conta de fornecedores, a única
+forma possível de corrigir o lançamento errado será efetuar um lançamento de estorno.
+Comentários
+A questão exige conhecimentos sobre as formas de correção dos lançamentos.
+Nesse caso, existem duas formas possíveis: efetuar um lançamento de estorno ou fazer o
+lançamento de transferência da conta caixa para a conta fornecedores. O exemplo exposto na
+teoria estudada na aula aplica-se ao caso apresentado na questão.
+Gabarito: Errado
+
+27. (CESPE/PF/2009) Os livros diário e razão, por constituírem os registros permanentes de uma
+entidade e por serem obrigatórios, devem ser registrados no registro público competente.
+Comentários
+O livro diário é obrigatório para todas as empresas, porém o livro razão é facultativo pela legislação
+societária e obrigatório pelo Regulamento do Imposto de Renda (RIR/2018).
+Gabarito: Errado
+
+28. (CESPE/FUB/2008) São elementos essenciais de um lançamento contábil: data, conta debitada,
+conta creditada, histórico e valor.
+Comentários
+Para fixar! Os elementos essenciais do lançamento contábil no livro Diário são:
+   §   local e data;
+   §   conta(s) debitada(s);
+   §   conta(s) creditada(s);
+   §   histórico;
+   §   valor.
+Gabarito: Certo
+
+29. (CESPE/FUB/2008) O método das partidas dobradas pressupõe a inexistência de devedor sem
+credor correspondente.
+Comentários
+Para fixar! Segundo o método das partidas dobradas, a todo o débito corresponde um ou mais
+créditos, sendo que o total de débito é exatamente igual ao total de crédito. Logo, referido método
+pressupõe a inexistência de devedor sem credor correspondente.
+Gabarito: Certo
+30. (CESPE/FUB/2008) O razão é considerado um livro contábil.
+
+
+                                                                                                    43
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                    50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Comentários
+Os principais livros de escrituração são o diário e o razão. Além desses, o livro caixa é também
+importante.
+Gabarito: Certo
+31. (CESPE/FUB/2008) O diário é um livro obrigatório para fins de escrituração contábil.
+Comentários
+O livro diário é obrigatório, principal, comum e cronológico.
+Gabarito: Certo
+
+32. (CESPE/FUB/2008) São formalidades extrínsecas do livro diário: utilização de idioma nacional
+e uso da linguagem mercantil.
+Comentários
+A utilização de idioma nacional e uso da linguagem mercantil são formalidades intrínsecas do livro
+diário, pois estão relacionadas ao lançamento contábil. Lembre-se que as formalidades extrínsecas
+estão relacionadas à forma de apresentação material do livro Diário.
+Gabarito: Errado
+
+33. (CESPE/FUB/2008) Efetuar um lançamento de sétima fórmula significa dizer que se está
+registrando fatos administrativos que envolvem uma conta devedora e duas credoras.
+Comentários
+Sétima fórmula? Tá de sacanagem! Os fatos administrativos que envolvem uma conta devedora e
+duas credoras necessitam de um lançamento de segunda fórmula.
+Gabarito: Errado
+
+34. (CESPE/FUB/2008) A compra de material de escritório por R$ 2.000,00 à vista e com
+pagamento em dinheiro gera um lançamento de primeira fórmula.
+Comentários
+Efetuando o lançamento temos:
+
+     D – Material de Escritório
+     C – Caixa ... 2.000,00
+
+Realmente é um lançamento de primeira fórmula, pois envolve 1 débito e 1 crédito (11).
+Gabarito: Certo
+35. (CESPE/FUB/2008) O registro contábil utilizando mais de uma conta devedora e mais de uma
+conta credora significa o registro simultâneo de um lançamento de quarta fórmula.
+Comentários
+
+                                                                                                44
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Perfeito! Trata-se da essência de um lançamento de 4ª fórmula: 2 débitos ou mais e 2 créditos ou
+mais (22).
+Gabarito: Certo
+
+36. (CESPE/FHCGV-PA/2004) Em contabilidade, o lançamento corresponde ao registro dos fatos
+administrativos ou contábeis. Para atingir a perfeição, o lançamento deve apresentar clareza,
+exatidão, propriedade descritiva e intitulativa.
+Comentários
+O lançamento corresponde ao registro dos fatos administrativos ou contábeis. Ademais, são
+características necessárias ao lançamento: clareza, exatidão, propriedade descritiva e intitulativa.
+Gabarito: Certo
+37. (CESPE/FHCGV-PA/2004) O método atualmente utilizado para registro contábil é o das
+partidas dobradas. Entende-se por partida o registro de um fato ou vários fatos patrimoniais em
+forma contábil, que tem como elementos essenciais a conta debitada, o valor, o histórico, o local
+e a data.
+Comentários
+Os elementos essenciais do lançamento contábil no livro Diário são:
+   §   local e data;
+   §   conta(s) debitada(s);
+   §   conta(s) creditada(s);
+   §   histórico;
+   §   valor.
+Observa-se que o erro da assertiva está no fato de ter omitido um dos elementos essenciais.
+Corrigindo o item temos:
+O método atualmente utilizado para registro contábil é o das partidas dobradas. Entende-se por
+partida o registro de um fato ou vários fatos patrimoniais em forma contábil, que tem como
+elementos essenciais a(s) conta(s) debitada(s), a(s) conta(s) creditada(s) o valor, o histórico, o local
+e a data.
+Gabarito: Errado
+
+38. (CESPE/FHCGV-PA/2004) Para que a contabilidade exerça a função de escrituração, é
+necessária a utilização de um método próprio denominado método das partidas simples, ou seja,
+para cada débito, existirá um crédito correspondente.
+Comentários
+
+                                                                                                      45
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                      50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+Em sua função de escrituração, a contabilidade utiliza-se do método das partidas dobradas, no
+qual a todo o débito corresponde um ou mais créditos, sendo que o total de débito é exatamente
+igual ao total de crédito.
+Gabarito: Errado
+39. (CESPE/HCGV/2004) A junção de diversos lançamentos de primeira fórmula em uma só partida
+caracteriza o lançamento de quarta fórmula.
+Comentários
+Sabemos que um lançamento de primeira fórmula envolve uma conta debitada e uma conta
+creditada. Além disso, é de nosso conhecimento que um lançamento de quarta fórmula envolve
+dois débitos ou mais e dois créditos ou mais. Logo, podemos afirmar que a junção de diversos
+lançamentos de primeira fórmula em uma só partida caracteriza o lançamento de quarta fórmula.
+Gabarito: Certo
+
+                                                                                            46
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                            50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+                      7 – LISTA DAS QUESTÕES COMENTADAS
+1. (CESPE/CAGE-RS/2018) A prescrição ou decadência dos atos consignados no diário não
+eximem o empresário e a entidade empresária da sua guarda por um prazo adicional de cinco
+anos.
+2. (CESPE/CAGE-RS/2018) Antes de ser colocado em uso, o livro diário deverá ser autenticado no
+Registro Público de Empresas Mercantis, salvo disposição especial de lei.
+3. (CESPE/CAGE-RS/2018) Mesmo no caso de escrituração mecanizada ou eletrônica, o diário não
+poderá ser substituído por fichas.
+4. (CESPE/CAGE-RS/2018) O balanço patrimonial e o de resultado econômico devem ser lançados
+em livro distinto do diário.
+5. (CESPE/CAGE-RS/2018) No diário, deve constar unicamente a assinatura do técnico em ciências
+contábeis legalmente habilitado e responsável pelos lançamentos nele efetuados.
+6. (CESPE/CAGE-RS/2018) No regime de competência, as receitas são reconhecidas quando são
+ganhas, mesmo que não recebidas.
+7. (CESPE/CAGE-RS/2018) No lançamento em livro diário, devem-se descrever o título e o saldo
+da conta.
+8. (CESPE/CAGE-RS/2018) No livro razão, o confronto dos créditos e dos débitos denomina-se
+saldo.
+9. (CESPE/CAGE-RS/2018) De acordo com o regime de competência, as receitas e as despesas
+são consideradas em função dos recebimentos ou dos pagamentos.
+10. (CESPE/PC-MA/2018) As aplicações de recursos são representadas por meio de débitos em
+determinadas rubricas contábeis, enquanto as origens dos recursos aplicados provocam registro a
+crédito em outras rubricas.
+11. (CESPE/PC-MA/2018) A aquisição de bens para comercialização a prazo e com juros é um
+exemplo de partida de segunda fórmula.
+12. (CESPE/PC-MA/2018) Em uma venda de mercadoria, ocorre a baixa, a crédito, da mercadoria
+vendida, em contrapartida à correspondente conta de receita por venda de mercadorias.
+13. (CESPE/PC-MA/2018) A existência de um conjunto de levantamentos refletindo um elemento
+ou componente formado ou em formação pertencente a um patrimônio, expresso geralmente em
+moeda corrente, é inerente ao método das partidas dobradas.
+14. (CESPE/TRE-BA/2017) No que se refere à escrituração, o lançamento que consiste na
+regularização da conta indevidamente debitada ou creditada com a transposição do registro para
+a conta adequada é denominado transferência.
+15. (CESPE/TRE-BA/2017) É obrigatória a escrituração do livro razão por qualquer pessoa jurídica.
+
+                                                                                               47
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+16. (CESPE/TRE-BA/2017) O livro razão, com escrituração sintética, é auxiliar do livro diário.
+17. (CESPE/TRE-BA/2017) São dispensados no livro razão os termos de abertura e de
+encerramento.
+18. (CESPE/DPU/2016) Uma das finalidades do balancete de verificação é demonstrar a correta
+aplicação do método das partidas dobradas, pois o total devedor deve ser igual ao total credor,
+ou seja, para cada débito em uma ou mais contas deve haver crédito de igual valor em uma ou
+mais contas.
+19. (CESPE/DPU/2016) Os documentos base para a elaboração do balancete de verificação são o
+livro diário, de onde são extraídos os saldos finais das contas, e o livro razão, no qual estão
+demonstradas as movimentações contábeis.
+20. (CESPE/PF/2014) O balancete de verificação é feito a partir da extração dos saldos contidos
+no livro diário.
+21. (CESPE/SUFRAMA/2014) Em um balancete de verificação, é possível verificar a igualdade entre
+o total de débitos e o total de créditos, o que garante a correção dos procedimentos contábeis
+adotados.
+22. (CESPE/TRT10/2013) O balanço patrimonial e o de resultado econômico devem ser lançados
+no livro razão. Ambos têm de ser assinados por técnico em ciências contábeis legalmente
+habilitado e pelo empresário ou sociedade empresária.
+23. (CESPE/SEFAZ-ES/2013) O empresário e a sociedade empresária são obrigados a adotar um
+sistema de contabilidade, mecanizado ou não, com base na escrituração uniforme de seus livros,
+em correspondência com a documentação respectiva, e a levantar anualmente o balanço
+patrimonial e o de resultado econômico.
+24. (CESPE/PREVIC/2011) O registro do aumento de determinada conta do lado esquerdo do
+razonete não significa que a conta deva estar posicionada no lado esquerdo no balanço
+patrimonial.
+25. (CESPE/TRE-ES/2011) O sistema de partidas dobradas consiste no registro de fatos contábeis
+de modo que, para cada conta debitada, corresponde uma conta creditada e com o mesmo valor.
+26. (CESPE/TRE-ES/2011) Se, indevidamente, um contabilista registrar a compra à vista de um
+automóvel, debitando a conta de veículos em uso e creditando a conta de fornecedores, a única
+forma possível de corrigir o lançamento errado será efetuar um lançamento de estorno.
+27. (CESPE/PF/2009) Os livros diário e razão, por constituírem os registros permanentes de uma
+entidade e por serem obrigatórios, devem ser registrados no registro público competente.
+28. (CESPE/FUB/2008) São elementos essenciais de um lançamento contábil: data, conta debitada,
+conta creditada, histórico e valor.
+29. (CESPE/FUB/2008) O método das partidas dobradas pressupõe a inexistência de devedor sem
+credor correspondente.
+30. (CESPE/FUB/2008) O razão é considerado um livro contábil.
+
+                                                                                                 48
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                 50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 04
+
+31. (CESPE/FUB/2008) O diário é um livro obrigatório para fins de escrituração contábil.
+32. (CESPE/FUB/2008) São formalidades extrínsecas do livro diário: utilização de idioma nacional
+e uso da linguagem mercantil.
+33. (CESPE/FUB/2008) Efetuar um lançamento de sétima fórmula significa dizer que se está
+registrando fatos administrativos que envolvem uma conta devedora e duas credoras.
+34. (CESPE/FUB/2008) A compra de material de escritório por R$ 2.000,00 à vista e com
+pagamento em dinheiro gera um lançamento de primeira fórmula.
+35. (CESPE/FUB/2008) O registro contábil utilizando mais de uma conta devedora e mais de uma
+conta credora significa o registro simultâneo de um lançamento de quarta fórmula.
+36. (CESPE/FHCGV-PA/2004) Em contabilidade, o lançamento corresponde ao registro dos fatos
+administrativos ou contábeis. Para atingir a perfeição, o lançamento deve apresentar clareza,
+exatidão, propriedade descritiva e intitulativa.
+37. (CESPE/FHCGV-PA/2004) O método atualmente utilizado para registro contábil é o das
+partidas dobradas. Entende-se por partida o registro de um fato ou vários fatos patrimoniais em
+forma contábil, que tem como elementos essenciais a conta debitada, o valor, o histórico, o local
+e a data.
+38. (CESPE/FHCGV-PA/2004) Para que a contabilidade exerça a função de escrituração, é
+necessária a utilização de um método próprio denominado método das partidas simples, ou seja,
+para cada débito, existirá um crédito correspondente.
+39. (CESPE/HCGV/2004) A junção de diversos lançamentos de primeira fórmula em uma só partida
+caracteriza o lançamento de quarta fórmula.
+
+                                                                                               49
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                               50
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 04
+
+                                              8 – GABARITO
+
+            1.       2.        3.        4.       5.       6.        7.       8.         9.    10.
+            E        C         E         E        E        C         E        C          E     C
+            11.      12.       13.       14.      15.      16.       17.      18.        19.   20.
+
+            E        E         C         C        E        E         E        C          E     E
+            21.      22.       23.       24.      25.      26.       27.      28.        29.   30.
+            E        E         C         C        E        E         E        C          C     C
+            31.      32.       33.       34.      35.      36.       37.      38.        39.
+
+            C        E         E         C        C        C         E        E          C
+
+                                                                                                     50
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati
+                                                                                                     50
+      www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+---

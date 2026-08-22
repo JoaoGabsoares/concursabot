@@ -1,0 +1,644 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_041_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Curso Completo de Português
+---
+
+# Curso Completo de Português
+
+---
+
+---
+
+Curso Completo de Português
+as novas perspectivas da FGV
+                                              Profª. Adriana Figueiredo
+
+         
+
+
+---
+
+CADERNO 13
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+ESTRUTURA DA FRASE
+   PORTUGUESA:
+    Reescritura                           Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+   Período composto:
+deslocamento com e sem
+ mudança de referente                       Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+                   Não demonstrava. Porém, é feliz.
+
+                   Não demonstrava. É, porém, feliz.
+
+
+                           Quando chegar, avise.
+
+REESCRITURA                 Avise, quando chegar.
+
+
+              “Deus deve amar os homens medíocres,
+                      pois fez vários deles.”
+
+              “Deus fez vários homens medíocres, pois
+                           deve amá-los.”
+
+                          Prof. Adriana Figueiredo
+              
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+A) ”Desde outubro de 2022, o consumidor brasileiro vem se deparando com
+mudanças nas embalagens de alimentos nos mercados.” > O consumidor brasileiro
+vem se deparando, desde outubro de 2022, com mudanças nas embalagens de
+alimentos nos mercados.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+B) “[...] para aqueles já existentes, o prazo para adequação pode ser de um a três
+anos a partir da mesma data, dependendo da natureza do produto.” > para aqueles
+já existentes, o prazo para adequação pode ser, dependendo da natureza do
+produto, de um a três anos a partir da mesma data.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+C) “A escolha da nova rotulagem, no entanto, poderia — e deveria — ter ido além.”
+> No entanto, a escolha da nova rotulagem poderia — e deveria — ter ido além.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+D) “Segundo o Guia Alimentar para a População Brasileira, um caminho simples para
+manter uma alimentação saudável é evitar o consumo de ultraprocessados.” > Um
+caminho simples para manter uma alimentação saudável, segundo o Guia Alimentar
+para a População Brasileira, é evitar o consumo de ultraprocessados.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+E) “Eles também costumam ter excesso de açúcar, gordura saturada e sódio.” > Eles
+costumam ter excesso também de açúcar, gordura saturada e sódio.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FGV - 2023 - TJ-BA - Conciliador
+Na alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+uma versão modificada dessa mesma passagem. Nessa modificação, uma palavra ou
+expressão do texto original foi deslocada para uma posição diferente da posição
+original.
+
+O único caso em que esse deslocamento produziu mudança substancial de
+significado é:
+
+E) “Eles também costumam ter excesso de açúcar, gordura saturada e sódio.” > Eles
+costumam ter excesso também de açúcar, gordura saturada e sódio.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Deslocamento com verbo
+       de ligação
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+                      Minha filha é minha sócia.
+REESCRITURA
+                      Minha sócia é minha filha.
+
+                          Prof. Adriana Figueiredo
+              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+As frases a seguir foram reescritas. Verifique se houve alteração de
+sentido.
+
+a) O cão é o melhor amigo do homem.
+
+REESCRITA: O melhor amigo do homem é o cão.
+
+
+b) O Sol é o que me faz feliz.
+
+REESCRITA: O que me faz feliz é o Sol.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+FGV - 2023 - MPE-SP - Oficial de Promotoria
+
+Assinale a opção que mostra uma frase em que o deslocamento de termos modifica
+o seu sentido original.
+
+A) Antes que eles nos jantem, temos de almoçá-los / Temos de almoçá-los antes que
+eles nos jantem.
+
+
+B) Um hoje vale por dois amanhãs / Um vale hoje por dois amanhãs.
+
+
+C) Quando um trabalho fala por si, não interrompa / Não interrompa, quando um
+trabalho fala por si.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+FGV - 2023 - MPE-SP - Oficial de Promotoria
+
+Assinale a opção que mostra uma frase em que o deslocamento de termos modifica
+o seu sentido original.
+
+D) Dinheiro é como um braço ou uma perna: use-o ou perca-o / Dinheiro é como um
+braço ou uma perna: perca-o ou use-o.
+
+
+E) O melhor amigo é o dinheiro / O dinheiro é o melhor amigo.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+FGV - 2023 - MPE-SP - Oficial de Promotoria
+
+Assinale a opção que mostra uma frase em que o deslocamento de termos modifica
+o seu sentido original.
+
+A) Antes que eles nos jantem, temos de almoçá-los / Temos de almoçá-los antes que
+eles nos jantem.
+
+
+B) Um hoje vale por dois amanhãs / Um vale hoje por dois amanhãs.
+
+
+C) Quando um trabalho fala por si, não interrompa / Não interrompa, quando um
+trabalho fala por si.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Reescrita com pontuação
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+                 A menina estudava diariamente.
+
+                 Diariamente a menina estudava.
+
+REESCRITURA
+                  A menina estudava ao acordar.
+
+                  Ao acordar, a menina estudava.
+
+                          Prof. Adriana Figueiredo
+              
+
+
+---
+
+              A menina dedicada estudava todos os dias.
+OBSERVAÇÕES
+IMPORTANTES
+              A menina, dedicada, estudava todos os dias.
+
+                              Prof. Adriana Figueiredo
+                  
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+As frases abaixo foram reescritas com deslocamento de termos. Julgue
+e se pontuação está adequada.
+
+A) A polícia iniciava suas ações no dia 20 de novembro de 1530.
+Reescrita: No dia 20 de novembro de 1530, a polícia iniciava suas ações.
+
+B) Ela foi condecorada como heroína de guerra na Bélgica .
+Reescrita: Ela foi condecorada na Bélgica como heroína de guerra.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+As frases abaixo foram reescritas com deslocamento de termos. Julgue
+e se pontuação está adequada.
+
+C) Foi ao hospital quando a dor aumentou.
+Reescrita: Quando a dor aumentou foi ao hospital.
+
+D) A capital do Maranhão, São Luís, foi fundada em 1612.
+Reescrita: São Luís a capital do Maranhão foi fundada em 1612.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+As frases abaixo foram reescritas com deslocamento de seus termos; assinale a
+forma de reescritura que apresenta uma pontuação adequada.
+
+A) Crianças são as mensagens vivas que enviamos ao futuro / As mensagens vivas,
+que enviamos ao futuro são as crianças.
+
+
+B) Você pode aprender muito com crianças / Você pode com crianças aprender
+muito.
+
+
+C) A arte é a mais bela das mentiras / A mais bela das mentiras, é a arte.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+As frases abaixo foram reescritas com deslocamento de seus termos; assinale a
+forma de reescritura que apresenta uma pontuação adequada.
+
+
+D) O luar é a luz do sol que está sonhando / A luz, do sol, que está sonhando, é o
+luar.
+
+
+E) O anúncio é a parte mais verdadeira de um jornal / De um jornal, o anúncio é a
+parte mais verdadeira.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+FGV - 2022 - SEAD-AP - Professor de Educação Básica
+
+As frases abaixo foram reescritas com deslocamento de seus termos; assinale a
+forma de reescritura que apresenta uma pontuação adequada.
+
+
+D) O luar é a luz do sol que está sonhando / A luz, do sol, que está sonhando, é o
+luar.
+
+
+E) O anúncio é a parte mais verdadeira de um jornal / De um jornal, o anúncio é a
+parte mais verdadeira.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+ FGV - 2023 - Prefeitura de Niterói - RJ - Agente Administrativo
+
+Em todas as frases a seguir há um termo sublinhado. Se deslocarmos esse termo
+para o lugar na frase marcado por um asterisco (*), não vamos precisar empregar
+vírgulas em
+
+A) Nenhum homem (*) adquire propriedade sem aprender aritmética.
+
+B) (*) Não basta saber falar para ser gente.
+
+C) (*) Tenho elementos de candomblé apesar de ser cartesiano.
+
+D) Até um imbecil (*) passa por inteligente se ficar calado.
+
+E) Tudo (*) é enigma e problema atualmente.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+ FGV - 2023 - Prefeitura de Niterói - RJ - Agente Administrativo
+
+Em todas as frases a seguir há um termo sublinhado. Se deslocarmos esse termo
+para o lugar na frase marcado por um asterisco (*), não vamos precisar empregar
+vírgulas em
+
+A) Nenhum homem (*) adquire propriedade sem aprender aritmética.
+
+B) (*) Não basta saber falar para ser gente.
+
+C) (*) Tenho elementos de candomblé apesar de ser cartesiano.
+
+D) Até um imbecil (*) passa por inteligente se ficar calado.
+
+E) Tudo (*) é enigma e problema atualmente.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2024 - TJ-MS - Analista Judiciário - Área Fim
+
+Nas alternativas abaixo, vemos, à esquerda, uma passagem do texto 1 e, à direita,
+essa mesma passagem reescrita com o acréscimo ou supressão de pelo menos uma
+vírgula.
+O único caso em que essa alteração NÃO produz mudança substancial de significado
+NEM acarreta erro gramatical é:
+
+A) “O apelido veio da aparência dele, que tinha o rosto estranhamente deformado
+[...]” (1º parágrafo) -> O apelido veio da aparência dele, que tinha o rosto,
+estranhamente, deformado;
+
+B) “Carlos II, rei da Espanha entre 1665 e 1700, também era conhecido como Carlos,
+o Enfeitiçado.” (1º parágrafo) -> Carlos II, rei da Espanha entre 1665 e 1700,
+também era conhecido como Carlos o Enfeitiçado;
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+FGV - 2024 - TJ-MS - Analista Judiciário - Área Fim
+
+C) “Carlos II, rei da Espanha entre 1665 e 1700, também era conhecido como Carlos,
+o Enfeitiçado.” (1º parágrafo) -> Carlos II rei da Espanha entre 1665 e 1700 também
+era conhecido como Carlos, o Enfeitiçado;
+
+D) “[...] os descendentes ficaram mais e mais parecidos geneticamente, e foram
+acumulando mutações causadoras de doenças” (3º parágrafo) -> Os descendentes
+ficaram mais e mais parecidos geneticamente e foram acumulando mutações
+causadoras de doenças;
+
+E) “A bananeira domesticada, cujas frutas nós comemos, não tem sementes.” (4º
+parágrafo) -> A bananeira domesticada cujas frutas nós comemos não tem
+sementes.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+FGV - 2024 - TJ-MS - Analista Judiciário - Área Fim
+
+C) “Carlos II, rei da Espanha entre 1665 e 1700, também era conhecido como Carlos,
+o Enfeitiçado.” (1º parágrafo) -> Carlos II rei da Espanha entre 1665 e 1700 também
+era conhecido como Carlos, o Enfeitiçado;
+
+D) “[...] os descendentes ficaram mais e mais parecidos geneticamente, e foram
+acumulando mutações causadoras de doenças” (3º parágrafo) -> Os descendentes
+ficaram mais e mais parecidos geneticamente e foram acumulando mutações
+causadoras de doenças;
+
+E) “A bananeira domesticada, cujas frutas nós comemos, não tem sementes.” (4º
+parágrafo) -> A bananeira domesticada cujas frutas nós comemos não tem
+sementes.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                       @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                  facebook.com/prof.adriana.figueiredo
+
+               
+
+
+---
+
+---

@@ -1,0 +1,64 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+LEITURAS DA CONDICIONAL
+
+
+
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+      LEITURAS DA CONDICIONAL
+       A proposição P → Q pode ser lida de alguma das formas:
+
+       Se P então Q
+       P é condição suficiente para Q.
+       Q é condição necessária para P.
+       P implica Q.
+       Q se P.
+       P somente se Q.
+
+
+LEITURAS DA CONDICIONAL
+Prof. Brunno Lima
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+   Exemplo:
+   Se estudar, então serei aprovado.
+   Estudar é condição suficiente para ser aprovado.
+   Ser aprovado é condição necessária para estudar.
+   Estudar implica ser aprovado.
+   Serei aprovado se estudar.
+   Estudo somente se for aprovado.
+
+
+
+
+LEITURAS DA CONDICIONAL
+Prof. Brunno Lima
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

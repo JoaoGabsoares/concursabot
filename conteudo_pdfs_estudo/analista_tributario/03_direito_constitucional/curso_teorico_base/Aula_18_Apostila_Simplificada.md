@@ -1,0 +1,2332 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 18_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 127.
+- Art. 167-A.
+- Art.164-A
+- art. 166
+- art. 198
+- art. 201.
+- art. 21
+- art. 7º
+---
+
+# Direito Constitucional
+
+Aula 17
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            27 de Agosto de 2025
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 17
+
+                                                                                     Índice
+1) Normas Gerais de Finanças Públicas (Art. 163 - Art.164-A)
+
+
+2) Orçamento Público (Art. 165 - Art. 1674 - Art. 169)
+
+
+3) Processo Legislativo Orçamentário (Art. 166 - Art. 166-A)
+
+
+4) Ajuste Fiscal e Regime Extraordinário Fiscal (Art. 167-A - Art. 167-G)
+
+
+5) Questões Comentadas - Finanças Públicas e do Orçamento - FGV
+
+
+6) Lista de Questões - Finanças Públicas e do Orçamento - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           47
+
+                                                             
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+                 NORMAS GERAIS DE FINANÇAS PÚBLICAS
+A Constituição Federal de 1988 reservou um Capítulo inteiro (Capítulo II do Título VI) para tratar das “finanças
+públicas”. Na concepção constitucional, as finanças públicas dizem respeito às matérias relacionadas à
+despesa, à receita e ao crédito público.
+
+O art. 163 relaciona uma série de matérias relativas às finanças públicas que deverão ser objeto de lei
+complementar. Vejamos:
+
+         Art. 163. Lei complementar disporá sobre:
+
+         I - finanças públicas;
+
+         II - dívida pública externa e interna, incluída a das autarquias, fundações e demais
+         entidades controladas pelo Poder Público;
+
+         III - concessão de garantias pelas entidades públicas;
+
+         IV - emissão e resgate de títulos da dívida pública;
+
+         V - fiscalização financeira da administração pública direta e indireta;
+
+         VI - operações de câmbio realizadas por órgãos e entidades da União, dos Estados, do
+         Distrito Federal e dos Municípios;
+
+         VII - compatibilização das funções das instituições oficiais de crédito da União,
+         resguardadas as características e condições operacionais plenas das voltadas ao
+         desenvolvimento regional.
+
+         VIII - sustentabilidade da dívida, especificando:
+
+         a) indicadores de sua apuração;
+
+         b) níveis de compatibilidade dos resultados fiscais com a trajetória da dívida;
+
+         c) trajetória de convergência do montante da dívida com os limites definidos em legislação;
+
+         d) medidas de ajuste, suspensões e vedações;
+
+         e) planejamento de alienação de ativos com vistas à redução do montante da dívida.
+
+         Parágrafo único. A lei complementar de que trata o inciso VIII do caput deste artigo pode
+         autorizar a aplicação das vedações previstas no art. 167-A desta Constituição.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                         3
+        www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Segundo o STF, as matérias constantes do art. 163 podem ser reguladas por lei complementar de maneira
+fragmentada. Não há necessidade de que a referida lei complementar discipline o teor do art. 163 por inteiro
+(STF, ADI 2.238-MC, DJ de 06.10.2000).
+
+O termo “finanças públicas”, ao qual se faz menção no inciso I, é bastante abrangente. Nesse sentido, todos
+os demais incisos podem ser considerados abrangidos por esse termo. Atualmente, a Lei nº 4.320/64 é que
+estatui normas gerais sobre finanças públicas. Apesar de ser uma lei ordinária, reconhece-se que ela foi
+recepcionada pela CF/88 com o status de lei complementar.
+
+Repare que o endividamento público deve se mostrar sustentável - ou seja, que seja algo "pagável" e
+compatível ao cenário fiscal. As alíneas do inciso VIII trazem alguns parâmetros que devem ser especificados
+a fim de demonstrar a citada sustentabilidade. Com tudo isso, o dispositivo constitucional visa a evitar a
+existência de dívidas públicas "impagáveis" ou inviáveis do ponto de vista fiscal.
+
+        Art. 163-A. A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas
+                                                         ==219a34==
+
+        informações e dados contábeis, orçamentários e fiscais, conforme periodicidade, formato
+        e sistema estabelecidos pelo órgão central de contabilidade da União, de forma a garantir
+        a rastreabilidade, a comparabilidade e a publicidade dos dados coletados, os quais deverão
+        ser divulgados em meio eletrônico de amplo acesso público.
+
+O art. 163-A foi incorporado à Constituição pela Emenda Constitucional n o 108/2020. Por meio desse
+dispositivo, previu-se a obrigação de os entes federativos fornecerem informações contábeis, orçamentárias
+e fiscais em meio eletrônico de amplo acesso público. Trata-se de decorrência do princípio constitucional da
+publicidade.
+
+O art. 164, por sua vez, trata do Banco Central. Para entender melhor esse dispositivo, vale mencionar que
+é competência exclusiva da União emitir moeda (art. 21, VII). Essa competência é exercida exclusivamente
+pelo Banco Central.
+
+        Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo
+        banco central.
+
+        § 1º - É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao
+        Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.
+
+        § 2º - O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional,
+        com o objetivo de regular a oferta de moeda ou a taxa de juros.
+
+        § 3º - As disponibilidades de caixa da União serão depositadas no banco central; as dos
+        Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e
+        das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos
+        previstos em lei.
+
+O § 1º determina que é vedado ao banco central conceder, direta ou indiretamente, empréstimos ao
+Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira. Destaque-se que, ao
+vedar a concessão de empréstimos ao Tesouro Nacional, a CF/88 reforçou o papel do banco central enquanto
+autoridade monetária.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      4
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+O § 2º estabelece que o banco central poderá comprar e vender títulos de emissão do Tesouro Nacional,
+com o objetivo de regular a oferta de moeda ou a taxa de juros (art. 164, § 2º, CF). Ao comprar títulos do
+Tesouro Nacional, o banco central coloca mais dinheiro em circulação e, em consequência, aumenta a oferta
+de moeda, desvalorizando-a.
+
+O § 3º, por sua vez, determina que as disponibilidades de caixa da União serão depositadas no banco
+central. Por outro lado, as disponibilidades de caixa dos Estados, do Distrito Federal, dos Municípios e dos
+órgãos ou entidades do Poder Público e das empresas por ele controladas, serão depositadas em
+instituições financeiras oficiais, ressalvados os casos previstos em lei. Segundo o STF, esta deverá ser uma
+lei ordinária editada pela União, de caráter nacional. Por isso, considera o Pretório Excelso que não podem
+as Constituições ou as leis estaduais dispor sobre a matéria1.
+
+         Art. 164-A. A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas
+         políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei
+         complementar referida no inciso VIII do caput do art. 163 desta Constituição.
+
+         Parágrafo único. A elaboração e a execução de planos e orçamentos devem refletir a
+         compatibilidade dos indicadores fiscais com a sustentabilidade da dívida.
+
+No mesmo contexto do inciso VIII do art. 163, o art. 164-A foi introduzido no texto constitucional pela
+Emenda nº 109/2021. Reforça-se a necessidade de que a política fiscal deve envidar esforços para manter a
+dívida pública em níveis sustentáveis. O parágrafo único assemelha-se à alínea "b" do inciso VIII, em que a
+elaboração e a execução dos planos de governo e dos orçamentos devem refletir a compatibilidade dos
+indicadores fiscais com a sustentabilidade da dívida.
+
+(Advogado UFC – 2014) É permitido ao banco central conceder, direta ou indiretamente, empréstimos
+ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.
+Comentários:
+Segundo o art. 164, § 1º, CF/88, “é vedado ao banco central conceder, direta ou indiretamente, empréstimos
+ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira”. Questão errada.
+
+1 STF. ADI 2.600-MC, DJ de 25.10.2002; ADI 2.661, DJ de 23.08.2002; ADI 3.075-MC, DJ de 18.06.2004.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                     5
+         www.estrategiaconcursos.com.br                                                                  47
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+                                     ORÇAMENTO PÚBLICO
+Os instrumentos de planejamento e orçamento na Constituição Federal
+de 1988
+
+A Constituição Federal prevê 3 (três) importantes instrumentos de planejamento e orçamento: o Plano
+Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA). Trata-se das
+chamadas “leis orçamentárias”, que regulam o planejamento e o orçamento dos entes federativos (União,
+Estados, Distrito Federal e Municípios).
+
+Essas leis orçamentárias, segundo o § 16 do art. 165, devem observar, no que couber, os resultados do
+monitoramento e da avaliação das políticas pública previstos no § 16 do art. 37.
+
+O art. 165, § 9º, prevê que deverá ser editada lei complementar acerca desses instrumentos de
+planejamento e orçamento. Até hoje, essa lei não foi editada, motivo pelo qual ainda hoje é utilizada a Lei
+nº 4.320/64, que, todavia, não é mais suficiente para atender às necessidades do orçamento e planejamento
+governamental.
+
+         § 9º - Cabe à lei complementar:
+
+         I - dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e a organização
+         do plano plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual;
+
+         II - estabelecer normas de gestão financeira e patrimonial da administração direta e
+         indireta bem como condições para a instituição e funcionamento de fundos.
+
+         III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão
+         adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar
+         e limitação das programações de caráter obrigatório, para a realização do disposto nos §§
+         11 e 12 do art. 166.
+
+O Plano Plurianual (PPA) se destina ao planejamento de médio prazo do Governo Federal. Essa lei, de
+iniciativa do Poder Executivo (art. 165, CF/88), estabelece, de forma regionalizada, as diretrizes, os objetivos
+e as metas da Administração Pública Federal para as despesas de capital e outras delas decorrentes e para
+as relativas aos programas de duração continuada (art. 165, § 1º, CF/88). A elaboração regionalizada do PPA
+busca promover o desenvolvimento equilibrado das diversas regiões do Brasil, tendo como fundamento,
+em última análise, a isonomia.
+
+Lembre-se: o PPA está relacionado às diretrizes, objetivos e metas. As iniciais dessas palavras formam a sigla
+“DOM”, que você deve memorizar!
+
+Destaca-se que, segundo o art. 167, § 1o, CF/88, nenhum investimento cuja execução ultrapasse um
+exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a
+inclusão, sob pena de crime de responsabilidade. Tem-se aqui o princípio da plurianualidade das despesas
+de investimento.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                         6
+        www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+A vigência do PPA é de 4 (quatro) anos, não coincidindo com o mandato presidencial. É que, segundo o ADCT
+(art. 35, § 2º, I), o início da vigência do PPA é no segundo exercício financeiro do mandato do Chefe do Poder
+Executivo; o término da vigência, por sua vez, será no fim do primeiro exercício financeiro do mandato
+subsequente. Assim, o primeiro ano do mandato presidencial tem como base o PPA elaborado por seu
+antecessor.
+
+Segundo o ADCT (art. 35, § 2º, I) o PPA deverá ser encaminhado pelo Poder Executivo ao Congresso Nacional
+até 4 (quatro) meses antes do encerramento do primeiro exercício financeiro e devolvido para sanção até
+o encerramento da sessão legislativa. Assim, o Poder Executivo deverá encaminhar o PPA ao Congresso até
+31 de agosto do primeiro exercício financeiro. Sendo o PPA aprovado, o início de sua vigência começará no
+segundo exercício financeiro do mandato presidencial.
+
+O art. 165, § 4º, da Constituição, determina ainda que os planos e programas nacionais, regionais e setoriais
+previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo
+Congresso Nacional. Isso porque o PPA estabelece, de forma regionalizada, as diretrizes, objetivos e metas
+da Administração Pública Federal para as despesas de capital e outras delas decorrentes e para as relativas
+aos programas de duração continuada.
+
+A Lei de Diretrizes Orçamentárias (LDO) é o elo entre o planejamento estratégico (representado pelo PPA)
+e o operacional (representado pela LOA). Com isso, possibilita que as diretrizes e os objetivos delimitados
+pelo PPA sejam respeitados no orçamento.
+
+De acordo com a Constituição (art. 165, § 2º), a LDO:
+
+
+        a) compreenderá as metas e prioridades da administração pública federal;
+
+        b) estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com
+        trajetória sustentável da dívida pública;
+
+        c) orientará a elaboração da lei orçamentária anual;
+
+        d) disporá sobre as alterações na legislação tributária e;
+
+        e) estabelecerá a política de aplicação das agências financeiras oficiais de fomento.
+
+Guarde a informação: a LDO compreende as metas e prioridades da Administração Pública. Muitas questões
+tentarão confundir você, trocando as competências da LDO e do PPA.
+
+A LDO tem como função, ainda, autorizar:
+
+
+        a) a concessão de vantagens ou aumentos de remuneração;
+
+        b) a criação de cargos, empregos e funções ou alteração de estrutura de carreiras;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       7
+        www.estrategiaconcursos.com.br                                                                     47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+         c) a admissão ou contratação de pessoal, a qualquer título, pelos órgãos e entidades da
+         administração direta ou indireta.
+
+Isso é o que se depreende a partir da leitura do art. 169, § 1º, CF/88:
+
+         Art. 169 (...)
+
+         § 1º A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos,
+         empregos e funções ou alteração de estrutura de carreiras, bem como a admissão ou
+         contratação de pessoal, a qualquer título, pelos órgãos e entidades da administração direta
+         ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser
+         feitas:
+
+         I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa
+         de pessoal e aos acréscimos dela decorrentes;
+
+         II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as
+         empresas públicas e as sociedades de economia mista.
+
+A Lei Orçamentária Anual (LOA), por sua vez, é o orçamento propriamente dito. Consiste em instrumento
+pelo qual o Poder Público realiza a previsão de receitas e a fixação de despesas para o exercício seguinte.
+Tem como objetivo dar concretude aos objetivos e metas estabelecidos no PPA, em conformidade com o
+que foi estabelecido na LDO.
+
+A Lei Orçamentária Anual (LOA) é uma lei apenas em sentido “meramente formal”, pois apenas autoriza
+gastos, não obrigando o administrador público a executá-los. Falta-lhe os requisitos de generalidade e
+abstração. Em razão disso, é considerada uma lei de efeitos concretos. Apesar disso, o entendimento atual
+do STF é de que é possível o controle abstrato de constitucionalidade de leis orçamentárias.
+
+De acordo com a Constituição (art. 165, § 5º), a LOA conterá o orçamento fiscal, o orçamento da seguridade
+social e o orçamento de investimento das empresas estatais:
+
+         § 5º - A lei orçamentária anual compreenderá:
+
+         I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da
+         administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder
+         Público;
+
+         II - o orçamento de investimento das empresas em que a União, direta ou indiretamente,
+         detenha a maioria do capital social com direito a voto;
+
+         III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela
+         vinculados, da administração direta ou indireta, bem como os fundos e fundações
+         instituídos e mantidos pelo Poder Público.
+
+Segundo o art. 165, § 7º, CF/88, os orçamentos fiscais e de investimentos das estatais, compatibilizados
+com o plano plurianual, terão entre suas funções a de reduzir desigualdades inter-regionais, segundo
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     8
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+critério populacional. Cuidado! O examinador tentará confundir você, dizendo que o orçamento da
+seguridade social tem essa função!
+
+(TCE-RJ – 2022) A lei orçamentária anual deve compreender o orçamento de investimento das empresas em
+que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.
+Comentários:
+Nota-se que a questão reproduz adequadamente o art. 165, § 2º, inciso II, da CF/88. Questão correta.
+
+Conceito de Orçamento e Princípios Orçamentários
+
+A Constituição Federal, com o objetivo de disciplinar as finanças públicas, criou o instituto jurídico do
+orçamento. Trata-se de lei que contempla a previsão das receitas e a fixação das despesas para um
+determinado período, com o objetivo de permitir o adequado funcionamento do Estado.
+
+O Brasil adotou o orçamento-programa na organização do sistema-orçamentário. Trata-se de espécie de
+orçamento que tem como objetivo programar e planejar a ação governamental e a atividade econômica. São
+estabelecidos objetivos e metas, bem como os custos necessários à sua realização. Integra-se, assim,
+planejamento e orçamento.
+
+A Carta Magna prevê vários princípios referentes ao orçamento. São os chamados princípios orçamentários,
+de que trataremos a seguir:
+
+a) Princípio da legalidade
+
+O princípio da legalidade determina que todas as leis orçamentárias devem ser aprovadas pelo Poder
+Legislativo. Veja o que a Carta Magna dispõe a respeito:
+
+        Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+
+        I – o plano plurianual;
+
+        II – as diretrizes orçamentárias;
+
+        III – os orçamentos anuais.
+
+        (...)
+
+        Art. 166. Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao
+        orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso
+        Nacional, na forma do regimento comum.
+
+b) Princípio da Universalidade ou Globalização
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                   9
+        www.estrategiaconcursos.com.br                                                                 47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+O princípio da universalidade ou da globalização impõe que o orçamento deve conter todas as receitas e
+todas as despesas referentes à Administração Direta e à Indireta. Esse princípio não se aplica ao Plano
+Plurianual, pois essa norma não contempla todas as receitas e despesas.
+
+O princípio da universalidade se revela no art. 165, § 5º, CF/88, que mostra que a LOA compreenderá o
+orçamento fiscal, o orçamento de investimento das empresas estatais e o orçamento da seguridade social:
+
+        § 5º - A lei orçamentária anual compreenderá:
+
+        I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da
+        administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder
+        Público;
+
+        II - o orçamento de investimento das empresas em que a União, direta ou indiretamente,
+        detenha a maioria do capital social com direito a voto;
+
+        III - o orçamento da seguridade social, abrangendo todas as entidades e órgãos a ela
+        vinculados, da administração direta ou indireta, bem como os fundos e fundações
+        instituídos e mantidos pelo Poder Público.
+
+c) Princípio da Anualidade
+
+O princípio da anualidade determina que o orçamento deve se referir ao período de um ano. Segundo o art.
+167, §1º, “nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem
+prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de
+responsabilidade.” Em outras palavras, os investimentos cuja execução ultrapassem um exercício financeiro
+deverão ser incluídos no plano plurianual.
+
+Uma exceção ao princípio da anualidade que foi introduzida pela Emenda nº 102, de 2019, está prevista no
+§ 14 do art. 165 da CF/88. Segundo esse dispositivo, a lei orçamentária anual poderá conter previsões de
+despesas para exercícios seguintes, com a especificação dos investimentos plurianuais e daqueles em
+andamento.
+
+        As bancas examinadoras, tentando confundir os candidatos, adoram dizer que a
+        anterioridade é um princípio orçamentário. Isso está ERRADO! A anterioridade é um
+        princípio tributário.
+
+d) Princípio da Unidade
+
+Pelo princípio da unidade, o orçamento deve ser uno; em outras palavras, cada ente federativo deverá ter
+um único orçamento. Uma pergunta importante de se fazer é a seguinte: será que a existência do orçamento
+fiscal, do orçamento de investimentos e do orçamento da seguridade social viola o princípio da unidade? A
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                  10
+        www.estrategiaconcursos.com.br                                                                47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+resposta é negativa. Não há violação ao princípio da unidade. Para José Afonso da Silva, o princípio da
+unidade orçamentária não se preocupa com a unidade documental. O que é relevante é que esses
+documentos estejam subordinados a uma unidade de orientação política.
+
+e) Princípio da Exclusividade:
+
+O princípio da exclusividade ou da pureza orçamentária também tem previsão constitucional. Esse princípio
+determina que o orçamento não poderá conter matéria estranha à previsão das receitas e à fixação das
+despesas. Há, contudo, duas importantes exceções: (art. 165, § 8º)
+
+   o a autorização para abertura de créditos suplementares e;
+   o autorização para contratação de operações de crédito, ainda que por antecipação de receita, nos
+     termos da lei.
+
+                                                         ==219a34==
+
+        No sistema orçamentário brasileiro, há 3 (três) tipos de créditos adicionais.
+
+        1) Créditos suplementares: consistem em um reforço de dotação orçamentária. Podem ter
+        sua abertura autorizada pela Lei Orçamentária Anual, pois não obedecem ao princípio da
+        exclusividade.
+
+        2) Créditos especiais: são créditos que se destinam a despesas que não possuem uma
+        dotação orçamentária específica. Suponha que o Ministério da Fazenda queira, ao longo
+        do exercício financeiro, criar uma nova Ação Orçamentária, para a qual não havia dotação
+        prevista na LOA. Isso poderá ocorrer mediante os créditos especiais.
+
+        3) Créditos extraordinários: são os créditos destinados a despesas urgentes e
+        imprevisíveis, como no caso de guerra, comoção interna ou calamidade pública. São
+        abertos por medida provisória.
+
+As operações de crédito são operações semelhantes a empréstimos, podendo ser contraídas pelo Poder
+Público com o objetivo de cobrir suas despesas. No caso de operações de crédito por antecipação de receita,
+esses empréstimos são, em regra, saldados no mesmo exercício financeiro.
+
+f) Princípio da Quantificação dos créditos orçamentários
+
+Outro importante princípio orçamentário é o da quantificação dos créditos orçamentários. Por esse princípio,
+veda-se a concessão ou a utilização de créditos ilimitados. Veja como se dá sua previsão pela Carta Magna:
+
+        Art. 167. São vedados: (...)
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     11
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+        VII – a concessão ou utilização de créditos ilimitados.
+
+g) Princípio da proibição do estorno:
+
+O princípio da proibição do estorno, também previsto pela Constituição, determina que o Poder Público não
+pode transpor, remanejar ou transferir recursos sem autorização. Havendo falta de recursos, deve-se
+recorrer à abertura de crédito adicional ou solicitar ao Legislativo a transposição, remanejamento ou
+transferência de recursos.
+
+Busca-se, com isso, evitar a deformação do orçamento pelo Executivo, ou seja, a modificação de tudo aquilo
+que foi determinado pelo legislador. Veja como a Constituição trata dessa matéria:
+
+        Art. 167. São vedados:
+
+        (...)
+
+        VI – a transposição, o remanejamento ou a transferência de recursos de uma categoria de
+        programação para outra ou de um órgão para outro, sem prévia autorização legislativa.
+
+Os conceitos de transposição, remanejamento e transferência de recursos deveriam ser disciplinados,
+conforme a doutrina, por lei complementar. Tal lei ainda não foi editada. Com base no texto da Constituição,
+percebe-se que eles constituem formas de destinação de recursos de uma categoria de programação para
+outra ou de um órgão para outro.
+
+Com a EC nº 85/2015, foi inserido o § 5º no art. 167, estabelecendo que a transposição, o remanejamento
+ou a transferência de recursos de uma categoria de programação para outra poderão ser admitidos, no
+âmbito das atividades de ciência, tecnologia e inovação, mediante ato do Poder Executivo. Assim, não
+haverá necessidade de autorização legislativa para a transferência de recursos no âmbito dessas atividades.
+
+h) Princípio da não-vinculação de receitas ou da não-afetação
+
+O princípio da não vinculação de receitas ou da não afetação determina que nenhuma receita de impostos
+poderá ser reservada para atender a um gasto específico, salvo aquelas com destinação prevista pela
+Constituição. Esse princípio é previsto pela Constituição no art. 167, IV:
+
+        Art. 167. São vedados:
+
+        (...)
+
+        IV – a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a
+        repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a
+        destinação de recursos para as ações e serviços públicos de saúde, para manutenção e
+        desenvolvimento do ensino e para realização de atividades da administração tributária,
+        como determinado, respectivamente, pelos arts. 198, § 2.º, 212 e 37, XXII, e a prestação de
+        garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8.º,
+        bem como o disposto no § 4.º deste artigo.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     12
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Busca-se, com isso, conferir flexibilidade ao planejamento, evitando-se que determinadas despesas se
+tornem obrigatórias. Assim, os recursos estatais podem ser usados de maneira mais livre pelo legislador,
+conforme as necessidades verificadas naquele momento. Destaca-se que, respeitadas suas peculiaridades,
+os demais entes federativos poderão estabelecer as mesmas vinculações previstas para a União na CF/1988.
+
+
+i) Princípio da Programação
+
+Pelo princípio da programação, o orçamento deverá evidenciar os programas nacionais, regionais e
+setoriais; associa-se, assim, o orçamento ao atingimento da finalidade do plano plurianual. Em outras
+palavras, o orçamento deverá apresentar os objetivos da ação governamental.
+
+(Prefeitura de Manaus/AM – 2018) É vedado autorizar a abertura de créditos suplementares no texto da
+lei orçamentária anual municipal.
+
+Comentários:
+
+A abertura de créditos suplementares é exceção ao princípio da exclusividade. Nos termos do art. 165, § 8º,
+da Carta Magna, a lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação
+da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e
+contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei. Questão
+errada.
+
+Vedações Orçamentárias
+
+A Constituição Federal de 1988 prevê, em seu art. 167, diversas vedações relacionadas à matéria
+orçamentária. Sobre algumas delas, nós já comentamos anteriormente, pois são verdadeiros princípios
+orçamentárias. Outras, porém, serão novidade em seu estudo.
+
+        Art. 167. São vedados:
+
+        I - o início de programas ou projetos não incluídos na lei orçamentária anual;
+
+O Plano Plurianual (PPA), como sabemos, tem a vigência de 4 anos; logo, os programas e projetos nele
+previstos devem ser executados ao longo desse período. Assim, é plenamente possível que um programa ou
+projeto previsto no PPA não seja incluído na Lei Orçamentária Anual (LOA). No entanto, um programa ou
+projeto que não seja incluído na LOA não poderá ser iniciado. Para seu início, ele deve constar da LOA.
+
+        II - a realização de despesas ou a assunção de obrigações diretas que excedam os créditos
+        orçamentários ou adicionais;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    13
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Esse dispositivo está relacionado à necessidade de manutenção do equilíbrio orçamentário. Por esse
+princípio, as despesas autorizadas não poderão ser superiores à previsão de receitas.
+
+        III - a realização de operações de créditos que excedam o montante das despesas de capital,
+        ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade
+        precisa, aprovados pelo Poder Legislativo por maioria absoluta;
+
+Essa é a “regra de ouro” das finanças públicas. Segundo esse dispositivo, o endividamento (mediante a
+realização de operações de crédito) somente poderá ser admitido para a realização de investimentos
+(despesas de capital). Em outras palavras, não se admite o endividamento para que se possa arcar com
+despesas correntes.
+
+A CF/88 estabelece, todavia, uma exceção a essa regra: é possível a realização de operações de crédito se o
+Poder Legislativo aprovar (por maioria absoluta) créditos suplementares ou especiais com finalidade
+precisa.
+
+O § 6º do art. 166 estabelece que, no que diz respeito às operações de crédito efetuadas para a gestão da
+dívida pública mobiliária federal, somente serão consideradas as receitas realizadas no mesmo exercício
+financeiro em que for realizada a respectiva despesa. Ou seja, não podem ser confrontadas receitas e
+despesas de exercícios financeiros diferentes no que diz respeito à gestão da dívida pública mobiliária
+federal.
+
+        IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição
+        do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação
+        de recursos para as ações e serviços públicos de saúde, para manutenção e
+        desenvolvimento do ensino e para realização de atividades da administração tributária,
+        como determinado, respectivamente, pelos arts. 198, § 2º, 212 e 37, XXII, e a prestação de
+        garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º,
+        bem como o disposto no § 4º deste artigo;
+
+Esse é o princípio da não-afetação. Em regra, não pode haver vinculação da receita de impostos a órgão,
+fundo ou despesa. As exceções a esse princípio são as seguintes:
+
+     a) Repartição constitucional do produto da arrecadação dos impostos (art. 158 e art. 159).
+     b) Destinação de recursos para as ações e serviços públicos de saúde;
+     c) Destinação de recursos para manutenção e desenvolvimento do ensino
+     d) Destinação de recursos para a realização de atividades da administração tributária;
+     e) Prestação de garantias às operações de crédito por antecipação de receita.
+     f) Prestação de garantia ou contragarantia à União e para pagamento de débitos para com esta (art.
+     167, § 4º).
+
+        V - a abertura de crédito suplementar ou especial sem prévia autorização legislativa e sem
+        indicação dos recursos correspondentes;
+
+Os créditos suplementares e especiais são autorizados por lei. Dada a autorização legislativa, eles serão
+abertos mediante decreto do Poder Executivo.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    14
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+        VI - a transposição, o remanejamento ou a transferência de recursos de uma categoria de
+        programação para outra ou de um órgão para outro, sem prévia autorização legislativa;
+
+Esse é o princípio da proibição do estorno, sobre o qual já comentamos anteriormente.
+
+        VII - a concessão ou utilização de créditos ilimitados;
+
+Esse é o princípio da quantificação dos créditos orçamentários. Também já falamos sobre ele
+anteriormente.
+
+        VIII - a utilização, sem autorização legislativa específica, de recursos dos orçamentos fiscal
+        e da seguridade social para suprir necessidade ou cobrir déficit de empresas, fundações e
+        fundos, inclusive dos mencionados no art. 165, § 5º;
+
+O orçamento fiscal e o orçamento da seguridade social somente poderão ser utilizados para suprir
+necessidade ou cobrir déficit de empresas, fundações e fundos mediante autorização legislativa específica.
+
+        IX - a instituição de fundos de qualquer natureza, sem prévia autorização legislativa;
+
+A criação de fundos de qualquer natureza será feita mediante lei.
+
+        X - a transferência voluntária de recursos e a concessão de empréstimos, inclusive por
+        antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras,
+        para pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do
+        Distrito Federal e dos Municípios.
+
+Esse dispositivo estabelece que é vedada a entrega voluntária de recursos ou a concessão de empréstimos
+por um ente da federação a outro para pagamento de despesas de pessoal (ativo, inativo e pensionista).
+
+        XI - a utilização dos recursos provenientes das contribuições sociais de que trata o art. 195,
+        I, a, e II, para a realização de despesas distintas do pagamento de benefícios do regime
+        geral de previdência social de que trata o art. 201.
+
+As contribuições sociais previstas no art. 195, I e II, estão vinculadas às despesas com pagamento de
+benefícios do Regime Geral de Previdência Social (RGPS).
+
+        XII - na forma estabelecida na lei complementar de que trata o § 22 do art. 40, a utilização
+        de recursos de regime próprio de previdência social, incluídos os valores integrantes dos
+        fundos previstos no art. 249, para a realização de despesas distintas do pagamento dos
+        benefícios previdenciários do respectivo fundo vinculado àquele regime e das despesas
+        necessárias à sua organização e ao seu funcionamento;
+
+Como forma de a CF/88 também garantir a responsabilidade na gestão de regimes previdenciários pelos
+entes federativos, o art. 167, XII, proibiu que os recursos de regimes próprios de previdência social sejam
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     15
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+utilizados para a realização de despesas distintas do pagamento dos benefícios previdenciários e de
+despesas necessárias à sua organização e ao seu funcionamento.
+
+Assim, em outras palavras, os recursos destinados aos regimes próprios de previdência social têm uma
+finalidade definida: o pagamento de benefícios previdenciários. É justamente nisso que esses recursos
+devem ser utilizados.
+
+        XIII - a transferência voluntária de recursos, a concessão de avais, as garantias e as
+        subvenções pela União e a concessão de empréstimos e de financiamentos por instituições
+        financeiras federais aos Estados, ao Distrito Federal e aos Municípios na hipótese de
+        descumprimento das regras gerais de organização e de funcionamento de regime próprio
+        de previdência social.
+
+Caso os Estados, o Distrito Federal e os Municípios descumpram as regras gerais de organização e de
+funcionamento de regime próprio de previdência social, as quais são instituídas por lei complementar
+federal, eles deverão, de algum modo, ser penalizados.
+
+É isso o que prevê o art. 167, XIII, CF/88, segundo o qual é vedada a transferência voluntária de recursos, a
+concessão de avais, as garantias e as subvenções pela União e a concessão de empréstimos e de
+financiamentos por instituições financeiras federais aos entes federativos que estiverem descumprindo as
+regras gerais de organização e de funcionamento do RPPS.
+
+        XIV - a criação de fundo público, quando seus objetivos puderem ser alcançados mediante
+        a vinculação de receitas orçamentárias específicas ou mediante a execução direta por
+        programação orçamentária e financeira de órgão ou entidade da administração pública.
+
+O inciso XIV, que foi introduzido pela Emenda Constitucional nº 109/2021, mostra que não se pode criar
+fundo público se os objetivos pretendidos com essa criação puderem ser atingidos por vinculação de
+receitas orçamentárias específicas ou pela execução direta por programação orçamentária e financeira de
+órgão ou entidade da administração pública. A criação de fundos públicos se mostra, portanto, algo residual
+e não uma regra geral.
+
+(Prefeitura de Boa Vista – RR – 2019) Desde que autorizados por lei específica, os estados podem realizar
+transferência voluntária de recursos financeiros para realizar o pagamento de despesas com pessoal ativo
+dos municípios.
+
+Comentários:
+
+O art. 167, X, da Constituição, veda a transferência voluntária de recursos e a concessão de empréstimos,
+inclusive por antecipação de receita, pelos Governos Federal e Estaduais e suas instituições financeiras, para
+pagamento de despesas com pessoal ativo, inativo e pensionista, dos Estados, do Distrito Federal e dos
+Municípios. Questão errada.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       16
+        www.estrategiaconcursos.com.br                                                                     47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+A Emenda Constitucional nº 128, de 22 de dezembro de 2022, introduziu o § 7º no art. 167 da CF/88, cuja
+redação é a seguinte:
+
+        § 7º A lei não imporá nem transferirá qualquer encargo financeiro decorrente da prestação
+        de serviço público, inclusive despesas de pessoal e seus encargos, para a União, os Estados,
+        o Distrito Federal ou os Municípios, sem a previsão de fonte orçamentária e financeira
+        necessária à realização da despesa ou sem a previsão da correspondente transferência de
+        recursos financeiros necessários ao seu custeio, ressalvadas as obrigações assumidas
+        espontaneamente pelos entes federados e aquelas decorrentes da fixação do salário
+        mínimo, na forma do inciso IV do caput do art. 7º desta Constituição.
+
+Por fim, a Emenda nº 109/21 introduziu dois parágrafos no art. 168 da CF/88. Este tratava apenas dos
+duodécimos (1/12 avos dos recursos previstos na Lei Orçamentária Anual) que devem ser repassados pelo
+Poder Executivo aos demais Poderes, ao Ministério Público e à Defensoria Pública até o dia 20 de cada mês.
+Os parágrafos acrescentados vedam que os recursos financeiros oriundos dos repasses duodecimais sejam
+transferidos a fundos e preveem que o saldo financeiro ("sobras de recursos") decorrente dos recursos
+entregues por duodécimos deve ser restituído ao caixa único do Tesouro do ente federativo, ou então será
+deduzido das primeiras parcelas duodecimais do exercício seguinte:
+
+        Art. 168. Os recursos correspondentes às dotações orçamentárias, compreendidos os
+        créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e
+        Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20
+        de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. 165, §
+        9º.
+
+        § 1º É vedada a transferência a fundos de recursos financeiros oriundos de repasses
+        duodecimais.
+
+        § 2º O saldo financeiro decorrente dos recursos entregues na forma do caput deste artigo
+        deve ser restituído ao caixa único do Tesouro do ente federativo, ou terá seu valor deduzido
+        das primeiras parcelas duodecimais do exercício seguinte.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    17
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+                 PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+O PPA, a LDO e a LOA são leis de iniciativa do Poder Executivo (art. 165, CF), devendo ser apreciadas pelas
+duas Casas do Congresso Nacional, nos parâmetros do regimento comum (art. 166, CF). Seu processo
+legislativo apresenta várias peculiaridades, conforme veremos a seguir.
+
+O art. 165, § 9º, da Constituição Federal de 1988 determina que:
+
+         Art. 165, § 9.º Cabe à lei complementar:
+
+         I – dispor sobre o exercício financeiro, a vigência, os prazos, a elaboração e a organização
+         do plano plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual;
+
+         II – estabelecer normas de gestão financeira e patrimonial da administração direta e
+         indireta bem como condições para a instituição e funcionamento de fundos.
+
+         III - dispor sobre critérios para a execução equitativa, além de procedimentos que serão
+         adotados quando houver impedimentos legais e técnicos, cumprimento de restos a pagar
+         e limitação das programações de caráter obrigatório, para a realização do disposto nos §§
+         11 e 12 do art. 166.
+
+Como essa lei ainda não foi editada, é a Lei 4.320/64, recepcionada como lei complementar, que prevê as
+normas gerais de direito financeiro para os entes federados.
+
+O processo legislativo se inicia com a elaboração da proposta legislativa. As leis orçamentárias são, conforme
+o art. 165 da Constituição Federal, de iniciativa do Poder Executivo. Na esfera federal, essa iniciativa é de
+competência privativa do Presidente da República (art. 84, XXIII, CF). Trata-se de iniciativa vinculada, uma
+vez que deve ser exercida obrigatoriamente pelo seu titular em determinado período, por disposição
+constitucional e legal. Nesse sentido, o art. 85 da Constituição Federal determina que são crime de
+responsabilidade os atos do Presidente da República que atentem contra a lei orçamentária.
+
+Destaca-se que a Constituição Federal assegurou a autonomia administrativa e financeira tanto ao Poder
+Judiciário quanto ao Ministério Público (art. 99 c/c art. 127, CF). Tanto os tribunais (art. 99, § 1º, CF) quanto
+o Ministério Público (art. 127, § 3º, CF) elaborarão suas propostas orçamentárias, dentro dos limites
+estabelecidos na LDO.
+
+Os prazos para o ciclo orçamentário, no âmbito federal, são determinados pelo art. 35, § 2º, I a III, do ADCT:
+
+         Art. 35, § 2.º Até a entrada em vigor da lei complementar a que se refere o art. 165, § 9.º,
+         I e II, serão obedecidas as seguintes normas:
+
+         I – o projeto do plano plurianual, para vigência até o final do primeiro exercício financeiro
+         do mandato presidencial subsequente, será encaminhado até quatro meses antes do
+         encerramento do primeiro exercício financeiro e devolvido para sanção até o
+         encerramento da sessão legislativa;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                          18
+        www.estrategiaconcursos.com.br                                                                        47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+         II – o projeto de lei de diretrizes orçamentárias será encaminhado até oito meses e meio
+         antes do encerramento do exercício financeiro e devolvido para sanção até o
+         encerramento do primeiro período da sessão legislativa;
+
+         III – o projeto de lei orçamentária da União será encaminhado até quatro meses antes do
+         encerramento do exercício financeiro e devolvido para sanção até o encerramento da
+         sessão legislativa.
+
+
+Note que o texto constitucional prevê dois prazos, para cada uma das leis orçamentárias: um para
+encaminhamento da proposta e outro para devolução. O primeiro consiste na data limite para o Executivo
+enviar ao Legislativo os projetos de lei orçamentária. Já o segundo corresponde à data limite para que o
+Poder Legislativo envie os projetos para a sanção do Chefe do Executivo. Esquematizando:
+
+                   • Encaminhamento: até 4 meses antes do encerramento do 1.° Exercício
+   PPA               financeiro (31.08).
+                   • Devolução: até o encerramento da sessão legislativa (22.12).
+                   • Encaminhamento: até 8 meses e meio antes do encerramento do
+                     exercício financeiro (15.04).
+   LDO             • Devolução: até o encerramento do primeiro período da sessão
+                     legislativa (17.07).
+                   • Encaminhamento: até 4 meses antes do encerramento do exercício
+   LOA               financeiro (31.08).
+                   • Devolução: até o encerramento da sessão legislativa (22.12).
+
+
+Os prazos referentes ao ciclo orçamentário dos Estados e dos Municípios constam das respectivas
+Constituições Estaduais ou Leis Orgânicas.
+
+A fase de discussão se subdivide em proposição de emendas (emendamento), voto do relator, redação final
+e proposição em Plenário. Nela, os parlamentares debatem sobre a proposta legislativa. A apreciação dos
+projetos das leis orçamentárias (PPA, LDO e LOA) é feita pelas duas Casas do Congresso Nacional, na forma
+do regimento comum (art. 166, CF).
+
+No que se refere à fase de emendamento, determina a Constituição que as emendas aos projetos de leis
+orçamentárias serão apresentadas na Comissão mista, que sobre elas emitirá parecer, e apreciadas, na
+forma regimental, pelo Plenário das duas Casas do Congresso Nacional. Essa comissão, como o nome nos faz
+imaginar, é composta de deputados e senadores (art. 166, § 2º, CF/88).
+
+As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem somente podem ser
+aprovadas caso (art. 166, § 3º, CF/88):
+
+       a) Sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                 19
+         www.estrategiaconcursos.com.br                                                               47
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+       b) Indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa,
+       excluídas as que incidam sobre dotações para pessoal e seus encargos ou serviço da dívida, ou, ainda,
+       sobre transferências tributárias constitucionais para Estados, Municípios e Distrito Federal;
+
+       c) Sejam relacionadas com a correção de erros ou omissões ou com os dispositivos do texto do
+       projeto de lei.
+
+A fase de emendamento do projeto de Lei de Diretrizes Orçamentárias também é objeto de limitações pela
+Lei Fundamental. Reza a Carta Magna (art. 166, § 4º) que as emendas ao projeto de lei de diretrizes
+orçamentárias não poderão ser aprovadas quando incompatíveis com o plano plurianual.
+
+É importante destacar o entendimento do Supremo Tribunal Federal de que embora a iniciativa dos projetos
+de leis orçamentárias seja de competência reservada do Chefe do Poder Executivo, podem os membros do
+Legislativo oferecer emendas aos mesmos. Isso porque o poder de emendar projetos de lei é prerrogativa
+de ordem político-jurídica inerente ao exercício da atividade legislativa (ADI 1.050-MC, DJ de 23.04.2004).
+Também é importante ressaltar que o STF entende que o plano plurianual não pode ser modificado para
+aumentar as despesas (ADI 2.810, DJ de 25.04.2003 e ADI 1.254-MC, DJ de 18.08.1995).
+
+No que se refere à fase de deliberação, a regra é a não rejeição das leis orçamentárias. Nesse sentido, dispõe
+a Constituição que a sessão legislativa não deverá ser interrompida sem a aprovação do projeto de lei de
+diretrizes orçamentárias (art. 57, § 2º, CF). Há, contudo, uma exceção à regra. É possível a rejeição do projeto
+de LOA, o que se infere a partir do art. 166, § 8º:
+
+         Art. 166, § 8º - Os recursos que, em decorrência de veto, emenda ou rejeição do projeto
+         de lei orçamentária anual, ficarem sem despesas correspondentes poderão ser utilizados,
+         conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica
+         autorização legislativa.
+
+No processo legislativo orçamentário, a mensagem presidencial é o instrumento usado na comunicação
+entre o Presidente da República e o Congresso Nacional. A mensagem serve para encaminhar os projetos
+do PPA, da LDO e da LOA e também pode ser enviada para propor modificação nesses projetos, enquanto
+não iniciada a votação, na Comissão mista, da parte cuja alteração é proposta (art. 166, § 5º, CF).
+
+(TRT 21a Região – 2015) Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao
+orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na
+forma do regimento comum.
+
+Comentários: A apreciação dos projetos das leis orçamentárias (PPA, LDO e LOA) é feita pelas duas Casas
+do Congresso Nacional, na forma do regimento comum (art. 166, CF). Questão correta.
+
+Emenda Constitucional nº 86/2015 – A PEC do Orçamento Impositivo:
+
+O orçamento público tem a característica de ser autorizativo, e não impositivo. O Poder Executivo não está
+obrigado a executar as despesas previstas na Lei Orçamentária Anual (LOA), possuindo mera autorização
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                         20
+        www.estrategiaconcursos.com.br                                                                       47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+para fazê-lo. Por exemplo, suponha que a LOA destine R$ 5 bilhões para a Segurança Pública. Desse valor,
+nem tudo precisa ser gasto, ou seja, nem tudo precisa ser executado.
+
+Isso sempre levou a uma intensa negociação política entre Poder Executivo e o Poder Legislativo. Você já
+ouviu falar do “toma lá, dá cá”, não é? Pois bem. Os parlamentares sempre tiveram a prerrogativa de
+apresentar emendas parlamentares para alteração da LOA, mas o Poder Executivo não era obrigado a
+executá-las.
+
+O Poder Executivo, então, só executava as emendas parlamentares daqueles congressistas que “votassem
+com o governo”. Por outro lado, os parlamentares que não apoiassem o governo, não tinham suas emendas
+executadas, ficando em “maus lençóis” com sua base de apoio.
+
+Foi por essa razão que se começou a trabalhar na Emenda Constitucional nº 86/2015, que ficou conhecida
+como “PEC do Orçamento Impositivo”. Vamos entender o porquê desse nome.
+                                                         ==219a34==
+
+Quando se fala em “orçamento impositivo”, a referência que se faz é à obrigatoriedade de que ocorra a
+execução das despesas previstas na LOA. Em outras palavras, os gestores públicos deverão efetivamente
+gastar aquilo que está previsto no orçamento. É diferente da ideia de “orçamento autorizativo”, segundo a
+qual a LOA apenas autoriza despesas, sem impor ao gestor público que lhes execute.
+
+Mas o que isso tudo tem a ver com a Emenda Constitucional nº 86?
+
+Na verdade, a EC nº 86/2015 poderia ser chamada de “PEC das Emendas Parlamentares Impositivas” (e não
+PEC do Orçamento Impositivo!). Explico....
+
+As despesas previstas na LOA continuam sendo uma mera autorização para o gasto pelos gestores públicos.
+Todavia, estabeleceu-se que as emendas parlamentares individuais serão obrigatoriamente executadas.
+
+Esse é um dos pontos centrais dessa Emenda Constitucional nº 86/2015. Mas não é só isso...
+
+Com a EC nº 86/2015, os parlamentares (considerando-se o universo total de Deputados e Senadores!)
+tinham direito a apresentar emendas individuais à LOA em um montante total de 1,2% da receita líquida
+prevista no projeto de lei orçamentária encaminhada pelo Poder Executivo. Ocorre que, com a Emenda
+Constitucional nº 126/2022, esse número passou a ser de 2% da receita corrente líquida do exercício
+anterior ao do encaminhamento do projeto. Algumas observações relevantes:
+
+       a) As emendas parlamentares são alterações da Lei Orçamentária Anual. Até a EC nº 86/2015, não se
+       sabia exatamente o valor dos recursos a serem destinados às emendas parlamentares individuais.
+       Com as Emendas Constitucionais, o valor das emendas parlamentares individuais passa a ser um valor
+       certo, definido em 2% da Receita Corrente Líquida do exercício anterior ao do encaminhamento do
+       projeto da lei orçamentária.
+
+       b) Do total previsto para as emendas parlamentares individuais, metade (ou seja, 1% da receita
+       corrente líquida do exercício anterior ao do encaminhamento do projeto) será destinada a ações e
+       serviços públicos de saúde.
+
+       c) Do limite de 2% da receita corrente líquida do exercício anterior ao do encaminhamento do projeto,
+       1,55% caberá às emendas de Deputados e 0,45% às de Senadores.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     21
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+A EC nº 86/2015 definiu também um percentual mínimo para os gastos da União com ações e serviços
+públicos de saúde. Agora, segundo o art. 198, §2º, I, a União deverá aplicar, pelo menos, 15% da sua Receita
+Corrente Líquida em ações e serviços públicos de saúde.
+
+Emenda Constitucional nº 100/2019 – Emendas de bancada impositivas:
+
+As emendas à LOA representam uma forma de o Poder Legislativo influenciar na alocação dos recursos
+públicos. Elas podem ser de 4 (quatro) diferentes tipos: individuais, de bancada, de comissão e da relatoria.
+Para o nosso estudo, é interessante saber apenas a diferença entre as emendas individuais e as emendas de
+bancada.
+
+As emendas individuais são apresentadas por cada Deputado ou Senador, individualmente. As emendas de
+bancada, por outro lado, são coletivas, sendo apresentadas pelas bancadas estaduais ou regionais.
+
+A EC nº 86/2015 tratou das emendas individuais à LOA, determinando que elas se tornassem impositivas, ou
+seja, de execução obrigatória. As EC nº 100/2019, por outro lado, tem como escopo as emendas de bancada.
+
+        Art. 166 (...)
+
+        § 12 A garantia de execução de que trata o § 11 deste artigo aplica-se também às
+        programações incluídas por todas as emendas de iniciativa de bancada de parlamentares
+        de Estado ou do Distrito Federal, no montante de até 1% (um por cento) da receita corrente
+        líquida realizada no exercício anterior.
+
+Assim, as emendas de bancada, aprovadas no montante de até 1% da Receita Corrente Líquida (RCL) do
+exercício anterior, são de execução obrigatória. Em outras palavras, as emendas de bancada passam a ser
+impositivas. Cabe destacar que, havendo impedimentos de ordem técnica, as emendas de bancada, assim
+como as individuais, não serão executadas.
+
+(TRT 21a Região – 2015) As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de
+2,4% (dois inteiros e quatro décimos por cento) da receita corrente líquida prevista no projeto encaminhado
+pelo Poder Executivo, sendo que a metade deste percentual será destinada a ações e serviços públicos de
+saúde.
+
+Comentários:
+
+As emendas individuais ao projeto de lei orçamentárias serão aprovadas no limite de 1,2% da receita
+corrente líquida (antes da EC nº 126/2022) e de 2% da receita corrente líquida do exercício anterior ao do
+encaminhamento do projeto (após EC nº 126/2022). Desse valor, metade deste percentual será destinada a
+ações e serviços públicos de saúde. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      22
+        www.estrategiaconcursos.com.br                                                                    47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Emenda Constitucional nº 105/2019 – Emendas individuais de Deputados
+Federais e Senadores ao Orçamento Federal
+
+As emendas individuais impositivas podem levar ao repasse de recursos da União por meio de duas espécies
+de transferências financeiras (ou repasses de recursos):
+
+   ➢ Transferência especial;
+   ➢ Transferência com finalidade definida
+
+Os recursos da transferência com finalidade definida estão vinculados à programação estabelecida na
+emenda parlamentar e devem ser aplicados nas áreas de competência constitucional da União. Logo, essa
+modalidade de transferência é um "recurso carimbado", que só pode ser utilizado em áreas previamente
+especificadas.
+
+Já os recursos da transferência especial são repassados diretamente ao ente beneficiado,
+independentemente de celebração de convênio ou de instrumento congênere. Eles pertencem ao ente
+federado no ato da efetiva transferência financeira e poderão ser aplicados em programações finalísticas
+das áreas de competência do Poder Executivo do ente federativo beneficiado.
+
+Note que o ente beneficiado pela transferência especial tem maior liberdade para empregar os recursos
+recebidos quando se compara com os recursos da transferência com finalidade definida, em que os recursos
+só podem ser empregados em áreas de competência constitucional da União e vinculados à programação
+estabelecida na emenda parlamentar. Pelo menos 70% (setenta por cento) das transferências especiais
+devem ser aplicadas em despesas de capital.
+
+Destacadas as diferenças entre as espécies de transferências financeiras, vamos agora tratar daquilo que há
+de comum entre elas. Independentemente da espécie, os recursos transferidos aos Estados, Distrito Federal
+e Municípios não poderão ser empregados para o pagamento de: i) despesas com pessoal e encargos sociais
+relativas a ativos e inativos, e com pensionistas; e ii) encargos referentes ao serviço da dívida.
+
+Outro aspecto importante é que os recursos transferidos NÃO integrarão a receita dos Estados, do Distrito
+Federal e dos Municípios para fins de repartição e para o cálculo dos limites da despesa com pessoal ativo
+e inativo e do endividamento do ente federado.
+
+Emenda Constitucional nº 109/2021 – PEC Emergencial
+
+A emenda estabelece uma espécie de "cláusula de calamidade", a ser decretada exclusivamente pelo
+Congresso Nacional após proposta do Presidente da República.
+
+        Art. 167-A. Apurado que, no período de 12 (doze) meses, a relação entre despesas
+        correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos
+        Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo,
+        Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública
+        do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação
+        da:
+
+        [...]
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    23
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Temos a regra de que os gatilhos elencados nos incisos do art. 167-A são acionados quando os gastos do
+poder público atingirem o patamar de 95% das despesas totais. Quando esse patamar for atingido, devem
+ser adotadas as medidas descritas no art. 167-A, dentre as quais podemos citar a vedação à concessão de
+aumento aos servidores públicos, a concessão de novos incentivos fiscais e a realização de concursos
+públicos (podendo ser realizados apenas para a reposição de vacâncias).
+
+Com a decretação de calamidade pública, adota-se o que a Constituição chama de Regime Extraordinário
+Fiscal, Financeiro e de Contratações. Em razão do contexto, uma série de regras constitucionais passam a ser
+flexibilizadas.
+
+Por exemplo, a chamada "regra de ouro" prevista no art. 167, inciso III, fica dispensada de ser observada
+durante todo o exercício financeiro em que vigorar a calamidade pública (art. 167-E). No mesmo sentido,
+podem ser adotados processos simplificados de contratação de pessoal, em caráter temporário e
+emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de
+condições a todos os concorrentes (art. 167-C). Nestas últimas hipóteses, as medidas valem apenas com o
+propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos, no seu período de duração.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     24
+        www.estrategiaconcursos.com.br                                                                   47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Ajuste Fiscal e Regime Extraordinário Fiscal
+
+O ano de 2020 foi marcado pelo início da pandemia do novo coronavírus (Sars-CoV-2). Em função das
+restrições de circulação de pessoas e das demais medidas de biossegurança que atenuam a propagação da
+doença provocada pelo vírus, houve uma sensível redução da atividade econômica no Brasil e em outros
+países. Com isso, as contas públicas também foram bastante afetadas, levando ao aumento do déficit
+primário.
+
+A promulgação da Emenda Constitucional nº 109/2021 viabiliza a concessão do auxílio emergencial e, ao
+mesmo tempo, dispõe acerca de "gatilhos" que viabilizam um melhor controle das despesas públicas e
+regras fiscais compensatórias.
+
+A emenda estabelece uma espécie de "cláusula de calamidade", a ser decretada exclusivamente pelo
+Congresso Nacional após proposta do Presidente da República (art. 167-B).
+
+Veja o que diz o caput do art. 167-A, acrescido pela citada emenda:
+
+        Art. 167-A. Apurado que, no período de 12 (doze) meses, a relação entre despesas
+        correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos
+        Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo,
+        Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública
+        do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação
+        da:
+
+        I - concessão, a qualquer título, de vantagem, aumento, reajuste ou adequação de
+        remuneração de membros de Poder ou de órgão, de servidores e empregados públicos e
+        de militares, exceto dos derivados de sentença judicial transitada em julgado ou de
+        determinação legal anterior ao início da aplicação das medidas de que trata este artigo;
+
+        II - criação de cargo, emprego ou função que implique aumento de despesa;
+
+        III - alteração de estrutura de carreira que implique aumento de despesa;
+
+        IV - admissão ou contratação de pessoal, a qualquer título, ressalvadas:
+
+        a) as reposições de cargos de chefia e de direção que não acarretem aumento de despesa;
+
+        b) as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios;
+
+        c) as contratações temporárias de que trata o inciso IX do caput do art. 37 desta
+        Constituição; e
+
+        d) as reposições de temporários para prestação de serviço militar e de alunos de órgãos de
+        formação de militares;
+
+        V - realização de concurso público, exceto para as reposições de vacâncias previstas no
+        inciso IV deste caput;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    25
+        www.estrategiaconcursos.com.br                                                                  47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+        VI - criação ou majoração de auxílios, vantagens, bônus, abonos, verbas de representação
+        ou benefícios de qualquer natureza, inclusive os de cunho indenizatório, em favor de
+        membros de Poder, do Ministério Público ou da Defensoria Pública e de servidores e
+        empregados públicos e de militares, ou ainda de seus dependentes, exceto quando
+        derivados de sentença judicial transitada em julgado ou de determinação legal anterior ao
+        início da aplicação das medidas de que trata este artigo;
+
+        VII - criação de despesa obrigatória;
+
+        VIII - adoção de medida que implique reajuste de despesa obrigatória acima da variação da
+        inflação, observada a preservação do poder aquisitivo referida no inciso IV do caput do art.
+        7º desta Constituição;
+
+        IX - criação ou expansão de programas e linhas de financiamento, bem como remissão,
+        renegociação ou refinanciamento de dívidas que impliquem ampliação das despesas com
+                                                         ==219a34==
+
+        subsídios e subvenções;
+
+        X - concessão ou ampliação de incentivo ou benefício de natureza tributária.
+
+De mais notório, temos a regra de que os gatilhos elencados nos incisos do art. 167-A são acionados quando
+os gastos do poder público atingirem o patamar de 95% das despesas totais. Quando esse nível for atingido,
+podem ser adotadas as medidas descritas no art. 167-A, dentre as quais podemos citar a vedação à
+concessão de aumento aos servidores públicos, a concessão de novos incentivos fiscais e a realização de
+concursos públicos (podendo ser realizados apenas para a reposição de vacâncias).
+
+A Emenda nº 109/2021 ainda acrescentou outros artigos à CF/88, dentre os quais merece maior destaque o
+art. 167-B, transcrito a seguir:
+
+        Art. 167-B. Durante a vigência de estado de calamidade pública de âmbito nacional,
+        decretado pelo Congresso Nacional por iniciativa privativa do Presidente da República, a
+        União deve adotar regime extraordinário fiscal, financeiro e de contratações para atender
+        às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível
+        com o regime regular, nos termos definidos nos arts. 167-C, 167-D, 167-E, 167-F e 167-G
+        desta Constituição.
+
+Com a decretação de calamidade pública, adota-se o que a Constituição chama de Regime Extraordinário
+Fiscal, Financeiro e de Contratações. Em razão do contexto, uma série de regras constitucionais passam a
+ser flexibilizadas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                   26
+        www.estrategiaconcursos.com.br                                                                 47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+(TELEBRAS – 2022) Apurado que, no período de doze meses, a relação entre despesas correntes e receitas
+correntes supera 95% (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos
+Municípios, é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de
+Contas e à Defensoria Pública do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal
+de vedação da realização de concurso público, sem exceções.
+Comentários:
+O art. 167-A, inciso V, possibilita a realização de concurso público apenas para repor as vacâncias
+mencionadas pelo inciso IV. Veja os dispositivos aplicáveis:
+Art. 167-A [...]
+IV - admissão ou contratação de pessoal, a qualquer título, ressalvadas;
+a) as reposições de cargos de chefia e de direção que não acarretem aumento de despesa;
+b) as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios;
+c) as contratações temporárias de que trata o inciso IX do caput do art. 37 desta Constituição; e
+d) as reposições de temporários para prestação de serviço militar e de alunos de órgãos de formação de
+militares;
+V - realização de concurso público, exceto para as reposições de vacâncias previstas no inciso IV deste caput;
+Questão errada.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                      27
+         www.estrategiaconcursos.com.br                                                                    47
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+                                    QUESTÕES COMENTADAS
+1.​    (FGV/CAGE-RS/Auditor do Estado/2025) Determinado Deputado Federal apresentou
+proposição legislativa para que a dívida pública, de todos os níveis de governo, apresentasse
+uma trajetória de convergência considerando o seu montante e os limites definidos na
+legislação, com a correlata especificação de medidas de ajuste, suspensão e vedações
+relacionadas à gestão de pessoal.
+Considerando os balizamentos estabelecidos pela sistemática constitucional, é correto afirmar
+em relação à referida proposição que
+(A) em razão da autonomia política dos entes federativos, as medidas previstas na proposição
+serão aplicadas apenas à União.
+(B) a proposição apresenta vício de iniciativa, pois somente poderia ser apresentada pelo Chefe
+do Poder Executivo Federal.
+(C) lei ordinária nacional deve dispor sobre as medidas descritas na proposição, além de outras
+afetas ao equilíbrio na evolução da dívida pública.
+(D) as medidas previstas na proposição são constitucionais, sendo que todos os entes federativos
+devem conduzir suas políticas fiscais de forma a atendê-las caso a proposição seja convertida em
+lei.
+(E)    as medidas de caráter nacional devem ficar adstritas à especificação da trajetória de
+convergência da dívida, não podendo avançar para a previsão de sanções, como aquelas
+previstas na proposição.
+Comentários:
+LETRA A. INCORRETA. Muito cuidado, pois não se aplica apenas à União, mas a todos os entes
+federados (art. 164-A da CRFB/88).
+LETRA B. INCORRETA. No caso, não há vício de iniciativa. A matéria não passa por iniciativa
+reservada do Presidente da República.
+LETRA C. INCORRETA. A lei complementar deve dispor sobre as medidas descritas.
+LETRA D. CORRETA. De acordo com o art. 163 e 164, as medidas previstas na proposição são
+constitucionais, vejamos:
+Art. 163. Lei complementar disporá sobre: [...]
+VIII - sustentabilidade da dívida, especificando:
+a) indicadores de sua apuração;
+b) níveis de compatibilidade dos resultados fiscais com a trajetória da dívida;
+c) trajetória de convergência do montante da dívida com os limites definidos em legislação;
+d) medidas de ajuste, suspensões e vedações;
+e) planejamento de alienação de ativos com vistas à redução do montante da dívida
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          28
+        www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+Art. 164-A. A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas
+fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar
+referida no inciso VIII do caput do art. 163 desta Constituição.
+LETRA E. INCORRETA. Em verdade, é possível a previsão de sanções.
+Gabarito: Letra D.
+
+
+2.​     (FGV/TCE-PA/Auditor de Controle Externo/2024) Em 2021, visando enfrentar as
+consequências sociais e econômicas da pandemia da Covid-19, a Constituição Federal de 1988
+foi alterada. Além de regras transitórias sobre redução de benefícios tributários, foi promovida a
+desvinculação parcial do superávit financeiro de fundos públicos, bem como suspensas
+condicionalidades para realização de despesas com concessão de auxílio emergencial residual.
+No contexto do dispositivo que promoveu tais alterações, destaca-se os a seguir elencados, à
+                                                         ==219a34==
+
+exceção de um. Assinale-o.
+a) A inclusão da obrigatoriedade aos entes públicos para disponibilizar suas informações e dados
+contábeis, orçamentários e fiscais, conforme periodicidade, formato e sistema estabelecidos pelo
+órgão central de contabilidade da União, de forma a garantir a rastreabilidade, a
+comparabilidade e a publicidade dos dados coletados.
+b) A disposição, em Lei Complementar, de indicadores para apuração da dívida pública, visando
+a aferição de sua sustentabilidade.
+c) A compatibilização dos resultados fiscais com a trajetória da dívida pública.
+d) A preocupação com a sustentabilidade fiscal do setor público, impondo uma trajetória de
+convergência do montante da dívida com os limites definidos em legislação.
+e) A possibilidade de planejamento de alienação de ativos com vistas à redução do montante da
+dívida pública.
+Comentários:
+LETRA A. INCORRETA. É o nosso gabarito! É uma informação obrigatória que foi incorporada em
+2020 pela Emenda Constitucional nº 108. Além disso, essa informação fortalece o princípio da
+transparência. Vejamos o dispositivo:
+Art. 163-A. A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas
+informações e dados contábeis, orçamentários e fiscais, conforme periodicidade, formato e
+sistema estabelecidos pelo órgão central de contabilidade da União, de forma a garantir a
+rastreabilidade, a comparabilidade e a publicidade dos dados coletados, os quais deverão ser
+divulgados em meio eletrônico de amplo acesso público
+LETRA B. CORRETA. Esse foi um dos dispositivos incorporados na Constituição através da EC nº
+109/2021. Assim, é possível a edição de Lei Complementar tendo como objeto a
+sustentabilidade da dívida, especificando indicadores de sua apuração, de acordo com o art. 163,
+inciso VIII, alínea “a” da CRFB/88:
+Art. 163. Lei complementar disporá sobre:
+VIII - sustentabilidade da dívida, especificando:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           29
+        www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+a) indicadores de sua apuração;
+LETRA C. CORRETA. Exatamente! Com a EC nº109/2021 a Constituição passou a permitir a
+edição de LC que vise a sustentabilidade da dívida especificando os níveis de compatibilidade
+dos resultados fiscais com a trajetória da dívida, de acordo com o art. 163, inciso VIII, alínea “b”
+da CRFB/88:
+Art. 163. Lei complementar disporá sobre:
+VIII - sustentabilidade da dívida, especificando:
+b) níveis de compatibilidade dos resultados fiscais com a trajetória da dívida;
+LETRA D. CORRETA. Isso mesmo! Com o advento da EC nº109/2021 tornou-se possivel a a
+edição de LC que vise a sustentabilidade da dívida especificando trajetória de convergência do
+montante da dívida com os limites definidos em legislação, conforme art. 163, inciso VIII, alínea
+“c” da CRFB/88:
+Art. 163. Lei complementar disporá sobre:
+VIII - sustentabilidade da dívida, especificando:
+c) trajetória de convergência do montante da dívida com os limites definidos em legislação;
+LETRA E. CORRETA. A Emenda Constituição nº 109/2021, trouxe a possibilidade de lei
+complementar dispor sobre a sustentabilidade da dívida, especificando o planejamento de
+alienação de ativos com vistas à redução do montante da dívida, conforme art. 163, inciso VIII,
+alínea “e” da CRFB/88:
+Art. 163. Lei complementar disporá sobre:
+VIII - sustentabilidade da dívida, especificando:
+e) planejamento de alienação de ativos com vistas à redução do montante da dívida.            (Incluído
+pela Emenda Constitucional nº 109, de 2021)
+Gabarito: Letra A.
+
+
+3.​   (FGV/TCE-PA/Auditor de Controle Externo/2024 De acordo com o Art. 165 da
+Constituição Federal de 1988,
+a) leis que tratem do plano plurianual, das diretrizes orçamentárias e dos orçamentos anuais
+devem ser publicadas até trinta dias antes do novo exercício financeiro.
+b) a lei que instituir as diretrizes orçamentárias estabelecerá, de forma regionalizada, as diretrizes,
+objetivos e metas da administração pública federal para as despesas de capital e outras delas
+decorrentes, bem como para as relativas aos programas de duração continuada.
+c) a lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da
+despesa, incluindo na proibição a autorização para abertura de créditos suplementares e
+contratação de operações de crédito.
+d) o projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito,
+sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios
+de natureza financeira, tributária e creditícia.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                30
+        www.estrategiaconcursos.com.br                                                              47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+e) a lei orçamentária anual não compreende o orçamento fiscal referente a entidades da
+administração indireta e fundações instituídas e mantidas pelo Poder Público.
+Comentários:
+LETRA A. INCORRETA. O art. 165 da CRFB/88 trata dos prazos e da elaboração das leis
+orçamentárias, mas não estabelece que essas leis devem ser publicadas até 30 dias antes do
+novo exercício financeiro.
+LETRA B. INCORRETA. Na verdade, se trata da lei que instituir o plano plurianual, de acordo
+com o art. 165, § 1º da CRFB/88:
+Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+§ 1º A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes,
+objetivos e metas da administração pública federal para as despesas de capital e outras delas
+decorrentes e para as relativas aos programas de duração continuada.
+LETRA C. INCORRETA. Não! A LOA não proíbe a autorização para abertura de créditos
+suplementares e contratação de operação de crédito, mesmo que por antecipação de receita, de
+acordo com o art. 165, § 8º da CRFB/88:
+Art. 165.(...)
+§ 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da
+despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e
+contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+LETRA D. CORRETA. É o nosso gabarito! A Constituição prevê que o projeto de lei orçamentária
+deve ser acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas,
+decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira,
+tributária e creditícia, de acordo com o art. 165, § 6º da CRFB/88:
+Art. 165 (...)
+§ 6º O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito,
+sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios
+de natureza financeira, tributária e creditícia.
+LETRA E. INCORRETA. Na verdade, a LOA compreende sim o orçamento fiscal referente a
+entidade da administração indireta e fundações instituídas e mantidas pelo Poder Público, de
+acordo com art. 165, § 5º, inciso I da CRFB/88:
+Art. 165. (...)
+§ 5º A lei orçamentária anual compreenderá:
+I - o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da
+administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público.
+Gabarito: Letra D.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                           31
+         www.estrategiaconcursos.com.br                                                         47
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+4.​   (FGV/TJ-MT/Técnico Judiciário/2024) O Pleno do Tribunal de Justiça do Estado Alfa
+aprovou a proposta orçamentária do Poder Judiciário estadual para o exercício financeiro do ano
+seguinte.
+Considerando a sistemática estabelecida pela ordem constitucional, é correto afirmar que essa
+proposta
+a) deve ser encaminhada ao Poder Executivo.
+b) deve ser submetida ao Conselho Nacional de Justiça.
+c) deve ser encaminhada ao Presidente da Assembleia Legislativa do Estado Alfa.
+d) deve ser encaminhada à Comissão de Orçamento e Finanças da Assembleia Legislativa do
+Estado Alfa.
+e) balizará a execução orçamentária do próximo exercício, desde que observe a lei de diretrizes
+orçamentárias.
+Comentários:
+LETRA A. CORRETA. De cara o nosso gabarito! A Constituição determina que a proposta
+orçamentária deve ser encaminhada ao Poder Executivo para que seja devidamente consolidada,
+consoante arts. 99, §§ 1º, 2º, 3º e 4º e 166 da CRFB/88:
+Art. 99. Ao Poder Judiciário é assegurada autonomia administrativa e financeira.
+§ 1º Os tribunais elaborarão suas propostas orçamentárias dentro dos limites estipulados
+conjuntamente com os demais Poderes na lei de diretrizes orçamentárias.
+§ 2º O encaminhamento da proposta, ouvidos os outros tribunais interessados, compete:
+I - no âmbito da União, aos Presidentes do Supremo Tribunal Federal e dos Tribunais Superiores,
+com a aprovação dos respectivos tribunais;
+II - no âmbito dos Estados e no do Distrito Federal e Territórios, aos Presidentes dos Tribunais de
+Justiça, com a aprovação dos respectivos tribunais.
+§ 3º Se os órgãos referidos no § 2º não encaminharem as respectivas propostas orçamentárias
+dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará,
+para fins de consolidação da proposta orçamentária anual, os valores aprovados na lei
+orçamentária vigente, ajustados de acordo com os limites estipulados na forma do § 1º deste
+artigo.
+§ 4º Se as propostas orçamentárias de que trata este artigo forem encaminhadas em desacordo
+com os limites estipulados na forma do § 1º, o Poder Executivo procederá aos ajustes
+necessários para fins de consolidação da proposta orçamentária anual.
+Art. 166 (...) § 6º Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do
+orçamento anual serão enviados pelo Presidente da República ao Congresso Nacional, nos
+termos da lei complementar a que se refere o art. 165, § 9º.
+LETRA B. INCORRETA. Não deve ser submetida ao Conselho Nacional de Justiça, sim ao Poder
+Executivo, conforme art. 99, §§ 1º, 2º, 3º e 4º da CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            32
+        www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+LETRA C. INCORRETA. De forma alguma! A proposta orçamentária do Poder Judiciário Estadual
+deve ser encaminhada ao Poder Executivo, para que seja devidamente consolidada.
+LETRA D. INCORRETA. Não deve ser encaminhada à Comissão de Orçamento e Finanças da
+Assembleia Legislativa do Estado, mas sim ao Poder Executivo para que seja consolidada.
+LETRA E. INCORRETA. Resta equivocada a alternativa, tendo em vista que o orçamento do Poder
+Judiciário deve seguir as diretrizes da LDO e da PPA, para que cumpra os seus objetivos.
+Gabarito: Letra A.
+
+
+5.​   (FGV/CVM/2024) Um ente público, ao elaborar a Lei de Diretrizes Orçamentárias (LDO) do
+Estado, deixou de compreender alguns requisitos fundamentais estabelecidos pela Constituição
+Federal de 1988.
+Dentre eles, é correto identificar:
+a) controle de custos e avaliação dos resultados dos programas financiados com recursos dos
+orçamentos;
+b) limites para elaboração das propostas orçamentárias do Poder Judiciário e Ministério Público;
+c) condições e exigências para transferências de recursos a entidades públicas e privadas;
+d) concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra
+renúncia de receita;
+e) estimativa e compensação da renúncia de receita e da margem de expansão das despesas
+obrigatórias de caráter continuado.
+Comentários:
+LETRA A. INCORRETA. Apesar de tal requisito estar disposto na Lei de Responsabilidade Fiscal,
+em seu art. 4º, a questão pede os requisitos constitucionais.
+LETRA B. CORRETA. É o nosso gabarito! A Constituição determina que o Poder Judiciário e o
+Ministério Público têm autonomia administrativa, funcional e financeira. No entanto, devem
+elaborar suas propostas orçamentárias observando as disposições da LDO, de acordo com os
+arts. 99, §1º e 127, §3º da CRFB/88
+Art. 99. Ao Poder Judiciário é assegurada autonomia administrativa e financeira.
+§ 1º Os tribunais elaborarão suas propostas orçamentárias dentro dos limites estipulados
+conjuntamente com os demais Poderes na lei de diretrizes orçamentárias.
+Art. 127. O Ministério Público é instituição permanente, essencial à função jurisdicional do
+Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses
+sociais e individuais indisponíveis.
+§ 3º O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos
+na lei de diretrizes orçamentárias.
+LETRA C. INCORRETA. Apesar de tal requisito está disposto na Lei de Responsabilidade Fiscal,
+em seu art. 4º, a questão pede os requisitos constitucionais
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           33
+        www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 17
+
+LETRA D. INCORRETA. Apesar de tal requisito está disposto na Lei de Responsabilidade Fiscal,
+em seu art. 14, a questão pede os requisitos dispostos na Constituição Federal.
+LETRA E. INCORRETA. Refere-se a um dos conteúdos de um dos demonstrativos previstos no
+Anexo de Metas Fiscais do projeto de LDO, conforme estabelecido na Lei de Responsabilidade
+Fiscal.
+Gabarito: Letra B.
+
+
+6.​   (FGV/CVM/2024) O órgão legislativo, ao apreciar o Projeto de Lei Orçamentária Anual
+(PLOA) de um ente público, aprovou as propostas de emenda no limite de 2% (dois por cento)
+da Receita Corrente Liquida (RCL), observando que a metade desse percentual será destinada a
+ações e serviços públicos de saúde, com base na:
+a) RCL do exercício anterior ao do encaminhamento do projeto;
+b) média da RCL dos três últimos exercícios;
+c) RCL do exercício do encaminhamento do projeto;
+d) média da RCL dos dois últimos exercícios;
+e) RCL estimada para o exercício anterior.
+Comentários:
+LETRA A. CORRETA. De cara o nosso gabarito! De acordo com o texto constitucional, em seu art.
+166, §9º da CRFB/88, metade do percentual da Receita Líquida Corrente, devidamente aprovada
+e baseada no exercício anterior, deverá ser destinada a ações de serviço público de saúde. Olha
+só o dispositivo constitucional:
+Art. 166
+(...)
+§ 9º As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois
+por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto,
+observado que a metade deste percentual será destinada a ações e serviços públicos de
+saúde.
+LETRA B. INCORRETA. Não é a média da RCL dos três últimos exercícios, é a RCL do exercício
+anterior ao do encaminhamento do projeto.
+LETRA C. INCORRETA. A assertiva está errada, porque o RCL deve ser o do exercício anterior ao
+do encaminhamento do projeto, de acordo com o art. 166, § 9º da CRFB/88.
+LETRA D. INCORRETA. Essa alternativa está em desacordo com a Constituição, porque a RCL
+deve ser baseada no exercício anterior ao do encaminhamento do projeto , não da média da RCL
+dos últimos dois exercícios, conforme preleciona o art. 166, §9º da CRFB/88.
+LETRA E. INCORRETA. Também está em desconformidade com a Constituição, uma vez que não
+pode ser a estimativa da RCL do exercício anterior, mas sim, a RCL do exercício anterior ao do
+encaminhamento do projeto, de acordo com o art. 166, § 9º da CRFB/88.
+Gabarito: Letra A.
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                        34
+         www.estrategiaconcursos.com.br                                                      47
+
+                                       
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 17
+
+7.​    (FGV/TJ-MS/2024) Em atualizações recentes, a Constituição da República Federativa do
+Brasil definiu modalidades em que recursos de emendas individuais impositivas apresentadas ao
+PLOA da União poderão ser alocados a outros entes federativos.
+Uma dessas modalidades é a transferência especial, que, entre outras regras:
+a) exige vinculação à programação estabelecida na emenda parlamentar;
+b) impõe a aplicação em programações finalísticas das áreas de competência do Poder Executivo
+do ente federado beneficiado;
+c) ordena a aplicação de pelo menos 50% dos recursos objeto da transferência especial em
+despesas de capital;
+d) requer celebração de convênio ou de instrumento congênere para o repasse dos recursos;
+e) veda aplicação de recursos em despesas de custeio, exceto em ações e serviços públicos de
+saúde.
+Comentários:
+LETRA A. INCORRETA. A alternativa está errada, porque a disposição da assertiva se trata de
+transferência com finalidade definida, conforme disposição do art. 166-A, § 4º, inciso I, da
+CRFB/88, o que difere da modalidade de transferência especial.
+Art. 166 (...)
+§ 4º Na transferência com finalidade definida a que se refere o inciso II do caput deste artigo, os
+recursos serão:
+I - vinculados à programação estabelecida na emenda parlamentar; e
+II - aplicados nas áreas de competência constitucional da União
+LETRA B. CORRETA. A CRFB/88 estabeleceu modalidades para a alocação de recursos
+provenientes de emendas individuais impositivas apresentadas ao PLOA da União a outros entes
+federativos. Uma dessas modalidades é a transferência especial, que, entre outras regras, exige a
+aplicação em programações finalísticas nas áreas de competência do Poder Executivo do ente
+federado que recebe os recursos.
+Nos termos do art. 166-A da CRFB/88, temos o seguinte:
+Art. 166-A. As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual
+poderão alocar recursos a Estados, ao Distrito Federal e a Municípios por meio de:
+I - transferência especial; ou
+II - transferência com finalidade definida.
+(...)
+§ 2º Na transferência especial a que se refere o inciso I do caput deste artigo, os recursos:
+I - serão repassados diretamente ao ente federado beneficiado, independentemente de
+celebração de convênio ou de instrumento congênere)
+II - pertencerão ao ente federado no ato da efetiva transferência financeira; e
+
+         Receita Federal (Analista Tributário) Direito Constitucional                           35
+         www.estrategiaconcursos.com.br                                                         47
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+III - serão aplicadas em programações finalísticas das áreas de competência do Poder Executivo
+do ente federado beneficiado, observado o disposto no §5º deste artigo.
+LETRA C. INCORRETA. Conforme a CRFB/88, em seu §5º do art. 166-A, deve ser aplicado pelo
+menos 70% das transferências especiais em despesas de capital, não 50%.
+LETRA D. INCORRETA. A alternativa está errada, porque conforme preceitua o §2º, inciso I do
+art. 166-A da CRFB/88, não é necessária a celebração de convênio ou de instrumento congênere,
+já que a transferência especial é repassada de forma direta ao ente federado beneficiado.
+LETRA E. INCORRETA. É possível a aplicação de recursos em despesa de custeio, inclusive para
+ações e serviços públicos de saúde, de acordo com o §10, do art. 166 da CRFB/88.
+Gabarito: Letra B.
+
+
+8.​    (FGV/TJ-SC/2024) Durante a apresentação da proposta orçamentária para
+um determinado exercício, a equipe da secretaria de planejamento de um estado da Federação
+foi questionada quanto à alocação de alguns recursos do orçamento, à luz do princípio da não
+afetação das receitas. Após analisar os questionamentos, a equipe admitiu que foi inadequada a
+vinculação de parte das receitas a(à):
+a) ações e serviços públicos de saúde;
+b) programas de expansão da cobertura de saneamento básico;
+c) programas voltados à manutenção e desenvolvimento do ensino;
+d) realização de atividades da administração tributária;
+e) repartição de receitas tributárias.
+Comentários
+LETRA A. INCORRETA. As ações e serviços públicos de saúde são uma exceção ao princípio da
+não afetação das receitas, sendo possível a vinculação de receitas públicas para esse fim, de
+acordo com o art. 167, inciso IV da CRFB/88.
+LETRA B. CORRETA. É o nosso gabarito! O programa de expansão da cobertura de saneamento
+básico não está elencado no rol de exceção do princípio da não afetação das receitas, o que
+significa que é proibido a vinculação de receitas para esse fim.
+LETRA C. INCORRETA. Os programas voltados à manutenção e desenvolvimento de ensino são
+uma exceção ao princípio da não afetação das receitas, sendo possível a vinculação de receitas
+públicas para esse fim, de acordo com o art. 167, inciso IV da CRFB/88.
+LETRA D. INCORRETA. A realização de atividade da administração tributária é uma exceção ao
+princípio da não afetação das receitas, sendo possível a vinculação de receitas públicas para esse
+fim, de acordo com o art. 167, inciso IV da CRFB/88.
+LETRA E. INCORRETA. A alternativa está errada, uma vez que a repartição de receitas tributárias
+também está elencada como exceção ao princípio da não afetação das receitas, sendo possível a
+vinculação de receitas públicas para esse fim, de acordo com o art. 167, inciso IV da CRFB/88.
+Gabarito: Letra B.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           36
+        www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+9.​    (FGV/TJ-SC/2024) Considere, em uma perspectiva hipotética, a Lei nº 18.836, de 12 de
+janeiro de 2024 e sua ementa:
+“Estima a receita e fixa a despesa do Estado para o exercício financeiro de 2024 e estabelece
+outras providências”.
+A lei hipotética refere-se a uma Lei Orçamentária Anual, e, à luz dos seus princípios basilares,
+uma das providências que podem ser estabelecidas por ela é a autorização para:
+a) abertura de créditos adicionais extraordinários;
+b) ajustes na despesa de pessoal, em caso de descumprimento dos limites;
+c) contratação de operações de crédito;
+d) limitação de empenho e movimentação financeira;
+e) revisão das metas de resultado primário e nominal, em caso de frustração na receita.
+Comentários:
+LETRA A. INCORRETA. A LOA não permite a abertura de créditos adicionais extraordinários,
+mas apenas a abertura de créditos suplementares, conforme art. 165, § 8º da CRFB/88.
+LETRA B. INCORRETA. A alternativa está errada, porque a Constituição Federal não prevê a LOA
+ajuste a despesa de pessoal.
+LETRA C. CORRETA. É o nosso gabarito! A contratação de operação de crédito trata-se de uma
+exceção ao princípio da exclusividade, de acordo com o art. 165, §8º da CRFB/88.
+§ 8º A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da
+despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e
+contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+LETRA D. INCORRETA. A LOA abre exceção para a contratação de operação de crédito e para
+abertura de créditos suplementares, consoante preceitua o art. 165, § 8º da CRFB/88.
+LETRA E. INCORRETA. A alternativa está errada, tendo em vista que a LOA apenas comporta
+duas exceções, quais sejam: contratação de operação de crédito e abertura de créditos
+suplementares, conforme disposto no art. 165, § 8º da CRFB/88
+Gabarito: Letra C.
+
+
+10.​   (FGV/RECEITA FEDERAL DO BRASIL/2023)
+Maria, Deputada Federal, durante o processo legislativo que elabora a lei orçamentária anual do
+exercício financeiro X, apresentou uma emenda individual impositiva ao respectivo projeto. Por
+tal razão, questionou sua assessoria sobre a possibilidade de, valendo-se da sistemática da
+emenda individual, direcionar recursos ao seu Estado de origem, de modo que passassem a
+pertencer a este ente federativo no ato da transferência financeira.
+A assessoria respondeu corretamente que o objetivo de Maria
+a) pode ser alcançado por meio de transferência especial, que não depende da celebração de
+convênio ou instrumento congênere.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            37
+        www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+b) pode ser alcançado por meio de transferência voluntária, conforme ajuste a ser celebrado
+entre a União e o Estado destinatário dos recursos.
+c) será alcançado por meio de transferência obrigatória, de modo que os recursos serão
+aplicados nas áreas de competência constitucional da União.
+d) não pode ser alcançado, pois as emendas individuais impositivas alocam recursos no
+orçamento da União, não no orçamento de outros entes federativos.
+e) pode ser alcançado por meio de transferência com finalidade definida, sendo que os recursos
+ficarão vinculados à programação estabelecida na emenda parlamentar.
+
+
+Comentários:
+Letra A. CORRETA. O objetivo de Maria realmente pode ser alcançado por meio de transferência
+especial, que não depende da celebração de convênio ou instrumento congênere, de acordo
+com Art. 166-A da CF.
+Art. 166-A: As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual
+poderão alocar recursos a Estados, ao Distrito Federal e a Municípios por meio de:
+I - transferência especial; ou
+§ 2º Na transferência especial a que se refere o inciso I do caput deste artigo, os recursos:
+I - serão repassados diretamente ao ente federado beneficiado, independentemente de
+celebração de convênio ou de instrumento congênere.
+Letra B. INCORRETA. Pode ser alcançado por meio de transferência especial!
+Letra C. INCORRETA. Pode ser alcançado por meio de transferência especial!
+Letra D INCORRETA. O objetivo de Maria realmente pode ser alcançado por meio de
+transferência especial, que não depende da celebração de convênio ou instrumento congênere,
+de acordo com Art. 166-A da CF.
+Letra E. INCORRETA. Pode ser alcançado por meio de transferência especial!
+Gabarito: Letra A.
+
+
+11.​ (FGV/RECEITA FEDERAL DO BRASIL/2023) Em razão de uma crise de saúde pública de
+âmbito nacional, o Presidente da República recebeu sugestão de um assessor no sentido de que
+a melhor opção seria a decretação do estado de calamidade pública de âmbito nacional previsto
+na Constituição da República de 1988.
+De acordo com o referido assessor, essa medida:
+1. é decretada pelo Presidente da República, com posterior apreciação do Congresso Nacional;
+2.    durante a vigência dessa medida, todos os entes federativos devem adotar regime
+extraordinário fiscal; e
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            38
+        www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+3.    durante a integralidade do exercício financeiro em que vigore essa medida, podem ser
+realizadas operações de crédito que excedam o montante das despesas de capital.
+Considerando os balizamentos oferecidos pela Constituição da República de 1988, é correto
+afirmar, em relação às assertivas do assessor, que
+a) todas são compatíveis com a ordem constitucional.
+b) apenas as assertivas 1 e 2 são compatíveis com a ordem constitucional.
+c) apenas as assertivas 2 e 3 são compatíveis com a ordem constitucional.
+d) apenas a assertiva 1 é compatível com a ordem constitucional.
+e) apenas a assertiva 3 é compatível com a ordem constitucional.
+
+
+Comentários:
+Letra A. INCORRETA. Apenas a assertiva 3 é compatível com a ordem constitucional, de acordo
+com art. 167-E da CF.
+Letra B. INCORRETA. As assertivas 1 e 2 são incompatíveis com a ordem constitucional, de
+acordo com art. 49, XVIII CF, art. 84, XXVIII da CF e art. 167-B da CF.
+Letra C. INCORRETA. Apenas a assertiva 3 é compatível com a ordem constitucional, segundo o
+art. 167-E da CF.
+Letra D INCORRETA. A assertiva 1 é incompatível com a ordem constitucional, de acordo com o
+art. 49, XVIII CF e art. 84, XXVIII da CF.
+Letra E. CORRETA. Apenas a assertiva 3 é compatível com a ordem constitucional, segundo o art.
+167-E da CF.
+Gabarito: Letra E.
+
+
+12.​ (FGV/TJ SE/2023) Recentes alterações no texto da Constituição da República de 1988
+trouxeram novidades em termos de proposição, aprovação e execução de emendas ao projeto
+de Lei do Orçamento Anual. Por serem de execução obrigatória até determinados limites, as
+emendas garantem que os parlamentares destinem parte dos recursos do orçamento do ente
+para atender suas bases eleitorais, como é o caso das emendas:
+a) individuais e de relator;
+b) individuais e de bancada;
+c) de relator e de comissão;
+d) de apropriação, se forem individuais;
+e) de remanejamento, se forem de bancada.
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        39
+        www.estrategiaconcursos.com.br                                                      47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+LETRA A. INCORRETA. Para a hipótese disposta no enunciado os instrumentos cabíveis são as
+emendas individuais e de bancada.
+LETRA B. CORRETA. É o nosso gabarito! De fato, por serem de execução obrigatória até
+determinados limites, as emendas que garantem que os parlamentares destinem parte dos
+recursos do orçamento do ente para atender suas bases eleitorais são as emendas individuais e
+de bancada.
+LETRA C. INCORRETA. Em verdade, os instrumentos cabíveis são as emendas individuais e de
+bancada.
+LETRA D. INCORRETA. Emendas de apropriação? rs Está errado.
+Gabarito: Letra B
+
+
+13.​ (FGV/ALE-MA/2023) De acordo com a Constituição Federal, as emendas individuais ao
+projeto de lei orçamentária serão aprovadas no limite de 2% da receita corrente líquida do
+exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual
+será destinada
+a) a demandas da área de educação.
+b) a ações e serviços públicos de saúde.
+c) a fatos relacionados à calamidade pública.
+d) ao provimento de vagas relacionadas à segurança.
+e) aos créditos adicionais suplementares e especiais.
+Comentários:
+Letra A. INCORRETA. Será destinada a ações e serviços públicos de saúde (art. 166, §9º da
+CRFB/88).
+Letra B. CORRETA. É a exata previsão do art. 166, §9º da Carta Magna.
+Art. 166 (...) § 9º As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite
+de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento
+do projeto, observado que a metade deste percentual será destinada a ações e serviços públicos
+de saúde.
+Letra C. INCORRETA. Em verdade, será destinada a ações e serviços públicos de saúde (art. 166,
+§9º da CRFB/88).
+Letra D. INCORRETA. Conforme o art. 166, §9º da CRFB/88, será destinada a ações e serviços
+públicos de saúde.
+Letra E. INCORRETA. De acordo com o art. 166, §9º da CRFB/88, será destinada a ações e
+serviços públicos de saúde.
+Gabarito: Letra B.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            40
+        www.estrategiaconcursos.com.br                                                          47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+                                         LISTA DE QUESTÕES
+1.​    (FGV/CAGE-RS/Auditor do Estado/2025) Determinado Deputado Federal apresentou
+proposição legislativa para que a dívida pública, de todos os níveis de governo, apresentasse
+uma trajetória de convergência considerando o seu montante e os limites definidos na
+legislação, com a correlata especificação de medidas de ajuste, suspensão e vedações
+relacionadas à gestão de pessoal.
+Considerando os balizamentos estabelecidos pela sistemática constitucional, é correto afirmar
+em relação à referida proposição que
+(A) em razão da autonomia política dos entes federativos, as medidas previstas na proposição
+serão aplicadas apenas à União.
+(B) a proposição apresenta vício de iniciativa, pois somente poderia ser apresentada pelo Chefe
+do Poder Executivo Federal.
+(C) lei ordinária nacional deve dispor sobre as medidas descritas na proposição, além de outras
+afetas ao equilíbrio na evolução da dívida pública.
+(D) as medidas previstas na proposição são constitucionais, sendo que todos os entes federativos
+devem conduzir suas políticas fiscais de forma a atendê-las caso a proposição seja convertida em
+lei.
+(E)    as medidas de caráter nacional devem ficar adstritas à especificação da trajetória de
+convergência da dívida, não podendo avançar para a previsão de sanções, como aquelas
+previstas na proposição.
+
+
+2.​     (FGV/TCE-PA/Auditor de Controle Externo/2024) Em 2021, visando enfrentar as
+consequências sociais e econômicas da pandemia da Covid-19, a Constituição Federal de 1988
+foi alterada. Além de regras transitórias sobre redução de benefícios tributários, foi promovida a
+desvinculação parcial do superávit financeiro de fundos públicos, bem como suspensas
+condicionalidades para realização de despesas com concessão de auxílio emergencial residual.
+No contexto do dispositivo que promoveu tais alterações, destaca-se os a seguir elencados, à
+exceção de um. Assinale-o.
+a) A inclusão da obrigatoriedade aos entes públicos para disponibilizar suas informações e dados
+contábeis, orçamentários e fiscais, conforme periodicidade, formato e sistema estabelecidos pelo
+órgão central de contabilidade da União, de forma a garantir a rastreabilidade, a
+comparabilidade e a publicidade dos dados coletados.
+b) A disposição, em Lei Complementar, de indicadores para apuração da dívida pública, visando
+a aferição de sua sustentabilidade.
+c) A compatibilização dos resultados fiscais com a trajetória da dívida pública.
+d) A preocupação com a sustentabilidade fiscal do setor público, impondo uma trajetória de
+convergência do montante da dívida com os limites definidos em legislação.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           41
+        www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+e) A possibilidade de planejamento de alienação de ativos com vistas à redução do montante da
+dívida pública.
+
+
+3.​   (FGV/TCE-PA/Auditor de Controle Externo/2024 De acordo com o Art. 165 da
+Constituição Federal de 1988,
+a) leis que tratem do plano plurianual, das diretrizes orçamentárias e dos orçamentos anuais
+devem ser publicadas até trinta dias antes do novo exercício financeiro.
+b) a lei que instituir as diretrizes orçamentárias estabelecerá, de forma regionalizada, as diretrizes,
+objetivos e metas da administração pública federal para as despesas de capital e outras delas
+decorrentes, bem como para as relativas aos programas de duração continuada.
+c) a lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da
+despesa, incluindo na proibição a autorização para abertura de créditos suplementares e
+contratação de operações de crédito.
+d) o projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito,
+sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios
+de natureza financeira, tributária e creditícia.
+e) a lei orçamentária anual não compreende o orçamento fiscal referente a entidades da
+administração indireta e fundações instituídas e mantidas pelo Poder Público.
+
+
+4.​   (FGV/TJ-MT/Técnico Judiciário/2024) O Pleno do Tribunal de Justiça do Estado Alfa
+aprovou a proposta orçamentária do Poder Judiciário estadual para o exercício financeiro do ano
+seguinte.
+Considerando a sistemática estabelecida pela ordem constitucional, é correto afirmar que essa
+proposta
+a) deve ser encaminhada ao Poder Executivo.
+b) deve ser submetida ao Conselho Nacional de Justiça.
+c) deve ser encaminhada ao Presidente da Assembleia Legislativa do Estado Alfa.
+d) deve ser encaminhada à Comissão de Orçamento e Finanças da Assembleia Legislativa do
+Estado Alfa.
+e) balizará a execução orçamentária do próximo exercício, desde que observe a lei de diretrizes
+orçamentárias.
+
+
+5.​   (FGV/CVM/2024) Um ente público, ao elaborar a Lei de Diretrizes Orçamentárias (LDO) do
+Estado, deixou de compreender alguns requisitos fundamentais estabelecidos pela Constituição
+Federal de 1988.
+Dentre eles, é correto identificar:
+a) controle de custos e avaliação dos resultados dos programas financiados com recursos dos
+orçamentos;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                42
+        www.estrategiaconcursos.com.br                                                              47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+b) limites para elaboração das propostas orçamentárias do Poder Judiciário e Ministério Público;
+c) condições e exigências para transferências de recursos a entidades públicas e privadas;
+d) concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra
+renúncia de receita;
+e) estimativa e compensação da renúncia de receita e da margem de expansão das despesas
+obrigatórias de caráter continuado.
+
+
+6.​   (FGV/CVM/2024) O órgão legislativo, ao apreciar o Projeto de Lei Orçamentária Anual
+(PLOA) de um ente público, aprovou as propostas de emenda no limite de 2% (dois por cento)
+da Receita Corrente Liquida (RCL), observando que a metade desse percentual será destinada a
+ações e serviços públicos de saúde, com base na:
+a) RCL do exercício anterior ao do encaminhamento do projeto;
+                                                         ==219a34==
+
+b) média da RCL dos três últimos exercícios;
+c) RCL do exercício do encaminhamento do projeto;
+d) média da RCL dos dois últimos exercícios;
+e) RCL estimada para o exercício anterior.
+
+
+7.​    (FGV/TJ-MS/2024) Em atualizações recentes, a Constituição da República Federativa do
+Brasil definiu modalidades em que recursos de emendas individuais impositivas apresentadas ao
+PLOA da União poderão ser alocados a outros entes federativos.
+Uma dessas modalidades é a transferência especial, que, entre outras regras:
+a) exige vinculação à programação estabelecida na emenda parlamentar;
+b) impõe a aplicação em programações finalísticas das áreas de competência do Poder Executivo
+do ente federado beneficiado;
+c) ordena a aplicação de pelo menos 50% dos recursos objeto da transferência especial em
+despesas de capital;
+d) requer celebração de convênio ou de instrumento congênere para o repasse dos recursos;
+e) veda aplicação de recursos em despesas de custeio, exceto em ações e serviços públicos de
+saúde.
+
+
+8.​    (FGV/TJ-SC/2024) Durante a apresentação da proposta orçamentária para
+um determinado exercício, a equipe da secretaria de planejamento de um estado da Federação
+foi questionada quanto à alocação de alguns recursos do orçamento, à luz do princípio da não
+afetação das receitas. Após analisar os questionamentos, a equipe admitiu que foi inadequada a
+vinculação de parte das receitas a(à):
+a) ações e serviços públicos de saúde;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           43
+        www.estrategiaconcursos.com.br                                                         47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+b) programas de expansão da cobertura de saneamento básico;
+c) programas voltados à manutenção e desenvolvimento do ensino;
+d) realização de atividades da administração tributária;
+e) repartição de receitas tributárias.
+
+
+9.​    (FGV/TJ-SC/2024) Considere, em uma perspectiva hipotética, a Lei nº 18.836, de 12 de
+janeiro de 2024 e sua ementa:
+“Estima a receita e fixa a despesa do Estado para o exercício financeiro de 2024 e estabelece
+outras providências”.
+A lei hipotética refere-se a uma Lei Orçamentária Anual, e, à luz dos seus princípios basilares,
+uma das providências que podem ser estabelecidas por ela é a autorização para:
+a) abertura de créditos adicionais extraordinários;
+b) ajustes na despesa de pessoal, em caso de descumprimento dos limites;
+c) contratação de operações de crédito;
+d) limitação de empenho e movimentação financeira;
+e) revisão das metas de resultado primário e nominal, em caso de frustração na receita.
+
+
+10.​   (FGV/RECEITA FEDERAL DO BRASIL/2023)
+Maria, Deputada Federal, durante o processo legislativo que elabora a lei orçamentária anual do
+exercício financeiro X, apresentou uma emenda individual impositiva ao respectivo projeto. Por
+tal razão, questionou sua assessoria sobre a possibilidade de, valendo-se da sistemática da
+emenda individual, direcionar recursos ao seu Estado de origem, de modo que passassem a
+pertencer a este ente federativo no ato da transferência financeira.
+
+
+A assessoria respondeu corretamente que o objetivo de Maria
+a) pode ser alcançado por meio de transferência especial, que não depende da celebração de
+convênio ou instrumento congênere.
+b) pode ser alcançado por meio de transferência voluntária, conforme ajuste a ser celebrado
+entre a União e o Estado destinatário dos recursos.
+c) será alcançado por meio de transferência obrigatória, de modo que os recursos serão
+aplicados nas áreas de competência constitucional da União.
+d) não pode ser alcançado, pois as emendas individuais impositivas alocam recursos no
+orçamento da União, não no orçamento de outros entes federativos.
+e) pode ser alcançado por meio de transferência com finalidade definida, sendo que os recursos
+ficarão vinculados à programação estabelecida na emenda parlamentar.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          44
+        www.estrategiaconcursos.com.br                                                        47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+11.​ (FGV/RECEITA FEDERAL DO BRASIL/2023) Em razão de uma crise de saúde pública de
+âmbito nacional, o Presidente da República recebeu sugestão de um assessor no sentido de que
+a melhor opção seria a decretação do estado de calamidade pública de âmbito nacional previsto
+na Constituição da República de 1988.
+De acordo com o referido assessor, essa medida:
+1. é decretada pelo Presidente da República, com posterior apreciação do Congresso Nacional;
+2.    durante a vigência dessa medida, todos os entes federativos devem adotar regime
+extraordinário fiscal; e
+3.    durante a integralidade do exercício financeiro em que vigore essa medida, podem ser
+realizadas operações de crédito que excedam o montante das despesas de capital.
+Considerando os balizamentos oferecidos pela Constituição da República de 1988, é correto
+afirmar, em relação às assertivas do assessor, que
+a) todas são compatíveis com a ordem constitucional.
+b) apenas as assertivas 1 e 2 são compatíveis com a ordem constitucional.
+c) apenas as assertivas 2 e 3 são compatíveis com a ordem constitucional.
+d) apenas a assertiva 1 é compatível com a ordem constitucional.
+e) apenas a assertiva 3 é compatível com a ordem constitucional.
+
+
+12.​ (FGV/TJ SE/2023) Recentes alterações no texto da Constituição da República de 1988
+trouxeram novidades em termos de proposição, aprovação e execução de emendas ao projeto
+de Lei do Orçamento Anual. Por serem de execução obrigatória até determinados limites, as
+emendas garantem que os parlamentares destinem parte dos recursos do orçamento do ente
+para atender suas bases eleitorais, como é o caso das emendas:
+a) individuais e de relator;
+b) individuais e de bancada;
+c) de relator e de comissão;
+d) de apropriação, se forem individuais;
+e) de remanejamento, se forem de bancada.
+
+
+13.​ (FGV/ALE-MA/2023) De acordo com a Constituição Federal, as emendas individuais ao
+projeto de lei orçamentária serão aprovadas no limite de 2% da receita corrente líquida do
+exercício anterior ao do encaminhamento do projeto, observado que a metade desse percentual
+será destinada
+a) a demandas da área de educação.
+b) a ações e serviços públicos de saúde.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       45
+        www.estrategiaconcursos.com.br                                                     47
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 17
+
+c) a fatos relacionados à calamidade pública.
+d) ao provimento de vagas relacionadas à segurança.
+e) aos créditos adicionais suplementares e especiais.
+
+                                                   GABARITO
+        1.​ LETRA D
+        2.​ LETRA A
+        3.​ LETRA D
+        4.​ LETRA A
+        5.​ LETRA B
+        6.​ LETRA A
+        7.​ LETRA B
+        8.​ LETRA B
+        9.​ LETRA C
+        10.​ LETRA A
+        11.​ LETRA E
+        12.​ LETRA B
+        13.​ LETRA B
+
+        Receita Federal (Analista Tributário) Direito Constitucional       46
+        www.estrategiaconcursos.com.br                                     47
+
+                                      
+
+
+---
+
+---

@@ -1,0 +1,1421 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 16_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: CONTROLE
+---
+
+# CONTROLE
+
+---
+
+---
+
+CONTROLE
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Controle
+Conceito
+
+Controle é a função administrativa que tem por objetivo monitorar as atividades,
+comparando-se os resultados obtidos (desempenho “atual”) com os resultados
+desejados/esperados (objetivos planejados), realizando-se, ainda, as correções necessárias
+(ajustes necessários), no intuito de assegurar que os resultados e os objetivos
+organizacionais previamente estabelecidos pelo planejamento sejam alcançados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Controle
+Objetivos Básicos
+
+                          Assegurar que os resultados e os objetivos
+                        organizacionais previamente estabelecidos pelo
+                               planejamento sejam alcançados.
+
+
+OBJETIVOS BÁSICOS       Ajustar/Corrigir os desvios negativos (corrigir as
+  DO CONTROLE                   falhas e os erros identificados).
+
+
+                        Reforçar os desvios positivos (identificar as “boas
+                                     práticas”, e reforçá-las).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+                        (CESPE – EBSERH – Analista Administrativo - 2018)
+O controle da ação organizacional objetiva exclusivamente a correção de falhas ou
+erros existentes.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRT 12a Região – Técnico Judiciário - 2017)
+No início do ano, servidores do departamento de patrimônio da organização pública
+XYZ passaram um final de semana em um hotel para planejarem os objetivos do
+ano. Ao final do ano, os servidores voltaram ao hotel para verificar se os objetivos
+foram cumpridos.
+Tão importante quanto planejar é comparar os resultados obtidos com o que foi
+planejado, e essa função administrativa de monitoração é denominada:
+a) avaliação estratégica;
+b) análise de eficácia;
+c) controle;
+d) análise de eficiência;
+e) avaliação de desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Controle                Orientação estratégica para resultados
+
+
+Características            Compreensão (Inteligibilidade)
+
+
+                         Orientação rápida para as exceções
+
+
+                                    Flexibilidade
+
+
+                                    Autocontrole
+
+
+CARACTERÍSTICAS DO
+                                  Natureza positiva
+    CONTROLE
+
+
+                                     Economia
+
+
+                               Clareza e Objetividade
+
+
+                                     Aceitação
+
+
+                                      Rapidez
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini                    recis o
+                                  
+
+
+---
+
+                        (CESPE – FUNPRESP-EXE – Analista - 2016)
+Orientação estratégica para resultados, flexibilidade, clareza e objetividade são
+características do controle organizacional.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – TCE-PR – Analista – 2016 - ADAPTADA)
+Uma das características do controle é a orientação estratégica para resultados, que
+consiste em apoiar planos estratégicos e focalizar as atividades essenciais da
+organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Controle
+Etapas do Processo de Controle
+
+                                           Definição dos objetivos
+
+                        Correção, Realimentação                 Monitoramento/Avaliação
+                             ou Feedback                         do desempenho "atual"
+
+                                             Comparacão entre o
+                                            desempenho "atual" e o
+                                             padrão estabelecido
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+                        (AOCP – MPE-BA – Assistente Técnico)
+A função de controle, vista em sua totalidade, pode ser conceituada como um
+processo, uma vez que se refere a uma série de etapas que buscam assegurar que a
+organização alcance seus objetivos. Assinale a alternativa que apresenta as etapas
+do processo de controle.
+a) Estabelecimento de parâmetros de desempenho; medição do desempenho real;
+comparação do desempenho observado com os parâmetros preestabelecidos; e
+implementação de medidas corretivas, ajustando o desempenho ou os parâmetros.
+b) Identificação da situação-problema; avaliação da situação-problema; construção
+de indicadores para avaliar a situação-problema; coleta de dados sobre o
+desempenho da situação-problema; julgamento dos dados coletados; e
+implementação de adequações para eliminar ou minimizar o problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (AOCP – MPE-BA – Assistente Técnico)
+(...)
+c) Estabelecimento de instrumentos de mensuração; ajustamento dos instrumentos
+aos objetos a serem mensurados; coleta de medidas dos objetos através dos
+instrumentos; avaliação das medidas coletadas; e implementação de correções
+quando necessário.
+d) Identificação dos objetos a serem controlados; adoção de procedimentos de
+controle; verificação da adequação dos objetos em relação aos procedimentos;
+ajuste dos objetos aos procedimentos; retroalimentação do processo de controle.
+e) Estabelecimento de padrões mensuráveis; estabelecimento dos elementos a
+serem medidos; utilização dos padrões e dos elementos; exercício do controle nos
+padrões e nos elementos; continuação da execução dos padrões e dos elementos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+   Tipos de Controle
+   Quanto ao nível organizacional
+
+                                 Controle                  Avalia a organização como um todo. É genérico,
+                                Estratégico                   sintético e orientado para o longo prazo.
+                 Quanto ao       Controle                Avalia unidades/departamentos. É menos genérico,
+                   nível                                    mais detalhado e orientado ao médio prazo.
+               organizacional
+                                  Tático
+                                 Controle                Avalia atividades e tarefas específicas. É detalhado,
+                                Operacional                     analítico e voltado para o curto prazo.
+    Prof. Stefan Fantini
+ s de
+trole @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (FGV – Câmara de Salvador-BA – Assistente - 2018)
+Nas organizações, o controle pode ser aplicado aos três níveis organizacionais:
+estratégico, tático e operacional.
+No nível tático, o foco do controle está:
+a) na capacidade de inovação da empresa;
+b) no desempenho de unidades ou áreas da organização;
+c) no grau de realização da missão, visão, estratégia e objetivos;
+d) no desempenho de atividades e processos específicos, atribuídos a pessoas ou
+grupos;
+e) no desempenho financeiro global da organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (AOCP – FUNPAPA – Auxiliar de Administração - 2018)
+Quanto aos tipos de controle nas empresas, analise as assertivas e assinale a
+alternativa que apresenta a(s) correta(s).
+I. O controle estratégico é genérico e sintético quanto a seu conteúdo e é
+direcionado para o longo prazo.
+II. O controle operacional é detalhado, analítico e direcionado para o curto prazo.
+III. O controle tático incide sobre o nível institucional da empresa e aborda a
+empresa em sua totalidade.
+a) Apenas I.
+b) Apenas I e III.
+c) Apenas III.
+d) I, II e III.
+e) Apenas I e II.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                         Controle            Avalia a organização como um todo. É genérico,
+Tipos
+Quanto ao
+          de Controle   Estratégico             sintético e orientado para o longo prazo.
+
+               Controle                   Avalia unidades/departamentos. É menos genérico,
+Quanto
+  nível ao momento                           mais detalhado e orientado ao médio prazo.
+organizacional
+                          Tático
+                         Controle         Avalia atividades e tarefas específicas. É detalhado,
+                        Operacional              analítico e voltado para o curto prazo.
+
+
+                         Controle             Ocorre antes da atividade ser executada. Está
+                        Preventivo                relacionado aos insumos. É proativo.
+
+  Quanto ao               Controle            Ocorre durante a execução da atividade. Está
+  momento               Simultâneo               relacionado aos processos. É reativo.
+
+                         Controle            Ocorre depois da atividade ser executada. Está
+                         Posterior                    relacionado aos resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+                        (CCV-UFC – UFC – Administrador - 2017)
+Sobre os tipos de controle utilizados pelas organizações, e o fluxo de entradas,
+processos e saídas, identifique a alternativa correta.
+a) O controle de feedback antecipa os problemas.
+b) O controle simultâneo está relacionado com os processos.
+c) O controle de feedback corrige os problemas conforme ocorram.
+d) O controle preventivo de alimentação de fluxo é similar ao feedback.
+e) O controle preventivo de alimentação de fluxo está relacionado com as saídas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (AOCP – EBSRH – Analista Administrativo - 2015)
+Qual é o tipo de controle para a mensuração do desempenho que NÃO tem como
+objetivo corrigir o desempenho, mas identificar as causas que permitam a correção
+de problemas futuros?
+a) Controle preventivo.
+b) Controle simultâneo.
+c) Controle contínuo.
+d) Controle proativo.
+e) Controle posterior
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Controle
+Níveis de controle (Perrow)
+
+                          Primeira Ordem:
+                                                              Trata-se de uma forma mais simples de controle
+                          supervisão direta
+
+
+       Níveis de          Segunda Ordem:
+                                                     Trata-se de uma forma de controle baseada na tecnologia e na
+       Controle           padronização de
+                                                                             burocracia
+       (Perrow)             processos
+
+
+                           Terceira Ordem:            Este tipo de controle é mais “implícito”. Ou seja, envolve o
+                        controle por premissas     compartilhamento de pressupostos, valores e crenças entre os
+                               e cultura                                       indivíduos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Tipos de Controle
+Quanto à Orientação
+
+                                                           esse controle é realizado através da criação de regras,
+                        Controle Burocrático          regulamentos, normas, padrões e procedimentos, no intuito de
+                                                                     influenciar e avaliar o desempenho
+
+
+       Quanto à         Controle de Mercado                  está relacionado à utilização de critérios de mercado
+      Orientação
+
+                                                     está diretamente relacionado ao compartilhamento de crenças e
+                          Controle de Clã
+                                                      valores que as pessoas da organização compartilham entre si.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Tipos de Controle
+Quanto ao tipo de empresa
+
+
+                                                       é o tipo de controle que está presente nas empresas familiares,
+                          Controle Familiar
+                                                                exercido diretamente pelo dono da empresa.
+
+
+                                                       é o tipo de controle utilizado por empresas de grande porte que
+                         Controle Burocrático        possuem estruturas centralizadas e processos de controle bastante
+                                                                                   formalizados.
+      Quanto ao
+        tipo de
+       empresa
+                                                     o tipo de controle utilizado por empresas de grande porte que atuam
+                        Controle por Resultado
+                                                             em ambientes complexos e bastante competitivos.
+
+
+                                                     é o tipo de controle utilizado por empresas que atuam em ambientes
+                           Controle ad hoc               muito dinâmicos, bastante complexos e que envolvem alta
+                                                                                    tecnologia.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Tipos de Controle
+Quanto ao comportamento das pessoas
+
+                        Controle Formal          trata-se do controle exercido com base no poder racional-legal.
+
+
+                                                 esse controle ocorre quando um “conjunto de pessoas” exerce
+       Quanto ao                                 controle sobre algum de seus membros, para que eles ajustem
+     comportamento      Controle Social
+                                                   seus comportamentos às crenças e valores criados e pré-
+      das pessoas                                             estabelecidos por esse mesmo grupo.
+
+                                                    esse tipo de controle é realizado para que as pessoas se
+                        Controle Técnico          comportem de determinada maneira, sem a interferência dos
+                                                                    chefes ou dos colegas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Tipos de Controle
+Quanto à natureza do controlador
+
+                                                   Consiste no controle realizado exclusivamente pelo Poder Judiciário,
+                           Controle Judicial
+                                                                   no exercício de sua função típica.
+
+
+      Quanto à                                       Também chamado de Controle Parlamentar, trata-se do controle
+     natureza do         Controle Legislativo          efetuado pelo Poder Legislativo nas hipóteses previstas na
+     controlador                                                      Constituição Federal de 1988.
+
+
+                                                   Trata-se do controle que a Administração exerce sobre suas próprias
+                        Controle Administrativo
+                                                         atividades. Trata-se de um mecanismo de autocontrole.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Tipos de Controle
+Quanto à origem que o realiza
+
+                                                   O controle interno ocorre quando a Entidade a ser fiscalizada integra
+                        Controle Interno
+                                                      a mesma estrutura organizacional da Entidade Fiscalizadora
+
+
+       Quanto à                                     : O controle externo ocorre quando a Entidade a ser fiscalizada não
+     origem que o       Controle Externo                 integra a mesma estrutura organizacional da Entidade
+        realiza                                                                 Fiscalizadora
+
+                        Controle Popular                       O controle popular é aquele realizado pelo povo
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Tipos de Controle
+Quanto à origem que o realiza
+
+                        Controle de Ofício                         trata-se de um controle “espontâneo”
+
+       Quanto à
+       iniciativa
+
+                        Controle Provocado                   O controle provocado é “iniciado” por terceiros.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (CESPE – ICMBIO – Analista Administrativo)
+Os processos burocráticos e os tecnológicos são exemplos de controle de primeira
+ordem, em que chefias (donos, patrões, gerentes etc.) exercem poder direto sobre
+seus comandados em uma estrutura simples de controle.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+INDICADORES DE DESEMPENHO
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Indicadores
+Conceito
+
+“Os indicadores são medidas que representam ou quantificam um insumo,
+um resultado, uma característica ou o desempenho de um processo, de um
+serviço, de um produto ou da organização como um todo”. (Rua)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                         
+
+
+---
+
+Indicadores
+Finalidades
+
+                            mensurar os resultados e gerir o desempenho
+
+                         embasar a análise crítica dos resultados obtidos e do
+                                  processo de tomada de decisão
+
+
+  Finalidades dos         contribuir para a melhoria contínua dos processos
+   INDICADORES                              organizacionais
+
+                        facilitar o planejamento e o controle do desempenho
+
+
+                          viabilizar a análise comparativa do desempenho da
+                        organização e do desempenho de diversas organizações
+                             atuantes em áreas ou ambientes semelhantes
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Indicadores
+Desempenho
+
+            DESEMPENHO               ESFORÇOS                 RESULTADOS
+
+            DESEMPENHO               ESFORÇOS                 RESULTADOS
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                         
+
+
+---
+
+                        (CESPE – INMETRO – Analista Executivo - ADAPTADA)
+Entende-se por desempenho o direcionamento dos esforços empreendidos em
+relação aos resultados a serem alcançados, em outras palavras, desempenho
+consiste na soma de aspectos relativos a esforços e aspectos relativos a resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Indicadores
+Componentes Básicos dos Indicadores
+
+
+                                                               grandeza qualitativa ou quantitativa que permite classificar as
+                           Medida                          características, resultados e consequências dos produtos, processos ou
+                                                                                           sistemas
+
+
+                           Fórmula                            padrão matemático que expressa à forma de realização do cálculo
+
+
+ Componentes
+  Básicos dos           Índice (número)                               valor de um indicador em determinado momento
+ INDICADORES
+
+                          Padrão de                        índice arbitrário e aceitável para uma avaliação comparativa de padrão
+                         Comparação                                                     de cumprimento
+
+
+                                                           índice (número) orientado por um indicador em relação a um padrão de
+                             Meta                                     comparação a ser alcançado durante certo período
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (FCC – TRT 14a – Analista Judiciário - 2016)
+Os indicadores são instrumentos metodológicos que permitem identificar e mensurar
+aspectos relacionados a certo conceito, situação, fenômeno, problema ou mesmo
+resultado de uma determinada intervenção na realidade social. Sobre os componentes
+básicos de um indicador, é correto afirmar:
+a) Medida é o valor de um indicador em determinado momento.
+b) Fórmula é a grandeza qualitativa ou quantitativa que permite classificar as
+características, os resultados e as consequências dos produtos, processos ou sistemas.
+c) Índice é o padrão matemático que expressa a forma de realização do cálculo.
+d) Padrão de comparação é o padrão matemático que expressa a forma de realização do
+cálculo.
+e) Meta é um número orientado por um indicador em relação a um padrão de
+comparação a ser alcançado durante certo período.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Indicadores
+Critérios Básicos (Atributos) dos Indicadores (Guia Referencial)
+                                                            devem fornecer informações sobre as principais variáveis
+                             Seletividade
+                                                       estratégicas e prioridades definidas de ações, produtos ou impactos
+                            (importância)
+                                                                                    esperados
+                        Simplicidade, clareza,
+                                                         os indicadores devem ser simples e compreensíveis, capazes de
+                           inteligibilidade e
+                                                                        levar a mensagem e o significado.
+                          comunicabilidade
+                        Representatividade,
+                                                            os indicadores devem ter capacidade de demonstrar a mais
+                         confiabilidade e
+                                                              importante e crítica etapa de um processo, projeto etc.
+                          sensibilidade
+       Critérios
+     Básicos dos
+                                                         os dados disponibilizados pelos indicadores devem ser fáceis de
+     Indicadores           Investigativos
+                                                                                     analisar
+        (Guia
+     Referencial)
+                                                             os indicadores devem ser facilmente comparáveis com as
+                          Comparabilidade                 referências internas ou externas, bem como séries históricas de
+                                                                                  acontecimentos
+
+                                                            os indicadores devem ter procedimentos gerados de forma
+                            Estabilidade
+                                                         sistemática e constante, sem muitas alterações e complexidades
+
+
+Prof. Stefan Fantini                                        os indicadores devem ser projetados para serem factíveis e
+                          Custo‐efetividade
+                                                                             economicamente viáveis.
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Indicadores
+Critérios Básicos (Atributos) dos Indicadores (Graças Rua)
+
+                                                      capacidade de resposta às mudanças de comportamento e exigências
+                        Adaptabilidade
+                                                                                 dos clientes.
+
+
+                                                          facilidade para identificação da origem dos dados, seu registro e
+                        Rastreabilidade
+                                                                                     manutenção.
+
+ Atributos dos                                        facilidade de acesso para coleta, estando disponível a tempo, para as
+  Indicadores           Disponibilidade               pessoas certas e sem distorções, servindo de base para que decisões
+ (Graças Rua)                                                                    sejam tomadas.
+
+                                                        não deve ser gasto tempo demais procurando dados, muito menos
+                          Economia
+                                                             pesquisando ou aguardando novos métodos de coleta.
+
+
+                                                       garantia de que realmente funciona na prática e permite a tomada de
+                          Praticidade
+                                                                              decisões gerenciais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Indicadores
+Critérios Básicos (Atributos) dos Indicadores (Guia Referencial)
+                                                 Seletividade (importância)
+
+                               Simplicidade, clareza, inteligibilidade e comunicabilidade
+
+                                  Representatividade, confiabilidade e sensibilidade
+
+                                                         Investigativos
+                  Critérios
+                Básicos dos                            Comparabilidade
+                Indicadores
+                   (Guia                                  Estabilidade
+                Referencial)
+                      +                                Custo‐efetividade
+               Atributos dos
+                Indicadores                             Adaptabilidade
+               (Graças Rua)
+                                                        Rastreabilidade
+
+                                                        Disponibilidade
+
+                                                           Economia
+Prof. Stefan Fantini
+ @prof.stefan.fantini                                     Praticidade
+                                 
+
+
+---
+
+                        (FGV – ALERJ – Especialista Legislativo - 2017)
+A elaboração de um quadro de indicadores de desempenho organizacional deve
+obedecer certos atributos.
+Nesse sentido, um indicador que capte os aspectos mais importantes de um dado
+processo refere-se ao atributo de:
+a) adaptabilidade;
+b) disponibilidade;
+c) economia;
+d) representatividade;
+e) simplicidade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – DPE-MT – Administrador - 2015)
+Processos de avaliação quantitativa demandam o uso de indicadores. Para a sua
+efetividade, eles devem apresentar as características preferenciais listadas a seguir,
+à exceção de uma. Assinale-a.
+a) Simplicidade
+b) Inovação
+c) Confiabilidade
+d) Baixo custo
+e) Estabilidade
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Indicadores                                                              Utilidade
+
+Propriedades dos Indicadores                                             Validade
+                                          Essenciais
+                                                                       Confiabilidade
+
+
+                        Propriedades                                  Disponibilidade
+                             dos
+                        INDICADORES
+                                                                       Simplicidade
+                        (Manual de
+                        Orientações
+                          Básicas
+                                                                          Clareza
+                        Aplicadas à
+                          Gestão
+                         Pública)
+                                                                       Sensibilidade
+
+
+                                                                     Desagregabilidade
+                                       Complementares
+                                                                      Economicidade
+
+
+                                                                        Estabilidade
+
+
+                                                                     Mensurabilidade
+
+Prof. Stefan Fantini
+                                                                      Auditabilidade
+ @prof.stefan.fantini                                                (rastreabilidade)
+                                       
+
+
+---
+
+Indicadores
+Outros aspectos que devem ser levados em consideração
+
+                         Publicidade                                           os indicadores devem ser público
+   Outros
+  Aspectos
+ (Manual de
+ Orientações                                        a identificação dos indicadores de desempenho deve considerar algumas
+                        Temporalidade
+   Básicas                                                                     questões temporais
+ Aplicadas à
+   Gestão
+  Pública)                                            dispor de indicadores de medição factível, em momentos adequados e
+                        Disponibilidade                com uma periodicidade que equilibre as necessidades de informação
+                                                                      com os recursos técnicos e financeiros.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (ESAF – Receita Federal – Analista - ADAPTADA)
+Na questão abaixo, selecione a opção que melhor representa o conjunto das afirmações,
+considerando C para afirmativa correta e E para afirmativa errada.
+I. Validade, confiabilidade e complexidade são consideradas propriedades essenciais de
+um indicador de desempenho.
+II. A sensibilidade é a capacidade que um indicador possui de nunca refletir as mudanças
+decorrentes das intervenções.
+a) E - E
+b) C - C
+c) C - E
+d) E - C
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Indicadores
+Qualidade dos Indicadores
+                            Validade                           deve refletir o fenômeno a que está sendo medido
+                         Comparabilidade                  indicador deve possibilitar comparações ao longo do tempo
+                           Estabilidade            as variáveis componentes do indicador devem ter “estabilidade conceitual”
+                         Homogeneidade           Em sua construção devem ser consideradas apenas “variáveis homogêneas”
+                           Praticidade               deve realmente funcionar na prática e permitir a tomada de decisões
+                          Independência               deve medir os resultados atribuíveis às ações que se quer monitorar
+       qualidades         Confiabilidade           a fonte de dados utilizada para o cálculo do indicador deve ser confiável
+       desejáveis
+      (características
+        desejáveis)        Seletividade                   deve-se estabelecer um número equilibrado de indicadores
+                          Simplicidade                                      deve ser de fácil compreensão
+                           Completude             representar adequadamente a amplitude e diversidade de características
+                         Economicidade                                  trata-se da relação custo x benefício
+                          Acessibilidade                         facilidade de acesso às informações primárias
+                         Tempestividade                      informações devem estar disponíveis quando necessário
+Prof. Stefan Fantini       Objetividade                                    o indicador deve ser inequívoco
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (IADES – UFBA – Analista Administrativo)
+Para que um indicador de desempenho cumpra com seus objetivos, ele deve
+atender a determinados critérios de qualidade. Com base nesses critérios, é correto
+afirmar que na
+a) praticidade, os métodos, o conhecimento técnico e os recursos tecnológicos
+existentes na unidade responsável pela operacionalização de um indicador e é
+plenamente compatível com os métodos, o conhecimento técnico e os recursos
+tecnológicos necessários à operacionalização desse indicador.
+b) factibilidade, o indicador deve subsidiar a tomada de decisão.
+c) acessibilidade, qualquer pessoa deve sentir-se apta a verificar a boa aplicação das
+regras de uso dos indicadores (obtenção, tratamento, formatação, difusão,
+interpretação).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IADES – UFBA – Analista Administrativo)
+(...)
+d) seletividade, o indicador deve ser de fácil entendimento, ou seja, qualquer pessoa
+deve ser capaz de tirar conclusões a partir da análise do indicador.
+e) cobertura, o indicador deve representar adequadamente a amplitude e a
+diversidade de características do fenômeno monitorado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Etapas e Passos para a Construção (Formulação) de Indicadores
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                          
+
+
+---
+
+                        (IADES – EBSERH – Enfermeiro)
+A formulação de indicadores pode ser realizada por um conjunto de passos
+necessários, para assegurar que os princípios da qualidade e do sistema de medição
+do desempenho, estejam em conformidade com o desejado, pela organização. Para
+esta formulação, alguns passos deverão ser seguidos.
+Assinale a alternativa que apresenta esses passos:
+a) Amostragem do nível, dimensão, subdimensão e objetos de mensuração.
+b) Estabelecimento dos indicadores de mensuração.
+b) Mensuração preliminar dos indicadores com as partes interessadas.
+d) Validação dos resultados.
+e) Análise e interpretação dos indicadores, comunicação do desempenho e gerir
+mudança.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Indicadores
+Variáveis
+
+
+                          Custo
+
+                          Tempo
+    Variáveis dos
+     Indicadores
+        (TCU)
+                        Qualidade
+
+                        Quantidade
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                           
+
+
+---
+
+                        (CESPE – TCU – Auditor Federal de Controle Externo)
+Custo, tempo, quantidade e qualidade são variáveis empregadas na construção de
+indicadores de desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Mitos Sobre a Medição de Desempenho
+
+
+                        Mito 1: Mito da medição absoluta: preciso medir tudo.
+
+                        Mito 2: Para medir o que importa, preciso gerar todas
+                         as informações, coletar dados de forma exaustiva e
+                                              precisa.
+MITOS SOBRE A MEDIÇÂO
+   DE DESEMPENHO
+                        Mito 3: Primeiro vamos medir, depois vamos ver o que
+                                      fazemos com as medidas.
+
+
+                          Mito 4: Preciso, sobretudo, do sistema informático
+                                           perfeito para isto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                         
+
+
+---
+
+                        (FEMPERJ – TCE-RJ – Analista de Controle Externo)
+Segundo o Guia Referencial para Medição de Desempenho e Manual para Construção de
+Indicadores do Ministério do Planejamento, “uma boa gestão é aquela que alcança
+resultados, independentemente de meritórios esforços e intenções. E, alcançar
+resultados, no setor público, é atender às demandas, aos interesses e às expectativas dos
+beneficiários, sejam cidadãos ou organizações, criando valor público”.
+Analise as colocações a seguir, frequentemente enunciadas, que se referem a verdades e
+mitos ligados à mensuração do desempenho.
+1) Preciso medir tudo.
+2) Para medir o que importa, preciso gerar todas as informações, coletar dados de forma
+exaustiva e precisa.
+3) Primeiro vamos medir, depois vamos ver o que fazemos com as medidas.
+4) Preciso, sobretudo, do sistema informatizado perfeito para isto.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FEMPERJ – TCE-RJ – Analista de Controle Externo)
+(...)
+As colocações que se referem a mitos são:
+a) somente 3 e 4;
+b) somente 1 e 3;
+c) somente 1, 2 e 4;
+d) todas elas;
+e) nenhuma delas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+Cadeia de Valor
+ ”Cadeia de valor é definida como o levantamento de toda a ação ou processo necessário
+ para gerar ou entregar produtos ou serviços a um beneficiário. É uma representação das
+ atividades de uma organização e permite melhor visualização do valor ou do benefício
+ agregado no processo, sendo utilizada amplamente na definição dos resultados e
+ impactos de organizações”. (Bennett, 1976 e Wholey, 1979)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+
+                           6 Es do Desempenho
+               Dimensões de Esforço               Dimensões de Resultado
+                  Economicidade                         Eficiência
+                     Execução                            Eficácia
+                    Excelência                         Efetividade
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+
+
+                                          é a relação entre os produtos/serviços gerados (outputs) com os insumos
+                        Eficiência
+                                                                          utilizados,
+
+                                           é a quantidade e qualidade de produtos e serviços entregues ao usuário
+                         Eficácia
+                                                  (beneficiário direto dos produtos e serviços da organização)
+
+                                           são os impactos gerados pelos produtos/serviços, processos ou projetos. A
+  6 Es do               Efetividade       efetividade está vinculada ao grau de satisfação ou ainda ao valor agregado, a
+Desempenho                                                transformação produzida no contexto em geral.
+   (Guia
+Referencial)                                refere‐se à realização dos processos, projetos e planos de ação conforme
+                        Execução
+                                                                          estabelecidos.
+
+                                            está alinhada ao conceito de obtenção e uso de recursos com o menor
+                    Economicidade         ônus possível, dentro dos requisitos e da quantidade exigidas pelo input,
+                                                     gerindo adequadamente os recursos financeiros e físicos.
+                                            é a conformidade a critérios e padrões de qualidade/excelência para a
+                        Excelência             realização dos processos, atividades e projetos na busca da melhor
+                                                 execução e economicidade; sendo um elemento transversal.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+
+                         Eficiência                Insumos e Produtos
+
+                          Eficácia                       Produtos
+
+                         Efetividade                     Impactos
+
+                         Execução                         Ações
+
+                        Economicidad
+                                                         Insumos
+                             e
+
+Prof. Stefan Fantini     Excelência                  Insumos e Ações
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Modelo para Mensuração de Desempenho:
+A Cadeia de Valor e os 6 Es do Desempenho
+Eficiência, Eficácia e Efetividade
+
+
+                        Utilização de        Fazer de forma           Relaciona-se
+         EFICIÊNCIA                                                                   Foco Interno
+                         recursos               correta                aos Meios
+
+                        Alcance dos
+                                              Fazer a coisa           Relaciona-se
+         EFICÁCIA       resultados                                                    Foco Externo
+                                                 certa                 aos Fins
+                         (objetivos)
+
+                                                 Gerar                Relaciona-se
+                          Impacto
+        EFETIVIDADE                            benefícios,           aos Benefícios   Foco Externo
+                          causado
+                                             transformação              gerados
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (FCC – TRT 15ª Região – Técnico Judiciário - 2018)
+A expectativa da sociedade de que a gestão pública seja eficiente, eficaz e efetiva
+pode ser atendida, no que concerne à
+I. eficiência, pelo uso racional dos recursos disponíveis e sua otimização.
+II. eficácia, pela disponibilização à população das ações e serviços nos prazos
+demandados.
+III. efetividade, pelo controle de legalidade da atuação da Administração.
+Está correto o que consta APENAS de
+a) II.
+b) I e III.
+c) II e III.
+d) I.
+e) I e II.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (COVEST-COPSET – UFPE – Assistente - 2017)
+Sobre as categorias básicas de indicadores de desempenho, é correto afirmar o que
+segue.
+a) Efetividade são os impactos gerados pelos produtos/serviços, processos ou
+projetos. Está vinculada ao grau de satisfação ou ainda ao valor agregado, à
+transformação produzida no contexto em geral.
+b) Eficiência é a conformidade a critérios e padrões de qualidade/excelência para a
+realização dos processos, atividades e projetos na busca da melhor execução e
+economicidade; sendo um elemento transversa
+c) Eficácia está alinhada ao conceito de obtenção e uso de recursos com o menor
+ônus possível, dentro dos requisitos e da quantidade exigidas pelo input, gerindo
+adequadamente os recursos financeiros e físicos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (COVEST-COPSET – UFPE – Assistente - 2017)
+(...)
+d) Economicidade refere‐se à realização dos processos, projetos e planos de ação
+conforme estabelecidos.
+e) Excelência é a quantidade e a qualidade de produtos e serviços entregues ao
+usuário (beneficiário direto dos produtos e serviços da organização).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (COVEST-COPSET – UFPE – Assistente - 2017)
+O Modelo da Cadeia de Valor e dos 6Es do Desempenho estabelece também uma
+relação entre os elementos que compõem a cadeia de valor e sua contribuição para
+os resultados finais. As seis categorias de indicadores estão relacionados a algum
+dos elementos da cadeia de valor, que representa a atuação da ação pública desde a
+obtenção dos recursos até a geração dos impactos provenientes dos
+produtos/serviços. Os elementos da cadeia de valor são: 1) Insumos (inputs); 2)
+Processos/Projetos (ações); 3) Produtos/serviços (outputs) 4) Impactos (outcomes).
+Estas relações podem ser representadas por algumas perguntas que os indicadores
+associados procuram responder:
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (COVEST-COPSET – UFPE – Assistente - 2017)
+Considerando os elementos da cadeia de valor mostrados no quadro acima, assinale
+a alternativa que define as perguntas adequadas para o elemento “Impactos”:
+a) Quais os recursos necessários para gerar produtos/serviços estabelecidos? Qual a
+quantidade de recursos necessária?
+b) Qual o tempo médio de ciclo do processo? Qual o custo do processo?
+c) Quais os produtos/serviços gerados? Qual a Qualidade do produto/serviço?
+d) Quais mudanças os produtos/serviços trazem para os beneficiários e a sociedade?
+e) Quais são as ações, os processos e projetos executados?
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos / Classificações de Indicadores de Graças Rua
+
+                        Indicadores          estão relacionados ao
+                        Estratégicos     planejamento estratégico da
+                                                 organização
+
+                                       esses indicadores têm por objetivo
+                    Indicadores de
+                                          avaliar o desempenho dos
+    Tipos /            Projetos
+                                                    projetos
+Classificações
+de Indicadores
+de Graças Rua
+                                                                               Qualidade
+
+
+                                       os indicadores de processo buscam
+                                         representar objetivamente as         Produtividade
+                    Indicadores de       características dos processos
+                       Processo         que devem ser acompanhadas ao
+                                          longo do tempo para avaliar e        Efetividade
+                                           melhorar o seu desempenho
+
+
+                                                                               Efetividade
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Outros Tipos de Indicadores
+Quantitativos x Qualitativos
+
+                        Indicadores
+                                            são os indicadores que podem ser obtidos objetivamente, através
+                        Quantitativos
+                                                           de medições de “números exatos”.
+                         (objetivos)
+ Quantitativos
+ x Qualitativos
+                        Indicadores
+                                                são indicadores mais subjetivos (dependem do julgamento
+                        Qualitativos
+                                                               individual de cada pessoa).
+                        (subjetivos)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Outros Tipos de Indicadores
+Simples x Compostos
+
+                   Indicadores Simples                       são decorrentes de uma única medição.
+
+   Simples x
+  Compostos
+
+                  Indicadores Compostos                       decorrem de “mais de uma medição”.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Outros Tipos de Indicadores
+Quanto ao nível hierárquico
+
+                           Indicadores                 estão diretamente ligados ao planejamento estratégico da
+                           Estratégicos                                       organização.
+
+
+      Quanto ao
+         nível          Indicadores Táticos           estão relacionados às áreas/departamentos da organização.
+      hierárquico
+
+
+                           Indicadores              estão relacionados às atividades e processos operacionais da
+                           Operacionais                                       organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Outros Tipos de Indicadores
+Quanto ao enfoque
+
+                            Indicadores de
+                                                      têm por objetivo monitorar os processos organizacionais (os meios).
+                               processo
+
+      Quanto ao             Indicadores de
+                                                              buscam avaliar e medir os resultados obtidos (os fins).
+       enfoque                 resultado
+
+                        Indicadores de impacto               estão orientados aos impactos gerados pelos produtos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Outros Tipos de Indicadores
+Indicadores Lag (de resultado) x Indicadores Lead (de tendência)
+
+                    Indicadores “lag” /
+                      Indicadores de                      são indicadores que medem as ações passadas
+ Indicadores             resultado
+    Lag x
+ Indicadores
+     Lead           Indicadores “lead” /
+                       Indicadores de           medem atividades no sentido de direcionar ou induzir resultados
+                  tendência / Indicadores         futuros. Eles traçam um plano “preditivo” para a empresa.
+                      direcionadores
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (CESPE – MPOG – Analista - 2015)
+Os lead indicators são indicadores de desempenho que determinam quão bem os
+negócios estejam sendo executados para permitir que os objetivos sejam atingidos.
+Além disso, no balanced scorecard, esses indicadores são chamados também de
+direcionadores de desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+---
+
+---

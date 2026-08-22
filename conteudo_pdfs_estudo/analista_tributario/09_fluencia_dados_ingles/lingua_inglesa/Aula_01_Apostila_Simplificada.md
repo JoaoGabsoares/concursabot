@@ -1,0 +1,2203 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 01_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Língua Inglesa
+---
+
+# Língua Inglesa
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                               Língua Inglesa
+
+                                                        Autor:
+                                                   Ena Smith
+
+                                         05 de Setembro de 2025
+
+---
+
+      Ena Smith
+      Aula 00
+
+                                                                                     Índice
+1) AULA 00 TEORIASIM1
+
+
+2) AULA 00 FGVQCSIM
+
+                Receita Federal (Analista Tributário) Língua Inglesa                                                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                           49
+
+                                                             
+
+
+---
+
+   Ena Smith
+   Aula 00
+
+                               AULA 00 - DEMONSTRATIVA
+
+Apresentação 
+
+Como Estudar Inglês para Concursos 
+
+Cognatos Verdadeiros e Falsos 
+
+Técnicas de Interpretação de Textos 
+
+Resumo da Aula
+
+           Receita Federal (Analista Tributário) Língua Inglesa                                                                               3
+           www.estrategiaconcursos.com.br                                                                                                     49
+
+                                              
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+                          APRESENTAÇÃO DO CURSO
+
+Seja bem-vindo (a) a este de LÍNGUA INGLESA, desenvolvido para permitir uma preparação
+simplificada para o concurso da sua escolha. O nosso curso vai focar em questões diversas.
+
+                                          Este material consiste de:
+
+
+   •    Curso de Inglês em vídeo, onde haverá resolução de provas e na medida do possível
+        ressaltado como o assunto de teoria é cobrado na prova;
+   •    Curso escrito (em PDF), ministrado pela professora Ena Loiola, formado por 6 aulas
+        onde será explicado o conteúdo teórico de modo resumido do último edital, além de
+        serem apresentadas várias questões resolvidas, em especial aquelas exigidas em provas;
+   •    Fórum de dúvidas, onde você pode entrar em contato direto com os professores
+        quando julgar necessário. Importante: O fórum destina-se a tirar dúvidas
+        referente APENAS a esse curso. Para problemas com download ou outros
+        problemas técnicos, por favor escreva para contato@estrategiaconcursos.com.br.
+
+
+Esse curso simplificado destina-se principalmente aos alunos que já têm um bom conhecimento
+da disciplina e querem focar apenas nos pontos principais, ou para aqueles que estudam na
+última hora, ou não têm muito tempo para se dedicar aos estudos e por isso focam mais nas
+disciplinas de maior peso. Embora também possa ser usado para revisão, nossa dica é que você
+marque os pontos que mais teve dificuldade e revise-os. A revisão é algo muito subjetivo.
+
+
+Veja como são compostas as aulas em pdf:
+
+                                                     AULAS EM PDF
+
+                                                                                     Quadros de
+       Provas Resolvidas           Tradução de Textos            Teoria Gramatical
+                                                                                     Vocabulários
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                       4
+         www.estrategiaconcursos.com.br                                                             49
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Atenção: Os conteúdos das aulas do curso simplificado nem sempre
+correspondem à sua necessidade de revisão. Eles destacam o que geralmente é
+mais cobrado para a disciplina de Língua Inglesa. Lembre-se que o resumo do
+curso para revisão é algo subjetivo, você deve montar também o seu próprio
+resumo com base naquilo que acha que precisa rever mais, ou seja, que tem mais
+dificuldade de assimilar ou memorizar.
+
+
+Nesse curso a princípio - aula 00 - nos concentraremos nas técnicas de interpretação, e
+estudaremos alguns dos principais itens relevantes da gramática da Língua Inglesa.
+
+            COMO ESTUDAR INGLÊS PARA CONCURSOS
+
+
+                         1 - Considerações Iniciais
+ANTES DE INICIARMOS COM AS TÉCNICAS DE INTERPRETAÇÃO, vamos aprender algumas
+dicas e macetes para estudarmos Inglês de forma mais eficiente. Observe:
+
+                           NÃO DEIXE DE LER O QUE VEM A SEGUIR.
+
+Sabendo que você têm outras disciplinas a estudar - e algumas até com peso maior –
+vou passar algumas ideias para você utilizar seu tempo.
+
+               COMO ESTUDAR INGLÊS PARA
+                     CONCURSOS
+Todo mundo estuda, com muito afinco, as matérias que têm peso maior. Então, Inglês
+pode ser o diferencial na hora de somar todos os pontos, concorda? Bom, depois anos na área
+de concursos, pensei nas seguintes dicas.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             5
+        www.estrategiaconcursos.com.br                                                  49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+                          CONCURSEIRO (A) QUE
+              SE VOCÊ É UM (A)
+                   TRABALHA DURANTE O DIA.
+PRIMEIRO PASSO: escolha um texto que tenha um nível compatível com o seu conhecimento de
+inglês e estude-o durante uma semana inteira (observe o passo a seguir).
+
+
+SEGUNDO PASSO: pegue um caderno e vá anotando à mão até atingir 10 frases deste texto.
+Obviamente isso varia de pessoa para pessoa. Procure dividir esse estudo das frases durante o
+dia, assim, 3 pela manhã, 4 à tarde e as 3 restantes à noitinha. Você há de concordar que ler 10
+frases por dia é algo que qualquer um pode conseguir, até aqueles com a rotina mais preenchida
+de atividades. Porém, penso que isso é o MÍNIMO que você deverá fazer, ou seja, quanto mais
+tempo você tiver para se dedicar ao Inglês, melhor. Você é a pessoa que melhor sabe das suas
+condições e necessidades para se dedicar ao estudo do inglês.
+
+ SE VOCÊ É UM (A) CONCURSEIRO (A) QUE NÃO
+  TRABALHA DURANTE O DIA E TEM CONDIÇÕES
+      DE SE DEDICAR MAIS A FUNDO.
+
+PRIMEIRO PASSO: dependendo do seu conhecimento de Inglês, escolha a parte do curso
+que vai te atender de forma mais adequada. Em outras palavras, se você for iniciante, e quer
+começar sua preparação pela parte teórica gramática, inicie pela Aula 00. Caso você perceba
+que você não tem dificuldade com a parte teórica da Aula 00, passe para a Aula 01 e assim por
+diante. Caso você já tenha conhecimentos mais sólidos de inglês, você pode começar pelos
+textos da Aula 00 e testar se você consegue entender o texto. Caso esteja muito fácil, passe
+para o texto seguinte, e assim por diante.
+
+
+SEGUNDO PASSO: sempre estude as aulas com lápis e papel na mão e anote o que você
+considerar importante. Se for um aluno com Inglês de nível intermediário ou avançado, anote
+todas as palavras que são novas para você e suas traduções, bem como os seus sinônimos. Se for
+iniciante, anote aquelas palavras que mais se repetem e aquelas destacadas por mim nos meus
+comentários e/ou explicações. Naturalmente, estou me referindo às palavras que não são
+cognatos verdadeiros, pois essas já estão praticamente na Língua Portuguesa.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  6
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+TERCEIRO PASSO: à noite, antes de dormir, leia o conteúdo que você estudou. Não é para
+estudar a fundo, mas leia por uns 6 ou 7 minutos, não mais do que isso. A ideia é relembrar o
+que você estudou durante o dia e deixar seu cérebro "ruminar" essa matéria durante o seu sono.
+A neurociência já descobriu que o cérebro aprende durante o sono. Sendo assim, alimente seu
+cérebro com inglês antes de você adormecer.
+
+
+QUARTO PASSO: de manhã, no dia seguinte, antes de levantar da cama, leia novamente o
+que você leu antes de adormecer na noite anterior. Faça isso por 3-4 dias consecutivos com o
+mesmo texto e depois passe para outro texto.
+
+                COGNATOS VERDADEIROS E FALSOS           ==219a34==
+
+O primeiro passo para interpretar bem um texto é entendê-lo. E para entender um texto que
+não está em sua língua materna, você precisa conhecer o vocabulário. Isso significa não apenas
+aprender palavras novas, mas também lembrar as que você já aprendeu. Uma grande ajuda são
+os cognatos verdadeiros: quando você estiver diante de um texto de Língua Inglesa, sempre
+observará que existem palavras similares à Língua Portuguesa e que realmente são o que
+parecem ser. Essas palavras são chamadas cognatos verdadeiros ou true friends (verdadeiros
+amigos). Observe esse trecho abaixo de uma prova da FCC.
+
+
+Messi − who makes an estimated $41 million a year, about half from sponsors − reached a
+settlement with Spain’s tax authorities earlier this summer, agreeing to pay the amount he
+apparently owed, plus interest. The matter was settled, or so it seemed. Messi could go back
+to dazzling the world with his athleticism and creativity.
+
+
+Observe as palavras em negrito, todas elas são cognatos verdadeiros, ou seja, já estão
+praticamente em Português. As palavras em azul são palavras conhecidas. E existem algumas
+palavras que já foram assimiladas pela língua portuguesa e não se traduzem. Assim fica fácil de
+discernir os seus significados e consequentemente interpretar o texto.
+
+
+Mas com os cognatos verdadeiros você não precisa se preocupar, o que confunde a maioria dos
+alunos são os falsos cognatos: São também conhecidos como false friends (falsos amigos).
+A boa notícia é que eles são a minoria, então isso facilita para conhecê-los, e é importante que
+você os reconheça pois por causa de um falso cognato pode-se perder uma questão, veja
+abaixo alguns dos falsos amigos que não são o que parecem ser:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  7
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Pretend = Fingir
+
+
+He pretends to be a doctor.
+Ele finge ser médico.
+
+
+A palavra que significa “pretender” é Intend.
+
+
+Library = Biblioteca
+
+
+A library is not a luxury but one of the necessities of life. (Henry Beecher).
+Uma biblioteca não é um luxo, mas sim uma das necessidades da vida.
+
+
+A palavra que significa “livraria” é bookstore.
+
+
+Exit = saída, sair
+Actually = Na verdade, na realidade, de fato
+
+
+Actually, everyone on the bus had to exit.
+Na verdade, todos no ônibus tiveram que sair/descer.
+
+
+A palavra que significa “atualmente” é currently e “êxito” é success.
+
+               DICAS DE INTERPRETAÇÃO DE TEXTOS
+
+Além de estudar os cognatos, outra ajuda na interpretação de texto são as palavras
+conhecidas – sempre você observará nos textos a influência da língua inglesa na língua
+portuguesa, são palavras bem conhecidas e as vemos em vários lugares; por exemplo: office-
+boy (rapaz de recados), shopping-center (centro de compras), marketing (compra e venda)
+break (uma pausa), travel (viagem), ice-cream(sorvete), know-how (conhecimento
+especializado), show(espetáculo), fast-food(comida rápida), drink (bebida), coffee (café),
+upgrade (atualização), greencard (passe-livre americano). Embora não sejam cognatos, a
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            8
+        www.estrategiaconcursos.com.br                                                 49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+grande maioria de nós as conhece. Essa é mais uma técnica que você usará na hora de
+interpretar: palavras conhecidas desde o colégio, ou por observar em propaganda, TV, músicas;
+você já sabe o que significam pois já está familiarizado com elas.
+
+
+Com exceção dos cognatos verdadeiros, falsos e mistos e das palavras conhecidas, ficam aquelas
+palavras que você não conhece o significado. O que fazer para aprender e relembrar todo esse
+vocabulário? Escreva! Separe um caderno só para Inglês e monte um glossário pessoal,
+repita essas palavras com suas traduções todos os dias e vá adicionando novas. Além do
+caderno, você também pode usar um cartaz, põe na parede e vai escrevendo e repetindo.
+Tenha como alvo aprender 5 palavras novas por dia e sempre repita aquelas que já aprendeu.
+
+
+Se o seu nível de Inglês já for intermediário ou avançado, escreva a frase toda e não apenas a
+palavra solta. Além do caderno e/ou cartaz, você também pode escrever em notas adesivas e
+espalhar pela casa nos lugares onde você possa sempre ver. O seu subconsciente vai assimilando
+as palavras e elas se fixarão na sua mente. Se não repetir, vai esquecer!
+
+
+Quando for possível, dependendo do significado da palavra, tente desenhá-la, a visualização é
+muito importante para a memorização. Ou então simplesmente ponha uma seta para cima
+indicando significado positivo (joyful = alegre) ou para baixo indicando negativo (sa dness =
+tristeza). Use sua criatividade. Se pôr em prática todas essas dicas, da próxima vez que ver
+aquelas palavras (que você escreveu) em um texto, você lembrará delas!! Essa dica ajuda
+mesmo, experimente.
+
+
+E quando aparecer no texto uma palavra que você nunca viu? Observe o contexto e use
+sua intuição! Isso mesmo, muitas vezes você deduzirá a tradução de um segmento apenas
+pelo contexto e/ou pela sua intuição, aliado ao seu conhecimento acumulado de mundo, de
+outras provas ou leituras. A intuição nesse momento será uma grande aliada, portanto não
+desanime quando no meio de uma frase tiver uma palavra que você não conhece, pois isso
+sempre acontecerá, afinal até mesmo na nossa língua materna não conhecemos todas as
+palavras do dicionário, não é mesmo? Siga em frente e use e abuse da sua intuição.
+
+
+O conhecimento do formato das orações - saber que as orações em Inglês são
+geralmente formadas desse modo: sujeito + verbo + complemento, ficará mais fácil
+identificar no texto cada componente da oração, principalmente os elementos essenciais que
+são o sujeito e o verbo. Com a prática aprenderá a reconhecê-los.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                9
+        www.estrategiaconcursos.com.br                                                     49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+E o passo mais importante, que reúne todas as técnicas e dicas que vimos aqui: Fazer
+exercícios! Praticar e praticar resolvendo questões de provas passadas. Seguem abaixo as
+técnicas a serem aplicadas durante os exercícios.
+
+Skimming - uma leitura rápida do texto apenas para ter uma noção geral. Método onde o
+leitor move rapidamente os olhos sobre o texto com o objetivo de perceber o pensamento
+dominante do autor e ter uma visão completa do assunto.
+
+
+Scanning – ação de voltar os olhos ao texto lendo rapidamente como faz um “scanner”, mas já
+sabendo o que está procurando, como por exemplo um nome, uma data, um fato. Em geral um
+segmento de palavras parecido com o enunciado da questão. Quando encontrar o que está
+procurando leia a sentença toda e a grife.
+
+
+Essas técnicas são específicas de leitura rápida, mas embora usem o mesmo processo, os
+objetivos do scanning e skimming são diferentes. Você as achará úteis principalmente na hora
+da prova, pois estará numa corrida contra o tempo, e é justamente por isso que recomendo a
+técnica a seguir quando for começar a fazer a prova.
+
+
+Ler primeiro as questões – evite a tendência de ler logo o texto e leia primeiro a opção,
+assim fica bem mais fácil de encontrar a resposta, pois ganha-se tempo. Quando for ao texto
+você já sabe que palavras procurar, aquelas que foram citadas nos enunciados das questões.
+
+
+Leia a primeira sentença de cada parágrafo – A ideia principal na maioria dos parágrafos
+aparece na primeira sentença.
+
+
+Palavras chave – são também chamadas de clue/ link words ou pistas, são palavras tais
+como but (mas), because (porque), best (o melhor), worst (o pior), the most (o mais),
+if/whether (se), nomes de pessoas, lugares, datas, palavras em negrito ou itálico, sublinhadas,
+entre aspas, etc. Concentre-se nelas quando estiver analisando o texto em busca de respostas.
+Agora você já está munido das ferramentas, é só usá-las.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                10
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+    Ena Smith
+    Aula 00
+
+       RECOMENDAÇÃO: Na vídeo-aula, são mostrados exemplos de como eliminar
+       alternativas potencialmente erradas e, assim, chegar à alternativa correta. Vale muito
+       a pena assistir. Existe uma lógica na cabeça de quem elabora a prova e você vai
+       descobrir TUDO isso nesses exemplos.
+
+                                                   RESUMO
+
+•    Os Cognatos Verdadeiros são palavras em Inglês que parecem com palavras em Português
+     na escrita e têm o mesmo significado.
+•    Os Cognatos Falsos são palavras em Inglês que parecem com palavras em Português na
+     escrita mas não têm o mesmo significado.
+•    As orações em Inglês são geralmente formadas desse modo: sujeito + verbo +
+     complemento
+•    A palavra que significa “atualmente” é currently, e “êxito” é success.
+•    Skimming - uma leitura rápida do texto apenas para ter uma noção geral.
+•    Scanning – ação de voltar os olhos ao texto lendo rapidamente como faz um “scanner”, mas
+     já sabendo o que está procurando
+•    Uma importante técnica de Interpretação de Texto é primeiro ler a questão e depois ir ao
+     texto.
+•    Palavras chave – são também chamadas de clue/ link words ou pistas.
+
+          Receita Federal (Analista Tributário) Língua Inglesa                                  11
+          www.estrategiaconcursos.com.br                                                        49
+
+                                       
+
+
+---
+
+ Ena Smith
+ Aula 00
+
+                         AULA 00 - DEMONSTRATIVA
+                       SUMÁRIO RESUMIDO                                  PÁGINA
+
+Texto 1, Questões Comentadas e Tradução                                    02
+
+Texto 2, Questões Comentadas e Tradução                                    09
+
+Texto 3, Questões Comentadas e Tradução                                    18
+
+Lista de Questões Apresentadas                                             29
+
+Gabaritos                                                                  38
+
+       Receita Federal (Analista Tributário) Língua Inglesa                       12
+       www.estrategiaconcursos.com.br                                             49
+
+                                    
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Dica: Procure conferir o gabarito somente depois de resolver as questões, pois
+assim será mais proveitoso. Vá então agora para a Lista de Questões no final da
+aula e comece por lá. Sucesso!
+
+                                                 TEXTO 1
+Oficial de Chancelaria (OFCHAN) – MRE - FGV
+
+
+                                        World Work Worker Workplace
+
+
+Does your workplace offer affordances for #wellbeing? Natural light, movement, a view, informal
+areas to socialize or collaborate? 40% say no.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                13
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 00
+
+(https://www.pinterest.com/jeremytodddavis/world-work-workerplace)
+
+
+Comentários:
+01 According to the survey conducted in Text II, the workers who are unhappy with their working
+conditions are:
+
+
+(A) few;
+(B) little;
+(C) a little;
+(D) too much;                                            ==219a34==
+
+(E) quite a few.
+
+
+01 According to the survey conducted in Text II, the workers who are unhappy with their working
+conditions are:
+01 De acordo com a pesquisa conduzida no Texto, os trabalhadores que estão infelizes com as
+suas condições de trabalho são:
+
+
+(A) few; = poucos e (B) little; = pouco e (C) a little; = um pouco
+
+
+Só em olhar a questão sem nem precisar ir ao texto você já elimina a A, B, C, pois dizem a
+mesma coisa. Sendo que, além disso, o little só é usado para substantivos incontáveis. Por ex: a
+little vinegar (um pouco de vinagre). A palavra workers (trabalhadores) é contável. Então seria o
+few, mas isso se a resposta fosse poucos. Opções erradas.
+
+
+(D) too much; = demais e (E) quite a few. = muitos
+
+
+Nem precisa perder tempo analisando o quadro, logo na introdução o texto diz que 40% dos
+trabalhadores não estão satisfeitos com as condições de trabalho, ou seja, estão infelizes. Essa
+porcentagem de 40% não pode ser considerada demais, mas sim muitos.
+
+
+GABARITO: E
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                 14
+         www.estrategiaconcursos.com.br                                                       49
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+02 According to Text II, when workers complain that too much noise in the office has been
+undermining their work, they probably need:
+
+
+(A) better views;
+(B) louder rooms;
+(C) more privacy;
+(D) more coffee breaks;
+(E) more informal areas
+
+
+02 According to Text II, when workers complain that too much noise in the office has been
+undermining their work, they probably need:
+02 Quando os funcionários reclamam que barulho demais no escritório tem prejudicado o
+trabalho deles, eles provavelmente precisam de:
+
+
+(A) better views; = melhores vistas
+O barulho no escritório nada tem a ver com a vista que eles tem pela janela. Opção errada.
+
+
+(B) louder rooms; = salas mais barulhentas
+
+
+Pelo contrário, eles já querem é fugir do barulho. Errada.
+
+
+(C) more privacy; = mais privacidade
+
+
+Ao ter mais privacidade, os funcionários são menos incomodados por barulho de diversas fontes,
+e assim podem ser mais produtivos no seu trabalho. Essa é a opção correta.
+
+
+(D) more coffee breaks; = mais pausas para café
+
+
+Mais pausas para um café não solucionariam o problema, uma vez que ao voltarem ao escritório,
+o barulho ainda estaria lá. Opção errada.
+
+
+(E) more informal areas = mais áreas informais
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 15
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Ambas as palavras são cognatos verdadeiros: informal areas = áreas informais, ou seja, fora do
+ambiente de trabalho. Não é isso que os empregados querem dizer. Eles precisam de menos
+barulho, mas no seu próprio ambiente de trabalho. Opção errada.
+
+
+GABARITO: C
+
+03 In “pleasing views” the word “pleasing” is to “pleasure” as:
+
+
+(A) “breaking” is to “broken”;
+(B) “grieve” is to “grievance”;
+(C) “friendly” is to “friendship”;
+(D) “outstanding” is to “outstand”;
+(E) “understand” is to “understandable”.
+
+03 In “pleasing views” the word “pleasing” is to “pleasure” as:
+03 Em “vistas agradáveis, prazerosas” a palavra “agradável” está para “prazer, deleite” assim
+como:
+
+
+(A) “breaking” is to “broken”; = quebra está para quebrado
+
+
+A palavra breaking é substantivo. Não tem a mesma classe de pleasing que é adjetivo. Opção
+errada.
+
+
+(B) “grieve” is to “grievance”; = estar de luto está para mágoa
+
+
+Grieve é verbo, não adjetivo. Opção errada.
+
+
+(C) “friendly” is to “friendship”; = amigável está para amizade
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               16
+        www.estrategiaconcursos.com.br                                                     49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Pleasing = agradável, atrativo (adjetivo)
+Friendly = amigável, amistoso (adjetivo)
+Pleasure = prazer, deleite (substantivo)
+Friendship = amizade (substantivo)
+
+
+Essa é uma questão que aborda as classes de palavras. Todas elas vimos no curso. A palavra
+pleasing está para pleasure assim como friendly está para friendship. Ambas as palavras
+tem a mesma classe respectivamente: adjetivo e substantivo. Essa é a opção correta.
+
+
+(D) “outstanding” is to “outstand”; = excepcional está para ser proeminente
+
+
+Outstanding é adjetivo, mas outstand é verbo, não substantivo. Errada.
+
+
+(E) “understand” is to “understandable”. = entender está para compreensível
+
+
+Understand é verbo e pleasing é adjetivo. Opção errada.
+
+
+GABARITO: C
+
+04 The logical link created by the underlined words in “91% of people say they need casual
+spaces to re-energize and yet more than half (51%) have no place to go within the workplace” is
+the same as the one created by:
+
+
+(A) but;
+(B) until;
+(C) unless;
+(D) because;
+(E) although.
+
+
+04 The logical link created by the underlined words in “91% of people say they need casual
+spaces to re-energize and yet more than half (51%) have no place to go within the workplace” is
+the same as the one created by:
+
+           Receita Federal (Analista Tributário) Língua Inglesa                             17
+           www.estrategiaconcursos.com.br                                                   49
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+04 A conexão lógica criada pelas palavras sublinhadas em “91% das pessoas dizem que elas
+precisam de espaços casuais para se reenergizarem mas mais da metade (51%) não tem nenhum
+lugar desses onde ir no local de trabalho” é a mesma daquela criada por:
+
+
+(A) but; = mas, contudo
+(B) until; = até
+(C) unless;= a menos que
+(D) because; = por que
+(E) although.= embora, apesar de
+
+
+“91% of people say they need casual spaces to re-energize and yet/ but more than half (51%)
+have no place to go within the workplace”
+A conexão lógica criada pelas palavras sublinhadas em “91% das pessoas dizem que elas
+precisam de espaços casuais para se reenergizarem, mas/contudo mais da metade (51%) não
+tem nenhum lugar desses onde ir no local de trabalho”
+
+
+Yet (advérbio) = já, ainda
+Yet (conjunção) = mas, contudo = but = mas, contudo, porém
+
+
+Muita gente só conhece o significado do yet como advérbio, pois ele é muito usado na
+linguagem falada e na escrita informal. No entanto, na linguagem formal ele sempre aparece
+como conjunção, e esse é o caso em questão. Observe que ao substituirmos pelo but, não há
+nenhuma alteração na interpretação textual. Por outro lado, se tentarmos os outros, isso deixaria
+o texto truncado, sem coerência e prejudicaria a sua compreensão.
+
+
+GABARITO: A
+
+
+Translation
+
+
+World Work Worker Workplace
+Local de Trabalho do Trabalhador no Mundo do Trabalho
+
+
+Does your workplace offer affordances for #wellbeing? Natural light, movement, a view, informal
+areas to socialize or collaborate? 40% say no.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  18
+        www.estrategiaconcursos.com.br                                                        49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Será que o seu local de trabalho oferece potencialidade para diversas formas de bem-estar? A
+luz natural, movimento, uma vista, áreas informais para se socializar ou trabalhar juntos? 40%
+dizem que não.
+
+
+Privacy
+Privacidade
+
+
+95% say they need quiet, private spots for confidential conversations.
+95% dizem que precisam de lugares silenciosos e privados para conversas confidenciais.
+
+
+40% say they don’t have them.
+40% dizem que eles não têm esses lugares.
+
+
+Focus
+Foco
+
+
+95% of workers say having access to quiet, private places for concentrated work is important.
+95% dos funcionários dizem que é importante se ter acesso a lugares silenciosos, privados para a
+concentração no trabalho.
+
+
+41% say they don’t have access to quiet places.
+41% dos funcionários dizem que não tem acesso a lugares silenciosos.
+
+
+Getting the basics right
+Entendendo os fatos de modo preciso
+
+
+50% of workers report that they don’t have pleasing views.
+50% dos funcionários relatam que eles não têm vistas prazerosas.
+
+
+40% say they don’t have access to natural light.
+40% dos funcionários dizem que não tem acesso à luz natural.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    19
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Over 30% say their air quality is bad.
+Mais de 30% dizem que a qualidade do ar deles é ruim.
+
+
+37% workers lose up to 30 minutes a day dealing with physical discomfort.
+37% dos trabalhadores perdem até 30 minutos diariamente lidando com desconforto no local de
+trabalho.
+
+
+Respite
+Pausa/Intervalo
+
+
+91% of people say they need casual spaces to re-energize.
+91% das pessoas dizem que precisam de espaços casuais para se reenergizarem.
+
+
+51% and yet more than half have no place to go within their workplace.
+Mas mais da metade (51%) não tem nenhum lugar assim no seu local de trabalho.
+
+                                                 TEXTO 2
+Analista de Informática Legislativa - Senado Federal – FGV
+
+
+Read text II and answer questions 05 to 09.
+Leia o texto II e responda as questões 05 a 09.
+
+
+TEXT II
+
+
+       “The Tech Product Network is an information and knowledge portal that showcases
+products and information geared specifically toward making the jobs of law enforcement and
+corrections officers easier, safer, and more efficient,” says Steve Morrison, vice president of the
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    20
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+WVHTC Foundation’s Public Safety and Homeland Security Group and interim director of
+OLETC. “For vendors and technologists, it offers an opportunity for significant exposure.”
+        Through the site, Morrison says, law enforcement and corrections officers have ready
+access to information in a variety of formats on numerous technologies and products geared
+specifically toward their jobs. The site offers in-depth, validated assessments of various
+technologies performed by officers in the field. A calendar of events lists important industry
+happenings and technology-specific events posted by vendors. Registered users also receive e-
+mail notifications of new products and events that match their specified interests. In addition, the
+site offers discussion forums on products and industry-related technology issues and needs that
+give users a chance to ask questions regarding products and receive feedback.2
+(from http://www.justnet.org/TechBeat%20Files/tpn.pdf retrieved on September 23rd, 2008)
+
+
+Comentários:
+05 The main aim of “The Tech Product Network” is to
+
+
+(A) devise software.
+(B) sell courses.
+(C) help specialists.
+(D) list lawsuits.
+(E) prevent accidents.
+
+
+05 The main aim of “The Tech Product Network” is to
+05 O principal objetivo da “Rede de Produto Tecnológico” é
+
+
+(A) devise software. = planejar softwares
+
+
+Em nenhum momento o texto diz que o objetivo mais importante da rede é planejar ou inventar
+programas (software). Errada.
+
+
+(B) sell courses. = vender cursos
+
+
+O que o texto diz é que o site oferece fóruns de discussão sobre questões de tecnologia e
+produtos relacionados com a indústria. Não se trata de venda de cursos. Opção errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     21
+        www.estrategiaconcursos.com.br                                                           49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(C) help specialists. = ajudar especialistas
+
+
+“The Tech Product Network is an information and knowledge portal that showcases products
+and information geared specifically toward making the jobs of law enforcement and corrections
+officers easier, safer, and more efficient”
+“A Rede do Produto Tecnológico é um portal de informação e conhecimento que apresenta
+produtos e informações voltados especificamente para fazer os trabalhos da polícia e de agentes
+penintenciários mais fáceis, mais seguros e mais eficientes"
+
+
+O segmento do texto deixa bem claro que a rede ajuda profissionais como policiais e agentes
+penitenciários. Essa é a opção correta.
+(D) list lawsuits. = listar ações judiciais
+
+
+O texto diz que um calendário de eventos lista acontecimentos importantes da indústria e
+eventos específicos de tecnologia postadas por vendedores. Não se especifica se ações judiciais
+fazem parte das informações. Errada.
+
+
+(E) prevent accidents. = prevenir acidentes
+
+
+A partir do momento que o site ajuda os especialistas da Segurança Pública, logicamente se
+prevenir acidentes é uma das consequências. Isso acontece pois o trabalho deles se torna mais
+fáceis, mais seguros e mais eficientes. Esse não é o motivo principal, faz parte do conjunto.
+Errada.
+
+
+GABARITO: C
+
+06 The expression that could replace “geared toward” in “geared specifically toward their jobs”
+(line 12) is
+
+
+(A) designed for.
+(B) ruled by.
+(C) submitted to.
+(D) descriptive of.
+(E) registered for.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                22
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+06 The expression that could replace “geared toward” in “geared specifically toward their jobs”
+(line 12) is
+06 A expressão que poderia substituir "voltados para" em "voltados especificamente para os
+seus empregos" (linha 12) é
+
+
+(A) designed for. = projetados
+
+
+Through the site, Morrison says, law enforcement and corrections officers have ready access to
+information in a variety of formats on numerous technologies and products geared specifically
+toward their jobs.
+Através do site, diz Morrison, policiais e agentes penintenciários têm pronto acesso a
+informações em uma variedade de formatos em várias tecnologias e produtos voltados
+especificamente para os seus empregos.
+
+
+Gear = orientar, preparar, aprontar, voltar para, direcionar para, ajustar para = design =
+projetar, criar, inventar, planejar;
+
+
+Observe que o verbo destacado no enunciado e aquele do texto são sinônimos. A maioria das
+questões vai ser assim. Portanto, é relevante que você conheça não apenas o significado das
+palavras, mas seus sinônimos em inglês. Tanto faz usar um como outro, isso não vai alterar a
+interpretação do texto. Essa é a opção correta.
+
+
+(B) ruled by. = regidos por
+
+
+O verbo to rule tem vários significados. Quando seguido pela preposição by significa
+governado ou regido por. Não tem nada a ver com o significado pedido. Errada.
+
+
+(C) submitted to. = submetidos a
+
+
+A frase se tornaria incoerente por que os produtos não são submetidos aos empregos. Errada.
+
+
+(D) descriptive of. = informativos, descritivos
+
+
+...and products descriptive of specifically toward their jobs.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  23
+        www.estrategiaconcursos.com.br                                                        49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+...e produtos informativos especificamente para os seus empregos.
+
+
+Observe que essa é a única opção que não tem a terminação ED. Isso deixaria o texto
+incoerente. Opção errada.
+
+
+(E) registered for. = registrados para
+
+
+Não se trata de registro de produtos. Errada.
+
+
+GABARITO: A
+
+
+07 In “Through the site” (line 9) Through can be replaced by
+
+
+(A) According to.
+(B) As regards.
+(C) In relation to.
+(D) By means of.
+(E) In spite of.
+
+
+07 In “Through the site” (line 9) Through can be replaced by
+07 Em “Através do site” (linha 9) Através pode ser substituído por
+
+
+(A) According to. = De acordo com
+
+
+Não se está mencionando algo que foi visto no site. Errada.
+
+
+(B) As regards. = Em relação a
+
+
+Não se está dando uma opinião sobre o site. Errada.
+
+
+(C) In relation to. = Referente a
+
+        Receita Federal (Analista Tributário) Língua Inglesa                    24
+        www.estrategiaconcursos.com.br                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Não se está citando nenhuma informação que seja referente ao site. Errada.
+
+
+(D) By means of. = Por meio do
+
+
+Through/By means of the site, Morrison says, law enforcement and corrections officers have
+ready access to information in a variety of formats on numerous technologies and products
+geared specifically toward their jobs.
+Através/Por meio do site, diz Morrison, as autoridades policiais e os agentes penitenciários têm
+pronto acesso a informações em uma variedade de formatos em várias tecnologias e produtos
+voltados especificamente para os seus empregos.
+
+
+Through = através, por todo = By means of = por meio de
+
+
+Os conectivos podem substituir um ao outro sem alterar a compreensão textual pois são
+sinônimos. Essa é a correta.
+
+
+(E) In spite of. = Apesar de que
+
+
+Trata-se de um conectivo que expressa contraste entre o que foi dito antes e depois. Errada.
+
+
+GABARITO: D
+
+08 The underlined word in “products and events that match their specific interests” (line 17)
+means
+
+
+(A) reflect.
+(B) characterize.
+(C) suit.
+(D) illuminate.
+(E) resemble.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   25
+        www.estrategiaconcursos.com.br                                                         49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+08 The underlined word in “products and events that match their specific interests” (line 17)
+means
+08 A palavra grifada em “produtos e eventos que correspondem aos seus interesses
+específicos.” (linha 17) significa
+
+
+(A) reflect. = refletem
+(B) characterize. = caracterizam
+(C) suit. = adaptam-se
+(D) illuminate. = iluminam
+(E) resemble. = assemelham-se, parecem
+
+
+Registered users also receive e-mail notifications of new products and events that match / suit
+their specified interests.
+Usuários registrados nos EUA também recebem notificações por correio eletrónico de novos
+produtos e eventos que correspondem/adaptam-se aos seus interesses específicos.
+
+
+Match = combinar com, corresponder, emparelhar = suit = adaptar a, satisfazer as
+necessidades, servir para;
+
+
+Não seria coerente dizer que os produtos e eventos refletem, caracterizam, iluminam ou
+parecem com os interesses específicos deles. O correto é que eles se correspondem / adaptam-
+se ou satisfazem os interesses deles.
+
+
+GABARITO: C
+
+
+09 Instead of In addition in “In addition, the site offers discussion forums” (line 18), the author
+could have kept the same meaning by using
+
+
+(A) Thus.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    26
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(B) Conversely.
+(C) Fittingly.
+(D) Therefore.
+(E) Moreover.
+
+
+09 Instead of In addition in “In addition, the site offers discussion forums” (line 18), the
+author could have kept the same meaning by using
+09 Em vez de Além disso, em "Além disso, o site oferece fóruns de discussão" (linha 18), o autor
+poderia ter mantido o mesmo significado usando
+
+
+(A) Thus. = assim, desse modo e (D) Therefore. = portanto, dessa maneira
+
+
+Os conectivos são sinônimos e só por isso nenhum poderia ser a resposta, senão daria recurso.
+São conectivos usados para expressar resultado.
+
+
+(B) Conversely. = contrariamente
+
+
+Esse advérbio ou marcador de discurso expressa contradição, e não cabe no lugar do outro na
+frase. Errada.
+
+
+(C) Fittingly. = convenientemente, de modo apropriado
+
+
+Esse advérbio ou marcador de discurso explicativo e não cabe no lugar do outro na frase.
+Errada.
+
+
+(E) Moreover. = além disso
+
+
+In addition/Moreover, the site offers discussion forums on products and industry-related
+technology issues and needs that give users a chance to ask questions regarding products and
+receive feedback.
+Além disso, o site oferece fóruns de discussão sobre questões de tecnologia e produtos
+relacionados com a indústria e as necessidades que dão aos usuários a chance de fazer
+perguntas sobre produtos e receber feedback.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 27
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+In addition = além disso, além do mais = moreover = além disso, ademais
+
+
+Memorize esses conectivos, pois caem aos montes em textos. Tanto faz usarmos um como o
+outro, não alteraria a compreensão textual. São sinônimos. Essa é a opção correta.
+
+
+GABARITO: E
+
+Dica: Para memorizar o conectivo Moreover, lembre que ele é formado de duas palavras:
+More (mais) e Over (mais de) = adição.
+
+Translation
+
+
+“The Tech Product Network is an information and knowledge portal that showcases products
+and information geared specifically toward making the jobs of law enforcement and corrections
+officers easier, safer, and more efficient,” says Steve Morrison, vice president of the WVHTC
+Foundation’s Public Safety and Homeland Security Group and interim director of OLETC. “For
+vendors and technologists, it offers an opportunity for significant exposure.”
+
+
+“A Rede de Produto Tecnológico é um portal de informação e conhecimento que apresenta
+produtos e informações voltados especificamente para facilitar os trabalhos das autoridades
+policiais e dos agentes penitenciários, deixando-os mais seguros e mais eficientes", diz Steve
+Morrison, vice-presidente de Segurança Pública da Fundação WVHTC e Grupo de Segurança
+Nacional e diretor interino do OLETC. "Para os fornecedores e tecnólogos, oferece uma
+oportunidade significativa para exposição."
+
+
+Through the site, Morrison says, law enforcement and corrections officers have ready access to
+information in a variety of formats on numerous technologies and products geared specifically
+toward their jobs. The site offers in-depth, validated assessments of various technologies
+performed by officers in the field. A calendar of events lists important industry happenings and
+technology-specific events posted by vendors.
+
+
+Através do site, diz Morrison, as autoridades policiais e os agentes penitenciários têm pronto
+acesso a informações em uma variedade de formatos em várias tecnologias e produtos voltados
+especificamente para os seus empregos. O site oferece em profundidade, as avaliações
+validadas de diversas tecnologias realizadas por autoridades no campo. Um calendário de
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 28
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+eventos lista acontecimentos importantes da indústria e eventos específicos de tecnologia
+postadas por fornecedores.
+
+
+Registered users also receive e-mail notifications of new products and events that match their
+specified interests. In addition, the site offers discussion forums on products and industry-related
+technology issues and needs that give users a chance to ask questions regarding products and
+receive feedback.
+(from http://www.justnet.org/TechBeat%20Files/tpn.pdf retrieved on September 23rd, 2008)
+
+
+Usuários registrados nos EUA também recebem notificações por correio eletrônico de novos
+produtos e eventos que correspondem aos seus interesses específicos. Além disso, o site
+oferece fóruns de discussão sobre questões de tecnologia e produtos relacionados com a
+indústria e as necessidades que dão aos usuários a chance de fazer perguntas sobre produtos e
+receber feedback.
+
+                                                 TEXTO 3
+Analista e Tecnologista – IBGE – FGV
+
+
+READ TEXT I AND ANSWER QUESTIONS 10 TO 14.
+LEIA O TEXTO E RESPONDA AS QUESTÕES 10 A 14.
+
+
+Will computers ever truly understand what we’re saying?
+
+
+Source University of California - Berkeley
+
+
+Summary:
+If you think computers are quickly approaching true human communication, think again.
+Computers like Siri often get confused because they judge meaning by looking at a word’s
+statistical regularity. This is unlike humans, for whom context is more important than the word or
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     29
+        www.estrategiaconcursos.com.br                                                           49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+signal, according to a researcher who invented a communication game allowing only nonverbal
+cues, and used it to pinpoint regions of the brain where mutual understanding takes place.
+
+
+From Apple’s Siri to Honda’s robot Asimo, machines seem to be getting better and better at
+communicating with humans. But some neuroscientists caution that today’s computers will never
+truly understand what we’re saying because they do not take into account the context of a
+conversation the way people do.
+
+
+Specifically, say University of California, Berkeley, postdoctoral fellow Arjen Stolk and his Dutch
+colleagues, machines don’t develop a shared understanding of the people, place and situation -
+often including a long social history - that is key to human communication. Without such common
+ground, a computer cannot help but be confused.
+
+
+“People tend to think of communication as an exchange of linguistic signs or gestures, forgetting
+that much of communication is about the social context, about who you are communicating
+with,” Stolk said.
+
+
+The word “bank,” for example, would be interpreted one way if you’re holding a credit card but
+a different way if you’re holding a fishing pole. Without context, making a “V” with two fingers
+could mean victory, the number two, or “these are the two fingers I broke.”
+
+
+“All these subtleties are quite crucial to understanding one another,” Stolk said, perhaps more
+so than the words and signals that computers and many neuroscientists focus on as the key to
+communication. “In fact, we can understand one another without language, without words and
+signs that already have a shared meaning.”
+(Adapted from http://www.sciencedaily.com/releases/2016/01/160111135231.htm)
+
+
+Comentários:
+10 The title of Text I reveals that the author of this text is:
+
+
+(A) unsure;
+(B) trustful;
+(C) careless;
+(D) annoyed;
+(E) confident.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    30
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+10 The title of Text I reveals that the author of this text is:
+10 O tema do texto I revela que o autor do texto está/é:
+
+
+(A) unsure; = incerto
+
+
+Will computers ever truly understand what we’re saying?
+Os computadores irão algum dia realmente entender o que nós dizemos?
+
+
+O tema é uma pergunta. Visto que o autor faz tal questionamento, isso mostra que ele está
+incerto quanto a se um dia os computadores realmente entenderão as pessoas. Essa é a correta.
+(B) trustful; = confiante e (E) confident. =confidente
+
+
+Ambas as opções dizem a mesma coisa e só por isso nenhuma delas poderia ser a resposta do
+gabarito. Além disso, elas significam exatamente o oposto do que o tema do texto revela sobre
+o autor. Erradas.
+
+
+(C) careless; = negligente
+
+
+Não há nada no tema do texto que possa ser interpretado como negligência da parte do autor.
+Errada.
+
+
+(D) annoyed; = contrariado
+
+
+Não existem indícios fortes o bastante no tema que expressem contrariedade ou aborrecimento
+da parte do autor. Para a resposta está correta, ela precisa está clara. Errada.
+
+
+GABARITO: A
+
+
+11 Based on the summary provided for Text I, mark the statements below as TRUE (T) or FALSE
+(F).
+
+
+( ) Contextual clues are still not accounted for by computers.
+( ) Computers are unreliable because they focus on language patterns.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              31
+        www.estrategiaconcursos.com.br                                                    49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+( ) A game has been invented based on the words people use
+
+
+The statements are, respectively:
+
+
+(A) F – T – T;
+(B) T – F – T;
+(C) F – F – T;
+(D) F – T – F;
+(E) T – T – F.
+
+
+11 Based on the summary provided for Text I, mark the statements below as TRUE (T) or FALSE
+(F).
+11 Com base no sumário provido pelo Texto I, marque as declarações abaixo como
+VERDADEIRAS (V) ou FALSAS (F)
+
+
+( ) Contextual clues are still not accounted for by computers.
+( ) Pistas contextuais ainda não são levadas em conta pelos computadores.
+
+
+But some neuroscientists caution that today’s computers will never truly understand what we’re
+saying because they do not take into account the context of a conversation the way people do.
+Mas alguns neurocientistas alertam que os computadores de hoje nunca vão realmente entender
+o que estamos dizendo, porque eles não levam em conta o contexto de uma conversa da forma
+como as pessoas fazem.
+
+
+A assertiva concorda com o texto ao dizer que os computadores não consideram as palavras do
+contexto em uma conversa. Verdadeira.
+
+
+( ) Computers are unreliable because they focus on language patterns.
+( ) os computadores não são confiáveis, porque eles se concentram em padrões de linguagem.
+
+
+Computers like Siri often get confused because they judge meaning by looking at a word’s
+statistical regularity.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 32
+        www.estrategiaconcursos.com.br                                                       49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Computadores como o Siri muitas vezes se confundem, porque eles julgam o significado com
+base na regularidade estatística de uma palavra.
+
+
+Os computadores se baseam em padrões estatísticos de palavras, por isso não se pode confiar
+neles. Verdadeira.
+
+
+( ) A game has been invented based on the words people use.
+( ) Foi inventado um jogo com base nas palavras que as pessoas usam.
+
+
+Foi inventado um jogo, mas não usando palavras que as pessoas usam, e sim pistas não verbais.
+Falsa.
+
+
+The statements are, respectively:
+As declarações são, respectivamente:
+
+
+(A) F – T – T;
+
+
+(B) T – F – T;
+
+
+(C) F – F – T;
+
+
+(D) F – T – F;
+
+
+(E) T – T – F. = V – V - F
+
+
+GABARITO: E
+
+12 According to the researchers from the University of California, Berkeley:
+
+
+(A) words tend to have a single meaning;
+(B) computers can understand people’s social history;
+(C) it is easy to understand words even out of context;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              33
+        www.estrategiaconcursos.com.br                                                    49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(D) people can communicate without using actual words;
+(E) social context tends to create problems in communication.
+
+
+12 According to the researchers from the University of California, Berkeley:
+12 De acordo com os pesquisadores da Universidade da Califórnia, Berkeley:
+
+
+(A) words tend to have a single meaning; = as palavras tendem a ter apenas um significado.
+
+
+Pelo contrário, os pesquisadores citam como exemplo a palavra “banks” para mostrar que as
+palavras podem ter significados diferentes dependendo do contexto. Errada.
+
+
+(B) computers can understand people’s social history; = os computadores podem entender a
+história social do povo;
+
+
+Ao contrário disso, as máquinas não desenvolvem um entendimento comum do povo, local e
+situação - muitas vezes incluindo uma longa história social - que é a chave para a comunicação
+humana. Sem esse terreno comum, um computador termina se confundindo. Errada.
+
+
+(C) it is easy to understand words even out of context; = é fácil entender palavras mesmo fora do
+contexto.
+
+
+Nessa opção, lembrei de algo que sempre digo nas minhas aulas: ao considerar o significado de
+uma palavra sempre observe o contexto em que ela se encontra. Os pesquisadores citam como
+exemplo a palavra “banks” para mostrar que as pessoas podem se confundir com o significado
+de uma palavra se não tiver o contexto. Errada.
+
+
+(D) people can communicate without using actual words; = as pessoas podem se comunicar sem
+usar palavras de verdade
+
+
+“In fact, we can understand one another without language, without words and signs that already
+have a shared meaning.”
+"Na verdade, podemos entender um ao outro sem linguagem, sem palavras e sinais que já têm
+um significado compartilhado."
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  34
+        www.estrategiaconcursos.com.br                                                        49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+O trecho do texto deixa bem claro que é possível comunicação entre pessoas sem usar palavras
+de verdade. Essa é a opção correta.
+
+
+(E) social context tends to create problems in communication. = o contexto social tende a criar
+problemas na comunicação.
+
+
+Em nenhum momento é expressado no texto que o contexto social gera problemas na
+comunicação. O que o texto diz é que as máquinas não fazem uso do contexto social que é a
+chave para a comunicação humana. Errada.
+
+
+GABARITO: D
+
+
+13 If you are holding a fishing pole, the word “bank” means a:
+
+
+(A) safe;
+(B) seat;
+(C) boat;
+(D) building;
+(E) coastline.
+
+
+13 If you are holding a fishing pole, the word “bank” means a:
+13 Se você estiver segurando uma vara de pesca, a palavra "bank" significa um:
+
+
+(A) safe; = cofre e (D) building; = edifício
+
+
+Com o contexto vara de pesca não é correto interpretar que a palavra bank esteja relacionada
+com um cofre em uma instituição financeira ou com um edifício de um banco. Errada.
+
+
+(B) seat; = assento
+
+
+Tendo como contexto uma vara de pesca não é correto interpretar que a palavra bank esteja
+relacionada com um assento. Errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                35
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(C) boat; = barco
+
+
+Embora muitas vezes se use um barco para pescar, não tem sentido relacionar a palavra bank
+com boat porque elas não são sinônimas. Errada.
+
+
+(E) coastline. = costa, litoral
+
+
+coastline = costa, litoral = bank = margem, ribanceira, barranco
+
+
+Se o contexto for falando de pescaria ou vara de pescar, a palavra bank significará algo
+relacionado à margem de um rio pois as palavras coastline e bank são sinônimas. Essa é a
+opção correta.
+
+
+GABARITO: E
+
+
+14 The word “so” in “perhaps more so than the words and signals” is used to refer to something
+already stated in Text I. In this context, it refers to:
+
+
+(A) key;
+(B) crucial;
+(C) subtleties;
+(D) understanding;
+(E) communication.
+
+
+14 The word “so” in “perhaps more so than the words and signals” is used to refer to something
+already stated in Text I. In this context, it refers to:
+14 A palavra "so" em "talvez mais do que as palavras e sinais" é usada para se referir a algo já
+afirmado no texto I. Neste contexto, refere-se a:
+
+
+(A) key; = chave e (E) communication. = comunicação
+
+           Receita Federal (Analista Tributário) Língua Inglesa                              36
+           www.estrategiaconcursos.com.br                                                    49
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Como o próprio enunciado já diz, a palavra so é usada para se referir a algo que já foi relatado
+no texto. A palavra retoma uma outra que já foi citada. Portanto, as opções estão erradas pois as
+palavras key e communication vem depois da palavra so.
+
+
+(B) crucial; = decisivo, crítico
+
+
+“All these subtleties are quite crucial to understanding one another,” Stolk said, perhaps more
+so than the words and signals that computers and many neuroscientists focus on as the key to
+communication.
+"Todas essas distinções sutis são bastante cruciais para a compreensão umas das outras ", disse
+Stolk, talvez mais (cruciais) do que as palavras e sinais em que os computadores e muitos
+neurocientistas concentram-se como a chave para a comunicação.
+
+
+More so – a um grande grau ou extensão; bem mais, tão mais
+
+
+A palavra so está de alguma forma referindo-se à palavra crucial. A palavra crucial está oculta,
+subentendida.
+
+
+(C) subtleties; = distinções sutis
+
+
+Não faz sentido dizer que as distinções sutis são mais (distinções sutis) do que as palavras e
+sinais em que os computadores e muitos neurocientistas concentram-se como a chave para a
+comunicação. Pois sutileza é o sujeito, a palavra so substitui o adjetivo. O texto ficaria
+incoerente. Errada.
+
+
+(D) understanding; = entendimento, compreensão
+
+
+Não faz sentido dizer que as distinções sutis são mais (entendimentos) do que as palavras e
+sinais em que os computadores e muitos neurocientistas concentram-se como a chave para a
+comunicação. O texto ficaria truncado e incoerente. Errada.
+
+
+GABARITO: B
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  37
+        www.estrategiaconcursos.com.br                                                        49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Translation
+
+
+Will computers ever truly understand what we’re saying?
+Os computadores vão algum dia realmente entender o que estamos dizendo?
+
+
+Summary:
+
+
+If you think computers are quickly approaching true human communication, think again.
+Computers like Siri often get confused because they judge meaning by looking at a word’s
+statistical regularity. This is unlike humans, for whom context is more important than the word or
+signal, according to a researcher who invented a communication game allowing only nonverbal
+cues, and used it to pinpoint regions of the brain where mutual understanding takes place.
+
+
+Sumário:
+Se você acha que os computadores estão se aproximando rapidamente da verdadeira
+comunicação humana, pense novamente. Computadores como o Siri muitas vezes se
+confundem, porque eles julgam o significado com base na regularidade estatística de uma
+palavra. Isso é ao contrário do procedimento dos humanos, para quem o contexto é mais
+importante do que a palavra ou sinal, de acordo com um pesquisador que inventou um jogo de
+comunicação que permite somente sinais não-verbais, e é usado para identificar regiões do
+cérebro onde a compreensão mútua ocorre.
+
+
+From Apple’s Siri to Honda’s robot Asimo, machines seem to be getting better and better at
+communicating with humans. But some neuroscientists caution that today’s computers will never
+truly understand what we’re saying because they do not take into account the context of a
+conversation the way people do.
+
+
+Do Siri da Apple ao robô da Honda Asimo, as máquinas parecem estar ficando melhor e melhor
+na comunicação com os seres humanos. Mas alguns neurocientistas alertam que os
+computadores de hoje nunca vão realmente entender o que estamos dizendo, porque eles não
+levam em conta o contexto de uma conversa da forma como as pessoas fazem.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   38
+        www.estrategiaconcursos.com.br                                                         49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+Specifically, say University of California, Berkeley, postdoctoral fellow Arjen Stolk and his Dutch
+colleagues, machines don’t develop a shared understanding of the people, place and situation -
+often including a long social history - that is key to human communication. Without such common
+ground, a computer cannot help but be confused.
+
+
+Especificamente, o bolsista de pós-doutorado Arjen Stolk e seus colegas holandeses da
+Universidade da Califórnia, Berkeley, dizem que as máquinas não desenvolvem um
+entendimento comum do povo, local e situação - muitas vezes incluindo uma longa história social
+- que é a chave para a comunicação humana. Sem esse terreno comum, um computador termina
+se confundindo.
+
+
+“People tend to think of communication as an exchange of linguistic signs or gestures, forgetting
+that much of communication is about the social context, about who you are communicating
+with,” Stolk said.
+
+
+"As pessoas tendem a pensar sobre a comunicação como uma troca de sinais ou gestos
+linguísticos, esquecendo-se que grande parte da comunicação é sobre o contexto social, sobre
+quem você está se comunicando", disse Stolk.
+
+
+The word “bank,” for example, would be interpreted one way if you’re holding a credit card but
+a different way if you’re holding a fishing pole. Without context, making a “V” with two fingers
+could mean victory, the number two, or “these are the two fingers I broke.”
+
+
+A palavra "banco", por exemplo, seria interpretada de uma maneira se você estiver segurando
+um cartão de crédito, mas de uma maneira diferente se você está segurando uma vara de pesca.
+Sem contexto, fazendo um "V" com dois dedos pode significar a vitória, o número dois, ou
+"estes são os dois dedos que eu quebrei."
+
+
+“All these subtleties are quite crucial to understanding one another,” Stolk said, perhaps more
+so than the words and signals that computers and many neuroscientists focus on as the key to
+communication. “In fact, we can understand one another without language, without words and
+signs that already have a shared meaning.”
+(Adapted from http://www.sciencedaily.com/releases/2016/01/160111135231.htm)
+
+
+"Todas essas distinções sutis são bastante cruciais para se entender um ao outro", disse Stolk,
+talvez mais do que as palavras e os sinais de que os computadores e muitos neurocientistas se
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    39
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+concentram como a chave para a comunicação. "Na verdade, podemos entender um ao outro
+sem linguagem, sem palavras e sinais que já têm um significado compartilhado."
+
+                                   LISTA DE QUESTÕES
+Texto 1: Oficial de Chancelaria (OFCHAN) – MRE - FGV
+
+
+                                     World Work Worker Workplace
+
+
+Does your workplace offer affordances for #wellbeing? Natural light, movement, a view, informal
+areas to socialize or collaborate? 40% say no.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                40
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(https://www.pinterest.com/jeremytodddavis/world-work-workerplace)
+
+        Receita Federal (Analista Tributário) Língua Inglesa              41
+        www.estrategiaconcursos.com.br                                    49
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 00
+
+01 According to the survey conducted in Text II, the workers who are unhappy with their working
+conditions are:
+
+
+(A) few;
+(B) little;
+(C) a little;
+(D) too much;
+(E) quite a few.
+
+
+02 According to Text II, when workers complain that too much noise in the office has been
+undermining their work, they probably need:
+
+
+(A) better views;
+(B) louder rooms;
+(C) more privacy;
+(D) more coffee breaks;
+(E) more informal areas
+
+
+03 In “pleasing views” the word “pleasing” is to “pleasure” as:
+
+
+(A) “breaking” is to “broken”;
+(B) “grieve” is to “grievance”;
+(C) “friendly” is to “friendship”;
+(D) “outstanding” is to “outstand”;
+(E) “understand” is to “understandable”.
+
+
+04 The logical link created by the underlined words in “91% of people say they need casual
+spaces to re-energize and yet more than half (51%) have no place to go within the workplace” is
+the same as the one created by:
+
+
+(A) but;
+(B) until;
+
+           Receita Federal (Analista Tributário) Língua Inglesa                             42
+           www.estrategiaconcursos.com.br                                                   49
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(C) unless;
+(D) because;
+(E) although;
+
+
+Texto 2: Analista de Sistemas – Senado Federal – FGV
+
+
+Read text II and answer questions 05 to 09.
+
+
+TEXT II
+
+
+       “The Tech Product Network is an information and knowledge portal that showcases
+products and information geared specifically toward making the jobs of law enforcement and
+corrections officers easier, safer, and more efficient,” says Steve Morrison, vice president of the
+WVHTC Foundation’s Public Safety and Homeland Security Group and interim director of
+OLETC. “For vendors and technologists, it offers an opportunity for significant exposure.”
+        Through the site, Morrison says, law enforcement and corrections officers have ready
+12access to information in a variety of formats on numerous technologies and products geared
+specifically toward their jobs. The site offers in-depth, validated assessments of various
+technologies performed by officers in the field. A calendar of events lists important industry
+happenings and technology-specific events posted by vendors. Registered users also receive e-
+mail notifications of new products and events that match their specified interests. In addition, the
+site offers discussion forums on products and industry-related technology issues and needs that
+give users a chance to ask questions regarding products and receive feedback.
+(from http://www.justnet.org/TechBeat%20Files/tpn.pdf retrieved on September 23rd, 2008)
+
+
+05 The main aim of “The Tech Product Network” is to
+
+
+(A) devise software.
+(B) sell courses.
+(C) help specialists.
+(D) list lawsuits.
+(E) prevent accidents.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     43
+        www.estrategiaconcursos.com.br                                                           49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+06 The expression that could replace “geared toward” in “geared specifically toward their jobs”
+(line 12) is
+
+
+(A) designed for.
+(B) ruled by.
+(C) submitted to.
+(D) descriptive of.
+(E) registered for.
+
+
+07 In “Through the site” (line 9) Through can be replaced by
+
+
+(A) According to.
+(B) As regards.
+(C) In relation to.
+(D) By means of.
+(E) In spite of.
+
+
+08 The underlined word in “products and events that match their specific interests” (line 17)
+means
+
+
+(A) reflect.
+(B) characterize.
+(C) suit.
+(D) illuminate.
+(E) resemble.
+
+
+09 Instead of In addition in “In addition, the site offers discussion forums” (line 18), the author
+could have kept the same meaning by using
+
+
+(A) Thus.
+(B) Conversely.
+(C) Fittingly.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    44
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(D) Therefore.
+(E) Moreover.
+
+
+Texto 3: Analista e Tecnologista – IBGE – FGV
+
+
+READ TEXT I AND ANSWER QUESTIONS 10 TO 14
+
+
+Will computers ever truly understand what we’re saying?
+
+
+Source University of California - Berkeley Summary:
+
+
+If you think computers are quickly approaching true human communication, think again.
+Computers like Siri often get confused because they judge meaning by looking at a word’s
+statistical regularity. This is unlike humans, for whom context is more important than the word or
+signal, according to a researcher who invented a communication game allowing only nonverbal
+cues, and used it to pinpoint regions of the brain where mutual understanding takes place.
+
+
+From Apple’s Siri to Honda’s robot Asimo, machines seem to be getting better and better at
+communicating with humans. But some neuroscientists caution that today’s computers will never
+truly understand what we’re saying because they do not take into account the context of a
+conversation the way people do.
+
+
+Specifically, say University of California, Berkeley, postdoctoral fellow Arjen Stolk and his Dutch
+colleagues, machines don’t develop a shared understanding of the people, place and situation -
+often including a long social history - that is key to human communication. Without such common
+ground, a computer cannot help but be confused.
+
+
+“People tend to think of communication as an exchange of linguistic signs or gestures, forgetting
+that much of communication is about the social context, about who you are communicating
+with,” Stolk said.
+
+
+The word “bank,” for example, would be interpreted one way if you’re holding a credit card but
+a different way if you’re holding a fishing pole. Without context, making a “V” with two fingers
+could mean victory, the number two, or “these are the two fingers I broke.”
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    45
+        www.estrategiaconcursos.com.br                                                          49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+“All these subtleties are quite crucial to understanding one another,” Stolk said, perhaps more
+so than the words and signals that computers and many neuroscientists focus on as the key to
+communication. “In fact, we can understand one another without language, without words and
+signs that already have a shared meaning.”
+(Adapted from http://www.sciencedaily.com/releases/2016/01/160111135231.htm)
+
+
+10 The title of Text I reveals that the author of this text is:
+
+
+(A) unsure;
+(B) trustful;
+(C) careless;
+(D) annoyed;
+(E) confident.
+
+
+11 Based on the summary provided for Text I, mark the statements below as TRUE (T) or FALSE
+(F).
+
+
+( ) Contextual clues are still not accounted for by computers.
+( ) Computers are unreliable because they focus on language patterns.
+( ) A game has been invented based on the words people use
+
+
+The statements are, respectively:
+
+
+(A) F – T – T;
+(B) T – F – T;
+(C) F – F – T;
+(D) F – T – F;
+(E) T – T – F.
+
+
+12 According to the researchers from the University of California, Berkeley:
+
+
+(A) words tend to have a single meaning;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                46
+        www.estrategiaconcursos.com.br                                                      49
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 00
+
+(B) computers can understand people’s social history;
+(C) it is easy to understand words even out of context;
+(D) people can communicate without using actual words;
+(E) social context tends to create problems in communication.
+
+
+13 If you are holding a fishing pole, the word “bank” means a:
+
+
+(A) safe;
+(B) seat;
+(C) boat;
+(D) building;
+(E) coastline.
+
+
+14 The word “so” in “perhaps more so than the words and signals” is used to refer to something
+already stated in Text I. In this context, it refers to:
+
+
+(A) key;
+(B) crucial;
+(C) subtleties;
+(D) understanding;
+(E) communication.
+
+           Receita Federal (Analista Tributário) Língua Inglesa                            47
+           www.estrategiaconcursos.com.br                                                  49
+
+                                        
+
+
+---
+
+Ena Smith
+Aula 00
+
+                                             GABARITO
+                       Textos                                Gabaritos
+
+                       Texto 1                               01-E; 02-C; 03-C; 04-A;
+
+                       Texto 2                               05-C; 06-A; 07-D; 08-C; 09-E;
+
+                       Texto 3                               10-A; 11-E; 12-D; 13-E; 14-B;
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                   48
+      www.estrategiaconcursos.com.br                                                         49
+
+                                   
+
+
+---
+
+---

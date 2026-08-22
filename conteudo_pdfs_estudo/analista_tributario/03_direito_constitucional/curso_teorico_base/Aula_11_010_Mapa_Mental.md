@@ -1,0 +1,228 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 11_010_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '11'
+titulo_aula: FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+artigos_citados:
+- ART. 71
+---
+
+# FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+
+FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+
+              CONTROLES INTERNO E EXTERNO                                                   ❑ REALIZADOS DE FORMA COMPLEMENTAR;
+
+
+❑ CONTROLE INTERNO:                                                                         ❑ CONTROLE EXTERNO:
+
+ •   Realizado no âmbito de cada Poder;                                                      •   Exercido pelo Poder Legislativo sobre os demais Poderes;
+ •   Os responsáveis pelo controle interno, ao tomarem                                       •   Pode haver participação popular.
+     conhecimento de qualquer irregularidade ou ilegalidade,
+     deverão cientiﬁcar o TCU.                                                              ✔ Denunciar irregularidades ou ilegalidades perante o TCU.
+
+✔ Sob pena de responsabilidade solidária.
+
+
+       FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E                                              ❑ RESPONSABILIDADE DO CONGRESSO NACIONAL, COM
+                     OPERACIONAL DA UNIÃO                                                                AUXÍLIO DO TCU.
+
+                                                                                                       ❑ FACETAS DA FISCALIZAÇÃO:
+❑ OBJETO:                             ❑ FUNDAMENTOS:
+
+                                                                                                        •   Fiscalização da legalidade;
+ •   Legalidade;                          •   Princípios da legalidade;
+                                                                                                        •   Fiscalização ﬁnanceira;
+ •   Legitimidade;                        •   Impessoalidade;
+                                                                                                        •   Fiscalização da legitimidade;
+ •   Economicidade;                       •   Moralidade;
+                                                                                                        •   Fiscalização da economicidade.
+ •   Aplicação das subvenções;            •   Eﬁciência (dentre outros).
+ •   Renúncia de receitas.                                                                                                                   DIREITO CONSTITUCIONAL
+                                                                                                                                              ESTRATÉGIA CONCURSOS
+                                                       
+
+
+---
+
+                              FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+❑ ÓRGÃOS INDEPENDENTES E AUTÔNOMOS;                                                                                                   TRIBUNAIS DE CONTAS
+❑ SEM SUBORDINAÇÃO HIERÁRQUICA A QUALQUER DOS PODERES DA REPÚBLICA;
+                                                                                                                             ❑    TCU:
+❑ MISSÃO: ORIENTAR O PODER LEGISLATIVO NO EXERCÍCIO DO CONTROLE EXTERNO;
+                                                                                                                             •    Órgão de natureza político-administrativa;
+❑ SUA ATUAÇÃO ALCANÇA TODA A ADMINISTRAÇÃO PÚBLICA (DIRETA E INDIRETA), DE TODOS OS PODERES;                                 •    Possui autonomia funcional, administrativa,
+                                                                                                                                  ﬁnanceira e orçamentária;
+❑ ESTÃO SUJEITOS AO CONTROLE DO PODER LEGISLATIVO;
+                                                                                                                             •    Composto de 9 Ministros.
+
+ •   REQUISITOS PARA INVESTIDURA:
+     ✔   Mais de 35 e menos de 70 anos de idade;
+     ✔   Idoneidade moral e reputação ilibada;
+     ✔   Notórios conhecimentos jurídicos, contábeis, econômicos e ﬁnanceiros ou de administração pública;
+     ✔   Mais de 10 anos de exercício de função ou de efetiva atividade proﬁssional que exija os conhecimentos mencionados acima.
+
+ •   ESCOLHA DOS MINISTROS:                                     • 2 São escolhidos alternadamente entre auditores e membros do MP junto ao Tribunal.
+     ✔   Um terço (três) cabe ao Presidente da                               ✔ Indicados em listra tríplice pelo TCU;
+         República, com posterior aprovação pelo                             ✔ Critérios de antiguidade e merecimento.
+         Senado.                                                • 1 é de livre escolha.
+
+ •   Dois terços são escolhidos pelo Congresso                  •   DISPÕEM             DAS        MESMAS   PRERROGATIVAS,       IMPEDIMENTOS,
+     Nacional.                                                      VENCIMENTOS E VANTAGENS DOS MINISTROS DO STJ:
+
+                                                                    ✔       Vitaliciedade;
+❑ SEDE NO DF;
+                                                                    ✔       Inamovibilidade;
+❑ JURISDIÇÃO EM TODO O TERRITÓRIO NACIONAL.
+                                                                    ✔       Irredutibilidade de seus subsídios.                                            DIREITO CONSTITUCIONAL
+                                                                                                                                                            ESTRATÉGIA CONCURSOS
+                                                                    
+
+
+---
+
+            FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+        TCU – COMPETÊNCIAS:                                                                     TRIBUNAIS DE CONTAS
+
+                                                                                            •    APENAS APRECIAR (JULGAMENTO: CONGRESSO NACIONAL).
+❑ ENUMERADAS NO ART. 71 DA CF (ALUNO DEVE LER NA INTEGRA);
+                                                                                            •    PARECER PRÉVIO:
+❑ APRECIAR AS CONTAS DO PRESIDENTE DA REPÚBLICA, MEDIANTE PARECER                                ✔   Caráter meramente opinativo;
+  PRÉVIO:
+                                                                                                 ✔   Elaborado no prazo de 60 dias.
+
+❑ JULGAR AS CONTAS DOS ADMINISTRADORES E DEMAIS RESPONSÁVEIS POR RECURSOS PÚBLICOS;
+
+❑ JULGAR AS CONTAS DO PODER LEGISLATIVO, DO PODER JUDICIÁRIO E DO MINISTÉRIO PÚBLICO;
+
+❑ APRECIAR, QUANTO À LEGALIDADE, OS ATOS DE ADMISSÃO DE PESSOAL NA ADMINISTRAÇÃO PÚBLICA, DIRETA E INDIRETA.
+
+ •   Não se aplica às nomeações para cargo de provimento em comissão.
+
+❑ APRECIAR OS ATOS DE CONCESSÃO DE APOSENTADORIAS, REFORMAS E PENSÕES;
+
+❑ REALIZAR INSPEÇÕES E AUDITORIAS DE NATUREZA CONTÁBIL, FINANCEIRA, ORÇAMENTÁRIA, OPERACIONAL E PATRIMONIAL;
+
+❑ FISCALIZAR AS CONTAS NACIONAIS DAS EMPRESAS SUPRANACIONAIS DE CUJO CAPITAL SOCIAL A UNIÃO PARTICIPE, DE FORMA DIRETA OU INDIRETA;
+
+❑ FISCALIZAR A APLICAÇÃO DE QUAISQUER RECURSOS REPASSADOS PELA UNIÃO.
+
+ •   STF: TCU não tem competência para ﬁscalizar a aplicação dos recursos recebidos a títulos de
+     “royalties”. Trata-se de competência dos Tribunais de Contas Estaduais.
+                                                                                                                                            DIREITO CONSTITUCIONAL
+                                                                                                                                             ESTRATÉGIA CONCURSOS
+                                                       
+
+
+---
+
+               FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+
+
+                                                            TRIBUNAIS DE CONTAS
+
+                       TCU – COMPETÊNCIAS:
+
+❑ SUSTAR, SE NÃO ATENDIDO, A EXECUÇÃO DO ATO IMPUGNADO, COMUNICANDO A DECISÃO À CÂMARA DOS DEPUTADOS E AO SENADO FEDERAL
+
+ •   NÃO CONFUNDIR: CONTRATOS ADMINISTRATIVOS.                                                           • O TCU adquirirá competência para
+     ✔   A sustação caberá ao Congresso Nacional, que solicitará ao Executivo a anulação.                  decidir  a     respeito,  podendo
+                                                                                                           determinar a sustação do contrato.
+     ✔   Medida não adotada no prazo de 90 dias:
+
+❑ STF:
+
+ •   TCU tem legitimidade para expedir medidas cautelares para prevenir a ocorrência de lesão ao erário ou a direito alheio, bem como
+     para garantir a efetividade de suas decisões. (teoria dos poderes implícitos);
+ •   Tem competência para requisitar informações relativas a operações de crédito originárias de recursos público;
+ •   Não tem a Corte de Contas poder para decretar quebra de sigilo bancário;
+ •   Não tem o TCU função jurisdicional.
+
+❑ DECISÕES DO TRIBUNAL DE QUE RESULTE IMPUTAÇÃO DE DÉBITO OU MULTA TERÃO EFICÁCIA DE TÍTULO EXECUTIVO.
+
+ •   Execução: Compete à Advocacia Geral da União.
+                                                                                                                               DIREITO CONSTITUCIONAL
+                                                                                                                                ESTRATÉGIA CONCURSOS
+                                                          
+
+
+---
+
+          FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+
+
+                                            TRIBUNAIS DE CONTAS DOS ESTADOS
+
+❑ RESPONSÁVEIS PELO CONTROLE EXTERNO DA ADMINISTRAÇÃO PÚBLICA ESTADUAL, DIRETA E INDIRETA;
+
+❑ APLICA-SE, NO QUE COUBER, AS NORMAS ESTABELECIDAS PARA O TCU.
+
+ •   Princípio da Simetria.
+
+
+❑ PARTICULARIDADES:
+
+ •   TRIBUNAIS DE CONTAS DOS ESTADOS:                                                  ✔ Um dentre auditores;
+                                                                                       ✔ Outro dentre membros do Ministério Público;
+     ✔    Compostos de 7 conselheiros.
+                                                                                       ✔ Terceiro à sua livre escolha.
+
+
+ •   4 São Escolhidos pela Assembleia Legislativa;
+
+ •   3 Pelo Chefe do Poder Executivo Estadual.
+
+
+❑ STF: É INCONSTITUCIONAL NORMA DA CONSTITUIÇÃO ESTADUAL QUE ATRIBUI À ASSEMBLEIA LEGISLATIVA A COMPETÊNCIA
+     PARA ANALISAR E JULGAR AS CONTAS DO PODER LEGISLATIVO. PORQUE O CONTROLE DE CONTAS DO PODER LEGISLATIVO
+
+     ESTADUAL É ATRIBUIÇÃO DO TCE.
+                                                                                                                          DIREITO CONSTITUCIONAL
+                                                                                                                           ESTRATÉGIA CONCURSOS
+                                                  
+
+
+---
+
+             FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E OPERACIONAL
+           CONTROLE EXTERNO:                                                                         TRIBUNAIS DE CONTAS
+
+                 FEITA PELO LEGISLATIVO MUNICIPAL (CONTROLE EXTERNO) E PELO EXECUTIVO MUNICIPAL (CONTROLE INTERNO)
+
+❑ PODERÁ SER FEITO POR 3 (TRÊS) TIPOS DE ÓRGÃOS DIFERENTES:
+
+ •   ÓRGÃO DE CONTAS MUNICIPAL:                                                                                    •   TRIBUNAL DE CONTAS DO ESTADO (TCES):
+     ✔   Criados antes da CF/88;
+     ✔   TCM-RJ e TCM-SP;
+     ✔   É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais.
+
+ •   ÓRGÃO DE CONTAS ESTADUAL COM COMPETÊNCIA SOBRE TODOS OS MUNICÍPIOS DO ESTADO:
+     ✔   São os Conselhos ou Tribunais de Contas DOS Municípios;
+     ✔   Órgãos estaduais;
+     ✔   Responsáveis pelo controle externo da Administração de TODOS os municípios de um determina Estado;
+     ✔   Podem ser criados;
+
+❑ JULGAMENTO DAS CONTAS DO PREFEITO:
+
+ •   CONTAS DE GOVERNO:                                                                    •   CONTAS DE GESTÃO:
+     ✔   São de responsabilidade do Chefe do Poder Executivo;                                  ✔   São de responsabilidade dos
+                                                                                                   administradores públicos;
+     ✔   Caráter político;
+                                                                                               ✔   Caráter técnico;
+     ✔   Julgadas pelo Poder Legislativo;
+                                                                                               ✔   Julgadas   pelos      Tribunais   de
+     ✔   Cabe aos tribunais apenas apreciá-las.                                                                                                  DIREITO CONSTITUCIONAL
+                                                                                                   Contas.
+                                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                                      
+
+
+---

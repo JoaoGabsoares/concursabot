@@ -1,0 +1,166 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 01_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+---
+
+---
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+Rubens Maurício
+@profrubensmauricio
+Previdenciário Diagramado
+Prof. Rubens Maurício
+
+                                                           Prof. Rubens Mauricio
+
+                      
+
+
+---
+
+QUESTÕES FUNDAÇÃO CARLOS CHAGAS - FCC
+SEGURIDADE SOCIAL
+
+
+                                                  Prof. Rubens Mauricio
+
+             
+
+
+---
+
+        Questões FCC
+        (FCC – Auditor Público Externo – TCE – RS – 2018) O princípio constitucional
+        que diz respeito aos aspectos objetivos, às contingências que irão ser cobertas,
+        bem como aquele que tomará por base o aspecto pecuniário ou do
+        atendimento dos serviços, que não serão necessariamente iguais, mas
+        correspondentes, na medida do possível, dependendo do tempo de
+        contribuição, coeficiente de cálculo, sexo, idade, é o da
+
+        a) universalidade da cobertura e do atendimento.
+        b) uniformidade e equivalência dos benefícios e serviços às populações
+        urbanas e rurais.
+        c) seletividade e distributividade na prestação dos benefícios e serviços.
+        d) equidade na forma de participação no custeio.
+        e) diversidade da base de financiamento.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+        Questões FCC
+   (FCC – PROCURADOR DO ESTADO DO AMAPÁ – 2018) Quanto ao conceito, princípios e
+   organização da seguridade social, conforme previsão na Constituição Federal,
+
+   a) a diversidade da base de financiamento e a irredutibilidade do valor dos benefícios são
+   objetivos a serem alcançados pelo poder público na organização da seguridade social.
+   b) a gestão administrativa deve ser tripartite, com participação dos trabalhadores, dos
+   empregadores e do Governo nos órgãos colegiados.
+   c) a seguridade social está assentada no binômio que engloba o conjunto de ações de
+   iniciativa do poder público e da sociedade, destinado a assegurar direitos restritos à
+   previdência e à assistência social.
+   d) a universalidade do atendimento não se constitui em objetivo da seguridade social, na
+   medida em que o seguro social fornece proteção apenas para certas categorias de
+   pessoas não amparando toda a sociedade.
+   e) a uniformidade dos benefícios significa que o valor da renda mensal dos benefícios
+   deve ser igual, e não equivalente, entre populações urbanas e rurais.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+        Questões FCC
+        (FCC- Técnico Previdenciário – SEGEP MA – 2018) Considere:
+
+        I. acesso universal e igualitário.
+        II. descentralização, com direção única em cada esfera de governo.
+        III. universalidade de participação nos planos previdenciários, mediante contribuição.
+        IV. previdência complementar facultativa, custeada por contribuição adicional.
+
+        De acordo com a Lei nº 8.212/91, a organização da Previdência Social obedecerá
+        determinados princípios e diretrizes, entre eles os indicados APENAS em
+
+        a) II, III e IV.
+        b) I e II.
+        c) I, II e III.
+        d) III e IV.
+        e) I, III e IV.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                         
+
+
+---
+
+        Questões FCC
+   (FCC - Procurador De Contas – TCE/CE - 2015) - Nos termos previstos na Constituição da
+   República Federativa do Brasil, a Seguridade Social compreende um conjunto de ações
+   a) integradas e de iniciativa exclusiva do Poder Público Federal e da sociedade, com
+   destinação de garantia de direitos da previdência social, da saúde, da assistência social, da
+   educação, cultura e desporto.
+   b) independentes e centralizadas, de iniciativa privativa dos Poderes Públicos, visando
+   exclusivamente à garantia de direitos relativos à previdência social.
+   c) integradas de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+   direitos relativos à saúde, à previdência e à assistência social.
+   d) descentralizadas e concorrentes, de iniciativa privativa da União e dos Estados
+   Membros, com objetivo de assegurar direitos relativos exclusivamente às áreas de
+   previdência e assistência social.
+   e) integradas e de iniciativa privativa dos Poderes Públicos com destinação à garantia de
+   direitos da previdência social, da saúde, da assistência social, da educação, cultura e
+   desporto.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+        Questões FCC
+        (FCC – Consultor Legislativo – CL DF – 2018) A mudança no
+        tratamento da questão social pela Constituição Federal de 1988
+        consagrou, em relação à Seguridade Social, o princípio basilar de
+        a) extensão da cobertura aos segmentos até então desprotegidos
+        na sociedade.
+        b) cobertura do contribuinte direto.
+        c) sustentação orçamentária com enfoque na folha de pagamento
+        do contribuinte.
+        d) assegurar assistência médica aos trabalhadores do mercado
+        formal.
+        e) exclusão de cobertura contra riscos sociais.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                
+
+
+---

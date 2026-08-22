@@ -1,0 +1,408 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ARMAZENAGEM E MOVIMENTAÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - XIV
+
+                                                Prof. Ricardo Campanario
+
+
+
+
+           https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. Na colocação do material em prateleiras, os itens mais leves devem ser
+     armazenados na parte superior das prateleiras.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       As Leis da Movimentação
+       Importante conhecer!
+
+     ❑ Existem algumas "leis de movimentação" que valem a pena ser estudadas pois ajudarão você a
+       entender e resolver várias questões de prova. Além disso resumem bem o assunto. Vamos a elas:
+               - Obediência ao fluxo das operações: trajetória dos materiais deve seguir a sequência das operações, de preferência de
+               forma linear.
+               - Mínima distância: eliminação do zigue zague e redução de distâncias no fluxo dos materiais.
+               - Mínima manipulação: evitar a manipulação ao longo do processo, priorizando o transporte mecânico.
+               - Segurança e satisfação: selecionar equipamentos que ampliem a segurança e a satisfação dos envolvidos.
+               - Padronização: equipamentos padronizados possuem custos e manutenção inferiores aos especializados.
+               - Flexibilidade: equipamentos devem ser capazes de atuar com vários tipos de materiais e cargas.
+               - Máxima utilização do equipamento: equipamento deve estar ocupado o tempo todo.
+               - Máxima utilização da gravidade: sempre que possível priorizar o transporte por gravidade, usando para isso pequenas
+               elevações mecânicas.
+               - Máxima utilização do espaço disponível: utilizar sempre o espaço vertical.
+               - Método alternativo: quando falhar o plano A é necessário ter o plano B de movimentação já desenhado.
+               - Menor custo total: o custo total é que deve ser o decisor na escolha do equipamento e não custos intermediários
+               como o de aquisição, operacional ou de manutenção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                        https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. Na colocação do material em prateleiras, os itens mais leves devem ser
+     armazenados na parte superior das prateleiras.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A incorporação do material recebido e conferido aos estoques do almoxarifado
+     tem impacto contábil.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Recebimento
+       As 4 etapas
+         O recebimento contém
+         basicamente as fases
+         abaixo, sendo que
+         comumente as fases 1 e
+         2 são encaradas como
+         uma coisa só, a entrada
+         do material. Além dela
+         temos as conferências
+         quantitativa, qualitativa
+         e a regularização,
+         compondo as
+         tradicionais 4 fases do
+         recebimento
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (CEBRASPE/CNMP/Técnico/2023) Acerca da gestão de estoques, julgue o item a
+     seguir. A incorporação do material recebido e conferido aos estoques do almoxarifado
+     tem impacto contábil.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+       Ao final do processo de recebimento, ao longo da etapa de regularização, quando o material é definitivamente aprovado após as
+       checagens quantitativas e qualitativas, algumas providências devem ser tomadas como a armazenagem no almoxarifado, o
+       pagamento do fornecedor e o ajuste contábil respectivo, com o registro da entrada do novo material no estoque da organização.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (CEBRASPE/Pref. Mun. Fortaleza-CE/Auditor/2023) Com relação à gestão de
+     almoxarifados e armazéns, julgue o item subsequente. Entre as estratégias possíveis para a
+     armazenagem de materiais destaca-se a automação de armazenagem, que prevê o uso do
+     espaço aéreo para estocagem nos armazéns.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (CEBRASPE/Pref. Mun. Fortaleza-CE/Auditor/2023) Com relação à gestão de
+     almoxarifados e armazéns, julgue o item subsequente. Entre as estratégias possíveis para a
+     armazenagem de materiais destaca-se a automação de armazenagem, que prevê o uso do
+     espaço aéreo para estocagem nos armazéns.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+      A automação é um recurso bem vindo e cada vez mais usado na armazenagem de materiais porém, não está
+      diretamente ligada ao uso de espaços aéreos para estocagem, o que é um outro recurso de armazenamento (muitas
+      vezes também bem-vindo pela otimização do uso dos espaços) mas que pode ser usado em cenários com ou sem
+      automatização, ou seja, não há relação direta entre eles.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/AGER MT/Analista/2023) Julgue os seguintes itens, a respeito de arranjos
+     físicos de almoxarifados.
+     I. Os itens de grande peso e volume devem ser armazenados no centro do almoxarifado.
+     II. As mercadorias de maior saída devem ser armazenadas próximas à saída ou expedição
+     do almoxarifado.
+     III. A localização dos corredores é feita em função das portas de acesso, dos elevadores e
+     da arrumação prevista dos materiais.
+     Assinale a opção correta.
+     a) Nenhum item está certo.
+     b) Estão certos apenas os itens I e II.
+     c) Estão certos apenas os itens I e III.
+     d) Estão certos apenas os itens II e III.
+     e) Todos os itens estão certos.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/AGER MT/Analista/2023) Julgue os seguintes itens, a respeito de arranjos
+     físicos de almoxarifados.
+     I. Os itens de grande peso e volume devem ser armazenados no centro do almoxarifado.
+     II. As mercadorias de maior saída devem ser armazenadas próximas à saída ou expedição
+     do almoxarifado.
+     III. A localização dos corredores é feita em função das portas de acesso, dos elevadores e
+     da arrumação prevista dos materiais.
+     Assinale a opção correta.
+     a) Nenhum item está certo.
+     b) Estão certos apenas os itens I e II.
+     c) Estão certos apenas os itens I e III.
+     d) Estão certos apenas os itens II e III.
+     e) Todos os itens estão certos.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/PETROBRAS/Almoxarifado/2023) Considerando a gestão de estoques e
+     almoxarifados, julgue o item que se segue. O layout de um almoxarifado interfere na
+     eficiência e na segurança da equipe.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Layout
+       Arranjo de homens, máquinas e materiais
+
+     ❑ Definido de maneira simples, o layout nada mais é do que “o arranjo de homens, máquinas e
+       materiais”, podendo ser definido tecnicamente como:
+
+       A integração do fluxo típico de materiais, da operação dos equipamentos de movimentação,
+       combinado com as características que conferem maior produtividade ao elemento humano; isto
+       para que a armazenagem de determinado produto se processe dentro do padrão máximo de
+       economia e rendimento.
+
+     ❑ O layout influi desde a seleção ou adequação do local, assim como no projeto de construção,
+       modificação ou ampliação, de acordo com a necessidade da organização.
+
+     ❑ Atua ainda diretamente na distribuição e localização dos componentes e estações de trabalho,
+       assim como na movimentação de materiais, máquinas e operários.
+
+     ❑ Em linhas gerais o layout é iniciado com a aplicabilidade da elaboração de um projeto, sendo
+       finalizado no momento de sua concretização. Para que um projeto seja bem sucedido, é
+       necessária a existência de um planejamento que incorpore um layout.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/PETROBRAS/Almoxarifado/2023) Considerando a gestão de estoques e
+     almoxarifados, julgue o item que se segue. O layout de um almoxarifado interfere na
+     eficiência e na segurança da equipe.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/TRT 8/Agente/2023) Assinale a opção correta a respeito de recebimento e
+     armazenagem.
+     a) A área útil de armazenagem corresponde à área total de piso do almoxarifado.
+     b) O leiaute do almoxarifado depende do método de armazenagem escolhido.
+     c) A atividade de recebimento abrange unicamente a recepção do material na entrada do
+     almoxarifado quando da entrega pelo fornecedor.
+     d) Os carrinhos de carga manuais devem ser puxados e nunca empurrados.
+     e) As embalagens em forma de cubo são ideais para paletização.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Objetivos do Layout
+       Utilização, movimentação, estocagem e organização
+
+     ❑ Um bom layout é fundamental para a realização de uma operação eficiente e efetiva
+       de armazenagem. O layout escolhido determinará o grau de acesso aos materiais, os
+       modelos de fluxo do material, os locais e áreas obstruídas, a eficiência da mão de
+       obra e até mesmo a segurança do pessoal do armazém.
+     ❑ Os principais objetivos de um layout de um armazém são:
+
+         •     Assegurar a utilização máxima do espaço.
+         •     Propiciar a mais eficiente movimentação de materiais.
+         •     Propiciar a estocagem mais econômica, em relação às despesas de equipamento,
+               espaço, danos de material e mão de obra do armazém.
+         •     Fazer do armazém um modelo de boa organização.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/TRT 8/Agente/2023) Assinale a opção correta a respeito de recebimento e
+     armazenagem.
+     a) A área útil de armazenagem corresponde à área total de piso do almoxarifado.
+     b) O leiaute do almoxarifado depende do método de armazenagem escolhido.
+     c) A atividade de recebimento abrange unicamente a recepção do material na entrada do
+     almoxarifado quando da entrega pelo fornecedor.
+     d) Os carrinhos de carga manuais devem ser puxados e nunca empurrados.
+     e) As embalagens em forma de cubo são ideais para paletização.
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item subsecutivo, relacionados a
+     equipamentos e acessórios de movimentação de cargas. As pontes rolantes são
+     equipamentos elétricos nos quais ocorre um movimento longitudinal, com auxílio de
+     trilhos.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item subsecutivo, relacionados a
+     equipamentos e acessórios de movimentação de cargas. As pontes rolantes são
+     equipamentos elétricos nos quais ocorre um movimento longitudinal, com auxílio de
+     trilhos.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item subsecutivo, relacionados a
+     equipamentos e acessórios de movimentação de cargas. O carrinho de plataforma utiliza
+     um mecanismo com estrutura metálica construído com fitas e movido por um motor
+     elétrico e, geralmente, é utilizado no transporte contínuo de granéis ou volumes.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item subsecutivo, relacionados a
+     equipamentos e acessórios de movimentação de cargas. O carrinho de plataforma utiliza
+     um mecanismo com estrutura metálica construído com fitas e movido por um motor
+     elétrico e, geralmente, é utilizado no transporte contínuo de granéis ou volumes.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item a seguir relativo à logística
+     internacional e aduaneira e aos conceitos de custos logísticos. A necessidade de melhorar
+     a produtividade e a eficiência portuária e a de estabelecer uma forma normatizada para o
+     transporte de mercadoria influenciaram na popularização do contêiner.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Estocagem
+       A carga unitária
+
+     ❑ O mais conhecido dispositivo que permite a formação da carga unitária é o pallet, que consiste em um estrado
+       geralmente de madeira de dimensões diversas, de acordo com as necessidades da empresa e sobre o qual as
+       mercadorias são depositadas
+
+     ❑ O pallet, porém, não é a única forma de obter as cargas unitárias. Existem também recipientes de coleta como as
+       caçambas, indicadas especialmente para o manuseio de peças a granel, containers tradicionais e flexíveis, além de
+       racks e berços metálicos.
+
+     ❑ Temos ainda o processo de pré-lingagem, que consiste no acondicionamento da carga em redes especiais de
+       nylon ou corda, de forma a proporcionar fácil manuseio por guindastes, permitindo o aumento da velocidade de
+       carregamento e descarregamento.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/Logística/2023) Julgue o item a seguir relativo à logística
+     internacional e aduaneira e aos conceitos de custos logísticos. A necessidade de melhorar
+     a produtividade e a eficiência portuária e a de estabelecer uma forma normatizada para o
+     transporte de mercadoria influenciaram na popularização do contêiner.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+
+
+
+       ricardocampanario
+                   https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

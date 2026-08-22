@@ -1,0 +1,919 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 02_020_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+artigos_citados:
+- art. 443
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+---
+
+---
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+Rubens Maurício
+@profrubensmauricio
+Previdenciário Diagramado
+Prof. Rubens Maurício
+
+                                                           Prof. Rubens Mauricio
+
+                      
+
+
+---
+
+SEGURADOS OBRIGATÓRIOS DO RGPS
+SEGURADO EMPREGADO
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+       Segurado Empregado                                                               Relacionado direta ou
+                                                                                        indiretamente com as
+                                                                                        atividades normais da
+                                                                                               empresa
+
+
+                                                                              Caráter não eventual
+
+
+                         Aquele que         Urbana                               Subordinação
+                        presta serviço
+                         de natureza          Rural                              Remuneração
+
+                         a empresa ou
+                                                                                 Pessoalidade
+                          equiparada
+
+                                                  Inclusive como diretor empregado
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                         
+
+
+---
+
+       Segurado Empregado
+                                                                              Necessidade
+                                                                               transitória
+                                                                           de substituição de
+                                                                            pessoal regular
+                                          Contratado                         e permanente
+                                         por intermédio
+                        Trabalhador       de empresa
+                        Temporário        de trabalho
+                                          temporário
+                                                                              Acréscimo
+                                                                             extraordinário
+                                                                               de serviço
+
+                                             por prazo não superior a cento e oitenta dias,
+                                         consecutivos ou não, prorrogável por até noventa dias
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+       Segurado Empregado
+
+                         Brasileiro
+                                                                   trabalhar
+                             ou                                      como        Sucursal ou
+                                                                  empregado      Agência de
+                         estrangeiro
+                                                                                  empresa
+                        domiciliado e
+                         contratado                                no exterior
+                          no Brasil
+
+
+                             Constituída sob as leis brasileiras
+
+                            Tenha sede e administração no Brasil
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                        
+
+
+---
+
+       Segurado Empregado
+                             Brasileiro
+
+                                 ou                                      para
+                                                                                  em empresa
+                                                                      trabalhar
+                            Estrangeiro                                           domiciliada
+                                                                        como
+                           domiciliado e                             empregado
+                                                                                   no exterior
+                            contratado
+                             no Brasil
+
+                                   Maioria do capital votante pertença a
+                           empresa brasileira, com sede e administração no país; e
+
+                           Cujo controle efetivo esteja em caráter permanente sob a
+                         titularidade direta ou indireta de pessoas físicas domiciliadas
+                        e residentes no país ou de entidade de direito público interno
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                           
+
+
+---
+
+       Segurado Empregado
+
+                                                  Missão                                     Excluídos
+                                                Diplomática
+                         Presta
+                        serviços                                                           Não-brasileiro
+                        no Brasil               Repartição                                 sem residência
+                                                Consular de                             permanente no brasil
+                                                 Carreira
+                                                Estrangeira
+                                                                                      Brasileiro amparado pela
+                           e órgãos a elas                                             legislação previdenciária
+                            subordinados
+                                                                                     do país da respectiva missão
+                                                                                        ou repartição consular
+                         e membros dessas
+                        missões e repartições
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+       Segurado Empregado
+                                             trabalha                             em Organismos
+                        Brasileiro            para                                    Oficiais
+                          Civil                                                    Brasileiros ou
+                                            a União
+                                                                                   Internacionais
+
+                                            no exterior                                       dos quais o
+                                                                                               Brasil seja
+                                           ainda que lá                                    membro efetivo
+                                            domiciliado
+                                           e contratado
+
+
+                            Salvo se amparado por regime próprio de previdência
+                                                     ou
+                         Segurado na forma da legislação vigente do país do domicílio
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                             
+
+
+---
+
+       Segurado Empregado
+
+                                            presta                         em
+                        Brasileiro         serviços                    repartições
+                          Civil                                      governamentais
+                                          à União                       brasileiras
+
+                                                                                         este auxiliar local
+                                         no exterior                    lá domiciliado      desde que
+                                                                         e contratado      em razão de
+                                                                                             proibição
+                                                                                             legal, não
+                                                                                           possa filiar-se
+                                              presta serviços que exija
+                         Inclusive o                                                        ao sistema
+                                                 familiaridade com as
+                                                                                          previdenciário
+                        Auxiliar Local    condições de vida, uso e costumes
+                                                                                               local.
+                                         do país onde esteja sediado o posto
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                              
+
+
+---
+
+       Segurado Empregado
+
+                         Bolsista
+                                                        Prestam
+                                                        serviços                em desacordo
+                                                                                  com a lei
+                                                   à empresa
+                        Estagiário
+
+
+                                     Se o estágio for regular, de acordo
+                                       com a lei, o estagiário não será
+                                       segurado obrigatório do RGPS
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                           
+
+
+---
+
+       Segurado Empregado
+
+                                                   ocupante                       Também considerados
+                          Servidor               exclusivamente                   os servidores públicos
+                          Público                 de cargo em
+                                                    comissão
+                                                                                      Contratados por
+                                                                                     prazo determinado
+
+
+                        da União, Estados,                                             Ocupante de
+                                              Declarado em lei de
+                         DF, Municípios,        livre nomeação                        emprego público
+                           autarquias e           e exoneração
+                            fundações.                                              Não amparados por
+                                                                                    Regime Próprio de
+                                                                                     Previdência Social
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                             
+
+
+---
+
+       Segurado Empregado
+
+                        Escrevente            Contratado por                     a partir de
+                                                 titular de                      21/11/1994
+                                                  serviços
+                                                 notariais                       ou optaram
+                         Auxiliar              e de registro                      pelo RGPS
+
+                             Obs: os titulares de serviços notariais e de registro
+                                        são contribuintes individuais.
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+       Segurado Empregado
+                                                               Federal
+
+                                                              Estadual                    Desde que não
+                         Exercente de                                                       vinculado a
+                        Mandato Eletivo                                                  Regime Próprio de
+                                                              Distrital                  Previdência Social
+                                                                                               (RPPS)
+                                                            Municipal
+
+                               Se ocupante de cargo efetivo, vinculado a RPPS, é segurado do RPPS
+
+                        Se ocupante de cargo efetivo, não vinculado a RPPS, é segurado empregado do RGPS
+
+                                 Se for vereador e acumular cargos acumuláveis (eletivo + efetivo),
+                                           contribui para RGPS + RPPS respectivamente.
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                                    
+
+
+---
+
+       Segurado Empregado
+
+
+                        Empregado de               Internacional                 salvo quando
+                                                                                  coberto por
+                         Organismo                                             Regime Próprio de
+                           Oficial                  Estrangeiro                Previdência Social
+
+                                       Em funcionamento no Brasil
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+       Segurado Empregado
+
+
+                        Trabalhador        Contratato por
+                                           Produtor Rural
+                           Rural            Pessoa Física
+
+
+                                                                             por prazo não
+                                                                           superior a 2 meses
+                                         para exercer
+                                         atividades de
+                                      natureza temporária
+                                                                               dentro do
+                                                                                período
+                                                                               de 1 ano
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+       Segurado Empregado
+                                                                                       Subordinação
+
+
+                                Trabalhador
+                                                                                  Forma não contínua
+                                Intermitente
+                                                                             Alternância de períodos
+                                                                             de prestação de serviços
+                                                                                 e de inatividade
+
+                        em conformidade com o disposto no § 3º do art. 443 da Consolidação das Leis do Trabalho.
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                                      
+
+
+---
+
+       Segurado Empregado
+                                                Maior de 14 anos
+                        Aprendiz                         e
+                                                Menor de 24 anos
+
+                                                                                         ressalvado a
+                                                                                    pessoa com deficiência
+                        Sujeito à formação técnico-profissional
+                            metódica, sob a orientação de
+                                                                                       à qual não se aplica
+                                  entidade qualificada
+                                                                                          Idade máxima
+
+
+                        O aprendiz é o único segurado obrigatório que pode filiar-se ao RGPS
+                                          com menos de 16 anos de idade.
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                               
+
+
+---
+
+       Segurado Empregado
+
+                          Diretor                       de empresa
+                                                        Urbana ou
+                        Empregado                          Rural
+
+                                                                                  Participando ou não
+                                                                                  do risco econômico
+
+
+                                          Mantendo as                             Seja contratado ou
+                                    características inerentes                     promovido ao cargo
+                                     à relação de emprego                          de direção de S/A
+
+
+                               O diretor não empregado é contribuinte individual
+                                           E será estudado adiante.
+
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                             
+
+
+---
+
+       Segurado Empregado
+
+                                                                            Independentemente da
+
+                          Médico
+                                                                                     Área de
+                                                                                     Atuação
+                            Ou             Plantonista
+
+                        Profissional                                                 Local de
+                                                                                   Permanência
+                         de saúde
+
+                                                                                     Forma de
+                                                                                   Remuneração
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                       
+
+
+---
+
+       Segurado Empregado
+
+
+                          Médico-                          presta
+                         Residente                        serviços
+
+                                                                               em desacordo com a
+                                                                                 lei nº 6.932/81
+
+                        Se prestar serviço de acordo com a lei nº 6.932/81,
+                                     será contribuinte individual.
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+       Segurado Empregado
+
+                        Lei nº 8.650/93
+
+
+                                    Treinador
+                                                                               Profissional
+                                    de futebol
+
+
+                              Independentemente de acordos firmados
+
+Segurado Empregado
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+SEGURADOS OBRIGATÓRIOS DO RGPS
+EMPREGADO DOMÉSTICO
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+       Empregado Doméstico
+                                                           Serviço de natureza contínua
+                                                                Mediante subordinação
+
+                                                    Mediante remuneração (onerosidade)
+
+                                                                         De forma pessoal
+                        Empregado
+                                                                 Para pessoa ou família
+                        Doméstico
+                                                               Âmbito residencial desta
+
+                                                           Atividades sem fins lucrativos
+
+                                                              Mais de 2 dias por semana
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                    
+
+
+---
+
+       Empregado Doméstico
+
+                        É vedada a contratação de menor de 18 (dezoito)
+                         anos para desempenho de trabalho doméstico
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                       
+
+
+---
+
+       Empregado Doméstico
+                                         Natureza contínua
+
+
+                                                Ausência de
+                        Natureza                 interrupção                   Empregado
+                        Contínua               (mais de 2 dias                 Doméstico
+                                                por semana)
+
+                              Se não for contínuo, não é empregado doméstico
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                          
+
+
+---
+
+       Empregado Doméstico
+
+
+                                  Subordinação
+                        O empregado doméstico está sujeito ao
+                           poder de direção do empregador
+
+
+                                   Onerosidade
+                         O trabalho do empregado doméstico
+                          tem que ser remunerado (oneroso)
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                
+
+
+---
+
+       Empregado Doméstico
+
+
+                                        Pessoalidade
+                          Não pode o empregado domésticos se fazer
+                               substituir por outro trabalhador
+
+
+                                  Pessoa ou Família
+                        O serviço tem que ser prestado para pessoa física.
+                          não poder ser para pessoa jurídica (empresa).
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+       Empregado Doméstico
+
+                        Âmbito residencial                                          (Sentido amplo)
+                                                                                    Não se restringe
+                                                                                   ao interior da casa
+                          - Casa de praia;
+                          - Casa de campo;
+                          - Babá no parque;                                           Desde que
+                                                                                     direcionadas
+                          - Motorista;
+                                                                                     ao bem estar
+                          - Caseiro                                                   da família
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                              
+
+
+---
+
+       Empregado Doméstico
+                            Atividades sem fins lucrativos
+                         Se tiver fins lucrativos, não é empregado doméstico
+
+                                               Exemplo:
+                           Trabalho de limpeza em escritório de advocacia
+                                ou consultório médico / odontológico
+                        (com fins lucrativos) - não é empregado doméstico.
+
+
+                            Mais de dois dias por semana
+                               Se trabalhar até dois dias por semana,
+                                    não é empregado doméstico.
+
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+                                             Ausência de
+                         Natureza             interrupção                   Empregado
+                         Contínua           (mais de 2 dias                 Doméstico
+                                             por semana)
+                             ≠
+
+                                          Relacionado com
+                         Natureza                                            Segurado
+                                         atividades normais
+                        Não-eventual         da empresa                     Empregado
+
+                             ≠
+
+                         Natureza                Serviços                   Contribuinte
+                         Eventual              esporádicos                   Individual
+
+                             ≠
+
+                         Natureza              Trabalhador                   Segurado
+                        Não-contínua           Intermitente                 Empregado
+
+Empregado Doméstico
+Prof. Rubens Mauricio
+                                       
+
+
+---
+
+SEGURADOS OBRIGATÓRIOS DO RGPS
+TRABALHADOR AVULSO
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+        Trabalhador Avulso
+                             Trabalhador avulso                                                com
+                        é aquele que (sindicalizado ou não)                               intermediação
+                                                                                            obrigatória
+
+                        presta serviços          urbana
+                         de natureza               rural
+                                                                                                   órgão gestor
+                                                                                    sindicato
+                                                                                                        de
+                                                                                       da
+                                    a diversas empresas                                            mão-de-obra
+                                                                                    categoria
+                                      (ou equiparadas)                                                (ogmo)
+
+                                       sem vínculo                                                  na atividade
+                                      empregatício                                                   portuária
+
+prof. rubens mauricio
+                                                    
+
+
+---
+
+       Trabalhador Avulso
+            1. o trabalhador que exerça atividade portuária de capatazia, estiva, conferência e
+            conserto de carga e vigilância de embarcação e bloco;
+            2. o trabalhador de estiva de mercadorias de qualquer natureza, inclusive carvão e
+            minério;
+            3. o trabalhador em alvarenga (embarcação para carga e descarga de navios);
+            4. o amarrador de embarcação;
+            5. o ensacador de café, cacau, sal e similares;
+            6. o trabalhador na indústria de extração de sal;
+            7. o carregador de bagagem em porto;
+            8. o prático de barra em porto;
+            9. o guindasteiro;
+            10. o classificador, o movimentador e o empacotador de mercadorias em portos.
+
+Prof. Rubens Mauricio
+                                              
+
+
+---
+
+       Trabalhador Avulso
+           Exerça atividade de movimentação de mercadorias em geral, nos termos do disposto
+           na Lei nº 12.023/2009, em áreas urbanas ou rurais, sem vínculo empregatício, com
+           intermediação obrigatória do sindicato da categoria, por meio de acordo ou convenção
+           coletiva de trabalho, nas atividades de:
+
+           1. cargas e descargas de mercadorias a granel e ensacados, costura, pesagem,
+           embalagem, enlonamento, ensaque, arrasto, posicionamento, acomodação,
+           reordenamento, reparação de carga, amostragem, arrumação, remoção, classificação,
+           empilhamento, transporte com empilhadeiras, paletização, ova e desova de vagões,
+           carga e descarga em feiras livres e abastecimento de lenha em secadores e caldeiras;
+
+           2. operação de equipamentos de carga e descarga; e
+
+           3. pré-limpeza e limpeza em locais necessários às operações ou à sua continuidade.
+
+
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+QUESTÕES CESPE/CEBRASPE
+SEGURADOS DO RGPS
+
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+QUESTÕES FCC
+SEGURADOS DO RGPS
+
+
+                                                Prof. Rubens Mauricio
+
+           
+
+
+---
+
+        Questões FCC
+  (FCC – ANALISTA PREVIDENCIÁRIO – SEGEP MA) Empregado, segurado
+  obrigatório da Previdência Social, é aquele que presta serviço de natureza
+  a) apenas urbana à empresa, em caráter eventual, sob sua subordinação e
+     mediante remuneração, inclusive como diretor empregado
+  b) urbana ou rural à empresa, em caráter não eventual, sob sua
+     subordinação e mediante remuneração, inclusive como diretor
+     empregado.
+  c) apenas rural à empresa, em caráter eventual, sob sua subordinação e
+     mediante remuneração, inclusive como diretor empregado.
+  d) urbana ou rural à empresa, em caráter eventual, sob sua subordinação e
+     mediante remuneração, exceto como diretor empregado.
+  e) urbana ou rural à empresa, em caráter não eventual, sem subordinação
+     e mediante remuneração, exceto como diretor empregado.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                               
+
+
+---
+
+        Questões FCC
+        (FCC – Analista Judiciário – TRT 6ª Região) Ricardo exerce a função
+        de ensacador de cacau e, nesta condição, é considerado:
+
+        a) autônomo e segurado facultativo da Previdência Social.
+        b) trabalhador avulso e segurado facultativo da Previdência Social.
+        c) trabalhador eventual e segurado obrigatório da Previdência
+        Social.
+        d) trabalhador eventual e segurado especial da Previdência Social.
+        e) trabalhador avulso e segurado obrigatório da Previdência Social.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                 
+
+
+---
+
+        Questões FCC
+        (FCC – Analista Previdenciário – SEGEP MA) Mateus é brasileiro e trabalha no exterior
+        em empresa regida por leis brasileiras; Tatiana é associada de cooperativa que explora
+        a atividade de oficina de costura; já Silvério presta serviços como amarrador de
+        embarcação no porto. São considerados segurados obrigatórios da Previdência Social:
+
+        a) todos, Mateus e Tatiana na condição de contribuintes individuais e Silvério como
+        trabalhador avulso.
+        b) todos, na condição de empregado, contribuinte individual e trabalhador avulso,
+        respectivamente.
+        c) apenas Mateus e Silvério, como empregado e trabalhador eventual,
+        respectivamente.
+        d) apenas Tatiana e Silvério, como contribuinte individual e trabalhador avulso,
+        respectivamente.
+        e) apenas Silvério, como autônomo.
+
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                        
+
+
+---
+
+        Questões FCC
+  (FCC - Analista Judiciário - TRF 4ª Região – Adaptada) - Alfredo, Ministro de Estado
+  e Álvaro, Secretário Municipal, ambos sem vínculo efetivo com a União, Estados,
+  Distrito Federal e Municípios, suas autarquias e fundações, são considerados em
+  relação à Previdência Social, servidores públicos:
+  a) não empregados, ocupantes de cargo em comissão sem vínculo efetivo com o
+  Estado e com o Município, respectivamente, e segurados não obrigatórios da
+  Previdência Social.
+  b) não empregados ocupantes de cargo em comissão sem vínculo efetivo com o
+  Estado e com o Município, respectivamente, e segurados da Previdência
+  Complementar, obrigatoriamente.
+  c) empregados e segurados obrigatórios da Previdência Social.
+  d) empregados e segurados facultativos da Previdência Social e da Previdência
+  Complementar.
+  e) não empregados e segurados não obrigatórios da Previdência Social.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                   
+
+
+---
+
+        Questões FCC
+  (FCC - Juiz do Trabalho - TRT 1ª Região) - Nos termos da Lei nº 8.213/1991, NÃO é
+  segurado obrigatório da Previdência Social, como empregado, o:
+  a) brasileiro ou o estrangeiro domiciliado e contratado no Brasil para trabalhar como
+  empregado em sucursal ou agência de empresa nacional no exterior.
+  b) brasileiro civil que trabalha para a União, no exterior, em organismos oficiais
+  brasileiros ou internacionais dos quais o Brasil seja membro efetivo, ainda que lá
+  domiciliado e contratado, salvo se segurado na forma da legislação vigente do país do
+  domicílio.
+  c) exercente de mandato eletivo municipal, desde que não vinculado a regime próprio
+  de previdência social.
+  d) ministro de confissão religiosa e o membro do instituto de vida consagrada, de
+  congregação ou de ordem religiosa.
+  e) servidor público ocupante de cargo em comissão, sem vínculo efetivo com a União,
+  Autarquias, inclusive em regime especial, e Fundações Públicas Federais.
+
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                   
+
+
+---
+
+        Questões FCC
+  (FCC - Analista Judiciário - TRF 3ª Região) - Matias é militar da União e sua mulher,
+  Catarina, é militar do Estado de São Paulo. Nestes casos, em regra, de acordo com a Lei
+  nº 8.212/91,
+  a) apenas Matias é excluído do Regime Geral de Previdência Social consubstanciado na
+  referida lei, independentemente do amparo por regime próprio de previdência social.
+  b) Matias e Catarina são, obrigatoriamente, excluídos do Regime Geral de Previdência
+  Social consubstanciado na referida lei.
+  c) apenas Catarina é excluída do Regime Geral de Previdência Social consubstanciado
+  na referida lei, independentemente do amparo por regime próprio de previdência
+  social.
+  d) Matias e Catarina são excluídos do Regime Geral de Previdência Social
+  consubstanciado na referida lei, desde que amparados por regime próprio de
+  previdência social.
+  e) Matias e Catarina são segurados obrigatórios do Regime Geral de Previdência Social
+  consubstanciado na referida lei.
+Direito Previdenciário
+Prof. Rubens Mauricio
+                                    
+
+
+---

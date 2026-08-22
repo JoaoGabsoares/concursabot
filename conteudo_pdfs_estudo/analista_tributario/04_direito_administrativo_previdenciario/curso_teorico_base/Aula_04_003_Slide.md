@@ -1,0 +1,666 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: EXTINÇÃO DOS ATOS
+artigos_citados:
+- art. 50
+- art. 53.
+- art. 54.
+---
+
+# EXTINÇÃO DOS ATOS
+
+EXTINÇÃO DOS ATOS
+                            ADMINISTRATIVOS
+
+                       Prof. Antonio Daud
+Atos administrativos
+Prof. Antonio Daud
+                                            
+
+
+---
+
+                       Natural                     Ato exauriu seus efeitos
+
+                       Subjetiva               Desaparecimento do sujeito
+
+                       Objetiva             Desaparecimento do seu objeto
+     Extinção dos
+                       Renúncia                         Pelo beneficiário
+         atos
+                                                Anulação
+
+                                               Revogação
+
+                       Retirada                 Cassação
+
+                                              Caducidade
+
+                                            Contraposição
+Atos administrativos
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                         CONTROLE DOS ATOS
+                          ADMINISTRATIVOS
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                             
+
+
+---
+
+                       Controle dos atos administrativos
+
+        ❑ Controle de legalidade dos atos
+        ❑ Controle de mérito dos atos
+        ❑ Princípios da autotutela e da inafastabilidade da jurisdição
+
+Atos administrativos
+Prof. Antonio Daud
+                                  
+
+
+---
+
+Atos administrativos
+Prof. Antonio Daud
+                       
+
+
+---
+
+                       Fundamento legal e jurisprudencial
+ SUM-473 STF, A administração pode anular seus próprios atos, quando eivados de vícios que
+ os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de
+ conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os
+ casos, a apreciação judicial.
+
+
+ Lei 9.784/1999, art. 53. A Administração deve anular seus próprios atos, quando eivados de
+ vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade,
+ respeitados os direitos adquiridos.
+
+
+ ❑ Se afetar esfera de direitos: contraditório e ampla defesa
+
+ ❑ Dever de motivação (Lei 9.784/1999, art. 50, VIII)
+
+
+Atos administrativos
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                       Desfazimento dos atos: efeitos
+
+Atos administrativos
+Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação
+Um servidor público federal determinou a nomeação de seu irmão para ocupar
+cargo de confiança no órgão público onde trabalha. Questionado por outros
+servidores, o departamento jurídico do órgão emitiu parecer indicando que o ato de
+nomeação é ilegal.
+Considerando essa situação hipotética, julgue o item a seguir.
+
+Sob o fundamento da ilegalidade, a administração pública deverá revogar o ato de
+nomeação, com a garantia de que sejam observados os princípios do devido
+processo legal e da ampla defesa
+
+Atos administrativos
+Prof. Antonio Daud
+                             
+
+
+---
+
+Questão para fixação
+ Um edital de licitação foi publicado e, em seguida, foram apresentadas
+ propostas. No entanto, antes da etapa de homologação, o gestor do órgão
+ licitador decidiu não realizar o certame, sob a alegação de que aquele não era o
+ momento oportuno para tal.
+
+ Nessa situação hipotética, ao decidir por não levar a termo o certame, o gestor
+ praticou ato administrativo de anulação
+
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+Questão para fixação
+ Acerca do acesso à informação, dos servidores públicos e do processo
+ administrativo no âmbito federal, julgue o item que se segue.
+ Caso edite ato administrativo que remova, de ofício, um servidor público federal e,
+ posteriormente, pretenda revogar esse ato administrativo, a autoridade pública
+ deverá explicitar os motivos de sua segunda decisão, com a indicação dos fatos e
+ dos fundamentos jurídicos.
+
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+Questão para fixação
+ Considerando um ato administrativo o qual, contaminado por vício, tornou-se
+ ilegal, ressalvada a apreciação judicial e respeitados os direitos adquiridos, a
+ Administração
+ a) não pode anulá-lo, já que seus efeitos são regulares.
+ b) pode revogá-lo, por motivo de conveniência ou oportunidade.
+ c) pode anulá-lo, porque dele não se originam direitos
+ d) pode revogá-lo, porque dele se originam direitos.
+ e) não pode anulá-lo, porque dele não se originam direitos.
+
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+                       Anulação                                        Revogação
+
+Atos administrativos
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                         ANULAÇÃO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                             
+
+
+---
+
+                                         Anulação
+
+        ❑ Controle de legalidade dos atos
+        ❑ Há um vício no ato (invalidade, ilegalidade, ilegitimidade ...)
+        ❑ Vício insanável x sanável
+
+Atos administrativos
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                     Anulação: efeitos
+
+        ❑ Efeitos retroativos (ex tunc)
+                  ✓ Ato é retirado do mundo jurídico
+                       ✓ Não produz novos efeitos
+                  ✓ Efeitos já produzidos:
+                       ✓ Destinatário do ato: efeitos são desfeitos
+                       ✓ Terceiros de boa-fé: efeitos são preservados
+        ❑ Possibilidade de modulação
+
+Atos administrativos
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                             Anulação: competência
+
+                Administração Pública                                        Judiciário
+
+
+❑ Autotutela                                             ❑ Função jurisdicional típica
+❑ De ofício ou mediante provocação                       ❑ Apenas mediante provocação
+❑ Controle interno                                       ❑ Controle externo
+
+Atos administrativos
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                                   Anulação: prazo
+Lei 9.784/1999, art. 54. O direito da Administração de anular os atos administrativos de que
+decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que
+foram praticados, salvo comprovada má-fé.
+§ 1º No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do
+primeiro pagamento.
+§ 2º Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que
+importe impugnação à validade do ato.
+
+ ❑ Natureza do prazo
+ ❑ Contagem:
+          ✓ Regra: da data da prática do ato
+          ✓ Ato que gera efeitos patrimoniais contínuos: do primeiro pagamento
+ ❑ Má-fé
+ ❑ Situações flagrantemente inconstitucionais
+Atos administrativos
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                         REVOGAÇÃO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                              
+
+
+---
+
+                                         Revogação
+
+        ❑ Controle de mérito dos atos administrativos
+                  ✓ discricionários
+
+Atos administrativos
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                             Revogação: efeitos
+
+        ❑ Efeitos prospectivos: não retroage (ex nunc)
+
+Atos administrativos
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                              Revogação: competência
+
+        ❑ Apenas a administração pública que praticou o ato
+                  ✓ Judiciário (função típica): não revoga
+                  ✓ Judiciário (função administrativa atípica): pode revogar
+
+
+        ❑ Revogação de atos complexos: manifestação de ambos os órgãos (princ. da
+          simetria)
+
+Atos administrativos
+Prof. Antonio Daud
+                                        
+
+
+---
+
+Atos administrativos
+Prof. Antonio Daud
+                       
+
+
+---
+
+Questão para fixação
+ A revogação de atos pela administração pública por motivos de conveniência e
+ oportunidade não possui limitação de natureza material, mas somente de natureza
+ temporal, como, por exemplo, o prazo quinquenal previsto na Lei n.º 9.784/1999,
+ que regula o processo administrativo no âmbito do serviço público federal
+
+Atos administrativos
+Prof. Antonio Daud
+                             
+
+
+---
+
+Questão para fixação
+ Mara, servidora pública e chefe de determinada repartição pública, emitiu atestado
+ a determinado particular, comprovando situação de que teve conhecimento por
+ seus órgãos competentes. Um dia após a prática do ato administrativo, decidiu
+ revogá-lo por razões de conveniência e oportunidade. O atestado emitido por
+ Mara
+ a) comporta revogação desde que seja com efeitos ex nunc.
+ b) comporta revogação desde que seja com efeitos ex tunc.
+ c) não comporta revogação.
+ d) por já ter produzido efeitos, deve, obrigatoriamente, permanecer no mundo
+ jurídico.
+ e) admite apenas anulação, a ser decretada somente pelo Poder Judiciário.
+
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+Questão para fixação
+O poder da Administração pública de rever seus próprios atos é um dos mecanismos
+de controle que, tal como os demais, encontra limites
+a) no direito adquirido, ou seja, somente pode ser exercido até o trânsito em
+julgado da decisão proferida no processo administrativo.
+b) no poder Judiciário, pois demanda homologação judicial em casos de demandas
+judicias ajuizadas para discussão da validade de atos administrativos.
+c) no exaurimento dos efeitos do ato que se pretende anular ou revogar, pois a
+revisão não reverteria a situação decorrente de irregularidade que se buscou
+corrigir.
+d) no prazo para revisão dos atos administrativos, a ser estabelecido por decreto do
+ente federado, como expressão de seu poder normativo de organização da
+Administração pública.
+e) no ajuizamento de recurso administrativo, que impede a revogação ou anulação
+do ato até que se profira decisão final a respeito.
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+                       Revogação: tópicos adicionais
+
+        ❑ Derrogação vs. ab-rogação
+        ❑ Efeitos típicos vs. atípicos
+
+Atos administrativos
+Prof. Antonio Daud
+                                     
+
+
+---
+
+ Anulação                                                                         Revogação
+
+            Atos ilegais (vício
+           sanável ou insanável)                                                        Atos válidos
+
+
+            Atos vinculados
+           ou discricionários                                                        Atos discricionários
+
+
+          Efeitos retroativos         exceto: efeitos já                                 Efeitos não
+                                      produzidos sobre                                   retroativos
+               (ex tunc)                3os de boa fé                                     (ex nunc)
+
+                 pela                    pelo Poder
+                                       Judiciário, se                                   apenas pela
+              Administração
+           (de ofício ou provocada)      provocado                                     Administração
+Atos administrativos
+Prof. Antonio Daud
+                                             
+
+
+---
+
+                            CASSAÇÃO,
+                         CONTRAPOSIÇÃO &
+                           CADUCIDADE
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                            
+
+
+---
+
+                       Outras formas de extinção
+
+        ❑ Cassação → beneficiário deixa de cumprir os requisitos
+
+
+        ❑ Contraposição → surgimento de um novo ato com efeitos contrapostos a
+          outro já praticado
+
+
+        ❑ Caducidade → na superveniência de norma jurídica que torna inadmissível
+          situação anterior, na qual foi praticado o ato administrativo
+
+Atos administrativos
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Atos administrativos
+Prof. Antonio Daud
+                       
+
+
+---
+
+                       CONVALIDAÇÃO
+                          DOS ATOS
+                       ADMINISTRATIVOS
+                                                               Prof. Antonio Daud
+
+Atos administrativos
+Prof. Antonio Daud
+                          
+
+
+---
+
+                       Convalidação: visão geral
+
+Atos administrativos
+Prof. Antonio Daud
+                            
+
+
+---
+
+                       Convalidação: requisitos
+
+Atos administrativos
+Prof. Antonio Daud
+                            
+
+
+---
+
+                       Convalidação: vícios sanáveis
+
+ *vício no objeto: quando se tratar de conteúdo plúrimo
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                 Convalidação: objeto
+
+        ❑ Objeto da convalidação: ato discricionário ou vinculado
+                  ✓ MAS: o ato de convalidação é discricionário
+
+Atos administrativos
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                            Convalidação: efeitos
+
+        ❑ Efeitos retroativos (ex tunc)!
+
+Atos administrativos
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                       Convalidação: competência
+
+        ❑ Regra geral: Administração que praticou o ato
+        ❑ Exceção: particular afetado pelo ato viciado
+
+Atos administrativos
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                       Convalidação: espécies*
+
+Atos administrativos
+Prof. Antonio Daud
+                           
+
+
+---
+
+                       Convalidação: espécies*
+
+Atos administrativos
+Prof. Antonio Daud
+                           
+
+
+---
+
+                       Atos ilegais                                               Efeitos          pela
+                                                   vinculados ou
+       Anulação        (vício sanável ou                                        retroativos   Administração ou
+                                                  discricionários
+                           insanável)                                            (ex tunc)      Judiciário
+                                                                                Efeitos não
+                                                                                                apenas pela
+     Revogação         Atos legais                discricionários               retroativos
+                                                                                               Administração
+                                                                                 (ex nunc)
+
+                                                                                  Efeitos
+                       Atos ilegais                vinculados ou                                apenas pela
+   Convalidação                                                                 retroativos
+                       (vício sanável)            discricionários                              Administração
+                                                                                 (ex tunc)
+
+                                         condições: ausência de
+                                       lesão ao interesse público
+                                                 e a 3os
+Atos administrativos
+Prof. Antonio Daud
+                                           
+
+
+---
+
+ Questão para fixação
+É possível a convalidação de atos administrativos quando apresentarem defeitos
+relativos aos elementos
+a) objeto e finalidade.
+b) motivo e competência.
+c) motivo e objeto.
+d) competência e forma.
+e) finalidade e forma.
+
+ Atos administrativos
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+A convalidação supre o vício existente na competência ou na forma de um ato
+administrativo, com efeitos retroativos ao momento em que este foi originariamente
+praticado.
+
+Atos administrativos
+Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+O ato administrativo praticado com desvio de finalidade pode ser convalidado pela
+administração pública, desde que não haja lesão ao interesse público nem prejuízo a
+terceiros
+
+ Atos administrativos
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+A convalidação dos atos administrativos não pode ser feita por quem não pertença
+aos quadros da Administração pública
+
+Atos administrativos
+Prof. Antonio Daud
+                             
+
+
+---
+
+ Questão para fixação
+A convalidação dos atos administrativos
+a) produz efeitos futuros, ou seja, posteriores à data da convalidação, anulando
+aqueles decorrentes da edição do ato viciado.
+b) enseja a edição de novo ato administrativo, que produz efeitos desde a data em
+que foi editado o ato viciado, salvo disposição expressa em sentido contrário.
+c) é admitida diante da constatação de vício de qualquer natureza, salvo se já
+exauridos os efeitos do ato originalmente praticado.
+d) é causa de extinção do ato administrativo original, que fica substituído pelo novo
+ato editado.
+e) pode se referir apenas a atos discricionários, pois demanda juízo de oportunidade
+e conveniência para edição do ato convalidatório.
+
+ Atos administrativos
+ Prof. Antonio Daud
+                               
+
+
+---
+
+                   OBRIGADO
+
+
+Atos administrativos
+Prof. Antonio Daud
+                        
+
+
+---
+
+Atos administrativos
+Prof. Antonio Daud
+                       
+
+
+---

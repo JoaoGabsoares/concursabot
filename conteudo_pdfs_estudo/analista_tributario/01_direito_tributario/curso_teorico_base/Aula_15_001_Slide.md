@@ -1,0 +1,409 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 15_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: IMPOSTOS DOS ESTADOS
+artigos_citados:
+- Art. 18-A.
+- art. 146
+- art. 155
+sumulas_citadas:
+- Súmula 166
+- Súmula 573
+- Súmula Vinculante 32
+- Súmula Vinculante 48
+---
+
+# IMPOSTOS DOS ESTADOS
+
+IMPOSTOS DOS ESTADOS
+ICMS – PARTE 1
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+ICMS
+  ❑ Imposto de competência dos Estados e DF;
+
+  ❑ Finalidade fiscal;
+
+  ❑ Imposto real;
+
+
+Direito Tributário
+Prof. Fábio Dutra
+                          
+
+
+---
+
+ICMS
+  ❑ Imposto proporcional;
+
+  ❑ Imposto que pode ser seletivo;
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+ICMS
+  ❑ Adotada pelo legislador estadual a técnica da seletividade em relação
+        ao Imposto sobre Circulação de Mercadorias e Serviços (ICMS),
+        discrepam do figurino constitucional alíquotas sobre as operações de
+        energia elétrica e serviços de telecomunicação em patamar superior ao
+        das operações em geral, considerada a essencialidade dos bens e
+        serviços. (STF, Tema 745)
+
+Direito Tributário
+Prof. Fábio Dutra
+                               
+
+
+---
+
+ICMS
+     Art. 18-A. Para fins da incidência do imposto de que trata o inciso
+     II do caput do art. 155 da Constituição Federal, os combustíveis,
+     o gás natural, a energia elétrica, as comunicações e o transporte
+     coletivo são considerados bens e serviços essenciais e
+     indispensáveis, que não podem ser tratados como supérfluos.
+     (CTN, incluído pela LC 194/2022)
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+ICMS
+     Art. 18-A.
+     Parágrafo único. Para efeito do disposto neste artigo:
+     I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste
+     artigo em patamar superior ao das operações em geral, considerada a
+     essencialidade dos bens e serviços;
+     II - é facultada ao ente federativo competente a aplicação de alíquotas
+     reduzidas em relação aos bens referidos no caput deste artigo, como forma de
+     beneficiar os consumidores em geral; e
+     III - é vedada a fixação de alíquotas reduzidas de que trata o inciso II deste
+     parágrafo, para os combustíveis, a energia elétrica e o gás natural, em
+     percentual superior ao da alíquota vigente por ocasião da publicação deste
+     artigo. (CTN, incluído pela LC 194/2022)
+
+Direito Tributário
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+ICMS
+
+          ❑ STF: Telecomunicações e Fornecimento de energia elétrica não podem ter
+            alíquotas mais elevadas do que aquela aplicável às demais operações.
+
+
+          ❑ LC 194/2022: Os combustíveis, o gás natural, a energia elétrica, as
+            comunicações e o transporte coletivo são considerados bens e
+            serviços essenciais e indispensáveis, que não podem ser tratados
+            como supérfluos.
+
+Direito Tributário
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+ICMS
+  ❑ Imposto Indireto (repercussão econômica do tributo);
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+ICMS
+  ❑ Imposto que deve ser não cumulativo;
+
+
+                     1                          2               3
+
+Direito Tributário
+Prof. Fábio Dutra
+                           
+
+
+---
+
+ICMS
+    ❑ A isenção ou não-incidência de ICMS, salvo determinação em
+      contrário da legislação:
+
+             ❑não implicará crédito para compensação com o montante devido
+             nas operações ou prestações seguintes;
+
+             ❑acarretará a anulação do crédito relativo às operações anteriores;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+ICMS
+    ❑ Cabe à lei complementar definir normas gerais sobre legislação
+      tributária, especialmente sobre fatos geradores, bases de cálculo e
+      contribuintes dos impostos discriminados na CF/88; (CF/88, art. 146)
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+ICMS
+    ❑ Incidência (CF/88):
+
+    ❑ Circulação de mercadorias;
+
+    ❑ Serviço de Transporte interestadual e intermunicipal;
+
+    ❑ Serviço de comunicação.
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+ICMS
+    ❑ Incidência (CF/88):
+
+    ❑ Incide também: sobre a entrada de bem ou mercadoria importados
+      do exterior por pessoa física ou jurídica;
+
+               ❑ainda que não seja contribuinte habitual do imposto;
+
+               ❑ qualquer que seja a sua finalidade;
+
+               ❑cabendo o imposto ao Estado onde estiver situado o domicílio
+               ou o estabelecimento do destinatário da mercadoria, bem ou
+               serviço;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+ICMS
+    ❑ Não constitui fato gerador do imposto de circulação de mercadorias
+      a saída física de máquinas, utensílios e implementos a título de
+      comodato. (STF, Súmula 573)
+
+    ❑ O ICMS não incide sobre a alienação de salvados de sinistro pelas
+      seguradoras. (STF, Súmula Vinculante 32)
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---
+
+ICMS
+    ❑ Na entrada de mercadoria importada do exterior, é legítima a
+      cobrança do ICMS por ocasião do desembaraço aduaneiro. (STF,
+      Súmula Vinculante 48)
+
+    ❑ Não constitui fato gerador do ICMS o simples deslocamento de
+      mercadoria de um para outro estabelecimento do mesmo
+      contribuinte. (STJ, Súmula 166)
+
+
+Direito Tributário
+Prof. Fábio Dutra
+                          
+
+
+---
+
+ICMS
+    ❑ Não incide ICMS no deslocamento de bens de um estabelecimento
+      para outro do mesmo contribuinte localizados em estados distintos,
+      visto não haver a transferência da titularidade ou a realização de ato
+      de mercancia. (STF, Tema 1099)
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+ICMS
+    ❑ O sujeito ativo da obrigação tributária de ICMS incidente sobre
+      mercadoria importada é o Estado-membro no qual está domiciliado
+      ou estabelecido o destinatário legal da operação que deu causa à
+      circulação da mercadoria, com a transferência de domínio. (STF,
+      Tema 520)
+
+Direito Tributário
+Prof. Fábio Dutra
+                           
+
+
+---
+
+ICMS
+    ❑ Não Incidência (CF/88):
+
+    ❑ Sobre operações que destinem mercadorias para o exterior, nem
+      sobre serviços prestados a destinatários no exterior, assegurada a
+      manutenção e o aproveitamento do montante do imposto cobrado
+      nas operações e prestações anteriores;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+ICMS
+    ❑ A imunidade a que se refere o art. 155, § 2º, X, "a", da CF não
+      alcança operações ou prestações anteriores à operação de
+      exportação. (STF, Tema 475)
+
+Direito Tributário
+Prof. Fábio Dutra
+                           
+
+
+---
+
+ICMS
+    ❑ Não Incidência (CF/88):
+
+    ❑ sobre operações que destinem a outros Estados petróleo, inclusive
+      lubrificantes, combustíveis líquidos e gasosos dele derivados, e
+      energia elétrica;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+ICMS
+    ❑ Não Incidência (CF/88):
+
+    ❑ sobre o ouro, definido como ativo financeiro ou instrumento cambial;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+ICMS
+    ❑ Não Incidência (CF/88):
+
+    ❑ nas prestações de serviço de comunicação nas modalidades de
+      radiodifusão sonora e de sons e imagens de recepção livre e gratuita;
+
+Direito Tributário
+Prof. Fábio Dutra
+                                
+
+
+---
+
+ICMS
+    ❑ “O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incide
+      sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras
+      de serviços de telefonia, independentemente da franquia de minutos
+      concedida ou não ao usuário.”(STF, RE 912.888)
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+ICMS
+    ❑ O sujeito ativo da obrigação tributária de ICMS incidente sobre
+      mercadoria importada é o Estado-membro no qual está domiciliado
+      ou estabelecido o destinatário legal da operação que deu causa à
+      circulação da mercadoria, com a transferência de domínio. (STF,
+      Tema 520)
+
+Direito Tributário
+Prof. Fábio Dutra
+                           
+
+
+---
+
+ICMS
+    ❑ A inadimplência do usuário não afasta a incidência ou a exigibilidade
+      do ICMS sobre serviços de telecomunicações. (STF, Tema 705)
+
+Direito Tributário
+Prof. Fábio Dutra
+                             
+
+
+---
+
+ICMS
+    ❑ É constitucional a incidência do ICMS sobre a operação de venda,
+      realizada por locadora de veículos, de automóvel com menos de 12
+      (doze) meses de aquisição da montadora. (STF, Tema 1012)
+
+Direito Tributário
+Prof. Fábio Dutra
+                           
+
+
+---
+
+ICMS
+    ❑ A demanda de potência elétrica não é passível, por si só, de
+      tributação via ICMS, porquanto somente integram a base de cálculo
+      desse imposto os valores referentes àquelas operações em que haja
+      efetivo consumo de energia elétrica pelo consumidor. (STF, Tema
+      176)
+
+Direito Tributário
+Prof. Fábio Dutra
+                            
+
+
+---

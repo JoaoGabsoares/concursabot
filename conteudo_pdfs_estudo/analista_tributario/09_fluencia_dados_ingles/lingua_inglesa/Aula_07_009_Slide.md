@@ -1,0 +1,1813 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 07_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: RETA FINAL – CAMARA DOS
+---
+
+# RETA FINAL – CAMARA DOS
+
+---
+
+---
+
+RETA FINAL – CAMARA DOS
+       DEPUTADOS
+                                           Prof. Adolfo Sá (vídeos)
+
+                                                    @adolfo.sa.9
+
+                                           Prof. Ena Smith (pdfs)
+
+
+      
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+
+           How to approach cloud computing and cyber security in 2017
+ The adoption of cloud computing has been on the up since as far back as 2008,
+when a survey conducted by the Pew Research Institute found that cloud
+services were used by nearly 69% of Americans. Since then, the industry has
+experienced hyper-growth and exceeded the already vast predictions of how
+big it would become.
+IDC predicts that the cloud computing market in 2017 will be worth $107 billion
+and, according to Gartner, by 2020 a corporate ‘no-cloud’ policy will be as
+unusual as a ‘no-internet’ policy would be today. Indeed, it would be difficult to
+imagine an organisation in 2017 that did not use webmail, file sharing and
+storage, and data backup.
+
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+As the use of cloud computing spreads so does awareness of the associated
+risks. At the time of writing, there have been 456 data breaches worldwide this
+year according to the Identity Theft Resource Center (ITRC). The ITRC also noted
+a 40% increase in data breaches in 2016 compared to the previous year. Yet,
+despite the well-documented cases of data breaches, organisations continue to
+invest in and adopt cloud-computing services because the benefits usually
+outweigh the risks.
+
+
+To understand why the growth of cloud computing has continued in the face of
+high-profile data breaches, look first to what it can offer an organisation.
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+Cheaper, bigger, better
+ Cloud computing is a virtual environment that can adapt to meet user needs. It
+is not constrained by physical limits, and is easily scalable – making it an obvious
+choice for start-ups. Cloud computing makes state-of-the-art capability
+available to anyone with an internet connection and a browser, reducing
+hardware and IT personnel costs.
+ Cloud services and software applications are managed and upgraded off-site by
+the provider, meaning organisations can access technology they would not have
+been able to afford to install and manage on their own. The popularity of the
+cloud essentially comes down to its provision of advanced, next- generation IT
+resources in an environment that is cheaper and more scalable than local
+networks.
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+The risks involved with cloud computing are mostly security- based. Clouds are
+often made up of multiple entities, which means that no configuration can be
+more secure than its weakest link. The link between separate entities means that
+attacks to multiple sites can occur simultaneously. When cloud providers do not
+employ adequate cyber security measures, those clouds become a target for
+cybercriminals.
+ Yet, it’s not all bad news. A user survey conducted by one cloud service provider
+found that concerns about security fell to 25% compared to 29% last year. And as
+more becomes known about security risks so too does our knowledge around
+what organisations can do to protect themselves.
+(Source: http://www.information-age.com/approach-cloud-computing-          cyber-
+security-2017-123466624/. Retrieved on January 25th, 2018)
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+01 - Text I deals with cloud computing and cyber security. In this respect, analyse
+the following statements:
+I. The risks of breaches in cloud computing are minimal.
+II. Cloud computing has developed beyond projections.
+III. Results of a survey indicate users are becoming more confident about security.
+
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+
+                                   
+
+
+---
+
+Inglês – Adolfo Sá
+01 - Text I deals with cloud computing and cyber security. In this respect, analyse
+the following statements:
+I. The risks of breaches in cloud computing are minimal.
+II. Cloud computing has developed beyond projections.
+III. Results of a survey indicate users are becoming more confident about security.
+
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+
+                                   
+
+
+---
+
+Inglês – Adolfo Sá
+
+02. The word “policy” in “corporate ‘no-cloud’ policy” (second paragraph) refers to
+a (n)
+(A) breach in the digital system.
+(B) authorized set of ideas or plans.
+(C) legal officer who protects people.
+(D) company that does not use the cloud.
+(E) overall concern for using the internet.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+02. The word “policy” in “corporate ‘no-cloud’ policy” (second paragraph) refers to
+a (n)
+(A) breach in the digital system.
+(B) authorized set of ideas or plans.
+(C) legal officer who protects people.
+(D) company that does not use the cloud.
+(E) overall concern for using the internet.
+
+IDC predicts that the cloud computing market in 2017 will be worth $107 billion
+and, according to Gartner, by 2020 a corporate ‘no-cloud’ policy will be as
+unusual as a ‘no-internet’ policy would be today. Indeed, it would be difficult to
+imagine an organisation in 2017 that did not use webmail, file sharing and
+storage, and data backup.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+02. The word “policy” in “corporate ‘no-cloud’ policy” (second paragraph) refers to
+a (n)
+(A) breach in the digital system.
+(B) authorized set of ideas or plans.
+(C) legal officer who protects people.
+(D) company that does not use the cloud.
+(E) overall concern for using the internet.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+
+03 The phrase “so does awareness of the associated risks” (third paragraph)
+implies that this kind of awareness
+(A) is missing.
+(B) is inexistent.
+(C) has declined.
+(D) is increasing.
+(E) has vanished.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+03 The phrase “so does awareness of the associated risks” (third paragraph)
+implies that this kind of awareness
+(A) is missing.
+(B) is inexistent.
+(C) has declined.
+(D) is increasing.
+(E) has vanished.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+                        COMO DIZER “TAMBÉM” EM INGLÊS
+
+                              FRASES AFIRMATIVAS
+                             SO (so + auxiliar + sujeito)
+                       Lucy went to the park, and so did Janet.
+
+                                 TOO (final de frases)
+                Lucy went to the park, and Janet went to the park, too.
+
+                                         ALSO
+     (entre o sujeito e o verbo principal OU entre o verbo auxiliar e o principal)
+
+                Lucy went to the park, and Janet also went to the park.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+                           COMO DIZER “TAMBÉM” EM INGLÊS
+
+                                     FRASES NEGATIVAS
+
+                                           EITHER
+                              (sujeito + auxiliar + not + either)
+
+                     Lucy didn’t go to the park, and Janet didn’t either.
+
+                                          NEITHER
+                                (neither + auxiliar + sujeito)
+
+                      Lucy didn’t go to the park, and neither did Janet
+
+                                  
+
+
+---
+
+Inglês – Adolfo Sá
+
+04 The fifth paragraph stresses as an advantage of cloud computing its
+(A) flexibility.
+(B) reliability.
+(C) uncertainty.
+(D) contingency.
+(E) vulnerability.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+04 The fifth paragraph stresses as an advantage of cloud computing its
+(A) flexibility.
+(B) reliability.
+(C) uncertainty.
+(D) contingency.
+(E) vulnerability.
+Cloud computing is a virtual environment that can adapt to meet user needs. It is
+not constrained by physical limits, and is easily scalable – making it an obvious
+choice for start-ups. Cloud computing makes state-of-the-art capability available
+to anyone with an internet connection and a browser, reducing hardware and IT
+personnel costs.
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+04 The fifth paragraph stresses as an advantage of cloud computing its
+(A) flexibility.
+(B) reliability.
+(C) uncertainty.
+(D) contingency.
+(E) vulnerability.
+
+                             
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+
+        Brazil's mega hydro plan foreshadows China's growing impact on the Amazon
+                                     by Jonathan Watts
+ The government wants to open up the Tapajós basin – an area the size of France – for
+trade with China. But the indigenous Munduruku won’t let it happen without a fight
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+Crashing upstream through the São Luiz rapids, the churning river throws the
+speedboat around like a child’s toy. There is first a moment of fear, then relief and
+finally wonder at crossing a natural boundary that has held back the destruction of
+this corner of the Amazon for almost five centuries.
+
+
+This is the gateway to a land that indigenous inhabitants call Mundurukania, after
+their tribe, the Munduruku, which has settled the middle and upper reaches of the
+Rio Tapajós since ancient times. The thickly vegetated shores, misty hills and
+untamed waters – breached at one point by a dolphin – mark it out as one of the
+few regions of the planet still to be explored and exploited by industrial
+commerce.
+
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+The tranquillity is breathtaking, but misleading. These rapids are now on the
+frontline of one of the world’s most important struggles for indigenous rights and
+environmental protection. Long ignored, they are suddenly seen as a strategically
+crucial step between the nations with the world’s biggest farms – Brazil – and the
+world’s most numerous dining tables – China. Longer term, the changes now being
+planned could bring this waterway closer to the industrialised, traffic-filled
+Yangtze in more ways than one.
+
+
+Over the coming years, the Brazilian government – backed by Chinese and
+European finance and engineering – wants to turn this river into the world’s
+biggest grain canal by building 49 major dams on the Tapajós and its tributaries.
+
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+This would make the rapids navigable by barges carrying produce from the
+deforested cerrado savanna of Mato Grosso – which produces a third of the
+world’s soya – up to the giant container port being planned in the closest city of
+Santarém and then out to global markets, particularly in Asia.
+
+
+The network of dams would also produce 29gW of electricity, increasing Brazil’s
+current supply by 25%. A consortium headed by Furnas – a subsidiary of the state-
+run energy utility Electrobras – plans to sell the power to distant cities and to local
+mining companies that want to unearth the mineral riches under the forest.
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+For the Brazilian government, this mega-scheme to open up the Tapajós basin –
+which is roughly the area of France – is a linchpin of national economic
+development and trade with China. For local politicians, it is an opportunity to
+industrialise, expand and enrich the business of nearby cities, which expect their
+populations to double in size over the next 10 years.
+
+For opponents, however, the “hydrovia” – as the river transport scheme is known
+– and related projects are the biggest threat ever posed to the native inhabitants,
+traditional riverine communities, waters and wildlife. By one estimate, 950,000
+hectares of forest would be cleared, releasing significant amounts of carbon
+dioxide.
+(Source:     https://www.theguardian.com/world/2017/oct/05/brazil-        amazon-
+tapajos-hydrovia-scheme. Retrieved on January 11th, 2018)
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+10. Text II discusses issues related to the opening up of the Tapajós basin for trade. Based
+on the text, analyse the following statements:
+I- The Brazilian government is willing to build the dams without any international
+investment.
+II. Local politicians believe the project may bring economic development to the region.
+III. There might be considerable environmental impact if the plan is carried out.
+
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                                   
+
+
+---
+
+Inglês – Adolfo Sá
+10. Text II discusses issues related to the opening up of the Tapajós basin for trade. Based
+on the text, analyse the following statements:
+I- The Brazilian government is willing to build the dams without any international
+investment.
+II. Local politicians believe the project may bring economic development to the region.
+III. There might be considerable environmental impact if the plan is carried out.
+
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                                   
+
+
+---
+
+Inglês – Adolfo Sá
+
+11. The subtitle of Text II implies that the plan will
+(A) come to a smooth solution.
+(B) meet no obvious obstacles.
+(C) lead to an inevitable dispute.
+(D) arrive at a peaceful outcome.
+(E) reach a diplomatic agreement.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+11. The subtitle of Text II implies that the plan will
+(A) come to a smooth solution.
+(B) meet no obvious obstacles.
+(C) lead to an inevitable dispute.
+(D) arrive at a peaceful outcome.
+(E) reach a diplomatic agreement.
+The government wants to open up the Tapajós basin – an area the size of France – for
+trade with China. But the indigenous Munduruku won’t let it happen without a fight
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+11. The subtitle of Text II implies that the plan will
+(A) come to a smooth solution.
+(B) meet no obvious obstacles.
+(C) lead to an inevitable dispute.
+(D) arrive at a peaceful outcome.
+(E) reach a diplomatic agreement.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+12. The first paragraph describes the
+(A) monotony of riding alone in the rapids.
+(B) destruction caused to the Amazon forest.
+(C) stillness of the river waters during the journey.
+(D) feelings one experiences throughout the voyage.
+(E) happiness of the children playing with their toys.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+12. The first paragraph describes the
+(A) monotony of riding alone in the rapids.
+(B) destruction caused to the Amazon forest.
+(C) stillness of the river waters during the journey.
+(D) feelings one experiences throughout the voyage.
+(E) happiness of the children playing with their toys.
+Crashing upstream through the São Luiz rapids, the churning river throws the
+speedboat around like a child’s toy. There is first a moment of fear, then relief
+and finally wonder at crossing a natural boundary that has held back the
+destruction of this corner of the Amazon for almost five centuries.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+12. The first paragraph describes the
+(A) monotony of riding alone in the rapids.
+(B) destruction caused to the Amazon forest.
+(C) stillness of the river waters during the journey.
+(D) feelings one experiences throughout the voyage.
+(E) happiness of the children playing with their toys.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+
+13. When the author defines China as “the world’s most numerous dining tables”,
+he is referring to its
+(A) gold mining.
+(B) water storage.
+(C) oil production.
+(D) wood industry.
+(E) food consumption.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+
+13. When the author defines China as “the world’s most numerous dining tables”,
+he is referring to its
+(A) gold mining.
+(B) water storage.
+(C) oil production.
+(D) wood industry.
+(E) food consumption.
+
+                            
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+
+                           World Energy Outlook 2021
+
+
+     In 2020, even while economies bent under the weight of Covid-19 lockdowns,
+renewable sources of energy such as wind and solar PV continued to grow rapidly,
+and electric vehicles set new sales records. The new energy economy will be more
+electrified, efficient, interconnected and clean. Its emergence is the product of a
+virtuous circle of policy action and technology innovation, and its momentum is
+now sustained by lower costs. In most markets, solar PV or wind now represents
+the cheapest available source of new electricity generation. Clean energy
+technology is becoming a major new area for investment and employment – and a
+dynamic arena for international collaboration and competition.
+
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+     At the moment, however, every data point showing the speed of change in
+energy can be countered by another showing the stubbornness of the status quo.
+The rapid but uneven economic recovery from last year’s Covid-induced recession
+is putting major strains on parts of today’s energy system, sparking sharp price
+rises in natural gas, coal and electricity markets. For all the advances being made
+by renewables and electric mobility, 2021 is seeing a large rebound in coal and oil
+use. Largely for this reason, it is also seeing the second-largest annual increase in
+CO2 emissions in history. Public spending on sustainable energy in economic
+recovery packages has only mobilised around one-third of the investment required
+to jolt the energy system onto a new set of rails, with the largest shortfall in
+developing economies that continue to face a pressing public health crisis.
+Progress towards universal energy access has stalled, especially in sub- Saharan
+Africa.
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+    The direction of travel is a long way from alignment with the IEA’s landmark
+Net Zero Emissions by 2050 Scenario (NZE), published in May 2021, which charts a
+narrow but achievable roadmap to a 1.5C stabilisation in rising global
+temperatures and the achievement of other energy-related sustainable
+development goals.
+    Pressures on the energy system are not going to relent in the coming decades.
+The energy sector is responsible for almost three-quarters of the emissions that
+have already pushed global average temperatures 1.1C higher since the pre-
+industrial age, with visible impacts on weather and climate extremes. The energy
+sector has to be at the heart of the solution to climate change.
+
+                            
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+
+    At the same time, modern energy is inseparable from the livelihoods and
+aspirations of a global population that is set to grow by some 2 billion people to
+2050, with rising incomes pushing up demand for energy services, and many
+developing economies navigating what has historically been an energy -- and
+emissions-intensive period of urbanisation and industrialisation. Today’s energy
+system is not capable of meeting these challenges; a low emissions revolution is
+long overdue.
+https://www.iea.org/reports/world-energy-outlook-2021/executive-summary)
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+14. The main aim of Text I is to present
+
+
+(A) the effects of lockdown on renewable sources in developing countries.
+(B) software that can map energy consumption in various situations.
+(C) a thorough review of the latest trends in renewable sources of energy.
+(D) a critical assessment of current energy system from a global perspective.
+(E) a comparison between the different sources of energy used worldwide.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+
+14. The main aim of Text I is to present
+
+
+(A) the effects of lockdown on renewable sources in developing countries.
+(B) software that can map energy consumption in various situations.
+(C) a thorough review of the latest trends in renewable sources of energy.
+(D) a critical assessment of current energy system from a global perspective.
+(E) a comparison between the different sources of energy used worldwide.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+15. Based on the information provided in the first paragraph, mark the statements
+below as true (T) or false (F).
+( ) The current pandemic has hindered the development of renewable energy.
+( ) Solar PV technology will be a financial nuisance to most markets.
+( ) Energy economy is an issue that goes beyond national borders.
+
+The statements are, respectively,
+(A) T–T–F.
+(B) T–F–T.
+(C) F–F–T.
+(D) F–T–F.
+(E) F–T–T.
+
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+15. Based on the information provided in the first paragraph, mark the statements
+below as true (T) or false (F).
+( ) The current pandemic has hindered the development of renewable energy.
+( ) Solar PV technology will be a financial nuisance to most markets.
+( ) Energy economy is an issue that goes beyond national borders.
+
+The statements are, respectively,
+(A) T–T–F.
+(B) T–F–T.
+(C) F–F–T.
+(D) F–T–F.
+(E) F–T–T.
+
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+16. The extract that states that the transformation discussed in the text has met
+some resistance is:
+(A) “The energy sector has to be at the heart of the solution to climate change.”
+(B) “The new energy economy will be more electrified, efficient, interconnected
+and clean.”
+(C) “[...] modern energy is inseparable from the livelihoods and aspirations of a
+global population [...]”
+(D) “[...] every data point showing the speed of change in energy can be countered
+by another showing the stubbornness of the status quo.”
+(E) “The energy sector is responsible for almost three-quarters of the emissions
+that have already pushed global average temperatures 1.1C higher since the pre-
+industrial age [...]”
+
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+16. The extract that states that the transformation discussed in the text has met
+some resistance is:
+(A) “The energy sector has to be at the heart of the solution to climate change.”
+(B) “The new energy economy will be more electrified, efficient, interconnected
+and clean.”
+(C) “[...] modern energy is inseparable from the livelihoods and aspirations of a
+global population [...]”
+(D) “[...] every data point showing the speed of change in energy can be
+countered by another showing the stubbornness of the status quo.”
+(E) “The energy sector is responsible for almost three-quarters of the emissions
+that have already pushed global average temperatures 1.1C higher since the pre-
+industrial age [...]”
+
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+
+17. The sentence “Covid-induced recession is putting major strains on parts of
+today’s energy system” (2nd paragraph) suggests that the recession has
+(A) imposed further burden.
+(B) brought about a renewal.
+(C) resulted in an upgrading.
+(D) avoided some disruption.
+(E) prevented needless stress.
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+
+17. The sentence “Covid-induced recession is putting major strains on parts of
+today’s energy system” (2nd paragraph) suggests that the recession has
+17. A frase “Recessão induzida por Covid está colocando grandes pressões em partes do
+sistema de energia de hoje” (2º parágrafo) sugere que a recessão tem
+(A) imposed further burden.
+(B) brought about a renewal.
+(C) resulted in an upgrading.
+(D) avoided some disruption.
+(E) prevented needless stress.
+
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+
+17. The sentence “Covid-induced recession is putting major strains on parts of
+today’s energy system” (2nd paragraph) suggests that the recession has
+(A) imposed further burden.
+(B) brought about a renewal.
+(C) resulted in an upgrading.
+(D) avoided some disruption.
+(E) prevented needless stress.
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+
+18. The underlined passage in “For all the advances being made by renewables and
+electric mobility, 2021 is seeing a large rebound in coal and oil use” implies that
+the use of coal and oil is
+(A) running into trouble.
+(B) picking up again.
+(C) coming to a halt.
+(D) being replaced.
+(E) slowing down.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+18. The underlined passage in “For all the advances being made by renewables and
+electric mobility, 2021 is seeing a large rebound in coal and oil use” implies that
+the use of coal and oil is
+18. A passagem sublinhada em “Para todos os avanços feitos por energias renováveis e
+mobilidade elétrica, 2021 está vendo uma grande recuperação no uso de carvão e
+petróleo” implica que o uso de carvão e petróleo está
+(A) running into trouble.
+(B) picking up again.
+(C) coming to a halt.
+(D) being replaced.
+(E) slowing down.
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+18. The underlined passage in “For all the advances being made by renewables and
+electric mobility, 2021 is seeing a large rebound in coal and oil use” implies that
+the use of coal and oil is
+(A) running into trouble.
+(B) picking up again.
+(C) coming to a halt.
+(D) being replaced.
+(E) slowing down.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+
+19. When the text informs that “Public spending on sustainable energy in
+economic recovery packages has only mobilised around one-third of the
+investment required to jolt the energy system onto a new set of rails” (2nd
+paragraph), one may infer that the investment has been
+(A) scanty.
+(B) lavish.
+(C) suitable.
+(D) massive.
+(E) bountiful.
+
+
+                          
+
+
+---
+
+Inglês – Adolfo Sá
+
+19. When the text informs that “Public spending on sustainable energy in
+economic recovery packages has only mobilised around one-third of the
+investment required to jolt the energy system onto a new set of rails” (2nd
+paragraph), one may infer that the investment has been
+(A) scanty. – escasso.
+(B) lavish. – generoso.
+(C) suitable. – adequado.
+(D) massive. – maciço.
+(E) bountiful. – abundante.
+
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+
+19. When the text informs that “Public spending on sustainable energy in
+economic recovery packages has only mobilised around one-third of the
+investment required to jolt the energy system onto a new set of rails” (2nd
+paragraph), one may infer that the investment has been
+(A) scanty.
+(B) lavish.
+(C) suitable.
+(D) massive.
+(E) bountiful.
+
+
+                          
+
+
+---
+
+Inglês – Adolfo Sá
+
+20. At the end, the author’s opinion of the current energy system is
+(A) quite hopeful.
+(B) rather disquieting.
+(C) highly encouraging.
+(D) somewhat prejudiced.
+(E) slightly complimentary.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+
+20. At the end, the author’s opinion of the current energy system is
+(A) quite hopeful.
+(B) rather disquieting.
+(C) highly encouraging.
+(D) somewhat prejudiced.
+(E) slightly complimentary.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+
+21.“Even while” in “In 2020, even while economies bent under the weight of
+Covid-19 lockdowns” (opening sentence) indicates the text will show that two
+situations are
+
+
+(A) confining.
+(B) conclusive.
+(C) convincing.
+(D) conditional.
+(E) concomitant.
+
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+
+21.“Even while” in “In 2020, even while economies bent under the weight of
+Covid-19 lockdowns” (opening sentence) indicates the text will show that two
+situations are
+
+
+(A) confining.
+(B) conclusive.
+(C) convincing.
+(D) conditional.
+(E) concomitant.
+
+
+                           
+
+
+---
+
+CONJUNCTIONS
+
+
+                                            Prof. Adolfo Sá
+
+       
+
+
+---
+
+                AND = ADDITION
+
+• besides
+• Furthermore
+• moreover
+
+                 
+
+
+---
+
+                 AND = ADDITION
+
+• This house is on the best street in the neighborhood;
+  furthermore, it has easy access to the highway.
+• His report was poorly written and, moreover, it had no
+  real substance.
+• I don't have time to go to the party tonight. Besides,
+  I'm not feeling well.
+
+
+                    
+
+
+---
+
+     BUT = OPPOSITION / CONTRAST
+
+He wanted to go to the beach, but it started raining.
+
+                 
+
+
+---
+
+          BUT = OPPOSITION / CONTRAST
+
+•   but
+•   however
+•   nevertheless
+•   Nonetheless
+•   Yet (início de oração)
+
+                       
+
+
+---
+
+        BUT = OPPOSITION / CONTRAST
+
+• My salary is really low, nevertheless I find the work
+  incredibly rewarding.
+• They planned to go on a vacation; however, their flight
+  got canceled.
+• She studied for hours, yet she couldn't grasp the
+  concept.
+
+
+                    
+
+
+---
+
+                SO = CONCLUSION
+
+•   So
+•   hence
+•   therefore
+•   thus
+
+                  
+
+
+---
+
+                 SO = CONCLUSION
+
+• The roads were covered in ice; hence it was not safe to
+  drive.
+• He was the tallest one there and thus the one they
+  asked to hang the ornaments at the top of the tree.
+• The power was out to the whole office building,
+  and therefore they could not get any work done.
+
+
+                    
+
+
+---
+
+              CONCESSION
+
+Although it was raining, he went to the beach.
+
+              
+
+
+---
+
+  Although it was raining, he went to the beach.
+
+He wanted to go to the beach, but it started raining.
+
+
+                 
+
+
+---
+
+                       CONCESSION
+                                                          OPOSIÇÃO FRACA
+                                                    QUEBRA NA EXPECTATIVA
+
+•   though
+•   although
+•   even though
+•   while
+•   despite / in spite of
+                       
+
+
+---
+
+                  CONCESSION
+• Although she was far away, she could see that he was
+  watching her.
+• Although she was exhausted, sleep didn't come.
+• There were so many people to talk. He was quiet,
+  though.
+
+                    
+
+
+---
+
+                       CONCESSION
+•   He appeared relaxed, despite the danger.
+•   I passed all of my exams despite the fact that I never
+    studied.
+•   In spite of being late, he arrived in time.
+•   While I thought it was going to rain after lunch, it
+    didn't.
+
+                      
+
+
+---
+
+                     REASON
+•   because
+•   since
+•   why
+•   due to
+•   as
+
+              
+
+
+---
+
+                       REASON
+• Due to the bad weather, the match was cancelled.
+• She decided to stay home since she was feeling tired.
+• Since / because / As I had an invitation card, I was
+  allowed to get in.
+
+                    
+
+
+---
+
+                      CONDITION
+•   if
+•   only if
+•   unless
+•   provided that
+•   assuming that
+
+                    
+
+
+---
+
+                        CONDITION
+• If it rains, we will bring umbrellas.
+• We won't go to the park unless it stops raining.
+• We'll be there at about 7.30, provided that / assuming
+  that there's a suitable train.
+
+                    
+
+
+---
+
+                              TIME
+ She was in a bad car accident when she was young.
+ We can’t play loud music after everyone has gone to bed
+ Brush your teeth before you go to bed.
+ I’ll wait for you until the bus comes.
+ I’ll call you once I arrive
+ Whenever you need me, you just have to call me.
+ We always have an ice cream as soon as we get to the
+  beach.
+                    
+
+
+---
+
+                          TIME
+• I haven't seen her since last year.
+• I was listening to music while my mother was cooking
+  dinner.
+• He worked on the project as long as he could, but
+  eventually, he had to take a break.
+
+                    
+
+
+---
+
+•   I haven't seen her since last year.
+•   I was listening to music while my mother was cooking dinner.
+•   He worked on the project as long as he could, but eventually, he
+    had to take a break.
+
+                                 X
+• Since he was sick, he didn’t go to school.
+• While she has talent, she lacks the necessary experience for the
+   role.
+• You can borrow my car as long as you return it by tomorrow.
+
+                        
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+                     In Europe, Weber still rules
+                               Statecrafting
+                                                          Steven Van de Walle
+
+                     
+
+
+---
+
+Inglês – Adolfo Sá
+After 30 years of public administration reform in European countries inspired by New
+Public Management ideas, traditional Weberian administration still is the main
+organizing principle. This is the picture that emerges from a large-scale survey among
+the entire population of top civil servants in 18 European countries. The findings have
+now been published in our book — Public Administration Reforms in Europe: The View
+from the Top.
+True, many tools and management practices associated with the NPM such as staff
+performance talks or management by objectives have become very common. Across all
+countries, the almost 7000 top civil servants we surveyed list achieving results and
+ensuring an efficient use of resources among the most important roles they have. They
+are also in agreement that, compared to five years ago, the public sector has made
+major progress in terms of efficiency and service quality — two main objectives of the
+NPM.
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+There are ‘NPM champions’ — countries that have gone further than others in
+reforming the Weberian state. Think the UK or the Netherlands, where public
+employment is increasingly normalised, and delivery contracted out. But even there,
+the structures of traditional public administration remain firmly in place.
+Some elements of the NPM are still mainly absent from current management practice
+in European countries. Internal steering by contract is not very common, and
+performance related pay is very rare despite the popularity in reform talk. The weak
+presence of flexible employment also shows that the Weberian model still dominates.
+Despite attempts to normalize public employment in some countries, civil servants still
+enjoy a unique statute. We also observed this during the fiscal crisis, where outright
+firing permanent civil servants or cutting salaries has been relatively rare.
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+For civil servants, referring issues upwards in the hierarchy is still the dominant response in
+situations when responsibilities or interests conflict with that of other organisations.
+European top civil servants consider the impartial implementation of laws and rules as one
+of their dominant roles, and largely prefer state provision of services over market provision,
+with the exception of the British, Danish, and Dutch.
+There are clear country differences, with management ‘champions’ such as the UK, Estonia,
+Norway and the Netherlands, and more legalistic and traditional public administrations
+such as in Austria, France, Germany, Hungary and Spain. The adoption of newer reform
+ideas suggest that the Weberian state may now be in decline. Yet some of the other
+findings of the survey, reported above, show that Weberianism’s main ideas are still deeply
+embedded in European countries.
+(Source: https://statecrafting.net/in-europe-weber-still-rules- a851866dbf02. Retrieved on
+January 21st, 2018)
+
+                                  
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+22. Text I compares New Public Management and Weberian administration. In this
+respect, analyse the following statements.
+I. The findings reported are not very telling as the sample is rather small.
+II. Some countries have made more progress than others in implementing NPM.
+III. The British, Danish, and Dutch showed a preference towards market provision.
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+22. Text I compares New Public Management and Weberian administration. In this
+respect, analyse the following statements.
+I. The findings reported are not very telling as the sample is rather small.
+II. Some countries have made more progress than others in implementing NPM.
+III. The British, Danish, and Dutch showed a preference towards market provision.
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+( ) Weberian ideals now belong to the past and are only used for historical
+interest.
+( ) Employment flexibility is one of the tenets of the New Public Management.
+
+The correct sequence is:
+(A) F – F – T.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( F ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+Some elements of the NPM are still mainly absent from current management
+practice in European countries. Internal steering by contract is not very common,
+and performance related pay is very rare despite the popularity in reform talk.
+( F ) Weberian ideals now belong to the past and are only used for historical interest.
+Yet some of the other findings of the survey, reported above, show that
+Weberianism’s main ideas are still deeply embedded in European countries.
+( T ) Employment flexibility is one of the tenets of the New Public Management.
+The weak presence of flexible employment also shows that the Weberian model
+still dominates.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+( ) Weberian ideals now belong to the past and are only used for historical
+interest.
+( ) Employment flexibility is one of the tenets of the New Public Management.
+
+The correct sequence is:
+(A) F – F – T.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+24. The word “Despite” in the sentence “Despite attempts to normalize public
+employment in some countries” indicates
+
+
+(A) illustrative.
+(B) unexpected.
+(C) irrelevant.
+(D) universal.
+(E) private.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+24. The word “Despite” in the sentence “Despite attempts to normalize public
+employment in some countries” indicates
+
+
+(A) illustrative.
+(B) unexpected.
+(C) irrelevant.
+(D) universal.
+(E) private.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+25. The word “True” in “True, many tools and management practices associated
+with the NPM” has the same function as
+
+
+(A) meanwhile.
+(B) however.
+(C) indeed.
+(D) so far.
+(E) still.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+25. The word “True” in “True, many tools and management practices associated
+with the NPM” has the same function as
+
+
+(A) meanwhile.
+(B) however.
+(C) indeed.
+(D) so far.
+(E) still.
+
+                           
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+                     How facial recognition technology aids police
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+Police officers’ ability to recognize and locate individuals with a history of committing crime
+is vital to their work. In fact, it is so important that officers believe possessing it is
+fundamental to the craft of effective street policing, crime prevention and investigation.
+However, with the total police workforce falling by almost 20 percent since 2010 and
+recorded crime rising, police forces are turning to new technological solutions to help
+enhance their capability and capacity to monitor and track individuals about whom they
+have concerns.
+One such technology is Automated Facial Recognition (known as AFR). This works by
+analyzing key facial features, generating a mathematical representation of them, and then
+comparing them against known faces in a database, to determine possible matches. While
+a number of UK and international police forces have been enthusiastically exploring the
+potential of AFR, some groups have spoken about its legal and ethical status. They are
+concerned that the technology significantly extends the reach and depth of surveillance by
+the state.
+                                  
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Until now, however, there has been no robust evidence about what AFR systems can and
+cannot deliver for policing. Although AFR has become increasingly familiar to the public
+through its use at airports to help manage passport checks, the environment in such
+settings is quite controlled. Applying similar procedures to street policing is far more
+complex. Individuals on the street will be moving and may not look directly towards the
+camera. Levels of lighting change, too, and the system will have to cope with the vagaries
+of the British weather.
+[...]
+ As with all innovative policing technologies there are important legal and ethical concerns
+and issues that still need to be considered. But in order for these to be meaningfully
+debated and assessed by citizens, regulators and law-makers, we need a detailed
+understanding of precisely what the technology can realistically accomplish. Sound
+evidence, rather than references to science fiction technology --- as seen in films such as
+Minority Report --- is essential.
+                                
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+With this in mind, one of our conclusions is that in terms of describing how AFR is being
+applied in policing currently, it is more accurate to think of it as “assisted facial
+recognition,” as opposed to a fully automated system. Unlike border control functions --
+where the facial recognition is more of an automated system -- when supporting street
+policing, the algorithm is not deciding whether there is a match between a person and
+what is stored in the database. Rather, the system makes suggestions to a police operator
+about possible similarities. It is then down to the operator to confirm or refute them.
+By Bethan Davies, Andrew Dawson, Martin Innes
+(Source: https://gcn.com/articles/2018/11/30/facial-recognition- policing.aspx, accessed
+May 30th, 2020)
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+26. Based on the information provided by Text I, mark the statements below as
+true (T) or false (F).
+( ) In relation to AFR, ethical and legal implications are being brought up.
+( ) There is enough data to prove that AFR is efficient in street policing.
+( ) AFR performance may be affected by changes in light and motion.
+The statements are, respectively,
+(A) T – F – T.
+(B) F – F – T.
+(C) F – T – T.
+(D) F – T – F.
+(E) T– T – F.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+26. Based on the information provided by Text I, mark the statements below as
+true (T) or false (F).
+( ) In relation to AFR, ethical and legal implications are being brought up.
+( ) There is enough data to prove that AFR is efficient in street policing.
+( ) AFR performance may be affected by changes in light and motion.
+The statements are, respectively,
+(A) T – F – T.
+(B) F – F – T.
+(C) F – T – T.
+(D) F – T – F.
+(E) T– T – F.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+27. The authors conclude the text by stating that
+(A) politicians can be of great help.
+(B) technology provides definite results.
+(C) the matches obtained are irrefutable.
+(D) humans should give the final answer.
+(E) high quality cameras are indispensable.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+27. The authors conclude the text by stating that
+(A) politicians can be of great help.
+(B) technology provides definite results.
+(C) the matches obtained are irrefutable.
+(D) humans should give the final answer.
+(E) high quality cameras are indispensable.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+28. In “Until now, however”, the word “however” introduces the notion of
+(A) cause.
+(B) contrast.
+(C) emphasis.
+(D) agreement.
+(E) comparison.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+28. In “Until now, however”, the word “however” introduces the notion of
+(A) cause.
+(B) contrast.
+(C) emphasis.
+(D) agreement.
+(E) comparison.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+29. The word that may replace “In fact” in “In fact, it is so important”, without
+change in meaning is
+(A) Specifically.
+(B) Presently.
+(C) Currently.
+(D) Notably.
+(E) Actually.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+29. The word that may replace “In fact” in “In fact, it is so important”, without
+change in meaning is
+(A) Specifically.
+(B) Presently.
+(C) Currently.
+(D) Notably.
+(E) Actually.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+30. The word “While” in “While a number of UK and international police forces
+have been enthusiastically exploring the potential of AFR” has the same meaning
+as
+(A) whence.
+(B) wherein.
+(C) whereas.
+(D) whereby.
+(E) whenever.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+30. The word “While” in “While a number of UK and international police forces
+have been enthusiastically exploring the potential of AFR” has the same meaning
+as
+(A) whence. = de onde, donde, daí, por esta razão
+(B) wherein. = em que, donde
+(C) whereas. = enquanto, ao passo que
+(D) whereby. = pelo qual, por meio do qual
+(E) whenever. = quando quer que seja, a qualquer hora
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+30. The word “While” in “While a number of UK and international police forces
+have been enthusiastically exploring the potential of AFR” has the same meaning
+as
+(A) whence.
+(B) wherein.
+(C) whereas.
+(D) whereby.
+(E) whenever.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+31. In the first paragraph, the pronoun “it” in “officers believe possessing it” refers
+to the
+(A) ability to recognize and locate individuals.
+(B) craft of effective street policing.
+(C) history of committing crime.
+(D) new technological solutions.
+(E) total police workforce.
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+31. In the first paragraph, the pronoun “it” in “officers believe possessing it” refers
+to the
+(A) ability to recognize and locate individuals.
+(B) craft of effective street policing.
+(C) history of committing crime.
+(D) new technological solutions.
+(E) total police workforce.
+Police officers’ ability to recognize and locate individuals with a history of
+committing crime is vital to their work. In fact, it is so important that officers
+believe possessing it is fundamental to the craft of effective street policing,
+crime prevention and investigation.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+31. In the first paragraph, the pronoun “it” in “officers believe possessing it” refers
+to the
+(A) ability to recognize and locate individuals.
+(B) craft of effective street policing.
+(C) history of committing crime.
+(D) new technological solutions.
+(E) total police workforce.
+
+                                
+
+
+---
+
+                                     @adolfo.sa.9
+
+---

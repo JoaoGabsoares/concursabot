@@ -1,0 +1,806 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 24_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '24'
+titulo_aula: Passo Estratégico de Contabilidade
+artigos_citados:
+- Art. 179.
+- artigo 243
+---
+
+# Passo Estratégico de Contabilidade
+
+Aula 23
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+                                             19 de Maio de 2023
+
+---
+
+  Filipe Magalhães, Júlio Cardozo
+  Aula 23
+
+                                    SIMULADO DE FIXAÇÃO
+Pessoal, faz parte da nossa rotina de estudos aqui no Passo Estratégico a realização de simulados para fixação
+de conteúdo. É uma forma de verificarmos como está o nosso aprendizado e corrigirmos eventuais falhas!
+
+Nossa sugestão é que imprimam as questões, separem um local adequado e mandem ver! Tentem fazer um
+exercício o mais próximo da realidade possível. Será muito bom para sua preparação.
+
+
+                   Faça contato conosco pelas redes sociais!
+
+                            @profjuliocardozo @filipemagalhaes30
+
+                                CONTABILIDADE GERAL
+Questões
+
+1. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, a
+informação é obscura se for comunicada de forma que teria efeito semelhante, para os usuários primários
+das demonstrações contábeis, à omissão ou ao erro dessa informação.
+Entre as circunstâncias que podem resultar na ocultação de informações relevantes, à exceção de uma.
+Assinale-a.
+a) as informações relativas ao item, transação ou outro evento relevante são divulgadas nas demonstrações
+contábeis, mas a linguagem utilizada é vaga ou pouco clara;
+b) as informações relativas ao item, transação ou outro evento relevante estão dispersas nas demonstrações
+contábeis;
+c) itens distintos, transações ou outros eventos são agregados de forma inadequada;
+d) itens similares, transações ou outros eventos são desagregados inadequadamente; e
+(e) a compreensibilidade das demonstrações contábeis é aumentada como resultado de informações
+materiais ocultas por informações imateriais, na medida em que o usuário principal não consegue
+determinar quais informações são relevantes.
+
+2. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, o
+conjunto completo das demonstrações contábeis deve ser apresentado pelo menos anualmente (inclusive
+informação comparativa). Quando se altera a data de encerramento das demonstrações contábeis da
+entidade e as demonstrações contábeis são apresentadas para um período mais longo ou mais curto do
+que um ano, a entidade deve divulgar, além do período abrangido pelas demonstrações contábeis.
+Avalie se tais informações incluem:
+I. a razão para usar um período mais longo.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+II. a razão para usar um período mais curto.
+III. o fato de que não são inteiramente comparáveis os montantes comparativos apresentados nessas
+demonstrações.
+Está correto o que se afirma em
+AI, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+
+3. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, as
+demonstrações contábeis são uma representação estruturada da posição patrimonial e financeira e do
+desempenho da entidade. O objetivo das demonstrações contábeis é o de proporcionar informação acerca
+da posição patrimonial e financeira, do desempenho e dos fluxos de caixa da entidade que seja útil a um
+grande número de usuários em suas avaliações e tomada de decisões econômicas.
+Avalie se tais demonstrações contábeis estão incluídas no Conjunto completo de demonstrações
+contábeis:
+I. demonstração do resultado do período;
+II. demonstração dos fluxos de caixa do período
+III. demonstração dos lucros ou prejuízos acumulados do período.
+Está correto o que se afirma em
+A I, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+4. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, a
+entidade deve elaborar as suas demonstrações contábeis utilizando-se do regime de competência.
+Todavia, à exceção de uma. Assinale-a.
+a) balanço patrimonial
+b) demonstração do resultado
+c) demonstração do resultado abrangente
+d) demonstração das mutações do patrimônio líquido
+e) demonstração dos fluxos de caixa
+5. O Pronunciamento Técnico CPC 26 (R1) - Apresentação das Demonstrações Contábeis, aborda algumas
+informações sobre Materialidade e Agregação.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+            www.estrategiaconcursos.com.br
+                                                                                                     2
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+Avalie se tais informações incluem:
+I. A entidade deve apresentar separadamente nas demonstrações contábeis cada classe material de itens
+semelhantes
+II. A entidade deve apresentar separadamente os itens materiais de natureza ou função distinta
+III. A entidade deve apresentar separadamente os itens imateriais de natureza ou função distinta
+Está correto o que se afirma em
+AI, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+
+6. De acordo com inclusão feita pela Lei nº 11.638/07 na Lei nº 6.404/64, assinale a opção que indica a
+classificação no ativo imobilizado
+A Direitos que tenham por objeto bens destinados à manutenção das atividades da companhia e da empresa,
+ou exercidos com essa finalidade, inclusive os de propriedade industrial ou comercial
+B Direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos
+com essa finalidade, inclusive o fundo de comércio adquirido.
+C Despesas pré-operacionais e os gastos de reestruturação que contribuirão, efetivamente, para o aumento
+do resultado de mais de um exercício social e que não configurem tão-somente uma redução de custos ou
+acréscimo na eficiência operacional
+D Direitos que tenham por objeto bens destinados à manutenção das atividades da companhia e da
+sociedade empresária, ou exercidos com essa finalidade, inclusive os de propriedade industrial ou comercial.
+E Direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia
+ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à
+companhia os benefícios, riscos e controle desses bens.
+
+7. A empresa Magalhães SA. determinou em 19/01/2023 que irá deixar de operar, por conta da
+deterioração de sua situação financeira.
+Nesse caso, o pressuposto de continuidade
+a) deve continuar sendo seguido até a confirmação da situação.
+b) deve continuar sendo seguido até a divulgação da opinião do auditor independente.
+c) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/2021.
+d) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/01/2022.
+e) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X2.
+
+8. Uma entidade produz e vende bicicletas para triatlo. Em março de 2023, ela recebeu R$30.000 de um
+cliente pela compra de uma bicicleta que deverá ser entregue em maio do mesmo ano. Os custos para a
+produção da bicicleta, que será iniciada em abril, estão estimados em R$5.000.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+            www.estrategiaconcursos.com.br
+                                                                                                          3
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+Assinale a opção que indica o impacto no balanço patrimonial da entidade em março de 2023.
+(A) Aumento no ativo: R$30.000; Aumento no passivo: R$30.000.
+(B) Aumento no ativo: R$30.000; Aumento no passivo: R$35.000.
+(C) Aumento no ativo: R$25.000; Aumento no patrimônio líquido: R$35.000.
+(D) Aumento no ativo: R$25.000; Aumento no patrimônio líquido: R$25.000.
+(E) Aumento no ativo: R$30.000; Aumento no passivo: R$5.000; Aumento no patrimônio líquido: R$25.000.
+
+9. A construtora Piscou Construiu tinha um ônibus que era utilizada para o deslocamento de seus
+funcionários. O ônibus foi comprado em 01/01/2018 por R$700.000 e tinha vida útil avaliada em 10 anos.
+A construtora não estimava valor residual e depreciava os seus ativos imobilizados de acordo com o
+método da linha reta.
+Em 31/12/2022, a construtora estimou que o valor justo líquido de despesas de venda do ônibus era de
+                                                         ==219a34==
+
+R$600.000. Já o valor em uso era de R$400.000.
+Assinale a opção que indica se há necessidade de reconhecimento de uma despesa relacionada à perda por
+recuperabilidade da van e, caso, positivo, por qual valor.
+(A) Sim. R$10.000.
+(B) Sim. R$15.000.
+(C) Sim. R$20.000.
+(D) Sim. R$35.000.
+(E) Não há.
+10. Uma sociedade empresária tinha como atividade fim a prestação de serviços de fisioterapia. Ela
+possuía um prédio de 5 andares, que funcionava do seguinte modo:
+   •   Andar 1: aluguel para um armazém de produtos naturais
+   •   Andar 2: prestação de serviços
+   •   Andares 3 a 5: aluguel para que terceiros residam
+Cada andar do prédio era avaliado por R$1 milhão
+Assinale a opção que indica a contabilização relacionada ao prédio no balanço patrimonial da sociedade
+empresária:
+(A) Ativo Imobilizado- R$ 5 milhões.
+(B) Investimentos- R$5 milhões
+(C) Investimentos- R$4 milhões e Ativo Imobilizado- R$ 1 milhões.
+(D) Investimentos- R$3 milhões e Ativo Imobilizado- R$ 2 milhões.
+(E) Investimentos- R$2 milhões e Ativo Imobilizado- R$ 3 milhões.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                     4
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+Questões Comentadas
+
+1. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, a
+   informação é obscura se for comunicada de forma que teria efeito semelhante, para os usuários
+   primários das demonstrações contábeis, à omissão ou ao erro dessa informação.
+Entre as circunstâncias que podem resultar na ocultação de informações relevantes, à exceção de uma.
+Assinale-a.
+a) as informações relativas ao item, transação ou outro evento relevante são divulgadas nas demonstrações
+contábeis, mas a linguagem utilizada é vaga ou pouco clara;
+b) as informações relativas ao item, transação ou outro evento relevante estão dispersas nas demonstrações
+contábeis;
+c) itens distintos, transações ou outros eventos são agregados de forma inadequada;
+d) itens similares, transações ou outros eventos são desagregados inadequadamente; e
+(e) a compreensibilidade das demonstrações contábeis é aumentada como resultado de informações
+materiais ocultas por informações imateriais, na medida em que o usuário principal não consegue
+determinar quais informações são relevantes.
+
+Comentários:
+
+De acordo com o CPC 26, são exemplos de circunstâncias que podem resultar na ocultação de informações
+relevantes:
+
+(a) as informações relativas ao item, transação ou outro evento relevante são divulgadas nas demonstrações
+contábeis, mas a linguagem utilizada é vaga ou pouco clara;
+
+(b) as informações relativas ao item, transação ou outro evento relevante estão dispersas nas demonstrações
+contábeis;
+
+(c) itens distintos, transações ou outros eventos são agregados de forma inadequada;
+
+(d) itens similares, transações ou outros eventos são desagregados inadequadamente; e
+
+(e) a compreensibilidade das demonstrações contábeis é reduzida como resultado de informações materiais
+ocultas por informações imateriais, na medida em que o usuário principal não consegue determinar quais
+informações são relevantes.
+
+A única alternativa que não enseja a apresentação separada seria a letra e. Podemos entender que a
+compreensibilidade das demonstrações contábeis é REDUZIDA e não aumentada.
+
+Gabarito: E
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                         5
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+2. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, o
+conjunto completo das demonstrações contábeis deve ser apresentado pelo menos anualmente (inclusive
+informação comparativa). Quando se altera a data de encerramento das demonstrações contábeis da
+entidade e as demonstrações contábeis são apresentadas para um período mais longo ou mais curto do
+que um ano, a entidade deve divulgar, além do período abrangido pelas demonstrações contábeis.
+Avalie se tais informações incluem:
+I. a razão para usar um período mais longo.
+II. a razão para usar um período mais curto.
+III. o fato de que não são inteiramente comparáveis os montantes comparativos apresentados nessas
+demonstrações.
+Está correto o que se afirma em
+AI, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+
+Comentários:
+
+Questão literal do CPC 26:
+
+            36. O conjunto completo das demonstrações contábeis deve ser apresentado pelo menos
+            anualmente (inclusive informação comparativa). Quando se altera a data de encerramento
+            das demonstrações contábeis da entidade e as demonstrações contábeis são apresentadas
+            para um período mais longo ou mais curto do que um ano, a entidade deve divulgar, além
+            do período abrangido pelas demonstrações contábeis:
+
+            (a) a razão para usar um período mais longo ou mais curto; e
+
+            (b) o fato de que não são inteiramente comparáveis os montantes comparativos
+            apresentados nessas demonstrações
+
+Nota-se que os três itens estão certos.
+
+Gabarito: E
+
+3. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, as
+demonstrações contábeis são uma representação estruturada da posição patrimonial e financeira e do
+desempenho da entidade. O objetivo das demonstrações contábeis é o de proporcionar informação acerca
+da posição patrimonial e financeira, do desempenho e dos fluxos de caixa da entidade que seja útil a um
+grande número de usuários em suas avaliações e tomada de decisões econômicas.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+            www.estrategiaconcursos.com.br
+                                                                                                     6
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+Avalie se tais demonstrações contábeis estão incluídas no Conjunto completo de demonstrações
+contábeis:
+I. demonstração do resultado do período;
+II. demonstração dos fluxos de caixa do período
+III. demonstração dos lucros ou prejuízos acumulados do período.
+Está correto o que se afirma em
+A I, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+
+Comentários:
+
+O CPC 26 – Apresentação das demonstrações contábeis – diverge da Lei 6.404/76 em alguns pontos. Vamos
+ver o que diz o Pronunciamento Contábil?
+
+                                   Conjunto completo de demonstrações contábeis
+
+            10. O conjunto completo de demonstrações contábeis inclui:
+
+            (a) balanço patrimonial ao final do período;
+
+            (b1) demonstração do resultado do período;
+
+            (b2) demonstração do resultado abrangente do período;
+
+            (c) demonstração das mutações do patrimônio líquido do período;
+
+            (d) demonstração dos fluxos de caixa do período;
+
+            (e) notas explicativas, compreendendo um resumo das políticas contábeis significativas e
+            outras informações elucidativas;
+
+            (ea) informações comparativas com o período anterior, conforme especificado nos itens 38
+            e 38A; (Incluída pela Revisão CPC 03)
+
+            (f) balanço patrimonial do início do período mais antigo, comparativamente apresentado,
+            quando a entidade aplicar uma política contábil retrospectivamente ou proceder à
+            reapresentação retrospectiva de itens das demonstrações contábeis, ou quando proceder
+            à reclassificação de itens de suas demonstrações contábeis de acordo com os itens 40A a
+            40D; e (Alterada pela Revisão CPC 03)
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+            www.estrategiaconcursos.com.br
+                                                                                                       7
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+           (f1) demonstração do valor adicionado do período, conforme Pronunciamento Técnico CPC
+           09, se exigido legalmente ou por algum órgão regulador ou mesmo se apresentada
+           voluntariamente. (Alterada pela Revisão CPC 03)
+
+Esquematizemos:
+
+
+                   Demonstrações Contábeis Obrigatórias pelo CPC 26
+
+                                                       Demonstração
+                  Demonstração do   Demonstração do                     Demonstração
+    Balanço                                           das Mutações do                                        Demonstração do
+                    Resultado do       Resultado                        dos Fluxos de   Notas Explicativas
+   Patrimonial                                          Patrimônio                                           Valor Adicionado
+                      Exercício       Abrangente                            Caixa
+                                                          Líquido
+
+Veja que este Pronunciamento Técnico não faz qualquer referência à DLPA no conjunto completo das
+demonstrações contábeis. Assim, o item III é falso.
+
+Tome nota!
+
+   •     Lei SA: DLPA obrigatória
+   •     Pronunciamentos do CPC: DMPL obrigatória
+
+Gabarito: B
+
+4. De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações Contábeis, a
+entidade deve elaborar as suas demonstrações contábeis utilizando-se do regime de competência.
+Todavia, à exceção de uma. Assinale-a.
+a) balanço patrimonial
+b) demonstração do resultado
+c) demonstração do resultado abrangente
+d) demonstração das mutações do patrimônio líquido
+e) demonstração dos fluxos de caixa
+
+Comentários:
+
+Nas palavras desse pronunciamento:
+
+           Regime de competência
+
+           27. A entidade deve elaborar as suas demonstrações contábeis, exceto para a
+           demonstração dos fluxos de caixa, utilizando-se do regime de competência.
+
+Gabarito: E
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+          www.estrategiaconcursos.com.br
+                                                                                                                                8
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 23
+
+5. O Pronunciamento Técnico CPC 26 (R1) - Apresentação das Demonstrações Contábeis, aborda algumas
+informações sobre Materialidade e Agregação.
+Avalie se tais informações incluem:
+I. A entidade deve apresentar separadamente nas demonstrações contábeis cada classe material de itens
+semelhantes
+II. A entidade deve apresentar separadamente os itens materiais de natureza ou função distinta
+III. A entidade deve apresentar separadamente os itens imateriais de natureza ou função distinta
+Está correto o que se afirma em
+AI, somente.
+B I e II, somente.
+C I e III, somente.
+D II e III, somente.
+E I, II e III.
+
+Comentários:
+
+Observemos o item 29 do CPC 26:
+
+            Materialidade e agregação
+
+            29. A entidade deve apresentar separadamente nas demonstrações contábeis cada classe
+            material de itens semelhantes. A entidade deve apresentar separadamente os itens de
+            natureza ou função distinta, a menos que sejam imateriais.
+
+A única alternativa que não enseja a apresentação separada seria o item III. Podemos entender que não se
+deve apresentar separadamente os itens materiais de natureza ou função distinta quando eles forem
+imateriais.
+
+Gabarito: B
+
+6. De acordo com inclusão feita pela Lei nº 11.638/07 na Lei nº 6.404/64, assinale a opção que indica a
+classificação no ativo imobilizado
+A Direitos que tenham por objeto bens destinados à manutenção das atividades da companhia e da empresa,
+ou exercidos com essa finalidade, inclusive os de propriedade industrial ou comercial
+B Direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia ou exercidos
+com essa finalidade, inclusive o fundo de comércio adquirido.
+C Despesas pré-operacionais e os gastos de reestruturação que contribuirão, efetivamente, para o aumento
+do resultado de mais de um exercício social e que não configurem tão-somente uma redução de custos ou
+acréscimo na eficiência operacional
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+            www.estrategiaconcursos.com.br
+                                                                                                      9
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+D Direitos que tenham por objeto bens destinados à manutenção das atividades da companhia e da
+sociedade empresária, ou exercidos com essa finalidade, inclusive os de propriedade industrial ou comercial.
+E Direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da companhia
+ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram à
+companhia os benefícios, riscos e controle desses bens.
+
+Comentários:
+
+Vejamos o texto da lei:
+
+         Ativo
+
+         Art. 179. As contas serão classificadas do seguinte modo:
+
+         I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social
+         subsequente e as aplicações de recursos em despesas do exercício seguinte;
+
+         II - no ativo realizável a longo prazo: os direitos realizáveis após o término do exercício
+         seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a
+         sociedades coligadas ou controladas (artigo 243), diretores, acionistas ou participantes no
+         lucro da companhia, que não constituírem negócios usuais na exploração do objeto da
+         companhia;
+
+         III - em investimentos: as participações permanentes em outras sociedades e os direitos de
+         qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à
+         manutenção da atividade da companhia ou da empresa;
+
+         IV - no ativo imobilizado: os direitos que tenham por objeto bens destinados à manutenção
+         das atividades da companhia e da empresa, ou exercidos com essa finalidade, inclusive os
+         de propriedade industrial ou comercial;
+
+         IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados
+         à manutenção das atividades da companhia ou da empresa ou exercidos com essa
+         finalidade, inclusive os decorrentes de operações que transfiram à companhia os
+         benefícios, riscos e controle desses bens;    (Redação dada pela Lei nº 11.638,de 2007)
+
+         V - no ativo diferido: as aplicações de recursos em despesas que contribuirão para a
+         formação do resultado de mais de um exercício social, inclusive os juros pagos ou
+         creditados aos acionistas durante o período que anteceder o início das operações sociais.
+
+         V – no diferido: as despesas pré-operacionais e os gastos de reestruturação que
+         contribuirão, efetivamente, para o aumento do resultado de mais de um exercício social e
+         que não configurem tão-somente uma redução de custos ou acréscimo na eficiência
+         operacional;            (Redação dada pela Lei nº 11.638,de 2007)           (Revogado
+         pela Medida Provisória nº 449, de 2008) (Revogado pela Lei nº 11.941, de 2009)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                              10
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+         VI – no intangível: os direitos que tenham por objeto bens incorpóreos destinados à
+         manutenção da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio
+         adquirido. (Incluído pela Lei nº 11.638,de 2007)
+
+Veja que o quesito solicitou a definição após as alterações na lei 6.404/76 provocadas pela lei 11.638/07.
+Isso torna a letra a falsa, visto que seria a definição anterior.
+
+Gabarito: E
+
+7. A empresa Magalhães SA. determinou em 19/01/2023 que irá deixar de operar, por conta da
+deterioração de sua situação financeira.
+Nesse caso, o pressuposto de continuidade
+a) deve continuar sendo seguido até a confirmação da situação.
+b) deve continuar sendo seguido até a divulgação da opinião do auditor independente.
+c) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/2021.
+d) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/01/2022.
+e) não deve ser seguido a partir das demonstrações contábeis encerradas em 31/12/X2.
+
+Comentários:
+
+A Estrutura Conceitual Básica (CPC 00) nos apresenta o conceito de continuidade operacional.
+
+         Premissa de continuidade operacional
+
+         3.9 As demonstrações contábeis são normalmente elaboradas com base na suposição de
+         que a entidade que reporta está em continuidade operacional e continuará em operação
+         no futuro previsível. Assim, presume-se que a entidade não tem a intenção nem a
+         necessidade de entrar em liquidação ou deixar de negociar. Se existe essa intenção ou
+         necessidade, as demonstrações contábeis podem ter que ser elaboradas em base
+         diferente. Em caso afirmativo, as demonstrações contábeis descrevem a base utilizada.
+
+Precisamos entender que a continuidade afeta diretamente a avaliação de elementos das demonstrações
+contábeis. Se a entidade pretende continuar suas atividades, geralmente seus ativos, passivos e patrimônio
+líquido são avaliados a valor de entrada.
+
+Todavia, se há uma expectativa ou necessidade de liquidação da entidade, seus elementos das
+demonstrações contábeis podem ser avaliados em outras bases, como por exemplo, valores de saída.
+
+Voltando para a nossa questão, ela determinou em 19/01/2023 que irá deixar de operar, por conta da
+deterioração de sua situação financeira. Assim sendo, as demonstrações contábeis de períodos já
+encerrados, como por exemplo, 2022, não devem ser afetadas por essa mudança de critério de avaliação.
+
+Gabarito: C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                       11
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+8. Uma entidade produz e vende bicicletas para triatlo. Em março de 2023, ela recebeu R$30.000 de um
+cliente pela compra de uma bicicleta que deverá ser entregue em maio do mesmo ano. Os custos para a
+produção da bicicleta, que será iniciada em abril, estão estimados em R$5.000.
+Assinale a opção que indica o impacto no balanço patrimonial da entidade em março de 2023.
+(A) Aumento no ativo: R$30.000; Aumento no passivo: R$30.000.
+(B) Aumento no ativo: R$30.000; Aumento no passivo: R$35.000.
+(C) Aumento no ativo: R$25.000; Aumento no patrimônio líquido: R$35.000.
+(D) Aumento no ativo: R$25.000; Aumento no patrimônio líquido: R$25.000.
+(E) Aumento no ativo: R$30.000; Aumento no passivo: R$5.000; Aumento no patrimônio líquido: R$25.000.
+
+Comentários:
+
+Questão que trata do Regime de Competência. Por esse critério, as receitas serão reconhecidas pela entidade
+quando ganhas, ainda que não recebidas. E isso irá acontecer quando as roupas forem entregues.
+
+Nesse sentido, os custos de produção serão apropriados ao resultado como despesas ao mesmo tempo que
+as receitas geradas: “simultaneidade de receitas e despesas”. E esse reconhecimento ocorrerá
+independente de quando ocorrer o pagamento.
+
+A questão fala que em março de 2023, a entidade recebeu R$30.000 de um cliente pela compra de uma
+bicicleta que deverá ser entregue em maio do mesmo ano.
+
+Ou seja, houve aumento do ativo pelo recebimento antecipado, todavia, não vamos reconhecer uma receita
+ainda, mas um passivo, uma receita ANTECIPADA, pois a entidade tem agora a obrigação de produzir e
+entregar as roupas.
+
+Contabilização em março:
+
+Débito - Aumento no ativo: R$30.000;
+Crédito - Aumento no passivo: R$30.000.
+
+Gabarito: A
+
+9. A construtora Piscou Construiu tinha um ônibus que era utilizada para o deslocamento de seus
+funcionários. O ônibus foi comprado em 01/01/2018 por R$700.000 e tinha vida útil avaliada em 10 anos.
+A construtora não estimava valor residual e depreciava os seus ativos imobilizados de acordo com o
+método da linha reta.
+Em 31/12/2022, a construtora estimou que o valor justo líquido de despesas de venda do ônibus era de
+R$600.000. Já o valor em uso era de R$400.000.
+Assinale a opção que indica se há necessidade de reconhecimento de uma despesa relacionada à perda por
+recuperabilidade da van e, caso, positivo, por qual valor.
+(A) Sim. R$10.000.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                        12
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+(B) Sim. R$15.000.
+(C) Sim. R$20.000.
+(D) Sim. R$35.000.
+(E) Não há.
+
+Comentários:
+
+Questão de aplicação direta do teste de Recuperabilidade previsto no CPC 01. O examinador nos ofereceu:
+
+Valor justo líquido de despesas de venda: R$600.000.
+
+Valor em uso: $400.000
+
+O valor recuperável do ativo é o maior entre os dois: R$ 600.000.
+
+O valor contábil do ônibus seria o custo menos a depreciação acumulada até o momento do teste. A vida útil
+do ativo era de 10 anos e ele foi usado por 4 anos, ou seja, 4/10 = 40% de sua vida útil. Assim sendo, a
+depreciação acumulada do ativo era de 700.000 x 0,40 = R$ 280.000 e o valor contábil seria de 700.000 –
+280.000 = R$ 420.000,00.
+
+Percebam que o valor contábil do ativo é de R$ 420.000 e o valor recuperável é maior, R$ 600.000, portanto,
+não há perda por recuperabilidade a ser registrada.
+
+Gabarito: E
+
+10. Uma sociedade empresária tinha como atividade fim a prestação de serviços de fisioterapia. Ela
+possuía um prédio de 5 andares, que funcionava do seguinte modo:
+   •   Andar 1: aluguel para uma armazém de produtos naturais
+   •   Andar 2: prestação de serviços
+   •   Andares 3 a 5: aluguel para que terceiros residam
+Cada andar do prédio era avaliado por R$1 milhão
+Assinale a opção que indica a contabilização relacionada ao prédio no balanço patrimonial da sociedade
+empresária:
+(A) Ativo Imobilizado- R$ 5 milhões.
+(B) Investimentos- R$5 milhões
+(C) Investimentos- R$4 milhões e Ativo Imobilizado- R$ 1 milhões.
+(D) Investimentos- R$3 milhões e Ativo Imobilizado- R$ 2 milhões.
+(E) Investimentos- R$2 milhões e Ativo Imobilizado- R$ 3 milhões.
+
+Comentários:
+
+Feita essa revisão, vamos analisar a questão:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                        13
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+Andar 1: aluguel para um armazém de produtos naturais → Propriedade para Investimento, pois a intenção
+é obter renda por meio do aluguel: 1 andar x R$ 1 milhão = R$ 1 milhão
+
+Andar 2: prestação de serviços → trata-se de Ativo Imobilizado, pois é um ativo usado na prestação de
+serviços. 1 andar x R$ 1 milhão = R$ 1 milhão
+
+Andares 3 a 5: aluguel para que terceiros residam aluguel para que terceiros residam → Propriedade para
+Investimento, pois não há vinculação à atividade principal da empresa. A intenção é obter renda por meio
+do aluguel: 3 andares x R$ 1 milhão = R$ 3 milhões.
+
+Assim, temos:
+
+Ativo Imobilizado = 1 andar =R$ 1 milhão
+
+Propriedade para Investimento = 1 + 3 = 4 milhões.
+
+Gabarito: C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                     14
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 23
+
+Gabarito
+
+                                           Número da Questão Gabarito
+                                                   1            E
+                                                   2            E
+                                                   3            B
+                                                   4            E
+                                                   5            B
+                                                   6            E
+                                                   7            C
+                                                   8            A
+                                                   9            E
+                                                  10            C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                          15
+                                      
+
+
+---
+
+---

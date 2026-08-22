@@ -1,0 +1,1809 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Trilhas Estratégicas, Simulados e Monitoria
+tags:
+- trilhas
+- planejamento
+- simulados
+- ciclo_estudos
+arquivo_origem: Aula 34_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '34'
+titulo_aula: Livro Eletrônico
+artigos_citados:
+- art. 136
+- art. 137.
+- art. 144
+- art. 155
+- art. 194
+- art.150
+sumulas_citadas:
+- Súmula 647
+- Súmula Vinculante 32
+- Súmula Vinculante 48
+---
+
+# Livro Eletrônico
+
+Livro Eletrônico
+
+                               Trilha 32
+
+Receita Federal (Analista Tributário) Trilha Estratégica
+Professor: Guilherme Carvalho, Glesler Sales Maldonado
+
+                  
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+TRILHA ESTRATÉGICA - ANALISTA-TRIBUTÁRIO DA
+         RECEITA FEDERAL DO BRASIL
+Olá, pessoal!
+
+Esperamos que os estudos estejam em dia.
+
+Nessa semana, iniciaremos a Trilha Estratégica nº 32 para o concurso de Analista-Tributário da
+Receita Federal do Brasil e, esta semana, iniciaremos duas novas disciplinas: Estatística e
+Administração Pública. É, as coisas começaram a esquentar [rs]. 😃
+
+Caso vocês ainda não tenham terminado a Trilha nº 31, não se preocupem! Finalizem aquela e, aí
+sim, comecem a Trilha dessa semana.
+
+              "90% do sucesso se baseia simplesmente em insistir"
+
+Não se esqueçam do link da nossa Comunidade de Alunos da Receita Federal no Telegram. Vocês
+podem fazer a inscrição clicando no endereço eletrônico logo abaixo:
+
+                      Inscreva-se na Comunidade de alunos da Receita Federal
+
+                                      
+
+Agora, sem mais delongas, vamos aos estudos, vamos detonar esta Trilha!
+
+A cada dia que passa que passa, você está mais próximo de se tornar Analista-Tributário da
+Receita Federal do Brasil.
+
+                                                                                            1
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                              TRILHA ESTRATÉGICA 32
+Disponibilizaremos, individualmente, nesta seção, as Trilhas de cada uma das disciplinas
+trabalhadas por nós. O objetivo é que o aluno possa fazer ajustes no seu estudo a depender do
+nível em que ele está em determinada matéria.
+
+                   Matéria                                                   Trilha de Disciplina
+    Administração de Compras e Materiais                              http://estrategi.ac/s8pmuf
+         Administração Financeira                                      http://estrategi.ac/i49ply
+            Administração Geral                                        http://estrategi.ac/zjquiu
+           Administração Pública                                      http://estrategi.ac/hhtwx0
+                Contabilidade                                         http://estrategi.ac/6as99x
+           Direito Administrativo                                      http://estrategi.ac/zft0pi
+           Direito Constitucional                                          http://estrategi.ac/asslij
+            Direito Previdenciário                                     http://estrategi.ac/vsr4dq
+              Direito Tributário                                       http://estrategi.ac/tf1qes
+                  Estatística                                          http://estrategi.ac/b5lzpu
+             Fluência em Dados                                             http://estrategi.ac/xj5lzf
+                    Inglês                                             http://estrategi.ac/e83itz
+            Legislação Aduaneira                                       http://estrategi.ac/b69jaf
+            Legislação Tributária                                      http://estrategi.ac/ib6bq3
+                  Português                                            http://estrategi.ac/5jbbzt
+       Raciocínio Lógico Matemático                                    http://estrategi.ac/6ld8x9
+
+                                                                                                        2
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Segue resumo das tarefas que abordaremos nesta trilha.
+
+  Tarefa          Disciplina                                       Resumo das tarefas
+
+489           Português             Estudo da aula 14, de “Interpretação e Compreensão” até o final
+                                    da teoria.
+
+490           Contabilidade         Prática de exercícios da aula 23 - Resolução de 15 questões do
+                                    PDF.
+
+491           Dir. Tributário       Estudo da aula 14, do início até “ICMS sobre Combustíveis e
+                                    Lubrificantes”, inclusive.
+
+492           Constitucional        Estudo da aula 14, do item “Conselho Nacional do Ministério
+                                    Público (CNMP)” ao final da teoria; e resolução de 21 questões.
+
+493           RLM                   Revisão e resolução de 10 questões da aula 25 (PDF).
+
+494           Dir. Admin.           Revisão da Aula 20 e resolução de 22 questões do PDF.
+
+495           Leg. Tributária       Estudo da aula 02, de “Recolhimento do IPI” até o final da parte
+                                    teórica.
+
+496           Adm. Geral            Estudo da aula 02, do início ao tópico “Tipos de Planejamento”
+                                    (inclusive); e resolução de 13 questões.
+
+497           Dir. Prev.            Estudo da aula 00; do tópico “Diversidade da Base de
+                                    Financiamento” até o final da aula.
+
+498           Leg. Aduaneira Revisão da Aula 00; e resolução de 31 questões do PDF.
+
+499           Estatística           Estudo completo da aula 00.
+
+500           Adm. Pública          Estudo da aula 00, de “Estado x Governo x Administração
+                                    Pública” até “Administração Pública Patrimonialista -
+                                    Patrimonialismo”; e resolução de questões do PDF.
+
+501           Português             Revisão da aula 14 e resolução de questões.
+
+502           Contabilidade         Estudo da aula 24 (toda teoria); e resolução de 5 questões do
+                                    PDF.
+
+503           Dir. Tributário       Estudo da aula 14, de “O papel da Lei Complementar em relação
+                                    ao ICMS” até o fim da parte teórica.
+
+504           Constitucional        Estudo de toda a teoria da aula 15 (Defesa do Estado e das
+                                    Instituições Democráticas).
+
+505           RLM                   Treino da aula 25 - resolução de 21 questões do Sistema de
+                                    Questões.
+
+                                                                                                   3
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+ Guilherme Carvalho, Glesler Sales Maldonado
+ Trilha 32
+
+506          Dir. Admin.           Treino da Aula 20 a partir da Resolução de 40 questões do PDF.
+
+507          Leg. Tributária       Revisão da aula 02 e resolução de 33 questões.
+
+508          Adm. Geral            Estudo da aula 02, do tópico “Estratégia” até o final.
+
+509          Dir. Prev.            Resolução de 40 questões da aula 00.
+
+510          Leg. Aduaneira Estudo da teoria da Aula 01, de Regramento Constitucional e
+                            Legislação Específica até Pagamento; e resolução de 10
+                            questões do PDF.
+
+511          Estatística           Resolução de 20 questões da aula 00.
+
+512          Adm. Pública          Estudo da aula 00, de “Administração Pública Burocrática -
+                                   Burocracia” até o final da aula; e resolução de questões do PDF.
+
+                                                                                                  4
+       Receita Federal (Analista Tributário) Trilha Estratégica
+       www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 489
+
+                                                     Português
+
+Estudo da aula 14, de “Interpretação e Compreensão” até o final da teoria.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Para finalizarmos a aula, abordaremos a INTERPRETAÇÃO e COMPREENSÃO DE TEXTOS.
+Antemão, entenda que há diferença entre os dois tópicos. Em suma, a compreensão de texto
+trabalha com as frases e ideias escritas no texto, ou seja, aspectos visíveis/explícitos, enquanto a
+interpretação de textos trabalha com a subjetividade, ou seja, entendimento do texto.
+
+Em relação à interpretação de texto, perceba que, apesar da subjetividade, não podemos resolver
+questões somente no “achismo”. Temos que fundamentar o julgamento através de informações
+implícitas e explícitas no texto. Por fim, o professor explica, de forma objetiva, algumas táticas de
+interpretação, as quais são importantíssimas para não extrapolar ou restringir a ideia central do
+texto.
+
+No tocante à compreensão de texto, entenda que consiste em analisar o que realmente está
+escrito, ou seja, coletar dados do texto. Atente para alguns comandos de compreensão, que são:
+Segundo o texto... O autor/narrador do texto diz que... O texto informa que... No texto... Tendo
+em vista o texto... De acordo com o texto... O autor afirma que... Na opinião do autor do texto...
+
+É extremamente relevante que você preste bastante atenção nos enunciados das questões. Para
+esse assunto, o aprendizado virá através do treino e resolução dos exercícios.
+
+Resolva as questões que aparecem ao longo da teoria.
+
+                                                                                                   5
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 490
+
+                                    Contabilidade Geral e Avançada
+
+Prática de exercícios da aula 23 - Resolução de 15 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Inicialmente, faça uma breve revisão do conteúdo estudado na aula. Você pode fazer isso por meio
+de suas marcações e/ou pela leitura do resumo da aula
+
+Em seguida, resolva as seguintes questões presentes ao final do PDF, marcando aquelas que tiver
+dúvida:
+
+CPC 32 – FGV: 1 a 5
+
+CPC 32 – Multibancas: 1 a 10
+
+A seguir, vá até a seção de Questões Comentadas e estude os comentários daquelas que errar ou
+que tiver qualquer tipo de dúvida. Isso é fundamental para internalizar o conteúdo, sanar
+dificuldades e acertar questões similares futuramente. Todas essas questões devem ser marcadas
+para serem resolvidas novamente em futuras revisões.
+
+Feito isso, quero que você volte ao seu PDF, e verifique a qualidade dos seus grifos, para
+melhorá-los, se for o caso (“tudo que foi cobrado nas questões, estava grifado em meu material?”).
+Afinal, agora você já domina melhor o conteúdo, e tem maior conhecimento sobre a forma como
+a matéria é cobrada.
+
+                                                                                                6
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 491
+
+                                                Direito Tributário
+
+Estudo da aula 14, do início até “ICMS sobre Combustíveis e Lubrificantes”, inclusive.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Nesta tarefa, serão estudados os seguintes assuntos: impostos de competência dos Estados e
+Distrito Federal (parte 1).
+
+Sugere-se que este estudo seja feito em duas etapas:
+
+1) Primeiramente, faça uma leitura rápida de todas as páginas indicadas, sem se preocupar em
+fazer marcações, anotações e/ou resumos. A ideia é que o aluno tenha um primeiro contato com
+o novo conteúdo, em outras palavras, uma visão panorâmica acerca do que será estudado.
+
+2) Descanse um pouco (no máximo 15 minutos).
+
+3) Em seguida, faça um estudo mais minucioso, buscando ter atenção aos destaques dados pelo
+professor. Aproveite a oportunidade para fazer suas marcações, anotações no próprio pdf e/ou
+resumos, de forma que esse material sirva para futuras revisões.
+
+Em relação ao conteúdo desta tarefa, tenha atenção aos seguintes pontos:
+
+De todos os impostos, o mais cobrado é o ICMS, com 6,63% de incidência.
+
+Os Estados somente possuem competência para instituir três impostos, quais sejam: imposto sobre
+transmissão causa mortis e doação, de quaisquer bens ou direitos (ITCMD ou ITCD); imposto sobre
+operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte
+interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem
+no exterior (ICMS); e imposto sobre propriedade de veículos automotores (IPVA).
+
+De todos os impostos, o mais cobrado é o ICMS, com 6,63% de incidência.
+
+O ICMS deve ser não cumulativo e pode ser seletivo. O IPI deve ser não cumulativo e deve ser
+seletivo.
+
+A energia elétrica pode ser entendida como mercadoria, para fins de incidência de ICMS.
+
+Súmula STF 573 - Não constitui fato gerador do imposto de circulação de mercadorias a saída física
+de máquinas, utensílios e implementos a título de comodato.
+
+                                                                                                7
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Súmula STJ 166 - Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de
+um para outro estabelecimento do mesmo contribuinte.
+
+Em relação aos transportes intramunicipais ou inframunicipais (dentro do próprio município), incide
+ISS!
+
+Súmula Vinculante 48 - Na entrada de mercadoria importada do exterior, é legítima a cobrança do
+ICMS por ocasião do desembaraço aduaneiro.
+
+Em relação ao ICMS:
+
+Em relação às operações interestaduais, é muito importante você entender o seguinte:
+
+Quanto às alíquotas internas:
+
+                                                                                                 8
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Apenas se sujeitam ao ICMS monofásico os combustíveis e lubrificantes, definidos em lei
+complementar.
+
+                                                                                     9
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 492
+
+                                            Direito Constitucional
+
+Estudo da aula 14, do item “Conselho Nacional do Ministério Público (CNMP)” ao
+final da teoria; e resolução de 21 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Dando continuidade ao estudo da aula, temos que saber que o Conselho Nacional do Ministério
+Público (CNMP) é órgão de controle externo do MP e, devido a isso, não integra o MP. Veja quem
+compõe a lista de membros e algumas observações importantes sobre eles. Outro ponto muito
+importante do CNMP são suas competências, leia com calma para fixá-las.
+
+Ao final da leitura, resolva as todas as questões da aula, com o intuito de reforçar o que foi lido
+na teoria e já conhecer como as bancas costumam explorar tais assuntos.
+
+Sugiro que você resolva as questões pela lista com comentários, leia todas as alternativas antes de
+marcar o gabarito e só então veja a resposta. Isso vai ajudá-lo a ir se apropriando do conteúdo.
+Depois, leia os comentários do professor e grife o que julgar importante para futuras revisões.
+
+E não esqueça de deixar assinaladas as questões que você errar, ou responder com dúvida. Elas
+serão muito úteis nas nossas revisões.
+
+                                                                                               10
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 493
+
+                                      Raciocínio Lógico Matemático
+
+Revisão e resolução de 10 questões da aula 25 (PDF).
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Vamos fazer uma revisão de alguns assuntos vistos até agora através de exercícios do nosso PDF.
+Faça a sua revisão através de seu próprio material, do Passo Estratégico ou do PDF de Marcação
+dos Aprovados e logo parta para os exercícios.
+
+Por fim, resolva as seguintes questões:
+
+- No tópico “Questões Comentadas - Ponto - FGV”, resolva as seguintes questões: 06 a 10.
+
+- No tópico “Questões Comentadas - Reta - FGV”, resolva as seguintes questões: 06 a 10.
+
+Caso tenha dificuldade em algum ponto específico, faça uma revisão mais aprofundada da teoria
+da aula.
+
+                                                                                            11
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 494
+
+                                            Direito Administrativo
+
+Revisão da Aula 20 e resolução de 22 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Para esta tarefa quero que você:
+
+1. Faça a revisão da aula referenciada na tarefa. Para isso, revise na íntegra todo o conteúdo
+referente à parte teórica de toda a aula, atentando-se principalmente aos pontos de atenção que
+estiverem em foco e se aproveitando das observações abaixo.
+
+2. Após, a fim de reforçar o conteúdo revisado, resolva as questões de nº 01 a 22 presentes ao
+final do seu PDF, recorrendo ao comentário do professor naquelas que errar ou ficar em dúvidas.
+
+Observação 1: Ao realizar as questões, procure resolvê-las de forma proativa: antes de marcar o
+gabarito, fale para você mesmo a JUSTIFICATIVA pela sua resposta. Isso vai ajudá-lo demais a
+consolidar o conteúdo. Depois leia os comentários do professor e melhore seus grifos/resumos no
+que julgar importante para futuras revisões.
+
+Observação 2: Quanto à revisão, você pode fazer de 3 formas diferentes:
+
+OPÇÃO DE REVISÃO 1: Caso você vá fazer a revisão pelo PDF com Marcação (dos Aprovados,
+ou o grifado por você), comece lendo os grifos relativos à parte teórica de toda a aula, atentando-
+se principalmente aos pontos que foram destacados.
+
+OPÇÃO DE REVISÃO 2: Caso tenha disponível no seu curso e você prefira cumprir a tarefa pelo
+PDF Simplificado, leia na íntegra todo o conteúdo referente à parte teórica de toda a aula,
+atentando-se principalmente aos pontos de atenção destacados pelo professor.
+
+OPÇÃO DE REVISÃO 3: Caso tenha disponível no seu curso e você prefira cumprir a tarefa pelo
+Passo Estratégico, leia na íntegra todo o relatório do Passo feito pelo analista e resolva as questões
+estratégicas.
+
+                                                                                                  12
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 495
+
+                                             Legislação Tributária
+
+Estudo da aula 02, de “Recolhimento do IPI” até o final da parte teórica.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244720/aulas
+
+Estude sobre o “recolhimento do IPI” e o “IPI na importação”.
+
+O fato gerador do IPI é instantâneo, ocorre a todo momento, desde que verificada no mundo real
+a situação descrita na lei. A partir desta definição, entenda como ocorre a sistemática do período
+de apuração deste tributo.
+
+Primeiro é importante saber como é calculado o valor a recolher. Aqui, deve saber diferenciar
+alíquotas ad valorem e específicas e veja a especificidade do cálculo em caso de importação.
+
+Para facilitar a memorização dos prazos de recolhimento deste tributo, esteja atento a este
+esquema:
+
+Um dos temas mais comuns em provas é o “IPI na Importação”. Portanto, fique atento a ele.
+Observe que, neste caso, o IPI é devido independente da finalidade a que se destine o produto
+ou o título jurídico a que se faça a importação.
+
+Veja que há a incidência mesmo quando a mercadoria for extraviada.
+
+Conheça os casos de não incidência do IPI na importação e entenda o limite de 1% para
+verificação de importação de mercadoria a granel que não é considerado para efeitos de
+tributação.
+
+Decore a base de cálculo do IPI na importação:
+
+
+                                                                                              13
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+BC do IPI na Importação: BC do II + II + Encargos Cambiais.
+
+                                                                           14
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 496
+
+                                             Administração Geral
+
+Estudo da aula 02, do início ao tópico “Tipos de Planejamento” (inclusive); e resolução de
+13 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244717/aulas
+
+O assunto dessa aula é de extrema importância dentro do nosso programa: Planejamento! Assim,
+é de suma importância ter atenção absoluta a todos os pontos dessa aula.
+
+Dando início, saiba o conceito de planejamento trazido pelo professor, bem como a diferenciação
+de Planejamento e Plano! Saiba os 3 tipos de filosofia do planejamento, mas você pode ir direto
+para a pág. seguinte e decorar os detalhes do esquema apresentado.
+
+Sobre os diversos princípios de planejamento, temos que são conceitos muito pouco cobrados,
+então basta que você tenha uma noção. Pode pular essas páginas e ir direto o esquema
+apresentado pelo professor.
+
+Prosseguindo, estude as vantagens do planejamento. Tente apenas se ater às características que
+você não achar triviais. Por exemplo “dar um norte” é trivial, pois é claro que o planejamento
+proporciona a direção para a empresa. Então você não precisaria ficar decorando isso, caso visse
+numa alternativa, seria de fácil dedução. Digo isso para você só gastar energia e ocupar espaço no
+seu “HD” (cérebro), com o que for necessário.
+
+Quanto às etapas do planejamento, o professor nos trouxe a visão de Chiavenato, autor muito
+cobrado, podem decorar o esquema. Após, temos um dos pontos mais importantes da aula: os
+níveis do planejamento. O que mais cai em provas. Assim, leia com muita atenção até o final,
+decorando as características que os diferenciam. Por fim, o professor nos brinda com um esquema
+excelente para decorarmos.
+
+Resolva as questões: 1,2,3,4,5,6,7,8,9,10,13,16 e 23.
+
+                                                                                              15
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 497
+
+                                            Direito Previdenciário
+
+Estudo da aula 00; do tópico “Diversidade da Base de Financiamento” até o final da aula.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244727/aulas
+
+Comece a leitura no item (Diversidade da Base de Financiamento.
+
+Muita atenção, pois as bancas adoram inverter as nomenclaturas dos princípios constitucionais,
+listados no art. 194, com intuito de confundir os candidatos desatentos. Por exemplo: trocam
+universalidade por uniformidade; universalidade por diversidade.
+
+No item Caráter Democrático e Descentralizado da Administração, Mediante Gestão
+Quadripartite, com Participação dos Trabalhadores, dos Empregadores, dos Aposentados e
+do Governo nos Órgãos Colegiados o quadro resumido e o “fique atento” são completos para o
+entendimento do princípio.
+
+Fique atento as palavras-chave:
+
+- Caráter Democrático e Descentralizado
+
+- Gestão Quadripartite com participação dos trabalhadores, empregadores, aposentados e do
+governo.
+
+As questões irão tentar lhe confundir, trocando essas palavras.
+
+Para o princípio da solidariedade, saiba que o citado princípio busca reduzir as desigualdades
+sociais e quem contribui não o faz para si, mas para toda a sociedade.
+
+As contribuições para a Seguridade Social, precisam respeitar o prazo de 90 dias (Princípio da
+Anterioridade Nonagesimal ou Mitigada), contados da publicação da lei que houver instituído ou
+modificado (majorado) a contribuição social, não havendo necessidade de se respeitar o “princípio
+da anterioridade”, previsto no art.150, III, “b” da CF/88.
+
+Veja a jurisprudência do STF, relacionado ao subitem Anterioridade Nonagesimal ou Mitigada,
+entendendo a exemplificação citada.
+
+Veja o quadro esquematizado no item QUADRO DE PALAVRAS-CHAVE:
+
+                                                                                              16
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Faça as questões as questões no decorrer da aula.
+
+                                                                           17
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 498
+
+                                            Legislação Aduaneira
+
+Revisão da Aula 00; e resolução de 31 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244716/aulas
+
+Revise o conteúdo da Aula 00 utilizando seus grifos. Se preferir, pode utilizar os PDF Marcação
+dos Aprovados ou PDF Simplificado.
+
+Na sequência, resolva as seguintes questões no PDF Original:
+
+- 01 a 02 (ímpares) – Comércio Exterior Brasileiro;
+
+- 01 a 05 (ímpares) – O Sistema Integrado de Comércio Exterior;
+
+- 01 a 02 (ímpares) – Considerações sobre Legislação Aduaneira;
+
+- 01 a 27 (ímpares) – Jurisdição Aduaneira;
+
+- 01 a 23 (ímpares) – Controle Aduaneiro de Veículos;
+
+Lembre-se de resolver as questões pela lista com comentários e, antes de marcar o gabarito, fale
+para você mesmo a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se apropriar
+do conteúdo. Depois leia os comentários do professor e melhore seus grifos e resumo no que
+julgar importante para as futuras revisões.
+
+Não esqueça de deixar assinaladas as questões que você errar ou responder com dúvida.
+Voltaremos a elas futuramente.
+
+Feito isso, volte ao seu PDF e verifique a qualidade dos seus grifos para melhorá-los, se for o
+caso.
+
+                                                                                              18
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+    Guilherme Carvalho, Glesler Sales Maldonado
+    Trilha 32
+
+                                                    TAREFA 499
+
+                                                       Estatística
+
+Estudo completo da aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244712/aulas
+
+Olá! Daremos início ao estudo de Estatística para o concurso da Receita Federal. Ao longo dessa
+trilha estudaremos, de forma sequencial e planejada, praticamente todos os assuntos contidos nas
+aulas de Estatística.
+
+Como fundamento desta trilha, procurarei orientar se vale ou não a pena aprofundar-se nos
+assuntos baseado na sua frequência de aparição nas provas anteriores e no seu nível de dificuldade.
+Avançaremos com calma pelos conteúdos, fazendo bastantes exercícios!
+
+Inicialmente, para estudar estatística é sempre bom ter um FORMULÁRIO, se você ainda não tem,
+separe algumas folhas em branco pois irei orientá-lo a preparar um ao longo de seu estudo. A ideia
+é, em poucas páginas, resumir tudo o que há de importante no curso. Sempre que houver um
+ponto interessante, chamarei atenção para que você insira no seu formulário (escreverei
+FORMULÁRIO! ao lado). Entretanto fique à vontade para acrescentar o que você precisar! Lembro
+também que não basta decorar as fórmulas, tem que saber usar! A intenção aqui não é fazer um
+formulário, “pregá-lo” na parede para olhar todo dia e decorar as fórmulas, a meu ver, essa não é
+uma forma eficiente de se estudar. Ele será utilizado para, quando você estiver resolvendo
+exercícios, ter um local rápido para realizar consultas. Com o tempo e prática, você vai “decorar”
+as fórmulas sem nem perceber.
+
+Outra dica, que também gosto de dar, é em relação ao uso de calculadora. Procure sempre fazer
+algumas questões sem usá-la, se estiver tendo dificuldade com as contas, pratique um pouco mais.
+Entretanto, acho interessante não perder muito tempo fazendo toda questão "a mão", você vai
+ver que usar a calculadora responsavelmente lhe permitirá estudar muito mais questões.
+
+Mas vamos ao que interessa!
+
+Comece pela aula 00, é uma aula introdutória, conceitual. Nessa aula você também encontrará
+algumas questões que tratam de interpretação de gráficos e tabelas. Faça uma leitura completa
+da aula. Os principais postos-chave que eu acredito que você tenha que saber para a prova são:
+
+•        Diferenciar Estatística Descritiva e Inferencial;
+
+•        Diferenciar Censo e Amostra;
+
+•        Diferenciar Dados Brutos de Rol;
+
+
+                                                                                               19
+          Receita Federal (Analista Tributário) Trilha Estratégica
+          www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+    Guilherme Carvalho, Glesler Sales Maldonado
+    Trilha 32
+
+•     Diferenciar Variáveis Qualitativas (Nominais / Ordinais) e Quantitativas (Discretas /
+Contínuas);
+
+•        Conhecer os diferentes tipos de Séries Estatísticas;
+
+•        Diferenciar Frequência Relativa e Absoluta (acumulada ou não);
+
+•        Saber o que é densidade de frequência; FORMULÁRIO!
+
+•      Reconhecer os Tipos de Gráficos. Atenção para a diferença entre Histograma e Gráfico de
+Barras;
+
+•        Saber interpretar gráficos e tabelas variadas.
+
+Depois que ler a aula, releia os itens acima e tente “responder mentalmente” cada um deles.
+
+                                                                                              20
+          Receita Federal (Analista Tributário) Trilha Estratégica
+          www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 500
+
+                                           Administração Pública
+
+Estudo da aula 00, de “Estado x Governo x Administração Pública” até “Administração
+Pública Patrimonialista - Patrimonialismo”; e resolução de questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244719/aulas
+
+Daremos início ao estudo de Administração Pública para o seu concurso! O assunto dessa aula é
+importante para o entendimento do contexto da Administração Pública. A incidência de questões
+dessa parte nas provas é grande. Assim, atenção total aos assuntos daqui. A aula é relativamente
+extensa, mas vou indicar o caminho dos assuntos principais para você não perder tempo.
+Importante também que você faça as questões comentadas ao longo da aula de cabeça e já parta
+para o comentário, para corroborar o que acabou de ler.
+
+Os pontos de atenção principal são:
+
+- Os elementos básicos do Estado e a definição de Administração Pública, a qual inclui toda a
+máquina do Estado (servidores, órgãos, recursos, estrutura) que fica à disposição do Governo para
+a realização dos objetivos do Estado, tais como a prestação de serviços públicos e a concretização
+dos objetivos fundamentais da República Federativa do Brasil (RFB). O que se busca,
+primordialmente, é o bem-estar da coletividade.
+
+- As 4 fases do Estado, em especial decore o esquema apresentado.
+
+- Os tipos de dominação idealizados por Weber, com ênfase na racional-legal.
+
+O assunto Modelos Teóricos tem uma incidência absurdamente alta nas provas, então temos que
+ter atenção total aqui! Principalmente as características que diferenciam os modelos. Como a
+cobrança é alta, temos que nos ater a diversos pontos, pois são bem importantes.
+
+De plano, saiba que os Modelos Teóricos de Administração Pública identificam o tipo de
+administração predominante em determinada época e estão fortemente relacionados aos modelos
+de Estado.
+
+Os pontos de importância da aula são:
+
+- O fato de que os modelos coexistiram e coexistem até hoje -> Essa pegadinha é clássica!!
+
+- As características do patrimonialismo no esquema apresentado pelo professor. Saiba explicar
+cada um de cabeça mesmo. Resolva as questões: 06, 11, 12, 14, 21, 43, 45 e 53.
+
+                                                                                              21
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 501
+
+                                                     Português
+
+Revisão da aula 14 e resolução de questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244709/aulas
+
+Nesta tarefa revisaremos a aula sobre Interpretação e Compreensão de Texto. Primeiramente,
+leia suas anotações/resumo dessa aula e refaça as questões que errou na época.
+
+Em seguida, para consolidar a aprendizagem dos assuntos estudados na Aula 14, resolvas as 15
+primeiras questões que aparecerem nas listas de questões comentadas.
+
+Anote as questões que sentir dificuldade para que você possa priorizar determinados tópicos no
+momento da revisão. Essa atitude o ajudará a melhorar seu desempenho no decorrer dos estudos.
+
+Além disso, após resolver as questões, leia atentamente os comentários e aproveite para melhorar
+seus grifos e/ou resumo no que julgar importante.
+
+                                                                                             22
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 502
+
+                                    Contabilidade Geral e Avançada
+
+Estudo da aula 24 (toda teoria); e resolução de 5 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244724/aulas
+
+Na presente tarefa, focaremos no estudo do CPC 47 – Receita de Contrato de Clientes.
+
+De início, é importante saber que este Pronunciamento Contábil trouxe mudanças profundas no
+método de reconhecimento de receitas de uma empresa. Com a sua entrada em vigor, em 01 de
+janeiro de 2018, ficam revogados os CPC 17 (contratos de construção) e CPC 30 (receitas),
+justamente para unificar o tratamento contábil existente.
+
+Entenda que a definição de Receita do CPC 00 - Pronunciamento Conceitual Básico é mais
+abrangente que a definição de Receita do CPC 47, que se refere especificamente às Receitas
+com Contratos de Clientes. Para facilitar o entendimento, use o quadro abaixo:
+
+Grave os tipos de contrato em que o CPC 47 NÃO deve ser aplicado:
+
+                                                                                        23
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Adiante, entenda a as etapas para aplicação do CPC:
+
+1 – Identificação do contrato.
+
+2 – Identificação da obrigação de desempenho.
+
+3 – Determinação do preço da transação.
+
+4 – Alocação do preço da transação.
+
+5 – Reconhecimento da receita.
+
+O item 9 do CPC será de suma importância para provas de concurso e acreditamos que será um
+dos campeões de cobrança. Ele trata dos requisitos para Identificação de Um Contrato Com
+Cliente:
+
+1) O contrato deve ser aprovado por escrito, verbalmente ou por outro tipo de acordo. Além
+disso, as partes devem estar dispostas a cumpri-lo. Esse contrato é firmado entre a entidade e um
+cliente.
+
+2) É possível identificar quais os direitos de cada parte nessa relação contratual.
+
+3) É possível identificar quais as condições para pagamento.
+
+4) O contrato deve ter substância comercial. Como assim? O CPC diz “espera-se que o risco, a
+época ou o valor dos fluxos de caixa futuros da entidade se modifiquem como resultado do
+contrato”.
+
+                                                                                              24
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Entenda os procedimentos para reconhecimento da receita quando o contrato NÃO atender os
+requisitos do item 9 apresentados acima.
+
+Importante! Entenda o conceito de Obrigação de Desempenho e Satisfação de Obrigação de
+Desempenho!
+
+Importante! Decore a diferença da Demonstração do resultado do exercício na Lei 6.404/76 e
+no pronunciamento:
+
+Por fim, dê importância para a leitura do tópico Reconhecimento da Receita. Entenda que a
+receita deve ser reconhecida conforme o cumprimento da obrigação de performance, ou seja, no
+momento da entrega do bem ou em diversos momentos, no caso de obrigação cumprida ao longo
+do tempo. É apenas outra forma de dizer que a receita deve ser reconhecida por Competência,
+ao longo do tempo.
+
+Por fim, resolva as questões 1 a 5 do PDF. Estude os comentários daquelas que errar ou tiver
+dúvidas, para que não volte a ter problemas em questões similares.
+
+                                                                                         25
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 503
+
+                                               Direito Tributário
+
+Estudo da aula 14, de “O papel da Lei Complementar em relação ao ICMS” até o fim da
+parte teórica.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244715/aulas
+
+Nesta tarefa, serão estudados os seguintes assuntos: impostos de competência dos Estados e
+Distrito Federal (parte 2).
+
+Sugere-se que este estudo seja feito em duas etapas:
+
+1) Primeiramente, faça uma leitura rápida de todas as páginas indicadas, sem se preocupar em
+fazer marcações, anotações e/ou resumos. A ideia é que o aluno tenha um primeiro contato com
+o novo conteúdo, em outras palavras, uma visão panorâmica acerca do que será estudado.
+
+2) Descanse um pouco (no máximo 15 minutos).
+
+3) Em seguida, faça um estudo mais minucioso, buscando ter atenção aos destaques dados pelo
+professor. Aproveite a oportunidade para fazer suas marcações, anotações no próprio pdf e/ou
+resumos, de forma que esse material sirva para futuras revisões.
+
+Em relação ao conteúdo desta tarefa, tenha atenção aos seguintes pontos:
+
+Atenção!!! Decore o art. 155, § 2º, XII, que define o papel da lei complementar em relação ao
+ICMS!!!
+
+Em primeiro lugar, entenda que o legislador constituinte somente reservou a lei complementar
+temas que possam gerar conflitos entre os Estados. São eles:
+
+1) Contribuintes do imposto;
+
+2) Substituição Tributária;
+
+3) Regime de compensação do imposto (créditos e débitos);
+
+4) Manutenção de crédito (créditos e débitos);
+
+5)Definição do estabelecimento responsável, o local das operações relativas à circulação de
+mercadorias e das prestações de serviços.
+
+Além disso, também ficou a cargo de lei complementar definir situações peculiares do ICMS:
+
+
+                                                                                             26
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+1) Regular a forma como as isenções, incentivos e benefícios fiscais serão concedidos e revogados
+(convênios entre os Estados);
+
+2) Definição dos combustíveis e lubrificantes sujeitos ao ICMS-Combustíveis;
+
+3) Exclusão da incidência do ICMS sobre operações de exportação.
+
+A concessão de crédito presumido também deve ser deliberada por meio de convênios.
+
+O ICMS é lançado por homologação.
+
+Súmula Vinculante 32 - O ICMS não incide sobre a alienação de salvados de sinistro pelas
+seguradoras.
+
+Súmula STF 662 - É legítima a incidência do ICMS na comercialização de exemplares de obras
+cinematográficas, gravados em fitas de videocassete.
+
+O ICMS incide sobre a demanda de potência efetivamente utilizada! Cuidado com as palavras
+“potencialmente” e “disponibilizada”! Não há incidência nesses casos.
+
+Súmula STJ 237 - Nas operações com cartão de crédito, os encargos relativos ao financiamento
+não são considerados no cálculo do ICMS.
+
+O ICMS incide sobre tarifa de assinatura básica mensal no serviço de telefonia, independentemente
+da franquia de minutos concedida ou não ao usuário.
+
+Leasing realizado dentro do país (sem importação): não incide ICMS, a não ser quando da venda
+do bem ao arrendatário.
+
+Leasing internacional: não incide ICMS, salvo se houver antecipação da opção de compra.
+
+Leasing internacional de aeronaves: não incide ICMS (porque, na prática, não ocorre a transferência
+do bem).
+
+                                                                                               27
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Em relação ao ITCMD:
+
+                                                                           28
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+O ITCMD não incide sobre transmissões originárias (em que não há relação jurídica de transmissão
+a outra pessoa). Exemplo: Usucapião.
+
+O STF entende que o ITCMD pode ser tributado com base em alíquotas progressivas, por ser
+possível graduá-lo conforme a capacidade contributiva de cada um.
+
+A majoração de alíquotas do IPVA sujeita-se ao princípio da noventena e anterioridade.
+
+O STF já decidiu que o IPVA não incide sobre embarcações e aeronaves.
+
+Pode haver alíquotas diferenciadas em função do tipo e utilização, mas não para veículos
+importados e nacionais.
+
+                                                                                             29
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 504
+
+                                            Direito Constitucional
+
+Estudo de toda a teoria da aula 15 (Defesa do Estado e das Instituições Democráticas).
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244713/aulas
+
+Nesta tarefa, estudaremos os dispositivos constitucionais referentes à Defesa do Estado e das
+Instituições Democráticas. De acordo com as análises do Passo Estratégico, esse assunto não
+costuma ser cobrado em concursos similares, mas como esteve no último edital, não podemos
+ignorá-lo.
+
+No tópico Sistema Constitucional de Crise: os estados de exceção, atente-se aos princípios a
+que os “estados de exceção” se submetem.
+
+É importante que você conheça as finalidades e requisitos formais do Estado de Defesa e do
+Estado de Sítio. Para isso, utilize sem moderação os esquemas trazidos no material.
+
+O estado de defesa possui dois pressupostos para que seja decretado: grave e iminente
+instabilidade institucional OU calamidades de grandes proporções na natureza (art. 136). Além
+disso, deve obedecer às formalidades dispostas na aula.
+
+O estado de sítio é medida ainda mais excepcional que o estado de defesa, sendo decretado
+nos casos previstos no art. 137.
+
+Finalize o tópico lendo as Disposições Comuns ao Estado de Defesa e Estado de Sítio. No caso
+da sua prova vir a cobrar os conhecimentos desse assunto, é muito provável que embaralhe
+conceitos para tentar confundi-lo.
+
+Estando decretado o estado de defesa ou sítio, a CF não poderá ser emendada. Além disso, estão
+sujeitos ao controle judicial e também ao controle político (Congresso Nacional).
+
+A respeito das Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica é
+importante que saiba o seguinte:
+
+São instituições nacionais permanentes e regulares;
+
+São organizadas com base na hierarquia e na disciplina;
+
+O comando supremo é do Presidente da República;
+
+Destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de
+qualquer destes, da lei e da ordem.
+
+                                                                                           30
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Um detalhe sempre muito cobrado é que os militares são proibidos de sindicalização e greve e,
+também, enquanto na ativa, não podem se filiar a partidos políticos (porém, podem se
+candidatar).
+
+Dando continuidade à aula, saiba que a segurança pública é:
+
+- Dever do Estado;
+
+- Direito e responsabilidade de todos (incluído o Estado).
+
+A polícia é dividida em dois grandes tipos: polícia administrativa (preventiva ou ostensiva) e a
+polícia judiciária (investigação).
+
+Um detalhe importante é a previsão legal que permite à União firmar convênio com os Estados e
+o Distrito Federal para executar atividades e serviços imprescindíveis à preservação da ordem
+pública e da incolumidade das pessoas e do patrimônio.
+
+Muito importante decorar quais os órgãos que compõem a segurança pública, conforme esquema
+apresentado na aula. Esse rol é taxativo, ou seja, são apenas estes órgãos e nada mais.
+
+O tópico a respeito da Polícia Federal e suas competências costuma ser exigido, então, atenção
+redobrada aqui. Veja que a PF não tem competência para apurar infrações penais em detrimento
+de bens, serviços e interesses de sociedades de economia mista.
+
+As polícias dos Estados são formadas pelas polícias civis, polícias militares e corpos de
+bombeiros militares.
+
+Note que cabe às polícias civis (PCs) as funções de polícia judiciária e apuração de infrações
+penais, exceto as militares. Apesar das polícias militares (PMs) serem polícias administrativas, o
+STF entende que podem realizar flagrantes ou participar de busca e apreensão determinada por
+ordem judicial.
+
+Veja que a Polícia Civil, Militar e o Corpo de Bombeiros Militar do DF são organizados e
+mantidos pela União, porém, são subordinados diretamente ao Governador do DF. Dessa forma,
+seus servidores estão sujeitos a um regime jurídico híbrido, cabendo à lei federal fixar seus
+vencimentos, conforme dispõe a Súmula 647 do STF:
+
+Súmula 647 – STF: Compete privativamente à União legislar sobre vencimentos dos membros das
+polícias civil e militar do Distrito Federal.
+
+Note que as guardas municipais, apesar de consideradas polícias administrativas pela doutrina
+dominante, não fazem parte dos órgãos de segurança pública, apesar da sua competência de
+proteger bens, serviços e instalações, conforme dispuser a lei.
+
+                                                                                              31
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Por fim, a emenda constitucional nº 82/2014 acrescentou a segurança viária no art. 144, ou seja,
+criou a carreira de agentes de trânsito no sistema de segurança pública.
+
+É muito importante que você faça marcações em seu material para facilitar as revisões.
+
+                                                                                             32
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 505
+
+                                               Raciocínio Lógico
+
+Treino da aula 25 - resolução de 21 questões do Sistema de Questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244711/aulas
+
+Como forma de revisão e treino dos pontos já estudados de Plano Cartesiano, resolva as questões
+do link a seguir:
+
+Link: http://questo.es/x8max3
+
+Ao final, leia apenas os comentários das questões que errou ou que teve dúvida.
+
+Caso identifique algum ponto da matéria que não esteja tão bem consolidado, retorne à respectiva
+aula do curso regular e reforce este ponto. Você pode revisar esse conteúdo através de seu próprio
+material, do Passo Estratégico ou do PDF de Marcação dos Aprovados.
+
+                                                                                              33
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 506
+
+                                            Direito Administrativo
+
+Treino da Aula 20 a partir da Resolução de 40 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244714/aulas
+
+Resolva, nesta tarefa, as questões de nº 23 a 62 da Aula 20, e faça os grifos necessários com base
+nos comentários do professor.
+
+Neste momento não estamos fazendo simulado, mas estudando e revisando através da resolução
+de questões. É importante, portanto, que você leia os comentários à medida que resolver cada
+uma das questões e não deixe nenhuma dúvida para o fim da bateria de questões.
+
+Sempre relembrando, procure resolver as questões de forma proativa: antes de marcar o gabarito,
+fale para você mesmo a justificativa pela sua resposta. Isso vai ajudá-lo demasiadamente a se
+apropriar do conteúdo. Depois leia os comentários do professor e melhore seus grifos/resumos no
+que julgar importante para futuras revisões.
+
+                                                                                              34
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 507
+
+                                             Legislação Tributária
+
+Revisão da aula 02 e resolução de 33 questões.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244720/aulas
+
+Aproveite esta tarefa para fazer uma revisão do que estudou referente à aula.
+
+Use preferencialmente os grifos que porventura você tenha realizado e alternativamente leia os
+dispositivos legais e esquemas apresentados pelo professor.
+
+Além disso, resolva as questões 1 a 33 presentes ao final do PDF. A resolução de questões é um
+ótimo meio para você conhecer como o assunto pode ser cobrado e para revisar os assuntos vistos
+durante a aula.
+
+Ademais, busque desenvolver o raciocínio e exercitar a matéria retida, portanto leia os comentários
+do professor apenas após a respectiva resolução.
+
+                                                                                               35
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 508
+
+                                             Administração Geral
+
+Estudo da aula 02, do tópico “Estratégia” até o final.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244717/aulas
+
+Antes de começar, faça uma leitura dos grifos efetuados na tarefa anterior (correspondentes à
+primeira parte da aula).
+
+Dando continuidade à aula, vamos estudar a estratégia em si. Estratégia é definir os caminhos que
+serão adotados, mediante a alocação dos recursos e levando-se em consideração o ambiente
+externo (ambiente no qual a organização está inserida), para que os objetivos organizacionais sejam
+alcançados. É isso que você precisa saber.
+
+Prosseguindo, Mintzberg desenvolveu uma visão baseada em 5 ângulos. Leia cada um e saiba as
+características de cada. Treine com a questão resolvida logo em seguida.
+
+Em seguida, temos alguns conceitos de estratégia importantes, mas pode ir direto ao esquema
+sobre estratégias (pretendidas, deliberadas etc.), o qual delineia exatamente o que você precisa
+saber, ok? Saiba ainda as 5 fases da estratégia e decore o quadro do final.
+
+Adentramos, agora, nos pormenores do Planejamento Estratégico. Pode ir direto para o esquema
+trazendo as características e finalidades do Planejamento Estratégico. Prossiga ao assunto Gestão
+Estratégica, observando suas etapas e, principalmente, a diferença para o Planejamento
+Estratégico.
+
+A seguir, temos mais um assunto que despenca em prova, a diferenciação entre Missão, Visão,
+Valores e Negócio. Atenção total aqui!!
+
+Missão: Razão de ser! Para quê foi criada?
+
+Visão: Aonde ela quer chegar. Observe o quadro “fique atento”.
+
+Negócio: São as atividades principais da organização.
+
+Valores: Princípios básicos e crenças que norteiam o comportamento da organização.
+
+Tudo está esquematizado ao final, vamos aproveitar para revisar o que lemos e decorar.
+
+Em seguida o professor traz diversas definições importantes, as quais você deve ter em mente, ok?
+Assim, vamos dar uma lida em todos os termos, apenas entendendo o significado de cada um,
+
+
+                                                                                               36
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+pois isso ajuda muito na hora de resolver questões. É comum questões que tentem confundir o
+significado de cada um dos termos.
+
+As fases/etapas/passos do planejamento não são consensuais entre os administradores, mas a
+esquematização de Chiavenato e Djalma retrata duas possibilidades MUITO cobradas,
+principalmente a visão de Djalma de Oliveira. O professor esclarece melhor esses os conceitos na
+continuidade da aula. É mais importante saber bem as fases, mas dê uma lida na explicação,
+principalmente da visão de Djalma. Caso esteja com pouco tempo, vá direto ao esquema
+apresentado ao final do assunto
+
+Para o planejamento por cenários, o importante é saber que tem como objetivo analisar como
+nossas decisões atuais poderiam impactar nossa organização no futuro. Jamais se esqueça de que
+não se trata de previsão de futuro, mas sim de possíveis cenários e o que devemos fazer caso
+venham a acontecer. É de suma importância que saiba o conceito do planejamento prospectivo e
+o projetivo.
+
+Prosseguindo, temos o planejamento estratégico situacional, que vale apenas uma lida rápida, pois
+é cobrado em poucas questões. O principal é saber que é uma alternativa de planejamento
+aplicada no contexto do planejamento governamental, inserindo um caráter político e não somente
+técnico. Nele, existem vários cenários e atores possíveis. Atenção às dimensões e momentos.
+
+Adentramos no assunto Redes e Alianças. Nada mais é do que uma combinação de competências
+entre as organizações. Saiba os conceitos de combinação em paralelo e sequencial.
+
+Barney e Hesterly (2011), destacam que as alianças podem ser de três tipos, atenção aqui!
+Importante ainda saber as vantagens e desvantagens de se atuar em rede.
+
+A APO, ao invés de se preocupar com os processos/atividades/“meios” (eficiência), se preocupa
+com os resultados, com os fins (eficácia). Os objetivos e as metas são definidos pelos chefes e
+subordinados, em comum acordo, e as responsabilidades são especificadas para cada um, em
+função dos resultados esperados. Aqui, você precisa saber ainda as etapas, bem como as
+vantagens e desvantagens.
+
+                                                                                              37
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 509
+
+                                            Direito Previdenciário
+
+Resolução de 40 questões da aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244727/aulas
+
+Veja rapidamente o resumo ao final do pdf e, em seguida, resolva as questões de 01 a 40 da aula
+00.
+
+Estude as explicações das questões que errar ou tiver quaisquer dúvidas, anotando seu número
+para refazê-las posteriormente.                          ==219a34==
+
+Caso julgue necessário, faça grifos na teoria da aula e na legislação correspondente, com base nos
+comentários do professor e releia os trechos da aula em que teve dúvidas e/ou dificuldades.
+
+                                                                                              38
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                     TAREFA 510
+
+                                               Legislação Aduaneira
+
+Estudo da teoria da Aula 01, de Regramento Constitucional e Legislação Específica até
+Pagamento; e resolução de 10 questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244716/aulas
+
+Vamos dar seguimento ao estudo de Legislação Aduaneira!
+
+Na Aula 01, você iniciará o estudo dos tributos incidentes sobre as operações de comércio exterior.
+São eles:
+
+- Imposto de Importação (II);
+
+- Imposto de Exportação (IE);
+
+- Imposto sobre Produtos Industrializados (IPI);
+
+- PIS/PASEP Importação;
+
+- COFINS/Importação;
+
+- Adicional ao Frete para Renovação da Marinha Mercante (ARFMM);
+
+- Contribuições de Intervenção no Domínio Econômico (CIDE);
+
+- Imposto sobre Circulação de Mercadorias (ICMS);
+
+- Taxas.
+
+Relembre os conceitos de tributos com finalidade extrafiscal e dos princípios constitucionais
+limitadores do poder de tributar, em especial os excepcionados:
+
+- II / IE: é exceção ao princípio da legalidade em relação à alteração de alíquotas (realizada pela
+CAMEX), anterioridade e noventena;
+
+- IPI: não se submete aos princípios da legalidade, em relação à alteração de alíquotas, e da
+anterioridade.
+
+- PIS/PASEP-Importação e COFINS-Importação: não obedecem ao princípio da anterioridade.
+
+Indico atenção na leitura da diferenciação de bens, mercadorias e produtos. Esses conceitos são
+utilizados de formas diferentes na CF/88 e no Regulamento Aduaneiro (R.A).
+
+                                                                                               39
+           Receita Federal (Analista Tributário) Trilha Estratégica
+           www.estrategiaconcursos.com.br
+
+                                         
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+Importante também saber a diferença entre produtos:
+
+- Estrangeiros: fabricados no exterior;
+
+- Nacionais: produtos fabricados no Brasil ou que sofreram uma transformação substancial em
+território nacional;
+
+- Nacionalizados: produtos estrangeiros importados com ânimo de definitividade.
+
+- Desnacionalizados: produtos nacionais ou nacionalizados exportados com ânimo de
+definitividade.
+
+Você vai agora mergulhar no estudo do Imposto de Importação, conteúdo que corresponde a
+9,1% das questões de Legislação Aduaneira (incidência alta! Estude com atenção!). Mais uma vez
+sugiro que tenha em mãos o R.A. e faça as marcações necessárias para facilitar sua revisão.
+
+O II é um tributo de competência da União, que tem como fato gerador a entrada de mercadoria
+estrangeira no território nacional. Ele tem finalidade extrafiscal, razão pela qual utilizado para
+regulação econômica das importações, protegendo a indústria nacional ou abrindo a economia
+para produtos estrangeiros.
+
+Não caia na pegadinha de achar que o lançamento do II se dá por declaração! Na verdade, é por
+homologação: o importador elabora a Declaração Única de Importação (DUIMP), registra no
+Portal Único de Comércio Exterior e antecipa o pagamento. A homologação por parte da
+autoridade aduaneira será expressa ou tácita e então o crédito é considerado extinto.
+
+A base de cálculo depende: se a alíquota for ad valorem, será o valor aduaneiro, se for específica,
+será a quantidade de mercadoria expressa na unidade de medida estabelecida. Saiba diferenciar
+as duas.
+
+Atenção: em regra, O imposto de importação é pago na data do registro da Declaração de
+Importação (DI).
+
+Resolva as questões abaixo:
+
+- 01 a 05 – Regramento Constitucional e Legislação Específica – Multibancas;
+
+- 01 – Produtos, bens e mercadorias – Multibancas;
+
+- 01 a 04 – Produtos estrangeiros, nacionais, nacionalizados e desnac. – Multibancas;
+
+Sugiro que você resolva as questões pela lista com comentários, mas antes de vê-los, além de
+marcar o gabarito, fale para você mesmo a justificativa pela sua resposta. Isso vai ajudá-lo
+
+                                                                                               40
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+demasiadamente a se apropriar do conteúdo. Depois leia os comentários do professor e grife o
+que julgar importante para suas futuras revisões.
+
+Não esqueça de deixar assinaladas as questões que você errar ou responder com dúvida. Volte a
+elas futuramente.
+
+                                                                                          41
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+    Guilherme Carvalho, Glesler Sales Maldonado
+    Trilha 32
+
+                                                     TAREFA 511
+
+                                                       Estatística
+
+Resolução de 20 questões da aula 00.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244712/aulas
+
+Vamos resolver alguns exercícios sobre Apresentação de Dados!
+
+Faça e compreenda as seguintes questões da aula 00:
+
+•        Conceitos Iniciais - FGV: 1.
+
+•        Variáveis Estatísticas - FGV: 1.
+
+•        Distribuições de Frequência - 1.
+
+•        Representação Gráfica das Distribuições de Frequências - FGV: 1.
+
+•        Outros Gráficos e Representações - FGV: 1, 2, 3 e 4.
+
+•        Introdução à Estatística – Inéditas: 1.
+
+•        Conceitos Iniciais - Inéditas: 1.
+
+•        Variáveis Estatísticas - Inéditas: 1 e 2.
+
+•        Séries Estatísticas - Inéditas: 1.
+
+•        Distribuições de Frequência - Inéditas: 1, 2 e 3.
+
+•        Representação Gráfica das Distribuições de Frequências - Inéditas: 1.
+
+•        Outros Gráficos e Representações - Inéditas: 1, 2 e 3.
+
+Sempre que errar ou tiver dificuldade em resolver uma questão, leia com atenção o comentário ou
+volte a teoria para entender melhor esse ponto. É dedicando atenção aos nossos erros que
+conseguimos melhorar nosso desempenho.
+
+                                                                                            42
+          Receita Federal (Analista Tributário) Trilha Estratégica
+          www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                                  TAREFA 512
+
+                                           Administração Pública
+
+Estudo da aula 00, de “Administração Pública Burocrática - Burocracia” até o final da aula;
+e resolução de questões do PDF.
+
+Link: https://www.estrategiaconcursos.com.br/app/dashboard/cursos/244719/aulas
+
+Vamos dar continuidade com os pontos principais de atenção:
+
+- O contexto do surgimento da burocracia - Surgimento do Estado moderno; necessidade
+administração pública profissionalizada; e combate à corrupção e ao nepotismo.
+
+- Tipo de dominação na burocracia: racional-legal!
+
+- Princípios do modelo burocrático;
+
+- Não confundir a burocracia com as suas disfunções; e o fato de que nunca aplicamos o modelo
+burocrático puro. Atenção ao resumo apresentado pelo professor;
+
+- O que foi o paradigma pós-burocrático;
+
+- Contexto da Administração Pública Gerencial: A reforma do aparelho do Estado passa a ser
+orientada predominantemente pelos valores da eficiência e qualidade na prestação de serviços
+públicos e pelo desenvolvimento de uma cultura gerencial nas organizações. O foco agora era no
+controle dos resultados e não no processo. Não é um rompimento com a burocracia!
+
+- Características da Administração Gerencial no esquema apresentado;
+
+Prosseguindo na aula, entramos agora no contexto de surgimento do gerencialismo. O Novo
+Gerencialismo Público, Nova Gestão Pública ou Nova Administração Pública (NAP) consiste em um
+conjunto de doutrinas, que pretendia que os princípios gerenciais aplicados nas empresas privadas
+fossem também utilizados no setor público.
+
+O mais interessante nessa parte é você saber os 3 estágios do gerencialismo, saiba também os
+detalhes de cada um.
+
+Pontos Importantes aqui: características do Gerencialismo puro, Consumerism e PSO: decore os
+esquemas apresentados. Atenção a como o usuário era visto em cada modelo!
+
+Por fim, resolva as questões: 01, 02, 03, 04, 05, 07, 08, 09, 10 e 15.
+
+                                                                                              43
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+  Guilherme Carvalho, Glesler Sales Maldonado
+  Trilha 32
+
+                                    DICA ESTRATÉGICA
+DICA ESTRATÉGICA 32: PROCURE O APOIO DE AMIGOS E DA FAMÍLIA
+
+Pessoal, família e amigos são tudo! O que somos sem as pessoas que amamos?? Entretanto, de
+vez em quando, nós passamos por situações que são difíceis de serem compreendidas por nossas
+famílias/amigos. A situação dos estudos pode muito bem causar um certo choque nas pessoas. A
+maioria não entende muito bem o quanto a gente precisa estudar para passar.
+
+Felizmente, no nosso caso, tivemos total apoio da família e dos amigos. Se a sua situação for mais
+tensa do que a nossa, tente conversar com essas pessoas. Tente explicar que, por um tempo, você
+terá que ser uma pessoa mais regrada e disciplinada no que diz respeito ao lazer e ao seu tempo
+livre! Explique para a pessoa que todo o esforço é por uma boa causa. Tente deixar clara a
+importância desse seu projeto de vida.
+
+Além disso, melhor estudar de forma muito intensa por uns 2 anos, do que estudar num ritmo
+“mais ou menos” por 15 anos, certo?? É uma simples questão de matemática.
+
+Reiterando: é normal as pessoas não compreenderem a nossa situação, eis a importância de sentar-
+se com elas para explicar! As pessoas precisam entender que estudar é trabalho!! E é um trabalho
+pesado!! Se você estivesse trabalhando, ninguém iria te interromper, certo? Esse respeito precisa
+valer para os estudos também!!
+
+Abraços e FORÇA NOS ESTUDOS!!! 😉
+
+Mas você também pode me encontrar ↴
+
+Newsletter ☛ https://gleslermaldonado.substack.com
+
+Telegram ☛ 
+
+                    “Quando desistir não for uma opção, o sucesso é inevitável”
+
+                                                                           Glesler Maldonado
+
+                                                                                               44
+        Receita Federal (Analista Tributário) Trilha Estratégica
+        www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+Guilherme Carvalho, Glesler Sales Maldonado
+Trilha 32
+
+ 1. As Trilhas Estratégicas são meras sugestões de estudo com base em determinado objetivo
+    (área de concurso, concurso específico ou perfil). O aluno deve ficar livre para que possa
+    segui-la à risca ou fazer adaptações para o seu próprio estilo e rotina de estudo.
+ 2. Os professores do Estratégia, ao elaborarem os seus materiais, possuem o objetivo de
+    ensinar todo o conteúdo exigido pelo edital programático do concurso, além de estabelecer
+    uma sequência ideal de estudo do ponto de vista pedagógico e considerando que o aluno
+    terá tempo de estudar todo o seu material.
+ 3. Já os coaches, ao elaborarem as Trilhas Estratégicas, possuem o objetivo de fazer o aluno
+    estudar o conteúdo de acordo com um determinado custo x benefício, porém muitas vezes
+    fugindo da recomendação didática de estudo proposta pelos professores para que os
+    alunos possam fazer um estudo direcionado.
+ 4. Como dizemos sempre: o ideal é estudar todos os assuntos, revisar tudo, fazer muitos
+    exercícios de todos os assuntos e chegar na prova bom em todos os assuntos também.
+    Entretanto, são poucos aqueles alunos que dispõem de tempo para isso!
+ 5. Nosso objetivo aqui é sugerir uma sequência de estudos baseada na experiência de
+    coaches aprovados em diversos concursos para que possamos dar orientações e maiores
+    chances de aprovação aos alunos.
+
+                                                                                           45
+      Receita Federal (Analista Tributário) Trilha Estratégica
+      www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+---

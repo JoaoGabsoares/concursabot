@@ -1,0 +1,114 @@
+                         OPERAÇÕES BÁSICAS
+
+
+
+                  SOMA                                                         SUBTRAÇÃO
+                                                                  • É o oposto da soma.
+
+
+
+
+• Propriedades:
+
+
+                                                                  • Propriedades:
+                                                                         − Não vale a comutatividade;
+                                                                         − Não vale a associatividade;
+
+
+
+
+                                                                                                         ESTRATÉGIA CONCURSOS
+                             https://t.me/KakashiAssinaturasBot
+                                       OPERAÇÕES BÁSICAS
+
+
+                                            MULTIPLICAÇÃO
+                               • É a soma de um mesmo número repetidas vezes
+
+
+
+
+                                               PROPRIEDADES
+
+
+
+Elemento Neutro:
+                                                                                               Distributiva:
+
+                   Elemento Inverso:                  Associativa:               Comutativa:
+
+
+
+
+                                                                                               ESTRATÉGIA CONCURSOS
+                                            https://t.me/KakashiAssinaturasBot
+OPERAÇÕES BÁSICAS
+
+
+                 DIVISÃO
+
+
+                       - D: dividendo (é o número que será dividido);
+                       - d: divisor (é o número que dividirá o dividendo);
+                       - Q: quociente (é o resultado da divisão);
+                       - R: resto.
+
+
+
+
+RELAÇÃO FUNDAMENTAL DA DIVISÃO
+
+
+
+
+                                                                             ESTRATÉGIA CONCURSOS
+       https://t.me/KakashiAssinaturasBot
+                                    OPERAÇÕES BÁSICAS
+
+                                                                                         • Ao   elevar   o    número    0   a
+                                          POTENCIAÇÃO                                      qualquer expoente, o resultado
+                                                                                           será sempre zero!
+                                                                                         • Ao   elevar   o    número    1   a
+                                                                                           qualquer expoente, o resultado
+                                                                                           será sempre um!
+
+
+
+                                            PROPRIEDADES
+
+
+
+Multiplicação de                                                                                             Potência de
+ Potência de                                                                                                 uma Divisão:
+ Mesma Base
+                   Divisão de Potência   Potência de Potência                 Potência de uma
+                    de Mesma Base                                              Multiplicação:
+
+
+
+
+                                                                                                             ESTRATÉGIA CONCURSOS
+                                         https://t.me/KakashiAssinaturasBot
+                               OPERAÇÕES BÁSICAS
+
+
+                                             RADICIAÇÃO
+
+
+
+
+                                            PROPRIEDADES
+
+
+
+
+Multiplicação de Raízes   Divisão de Raízes de                                Potência de Raízes   “Raiz de uma Raiz”
+  de mesmo Índice:           mesmo Índice
+
+
+
+
+                                                                                                                 ESTRATÉGIA CONCURSOS
+                                         https://t.me/KakashiAssinaturasBot
+

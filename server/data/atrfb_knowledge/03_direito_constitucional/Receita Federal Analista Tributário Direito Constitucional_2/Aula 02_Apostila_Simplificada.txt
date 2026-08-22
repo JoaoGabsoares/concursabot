@@ -1,0 +1,3207 @@
+                                                    Aula 01
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+
+
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            06 de Agosto de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 01
+
+
+
+
+                                                                                     Índice
+1) Aplicação das Normas Constitucionais no Tempo
+..............................................................................................................................................................................................3
+
+2) Interpretação Constitucional
+..............................................................................................................................................................................................6
+
+3) Princípios Fundamentais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+4) Gerações dos Direitos Fundamentais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            19
+
+5) Características dos Direitos Fundamentais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            21
+
+6) Direitos Fundamentais - Limites e Eficácia
+..............................................................................................................................................................................................
+                                                                                                                                                                                            24
+
+7) Questões Comentadas - Interpretação Constitucional - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+8) Questões Comentadas - Princípios Fundamentais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+9) Questões Comentadas - Teoria Geral dos Direitos Fundamentais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            48
+
+10) Lista de Questões - Interpretação Constitucional - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            52
+
+11) Lista de Questões - Princípios Fundamentais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            57
+
+12) Lista de Questões - Teoria Geral dos Direitos Fundamentais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            62
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           64
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+            APLICAÇÃO DAS NORMAS CONSTITUCIONAIS NO TEMPO
+Quais os efeitos da entrada em vigor de uma nova Constituição?
+Quando o Poder Constituinte Originário se manifesta, por meio da elaboração de uma nova
+Constituição, inaugura um novo Estado, rompendo com a ordem jurídica anterior e
+estabelecendo uma nova. Como consequência, há três efeitos:
+       a) A Constituição anterior é integralmente revogada, sendo inteiramente retirada do
+          mundo jurídico.
+
+
+
+
+No Brasil, não se aceita a tese da desconstitucionalização. Por essa teoria, a nova Constituição
+recepcionaria as normas da Constituição pretérita, conferindo-lhes “status” legal,
+infraconstitucional.
+       b) As normas infraconstitucionais editadas na vigência da Constituição pretérita que forem
+       materialmente compatíveis com a nova Constituição são por ela recepcionadas.
+As normas materialmente compatíveis com a nova Constituição são automaticamente
+recepcionadas. Note que a recepção depende somente de que exista uma compatibilidade
+material (compatibilidade quanto ao conteúdo); a compatibilidade formal não é necessária. O
+“status” da norma recepcionada é definido pela nova Constituição.
+Vamos a um exemplo que nos permitirá entender tudo de forma bem clara!
+
+        Exemplo: o Código Tributário Nacional (Lei nº 5.172/1966) foi editado sob a
+        égide da Constituição de 1946. Com a entrada em vigor da Constituição de
+        1967, ele foi por ela recepcionado; havia compatibilidade material entre o CTN e
+        a nova Constituição.
+        No entanto, cabe destacar o seguinte: não havia compatibilidade formal entre
+        eles. O CTN foi editado como lei ordinária, ao passo que a Constituição de 1967
+        exigia lei complementar para tratar de normas gerais de Direito Tributário. Como
+        se sabe, todavia, a compatibilidade formal é irrelevante para se dizer se um
+        diploma normativo foi ou não recepcionado pela nova ordem constitucional; para
+        que a recepção ocorra, basta a compatibilidade material.
+        Considerando-se que a Constituição de 1967 estabelece que normas gerais de
+        Direito Tributário devem ser objeto de lei complementar, o Código Tributário
+        Nacional foi recepcionado justamente com esse “status” (como se sabe, o status
+        da norma recepcionada é definido pela nova Constituição). Com o advento da
+        CF/88, o CTN manteve seu “status” de lei complementar (a CF/88 também exige
+        essa espécie normativa para tratar de normas gerais de Direito Tributário).
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           3
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+É plenamente possível que uma lei anterior à nova Constituição seja parcialmente recepcionada.
+Alguns de seus dispositivos, por serem materialmente compatíveis com a nova ordem
+constitucional, são recepcionados; outros, por serem incompatíveis, são revogados. A análise de
+compatibilidade deve ser individualizada, artigo por artigo, inciso por inciso, parágrafo por
+parágrafo.
+       c) As normas infraconstitucionais editadas na vigência da Constituição pretérita que forem
+       materialmente incompatíveis com a nova Constituição são por ela revogadas.
+Com a entrada em vigor de uma nova Constituição, as normas infraconstitucionais com ela
+materialmente incompatíveis são revogadas (retiradas do mundo jurídico), deixando de ter
+vigência e, consequentemente, validade. Essa revogação é tácita e automática: a nova
+Constituição não precisa dispor que os dispositivos incompatíveis serão expurgados do
+ordenamento jurídico.
+Feitas essas considerações acerca da recepção e revogação do direito pré-constitucional,
+                                                         ==5460==
+
+
+
+
+examinaremos algumas situações peculiares.
+       a) O fenômeno da repristinação: a repristinação consiste na possibilidade de “ressuscitar”
+       normas que já haviam sido revogadas.
+Imagine que uma lei, materialmente incompatível com a Constituição de 1967, tenha sido por ela
+revogada. Com o advento da Constituição Federal de 1988, essa mesma lei torna-se compatível
+com a nova ordem constitucional. Diante disso, pergunta-se: essa lei poderá ser “ressuscitada”?
+Poderá ocorrer a repristinação?
+Sim. A repristinação, contudo, só é admitida excepcionalmente e quando há disposição expressa
+nesse sentido, em virtude da necessidade de se resguardar a segurança jurídica. Em outras
+palavras: somente existe a possibilidade de repristinação expressa (jamais de repristinação
+tácita!).
+       b) Promulgação de emenda constitucional: a emenda constitucional é obra do Poder
+       Constituinte Derivado que modifica o texto constitucional. O que ocorre com leis
+       anteriores à promulgação de emenda constitucional que com ela sejam materialmente
+       incompatíveis?
+O princípio da recepção também se aplica no caso de emenda constitucional. Assim, o que se
+dá, no caso de edição de emenda constitucional, é a revogação do direito ordinário anterior, se
+com ela desconforme, ou a manutenção de sua validade, caso ele seja com ela compatível.
+Por outro lado, as normas infraconstitucionais editadas após uma emenda constitucional e que
+com ela sejam incompatíveis poderão ser declaradas inconstitucionais.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           4
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+(PGM-Fortaleza – 2017) Não foram recepcionadas pela atual ordem jurídica leis ordinárias que
+regulavam temas para os quais a CF passou a exigir regramento por lei complementar.
+Comentários:
+As leis ordinárias que regulavam temas cujo regramento a CF/88 passou a exigir que se desse
+por lei complementar foram recepcionadas pela Carta Magna com status de lei complementar.
+Questão errada.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                      5
+        www.estrategiaconcursos.com.br                                                    64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                           INTERPRETAÇÃO DA CONSTITUIÇÃO
+Interpretar a Constituição significa compreender, investigar o significado do texto constitucional.
+A Hermenêutica (Interpretação) Constitucional serve para solucionar, no caso concreto, conflitos
+entre bens jurídicos protegidos pela Carta Magna, bem como para dar eficácia e aplicabilidade
+às normas constitucionais.
+A quem cabe a tarefa de interpretar a Constituição? Só ao Judiciário? Não caia nessa pegadinha,
+comum nas provas de concursos! Tanto o Judiciário quanto o Executivo e o Legislativo
+interpretam a Constituição. Segundo Peter Häberle, jurista alemão, são intérpretes da
+Constituição todos aqueles que a vivenciam: os cidadãos, os órgãos públicos, a opinião pública e
+demais grupos sociais. A teoria desenvolvida por Häberle é conhecida como a “sociedade aberta
+dos intérpretes”, que nos mostra que a interpretação constitucional é tarefa de todos (e não
+apenas dos juízes).
+
+Métodos de Interpretação Constitucional
+À Hermenêutica Constitucional são aplicáveis todas as técnicas de interpretação das demais
+normas jurídicas (gramatical, histórica, teleológica, entre outras). Entretanto, ela apresenta
+também métodos próprios, devido à supremacia da Constituição.
+A interpretação da Constituição envolve um conjunto de métodos desenvolvidos pela doutrina e
+pela jurisprudência. São eles:
+
+Método jurídico (hermenêutico clássico)
+O método clássico considera que a Constituição é uma lei como qualquer outra, devendo ser
+interpretada usando as regras da Hermenêutica tradicional, ou seja, os elementos literal (textual),
+lógico (sistemático), histórico, teleológico e genético. O elemento literal, como o nome diz,
+busca analisar o texto da norma em sua literalidade. O lógico, por sua vez, busca avaliar a relação
+de cada norma com o restante da Constituição. O histórico avalia o momento de elaboração da
+norma (ideologia então vigente), enquanto o teleológico busca a sua finalidade. Por fim, o
+genético investiga a origem dos conceitos empregados na Constituição.
+O método jurídico valoriza o texto constitucional. Cabe ao intérprete descobrir o sentido desse
+texto, sem extrapolar a literalidade da lei.
+
+Método tópico-problemático
+Criado por Theodor Viehweg, nesse método, há prevalência do problema sobre a norma, ou
+seja, busca-se solucionar determinado problema por meio da interpretação de norma
+constitucional. O método tópico-problemático parte da premissa de que a interpretação
+constitucional tem caráter prático, uma vez que busca resolver problemas concretos. Como a
+norma constitucional é aberta, de significado indeterminado, deve-se dar preferência à discussão
+do problema quando da interpretação constitucional.
+
+Método hermenêutico-concretizador
+
+Criado por Konrad Hesse, esse método pressupõe que a leitura da Constituição se inicia pela
+pré-compreensão do seu sentido pelo intérprete, a quem cabe aplicar a norma para a resolução
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             6
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+de uma situação concreta. Valoriza a atividade interpretativa e as circunstâncias nas quais esta se
+desenvolve, promovendo uma relação entre texto e contexto, transformando a interpretação em
+“movimento de ir e vir” (círculo hermenêutico).
+
+O método hermenêutico-concretizador diferencia-se do método tópico-problemático porque,
+enquanto este pressupõe a primazia do problema sobre a norma, aquele se baseia na prevalência
+do texto constitucional sobre o problema.
+
+
+
+
+                                                         ==5460==
+
+
+
+
+Método integrativo ou científico-espiritual
+Esse método foi preconizado por Rudolf Smend, segundo o qual a interpretação da Constituição
+deve considerar a ordem ou o sistema de valores subjacentes ao texto constitucional. A
+Constituição deve ser interpretada como um todo, dentro da realidade do Estado.
+
+Método normativo-estruturante
+O método normativo-estruturante entende que norma jurídica é diferente do texto normativo:
+aquela é mais ampla que este, pois resulta não só da atividade legislativa, mas igualmente da
+jurisdicional e da administrativa. Assim, para se interpretar a norma, deve-se utilizar tanto seu
+texto quanto a verificação de como se dá sua aplicação à realidade social (contexto). A norma
+seria o resultado da interpretação do texto aliado ao contexto.
+Resumindo:
+
+                                 Métodos de Interpretação da Constituição
+                Jurídico                       Gramático, Histórico, Teleológico, Sistemático e Genético
+        Tópico-Problemático                                         Prevalência do problema sobre a norma
+    Hermenêutico-concretizador                                      Prevalência da norma sobre o problema
+                                                                       Texto da norma ≠ Norma jurídica
+       Normativo-estruturante                   A norma jurídica deve ser interpretada de acordo com o
+                                                                       contexto
+                                                Considera-se o "espírito da Constituição", o sistema de
+ Científico-espiritual ou integrativo
+                                                      valores subjacente ao texto constitucional
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                        7
+        www.estrategiaconcursos.com.br                                                                      64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+(DPE-MG – 2014) Diz-se método normativo-estruturante ou concretista aquele em que o
+intérprete parte do direito positivo para chegar à estruturação da norma, muito mais complexa
+que o texto legal. Há influência da jurisprudência, doutrina, história, cultura e das decisões
+políticas.
+Comentários:
+O método normativo-estruturante leva em consideração que a norma é muito mais complexa do
+que simplesmente o texto legal. A interpretação constitucional deve ser feita levando em
+consideração o contexto (realidade social). Questão correta.
+
+Princípios da Interpretação Constitucional
+Para auxiliar a entender o significado das normas constitucionais, a doutrina criou vários
+enunciados, os chamados princípios de interpretação constitucional. Esses princípios são
+aplicados facultativamente pelo intérprete, não tendo qualquer valor normativo. São eles:
+
+O princípio da unidade da Constituição
+Esse princípio determina que o texto da Constituição deve ser interpretado de forma a evitar
+contradições entre suas normas ou entre os princípios constitucionais. Assim, não há contradição
+verdadeira entre as normas constitucionais: o conflito entre elas é apenas aparente. Ou, em
+outras palavras, não há antinomias reais no texto da Constituição; as antinomias são apenas
+aparentes.
+Segundo esse princípio, na interpretação, deve-se considerar a Constituição como um todo, e
+não interpretar as normas de maneira isolada. O STF aplica, em vários de seus julgados, o
+princípio da unidade da Constituição.
+Do princípio da unidade da Constituição, deriva um entendimento doutrinário importante: o de
+que não existem normas constitucionais originárias inconstitucionais.
+
+Princípio da máxima efetividade (da eficiência ou da interpretação
+efetiva)
+Esse princípio estabelece que o intérprete deve atribuir à norma constitucional o sentido que lhe
+dê maior efetividade social. Visa, portanto, a maximizar a norma, a fim de extrair dela todas as
+suas potencialidades. Sua utilização dá-se principalmente na aplicação dos direitos fundamentais,
+embora possa ser usado na interpretação de todas as normas constitucionais.
+
+Princípio da justeza ou da conformidade funcional ou, ainda, da
+correção funcional
+Esse princípio determina que o órgão encarregado de interpretar a Constituição não pode
+chegar a uma conclusão que subverta o esquema organizatório-funcional estabelecido pelo
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           8
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+constituinte. Assim, esse órgão não poderia alterar, pela interpretação, as competências
+estabelecidas pela Constituição para a União.
+
+Princípio da concordância prática ou da harmonização
+Esse princípio impõe a harmonização dos bens jurídicos em caso de conflito entre eles, de modo
+a evitar o sacrifício total de uns em relação aos outros. É geralmente usado na solução de
+problemas referentes à colisão de direitos fundamentais. Assim, apesar de a Constituição, por
+exemplo, garantir a livre manifestação do pensamento (art. 5º, IV, CF/88), esse direito não é
+absoluto. Ele encontra limites na proteção à vida privada (art. 5º, X, CF/88), outro direito
+protegido constitucionalmente.
+
+Princípio do efeito integrador ou eficácia integradora
+Esse princípio busca que, na interpretação da Constituição, seja dada preferência às
+determinações que favoreçam a integração política e social e o reforço da unidade política. É,
+muitas vezes, associado ao princípio da unidade da constituição, justamente por ter como
+objetivo reforçar a unidade política.
+
+Princípio da força normativa da Constituição
+Esse princípio determina que toda norma jurídica precisa de um mínimo de eficácia, sob pena de
+não ser aplicada. Estabelece, portanto, que, na interpretação constitucional, deve-se dar
+preferência às soluções que possibilitem a atualização de suas normas, garantindo-lhes eficácia e
+permanência.
+Para Konrad Hesse, seu idealizador, as normas jurídicas e a realidade devem ser consideradas em
+seu condicionamento recíproco. A norma constitucional não tem existência autônoma em face da
+realidade. Desse modo, a Constituição, para ser aplicável, deve ser conexa à realidade jurídica,
+social e política.
+
+
+
+
+(PGE-RJ – 2022) Pelo princípio da concordância prática, busca-se, em uma aparente situação de
+conflito entre bens jurídicos de proteção constitucional, a coexistência harmônica entre eles, de
+modo a evitar o sacrifício total ou a negação de um deles.
+Comentários:
+Trata-se de um princípio corolário do princípio da unidade da Constituição e visa compatibilizar
+direitos fundamentais em conflito, na forma descrita na assertiva. Questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           9
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                                  PRINCÍPIOS FUNDAMENTAIS
+Princípios Fundamentais são os valores que orientaram o Poder Constituinte Originário na
+elaboração da Constituição, ou seja, são suas escolhas políticas fundamentais. Na Constituição
+Federal de 1988, estão dispostos no Título I, composto por quatro artigos. Cada um desses
+dispositivos apresenta um tipo de princípio fundamental. O art. 1º trata dos fundamentos da
+República Federativa do Brasil (RFB); o art. 2º, do princípio da separação de Poderes; o art. 3º,
+dos objetivos fundamentais; e o art. 4º, dos princípios da RFB nas relações internacionais.
+
+
+
+
+        Se uma questão disser que um determinado fundamento da RFB (por exemplo, a
+        soberania) é um princípio fundamental, ela estará correta. Da mesma forma, se
+        uma questão disser que um objetivo fundamental da RFB (por exemplo,
+        “construir uma sociedade livre, justa e solidária”) é um princípio fundamental, ela
+        também estará correta. Ou, ainda, se a questão afirmar que um princípio das
+        relações internacionais (por exemplo, “igualdade entre os Estados”) é um
+        princípio fundamental, ela, mais uma vez, estará correta.
+        A explicação para isso é o fato de que os art. 1º - art. 4º evidenciam, todos eles,
+        espécies de princípios fundamentais.
+
+Fundamentos da República Federativa do Brasil
+Os fundamentos da República Federativa do Brasil estão previstos no art. 1º, da Constituição
+Federal de 1988. São eles os pilares, a base do ordenamento jurídico brasileiro.
+
+        Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos
+        Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático
+        de Direito e tem como fundamentos:
+        I - a soberania;
+        II - a cidadania;
+        III - a dignidade da pessoa humana;
+        IV - os valores sociais do trabalho e da livre iniciativa;
+        V - o pluralismo político.
+        Parágrafo único. Todo o poder emana do povo, que o exerce por meio de
+        representantes eleitos ou diretamente, nos termos desta Constituição.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          10
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 01
+
+
+
+Para memorizá-los, usamos a famosa sigla “SOCIDIVAPLU”: soberania, cidadania, dignidade da
+pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político.
+A soberania é um atributo essencial ao Estado, garantindo que sua vontade não se subordine a
+qualquer outro poder, seja no plano interno ou no plano internacional. A soberania é considerada
+um poder supremo e independente: supremo porque não está limitado a nenhum outro poder
+na ordem interna; independente porque, no plano internacional, não se subordina à vontade de
+outros Estados.1
+Assim, no âmbito interno, as normas e decisões elaboradas pelo Estado prevalecem sobre as
+emanadas de grupos sociais intermediários, como família, escola e igreja, por exemplo. Por sua
+vez, na órbita internacional, o Estado somente se submete a regras em relação às quais
+manifestar livremente o seu consentimento.
+A cidadania, por sua vez, é simultaneamente um objeto e um direito fundamental das pessoas;
+ela representa um verdadeiro status do ser humano: o de ser cidadão e, com isso, ter assegurado
+o seu direito de participação na vida política do Estado.2 A previsão da cidadania como
+fundamento do Estado brasileiro exige que o poder público incentive a participação popular nas
+decisões políticas do Estado. Nesse sentido, está intimamente ligada ao conceito de democracia.
+A dignidade da pessoa humana é outro fundamento da República Federativa do Brasil e consiste
+no valor-fonte do ordenamento jurídico, a base de todos os direitos fundamentais. Trata-se de
+princípio que coloca o ser humano como preocupação central para o Estado brasileiro: a
+proteção às pessoas deve ser vista como um fim em si mesmo.
+Em razão da importância do princípio da dignidade da pessoa humana, o STF já o utilizou como
+fundamento de diversas decisões importantes. A seguir, comentaremos os principais
+entendimentos do STF acerca da dignidade humana:
+         a) O STF considerou legítima a união homoafetiva como entidade familiar, em razão do
+         princípio da dignidade da pessoa humana e do direito à busca pela felicidade.
+         b) O STF considera que não ofende o direito à vida e a dignidade da pessoa humana a
+         pesquisa com células-tronco embrionárias obtidas de embriões humanos produzidos por
+         fertilização “in vitro” e não utilizados nesse procedimento.3 Sobre esse ponto, vale a pena
+         esclarecer que, quando é realizada uma fertilização “in vitro”, são produzidos vários
+         embriões e apenas alguns deles são implantados no útero da futura mãe. Os embriões não
+         utilizados no procedimento (que seriam congelados ou descartados) é que poderão ser
+         objeto de pesquisa com células-tronco.
+         c) O STF entende que não é possível, por violar o princípio da dignidade da pessoa
+         humana, a submissão compulsória do pai ao exame de DNA na ação de investigação de
+         paternidade.4
+Voltando à análise dos fundamentos da República Federativa do Brasil, a elevação dos valores
+sociais do trabalho e da livre iniciativa a essa condição reforça que o nosso Estado é capitalista,
+e, simultaneamente, demonstra que o trabalho tem um valor social. É o trabalho, afinal,
+
+1
+  CAETANO, Marcelo. Direito Constitucional, 2ª edição. Rio de Janeiro, Forense, 1987, volume 1, p. 169.
+2
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 61.
+3
+  STF, ADI 3510/DF – Rel. Min Ayres Britto, DJe 27.05.2010
+4
+  STF, Pleno, HC 71.373/RS, rel. Min. Francisco Rezek, Diário da Justiça, Seção I, 22.11.1996.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                    11
+          www.estrategiaconcursos.com.br                                                                  64
+
+                                        https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 01
+
+
+
+ferramenta essencial para garantir, em perspectiva menos ampla, a subsistência das pessoas e,
+em perspectiva mais abrangente, o desenvolvimento e crescimento econômico do país.
+Observe que o art. 170 da CF/88 reitera esse fundamento, ao determinar que “a ordem
+econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim
+assegurar a todos existência digna, conforme os ditames da justiça social”.
+Por último, o Estado brasileiro também tem como fundamento o pluralismo político. Esse
+princípio visa garantir a inclusão dos diferentes grupos sociais no processo político nacional,
+outorgando aos cidadãos liberdade de convicção filosófica e política. Como seu corolário, tem-se
+a liberdade de criação e funcionamento dos partidos políticos. O STF entende que a crítica
+jornalística é um direito cujo suporte legitimador é o pluralismo político; o exercício desse direito
+deve, assim, ser preservado contra ensaios autoritários de repressão penal.5
+Cabe destacar que o pluralismo político exclui os discursos de ódio, assim considerada qualquer
+comunicação que tenha como objetivo inferiorizar uma pessoa com base em raça, gênero,
+                                                           ==5460==
+
+
+
+
+nacionalidade, religião ou orientação sexual. No Brasil, considera-se que os discursos de ódio
+não estão amparados pela liberdade de manifestação de pensamento.
+
+
+
+
+(CGM de João Pessoa – PB – 2018) Conforme a CF, o poder emana do povo e é exercido por
+meio de representantes eleitos, não havendo previsão do exercício do poder diretamente pelo
+povo.
+Comentários:
+De acordo com o parágrafo único do art. 1° da Constituição, “todo o poder emana do povo, que
+o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição”. O
+exercício do poder, portanto, pode se dar diretamente pelo povo. Questão errada.
+
+Forma de Estado
+Entre as decisões políticas fundamentais, estão a definição da forma de Estado e a forma de
+governo. Essas opções políticas foram escolhidas pelo Poder Constituinte Originário logo no
+início do texto constitucional (art. 1º, caput).
+A forma de estado diz respeito à maneira pela qual o poder está territorialmente repartido.
+Nesse sentido, um Estado poderá ser unitário (quando o poder está territorialmente centralizado)
+ou federal (quando o poder está territorialmente descentralizado).6
+O Brasil é um Estado federal, ou seja, adota a federação como forma de Estado. Há diversos
+entes federativos (União, Estados, Distrito Federal e Municípios), todos eles autônomos, dotados
+
+5
+ STF – Pet 3486/DF, Rel. Ministro Celso de Mello. DJe. 22.08.2005.
+6
+ O objetivo dessa aula não é nos aprofundarmos nos conceitos de Estado unitário e Estado federal. Nesse
+momento, os conceitos acima mencionados já são suficientes ao nosso aprendizado.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                              12
+          www.estrategiaconcursos.com.br                                                            64
+
+                                        https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 01
+
+
+
+de governo próprio e de capacidade política. São pessoas jurídicas de direito público que
+mantêm entre si um vínculo indissolúvel. Em razão dessa indissolubilidade, um estado ou
+município brasileiro não pode se separar do Brasil; diz-se que, em uma federação, não há o
+direito de secessão. Trata-se do princípio da indissolubilidade do vínculo federativo.
+Cabe destacar que autonomia difere de soberania. No Brasil, apenas a República Federativa do
+Brasil (RFB) é considerada soberana. Só ela possui personalidade internacional. Isso porque, na
+Federação, os entes reunidos, apesar de não perderem suas personalidades jurídicas, abrem mão
+de algumas prerrogativas, em benefício do todo (Estado Federal). Dessas, a principal é a
+soberania.
+A União é quem representa a RFB no plano internacional (art. 21, inciso I), mas possui apenas
+autonomia, jamais soberania. Os outros entes federativos até podem atuar no plano
+internacional, mas apenas na medida em que a RFB e a Constituição os autorizam.
+Na CF/88, os Municípios foram incluídos, pela primeira vez, como entidades federativas. Com
+essa previsão constitucional, o federalismo brasileiro passou a ser considerado um federalismo de
+terceiro grau: temos uma federação composta por União, Estados e Municípios.7
+Desse modo, no Brasil, a União, os Estados-membros e os Municípios, todos igualmente
+autônomos, têm o mesmo “status” hierárquico, recebendo tratamento jurídico isonômico. O
+governo de qualquer um deles não pode determinar o que o governo do outro pode ou não
+fazer. Cada um exerce suas competências dentro dos limites reservados pela Constituição.
+
+Forma de Governo
+A forma de governo é o modo como se dá a instituição do poder na sociedade e a relação entre
+governantes e governados. Quanto à forma de governo, um Estado poderá ser uma monarquia
+ou uma república.
+No Brasil, a forma de governo adotada (art. 1º, caput) foi a república.
+São características da república o caráter eletivo, representativo e transitório dos detentores do
+poder político e responsabilidade dos governantes.
+Os governantes, na república, são eleitos pelo povo, o que vincula essa forma de governo à
+democracia. Além disso, o governo é limitado e responsável, surgindo a ideia de
+responsabilidade da Administração Pública. Finalmente, o caráter transitório dos detentores do
+poder político é inerente ao governo republicano, sendo ressaltado, por exemplo, no art. 60, § 4º
+da CF/88, que impede que seja objeto de deliberação a proposta de emenda constitucional
+tendente a abolir o “voto direto, secreto, universal e periódico”.
+Outra importante característica da república é que ela é fundada na igualdade formal das
+pessoas. Nessa forma de governo, é intolerável a discriminação, sendo todos formalmente iguais,
+ou seja, iguais perante o Direito.
+
+
+
+
+7
+ O Prof. Manoel Gonçalves Ferreira Filho diz que o Brasil é um federalismo de 2º grau, mas essa é a posição
+minoritária. Para esse autor, haveria dois graus: um da União para os estados, e outro dos Estados para os
+Municípios.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                  13
+          www.estrategiaconcursos.com.br                                                                64
+
+                                        https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 01
+
+
+
+
+Regime Político
+O regime político adotado pelo Brasil é a democracia, o que fica claro quando o art. 1º, caput, da
+CF/88 dispõe que a República Federativa do Brasil consiste em um Estado Democrático de
+Direito.
+O Estado de Direito é aquele no qual existe uma limitação dos poderes estatais; ele representa
+uma superação do antigo modelo absolutista, no qual o governante tinha poderes ilimitados. O
+surgimento do Estado de direito deve-se aos movimentos constitucionalistas modernos.
+Hoje, vive-se o momento do Estado Constitucional, que é, ao mesmo tempo, um Estado de
+Direito e um Estado Democrático. Cabe destacar que a expressão “Estado Democrático de
+Direito” não implica uma mera reunião dos princípios do Estado de Direito e do Estado
+Democrático, uma vez que os supera, trazendo em si um conceito novo, mais abrangente.
+Trata-se, na verdade, da garantia de uma sociedade pluralista, em que todas as pessoas se
+submetem às leis e ao Direito, que, por sua vez, são criados pelo povo, por meio de seus
+representantes. A lei e o Direito, nesse Estado, visam a garantir o respeito aos direitos
+fundamentais, assegurando a todos uma igualdade material, ou seja, condições materiais
+mínimas a uma existência digna. Nos dizeres de Dirley da Cunha Jr, “o Estado Democrático de
+Direito, portanto, é o Estado Constitucional submetido à Constituição e aos valores humanos nela
+consagrados.” 8
+O princípio democrático é reforçado pelo parágrafo único do art. 1º da Constituição Federal.
+Segundo esse dispositivo, “todo o poder emana do povo, que o exerce por meio de
+representantes eleitos ou diretamente” nos termos da Constituição.
+
+
+
+
+(FUB – 2015) O regime político adotado na CF caracteriza a República Federativa do Brasil como
+um estado democrático de direito em que se conjuga o princípio representativo com a
+participação direta do povo por meio do voto, do plebiscito, do referendo e da iniciativa popular.
+Comentários:
+No Brasil, vigora uma democracia semidireta, na qual se conjuga o princípio representativo com a
+participação direta do povo por meio do voto, do plebiscito, do referendo e da iniciativa popular.
+Questão correta.
+
+
+
+
+8
+CUNHA JÚNIOR, Dirley. Curso de Direito Constitucional, 6ª edição, p. 543.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         14
+          www.estrategiaconcursos.com.br                                                       64
+
+                                        https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 01
+
+
+
+
+Harmonia e Independência entre os Poderes
+A separação de poderes é um princípio cujo objetivo é evitar arbitrariedades e o desrespeito aos
+direitos fundamentais9; ele baseia-se na premissa de que, quando o poder político está
+concentrado nas mãos de uma só pessoa, há uma tendência ao abuso do poder. Sob essa
+perspectiva, a separação de poderes é verdadeira técnica de limitação do poder estatal.
+As origens da separação de poderes remontam a Aristóteles, com a obra “A Política”.
+Posteriormente, o tema também foi trabalhado por John Locke e, finalmente, por Montesquieu,
+em sua célebre obra “O espírito das leis”.
+Modernamente, a separação de poderes não é vista como algo rígido. Com efeito, o poder
+político é uno, indivisível; assim, o que pode ser objeto de separação são as funções estatais (e
+não o poder político). Portanto, apesar de a Constituição falar em três Poderes, na verdade, ela
+está se referindo a funções distintas de um mesmo Poder: a legislativa, a executiva e a judiciária.
+A Constituição Federal de 1988 adotou, assim, uma separação de Poderes flexível. Isso significa
+que eles não exercem exclusivamente suas funções típicas, mas também outras, denominadas
+atípicas. Um exemplo disso é o exercício da função administrativa (típica do Executivo) pelo
+Judiciário e pelo Legislativo, quando dispõem sobre sua organização interna e sobre seus
+servidores, nomeando-os ou exonerando-os. Ou, então, quando o Poder Executivo exerce função
+legislativa (típica do Poder Legislativo), ao editar medidas provisórias ou leis delegadas.
+A Constituição Federal de 1988, em seu art. 2º, trata da separação de poderes, dispondo que
+“são poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o
+Judiciário”.
+Chama-nos a atenção o fato de que a Constituição explicita que os três Poderes são
+“independentes e harmônicos”. Independência é a ausência de subordinação, de hierarquia
+entre os Poderes; cada um deles é livre para se organizar e não pode intervir indevidamente (fora
+dos limites constitucionais) na atuação do outro. Harmonia, por sua vez, significa colaboração,
+cooperação; visa garantir que os Poderes expressem uniformemente a vontade da União.
+A independência entre os Poderes não é absoluta. Ela é limitada pelo sistema de freios e
+contrapesos, de origem norte-americana. Esse sistema prevê a interferência legítima de um
+Poder sobre o outro, nos limites estabelecidos constitucionalmente. É o que acontece, por
+exemplo, quando o Congresso Nacional (Poder Legislativo) fiscaliza os atos do Poder Executivo
+(art. 49, X, CF/88). Ou, então, quando o Poder Judiciário controla a constitucionalidade de leis
+elaboradas pelo Poder Legislativo.
+
+Objetivos Fundamentais da República Federativa do Brasil
+Os objetivos fundamentais são as finalidades que devem ser perseguidas pelo Estado brasileiro.
+Que tal analisarmos o art. 3º da Carta Magna?
+
+          Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+          I - construir uma sociedade livre, justa e solidária;
+          II - garantir o desenvolvimento nacional;
+
+9
+ MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 72.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                   15
+          www.estrategiaconcursos.com.br                                                                 64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+        III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e
+        regionais;
+        IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor,
+        idade e quaisquer outras formas de discriminação.
+
+Como se lembrar do rol de objetivos da República Federativa do Brasil, uma vez que o art. 3º da
+CF/88 costuma ser cobrado em sua literalidade? Leia-o e releia-o até decorá-lo! Para ajudá-lo na
+memorização, peço que preste atenção aos verbos, sempre no infinitivo: “construir”, “garantir”,
+“erradicar” e “promover”.
+Outra dica é que esses verbos formam a sigla “Conga Erra Pro”, que serve de memorização.
+Pense em um rapaz, de apelido CONGA, que tem como OBJETIVO não ERRAr na PROva.
+A promoção do bem de todos, sem preconceitos, alçada pela Carta Magna à condição de
+objetivo fundamental da República Federativa do Brasil, consagra a igualdade material como um
+dos objetivos da República Federativa do Brasil. O Estado não pode se contentar com a
+atribuição de igualdade perante a lei aos indivíduos; ao invés disso, deve buscar reduzir as
+disparidades econômicas e sociais.
+Um exemplo da aplicação desse princípio é a reserva de vagas nas universidades federais, a
+serem ocupadas exclusivamente por alunos egressos de escolas públicas. Busca-se tornar o
+sistema educacional mais justo, mais igual. Não se trata de preconceito, mas de uma ação
+afirmativa do Estado.
+
+
+
+
+(CGM de João Pessoa – PB – 2018) Erradicar a pobreza e a marginalização e reduzir as
+desigualdades sociais e regionais constituem objetivos da República Federativa do Brasil
+expressos na CF.
+Comentários:
+Constituem objetivos fundamentais da República Federativa do Brasil (art. 3º, CF):
+I - construir uma sociedade livre, justa e solidária;
+II - garantir o desenvolvimento nacional;
+III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer
+          outras formas de discriminação.
+Questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           16
+        www.estrategiaconcursos.com.br                                                         64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+Princípios das Relações Internacionais
+Estudaremos, agora, os princípios que regem a República Federativa do Brasil em suas relações
+internacionais, os quais estão relacionados no art. 4º da Constituição Federal.
+
+        Art. 4º A República Federativa do Brasil rege-se nas suas relações internacionais
+        pelos seguintes princípios:
+        I - independência nacional;
+        II - prevalência dos direitos humanos;
+        III - autodeterminação dos povos;
+        IV - não-intervenção;
+        V - igualdade entre os Estados;
+        VI - defesa da paz;
+        VII - solução pacífica dos conflitos;
+        VIII - repúdio ao terrorismo e ao racismo;
+        IX - cooperação entre os povos para o progresso da humanidade;
+        X - concessão de asilo político.
+        Parágrafo único. A República Federativa do Brasil buscará a integração
+        econômica, política, social e cultural dos povos da América Latina, visando à
+        formação de uma comunidade latino-americana de nações.
+
+Como costuma ser cobrado esse artigo? Geralmente o examinador tenta confundir esses
+princípios com os objetivos expostos no art. 3º e os fundamentos da RFB, apresentados no art. 1º
+da Carta Magna.
+O legislador constituinte inspirou-se na Carta da ONU, assinada em 1945, ao escrever o art. 4º da
+CF/88. Naquela Carta, expressou-se o maior sentimento da humanidade após o início da II
+Guerra Mundial: busca da paz. Em nossa Constituição, tal sentimento foi registrado nos incisos III,
+IV, VI, VII e IX. Observe que nela determina-se que a RFB buscará a autodeterminação dos povos,
+ou seja, respeitar a sua soberania, não intervindo em suas decisões. Isso porque defende a paz e,
+para tal, a solução pacífica dos conflitos, assumindo que as relações entre os povos devem ser de
+cooperação.
+O parágrafo único do art. 4º da Constituição traz um objetivo a ser buscado pelo Brasil em suas
+relações internacionais: a integração econômica, política, social e cultural dos povos da América
+Latina, visando à formação de uma comunidade latino-americana de nações. Quando é cobrado,
+o examinador geralmente troca “América Latina” por “América do Sul”, para confundi-lo(a).
+Fique atento!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            17
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+(MP-PI – 2018) A defesa da paz e a solução pacífica de conflitos são fundamentos da República
+Federativa do Brasil.
+Comentários:
+A defesa da paz e a solução pacífica de conflitos são princípios das relações internacionais (e não
+fundamentos da RFB!). Os fundamentos da República Federativa do Brasil são os seguintes:
+soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre
+iniciativa e pluralismo político. Questão errada.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            18
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                     GERAÇÕES DOS DIREITOS FUNDAMENTAIS
+                  “Uma Constituição não é um ato de governo, mas de um povo constituindo um
+                  governo. Governo sem constituição é poder sem direito”. (Thomas Paine)
+
+As “gerações” de direitos
+Direitos fundamentais são os direitos da pessoa humana consagrados, em um determinado
+momento histórico, em um certo Estado. Têm como característica principal serem
+constitucionalmente protegidos, ou seja, positivados.
+Tradicionalmente, os direitos fundamentais são classificados em gerações, por não terem todos
+surgido num mesmo momento histórico. Não há consenso na doutrina brasileira acerca do
+conceito de “gerações de direitos humanos”. Porém, a doutrina majoritária reconhece a
+existência de três gerações de direitos:
+       a) Primeira geração — são os direitos que buscam restringir a ação do Estado sobre o
+       indivíduo, impedindo que aquele se intrometa de forma abusiva na vida privada deste.
+       São, por isso, também chamados liberdades negativas: traduzem a liberdade de não sofrer
+       ingerência abusiva por parte do Estado. Para o Estado, consistem em uma obrigação de
+       “não fazer”, de não intervir indevidamente na esfera privada.
+       Os direitos de primeira geração têm como valor-fonte a liberdade. São os direitos civis e
+       políticos, reconhecidos no final do século XVIII, com as Revoluções Francesa e Americana.
+       Como exemplos de direitos de primeira geração, citamos o direito de propriedade, o
+       direito de locomoção, o direito de associação e o direito de reunião.
+       b) Segunda geração — são os direitos que envolvem prestações positivas do Estado aos
+       indivíduos (políticas e serviços públicos) e, em sua maioria, caracterizam-se por serem
+       normas programáticas. São, por isso, também chamados de liberdades positivas. Para o
+       Estado, constituem obrigações de fazer algo em prol dos indivíduos, objetivando que
+       todos tenham “bem-estar”. Em razão disso, eles também são chamados de “direitos do
+       bem-estar”.
+       Seu valor fonte é a igualdade. São os direitos econômicos, sociais e culturais. Como
+       exemplos de direitos de segunda geração, citamos o direito à educação, o direito à saúde
+       e o direito ao trabalho.
+       c) Terceira geração — são os direitos que não protegem interesses individuais, mas que
+       transcendem a órbita dos indivíduos para alcançar a coletividade (direitos transindividuais
+       ou supraindividuais). Têm como valores-fonte a solidariedade e a fraternidade. São os
+       direitos difusos e os coletivos. Citam-se, como exemplos, o direito do consumidor, o
+       direito ao meio ambiente ecologicamente equilibrado e o direito ao desenvolvimento.
+Percebeu como as três primeiras gerações seguem a sequência do lema da Revolução Francesa:
+Liberdade, Igualdade e Fraternidade?
+Parte da doutrina considera a existência de direitos de quarta geração. Para Paulo Bonavides,
+esses direitos incluiriam os direitos relacionados à globalização: direito à democracia, o direito à
+informação e o direito ao pluralismo. Por outro lado, Norberto Bobbio considera como de quarta
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             19
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 01
+
+
+
+geração os “direitos relacionados à engenharia genética”. Há também uma parte da doutrina
+que fala em direitos de quinta geração, representados pelo direito à paz.1
+
+
+
+
+(TJ-PR – 2019) Considerando-se o surgimento e a evolução dos direitos fundamentais em
+gerações, é correto afirmar que o direito ao meio ambiente ecologicamente equilibrado é
+considerado, pela doutrina, direito de segunda geração.
+Comentários:                                                ==5460==
+
+
+
+
+O direito ao meio ambiente ecologicamente equilibrado é direito de 3ª geração. Questão errada.
+
+
+
+
+1
+    BONAVIDES, Paulo. Curso de Direito Constitucional. São Paulo: Malheiros, 2008.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                     20
+           www.estrategiaconcursos.com.br                                                   64
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+              CARACTERÍSTICAS DOS DIREITOS FUNDAMENTAIS
+Antes de passarmos ao estudo das características dos Direitos Fundamentais, é importante
+estudarmos a Teoria dos Quatro Status, desenvolvida pelo jurista alemão Georg Jellinek.
+Status passivo (status subjectionis) é aquele no qual se encontra o indivíduo submetido ao Estado
+na esfera das obrigações individuais.
+O status negativo (status libertatis), por outro lado, indica que a pessoa tem liberdade perante o
+Estado, fazendo com que possa atuar livremente em algumas situações, sem a interferência do
+poder público.
+Já o status positivo (status civitatis) indica a possibilidade de o indivíduo exigir do poder público
+alguma prestação positiva. O Estado atuará em favor do indivíduo, portanto.
+O status ativo (status activus civitatis) alude ao exercício dos direitos políticos por parte do
+indivíduo. O fato de exercer tais direitos é um dos aspectos intrínsecos à cidadania.
+A doutrina aponta as seguintes características para os direitos fundamentais:
+       a) Universalidade — os direitos fundamentais são comuns a todos os seres humanos,
+       respeitadas suas particularidades. Em outras palavras, há um núcleo mínimo de direitos
+       que deve ser outorgado a todas as pessoas (como o direito à vida). Cabe destacar,
+       todavia, que alguns direitos não podem ser titularizados por todos, pois são outorgados a
+       grupos específicos (como os direitos dos trabalhadores).
+       b) Historicidade — os direitos fundamentais não resultam de um acontecimento histórico
+       determinado, mas de todo um processo de afirmação. Surgem a partir das lutas do
+       homem, em que há conquistas progressivas. Por isso mesmo, são mutáveis e sujeitos a
+       ampliações, o que explica as diferentes “gerações” de direitos fundamentais que
+       estudamos.
+       c) Indivisibilidade — os direitos fundamentais são indivisíveis, isto é, formam parte de um
+       sistema harmônico e coerente de proteção à dignidade da pessoa humana. Não podem
+       ser considerados isoladamente, mas sim integrando um conjunto único, indivisível de
+       direitos.
+       d) Inalienabilidade — os direitos fundamentais são intransferíveis e inegociáveis, não
+       podendo ser abolidos por vontade de seu titular. Além disso, não possuem conteúdo
+       econômico-patrimonial.
+       e) Imprescritibilidade — os direitos fundamentais não se perdem com o tempo, sendo
+       sempre exigíveis. Essa característica decorre do fato de que os direitos fundamentais são
+       personalíssimos, não podendo ser alcançados pela prescrição.
+       f) Irrenunciabilidade — o titular dos direitos fundamentais não pode deles dispor, embora
+       possa deixar de exercê-los. É admissível, entretanto, em algumas situações, a
+       autolimitação voluntária de seu exercício, num caso concreto. Seria o caso, por exemplo,
+       dos indivíduos que participam dos conhecidos reality shows, que, temporariamente,
+       abdicam do direito à privacidade.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              21
+        www.estrategiaconcursos.com.br                                                            64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+       g) Relatividade ou limitabilidade — não há direitos fundamentais absolutos. Os direitos
+       fundamentais são relativos, limitáveis, no caso concreto, por outros. No caso de conflito
+       entre eles, há uma concordância prática ou harmonização: nenhum deles é sacrificado
+       definitivamente.
+
+
+
+
+        A relatividade é, entre todas as características dos direitos fundamentais, a mais
+        cobrada em provas.                               ==5460==
+
+
+
+
+        Por isso, guarde o seguinte: não há direito fundamental absoluto! Todo direito
+        sempre encontra limites em outros, também protegidos pela Constituição. É por
+        isso que, em caso de conflito entre dois direitos, não haverá o sacrifício total de
+        um em relação ao outro, mas redução proporcional de ambos, buscando-se, com
+        isso, alcançar a finalidade da norma.
+
+       h) Complementaridade — a plena efetivação dos direitos fundamentais deve considerar
+       que eles compõem um sistema único. Nessa ótica, os diferentes direitos (das diferentes
+       dimensões) complementam-se e, portanto, devem ser interpretados conjuntamente.
+       i) Concorrência — os direitos fundamentais podem ser exercidos cumulativamente,
+       podendo um mesmo titular exercitar vários direitos ao mesmo tempo.
+       j) Efetividade — os poderes públicos têm a missão de concretizar (efetivar) os direitos
+       fundamentais.
+       l) Proibição do retrocesso — por serem os direitos fundamentais o resultado de um
+       processo evolutivo, de conquistas graduais da humanidade, não podem ser enfraquecidos
+       ou suprimidos. Isso significa que as normas que os instituem não podem ser revogadas ou
+       substituídas por outras que os diminuam, restrinjam ou suprimam.
+Os direitos fundamentais possuem uma dupla dimensão: i) dimensão subjetiva; e ii) dimensão
+objetiva.
+Na dimensão subjetiva, os direitos fundamentais são direitos exigíveis perante o Estado: as
+pessoas podem exigir que o Estado se abstenha de intervir indevidamente na esfera privada
+(direitos de 1ª geração) ou que o Estado atue ofertando prestações positivas, por meio de
+políticas e serviços públicos (direitos de 2ª geração).
+Já na dimensão objetiva, os direitos fundamentais são vistos como enunciados dotados de alta
+carga valorativa: eles são qualificados como princípios estruturantes do Estado, cuja eficácia se
+irradia para todo o ordenamento jurídico.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          22
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+(DP-DF – 2022) Os direitos fundamentais caracterizam-se por seu caráter absoluto, característica
+que permanece mesmo havendo eventuais colisões entre eles.
+Comentários:
+Uma das características dos direitos fundamentais é a sua relatividade. Não existem direitos
+fundamentais de natureza absoluta, já que eles encontram limites nos demais direitos previstos
+na Constituição. Questão errada.
+(DPE-PR – 2017) A dimensão subjetiva dos direitos fundamentais resulta de seu significado como
+princípios básicos da ordem constitucional, fazendo com que os direitos fundamentais influam
+sobre todo o ordenamento jurídico e servindo como norte de ação para os poderes constituídos.
+Comentários:
+A dimensão objetiva dos direitos fundamentais é que impõe que estes influam sobre todo o
+ordenamento jurídico. Nesse sentido, fala-se em “eficácia irradiante” dos direitos fundamentais.
+Questão errada.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          23
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                DIREITOS FUNDAMENTAIS: LIMITES E EFICÁCIA
+A imposição de limites aos direitos fundamentais decorre da sua relatividade. Conforme já
+comentamos, nenhum direito fundamental é absoluto: eles encontram limites em outros direitos
+consagrados no texto constitucional. Para tratar desses limites, a doutrina desenvolveu inúmeras
+teorias, entre as quais é importante estudar sobre a teoria dos “limites dos limites”.
+Segundo essa teoria, embora possam ser impostas restrições aos direitos fundamentais, há um
+núcleo essencial que precisa ser protegido. O grande desafio do intérprete e do próprio
+legislador seria definir o que é esse núcleo essencial. Para isso, seria necessário aplicar a regra da
+proporcionalidade, em suas três vertentes (adequação, necessidade e proporcionalidade em
+sentido estrito).
+No Brasil, a CF/88 não previu expressamente a teoria dos limites dos limites. Entretanto, o dever
+de proteção ao núcleo essencial dos direitos fundamentais está implícito na Carta Magna, de
+acordo com vários julgados do STF e de acordo com a doutrina.
+
+
+
+
+(FUB – 2015) Os direitos fundamentais, considerados como cláusula pétrea das constituições,
+podem sofrer limitações por ponderação judicial caso estejam em confronto com outros direitos
+fundamentais, por alteração legislativa, via emenda constitucional, desde que, nesse último caso,
+seja respeitado o núcleo essencial que os caracteriza.
+Comentários:
+É possível, sim, que sejam impostas limitações aos direitos fundamentais, mas desde que seja
+respeitado o núcleo essencial que os caracteriza. Em um caso concreto no qual haja o conflito
+entre direitos fundamentais, o juiz aplicará a técnica da ponderação (harmonização). Questão
+correta.
+
+Eficácia Horizontal dos Direitos Fundamentais:
+Até o século XX, acreditava-se que os direitos fundamentais se aplicavam apenas às relações
+entre o indivíduo e o Estado. Como essa relação é de um ente superior (Estado) com um inferior
+(indivíduo), dizia-se que os direitos fundamentais possuíam “eficácia vertical”.
+A partir do século XX, entretanto, surgiu a teoria da eficácia horizontal dos direitos fundamentais,
+que estendeu sua aplicação também às relações entre particulares. Tem-se a chamada “eficácia
+horizontal” ou “efeito externo” dos direitos fundamentais. A aplicação de direitos fundamentais
+nas relações entre particulares tem diferente aceitação pelo mundo. Nos Estados Unidos, por
+exemplo, só se aceita a eficácia vertical dos direitos fundamentais.
+Pode-se, ainda, falar na eficácia diagonal dos direitos fundamentais. Essa expressão serve para se
+referir à aplicação dos direitos fundamentais em relações assimétricas entre particulares. É o
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               24
+        www.estrategiaconcursos.com.br                                                             64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+caso, por exemplo, das relações de trabalho, marcadas pela desigualdade de forças entre patrões
+e empregados.
+
+
+
+
+(TJ-CE – 2018) A exclusão de sócio de associação privada sem fins lucrativos independe do
+contraditório e da ampla defesa, desde que haja previsão estatutária.
+Comentários:
+Os direitos fundamentais têm eficácia horizontal, isto é, aplicam-se nas relações entre
+                                                         ==5460==
+
+
+
+
+particulares. Assim, na exclusão de sócio de associação privada sem fins lucrativos, devem ser
+garantidos a ampla defesa e o contraditório. Questão errada.
+
+Os Direitos Fundamentais na Constituição Federal de 1988
+Os direitos fundamentais estão previstos no Título II da Constituição Federal de 1988. O Título II,
+conhecido como “Catálogo dos direitos fundamentais”, vai do art. 5º até o art. 17 e divide os
+direitos fundamentais em 5 (cinco) diferentes categorias:
+               a) Direitos e deveres individuais e coletivos (art. 5º).
+               b) Direitos sociais (art. 6º - art. 11).
+               c) Direitos de nacionalidade (art. 12 – art. 13).
+               d) Direitos políticos (art. 14 – art. 16).
+               e) Direitos relacionados à existência, organização e participação em partidos
+               políticos.
+É importante ter atenção para não cair em uma “pegadinha” na hora da prova. Os direitos
+individuais e coletivos, os direitos sociais, os direitos de nacionalidade, os direitos políticos e os
+direitos relacionados à existência, organização e participação em partidos políticos são espécies
+do gênero “direitos fundamentais”.
+O rol de direitos fundamentais previsto no Título II não é exaustivo. Há outros direitos,
+espalhados pelo texto constitucional, como o direito ao meio ambiente (art. 225) e o princípio da
+anterioridade tributária (art. 150, III, “b”). Nesse ponto, vale ressaltar que os direitos
+fundamentais relacionados no Título II são conhecidos pela doutrina como “direitos
+catalogados”; por sua vez, os direitos fundamentais previstos na CF/88, mas fora do Título II, são
+conhecidos como “direitos não catalogados”.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               25
+        www.estrategiaconcursos.com.br                                                             64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+(DP-DF – 2022) Os direitos e garantias previstos pela Constituição Federal de 1988 estão
+dispostos em rol taxativo, em razão da ampla rede de proteção a eles destinada.
+Comentários:
+A enumeração constitucional dos direitos e das garantias fundamentais não é limitada, taxativa,
+haja vista que outros poderão ser reconhecidos futuramente, seja por meio de emendas
+constitucionais ou mesmo mediante normas infraconstitucionais, como os tratados e as
+convenções internacionais de direitos humanos celebrados pelo Brasil. Questão errada.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        26
+        www.estrategiaconcursos.com.br                                                      64
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 01
+
+
+
+
+                                       QUESTÕES COMENTADAS
+
+Interpretação da Constituição
+
+1.​       (FGV/CAGE-RS/Auditor/2025) Ao analisar um processo administrativo fiscal, o auditor
+com competência para a matéria observou que o artigo da Constituição da República objeto de
+análise deveria ser compreendido em uma perspectiva unívoca, na qual o intérprete deve
+desenvolver uma atividade de conhecimento da norma preexistente, não se arvorando em
+partícipe do processo de criação normativa.
+
+Nesse caso, é correto afirmar que as considerações do auditor
+
+a) são refratárias ao formalismo clássico.
+
+b) se harmonizam com o processo de mutação constitucional.
+
+c) se harmonizam com as concepções teóricas lastreadas no realismo jurídico.
+
+d) reconhecem a importância da dicotomia entre programa da norma e âmbito da norma na
+interpretação constitucional.
+
+e)     são refratárias às concepções teóricas que se valem do pensamento problemático na
+interpretação constitucional.
+
+Comentários:
+
+LETRA A. INCORRETA. A palavra “refratária” vem da ideia de resistência a influências ou
+pressões. É como se afirmasse que o Auditor é resistente às ideias estabelecidas pelo formalismo
+clássico. É o contrário! O enunciado descreve uma situação de alinhamento, principalmente
+quando se diz interpretação “unívoca”. Traduz o entendimento literal da norma e aplicação
+estrita do texto Constitucional. Não leva em consideração valores sociais, interpretações criativas
+ou subjetivas.
+
+LETRA B. INCORRETA. A mutação constitucional está ligada à ideia de alteração informal do
+texto da Constituição, por meio de interpretações que refletem novas realidades, trazendo um
+novo sentido. Na verdade, a visão do Auditor reflete uma visão mais rígida e tradicional da
+interpretação das normas constitucionais.
+
+LETRA C. INCORRETA. O realismo jurídico nos traz a ideia de que a interpretação do direito deve
+levar em conta o contexto social e as consequências práticas das decisões jurídicas. A posição do
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          27
+           www.estrategiaconcursos.com.br                                                        64
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+auditor é contrária às ideias do realismo jurídico, já que ele não considera as consequências
+sociais ou a necessidade de adaptação da norma ao longo do tempo.
+
+LETRA D. INCORRETA. Totalmente equivocada, porque a visão do auditor não envolve essa
+reflexão sobre as dimensões e os objetivos das normas. Na verdade, ele se limita a uma leitura
+mais rígida e tradicional, sem explorar as implicações mais amplas ou contextuais que poderiam
+derivar dessa dicotomia.
+
+LETRA E. CORRETA. É o nosso gabarito! O enunciado sugere que o auditor está adotando uma
+abordagem interpretativa que não permite uma leitura flexível ou adaptativa da norma
+constitucional, mas sim uma interpretação estrita e unívoca. Quer dizer que o auditor não está
+aberto a interpretações que considerem múltiplas possibilidades ou contextos, mas sim que
+defende uma interpretação mais rígida e tradicional da norma.
+
+Gabarito: Letra E.
+
+
+
+
+2.​    (FGV/PC-SC/Delegado/2024) Em agosto de 2023, o Supremo Tribunal Federal firmou o
+entendimento de que o uso da tese da legítima defesa da honra em crimes de feminicídio ou de
+agressão contra mulheres contraria os princípios constitucionais da dignidade da pessoa
+humana, da proteção da vida e da igualdade de gênero. Em decorrência, o Art. 23, inciso Il, o
+Art. 25, caput e parágrafo único, do Código Penal e o Art. 65 do Código de Processo Penal
+devem ser interpretados de modo a excluir a legítima defesa da honra do domínio do instituto
+da legítima defesa.
+
+Entre os princípios de hermenêutica constitucional, o utilizado pelo Supremo Tribunal Federal na
+decisão descrita acima é o da
+
+a) unidade constitucional.
+
+b) presunção de constitucionalidade das leis.
+
+c) interpretação conforme à constituição.
+
+d) concordância prática.
+
+e) conformidade funcional.
+
+Comentários:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          28
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+LETRA A. INCORRETA. Muito cuidado, pois com o princípio da unidade busca-se a harmonia
+entre as diversas normas previstas na Constituição Federal, levando-se em conta contradições
+que podem surgir entre os comandos normativos. Trata-se de uma tarefa conferida ao intérprete
+do texto Constitucional, que deve analisar as normas de maneira integrada. O mencionado
+princípio não se encaixa na descrição do enunciado.
+
+LETRA B. INCORRETA. Quando uma lei é criada e aprovada seguindo o devido processo
+legislativo, ela entra no ordenamento jurídico com a presunção de constitucionalidade. Significa
+que, à primeira vista, a norma é considerada válida e está em conformidade com a Constituição.
+No entanto, podemos afirmar que essa presunção é relativa, pois a norma jurídica pode ser
+impugnada via controle de constitucionalidade.
+
+LETRA C. CORRETA. É o nosso gabarito! Podemos afirmar que interpretação conforme à
+Constituição é uma técnica hermenêutica que busca garantir a compatibilidade das normas
+infraconstitucionais com os princípios e direitos estabelecidos na Constituição. Trata-se de técnica
+útil para "resguardar" normas que, em princípio, poderiam ser consideradas inconstitucionais. O
+objetivo é buscar uma interpretação de modo a se alinhar aos preceitos constitucionais.
+
+LETRA D. INCORRETA. Não é o caso da questão! O princípio da concordância prática é utilizado
+muitas vezes para a resolução de conflitos entre bens jurídicos, buscando equilibrar os direitos e
+interesses em jogo, evitando que um bem seja sacrificado em favor de outro.
+
+LETRA E. INCORRETA. Quando se pensa em princípio da conformidade funcional é visando
+orientar o intérprete em relação à repartição de competências estabelecida pelo legislador
+Constituinte. Esse princípio busca assegurar que as funções e atribuições dos diferentes órgãos
+do Estado sejam mantidas conforme o que foi definido no texto Constitucional.
+
+Gabarito: Letra C.
+
+
+
+
+3.​    (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/2024) Em determinada
+ação de anulação do crédito tributário, em que se discutia a ocorrência, ou não, do fato gerador
+do imposto sobre a propriedade predial e territorial urbana, o Juiz de Direito, no limiar da linha
+argumentativa de sua sentença, afirmou que levaria em consideração os aspectos estruturais da
+metódica concretista de Friedrich Müller.
+
+O posicionamento do magistrado permite concluir que, em seus argumentos,
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             29
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+a) os valores subjacentes ao ambiente sociopolítico devem direcionar a compreensão do texto
+normativo, elastecendo ou comprimindo o seu conteúdo.
+
+b) é prestigiada a certeza inerente ao texto normativo, com a separação entre os momentos de
+criação, afeto ao legislador, e de aplicação do Direito.
+
+c) o ambiente sociopolítico deve ser considerado pelo intérprete no processo intelectivo que
+toma por base o texto normativo e deve culminar com a norma.
+
+d) o caso concreto deve ser considerado na perspectiva da tópica pura, de modo que o texto
+normativo irá configurar apenas um dos pontos de vista a serem considerados.
+
+Comentários:
+
+LETRA A. INCORRETA. De forma alguma! Embora mencione que "os valores subjacentes ao
+ambiente sociopolítico devem direcionar a compreensão do texto normativo", a sua formulação
+sugere uma interpretação que poderia elastecer ou comprimir o conteúdo da norma de acordo
+com esses valores, o que não é exatamente o foco da metódica concretista de Friedrich Müller.
+
+LETRA B. INCORRETA. Resta equivocado, porque afirma que "é prestigiada a certeza inerente ao
+texto normativo, com a separação entre os momentos de criação, afeto ao legislador, e de
+aplicação do Direito". Essa afirmação sugere uma visão mais formalista e positivista da
+interpretação do Direito, em que o texto normativo é visto como algo fixo e certo, devendo ser
+aplicado de forma separada da realidade social.
+
+LETRA C. CORRETA. É o nosso gabarito! Os aspectos estruturais da metódica concretista sugere
+uma abordagem que leva em conta o contexto e as circunstâncias específicas do caso. Busca-se
+enfatizar a importância da realidade social e dos valores presentes no ambiente sociopolítico na
+interpretação das normas. Essa opção reflete a ideia de que a interpretação do Direito não pode
+ser feita de forma isolada do contexto social e político, mas sim levando em consideração as
+realidades concretas que influenciam a aplicação da norma.
+
+LETRA D. INCORRETA. A afirmação sugere que o texto normativo seria apenas um dos aspectos
+a serem considerados e que o caso concreto pode ser analisado de maneira isolada, sem uma
+vinculação adequada ao conteúdo da norma. Isso vai de encontro ao proposto pela metódica
+concretista de Müller.
+
+Gabarito: Letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            30
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+4.​    (FGV/ENAM/2024) Sobre a técnica de interpretação conforme a Constituição, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) A interpretação conforme a Constituição é um mecanismo de controle de constitucionalidade
+que não admite a alteração da literalidade do texto normativo, pois o Tribunal Constitucional
+atua sempre como legislador negativo.
+
+( ) As chamadas decisões manipulativas com efeitos aditivos são uma técnica de interpretação
+constitucional em que o Tribunal Constitucional altera o texto original das normas
+infraconstitucionais a fim de conferir-lhes sentido conforme a Constituição. Tal técnica é aplicada
+pelo STF exclusivamente no controle de constitucionalidade por omissão.
+
+( ) A técnica da interpretação conforme a Constituição não é utilizada pelo Supremo Tribunal
+Federal em matéria penal ou processual penal, tendo em vista a incidência dos princípios da
+legalidade estrita e da tipicidade.
+
+As afirmativas são na ordem apresentada, respectivamente,
+
+a) V – V – F.
+
+b) V – F – F.
+
+c) V – F – V.
+
+d) F – F – F.
+
+e) F – V – F.
+
+Comentários:
+
+Item I - A assertiva I está errada em afirmar que a interpretação conforme a Constituição limita a
+atuação do Tribunal como legislador negativo. Não podemos afirmar isso! Pelo contrário,
+entende-se que o STF pode atuar como legislador positivo. Significa que pode alterar o sentido
+da norma para que se adeque à Constituição Federal.
+
+Item II – Podemos afirmar que a assertiva II também está errada. As “decisões manipulativas com
+efeitos aditivos” não se limitam apenas ao controle de constitucionalidade por omissão. Podem
+ser utilizadas nas demais ações de controle abstrato (ADI, ADO, ADC, ADPF).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             31
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+Item III – A assertiva III está errada, porque a técnica de interpretação conforme a constituição
+também é um mecanismo também utilizado pelo STF no âmbito do direito penal e processo
+penal.
+
+(...)
+
+LETRA A. INCORRETA. As assertivas I e II estão incorretas.
+
+LETRA B. INCORRETA. O item I está errado, conforme as razões apresentadas acima.
+
+LETRA C. INCORRETA. Os itens I e III estão errados.
+
+LETRA D. CORRETA. É o nosso gabarito! Todas as assertivas estão erradas, pois não conceitua de
+maneira adequada o instituto da interpretação conforme a constituição. Vejamos:
+
+I) Está errada, pois o STF pode atuar como legislador positivo
+
+II) As decisões manipulativas com efeito aditivo também podem ser usadas nas demais ações de
+controle de constitucionalidade.
+
+III) A interpretação conforme a constituição é um instituto que pode ser utilizado nas situações
+que versem sobre direito penal e processo penal.
+
+LETRA E. INCORRETA. O item II está errado.
+
+Gabarito: Letra D.
+
+
+
+
+5.​      (FGV/TCE-PA/Auditor de Controle Externo/2024) Um tribunal com competência para
+realizar o controle concreto de constitucionalidade recebeu uma causa dessa natureza para fins
+de processo e julgamento. O autor da ação, ao analisar o perfil jurídico e filosófico de dois
+magistrados do tribunal, que exerciam grande influência sobre os seus pares, constatou que o
+primeiro deles entendia que os momentos de interpretação e de aplicação do direito
+apresentavam estreita conexão entre si, daí a relevância do problema concreto. O segundo
+magistrado, por sua vez, sustentava que o problema concreto deveria direcionar o delineamento
+da solução mais adequada, considerando a diversidade de referenciais de análise que poderiam
+influir para a realização desse objetivo, ainda que se distanciasse dos balizamentos oferecidos
+pelo texto constitucional para o caso.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                          32
+         www.estrategiaconcursos.com.br                                                        64
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+Considerando os entendimentos do primeiro e do segundo magistrados, é correto afirmar, na
+perspectiva das teorias da interpretação, que
+
+a) ambos são refratários ao realismo jurídico.
+
+b) ambos se harmonizam com a metódica estruturante.
+
+c) o primeiro se harmoniza com o originalismo e o segundo com o realismo jurídico.
+
+d) o primeiro se harmoniza com o formalismo e o segundo com a teoria do contrato.
+
+e) o primeiro se harmoniza com a metódica concretista e o segundo com a tópica pura.
+
+Comentários:
+
+LETRA A. INCORRETA. De forma alguma, tendo em vista que a o realismo jurídico visa a análise
+prática dos efeitos e das decisões jurídicas, dando ênfase ao contexto social e ao resultado real
+das decisões, divergindo de ambos os magistrados no enunciado.
+
+LETRA B. INCORRETA. A metódica estruturante visa acolher a norma em sua estrutura,
+incorporando o texto e a realidade. Tal metodologia diverge de ambos os juízes dispostos no
+enunciado. Não é o nosso gabarito!
+
+LETRA C. INCORRETA. Pegadinha! Na realidade, o primeiro Juiz se harmoniza com a metódica
+concretista e o segundo com a tópica pura.
+
+LETRA D. INCORRETA. A alternativa está errada, já que o primeiro juiz age conforme a teoria
+metódica concretista e o segundo conforme a tópica pura.
+
+LETRA E. CORRETA. É o nosso gabarito! O primeiro juiz se utiliza da metódica concretista, já que
+essa se opõe a abordagens mais abstratas e teóricas. O objetivo é buscar uma compreensão mais
+prática e realista do direito em situações específicas. Por outro lado, podemos dizer que o
+segundo juiz aplica a teoria tópica pura. Trata-se de uma ferramenta útil para a análise e
+construção de argumentos. Busca explorar diferentes ângulos e aspectos de uma questão
+específica.
+
+Gabarito: Letra E.
+
+
+
+
+6.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) No âmbito do País Alfa, houve um
+golpe de Estado, com a correlata deposição dos governantes que possuíam legitimidade
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          33
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+democrática. A aristocracia golpista decidiu outorgar uma nova Constituição para o País, cujo
+objetivo era o de normatizar a sua base ideológica; apenas legitimar suas decisões, não
+direcioná-las; e permitir a sua perpetuação no poder. Apesar dessas características, a mesma
+ordem constitucional dispunha que a sua interpretação, embora deva prestigiar os balizamentos
+textuais, deve ser igualmente sensível às vicissitudes do ambiente sociopolítico, evitando o que
+denominou de “petrificação textual”.
+
+Na perspectiva das classificações das Constituições e das teorias da interpretação, é possível
+afirmar que estamos perante uma Constituição:
+
+a) outorgada e uma teoria da interpretação compatível com o originalismo.
+
+b) normativa e uma teoria da interpretação compatível com o realismo jurídico.
+                                                         ==5460==
+
+
+
+
+c) semântica e uma teoria da interpretação compatível com a metódica concretista.
+
+d) nominal e uma teoria da interpretação compatível com a metódica estruturante.
+
+e) cezarista e uma teoria da interpretação compatível com a retórica argumentativa.
+
+Comentários:
+
+LETRA A. INCORRETA. O enunciado retrata uma constituição imposta, que não passou por um
+processo democrático de elaboração. É uma característica de regimes ditatoriais. Todavia, não
+podemos afirmar que essa interpretação se alinha ao originalismo, visto que essa teoria defende
+que o significado da norma Constitucional deve permanecer inalterado, exigindo que o
+intérprete sempre aplique a intenção original do legislador constituinte ao formular a norma.
+
+LETRA B. INCORRETA. Uma Constituição normativa é aquela que se estabelece como a norma
+positiva suprema, algo que não ocorre no caso mencionado. Em relação ao realismo jurídico,
+seus defensores afirmam que o Direito é aquilo que os tribunais definem como tal. Portanto, o
+Direito em si não teria um valor intrínseco ou autonomia. Essa perspectiva não parece se encaixar
+na descrição apresentada.
+
+LETRA C. CORRETA. É o nosso gabarito! A constituição mencionada se classifica como
+semântica, que é aquela que está a serviço das classes dominantes, legitimando os detentores do
+poder político em benefício exclusivo dos detentores do poder de fato. É uma espécie de
+Constituição que acaba por auxiliar os detentores do poder na manutenção dos seus próprios
+interesses, não existindo limitações no conteúdo da Constituição.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            34
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+Por outro lado, em relação à teoria da interpretação, ela se alinha à “Metódica Concretista”.
+Trata-se de uma abordagem que busca aplicação da norma ao caso concreto, que é justamente o
+apresentado na questão: “(...) embora deva prestigiar os balizamentos textuais, deve ser
+igualmente sensível às vicissitudes do ambiente sociopolítico, evitando o que denominou de
+“petrificação textual”. Temos aqui uma técnica de interpretação que leva em consideração o
+contexto e aspectos sociais e culturais envolvidos em um determinado caso.
+
+LETRA D. INCORRETA. A Constituição nominal é aquela que se encontra em um estágio de
+transição, pois busca ser normativa, mas não se sabe ao certo se conseguirá alcançar esse
+objetivo. No método normativo-estruturante, há ausência de identidade entre a norma jurídica e
+o texto. O conteúdo literal da norma deve ser interpretado à luz da sua aplicação na realidade
+social.
+
+LETRA E. INCORRETA. A Constituição cesarista não se encaixa nas categorias de outorgada ou
+democrática. Segundo José Afonso da Silva, essa constituição é resultado de um plebiscito
+popular sobre um projeto criado por um imperador ou ditador, o que indica que a participação
+popular não é genuinamente democrática, já que busca apenas ratificar a vontade do detentor
+do poder. Em relação à retórica argumentativa, essa situação não se aplica, já que essa técnica de
+comunicação se baseia em argumentos (ideias, fatos, opiniões, dados) para convencer o
+interlocutor.
+
+Gabarito: Letra C.
+
+
+
+
+7.​       (FGV/Prefeitura de Niterói-RJ/Auditor Municipal/2024) Determinado Secretário Municipal,
+ao interpretar um preceito constitucional, chegou à conclusão de que a atribuição de significado
+ao significante interpretado, apesar da intransponibilidade dos limites textuais, não pode
+desconsiderar a influência da realidade.
+
+Sobre a conclusão do Secretário Municipal, à luz das distintas teorias e métodos de interpretação
+constitucional, assinale a afirmativa correta.
+
+a) É compatível com a tópica pura.
+
+b) É compatível com o originalismo.
+
+c) Não é compatível com o realismo jurídico.
+
+d) Não é compatível com a metódica estruturante.
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                          35
+          www.estrategiaconcursos.com.br                                                        64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+e) Não é compatível com a mutação constitucional.
+
+Comentários:
+
+LETRA A. INCORRETA. A teoria “tópica pura” busca uma compreensão dinâmica das normas
+jurídicas. Baseia-se na ideia de que o direito não deve ser visto apenas como um conjunto rígido
+de regras, mas um sistema que deve ser interpretado à luz de diferentes contextos sociais.
+
+LETRA B. CORRETA. A teoria do originalismo busca aplicar a Constituição de acordo com o
+significado que as palavras e as intenções dos autores tinham quando foi promulgada.
+
+LETRA C. INCORRETA. O Realismo jurídico busca valorizar a interpretação contemporânea, ou
+seja, se adequa a realidade atual.
+
+LETRA D. INCORRETA. A Metódica Estruturante é uma abordagem utilizada no campo do direito
+que busca sistematizar e organizar o conhecimento jurídico de maneira estruturada e lógica.
+
+LETRA E. INCORRETA. A mutação constitucional é um conceito que se refere à alteração do
+conteúdo ou do sentido de uma norma constitucional sem que haja uma formal mudança no
+texto da Constituição.
+
+Gabarito: Letra B.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          36
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                                    QUESTÕES COMENTADAS
+Princípios Fundamentais
+
+1.​    (FGV/PC-MG/Investigador de Polícia/2025) Após amplos estudos realizados pelo
+Ministério competente, foi sugerido ao Presidente da República a apresentação de projeto de lei
+estabelecendo uma política pública especificamente direcionada a duas regiões do país, fundada
+em níveis de desenvolvimento humano, o que redundaria em direcionamento diferenciado de
+recursos e tratamento mais favorecido, quando cotejado com aquele dispensado às demais
+regiões.
+
+O presidente do partido político Alfa, que tem grande penetração nas regiões preteridas,
+solicitou que sua assessoria analisasse a sua compatibilidade com os objetivos fundamentais da
+República Federativa do Brasil.
+
+A assessoria esclareceu corretamente que a proposta
+
+a) não possui conformidade constitucional por destoar do objetivo fundamental de garantir o
+desenvolvimento nacional.
+
+b) deve ser veiculada por meio de emenda constitucional, de modo a excepcionar a exigência de
+tratamento igualitário entre os entes federativos.
+
+c) afronta a concepção de igualdade formal que deve reger o Estado de Direito, legitimando distinções de
+caráter arbitrário que buscarão amparo no subjetivismo do gestor.
+
+d) é expressamente vedada pela ordem constitucional, que exige uniformidade das políticas públicas
+promovidas por cada ente federativo no interior do seu território.
+
+e) se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde
+em tratamento inicial distinto entre as regiões do país.
+
+Comentários:
+
+LETRA A. INCORRETA. A assertiva está equivocada, porque a proposta se alinha com objetivos
+fundamentais da República Federativa do Brasil, tais como o desenvolvimento nacional e a
+redução das desigualdades sociais regionais (art. 3º, incisos I e III da CRFB/88). Esses objetivos
+podem ser analisados conjuntamente no contexto da política pública almejada.
+
+LETRA B. INCORRETA! Não é necessária a edição de emenda Constitucional para promoção de
+políticas públicas relacionadas ao desenvolvimento nacional e à redução de desigualdade
+regional, uma vez que são objetivos fundamentais da RFB.
+
+LETRA C. INCORRETA. Claro que não! A igualdade formal refere-se à ideia de que todos são
+tratados da mesma maneira perante a lei, independentemente das circunstâncias sociais ou
+econômicas. Por outro lado, a igualdade material reconhece a possibilidade de se adotar
+medidas diferenciadas para corrigir desigualdades e garantir oportunidades àqueles que
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 37
+        www.estrategiaconcursos.com.br                                                               64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+necessitam (tratar os desiguais na medida de suas desigualdades). Assim, o princípio da
+igualdade deve ser analisado sob a ótica da isonomia material.
+
+LETRA D. INCORRETA. Na verdade, não há previsão na Constituição Federal que exija a
+uniformidade absoluta das políticas públicas. A CRFB/88 prevê a necessidade de políticas que
+considerem as especificidades de cada região, especialmente no que diz respeito à redução das
+desigualdades regionais.
+
+LETRA E. CORRETA. É o nosso gabarito! A alocação de recursos e a adoção de um tratamento
+diferenciado têm como finalidade promover um equilíbrio entre as diferentes regiões, o que se
+configura como um dos objetivos fundamentais da República, conforme art. 3º, inciso III da
+CRFB/88: “erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e
+regionais”.
+
+Gabarito: E
+
+
+
+2.​     (FGV/PC-MG/Médico Legista/2025) Maria, de nacionalidade austríaca, encontra-se no
+território brasileiro desde meados do último ano. Em razão de sua integração, ainda que
+temporária, à sociedade brasileira, buscou se inteirar em relação aos direitos fundamentais de
+estatura constitucional que possui. Após analisar a Constituição da República, Maria concluiu
+corretamente que
+
+a) tem os mesmos direitos dos brasileiros natos.
+
+b) tem os mesmos direitos dos brasileiros naturalizados.
+
+c) não tem sua esfera jurídica alcançada pelos direitos fundamentais.
+
+d) possui os direitos fundamentais não privativos de brasileiros, natos ou naturalizados.
+
+e) tem os direitos fundamentais assegurados no ato que admitiu sua residência no território
+nacional.
+
+Comentários:
+
+LETRA A. INCORRETA. Embora a Constituição Federal garanta uma série de direitos
+fundamentais a todos os indivíduos, independentemente da nacionalidade, existem certos
+direitos que são exclusivos para brasileiros natos. Por exemplo, a Constituição Federal restringe
+apenas aos brasileiros natos certos a condição de Presidente da República (art. 12, § 3º da
+CRFB/88).
+
+LETRA B. INCORRETA. Embora os brasileiros naturalizados tenham direitos semelhantes aos dos
+brasileiros natos, alguns direitos apenas os natos podem exercer, com a condição de Ministro do
+STF, de acordo com o art. 12, § 3º da CRFB/88.
+
+LETRA C. INCORRETA. A Constituição Federal também garante aos estrangeiros fundamentais.
+Um ponto de observação é que, se formos nos apegar à literalidade do art. 5º, vocês irão
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           38
+        www.estrategiaconcursos.com.br                                                         64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+perceber que o texto faz referência apenas aos “brasileiros e estrangeiros residentes no país”. A
+doutrina e a jurisprudência do STF entendem que basta estar no território nacional para que a
+pessoa seja possuidora de direito fundamental. Não importando se é estrangeira ou não,
+residente ou não.
+
+LETRA D. CORRETA. É o nosso gabarito! Maria, sendo uma estrangeira que se encontra no
+Brasil, tem acesso a diversos direitos fundamentais, mas não a todos. Tais direitos são aqueles
+que podem ser exercidos por qualquer pessoa, independentemente da nacionalidade, como o
+direito à vida, à liberdade e à segurança. No entanto, alguns direitos são exclusivos para
+brasileiros natos ou naturalizados, conforme previsto em nossa Constituição Federal.
+
+LETRA E. INCORRETA. Muito cuidado, pois a Constituição Brasileira garante a proteção de
+direitos fundamentais a todos os indivíduos, independentemente de sua nacionalidade. Isso quer
+dizer que esses direitos não se limitam ao ato de concessão de residência. São garantidos a
+todos os indivíduos que estão no território brasileiro, independentemente de sua situação
+migratória. Assim, podemos afirmar que Maria já possui acesso a certos direitos desde o
+momento em que entrou no Brasil, não se limitando ao reconhecimento formal de sua residência.
+
+Gabarito: D
+
+
+
+3.​   (FGV/DNIT/Analista Administrativo/Administração/2024) A República Federativa do Brasil,
+formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em
+Estado Democrático de Direito.
+
+Assinale a opção que compreende fundamentos da Constituição da República Federativa do
+Brasil de 1988.
+
+a) Os valores sociais do trabalho e da livre iniciativa.
+
+b) A construção de uma sociedade livre, justa e solidária.
+
+c) A garantia do desenvolvimento nacional.
+
+d) A erradicação da pobreza.
+
+e) A promoção do bem de todos.
+
+Comentários:
+
+LETRA A. CORRETA. De cara, temos o nosso gabarito! Os valores sociais do trabalho e da livre
+iniciativa são fundamentos da Constituição Federal, estando elencado no art. 1º, inciso IV da
+CRFB. Tais valores são de suma importância para promover uma sociedade que incentiva o
+trabalho e a liberdade econômica:
+
+  Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e
+  Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como
+  fundamentos:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           39
+        www.estrategiaconcursos.com.br                                                         64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+  IV - os valores sociais do trabalho e da livre iniciativa.
+
+LETRA B. INCORRETA. Cuidado com a pegadinha! A Construção de uma sociedade livre, justa e
+solidária é um objetivo fundamental, estando prevista no art. 3º, inciso I da CRFB/88.
+
+LETRA C. INCORRETA. A garantia do desenvolvimento nacional também é um objetivo
+fundamental da República, conforme previsão do art. 3º, inciso II da CRFB/88.
+
+LETRA D. INCORRETA. Não, pessoal! A erradicação da pobreza é um objetivo fundamental,
+conforme vislumbramos no art. 3º, inciso III da CRFB/88.
+
+LETRA E. INCORRETA. Mais um erro, pois a promoção do bem de todos é mais um objetivo
+fundamental da República, estando prevista no art. 3º, inciso IV da CRFB/88:
+
+Gabarito: A
+
+
+
+4.​   (FGV/DNIT/Analista Administrativo/Administração/2024) Os objetivos fundamentais da
+Constituição da República Federativa do Brasil de 1988 delineiam a essência dos propósitos
+norteadores da nação.
+
+Assinale a opção que compreende objetivo fundamental da Constituição da República
+Federativa do Brasil de 1988.
+
+a) Promover a soberania.
+
+b) Garantir o desenvolvimento nacional.
+
+c) Engajar o pluralismo político.
+
+d) Assegurar a dignidade da pessoa humana.
+
+e) Fomentar a cidadania.
+
+Comentários:
+
+LETRA A. INCORRETA. Devemos ter em mente que a promoção da soberania é um princípio
+fundamental (fundamento da República), não um objetivo fundamental da Constituição,
+conforme podemos observar no art. 1º, inciso I da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! A garantia do desenvolvimento nacional é um objetivo
+fundamental, com previsão no art. 3º, inciso II da CRFB/88: “garantir o desenvolvimento
+nacional”.
+
+LETRA C. INCORRETA. O pluralismo político é um fundamento da República, tendo previsão no
+art.1º, inciso V da CRFB/88.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                    40
+        www.estrategiaconcursos.com.br                                                  64
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+LETRA D. INCORRETA. A dignidade da pessoa humana é um fundamento da República estando
+elencado no art. 1º, inciso III da CRFB/88:
+
+LETRA E. INCORRETA. Cuidado para não confundir! A cidadania é um fundamento da República
+e não um objetivo (art. 1º, inciso II da CRFB/88)
+
+Gabarito: B
+
+5.​    (FGV/DNIT/Analista Administrativo/Administração/2024) Direito Constitucional - Dos
+Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988)
+
+Os princípios das relações internacionais presentes na Constituição da República Federativa do
+Brasil de 1988 refletem o compromisso do país com a cooperação pacífica, a autodeterminação
+dos povos, a não-intervenção e a defesa da paz.
+
+Com relação aos princípios das relações internacionais, analise os itens a seguir.
+
+I. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos
+povos da América Latina.
+
+II. A República Federativa do Brasil orienta suas relações internacionais pelo princípio da redução
+das desigualdades regionais.
+
+III. A República Federativa do Brasil rege-se nas suas relações internacionais pelo princípio da
+concessão de asilo político.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) III, apenas.
+
+Comentários:
+
+LETRA A. INCORRETA. A assertiva II trata de objetivo fundamental da República e não um
+princípio norteador das relações internacionais, de acordo com o art. 3º, inciso III da CRFB/88.
+
+LETRA B. INCORRETA. Apenas a assertiva I trata sobre os princípios das relações internacionais,
+de acordo com o art. 4º, parágrafo único da CRFB/88. Porém, a assertiva II versa sobre um dos
+objetivos fundamentais da República.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                           41
+          www.estrategiaconcursos.com.br                                                         64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+LETRA C. CORRETA. É o nosso gabarito! As assertivas I e III abordam os princípios norteadores
+das Relações Internacionais, estando ambos disciplinados no art. 4º, inciso X e parágrafo único
+da CRFB/88:
+
+                          Art. 4º A República Federativa do Brasil rege-se nas suas relações
+                          internacionais pelos seguintes princípios:
+
+                          X - concessão de asilo político.
+
+                          Parágrafo único. A República Federativa do Brasil buscará a integração
+                          econômica, política, social e cultural dos povos da América Latina, visando à
+                          formação de uma comunidade latino-americana de nações.
+
+LETRA D. INCORRETA. A assertiva II versa sobre a redução das desigualdades regionais. Trata-se
+de um objetivo fundamental da República, com previsão no art. 3º, inciso III da CRFB/88.
+
+LETRA E. INCORRETA. Além da assertiva III, o item I também aduz um dos princípios
+norteadores das relações internacionais, estando ambos disciplinados no art. 4º, inciso X e
+parágrafo único da CRFB/88.
+
+Gabarito: C
+
+
+
+6.​   (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo - Área XIX -Reaplicação/2024) A
+República Federativa do Brasil é em um Estado Democrático de Direito, conforme dispõe a
+Constituição Federal de 1988. No que diz respeito à democracia, analise os tópicos a seguir.
+
+I. A Constituição dispõe de instrumentos de democracia participativa, tais como os conselhos, as
+ouvidorias e o orçamento participativo.
+
+II. A democracia é exercida exclusivamente pelos representantes escolhidos pelo povo, seus
+legítimos mandatários.
+
+III. A democracia brasileira tem como um de seus objetivos fundamentais promover o bem de
+todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de
+discriminação.
+
+IV. No Brasil há um exemplo de democracia direta, considerando que a Constituição prevê
+expressamente que o poder emana do povo.
+
+Está correto o que se afirma em
+
+a) I, III e IV, apenas.
+
+b) I, II e III, apenas.
+
+c) I e III, apenas.
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                               42
+         www.estrategiaconcursos.com.br                                                             64
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+d) I, II e IV, apenas.
+
+e) I, II, III e IV.
+
+Comentários:
+
+LETRA A. INCORRETA. A assertiva IV está errada. Apesar de a Constituição afirmar que "todo
+poder emana do povo", isso não se traduz em uma democracia direta. O Brasil adota um modelo
+de democracia representativa, embora inclua alguns mecanismos de participação direta. Assim,
+podemos considerar que o sistema brasileiro é uma democracia semidireta, pois combina
+elementos de representação com formas de participação popular.
+
+LETRA B. INCORRETA. A assertiva II está errada. A Constituição também contempla mecanismos
+de participação direta do povo, como o plebiscito, referendo e iniciativa popular. Isso significa
+que o poder não é exercido apenas pelos representantes eleitos. Permite-se também que os
+cidadãos participem diretamente em certas decisões políticas.
+
+LETRA C. CORRETA. Apenas as assertivas I e III estão corretas. A Carta Magna prevê várias
+formas que possibilitam a participação direta da população na administração pública, sendo eles
+conselhos de políticas públicas, ouvidorias e o orçamento participativo. Sobre a assertiva III, a
+Constituição determina que como objetivos fundamentais a promoção do bem de todos, sem
+qualquer preconceito ou discriminação, de acordo com o art. 3º, inciso IV da CRFB/88.
+
+LETRA D. INCORRETA. Na verdade, apenas a assertiva I está correta, porque a nossa
+Constituição dispõe de diversas hipóteses da participação direta da população na administração
+pública. Entre elas, podemos encontrar: conselhos de políticas públicas, ouvidorias e orçamento
+participativo.
+
+LETRA E. INCORRETA. De forma alguma! Apenas as assertivas I e III estão corretas.
+
+Gabarito: C
+
+
+
+7.​   (FGV/AL-PR/Técnico Legislativo/2024) João, Deputado Federal, observou que o menor
+desenvolvimento de certas regiões do país contribuía para o aumento da pobreza nesses locais,
+daí decorrendo grandes diferenças em relação à qualidade de vida dos habitantes de outras
+regiões. Por tal razão, almeja apresentar uma proposição legislativa com o objetivo de alterar
+esse quadro.
+
+Ao consultar sua assessoria a respeito da compatibilidade desse objetivo com os princípios
+fundamentais da Constituição da República, foi corretamente informado a João que
+
+a) as desigualdades sociais devem ser afastadas a partir do fortalecimento unitário e uniforme da
+federação, o que impede que João realize os seus objetivos.
+
+b) as opções políticas das maiorias ocasionais não são limitadas pela ordem constitucional, o que
+ampara o objetivo almejado por João.
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         43
+          www.estrategiaconcursos.com.br                                                       64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+c) as iniciativas legislativas devem ser direcionadas ao desenvolvimento nacional, o que afasta a
+possibilidade alvitrada por João.
+
+d) o objetivo fundamental de reduzir as desigualdades regionais ampara o objetivo almejado por
+João.
+
+e) o paradigma de igualdade entre pessoas e instituições obsta o fim alvitrado por João.
+
+Comentários:
+
+LETRA A. INCORRETA. Claro que não! A Carta Magna tem como objetivo da República as
+desigualdades sociais, mas não determina que ocorra através de um sistema unitário e uniforme
+da federação.
+
+LETRA B. INCORRETA. Totalmente equivocada, porque toda ação legislativa deve observar os
+princípios e normas constitucionais, sendo esses parâmetros para as decisões políticas.
+
+LETRA C. INCORRETA. O desenvolvimento nacional é um objetivo fundamental previsto na
+CRFB/88, assim como a redução das desigualdades regionais. Dessa maneira, não há
+impedimento quanto às iniciativas do Deputado João.
+
+LETRA D. CORRETA. É o nosso gabarito! A proposta de iniciativa do deputado João, visa reduzir
+as desigualdades regionais, sendo essa totalmente possível, já que tal propósito é um objetivo
+fundamental previsto no art. 3º, inciso III da CRFB/88:
+
+                         Art. 3º Constituem objetivos fundamentais da República Federativa do
+                         Brasil:
+
+                         III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais
+                         e regionais.
+
+LETRA E. INCORRETA. A igualdade entre indivíduos e instituições não impede a diminuição das
+desigualdades regionais. O princípio da igualdade busca assegurar oportunidades e condições
+justas para todos, sendo plenamente compatível com a redução das disparidades regionais.
+
+Gabarito: D
+
+
+
+8.​   (FGV/ADAB/Fiscal Estadual Agropecuário - Defesa Sanitária e Inspeção Animal/2024) O
+artigo 3º da Constituição Federal dispõe sobre os objetivos fundamentais da República
+Federativa do Brasil, neste contexto é correto afirmar que
+
+a) o Brasil é um país que não se preocupa com o discurso de ódio, uma vez que sempre
+prevalece a liberdade de expressão.
+
+b) cabe ao Estado promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade
+e quaisquer outras formas de discriminação
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 44
+        www.estrategiaconcursos.com.br                                                               64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+c) o desenvolvimento nacional deve ser buscado independente do enfrentamento das
+desigualdades sociais.
+
+d) a construção de uma sociedade livre, demanda a permanência de situações de pobreza e
+marginalização, que decorrem de escolhas pessoais.
+
+e) o Estado não pode incidir na situação de marginalização de parte da população brasileira, em
+razão de não ser necessária a observância da solidariedade.
+
+Comentários:
+
+LETRA A. INCORRETA. Claro que não! A Constituição garante a liberdade de expressão, no
+entanto, tal direito não é absoluto, não sendo permitido sua utilização para justificar discurso de
+ódio ou atos discriminatórios.
+
+LETRA B. CORRETA. É o nosso gabarito! Nossa Carta Magna estabelece que a promoção do
+bem de todos, o combate à discriminação e o preconceito é um objetivo fundamental,
+devidamente reconhecido no art. 3º, inciso IV da CRFB/88:
+
+                         Art. 3º Constituem objetivos fundamentais da República Federativa do
+                         Brasil:
+
+                         IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor,
+                         idade e quaisquer outras formas de discriminação.
+
+LETRA C. INCORRETA. O desenvolvimento nacional é um objetivo fundamental da República, no
+entanto, deve ser exercido em comunhão com a redução das desigualdades, já que esse
+também é um objetivo fundamental da República, consoante art. 3º, inciso II e III da CRFB/88.
+
+LETRA D. INCORRETA. A crença de que uma sociedade livre exige a manutenção de situações
+de pobreza e marginalização é equivocada. A CRFB/88 tem como objetivo fundamental o
+contrário: eliminar a pobreza e a marginalização (art. 3º, inciso III da CRFB/88).
+
+LETRA E. INCORRETA. A Constituição determina a erradicação da pobreza e da marginalização
+como objetivos fundamentais, exigindo solidariedade e ação por parte do Estado nesse
+contexto.
+
+Gabarito: B
+
+
+
+9.​   (FGV/ADAB/Fiscal Estadual Agropecuário - Defesa Sanitária e Inspeção Animal/2024) De
+acordo com o artigo 4º da Constituição Federal, a República Federativa do Brasil deve observar
+alguns princípios nas suas relações internacionais.
+
+Nesse sentido, analise os itens a seguir:
+
+I. Dependência internacional;
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             45
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+II. Prevalência dos direitos humanos;
+
+III. Defesa da paz, exceto nas situações de guerra;
+
+IV. Repúdio ao racismo.
+
+Está correto o que se afirma em
+
+a) I, II e IV, apenas.
+
+b) II, III e IV, apenas.
+
+c) II e IV, apenas.
+
+d) I, III e IV, apenas.                                    ==5460==
+
+
+
+
+e) I, II, III e IV.
+
+Comentários:
+
+LETRA A. INCORRETA. A assertiva I está errada. Dependência nacional não é um princípio
+norteador das relações internacionais. Na realidade, a Constituição prevê o contrário:
+independência nacional, de acordo com o art. 4º, inciso I da CRFB/88.
+
+LETRA B. INCORRETA. Cuidado com a casca de banana, pessoal! A defesa da paz é um princípio
+que rege a República Federativa nas relações internacionais. No entanto, a nossa Constituição
+não abre exceção no período de guerra.
+
+LETRA C. CORRETA. É o nosso gabarito! A prevalência dos direitos humanos, bem como o
+repúdio ao racismo são princípios norteadores das relações internacionais, os quais estão
+previstos no art. 4º, incisos II e VIII da CRFB/88:
+
+                           Art. 4º A República Federativa do Brasil rege-se nas suas relações
+                           internacionais pelos seguintes princípios:
+
+                           II - prevalência dos direitos humanos;
+
+                           (...)
+
+                           VIII - repúdio ao terrorismo e ao racismo.
+
+LETRA D. INCORRETA. As assertivas I e III estão em desconformidade com a Constituição. Na
+verdade, o texto constitucional vislumbra a independência nacional. Com relação à paz, a
+Constituição estabelece a disciplina como princípio das relações internacionais, não abrindo
+exceção.
+
+LETRA E. INCORRETA. De forma alguma! Apenas as assertivas II e IV contém os princípios
+norteadores das relações internacionais, estando dispostos no art. 4º, incisos II e VIII da CRFB/88.
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                            46
+          www.estrategiaconcursos.com.br                                                          64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+Gabarito: C.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional       47
+        www.estrategiaconcursos.com.br                                     64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                                    QUESTÕES COMENTADAS
+
+Teoria Geral dos Direitos Fundamentais
+
+1.​     (FGV/TCE-RR/Analista Administrativo - Tecnologia da Informação - Banco de Dados/2025)
+Pedro entendia que sua esfera jurídica estava protegida por um direito fundamental de estatura
+constitucional. No entanto, estava preocupado com a possibilidade desse direito fundamental
+sofrer algum tipo de restrição, o que acarretaria a redução do potencial expansivo da sua esfera
+jurídica.
+
+Ao consultar um especialista, foi corretamente esclarecido que os direitos fundamentais
+
+a) somente podem sofrer as restrições estabelecidas em lei.
+
+b) somente podem ser restringidos se isto for necessário para a continuidade do Estado.
+
+c) somente podem ser restringidos se houver anuência expressa do seu beneficiário, in casu, de
+Pedro.
+
+d) podem sofrer restrições de acordo com as circunstâncias fáticas e jurídicas de uma situação
+concreta.
+
+e) asseguram posições absolutas à pessoa humana, sendo insuscetíveis de sofrer a restrição
+cogitada por Pedro.
+
+Comentários:
+
+LETRA A. INCORRETA. Apesar de a legislação poder impor restrições, nem todas elas são
+originárias exclusivamente da lei. Algumas surgem de princípios constitucionais e da
+interpretação realizada pelo STF. Isso significa que, além das normas escritas, a aplicação e a
+compreensão da Constituição também desempenham um papel crucial na definição e limitação
+de direitos.
+
+LETRA B. INCORRETA. Muito cuidado, pois as restrições aos princípios fundamentais não
+ocorrem apenas para que seja dada continuidade do Estado, podendo acontecer como forma de
+equilibrar os demais direitos e princípios fundamentais previstos na Constituição.
+
+LETRA C. INCORRETA. Existem situações específicas em que a restrição pode ocorrer sem a
+anuência do beneficiário, como em casos de interesse público ou segurança coletiva, desde que
+respeitados os limites legais e constitucionais. Nesses casos, a restrição deve ser proporcional,
+razoável e fundamentada em normas que legitimem a medida.
+
+LETRA D. CORRETA. É o nosso gabarito! De acordo com o STF, os direitos fundamentais não são
+absolutos (característica da relatividade) e podem sofrer restrições, desde que essas limitações
+sejam legítimas, proporcionais e estejam fundamentadas na Constituição.
+
+LETRA E. INCORRETA. Totalmente equivocada, tendo em vista que nenhum direito fundamental
+é absoluto, podendo ele ser relativizado em detrimento de outro (juízo de ponderação de
+valores).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          48
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+Gabarito: Letra D.
+
+
+
+2.​   (FGV/ISS Cuiabá-MT/Auditor-Fiscal Tributário da Receita Municipal/2024) João constatou
+que era alcançado por uma norma constitucional que reconhecia determinado direito
+fundamental. No entanto, tinha dúvidas se esse direito fundamental poderia ser limitado por
+outro direito fundamental, igualmente reconhecido pela Constituição da República e que, em
+determinada situação, beneficiaria Pedro. Ao fim de suas reflexões, João concluiu corretamente
+que, na realidade brasileira, a forma como os direitos fundamentais têm sido ordinariamente
+compreendidos indica que, em razão de suas características, dão ensejo a
+
+a) potenciais conflitos, que devem ser resolvidos in abstracto.
+
+b) posições jurídicas definitivas, logo, o seu direito não será afetado pelo direito de Pedro.
+
+c) posições jurídicas prima facie, de modo que o conflito será resolvido no momento da
+aplicação das normas.
+
+d) uma concordância prática, que é estabelecida pela própria ordem constitucional, o que afasta
+o surgimento de conflitos.
+
+e) juízos de valor lastreados no seu potencial expansivo, que não deve ser limitado por outros
+bens e valores, sob pena de comprometimento de sua eficácia.
+
+Comentários:
+
+LETRA A. INCORRETA. Claro que não! A solução dos conflitos dos direitos fundamentais não
+deve ser resolvida em situação abstrata, mas sim nos casos concretos.
+
+LETRA B. INCORRETA. De forma alguma! As posições jurídicas definitivas não se alinham com a
+noção de colisão de direitos. Isso porque, em situações de conflito, é necessário um processo de
+análise e ponderação de valores que leve em conta as circunstâncias específicas de cada caso.
+
+LETRA C. CORRETA. É o nosso gabarito! Essa expressão indica que os direitos fundamentais são,
+em essência, válidos e merecem respeito. Contudo, não são absolutos podendo ser restringidos
+em situações específicas, especialmente quando há conflito com outros direitos. O conflito entre
+direitos fundamentais não é tratado de maneira abstrata, mas sim considerando o caso concreto
+e as particularidades da situação. O intérprete deve avaliar os direitos que colidem e buscar a
+solução que promova a melhor harmonização do sistema jurídico.
+
+LETRA D. INCORRETA. Em razão da possibilidade de conflito, a aceitação prática estabelecida
+pela ordem constitucional não deve ser uma regra.
+
+LETRA E. INCORRETA. Nenhum direito fundamental é absoluto, podendo ser relativizado em
+detrimento de outro, conforme entendimento consolidado do STF.
+
+Gabarito: Letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             49
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+3.​    (FGV/CGM-RJ/Contador/2023) Joana, Maria e Antônio travaram um debate a respeito de
+algumas características dos direitos sociais à luz da sistemática constitucional. Joana sustentava
+que, na maior parte das vezes, mas não sempre, assumiam contornos prestacionais. Maria
+defendia que direitos dessa natureza são sempre compreendidos na perspectiva do agregado
+social, não sendo possível perquirir a sua fruição, ou não, em uma perspectiva individualista.
+Antônio, por sua vez, defendia que as liberdades fundamentais e os direitos sociais devem ser
+compreendidos na perspectiva da indivisibilidade dos direitos fundamentais.
+
+Inês, ao analisar as afirmações apresentadas, concluiu, corretamente, que:
+
+a) todas estão certas;
+
+b) somente as afirmações de Joana e Antônio estão certas, enquanto a de Maria está errada;
+
+c) somente a afirmação de Maria está certa, enquanto as de Joana e Antônio estão erradas;
+
+d) somente a afirmação de Joana está certa, enquanto as de Maria e Antônio estão erradas;
+                                                         ==5460==
+
+
+
+
+e) somente as afirmações de Maria e Antônio estão certas, enquanto a de Joana está errada.
+
+Comentários:
+
+LETRA A. INCORRETA. Não, pessoal! A afirmação de Maria está errada, porque os direitos
+sociais podem ser usufruídos tanto pela coletividade, como de forma individual como, por
+exemplo, o direito à saúde e à educação.
+
+LETRA B. CORRETA. É o nosso gabarito! Apenas as afirmações de Joana e Antônio estão
+corretas. Os direitos sociais, em sua maioria, são de responsabilidade do Estado proporcioná-los
+através das políticas públicas. Uma das características dos direitos fundamentais é a
+indivisibilidade, incluindo os direitos sociais no conjunto dos direitos e garantias fundamentais. A
+indivisibilidade refere-se à ideia de que esses direitos são interdependentes e interligados, o que
+significa que não é viável assegurar o pleno exercício de um direito ou garantia sem garantir
+também os demais.
+
+LETRA C. INCORRETA. De forma alguma! A assertiva de Maria está errada, uma vez que os
+direitos sociais podem ser gozados pela coletividade e também de forma individual.
+
+LETRA D. INCORRETA. Assim como a de Joana, a afirmativa de Antônio também está certa. Uma
+das características dos direitos fundamentais é a indivisibilidade e os direitos sociais por estarem
+contidos nos direitos e garantias fundamentais também possuem essas características.
+
+LETRA E. INCORRETA. Na verdade, apenas a afirmação de Maria está errada, enquanto as
+afirmações de Joana e Antônio estão corretas. Os direitos sociais podem ser utilizados tanto pela
+coletividade, como de forma individual. Temos como exemplo o individualismo dos direitos
+sociais, os direitos à saúde e à educação.
+
+Gabarito: Letra B.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             50
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+4.​    (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/2024) Joana, estudante de
+Direito Constitucional, questionou seu professor em relação à correlação dos elementos
+estruturais do conceito de cidadania plena, à sua atribuição à pessoa humana e à forma de
+fruição. Considerando os distintos aspectos afetos ao referido conceito, o professor respondeu,
+corretamente, que
+
+a) seus aspectos estruturais se resumem ao direito de participação política efetivado de modo
+crítico, com pleno reconhecimento da realidade circundante.
+
+b) a atribuição e a correlata fruição de seus distintos aspectos pressupõem o alistamento
+eleitoral perante a estrutura estatal de poder competente.
+
+c) abrange o reconhecimento de uma esfera jurídica individual imune à intervenção estatal e à
+fruição de direitos prestacionais.
+
+d) somente está ao alcance dos brasileiros natos, não dos estrangeiros, salvo se residentes no
+território brasileiro há mais de dez anos.
+
+Comentários:
+
+LETRA A. INCORRETA. A cidadania plena, além da participação política, também abrange o
+gozo de direitos civis e sociais.
+
+LETRA B. INCORRETA. De forma alguma! O alistamento eleitoral é apenas um requisito dos
+direitos políticos e a cidadania abrange os direitos civis, sociais e políticos.
+
+LETRA C. CORRETA. É o nosso gabarito! A esfera jurídica individual que é imune à intervenção
+do Estado diz respeito aos direitos civis, que são os direitos fundamentais de 1ª dimensão,
+baseados no princípio da liberdade. Busca-se uma redução da interferência estatal na vida dos
+cidadãos. Por outro lado, os direitos prestacionais estão relacionados aos direitos sociais (2ª
+dimensão). Esses direitos dependem, em grande parte, de ações positivas do Poder Público para
+sua efetivação.
+
+LETRA D. INCORRETA. Não, pessoal! A nossa Carta Magna garante a proteção de direitos
+fundamentais a todos os indivíduos, independentemente de sua nacionalidade. Tais direitos não
+se limitam ao ato de concessão de residência, mas são garantidos a todos os indivíduos que
+estão no território brasileiro, independentemente de sua situação migratória (art. 5º da CRFB/88).
+
+Gabarito: Letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            51
+        www.estrategiaconcursos.com.br                                                          64
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 01
+
+
+
+
+                                            LISTA DE QUESTÕES
+
+Interpretação da Constituição
+
+1.​       (FGV/CAGE-RS/Auditor/2025) Ao analisar um processo administrativo fiscal, o auditor
+com competência para a matéria observou que o artigo da Constituição da República objeto de
+análise deveria ser compreendido em uma perspectiva unívoca, na qual o intérprete deve
+desenvolver uma atividade de conhecimento da norma preexistente, não se arvorando em
+partícipe do processo de criação normativa.
+
+Nesse caso, é correto afirmar que as considerações do auditor
+
+a) são refratárias ao formalismo clássico.
+
+b) se harmonizam com o processo de mutação constitucional.
+
+c) se harmonizam com as concepções teóricas lastreadas no realismo jurídico.
+
+d) reconhecem a importância da dicotomia entre programa da norma e âmbito da norma na
+interpretação constitucional.
+
+e)     são refratárias às concepções teóricas que se valem do pensamento problemático na
+interpretação constitucional.
+
+
+
+
+2.​       (FGV/PC-SC/Delegado/2024) Em agosto de 2023, o Supremo Tribunal Federal firmou o
+entendimento de que o uso da tese da legítima defesa da honra em crimes de feminicídio ou de
+agressão contra mulheres contraria os princípios constitucionais da dignidade da pessoa
+humana, da proteção da vida e da igualdade de gênero. Em decorrência, o Art. 23, inciso Il, o
+Art. 25, caput e parágrafo único, do Código Penal e o Art. 65 do Código de Processo Penal
+devem ser interpretados de modo a excluir a legítima defesa da honra do domínio do instituto
+da legítima defesa.
+
+Entre os princípios de hermenêutica constitucional, o utilizado pelo Supremo Tribunal Federal na
+decisão descrita acima é o da
+
+a) unidade constitucional.
+
+b) presunção de constitucionalidade das leis.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       52
+           www.estrategiaconcursos.com.br                                                     64
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+c) interpretação conforme à constituição.
+
+d) concordância prática.
+
+e) conformidade funcional.
+
+
+
+
+3.​    (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/2024) Em determinada
+ação de anulação do crédito tributário, em que se discutia a ocorrência, ou não, do fato gerador
+do imposto sobre a propriedade predial e territorial urbana, o Juiz de Direito, no limiar da linha
+argumentativa de sua sentença, afirmou que levaria em consideração os aspectos estruturais da
+metódica concretista de Friedrich Müller.                ==5460==
+
+
+
+
+O posicionamento do magistrado permite concluir que, em seus argumentos,
+
+a) os valores subjacentes ao ambiente sociopolítico devem direcionar a compreensão do texto
+normativo, elastecendo ou comprimindo o seu conteúdo.
+
+b) é prestigiada a certeza inerente ao texto normativo, com a separação entre os momentos de
+criação, afeto ao legislador, e de aplicação do Direito.
+
+c) o ambiente sociopolítico deve ser considerado pelo intérprete no processo intelectivo que
+toma por base o texto normativo e deve culminar com a norma.
+
+d) o caso concreto deve ser considerado na perspectiva da tópica pura, de modo que o texto
+normativo irá configurar apenas um dos pontos de vista a serem considerados.
+
+
+
+
+4.​    (FGV/ENAM/2024) Sobre a técnica de interpretação conforme a Constituição, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+( ) A interpretação conforme a Constituição é um mecanismo de controle de constitucionalidade
+que não admite a alteração da literalidade do texto normativo, pois o Tribunal Constitucional
+atua sempre como legislador negativo.
+
+( ) As chamadas decisões manipulativas com efeitos aditivos são uma técnica de interpretação
+constitucional em que o Tribunal Constitucional altera o texto original das normas
+infraconstitucionais a fim de conferir-lhes sentido conforme a Constituição. Tal técnica é aplicada
+pelo STF exclusivamente no controle de constitucionalidade por omissão.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             53
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+( ) A técnica da interpretação conforme a Constituição não é utilizada pelo Supremo Tribunal
+Federal em matéria penal ou processual penal, tendo em vista a incidência dos princípios da
+legalidade estrita e da tipicidade.
+
+As afirmativas são na ordem apresentada, respectivamente,
+
+a) V – V – F.
+
+b) V – F – F.
+
+c) V – F – V.
+
+d) F – F – F.
+
+e) F – V – F.
+
+
+
+
+5.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) Um tribunal com competência para
+realizar o controle concreto de constitucionalidade recebeu uma causa dessa natureza para fins
+de processo e julgamento. O autor da ação, ao analisar o perfil jurídico e filosófico de dois
+magistrados do tribunal, que exerciam grande influência sobre os seus pares, constatou que o
+primeiro deles entendia que os momentos de interpretação e de aplicação do direito
+apresentavam estreita conexão entre si, daí a relevância do problema concreto. O segundo
+magistrado, por sua vez, sustentava que o problema concreto deveria direcionar o delineamento
+da solução mais adequada, considerando a diversidade de referenciais de análise que poderiam
+influir para a realização desse objetivo, ainda que se distanciasse dos balizamentos oferecidos
+pelo texto constitucional para o caso.
+
+Considerando os entendimentos do primeiro e do segundo magistrados, é correto afirmar, na
+perspectiva das teorias da interpretação, que
+
+a) ambos são refratários ao realismo jurídico.
+
+b) ambos se harmonizam com a metódica estruturante.
+
+c) o primeiro se harmoniza com o originalismo e o segundo com o realismo jurídico.
+
+d) o primeiro se harmoniza com o formalismo e o segundo com a teoria do contrato.
+
+e) o primeiro se harmoniza com a metódica concretista e o segundo com a tópica pura.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         54
+        www.estrategiaconcursos.com.br                                                       64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+6.​    (FGV/TCE-PA/Auditor de Controle Externo/2024) No âmbito do País Alfa, houve um
+golpe de Estado, com a correlata deposição dos governantes que possuíam legitimidade
+democrática. A aristocracia golpista decidiu outorgar uma nova Constituição para o País, cujo
+objetivo era o de normatizar a sua base ideológica; apenas legitimar suas decisões, não
+direcioná-las; e permitir a sua perpetuação no poder. Apesar dessas características, a mesma
+ordem constitucional dispunha que a sua interpretação, embora deva prestigiar os balizamentos
+textuais, deve ser igualmente sensível às vicissitudes do ambiente sociopolítico, evitando o que
+denominou de “petrificação textual”.
+
+Na perspectiva das classificações das Constituições e das teorias da interpretação, é possível
+afirmar que estamos perante uma Constituição:
+
+a) outorgada e uma teoria da interpretação compatível com o originalismo.
+
+b) normativa e uma teoria da interpretação compatível com o realismo jurídico.
+
+c) semântica e uma teoria da interpretação compatível com a metódica concretista.
+
+d) nominal e uma teoria da interpretação compatível com a metódica estruturante.
+
+e) cezarista e uma teoria da interpretação compatível com a retórica argumentativa.
+
+
+
+
+7.​    (FGV/Prefeitura de Niterói-RJ/Auditor Municipal/2024) Determinado Secretário Municipal,
+ao interpretar um preceito constitucional, chegou à conclusão de que a atribuição de significado
+ao significante interpretado, apesar da intransponibilidade dos limites textuais, não pode
+desconsiderar a influência da realidade.
+
+Sobre a conclusão do Secretário Municipal, à luz das distintas teorias e métodos de interpretação
+constitucional, assinale a afirmativa correta.
+
+a) É compatível com a tópica pura.
+
+b) É compatível com o originalismo.
+
+c) Não é compatível com o realismo jurídico.
+
+d) Não é compatível com a metódica estruturante.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          55
+        www.estrategiaconcursos.com.br                                                        64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+e) Não é compatível com a mutação constitucional.
+
+
+
+
+                                                   GABARITO
+                                                     1.​ LETRA E
+                                                     2.​ LETRA C
+                                                     3.​ LETRA C
+                                                     4.​ LETRA D
+                                                     5.​ LETRA E
+                                                     6.​ LETRA C
+                                                     7.​ LETRA B
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional       56
+        www.estrategiaconcursos.com.br                                     64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                                         LISTA DE QUESTÕES
+
+Princípios Fundamentais
+
+1.​    (FGV/PC-MG/Investigador de Polícia/2025) Após amplos estudos realizados pelo
+Ministério competente, foi sugerido ao Presidente da República a apresentação de projeto de lei
+estabelecendo uma política pública especificamente direcionada a duas regiões do país, fundada
+em níveis de desenvolvimento humano, o que redundaria em direcionamento diferenciado de
+recursos e tratamento mais favorecido, quando cotejado com aquele dispensado às demais
+regiões.
+
+O presidente do partido político Alfa, que tem grande penetração nas regiões preteridas,
+solicitou que sua assessoria analisasse a sua compatibilidade com os objetivos fundamentais da
+República Federativa do Brasil.
+
+A assessoria esclareceu corretamente que a proposta
+
+a) não possui conformidade constitucional por destoar do objetivo fundamental de garantir o
+desenvolvimento nacional.
+
+b) deve ser veiculada por meio de emenda constitucional, de modo a excepcionar a exigência de
+tratamento igualitário entre os entes federativos.
+
+c) afronta a concepção de igualdade formal que deve reger o Estado de Direito, legitimando distinções de
+caráter arbitrário que buscarão amparo no subjetivismo do gestor.
+
+d) é expressamente vedada pela ordem constitucional, que exige uniformidade das políticas públicas
+promovidas por cada ente federativo no interior do seu território.
+
+e) se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde
+em tratamento inicial distinto entre as regiões do país.
+
+
+
+
+2.​     (FGV/PC-MG/Médico Legista/2025) Maria, de nacionalidade austríaca, encontra-se no
+território brasileiro desde meados do último ano. Em razão de sua integração, ainda que
+temporária, à sociedade brasileira, buscou se inteirar em relação aos direitos fundamentais de
+estatura constitucional que possui. Após analisar a Constituição da República, Maria concluiu
+corretamente que
+
+a) tem os mesmos direitos dos brasileiros natos.
+
+b) tem os mesmos direitos dos brasileiros naturalizados.
+
+c) não tem sua esfera jurídica alcançada pelos direitos fundamentais.
+
+d) possui os direitos fundamentais não privativos de brasileiros, natos ou naturalizados.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 57
+        www.estrategiaconcursos.com.br                                                               64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+e) tem os direitos fundamentais assegurados no ato que admitiu sua residência no território
+nacional.
+
+
+
+3.​   (FGV/DNIT/Analista Administrativo/Administração/2024) A República Federativa do Brasil,
+formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em
+Estado Democrático de Direito.
+
+Assinale a opção que compreende fundamentos da Constituição da República Federativa do
+Brasil de 1988.
+
+a) Os valores sociais do trabalho e da livre iniciativa.
+
+b) A construção de uma sociedade livre, justa e solidária.
+
+c) A garantia do desenvolvimento nacional.
+
+d) A erradicação da pobreza.
+
+e) A promoção do bem de todos.
+
+
+
+4.​   (FGV/DNIT/Analista Administrativo/Administração/2024) Os objetivos fundamentais da
+Constituição da República Federativa do Brasil de 1988 delineiam a essência dos propósitos
+norteadores da nação.
+
+Assinale a opção que compreende objetivo fundamental da Constituição da República
+Federativa do Brasil de 1988.
+
+a) Promover a soberania.
+
+b) Garantir o desenvolvimento nacional.
+
+c) Engajar o pluralismo político.
+
+d) Assegurar a dignidade da pessoa humana.
+
+e) Fomentar a cidadania.
+
+
+
+5.​    (FGV/DNIT/Analista Administrativo/Administração/2024) Direito Constitucional - Dos
+Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988)
+
+Os princípios das relações internacionais presentes na Constituição da República Federativa do
+Brasil de 1988 refletem o compromisso do país com a cooperação pacífica, a autodeterminação
+dos povos, a não-intervenção e a defesa da paz.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        58
+        www.estrategiaconcursos.com.br                                                      64
+
+                                      https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+Com relação aos princípios das relações internacionais, analise os itens a seguir.
+
+I. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos
+povos da América Latina.
+
+II. A República Federativa do Brasil orienta suas relações internacionais pelo princípio da redução
+das desigualdades regionais.
+
+III. A República Federativa do Brasil rege-se nas suas relações internacionais pelo princípio da
+concessão de asilo político.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) III, apenas.
+
+
+
+6.​   (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo - Área XIX -Reaplicação/2024) A
+República Federativa do Brasil é em um Estado Democrático de Direito, conforme dispõe a
+Constituição Federal de 1988. No que diz respeito à democracia, analise os tópicos a seguir.
+
+I. A Constituição dispõe de instrumentos de democracia participativa, tais como os conselhos, as
+ouvidorias e o orçamento participativo.
+
+II. A democracia é exercida exclusivamente pelos representantes escolhidos pelo povo, seus
+legítimos mandatários.
+
+III. A democracia brasileira tem como um de seus objetivos fundamentais promover o bem de
+todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de
+discriminação.
+
+IV. No Brasil há um exemplo de democracia direta, considerando que a Constituição prevê
+expressamente que o poder emana do povo.
+
+Está correto o que se afirma em
+
+a) I, III e IV, apenas.
+
+b) I, II e III, apenas.
+
+c) I e III, apenas.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                           59
+          www.estrategiaconcursos.com.br                                                         64
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+d) I, II e IV, apenas.
+
+e) I, II, III e IV.
+
+
+
+7.​   (FGV/AL-PR/Técnico Legislativo/2024) João, Deputado Federal, observou que o menor
+desenvolvimento de certas regiões do país contribuía para o aumento da pobreza nesses locais,
+daí decorrendo grandes diferenças em relação à qualidade de vida dos habitantes de outras
+regiões. Por tal razão, almeja apresentar uma proposição legislativa com o objetivo de alterar
+esse quadro.
+
+Ao consultar sua assessoria a respeito da compatibilidade desse objetivo com os princípios
+fundamentais da Constituição da República, foi corretamente informado a João que
+                                                           ==5460==
+
+
+
+
+a) as desigualdades sociais devem ser afastadas a partir do fortalecimento unitário e uniforme da
+federação, o que impede que João realize os seus objetivos.
+
+b) as opções políticas das maiorias ocasionais não são limitadas pela ordem constitucional, o que
+ampara o objetivo almejado por João.
+
+c) as iniciativas legislativas devem ser direcionadas ao desenvolvimento nacional, o que afasta a
+possibilidade alvitrada por João.
+
+d) o objetivo fundamental de reduzir as desigualdades regionais ampara o objetivo almejado por
+João.
+
+e) o paradigma de igualdade entre pessoas e instituições obsta o fim alvitrado por João.
+
+
+
+8.​   (FGV/ADAB/Fiscal Estadual Agropecuário - Defesa Sanitária e Inspeção Animal/2024) O
+artigo 3º da Constituição Federal dispõe sobre os objetivos fundamentais da República
+Federativa do Brasil, neste contexto é correto afirmar que
+
+a) o Brasil é um país que não se preocupa com o discurso de ódio, uma vez que sempre
+prevalece a liberdade de expressão.
+
+b) cabe ao Estado promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade
+e quaisquer outras formas de discriminação
+
+c) o desenvolvimento nacional deve ser buscado independente do enfrentamento das
+desigualdades sociais.
+
+d) a construção de uma sociedade livre, demanda a permanência de situações de pobreza e
+marginalização, que decorrem de escolhas pessoais.
+
+e) o Estado não pode incidir na situação de marginalização de parte da população brasileira, em
+razão de não ser necessária a observância da solidariedade.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         60
+          www.estrategiaconcursos.com.br                                                       64
+
+                                        https://t.me/KakashiAssinaturasBot
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 01
+
+
+
+9.​   (FGV/ADAB/Fiscal Estadual Agropecuário - Defesa Sanitária e Inspeção Animal/2024) De
+acordo com o artigo 4º da Constituição Federal, a República Federativa do Brasil deve observar
+alguns princípios nas suas relações internacionais.
+
+Nesse sentido, analise os itens a seguir:
+
+I. Dependência internacional;
+
+II. Prevalência dos direitos humanos;
+
+III. Defesa da paz, exceto nas situações de guerra;
+
+IV. Repúdio ao racismo.
+
+Está correto o que se afirma em
+
+a) I, II e IV, apenas.
+
+b) II, III e IV, apenas.
+
+c) II e IV, apenas.
+
+d) I, III e IV, apenas.
+
+e) I, II, III e IV.
+
+
+
+
+                                                    GABARITO
+                      1.​ LETRA E                                            6.​ LETRA C
+                      2.​ LETRA D                                            7.​ LETRA D
+                      3.​ LETRA A                                            8.​ LETRA B
+                      4.​ LETRA B                                            9.​ LETRA C
+                      5.​ LETRA C
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                     61
+          www.estrategiaconcursos.com.br                                                   64
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+
+                                         LISTA DE QUESTÕES
+
+Teoria Geral dos Direitos Fundamentais
+1.​     (FGV/TCE-RR/Analista Administrativo - Tecnologia da Informação - Banco de Dados/2025)
+Pedro entendia que sua esfera jurídica estava protegida por um direito fundamental de estatura
+constitucional. No entanto, estava preocupado com a possibilidade desse direito fundamental
+sofrer algum tipo de restrição, o que acarretaria a redução do potencial expansivo da sua esfera
+jurídica.
+
+Ao consultar um especialista, foi corretamente esclarecido que os direitos fundamentais
+
+a) somente podem sofrer as restrições estabelecidas em lei.
+
+b) somente podem ser restringidos se isto for necessário para a continuidade do Estado.
+
+c) somente podem ser restringidos se houver anuência expressa do seu beneficiário, in casu, de
+Pedro.
+
+d) podem sofrer restrições de acordo com as circunstâncias fáticas e jurídicas de uma situação
+concreta.
+
+e) asseguram posições absolutas à pessoa humana, sendo insuscetíveis de sofrer a restrição
+cogitada por Pedro.
+
+2.​   (FGV/ISS Cuiabá-MT/Auditor-Fiscal Tributário da Receita Municipal/2024) João constatou
+que era alcançado por uma norma constitucional que reconhecia determinado direito
+fundamental. No entanto, tinha dúvidas se esse direito fundamental poderia ser limitado por
+outro direito fundamental, igualmente reconhecido pela Constituição da República e que, em
+determinada situação, beneficiaria Pedro. Ao fim de suas reflexões, João concluiu corretamente
+que, na realidade brasileira, a forma como os direitos fundamentais têm sido ordinariamente
+compreendidos indica que, em razão de suas características, dão ensejo a
+
+a) potenciais conflitos, que devem ser resolvidos in abstracto.
+
+b) posições jurídicas definitivas, logo, o seu direito não será afetado pelo direito de Pedro.
+
+c) posições jurídicas prima facie, de modo que o conflito será resolvido no momento da
+aplicação das normas.
+
+d) uma concordância prática, que é estabelecida pela própria ordem constitucional, o que afasta
+o surgimento de conflitos.
+
+e) juízos de valor lastreados no seu potencial expansivo, que não deve ser limitado por outros
+bens e valores, sob pena de comprometimento de sua eficácia.
+
+3.​   (FGV/CGM-RJ/Contador/2023) Joana, Maria e Antônio travaram um debate a respeito de
+algumas características dos direitos sociais à luz da sistemática constitucional. Joana sustentava
+que, na maior parte das vezes, mas não sempre, assumiam contornos prestacionais. Maria
+defendia que direitos dessa natureza são sempre compreendidos na perspectiva do agregado
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             62
+        www.estrategiaconcursos.com.br                                                           64
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 01
+
+
+
+social, não sendo possível perquirir a sua fruição, ou não, em uma perspectiva individualista.
+Antônio, por sua vez, defendia que as liberdades fundamentais e os direitos sociais devem ser
+compreendidos na perspectiva da indivisibilidade dos direitos fundamentais.
+
+Inês, ao analisar as afirmações apresentadas, concluiu, corretamente, que:
+
+a) todas estão certas;
+
+b) somente as afirmações de Joana e Antônio estão certas, enquanto a de Maria está errada;
+
+c) somente a afirmação de Maria está certa, enquanto as de Joana e Antônio estão erradas;
+
+d) somente a afirmação de Joana está certa, enquanto as de Maria e Antônio estão erradas;
+
+e) somente as afirmações de Maria e Antônio estão certas, enquanto a de Joana está errada.
+
+4.​    (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/2024) Joana, estudante de
+                                                         ==5460==
+
+
+
+
+Direito Constitucional, questionou seu professor em relação à correlação dos elementos
+estruturais do conceito de cidadania plena, à sua atribuição à pessoa humana e à forma de
+fruição. Considerando os distintos aspectos afetos ao referido conceito, o professor respondeu,
+corretamente, que
+
+a) seus aspectos estruturais se resumem ao direito de participação política efetivado de modo
+crítico, com pleno reconhecimento da realidade circundante.
+
+b) a atribuição e a correlata fruição de seus distintos aspectos pressupõem o alistamento
+eleitoral perante a estrutura estatal de poder competente.
+
+c) abrange o reconhecimento de uma esfera jurídica individual imune à intervenção estatal e à
+fruição de direitos prestacionais.
+
+d) somente está ao alcance dos brasileiros natos, não dos estrangeiros, salvo se residentes no
+território brasileiro há mais de dez anos.
+
+
+
+                                                   GABARITO
+                                                     1.​ LETRA D
+                                                     2.​ LETRA C
+                                                     3.​ LETRA B
+                                                     4.​ LETRA C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         63
+        www.estrategiaconcursos.com.br                                                       64
+
+                                      https://t.me/KakashiAssinaturasBot
+

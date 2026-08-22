@@ -1,0 +1,401 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_007_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+TRANSPORTES E DISTRIBUIÇÃO
+BANCAS DIVERSAS
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Questão Comentada
+     01. (CONSULPAM/Pref. Viana-ES/Auditor de Controle Interno/2019) O Transporte Dutoviário é
+     normalmente constituído e operado pelas grandes empresas petrolíferas e petroquímicas de cada país,
+     principalmente pelo fato destas deterem os processos industriais e comerciais das duas pontas do
+     modal, que podem ser: exploração, exportação, importação, refino e pontos de distribuição. Assim,
+     muitas vezes há um único usuário desta infraestrutura. A recente abertura deste mercado, em diversos
+     países, faz com que a malha dutoviária passe a ser gerida como um modal de transporte “comercial”,
+     com tarifas específicas e exigências cada vez maiores. O leque de serviços e capacidades do transporte
+     dutoviário é ainda extremamente limitado. A respeito do modal dutoviário, assinale a opção
+     INCORRETA a seguir:
+     a) Os produtos cujo transporte por dutos é o mais viável são petróleo cru e seus derivados.
+     b) A movimentação dos produtos via dutos é muito rápida, não passando de três a quatro milhas por
+     hora.
+     c) A capacidade dos dutos é baixa, levando-se em conta que um fluxo de três milhas/hora num duto
+     de 12 polegadas de diâmetro pode transportar 89 mil galões por hora.
+     d) Em relação ao tempo em trânsito, o serviço dutoviário é o mais confiável de todos os modais, já
+     que são quase nulas as interrupções causadoras de variabilidade desse tempo.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (CONSULPAM/Pref. Viana-ES/Auditor de Controle Interno/2019) O Transporte Dutoviário é
+     normalmente constituído e operado pelas grandes empresas petrolíferas e petroquímicas de cada país,
+     principalmente pelo fato destas deterem os processos industriais e comerciais das duas pontas do
+     modal, que podem ser: exploração, exportação, importação, refino e pontos de distribuição. Assim,
+     muitas vezes há um único usuário desta infraestrutura. A recente abertura deste mercado, em diversos
+     países, faz com que a malha dutoviária passe a ser gerida como um modal de transporte “comercial”,
+     com tarifas específicas e exigências cada vez maiores. O leque de serviços e capacidades do transporte
+     dutoviário é ainda extremamente limitado. A respeito do modal dutoviário, assinale a opção
+     INCORRETA a seguir:
+     a) Os produtos cujo transporte por dutos é o mais viável são petróleo cru e seus derivados.
+     b) A movimentação dos produtos via dutos é muito rápida, não passando de três a quatro milhas por
+     hora.
+     c) A capacidade dos dutos é baixa, levando-se em conta que um fluxo de três milhas/hora num duto
+     de 12 polegadas de diâmetro pode transportar 89 mil galões por hora.
+     d) Em relação ao tempo em trânsito, o serviço dutoviário é o mais confiável de todos os modais, já
+     que são quase nulas as interrupções causadoras de variabilidade desse tempo.
+     GABARITO – B e C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (CONSULPAM/Pref. Viana-ES/Auditor de Controle Interno/2019) O Transporte Dutoviário é
+     normalmente constituído e operado pelas grandes empresas petrolíferas e petroquímicas de cada país,
+     principalmente pelo fato destas deterem os processos industriais e comerciais das duas pontas do
+     modal, que podem ser: exploração, exportação, importação, refino e pontos de distribuição. Assim,
+     muitas vezes há um único usuário desta infraestrutura. A recente abertura deste mercado, em diversos
+     países, faz com que a malha dutoviária passe a ser gerida como um modal de transporte “comercial”,
+     com tarifas específicas e exigências cada vez maiores. O leque de serviços e capacidades do transporte
+     dutoviário é ainda extremamente limitado. A respeito do modal dutoviário, assinale a opção
+     INCORRETA a seguir:
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (AOCP/UNIR/Assistente/2018) A Área de Gestão de Materiais possui grande influência
+     sobre a logística e os custos dos produtos. Ela é responsável por gerir todos os processos
+     que envolvem desde a compra de matéria-prima (MP), até armazenagem e destinação.
+     Referente ao assunto, julgue, como VERDADEIRO ou FALSO, o item a seguir. A
+     Distribuição é responsável pela saída de materiais e produtos acabados, controlando os
+     itens que saem da empresa e vão ao cliente.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (AOCP/UNIR/Assistente/2018) A Área de Gestão de Materiais possui grande influência
+     sobre a logística e os custos dos produtos. Ela é responsável por gerir todos os processos
+     que envolvem desde a compra de matéria-prima (MP), até armazenagem e destinação.
+     Referente ao assunto, julgue, como VERDADEIRO ou FALSO, o item a seguir. A
+     Distribuição é responsável pela saída de materiais e produtos acabados, controlando os
+     itens que saem da empresa e vão ao cliente.
+     a) Certo
+     b) Errado
+     GABARITO – CORRETA.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (IDECAN/MS/Administrador/2017) É essencial para a competitividade das atividades comerciais que o setor logístico de uma empresa
+     possa contar com alternativas de transporte para o escoamento de seus produtos ao mercado consumidor. Grande parte do custo da
+     atividade logística está no transporte, por isso é importante que as empresas saibam diferenciar qual modal de transporte se adequa
+     melhor a um determinado tipo de produto ou a uma determinada região. Sobre os modais de transportes e sua adequação aos diversos
+     tipos de produtos, relacione adequadamente as colunas a seguir.
+                                                                     1.Rodoviário.
+                                                                     2.Ferroviário.
+                                                                    3.Hidroviário.
+                                                                     4.Dutoviário.
+                                                                     5.Aeroviário.
+     ( ) Mais adequado ao transporte em longas distâncias, de produtos perecíveis e de mercadorias de alto valor.
+     ( ) Apesar de oferecer opções limitadas de serviços, capacidades e baixa flexibilidade quanto à rota de distribuição, ainda sim é muito
+     utilizado para o transporte de minérios, petróleo e seus derivados, entre outros.
+     ( ) Mais adequado ao transporte a curtas distâncias de produtos acabados ou semiacabados.
+     ( ) Mais adequado ao transporte em longas distâncias de matérias-primas ou manufaturados de baixo valor.
+     ( ) Devido à sua alta capacidade de carga é o mais adequado ao transporte de mercadorias a granel ou de diversos tipos de embalagens
+     como contêineres, sacas etc.
+     A sequência está correta em:
+     a) 2, 3, 4, 5, 1.
+     b) 5, 3, 1, 2, 4.
+     c) 5, 4, 1, 2, 3.
+     d) 1, 2, 5, 4, 3.
+     e) 2, 1, 3, 5, 4.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     03. (IDECAN/MS/Administrador/2017) É essencial para a competitividade das atividades comerciais que o setor logístico de uma empresa
+     possa contar com alternativas de transporte para o escoamento de seus produtos ao mercado consumidor. Grande parte do custo da
+     atividade logística está no transporte, por isso é importante que as empresas saibam diferenciar qual modal de transporte se adequa
+     melhor a um determinado tipo de produto ou a uma determinada região. Sobre os modais de transportes e sua adequação aos diversos
+     tipos de produtos, relacione adequadamente as colunas a seguir.
+                                                                     1.Rodoviário.
+                                                                     2.Ferroviário.
+                                                                    3.Hidroviário.
+                                                                     4.Dutoviário.
+                                                                     5.Aeroviário.
+     ( ) Mais adequado ao transporte em longas distâncias, de produtos perecíveis e de mercadorias de alto valor.
+     ( ) Apesar de oferecer opções limitadas de serviços, capacidades e baixa flexibilidade quanto à rota de distribuição, ainda sim é muito
+     utilizado para o transporte de minérios, petróleo e seus derivados, entre outros.
+     ( ) Mais adequado ao transporte a curtas distâncias de produtos acabados ou semiacabados.
+     ( ) Mais adequado ao transporte em longas distâncias de matérias-primas ou manufaturados de baixo valor.
+     ( ) Devido à sua alta capacidade de carga é o mais adequado ao transporte de mercadorias a granel ou de diversos tipos de embalagens
+     como contêineres, sacas etc.
+     A sequência está correta em:
+     a) 2, 3, 4, 5, 1.
+     b) 5, 3, 1, 2, 4.
+     c) 5, 4, 1, 2, 3.
+     d) 1, 2, 5, 4, 3.
+     e) 2, 1, 3, 5, 4.
+     GABARITO – C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     04. (COMPERVE-UFRN/CM Currais Novos-RN/Técnico Legislativo/2017) No gráfico da Figura 9, pode-se verificar o
+     comportamento dos custos de estoque em relação ao volume estocado e à quantidade de armazéns. As curvas de custos
+     representam o custo de transporte, o custo de estocagem, o custo de processamento do pedido e o custo global,
+     considerando-se nulo o valor do processamento do pedido frente ao custo do transporte e ao custo do estoque.
+     Analisando o gráfico sob o ponto de vista da gestão de estoques e da distribuição de material, conclui-se que:
+     a) quanto menor a quantidade de armazéns, maior o custo de transporte, que atinge seu custo máximo no ponto A.
+     b) quanto maior o número de armazéns, maior o custo de transporte, atingindo-se o custo global mínimo no ponto B.
+     c) quanto menor o número de armazéns, menor o custo de estoque, atingindo-se o ápice do custo global no ponto C.
+     d) quanto maior o número de armazéns, maior o custo de estoque, que atinge seu custo mínimo no ponto D.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (COMPERVE-UFRN/CM Currais Novos-RN/Técnico Legislativo/2017) No gráfico da Figura 9, pode-se verificar o
+     comportamento dos custos de estoque em relação ao volume estocado e à quantidade de armazéns. As curvas de custos
+     representam o custo de transporte, o custo de estocagem, o custo de processamento do pedido e o custo global,
+     considerando-se nulo o valor do processamento do pedido frente ao custo do transporte e ao custo do estoque.
+     Analisando o gráfico sob o ponto de vista da gestão de estoques e da distribuição de material, conclui-se que:
+     a) quanto menor a quantidade de armazéns, maior o custo de transporte, que atinge seu custo máximo no ponto A.
+     b) quanto maior o número de armazéns, maior o custo de transporte, atingindo-se o custo global mínimo no ponto B.
+     c) quanto menor o número de armazéns, menor o custo de estoque, atingindo-se o ápice do custo global no ponto C.
+     d) quanto maior o número de armazéns, maior o custo de estoque, que atinge seu custo mínimo no ponto D.
+     GABARITO – A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (IESES/BAHIAGÁS/Analista de Processos Organizacionais/2016) Um dos maiores
+     problemas da malha de distribuição no Brasil é o custo logístico. Com relação ao custo
+     logístico no Brasil é correto afirmar que:
+     a) Ele sofre grande impacto do poder de barganha dos agentes de cargas aeroviários.
+     b) Ele é elevado devido ao predomínio da modal rodoviária.
+     c) Ele é elevado devido ao predomínio da modal ferroviária que está sucateada.
+     d) Ele é baixo comparado com países como a China.
+     e) Ele é baixo comparado com países como os Estados Unidos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (IESES/BAHIAGÁS/Analista de Processos Organizacionais/2016) Um dos maiores
+     problemas da malha de distribuição no Brasil é o custo logístico. Com relação ao custo
+     logístico no Brasil é correto afirmar que:
+     a) Ele sofre grande impacto do poder de barganha dos agentes de cargas aeroviários.
+     b) Ele é elevado devido ao predomínio da modal rodoviária.
+     c) Ele é elevado devido ao predomínio da modal ferroviária que está sucateada.
+     d) Ele é baixo comparado com países como a China.
+     e) Ele é baixo comparado com países como os Estados Unidos.
+     GABARITO – B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CONSULPLAN/Perf. Venda Nova do Imigrante-ES/Almoxarife/2016) Como é
+     denominado o sistema de distribuição – usado principalmente na execução de entregas
+     em centros urbanos onde a circulação de veículos de grande porte sofre restrições sobre a
+     sua dimensão e peso – no qual a mercadoria recebida em um armazém ou centro de
+     distribuição não é estocada, mas é preparada para o carregamento e a distribuição ou
+     expedição a fim de ser entregue ao cliente ou consumidor imediatamente ou, pelo menos,
+     o mais rapidamente possível?
+     a) Turnover.
+     b) Hands on.
+     c) Rightsizing.
+     d) Crossdocking.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CONSULPLAN/Perf. Venda Nova do Imigrante-ES/Almoxarife/2016) Como é
+     denominado o sistema de distribuição – usado principalmente na execução de entregas
+     em centros urbanos onde a circulação de veículos de grande porte sofre restrições sobre a
+     sua dimensão e peso – no qual a mercadoria recebida em um armazém ou centro de
+     distribuição não é estocada, mas é preparada para o carregamento e a distribuição ou
+     expedição a fim de ser entregue ao cliente ou consumidor imediatamente ou, pelo menos,
+     o mais rapidamente possível?
+     a) Turnover.
+     b) Hands on.
+     c) Rightsizing.
+     d) Crossdocking.
+     GABARITO – D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (COSEAC UFF/FME Niterói/Administrador/2016) A gestão logística considera
+     conveniente o desenvolvimento de sistemas para movimentação de cargas que permitam
+     acondicionar volumes uniformes em unidades de carga. Busca reduzir, assim, custos de
+     viagem, tempo de permanência de veículos nos embarques e desembarques, além de
+     oferecer maior segurança à carga, eliminando o manuseio direto. Esta prática ficou
+     conhecida como:
+     a) drawback.
+     b) unitização.
+     c) cabotagem.
+     d) eifo.
+     e) alavancagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (COSEAC UFF/FME Niterói/Administrador/2016) A gestão logística considera
+     conveniente o desenvolvimento de sistemas para movimentação de cargas que permitam
+     acondicionar volumes uniformes em unidades de carga. Busca reduzir, assim, custos de
+     viagem, tempo de permanência de veículos nos embarques e desembarques, além de
+     oferecer maior segurança à carga, eliminando o manuseio direto. Esta prática ficou
+     conhecida como:
+     a) drawback.
+     b) unitização.                                                 Unitização
+     c) cabotagem.
+     d) eifo.
+     e) alavancagem.
+     GABARITO – B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+                                                                                 Pallet
+
+
+---
+
+       Questão Comentada
+     08. (IADES/FUNPRESP/Analista Técnico/2014) É correto definir como indicadores de níveis
+     de serviço em logística o (a):
+     a) tempo despendido entre a colocação de um pedido pelo cliente e a entrega dos bens
+     solicitados.
+     b) tempo entre a abertura de chamado e a correção de problemas na impressora.
+     c) fatia de mercado que um determinado produto possui em um período.
+     d) tempo de desenvolvimento do conceito de um produto à disponibilidade para venda.
+     e) número de produtos que não retornaram com defeito após um período de uso.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (IADES/FUNPRESP/Analista Técnico/2014) É correto definir como indicadores de níveis
+     de serviço em logística o (a):
+     a) tempo despendido entre a colocação de um pedido pelo cliente e a entrega dos bens
+     solicitados.
+     b) tempo entre a abertura de chamado e a correção de problemas na impressora.
+     c) fatia de mercado que um determinado produto possui em um período.
+     d) tempo de desenvolvimento do conceito de um produto à disponibilidade para venda.
+     e) número de produtos que não retornaram com defeito após um período de uso.
+     GABARITO – A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

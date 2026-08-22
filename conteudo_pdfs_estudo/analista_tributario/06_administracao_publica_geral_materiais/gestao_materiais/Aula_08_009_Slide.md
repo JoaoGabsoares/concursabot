@@ -1,0 +1,564 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+LOGÍSTICA E GESTÃO DE
+CONTRATOS
+BANCAS DIVERSAS - II
+                                             Prof. Ricardo Campanario
+
+        
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O relacionamento cliente-
+     fornecedor possui quatro fases. Assinale a alternativa que apresenta a fase que trata do
+     relacionamento tipo comakership.
+     a) Integração estratégica.
+     b) Integração operacional.
+     c) Melhoria da qualidade.
+     d) Abordagem convencional.
+     e) Integração convencional.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Comakership
+       Níveis de relacionamento
+                  Abordagem convencional: a prioridade é o preço e o relacionamento é entre adversários: quem
+                  pode mais impõe suas condições. Desconfiança quanto à qualidade. Inspeção em 100% dos
+                  recebimentos.
+
+                  Melhoria da qualidade: prioridade à qualidade do produto. É o primeiro passo de um
+                  relacionamento mais duradouro, com o surgimento dos primeiros sinais de confiança recíproca.
+                  Reduz-se o número de fornecedores, eliminando-se aqueles que não oferecem qualidade. É um
+                  primeiro estágio do relacionamento tipo comaker.
+
+                  Integração operacional: a prioridade passa a ser o controle do processo, levando-se em conta sua
+                  capabilidade. Cliente e fornecedor passam a fazer investimentos comuns em pesquisa e
+                  desenvolvimento, com o cliente na maioria das vezes financiando programas de melhoria da
+                  qualidade dos fornecedores, para que implantem sistemas de garantia da qualidade. É um passo
+                  além do relacionamento comaker.
+
+                  Integração estratégica: conhecida por Comakership é uma verdadeira parceria nos negócios.
+                  Requer gerenciamento comum dos procedimentos dos negócios, incluindo o desenvolvimento de
+                  produtos e processos, engenharia simultânea, desdobramento da função qualidade
+                  (QFD), fornecimento sincronizado e qualidade assegurada.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O relacionamento cliente-
+     fornecedor possui quatro fases. Assinale a alternativa que apresenta a fase que trata do
+     relacionamento tipo comakership.
+     a) Integração estratégica.
+     b) Integração operacional.
+     c) Melhoria da qualidade.
+     d) Abordagem convencional.
+     e) Integração convencional.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) A Figura 1 a seguir mostra a
+     logística e suas fases a fim de formar uma estratégia operacional desenvolvida por três atividades:
+     armazenar, transportar e distribuir. A soma dessas três atividades básicas e distintas necessita de:
+
+     a) Uma grande gestão integrada a fim de formar o conjunto denominado logística.
+     b) A logística ocupa-se da retirada da matéria-prima na sua origem, não se ocupando do transporte da
+     mesma.
+     c) A logística e a gerência de suprimentos são preocupações exclusivas das empresas de transporte.
+     d) Um problema típico da gestão de suprimentos é a diversificação de fornecedores de matéria-prima.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Conceito de SCM
+     ❑ Veja a seguir uma definição aceita para o Supply Chain Management ou SCM!
+
+        Integração dos processos que formam um determinado negócio, desde os
+        fornecedores originais até o usuário final, proporcionando produtos, serviços e
+        informações que agregam valor para o cliente.
+
+     ❑ Podemos considerar que o SCM é uma rede de organizações envolvidas em
+       diferentes processos e atividades anteriores que produzem valor sob a forma de
+       produtos e serviços nas mãos do consumidor final.
+     ❑ Importante notar que essas organizações geralmente estão dispersas
+       geograficamente mas, mesmo assim, dispõem-se a compartilhar informações e
+       intenções e trabalhar de forma verdadeiramente integrada, em grandes redes
+       virtuais, substituindo o conceito da verticalização, caro e muitas vezes ineficiente.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) A Figura 1 a seguir mostra a
+     logística e suas fases a fim de formar uma estratégia operacional desenvolvida por três atividades:
+     armazenar, transportar e distribuir. A soma dessas três atividades básicas e distintas necessita de:
+
+     a) Uma grande gestão integrada a fim de formar o conjunto denominado logística.
+     b) A logística ocupa-se da retirada da matéria-prima na sua origem, não se ocupando do transporte da
+     mesma.
+     c) A logística e a gerência de suprimentos são preocupações exclusivas das empresas de transporte.
+     d) Um problema típico da gestão de suprimentos é a diversificação de fornecedores de matéria-prima.
+     GABARITO - A
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O serviço logístico tornou-
+     se uma ferramenta importante para o desenvolvimento de relacionamentos mais próximos com
+     clientes e fornecedores. Como o serviço ao cliente pode ter uma definição muito ampla, o
+     conhecimento dos elementos que o compõem pode auxiliar no entendimento do conceito de serviço
+     logístico. Definir os elementos que constituem serviço ao cliente e como eles conduzem o
+     comportamento do comprador tem sido o foco de inúmeras pesquisas logísticas nos últimos anos.
+     Assinale a opção INCORRETA:
+     a) Os elementos de pré-transação propiciam um ambiente para um bom serviço ao cliente.
+     b) Serviço corporativo ao cliente é a soma de todos esses elementos, visto que os clientes pouco
+     reagem ao seu mix total.
+     c) Os elementos de transação são aqueles que resultam diretamente na entrega do produto ao
+     cliente.
+     d) Os elementos de pós-transação representam o elenco dos serviços necessários para dar suporte ao
+     produto em campo; assegurar aos clientes a reposição de mercadorias danificadas; providenciar a
+     devolução de embalagens, entre outros.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Elementos de Serviço ao Cliente
+       Pré Transação, Transação e Pós Transação
+
+        Os elementos de serviço ao cliente, de acordo com Ronald Ballou estão agrupados em: pré-transação, transação e
+        pós transação.
+        Pré transação: Os elementos de pré-transação propiciam um ambiente para um bom serviço ao cliente. É um
+        compromisso em relação ao serviço que será prestado como o tempo máximo de entrega por exemplo.
+        Transação: Os elementos de transação são aqueles que resultam diretamente na entrega do produto ao cliente,
+        como níveis de estoque, formas de processamento de pedido, modais de transporte selecionados, etc.
+        Pós Transação: Os elementos de pós-transação representam o elenco dos serviços necessários para dar suporte ao
+        produto em campo, como assegurar aos clientes a reposição de mercadorias danificadas; providenciar a
+        devolução de embalagens, entre outros.
+        Serviço Corporativo: soma de todos esses elementos, pois os clientes reagem sim ao seu mix total.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     03. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O serviço logístico tornou-
+     se uma ferramenta importante para o desenvolvimento de relacionamentos mais próximos com
+     clientes e fornecedores. Como o serviço ao cliente pode ter uma definição muito ampla, o
+     conhecimento dos elementos que o compõem pode auxiliar no entendimento do conceito de serviço
+     logístico. Definir os elementos que constituem serviço ao cliente e como eles conduzem o
+     comportamento do comprador tem sido o foco de inúmeras pesquisas logísticas nos últimos anos.
+     Assinale a opção INCORRETA:
+     a) Os elementos de pré-transação propiciam um ambiente para um bom serviço ao cliente.
+     b) Serviço corporativo ao cliente é a soma de todos esses elementos, visto que os clientes pouco
+     reagem ao seu mix total.
+     c) Os elementos de transação são aqueles que resultam diretamente na entrega do produto ao
+     cliente.
+     d) Os elementos de pós-transação representam o elenco dos serviços necessários para dar suporte ao
+     produto em campo; assegurar aos clientes a reposição de mercadorias danificadas; providenciar a
+     devolução de embalagens, entre outros.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (DECEx/EsFCEx/Curso de Formação de Oficiais/2019) No âmbito da logística, um
+     dos fatores econômicos que geraram complexidade a esse cenário foi o fenômeno da
+     globalização. Segundo teóricos da área, há cinco fatores que levam às operações
+     globalizadas, conforme listado nas alternativas a seguir, à exceção de uma. Assinale-a.
+     a) abordagem da cadeia de suprimento (contratação de serviços externos).
+     b) regionalização (necessidade de desenvolver novos mercados).
+     c) tecnologia (aumento da capacidade para a troca de informação).
+     d) desregulamentação (financeira e de transportes).
+     e) customização (padronização de produtos segundo o mercado dominante).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (DECEx/EsFCEx/Curso de Formação de Oficiais/2019) No âmbito da logística, um
+     dos fatores econômicos que geraram complexidade a esse cenário foi o fenômeno da
+     globalização. Segundo teóricos da área, há cinco fatores que levam às operações
+     globalizadas, conforme listado nas alternativas a seguir, à exceção de uma. Assinale-a.
+     a) abordagem da cadeia de suprimento (contratação de serviços externos).
+     b) regionalização (necessidade de desenvolver novos mercados).
+     c) tecnologia (aumento da capacidade para a troca de informação).
+     d) desregulamentação (financeira e de transportes).
+     e) customização (padronização de produtos segundo o mercado dominante).
+     GABARITO - E
+      Os cinco fatores que levam às operações globalizadas são: o crescimento econômico; a abordagem da cadeia de
+      suprimento (contratação de serviços externos); a regionalização (necessidade de desenvolver novos mercados);
+      a tecnologia (aumento da capacidade para a troca de informação); e a desregulamentação (financeira e de
+      transportes).
+
+      Dessa forma, das alternativas apresentadas, apenas a customização não faz parte do processo que leva às
+      operações globalizadas pois apresenta o conceito errado! A customização consiste em adaptar o produto a
+      necessidade específica e não padroniza-lo de acordo com o mercado dominante!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         
+
+
+---
+
+       Questão Comentada
+     05. (FAPESE/UFS/Assistente em Administração/2018) A Logística empresarial associa o
+     estudo e a administração dos fluxos de bens e serviços e da informação associada que
+     os põe em movimento, ou seja, pode-se afirmar que a missão da Logística é:
+     a) Especializar-se nas necessidades dos clientes.
+     b) Acabar com a distância entre as matérias primas e seu processo produtivo.
+     c) Treinar profissionais capazes de entregar produtos em tempo.
+     d) Selecionar os meios de transporte mais eficazes para entregar os produtos aos
+     clientes.
+     e) Colocar as mercadorias ou os serviços certos no lugar e no instante correto, na
+     condição desejada, ao menor custo possível.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FAPESE/UFS/Assistente em Administração/2018) A Logística empresarial associa o
+     estudo e a administração dos fluxos de bens e serviços e da informação associada que
+     os põe em movimento, ou seja, pode-se afirmar que a missão da Logística é:
+     a) Especializar-se nas necessidades dos clientes.
+     b) Acabar com a distância entre as matérias primas e seu processo produtivo.
+     c) Treinar profissionais capazes de entregar produtos em tempo.
+     d) Selecionar os meios de transporte mais eficazes para entregar os produtos aos
+     clientes.
+     e) Colocar as mercadorias ou os serviços certos no lugar e no instante correto, na
+     condição desejada, ao menor custo possível.
+     GABARITO - E
+
+        Definição de Logística para Ronald Ballou: “A logística empresarial trata de todas atividades de movimentação
+        e armazenagem, que facilitam o fluxo de produtos desde o ponto de aquisição da matéria-prima até o ponto
+        de consumo final, assim como dos fluxos de informação que colocam os produtos em movimento, com o
+        propósito de providenciar níveis de serviço adequados aos clientes a um custo razoável. ”
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                                  
+
+
+---
+
+       Questão Comentada
+     06. (FAPESE/UFS/Assistente em Administração/2018) De forma geral se afirma que a
+     atividade empresarial cria quatro tipos de valor em produtos ou serviços, a saber: forma,
+     tempo, lugar e posse. Desses quatro valores, dois são criados pela Logística. Quais são
+     esses dois valores:
+     a) Posse e Forma.
+     b) Forma e Tempo.
+     c) Lugar e Posse.
+     d) Lugar e Distância.
+     e) Tempo e Lugar.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Valores em Produtos &
+       Serviços
+          De acordo com a doutrina, a logística é responsável pela criação de 4 tipos de valor:
+          •     Lugar: quando o produto é entregue no local de produção ou no seu local de destino
+                corretamente.
+
+          •     Tempo: quando se cumpre o prazo de entrega.
+
+          •     Qualidade: quando a atividade logística está associada a qualidade e condição do produto.
+
+          •     Informação: quando através de ferramentas, o cliente pode rastrear o andamento de seu
+                pedido e as informações podem fluir por toda a cadeia de abastecimento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FAPESE/UFS/Assistente em Administração/2018) De forma geral se afirma que a
+     atividade empresarial cria quatro tipos de valor em produtos ou serviços, a saber: forma,
+     tempo, lugar e posse. Desses quatro valores, dois são criados pela Logística. Quais são
+     esses dois valores:
+     a) Posse e Forma.
+     b) Forma e Tempo.
+     c) Lugar e Posse.
+     d) Lugar e Distância.
+     e) Tempo e Lugar.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (AOCP/SEAP PA/Assistente Administrativo/2018) Sobre o Composto de Atividades
+     Logísticas, assinale a alternativa que contempla uma atividade chave.
+     a) Procedimentos para separação de pedidos.
+     b) Configuração do armazém.
+     c) Programação de suprimentos para produções/operações.
+     d) Determinação de roteiros.
+     e) Leiaute do estoque e desenho das docas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+ Atividades Logísticas
+❑ Um conceito que é cobrado com alguma frequência em
+  provas refere-se as atividades logísticas. Muitas vezes a
+  cobrança refere-se diretamente a classificação criada por
+  Ronald Ballou, que divide as atividades logísticas em primárias
+  e de apoio. São elas:
+
+                                        
+
+
+---
+
+       Questão Comentada
+     07. (AOCP/SEAP PA/Assistente Administrativo/2018) Sobre o Composto de Atividades
+     Logísticas, assinale a alternativa que contempla uma atividade chave.
+     a) Procedimentos para separação de pedidos.
+     b) Configuração do armazém.
+     c) Programação de suprimentos para produções/operações.
+     d) Determinação de roteiros.
+     e) Leiaute do estoque e desenho das docas.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) NÃO é exemplo de atividade de
+     apoio dentro da área de logística:
+     a) atividades ligadas à devolução.
+     b) guarda de materiais.
+     c) definição de um layout de armazém.
+     d) movimentação de materiais.
+     e) transporte.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) NÃO é exemplo de atividade de
+     apoio dentro da área de logística:
+     a) atividades ligadas à devolução.
+     b) guarda de materiais.
+     c) definição de um layout de armazém.
+     d) movimentação de materiais.
+     e) transporte.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) MRP I e MRP II são insumos
+     importantes para a área de logística ao fornecerem algumas informações. O impacto
+     dessas informações está mais relacionado com a área de:
+     a) Embalagem.
+     b) Gestão do estoque.
+     c) Gestão da frota.
+     d) Manuseio de materiais.
+     e) Picking.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP
+       ❑ O MRP é um dos sistemas de planejamento e controle de materiais mais usados
+         atualmente.
+
+       ❑ É um sistema que estabelece uma série de procedimentos, regras e critérios de
+         modo a atender as necessidades de produção numa sequência de tempo
+         logicamente determinada pra cada item componente do produto final.
+
+       ❑ O sistema é capaz de planejar diferentes necessidades de materiais a cada
+         alteração sofrida pelo programa de produção, pelos registros de inventários ou
+         mesmo pela composição de produtos acabados.
+
+       ❑ Dessa forma pode ser considerado um sistema que se propõe a definir as           ERP - Enterprise
+         quantidades necessárias e o tempo exato para utilização dos materiais na
+         fabricação dos respectivos produtos finais.                                      MRP II - Manufacturing
+       ❑ O processo inicia-se pela informação de quando e, especialmente quanto, o
+                                                                                          (FIN+ENG)
+         usuário pretende consumir. Com base nessa informação o sistema espalha os
+         dados para cada um dos itens componentes do produto final e o processamento      MRP - Materials
+         é iniciado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     09. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) MRP I e MRP II são insumos
+     importantes para a área de logística ao fornecerem algumas informações. O impacto
+     dessas informações está mais relacionado com a área de:
+     a) Embalagem.
+     b) Gestão do estoque.
+     c) Gestão da frota.
+     d) Manuseio de materiais.
+     e) Picking.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) O comércio eletrônico tem
+     modificado, de forma significativa, o gerenciamento das operações logísticas. No que se
+     refere a esse tipo de comércio,
+     a) os pedidos têm valor financeiro elevado.
+     b) os pedidos são concentrados em alguns grandes compradores.
+     c) a demanda é incerta e fragmentada.
+     d) a armazenagem dos produtos ganha uma maior eficiência com a unitização da carga
+     em paletes.
+     e) a gestão do estoque é empurrada para a constituição de reservas que garantam a
+     entrega de uma larga variedade de produtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) O comércio eletrônico tem
+     modificado, de forma significativa, o gerenciamento das operações logísticas. No que se
+     refere a esse tipo de comércio,
+     a) os pedidos têm valor financeiro elevado.
+     b) os pedidos são concentrados em alguns grandes compradores.
+     c) a demanda é incerta e fragmentada.
+     d) a armazenagem dos produtos ganha uma maior eficiência com a unitização da carga
+     em paletes.
+     e) a gestão do estoque é empurrada para a constituição de reservas que garantam a
+     entrega de uma larga variedade de produtos.
+     GABARITO - C
+     A demanda do e-commerce de fato é incerta e pouco previsível pois pode vir a qualquer
+     momento e de qualquer ponto do mundo dificultando sobremaneira a análise das variáveis que
+     influenciam cada um dos mercados e suas respectivas demandas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

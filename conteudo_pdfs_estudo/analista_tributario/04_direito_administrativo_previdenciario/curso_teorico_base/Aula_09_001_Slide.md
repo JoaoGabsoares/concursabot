@@ -1,0 +1,3251 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 09_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: LEI 8.112/1990
+artigos_citados:
+- Art. 110.
+- Art. 117
+- Art. 168.
+- art. 116
+- art. 116.
+- art. 170.
+- art. 7º
+- art. 83
+sumulas_citadas:
+- SV 43
+- SV 5
+- Súmula 611
+---
+
+# LEI 8.112/1990
+
+LEI 8.112/1990
+
+                                                             Prof. Antonio Daud
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+                         NOÇÕES INTRODUTÓRIAS
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                               
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                                                                  servidores federais civis
+
+                                                                  qualquer dos Poderes
+
+                     Aplicável a:                                 - Administração direta
+                                                          - Autarquias (inclusive especiais)
+                                                         - Fund. Públicas (direito público*)
+
+                                                            ocupantes de cargos públicos
+    Lei 8.112/1990
+                                                   servidores estatutários dos Estados, DF e
+                                                                  Municípios
+
+                          Não
+                                                     empregados públicos (inclusive federais)
+                      aplicável a:
+
+                                                                        temporários
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+     Questão para fixação
+Tanto os servidores estatutários quanto os celetistas submetem-se ao regime jurídico
+único da Lei n.º 8.112/1990
+
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                             
+
+
+---
+
+                         FORMAS DE PROVIMENTO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                               
+
+
+---
+
+                         Provimento de cargos (art. 8º)
+
+                                Originário                             Nomeação
+
+                                                                       Promoção
+                 Provimento
+                  de cargos                                           Readaptação
+
+                                                                        Reversão
+                                Derivado
+                                                                     Aproveitamento
+
+                                                                      Reintegração
+    Ascensão?
+    Transferência?                                                    Recondução
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                 Única forma de provimento originário
+
+                                             Condição para a posse
+
+                                        Ato administrativo unilateral
+                                (não depende de manifestação do nomeado)
+
+                 Nomeação
+                                                                        Efetivo
+                                Caráter
+                                                                     Em comissão
+
+                                                                     30 dias (regra)
+                              Gera direito
+                            subjetivo à posse                 Nomeação tornada
+                                                                 sem efeito
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                                Provimento derivado vertical
+
+                                              Outro cargo da mesma carreira
+
+
+                        Inconstitucional provimento que propicie investidura, sem
+             Promoção    prévia aprovação em concurso público destinado ao seu
+                        provimento, em cargo que não integra sua carreira (SV 43)
+
+
+                                                                   Contado do novo
+                            Não interrompe o                       posicionamento, a
+                           tempo de exercício                     partir da publicação
+                                                                  do ato de promoção
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+Questão para fixação
+A promoção constitui investidura derivada, enquanto a nomeação traduz investidura originária
+do servidor público.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+                           Provimento derivado horizontal
+
+                         limitação na capacidade do servidor
+                                      (inspeção médica)
+
+
+                          Entre cargos de atribuições afins
+
+       Readaptação
+                      Respeitada a habilitação exigida, nível de
+                     escolaridade e equivalência de vencimentos
+
+                                                               exerce como excedente, até a
+                     Se não houver cargo vago
+                                                                    ocorrência da vaga
+
+
+                         Limitação severa                        aposentado por invalidez
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---
+
+                          retorno à atividade do servidor que estava aposentado
+
+
+                      Limite de idade = 70 anos
+           Reversão
+
+
+                                                                    insubsistentes os motivos da
+                                                 de ofício
+                                                                     aposentadoria por invalidez
+                      modalidades
+
+                                                                    servidor aposentado solicita o
+                                                 a pedido
+                                                                         retorno ao exercício
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação
+Com base nas disposições da Lei n.º 8.112/1990, julgue o item a seguir.
+É vedado ao servidor público aposentado o retorno ao serviço público a pedido, somente
+sendo possível a reversão por insubsistência dos motivos da aposentadoria por invalidez
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+                                        o servidor tenha solicitado
+
+
+                               a aposentadoria tenha sido voluntária
+
+
+Reversão a pedido -        o servidor era estável, quando na atividade
+    requisitos
+
+                      a aposentadoria tenha ocorrido nos 5 anos anteriores
+                                         à solicitação
+
+
+                                               exista cargo vago
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---
+
+                             retorno do servidor estável que se encontrava em
+                                              disponibilidade
+
+     Aproveitamento
+
+                             Cargo de atribuições e Vencimentos compatíveis
+
+Lei 8.112/90
+Prof. Antonio Daud
+                      
+
+
+---
+
+Questão para fixação
+Aproveitamento é o retorno de servidor estável, que se encontrava em disponibilidade, ao
+mesmo cargo que ocupava ou equivalente em atribuições e vencimentos.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                
+
+
+---
+
+                       Invalidade de demissão de servidor estável
+
+
+                           Por decisão administrativa ou judicial
+
+
+                          Ressarcimento de todas as vantagens
+                                      (status quo anterior)
+Reintegração
+                                                                                  reconduzido
+
+                      Se cargo estiver                         seu ocupante, se    aproveitado
+                         ocupado                                 estável, será:
+
+                     Se cargo foi extinto                                         disponibilidade
+                                                                disponibilidade
+                      após a demissão
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+Questão para fixação
+Reintegração é o retorno do servidor estável ao cargo que ocupava e do qual foi ilegalmente
+desligado.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                 
+
+
+---
+
+                                                reintegração do servidor que ocupava aquele
+                                                            cargo anteriormente
+
+                     Hipóteses
+                                                                                  Inabilitação
+                                             estágio probatório relativo a
+    Recondução                                     um novo cargo
+                                                                                   A pedido
+
+
+                           Apenas a servidores estáveis
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                         Apenas servidores estáveis
+
+                     -   Recondução
+                     -   Reintegração
+                     -   Aproveitamento
+                     -   Reversão a pedido
+
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+Questão para fixação
+Recondução é o retorno do servidor estável ao cargo que ocupava por inabilitação em estágio
+probatório relativo a outro cargo público para o qual foi nomeado.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                 
+
+
+---
+
+Questão para fixação
+Jorge, diretor municipal concursado com mais de 20 anos de serviço público, foi demitido por
+suposto abandono de cargo. O processo administrativo disciplinar foi instaurado regularmente,
+mas não lhe foi facultada a ampla defesa, tampouco o contraditório. Assim, Jorge obteve
+judicialmente a anulação da demissão com a consequente reinvestidura no cargo que ocupava
+anteriormente. Ocorre, porém, que seu cargo estava agora ocupado por Maria, também
+professora da rede municipal concursada, que deixara de dar aulas em outra escola pública
+para assumir esse cargo de diretora.
+Jorge será reintegrado e Maria será reconduzida ao cargo que ocupava anteriormente, com
+direito a indenização
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+Questão para fixação
+A reversão constitui a reinvestidura do servidor estável no cargo anteriormente ocupado, e
+ocorre quando é invalidada a demissão do servidor por decisão judicial ou administrativa.
+Nesse caso, o servidor deve ser ressarcido de todas as vantagens que deixou de perceber
+durante o período demissório
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                   
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                         POSSE & EXERCÍCIO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                             
+
+
+---
+
+                          30 dias                                           15 dias
+
+
+             Nomeação                                    Posse                                 Exercício
+
+                     Se não tomar posse                                   Se não entrar em
+                          no prazo:                                      exercício no prazo:
+                      NOMEAÇÃO SEM                                         EXONERAÇÃO
+                           EFEITO
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                    Investidura no cargo
+
+
+                                                                          Assinatura do “termo de posse”
+                     Necessária manifestação do servidor
+                                    (bilateral)
+                                                                                 Não é contrato
+      Posse
+                               Apenas no provimento por nomeação
+
+                                  Posse por procuração específica
+
+
+                      Apresenta declaração de bens e valores no ato da posse
+                                          (Lei 8.112/90 + Lei 8.429/92)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                                                                                Universidades e    Professores
+                                                                                 Instituições de
+                                    nacionalidade brasileira                   pesquisa poderão     técnicos
+                                                                               prover cargos com
+                                       gozo dos direitos                          estrangeiros      cientistas
+          Requisitos básicos para
+           investidura em cargo
+
+                                           políticos
+                                         quitação com                         militares
+                  público
+
+                                          obrigações                         eleitorais
+                                     nível de escolaridade
+                                     exigido para o cargo
+
+                                            18 anos
+
+                                    aptidão física e mental
+Lei 8.112/90
+Prof. Antonio Daud
+                                                
+
+
+---
+
+                     Efetivo desempenho das atribuições do cargo ou da FC
+
+                                                                 Promoção: não interrompe o
+                     Dá início à contagem do                         tempo de exercício
+                        tempo de serviço
+                                                              Adicional por tempo de serviço
+
+                                                                                        assentamento
+         Exercício        Início, suspensão/interrupção e reinício
+                                                                                          funcional
+                     Empossado que não entra em exercício em 15 dias                     exoneração
+                                               (regra)
+
+                                                             Exercício na data de publicação da
+                                                                         designação
+                     Designado p/ função de                    Se afastado/licenciado: 1º dia útil
+                           confiança                             após retornar (máx. 30 dias)
+
+                                                                Designação tornada sem efeito
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                     Jornada de Trabalho (art. 19)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+Questão para fixação
+Para o aprovado em concurso público, que seja nomeado, a Lei n.º 8.112/1990
+estabelece apenas um prazo máximo para que ocorra a posse no cargo, mas não fixa
+um limite temporal à entrada em exercício
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+Questão para fixação
+Após ser empossado, o servidor que não entrar em exercício no prazo legal será
+exonerado.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+                         ESTÁGIO PROBATÓRIO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                              
+
+
+---
+
+                     avaliação da aptidão e capacidade p/ cargo
+
+                               3 anos de efetivo exercício *
+
+                     fatores               R-A-P-I-D
+        Estágio
+       probatório
+                                                  licença por Motivo de Doença em Pessoa da Família
+
+                                                      licença por motivo de afastamento do cônjuge
+                      Contagem                                    licença para atividade política
+                      suspensa
+                                                    servir em organismo internacional de que o Brasil
+                                                                   participe/coopere
+                                                              participação em curso de formação
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                 Licenças/afastamentos vedados durante Eprob
+
+
+                • Licença para capacitação
+                • Licença para tratar de interesses particulares (LTIP)
+                • Licença para desempenho de mandato classista
+                • Afastamento para Participação em Programa de Pós-Graduação
+
+            • Exercício de cargo em comissão ou função de confiança?
+Lei 8.112/90
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                         1 estágio p/ cada novo cargo efetivo
+
+
+                                                                   Homologação da
+                         4 meses antes do fim
+                                                                    avaliação pela
+                             do estágio
+                                                                autoridade competente
+    Inabilitação no
+  Estágio probatório                                              RECONDUZIDO ao
+                               Já era estável                     cargo anteriormente
+                                                                       ocupado
+
+                                 Não estável                         EXONERADO
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                       
+
+
+---
+
+     Questão para fixação
+O estágio probatório inicia-se na data da posse do agente público, findando-se com
+o término do prazo de três anos
+
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                            
+
+
+---
+
+                         VACÂNCIA DO CARGO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                             
+
+
+---
+
+                            Vacância do cargo (arts. 33-35)
+
+
+              Exoneração              não é uma penalidade; a pedido ou de ofício
+
+                Demissão            penalidade a servidor que cometeu falta grave
+
+               Promoção             servidor promovido deixa vago o cargo inferior
+
+             Readaptação           servidor readaptado deixa vago o cargo anterior
+
+           Aposentadoria       em qualquer situação, podendo haver posterior reversão
+
+           Posse em cargo     servidor solicita vacância por ter tomado posse em cargo não
+            inacumulável                                 acumulável
+
+              Falecimento          causa natural de rompimento do vínculo funcional
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Questão para fixação
+De acordo com a Lei n° 8.112/1990, um cargo público fica vago em razão de
+a) readaptação, que consiste no retorno do servidor ao cargo anteriormente
+ocupado
+b) exoneração, que se dá exclusivamente em razão de pedido do servidor público
+comissionado ou titular de cargo efetivo
+c) aposentadoria, desde que por idade e a pedido, tendo em vista que quando por
+invalidez a vacância do cargo só ocorre quando do atingimento da idade mínima
+d) promoção, quando precedida de concurso interno, hipótese em que o servidor
+passa a ocupar outro cargo efetivo
+e) posse em outro cargo público não passível de ser acumulável com o
+anteriormente ocupado pelo servidor.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+         Exoneração: hipóteses expressas na Lei 8.112
+
+                                                      A PEDIDO do
+                                                         servidor
+                                                                    reprovação no estágio
+                      do ocupante de                                probatório de servidor
+                     CARGO EFETIVO                                       não estável
+                                                        DE OFÍCIO
+                                                                    após a posse, servidor
+    EXONERAÇÃO                                                      não entra em exercício
+                                                                        no prazo legal
+                                                     A PEDIDO do
+                     do ocupante de                     servidor
+                      CARGO EM
+                      COMISSÃO                                      a juízo da autoridade
+                                                       DE OFÍCIO
+                                                                         competente
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+Questão para fixação
+A exoneração de ofício de um servidor ocupante de cargo efetivo se dará quando
+I. o servidor estável abandonar o cargo
+II. o servidor não atender às condições do estágio probatório.
+III. o servidor, tendo tomado posse, não entrar em exercício no prazo estabelecido.
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+                                           Demissão
+
+             ❑ É penalidade!
+             ❑ Exige constituição de P.A.D.
+             ❑ Cargo em comissão: “destituição do cargo em comissão”
+
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                                    
+
+
+---
+
+              DESLOCAMENTO: REMOÇÃO E
+                   REDISTRIBUIÇÃO
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                                           deslocamento do servidor
+
+                               exercer suas atividades em outra unidade do
+                                        mesmo quadro de pessoal
+
+                                         com ou sem mudança da sede
+                     Remoção
+                                                a pedido ou de ofício
+
+
+                                               Não é “transferência”
+
+                                                                 apenas ao removido
+                               Ajuda de custo
+                                                                      de ofício
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                             no interesse da
+            DE OFÍCIO
+                             Administração
+
+
+                              a critério da
+REMOÇÃO
+
+                             Administração
+                                                    para acompanhar cônjuge ou companheiro, também servidor público
+                                                    (civil ou militar), de qualquer esfera, deslocado no interesse da
+                             para outra             Administração
+             A PEDIDO
+                            localidade,             por motivo de saúde do servidor, cônjuge, companheiro ou dependente
+                         independenteme             que viva às suas expensas e conste do seu assentamento funcional,
+                                                    condicionada à comprovação por junta médica oficial
+                          nte do interesse
+                         da Administração           em virtude de processo seletivo (concurso de remoção), na hipótese em
+                                                    que o número de interessados for superior ao número de vagas
+
+
+           Posse em novo cargo?
+           Ajuda de custo?
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                        
+
+
+---
+
+                               deslocamento do cargo efetivo
+
+                                        ocupado ou vago
+
+                        para outro órgão/entidade do mesmo poder
+
+                       autorização do órgão central de pessoal (Sipec)
+      Redistribuição
+
+                                        sempre de ofício
+
+                                                               equivalência de vencimentos
+
+                                                  mesmo nível de escolaridade, especialidade ou
+                                                            habilitação profissional
+                         Requisitos:              vinculação entre os graus de responsabilidade e
+                                                           complexidade das atividades
+                                                   compatibilidade entre atribuições do cargo e
+Lei 8.112/90
+                                                       finalidades do órgão ou entidade
+Prof. Antonio Daud
+                                
+
+
+---
+
+Questão para fixação
+Considerando que determinado servidor público federal tenha sido removido para
+outra sede, situada em outro município, para acompanhar sua esposa, que também é
+servidora pública federal e foi removida no interesse da administração, julgue o item
+seguinte à luz do disposto na Lei n.º 8.112/1990.
+Ainda que o servidor e sua esposa sejam integrantes de órgãos pertencentes a
+poderes distintos da União, a remoção do servidor poderia ser concedida.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação
+Redistribuição é o deslocamento de cargo de provimento efetivo, vago ou ocupado,
+para outro órgão ou ente vinculado a um mesmo Poder.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                                                    - De ofício ou a pedido do servidor.
+                           Deslocamento do
+          Remoção     »»                                »»
+                               servidor                             - Para o mesmo quadro de pessoal.
+
+                                                                            - Sempre de ofício.
+
+                           Deslocamento do                           - Para quadro diverso, do mesmo
+     Redistribuição   »»                                »»                        Poder.
+                                cargo
+                                                                      - Apenas para cargos efetivos.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+                            REMUNERAÇÃO &
+                         VANTAGENS PECUNIÁRIAS
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                               
+
+
+---
+
+                               REMUNERAÇÃO =
+                     Vencimento + Vantagens permanentes
+
+                                                                                            Isonomia
+                     Superior ao                                                 Não       entre cargos
+                                                                                                 de
+Irredutível            salário                  Descontos                      arresto,
+                                                                                            atribuições
+                       mínimo                                                   salvo        iguais ou
+                                                                                           semelhantes
+
+                                                                 Autorização   prestação   Mesmo Poder
+                                              Decisão
+                                   Lei                           do servidor       de       ou Poder
+                                              judicial                         alimentos     diverso
+                                                                 (máx. 35%)
+Lei 8.112/90
+Prof. Antonio Daud
+                                    
+
+
+---
+
+    Parcelas excluídas do teto remuneratório (art. 42)
+     ❑ parcelas indenizatórias (CF, art. 37, § 11)
+     ❑ gratificação natalina
+     ❑ adicional pelo exercício de atividades insalubres, perigosas ou penosas
+     ❑ adicional pela prestação de serviço extraordinário
+     ❑ adicional noturno
+     ❑ adicional de férias
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                             Vantagens Pecuniárias (art. 49)
+
+                                                                            não se incorporam ao
+                                             Indenizações                     vencimento para
+                                                                               qualquer efeito
+
+
+               Vantagens                    Gratificações
+                     – Lei 8.112                                          incorporam-se nos casos
+                                                                          e condições previstos em
+                                                                                     lei
+
+                                               Adicionais
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                     Vantagens Pecuniárias (arts. 51 - 76-A)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                       Ressarcimento do servidor
+
+                                    Não compõem a remuneração
+
+                       Não se incorporam ao vencimento p/ qualquer efeito
+
+       Indenizações
+                         Não computadas para fins de teto remuneratório
+
+                                                Ajuda de custo
+
+                                                      Diárias
+                      Espécies –
+                       Lei 8.112                Indenização de
+                                                  transporte
+
+                                               Auxílio-moradia
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                                             compensar despesas de instalação do servidor
+
+                                                              no interesse do serviço, passar a ter exercício
+                          Características
+                                                                             em nova sede
+
+                                                             mudança de domicílio em caráter permanente
+
+                                                                            Remoção de ofício
+                           É concedida
+                                                             Não-servidor federal que é nomeado para cargo
+Ajuda de                                                        em comissão, com mudança de domicílio
+ Custo
+                                                                            remoção a pedido
+                         Não é concedida
+                                                           afastamento do cargo ou reassumir em virtude de
+                                                                          mandato eletivo
+                     Se ambos os cônjuges são
+                                                            apenas 1 deles recebe (vedado duplo pagamento)
+                           removidos
+
+Lei 8.112/90                     Máximo: 3 meses da remuneração do servidor
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                     afastamento da sede em caráter eventual ou
+                                                                                 território nacional ou exterior
+                                     transitório
+
+                        deslocamentos constituem exigência
+                                                                                      não faz jus a diárias
+                               permanente do cargo
+                                                                                      não faz jus a diárias
+                            mesma região metropolitana
+                                                                                         (salvo pernoite)
+
+         Diárias         concedidas por dia de afastamento
+
+                                                                deslocamento não exigir pernoite fora da
+                                                                               sede ou
+                        devidas pela metade:
+                                                              União custear, por meio diverso, as despesas
+                                                                  extraordinárias cobertas por diárias
+
+                            Não se afastar                               devolve em 5 dias
+Lei 8.112/90
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Questão para fixação
+Maurício, chefe imediato de João (ambos servidores públicos distritais), determinou que este
+participasse de reunião de trabalho em Fortaleza – CE nos dias nove e dez de janeiro. João
+recebeu o valor das diárias. No dia oito de janeiro, João sofreu um acidente de carro e,
+conforme atestado médico apresentado para Maurício, teve de ficar de repouso por três dias,
+razão pela qual não pôde viajar. Essa foi a primeira vez no bimestre que João teve de se afastar
+do serviço por motivo de saúde.
+Acerca dessa situação hipotética e de aspectos legais e doutrinários a ela relacionados, julgue o
+item a seguir.
+A concessão de diária é ato vinculado da administração pública.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                    
+
+
+---
+
+                                                           Servidor realiza despesas com a
+                                                            utilização de meio próprio de
+                                                                      locomoção
+                     Características:
+                                                               execução de serviços externos
+
+
+                                                               atribuições próprias do cargo
+    Indenização de
+      transporte                         valor por dia de deslocamento
+
+                       apenas no
+                                                             vedado o pagamento sobre
+                      desempenho
+                                                         ausências e afastamentos, ainda que
+                       efetivo das
+                                                         considerados em lei como de efetivo
+                     atribuições do
+                                                                       exercício
+                          cargo
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---
+
+                               ressarcimento das despesas com aluguel de moradia ou com
+                                meio de hospedagem administrado por empresa hoteleira
+
+                                                                        inexistência de imóvel funcional
+                                                                                   disponível
+
+                                 Requisitos:                            servidor não seja proprietário de
+                     Auxílio
+                                                                            imóvel naquele município
+                     Moradia
+                                                                                       ...
+
+
+                                                                      limitado a 25% do valor do CC ou FC
+                                valor mensal
+                                  máximo
+                                                                      não superando 25% do subsídio do
+                                                                             Ministro de Estado
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+           Gratificações, Adicionais e Retribuições
+
+
+                                      adicional
+        retribuição pelo                                            adicional de serv.
+                                  insalubridade,
+      exercício função de                                            extraordinário        adicional noturno
+                                 periculosidade ou
+            confiança                                                  (hora extra)
+                                    penosidade
+
+
+                                                      gratificação               gratificação por
+                                                        natalina                encargo de curso
+                     adicional de férias
+                                                                                  ou concurso -
+                                                      (13º salário)                   GECC
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                           
+
+
+---
+
+                      1/12 da remuneração de dezembro por mês de exercício no
+                                               ano
+
+
+                             Fração igual ou superior a 15 dias: mês integral
+
+
+       Gratificação   Servidor exonerado: calculada sobre a remuneração do mês
+        natalina                        da exoneração (art. 65)
+
+
+                                                  Prazo: 20/dezembro
+
+
+                         Não é considerada como base para cálculo de outras
+                                             parcelas
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+                                                                                 Ministrar cursos
+
+                                       Encargos
+                                                                         Realizar concursos públicos ou
+                                                                              exames vestibulares
+
+            Gratificação por
+                                              Caráter eventual
+          Encargo de Curso ou
+          Concurso - GECC (art.
+                          76-A)                                                  receber a GECC
+                                                                           (exerce atribuições de CC sem
+                                   Servidor pode                       prejuízo de suas atribuições ordinárias)
+                                    optar entre:
+                                                                              não receber a GECC
+                                                                         (recebe apenas a remuneração do
+                                                                                      cargo)
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                                
+
+
+---
+
+                          FÉRIAS
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                     Interrupção das férias somente por
+
+
+                                                                      serviço      necessidade
+          calamidade      comoção          convocação                               do serviço
+                                                                      militar ou
+            pública        interna           para júri                             (autoridade
+                                                                      eleitoral
+                                                                                     máxima)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+ Questão para fixação
+Francisco é Analista Judiciário de determinado Tribunal Regional do Trabalho e, em maio desse
+ano, pretende sair de férias, haja vista que terá preenchido os requisitos legais para tanto. A
+propósito do tema e nos termos da Lei nº 8.112/1990,
+a) admite-se levar à conta de férias as faltas ao serviço, justificadas e não justificadas
+b) Francisco fará jus a trinta dias de férias, que podem ser acumuladas, até o máximo de dois
+períodos, no caso de necessidade do serviço, ressalvadas as hipóteses em que haja legislação
+específica.
+c) as férias não poderão ser parceladas, sendo obrigatório o gozo do período inteiro das férias
+sob pena de responsabilidade do servidor
+d) as férias não podem ser interrompidas, salvo única e exclusivamente por motivo de
+necessidade do serviço declarada pela autoridade máxima do órgão ou entidade
+e) admite-se o gozo de férias antes de completado o primeiro período aquisitivo, isto é, antes
+de doze meses de exercício, iniciando-se novo período aquisitivo a partir do término do gozo
+das férias
+
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                                 
+
+
+---
+
+                         LICENÇAS
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+      maternidade e                                                           doença em pessoa
+                      tratamento de saúde              acidente em serviço
+       paternidade                                                                da família
+
+     afastamento de
+       cônjuge ou        serviço militar                 atividade política     capacitação
+      companheiro
+
+                           interesses                    desempenho de
+                          particulares                   mandato classista
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+                                                                                           Exige estabilidade
+          Licença                Prazo Máximo                  É remunerada?                ou estar fora do  Concessão
+                                                                                          Estágio Probatório?
+         maternidade              120 + 60 dias                       sim                        não            vinculada
+         paternidade               5 + 15 dias                        sim                        não            vinculada
+    tratamento de saúde             24 meses                          sim                        não            vinculada
+     acidente em serviço                -                             sim                        não            vinculada
+                                 60 + 90 dias (a
+doença em pessoa da família                               sim (60 dias), não (90 dias)           não            vinculada
+                                 cada 12 meses)
+afastamento do cônjuge ou
+                                    indefinido                        não                        não            vinculada
+       companheiro
+                                retorna em 30 dias
+        serviço militar                                                 -                        não            vinculada
+                                  após o serviço
+
+                                                       não (convenção até véspera do
+                                 da convenção
+                                                               registro no TSE)
+      atividade política        partidária até 10º                                               não            vinculada
+                                                       sim (do registro até 10º dia pós
+                                 dia pós eleição
+                                                                   eleição)
+                                                                                           não pode estar em
+         capacitação                 3 meses                          sim                                      discricionária
+                                                                                                 Eprob
+                                                                                           não pode estar em
+   interesses particulares           3 anos                           não                                      discricionária
+                                                                                                 Eprob
+Leidesempenho
+    8.112/90       de mandato     duração do                                               não pode estar em
+Prof. Antonio Daud                                                     não                                      vinculada
+           classista            mandato sindical
+                                                               Eprob
+
+
+---
+
+                     1) Licença maternidade (arts. 207, 209 e 210 )
+   ❑ Servidora que gestar ou adotar uma criança
+   ❑ Com remuneração
+   ❑ Duração = 120 dias consecutivos (regra)
+            ❑ +60 dias
+            ❑ Diferenciação pela idade da criança adotada? 90 dias, 30 dias?
+   ❑ Início = a partir do 1º dia do nono mês de gestação, salvo:
+            ❑ prescrição médica
+            ❑ Prematuro
+   ❑ Natimorto → decorridos 30 dias, servidora submetida a exame médico
+            ❑ se julgada apta, reassumirá o exercício
+   ❑ Aborto → 30 dias de repouso remunerado
+   ❑ Lactante → 1 hora de descanso p/ amamentação (até 6 meses)
+Lei 8.112/90
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                        2) Licença paternidade (art. 208)
+
+        ❑ duração = 5 dias consecutivos (CF, art. 7º, XIX)
+                 ❑ +15 dias
+        ❑ Períodos são considerados como de efetivo exercício
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+  3) Licença para tratamento de saúde (arts. 202-206-A)
+
+        ❑ A pedido ou de ofício
+        ❑ Sem prejuízo da remuneração
+        ❑ Duração máxima de 24 meses
+                 ❑ Ao final: aposentado por invalidez
+
+        ❑ Com base em perícia médica oficial (regra)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                         
+
+
+---
+
+                     3) Para tratamento de saúde
+
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+Questão para fixação
+De acordo com a Lei n.º 8.112/1990, a perícia médica com finalidade administrativa demandará
+junta médica oficial quando a licença para tratamento de saúde
+ a) exceder o prazo de cento e vinte dias no período de doze meses.
+b) exceder noventa dias consecutivos.
+c) decorrer de causa que possa levar à interdição.
+d) ocorrer a pedido da chefia imediata, contra a vontade do servidor.
+e) ocorrer na vigência de processo administrativo disciplinar.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+                     4) Por acidente em serviço (arts. 211-214)
+
+        ❑ dano físico ou mental que se relacione com as atribuições do cargo
+                 ❑ Relação imediata ou mediata
+
+        ❑ Equipara-se a acidente em serviço:
+                 ❑ agressão sofrida e não provocada pelo servidor no exercício do cargo
+                 ❑ sofrido no percurso da residência para o trabalho e vice-versa
+
+        ❑ Prova em 10 dias (prorrogáveis)
+        ❑ Computado como efetivo exercício para todos os efeitos
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                         
+
+
+---
+
+     5) Por motivo de doença em pessoa da família
+                                                       (art. 83)
+
+        ❑ motivo de doença de
+                 ❑ cônjuge ou companheiro
+                 ❑ pais (e padrasto ou madrasta)
+                 ❑ filhos (e enteado)
+                 ❑ dependente que viva a suas expensas e conste do seu assentamento funcional
+        ❑ somente se:
+                 ❑ assistência direta do servidor for indispensável e
+                 ❑ não puder ser prestada simultaneamente com o exercício do cargo ou
+                   mediante compensação de horário
+        ❑ comprovação por perícia médica oficial
+        ❑ vedado exercício de atividade remunerada durante o período
+Lei 8.112/90
+Prof. Antonio Daud
+                                          
+
+
+---
+
+     5) Por motivo de doença em pessoa da família
+                                           (art. 83)
+
+                                                 Primeiros         período é computado como de
+                                                  30 dias                 efetivo exercício
+                       Até 60 dias
+                                                                   período é considerado apenas
+                                                  Mais de
+                                                                    para fins de aposentadoria e
+         Duração da                               30 dias
+                                                                           disponibilidade
+          licença -    remunerados
+         período de
+          12 meses
+                                                  Período não é computado
+                       Até 90 dias
+                                                    para qualquer efeito
+
+                      não remunerados
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+6) Por motivo de afastamento do cônjuge ou companheiro
+                                                     (art. 84)
+
+        ❑ Para acompanhar cônjuge ou companheiro que foi deslocado para outro
+          ponto do território nacional, para o exterior ou para o exercício de
+          mandato eletivo dos Poderes Executivo e Legislativo
+        ❑ Sem remuneração
+        ❑ Prazo indeterminado
+        ❑ STJ: ato vinculado
+
+        ❑ Exercício provisório (art. 84, §2º)
+                 ❑ Se o cônjuge for servidor público, civil ou militar, de qualquer esfera
+                 ❑ Atividades compatíveis com o cargo
+Lei 8.112/90
+                 ❑ Aqui há remuneração
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                               7) Serviço Militar (art. 85)
+
+        ❑ Servidor convocado para o serviço militar
+        ❑ 30 dias para reassumir o cargo
+                 ❑ Neste período: também sem remuneração
+
+        ❑ Considerada como efetivo exercício
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                     8) Para atividade política (art. 86)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                     9) Capacitação (art. 87)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+      10) Para tratar de Interesses Particulares (art. 91)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+Questão para fixação
+Suponha que determinado servidor público federal tenha solicitado licença para
+tratar de interesses particulares, a qual, contudo, restou negada pela Administração.
+Entre os possíveis motivos legalmente previstos para negativa, nos termos
+disciplinados pela Lei n° 8.112/1990, se insere(m):
+I. Estar o servidor no curso de estágio probatório.
+II. Ser o servidor ocupante exclusivamente de cargo em comissão.
+III. Razões de conveniência da Administração.
+Está correto o que se afirma em
+a) I, II e III.
+b) II, apenas.
+c) II e III, apenas.
+d) I e III, apenas.
+e) I e II, apenas.
+
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação
+A administração pode deferir pedido de licença sem remuneração, por até três anos
+consecutivos, a servidor público ocupante de cargo efetivo que esteja no segundo ano do
+estágio probatório, se a licença for para tratar de interesses particulares
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                
+
+
+---
+
+      11) Desempenho de Mandato Classista (art. 92)
+
+      ❑ mandato em confederação, federação, associação de classe de âmbito
+        nacional, sindicato representativo da categoria ou entidade fiscalizadora da
+        profissão ou
+      ❑ participar de gerência ou administração em sociedade cooperativa
+        constituída por servidores públicos para prestar serviços a seus membros
+      ❑ duração igual à do mandato
+          ❑ renovável, no caso de reeleição
+      ❑ vedada durante estágio probatório
+      ❑ sem remuneração
+          ❑ computada como tempo de serviço, exceto para promoção por
+ Lei 8.112/90
+                merecimento
+ Prof. Antonio Daud
+---                              
+
+
+---
+
+                                                                                           Exige estabilidade
+          Licença                Prazo Máximo                  É remunerada?                ou estar fora do  Concessão
+                                                                                          Estágio Probatório?
+         maternidade              120 + 60 dias                       sim                        não            vinculada
+         paternidade               5 + 15 dias                        sim                        não            vinculada
+    tratamento de saúde             24 meses                          sim                        não            vinculada
+     acidente em serviço                -                             sim                        não            vinculada
+                                 60 + 90 dias (a
+doença em pessoa da família                               sim (60 dias), não (90 dias)           não            vinculada
+                                 cada 12 meses)
+afastamento do cônjuge ou
+                                    indefinido                        não                        não            vinculada
+       companheiro
+                                retorna em 30 dias
+        serviço militar                                                 -                        não            vinculada
+                                  após o serviço
+
+                                                       não (convenção até véspera do
+                                 da convenção
+                                                               registro no TSE)
+      atividade política        partidária até 10º                                               não            vinculada
+                                                       sim (do registro até 10º dia pós
+                                 dia pós eleição
+                                                                   eleição)
+                                                                                           não pode estar em
+         capacitação                 3 meses                          sim                                      discricionária
+                                                                                                 Eprob
+                                                                                           não pode estar em
+   interesses particulares           3 anos                           não                                      discricionária
+                                                                                                 Eprob
+Leidesempenho
+    8.112/90       de mandato     duração do                                               não pode estar em
+Prof. Antonio Daud                                                     não                                      vinculada
+           classista            mandato sindical
+                                                               Eprob
+
+
+---
+
+Lei 8.112/90                                              Direito Administrativo
+Prof. Antonio Daud                                               Lei 8.112/1990
+                           Prof. Antonio Daud
+
+
+---
+
+                         AFASTAMENTOS
+                               &
+                          CONCESSÕES
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                           
+
+
+---
+
+             1) Afastamento/Cessão para outro órgão ou
+                          entidade (art. 93)
+
+                                                           organização federal de outro Poder
+
+                          Destino da                     órgãos/entidades de outras esferas da
+                           cessão                                     federação
+    Afastamento/Cessão
+    para outro órgão ou                                 serviço social autônomo (MP 765/2016)
+          entidade
+                                                                  exercício de CC ou FC
+                          Somente
+                            para
+                                                            casos previstos em leis específicas
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+        1) Cessão para outro órgão ou entidade (art. 37)
+
+                              p/ Estados, DF ou
+                                                                   ônus do cessionário
+                                  municípios
+                     cessão
+
+                                 p/ ente federal                    ônus do cedente
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+Questão para fixação
+Um servidor da Administração direta federal foi convidado para ocupar cargo em comissão na
+Administração indireta estadual, como superintendente da autarquia responsável por ditar a
+política ambiental, inclusive realizar os licenciamentos naquela unidade federativa. O ente
+interessado na cessão do servidor formalizou o pedido e o servidor apresentou a seu superior
+pedido de afastamento, que
+a) não poderá ser deferido, considerando que os pedidos de afastamento para ocupar cargo
+em comissão somente podem ser acolhidos dentro da mesma esfera da Administração
+b) não poderá ser acolhido porque os pedidos de afastamento somente podem ser deferidos
+para ocupar cargo em comissão no âmbito da Administração direta
+c) poderá ser deferido, ficando a remuneração do servidor a cargo do ente cessionário.
+d) poderá ser deferido, mantendo-se o ônus da remuneração para a Administração pública
+cedente, considerando o dever de colaboração entre os entes federados
+e) será ou não deferido, conforme decisão discricionária da autoridade competente, cabendo
+ao servidor optar pela remuneração na Administração pública cedente ou cessionária
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+                     2) Exercício de mandato eletivo (art. 94)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                  
+
+
+---
+
+          3) Estudo ou missão oficial no exterior (art. 95)
+
+        ❑ afastar do exercício do cargo para estudar ou realizar missão no exterior
+        ❑ duração máxima de 4 anos
+        ❑ autorização do respectivo dirigente máximo (Presidente da República,
+              Presidente do STF ou Presidente da Casa Legislativa)
+        ❑ ao retornar, cumprir um ‘pedágio’ com duração igual à do afastamento
+                 ❑ não poderá ser exonerado ou pegar uma LTIP, salvo se ressarcir a
+                   Administração com as despesas incorridas com o afastamento.
+        ❑ Remuneração
+                 ❑ Regulamentação mediante ato infralegal
+                 ❑ para servir em organismo internacional de que o Brasil participe ou
+                   com o qual coopere → perda total da remuneração
+Lei 8.112/90
+Prof. Antonio Daud
+                                        
+
+
+---
+
+4) Pós-graduação stricto sensu em instituição no País (art. 96-A)
+        ❑ no interesse da Administração (ato discricionário)
+        ❑ somente se não for possível conciliar com exercício do cargo (compensação de horário)
+        ❑ lei não prevê a duração do afastamento
+        ❑ remuneração continua sendo percebida
+        ❑ prévio exercício do cargo por pelo menos:
+                 ❑ 3 anos, no caso de mestrado
+                 ❑ 4 anos, no caso de doutorado e pós-doutorado
+
+        ❑ vedada durante estágio probatório
+        ❑ servidor não pode ter tirado LITP ou licença capacitação 2 anos antes da solicitação
+        ❑ após retornar ao exercício do cargo, deverá cumprir ‘pedágio’ com igual duração
+                 ❑ não poderá ser exonerado ou se aposentar, sob pena de ressarcir a Administração
+        ❑ regras aplicáveis a pós-graduação no Exterior (§7º)
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                            
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                             Concessões (1/2 - art. 97)
+
+
+                       Ausência do serviço sem qualquer prejuízo
+                doação de sangue                                        1 dia
+                  alistamento ou
+                                            pelo período necessário - limitado a 2 dias
+            recadastramento eleitoral
+                    casamento                                    8 dias consecutivos
+             falecimento do cônjuge,
+                companheiro, pais,
+              madrasta ou padrasto,                              8 dias consecutivos
+          filhos, enteados, menor sob
+            guarda ou tutela e irmãos
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                           Concessões (2/2 - art. 98)
+
+                                      Horário especial
+     servidor estudante                                    - exigida a compensação de horário
+     servidor portador de deficiência     - comprovada a necessidade por junta
+                                                      médica oficial
+     servidor que tenha cônjuge, filho ou - independentemente de compensação
+     dependente com deficiência                         de horário
+
+     servidor que atue como instrutor ou
+     participe de banca examinadora nas                      - exigida compensação de horário
+     hipóteses de percepção da GECC
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Matrícula em instituição de ensino congênere (art. 99)
+
+                       Servidor estudante que mudar de sede no interesse da
+                                           administração
+
+                                                 Qualquer época
+
+
+   Matrícula em                       Independentemente de vaga
+   instituição de
+ ensino congênere                           Instituição congênere
+
+
+                                   Na localidade ou na mais próxima
+
+                      STF (RE 601580): constitucional a matrícula em instituição
+                                 pública se não existir congênere
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+ Questão para fixação
+Bruna, servidora pública federal, está cursando faculdade de Pedagogia na cidade onde reside
+e trabalha. Ocorreu que, por ofício, no interesse da Administração Pública, ela descobriu que
+sofrerá remoção com mudança de sede para a cidade vizinha, e está preocupada com o
+andamento de seu curso.
+Ao questionar o responsável pelo processo de remoção, Bruna será informada de que:
+a) a Administração garante apenas a retomada de seus estudos no início do próximo ano letivo,
+arcando com eventuais prejuízos decorrentes do período em que ficará sem estudar
+b) terá assegurada, na localidade da nova residência ou na mais próxima, matrícula em
+instituição de ensino congênere, em qualquer época, independentemente de vaga.
+c) terá assegurada matrícula, em qualquer época do ano, desde que haja vaga e
+compatibilidade de horário com sua atividade laboral
+d) terá assegurada, na localidade da nova residência, matrícula em instituição de ensino
+congênere, em qualquer época, desde que havendo vaga
+e) retomará seus estudos exclusivamente na localidade da nova residência, cabendo à
+Administração arcar com eventuais prejuízos decorrentes do período em que ficará sem
+estudar
+
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                                
+
+
+---
+
+REGIME DISCIPLINAR –
+     LEI 8.112
+
+                                          Prof. Antonio Daud
+
+     
+
+
+---
+
+                        Regime disciplinar
+
+
+                                  Deveres e
+    Responsabilidades                                         Penalidades
+                                  Proibições
+
+Lei 8.112/90
+Prof. Antonio Daud
+                         
+
+
+---
+
+                         RESPONSABILIDADES DO
+                           SERVIDOR PÚBLICO
+
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                              
+
+
+---
+
+                     Esferas de responsabilidades
+
+                           Administrativa                          infrações administrativas
+
+
+   Responsabilidades              Civil                          dano causado pelo servidor
+      do servidor
+
+                                                                   crimes e contravenções
+                                 Penal                           imputadas ao servidor, nessa
+                                                                         qualidade
+
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+                              Responsabilidades
+Lei 8.112, art. 122. A responsabilidade civil decorre de ato omissivo ou comissivo, doloso ou
+culposo, que resulte em prejuízo ao erário ou a terceiros. (..)
+§ 2º Tratando-se de dano causado a terceiros, responderá o servidor perante a Fazenda
+Pública, em ação regressiva.
+§ 3º A obrigação de reparar o dano estende-se aos sucessores e contra eles será executada,
+até o limite do valor da herança recebida.
+
+Art. 123. A responsabilidade penal abrange os crimes e contravenções imputadas ao servidor,
+nessa qualidade.
+Art. 124. A responsabilidade civil-administrativa resulta de ato omissivo ou comissivo praticado
+no desempenho do cargo ou função.
+
+Art. 125. As sanções civis, penais e administrativas poderão cumular-se, sendo independentes
+entre si.
+Art. 126. A responsabilidade administrativa do servidor será afastada no caso de absolvição
+criminal que negue a existência do fato ou sua autoria.
+Art. 126-A → Representar por ato ilícito não gera responsabilidade do servidor...
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                                                *
+
+Insuficiência de provas?
+Prescrição?
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+ Questão para fixação
+De acordo com a Lei n° 8.112/1990, a responsabilidade civil do servidor público é
+objetiva e solidária com o ente público cujo quadro integra, admitidas, no entanto,
+as excludentes de responsabilidade
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+As esferas penal e administrativa são independentes para apurar a responsabilidade
+de servidor público. Contudo, o procedimento criminal vincula o procedimento
+administrativo quando conclui que
+a) há insuficiência de provas quanto à existência do fato imputado ao servidor.
+b) o servidor não foi o autor da conduta a ele imputada.
+c) há insuficiência de provas quanto à autoria do fato.
+d) o fato não constitui infração penal.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                         DEVERES E PROIBIÇÕES DO
+                            SERVIDOR PÚBLICO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                                
+
+
+---
+
+                              • Diretrizes positivas (fazer) - abrangentes
+                              • Art. 116
+
+               deveres
+                              • Descumprimento:
+                                • Regra → advertência
+                                • desde que “não justifique imposição de
+                                  penalidade mais grave”
+
+                              • Diretrizes negativas (não fazer)
+                              • Art. 117
+
+         proibições
+                              • Penalidades específicas:
+                                • Advertência (art. 129)
+                                • Suspensão (art. 117, XVII e XVIII)
+                                • Demissão (art. 132, XIII)
+Lei 8.112/90
+Prof. Antonio Daud
+                         
+
+
+---
+
+                     Deveres do servidor público
+Lei 8.112, art. 116. São deveres do servidor:
+I - exercer com zelo e dedicação as atribuições do cargo;
+II - ser leal às instituições a que servir;
+III - observar as normas legais e regulamentares;
+IV - cumprir as ordens superiores, exceto quando manifestamente ilegais;
+V - atender com presteza:
+a) ao público em geral, prestando as informações requeridas, ressalvadas as
+protegidas por sigilo;
+b) à expedição de certidões requeridas para defesa de direito ou esclarecimento
+de situações de interesse pessoal;
+c) às requisições para a defesa da Fazenda Pública.
+Lei 8.112/90
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                     Deveres do servidor público
+Lei 8.112, art. 116. São deveres do servidor: (..)
+VI - levar as irregularidades de que tiver ciência em razão do cargo ao conhecimento
+da autoridade superior ou, quando houver suspeita de envolvimento desta, ao
+conhecimento de outra autoridade competente para apuração;
+VII - zelar pela economia do material e a conservação do patrimônio público;
+VIII - guardar sigilo sobre assunto da repartição;
+IX - manter conduta compatível com a moralidade administrativa;
+X - ser assíduo e pontual ao serviço;
+XI - tratar com urbanidade as pessoas;
+XII - representar contra ilegalidade, omissão ou abuso de poder.
+Parágrafo único. A representação de que trata o inciso XII será encaminhada pela via
+hierárquica e apreciada pela autoridade superior àquela contra a qual é formulada,
+assegurando-se
+Lei 8.112/90    ao representando ampla defesa.
+Prof. Antonio Daud
+                                
+
+
+---
+
+Questão para fixação
+Pedro, servidor de órgão público federal, a mando de Lucas, seu chefe imediato,
+mensalmente entregava dez resmas de papel a uma empregada terceirizada, a título
+de colaboração para a escola em que um filho dessa empregada estudava.
+Nessa situação hipotética,
+A Lucas deu ordem manifestamente ilegal, razão por que Pedro deveria ter-se
+recusado a cumpri-la.
+B Pedro cometeu infração que não representou grave dano ao patrimônio público e,
+por isso, deverá ser-lhe aplicada a penalidade mais branda
+C o desconhecimento da ilegalidade da conduta afastará a aplicação de penalidade
+a Pedro
+D Pedro cometeu infração, mas Lucas, não, já que não praticou a conduta proibida
+E a nobreza da conduta de Pedro poderá justificar a não instauração de processo
+administrativo contra si
+
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+                     Proibições ao servidor público
+Lei 8.112/1990, art. 117. Ao servidor é proibido:
+I - ausentar-se do serviço durante o expediente, sem prévia autorização do chefe
+imediato;
+II - retirar, sem prévia anuência da autoridade competente, qualquer documento ou
+objeto da repartição;
+III - recusar fé a documentos públicos;
+IV - opor resistência injustificada ao andamento de documento e processo ou execução
+de serviço;
+V - promover manifestação de apreço ou desapreço no recinto da repartição;
+VI - cometer a pessoa estranha à repartição, fora dos casos previstos em lei, o
+desempenho de atribuição que seja de sua responsabilidade ou de seu subordinado;
+VII - coagir ou aliciar subordinados no sentido de filiarem-se a associação profissional
+ou sindical, ou a partido político;
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                     Proibições ao servidor público
+Lei 8.112/1990, art. 117. Ao servidor é proibido: (..)
+VIII - manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge,
+companheiro ou parente até o segundo grau civil;
+*IX - valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da
+dignidade da função pública;
+*X - participar de gerência ou administração de sociedade privada, personificada ou não
+personificada, exercer o comércio, exceto na qualidade de acionista, cotista ou
+comanditário; [exceto em LTIP, entidades pertencentes à União ou cooperativas]
+*XI - atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando
+se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau,
+e de cônjuge ou companheiro;
+*XII - receber propina, comissão, presente ou vantagem de qualquer espécie, em razão
+de suas atribuições;
+*XIII - aceitar comissão, emprego ou pensão de estado estrangeiro;
+Lei 8.112/90
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                     Proibições ao servidor público
+
+  Lei 8.112/1990, art. 117. Ao servidor é proibido: (..)
+  *XIV - praticar usura sob qualquer de suas formas;
+  *XV - proceder de forma desidiosa;
+  *XVI - utilizar pessoal ou recursos materiais da repartição em serviços ou atividades
+  particulares;
+  XVII - cometer a outro servidor atribuições estranhas ao cargo que ocupa, exceto
+  em situações de emergência e transitórias; (S)
+  XVIII - exercer quaisquer atividades que sejam incompatíveis com o exercício do
+  cargo ou função e com o horário de trabalho; (S)
+  XIX - recusar-se a atualizar seus dados cadastrais quando solicitado.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Questão para fixação
+O Regime Jurídico dos Servidores Públicos Federais aduz que se recusar a dar fé a
+um documento público é
+A dever do servidor.
+B proibido ao servidor.
+C facultado ao servidor.
+D direito subjetivo do servidor.
+E garantia constitucional do servidor.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                         PENALIDADES
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                          
+
+
+---
+
+                     Penalidades - art. 127
+                 • advertência
+                 • suspensão
+                 • demissão
+                 • cassação de aposentadoria ou disponibilidade
+                 • destituição de cargo em comissão ou função de confiança
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                                                               obrigatório
+                     ciência de irregularidade no
+                                                               promover a
+                            serviço público                  apuração (art. 143)
+
+
+                      Gradação da penalidade                 discricionariedade
+  Aplicação das
+   penalidades             Poder disciplinar
+                           (poder hierárquico)
+
+                     Garantia do contraditório e
+                           ampla defesa
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+        Aplicação de penalidades: valoração da sanção - art. 128
+
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+                            por escrito
+
+
+                              Violação de deveres do art. 116
+
+                         Violação de algumas proibições do art. 117
+                                        (incisos I a VIII e XIX)
+     Advertência
+            (art. 129)
+                                                                     180 dias do
+                             Prescrição                            conhecimento do
+                                                                         fato
+
+
+                         Registro cancelado                            3 anos
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+  Questão para fixação
+Considere as seguintes condutas:
+I. recusar fé a documentos públicos.
+II. opor resistência injustificada ao andamento de documento e processo ou
+execução de serviço.
+III. revelar segredo do qual se apropriou em razão do cargo
+Nos termos da Lei nº 8.112/90, é passível de advertência o mencionado em
+A I, apenas.
+B I e II, apenas.
+C I, II e III.
+D III, apenas.
+E II, apenas.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                           
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+Questão para fixação
+Severina, Maria e Camila são servidoras públicas do Tribunal Regional do Trabalho da 2° Região.
+Severina praticou determinada conduta que acredita configure infração disciplinar. Assim,
+preocupada especificamente com a penalidade de suspensão, indaga suas colegas de trabalho a
+respeito das disposições específicas da Lei n° 8.112/1990. Maria e Camila respondem
+corretamente que a penalidade de suspensão
+a) será aplicada pelo prazo de até 15 dias na hipótese de o servidor, injustificadamente, recusar-
+se a ser submetido à inspeção médica determinada pela autoridade competente.
+b) poderá ser convertida em multa, na base de 30% por dia de vencimento ou remuneração,
+quando houver conveniência para o serviço, ficando o servidor obrigado a permanecer em
+serviço
+c) poderá ser convertida em multa, na base de 60% por dia de vencimento ou remuneração,
+quando houver conveniência para o serviço, ficando o servidor obrigado a afastar-se do serviço
+por cinco dias
+d) poderá ser convertida em multa, na base de 60% por dia de vencimento ou remuneração,
+quando houver conveniência para o serviço, ficando o servidor obrigado a permanecer em
+serviço
+e) será aplicada em caso de reincidência das faltas punidas com advertência e de violação das
+demais
+ Lei 8.112/90
+              proibições que não tipifiquem infração sujeita a penalidade de demissão, não podendo
+exceder        a 60 dias
+ Prof. Antonio Daud
+                                         
+
+
+---
+
+ Cancelamento dos registros de penalidade – art. 131
+
+ ❑ O que é?
+
+ ❑ Prazos:
+    ❑ Advertência → 3 anos de efetivo exercício
+    ❑ Suspensão → 5 anos de efetivo exercício
+
+ ❑ Efeitos não são retroativos
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                                   3) Demissão – art. 132
+✓ Hipóteses:
+       ➢ crime contra a administração pública
+       ✓ abandono de cargo (ausência intencional por mais de 30 dias consecutivos); *
+       ✓ inassiduidade habitual (faltas injustificadas por 60 dias, interpoladamente, durante 12 meses); *
+       ➢ improbidade administrativa;
+       ✓ incontinência pública e conduta escandalosa, na repartição;
+       ✓ insubordinação grave em serviço;
+       ✓ ofensa física, em serviço, a servidor ou a particular, salvo em legítima defesa própria ou
+         de outrem;
+       ➢ aplicação irregular de dinheiros públicos;
+       ✓ revelação de segredo do qual se apropriou em razão do cargo;
+       ➢ lesão aos cofres públicos e dilapidação do patrimônio nacional;
+       ➢ corrupção;
+       ✓ acumulação ilegal de cargos, empregos ou funções públicas. *
+Lei 8.112/90
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                              3) Demissão – art. 132
+✓ Hipóteses (descumprimento de proibição – art. 117):
+       ❖ valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade
+         da função pública;
+       ❖ atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando se
+         tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau, e de
+         cônjuge ou companheiro;
+       ✓ receber propina, comissão, presente ou vantagem de qualquer espécie, em razão de suas
+         atribuições;
+       ✓ aceitar comissão, emprego ou pensão de estado estrangeiro;
+       ✓ praticar usura sob qualquer de suas formas;
+       ✓ proceder de forma desidiosa;
+       ✓ utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares;
+       ✓ participar de gerência ou administração de sociedade privada, personificada ou não
+         personificada, exercer o comércio, exceto:
+           ✓ na qualidade de acionista, cotista ou comanditário.
+Lei 8.112/90
+Prof. Antonio Daud
+                                     
+
+
+---
+
+       STF: inconstitucional a perpetuidade do impedimento (ADI 2975 – dez/2020)
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+                       Cassação de aposentadoria (art. 134) e
+                     Destituição de cargo em comissão (art. 135)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+ Questão para fixação
+A exoneração dos ocupantes de cargos em comissão deve ser motivada,
+respeitando-se o contraditório e a ampla defesa
+
+Lei 8.112/90
+Prof. Antonio Daud
+                        
+
+
+---
+
+Questão para fixação
+Após regular processo administrativo disciplinar, garantidos ao servidor público federal
+investigado o exercício do contraditório e da ampla defesa, restaram cabalmente comprovadas a
+materialidade e a autoria de infração disciplinar descrita na portaria inaugural, punível com
+demissão, nos termos da Lei no 8.112/1990. Sobreveio aos autos informação de que o servidor
+processado, autor da infração, havia se aposentado voluntariamente durante a tramitação do
+processo. A autoridade competente, conforme estabelece a Lei no 8.112/1990,
+a) em razão da precedente aposentadoria, deverá aplicar a pena de demissão, mitigando-a para
+suspensão por 90 dias e determinando sua anotação no prontuário do servidor, para resguardo
+dos direitos da Administração
+b) deverá aplicar a pena de cassação de aposentadoria, mas, ato contínuo, cancelar seu registro,
+com efeitos retroativos à data da passagem para inatividade
+c) deverá declarar a extinção da punibilidade do servidor, em razão de sua precedente
+aposentadoria, exarando sentença absolutória imprópria
+d) deverá, em decisão motivada, aplicar ao servidor faltoso a pena de cassação de
+aposentadoria, na hipótese de considerar que não estão presentes os requisitos autorizadores
+de sua mitigação.
+e) poderá escolher livremente entre aplicar as penas de advertência, suspensão em mitigação à
+penalidade
+ Lei 8.112/90
+                    de demissão ou de cassação de aposentadoria, justamente em razão da precedente
+passagem do servidor para inatividade
+ Prof. Antonio Daud
+                                         
+
+
+---
+
+ Questão para fixação
+Acerca da responsabilidade dos servidores públicos e da sua disciplina prevista na
+Lei n.º 8.112/1990, julgue os itens
+Como espécies de penalidades disciplinares, a lei em questão elenca a advertência,
+suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de
+cargo em comissão e a destituição de função comissionada. Uma das hipóteses em
+que poderá ser aplicada a penalidade de demissão é a ocorrência de abandono de
+cargo, a qual restará configurada quando o servidor intencionalmente se ausentar do
+serviço por mais de 30 dias consecutivos.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+De acordo com a Lei n.º 8.112/1990, estará sujeito à penalidade de demissão o
+servidor público que
+A coagir subordinado a filiar-se a partido político Advertência
+B utilizar recurso material da repartição em atividade particular.Demissão
+C negar fé a documento público          Advertência
+D opor resistência injustificada a processo administrativo Advertência
+E reincidir na retirada de documento da repartição sem prévia autorização da
+autoridade competente        Suspensão
+
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+                                     Prescrição – art. 142
+
+
+                           Prazo                                               Penalidade
+                          180 dias                                             Advertência
+                           2 anos                                              Suspensão
+                           5 anos                                           demais penalidades
+                                                                 Infrações disciplinares também
+                     Prazos da lei penal
+                                                                      tipificadas como crime
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                     Prescrição: contagem dos prazos
+
+                 Início da         • Da data em que o fato se tornou conhecido
+                                   • STJ: ciência da autoridade competente para a
+                contagem             abertura do procedimento administrativo
+
+                                   • abertura de sindicância ou a instauração de
+                                     processo disciplinar
+             Interrupção             • Lei 8.112: até a decisão final proferida por autoridade
+                                       competente
+               do prazo              • STF: interrupção por máximo de 140 dias
+                                   • prazo começará a correr a partir do dia em que
+                                     cessar a interrupção.
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                     Prescrição
+
+        Súmula STJ 635
+        Os prazos prescricionais previstos no artigo 142 da Lei 8.112/1990 iniciam-
+        se na data em que a autoridade competente para a abertura do
+        procedimento administrativo toma conhecimento do fato, interrompem-se
+        com o primeiro ato de instauração válido – sindicância de caráter punitivo
+        ou processo disciplinar – e voltam a fluir por inteiro, após decorridos 140
+        dias desde a interrupção.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+ Questão para fixação
+Prescreve em 2 anos a ação disciplinar quanto às infrações puníveis com suspensão e
+advertência
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+O prazo prescricional começa a correr da data da ocorrência do fato
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação
+Claudia e Joana são servidoras públicas federais, tendo praticado faltas disciplinares no
+exercício de suas atribuições. Claudia faltou ao serviço, sem causa justificada, por sessenta dias,
+interpoladamente, durante o período de doze meses. Joana, de histórico exemplar vez que
+nunca sofrera qualquer penalidade administrativa, opôs resistência injustificada à execução de
+determinado serviço. Cumpre salientar que ambas as servidoras ainda não foram processadas
+administrativamente embora a Administração já tenha conhecimento dos fatos praticados. Nos
+termos da Lei nº 8.112/1990, as ações disciplinares relativas às infrações praticadas pelas
+servidoras prescreverão em
+a) 5 anos e 2 anos, respectivamente, contados tais prazos a partir da data em que os fatos se
+tornaram conhecidos pela Administração
+b) 2 anos e 180 dias, respectivamente, contados tais prazos a partir da data em que os fatos se
+tornaram conhecidos pela Administração
+c) 5 anos e 180 dias, respectivamente, contados tais prazos a partir da data em que os fatos se
+tornaram conhecidos pela Administração.
+d) 2 anos, contado tal prazo da data em que praticadas as condutas
+e) 5 anos, contado tal prazo da data em que praticadas as condutas
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                    
+
+
+---
+
+              PROCESSO ADMINISTRATIVO
+                    DISCIPLINAR –
+                      LEI 8.112
+                                                          Prof. Antonio Daud
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                                                      - Advertência
+                       SINDICÂNCIA
+                                                      - Suspensão por até 30 dias
+      Apuração de
+    responsabilidade
+        funcional                                      - Suspensão superior a 30 dias
+                                                       - Demissão
+                          PAD                          - Cassação de
+                                                       aposentadoria/disponibilidade
+                                                       - Destituição de cargo em comissão
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                         
+
+
+---
+
+ Questão para fixação
+A instauração de processo administrativo disciplinar é obrigatória para a aplicação
+das penas de suspensão por mais de trinta dias, demissão, cassação de
+aposentadoria ou disponibilidade e destituição de cargo em comissão.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+                         SINDICÂNCIA
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                          
+
+
+---
+
+                                           infrações funcionais menos graves
+
+
+                                             não é etapa preliminar ao PAD
+
+
+                                                             celeridade
+                                                            (30 + 30 dias)
+                Sindicância
+
+                                                 comissão ou único servidor
+
+
+                                                                    investigativa/inquisitória
+                              modalidades
+                                                                       acusatória/punitiva
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+                     Sindicância: possíveis resultados
+
+                                                                    não se comprovou a suposta infração
+                              arquivamento
+                                                                                funcional
+
+                                                                   comprovou-se a infração, aplicando-se
+        resultados da          aplicação de                        penalidades de:
+        SINDICÂNCIA            penalidades                            - advertência ou
+                                                                      - suspensão de até 30 dias
+
+                                                                    a infração apurada requer a aplicação
+                            instauração de PAD
+                                                                           de penalidade mais grave
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+Questão para fixação
+Segundo o Artigo 145 da Lei 8.112/90, da sindicância poderá resultar, EXCETO:
+ a) suspensão de sessenta dias.
+ b) arquivamento do processo.
+ c) aplicação de penalidade de advertência ou suspensão de até 30 (trinta) dias.
+ d) instauração de processo disciplinar.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+ Questão para fixação
+A sindicância prevista na Lei n.º 8.112/1990, da qual pode resultar tão somente a
+aplicação de penalidade de advertência ou suspensão de até trinta dias, constitui
+procedimento preliminar e inquisitório que dispensa a observância do princípio da
+ampla defesa e do contraditório
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                   PAD
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                          destinado a apurar responsabilidade de servidor por infração
+                            praticada no exercício de suas atribuições, ou que tenha
+                           relação com as atribuições do cargo em que se encontre
+                                               investido (art. 148)
+          Processo
+       Administrativo
+                                                          Autoridade competente
+      Disciplinar - PAD
+
+
+                                                          Comissão de servidores
+                          Atores:
+                                                          (“comissão disciplinar”)
+
+
+                                                          Servidor acusado (e seu
+                                                                procurador)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---
+
+            Processo Administrativo Disciplinar - PAD
+
+                                                               Casos de:
+                                                                 - Acumulação de cargos
+                        RITO SUMÁRIO
+                                                                 - Abandono de cargo
+                                                                 - Inassiduidade habitual
+               PAD
+
+
+                        RITO ORDINÁRIO                                Demais hipóteses
+
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---
+
+                              PAD – rito ordinário
+
+                                               Inquérito
+                Instauração                                           Julgamento
+                                instrução → defesa → relatório
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                          1) Instauração – rito ordinário
+
+     ❑ Início do PAD = publicação do ato que constitui a comissão (art. 151, I)
+     ❑ Denúncia anônima?
+         SUM-611 STJ
+          Súmula 611 - Desde que devidamente motivada e com amparo em investigação ou sindicância, é
+     permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em face
+     do poder-dever de autotutela imposto à Administração.
+
+     ❑ Prazo para conclusão do PAD = 60 + 60 dias (art. 152)
+              ❑ STF: +20 dias para julgamento
+
+
+     ❑ Servidor que responde à PAD → aposentadoria voluntária ou exoneração a
+       pedido somente após a conclusão (art. 172)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                         
+
+
+---
+
+ Questão para fixação
+Considerando o entendimento do STJ acerca do procedimento administrativo, da
+responsabilidade funcional dos servidores públicos e da improbidade administrativa,
+julgue o seguinte item.
+É possível a instauração de procedimento administrativo disciplinar com base em
+denúncia anônima.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+          D
+                     3 servidores estáveis
+           I
+   C
+          S
+  O
+          C
+  M                     Vedação a parentes de até 3º grau do acusado
+           I
+    I
+          P
+   S                    Presidente
+          L
+   S                    • cargo superior ou de mesmo nível ou
+           I            • escolaridade igual ou superior ao do indiciado
+   Ã
+         N
+  O
+          A          Secretário → designado pelo Presidente
+          R
+Lei 8.112/90
+Prof. Antonio Daud
+                                  
+
+
+---
+
+ Questão para fixação
+ Ao instaurar processo administrativo disciplinar ordinário contra servidor público
+ civil federal, a autoridade competente deve designar, para compor a comissão
+ processante,
+  a) dois servidores estáveis ou não, devendo o presidente ocupar cargo efetivo
+  b) dois servidores estáveis, devendo o seu presidente ocupar cargo efetivo
+  superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do
+  indiciado
+  c) dois servidores estáveis ou não, devendo o presidente ocupar cargo efetivo
+  superior ou de mesmo nível ao do indiciado
+  d) três servidores estáveis ou não, devendo o presidente ocupar cargo efetivo
+   e) três servidores estáveis, devendo o seu presidente ocupar cargo efetivo
+   superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do
+   indiciado.
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+ Questão para fixação
+De acordo com a Lei nº 8.112/1990, como medida cautelar e a fim de que o servidor
+não venha a influir na apuração da irregularidade, a autoridade instauradora do
+processo disciplinar poderá determinar o seu afastamento do exercício do cargo,
+pelo prazo de até 60 dias, sem prejuízo da remuneração.
+Ocorrendo o término desses 60 dias, deverá o servidor retornar ao serviço
+imediatamente, ainda que não concluído o processo
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                    2) Inquérito
+
+                     instrução                   defesa               relatório
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                     2.1) Inquérito: Instrução
+                        • Sessões reservadas
+                        • Depoimento de testemunhas: separadamente
+                        • Interrogatório do acusado
+                          - procurador não pode interferir nas P&R
+                          - mais de 1 acusado: separadamente + acareação
+    Coleta de provas    • Admitida prova pericial: se depender de conhecimento
+                          especial de perito
+                        • Admitida prova emprestada (SUM-591): autorizada pelo
+                          juízo competente + contraditório e ampla defesa
+
+                        • Direito a acompanhar o processo
+      Contraditório e                 - Pessoalmente / procurador
+                        • Falta de advogado: não é nulidade (SV 5)
+       ampla defesa
+Lei 8.112/90
+                        • Acusado é “citado” p/ apresentar defesa
+Prof. Antonio Daud
+                           
+
+
+---
+
+                         2.2) Inquérito: Defesa
+
+
+  ❑ Apresentação de defesa escrita
+
+  ❑ Prazos (art. 161):
+     ❑ Regra: 10 dias - contados do recebimento da citação
+     ❑ Mais de 1 indiciado: prazo comum de 20 dias – contados da última
+        citação
+     ❑ Prorrogados pelo dobro: diligências indispensáveis
+
+  ❑ Revelia
+     ❑ Não tem efeito de confissão (princ. verdade material)
+     ❑ Autoridade designará outro servidor para defender o revel (“defensor dativo”)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+ Questão para fixação
+A ausência de advogado para auxiliar o servidor em sua defesa não é causa de
+nulidade do processo administrativo disciplinar.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                              
+
+
+---
+
+                      2.3) Inquérito: Relatório
+
+  ❑ Requisitos (art. 165)
+     1) Resumo das principais peças dos autos
+     2) Menção às provas utilizadas p/ formação da convicção
+     3) Conclusão (quanto à inocência ou responsabilidade do acusado)
+
+
+                       Relatório                                  Comissão
+                                                »»
+                      conclusivo                                  disciplinar
+
+                     Julgar o caso              »»                Autoridade
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                 3) Julgamento
+  ❑ Pela autoridade competente
+  ❑ Prazo = 20 dias (prazo impróprio)
+  ❑ Conclusão do relatório vincula autoridade?
+   Art. 168. O julgamento acatará o relatório da comissão, salvo quando contrário
+   às provas dos autos.
+   Art. 167, § 4º Reconhecida pela comissão a inocência do servidor, a autoridade
+   instauradora do processo determinará o seu arquivamento, salvo se
+   flagrantemente contrária à prova dos autos.
+
+  ❑ Vício insanável no PAD: autoridade anula o processo e constitui outra comissão
+        (novo PAD)
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+ Questão para fixação (1/2)
+
+Após denúncia anônima contendo documentos que permitiram a determinada
+autarquia federal conhecer indícios de infração administrativa cometida por servidor
+público a ela vinculado, instaurou-se, no âmbito da entidade, processo
+administrativo disciplinar (PAD). Para compor a comissão responsável pelo PAD foi
+designado, entre outros membros, parente de quarto grau em linha colateral do
+servidor processado. A instrução processual foi ampla e houve necessidade de se
+prorrogar o prazo para a conclusão dos trabalhos. Ao final, o servidor, que optou por
+apresentar defesa pessoalmente, dispensando assistência técnica de advogado, foi
+indiciado.
+Superado o prazo para a conclusão do processo, sobreveio decisão proferida pela
+autoridade competente em que foi reconhecida a prescrição da pretensão punitiva
+da administração pública e a extinção da punibilidade. Ainda assim, em atendimento
+ao princípio da publicidade, foi promovido o registro do PAD e do seu resultado nos
+assentamentos funcionais do servidor.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+Questão para fixação (2/2)
+
+Com base no disposto na Lei n.º 8.112/1990 e considerando a doutrina e a
+jurisprudência, é correto afirmar que, na situação apresentada, houve irregularidade
+decorrente
+
+A do excesso de prazo para conclusão do processo
+B da ausência de defesa técnica por advogado
+C do fato de a denúncia que deu origem à instauração do PAD ser anônima
+D do fato de a comissão ter sido integrada pelo parente do servidor
+E do registro nos assentamentos funcionais do servidor.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                               
+
+
+---
+
+ Lei 8.112, art. 170. Extinta a punibilidade pela prescrição, a autoridade julgadora
+ determinará o registro do fato nos assentamentos individuais do servidor.
+
+ STF: dispositivo é inconstitucional (MS 23.262/DF, rel. Min. Dias Toffoli,
+ 23/4/2014)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+                         PAD – RITO SUMÁRIO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                              
+
+
+---
+
+                              PAD – rito sumário
+
+  ❑ Hipóteses:
+           ❑ acumulação ilegal de cargos/empregos públicos
+           ❑ abandono de cargo
+           ❑ inassiduidade habitual
+
+
+  ❑ Maior objetividade da apuração
+  ❑ Prazo = 30+15 dias
+  ❑ Comissão = 2 servidores estáveis
+  ❑ Regras do rito ordinário aplicáveis em caráter subsidiário (art. 133, §8º)
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                  
+
+
+---
+
+ PAD – rito sumário: acumulação ilegal de cargos
+
+
+                                                                Antes da          10 dias
+                      Servidor manifesta                  instauração do PAD   improrrogáveis
+                      opção por um dos
+                            cargos                                              Sindicância
+                      tempestivamente                       Durante o prazo
+                                                                               convertida em
+                                                            para apresentar
+  Acumulação ilegal                                                              pedido de
+                                                             defesa escrita
+     de cargos                                                                  exoneração
+
+                       Condenação no                      Demissão, cassação
+                           PAD                            da apos./disponib.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+No caso de acumulação ilegal de cargos públicos, o servidor será notificado para
+apresentar opção e, se ele permanecer omisso, será instaurado procedimento
+administrativo disciplinar sumário conduzido por comissão composta por dois
+servidores estáveis.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                             
+
+
+---
+
+                          PAD – rito sumário
+
+                                Instrução sumária
+            Instauração                                          Julgamento
+                          indiciação → defesa → relatório
+
+Lei 8.112/90
+Prof. Antonio Daud
+                            
+
+
+---
+
+Questão para fixação
+Assinale a alternativa que apresenta a ordem cronológica das fases e subfases do
+procedimento sumário de apuração administrativo disciplinar, objeto do Estatuto
+dos Servidores Públicos Federais.
+ A Instauração, inquérito sumário (citação, defesa e relatório) e julgamento.
+ B Instauração, inquérito (instrução, defesa e relatório) e julgamento.
+ C Atos preparatórios, probatória (oitiva de testemunhas, perícias, interrogatório,
+ indiciação e defesa) e relatório final.
+  D Instauração, instrução sumária (indiciação, defesa e relatório) e julgamento.
+ E Preliminar, probatória (indiciação, defesa, oitiva de testemunhas, perícias,
+ interrogatório e relatório) e julgamento.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                 PAD – rito sumário
+
+                         Termo de
+Designação               indiciação                   Defesa                 Relatório
+                                                                                                 Decisão
+da comissão                    +                      escrita               conclusivo
+                           citação
+
+  2 servidores             3 dias p/                   5 dias                            5 dias p/ autoridade
+estáveis (art. 133, I)    “termo de                                                        proferir decisão
+                         indiciação”
+
+
+  Lei 8.112/90
+  Prof. Antonio Daud
+                                       
+
+
+---
+
+                             PAD – rito                                   PAD – rito
+    Sindicância
+                              sumário                                     ordinário
+                                                        Acumulação
+                                                           ilegal
+      Apuração e                                        Abandono de        Demais casos
+      aplicação de            Situações de                 cargo
+     penalidades de
+                                                        Inassiduidade                20 dias p/
+            advertência                                    habitual                     julgar
+                suspensão                                                  60 + 60 dias
+               até 30 dias                             5 dias p/ julgar           10 ou 20 dias p/
+                               30 + 15 dias
+                                                                                      defesa
+                                                      5 dias p/ defesa
+         30 + 30 dias
+
+                              comissão de 2                                comissão de 3
+      servidor único            servidores                                   servidores
+       ou comissão               estáveis                                     estáveis
+Lei 8.112/90
+Prof. Antonio Daud                                                                  Direito Administrativo
+                                                    Prof. Antonio Daud
+
+
+---
+
+                         REVISÃO DO PAD
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                           
+
+
+---
+
+                      Revisão do PAD (arts. 174-182)
+   ❑ Novo processo
+      ❑ Não é mero recurso
+      ❑ Processo apenso ao PAD originário
+
+   ❑ Fatos novos
+      ❑ Inocência do punido
+      ❑ Inadequação da penalidade aplicada
+
+   ❑ A qualquer tempo
+      ❑ Ônus da prova do requerente da revisão
+   ❑ A pedido ou de ofício
+
+   ❑ Não poderá agravar a penalidade
+   ❑ Prazos: 60 dias (conclusão do PAD) + 20 dias (julgamento)
+Lei 8.112/90
+Prof. Antonio Daud
+                               
+
+
+---
+
+            DIREITO DE PETIÇÃO – ARTS. 104-115
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                     Instrumentos
+
+Lei 8.112/90
+Prof. Antonio Daud
+                     
+
+
+---
+
+                     1) Requerimento (arts. 104-105)
+
+   Art. 104. É assegurado ao servidor o direito de requerer aos Poderes Públicos,
+   em defesa de direito ou interesse legítimo.
+
+Lei 8.112/90
+Prof. Antonio Daud
+                              
+
+
+---
+
+                     2) Pedido de Reconsideração (art. 106)
+
+        Art. 106. Cabe pedido de reconsideração à autoridade que houver expedido
+        o ato ou proferido a primeira decisão, não podendo ser renovado.
+        Parágrafo único. O requerimento e o pedido de reconsideração de que
+        tratam os artigos anteriores deverão ser despachados no prazo de 5 (cinco)
+        dias e decididos dentro de 30 (trinta) dias.
+
+        ✓ Não pode ser renovado
+
+Lei 8.112/90
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                                     3) Recurso (art. 93)
+     ❑ segunda instância decisória
+              ❑ dirigido à autoridade imediatamente superior à que tiver expedido o ato
+                recorrido
+              ❑ encaminhado pela via hierárquica (superior imediato do servidor)
+
+     ❑ prazo de 30 dias para interposição
+     ❑ regra: efeito devolutivo
+              ❑ Exceção: efeito suspensivo a juízo da autoridade competente
+     ❑ provimento de pedido de reconsideração ou recurso → efeitos retroativos
+Lei 8.112/90
+Prof. Antonio Daud
+                                       
+
+
+---
+
+Questão para fixação
+Apolo, Analista do Tribunal, exerceu seu direito de petição em defesa de interesse legítimo,
+observando os comandos da Lei n° 8.112/1990. Seu requerimento foi indeferido, razão pela
+qual ingressou com pedido de reconsideração.
+Sendo provido o pedido de reconsideração, os efeitos dessa decisão retroagirão à data do ato
+impugnado.
+
+ Lei 8.112/90
+ Prof. Antonio Daud
+                                  
+
+
+---
+
+                    Prescrição do direito de requerer (arts. 110-111)
+       Art. 110. O direito de requerer prescreve:
+       I - em 5 (cinco) anos, quanto aos atos de demissão e de cassação de
+       aposentadoria ou disponibilidade, ou que afetem interesse patrimonial e créditos
+       resultantes das relações de trabalho;
+       II - em 120 (cento e vinte) dias, nos demais casos, salvo quando outro prazo for
+       fixado em lei.
+
+       Parágrafo único. O prazo de prescrição será contado da data da publicação do
+       ato impugnado ou da data da ciência pelo interessado, quando o ato não for
+       publicado.
+
+       Art. 111. O pedido de reconsideração e o recurso, quando cabíveis, interrompem
+       a prescrição.
+     Lei 8.112/90
+     Prof. Antonio Daud
+--                                  
+
+
+---
+
+                     OBRIGADO
+
+
+Lei 8.112/90
+Prof. Antonio Daud
+                          
+
+
+---

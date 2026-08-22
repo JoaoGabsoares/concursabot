@@ -1,0 +1,3851 @@
+                                                     Aula 04
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                            07 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 04
+
+
+
+
+                                                                                     Índice
+1) Legislação Tributária - Teoria
+..............................................................................................................................................................................................3
+
+2) Obrigação Tributária - Teoria
+..............................................................................................................................................................................................6
+
+3) Responsabilidade Tributária - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            14
+
+4) Crédito Tributário - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+5) Suspensão do Crédito Tributário - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            30
+
+6) DTJ - Legislação, Obrigação, Responsabilidade, Crédito Tributário e Suspensão - Súmulas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            35
+
+7) Questões Comentadas - Legislação Tributária, Obrigação Tributária, Responsabilidade Tributária, Créd
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+8) Lista de Questões - Legislação Tributária, Obrigação Tributária, Responsabilidade Tributária, Crédit
+..............................................................................................................................................................................................
+                                                                                                                                                                                            58
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           71
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+                            LEGISLAÇÃO TRIBUTÁRIA
+É importante ressaltar que boa parte da jurisprudência sobre legislação tributária gira em torno do art. 98
+do CTN, o qual elenca algumas matérias capazes de serem estabelecidas apenas pela lei.
+
+Como nós já vimos o que há de mais importante sobre o assunto, ao tratar do princípio da legalidade, não
+vejo razões para fazermos nova análise sobre o tema.
+
+Portanto, partiremos para a análise dos tratados internacionais. Inicialmente, é válido dizer que os tratados
+internacionais não podem tratar de matéria reservada à lei complementar:
+
+“(...) TRATADO INTERNACIONAL E RESERVA CONSTITUCIONAL DE LEI COMPLEMENTAR. - O primado da
+Constituição, no sistema jurídico brasileiro, é oponível ao princípio pacta sunt servanda, inexistindo, por
+isso mesmo, no direito positivo nacional, o problema da concorrência entre tratados internacionais e a
+Lei Fundamental da República, cuja suprema autoridade normativa deverá sempre prevalecer sobre os
+atos de direito internacional público. Os tratados internacionais celebrados pelo Brasil - ou aos quais o
+Brasil venha a aderir - não podem, em conseqüência, versar matéria posta sob reserva constitucional
+de lei complementar. É que, em tal situação, a própria Carta Política subordina o tratamento
+legislativo de determinado tema ao exclusivo domínio normativo da lei complementar, que não pode
+ser substituída por qualquer outra espécie normativa infraconstitucional, inclusive pelos atos
+internacionais já incorporados ao direito positivo interno. (...)”
+
+(STF, ADI 1.480-MC/DF, Plenário, Rel. Min. Celso de Mello, Julgamento em 04/09/1997)
+
+Dito isso, acompanhe o que diz o art. 98 do CTN:
+
+Art. 98. Os tratados e as convenções internacionais revogam ou modificam a legislação tributária interna,
+e serão observados pela que lhes sobrevenha.
+
+Na visão da doutrina, o conflito entre a lei interna e o tratado deve ser resolvido em favor da norma especial,
+que é o tratado:
+
+ “O conflito entre a lei interna e o tratado resolve-se, pois, a favor da norma especial (do tratado), que
+excepciona a norma geral (da lei interna), tornando-se indiferente que a norma interna seja anterior ou
+posterior ao tratado. Este prepondera em ambos os casos (abstraída a discussão sobre se ele é ou não
+superior à lei interna) porque traduz preceito especial, harmonizável com a norma geral.” (AMARO, Luciano.
+Direito Tributário Brasileiro. 14ª Ed. Saraiva, 2008, p.181)
+
+Nesse sentido, diante desse conflito, resolvido em favor da norma especial, ocorreria, então, a revogação da
+lei interna? Não! Na verdade, segundo a doutrina, haveria suspensão da eficácia da norma nacional:
+
+“... não se trata, a rigor, de revogação da legislação interna, mas de suspensão da eficácia da norma
+tributária nacional, que readquirirá a sua aptidão para produzir efeitos se e quando o tratado for
+denunciado.” (TORRES, Ricardo Lobo. Curso de Direito Financeiro e Tributário. 16ª Ed. Renovar, 2009, p.49)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              3
+        www.estrategiaconcursos.com.br                                                                        71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Portanto, se o tratado algum dia vier a ser denunciado, deixando de produzir efeitos internos, a lei interna
+readquire sua eficácia, isto é, volta a produzir efeitos normalmente.
+
+Na contramão da redação dada pelo CTN, o STF já se posicionou no sentido da paridade normativa entre os
+tratados internacionais e as leis ordinárias:
+
+"(...) PARIDADE NORMATIVA ENTRE ATOS INTERNACIONAIS E NORMAS INFRACONSTITUCIONAIS DE
+DIREITO INTERNO. - Os tratados ou convenções internacionais, uma vez regularmente incorporados ao
+direito interno, situam-se, no sistema jurídico brasileiro, nos mesmos planos de validade, de eficácia
+e de autoridade em que se posicionam as leis ordinárias, havendo, em conseqüência, entre estas e os
+atos de direito internacional público, mera relação de paridade normativa. (...)"
+
+(STF, ADI 1.480-MC/DF, Plenário, Rel. Min. Celso de Mello, Julgamento em 04/09/1997)
+
+Observação: Existe a possibilidade de esse entendimento mudar, quando do julgamento do RE
+                                                         ==219a34==
+
+
+
+
+460.320. O Min. Gilmar Mendes já demonstrou o entendimento a respeito da prevalência dos
+tratados internacionais, em seu voto. Por hora, o que devemos levar para a prova é a paridade,
+salvo, em último caso, se a banca fizer menção a esse voto do ministro relator.
+
+
+
+
+Segundo o STF, se há paridade normativa entre tratado internacional e as leis ordinárias, estas podem alterar
+aqueles.
+
+Súmula STF 575 - À mercadoria importada de país signatário do (GATT), ou membro da (ALALC),
+estende-se a isenção do imposto de circulação de mercadorias concedida a similar nacional.
+
+Muito embora o art. 111, II, do CTN, afirme que a outorga de isenção deve ser interpretada literalmente, o
+GATT prevê o princípio do tratamento nacional, que foi explicado pelo ilustre professor Ricardo Vale nos
+seguintes termos:
+
+“Em linhas gerais, o princípio do tratamento nacional (também chamado de princípio da paridade) proíbe
+os membros da OMC de conceder tratamento mais favorável aos produtos domésticos do que aos produtos
+de outros membros da OMC, uma vez que estes últimos tenham adentrado o território aduaneiro.” (Curso de
+Comércio Internacional, Prof. Ricardo Vale)
+
+Conforme a súmula acima citada, percebemos que este é o posicionamento da Suprema Corte (e do STJ
+também) no sentido da extensão do benefício fiscal.
+
+Destaque-se que o art. 152 da CF/88 também preceitua que é vedado aos Estados, Distrito Federal e
+Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua
+procedência ou destino.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           4
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+Meu aluno, minha aluna, por favor, não se esqueça do que vimos nas aulas anteriores: o Presidente da
+República, ao firmar tratados internacionais, age em nome da República Federativa do Brasil, podendo,
+inclusive, conceder isenções a tributos estaduais e municipais, sem que se caracterize isenções
+heterônomas.
+
+Antes de encerrar este tópico, vejamos mais uma jurisprudência acerca de legislação tributária:
+
+3. O art. 3º da LC 118/2005, a pretexto de interpretar os arts. 150, § 1º, 160, I, do CTN, conferiu-lhes,
+na verdade, um sentido e um alcance diferente daquele dado pelo Judiciário. Ainda que defensável a
+“interpretação” dada, não há como negar que a Lei inovou no plano normativo, pois retirou das
+disposições interpretadas um dos seus sentidos possíveis, justamente aquele tido como correto pelo
+STJ, intérprete e guardião da legislação federal. Portanto, o art. 3º da LC 118/2005 só pode ter eficácia
+prospectiva, incidindo apenas sobre situações que venham a ocorrer a partir da sua vigência.
+
+4.Assim, tratando-se de preceito normativo modificativo, e não simplesmente interpretativo, o art. 3º
+da LC 118/2005 só pode ter eficácia prospectiva, incidindo apenas sobre situações que venham a
+ocorrer a partir da sua vigência.
+
+5. O artigo 4º, segunda parte, da LC 118/2005, que determina a aplicação retroativa do seu art. 3º,
+para alcançar inclusive fatos passados, ofende o princípio constitucional da autonomia e independência
+dos poderes (CF, art. 2º) e o da garantia do direito adquirido, do ato jurídico perfeito e da coisa
+julgada (CF, art. 5º, XXXVI).
+
+
+
+(STJ, AgRg no REsp 672.032/DF, Primeira Turma, Rel. Min. Teori Albino Zavascki, Julgamento em
+07/04/2005)
+
+O art. 168, I, do CTN, prevê que o prazo para pleitear restituição de pagamento indevido é de 5 anos a contar
+da data da extinção do crédito tributário.
+
+O STJ entendia que a extinção, para lançamentos por homologação, ocorria apenas com a homologação do
+lançamento, que normalmente ocorre tacitamente 5 anos após o lançamento (art. 150, § 4º). Na prática, o
+sujeito passivo acabava tendo 10 anos (5+5).
+
+Contudo, a LC 118/05, em seu art. 3º, alterou tal interpretação, estabelecendo que o prazo inicia-se da data
+do pagamento antecipado. A decisão ora analisada demonstra que o entendimento do STJ é o de que a lei
+não apenas interpretou, mas inovou na ordem jurídica, não podendo ser aplicada retroativamente, nos
+termos do art. 106, I, do CTN. Entendido?
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            5
+        www.estrategiaconcursos.com.br                                                                      71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+                             OBRIGAÇÃO TRIBUTÁRIA
+É sabido que a obrigação tributária é principal ou acessória. Defendendo a autonomia das obrigações
+acessórias, o STJ já decidiu que é permitido que se exija do contribuinte as notas fiscais de bens deslocados
+entre estabelecimentos da mesma empresa, em operação interestadual:
+
+Afirmou-se que os deveres instrumentais, previstos na legislação tributária, ostentam caráter
+autônomo em relação à regra matriz de incidência do tributo, uma vez que vinculam, inclusive, as
+pessoas físicas ou jurídicas que gozem de imunidade ou outro benefício fiscal, ex vi dos arts. 175 e 194,
+parág. único do CTN; assim, ainda que, em tese, o deslocamento de bens do ativo imobilizado e de
+material de uso e consumo entre estabelecimentos de uma mesma instituição financeira não configure
+hipótese de incidência do ICMS, compete ao Fisco Estadual averiguar a veracidade da aludida
+operação, sobressaindo a razoabilidade e proporcionalidade da norma jurídica que tão somente
+exige que os bens da pessoa jurídica sejam acompanhados das respectivas notas fiscais.
+
+(STJ, EDcl nos EDcl no REsp 1116792/PB, Primeira Seção, Rel. Min. Napoleão Nunes Maia Filho,
+Julgamento em 22/08/2012)
+
+instituição de obrigações acessórias. O CTN – em seu art. 113, § 2º - afirma que tais obrigações decorrem da
+legislação tributária, expressão explicada no texto do próprio CTN (art. 96) como leis, tratados internacionais,
+decretos e normas complementares. Nesse sentido:
+
+"(...)É cediço que, nos termos do art. 113, § 2º, do CTN, em torno das relações jurídico-tributárias
+relacionadas ao tributo em si, exsurgem outras, de conteúdo extra-patrimonial, consubstanciadas em
+um dever de fazer, não-fazer ou tolerar. São os denominados deveres instrumentais ou obrigações
+acessórias, inerentes à regulamentação das questões operacionais relativas à tributação, razão pela
+qual sua regulação foi legada à "legislação tributária" em sentido lato, podendo ser disciplinados
+por meio de decretos e de normas complementares, sempre vinculados à lei da qual dependem."
+
+(STJ, REsp 724.779/RJ, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 12/09/2006)
+
+Dessa forma, fica claro que o STJ entende que as obrigações acessórias podem ser previstas em atos
+infralegais.
+
+
+
+
+O art. 113, § 3º, do CTN, assevera que as obrigações acessórias, quando descumpridas geram uma penalidade
+pecuniária. Fique atento, pois essa penalidade está submetida ao princípio da legalidade (art. 97, V, do
+próprio CTN).
+
+O STJ entende que, para verificar se há ou não a ocorrência do fato gerador do imposto de renda, o que
+importa é a realidade econômica, e não a simples forma jurídica. Nesse sentido:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             6
+        www.estrategiaconcursos.com.br                                                                       71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+TRIBUTÁRIO. IMPOSTO DE RENDA. ABONO CONCEDIDO EM ACORDO COLETIVO. CARÁTER
+SUBSTITUTIVO DE REAJUSTE SALARIAL. NATUREZA SALARIAL. INCIDÊNCIA. INDENIZAÇÃO DE AUXILIO-
+ALIMENTAÇÃO. CARACTERIZAÇÃO SUPRESSÃO DE DIREITO TRABALHISTA. CARÁTER INDENIZATÓRIO.
+NÃO-INCIDÊNCIA.
+
+4. Interpretação econômica que se impõe, uma vez que a realidade econômica há de prevalecer sobre
+a simples forma jurídica. 5. As verbas indenizatórias não estão sujeitas à incidência do Imposto de
+Renda.
+
+(STJ, REsp 696.745/CE, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 07/06/2005)
+
+       A respeito do fato gerador, o art. 118 preconiza que sua definição legal é interpretada abstraindo-se
+da validade jurídica dos atos praticados bem como da natureza do seu objeto ou dos seus efeitos. Nessa
+linha, o STJ já decidiu:
+
+TRIBUTÁRIO – ICMS – SERVIÇO DE TELEFONIA MÓVEL – INADIMPLÊNCIA DOS USUÁRIOS – FURTO DE
+SINAL (CLONAGEM) – INCIDÊNCIA DO TRIBUTO.
+
+1. O fato gerador do ICMS na telefonia é a disponibilização da linha em favor do usuário que contrata,
+onerosamente, os serviços de comunicação da operadora. A inadimplência e o furto por "clonagem"
+fazem parte dos riscos da atividade econômica, que não podem ser transferidos ao Estado.
+
+2. Nos termos do art. 118 do Código Tributário Nacional, o descumprimento da operação de compra
+e venda mercantil não tem o condão de malferir a ocorrência do fato gerador do ICMS.
+
+(STJ, REsp 1.189.924/MG, Segunda Turma, Rel. Min. Humberto Martins, Julgamento em 25/05/2010)
+
+
+
+
+QUESTÃO INÉDITA
+No que se refere aos serviços de telefonia móvel, o STJ já decidiu que a inadimplência e o furto por clonagem
+descaracterizam a incidência do ICMS.
+
+Comentário: O que o STJ decidiu é que o fato gerador do ICMS na telefonia é a disponibilização da linha em
+favor do usuário que contrata, não importando se houve furto por clonagem ou inadimplência. De qualquer
+modo, ocorre o fato gerador do ICMS. Questão errada.
+
+Gabarito: Errada
+
+Na mesma direção:
+
+TRIBUTÁRIO. PIS/PASEP E COFINS. BASE DE CÁLCULO. FATURAMENTO. ARTIGO 3º, § 2º, I, DA LEI
+9.718/98. HIGIDEZ CONSTITUCIONAL RECONHECIDA PELO STF EM SEDE DE CONTROLE DIFUSO.
+EXCLUSÃO DO CRÉDITO TRIBUTÁRIO. "VENDAS INADIMPLIDAS". ALEGADA EQUIPARAÇÃO COM
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           7
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+"VENDAS CANCELADAS". ANALOGIA/EQÜIDADE. INAPLICABILIDADE. ARTIGOS 111 E 118, DO CTN.
+OBSERVÂNCIA.
+
+(...) Entrementes, o inadimplemento do consumidor não equivale ao cancelamento da compra e
+venda, no qual ocorre o desfazimento do negócio jurídico, denotando a ausência de receita e,
+conseqüente, intributabilidade da operação.
+
+(STJ, REsp 1.029.434/CE, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 20/05/2008)
+
+
+
+
+QUESTÃO INÉDITA
+No tocante à incidência tributária sobre o faturamento, as vendas realizadas pela empresa e inadimplidas
+pelos seus clientes não se equipara a vendas canceladas.
+
+Comentário: No entendimento do STJ, as vendas inadimplidas não podem ser consideradas como
+cancelamento, tendo em vista que naquele caso não ocorre o desfazimento do negócio jurídico como neste.
+
+Gabarito: Correta
+
+Outro ponto relevante sobre o art. 118, do CTN, é o princípio do pecunia non olet. Se você já estudou Direito
+Tributário, com certeza deve ter ouvido falar na tributação do rendimento decorrente de atividades ilícitas,
+correto? Sobre ele, vejamos o seguinte julgado:
+
+Sonegação fiscal de lucro advindo de atividade criminosa: "non olet". Drogas: tráfico de drogas,
+envolvendo sociedades comerciais organizadas, com lucros vultosos subtraídos à contabilização regular
+das empresas e subtraídos à declaração de rendimentos: caracterização, em tese, de crime de
+sonegação fiscal, a acarretar a competência da Justiça Federal e atrair pela conexão, o tráfico de
+entorpecentes: irrelevância da origem ilícita, mesmo quando criminal, da renda subtraída à tributação.
+A exoneração tributária dos resultados econômicos de fato criminoso - antes de ser corolário do
+princípio da moralidade - constitui violação do princípio de isonomia fiscal, de manifesta inspiração
+ética.
+
+STF, Primeira Turma, HC 77.530/RS, Rel. Min. Sepúlveda Pertence, Julgamento em 25/08/1998)
+
+Nesse diapasão, trazemos à lume o brilhante entendimento do STJ, esclarecendo que se admite a incidência
+tributária sobre o ato ilícito, quando este seja acidental á norma de tributação, isto é, quando estiver na
+periferia da regra de incidência. O que não se admite é que o ato ilícito seja o elemento essencial da norma
+tributária, sendo definido com o próprio fato gerador do tributo. Assim, por exemplo, permite-se tributar
+a renda auferida com o tráfico de drogas, mas não a própria atividade ilícita.
+
+Senão, vejamos o trecho mais relevante da ementa:
+
+TRIBUTÁRIO. APREENSÃO DE MERCADORIAS. IMPORTAÇÃO IRREGULAR. PENA DE PERDIMENTO.
+CONVERSÃO EM RENDA.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           8
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+(...)
+
+2. O art. 118 do CTN consagra o princípio do "non olet", segundo o qual o produto da atividade ilícita
+deve ser tributado, desde que realizado, no mundo dos fatos, a hipótese de incidência da obrigação
+tributária.
+
+3. Se o ato ou negócio ilícito for acidental à norma de tributação (= estiver na periferia da regra de
+incidência), surgirá a obrigação tributária com todas as consequências que lhe são inerentes. Por outro
+lado, não se admite que a ilicitude recaia sobre elemento essencial da norma de tributação.
+
+4. Assim, por exemplo, a renda obtida com o tráfico de drogas deve ser tributada, já que o que se
+tributa é o aumento patrimonial e não o próprio tráfico. Nesse caso, a ilicitude é circunstância
+acidental à norma de tributação. No caso de importação ilícita, reconhecida a ilicitude e aplicada a
+pena de perdimento, não poderá ser cobrado o imposto de importação, já que "importar mercadorias"
+é elemento essencial do tipo tributário. Assim, a ilicitude da importação afeta a própria incidência da
+regra tributária no caso concerto.
+
+
+
+(STJ, Segunda Turma, Rel. Min. Castro Meira, REsp 984.607/PR, Julgamento em 07/10/2008)
+
+Esse raciocínio encontra harmonia com o já citado art. 118, do CTN, já que o fato gerador não é a prática
+criminosa, mas a sua interpretação deve ser realizada abstraindo-se da validade jurídica dos atos
+efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem como da natureza do seu
+objeto ou dos seus efeitos.
+
+Quanto à definição do sujeito ativo da obrigação tributária, é necessário nos lembrarmos da definição trazida
+pelo art. 119, do CTN:
+
+Art. 119. Sujeito ativo da obrigação é a pessoa jurídica de direito público, titular da competência para exigir
+o seu cumprimento.
+
+Pela redação do dispositivo, fica claro que o sujeito ativo da obrigação tributária deve ser necessariamente
+uma pessoa jurídica de direito público. Foi com base nessa regra que o STJ decidiu que a concessionária não
+é considerada sujeito ativo do ICMS que incide sobre o ponto telefônico:
+
+(...) A concessionária não possui legitimidade para figurar no pólo passivo de ação que visa a
+restituição de valores cobrados à título de ICMS incidente sobre ponto telefônico. O sujeito ativo da
+relação tributária discutida é a Fazenda Pública, nos termos do art. 119 do Código Tributário Nacional,
+e não a concessionária de telefonia, simples responsável pelo repasse dos valores. (...)
+
+(STJ, Primeira Turma, REsp 1.036.589/MG, Rel. Min. José Delgado, Julgamento em 06/05/2008)
+
+Embora a ementa acima se refira à restituição de valores pagos a título de ICMS, o que se está dizendo é que,
+por não ser o sujeito ativo do ICMS, a concessionária também não figura no polo passivo em uma ação judicial
+com o objetivo de restituir valores pagos a título de ICMS. Ora, a empresa apenas inclui na fatura o valor a
+ser pago de ICMS, e o repassa ao Fisco.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            9
+         www.estrategiaconcursos.com.br                                                                     71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+A despeito do exposto acima, digno de nota é a excepcional possibilidade de o sujeito ativo da obrigação
+tributária ser pessoa jurídica de direito privado, no entendimento da jurisprudência do STJ. Esta Corte já
+sumulou o seguinte:
+
+Súmula STJ 396 - A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da
+contribuição sindical rural.
+
+Ademais, essa Corte também proferiu decisão que o SENAI pode figurar como sujeito ativo das obrigações
+tributárias a ele destinadas (REsp 735.278/PR). No entanto, lembre-se que a regra é o que está no art. 119
+do CTN, ou seja, somente pode figurar como sujeito ativo da obrigação tributária pessoa jurídica de direito
+público.
+
+
+
+
+Mesmo havendo esse posicionamento do STJ, recomendo que você siga o texto do art. 119 do CTN, somente
+considerando correto se houver cópia literal da mencionada súmula ou do caso referente ao SENAI.
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com entendimento sumulado pelo STJ, a Confederação Nacional da Agricultura tem legitimidade
+ativa para a cobrança da contribuição sindical rural.
+
+Comentário: Nessa questão, como foi mencionada a súmula do STJ, devemos considerar o que diz a sua
+redação, ou seja, a CNA possui legitimidade ativa para tal cobrança.
+
+Gabarito: Correta
+
+Conforme você já deve ter estudado, de acordo com o art. 123 do CTN, “as convenções particulares, relativas
+à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a
+definição legal do sujeito passivo das obrigações tributárias correspondentes.”
+
+Nesse contexto, a alienação fiduciária não afasta a pena de perdimento de veículo, quando houver previsão
+legal para aplicação de tal pena:
+
+CONVENÇÃO PARTICULAR NÃO OPONÍVEL À FAZENDA PÚBLICA. APLICAÇÃO DO ART. 123, DO CTN.
+PRINCÍPIOS DA ETICIDADE E DA FUNÇÃO SOCIAL DO CONTRATO. ARTS. 421 E 2035, DO CC/2002.
+JURISPRUDÊNCIA DO EXTINTO TRIBUNAL FEDERAL DE RECURSOS. COMPATIBILIDADE COM A SÚMULA
+N. 138/TFR.
+
+É admitida a aplicação da pena de perdimento de veículo objeto de alienação fiduciária.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        10
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+(STJ, REsp 1.387.990/PR, Segunda Turma, Rel. Min. Mauro Campbell Marques, Julgamento em
+17/09/2013)
+
+
+
+
+QUESTÃO INÉDITA
+Não se admite a aplicação da pena de perdimento de veículo objeto de alienação fiduciária.
+
+Comentário: De acordo com o REsp 1.387.990/PR, admite-se a aplicação da pena de perdimento de veículo
+objeto de alienação fiduciária. O embasamento legal para tal decisão foi o previsto no art. 123 do CTN.
+
+Gabarito: Errada
+
+    Na mesma linha da irrelevância do adimplemento ou não das vendas efetuadas, é de se destacar
+também o entendimento do STF sobre o aspecto temporal da hipótese de incidência (a partir de que
+momento considera-se ocorrido o fato gerador) da COFINS e PIS:
+
+“Quanto ao aspecto temporal da hipótese de incidência da COFINS e da contribuição para o PIS,
+portanto, temos que o fato gerador da obrigação ocorre com o aperfeiçoamento do contrato de
+compra e venda (entrega do produto), e não com o recebimento do preço acordado.”
+
+(STF, RE 586.482-RS, Rel. Min. Dias Toffoli, 23/11/2011)
+
+Sobre a solidariedade prevista no art. 124, I, do CTN, é de ressaltar que o STJ já decidiu que para configurar
+o interesse comum na situação que constitua o fato gerador do tributo, é necessário haver, no caso de
+prestação de serviços, prestação conjunta por parte das empresas envolvidas.
+
+O simples fato de as empresas pertencerem ao mesmo conglomerado financeiro não caracteriza por si só o
+interesse comum capaz de gerar solidariedade tributária:
+
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. TRIBUTÁRIO. ISS. EXECUÇÃO
+FISCAL. PESSOAS JURÍDICAS QUE PERTENCEM AO MESMO GRUPO ECONÔMICO. CIRCUNSTÂNCIA QUE,
+POR SI SÓ, NÃO ENSEJA SOLIDARIEDADE PASSIVA.
+
+1. O entendimento prevalente no âmbito das Turmas que integram a Primeira Seção desta Corte é no
+sentido de que o fato de haver pessoas jurídicas que pertençam ao mesmo grupo econômico, por si
+só, não enseja a responsabilidade solidária, na forma prevista no art. 124 do CTN. Ressalte-se que a
+solidariedade não se presume (art. 265 do CC/2002), sobretudo em sede de direito tributário.(...)"
+
+(STJ, REsp 834.044/RS, Primeira Seção, Rel. Min. Mauro Campbell Marques, Julgamento em
+08/09/2010)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           11
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+     No que se refere ao domicílio tributário do sujeito passivo, destaque-se que o STJ tem entendido que
+caracteriza cerceamento de defesa do sujeito passivo notificação fiscal enviada para endereço diferente do
+domicílio tributário, quando é do conhecimento do fisco:
+
+TRIBUTARIO. DOMICILIO TRIBUTARIO. FIRMA INDIVIDUAL. C.T.N., ART.127, II. APLICAÇÃO.
+
+I - O acórdão recorrido, ao admitir como válida notificação fiscal enviada para local diverso do
+domicílio tributário do contribuinte, que era do conhecimento do fisco, ofendeu o art. 127, II, do C.T.N.
+II - Recurso Especial conhecido e provido.
+
+(STJ, 33.837/MG, Segunda Turma, Rel. Min. Antônio de Pádua Ribeiro, Julgamento em 04/03/1996)
+
+Ademais, destaque-se que, para o STJ, a remessa de carnê para o endereço do contribuinte configura
+notificação de lançamento nos termos da Súmula 397:
+                                                         ==219a34==
+
+
+
+
+Súmula STJ 397 - O contribuinte do IPTU é notificado do lançamento pelo envio do carnê ao seu
+endereço.
+
+Ainda sobre o domicílio tributário, não há base legal para impedir o contribuinte de indicar sua residência
+como domicílio tributário, pois, de acordo com o STJ:
+
+DOMICILIO TRIBUTARIO - MESMO DA RESIDENCIA.
+
+Não procede o argumento de que sendo inviolável o domicílio da pessoa física, dificultaria atuação dos
+agentes fiscais, caso tenha o domicílio tributário a mesma sede, porque tal proteção deixaria de existir.
+É injustificável e sem base legal impedir o contribuinte de indicar sua residência para domicílio
+tributário. Recurso improvido.
+
+(STJ, REsp 28.237/SP, Primeira Turma, Rel. Min Garcia Vieira, Julgameno em 16/11/1992)
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com entendimento do STJ, os agentes fiscais podem impedir o contribuinte de indicar sua
+residência como seu domicílio tributário.
+
+Comentário: Não é possível tal impedimento. Não se mostra razoável obstar o contribuinte de indicar sua
+residência para domicílio tributário.
+
+Gabarito: Errada
+
+Digno de nota é o fato de o STJ aceitar a pluralidade de domicílios tributários para pessoas jurídicas ou firmas
+individuais:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             12
+        www.estrategiaconcursos.com.br                                                                       71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+TRIBUTARIO. ISS. MUNICIPIO COMPETENTE PARA EXIGIR O TRIBUTO. CTN,ART. 127, II. DECRETO-LEI
+406/68 (ART. 12, 'A').
+
+É juridicamente possível as pessoas jurídicas ou firmas individuais possuírem mais de um domicílio
+tributário.
+
+(STJ, Primeira Turma, REsp 23.371/SP, Rel. Min. Milton Luiz Pereira, Julgamento em 31/08/1994)
+
+     Por último, destaque-se o princípio da autonomia de cada estabelecimento por meio da jurisprudência
+do STJ:
+
+TRIBUTÁRIO. CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA. FILIAL. PENDÊNCIA DA MATRIZ.
+POSSIBILIDADE.
+
+1. O Tribunal a quo concluiu pela "impossibilidade de a Unidade localizada em Goiânia ser penalizada
+pela existência de débito constituído em nome da matriz ou outras filiais, haja vista que cada Unidade
+tem seu registro no CNPJ, de modo que não há que se falar em negativa de expedição de certidão de
+regularidade fiscal" (e-STJ fl.445).
+
+2. O art. 127, I, do Código Tributário Nacional consagra o princípio da autonomia de cada
+estabelecimento da empresa que tenha o respectivo CNPJ, o que justifica o direito à certidão positiva
+com efeito de negativa em nome de filial de grupo econômico, ainda que fiquem pendências
+tributárias da matriz ou de outras filiais.
+
+(STJ, AgRg no AREsp 192.658/AM, Segunda Turma, Rel. Min Castro Meira, Julgamento em 23/10/2012)
+
+
+
+
+QUESTÃO INÉDITA
+O Código Tributário Nacional (Lei 5.172/1966), ao tratar do domicílio tributário, consagrou o princípio da
+autonomia de cada estabelecimento.
+
+Comentário: O STJ entende que o art. 127, II (não é o primeiro, como diz a ementa), do Código Tributário
+Nacional consagra o princípio da autonomia de cada estabelecimento da empresa que tenha o respectivo
+CNPJ.
+
+Gabarito: Correta
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         13
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+
+                    RESPONSABILIDADE TRIBUTÁRIA
+Primeiramente, iremos fazer um breve estudo a respeito da responsabilidade por substituição, também
+denominada responsabilidade originária, título que não vem por acaso, já que o responsável fica obrigado
+no momento da ocorrência do fato gerador ou até mesmo antes dele.
+
+Há que se ressaltar dois casos em que ocorre responsabilidade por substituição: substituição tributária
+regressiva (para trás) e substituição tributária progressiva (para frente).
+
+A sistemática da substituição tributária regressiva consiste na substituição das pessoas que estão nas etapas
+anteriores da cadeia de produção ou circulação de mercadorias. Se quem está “atrás” é substituído, o que
+ocorre, na verdade, é o diferimento do pagamento dos tributos devidos.
+
+Na substituição tributária progressiva, ocorre exatamente o oposto da substituição regressiva. Ou seja, as
+pessoas que estão nas etapas posteriores são substituídas pelas ocupam posição anterior na cadeia de
+produção e circulação de mercadorias. Assim, se quem está “na frente” é substituído, a decorrência lógica
+é haver a antecipação do pagamento dos tributos. O raciocínio é exatamente o contrário do que vimos no
+tópico anterior, ao tratar da substituição tributária regressiva.
+
+A substituição tributária progressiva consta expressamente na CF/88, como se observa na redação do
+dispositivo transcrito abaixo:
+
+Art. 150 - (...):
+
+§ 7.º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo
+pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a
+imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido. (Incluído
+pela Emenda Constitucional nº 3, de 1993)
+
+Veja que, na substituição tributária progressiva, o fato gerador irá ocorrer posteriormente. Não se sabe, no
+momento do pagamento antecipado qual será a base de cálculo real, levando-se em consideração uma base
+de cálculo presumida.
+
+Cabe ainda destacar que o legislador constituinte assegurou a imediata e preferencial restituição do valor
+que foi pago ao Fisco, caso não se realize o fato gerador presumido. Em nosso exemplo, a restituição
+ocorreria se o veículo ficasse “encalhado” no pátio da concessionária, devendo ser devolvido ao industrial.
+
+“Professor, e se a base de cálculo real for diferente (maior ou menor) da presumida? Nesse caso, deve-se
+restituir o que foi pago a maior ou realizar pagamento complementar?” Atualmente, sim!!! Vamos ver o
+porquê!
+
+Anteriormente, o STF (ADI 1.851/AL) entendia que o fato gerador presumido não seria provisório, mas sim
+definitivo. Portanto, o fato de a base de cálculo presumida ser diversa da base de cálculo definitiva não
+ensejaria restituição ou complementação do imposto pago pelo sujeito passivo, salvo quando não se realizar
+o fato gerador presumido, como já comentado acima.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        14
+          www.estrategiaconcursos.com.br                                                                  71
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Ocorre que, em outubro de 2016, ao julgar o Recurso Extraordinário 593.849, com repercussão geral
+reconhecida, o STF fixou a seguinte tese (grifamos): “É devida a restituição da diferença do Imposto sobre
+Circulação de Mercadorias e Serviços – ICMS pago a mais no regime de substituição tributária para a frente
+se a base de cálculo efetiva da operação for inferior à presumida”.
+
+No voto proferido pelo relator Ministro Edson Fachin, foi dito que “a tributação não pode transformar uma
+ficção jurídica em uma verdade absoluta, tal como ocorreria se o fato gerador presumido tivesse caráter
+definitivo, logo, alheia à realidade extraída da realidade do processo econômico”.
+
+Ao fim do julgamento, o plenário modulou os efeitos da referida decisão, restringindo-os apenas às ações
+judiciais que estejam pendentes e aos casos futuros. Trata-se de uma forma de permitir o realinhamento
+das administrações tributárias à alteração jurisprudencial da Suprema Corte.
+
+Na mesma linha julgou o STF o RE 596832, em junho de 2020, em um caso que envolvia também a
+substituição tributária progressiva, mas desta vez referente à contribuição ao PIS/Pasep e à Cofins, tendo a
+Suprema Corte fixado a seguinte tese: “é devida a restituição da diferença das contribuições para o
+Programa de Integração Social – PIS e para o Financiamento da Seguridade Social – Cofins recolhidas a
+mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à
+presumida”.
+
+
+
+
+Se o fato gerador presumido não ocorrer, é assegurada a devolução do que foi pago.
+
+Caso ocorra o fato gerador, e a base de cálculo seja efetiva seja inferior à presumida, haverá restituição da
+diferença!
+
+
+
+
+QUESTÃO INÉDITA
+Conforme entendimento atual do STF, na substituição tributária progressiva, ocorrendo o fato gerador com
+base de cálculo inferior ao valor da base de cálculo presumida, não será obrigatória a restituição da diferença
+paga a maior.
+
+Comentário: O STF já decidiu que, ocorrendo o fato gerador com base de cálculo inferior à prevista, será
+obrigatória a restituição da diferença paga a maior.
+
+Gabarito: Errada
+
+No tocante à responsabilidade por sucessão, especificamente em relação à alienação de bens imóveis, é
+importante conhecermos a redação do art. 130, do CTN:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            15
+        www.estrategiaconcursos.com.br                                                                      71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+Art. 130. Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio
+útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços
+referentes a tais bens, ou a contribuições de melhoria, subrogam-se na pessoa dos respectivos
+adquirentes, salvo quando conste do título a prova de sua quitação.
+
+Parágrafo único. No caso de arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo
+preço.
+
+Assim, quando uma pessoa adquire um imóvel, assume a responsabilidade pelos tributos incidentes sobre
+o bem. Nesse caso, ocorre a sub-rogação pessoal, ficando o responsável (adquirente) com a obrigação de
+quitar os tributos, ainda que o montante seja superior ao valor do imóvel adquirido. Essa é a regra!
+
+Quanto a este ponto, é relevante salientarmos que o STJ (Recurso Repetitivo Tema n° 122) já firmou
+entendimento segundo o qual, na compra de um imóvel, tanto o promitente comprador (possuidor a
+qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade
+registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU. Veja que neste
+caso, mesmo não tendo sido efetivada a transferência da propriedade no registro de imóveis, já se admite a
+responsabilização do promitente comprador:
+
+TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL.
+LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO
+(PROMITENTE VENDEDOR).
+
+1. Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do
+seu domínio útil ou o seu possuidor a qualquer título.
+
+2. A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor
+a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a
+propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do
+IPTU. (...)
+
+3. "Ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das
+situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil,
+ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando
+a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ
+27.9.2004).
+
+4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+
+(REsp 1110551/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em
+10/06/2009, DJe 18/06/2009)
+
+Contudo, devemos destacar que existem duas exceções previstas no citado artigo do CTN. São elas:
+
+• Quando constar do título de transferência de propriedade (escritura) a prova da quitação dos tributos
+(CTN, art. 130, caput);
+• Quando o imóvel for adquirido em hasta pública - leilão – (CTN, art. 130, par. único).
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           16
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+No caso de arrematação em hasta pública, o STJ entende que, caso o valor do débito supere o valor da
+arrematação, não há ônus para o arrematante:
+
+PROCESSO CIVIL. ARREMATAÇÃO. FALÊNCIA. TRIBUTO PREDIAL INCIDENTE SOBRE O IMÓVEL
+ARREMATADO. MATÉRIA CONCERNENTE AO PROCESSO FALIMENTAR. NEGATIVA DE VIGÊNCIA AO
+ART. 130 PARÁGRAFO ÚNICO, CTN. PRECEDENTES DOUTRINA. RECURSO ESPECIAL PROVIDO.
+
+I - Na hipótese de arrematação em hasta pública, dispõe o parágrafo único do art.130 do Código
+Tributário Nacional que a sub-rogação do crédito tributário, decorrente de impostos cujo fato gerador
+seja a propriedade do imóvel, ocorre sobre o respectivo preço, que por eles responde. Esses créditos,
+até então assegurados pelo bem, passam a ser garantidos pelo referido preço da arrematação,
+recebendo o adquirente o imóvel desonerado dos ônus tributários devidos até a data da realização
+da hasta.
+
+II - Se o preço alcançado na arrematação em hasta pública não for suficiente para cobrir o débito
+tributário, não fica o arrematante responsável pelo eventual saldo devedor. A arrematação tem o
+efeito de extinguir os ônus que incidem sobre o bem imóvel arrematado, passando este ao arrematante
+livre e desembaraçado dos encargos tributários.
+
+(STJ, REsp 166.975/SP, Quarta Turma, Rel. Min. Sálvio de Figueiredo Teixeira, Julgamento em
+24/08/1999)
+
+Há precedente do STJ (REsp 1.059.102/RS) no sentido da responsabilização do antigo proprietário caso o
+valor da arrematação não seja suficiente para quitar os débitos existentes.
+
+
+
+
+Só use o entendimento da responsabilização do antigo proprietário se a banca mencionar a linha que o STJ
+tem seguido. Caso contrário, literalidade do art. 130, parágrafo único!
+
+Saiba que, mesmo havendo previsão no edital de um leilão atribuindo responsabilidade ao arrematante, o
+STJ entende que tal previsão é inválida:
+
+     Tema Repetitivo 1134 STJ - Diante do disposto no art. 130, parágrafo único, do Código Tributário
+     Nacional, é inválida a previsão em edital de leilão atribuindo responsabilidade ao arrematante
+     pelos débitos tributários que já incidiam sobre o imóvel na data de sua alienação.
+
+Agora imagine que uma pessoa tenha adquirido de outra um imóvel e, depois da compra, percebeu que o
+vendedor havia pago valores maiores do que o realmente devido a título de IPTU. E se foi pago a maior, cabe
+restituição (na dúvida, leia o art. 165, do CTN).
+
+Será que o comprador poderia pleitear a restituição dos valores pagos indevidamente (ou seja, além do que
+era devido)?
+
+De acordo com o STJ, não poderia! Vejamos (grifos nossos):
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        17
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+     PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART.
+     543-C, DO CPC. IPTU, TCLLP E TIP. INCONSTITUCIONALIDADE DA COBRANÇA DO IPTU
+     PROGRESSIVO, DA TCLLP E DA TIP. AÇÃO ANULATÓRIA DE LANÇAMENTO FISCAL. CUMULADA
+     COM REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. TERMO A QUO. ILEGITIMIDADE DO NOVO
+     ADQUIRENTE QUE NÃO SUPORTOU O ÔNUS FINANCEIRO. VIOLAÇÃO AO ARTIGO 535 DO CPC.
+     INOCORRÊNCIA. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 07 DO STJ.
+
+     (...)
+
+     5. O direito à repetição de indébito de IPTU cabe ao sujeito passivo que efetuou o pagamento
+     indevido, ex vi do artigo 165, do Codex Tributário. "Ocorrendo transferência de titularidade do
+     imóvel, não se transfere tacitamente ao novo proprietário o crédito referente ao pagamento
+     indevido. Sistema que veda o locupletamento daquele que, mesmo tendo efetivado o
+     recolhimento do tributo, não arcou com o seu ônus financeiro (CTN, art. 166). Com mais razão,
+     vedada é a repetição em favor do novo proprietário que não pagou o tributo e nem suportou,
+     direta ou indiretamente, o ônus financeiro correspondente."
+
+     (STJ, Primeira Seção, REsp 947206 / RJ, Rel. Min. Luiz Fux, DJe 26/10/2010)
+
+Sobre o mesmo assunto, o STJ também já decidiu o seguinte (neste, o Tribunal se refere aos bens móveis):
+
+EXECUÇÃO. ARREMATAÇÃO. ADJUDICAÇÃO. CREDOR. ÔNUS                                   RECAÍDOS   SOBRE   O   BEM.
+RESPONSABILIDADE TRIBUTÁRIA. (CTN - ART. 130, parágrafo único).
+
+I - O credor que arremata veículo em relação ao qual pendia débito de IPVA não responde pelo tributo
+em atraso. O crédito proveniente do IPVA subroga-se no preço pago pelo arrematante. Alcance do
+Art. 130, parágrafo único, do CTN).
+
+(STJ, REsp 905.208/SP, Terceira Turma, Rel. Min. Humberto Gomes de Barros, Julgamento em
+18/10/2007)
+
+Novamente, vale a observação em relação à possibilidade de o edital atribuir o ônus ao arrematante (REsp
+808.101/DF).
+
+
+
+
+Repare que o STJ concedeu interpretação extensiva (aplicando-o também a bens móveis) ao par. único do
+art. 130 do CTN. Contudo, só utilize essa decisão se a banca expressamente solicitá-la. A regra é que tal
+dispositivo legal é aplicável unicamente aos bens imóveis.
+
+Sobre o que acabamos de alertar, veja como isso já caiu em prova:
+
+Vejamos mais um julgado importante do Superior Tribunal de Justiça:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                 18
+        www.estrategiaconcursos.com.br                                                                           71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+DESAPROPRIAÇÃO. AQUISIÇÃO ORIGINÁRIA DE PROPRIEDADE. EXIGIBILIDADE DE TRIBUTOS
+ANTERIORES AO ATO DESAPROPRIATÓRIO. AUSÊNCIA DE RESPONSABILIDADE DO ENTE
+EXPROPRIANTE.
+
+O ente desapropriante não responde por tributos incidentes sobre o imóvel desapropriado nas
+hipóteses em que o período de ocorrência dos fatos geradores é anterior ao ato de aquisição originária
+da propriedade.
+
+(STJ, REsp 1.668.058-ES, Rel. Min. Mauro Campbell Marques, Julgamento em 08/06/2017)
+
+Discutiu-se no referido Recurso Especial se haveria ou não sucessão tributária quando há desapropriação de
+imóvel pertencente à empresa privada pela União Federal, visto que os débitos, objetos de cobrança em
+execução fiscal promovida por fazenda municipal, tem como fundamento fatos geradores ocorridos em
+momento pretérito à ocorrência da imissão na posse, relativos ao Imposto Predial Territorial Urbano (IPTU)
+e Taxa de Limpeza Pública de Coleta de Resíduos Sólidos.
+
+Nesta ocasião, o STJ, citando a doutrina, ressaltou que a desapropriação constitui “forma originária de
+aquisição de propriedade porque não provém de nenhum título anterior, e, por isso, o bem expropriado
+torna-se insuscetível de reivindicação e libera-se de quaisquer ônus que sobre ele incidissem
+precedentemente, ficando os eventuais credores sub-rogados no preço". Logo, não há ligação entre o
+sucedido (antigo proprietário) e sucessor (ente expropriante).
+
+Existe uma outra jurisprudência, agora do STF, consolidada no Tema 224 de Repercussão Geral: A
+imunidade tributária recíproca não exonera o sucessor das obrigações tributárias relativas aos fatos
+jurídicos tributários ocorridos antes da sucessão.
+
+Assim, o STF entende que se um imóvel com débitos de IPTU for adquirido pela União, a responsabilidade
+tributária será transferida ao ente tributante, ainda que seja imune.
+
+A respeito da sucessão causa mortis, vale comentar que a responsabilidade dos sucessores inclui não só o
+valor dos tributos devidos, mas também o valor da multa moratória:
+
+TRIBUTÁRIO. INTERPRETAÇÃO DO ARTIGO 2º, § 8º, DA LEI 6.830, DE 1980, E DO ART. 131, III, DO CTN.
+
+(...) 3. A multa moratória é imposição decorrente do não pagamento do tributo na época do
+vencimento.
+
+4. Na expressão créditos tributários estão incluídas as multas moratórias.
+
+5. O espólio, quando chamado como sucessor tributário, é responsável pelo tributo declarado pelo
+"de cujus" e não pago no vencimento, incluindo-se o valor da multa moratória.(...)"
+
+(STJ, REsp 295.222/SP, Primeira Turma, Rel. Min. José Delgado, Julgamento em 12/06/2001)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         19
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+QUESTÃO INÉDITA
+O espólio, quando chamado como sucessor tributário, é responsável pelo tributo declarado pelo "de cujus"
+e não pago no vencimento, incluindo-se o valor da multa moratória.
+
+Comentário: Questão básica de jurisprudência, ou seja, “copia e cola” dos julgados do STJ e STF.
+
+Gabarito: Correta
+
+Temos também a jurisprudência do STJ fixada no Tema Repetitivo 1118, no qual foi consolidado que:
+
+     Somente mediante lei estadual/distrital específica poderá ser atribuída ao alienante
+     responsabilidade solidária pelo pagamento do Imposto sobre a Propriedade de Veículos
+     Automotores - IPVA do veículo alienado, na hipótese de ausência de comunicação da venda do
+     bem ao órgão de trânsito competente.
+
+     (STJ, Tema Repetitivo 1118)
+
+Essa jurisprudência é interessante e tem relação com o Código de Trânsito Brasileiro (CTB), que prevê a
+obrigação de comunicação de venda do veículo ao antigo proprietário sob pena de responsabilidade
+solidária. O STJ decidiu que tal responsabilidade não se aplica ao IPVA (exceto se houver lei específica assim
+prevendo). Vejamos também, no mesmo sentido, a Súmula 585 do STJ:
+
+     Súmula 585 do STJ - “A responsabilidade solidária do ex-proprietário, prevista no art. 134 do
+     Código de Trânsito Brasileiro - CTB, não abrange o IPVA incidente sobre o veículo automotor, no
+     que se refere ao período posterior à sua alienação."
+
+
+
+Por outro lado, o mesmo ministro, ao tratar de caso referente à sucessão empresarial, incluir também as
+multas punitivas como sujeitas à sucessão tributária:
+
+"(...)A responsabilidade tributária do sucessor abrange, além dos tributos devidos pelo sucedido, as
+multas moratórias ou punitivas, que, por representarem dívida de valor, acompanham o passivo do
+patrimônio adquirido pelo sucessor, desde que seu fato gerador tenha ocorrido até a data da sucessão.
+(...)"
+
+(STJ, REsp 923.012, Primeira Seção, Rel. Min. Luiz Fux, Julgamento em 09/06/2010)
+
+Tal posicionamento encontra-se, hoje, cristalizado na Súmula 554:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           20
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 04
+
+
+
+
+         Súmula STJ 554 - Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange
+         não apenas os tributos devidos pela sucedida, mas também as multas moratórias ou punitivas
+         referentes a fatos geradores ocorridos até a data da sucessão.
+
+
+
+
+•       Sucessão causa mortis: multa moratória;
+•       Sucessão empresarial: multa moratória e punitiva.
+
+Acerca da responsabilidade por sucessão empresarial, é relevante citar o seguinte julgado:
+
+TRIBUTÁRIO. RESPONSABILIDADE POR SUCESSÃO. NÃO OCORRÊNCIA.
+
+A responsabilidade prevista no artigo 133 do Código Tributário Nacional só se manifesta quando uma
+pessoa natural ou jurídica adquire de outra o fundo de comércio ou o estabelecimento comercial,
+industrial ou profissional; a circunstância de que tenha se instalado em prédio antes alugado à
+devedora, não transforma quem veio a ocupá-lo posteriormente, também por força de locação, em
+sucessor para os efeitos tributários. Recurso especial não conhecido.
+
+(STJ, REsp 108.873/SP, Segunda Turma, Min. Rel. Ari Pargendler, Julgamento em 04/03/1999)
+
+Nesse sentido, não há sucessão tributária para o novo locatário de imóvel onde anteriormente já se
+instalou empresa devedora. É muito importante memorizar isso!
+
+Há de se destacar a responsabilidade dos diretores e sócios-gerentes, em relação a obrigações tributárias
+resultantes de atos praticados com excesso de poderes ou infração de lei:
+
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. RESPONSABILIDADE DE SÓCIO-GERENTE.
+LIMITES. ART. 135, III, DO CTN. PRECEDENTES.
+
+1. Os bens do sócio de uma pessoa jurídica comercial não respondem, em caráter solidário, por
+dívidas fiscais assumidas pela sociedade. A responsabilidade tributária imposta por sócio-gerente,
+administrador, diretor ou equivalente só se caracteriza quando há dissolução irregular da sociedade
+ou se comprova infração à lei praticada pelo dirigente.
+
+2. Em qualquer espécie de sociedade comercial é o patrimônio social que responde sempre e
+integralmente pelas dívidas sociais. Os diretores não são responsáveis pessoalmente pelas obrigações
+contraídas em nome da sociedade, mas respondem para com esta e para com terceiros solidária e
+ilimitadamente pelo excesso de mandato e pelos atos praticados com violação do estatuto ou lei (art.
+158, I e II, da Lei nº 6.404/76).
+
+(...)
+
+
+
+            Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     21
+            www.estrategiaconcursos.com.br                                                               71
+
+                                          https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+4. O simples inadimplemento não caracteriza infração legal. Inexistindo prova de que se tenha agido
+com excesso de poderes ou infração de contrato social ou estatutos, não há falar-se em
+responsabilidade tributária de ex-sócio a esse título ou a título de infração legal. Inexistência de
+responsabilidade tributária do ex-sócio.
+
+5. Precedentes desta Corte Superior.
+
+6. O fato do sócio ter se retirado da sociedade em data anterior a da ocorrência do fato gerador da
+obrigação tributária discutida constitui suporte jurídico para excluí-lo de qualquer responsabilidade.
+(...)"
+
+(STJ, AgRg no REsp 276.779/SP, Primeira Turma, Rel. Min José Delgado, Julgamento em 20/02/2001)
+
+Embora se trate de uma ementa bastante extensa, julgo transcrever tais trecho, tendo em vista a
+possibilidade de a banca retirar uma questão inteira apenas com base nos entendimentos acima expostos.
+                                                         ==219a34==
+
+
+
+
+Em suma, você deve guardar o seguinte:
+
+➢ Os bens de sócio unicamente quotista não respondem pelas obrigações da empresa;
+➢ Só há responsabilização dos administradores quando se tratar de dissolução irregular (encerramento
+irregular da sociedade) ou excesso de mandato ou pelos atos praticados com violação do estatuto ou lei;
+➢ O simples inadimplemento não caracteriza infração legal.
+➢ Se o sócio se retira da sociedade antes do fato gerador da obrigação tributária gerada pelos motivos
+citados, não é responsável por elas.
+
+Pela relevância do assunto, vejamos duas súmulas do próprio STJ nesse sentido:
+
+Súmula STJ 430 - O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a
+responsabilidade solidária do sócio-gerente.
+
+Não obstante, se a empresa deixa de funcionar no seu domicílio fiscal, sem comunicação aos órgãos
+competentes, presume-se sua dissolução irregular, ensejando o redirecionamento da execução fiscal para o
+sócio-gerente:
+
+Súmula STJ 435 - Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu
+domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da
+execução fiscal para o sócio-gerente.
+
+Em relação à dissolução irregular, a Primeira Seção do STJ fixou a seguinte tese (Tema Repetitivo 962):
+
+     O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa
+     jurídica executada ou na presunção de sua ocorrência, não pode ser autorizado contra o sócio ou
+     o terceiro não sócio que, embora exercesse poderes de gerência ao tempo do fato gerador, sem
+     incorrer em prática de atos com excesso de poderes ou infração à lei, ao contrato social ou aos
+     estatutos, dela regularmente se retirou e não deu causa à sua posterior dissolução irregular,
+     conforme art. 135, III, do CTN. (STJ, Primeira Seção, Tema Repetitivo 962)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          22
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+        Observação: Pelo exposto, fica claro que não se pode responsabilizar toda e qualquer
+        pessoa que já tenha figurado como administrador de uma empresa em momentos
+        anteriores ou posteriores, nada tendo a ver com a prática dos ilícitos.
+
+Vejamos agora esta outra jurisprudência do STJ (Tema Repetitivo 981):
+
+     O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa
+     jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o
+     terceiro não sócio, com poderes de administração na data em que configurada ou presumida a
+     dissolução irregular, ainda que não tenha exercido poderes de gerência quando ocorrido o fato
+     gerador do tributo não adimplido, conforme art. 135, III, do CTN. (STJ, Primeira Seção, Tema
+     Repetitivo 981)
+
+
+
+
+        ➔ Sócio com poderes de gerência na data do fato gerador, mas se retirou da empresa
+          antes da dissolução irregular: NÃO SERÁ RESPONSABILIZADO.
+        ➔ Sócio que entrou na empresa após a data do fato gerador, mas que possuía poderes de
+          gerência da data da dissolução irregular: SERÁ RESPONSABILIZADO.
+        ➔ Sócio sem poderes de gerência: NÃO SERÃO RESPONSABILIZADOS.
+
+Agora vamos nos preparar para uma questão de nível ainda mais elevado, sobre o Tema Repetitivo do STJ
+nº 444! Em quanto tempo pode ocorrer o redirecionamento da execução fiscal para o sócio-gerente? Sim, o
+prazo é de 5 anos!
+
+E como deve ser contado?!
+
+Se o ilícito praticado em data anterior à diligência de citação da empresa (p.ex., a empresa já estava
+dissolvida irregularmente quando foi citada judicialmente): o prazo de 5 anos para pedir o redirecionamento
+corre da diligência de citação da pessoa jurídica.
+
+Se o ato ilícito for posterior à citação da PJ: o termo inicial dos 5 anos é a data do ato inequívoco que
+demonstre o intuito de inviabilizar a cobrança, a ser provado pelo Fisco (lembrando que o mero
+inadimplemento não gera responsabilização).
+
+        Observação: Em qualquer hipótese, só se decreta a prescrição se houver inércia da Fazenda
+        no prazo subsequente ao marco inicial.
+
+Talvez, em decorrência da leitura da Súmula 435 do STJ, você esteja se perguntando se o redirecionamento
+da execução fiscal para o sócio-gerente implicaria exclusão da pessoa jurídica do polo passivo. Não obstante
+a redação do art. 135 mencione o termo “pessoalmente”, a jurisprudência do STJ indica que a pessoa
+jurídica persiste no polo passivo da execução fiscal:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         23
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+     (...)
+
+     12. Não há sentido em concluir que a prática, pelo sócio-gerente, de ato ilícito (dissolução
+     irregular) constitui causa de exclusão da responsabilidade tributária da pessoa jurídica, fundada
+     em circunstância independente.
+
+     13. Em primeiro lugar, porque a legislação de Direito Material (Código Tributário Nacional e
+     legislação esparsa) não contém previsão legal nesse sentido.
+
+     14. Ademais, a prática de ato ilícito imputável a um terceiro, posterior à ocorrência do fato
+     gerador, não afasta a inadimplência (que é imputável à pessoa jurídica, e não ao respectivo
+     sócio-gerente) nem anula ou invalida o surgimento da obrigação tributária e a constituição do
+     respectivo crédito, o qual, portanto, subsiste normalmente.
+
+     (...)
+
+     (STJ, Segunda Turma, REsp 1.455.490/PR, rel. Min. Herman Benjamin, Julgamento em
+     26/08/2014)
+
+Ambas as súmulas acima citam o sócio-gerente. A propósito, nós vimos quem são os terceiros responsáveis
+do art. 134, mas ainda não comentamos quem pode ser pessoalmente responsabilizado nos termos do art.
+135.
+
+Saiba que todas as figuras citadas no art. 134 podem sofrer a responsabilização, caso ajam com excesso de
+poderes ou infração de lei, contrato social ou estatutos. Além disso, também podem ser responsabilizados
+os mandatários, prepostos e empregados, bem com os diretores (citado no nosso exemplo), gerentes ou
+representantes de pessoas jurídicas de direito privado.
+
+
+
+
+A responsabilidade alcança apenas os sócios-gerentes, ou seja, aqueles que intervieram nas atividades da
+empresa. O sócio cotista, portanto, não pode ser resposabilizado.
+
+Para encerrar o assunto Responsabilidade Tributária, vamos estudar a jurisprudência pertinente à denúncia
+espontânea, instituto previsto no art. 138 do CTN.
+
+De acordo com o STJ, para ficar caracterizada a denúncia espontânea, é necessário que o sujeito passivo
+promova o pagamento do tributo, e não o mero parcelamento. Lembre-se de que o pagamento deve ser
+acompanhado da correção monetária.
+
+TRIBUTÁRIO - DENÚNCIA ESPONTÂNEA - PARCELAMENTO DO DÉBITO – ART. 138 DO CTN - MULTA
+MORATÓRIA DEVIDA - SÚMULA 208/TFR - JURISPRUDÊNCIA REVISTA PELA PRIMEIRA SEÇÃO.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         24
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+1. A Primeira Seção desta Corte, revendo jurisprudência em torno do parcelamento do débito, concluiu
+que este não equivale a pagamento e, portanto, não se trata de hipótese de denúncia espontânea,
+capaz de ensejar o afastamento da multa moratória (REsp 284.189/SP).
+
+2. Aplicação da Súmula 208 do extinto TFR.
+
+3. Recurso especial provido.
+
+(STJ, REsp 426.964/SC, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 20/08/2002)
+
+
+
+
+QUESTÃO INÉDITA
+A jurisprudência do STJ é pacífica no sentido de o parcelamento poder ser equiparado ao pagamento para
+fins de denúncia espontânea, prevista no art. 138 do CTN.
+
+Comentário: O STJ se posicionou exatamente ao contrário, ou seja, o parcelamento não equivale ao
+pagamento, não podendo ser caracterizado como denúncia espontânea.
+
+Gabarito: Errada
+
+Sobre a denúncia espontânea, pode-se acrescentar ainda que é instrumento capaz de afastar a punibilidade
+de infrações:
+
+TRIBUTÁRIO. DENÚNCIA ESPONTÂNEA. MULTA MORATÓRIA. EXCLUSÃO. LEI 8.212/91, ART. 35, I.
+COMPATIBILIDADE COM O ART. 138 DO CTN.
+
+1. É desnecessário fazer distinção entre multa moratória e multa punitiva, visto que ambas são
+excluídas em caso de configuração da denúncia espontânea. Precedentes.
+
+(STJ, REsp 774.058/PR, Primeira Turma, Rel. Min. Teori Albino Zavascki, Julgamento em 01/10/2009)
+
+Contudo, a denúncia espontânea não afasta as penalidades por descumprimento de obrigações acessórias:
+
+Mandado de Segurança. Tributário. Imposto de Renda. Atraso na Entrega da Declaração. Multa
+Moratória. Lei 8.981/91 (art. 88) - CTN, artigo 138.
+
+A responsabilidade acessória autônoma, portanto, desvinculada do fato gerador do tributo, não está
+albergada pelas disposições do artigo 138, CTN. A tardia entrega da declaração de Imposto de Renda
+justifica a aplicação de multa (art. 88, Lei 8.981/91).
+
+(STJ, REsp 322.505/PR, Primeira Turma, Rel. Min. Milton Luiz Pereira, Julgamento em 21/06/2001)
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       25
+        www.estrategiaconcursos.com.br                                                                 71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+A denúncia espontânea afasta multas moratórias e punitivas, mas não aquelas surgidas por descumprimento
+de obrigações acessórias.
+
+Ressalte-se que a denúncia espontânea não se aplica aos lançamentos por homologação, que já foram
+declarados (houve a declaração de um débito), mas pagos a destempo.
+
+Súmula STJ 360 - O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento
+por homologação regularmente declarados, mas pagos a destempo.
+
+Ora, com a entrega da declaração (típica de lançamentos por homologação), o STJ entende que há a
+constituição do crédito tributário, dispensando qualquer providência do fisco. Se já houve a constituição e o
+tributo não foi pago, não há que se falar em denúncia espontânea.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          26
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+            CRÉDITO TRIBUTÁRIO E LANÇAMENTO
+Inicialmente, cumpre-nos transcrever o entendimento básico do STJ acerca da amplitude da expressão
+“crédito tributário”:
+
+(...) observa-se que crédito tributário não diz respeito apenas a tributo em sentido estrito, mas
+alcança, também, as penalidades que incidam sobre ele.
+
+(STJ, Primeira Seção, EREsp 760.290/PR, Rel. Min. Castro Meira, Julgamento em 13/06/2007)
+
+Na realidade, esse entendimento decorre da própria literalidade do CTN, já que no art. 113, § 1º, o legislador
+afirma que a obrigação tributária tem por objeto o pagamento de tributo ou de penalidade pecuniária, e no
+art. 139 ficou estabelecido que o crédito tributário decorre da obrigação principal. Portanto, o crédito
+tributário não diz respeito apenas a tributo, mas também às penalidades pecuniárias!
+
+Veja que esse tipo de questão também cai em provas:
+
+A respeito do lançamento por homologação, é de se destacar que o entendimento do STJ é que a entrega de
+declaração (obrigação acessória criada para tributos sujeitos a esta modalidade de lançamento) pelo
+contribuinte constitui o crédito tributário. Vejamos o que diz a Súmula 436:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Nesse rumo, o STJ também já decidiu:
+
+No caso de tributos sujeitos à lançamento por homologação a declaração do contribuinte elide a
+necessidade da constituição formal do crédito, podendo ser realizada a inscrição em dívida ativa.
+
+(STJ, REsp 1.195.286/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 17/09/2013)
+
+Exemplo: A Declaração de Débitos e Créditos Tributários Federais (DCTF) é uma declaração obrigatória para
+pessoas jurídicas em geral, referindo-se a diversos impostos e contribuições federais. O objetivo é informar
+o fisco sobre os tributos apurados pela empresa. A entrega dessa declaração constitui o crédito tributário,
+dispensando as providências do fisco nesse sentido.
+
+
+
+
+QUESTÃO INÉDITA
+O STJ tem entendido que a entrega de declaração pelo contribuinte, reconhecendo a dívida fiscal, constitui
+o crédito tributário, podendo o fisco realizar a inscrição em dívida ativa.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           27
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 04
+
+
+
+Comentário: Esse é um tema muito bom de ser cobrado em prova. Você precisa dominar o assunto!
+Portanto, a entrega da declaração constitui o crédito tributário.
+
+Gabarito: Correta
+
+A respeito da alteração do lançamento, é evidente o entendimento do STJ no sentido de não ser possível
+revisar lançamento por erro de direito (art. 146, CTN):
+
+TRIBUTÁRIO - IMPORTAÇÃO - REVISÃO DE LANÇAMENTO POR ERRO DE DIREITO - SÚMULA 227/TFR.
+
+1. Em havendo na declaração do contribuinte erro de direito não detectado pelo Fisco, que a aceita
+integralmente, a mudança de entendimento constitui-se em alteração de critério vedada pelo CTN.
+
+2. Só a falsidade, o erro ou a omissão são capazes de provocar a revisão do lançamento com a
+conseqüente autuação do contribuinte.                      ==219a34==
+
+
+
+
+(STJ, REsp 171.119/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 07/08/2001)
+
+Não se esqueça de que o erro de fato, caso identificado, deve ser revisto pela autoridade administrativa.
+
+
+
+
+QUESTÃO INÉDITA
+Só a falsidade, o erro ou a omissão são capazes de provocar a revisão do lançamento com a conseqüente
+autuação do contribuinte, não podendo, portanto, haver alteração motivada por erro de direito.
+
+Comentário: Não pode haver revisão de lançamento por erro de direito. A mudança de critérios jurídicos
+adotados pela autoridade administrativa no exercício do lançamento somente pode ser efetivada, em
+relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução (art.
+146, CTN).
+
+Gabarito: Correta
+
+
+
+
+•    Erro de Fato: Inexatidão dos fatos que deram origem à obrigação tributária;
+•    Erro de Direito: Aplicação incorreta de uma norma.
+
+Havendo, contudo, alguma das hipóteses previstas no art. 149 do CTN, a autoridade administrativa tem o
+poder-dever de fazer a alteração, de ofício.
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          28
+          www.estrategiaconcursos.com.br                                                                    71
+
+                                        https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+No caso de alterações de lançamentos efetuados com base em declaração prestada pelo sujeito passivo, o
+STJ entende que não há possibilidade de alteração após a notificação do lançamento, respeitado, é claro,
+o direito do contribuinte de pleitear judicialmente a alteração:
+
+A modificação da declaração do sujeito passivo pela Administração Fazendária fica obstada a partir
+da notificação do lançamento, consoante o disposto pelo art. 147, § 1.º, do CTN. Isto porque, com o
+lançamento encerra-se o procedimento administrativo, ficando a Fazenda, por força do princípio geral
+da imutabilidade do lançamento, impedida de alterá-lo.
+
+(...)
+
+Assim, uma vez feita a notificação ao contribuinte, não poderá a Administração, de ofício, ou a
+requerimento deste, alterar o procedimento já definitivamente encerrado.
+
+(...)
+
+Deveras, mesmo findo referido procedimento, é assegurado ao sujeito passivo da obrigação tributária
+o direito de pretender judicialmente a anulação do crédito oriundo do lançamento eventualmente
+fundado em erro de fato(...)"
+
+(STJ, REsp 770.236/PB, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 14/08/2007)
+
+Observação: Não se esqueça do que abordamos na anterior, acerca da cobrança de tributos com
+base em pauta fiscal. Conforme dissemos, é possível haver o arbitramento, mas não a cobrança
+generalizada por meio do uso de pautas fiscais.
+
+Por fim, ainda no que se refere ao lançamento tributário, o STJ já decidiu sobre a nulidade da notificação
+fiscal que não indica o prazo para o sujeito passivo impugnar o crédito tributário contra ele constituído:
+
+TRIBUTÁRIO - COBRANÇA DE TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA - AUSÊNCIA DE
+INDICAÇÃO DO PRAZO PARA IMPUGNAÇÃO - NOTIFICAÇÃO IRREGULAR - NULIDADE DO LANÇAMENTO
+TRIBUTÁRIO. 1. É nula a notificação fiscal que não indica o prazo para impugnação, acarretando a
+nulidade do lançamento do crédito tributário. Precedentes. 2. Recurso especial não provido.
+
+(STJ, Segunda Turma, REsp 1353605/RS, Min. Rel. Eliana Calmon, Julgamento 25/06/2013)
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                      29
+         www.estrategiaconcursos.com.br                                                                71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+     SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO
+                 TRIBUTÁRIO
+O sujeito passivo, quando discorde de algum crédito tributário contra ele lançado, tem a seu dispor a via
+administrativa ou judicial. Caso opte pela via judicial, há que se fazer o depósito do montante integral para
+suspender a exigibilidade do crédito, já que apenas o ajuizamento da ação não é capaz, por si só, de
+suspendê-la:
+
+"(...) 3. Decorrência lógica da referida presunção é a e que o crédito tributário só pode ter sua
+exigibilidade suspensa na ocorrência de uma das hipóteses estabelecidas no art. 151 do mesmo
+diploma legal.
+
+4. Deveras, o ajuizamento de ação anulatória de débito fiscal, desacompanhada de depósito no
+montante integral, não tem o condão de suspender o curso de execução fiscal já proposta (...)."
+
+(STJ, REsp 758.270/RS, Primeira Turma, Rel. Min. Luiz Fux, Julgamento em 08/05/2007)
+
+Havendo o mencionado depósito, o STJ entende que ele deve ocorrer da seguinte maneira:
+
+Súmula STJ 112 - O depósito somente suspende a exigibilidade do crédito tributário se for integral e em
+dinheiro.
+
+
+
+
+O oferecimento de bens em caução não tem efeito de depósito (STJ, AgRg no AREsp 354.521/GO).
+
+Sendo a decisão favorável à Fazenda Pública, ou seja, se o lançamento for legítimo, o depósito é convertido
+em renda (ver CTN, art. 156, VI), e o crédito tributário é extinto. Nessa linha, de acordo com o STJ (EREsp
+767.328/RS), em relação aos tributos lançados por homologação, o depósito judicial em dinheiro equivale
+ao recolhimento da exação tributária, ocorrendo o lançamento tácito. Não há que se falar, portanto, em
+decadência.
+
+Por outro lado, se a decisão de mérito for favorável ao sujeito passivo, ou seja, se o lançamento ou o valor
+lançado for ilegítimo, caberá ao sujeito passivo proceder o levantamento do depósito realizado.
+
+Observação: Levantamento significa o resgate do valor depositado em juízo.
+
+Há ainda uma terceira hipótese: quando o processo judicial é extinto sem julgamento de mérito. Nesse caso,
+ocorre a conversão do depósito (do montante integral) em renda, em favor da Fazenda, como demonstra a
+ementa a seguir:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          30
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. DEPÓSITO JUDICIAL PARA SUSPENSÃO DA EXIGIBILIDADE DO
+CRÉDITO TRIBUTÁRIO. ART. 151, II, DO CTN. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO.
+CONVERSÃO DO DEPÓSITO EM RENDA. PRECEDENTES.
+
+Com a extinção do processo sem resolução de mérito, o depósito do montante integral realizado pelo
+contribuinte nos termos do art. 151, II, do CTN para suspender a exigibilidade do crédito tributário deve
+ser convertido em renda da Fazenda Pública. Precedentes. 2. Recurso especial provido.
+
+(STJ, REsp 884.625/SP, Min. Rel. Castro Meira, Julgamento em 13/05/2008)
+
+Observação: Lembre-se de que a conversão do depósito em renda constitui hipótese de extinção
+do crédito tributário, como se estudará adiante.
+
+Outra jurisprudência digna do nosso estudo é o entendimento do STJ de que, no caso dos tributos sujeitos a
+lançamento por homologação, ao ser realizado o depósito do montante integral com o objetivo de suspender
+a exigibilidade do crédito tributário, ocorre a constituição do crédito tributário, dispensando a necessidade
+de ato formal de lançamento pela autoridade administrativa. Consequentemente, não cabe alegação de
+inércia do fisco, quanto ao lançamento, no sentido de ter ocorrido decadência:
+
+TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO.
+PRAZO DECADENCIAL PARA CONSTITUIÇÃO DO CRÉDITO. DEPÓSITO JUDICIAL. LANÇAMENTO FORMAL
+PELO FISCO. DESNECESSIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+
+1. No caso de tributos sujeitos a lançamento por homologação, o contribuinte, ao realizar o depósito
+judicial com vistas à suspensão da exigibilidade do crédito tributário, promove a constituição deste
+nos moldes do que dispõe o art. 150 e parágrafos do CTN. Isso, porque verifica a ocorrência do fato
+gerador, calcula o montante devido e, em vez de efetuar o pagamento, deposita a quantia aferida, a
+fim de impugnar a cobrança da exação. Assim, o crédito tributário é constituído por meio da declaração
+do sujeito passivo, não havendo falar em decadência do direito do Fisco de lançar, caracterizando-se,
+com a inércia da autoridade fazendária apenas a homologação tácita da apuração anteriormente
+realizada. Não há, portanto, necessidade de ato formal de lançamento por parte da autoridade
+administrativa quanto aos valores depositados.
+
+(STJ, EREsp 686.479/RJ, Min. Rel. Denise Arruda, Julgamento em 27/08/2008)
+
+Observação: A decadência extingue o crédito tributário, nos termos do art. 156, V, do CTN, pela
+inércia da autoridade competente para efetuar a constituição do crédito tributário pelo lançamento,
+no prazo previsto no próprio CTN.
+
+
+
+
+QUESTÃO INÉDITA
+O oferecimento de bens em caução pode ser caracterizado como hipótese de suspensão da exigibilidade do
+crédito tributário.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            31
+        www.estrategiaconcursos.com.br                                                                      71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Comentário: Acabamos de aprender que o oferecimento de bens em caução não tem efeito de depósito.
+
+Gabarito: Errada
+
+QUESTÃO INÉDITA
+Havendo extinção de processo judicial sem julgamento de mérito em matéria tributária, no curso do qual
+houve depósito do montante integral pelo contribuinte, o valor oferecido em depósito deve ser convertido
+em renda da Fazenda Pública, consoante a jurisprudência do Superior Tribunal de Justiça.
+
+Comentário: Com a extinção do processo sem resolução de mérito, o depósito do montante integral
+realizado pelo contribuinte deve ser convertido em renda da Fazenda Pública.
+
+Gabarito: Correta
+
+Destaque-se ainda que, tendo o depósito do montante integral o objetivo de suspender a exigibilidade do
+crédito tributário, não pode ser exigido como condição para o ajuizamento da ação judicial, sob pena de
+ferir o princípio do Livre Acesso ao Judiciário (art. 5º, XXV, da CF/88):
+
+Súmula Vinculante 28 - É inconstitucional a exigência de depósito prévio como requisito de
+admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+
+No que se refere ao lançamento por homologação, o STJ assim já decidiu:
+
+A Segunda Turma, ao julgar o REsp 804.415/RS (15/02/2007) adotou o entendimento da Primeira
+Turma de que, com relação aos tributos lançados por homologação, o depósito judicial em dinheiro,
+efetuado pelo contribuinte com o intuito de suspender a exigibilidade do crédito tributário, equivale ao
+recolhimento da exação, cuja conversão em renda fica condicionada à improcedência da demanda. Na
+hipótese, não transcorre o prazo decadencial, já que houve constituição do crédito tributário por
+lançamento tácito.
+
+(STJ, EREsp 767.328/RS, Primeira Seção, Rel. Min. Herman Benjamin, Julgamento em 11/04/2007)
+
+Como nessa modalidade de lançamento, cabe ao sujeito passivo a apuração e o recolhimento do montante
+devido, sem prévio exame da autoridade administrativa, o depósito do montante integral equivale ao
+recolhimento da exação.
+
+Caso posteriormente o sujeito passivo não obtenha sucesso na ação judicial, o depósito é convertido em
+renda. Não há de se falar em decadência, pois houve a constituição do crédito tributário, por lançamento
+tácito (sem manifestação da autoridade).
+
+Por outro lado, caso o sujeito passivo, opte pela via administrativa, a interposição de recurso já suspende a
+exigibilidade do crédito tributário.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           32
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+Em caso de interposição de recurso administrativo, o sujeito passivo até pode fazer o depósito do montante
+integral, mas este servirá apenas para impedir a fluência de juros e correção monetária sobre os tributos
+suspensos, já que a impugnação tem efeito de suspensão do crédito tributário.
+
+Nesse sentido, vejamos as seguintes súmulas:
+
+Súmula Vinculante 21 - É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro
+ou bens para admissibilidade de recurso administrativo.
+                                                         ==219a34==
+
+
+
+
+Súmula STJ 373 - É ilegítima a exigência de depósito prévio para admissibilidade de recurso
+administrativo.
+
+
+
+
+QUESTÃO INÉDITA
+É constitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de
+recurso administrativo.
+
+Comentário: Acabamos de estudar que a exigência de depósito ou arrolamento prévios de dinheiro ou bens
+para admissibilidade de recurso administrativo é inconstitucional.
+
+Gabarito: Errada
+
+Para finalizar, devemos saber também que se o juiz condiciona a concessão de medida liminar em mandado
+de segurança à realização do depósito do montante integral, está, na verdade, indeferindo a liminar.
+
+Vejamos:
+
+TRIBUTARIO. SUSPENSÃO DA EXIGIBILIDADE DO CREDITO TRIBUTARIO. DISTINÇÃO ENTRE MEDIDA
+LIMINAR E DEPOSITO DO TRIBUTO CONTROVERTIDO.
+
+A medida liminar em mandado de segurança suspende a exigibilidade do crédito tributário,
+independentemente do depósito do tributo controvertido; se o juiz condiciona a concessão da medida
+liminar à realização do depósito, está, na verdade, indeferindo a medida liminar. Recurso ordinário
+provido em parte.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        33
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+(STJ,RMS 3.881/SP, Segunda Turma, Rel. Min. Ari Pargendler, Julgamento em 01/09/1997)
+
+Caro aluno(a), por hoje é só!
+
+Um abraço e até a próxima aula!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial        34
+        www.estrategiaconcursos.com.br                                                  71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+            SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STF 575: O STF já decidiu que, embora o art. 111, II, do CTN, afirme que a outorga de isenção deve
+ser interpretada literalmente, prevalece o princípio do tratamento nacional consignado no GATT (tratado
+internacional), que proíbe os países dele signatários de conceder tratamento mais favorável aos produtos
+domésticos do que aos produtos importados de outros países que celebraram o tratado:
+
+Súmula STF 575 - À mercadoria importada de país signatário do (GATT), ou membro da (ALALC),
+estende-se a isenção do imposto de circulação de mercadorias concedida a similar nacional.
+
+Súmula STJ 396: A jurisprudência do STJ aborda um caso excepcionalíssimo acerca da legitimidade ativa de
+pessoas jurídicas de direito privado, que é o caso da CNA:
+                                                         ==219a34==
+
+
+
+
+Súmula STJ 396 - A Confederação Nacional da Agricultura tem legitimidade ativa para a cobrança da
+contribuição sindical rural.
+
+Súmula STJ 554: De acordo com a jurisprudência do STJ, na sucessão empresarial, a sucessora é responsável
+pelos tributos e multas (moratórias ou punitivas) devidos pela sucedida:
+
+Súmula STJ 554 - Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange não
+apenas os tributos devidos pela sucedida, mas também as multas moratórias ou punitivas referentes a
+fatos geradores ocorridos até a data da sucessão.
+
+Súmula STJ 435:
+
+Súmula STJ 435 - Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu
+domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da
+execução fiscal para o sócio-gerente.
+
+Súmula STJ 430: Conforme jurisprudência do STJ, o descumprimento da obrigação tributária principal, ou
+seja, o não pagamento do tributo, caso não haja dolo ou fraude, não caracteriza infração legal, de modo que
+a mora é da empresa, e o gestor não passa a ser pessoalmente responsabilizado
+
+Súmula STJ 430 - O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a
+responsabilidade solidária do sócio-gerente.
+
+Súmula STJ 360: O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por
+homologação, quando, embora declarados, sejam pagos a após esgotamento do prazo de vencimento:
+
+
+
+Súmula STJ 360 - O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento
+por homologação regularmente declarados, mas pagos a destempo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        35
+        www.estrategiaconcursos.com.br                                                                  71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Súmula STJ 431: De acordo com a jurisprudência do STJ, considera-se ilegal o uso indiscriminado da pauta
+fiscal para apuração da base de cálculo do ICMS:
+
+Súmula STJ 431 - É ilegal a cobrança de ICMS com base no valor da mercadoria submetido ao regime
+de pauta fiscal.
+
+Súmula STJ 436: Conforme a jurisprudência do STJ, a entrega de declaração (obrigação acessória) pelo
+contribuinte constitui o crédito tributário, caracterizando confissão de dívida:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Súmula Vinculante 21: O STF possui jurisprudência vinculante, no sentido da inconstitucionalidade da
+exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+administrativo, os qual tem o condão de suspender a exigibilidade do crédito tributário:
+
+Súmula Vinculante 21 - É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro
+ou bens para admissibilidade de recurso administrativo.
+
+Súmula STJ 373:
+
+Súmula STJ 373 - É ilegítima a exigência de depósito prévio para admissibilidade de recurso
+administrativo.
+
+Súmula Vinculante 28: De acordo com o STF, também é inconstitucional a exigência de depósito prévio
+como requisito de admissibilidade para discutir a exigibilidade do crédito tributário judicialmente:
+
+Súmula Vinculante 28 - É inconstitucional a exigência de depósito prévio como requisito de
+admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+
+Súmula STJ 112: A jurisprudência do STJ é no sentido de que, para suspender a exigibilidade do crédito
+tributário, o depósito deve ser feito integralmente e em dinheiro:
+
+Súmula STJ 112 - O depósito somente suspende a exigibilidade do crédito tributário se for integral e em
+dinheiro.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          36
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1. CEBRASPE/PGFN-PROCURADOR/2023
+
+O STF e o STJ reconhecem a validade da tributação de rendimentos provenientes de atos ilícitos, pois a
+interpretação legal do fato gerador é feita abstraindo-se a validade jurídica dos atos praticados, a natureza
+do objeto ou os efeitos desses atos. Trata-se da aplicação do princípio tributário
+
+a) da tipicidade.
+
+b) da legalidade.
+
+c) do non olet.
+
+d) da capacidade contributiva.
+
+e) da isonomia.
+
+Comentário: O caso em questão é o princípio pecúnia non olet, que tem relação com a tributação de
+rendimentos provenientes de atos ilícitos. É o posicionamento da jurisprudência ,que encontra, inclusive,
+previsão no CTN:
+
+Art. 118. A definição legal do fato gerador é interpretada abstraindo-se:
+
+I - da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem
+como da natureza do seu objeto ou dos seus efeitos;
+
+II - dos efeitos dos fatos efetivamente ocorridos.
+
+Gabarito: C
+
+2. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Fulano de Tal foi condenado pela prática do ilícito de corrupção passiva, tendo sido provado o fato de ter
+recebido cerca de um milhão de reais para a realização de ato administrativo em favor de determinada
+empresa. Como parte da condenação, Fulano foi obrigado a pagar multa no valor de 2x (duas vezes) o
+montante recebido como propina. Nada obstante, Fulano foi surpreendido com autuação pela Receita
+Federal pelo não pagamento do imposto de renda sobre os proventos decorrentes da corrupção. A respeito
+dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que:
+
+A) não se pode falar em recebimento de proventos para fins de incidência do imposto de renda,
+considerando que Fulano foi condenado ao pagamento de multa em montante de 2x o valor recebido.
+
+B) o princípio tributário do não confisco prevê a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, mesmo nos casos de fato gerador que se refira à situação
+jurídica.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           37
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+C) não há que se falar em incidência de tributos em geral sobre situações consideradas ilícitas, tais como a
+situação de receitas decorrentes do recebimento de propinas por agente público.
+
+D) por se tratar de imposto sobre produto de ato ilícito, é imprescritível o crédito tributário decorrente da
+autuação apresentada pela Receita Federal.
+
+E) o princípio do non olet estabelece a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da corrupção.
+
+Comentário: O princípio do pecunia non olet estabelece a possibilidade de cobrança de tributos sobre
+situações independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da
+corrupção.
+
+Sua base está na jurisprudência do STF e no art. 118, do CTN:
+
+Art. 118. A definição legal do fato gerador é interpretada abstraindo-se:
+
+I - da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem
+como da natureza do seu objeto ou dos seus efeitos;
+
+II - dos efeitos dos fatos efetivamente ocorridos.
+
+Gabarito: Letra E
+
+3. FGV/ALEP-Procurador/2024
+
+João alienou veículo a Maria, deixando, no entanto, de comunicar a venda do bem ao Departamento Estadual
+de Trânsito – DETRAN do Estado competente. A Fazenda Estadual, por sua vez, realizou a cobrança do
+Imposto sobre a Propriedade de Veículo Automotor – IPVA devido após a alienação do bem, em face do João
+e da Maria.
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) João é responsável solidário pelo pagamento do IPVA, conforme previsão do Código de Trânsito Brasileiro,
+pois a alienação do bem não foi comunicada, no prazo legal, ao órgão de trânsito.
+
+b) Somente pode ser imputado a João a responsabilidade solidária pelo pagamento do IPVA se houver
+previsão em lei específica estadual para disciplinar, no âmbito de suas competências, a sujeição passiva do
+IPVA e a solidariedade pelo pagamento do imposto.
+
+c) O Estado deve inicialmente cobrar de Maria o IPVA, pois João é responsável subsidiário pelo pagamento
+do imposto, conforme previsão do Código de Trânsito Brasileiro, já que a alienação do bem não foi
+comunicada, no prazo legal.
+
+d) A cobrança do IPVA somente pode ocorrer em face de Maria, que é a contribuinte do IPVA, independente
+de previsão em lei estadual que discipline de forma diversa a sujeição passiva do IPVA e a responsabilidade
+tributária pelo pagamento do imposto, conforme previsto no Código Tributário Nacional.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           38
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+e) O Estado deve inicialmente cobrar de Maria o IPVA, pois João é responsável pelo pagamento do imposto,
+conforme previsão do Código Civil Brasileiro, já que a alienação do bem não foi comunicada, a qualquer
+prazo.
+
+Gabarito: B
+
+Comentário:
+
+Letra A: Errada. Precisa de lei estadual específica para imputar solidariedade ao alienante que não comunica
+a transferência (art. 128 do CTN).
+
+Letra B: Correta. Somente haverá responsabilidade do antigo proprietário (alienante) se existir previsão legal
+no Estado, conforme entendimento jurisprudencial:
+
+Somente mediante lei estadual/distrital específica poderá ser atribuída ao alienante responsabilidade
+solidária pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA do veículo
+alienado, na hipótese de ausência de comunicação da venda do bem ao órgão de trânsito competente. (STJ.
+REsp 1.881.788-SP)
+
+Letra C: Errada. Não há responsabilidade subsidiária automática sem lei.
+
+Letra D: Errada. Apenas o contribuinte atual (comprador) responde, salvo lei prevendo responsabilidade do
+alienante.
+
+Letra E: Errada. O Código Civil não cria responsabilidade tributária sem previsão específica na legislação
+tributária.
+
+4. FGV/Câmara Mun. Fortaleza-Advogado/2024
+
+A Fazenda Municipal ajuizou execução fiscal em face do contribuinte Joãozinho Assistência Técnica Ltda. pelo
+não pagamento do Imposto Sobre Serviços (ISS) devido. Ao tentar citar o contribuinte, o oficial de justiça
+verificou que a empresa não estava mais localizada no seu domicílio fiscal. O Município solicitou a inclusão
+de João, sócio e administrador da Joãozinho Assistência Técnica Ltda., no polo passivo da execução fiscal, o
+que foi deferido pelo juízo.
+
+Sobre a hipótese, assinale a afirmação correta.
+
+a) Está correto o redirecionamento da execução, pois, em caso de dissolução irregular, João é pessoalmente
+responsável pelos créditos tributários.
+
+b) João somente pode ser responsabilizado se a Certidão de Dívida Ativa - CDA constar o nome de João, não
+cabendo o redirecionamento após o ajuizamento da execução fiscal.
+
+c) João não pode ser responsabilizado, pois trata-se de mero inadimplemento da obrigação tributária.
+
+d) O redirecionamento é ilegal, pois cabe ao fisco demonstrar que João agiu com excesso de poderes ou
+infração à lei, ao contrato social ou ao estatuto da empresa.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           39
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+e) João não responde pelo crédito devido pela Joãozinho Assistência Técnica Ltda., pois trata-se de empresa
+em que a responsabilidade do sócio é limitada a sua participação integralizada.
+
+Gabarito: A
+
+Comentário: Trata-se de aplicação do art. 135, III, do CTN, combinado com a jurisprudência do STJ.
+
+Letra A: Correta. A não localização da empresa em seu domicílio fiscal sem comunicação presume dissolução
+irregular, permitindo o redirecionamento ao sócio administrador (Súmula 435 do STJ).
+
+Letra B: Errada. Não é exigida prévia inclusão do sócio na CDA.
+
+Letra C: Errada. O mero inadimplemento não gera responsabilidade (Súmula 430 do STJ), mas a dissolução
+irregular sim.
+
+Letra D: Errada. A presunção de dissolução irregular já caracteriza hipótese de redirecionamento.
+
+Letra E: Errada. A limitação de responsabilidade societária não impede a responsabilização do sócio em casos
+de dissolução irregular.
+
+5. FGV/TCE-PA-Auditor/2024
+
+Considere a seguinte situação hipotética:
+
+Maria e José eram sócios-administradores da pessoa jurídica XYZ Ltda.
+
+Em 2022, Maria alienou regularmente a totalidade de suas quotas a João, e se retirou da administração da
+sociedade. João e José passaram a ser os únicos administradores da pessoa jurídica XYZ Ltda. desde então.
+
+Em 2023, a fazenda estadual ajuizou execução fiscal em face da pessoa jurídica XYZ Ltda., visando à cobrança
+de ICMS de 2021 a 2022, quando Maria e José eram administradores da empresa.
+
+Como o oficial de justiça não conseguiu citar a empresa executada, pois não estava mais funcionando no
+local de domicílio fiscal informado às autoridades públicas, foi deferida a inclusão no polo passivo da
+execução de Maria, José e João.
+
+Sobre o caso, a jurisprudência e a legislação em vigor atribuem a responsabilidade tributária a
+
+a) João, Maria e José.
+
+b) Maria e José, apenas.
+
+c) José, apenas.
+
+d) José e João, apenas.
+
+e) Maria e João, apenas.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         40
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Gabarito: D
+
+Comentário:
+
+Letra A: Errada. Maria saiu antes da dissolução irregular e sem praticar ilícitos após sua saída, não deve
+responder.
+
+Letra B: Errada. Maria não estava presente quando a empresa se tornou irregular, e não há evidência na
+questão de sua culpa na dissolução.
+
+Letra C: Errada. João, como administrador na data da irregularidade, também é responsável.
+
+Letra D: Correta. José e João eram administradores quando ocorreu a presunção de dissolução irregular,
+sendo cabível o redirecionamento (art. 135 do CTN e Súmula 435 do STJ).
+
+Letra E: Errada. Maria não estava mais à frente da gestão na época da irregularidade.
+
+6. FGV/ALEP-Procurador/2024
+
+A DEF Arrendamento Mercantil S.A. era proprietária de centenas de veículos automotores.
+
+Em 2019, a empresa ABC Leasing S.A. incorporou a empresa DEF Arrendamento Mercantil S.A., deixando de
+atualizar os dados registrais dos veículos automotores.
+
+Em 2022, o Estado ajuizou execução fiscal em face da DEF Arrendamento Mercantil S.A., visando à cobrança
+de Imposto sobre a Propriedade de Veículos Automotores – IPVA, multa de mora e multa punitiva, do ano
+de 2018.
+
+Sobre a hipótese, nos termos do Código Tributário Nacional e de acordo com a jurisprudência dos tribunais
+superiores, assinale a afirmativa correta.
+
+a) A responsabilidade tributária da ABC Leasing S.A. abrange não apenas o IPVA devido pela DEF
+Arrendamento Mercantil S.A., mas também as multas moratórias ou punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com
+a alteração do polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA,
+sendo necessária, no caso, nova emissão de Certidão de Dívida Ativa (CDA) e nova propositura da ação,
+conforme Súmula 392, do STJ.
+
+b) A responsabilidade tributária da ABC Leasing S.A. abrange apenas o IPVA devido pela DEF Arrendamento
+Mercantil S.A., não incluindo as multas moratórias e punitivas referentes a fatos geradores ocorridos até a
+data da sucessão, não sendo, todavia, necessária, na hipótese, a alteração do ato de lançamento quando o
+fato gerador ocorreu depois da incorporação e o lançamento foi realizado contra a contribuinte originária.
+
+c) A responsabilidade tributária da ABC Leasing S.A. abrange não apenas o IPVA devido pela DEF
+Arrendamento Mercantil S.A., mas também as multas de mora e punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, necessária, na hipótese, a alteração do ato de
+lançamento quando o fato gerador ocorreu depois da incorporação e o lançamento foi realizado contra a
+contribuinte originária.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          41
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+d) A responsabilidade tributária da ABC Leasing S.A. abrange apenas o IPVA e a multa moratória devidos
+pela DEF Arrendamento Mercantil S.A., não incluindo as multas punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com
+a alteração do polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA,
+sendo necessária, no caso, nova emissão de CDA e nova propositura da ação, conforme Súmula 392, do STJ.
+
+e) A responsabilidade tributária da ABC Leasing S.A. somente abrange o IPVA, as multas moratória e
+punitivas devidos pela DEF Arrendamento Mercantil S.A. caso seja demonstrada fraude, dolo ou simulação
+na incorporação, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com a alteração do
+polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA, sendo
+necessária, no caso, nova emissão de CDA e nova propositura da ação, conforme Súmula 392, do STJ.
+
+Gabarito: C
+
+Comentário: Na sucessão por incorporação, a sucessora responde pelos tributos e multas relativos ao
+período anterior à sucessão (art. 132 e 133 do CTN). A jurisprudência do STJ admite que a cobrança seja feita
+diretamente à sucessora, sem a modificação da CDA:
+
+A execução fiscal pode ser redirecionada em desfavor da empresa sucessora para cobrança de crédito
+tributário relativo a fato gerador ocorrido posteriormente à incorporação empresarial e ainda lançado em
+nome da sucedida, sem a necessidade de modificação da Certidão de Dívida Ativa, quando verificado que
+esse negócio jurídico não foi informado oportunamente ao fisco. (STJ. REsp 1848993/SP)
+
+Letra A: Errada. Na sucessão por incorporação, a sucessora responde inclusive por multas até a data da
+incorporação, sem necessidade de modificação da CDA.
+
+Letra B: Errada. As multas moratórias e punitivas também acompanham o passivo tributário.
+
+Letra C: Correta. A sucessora (ABC Leasing S.A.) responde pelo tributo e multas até a data da sucessão, não
+sendo necessária modificação de CDA.
+
+Letra D: Errada. As multas punitivas também são alcançadas pela responsabilidade.
+
+Letra E: Errada. Não é preciso demonstrar fraude ou dolo para responsabilizar a sucessora pelos débitos
+anteriores.
+
+7. FGV/ALETO-Procurador Jurídico/2024
+
+Caio e Tício eram sócios e gerentes da pessoa jurídica XYZ. Em 2017, XYZ deixou de recolher o Imposto sobre
+a Propriedade de Veículos Automotores – IPVA incidente sobre veículo automotor de sua propriedade.
+
+Em 2018, a Fazenda Estadual ajuizou execução fiscal visando à cobrança dos créditos de IPVA. No mesmo
+ano, XYZ foi citada e apresentou exceção de pré-executividade que não foi acolhida. Em 2020, Caio e Tício se
+retiraram da sociedade e Mévio e Maria passaram a ser sócios e gerentes de XYZ.
+
+Em 2023, no curso da tramitação do feito, ao tentar penhorar bens de propriedade de XYZ, o Oficial de Justiça
+verificou, após diversas tentativas, que a sociedade empresária não estava mais funcionando no local
+indicado aos órgãos competentes como seu domicílio fiscal.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          42
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Em 2024, a Fazenda Estadual solicitou a inclusão de Caio, Tício, Mévio e Maria no polo passivo da execução
+fiscal.
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) A citação positiva de XYZ provocou, por si só, o início do prazo prescricional para o redirecionamento da
+execução fiscal para os sócios-gerentes.
+
+b) O redirecionamento da execução fiscal, fundado na dissolução irregular de XYZ, não pode ser autorizado
+contra Mévio e Maria, pois eles não exerciam poderes de gerência quando ocorrido o fato gerador do tributo
+não adimplido.
+
+c) O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes é a data da prática
+de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de
+cobrança executiva promovida contra XYZ, a ser demonstrado pelo fisco estadual.
+
+d) Aplica-se, no caso, o prazo de redirecionamento da execução fiscal para os sócios-gerentes Caio e Tício,
+fixado em cinco anos, contados da dissolução irregular.
+
+e) A decretação da prescrição para o redirecionamento dos sócios-gerentes, após o decurso do prazo,
+poderá ser feita de ofício, independentemente de a Fazenda Estadual ter promovido atos de impulsão
+processual.
+
+Gabarito: C
+
+Comentário: Várias informações foram trazidas nessa questão, e precisamos organizá-las:
+
+ Ano           Fato
+   2017                                   Não foi pago o valor devido de IPVA
+   2018                                      Foi ajuizada a execução fiscal
+   2018          Ocorreu a citação e também a apresentação de exceção de pré-executividade, não tendo
+                                                 sido acolhida pelo juízo
+   2020                  Ocorreu a saída de Caio e Tício da sociedade e entraram Mévio e Maria
+   2023                            A empresa não foi localizada em seu domicílio fiscal
+   2024                  Foram incluídos no polo passivo da execução: Caio, Tício, Mévio e Maria
+
+Vamos lá!
+
+Letra A: Errada. De acordo com a jurisprudência do STJ (REsp 1201993/SP, Tema 444), a citação da PJ não é,
+por si só, marco inicial do prazo contra sócios, se a dissolução irregular ocorre posteriormente.
+
+Letra B: Errada. A dissolução irregular legitima o redirecionamento contra os sócios-gerentes que atuavam
+no momento da irregularidade. Mesmo que não gerenciassem ao tempo do fato gerador, mas estivessem
+na data da dissolução irregular, podem ser responsabilizados (Súmula 435 do STJ).
+
+Letra C: Correta. O prazo conta da prática do ato inequívoco que inviabiliza a cobrança, devendo o Fisco
+demonstrá-lo: o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                       43
+          www.estrategiaconcursos.com.br                                                                 71
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do CTN, for
+precedente a esse ato processual (Tema Repetitivo 444).
+
+Letra D: Errada. O prazo não é simplesmente contado da dissolução irregular sem análise do ato específico.
+É necessário o marco delineado na jurisprudência.
+
+Letra E: Errada. A prescrição não é decretada de ofício sem demonstração de inércia da Fazenda. (Art. 174
+do CTN)
+
+8. CEBRASPE/Ana (FINEP)/FINEP/Jurídica/2024
+
+A respeito da responsabilidade tributária, julgue os itens seguintes.
+
+I A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em
+outra é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas de direito privado
+                                                          ==219a34==
+
+
+
+
+fusionadas, transformadas ou incorporadas.
+
+II Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem
+comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-
+gerente.
+
+III A mera devolução de carta de citação com aviso de recebimento negativo não é suficiente para a
+configuração da dissolução irregular da pessoa jurídica.
+
+IV Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse
+de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a
+contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do
+título a prova de sua quitação.
+
+Assinale a opção correta.
+
+a) Apenas os itens I e II estão certos.
+
+b) Apenas os itens I e IV estão certos.
+
+c) Apenas os itens II e III estão certos.
+
+d) Apenas os itens III e IV estão certos.
+
+e) Todos os itens estão certos.
+
+Comentário:
+
+Item I: Correto. De acordo com o art. 132 do CTN, a pessoa jurídica que resulta de fusão, transformação ou
+incorporação é responsável pelos tributos devidos até a data do ato pelas entidades fusionadas,
+transformadas ou incorporadas.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            44
+         www.estrategiaconcursos.com.br                                                                      71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Item II: Correto. Segundo a jurisprudência e a Súmula 435 do STJ, presume-se dissolvida irregularmente a
+empresa que deixar de funcionar em seu domicílio fiscal sem comunicar aos órgãos competentes, o que
+justifica o redirecionamento da execução fiscal para o sócio-gerente.
+
+Item III: Correto. A mera devolução de uma carta de citação com aviso de recebimento negativo não é, por
+si só, suficiente para caracterizar a dissolução irregular da pessoa jurídica. É necessária a demonstração de
+outros indícios de encerramento irregular das atividades para responsabilizar o sócio-gerente.
+
+Item IV: Correto. Conforme o art. 130 do CTN, os créditos tributários relacionados a impostos sobre a
+propriedade de bens imóveis, assim como taxas e contribuições de melhoria vinculadas a tais bens, são sub-
+rogados aos adquirentes dos imóveis, a menos que exista prova de quitação dos mesmos no título de
+transferência.
+
+Gabarito: E
+
+9. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+
+Leia o fragmento a seguir.
+
+ De acordo com o Código Tributário Nacional e a jurisprudência sobre o assunto, os         são pessoalmente
+responsáveis pelos créditos correspondentes a obrigações tributárias resultantes             .
+
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento lido.
+
+a) sócios de pessoa jurídica de direito privado sem poderes de administração – do mero inadimplemento da
+obrigação tributária.
+
+b) sócios-gerentes de pessoa jurídica de direito privado – do mero inadimplente da obrigação tributária.
+
+c) sócios de pessoa jurídica de direito privado, ainda que sem poderes de administração – da dissolução
+irregular da pessoa jurídica.
+
+d) sócios-gerentes de pessoa jurídica de direito privado – da dissolução irregular da pessoa jurídica.
+
+e) sócios de pessoa jurídica de direito privado, ainda que sem poderes de administração – da prática de atos
+com excesso de poderes ou infração à lei, ao contrato social ou estatuto social.
+
+Comentário:
+
+Letra A: Errada. Os sócios sem poderes de administração não são responsáveis por obrigações tributárias
+decorrentes do mero inadimplemento.
+
+Letra B: Errada. Mesmo os sócios-gerentes não são automaticamente responsáveis pelo inadimplemento
+tributário, salvo atos com excesso de poderes ou infrações legais (Súmula 430 do STJ).
+
+Letra C: Errada. Os sócios sem poderes de gestão não têm responsabilidade pessoal pela dissolução irregular
+da empresa.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           45
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+Letra D: Correta. Conforme o art. 135 do CTN, sócios-gerentes são responsáveis pelos tributos devidos pela
+empresa em casos de dissolução irregular (Súmula 435 do STJ).
+
+Letra E: Errada. Sócios sem poderes de administração não são responsáveis por atos de gestão que infrinjam
+a lei ou os estatutos da empresa.
+
+Gabarito: Letra D.
+
+10. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Carlos foi sócio quotista da sociedade limitada ABC Ltda. entre 2019 e 2020, sem jamais ter participado da
+sua administração. Jonas foi Diretor Financeiro da mesma empresa, entre 2018 e 2021, sem, contudo, ter
+sido sócio da empresa em qualquer momento. Fabrício, por sua vez, foi sócio e Diretor-Presidente da ABC
+Ltda. entre 2018 e 2021. Em janeiro de 2022, o Fisco municipal autuou a sociedade por ausência de
+recolhimento de impostos e taxas municipais entre 2020 e 2021, ausência essa que era do conhecimento de
+todos os sócios e administradores da empresa, em razão da grave situação financeira pela qual ela passou
+neste biênio de pandemia e crise econômica mundial.
+
+A respeito dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias
+nacionais, que
+
+A) Jonas pode ser responsabilizado pessoalmente pela dívida tributária da sociedade, uma vez que detinha
+poderes de decisão sobre o pagamento ou não dos tributos devidos.
+
+B) Carlos pode ser responsabilizado subsidiariamente pela dívida tributária da sociedade, uma vez que se
+trata de sociedade de pessoas.
+
+C) Fabrício pode ser responsabilizado pessoalmente pela dívida tributária da sociedade, em decorrência da
+sua posição como sócio e Diretor-Presidente.
+
+D) a situação de grave perturbação da economia global resulta em excludente da ilicitude tributária para fins
+de aplicação de eventual multa moratória.
+
+E) o inadimplemento da obrigação tributária, ainda que de seu conhecimento, não gera, por si só, a
+responsabilidade solidária de Fabrício.
+
+Comentário: Primeiramente, temos que entender que a responsabilidade tributária tem relação com a
+administração da empresa, e não com o simples fato de integrar o seu quadro societário. Assim, já podemos
+eliminar a responsabilidade de Carlos.
+
+Em relação a Jonas e Fabrício, pode ocorrer responsabilidade tributária pessoal, caso se enquadrem na
+situação descrita no art. 135, do CTN:
+
+Art. 135. São pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes
+de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos:
+
+(...)
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         46
+         www.estrategiaconcursos.com.br                                                                   71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+III - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+
+Porém, em relação aos tributos devidos, a questão afirma que o inadimplemento se deu pela grave crise
+financeira pela qual atravessou a entidade.
+
+Assim, deve-se considerar a Súmula 430 do STJ: O inadimplemento da obrigação tributária pela sociedade
+não gera, por si só, a responsabilidade solidária do sócio-gerente.
+
+Diante do exposto, resta-nos apenas a Letra E como resposta da questão.
+
+Gabarito: Letra E
+
+11. CEBRASPE/PGM-Mossoró-Procurador/2024
+
+Acerca da constituição e da cobrança do crédito tributário, observada a jurisprudência dos tribunais
+superiores, julgue os item seguinte.
+
+O crédito tributário constitui-se a partir da entrega de declaração de reconhecimento do débito fiscal pelo
+contribuinte sucedida, necessariamente, da verificação pelo fisco.
+
+Gabarito: Errado
+
+Comentário: A entrega da declaração pelo contribuinte reconhecendo o débito fiscal é suficiente para
+constituir o crédito tributário, dispensando qualquer outra ação do Fisco. Não é necessária verificação
+posterior pela autoridade fiscal (Súmula 436 do STJ). Assim sendo, está errado.
+
+12. CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+de 1988 e na jurisprudência dos tribunais superiores.
+
+A partir do momento em que João efetuou o depósito judicial em dinheiro do crédito cobrado, foi suspensa
+a exigibilidade desse crédito tributário.
+
+Comentário: Conforme o art. 151, II, do CTN, o depósito do montante integral do crédito tributário suspende
+sua exigibilidade. Súmula STJ nº 112 reforça que o depósito deve ser integral e em dinheiro para que a
+suspensão seja efetiva.
+
+Gabarito: Certo
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         47
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+13. CEBRASPE/PGM-SP-Procurador/2023
+
+A respeito da responsabilidade de sócios e administradores em relação à cobrança do crédito tributário,
+assinale a opção correta conforme a jurisprudência dos tribunais superiores.
+
+a) Quando empresa deixa de funcionar no respectivo domicílio fiscal, sem comunicar às autoridades
+competentes, há presunção absoluta da sua dissolução irregular, sendo cabível o redirecionamento das
+execuções fiscais aos sócios-gerentes, no que caracterizada infração à lei.
+
+b) A falta de pagamento de tributo pela sociedade é causa suficiente para se pleitear a responsabilidade
+subsidiária dos seus sócios.
+
+c) É cabível o redirecionamento da execução fiscal contra sócio que, ainda que se tenha retirado
+regularmente da empresa e não tenha concorrido para sua posterior dissolução irregular, haja exercido
+poderes de administração ao tempo dos fatos geradores dos tributos cobrados no feito executivo.
+
+d) O redirecionamento da execução fiscal somente alcançará os sócios que exercessem poderes de
+administração quando da constituição do fato gerador do tributo cobrado e, concomitantemente, da
+dissolução irregular da empresa.
+
+e) É cabível o redirecionamento da execução fiscal contra sócio que exercesse poderes de administração na
+data em que se configurou a dissolução irregular da sociedade, ainda que ele não tenha exercido os mesmos
+poderes quando ocorrido o fato gerador do tributo não adimplido.
+
+Comentário:
+
+Alternativa A: A Súmula 435 do STJ estabelece presunção relativa de dissolução irregular, sendo cabível o
+redirecionamento das execuções fiscais aos sócios-gerentes, cabendo prova em contrário, evidentemente.
+Errado.
+
+Alternativa B: A Súmula 430 do STJ dispõe que o inadimplemento da obrigação tributária pela sociedade não
+gera, por si só, a responsabilidade solidária do sócio-gerente. Errado.
+
+Alternativa C: A assertiva fala em não ter concorrido para a dissolução irregular, ocorrida posteriormente à
+saída do sócio da empresa. Errado.
+
+Alternativa D: Na realidade, a infração de lei que vai gerar a responsabilidade tributária é a dissolução
+irregular, e não o fato gerador do tributo cobrado. Errado.
+
+Alternativa E: A Como já comentado, a infração de lei que vai gerar a responsabilidade tributária é a
+dissolução irregular, e não o fato gerador do tributo cobrado. Correto.
+
+Gabarito: E
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         48
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+14. CEBRASPE/PGFN-PROCURADOR/2023
+
+Determinada pessoa jurídica foi dissolvida irregularmente no curso de ação de execução fiscal ajuizada
+contra ela pela PGFN. João, sócio que não detinha poder de direção à época da dissolução irregular, exercia
+poderes de gerência quando da ocorrência do fato gerador do tributo cobrado na execução fiscal.
+
+Considerando essa situação hipotética, julgue os itens a seguir, de acordo com a jurisprudência do Superior
+Tribunal de Justiça (STJ).
+
+I O fato de João ter atuado em cargo de direção no momento da ocorrência do fato gerador do tributo
+cobrado é motivo suficiente para que a execução fiscal possa ser redirecionada contra ele.
+
+II A execução fiscal não poderá ser redirecionada contra João se ficar demonstrado que ele não contribuiu
+para a dissolução irregular, não agiu com excesso de poder nem cometeu infração à lei ou ao contrato social.
+
+III A execução fiscal poderá ser redirecionada contra João se ficar provado que ele atuou com excesso de
+poder ou cometeu infração à lei, ainda que se tenha retirado do cargo de direção antes da dissolução
+irregular da empresa.
+
+Assinale a opção correta.
+
+a) Apenas o item I está certo.
+
+b) Apenas o item III está certo.
+
+c) Apenas os itens I e II estão certos.
+
+d) Apenas os itens II e III estão certos.
+
+e) Todos os itens estão certos.
+
+Comentário: Temos nesta questão duas possibilidades de responsabilização para o Sr. João:
+
+1 – Atuar com excesso de poder ou cometer infração à lei, independentemente da dissolução irregular;
+
+2 – Contribuir para a dissolução irregular.
+
+Item I: Somente o fato de João ter atuado em cargo de direção no momento da ocorrência do fato gerador
+do tributo cobrado não é motivo suficiente para que a execução fiscal possa ser redirecionada contra ele. É
+necessário comprovar uma das duas infrações citadas acima. Errado.
+
+Item II: De fato, se não restar comprovado que João agiu com excesso de poder ou cometeu infração à lei,
+ou ainda que contribuiu para a dissolução irregular, não há que se falar em sua responsabilidade. Correto.
+
+Item III: Como comentado, se ocorrer a situação 1 (atuar com excesso de poder ou cometer infração à lei,
+independentemente da dissolução irregular), haverá responsabilidade para o Sr. João. Correto.
+
+Gabarito: D
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        49
+         www.estrategiaconcursos.com.br                                                                  71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+15. CEBRASPE/MPE-SC-PROMOTOR/2023
+
+Acerca da responsabilidade tributária, julgue o item que se seguem.
+
+Em caso de sucessão empresarial, a responsabilidade da empresa sucessora abrangerá os tributos devidos
+pela sucedida, excluídas as multas moratórias ou punitivas referentes a fatos geradores ocorridos até a data
+da sucessão.
+
+Comentário: De acordo com a Súmula 554, do STJ, na hipótese de sucessão empresarial, a responsabilidade
+da sucessora abrange não apenas os tributos devidos pela sucedida, mas também as multas moratórias ou
+punitivas referentes a fatos geradores ocorridos até a data da sucessão.
+
+Gabarito: Errado
+
+16. CEBRASPE/SEFAZ-RR-AUDITOR/2021
+
+A responsabilidade, na área tributária, determina quem é obrigado a efetuar o pagamento de tributo ou
+penalidade pecuniária.
+
+No que se refere a esse assunto, assinale a opção correta.
+
+a) Um exemplo de responsabilidade de devedor solidário é a transmissão onerosa de bens imóveis para o
+comprador desse bem.
+
+b) Ocorre um exemplo de responsabilidade por transferência quando dois contribuintes importam
+conjuntamente um bem e um deles efetua o pagamento do tributo, extinguindo a obrigação tributária com
+relação ao outro.
+
+c) Constitui um exemplo de responsabilidade de terceiro devedor a hipótese de tabelião que, no exercício
+de seu ofício, tiver deixado, por omissão, de exigir do contribuinte o recolhimento do ITCMD quando
+finalizado o inventário extrajudicial no cartório.
+
+d) Constitui um exemplo de responsabilidade pessoal a hipótese de filhos menores não pagarem os tributos
+devidos e seus pais se tornarem os responsáveis.
+
+e) A falta de pagamento de tributo devido pela pessoa jurídica por ausência de dinheiro é suficiente para
+configurar reponsabilidade por infração, o que permite o redirecionamento da dívida tributária para o sócio-
+gerente.
+
+Comentário:
+
+Alternativa A: Na transferência onerosa de bens imóveis, aplica-se o art. 130, do CTN: a responsabilidade é
+transferida ao adquirente, salvo quando conste do título a prova de sua quitação. Não há solidariedade no
+caso. Errado.
+
+Alternativa B: Em tal situação, aplica-se o art. 124, I, do CTN: solidariedade por interesse comum na situação
+que constitui o fato gerador do tributo. Errado.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           50
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Alternativa C: De fato, trata-se de um tipo de responsabilidade de terceiro:
+
+       Art. 134. Nos casos de impossibilidade de exigência do cumprimento da obrigação principal pelo
+       contribuinte, respondem solidariamente com este nos atos em que intervierem ou pelas omissões de
+       que forem responsáveis:
+
+       (...)
+
+       VI - os tabeliães, escrivães e demais serventuários de ofício, pelos tributos devidos sobre os atos
+       praticados por eles, ou perante eles, em razão do seu ofício;
+
+Correto.
+
+Alternativa D: A responsabilidade em comento está prevista no art. 134, do CTN, e se refere à
+responsabilidade subsidiária. Apenas seria pessoal se a questão mencionasse expressamente a atuação com
+infração de lei (CTN, art. 135). Errado.
+
+Alternativa E: De acordo com a Súmula 430 do STJ: o inadimplemento da obrigação tributária pela sociedade
+não gera, por si só, a responsabilidade solidária do sócio-gerente. Errado.
+
+Gabarito: C
+
+17. CEBRASPE/MPE-SC-PROMOTOR/2023
+
+Um contribuinte, por falta de capital de giro e sabendo dos altos juros cobrados por instituições financeiras,
+adotou a prática de registrar, nos livros contábeis e fiscais, todas as transações comerciais sobre as quais
+incide o ICMS, declarando ao fisco os referidos tributos como devidos. Entretanto, mesmo já tendo cobrado
+os valores do consumidor final, não realizou, entre os anos de 2013 a 2015, os recolhimentos na data devida.
+
+Considerando essa situação hipotética e as legislações pertinentes, julgue o item subsequente.
+
+Na situação em apreço, a constituição definitiva do crédito se deu com as declarações feitas pelo contribuinte
+por meio dos registros fiscais e contábeis encaminhados ao fisco.
+
+Comentário: De acordo com a Súmula 436, do STJ, a entrega de declaração pelo contribuinte reconhecendo
+débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Gabarito: Certo
+
+18. CEBRASPE/PGM-SP-Procurador/2023
+
+Acerca do crédito tributário e das obrigações tributárias, julgue os itens a seguir.
+
+I A obrigação tributária principal refere-se ao dever de pagar o tributo original, enquanto o dever de pagar
+juros e correção é considerado uma obrigação tributária acessória.
+
+II A multa tributária não é considerada um tributo em si, mas a obrigação de pagá-la possui natureza
+tributária.
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        51
+           www.estrategiaconcursos.com.br                                                                  71
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+III A entrega de declaração pelo contribuinte reconhecendo débito fiscal não constitui automaticamente o
+crédito tributário, podendo ser necessárias outras providências por parte do fisco para formalizar a cobrança.
+
+IV No lançamento por homologação, também denominado autolançamento, quaisquer atos anteriores à
+homologação, realizados pelo sujeito passivo ou por terceiros, com o objetivo de extinguir total ou
+parcialmente o crédito tributário, não têm influência sobre a obrigação tributária.
+
+Assinale a opção correta.
+
+a) Apenas o item II está certo.
+
+b) Apenas os itens I e III estão certos.
+
+c) Apenas os itens I e IV estão certos.
+
+d) Apenas os itens II e IV estão certos.
+
+e) Todos os itens estão certos.
+
+Comentário:
+
+Item I: Na realidade, o art. 113, do CTN, prevê que a obrigação principal tem por objeto o pagamento de
+tributo ou penalidade pecuniária. Já a obrigação acessória decorre da legislação tributária e tem por objeto
+as prestações, positivas ou negativas (fazer ou deixar de fazer algo). Errado.
+
+Item II: O art. 113, do CTN, prevê que a obrigação principal tem por objeto o pagamento de tributo ou
+penalidade pecuniária. Ou seja, a obrigação de pagar multa possui natureza tributária, embora tributo e
+multa não se confundam. Correto.
+
+Item III: De acordo com a súmula nº 436 do STJ, a entrega de declaração pelo contribuinte reconhecendo
+débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco. Errado.
+
+Item IV: A resposta está no art. 150, do CTN. O atos anteriores à homologação, realizados pelo sujeito passivo
+ou por terceiros, com o objetivo de extinguir total ou parcialmente o crédito tributário, não têm influência
+sobre a obrigação tributária. Porém, serão considerados na apuração do saldo porventura devido e, sendo o
+caso, na imposição de penalidade, ou sua graduação. Correto.
+
+Gabarito: D
+
+19. FGV/SEFIN-RO-Técnico Tributário/2018
+
+Com relação à responsabilidade tributária, analise as afirmativas a seguir.
+
+I. O promitente adquirente de um imóvel só se torna responsável pelo IPTU após a devida averbação do
+título no Registro de Imóvel, momento em que ocorre a transferência de propriedade.
+
+II. Encerrado o inventário com a partilha de bens, eventual débito, posteriormente aferido, não poderá mais
+ser cobrado do espólio e dos herdeiros.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           52
+         www.estrategiaconcursos.com.br                                                                     71
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+III. A empresa sucessora, resultante de fusão, é responsável pelos tributos devidos pela sucedida e pelas
+multas de mora e punitiva.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) I e II, apenas.
+
+d) III, apenas.
+
+e) II e III, apenas.
+
+Comentário:
+
+Item I: A jurisprudência do STJ é no sentido de que tanto o promitente comprador (possuidor a qualquer
+título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada
+no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU. Item errado.
+
+Item II: Após o encerramento do inventário com a partilha de bens, eventual débito, posteriormente aferido,
+será cobrado dos respectivos herdeiros, limitada esta responsabilidade ao montante do quinhão
+recebido. Item errado.
+
+Item III: Na sucessão empresarial, a jurisprudência do STJ é no sentido de que a empresa sucessora é
+responsável pelos tributos devidos pela sucedida e pelas multas de mora e punitiva. Item correto.
+
+Gabarito: Letra D
+
+20. FGV/Pref. Paulínia-SP-Procurador/2016
+
+A pessoa jurídica ABC Ltda. deixou de realizar o pagamento do Imposto sobre Propriedade Predial e
+Territorial Urbana – IPTU do imóvel de sua propriedade, onde está localizada a sua sede e é seu domicílio
+fiscal. O município ajuíza execução fiscal e o oficial de justiça não encontra a pessoa jurídica ABC funcionando
+no local.
+
+Por tal motivo, a Fazenda Municipal requer a inclusão dos sócios na execução fiscal, o que foi deferido pelo
+Juiz: João, sócio majoritário, que não exerce a gerência, e José, sócio minoritário, que exerce a gerência.
+
+Sobre a responsabilidade tributária dos sócios em questão, assinale a afirmativa correta.
+
+a) Apenas José é responsável solidário pelo crédito tributário, uma vez ele exerce papel de gerência da
+sociedade e que houve dissolução irregular da pessoa jurídica ABC Ltda.
+
+b) Apenas João é responsável solidário pelos créditos tributários, uma vez que ele é o sócio majoritário da
+pessoa jurídica ABC Ltda.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            53
+         www.estrategiaconcursos.com.br                                                                      71
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+c) João e José são responsáveis tributários, uma vez que o mero inadimplemento da obrigação tributária gera
+responsabilidade solidária dos sócios, o que justifica o redirecionamento da execução.
+
+d) João e José são responsáveis tributários, uma vez que houve dissolução irregular da sociedade, o que
+justifica o redirecionamento da execução para os sócios.
+
+e) Não há responsabilidade tributária de João e de José, uma vez que não houve ato praticado com excesso
+de poder ou infração de lei, contrato social ou estatuto.
+
+Comentário: Primeiramente, é necessário saber que a Súmula 435 do STJ dispõe que se presume dissolvida
+irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos
+competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente. É o que ocorreu com
+a pessoa jurídica ABC Ltda.
+
+Quanto à responsabilidade tributária dos sócios, deve-se analisar o que exerce gestão sobre a empresa, uma
+vez que o art. 135, III, do CTN, é bem direto ao estabelecer a responsabilidade dos diretores, gerentes ou
+representantes de pessoas jurídicas de direito privado.
+
+Dessa forma, apenas José pode ser responsável pela dívida em questão. Não há erro em dizer que a
+responsabilidade é solidária, pois não houve exclusão expressa da pessoa jurídica devedora no CTN,
+conforme aprendemos na aula.
+
+Gabarito: Letra A
+
+21. FGV/SEFIN-RO-Auditor Fiscal/2018
+
+Segundo o Código Tributário Nacional, o lançamento é o procedimento pelo qual a autoridade administrativa
+verifica a ocorrência do fato gerador da obrigação tributária, determina a matéria tributável, calcula o
+montante do tributo devido, identifica o sujeito passivo e, sendo o caso, propõe a aplicação da penalidade
+cabível. Sobre o lançamento, analise as afirmativas a seguir.
+
+I. O envio do carnê de IPTU ao endereço do contribuinte configura a notificação presumida do lançamento
+do tributo.
+
+II. O lançamento pode ser revisto de ofício pela Fazenda Pública, se constatado erro em sua feitura, enquanto
+não extinto o direito de lançar.
+
+III. Ocorrendo o pagamento antecipado do ICMS por parte do contribuinte, o prazo decadencial para o
+lançamento de eventuais diferenças é de cinco anos a contar do fato gerador.
+
+Está correto o que se afirma em
+
+(A) I, apenas.
+
+(B) I e II, apenas.
+
+(C) I e III, apenas.
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         54
+         www.estrategiaconcursos.com.br                                                                   71
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+(D) II e III, apenas.
+
+(E) I, II e III.
+
+Comentário:
+
+Item I: De acordo com a Súmula 397, do STJ, basta o envio do carnê de IPTU ao endereço do contribuinte
+para restar configurada a notificação do lançamento do imposto. Item correto.
+
+Item II: Em se tratando de erro, é admitida a revisão de ofício do lançamento, desde antes de extinto o direito
+da Fazenda Pública. Item correto.
+
+Item III: Como o ICMS é um imposto lançado por homologação, e havendo o pagamento antecipado por
+parte do sujeito passivo, o prazo para o lançamento de eventuais diferenças por parte do Fisco é de cinco
+anos a contar da data do fato gerador. Item correto.
+
+Gabarito: Letra E
+
+22. FGV/COMPESA-Analista de Gestão-Advogado/2016
+
+Sobre a constituição do crédito tributário, analise as afirmativas a seguir.
+
+I. A entrega da declaração de rendimentos, seja mediante DCTF, GFIP e GIA pelo próprio contribuinte
+reconhecendo o débito fiscal, constitui o crédito tributário, dispensada qualquer outra providência por parte
+do fisco.
+
+II. O envio do carnê de cobrança do IPTU ao endereço do contribuinte constitui o crédito tributário.
+
+III. A revisão do lançamento só pode ser iniciada se não extinto pela decadência o direito de a Fazenda Pública
+lançar.
+
+Está correto o que se afirma em:
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentário:
+
+Item I: Esta é a jurisprudência pacífica do STJ, nos termos da Súmula 436: a entrega de declaração pelo
+contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra
+providência por parte do fisco. Item correto.
+
+
+            Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        55
+            www.estrategiaconcursos.com.br                                                                  71
+
+                                          https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Item II: É o que dispõe a Súmula 397 do STJ: o contribuinte do IPTU é notificado do lançamento pelo envio
+do carnê ao seu endereço. Item correto.
+
+Item III: O art. 149, par. único, do CTN, prevê que a revisão de ofício do lançamento realmente só pode ser
+iniciada se não extinto pela decadência o direito de a Fazenda Pública lançar. Item correto.
+
+Gabarito: Letra E
+
+23. FGV/Pref. Paulínia-Procurador/2016
+
+O Município X enviou para os proprietários de imóveis localizados na zona urbana o carnê do Imposto sobre
+Propriedade Predial e Territorial Urbana (IPTU).
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) O lançamento do crédito ocorreu por declaração, e o envio do carnê ao endereço do contribuinte configura
+a notificação presumida do lançamento do tributo, passível de ser ilidida pelo contribuinte, a quem cabe
+comprovar seu não recebimento.
+
+b) O lançamento do crédito ocorreu de ofício, e o envio do carnê ao endereço do contribuinte configura a
+notificação presumida do lançamento do tributo, passível de ser ilidida pelo contribuinte, a quem cabe
+comprovar seu não recebimento.
+
+c) O lançamento do crédito ocorreu de ofício, e o envio do carnê ao endereço do contribuinte somente
+configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento do carnê
+de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+d) O lançamento do crédito ocorreu por declaração, e o envio do carnê ao endereço do contribuinte somente
+configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento do carnê
+de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+e) O lançamento do crédito ocorreu por homologação, e o envio do carnê ao endereço do contribuinte
+somente configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento
+do carnê de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+Comentário:
+
+Alternativa A: O lançamento ocorreu de ofício, uma vez que não foi requisitada prestação de informações
+do sujeito passivo para a constituição do crédito tributário. Alternativa errada.
+
+Alternativa B: O lançamento ocorreu de ofício, uma vez que não foi requisitada prestação de informações
+do sujeito passivo para a constituição do crédito tributário. Ademais, o STJ já decidiu que o contribuinte do
+IPTU é notificado do lançamento pelo envio do carnê ao seu endereço. É evidente, porém, que tal presunção
+pode ser ilidida pelo contribuinte que comprove o não recebimento do carnê. Alternativa correta.
+
+Alternativa C: O lançamento ocorreu de ofício, uma vez que não foi requisitada prestação de informações
+do sujeito passivo para a constituição do crédito tributário. Ademais, o STJ já decidiu que o contribuinte do
+IPTU é notificado do lançamento pelo envio do carnê ao seu endereço. Alternativa errada.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          56
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Alternativa D: O lançamento ocorreu de ofício, uma vez que não foi requisitada prestação de informações
+do sujeito passivo para a constituição do crédito tributário. Alternativa errada.
+
+Alternativa E: O lançamento ocorreu de ofício, uma vez que não foi requisitada prestação de informações
+do sujeito passivo para a constituição do crédito tributário. Alternativa errada.
+
+Gabarito: Letra B
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                    57
+        www.estrategiaconcursos.com.br                                                              71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+                                       LISTA DE QUESTÕES
+1. CEBRASPE/PGFN-PROCURADOR/2023
+
+O STF e o STJ reconhecem a validade da tributação de rendimentos provenientes de atos ilícitos, pois a
+interpretação legal do fato gerador é feita abstraindo-se a validade jurídica dos atos praticados, a natureza
+do objeto ou os efeitos desses atos. Trata-se da aplicação do princípio tributário
+
+a) da tipicidade.
+
+b) da legalidade.
+
+c) do non olet.
+
+d) da capacidade contributiva.
+
+e) da isonomia.
+
+2. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Fulano de Tal foi condenado pela prática do ilícito de corrupção passiva, tendo sido provado o fato de ter
+recebido cerca de um milhão de reais para a realização de ato administrativo em favor de determinada
+empresa. Como parte da condenação, Fulano foi obrigado a pagar multa no valor de 2x (duas vezes) o
+montante recebido como propina. Nada obstante, Fulano foi surpreendido com autuação pela Receita
+Federal pelo não pagamento do imposto de renda sobre os proventos decorrentes da corrupção. A respeito
+dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias, que:
+
+A) não se pode falar em recebimento de proventos para fins de incidência do imposto de renda,
+considerando que Fulano foi condenado ao pagamento de multa em montante de 2x o valor recebido.
+
+B) o princípio tributário do não confisco prevê a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, mesmo nos casos de fato gerador que se refira à situação
+jurídica.
+
+C) não há que se falar em incidência de tributos em geral sobre situações consideradas ilícitas, tais como a
+situação de receitas decorrentes do recebimento de propinas por agente público.
+
+D) por se tratar de imposto sobre produto de ato ilícito, é imprescritível o crédito tributário decorrente da
+autuação apresentada pela Receita Federal.
+
+E) o princípio do non olet estabelece a possibilidade de cobrança de tributos sobre situações
+independentemente da sua validade jurídica, tais como na situação de rendas decorrentes da corrupção.
+
+3. FGV/ALEP-Procurador/2024
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          58
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+João alienou veículo a Maria, deixando, no entanto, de comunicar a venda do bem ao Departamento Estadual
+de Trânsito – DETRAN do Estado competente. A Fazenda Estadual, por sua vez, realizou a cobrança do
+Imposto sobre a Propriedade de Veículo Automotor – IPVA devido após a alienação do bem, em face do João
+e da Maria.
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) João é responsável solidário pelo pagamento do IPVA, conforme previsão do Código de Trânsito Brasileiro,
+pois a alienação do bem não foi comunicada, no prazo legal, ao órgão de trânsito.
+
+b) Somente pode ser imputado a João a responsabilidade solidária pelo pagamento do IPVA se houver
+previsão em lei específica estadual para disciplinar, no âmbito de suas competências, a sujeição passiva do
+IPVA e a solidariedade pelo pagamento do imposto.
+
+c) O Estado deve inicialmente cobrar de Maria o IPVA, pois João é responsável subsidiário pelo pagamento
+do imposto, conforme previsão do Código de Trânsito Brasileiro, já que a alienação do bem não foi
+comunicada, no prazo legal.
+
+d) A cobrança do IPVA somente pode ocorrer em face de Maria, que é a contribuinte do IPVA, independente
+de previsão em lei estadual que discipline de forma diversa a sujeição passiva do IPVA e a responsabilidade
+tributária pelo pagamento do imposto, conforme previsto no Código Tributário Nacional.
+
+e) O Estado deve inicialmente cobrar de Maria o IPVA, pois João é responsável pelo pagamento do imposto,
+conforme previsão do Código Civil Brasileiro, já que a alienação do bem não foi comunicada, a qualquer
+prazo.
+
+4. FGV/Câmara Mun. Fortaleza-Advogado/2024
+
+A Fazenda Municipal ajuizou execução fiscal em face do contribuinte Joãozinho Assistência Técnica Ltda. pelo
+não pagamento do Imposto Sobre Serviços (ISS) devido. Ao tentar citar o contribuinte, o oficial de justiça
+verificou que a empresa não estava mais localizada no seu domicílio fiscal. O Município solicitou a inclusão
+de João, sócio e administrador da Joãozinho Assistência Técnica Ltda., no polo passivo da execução fiscal, o
+que foi deferido pelo juízo.
+
+Sobre a hipótese, assinale a afirmação correta.
+
+a) Está correto o redirecionamento da execução, pois, em caso de dissolução irregular, João é pessoalmente
+responsável pelos créditos tributários.
+
+b) João somente pode ser responsabilizado se a Certidão de Dívida Ativa - CDA constar o nome de João, não
+cabendo o redirecionamento após o ajuizamento da execução fiscal.
+
+c) João não pode ser responsabilizado, pois trata-se de mero inadimplemento da obrigação tributária.
+
+d) O redirecionamento é ilegal, pois cabe ao fisco demonstrar que João agiu com excesso de poderes ou
+infração à lei, ao contrato social ou ao estatuto da empresa.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         59
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+e) João não responde pelo crédito devido pela Joãozinho Assistência Técnica Ltda., pois trata-se de empresa
+em que a responsabilidade do sócio é limitada a sua participação integralizada.
+
+5. FGV/TCE-PA-Auditor/2024
+
+Considere a seguinte situação hipotética:
+
+Maria e José eram sócios-administradores da pessoa jurídica XYZ Ltda.
+
+Em 2022, Maria alienou regularmente a totalidade de suas quotas a João, e se retirou da administração da
+sociedade. João e José passaram a ser os únicos administradores da pessoa jurídica XYZ Ltda. desde então.
+
+Em 2023, a fazenda estadual ajuizou execução fiscal em face da pessoa jurídica XYZ Ltda., visando à cobrança
+de ICMS de 2021 a 2022, quando Maria e José eram administradores da empresa.
+
+Como o oficial de justiça não conseguiu citar a empresa executada, pois não estava mais funcionando no
+local de domicílio fiscal informado às autoridades públicas, foi deferida a inclusão no polo passivo da
+execução de Maria, José e João.
+
+Sobre o caso, a jurisprudência e a legislação em vigor atribuem a responsabilidade tributária a
+
+a) João, Maria e José.
+
+b) Maria e José, apenas.
+
+c) José, apenas.
+
+d) José e João, apenas.
+
+e) Maria e João, apenas.
+
+6. FGV/ALEP-Procurador/2024
+
+A DEF Arrendamento Mercantil S.A. era proprietária de centenas de veículos automotores.
+
+Em 2019, a empresa ABC Leasing S.A. incorporou a empresa DEF Arrendamento Mercantil S.A., deixando de
+atualizar os dados registrais dos veículos automotores.
+
+Em 2022, o Estado ajuizou execução fiscal em face da DEF Arrendamento Mercantil S.A., visando à cobrança
+de Imposto sobre a Propriedade de Veículos Automotores – IPVA, multa de mora e multa punitiva, do ano
+de 2018.
+
+Sobre a hipótese, nos termos do Código Tributário Nacional e de acordo com a jurisprudência dos tribunais
+superiores, assinale a afirmativa correta.
+
+a) A responsabilidade tributária da ABC Leasing S.A. abrange não apenas o IPVA devido pela DEF
+Arrendamento Mercantil S.A., mas também as multas moratórias ou punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          60
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+a alteração do polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA,
+sendo necessária, no caso, nova emissão de Certidão de Dívida Ativa (CDA) e nova propositura da ação,
+conforme Súmula 392, do STJ.
+
+b) A responsabilidade tributária da ABC Leasing S.A. abrange apenas o IPVA devido pela DEF Arrendamento
+Mercantil S.A., não incluindo as multas moratórias e punitivas referentes a fatos geradores ocorridos até a
+data da sucessão, não sendo, todavia, necessária, na hipótese, a alteração do ato de lançamento quando o
+fato gerador ocorreu depois da incorporação e o lançamento foi realizado contra a contribuinte originária.
+
+c) A responsabilidade tributária da ABC Leasing S.A. abrange não apenas o IPVA devido pela DEF
+Arrendamento Mercantil S.A., mas também as multas de mora e punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, necessária, na hipótese, a alteração do ato de
+lançamento quando o fato gerador ocorreu depois da incorporação e o lançamento foi realizado contra a
+contribuinte originária.
+
+d) A responsabilidade tributária da ABC Leasing S.A. abrange apenas o IPVA e a multa moratória devidos
+pela DEF Arrendamento Mercantil S.A., não incluindo as multas punitivas referentes a fatos geradores
+ocorridos até a data da sucessão, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com
+a alteração do polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA,
+sendo necessária, no caso, nova emissão de CDA e nova propositura da ação, conforme Súmula 392, do STJ.
+
+e) A responsabilidade tributária da ABC Leasing S.A. somente abrange o IPVA, as multas moratória e
+punitivas devidos pela DEF Arrendamento Mercantil S.A. caso seja demonstrada fraude, dolo ou simulação
+na incorporação, não sendo, todavia, cabível a substituição da certidão de dívida ativa, com a alteração do
+polo passivo, na hipótese de incorporação empresarial ocorrida antes do fato gerador do IPVA, sendo
+necessária, no caso, nova emissão de CDA e nova propositura da ação, conforme Súmula 392, do STJ.
+
+7. FGV/ALETO-Procurador Jurídico/2024
+
+Caio e Tício eram sócios e gerentes da pessoa jurídica XYZ. Em 2017, XYZ deixou de recolher o Imposto sobre
+a Propriedade de Veículos Automotores – IPVA incidente sobre veículo automotor de sua propriedade.
+
+Em 2018, a Fazenda Estadual ajuizou execução fiscal visando à cobrança dos créditos de IPVA. No mesmo
+ano, XYZ foi citada e apresentou exceção de pré-executividade que não foi acolhida. Em 2020, Caio e Tício se
+retiraram da sociedade e Mévio e Maria passaram a ser sócios e gerentes de XYZ.
+
+Em 2023, no curso da tramitação do feito, ao tentar penhorar bens de propriedade de XYZ, o Oficial de Justiça
+verificou, após diversas tentativas, que a sociedade empresária não estava mais funcionando no local
+indicado aos órgãos competentes como seu domicílio fiscal.
+
+Em 2024, a Fazenda Estadual solicitou a inclusão de Caio, Tício, Mévio e Maria no polo passivo da execução
+fiscal.
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) A citação positiva de XYZ provocou, por si só, o início do prazo prescricional para o redirecionamento da
+execução fiscal para os sócios-gerentes.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          61
+        www.estrategiaconcursos.com.br                                                                    71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+b) O redirecionamento da execução fiscal, fundado na dissolução irregular de XYZ, não pode ser autorizado
+contra Mévio e Maria, pois eles não exerciam poderes de gerência quando ocorrido o fato gerador do tributo
+não adimplido.
+
+c) O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-gerentes é a data da prática
+de ato inequívoco indicador do intuito de inviabilizar a satisfação do crédito tributário já em curso de
+cobrança executiva promovida contra XYZ, a ser demonstrado pelo fisco estadual.
+
+d) Aplica-se, no caso, o prazo de redirecionamento da execução fiscal para os sócios-gerentes Caio e Tício,
+fixado em cinco anos, contados da dissolução irregular.
+
+e) A decretação da prescrição para o redirecionamento dos sócios-gerentes, após o decurso do prazo,
+poderá ser feita de ofício, independentemente de a Fazenda Estadual ter promovido atos de impulsão
+processual.
+
+8. CEBRASPE/Ana (FINEP)/FINEP/Jurídica/2024
+
+A respeito da responsabilidade tributária, julgue os itens seguintes.
+
+I A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em
+outra é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas de direito privado
+fusionadas, transformadas ou incorporadas.
+
+II Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem
+comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-
+gerente.
+
+III A mera devolução de carta de citação com aviso de recebimento negativo não é suficiente para a
+configuração da dissolução irregular da pessoa jurídica.
+
+IV Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse
+de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a
+contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do
+título a prova de sua quitação.
+
+Assinale a opção correta.
+
+a) Apenas os itens I e II estão certos.
+
+b) Apenas os itens I e IV estão certos.
+
+c) Apenas os itens II e III estão certos.
+
+d) Apenas os itens III e IV estão certos.
+
+e) Todos os itens estão certos.
+
+9. FGV/Ana GM (Pref SJC)/Pref SJC/Direito/2024
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           62
+         www.estrategiaconcursos.com.br                                                                     71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+Leia o fragmento a seguir.
+
+ De acordo com o Código Tributário Nacional e a jurisprudência sobre o assunto, os         são pessoalmente
+responsáveis pelos créditos correspondentes a obrigações tributárias resultantes             .
+
+Assinale a opção cujos itens completam corretamente as lacunas do fragmento lido.
+
+a) sócios de pessoa jurídica de direito privado sem poderes de administração – do mero inadimplemento da
+obrigação tributária.
+
+b) sócios-gerentes de pessoa jurídica de direito privado – do mero inadimplente da obrigação tributária.
+
+c) sócios de pessoa jurídica de direito privado, ainda que sem poderes de administração – da dissolução
+irregular da pessoa jurídica.
+                                                         ==219a34==
+
+
+
+
+d) sócios-gerentes de pessoa jurídica de direito privado – da dissolução irregular da pessoa jurídica.
+
+e) sócios de pessoa jurídica de direito privado, ainda que sem poderes de administração – da prática de atos
+com excesso de poderes ou infração à lei, ao contrato social ou estatuto social.
+
+10. VUNESP/Agente Fiscal (Pref Piracicaba)/Rendas/2022
+
+Carlos foi sócio quotista da sociedade limitada ABC Ltda. entre 2019 e 2020, sem jamais ter participado da
+sua administração. Jonas foi Diretor Financeiro da mesma empresa, entre 2018 e 2021, sem, contudo, ter
+sido sócio da empresa em qualquer momento. Fabrício, por sua vez, foi sócio e Diretor-Presidente da ABC
+Ltda. entre 2018 e 2021. Em janeiro de 2022, o Fisco municipal autuou a sociedade por ausência de
+recolhimento de impostos e taxas municipais entre 2020 e 2021, ausência essa que era do conhecimento de
+todos os sócios e administradores da empresa, em razão da grave situação financeira pela qual ela passou
+neste biênio de pandemia e crise econômica mundial.
+
+A respeito dessa situação hipotética, é correto afirmar, com base na legislação e jurisprudência tributárias
+nacionais, que
+
+A) Jonas pode ser responsabilizado pessoalmente pela dívida tributária da sociedade, uma vez que detinha
+poderes de decisão sobre o pagamento ou não dos tributos devidos.
+
+B) Carlos pode ser responsabilizado subsidiariamente pela dívida tributária da sociedade, uma vez que se
+trata de sociedade de pessoas.
+
+C) Fabrício pode ser responsabilizado pessoalmente pela dívida tributária da sociedade, em decorrência da
+sua posição como sócio e Diretor-Presidente.
+
+D) a situação de grave perturbação da economia global resulta em excludente da ilicitude tributária para fins
+de aplicação de eventual multa moratória.
+
+E) o inadimplemento da obrigação tributária, ainda que de seu conhecimento, não gera, por si só, a
+responsabilidade solidária de Fabrício.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           63
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+11. CEBRASPE/PGM-Mossoró-Procurador/2024
+
+Acerca da constituição e da cobrança do crédito tributário, observada a jurisprudência dos tribunais
+superiores, julgue os item seguinte.
+
+O crédito tributário constitui-se a partir da entrega de declaração de reconhecimento do débito fiscal pelo
+contribuinte sucedida, necessariamente, da verificação pelo fisco.
+
+12. CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+de 1988 e na jurisprudência dos tribunais superiores.
+
+A partir do momento em que João efetuou o depósito judicial em dinheiro do crédito cobrado, foi suspensa
+a exigibilidade desse crédito tributário.
+
+13. CEBRASPE/PGM-SP-Procurador/2023
+
+A respeito da responsabilidade de sócios e administradores em relação à cobrança do crédito tributário,
+assinale a opção correta conforme a jurisprudência dos tribunais superiores.
+
+a) Quando empresa deixa de funcionar no respectivo domicílio fiscal, sem comunicar às autoridades
+competentes, há presunção absoluta da sua dissolução irregular, sendo cabível o redirecionamento das
+execuções fiscais aos sócios-gerentes, no que caracterizada infração à lei.
+
+b) A falta de pagamento de tributo pela sociedade é causa suficiente para se pleitear a responsabilidade
+subsidiária dos seus sócios.
+
+c) É cabível o redirecionamento da execução fiscal contra sócio que, ainda que se tenha retirado
+regularmente da empresa e não tenha concorrido para sua posterior dissolução irregular, haja exercido
+poderes de administração ao tempo dos fatos geradores dos tributos cobrados no feito executivo.
+
+d) O redirecionamento da execução fiscal somente alcançará os sócios que exercessem poderes de
+administração quando da constituição do fato gerador do tributo cobrado e, concomitantemente, da
+dissolução irregular da empresa.
+
+e) É cabível o redirecionamento da execução fiscal contra sócio que exercesse poderes de administração na
+data em que se configurou a dissolução irregular da sociedade, ainda que ele não tenha exercido os mesmos
+poderes quando ocorrido o fato gerador do tributo não adimplido.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         64
+        www.estrategiaconcursos.com.br                                                                   71
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+
+14. CEBRASPE/PGFN-PROCURADOR/2023
+
+Determinada pessoa jurídica foi dissolvida irregularmente no curso de ação de execução fiscal ajuizada
+contra ela pela PGFN. João, sócio que não detinha poder de direção à época da dissolução irregular, exercia
+poderes de gerência quando da ocorrência do fato gerador do tributo cobrado na execução fiscal.
+
+Considerando essa situação hipotética, julgue os itens a seguir, de acordo com a jurisprudência do Superior
+Tribunal de Justiça (STJ).
+
+I O fato de João ter atuado em cargo de direção no momento da ocorrência do fato gerador do tributo
+cobrado é motivo suficiente para que a execução fiscal possa ser redirecionada contra ele.
+
+II A execução fiscal não poderá ser redirecionada contra João se ficar demonstrado que ele não contribuiu
+para a dissolução irregular, não agiu com excesso de poder nem cometeu infração à lei ou ao contrato social.
+
+III A execução fiscal poderá ser redirecionada contra João se ficar provado que ele atuou com excesso de
+poder ou cometeu infração à lei, ainda que se tenha retirado do cargo de direção antes da dissolução
+irregular da empresa.
+
+Assinale a opção correta.
+
+a) Apenas o item I está certo.
+
+b) Apenas o item III está certo.
+
+c) Apenas os itens I e II estão certos.
+
+d) Apenas os itens II e III estão certos.
+
+e) Todos os itens estão certos.
+
+15. CEBRASPE/MPE-SC-PROMOTOR/2023
+
+Acerca da responsabilidade tributária, julgue o item que se seguem.
+
+Em caso de sucessão empresarial, a responsabilidade da empresa sucessora abrangerá os tributos devidos
+pela sucedida, excluídas as multas moratórias ou punitivas referentes a fatos geradores ocorridos até a data
+da sucessão.
+
+16. CEBRASPE/SEFAZ-RR-AUDITOR/2021
+
+A responsabilidade, na área tributária, determina quem é obrigado a efetuar o pagamento de tributo ou
+penalidade pecuniária.
+
+No que se refere a esse assunto, assinale a opção correta.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        65
+         www.estrategiaconcursos.com.br                                                                  71
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 04
+
+
+
+a) Um exemplo de responsabilidade de devedor solidário é a transmissão onerosa de bens imóveis para o
+comprador desse bem.
+
+b) Ocorre um exemplo de responsabilidade por transferência quando dois contribuintes importam
+conjuntamente um bem e um deles efetua o pagamento do tributo, extinguindo a obrigação tributária com
+relação ao outro.
+
+c) Constitui um exemplo de responsabilidade de terceiro devedor a hipótese de tabelião que, no exercício
+de seu ofício, tiver deixado, por omissão, de exigir do contribuinte o recolhimento do ITCMD quando
+finalizado o inventário extrajudicial no cartório.
+
+d) Constitui um exemplo de responsabilidade pessoal a hipótese de filhos menores não pagarem os tributos
+devidos e seus pais se tornarem os responsáveis.
+
+e) A falta de pagamento de tributo devido pela pessoa jurídica por ausência de dinheiro é suficiente para
+configurar reponsabilidade por infração, o que permite o redirecionamento da dívida tributária para o sócio-
+gerente.
+
+17. CEBRASPE/MPE-SC-PROMOTOR/2023
+
+Um contribuinte, por falta de capital de giro e sabendo dos altos juros cobrados por instituições financeiras,
+adotou a prática de registrar, nos livros contábeis e fiscais, todas as transações comerciais sobre as quais
+incide o ICMS, declarando ao fisco os referidos tributos como devidos. Entretanto, mesmo já tendo cobrado
+os valores do consumidor final, não realizou, entre os anos de 2013 a 2015, os recolhimentos na data devida.
+
+Considerando essa situação hipotética e as legislações pertinentes, julgue o item subsequente.
+
+Na situação em apreço, a constituição definitiva do crédito se deu com as declarações feitas pelo contribuinte
+por meio dos registros fiscais e contábeis encaminhados ao fisco.
+
+18. CEBRASPE/PGM-SP-Procurador/2023
+
+Acerca do crédito tributário e das obrigações tributárias, julgue os itens a seguir.
+
+I A obrigação tributária principal refere-se ao dever de pagar o tributo original, enquanto o dever de pagar
+juros e correção é considerado uma obrigação tributária acessória.
+
+II A multa tributária não é considerada um tributo em si, mas a obrigação de pagá-la possui natureza
+tributária.
+
+III A entrega de declaração pelo contribuinte reconhecendo débito fiscal não constitui automaticamente o
+crédito tributário, podendo ser necessárias outras providências por parte do fisco para formalizar a cobrança.
+
+IV No lançamento por homologação, também denominado autolançamento, quaisquer atos anteriores à
+homologação, realizados pelo sujeito passivo ou por terceiros, com o objetivo de extinguir total ou
+parcialmente o crédito tributário, não têm influência sobre a obrigação tributária.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           66
+        www.estrategiaconcursos.com.br                                                                     71
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+Assinale a opção correta.
+
+a) Apenas o item II está certo.
+
+b) Apenas os itens I e III estão certos.
+
+c) Apenas os itens I e IV estão certos.
+
+d) Apenas os itens II e IV estão certos.
+
+e) Todos os itens estão certos.
+
+19. FGV/SEFIN-RO-Técnico Tributário/2018
+
+Com relação à responsabilidade tributária, analise as afirmativas a seguir.
+
+I. O promitente adquirente de um imóvel só se torna responsável pelo IPTU após a devida averbação do
+título no Registro de Imóvel, momento em que ocorre a transferência de propriedade.
+
+II. Encerrado o inventário com a partilha de bens, eventual débito, posteriormente aferido, não poderá mais
+ser cobrado do espólio e dos herdeiros.
+
+III. A empresa sucessora, resultante de fusão, é responsável pelos tributos devidos pela sucedida e pelas
+multas de mora e punitiva.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) I e II, apenas.
+
+d) III, apenas.
+
+e) II e III, apenas.
+
+20. FGV/Pref. Paulínia-SP-Procurador/2016
+
+A pessoa jurídica ABC Ltda. deixou de realizar o pagamento do Imposto sobre Propriedade Predial e
+Territorial Urbana – IPTU do imóvel de sua propriedade, onde está localizada a sua sede e é seu domicílio
+fiscal. O município ajuíza execução fiscal e o oficial de justiça não encontra a pessoa jurídica ABC funcionando
+no local.
+
+Por tal motivo, a Fazenda Municipal requer a inclusão dos sócios na execução fiscal, o que foi deferido pelo
+Juiz: João, sócio majoritário, que não exerce a gerência, e José, sócio minoritário, que exerce a gerência.
+
+Sobre a responsabilidade tributária dos sócios em questão, assinale a afirmativa correta.
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            67
+         www.estrategiaconcursos.com.br                                                                      71
+
+                                       https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+a) Apenas José é responsável solidário pelo crédito tributário, uma vez ele exerce papel de gerência da
+sociedade e que houve dissolução irregular da pessoa jurídica ABC Ltda.
+
+b) Apenas João é responsável solidário pelos créditos tributários, uma vez que ele é o sócio majoritário da
+pessoa jurídica ABC Ltda.
+
+c) João e José são responsáveis tributários, uma vez que o mero inadimplemento da obrigação tributária gera
+responsabilidade solidária dos sócios, o que justifica o redirecionamento da execução.
+
+d) João e José são responsáveis tributários, uma vez que houve dissolução irregular da sociedade, o que
+justifica o redirecionamento da execução para os sócios.
+
+e) Não há responsabilidade tributária de João e de José, uma vez que não houve ato praticado com excesso
+de poder ou infração de lei, contrato social ou estatuto.
+
+21. FGV/SEFIN-RO-Auditor Fiscal/2018
+
+Segundo o Código Tributário Nacional, o lançamento é o procedimento pelo qual a autoridade administrativa
+verifica a ocorrência do fato gerador da obrigação tributária, determina a matéria tributável, calcula o
+montante do tributo devido, identifica o sujeito passivo e, sendo o caso, propõe a aplicação da penalidade
+cabível. Sobre o lançamento, analise as afirmativas a seguir.
+
+I. O envio do carnê de IPTU ao endereço do contribuinte configura a notificação presumida do lançamento
+do tributo.
+
+II. O lançamento pode ser revisto de ofício pela Fazenda Pública, se constatado erro em sua feitura, enquanto
+não extinto o direito de lançar.
+
+III. Ocorrendo o pagamento antecipado do ICMS por parte do contribuinte, o prazo decadencial para o
+lançamento de eventuais diferenças é de cinco anos a contar do fato gerador.
+
+Está correto o que se afirma em
+
+(A) I, apenas.
+
+(B) I e II, apenas.
+
+(C) I e III, apenas.
+
+(D) II e III, apenas.
+
+(E) I, II e III.
+
+22. FGV/COMPESA-Analista de Gestão-Advogado/2016
+
+Sobre a constituição do crédito tributário, analise as afirmativas a seguir.
+
+
+
+
+            Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                      68
+            www.estrategiaconcursos.com.br                                                                71
+
+                                          https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 04
+
+
+
+I. A entrega da declaração de rendimentos, seja mediante DCTF, GFIP e GIA pelo próprio contribuinte
+reconhecendo o débito fiscal, constitui o crédito tributário, dispensada qualquer outra providência por parte
+do fisco.
+
+II. O envio do carnê de cobrança do IPTU ao endereço do contribuinte constitui o crédito tributário.
+
+III. A revisão do lançamento só pode ser iniciada se não extinto pela decadência o direito de a Fazenda Pública
+lançar.
+
+Está correto o que se afirma em:
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+23. FGV/Pref. Paulínia-Procurador/2016
+
+O Município X enviou para os proprietários de imóveis localizados na zona urbana o carnê do Imposto sobre
+Propriedade Predial e Territorial Urbana (IPTU).
+
+Sobre a hipótese, assinale a afirmativa correta.
+
+a) O lançamento do crédito ocorreu por declaração, e o envio do carnê ao endereço do contribuinte configura
+a notificação presumida do lançamento do tributo, passível de ser ilidida pelo contribuinte, a quem cabe
+comprovar seu não recebimento.
+
+b) O lançamento do crédito ocorreu de ofício, e o envio do carnê ao endereço do contribuinte configura a
+notificação presumida do lançamento do tributo, passível de ser ilidida pelo contribuinte, a quem cabe
+comprovar seu não recebimento.
+
+c) O lançamento do crédito ocorreu de ofício, e o envio do carnê ao endereço do contribuinte somente
+configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento do carnê
+de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+d) O lançamento do crédito ocorreu por declaração, e o envio do carnê ao endereço do contribuinte somente
+configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento do carnê
+de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+e) O lançamento do crédito ocorreu por homologação, e o envio do carnê ao endereço do contribuinte
+somente configura a notificação do lançamento do tributo se o Fisco comprovar a remessa e o recebimento
+do carnê de cobrança no endereço do contribuinte, sob pena de nulidade da CDA.
+
+
+
+            Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        69
+            www.estrategiaconcursos.com.br                                                                  71
+
+                                          https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 04
+
+
+
+
+                                                GABARITO
+ 1. C
+ 2. E
+ 3. B
+ 4. A
+ 5. D
+ 6. C
+ 7. C
+ 8. E
+ 9. D
+ 10. E
+ 11. Errado
+ 12. Certo
+ 13. E
+ 14. D
+ 15. Errado
+ 16. C
+ 17. Certo
+ 18. D
+ 19. D
+ 20. A
+ 21. E
+ 22. E
+ 23. B
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   70
+      www.estrategiaconcursos.com.br                                             71
+
+                                    https://t.me/KakashiAssinaturasBot
+

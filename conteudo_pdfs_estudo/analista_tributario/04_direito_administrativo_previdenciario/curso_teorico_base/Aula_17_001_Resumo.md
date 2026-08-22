@@ -1,0 +1,189 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 17_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '17'
+titulo_aula: Improbidade Administrativa – Lei 8.429/1992
+artigos_citados:
+- art. 10
+- art. 11
+- art. 9º
+---
+
+# Improbidade Administrativa – Lei 8.429/1992
+
+@professordaud
+
+
+Improbidade Administrativa – Lei 8.429/1992
+
+                              importam enriquecimento
+                                                                            art. 9º
+                                       ilícito                                            Rol
+                                                                                      exemplificativo
+ Categorias de atos
+  de Improbidade              causam prejuízo ao erário                    art. 10
+   Administrativa
+                                  atentam contra os
+                                     princípios da                         art. 11
+                                administração pública
+
+                 atos de improbidade que causam prejuízo ao erário
+
+                                                                dano efetivo e
+                       dolo                   +
+                                                                 comprovado
+
+                           
+
+
+---
+
+@professordaud
+
+                                                                                  dolo
+                                           dependem de
+                                                                          lesividade relevante
+      atos de improbidade que
+          violam princípios                                              produção de danos ao
+                                                                                erário
+                                         não dependem de
+                                                                        enriquecimento ilícito do
+                                                                             agente público
+
+                             exigido em todas as categorias
+                                                                                não basta a
+                          dolo é a vontade livre e consciente de
+                                                                             voluntariedade do
+                       alcançar o resultado ilícito tipificado na LIA
+                                                                                  agente
+                        somente haverá improbidade quando for
+                          comprovado o fim de obter benefício
+ dolo nos atos de                      indevido
+  improbidade
+                            mero exercício da função, sem                         afasta a
+                       comprovação de ato doloso com fim ilícito              responsabilidade
+
+                                                                               ainda que não
+                       não configura improbidade a divergência                   pacificada
+                               de interpretação da lei,                       mesmo que não
+                              baseada em jurisprudência                     seja posteriormente
+                                                                                prevalecente
+
+                           
+
+
+---
+
+@professordaud
+
+                         Agente público
+                           (sentido amplo)
+ sujeitos ativos
+
+                   equiparado a agente público,               convênio, contrato de repasse ou ajuste
+                         pela celebração de                                equivalente
+
+                                                                              INDUZIDO à prática do
+                                                                                ato de improbidade
+                                                             desde que
+                            Particular
+                                                               tenha
+                                                                                  CONCORRIDO
+                                                                              dolosamente para o ato
+
+                                   
+
+
+---
+
+@professordaud
+
+       Enriquecimento ilícito                 Prejuízo ao erário              Violação a princípio
+
+                                         Perda dos bens acrescidos
+    Perda dos bens acrescidos
+                                          ilicitamente (se ocorrer esta                 -
+           ilicitamente
+                                                  circunstância)
+                       ressarcimento integral do dano (se houver dano efetivo)
+
+     perda da função pública              perda da função pública                       -
+
+ suspensão dos direitos políticos         suspensão dos direitos
+                                                                                        -
+        de até 14 anos                    políticos de até 12 anos
+                                                                          multa civil de até 24 vezes a
+  multa civil igual ao acréscimo        multa civil igual ao dano ao
+                                                                           remuneração do agente
+ patrimonial (aumentável até o dobro)   erário (aumentável até o dobro)
+                                                                             (aumentável até o dobro)
+
+                                 
+
+
+---
+
+@professordaud
+
+
+proibição de contratar com Poder proibição de contratar com o proibição de contratar com o
+Público ou receber benefícios por  Poder Público ou receber     Poder Público ou receber
+           até 14 anos            benefícios por até 12 anos    benefícios por até 4 anos
+
+                            
+
+
+---
+
+@professordaud
+
+                 
+
+
+---
+
+@professordaud
+
+                 
+
+
+---
+
+@professordaud
+
+
+                                                              ocorrência do fato
+                           Prazo de 8 anos,
+                         contados a partir da                Da cessação (infrações
+                                                                 permanentes)
+
+                      ressarcimento ao erário por
+                                                                 imprescritível
+                      ato doloso de improbidade
+
+                                                                    4 anos
+         Prescrição
+                                                                 de ofício ou a
+                       prescrição intercorrente
+                                                                requerimento
+
+                                                              oitiva prévia do MP
+
+                                                              365 dias + 365 dias
+                             inquérito civil
+                                                              Após tal prazo, ação
+                                                            proposta em até 30 dias
+
+                       
+
+
+---

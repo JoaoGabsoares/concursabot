@@ -1,0 +1,2465 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 17_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: GESTÃO DO DESEMPENHO
+---
+
+# GESTÃO DO DESEMPENHO
+
+---
+
+---
+
+GESTÃO DO DESEMPENHO
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+Desempenho
+Conceito
+
+      DESEMPENHO        MOTIVAÇÃO                           CAPACIDADE   OPORTUNIDADE
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                           
+
+
+---
+
+Desempenho
+Conceito
+
+         DESEMPENHO                  ESFORÇOS                RESULTADOS
+
+         DESEMPENHO                  ESFORÇOS                RESULTADOS
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Desempenho
+Conceito
+
+                        COMPORTAMENTO
+                                                                             CONTEXTO DE
+     DESEMPENHO                                              PRODUTIVIDADE
+                                                                              TRABALHO
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Desempenho
+Comportamentos que Constituem o Desempenho
+
+                                                 desempenho dos deveres e responsabilidades que contribuem
+                          Desempenho de
+                                                     para a produção de um bem ou serviço, ou para tarefas
+                              tarefa
+                                                                       administrativas.
+           03
+                                                       ações que contribuem para o ambiente psicológico da
+    comportamentos          Cidadania
+                                                                           organização
+       principais
+
+                        Contraprodutividade              ações que prejudicam ativamente a organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Desempenho
+Motivação x Desempenho
+
+
+                        sistema de recompensas e punições da organização
+
+
+                             estilo gerencial utilizado pela organização
+      fatores de
+    mediação entre
+                          qualidade do ambiente psicossocial do trabalho
+     motivação e
+     desempenho
+                        convergência entre os valores organizacionais e os
+                                valores “pessoais” do funcionário
+
+
+                           o “significado” do trabalho para o funcionário
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (CESPE – INMETRO – Analista Executivo - ADAPTADA)
+Entende-se por desempenho o direcionamento dos esforços empreendidos em
+relação aos resultados a serem alcançados, em outras palavras, desempenho
+consiste na soma de aspectos relativos a esforços e aspectos relativos a resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – TC-DF – Analista de Administração Pública)
+O significado do trabalho, o sistema de recompensas da organização, o estilo
+gerencial e o ambiente psicossocial de trabalho são aspectos que interferem na
+relação entre motivação e desempenho humano.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Gestão do Desempenho
+Gestão do Desempenho x Avaliação de Desempenho
+
+
+                                               Planejamento
+
+                                                GESTÃO DO
+                        Retroação              DESEMPENHO                Acompanhamento
+
+                                                Avaliação de
+                                                Desempenho
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Gestão do Desempenho
+Fases da Gestão do Desempenho
+                                                        1 - Negociação do desempenho
+              É a primeira fase do processo de gestão do desempenho. Trata-se da fase onde define-se o desempenho esperado dos
+                indivíduos (traçam-se as “metas”), e são especificadas as atribuições, atividades e tarefas que o indivíduo executa.
+
+                                                    2 - Análise da capacitação profissional
+                Nessa fase, o gestor deve analisar se os subordinados possuem as qualificações necessárias ao cumprimento das
+                                                                    tarefas.
+
+                                                    3 - Acompanhamento do desempenho
+               Trata-se da fase em que ocorrem reuniões periódicas entre os gestores e os subordinados, com o objetivo de analisar o
+                                                andamento dos trabalhos e os resultados obtidos.
+
+                                                         4 – Avaliação do desempenho
+              Essa é a etapa de “conclusão” do processo. Com base nas metas estabelecidas e nas informações levantadas, o gestor
+                                        realiza o seu “parecer final” sobre o desempenho dos indivíduos.
+
+                                                             5 - Comprometimento
+              O comprometimento consiste no resultado da aprovação, da aceitação e do empenho dos indivíduos em aderirem a algo que foi
+Prof. Stefan Fantini                                     considerado necessário e construtivo.
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (FCC – TRE-CE – Analista Judiciário)
+Um processo de gestão do desempenho deve abranger cinco fases:
+a) definição dos índices de produtividade, definição dos padrões de qualidade,
+definição das métricas, comparação com os resultados apresentados e definição de
+ações de recursos humanos.
+b) definição do formulário de avaliação de desempenho, treinamento dos gestores,
+entrevista de feedback, elaboração do plano de desenvolvimento e atribuição de
+notas.
+c) valiação das atribuições, definição da capacitação profissional, estabelecimento
+de metas, divulgação das metas e sua avaliação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRE-CE – Analista Judiciário)
+(...)
+d) negociação do desempenho, análise da capacitação profissional,
+acompanhamento do desempenho, avaliação dos resultados e comprometimento.
+e) definição dos objetivos estratégicos, análise do perfil dos colaboradores, definição
+das oportunidades de desenvolvimento, aplicação de ações de treinamento e
+verificação dos resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Avaliação de Desempenho
+Conceito
+
+ A avaliação de desempenho consiste em um instrumento gerencial de análise e
+ mensuração sistemática do desempenho dos indivíduos, que permite identificar se os
+ indivíduos estão atingindo as metas e objetivos esperados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Avaliação de Desempenho
+Dimensões
+
+                                  Desenvolvimento
+
+                                    Dimensões da
+                                     Avaliação de
+                                     Desempenho
+
+                        Esforço                    Comportamento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+                        (CESPE – BACEN – Técnico)
+Segundo Dutra (2002), o desempenho de uma pessoa divide-se em três dimensões
+— desenvolvimento, esforço e comportamento —, que interagem entre si e que
+devem ser avaliadas de maneiras diferenciadas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Avaliação de Desempenho
+Aplicações e Propósitos da Avaliação de Desempenho
+
+                        Auxilia o gestor a tomar decisões em relação a promoções, aumento salariais,
+                         transferências de funcionários e, muitas vezes, demissões de funcionários
+      resultados
+   utilizados para      Auxilia o gestor na elaboração e fornecimento de programas de treinamento e
+      subsidiar o                                     desenvolvimento
+      gestor em
+   diversos outros
+    processos da                  Auxilia o gestor na elaboração de programas de carreira
+     organização
+
+                                 Auxilia o gestor no recrutamento e seleção de funcionários
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                          Processos de agregar pessoas
+
+                          Processos de aplicar pessoas
+
+     06
+ processos              Processos de recompensar pessoas
+ básicos da
+ Gestão de              Processos de desenvolver pessoas
+  Pessoas
+
+                          Processos de manter pessoas
+
+                         Processos de monitorar pessoas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+                        (FGV – COMPESA – Analista de Gestão - 2018)
+Interessada em verificar o desempenho dos ocupantes de cada cargo, a gestora de
+Recursos Humanos, decidiu realizar uma avaliação 360 graus, processo que
+possibilita a obtenção de uma opinião múltipla sobre cada colaborador.
+Com base nos processos típicos da gestão de pessoas, a ação da gestora representa
+um processo de
+a) monitorar pessoas.
+b) agregar pessoas.
+c) aplicar pessoas.
+d) manter pessoas.
+e) desenvolver pessoas.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (ESAF – MF – Analista de Finanças e Controle)
+A Gestão de Pessoas envolve e integra seis processos organizacionais vinculados
+entre si e utilizados de forma sistêmica. O processo de aplicar pessoas está
+relacionado a:
+a) Remuneração, Sistemas de Informações Gerenciais e Seleção.
+b) Desenho de Cargos e Avaliação de Desempenho.
+c) Disciplina, Treinamento e Remuneração.
+d) Recrutamento e Treinamento.
+e) Mudanças e Comunicações.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (QUADRIX – SERPRO – Analista)
+O valor mensurável que a força de trabalho da organização traz para a organização em
+termos de habilidades ou competências coletivas e a motivação das pessoas é o que aqui
+denominamos de gestão do desempenho humano. Referindo-se à avaliação do
+desempenho humano, aponte a opção que contenha as aplicações e propósitos dos
+processos de aplicar pessoas.
+a) Indica se as pessoas estão sendo motivadas e recompensadas pela organização.
+b) Indica os pontos fortes e fracos de cada pessoa, quais os colaboradores que
+necessitam de treinamento e quais os resultados dos programas de treinamento.
+c )Indica o desempenho e os resultados alcançados pelas pessoas.
+d) Proporciona retroação às pessoas a respeito de seu desempenho e potencialidades de
+desenvolvimento.
+e) Proporciona informação sobre como as pessoas estão integradas e identificadas com
+seus cargos, tarefas e competências.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Avaliação de Desempenho
+Objetivos                      Definir o grau de “contribuição” do indivíduo (ou dos grupos) para os resultados da organização
+
+                                          Fornecer feedback aos funcionários sobre os seus trabalhos e resultados
+
+                                  Identificar se os funcionários precisam de aperfeiçoamento, treinamento ou reciclagem
+
+                                           Servir como subsídio ao processo de treinamento e desenvolvimento
+
+                                           Facilitar o autodesenvolvimento e autoconhecimento dos funcionários
+
+                         Esclarecer aos funcionários o que a organização espera de seus trabalhos (ou seja, diminui as incertezas).
+
+          Objetivos da                                  Auxiliar os gestores na tomada de decisões
+          Avaliação de
+          Desempenho                                  Subsidiar programas de recrutamento e seleção
+
+                             Servir como subsídio para promoções, aumentos salariais, transferências e até mesmo demissões
+
+                                                           Subsidiar programas de meritocracia
+
+                                             Permitir uma maior comunicação entre gestores e subordinados
+
+                                                             Reforçar os resultados positivos
+
+                                                    Permitir descobrir “novos talentos” na organização
+Prof. Stefan Fantini
+ @prof.stefan.fantini                                      Fornecer meios objetivos de avaliação
+                                           
+
+
+---
+
+                        (IBFC – EBSERH – Analista Administrativo)
+Desempenho humano é o ato ou efeito de cumprir ou executar determinada missão ou
+meta previamente traçada. Leia abaixo as sentenças sobre avaliação de desempenho
+(AD) e assinale a alternativa correta:
+I. A avaliação de desempenho é um instrumento gerencial que permite ao administrador
+mensurar os resultados obtidos por um empregado ou por um grupo, em período e área
+específicos (conhecimentos,metas, habilidades).
+II. Entre as diversas utilidades encontradas na avaliação de desempenho destacamos:
+identificar empregados que precisam de aprimoramento, definir o grau de contribuição
+(individual ou grupal) nos resultados da empresa, descobrir novos talentos, facilitar o
+auto desenvolvimento.
+III. Fornecer feedback aos empregados e subsidiar programas de mérito, promoções e
+transferências, são algumas utilidades do instrumento de avaliação de desempenho.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IBFC – EBSERH – Analista Administrativo)
+(...)
+a) A afirmativa I está incorreta e as afirmativas II e III estão corretas.
+b) A afirmativa II está incorreta e as afirmativas I e III estão corretas.
+c) A afirmativa III está incorreta e as afirmativas I e II estão corretas.
+d) Todas as afirmativas estão corretas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                   
+
+
+---
+
+Avaliação de Desempenho
+Campos de Influência
+
+
+                O Querer e o      o avaliador precisa querer realizar a avaliação de desempenho e precisa querer
+                    Saber          realizá-la com imparcialidade. Além disso, é necessário que o avaliador tenha o
+                  (Variável      conhecimento (saber) das técnicas e dos possíveis erros/vieses e armadilhas que
+                  Volitiva)                         podem ocorrer em um processo de avaliação.
+
+
+    03            As Metas
+ campos /         (Variável      Se refere aos objetivos (principais e secundários) da avaliação de desempenho.
+ variáveis      Teleológica):
+
+
+                      As
+               Possibilidades      se refere a todos os instrumentos necessários à realização da avaliação de
+                 (Variável de                                     desempenho.
+               Infraestrutura)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Avaliação de Desempenho
+Campos de Influência
+
+                         Variável          Trata-se da variável que indica se o indivíduo avaliado deseja
+                         Volitiva                          realmente fazer aquela tarefa.
+
+                          Variável
+                                           Trata-se da variável que define “o que” fazer e “como” fazer.
+                        teleológica
+
+
+    05 campos /
+                          Variável      Trata-se da variável que determina se o indivíduo avaliado possui o
+     variáveis
+                         cognitiva       conhecimento necessário para executar a tarefa como se deseja
+      (Marras)
+
+
+                          Variável     Trata-se de uma variável indispensável para que o funcionário consiga
+                        tecnológica                 alcançar o máximo de sua eficiência
+
+
+                      Variável
+                                       Refere-se à expectativa do trabalhador em receber uma recompensa
+                    compensatóri
+                                             (financeira ou não financeira) pelos resultados atingidos.
+                         a
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (FCC – METRÔ-SP – Analista - Administração)
+No processo de avaliação de desempenho é possível identificar três campos influentes
+para a obtenção de resultados positivos: o querer e o saber; as metas; as possibilidades.
+Analise:
+I. O campo do querer e do saber carrega consigo a variável volitiva e, nesse particular, o
+avaliador precisa querer avaliar com imparcialidade.
+II. O campo das metas é representada pela variável teleológica, que diz respeito aos
+objetivos principais e secundários da avaliação de desempenho.
+III. No campo das possibilidades, no processo de avaliação de desempenho, o avaliador
+aplica apenas tecnologias computacionais modernas.
+IV. No campo do saber, o avaliador trabalha com as informações obtidas no programa de
+avaliação de desempenho, conhece as armadilhas e domina as técnicas envolvidas no
+processo avaliativo.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – METRÔ-SP – Analista - Administração)
+(...)
+É correto o que consta APENAS em
+a) I e IV.
+b) I, II e III.
+c) II, III e IV.
+d) II e IV.
+e) I, II e IV.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – METRÔ-SP – Analista - Adaptada)
+Tratando-se de avaliação de desempenho, considere: Identificam-se três campos
+influentes para a obtenção de resultados positivos: o querer e o saber, que possui a
+variável volitiva; as metas, que possuem a variável teleológica; e as possibilidades, que
+possuem a variável de infraestrutura.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Avaliação de Desempenho
+Critérios e Padrões de Avaliação de Desempenho
+
+                         Relevância       se refere à extensão com que os padrões de desempenho se relacionam
+                         Estratégica                    com os objetivos estratégicos da organização
+
+    04 aspectos                            se refere à extensão com que os padrões de desempenho conseguem
+     devem ser          Deficiência de
+                                           captar todas as responsabilidades do funcionário avaliado que estão
+    levados em             Critério
+                                                           relacionadas ao desempenho “esperado”.
+   Consderação
+     quando do
+  Estabelecimento       Contaminação          os fatores que “fogem” ao controle do funcionário, não podem
+  dos Padrões de         de Critério                           influenciar o seu desempenho.
+   Desempenho
+                                          indica se as medidas estão se mantendo consistentes entre os diversos
+                                          avaliadores ao longo do tempo. Além disso, é necessário que o padrão
+                        Confiabilidade
+                                              de desempenho seja capaz de medir com exatidão o desempenho
+                                                                  “esperado” do indivíduo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (VUNESP – Prefeitura de Campinas-SP – Analista – 2019)
+Os padrões pelos quais um determinado desempenho será avaliado devem ser definidos
+com clareza. Esses padrões devem basear-se nas atividades e responsabilidades do
+cargo. Há quatro considerações básicas para o estabelecimento de padrões de
+desempenho: relevância estratégica (buscar atender os objetivos estratégicos da
+organização), deficiência de critério (abranger todos os pontos relacionados aos
+resultados esperados do desempenho eficaz do empregado), contaminação de critério
+(evitar penalizar o empregado por situações externas que não estejam sob o seu
+controle) e confiabilidade (o indicador deve medir com exatidão o que se espera do
+desempenho do empregado).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – FRIOCRUZ – Analista)
+Os padrões pelos quais o desempenho do empregado será avaliado devem ser
+estabelecidos com clareza e comunicados ao empregado, antes da avaliação, para que
+ele tenha conhecimento dos níveis esperados de desempenho. Para o estabelecimento
+de padrões de desempenho devem-se considerar quatro aspectos básicos. Se ao avaliar
+dois empregados da área de produção, a avaliação é afetada porque um trabalha com
+uma máquina mais nova do que o outro, podemos afirmar que:
+a) existe na avaliação realizada o aspecto básico de Deficiência de Critério, que é medido
+pela correlação de dois conjuntos de classificação feitos por um único avaliador ou por
+dois avaliadores diferentes.
+b) existe na avaliação realizada o aspecto básico de Contaminação de Critério, que se
+expressa em fatores que fogem ao controle do empregado e podem influenciar seu
+desempenho.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – FRIOCRUZ – Analista)
+(...)
+c) existe na avaliação realizada o aspecto básico de Confiabilidade, que é medido pela
+consistência do padrão e pela extensão em que os indivíduos tendem a manter certo
+nível de desempenho ao longo do tempo.
+d) existe na avaliação realizada o critério básico de Relevância Estratégica, que se refere
+à extensão em que os padrões se relacionam com os objetivos estratégicos da
+organização.
+e) existe na avaliação realizada o critério básico de Deficiência de Critério, que se refere à
+extensão em que os padrões captam todas as responsabilidades do empregado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Avaliação de Desempenho
+Disfunções
+
+                                          Utilização de critérios irrelevantes
+
+
+                                                   Ênfase em punições
+     Disfunções
+                        Foco excessivo no processo (A avaliação de desempenho vira um “fim”)
+
+
+                                  Injustiça ou parcialidade nos critérios de avaliação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Avaliação de Desempenho
+Quem deve Realizar a Avaliação de Desempenho? (Quem pode avaliar?)
+
+                                                  Autoavaliação
+
+                                 Avaliação realizada pelo gestor (gerente / líder)
+
+                         Avaliação realizada pelo “indivíduo avaliado” juntamente com o
+                                          gestor (Avaliação Interativa)
+
+                                   Avaliação participativa por objetivos (APPO)
+   Quem deve Realizar
+     a Avaliação de
+                                   Avaliação realizada pela equipe de trabalho
+     Desempenho?
+  (Quem pode avaliar?)
+                                 Avaliação realizada pela comissão de avaliação
+
+                         Avaliação realizada “de baixo para cima” (avaliação “para cima”)
+
+                              Avaliação realizada pelo órgão de recursos humanos
+
+                             Avaliação 360° (Avaliação Circular / Avaliação em rede)
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (IADES – Metrô-DF – Psicólogo - ADAPTADA)
+Quanto à avaliação do desempenho, assinale a alternativa correta
+a) A avaliação do desempenho pode ser feita pelo gerente, pela equipe de trabalho, pelo
+órgão de recursos humanos ou pela comissão de avaliação, mas jamais pela própria
+pessoa.
+b) A avaliação do desempenho não tem aplicações em todos os processos de gestão de
+pessoas, ou seja, sua aplicação limita-se aos processos de aplicar e de monitorar
+indivíduos.
+c) Na avaliação para cima, o comando democrático e participativo do superior passa a ser
+substituído por um comando burocrático e centralizador do poder.
+d) A comissão de avaliação do desempenho costuma ser bastante criticada por seu
+aspecto fortemente centralizador e pelo seu espírito de julgamento quanto ao passado.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+           Métodos                            Métodos                        Outros
+         Tradicionais                         Modernos                       Métodos
+           Escalas Gráficas                                               Escalas de Mensuração
+                                                Avaliação 360°         Ancoradas em Comportamento
+          Listas de Verificação
+                                                                            Relatórios Escritos
+           Escolha Forçada
+                                        Avaliação Participativa por
+          Frases Descritivas                 Objetivos (APPO)               Observação Direta
+          Pesquisa de Campo
+                                                                         Avaliação de Resultados
+          Incidentes Críticos           Avaliação de Competências
+
+             Comparativos                                                  Padrões de Trabalho
+          Distribuição Forçada         Avaliação de Competências e
+                                                Resultados
+         Comparação aos Pares                                            Balanced Scorecard (BSC)
+          Ordenação Simples
+                 Mistos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+                        (FUNRIO – IF-PI – Administração)
+Chiavenato (1999:195) apresenta os métodos tradicionais de avaliação de desempenho
+mais utilizados. São eles:
+a) Escalas graduais, escolha forçada, pesquisa de pessoal, incidentes de risco e lista de
+verificação.
+b) Escalas gráficas, escolha puxada, pesquisa de campo, incidentes de risco e listas de
+avaliação
+c) Escalas graduais, escolha puxada, pesquisa de mercado, incidentes críticos e listas de
+verificação.
+d) Escalas gráficas, escolha forçada, pesquisa de campo, incidentes críticos e listas de
+verificação.
+e) Escalas gráficas, escolha puxada, pesquisa de clima, incidentes de risco e listas de
+avaliação.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IADES – EBSERH – Psicólogo)
+Assinale a alternativa que não apresenta um método tradicional de avaliação de
+desempenho que está entre os mais utilizados.
+a) Avaliação participativa por objetivos.
+b) Escalas gráficas.
+c) Pesquisa de campo.
+d) Incidentes críticos.
+e) Listas de verificação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas Gráficas
+
+  Consiste em uma tabela (ou um “formulário”) de “dupla entrada” (linhas e colunas) que
+  tem por objetivo avaliar o desempenho dos indivíduos através de “fatores de avaliação”
+  pré-determinados aos quais são atribuídas “notas” previamente graduadas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas Gráficas
+
+ Escala Gráfica Contínua
+
+
+                Produtividade
+                               1                                               5
+                            Péssima                                        Excelente
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas Gráficas
+
+ Escala Gráfica Semicontínua
+
+                  Produtividade
+                                 1                                               5
+                              Péssima                                        Excelente
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas Gráficas
+
+ Escala Gráfica Descontínua
+
+                         Produtividade
+
+                                              1               2                 3                  4                   5
+                                           Péssima          Ruim             Regular              Boa              Excelente
+
+                                      Péssimo               Ruim               Regular              Bom             Excelente
+                                         1                   2                    3                  4                  5
+                                   Sempre abaixo das    Algumas vezes      Sempre dentro das    Algumas vezes     Sempre acima das
+                   Produtividade        metas          abaixo das metas          metas         acima das metas         metas
+                                    Sempre falta ao    Falta bastante ao     Falta algumas     Raramente falta      Nunca falta ao
+                    Assiduidade        serviço              serviço         vezes ao serviço      ao serviço           serviço
+                                                       Chega atrasado a       Cumpre os
+                                    Todo dia chega                                             Raramente chega      Nunca chega
+                   Pontualidade        atrasado
+                                                        maior parte dos    horários de forma
+                                                                                                   atrasado          atrasado
+                                                              dias              razoável
+                                                                               Costuma                               Apresenta
+                                       Apresenta                                                  Apresenta
+                   Qualidade do                            Apresenta          apresentar                            trabalhos de
+                                      trabalhos de                                             trabalhos de boa
+                    Trabalho                            trabalhos ruins        trabalhos                              excelente
+                                   péssima qualidade                                              qualidade
+                                                                               razoáveis                              qualidade
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas Gráficas – Vantagens e Descantagens
+                                  barato, simples, rápido e de fácil planejamento, construção e aplicação
+
+                                                     fácil de ser compreendido pelo avaliado
+                  Vantagens
+                                       facilita a “comparação” dos resultados de diversos funcionários
+
+                                       facilita a “visualização” dos fatores que estão sendo avaliados
+
+Método das                                                      subjetivo e superficial
+ Escalas
+ Gráficas
+                                             podem ocorrer erros no momento de atribuir as notas
+
+                                              Avalia apenas o desempenho “passado” do indivíduo
+
+                 Desvantagens   avaliadores ficam limitados a avaliar apenas os aspectos constantes da escala
+
+                                                 Rigidez e “rotinização” do processo de avaliação
+
+                                  O indivíduo avaliado não participa ativamente do processo de avaliação
+Prof. Stefan Fantini
+                                          Facilita a ocorrência do efeito de generalização (efeito halo)
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Listas de Verificação
+
+  Consiste em um “check-list” realizado através de uma tabela padronizada na qual
+  consta uma lista de fatores que devem ser avaliados (considerados) pelo gestor no
+  momento da avaliação.
+
+                              1              2                   3     4   5
+
+              Produtividade                  X
+
+
+               Assiduidade                                       X
+
+
+              Pontualidade                                                 X
+
+
+              Qualidade do
+                                                                       X
+               Trabalho
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+                        (FCC – TRT 12a Região – Analista Judiciário)
+
+Lista de verificação é o método de avaliação tradicional de desempenho
+a) no qual o avaliador emitirá sua opinião sobre pontos fortes e fracos dos
+colaboradores apresentados em um dado período de trabalho.
+b) em que há o estabelecimento de três objetivos a serem alcançados por
+cada funcionário durante um dado período de trabalho.
+c) no qual o avaliador somente mencionará desempenhos considerados
+excepcionalmente bons ou ruins.
+d) baseado em uma relação de fatores de avaliação a serem considerados a
+respeito de cada funcionário.
+e) mais utilizado por empresas terceirizadas, posto que é de fácil aplicação e
+mede com fidelidade as competências técnicas dos colaboradores.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Escolha Forçada
+
+  Consiste na construção de diversos “blocos” de frases que descrevem algum tipo de
+  comportamento do indivíduo no ambiente de trabalho. Posteriormente, o avaliador
+  deve “escolher” uma (ou duas) frases de cada bloco que melhor descrevem o
+  desempenho daquele indivíduo que está sendo avaliado.
+                                     BLOCO 1                                               BLOCO 2
+                                 É proativo                   X                       É motivado
+                         Aceita críticas construtivas                         Tem espírito de equipe      X
+                               Reclama muito                                       É produtivo
+                        Tem dificuldade em lidar com
+                                                                           Não gosta de tomar decisões
+                                   pressão
+                                     BLOCO 3                                               BLOCO 4
+                                 É criativo                                        É assíduo e pontual
+                         Toma decisões rapidamente            X            Não gosta de receber ordens
+                        Tem um bom relacionamento
+                                                                           Conhece bem o seu trabalho     X
+                                interpessoal
+Prof. Stefan Fantini        É demorado e lento                              Não gosta de assumir riscos
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Escolha Forçada
+
+                                         BLOCO 1                                                 BLOCO 2
+
+                                 É proativo                 +      –                     É motivado          +   –
+
+                         Aceita críticas construtivas       +      –              Tem espírito de equipe     +   –
+
+                               Reclama muito                +      –                     É produtivo         +   –
+                        Tem dificuldade em lidar com
+                                                            +      –           Não gosta de tomar decisões   +   –
+                                   pressão
+                                         BLOCO 3                                                 BLOCO 4
+
+                                  É criativo                +      –                  É assíduo e pontual    +   –
+                        Toma decisões rapidamente           +      –           Não gosta de receber ordens   +   –
+                        Tem um bom relacionamento
+                               interpessoal
+                                                            +      –           Conhece bem o seu trabalho    +   –
+
+                            É demorado e lento              +      –           Não gosta de assumir riscos   +   –
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Escolha Forçada – Vantagens e Descantagens
+
+
+                                        Minimiza a subjetividade e a superficialidade da avaliação
+
+                               Minimiza a influência (tendenciosidade / “parcialidade”) dos avaliadores.
+                  Vantagens
+                                              Minimiza o efeito halo (efeito de generalização).
+
+                                                        É um método de fácil aplicação.
+Método da
+ Escolha
+ Forçada                                            É difícil de ser planejado e construído.
+
+                                        Não permite “comparações” entre os indivíduos avaliados.
+
+                Desvantagens            O indivíduo avaliado não participa ativamente do processo.
+
+                                              É difícil visualizar os resultados globais obtidos
+
+                                                    Produz informações pouco conclusivas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+                        (COMPERVE – UFRN – Tecnólogo - 2016)
+A avaliação do desempenho dos indivíduos que desempenham papéis dentro de
+uma organização pode ser feita através de várias metodologias. Um dos
+métodos tradicionais de avaliação do desempenho é o método da escolha
+forçada que consiste em
+a) avaliar o desempenho com base em entrevistas de um especialista em
+avaliação com o superior imediato. O desempenho é avaliado levando-se em
+conta as causas, as origens e os motivos de tal desempenho, por meio de análise
+de fatos e situações.
+b) avaliar o desempenho através de fatores de avaliação previamente definidos
+e graduados. É utilizado um formulário de dupla entrada, no qual as linhas
+horizontais representam os fatores de avaliação e nas verticais o grau de
+variação desses fatores.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (COMPERVE – UFRN – Tecnólogo - 2016)
+(...)
+c) avaliar o desempenho das pessoas por meio de frases descritivas com
+alternativas de desempenho individual. Em cada bloco de frases, o avaliador
+escolhe uma ou duas das que mais se aplicam ao desempenho da pessoa
+avaliada.
+d) avaliar o desempenho com base em características extremas do
+comportamento humano capazes de levar a resultados positivos (sucesso) ou
+negativos (fracasso). O método não se preocupa com características situadas no
+campo da normalidade.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – Câmara de Salvador-BA – Analista - 2018)
+
+Uma organização utiliza o método da escolha forçada para avaliação de
+desempenho de seus funcionários. A gerente de recursos humanos entende
+que o método tem como uma de suas principais vantagens o fato de evitar o
+efeito halo na avaliação.
+No entanto, o método da escolha forçada apresenta desvantagens, como:
+a) exigir experiência e treinamento prévio dos avaliadores;
+b) ser fortemente sujeito à subjetividade do avaliador;
+c) tendência a gerar conflito entre os avaliados;
+d) dirigir a atenção para desempenhos extremamente bons ou ruins;
+e) produzir informações de difícil comparação e pouco conclusivas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IADES – Metrô-DF – Psicólogo - ADAPTADA)
+
+Considerando os prós e os contras da avaliação do desempenho por escolha
+forçada, é correto afirmar que esse método tira a influência pessoal do
+avaliador, isto é, a subjetividade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – MPU – Técnico Administrativo)
+
+A opção pelo método de escolha forçada para a avaliação do desempenho
+profissional em uma organização possibilita alta probabilidade de ocorrência
+do efeito Halo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Frases Descritivas
+
+ O método apresenta diversas frases que descrevem algum tipo de comportamento do
+ indivíduo no ambiente de trabalho. O avaliador irá, então, assinalar livremente as frases
+ que ele entende estarem relacionadas ao comportamento do indivíduo avaliado.
+
+
+                                Tem espírito de equipe                  SIM
+                                     É produtivo
+                             Não gosta de tomar decisões
+                                 É assíduo e pontual                    SIM
+                             Não gosta de receber ordens
+                             Conhece bem o seu trabalho                 SIM
+                              Não gosta de assumir riscos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                   
+
+
+---
+
+                        (CESPE – MPU – Técnico Administrativo)
+
+Considere que, em determinada organização, o coordenador de uma equipe
+de trabalho utilize a técnica de frases descritivas para avaliar o desempenho
+dos membros dessa equipe. Nessa situação, o referido coordenador está
+livre para escolher e avaliar, entre as frases disponibilizadas, as que sejam
+mais representativas do comportamento dos avaliados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Pesquisa de Campo
+
+ Consiste na combinação entre a responsabilidade de linha dos gestores (que ficam
+ responsáveis pela avaliação) e a função de staff do órgão de RH (que auxilia o gestor no
+ processo de avaliação). O gestor e o especialista em avaliação, em conjunto, avaliam o
+ desempenho dos funcionários.
+
+                               Tem espírito de equipe                  SIM
+                                     É produtivo
+                             Não gosta de tomar decisões
+                                 É assíduo e pontual                   SIM
+                             Não gosta de receber ordens
+                             Conhece bem o seu trabalho                SIM
+                             Não gosta de assumir riscos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Pesquisa de Campo
+
+                           1- Entrevista de avaliação inicial
+
+
+                        2 - Entrevista de análise complementar
+     04 etapas
+                          3 - Planejamento das providências
+
+
+                        4 - Acompanhamento dos resultados
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+ Métodos de Avaliação de Desempenho
+ Método da Pesquisa de Campo
+
+
+                               A avaliação de desempenho envolve a responsabilidade de linha (o gestor avalia) e a
+                                                       função de staff (o RH assessora)
+                                      Tem foco na melhora do desempenho e no alcance dos resultados
+
+                  Vantagens                   Permite uma profundidade na avaliação do desempenho
+
+                                        Aproveita tanto o gerente de linha, quanto o especialista de staff
+ Método da
+Pesquisa de                                              Permite planejar ações para o futuro
+  Campo
+                                                                  Tem um custo elevado
+
+                Desvantagens                               É um processo lento e demorado
+
+                                                         Tem pouca participação do avaliado
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+                        (IADES – IGEPREV-PA – Técnico Previdenciário - 2018)
+
+Um dos métodos de avaliação de desempenho considerados tradicionais é o
+da pesquisa de campo, que é considerado muito eficaz, porém demorado e
+financeiramente oneroso. O método por pesquisa de campo é composto por
+fases. São consideradas fases desse método a (o)
+a) entrevista inicial entre gerentes e um especialista em avaliação e a
+aplicação de dinâmicas de grupo.
+b) planejamento de providências e o acompanhamento de resultados.
+c) entrevista semiestruturada com formato 360º entre supervisores e o
+planejamento de providências.
+d) entrevista complementar e a aplicação de dinâmicas de grupo.
+e) aplicação de dinâmicas de grupo e o acompanhamento de resultados.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRT 23ª Região – Analista Judiciário)
+
+É considerado um dos métodos tradicionais mais completos de avaliação de
+desempenho. Baseia-se no princípio da responsabilidade de linha e da
+função de staff no processo de avaliação do desempenho. Consiste em
+entrevistas entre um especialista em avaliação com os gerentes, para, em
+conjunto, avaliarem o desempenho dos respectivos funcionários. Este
+método de avaliação de desempenho é denominado
+a) pesquisa de campo.
+b) 360°.
+c) escolha forçada.
+d) escolha dirigida.
+e) escala gráfica.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método dos Incidentes Críticos
+
+ Método em que o avaliador busca identificar apenas as características extremas (positivas
+ ou negativas) do indivíduo avaliado.
+
+
+                    Características extremamente positivas              Características extremamente negativas
+
+                             É criativo e inovador
+                                                                     Tem muita dificuldade para lidar com números
+                     Tem facilidade de trabalhar em equipe
+                                                                                     Erra constantemente
+
+                         É um excelente comunicador                               Não sabe lidar com pressão
+
+                 Tem um excelente relacionamento interpessoal              Demora muito para tomar decisões
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método dos Incidentes Críticos
+
+                                                           É de fácil elaboração e aplicação
+                  Vantagens
+                               Identifica os pontos extremamente positivos e os pontos extremamente negativos do
+Método dos                                                          indivíduo
+Incidentes
+  Críticos                             não leva em consideração os aspectos “normais” do desempenho
+                Desvantagens
+                                                           tende a ser tendencioso e parcial
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+                        (FCC – Copergás – Analista Administrador - 2016)
+
+Considere que uma consultoria especializada, contratada para implementar
+a avaliação do desempenho dos funcionários de uma organização, pretenda
+aplicar uma das metodologias tradicionais, denominada Incidentes Críticos.
+De acordo com tal método, o avaliador
+a) utiliza uma tabela de dupla entrada e avalia o desempenho por meio de
+fatores previamente definidos e graduados.
+b) elenca fatores de desempenho a serem considerados (check-list),
+atribuindo uma avaliação quantitativa a cada um deles.
+c) leva em conta aspectos excepcionalmente positivos e excepcionalmente
+negativos do avaliado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – Copergás – Analista Administrador - 2016)
+
+(...)
+d) utiliza blocos de frases, realizando uma escolha forçada daquela que
+melhor se aplica ao avaliado de acordo com o quesito escolhido.
+e) busca feedbacks (retornos) de todos os agentes relacionados com a
+organização a respeito da atuação do avaliado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TJ-AC – Analista Judiciário)
+
+A organização deve evitar o método de avaliação de desempenho pelos
+incidentes críticos em razão de ser de difícil utilização e de complexa
+montagem.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Métodos Comparativos (Métodos das Comparações Forçadas)
+
+  Os Métodos Comparativos consistem na realização de comparações entre dois
+  indivíduos, ou então entre um indivíduo e o grupo a que ele pertence.
+
+       - Método da Distribuição Forçada
+       - Método de Comparação aos Pares (Método da Comparação Binária)
+       - Método da Ordenação Simples
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Distribuição Forçada
+
+  Esse método consiste em criar algumas “categorias de desempenho”, e inserir
+  obrigatoriamente (forçadamente) cada um dos funcionários “dentro” de alguma das
+  categorias criadas.
+
+
+         Funcionários excelentes
+                                                João                                    Pedro
+                 (20%)
+
+         Funcionários razoáveis
+                                   Marcos     José           Maria               Rose   Paulo   André
+                 (60%)
+
+           Funcionários ruins
+                                               Diogo                                    Marta
+                 (20%)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (Marinha – Quadro Técnico – Primeiro Tenente - 2018)
+
+Assinale a opção que corresponde ao método de avaliação de desempenho,
+que, segundo Robbins (2010), o avaliador separa os funcionários em
+determinadas faixas de desempenho, para as quais, são estabelecidas
+porcentagens de funcionários que devem integrá-las.
+a) Ordenação simples.
+b) Escalas gráficas de mensuração.
+c) Distribuição forçada.
+d) Incidentes críticos.
+e) Role-play.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método de Comparação aos Pares (Método da Comparação Binária)
+
+  Consiste em analisar e comparar os funcionários, dois a dois, e indicar qual deles
+  apresenta o melhor desempenho.
+
+                   Funcionário    X          Funcionário                   Melhor Desempenho
+
+                         João     X             André                            João
+
+                        Antônio   X             Carlos                           Carlos
+
+                         João     X             Carlos                           João
+
+                        Antônio   X             André                            André
+
+                         João     X            Antônio                           João
+
+                        Carlos    X             André                            Carlos
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método de Comparação aos Pares (Método da Comparação Binária)
+
+                  Vantagens                               É um método muito simples
+ Método de
+Comparaçã                                Não identifica os pontos que devem ser aprimorados
+o aos Pares
+                Desvantagens   Não fornece informações sobre o desempenho individual dos funcionários
+
+                                                  É um método ineficaz e pouco eficiente
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TJ-AP – Analista Judiciário)
+
+O método de comparação aos pares compara dois a dois empregados, e
+cada vez, anota-se na coluna da direita aquele que é considerado melhor
+quanto
+a) à inteligência geral.
+b) ao potencial.
+c) às necessidades de carreira.
+d) ao desempenho.
+e) à inteligência emocional.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESGRANRIO – BACEN – Técnico - ADAPTADA)
+
+Comparação aos pares é um processo simples e pouco eficiente, que
+compara dois a dois empregados de cada vez, permitindo o registro daquele
+que é considerado melhor quanto ao desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Ordenação Simples
+
+  Os funcionários são comparados, classificados e ordenados em uma lista, do melhor
+  ao pior funcionário.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IF-PE – IF-PE – Tecnólogo - ADAPTADA)
+
+Analise a afirmação referente às diversas técnicas de avaliações de
+desempenho existentes.
+
+O método da Ordenação Simples refere-se ao método de avaliação que
+classifica e ordena os empregados do melhor ao pior.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Métodos Mistos
+
+  Trata-se de uma “mistura” (ou “combinação”) de diferentes métodos de avaliação de
+  desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFC – UFC – Administrador - 2017)
+
+Os métodos tradicionais de avaliação do desempenho mais utilizados são:
+escalas gráficas, escolha forçada, pesquisa de campo, incidentes críticos e
+listas de verificação. Sobre eles, é correto afirmar:
+a) Pesquisa de campo funciona como uma espécie de lembrete para o
+gerente avaliar todas as características principais de um funcionário.
+b) Listas de verificação se baseiam nas características extremas que
+representam desempenhos altamente positivos (sucesso) ou altamente
+negativos (fracasso).
+c) Incidentes críticos é a avaliação do desempenho das pessoas através de
+blocos de frases descritivas que focalizam determinados aspectos do
+comportamento.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (UFC – UFC – Administrador - 2017)
+
+(...)
+d) Escala gráfica é um método baseado em uma tabela de dupla entrada: nas
+linhas estão os fatores de avaliação e nas colunas estão os graus de avaliação
+do desempenho.
+e) Escolha forçada requer entrevistas entre um especialista em avaliação
+(staff) com os gerentes (linha) para, em conjunto, avaliarem o desempenho
+dos respectivos funcionários.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (QUADRIX – SEDF – Professor – Administração - 2017)
+
+O método das escalas gráficas é o mais utilizado para avaliação de
+desempenho. Quando se utilizam escalas gráficas contínuas, os graus de
+variação dos fatores de avaliação já estão previamente fixados, como, por
+exemplo, de 1 a 10.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – IBGE – Agente Censitário - 2017)
+
+Em uma empresa de médio porte, o método de avaliação de desempenho é
+do tipo escalas gráficas.
+Uma desvantagem desse método é a:
+a) dificuldade de planejamento do instrumento de avaliação;
+b) complexidade da aplicação;
+c) superficialidade e subjetividade na avaliação;
+d) dificuldade na comparação dos resultados dos diversos funcionários;
+e) complexidade na visualização dos fatores de avaliação considerados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRE-PB – Analista Judiciário)
+
+O método de escalas gráficas avalia o desempenho das pessoas por meio de
+fatores de avaliação, previamente definidos e graduados. Cada fator é
+dimensionado para retratar um desempenho fraco ou insatisfatório, até um
+desempenho ótimo ou excelente. O gráfico apresentado a seguir é uma
+alternativa ao método de escalas gráficas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRE-PB – Analista Judiciário)
+
+(...)
+O gráfico apresentado refere-se ao método de escalas gráficas:
+a) descontínuas.
+b) contínuas.
+c) semicontínuas.
+d) escolhas forçadas.
+e) incidentes críticos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF 5a Região – Técnico Judiciário - 2017)
+
+Considere o questionário de avaliação de desempenho abaixo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF 5a Região – Técnico Judiciário - 2017)
+
+(...)
+É representativo do método de avaliação de desempenho
+a) listas de verificação.
+b) escolha forçada.
+c) pesquisa de campo.
+d) incidentes críticos.
+e) escalas gráficas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Métodos Modernos
+
+                                 Indicadores sistêmicos e escolhidos em conjunto
+
+
+                                 Avaliação de desempenho com foco em resultados
+
+
+  Características       Maior envolvimento do funcionário avaliado no processo de avaliação
+
+
+                          integrar os objetivos individuais e os objetivos organizacionais
+
+
+                                       mais flexível e menos burocratizada
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Avaliação 360° (Feedback 360° / Avaliação Circular / Avaliação em Rede)
+                                                                   Gestor
+                                                                   Direto
+
+
+                                         Outros                                         Gestores de
+                                        Gestores                                          Cúpula
+
+                          Colegas do                                                                 Colegas do
+                                                                  Indivíduo
+                        Mesmo Nível e                                                               Mesmo Nível e
+                                                                   Avaliado
+                           de outros                                                                 do mesmo
+                                                               (autoavaliação)
+                        departamentos                                                               departamento
+
+                                   Fornecedores                                          Clientes
+
+Prof. Stefan Fantini                                           Subordinados
+ @prof.stefan.fantini
+                                                   
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Avaliação 360° (Feedback 360° / Avaliação Circular / Avaliação em Rede)
+
+                            É um método “rico” que fornece informações bem completas e de boa qualidade
+
+                                                        Tende a reduzir o efeito halo
+
+                        O sistema é mais compreensivo e fornece avaliações advindas de diferentes perspectivas
+
+    Vantagens                                           Enfatiza o espírito de equipe
+
+                                         Leva em consideração os clientes externos e internos
+
+                                         Facilita o autodesenvolvimento do indivíduo avaliado
+
+                                            Complementa as iniciativas da Qualidade Total
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Avaliação 360° (Feedback 360° / Avaliação Circular / Avaliação em Rede)
+
+                                        É um método complexo e de difícil planejamento e aplicação
+
+                                                                  É um método caro
+
+                                  Pode gerar avaliações “conflitivas” advindas de diferentes pontos de vista
+
+                        O feedback pode intimidar o avaliado, bem como pode provocar “ressentimentos” no indivíduo
+  Desvantagens                                                    avaliado
+
+                                          Requer o treinamento dos “avaliadores” para funcionar bem
+
+                                                       Os indivíduos podem fazer “conluio”
+
+                         A possibilidade de permitir que colegas, pares e subordinados realizem a avaliação pode gerar
+                                                “parcialidade” (tendenciosidade) nos resultados
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (FCC – TRT 15a Região – Técnico Judiciário - 2018)
+
+Suponha que determinado gestor público pretenda avaliar o desempenho de
+sua equipe de servidores, valendo-se de alguma das metodologias
+comumente utilizadas na iniciativa privada. Seu principal objetivo é que cada
+servidor promova uma autoavaliação e que também seja avaliado por todos
+os demais agentes com os quais se relaciona, e não apenas por seus
+superiores. A metodologia que mais se adequa a tal objetivo é
+a) Comparação Binária.
+b) Incidentes Críticos.
+c) Avaliação 360°, também denominada Circular.
+d) Gestão por Competências.
+e) Balanced scorecard (BSC).
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRT 5a Região – Técnico Judiciário - 2018)
+
+A avaliação 360° é feita de modo
+a) horizontal por todos os colegas da equipe que possuem o mesmo cargo e
+trabalham com o avaliado.
+b) ascendente por todos os gestores que mantêm contato próximo com o
+avaliado.
+c) circular por todos os elementos que mantêm alguma forma de contato
+com o avaliado.
+d) emparelhado por todos os clientes externos que mantêm alguma forma
+de contato com o avaliado.
+e) conjunto por todos os membros do Comitê Executivo da organização
+formado pelos Diretores.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Avaliação Participativa por Objetivos (APPO)
+
+
+                                  1 - Formulação de objetivos consensuais
+
+
+                        2 - Comprometimento pessoal quanto ao alcance dos objetivos
+                                        conjuntamente formulados
+
+                            3 - Negociação sobre a alocação de recursos e meios
+                                  necessários para o alcance dos objetivos
+    Etapas da APPO
+                                               4 - Desempenho
+
+
+                         5 – Constante monitoramento dos resultados e comparação
+                                        com os objetivos formulados
+
+                           6 - Retroação intensiva e continua avaliação conjunta e
+                                                  interativa
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (IADES – SEAP-DF – Analista – Administração)
+Em relação à avaliação do desempenho no trabalho, especificamente acerca da
+avaliação participativa por objetivos, assinale a alternativa correta.
+a) Tem como características, por exemplo, formulação de objetivos consensuais;
+comprometimento pessoal com os objetivos; e, retroação intensiva e contínua
+avaliação conjunta.
+b) É um dos métodos tradicionais de avaliação de desempenho que se
+fundamenta em escalas e fatores de produtividade.
+c) Fundamenta-se nos métodos de pesquisa de campo e de escala gráfica.
+d) Fundamenta-se no método de incidentes críticos para a avaliação de
+objetivos.
+e) É um método de avaliação que se fundamenta na comparação de fatores e na
+comparação por pares.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESGRANRIO – Liquigás – Profissional Júnior)
+
+Uma empresa decidiu adotar a Avaliação Participativa por Objetivos (APPO)
+visando à superação das críticas aos métodos tradicionais de avaliação de
+desempenho, como por exemplo, considerar as pessoas como homogêneas
+e padronizadas ao estabelecer as etapas e os procedimentos no processo de
+avaliação.
+Nesse sentido, NÃO é uma etapa da APPO a(o)
+a) formulação de objetivos consensuais
+b) retroação intensiva, contínua e conjunta
+c) negociação com gerente sobre alocação de recursos e meios
+d) incorporação de percepções de clientes e fornecedores internos
+e) comprometimento pessoal com objetivos formulados conjuntamente
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Avaliação de Competências
+
+ Trata-se de um método que consiste em avaliar e identificar as competências conceituais,
+ técnicas e comportamentais dos indivíduos avaliados.
+
+                                        Conhecimentos
+
+
+      três aspectos                       Habilidades
+         básicos
+
+
+                                            Atitudes
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método de Avaliação de Competências e Resultados
+
+ busca-se verificar se o indivíduo avaliado possui as competências necessárias à realização
+ das tarefas, com base nos resultados alcançados pelo indivíduo (desempenho apresentado
+ pelo indivíduo).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método das Escalas de Mensuração Ancoradas em Comportamento
+
+ Consiste em uma combinação entre o método dos incidentes críticos e o método das
+ escalas gráficas. Primeiro são identificados os elementos críticos do desempenho do
+ trabalho. Depois, esses comportamentos (positivos e negativos) são transformados em
+ “fatores de avaliação”(os fatores de avaliação refletem o comportamento real dos
+ indivíduos no trabalho). Por fim, o avaliador dá notas para cada um desses fatores de
+ avaliação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IF-PE – IF-PE – Tecnólogo - ADAPTADA)
+
+Analise a afirmação referente às diversas técnicas de avaliações de
+desempenho existentes.
+Escalas de mensuração ancorados em comportamentos refere-se ao método
+de avaliação por meio do qual o avaliador atribui notas ao funcionário com
+base em uma série de itens que refletem o comportamento real no trabalho,
+e não descrições ou traços gerais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Relatórios Escritos (Avaliação por Escrito / Relatórios de Performance)
+
+ A avaliação por escrito consiste em construir um relatório, descrevendo os pontos fortes e
+ fracos do indivíduo avaliado, o seu desempenho anterior, o seu potencial, bem como
+ sugestões para aperfeiçoamento do indivíduo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Observação Direta
+
+ Consiste na análise do desempenho de determinado indivíduo através da observação
+ presencial do trabalho do funcionário.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método da Avaliação de Resultados
+
+ Consiste em um método em que se comparam os resultados “previstos” (resultados
+ “esperados”) com os resultados “alcançados” (resultados “realizados”) pelo funcionário
+ avaliado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Método dos Padrões de Trabalho (Método dos Padrões de Desempenho)
+
+ Nesse método, a própria organização estabelece metas de trabalho e objetivos que
+ devem ser alcançados. Posteriormente, o avaliador compara os resultados obtidos pelo
+ indivíduo avaliado com as metas pré-estabelecidas pela organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Autoavaliação
+
+ Trata-se da avaliação realizada pelo próprio funcionário. Ou seja, o funcionário avalia o
+ seu próprio desempenho.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Métodos de Avaliação de Desempenho
+Balanced Scorecard (BSC)
+
+ Trata-se de um sistema balanceado de monitoramento de resultados que tem por objetivo
+ a implementação e o acompanhamento da estratégia organizacional, por meio do
+ estabelecimento de indicadores, objetivos e metas.
+
+
+                               Financeira
+
+                                 Cliente
+  Perspectivas
+                           Processos Internos
+
+                        Aprendizado e Crescimento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (FCC – ELETORBRÁS – Administração – 2016)
+O Balanced Scorecard − BSC é um conhecido modelo de gestão estratégica e
+avaliação de desempenho organizacional que apresenta, entre suas
+características,
+a) priorização de indicadores financeiros, que contemplam pontuação superior
+aos organizacionais.
+b) equilíbrio entre diversas perspectivas, incluindo a dos processos internos.
+c) negativa do conceito de top-down, propondo que se parta do particular para
+o geral.
+d) instituição do mapa estratégico, que contempla medidas quantitativas para
+cada indicador.
+e) fixação exclusivamente de metas de curto prazo, em contraposição a outros
+modelos gerenciais.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+
+                                           Tendência do avaliador se “deixar levar” por alguma característica
+                                        marcante (positiva ou negativa) do avaliado. Ou seja, trata-se da tendência
+                         Efeito Halo
+                                         do avaliador de “generalizar” toda a avaliação, com base apenas em um
+                                                        aspecto (positivo ou negativo) do avaliado.
+
+
+    Erros (Vieses)
+   do Processo de                                                    Quando o avaliador é influenciado por alguma
+    Avaliação de                                                         característica positiva do indivíduo, e a
+    Desempenho                              Efeito Halo             generalização beneficia o indivíduo avaliado. Ou
+                                                                   seja, o julgamento é nivelado “por cima” (com base
+                                                                            nos pontos positivos do indivíduo).
+
+                          Efeito de
+                        generalização
+
+                                                                      Quando o avaliador é influenciado por alguma
+                                                                         característica negativa do indivíduo, e a
+                                            Efeito Horn             generalização prejudica o indivíduo avaliado. Ou
+                                                                   seja, o julgamento é nivelado “por baixo” (com base
+                                                                            nos pontos negativos do indivíduo).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+
+                        Tendência   Ocorre quando o avaliador marca sempre “valores medianos” na avaliação de
+                         Central             desempenho para não se “comprometer” com os resultados.
+
+                                     É a tendência do avaliador ser “bondoso” e pouco rigoroso nas avaliações de
+                        Leniência
+ Erros (Vieses)                        desempenho. Assim, ele acaba atribuindo notas altas a todos os avaliados.
+  do Processo
+ de Avaliação
+       de
+ Desempenho         Excesso de          tendência do avaliador ser “severo” e muito rigoroso nas avaliações de
+                      Rigor           desempenho. Assim, ele acaba atribuindo notas baixas a todos os avaliados.
+
+                                    É a tendência do avaliador a se ater apenas aspectos e comportamentos “mais
+                        Recência
+                                                     recentes” (positivos ou negativos) do indivíduo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+
+                        Obstáculos
+                                          o avaliador “distorce” as informações por conta de interesses políticos.
+                         Políticos
+
+                                        avaliar com base em preconceitos ou “tendências pessoais” (preferências,
+                  Tendenciosidade
+                                                                     antipatias, etc)
+
+Erros (Vieses)
+ do Processo
+                        Avaliação      Trata-se da tendência do avaliador, por "força do hábito", de avaliar o funcionário
+ de Avaliação
+                        Congelada                     sempre da mesma forma em todas as avaliações
+      de
+Desempenho
+
+                                      o avaliador desconhece as técnicas da avaliação de desempenho e desconhece as
+                   Falta de Técnica       técnicas utilizadas pelo funcionário avaliado nas rotinas de trabalho. Então, o
+                                                           avaliador acaba agindo pelo “bom senso”.
+
+
+                   Desvalorização
+                                          o avaliador não considera a avaliação de desempenho algo importante.
+                    da Avaliação
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+
+                                          o avaliador avalia o desempenho do funcionário com base na “função” que o
+                        Erro de Função    funcionário exerce (ou seja, não leva em consideração as ativvidades que ele
+                                                                    realiza naquela função)”.
+
+
+                                                o avaliador, por causa do cansaço, comete erros na avaliação de
+                            Fadiga
+                                                                          desempenho.
+      Erros
+   (Vieses) do                            tendência do avaliador de avaliar “melhor” aquelas pessoas que estão mais
+  Processo de            Proximidade      próximas dele e avaliar “pior” aquelas pessoas que estão mais “distantes”
+  Avaliação de                                                                dele.
+  Desempenho
+                                             o avaliador, de forma intencional, distorce ou oculta informações da
+                          Falsidade       avaliação de desempenho do indivíduo avaliado, com o objetivo proposital de
+                                                                   favorecê-lo ou prejudicá-lo.
+
+
+                                           tendência do avaliador de valorizar aqueles aspectos que ele julga serem
+                        Unilateralidade
+                                                                      mais importantes.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+                                          a) o avaliador tende a avaliar de forma positiva os indivíduos que
+                                          têm características similares das dele ou que tomaram atitudes
+                                                              que ele também tomaria.
+
+                                         b) o avaliador tende a avaliar o desempenho do indivíduo de forma
+                        Similaridade
+                                                 “similar” à maneira que ele percebe a si mesmo.
+
+                                         c) O avaliador comete algum erro por buscar, no indivíduo avaliado,
+                                                   características similares às características dele.
+       Erros (Vieses)
+      do Processo de                      a) o avaliador tende a avaliar de forma negativa os indivíduos que
+       Avaliação de                      têm características diferentes das dele ou que tomaram atitudes
+       Desempenho                                             que ele não teria tomado.
+
+                                         b) o avaliador tende a avaliar o desempenho do indivíduo de forma
+                                                “oposta” à maneira que ele percebe a si mesmo. .
+                         Contraste
+                                        c) o avaliador comete algum erro por tentar identificar características
+                                                que ele possui e que o indivíduo avaliado não possui.
+
+                                          d) O avaliador realiza a avaliação de um indivíduo comparando-a
+                                          com o resultado da avaliação de desempenho imediatamente
+Prof. Stefan Fantini                                        anterior (de outro indivíduo).
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+
+
+                                            o avaliador realiza a avaliação de desempenho com base em apenas um
+                        Critério Único     critério, sem levar em consideração outros fatores e critérios que deveriam
+                                                               compor a avaliação de desempenho.
+
+
+                                         tendência do avaliador de avaliar todos os indivíduos da mesma forma, sem
+  Erros (Vieses)        Distribuição
+                                                   levar em consideração as características de cada pessoa.
+   do Processo
+   de Avaliação
+        de
+  Desempenho                             o avaliador projeta no indivíduo avaliado características que são inerentes
+                          Projeção
+                                                                     ao próprio avaliador.
+
+
+                                             o avaliador leva em consideração elementos que não fazem parte do
+                    Contaminação de
+                                             desempenho real do indivíduo avaliado. Ou seja, o avaliador leva em
+                        Critério
+                                                  consideração fatores que “fogem” ao controle do indivíduo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Erros da Avaliação de Desempenho (Vieses dos Processos de
+Avaliação de Desempenho)
+Atitudes Conscientes x Atitudes Inconscientes
+
+                                        ocorre quando o avaliador distorce ou “vicia” intencionalmente algum resultado,
+                                         com o objetivo de atender a determinado interesse, ou então prejudicar/ajudar o
+                                                                           avaliado.
+                         Atitudes
+                        Conscientes                            Efeito Halo
+
+                                                     Efeito de Tendência Central
+
+      Erros                             ocorre quando o avaliador distorce ou “vicia” intencionalmente algum resultado,
+                                                porém, sem a intenção dolosa de distorcer ou viciar o resultado.
+
+
+                                             Julgar sob a impressão de uma qualidade
+                           Atitudes
+                        Inconscientes         Basear-se em acontecimentos recentes
+
+                                        Levar em conta características pessoais extracargo
+
+Prof. Stefan Fantini
+                                             Supervalorizar as qualidades “potenciais”
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (UFAC – UFAC – Assistente em Administração – 2019)
+Determinada organização pública federal contratou os serviços de uma
+consultoria especializada a fim de auxiliar no processo de avaliação de
+desempenho de seus servidores. Analisando os resultados da avaliação
+realizada, os consultores perceberam uma forte incidência do denominado
+“efeito halo”. Isso significa que durante o processo de avaliação
+a) os avaliadores deixaram que suas preferências ou antipatias
+comprometessem o resultado final.
+b) ocorreu generalizações por parte dos avaliadores em relação a um aspecto do
+avaliado que se sobressaiu aos demais aspectos afetando todo o conjunto dos
+demais tópicos avaliados.
+c) ocorreu a aplicação de critérios excessivamente rigorosos de avaliação,
+comprometendo o resultado final pelo excesso de rigor.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFAC – UFAC – Assistente em Administração – 2019)
+(...)
+d) os avaliadores não quiseram se indispor com os servidores apresentando
+resultados medianos e neutros, deixando de apontar as reais deficiências dos
+avaliados.
+e) os avaliadores limitaram-se apenas aos resultados recentes dos avaliados,
+deixando de considerar sua atuação e trajetória ao longo do tempo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – Prefeitura de Recife-PE – Assistente – 2019)
+Suponha que o Município de Recife pretenda difundir, como diretriz de política
+de gestão de pessoal aplicável tanto pela Administração direta como pelas
+entidades integrantes da Administração indireta, práticas de gestão e avaliação
+de desempenho. Contudo, verificou, analisando experiências “piloto” realizadas
+por alguns órgãos e entidades municipais, uma forte tendência dos avaliadores a
+nivelarem “por baixo” o julgamento dos avaliados, generalizando o resultado
+negativo de algum aspecto do desempenho para todos os demais aspectos
+avaliados. Tal circunstância
+a) representa o fenômeno denominado “recenticidade”, que é recorrente em
+avaliações que não consideram, como critério de amostragem, um intervalo de
+tempo adequado.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – Prefeitura de Recife-PE – Assistente – 2019)
+(...)
+b) traduz uma consequência natural e esperada, verificada exclusivamente em
+avaliações no setor público, denominada efeito Halo.
+c) representa um vício ou desvio da avaliação, denominado efeito Horn, que
+pode ocorrer tanto em avaliações no setor público como na iniciativa privada.
+d) é consequência da não utilização de avaliadores independentes, pois apenas
+estes são capazes de evitar tal desvio, conhecido como “leniência”, próprio de
+avaliadores sem formação especializada.
+e) não constitui necessariamente um vício ou desvio, podendo constituir uma
+diretriz da entidade na avaliação de seus colaboradores com vistas a processos
+de desligamento.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FUNDATEC – Prefeitura de Gramado-RS – 2019)
+Marras (2011) define que um dos principais problemas de um sistema de
+avaliação de desempenho são efeitos que, sob o ponto de vista psicológico,
+podem estar presentes no processo de duas maneiras distintas:
+conscientemente e inconscientemente. No âmbito das atitudes conscientes, um
+dos efeitos que é visto com mais frequência consiste na tendência que o
+avaliador imprime ao processo de avaliação quando se deixa levar por alguma
+característica do avaliado, que o marcou de forma tão significativa que o impede
+de interpretar as demais características com neutralidade e clareza, conhecido
+como efeito:
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FUNDATEC – Prefeitura de Gramado-RS – 2019)
+(...)
+a) Vetor.
+b) Halo.
+c) Horn.
+d) Central.
+e) Bad.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFRJ – UFRJ – Psicólogo)
+Analise a situação hipotética a seguir e marque a alternativa correta.
+Durante a preparação para o processo de avaliação de desempenho da
+Universidade Federal Fictícia, o psicólogo Avalino prepara um treinamento para
+os gestores, com objetivo de mitigar os erros de avaliação.
+Diversos casos anteriores de avaliação são levantados, destacando-se estes três:
+Caso 1 – O avaliador admitiu ter atribuído todas as notas em torno do ponto
+médio da escala para não se comprometer.
+Caso 2 – Um traço do avaliado se tornou dominante e contaminou toda a
+avaliação.
+Caso 3 – Foram levadas em consideração apenas situações recentes, de forma
+que erros e acertos recentes pesaram demasiadamente.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (UFRJ – UFRJ – Psicólogo)
+(...)
+Avalino decidiu incluir os casos 1, 2 e 3 no treinamento, pois se tratam
+respectivamente de casos de erro do tipo:
+a) ponto mediano, efeito stroop, memória de curto prazo.
+b) avaliação congelada, contaminação e recenticidade.
+c) tendência central, efeito halo e recenticidade.
+d) média avaliativa, efeito halo e leniência.
+e) tendência central, efeito stroop e leniência.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – AL-MS – Analista em Recursos Humanos - 2016)
+Um dos aspectos da gestão do desempenho é o avaliativo. Existem diferentes
+metodologias aplicáveis para avaliação de desempenho, porém é fundamental a
+aplicação acurada e o preparo e isenção do avaliador para evitar erros comuns
+que podem distorcer o resultado. Um desses erros, apontados com frequência,
+consiste em nivelar o julgamento do avaliado tomando por base um aspecto do
+desempenho e generalizando o resultado desse aspecto para todos os demais
+aspectos sob avaliação. Esse erro é comumente denominado
+a) projeção.
+b) tendência central.
+c) leniência.
+d) unilateralidade.
+e) efeito halo.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TST – Analista Judiciário)
+Em abordagens de avaliação de desempenho, tem-se ‘vicios de julgamento’ que
+dão origem a críticas que apontam para a subjetividade de sistemas de
+avaliação. Tais ´vícios` são classificados como conscientes ou inconscientes. Dois
+efeitos são tidos como conscientes e são vistos com maior frequência no mundo
+das organizações que se valem de avaliação de desempenho. São eles:
+a) basear-se em acontecimentos recentes e supervalorizar as qualidades
+potenciais.
+b) levar em conta características pessoais extracargo e julgar sob a impressão de
+uma qualidade.
+c) basear-se em acontecimentos recentes e julgar sob a impressão de uma
+qualidade.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TST – Analista Judiciário)
+(...)
+d) levar em conta características pessoais extracargo e basear-se em
+acontecimentos recentes.
+e) efeito halo e efeito de tendência central.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+---
+
+---

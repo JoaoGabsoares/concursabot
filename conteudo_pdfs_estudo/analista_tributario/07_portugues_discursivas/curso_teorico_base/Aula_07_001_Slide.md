@@ -1,0 +1,1023 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 07_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: ESTRUTURA E FORMAÇÃO
+---
+
+# ESTRUTURA E FORMAÇÃO
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                    Profª. Adriana Figueiredo
+
+               
+
+
+---
+
+ESTRUTURA E FORMAÇÃO
+    DE PALAVRAS
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+                             ESTRUTURA DAS PALAVRAS
+
+Observe a estrutura das palavras:
+sol, dent-ista, in-quiet-o, cant-a-mos, cha-l-eira
+
+
+A análise destes exemplos mostra-nos que as palavras são formadas de unidades
+ou elementos mórficos.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                             ESTRUTURA DAS PALAVRAS
+
+São os seguintes os elementos mórficos ou estruturais das palavras:
+
+
+• raiz, radical, tema: elementos básicos e significativos;
+
+
+• afixos (prefixos e sufixos), desinência, vogal temática: elementos modificadores
+da significação do radical;
+
+
+Os elementos mórficos dos grupos acima denominam-se morfemas.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                             ESTRUTURA DAS PALAVRAS
+
+RADICAL
+
+O radical é o elemento básico e significativo das palavras. Acha-se o radical
+despojando-se a palavra de seus elementos secundários (quando houver):
+
+
+Exemplos: CERT-o, CERT-eza, in-CERT-eza, CAFE-teira, a-JEIT-ar, RECEB-er, EDUC-ar,
+ILUS-ório, PERFUM-e, EXEMPL-ar, PERMIT-ir, ex-PORT-ação, in-OBSERV-ância, des-
+CONHEC-ido, a-PEDR-ejar.
+
+
+Observação: Em certas palavras só existe o radical (Ex.: fé, mar; sol, traz, etc.)
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                             ESTRUTURA DAS PALAVRAS
+
+VOGAL TEMÁTICA
+
+Vogal temática é o elemento que, acrescido ao radical, forma o tema de nomes e
+verbos.
+
+Nos verbos distinguem-se três vogais temáticas:
+
+a: que caracteriza os verbos da 1ª conjugação: anelar, andavas, etc.
+
+e: que caracteriza os verbos da 2ª conjugação: bater, batemos, etc.
+
+i: que caracteriza os verbos ela 3ª conjugação: partir, partirá, etc.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                            ESTRUTURA DAS PALAVRAS
+
+TEMA
+
+Tema é o radical acrescido de uma vogal (chamada vogal temática).
+
+Nos verbos o tema se obtém destacando-se o -r do infinitivo.
+
+Exemplos:
+CANTA-r, BATE-r, PARTl-r, etc.
+
+Nos nomes o tema é mais evidente em derivados de verbos.
+
+Exemplos:
+CAÇA-dor, DEVE-dor, FINGl-mento, PERDOÁ-vel, FERVE-nte, etc.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+AFIXOS
+
+Afixos são elementos secundários (geralmente sem vida autônoma) que se
+agregam a um radical ou tema para formar palavras derivadas. Chamam-se
+prefixos, quando antepostos ao radical ou tema, e sufixos, quando pospostos.
+
+Assim, nas palavras inativo e desanimador, temos:
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                                      ESTRUTURA DAS PALAVRAS
+
+DESINÊNCIAS
+
+Desinências são os elementos terminais indicativos das flexões das palavras.
+
+
+As desinências nominais indicam as flexões de gênero (masculino e feminino) e de
+número (singular e plural) dos nomes.
+
+
+Exemplo:
+menin-o                    menino-s
+menin-a                    menina-s
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+As desinências verbais indicam as flexões de número e pessoa e de modo e tempo
+dos verbos.
+
+Exemplos:
+am-o, ama-s, ama-mos, ama-is, ama-m (número-pessoal)
+ama-va, ama-va-s, ama-va, etc. (modo-temporal)
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+  I. Destaque o radical das palavras abaixo:
+
+1) desanimador
+2) realizar
+3) anoitecer
+4) exportação
+5) inativo
+6) dentadura
+7) corpo
+8) cafezal
+9) lamentar
+10) fogueira
+11) entristecer
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+  II. Destaque e classifique os elementos mórficos das palavras seguintes:
+
+
+1) insanável
+
+2) deslealdade
+
+3) operoso
+
+4) louvavas
+
+5) antimilitarismo
+
+6) cafeteira
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+  II. Destaque e classifique os elementos mórficos das palavras seguintes:
+
+
+7) cacauicultor
+
+8) tristonho
+
+9) certeza
+
+10) receber
+
+11) gostoso
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+COMPOSIÇÃO
+
+É a criação de uma nova palavra pela aproximação de duas ou mais palavras ou
+radicais. A composição pode ser efetuada através de duas formas:
+
+• Justaposição: Os radicais ou palavras se unem mantendo sua integridade
+sonora intocável, sem alteração, podendo ou não haver uso de hífen.
+
+Exemplos: guarda-chuva, mandachuva, pontapé, couve-flor, minissaia, greco-
+latino, cor-de-rosa, etc.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+• Aglutinação: Na junção dos radicais acontece a queda ou alteração sonora
+
+Exemplos: aguardente (água ardente), embora (em boa hora), hidrelétrico (hidro
+elétrico), planalto (plano alto).
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                            ESTRUTURA DAS PALAVRAS
+
+DERIVAÇÃO
+
+É o processo pelo qual se formam palavras a partir de um radical, ao qual se
+acrescentam afixos (prefixos e/ou sufixos). A derivação pode ocorrer de diferentes
+formas:
+
+• Derivação Prefixal: antepõe-se um prefixo a um radical. Ex.: descrença,
+introversão, superfeliz, conter.
+
+• Derivação Sufixal: acrescenta-se um sufixo a um radical. Ex.: dentista, jogador,
+boiada, sapataria, realizar, felizmente.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                            ESTRUTURA DAS PALAVRAS
+
+• Derivação Prefixal e Sufixal: acrescenta-se outro afixo (prefixo ou sufixo) a uma
+palavra que já possui afixo. Eliminando um dos afixos, a palavra continua existindo
+
+Ex.:
+inutilmente
+descumprimento
+incomunicável
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+• Derivação Parassintética: anexando-se, ao mesmo tempo, um prefixo e um
+sufixo a um radical no momento exato da criação da palavra. Ex.: envergonhar,
+embarcar, anoitecer, repatriar.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+• Derivação Imprópria: consiste em mudar a classe de uma palavra, estendendo-
+lhe a significação, porém, sem alteração fonética.
+
+Ex.:
+os bons, os maus, o verde (os adjetivos passam a ser substantivos)
+
+comício monstro, menino prodígio, traje esporte (os substantivos passam a ser
+adjetivos)
+
+falar alto, vender caro, tossir forte, falar baixo (os adjetivos passam a ser
+advérbios)
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+
+• Derivação Regressiva: ocorre por meio da supressão da palavra primitiva, gerando
+uma derivada. As palavras derivadas são criadas a partir de palavras primitivas, ex:
+flor (primitiva) e florista (derivada).
+
+
+Em geral, substitui-se a terminação de um verbo pelas desinências -a, -o ou -e.
+Chama-se também derivação deverbal, porque a palavra derivada é um substantivo
+que provém de um verbo.
+
+
+Ex.: mudar → muda, chorar → choro, rematar → remate
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+
+HIBRIDISMO
+
+São palavras em cuja formação entram elementos de línguas diferentes não
+importando se ela foi formada por composição ou por derivação.
+
+Exemplos: automóvel (grego + latim); bicicleta (latim + grego); endovenoso (grego
++ latim); alcoômetro (árabe + grego)
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+
+ESTRANGEIRISMO
+
+São palavras emprestadas de outras línguas que podem ou não ser adaptadas ao
+serem incorporadas no português.
+
+Exemplos: Show, site, pizza, shopping, garçom, fashion, hot dog, mouse, abajur
+(abat-jour), buquê (bouquet), futebol (football).
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+
+ONOMATOPEIAS
+
+São palavras originadas com a tentativa de reproduzir um som emitido na natureza,
+por pessoas ou animais.
+
+Exemplos: toc toc (batida de porta), din-don (campainha), hahaha (risos), tique-
+taque (relógio), miau (gato), trim trim (telefone), cof cof (tosse).
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           ESTRUTURA DAS PALAVRAS
+
+
+NEOLOGISMO
+
+É um fenômeno linguístico que consiste na criação de uma palavra ou expressão
+nova ou na atribuição de um novo sentido a uma palavra já existente. Esses termos
+surgem como um modo de suprir uma necessidade vocabular momentânea,
+transitória ou permanente.
+
+Exemplos: panelaço (movimento de protestos caracterizado pelo bater de
+panelas), sextar (aproveitar a sexta-feira), dar zebra (dar errado)
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+III. Identifique os processos de formação das palavras:
+
+1) motorista
+
+
+2) aeroplano
+
+
+3) internacional
+
+
+4) embora
+
+
+5) água-de-colônia
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+6) envernizar
+
+
+7) canalizar
+
+
+8) aguardente
+
+
+9) girassol
+
+
+10) comumente
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11) quinta-feira
+
+
+12) enlutar
+
+
+13) malmequer
+
+
+14) vivalma
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+IV. Informe o processo de derivação das palavras abaixo:
+
+
+1) inconsciente
+
+2) amadurecer
+
+3) surfista
+
+4) interesseiro
+
+5) desonesto
+
+6) emplacar
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+7) enfileirar
+
+8) gorduroso
+
+9) redondeza
+
+10) anoitecer
+
+11) reaver
+
+12) bimensal
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+V. Aponte a mudança de classe gramatical das palavras que sofreram derivação
+imprópria destacadas abaixo.
+
+
+1) O falar de meu pai é cadenciado.
+
+
+2) Havia no seu olhar um quê de encantador.
+
+3) Um não dito com tato machuca menos que um sim com grosseria.
+
+4) Tente sempre juntar o útil ao agradável.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+   IDENTIFICAR PROCESSOS DE
+           FORMAÇÃO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+01. AOCP - 2018 - Prefeitura de Belém - PA - Técnico em Radiografia
+
+Assinale a alternativa em que há um substantivo formado a partir de um processo
+de derivação sufixal.
+
+
+A) Consumo.
+
+B) Repor.
+
+C) Esgotamento.
+
+D) Ecológico.
+
+E) Biodiversidade.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. AOCP - 2018 - FUNPAPA - Analista de Sistemas
+
+Assinale a alternativa em que as palavras são formadas por derivação
+parassintética.
+
+
+A) Abençoar, enriquecer, desalmado.
+
+B) Inacreditável, maravilhoso, grandioso.
+
+C) Preconceito, anormal, casarão.
+
+D) Refazer, pedregulho, acaso.
+
+E) Compor, bebedouro, agressor.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+03. AOCP - 2018 - Prefeitura de Feira de Santana - BA - Professor
+
+As palavras “indisciplina” e “escolar” são formadas, respectivamente, pelos
+processos de
+
+
+A) composição por aglutinação e derivação sufixal.
+
+B) derivação prefixal e derivação sufixal.
+
+C) derivação prefixal e derivação parassintética.
+
+D) derivação sufixal e derivação prefixal.
+
+E) derivação imprópria e derivação imprópria.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+04. AOCP - 2018 - UEFS - Analista Universitário
+
+Assinale a alternativa que apresenta, respectivamente, os processos de formação
+das palavras de “propriedade e “mobilidade”.
+
+
+A) Composição por aglutinação – derivação prefixal.
+
+B) Neologismo – derivação sufixal.
+
+C) Composição por justaposição – derivação parassintética.
+
+D) Derivação sufixal – derivação sufixal.
+
+E) Derivação prefixal – derivação prefixal.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+05. AOCP - 2018 - Prefeitura de Feira de Santana - BA - Professor
+
+Sobre os processos de formação das palavras, considerando as palavras
+sublinhadas nos excertos, relacione as colunas e assinale a alternativa que
+apresenta a sequência correta.
+
+
+1. “[...] sociedade civil sem fins lucrativos e suprapartidária [...]”.
+
+2. “[...] sólida tríade: preparo, motivação [...]”.
+
+3. “[...] a solução obrigatoriamente perpassa por professores [...]”.
+
+4. “O impacto destes laços, uma vez fortalecidos [...]”.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+05. AOCP - 2018 - Prefeitura de Feira de Santana - BA - Professor
+
+( ) Derivação regressiva. ( ) Derivação sufixal. ( ) Derivação prefixal. ( ) Derivação
+prefixal e sufixal.
+
+
+A) 2 - 3 - 4 - 1.
+
+B) 2 - 4 - 3 - 1.
+
+C) 3 - 4 - 2 - 1.
+
+D) 1 - 2 - 3 - 4.
+
+E) 1 - 3 - 2 - 4.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+06. FGV - 2019 - Prefeitura de Salvador - BA - Fiscal
+
+Assinale a opção que indica a palavra que tem processo de formação distinta das
+demais.
+
+
+A) abordagens.
+
+B) literários.
+
+C) jornalista.
+
+D) fluminense.
+
+E) destaque.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+              SIGNIFICADO DE AFIXOS
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - 2018 - TJ-AL - Técnico Judiciário
+
+A internet tem produzido uma série de neologismos semânticos, ou seja,
+vocábulos antigos a que foram acoplados sentidos novos; NÃO está nesse caso:
+
+
+A) sítio;
+
+B) navegar;
+
+C) deletar;
+
+D) arquivo;
+
+E) provedor.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+08. FGV - 2019 - Prefeitura de Salvador - BA - Professor
+
+“O conceito de direitos humanos está sendo transformado num palavrão”. (Boris
+Casoy)
+
+
+Nessa frase, o vocábulo “palavrão”, formado com o sufixo -ão, perdeu o valor de
+aumentativo, passando a significar “palavra chula”.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. FGV - 2019 - Prefeitura de Salvador - BA - Professor
+
+A opção abaixo em que esse caso NÃO está representado por nenhum dos termos
+é:
+
+
+A) cartão – homenzarrão – garrafão.
+
+B) caixão – portão – colherão.
+
+C) papelão – facão – jarrão.
+
+D) casarão – panelão – pratão.
+
+E) pezão – cabeção – fardão.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+09. FGV-2018- Prefeitura de Boa Vista- RR - Assistente Cuidador Escolar
+
+O termo pedofilia é definido no dicionário Houaiss (p. 1457) como “perversão de
+indivíduo adulto que se sente atraído por crianças”, em que se destaca o
+significado do radical grego filia: “atração”.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+09. FGV-2018- Prefeitura de Boa Vista- RR - Assistente Cuidador Escolar
+
+O vocábulo abaixo, formado com o radical filia, que mostra seu significado
+corretamente é:
+
+
+A) necrofilia – atração pelos mortos;
+
+B) hemofilia – atração por hospitais;
+
+C) francofilia – atração pela franqueza;
+
+D) zoofilia – atração por doenças;
+
+E) cinefilia – atração pelo movimento.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+10. FGV - 2018 - AL-RO - Assistente Legislativo
+
+Na palavra “falatório”, o sufixo -ório tem o mesmo valor semântico no seguinte
+vocábulo:
+
+
+A) auditório.
+
+B) promontório.
+
+C) laboratório.
+
+D) relatório
+
+E) palavrório.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+           ASSERTIVAS CESPE/AOCP
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+11. CESPE - SEDUC-AM - Professor
+
+No vocábulo “zombavam” (L.24), além do radical zomb-, identificam-se o morfema
+temático de primeira conjugação a e o morfema modo-temporal -vam.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+12. CESPE - SEE-AL - Professor
+
+As palavras “guarda-chuva” e “sobrecarga” são formadas pelo processo de
+aglutinação.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+13. AOCP - UFOB
+
+“Inexplicável” e “desfavorável” são exemplos de palavras com prefixo, radical e
+sufixo.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+14. CEBRASPE - 2019 - Prefeitura de São Cristóvão - SE - Professor
+
+A palavra “dessalgado” é composta por prefixação.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+15. CESPE - 2018 - STM - Analista Judiciário
+
+As palavras “conspiração”, “sutilmente” e “terríveis” são formadas pelo processo
+morfológico de formação de palavras denominado sufixação.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+16. CESPE - SEDF - Professor
+
+
+Dois processos morfológicos atuam na formação do advérbio “infelizmente”. Dadas
+as propriedades dos afixos presentes, verifica-se uma ambiguidade estrutural
+referente à ordem de ocorrência desses processos: pode-se primeiramente
+adicionar o prefixo in- ao adjetivo feliz, e, depois o sufixo –mente, ou, ao contrário,
+pode-se adicionar primeiro o sufixo e, depois, o prefixo.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+17. CESPE - Instituto Rio Branco - Diplomata
+
+As palavras “inconexo” (v.1) e “absurda” (v.3) foram formadas pelo mesmo
+processo de derivação, que resulta em mudança de categoria gramatical de um
+vocábulo, sem que haja alteração morfológica.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+18. CESPE - Instituto Rio Branco - Diplomata
+
+ No verso “num Antônio antônimo de mim” (v.16), o poeta explora o fato de que
+ tanto “Antônio” quanto “antônimo” compartilham a mesma raiz etimológica, que
+ indica oposição, como em antissemita e antialérgico.
+
+ Certo
+ Errado
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+19. CESPE - Correios - Analista de Correios
+
+No processo de formação dos vocábulos “integração”, “impulsiona”,
+“indefectivelmente” e “imprudências”, identifica-se o prefixo in-, que neles
+expressa a noção de mudança de estado.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+20. AOCP - 2018 - UFOB - Técnico em Contabilidade
+
+“Incorporado” é exemplo de uma palavra com derivação parassintética.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+Obrigada
+                                        Profª. Adriana Figueiredo
+
+   
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIAN
+
+AF
+                                                   Profª. Adriana Figueiredo
+
+              
+
+
+---
+
+---

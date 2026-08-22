@@ -1,0 +1,2678 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 11_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Maurício
+artigos_citados:
+- Art. 171
+- Art. 297
+- Art. 299
+- Art. 313-B
+- Art. 337-A
+- art. 16
+- art.168-A
+- artigo 171
+sumulas_citadas:
+- "Súmula\n    24"
+- Súmula 24
+- Súmula 547
+- Súmula 599
+- Súmula 70
+- súmula vinculante 24
+---
+
+# Maurício
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                         Direito Previdenciário - Prof. Rubens
+                                                      Maurício
+
+                                                         Autor:
+                                     Rubens Mauricio Corrêa
+
+                                         22 de Fevereiro de 2024
+
+---
+
+      Rubens Mauricio Corrêa
+      Aula 10
+
+                                                                                     Índice
+1) Crimes Contra a Previdência Social - Simplificado
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                           60
+
+                                                             
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    CRIMES CONTRA A SEGURIDADE SOCIAL
+
+    APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA
+
+    Base Legal (artigo 168-A do Código Penal)
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           II – recolher contribuições devidas à previdência social que tenham integrado despesas
+           contábeis ou custos relativos à venda de produtos ou à prestação de serviços;
+
+           III - pagar benefício devido a segurado, quando as respectivas cotas ou valores já tiverem
+           sido reembolsados à empresa pela previdência social.
+
+           § 2º É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o
+           pagamento das contribuições, importâncias ou valores e presta as informações devidas à
+           previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+           § 3º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente
+           for primário e de bons antecedentes, desde que:
+
+           I – tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o
+           pagamento da contribuição social previdenciária, inclusive acessórios; ou
+
+           II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele
+           estabelecido pela previdência social, administrativamente, como sendo o mínimo para o
+           ajuizamento de suas execuções fiscais.
+
+           § 4º A faculdade prevista no § 3o deste artigo não se aplica aos casos de parcelamento de
+           contribuições cujo valor, inclusive dos acessórios, seja superior àquele estabelecido,
+           administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                3
+      www.estrategiaconcursos.com.br                                                                      60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Conduta Típica
+
+          • Deixar de repassar à previdência social as contribuições recolhidas dos
+            contribuintes, no prazo e forma legal ou convencional.
+
+          • Deixar de recolher, no prazo legal, contribuição ou outra importância
+            destinada à previdência social que tenha sido descontada de pagamento
+            efetuado a segurados, a terceiros ou arrecadada do público.
+
+          • Deixar de recolher contribuições devidas à previdência social que tenham
+            integrado despesas contábeis ou custos relativos à venda de produtos ou à
+            prestação de serviços.
+
+          • Deixar de pagar benefício devido a segurado, quando as respectivas cotas
+            ou valores já tiverem sido reembolsados à empresa pela Previdência Social.
+
+    O delito de apropriação indébita previdenciária, segundo a doutrina e a
+    jurisprudência, prescinde do dolo específico (ou seja, dispensa o dolo específico,
+    que é a vontade de realizar o fato com o fim especial de obter uma vantagem
+    indevida) e constitui crime omissivo próprio, que se perfaz com a mera omissão de
+    recolhimento da contribuição previdenciária dentro do prazo e das formas legais.
+
+
+    Objeto Jurídico Tutelado
+
+    Trata-se de um crime contra a Administração Pública. Busca-se proteger o
+    patrimônio do Estado, da Previdencia Social e de toda a coletividade participante
+    do sistema previdenciário.
+
+    Sujeito Ativo
+
+    Trata-se de crime próprio, pois somente pode ser praticado por pessoa física que
+    tenha o dever legal de repassar à Previdência Social as contribuições arrecadadas
+    dos contribuintes.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   4
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sujeito Passivo
+
+    O sujeito passivo do crime de apropriação indébita previdenciária é o Estado, em
+    especial a Previdência Social (RGPS)
+
+    Pena
+
+    A pena prevista para o crime de apropriação indébita previdenciária é a reclusão,
+    de 2 (dois) a 5 (cinco) anos, e multa.
+
+    No entanto, é facultado ao juiz deixar de aplicar a pena ou aplicar somente a de
+    multa se o agente for primário e de bons antecedentes, desde que:
+
+          • tenha promovido, após o início da ação fiscal e antes de oferecida a
+            denúncia, o pagamento da contribuição social previdenciária, inclusive
+            acessórios; ou
+          • o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior
+            àquele estabelecido pela previdência social, administrativamente, como
+            sendo o mínimo para o ajuizamento de suas execuções fiscais. (Atualmente
+            estabelecido em R$ 20.000,00)
+    Tal faculdade do juiz em deixar de aplicar a pena não se aplica aos casos de
+    parcelamento de contribuições cujo valor, inclusive dos acessórios, seja superior
+    àquele estabelecido, administrativamente, como sendo o mínimo para o
+    ajuizamento de suas execuções fiscais.
+
+    Extinção da Punibilidade
+
+    É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua
+    o pagamento das contribuições, importâncias ou valores e presta as informações
+    devidas à previdência social, na forma definida em lei ou regulamento, antes do
+    início da ação fiscal.
+
+    Palavras-chave da extinção da punibilidade no crime de apropriação indébita
+    previdenciária:
+
+          • espontaneamente;
+          • declara;
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   5
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+          •    confessa;
+          •    efetua o pagamento;
+          •    presta as informações devidas à previdência social;
+          •    antes do início da ação fiscal
+
+    Constituição Definitiva do Crédito Tributário Para a Caracterização do Crime
+    Tributário (Súmula Vinculante 24 – STF)
+
+    Para a caracterização de crime tributário é indispensável que tenha havido a
+    constituição definitiva do crédito tributário. Inclusive, há uma conhecida súmula
+    vinculante neste sentido:
+
+              Súmula Vinculante 24: Não se tipifica crime material contra a ordem tributária,
+              previsto no art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento
+              definitivo do tributo.
+
+    Assim, enquanto a dívida estiver sendo impugnada administrativamente, diz-se que
+    ainda não houve constituição definitiva do crédito tributário e, consequentemente,
+    não é permitido o ajuizamento de ação penal.
+
+    Isto ocorre porque não se sabe se esse crédito vai ser mantido ou não pela Fazenda,
+    até sua constituição definitiva na esfera administrativa. Seria temerário ajuizar ação
+    penal por conta de um crédito que ainda não está definitivamente constituído.
+
+    A apropriação indébita previdenciária é um crime tributário, uma vez que protege
+    o interesse estatal no recebimento das contribuições previdenciárias, visando
+    proteger, portanto, a arrecadação de um tributo.
+
+    O STJ entende que a apropriação indébita previdenciária é um crime tributário
+    material. Logo, aplica-se o entendimento da súmula vinculante 24-STF à
+    apropriação indébita previdenciária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      6
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           (...) Enquanto houver processo administrativo questionando a existência, o valor ou a
+           exigibilidade de tributos e contribuição previdenciária, atípicas são as condutas previstas no
+           artigo 2º, inciso I, da Lei nº 8.137/90 e no artigo 168-A do Código Penal, que têm, como
+           elemento normativo do tipo, a existência do crédito tributário e da contribuição devida a
+           ser repassada.
+
+           3. Não importa violação à independência das esferas administrativa e judiciária o aguardo
+           de decisum administrativo, no qual se constitui o lançamento definitivo dos créditos. (...)
+
+           (HC 163.603/SC, Min. Maria Thereza De Assis Moura, Sexta Turma, julgado em 20/08/2013)
+
+    Desta forma, necessária a constituição do crédito tributário para que se dê início à
+    persecução criminal no delito de apropriação indébita previdenciária. Após se
+    encerrar o procedimento administrativo-fiscal, estará caracterizado o crime,
+    cabendo ao Ministério Público Federal - MPF propor a denúncia.
+
+    SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA
+
+    Base Legal (artigo 337-A do Código Penal)
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+
+           I – omitir de folha de pagamento da empresa ou de documento de informações previsto
+           pela legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços;
+
+           II – deixar de lançar mensalmente nos títulos próprios da contabilidade da empresa as
+           quantias descontadas dos segurados ou as devidas pelo empregador ou pelo tomador de
+           serviços;
+
+           III – omitir, total ou parcialmente, receitas ou lucros auferidos, remunerações pagas ou
+           creditadas e demais fatos geradores de contribuições sociais previdenciárias:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º É extinta a punibilidade se o agente, espontaneamente, declara e confessa as
+           contribuições, importâncias ou valores e presta as informações devidas à previdência social,
+           na forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               7
+      www.estrategiaconcursos.com.br                                                                     60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           § 2º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente
+           for primário e de bons antecedentes, desde que:
+
+           I – (VETADO)
+
+           II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele
+           estabelecido pela previdência social, administrativamente, como sendo o mínimo para o
+           ajuizamento de suas execuções fiscais.
+
+           § 3º Se o empregador não é pessoa jurídica e sua folha de pagamento mensal não ultrapassa
+           R$ 1.510,00 (um mil, quinhentos e dez reais), o juiz poderá reduzir a pena de um terço até a
+           metade ou aplicar apenas a de multa.
+
+           § 4º O valor a que se refere o parágrafo anterior será reajustado nas mesmas datas e nos
+           mesmos índices do reajuste dos benefícios da previdência social.
+
+    Conduta Típica
+
+    Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+    mediante as seguintes condutas:
+          • omitir de folha de pagamento da empresa ou de documento de informações
+            previsto pela legislação previdenciária (GFIP/eSocial) segurados empregado,
+            empresário, trabalhador avulso ou trabalhador autônomo ou a este
+            equiparado que lhe prestem serviços;
+          • deixar de lançar mensalmente nos títulos próprios da contabilidade da
+            empresa as quantias descontadas dos segurados ou as devidas pelo
+            empregador ou pelo tomador de serviços;
+          • omitir, total ou parcialmente, receitas ou lucros auferidos, remunerações
+            pagas ou creditadas e demais fatos geradores de contribuições sociais
+            previdenciárias.
+
+    Objeto Jurídico Tutelado
+
+    Trata-se de um crime contra a Administração Pública. Busca-se proteger o
+    patrimônio do Estado, da Previdencia Social e de toda a coletividade participante
+    do sistema previdenciário.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            8
+      www.estrategiaconcursos.com.br                                                                  60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sujeito Ativo
+
+    Trata-se de crime próprio, pois somente pode ser praticado por pessoa física que
+    tenha o dever legal de praticar os atos mencionados e recolher à Previdência Social
+    as contribuições devidas.
+
+    Sujeito Passivo
+
+    O sujeito passivo do crime de sonegação de contribuição previdenciária é o Estado,
+    em especial a Previdência Social (RGPS).
+
+    Pena
+
+    A pena prevista para o crime de sonegação de contribuição previdenciária é a
+    reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+    No entanto, é facultado ao juiz deixar de aplicar a pena ou aplicar somente a de
+    multa se o agente for primário e de bons antecedentes, desde que:
+
+          • o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior
+            àquele estabelecido pela previdência social, administrativamente, como
+            sendo o mínimo para o ajuizamento de suas execuções fiscais. (Atualmente
+            estabelecido em R$ 20.000,00)
+
+
+    Se o empregador não é pessoa jurídica e sua folha de pagamento mensal não
+    ultrapassa R$ 4.984,35 (em valores atualizados para 2018), o juiz poderá reduzir a
+    pena de um terço até a metade ou aplicar apenas a de multa. Tal valor será
+    reajustado nas mesmas datas e nos mesmos índices do reajuste dos benefícios da
+    Previdência Social.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   9
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Extinção da Punibilidade
+
+    É extinta a punibilidade se o agente, espontaneamente, declara e confessa as
+    contribuições, importâncias ou valores e presta as informações devidas à
+    Previdência Social, na forma definida em lei ou regulamento, antes do início da
+    ação fiscal.
+
+              Obs.: Perceba que no crime de sonegação de contribuição previdenciária
+              não é necessário pagar para ter a punibilidade extinta, mas tão somente
+              declarar e confessar. Já no crime de apropriação indébita previdenciária,
+              é necessário declarar, confessar e PAGAR, para ter a punibilidade extinta.
+
+    Palavras-chave da extinção da punibilidade no crime de sonegação de contribuição
+    previdenciária:
+
+          •    espontaneamente;
+          •    declara;
+          •    confessa;
+          •    efetua o pagamento; (não precisa pagar)
+          •    presta as informações devidas à previdência social;
+          •    antes do início da ação fiscal
+
+    FALSIFICAÇÃO DE DOCUMENTO PÚBLICO
+
+    Base Legal (artigo 297 do Código Penal)
+              Art. 297 - Falsificar, no todo ou em parte, documento público, ou alterar documento público
+              verdadeiro:
+
+              Pena - reclusão, de dois a seis anos, e multa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              10
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           § 1º - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo,
+           aumenta-se a pena de sexta parte.
+
+           § 2º - Para os efeitos penais, equiparam-se a documento público o emanado de entidade
+           paraestatal, o título ao portador ou transmissível por endosso, as ações de sociedade
+           comercial, os livros mercantis e o testamento particular.
+
+           § 3º Nas mesmas penas incorre quem insere ou faz inserir:
+
+           I – na folha de pagamento ou em documento de informações que seja destinado a fazer
+           prova perante a previdência social, pessoa que não possua a qualidade de segurado
+           obrigatório;
+
+           II – na Carteira de Trabalho e Previdência Social do empregado ou em documento que deva
+           produzir efeito perante a previdência social, declaração falsa ou diversa da que deveria ter
+           sido escrita;
+
+           III – em documento contábil ou em qualquer outro documento relacionado com as
+           obrigações da empresa perante a previdência social, declaração falsa ou diversa da que
+           deveria ter constado.
+
+           § 4º Nas mesmas penas incorre quem omite, nos documentos mencionados no § 3o, nome
+           do segurado e seus dados pessoais, a remuneração, a vigência do contrato de trabalho ou
+           de prestação de serviços.
+
+    Conduta Típica
+
+          • Falsificar, no todo ou em parte, documento público;
+          • Alterar documento público verdadeiro;
+          • Inserir ou fazer inserir:
+                 o na folha de pagamento ou em documento de informações que seja
+                   destinado a fazer prova perante a previdência social, pessoa que não
+                   possua a qualidade de segurado obrigatório;
+                 o na Carteira de Trabalho e Previdência Social do empregado ou em
+                   documento que deva produzir efeito perante a previdência social,
+                   declaração falsa ou diversa da que deveria ter sido escrita;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            11
+      www.estrategiaconcursos.com.br                                                                  60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+                 o em documento contábil ou em qualquer outro documento relacionado
+                   com as obrigações da empresa perante a previdência social,
+                   declaração falsa ou diversa da que deveria ter constado.
+                 o omitir, nestes 3 últimos documentos mencionados acima, o nome do
+                   segurado e seus dados pessoais, a remuneração, a vigência do
+                   contrato de trabalho ou de prestação de serviços.
+
+    Objeto Jurídico Tutelado
+
+    Trata-se de um crime contra a Administração Pública. Busca-se proteger o Estado,
+    os beneficiários da Previdencia Social e de toda a coletividade participante do
+    sistema previdenciário que possa sofrer prejuízo.
+
+    Sujeito Ativo
+
+    Trata-se de crime comum, pois qualquer pessoa pode ser o sujeito ativo e praticar
+    o crime de falsificação de documento público.
+
+    Sujeito Passivo
+
+    O sujeito passivo do crime de falsificação de documento público é, em regra, o
+    Estado, especialmente representado na figura da Previdência Social (RGPS). No
+    entanto, o sujeito passivo também pode ser o próprio beneficiário do RGPS
+    (segurado ou dependente), caso venha a sofrer algum prejuízo.
+
+    Pena
+
+    A pena prevista para o crime de falsificação de documento público é a reclusão, de
+    dois a seis anos, e multa.
+
+    No entanto, se o agente é funcionário público, e comete o crime prevalecendo-se
+    do cargo, aumenta-se a pena de sexta parte.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   12
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Documentos Equiparados a Documento Público para Efeitos Penais
+
+    Para os efeitos penais, equiparam-se a documento público o emanado de entidade
+    paraestatal, o título ao portador ou transmissível por endosso, as ações de
+    sociedade comercial, os livros mercantis e o testamento particular.
+
+    FALSIDADE IDEOLÓGICA
+
+    Base Legal (artigo 299 do Código Penal)
+           Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar,
+           ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim
+           de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente
+           relevante:
+
+           Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um
+           a três anos, e multa, se o documento é particular.
+
+           Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do
+           cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a
+           pena de sexta parte.
+
+    Conduta Típica
+
+          • Omitir, em documento público ou particular, declaração que dele devia
+            constar;
+                 o com o fim de prejudicar direito,
+                 o com o fim de criar obrigação; ou
+                 o com o fim de alterar a verdade sobre fato juridicamente relevante.
+
+
+          • Inserir ou fazer inserir, em documento público ou particular, declaração falsa
+            ou diversa da que devia ser escrita.
+                 o com o fim de prejudicar direito,
+                 o com o fim de criar obrigação; ou
+                 o com o fim de alterar a verdade sobre fato juridicamente relevante.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                13
+      www.estrategiaconcursos.com.br                                                                      60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Objeto Jurídico Tutelado
+
+    Busca-se proteger o Estado e toda a coletividade. Genericamente, podemos dizer
+    que o bem jurídico tutelado pelo crime é a fé pública, especialmente a
+    autenticidade dos documentos públicos e particulares.
+
+    Sujeito Ativo
+
+    Trata-se de crime comum, pois qualquer pessoa pode ser o sujeito ativo e praticar
+    o crime de falsidade ideológica.
+
+    Sujeito Passivo
+
+    O sujeito passivo do crime de falsidade ideológica é, em regra, o Estado. No
+    entanto, o sujeito passivo também pode ser a pessoa prejudicada pela falsidade.
+
+    Pena
+
+    A pena prevista para o crime de falsidade ideológica é a reclusão, de um a cinco
+    anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se
+    o documento é particular.
+
+    Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou
+    se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena
+    de sexta parte.
+
+    Documentos Equiparados a Documento Público para Efeitos Penais
+
+    Para os efeitos penais, equiparam-se a documento público o emanado de entidade
+    paraestatal, o título ao portador ou transmissível por endosso, as ações de
+    sociedade comercial, os livros mercantis e o testamento particular.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   14
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Observações
+
+    Trata-se de um crime contra a Administração Pública. Neste crime o documento é
+    verdadeiro em seu aspecto formal, mas o seu conteúdo é falso.
+
+    No crime de falsidade ideológica o praticante visa obter, por exemplo, uma
+    vantagem patrimonial na esfera do pagamento de contribuições previdenciárias,
+    uma vez que alterando o conteúdo de determinados documentos, o recolhimento
+    realizado poderá ser reduzido.
+
+    É admitida a prática comissiva ou omissiva, ou seja, o agente que pratica o crime
+    pode tanto inserir algo no teor de um documento, tornando-o falso, como pode
+    ocultar parte deste documento. Ambas as práticas são consideradas crime e são
+    punidas da mesma forma.
+
+    Para a configuração do crime de falsidade ideológica é desnecessária realização de
+    perícia, pois a falsidade é no conteúdo do documento, e não na forma. Vejamos
+    decisão do STJ neste sentido:
+
+           “O acórdão impugnado não dissentiu da jurisprudência desta Corte, no sentido de que,
+           sendo a acusação de falsidade ideológica, é desnecessária a realização de perícia, uma
+           vez que, diferentemente do que ocorre com a falsidade documental, a alteração é no
+           conteúdo (e não na forma) do documento” (cf: AgRg no REsp. 1.304.046/RS, Rel. Min. FELIX
+           FISCHER, Quinta Turma, j. em 2/2/2016, DJe 15/2/2016). (STJ – AgRg no AREsp
+           1131067/MG).
+
+    INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES
+
+    Base Legal (artigo 313-A do Código Penal)
+
+    Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos,
+    alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou
+    bancos de dados da Administração Pública com o fim de obter vantagem indevida
+    para si ou para outrem ou para causar dano:
+
+    Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        15
+      www.estrategiaconcursos.com.br                                                              60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Conduta Típica
+
+          • Inserir dados falsos nos sistemas informatizados ou bancos de dados da
+            Administração Pública;
+                 o com o fim de obter vantagem indevida para si ou para outrem; ou
+                 o com o fim de causar dano
+
+
+          • Facilitar a inserção de dados falsos nos sistemas informatizados ou bancos de
+            dados da Administração Pública
+                 o com o fim de obter vantagem indevida para si ou para outrem; ou
+                 o com o fim de causar dano
+
+
+          • Alterar indevidamente dados corretos nos sistemas informatizados ou bancos
+            de dados da Administração Pública,
+                 o com o fim de obter vantagem indevida para si ou para outrem; ou
+                 o com o fim de causar dano
+          • Excluir indevidamente dados corretos nos sistemas informatizados ou bancos
+            de dados da Administração Pública,
+                 o com o fim de obter vantagem indevida para si ou para outrem; ou
+                 o com o fim de causar dano
+
+    Objeto Jurídico Tutelado
+
+    Busca-se proteger a segurança do conjunto de informações dos sistemas
+    informatizados e bancos de dados da Administração Pública, para a segurança de
+    toda a coletividade, os quais devem ser modificados somente nos limites legais.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   16
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sujeito Ativo
+
+    É o funcionário público autorizado a realizar as operações nos sistemas de
+    informatização ou de banco de dados da Administração Pública. Trata-se, portanto,
+    de crime funcional próprio.
+
+    É possível que o particular seja coautor ou partícipe desse crime.
+
+    Caso o agente não tenha autorização para realizar as operações, haverá a
+    configuração do crime de prevaricação.
+
+
+    Sujeito Passivo
+
+    O sujeito passivo deste crime é o Estado. No entanto, o particular também pode
+    ser sujeito passivo desse crime se a conduta do agente público lhe acarretar algum
+    prejuízo.
+
+    Pena
+
+    A pena prevista para o crime de inserção de dados falsos em sistema de
+    informações é a reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+    Observações
+
+    Trata-se de um crime contra a Administração Pública. Neste crime pune-se o dolo,
+    consubstanciado na vontade livre e consciente de inserir ou facilitar a inserção de
+    dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas
+    informatizados ou bancos de dados da Administração Pública.
+
+    Exige-se também o chamado elemento subjetivo do tipo, consistente no fim de
+    obter vantagem indevida para si ou para outrem ou para causar dano.
+
+    Não há previsão da modalidade culposa por imprudência, imperícia ou negligência.
+
+    A consumação do crime de Inserção de Dados Falsos em Sistema de Informação
+    independe da ocorrência de efetivo prejuízo para a Administração Pública,
+    exigindo-se, tão somente, o fim de obter vantagem indevida para si ou para outrem
+    ou para causar dano.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   17
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    MODIFICAÇÃO OU ALTERAÇÃO NÃO AUTORIZADA DE SISTEMA DE
+    INFORMAÇÕES
+
+    Base Legal (artigo 313-B do Código Penal)
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+    Conduta Típica
+
+          • Modificar sistema de informações
+                 o sem autorização ou solicitação de autoridade competente
+
+
+          • Modificar programa de informática
+                 o sem autorização ou solicitação de autoridade competente
+
+
+          • Alterar sistema de informações
+                 o sem autorização ou solicitação de autoridade competente
+
+
+          • Alterar programa de informática
+                 o sem autorização ou solicitação de autoridade competente
+
+    Objeto Jurídico Tutelado
+
+    Busca-se proteger a Administração Pública, em particular a segurança de seus
+    sistemas de informações e programas de informática, que só podem sofrer
+    modificações ou alterações quando a autoridade competente solicita ou autoriza a
+    determinado funcionário.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      18
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sujeito Ativo
+
+    É o funcionário público. Trata-se, portanto, de crime funcional próprio. Não se
+    exige nenhum fim específico, ou seja, não precisa ter finalidade de obter vantagem
+    ou causar dano.
+
+
+    Sujeito Passivo
+
+    O sujeito passivo deste crime é o Estado. No entanto, o particular também pode
+    ser sujeito passivo desse crime se a conduta do agente público lhe acarretar algum
+    prejuízo.
+
+    Pena
+
+    A pena prevista para o crime de modificação ou alteração não autorizada de
+    sistema de informações é detenção, de 3 (três) meses a 2 (dois) anos, e multa.
+
+    As penas são aumentadas de um terço até a metade se da modificação ou alteração
+    resulta dano para a Administração Pública ou para o administrado.
+
+    Observações
+
+    Trata-se de um crime contra a Administração Pública. Neste crime, diferentemente
+    do anterior, não há inserção de dados falsos, alteração ou exclusão indevidamente
+    dados corretos. O que ocorre, neste caso, é a modificação ou alteração de sistema
+    de informações ou programa de informática, sem a devida autorização ou
+    solicitação de autoridade competente.
+
+    Mesmo que não ocorra qualquer dano, o crime, ainda assim, estará consumado. Se
+    houver dano para a Administração Pública ou para o administrado, temos tão
+    somente um caso de aumento de pena.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   19
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    ESTELIONATO PREVIDENCIÁRIO
+
+    Base Legal (artigo 171, §3º do Código Penal)
+           Art. 171 - Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou
+           mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
+
+           Pena - reclusão, de um a cinco anos, e multa (...).
+
+           (...)
+
+           § 3º - A pena aumenta-se de um terço, se o crime é cometido em detrimento de entidade
+           de direito público ou de instituto de economia popular, assistência social ou beneficência.
+
+    Conduta Típica
+
+          • Obter, para si, vantagem ilícita, em prejuízo alheio.
+                   o induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou
+                     qualquer outro meio fraudulento.
+
+
+          • Obter, para outrem, vantagem ilícita, em prejuízo alheio.
+                   o induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou
+                     qualquer outro meio fraudulento.
+
+    Objeto Jurídico Tutelado
+
+    Busca-se proteger a inviolabilidade do patrimônio do Estado, da Previdencia Social
+    e de toda a coletividade participante do sistema previdenciário.
+
+    Sujeito Ativo
+
+    Trata-se de crime comum, pois qualquer pessoa pode ser o sujeito ativo e praticar
+    o crime de estelionato previdenciário.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               20
+      www.estrategiaconcursos.com.br                                                                     60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sujeito Passivo
+
+    O sujeito passivo deste crime é o Estado, em especial a Previdência Social. No
+    entanto, a pessoa enganada ou prejudicada também pode ser sujeito passivo desse
+    crime.
+
+    Pena
+
+    A pena para o crime de estelionato comum é de reclusão, de um a cinco anos, e
+    multa, No entanto, o crime de estelionato contra a previdência social tem o
+    aumento de pena previsto no § 3º do artigo 171 do Código Penal, conforme
+    entendimento sedimentado pelo Superior Tribunal de Justiça através da Súmula
+    24. A aludida Súmula, assevera que:
+
+           Súmula 24 STJ: “Aplica-se ao crime de estelionato em que figure como vítima entidade
+           autárquica da Previdência Social a qualificadora do § 3º do artigo 171 do Código Penal”.
+
+    Assim sendo, no estelionato previdenciário, as penas previstas para o estelionato
+    comum são aumentadas de um terço até a metade, se resultar dano para a
+    Administração Pública ou para o administrado.
+
+    O Princípio da Insignificância no Estelionato contra a Previdência Social
+
+    Em se tratando de crime de estelionato cometido contra a administração pública,
+    não se aplica o princípio da insignificância, pois a conduta que ofende o patrimônio
+    público, a moral administrativa e a fé pública possui elevado grau de
+    reprovabilidade. Inclusive foi esse o entendimento da CESPE num concurso para
+    Analista Judiciário do TRE- BA em 2017.
+
+    Nos termos da Súmula 599 STJ, temos que:
+
+           Súmula 599 STJ : “O princípio da insignificância é inaplicável aos crimes
+           contra a Administração Pública.”
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            21
+      www.estrategiaconcursos.com.br                                                                  60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Observações
+
+    Os benefícios que possuem caráter pecuniário são os alvos do crime de estelionato
+    previdenciário, utilizando de vários artifícios para deixar em erro o INSS,
+    objetivando auferir vantagem ilícita de cunho econômico que não fazia jus.
+
+    São basicamente duas as situações em que pode ocorrer o estelionato
+    previdenciário:
+
+    a) O benefício é fraudulento na origem, ou seja, é criado com ardil, sem qualquer
+    atendimento aos requisitos legais. Esta conduta pode ser cometida tanto pelo
+    próprio beneficiário quanto por alguém que viabiliza o benefício a um terceiro.
+    Temos no primeiro caso, por exemplo, a conduta de alguém que falsifica
+    documentos para obter uma aposentadoria por invalidez; no segundo caso
+    podemos citar a conduta do funcionário do INSS que – normalmente por meio de
+    corrupção – lança mão de fraude para criar o benefício em favor de um cidadão
+    que não se qualificaria para recebê-lo.
+
+    b) O benefício é devido, mas alguém utiliza o cartão previdenciário do beneficiário,
+    após sua morte, para continuar a receber os valores. Trata-se da situação em que,
+    apesar da morte do beneficiário, o INSS não é notificado e continua a disponibilizar
+    o benefício, do que se aproveitam terceiros – normalmente familiares.
+
+    A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do
+    Resp nº 1.206.105/RJ, afetado à sua competência, firmou compreensão no sentido
+    de que, quando praticado pelo próprio beneficiário, o estelionato efetivado em
+    detrimento de entidade de direito público é crime permanente, uma vez que a
+    ofensa ao bem jurídico tutelado é reiterada, mês a mês, enquanto não há a
+    descoberta da fraude, de modo que o termo inicial do prazo prescricional, em casos
+    tais, dá-se com o último recebimento indevido da remuneração” (STJ – AgRg no
+    REsp 1.571.511/RS, 6ª Turma, j. 18/02/2016).
+
+    “Tratando-se de crime de estelionato previdenciário praticado para que terceira
+    pessoa possa se beneficiar indevidamente, tem natureza de crime instantâneo com
+    efeitos permanentes, devendo ser contado o prazo prescricional a partir do
+    recebimento da primeira prestação do benefício indevido” (STJ – RHC 66.487/PB,
+    6ª Turma, j. 17/03/2016).
+
+    Aplica-se a regra da continuidade delitiva (art. 71 do CP) ao crime de estelionato
+    previdenciário praticado por terceiro, que após a morte do beneficiário segue
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   22
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    recebendo o benefício regularmente concedido ao segurado, como se este fosse,
+    sacando a prestação previdenciária por meio de cartão magnético todos os meses
+    (AgRg no REsp 1466641/SC, Rel. Ministro Rogerio Schietti Cruz, Julgado em
+    25/04/2017, DJE 15/05/2017).
+
+    A devolução à Previdência Social da vantagem percebida ilicitamente, antes do
+    recebimento da denúncia, não extingue a punibilidade do crime de estelionato
+    previdenciário, podendo, eventualmente, caracterizar arrependimento posterior,
+    previsto no art. 16 do CP (EDcl no AgRg no REsp 1540140/RS, Rel. Ministro
+    Reynaldo Soares Da Fonseca, Quinta Turma, Julgado em 22/11/2016, DJE
+    05/12/2016).
+
+    Em regra, as principais condutas perpetradas pelos agentes em face ao INSS para
+    obtenção de vantagem econômica são as seguintes:
+
+    a) Inserção de vínculos empregatícios falsos na CTPS ou informados por meio de
+    sistema informatizado (GFIP);
+
+    b) Fornecimento de declaração de sindicato dos trabalhadores rurais e congêneres
+    a pessoas quem não laboram na agricultura ou que não se enquadram na categoria
+    de segurado especial;
+
+    c) Falsificação de documentos pessoais (RG, CPF, CTPS falsos e documentos
+    comprobatórios da atividade rural com outro nome, guias de pagamentos e Perfil
+    Profissiográfico Profissional);
+
+    d)     Recebimento do benefício após óbito do beneficiário(a) pelos parentes; e
+
+    e)     Utilização de atestado médico falso.
+
+    Segundo a Orientação nº 02 da 2ª Câmara de Coordenação e Revisão do Ministério
+    Público Federal – MPF, orienta-se os membros do Ministério Público Federal que
+    oficiam na área criminal a adotarem medidas para que as prestações penais
+    pecuniárias, estabelecidas como pena restritiva de direito em decorrência de
+    condenação pelos crimes de estelionato previdenciário (Código Penal, art. 171-§
+    3º) e de sonegação de contribuição previdenciária (Código Penal, art. 337-A), sejam
+    aplicadas na melhoria do serviço de atendimento ao segurado na própria agência
+    da Previdência Social lesada, especialmente na eliminação de filas, na aquisição de
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   23
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    bebedouros e de cadeiras para a área de espera e na realização de reparos na sala
+    de atendimento.
+
+    AÇÃO PENAL PÚBLICA INCONDICIONADA
+
+    Nos crimes estudados nesta aula, a ação penal é pública incondicionada, ou seja,
+    não depende de prévia manifestação de qualquer pessoa para ser iniciada, sendo
+    irrelevante a manifestação do prejudicado.
+
+    A ação penal pública incondicionada será promovida por denúncia do Ministério
+    Público – e não é preciso a autorização ou representação de ninguém. O promotor
+    de Justiça não tem um querer, mas um dever de promover a denúncia.
+
+    REPRESENTAÇÃO FISCAL PARA FINS PENAIS - RFFP
+
+    O Auditor-Fiscal da Receita Federal do Brasil (AFRFB) deverá formalizar
+    Representação Fiscal para Fins Penais – RFFP, perante o Delegado ou Inspetor-
+    Chefe da Receita Federal do Brasil responsável pelo controle do processo
+    administrativo fiscal sempre que, no exercício de suas atribuições, identificar atos
+    ou fatos que, em tese, configurem crime contra a ordem tributária ou contra a
+    Previdência Social.
+
+    A Representação Fiscal para Fins Penais – RFFP relativa aos crimes contra a
+    Previdência Social, definidos nos arts. 168-A e 337-A do Código Penal, será
+    formalizada e protocolizada em até 10 (dez) dias contados da data da constituição
+    do crédito tributário.
+
+    A representação fiscal deverá permanecer no âmbito da unidade de controle até a
+    decisão final, na esfera administrativa, respeitado o prazo legal para cobrança
+    amigável.
+
+    A representação fiscal poderá ser formalizada em processo digital, desde que não
+    contenha elementos passíveis de perícia ou que caracterizem falsidade material ou
+    ideológica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   24
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    A representação fiscal será apensada ao processo administrativo-fiscal e
+    acompanhará o rito processual deste, caso o crédito tributário seja impugnado.
+
+    Os autos da representação fiscal, juntamente com cópia da respectiva decisão
+    administrativa, deverão ser arquivados na hipótese de o correspondente crédito
+    tributário ser extinto pelo julgamento administrativo, pelo pagamento ou pela
+    quitação do parcelamento.
+
+    Os autos da representação, ou seu arquivo digital, serão remetidos pelo Delegado
+    ou Inspetor-Chefe da Receita Federal do Brasil responsável pelo controle do
+    processo administrativo fiscal ao órgão do Ministério Público federal - MPF
+    competente para promover a ação penal, no prazo de 10 (dez) dias contados da
+    data:
+
+    I - do encerramento do prazo legal para cobrança amigável, depois de proferida a
+    decisão final, na esfera administrativa, sobre a exigência fiscal do crédito tributário
+    relacionado ao ilícito penal, sem que tenha havido o correspondente pagamento;
+
+    II - da exclusão da pessoa física ou jurídica do parcelamento do crédito tributário;
+
+    III - da lavratura de auto de infração ou da expedição de notificação de lançamento
+    de que não resulte exigência de crédito tributário.
+
+    RESTRIÇÕES DECORRENTES DE TRANSGRESSÕES DE NORMAS
+    PREVIDENCIÁRIAS
+
+    A empresa que transgredir as normas previdenciárias, além das outras sanções
+    previstas, sujeitar-se-á:
+
+    a) à suspensão de empréstimos e financiamentos, por instituições financeiras
+    oficiais;
+
+    b) à revisão de incentivos fiscais de tratamento tributário especial;
+
+    c) à inabilitação para licitar e contratar com qualquer órgão ou entidade da
+    administração pública direta ou indireta federal, estadual, do Distrito Federal ou
+    municipal;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   25
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    d) à interdição para o exercício do comércio, se for sociedade mercantil ou
+    comerciante individual;
+
+    e) à desqualificação para impetrar concordata;
+
+    f) à cassação de autorização para funcionar no país, quando for o caso.
+
+    No entanto, especificamente quanto à interdição para o exercício do comércio, se
+    for sociedade mercantil ou comerciante individual, o STF se manifestou da seguinte
+    forma:
+
+
+           Súmula 70 – STF: É inadmissível a interdição de estabelecimento como meio
+           coercitivo para cobrança de tributo.
+
+           Súmula 547 – STF: Não é lícito à autoridade proibir que o contribuinte em débito
+           adquira estampilhas, despache mercadorias nas alfândegas e exerça suas
+           atividades profissionais.
+
+    Às empresas, enquanto estiverem em débito não garantido com a União, não
+    poderão:
+
+          • distribuir quaisquer bonificações a seus acionistas;
+          • dar ou atribuir participação de lucros a seus sócios ou quotistas, bem como
+            a seus diretores e demais membros de órgãos dirigentes, fiscais ou
+            consultivos.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    26
+      www.estrategiaconcursos.com.br                                                          60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    APREENSÃO DE DOCUMENTOS
+
+    A Seguridade Social, por meio de seus órgãos competentes, promoverá a
+    apreensão de comprovantes de arrecadação e de pagamento de benefícios, bem
+    como de quaisquer documentos pertinentes, inclusive contábeis, mediante
+    lavratura do competente termo, com a finalidade de apurar administrativamente a
+    ocorrência dos crimes previstos em lei.
+
+    O Instituto Nacional do Seguro Social e a Secretaria da Receita Federal
+    estabelecerão normas específicas para:
+
+          • apreensão de comprovantes e demais documentos;
+          • apuração administrativa da ocorrência de crimes;
+          • devolução de comprovantes e demais documentos;
+          • instrução do processo administrativo de apuração;
+          • encaminhamento do resultado da apuração referida no inciso IV à autoridade
+            competente; e
+          • acompanhamento de processo judicial.
+
+    PRINCÍPIO DA INSIGNIFICÂNCIA
+
+    O princípio da insignificância tem origem no o princípio da intervenção mínima, que
+    significa que "o direito penal só deve cuidar de situações graves, de modo que o
+    juiz criminal só venha a ser acionado para solucionar fatos relevantes para a
+    coletividade”.
+
+    Na prática, uma decorrência do princípio da intervenção mínima foi o
+    reconhecimento do princípio da insignificância, que considera atípico o fato
+    quando a lesão ao bem jurídico tutelado pela lei penal é de tal forma irrisória que
+    não justifica a movimentação da máquina judiciária"
+
+    De acordo com o Supremo Tribunal Federal, considera-se "pequeno valor", o de
+    um salário mínimo vigente a época do fato, conforme segue:
+
+           EMENTA: (...). No estelionato privilegiado, o pequeno valor do prejuízo e circunstância
+           atenuante especifica, que integra o tipo, e deve ser aferido no momento da consumação do
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        27
+      www.estrategiaconcursos.com.br                                                              60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           delito, por se tratar de crime instantâneo, art. 171, PAR.1., do CP, entendendo-se por
+           "pequeno valor", o de um salário mínimo vigente a época do fato. A posterior reparação
+           do prejuízo e atenuante genérica se feita até o recebimento da denúncia, art. 16 do CP;
+           mesmo feita após a denúncia, mas antes do julgamento, ainda assim, e circunstância
+           atenuante genérica, art. 65, III, "b", do CP. "Habeas-corpus" conhecido, mas indeferido[2].
+           (grifos nossos).
+
+    Dessa forma, o princípio da insignificância é aplicado aos crimes que não lesam o
+    bem jurídico tutelado e, por tal, são considerados atípicos, conforme entendimento
+    do STF.
+
+    De acordo com o Tribunal Constitucional, para aplicação do princípio da
+    insignificância é necessário o preenchimento dos seguintes requisitos:
+
+    a) mínima ofensividade da conduta do agente;
+
+    b) nenhuma periculosidade social da ação;
+
+    c) reduzidíssimo grau de reprovabilidade do comportamento; e
+
+    d) inexpressividade da lesão jurídica provocada”.
+
+    Nos termos da Súmula 599 STJ, temos que:
+
+
+           Súmula 599 STJ:
+
+           “O princípio da insignificância é inaplicável aos crimes contra a
+           Administração Pública.”
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           28
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    QUESTÕES COMENTADAS
+
+          1. (VUNESP - Controlador Interno – IPRESB/ SP – 2017) (Adaptada).
+
+    Com relação aos crimes contra a Previdência, é correto afirmar que a Lei n°
+    9.983/2000 dispõe o seguinte: Constitui crime de apropriação indébita
+    previdenciária deixar de pagar benefício a segurado que tenha integrado despesas
+    contábeis ou custos relativos à venda de produtos ou à prestação de serviços.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           II – recolher contribuições devidas à previdência social que tenham integrado despesas
+           contábeis ou custos relativos à venda de produtos ou à prestação de serviços;
+
+           III - pagar benefício devido a segurado, quando as respectivas cotas ou valores já tiverem
+           sido reembolsados à empresa pela previdência social.
+
+    Como podemos perceber pela leitura do texto legal acima, constitui crime de
+    apropriação indébita previdenciária, dentre outros, deixar de recolher
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              29
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    contribuições devidas à previdência social que tenham integrado despesas
+    contábeis ou custos relativos à venda de produtos ou à prestação de serviços.
+    Deixar pagar benefício devido a segurado, também constitui crime de apropriação
+    indébita previdenciária, porém APENAS quando as respectivas cotas ou valores já
+    tiverem sido reembolsados à empresa pela Previdência Social.
+
+    Gabarito: ERRADO.
+
+          2. (VUNESP - Controlador Interno – IPRESB/ SP – 2017) (Adaptada).
+
+    Com relação aos crimes contra a Previdência, é correto afirmar que a Lei n°
+    9.983/2000 dispõe o seguinte:
+    Constitui crime de sonegação de contribuição previdenciária deixar de repassar à
+    previdência social as contribuições recolhidas dos contribuintes, no prazo e na
+    forma legal ou convencional.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de sonegação de contribuição previdenciária, previstas no art. 337-A do Código
+    Penal:
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+
+           I – omitir de folha de pagamento da empresa ou de documento de informações previsto
+           pela legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços;
+
+           II – deixar de lançar mensalmente nos títulos próprios da contabilidade da empresa as
+           quantias descontadas dos segurados ou as devidas pelo empregador ou pelo tomador de
+           serviços;
+
+           III – omitir, total ou parcialmente, receitas ou lucros auferidos, remunerações pagas ou
+           creditadas e demais fatos geradores de contribuições sociais previdenciárias:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        30
+      www.estrategiaconcursos.com.br                                                              60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           (...)
+
+    Vejamos, agora, as disposições legais acerca do crime de apropriação indébita
+    previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           (...)
+
+    Como podemos perceber pela leitura dos textos legais acima, deixar de repassar à
+    previdência social as contribuições recolhidas dos contribuintes, no prazo e na
+    forma legal ou convencional, não configura crime de sonegação de contribuição
+    previdenciária, mas sim crime de apropriação indébita previdenciária.
+
+    Gabarito: ERRADO.
+
+          3. (VUNESP - Controlador Interno – IPRESB/ SP – 2017) (Adaptada).
+
+    Com relação aos crimes contra a Previdência, é correto afirmar que a Lei n°
+    9.983/2000 dispõe o seguinte:
+    No crime de apropriação indébita previdenciária, a pena será reduzida pela
+    metade, se o agente, espontaneamente, declara, confessa e efetua o pagamento
+    das contribuições, importâncias ou valores, e presta as informações devidas à
+    previdência social, antes do recebimento da denúncia.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. (...)
+
+           (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   31
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           § 2º É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o
+           pagamento das contribuições, importâncias ou valores e presta as informações devidas à
+           previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+    Como podemos observar pela leitura do texto de lei acima transcrito, é extinta a
+    punibilidade (e não apenas reduzida pela metade), se o agente, espontaneamente,
+    declara, confessa e efetua o pagamento das contribuições, importâncias ou
+    valores, e presta as informações devidas à previdência social, antes do antes do
+    início da ação fiscal (e não antes do recebimento da denúncia).
+
+    Gabarito: ERRADO.
+
+          4. (FCC - Juiz do Trabalho - TST – 2017) (Adaptada).
+
+    Plutão constituiu uma empresa individual para criação e desenvolvimento de
+    sistemas informatizados, contratando quatro empregados. Decorrido o primeiro
+    ano de funcionamento, Plutão não conseguiu atingir o faturamento planejado no
+    início, acumulando dívidas com fornecedores e contraindo empréstimos bancários.
+    Assim, para dar sobrevida ao empreendimento decidiu, durante seis meses,
+    descontar as contribuições previdenciárias de seus empregados sem que houvesse
+    o devido recolhimento aos cofres da previdência social. Nessa situação, quanto aos
+    crimes contra a previdência social, julgue o item a seguir:
+    Caso Plutão confesse a dívida, efetue o pagamento espontâneo integral dos valores
+    devidos e preste as devidas informações ao órgão previdenciário, antes do início
+    da ação fiscal, poderá ser extinta a punibilidade de sua conduta.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. (...)
+
+           (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                32
+      www.estrategiaconcursos.com.br                                                                      60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           § 2º É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o
+           pagamento das contribuições, importâncias ou valores e presta as informações devidas à
+           previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+    Como podemos observar pela leitura do texto de lei acima transcrito, caso Plutão
+    confesse a dívida, efetue o pagamento espontâneo integral dos valores devidos e
+    preste as devidas informações ao órgão previdenciário, antes do início da ação
+    fiscal, poderá ser extinta a punibilidade de sua conduta. Portanto, assertiva correta.
+
+    Gabarito: CERTO.
+
+          5. (FCC - Juiz do Trabalho - Unificado – 2017) (Adaptada).
+
+    Plutão constituiu uma empresa individual para criação e desenvolvimento de
+    sistemas informatizados, contratando quatro empregados. Decorrido o primeiro
+    ano de funcionamento, Plutão não conseguiu atingir o faturamento planejado no
+    início, acumulando dívidas com fornecedores e contraindo empréstimos bancários.
+    Assim, para dar sobrevida ao empreendimento decidiu, durante seis meses,
+    descontar as contribuições previdenciárias de seus empregados sem que houvesse
+    o devido recolhimento aos cofres da previdência social. Nessa situação, quanto aos
+    crimes contra a previdência social, julgue o item a seguir:
+    Se os valores das contribuições previdenciárias não fossem descontados nas
+    remunerações dos empregados, embora não tivessem sido realizados os
+    recolhimentos devidos à previdência social, Plutão não responderia pela prática do
+    delito de apropriação indébita previdenciária.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                33
+      www.estrategiaconcursos.com.br                                                                      60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           (...)
+
+    Como podemos observar pela leitura do texto de lei acima transcrito, para que se
+    configure o crime de apropriação indébita previdenciária é necessário que o sujeito
+    ativo deixe de repassar à previdência social as contribuições efetivamente
+    recolhidas dos contribuintes ou que tenha sido efetivamente descontada de
+    pagamento efetuado a segurados, a terceiros ou arrecadada do público. Assim
+    sendo, se os valores das contribuições previdenciárias não forem descontados nas
+    remunerações dos empregados, Plutão não responderá pela prática do delito de
+    apropriação indébita previdenciária, ainda que não tenha realizados os
+    recolhimentos devidos à Previdência Social. Portanto, assertiva correta.
+
+    Gabarito: CERTO.
+
+          6. (FCC - Juiz do Trabalho - TRT – 2017) (Adaptada).
+
+    Plutão constituiu uma empresa individual para criação e desenvolvimento de
+    sistemas informatizados, contratando quatro empregados. Decorrido o primeiro
+    ano de funcionamento, Plutão não conseguiu atingir o faturamento planejado no
+    início, acumulando dívidas com fornecedores e contraindo empréstimos bancários.
+    Assim, para dar sobrevida ao empreendimento decidiu, durante seis meses,
+    descontar as contribuições previdenciárias de seus empregados sem que houvesse
+    o devido recolhimento aos cofres da previdência social. Nessa situação, quanto aos
+    crimes contra a previdência social, julgue o item a seguir:
+    Conforme entendimento consagrado pelo STF com caráter vinculante, necessária
+    a constituição do crédito tributário para que se dê início à persecução criminal no
+    delito de apropriação indébita previdenciária.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              34
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para a caracterização de crime tributário é indispensável que tenha havido a
+    constituição definitiva do crédito tributário. Inclusive, há uma conhecida súmula
+    vinculante neste sentido:
+           Súmula Vinculante 24: Não se tipifica crime material contra a ordem tributária, previsto no
+           art. 1º, incisos I a IV, da Lei nº 8.137/90, antes do lançamento definitivo do tributo.
+
+    Assim, enquanto a dívida estiver sendo impugnada administrativamente, diz-se que
+    ainda não houve constituição definitiva do crédito tributário e, consequentemente,
+    não é permitido o ajuizamento de ação penal.
+    O STJ entende que a apropriação indébita previdenciária é um crime tributário
+    material. Logo, aplica-se o entendimento da súmula vinculante 24-STF à
+    apropriação indébita previdenciária.
+    Desta forma, necessária a constituição do crédito tributário para que se dê início à
+    persecução criminal no delito de apropriação indébita previdenciária. Portanto,
+    assertiva correta.
+
+    Gabarito: CERTO.
+
+          7. (CESPE - Técnico do Seguro Social – INSS - 2016).
+
+    Maria, proprietária de uma sorveteria situada em uma cidade litorânea, adquiriu,
+    de forma financiada, dois novos freezers para seu estabelecimento comercial. Em
+    razão do período de baixa temporada, ocorreu considerável queda nas vendas da
+    sorveteria, e o seu faturamento tornou-se insuficiente para arcar com todas as
+    despesas. Diante dessa situação e visando honrar com o pagamento das prestações
+    dos freezers, Maria deixou de repassar à previdência social as contribuições
+    previdenciárias recolhidas dos cinco funcionários do estabelecimento, no prazo e
+    na forma legal, tendo incorrido em crime contra seguridade social. Tendo como
+    referência essa situação hipotética e com base nas disposições legais a respeito dos
+    crimes contra a seguridade social, julgue o próximo item.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           35
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    A conduta de Maria configura crime de apropriação indébita previdenciária, para o
+    qual a pena prevista é reclusão e multa.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la
+    consultemos o Código Penal, mais especificamente em seu Art.168-A, que trata de
+    apropriação indébita:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           II – recolher contribuições devidas à previdência social que tenham integrado despesas
+           contábeis ou custos relativos à venda de produtos ou à prestação de serviços;
+
+           III - pagar benefício devido a segurado, quando as respectivas cotas ou valores já tiverem
+           sido reembolsados à empresa pela previdência social.
+
+           (...)
+
+           (Destaque Nosso).
+
+    Diante do exposto, podemos verificar que Maria cometeu um crime de apropriação
+    indébita previdenciária, uma vez que deixou de repassar à Previdência Social as
+    contribuições   previdenciárias    recolhidas    dos cinco   funcionários   do
+    estabelecimento. Portanto, a assertiva está correta.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              36
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+          8. (CESPE - Técnico do Seguro Social – INSS - 2016).
+
+    Maria, proprietária de uma sorveteria situada em uma cidade litorânea, adquiriu,
+    de forma financiada, dois novos freezers para seu estabelecimento comercial. Em
+    razão do período de baixa temporada, ocorreu considerável queda nas vendas da
+    sorveteria, e o seu faturamento tornou-se insuficiente para arcar com todas as
+    despesas. Diante dessa situação e visando honrar com o pagamento das prestações
+    dos freezers, Maria deixou de repassar à previdência social as contribuições
+    previdenciárias recolhidas dos cinco funcionários do estabelecimento, no prazo e
+    na forma legal, tendo incorrido em crime contra seguridade social. Tendo como
+    referência essa situação hipotética e com base nas disposições legais a respeito dos
+    crimes contra a seguridade social, julgue o próximo item.
+    Iniciada ação fiscal em desfavor de Maria, o juiz responsável pelo processo não
+    poderá deixar de aplicar pena, ainda que Maria efetue os pagamentos devidos,
+    seja ré primária e goze de bons antecedentes.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la
+    consultemos o Código Penal, mais especificamente seu art.168-A, que trata de
+    apropriação indébita previdenciária:
+           Art. 168-A. (...)
+
+           § 3º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente
+           for primário e de bons antecedentes, desde que:
+
+           I – tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o
+           pagamento da contribuição social previdenciária, inclusive acessórios; ou
+
+           II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele
+           estabelecido pela previdência social, administrativamente, como sendo o mínimo para o
+           ajuizamento de suas execuções fiscais.
+
+           (Destaques Nossos).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           37
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Sendo assim, mesmo após iniciada ação fiscal em desfavor de Maria, o juiz
+    responsável pelo processo poderá deixar de aplicar pena, caso Maria efetue os
+    pagamentos devidos antes de oferecida a denúncia, seja ré primária e goze de bons
+    antecedentes.
+    Também é facultado ao juiz deixar de aplicar a pena caso o valor das contribuições
+    devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela
+    previdência social, administrativamente, como sendo o mínimo para o ajuizamento
+    de suas execuções fiscais.
+    Podemos concluir, portanto, que a assertiva está incorreta.
+
+    Gabarito: ERRADO.
+
+          9. (CESPE - Analista Legislativo - CAM DEP - 2014).
+
+    No que concerne aos crimes contra a seguridade social, aos delitos contra a
+    administração pública e aos crimes contra a fé pública, julgue o próximo item.
+    O delito de apropriação indébita previdenciária prescinde do dolo específico e
+    constitui crime omissivo próprio, que se perfaz com a mera omissão de
+    recolhimento da contribuição previdenciária dentro do prazo e das formas legais.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la
+    consultemos o Código Penal, mais especificamente em seu Art.168-A, o qual está
+    no capítulo V, que trata de apropriação indébita:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+    O delito de apropriação indébita previdenciária, segundo a doutrina e a
+    jurisprudência, prescinde do dolo específico (ou seja, dispensa o dolo específico,
+    que é a vontade de realizar o fato com o fim especial de obter uma vantagem
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   38
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    indevida) e constitui crime omissivo próprio, que se perfaz com a mera omissão de
+    recolhimento da contribuição previdenciária dentro do prazo e das formas legais.
+
+    Gabarito: CERTO.
+
+          10.        (TRT – Juiz do Trabalho – TRT 8ª Região - 2014) (Adaptada).
+
+    No que diz respeito à apropriação indébita previdenciária, a conduta do agente
+    que deixar de repassar à previdência social as contribuições recolhidas dos
+    contribuintes, no prazo e forma legal ou convencional, é CORRETO afirmar que:
+    Deixar de recolher, no prazo legal, a contribuição ou outra importância destinada
+    à assistência social que tenha sido descontada de pagamento efetuado aos
+    trabalhadores segurados, a terceiros ou arrecadada do público, também tipifica o
+    crime de apropriação indébita previdenciária.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           (...)
+
+    Como podemos extrair no artigo de lei acima transcrito, também tipifica o crime
+    de apropriação indébita previdenciária deixar de recolher, no prazo legal, a
+    contribuição ou outra importância destinada à PREVIDÊNCIA SOCIAL (e não à
+    assistência social) que tenha sido descontada de pagamento efetuado aos
+    trabalhadores segurados, a terceiros ou arrecadada do público.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              39
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Diante do erro em destaque, podemos afirmar que a assertiva está incorreta.
+
+    Gabarito: ERRADO.
+
+          11.        (TRT – Juiz do Trabalho – TRT 8ª Região - 2014) (Adaptada).
+
+    No que diz respeito à apropriação indébita previdenciária, a conduta do agente
+    que deixar de repassar à previdência social as contribuições recolhidas dos
+    contribuintes, no prazo e forma legal ou convencional, é CORRETO afirmar que:
+    É extinta a punibilidade se o agente, compelido judicialmente, efetua o pagamento
+    das contribuições, importâncias ou valores e presta as informações devidas à
+    previdência e à assistência social, na forma definida em lei ou regulamento, antes
+    ou depois do início da ação fiscal.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Podemos encontrar diversos erros na presente assertiva. Vejamos a capitulação
+    legal, consultando o Código Penal, mais especificamente em seu Art.168-A, que
+    trata de apropriação indébita previdenciária:
+           Art. 168-A.(...)
+
+            (...)
+
+           § 2º É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o
+           pagamento das contribuições, importâncias ou valores e presta as informações devidas à
+           previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal.
+
+           (...)
+
+           (Destaques Nossos).
+
+    Segundo a lei, será extinta a punibilidade se o agente, espontaneamente (e não
+    compelido judicialmente), declara, confessa e efetua o pagamento (além de efetuar
+    o pagamento, deverá também declarar e confessar tais valores) das contribuições,
+    importâncias ou valores e presta as informações devidas à previdência social (as
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                40
+      www.estrategiaconcursos.com.br                                                                      60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    informações não são prestadas à assistência social), na forma definida em lei ou
+    regulamento, antes do início da ação fiscal (jamais após o início da ação fiscal).
+    Como podemos perceber, existem diversos erros na afirmação do enunciado.
+    Portanto, assertiva incorreta.
+
+    Gabarito: ERRADO.
+
+          12.        (CESPE - Delegado - Polícia Federal – 2013).
+
+    José abriu uma pequena padaria no bairro onde reside e contratou dez
+    funcionários. Durante os primeiros seis meses de funcionamento do
+    estabelecimento comercial, José arrecadou as contribuições previdenciárias de
+    seus empregados, descontando-as das respectivas remunerações, mas não
+    recolheu esses valores aos cofres da previdência social. Com base nessa situação
+    hipotética e na legislação relativa aos crimes contra a previdência social, julgue o
+    item subsequente.
+    Se, até antes do início da ação fiscal, José confessar a dívida e efetuar
+    espontaneamente o pagamento integral dos valores devidos, prestando as devidas
+    informações ao órgão da previdência social, a punibilidade de sua conduta poderá
+    ser extinta.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-lo,
+    vamos consultar o Código Penal Art. 168-A, que trata de apropriação indébita
+    previdenciária:
+           Art. 168-A. (...)
+
+           (...)
+
+           § 2o É extinta a punibilidade se o agente, espontaneamente, declara, confessa
+           e efetua o pagamento das contribuições, importâncias ou valores e presta as
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   41
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           informações devidas à previdência social, na forma definida em lei ou
+           regulamento, antes do início da ação fiscal.
+
+           (...)
+           (Destaque nosso).
+
+    Através da leitura desse artigo, podemos concluir que a assertiva está correta, pois
+    é exatamente o que afirma o legislador.
+
+    Gabarito: CERTO.
+
+          13.        (CESPE - Delegado - Polícia Federal – 2013).
+
+    José abriu uma pequena padaria no bairro onde reside e contratou dez
+    funcionários. Durante os primeiros seis meses de funcionamento do
+    estabelecimento comercial, José arrecadou as contribuições previdenciárias de
+    seus empregados, descontando-as das respectivas remunerações, mas não
+    recolheu esses valores aos cofres da previdência social.
+    Com base nessa situação hipotética e na legislação relativa aos crimes contra a
+    previdência social, julgue o item subsequente.
+    Ainda que não tivesse descontado das remunerações de seus empregados os
+    valores relativos às contribuições previdenciárias, José responderia pela prática do
+    delito de apropriação indébita previdenciária.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de apropriação indébita previdenciária, previstas no art. 168-A do Código Penal:
+           Art. 168-A. Deixar de repassar à previdência social as contribuições recolhidas dos
+           contribuintes, no prazo e forma legal ou convencional:
+
+           Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   42
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           § 1º Nas mesmas penas incorre quem deixar de:
+
+           I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social
+           que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada
+           do público;
+
+           (...)
+
+    Como podemos observar pela leitura do texto de lei acima transcrito, para que se
+    configure o crime de apropriação indébita previdenciária é necessário que o sujeito
+    ativo deixe de repassar à previdência social as contribuições efetivamente
+    recolhidas dos contribuintes ou que tenha sido efetivamente descontada de
+    pagamento efetuado a segurados, a terceiros ou arrecadada do público. Assim
+    sendo, caso João não desconte das remunerações de seus empregados os valores
+    relativos às contribuições previdenciárias, não responderá pela prática do delito de
+    apropriação indébita previdenciária.
+
+    Podemos concluir, portanto, que a assertiva está incorreta. Se João não reteve o
+    valor, ele não se apropriou indevidamente.
+
+    Gabarito: ERRADO
+
+          14.        (VUNESP - Controlador Interno – IPRESB/ SP – 2017) (Adaptada).
+
+    Com relação aos crimes contra a Previdência, é correto afirmar que a Lei n°
+    9.983/2000 dispõe o seguinte:
+    As penas previstas para os crimes de apropriação indébita previdenciária e de
+    sonegação de contribuição previdenciária são de reclusão, de 03 (três) a 06 (seis)
+    anos, e multa.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              43
+      www.estrategiaconcursos.com.br                                                                    60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Incorreta a presente assertiva, pois a pena previstas para os crimes de apropriação
+    indébita previdenciária e de sonegação de contribuição previdenciária é a reclusão,
+    de 2 (dois) a 5 (cinco) anos, e multa.
+
+    Gabarito: ERRADO.
+
+          15.        (VUNESP - Controlador Interno – IPRESB/ SP – 2017) (Adaptada).
+
+    Com relação aos crimes contra a Previdência, é correto afirmar que a Lei n°
+    9.983/2000 dispõe o seguinte:
+    No crime de sonegação de contribuição previdenciária, é facultado ao juiz deixar
+    de aplicar a pena ou aplicar somente a de multa, se o agente for primário e de bons
+    antecedentes, desde que o valor das contribuições devidas, inclusive acessórios,
+    seja igual ou inferior àquele estabelecido pela previdência social,
+    administrativamente, como sendo o mínimo para o ajuizamento de suas execuções
+    fiscais.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Para resolvermos esta questão, vamos analisar as disposições legais acerca do crime
+    de sonegação de contribuição previdenciária, previstas no art. 337-A do Código
+    Penal:
+           Art. 337-A. (...)
+
+           (...)
+
+           § 2º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente
+           for primário e de bons antecedentes, desde que:
+
+           (...)
+
+           II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele
+           estabelecido pela previdência social, administrativamente, como sendo o mínimo para o
+           ajuizamento de suas execuções fiscais.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           44
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           (...)
+
+    A assertiva está correta, pois reproduz com exatidão o que está previsto no Código
+    Penal.
+
+    Gabarito: CERTO.
+
+          16.        (TRT - Juiz do Trabalho - TRT 2ª Região – 2010) (Adaptada).
+
+    O representante legal da empresa que, para reduzir o valor das parcelas devidas à
+    Previdência Social, omite propositalmente da sua folha de pagamento o nome de
+    vinte empregados contratados:
+    Incide no crime de apropriação indébita previdenciária.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 337-A, que trata do
+    crime de sonegação de contribuição previdenciária:
+           Sonegação de contribuição previdenciária
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+           I - omitir de folha de pagamento da empresa ou de documento de informações previsto pela
+           legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços;
+           (...)
+
+    De fato, há crime. Porém trata-se de crime de Sonegação de Contribuição
+    Previdenciária (e não crime de apropriação indébita previdenciária). Portanto está
+    incorreta a assertiva.
+
+    Gabarito: ERRADO
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       45
+      www.estrategiaconcursos.com.br                                                             60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+          17.        (TRT - Juiz do Trabalho - TRT 2ª Região – 2010) (Adaptada).
+
+    O representante legal da empresa que, para reduzir o valor das parcelas devidas à
+    Previdência Social, omite propositalmente da sua folha de pagamento o nome de
+    vinte empregados contratados:
+    Incide no crime de sonegação de contribuição previdenciária.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 337-A, que trata do
+    crime de sonegação de contribuição previdenciária:
+           Sonegação de contribuição previdenciária
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+           I - omitir de folha de pagamento da empresa ou de documento de informações previsto pela
+           legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços;
+           (...)
+           (Destaques Nossos).
+
+    De fato, tal prática configura crime de Sonegação de Contribuição Previdenciária,
+    como podemos observar na lei, desde que tal omissão venha acompanhada da
+    supressão ou redução do recolhimento da contribuição social previdenciária
+    devida. Portanto está correta a presente assertiva.
+
+    Gabarito: CERTO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       46
+      www.estrategiaconcursos.com.br                                                             60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+          18.        (TRT - Juiz do Trabalho - TRT 2ª Região – 2010) (Adaptada).
+
+    O representante legal da empresa que, para reduzir o valor das parcelas devidas à
+    Previdência Social, omite propositalmente da sua folha de pagamento o nome de
+    vinte empregados contratados:
+    Incide no crime de falsificação de documento público previdenciário.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 337-A, que trata do
+    crime de sonegação de contribuição previdenciária:
+    Sonegação de contribuição previdenciária
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+           I - omitir de folha de pagamento da empresa ou de documento de informações previsto pela
+           legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços;
+           (...)
+           (Destaques Nossos).
+
+    De fato, há crime. Porém trata-se de crime de Sonegação de Contribuição
+    Previdenciária (e não crime de falsificação de documento público previdenciário).
+    Portanto está incorreta a assertiva.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       47
+      www.estrategiaconcursos.com.br                                                             60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+          19.        (TRT - Juiz do Trabalho - TRT 2ª Região – 2010) (Adaptada).
+
+    O representante legal da empresa que, para reduzir o valor das parcelas devidas à
+    Previdência Social, omite propositalmente da sua folha de pagamento o nome de
+    vinte empregados contratados:
+    Incide no crime de falsidade ideológica.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 337-A, que trata do
+    crime de sonegação de contribuição previdenciária:
+    Sonegação de contribuição previdenciária
+           Art. 337-A. Suprimir ou reduzir contribuição social previdenciária e qualquer acessório,
+           mediante as seguintes condutas:
+           I - omitir de folha de pagamento da empresa ou de documento de informações previsto pela
+           legislação previdenciária segurados empregado, empresário, trabalhador avulso ou
+           trabalhador autônomo ou a este equiparado que lhe prestem serviços; (...)
+
+    De fato, há crime. Porém trata-se de crime de Sonegação de Contribuição
+    Previdenciária (e não Falsidade Ideológica). Portanto está incorreta a assertiva.
+
+    Gabarito: ERRADO
+
+          20.        (FCC- Analista Ministerial - Área Jurídica - MPE-PE– 2012)
+
+    Quanto ao crime de Inserção de Dados Falsos em Sistema de Informação, é correto
+    afirmar que a consumação independe da ocorrência de efetivo prejuízo para a
+    Administração Pública.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       48
+      www.estrategiaconcursos.com.br                                                             60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-A, que trata do
+    crime de inserção de dados falsos em sistema de informações:
+
+
+    Inserção de dados falsos em sistema de informações
+           Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar
+           ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados
+           da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou
+           para causar dano:
+
+           Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+    De fato, no crime de Inserção de Dados Falsos em Sistema de Informação, a
+    consumação independe da ocorrência de efetivo prejuízo para a Administração
+    Pública, exigindo-se, tão somente, o fim de obter vantagem indevida para si ou
+    para outrem ou para causar dano. Portanto está correta a assertiva.
+
+    Gabarito: CERTO
+
+          21.        (VUNESP - Advogado - Prefeitura de Registro - SP – 2016)
+
+    Sobre o crime de inserção de dados falsos em sistema de informações, tipificado
+    no artigo 313-A do Código Penal, tal crime requer um fim especial de agir
+    consistente na obtenção de vantagem indevida para si ou para outrem ou para
+    causar dano.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-A, que trata do
+    crime de inserção de dados falsos em sistema de informações:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               49
+      www.estrategiaconcursos.com.br                                                                     60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Inserção de dados falsos em sistema de informações
+           Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar
+           ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados
+           da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou
+           para causar dano:
+
+           Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+           (Grifos nossos)
+
+    De fato, como podemos perceber pela simples leitura da base legal acima, no crime
+    de Inserção de Dados Falsos em Sistema de Informação é exigível o fim de obter
+    vantagem indevida para si ou para outrem ou para causar dano. Portanto está
+    correta a assertiva.
+
+    Gabarito: CERTO
+
+          22.        (VUNESP - Procurador Legislativo - Câmara de Cotia - SP – 2017)
+
+    O funcionário público que insere dados inexatos no banco de dados da
+    Administração Pública, por distração, em tese, pratica o crime de inserção de dados
+    falsos em sistema de informações.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-A, que trata do
+    crime de inserção de dados falsos em sistema de informações:
+    Inserção de dados falsos em sistema de informações
+           Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar
+           ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados
+           da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou
+           para causar dano:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               50
+      www.estrategiaconcursos.com.br                                                                     60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+           (Grifos nossos)
+
+    De fato, como podemos perceber pela simples leitura da base legal acima, no crime
+    de Inserção de Dados Falsos em Sistema de Informação é exigível o fim de obter
+    vantagem indevida para si ou para outrem ou para causar dano. Assim sendo, o
+    funcionário público que insere dados inexatos no banco de dados da Administração
+    Pública, por distração, não pratica tal crime, pois não possui a intenção de obter
+    vantagem indevida para si ou para outrem ou para causar dano, como previsto na
+    lei. Portanto está incorreta a assertiva.
+
+    Gabarito: ERRADO
+
+          23.        (CETREDE - Procurador - Prefeitura de Itapipoca - CE – 2016)
+
+    Configura crime de inserção de dados falsos em sistema de informações, o ato de
+    modificar ou alterar o sistema de informações ou programa de informática sem
+    autorização ou solicitação de autoridade competente.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-B, que trata do
+    crime de modificação ou alteração não autorizada de sistema de informações:
+           Modificação ou alteração não autorizada de sistema de informações
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+            (Destaques Nossos).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      51
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Como podemos perceber pela análise do texto legal, o crime presente na assertiva
+    é o crime de modificação ou alteração não autorizada de sistema de informações
+    (e não crime de inserção de dados falsos em sistema de informações). Portanto está
+    incorreta a assertiva.
+
+    Gabarito: ERRADO
+
+          24.        (FUNCAB - Delegado de Polícia Civil - PC-PA – 2016)
+
+    Nos crimes de inserção de dados falsos em sistemas de informações (art. 313-A do
+    CP) e modificação ou alteração não autorizada de sistema de informações (art. 313-
+    B do CP) se exige que figure, como sujeito ativo da conduta, o funcionário público
+    autorizado.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente seus artigos 313-A e 313-B, que
+    tratam, respectivamente, dos crimes de inserção de dados falsos em sistema de
+    informações e do crime de modificação ou alteração não autorizada de sistema de
+    informações:
+
+
+           Inserção de dados falsos em sistema de informações
+           Art. 313-A. Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar
+           ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados
+           da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou
+           para causar dano:
+
+           Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.
+
+           Modificação ou alteração não autorizada de sistema de informações
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício               52
+      www.estrategiaconcursos.com.br                                                                     60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+    Estamos diante de uma questão que nos indaga acerca do conhecimento do sujeito
+    ativo, e cada um dos crimes mencionados.
+
+    No crime de inserção de dados falsos em sistema de informações, o sujeito ativo é
+    o funcionário público autorizado a realizar as operações nos sistemas de
+    informatização ou de banco de dados da Administração Pública. Trata-se, portanto,
+    de crime funcional próprio.
+
+    No crime de modificação ou alteração não autorizada de sistema de informações,
+    o sujeito ativo é qualquer servidor público não autorizado a modificar ou alterar o
+    sistema de informação ou programa de informática.
+
+    Assim sendo, com a questão afirma que o sujeito ativo da conduta é o funcionário
+    público autorizado, podemos afirmar que a assertiva está incorreta.
+
+    Gabarito: ERRADO
+
+          25.        (Prefeitura do Rio de Janeiro - RJ - Assistente Administrativo – 2016)
+
+    Alterar sistema de informações ou programa de informática sem autorização ou
+    solicitação de autoridade competente é conduta que corresponde à seguinte pena,
+    além da multa:
+      a) reclusão
+      b) prisão administrativa
+      c) detenção
+      d) advertência
+      e) suspensão
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      53
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-B, que trata do
+    crime de modificação ou alteração não autorizada de sistema de informações:
+           Modificação ou alteração não autorizada de sistema de informações
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+            (Destaques Nossos).
+
+    A pena para o crime de modificação ou alteração não autorizada de sistema de
+    informações detenção, de 3 (três) meses a 2 (dois) anos, e multa, podendo ter sua
+    pena aumentada de um terço até a metade se da modificação ou alteração resulta
+    dano para a Administração Pública ou para o administrado.
+
+    Ou seja, além da pena de multa, a pena será também de detenção.
+
+    Gabarito: C
+
+          26.        (COPEVE/UFAL - Auditor - UFAL – 2016)
+
+    O funcionário público que altera dados de uma licitação em sistema sem
+    autorização de autoridade competente, comete crime contra a Administração
+    Pública.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      54
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-B, que trata do
+    crime de modificação ou alteração não autorizada de sistema de informações:
+           Modificação ou alteração não autorizada de sistema de informações
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+            (Destaques Nossos).
+                                                       ==219a34==
+
+    Caso determinado funcionário público altere dados de uma licitação em sistema
+    sem autorização de autoridade competente, comete crime de modificação ou
+    alteração não autorizada de sistema de informações, previsto no art. 313-B do
+    Código Penal. Tal crime é classificado como crime contra a Administração Pública.
+    Portanto está correta a assertiva.
+
+    Gabarito: CERTO
+
+          27.        (VUNESP - Advogado - DESENVOLVESP – 2014)
+
+    O crime de modificação ou alteração não autorizada de sistema de informações
+    (CP, art. 313-B) tem penas aumentadas se
+      a) praticado mediante fraude.
+      b) praticado com intuito de obter lucro.
+      c) o agente estiver a serviço da Administração.
+      d) praticado por funcionário público, ou com sua conivência.
+     e) da modificação ou alteração resultar dano para a Administração Pública ou para
+    o administrado.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      55
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente em seu Art. 313-B, que trata do
+    crime de modificação ou alteração não autorizada de sistema de informações:
+           Modificação ou alteração não autorizada de sistema de informações
+           Art. 313-B. Modificar ou alterar, o funcionário, sistema de informações ou programa de
+           informática sem autorização ou solicitação de autoridade competente:
+
+           Pena – detenção, de 3 (três) meses a 2 (dois) anos, e multa .
+
+           Parágrafo único. As penas são aumentadas de um terço até a metade se da modificação ou
+           alteração resulta dano para a Administração Pública ou para o administrado.
+
+            (Destaques Nossos).
+
+    Como podemos perceber pela leitura atenta do parágrafo único do art. 313-B
+    acima transcrito, as penas são aumentadas de um terço até a metade se da
+    modificação ou alteração resulta dano para a Administração Pública ou para o
+    administrado. Portanto, a alternativa correta é a “alternativa e”
+
+    Gabarito: E
+
+          28.     (PGR – Procurador da República – Ministério Público Federal - 2017)
+             (Adaptada).
+
+    Em tema de estelionato previdenciário, segundo o entendimento da 2ª Câmara de
+    Coordenação e Revisão do MPF, julgue o item a seguir:
+    Havendo imposição de prestação pecuniária ela pode ser aplicada na melhoria do
+    serviço de atendimento ao segurado na agência da previdência social lesada.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      56
+      www.estrategiaconcursos.com.br                                                            60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Segundo a Orientação nº 02 da 2ª Câmara de Coordenação e Revisão do Ministério
+    Público Federal – MPF, orienta-se os membros do Ministério Público Federal que
+    oficiam na área criminal a adotarem medidas para que as prestações penais
+    pecuniárias, estabelecidas como pena restritiva de direito em decorrência de
+    condenação pelos crimes de estelionato previdenciário (Código Penal, art. 171-§
+    3º) e de sonegação de contribuição previdenciária (Código Penal, art. 337-A), sejam
+    aplicadas na melhoria do serviço de atendimento ao segurado na própria agência
+    da Previdência Social lesada, especialmente na eliminação de filas, na aquisição de
+    bebedouros e de cadeiras para a área de espera e na realização de reparos na sala
+    de atendimento. Assim sendo, está correta a presente assertiva.
+
+    Gabarito: CERTO.
+
+          29.        (CESPE - Analista Judiciário – Área Judiciária - TRE-BA – 2017)
+
+    Extingue-se a punibilidade do delito de estelionato previdenciário se o agente
+    devolver a vantagem ilícita recebida à Previdência Social antes do recebimento da
+    denúncia.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente seu artigo 171, §3º, que trata do
+    crime de estelionato previdenciário:
+    Estelionato Previdenciário
+           Art. 171 - Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou
+           mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
+           Pena - reclusão, de um a cinco anos, e multa (...).
+           (...)
+           § 3º - A pena aumenta-se de um terço, se o crime é cometido em detrimento de entidade
+           de direito público ou de instituto de economia popular, assistência social ou beneficência.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           57
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Segundo jurisprudência do STJ, a devolução à Previdência Social da vantagem
+    percebida ilicitamente, antes do recebimento da denúncia, não extingue a
+    punibilidade do crime de estelionato previdenciário, podendo, eventualmente,
+    caracterizar arrependimento posterior, previsto no art. 16 do CP (EDcl no AgRg no
+    REsp 1540140/RS, Rel. Ministro Reynaldo Soares Da Fonseca, Quinta Turma,
+    Julgado em 22/11/2016, DJE 05/12/2016). Portanto está incorreta a assertiva.
+
+    Gabarito: ERRADO
+
+          30.        (CESPE - Analista Judiciário – Área Judiciária - TRE-BA – 2017)
+
+    Em se tratando de crime de estelionato cometido contra a administração pública,
+    não se aplica o princípio da insignificância, pois a conduta que ofende o patrimônio
+    público, a moral administrativa e a fé pública possui elevado grau de
+    reprovabilidade.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão aborda o tema crimes contra a seguridade social. Para resolvê-la,
+    vamos consultar o Código Penal, especificamente seu artigo 171, §3º, que trata do
+    crime de estelionato previdenciário:
+    Estelionato Previdenciário
+           Art. 171 - Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou
+           mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
+           Pena - reclusão, de um a cinco anos, e multa (...).
+           (...)
+           § 3º - A pena aumenta-se de um terço, se o crime é cometido em detrimento de entidade
+           de direito público ou de instituto de economia popular, assistência social ou beneficência.
+
+    Segundo a Súmula 599 STJ, “O princípio da insignificância é inaplicável aos crimes
+    contra a Administração Pública.”
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           58
+      www.estrategiaconcursos.com.br                                                                 60
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 10
+
+    Realmente, em se tratando de crime de estelionato cometido contra a
+    administração pública, não se aplica o princípio da insignificância, pois a conduta
+    que ofende o patrimônio público, a moral administrativa e a fé pública possui
+    elevado grau de reprovabilidade. Assertiva correta.
+
+    Gabarito: CERTO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   59
+      www.estrategiaconcursos.com.br                                                         60
+
+                                   
+
+
+---
+
+---

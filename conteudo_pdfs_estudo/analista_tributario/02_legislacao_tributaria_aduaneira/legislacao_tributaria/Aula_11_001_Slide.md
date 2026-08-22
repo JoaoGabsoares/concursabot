@@ -1,0 +1,210 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 11_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 196.
+- Art. 232.
+- Art. 233.
+- art. 5º
+- art. 8º
+---
+
+# IRPJ
+
+IRPJ
+REORGANIZAÇÕES
+  SOCIETÁRIAS
+
+   
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+              Art. 196. Respondem pelo imposto devido pelas pessoas jurídicas:
+              I - a pessoa jurídica resultante da transformação de outra;
+              II - a pessoa jurídica constituída pela fusão de outras, ou em
+              decorrência de cisão de sociedade;
+              III - a pessoa jurídica que incorporar outra ou parcela do
+              patrimônio de sociedade cindida;
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+              Art. 196. Respondem pelo imposto devido pelas pessoas jurídicas:
+              (...)
+              IV - a pessoa física sócia da pessoa jurídica extinta por meio de
+              liquidação, ou o seu espólio, que continuar a exploração da atividade
+              social, sob a mesma ou outra razão social, ou sob firma individual; e
+              V - os sócios, com poderes de administração, da pessoa jurídica que
+              deixar de funcionar sem proceder à liquidação, ou sem apresentar a
+              declaração de rendimentos no encerramento da liquidação.
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    Fusão → Operação em que duas empresas se unem para formar uma só. As empresas
+    fusionadas deixam de existir, surgindo uma nova, que será a sucessora.
+    Incorporação → Operação em que uma (ou mais de uma) sociedade é absorvida por
+    outra. A empresa incorporada deixa de existir.
+    Transformação → Operação em que a sociedade muda de forma jurídica (de Ltda.
+    Para S.A., por exemplo).
+
+Legislação Tributária
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    Cisão → A cisão pode ser total ou parcial. Na cisão total, uma empresa transfere todo
+    o seu patrimônio para outra (ou mais de uma), deixando de existir. Na cisão parcial, a
+    empresa transfere parcela do seu patrimônio para uma (ou mais de uma) empresas,
+    continuando a existir.
+
+    Cisão Total → Ocorre responsabilidade solidária entre as sociedades (quando houver
+    mais de uma) que receberem parcelas do patrimônio da pessoa jurídica extinta por
+    cisão.
+    Cisão Parcial → Ocorre responsabilidade solidária entre a sociedade cindida e a
+    sociedade (ou mais de uma) que absorver a parcela do seu patrimônio.
+
+
+Legislação Tributária
+                                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    Exemplificando:
+
+    Situação 01 (Cisão Total): Alfa e Beta absorvem de Gama todo o seu patrimônio,
+    extinguindo-se esta por meio de cisão total. Alfa e Beta são, portanto, solidariamente
+    responsáveis pelo IRPJ devido até então.
+    Situação 02 (Cisão Parcial): Alfa e Beta absorvem, cada uma, 40% do patrimônio de
+    Gama, por meio de cisão parcial. Alfa, Beta e Gama são, por conseguinte,
+    solidariamente responsáveis pelo IRPJ devido até então.
+
+Legislação Tributária
+                                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    Regra: períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de
+    junho, 30 de setembro e 31 de dezembro de cada ano-calendário.
+
+    Exceções nas reorganizações societárias: Nas hipóteses de incorporação, fusão ou
+    cisão, a apuração da base de cálculo e do imposto sobre a renda devido será efetuada
+    na data do evento.
+
+Legislação Tributária
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+
+    Art. 232. A pessoa jurídica que tiver parte ou todo o seu patrimônio absorvido em
+    decorrência de incorporação, fusão ou cisão deverá levantar balanço específico para esse
+    fim, observada a legislação comercial.
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    ❑ O balanço específico deverá ser levantado na data do evento.
+
+    ❑ Considera-se data do evento a data da deliberação que aprovar a incorporação, a fusão
+      ou a cisão.
+
+    ❑ A pessoa jurídica incorporada, incorporadora, fusionada ou cindida deverá apresentar
+      declaração de rendimentos correspondente ao período transcorrido durante o ano-
+      calendário, em seu próprio nome, na forma, no prazo e nas condições estabelecidos
+      pela Secretaria da Receita Federal do Brasil do Ministério da Fazenda.
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Reorganizações Societárias
+    ❑
+
+    Art. 233. Os incentivos e os benefícios fiscais concedidos por prazo certo e em função
+    de determinadas condições a pessoa jurídica que vier a ser incorporada poderão ser
+    transferidos, por sucessão, à pessoa jurídica incorporadora, mediante requerimento
+    desta, desde que observados os limites e as condições fixados na legislação que
+    institui o incentivo ou o benefício, em especial quanto aos aspectos vinculados (Lei nº
+    11.434, de 28 de dezembro de 2006, art. 8º, caput ) :
+    I - ao tipo de atividade e de produto;
+    II - à localização geográfica do empreendimento;
+    III - ao período de fruição; e
+    IV - às condições de concessão ou de habilitação.
+    janeiro de 2000, art. 5º) .
+
+Legislação Tributária
+                                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---

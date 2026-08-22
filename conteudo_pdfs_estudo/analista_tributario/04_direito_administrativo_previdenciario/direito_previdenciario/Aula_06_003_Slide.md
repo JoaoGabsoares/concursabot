@@ -1,0 +1,155 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: DIREITO PREVIDENCIÁRIO
+---
+
+# DIREITO PREVIDENCIÁRIO
+
+---
+
+---
+
+DIREITO PREVIDENCIÁRIO
+
+                                            Prof. Rubens Mauricio
+
+       
+
+
+---
+
+ Rubens Maurício
+@profrubensmauricio
+Previdenciário Diagramado
+Prof. Rubens Maurício
+
+                                                             Prof. Rubens Mauricio
+
+                        
+
+
+---
+
+RECOLHIMENTO FORA DO PRAZO
+
+                                                 Prof. Rubens Mauricio
+
+            
+
+
+---
+
+      Recolhimento fora do Prazo
+
+                                   Recolhimento fora do prazo
+
+                        os débitos com a união, decorrentes das contribuições sociais
+                        previdenciárias, não pagos nos prazos previstos na legislação,
+                                             serão acrescidos de
+
+                                   juros                                          multa
+                                  de mora                                        de mora
+
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+      Recolhimento fora do Prazo
+
+
+                                  Recolhimento fora do prazo
+
+                                      Taxa Selic, acumulada mensalmente,
+                        juros
+                                  a partir do primeiro dia do mês subsequente
+                         de
+                                   ao vencimento do prazo até o mês anterior
+                        mora
+                                ao do pagamento + 1% (no mês do pagamento)
+
+                        multa      0,33% ao dia de atraso, limitado a 20%
+                         de      (aplica-se no caso de pagamento espontâneo
+                        mora          ou quando houver declaração prévia)
+
+
+Prof. Rubens Mauricio
+                                        
+
+
+---
+
+      Recolhimento fora do Prazo
+
+                                         Recolhimento fora do prazo
+
+                                                   multa de ofício
+                           (através de lavratura de auto-de-infração ou notificação de lançamento)
+
+
+                                         nos casos de contribuição não integralmente
+                         75%                      recolhida e não declarada
+
+                                                            compensação indevida
+                        em dobro                             (falsidade da declaração)
+                        150 %                nos casos de evidente intuito de fraude
+
+Prof. Rubens Mauricio
+                                                  
+
+
+---
+
+      Recolhimento fora do Prazo
+
+
+                                        Recolhimento fora do prazo
+
+                                      Agravamento da multa de ofício
+                           multas                        não atendimento de intimação
+                          de ofício                       para prestar esclarecimentos
+                           serão                 não atendimento de intimação para
+                        aumentadas           apresentar arquivos digitais, quando usuária
+                         de metade            de sistema de proc. eletrônico de dados
+
+                                 75%         aumenta para                          112,5%
+                                150%         aumenta para                          225%
+Prof. Rubens Mauricio
+                                              
+
+
+---
+
+      Recolhimento fora do Prazo
+
+
+                                        Recolhimento fora do prazo
+
+                                        Redução da multa de ofício
+                                                            pagamento/
+                                                                                      parcelamento
+                                                           compensação
+                        dentro de 30 dias da
+                         data da notificação             redução de 50%              redução de 40%
+                           do lançamento
+                        dentro de 30 dias da
+                        ciência da decisão de            redução de 30%              redução de 20%
+                           1ª instância (drj)
+
+Prof. Rubens Mauricio
+                                                
+
+
+---

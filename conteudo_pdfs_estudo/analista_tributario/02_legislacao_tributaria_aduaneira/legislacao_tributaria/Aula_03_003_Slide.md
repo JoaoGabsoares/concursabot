@@ -1,0 +1,577 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 03_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: 13/07/2020
+artigos_citados:
+- Art. 192.
+- Art. 193.
+- Art. 195.
+- Art. 196.
+- "art.\n            195"
+- art. 190
+- art. 192.
+- art. 4o
+---
+
+# 13/07/2020
+
+13/07/2020
+
+          LEGISLAÇÃO TRIBUTÁRIA
+
+                                                       Prof. Fábio Dutra
+
+3
+
+    Prof Fábio Dutra
+
+                   @proffabiodutra       Fábio Dutra      Fábio Dutra
+
+4
+
+                                                 1
+
+
+---
+
+                                                                                     13/07/2020
+
+                                   IPI
+                            VALOR TRIBUTÁVEL
+
+
+                                                                 Prof. Fábio Dutra
+
+5
+
+    IPI – Valor Tributável
+        Cálculo do IPI: O imposto será calculado mediante aplicação das
+        alíquotas, constantes da TIPI, sobre o valor tributável dos produtos.
+        (RIPI, art. 189)
+
+        Observação: Esta regra não exclui outra modalidade de cálculo do
+        imposto estabelecida em legislação específica.
+
+    Legislação Tributária
+    Prof. Fábio Dutra
+
+
+6
+
+                                                           2
+
+
+---
+
+                                                                                    13/07/2020
+
+    IPI – Valor Tributável
+     ❑ Base de Cálculo do IPI, conforme o CTN:
+
+     I - no desembaraço aduaneiro, o preço normal, acrescido do montante:
+          a) do imposto sobre a importação;
+          b) das taxas exigidas para entrada do produto no País;
+          c) dos encargos cambiais efetivamente pagos pelo importador ou dele exigíveis;
+     II – Na saída do produto industrializado do estabelecimento contribuinte do
+     imposto:
+          a) o valor da operação de que decorrer a saída da mercadoria;
+          b) na falta do valor a que se refere a alínea anterior, o preço corrente da
+          mercadoria, ou sua similar, no mercado atacadista da praça do remetente;
+     III – em relação ao produto abandonado ou apreendido e levado a leilão, o preço
+     da arrematação.
+    Legislação Tributária
+    Prof. Fábio Dutra
+
+
+7
+
+    IPI – Valor Tributável
+         ❑ Base de Cálculo do IPI, conforme o RIPI:
+
+         I - dos produtos de procedência estrangeira:
+               a) o valor que servir ou que serviria de base para o cálculo dos
+               tributos aduaneiros, por ocasião do despacho de importação,
+               acrescido do montante desses tributos e dos encargos cambiais
+               efetivamente pagos pelo importador ou dele exigíveis; e
+               b) o valor total da operação de que decorrer a saída do
+               estabelecimento equiparado a industrial; ou
+
+         II - dos produtos nacionais, o valor total da operação de que decorrer a
+         saída do estabelecimento industrial ou equiparado a industrial.
+    Legislação Tributária
+    Prof. Fábio Dutra
+
+
+8
+
+                                                          3
+
+
+---
+
+                                                                                 13/07/2020
+
+     QUESTÃO INÉDITA
+
+            A base de cálculo do IPI incidente sobre o desembaraço aduaneiro de
+            produtos de procedência estrangeira não inclui o valor devido a título
+            de imposto de importação.
+
+     Legislação Tributária
+     Prof. Fábio Dutra       Gabarito: Errada
+9
+
+     QUESTÃO INÉDITA
+
+            A base de cálculo do IPI, relativamente aos produtos de procedência
+            estrangeira, em relação ao desembaraço aduaneiro bem como à saída
+            desses produtos do estabelecimento importador, é apenas o valor
+            que servir ou que serviria de base para o cálculo dos tributos
+            aduaneiros, por ocasião do despacho de importação, acrescido do
+            montante desses tributos e dos encargos cambiais efetivamente
+            pagos pelo importador ou dele exigíveis.
+
+     Legislação Tributária
+     Prof. Fábio Dutra        Gabarito: Errada
+10
+
+                                                       4
+
+
+---
+
+                                                                                  13/07/2020
+
+     IPI – Valor Tributável
+           ❑ Valor da Operação: compreende o preço do produto, acrescido do
+             valor do frete e das demais despesas acessórias, cobradas ou
+             debitadas pelo contribuinte ao comprador ou destinatário.
+
+
+           Observação: Será também considerado como cobrado ou debitado
+           pelo contribuinte, ao comprador ou destinatário o valor do frete,
+           quando o transporte for realizado ou cobrado por firma controladora
+           ou controlada, coligadas ou interligada do estabelecimento
+           contribuinte ou por firma com a qual este tenha relação de
+           interdependência, mesmo quando o frete seja subcontratado.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+11
+
+     IPI – Valor Tributável
+           ❑ Não podem ser deduzidos do valor da operação os descontos,
+             diferenças ou abatimentos, concedidos a qualquer título, ainda que
+             incondicionalmente.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+12
+
+                                                        5
+
+
+---
+
+                                                                                     13/07/2020
+
+     QUESTÃO INÉDITA
+
+            Um dos fatos geradores do IPI é a saída de produto do
+            estabelecimento industrial ou a ele equiparado. Nesse caso, a base de
+            cálculo do imposto é o valor total da operação, incluído o valor do
+            frete, mas excluídas as demais despesas acessórias, que forem
+            cobradas ou debitadas pelo contribuinte ao comprador ou
+            destinatário.
+
+     Legislação Tributária
+     Prof. Fábio Dutra       Gabarito: Errada
+13
+
+     IPI – Valor Tributável
+           Art. 191. Nos casos de produtos industrializados por encomenda,
+           será acrescido, pelo industrializador, ao valor da operação definido no
+           art. 190, salvo se se tratar de insumos usados, o valor das matérias-
+           primas, dos produtos intermediários e dos materiais de embalagem,
+           fornecidos pelo encomendante, desde que este não destine os
+           produtos industrializados:
+
+           I - a comércio;
+           II - a emprego, como matéria-prima ou produto intermediário, em
+           nova industrialização; ou
+           III - a emprego no acondicionamento de produtos tributados.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+14
+
+                                                           6
+
+
+---
+
+                                                                                 13/07/2020
+
+     IPI – Valor Tributável
+          IMPORTANTE:
+
+          Art. 43. Poderão sair com suspensão do imposto:
+
+          VI - as matérias-primas, os produtos intermediários e os materiais de
+          embalagem destinados à industrialização, desde que os produtos
+          industrializados sejam enviados ao estabelecimento remetente
+          daqueles insumos;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+15
+
+     IPI – Valor Tributável
+          Art. 192. Considera-se valor tributável o preço corrente do produto ou
+          seu similar, no mercado atacadista da praça do remetente, na forma do
+          disposto nos arts. 195 e 196, na saída do produto do estabelecimento
+          industrial ou equiparado a industrial, quando a saída se der a título de
+          locação ou arrendamento mercantil ou decorrer de operação a título
+          gratuito, assim considerada também aquela que, em virtude de não
+          transferir a propriedade do produto, não importe em fixar-lhe o preço.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+16
+
+                                                       7
+
+
+---
+
+                                                                                    13/07/2020
+
+     IPI – Valor Tributável
+           Art. 193. Na saída de produtos do estabelecimento do importador,
+           em arrendamento mercantil, nos termos da Lei no 6.099, de 12 de
+           setembro de 1974, o valor tributável será:
+
+           I - o preço corrente do mercado atacadista da praça em que o
+           estabelecimento arrendador estiver domiciliado; ou
+
+           II - o valor que serviu de base de cálculo do imposto no desembaraço
+           aduaneiro, se for demonstrado comprovadamente que o preço dos
+           produtos importados é igual ou superior ao que seria pago pelo
+           arrendatário se os importasse diretamente.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+17
+
+     IPI – Valor Tributável
+           Art. 194. O imposto incidente sobre produtos usados, adquiridos de
+           particulares ou não, que sofrerem o processo de industrialização, de
+           que trata o inciso V do art. 4o (renovação ou recondicionamento), será
+           calculado sobre a diferença de preço entre a aquisição e a revenda.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+18
+
+                                                          8
+
+
+---
+
+                                                                                13/07/2020
+
+     QUESTÃO INÉDITA
+
+            Há incidência de IPI sobre produtos usados, quando estes passem por
+            processo de renovação ou recondicionamento. O IPI devido será
+            calculado sobre a diferença do preço que foi pago na aquisição e o
+            valor alcançado na revenda.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Correta
+19
+
+     IPI – Valor Tributável Mínimo
+            ❑ O valor tributável não poderá ser inferior:
+
+            I - ao preço corrente no mercado atacadista da praça do remetente
+            quando o produto for destinado a outro estabelecimento do próprio
+            remetente ou a estabelecimento de firma com a qual mantenha
+            relação de interdependência;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+20
+
+                                                      9
+
+
+---
+
+                                                                                       13/07/2020
+
+     QUESTÃO INÉDITA
+            O valor tributável não poderá ser inferior ao preço corrente no
+            mercado atacadista da praça do remetente quando o produto for
+            destinado a outro estabelecimento do próprio remetente ou a
+            estabelecimento de firma com a qual mantenha relação de
+            interdependência.
+
+                             Gabarito: Correta
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+21
+
+     IPI – Valor Tributável Mínimo
+             ❑ O valor tributável não poderá ser inferior:
+
+             II - a noventa por cento do preço de venda aos consumidores, não
+             inferior ao previsto no inciso I, quando o produto for remetido a outro
+             estabelecimento da mesma empresa, desde que o destinatário opere
+             exclusivamente na venda a varejo;
+             (...)
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+22
+
+                                                            10
+
+
+---
+
+                                                                                        13/07/2020
+
+     IPI – Valor Tributável Mínimo
+             ❑ Observação:
+
+             § 1° No caso do inciso II, sempre que o estabelecimento comercial
+             varejista vender o produto por preço superior ao que haja servido à
+             determinação do valor tributável, será este reajustado com base no
+             preço real de venda, o qual, acompanhado da respectiva
+             demonstração, será comunicado ao remetente, até o último dia do
+             período de apuração subsequente ao da ocorrência do fato, para
+             efeito de lançamento e recolhimento do imposto sobre a diferença
+             verificada.
+
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+23
+
+     IPI – Valor Tributável Mínimo
+            Art. 196. Para efeito de aplicação do disposto nos incisos I e II do art.
+            195, será considerada a média ponderada dos preços de cada
+            produto, em vigor no mês precedente ao da saída do
+            estabelecimento remetente, ou, na sua falta, a correspondente ao
+            mês imediatamente anterior àquele.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+24
+
+                                                             11
+
+
+---
+
+                                                                                13/07/2020
+
+     IPI – Valor Tributável Mínimo
+       Art. 195. O valor tributável não poderá ser inferior:
+
+       III - ao custo de fabricação do produto, acrescido dos custos financeiros e
+       dos de venda, administração e publicidade, bem como do seu lucro
+       normal e das demais parcelas que devam ser adicionadas ao preço da
+       operação, no caso de produtos saídos do estabelecimento industrial, ou
+       equiparado a industrial, com destino a comerciante autônomo,
+       ambulante ou não, para venda direta a consumidor.
+       (...)
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+25
+
+     IPI – Valor Tributável Mínimo
+       § 2° No caso do inciso III, o preço de revenda do produto pelo
+       comerciante autônomo, ambulante ou não, indicado pelo
+       estabelecimento industrial, ou equiparado a industrial, não poderá ser
+       superior ao preço de aquisição acrescido dos tributos incidentes por
+       ocasião da aquisição e da revenda do produto, e da margem de lucro
+       normal nas operações de revenda.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+26
+
+                                                     12
+
+
+---
+
+                                                                               13/07/2020
+
+     IPI – Valor Tributável Mínimo
+       → Considera-se comerciante autônomo, ambulante ou não, a pessoa
+       física, ainda que como empresário individual, que pratique habitualmente
+       atos de comércio, com o fim de lucro, em seu próprio nome, na revenda
+       direta a consumidor, mediante oferta domiciliar, dos produtos que
+       conduzir ou oferecer por meio de mostruário ou catálogo.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+27
+
+     IPI – Valor Tributável Mínimo
+           Art. 195. O valor tributável não poderá ser inferior:
+
+           IV - a setenta por cento do preço da venda a consumidor no
+           estabelecimento moageiro, nas remessas de café torrado a
+           estabelecimento comercial varejista que possua atividade acessória de
+           moagem.
+
+           Art. 5° Não se considera industrialização:
+
+           VII - a moagem de café torrado, realizada por estabelecimento
+           comercial varejista como atividade acessória;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+28
+
+                                                    13
+
+
+---
+
+                                                                                           13/07/2020
+
+     IPI – Arbitramento do Valor Tributável
+          Art. 197. Ressalvada a avaliação contraditória, decorrente de perícia, o
+          Fisco poderá arbitrar o valor tributável ou qualquer dos seus elementos,
+          quando forem omissos ou não merecerem fé os documentos expedidos
+          pelas partes ou, tratando-se de operação a título gratuito, quando
+          inexistir ou for de difícil apuração o valor previsto no art. 192.
+
+          Observação: O art. 192 trata do preço corrente do produto ou seu
+          similar, no mercado atacadista da praça do remetente.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+29
+
+     IPI – Arbitramento do Valor Tributável
+          ❑ Na impossibilidade de identificação da mercadoria importada, em
+            razão de seu extravio ou consumo, e de descrição genérica nos
+            documentos comerciais e de transporte disponíveis, será aplicada
+            alíquota única de 80% em regime de tributação simplificada relativa:
+
+                             ❑ Imposto de Importação – I;
+
+                             ❑ Imposto sobre Produtos Industrializados – IPI;
+
+                             ❑ PIS/Pasep-Importação e COFINS-Importação;
+
+                             ❑ Adicional ao Frete para a Renovação da Marinha Mercante -
+     Legislação Tributária
+                               AFRMM.
+     Prof. Fábio Dutra
+
+
+30
+
+                                                                14
+
+
+---
+
+                                                                                                    13/07/2020
+
+     IPI – Arbitramento do Valor Tributável
+          ❑ A base de cálculo da tributação simplificada será arbitrada em valor
+            equivalente à mediana dos valores por quilograma de todas as
+            mercadorias importadas a título definitivo, pela mesma via de
+            transporte internacional, constantes de declarações registradas no
+            semestre anterior, incluídas as despesas de frete e seguro
+            internacionais.
+
+          ❑ Na falta de informação sobre o peso da mercadoria, adotar-se-á o
+            peso líquido admitido na unidade de carga utilizada no seu
+            transporte.
+
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+31
+
+     IPI – Arbitramento do Valor Tributável
+           ❑ Há basicamente 03 hipóteses de arbitramento da base de cálculo do
+             IPI:
+
+                             ❑Quando os documentos expedidos                 pelas   partes   não
+                             merecerem fé ou forem omissos;
+
+                             ❑Quando for difícil apurar a base de cálculo de operações
+                             realizadas a título gratuito, com base no art. 192.
+
+                             ❑Quando houver extravio ou consumo, e descrição genérica
+                             nos documentos comerciais e de transporte disponíveis;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+32
+
+                                                                         15
+
+
+---

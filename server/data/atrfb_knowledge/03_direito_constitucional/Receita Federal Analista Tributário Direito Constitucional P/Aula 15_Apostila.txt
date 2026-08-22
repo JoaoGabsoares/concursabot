@@ -1,0 +1,4726 @@
+                                                     Aula 14
+                          Receita Federal (Analista Tributário)
+                               Direito Constitucional (Prof. João
+                                                       Trindade)
+
+
+
+                                                          Autor:
+                             João Trindade Cavalcante Filho
+
+
+
+
+                                              05 de Junho de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      João Trindade Cavalcante Filho
+      Aula 14
+
+
+
+
+                                                                                     Índice
+1) Justiças Federais Especializadas
+..............................................................................................................................................................................................3
+
+2) Justiça Federal Comum
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+3) SFT
+..............................................................................................................................................................................................
+                                                                                                                                                                                            26
+
+4) STJ e Justiça Estadual
+..............................................................................................................................................................................................
+                                                                                                                                                                                            39
+
+5) Conselho Nacional de Justiça (CNJ)
+..............................................................................................................................................................................................
+                                                                                                                                                                                            40
+
+6) Aprofundamento
+..............................................................................................................................................................................................
+                                                                                                                                                                                            43
+
+7) Questões Comentadas - Poder Judiciário (competências) - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            55
+
+8) Lista de Questões - Poder Judiciário (competências) - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            77
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           90
+
+                                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                   PODER JUDICIÁRIO (DISPOSIÇÕES GERAIS)
+Olá!
+
+A partir de agora, nosso objeto de estudo será a estrutura e as competências dos órgãos do
+Poder Judiciário.
+
+Trata-se de um tema extremamente técnico e que exige algumas pontes com o Direito Processual
+Civil e com o Direito Processual Penal. Sei que vai ser um pouco árduo, especialmente para quem
+está estudando esta matéria pela primeira vez. Mas, felizmente, duas coisas podem ajudar aqui:
+primeiro, eu sei como você se sente, pois eu, quando estudava esta matéria nos idos de 2003
+(início da faculdade), também tinha muita dificuldade, então vou tentar explicar a matéria de um
+jeito que fique mais didático; e, em segundo lugar, trabalho e trabalhei muito com este tema,
+então acho que, por conhecer como funciona a questão na prática (além, claro, de atentar para o
+que cai mais em provas de concursos), tenho um jeito de explicar isso que pode ficar mais lógico.
+
+Então vamos lá!
+
+
+
+
+                         JUSTIÇAS FEDERAIS ESPECIALIZADAS
+São chamadas de Justiças Federais Especializadas a Justiça Eleitoral, a Justiça Militar (da União) e
+a Justiça do Trabalho.
+
+São justiças federais porque integram o Poder Judiciário da União; são organizadas, custeadas e
+mantidas pela União, em todos os seus níveis. Isso significa que os juízes do trabalho são também
+juízes federais, em sentido amplo (lato sensu). Os servidores da Justiça Eleitoral, da Justiça do
+Trabalho e da Justiça Militar da União são servidores federais para todos os fins, pagos pela
+União e regidos pelo Estatuto dos Servidores Públicos Federais (Lei nº 8.112, de 11 de dezembro
+de 1990).
+
+Além disso, essas justiças são especializadas, isto é, têm uma competência específica, geralmente
+definida em razão da matéria envolvida no processo (critério de definição de competência que no
+Direito Processual se denomina como ratione materiae). Dessa forma, a competência das Justiças
+Especializadas é específica; o que “sobrar” é competência das Justiças Comuns (Justiça Estadual
+e Justiça Federal Comum, que estudaremos mais à frente).
+
+Vamos revisar a estrutura do Judiciário brasileiro, atentando especialmente às várias instâncias
+das Justiças Federais Especializadas:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        3
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                                                         ==5460==
+
+
+
+
+Ou, numa versão simplificada:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   4
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Agora, passaremos a analisar uma por uma a estrutura e as competências das Justiças Federais
+Especializadas.
+
+
+
+
+Justiça Militar da União
+
+Não se trata, aqui, da Justiça Militar Estadual, que pode ser criada pelos Estados (art. 125, § 3º).
+Fala-se, sim, da Justiça Militar da União, que julga crimes militares, nos termos do art. 124.
+
+Já se percebe aqui uma das principais peculiaridades da Justiça Militar da União: sua
+competência é exclusivamente criminal. Não julga, por exemplo, questões administrativas como
+promoção de militar, verbas remuneratórias, etc.: trata apenas e tão somente dos chamados
+crimes militares, assim definidos em lei (ordinária), o Código Penal Militar (CPM).
+
+Veja o que dispõe o art. 124 da CF: “À Justiça Militar compete processar e julgar os crimes
+militares definidos em lei.”.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        5
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Na prova de Direito Constitucional, você não tem que saber que crimes são esses; basta saber
+que a competência da Justiça Militar da União restringe-se ao julgamento de crimes militares
+praticados por militares da União, isto é, os membros das Forças Armadas (Exército, Marinha e
+Aeronáutica).
+
+Interessante notar que a Justiça Militar (da União) não possui órgão de segunda instância. Da
+decisão das auditorias militares de primeira instância cabe recurso direto para o Tribunal Superior,
+o STM.
+
+Esse tribunal, por sua vez, é composto por 15 membros, escolhidos da seguinte forma:
+
+a) 10 membros militares, sendo:
+
+- 3 Oficiais-Generais da Marinha;
+
+- 3 Oficiais-Generais da Aeronáutica;
+
+- 4 Oficiais-Generais do Exército;
+
+b) 5 membros civis, sendo:
+
+- 3 advogados de notório saber jurídico e reputação ilibada;
+
+- 1 juiz auditor; e
+
+- 1 promotor da justiça militar.
+
+Todos esses membros precisam ser aprovados pelo Senado Federal, por maioria simples
+(diferentemente dos demais tribunais superiores, em que a escolha precisa ser aprovada por
+maioria absoluta, à exceção do TSE, cujos membros não são sabatinados pelo Senado Federal).
+
+
+Justiça Eleitoral
+
+A Justiça Eleitoral (criada pelo Código Eleitoral de 1932 e constitucionalizada no texto de 1934) é
+formada pelos juízes eleitorais e juntas eleitorais (órgãos de primeira instância), pelos Tribunais
+Regionais Eleitorais (órgãos de segunda instância, com sede na capital de cada Estado e em
+Brasília) e pelo Tribunal Superior Eleitoral (com sede em Brasília, assim como todos os demais
+Tribunais Superiores).
+
+O TSE tem composição fixa de 7 membros, sendo:
+
+a) 3 Ministros do STF;
+
+b) 2 Ministros do STJ;
+
+c) 2 advogados, nomeados pelo Presidente da República dentre uma lista sêxtupla elaborada
+pelo Supremo Tribunal Federal.
+
+Por sua vez, os TREs compõem-se de:
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        6
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+a) dois desembargadores de TJ;
+
+b) dois juízes de direito (membros da 1ª instância da Justiça Estadual);
+
+c) um desembargador de TRF ou, se não houver sede de TRF naquele Estado, 1 juiz federal;
+
+d) dois advogados, nomeados pelo Presidente da República dentre uma lista sêxtupla elaborada
+pelo TJ.
+
+Finalmente, em relação aos juízes eleitorais, são juízes de direito escolhidos para servir por um
+biênio como juízes eleitorais.
+
+Em outras palavras: a Justiça Eleitoral, embora conte com quadro próprio de servidores, não
+conta com quadro próprio de juízes, sendo seus membros (magistrados) “emprestados” de
+outras Justiças. Esse modelo deriva, quase sem alterações, da Constituição de 19341.
+
+Quanto às juntas eleitorais – outro órgão de primeira instância da Justiça Eleitoral, ao lado dos
+juízes eleitorais, são citadas pela CF, que, porém, não dispõe sobre sua composição e
+competência. De acordo com o Código Eleitoral, são compostas por 1 juiz eleitoral e 2 ou 4
+cidadãos, competindo a esses órgãos, basicamente, a apuração dos votos (Código Eleitoral, arts.
+36 e 40).
+
+Em relação às competências da Justiça Eleitoral, vale lembrar o disposto no caput do art. 121 da
+CF, segundo o qual “Lei complementar disporá sobre a organização e competência dos tribunais,
+dos juízes de direito e das juntas eleitorais”. Bem se vê que, nesse caso, a CF atribuiu ao
+legislador uma ampla liberdade de conformação, cabendo-lhe dizer quais as causas (cíveis e
+criminais) que deverão ser apreciadas no juízo especializado eleitoral.
+
+Em matéria cível (não penal), cabe à Justiça Eleitoral julgar, entre outros, casos de registro de
+candidatura, questionamentos quanto ao resultado de eleições (ação de impugnação de
+mandato eletivo, prevista no art. 14, § 1º, por exemplo), coligações partidárias, etc.
+
+Na matéria penal, cabe-lhe processar e julgar:
+
+a) os crimes eleitorais definidos nos arts. 289 e seguintes do Código Eleitoral (por exemplo:
+fraudar urna, compra de votos, falsidade ideológica eleitoral, etc.); e
+
+b) os crimes comuns conexos aos delitos eleitorais (STF, Pleno, Inquérito nº 4.435).
+
+
+
+
+Assim, tenha cuidado:
+
+1
+ Cf. SILVA, Fernando Neves da. Comentários ao art. 118. In: LEONCY, Leo Ferreira et al. Comentários à Constituição
+do Brasil. São Paulo: Saraiva/Almedina, 2013, p. 1497.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    7
+          www.estrategiaconcursos.com.br                                                                       90
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+- Crime comum “sozinho” (ex.: corrupção) – competência da Justiça Comum
+
+- Crime eleitoral “sozinho” (ex.: “caixa 2” – utilização na campanha de recursos não
+contabilizados) – competência da Justiça Eleitoral
+
+- Crime comum conexo com crime eleitoral (ex.: utilização de recursos de corrupção na
+campanha, sem contabilização oficial) – competência da Justiça Eleitoral.
+
+
+
+
+Ou seja: no concurso (conflito) entre a competência da Justiça Comum e da Justiça
+Especializada, prevalece a competência da Justiça Especializada.
+
+
+
+
+Mas atenção!!!
+
+A Justiça Eleitoral também possui várias outras competências, além da matéria jurisdicional.
+Cabe-lhe, por exemplo:
+
+a) administrar as eleições (função administrativa): é a Justiça Eleitoral quem, desde 1932, cuida
+não apenas da realização das eleições, mas também da divulgação dos resultados e diplomação
+dos eleitos;
+
+b) regulamentar a legislação eleitoral: assim, no âmbito da legislação eleitoral, quem expede
+regulamentos não é o Presidente da República, como acontece na legislação em geral (CF, art.
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     8
+        www.estrategiaconcursos.com.br                                                        90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+84, IV, segunda parte); cabe ao TSE editar resoluções especificando e regulamentando a
+legislação sobre eleições.
+
+
+Justiça do Trabalho
+
+Antes de entrarmos na análise das competências da Justiça do Trabalho (o tópico mais cobrado
+em prova sobre as Justiças Federais Especializadas), vale a pena registrar sua estrutura:
+
+a) como órgãos de primeira instância, temos os juízes do trabalho;
+
+b) como órgãos de segunda instância, temos os Tribunais Regionais do Trabalho;
+
+c) como órgão de cúpula, temos o Tribunal Superior do Trabalho, formado por 27 membros.
+
+
+
+
+Os órgãos de primeira instância da Justiça do Trabalho não são mais as Juntas de Conciliação e
+Julgamento (extintas pela EC nº 22, de 1999), que eram órgãos colegiados formados por 1 juiz
+do trabalho e 2 juízes classistas; atualmente, o órgão de primeira instância da Justiça do Trabalho
+é monocrático.
+
+
+
+
+Não há obrigação constitucional de que exista um TRT em cada Estado (ao contrário do que
+ocorre em relação aos TREs).
+
+
+
+
+A regra do “quinto constitucional” (art. 94) aplica-se à composição dos tribunais trabalhistas (TRTs
+e TST).
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        9
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Passando agora à análise das competências da Justiça do Trabalho, percebe-se que estão
+previstas no art. 114 da CF, e foram significativamente ampliadas com a EC n. 45/2004.
+
+Por exemplo: após a Reforma do Judiciário, passou a ser competência da JT julgar as causas
+decorrentes da relação de trabalho. Antes da Emenda, a competência era apenas para julgar as
+ações relativas à relação de emprego, o que é mais restrito. Agora, estão incluídas também as
+ações relativas a diaristas, entre outras (art. 114, I).
+
+
+
+
+Servidor público estatutário não é julgado pela Justiça do Trabalho, mas, sim, pela Justiça
+comum (Federal ou Estadual, conforme o caso).
+
+Assim, temos o seguinte esquema de competências para julgar as causas cíveis entre
+trabalhadores (em sentido amplo) e seus empregadores (também em sentido amplo):
+
+
+
+
+               Causa                              Tipo de vínculo                     Competência jurisdicional
+
+
+Empregado privado x empresa
+                            Celetista (CLT)                                      Justiça do Trabalho
+privada
+
+
+Empregado público x empresa
+                            Celetista (CLT)                                      Justiça do Trabalho
+estatal
+
+
+Servidor público efetivo x União Estatutário                                     Justiça Federal
+
+
+Servidor público efetivo x
+                                        Estatutário                              Justiça Estadual
+Estado
+
+
+Servidor público efetivo x
+                                        Estatutário                              Justiça Estadual
+Município
+
+
+Servidor Público comissionado x
+                                Estatutário                                      Justiça Federal
+União
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        10
+        www.estrategiaconcursos.com.br                                                                            90
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+Também cabe à Justiça do Trabalho julgar as causas decorrentes do exercício do direito de greve
+(exceto dos servidores públicos estatutários), inclusive no que se refere a ações possessórias
+(reintegração de posse etc.), conforme a Súmula Vinculante 23:
+
+                           (...) a Justiça do Trabalho é competente para processar e julgar ação
+                           possessória ajuizada em decorrência do exercício do direito de greve pelos
+                           trabalhadores da iniciativa privada.2
+
+Assim, as ações possessórias, que normalmente correriam na Justiça Estadual, passam a ser de
+competência da Justiça do Trabalho, caso se relacionem com o exercício do direito de greve
+(invasão de fábrica pelos trabalhadores grevistas, por exemplo). Assim, a greve de empregados
+celetistas atua como uma espécie de “ímã”, atraindo todas as causas cíveis a ela relacionadas
+para a Justiça do Trabalho.
+
+
+
+
+Veja só:
+
+- ação que discute o direito de greve de empregados celetistas – Justiça do Trabalho
+
+- ação possessória comum – Justiça Comum
+
+- ação possessória decorrente do exercício do direito de greve de empregados celetistas –
+competência da Justiça do Trabalho.
+
+
+
+
+2
+ No mesmo sentido, confira: “Compete à Justiça do Trabalho o julgamento das ações de interdito proibitório em
+que se busca garantir o livre acesso de funcionários e de clientes às agências bancárias interditadas em decorrência
+de movimento grevista.” (Tema nº 74 da Repercussão Geral do STF).
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                     11
+          www.estrategiaconcursos.com.br                                                                         90
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Cuidado!!!
+
+“A justiça comum, federal ou estadual, é competente para julgar a abusividade de greve de
+servidores públicos celetistas da Administração pública direta, autarquias e fundações públicas.”
+(Tema nº 544 da Repercussão Geral do STF)
+
+Em suma, portanto, temos:
+
+
+                  Trabalhadores                                      Competência para julgar a greve
+
+
+Celetistas (iniciativa privada)                          Justiça do Trabalho
+
+
+Celetistas (empresas públicas e sociedades
+                                           Justiça do Trabalho
+de economia mista)
+
+
+Estatutários    (Adm.      Direta,     autarquias      e Justiça Comum (Federal ou Estadual, conforme o
+fundações)                                               caso)
+
+
+Celetistas (Adm.          Direta,     autarquias       e Justiça Comum (Federal ou Estadual, conforme o
+fundações)                                               caso)
+
+
+A EC n. 45/2004 também ampliou a competência da Justiça do Trabalho para julgar ações sobre
+indenização por dano moral e material a respeito da relação de trabalho, inclusive as chamadas
+ações acidentárias (ações de acidente de trabalho). Então, teremos:
+
+- ação de acidente de trabalho do empregado contra o INSS (autarquia federal) – competência
+da Justiça Estadual comum (art. 109, I, parte final); é a chamada ação acidentária previdenciária;
+
+- ação de acidente de trabalho do empregado contra o empregador (depois da EC n. 45) –
+competência da Justiça do Trabalho (art. 114, VI); é a chamada ação acidentária trabalhista.
+
+Veja o que diz a Súmula Vinculante 22:
+
+“A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos
+morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)             12
+        www.estrategiaconcursos.com.br                                                                 90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau
+quando da promulgação da Emenda Constitucional n. 45/2004.”
+
+
+
+
+Para a prova de concurso, você pode identificar a competência para julgar a ação acidentária
+pelas partes envolvidas ou pelo pedido. Veja só:
+
+- se a questão falar em ação acidentária do empregado contra o empregador (partes) ou disser
+que se pede uma indenização pelo acidente de trabalho (pedido), a competência será da Justiça
+do Trabalho;
+
+- se a questão falar em ação acidentária do segurado contra o INSS, ou disser que se busca obter
+um benefício previdenciário (pedido), então a competência será da Justiça Estadual Comum.
+
+
+
+
+Veja que, apesar de o INSS ser uma autarquia federal, as ações contra ele fundadas em acidente
+de trabalho não são ajuizadas na Justiça Federal, e sim na Justiça Estadual comum, pois esse
+tema (acidente de trabalho) é excetuado da competência da Justiça Federal pela parte final do
+art. 109, I:
+
+                         Compete à Justiça Comum Estadual julgar as ações acidentárias que,
+                         propostas pelo segurado contra o Instituto Nacional do Seguro Social
+                         (INSS), visem à prestação de benefícios relativos a acidentes de trabalho.
+                         (Tema nº 414 da Repercussão Geral do STF).
+
+Atenção!
+
+“Compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de
+seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração
+Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de
+pessoal.” (STF, Tema nº 992 da Repercussão Geral). Isso significa que as causas relacionadas ao
+concurso da Caixa Econômica Federal, por exemplo, devem ser julgadas pela Justiça Federal
+Comum, e não pela Justiça do Trabalho, pois ainda não há relação de trabalho estabelecida.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       13
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Observação!
+
+A Justiça do Trabalho não possui nenhuma competência criminal.
+
+Assim, mesmo os crimes contra a organização do trabalho (por exemplo, redução à condição
+análoga à de escravo), ou cometidos em ação trabalhista (falso testemunho, por exemplo) não
+são julgados pela Justiça do Trabalho, que, repita-se, não julga nenhum tipo de crime. No caso
+desses dois exemplos, a competência para julgar o crime é da Justiça Federal comum.
+
+
+
+
+Por exemplo:
+
+Auditores Fiscais do Trabalho descobrem que, num estabelecimento, havia trabalhadores em
+situação análoga à escravidão. Nesse caso, a Justiça do Trabalho vai julgar os aspectos cíveis (não
+penais), como as verbas trabalhistas devidas, os danos morais individuais e coletivos, etc., mas o
+aspecto criminal (punição de quem submeteu os trabalhadores a essas condições) vai ser
+apreciado pela Justiça Federal comum.
+
+
+
+
+(Cespe/TRF 5ª Região/Juiz Federal/2009) Suponha que um juiz do trabalho tenha determinado a
+prisão em flagrante de uma testemunha, pelo crime de falso testemunho, nos autos de uma
+reclamação trabalhista. Nessa situação hipotética, compete à Justiça do Trabalho, e não à Justiça
+Federal, julgar o referido crime.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      14
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Comentário:
+
+Tal crime será julgado pela Justiça Federal Comum (art. 109, IV), e não pela Justiça do Trabalho,
+que não possui nenhuma competência criminal!
+
+Gabarito: Errado
+
+
+
+
+Veja esta comparação interessante:
+
+
+
+
+              Justiça                   Competência cível (não criminal)                Competência criminal
+
+
+Militar da União                        Não tem                                  Tem
+
+
+Eleitoral                               Tem                                      Tem
+
+
+do Trabalho                             Tem                                      Não tem
+
+
+
+
+Em resumo:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                     15
+        www.estrategiaconcursos.com.br                                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 14
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   16
+      www.estrategiaconcursos.com.br                                                       90
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                                   JUSTIÇA FEDERAL COMUM
+A Justiça Federal comum é formada por apenas duas instâncias:
+
+a) juízes federais, órgãos monocráticos de primeira instância (art. 109);
+
+b) tribunais regionais federais, atualmente em número de 6, e que são órgãos de segunda
+instância (art. 108).
+
+A CF não fixa o número exato de desembargadores de TRFs, e nem mesmo o número de TRFs
+existentes, apenas dispondo que serão compostos por no mínimo 7 membros, sendo 1/5 dentre
+membros do MP e da OAB (regra do “quinto constitucional”) e o restante por juízes de carreira.
+
+Não costuma cair em prova questão sobre quantos e quais são os TRFs, mas, para fins de
+contextualização, vale a pena visualizá-los num mapa:
+
+
+
+
+                                   Fonte: Conselho da Justiça Federal (CJF)
+
+Em relação à competência, pode-se dizer que é residual, ou seja, sua competência é encontrada
+por exclusão. Entre as competências da Justiça Comum, as da Justiça Federal são taxativas,
+previstas nos arts. 108 (TRFs) e 109 (juízes federais). Dessa forma, tudo o que não for de
+competência de uma das Justiças Especializadas “sobra” para as Justiças comuns (federal e
+estadual). Dentre as justiças comuns, o que não for federal “sobra” para a estadual.
+
+Podemos destacar, dentre as competências dos juízes federais, previstas no art. 109 da CF, as
+seguintes:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   17
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+a) causas em que a União, autarquias federais, fundações públicas de direito público ou privado
+federais e empresas públicas federais intervenham, a qualquer título (autoras, rés, assistentes,
+oponentes etc.).
+
+Trata-se de uma competência em razão das pessoas envolvidas (ratione personae), de maneira
+que, se da ação participar (em qualquer posição) qualquer dessas entidades federais, a
+competência será da Justiça Federal comum.
+
+
+
+
+Cuidado!!!
+
+Sociedade de economia mista federal não é julgada na Justiça Federal, mas, sim, na Justiça
+Estadual (STF, Súmula 556).
+
+Assim, por exemplo, uma ação ajuizada contra a Caixa Econômica Federal (empresa pública
+federal) será julgada na Justiça Federal comum; porém, se a mesma ação for ajuizada contra o
+Banco do Brasil, ou contra a Petrobras, que são sociedades de economia mista federal, a
+competência será da Justiça Comum Estadual.
+
+Veja só:
+
+
+                                                                                                 Competência para
+     Âmbito da
+                                   Tipo de entidade                Regime jurídico              julgar causas que a
+ Administração Pública
+                                                                                                     envolvam
+
+
+Direta                        União                           Público                         Justiça Federal
+
+
+                              Autarquias Federais
+                              (inclusive agências             Público                         Justiça Federal
+                              reguladoras federais)
+
+
+                              Fundações Públicas
+                                                              Público                         Justiça Federal
+                              Federais
+
+
+Indireta                      Empresas Públicas
+                                                              Privado                         Justiça Federal
+                              Federais
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                           18
+         www.estrategiaconcursos.com.br                                                                               90
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                             Sociedades de
+                                                     Privado                                 Justiça Estadual
+                             economia mista federais
+
+
+Ou, visto de outra forma:
+
+
+
+
+Atenção!!!
+
+Causas de falências e de acidentes de trabalho são julgadas sempre na Justiça Estadual (art. 109,
+I, parte final), mesmo que envolvam a União ou autarquia federal, por exemplo. Trata-se de
+exceções em razão da matéria.
+
+b) causas internacionais
+
+
+
+
+As causas que envolvem Estado Estrangeiro ou Organismo Internacional podem ser julgadas
+originariamente pelos juízes federais ou pelo STF.
+
+Dessa forma, temos que:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      19
+        www.estrategiaconcursos.com.br                                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+- Causas entre Estado estrangeiro ou Organismo Internacional, de um lado, e
+União/Estado/DF/Território, de outro, são julgadas originariamente pelo STF (CF, art. 102, I, e).
+
+- Causas entre Estado Estrangeiro ou Organismo Internacional, de um lado, e Município ou
+particular (pessoa física ou jurídica residente ou domiciliada no Brasil), são julgadas
+originariamente pelos juízes federais de primeira instância, com recurso ordinário para o STJ (CF,
+art. 109, II, c/c art. 105, II, c).
+
+Por exemplo:
+
+- Espanha x União = STF
+
+- OEA x DF = STF
+
+- França x Recife = Juiz Federal (competência originária) com recurso ordinário para o STJ
+
+- ONU x João Trindade = Juiz Federal (competência originária) com recurso ordinário para o STJ
+
+
+
+
+Veja bem!!!
+
+A competência do STJ não é originária: nenhuma ação desse tipo nasce no STJ, podendo apenas
+chegar à Corte em grau de recurso.
+
+Além disso, o recurso cabível não é o Recurso Especial (REsp), o mais comumente utilizado para o
+STJ; nesse caso específico, cabe recurso ordinário (que é aquele para rejulgamento da causa
+toda).
+
+Vale também perceber que esse caso foge à regra geral de que das decisões dos juízes federais
+cabe recurso para o TRF; nessa situação, o recurso é direto para o STJ.
+
+Em resumo:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     20
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+c) Crimes políticos
+
+Os crimes eleitorais são de competência da Justiça Eleitoral; por outro lado, os crimes políticos
+são julgados pela Justiça Federal da primeira instância, com recurso ordinário direto para o STF
+(art. 109, IV, primeira parte, c/c art. 102, II, b).
+
+Nesse contexto, crime político é o crime contra o Estado Democrático de Direito, os antigamente
+designados crimes contra a segurança nacional.
+
+Preste atenção porque esse é mais um caso (são apenas dois) em que da decisão dos juízes
+federais de primeira instância o recurso não vai para o TRF (a outra hipótese são as causas
+internacionais entre Estado Estrangeiro ou Organismo Internacional, de um lado, e Município ou
+particular, de outro). No caso do crime político, o recurso é ainda mais “estranho”: trata-se de
+recurso ordinário, que é direcionado diretamente ao STF.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    21
+        www.estrategiaconcursos.com.br                                                        90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+(Cespe/TRE-BA/Técnico/2010) Compete aos juízes federais processar e julgar os crimes políticos
+e compete ao Supremo Tribunal Federal julgar o recurso ordinário contra as sentenças advindas
+do julgamento desses crimes.
+
+Comentários:
+
+Ver arts. 109, IV, e 102, II, b.
+
+Gabarito: Correto
+
+d) Crimes contra o sistema financeiro, contra a ordem econômica, crimes previstos em tratado
+internacional, crimes contra a organização do trabalho, crimes cometidos a bordo de navios ou
+aeronaves ou em detrimento da União, autarquias, fundações públicas ou empresas públicas
+federais.
+                                                         ==5460==
+
+
+
+
+A maioria dos crimes, no Brasil, é de competência da Justiça Estadual Comum. As exceções são
+os crimes eleitorais (julgados pela Justiça Eleitoral), os crimes militares federais (julgados pela
+Justiça Militar da União) e os casos pontuais de crimes cujo processo e julgamento cabe à Justiça
+Federal comum.
+
+Basicamente, serão julgados pela Justiça Federal Comum os seguintes crimes:
+
+- crimes contra o sistema financeiro nacional (ex.: gestão temerária ou fraudulenta de instituição
+financeira);
+
+- crimes contra a ordem econômica (ex.: formação de cartel);
+
+- crimes que o Brasil se obrigou a reprimir por tratados internacionais (ex.: lavagem de dinheiro);
+
+- crimes contra a organização do trabalho (ex.: redução à condição análoga à de escravo);
+
+- crimes cometidos a bordo de navios ou aeronaves (ex.: furto cometido em avião);
+
+- crimes cometidos em detrimento (=em prejuízo) de bens, serviços ou interesses da União, de
+autarquias federais, fundações públicas federais ou sociedades de economia mista federal (ex.:
+diploma federal falsificado utilizado para se matricular em um mestrado de universidade federal;
+moeda falsa; desvio de recursos federais; roubo a uma agência da Caixa Econômica Federal);
+
+- crimes de ingresso ou permanência irregular de estrangeiro;
+
+- crimes “federalizados” (veja abaixo observação sobre o Incidente de Deslocamento de
+Competência).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        22
+        www.estrategiaconcursos.com.br                                                            90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Nos casos de crimes cometidos a bordo de navios ou aeronaves, não interessa o tipo de crime,
+nem se a aeronave estava em solo: a competência é da Justiça Federal.
+
+Veja, por exemplo, este julgado:
+
+“É da Justiça Federal a competência para processar e julgar crime praticado a bordo de aeronave
+(art. 109, IX, da CF), pouco importando se esta encontra-se em ar ou em terra e, ainda, quem seja
+o sujeito passivo do delito. Precedentes. Onde a Constituição não distingue, não compete ao
+intérprete distinguir.” (STF, 1ª Turma, RHC 86.998, red. do ac. min. Cármen Lúcia, DJ de
+27-4-2007).
+
+
+
+
+(Cespe/PGE-AL/Procurador/2009) A Justiça Estadual é competente para julgar denunciados pela
+suposta prática do crime de roubo qualificado ocorrido no interior de aeronave que se encontre
+em solo.
+
+Comentários:
+
+A competência é da Justiça Federal, pois pouco importa que a aeronave esteja em solo.
+
+Gabarito: Errado
+
+
+
+
+1. Crime contra sociedade de economia mista federal é de competência da Justiça Estadual.
+
+2. Podem ser deslocados para a Justiça Federal, em qualquer fase do inquérito ou processo, os
+crimes que causem grave violação de direitos humanos. Trata-se do Incidente de Deslocamento
+de Competência, que pode ser requerido apenas pelo Procurador-Geral da República ao STJ
+(art. 109, § 5º). Nesse caso, o STJ decide se a apuração daquele crime específico continua na
+Justiça Estadual, ou se deve ser deslocada para a Justiça Federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    23
+        www.estrategiaconcursos.com.br                                                        90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+(Cespe/TRF 2ª Região/Juiz Federal/2009) Na hipótese de grave violação de direitos humanos, o
+Procurador-Geral da República ou o Advogado-Geral da União, com a finalidade de assegurar o
+cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos
+quais o Brasil seja parte, poderão suscitar, perante o STJ, incidente de deslocamento de
+competência para a Justiça Federal.
+
+Comentários:
+
+Só quem pode suscitar o IDC perante o STJ é o Procurador-Geral da República.
+
+Gabarito: Errado
+
+e) Disputa sobre direitos indígenas
+
+Trata-se de uma competência em razão da matéria, e não em razão da pessoa. Ou seja: não se
+trata de qualquer causa envolvendo índios, mas sim daquelas que envolvam direitos coletivos das
+populações indígenas (questões de direitos culturais indígenas, terras indígenas etc.) – isso ocorre
+porque são de propriedade da União as terras tradicionalmente ocupadas pelos índios (CF, art.
+20, XI).
+
+Porém, a competência da Justiça Federal não se resume às questões envolvendo terras
+indígenas, incidindo sempre que haja disputa envolvendo a própria comunidade indígena. Veja,
+por exemplo, este julgado:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       24
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+“A competência da Justiça Federal em relação aos direitos indígenas não se restringe às
+hipóteses de disputa de terras, eis que os direitos contemplados no art. 231 da CF são muito
+mais extensos. O fato de os acusados terem se utilizado da condição étnica das vítimas para a
+prática das condutas delituosas representa afronta direta à cultura da comunidade indígena.”
+(STF, 2ª Turma, HC 91.313, rel. min. Ellen Gracie, DJE de 26-9-2008).
+
+Assim, “Somente os processos que versarem sobre questões diretamente ligadas à cultura
+indígena, aos direitos sobre suas terras, ou, ainda, a interesses constitucionalmente atribuíveis à
+União Federal competiriam à Justiça Federal” (STF, 2ª Turma, Relator Ministro Gilmar Mendes,
+DJe de 28.3.2008).
+
+
+
+
+Cuidado!!!
+
+O rol de competências da Justiça Federal é taxativo, não podendo ser ampliado por meio de lei
+ou qualquer outro ato infraconstitucional (só poderia ser ampliado por Emenda Constitucional).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      25
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+                                                           STF
+O Supremo Tribunal Federal é composto de 11 Ministros, todos eles selecionados da mesma
+forma: a) Presidente da República indica (a escolha é livre, dentre brasileiros natos, entre 35 e 70
+anos, de notável saber jurídico e reputação ilibada); b) Senado Federal realizada arguição pública
+(“sabatina”) e, se concordar, aprova o nome por maioria absoluta e voto secreto; c) Presidente da
+República nomeia.
+
+Em relação às competências do STF (taxativas) podem ser classificadas em três tipos:
+
+a)        originárias (processos que nascem direto no STF), previstas no art. 102, I, alíneas de a até r;
+
+b)     recursais ordinárias (processos que chegam ao STF em grau de recurso comum, oriundo
+dos Tribunais Superiores ou da Justiça Federal de primeira instância);
+
+c)   recursais extraordinárias (recurso que chega ao STF, vindo das instâncias ordinárias,
+quando se tratar de matéria constitucional).
+
+
+Competências Originárias
+
+Podemos destacar, das competências originárias:
+
+a) ações de controle concentrado de constitucionalidade
+
+Ação Direta de Inconstitucionalidade (ADI); Ação Declaratória de Constitucionalidade (ADC);
+Arguição de Descumprimento de Preceito Fundamental (ADPF); esses temas são estudados
+dentro da matéria de controle de constitucionalidade.
+
+b) causas criminais de autoridades que possuem foro por prerrogativa de função
+
+b.1.) só nos crimes comuns: Presidente da República, Vice-Presidente da República, Senadores e
+Deputados Federais, Ministros do próprio STF e o Procurador-Geral da República (art. 102, I, b);
+
+b.2.) tanto nos crimes comuns quanto nos de responsabilidade: Ministros de Estado,
+Comandantes do Exército, da Marinha e da Aeronáutica, Ministros dos Tribunais Superiores e do
+TCU e chefes de missão diplomática permanente (art. 102, I, c).
+
+Observação!
+
+1. Ministro de Estado é julgado pelo STF nos crimes comuns; nos crimes de responsabilidade,
+depende: se conexo com o do Presidente, a competência será do Senado (art. 52, I), se não, o
+julgamento será no STF (art. 102, I, c).
+
+2. Governadores, crimes comuns: STJ (art. 105, I, a); Prefeitos, crimes comuns: TJ (art. 29, X) ou
+TRF (nesse segundo caso, só se tratar de crime federal).
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         26
+           www.estrategiaconcursos.com.br                                                             90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+3. Ministros do TCU são julgados no STF (art. 102, I, c); Conselheiros de Tribunal de Contas
+Estadual, no STJ (art. 105, I, a).
+
+
+
+    Quadro-resumo dos principais casos de foro por prerrogativa de função previstos na CF
+
+
+   Poder           Autoridade              Tipo de crime                     Foro                         Art.
+
+
+               Presidente da
+                                        Comum                      STF                       102, I, b
+               República*
+
+
+
+               Presidente da
+                                        Responsabilidade           Senado                    52, I
+               República
+
+Executivo
+
+               Governador               Comum                      STJ                       105, I, a
+
+
+
+                                                                   TJ ou TRF (se for
+               Prefeito                 Comum                      crime estadual ou         29, X, e 108
+                                                                   federal)
+
+
+
+               Deputados
+Legislativo    Federais e               Comum                      STF                       102, I, b
+               Senadores**
+
+
+
+               Ministros dos
+                                        Comum ou
+               Tribunais                                           STF                       102, I, c
+                                        responsabilidade
+               Superiores***
+
+
+
+               Membros de
+Judiciário     tribunal de
+               segunda                  Comum ou
+                                                                   STJ                       105, I, a
+               instância (TJ,           responsabilidade
+               TRF, TRT ou
+               TRE)****
+
+
+
+               Juízes de                Comum ou                   TJ (juízes de             96, III, e
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       27
+        www.estrategiaconcursos.com.br                                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+               primeira                 responsabilidade           Direito) ou TRF           108, I, a
+               instância                                           (juízes da esfera
+                                                                   federal)
+
+
+* Seguem o mesmo foro por prerrogativa de função do Presidente da República: a)
+Vice-Presidente da República; b) Ministros do STF; c) PGR; d) AGU.
+
+** Deputados Federais e Senadores não cometem crime de responsabilidade, e sim quebra de
+decoro (art. 55, II). Por isso que a CF só prevê o foro dos Deputados Federais e Senadores
+quando se trata de crimes comuns.
+
+*** Ministros do TCU possuem o mesmo foro dos Ministros do STJ.
+
+**** Conselheiros de Tribunal de Contas Estadual têm o mesmo foro de membros de tribunal de
+segunda instância.
+
+Cuidado!!!
+
+“O foro especial por prerrogativa de função não se estende a magistrados aposentados.” (Tema
+nº 453 da Repercussão Geral do STF).
+
+
+
+
+Questões de Concurso
+
+(FCC/TRT 2ª Região/Analista Judiciário – Área Judiciária/2014) O julgamento do Vice-Presidente
+do Tribunal Regional do Trabalho por crime de responsabilidade em virtude de conduta
+praticada no período em que exercia, por substituição, a Presidência do Tribunal
+
+a) somente é cabível no caso de haver expressa autorização do Conselho Nacional de Justiça ou
+da maioria absoluta dos membros do próprio Tribunal Regional do Trabalho integrado pelo
+acusado.
+
+b) cabe originariamente ao Tribunal Superior do Trabalho em face de denúncia oferecida pelo
+Ministério Público do Trabalho.
+
+c) cabe originariamente ao Superior Tribunal de Justiça em face de denúncia oferecida pelo
+Ministério Público Federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               28
+        www.estrategiaconcursos.com.br                                                                   90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+d) somente é cabível caso a infração seja enquadrada como improbidade administrativa, pois a
+responsabilização político-administrativa decorrente do regime dos crimes de responsabilidade é
+aplicável apenas aos agentes políticos expressamente designados no texto constitucional.
+
+e) cabe originariamente ao Supremo Tribunal Federal em face de denúncia oferecida pelo
+Procurador-Geral da República.
+
+Comentários:
+
+Ver art. 105, I, a.
+
+Gabarito: alternativa “C”
+
+
+
+(FCC/Prefeitura Recife/Procurador Judicial/2008) De acordo com a Constituição Federal,
+compete originariamente ao Tribunal de Justiça julgar o Prefeito pela prática de crimes comuns,
+ainda que possam se enquadrar na competência da Justiça Federal.
+
+Comentários:
+
+Se o crime for de competência da Justiça Federal, a competência será do TRF, e não do TJ (STF,
+Súmula nº 702).
+
+Gabarito: Errado
+
+
+
+(Cespe/STJ/Técnico/2008) Se um conselheiro do Tribunal de Contas do Estado do Paraná
+cometer um crime de responsabilidade, não poderá ser processado e julgado pelo tribunal de
+justiça daquele Estado.
+
+Comentários:
+
+A competência não é do TJ, é do STJ (art. 105, I, a).
+
+Gabarito comentado: Correto
+
+Cuidado!
+
+Súmula Vinculante 45: “A competência constitucional do Tribunal do Júri prevalece sobre o foro
+por prerrogativa de função estabelecido exclusivamente pela Constituição Estadual.”
+
+Logo, se o foro estiver previsto na Constituição Federal (como é o caso dos Deputados Federais
+e Senadores), prevalece até mesmo sobre a competência do júri.
+
+Dito de outra forma:
+
+Constituição Estadual pode dar foro especial por prerrogativa de função para autoridades que
+não estejam previstas na Constituição Federal? Pode, mas esse foro exclusivamente estadual não
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   29
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+prevalecerá em caso de crime doloso contra a vida, caso em que o julgamento competirá ao
+tribunal do júri.
+
+c) causa entre Estado estrangeiro/organismo internacional e União/Estados/DF é julgada pelo
+STF (art. 102, I, e); (veja comentários à competência da Justiça Federal)
+
+Conforme já vimos, são iniciadas diretamente no STF as causas internacionais que envolvam a
+União, os Estados, o Distrito Federal ou Território.
+
+d) conflitos federativos (art. 102, I, f)
+
+Os conflitos federativos envolvendo União, Estados, DF ou Territórios (Municípios não!) são
+julgados originariamente pelo STF. Foi o caso, por exemplo, da disputa sobre a demarcação da
+reserva indígena Raposa/Serra-do-Sol (Petição nº 3.338/RR).
+
+Mas atenção!!!
+
+Se o conflito federativo envolver especificamente o IBS (Imposto sobre Bens e Serviços), a
+competência será do STF, conforme previsão do art. 105, I, j, incluído pela Reforma Tributária (EC
+nº 132/23).
+
+
+
+
+Questão de concurso:
+
+(FGV - TJ RO - Analista Judiciário - Área Oficial de Justiça – 2021) Comissão Parlamentar de
+Inquérito (CPI) constituída no âmbito da Assembleia Legislativa do Estado Alfa deliberou, em
+decisão fundamentada, pela quebra do sigilo fiscal de Maria e Pedro. A instituição financeira
+competente, uma autarquia federal, negou-se a fornecer os dados almejados, sob o argumento
+de que a lei complementar federal que trata da matéria não previu essa possibilidade.
+Inconformada, a Assembleia Legislativa do Estado Alfa decidiu impetrar mandado de segurança
+para que lhe fosse assegurado o acesso às informações, havendo dúvida sobre a competência
+originária do Supremo Tribunal Federal para julgá-lo. À luz da sistemática constitucional, o
+Supremo Tribunal Federal é:
+
+A) competente para julgar o mandado de segurança; e as informações solicitadas pela CPI, por
+simetria com o modelo federal, deveriam ter sido fornecidas;
+
+B) competente para julgar o mandado de segurança, mas as informações solicitadas pela CPI
+exigiam prévia autorização judicial para o seu fornecimento;
+
+C) incompetente para julgar o mandado de segurança, que deveria ser impetrado perante um
+juiz federal, mas as informações solicitadas pela CPI exigiam prévia autorização judicial para o seu
+fornecimento;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       30
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+D) incompetente para julgar o mandado de segurança, que deveria ser impetrado perante um
+Tribunal Regional Federal, mas as informações solicitadas pela CPI exigiam prévia autorização
+judicial para o seu fornecimento;
+
+E) incompetente para julgar o mandado de segurança, que deveria ser impetrado perante um juiz
+federal; e as informações solicitadas pela CPI, por simetria com o modelo federal, deveriam ter
+sido fornecidas.
+
+Comentários:
+
+(O STF é competente para julgar o mandado de segurança, por envolver conflito entre União –
+entidade da administração indireta federal – e Estado, nos termos do art. 102, I, f, da CF; e, por
+simetria com as CPIs federais, as CPIs das assembleias legislativas possuem poder de determinar
+a quebra de sigilo bancário, nos termos da ACO 730/RJ, STF, Pleno)
+
+Gabarito: A
+
+e) pedido de extradição solicitado por Estado estrangeiro (art. 102, I, g).
+
+Feito o pedido de extradição por Estado estrangeiro, o STF julga a matéria do ponto de vista
+jurídico, e então autoriza ou não a extradição. Não autorizada, o processo é extinto; autorizada, a
+decisão sobre extraditar ou não caberá ao Presidente (caso Cesare Battisti, Extradição n.
+1.085/Itália).
+
+Cuidado!!!
+
+A homologação de sentença estrangeira e concessão de exequatur às cartas rogatórias eram de
+competência do STF; hoje, são tarefas do STJ (art. 102, I, h, c/c art. 105, I, i). Por outro lado, a
+execução da sentença homologada pelo STJ e da carta rogatória, depois de concedido o
+exequatur, é competência da Justiça Federal de primeira instância (art. 109, X).
+
+f) reclamação contra usurpação de sua competência por outros órgãos, ou contra desrespeito de
+suas decisões (art. 102, I, l), inclusive súmula vinculante (art. 103-A, § 3º)
+
+Se algum juiz ou tribunal no Brasil usurpar uma competência do STF (julgar um Deputado
+Federal, por exemplo) ou desrespeitar uma decisão do STF (por exemplo: desrespeitar súmula
+vinculante), o prejudicado pode ajuizar diretamente no STF uma ação chamada de reclamação.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       31
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Questão de concurso:
+
+(FGV/TJAP/Juiz/2022) Maria teve uma série de produtos apreendidos em seu estabelecimento
+sob o argumento de a comercialização ser proibida no território brasileiro. Ato contínuo, ao
+receber o respectivo auto de apreensão, apresentou sua defesa, argumentando, com provas
+documentais, que a lista de produtos proibidos, na qual se baseara a autoridade administrativa,
+fora alterada em momento pretérito. Sua defesa, no entanto, não foi acolhida. Ao ser notificada
+da decisão, interpôs recurso administrativo endereçado à autoridade superior, que ocupava o
+último grau do escalonamento hierárquico. O recurso, todavia, não foi conhecido por esta última
+autoridade, já que Maria não atendera a um dos pressupostos de admissibilidade previstos na
+legislação municipal, consistente na realização de depósito prévio correspondente a 50% do
+valor das mercadorias. Esse quadro permaneceu inalterado em juízo de retratação. À luz da
+sistemática afeta à súmula vinculante, Maria:
+
+(A) deve submeter a decisão às instâncias ordinárias do Judiciário e, somente em um segundo
+momento, caso não seja anulada, ingressar com reclamação no Supremo Tribunal Federal;
+
+(B)   pode submeter a decisão, via reclamação, ao Supremo Tribunal Federal, cabendo ao
+Tribunal anulá-la e determinar a prolação de outra, com aplicação da súmula vinculante;
+
+(C)    somente poderá impetrar mandado de segurança, em razão da violação de direito líquido
+e certo, o qual tem precedência em razão do caráter subsidiário da reclamação;
+
+(D)   não pode submeter a decisão à apreciação do Supremo Tribunal Federal, já que a
+reclamação não é cabível contra atos lastreados na lei, como é o caso;
+
+(E)   não pode submeter a decisão à apreciação do Supremo Tribunal Federal, considerando
+que a narrativa não indica violação de súmula vinculante.
+
+Comentários:
+
+(Em se tratando de violação à súmula vinculante – SV 21: “É inconstitucional a exigência de
+depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+administrativo” – é cabível reclamação diretamente ao STF – CF, art. 103-A, § 3º).
+
+Gabarito: B
+
+g) ações contra o CNJ e o CNMP (art. 102, I, r)
+
+Antigamente, o STF considerava que sua competência para processar e julgar originariamente as
+ações contra o CNJ e o CNMP restringia-se às “ações tipicamente constitucionais”, isto é, aos
+remédios constitucionais. Todavia, no julgamento do Agravo Regimental na Petição 4770, em
+18.11.2020, a Corte passou a entender que lhe compete processar e julgar quaisquer ações
+contra o CNJ e o CNMP, e não apenas os remédios constitucionais. Veja a diferença:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   32
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                                                Posição antiga                     Posição atual
+
+
+       Mandado de segurança
+                            STF (102, I, r)                               STF (102, I, r)
+       contra ato do CNJ
+
+
+       Ação ordinária contra ato Justiça     Federal      de
+                                                             STF (102, I, r)
+       do CNJ                    primeira instância (109, I)
+
+
+h) edição, revisão e cancelamento de súmula vinculante, após reiteradas decisões em matéria
+constitucional, e pelo voto de 2/3 dos Ministros (art. 103-A)
+
+O STF é o único tribunal brasileiro a poder editar entendimentos cuja observância é obrigatória
+por outros juízes e tribunais: trata-se das súmulas vinculantes, que podem ser editadas pela Corte
+em matéria constitucional, após reiteradas decisões, desde que sejam aprovadas por ⅔ dos
+Ministros do STF.
+
+Competências recursais ordinárias
+Quanto aos recursos ordinários para o STF, são cabíveis em dois casos:
+
+- da decisão dos Tribunais Superiores, quando forem denegados writs constitucionais (exceto
+ação popular) que lá tiveram origem (competências originárias dos Tribunais Superiores): art. 102,
+II, a.
+
+Assim, por exemplo, se o STJ denegar (indeferir) um mandado de segurança ou habeas corpus,
+contra essa decisão caberá recurso ordinário (para rejulgamento da causa toda) direcionado ao
+STF.
+
+Cuidado!!!
+
+Não cabe recurso ordinário para o STF em ação popular, porque esta é julgada sempre na
+primeira instância, contra quem quer que seja. Logo, nunca terá nascido diretamente num
+tribunal superior (condição para caber recurso ordinário para o STF).
+
+ - crimes políticos, julgados pelos juízes federais de primeira instância (art. 102, II, b) - tema que já
+comentamos, quando analisamos as competências da Justiça Federal comum.
+
+Competências recursais extraordinárias (recurso extraordinário)
+Por fim, o STF também julga recurso extraordinário em matéria constitucional (art. 102, III). O
+recurso extraordinário (RE) possui três importantes requisitos de admissibilidade:
+
+- matéria estritamente jurídica (não cabe RE para discutir questões fáticas: Súmula nº 279/STF) e
+de natureza constitucional (art. 102, III, a a d);
+
+- prequestionamento, isto é, a matéria constitucional precisa ter sido discutida efetivamente pelo
+acórdão objeto do recurso;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)            33
+        www.estrategiaconcursos.com.br                                                                90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+- repercussão geral (art. 102, § 3º).
+
+
+
+
+Questão de Concurso
+
+(Cespe/PGE-AL/Procurador/2009) Compete ao STJ julgar, em recurso especial, as causas
+decididas, em única ou última instância, pelos tribunais regionais federais ou pelos tribunais dos
+estados, do DF e territórios, quando a decisão recorrida julgar válida lei local contestada em face
+de lei federal.                                          ==5460==
+
+
+
+
+Comentários:
+
+A competência recursal é do STF, por meio de recurso extraordinário (art. 102, III, d). Apesar de
+se falar em conflito de lei local com lei federal, na verdade esse tema é constitucional, pois, se lei
+estadual e federal estão em conflito, é porque uma das duas é inconstitucional (invadiu
+competência do outro ente federativo). Logo, se a discussão é constitucional, o recurso é o RE
+para o STF, e não o REsp para o STJ.
+
+Gabarito: Errado
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         34
+        www.estrategiaconcursos.com.br                                                             90
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+
+Segura esse resumo sobre as competências do STF:
+
+
+
+
+Aprofundamento: a competência para julgar Ministros de Estados
+
+É preciso rememorar a competência para o julgamento de crimes de responsabilidade de
+Ministros de Estado. Conforme o regramento da CF, o processo e julgamento de tais ilícitos
+compete:
+
+-      ao Senado Federal, caso se trate de crime de responsabilidade conexo com ato do
+Presidente ou do Vice-Presidente da República (CF, art. 52, I);
+
+-       ao Supremo Tribunal Federal (STF), caso se trate de crime de responsabilidade não conexo
+com o Presidente ou o Vice-Presidente da República (CF, art. 102, I, c, a contrario sensu do art.
+52, I).
+
+É também certo que somente no primeiro caso (julgamento perante o Senado Federal, em
+conjunto com o Presidente ou o Vice-Presidente da República) será necessária a autorização
+prévia, discricionária e política da Câmara dos Deputados, como verdadeira condição de
+procedibilidade1, nos termos do entendimento do STF acerca do inciso I do art. 51 da CF.
+
+1
+    STF, Pleno, Arguição de Descumprimento de Preceito Fundamental n. 378 (Medida Cautelar), redator para o
+    acórdão Min. Roberto Barroso, DJE de 8-3-2016.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)            35
+          www.estrategiaconcursos.com.br                                                                90
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+O art. 14 da Lei n. 1079, de 1950, dispõe ser “permitido a qualquer cidadão denunciar o
+Presidente da República ou Ministro de Estado, por crime de responsabilidade, perante a Câmara
+dos Deputados”. Todavia, no entender do STF, tal dispositivo só se aplica aos casos de crime de
+responsabilidade cujo julgamento compete ao Senado Federal (em relação aos Ministros de
+Estado, portanto, apenas quando a infração for conexa com ato ou omissão do Presidente ou do
+Vice-Presidente da República).
+
+Nos demais casos – crimes de responsabilidade do Ministro de Estado não conexo com o
+Presidente ou Vice-Presidente da República, situação em que o julgamento compete
+constitucionalmente ao STF –, a Corte considera ser aplicável o rito do direito processual penal.
+Em outras palavras: em se tratando de crimes de ação penal pública (a regra no Direito brasileiro,
+em vista do caput do art. 100 do Código Penal2), a legitimidade ativa cabe privativamente ao
+Ministério Público3. Como se trata de oficiar perante o STF, a atribuição específica é do próprio
+Procurador-Geral da República (PGR), nos termos do art. 46, parágrafo único, III, da Lei Orgânica
+do Ministério Público da União (Lei Complementar n. 75, de 20 de maio de 19934).
+
+Nesse sentido, confira-se:
+
+DIREITO CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. DENÚNCIA PERANTE O S.T.F.,
+APRESENTADA POR CIDADÃOS, CONTRA MINISTRO DE ESTADO, POR CRIME DE
+RESPONSABILIDADE. ILEGITIMIDADE ATIVA DOS DENUNCIANTES. AGRAVO.
+
+1. Em se tratando de ação penal pública, é do Ministério Público – e não de particulares – a
+legitimidade ativa para denúncia por crime de responsabilidade (artigos 129, I, e 102, I, “c” da
+C.F.).
+
+2. Precedentes do S.T.F.
+
+3. Agravo improvido5.
+
+DENÚNCIA POPULAR. SUJEITO PASSIVO: MINISTRO DE ESTADO. CRIMES DE
+RESPONSABILIDADE. ILEGITIMIDADE ATIVA AD CAUSAM. RECEBIMENTO DA PEÇA INICIAL
+COMO “NOTITIA CRIMINIS”. ENCAMINHAMENTO AO MINISTÉRIO PÚBLICO FEDERAL.
+
+1. O processo de impeachment dos Ministros de Estado, por crimes de responsabilidade
+autônomos, não conexos com infrações da mesma natureza do Presidente da República, ostenta
+caráter jurisdicional, devendo ser instruído e julgado pelo Supremo Tribunal Federal.
+Inaplicabilidade do disposto nos artigos 51, I e 52, I da Carta de 1988 e 14 da Lei 1079/50, dado
+que é prescindível autorização política da Câmara dos Deputados para a sua instauração.
+
+
+
+
+2
+    “A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido”.
+3
+    CP, art. 100, § 1º: “A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de
+    representação do ofendido ou de requisição do Ministro da Justiça”. CF, art. 129, I: “São funções institucionais do
+    Ministério Público: I – promover, privativamente, a ação penal pública, na forma da lei; (...)”.
+4
+    “O Procurador-Geral da República proporá perante o Supremo Tribunal Federal: (...) III – as ações cíveis e penais
+    cabíveis”.
+5
+    STF, Pleno, AgR na Pet n. 1104, Relator Ministro Sidney Sanches, DJ de 21-2-2003.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        36
+          www.estrategiaconcursos.com.br                                                                            90
+
+                                        https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+2. Prevalência, na espécie, da natureza criminal desses processos, cuja apuração judicial está
+sujeita à ação penal pública da competência exclusiva do Ministério Público Federal (CF, artigo
+129, I). Ilegitimidade ativa ad causam dos cidadãos em geral, a eles remanescendo a faculdade
+de noticiar os fatos ao Parquet.
+
+3. Entendimento fixado pelo Tribunal na vigência da Constituição pretérita (MS 20422, Rezek, DJ
+29/06/84). Ausência de alteração substancial no texto ora vigente. Manutenção do
+posicionamento jurisprudencial anteriormente consagrado.
+
+4. Denúncia não admitida. Recebimento da petição como notitia criminis, com posterior remessa
+ao Ministério Público Federal6.
+
+Em idêntico sentido há diversas decisões monocráticas, tais como as proferidas nas Pet n. 8708,
+Relator Ministro Luiz Fux, DJe de 8-5-2020; 8866, Relator Ministro Celso de Mello, DJe de
+1º-9-2020; 8302, Relatora Ministra Rosa Weber, DJe de 4-12-2019; 8680, Relator Ministro Ricardo
+Lewandowski, DJe de 9-3-2020; 8351, Relator Ministro Edson Fachin, DJe de 30-10-2019.
+
+Em suma, temos, para o processo e julgamento de crimes de responsabilidade de Ministros de
+Estado, as seguintes regras:
+
+Quadro: Crimes de responsabilidade: regramento
+
+
+    Autoridade            Crime                Competência             Legitimidade Ativa            Regramento
+
+
+
+                Responsabilidade                                                                CF, art. 52, I
+    Ministro de
+                (conexo com PR             Senado Federal              Qualquer cidadão         Lei n. 1.079/50,
+     Estado
+                ou Vice-PR)                                                                     art. 14
+
+
+
+                Responsabilidade                                                                CF, art. 102, I, c
+    Ministro de
+                (não conexo com            STF                         PGR                      LC n. 75/93, art. 46,
+     Estado
+                PR ou Vice-PR)                                                                  p.u., III
+
+
+Vamos aproveitar para revisar as principais hipóteses constitucionais de foro por prerrogativa de
+função?
+
+
+
+
+6
+     STF, Pleno, Pet n. 1954, Relator Ministro Maurício Corrêa, DJ de 1º-8-2003.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                        37
+           www.estrategiaconcursos.com.br                                                                            90
+
+                                         https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 14
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   38
+      www.estrategiaconcursos.com.br                                                       90
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                                                        STJ
+As competências do STJ, previstas no art. 105, assemelham-se, em sistematicidade, às do STF.
+
+Na verdade, quando estudamos as competências do STF, já fomos aproveitando para tratar
+também das competências do STJ.
+
+Além do que já destacamos, é preciso citar que o STJ recebe recursos especiais, sobre matéria
+de lei federal (art. 105, III).
+
+Assim, teremos: decisão de TJ/TRF que contrarie a Constituição – recurso extraordinário para o
+STF (art. 102, III); decisão de TJ/TRF que contrarie lei federal – recurso especial para o STJ (art.
+105, III).
+
+
+                         JUSTIÇA ESTADUAL (ART. 125 E 126)
+A Justiça Estadual julga as matérias que não sejam de competência da Justiça Federal (comum
+ou especializada), inclusive controle de constitucionalidade das leis, em face da Constituição
+estadual (art. 125, § 2º).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       39
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+                    CONSELHO NACIONAL DE JUSTIÇA (CNJ)
+O Conselho Nacional de Justiça foi criado pela EC n. 45/2004, na esteira de anseio social por um
+maior controle do Poder Judiciário. Este é o único dos três Poderes cujos membros não são
+eleitos e gozam de vitaliciedade, o que justifica o controle disciplinar mais rígido, até mesmo no
+que diz respeito ao cumprimento dos deveres funcionais e às vedações do parágrafo único do
+art. 95.
+
+Para exercer esse controle, foi então criado um órgão de controle interno do Judiciário (cuja
+criação já foi considerada constitucional pelo STF): o CNJ. Observe-se que o CNJ é órgão de
+controle interno do Judiciário. É um órgão do Judiciá­rio, formado na maioria por membros do
+Judiciário, controlando o Judiciário. Controle interno, enfim. Justamente por isso, a criação do
+CNJ foi considerada constitucional pelo STF.
+
+
+
+
+Questão de Concurso
+
+(Cespe/TJDFT/Analista Judiciário – Execução de Mandados/2008) O Conselho Nacional de
+Justiça tem natureza meramente administrativa e configura órgão de controle externo do Poder
+Judiciário.
+
+Comentários:
+
+O CNJ é órgão de controle interno.
+
+Gabarito: Errado
+
+Integram o CNJ quinze Conselheiros: o Presidente do STF (membro nato e Presidente do
+Conselho) e mais quatorze Conselheiros eleitos (com aprovação da maioria absoluta do Senado)
+para um mandato de dois anos (permitida uma recondução), sendo: um Ministro do STJ,
+escolhido pelo próprio STJ (e que acumulará as funções de Conselheiro e Corregedor-Nacional
+de Justiça); um juiz federal e um de TRF, escolhidos também pelo STJ; um juiz estadual e um
+desembargador de TJ, escolhidos pelo STF; um Ministro do TST, um juiz do trabalho e um de
+TRT, escolhidos pelo TST; dois advogados, escolhidos pelo Conselho Federal da OAB; dois
+membros do Ministério Público, escolhidos pelo Procurador-Geral da República; dois cidadãos,
+escolhidos pela Câmara (um) e pelo Senado (outro).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     40
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+A Emenda Constitucional n. 61, de 11-11-2009, alterou a redação do art. 103-B para deixar claro
+que o Presidente do STF é membro nato do CNJ (não precisa ser eleito nem aprovado pelo
+Senado).
+
+Quanto às suas atribuições, vale lembrar que o CNJ é um órgão de controle interno do
+Judiciário. Mesmo assim, não controla a atividade-fim, mas apenas realiza a fiscalização contábil,
+financeira, orçamentária, administrativa e disciplinar do Poder julgador. É responsável pelo
+controle administrativo-financeiro e disciplinar do Judiciário, seus membros e serviços auxiliares,
+além de zelar pelas prerrogativas do Poder que integra.
+
+Vale lembrar que o STF decidiu que o poder correicional (investigar e punir) do CNJ pode ser
+exercido concorrentemente (isto é, cumulativa e simultaneamente) com as corregedorias de cada
+tribunal, não necessitando o CNJ aguardar o desfecho de eventual investigação no tribunal de
+origem para poder atuar.
+
+Cuidado!
+                                                           ==5460==
+
+
+
+
+O CNJ é órgão do Judiciário, mas não exerce a jurisdição. Não é órgão jurisdicional. Tem
+competência apenas para o controle orçamentário, contábil, financeiro, disciplinar e
+administrativo do Judiciário. Recentemente, porém, o STF entendeu que, à semelhança do TCU,
+o CNJ pode deixar de aplicar uma lei por entender que ela é inconstitucional (Pet. n. 4.656/PB).
+
+Em resumo, portanto, compete ao CNJ:
+
+-      exercer o controle financeiro, operacional, administrativo e disciplinar do Poder Judiciário
+nacional, excetuado apenas o STF (o controle do CNJ abrange, portanto, juízes,
+desembargadores e ministros dos tribunais superiores – ministros do STF, não; servidores do
+Judiciário; e membros de funções delegadas, ou seja, titulares de cartórios)
+
+-        rever decisões administrativas de tribunais (mas não decisões judiciais)
+
+-      editar resoluções (o chamado poder normativo do CNJ) sobre o funcionamento do Poder
+Judiciário
+
+-       instaurar, avocar, rever e até desarquivar processos administrativos disciplinares (PAD)
+contra membros do Poder Judiciário – o chamado poder correicional, que inclui a competência
+para receber reclamações disciplinares contra juízes; note, porém, que o poder de desarquivar
+um PAD que foi arquivado na corregedoria de um tribunal só pode ser exercido se o processo
+tiver sido julgado há menos de um ano;
+
+-     aplicar penalidades (poder disciplinar), tais como advertência, suspensão, remoção
+compulsória (que, em se tratando de juiz, pode ter caráter punitivo) e até aposentadoria
+compulsória de juízes (lembrando que o CNJ não pode, no entanto, aplicar a penalidade de
+demissão de juiz vitalício, já que essa só pode ser realizada por meio de sentença judicial).
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    41
+          www.estrategiaconcursos.com.br                                                        90
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Questão de Concurso
+
+(Cespe/TRE-MT/Analista Judiciário – Área Judiciária/2010) O Conselho Nacional de Justiça é um
+órgão do Poder Judiciário e tem jurisdição em todo o território nacional.
+
+Comentários:
+
+O CNJ não exerce jurisdição.
+
+Gabarito: Errado
+
+Veja esta revisão sobre o CNJ:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   42
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+         APROFUNDAMENTO: COMPETÊNCIA PARA JULGAR ALGUNS
+                                      REMÉDIOS CONSTITUCIONAIS
+
+Falamos da competência para julgar habeas corpus. Vejamos, agora, os demais remédios
+constitucionais:
+
+
+Mandado de Segurança: É definido com base na autoridade
+coatora
+
+A competência para julgar um mandado de segurança é definida em função de quem é a
+autoridade coatora (contra quem se ajuíza a ação). Veja, por exemplo, os principais casos:
+
+a)   MS contra a cúpula dos Poderes (Presidente da República, PGR, Presidente da Câmara dos
+Deputados, TCU, STF): competência originária do STF (art. 102, I, d)
+
+b)   MS contra Ministros de Estado: competência originária do STJ (art. 105, I, b); se o MS for
+denegado, cabe recurso ordinário para o STF (art. 102, II, a)
+
+c)        MS contra Governador: TJ.
+
+Veja Bem!
+
+Nos termos da jurisprudência do STF, “não compete ao Supremo Tribunal Federal conhecer
+originariamente de mandado de segurança contra atos de outros tribunais” (Súmula 624). É que
+existe “um princípio constitucional implícito, corroborado pela súmula do STF, de que o
+mandado de segurança contra ato do tribunal é da competência do próprio tribunal que proferiu
+o ato” (DIDIER JR., Fredie. Curso de Direito Processual Civil. Salvador: JusPodivm, 2008, v. 1. p.
+154).
+
+Atenção!
+
+“Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o
+mandado de segurança ou a medida judicial” (Súmula 510/STF). Assim, por exemplo, se um
+servidor público for demitido por ato de Ministro de Estado, atuando por delegação do
+Presidente da República (CF, art. 84, XXV, c/c parágrafo único), a competência para julgar
+eventual MS contra esse ato é do STJ (MS contra Ministro de Estado), e não do STF (MS contra o
+Presidente da República). Foi o que decidiu o STF no MS n. 32.814.
+
+Em resumo (lógica dos remédios constitucionais):
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   43
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+
+Aprofundamento: questões históricas e políticas sobre a
+composição do STF
+O Supremo Tribunal Federal, com esse nome, surgiu em 1890 (Decreto n. 510 da República),
+depois institucionalizado na Constituição de 1891.
+
+É a maior Corte Judiciária brasileira. Superpõe-se a todas as Justiças e atua, também, como
+guardião da Constituição. Diverge-se sobre ser ele uma Corte Constitucional em sentido estrito,
+pois exerce várias outras atribuições, além do controle de constitucionalidade.
+
+Quanto à composição do STF, art. 101, caput, dispõe que “O Supremo Tribunal Federal
+compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de
+setenta anos de idade, de notável saber jurídico e reputação ilibada” (idade máxima alterada
+pela EC 122/22). Além disso, exige o art. 12, §3º, IV, que o Ministro do STF seja brasileiro nato.
+
+Perceba-se que, dentre esses quatro requisitos, dois são de natureza objetiva (etário – idades
+mínima e máxima – e de nacionalidade – ser brasileiro nato) e dois de natureza subjetiva
+(capacitário – notável saber jurídico – e moral – reputação ilibada).
+
+Pontes de Miranda, ao analisar esses requisitos, afirma que:
+
+Praticamente, o pressuposto do “notável saber”, que em 1946 se explicou ser saber jurídico, [...]
+constitui mera recomendação. Todo bacharel de serviços políticos e alguma advocacia
+provinciana, ou todo juiz filho de Estado-membro que tenha, por seu tamanho, grande
+importância política, ou grandes padrinhos ocasionais, ou juízes politiqueiros do Distrito Federal,
+tem parecido preencher o que o texto supõe1.
+
+1
+    MIRANDA, Francisco Cavalcanti Pontes de. Comentários à Constituição de 1967 com a Emenda n. 1, de 1969, t.
+    IV. São Paulo: RT, 1970. p. 650.
+    Ao longo de 116 anos (1889 a 2005), o Senado Federal somente recusou cinco nomes, todos no governo de
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               44
+          www.estrategiaconcursos.com.br                                                                   90
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+A escolha dos membros do Supremo Tribunal Federal não é, porém, um monopólio do
+Presidente da República, uma vez que o escolhido deve submeter-se ao crivo do Senado Federal,
+nos termos do já citado parágrafo único do art. 101 da CF.
+
+Todavia, é de se notar que o quórum exigido para a aprovação não é tão exigente: maioria
+absoluta. Dificilmente se assistirá ao governo de um Presidente que não possua, sequer, mais da
+metade dos Senadores como aliados, até por questões de governabilidade. Aliás, em toda a
+história constitucional brasileira, apenas cinco vezes o Senado derrubou a escolha do Presidente,
+mesmo assim, em situações extremas, como nos hilários casos em que Floriano Peixoto nomeou
+dois generais e um médico.
+
+Essa forma de nomeação foi “importada” (junto com diversas outras instituições – a exemplo do
+próprio federalismo) da Constituição americana; de um ordenamento em que é conferido “todo
+o poder ao Presidente”, como afirma a máxima republicana. Insere-se no contexto de um
+Executivo forte, interventor; aliás, é interessante notar a ausência da cláusula de independência
+entre os Poderes no mirrado texto constitucional americano.
+
+Aprofundamento: a alteração de composição de Tribunais no
+Direito comparado e a questão da independência desses
+órgãos
+No direito comparado, o exemplo mais conhecido de tentativa de alterar a composição de
+Cortes é o chamado Court Packing Plan, apresentado ao Congresso Americano em 1937 por
+influência do Presidente Franklin Delano Roosevelt.
+
+Contrariado pelo fato de muitas normas integrantes do chamado New Deal terem sido
+declaradas inconstitucionais pela Suprema Corte Americana, Franklin D. Roosevelt concebeu uma
+tentativa de alterar a lei de composição da Suprema Corte americana (nos Estados Unidos, o
+número de membros da Corte não tem previsão constitucional), com a finalidade de ampliar o
+número de juízes e, assim, realizar novas nomeações e, finalmente, conseguir a declaração de
+constitucionalidade das leis instituidoras de suas políticas públicas.
+
+A proposta sofreu grande resistência na opinião pública e nos meios políticos, e, por ser
+considerada um ataque à independência judicial, restou rejeitada pelo Comitê de Justiça do
+Senado Americano2.
+
+
+
+
+   Floriano Peixoto: Barata Ribeiro, Inocêncio Falcão, Ewerton Quadros, Antônio Sève Navarro e Demóstenes Lobo.
+   <www.stf.gov.br/institucional/ministros>. Nesse sentido: “Em 21.10.1893, foi nomeado para Ministro do STF, no
+   recesso parlamentar, para a vaga do Ministro Barradas, o médico clínico Cândido Barata Ribeiro, que tomou
+   posse e exerceu o cargo por quase um ano (1893-1894), enquanto se aguardava a confirmação de sua nomeação
+   pelo Senado Federal, que afinal a rejeitou”. (MORAES, Alexandre. Jurisdição, p. 216).
+2
+  Cf. KLINE, Stephan O. Revisiting FDR's Court Packing Plan: Are the Current Attacks on Judicial Independence So
+Bad? In: McGeorge Law Review, n. 30, 1999, p. 864.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                   45
+        www.estrategiaconcursos.com.br                                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+Aprofundamento: deveria o STF ser provido por membros
+escolhidos por concurso público?
+Muitas vezes se levanta a possibilidade de instituição de concurso público para a seleção de
+Ministros do Supremo Tribunal Federal (STF).
+
+Pode-se defender ser possível – em termos constitucionais – a aprovação de tal mudança, desde
+que realizada por meio de Proposta de Emenda à Constituição (PEC) e preservadas as cadeiras
+dos atuais ocupantes, sem qualquer interferência que indique tentativa de alterar substancial e
+deliberadamente a composição concreta da Corte (o que, aliás, valeria para qualquer proposta
+de modificação desse aspecto).
+
+Ser constitucionalmente possível – por não violar cláusula pétrea – não significa, contudo, que a
+proposta seja meritória. Ao contrário: há várias reservas quanto à adoção da sistemática do
+concurso público para a composição de tribunais constitucionais.
+
+Dissertando sobre o tema em sua tese de livre-docência, o professor André Ramos Tavares
+explica:
+
+“O formato concurso público, para recrutamento de integrantes do Tribunal Constitucional, conta
+com sérias dificuldades de implementação. Normalmente, argumenta-se favoravelmente a esse
+modelo por privilegiar a qualidade intelectual dos futuros componentes do Tribunal
+Constitucional, livrando-os do apadrinhamento e consequente relação política que a indicação
+por altas autoridades poderia gerar.
+
+Contudo, a maior dificuldade está em selecionar os examinadores daqueles que serão os
+componentes do Tribunal Constitucional e que, portanto, terão a palavra final em termos de
+Direito. É difícil imaginar um conselho de anciãos, na sociedade moderna, respeitados por seus
+conhecimentos jurídicos, que pudesse funcionar como composição orgânica deliberativa sobre os
+futuros integrantes do Tribunal Constitucional.
+
+Ademais, como se garantirá a não ascendência de uma banca examinadora dessas (e de seus
+interesses) sobre os futuros componentes do Tribunal Constitucional? Ou seja, ainda que se
+superasse o problema da composição da banca examinadora, retornar-se-ia à mesma dificuldade
+inicial, vale dizer, poderia surgir um vínculo afetivo entre examinadores e examinados. Essa
+solução do concurso público, portanto, apenas acrescenta uma nova problemática à anterior.
+
+(...) entre justiça comum e justiça constitucional impõe-se uma substancial distinção. São âmbitos
+de atuação com natureza, procedimentos e objetivos totalmente diversos. (...) aos membros do
+Tribunal Constitucional (compreendido como tribunal especial) exige-se de seus componentes
+maior prestígio e independência superior do que dos membros dos tribunais comuns (cf.
+DUVERGER, 1948: 198).”3.
+
+No mesmo sentido, Roberto da Silva Ribeiro, após analisar a composição de cortes
+constitucionais de diversos países, adverte:
+
+
+
+3
+    TAVARES, André Ramos. Teoria da Justiça Constitucional. São Paulo: Saraiva, 2005, pp. 376-377.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        46
+           www.estrategiaconcursos.com.br                                                            90
+
+                                         https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+“O concurso público, por sua vez, quando utilizado como meio direto para a seleção dos
+integrantes da Corte Constitucional também não se mostra como a forma mais adequada.
+Outrossim, ainda que se argumente favoravelmente, tendo em vista a comprovada capacidade
+intelectual dos escolhidos pelo certame, e ausência, em tese, de apadrinhamento, essa solução
+apresenta os mesmos inconvenientes da mera promoção de magistrados de carreira.”4.
+
+A Comissão de Constituição, Justiça e Cidadania (CCJ) do Senado Federal parece ter
+concordado com essa leitura. Tanto assim, que, ao apreciar a PEC nº 52, de 2015 (primeiro
+signatário Senador Reguffe) – que visava justamente a instituir a regra do concurso público para a
+escolha de ministros do STF – o colegiado concordou com a Relatora, Senador Ana Amélia, para
+quem “o concurso público como único meio de acesso ao cargo de Ministro do STF pode
+implicar conferir um viés tecnicista ao mesmo. Ademais, não são conhecidas experiências
+internacionais que revelem a pertinência de tal modelo”5.
+
+Assim, em conclusão, pode-se afirmar que a instituição de concurso público como condição para
+o acesso ao cargo de Ministro do STF, por meio de PEC, seria possível; trata-se, contudo, de
+proposta cujo mérito é bastante questionável, tendo já sido inclusive refutada pela CCJ do
+Senado Federal6.
+
+Aprofundamento: competência para julgar habeas corpus e
+Ministro de Estado
+A competência para o julgamento de habeas corpus envolvendo Ministro de Estado depende da
+posição por ele ocupada. Quando o Ministro for o paciente, a competência será do STF (art. 102,
+I, d); quando, porém, for a autoridade coatora, o writ será julgado no STJ (art. 105, I, c).
+
+
+
+                     Quadro: Competência para o julgamento de Ministro de Estado
+
+
+                           Ação                                                     Competência
+
+
+                     Crime comum                                                          STF
+
+
+
+              Crime de responsabilidade                            Conexo com o Presidente da República:
+
+
+
+4
+  RIBEIRO, Roberto da Silva. O Processo de Indicação dos Ministros do Supremo Tribunal Federal: uma análise
+crítica. Brasília: Núcleo de Estudos e Pesquisas/CONLEG/Senado, Maio/2015 (Texto para Discussão nº 174). No
+mesmo sentido: PEIXOTO, Leonardo Scofano Damasceno Peixoto. Supremo Tribunal Federal: composição e
+indicação de seus ministros. São Paulo: Método, 2012, p. 56.
+5
+  Senado Federal. Comissão de Constituição, Justiça e Cidadania. Parecer nº 71, de 2017, Relatora Senadora Ana
+Amélia. Diário do Senado Federal, nº 132, de 14 de setembro de 2017, pp. 176-194.
+6
+  A PEC nº 52, de 2015, permanece, porém, aguardando designação de novo relator na CCJ, desde 2019, em vista
+da extinção da tramitação em conjunto que vigorava quando da manifestação daquele colegiado aqui citada.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               47
+          www.estrategiaconcursos.com.br                                                                   90
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+
+                                                                                        Senado
+
+                                                                                 Não conexo: STF
+
+
+
+        HC em que o Ministro é o paciente                                                 STF
+
+
+
+         HC em que o Ministro é o coator                                                  STJ
+
+
+
+Aprofundamento: competência do STF para julgar recurso
+extraordinário (CAI MUITOOOOOOOO)
+Recurso extraordinário: ao contrário do recurso ordinário, aqui não basta à parte provar que
+perdeu. Será preciso demonstrar vários outros pressupostos sem os quais o STF sequer analisará
+o mérito do recurso (diz-se, então, que o recurso não foi conhecido) – são os pressupostos
+específicos de admissibilidade do RE (Recurso Especial).
+
+O RE é um recurso que trata apenas de matéria constitucional. É um caso de exercício, pelo STF,
+de controle difuso de constitucionalidade. Note-se apenas que a alínea d era de competência do
+STJ, em grau de recurso especial. Porém, como se trata de um conflito de constitucionalidade (a
+decisão entre a validade da lei estadual e a da lei federal é matéria de repartição constitucional
+de competência), a competência foi atribuída ao STF pela EC n. 45/2004 (reforma do Judiciário).
+
+De acordo com a doutrina, “recurso extraordinário (ou recurso excepcional, ou recurso de
+superposição) é gênero do qual são espécies o recurso extraordinário para o STF (art. 102, III,
+CF/88) e o recurso especial para o STJ (art. 105, III, CF/88)”7. Para não confundir o leitor,
+adotaremos a nomenclatura “recursos excepcionais” para nos referirmos, em conjunto, ao RE e
+ao REsp.
+
+Existem pressupostos específicos de admissibilidade do RE. Desse modo, além de provar que
+perdeu, a parte recorrente terá de provar, para poder interpor RE:
+
+1. Prequestionamento: é a prova de que o TJ ou TRF ou qualquer outro tribunal contra o qual se
+recorre debateu e decidiu a questão constitucional alegada. Não adianta, por exemplo, à parte
+que perdeu simplesmente “inventar” uma matéria constitucional para chegar com o processo até
+o STF. É preciso, para que caiba RE, que a matéria já tenha sido questionada (levantada,
+prequestionada) perante o tribunal a quo. Nesse sentido: STF: “É inadmissível o recurso
+extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” (Súmula
+282).
+
+Segundo Fredie Didier Jr. e Leonardo José Carneiro da Cunha, “o prequestionamento é
+exigência antiga para a admissibilidade dos recursos extraordinários, segundo o qual se impõe
+
+7
+    Idem, ibidem, p. 217.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       48
+          www.estrategiaconcursos.com.br                                                           90
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 14
+
+
+
+que a questão federal/constitucional                      objeto      do     recurso      excepcional   tenha   sido
+suscitada/analisada na instância inferior”8.
+
+2. Matéria constitucional: o RE só é cabível nessas quatro hipóteses previstas taxativamente no
+art. 102, III, alíneas a a d.
+
+a) Jurisprudência: STF: “Não cabe recurso extraordinário por contrariedade ao princípio
+constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a
+normas infraconstitucionais pela decisão recorrida” (Súmula 636); “Não cabe recurso
+extraordinário contra acórdão de Tribunal de Justiça que defere pedido de intervenção estadual
+em Município” (Súmula 637); “A controvérsia sobre a incidência, ou não, de correção monetária
+em operações de crédito rural é de natureza infraconstitucional, não viabilizando recurso
+extraordinário” (Súmula 638).
+
+3. Matéria de direito e não de fato: o RE não serve à mera reanálise e revolvimento do material
+fático do processo. Por exemplo: em grau de recurso extraordinário, o STF não analisa se o réu
+efetivamente disparou ou não (matéria de fato), mas pode apreciar se a lei que previu o crime de
+homicídio viola ou não a Constituição (matéria de direito).
+
+* Jurisprudência: STF, súmula 269: “Para simples reexame de prova não cabe recurso
+extraordinário”.
+
+* STJ, súmula 7: “A pretensão de simples reexame de prova não enseja recurso especial”.
+
+Repercussão geral: a partir da EC n. 45/2004, não basta provar o prequestionamento e a matéria
+constitucional para interpor RE. Exige-se agora a demonstração da repercussão geral, ou seja, a
+prova de que a matéria interessa não só ao recorrente, mas possui uma relevância transcendente,
+abrangente. Busca-se, com isso, diminuir o número de REs que chegam ao STF e transformar
+esse tribunal num julgador de teses, não de casos específicos.
+
+A previsão de que, no recurso extraordinário (típico instrumento do controle difuso), cabe ao
+recorrente demonstrar a repercussão geral das questões debatidas (art. 102, §3º), se, por um
+lado, objetiva reduzir o número de recursos dirigidos à Corte Suprema, por outro lado, não
+esconde uma intenção de tornar mais objetiva, abstrata, a discussão de uma causa por natureza
+subjetiva e concreta. Busca-se, em verdade, transformar o STF em um tribunal de teses, e não de
+casos.
+
+Perceba-se que existe quase uma presunção de repercussão geral do recurso, já que só por 2/3
+dos Ministros o STF pode rejeitar um RE por entender que a matéria não tem repercussão geral.
+A decisão do STF que considera não haver repercussão geral é irrecorrível (CPC, art. 543-A,
+caput).
+
+Exige-se, ainda, para a abertura da instância extraordinária, o esgotamento dos recursos na
+instância de origem. Nesse sentido: STF, Súmula 281: “É inadmissível o recurso extraordinário,
+quando couber, na Justiça de origem, recurso ordinário da decisão impugnada”.
+
+
+
+8
+    Idem, ibidem, p. 210.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      49
+          www.estrategiaconcursos.com.br                                                                          90
+
+                                        https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+Aprofundamento: competência do STJ para julgar recurso
+especial
+O recurso especial (RESp) é, ao lado do recurso extraordinário para o STF (art. 102, III), um
+recurso excepcional. Não basta à parte provar que perdeu: é preciso comprovar o
+prequestionamento e a pertinência da matéria a uma das três alíneas deste inciso.
+
+Perceba-se que, se a matéria do RE é apenas a questão constitucional, a matéria do REsp é o
+desrespeito à lei federal ou a diversidade de interpretação de jurisprudência. Por isso dizemos
+que o STJ é o guardião da lei federal e da uniformização de jurisprudência.
+
+No mesmo sentido, diz-se que “o STJ desempenha uma função paradigmática, na medida em
+que suas decisões servem de exemplo a ser seguido pelos demais tribunais, com o que se obtém
+a uniformização da jurisprudência nacional. [...] Enfim, o STJ desempenha função primordial de
+interpretar e preservar a legislação federal infraconstitucional, além de ter o papel de uniformizar
+a jurisprudência nacional quanto àquela mesma legislação, em decisões paradigmáticas”9.
+
+Igualmente explica Dinamarco: “o Superior Tribunal de Justiça é competente para o recurso
+especial (art. 105, inc. III), que é o canal pelo qual lhe chegam alegações de violação ou negativa
+de vigência a leis federais de âmbito nacional (não da Constituição Federal, não da lei estadual
+ou municipal, não do contrato, nada sobre o exame de prova)”.10
+
+E se a decisão do TJ ou TRF contrariar, ao mesmo tempo, a Constituição e a lei federal? Deverá a
+parte interpor, ao mesmo tempo, RE para o STF (sobre a matéria constitucional) e REsp para o
+STJ (matéria infraconstitucional – lei federal ou uniformização de jurisprudência).
+
+Perceba-se, ainda sobre o RESp, que o STJ se comporta como guardião da Lei Federal (alíneas a
+e b) e da uniformização de jurisprudência (alínea c).
+
+Também não é demais lembrar que a EC n. 45/2004 passou ao STF a competência para julgar o
+recurso da decisão que julgar válida lei local contestada em face de lei federal. Tínhamos a
+competência do STJ para julgar a matéria em sede de RESp; agora, a competência é do STF,
+para julgar RE sobre o tema (esse ponto já foi objeto de questão de várias bancas em várias
+provas).
+
+São requisitos específicos de admissibilidade do Recurso Especial:
+
+a)        Tratar de matéria relativa à lei federal (vigência, cumprimento ou interpretação).
+
+b)        Prequestionamento, nos termos do que já se disse quanto ao RE.
+
+c)    Tratar de matéria de direito e não de fato. Com efeito, em sede de recurso especial não se
+admite o revolvimento do material fático-probatório, matéria na qual é soberana a instância
+ordinária, nos termos da Súmula n. 7 do STJ. Em outras palavras, o REsp se dirige apenas à
+
+9
+     DIDIER JR, Fredie; CUNHA, Leonardo José Carneiro da. Curso de Direito Processual Civil. Salvador: JusPodivm,
+     2007. v. 3, p. 213.
+10
+     Idem, ibidem, p. 250
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                 50
+           www.estrategiaconcursos.com.br                                                                     90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+análise de error juris judicando or procedendo (erro de julgamento ou de entendimento), não
+sendo o correto espaço para rediscutir interpretação dada pelo tribunal a quo ao material
+fático-probatório colhido no processo.
+
+d)        Relevância da questão federal (art. 105, §§ 2º e 3º, incluídos pela EC nº 125/22).
+
+É de se notar que o requisito de repercussão geral é exigível apenas no RE, não no REsp (art.
+102, §3º).
+
+Outra diferença entre o REsp e o RE é que este (o RE) é cabível contra decisão das turmas
+recursais dos juizados especiais, o que não ocorre com o REsp, que só cabe contra decisão de
+tribunal. Isso ocorre porque o art. 105, III, fala em decisão de tribunais (o que exclui, portanto, as
+turmas recursais), ao passo que o art. 102, III, fala apenas em decisão de única ou última
+instância. Nesse sentido a Súmula 203 do STJ (“Não cabe recurso especial contra decisão
+proferida por órgão de segundo grau dos Juizados Especiais”) e a Súmula 640 do STF (“É cabível
+recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de alçada, ou
+                                                            ==5460==
+
+
+
+
+por turma recursal de juizado especial cível e criminal”).
+
+“A jurisprudência assentada no STJ considera que, para efeito de cabimento de recurso especial
+(CF, art. 105, III), compreendem-se no conceito de lei federal os atos normativos (= de caráter
+geral e abstrato), produzidos por órgão da União com base em competência derivada da própria
+Constituição, como são as leis (complementares, ordinárias, delegadas) e as medidas provisórias,
+bem assim os decretos autônomos e regulamentares expedidos pelo Presidente da República
+(Emb.Decl. no Resp 663.562, 2ª Turma, Min. Castro Meira, DJ de 07.11.05)”.
+
+No mesmo sentido:
+
+O conceito de lei federal estampado no art. 105 da Constituição Federal de 1988, precisamente
+no inciso III, alínea a, também diz respeito a atos infralegais, conforme precedentes da Corte.
+
+Em se tratando da hipótese prevista na alínea c, é preciso cotejar vários julgados em sentidos
+diversos, para que fique configurado o dissídio jurisprudencial: STJ:
+
+Por força legal, a divergência jurisprudencial, autorizativa do recurso especial interposto, com
+fundamento na alínea c do inciso III do artigo 105 da Constituição Federal, requisita
+comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos
+acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou
+assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de
+ementas ou votos. 2. A lei estabelece pressupostos ou requisitos para a admissibilidade do
+recurso e, portanto, cabe à parte formulá-lo em estrito cumprimento à lei, não se constituindo
+tais exigências em formalismo exacerbado11.
+
+No mesmo sentido:
+
+(...) não basta a simples transcrição de ementas ou trechos do julgado divergente, de- vendo a
+parte realizar o confronto explanatório da decisão recorrida com o acórdão paradigma, a fim de
+apontar a divergência jurisprudencial existente. Não merece prosperar o recurso, neste ponto,
+
+11
+     STJ, Sexta Turma, REsp 417.871/PE, Relator Ministro Hamilton Carvalhido, DJ de 17-12-2004, p. 601.
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)             51
+           www.estrategiaconcursos.com.br                                                                 90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+ante o descumprimento das formalidades insculpidas nos artigos 541, parágrafo único, do
+Código de Processo Civil, e 255, §§1º e 2º, do Regimento Interno desta Corte12.
+
+                  Quadro: Comparação entre Recurso Extraordinário e Recurso Especial
+
+
+                                                    RE                                          REsp
+
+
+
+ Competência para o
+                               STF                                            STJ
+ julgamento
+
+
+
+                                                                              Lei Federal (e uniformização de
+ Matéria                       Constitucional
+                                                                              jurisprudência)
+
+
+
+ Previsão                      Art. 102, III, a a d                           Art. 105, III, a a c
+
+
+
+                               Matéria de direito e não de fato               Matéria de direito e não de fato
+
+                               Prequestionamento                              Prequestionamento
+ Requisitos de
+ admissibilidade               Matéria constitucional                         Matéria de lei federal
+
+                               Repercussão geral                              Relevância da questão federal
+
+
+
+ Cabimento quanto à
+ decisão de turma
+                               Sim                                            Não
+ recursal de juizados
+ especiais
+
+
+
+
+                                                          Veja só:
+
+
+
+
+12
+     STJ, Sexta Turma, AgRg no Ag 815.097/GO, Relatora Ministra Jane Silva, DJ de 24-3-2008, p.1.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                    52
+           www.estrategiaconcursos.com.br                                                                        90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+
+Aprofundamento: a “relevância da questão federal” trazida
+pela EC nº 125/22
+Com a EC nº 45/04, buscou-se transformar o RE num recurso para construir teses, e não apenas
+julgar casos: passou-se a exigir do recorrente a demonstração da repercussão geral. Isso, todavia,
+não se estendeu ao REsp, que continuava sem qualquer requisito semelhante sendo exigido –
+embora a criação da sistemática do julgamento dos “recursos repetitivos”, no CPC/2015, tenha
+ajudado já a mudar um pouco o perfil eminentemente de “caso” do REsp. Em 2022, contudo,
+veio a EC nº 125, por meio da qual se passou a exigir que o recorrente demonstre, no REsp, “a
+relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos da
+lei, a fim de que a admissão do recurso seja examinada pelo Tribunal, o qual somente pode dele
+não conhecer com base nesse motivo pela manifestação de 2/3 (dois terços) dos membros do
+órgão competente para o julgamento” (art. 105, § 2º).
+
+Perceba-se que realmente a relevância da questão federal está para o REsp assim como a
+repercussão geral está para o RE: tanto que aquela já chegou a ser apelidada de “repercussão
+geral do STJ”. A norma que instituiu esse novo requisito de admissibilidade do REsp, no entanto,
+é de eficácia limitada, quer dizer, a demonstração da relevância da questão no REsp só passará a
+ser exigida quando for editada a lei regulamentando essa questão. Tanto assim, que o próprio
+STJ editou o Enunciado Administrativo nº 8: “A indicação, no recurso especial, dos fundamentos
+de relevância da questão de direito federal infraconstitucional somente será exigida em recursos
+interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora
+prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+
+Vale lembrar, porém, que a própria CF já traz alguns casos em que se presume de forma absoluta
+a existência de relevância, casos esses aos quais a lei deverá obediência. Assim,
+
+       “Art. 105. .............................
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     53
+        www.estrategiaconcursos.com.br                                                         90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+       § 3º Haverá a relevância de que trata o § 2º deste artigo nos seguintes casos:
+
+       I - ações penais;
+
+       II - ações de improbidade administrativa;
+
+       III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários-mínimos;
+
+       IV - ações que possam gerar inelegibilidade;
+
+       V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do Superior
+Tribunal de Justiça;
+
+       VI - outras hipóteses previstas em lei.”.
+
+Como se nota, o critério predominante aqui é a matéria (penal, improbidade, causas que possam
+acarretar inelegibilidade, violação à jurisprudência dominante), mas também se faz presente o
+valor da causa como critério para se presumir a relevância. A lei regulamentadora também
+poderá ampliar esse rol, que é meramente exemplificativo, como se percebe da leitura do inciso
+VI.
+
+Então lembre-se:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   54
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+                                       QUESTÕES COMENTADAS
+1.        (FGV/OAB/2019)
+
+Os analistas de infraestrutura de determinado Ministério, ocupantes de cargo efetivo, pleiteiam
+há algum tempo uma completa reestruturação da carreira, com o aumento de cargos e de
+remunerações. Recentemente, a negociação com o Governo Federal esfriou dado o cenário de
+crise fiscal severa. Para forçar a retomada das negociações, a categoria profissional decidiu
+entrar em greve, mantendo em funcionamento apenas os serviços essenciais. Com base na
+hipótese apresentada, assinale a afirmativa correta.
+
+a)Compete à Justiça Federal – e não à Justiça do Trabalho – julgar a abusividade do direito de
+greve dos analistas de infraestrutura.
+
+b)A Administração Pública não poderá, em nenhuma hipótese, fazer o desconto dos dias não
+trabalhados em decorrência do exercício do direito de greve pelos servidores públicos civis.
+
+c)O direito de greve dos servidores públicos civis não está regulamentado em lei, o que impede
+o exercício de tal direito.
+
+d)O direito de greve é constitucionalmente assegurado a todas as categorias profissionais,
+incluindo os militares das Forças Armadas, os policiais militares e os bombeiros militares.
+
+Comentário:
+
+Em se tratando de greve de servidores estatutários, a competência é sempre da Justiça Comum
+(no caso, federal, por serem servidores dessa esfera): “É competência da justiça comum, federal
+ou estadual, conforme o caso, o julgamento de dissídio de greve promovida por servidores
+públicos, na linha do precedente firmado no MI 670 (Rel. Min. MAURÍCIO CORRÊA, Rel. p/
+acórdão Min. GILMAR MENDES, Tribunal Pleno, DJe de 30/10/2008).”
+
+Gabarito: alternativa A
+
+
+
+2.        (FGV/MPE/Analista/2018)
+
+Em ação ajuizada pelo Ministério Público, o Tribunal de Justiça, ao apreciar o recurso de
+apelação, julgou improcedente o pedido formulado. Após o exaurimento de todos os recursos
+nas instâncias ordinárias, a Instituição constatou que o acórdão violara frontalmente a
+Constituição da República de 1988. À luz da sistemática constitucional e, uma vez preenchidos
+os demais requisitos exigidos, o referido acórdão pode ser impugnado via
+
+a)recurso extraordinário, endereçado ao Supremo Tribunal Federal.
+
+b)recurso extraordinário, endereçado ao Superior Tribunal de Justiça.
+
+c)recurso especial, endereçado ao Supremo Tribunal Federal.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   55
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+d)recurso extraordinário, endereçado ao Superior Tribunal de Justiça.
+
+e)reclamação constitucional, endereçada ao Supremo Tribunal Federal.
+
+Comentário:
+
+Em se tratando de julgado proferido por tribunal de justiça, em segundo grau de jurisdição,
+abordando matéria constitucional, o recurso cabível é o RE, direcionado ao STF (CF, art. 102, III).
+Seria o recurso especial direcionado ao STJ (art. 105, III) se o tema do recurso versasse sobre
+interpretação de lei federal. Finalmente, o caso também não é de reclamação ao STF (art. 102, I,
+l), pois esse instrumento é usado quando algum órgão está usurpando competência do STF ou
+desrespeitando decisão sua, o que não é o caso da questão.
+
+Gabarito: A
+
+
+
+3.        (FGV/MPE/Analista/2018)
+
+O Ministério Público impetrou mandado de segurança, contra ato de Desembargador, perante o
+Tribunal de Justiça do Estado. O pedido formulado foi indeferido com base em um argumento
+considerado, pela Instituição, nitidamente contrário à ordem constitucional. À luz desses fatos, o
+Ministério Público decidiu manejar o recurso cabível para que a causa seja analisada pelo
+Tribunal Superior competente. Sobre a sistemática constitucional e a divisão de competências
+dos Tribunais Superiores, assinale a afirmativa correta.
+
+a)Deve ser interposta reclamação constitucional endereçada ao Supremo Tribunal Federal.
+
+b)Deve ser interposto recurso extraordinário endereçado ao Supremo Tribunal Federal.
+
+c)Deve ser interposto recurso ordinário endereçado ao Superior Tribunal de Justiça.
+
+d)Deve ser interposto recurso especial endereçado ao Superior Tribunal de Justiça.
+
+e)Deve ser interposto recurso ordinário endereçado ao Supremo Tribunal Federal.
+
+Comentário:
+
+É cabível recurso ordinário em mandado de segurança, dirigido ao STJ (CF, art. 105, II, b). Vale
+lembrar que, mesmo em se tratando de matéria constitucional, a existência de um recurso
+ordinário impede o manejo de RE direto para o STF (Súmula 281/STF: “é inadmissível o recurso
+extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.”).
+Em outras palavras: caso se tratasse de uma ação comum, que “morre” no TJ, caberia RE para o
+STF; como, porém, se trata de mandado de segurança, para o qual a CF prevê recurso ordinário
+em caso de denegação, o recurso ordinário prevalece sobre o cabimento do recurso
+extraordinário, mesmo que se trate de matéria constitucional.
+
+Gabarito: C
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    56
+           www.estrategiaconcursos.com.br                                                        90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+4.    (FGV - CGU - Auditor Federal de Finanças e Controle - Área: Auditoria e Fiscalização –
+2022)
+
+Após ampla investigação da Procuradoria-Geral da República, concluiu-se que o governador do
+Estado Alfa praticara infração penal, consistente no desvio de recursos oriundos da União, em
+razão da celebração de convênio, cuja persecução penal deveria ser iniciada mediante ação
+penal pública incondicionada. Nesse caso, o foro competente para o processo e julgamento
+dessa autoridade é o:
+
+a) Superior Tribunal de Justiça, que deve solicitar autorização à respectiva Assembleia Legislativa,
+ainda que a Constituição Estadual não o exija, por se tratar de norma de reprodução obrigatória,
+sendo o governador automaticamente afastado caso a denúncia seja recebida;
+
+b) Superior Tribunal de Justiça, que não depende de autorização da Assembleia Legislativa, pois
+a Constituição Estadual não pode exigi-lo, e, com o recebimento da denúncia, o afastamento do
+chefe do Poder Executivo não é automático;
+
+c) Superior Tribunal de Justiça, que deve solicitar autorização à respectiva Assembleia Legislativa,
+caso a Constituição Estadual o exija, sendo que o governador somente será afastado se a
+denúncia for recebida e o Tribunal assim deliberar;
+
+d) Tribunal Regional Federal, que não depende de autorização da Assembleia Legislativa, pois a
+Constituição Estadual não pode exigi-lo, e, com o recebimento da denúncia, o afastamento do
+chefe do Poder Executivo não é automático;
+
+e) Supremo Tribunal Federal, que deve solicitar autorização à respectiva Assembleia Legislativa,
+caso a Constituição Estadual o exija, sendo o governador automaticamente afastado caso a
+denúncia seja recebida.
+
+Comentário:
+
+De acordo com a CF, art. 105, I, a, cabe ao STJ processar e julgar governadores pela prática de
+crimes comuns (eliminadas as alternativas “D” e “E”). Além disso, o recebimento da denúncia
+não depende de autorização da Assembleia, conforme decisão do STF na ADI nº 5540/MG:
+“Não há necessidade de prévia autorização da assembleia legislativa para o recebimento de
+denúncia ou queixa e instauração de ação penal contra governador de Estado, por crime comum,
+cabendo ao Superior Tribunal de Justiça (STJ), no ato de recebimento ou no curso do processo,
+dispor, fundamentadamente, sobre a aplicação de medidas cautelares penais, inclusive
+afastamento do cargo”. Dessa maneira, a competência é do STJ, que não precisa de autorização
+da assembleia para processar o governador.
+
+Gabarito: B
+
+
+
+5.        (FGV - MPE GO - Promotor de Justiça Substituto – 2022)
+
+Ao promotor de justiça André lotado em Promotoria da Infância e Juventude da capital do
+Estado Beta, após processo administrativo disciplinar (PAD) que tramitou perante o Conselho
+Nacional do Ministério Público (CNMP), foi aplicada sanção disciplinar em razão de ter incorrido
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     57
+           www.estrategiaconcursos.com.br                                                         90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+em faltas injustificadas no órgão de execução de que é titular, prejudicando o andamento de
+procedimentos que por lá tramitam. Inconformado com a punição, o promotor de justiça André
+ajuizou ação ordinária em face da União e do Estado Beta, perante uma Vara Federal da capital
+do Estado Beta, pretendendo a declaração de nulidade da sanção disciplinar aplicada pelo
+CNMP, por ofensa ao contraditório e à ampla defesa durante o PAD. Consoante atual
+jurisprudência do Supremo Tribunal Federal sobre o tema, a competência para processar e julgar
+a ação manejada pelo promotor é do(a):
+
+A) Supremo Tribunal Federal, pois se trata de ato praticado pelo Conselho Nacional do Ministério
+Público correlato a suas atividades finalísticas previstas constitucionalmente;
+
+B) Superior Tribunal de Justiça, pois se trata de ato praticado pelo Conselho Nacional do
+Ministério Público correlato a suas atividades administrativas previstas constitucionalmente;
+
+C) Vara da Fazenda Pública da capital da Justiça Estadual do Estado Beta, pois se trata de ato
+praticado pelo Conselho Nacional do Ministério Público correlato a suas atividades
+administrativas previstas constitucionalmente;
+
+D) Vara da Fazenda Pública do Distrito Federal, local onde está sediado o CNMP, pois se trata de
+ato praticado pelo Conselho Nacional do Ministério Público correlato a suas atividades
+administrativas previstas constitucionalmente;
+
+E) Vara Federal da capital do Estado Beta, em razão do local onde ocorreram os fatos objeto do
+PAD, pois se trata de ato praticado pelo Conselho Nacional do Ministério Público correlato a suas
+atividades finalísticas previstas constitucionalmente.
+
+Comentário:
+
+De acordo com a CF, art. 102, I, r, cabe ao STF julgar as ações movidas contra atos do CNJ e do
+CNMP. Confira: “Nos termos do artigo 102, I, “r”, da Constituição Federal (CF), é competência
+exclusiva do Supremo Tribunal Federal (STF) processar e julgar, originariamente, todas as ações
+ajuizadas contra decisões do Conselho Nacional de Justiça (CNJ) e do Conselho Nacional do
+Ministério Público (CNMP) proferidas no exercício de suas competências constitucionais,
+respectivamente, previstas nos artigos 103-B, § 4º, e 130-A, § 2º, da CF” – STF, Pleno, Rcl
+33549-AgR)
+
+Gabarito: A
+
+
+
+6.        (FGV/MPE/Analista/2018)
+
+Em processo disciplinar instaurado originariamente no âmbito do Conselho Nacional de Justiça,
+em que um Juiz de Direito, com três anos de carreira, teria praticado infração penal de singular
+gravidade contra a Administração Pública, o representante requereu que lhe fosse aplicada a
+sanção de demissão. Considerando a sistemática constitucional, a narrativa acima apresenta
+
+a)uma irregularidade, pois o Conselho Nacional de Justiça não pode adotar medidas disciplinares
+em face de magistrados, mas apenas em relação aos servidores.
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   58
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+b)regularidade, porque o Conselho Nacional de Justiça pode conhecer originariamente a
+representação e aplicar a sanção de demissão.
+
+c)duas irregularidades, pois o Conselho Nacional de Justiça não pode conhecer originariamente
+da representação, bem como aplicar a sanção de demissão.
+
+d)uma irregularidade, pois o Conselho Nacional de Justiça pode conhecer originariamente da
+representação, mas não aplicar a sanção de demissão.
+
+e) uma irregularidade, pois o Conselho Nacional de Justiça pode aplicar a sanção de demissão,
+mas não conhecer originariamente da representação.
+
+Comentário:
+
+O CNJ pode conhecer de reclamações contra magistrados, e inclusive aplicar penalidades (art.
+103-B, § 4º, III), exceto demissão de juiz vitalício, o que só pode ocorrer pela via jurisdicional (art.
+95, I). Assim, não há irregularidade no recebimento da reclamação contra o juiz, mas há uma
+irregularidade, que consiste na aplicação da pena de demissão de juiz vitalício na via
+administrativa.
+
+Gabarito: D
+
+
+
+7.        (FGV/MPE/Técnico/2018)
+
+João, cidadão brasileiro, encaminhou representação ao Conselho Nacional de Justiça, por
+entender que determinado Tribunal de Justiça realizara despesas públicas sem observar as
+normas do Direito Financeiro. Sobre a competência de o Conselho Nacional de Justiça apreciar a
+representação, à luz da sistemática constitucional assinale a afirmativa correta.
+
+a)Ele é incompetente, pois só pode apreciar atos estritamente administrativos.
+
+b)Ele é incompetente, pois a matéria é de competência do Tribunal de Contas.
+
+c)Ele é incompetente, pois somente possui competência disciplinar.
+
+d)Ele é competente, independente da atuação do Tribunal de Contas.
+
+e)Ele é competente, salvo se já julgada pelo Tribunal de Contas.
+
+Comentário:
+
+A competência fiscalizatória do CNJ é realizada sem prejuízo da atribuição do TCU, por expressa
+previsão constitucional (art. 103-B, § 4º, II). Isso ocorre, inclusive, porque o CNJ é um órgão de
+controle interno, ao passo que o TCU auxilia o Congresso Nacional no exercício da função de
+controle externo.
+
+Gabarito: D
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        59
+           www.estrategiaconcursos.com.br                                                            90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+8.        (FGV/MPE/Analista/2018)
+
+Tão logo foi noticiado o falecimento de um Ministro do Supremo Tribunal Federal, o Presidente
+da República recebeu comunicado, exarado por associação de classe, de que, escolhido o
+candidato pela Câmara dos Deputados e aprovado o nome pelo Senado Federal, ele seria
+nomeado pelo Presidente da República. À luz da sistemática constitucional, o referido
+procedimento está errado, porque
+
+a)a escolha e a nomeação competem ao Presidente da República, enquanto a aprovação cabe ao
+Senado Federal.
+
+b)a escolha e a aprovação competem ao Presidente da República, enquanto a nomeação cabe ao
+Senado Federal.
+
+c)a escolha compete ao Presidente da República, a aprovação à Câmara dos Deputados e a
+nomeação ao Senado Federal.                                 ==5460==
+
+
+
+
+d)a escolha e a aprovação competem ao Senado Federal, enquanto a nomeação cabe ao
+Presidente da República.
+
+e) a escolha compete ao Presidente da República, enquanto a aprovação e a nomeação cabem
+ao Senado Federal.
+
+Comentário:
+
+De acordo com o art. 101, parágrafo único: “Os Ministros do Supremo Tribunal Federal serão
+nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do
+Senado Federal.” Assim, a escolha é livremente realizada pelo Presidente da República (dentre
+brasileiros natos, maiores de 35 e menores de 70 anos, de reputação ilibada e notável saber
+jurídico), com aprovação do Senado Federal e posterior nomeação pelo Presidente da República.
+
+Gabarito: A
+
+
+
+Questão de concurso:
+
+9.        (FGV - MPE RJ - Analista do Ministério Público - Área Processual – 2019)
+
+O Presidente da República delegou ao Ministro de Estado da Pasta WW a competência para
+editar decreto visando à extinção de cargos públicos, quando vagos. À luz da sistemática
+constitucional e da competência atribuída ao Supremo Tribunal Federal (STF) e ao Superior
+Tribunal de Justiça (STJ) para o julgamento de mandados de segurança, é correto afirmar que a
+delegação foi:
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   60
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+A) irregular, considerando que a matéria era insuscetível de delegação, e os mandados de
+segurança impetrados contra os atos do Ministro são julgados pelo STJ;
+
+B) regular, considerando que a matéria era suscetível de delegação, e os mandados de segurança
+impetrados contra os atos do Ministro são julgados pelo STJ;
+
+C) irregular, considerando que a delegação não foi ratificada pelo Legislativo, e os mandados de
+segurança impetrados contra os atos do Ministro são julgados pelo STF;
+
+D) regular, considerando que a extinção de cargos vagos já é de competência dos Ministros, e os
+mandados de segurança impetrados contra os atos do Ministro são julgados pelo STF;
+
+E) irregular, considerando que os cargos vagos, criados por lei, devem ser extintos por lei, e os
+mandados de segurança impetrados contra os atos do Ministro são julgados pelo STJ.
+
+Comentário:
+
+A delegação de edição de decreto para extinguir cargo público é constitucional e pode ser feita
+para Ministros de Estado, conforme art. 84, VI, b, parágrafo único; e, nesse caso, o mandado de
+segurança é cabível contra a autoridade que praticou o ato – Súmula nº 510/STF: “Praticado o
+ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de
+segurança ou a medida judicial” – o que, em se tratando de Ministro de Estado, atrai a
+competência originária do STJ – CF, art. 105, I, b)
+
+Gabarito: A
+
+
+
+10.    (FGV - CGE-SC - Auditor - Área Direito - 2023)
+
+Joana, estudante de direito, solicitou que Ana, sua colega, lhe explicasse algumas características
+das competências recursais do Supremo Tribunal Federal.
+
+De acordo com Ana:
+
+os recursos de competência do Supremo Tribunal Federal são apenas os de fundamentação
+vinculada;
+
+nenhuma sentença proferida por órgão jurisdicional de primeira instância pode ser objeto de
+recurso a ser julgado diretamente pelo Supremo Tribunal Federal; e
+
+acórdãos proferidos pelos Tribunais Superiores não podem ser objeto de recurso direcionado ao
+Supremo Tribunal Federal.
+
+Clovis, professor de Direito Constitucional, ao ouvir as afirmações de Ana, concluiu corretamente
+que
+
+A) todas estão certas.
+
+B) todas estão erradas.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      61
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+C) apenas a informação 2 está errada.
+
+D) apenas as afirmações 2 e 3 estão erradas.
+
+E) apenas as afirmações 1 e 3 estão erradas.
+
+Comentário:
+
+Todas as afirmativas trazidas por Ana estão erradas.
+
+Quanto à primeira, está errada porque nem todos os recursos que chegam ao STF são de
+fundamentação vinculada (=têm que tratar de um tema específico). Esse é o caso do recurso
+extraordinário (RE), que trata apenas de matéria constitucional, mas o STF julga também alguns
+recursos ordinários, que são recursos de fundamentação livre, e não vinculada (CF, art. 102, II, a e
+b).
+
+Esse mesmo dispositivo mostra o erro também da afirmativa 2: da decisão dos juízes federais de
+primeira instância que julgam crimes políticos (art. 109, IV) cabe recurso ordinário direto para o
+STF (art. 102, II, b).
+
+Finalmente, está errada também a afirmativa 3: contra decisão de tribunais superiores pode
+caber recurso ordinário para o STF, se denegarem remédios constitucionais (art. 102, II, a), ou até
+recurso extraordinário, se tratarem de matéria constitucional prequestionada (art. 102, III).
+
+Gabarito: B
+
+
+
+11.    (FGV/Juiz do Trabalho – unificado/2023 – adaptada para item)
+
+compete à Justiça do Trabalho o julgamento das ações de interdito proibitório em que se busca
+garantir o livre acesso de funcionários e de clientes às agências bancárias interditadas em
+decorrência de movimento grevista de trabalhadores da iniciativa privada.
+
+Comentário:
+
+Veja o que dispõe a Súmula Vinculante nº 22: “A Justiça do Trabalho é competente para
+processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve
+pelos trabalhadores da iniciativa privada.” Assim, se compete à Justiça Comum julgar as ações
+possessórias em geral, quando se trata de ações possessórias decorrentes do exercício do direito
+de greve, a competência da justiça especializada (Justiça do Trabalho) se sobrepõe. Perceba,
+aliás, que o interdito proibitório é uma espécie de ação possessória, que serve para impedir que
+alguém invada a propriedade.
+
+Gabarito: Correto
+
+
+
+12.    (FGV/TJAP/Juiz/2022)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       62
+        www.estrategiaconcursos.com.br                                                           90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Joana, vereadora no Município Alfa, alugou imóvel de sua propriedade, situado no mesmo
+município, para o Estado estrangeiro XX, que ali instalou um serviço assistencial para pessoas
+carentes. Após alguns anos, momento em que o contrato de locação, nos termos da lei
+brasileira, se encontrava vigendo por prazo indeterminado, o Estado estrangeiro XX
+“comunicou” a Joana que ele, consoante a sua legislação, se tornara proprietário do imóvel,
+fazendo cessar o pagamento de aluguéis. Joana, sentindo-se esbulhada em sua propriedade,
+decidiu ajuizar ação em face do Estado estrangeiro XX. Consoante a ordem constitucional
+brasileira, a referida ação deve ser ajuizada perante:
+
+(A)   a primeira instância da Justiça comum federal, com recurso ordinário para o Superior
+Tribunal de Justiça;
+
+(B)   a primeira instância da Justiça comum estadual, com recurso ordinário para o Supremo
+Tribunal Federal;
+
+(C)   a primeira instância da Justiça comum estadual, com recurso de apelação para o Tribunal
+de Justiça;
+
+(D)    o Superior Tribunal de Justiça, com recurso ordinário para o Supremo Tribunal Federal;
+
+(E)    o Supremo Tribunal Federal.
+
+Comentário:
+
+Cabe aos juízes federais de primeira instância julgar as causas entre estado estrangeiro ou
+organismo internacional, de um lado, e particular, de outro (art. 109, II). Contra essa decisão cabe
+recurso ordinário para o STJ (art. 105, II, a), que é a situação descrita na alternativa “A”.
+
+Gabarito: A
+
+
+
+13.    (FGV - PC RN - Delegado de Polícia Substituto – 2021)
+
+A Organização Internacional XX, vinculada às Nações Unidas, ajuizou ação ordinária em face do
+Município Alfa. Para sua surpresa, o pedido foi julgado improcedente pelo juiz federal
+competente, em primeira instância, em uma sentença que se apresentava como manifestamente
+dissonante da Constituição da República Federativa do Brasil. Nesse caso, o recurso a ser
+interposto pela Organização Internacional XX, visando à reforma da sentença do juízo de
+primeira instância, que lhe foi desfavorável, será endereçado ao:
+
+A) Tribunal Regional Federal da respectiva região;
+
+B) Tribunal de Justiça do respectivo Estado;
+
+C) Superior Tribunal de Justiça;
+
+D) Supremo Tribunal Federal;
+
+E) Superior Tribunal Militar.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        63
+        www.estrategiaconcursos.com.br                                                            90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Comentário:
+
+Cabe aos juízes federais de primeira instância julgar as causas entre estado estrangeiro ou
+organismo internacional, de um lado, e particular ou Município, de outro (art. 109, II). Contra essa
+decisão cabe recurso ordinário para o STJ (art. 105, II, a), que é a situação descrita na alternativa
+“C”.
+
+Gabarito: C
+
+
+
+14.   (FGV - CGU - Auditor Federal de Finanças e Controle - Área: Auditoria e Fiscalização –
+2022)
+
+A organização internacional de cooperação XX celebrou contrato com o Município Alfa. À
+míngua de previsão de qualquer foro de eleição, a organização internacional procurou um
+advogado brasileiro e o consultou sobre a possibilidade de ajuizar uma ação, em face do
+Município Alfa, perante o órgão competente do Poder Judiciário brasileiro, em razão do
+descumprimento de cláusula contratual por parte desse ente. O advogado respondeu,
+corretamente, que eventual causa seria processada e julgada:
+
+A) por juiz federal, com recurso ordinário para o Superior Tribunal de Justiça;
+
+B) por juiz federal, com recurso ordinário para o Supremo Tribunal Federal;
+
+C) por juiz federal, com recurso de apelação para o respectivo Tribunal Regional Federal;
+
+D) pelo Superior Tribunal de Justiça, com recurso ordinário para o Supremo Tribunal Federal;
+
+E) pelo Supremo Tribunal Federal, somente sendo cabíveis recursos endereçados ao próprio
+Tribunal.
+
+Comentário:
+
+Cabe aos juízes federais de primeira instância julgar as causas entre estado estrangeiro ou
+organismo internacional, de um lado, e particular ou Município, de outro (art. 109, II). Contra essa
+decisão cabe recurso ordinário para o STJ (art. 105, II, a), que é a situação descrita na alternativa
+“B”.
+
+Gabarito: C
+
+
+
+15.    (Cespe/TRT5/Juiz do Trabalho/2013)
+
+De acordo com o STF, a justiça do trabalho é competente para julgar as causas oriundas da
+relação estabelecida entre o poder público e seus servidores, já que há, entre eles, relação de
+trabalho regida pelo regime jurídico-estatutário.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        64
+        www.estrategiaconcursos.com.br                                                            90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Comentário:
+
+“A interpretação adequadamente constitucional da expressão ‘relação do trabalho’ deve excluir
+os vínculos de natureza jurídico-estatutária, em razão do que a competência da Justiça do
+Trabalho não alcança as ações judiciais entre o Poder Público e seus servidores.” (STF, Pleno, ADI
+3.395, rel. min. Alexandre de Moraes, DJE de 1º-7-2020). Assim, a Justiça do Trabalho não julga
+as ações relativas a vínculos de natureza estatutária, entre os servidores e a Administração
+Pública, o que deve ser julgado pela Justiça Comum (Estadual ou Federal, conforme o caso).
+
+Gabarito: Errado
+
+
+
+16.    (Cespe/TRF3/Juiz Federal/2011)
+
+Aos juízes federais compete processar e julgar os crimes praticados por índios, tanto em caso de
+crimes comuns quanto de crimes que envolvam disputa sobre direitos indígenas.
+
+Comentário:
+
+“Não configurando os crimes praticados por índio, ou contra índio, "disputa sobre direitos
+indígenas" (art. 109, XI, da CF) nem, tampouco, "infrações penais praticadas em detrimento de
+bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas"
+(inciso IV ib.), é da competência da Justiça estadual o seu processamento e julgamento.” (STF, 1º
+Turma, HC 79.530, rel. min. Ilmar Galvão, DJ de 25-2-2000). Dessa maneira, percebe-se que o
+art. 109, XI, traz uma competência em razão da matéria (direito indígena), e não em razão da
+pessoa.
+
+Gabarito: Errado
+
+
+
+17.    (Cespe/TJDFT/Analista Judiciário – área judiciária/2013)
+
+Nos litígios comuns, as causas que digam respeito às autarquias federais, sejam estas autoras,
+rés, assistentes ou oponentes, são processadas e julgadas na justiça federal.
+
+Comentário:
+
+Trata-se da competência ratione personae prevista no inciso I do art. 109 da CF, segundo o qual
+compete à Justiça Federal processar e julgar as causas cíveis (“litígios comuns”, como se refere a
+afirmativa), sempre que envolverem autarquias federais.
+
+Gabarito: Correto
+
+
+
+18.    (Cespe/DPDF/Defensor Público/2013)
+
+O procurador-geral da República poderá, ouvido o Conselho Nacional do Ministério Público,
+suscitar, perante o STF, incidente de deslocamento de competência para a justiça federal quando
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      65
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+julgar que o processo envolve grave violação de direitos humanos e exige o cumprimento de
+obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja
+parte.
+
+Comentário:
+
+De acordo com o art. 109, § 5º, da CF, para suscitar o IDC, o PGR possui legitimidade exclusiva,
+não precisando ouvir o CNMP (que, aliás, não exerce atividade-fim do Ministério Público). Além
+disso, outro erro da afirmativa consiste no fato de que tal incidente é suscitado perante o STJ,
+não perante o STF.
+
+Gabarito: Errado
+
+
+
+19.    (Cespe/TJRJ/Juiz/2017)
+
+A competência do STF para processar e julgar demanda contra o CNJ restringe-se às ações
+tipicamente constitucionais.
+
+Comentário:
+
+O STF entendia que sua competência para julgar ações contra o CNJ abrangia apenas as ações
+constitucionais (remédios constitucionais); contudo, alterou essa orientação, passando a entender
+que lhe compete processar e julgar toda e qualquer ação contra o CNJ, nos termos do art. 102, I,
+r (“Competência exclusiva do Supremo Tribunal Federal para julgar ações ajuizadas contra atos
+do CNJ praticados no exercício de suas competências constitucionais”. STF, Pleno, ADI 4.412,
+rel. min. Gilmar Mendes, DJE de 15-3-2021).
+
+Gabarito: Errado
+
+
+
+20.    (Cespe/TRF1/Analista Judiciário - área judiciária/2017)
+
+Compete ao Supremo Tribunal Federal processar e julgar originariamente os governadores dos
+estados e do Distrito Federal nos casos de crimes comuns e os ministros de Estado nos casos de
+crimes de responsabilidade.
+
+Comentários:
+
+Os Governadores têm foro por crime comum no STJ (art. 105, I, a), e não no STF. Assim, está
+correta a afirmativa na parte em que estabelece ser o STF competente para julgar os Ministros de
+Estado por crimes comuns (art. 102, I, c), mas errada em relação aos governadores.
+
+Gabarito: Errado
+
+
+
+21.    (Cespe/TJDFT/Juiz/2016)
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     66
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Compete ao STF julgar ação popular contra autoridade cujas resoluções estejam sujeitas, em
+sede de mandado de segurança, à jurisdição imediata do STF.
+
+Comentário:
+
+“Tratando-se de ação popular, o STF – com as únicas ressalvas da incidência da alínea n do art.
+102, I, da Constituição ou de a lide substantivar conflito entre a União e Estado-membro – jamais
+admitiu a própria competência originária: ao contrário, a incompetência do Tribunal para
+processar e julgar a ação popular tem sido invariavelmente reafirmada, ainda quando se irrogue a
+responsabilidade pelo ato questionado a dignitário individual – a exemplo do presidente da
+República – ou a membro ou membros de órgão colegiado de qualquer dos Poderes do Estado
+cujos atos, na esfera cível – como sucede no mandado de segurança – ou na esfera penal – como
+ocorre na ação penal originária ou no habeas corpus – estejam sujeitos diretamente à sua
+jurisdição. Essa não é a hipótese dos integrantes do CNJ ou do CNMP: o que a Constituição,
+com a EC 45/2004, inseriu na competência originária do Supremo Tribunal foram as ações contra
+os respectivos colegiados, e não aquelas em que se questione a responsabilidade pessoal de um
+ou mais dos conselheiros, como seria de dar-se na ação popular.” (STF, Pleno, Pet 3.674 QO, rel.
+min. Sepúlveda Pertence, DJ de 19-12-2006).
+
+Gabarito: Errado
+
+
+
+22.    (Cespe/TCDF/Auditor/2021)
+
+Consoante dispositivo constitucional, compete ao STF o processamento de julgamento de
+descumprimento de tratado de extradição, por ser matéria que ofende a soberania externa.
+
+Comentário:
+
+Cabe ao STF julgar apenas o pedido de extradição solicitada por estado estrangeiro. Causas
+envolvendo descumprimento de tratados são julgadas, em regra, pelos juízes federais de 1ª
+instância (art. 109, III), se ajuizada a ação no Brasil, ou então em instâncias estrangeiras ou
+internacionais: “No campo da soberania, relativamente à extradição, é assente que o ato de
+entrega do extraditando é exclusivo, da competência indeclinável do presidente da República,
+conforme consagrado na Constituição, nas leis, nos tratados e na própria decisão do Egrégio STF
+na Ext 1.085. O descumprimento do tratado, em tese, gera uma lide entre Estados soberanos,
+cuja resolução não compete ao STF, que não exerce soberania internacional, máxime para impor
+a vontade da República italiana ao chefe de Estado brasileiro, cogitando-se de mediação da
+Corte Internacional de Haia, nos termos do art. 92 da Carta das Nações Unidas de 1945” (STF,
+Pleno, Rcl 11.243, rel. p/ o ac. min. Luiz Fux, j. 8/6/2011).
+
+Gabarito: Errado
+
+
+
+23.    (Cespe/TJPA/Analista Judiciário – área judiciária/2020)
+
+Caso tribunal de justiça estadual profira decisão em última instância denegando habeas corpus,
+caberá ao interessado interpor recurso
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     67
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+A) especial, a ser julgado pelo STJ.
+
+B) ordinário, a ser julgado pelo STF.
+
+C) ordinário, a ser julgado pelo STJ.
+
+D) extraordinário, a ser julgado pelo STJ.
+
+E) extraordinário, a ser julgado pelo STF.
+
+Comentário:
+
+De acordo com o que dispõe o art. 105, II, a, da CF, cabe recurso ordinário (para rejulgamento da
+causa, portanto) para o STJ da decisão de TJ ou TRF que denegue remédio constitucional (como
+é o caso do habeas corpus).
+
+Gabarito: C
+
+
+
+24.    (Cespe/TCE-RJ/Analista de Controle Externo/2021)
+
+Compete ao STJ julgar os membros dos tribunais de contas estaduais que tenham cometido
+crime de responsabilidade.
+
+Comentário:
+
+De acordo com o art. 105, I, a, da CF, os membros de Tribunais de Contas Estaduais têm foro no
+STJ, tanto para crimes comuns quanto para crimes de responsabilidade. Não confunda com os
+Ministros do TCU, que possuem foro no STF (art. 102, I, c).
+
+Gabarito: Correto
+
+
+
+25.    (Cespe/MPCE/Técnico/2020)
+
+Compete ao STF processar e julgar o presidente da República por infrações penais comuns.
+
+Comentário:
+
+De acordo com o art. 102, I, b, da CF, o Presidente da República possui foro especial no STF,
+quando acusado for pela prática de crimes comuns. Não confunda com o caso dos crimes de
+responsabilidade, em que o Presidente da República é julgado pelo Senado Federal (art. 52, I).
+
+Gabarito: Correto
+
+
+
+26.    (Cespe/TJDFT/Juiz/2016)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     68
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Os ministros de Estado, nos crimes de responsabilidade conexos com os do presidente da
+República, serão processados e julgados pelo STF.
+
+Comentário:
+
+Os Ministros de Estado são julgados no STF, seja pela prática de crimes comuns (art. 102, I, c),
+seja pela prática de crimes de responsabilidade, exceto, nesse último caso, se o crime de
+responsabilidade for conexo com o do Presidente da República, pois, em tais situações, o
+julgamento compete ao Senado Federal. É justamente dessa exceção que trata a questão (art.
+52, I).
+
+Gabarito: Errado
+
+
+
+27.    (Cespe/TCE-RJ/Analista/2021)
+
+Não há representantes da justiça eleitoral nem da justiça militar no plenário do Conselho
+Nacional de Justiça.
+
+Comentário:
+
+Da leitura do art. 103-B, I a XIII, percebe-se que o CNJ é composto por 15 membros, sendo 9
+oriundos do Judiciário e 6 de fora dele; nenhum deles, contudo, advém da Justiça Eleitoral (que
+não possui quadro próprio de juízes) nem da Justiça Militar.
+
+Gabarito: Correto
+
+
+
+28.    (Cespe/MPCE/Técnico/2020)
+
+O STF é o órgão responsável pelo controle da atuação administrativa e financeira de todo o
+Poder Judiciário, bem como do cumprimento funcional dos deveres dos juízes.
+
+Comentário:
+
+Tal competência de controle do Judiciário cabe ao CNJ (exceto em relação à fiscalização do STF),
+e não ao STF: art. 103-B, § 4º. Realmente, o CNJ foi criado pela EC 5/04 como um órgão de
+controle interno do Judiciário (ADI 3367/DF).
+
+Gabarito: Errado
+
+
+
+29.    (Cespe/TCE-RJ/Analista/2021)
+
+O Conselho Nacional de Justiça substitui o Tribunal de Contas da União no que tange à
+supervisão orçamentária dos atos dos tribunais federais.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    69
+        www.estrategiaconcursos.com.br                                                        90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+Comentário:
+
+A competência fiscalizatória do CNJ é realizada sem prejuízo da atribuição do TCU, por expressa
+previsão constitucional (art. 103-B, § 4º, II). Isso ocorre, inclusive, porque o CNJ é um órgão de
+controle interno, ao passo que o TCU auxilia o Congresso Nacional no exercício da função de
+controle externo.
+
+Gabarito: Errado
+
+
+
+30.    (Cespe/TJCE/Juiz/2018)
+
+Cabe ao CNJ zelar pela legalidade dos atos administrativos do Poder Judiciário, o que exclui a
+competência do TCU para fiscalizá-los.
+
+Comentário:
+
+A competência fiscalizatória do CNJ é realizada sem prejuízo da atribuição do TCU, por expressa
+previsão constitucional (art. 103-B, § 4º, II). Isso ocorre, inclusive, porque o CNJ é um órgão de
+controle interno, ao passo que o TCU auxilia o Congresso Nacional no exercício da função de
+controle externo.
+
+Gabarito: Errado
+
+
+
+31.    (Cespe/EMAP/Analista/2018)
+
+O Conselho Nacional de Justiça é órgão que exerce o controle da atuação administrativa,
+financeira e jurisdicional no âmbito de todo o Poder Judiciário.
+
+Comentário:
+
+A questão está duplamente errada, pois nem o CNJ exerce fiscalização da atividade jurisdicional
+(já que não é dotado de jurisdição, qualificando-se como um órgão de natureza exclusivamente
+administrativa), nem realiza controle sobre todo o Judiciário, pois sua competência não abrange
+o STF (ADI nº 3367/DF).
+
+Gabarito: Errado
+
+
+
+32.    (CESPE/CEBRASPE - DPE RO - Defensor Público Substituto – 2023)
+
+Conforme entendimento do Supremo Tribunal Federal, os defensores públicos estaduais
+
+A) não têm foro especial por prerrogativa de função, devido à simetria relativa à ausência de
+previsão na Constituição Federal de 1988 em favor dos defensores públicos federais.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      70
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+B) podem ter foro especial por prerrogativa de função, se houver previsão em lei complementar
+estadual.
+
+C) não têm foro especial por prerrogativa de função, devido à simetria relativa à expressa
+vedação na Constituição Federal de 1988 aos defensores públicos federais.
+
+D) têm foro especial por prerrogativa de função, devido à simetria relativa à expressa previsão na
+Constituição Federal de 1988 em favor dos defensores públicos federais.
+
+E) podem ter foro especial por prerrogativa de função, se houver previsão na Constituição
+estadual.
+
+Comentário:
+
+De acordo com o STF, a Constituição Estadual não pode atribuir foro por prerrogativa de função
+a autoridades que, na esfera federal, também não têm foro. Ou seja, a Constituição Estadual
+deve manter a simetria com o que dispõe a CF. Como os defensores públicos federais não têm
+foro estabelecido na CF, a Constituição estadual também não pode atribuir foro especial aos
+defensores públicos estaduais. Veja, por exemplo, este julgado: “Norma que estabelece foro
+especial por prerrogativa de função aos membros integrantes da Defensoria Pública do Estado
+do Espírito Santo. 4. Inconstitucionalidade. Violação dos arts. 25 da Constituição e 11 do Ato das
+Disposições Constitucionais Transitórias. 5. Na linha da jurisprudência consolidada do Supremo
+Tribunal Federal, é inconstitucional a norma de constituição estadual que estabeleça hipótese de
+foro especial por prerrogativa de função a agentes públicos não contemplados pela Constituição
+de forma expressa ou por simetria.” (STF, Pleno, ADI nº 5674/ES).
+
+Gabarito: A
+
+
+
+33.   (CESPE/CEBRASPE - TJ ES - Analista Judiciário - Área Judiciária - Oficial de Justiça
+Avaliador – 2023)
+
+Compete ao Conselho Nacional de Justiça, enquanto órgão administrativo, fazer o controle da
+atividade administrativa, financeira ou disciplinar de todos os órgãos e de todos os juízes do
+Poder Judiciário nacional.
+
+Comentário:
+
+Embora o CNJ possua mesmo poder correicional e disciplinar, isso não atinge todos os órgãos e
+membros do Judiciário brasileiro – estão excluídos do poder fiscalizatório desse Conselho o STF
+e seus Ministros, por interpretação sistemática do art. 102, I, r (conforme decidido na ADI nº
+3367/DF). Logo, a referência a “todos” torna a questão errada.
+
+Gabarito: errado
+
+
+
+34.    (CESPE/CEBRASPE - MPE AM - Promotor de Justiça Substituto – 2023)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      71
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+A Emenda Constitucional n.º 125/2022 alterou o regime jurídico do recurso especial para adotar
+o filtro de admissibilidade denominado de relevância da questão de direito federal, que,
+segundo o STJ, somente deverá ser exigido nos casos de decisões publicadas após a data de
+entrada em vigor de lei regulamentadora do novo instituto. Não obstante, pelo regime
+constitucional já estabelecido, existe presunção normativa de relevância da questão de direito
+federal infraconstitucional nas ações
+
+A) cujo valor da causa ultrapasse cem salários mínimos.
+
+B) em que for parte a fazenda pública.
+
+C) de improbidade administrativa.
+
+D) em que houver litígio coletivo pela posse de terra rural ou urbana.
+
+E) de família.
+
+Comentário:
+
+Veja o que dispõem os §§ 2º e 3º do art. 105 da CF:
+
+“§ 2º No recurso especial, o recorrente deve demonstrar a relevância das questões de direito
+federal infraconstitucional discutidas no caso, nos termos da lei, a fim de que a admissão do
+recurso seja examinada pelo Tribunal, o qual somente pode dele não conhecer com base nesse
+motivo pela manifestação de 2/3 (dois terços) dos membros do órgão competente para o
+julgamento. (Incluído pela Emenda Constitucional nº 125, de 2022)
+
+§ 3º Haverá a relevância de que trata o § 2º deste artigo nos seguintes casos:               (Incluído pela
+Emenda Constitucional nº 125, de 2022)
+
+I - ações penais; (Incluído pela Emenda Constitucional nº 125, de 2022)
+
+II - ações de improbidade administrativa; (Incluído pela Emenda Constitucional nº 125, de 2022)
+
+III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários mínimos;                (Incluído pela
+Emenda Constitucional nº 125, de 2022)
+
+IV - ações que possam gerar inelegibilidade;                (Incluído pela Emenda Constitucional nº 125, de
+2022)
+
+V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do Superior
+Tribunal de Justiça; (Incluído pela Emenda Constitucional nº 125, de 2022)
+
+VI - outras hipóteses previstas em lei.”
+
+Assim, dentre as alternativas apresentadas, a única que tem presunção de ter relevância para fins
+de REsp são as causas sobre improbidade administrativa (alternativa “C”).
+
+Gabarito: C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               72
+        www.estrategiaconcursos.com.br                                                                   90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+35.       (FCC/TST/Juiz do Trabalho – concurso unificado/2017)
+
+A Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em
+decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada.
+
+Comentário:
+
+Veja o que dispõe a Súmula Vinculante nº 22: “A Justiça do Trabalho é competente para
+processar e julgar ação possessória ajuizada em decorrência do exercício do direito de greve
+pelos trabalhadores da iniciativa privada.”. Assim, se compete à Justiça Comum julgar as ações
+possessórias em geral, quando se trata de ações possessórias decorrentes do exercício do direito
+de greve, a competência da justiça especializada (Justiça do Trabalho) se sobrepõe.
+
+Gabarito: Correto
+
+
+
+36.       (FCC/TRT11/ANALISTA JUDICIÁRIO - OFICIAL DE JUSTIÇA AVALIADOR FEDERAL/2017)
+
+Jamile consultou um advogado a fim de propor ação de indenização por dano moral decorrente
+da relação de trabalho em face de sua empregadora "Amanda e Armando Ltda.". Admitindo-se
+que o ato danoso constitua crime contra a organização do trabalho, devendo ser objeto de ação
+penal, é correto afirmar que para processar e julgar as referidas ações a competência é da
+
+a)              Justiça do Trabalho para a ação indenizatória e da Justiça Federal para a ação penal.
+
+b)              Justiça do Trabalho para a ação indenizatória e para a ação penal.
+
+c)              Justiça Federal para a ação indenizatória e para a ação penal.
+
+d)              Justiça Federal para a ação indenizatória e da Justiça do Trabalho para a ação penal.
+
+e)               Justiça Estadual para a ação indenizatória e para a ação penal.
+
+Comentário:
+
+Cabe à Justiça do Trabalho julgar ação de indenização por danos decorrentes da relação de
+trabalho (CF, art. 114, VI), não possuindo, porém, qualquer competência criminal (“Interpretação
+conforme ao disposto no art. 114, I, IV e IX, da Constituição da República, de modo a afastar a
+competência da Justiça do Trabalho para processar e julgar ações penais. STF, Pleno, ADI 3.684,
+rel. min. Gilmar Mendes, DJE de 1º-6-2020) – que, em se tratando de crime contra a organização
+do trabalho, atrai a competência da Justiça Federal Comum (art. 109, VI).
+
+Gabarito: A
+
+
+
+37.       (FCC/AL-SE/Técnico/2018)
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       73
+           www.estrategiaconcursos.com.br                                                           90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+Além de ser o guardião da Constituição da República, cabe ao Supremo Tribunal Federal a
+homologação de sentenças estrangeiras e a concessão de exequatur (executa-se) às cartas
+rogatórias.
+
+Comentário:
+
+Após a EC 45/04, tais competências deixaram de pertencer ao STF e passaram a ser do STJ (art.
+105, I, i). Veja-se, por exemplo, o que aconteceu no chamado “Caso Robinho”, em que a decisão
+de autorizar a execução no Brasil da pena a que o ex-jogador foi condenado na Itália foi
+proferida pelo STJ.
+
+Gabarito: Errado
+
+
+
+38.       (FCC/TRT24/TÉCNICO/2017)
+
+Compete ao Supremo Tribunal Federal julgar, em recurso ordinário,
+
+a)              o habeas corpus decidido em última instância pelos Tribunais Regionais Federais.
+
+b)              o habeas corpus decidido em única instância pelos Tribunais Regionais Federais.
+
+c)              o crime político.
+
+d)          as causas em que forem partes Estado estrangeiro ou organismo internacional, de um
+lado, e, do outro, Município.
+
+e)           as causas decididas, em única instância, pelos Tribunais dos Estados e do Distrito
+Federal quando a decisão recorrida contrariar tratado ou lei federal.
+
+Comentário:
+
+O fundamento para a resposta é encontrado no art. 102, II, b, da CF, segundo o qual cabe
+recurso ordinário ao STF das decisões de juízes federais de primeira instância que julgarem o
+crime político. Em relação às letras a, b e d, todas são de competência recursal ordinária do STJ
+(art. 105, II, a e c). Já a letra e é de competência recursal especial do STJ (art. 105, III, a).
+
+Gabarito: C
+
+
+
+39.       (FCc)TRE-PR.Analista Judiciário - Área Judiciária.2017)
+
+Os litígios entre organismos internacionais, de um lado, e Estados membros da Federação
+brasileira, de outro, são de competência
+
+a)          originária do Superior Tribunal de Justiça e, mediante recurso ordinário, do Supremo
+Tribunal Federal
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      74
+           www.estrategiaconcursos.com.br                                                          90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+b)             do Superior Tribunal de Justiça, mediante recurso ordinário, e do Supremo Tribunal
+Federal, nas hipóteses de cabimento de recurso extraordinário
+
+c)           do Superior Tribunal de Justiça, nas hipóteses de cabimento de recurso especial, e
+do Supremo Tribunal Federal, nas hipóteses de cabimento de recurso extraordinário
+
+d)                ordinária da Justiça Federal
+
+e)               originária do Supremo Tribunal Federal
+
+Comentário:
+
+De acordo com o art. 102, I, e, da CF, cabe originariamente ao STF julgar os conflitos entre
+Estado Estrangeiro ou Organismo Internacional, de um lado, e União, Estado, DF ou Território,
+de outro.
+
+Gabarito: E
+
+
+
+40.       (FCC/DPE-RS/Defensor/2018)
+
+A competência originária do Supremo Tribunal Federal está definida em rol exaustivo da
+Constituição Federal, não sendo admitido o processo e julgamento pela Suprema Corte de ação
+popular mesmo que instaurada contra autoridades que, em sede de mandado de segurança,
+estão sujeitas à jurisdição imediata do Tribunal, a exemplo do Presidente da República.
+
+Comentário:
+
+Não cabe ao STF julgar ação popular contra quem quer que seja, por absoluta falta de previsão
+constitucional: “a CF de 1988 – observando uma tradição que se inaugurou com a Carta Política
+de 1934 – não incluiu o julgamento da ação popular na esfera das atribuições jurisdicionais
+originárias da Suprema Corte. Na realidade, a previsão de ação popular não se subsume a
+qualquer das situações taxativamente enunciadas no rol inscrito no art. 102, I, da Carta Política,
+que define, em numerus clausus, as hipóteses de competência originária do STF (...).” (STF, HC
+100.231 MC, rel. min. Celso de Mello, dec. monocrática, DJE de 4-9-2009).
+
+Gabarito: Correto
+
+
+
+41.       (FCC/TRT14/Oficial de Justiça/2016)
+
+Processar e julgar, originariamente, nos crimes comuns, os Desembargadores dos Tribunais
+Regionais Federais, dos Tribunais Regionais do Trabalho e os Governadores dos Estados e do
+Distrito Federal é competência do
+
+a)                Superior Tribunal de Justiça, Supremo Tribunal Federal e Superior Tribunal de
+Justiça, respectivamente
+
+b)               Supremo Tribunal Federal
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   75
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+c)               Superior Tribunal de Justiça, Tribunal Superior do Trabalho e Supremo Tribunal
+Federal, respectivamente
+
+d)               Superior Tribunal de Justiça
+
+e)           Supremo Tribunal Federal, Superior Tribunal de Justiça e Supremo Tribunal Federal,
+respectivamente
+
+Comentário:
+
+À luz do que dispõe o art. 105, I, a, da CF, todos os desembargadores (membros de tribunais de
+segunda instância) são julgados pelo STJ, assim como ocorre também com os governadores.
+Dessa maneira, todas as autoridades citadas na questão possuem foro no STJ.
+
+Gabarito: D
+
+
+
+42.       (FCC/AL-SE/Técnico/2018)
+
+O Supremo Tribunal Federal, o Conselho Nacional de Justiça e os Tribunais Superiores têm sede
+na Capital Federal e exercem função jurisdicional em todo o território nacional.
+
+Comentário:
+
+O CNJ não exerce função jurisdicional (art. 92, §§ 1º e 2º). Assim, embora tenha atuação em
+relação a todo o território nacional, não se pode falar em “jurisdição”, pois se trata de um órgão
+de caráter exclusivamente administrativo.
+
+Gabarito: Errado
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   76
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+
+                                            LISTA DE QUESTÕES
+1.        (FGV/OAB/2019)
+
+Os analistas de infraestrutura de determinado Ministério, ocupantes de cargo efetivo, pleiteiam
+há algum tempo uma completa reestruturação da carreira, com o aumento de cargos e de
+remunerações. Recentemente, a negociação com o Governo Federal esfriou dado o cenário de
+crise fiscal severa. Para forçar a retomada das negociações, a categoria profissional decidiu
+entrar em greve, mantendo em funcionamento apenas os serviços essenciais. Com base na
+hipótese apresentada, assinale a afirmativa correta.
+
+a)Compete à Justiça Federal – e não à Justiça do Trabalho – julgar a abusividade do direito de
+greve dos analistas de infraestrutura.
+
+b)A Administração Pública não poderá, em nenhuma hipótese, fazer o desconto dos dias não
+trabalhados em decorrência do exercício do direito de greve pelos servidores públicos civis.
+
+c)O direito de greve dos servidores públicos civis não está regulamentado em lei, o que impede
+o exercício de tal direito.
+
+d)O direito de greve é constitucionalmente assegurado a todas as categorias profissionais,
+incluindo os militares das Forças Armadas, os policiais militares e os bombeiros militares.
+
+
+
+2.        (FGV/MPE/Analista/2018)
+
+Em ação ajuizada pelo Ministério Público, o Tribunal de Justiça, ao apreciar o recurso de
+apelação, julgou improcedente o pedido formulado. Após o exaurimento de todos os recursos
+nas instâncias ordinárias, a Instituição constatou que o acórdão violara frontalmente a
+Constituição da República de 1988. À luz da sistemática constitucional e, uma vez preenchidos
+os demais requisitos exigidos, o referido acórdão pode ser impugnado via
+
+a)recurso extraordinário, endereçado ao Supremo Tribunal Federal.
+
+b)recurso extraordinário, endereçado ao Superior Tribunal de Justiça.
+
+c)recurso especial, endereçado ao Supremo Tribunal Federal.
+
+d)recurso extraordinário, endereçado ao Superior Tribunal de Justiça.
+
+e)reclamação constitucional, endereçada ao Supremo Tribunal Federal.
+
+
+
+3.        (FGV/MPE/Analista/2018)
+
+O Ministério Público impetrou mandado de segurança, contra ato de Desembargador, perante o
+Tribunal de Justiça do Estado. O pedido formulado foi indeferido com base em um argumento
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   77
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+considerado, pela Instituição, nitidamente contrário à ordem constitucional. À luz desses fatos, o
+Ministério Público decidiu manejar o recurso cabível para que a causa seja analisada pelo
+Tribunal Superior competente. Sobre a sistemática constitucional e a divisão de competências
+dos Tribunais Superiores, assinale a afirmativa correta.
+
+a)Deve ser interposta reclamação constitucional endereçada ao Supremo Tribunal Federal.
+
+b)Deve ser interposto recurso extraordinário endereçado ao Supremo Tribunal Federal.
+
+c)Deve ser interposto recurso ordinário endereçado ao Superior Tribunal de Justiça.
+
+d)Deve ser interposto recurso especial endereçado ao Superior Tribunal de Justiça.
+
+e)Deve ser interposto recurso ordinário endereçado ao Supremo Tribunal Federal.
+
+
+
+4.    (FGV - CGU - Auditor Federal de Finanças e Controle - Área: Auditoria e Fiscalização –
+2022)
+
+Após ampla investigação da Procuradoria-Geral da República, concluiu-se que o governador do
+Estado Alfa praticara infração penal, consistente no desvio de recursos oriundos da União, em
+razão da celebração de convênio, cuja persecução penal deveria ser iniciada mediante ação
+penal pública incondicionada. Nesse caso, o foro competente para o processo e julgamento
+dessa autoridade é o:
+
+a) Superior Tribunal de Justiça, que deve solicitar autorização à respectiva Assembleia Legislativa,
+ainda que a Constituição Estadual não o exija, por se tratar de norma de reprodução obrigatória,
+sendo o governador automaticamente afastado caso a denúncia seja recebida;
+
+b) Superior Tribunal de Justiça, que não depende de autorização da Assembleia Legislativa, pois
+a Constituição Estadual não pode exigi-lo, e, com o recebimento da denúncia, o afastamento do
+chefe do Poder Executivo não é automático;
+
+c) Superior Tribunal de Justiça, que deve solicitar autorização à respectiva Assembleia Legislativa,
+caso a Constituição Estadual o exija, sendo que o governador somente será afastado se a
+denúncia for recebida e o Tribunal assim deliberar;
+
+d) Tribunal Regional Federal, que não depende de autorização da Assembleia Legislativa, pois a
+Constituição Estadual não pode exigi-lo, e, com o recebimento da denúncia, o afastamento do
+chefe do Poder Executivo não é automático;
+
+e) Supremo Tribunal Federal, que deve solicitar autorização à respectiva Assembleia Legislativa,
+caso a Constituição Estadual o exija, sendo o governador automaticamente afastado caso a
+denúncia seja recebida.
+
+
+
+5.        (FGV - MPE GO - Promotor de Justiça Substituto – 2022)
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     78
+           www.estrategiaconcursos.com.br                                                         90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+Ao promotor de justiça André lotado em Promotoria da Infância e Juventude da capital do
+Estado Beta, após processo administrativo disciplinar (PAD) que tramitou perante o Conselho
+Nacional do Ministério Público (CNMP), foi aplicada sanção disciplinar em razão de ter incorrido
+em faltas injustificadas no órgão de execução de que é titular, prejudicando o andamento de
+procedimentos que por lá tramitam. Inconformado com a punição, o promotor de justiça André
+ajuizou ação ordinária em face da União e do Estado Beta, perante uma Vara Federal da capital
+do Estado Beta, pretendendo a declaração de nulidade da sanção disciplinar aplicada pelo
+CNMP, por ofensa ao contraditório e à ampla defesa durante o PAD. Consoante atual
+jurisprudência do Supremo Tribunal Federal sobre o tema, a competência para processar e julgar
+a ação manejada pelo promotor é do(a):
+
+A) Supremo Tribunal Federal, pois se trata de ato praticado pelo Conselho Nacional do Ministério
+Público correlato a suas atividades finalísticas previstas constitucionalmente;
+
+B) Superior Tribunal de Justiça, pois se trata de ato praticado pelo Conselho Nacional do
+Ministério Público correlato a suas atividades administrativas previstas constitucionalmente;
+
+C) Vara da Fazenda Pública da capital da Justiça Estadual do Estado Beta, pois se trata de ato
+praticado pelo Conselho Nacional do Ministério Público correlato a suas atividades
+administrativas previstas constitucionalmente;
+
+D) Vara da Fazenda Pública do Distrito Federal, local onde está sediado o CNMP, pois se trata de
+ato praticado pelo Conselho Nacional do Ministério Público correlato a suas atividades
+administrativas previstas constitucionalmente;
+
+E) Vara Federal da capital do Estado Beta, em razão do local onde ocorreram os fatos objeto do
+PAD, pois se trata de ato praticado pelo Conselho Nacional do Ministério Público correlato a suas
+atividades finalísticas previstas constitucionalmente.
+
+
+
+6.        (FGV/MPE/Analista/2018)
+
+Em processo disciplinar instaurado originariamente no âmbito do Conselho Nacional de Justiça,
+em que um Juiz de Direito, com três anos de carreira, teria praticado infração penal de singular
+gravidade contra a Administração Pública, o representante requereu que lhe fosse aplicada a
+sanção de demissão. Considerando a sistemática constitucional, a narrativa acima apresenta
+
+a)uma irregularidade, pois o Conselho Nacional de Justiça não pode adotar medidas disciplinares
+em face de magistrados, mas apenas em relação aos servidores.
+
+b)regularidade, porque o Conselho Nacional de Justiça pode conhecer originariamente a
+representação e aplicar a sanção de demissão.
+
+c)duas irregularidades, pois o Conselho Nacional de Justiça não pode conhecer originariamente
+da representação, bem como aplicar a sanção de demissão.
+
+d)uma irregularidade, pois o Conselho Nacional de Justiça pode conhecer originariamente da
+representação, mas não aplicar a sanção de demissão.
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   79
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+e) uma irregularidade, pois o Conselho Nacional de Justiça pode aplicar a sanção de demissão,
+mas não conhecer originariamente da representação.
+
+
+
+7.        (FGV/MPE/Técnico/2018)
+
+João, cidadão brasileiro, encaminhou representação ao Conselho Nacional de Justiça, por
+entender que determinado Tribunal de Justiça realizara despesas públicas sem observar as
+normas do Direito Financeiro. Sobre a competência de o Conselho Nacional de Justiça apreciar a
+representação, à luz da sistemática constitucional assinale a afirmativa correta.
+
+a)Ele é incompetente, pois só pode apreciar atos estritamente administrativos.
+
+b)Ele é incompetente, pois a matéria é de competência do Tribunal de Contas.
+
+c)Ele é incompetente, pois somente possui competência disciplinar.
+
+d)Ele é competente, independente da atuação do Tribunal de Contas.
+
+e)Ele é competente, salvo se já julgada pelo Tribunal de Contas.
+
+
+
+8.        (FGV/MPE/Analista/2018)
+
+Tão logo foi noticiado o falecimento de um Ministro do Supremo Tribunal Federal, o Presidente
+da República recebeu comunicado, exarado por associação de classe, de que, escolhido o
+candidato pela Câmara dos Deputados e aprovado o nome pelo Senado Federal, ele seria
+nomeado pelo Presidente da República. À luz da sistemática constitucional, o referido
+procedimento está errado, porque
+
+a)a escolha e a nomeação competem ao Presidente da República, enquanto a aprovação cabe ao
+Senado Federal.
+
+b)a escolha e a aprovação competem ao Presidente da República, enquanto a nomeação cabe ao
+Senado Federal.
+
+c)a escolha compete ao Presidente da República, a aprovação à Câmara dos Deputados e a
+nomeação ao Senado Federal.
+
+d)a escolha e a aprovação competem ao Senado Federal, enquanto a nomeação cabe ao
+Presidente da República.
+
+e) a escolha compete ao Presidente da República, enquanto a aprovação e a nomeação cabem
+ao Senado Federal.
+
+
+
+Questão de concurso:
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   80
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+9.        (FGV - MPE RJ - Analista do Ministério Público - Área Processual – 2019)
+
+O Presidente da República delegou ao Ministro de Estado da Pasta WW a competência para
+editar decreto visando à extinção de cargos públicos, quando vagos. À luz da sistemática
+constitucional e da competência atribuída ao Supremo Tribunal Federal (STF) e ao Superior
+Tribunal de Justiça (STJ) para o julgamento de mandados de segurança, é correto afirmar que a
+delegação foi:
+
+A) irregular, considerando que a matéria era insuscetível de delegação, e os mandados de
+segurança impetrados contra os atos do Ministro são julgados pelo STJ;
+
+B) regular, considerando que a matéria era suscetível de delegação, e os mandados de segurança
+impetrados contra os atos do Ministro são julgados pelo STJ;
+
+C) irregular, considerando que a delegação não foi ratificada pelo Legislativo, e os mandados de
+segurança impetrados contra os atos do Ministro são julgados pelo STF;
+
+D) regular, considerando que a extinção de cargos vagos já é de competência dos Ministros, e os
+mandados de segurança impetrados contra os atos do Ministro são julgados pelo STF;
+
+E) irregular, considerando que os cargos vagos, criados por lei, devem ser extintos por lei, e os
+mandados de segurança impetrados contra os atos do Ministro são julgados pelo STJ.
+
+
+
+10.       (FGV - CGE-SC - Auditor - Área Direito - 2023)
+
+Joana, estudante de direito, solicitou que Ana, sua colega, lhe explicasse algumas características
+das competências recursais do Supremo Tribunal Federal.
+
+De acordo com Ana:
+
+os recursos de competência do Supremo Tribunal Federal são apenas os de fundamentação
+vinculada;
+
+nenhuma sentença proferida por órgão jurisdicional de primeira instância pode ser objeto de
+recurso a ser julgado diretamente pelo Supremo Tribunal Federal; e
+
+acórdãos proferidos pelos Tribunais Superiores não podem ser objeto de recurso direcionado ao
+Supremo Tribunal Federal.
+
+Clovis, professor de Direito Constitucional, ao ouvir as afirmações de Ana, concluiu corretamente
+que
+
+A) todas estão certas.
+
+B) todas estão erradas.
+
+C) apenas a informação 2 está errada.
+
+D) apenas as afirmações 2 e 3 estão erradas.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   81
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+E) apenas as afirmações 1 e 3 estão erradas.
+
+
+
+11.    (FGV/Juiz do Trabalho – unificado/2023 – adaptada para item)
+
+compete à Justiça do Trabalho o julgamento das ações de interdito proibitório em que se busca
+garantir o livre acesso de funcionários e de clientes às agências bancárias interditadas em
+decorrência de movimento grevista de trabalhadores da iniciativa privada.
+
+
+
+12.    (FGV/TJAP/Juiz/2022)
+
+Joana, vereadora no Município Alfa, alugou imóvel de sua propriedade, situado no mesmo
+município, para o Estado estrangeiro XX, que ali instalou um serviço assistencial para pessoas
+carentes. Após alguns anos, momento em que o contrato de locação, nos termos da lei
+brasileira, se encontrava vigendo por prazo indeterminado, o Estado estrangeiro XX
+“comunicou” a Joana que ele, consoante a sua legislação, se tornara proprietário do imóvel,
+fazendo cessar o pagamento de aluguéis. Joana, sentindo-se esbulhada em sua propriedade,
+decidiu ajuizar ação em face do Estado estrangeiro XX. Consoante a ordem constitucional
+brasileira, a referida ação deve ser ajuizada perante:
+
+(A)   a primeira instância da Justiça comum federal, com recurso ordinário para o Superior
+Tribunal de Justiça;
+
+(B)   a primeira instância da Justiça comum estadual, com recurso ordinário para o Supremo
+Tribunal Federal;
+
+(C)   a primeira instância da Justiça comum estadual, com recurso de apelação para o Tribunal
+de Justiça;
+
+(D)    o Superior Tribunal de Justiça, com recurso ordinário para o Supremo Tribunal Federal;
+
+(E)    o Supremo Tribunal Federal.
+
+
+
+13.    (FGV - PC RN - Delegado de Polícia Substituto – 2021)
+
+A Organização Internacional XX, vinculada às Nações Unidas, ajuizou ação ordinária em face do
+Município Alfa. Para sua surpresa, o pedido foi julgado improcedente pelo juiz federal
+competente, em primeira instância, em uma sentença que se apresentava como manifestamente
+dissonante da Constituição da República Federativa do Brasil. Nesse caso, o recurso a ser
+interposto pela Organização Internacional XX, visando à reforma da sentença do juízo de
+primeira instância, que lhe foi desfavorável, será endereçado ao:
+
+A) Tribunal Regional Federal da respectiva região;
+
+B) Tribunal de Justiça do respectivo Estado;
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      82
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+C) Superior Tribunal de Justiça;
+
+D) Supremo Tribunal Federal;
+
+E) Superior Tribunal Militar.
+
+
+
+14.   (FGV - CGU - Auditor Federal de Finanças e Controle - Área: Auditoria e Fiscalização –
+2022)
+
+A organização internacional de cooperação XX celebrou contrato com o Município Alfa. À
+míngua de previsão de qualquer foro de eleição, a organização internacional procurou um
+advogado brasileiro e o consultou sobre a possibilidade de ajuizar uma ação, em face do
+Município Alfa, perante o órgão competente do Poder Judiciário brasileiro, em razão do
+descumprimento de cláusula contratual por parte desse ente. O advogado respondeu,
+corretamente, que eventual causa seria processada e julgada:
+
+A) por juiz federal, com recurso ordinário para o Superior Tribunal de Justiça;
+
+B) por juiz federal, com recurso ordinário para o Supremo Tribunal Federal;
+
+C) por juiz federal, com recurso de apelação para o respectivo Tribunal Regional Federal;
+
+D) pelo Superior Tribunal de Justiça, com recurso ordinário para o Supremo Tribunal Federal;
+
+E) pelo Supremo Tribunal Federal, somente sendo cabíveis recursos endereçados ao próprio
+Tribunal.
+
+
+
+15.    (Cespe/TRT5/Juiz do Trabalho/2013)
+
+De acordo com o STF, a justiça do trabalho é competente para julgar as causas oriundas da
+relação estabelecida entre o poder público e seus servidores, já que há, entre eles, relação de
+trabalho regida pelo regime jurídico-estatutário.
+
+
+
+16.    (Cespe/TRF3/Juiz Federal/2011)
+
+Aos juízes federais compete processar e julgar os crimes praticados por índios, tanto em caso de
+crimes comuns quanto de crimes que envolvam disputa sobre direitos indígenas.
+
+
+
+17.    (Cespe/TJDFT/Analista Judiciário – área judiciária/2013)
+
+Nos litígios comuns, as causas que digam respeito às autarquias federais, sejam estas autoras,
+rés, assistentes ou oponentes, são processadas e julgadas na justiça federal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     83
+        www.estrategiaconcursos.com.br                                                         90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+18.    (Cespe/DPDF/Defensor Público/2013)
+
+O procurador-geral da República poderá, ouvido o Conselho Nacional do Ministério Público,
+suscitar, perante o STF, incidente de deslocamento de competência para a justiça federal quando
+julgar que o processo envolve grave violação de direitos humanos e exige o cumprimento de
+obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja
+parte.
+
+
+
+19.    (Cespe/TJRJ/Juiz/2017)
+
+A competência do STF para processar e julgar demanda contra o CNJ restringe-se às ações
+tipicamente constitucionais.
+                                                         ==5460==
+
+
+
+
+20.    (Cespe/TRF1/Analista Judiciário - área judiciária/2017)
+
+Compete ao Supremo Tribunal Federal processar e julgar originariamente os governadores dos
+estados e do Distrito Federal nos casos de crimes comuns e os ministros de Estado nos casos de
+crimes de responsabilidade.
+
+
+
+21.    (Cespe/TJDFT/Juiz/2016)
+
+Compete ao STF julgar ação popular contra autoridade cujas resoluções estejam sujeitas, em
+sede de mandado de segurança, à jurisdição imediata do STF.
+
+
+
+22.    (Cespe/TCDF/Auditor/2021)
+
+Consoante dispositivo constitucional, compete ao STF o processamento de julgamento de
+descumprimento de tratado de extradição, por ser matéria que ofende a soberania externa.
+
+
+
+23.    (Cespe/TJPA/Analista Judiciário – área judiciária/2020)
+
+Caso tribunal de justiça estadual profira decisão em última instância denegando habeas corpus,
+caberá ao interessado interpor recurso
+
+A) especial, a ser julgado pelo STJ.
+
+B) ordinário, a ser julgado pelo STF.
+
+C) ordinário, a ser julgado pelo STJ.
+
+D) extraordinário, a ser julgado pelo STJ.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   84
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+E) extraordinário, a ser julgado pelo STF.
+
+
+
+24.    (Cespe/TCE-RJ/Analista de Controle Externo/2021)
+
+Compete ao STJ julgar os membros dos tribunais de contas estaduais que tenham cometido
+crime de responsabilidade.
+
+
+
+25.    (Cespe/MPCE/Técnico/2020)
+
+Compete ao STF processar e julgar o presidente da República por infrações penais comuns.
+
+
+
+26.    (Cespe/TJDFT/Juiz/2016)
+
+Os ministros de Estado, nos crimes de responsabilidade conexos com os do presidente da
+República, serão processados e julgados pelo STF.
+
+
+
+27.    (Cespe/TCE-RJ/Analista/2021)
+
+Não há representantes da justiça eleitoral nem da justiça militar no plenário do Conselho
+Nacional de Justiça.
+
+
+
+28.    (Cespe/MPCE/Técnico/2020)
+
+O STF é o órgão responsável pelo controle da atuação administrativa e financeira de todo o
+Poder Judiciário, bem como do cumprimento funcional dos deveres dos juízes.
+
+
+
+29.    (Cespe/TCE-RJ/Analista/2021)
+
+O Conselho Nacional de Justiça substitui o Tribunal de Contas da União no que tange à
+supervisão orçamentária dos atos dos tribunais federais.
+
+
+
+30.    (Cespe/TJCE/Juiz/2018)
+
+Cabe ao CNJ zelar pela legalidade dos atos administrativos do Poder Judiciário, o que exclui a
+competência do TCU para fiscalizá-los.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   85
+        www.estrategiaconcursos.com.br                                                       90
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+31.    (Cespe/EMAP/Analista/2018)
+
+O Conselho Nacional de Justiça é órgão que exerce o controle da atuação administrativa,
+financeira e jurisdicional no âmbito de todo o Poder Judiciário.
+
+
+
+32.    (CESPE/CEBRASPE - DPE RO - Defensor Público Substituto – 2023)
+
+Conforme entendimento do Supremo Tribunal Federal, os defensores públicos estaduais
+
+A) não têm foro especial por prerrogativa de função, devido à simetria relativa à ausência de
+previsão na Constituição Federal de 1988 em favor dos defensores públicos federais.
+
+B) podem ter foro especial por prerrogativa de função, se houver previsão em lei complementar
+estadual.
+
+C) não têm foro especial por prerrogativa de função, devido à simetria relativa à expressa
+vedação na Constituição Federal de 1988 aos defensores públicos federais.
+
+D) têm foro especial por prerrogativa de função, devido à simetria relativa à expressa previsão na
+Constituição Federal de 1988 em favor dos defensores públicos federais.
+
+E) podem ter foro especial por prerrogativa de função, se houver previsão na Constituição
+estadual.
+
+
+
+33.   (CESPE/CEBRASPE - TJ ES - Analista Judiciário - Área Judiciária - Oficial de Justiça
+Avaliador – 2023)
+
+Compete ao Conselho Nacional de Justiça, enquanto órgão administrativo, fazer o controle da
+atividade administrativa, financeira ou disciplinar de todos os órgãos e de todos os juízes do
+Poder Judiciário nacional.
+
+
+
+34.    (CESPE/CEBRASPE - MPE AM - Promotor de Justiça Substituto – 2023)
+
+A Emenda Constitucional n.º 125/2022 alterou o regime jurídico do recurso especial para adotar
+o filtro de admissibilidade denominado de relevância da questão de direito federal, que,
+segundo o STJ, somente deverá ser exigido nos casos de decisões publicadas após a data de
+entrada em vigor de lei regulamentadora do novo instituto. Não obstante, pelo regime
+constitucional já estabelecido, existe presunção normativa de relevância da questão de direito
+federal infraconstitucional nas ações
+
+A) cujo valor da causa ultrapasse cem salários mínimos.
+
+B) em que for parte a fazenda pública.
+
+C) de improbidade administrativa.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      86
+        www.estrategiaconcursos.com.br                                                          90
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+D) em que houver litígio coletivo pela posse de terra rural ou urbana.
+
+E) de família.
+
+
+
+35.       (FCC/TST/Juiz do Trabalho – concurso unificado/2017)
+
+A Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em
+decorrência do exercício do direito de greve pelos trabalhadores da iniciativa privada.
+
+
+
+36.       (FCC/TRT11/ANALISTA JUDICIÁRIO - OFICIAL DE JUSTIÇA AVALIADOR FEDERAL/2017)
+
+Jamile consultou um advogado a fim de propor ação de indenização por dano moral decorrente
+da relação de trabalho em face de sua empregadora "Amanda e Armando Ltda.". Admitindo-se
+que o ato danoso constitua crime contra a organização do trabalho, devendo ser objeto de ação
+penal, é correto afirmar que para processar e julgar as referidas ações a competência é da
+
+a)              Justiça do Trabalho para a ação indenizatória e da Justiça Federal para a ação penal.
+
+b)              Justiça do Trabalho para a ação indenizatória e para a ação penal.
+
+c)              Justiça Federal para a ação indenizatória e para a ação penal.
+
+d)              Justiça Federal para a ação indenizatória e da Justiça do Trabalho para a ação penal.
+
+e)               Justiça Estadual para a ação indenizatória e para a ação penal.
+
+
+
+37.       (FCC/AL-SE/Técnico/2018)
+
+Além de ser o guardião da Constituição da República, cabe ao Supremo Tribunal Federal a
+homologação de sentenças estrangeiras e a concessão de exequatur (executa-se) às cartas
+rogatórias.
+
+
+
+38.       (FCC/TRT24/TÉCNICO/2017)
+
+Compete ao Supremo Tribunal Federal julgar, em recurso ordinário,
+
+a)              o habeas corpus decidido em última instância pelos Tribunais Regionais Federais.
+
+b)              o habeas corpus decidido em única instância pelos Tribunais Regionais Federais.
+
+c)              o crime político.
+
+d)          as causas em que forem partes Estado estrangeiro ou organismo internacional, de um
+lado, e, do outro, Município.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       87
+           www.estrategiaconcursos.com.br                                                           90
+
+                                         https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 14
+
+
+
+e)           as causas decididas, em única instância, pelos Tribunais dos Estados e do Distrito
+Federal quando a decisão recorrida contrariar tratado ou lei federal.
+
+
+
+39.       (FCc)TRE-PR.Analista Judiciário - Área Judiciária.2017)
+
+Os litígios entre organismos internacionais, de um lado, e Estados membros da Federação
+brasileira, de outro, são de competência
+
+a)          originária do Superior Tribunal de Justiça e, mediante recurso ordinário, do Supremo
+Tribunal Federal
+
+b)             do Superior Tribunal de Justiça, mediante recurso ordinário, e do Supremo Tribunal
+Federal, nas hipóteses de cabimento de recurso extraordinário
+
+c)           do Superior Tribunal de Justiça, nas hipóteses de cabimento de recurso especial, e
+do Supremo Tribunal Federal, nas hipóteses de cabimento de recurso extraordinário
+
+d)                ordinária da Justiça Federal
+
+e)               originária do Supremo Tribunal Federal
+
+
+
+40.       (FCC/DPE-RS/Defensor/2018)
+
+A competência originária do Supremo Tribunal Federal está definida em rol exaustivo da
+Constituição Federal, não sendo admitido o processo e julgamento pela Suprema Corte de ação
+popular mesmo que instaurada contra autoridades que, em sede de mandado de segurança,
+estão sujeitas à jurisdição imediata do Tribunal, a exemplo do Presidente da República.
+
+
+
+41.       (FCC/TRT14/Oficial de Justiça/2016)
+
+Processar e julgar, originariamente, nos crimes comuns, os Desembargadores dos Tribunais
+Regionais Federais, dos Tribunais Regionais do Trabalho e os Governadores dos Estados e do
+Distrito Federal é competência do
+
+a)                Superior Tribunal de Justiça, Supremo Tribunal Federal e Superior Tribunal de
+Justiça, respectivamente
+
+b)               Supremo Tribunal Federal
+
+c)               Superior Tribunal de Justiça, Tribunal Superior do Trabalho e Supremo Tribunal
+Federal, respectivamente
+
+d)               Superior Tribunal de Justiça
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   88
+           www.estrategiaconcursos.com.br                                                       90
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 14
+
+
+
+e)           Supremo Tribunal Federal, Superior Tribunal de Justiça e Supremo Tribunal Federal,
+respectivamente
+
+
+
+42.    (FCC/AL-SE/Técnico/2018)
+
+O Supremo Tribunal Federal, o Conselho Nacional de Justiça e os Tribunais Superiores têm sede
+na Capital Federal e exercem função jurisdicional em todo o território nacional.
+
+
+
+
+                                                    GABARITO
+                   01            02             03            04             05              06
+
+                    A              A            C              B              A              D
+
+                   07            08             09            10             11              12
+
+                   D               A            A              B              C              A
+
+                   13            14             15            16             17              18
+
+                    C              C            E              E              C              E
+
+                   19            20             21            22             23              24
+
+                    E              E            E              E              C              C
+
+                   25            26             27            28             29              30
+
+                    C              E            C              E              E              E
+
+                   31            32             33            34             35              36
+
+                    E              A            E              C              C              A
+
+                   37            38             39            40             41              42
+
+                    E              C            E              C              D              E
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        89
+        www.estrategiaconcursos.com.br                                                            90
+
+                                       https://t.me/KakashiAssinaturasBot
+

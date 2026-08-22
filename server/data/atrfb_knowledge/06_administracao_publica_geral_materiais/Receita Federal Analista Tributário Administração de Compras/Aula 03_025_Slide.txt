@@ -1,0 +1,468 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+COMPRAS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - XIII
+
+                                                Prof. Ricardo Campanario
+
+
+
+
+           https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PETROBRAS/2023) Com referência à gestão de compras, julgue o item
+     seguinte. A função compras é reconhecida como uma atividade rotineira e faz parte do
+     processo de logística das empresas.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PETROBRAS/2023) Com referência à gestão de compras, julgue o item
+     seguinte. A função compras é reconhecida como uma atividade rotineira e faz parte do
+     processo de logística das empresas.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+      Embora a atividade de compras faça mesmo parte do processo logístico das empresas, não é mais vista como uma
+      atividade “rotineira”, mas sim uma atividade estratégica e que deve ser customizada levando em conta as
+      necessidades da organização, o alvo das compras, os potenciais fornecedores, etc.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item. O
+     cadastro de fornecedores ativos refere-se àqueles que se encontram disponíveis no
+     mercado e podem ser acionados em futuro próximo.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item. O
+     cadastro de fornecedores ativos refere-se àqueles que se encontram disponíveis no
+     mercado e podem ser acionados em futuro próximo.
+     a) CERTO
+     b) ERRADO                  De acordo com o SICAF (Sistema de Cadastramento Unificado dos Fornecedores), a situação cadastral do
+                                fornecedor pode ser:
+     GABARITO - ERRADA          a) Não credenciado;
+                                             b) Credenciado;
+                                             c) Inativo; e
+                                             d) Infrator.
+                                             Após acessar o sistema e se credenciar, o fornecedor terá a situação “Credenciado”. De outro modo, caso
+                                             não tenha ainda efetuado essa transação, o fornecedor constará no sistema como “Não Credenciado”.
+                                             A situação “Inativo” corresponde à: existência de ocorrência impeditiva cadastrada para o fornecedor e/ou
+                                             situação cadastral diferente de ativa/regular na Receita Federal ou inativação (exclusão) registrada a pedido
+                                             do fornecedor.
+                                             A situação “infrator” ocorre quando o fornecedor não está credenciado no SICAF e foi incluído por uma
+                                             Unidade Administrativa de Serviços Gerais (UASG) para possibilitar o registro de ocorrência (s).
+                                             Dessa forma, não há fornecedor “ativo” conforme traz o examinador no enunciado.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (CEBRASPE/TJ ES/Apoio Especializado/2023) Com relação a processos de compras,
+     julgue o item a seguir. A cotação consiste na coleta de preços e na pesquisa de mercado
+     em busca do suprimento do material necessário.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Coleta de Preços
+       Cotação junto a diferentes fornecedores
+
+
+
+       ❑ A partir do recebimento da requisição ou solicitação de compras, a área responsável
+         já deve começar a atividade de coleta de preços.
+       ❑ A chamada cotação é o registro do preço obtido da oferta de diversos fornecedores
+         em relação ao material cuja compra foi solicitada.
+       ❑ Ao se fazer uma cotação de preços de determinado equipamento ou produto, os
+         potenciais fornecedores enviam propostas de fornecimento, que informam preço,
+         prazo, reajustes e uma série de condições gerais que estabelecem.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+
+
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+
+
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (CEBRASPE/TJ ES/Apoio Especializado/2023) Com relação a processos de compras,
+     julgue o item a seguir. A cotação consiste na coleta de preços e na pesquisa de mercado
+     em busca do suprimento do material necessário.
+     a) CERTO
+     b) ERRADO                    Essa questão gera um pouco de discussão pois a literatura tem algumas interpretações
+     GABARITO - ERRADA            diferentes para esse tema. Para a maioria dos autores a coleta de preços engloba a
+                                            cotação. Nesse cenário a cotação é o registro do preço obtido da oferta de diversos
+                                            fornecedores em relação ao material cuja compra foi solicitada. É por meio da cotação
+                                            junto a diversos fornecedores que o comprador consegue concluir seu processo de
+                                            coleta de preços. Ao se fazer uma cotação de preços de determinado equipamento ou
+                                            produto, os potenciais fornecedores enviam propostas de fornecimento, que informam
+                                            preço, prazo, reajustes e uma série de condições gerais que estabelecem. Feito isso a
+                                            etapa de coleta de preços está finalizada e o comprador pode partir para a análise das
+                                            propostas e suas condições.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item.
+     Apenas compras emergenciais podem prescindir de cotações prévias.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item.
+     Apenas compras emergenciais podem prescindir de cotações prévias.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+       Em verdade nem para as compras emergenciais as cotações podem ser esquecidas visto que, mesmo que haja a dispensa de
+       licitação, a compatibilidade dos preços com os preços praticados no mercado deve ser comprovada. Vejamos o que diz o TCU a
+       respeito do tema:
+       Acórdão 2.019/2010 Plenário
+       9.2. alertar à Companhia Energética do Piauí - Cepisa que, quando da realização de dispensa de licitação nos termos do art. 24,
+       inciso IV, da Lei nº 8666/1993, além da caracterização da situação emergencial ou calamitosa que justifique a dispensa, deve-se
+       trazer elementos aos autos do processo que demonstrem a compatibilidade dos preços contratados com aqueles vigentes no
+       mercado ou com os fixados por órgão oficial competente, ou, ainda, com os que constam em sistemas de registro de preços, bem
+       como que foi consultado o maior número possível de fornecedores ou executantes, em atenção aos incisos II e III do parágrafo
+       único do art. 26 dessa lei;
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/TJ ES/Apoio Especializado/2023) Com relação a processos de compras,
+     julgue o item a seguir. O processo de compras inicia-se com a emissão da ordem de
+     compra ou fornecimento, sendo de responsabilidade dos almoxarifados assegurar a
+     entrega do material nas condições ideais para atender às necessidades da organização.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+
+
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+
+
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Estrutura de Compras
+       Acompanhamento
+       ❑ Responsável por acompanhar os pedidos e garantir que o fornecedor cumpra prazos,
+         quantidades e valores estabelecidos na compra.
+       ❑ Previne a organização de eventuais desvios em relação ao contratado, mitigando
+         riscos de falhas de fornecimento garantindo o cumprimento das cláusulas contratuais,
+         especialmente prazos de entrega.
+       ❑ Em boa parte das organizações essa atividade é executada pelo próprio setor de
+         processamento de compras.
+       ❑ Neste ponto é muito comum o examinador endereçar o famoso "ciclo do pedido" do
+         cliente, composto por 5 atividades que, atenção, acontecem em sua maioria (exceto
+         a preparação e a transmissão) no fornecedor e não em quem está comprando!
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/TJ ES/Apoio Especializado/2023) Com relação a processos de compras,
+     julgue o item a seguir. O processo de compras inicia-se com a emissão da ordem de
+     compra ou fornecimento, sendo de responsabilidade dos almoxarifados assegurar a
+     entrega do material nas condições ideais para atender às necessidades da organização.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item. A
+     definição do catálogo de insumos determina o encerramento de compras provisórias ou
+     únicas.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEBRASPE/CNMP/Apoio Técnico Administrativo/2023) A respeito das modalidades
+     de compra, do cadastro de fornecedores e do edital de licitação, julgue o seguinte item. A
+     definição do catálogo de insumos determina o encerramento de compras provisórias ou
+     únicas.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+      Não é possível dizer que a definição do catálogo de insumos determina o encerramento de compras provisórias ou únicas.
+      Certamente esse movimento vai diminuir a necessidade das compras provisórias ou únicas, mas não necessariamente evita-las
+      em 100% dos casos, sobretudo naqueles não esperados e imprevisíveis.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. A avaliação dos serviços prestados
+     por terceiros deve incluir o atendimento recebido pelos funcionários e os esclarecimentos
+     a respeito da operação.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. A avaliação dos serviços prestados
+     por terceiros deve incluir o atendimento recebido pelos funcionários e os esclarecimentos
+     a respeito da operação.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+      A avaliação de serviços prestados inclui sim, não só o resultado efetivo do serviço, como o atendimento, direcionamento e
+      esclarecimentos recebidos pelos funcionários antes, durante e depois da prestação dos serviços.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. A principal função da gestão e
+     fiscalização de um contrato de serviço é manter o suprimento desse serviço de forma
+     adequada e previamente estabelecida.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. A principal função da gestão e
+     fiscalização de um contrato de serviço é manter o suprimento desse serviço de forma
+     adequada e previamente estabelecida.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+     A gestão da execução de um contrato pode acontecer de maneira formal (regidas pela legislação vigente) quando falamos do mundo
+     público ou por meio das atividades de acompanhamento e diligenciamento, quando falamos do mundo privado, que é o que acaba
+     sendo mais cobrado em provas de concurso. Nesse processo a execução do contrato é acompanhada (também chamado de follow-up)
+     para que tudo que foi acordado seja cumprido como o local de entrega, a data, as especificações, etc, visando sempre a mitigação de
+     qualquer risco que ameace a não entrega conforme o combinado.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. Dadas as características específicas
+     de cada contratante de um serviço de limpeza e conservação, não é possível a
+     padronização das atividades relativas a esse serviço.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. Dadas as características específicas
+     de cada contratante de um serviço de limpeza e conservação, não é possível a
+     padronização das atividades relativas a esse serviço.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+       Ao contrário, mesmo se tratando de um contratante de um serviço de limpeza
+       e conservação, a padronização das atividades relativas a esse serviço não só é
+       possível como é também recomendada para que se possa buscar reduções de
+       custos e de preço para toda a operação, tornando-a mais competitiva.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. O controle sobre fornecedores de
+     serviços só pode ocorrer durante a execução da operação.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (CEBRASPE/PETROBRAS/2023) Julgue o item seguinte, relativo a seleção e avaliação
+     de fornecedores e a gestão e fiscalização de contratos. O controle sobre fornecedores de
+     serviços só pode ocorrer durante a execução da operação.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+       Ao contrário, o controle sobre fornecedores de serviços ocorre não só durante a execução da operação como antes e depois
+       dela. Todo o processo de contratação assim como todo o processo de pós prestação do serviço deve ser levado em conta,
+       considerando o atendimento em si, feedbacks dos usuário/consumidores, emissão de documentos, orientações e suportes ao
+       longo do processo, etc.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+
+
+
+       ricardocampanario
+                   https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

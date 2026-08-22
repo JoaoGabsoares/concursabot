@@ -1,0 +1,4333 @@
+                                                       Aula 01
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+
+
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                              20 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 01
+
+
+
+
+                                                                                     Índice
+1) Noções iniciais de Classes de Palavras I
+..............................................................................................................................................................................................3
+
+2) Classes variáveis e invariáveis
+..............................................................................................................................................................................................4
+
+3) Substantivo
+..............................................................................................................................................................................................5
+
+4) Adjetivo
+..............................................................................................................................................................................................
+                                                                                                                                                                                            13
+
+5) Expressões com Substantivo e Adjetivo
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+6) Advérbio
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+7) Artigo
+..............................................................................................................................................................................................
+                                                                                                                                                                                            28
+
+8) Numeral
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+9) Interjeição
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+10) Palavras especiais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            34
+
+11) Questões Comentadas - Substantivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            38
+
+12) Questões Comentadas - Adjetivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            44
+
+13) Questões Comentadas - Expressões com substantivo e adjetivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            55
+
+14) Questões Comentadas - Advérbio - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            61
+
+15) Questões Comentadas - Artigo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            67
+
+16) Questões Comentadas - Palavras Especiais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            69
+
+17) Lista de Questões - Substantivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            72
+
+18) Lista de Questões - Adjetivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            77
+
+19) Lista de Questões - Expressões com substantivo e adjetivo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            84
+
+20) Lista de Questões - Advérbio - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            88
+
+21) Lista de Questões - Artigo - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            92
+
+22) Lista de Questões - Palavras Especiais - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            94
+
+
+
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           97
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                 NOÇÕES INICIAIS DE CLASSES DE PALAVRAS I
+Olá, pessoal!
+Vamos dar início ao estudo das Classes de Palavras.
+Ressalto que essa aula é fundamental para entendermos análises sintáticas e semânticas mais
+elaboradas. Se você não entende o uso das classes de palavras, fica muito mais difícil aprender
+Sintaxe e Interpretar textos, por exemplo.
+Atualmente, as palavras da Língua Portuguesa são classificadas dentro de dez classes gramaticais,
+conforme reconhecidas pela maioria dos gramáticos: Substantivo, Adjetivo, Advérbio, Verbo,
+Conjunção, Interjeição, Preposição, Artigo, Numeral e Pronome.
+Uma palavra é enquadrada numa classe pelas suas características, embora existam muitas
+palavras que não são enquadradas nas classes tradicionais, pois não funcionam exatamente como
+nenhuma delas. Um exemplo são o que denominamos de "palavras denotativas": parecem
+advérbios, mas não fazem o que o advérbio faz, isto é, não modificam verbo, adjetivos ou outro
+advérbio.
+Há também uma estreita relação entre a classe da palavra e sua função sintática. Por exemplo, a
+palavra “hoje” é um advérbio de tempo, da classe dos advérbios. Qual é sua função sintática? É
+expressão de uma circunstância de tempo, um adjunto adverbial de tempo.
+Além disso, estudaremos que um conjunto de palavras pode equivaler a uma classe gramatical e,
+assim, substituir essa palavra sem prejuízo à correção ou ao sentido. Esses conjuntos são
+chamados de locuções e serão classificadas de acordo com a classe que substituem. Por
+exemplo, podemos ter uma pessoa “corajosa” (adjetivo) ou uma pessoa “com coragem”
+(locução adjetiva).
+Não se desespere! Traremos detalhes sobre isso e faremos muitas questões...
+Grande abraço e ótimos estudos!
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                3
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                  CLASSES VARIÁVEIS X CLASSES INVARIÁVEIS
+Algumas classes são variáveis, seguem regras de concordância, ou seja, flexionam-se em número
+e gênero, como o substantivo, o adjetivo, o pronome, o numeral e o verbo.
+Outras classes permanecem invariáveis, sem flexão, sem concordância, como advérbios,
+conjunções e preposições.
+                       “João é bonito, Joana é feia e seus filhos são medianos”
+                           “João anda apressadamente e Joana, lentamente”.
+Na primeira sentença há concordância de gênero e número. Isso porque “bonito” é adjetivo,
+“seus” é pronome e “filhos” é substantivo, todas classes variáveis. No segundo, o termo
+“lentamente” não varia, porque é advérbio, uma classe invariável.
+A diferença é simples, mas deve ser lembrada sempre que formos estudar cada uma das classes
+de palavras, ok?!
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            4
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                             SUBSTANTIVOS
+O substantivo é a classe que dá nome a seres, coisas, sentimentos, qualidades, ações (homem,
+gato, carro, mesa, beleza, inteligência, estudo...). Em suma, é o nome das coisas em geral, é a
+palavra que nomeia tudo o que percebemos.
+É uma classe variável, pois se flexiona em gênero, número e grau: um gato, dois gatos, três
+gatas, quatro gatinhas, cinco gatonas...
+
+
+Classificação dos substantivos
+Relembremos rapidamente as classificações dos substantivos.
+
+
+       CLASSIFICAÇÃO                              DEFINIÇÃO                        EXEMPLOS
+         PRIMITIVO                      Não se origina de outra              pedra, mulher, felicidade
+                                        palavra da língua e, portanto,
+                                        não traz afixos (prefixo ou
+                                        sufixo).
+            DERIVADO                    Deriva de uma palavra                  pedreiro, mulherão,
+                                        primitiva, traz afixos (sufixos           infelicidade
+                                        ou prefixos).
+             SIMPLES                    É constituído por uma única           homem, pombo, arco
+                                        palavra, possui apenas um
+                                        radical.
+            COMPOSTO                    É constituído por mais de uma             homem-bomba,
+                                        palavra, possui mais de um             pombo-correio, arco-íris
+                                        radical.
+             COMUM                      Designa uma espécie ou um             mulher, cidade, cigarro
+                                        ser qualquer representativo
+                                        de uma.
+             PRÓPRIO                    Designa        um      indivíduo       Maria, Paris, Malboro
+                                        específico da espécie.
+            CONCRETO                    Designa um ser que existe por      pedra, menino, carro, Deus,
+                                        si só, de existência autônoma                fada
+                                        e concreta, seja material,
+                                        espiritual, real ou imaginário.
+            ABSTRATO                    Designa        ação,     estado,   criação, coragem, liberalismo
+                                        sentimento,           qualidade,
+                                        conceito.
+            COLETIVOS                   Designa uma pluralidade de              tropa (soldados),
+                                        seres da mesma espécie.                 cardume (peixes),
+                                                                                 frota (veículos).
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                            5
+        www.estrategiaconcursos.com.br                                                                    97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+A classificação de um substantivo não é fixa e absoluta, depende do contexto. Observe:
+      Ex: Judas foi um apóstolo (Próprio) x O amigo revelou-se um judas (Comum => traidor)
+
+
+Os substantivos ainda podem ser classificados de acordo com a sua flexão de gênero (masculino/
+feminino).
+            BIFORMES                    Mudam de forma para indicar                            lobo x loba
+                                        gêneros diferentes.                                 capitão x capitã
+                                                                                                boi x vaca
+            UNIFORMES                   São os que possuem apenas                      o estudante / a estudante
+                                        uma forma para indicar ambos                   o artista famoso/ a artista
+                                        os gêneros.                                               famosa
+
+                                                       ==219a34==
+
+
+
+
+      Os substantivos uniformes ainda subdividem-se em:
+            EPICENOS                    Referem-se a animais que só                   A águia, A cobra, O gavião.
+                                        têm um gênero para designar                   A variação de gênero se dá
+                                        tanto o masculino quanto o                          com acréscimo de
+                                        feminino.                                       “macho/fêmea”: a cobra
+                                                                                        macho, o gavião fêmea...
+       SOBRECOMUNS                      Referem-se a pessoas de                          A criança, O cônjuge, O
+                                        ambos os sexos.                              carrasco, A pessoa, A vítima.
+     COMUNS DE DOIS                     Apresentam uma forma única                   O chefe, A chefe, O cliente, A
+        GÊNEROS                         para masculino e feminino e a                 cliente, O suicida, A suicida.
+                                        distinção é feita pelo “artigo”
+                                        (ou outro determinante, como
+                                        pronome, numeral...).
+
+
+Formação de substantivos
+Para reconhecer um substantivo, ajuda muito saber como podem ser formados e quais são suas
+principais terminações.
+Quanto à sua formação, os substantivos podem ser classificados em primitivos e derivados:
+Os primitivos são a forma original daquele substantivo, sem afixos: pedra, fogo, terra, chuva.
+Os derivados se originam dos primitivos, com acréscimo de afixos (prefixos ou sufixos): pedreiro,
+fogareiro, terrestre, chuvisco. Esse processo é chamado de derivação sufixal e ocorre também
+com verbos que recebem sufixos substantivadores:
+              pescar => pescaria;​​             ​                   ​   filmar => filmagem;
+              matar => matador;​ ​              ​                   ​   militar => militância;
+              dissolver => dissolução;​         ​                   ​   corromper => corrupção.
+Há também o processo inverso, chamado derivação regressiva, em que um substantivo abstrato
+indicativo de ação é formado por uma redução:
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                      6
+        www.estrategiaconcursos.com.br                                                                               97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+              Cantar => canto​          ​       ​        ​        Almoçar => almoço
+Além disso, destaco que substantivos podem surgir por processos de nominalização de outras
+classes. Os verbos têm formas nominais:
+      Verbo Fazer: gerúndio (fazendo), infinitivo (fazer) e particípio (feito).
+      Ex: Feito é melhor que perfeito.
+            Mesmo não fazendo perfeito, o fazer é melhor que não o fazer.
+
+
+
+
+                 Note que o artigo tem o poder de substantivar qualquer classe:
+     Ex: O fazer é melhor que o esperar. (verbo “fazer” foi substantivado pelo artigo “o”)
+
+Esse processo acima possibilitado pelo artigo se chama “derivação imprópria”, pois utiliza uma
+palavra de uma classe em outra classe, da qual não é “própria”, ou seja, à qual não pertence.
+Conhecer esses mecanismos ajuda a ‘reconhecer’ os substantivos nas questões de prova.
+
+
+
+
+(CRMV-DF / AGENT ADMINISTRATIVO / 2022)
+É a infelicidade como algo real e concreto, alguma coisa que podemos acompanhar com os
+olhos ali, desfilando pelas ruas, um ser que podemos tocar ao estender a mão.
+Analise a afirmativa a seguir:
+A palavra “ser” (linha 6) está empregada como substantivo.
+Comentários:
+Lembre-se da regra: o artigo ("um") tem o poder de substantivar qualquer classe: "ser", a
+princípio é verbo.
+Gabarito: questão correta.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              7
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+Flexão dos substantivos
+Como vimos, o substantivo é a palavra que se flexiona em gênero e número.
+Os substantivos podem ser simples, formados por apenas uma palavra, ou, mais tecnicamente,
+um só radical; ou compostos, formados por mais de uma palavra ou radical.
+Em geral, os substantivos simples normalmente têm seu plural formado com mero acréscimo da
+letra /S/: Carro(s), Menina(s), Pó(s)...
+Contudo, também podem ter outras terminações:
+ Reitores, Males, Xadrezes, Caracteres, Cônsules, Reais, Animais, Faróis, Fuzis, Répteis, Projéteis.
+Palavras como “ônix” e “tórax” não vão ao plural.
+Outras palavras, por sua vez, só são usadas no plural: núpcias, fezes, férias, arredores, costas...
+De modo geral, palavras terminadas em “ão” basicamente recebem o /S/ de plural (mãos,
+irmãos, órgãos) ou fazem plural em “es” (capelães, capitães, escrivães, sacristães, tabeliães,
+catalães, alemães).
+Contudo, há palavras que admitem duas e até três formas de plural:
+
+        Charlatão: charlatões — charlatães                           Vilão: vilãos — vilões — vilães
+        Corrimão: corrimãos — corrimões                           Aldeão: aldeãos — aldeões — aldeães
+        Cortesão: cortesãos — cortesões                           Ancião: anciãos — anciões — anciães
+                  Anão: anãos— anões                          Ermitão: ermitãos — ermitões — ermitães
+        Guardião: guardiões — guardiães                            Cirurgião: — cirurgiões— cirurgiães
+                Refrão: refrãos — refrães                              Vulcão: vulcãos — vulcões
+            Sacristão: sacristãos — sacristães                        Zangão: zangãos — zangões
+
+
+
+Plural dos substantivos compostos
+A regra geral é “quem varia varia; quem não varia não varia”. O que isso significa na prática?
+Significa que se o termo é formado por classes variáveis, como substantivos, adjetivos, numerais
+e pronomes (exceto o verbo), ambos variam.
+                Ex: ​     Substantivo + Substantivo: Couve-flor => Couves-flores
+                        ​ Numeral + Substantivo: Quarta-feira => Quartas-feiras
+                   ​      Adjetivo + Substantivo: Baixo-relevo => Baixos-relevos
+Por consequência, as classes invariáveis (e os verbos) não variam em número:
+                Ex: ​     Verbo + Substantivo: Beija-flor => Beija-flores
+                            Advérbio + Adjetivo: Alto-falante => Alto-falantes
+                            Interjeição + Substantivo: Ave-maria => Ave-marias
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          8
+        www.estrategiaconcursos.com.br                                                                   97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Essa é a regra geral. Contudo, há exceções quando falamos em plural de nomes compostos.
+Vamos ver as mais importantes e que caem com mais frequência em sua prova:
+
+
+
+
+Quando o segundo substantivo especifica o primeiro
+Na composição de dois substantivos, se o segundo especificar o primeiro por uma relação de
+tipo, semelhança ou finalidade, é mais comum que o segundo termo, por ser delimitador, não
+varie, fique no singular. Contudo, é também correto flexionar os dois!
+Ou seja, nesses casos são corretas as duas formas!
+              banhos-maria OU banhos-marias​ ​                    ​
+              pombos-correio OU pombos-correios
+              salários-família OU salários-famílias​              ​
+Note que o “pombo” tem a finalidade de ser correio, o “peixe” parece uma espada e assim por
+diante...
+
+
+Estrutura “substantivo + preposição + substantivo”
+Se a estrutura for “substantivo+preposição+substantivo”, apenas o primeiro item da composição
+se flexiona:
+              Ex: ​    Pé de moleque => Pés de moleque
+                       Mão de obra => Mãos de obra
+                       Pôr do sol => Pores do sol ( “pôr” é visto de forma substantivada, não verbo)
+
+
+
+
+                                   Guarda (verbo) x Guarda (substantivo)
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   9
+        www.estrategiaconcursos.com.br                                                            97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+        Em "Guarda-chuva" e "Guarda-roupa", "guarda" é verbo e por isso somente o
+        segundo item se flexiona: Guarda-chuvas e Guarda-roupas.
+        Em "Guarda-noturno", "Guarda-florestal" e "Guarda-civil", “guarda” é
+        substantivo, ou seja, o próprio sujeito, o homem. Por isso, nesse caso, como
+        temos substantivo + adjetivo, os dois termos são flexionados: Guardas-florestais,
+        Guardas-civis e Guardas-noturnos.
+
+
+Lembre-se ainda que o plural de “mal-estar” é “mal-estares”, pois "estar", nesse caso, é sua
+forma substantivada (e não verbo). Assim, como temos a estrutura "advérbio + substantivo", o
+segundo termo é flexionado.
+Por outro lado, "louva-a-deus" não varia.
+Para finalizar, lembre-se que o plural de “arco-íris” é “arcos-íris”.
+
+
+
+
+(CÂMARA DE LAGOA DE ITAENGA-PE / 2022)
+Os substantivos terminados em -ão presentes no excerto “Através da arte o ser humano expressa
+ideias, emoções, percepções e sensações.” (6º parágrafo) fazem plural apenas com a terminação
+em - ões, como se contata. Assinale a alternativa em que o vocábulo abaixo admite só duas
+possibilidades de formação de plural:
+A) aldeão.
+B) ermitão.
+C) tabelião.
+D) capelão.
+E) charlatão.
+Comentários:
+A questão pede o substantivo que admite plural de duas formas diferentes. De acordo com o
+VOLP (Vocabulário Ortográfico da Língua Portuguesa), capelão (capelães) possui apenas uma
+forma de plural; já ermitão (ermitãos, ermitões e ermitães), aldeão (aldeãos, aldeões e aldeães) e
+tabelião (tabeliães, tabeliões e tabeliãos) possuem três formas de plural. Assim, por exclusão,
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                10
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+temos "charlatão", que apresenta apenas suas formas de plural (charlatães e charlatões).
+Portanto,
+Gabarito Letra E.
+
+
+(TRF 1ª REGIÃO / 2017) Haveria prejuízo gramatical para o texto caso a palavra
+“procedimentos-padrão” fosse alterada para procedimentos-padrões.
+Comentários:
+Não haveria prejuízo para o texto caso se efetuasse a referida troca, pois há duas regras válidas:
+flexionar os dois substantivos pela regra geral, ou flexionar somente o primeiro pela regra
+específica de delimitação por tipo/finalidade/semelhança.
+Gabarito: questão incorreta.
+
+
+
+Grau do Substantivo
+O substantivo também pode variar em grau, aumentativo e diminutivo.
+É importante lembrar que o diminutivo/aumentativo pode ter valores discursivos de afetividade e
+de depreciação irônica.
+              Ex: ​    Olha o cachorrinho que eu trouxe para você. (afetividade)
+                   ​   Queridinho, devolva o que roubou. (depreciativo; irônico)
+Há diversos outros sufixos de grau do substantivo. Vejamos também seus valores no discurso:
+              Ex: ​    Então... O sabichão aí se enganou de novo? (ironia)
+                       Não trabalho tanto para dar dinheiro àquele padreco! (depreciação)
+                       O Porsche é um carrão! (admiração)
+                       Kiko, não se misture com essa gentalha! (desprezo)
+O plural do diminutivo se faz apenas com o acréscimo de "ZINHOS" ou "ZITOS" ao plural da
+palavra, cortando-se o /S/. Assim:
+                             animalzinho = animais + zinhos => animaizinhos
+                          coraçãozinho = corações + zinhos => coraçõezinhos
+                                  florzinha = flores + zinhas => florezinhas
+                              papelzinho = papéis + zinhos => papeizinhos
+                                  pazinha = pazes + zinhas => pazezinhas
+Em alguns casos, são aceitas como corretas duas formas. É o caso de:
+              colherzinha OU colherinha​​
+              florzinha OU florinha
+              pastorzinho OU pastorinho
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                11
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(PREF. FRECHEIRINHA (CE) / PROFESSOR / 2021)
+Está errado o aumentativo de um dos substantivos. Assinale-o
+A) amigo – amigalhão.
+B) gato – gatarrão.
+C) ladrão – ladravaz.
+D) mão – manopla.
+E) pata – pataca.
+Comentários:
+O aumentativo de "pata" é               feito com o sufixo -orra, ou seja, é "patorra". Os demais
+aumentativos estão corretos.
+Gabarito: Letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                12
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                                 ADJETIVO
+O adjetivo é a classe variável que se refere ao substantivo ou termo de valor substantivo (como
+pronomes), para atribuir a ele alguma qualificação, condição ou estado, restringindo ou
+especificando seu sentido.
+É classe variável, que “orbita” em torno do substantivo e concorda com ele em gênero e número.
+
+
+                  Ex: homens maus, mulheres simples, céus azuis, casas arruinadas.
+O adjetivo pode também ser substantivado:
+                                       “Céu azul” => “O azul do céu”.
+É comum também substituir o adjetivo por “locução” ou “oração” adjetiva:
+     Ex: “Cidadão inglês”x “Cidadão da Inglaterra” x “Cidadão que é nativo da Inglaterra”.
+
+
+
+Classificação dos adjetivos
+
+
+       CLASSIFICAÇÃO                              DEFINIÇÃO                      EXEMPLOS
+           SIMPLES                         Possui apenas um radical.            Estilo literário.
+         COMPOSTO                         Possui mais de um radical.         Estilo lítero-musical.
+          PRIMITIVO                      Forma original, não derivado           Homem bom.
+                                               de outra palavra.
+             DERIVADO                     É formado a partir de outra             Ele é bondoso.
+                                                    palavra.
+            EXPLICATIVO                 Indica característica inerente e          Homem mortal.
+                                                  geral do ser.
+            RESTRITIVO                  Indica característica que não é        Homem valente.
+                                                 própria do ser.
+            GENTÍLICO                      Relativos a povos e raças.                israelita
+             PÁTRIO                      Relativos a cidades, estados,             israelense
+                                             países e continentes.
+Vejamos alguns exemplos de adjetivos pátrios, atenção à formação:
+               /ês/: português, inglês, francês, camaronês, norueguês
+               /ano/: goiano, americano, africano, angolano, mexicano
+               /ense/: estadunidense, fluminense, amazonense
+               /ão/, /eiro/: afegão, alemão, catalão, brasileiro, mineiro
+               /ol/, /eta/, /ita/, /tico/: espanhol, mongol, lisboeta, vietnamita, asiático
+               /ino/, /eu/, /enho/: argentino londrino, europeu, judeu, panamenho, costa-riquenho
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                       13
+        www.estrategiaconcursos.com.br                                                                97
+
+                                     https://t.me/KakashiAssinaturasBot
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 01
+
+
+
+Cuidado: esses adjetivos são grafados com letras minúsculas.
+Como apresentado na tabela, os adjetivos chamados de “uniformes” têm uma só forma para
+masculino ou feminino e normalmente são os terminados em /a/, /e/, /ar/, /or/, /s/, /z/ ou /m/:
+                   Ex: ​ hipócrita, homicida, asteca, agrícola, cosmopolita
+                            árabe, breve, doce, constante, pedinte, cearense
+                            superior, exemplar, ímpar
+                            simples, reles, feliz, feroz, ruim, comum
+
+
+
+Flexão dos adjetivos compostos
+No plural dos adjetivos compostos, como luso-americanos, afro-brasileiras, obras político-sociais,
+a primeira parte do composto é reduzida e somente o segundo item da composição vai para o
+plural.
+Essa é a regra para o plural dos adjetivos compostos em geral. Contudo, vejamos algumas
+exceções que são recorrentes em sua prova:
+
+
+Adjetivo composto formado por “adjetivo + substantivo”
+Se houver um substantivo na composição do adjetivo composto (adjetivo + substantivo),
+nenhuma das partes vai variar:
+                   Ex: ​    amarelo-ouro => camisa amarelo-ouro; camisas amarelo-ouro
+                            verde-oliva => parede verde-oliva; paredes verde-oliva
+
+
+Adjetivos compostos invariáveis
+Alguns adjetivos, no entanto, são sempre invariáveis. Vejamos:
+                   azul-marinho => camisa azul-marinho; camisas azul-marinho
+                   azul-celeste => parede azul-celeste; paredes azul-celeste
+                   zero-quilômetro => caminhonete zero-quilômetro; caminhonetes zero-quilômetro
+
+
+Valor objetivo (fato) x Valor subjetivo (opinião)
+Os adjetivos podem ter valor subjetivo, quando expressam opinião; ou podem ter valor objetivo,
+quando atestam qualidade que é fato e não depende de interpretação.
+Os adjetivos opinativos, por serem marca de expressão de uma opinião, são acessórios, podem
+ser retirados, sem prejuízo gramatical.
+                           Adjetivos opinativos ​           ​          X​   Adjetivos objetivos
+​        ​          ​       ​       carro bonito ​​             ​      ​       carro preto
+​        ​          ​       ​       turista animado ​           ​      ​       turista japonês
+
+
+             Receita Federal (Analista Tributário) Língua Portuguesa                              14
+             www.estrategiaconcursos.com.br                                                       97
+
+                                          https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Os adjetivos chamados “de relação” são objetivos e, por isso, não aceitam variação de grau e
+não podem ser deslocados livremente, posicionando-se normalmente após o substantivo.
+São derivados de substantivos e estabelecem com o substantivo uma relação de tempo, espaço,
+matéria, finalidade, propriedade, procedência etc.
+Tais adjetivos indicam uma categorização “técnica”, “objetiva” e tornam mais preciso o conceito
+expresso pelo substantivo, restringindo seu significado.
+O gramático Celso Cunha dá os seguintes exemplos:
+                               Nota mensal => nota relativa ao mês
+                               Movimento estudantil => movimento feito por estudantes
+                               Casa paterna => casa onde habitam os pais
+                               Vinho português => vinho proveniente de Portugal
+Observe que não podemos escrever “português vinho” nem “vinho muito português”. Ser
+                                                       ==219a34==
+
+
+
+
+“português” é uma categorização objetiva do vinho, não expressa opinião.
+Essas características vão nos ajudar em questões sobre a inversão da ordem “substantivo +
+adjetivo”, estudada adiante.
+
+
+
+
+(PREF. MANAUS / 2022)
+O artigo 9º do Estatuto do Idoso diz:
+“É obrigação do Estado, garantir à pessoa idosa a proteção à vida e à saúde, mediante
+efetivação de políticas sociais públicas que permitam um envelhecimento saudável e em
+condições dignas.”
+Entre os cinco adjetivos sublinhados, aqueles que mostram valor de opinião, são
+(A) saudável / dignas.
+(B) idosa / sociais.
+(C) públicas / dignas.
+(D) sociais / públicas.
+(E) idosa / saudável.
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             15
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Aqui, "idoso" é um adjetivo meramente classificatório, objetivo, não tem "julgamento"
+embutido, não traz subjetividade, valoração. Só a título de curiosidade:
+"Para a Organização Mundial da Saúde (OMS), idoso é todo indivíduo com 60 anos ou mais. O
+mesmo entendimento está presente na Política Nacional do Idoso (instituída pela lei federal
+8.842), de 1994, e no Estatuto do Idoso (lei 10.741), de 2003."
+O mesmo vale para "sociais e públicas" que apenas descrevem objetivamente a função das
+políticas. Uma política pode ser social, ser econômica, ser fiscal. Tudo isso é objetivo.
+Por outro lado, "saudável" e "dignas" são adjetivos valorativos, indicam julgamento, opinião.
+Pode-se de discutir o que é mais ou menos saudável ou digno para cada pessoa.
+Gabarito letra A.
+
+
+(TCE PB / 2018)
+Maus hábitos cotidianos muitas vezes são, na verdade, práticas antiéticas e até ilegais, que
+devem, sim, ser combatidas.
+Os termos “antiéticas”, “ilegais” e “combatidas” qualificam a palavra “práticas”.
+Comentários:
+“antiéticas” e “ilegais” qualificam sim o substantivo “práticas”. Contudo, “combatidas” é um
+verbo numa frase em voz passiva: “devem ser combatidas” (ver aula de verbos), não é um
+adjetivo.
+Gabarito: questão incorreta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            16
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 01
+
+
+
+
+    ORDEM DA EXPRESSÃO NOMINAL “SUBSTANTIVO + ADJETIVO”
+Agora veremos o efeito da troca de ordem em algumas palavras.
+Uma expressão formada por substantivo + adjetivo é uma expressão nominal (ou sintagma
+nominal), porque o núcleo é um nome (substantivo). A ordem “natural” do sintagma é essa.
+Quando trocamos essa ordem, poderemos ter 3 casos:
+1) Não muda nem a classe nem o sentido.
+​        Ex: Cão bom ​           x​       Bom cão
+​            (Sub. + Adj.)​      ​        (Adj. + Sub.)
+2) Muda o sentido sem mudar as classes.
+​     Ex: Candidato pobre x Pobre candidato
+​            (Sub. + Adj.)​ (Adj. + Sub.)
+Mudança no sentido: "pobre" é um adjetivo objetivo relativo a recursos financeiros. Na segunda
+expressão, "pobre" significa coitado, digno de pena.
+Vejam os pares principais que se encaixam nesse segundo caso.
+              simples questão (mera questão)                        único sabor (não há outro, só um)
+              questão simples (não complexa)                         sabor único (sabor inigualável)
+
+
+              grande homem (grandeza moral)                             alto funcionário (patente)
+              homem grande (grandeza física)                          funcionário alto (altura física)
+
+3) Muda a classe, e muda necessariamente o sentido.
+​     ​      Ex: alemão comunista x comunista alemão
+  ​   ​            (Sub. + Adj.)​ ​      (Sub. + Adj.)
+Mudança no sentido: "Alemão", no segundo sintagma, se tornou característica, especificação, do
+substantivo comunista, ou seja, um comunista nascido na Alemanha. No primeiro caso, temos um
+alemão que é "comunista" (em oposição, por exemplo, a um alemão guitarrista, turista,
+generoso).
+
+
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                        17
+          www.estrategiaconcursos.com.br                                                                 97
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+     Sempre que houver essa alteração morfológica, ou seja, troca de classes, haverá
+     mudança de sentido, porque muda o foco, ainda que pareça coincidir bastante o
+     sentido.
+
+     Esse critério salva sua pele em questões em que fica difícil enxergar a sutil mudança
+     semântica que ocorre.
+
+     Lembre-se da famosa frase de Machado de Assis:
+              “não sou propriamente um autor defunto, mas um defunto autor”.
+     No primeiro caso, temos “um autor que veio a falecer”. No segundo, temos um
+     “defunto que passou a escrever”.
+
+Em alguns casos, pode ser difícil detectar quem é o substantivo (Ex: sábio religioso), então a
+gramática nos diz que a tendência lógica é considerar o primeiro termo substantivo e o segundo
+adjetivo.
+                                                         ==219a34==
+
+
+
+
+Locuções Adjetivas
+Como mencionei, locuções são grupos de palavras que equivalem a uma só.
+As locuções adjetivas são formadas geralmente de preposição+substantivo e substituem um
+adjetivo.
+Essas locuções funcionam como um adjetivo, qualificam um substantivo, e desempenham
+normalmente uma função chamada adjunto adnominal.
+      ​          Ex: ​    Homem covarde => Homem sem coragem
+      ​          ​        Cara angelical => Cara de anjo
+Alguns exemplos de outras locuções e seus adjetivos correspondentes:
+     de irmão​           fraternal                                    de frente​   frontal
+     de paixão​          passional​                                   de porco​    suíno ou porcino
+     de trás​                    traseiro                             de terra​    telúrico, terrestre ou terreno
+     de lua          ​   lunar ou selênico                            de velho​    senil
+     de macaco​ simiesco, símio ou macacal                            de vento​    eólico
+     de mestre​          magistral                                    de vidro​    vítreo ou hialino
+     de monge​           monacal                                      de aluno​    discente
+     de neve ​           níveo ou nival                               de visão​    óptico
+
+
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                                   18
+          www.estrategiaconcursos.com.br                                                                            97
+
+                                       https://t.me/KakashiAssinaturasBot
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 01
+
+
+
+
+Grau dos adjetivos
+Basicamente, qualidades podem ser comparadas e intensificadas pela via da flexão de grau
+comparativo (mais belo, menos belo ou tão belo quanto) e superlativo (muito belo, tão belo,
+belíssimo).
+Vejamos a divisão que cai em prova:
+Comparativo:
+O grau comparativo pode ser de superioridade, inferioridade ou igualdade.
+        ​      Ex: Sou mais/menos                    ágil    (do)      que   você   =>   grau   comparativo   de
+        superioridade/inferioridade
+        ​               Sou tão ágil quanto/como você. => comparativo de igualdade
+Perceba que o elemento "do" é facultativo nas estruturas comparativas.
+Algumas palavras têm sua forma comparativa terminada em /or/. No latim, essa terminação
+significava “mais”, por essa razão o “mais” não aparece nessas formas: “melhor”, “pior”,
+“maior”, “menor”, “superior”. Por suprimir essa palavra, a gramática o chama de comparativo
+sintético.
+Temos que conhecer também o grau superlativo, que expressa uma qualidade em grau muito
+elevado. Divide-se em relativo e absoluto:
+
+
+Superlativo relativo:
+​        Ex: ​      Sou o melhor do mundo.
+        ​           Senna é o melhor do Brasil!
+Gradua uma qualidade/característica (“bom”) em relação a outros seres que também têm ou
+podem ter aquela qualidade, ou seja, em relação à totalidade (o mundo todo).
+
+
+Superlativo absoluto:
+Indica que um ser tem uma determinada qualidade em elevado grau. Não se relaciona ou
+compara a outro ser. Pode ocorrer com:
+​        1. uso de advérbios de intensidade (absoluto analítico): “sou muito esforçado” e
+​        2. de sufixos (absoluto sintético):
+​        ​          difícil => dificílimo; ​​        ​       ​         comum => comuníssimo;
+​        ​          bom => ótimo; ​          ​       ​       ​         magro => macérrimo.
+Assim, quando as Bancas falam em variação do adjetivo em grau, querem dizer que o adjetivo
+está sofrendo algum processo de intensificação, ou seja, terá seu sentido intensificado, por um
+advérbio (tão bonito), por um sufixo (caríssimo) ou por um substantivo (enxaqueca monstro), por
+exemplo.
+Para esquematizar, vejamos um quadro resumo:
+
+
+
+             Receita Federal (Analista Tributário) Língua Portuguesa                                          19
+             www.estrategiaconcursos.com.br                                                                   97
+
+                                          https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           20
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(TRT 9ª Região / 2022)
+Alterada a ordem do adjetivo na expressão, observa-se, de modo mais significativo, a mudança
+de sentido em:
+A) necessária reflexão.
+B) interesses alheios.
+C) vantagens fantásticas.
+D) verdadeiro produto.
+E) falsas notícias.
+Comentários:
+A única alternativa em que se observa mudança de sentido é na letra (D): "verdadeiro produto"
+tem o sentido de "produto certo", "o melhor produto" (superior aos concorrentes); já "produto
+verdadeiro" denota que é genuíno, original, não falsificado.
+As demais alternativas não apresentam mudança de sentido quando há troca de posição da
+palavra. Portanto,
+Gabarito Letra (D).
+
+
+(PGE-PE / ANALISTA JUDICIÁRIO / 2019)
+A própria palavra “crise” é bem mais a expressão de um movimento do espírito que de um juízo
+fundado em argumentos extraídos da razão ou da experiência.
+Os sentidos e a correção gramatical do texto seriam mantidos se fosse inserido o vocábulo do
+imediatamente após a palavra “espírito”.
+Comentários:
+Sim, nas estruturas comparativas, o “do” é facultativo.
+A própria palavra “crise” é bem mais a expressão de um movimento do espírito (do) que de um
+juízo fundado em argumentos extraídos da razão ou da experiência.
+Gabarito: questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            21
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                                 ADVÉRBIO
+O advérbio é classe invariável que se refere essencialmente ao verbo, indicando a circunstância
+em que uma ação foi praticada, como “tempo, lugar, modo...” .
+Porém, o advérbio também pode modificar adjetivos (você é muito linda), outros advérbios (você
+dança extremamente mal) e até mesmo orações inteiras (Infelizmente, o Brasil não vai bem).
+Quando modifica adjetivos e advérbios, o advérbio tem função de intensificar/acentuar o
+sentido.
+Quando se refere a uma oração inteira, normalmente indica uma opinião sobre o conteúdo
+daquela oração.
+
+
+
+
+        Apesar de invariável, existe um advérbio que aceita variação, é o advérbio TODO:
+                      Ex: Chegou todo sujo e a esposa o recebeu toda paciente.
+
+Usados em interrogativas, onde, como, quando, por que são advérbios interrogativos, justamente
+porque expressam circunstâncias como lugar, modo, tempo e causa, respectivamente.
+Vejamos esse uso nas interrogativas diretas (com ?) e indiretas (sem ?).
+              Onde você mora? ​            =>     Ignoro onde você mora.
+              Quando teremos prova? => Não sei quando teremos prova.
+              Como organizaram tudo? => Perguntei-lhes como organizaram tudo.
+              Por que tantos desistem? => Não disseram por que tantos desistem.
+Rigorosamente, “por que” é considerada uma locução adverbial interrogativa de causa.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             22
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(DPE-RS / 2022)
+ Nessa sociedade líquido-moderna de hiperconsumidores, o desejo satisfeito pelo consumo gera
+a sensação de algo ultrapassado; o fim de um consumo significa a vontade de iniciar qualquer
+outro. Nessa vida de hiperconsumo e para o hiperconsumo, a pessoa natural fica tentada com a
+gratificação própria imediata, mas, ao mesmo tempo, os cérebros não conseguem compreender
+o impacto cumulativo em um nível coletivo. Assim, um desejo satisfeito torna-se quase tão
+prazeroso e excitante quanto uma flor murcha ou uma garrafa de plástico vazia.
+No último período do quarto parágrafo, o vocábulo “Assim” é um advérbio que se refere ao
+modo como um desejo satisfeito torna-se prazeroso e excitante.
+Comentários:
+O vocábulo “Assim” é um advérbio que se refere ao modo como um desejo satisfeito DEIXA DE
+SER prazeroso e excitante.
+Leia novamente: Assim, um desejo satisfeito torna-se quase tão prazeroso e excitante quanto
+uma flor murcha ou uma garrafa de plástico vazia. (ou seja, não há prazer mais).
+Gabarito: questão incorreta.
+
+
+Circunstâncias adverbiais (valor semântico)
+Quando uma ação for praticada, ou melhor, quando um verbo for conjugado, podemos
+perguntar como, onde, quando, por que aquele verbo foi praticado.
+As respostas serão circunstâncias adverbiais, que podem ser expressas por advérbios, expressões
+com mais de uma palavra (as locuções adverbiais) e até orações (chamadas por isso de “orações
+adverbiais”). Veja:
+              Ex: ​    Estudo sempre (“advérbio” de tempo).
+                       Estudo a todo momento. (“locução adverbial” de tempo).
+                       Estudo sempre que posso. (“oração adverbial” de tempo).
+Vejamos algumas circunstâncias muito cobradas:
+
+        Dúvida: talvez, porventura, possivelmente, provavelmente, quiçá, casualmente,
+        mesmo, por certo.
+        Intensidade: muito, demais, pouco, tão, bastante, mais, menos, demasiado,
+        quanto, quão, tanto, assaz, que (= quão), tudo, nada, todo, quase,
+        extremamente, intensamente, grandemente, bem...
+        Negação: não, nem, nunca, jamais, de modo algum, de forma nenhuma,
+        tampouco, de jeito nenhum.
+        Afirmação: sim, certamente, realmente, decerto,                   efetivamente,   certo,
+        decididamente, deveras, indubitavelmente, com certeza.
+        Lugar: aqui, antes, dentro, ali, adiante, fora, acolá, atrás, além, lá, detrás, aquém,
+        cá, acima, onde, perto, aí, abaixo, aonde, longe, debaixo, algures (em algum
+        lugar), defronte, nenhures (em nenhum lugar), adentro, afora, alhures (em outro
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    23
+        www.estrategiaconcursos.com.br                                                             97
+
+                                     https://t.me/KakashiAssinaturasBot
+    Equipe Português Estratégia Concursos, Felipe Luccas
+    Aula 01
+
+
+
+             lugar), embaixo, externamente, a distância, à distância de, de longe, de perto,
+             em cima, à direita, à esquerda, ao lado, em volta.
+             Tempo: hoje, logo, primeiro, ontem, tarde, outrora, amanhã, cedo, dantes,
+             depois, ainda, antigamente, antes, doravante, nunca, então, ora, jamais, agora,
+             sempre, já, enfim, afinal, amiúde (frequentemente), breve, constantemente,
+             entrementes, imediatamente, primeiramente, provisoriamente, sucessivamente,
+             às vezes, à tarde, à noite, de manhã, de repente, de vez em quando, de quando
+             em quando, a qualquer momento, de tempos em tempos, em breve, hoje em
+             dia.
+             Modo: bem, mal, assim, adrede (de propósito), melhor, pior, depressa, acinte (de
+             propósito), debalde     (em    vão),  devagar,    calmamente,      tristemente,
+             propositadamente,      pacientemente,        amorosamente,         docemente,
+             escandalosamente, bondosamente, generosamente.
+             às pressas, às claras, às cegas, à toa, à vontade, às escondidas, aos poucos, desse
+             jeito, desse modo, dessa maneira, em geral, frente a frente, lado a lado, a pé, de
+             cor, em vão...
+
+Essa lista é apenas ilustrativa, mas não há como decorar o valor de cada advérbio, pois só o
+contexto dirá seu valor semântico.
+Na sentença “nunca mais quero ser eliminado”, o advérbio “mais” tem sentido de tempo. Já na
+sentença “cheguei mais rápido”, o advérbio traz ideia de intensidade/comparação.
+Não decore, busque o sentido global, no contexto!!!
+A terminação “-mente” é típica dos advérbios de modo, contudo pode ser omitida na primeira
+palavra quando temos dois advérbios modificando o mesmo verbo:
+​        ​          Ex: Ele fala rapidamente. Ele fala claramente => Ele fala rápida e claramente.
+Atenção! O “rápida” continua sendo advérbio. Não é adjetivo, pois não dá qualidade, mas sim
+modifica um verbo, dando a ele circunstância (de modo rápido).
+
+
+
+Advérbio com “aparência” de adjetivo
+O adjetivo é classe variável, mas pode aparecer invariável se referindo a um verbo; nesse caso,
+dizemos que ele tem “valor ou função de advérbio”.
+        ​           Ex: ​   A cerveja que desce redondo...
+Para você ter certeza de que se trata de um advérbio, tente mudar o gênero ou número do
+substantivo para ver se atrai alguma concordância...
+        ​           Ex: ​   As cervejas que descem redondo...
+Confirmado, a palavra em negrito é um advérbio e, portanto, permanece invariável.
+
+
+
+
+             Receita Federal (Analista Tributário) Língua Portuguesa                                 24
+             www.estrategiaconcursos.com.br                                                          97
+
+                                          https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(TCE-PB / AGENTE DOCUMENTAÇÃO / 2018)
+Quando nos referimos à supremacia de um fenômeno sobre outro, temos logo a impressão de
+que se está falando em superioridade.
+O vocábulo “logo” tem o sentido adverbial de imediatamente.
+Comentários:
+Exato. A impressão vem imediatamente após a referência à supremacia…
+Gabarito: correta!
+
+
+
+PALAVRAS E EXPRESSÕES DENOTATIVAS
+São palavras/expressões que parecem advérbios, muitas vezes até são classificadas como tal, mas
+não o são exatamente, porque não se referem a verbo, advérbio ou adjetivo.
+Adianto que é uma polêmica gramatical: as listas variam entre as gramáticas, alguns listam certas
+palavras denotativas como advérbios.... Porém, há algumas informações claras que precisamos
+saber e que caem em prova.
+O sentido é a parte mais importante!
+Vamos aos exemplos:
+              Designação: eis
+              Ex: Eis o filho do homem.
+
+
+              Explicação/Retificação: isto é, por exemplo, ou seja, a saber, qual seja, aliás, digo,
+              ou antes, quer dizer etc. Essas expressões devem ser isoladas por vírgulas.
+              Ex: ​    Comprei uma ferramenta, isto é, um martelo.
+                       Vire à direita, ou melhor, à esquerda, aliás, melhor ir reto mesmo.
+
+
+           Expletiva ou de realce: é que (ser+que), cá, lá, não, mas, é porque etc. (CAI
+       DEMAIS!)
+              A característica principal das palavras denotativas expletivas é: podem ser retiradas,
+              sem prejuízo sintático ou semântico. Sua função é apenas dar ênfase.
+              Ex: ​    São os pais que bancam sua faculdade, mas têm lá seus arrependimentos.
+                       Eu é que faço as regras.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  25
+        www.estrategiaconcursos.com.br                                                           97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+                       Quanto não vale um diamante desses?
+                       Vão-se os anéis, ficam os dedos.
+                       Ele riu-se e tremeu-se por dentro.
+                       Não me venha com historinhas!
+              Reforço que a retirada dessas expressões não altera o sentido nem causa erro
+              gramatical, apenas há uma perda de realce/ênfase.
+
+
+              Situação: então, mas, se, agora, afinal etc.
+              São verdadeiros marcadores discursivos, expressões que introduzem, situam um
+              comentário, muito comuns na linguagem falada.
+              Ex: ​    Afinal, quem é você?
+                                                       ==219a34==
+
+
+
+
+                       Então, você vai ao cinema ou não?
+                       Mas quem é essa pessoa que insiste em me ligar?
+              Observem que “afinal e então” não têm sentido de tempo, tampouco o “mas” tem
+              sentido de oposição; tais expressões apenas introduzem/situam uma fala.
+
+
+              Exclusão: somente, só, salvo, exceto, senão, sequer, apenas etc.
+              Ex: ​    Só frutos do mar estão à venda, exceto lagosta, que ninguém compra.
+                       Todos morreram, salvo um.
+
+
+              Inclusão: até, ainda, mesmo, também, inclusive etc.
+              Ex: ​    Qualquer pessoa, até/mesmo/ainda o mais ignorante, sabe isso!
+                       João é bombeiro, lutador também...
+A posição da palavra pode determinar sua classe e seu sentido, de acordo com a “parte” da
+frase que está sendo modificada pela palavra. Compare:
+                       Só João fuma charutos. (palavra denotativa de exclusão)
+                       João só fuma charutos. (advérbio de exclusão)
+                       João fuma charutos só. (adjetivo)
+No primeiro caso, “só” restringe “João”, excluindo outras pessoas: apenas João faz isso, mais
+ninguém. Trata-se de palavra denotativa de exclusão; no segundo, “só” restringe o verbo
+“fumar”, então João só pratica essa ação, apenas fuma, não faz outra coisa. Trata-se de advérbio
+de exclusão; no terceiro, “só” indica que João fuma “sozinho”. Trata-se de adjetivo.
+Essa é a lógica que deve ser aplicada às questões, especialmente quando a Banca pede
+“deslocamento” de palavras.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              26
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(PREF. SÃO JOSÉ DO RIO PRETO-SP / 2021)
+Expressão expletiva ou de realce: é uma expressão que não exerce função sintática.
+(Adaptado de: BECHARA, Evanildo. Moderna gramática portuguesa, 2009)
+Constitui uma expressão expletiva a expressão sublinhada em:
+(A) Conheço-o desde menino, e sempre esteve para morrer (5º parágrafo)
+(B) Espantei-me que o atingisse a morte de alguém tão distante de nossa convivência (3]
+parágrafo)
+(C) Esta cólica é que é o diabo, se eu fosse mulher ainda estava explicado (6º parágrafo)
+(D) Foi operado de apendicite quando ainda criança e até hoje se vangloria (9º parágrafo)
+(E) consta que de uns dias para cá está de namoro sério com uma jovem (14º parágrafo)
+Comentários:
+Expressão expletiva é aquela que pode ser retirada sem prejuízo ao sentido ou à correção. É
+utilizada como recurso estilístico, de ênfase, realce. Aqui a banca cobra a expressão expletiva
+mais típica: a locução "ser+que":
+Esta cólica é que é o diabo, se eu fosse mulher ainda estava explicado
+Esta cólica é o diabo, se eu fosse mulher ainda estava explicado.
+Gabarito letra C.
+
+
+(PRF / POLICIAL / 2019)
+Mas e antes dos sensores, como é que se fazia? Imagino que algum funcionário trepava na
+antena mais alta no topo do maior arranha-céu e, ao constatar a falência da luz solar, acionava um
+interruptor, e a cidade toda se iluminava.
+A correção gramatical e os sentidos do texto seriam mantidos caso se suprimisse o trecho “é
+que”, em “como é que se fazia”.
+Comentários:
+A expressão “é que” é expletiva, foi usada apenas para realce, ênfase. Portanto, pode ser
+retirada sem qualquer prejuízo sintático ou semântico:
+“como é que se fazia”
+“como se fazia” (como era feito).
+Gabarito: questão correta.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                27
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                                 ARTIGO
+O artigo é classe variável em gênero e número que acompanha substantivos, indicando se o
+substantivo é masculino ou feminino, singular ou plural, definido ou indefinido.
+Por sempre estar modificando um substantivo, sempre exerce a função de adjunto adnominal.
+Pode ocorrer aglutinado com preposições (em e de): “no”, “na”, “dos”, “das”.
+O artigo definido (o, os, a, as) se refere a um substantivo de forma precisa, familiar: “o carro”, “a
+casa”, nesse caso, indicando que aquele “carro” ou aquela “casa” são conhecidos ou já foram
+mencionadas no texto.
+              Ex: Na porta havia um policial parado. Assim que me viu, o policial sacou sua arma.
+Observe que na segunda referência ao policial, ele já é conhecido, já foi mencionado, é aquele
+que estava parado na porta. Isso justifica o uso do artigo definido, no sentido de familiaridade.
+Por essa razão, a ausência do artigo deixa o enunciado indefinido, mais genérico:
+             Ex: ​     Não dou ouvidos ao político (com artigo definido: político específico,
+      definido)
+                       Não dou ouvidos a político (sem artigo definido: qualquer político, em geral)
+O artigo definido diante de um substantivo indica que este é familiar, conhecido ou que já foi
+mencionado. Por essa razão, quando tratamos de um nome em sentido geral, sem especificar,
+não deve haver artigo e, consequentemente, não haverá crase (artigo “a”+ preposição “a”).
+Por outro lado, se um termo já trouxer determinantes que o especifiquem, não poderemos
+considerá-lo genérico, então deve-se usar artigo definido.
+Esse fato explica várias regras de crase, como diante da palavra casa e de alguns nomes de
+lugares (topônimos) que não trazem artigo (Portugal, Roma, Atenas, Curitiba, Minas Gerais,
+Copacabana).
+Observe:
+              Ex: Estou em casa (sem artigo).
+                   Estou na casa de mamãe (a casa é determinada, então deve ter artigo definido).
+Pelo mesmo raciocínio, temos:
+              Ex: Vou a Paris (sem artigo).
+                   Vou à Paris dos meus sonhos (“Paris” está determinada => artigo definido)
+Após o pronome indefinido “todo”, o artigo definido indica “completude”, “inteireza”:
+              Ex: Toda casa precisa de reforma. (todas as casas, qualquer casa, casas em geral)
+                   Toda a casa precisa de reforma. (a casa inteira)
+Por sua vez, o artigo indefinido (um, uns, uma, umas) se refere ao substantivo de forma vaga,
+inespecífica:
+                                              “um carro qualquer”
+                                           “uma casa entre aquelas”
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   28
+        www.estrategiaconcursos.com.br                                                            97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Pode também expressa intensificação:“ela tem uma força!”
+Ou ainda aproximação: “ela deve ter uns 57 anos”.
+Assim como os definidos, também pode ocorrer aglutinado com preposições (em e de): “duns”,
+“dumas”, “nuns”, “numas”.
+Por outro lado, o artigo, ao lado de substantivo comum no singular, também pode ser usado para
+universalizar uma espécie, no sentido de “todo”:
+                                         “o (todo) homem é criativo”
+                                        “o (todo) brasileiro é passivo”
+                                 “a (toda) mulher sofre com o machismo”
+                                 “uma (toda) mulher deve ser respeitada”
+                     “uma empresa deve ser lucrativa” (toda/qualquer empresa).
+                                                       ==219a34==
+
+
+
+
+(TJ-PB / 2022)
+“As intervenções autorizadas são a minoria, apesar de a gravidez nessa idade apresentar alto
+risco à saúde da gestante e de o aborto legal ser previsto em lei nos casos de estupro, o que
+automaticamente inclui meninas engravidadas antes de completar 14 anos.”
+No período acima, há
+A) cinco artigos.
+B) seis artigos.
+C) sete artigos.
+D) oito artigos.
+Comentários:
+São artigos, os termos sublinhados:
+“As intervenções autorizadas são a minoria, apesar de a gravidez nessa idade apresentar alto
+risco à saúde da gestante e de o aborto legal ser previsto em lei nos casos de estupro, o que
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            29
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+automaticamente inclui meninas engravidadas antes de completar 14 anos.”.
+Apenas um comentário sobre "à saúde": quando há o fenômeno da crase é porque temos um
+"a" preposição e um "a" artigo.
+Gabarito: Letra (C).
+
+
+(PRF / POLICIAL / 2019)
+Mas e antes dos sensores, como é que se fazia? Imagino que algum funcionário trepava na
+antena mais alta no topo do maior arranha-céu e, ao constatar a falência da luz solar, acionava um
+interruptor, e a cidade toda se iluminava.
+A substituição da locução “a cidade toda” por toda cidade preservaria os sentidos e a correção
+gramatical do período.
+Comentários:
+O artigo faz toda a diferença no sentido:
+“a cidade toda”— a cidade inteira, a cidade por completo.
+“toda cidade”— todas as cidades, qualquer cidade.
+Gabarito: questão incorreta.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                30
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                                 NUMERAL
+O numeral é mais um termo variável que se refere ao substantivo, indicando quantidade, ordem,
+sequência e posição.
+Como sabemos, ter “papel adjetivo é referir-se a substantivo”. Então, podemos ter numerais
+substantivos e adjetivos.
+      ​ Ex: Duas meninas chegaram [numeral adjetivo, pois acompanha um substantivo], eu
+          conheço as duas [numeral substantivo, pois substitui o substantivo "meninas"].
+Os numerais são classificados em:
+
+
+     Ordinais: primeiro lugar, segunda comunhão, terceiras intenções... septuagésimo
+                                quarto, sexagésimo quinto...
+
+                          Cardinais: um cão, duas alunas, três pessoas...
+
+                    Fracionários: um terço, dois terços, quatro vinte avos...
+
+               Multiplicativos: o dobro, o triplo, cabine dupla, duplo carpado...
+
+
+“Último, penúltimo, antepenúltimo, derradeiro, posterior, anterior” são considerados meros
+adjetivos, não numerais.
+Os numerais também podem sofrer derivação imprópria e funcionar como adjetivos em casos
+como:
+                        “Este é um artigo de primeira/primeiríssima qualidade.”
+                                    “Teu clube é de segunda categoria.”
+
+
+Substantivos que expressam quantidade exata de seres/objetos são chamados de “numerais
+coletivos” ou “substantivos coletivos numéricos”:
+      a) par, dezena, década, dúzia, vintena, centena, centúria, grosa, milheiro, milhar...
+      b) século, biênio, triênio, quadriênio, lustro ou quinquênio, década ou decênio, milênio,
+      centenário (anos); tríduo e novena (dias); bimestre, trimestre, semestre (meses).
+
+
+Então, palavras como “milhão, bilhão, trilhão” podem ser classificadas como substantivos ou
+numerais.
+
+
+Flexionam-se em gênero os numerais cardinais um, dois e as centenas a partir de duzentos (um,
+uma, dois, duas, duzentos, duzentas, trezentos, trezentas...).
+Por fim, acrescento que “ambos” e “zero” são considerados numerais.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               31
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(CÂMARA TABOÃO DA SERRA-SP / 2022)
+Assinale a alternativa que apresenta um numeral:       ==219a34==
+
+
+
+
+A) Eu estava triste, até que um certo alguém cruzou o meu caminho.
+B) Uma boa educação é importante para formar o caráter do indivíduo.
+C) Foi um presente te encontrar!
+D) Fui à livraria e comprei somente um livro, embora eu quisesse comprar mais.
+E) Hoje faz um lindo dia!
+Comentários:
+Questão trata da diferença entre numeral e artigo indefinido. Quando há nítida indicação de
+quantidade, o termo é numeral; já, se há sentido de indeterminação, é um artigo indefinido.
+Assim, a única alternativa que traz o sentido de quantidade, ou seja, que é um numeral é a Letra
+(D).
+Gabarito: Letra (D).
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              32
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                          INTERJEIÇÃO
+Interjeição é classe gramatical invariável que expressa emoções e estados de espírito. Servem
+também para fazer convencimento e normalmente sintetizam uma frase exclamatória (Puxa!) ou
+apelativa (Cuidado!):
+              Olá! Oba! Nossa! Cruzes! Ai! Ui! Ah! Putz! Oxalá! Tomara! Pudera! Tchau!
+Não reproduzo aqui as tradicionais listas de interjeições e seus sentidos, porque não vale a pena
+decorar.
+
+A lista é infinita, então é preciso verificar no contexto qual emoção é transmitida pela interjeição.
+
+As locuções interjetivas são grupos de palavras que equivalem a uma interjeição, como: Meu
+Deus! Ora bolas! Valha-me Deus!
+
+
+
+
+     Qualquer expressão exclamativa que expresse uma emoção,                       numa    frase
+     independente, com inflexão de apelo, pode funcionar como interjeição.
+
+     Lembre-se dos palavrões, que são interjeições por excelência e variam de sentido em
+     cada contexto.
+
+
+
+
+(CRMV-MA / 2022)
+Considerei, por fim, que assim é o amor, oh! minha amada; de tudo que ele suscita e esplende e
+estremece e delira em mim existem apenas meus olhos recebendo a luz de teu olhar. Ele me
+cobre de glórias e me faz magnífico.
+Considerando as ideias, os sentidos e os aspectos linguísticos do texto apresentado, julgue o
+item.
+
+No texto, o termo “oh!” (linha 11), pertencente à classe das interjeições, exprime surpresa e
+admiração por parte do autor.
+Comentários:
+De fato, "oh" é uma interjeição, mas não exprime surpresa, apenas admiração. Portanto,
+Gabarito: questão incorreta.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    33
+        www.estrategiaconcursos.com.br                                                             97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                                       PALAVRAS ESPECIAIS
+
+Como vimos ao longo dessa aula, certas palavras podem apresentar mais de uma classificação
+morfológica ou sentido. Sistematizaremos aqui as principais funções de algumas delas, muito
+cobradas em prova.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          34
+        www.estrategiaconcursos.com.br                                                   97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                                     ==219a34==
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           35
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+(TRT 4ª Região / 2022)
+Aonde o homem ia, o peixinho o acompanhava a trote, que nem um cachorrinho. (1º parágrafo)
+
+
+Considerando o contexto, os termos sublinhados constituem, respectivamente,
+A) um pronome, um artigo, um artigo e uma preposição.
+B) uma preposição, um pronome, um pronome e um artigo.
+C) um pronome, um pronome, um pronome e um artigo.
+D) um artigo, um artigo, um artigo e uma preposição.
+E) um artigo, um artigo, um pronome e uma preposição.
+Comentário
+Vejamos cada uma das ocorrências em separado
+o homem ia = artigo
+o peixinho = artigo
+o acompanhava = pronome oblíquo
+a trote = preposição.
+Gabarito letra E.
+
+
+(PREF. PIRACICABA-SP / PROFESSOR / 2020)
+Os termos destacados na frase “A rede pública carece de profissionais satisfatoriamente
+qualificados até para o mais básico, como o ensino de ciências; o que dizer então de alunos com
+gama tão variada de dificuldades.” expressam, respectivamente, circunstância de
+a) dúvida e de afirmação.​ ​            ​       ​        b) tempo e de modo.
+c) inclusão e de intensidade.​          ​       ​        d) intensidade e de modo.
+e) inclusão e de negação.
+Comentário
+"até/inclusive" para o mais básico (sentido de inclusão); "mais básico" - aqui "mais" intensifica o
+adjetivo "básico".
+Gabarito letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 36
+        www.estrategiaconcursos.com.br                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+Evite usar “o mesmo” retomando pessoas/objetos, como se fosse “ele”, em construções como:
+              Ex: O suspeito chegou ao local. O mesmo fugiu dos policiais sem que os mesmos
+              pudessem perceber. (troque por “ele” e “eles”)
+
+
+Contudo, é correto usar “o mesmo”, invariável, quando significa “a mesma coisa/o mesmo fato”.
+              Ex: Todos têm dificuldade com essa matéria, o mesmo ocorrerá com você. (a mesma
+              coisa ocorrerá com você, isso também ocorrerá com você)
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            37
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+             QUESTÕES COMENTADAS - SUBSTANTIVO - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Em todas as frases abaixo há um termo sublinhado, composto da preposição DE + substantivo;
+assinale a frase em que esse termo não deve ser substituído pelo adjetivo indicado.
+A) A juventude é uma qualidade, e não uma questão de circunstância. / circunstancial.
+B) A juventude não é uma época da vida, é um estado de espírito. / espiritual.
+C) As crianças de hoje são tiranas. / atuais.
+D) As águas dos rios são potáveis. / fluviais.
+E) Os tamanhos das letras variam. / literais.
+Comentários:
+Locuções adjetivas que indicam "posse/pertinência" não podem ser substituídas por adjetivos,
+pois não há perfeita equivalência.
+"tamanho da letra" é diferente de "tamanho literal".
+Literal significa: que reproduz letra por letra, palavra por palavra de um texto ou de uma parte
+dele; que reproduz um texto ou uma fala na sua integridade
+Gabarito letra E.
+
+
+   2. (FGV / RECEITA FEDERAL / 2023)
+Um site especializado publicou o seguinte texto sobre uma das atribuições do auditor fiscal:
+“Segundo o Art. 6º da Lei nº 10.593/2002 é atribuição dos ocupantes do cargo de Auditor-Fiscal
+da Receita Federal do Brasil: elaborar e proferir decisões ou delas participar em processo
+administrativo-fiscal, bem como em processos de consulta, restituição ou compensação de
+tributos e contribuições e de reconhecimento de benefícios fiscais.”
+
+
+A elaboração de um texto supõe cuidados com aspectos diversos. Sobre a estruturação desse
+pequeno segmento textual, assinale a afirmativa correta.
+A) O vocábulo inicial “Segundo” supõe a existência de uma outra atribuição antes citada.
+B) O termo “bem como” mostra valor comparativo.
+C) O termo “delas” se refere possivelmente ao termo “atribuições”, ausente desse segmento
+textual.
+D) O termo “processo administrativo-fiscal” poderia estar na forma plural “processos
+administrativos-fiscais”.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                38
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+E) “consulta”, “restituição”, “compensação” e “reconhecimento” documentam o processo de
+nominalização.
+Comentários:
+A) Incorreto. O vocábulo inicial “Segundo” indica conformidade. Essa história de "outra
+atribuição antes citada" faria sentido se fosse um numeral ordinal.
+B) Incorreto. O termo “bem como” mostra valor aditivo.
+C) Incorreto. O termo “delas” se refere a “decisões".
+D) Incorreto. O termo “processo administrativo-fiscal” poderia estar na forma plural “processos
+administrativo-fiscais”, uma vez que, na flexão de adjetivos compostos, como regra, só o
+segundo elemento se flexiona.
+E) Correto. Os substantivos “consulta”, “restituição”, “compensação” e “reconhecimento”
+                                                       ==219a34==
+
+
+
+
+documentam (exemplificam) o processo de nominalização (transformação de palavra de outra
+classe em substantivo). A nominalização típica da banca é transformar verbo em substantivo.
+Gabarito letra E.
+
+
+   3. (FGV – Soldado - PM SP / 2022)
+“No Izakaya Bar, em Kyoto, o dono perdeu a paciência ao ver os turistas trazendo comida para
+consumir em suas mesas, usando os pratos como cinzeiros e sacudindo suas cinzas de cigarro no
+chão. A solução foi fingir que estava lotado quando via grupos com mais de cinco turistas se
+aproximando.”
+A expressão verbal que mostra inadequação na substituição por um substantivo cognato, é
+A) “o dono perdeu a paciência” / o dono mostrou perda de paciência.
+B) “ao ver os turistas” / com a visão dos turistas.
+C) “para consumir em suas mesas” / para consumição em suas mesas.
+D) “usando os pratos” / fazendo uso dos pratos.
+E) “A solução foi fingir que estava lotado” / A solução foi o fingimento de que estava lotado.
+Comentários:
+Consumir gera o substantivo cognato “consumo”, não “consumição”, que indica o ato de
+destruir-se.
+Gabarito Letra C
+
+
+   4. (FGV – Professor de Matemática - SEED-AP / 2022)
+Entre as opções abaixo, assinale aquela em que o aumentativo sublinhado perdeu o valor de
+aumentativo, designando uma outra realidade.
+
+
+A) O entregador tocou a campainha e ficou esperando no portão.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  39
+        www.estrategiaconcursos.com.br                                                           97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+B) O fazendeiro tinha um cachorrão para vigiar a plantação.
+C) O panelão da feijoada já estava sobre o fogão.
+D) O apartamento tinha um varandão na frente.
+E) Na parte de trás, havia um terrenão para o plantio de frutas.
+Comentário:
+Quando a banca diz: “perdeu o valor de aumentativo”, quer um aumentativo que não tenha
+relação com tamanho ou dimensão.
+“Portão” aqui não é uma porta grande, é um tipo totalmente diferente de entrada. Tanto é, que
+temos o “portãozinho”. Então, aqui o aumentativo exprime uma noção diferente, uma “nova
+realidade”.
+Nas demais alternativas, temos mero sentido de “tamanho grande”.
+Gabarito Letra A
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Observe a frase a seguir.
+É importante aprender muitas coisas / É importante o aprendizado de muitas coisas.
+O mesmo processo de substituição de um verbo por um substantivo correspondente foi feito de
+forma adequada em:
+A) É impossível ocultar a desonestidade / É impossível o ocultismo da desonestidade;
+B) Morrer é o ato final da existência humana / A mortandade é o ato final da existência humana;
+C) Enfrentar as dificuldades é o caminho da felicidade / O enfrentamento das dificuldades é o
+caminho da felicidade;
+D) Oferecer amizade é atitude rara / O ofertório de amizade é atitude rara;
+E) O mais difícil é viver / O mais difícil é a vivacidade.
+Comentários:
+Note que o processo de nominalização que ocorre no exemplo do enunciado (aprender =>
+aprendizado) está expresso na Alternativa C: enfrentar => enfrentamento.
+Nas demais alternativas, por mais que haja uma relação de derivação, não há relação de sentido
+mantida. Gabarito letra C.
+
+
+   6. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+“Até mesmo de um corpúsculo disforme pode sair um espírito realmente forte e virtuoso”.
+Nessa frase, há uma forma diminutiva de corpo; a frase abaixo em que o diminutivo sublinhado
+perdeu o sentido original de diminutivo e passou a significar outra realidade é:
+A) Havia na parede uma portinhola por onde se compravam as entradas para o jogo;
+B) Era uma revistinha francesa que cabia no bolso da camisa;
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               40
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) Os alunos verificaram na folhinha as datas previstas para as provas finais;
+D) Comeu muitos biscoitinhos de araruta, gostosíssimos;
+E) Apesar de ser um vidrinho bem diminuto, o preço era alto.
+Comentários:
+Questão direta. A banca pede o caso em que o diminutivo não indica redução do tamanho, mas
+sim indica um sentido totalmente diferente. Isso ocorre com “folhinha”, que não é uma folha
+pequena, mas sim um calendário, uma agenda. Gabarito letra C.
+
+
+   7. (FGV / TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+“O fim das penas não é atormentar, perseguir e afligir um ser sensível... Seu fim é apenas impedir
+que o réu cause novos danos aos seus concidadãos e dissuadir os outros de fazerem o mesmo”.
+Se quiséssemos nominalizar todas as ações sublinhadas, deveríamos trocar os verbos por
+substantivos; nesse caso, a substituição inadequada seria:
+A) atormentar um ser sensível / atormentação de um ser sensível;
+B) perseguir um ser sensível / perseguição de um ser sensível;
+C) afligir um ser sensível / aflição de um ser sensível;
+D) impedir que o réu cause novos danos / impedimento de o réu causar novos danos;
+E) dissuadir os outros / dissuasão dos outros.
+Comentários:
+Vejamos o processo de nominalização dos verbos das alternativas:
+Atormentar => atormentação
+Perseguir => perseguição
+Afligir => afligimento
+Impedir => impedimento
+Dissuadir => dissuasão
+Note que "aflição" ânsia, agonia, angústia. Gabarito: Letra C.
+
+
+7. (FGV / MPE-AL / TÉCNICO / 2018)
+“No caixa, outras freguesas perguntaram se ela tinha restaurante.”
+Nesse trecho, o termo “caixa” passou a ser aparentemente masculino, mas, na verdade, ocorreu
+aí uma elipse de um termo masculino “o funcionário da caixa.”
+O substantivo a seguir em que ocorre uma idêntica elipse que causa aparente mudança de
+gênero é:
+A) o celular / o telefone celular.
+B) o Municipal / o teatro Municipal.
+C) a capital / a cidade capital.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                41
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) o Palmeiras / o time do Palmeiras.
+E) a lava-jato / a operação lava-jato.
+Comentários:
+Questão que gerou muita dúvida na época, mas atente-se ao enunciado: idêntica elipse que
+causa aparente mudança de gênero. Em (A) e (B), todos os termos são masculinos, sem aparente
+mudança de gênero. O mesmo ocorre com a Letra (C), mas no gênero feminino.
+Em (D), "palmeiras" é originalmente um substantivo feminino, mas como time é substantivo
+masculino.
+Na alternativa (E), "lava-jato" originalmente é um substantivo masculino, mas como nome da
+operação, acaba levando o artigo feminino por extensão de "operação".
+Veja que, a princípio, tanto a Letra (D) quanto a (E) poderiam ser a resposta correta, mas o
+enunciado pede a "idêntica elipse" do enunciado: palavra feminina que aparentemente passa ao
+masculino. Por isso, Gabarito letra D.
+
+
+8. (FGV / CÂMARA DE SALVADOR-BA / ANALISTA LEGISLATIVO / 2018)
+A opção em que a nominalização do segmento sublinhado está INCORRETA é:
+A) “busca garantir aos cidadãos o acesso pleno” / busca a garantia aos cidadãos do acesso
+pleno”;
+B) “estabelecendo políticas públicas autoritárias” / com o estabelecimento de políticas públicas
+autoritárias;
+C) “investindo poucos recursos” / com o investimento de poucos recursos;
+D) “envolvendo civis em conflitos armados” / com o envolvimento de civis em conflitos armados;
+E) “proporcionar uma atuação transparente” / proporção de uma atuação transparente.
+Comentários:
+Nominalizar é o processo de tornar uma palavra substantivo ("nome"). Dentre as alternativas, a
+Letra (E) não traz o processo correto:
+"proporcionar" significa dar a oportunidade de algo a alguém; oferecer, promover, propiciar.
+"Proporção" tem o sentido de extensão, intensidade, tamanho; dimensão.
+Note que o significado do verbo e do nome na alternativa (E) são diferentes. Portanto, gabarito
+letra E.
+
+
+9. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+“O conceito de direitos humanos está sendo transformado num palavrão”. (Boris Casoy)
+Nessa frase, o vocábulo “palavrão”, formado com o sufixo -ão, perdeu o valor de aumentativo,
+passando a significar “palavra chula”. Indique a opção em que todas as palavras receberam um
+novo significado na forma aumentativa:
+A) cartão – papelão – portão;
+B) homenzarrão – garrafão – caixão;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                42
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) panelão – colherão – facão;
+D) jarrão – casarão – pratão;
+E) pezão – cabeção – fardão.
+Comentários:
+Algumas palavras perderam a noção de grau (diminutivo e aumentativo) com o uso. É o caso de
+cartão, papelão, portão, caixão, facão. Por isso, gabarito letra A.
+
+
+10. (FGV / ALERJ / ESPECIALISTA / TI / 2017) Adaptada
+Cidadãos e opiniões são substantivos formados com o sufixo -ão, que fazem seus plurais,
+respectivamente, como:
+A) escrivão / vulcão;
+B) cristão / mão;
+C) anão / corrimão;
+D) chorão / ancião;
+E) cartão / aldeão.
+Comentários:
+Esse tipo de questão é uma covardia, feita só para eliminar. Porém, queremos aprovação e temos
+que estar prontos para tudo.
+A banca pede as palavras com plural “ãos” e “ões”. Uma forma mais prática de resolver era
+eliminar de cara as alternativas A, D e E, pois sabemos que não existem as formas “escrivãos”,
+“chorãos” e “cartãos”... Então ficaríamos entre B e C. O plural de “mão” é “mãos” (nada de
+“mões”!). Assim eliminaríamos a B.
+Então, o gabarito só poderia ser a C, que traz dois substantivos com mais de uma forma possível,
+entre elas “ãos” e “ões”.
+Vejamos agora todos os plurais:
+A) escrivão (escrivães) / vulcão (vulcões ou vulcãos);
+B) cristão (cristãos) / mão (mãos);
+C) anão (anãos anões) / corrimão (corrimãos corrimões)
+D) chorão (chorões) / ancião (anciãos anciões anciães);
+E) cartão (cartões) / aldeão (aldeãos aldeões aldeães). Gabarito letra C.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               43
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                 QUESTÕES COMENTADAS - ADJETIVO - FGV
+   1. (FGV / Prefeitura de São José dos Campos – SP / 2024)
+Os adjetivos podem representar estados, características, qualidades ou relações; assinale a frase
+abaixo em que o adjetivo sublinhado indica uma qualidade.
+A) O tempo é aquele velho trapaceiro careca.
+B) Sou contemporâneo do meu tempo.
+C) A religião é a afirmação perpétua do presente.
+D) O tempo destrói somente o que é real.
+E) Nada é mais valioso do que este dia.
+Comentários:
+Além disso, a FGV entende que os adjetivos expressam relação, qualidade, característica ou
+estado.
+1. Relação: são objetivos, com função classificatória, precisam o conceito do substantivo,
+restringindo-lhe o significado (tempo, espaço, matéria, finalidade, propriedade, procedência).
+Muitos indicam terminologia técnica/científica. Derivam de substantivos, não admitem graus de
+intensidade, vêm depois do substantivo, não admitem deslocamento.
+        – Nota MENSAL, movimento ESTUDANTIL, casa PATERNA, vinho PORTUGUÊS,
+        relógio IMPORTADO, equipamento ELETRÔNICO, análise MORFOLÓGICA,
+        pressão ATMOSFÉRICA, animal OVÍPARO
+2. Qualidade: tem valor subjetivo/opinativo, varia em grau.
+        – ANACRÔNICA posição; música MARAVILHOSA; – decisão ACEITÁVEL
+3. Característica: tem valor objetivo, descritivo, aspecto físico. Indicam aspectos salientes do
+substantivo.
+        – diocese DISTANTE; frutas VERMELHAS; terno PRETO; vestido CURTO; parede
+        DURA, terreno PLANO, homem BAIXO, calça PRETA, mamoeiro CARREGADO
+4. Estado: indica uma condição (normalmente psicológica), normalmente transitória.
+        pessoa DOENTE; homem CONFUSO; aluno CANSADO, sapato VELHO
+O único adjetivo que indica uma avaliação pessoal, uma opinião, é "valioso". Note, inclusive, que
+veio com variação de grau superlativo.
+E) Nada é mais valioso do que este dia.
+Vejamos os demais:
+A) O tempo é aquele velho trapaceiro careca. (característica)
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               44
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Por exclusão, como todos são adjetivos puramente classificatórios e objetivos, podemos
+residualmente tratá-los como adjetivos de relação.
+B) Sou contemporâneo do meu tempo. (relação)
+C) A religião é a afirmação perpétua do presente. (relação)
+D) O tempo destrói somente o que é real. (relação)
+Gabarito letra E.
+
+
+   2. (FGV / DNIT / 2024)
+Os adjetivos, em língua portuguesa, podem indicar estados, características, qualidades e
+relações.
+Assinale a frase em que o adjetivo sublinhado indica estado.
+A) Um pão velho em paz é uma refeição melhor do que um banquete tenso.
+B) Aquele que não deseja que a realidade perturbe seus belos sonhos é um sábio.
+C) A pior loucura é ser sábio num mundo de loucos.
+D) O que o homem superior busca em si é o que o mau caráter busca nos outros.
+E) A verdadeira sabedoria é não parecer sábio.
+Comentários:
+Para nossa banca, "estado" é uma condição física ou psicológica, geralmente temporária.
+"velho" é o único adjetivo que indica estado, uma condição física do pão.
+Nas demais alternativas, temos "qualidades", pois os adjetivos indicam avaliações pessoais do
+observador.
+Gabarito letra A.
+
+
+   3. (FGV / MPE-SP / 2023)
+Todas as frases abaixo contêm adjetivos; assinale a frase em que esse adjetivo tem o valor de
+qualificação.
+A) Na guerra contra a pobreza, a lista de mortos é impublicável.
+B) Na inflação capitalista os preços sobem.
+C) A indústria farmacêutica não tem remédio.
+D) A crença de nosso cliente é o nosso maior patrimônio.
+E) Não mexa no que está quieto.
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            45
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Para a FGV, os adjetivos indicam relação, qualidade, característica ou estado. Vejamos:
+1. Relação: são objetivos, com função classificatória, precisam o conceito o conceito do
+substantivo, restringindo-lhe o significado (tempo, espaço, matéria, finalidade, propriedade,
+procedência). Derivam de substantivos, não admitem graus de intensidade, vêm depois do
+substantivo, não admitem deslocamento.
+– Nota MENSAL, movimento ESTUDANTIL, casa PATERNA, vinho PORTUGUÊS, relógio
+IMPORTADO, equipamento ELETRÔNICO
+2. Qualidade: tem valor subjetivo/opinativo, varia em grau, tem antônimo...
+– ANACRÔNICA posição; música MARAVILHOSA; – decisão ACEITÁVEL
+3. Característica: tem valor objetivo, descritivo, físico.
+– diocese DISTANTE; frutas VERMELHAS; terno PRETO; vestido CURTO; parede DURA
+4. Estado: indica uma condição (normalmente psicológica), normalmente transitória.
+pessoa DOENTE; homem CONFUSO; aluno CANSADO
+A única alternativa que claramente mostra uma valoração, uma opinião, é:
+D) A crença de nosso cliente é o nosso maior patrimônio.
+"maior" tem sentido de "mais importante", "mais valioso", "prioritário"; enfim, são opiniões.
+Vejamos os demais:
+"capitalista" e "farmacêutico" são adjetivos de relação, meramente classificatórios, objetivos e
+não admitem gradação ou inversão de ordem.
+"quieto" indica estado.
+"impublicável" equivale a "que não pode ser publicada". Existe opinião? Temos qualidade?
+Não. Esse "impublicável" tem um sentido de impossível de ser publicado, pelo número de
+mortos. É algo objetivo, no sentido de incontável, infinito.
+Gabarito letra D.
+
+
+   4. (FGV / TRT 13ª / 2022)
+Em todas as frases abaixo ocorre a presença do adjetivo “bom” / “boa” com diferentes sentidos.
+Assinale a frase em que há a indicação de um sinônimo inadequado para esse adjetivo.
+A) Uma boa risada é um raio de sol na casa / barulhenta.
+B) É um prazer navegar com bom tempo / estável.
+C) Aquele apartamento está sendo vendido por bom preço / barato.
+D) Acho que esse vestido está bom nela / bem ajustado.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 46
+        www.estrategiaconcursos.com.br                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+E) Aquele aluno tem uma boa letra / legível.
+Comentários:
+"Boa risada" não é sinônimo de "risada barulhenta". "Boa risada" é uma risada verdadeira,
+gostosa, não tem nada a ver com seu "volume".
+Nas demais, temos o sentido preciso e adequado pretendido para o adjetivo "bom". Então, o
+gabarito é a letra A.
+Vou utilizar essa questão como um "precedente jurisprudencial" da FGV.
+O gabarito não foi letra B e isso mostra que, para a banca, "bom tempo" significa "tempo
+estável". Em outras questões, a banca usou novamente essa expressão "bom tempo" e entendeu
+que esse "bom" tem valor objetivo, justamente por significar "estável".
+Gabarito letra B.
+
+
+   5. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Assinale a frase de texto informativo que aparece contaminada com a participação do
+enunciador.
+A) Foram colocados nas estradas vários postos de fiscalização de documentos no transporte de
+   cargas.
+B) Os policiais apreenderam o veículo roubado e conduziram o perigoso delinquente para a
+   delegacia.
+C) A campanha pública pela vacinação de crianças começa na próxima semana.
+D) Todos os jogadores do Flamengo participaram de uma homenagem ao antigo treinador.
+E) A Prefeitura disponibilizou vacinas contra a gripe para a população idosa.
+Comentário:
+Ao dizer “contaminada com a participação do enunciador”, a FGV quer dizer que o conteúdo é
+marcado por traços de subjetividade, com expressões opinativas, valorativas.
+Isso ocorre de forma evidente em “perigoso delinquente”; “perigoso” é adjetivo subjetivo,
+expressa uma opinião particular do autor, o que é “perigoso” para ele, pode não ser para outra
+pessoa.
+Nas demais alternativas, os adjetivos são neutros, meramente indicativos de categorizações
+definitivas, objetivas.
+Gabarito Letra B
+
+
+   6. (FGV – Recepcionista Legislativo - Câmara Taubatê-SP / 2022)
+Algumas palavras são empregadas fora de sua classe original; assinale a opção em que a palavra
+destacada teve sua classe original modificada, de adjetivo para substantivo.
+A) As ideias geniais são aquelas que nos espantamos de não ter tido antes.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             47
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+B) O que é necessário, jamais é ridículo.
+C) Os fatos são sonoros. O que importa são os silêncios por trás deles.
+D) O dinheiro que compra o pão dos pobres comprou antes o divertimento dos abastados.
+E) O problema do intelecto é um ponto de interrogação.
+Comentário:
+Em “pessoas pobres”, “pobres” é adjetivo, determinando o substantivo “pessoas”. Por outro
+lado, em “dos pobres”, temos artigo “os” e substantivo “pobres”.
+a) As ideias geniais (adjetivo) são aquelas que nos espantamos de não ter tido antes.
+b) O que é necessário, jamais é ridículo (adjetivo).
+c) Os fatos são sonoros. O que importa são os silêncios (substantivo) por trás deles.
+e) O problema do intelecto (substantivo) é um ponto de interrogação.
+Gabarito Letra D
+
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase em que a substituição do termo sublinhado foi feita de forma adequada ao sentido
+original é:
+A) Remédio sem efeito / Remédio ineficiente;
+B) Poço sem água / Poço árido;
+C) Livro sem autor / Livro desautorizado;
+D) Carro sem direção / Carro indireto;
+E) Flor sem perfume / Flor fedorenta.
+Comentários:
+Aqui temos a transformação de locuções adjetivas em adjetivos, sem que haja alteração de
+sentido.
+O caso em que há a manutenção do sentido no contexto utilizado é a Letra A: sem efeito =>
+ineficiente. Vejamos o erro das demais:
+Em relação à (B) sem água => árido, em determinados contextos, poderiam ser sinônimos, mas
+no caso de "poço", a ideia de estar "sem água", é não ter água, vazio. Nos casos de (C), (D) e (E)
+não há relação de sentido entre as locuções e os adjetivos. Gabarito letra A.
+
+
+   8. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Atribuições do oficial de justiça: “Cumprir mandados judiciais; preparar salas com livros e
+materiais necessários ao funcionamento das sessões de julgamento; buscar, na Secretaria e nos
+Gabinetes, os processos de cada Relator, separando-os e ordenando-os, colhendo assinaturas,
+quando for o caso; atender e dar informações aos advogados, partes e estagiários presentes na
+sessão, anotando os pedidos de preferência pela ordem de chegada dos interessados; auxiliar na
+manutenção da ordem e efetuar prisões, quando determinado; auxiliar o Secretário de Câmara,
+quando solicitado o auxílio; cumprir as demais atribuições previstas em lei ou regulamento”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                48
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Em cada opção a seguir foi destacado um substantivo do texto acima; a opção em que o adjetivo
+referente ao substantivo destacado está INCORRETO é:
+A) livros e materiais / necessários;
+B) advogados, partes e estagiários / presentes;
+C) pedidos / interessados;
+D) auxílio / solicitado;
+E) atribuições / previstas.
+Comentários:
+A única alternativa em que o adjetivo não se refere ao substantivo é a Letra C, pois tanto
+"pedidos" quanto "interessados" são substantivos, e não substantivo e adjetivo.
+"Necessários", "presentes", "solicitado" e "previstas" são adjetivos que caracterizam,
+respectivamente, "livros e materiais", " advogados, partes e estagiários", "auxílio" e
+"atribuições". Gabarito letra C.
+
+
+   9. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2020)
+Em todas as frases abaixo há adjetivos destacados; o adjetivo que representa a opinião do autor
+da frase é:
+A) O homem é o único animal que ri;
+B) As grandes obras podem não ser obras grandes;
+C) Os dias atuais passam mais rapidamente;
+D) As provas extensas trazem muito cansaço;
+E) Nuvens cinzentas anunciam chuva.
+Comentários:
+Note que o autor faz a distinção entre "grandes obras" e "obras grandes". Essa diferenciação,
+aliada ao verbo modalizador "podem" mostram o nosso gabarito.
+Nas demais alternativas, o adjetivo qualifica o substantivo, mas não há a carga opinativa do autor.
+Gabarito letra B.
+
+
+   10. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Segundo a gramática, os adjetivos podem indicar estados, qualidades, características ou
+relações. A frase abaixo em que o adjetivo sublinhado indica uma relação é
+A) “As borboletas mostram um voo desengonçado”.
+B) “As jabuticabas são frutas brasileiras”.
+C) “As goiabas estão nascendo bichadas”.
+D) “As nuvens estavam carregadas”.
+E) “As pitangas ficaram vermelhas rapidamente”.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 49
+        www.estrategiaconcursos.com.br                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Comentários:
+Adjetivos que indicam relação têm algumas características marcantes: (i) dificilmente vêm antes
+do substantivo e (ii) não têm grau de superioridade ou inferioridade. Vale lembrar também que
+adjetivos gentílicos ou pátrios possuem essa relação. Portanto, gabarito letra B.
+
+
+   11. (FGV / AL-RO / ANALISTA LEGISLATIVO / 2018)
+Observe as frases abaixo:
+O perigo nuclear iraniano
+A revista mensal carioca
+Nas frases há a presença de dois adjetivos de tipos diferentes; podemos deduzir que:
+A) a ordem dos adjetivos é completamente aleatória.
+                                                       ==219a34==
+
+
+
+
+B) no caso de dois adjetivos, um deve vir antes do substantivo.
+C) os adjetivos de nacionalidade são sempre os últimos.
+D) os adjetivos de relação precedem os qualificativos.
+E) adjetivos mais específicos precedem os demais.
+Comentários:
+Questão difícil, um pouco mais teórica. Vamos analisar as alternativas para ficar mais claro:
+A) ERRADA. Há uma ordem específica, pois se os adjetivos forem trocados de lugar haverá
+mudança de sentido.
+B) ERRADA. Não existe essa necessidade, inclusive causaria confusão se houvesse essa "regra".
+Todos os adjetivos nas orações têm a função de restringir o substantivo.
+C) ERRADA. "Carioca" não é nacionalidade, diferente do que acontece com "iraniano".
+D) ERRADA. Adjetivos relacionais ou de relação não podem ser modulados, ou seja, não aceitam
+quantificadores ou qualificativos como "muito" ou "pouco".
+E) CERTA. "Perigo iraniano" é mais amplo que "perigo nuclear iraniano". Da mesma forma que
+"revista carioca" é mais amplo que "revista mensal carioca". Assim, o adjetivo que especifica
+mais vem antes. Gabarito letra E.
+
+
+   12. (FGV / AL-RO / ANALISTA LEGISLATIVO / 2018)
+                                                   Observação
+Vivemos tão apressados que estamos perdendo a habilidade de observar detalhadamente o que
+nos cerca. Por outro lado, somos tão bombardeados por imagens e por estímulos visuais que,
+para nos proteger do excesso, aprendemos a não perceber o que está em volta, aprendemos a
+nos proteger. Por isso, a propaganda fica cada vez mais agressiva. Os produtos precisam, a
+qualquer custo, chamar a atenção do possível comprador, até que sejamos capazes de “ver sem
+olhar”. Ou seja, mesmo sem estarmos interessados, não podemos escapar de perceber uma
+imagem de propaganda.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 50
+        www.estrategiaconcursos.com.br                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Isso nos tem levado à autoproteção ou a uma atitude passiva, já que não é preciso fazer nenhum
+esforço, pois a propaganda e as imagens se encarregam de nos invadir.
+Entretanto, para apreciar a arte e saber ler imagens, uma primeira habilidade que precisamos
+renovar, estimular e desenvolver é a observação. Ela deve deixar de ser passiva para tornar-se
+ativa, voluntária: observo o que quero, porque quero, como quero, da forma que quero, quando
+quero observar.
+Se pedirmos a um amigo que descreva alguém, ele pode dizer genericamente: alto, magro, de
+meia-idade: ou então ser bem específico: tem aproximadamente 1 metro e oitenta, é magro, está
+vestido com uma calça azul, camisa branca, tênis, jaqueta de couro marrom, tem cabelos escuros,
+encaracolados, curtos, olhos azuis, usa costeletas, tem um sinal escuro do lado direito do rosto e
+cerca de 40 anos.
+Essa segunda descrição é mais detalhada e demonstra mais observação. Naturalmente, se eu
+estiver procurando tal pessoa, a partir dessa descrição detalhada, posso encontrá-la com mais
+facilidade.
+                                             OLIVEIRA, J. e GARCEZ, L. Explicando a Arte. Ed. Nova Fronteira. 2001.
+
+
+
+Uma das classes de palavras mais frequentes em descrições é a dos adjetivos que podem indicar
+estados, características, qualidades ou relações.
+Os adjetivos predominantes nos segmentos descritivos são os indicadores de
+A) qualidade.
+B) estado.
+C) traço psicológico.
+D) característica.
+E) relação
+Comentários:
+Questão que traz teoria e interpretação de texto. Para encontrarmos a resposta da questão,
+retomamos o texto:
+Se pedirmos a um amigo que descreva alguém, ele pode dizer genericamente: alto, magro, de
+meia-idade: ou então ser bem específico: tem aproximadamente 1 metro e oitenta, é magro, está
+vestido com uma calça azul, camisa branca, tênis, jaqueta de couro marrom, tem cabelos escuros,
+encaracolados, curtos, olhos azuis, usa costeletas, tem um sinal escuro do lado direito do rosto e
+cerca de 40 anos.
+Note que no trecho acima os adjetivos que são utilizados na descrição são referentes a
+características: alto, magro etc.
+O texto não se refere a "traço psicológico" ou "estado". Além disso, "qualidade" tem relação
+com juízo de valor, opinião e "relação" traz o sentido de origem. Portanto, gabarito letra D.
+
+
+   13. (FGV / BANESTES / ASSISTENTE SECURITÁRIO / 2018)
+Na escrita, pode-se optar frequentemente entre uma construção de substantivo + locução
+adjetiva ou substantivo + adjetivo (coragem de herói = coragem heroica).
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                 51
+        www.estrategiaconcursos.com.br                                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+O termo abaixo sublinhado que NÃO pode ser substituído por um adjetivo é:
+A) A maior preocupação do homem é a morte;
+B) A criação do homem é ideia de Deus;
+C) A inteligência do homem é infinita;
+D) Os amores do homem são passageiros;
+E) É efêmera a memória do homem.
+Comentários:
+A ideia é identificar o complemento nominal e o adjunto adnominal. Adjunto adnominal remete à
+noção de posse ou de agente da ação, por isso é possível a troca por "dele".
+Já o complemento nominal passa a ideia de passividade.
+Vejamos as alternativas:
+A) "Preocupação do homem" => preocupação dele (Adjunto Adnominal)
+B) "Criação do homem" => criação de Deus; o homem é criado (Complemento Nominal)
+C) "Inteligência do homem" => inteligência dele (Adjunto Adnominal)
+D) "Amores do homem" => amores dele (Adjunto Adnominal)
+E) "Memória do homem" => memória dela (Adjunto Adnominal). Portanto, gabarito letra B.
+
+
+   14. (FGV / BANESTES / ASSISTENTE SECURITÁRIO / 2018)
+A frase que NÃO apresenta qualquer forma de superlativação de um adjetivo é:
+A) Sou extraordinariamente paciente desde que as coisas sejam feitas do meu jeito;
+B) A lealdade a um partido reduz o maior dos homens ao nível mesquinho das massas;
+C) O ouro é um metal amarelo ultra-apreciado;
+D) Uma besteira menor, consciente, pode impedir uma besteira grande pra cachorro,
+inconsciente;
+E) Veja o meu caso: saí do nada e cheguei à extrema pobreza.
+Comentários:
+Vejamos as alternativas:
+A) "Extraordinariamente" exerce função de superlativo de "paciente".
+B) "o maior dos homens" e "nível mesquinho" são formas de superlativação.
+C) Prefixo "ultra" exerce função de superlativo de "apreciado".
+D) Expressão "pra cachorro" exerce função de superlativo de "grande".
+E) "Extrema" é adjetivo que qualifica "pobreza". Não há termo que exerça função de superlativo
+ao adjetivo "extrema". Gabarito letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             52
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   15. (FGV / BANESTES / ANALISTA ECONÔMICO / 2018)
+Na escrita, pode-se optar frequentemente entre uma construção de substantivo + locução
+adjetiva ou substantivo + adjetivo (esportes da água = esportes aquáticos).
+O termo abaixo sublinhado que NÃO pode ser substituído por um adjetivo é:
+A) A indústria causou a poluição do rio;
+B) As águas do rio ficaram poluídas;
+C) As margens do rio estão cheias de lama;
+D) Os turistas se encantam com a imagem do rio;
+E) Os peixes do rio são bem saborosos.
+Comentários:
+A ideia é identificar o complemento nominal e o adjunto adnominal. Adjunto adnominal remete à
+noção de posse ou de agente da ação, por isso é possível a troca por "dele".
+Já o complemento nominal passa a ideia de passividade. Por esse motivo, não pode ser
+substituído por um adjetivo
+Vejamos as alternativas:
+A) "Poluição do rio" => poluição que sofre o rio, ou seja, o rio é o agente passivo (Complemento
+Nominal)
+B) "Águas do rio" => águas fluviais (Adjunto Adnominal)
+C) "Margens do rio" => margens fluviais (Adjunto Adnominal)
+D) "Imagem do rio" => imagens fluviais (Adjunto Adnominal)
+E) "peixes do rio" => peixes fluviais (Adjunto Adnominal). Portanto, gabarito letra A.
+
+
+   16. (FGV / BANESTES / TÉCNICO BANCÁRIO / 2018)
+A frase em que a substituição dos termos sublinhados por um adjetivo é feita de forma adequada
+é:
+A) Um beijo de minha mãe fez de mim um pintor / maternal;
+B) O importante na obra de arte: o espanto / arteira;
+C) Toda arte é imitação da natureza / naturalista;
+D) Apreciar os defeitos do próximo é ter talento? / alheios;
+E) Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de
+suportar / individualista.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. O pronome possessivo "minha" restringe "mãe", o que inviabiliza utilizar
+"maternal".
+B) ERRADA. "De arte" equivale a “artístico”, e não “arteiro”.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               53
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) ERRADA. Note que “natureza” é o sujeito passivo da ação - a natureza é imitada. Assim, não
+há como substituir a locução.
+D) CERTA.
+E) ERRADA. “Individualista” tem o sentido de "egoísta", que não remete a "um indivíduo".
+Gabarito letra D.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            54
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+   QUESTÕES COMENTADAS - EXPRESSÕES COM SUBSTANTIVO E
+                   ADJETIVO - FGV
+
+   1. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a frase em que a substituição da locução sublinhada por um termo equivalente foi feita
+de forma adequada.
+
+A) Vou usar o computador com modéstia. Esse equipamento invade a privacidade humana. /
+moderadamente.
+
+B) Os computadores do futuro pesarão não mais que uma tonelada e meia. / futurologistas.
+
+C) Felizes aqueles que conhecem os deuses do campo. / camponeses.
+
+D) A natureza é um dicionário de enorme tamanho. / mensurável.
+
+E) Os moradores dos campos são melhores que os das cidades. / urbanos.
+
+Comentários:
+
+Aqui a banca pede a substituição de locuções adverbiais e adjetivas por termos equivalentes. É
+importante relembrar que nem toda locução tem uma palavra perfeitamente equivalente. Aliás, o
+motivo principal de usarmos locuções é a ausência de uma palavra perfeitamente equivalente.
+
+A) Vou usar o computador com modéstia. Esse equipamento invade a privacidade humana. /
+modestamente.
+
+B) Os computadores do futuro pesarão não mais que uma tonelada e meia. / futuros.
+
+"futurologista" é adepto da futurologia, doutrina que estuda o futurismo tecnológico ou as
+tendências do futuro.
+
+C) Felizes aqueles que conhecem os deuses do campo. / camponeses.
+
+A locução adjetiva "do campo" significa "oriundo do campo ou relativo ao campo", mesmo
+sentido de "camponês".
+
+D) A natureza é um dicionário de enorme tamanho. / enorme.
+
+"mensurável" é aquilo que pode ser medido.
+
+*E) Os moradores dos campos são melhores que os das cidades. / *urbanos.
+
+Entendo que a letra E também está correta, um dos sentidos de "urbano" é justamente morar na
+cidade.
+
+Veja a prova no dicionário Caldas Aulete.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              55
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+2. Que pertence a cidade ou a ela se refere (conglomerado urbano, transporte urbano): Estilo de
+vida urbano. [ Antôn.: inurbano, rústico. ]
+3. Que apresenta caráter típico de cidade; CITADINO: Aumentavam cada vez mais os conflitos
+urbanos. [ Antôn.: campesino, rural. ]
+4. Que vive na cidade (cidadão urbano)
+Aqui, a banca, como faz habitualmente, elaborou uma questão com mais de uma resposta e não
+admitiu um erro indiscutível.
+
+Gabarito letra C.
+
+
+
+   2. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a opção que mostra uma impropriedade léxica, ou seja, um emprego inadequado da
+                                                       ==219a34==
+
+
+
+
+expressão “graças a”.
+
+A) Graças aos treinos da semana, o time apresentou-se bem.
+
+B) O caminhão bateu no poste graças ao óleo derramado na pista.
+
+C) Os alunos escreviam bem graças às leituras que faziam, por recomendação dos professores.
+
+D) Graças ao tempo disponível, o operário completou a tarefa.
+
+E) Os fiéis davam sempre graças a Deus pelos bens recebidos.
+
+Comentários:
+
+"graças a" é uma locução prepositiva de causa que só deve ser usada com valor positivo. É
+inadequado usar "graças a" para eventos negativos, desagradáveis, trágicos. Esse é justamente o
+erro da letra B:
+
+B) O caminhão bateu no poste graças ao óleo derramado na pista.
+
+Derramamento de óleo e acidente de caminhão não são eventos a que devemos dar "graças".
+
+Gabarito letra B.
+
+
+
+   3. (FGV / CGM de Belo Horizonte - MG / 2024)
+
+Todas as frases abaixo mostram um grupo nominal formado por substantivo + adjetivo. Assinale a
+frase em que a troca de posição entre os dois modifica o sentido do grupo.
+
+A) A agricultura fomenta a sensatez, sensatez de excelente índole.
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               56
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) O trabalho do lavrador é o trabalho natural do homem, o único que acalma as paixões e
+vigoriza o corpo.
+
+D) Lembrai-vos que as mais belas coisas do mundo são as mais inúteis: lírios e pavões, por
+exemplo.
+
+Comentários:
+
+Embora exista ainda alguma comum noção de posse, a diferença de posição do adjetivo
+"próprias" é extremamente sutil. Como regra, o adjetivo anteposto tende a ser mais "avaliativo",
+ao passo que o posposto tende a ser mais "objetivo".
+
+Quando anteposto, "próprio" expressa um valor reforçativo e restritivo, com finalidade enfática:
+
+Ex: João morreu na própria casa.
+
+A ideia é de que é relevante ter morrido na casa, e não em outro lugar. O foco está no lugar
+surpreendente, não na posse em si. Essa casa pode nem ser de propriedade de João. Esse é o
+mesmo valor reforçativo que temos em sentenças como: Ele próprio cozinhou o jantar. (ele
+mesmo, sozinho, não outra pessoa.)
+
+Agora veja a diferença:
+
+Ex: Ele morreu na casa própria.
+
+Aqui, a ideia é simplesmente de "posse/propriedade". A casa era dele, não era alugada,
+emprestada, era "própria", no sentido estrito e objetivo de "propriedade".
+
+Por isso, haveria mudança de sentido em:
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas (valor reforçativo).
+
+B) Nenhum pássaro voa alto demais se voa com as asas próprias (valor restrito de posse).
+
+Gabarito letra B.
+
+
+
+   4. (FGV / CGM de Belo Horizonte - MG / 2024)
+
+Todas as frases abaixo mostram um grupo nominal formado por substantivo + adjetivo. Assinale a
+frase em que a troca de posição entre os dois modifica o sentido do grupo.
+
+A) A agricultura fomenta a sensatez, sensatez de excelente índole.
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas.
+
+C) O trabalho do lavrador é o trabalho natural do homem, o único que acalma as paixões e
+vigoriza o corpo.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                57
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) Lembrai-vos que as mais belas coisas do mundo são as mais inúteis: lírios e pavões, por
+exemplo.
+
+Comentários:
+
+Embora exista ainda alguma comum noção de posse, a diferença de posição do adjetivo
+"próprias" é extremamente sutil. Como regra, o adjetivo anteposto tende a ser mais "avaliativo",
+ao passo que o posposto tende a ser mais "objetivo".
+
+Quando anteposto, "próprio" expressa um valor reforçativo e restritivo, com finalidade enfática:
+
+Ex: João morreu na própria casa.
+
+A ideia é de que é relevante ter morrido na casa, e não em outro lugar. O foco está no lugar
+surpreendente, não na posse em si. Essa casa pode nem ser de propriedade de João. Esse é o
+mesmo valor reforçativo que temos em sentenças como: Ele próprio cozinhou o jantar. (ele
+mesmo, sozinho, não outra pessoa.)
+
+Agora veja a diferença:
+
+Ex: Ele morreu na casa própria.
+
+Aqui, a ideia é simplesmente de "posse/propriedade". A casa era dele, não era alugada,
+emprestada, era "própria", no sentido estrito e objetivo de "propriedade".
+
+Por isso, haveria mudança de sentido em:
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas (valor reforçativo).
+
+B) Nenhum pássaro voa alto demais se voa com as asas próprias (valor restrito de posse).
+
+Gabarito letra B.
+
+
+
+   5. (FGV / DPE-RJ / TÉCNICO / 2019)
+Texto 7
+“O voo de Santos Dumont foi fruto de uma ideia revolucionária, assim como os
+microcomputadores e a rede que hoje chamamos de Internet”.
+No texto 7, o segmento “ideia revolucionária” poderia ter trocado a ordem de suas palavras
+(revolucionária ideia) sem que isso modificasse suas classes gramaticais; a opção abaixo em que
+isso também ocorre é:
+A) nova escultura;
+B) jovem professora;
+C) imigrante trabalhador;
+D) velho pescador;
+E) fanático marxista.
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                              58
+          www.estrategiaconcursos.com.br                                                       97
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Comentários:
+Preste atenção ao enunciado: o enunciado pede para que não ocorra troca de classe gramatical:
+"ideia revolucionária" (substantivo + adjetivo) e "revolucionária ideia" (adjetivo + substantivo).
+A única alternativa em que essa mesma condição ocorre é a Letra (A): tanto em "nova escultura"
+quanto em "escultura nova", "nova" é adjetivo" e "escultura", substantivo. Portanto, gabarito
+letra A.
+
+
+   6. (FGV / PREF. ANGRA DOS REIS-RJ / INSPETOR / 2019)
+Assinale a opção em que a correspondência adjetivo/substantivo está incorreta.
+A) doce / doçura.
+B) justa / justiça.
+C) prudente / prudência.
+D) hostil / hostilidade.
+E) Indiferente / indiferência.
+Comentários:
+O único par adjetivo/substantivo incorreto é a Letra E: o correto é "indiferença". Pequeno
+detalhe que acaba passando despercebido. Cuidado! Portanto, gabarito letra E.
+
+
+   7. (FGV / CÂMARA DE SALVADOR-BA / ASSISTENTE LEGISLATIVO / 2018)
+A relação substantivo / adjetivo que está correta é:
+A) social / socialista;
+B) complexidade / complexa;
+C) organização / organista;
+D) indivíduo / individualidade;
+E) reino / reinado.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. social (adjetivo) socialista (adjetivo);
+B) CERTA. complexidade (substantivo) complexa (adjetivo);
+C) ERRADA. organização (substantivo) organista (adjetivo). Contudo, nesta alternativa não há
+relação de significado entre as palavras.
+D) ERRADA. indivíduo (substantivo) individualidade (substantivo);
+E) ERRADA. reino (substantivo) reinado (substantivo). Gabarito letra B.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                59
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   8. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+“Mulheres de certa idade não têm idade certa”. Essa frase do Barão de Itararé mostra que a
+posição de alguns adjetivos traz modificação de sentido: “certa idade” não é o mesmo que
+“idade certa”.
+
+
+O mesmo acontece no seguinte par abaixo:
+A) bom vinho;
+B) resultado fantástico;
+C) sabor primoroso;
+D) ódio intenso;
+E) população pobre.
+Comentários:
+Note a diferença:
+"População pobre" significa uma população carente de recursos. Já, "pobre população" tem o
+sentido de coitada.
+Nas demais alternativas, a alteração de posição do adjetivo não acarreta alterações semânticas.
+Gabarito letra E.
+
+
+   9. (FGV / IBGE / ANALISTA CENSITÁRIO / 2017)
+“É preciso levar em conta questões econômicas e sociais”; se juntássemos os adjetivos
+sublinhados em forma de adjetivo composto, a forma correta, no contexto, seria:
+A) econômicas-sociais;
+B) econômico-social;
+C) econômica-social;
+D) econômico-sociais;
+E) econômicas-social.
+Comentários:
+Ao fundir dois adjetivos numa forma composta, o primeiro adjetivo fica em forma reduzida e
+invariável (em gênero e número) e somente o segundo vai ao plural. Logo, teremos:
+econômico-sociais. Gabarito letra D.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             60
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                QUESTÕES COMENTADAS - ADVÉRBIO - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” exemplifica uma classe
+gramatical diferente da das demais frases.
+A) Os deuses fizeram o campo mais esplendidamente e melhor que tudo.
+B) Em cada coisa criada por Deus, há mais do que se supõe, ainda que seja uma formiguinha.
+C) Lembrai-vos de que as mais belas coisas do mundo são as inúteis: lírios e pavões, por
+exemplo.
+D) Há boas razões para proteger a Terra. É o modo mais seguro e correto de prolongar a
+lucratividade.
+E) Turismo rende mais do que madeira.
+Comentários:
+
+O advérbio é classe gramatical invariável que modifica verbo, adjetivo ou outro advérbio.
+Quando modifica verbo, detalha o processo verbo, expressando alguma circunstância, alguma
+condição ou "ambiente" na ocorrência do verbo, como tempo, lugar, modo, intensidade, dúvida,
+afirmação, preço, inclusão, exclusão...
+
+Ex: Gil trabalha muito.
+
+Ex: As crianças chegaram ontem.
+
+Ex: Maria viaja bastante.
+
+Ex: Maria não viaja mais.
+
+Quando modifica adjetivo ou outro advérbio, funciona geralmente como um intensificador.
+
+Ex: Gil é muito rico.
+
+Ex: Gil é menos alto que Gal.
+
+Ex: Gil está menos irritado.
+
+Ex: A carne custa mais caro.
+
+Ex: As crianças chegaram muito cedo.
+
+Ex: As crianças chegaram tarde demais.
+
+Por isso, nesses exemplos, "mais", "menos", "muito", "pouco","bastante", "demais" são
+advérbios. Por serem invariáveis, não vão ao plural.
+
+Por outro lado, os vocábulos "mais", "menos", "muito", "pouco", "bastante", "demais" podem
+ser pronomes indefinidos, quando modificam substantivo, indicando quantidade vaga, imprecisa.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              61
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+Como são pronomes indefinidos, por regra são variáveis e podem ir ao plural para fazerem a
+devida concordância.
+
+"mais", "menos", "demais" são invariáveis mesmo como pronome indefinidos.
+
+Ex: Gil possui muitos/bastantes/poucos/mais/menos carros.
+
+Ex: Temos agora mais/menos tempo.
+
+A) Em "mais esplendidamente", "mais" modifica outro advérbio; logo, é advérbio.
+
+C) Em "mais belas", "mais" modifica adjetivo; logo, é advérbio.
+
+D) Em "mais seguro", "mais" modifica adjetivo; logo, é advérbio.
+
+E) Em "rende mais", "mais" modifica verbo; logo, é advérbio.
+
+Aqui, a banca explorou um detalhe para dificultar a questão.
+
+B) Em cada coisa criada por Deus, há mais do que se supõe, ainda que seja uma formiguinha.
+
+Na letra B, o substantivo está implícito: "há/existem mais (coisas, detalhes, elementos". Temos
+pronome indefinido.
+
+Gabarito letra B.
+
+
+   2. (FGV / Câmara Municipal de São Paulo / Técnico / 2024)
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” mostra valor de “tempo”.
+A) Os animais que o ser humano come não se extinguem. É por isso que temos mais galinhas do
+que águias neste país.
+B) Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo.
+C) Uma cultura não tem mais valor do que os seus bosques.
+D) O cavalo. A mais bela conquista que o homem já fez.
+E) O amanhecer é o momento mais bonito do dia, mas, quando ele chega, encontra a maioria
+das pessoas dormindo.
+Comentários:
+"mais" é advérbio de tempo em:
+B) B Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo.
+Tinha que aproveitá-lo antes; agora não tenho=não tenho mais.
+A) em "mais galinhas", "mais" modifica substantivo, indicando quantidade vaga. Portanto, é
+pronome indefinido.
+C) em "mais valor", "mais" modifica substantivo, indicando quantidade vaga. Portanto, é
+pronome indefinido.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              62
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) em "mais bela criatura", "mais" intensifica um adjetivo, indicando intensidade. Portanto, é
+advérbio de intensidade.
+E) D) em "mais bonito", "mais" intensifica um adjetivo, indicando intensidade. Portanto, é
+advérbio de intensidade.
+Gabarito letra B.
+
+
+   3. (FGV / PGM-NITERÓI / 2023)
+Na escrita, um só termo pode substituir, de forma adequada, uma locução ou mesmo toda uma
+oração. Em todas as opções abaixo há uma locução adverbial sublinhada; a frase em que a
+locução foi substituída adequadamente por um advérbio de mesmo sentido, é:
+A) A sobremesa foi servida em seguida às iguarias / seguidamente;
+B) De antemão, o governo deve garantir certa estabilidade jurídica para que os negócios se
+                                                       ==219a34==
+
+
+
+
+realizem / Antecipadamente;
+C) De quando em quando as medidas governamentais surtem o efeito pretendido /
+Frequentemente;
+D) O acidente de ontem, como de ordinário, ocorreu em função das péssimas condições da
+rodovia / popularmente;
+E) As ordens da polícia foram seguidas ao pé da letra pela população do local / preliminarmente.
+Comentários:
+A locução adverbial "de antemão" significa "com antecedência", "antecipadamente".
+Vejamos as demais:
+A) A sobremesa foi servida em seguida às iguarias / após/depois;
+"seguidamente" significaria "repetidamente".
+C) De quando em quando as medidas governamentais surtem o efeito pretendido /
+"eventualmente", "às vezes".
+"Frequentemente" significaria "habitualmente".
+D) O acidente de ontem, como de ordinário, ocorreu em função das péssimas condições da
+rodovia / de costume/ habitualmente;
+E) As ordens da polícia foram seguidas ao pé da letra pela população do local / literalmente.
+"preliminarmente" indicaria "anteriormente", "inicialmente".
+Gabarito letra B.
+
+
+   4. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase abaixo em que a substituição do segmento sublinhado por um advérbio foi feita de forma
+adequada é:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 63
+        www.estrategiaconcursos.com.br                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+A) Sem que se entendesse o motivo, o convidado aborreceu-se na festa / irresponsavelmente;
+B) Ia à academia poucas vezes / habitualmente;
+C) Dirigia com toda a atenção / atenciosamente;
+D) Mesmo sem estudo realizou a tarefa a contento / Intuitivamente;
+E) Enfrentou as dificuldades com coragem / ferozmente.
+Comentários:
+Vejamos as opções:
+A) ERRADA. "irresponsavelmente" é sem responsabilidade.
+B) ERRADA. "poucas vezes" é o mesmo que "raramente".
+C) ERRADA. "Atenciosamente" equivale a "gentilmente". No caso, o correto seria
+"atentamente".
+D) CERTA. "Mesmo sem estudo" é o equivalente a usar a intuição.
+E) ERRADA. "Ferozmente" está relacionado a "feroz", "ferocidade. Gabarito letra D.
+
+
+   5. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+“Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a liberdade,
+pelo menos com a latitude e o conceito que dela então se tinha” (texto 4).
+O vocábulo sublinhado aparece com o mesmo sentido em:
+A) A liberdade não mais existirá no mundo futuro;
+B) Todos terão mais liberdade que agora;
+C) A sociedade futura terá mais tempo disponível;
+D) Dois mais dois serão sempre quatro;
+E) No futuro, viajaremos mais que agora.
+Comentários:
+No enunciado, temos o “mais” como advérbio de tempo: já não conheceria a liberdade/conhecia
+antes, não conheceria agora.
+O mesmo sentido ocorre em: A liberdade não mais existirá no mundo futuro (já não existirá no
+futuro)
+Em B e C, temos “mais” pronome indefinido, pois está ligado a substantivos: “liberdade” e
+“tempo”, indicando quantidade vaga. Em D, o “mais” indica soma. Em E, indica intensidade.
+Gabarito letra A.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              64
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   6. (FGV / AL-RO / ASSISTENTE LEGISLATIVO / 2018)
+                                                      Texto 1
+                                                 Do Casamento
+O casamento foi a maneira que a humanidade encontrou de propagar a espécie sem causar
+falatório na vizinhança. As tradições matrimoniais se transformaram através dos tempos e variam
+de cultura para cultura. Em certas sociedades primitivas o tempo gasto nas preliminares do
+casamento – corte, namoro, noivado etc. – era abreviado. O macho escolhia uma fêmea, batia
+com um tacape na sua cabeça e a arrastava para a sua caverna. Com o passar do tempo este
+método foi sendo abandonado, por pressão dos buffets, das lojas de presente e das mulheres,
+que não admitiam um período pré-conjugal tão curto. O homem precisava aproximar-se dela,
+cheirar seus cabelos, grunhir no seu ouvido, mordiscar a sua orelha e só então, quando ela
+estivesse distraída, bater com o tacape na sua cabeça e arrastá-la para a caverna. (fragmento)
+                                              VERÍSSIMO, Luís Fernando, Comédias da Vida Privada. Ed. LPm. 1994.
+
+
+
+Assinale a opção que mostra uma substituição inadequada para a expressão sublinhada.
+A) “As tradições matrimoniais se transformaram através dos tempos ...” / sucessivamente.
+B) “...o tempo gasto nas preliminares do casamento - ” / pré-matrimonialmente.
+C) "Com o passar do tempo este método foi sendo abandonado,” / cronologicamente.
+D) “...não admitiam um período pré-conjugal tão curto.” / abreviadamente.
+E) “...mordiscar a sua orelha e só então, quando ela estivesse distraída,” / finalmente"
+Comentários:
+Note que as letras (A), (B), (C) e (E) trazem a circunstância de modo tanto no original quanto na
+possível substituição. Contudo na Letra (D), "tão curto" refere-se a "um período", ou seja, é uma
+referência de tempo. Assim, a substituição por "abreviadamente", que remete à circunstância de
+modo, não pode ser considerada válida. Gabarito letra D.
+
+
+   7. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+Nas frases abaixo foram feitas substituições de termos de valor adverbial por advérbios
+equivalentes; a frase em que essa substituição foi adequadamente realizada é:
+A) “A preocupação traz a velhice antes da hora” / prematuramente;
+B) “Criancice a gente faz em qualquer idade” / momentaneamente;
+C) “Envelhecer é o único meio que se descobriu para viver muito tempo” / eternamente;
+D) “Não se pode governar as crianças hoje em dia” / diariamente;
+E) “A melhor forma de emagrecer é ser mãe em tempo integral” / temporariamente.
+Comentários:
+Vejamos as alternativas:
+A) CERTA.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              65
+        www.estrategiaconcursos.com.br                                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+B) ERRADA. "Em qualquer idade" não diz respeito à "momentaneamente", mas sim a
+"independente de idade";
+C) ERRADA. "Muito tempo" e "eternamente" não são sinônimos. O correto seria "longamente";
+D) ERRADA. "Hoje em dia" se refere a "atualmente";
+E) ERRADA. "Em tempo integral" tem o mesmo sentido de "integralmente". Gabarito letra A.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            66
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                   QUESTÕES COMENTADAS - ARTIGO - FGV
+1. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+“...que vêm transformando as comunicações em todo o mundo”.
+
+
+Nessa frase do texto 1, empregou-se corretamente o artigo definido após o pronome indefinido
+todo; a frase abaixo em que esse emprego também está correto é:
+A) Todo o jornal do planeta cobre acontecimentos mundiais;
+B) As notícias aparecem em todas as páginas dos jornais;
+C) Todo o repórter deve trabalhar muito diariamente;
+D) Toda a notícia deve ser checada antes de publicação;
+E) Todo o texto publicitário deve elogiar produtos.
+Comentários:
+Questão não muito direta, mas vamos lá!
+Lembre-se que o pronome indefinido “todo” sem artigo passa a ideia de “qualquer”; já com o
+artigo, significa “inteiro”, “completo”, “sem exceção”. Vejamos as alternativas:
+A) ERRADA. Sentido de "qualquer". O correto seria "todo jornal".
+B) CERTA. Sentido de "completo".
+C) ERRADA. Sentido de "qualquer". O correto seria "todo repórter".
+D) ERRADA. Sentido de "qualquer". O correto seria "toda notícia".
+E) ERRADA. Sentido de "qualquer". O correto seria "todo texto". Gabarito letra B.
+
+
+2. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Em sua Nova Gramática do Português Contemporâneo, os autores Celso Cunha e Lindley Cintra
+afirmam, sobre o emprego do artigo definido, que ele se antepõe ao substantivo para indicar
+“que se trata de um ser já conhecido do leitor, seja por ter sido mencionado antes, seja por ser
+objeto de um conhecimento de experiência”. A frase em que o emprego do artigo sublinhado se
+deve ao primeiro caso apontado é
+
+
+A) “O melhor amigo do homem é o uísque; o uísque é o cachorro engarrafado”. (Vinicius de
+Moraes)
+B) “Um menininho aproximou-se da estante com uma moedinha na mão e a depositou no cofre”.
+(Fernando Sabino)
+C) “A freira fugitiva sempre fala mal do convento”.
+D) “Terceira idade é aquela em que a gente bota os óculos para ouvir o rádio”. (Woody Allen)
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                67
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+E) “Um corvo, após apoderar-se de um pedaço de carne, voou para uma amendoeira onde
+pousou com o alimento no bico”. (Esopo).
+Comentários:
+Questão que demanda interpretação de texto também, mas vamos lá!
+Precisamos procurar uma ocorrência de artigo definido "que se trata de um ser já conhecido do
+leitor, seja por ter sido mencionado antes.". Vejamos as alternativas:
+A) ERRADA. "o cachorro" generaliza o animal.
+B) ERRADA. Não podemos afirmar que "o cofre" foi mencionado antes.
+C) ERRADA. Parece que "o convento" é generalizado, assim como "a freira", em especial pelo
+termo "sempre ".
+D) ERRADA. "os óculos" é conhecido pela experiência do leitor.
+E) CERTA. "O alimento" foi mencionado anteriormente como "pedaço de carne". Gabarito letra
+                                                       ==219a34==
+
+
+
+
+E.
+
+
+3. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Observe o segmento textual abaixo, que iniciava uma narrativa escolar: “Um carro entrou no
+estacionamento com os faróis apagados, os pneus furados e um cacho de bananas no teto”.
+Uma das observações do emprego dos artigos definidos e indefinidos é que os primeiros indicam
+termos já enunciados no texto (conhecidos) e os segundos indicam termos presentes no texto
+pela primeira vez. Assim, é correto afirmar que
+
+
+A) o emprego de um artigo definido em “um cacho” não modificaria o sentido geral do texto.
+B) o emprego do artigo definido em “o estacionamento” indica que esse lugar já havia
+obrigatoriamente sido citado antes.
+C) o único artigo de emprego correto nessa frase é o de “um cacho”.
+D) o emprego do artigo definido em “o estacionamento” e “os faróis” está errado.
+E) o emprego do artigo definido em “os faróis” e “os pneus” se deve ao fato de se referirem a
+elementos conhecidos a partir do emprego de “um carro”.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. No exemplo, "um" é numeral, e não artigo indefinido.
+B) ERRADA. Não podemos afirmar que o termo foi obrigatoriamente mencionado.
+C) ERRADA. Novamente, no exemplo, "um" é numeral, e não artigo indefinido
+D) ERRADA. Ao contrário: não faria sentido o uso de "um estacionamento" e "uns faróis".
+E) CERTA. Gabarito letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              68
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+       QUESTÕES COMENTADAS - PALAVRAS ESPECIAIS - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+
+Assinale a frase em que houve troca indevida entre SOB e SOBRE.
+
+A) Sentar-se à sombra, num belo dia, e repousar o olhar sob a verdura é o repouso mais perfeito.
+
+B) Se algo é dito sobre a natureza, então isto já não é mais a natureza.
+
+C) A gente pode ficar conhecendo tudo sobre um povo só pela maneira como ele trata os
+animais e as praias.
+
+D) A formiga é esperta e sábia, mas não sabe muito sobre férias.
+
+E) Perde o teu dinheiro em favor de teu irmão, não o escondas sob uma pedra para ficar ali
+escondido.
+
+Comentários:
+
+"sob" significa "abaixo/debaixo de". Este é o sentido exemplificado na letra E.
+
+"sobre" significa "acima/em cima de", posição superior; ou "acerca de", indicando assunto. É o
+sentido que temos em B, C e D.
+
+Na letra A, o correto seria "o olhar sobre a verdura"
+
+Gabarito letra A.
+
+
+
+   2. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a frase em que o vocábulo MAIS mostra valor de término ou cessação de uma ação ou
+estado.
+
+A) A beleza não é mais do que a promessa de felicidade.
+
+B) Digam o que quiserem, mas a breguice é mais divertida.
+
+C) O grande ídolo das mulheres não é mais a moda.
+
+D) Com frequência os carros custam mais do que valem.
+
+E) O lugar onde as mulheres ficam mais alegres é o shopping.
+
+Comentários:
+
+Por "término ou cessação de uma ação ou estado", a banca pede o "mais" com valor de tempo.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               69
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) O grande ídolo das mulheres não é mais a moda. (era moda e deixou de ser, o estado cessou,
+terminou)
+
+Nas demais alternativas, o "mais" é advérbio de intensidade.
+
+Gabarito letra C.
+
+
+
+   3. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Na maioria das frases, a palavra ainda mostra valor semântico de tempo. Assinale a frase –
+retirada do romance A Mão e a Luva, de Machado de Assis – que mostra esse valor.
+
+A) Com o tempo, avultou outra causa de tristeza para a pobre viúva, ainda mais dolorosa que a
+primeira.                                              ==219a34==
+
+
+
+
+B) Esta era ainda outra feição da menina; tinha uma força de vontade superior aos seus anos.
+
+C) Com ela, e a viveza intelectual que Deus lhe dera, logrou aprender tudo o que a mãe lhe
+ensinara, e melhor ainda do que ela o sabia, desde que o tempo lhe permitiu desenvolver os
+primeiros elementos.
+
+D) Foram seis dias, não digo de reclusão absoluta, mas de completa solidão, porque ainda nas
+poucas vezes que saiu, fê-lo sempre a horas ou em direções que a ninguém via, e de ninguém
+era visto.
+
+E) Guiomar, entretanto, observava-o a espaços, de revés, como a querer surpreendê-lo; a pouco
+e pouco, porém, o seu olhar foi sendo mais direito e firme. O de Luís Alves era natural e igual
+como antes era, como era ainda agora com todos.
+
+Comentários:
+
+O valor de tempo está em "ainda agora com todos", comparando com outra ideia de tempo:
+como era antes.
+
+Vejamos as demais:
+
+A) "ainda" intensifica o advérbio "mais";
+
+B) "ainda" tem valor de adição: mais outra feição;
+
+C) "ainda" intensifica o advérbio "melhor"
+
+D) "ainda" tem valor concessivo: "mesmo nas poucas vezes que saiu".
+
+Gabarito letra E.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                70
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   4. (FGV / Câmara Municipal de São Paulo - SP / 2024)
+
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” mostra valor de “tempo”.
+
+A) Os animais que o ser humano come não se extinguem. É por isso que temos mais galinhas do
+que águias neste país.
+
+B) Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo.
+
+C) Uma cultura não tem mais valor do que os seus bosques.
+
+D) O cavalo. A mais bela conquista que o homem já fez.
+
+E) O amanhecer é o momento mais bonito do dia, mas, quando ele chega, encontra a maioria
+das pessoas dormindo.
+
+Comentários:
+
+O "mais" indica tempo, a cessação de um estado/processo/ação, na letra B:
+
+B) Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo. (já não tenho que
+sair, tinha antes e agora não tenho)
+
+Em A e C, o "mais" é pronome indefinido, pois modifica os substantivos "galinhas" e "valor",
+indicando quantidade vaga, imprecisa.
+
+Em D e E, o "mais" é advérbio de intensidade, pois intensifica os adjetivos "bela" e "bonito".
+
+Gabarito letra B.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  71
+        www.estrategiaconcursos.com.br                                                           97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                 LISTA DE QUESTÕES - SUBSTANTIVO - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Em todas as frases abaixo há um termo sublinhado, composto da preposição DE + substantivo;
+assinale a frase em que esse termo não deve ser substituído pelo adjetivo indicado.
+A) A juventude é uma qualidade, e não uma questão de circunstância. / circunstancial.
+B) A juventude não é uma época da vida, é um estado de espírito. / espiritual.
+C) As crianças de hoje são tiranas. / atuais.
+D) As águas dos rios são potáveis. / fluviais.
+E) Os tamanhos das letras variam. / literais.
+
+
+   2. (FGV / RECEITA FEDERAL / 2023)
+Um site especializado publicou o seguinte texto sobre uma das atribuições do auditor fiscal:
+“Segundo o Art. 6º da Lei nº 10.593/2002 é atribuição dos ocupantes do cargo de Auditor-Fiscal
+da Receita Federal do Brasil: elaborar e proferir decisões ou delas participar em processo
+administrativo-fiscal, bem como em processos de consulta, restituição ou compensação de
+tributos e contribuições e de reconhecimento de benefícios fiscais.”
+
+
+A elaboração de um texto supõe cuidados com aspectos diversos. Sobre a estruturação desse
+pequeno segmento textual, assinale a afirmativa correta.
+A) O vocábulo inicial “Segundo” supõe a existência de uma outra atribuição antes citada.
+B) O termo “bem como” mostra valor comparativo.
+C) O termo “delas” se refere possivelmente ao termo “atribuições”, ausente desse segmento
+textual.
+D) O termo “processo administrativo-fiscal” poderia estar na forma plural “processos
+administrativos-fiscais”.
+E) “consulta”, “restituição”, “compensação” e “reconhecimento” documentam o processo de
+nominalização.
+
+
+   3. (FGV – Soldado - PM SP / 2022)
+“No Izakaya Bar, em Kyoto, o dono perdeu a paciência ao ver os turistas trazendo comida para
+consumir em suas mesas, usando os pratos como cinzeiros e sacudindo suas cinzas de cigarro no
+chão. A solução foi fingir que estava lotado quando via grupos com mais de cinco turistas se
+aproximando.”
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                72
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+A expressão verbal que mostra inadequação na substituição por um substantivo cognato, é
+A) “o dono perdeu a paciência” / o dono mostrou perda de paciência.
+B) “ao ver os turistas” / com a visão dos turistas.
+C) “para consumir em suas mesas” / para consumição em suas mesas.
+D) “usando os pratos” / fazendo uso dos pratos.
+E) “A solução foi fingir que estava lotado” / A solução foi o fingimento de que estava lotado.
+
+
+   4. (FGV – Professor de Matemática - SEED-AP / 2022)
+Entre as opções abaixo, assinale aquela em que o aumentativo sublinhado perdeu o valor de
+aumentativo, designando uma outra realidade.
+                                                       ==219a34==
+
+
+
+
+A) O entregador tocou a campainha e ficou esperando no portão.
+B) O fazendeiro tinha um cachorrão para vigiar a plantação.
+C) O panelão da feijoada já estava sobre o fogão.
+D) O apartamento tinha um varandão na frente.
+E) Na parte de trás, havia um terrenão para o plantio de frutas.
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Observe a frase a seguir.
+É importante aprender muitas coisas / É importante o aprendizado de muitas coisas.
+O mesmo processo de substituição de um verbo por um substantivo correspondente foi feito de
+forma adequada em:
+A) É impossível ocultar a desonestidade / É impossível o ocultismo da desonestidade;
+B) Morrer é o ato final da existência humana / A mortandade é o ato final da existência humana;
+C) Enfrentar as dificuldades é o caminho da felicidade / O enfrentamento das dificuldades é o
+caminho da felicidade;
+D) Oferecer amizade é atitude rara / O ofertório de amizade é atitude rara;
+E) O mais difícil é viver / O mais difícil é a vivacidade.
+
+
+   6. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+“Até mesmo de um corpúsculo disforme pode sair um espírito realmente forte e virtuoso”.
+Nessa frase, há uma forma diminutiva de corpo; a frase abaixo em que o diminutivo sublinhado
+perdeu o sentido original de diminutivo e passou a significar outra realidade é:
+A) Havia na parede uma portinhola por onde se compravam as entradas para o jogo;
+B) Era uma revistinha francesa que cabia no bolso da camisa;
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  73
+        www.estrategiaconcursos.com.br                                                           97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) Os alunos verificaram na folhinha as datas previstas para as provas finais;
+D) Comeu muitos biscoitinhos de araruta, gostosíssimos;
+E) Apesar de ser um vidrinho bem diminuto, o preço era alto.
+
+
+   7. (FGV / TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+“O fim das penas não é atormentar, perseguir e afligir um ser sensível... Seu fim é apenas impedir
+que o réu cause novos danos aos seus concidadãos e dissuadir os outros de fazerem o mesmo”.
+Se quiséssemos nominalizar todas as ações sublinhadas, deveríamos trocar os verbos por
+substantivos; nesse caso, a substituição inadequada seria:
+A) atormentar um ser sensível / atormentação de um ser sensível;
+B) perseguir um ser sensível / perseguição de um ser sensível;
+C) afligir um ser sensível / aflição de um ser sensível;
+D) impedir que o réu cause novos danos / impedimento de o réu causar novos danos;
+E) dissuadir os outros / dissuasão dos outros.
+
+
+   8. (FGV / MPE-AL / TÉCNICO / 2018)
+“No caixa, outras freguesas perguntaram se ela tinha restaurante.”
+Nesse trecho, o termo “caixa” passou a ser aparentemente masculino, mas, na verdade, ocorreu
+aí uma elipse de um termo masculino “o funcionário da caixa.”
+O substantivo a seguir em que ocorre uma idêntica elipse que causa aparente mudança de
+gênero é:
+A) o celular / o telefone celular.
+B) o Municipal / o teatro Municipal.
+C) a capital / a cidade capital.
+D) o Palmeiras / o time do Palmeiras.
+E) a lava-jato / a operação lava-jato.
+
+
+   9. (FGV / CÂMARA DE SALVADOR-BA / ANALISTA LEGISLATIVO / 2018)
+A opção em que a nominalização do segmento sublinhado está INCORRETA é:
+A) “busca garantir aos cidadãos o acesso pleno” / busca a garantia aos cidadãos do acesso
+pleno”;
+B) “estabelecendo políticas públicas autoritárias” / com o estabelecimento de políticas públicas
+autoritárias;
+C) “investindo poucos recursos” / com o investimento de poucos recursos;
+D) “envolvendo civis em conflitos armados” / com o envolvimento de civis em conflitos armados;
+E) “proporcionar uma atuação transparente” / proporção de uma atuação transparente.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                74
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+   10. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+“O conceito de direitos humanos está sendo transformado num palavrão”. (Boris Casoy)
+Nessa frase, o vocábulo “palavrão”, formado com o sufixo -ão, perdeu o valor de aumentativo,
+passando a significar “palavra chula”. Indique a opção em que todas as palavras receberam um
+novo significado na forma aumentativa:
+A) cartão – papelão – portão;
+B) homenzarrão – garrafão – caixão;
+C) panelão – colherão – facão;
+D) jarrão – casarão – pratão;
+E) pezão – cabeção – fardão.
+
+
+   11. (FGV / ALERJ / ESPECIALISTA / TI / 2017) Adaptada
+Cidadãos e opiniões são substantivos formados com o sufixo -ão, que fazem seus plurais,
+respectivamente, como:
+A) escrivão / vulcão;
+B) cristão / mão;
+C) anão / corrimão;
+D) chorão / ancião;
+E) cartão / aldeão.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           75
+        www.estrategiaconcursos.com.br                                                    97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                               GABARITO
+                                                       1. LETRA E
+                                                       2. LETRA E
+                                                       3. LETRA C
+                                                       4. LETRA A
+                                                       5. LETRA C
+                                                       6. LETRA C
+                                                       7. LETRA C
+                                                       8. LETRA D
+                                                       9. LETRA E
+                                                       10. LETRA A
+                                                       11. LETRA C
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           76
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                     LISTA DE QUESTÕES - ADJETIVO - FGV
+   1. (FGV / Prefeitura de São José dos Campos – SP / 2024)
+Os adjetivos podem representar estados, características, qualidades ou relações; assinale a frase
+abaixo em que o adjetivo sublinhado indica uma qualidade.
+A) O tempo é aquele velho trapaceiro careca.
+B) Sou contemporâneo do meu tempo.
+C) A religião é a afirmação perpétua do presente.
+D) O tempo destrói somente o que é real.
+E) Nada é mais valioso do que este dia.
+
+
+   2. (FGV / DNIT / 2024)
+Os adjetivos, em língua portuguesa, podem indicar estados, características, qualidades e
+relações.
+Assinale a frase em que o adjetivo sublinhado indica estado.
+A) Um pão velho em paz é uma refeição melhor do que um banquete tenso.
+B) Aquele que não deseja que a realidade perturbe seus belos sonhos é um sábio.
+C) A pior loucura é ser sábio num mundo de loucos.
+D) O que o homem superior busca em si é o que o mau caráter busca nos outros.
+E) A verdadeira sabedoria é não parecer sábio.
+
+
+   3. (FGV / MPE-SP / 2023)
+Todas as frases abaixo contêm adjetivos; assinale a frase em que esse adjetivo tem o valor de
+qualificação.
+A) Na guerra contra a pobreza, a lista de mortos é impublicável.
+B) Na inflação capitalista os preços sobem.
+C) A indústria farmacêutica não tem remédio.
+D) A crença de nosso cliente é o nosso maior patrimônio.
+E) Não mexa no que está quieto.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               77
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   4. (FGV / TRT 13ª / 2022)
+Em todas as frases abaixo ocorre a presença do adjetivo “bom” / “boa” com diferentes sentidos.
+Assinale a frase em que há a indicação de um sinônimo inadequado para esse adjetivo.
+A) Uma boa risada é um raio de sol na casa / barulhenta.
+B) É um prazer navegar com bom tempo / estável.
+C) Aquele apartamento está sendo vendido por bom preço / barato.
+D) Acho que esse vestido está bom nela / bem ajustado.
+E) Aquele aluno tem uma boa letra / legível.
+
+
+   5.   (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+                                                       ==219a34==
+
+
+
+
+Assinale a frase de texto informativo que aparece contaminada com a participação do
+enunciador.
+A) Foram colocados nas estradas vários postos de fiscalização de documentos no transporte de
+   cargas.
+B) Os policiais apreenderam o veículo roubado e conduziram o perigoso delinquente para a
+   delegacia.
+C) A campanha pública pela vacinação de crianças começa na próxima semana.
+D) Todos os jogadores do Flamengo participaram de uma homenagem ao antigo treinador.
+E) A Prefeitura disponibilizou vacinas contra a gripe para a população idosa.
+
+
+   6. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Algumas palavras são empregadas fora de sua classe original; assinale a opção em que a palavra
+destacada teve sua classe original modificada, de adjetivo para substantivo.
+A) As ideias geniais são aquelas que nos espantamos de não ter tido antes.
+B) O que é necessário, jamais é ridículo.
+C) Os fatos são sonoros. O que importa são os silêncios por trás deles.
+D) O dinheiro que compra o pão dos pobres comprou antes o divertimento dos abastados.
+E) O problema do intelecto é um ponto de interrogação.
+
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase em que a substituição do termo sublinhado foi feita de forma adequada ao sentido
+original é:
+A) Remédio sem efeito / Remédio ineficiente;
+B) Poço sem água / Poço árido;
+C) Livro sem autor / Livro desautorizado;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             78
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) Carro sem direção / Carro indireto;
+E) Flor sem perfume / Flor fedorenta.
+
+
+   8. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Atribuições do oficial de justiça: “Cumprir mandados judiciais; preparar salas com livros e
+materiais necessários ao funcionamento das sessões de julgamento; buscar, na Secretaria e nos
+Gabinetes, os processos de cada Relator, separando-os e ordenando-os, colhendo assinaturas,
+quando for o caso; atender e dar informações aos advogados, partes e estagiários presentes na
+sessão, anotando os pedidos de preferência pela ordem de chegada dos interessados; auxiliar na
+manutenção da ordem e efetuar prisões, quando determinado; auxiliar o Secretário de Câmara,
+quando solicitado o auxílio; cumprir as demais atribuições previstas em lei ou regulamento”.
+Em cada opção a seguir foi destacado um substantivo do texto acima; a opção em que o adjetivo
+referente ao substantivo destacado está INCORRETO é:
+A) livros e materiais / necessários;
+B) advogados, partes e estagiários / presentes;
+C) pedidos / interessados;
+D) auxílio / solicitado;
+E) atribuições / previstas.
+
+
+   9. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2020)
+Em todas as frases abaixo há adjetivos destacados; o adjetivo que representa a opinião do autor
+da frase é:
+A) O homem é o único animal que ri;
+B) As grandes obras podem não ser obras grandes;
+C) Os dias atuais passam mais rapidamente;
+D) As provas extensas trazem muito cansaço;
+E) Nuvens cinzentas anunciam chuva.
+
+
+   10. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Segundo a gramática, os adjetivos podem indicar estados, qualidades, características ou
+relações. A frase abaixo em que o adjetivo sublinhado indica uma relação é
+A) “As borboletas mostram um voo desengonçado”.
+B) “As jabuticabas são frutas brasileiras”.
+C) “As goiabas estão nascendo bichadas”.
+D) “As nuvens estavam carregadas”.
+E) “As pitangas ficaram vermelhas rapidamente”.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              79
+        www.estrategiaconcursos.com.br                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   11. (FGV / AL-RO / ANALISTA LEGISLATIVO / 2018)
+Observe as frases abaixo:
+O perigo nuclear iraniano
+A revista mensal carioca
+Nas frases há a presença de dois adjetivos de tipos diferentes; podemos deduzir que:
+A) a ordem dos adjetivos é completamente aleatória.
+B) no caso de dois adjetivos, um deve vir antes do substantivo.
+C) os adjetivos de nacionalidade são sempre os últimos.
+D) os adjetivos de relação precedem os qualificativos.
+E) adjetivos mais específicos precedem os demais.
+
+
+   12. (FGV / AL-RO / ANALISTA LEGISLATIVO / 2018)
+                                                   Observação
+Vivemos tão apressados que estamos perdendo a habilidade de observar detalhadamente o que
+nos cerca. Por outro lado, somos tão bombardeados por imagens e por estímulos visuais que,
+para nos proteger do excesso, aprendemos a não perceber o que está em volta, aprendemos a
+nos proteger. Por isso, a propaganda fica cada vez mais agressiva. Os produtos precisam, a
+qualquer custo, chamar a atenção do possível comprador, até que sejamos capazes de “ver sem
+olhar”. Ou seja, mesmo sem estarmos interessados, não podemos escapar de perceber uma
+imagem de propaganda.
+Isso nos tem levado à autoproteção ou a uma atitude passiva, já que não é preciso fazer nenhum
+esforço, pois a propaganda e as imagens se encarregam de nos invadir.
+Entretanto, para apreciar a arte e saber ler imagens, uma primeira habilidade que precisamos
+renovar, estimular e desenvolver é a observação. Ela deve deixar de ser passiva para tornar-se
+ativa, voluntária: observo o que quero, porque quero, como quero, da forma que quero, quando
+quero observar.
+Se pedirmos a um amigo que descreva alguém, ele pode dizer genericamente: alto, magro, de
+meia-idade: ou então ser bem específico: tem aproximadamente 1 metro e oitenta, é magro, está
+vestido com uma calça azul, camisa branca, tênis, jaqueta de couro marrom, tem cabelos escuros,
+encaracolados, curtos, olhos azuis, usa costeletas, tem um sinal escuro do lado direito do rosto e
+cerca de 40 anos.
+Essa segunda descrição é mais detalhada e demonstra mais observação. Naturalmente, se eu
+estiver procurando tal pessoa, a partir dessa descrição detalhada, posso encontrá-la com mais
+facilidade.
+                                             OLIVEIRA, J. e GARCEZ, L. Explicando a Arte. Ed. Nova Fronteira. 2001.
+
+Uma das classes de palavras mais frequentes em descrições é a dos adjetivos que podem indicar
+estados, características, qualidades ou relações.
+Os adjetivos predominantes nos segmentos descritivos são os indicadores de
+A) qualidade.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                 80
+        www.estrategiaconcursos.com.br                                                                          97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+B) estado.
+C) traço psicológico.
+D) característica.
+E) relação.
+
+
+   13. (FGV / BANESTES / ASSISTENTE SECURITÁRIO / 2018)
+Na escrita, pode-se optar frequentemente entre uma construção de substantivo + locução
+adjetiva ou substantivo + adjetivo (coragem de herói = coragem heroica).
+O termo abaixo sublinhado que NÃO pode ser substituído por um adjetivo é:
+A) A maior preocupação do homem é a morte;
+B) A criação do homem é ideia de Deus;
+C) A inteligência do homem é infinita;
+D) Os amores do homem são passageiros;
+E) É efêmera a memória do homem.
+
+
+   14. (FGV / BANESTES / ASSISTENTE SECURITÁRIO / 2018)
+A frase que NÃO apresenta qualquer forma de superlativação de um adjetivo é:
+A) Sou extraordinariamente paciente desde que as coisas sejam feitas do meu jeito;
+B) A lealdade a um partido reduz o maior dos homens ao nível mesquinho das massas;
+C) O ouro é um metal amarelo ultra-apreciado;
+D) Uma besteira menor, consciente, pode impedir uma besteira grande pra cachorro,
+inconsciente;
+E) Veja o meu caso: saí do nada e cheguei à extrema pobreza.
+
+
+   15. (FGV / BANESTES / ANALISTA ECONÔMICO / 2018)
+Na escrita, pode-se optar frequentemente entre uma construção de substantivo + locução
+adjetiva ou substantivo + adjetivo (esportes da água = esportes aquáticos).
+O termo abaixo sublinhado que NÃO pode ser substituído por um adjetivo é:
+A) A indústria causou a poluição do rio;
+B) As águas do rio ficaram poluídas;
+C) As margens do rio estão cheias de lama;
+D) Os turistas se encantam com a imagem do rio;
+E) Os peixes do rio são bem saborosos.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                      81
+        www.estrategiaconcursos.com.br                                               97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   16. (FGV / BANESTES / TÉCNICO BANCÁRIO / 2018)
+A frase em que a substituição dos termos sublinhados por um adjetivo é feita de forma adequada
+é:
+A) Um beijo de minha mãe fez de mim um pintor / maternal;
+B) O importante na obra de arte: o espanto / arteira;
+C) Toda arte é imitação da natureza / naturalista;
+D) Apreciar os defeitos do próximo é ter talento? / alheios;
+E) Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é capaz de
+suportar / individualista.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             82
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                               GABARITO
+                                                        1. LETRA E
+                                                        2. LETRA A
+                                                        3. LETRA D
+                                                        4. LETRA B
+                                                        5. LETRA B
+                                                        6. LETRA D
+                                                        7. LETRA A
+                                                        8. LETRA C
+                                                        9. LETRA B
+                                                        10. LETRA B
+                                                        11. LETRA E
+                                                        12. LETRA D
+                                                        13. LETRA B
+                                                        14. LETRA E
+                                                        15. LETRA A
+                                                        16. LETRA D
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           83
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+       LISTA DE QUESTÕES - EXPRESSÕES COM SUBSTANTIVO E
+                       ADJETIVO - FGV
+
+   1. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a frase em que a substituição da locução sublinhada por um termo equivalente foi feita
+de forma adequada.
+
+A) Vou usar o computador com modéstia. Esse equipamento invade a privacidade humana. /
+moderadamente.
+
+B) Os computadores do futuro pesarão não mais que uma tonelada e meia. / futurologistas.
+
+C) Felizes aqueles que conhecem os deuses do campo. / camponeses.
+
+D) A natureza é um dicionário de enorme tamanho. / mensurável.
+
+E) Os moradores dos campos são melhores que os das cidades. / urbanos.
+
+
+
+   2. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a opção que mostra uma impropriedade léxica, ou seja, um emprego inadequado da
+expressão “graças a”.
+
+A) Graças aos treinos da semana, o time apresentou-se bem.
+
+B) O caminhão bateu no poste graças ao óleo derramado na pista.
+
+C) Os alunos escreviam bem graças às leituras que faziam, por recomendação dos professores.
+
+D) Graças ao tempo disponível, o operário completou a tarefa.
+
+E) Os fiéis davam sempre graças a Deus pelos bens recebidos.
+
+
+
+   3. (FGV / CGM de Belo Horizonte - MG / 2024)
+
+Todas as frases abaixo mostram um grupo nominal formado por substantivo + adjetivo. Assinale a
+frase em que a troca de posição entre os dois modifica o sentido do grupo.
+
+A) A agricultura fomenta a sensatez, sensatez de excelente índole.
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas.
+
+C) O trabalho do lavrador é o trabalho natural do homem, o único que acalma as paixões e
+vigoriza o corpo.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               84
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) Lembrai-vos que as mais belas coisas do mundo são as mais inúteis: lírios e pavões, por
+exemplo.
+
+
+
+   4. (FGV / CGM de Belo Horizonte - MG / 2024)
+
+Todas as frases abaixo mostram um grupo nominal formado por substantivo + adjetivo. Assinale a
+frase em que a troca de posição entre os dois modifica o sentido do grupo.
+
+A) A agricultura fomenta a sensatez, sensatez de excelente índole.
+
+B) Nenhum pássaro voa alto demais se voa com as próprias asas.
+
+C) O trabalho do lavrador é o trabalho natural do homem, o único que acalma as paixões e
+vigoriza o corpo.
+
+D) Lembrai-vos que as mais belas coisas do mundo são as mais inúteis: lírios e pavões, por
+exemplo.
+
+
+
+   5. (FGV / DPE-RJ / TÉCNICO / 2019)
+Texto 7
+“O voo de Santos Dumont foi fruto de uma ideia revolucionária, assim como os
+microcomputadores e a rede que hoje chamamos de Internet”.
+No texto 7, o segmento “ideia revolucionária” poderia ter trocado a ordem de suas palavras
+(revolucionária ideia) sem que isso modificasse suas classes gramaticais; a opção abaixo em que
+isso também ocorre é:
+A) nova escultura;
+B) jovem professora;
+C) imigrante trabalhador;
+D) velho pescador;
+E) fanático marxista.
+
+
+   6. (FGV / PREF. ANGRA DOS REIS-RJ / INSPETOR / 2019)
+Assinale a opção em que a correspondência adjetivo/substantivo está incorreta.
+A) doce / doçura.
+B) justa / justiça.
+C) prudente / prudência.
+D) hostil / hostilidade.
+E) Indiferente / indiferência.
+
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                            85
+          www.estrategiaconcursos.com.br                                                     97
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+   7. (FGV / CÂMARA DE SALVADOR-BA / ASSISTENTE LEGISLATIVO / 2018)
+A relação substantivo / adjetivo que está correta é:
+A) social / socialista;
+B) complexidade / complexa;
+C) organização / organista;
+D) indivíduo / individualidade;
+E) reino / reinado.
+
+
+   8. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+“Mulheres de certa idade não têm idade certa”. Essa frase do Barão de Itararé mostra que a
+posição de alguns adjetivos traz modificação de sentido: “certa idade” não é o mesmo que
+                                                       ==219a34==
+
+
+
+
+“idade certa”.
+
+
+O mesmo acontece no seguinte par abaixo:
+A) bom vinho;
+B) resultado fantástico;
+C) sabor primoroso;
+D) ódio intenso;
+E) população pobre.
+
+
+   9. (FGV / IBGE / ANALISTA CENSITÁRIO / 2017)
+“É preciso levar em conta questões econômicas e sociais”; se juntássemos os adjetivos
+sublinhados em forma de adjetivo composto, a forma correta, no contexto, seria:
+A) econômicas-sociais;
+B) econômico-social;
+C) econômica-social;
+D) econômico-sociais;
+E) econômicas-social.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         86
+        www.estrategiaconcursos.com.br                                                  97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                               GABARITO
+                                                   1.   LETRA C
+                                                   2.   LETRA B
+                                                   3.   LETRA B
+                                                   4.   LETRA B
+                                                   5.   LETRA A
+                                                   6.   LETRA E
+                                                   7.   LETRA B
+                                                   8.   LETRA E
+                                                   9.   LETRA D
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           87
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                     LISTA DE QUESTÕES - ADVÉRBIO - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” exemplifica uma classe
+gramatical diferente da das demais frases.
+A) Os deuses fizeram o campo mais esplendidamente e melhor que tudo.
+B) Em cada coisa criada por Deus, há mais do que se supõe, ainda que seja uma formiguinha.
+C) Lembrai-vos de que as mais belas coisas do mundo são as inúteis: lírios e pavões, por
+exemplo.
+D) Há boas razões para proteger a Terra. É o modo mais seguro e correto de prolongar a
+lucratividade.
+E) Turismo rende mais do que madeira.
+
+
+   2. (FGV / Câmara Municipal de São Paulo / Técnico / 2024)
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” mostra valor de “tempo”.
+A) Os animais que o ser humano come não se extinguem. É por isso que temos mais galinhas do
+que águias neste país.
+B) Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo.
+C) Uma cultura não tem mais valor do que os seus bosques.
+D) O cavalo. A mais bela conquista que o homem já fez.
+E) O amanhecer é o momento mais bonito do dia, mas, quando ele chega, encontra a maioria
+das pessoas dormindo.
+
+
+   3. (FGV / PGM-NITERÓI / 2023)
+Na escrita, um só termo pode substituir, de forma adequada, uma locução ou mesmo toda uma
+oração. Em todas as opções abaixo há uma locução adverbial sublinhada; a frase em que a
+locução foi substituída adequadamente por um advérbio de mesmo sentido, é:
+A) A sobremesa foi servida em seguida às iguarias / seguidamente;
+B) De antemão, o governo deve garantir certa estabilidade jurídica para que os negócios se
+realizem / Antecipadamente;
+C) De quando em quando as medidas governamentais surtem o efeito pretendido /
+Frequentemente;
+D) O acidente de ontem, como de ordinário, ocorreu em função das péssimas condições da
+rodovia / popularmente;
+E) As ordens da polícia foram seguidas ao pé da letra pela população do local / preliminarmente.
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               88
+        www.estrategiaconcursos.com.br                                                        97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+   4. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase abaixo em que a substituição do segmento sublinhado por um advérbio foi feita de forma
+adequada é:
+A) Sem que se entendesse o motivo, o convidado aborreceu-se na festa / irresponsavelmente;
+B) Ia à academia poucas vezes / habitualmente;
+C) Dirigia com toda a atenção / atenciosamente;
+D) Mesmo sem estudo realizou a tarefa a contento / Intuitivamente;
+E) Enfrentou as dificuldades com coragem / ferozmente.
+
+
+   5. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+                                                       ==219a34==
+
+
+
+
+“Em todas essas profecias havia uma constante: o mundo novo não conheceria mais a liberdade,
+pelo menos com a latitude e o conceito que dela então se tinha” (texto 4).
+O vocábulo sublinhado aparece com o mesmo sentido em:
+A) A liberdade não mais existirá no mundo futuro;
+B) Todos terão mais liberdade que agora;
+C) A sociedade futura terá mais tempo disponível;
+D) Dois mais dois serão sempre quatro;
+E) No futuro, viajaremos mais que agora.
+
+
+   6. (FGV / AL-RO / ASSISTENTE LEGISLATIVO / 2018)
+                                                      Texto 1
+                                                 Do Casamento
+O casamento foi a maneira que a humanidade encontrou de propagar a espécie sem causar
+falatório na vizinhança. As tradições matrimoniais se transformaram através dos tempos e variam
+de cultura para cultura. Em certas sociedades primitivas o tempo gasto nas preliminares do
+casamento – corte, namoro, noivado etc. – era abreviado. O macho escolhia uma fêmea, batia
+com um tacape na sua cabeça e a arrastava para a sua caverna. Com o passar do tempo este
+método foi sendo abandonado, por pressão dos buffets, das lojas de presente e das mulheres,
+que não admitiam um período pré-conjugal tão curto. O homem precisava aproximar-se dela,
+cheirar seus cabelos, grunhir no seu ouvido, mordiscar a sua orelha e só então, quando ela
+estivesse distraída, bater com o tacape na sua cabeça e arrastá-la para a caverna. (fragmento)
+                                              VERÍSSIMO, Luís Fernando, Comédias da Vida Privada. Ed. LPm. 1994.
+
+
+
+Assinale a opção que mostra uma substituição inadequada para a expressão sublinhada.
+A) “As tradições matrimoniais se transformaram através dos tempos ...” / sucessivamente.
+B) “...o tempo gasto nas preliminares do casamento - ” / pré-matrimonialmente.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              89
+        www.estrategiaconcursos.com.br                                                                       97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) "Com o passar do tempo este método foi sendo abandonado,” / cronologicamente.
+D) “...não admitiam um período pré-conjugal tão curto.” / abreviadamente.
+E) “...mordiscar a sua orelha e só então, quando ela estivesse distraída,” / finalmente"
+
+
+   7. (FGV / PREF. BOA VISTA-RR / PROFESSOR / 2018)
+Nas frases abaixo foram feitas substituições de termos de valor adverbial por advérbios
+equivalentes; a frase em que essa substituição foi adequadamente realizada é:
+A) “A preocupação traz a velhice antes da hora” / prematuramente;
+B) “Criancice a gente faz em qualquer idade” / momentaneamente;
+C) “Envelhecer é o único meio que se descobriu para viver muito tempo” / eternamente;
+D) “Não se pode governar as crianças hoje em dia” / diariamente;
+E) “A melhor forma de emagrecer é ser mãe em tempo integral” / temporariamente.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            90
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                               GABARITO
+                                                   1.   LETRA B
+                                                   2.   LETRA B
+                                                   3.   LETRA B
+                                                   4.   LETRA D
+                                                   5.   LETRA A
+                                                   6.   LETRA D
+                                                   7.   LETRA A
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           91
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+                       LISTA DE QUESTÕES - ARTIGO - FGV
+1. (FGV / IBGE / COORDENADOR CENSITÁRIO / 2019)
+“...que vêm transformando as comunicações em todo o mundo”.
+Nessa frase do texto 1, empregou-se corretamente o artigo definido após o pronome indefinido
+todo; a frase abaixo em que esse emprego também está correto é:
+A) Todo o jornal do planeta cobre acontecimentos mundiais;
+B) As notícias aparecem em todas as páginas dos jornais;
+C) Todo o repórter deve trabalhar muito diariamente;
+D) Toda a notícia deve ser checada antes de publicação;
+                                                       ==219a34==
+
+
+
+
+E) Todo o texto publicitário deve elogiar produtos.
+
+
+2. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Em sua Nova Gramática do Português Contemporâneo, os autores Celso Cunha e Lindley Cintra
+afirmam, sobre o emprego do artigo definido, que ele se antepõe ao substantivo para indicar
+“que se trata de um ser já conhecido do leitor, seja por ter sido mencionado antes, seja por ser
+objeto de um conhecimento de experiência”. A frase em que o emprego do artigo sublinhado se
+deve ao primeiro caso apontado é
+A) “O melhor amigo do homem é o uísque; o uísque é o cachorro engarrafado”. (Vinicius de
+Moraes)
+B) “Um menininho aproximou-se da estante com uma moedinha na mão e a depositou no cofre”.
+(Fernando Sabino)
+C) “A freira fugitiva sempre fala mal do convento”.
+D) “Terceira idade é aquela em que a gente bota os óculos para ouvir o rádio”. (Woody Allen)
+E) “Um corvo, após apoderar-se de um pedaço de carne, voou para uma amendoeira onde
+pousou com o alimento no bico”. (Esopo).
+
+
+3. (FGV / PREF. SALVADOR - BA / PROFESSOR / 2019)
+Observe o segmento textual abaixo, que iniciava uma narrativa escolar: “Um carro entrou no
+estacionamento com os faróis apagados, os pneus furados e um cacho de bananas no teto”.
+Uma das observações do emprego dos artigos definidos e indefinidos é que os primeiros indicam
+termos já enunciados no texto (conhecidos) e os segundos indicam termos presentes no texto
+pela primeira vez. Assim, é correto afirmar que
+A) o emprego de um artigo definido em “um cacho” não modificaria o sentido geral do texto.
+B) o emprego do artigo definido em “o estacionamento” indica que esse lugar já havia
+obrigatoriamente sido citado antes.
+C) o único artigo de emprego correto nessa frase é o de “um cacho”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                92
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+D) o emprego do artigo definido em “o estacionamento” e “os faróis” está errado.
+E) o emprego do artigo definido em “os faróis” e “os pneus” se deve ao fato de se referirem a
+elementos conhecidos a partir do emprego de “um carro”.
+
+
+
+
+                                                 GABARITO
+                                                     1. LETRA B
+                                                     2. LETRA E
+                                                     3. LETRA E
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            93
+        www.estrategiaconcursos.com.br                                                     97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+
+            LISTA DE QUESTÕES - PALAVRAS ESPECIAIS - FGV
+   1. (FGV / Prefeitura de São José dos Campos - SP / 2024)
+
+Assinale a frase em que houve troca indevida entre SOB e SOBRE.
+
+A) Sentar-se à sombra, num belo dia, e repousar o olhar sob a verdura é o repouso mais perfeito.
+
+B) Se algo é dito sobre a natureza, então isto já não é mais a natureza.
+
+C) A gente pode ficar conhecendo tudo sobre um povo só pela maneira como ele trata os
+animais e as praias.
+
+D) A formiga é esperta e sábia, mas não sabe muito sobre férias.
+
+E) Perde o teu dinheiro em favor de teu irmão, não o escondas sob uma pedra para ficar ali
+escondido.
+
+
+
+   2. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Assinale a frase em que o vocábulo MAIS mostra valor de término ou cessação de uma ação ou
+estado.
+
+A) A beleza não é mais do que a promessa de felicidade.
+
+B) Digam o que quiserem, mas a breguice é mais divertida.
+
+C) O grande ídolo das mulheres não é mais a moda.
+
+D) Com frequência os carros custam mais do que valem.
+
+E) O lugar onde as mulheres ficam mais alegres é o shopping.
+
+
+
+   3. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Na maioria das frases, a palavra ainda mostra valor semântico de tempo. Assinale a frase –
+retirada do romance A Mão e a Luva, de Machado de Assis – que mostra esse valor.
+
+A) Com o tempo, avultou outra causa de tristeza para a pobre viúva, ainda mais dolorosa que a
+primeira.
+
+B) Esta era ainda outra feição da menina; tinha uma força de vontade superior aos seus anos.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                94
+        www.estrategiaconcursos.com.br                                                         97
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 01
+
+
+
+C) Com ela, e a viveza intelectual que Deus lhe dera, logrou aprender tudo o que a mãe lhe
+ensinara, e melhor ainda do que ela o sabia, desde que o tempo lhe permitiu desenvolver os
+primeiros elementos.
+
+D) Foram seis dias, não digo de reclusão absoluta, mas de completa solidão, porque ainda nas
+poucas vezes que saiu, fê-lo sempre a horas ou em direções que a ninguém via, e de ninguém
+era visto.
+
+E) Guiomar, entretanto, observava-o a espaços, de revés, como a querer surpreendê-lo; a pouco
+e pouco, porém, o seu olhar foi sendo mais direito e firme. O de Luís Alves era natural e igual
+como antes era, como era ainda agora com todos.
+
+
+
+   4. (FGV / Câmara Municipal de São Paulo - SP / 2024)
+                                                       ==219a34==
+
+
+
+
+Entre as frases abaixo, assinale aquela em que o vocábulo “mais” mostra valor de “tempo”.
+
+A) Os animais que o ser humano come não se extinguem. É por isso que temos mais galinhas do
+que águias neste país.
+
+B) Graças a Deus o sol já se pôs, e não tenho mais de sair para aproveitá-lo.
+
+C) Uma cultura não tem mais valor do que os seus bosques.
+
+D) O cavalo. A mais bela conquista que o homem já fez.
+
+E) O amanhecer é o momento mais bonito do dia, mas, quando ele chega, encontra a maioria
+das pessoas dormindo.
+
+
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             95
+        www.estrategiaconcursos.com.br                                                      97
+
+                                     https://t.me/KakashiAssinaturasBot
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 01
+
+
+
+
+                                               GABARITO
+                                                   1.   LETRA A
+                                                   2.   LETRA C
+                                                   3.   LETRA E
+                                                   4.   LETRA B
+
+
+
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           96
+      www.estrategiaconcursos.com.br                                    97
+
+                                   https://t.me/KakashiAssinaturasBot
+

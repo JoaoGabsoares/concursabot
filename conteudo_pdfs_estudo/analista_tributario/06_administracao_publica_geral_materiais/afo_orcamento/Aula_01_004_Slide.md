@@ -1,0 +1,879 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ADMINISTRAÇÃO FINANCEIRA
+---
+
+# ADMINISTRAÇÃO FINANCEIRA
+
+---
+
+---
+
+ADMINISTRAÇÃO FINANCEIRA
+
+                                           Paulo Portinho
+
+      
+
+
+---
+
+ADMINISTRAÇÃO FINANCEIRA DE
+CURTO PRAZO – CAIXA E CAPITAL
+CIRCULANTE LÍQUIDO
+                                                Paulo Portinho
+
+           
+
+
+---
+
+       O que é Adm Fin de curto prazo?
+      ❑ É essencialmente, aprendermos a calcular os ciclos operacionais e de caixa, as
+        políticas de ﬁnanciamento de curto prazo e as fontes mais comuns para esse tipo de
+        ﬁnanciamento.
+      ❑ Gestão ﬁnanceira de curto prazo, é gerir excedentes ou faltas (de caixa). Decidir qual
+        o tamanho do “capital de giro líquido” (ativos circulantes menos passivos circulantes)
+        se deve manter, decidir o quanto tomar emprestado, decidir o quanto conceder de
+        crédito a clientes (contas a receber mudam o ﬂuxo de caixa) etc.
+      ❑ A principal diferença entre o ﬁnanciamento de curto prazo e o de longo prazo é o
+        tempo do ﬂuxo de caixa estudado e analisado. Curto prazo signiﬁca 1 ano ou menos
+        (em termos contábeis).
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       CCL – O que é caixa?
+      ❑ O capital de giro líquido (capital circulante líquido – CCL)
+
+      ❑ Podemos reescrever a conta do balanço de outra forma
+
+Competência
+Prof. Paulo Portinho
+                                     
+
+
+---
+
+       CCL – O que é caixa?
+      ❑ Caixa seria o que se segue:
+
+
+      ❑ Ou seja, o que acrescenta CAIXA é aumento na dívida de longo prazo ou no
+        patrimônio líquido (o que é claro, pois se entrar dinheiro aportado pelos sócios, de
+        lucro ou de dívida com terceiros, isso vai para o caixa), ou redução nos ativos ﬁxos
+        (venda de imóveis, por exemplo) ou nos outros ativos circulantes (contas a receber
+        virando caixa, estoques à vista etc.).
+      ❑ O que diminui caixa (e que está sob o controle da administração) é reduzir
+        endividamento (pagar dívida reduz caixa) ou pagar dividendos (reduz o lucro
+        acumulado durante o ano no PL, patrimônio líquido ou Equity).
+
+Competência
+Prof. Paulo Portinho
+                                      
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Caixa – os ciclos
+
+      ❑ O ciclo operacional (COp) mede quanto tempo um produto leva no ativo circulante
+        até virar caixa. Ele começa como material, vira estoque de produtos acabados, vira
+        contas a receber e, ﬁnalmente, CAIXA.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Caixa – os ciclos
+      ❑ Já o ciclo de caixa CCx leva em consideração os desembolsos e recebimentos. Nesse
+        caso o primeiro desembolso ocorre no dia 60, e o primeiro recebimento no dia 120.
+        Isso daria 60 dias de "furo" de caixa, ou seja, levamos 60 dias para cobrir o valor que
+        pagamos.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+---
+
+       Caixa – os ciclos
+      ❑ Há um descasamento de caixa nesses ciclos.
+      ❑ Isso pode ser amenizado como?
+      ❑ Reduzindo o período em estoque, isso pode ser feito com just in time ou promoções.
+      ❑ Reduzindo o tempo no contas a receber, isso pode ser feito com descontos para
+        pagamento à vista.
+      ❑ Aumentando o período no contas a pagar.
+      ❑ Tudo isso tem custo!!!
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Gestão de caixa - Estrutura
+      ❑ • Gestor do caixa: responsável pelas decisões que envolvem desembolsos e
+        recebimentos, necessidade de ﬁnanciamento etc.
+      ❑ • Gestor de crédito: responsável pelo contas a receber, decide sobre crédito de
+        clientes e sobre procedimentos de cobrança.
+      ❑ • Gestor de compras: Busca garantir que não haverá falta nem excesso de material,
+        sempre em sintonia com o gestor do caixa.
+      ❑ • Gestor operacional: Responsável pela gestão de tecnologia de produção, sempre
+        em sintonia com vendas e com o gestor de caixa.
+      ❑ • Controller: busca conciliar todos os valores relacionados ao contas a pagar e
+        receber. Contador ou auditor, normalmente.
+
+Competência
+Prof. Paulo Portinho
+                                  
+
+
+---
+
+       Política de ﬁnanciamento
+      ❑ Uma política ﬂexível ou expansionista buscará manter um capital de giro líquido alto,
+        ou seja, fazer grandes investimentos em estoques e recebíveis, com pouco
+        ﬁnanciamento de terceiros.
+      ❑ Uma política restritiva de ﬁnanciamento de curto prazo buscará reduzir (ou negativar)
+        o capital de giro líquido, mantendo poucos ativos circulantes e mais ﬁnanciamento de
+        curto prazo.
+      ❑ Ambas as políticas têm seus próprios custos, taxas de juros de ﬁnanciamento, taxas
+        de juros praticadas pra clientes, prazos, etc.. A gestão de ﬁnanciamento de curto
+        prazo vai buscar equilibrar esses custos, de forma a minimizá-los e maximizar o
+        retorno da empresa.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+ÍNDICES DE ADMINISTRAÇÃO DOS
+CICLOS OPERACIONAL E DE CAIXA
+
+                                                 Paulo Portinho
+
+            
+
+
+---
+
+       Índices de giro e ciclos
+      ❑ Esta parte é simular ao que se estudo em Análise de Balanços, como sempre dito nas
+        aulas, há muita interseção entre os conteúdos.
+      ❑ A diferença entre o que faremos nesse ponto e o anterior é que calcularemos os ciclos
+        olhando diretamente para as contas das demonstrações ﬁnanceiras, ou seja, não nos
+        será dado o prazo em dias dos ciclos, teremos que calcular.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Índices de giro e ciclos
+      ❑ Partiremos do seguinte compilado de contas de balanço e DRE. Perceba como se
+        misturam, nesse caso, as contas acumuladas (DRE) e os “retratos patrimoniais” do
+        balanço.
+
+Competência
+Prof. Paulo Portinho
+                                  
+
+
+---
+
+       Índices de giro e ciclos
+
+      ❑ Giro dos estoques
+
+Competência
+Prof. Paulo Portinho
+                            
+
+
+---
+
+       Índices de giro e ciclos
+
+      ❑ Giro dos recebíveis
+
+Competência
+Prof. Paulo Portinho
+                              
+
+
+---
+
+       Índices de giro e ciclos
+      ❑ Perceba que já temos o ciclo operacional, ou seja, mesmo sem termos o tempo,
+        podemos calculá-lo usando contas do balanço e da DRE.
+
+Competência
+Prof. Paulo Portinho
+                                 
+
+
+---
+
+       Índices de giro e ciclos
+
+      ❑ Giro dos exigíveis (obrigações)
+      ❑ Aqui há considerações sobre a fórmula do giro dos recebíveis. Se no exercício houver
+        informação sobre estoque ﬁnal e inicial, temos que calcular as COMPRAS do ano. Se
+        não houver, houver apenas o CMV, usamos o CMV como COMPRAS no ano.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Índices de giro e ciclos
+      ❑ No caso temos CMV de 16.400, mas houve uma variação dos estoques.
+      ❑ O estoque começou em 4.000 e terminou em 6.000, signiﬁcando que compras MAIS
+        2.000, portanto nossas COMPRAS foram maiores que o CMV.
+
+Competência
+Prof. Paulo Portinho
+                                 
+
+
+---
+
+       Índices de giro e ciclos
+      ❑ Dessa forma já conseguimos calcular o CICLO DE CAIXA.
+
+      ❑ O ciclo de caixa aumenta à medida que os períodos de estoque e de recebíveis ﬁcam
+        mais longos e diminui se a empresa puder diferir (adiar ou prorrogar) a quitação de
+        obrigações com fornecedores e assim alongar as contas a pagar no período.
+      ❑ A maioria das empresas costuma apresentar um ciclo de caixa positivo e, portanto,
+        precisa ﬁnanciar seus estoques e recebíveis (adiantamento de caixa). Quanto mais
+        longo for o ciclo de caixa, maior a necessidade de ﬁnanciamento.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+COMO MONTAR UM ORÇAMENTO DE
+CAIXA
+
+                                               Paulo Portinho
+
+          
+
+
+---
+
+       Fluxo de caixa na prática
+      ❑ O ﬂuxo de caixa é uma ferramenta de gestão simples também conhecida como
+        orçamento de caixa. Consiste em ter todas as previsões de entradas e saídas de caixa
+        alocadas em uma planilha ou em um software, para que o gestor possa saber de
+        antemão quando haverá sobras de caixa, que deverão ser aplicadas, ou faltas, que
+        deverão ser cobertas.
+      ❑ Uma compra a prazo gerará uma previsão, para determinado dia no futuro, de uma
+        saída de caixa, assim como uma venda a prazo gerará uma previsão de recebimento.
+      ❑ A gestão de ﬂuxo de caixa deve, na medida do possível, evitar descasamentos graves
+        ou recorrentes nesse equilíbrio entre o caixa + aplicações de curto prazo, os
+        recebimentos e as necessidades de desembolso.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Fluxo de caixa na prática
+      ❑ Vejamos um exemplo:
+
+Competência
+Prof. Paulo Portinho
+                              
+
+
+---
+
+       Financiamento de curto prazo
+      ❑ As instituições ﬁnanceiras de relacionamento das empresas oferecem várias opções
+        para esse ﬁnanciamento de curto prazo.
+      ❑ A mais comum delas é a linha de crédito. A linha de crédito é um valor
+        predeterminado disponível para a empresa acessar. Ela pode ser ﬁxa ou variável, o
+        que é mais comum. No caso variável, pode ser algo como 1,6% ao mês até o valor de
+        R$ 50.000, 1,8% entre R$ 50.000 e R$ 100.000 e 2% acima de R$ 100.000, até o limite
+        de R$ 200.000.
+      ❑ Se a empresa não precisa apenas daqueles valores diários de descasamento entre
+        recebíveis e exigíveis, mas de um valor maior, por um prazo também um pouco maior
+        (poucos meses), poderá lançar mão de notas promissórias, que são empréstimos de
+        curto prazo, com promessa de pagamento de uma só vez em data futura.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Financiamento de curto prazo
+      ❑ O desconto de duplicata é a modalidade em que a empresa toma dinheiro
+        antecipado dando como garantia (lastro) valores a receber no futuro. Por exemplo, a
+        empresa pode mandar 40 duplicatas para o banco, cada uma com um vencimento e
+        cada cliente com sua característica e risco, o banco calcula o desconto e credita o
+        valor na conta da empresa. Por exemplo, imagine que são R$ 40.000 em duplicatas,
+        com prazo médio ponderado de 2 meses. O banco depositará, por hipótese, R$
+        38.000. Quando for entrando o pagamento dos clientes, o banco quita o empréstimo.
+        Se algum cliente não pagar, o banco cobrará da empresa emissora com base no
+        direito de regresso.
+      ❑ Pode-se lançar mão também de cartão de crédito para as compras da empresa. Nesse
+        caso, o próprio cartão já concede prazo de alguns dias para pagamento. Caso a
+        empresa não pague, poderá usar o crédito rotativo pagando menos do que o devido.
+      ❑ .
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Capital de giro oper. e ﬁnanc.
+      ❑ Ativo circulante operacional ou ativo cíclico é aquele que guarda relação direta com a
+        operação da Companhia, é diretamente inﬂuenciado pelo volume de vendas ou
+        produção, sendo composto por estoques, contas a receber e outros ativos circulantes
+        que tenham natureza relacionada à operação.
+      ❑ O ativo circulante ﬁnanceiro é aquele relacionado com itens de liquidez de curtíssimo
+        prazo do ativo circulante, que não têm ligação com as operações da empresa, ainda
+        que tenham vindo da própria operação, como caixa, bancos e aplicações ﬁnanceiras.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Capital de giro oper. e ﬁnanc.
+      ❑ O passivo circulante operacional está representado pelos itens do passivo circulante
+        relacionados ao ciclo operacional da companhia, tais como fornecedores, salários,
+        encargos, impostos, taxas etc..
+      ❑ Já o passivo circulante ﬁnanceiro corresponde aos itens que não têm vinculação direta
+        com a parte operacional da companhia e são, entre outros, os empréstimos,
+        ﬁnanciamentos que não estão relacionados diretamente com o core business da
+        empresa..
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Capital de giro oper. e ﬁnanc.
+      ❑ O passivo permanente seria formado pelas contas do passivo exigível a longo prazo e
+        patrimônio líquido e representa as fontes ﬁxas de recursos, ou seja, aquelas das quais
+        não se espera GIRO.
+      ❑ Ativo permanente (ou ﬁxo) é formado pelos recebíveis a longo prazo e pelo ativo ﬁxo
+        (imobilizado, intangível, aquele do qual não se espera giro).
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Necessidade de capital de giro
+      ❑ Também chamada de necessidade de investimento em capital de giro – NIG, a NCG
+        (necessidade de capital de giro, ou capital de giro operacional) é calculada SEM os
+        ativos e passivos circulantes ﬁnanceiros, da seguinte forma:
+
+
+      ❑ Para empresas que não têm problemas com capital de giro de curto prazo, aquelas
+        que recebem mais, e mais rápido do que pagam, a questão relevante é o equilíbrio
+        entre ativos e passivos permanentes ou ﬁxos, de forma que sua equação ﬁca como se
+        segue:
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Necessidade de capital de giro
+      ❑ Esse diagrama relaciona os passivos, ativos e o saldo em tesouraria.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+MODELOS DE ADMINISTRAÇÃO DE
+CAIXA.
+
+                                                Paulo Portinho
+
+           
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ O histórico de concursos de administração ﬁnanceira mostra pouquíssimas questões
+        envolvendo gestão e administração de caixa.
+      ❑ A recomendação ao aluno é que, caso o seu edital peça explicitamente modelos de
+        administração ou gestão de caixa, ou mencione, por exemplo, caixa mínimo, modelo
+        de Baumol ou outro, haverá chances de cair na prova. Caso contrário, é um conteúdo
+        raro.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ O modelo mais simples é o do caixa mínimo operacional, que se calcula como se
+        segue:
+      ❑ Imagine uma empresa com ciclo de caixa de 60 dias, isso signiﬁca que entre o
+        pagamento ao fornecedor e o recebimento da mercadoria vendida, em média, leva
+        60 dias. Logo o giro do caixa (ele gira ao longo do ano) será de 6 vezes (360/60).
+      ❑ Supondo que a empresa prevê desembolsos de R$ 1,8 milhão no ano, para, em
+        média, a empresa não ter problemas de caixa (quando sobrar, acumula, quando faltar,
+        utiliza o excedente), deveria manter (1,8 milhão/6) R$ 300 mil em caixa, no mínimo,
+        pois essa será sua necessidade média.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ Fórmulas.
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ Modelo de Baumol ou Lote econômico de compras.
+      ❑ Seu pressuposto principal é que as entradas e saídas futuras do caixa são previstas
+        com certeza. O método calcula qual a quantidade de recursos que deve ser alocada
+        ao caixa, sendo que novos resgates de um título ﬁnanceiro só acontecerão quando o
+        saldo do caixa alcançar zero novamente.
+      ❑ O método se propõe a calcular COMO a empresa deve usar esse dinheiro que recebe
+        de uma só vez no início do período. A fórmula que calcula em QUANTOS
+        pagamentos a empresa deve fazer com esse dinheiro é a seguinte:
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ Fórmulas.
+
+
+      ❑ • "i" é a taxa de juros que se RECEBE pela aplicação do dinheiro investido no início.
+      ❑ • "R" é o valor recebido no início do período.
+      ❑ • "b" o custo de cada transação em R$, ou seja, quanto custa cada transação (não é o
+        VALOR a ser pago, mas o custo de transação mesmo, da transação de RETIRADA do
+        dinheiro da aplicação). Isso pode envolver, por exemplo, IOF, custos com spread
+        bancário (preço de venda e de compra dos títulos), taxas, etc.
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ Normalmente esse modelo funciona bem com projetos que recebem uma dotação
+        orçamentária de início e tem que decidir como fazer o melhor desembolso, o menos
+        custoso.
+      ❑ Suponha que a empresa A receba, no início do período, R$ 200 milhões, que a taxa
+        de juros seja de 1% ao mês e que o custo de movimentar esse dinheiro seja de 10.000
+        reais, teríamos:
+
+      ❑ Isso signiﬁca que a empresa pegará os 200 milhões no início e manterá 1/10 em caixa,
+        o resto aplicado. E a cada 1/10 do período, deverá retirar uma décima parte do valor
+        inicial. Se forem 30 dias, a cada 3 dias a empresa baixará 20 milhões para uso em
+        caixa e deixará o resto aplicado.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Modelos de Adm de Caixa
+      ❑ Modelo de Miller Orr.
+      ❑ Esse é um modelo complexo de máximos e mínimos ideias de caixa, e seu cálculo
+        transcende o objetivo do curso. Porém, ainda que raro, houve questões teóricas sobre
+        Miller Orr em concursos passados de administração ﬁnanceira.
+      ❑ O método de Miller-Orr considera as variações aleatórias que ocorrem no ﬂuxo de
+        caixa e por isso calcula o intervalo com o saldo máximo e mínimo em que se deve
+        manter o nível do caixa. Dentro desses limites, o tomador de decisão deve deixar o
+        caixa oscilar aleatoriamente.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Exercício
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+EFEITO TESOURA
+
+                                                Paulo Portinho
+
+           
+
+
+---
+
+       Efeito Tesoura
+      ❑ Também é conteúdo raro em provas de administração ﬁnanceira. Em concursos que
+        trazem administração ﬁnanceira junto com análise de balanços, o risco de cair
+        aumenta.
+      ❑ A sugestão ao aluno é prestar atenção e estudar bem o tópico se estiver explícito no
+        edital. Caso contrário, a chance de cair é bem pequeno, pois é tópico bem especíﬁco
+        de gestão de tesouraria.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Efeito Tesoura
+      ❑ Na gestão de ﬂuxo de caixa queremos evitar o Efeito Tesoura, que é o decréscimo ao
+        longo do tempo do Saldo em Tesouraria.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Efeito Tesoura
+      ❑ A ﬁgura abaixo mostra razoavelmente o que ocorre quando, ao longo do tempo, as
+        necessidades de capital de giro (diferença entre o Ativo Circulante Operacional e o
+        Passivo Circulante Operacional) crescem mais do que que o Capital Circulante Líquido
+        (diferença entre Ativo Circulante e Passivo Circulante). Isso faz com que,
+        eventualmente no futuro, o Saldo de Tesouraria ﬁque negativo.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Motivos para o Efeito Tesoura
+      ❑ • Aumento de vendas acima do esperado: se passamos a vender mais de forma
+        inesperada, tendemos a precisar de mais capital de giro, e isso pode aumentar a
+        necessidade de uso de caixa, diminuindo o saldo em tesouraria.
+      ❑ • Flexibilização e aumento de prazos para clientes: isso também aumenta a
+        necessidade de capital de giro, pois precisamos investir mais e recebemos com
+        defasagem maior.
+      ❑ • Ampliação de estoques mal planejado: se os estoques aumentam muito, por
+        exemplo, sem a correspondência nas vendas, isso aumenta nossa necessidade de
+        capital de giro para bancar o que não vendemos.
+      ❑ • Redução de prazo junto aos fornecedores: signiﬁca que precisamos pagar antes, o
+        que vai pressionar também o capital de giro.
+
+Competência
+Prof. Paulo Portinho
+                                  
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+PONTO DE EQUILÍBRIO
+
+                                                Paulo Portinho
+
+           
+
+
+---
+
+       Ponto de equilíbrio
+      ❑ Ponto de equilíbrio é daqueles tópicos que deveriam estar mais na parte de
+        administração de produção que em administração ﬁnanceira.
+      ❑ Ocorre que é muito comum caírem questões que envolvam margem de contribuição,
+        que está intimamente relacionada com o ponto de equilíbrio.
+      ❑ O principal motivo de o ponto de equilíbrio ser considerado matéria de administração
+        da produção é que é uma medida de quantidade a produzir, mas todo o resto é
+        ﬁnanceiro.
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Ponto de equilíbrio
+      ❑ De forma muito simpliﬁcada, achar o ponto de equilíbrio é achar a quantidade que
+        deve ser vendida para que haja equilíbrio entre a receita e os custos.
+      ❑ Normalmente os custos estão associados apenas à produção, que é o custo da
+        mercadoria vendida (associado diretamente com a produção, portanto variáveis com a
+        quantidade produzida/vendida) e custos ﬁxos, que não variam com a produção.
+      ❑ Vejamos as fórmulas a seguir:
+
+Competência
+Prof. Paulo Portinho
+                                   
+
+
+---
+
+       Ponto de equilíbrio
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Ponto de equilíbrio
+      ❑ Com um exemplo ﬁca fácil entender a dinâmica.
+      ❑ Uma empresa apresenta as seguintes informações relevantes:
+      ❑ • P: Preço de venda médio por unidade, igual a R$ 4,50;
+      ❑ • V: Custo variável por unidade, igual a R$ 2,50;
+      ❑ • F: Custos operacionais ﬁxos, no valor de R$ 30.000,00.
+      ❑ Considerando-se os dados apresentados, o ponto de equilíbrio, em unidades, é de?
+
+Competência
+Prof. Paulo Portinho
+                                    
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+       Exercícios
+
+Competência
+Prof. Paulo Portinho
+                       
+
+
+---
+
+OBRIGADO!
+                                          Paulo Portinho
+
+     
+
+
+---
+
+---

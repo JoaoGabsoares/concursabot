@@ -1,0 +1,111 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_017_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: REVISANDO POR QUESTÕES
+---
+
+# REVISANDO POR QUESTÕES
+
+---
+
+---
+
+REVISANDO POR QUESTÕES
+ DIREITO PREVIDENCIÁRIO
+
+
+                                           Prof. Adriana Menezes
+
+      
+
+
+---
+
+REGIME GERAL PREVIDÊNCIA SOCIAL
+MANUTENÇÃO E PERDA DA QUALIDADE
+DE SEGURADO - FGV
+
+                                               Prof. Adriana Menezes
+
+          
+
+
+---
+
+        4001256355
+        (FGV/Consultor Legislador - Senado Federal/2023) - Manuela é dona de
+        casa e faz recolhimento para a Previdência Social como contribuinte
+        facultativa há 12 anos ininterruptamente. Em virtude da crise econômica
+        que se abateu sobre a família de Manuela, em janeiro de 2022 ela
+        precisou cessar a contribuição que até então realizava.
+        Considerando os fatos narrados e a previsão                  contida   na   Lei
+        previdenciária, assinale a afirmativa correta.
+
+Prof. Adriana Menezes           
+
+
+---
+
+        A) Manuela manterá a qualidade de segurada, independentemente de
+        contribuições, por até 6 meses.
+        B) Manuela continuará ostentando a condição de segurada por um período de
+        12 meses.
+        C) Por haver realizado mais de 120 contribuições mensais sem interrupção,
+        Manuela terá um período de graça de 24 meses.
+        D) Deixando de recolher, Manuela perderá imediatamente a condição de
+        segurada porque o sistema da Previdência Social é contributivo.
+        E) Manuela terá direito a um período de graça de 36 meses porque contribuiu
+        por mais de 10 anos ininterruptos e não é empregada.
+
+Prof. Adriana Menezes             
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001279663
+        (FGV/Procurador do Estado de Minas Gerais - PGE/MG/2023) - Maria
+        trabalhou em uma sociedade empresária privada localizada em Ouro
+        Preto/MG por 13 anos ininterruptos, exercendo a função de almoxarife.
+        Em razão dos efeitos da pandemia, com a respectiva redução das
+        atividades do seu empregador, Maria foi dispensada sem justa causa em
+        2022, recebendo sua indenização.
+
+Prof. Adriana Menezes           
+
+
+---
+
+        Considerando os fatos narrados e a norma de regência, assinale a opção
+        que indica o prazo no qual, mesmo sem contribuir após a dispensa, Maria
+        continuará ostentando a condição de segurada e, assim, estará coberta
+        pela Previdência Social.
+        A) 24 meses.
+        B) 12 meses.
+        C) 6 meses.
+        D) 3 meses.
+        E) 30 meses.
+
+Prof. Adriana Menezes           
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---

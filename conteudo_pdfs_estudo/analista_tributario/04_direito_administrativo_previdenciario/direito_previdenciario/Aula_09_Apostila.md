@@ -1,0 +1,2957 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Maurício
+artigos_citados:
+- Art. 108.
+- Art. 24.
+- Art. 85-A.
+- art. 108
+- art. 85-
+- artigo 194
+- artigo 1º
+- artigo 7º.
+---
+
+# Maurício
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                         Direito Previdenciário - Prof. Rubens
+                                                      Maurício
+
+                                                         Autor:
+                                     Rubens Mauricio Corrêa
+
+                                         22 de Fevereiro de 2024
+
+---
+
+      Rubens Mauricio Corrêa
+      Aula 08
+
+                                                                                     Índice
+1) Legislação Previdenciária: Conteúdo, Fontes, Ramo e Autonomia
+
+
+2) Legislação Previdenciária: Vigência
+
+
+3) Legislação Previdenciária: Interpretação
+
+
+4) Legislação Previdenciária: Integração
+
+
+5) Legislação Previdenciária: Hierarquia
+
+
+6) Competência Legislativa
+
+
+7) Questões - Legislação Previdenciária
+
+
+8) Resumo - Legislação Previdenciária
+
+
+9) Parcelamento de Contribuições
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                           69
+
+                                                             
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    LEGISLAÇÃO PREVIDENCIÁRIA
+
+    CONTEÚDO
+
+    Legislação Previdenciária é o conjunto de regramentos legais e infralegais que
+    regulamentam o sistema previdenciário brasileiro. A legislação previdenciária
+    engloba, por exemplo, a Constituição Federal, leis complementares, leis ordinárias,
+    medidas provisórias, leis delegadas, decretos regulamentares a os atos
+    administrativos (tais como instruções normativas, portarias, regimentos, resoluções,
+    etc.).
+
+    A palavra lei, no entanto, tem diferentes sentidos, conforme seu contexto seja
+    estrito (stricto sensu) ou amplo (lato sensu).
+
+    A lei em sentido estrito (stricto sensu), é a norma elaborada pelo Poder Legislativo,
+    que detém a competência constitucional para legislar. São as denominadas normas
+    legais ou primárias, que podem inovar no direito previdenciário.
+
+    A lei em sentido amplo (lato senso) compreende todo o conjunto de normas
+    referentes ao funcionamento da Previdência Social, sejam normas legais
+    (conhecidas como primárias, que podem inovar), sejam normas infralegais
+    (conhecidas como secundárias, que não podem inovar).
+
+                        Legislação
+                       Previdenciária
+                 (leis em sentido amplo)
+
+                                           Leis
+                            (normas legais, em sentido estrito)                        referentes ao
+                                                                                      funcionamento
+                                                +                                     da Previdência
+                                     Atos Administrativos                                  Social
+                                     (normas infralegais)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             3
+      www.estrategiaconcursos.com.br                                                                   69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    FONTES DO DIREITO PREVIDENCIÁRIO
+
+    "Fonte do direito" é uma expressão utilizada no meio jurídico para se referir aos
+    componentes utilizados no processo de composição do direito, enquanto conjunto
+    sistematizado de normas, com um sentido e lógica próprios, disciplinador da
+    realidade social de um Estado. Trata-se, portanto, da matéria prima da qual nasce
+    o direito.
+    A palavra fonte é empregada metaforicamente conforme observa o jurista suíço
+    Claude Du Pasquier, senão vejamos:
+
+           “remontar à fonte de um rio é buscar o lugar de onde as suas águas saem
+           da terra; do mesmo modo, inquirir sobre a fonte de uma regra jurídica é
+           buscar o ponto pelo qual sai das profundidades da vida social para
+           aparecer na superfície do Direito.”
+
+    Segundo o jurista e doutrinador Miguel Reale, “o termo fonte do direito deve
+    indicar os processos de produção da norma jurídica, vinculados a uma estrutura do
+    poder, o qual, diante de fatos e valores, opta por dada solução normativa e pela
+    garantia do seu cumprimento”.
+    Ao utilizarmos a expressão “fontes do direito”, queremos designar o texto em que
+    o Direito está embasado ou todos os elementos que possam ajudar na sua
+    aplicabilidade.
+    Ainda no dizer de Miguel Reale:
+
+           “Por fonte do direito designamos os processos ou meios em virtude dos
+           quais as regras jurídicas se positivam com legítima força obrigatória, isto
+           é, com vigência e eficácia no contexto de uma estrutura normativa”.
+
+    Fonte do Direito é, portanto, a origem do Direito, suas raízes históricas, de onde
+    se cria (fonte material) e como se aplica (fonte formal), ou seja, o processo de
+    produção das normas.
+    São exemplos de fontes do direito: as leis, jurisprudência, doutrina, analogia,
+    princípio geral do direito, costumes e equidade.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   4
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    As fontes do Direito Previdenciário podem ser primárias ou secundárias:
+
+              Fontes Primárias (também denominadas fonte legal, direta ou imediata),
+              corresponde às que têm força suficiente para gerar a regra jurídica,
+              podendo inovar no ordenamento jurídico. São atos legislativos
+              (emanados do Poder Legislativo), ou de natureza legislativa (atos com
+              força de lei, emanados do Poder Executivo, cujo exemplo mais
+              importante, hoje, são as medidas provisórias), que têm como
+              característica poderem inovar o direito.
+
+              Fontes Secundárias (também denominadas fontes infralegais ou
+              mediatas), correspondem às que não têm a força das primeiras, mas
+              esclarecem os espíritos dos aplicadores da lei e servem de precioso
+              substrato para a compreensão e aplicação global do Direito, sem inovar.
+              Têm como característica a impossibilidade teórica de criar, de forma
+              inaugural, direitos ou obrigações, ou de modificar direitos ou obrigações
+              previstos em lei ou outros atos primários. São decretos regulamentares e
+              atos administrativos, que apenas regulamentam a lei, ou seja, detalham
+              seus comandos e uniformizam procedimentos da administração, a fim de
+              dar execução à lei.
+
+    São exemplos de fontes primárias do Direito (atos legais):
+          •    Constituição Federal de 1988
+          •    Emendas constitucionais
+          •    Leis complementares
+          •    Leis ordinárias
+          •    Leis delegadas
+          •    Medidas provisórias
+          •    Decreto legislativo
+          •    Resolução do Senado
+          •    Tratados internacionais
+          •    Súmulas Vinculantes
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   5
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    São exemplos de fontes secundárias do Direito (atos infralegais):
+          • Decretos Regulamentares
+          • Portarias
+          • Instruções Normativas
+
+    O estudo das “fontes do direito” se inicia com a diferenciação entre direito
+    enquanto forma, no caso das fontes formais (norma jurídica positivada em leis,
+    decretos, portarias, etc) e direito enquanto matéria, no caso das fontes materiais
+    (substância/valor/justiça).
+
+    Vejamos a seguir o conceito de fontes formais e fontes materiais do direito:
+
+    Fonte Formal do Direito: é aquela pela qual o direito se manifesta. Dividem-se em
+    fontes formais imediatas e fontes formais mediatas, conforme definição abaixo:
+
+          • As fontes formais imediatas são aqueles fatos que, por si só, são fatos
+            geradores do direito, como por exemplo, as normas legais.
+
+          • As fontes formais mediatas são os princípios gerais do direito, a
+            jurisprudência e a doutrina. São os meios de expressão do Direito, as formas
+            pelas quais as normas jurídicas se exteriorizam, tornam-se conhecidas.
+
+    Para que um processo jurídico constitua fonte formal é necessário que tenha o
+    poder de criar o Direito. Este significa introduzir no ordenamento jurídico novas
+    normas jurídicas.
+
+    No Brasil, temos algumas formas de expressão das fontes formais, sendo as leis a
+    principal forma de expressão; contando também com a jurisprudência (conjunto de
+    entendimentos de determinado tribunal) e a doutrina.
+
+    Dizem respeito ao direito já devidamente formalizado, que revelam um direito
+    vigente, possibilitando a sua aplicação a um caso concreto.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   6
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    No sentido formal, portanto, pode-se afirmar que a expressão “fontes do direito”
+    diz respeito aos processos e estruturas capazes de produzir normas jurídicas aptas
+    a regular as interações entre indivíduos e entre estes e o governo.
+
+    As fontes formais estatais englobam a Constituição, leis complementares, leis
+    ordinárias, leis delegadas, medidas provisórias, decretos legislativos, resoluções do
+    senado. Englobam, também, decretos regulamentares do poder executivo,
+    instruções ministeriais, circulares, portarias, ordem de serviço e normas individuais.
+
+    As principais fontes formais da legislação previdenciária são:
+          •   Constituição Federal;
+          •   Lei nº 8.212/91 (custeio) e Lei nº 8.213/91 (benefícios);
+          •   RPS, aprovado pelo decreto nº 3.048/99 (custeio e benefícios);
+          •   Instrução normativa INSS/PRES nº 77/2015 (benefícios);
+          •   Instrução normativa RFB nº 971/2009 (custeio);
+          •   Lei nº 8.742/93 (Lei Orgânica da Assistência Social – LOAS);
+          •   Decreto nº 6.214/07 (regulamenta o Benefício de Prestação Continuada).
+
+    Fonte Material do Direito: É o estudo filosófico ou sociológico dos motivos éticos
+    ou dos fatos econômicos que condicionam o aparecimento e as transformações das
+    regras do direito. São constituídas pelos fatos sociais, pelos problemas que
+    emergem na sociedade e que são condicionados pela moral, economia, geografia.
+
+    As fontes materiais do direito previdenciário consistem, portanto, nos fatores que
+    interferem na produção de suas normas jurídicas, como, por exemplo, os
+    fundamentos do surgimento dos benefícios previdenciários e os costumes nas
+    relações entre o INSS e o segurado.
+
+    São elementos que emergem da própria realidade social e dos valores que inspiram
+    o comportamento a ser tutelado e que levam ao vislumbre de um direito. A título
+    exemplificativo, as fontes materiais, dentre outras, podem ser:
+
+    - Fontes materiais históricas;
+    - Fontes materiais religiosas;
+    - Fontes materiais econômicas;
+    - Fontes materiais naturais;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   7
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    - Fontes materiais políticas;
+    - Fontes materiais morais.
+
+    No sentido material, portanto, pode-se afirmar que todo fato social é fonte do
+    direito. Tudo o que acontece de relevante pode dar ensejo à criação, alteração ou
+    extinção de direitos.
+
+    No campo específico da Seguridade Social, o direito surge de variáveis sociais e
+    econômicas como a expectativa de vida da população, riqueza do país, Índices de
+    desemprego, saúde dos trabalhadores, número de acidentes do trabalho, etc.
+
+                                                                   Constituição
+                                                                     Federal                         +
+                                      Leis                           Leis                           atos
+                                                                                                administrativos
+                                (sentido amplo)                 Complementares
+                                                                                                  em geral
+          Fonte                                                       Leis
+          Formal                                                    Ordinárias               ater-se ao disposto
+                                Jurisprudência                        Medida                 em lei, permitindo
+                                                                                              sua aplicação ao
+                                                                     Provisória                caso concreto.
+                                                                        Lei
+                                                                     Delegada                    sem trazer
+                                                                                                 inovações
+                                                                fontes primárias
+                                                                                             fontes secundárias
+
+                                       Demais Ramos do Direito
+
+
+                               Também são considerados fontes do direito
+                                                          previdenciário.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                         8
+      www.estrategiaconcursos.com.br                                                                               69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                               Principais fontes formais
+
+                                                     Constituição Federal
+
+                                 Lei nº 8.212/91 (custeio) e Lei nº 8.213/91 (benefícios)
+
+                             RPS, aprovado pelo Decreto nº 3.048/99 (custeio e benefícios)
+
+                                Instrução Normativa INSS/PRES nº 77/2015 (BENEFÍCIOS)
+
+                                     Instrução Normativa RFB nº 971/2009 (CUSTEIO)
+
+                                                       Lei nº 8.742/93
+                                          (Lei orgânica da assistência social – loas)
+
+                                                 Decreto nº 6.214/07
+                                   (Regulamenta o benefício de prestação continuada)
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+    (CESPE - Analista Legislativo - CAM DEP – 2014). Acerca da legislação previdenciária,
+    especialmente no que se refere às suas fontes, autonomia, vigência e interpretação, julgue o item
+    que se segue.
+    As fontes formais do direito previdenciário incluem a CF e as Leis n.º 8.212/1991 e n.º 8.213/1991.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    As fontes formais do direito são aquelas pela qual o direito se manifesta. Tais fontes podem ser
+    imediatas ou mediatas.
+    As fontes formais imediatas são aqueles fatos que, por si só, são fatos geradores do direito, como
+    por exemplo, as normas legais.
+    As fontes formais mediatas são os princípios gerais do direito, a jurisprudência e a doutrina. São os
+    meios de expressão do Direito, as formas pelas quais as normas jurídicas se exteriorizam, tornam-
+    se conhecidas.
+    As fontes do Direito Previdenciário também podem ser primárias ou secundárias.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              9
+      www.estrategiaconcursos.com.br                                                                   69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Fontes Primárias (também denominadas fonte legal, direta ou imediata), corresponde às que têm
+    força suficiente para gerar a regra jurídica, podendo inovar no ordenamento jurídico.
+    Fontes Secundárias (também denominadas fontes infralegais ou mediatas), correspondem às que
+    não têm a força das primeiras, mas esclarecem os espíritos dos aplicadores da lei e servem de
+    precioso substrato para a compreensão e aplicação global do Direito, sem inovar.
+    No direito Previdenciário temos como principais fontes formais:
+    Constituição Federal – fonte primária;
+    Lei nº 8.212/91 (custeio) e Lei nº 8.213/91 (benefícios) – fonte primária;
+    RPS, aprovado pelo decreto nº 3.048/99 (custeio e benefícios) – fonte secundária;
+    Instrução normativa INSS/PRES nº 77/2015 (benefícios) – fonte secundária;
+    Instrução normativa RFB nº 971/2009 (custeio) – fonte secundária;
+    Lei nº 8.742/93 (Lei Orgânica da Assistência Social – LOAS) – fonte primária;
+    Decreto nº 6.214/07 (regulamenta o Benefício de Prestação Continuada) – fonte secundária.
+
+    Assim sendo podemos perceber que dentre as fontes formais do direito previdenciário incluem-se
+    a CF e as Leis nº 8.212/1991 e nº 8.213/1991, como afirma o enunciado. Assertiva correta.
+
+
+    Gabarito: CERTO.
+
+    RAMO E AUTONOMIA DO DIREITO PREVIDENCIÁRIO
+
+    O enquadramento do Direito Previdenciários não é pacífico, mas os doutrinadores
+    mais atuais colocam-no como ramo do direito social, enquanto outros classificam
+    como ramo do direito público (corrente tradicionalista), voltada para o estudo e a
+    regulamentação da Seguridade Social. Evidentemente, nunca será direito privado,
+    já que, na relação jurídico-securitária, há a participação do Estado, dotado de seu
+    poder de império, determinando a filiação compulsória ao sistema e exigindo o
+    pagamento de contribuições.
+    Trata-se, outrossim, de um ramo didaticamente autônomo do direito público, uma
+    vez que possui métodos, objeto e princípios jurídicos próprios, além de leis
+    específicas e divisão interna.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      10
+      www.estrategiaconcursos.com.br                                                            69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Além disso, a própria CF/88 separou a Previdência Social do ramo do Direito do
+    Trabalho, dando àquela vida autônoma, não mais prevalecendo a antiga concepção
+    de que a previdência pertencia, em termos normativos, ao direito do trabalho.
+
+    Existem duas grandes teorias que versam sobre a autonomia do Direito
+    Previdenciário, senão vejamos:
+
+          • A teoria monista diz que o Direito previdenciário está inserido no Direito do
+            Trabalho; e
+
+          • A teoria dualista, que dispõe haver plena autonomia do direito previdenciário
+                                                       ==219a34==
+
+            sem qualquer interferência do direito trabalhista.
+
+    Atualmente a grande maioria dos juristas defende e milita na teoria dualista, que
+    prega a autonomia entre direito do trabalho e direito previdenciário.
+    O Direito Previdenciário é definindo como um conjunto de regras que regem o
+    seguro social, que tem objetos, princípios e instituto próprios e normas específicas
+    que tratam de Seguridade Social, além de conter um grande repertório
+    jurisprudencial e doutrinário distintos.
+    Se é verdade que em alguns casos, direito previdenciário e direito do trabalho se
+    aproximam, também é verdade que na maioria das ocorrências tal relacionamento
+    não acontece, não sendo correto dizer, atualmente, que o Direito Previdenciário
+    seja um apêndice do Direito Laboral.
+    O Direito do Trabalho, por cuidar basicamente de relações dentre particulares
+    (relação empregatícia), situa-se no campo do Direito Privado; o Direito
+    Previdenciário, no entanto, possui natureza jurídica de direito público, pois a
+    relação entre as partes estabelece-se por força da lei e não por suas vontades.
+    O Poder Constituinte de 1988 criou um capítulo próprio para a Seguridade Social
+    no Capítulo II, incluído no Título VIII (“Da Ordem Social”), no qual constam várias
+    disposições sobre Seguridade Social, abrangendo a Previdência Social, Assistência
+    Social e Saúde, que vai do artigo 194 até o artigo 204, tornando este instituto de
+    Direito Previdenciário totalmente desvinculado do Direito do Trabalho, que teve
+    suas prescrições incluídas no Capítulo II (“Dos Direitos Sociais”) do Título II (“Dos
+    Direitos e Garantias Fundamentais”) no artigo 7º.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   11
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Segundo a doutrina, para caracterizar a autonomia de uma ciência é mister que:
+          • ela seja bastante vasta a ponto de merecer um estudo de conjunto,
+            adequado e particular;
+          • ela contenha doutrinas homogêneas dominadas por conceitos gerais comuns
+            e distintos dos conceitos gerais que informam outras disciplinas;
+          • possua método próprio, empregando processos especiais para o
+            conhecimento das verdades que constituem objeto de suas investigações.
+
+
+    O Direito Previdenciário adquiriu status de ramo autônomo do direito por possuir
+    métodos próprios, objeto próprio, princípios próprios, leis específicas e divisão
+    interna, segundo critérios pacificamente aceitos pela doutrina dominante.
+    O objeto do direito previdenciário é disciplinar a Previdência Social regrando a
+    relação jurídica de benefício e de custeio previdenciário, além de regrar a relação
+    jurídica de previdência complementar.
+    Porém, não se pode afirmar categoricamente que a autonomia ou distanciamento
+    desses dois importantes ramos do Direito implica em seu isolamento absoluto, haja
+    vista que do ponto de vista científico o Direito é uno e as ciências jurídicas do nosso
+    ordenamento são um feixe de regras que se relacionam e se interpenetram.
+
+           Assim sendo, apesar de didaticamente autônimo, o direito previdenciário
+           não é independente dos demais ramos do direito, devendo suas normas
+           e princípios respeitar e ser compatível com os demais princípios e ramos
+           do direito.
+
+                                              Direito Previdenciário
+
+                                                     Ramo do direito social
+
+
+                                                    Ramo do direito público
+                                                    (Corrente tradicionalista)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   12
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                 Autonomia do Direito Previdenciário
+
+                                                   Decorre da existência de
+                                                  princípios jurídicos próprios
+
+                               A CF/88, através dos art. 6º e 7º, separou Previdência e
+                                  Trabalho, dando vida autônoma a cada segmento
+                                                         jurídico
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+
+    (CESPE - Analista Legislativo - CAM DEP - 2014). Acerca da legislação previdenciária,
+    especialmente no que se refere às suas fontes, autonomia, vigência e interpretação, julgue o item
+    que se segue.
+    O direito previdenciário é classificado como ramo do direito privado, tendo reconhecida, pela
+    doutrina majoritária, sua autonomia didática em relação a outros ramos do direito.
+    ( ) CERTO
+    ( ) ERRADO
+    COMENTÁRIOS:
+    A assertiva está incorreta, pois o enquadramento do Direito Previdenciário, apesar de não ser
+    pacífico, tem sido classificado pelos doutrinadores mais atuais como ramo do direito social,
+    enquanto outros classificam como ramo do direito público (corrente tradicionalista), voltada para o
+    estudo e a regulamentação da Seguridade Social. Evidentemente, nunca será direito privado, já que,
+    na relação jurídico-securitária, há a participação do Estado, dotado de seu poder de império,
+    determinando a filiação compulsória ao sistema e exigindo o pagamento de contribuições.
+    Trata-se, outrossim, de um ramo autônomo do direito público, uma vez que possui métodos, objeto
+    e princípios jurídicos próprios, além de leis específicas e divisão interna.
+    Além disso, a própria CF/88 separou a Previdência Social do ramo do Direito do Trabalho, dando
+    àquela vida autônoma, não mais prevalecendo a antiga concepção de que a previdência pertencia,
+    em termos normativos, ao direito do trabalho.
+    No entanto, apesar de didaticamente autônimo, o direito previdenciário não é independente dos
+    demais ramos do direito, devendo suas normas e princípios respeitar e ser compatível com os
+    demais princípios e ramos do direito, uma vez que o direito é uno e indivisível. Mas, para efeito
+    sistemático e didático, o direito é dividido em ramos e o direito previdenciário pertence a um ramo
+    didaticamente autônomo.
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           13
+      www.estrategiaconcursos.com.br                                                                 69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    APLICAÇÃO DAS NORMAS PREVIDENCIÁRIAS
+    Neste capítulo que se inicia ,referente à aplicação das normas previdenciárias,
+    vamos estudar:
+          • Vigência: diz respeito à existência jurídica da norma em determinado
+            momento;
+          • Interpretação: busca o sentido e o alcance das normas jurídicas;
+          • Integração: preenchimento de lacunas no ordenamento jurídico; e
+          • Hierarquia: é a graduação de autoridade das normas.
+
+                                                   Aplicação das
+                                                      Normas
+                                                   Previdenciárias
+
+                     Vigência              Hierarquia            Interpretação           Integração
+
+    VIGÊNCIA
+
+    A vigência é a propriedade das regras jurídicas que estão prontas para produzir
+    seus efeitos. É uma característica da norma que indica o lapso de tempo no qual a
+    conduta por esta prescrita é exigível. Em outras palavras, a vigência indica o
+    período no qual as normas jurídicas têm efeito, bem como diz respeito à sua
+    existência jurídica em determinado momento.
+
+    Não devemos confundir vigência, validade e eficácia, pois possuem conceitos
+    jurídicos distintos, senão vejamos:
+
+    Validade: a validade de uma norma significa, apenas, que ela está integrada ao
+    ordenamento jurídico, ou seja, pertence ao conjunto das normas jurídicas.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            14
+      www.estrategiaconcursos.com.br                                                                  69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Vigência: é a propriedade das regras jurídicas que estão prontas para produzir seus
+    efeitos.
+
+    Eficácia: diz respeito à possibilidade concreta de produção de efeitos.
+
+           Obs.: A vigência é requisito necessário para a eficácia da lei, mas tais
+           conceitos não podem ser confundidos.
+
+    Para exemplificar, podemos citar uma lei publicada dia 15 de agosto de 2018,
+    aumentando uma contribuição previdenciária de 11% para 14%, cuja lei tenha
+    fixado o início da sua vigência em 01 de setembro de 2018. Assim sendo, no dia
+                                                       ==219a34==
+
+    15/08/2018 a lei já é válida, porém ainda não está vigente.
+
+    No dia 01 de setembro de 2018 a lei estará válida e vigente, porém ainda não estará
+    eficaz, uma vez que, para tornar-se eficaz e produzir seus efeitos, a lei que aumenta
+    contribuição de Seguridade Social deverá respeitar a anterioridade nonagesimal
+    (conhecida também por anterioridade mitigada ou noventena), somente podendo
+    ser exigida após 90 dias contados da data da publicação da lei. Após os 90 dias
+    contados da publicação da lei, esta lei terá sua eficácia, além de válida (desde a
+    publicação em 15/08/2018) e vigente (desde 01/09/2018, conforme previsto na
+    própria lei)
+
+           ATENÇÃO: Para esta lei ser eficaz, não são contados 90 dias da vigência,
+           mas sim contados da publicação da lei).
+
+    Geralmente, uma norma entra em vigor no momento de publicação do texto legal
+    que a veicula. No entanto, pode ser estabelecido no próprio texto legislativo que
+    a norma só passará a viger após certo período de tempo, contado a partir da sua
+    publicação. Tal período é denominado “vacatio legis”.
+
+    No exemplo acima, a “vacatio legis” é o período compreendido entre a publicação
+    da lei, em 15/08/2018 e sua vigência, em 01/09/2018.
+
+    Convém lembrar que a Lei de Introdução às Normas do Direito (LINDB), de 1942,
+    estabelece, em seu artigo 1º, que:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   15
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+           “Art. 1º. Salvo disposição em contrário, a lei começa a vigorar em todo o
+           país quarenta e cinco dias depois de oficialmente publicada”.
+
+    Podemos concluir, portanto, que uma lei pode não especificar o seu período de
+    vacância, que então será de 45 dias após oficialmente publicada.
+
+    Em relação ao prazo de vigência temos, portanto, algumas situações possíveis
+    abaixo exemplificadas:
+
+          • Situação 1: “Esta lei entra em vigor na data de sua publicação”. Neste caso,
+             a vigência é imediata, na data da publicação ;
+
+          • Situação 2: “Esta lei entra em vigor no dia 25/09/2018” (data hipotética).
+             Neste caso, a própria lei determina quando será o início da vigência;
+
+          • Situação 3: “Esta lei entra em vigor no primeiro dia do segundo mês
+             subsequente à sua publicação”. Neste caso, a lei determina uma regra para
+             a apuração da data de início da vigência;
+
+          • Situação 4: A lei nada diz a respeito da vigência. Neste caso, devemos utilizar
+             a regra de vigência prevista no art. 1º da LINDB: “Salvo disposição em
+             contrário, a lei começa a vigorar em todo o país quarenta e cinco dias depois
+             de oficialmente publicada”
+
+                                                       VIGÊNCIA
+
+                                        DIZ RESPEITO À SUA EXISTÊNCIA JURÍDICA EM
+                                                  DETERMINANDO MOMENTO
+
+                                     É REQUISITO NECESSÁRIO PARA A EFICÁCIA DA LEI
+
+
+                                   NORMALMENTE A LEI COMEÇA A VIGORAR EM TODO O
+                                      PAÍS NA DATA NELA PREVISTA OU, NÃO HAVENDO
+                                      DISPOSIÇÃO EM CONTRÁRIO, 45 DIAS DEPOIS DE
+                                       PUBLICADA OFICIALMENTE (ART. 1º DA LINDB).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   16
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+    (CESPE - Analista Legislativo - CAM DEP - Consultor Legislativo – 2014). Acerca da
+    legislação previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência e
+    interpretação, julgue o item que se segue.
+    A vigência da lei de natureza previdenciária segue a regulamentação da Lei de Introdução às Normas
+    do Direito Brasileiro, de modo que, salvo disposição contrária, entra em vigor quarenta e cinco dias
+    depois de oficialmente publicada.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    A vigência é a propriedade das regras jurídicas que estão prontas para produzir seus efeitos. É uma
+    característica da norma que indica o lapso de tempo no qual a conduta por esta prescrita é exigível.
+    Em outras palavras, a vigência indica o período no qual as normas jurídicas têm efeito, bem como
+    diz respeito à sua existência jurídica em determinado momento.
+    Para responder essa questão vamos consultar o art. 1º da Lei de Introdução às Normas do Direito
+    Brasileiro - LINDB:
+    Art. 1º. Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco dias
+    depois de oficialmente publicada.
+    (Destaques Nossos).
+    Podemos concluir, portanto, que uma lei pode não especificar o seu período de vacância,
+    que então será de 45 dias após oficialmente publicada. Sendo assim podemos concluir que
+    a assertiva está correta.
+
+
+    Contudo nunca nos esqueçamos do “salvo disposição contrária”, evitando cairmos em pegadinhas.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            17
+      www.estrategiaconcursos.com.br                                                                  69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    INTERPRETAÇÃO
+
+    Interpretação é a parte da ciência jurídica que estuda os métodos e processos
+    lógicos que objetivam definir o conteúdo, sentido e o alcance das normas jurídicas.
+
+    Não devemos, contudo, confundir enunciado normativo com norma jurídica.
+
+    No Direito Previdenciário o enunciado normativo é o texto “seco” da legislação
+    previdenciária, dissociado dos fatos sociais e interpretativos. São apenas palavras
+    reunidas.
+
+    Já a norma jurídica é o texto legal interpretado, dotada de carga criativa do
+    intérprete, diferentemente do caráter geral e abstrato que marca o enunciado
+    normativo.
+
+    A interpretação decorre, portanto, da análise da norma jurídica, para permitir sua
+    aplicação ao caso concreto.
+
+    Toda lei está sujeita a interpretação, não apenas leis obscuras e ambíguas.
+
+    A ciência da interpretação das leis é denominada hermenêutica jurídica e, como
+    toda ciência, tem seus métodos.
+
+    Assim sendo, buscando extrair o preciso alcance, conteúdo e sentido da norma, a
+    doutrina propõe diversos critérios interpretativos, por meio de modelos, elementos
+    e técnicas, conforme abaixo enumerados:
+
+    Interpretação quanto ao meio
+
+          • Interpretação gramatical ou literal (também conhecida como interpretação
+            semântica, textual ou verbal);
+          • Interpretação finalística ou teleológica;
+          • Interpretação sistemática;
+          • Interpretação histórica;
+          • Interpretação lógica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   18
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Interpretação quanto à origem (quanto à fonte)
+
+          •   Interpretação legislativa ou autêntica;
+          •   Interpretação judicial;
+          •   Interpretação administrativa;
+          •   Interpretação doutrinária.
+
+    Interpretação quanto à finalidade (efeitos ou resultados)
+
+          • Interpretação declaratória
+          • Interpretação extensiva
+          • Interpretação restritiva
+
+                               Interpretação (sentido e alcance das normas jurídicas)
+                                                                   Gramatical / Literal
+                                                                Finalística / Teleológica
+                     Quanto ao
+                                                                        Sistemática
+                       Meio
+                                                                         Histórica
+                                                                           Lógica
+                                                                 Legislativa / Autêntica
+
+                    Quanto à                                              Judicial
+                  Origem (fonte)                                      Administrativa
+                                                                        Doutrinária
+
+                     Quanto à                                          Declaratória
+                    Finalidade
+                                                                         Extensiva
+                    (Efeitos ou
+                    Resultados)                                          Restritiva
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   19
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Interpretação quanto ao meio
+
+          • Interpretação gramatical ou literal
+
+             Nesta técnica interpretativa busca-se o sentido da lei mediante a análise do
+             significado das palavras utilizadas pelo legislador, levando-se em conta
+             exclusivamente o rigoroso significado literal das palavras constantes do texto
+             legal, sem considerar outros valores interpretativos.
+
+             Por tratar-se de um método muito restrito, não deve, salvo disposição em
+             contrário, ser utilizada isoladamente.
+
+                                                  Gramatical / Literal
+
+                                        Busca-se o sentido da lei mediante a análise do
+                                       significado das palavras utilizadas pelo legislador
+
+                                                     Método bastante restrito
+
+
+                                              Não deve ser utilizado isoladamente.
+
+          • Interpretação finalística ou teleológica
+
+             Nesta técnica interpretativa busca-se o fim almejado pelo legislador, ou seja,
+             o intérprete busca o sentido da norma por meio do entendimento da
+             finalidade de sua inserção no ordenamento jurídico e por meio dos valores
+             por ela tutelados.
+
+                                             Finalística ou Teleológica
+
+                                            Busca-se o fim almejado pelo legislador
+
+
+                                      É o objetivo a ser atingido com o dispositivo legal
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   20
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação sistemática
+
+             Nesta técnica interpretativa a norma é analisada como parte de um sistema
+             jurídico na qual está inserida, uma vez que a lei não existe isoladamente,
+             devendo ser interpretada em conjunto e de forma compatível com outros
+             diplomas legais do ordenamento jurídico e com os princípios de direito
+             envolvidos.
+
+             Deve-se buscar harmonia e unicidade, característicos do ordenamento
+             jurídico brasileiro, evitando contradições.
+
+                                                       ==219a34==
+
+                                                      Sistemática
+
+                                  Interpretação em conjunto e compatível com outros
+                                     diplomas legais do ordenamento jurídico e com os
+                                             princípios de direito envolvidos.
+
+          • Interpretação histórica
+
+             Por meio desta técnica interpretativa o intérprete deve levar em
+             consideração os antecedentes normativos e históricos, tais como
+             circunstâncias políticas, sociais, econômicas e culturais presentes no
+             momento da edição da norma, mediante a análise contextual dos interesses
+             da época.
+
+                                                                    Histórica
+
+                                          Análise do momento histórico da aprovação
+
+
+                                   Busca-se o sentido da lei mediante a análise contextual
+                                                    dos interesses da época
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   21
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação lógica
+
+             Nesta técnica interpretativa busca-se o sentido e alcance da norma levando-
+             se em conta a compatibilidade e concordâncias por meio de raciocínios e
+             conclusões lógicas.
+
+                                                          Lógica
+
+                               Leva-se em conta a compatibilidade e concordâncias por
+                                        meio de raciocínios e conclusões lógicas
+
+    Interpretação quanto à origem (fonte)
+
+          • Interpretação legislativa ou autêntica
+
+             A interpretação é denominada autêntica quando é realizada pela mesma
+             autoridade responsável pela elaboração da lei que se pretenda interpretar.
+
+             Tal interpretação pode ser realizada:
+
+                     a) no texto da própria lei interpretada, quando determinados
+                        conceitos e esclarecimentos interpretativos são definidos no corpo
+                        na mesma lei;
+
+                     b) poderá ser elaborada nova lei para dirimir dúvidas sobre lei já
+                        existente.
+
+                                            Legislativa ou Autêntica
+
+                                      Realizada pelo próprio legislador, quando traz
+                                      esclarecimentos interpretativos na própria lei ou
+                                       elabora nova lei para dirimir dúvidas sobre lei já
+                                                          existente.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   22
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação judicial
+
+             A interpretação é denominada judicial quando for efetivada pelos órgãos do
+             Poder Judiciário (juízes e tribunais), no exercício da jurisdição, ao analisarem
+             os processos que lhes são submetidos.
+
+             Não devemos confundir interpretação judicial com jurisprudência. A decisão
+             de um juiz é fruto de sua interpretação judicial. No entanto, para falarmos em
+             jurisprudência, é necessário que diversas decisões se reiterem no mesmo
+             sentido.
+
+                                                         Judicial
+
+                               É efetivada pelos órgãos do pode judiciário, no exercício
+                                  da jurisdição, ao analisarem os processos que lhes são
+                                                       submetidos.
+
+          • Interpretação administrativa
+
+             A interpretação é denominada administrativa quando é realizada pela
+             administração pública, no exercício de sua função administrativa.
+
+             A administração interpreta a lei por meio de atos gerais e abstratos (atos
+             administrativos gerais sem analisar casos concretos) ou por meio de atos
+             individuais e concretos (atos administrativos específicos, aplicáveis a casos
+             concretos).
+
+                                                    Administrativa
+
+                                É realizada pela administração pública, no exercício de
+                                                sua função administrativa.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   23
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação doutrinária
+
+             A interpretação é denominada doutrinária quando é fruto do trabalho dos
+             estudiosos do direito, ao analisar didaticamente as normas jurídicas.
+
+             Tal técnica interpretativa não é de observância obrigatória, mas é uma
+             importante ferramenta para que o legislador, juízes e autoridades
+             administrativas fundamentem suas conclusões e posicionamentos.
+
+                                                      Doutrinária
+
+                              A interpretação é denominada doutrinária quando é fruto
+                                 do trabalho dos estudiosos do direito (doutrinadores),
+                                     ao analisar didaticamente as normas jurídicas.
+
+
+                                             Não é de observância obrigatória.
+
+    Interpretação quanto à finalidade (efeitos ou resultados)
+
+          • Interpretação declaratória
+
+             Na interpretação declaratória o intérprete, após utilizar-se dos critérios já
+             estudados de interpretação, conclui que há coincidência entre o que o
+             legislador pretendia dizer e o que efetivamente ficou disposto no texto legal,
+             dispensando qualquer correção interpretativa do alcance normativo.
+
+                                                       Declaratória
+
+
+                                O intérprete conclui que há coincidência entre o que o
+                                  legislador pretendia dizer e o que efetivamente ficou
+                                     disposto no texto legal, dispensando qualquer
+                                      correção interpretativa do alcance normativo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   24
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação extensiva ou ampla
+
+             A interpretação extensiva ocorre quando o legislador diz no enunciado
+             normativo menos do que pretendia, deixando de abranger situações que
+             deveriam estar contempladas, sendo necessário, neste caso, ampliar o
+             alcance da norma, alcançado por meio da interpretação extensiva situações
+             que o legislador originalmente pretendia contemplar.
+
+                                                 Extensiva (ampla)
+
+                               É usada quando o legislador diz menos do que queria e
+                                  devia, deixando de abranger situações que deveriam
+                                                 estar contempladas.
+
+          • Interpretação restritiva ou limitativa
+            A interpretação restritiva ocorre quando o legislador diz no enunciado
+            normativo mais do que pretendia, abrangendo situações que não deveriam
+            estar contempladas, sendo necessário, neste caso, restringir o alcance da
+            norma interpretada, alcançado apenas as situações que o legislador
+            originalmente pretendia contemplar.
+
+
+                                                Restritiva (limitativa)
+
+                                  É usada quando o legislador diz mais do que queria e
+                                   devia, atingindo situações não previstas e indesejadas.
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   25
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+          previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência e
+          interpretação, julgue o item que se segue.
+
+          Ao se utilizar do método de interpretação teleológico o intérprete busca compatibilizar
+          o texto legal a ser interpretado com as demais normas que compõem o ordenamento
+          jurídico, visualizando a lei objeto de interpretação como parte de um todo.
+
+          ( ) CERTO
+
+          ( ) ERRADO
+
+
+          COMENTÁRIOS:
+
+          Interpretação é a parte da ciência jurídica que estuda os métodos e processos lógicos
+          que objetivam definir o conteúdo, sentido e o alcance das normas jurídicas.
+
+          Os métodos de interpretação utilizados são:
+
+
+          Interpretação quanto ao meio
+
+          Interpretação gramatical ou literal (também conhecida como interpretação semântica,
+          textual ou verbal);
+
+          Interpretação finalística ou teleológica;
+
+          Interpretação sistemática;
+
+          Interpretação histórica;
+
+          Interpretação lógica.
+
+          Interpretação quanto à origem (quanto à fonte)
+
+          Interpretação legislativa ou autêntica;
+
+          Interpretação judicial;
+
+          Interpretação administrativa;
+
+          Interpretação doutrinária.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          26
+      www.estrategiaconcursos.com.br                                                                69
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          Interpretação quanto à finalidade (efeitos ou resultados)
+
+          Interpretação declaratória
+
+          Interpretação extensiva
+
+          Interpretação restritiva
+
+          A interpretação teleológica é uma técnica em que se busca o fim almejado pelo
+          legislador, ou seja, o intérprete busca o sentido da norma por meio do entendimento
+          da finalidade de sua inserção no ordenamento jurídico e por meio dos valores por ela
+          tutelados.
+
+          Por outro lado, pela interpretação sistemática a norma é analisada como parte de um
+          sistema jurídico na qual está inserida, uma vez que a lei não existe isoladamente,
+          devendo ser interpretada em conjunto e de forma compatível com outros diplomas
+          legais do ordenamento jurídico e com os princípios de direito envolvidos, devendo-se
+          buscar harmonia e unicidade, característicos do ordenamento jurídico brasileiro,
+          evitando contradições.
+
+          Desta forma, fica evidente que a assertiva trata da técnica de interpretação sistemática
+          (e não de interpretação teleológica).
+
+          Gabarito: ERRADO.
+
+    (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência e interpretação,
+    julgue o item que se segue.
+    Ao se utilizar do método de interpretação sistemático, o intérprete busca compatibilizar o texto
+    legal a ser interpretado com as demais normas que compõem o ordenamento jurídico, visualizando
+    a lei objeto de interpretação como parte de um todo.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            27
+      www.estrategiaconcursos.com.br                                                                  69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Por meio da interpretação sistemática, a norma é analisada como parte de um sistema jurídico na
+    qual está inserida, uma vez que a lei não existe isoladamente, devendo ser interpretada em
+    conjunto e de forma compatível com outros diplomas legais do ordenamento jurídico e com os
+    princípios de direito envolvidos, devendo-se buscar harmonia e unicidade, característicos do
+    ordenamento jurídico brasileiro, evitando contradições.
+    Assim sendo, correta está a presente assertiva ao afirmar que, no método de interpretação
+    sistemático, o intérprete busca compatibilizar o texto legal a ser interpretado com as demais normas
+    que compõem o ordenamento jurídico, visualizando a lei objeto de interpretação como parte de
+    um todo.
+
+
+    Gabarito: CERTO.
+
+    (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência e interpretação,
+    julgue o item que se segue.
+    Ao se utilizar do método de interpretação gramatical, o intérprete busca a literalidade do dispositivo
+    legal.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Por meio da Interpretação gramatical ou literal, o intérprete busca o sentido e o alcance da lei
+    mediante a análise do significado das palavras utilizadas pelo legislador, levando-se em conta
+    exclusivamente o rigoroso significado literal das palavras constantes do texto legal, sem considerar
+    outros valores interpretativos. Por tratar-se de um método muito restrito, não deve, salvo
+    disposição em contrário, ser utilizada isoladamente.
+    Desta forma, podemos afirmar que a assertiva está correta, pois, de fato, ao se utilizar do método
+    de interpretação gramatical, o intérprete busca a literalidade do dispositivo legal.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              28
+      www.estrategiaconcursos.com.br                                                                    69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    INTEGRAÇÃO
+
+    Como vimos, interpretar é buscar o conteúdo e o alcance de determinada norma
+    jurídica. Ou seja, quando utilizamos as técnicas de interpretação, estamos diante a
+    norma jurídica existe, cabendo apenas interpretá-la.
+
+    Entretanto, pode ocorrer de não existir no sistema jurídico uma norma para a
+    situação que se apresente para resolver. Neste caso, a interpretação torna-se
+    prejudicada, pois não norma alguma a se interpretar, uma vez que estamos diante
+    de lacunas normativas, ou seja, situações não disciplinadas por lei, mas que
+    precisam de uma solução a ser dada pelo direito. Neste caso, o aplicador da lei
+    utiliza-se das técnicas de integração da legislação, para garantir a plenitude do
+    direito.
+
+            Em resumo, podemos distinguir a interpretação da integração conforme
+           segue:
+
+                  Interpretação: Pressupõe a existência de uma norma expressa e
+                  específica para o caso.
+
+                  Integração: Aplica-se nos casos de ausência de norma expressa e
+                  específica para o caso.
+
+    Pelo princípio da plenitude do direito, o juiz está proibido de deixar de decidir os
+    litígios a ele submetidos sob a alegação de que não existe lei disciplinando a
+    matéria, pois, nestes casos, deverá utilizar as técnicas de integração, conforme
+    previsto em nosso ordenamento jurídico.
+
+    Integrar, portanto, significa preencher as lacunas da lei. Assim sendo, o intérprete
+    fica autorizado a suprir tais lacunas existentes na norma por meio da utilização de
+    técnicas integrativas.
+
+    A regra geral básica para solucionar o problema das lacunas no direito brasileiro
+    está prevista no art. 4º da Lei de Introdução às Normas do Direito Brasileiro - LINDB,
+    conforme segue:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   29
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+              Art. 4º Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes
+              e os princípios gerais de direito.
+              (grifos nossos)
+
+    Segue abaixo relação com as técnicas de integração previstas na LINDB:
+
+          • Analogia;
+          • Costumes; e
+          • Princípios Gerais do Direito
+
+    No entanto, tratando-se de contribuições previdenciárias, que são espécies
+    tributárias, a solução do problema das lacunas deve seguir uma regra mais
+    específica, e que deve prevalecer, prevista no art. 108 do Código Tributário
+    Nacional – CTN, abaixo transcrito:
+
+              Art. 108. Na ausência de disposição expressa, a autoridade competente para aplicar a
+              legislação tributária utilizará sucessivamente, na ordem indicada:
+              I - a analogia;
+              II - os princípios gerais de direito tributário;
+              III - os princípios gerais de direito público;
+              IV - a equidade.
+              § 1º O emprego da analogia não poderá resultar na exigência de tributo não previsto em
+              lei.
+              § 2º O emprego da equidade não poderá resultar na dispensa do pagamento de tributo
+              devido.
+
+    Segue abaixo relação com as técnicas de integração previstas no CTN:
+
+          •    a analogia;
+          •    os princípios gerais de direito tributário;
+          •    os princípios gerais de direito público; e
+          •    a equidade.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                30
+      www.estrategiaconcursos.com.br                                                                      69
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    A doutrina previdenciária tem adotado, outrossim, técnicas de integração mais
+    específicas para a Seguridade Social, como segue:
+
+          •   a analogia;
+          •   os princípios gerais da Seguridade Social;
+          •   os princípios gerais de direito; e
+          •   a equidade.
+
+    Vamos conceituar e analisar cada uma das técnicas de integração previstas na
+    legislação previdenciária, na doutrina e na jurisprudência:
+
+                            Integração (preenchimento de lacunas no ordenamento jurídico)
+
+                                                                               Analogia
+
+                                                                         Princípios Gerais da
+                         Ferramentas                                      Seguridade Social
+                            para a
+                          Integração                                       Princípios Gerais
+                                                                              do Direito
+
+                                                                               Equidade
+
+
+               Segundo o art. 4º da Lei de Introdução às Normas do Direito Brasileiro
+               (LINDB), “quando a lei for omissa, o juiz decidirá o caso de acordo
+               com a analogia, os costumes e os princípios gerais de direito”
+
+                Juiz não pode abster-se de julgar alegando a inexistência de norma sobre
+                        determinado assunto. Tem que usar recursos integrativos.
+
+    Analogia
+
+    Pela analogia, a lacuna deverá ser preenchida buscando-se solução para casos
+    semelhantes no ordenamento jurídico, para os quais exista norma jurídica. Pelo
+    conceito de analogia, casos parecidos devem ser julgados de maneira semelhante.
+    O uso da analogia, nos termos do § 1º do art. 108 do CTN, não poderá resultar na
+    exigência de uma contribuição previdenciária não previsto em lei.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      31
+      www.estrategiaconcursos.com.br                                                            69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    A utilização da analogia tem por fundamento o princípio da isonomia, pois em casos
+    semelhantes devem-se aplicar soluções análogas.
+
+                                                       Analogia
+
+                                     Baseia-se em situações similares existentes no
+                                                 ordenamento jurídico.
+
+    Princípios Gerais da Seguridade Social
+
+    Não preenchida a lacuna por meio da analogia, deve o responsável pela aplicação
+    da legislação previdenciária recorrer-se dos Princípios Gerais da Seguridade Social.
+
+    Tais princípios estão previstos na Constituição Federal, mais exatamente nos
+    artigos 194 a 204.
+
+                                  Princípios Gerais da Seguridade Social
+
+                                Não preenchida a lacuna por meio da analogia, deverá o
+                                intérprete buscar a solução nos princípios gerais da
+                                Seguridade Social, que se encontram nos artigos 194 a
+                                204 da Contituição Federal.
+
+    Princípios Gerais do Direito
+
+    Não preenchida a lacuna por meio da analogia nem tampouco por meio dos
+    princípios gerais da Seguridade Social, deve o responsável pela aplicação da
+    legislação previdenciária recorrer-se dos Princípios Gerais do Direito.
+
+    Princípios Gerais do Direito são ideias basilares e fundamentais do direito, que lhe
+    dão apoio e coerência, fornecendo as principais diretrizes do ordenamento jurídico.
+    Trata-se de enunciações normativas de valor genérico, que condicionam e orientam
+    a compreensão do ordenamento jurídico em sua aplicação e integração ou mesmo
+    para a elaboração de novas normas. São considerados, por muitos autores, como
+    sendo os alicerces do ordenamento jurídico.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   32
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Trago, também, uma das melhores definições do conceito de princípios, extraída
+    dos ensinamentos de Celso Antônio Bandeira de Mello:
+
+           “Princípio é, por definição, mandamento nuclear de um sistema,
+           verdadeiro alicerce dele, disposição fundamental que se irradia sobre
+           diferentes normas, compondo-lhes o espírito e servindo de critério para
+           a sua exata compreensão e inteligência, exatamente por definir a lógica
+           e a racionalidade do sistema normativo, no que lhe confere a tônica e lhe
+           dá sentido harmônico. É o conhecimento dos princípios que preside a
+           intelecção das diferentes partes componentes do todo unitário que há
+           por nome sistema jurídico positivo”         ==219a34==
+
+                                         Princípios Gerais do Direito
+
+                                 Fornecem as diretrizes principais do ordenamento
+                                                 jurídico brasileiro.
+
+    Equidade
+
+    Caso nenhuma das técnicas anteriores preencha a lacuna normativa, a autoridade
+    responsável pela aplicação da legislação previdenciária se utilizará da equidade,
+    procurando dar a solução mais justa, por meio da humanização da aplicação
+    normativa.
+
+    Quando decide por equidade, o juiz aplicará a norma que estabeleceria se fosse o
+    legislador, com o mais amplo senso de justiça.
+
+    Neste caso, a decisão é carregada de um amplo grau de discricionariedade para
+    preencher a lacuna, adequando o ordenamento jurídico, na falta de norma
+    específica, às especificidades apresentadas no caso concreto, decidindo da forma
+    que entenda ser a mais justa.
+
+    O uso da equidade, nos termos do § 2º do art. 108 do CTN, não poderá resultar na
+    dispensa de pagamento de uma contribuição previdenciária devida.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   33
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                                        Equidade
+
+
+                                É o sentimento do justo. É o recurso intuitivo das
+                                exigências da justiça, em caso de omissão normativa.
+
+    Costumes
+
+    Nos termos do art. 4º da LINDB, quando a lei for omissa, o juiz decidirá o caso de
+    acordo com a analogia, os costumes e os princípios gerais de direito.
+
+    Considera-se costume a prática reiterada no tempo que se subtende obrigatória.
+    A isso chamamos juridicamente de costume, havendo a presença de dois elementos
+    que o compõem:
+
+          • elemento objetivo (reiteração no tempo); e
+          • elemento subjetivo (obrigatoriedade social).
+
+    Preenchidos esses dois requisitos (reiteração no tempo e obrigatoriedade social),
+    podemos dizer, então, que temos um costume dentro de uma sociedade
+    politicamente organizada. Aliás, as regulações jurídicas, no seu nascedouro, eram
+    tipicamente consuetudinárias (baseadas nos costumes). Com o passar dos tempos,
+    a lei foi assumindo o papel de destaque e os costumes se tornaram secundários nas
+    resolução dos conflitos sociais.
+
+    No ordenamento jurídico brasileiro é vedada a revogação da lei pelos costumes,
+    seja na hipótese de provocar o seu desuso, seja no caso de ser contrário à lei.
+
+                                                       Costumes
+
+
+                             Baseia-se nas práticas reiteradas, de longa data, pela
+                             sociedade e aceitas como corretas.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   34
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    HIERARQUIA
+
+    As normas que compõem o ordenamento jurídico brasileiro guardam hierarquia
+    entre si, ou seja, existem normas superiores que devem ser respeitadas pelas
+    normas inferiores.
+
+    Em se tratando de conflitos positivos (mais de uma norma sobre o assunto), temos
+    as seguintes regras básicas de solução de antinomias (contradição entre duas leis):
+          • a norma de hierarquia superior prevalece sobre a norma de hierarquia
+            inferior;
+          • a norma posterior prevalece sobre a mais antiga;
+          • a lei especial prevalece sobre a lei geral (critério da especialidade).
+
+
+    Portanto, quanto da aplicação da lei, deve-se seguir uma hierarquia, ou seja, as leis
+    de menor grau devem obedecer às de maior grau.
+          • No topo da hierarquia temos as normas constitucionais originais ou
+            reformadoras.
+          • Seguem-se as leis complementares, leis ordinárias, leis delegadas, as
+            medidas provisórias e os decretos legislativos que internalizam, no direito
+            brasileiro, as convenções, tratados e acordos internacionais firmados pelo
+            Brasil.
+          • Logo abaixo estão, como norma infralegal, as normas regulamentares de
+            âmbito administrativo. Assim, os decretos expedidos pelo Presidente da
+            República (art. 84, IV, da CF/88), as resoluções, as portarias, as instruções
+            normativas, as ordens de serviço e os pareceres normativos são aceitos como
+            fontes formais, na medida em que observem as normas de hierarquia
+            superior, uma vez que estes atos se destinam a trazer concretude para a
+            norma legal, orientando a forma de proceder da própria administração.
+
+
+    Como se constata, há uma evidente hierarquia entre as fontes. O ordenamento
+    jurídico nacional caracteriza as normas em categorias, quanto à hierarquia, da
+    seguinte forma:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   35
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Normas Constitucionais:
+
+          • Constituição Federal;
+          • Emendas Constitucionais.
+          • Os tratados e convenções internacionais sobre direitos humanos que forem
+            aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três
+            quintos dos votos dos respectivos membros são equivalentes a emendas
+            constitucionais, nos termos do § 3º do art. 5º da CF/88.
+
+    As normas constitucionais são as normas mais importantes do ordenamento jurídico
+    nacional. Por tal razão, um dos princípios pertinentes à Constituição Federal é o
+    princípio da supremacia Constitucional.
+                                                       ==219a34==
+
+    Normas Infraconstitucionais:
+
+             • Normas Supralegais;
+             • Normas Legais; e
+             • Normas Infralegais.
+
+             4.1.2.1. Normas Supralegais: são os tratados internacionais de direitos
+                      humanos aprovados pelo procedimento ordinário. Esses Tratados,
+                      conforme dispõe o STF, estão acima de todas as leis e a abaixo da
+                      Constituição e suas emendas.
+
+             4.1.2.2. Normas Legais:
+                      • Leis Complementares;
+                      • Leis Ordinárias;
+                      • Leis Delegadas;
+                      • Medidas Provisórias;
+                      • Decretos Legislativos;
+                      • Resoluções da Câmara dos Deputados;
+                      • Resoluções do Senado Federal; e
+                      • Tratados internacionais que não versarem sobre direitos
+                        humanos serão equivalentes às leis ordinárias (não podendo,
+                        portanto, disciplinar matéria reservada a lei complementar).
+             Caso as normas legais deixem de respeitar a Constituição, as Emendas
+             Constitucionais ou as Normas Supralegais, deverão ser declaradas
+             inconstitucionais ou ilegais.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   36
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+             4.1.2.3. Normas Infralegais: são assim divididas:
+                      • Decretos;
+                      • Portarias;
+                      • Instruções Normativas;
+                      • Ordens de Serviço;
+                      • outros atos administrativos.
+
+
+    Esses atos estão no patamar mais baixo da hierarquia normativa. Caso as normas
+    infralegais deixem de respeitar as Normas Constitucionais, as Normas Supralegais
+    ou as Normas Legais, deverão ser declaradas inconstitucionais ou ilegais.
+
+
+    A legislação previdenciária é submetida a esta mesma hierarquia estudada,
+    prevalecendo as normas constitucionais em detrimento das legais e estas, em
+    detrimento das normas complementares (apesar de haver divergência doutrinária
+    sobre a hierarquia entre leis complementares e leis ordinárias). A princípio, não há
+    hierarquia entre as duas leis básicas da previdência (Leis nº 8.212/91 e nº 8.213/91),
+    cabendo algumas regras de preferência em caso de conflitos de normas, como, por
+    exemplo:
+    a) prevalência da norma específica sobre a genérica; e
+    b) o in dubio pro misero.
+
+    Ainda dentro da legislação previdenciária, vejamos o que está disposto no art. 85-
+    A da lei 8.212/91:
+
+           Art. 85-A. Os tratados, convenções e outros acordos internacionais de que Estado
+           estrangeiro ou organismo internacional e o Brasil sejam partes, e que versem sobre matéria
+           previdenciária, serão interpretados como lei especial.
+
+    Como podemos observar, os tratados, convenções e outros acordos internacionais
+    que versem sobre matéria previdenciária serão considerados como lei especial e
+    não lei geral. Assim, pelo critério da especialidade, havendo conflito entre lei
+    interna e um tratado que trade de matéria previdenciária, deverá prevalecer a
+    norma especial (tratado) sobre a norma geral (lei interna).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          37
+      www.estrategiaconcursos.com.br                                                                69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    COMPETÊNCIA LEGISLATIVA
+    Conforme previsão constitucional, compete privativamente à União legislar sobre
+    questões relacionadas a seguridade social. Contudo, lei complementar poderá
+    autorizar os Estados a legislar sobre questões específicas relacionadas à Seguridade
+    Social.
+    Ademais, compete à União, aos Estados e ao Distrito Federal legislar
+    concorrentemente sobre previdência social.
+    Nos casos de legislação concorrente entre União, Estados e Distrito Federal, a
+    competência da União limitar-se-á a estabelecer normas gerais.
+    Outrossim, a competência da União para legislar sobre normas gerais não exclui a
+    competência suplementar dos Estados.
+    Caso inexista lei federal sobre normas gerais, os Estados exercerão a competência
+    legislativa plena, para atender a suas peculiaridades. No entanto, a superveniência
+    de lei federal sobre normas gerais suspenderá a eficácia da lei estadual, no que lhe
+    for contrário.
+
+
+    Segue abaixo as respectivas normas constitucionais que tratam da competência
+    legislativa previdenciária:
+
+
+           Art. 22. Compete privativamente à União legislar sobre:
+           (...)
+           XXIII - seguridade social;
+
+
+           Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+           (...)
+           XII - previdência social, proteção e defesa da saúde;
+            (...)
+           § 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer
+           normas gerais.
+           § 2º A competência da União para legislar sobre normas gerais não exclui a competência
+           suplementar dos Estados.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           38
+      www.estrategiaconcursos.com.br                                                                 69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+            § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência
+            legislativa plena, para atender a suas peculiaridades.
+            § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual,
+            no que lhe for contrário.
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+    (CESPE - Técnico do Seguro Social – INSS - 2016). Com relação ao conteúdo e à autonomia
+                                                       ==219a34==
+
+    da legislação previdenciária, julgue o item abaixo.
+    Lei complementar editada pela União poderá autorizar os estados e o DF a legislar sobre questões
+    específicas relacionadas à seguridade social.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão fala sobre competência legislativa. As regras sobre este assunto são encontradas na
+    Constituição Federal. Assim sendo, vamos consultar a CF/88 e conferir a resposta:
+    Art. 22. Compete privativamente à União legislar sobre:
+    (...)
+    XXIII - seguridade social;
+    (...)
+    Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões específicas
+    das matérias relacionadas neste artigo.
+
+
+    Apesar de não constar o Distrito Federal no texto da Constituição Federal, ainda assim a assertiva
+    está correta, pois o DF tem as mesmas competências legislativas dos Estados e Municípios. Como
+    podemos ver, a assertiva está correta.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             39
+      www.estrategiaconcursos.com.br                                                                   69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    (CESPE - Auditor de Controle Externo – TCE/ PA – 2016). Acerca do regime geral e dos
+    regimes especiais de previdência social, julgue o item seguinte.
+    É competência privativa da União legislar sobre previdência social, sendo, portanto, vedado aos
+    estados e ao Distrito Federal legislar sobre essa matéria.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão fala sobre competência legislativa. As regras sobre esse assunto são encontradas na
+    Constituição Federal. Vamos, então, consultá-la em seus artigos 22 e 24 abaixo:
+    Art. 22. Compete privativamente à União legislar sobre:
+    (...)
+    XXIII - seguridade social;
+
+
+    Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+    (...)
+    XII - previdência social, proteção e defesa da saúde;
+    (...)
+    § 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais.
+    § 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos
+    Estados.
+    § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para
+    atender a suas peculiaridades.
+    § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for
+    contrário.
+    (Destaques Nossos).
+
+
+    Podemos concluir que a assertiva está errada ao afirmar que é vedado aos Estados e ao Distrito
+    Federal legislar sobre a previdência social, pois, de acordo com a CF/88, em regra, Estados e Distrito
+    Federal cuidam da suplementação da norma, tornando-as adequadas às necessidades especificas
+    de cada região, cabendo à União a tarefa de estabelecer as normas gerais.
+
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    40
+      www.estrategiaconcursos.com.br                                                                          69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    QUESTÕES COMENTADAS
+    1 - (CESPE – Analista Judiciário – STJ – 2018) Tendo como referência a doutrina e
+    a jurisprudência a respeito da organização e dos princípios do sistema de
+    seguridade social brasileiro, julgue o item a seguir.
+     O princípio do direito adquirido não se aplica à seara previdenciária, pois,
+    conforme o entendimento do Supremo Tribunal Federal, inexiste direito adquirido
+    a regime jurídico.
+    Certo (      )
+    Errado (         )
+
+
+    COMENTÁRIOS:
+    Ao contrário do que afirma a questão, o princípio do direito adquirido se aplica à
+    seara previdenciária sim, uma vez se o segurado preencher todos os requisitos para
+    um certo benefício na vigência de uma lei, mesmo que esta lei venha a ser
+    posteriormente alterada, o direito do segurado não é alterado.
+
+
+    Gabarito: ERRADA.
+
+    2- (Inédita) Quanto às fontes de direito previdenciário, podemos afirmar que a
+    Medida Provisória 871 editada em 18/01/2019 é uma fonte primária.
+    Certo (      )
+    Errado (         )
+
+
+    COMENTÁRIOS:
+    As fontes de direito previdenciário podem ser primárias ou secundárias.
+    As fontes primárias são aquelas que têm força suficiente para inovar no
+    ordenamento jurídico, sendo abrangidas pelos atos legislativos e os atos com força
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   41
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    de lei. Entre estas podemos citar as medidas provisórias, as leis em sentido estrito,
+    a Constituição Federal, as Emendas Constitucionais, entre outras.
+    As fontes secundárias são aquelas que não tem força de lei, não podendo inovar
+    no ordenamento jurídico, mas servindo para complementar as fontes primárias.
+    Como exemplo podemos citar os decretos regulamentares, as portarias e as
+    Instruções Normativas.
+    Portanto, a questão está correta ao afirmar que a MP 871 é uma fonte primária.
+
+    Gabarito: CORRETA.
+
+    3 – (Inédita) Acerca das fontes legislativas de direito previdenciário, podemos
+    afirmar que a Instrução Normativa 77/2015 e o Decreto 3.048/99 são exemplos de
+    fontes secundárias.
+    Certo (      )
+    Errado (         )
+
+
+    COMENTÁRIOS:
+    Quanto às fontes de direito previdenciário, podemos separar as normas em fontes
+    primárias e fontes secundárias.
+    Fontes primárias são aquelas que têm força suficiente para inovar no ordenamento
+    jurídico. São exemplos de fontes primárias: Constituição Federal, emendas
+    constitucionais, leis complementares, leis ordinárias, leis delegadas, medidas
+    provisórias, decretos autônomos, Resolução do Senado, tratados internacionais e
+    súmulas vinculantes.
+    Fontes secundárias são aquelas que não podem inovar no ordenamento jurídico e
+    servem para esclarecer as normas primárias, sem inovar. São exemplos: decretos
+    regulamentares, portarias e instruções normativas.
+    O Decreto 3.048/99 é um decreto regulamentar e a Instrução Normativa 77/2017
+    é uma instrução normativa, portanto, ambos são normas secundárias.
+
+    Gabarito: CERTO.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   42
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    4. (CESPE - Analista Legislativo - CAM DEP – 2014). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    As fontes formais do direito previdenciário incluem a CF e as Leis n.º 8.212/1991 e
+    n.º 8.213/1991.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    As fontes formais do direito são aquelas pela qual o direito se manifesta. Tais fontes
+    podem ser imediatas ou mediatas.
+    As fontes formais imediatas são aqueles fatos que, por si só, são fatos geradores
+    do direito, como por exemplo, as normas legais.
+    As fontes formais mediatas são os princípios gerais do direito, a jurisprudência e a
+    doutrina. São os meios de expressão do Direito, as formas pelas quais as normas
+    jurídicas se exteriorizam, tornam-se conhecidas.
+    As fontes do Direito Previdenciário também podem ser primárias ou secundárias.
+    Fontes Primárias (também denominadas fonte legal, direta ou imediata),
+    corresponde às que têm força suficiente para gerar a regra jurídica, podendo inovar
+    no ordenamento jurídico.
+    Fontes Secundárias (também denominadas fontes infralegais ou mediatas),
+    correspondem às que não têm a força das primeiras, mas esclarecem os espíritos
+    dos aplicadores da lei e servem de precioso substrato para a compreensão e
+    aplicação global do Direito, sem inovar.
+    No direito Previdenciário temos como principais fontes formais:
+          • Constituição Federal – fonte primária;
+          • Lei nº 8.212/91 (custeio) e Lei nº 8.213/91 (benefícios) – fonte primária;
+          • RPS, aprovado pelo decreto nº 3.048/99 (custeio e benefícios) – fonte
+            secundária;
+          • Instrução normativa INSS/PRES nº 77/2015 (benefícios) – fonte secundária;
+          • Instrução normativa RFB nº 971/2009 (custeio) – fonte secundária;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   43
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Lei nº 8.742/93 (Lei Orgânica da Assistência Social – LOAS) – fonte primária;
+          • Decreto nº 6.214/07 (regulamenta o Benefício de Prestação Continuada) –
+            fonte secundária.
+
+
+    Assim sendo podemos perceber que dentre as fontes formais do direito
+    previdenciário incluem-se a CF e as Leis nº 8.212/1991 e nº 8.213/1991, como
+    afirma o enunciado. Assertiva correta.
+
+
+    Gabarito: CERTO.
+
+
+    5. (CESPE - Analista Legislativo - CAM DEP - 2014). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    O direito previdenciário é classificado como ramo do direito privado, tendo
+    reconhecida, pela doutrina majoritária, sua autonomia didática em relação a outros
+    ramos do direito.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    A assertiva está incorreta, pois o enquadramento do Direito Previdenciário, apesar
+    de não ser pacífico, tem sido classificado pelos doutrinadores mais atuais como
+    ramo do direito social, enquanto outros classificam como ramo do direito público
+    (corrente tradicionalista), voltada para o estudo e a regulamentação da Seguridade
+    Social. Evidentemente, nunca será direito privado, já que, na relação jurídico-
+    securitária, há a participação do Estado, dotado de seu poder de império,
+    determinando a filiação compulsória ao sistema e exigindo o pagamento de
+    contribuições.
+    Trata-se, outrossim, de um ramo autônomo do direito público, uma vez que possui
+    métodos, objeto e princípios jurídicos próprios, além de leis específicas e divisão
+    interna.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   44
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Além disso, a própria CF/88 separou a Previdência Social do ramo do Direito do
+    Trabalho, dando àquela vida autônoma, não mais prevalecendo a antiga concepção
+    de que a previdência pertencia, em termos normativos, ao direito do trabalho.
+    No entanto, apesar de didaticamente autônimo, o direito previdenciário não é
+    independente dos demais ramos do direito, devendo suas normas e princípios
+    respeitar e ser compatível com os demais princípios e ramos do direito, uma vez
+    que o direito é uno e indivisível. Mas, para efeito sistemático e didático, o direito é
+    dividido em ramos e o direito previdenciário pertence a um ramo didaticamente
+    autônomo.
+
+                                                       ==219a34==
+
+    Gabarito: ERRADO.
+
+
+    6. (CESPE - Analista Legislativo - CAM DEP - Consultor Legislativo – 2014). Acerca
+    da legislação previdenciária, especialmente no que se refere às suas fontes,
+    autonomia, vigência e interpretação, julgue o item que se segue.
+    A vigência da lei de natureza previdenciária segue a regulamentação da Lei de
+    Introdução às Normas do Direito Brasileiro, de modo que, salvo disposição
+    contrária, entra em vigor quarenta e cinco dias depois de oficialmente publicada.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+
+
+    A vigência é a propriedade das regras jurídicas que estão prontas para produzir
+    seus efeitos. É uma característica da norma que indica o lapso de tempo no qual a
+    conduta por esta prescrita é exigível. Em outras palavras, a vigência indica o
+    período no qual as normas jurídicas têm efeito, bem como diz respeito à sua
+    existência jurídica em determinado momento.
+    Para responder essa questão vamos consultar o art. 1º da Lei de Introdução às
+    Normas do Direito Brasileiro - LINDB:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   45
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+           Art. 1º. Salvo disposição contrária, a lei começa a vigorar em todo o país quarenta e cinco
+           dias depois de oficialmente publicada.
+           (Destaques Nossos).
+
+    Podemos concluir, portanto, que uma lei pode não especificar o seu período de
+    vacância, que então será de 45 dias após oficialmente publicada. Sendo assim
+    podemos concluir que a assertiva está correta.
+
+
+    Contudo nunca nos esqueçamos do “salvo disposição contrária”, evitando cairmos
+    em pegadinhas.
+
+
+    Gabarito: CERTO.
+
+
+    7. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação teleológico o intérprete busca
+    compatibilizar o texto legal a ser interpretado com as demais normas que
+    compõem o ordenamento jurídico, visualizando a lei objeto de interpretação como
+    parte de um todo.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Interpretação é a parte da ciência jurídica que estuda os métodos e processos
+    lógicos que objetivam definir o conteúdo, sentido e o alcance das normas jurídicas.
+    Os métodos de interpretação utilizados são:
+    Interpretação quanto ao meio
+          • Interpretação gramatical ou literal (também conhecida como interpretação
+            semântica, textual ou verbal);
+          • Interpretação finalística ou teleológica;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           46
+      www.estrategiaconcursos.com.br                                                                 69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          • Interpretação sistemática;
+          • Interpretação histórica;
+          • Interpretação lógica.
+    Interpretação quanto à origem (quanto à fonte)
+          • Interpretação legislativa ou autêntica;
+          • Interpretação judicial;
+          • Interpretação administrativa;
+          • Interpretação doutrinária.
+    Interpretação quanto à finalidade (efeitos ou resultados)
+          • Interpretação declaratória
+          • Interpretação extensiva
+          • Interpretação restritiva
+
+
+    A interpretação teleológica é uma técnica em que se busca o fim almejado pelo
+    legislador, ou seja, o intérprete busca o sentido da norma por meio do
+    entendimento da finalidade de sua inserção no ordenamento jurídico e por meio
+    dos valores por ela tutelados.
+
+
+    Por outro lado, pela interpretação sistemática a norma é analisada como parte de
+    um sistema jurídico na qual está inserida, uma vez que a lei não existe isoladamente,
+    devendo ser interpretada em conjunto e de forma compatível com outros diplomas
+    legais do ordenamento jurídico e com os princípios de direito envolvidos, devendo-
+    se buscar harmonia e unicidade, característicos do ordenamento jurídico brasileiro,
+    evitando contradições.
+
+
+    Desta forma, fica evidente que a assertiva trata da técnica de interpretação
+    sistemática (e não de interpretação teleológica).
+
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   47
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    8. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da
+    legislação previdenciária, especialmente no que se refere às suas fontes,
+    autonomia, vigência e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação sistemático, o intérprete busca
+    compatibilizar o texto legal a ser interpretado com as demais normas que
+    compõem o ordenamento jurídico, visualizando a lei objeto de interpretação como
+    parte de um todo.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Por meio da interpretação sistemática, a norma é analisada como parte de um
+    sistema jurídico na qual está inserida, uma vez que a lei não existe isoladamente,
+    devendo ser interpretada em conjunto e de forma compatível com outros diplomas
+    legais do ordenamento jurídico e com os princípios de direito envolvidos, devendo-
+    se buscar harmonia e unicidade, característicos do ordenamento jurídico brasileiro,
+    evitando contradições.
+    Assim sendo, correta está a presente assertiva ao afirmar que, no método de
+    interpretação sistemático, o intérprete busca compatibilizar o texto legal a ser
+    interpretado com as demais normas que compõem o ordenamento jurídico,
+    visualizando a lei objeto de interpretação como parte de um todo.
+
+
+    Gabarito: CERTO.
+
+
+    9. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação gramatical, o intérprete busca a
+    literalidade do dispositivo legal.
+    ( ) CERTO
+    ( ) ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   48
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    COMENTÁRIOS:
+    Por meio da Interpretação gramatical ou literal, o intérprete busca o sentido e o
+    alcance da lei mediante a análise do significado das palavras utilizadas pelo
+    legislador, levando-se em conta exclusivamente o rigoroso significado literal das
+    palavras constantes do texto legal, sem considerar outros valores interpretativos.
+    Por tratar-se de um método muito restrito, não deve, salvo disposição em contrário,
+    ser utilizada isoladamente.
+    Desta forma, podemos afirmar que a assertiva está correta, pois, de fato, ao se
+    utilizar do método de interpretação gramatical, o intérprete busca a literalidade do
+    dispositivo legal.
+
+
+    Gabarito: CERTO.
+
+
+    10. (CESPE - Técnico do Seguro Social – INSS - 2016). Com relação ao conteúdo e
+    à autonomia da legislação previdenciária, julgue o item abaixo.
+    Lei complementar editada pela União poderá autorizar os estados e o DF a legislar
+    sobre questões específicas relacionadas à seguridade social.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão fala sobre competência legislativa. As regras sobre este assunto são
+    encontradas na Constituição Federal. Assim sendo, vamos consultar a CF/88 e
+    conferir a resposta:
+           Art. 22. Compete privativamente à União legislar sobre:
+           (...)
+           XXIII - seguridade social;
+           (...)
+           Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões
+           específicas das matérias relacionadas neste artigo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       49
+      www.estrategiaconcursos.com.br                                                             69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Apesar de não constar o Distrito Federal no texto da Constituição Federal, ainda
+    assim a assertiva está correta, pois o DF tem as mesmas competências legislativas
+    dos Estados e Municípios. Como podemos ver, a assertiva está correta.
+
+
+    Gabarito: CERTO.
+
+
+    11. (CESPE - Auditor de Controle Externo – TCE/ PA – 2016). Acerca do regime
+    geral e dos regimes especiais de previdência social, julgue o item seguinte.
+    É competência privativa da União legislar sobre previdência social, sendo, portanto,
+    vedado aos estados e ao Distrito Federal legislar sobre essa matéria.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    COMENTÁRIOS:
+    Essa questão fala sobre competência legislativa. As regras sobre esse assunto são
+    encontradas na Constituição Federal. Vamos, então, consultá-la em seus artigos 22
+    e 24 abaixo:
+           Art. 22. Compete privativamente à União legislar sobre:
+           (...)
+           XXIII - seguridade social;
+
+
+           Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente
+           sobre:
+           (...)
+           XII - previdência social, proteção e defesa da saúde;
+           (...)
+           § 1º No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer
+           normas gerais.
+           § 2º A competência da União para legislar sobre normas gerais não exclui a competência
+           suplementar dos Estados.
+           § 3º Inexistindo lei federal sobre normas gerais, os Estados exercerão a competência
+           legislativa plena, para atender a suas peculiaridades.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           50
+      www.estrategiaconcursos.com.br                                                                 69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+           § 4º A superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual,
+           no que lhe for contrário.
+           (Destaques Nossos).
+
+    Podemos concluir que a assertiva está errada ao afirmar que é vedado aos Estados
+    e ao Distrito Federal legislar sobre a previdência social, pois, de acordo com a
+    CF/88, em regra, Estados e Distrito Federal cuidam da suplementação da norma,
+    tornando-as adequadas às necessidades especificas de cada região, cabendo à
+    União a tarefa de estabelecer as normas gerais.
+
+
+    Gabarito: ERRADO.
+
+     LISTA DE EXERCÍCIOS
+
+    1 - (CESPE – Analista Judiciário – STJ – 2018) Tendo como referência a doutrina e
+    a jurisprudência a respeito da organização e dos princípios do sistema de
+    seguridade social brasileiro, julgue o item a seguir.
+
+     O princípio do direito adquirido não se aplica à seara previdenciária, pois,
+    conforme o entendimento do Supremo Tribunal Federal, inexiste direito adquirido
+    a regime jurídico.
+
+    Certo (      )
+
+    Errado (         )
+
+
+    2- (Inédita) Quanto às fontes de direito previdenciário, podemos afirmar que a
+    Medida Provisória 871 editada em 18/01/2019 é uma fonte primária.
+
+    Certo (      )
+
+    Errado (         )
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             51
+      www.estrategiaconcursos.com.br                                                                   69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    3. (CESPE - Analista Legislativo - CAM DEP – 2014). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    As fontes formais do direito previdenciário incluem a CF e as Leis n.º 8.212/1991 e
+    n.º 8.213/1991.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    4. (Inédita) Acerca das fontes legislativas de direito previdenciário, podemos
+    afirmar que a Instrução Normativa 77/2015 e o Decreto 3.048/99 são exemplos de
+    fontes secundárias.
+
+    Certo (      )
+
+    Errado (         )
+
+
+    5. (CESPE - Analista Legislativo - CAM DEP - 2014). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    O direito previdenciário é classificado como ramo do direito privado, tendo
+    reconhecida, pela doutrina majoritária, sua autonomia didática em relação a outros
+    ramos do direito.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    6. (CESPE - Analista Legislativo - CAM DEP - Consultor Legislativo – 2014). Acerca
+    da legislação previdenciária, especialmente no que se refere às suas fontes,
+    autonomia, vigência e interpretação, julgue o item que se segue.
+    A vigência da lei de natureza previdenciária segue a regulamentação da Lei de
+    Introdução às Normas do Direito Brasileiro, de modo que, salvo disposição
+    contrária, entra em vigor quarenta e cinco dias depois de oficialmente publicada.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   52
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    7. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação teleológico o intérprete busca
+    compatibilizar o texto legal a ser interpretado com as demais normas que
+    compõem o ordenamento jurídico, visualizando a lei objeto de interpretação como
+    parte de um todo.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    8. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da
+    legislação previdenciária, especialmente no que se refere às suas fontes,
+    autonomia, vigência e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação sistemático, o intérprete busca
+    compatibilizar o texto legal a ser interpretado com as demais normas que
+    compõem o ordenamento jurídico, visualizando a lei objeto de interpretação como
+    parte de um todo.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    9. (CESPE - Analista Legislativo - CAM DEP - 2014) (Adaptada). Acerca da legislação
+    previdenciária, especialmente no que se refere às suas fontes, autonomia, vigência
+    e interpretação, julgue o item que se segue.
+    Ao se utilizar do método de interpretação gramatical, o intérprete busca a
+    literalidade do dispositivo legal.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    10. (CESPE - Técnico do Seguro Social – INSS - 2016). Com relação ao conteúdo e
+    à autonomia da legislação previdenciária, julgue o item abaixo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   53
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    Lei complementar editada pela União poderá autorizar os estados e o DF a legislar
+    sobre questões específicas relacionadas à seguridade social.
+    ( ) CERTO
+    ( ) ERRADO
+
+
+    11. (CESPE - Auditor de Controle Externo – TCE/ PA – 2016). Acerca do regime
+    geral e dos regimes especiais de previdência social, julgue o item seguinte.
+    É competência privativa da União legislar sobre previdência social, sendo, portanto,
+    vedado aos estados e ao Distrito Federal legislar sobre essa matéria.
+    ( ) CERTO
+    ( ) ERRADO
+
+    GABARITO GERAL
+
+                  1- ERRADO               2- CERTO               3- CERTO                4- CERTO
+
+
+                  5- ERRADO               6- CERTO               7- ERRADO               8- CERTO
+
+
+                  9- CERTO                10- CERTO              11- ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          54
+      www.estrategiaconcursos.com.br                                                                69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    RESUMO DA AULA
+
+          • Legislação Previdenciária
+               • Conteúdo
+                         o Legislação previdenciária é o conjunto de leis e atos normativos
+                           referentes ao funcionamento da Previdência Social.
+                         o A lei em sentido estrito (stricto sensu), é a norma elaborada pelo
+                           Poder Legislativo, que detém a competência constitucional para
+                           legislar. São as denominadas normas legais ou primárias, que
+                           podem inovar no direito previdenciário.
+                         o A lei em sentido amplo (lato senso) compreende todo o conjunto
+                           de normas referentes ao funcionamento da Previdência Social,
+                           sejam normas legais (conhecidas como primárias, que podem
+                           inovar), sejam normas infralegais (conhecidas como secundárias,
+                           que não podem inovar).
+
+
+               • Fontes
+                         o "Fonte do direito" é uma expressão utilizada no meio jurídico
+                           para se referir aos componentes utilizados no processo de
+                           composição do direito, enquanto conjunto sistematizado de
+                           normas, com um sentido e lógica próprios, disciplinador da
+                           realidade social de um Estado.
+                                ▪     Fontes Primárias (também denominadas fonte legal, direta
+                                     ou imediata), corresponde às que têm força suficiente para
+                                     gerar a regra jurídica, podendo inovar no ordenamento
+                                     jurídico. São atos legislativos (emanados do Poder
+                                     Legislativo), ou de natureza legislativa (atos com força de
+                                     lei, emanados do Poder Executivo, cujo exemplo mais
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     55
+      www.estrategiaconcursos.com.br                                                           69
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                     importante, hoje, são as medidas provisórias), que têm
+                                     como característica poderem inovar o direito.
+                                ▪ Fontes Secundárias (também denominadas fontes
+                                  infralegais ou mediatas), correspondem às que não têm a
+                                  força das primeiras, mas esclarecem os espíritos dos
+                                  aplicadores da lei e servem de precioso substrato para a
+                                  compreensão e aplicação global do Direito, sem inovar.
+                                  Têm como característica a impossibilidade teórica de criar,
+                                  de forma inaugural, direitos ou obrigações, ou de modificar
+                                  direitos ou obrigações previstos em lei ou outros atos
+                                  primários. São atos administrativos, que apenas
+                                                       ==219a34==
+
+                                  regulamentam a lei, ou seja, detalham seus comandos e
+                                  uniformizam procedimentos da administração, a fim de dar
+                                  execução à lei.
+
+
+                         o Fontes Formais do Direito: são aquelas pela qual o direito se
+                           manifesta.
+                                ▪ As fontes formais imediatas são aqueles fatos que, por si só,
+                                  são fatos geradores do direito, como por exemplo, as
+                                  normas legais.
+                                ▪ As fontes formais mediatas são os princípios gerais do
+                                  direito, a jurisprudência e a doutrina. São os meios de
+                                  expressão do Direito, as formas pelas quais as normas
+                                  jurídicas se exteriorizam, tornam-se conhecidas.
+                                ▪ Leis (fontes primárias)
+                                ▪ Atos administrativos/infralegais (fontes secundárias)
+                                ▪ Jurisprudência
+                                ▪ Doutrina
+                                ▪ Demais ramos do direito
+                         o Fontes Materiais do Direito: É o estudo filosófico ou sociológico
+                           dos motivos éticos ou dos fatos econômicos que condicionam o
+                           aparecimento e as transformações das regras do direito. São
+                           constituídas pelos fatos sociais, pelos problemas que emergem na
+                           sociedade e que são condicionados pela moral, economia,
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    56
+      www.estrategiaconcursos.com.br                                                          69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                            geografia. No sentido material, portanto, pode-se afirmar que
+                            todo fato social é fonte do direito. Tudo o que acontece de
+                            relevante pode dar ensejo à criação, alteração ou extinção de
+                            direitos.
+
+
+               • Autonomia
+                         o O enquadramento do Direito Previdenciários não é pacífico, mas
+                           os doutrinadores mais atuais colocam-no como ramo do direito
+                           social, enquanto outros classificam como ramo do direito público
+                           (corrente tradicionalista), voltada para o estudo e a
+                           regulamentação da Seguridade Social.
+                         o Trata-se de um ramo autônomo do direito público, uma vez que
+                           possui métodos, objeto e princípios jurídicos próprios, além de
+                           leis específicas e divisão interna.
+                         o A CF/88 separou a Previdência Social do ramo do Direito do
+                           Trabalho, dando àquela vida autônoma, não mais prevalecendo a
+                           antiga concepção de que a previdência pertencia, em termos
+                           normativos, ao direito do trabalho.
+                         o A grande maioria dos juristas defende e milita na teoria dualista,
+                           que prega a autonomia entre direito do trabalho e direito
+                           previdenciário.
+                         o O Direito do Trabalho, por cuidar basicamente de relações dentre
+                           particulares (relação empregatícia), situa-se no campo do Direito
+                           Privado; o Direito Previdenciário, no entanto, possui natureza
+                           jurídica de direito público, pois a relação entre as partes
+                           estabelece-se por força da lei e não por suas vontades.
+                         o O Direito Previdenciário adquiriu status de ramo autônomo do
+                           direito por possuir métodos próprios, objeto próprio, princípios
+                           próprios, leis específicas e divisão interna, segundo critérios
+                           pacificamente aceitos pela doutrina dominante.
+                         o Apesar de didaticamente autônimo, o direito previdenciário não
+                           é independente dos demais ramos do direito, devendo suas
+                           normas e princípios respeitar e ser compatível com os demais
+                           princípios e ramos do direito.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   57
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+             Aplicação das Normas Previdenciárias
+               • Vigência
+                       o A vigência é a propriedade das regras jurídicas que estão prontas
+                         para produzir seus efeitos.
+                       o É uma característica da norma que indica o lapso de tempo no
+                         qual a conduta por esta prescrita é exigível.
+                       o A vigência indica o período no qual as normas jurídicas têm efeito,
+                         bem como diz respeito à sua existência jurídica em determinado
+                         momento.
+                       o Não devemos confundir vigência, validade e eficácia, pois
+                         possuem conceitos jurídicos distintos, senão vejamos:
+                           ▪ Validade: a validade de uma norma significa, apenas, que
+                              ela está integrada ao ordenamento jurídico, ou seja,
+                              pertence ao conjunto das normas jurídicas.
+                           ▪ Vigência: é a propriedade das regras jurídicas que estão
+                              prontas para produzir seus efeitos.
+                           ▪ Eficácia: diz respeito à possibilidade concreta de produção
+                              de efeitos.
+                       o A vigência é requisito necessário para a eficácia da lei, mas tais
+                         conceitos não podem ser confundidos.
+                       o Em regra, a lei começará vigorar no país na data nela prevista ou,
+                         não havendo previsão, 45 dias após oficialmente publicada.
+
+
+               • Interpretação
+                         o Interpretação é a parte da ciência jurídica que estuda os métodos
+                           e processos lógicos que objetivam definir o conteúdo, sentido e
+                           o alcance das normas jurídicas.
+                         o A interpretação decorre da análise da norma jurídica, para
+                           permitir sua aplicação ao caso concreto.
+
+
+                         o Interpretação quanto ao meio
+                              ▪ Interpretação gramatical ou literal (também conhecida
+                                 como interpretação semântica, textual ou verbal);
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   58
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                ▪    Interpretação finalística ou teleológica;
+                                ▪    Interpretação sistemática;
+                                ▪    Interpretação histórica;
+                                ▪    Interpretação lógica.
+
+                         o Interpretação quanto à origem (quanto à fonte)
+                              ▪ Interpretação legislativa ou autêntica;
+                              ▪ Interpretação judicial;
+                              ▪ Interpretação administrativa;
+                              ▪ Interpretação doutrinária.
+
+                         o Interpretação quanto à finalidade (efeitos ou resultados)
+                              ▪ Interpretação declaratória
+                              ▪ Interpretação extensiva
+                                 Interpretação restritiva
+
+               • Integração
+                         o Preenchimento de lacunas no ordenamento jurídico, aplicando-se
+                           nos casos de ausência de norma expressa e específica para o caso.
+
+
+                         o Segundo o no art. 4º da Lei de Introdução às Normas do Direito
+                           Brasileiro – LINDB, quando a lei for omissa, o juiz decidirá o caso
+                           de acordo com:
+                                ▪    Analogia;
+                                ▪    Costumes; e
+                                ▪ Princípios gerais de direito:
+
+
+                         o Segundo o no art. 108 do Código Tributário Nacional- CTN, na
+                           ausência de disposição expressa, a autoridade competente para
+                           aplicar a legislação tributária utilizará sucessivamente, na ordem
+                           indicada:
+                              ▪ Analogia;
+                              ▪ Princípios gerais de direito tributário;
+                              ▪ Princípios gerais de direito público;
+                              ▪ Equidade.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   59
+      www.estrategiaconcursos.com.br                                                         69
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                         o O emprego da analogia não poderá resultar na exigência de
+                           tributo não previsto em lei.
+                         o O emprego da equidade não poderá resultar na dispensa do
+                           pagamento de tributo devido.
+                         o Segundo a doutrina previdenciária, quando a lei for omissa, o juiz
+                           decidirá o caso de acordo com:
+                                ▪    Analogia;
+                                ▪    Princípios gerais da Seguridade Social;
+                                ▪    Princípios gerais de direito; e
+                                ▪    Equidade.
+
+
+               • Hierarquia
+                         o As normas que compõem o ordenamento jurídico brasileiro
+                           guardam hierarquia entre si, ou seja, existem normas superiores
+                           que devem ser respeitadas pelas normas inferiores.
+                         o Em se tratando de conflitos positivos (mais de uma norma sobre
+                           o assunto), temos as seguintes regras básicas de solução de
+                           antinomias (contradição entre duas leis):
+                                ▪ a norma de hierarquia superior prevalece sobre a norma de
+                                  hierarquia inferior;
+                                ▪ a norma posterior prevalece sobre a mais antiga;
+                                ▪ a lei especial prevalece sobre a lei geral (critério da
+                                  especialidade).
+
+
+                         o Normas Constitucionais:
+                                ▪ Constituição Federal;
+                                ▪ Emendas Constitucionais.
+                                ▪ Os tratados e convenções internacionais sobre direitos
+                                  humanos que forem aprovados, em cada Casa do
+                                  Congresso Nacional, em dois turnos, por três quintos dos
+                                  votos dos respectivos membros (são equivalentes a
+                                  emendas constitucionais, nos termos do § 3º do art. 5º da
+                                  CF/88.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   60
+      www.estrategiaconcursos.com.br                                                         69
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                         o Normas Infraconstitucionais:
+                                ▪ Normas Supralegais;
+                                ▪ Normas Legais; e
+                                ▪ Normas Infralegais.
+
+                                         • Normas Supralegais: os tratados internacionais de
+                                           direitos humanos aprovados pelo procedimento
+                                           ordinário. Esses Tratados, conforme dispõe o STF,
+                                           estão acima de todas as leis e a abaixo da
+                                           Constituição e suas emendas
+
+
+                                         • Normas Legais:
+                                                 o    Leis Complementares;
+                                                 o    Leis Ordinárias;
+                                                 o    Leis Delegadas;
+                                                 o    Medidas Provisórias;
+                                                 o    Decretos Legislativos;
+                                                 o    Resoluções da Câmara dos Deputados;
+                                                 o    Resoluções do Senado Federal; e
+                                                 o    Tratados internacionais que não versarem
+                                                      sobre direitos humanos serão equivalentes às
+                                                      leis ordinárias (não podendo, portanto,
+                                                      disciplinar   matéria   reservada    a    lei
+                                                      complementar).
+
+                                         • Normas Infralegais:
+                                                 o    Decretos;
+                                                 o    Portarias;
+                                                 o    Instruções Normativas;
+                                                 o    Ordens de Serviço;
+                                                 o    outros atos administrativos.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        61
+      www.estrategiaconcursos.com.br                                                              69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+             Competência Legislativa
+          • Conforme previsão constitucional, compete privativamente à União legislar
+            sobre questões relacionadas a seguridade social. Contudo, lei complementar
+            poderá autorizar os Estados a legislar sobre questões específicas
+            relacionadas à Seguridade Social.
+          • Compete à União, aos Estados e ao                                    Distrito    Federal   legislar
+            concorrentemente sobre previdência social.
+                 o Nos casos de legislação concorrente entre União, Estados e Distrito
+                   Federal, a competência da União limitar-se-á a estabelecer normas
+                   gerais.
+                 o Outrossim, a competência da União para legislar sobre normas gerais
+                   não exclui a competência suplementar dos Estados.
+                 o Caso inexista lei federal sobre normas gerais, os Estados exercerão a
+                   competência legislativa plena, para atender a suas peculiaridades. No
+                   entanto, a superveniência de lei federal sobre normas gerais
+                   suspenderá a eficácia da lei estadual, no que lhe for contrário.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    62
+      www.estrategiaconcursos.com.br                                                                          69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    PARCELAMENTO DE CONTRIBUIÇÕES
+
+    INTRODUÇÃO
+
+    VEDAÇÕES
+
+          •
+
+          •
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   63
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    FORMALIZAÇÃO DO PARCELAMENTO
+
+          •
+
+          •
+
+          •
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   64
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+                                                       ==219a34==
+
+          •
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   65
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          •
+          •
+              o
+              o
+
+          •
+
+          •
+
+          •
+
+          •
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   66
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+    RESCISÃO DO PARCELAMENTO
+
+
+          •
+          •
+
+          •
+
+          •
+
+          •
+
+          •
+
+          •
+          •
+          •
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   67
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 08
+
+          •
+
+          •
+          •
+          •
+
+    INFORMAÇÕES FINAIS
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   68
+      www.estrategiaconcursos.com.br                                                         69
+
+                                   
+
+
+---
+
+---

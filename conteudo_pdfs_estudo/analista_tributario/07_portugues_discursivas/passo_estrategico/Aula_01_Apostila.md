@@ -1,0 +1,3247 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Passo Estratégico de Português
+---
+
+# Passo Estratégico de Português
+
+Aula 01
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+Sumário
+
+1 - Apresentação
+
+2 - Sobre o Passo Estratégico 
+
+3 – Importância do Assunto – Análise Estatística 
+
+4 – Ortografia 
+
+   4.1 - Novo Acordo Ortográfico da Língua Portuguesa – AOLP 
+
+      4.1.1 - Alfabeto 
+
+      4.1.2- Trema
+
+      4.1.3 – Hífen 
+
+      4.1.4 - Letras maiúsculas e minúsculas 
+
+   4.2 - Letras e Fonemas importantes 
+
+      4.2.1- Emprego das letras “E” e “I” 
+
+      4.2.2 - Emprego das letras “O” e ‘U”: 
+
+      4.2.3 - Emprego das letras “C” e “Ç”: 
+
+      4.2.4 - Emprego das letras “G” e “J”: 
+
+      4.2.5 - Emprego da letra “X”: 
+
+      4.2.6 - Emprego do dígrafo “CH” 
+
+      4.2.7 - Emprego da letra “Z” 
+
+      4.2.8 - Emprego da letra “S” 
+
+      4.2.9 - Emprego do dígrafo “SS” 
+
+      4.2.10 - Emprego do “SC” 
+
+      4.2.11 Uso dos “porquês” 
+
+      POR QUE 
+
+      POR QUÊ 
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                               1
+            www.estrategiaconcursos.com.br
+                                                                                                                                                               60
+
+                                                 
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+      PORQUE 
+
+      PORQUÊ 
+
+      4.2.12 dado/visto/haja vista 
+
+      4.2.13 – onde/Aonde
+
+      4.2.14 acerca de/ a cerca de/ cerca de/ há cerca de 
+
+      4.2.15 Mau x Mal 
+
+5 - Regras de acentuação gráfica 
+
+6 – Crase 
+
+7 - Aposta Estratégica 
+
+8 - Questões-chave de revisão 
+
+9 - Lista de questões comentadas 
+
+10 - Revisão Estratégica 
+
+   10.1 - Perguntas 
+
+   10.2 - Perguntas com respostas 
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                                 2
+            www.estrategiaconcursos.com.br
+                                                                                                                                                                 60
+
+                                                  
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                       1 - APRESENTAÇÃO
+Olá, servidores. Tudo certo? Iniciaremos, nesta aula, nosso Passo Estratégico de Português p/ RFB. Para
+mim, trata-se de um curso extremamente especial, pois o encaro como um retorno aos primeiros
+ensinamentos que obtive sobre a Língua Portuguesa.
+
+Trato de revisitar, constantemente, aquelas regras que aprendi na escola, com todos aqueles detalhes que,
+à época, eram de difícil compreensão. Agora, com um olhar mais crítico, desenvolvi uma relação de amor
+com o nosso querido vernáculo. Surpreendo-me a cada leitura! O mais interessante é que sempre
+aprendemos algo novo, mesmo naquele assunto que já estamos cansados de ver.
+
+Agora, teremos a oportunidade de fazer um estudo diferenciado, tendo por base uma análise estatística
+que fizemos para identificar os aspectos mais recorrentes em provas de concursos públicos. É um estudo
+direcionado e focado, com o fito de otimizar seu tempo e de aperfeiçoar sua estratégia de preparação.
+
+Este material é resultado de muita pesquisa e análise ao longo da nossa trajetória profissional. Há
+exposições teóricas consistentes, exemplos e, principalmente, questões de prova para que você possa pôr
+em prática todo o aprendizado. Tudo foi meticulosamente pensado para que você tenha em mãos um
+excelente material e dê um Passo Estratégico rumo à sua aprovação.
+
+Antes de iniciarmos, gostaria de apresentar-me a vocês, servidores.
+
+                       Sou o professor Carlos Roberto, formado em Ciências Contábeis e Atuariais pela
+                       Universidade de Brasília – UnB, pós-graduado em Controladoria Governamental e,
+                       também, em Língua Portuguesa (Linguística Aplicada). Durante dez anos (2003-2013),
+                       fui servidor do Tribunal de Justiça do Distrito Federal e Territórios – TJDFT e, atualmente,
+                       ocupo o cargo de Analista da carreira de Especialista do Banco Central do Brasil – BCB.
+                       No Estratégia Concursos, sou Professor, Coach e Coordenador dos cursos de
+                       discursivas e do serviço de recursos para provas discursivas.
+
+Nesses últimos anos de docência, aqui no Estratégia Concursos, tenho recebido várias perguntas. Acho
+curioso quando percebo que são bem próximas daquilo que eu costumava perguntar quando ainda não tinha
+esta experiência que acumulei ao longo dos anos, seja como aluno ou professor. Por isso, tento responder a
+todos com entusiasmo, pois sinto que, no fundo, estou sanando as minhas próprias dúvidas.
+
+Este curso será escrito, da primeira à última linha, no tom de quem conversa com alguém que gosta do nosso
+vernáculo e está interessado em entendê-lo. Amar a nossa Língua Portuguesa e defendê-la no âmbito da
+Administração Pública não devem ser apenas o cumprimento de um ofício, mas um objetivo de vida de cada
+um de nós. Conto com vocês nesta missão na qual estamos imbuídos!
+
+                                                                  #amoraovernáculo
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                          3
+        www.estrategiaconcursos.com.br
+                                                                                                                  60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                          2 - SOBRE O PASSO ESTRATÉGICO
+                            O Passo Estratégico é um método de revisão, baseado em análises estatísticas,
+                            que ajuda o aluno a aprimorar a retenção do conteúdo, com base naquilo que é
+                            mais cobrado pela banca específica do concurso.
+
+                         A diferença do Passo para o Curso Regular é a didática utilizada. No curso regular,
+                         a didática empregada proporciona ao aluno que nunca tenha visto o conteúdo
+conseguir compreendê-lo no nível que o permita resolver as questões do concurso. Assim, para atingir esse
+objetivo, os cursos regulares são disponibilizados na forma escrita e em vídeo, numa linguagem mais
+descritiva. No Passo Estratégico, a linguagem utilizada é bem mais direta, porque partimos da premissa de
+que o aluno já estudou o conteúdo pelo menos uma vez, já que o objetivo é revisar a matéria (e não a
+aprender, como nos cursos regulares).
+
+É importante frisar que o Passo Estratégico deve ser utilizado para auxiliar a revisão, como complemento
+ao material regular, não em sua substituição. Assim, para uma boa revisão, o aluno deverá utilizar o Passo
+Estratégico em conjunto com seu material teórico grifado e suas anotações.
+
+Portanto, o Passo Estratégico não deve ser visto como um atalho ao curso regular, não sendo nossa
+pretensão ser “suficiente” a permitir a aprovação dos alunos. Todavia, em algumas matérias menos
+extensas e desde que o aluno possua uma boa base no conteúdo, é possível o estudo direto pelo Passo, com
+a suficiência necessária à aprovação, embora não seja nossa recomendação ou pretensão.
+
+    3 – IMPORTÂNCIA DO ASSUNTO – ANÁLISE ESTATÍSTICA
+Com o intuito de fazer um estudo direcionado, de acordo com as especificidades da banca, fizemos um
+ranking com os percentuais de incidência segregados por assunto, baseando-nos numa amostra de
+questões cobradas de 2017 a 2022. Isso nos permite visualizar os assuntos “preferidos” da banca
+examinadora.
+
+                          Percentual de incidência em concursos similares (FGV)
+                             Interpretação de textos.                                    34,98%
+            Classes de palavras; Formação e estrutura das palavras.                      14,43%
+                                     Linguagem.                                          3,96%
+                          Ortografia, Acentuação e Crase.                                3,27%
+                                 Tipologia Textual.                                      3,11%
+                                     Pontuação.                                          2,90%
+                              Colocação pronominal.                                      2,61%
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   4
+        www.estrategiaconcursos.com.br
+                                                                                                               60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                Termos da oração.                                       2,14%
+               Concordância verbal, nominal e vozes verbais.                            1,92%
+            Relação de coordenação e subordinação das orações.                          1,35%
+                          Palavras “se”, “que” e “como”.                                1,19%
+                           Regência nominal e verbal.                                   1,06%
+
+Essa tabela mostra a ordem decrescente de incidência dos assuntos, ou seja, quanto maior o percentual de
+cobrança de um dado assunto, maior sua importância.
+
+Os assuntos Crase, Acentuação Gráfica e Ortografia possuem um grau de incidência de 3,27% nas
+questões colhidas, possuindo importância média no contexto geral da nossa matéria, de acordo com o
+esquema de classificação que adotaremos, qual seja:
+
+                              % de Cobrança                    Importância do Assunto
+                                 Até 1,9%                           Baixa a Mediana
+                               De 2% a 4,9%                              Média
+                               De 5% a 9,9%                               Alta
+                               10% ou mais                             Muito Alta
+
+                                         4 – ORTOGRAFIA
+Pessoal, sabemos que alguns de vocês já estudaram o Novo Acordo Ortográfico da Língua Portuguesa –
+AOLP e dominam esse assunto. Se esse for o seu caso, aproveite este tópico para fazer uma excelente
+revisão. Contudo, a grande maioria dos alunos continua cometendo deslizes em provas discursivas e a nossa
+intenção é impedir que isso também ocorra com vocês.
+
+Fiz um levantamento estatístico dos principais erros em provas discursivas, nos últimos 3 (três) anos, e
+verificamos que a principal causa de apenações está ligada ao desconhecimento das novas regras oriundas
+do AOLP.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                5
+        www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Revisaremos cada um dos tópicos apresentados no gráfico acima detalhadamente nesta aula. Assim, para
+tirar aquele peso da nossa consciência e deixá-lo seguro nesse aspecto, faremos um estudo teórico de cada
+um deles, a começar pelas principais características do AOLP, com foco na prova discursiva.
+
+Doravante, nenhum aluno nosso vai cometer “vacilos” em provas discursivas relacionados a essas regrinhas,
+combinado? Vamos a elas!
+
+
+4.1 - Novo Acordo Ortográfico da Língua Portuguesa – AOLP
+
+Inicialmente, tomemos a conceituação de Ortografia utilizada pelo Prof. Evanildo Bechara (2015):
+
+“A ortografia é o sistema de representação convencional de uma língua na sua vertente escrita.”
+
+Futuros servidores, a vigência obrigatória do novo Acordo Ortográfico da Língua Portuguesa passou a valer
+a partir do dia 1º de janeiro de 2016. Sua implementação estava prevista para 2013, mas o governo
+brasileiro adiou a medida para alinhar o cronograma com o de outros países lusófonos1 e dar prazo maior
+para a adaptação da população.
+
+            Figura 1 - O mundo da lusofonia
+
+O Acordo tem como objetivo unificar as regras do português escrito em todos os países que têm a língua
+portuguesa como idioma oficial. A tentativa de termos essa unidade de grafia é uma prova que exemplifica
+a consciência da comunidade lusófona no intuito de estreitar suas relações econômicas, sociais, culturais,
+           geográficas, políticas.
+
+            Duas características desse Acordo devem estar claras:
+
+     1 Países lusófonos são aqueles que têm como língua oficial a Portuguesa. No total, são oito os países que
+     apresentam essa característica. Seguem em ordem alfabética os membros que formam essa cadeia: Angola,
+     Brasil, Cabo-Verde, Guiné Bissau, Moçambique, Portugal (o precursor), São Tomé e Príncipe e Timor-Leste.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                    6
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                         
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+I - Ele é meramente ortográfico, ou seja, restringe-se apenas à língua escrita e não afeta nenhum aspecto
+da língua falada;
+
+II – Ele não eliminou todas as diferenças ortográficas observadas nos países que têm a língua portuguesa
+como idioma oficial, mas é um passo em direção à pretendida unificação ortográfica desses países.
+
+O novo acordo altera a maneira como escrevemos algumas palavras, principalmente no que diz respeito à
+acentuação e ao uso do hífen, nos quais se concentram a maioria dos erros cometidos pelos candidatos
+quanto à ortografia. Ele cria dificuldades, pois mexe diretamente com hábitos de escrita que já estão
+enraizados em todos nós. É, pois, um desafio ao qual teremos de nos dedicar.
+
+Particularmente, gostamos de abordar o conteúdo do Novo Acordo Ortográfico nas primeiras aulas do
+nosso curso, para que você possa produzir os primeiros textos já em conformidade com ele. Certamente,
+veremos novamente algumas de suas regras ao longo das demais aulas, mas estudá-lo separadamente fará
+você perceber as grandes novidades introduzidas em nossa querida Língua Portuguesa. Lembre-se que as
+bancas examinadoras são exigentes quanto a esse aspecto, e você não pode perder pontos preciosos por
+bobeira e desatenção.
+
+4.1.1 - Alfabeto
+
+Nosso alfabeto agora tem 26 letras. Uma grande novidade é que foram reintroduzidas as letras k, w e y:
+
+                             ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+- Tudo bem, professor. Poderia nos explicar como usaremos essas letras?
+
+- Claro, meu amigo. Vamos lá?
+
+       Usam-se as letras k, w e y em diversas situações:
+
+   a) Empregam-se em abreviaturas e símbolos, bem como em palavras estrangeiras de uso
+      internacional: km (quilômetro), kg (quilograma), W (watt), K (potássio), Kr (criptônio), Y (ítrio);
+   b) Na escrita de palavras e nomes estrangeiros (incluindo-se seus derivados): playboy, show,
+      playground, windsurf, kung fu, yin, yang, William, kaiser, Kafka, frankliniano, taylorista, darwinismo,
+      etc.;
+   c) O k é substituído por qu antes de e e i, e por c antes de qualquer outra letra: breque, caqui, faquir,
+      níquel, caulim, etc.;
+   d) O k é sempre uma consoante, assim como o c antes do a, o, u e o dígrafo qu de quero;
+   e) O w substitui-se, em palavras portuguesas ou aportuguesadas, por u ou v, conforme o seu valor
+      fonético: sanduíche, talvegue, visigodo, etc.;
+   f) O w é uma vogal ou semivogal pronunciado como u em palavras de origem inglesa: watt-hora,
+      whisky, waffle, Wallace, show. É consoante pronunciado como v em palavras de origem alemã:
+      Walter, Wagner, wagneriano.
+   g) O y é um som vocálico pronunciado como i com função de vogal ou semivogal: Yard (jarda), yen
+      (moeda do Japão), yenita (mineral).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    7
+        www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                 Abreviaturas e símbolos (km, kg, W, K, Kr, Y).
+    K, W, Y
+                 Palavras e nomes estrangeiros (show, playboy, windsurf, playground)
+                 Substituído por qu antes de e e i, e por c antes de qualquer outra letra (caqui, níquel,
+    K            breque, caulim).
+                 Sempre Consoante.
+                 Substitui-se, em palavras portuguesas ou aportuguesadas, por u ou v (sanduíche,
+                 talvegue, visigodo).
+    W
+                 Vogal ou semivogal (origem inglesa - whisky, waffle, Wallace);
+                 Consoante (origem alemã - Walter, Wagner, wagneriano).
+                 Som vocálico pronunciado como i (Yard, yen, yenita)
+    Y
+                 Vogal ou semivogal.
+
+
+4.1.2- Trema
+
+O novo acordo ortográfico trouxe uma grande mudança: nos grupos gue, gui, que, qui, o trema desaparece.
+
+                                   Registro Antigo            Novo Registro
+                                   argüir                     arguir
+                                   bilíngüe                   bilíngue
+                                   cinqüenta                  cinquenta
+                                   delinqüente                delinquente
+                                   eloqüente                  eloquente
+                                   ensangüentado              ensanguentado
+                                   eqüestre                   equestre
+                                   freqüente                  frequente
+                                   lingüeta                   lingueta
+                                   lingüiça                   linguiça
+                                   qüinqüênio                 quinquênio
+                                   sagüi                      sagui
+                                   seqüência                  sequência
+                                   seqüestro                  sequestro
+
+Ainda há alguma aplicação do trema após o novo acordo?
+
+Sim, o trema permanece apenas em palavras estrangeiras e em suas derivadas. Exemplos: Bündchen,
+Schönberg, Müller, mülleriano.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                8
+        www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                      - Desaparece nos grupos gue, gui, que, qui.
+
+                          TREMA       - Permanece em palavras estrangeiras.
+
+                                      - Sua ausência não altera a pronúncia.
+
+
+4.1.3 – Hífen
+
+Com prefixos, usa-se sempre o hífen diante de palavra iniciada por h.
+
+     Exemplos: anti-humanitário, anti-higiênico, anti-histórico, macro-história, mini-hotel, proto-
+     história, sobre-humano, super-homem, ultra-humano.
+
+Não se usa o hífen quando o prefixo termina em vogal diferente da vogal com que se inicia o segundo
+elemento.
+
+     Exemplos: antiético, aeroespacial, agroindustrial, anteontem, antiaéreo, antieducativo,
+     autoaprendizagem, autoescola, autoestrada, autoinstrução, coautor, coedição, extraescolar,
+     infraestrutura, plurianual, semiaberto, semianalfabeto, semiesférico, semiopaco.
+
+O prefixo co aglutina-se, em geral, com o segundo elemento, mesmo quando este se inicia por o.
+
+     Exemplos: coobrigar, coobrigação, coordenar, cooperar, cooperação, cooptar, coocupante.
+
+Não se usa o hífen quando o prefixo termina em vogal e o segundo elemento começa por consoante
+diferente de r ou s.
+
+     Exemplos: autodefesa, anteprojeto, antipedagógico, autopeça, autoproteção, coprodução,
+     geopolítica, microcomputador, pseudomestre, semicírculo, semideus, seminovo, ultramoderno.
+
+Com o prefixo vice, usa-se sempre o hífen.
+
+     Exemplos: vice-diretor, vice-almirante.
+
+Não se usa o hífen quando o prefixo termina em vogal e o segundo elemento começa por r ou s. Nesse caso,
+duplicam-se as letras.
+
+     Exemplos: sociorreligioso, antirrábico, antirracismo, antirreligioso, antirrugas, antissocial,
+     biorritmo, contrarregra, contrassenso, cosseno, infrassom, microssistema, minissaia, multissecular,
+     neorrealismo, neossimbolista, semirreta, ultrarresistente, ultrassom.
+
+Quando o prefixo termina por vogal, usa-se o hífen se o segundo elemento começar pela mesma vogal.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               9
+        www.estrategiaconcursos.com.br
+                                                                                                           60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     Exemplos: anti-inflacionário, anti-ibérico, anti-imperialista, anti-inflamatório, auto-observação,
+     contra-almirante, contra-atacar, contra-ataque, micro-ondas, micro-ônibus, semi-internato, semi-
+     interno.
+
+Quando o prefixo termina por consoante, usa-se o hífen se o segundo elemento começar pela mesma
+consoante.
+
+     Exemplos: hiper-religioso, inter-racial, inter-regional, sub-bibliotecário, sub-base, super-racista,
+     super-reacionário, super-resistente, super-romântico.
+
+Nos demais casos, não se usa hífen.
+
+     Exemplos: hipersensível, hipermercado, intermunicipal, superinteressante, superproteção,
+     superelegante.
+
+Com o prefixo sub, usa-se o hífen também diante da palavra iniciada por r.
+
+     Exemplos: sub-região, sub-raça.
+
+Com os prefixos circum e pan, usa-se o hífen diante da palavra iniciada por m, n e vogal.
+
+     Exemplos: circum-navegação, pan-americano.
+
+Quando o prefixo termina por consoante, não se usa o hífen se o segundo elemento começar por vogal.
+
+     Exemplos: superinteligente, hiperacidez, hiperativo, interescolar, interestadual, interestelar,
+     interestudantil, superamigo, superaquecimento, supereconômico, superexigente, superotimismo,
+     superorganizado, superinteressante.
+
+Com os prefixos ex, sem, além, aquém, recém, pós, pré, pró, usa-se sempre o hífen.
+
+     Exemplos: além-mar, além-túmulo, aquém-mar, ex-hospedeiro, ex-prefeito, ex-aluno, ex-diretor,
+     ex-presidente, pós-graduação, pré-história, pré-vestibular, pró-europeu, recém-casado, recém-
+     nascido, sem-terra.
+
+Usa-se o hífen com os sufixos de origem tupi-guarani: açu, guaçu e mirim.
+
+     Exemplos: amoré-guaçu, anajá-mirim, capim-açu.
+
+Usa-se o hífen para ligar duas ou mais palavras que ocasionalmente se combinam, formando não
+propriamente vocábulos, mas encadeamentos vocabulares.
+
+     Exemplos: ponte Rio-Niterói, eixo Rio-São Paulo.
+
+Não se deve usar o hífen em certas palavras que perderam a noção de composição.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                10
+        www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     Exemplos: girassol, madressilva, mandachuva, paraquedas, paraquedista, pontapé, passatempo.
+
+Para clareza gráfica, se ao final da linha a partição de uma palavra ou combinação de palavras coincidirem
+com o hífen, ele deve ser repetido na linha seguinte (falaremos disso mais adiante ao detalharmos as
+regras de paragrafação).
+
+Observe:
+
+                                   Sem Hífen diante de vogal diferente
+                                  (autoestima, autoescola, antiaério)
+                                   Sem Hífen diante de Consoante diferente de r e s
+                Prefixo terminado (autodefesa, anteprojeto, semicírculo)
+                em vogal          Sem Hífen diante de r e s (dobram-se essas leras)
+                                  (autorretrato, antirracismo, antissocial)
+                                  Com Hífen diante de mesma vogal
+                                  (arqui-inimigo, contra-ataque, micro-ondas)
+                                  Sem        Hífen         diante      de       vogal
+                                  (interestadual, superinteressante)
+                Prefixo terminado Sem hífen diante de consoante diferente
+                em consoante      (intertextual, intermunicipal, supersônico)
+                                  Com Hífen diante de mesma consoante
+                                  (Sub-base, inter-regional, sub-bibliotecária)
+
+
+    Prefixo sub diante de r = Com Hífen (sub-região, sub-raça).
+    Prefixo sub diante de h = retira-se o h e Sem Hífen (subumano, subumanidade).
+    Prefixos circum e pan diante de m,n e vogal = Com Hífen (pan-americano, circum-ambiente).
+    Prefixo co = Sem Hífen mesmo diante da vogal o (coautor, coobrigação).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             11
+        www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Aula 01
+
+  Prefixo vice = sempre Com Hífen (vice-diretor, vice-campeão).
+  Vocábulos que perderam a noção de composição = Sem Hífen (girassol, paraquedas, pontapé).
+  Prefixos ex, sem, além, aquém, pós, pré, pró = Com Hífen (sem-terra, pós-graduação).
+  Com hífen diante de h (super-homem, anti-higiênico).
+
+4.1.4 - Letras maiúsculas e minúsculas
+
+  ➢ Passam a ser grafadas com inicial minúscula (REGRA NOVA):
+
+               a) Os termos fulano, beltrano e sicrano: “Gosto muito de fulano, mas beltrano é quem me
+                  adora, afirmou sicrano.”;
+               b) As titulações: doutor Fernando Pessoa, senhor doutor Henrique da Silva, senhora
+                  doutora Juliana Marques, bacharel Pedro de Souza, cardeal Plínio.
+               c) É facultado o uso das maiúsculas no caso dos designativos de nomes sagrados: Santa
+                  (ou santa) Luzia, São (ou são) Judas Tadeu, Santa (ou santa) Rita, Santo (ou santo)
+                  Agostinho.
+
+  ➢ Permanecem com inicial minúscula (REGRA ANTERIOR REFERENDADA):
+
+               a) Os nomes dos dias, meses e estações do ano: segunda-feira, sábado, janeiro, dezembro,
+                  primavera, verão, outono, inverno.
+               b) As designações dos pontos cardeais e colaterais quando não usados em abreviaturas ou
+                  empregados absolutamente:
+
+        ▪   Conheço o Brasil de norte a sul;
+        ▪   O vento vindo do sudoeste anunciava o temporal.
+
+               c) Nomes próprios usados como comuns, por antonomásia2: “Era um dom-quixote em
+                  matéria de defesa da literatura.”; “Nem sempre se pode evitar a presença dos judas em
+                  certas agremiações.”;
+               d) Nomes próprios que se tornaram comuns, ao integrarem vocábulos compostos ou
+                  locuções: “Para mostrar que não era um joão-ninguém, provocou um deus nos acuda
+                  no debate sobre meio ambiente.”;
+               e) Substantivos comuns, integrantes de designações de acidentes geográficos: baía de
+                  Guanabara, oceano Pacífico, estreito de Gibraltar, rio São Francisco;
+               f) Termos, que não sejam nomes próprios, imediatamente posteriores a dois pontos,
+                  quando não integram citação:
+
+    2
+      Antonomásia é uma figura de linguagem caracterizada pela substituição de um nome por outro
+    nome ou expressão que lembre uma qualidade, característica ou um fato que o identifique de
+    alguma forma.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          12
+        www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+“Um traço se destacava na veemência do orador: vigor da loquacidade como compensação do vazio das
+ideias.”
+
+               g) Termos situados imediatamente depois de ponto de interrogação e de ponto de
+                  exclamação, se até eles o sentido do enunciado está incompleto:
+
+                          ▪   Ah! quem há de entender o teu silêncio?
+                          ▪   Quem é você? dizei-me.
+                          ▪   O que é isso? o que foi que aconteceu?
+
+   ➢ Admitem grafia opcional, com inicial maiúscula ou minúscula:
+
+               a) As designações de domínios do saber, cursos, disciplinas:
+
+Língua Portuguesa (ou língua portuguesa), Matemática (ou matemática), Ciências Sociais (ou ciências sociais);
+
+               b) As categorizações de logradouros públicos, templos, edifícios:
+
+Avenida (ou avenida) Atlântica, Largo (ou largo) do Pelourinho, Praça (ou praça) da Paz.
+
+               c) Nos títulos de livros, o primeiro elemento continua grafado com maiúscula e os demais
+                  vocábulos, excetuados os nomes próprios, admitem a grafia com minúscula ou
+                  maiúscula inicial:
+
+                          ▪   Memórias Póstumas de Brás Cubas (ou Memórias póstumas de Brás Cubas);
+                          ▪   Árvore do Tambor (ou Árvore do tambor);
+                          ▪   Capitu – Memórias Póstumas (ou Capitu – memórias póstumas);
+                          ▪   Vidas Secas (ou Vidas secas);
+                          ▪   Viagens na Minha Terra (ou Viagens na minha terra).
+
+   ➢ Continuam com inicial maiúscula, uma vez que, em relação a tais normas, antes adotadas, o
+     AOLP não propõe mudanças:
+
+               a) As designações dos pontos cardeais, quando em abreviaturas ou quando empregadas
+                  absolutamente:
+
+                          ▪   N (norte), N.E. (nordeste), N.O. (noroeste), S (sul), O (oeste);
+                          ▪   Nordeste alagado, Sul assolado pela seca: contrastes atípicos na realidade
+                              brasileira;
+
+               b) Os nomes próprios de qualquer natureza (pessoas, religiosos, lugares): João, Maria,
+                  Policarpo Quaresma, João Guimarães Rosa, Clarice Lispector, Jeová, Alá, São Paulo, Porto
+                  Alegre.
+               c) Os termos que começam as frases:
+
+                          ▪   O aluno do Estratégia Concursos estudará com afinco, passará no concurso e dará
+                              um belo presente ao professor.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    13
+        www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                d) Facultativamente, os pronomes que se referem a Deus e à Virgem Maria:
+
+                          ▪   Confia em Deus. Ele (ele) não desampara os que têm fome e sede de justiça;
+                          ▪   Ó gloriosa Mãe de Deus, estende Sua (ou sua) mão aos desamparados.
+
+                e) As designações:
+
+                          ▪   de conceitos religiosos, sociológicos e políticos, quando não empregados em
+                              sentido geral:
+
+            o O futuro do País é inadiável;
+
+            o O bem-estar do povo é preocupação do Estado.
+
+                          ▪   de períodos históricos: a Idade Média, o Oitocentos, o Renascimento, o
+                              Romantismo, o Modernismo;
+                          ▪   de datas: o Sete de Setembro, o 1º de Maio;
+                          ▪   de atos: a Lei Áurea, a Proclamação da República, o Descobrimento do Brasil;
+                          ▪   de festas relevantes: Dia dos Pais, Natal, Ano-Novo, Dia das Crianças;
+                          ▪   de obras: a Teoria da Relatividade, a Vênus de Milo, a Divina Comédia;
+                          ▪   de periódicos, em itálico: Folha de S. Paulo, O Globo, Veja, Jornal do Brasil;
+                          ▪   de leis, decretos, portarias, quando em documentos ou correspondências
+                              oficiais: Decreto-Lei nº, Portaria nº, Lei nº.
+
+Obs: Fora do âmbito oficial, usam-se minúsculas:
+
+                          ▪   O último decreto presidencial aprovou o aumento dos servidores públicos.
+                          ▪   No âmbito da administração pública, só é permitido fazer o que a lei determina.
+
+            Na primeira citação de uma lei (serve para outros documentos) em um texto discursivo, deve-se
+            escrevê-la com a inicial maiúscula. Se, ao longo do texto, houver nova menção a essa mesma lei,
+            emprega-se a inicial minúscula:
+
+        “A Lei nº 8.112/1990 dispõe sobre o regime jurídico dos servidores públicos civis
+        da União, das autarquias e das fundações públicas federais. Essa lei especifica
+        as formas de provimento dos cargos na administração pública.”
+
+                f) Reduções de substantivos, adjetivos, pronomes e expressões de tratamento ou
+                   referência: Sr. (senhor), Sr.ª (senhora), V.Exa. (vossa excelência);
+                g) Expressões de reverência, tradicionalmente de uso protocolar e restrito: Vossa Alteza,
+                   Sua Alteza, Vossa Santidade, Sua Santidade;
+
+             Fala-se com a pessoa = Vossa.
+
+             Fala-se da pessoa = Sua.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    14
+        www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+  ▪   Vossa Excelência está infringindo as regras do plenário.
+  ▪   Sua Excelência o ministro Gilmar Mendes justificou aos jornalistas as mudanças na Constituição Federal.
+
+               h) Substantivos comuns, quando usados como próprios, por individualização ou
+                  animização:
+
+                          ▪   Jesus Cristo disse: “Eu sou o Caminho, a Verdade e a Vida.”;
+                          ▪   A Fé conduz meus passos pelas trilhas da vida;
+                          ▪   Fernando Pessoa é Poeta Maior da literatura Brasileira.
+
+               i) As palavras arbitrariamente valorizadas com maiúscula, para efeito expressivo,
+                  sobretudo em textos literários:
+
+“A flor que exalava a essência Dela transparecia o Amor incondicional.”
+
+               j) As palavras que, no vocativo das cartas, objetivam realçar o destinatário, por deferência,
+                  respeito ou consideração:
+
+                          ▪   Prezado Amigo,
+                          ▪   Caríssima Amiga,
+                          ▪   Mestre e Amigo,
+                          ▪   Prezado Professor,
+                          ▪   Querida Amiga,
+
+Observação: após esses vocativos (vocativos enunciativos), é facultado o uso de dois pontos em vez da
+vírgula:
+
+                          ▪   Prezado Amigo:
+                          ▪   Caríssima Amiga:
+                          ▪   Mestre e Amigo:
+                          ▪   Prezado Professor:
+                          ▪   Querida Amiga:
+
+               k) Siglas, símbolos ou abreviaturas: ABNT, UNESCO, FIFA, VOLP.
+
+
+4.2 - Letras e Fonemas importantes
+
+Servidores, entraremos agora em um assunto extremamente cansativo e cheio de regrinhas “decorebas”
+que, certamente, não há ser humano neste mundo que possui pleno domínio de todos os vocábulos da nossa
+língua. Nosso vocabulário é absorvido ao longo da vida, e não em uma simples aula cheia de tabelas.
+Certamente nosso material será uma boa fonte de consulta e pesquisa para você sanar suas dúvidas, mas é
+indispensável que você faça leituras de qualidade, periodicamente, para que se livre dos problemas
+ortográficos. Dessarte, oriento vocês a revisarem o assunto abaixo com o intuito de “sanar dúvidas”, e não
+de simplesmente “decorar”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                15
+        www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+4.2.1- Emprego das letras “E” e “I”
+
+Certamente, o emprego das letras “e” e “i” causa bastantes dúvidas em nosso cotidiano. Fiquem atentos às
+suas utilizações com o intuito de evitar equívocos ortográficos.
+
+   Usa-se a letra “i”:                                      Exemplos
+   1) Nas terceiras pessoas do presente do                  cai, sai, corrói, atribui, possui, constrói, dói.
+   indicativo dos verbos terminados em “AIR”,
+   “OER” e “UIR”.
+   2) No prefixo “anti”, o qual indica “oposição,  anti-horário,      anti-infeccioso,   antídoto,
+   ação contrária”.                                antimoral, antissepsia.
+   3)Na conjugação dos verbos terminados em        variar (vario, varias, varia, variamos, variais,
+   “IAR”.                                          variam), assobiar (assobio, assobias, assobia,
+                                                   assobiamos, assobiais, assobiam), abreviar
+                                                   (abrevio, abrevias, abrevia, abreviamos,
+                                                   abreviais, abreviam).
+   4) Nas terminações em “ANO”, que significa camoniano, darwiniano, machadiano, freudiano,
+   “relativo a”, aplicando-se um “I” como vogal de ciceroniano, açoriano.
+   ligação.
+                                                   Exceção: quando o vocábulo termina em “E”, é
+                                                   rigor a sua manutenção: Ageu-ageano, Arqueu-
+                                                   arqueano, Galileu-galileano, Daomé-daomeano.
+
+   Usa-se a letra “e”:                                      Exemplos
+   1) Nos ditongos nasais “ãe” e “õe”.                      dispõe, mãe, cirurgiães, alemães, compõem,
+                                                            cães, jargões, peões.
+   2)   No     prefixo  “ante”   que   indica               antessala,        anterreforma,  anteontem,
+   “anterioridade”.                                         antediluviano, antecâmara.
+   3) Na conjugação dos verbos terminados em                abençoe (abençoar), perdoe (perdoar), magoe
+   “OAR” e “UAR”.                                           (magoar), atue (atuar), continue (continuar),
+                                                            efetue (efetuar).
+   4) Nas terceiras pessoas do plural do presente           caem, saem, destroem, arguem, possuem,
+   do indicativo de diversos verbos.                        constituem.
+   5) No prefixo “des” que significa “oposição,             descortês, desleal, desobediente, desigual,
+   negação, separação”.                                     desarmonia, desamor, descascar.
+
+4.2.2 - Emprego das letras “O” e ‘U”:
+
+Servidores, a forma de diferenciar palavras que são escritas com “o” ou com “u” é simplesmente
+conhecendo as palavras que podem gerar dúvidas. Mais uma vez insisto em dizer que uma boa leitura diária
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    16
+        www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                    
+
+
+---
+
+     Carlos Roberto Correa
+     Aula 01
+
+é o melhor remédio para acabar com os erros ortográficos. Na tabela abaixo, disponibilizo os principais
+vocábulos que podem gerar dúvidas. Leiam-nos atentamente para fixarem a grafia escorreita3.
+
+                                                               abolição, abolir, agrícola, amêndoa, amontoar,
+                                                               aroeira, assoar, bobina, boate, bochecho,
+                                                               boteco, botequim, bússola, chacoalhar, cobiça,
+                                                               cochicho, coelho, comprido, comprimento
+                                                               (extensão), costume, cortiça, coruja, êmbolo,
+                                                               encobrir, engolir, engolimos, esmolambado,
+     Escreve-se com “O” e não com “U”.
+                                                               espoliar, focinho, goela, lobisomem, lombriga,
+                                                               mocambo, mochila, moela, moleque, molambo,
+                                                               moringa, mosquito, névoa, nódoa, óbolo,
+                                                               polenta, poleiro, polir, ratoeira, sapoti, silvícola,
+                                                               sortir (abastecer), sortido (variado), sotaque,
+                                                               toalete, tocaia, tostão, tribo, vinícola, zoada.
+                                                               abulia, acudir, anágua, bueiro, bônus, bruxulear,
+                                                               bugalho,       buliçoso,      bulir,    burburinho,
+                                                               camundongo, chuviscar, cumbuca, cumprimento
+                                                               (saudação), cumprimentar, cúpula, curinga,
+                                                               Curitiba, curtir, curtição, cutia (animal), curtume,
+                                                               cutucar, embutir, entupir, estripulia, esbugalhar,
+     Escreve-se com “U” e não com “O”
+                                                               escapulir, fuçar, íngua, jabuti, juazeiro, légua,
+                                                               manusear,       muamba,        mucama,       mulato,
+                                                               murmurinho, mutuca, pirulito, rebuliço,
+                                                               sanduíche, sinusite, suar (transpirar), supetão,
+                                                               surripar, tábua, tabuleiro, tulipa, urticária,
+                                                               usufruto, virulento, vírus.
+
+Há algumas palavras na Língua Portuguesa que podem ser escritos com o ditongo “ou”, mas também com
+o ditongo “oi”. Estejam atentos a elas, pois, apesar da estranheza, podem aparecer na sua prova:
+
+                                       açoite     açoute      afoito      afouto
+                                       besoiro    besouro     biscoito    biscouto
+                                       coice      couce       coisa       cousa
+                                       doido      doudo       doirar      dourar
+                                       dois       dous        estoiro     estouro
+                                       loiça      louça       loiro       louro
+                                       oiço       ouço        oiro        ouro
+                                       tesoiro    tesouro     toiro       touro
+
+4.2.3 - Emprego das letras “C” e “Ç”:
+
+     Empregam-se o “C” ou “Ç” em:                              Exemplos:
+
+
+3
+    Escorreita: correta, perfeita.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Português                                        17
+           www.estrategiaconcursos.com.br
+                                                                                                                       60
+
+                                       
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+   Em vocábulos de origem tupi ou africana.   açaí, araçá, Iguaçu, Moçoró, paçoca, caçula,
+                                              cacimba, babaçu, caiçara, Paraguaçu, Piracicaba,
+                                              muçum, miçanga, Pajuçara, Moçambique,
+                                              Juçara, puçá, piracema, Piraçununga.
+   Em palavras de origem latina terminadas em ato (ação), abster (abstenção), adotar (adoção),
+   “t”.                                       distinto (distinção), marte (marcial), torto
+                                              (torção), isento (isenção), extinto (extinção),
+                                              executor (execução).
+   Em muitas palavras de origem árabe.        açafrão, acicate, açucena, açude, muçulmano,
+                                              alface, açúcar.
+   Os verbos terminados em “TER” formarão abster (abstenção), ater (atenção), conter
+   substantivos com “TENÇÃO”.                 (contenção), deter (detenção), reter (retenção).
+   Nos sufixos “AÇA”, “AÇO”, “AÇÃO”, “ECER”, anoitecer, armação, bagaço, cabaça, carcaça,
+   “IÇA”, “IÇO”, “NÇA”, “UÇO”.                carniça, caliça, chouriço, criança, festança,
+                                              dentuça, estilhaço, noviço, ricaço, magriço.
+   Após alguns ditongos.                      fauce, feição, foice, louça, traição, beicinho,
+                                              caiçara,    precaução,     traiçoeiro,    bouçar,
+                                              calabouço, coice.
+
+4.2.4 - Emprego das letras “G” e “J”:
+
+Se criássemos um “ranking” com as letras que mais causam dúvidas, certamente as letras “G” e “J” seriam
+as primeiras. Isso acontece, pois os fonemas dessas duas letras são bem parecidos, levando-nos a ter
+dúvidas e, consequentemente, cometer alguns equívocos.
+
+       Usa-se a letra "G":         Exemplos
+       1) Nos sufixos “agem, igem, aragem, malandragem, fuligem, miragem, vertigem,
+       ugem, ege, oge”.            ferrugem, sege, paragoge, frege, micagem, viagem.
+
+                                                 Exceções: lajem, pajem, lambujem.
+
+                                       Atenção! Usa-se o “G” no substantivo viagem, mas
+                                       no verbo viajar e em seus derivados se emprega a
+                                       letra “J”.
+       2) Nas terminações “ágio, égio, adágio, pedágio, estágio, egrégio, prodígio, relógio,
+       ógio, úgio”.                    refúgio, Remígio, fastígio, necrológio, colégio,
+                                       subterfúgio, naufrágio, plágio.
+       3) Nos verbos terminados em eleger, proteger, fingir, frigir, impingir, mugir,
+       “GER e GIR”.                    submergir.
+       4) Na maioria dos vocábulos agente, agiota, ágio, agir, agitar, agitação, agenda.
+       iniciados pela vogal “A”.
+                                       Exceção: ajeitar, ajuizar, ajeru, ajesuitar.
+       5) Nos vocábulos que derivam de exigir (exigência), infringir (infringência), impingir
+       palavras grafadas com “G”.      (impingem), tingir (tingido), afligir (afligem).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          18
+        www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Aula 01
+
+      Usa-se a letra "J":             Exemplos
+      1) Em muitas palavras de origem jeito, cereja, majestade, hoje, lájea, jeira.
+      latina.
+      2) Em muitas palavras de origem beiju, caju, jerimum, Ubirajara, jeribá, jenipapo, pajé,
+      africana e tupi-guarani.        mujique, jiboia, jirau, jê, maracujá, jequitibá, jerivá.
+
+      3) Nos vocábulos que derivam de laranja (laranjeira), manjar (manjedoura), viajar
+      palavras grafadas com “J”.        (viajei), rijo (enrijecer), gorja (gorjeta), encorajar
+                                        (encorajem).
+      4) Nas flexões do modo arranjar (arranje, arranjes, arranje, arranjemos,
+      subjuntivo      dos        verbos arranjeis, arranjem), despejar (despeje, despejes,
+      terminados em “jar”.              despeje, despejemos, despejeis, despejem).
+
+4.2.5 - Emprego da letra “X”:
+
+      Usa-se a letra "X" após:                  Exemplos
+      1) Ditongos                               queixo, caixa, eixo, frouxo, ameixa, peixe, trouxa,
+                                                baixo, paixão, eixo, rebaixar, encaixar.
+
+                                                Exceções:     recauchutar     e   seus    derivados
+                                                (recauchutagem, por exemplo).
+      2) "En"                                   enxada, enxaqueca, enxerido, enxame, enxovalho,
+                                                enxoval, enxurrada, enxugar, enxaguar, enxerto.
+
+                                                Exceções: paralvras iniciadas por ch que recebem o
+                                                prefixo en: encher (de cheio), encharcar (de charco),
+                                                enchapelar (de chapéu), enchumaçar (de chumaço),
+                                                enchiqueirar (de chiqueiro).
+      3) "Me"                                   mexicano, mexer, mexerico, mexilhão, mexa (verbo).
+                                                Exceção: mecha (substantivo).
+      4) "La"                                   laxante, laxismo, laxativo, laxista, laxo.
+      5) "Li"                                   lixa, lixo.
+      6) "Lu"                                   luxo, luxúria.
+      7) "Gra"                                  graxa
+      8) "Bru"                                  bruxa, bruxelas
+      9) Origem africana ou indígena e          xavante, xingu, capixaba, caxumba, abacaxi, xucro,
+      nas inglesas aportuguesadas               xingar, xampu, lagartixa.
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                             19
+       www.estrategiaconcursos.com.br
+                                                                                                        60
+
+                                   
+
+
+---
+
+     Carlos Roberto Correa
+     Aula 01
+
+4.2.6 - Emprego do dígrafo “CH”
+
+    Usa-se o dígrafo “CH” em:                       Exemplos
+    1) Em palavras de origem latina,                chave, cheirar, chumbo, chassi, chiripa, mochila, espadachim,
+    francesa, espanhola, italiana, alemã,           salsicha, chope, checar, sanduíche, azeviche.
+    inglesa e árabe.
+    2) Em palavras cognatas4.                       pichação (piche), chaveiro (chave), enchente (encher), chamariz
+                                                    (chamar).
+    3) Após na, en, in, on, um.                     inchaço, concha, pechincha, anchova, gancho, preenchimento.
+
+                                          Observação: na maioria das palavras com en, usa-se X: enxada,
+                                          enxaqueca, enxerido, enxame, enxovalho, enxoval, enxurrada,
+                                          enxugar, enxaguar, enxerto.
+    4) Após os sufixos acho, achão, icho, gorducho, riacho, barbicha, bonachão, papelucho, rabicho.
+    ucho.
+
+4.2.7 - Emprego da letra “Z”
+
+      Usa-se a letra “z” em:                      Exemplos:
+      1) Na maioria dos substantivos derivados de fraqueza (fraco), grandeza (grande), palidez
+      adjetivos.                                  (pálido), rapidez (rápido), surdez (surdo),
+                                                  escassez (escasso), baixeza (baixo).
+      2) Nos sufixos “izar” formador de verbos a fiscalizar        (fiscal),  capitalizar  (capital),
+      partir de substantivos e de adjetivos não universalizar (universal), harmonizar (harmonia),
+      terminados em “S”.                          civilizar (civil), modernizar (moderno).
+
+                                                                    Observações:
+
+                                                                               i.    Os substantivos derivados de
+                                                                                     verbos com o sufixo “ização”
+                                                                                     também são escritos com “z”:
+                                                                                     suavização               (suavizar),
+                                                                                     formalização          (formalizar),
+                                                                                     idealização              (idealizar),
+                                                                                     colonização (colonizar);
+                                                                               ii.   Se a última sílaba do vocábulo for
+                                                                                     escrita com “s”, acrescenta-se tão
+                                                                                     somente o sufixo “AR”: alisar
+                                                                                     (aliso), pesquisar (pesquisa),
+                                                                                     analisar (análise);
+                                                                              iii.   Exceção: catequizar (catequese).
+
+4
+    A palavra cognata deriva do latim cognatus, cujo significado é “parente, relacionado, ligado ou semelhante”.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                             20
+            www.estrategiaconcursos.com.br
+                                                                                                                             60
+
+                                           
+
+
+---
+
+ Carlos Roberto Correa
+ Aula 01
+
+  3) Nos verbos terminados em “uzir” e nas suas produzir (produz, produzia, produziria), conduzir
+  conjugações:                                  (conduzirá, conduziu, conduz), deduzir (deduzirá,
+                                                deduziu, deduziria).
+
+    Exercício
+
+    Quanto à pontuação e à ortografia, está plenamente correta a frase:
+
+    Ainda que analizadas apenas esteticamente, muitas obras desses expositores, mereceriam todo o
+    aplauso.
+
+    Comentário: o vocábulo “analizadas” está errado. O correto seria analisadas, com “s”. Ademais, há
+    outro erro nessa assertiva: há uma vírgula após “expositores” que separa o sujeito (muitas obras
+    desses expositores) do verbo (mereceriam). Veremos, em outra oportunidade, que se trata de uma
+    das proibições do uso de vírgulas.
+
+    Gabarito: errado.
+
+4.2.8 - Emprego da letra “S”
+
+  Usa-se a letra “s” em:                        Exemplos:
+  1)Verbos com ND formarão substantivos e       Suspender (suspensão), pretender (pretensão),
+  adjetivos com NS.                             ascender (ascensão), distender (distensão).
+  2) Verbos com “PEL” formarão substantivos e   repelir (repulsão), expelir (expulsão), compelir
+  adjetivos com “PUS”                           (compulsão), impelir (impulsão).
+  3) Formação de adjetivos gentílicos com o     parisiense, paraense, paquistanense, rio-
+  sufixo “ense”.                                grandense, nortense.
+  4) Após ditongos.                             Coisa, lousa, paisagem, pouso, maisena, aplauso,
+                                                causa, náusea.
+  5) Na conjugação dos verbos “pôr” e “querer”. quisesse, quisesses, quiséssemos, quisésseis,
+                                                quisessem; pus, puseste, pôs, pusemos,
+                                                pusestes, puseram.
+  6) Nos adjetivos formados a partir de gostoso, princesa, francês, cheiroso, amorosa,
+  substantivos, cujos vocábulos são formados orgulhosa, cortês, poetisa sacerdotisa.
+  pelos sufixos “esa, isa, osa, oso, ês”.
+  7) Nos sufixos gregos “ase, esse, ise, ose”.  próclise, psicanálise, metamorfose, prófase,
+                                                osmose, catálise.
+  8) Em vocábulos derivados de outros que são ausente (ausência), casamento (casa), presidiário
+  escritos com a letra “s”.                     (preso),    visionário    (visão),   concursado
+                                                (concurso).
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                             21
+       www.estrategiaconcursos.com.br
+                                                                                                        60
+
+                                   
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+4.2.9 - Emprego do dígrafo “SS”
+
+   1) Verbos com “CED” formam substantivos                  concessão (conceder), excesso (exceder), cessão
+   com “CESS”.                                              (ceder), intercessão (interceder).
+   2) Verbos com “GRED” formarão substantivos               regredir (regressão), transgredir (transgressão),
+   e adjetivos com “GRESS”.                                 progredir (progressão), agredir (agressão).
+   3) Verbos com “PRIM” formarão substantivos e             imprimir (impressão), oprimir (opressão),
+   adjetivos com “PRESS”.                                   reprimir (repressão), exprimir (expressão).
+   4) Verbos terminados em “TIR” formarão                   repercutir (repercussão), admitir (admissão),
+   substantivos e adjetivos com “SSÃO”.                     discutir (discussão).
+   5) Palavras derivadas por prefixação, cujo               ressurgir (re+surgir), minissaia (mini+saia),
+   prefixo termina em vogal e o vocábulo se inicia          antessala         (ante+sala),        antisséptico
+   por “s”.                                                 (anti+séptico).
+                                                            acessível, amassar, assar, apressar, argamassa,
+                                                            arremesso,      assédio,    assessor,    assoprar,
+                                                            aterrissar,    avesso,     bússola,    compasso,
+   6) Vocábulos diversos.                                   concessão, confissão, demissão, depressa,
+                                                            escassez, excesso, fossa, gesso, girassol,
+                                                            massagem, missionário, obsessão, passatempo,
+                                                            possessão, ressentir, sossego.
+
+4.2.10 - Emprego do “SC”
+
+                                                  abscesso, abscissa, acrescer, adolescência,
+                                                  apascentar, aquiescência, ascendente, ascender,
+                                                  ascético,      condescender,        consciência,
+   Emprega-se o “SC” em muitos vocábulos por
+                                                  convalescença, descendência, descentralização,
+   razões etimológicas, os quais, geralmente, são
+                                                  discente, discernimento, disciplina, fascismo,
+   eruditos e provenientes do latim. Listamos
+                                                  fascínio, imprescindível, miscelânea, nascença,
+   alguns exemplos:
+                                                  obsceno,     oscilação,   piscina,   prescindir,
+                                                  remanescente, rescindir, ressuscitar, suscitar,
+                                                  transcendente, visceral.
+
+4.2.11 Uso dos “porquês”
+
+POR QUE
+
+A forma por que é a sequência de uma preposição (por) e um pronome interrogativo (que). Equivale a "por
+qual razão", "por qual motivo":
+
+     Por que você quer passar em concurso público?
+
+Há situações nas quais por que representa a sequência preposição + pronome relativo, equivalendo a "pelo
+qual" (ou alguma de suas flexões pela qual, pelos quais, pelas quais).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                     22
+        www.estrategiaconcursos.com.br
+                                                                                                                 60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     Estes são os motivos por que estudo para concurso público.
+
+POR QUÊ
+
+É empregado ao final de uma frase, imediatamente antes de um ponto (final, de interrogação, de
+exclamação) ou de reticências. A sequência deve ser grafada por quê, pois, devido à posição na frase, o
+monossílabo "que" passa a ser tônico.
+
+     Estudei bastante ontem para o concurso. Sabe por quê?
+
+     Sobre estudar para concursos públicos, não direi novamente por quê!
+
+PORQUE
+
+A forma porque é uma conjunção, equivalendo a pois, já que, uma vez que, porquanto, como. Costuma ser
+utilizado em respostas, para explicação ou causa.
+
+     Vou me preparar para a prova, porque quero ser aprovado.
+
+PORQUÊ
+
+A forma porquê representa um substantivo. Significa "causa", "razão", "motivo" e, normalmente, surge
+acompanhado de palavra determinante (artigo, por exemplo).
+
+     Não consigo entender o porquê de sua procrastinação.
+
+     Existem muitos porquês para que eu seja aprovado no certame.
+
+     Exercício
+
+     ...para entender por que a viagem de Colombo acabou e continua sendo uma metáfora...
+     No que se refere à grafia, para estar de acordo com o padrão culto, a frase que deve ser preenchida
+     com forma idêntica à destacada acima é:
+
+     a) Alguém poderá perguntar: − O autor citou Braudel, ...?
+
+     b) Gostaria de saber ...... ele se interessou especificamente por essa obra de Braudel acerca do mar
+     Mediterrâneo.
+
+     c) Quem sabe o ...... da citação da obra de Braudel?
+
+     d) Referências são sempre interessantes, ...... despertam curiosidade acerca da obra.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                23
+        www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     e) − ... foi a obra que mais o teria impressionado sobre o assunto, respondeu alguém quando
+     indagado sobre o motivo da citação.
+
+     Comentário:
+
+     a) O correto seria por quê. É empregado ao final de uma frase, imediatamente antes de um ponto
+     (final, de interrogação, de exclamação) ou de reticências. Errado.
+
+     b) O seria por que, que Equivale a "por qual razão", "por qual motivo". Certo.
+
+     c) O correto seria porquê, que representa um substantivo e significa "causa", "razão", "motivo”.
+     Errado.
+
+     d) O correto seria porque, que equivale a uma conjunção (pois, já que, uma vez que). Errado.
+
+     e) O correto seria porque, que equivale a uma conjunção (pois, já que, uma vez que). Errado.
+
+     Gabarito: “b”
+
+4.2.12 dado/visto/haja vista
+
+Os particípios dado e visto têm valor passivo e concordam em gênero e número com o substantivo a que se
+referem:
+
+     Dados o interesse e o esforço demonstrados, optou-se pela permanência do servidor em sua função;
+
+     Dada a circunstância, calar-me-ei diante da cambulhada;
+
+     Vistas as provas apresentadas, não houve mais hesitação no encaminhamento do inquérito.
+
+Já a expressão haja vista (tendo em vista), com o sentido de “uma vez que”, é invariável:
+
+     O servidor tem qualidades, haja vista o interesse e o esforço demonstrados.
+
+Haja visto (com -o) é inovação oral brasileira, evidentemente descabida em textos técnicos oficiais.
+
+4.2.13 – onde/Aonde
+
+Onde, como pronome relativo significa em que (lugar):
+
+     A cidade onde nasceu;
+
+     O país onde viveu.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            24
+        www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Evite, pois, construções como “a lei onde é fixada a pena” ou “o encontro onde o assunto foi tratado”. Nesses
+casos, substitua onde por em que, na qual, no qual, nas quais, nos quais. O correto é, portanto: a lei na qual
+é fixada a pena, o encontro no qual (em que) o assunto foi tratado.
+
+Já o vocábulo aonde indica movimento, aproximação. Equivale à expressão “a que lugar”.
+
+     Aonde ele vai?
+
+     Aonde você quer chegar estudando tanto assim?
+
+4.2.14 acerca de/ a cerca de/ cerca de/ há cerca de
+
+Acerca de é locução prepositiva equivalente a sobre, a respeito de:
+
+     Já tenho informações acerca da taxa de juros;
+
+     A discussão acerca da legalidade da posse do ministro será no âmbito do Supremo Tribunal Federal.
+
+A cerca de indica distância ou tempo futuro aproximado:
+
+     Os manifestantes estão a cerca de dois quilômetros deste quarteirão;
+
+     O ciclista desistiu da prova a cerca de dez quilômetros da linha de chegada;
+
+     De hoje a cerca de um mês, estudarei com contumácia para concursos públicos.
+
+Cerca de corresponde a próximo de, perto de, quase, aproximadamente:
+
+     Cerca de cinco mil manifestantes protestaram contra o governo;
+
+     A instituição financeira teve cerca de cinquenta fraudes comprovadas no exercício anterior.
+
+Há cerca de corresponde a faz aproximadamente (tempo decorrido):
+
+     Há cerca de três anos, a lei foi promulgada;
+
+     Há cerca de seis meses, o Banco Central mantém a taxa de juros alta;
+
+4.2.15 Mau x Mal
+
+"Mal" pode ser um substantivo ou um advérbio. Como substantivo, quer dizer "aquilo que é nocivo,
+prejudicial" ou então "doença", "epidemia".
+
+     Este mal o acompanha desde que iniciou os estudos: a procrastinação.
+
+     Ele fez mal ao concorrente.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 25
+        www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     Foi à biblioteca e mal estudou.
+
+     O candidato escreveu muito mal a redação.
+
+"Mau" é um adjetivo, antônimo de bom. Pode, como todo adjetivo, ser substantivado (nesse caso, aparece
+acompanhado por um artigo):
+
+     Os maus concorrentes devem ser evitados.
+
+     O mau exemplo não é para lhe servir de inspiração.
+
+      Exercício
+
+     Nas frases
+
+     O mau julgamento político de suas ações não preocupa os deputados corruptos. Para eles, o mal
+     está na mídia impressa ou televisiva.
+
+     II. Não há nenhum mau na utilização do Caixa 2. Os recursos não contabilizados não são um mau,
+     porque todos os políticos o utilizam.
+
+     III. É mau apenas lamentar a atitude dos políticos. O povo poderá puni-los com o voto nas eleições
+     que se aproximam. Nesse momento, como diz o ditado popular, eles estarão em mal lençóis.
+
+     o emprego dos termos mal e mau está correto APENAS em:
+
+     a) I.
+
+     b) I e II.
+
+     c) II.
+
+     d) III.
+
+     e) I e III.
+
+     Comentário:
+
+     I – Correto. Os vocábulos “mau” e “mal” correspondem a um adjetivo e substantivo,
+     respectivamente.
+
+     II – Errado. No primeiro período, o correto seria o emprego de “mal” como advérbio. No segundo
+     período, por ser substantivo, deveria ser registrado como “mal”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              26
+        www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+       III – Errado - No primeiro período, está correto o emprego de “mau” como adjetivo. No segundo
+       período, por ser adjetivo (variável), deveria ser registrado como “maus”.
+
+       Gabarito: “a”
+
+
+                       5 - REGRAS DE ACENTUAÇÃO GRÁFICA
+A Língua Portuguesa utiliza os sinais de acentuação5 para identificar a sílaba tônica (oxítona, paroxítona ou
+proparoxítona), a sonoridade da vogal (aberta, fechada ou nasal) ou indicar a crase. Os quatro acentos
+presentes em nosso idioma são:
+
+        ▪   Agudo (´): indica vogal tônica aberta;
+        ▪   Grave (`): indica a ocorrência de crase;
+        ▪   Circunflexo (^): indica a vogal tônica nasal ou fechada (robô, pivô, gênero, âmbito);
+        ▪   Til (~): indica a nasalidade em a e o (ambição, discursão, corações, pães).
+
+5.1– Monossílabos
+
+Levam acento agudo ou circunflexo os monossílabos terminados nas vogais tônicas, abertas ou fechadas:
+
+   ▪    a(s): já, lá, vás;
+   ▪    e(s): fé, lê, pés;
+   ▪    o(s): pó, dó, pós, sós;
+   ▪    Ditongo decrescente ei(s), eu(s), oi(s) (acentua-se a primeira vogal quando abertos ou tônicos):
+        céu, réu, dói.
+
+Os monossílabos verbais seguidos de pronomes também seguem essa regra: dá-la, tê-lo, pô-la, fá-lo-á, tê-
+la-ei.
+
+5.2 – Vocábulos de mais de uma sílaba
+
+.5.2.1 – Oxítonos
+
+Levam acento agudo ou circunflexo os oxítonos terminados em:
+
+5 Também chamados de sinais diacríticos ou de notações léxicas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                               27
+         www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+   ▪    a(s): cajás, vatapá, Amapá, Pará;
+   ▪    e(s): você, café, pontapé, Igarapé;
+   ▪    o(s): cipó, jiló, avô, pivô, dominó;
+   ▪    em, ens: também, ninguém, armazéns, vinténs;
+   ▪    Ditongos abertos ei(s), eu(s), oi(s) (acentua-se a primeira vogal quando abertos ou tônicos): papéis,
+        heróis, chapéus, anzóis.
+
+5.2.2 – Paroxítonos
+
+Levam acento agudo ou circunflexo os paroxítonos terminados em:
+
+   ▪    i(s): júri, lápis, táxi(s), tênis;
+   ▪    us: vênus, vírus, bônus;
+   ▪    r: caráter, revólver, éter, açúcar;
+   ▪    l: útil, amável, nível, têxtil;
+   ▪    x: tórax, fênix, ônix;
+   ▪    n: éden, hífen (no plural é sem acento: edens, hifens);
+   ▪    um, uns: álbum, álbuns, médium, médiuns;
+   ▪    ão(s): órgão, órfão, órgãos, órfãos;
+   ▪    ã(s): órfã, órfãs;
+   ▪    ps: bíceps, tríceps, fórceps;
+   ▪    om, on(s): iâmdom, rádon, rádons, nêutron, elétrons.
+
+       Caso você esteja diante de uma palavra paroxítona, temos um macete para saber se ela leva ou não
+       acento gráfico. Observe as duas últimas sílabas: se elas não forem iguais às sílabas que
+       caracterizam a acentuação das oxítonas (a, as, e, es, o, os, em, ens), pode acentuar! Caso sejam,
+       não acentue!
+
+       Observe: HI-FEN (paroxítona, pois a sílaba tônica é o HI).
+
+       Aplicando a dica: perceba que a palavra termina com EN, portanto, não está na regra das oxítonas.
+       Então, meu amigo, pode acentuar: HÍFEN.
+
+       E agora? Então HIFENS também será acentuado?
+
+       Vejamos: HI-FENS (paroxítona).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                               28
+         www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+     Observe que as últimas sílabas (ENS) enquadram-se naquelas da regra das oxítonas, portanto, não
+     pode ser acentuado: HIFENS.
+
+     EXCEÇÃO: Só ocorrerá se o final da paroxítona for ditongo crescente.
+     Vejamos: A-gua (paroxítona) terminada em ua (temos uma semivogal u e uma vogal a). Então
+     temos uma paroxítona terminada em ditongo crescente. Receberá acento: ÁGUA.
+
+5.2.3 – Proparoxítonos
+
+Todos os proparoxítonos levam acento agudo ou circunflexo: cálido, pálido, sólido, cômodo, carnívoro,
+herbívoro, cátedra, tônico.
+
+Deve-se tomar cuidado com as proparoxítonas eventuais, ou seja, as terminadas em ditongo crescente,
+que também seguem essa regra: ambíguo, previdência, presidência, preferência, homogêneo, ministério.
+
+                          Acentuam-se os monossílabos terminados em :
+                          a(s): já, lá, vás;
+                          e(s): fé, lê, pés;
+   Monossílabos
+                          o(s): pó, dó, pós, sós;
+                          Ditongo decrescente ei(s), eu(s), oi(s): céu, réu, dói.
+                          Atenção: monossílabos verbais seguidos de pronomes: dá-la, tê-lo, pô-la.
+                          Acentuam-se os oxítonos terminados em:
+
+                          a(s): cajás, vatapá, Amapá, Pará;
+   Oxítonos               e(s): você, café, pontapé, Igarapé;
+                          o(s): cipó, jiló, avô, pivô, dominó;
+                          em, ens: também, ninguém, armazéns, vinténs;
+                          Ditongo decrescente ei(s), eu(s), oi(s): papéis, heróis, chapéus, anzóis.
+                          Vamos guardar o macete, ok?
+
+                          Acentuam-se os paroxítonos não terminados em sílabas que caracterizam a
+   Paroxítonos
+                          acentuação dos oxítonos (a, as, e, es, o, os, em, ens).
+
+                          Exceção: Ditongo crescente (água).
+   Proparoxítonos         Todos os proparoxítonos são acentuados.
+
+5.3 – Casos especiais em conformidade com o novo acordo ortográfico
+
+Desaparece o acento dos ditongos abertos éi e ói dos vocábulos paroxítonos.
+
+
+                                    Registro Antigo         Novo Registro
+                                    alcatéia                alcateia
+                                    andróide                androide
+                                    apóia                   apoia
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           29
+        www.estrategiaconcursos.com.br
+                                                                                                        60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                     apóio                  apoio
+                                     asteróide              asteroide
+                                     bóia                   boia
+                                     celulóide              celuloide
+                                     colméia                colmeia
+                                     Coréia                 Coreia
+
+
+Conforme visto anteriormente, permanece o acento agudo nos monossílabos tônicos e oxítonos
+terminados em éis, éu, éus, ói, óis. Exemplos: dói, céu, papéis, herói, heróis, troféu, chapéu, chapéus.
+
+Regra dos Hiatos: acentuam-se o i e o u tônicos dos hiatos, com ou sem s, quando não forem seguidos de
+nh, não repetirem a vogal e não formarem sílaba com consoante que não seja o s: saída, juízes, país, baú,
+saúde, reúne, viúvo. Rainha (precede nh), xiita (repetição de vogal) e juiz (forma sílaba com consoante que
+não seja o s) não recebem acento.
+
+Nos vocábulos paroxítonos, não se acentuam o i e o u tônicos quando vierem depois de ditongo
+decrescente.
+                             Registro Antigo    Novo Registro
+                             baiúca             baiuca
+                             bocaiúva           bocaiuva
+                             cauíla             cauila
+                             feiúra             feiura
+
+Se o vocábulo for oxítono e o i ou o u estiverem em posição final (ou seguidos de s) ou se o vocábulo for
+proparoxítono, o acento permanece. Exemplos: tuiuiú, tuiuiús, Piauí, maiúscula.
+
+Não se acentuam os vocábulos terminados em êem e ôo(s).
+
+                               Registro Antigo                    Novo Registro
+                               crêem (verbo crer)                 creem
+                               dêem (verbo dar)                   deem
+                               dôo (verbo doar)                   doo
+                               enjôo                              enjoo
+                               lêem (verbo ler)                   leem
+                               magôo (verbo magoar)               magoo
+                               perdôo (verbo perdoar)             perdoo
+                               povôo (verbo povoar)               povoo
+                               vêem (verbo ver)                   veem
+                               vôos                               voos
+                               zôo                                zoo
+
+Não se diferenciam mais os pares pára/para, péla(s)/pela(s), pêlo(s)/pelo(s), pólo(s)/polo(s) e pêra/pera.
+
+                Registro Antigo                             Novo Registro
+                Ela pára o cavalo.                          Ela para o cavalo.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 30
+        www.estrategiaconcursos.com.br
+                                                                                                              60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                  Ele foi ao pólo sul.                      Ele foi ao polo sul.
+                  Esse animal tem pêlos bonitos.            Esse animal tem pelos bonitos.
+                  Devoramos uma pêra.                       Devoramos uma pera.
+
+Permanece o acento diferencial em pôde/pode. Pôde é a forma do passado do verbo poder (pretérito
+perfeito do indicativo), na 3ª pessoa do singular. Pode é a forma do presente do indicativo, na 3ª pessoa do
+singular.
+
+                      No passado ele pôde roubar o povo, mas hoje ele não pode.
+
+Permanece o acento diferencial em pôr/por. Pôr é verbo. Por é preposição.
+
+                 O pôr do sol de Brasília revela traços idealizados por Oscar Niemeyer.
+
+                      Desejo pôr o livro sobre a mesa que foi construída por mim.
+
+Permanecem os acentos que diferenciam o singular do plural dos verbos ter e vir, assim como de seus
+derivados (manter, deter, reter, conter, convir, intervir, advir etc.). Vejamos:
+
+                           ▪   Ele tem escrúpulos. / Eles têm escrúpulos.
+                           ▪   Ele vem de uma região humilde. / Eles vêm de uma região humilde.
+                           ▪   Ele mantém a promessa. / Eles mantêm a promessa.
+                           ▪   Ele convém aos juízes. / Eles convêm aos juízes.
+                           ▪   Ele detém o marginal. / Eles detêm o marginal.
+                           ▪   Ele intervém no Iraque. / Eles intervêm no Iraque.
+
+É facultado o uso do acento circunflexo para diferenciar as palavras dêmos (do verbo no subjuntivo que nós
+dêmos) de demos (do passado nós demos); fôrma (substantivo) de forma (verbo).
+
+Não se acentua o u tônico das formas (tu) arguis, (ele) argui, (eles) arguem, do presente do indicativo dos
+verbos arguir e redarguir.
+
+Há variação na pronúncia dos verbos terminados em guar, quar e quir, como aguar averiguar, apaziguar,
+desaguar, enxaguar, obliquar, delinquir, etc. Esses verbos admitem duas pronúncias em algumas formas
+do presente do indicativo, do presente do subjuntivo e também do imperativo. Observe:
+
+            i.   Se forem pronunciadas com a ou i tônicos, essas formas devem ser acentuadas.
+
+                  Exemplos:
+
+  ▪   Verbo enxaguar: enxáguo, enxáguas, enxágua, enxáguam, enxáguam; enxágue, enxágues,
+      enxáguem;
+  ▪   Verbo delinquir: delínquo, delínques, delínque, delínquem; delínqua, delínquas, delínquam.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  31
+        www.estrategiaconcursos.com.br
+                                                                                                               60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+         ii.   Se forem pronunciadas com u tônico, essas formas deixam de ser acentuadas. Exemplos (a
+               vogal sublinhada é a tônica, isto é, deve ser pronunciada mais fortemente que as outras):
+
+  ▪   Verbo enxaguar: enxaguo, enxaguas, enxagua, enxaguam; enxague, enxagues, enxaguem.
+  ▪   Verbo delinquir: delinquo, delinques, delinque, delinquem; delinqua, delinquas, delinquam.
+
+Importante! No Brasil, a pronúncia mais corrente é a primeira, ou seja, aquela com a e i tônicos.
+
+ Desaparece o acento dos ditongos abertos éi e ói dos vocábulos paroxítonos: alcateia, geleia,
+ assembleia, ideia.
+ Regra dos Hiatos: acentuam-se o i e o u tônicos dos hiatos, com ou sem s, quando não forem seguidos
+ de nh, não repetirem a vogal e não formarem sílaba com consoante que não seja o s (saída, juízes, país,
+ baú, saúde, reúne, viúvo, maiúscula).
+
+ Rainha (precede nh), xiita (repetição de vogal) e juiz (forma sílaba com consoante que não seja o s) não
+ recebem acento.
+
+ Atenção! Cuidado com o u tônico das formas (tu) arguis, (ele) argui, (eles) arguem, do presente do
+ indicativo dos verbos arguir e redarguir. ELES NÃO SÃO ACENTUADOS!
+ Nos vocábulos paroxítonos, não se acentuam o i e o u tônicos quando vierem depois de ditongo
+ decrescente. (baiuca, bocaiuva, feiura).
+ Não se acentuam os vocábulos terminados em êem e ôo(s): creem, deem, doo, voo, magoo.
+
+ Não se diferenciam mais os pares pára/para, péla(s)/pela(s), pêlo(s)/pelo(s), pólo(s)/polo(s) e pêra/pera.
+
+ Atenção! Permanece o acento diferencial em pôde (pretérito perfeito do indicativo)/pode (presente do
+ indicativo); pôr (verbo)/por(preposição).
+
+ Permanece o acento diferencial (plural/singular) dos verbos ter e vir: ele tem / eles têm; ele vem / eles
+ vêm.
+ Acentuam-se o a e o i tônicos dos verbos terminados em guar, quar e quir: enxáguo, enxáguas, enxágua,
+ enxáguam, enxáguam; enxágue, enxágues, enxáguem; delínquo, delínques, delínque, delínquem;
+ delínqua, delínquas, delínquam.
+
+Pronto, pessoal. Sabemos que revisar essas regras tornou a aula um pouco cansativa. Contudo, tenho a
+convicção que nossos alunos farão textos impecáveis, sem erros de ortografia. Revisamos os principais
+tópicos para que você faça sua prova dissertativa com bastante tranquilidade sob esse aspecto. Aproveitem
+os quadros resumos disponibilizados para recordarem as regrinhas constantemente!
+
+
+                                                6 – CRASE
+Na língua portuguesa, a crase indica a contração de duas vogais idênticas, mais precisamente, a fusão
+da preposição a com o artigo feminino a e com o a do início de pronomes. Sempre que houver a fusão
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  32
+        www.estrategiaconcursos.com.br
+                                                                                                              60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+desses elementos, o fenômeno será indicado por intermédio da presença do acento grave, também
+chamado de acento indicador de crase.
+
+Seguindo a lógica da nossa aula de aprendermos por meio de exemplos, nós trazemos, a seguir, diversos
+casos para compreendermos gradativamente as situações nas quais o fenômeno da crase ocorre:
+
+6.1 Regra Geral
+
+   ▪      A crase deve ser empregada apenas diante de palavra feminina:
+
+Essa é a regra básica para quem quer aprender mais sobre o uso da crase. Apesar de ser a mais conhecida,
+não é a única, mas saber que – salvo exceções – a crase não acontece antes de palavras masculinas já ajuda
+bastante! Caso você fique em dúvida sobre quando utilizar o acento grave, substitua a palavra feminina por
+uma masculina: se o “a” virar “ao”, ele receberá o acento grave. Veja só um exemplo:
+
+         Os auditores foram à operação para apurar fraudes.
+
+Substitua a palavra “operação” pela palavra “encontro”:
+
+         Os auditores foram ao encontro dos responsáveis pela sonegação.
+
+Casos Diversos
+
+   i.         Utiliza-se a crase em expressões que indiquem hora:
+
+         Iniciaremos os estudos do dia às 7h.
+
+         O aumento da taxa de juros foi anunciado às 18h.
+
+         Estudaremos a nova disciplina das 14h às 18h30min.
+
+   ii.        Antes de locuções adverbiais femininas que expressem ideia de tempo, de lugar e de modo:
+
+         Às vezes, somos aprovados em concursos antes do previsto.
+
+         Ele estudou às pressas para conseguir finalizar o edital.
+
+Casos opcionais
+
+   ▪      Antes de pronomes possessivos:
+
+         Eu devo satisfações à(ou a) minha equipe de trabalho.
+
+         O indivíduo deve aferrar-se à(ou a) sua própria moral.
+
+   ▪      Antes de substantivos femininos próprios:
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Português                          33
+           www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                       
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+        João fez um pedido à(ou a) Maria.
+
+        O procurador entregou a documentação probatória à (ou a) Carmen Lúcia.
+
+   ▪      Depois da palavra “até”:
+
+        Os servidores foram até à (ou a) praça dos tribunais para reivindicarem seus direitos.
+
+Casos Proibidos
+
+   iii.      Na maioria das vezes, a crase não ocorre diante de palavra masculina:
+
+        O pagamento da multa foi feito a prazo.
+
+        Os policiais correram a cavalo para capturar o bandido.
+
+Exceção: Existe um caso em que o acento indicador de crase pode surgir antes de uma palavra masculina.
+Isso acontecerá quando a expressão “à moda de” estiver implícita na frase. Observe o exemplo:
+
+        Ele cantou a canção à Roberto Carlos. (Ele cantou a canção à moda de Roberto Carlos).
+
+        Ele fez um gol à Pele. (Ele fez um gol à moda de Pelé).
+
+        Ele comprou sapatos à Luís XV. (Ele comprou sapatos à moda de Luís XV).
+
+   iv.       Diante de substantivos femininos indeterminados:
+
+        Não dê ouvidos a pessoas desacreditadas.
+
+        Vou a festas para desestressar-me.
+
+   v.        Em locuções formadas com a repetição da mesma palavra:
+
+        Dia a dia, a aprovação se aproxima.
+
+        Estava frente a frente com a prova.
+
+   vi.       Diante de verbos:
+
+        Estamos dispostos a estudar para sermos aprovados.
+
+        No plenário, puseram-se a discutir em voz alta.
+
+                                                              A crase deve ser empregada apenas diante de
+                       Regra geral
+                                                              palavra feminina.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                              34
+          www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                                            Utiliza-se a crase em expressões que indiquem hora
+                   Casos Diversos
+                                                            (às 19h; das 8h às 18h).
+                                                            - Antes de pronomes possessivos (à sua; à minha);
+                                                            - Antes de substantivos femininos próprios (à
+                   Casos Opcionais                          Maria, à Joana);
+                                                            - Depois da palavra até (foram até a praia; foram até
+                                                            à praia).
+                                                            - Antes de palavra masculina
+                                                            (Exceto: à moda de)
+                                                            -     Diante      de     substantivos      femininos
+                   Casos Proibidos                          indeterminados;
+                                                             - Em locuções formadas com a repetição da mesma
+                                                            palavra;
+                                                            Diante de verbos.
+
+                                7 - APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em
+prova, considerando o histórico de questões da banca em provas de nível semelhante à nossa.
+
+Assim, a aposta estratégica é especialmente importante na sua reta final de estudos.
+
+Vale deixar claro que nem sempre será possível realizar uma aposta estratégica para um determinado
+assunto, considerando que, às vezes, não é viável identificar os pontos mais prováveis de serem cobrados a
+partir de critérios objetivos, ok?
+
+Vamos ao conteúdo da nossa aposta?
+
+No assunto acentuação, os ditongos abertos éi e ói nos vocábulos paroxítonos são muito cobrados em
+provas! A pergunta gira em torno da mudança ocorrida com o Novo Acordo Ortográfico. Lembrem-se da
+regra:
+
+Desaparece o acento dos ditongos abertos éi e ói dos vocábulos paroxítonos.
+
+
+                                    Registro Antigo         Novo Registro
+                                    alcatéia                alcateia
+                                    andróide                androide
+                                    apóia                   apoia
+                                    apóio                   apoio
+                                    asteróide               asteroide
+                                    bóia                    boia
+                                    celulóide               celuloide
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                        35
+        www.estrategiaconcursos.com.br
+                                                                                                                    60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+                                    colméia                 colmeia
+                                    Coréia                  Coreia
+
+
+ATENÇÃO: permanece o acento agudo nos monossílabos tônicos e oxítonos terminados em éis, éu, éus,
+ói, óis. Exemplos: dói, céu, papéis, herói, heróis, troféu, chapéu, chapéus.
+
+A REGRA SÓ ALTEROU OS DITONGOS ABERTOS EM PAROXÍTONAS!
+
+No assunto ortografia aposte no uso do hífen em prefixos terminados com vogal ou com consoante. O uso
+do hífen é sempre um assunto relevante, mas não se esqueça do seguinte:
+
+
+                Prefixo terminado Sem Hífen diante de vogal diferente
+                em vogal          (autoestima, autoescola, antiaério)
+                                   Sem Hífen diante de Consoante diferente de r e s
+                                  (autodefesa, anteprojeto, semicírculo)
+                                  Sem Hífen diante de r e s (dobram-se essas leras)
+                                  (autorretrato, antirracismo, antissocial)
+                                  Com Hífen diante de mesma vogal
+                                  (arqui-inimigo, contra-ataque, micro-ondas)
+                Prefixo terminado Sem        Hífen         diante      de       vogal
+                em consoante      (interestadual, superinteressante)
+                                  Sem hífen diante de consoante diferente
+                                  (intertextual, intermunicipal, supersônico)
+                                  Com Hífen diante de mesma consoante
+                                  (Sub-base, inter-regional, sob-bibliotecária)
+
+Já no assunto crase, a aposta fica nos casos facultativos. São apenas três, vale a pena decorar:
+
+        - Antes de pronomes possessivos (à sua; à minha);
+        - Antes de substantivos femininos próprios (à Maria, à Joana);
+        - Depois da palavra até (foram até a praia; foram até à praia).
+
+                          8 - QUESTÕES-CHAVE DE REVISÃO
+                                                   Ortografia
+
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        36
+        www.estrategiaconcursos.com.br
+                                                                                                        60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+A frase abaixo em que a grafia do termo em negrito está equivocada é:
+a) O atleta genioso deve ter sido mal-educado pelos pais;
+b) Trata-se de pessoa mal-educada;
+c) Os mal-educados não são pessoas agradáveis;
+d) Nenhum mal-educado deve estar presente na festa;
+e) Os arruaceiros presos são muito mal-educados.
+
+                                                    Ortografia
+
+Questão 02
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+“O vôo de Santos Dumont foi fruto de uma idéia revolucionária, assim como os micro-computadores e a
+rêde que hoje chamamos de Internet”.
+
+
+O texto é um trecho de redação escolar que não obedece às modificações propostas pelo Novo Acordo
+Ortográfico, além de cometer outros erros ortográficos já condenados no Acordo anterior.
+
+As palavras que mostram desobediência ao Novo Acordo são:
+a) rêde / revolucionária / micro-computadores;
+b) micro-computadores / rêde / Internet;
+c) vôo / rêde / micro-computadores;
+d) rêde / Internet / vôo;
+e) Internet / rêde / revolucionária.
+
+                                                    Ortografia
+
+Questão 03
+FGV - Técnico do Ministério Público (MPE AL)/Geral/2018
+
+
+NÃO FALTOU SÓ ESPINAFRE
+
+
+A crise não trouxe apenas danos sociais e econômicos. Mostrou também danos morais.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                       37
+         www.estrategiaconcursos.com.br
+                                                                                                      60
+
+                                       
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Aconteceu num mercadinho de bairro em São Paulo. A dona, diligente, havia conseguido algumas verduras
+e avisou à clientela. Formaram-se uma pequena fila e uma grande discussão. Uma senhora havia
+arrematado todos os dez maços de espinafre. No caixa, outras freguesas perguntaram se ela tinha
+restaurante. Não tinha. Observaram que a verdura acabaria estragada. Ela explicou que ia cozinhar e
+congelar. Então, foram ao ponto: caramba, havia outras pessoas na fila, ela não poderia levar só o que
+consumiria de imediato?
+“Não, estou pagando e cheguei primeiro”, foi a resposta.
+Compras exageradas nos supermercados, estoques domésticos, filas nervosas nos postos de combustível –
+teve muito comportamento na base de cada um por si.
+Cabem nessa categoria as greves e manifestações oportunistas. Governo, cedendo, também vou buscar o
+meu – tal foi o comportamento de muita gente.
+                                                                    Carlos A. Sardenberg, in O Globo, 31/05/2018.
+
+
+“A crise não trouxe apenas danos sociais e econômicos”; se juntarmos os adjetivos sublinhados em um só
+vocábulo, a forma adequada será
+a) sociais-econômicos.
+b) social-econômicos.
+c) sociais-econômico.
+d) socioeconômicos.
+e) socioseconômicos.
+
+                                                  Acentuação
+
+Questão 04
+FGV - Técnico Judiciário (TJ AL)/Judiciária/2018
+
+
+Ressentimento e Covardia
+
+Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda da falta de
+uma legislação específica que coíba não somente os usos mas os abusos deste importante e eficaz veículo
+de comunicação. A maioria dos abusos, se praticados em outros meios, seriam crimes já especificados em
+lei, como a da imprensa, que pune injúrias, difamações e calúnias, bem como a violação dos direitos
+autorais, os plágios e outros recursos de apropriação indébita.
+No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades. Como digo repetidas vezes, me valendo do óbvio, a comunicação
+virtual está em sua pré-história.
+Atualmente, apesar dos abusos e crimes cometidos na internet, no que diz respeito aos cronistas,
+articulistas e escritores em geral, os mais comuns são os textos atribuídos ou deformados que circulam por
+aí e que não podem ser desmentidos ou esclarecidos caso por caso. Um jornal ou revista é processado se
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    38
+        www.estrategiaconcursos.com.br
+                                                                                                                    60
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+publicar sem autorização do autor um texto qualquer, ainda que em citação longa e sem aspas. Em caso de
+injúria, calúnia ou difamação, também. E em caso de falsear a verdade propositadamente, é obrigado pela
+justiça a desmentir e dar espaço ao contraditório.
+Nada disso, por ora, acontece na internet. Prevalece a lei do cão em nome da liberdade de expressão, que é
+mais expressão de ressentidos e covardes do que de liberdade, da verdadeira liberdade.
+                                                (Carlos Heitor Cony, Folha de São Paulo, 16/05/2006 – adaptado)
+
+
+Duas palavras do texto que obedecem à mesma regra de acentuação gráfica são:
+a) indébita / também;
+b) história / veículo;
+c) crônicas / atribuídos;
+d) coíba / já;
+e) calúnia / plágio.
+
+                                                   Acentuação
+
+Questão 05
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+
+Assinale a opção que apresenta a frase em que a forma verbal sublinhada está corretamente acentuada.
+a) “Nas grandes coisas, os homens se mostram como lhes convém se mostrar; nas pequenas mostram-se
+como são”.
+b) “Dêem-nos as coisas supérfluas da vida e dispensaremos o necessário”.
+c) “O envelhecimento ocorre apenas dos 25 aos 30 anos. O que se obtêm até esse momento é o que se
+conservará para sempre”.
+d) “Quase todos os jovens mantém a própria opinião em situações polêmicas”.
+e) “O velho detêm a sabedoria de gerações”.
+
+                                                   Acentuação
+
+Questão 06
+FGV - Especialista Legislativo de Nível Superior (ALERJ)/Registro de Debates/2017
+
+
+Com relação aos ditongos ÉI/ÓI, o Novo Acordo Ortográfico retirou o acento gráfico do seguinte par de
+palavras:
+a) destróier/caracóis;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                 39
+         www.estrategiaconcursos.com.br
+                                                                                                                  60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+b) jibóia/odisséia;
+c) méier/alcalóide;
+d) constrói/colméia;
+e) pastéis/ovóide.
+
+                                                        Crase
+
+Questão 07
+FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+
+“Todos aqueles que devem deliberar sobre questões dúbias devem também manter-se imunes ao ódio e à
+simpatia, à ira e ao sentimentalismo”.
+
+
+Nesse pensamento de um historiador latino, ocorreu duas vezes a utilização correta do acento grave
+indicativo de que houve crase; a frase abaixo em que esse mesmo acento está equivocado é:
+a) Quem perdoa uma culpa encoraja à cometer muitas outras;
+b) A aspiração à glória é a última da qual se conseguem libertar os homens mais sábios;
+c) Quem aspira à sumidade, raras vezes consegue passar do meio;
+d) Veja o que ocorreu com muitos intelectuais, condenados à fama imortal;
+e) Todos somos levados à obediência eterna a Deus.
+
+                                                        Crase
+
+Questão 08
+FGV - Técnico Judiciário (TJ AL)/Judiciária/2018
+
+
+Ressentimento e Covardia
+
+Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda da falta de
+uma legislação específica que coíba não somente os usos mas os abusos deste importante e eficaz veículo
+de comunicação. A maioria dos abusos, se praticados em outros meios, seriam crimes já especificados em
+lei, como a da imprensa, que pune injúrias, difamações e calúnias, bem como a violação dos direitos
+autorais, os plágios e outros recursos de apropriação indébita.
+No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades. Como digo repetidas vezes, me valendo do óbvio, a comunicação
+virtual está em sua pré-história.
+Atualmente, apesar dos abusos e crimes cometidos na internet, no que diz respeito aos cronistas,
+articulistas e escritores em geral, os mais comuns são os textos atribuídos ou deformados que circulam por
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                40
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+aí e que não podem ser desmentidos ou esclarecidos caso por caso. Um jornal ou revista é processado se
+publicar sem autorização do autor um texto qualquer, ainda que em citação longa e sem aspas. Em caso de
+injúria, calúnia ou difamação, também. E em caso de falsear a verdade propositadamente, é obrigado pela
+justiça a desmentir e dar espaço ao contraditório.
+Nada disso, por ora, acontece na internet. Prevalece a lei do cão em nome da liberdade de expressão, que é
+mais expressão de ressentidos e covardes do que de liberdade, da verdadeira liberdade.
+                                               (Carlos Heitor Cony, Folha de São Paulo, 16/05/2006 – adaptado)
+
+
+“No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades”.
+
+O acento grave indicativo da crase empregado nesse segmento é devido ao mesmo fator da seguinte frase:
+a) À noite, todos os gatos são pardos;
+b) Pagar à vista é coisa rara hoje em dia;
+c) Entregou o livro à aluna;
+d) Saiu à procura da namorada;
+e) Ficava contente à proporção que superava os obstáculos.
+
+                                                       Crase
+
+Questão 09
+FGV - Analista do Ministério Público (MPE RJ)/Administrativa/2016
+
+
+Problemas Sociais Urbanos
+Brasil escola
+
+
+Dentre os problemas sociais urbanos, merece destaque a questão da segregação urbana, fruto da
+concentração de renda no espaço das cidades e da falta de planejamento público que vise à promoção de
+políticas de controle ao crescimento desordenado das cidades. A especulação imobiliária favorece o
+encarecimento dos locais mais próximos dos grandes centros, tornando-os inacessíveis à grande massa
+populacional. Além disso, à medida que as cidades crescem, áreas que antes eram baratas e de fácil acesso
+tornam-se mais caras, o que contribui para que a grande maioria da população pobre busque por moradias
+em regiões ainda mais distantes.
+Essas pessoas sofrem com as grandes distâncias dos locais de residência com os centros comerciais e os
+locais onde trabalham, uma vez que a esmagadora maioria dos habitantes que sofrem com esse processo
+são trabalhadores com baixos salários. Incluem-se a isso as precárias condições de transporte público e a
+péssima infraestrutura dessas zonas segregadas, que às vezes não contam com saneamento básico ou
+asfalto e apresentam elevados índices de violência.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 41
+        www.estrategiaconcursos.com.br
+                                                                                                                 60
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+A especulação imobiliária também acentua um problema cada vez maior no espaço das grandes, médias e
+até pequenas cidades: a questão dos lotes vagos. Esse problema acontece por dois principais motivos: 1)
+falta de poder aquisitivo da população que possui terrenos, mas que não possui condições de construir neles
+e 2) a espera pela valorização dos lotes para que esses se tornem mais caros para uma venda posterior. Esses
+lotes vagos geralmente apresentam problemas como o acúmulo de lixo, mato alto, e acabam tornando-se
+focos de doenças, como a dengue.
+                      PENA, Rodolfo F. Alves. “Problemas socioambientais urbanos”; Brasil Escola. Disponível em
+                http://brasilescola.uol.com.br/brasil/problemas-ambientais-sociais-decorrentes-urbanização.htm.
+                                                                                   Acesso em 14 de abril de 2016.
+
+No texto, há quatro ocorrências do acento grave indicativo da crase: “vise à promoção de políticas de
+controle”(1), “tornando-os inacessíveis à grande massa populacional”(2), “Além disso, à medida que as
+cidades crescem”(3) e “que às vezes não contam com saneamento básico”(4).
+
+
+Os casos de crase que correspondem à união de preposição + artigo definido são:
+a) 1 e 2;
+b) 1 e 4;
+c) 2 e 3;
+d) 3 e 4;
+e) todos eles.
+
+                                                           Crase
+
+Questão 10
+FGV - Professor III (Paulínia)/Português/2016
+
+
+Assinale a opção que indica a frase em que o emprego do acento grave indicativo da crase é optativo.
+a) “O estoque de militares que fizeram a Revolução de 64 está acabando por força da biologia. Por isso, o
+governo vai manter os sobreviventes até à idade de Matusalém”.
+b) “Os condenados à morte são contagiosos”.
+c) “Se Deus realmente ajuda a quem cedo madruga, ninguém seria fuzilado, eletrocutado ou enforcado às cinco
+da manhã”.
+d) “Copiar a si mesmo é mais perigoso que copiar os outros. Leva à esterilidade”.
+e) “Nunca atribua à malícia o que pode ser explicado adequadamente pela estupidez”.
+
+Questão 11
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                42
+            www.estrategiaconcursos.com.br
+                                                                                                                    60
+
+                                        
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+FGV - 2021 - PC-RJ - Inspetor de Polícia Civil
+
+
+A frase abaixo em que o vocábulo destacado está bem empregado é:
+A. absolver / absorver – O juiz decidiu absorver todo o grupo já que todas as provas eram circunstanciais;
+B. aprender / apreender – O grupo de policiais aprendeu uma grande quantidade de drogas no galpão da
+empresa;
+C. delatar / dilatar – O delegado resolveu delatar o prazo da investigação a fim de ajudar o trabalho dos
+agentes;
+D. despensa / dispensa – A administração do presídio guardava numa espécie de dispensa todas as frutas;
+E. fluir / fruir – Após o conserto a água fluía da torneira com toda a facilidade.
+
+                                                     Ortografia
+
+Questão 12
+FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+
+Escrever de forma ortograficamente correta é dever de todos aqueles que trabalham com a língua
+portuguesa; a forma abaixo que está graficamente correta é:
+A. enfarto;
+B. irriquieto;
+C. rúbrica;
+D. mantegueira;
+E. ponteagudo.
+
+                     9 - LISTA DE QUESTÕES COMENTADAS
+                                                    Ortografia
+
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+A frase abaixo em que a grafia do termo em negrito está equivocada é:
+a) O atleta genioso deve ter sido mal-educado pelos pais;
+b) Trata-se de pessoa mal-educada;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                43
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+c) Os mal-educados não são pessoas agradáveis;
+d) Nenhum mal-educado deve estar presente na festa;
+e) Os arruaceiros presos são muito mal-educados.
+Comentário:
+Na alternativa A, a grafia de “mal-educado” está incorreta porque temos aí uma locução verbal: ter sido
+educado / ter sido mal educado. Pelo fato de, nesse contexto, “educado” ser o verbo educar no particípio, e
+não um adjetivo, como ocorre nas alternativas B e E, não pode ocorrer essa construção com hífen: mal-
+educado.
+Nas opções C e D, a expressão está substantivada por estar determinada por artigo (Os – letra C) e pronome
+indefinido (“Nenhum” – letra D).
+Gabarito: A
+
+                                                    Ortografia
+
+Questão 02
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+“O vôo de Santos Dumont foi fruto de uma idéia revolucionária, assim como os micro-computadores e a
+rêde que hoje chamamos de Internet”.
+
+
+O texto é um trecho de redação escolar que não obedece às modificações propostas pelo Novo Acordo
+Ortográfico, além de cometer outros erros ortográficos já condenados no Acordo anterior.
+
+As palavras que mostram desobediência ao Novo Acordo são:
+a) rêde / revolucionária / micro-computadores;
+b) micro-computadores / rêde / Internet;
+c) vôo / rêde / micro-computadores;
+d) rêde / Internet / vôo;
+e) Internet / rêde / revolucionária.
+Comentário:
+Buscamos entre as alternativas a opção em que todas as palavras, retiradas do texto, estão grafadas
+incorretamente de acordo com o novo acordo ortográfico. Vejamo-nas:
+A - rêde / revolucionária / micro-computadores;
+Incorreta – “rêde” e “micro-computadores” estão grafadas incorretamente, o correto seria rede e
+microcomputadores. A grafia da palavra “revolucionária” está correta, portanto, essa não é a opção que
+gabarita a questão.
+B - micro-computadores / rêde / Internet;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                             44
+         www.estrategiaconcursos.com.br
+                                                                                                              60
+
+                                       
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Incorreta – semelhantemente à alternativa anterior, essa não é a opção certa porque “Internet” está grafada
+corretamente.
+C - vôo / rêde / micro-computadores;
+CORRETA – “rêde”, “micro-computadores” e “vôo” sofreram alteração na grafia após o novo acordo de
+ortografia: rede perdeu o acento diferencial, microcomputadores não tem mais hífen (isso acontece quando
+o prefixo termina em letra diferente da que inicia o outro elemento da composição, diferente, por exemplo,
+de em micro-ondas); e voo, e as demais palavras com vogal dobrada, não tem mais acento.
+D - rêde / Internet / vôo;
+Incorreta – “rêde” e “vôo” estão incorretas, mas Internet está correta.
+E - Internet / rêde / revolucionária.
+Incorreta – apenas “rêde” está incorreta.
+Gabarito: C
+
+                                                    Ortografia
+
+Questão 03
+FGV - Técnico do Ministério Público (MPE AL)/Geral/2018
+
+
+NÃO FALTOU SÓ ESPINAFRE
+
+
+A crise não trouxe apenas danos sociais e econômicos. Mostrou também danos morais.
+
+
+Aconteceu num mercadinho de bairro em São Paulo. A dona, diligente, havia conseguido algumas verduras
+e avisou à clientela. Formaram-se uma pequena fila e uma grande discussão. Uma senhora havia
+arrematado todos os dez maços de espinafre. No caixa, outras freguesas perguntaram se ela tinha
+restaurante. Não tinha. Observaram que a verdura acabaria estragada. Ela explicou que ia cozinhar e
+congelar. Então, foram ao ponto: caramba, havia outras pessoas na fila, ela não poderia levar só o que
+consumiria de imediato?
+“Não, estou pagando e cheguei primeiro”, foi a resposta.
+Compras exageradas nos supermercados, estoques domésticos, filas nervosas nos postos de combustível –
+teve muito comportamento na base de cada um por si.
+Cabem nessa categoria as greves e manifestações oportunistas. Governo, cedendo, também vou buscar o
+meu – tal foi o comportamento de muita gente.
+                                                                     Carlos A. Sardenberg, in O Globo, 31/05/2018.
+
+
+“A crise não trouxe apenas danos sociais e econômicos”; se juntarmos os adjetivos sublinhados em um só
+vocábulo, a forma adequada será
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                    45
+         www.estrategiaconcursos.com.br
+                                                                                                                     60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+a) sociais-econômicos.
+b) social-econômicos.
+c) sociais-econômico.
+d) socioeconômicos.
+e) socioseconômicos.
+Comentário:
+Antes do novo acordo, também conhecido como AOLP (Acordo Ortográfico da Língua Portuguesa),
+grafava-se sócio-econômicos e havia registros de socioeconômicos também, mas, após o AOLP, toda
+composição de palavras em que o prefixo termina com letra diferente da que inicia o segundo elemento não
+possui mais hífen, sendo assim socioeconômicos deve ser grafada tudo junto. A alternativa correta é letra
+D.
+Gabarito: D
+
+                                                  Acentuação
+
+Questão 04
+FGV - Técnico Judiciário (TJ AL)/Judiciária/2018
+
+
+Ressentimento e Covardia
+
+Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda da falta de
+uma legislação específica que coíba não somente os usos mas os abusos deste importante e eficaz veículo
+de comunicação. A maioria dos abusos, se praticados em outros meios, seriam crimes já especificados em
+lei, como a da imprensa, que pune injúrias, difamações e calúnias, bem como a violação dos direitos
+autorais, os plágios e outros recursos de apropriação indébita.
+No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades. Como digo repetidas vezes, me valendo do óbvio, a comunicação
+virtual está em sua pré-história.
+Atualmente, apesar dos abusos e crimes cometidos na internet, no que diz respeito aos cronistas,
+articulistas e escritores em geral, os mais comuns são os textos atribuídos ou deformados que circulam por
+aí e que não podem ser desmentidos ou esclarecidos caso por caso. Um jornal ou revista é processado se
+publicar sem autorização do autor um texto qualquer, ainda que em citação longa e sem aspas. Em caso de
+injúria, calúnia ou difamação, também. E em caso de falsear a verdade propositadamente, é obrigado pela
+justiça a desmentir e dar espaço ao contraditório.
+Nada disso, por ora, acontece na internet. Prevalece a lei do cão em nome da liberdade de expressão, que é
+mais expressão de ressentidos e covardes do que de liberdade, da verdadeira liberdade.
+                                               (Carlos Heitor Cony, Folha de São Paulo, 16/05/2006 – adaptado)
+
+
+Duas palavras do texto que obedecem à mesma regra de acentuação gráfica são:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 46
+        www.estrategiaconcursos.com.br
+                                                                                                                 60
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+a) indébita / também;
+b) história / veículo;
+c) crônicas / atribuídos;
+d) coíba / já;
+e) calúnia / plágio.
+Comentário:
+Vejamos as alternativas em busca daquela em que as palavras são acentuadas com base na mesma regra de
+acentuação:
+A - indébita / também;
+Incorreta: inédita – acentuam-se todas as proparoxítonas; também – acentuam-se as oxítonas terminadas
+em –em.
+B - história / veículo;
+Incorreta: história – acentuam-se as paroxítonas terminadas em ditongo crescente; veículo – essa palavra
+se encaixa em duas regras de acentuação: acentua-se o i tônico em hiato e acentuam-se todas as
+proparoxítonas.
+C - crônicas / atribuídos;
+Incorreta: crônicas – acentuam-se todas as proparoxítonas; atribuídos – acentua-se o i tônico em hiato.
+D - coíba / já;
+Incorreta: coíba - acentua-se o i tônico em hiato; já – acentuam-se todos os monossílabos tônicos
+terminados em a.
+E - calúnia / plágio.
+CORRETA: ambas as palavras são acentuadas por serem paroxítonas terminadas em ditongo crescente.
+Gabarito: E
+
+                                                   Acentuação
+
+Questão 05
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+
+Assinale a opção que apresenta a frase em que a forma verbal sublinhada está corretamente acentuada.
+a) “Nas grandes coisas, os homens se mostram como lhes convém se mostrar; nas pequenas mostram-se
+como são”.
+b) “Dêem-nos as coisas supérfluas da vida e dispensaremos o necessário”.
+c) “O envelhecimento ocorre apenas dos 25 aos 30 anos. O que se obtêm até esse momento é o que se
+conservará para sempre”.
+d) “Quase todos os jovens mantém a própria opinião em situações polêmicas”.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                             47
+         www.estrategiaconcursos.com.br
+                                                                                                           60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+e) “O velho detêm a sabedoria de gerações”.
+Comentário:
+A – CORRETA – a forma verbal “convém”, na alternativa A, está corretamente grafada na terceira pessoa
+do singular para concordar com o sujeito oracional mostrar-se: mostrar-se convém a eles/ lhes convém.
+B – incorreta – após o novo acordo as palavras que contêm vogal dobrada não têm mais acento.
+C – incorreta – o acento circunflexo na forma verbal “obtêm” é indicativo de que a palavra está no plural,
+mas ela deveria estar no grafada com acento agudo (obtém), no singular, para concordar com “O que”, que
+é o seu sujeito.
+D – incorreta – a forma verbal “mantém” está grafada incorretamente no singular. Deveria ser acentuada
+com acento circunflexo, indicando plural, para concordar com “Quase todos os jovens”.
+E – incorreta – o acento circunflexo na forma verbal “detêm” é indicativo de que a palavra está no plural,
+mas ela deveria estar no grafada com acento agudo (detém), no singular, para concordar com “O velho”,
+que é o seu sujeito.
+Gabarito: A
+
+                                                   Acentuação
+
+Questão 06
+FGV - Especialista Legislativo de Nível Superior (ALERJ)/Registro de Debates/2017
+
+
+Com relação aos ditongos ÉI/ÓI, o Novo Acordo Ortográfico retirou o acento gráfico do seguinte par de
+palavras:
+a) destróier/caracóis;
+b) jibóia/odisséia;
+c) méier/alcalóide;
+d) constrói/colméia;
+e) pastéis/ovóide.
+Comentário:
+Acentuava-se todo ditongo aberto eu, ei, oi antes da implementação do novo acordo. Após ele, porém, os
+ditongos ei e oi (com pronúncia aberta) não são mais acentuados quando na posição de paroxítona, ou seja,
+quando estiverem localizados na penúltima sílaba da palavra, há uma exceção para palavras paroxítonas
+terminadas em -r. Vejamos a divisão silábica e a sílaba tônica das palavras nas alternativas:
+A - destróier/caracóis;
+Des-troi-er – o ditongo está na posição de paroxítona, mas trata-se de palavra terminada em –r, por isso o
+acento permanece. Podemos dizer, então, que essa palavra é acentuada por terminar em -r e não por conta
+do ditongo aberto.
+Ca-ra-cóis – o ditongo aberto está na posição de oxítona, sendo assim o acento permanece.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                            48
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+B - jibóia/odisséia;
+Ji-boi-a e odis-sei-a – ambas as palavras têm ditongo aberto na posição de paroxítona, dessa forma, não
+ocorre mais acento.
+C - méier/alcalóide;
+Méi-er – o acento permanece por se tratar de uma paroxítona terminada em –r.
+Al-ca-loi-de – não possui mais acento devido ao ditongo aberto estar na posição de paroxítona.
+CUIDADO! Essa alternativa, se não fosse a observância da exceção, poderia ser marcada também como
+correta pelos desatentos.
+D - constrói/colméia;
+Cons-trói – ditongo na posição de oxítona, o acento permanece.
+Col-mei-a – ditongo na posição de paroxítona, não ocorre mais acento.
+E - pastéis/ovóide.
+Pas-téis - ditongo na posição de oxítona, o acento permanece.
+o-voi-de – ditongo na posição de paroxítona, não ocorre mais acento.
+Gabarito: B
+
+                                                        Crase
+
+Questão 07
+FGV - Técnico Judiciário (TJ CE)/Judiciária/2019
+
+
+“Todos aqueles que devem deliberar sobre questões dúbias devem também manter-se imunes ao ódio e à
+simpatia, à ira e ao sentimentalismo”.
+
+
+Nesse pensamento de um historiador latino, ocorreu duas vezes a utilização correta do acento grave
+indicativo de que houve crase; a frase abaixo em que esse mesmo acento está equivocado é:
+a) Quem perdoa uma culpa encoraja à cometer muitas outras;
+b) A aspiração à glória é a última da qual se conseguem libertar os homens mais sábios;
+c) Quem aspira à sumidade, raras vezes consegue passar do meio;
+d) Veja o que ocorreu com muitos intelectuais, condenados à fama imortal;
+e) Todos somos levados à obediência eterna a Deus.
+Comentário:
+Observemos as alternativas:
+A - Quem perdoa uma culpa encoraja à cometer muitas outras;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                             49
+         www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+CORRETA - Sinal indicativo de crase incorreto porque não acontece crase diante de verbo, que nunca é
+precedido de arquivo, salvo na situação em que está substantivado.
+B - A aspiração à glória é a última da qual se conseguem libertar os homens mais sábios;
+Crase correta devido à regência do termo “aspiração” e ao substantivo feminino “glória”.
+C - Quem aspira à sumidade, raras vezes consegue passar do meio;
+Crase correta devido à regência da forma verbal “aspira” e a seu complemento o substantivo feminino
+“sumidade”.
+D - Veja o que ocorreu com muitos intelectuais, condenados à fama imortal;
+Crase correta devido à regência do termo “condenados” e ao substantivo feminino “fama”.
+E - Todos somos levados à obediência eterna a Deus.
+Crase correta devido à regência da forma verbal “levados” e a seu complemento o substantivo feminino
+“obediência”.
+Gabarito: A
+
+                                                       Crase
+
+Questão 08
+FGV - Técnico Judiciário (TJ AL)/Judiciária/2018
+
+
+Ressentimento e Covardia
+
+Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda da falta de
+uma legislação específica que coíba não somente os usos mas os abusos deste importante e eficaz veículo
+de comunicação. A maioria dos abusos, se praticados em outros meios, seriam crimes já especificados em
+lei, como a da imprensa, que pune injúrias, difamações e calúnias, bem como a violação dos direitos
+autorais, os plágios e outros recursos de apropriação indébita.
+No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades. Como digo repetidas vezes, me valendo do óbvio, a comunicação
+virtual está em sua pré-história.
+Atualmente, apesar dos abusos e crimes cometidos na internet, no que diz respeito aos cronistas,
+articulistas e escritores em geral, os mais comuns são os textos atribuídos ou deformados que circulam por
+aí e que não podem ser desmentidos ou esclarecidos caso por caso. Um jornal ou revista é processado se
+publicar sem autorização do autor um texto qualquer, ainda que em citação longa e sem aspas. Em caso de
+injúria, calúnia ou difamação, também. E em caso de falsear a verdade propositadamente, é obrigado pela
+justiça a desmentir e dar espaço ao contraditório.
+Nada disso, por ora, acontece na internet. Prevalece a lei do cão em nome da liberdade de expressão, que é
+mais expressão de ressentidos e covardes do que de liberdade, da verdadeira liberdade.
+                                               (Carlos Heitor Cony, Folha de São Paulo, 16/05/2006 – adaptado)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 50
+        www.estrategiaconcursos.com.br
+                                                                                                                 60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+“No fundo, é um problema técnico que os avanços da informática mais cedo ou mais tarde colocarão à
+disposição dos usuários e das autoridades”.
+
+O acento grave indicativo da crase empregado nesse segmento é devido ao mesmo fator da seguinte frase:
+a) À noite, todos os gatos são pardos;
+b) Pagar à vista é coisa rara hoje em dia;
+c) Entregou o livro à aluna;
+d) Saiu à procura da namorada;
+e) Ficava contente à proporção que superava os obstáculos.
+Comentário:
+Na frase em análise, o sinal indicativo de crase se dá devido à locução adverbial prepositiva feminina: à
+disposição de (a craseado + substantivo + preposição). A mesma situação verificamos na letra D, em que há
+uma locução adverbial feminina semelhante, ou seja, prepositiva: à procura de.
+Analisando as demais alternativas temos:
+A - À noite, todos os gatos são pardos; B - Pagar à vista é coisa rara hoje em dia e E - Ficava contente à
+proporção que superava os obstáculos.
+Nessas três alternativas, o sinal de crase é devido à obrigatoriedade do sinal em locuções adverbiais
+femininas, então “À noite”, “à vista” e “à proporção” são locuções que têm o sinal obrigatório.
+C - Entregou o livro à aluna;
+Aqui ocorre crase devido à regência do verbo “entregou”, que é bitransitivo e rege preposição a em seu
+complemento indireto.
+Gabarito: D
+
+                                                       Crase
+
+Questão 09
+FGV - Analista do Ministério Público (MPE RJ)/Administrativa/2016
+
+
+Problemas Sociais Urbanos
+Brasil escola
+
+
+Dentre os problemas sociais urbanos, merece destaque a questão da segregação urbana, fruto da
+concentração de renda no espaço das cidades e da falta de planejamento público que vise à promoção de
+políticas de controle ao crescimento desordenado das cidades. A especulação imobiliária favorece o
+encarecimento dos locais mais próximos dos grandes centros, tornando-os inacessíveis à grande massa
+populacional. Além disso, à medida que as cidades crescem, áreas que antes eram baratas e de fácil acesso
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             51
+        www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 01
+
+tornam-se mais caras, o que contribui para que a grande maioria da população pobre busque por moradias
+em regiões ainda mais distantes.
+Essas pessoas sofrem com as grandes distâncias dos locais de residência com os centros comerciais e os
+locais onde trabalham, uma vez que a esmagadora maioria dos habitantes que sofrem com esse processo
+são trabalhadores com baixos salários. Incluem-se a isso as precárias condições de transporte público e a
+péssima infraestrutura dessas zonas segregadas, que às vezes não contam com saneamento básico ou
+asfalto e apresentam elevados índices de violência.
+A especulação imobiliária também acentua um problema cada vez maior no espaço das grandes, médias e
+até pequenas cidades: a questão dos lotes vagos. Esse problema acontece por dois principais motivos: 1)
+falta de poder aquisitivo da população que possui terrenos, mas que não possui condições de construir neles
+e 2) a espera pela valorização dos lotes para que esses se tornem mais caros para uma venda posterior. Esses
+lotes vagos geralmente apresentam problemas como o acúmulo de lixo, mato alto, e acabam tornando-se
+focos de doenças, como a dengue.
+                      PENA, Rodolfo F. Alves. “Problemas socioambientais urbanos”; Brasil Escola. Disponível em
+                http://brasilescola.uol.com.br/brasil/problemas-ambientais-sociais-decorrentes-urbanização.htm.
+                                                                                   Acesso em 14 de abril de 2016.
+
+No texto, há quatro ocorrências do acento grave indicativo da crase: “vise à promoção de políticas de
+controle”(1), “tornando-os inacessíveis à grande massa populacional”(2), “Além disso, à medida que as
+cidades crescem”(3) e “que às vezes não contam com saneamento básico”(4).
+
+
+Os casos de crase que correspondem à união de preposição + artigo definido são:
+a) 1 e 2;
+b) 1 e 4;
+c) 2 e 3;
+d) 3 e 4;
+e) todos eles.
+Comentário:
+“vise à promoção de políticas de controle”(1), “tornando-os inacessíveis à grande massa populacional”(2),
+“Além disso, à medida que as cidades crescem”(3) e “que às vezes não contam com saneamento básico”(4).
+Analisemos as ocorrências de crase no texto em comento:
+– crase devido à junção da preposição regida pelo verbo “vise” com o artigo definido feminino que precede
+o substantivo “promoção”.
+– crase devido à junção da preposição regida pelo adjetivo “inacessíveis” com o artigo definido feminino que
+precede a expressão “grande massa”.
+– crase obrigatória na locução adverbial feminina “à medida que”.
+- crase obrigatória na locução adverbial feminina “às vezes”.
+Os casos em que o sinal de crase é devido à junção de preposição mais artigo são nos itens 1 e 2.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                                52
+            www.estrategiaconcursos.com.br
+                                                                                                                    60
+
+                                        
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Gabarito: A
+
+                                                       Crase
+
+Questão 10
+FGV - Professor III (Paulínia)/Português/2016
+
+
+Assinale a opção que indica a frase em que o emprego do acento grave indicativo da crase é optativo.
+a) “O estoque de militares que fizeram a Revolução de 64 está acabando por força da biologia. Por isso, o
+governo vai manter os sobreviventes até à idade de Matusalém”.
+b) “Os condenados à morte são contagiosos”.
+c) “Se Deus realmente ajuda a quem cedo madruga, ninguém seria fuzilado, eletrocutado ou enforcado às cinco
+da manhã”.
+d) “Copiar a si mesmo é mais perigoso que copiar os outros. Leva à esterilidade”.
+e) “Nunca atribua à malícia o que pode ser explicado adequadamente pela estupidez”.
+Comentário:
+Só para relembrar, a crase é facultativa em alguns casos, devido à falta de necessidade de precedência de
+artigo. Esses casos são: diante de nomes próprios femininos; diante de pronomes possessivos. Também é
+facultativa diante da preposição até, isso devido à falta de necessidade de preposição a após até.
+Visto isso, dentre as alternativas, a letra A possui elemento com sinal indicativo de crase após o “até”. Esse
+é o gabarito dessa questão.
+Gabarito: A
+
+Questão 11
+FGV - 2021 - PC-RJ - Inspetor de Polícia Civil
+
+
+A frase abaixo em que o vocábulo destacado está bem empregado é:
+A. absolver / absorver – O juiz decidiu absorver todo o grupo já que todas as provas eram circunstanciais;
+B. aprender / apreender – O grupo de policiais aprendeu uma grande quantidade de drogas no galpão da
+empresa;
+C. delatar / dilatar – O delegado resolveu delatar o prazo da investigação a fim de ajudar o trabalho dos
+agentes;
+D. despensa / dispensa – A administração do presídio guardava numa espécie de dispensa todas as frutas;
+E. fluir / fruir – Após o conserto a água fluía da torneira com toda a facilidade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                     53
+        www.estrategiaconcursos.com.br
+                                                                                                                 60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Comentário: questão bem típica que alia grafia e paronímia. É muito comum confundir palavras parônimas,
+pois são palavras muito parecidas na grafia, embora bem diferentes no sentido. A questão pede que sejam
+avaliadas as palavras dentro do contexto. Vejamos:
+A) absolver / absorver – O juiz decidiu absorver todo o grupo já que todas as provas eram circunstanciais;
+Incorreta. O correto é o uso da forma "absolver";
+"Absolver" - dar alguém por inocente;
+"Absorver" - sugar;
+B) aprender / apreender – O grupo de policiais aprendeu uma grande quantidade de drogas no galpão da
+empresa;
+Incorreta. O correto é o uso da forma "apreendeu";
+"Aprender" - adquirir conhecimento;
+"Apreender" - realizar apreensão, tomar do possuidor algo ilícito;
+C) delatar / dilatar – O delegado resolveu delatar o prazo da investigação a fim de ajudar o trabalho dos
+agentes;
+Incorreta. O correto é o uso da forma "dilatar";
+"Delatar" - denunciar a responsabilidade de alguém por ato ilegal;
+"Dilatar" - tornar maior, mais largo;
+D) despensa / dispensa – A administração do presídio guardava numa espécie de dispensa todas as frutas;
+Incorreta. O correto é o uso da forma "despensa";
+"Despensa" - local próprio para o acondicionamento de mantimentos;
+"Dispensa" - ato de dispensar;
+E) fluir / fruir – Após o conserto a água fluía da torneira com toda a facilidade.
+Correta. O termo está corretamente empregado;
+"Fluir" - o liquido quando corre com abundância por um percurso determinado;
+"Fruir" - desfrutar;
+Gabarito: E
+
+                                                     Ortografia
+
+Questão 12
+FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+
+Escrever de forma ortograficamente correta é dever de todos aqueles que trabalham com a língua
+portuguesa; a forma abaixo que está graficamente correta é:
+A. enfarto;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                54
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+B. irriquieto;
+C. rúbrica;
+D. mantegueira;
+E. ponteagudo.
+Comentário:
+A. enfarto; CORRETA. Palavra com diferentes grafias, enfarte, infarte, enfarto e infarto.
+B. irriquieto; GRAFIA CORRETA: Irrequieto
+C. rúbrica; GRAFIA CORRETA: Rubrica
+D. mantegueira; GRAFIA CORRETA: Manteigueira
+E. ponteagudo. GRAFIA CORRETA: Pontiagudo
+Gabarito: A
+
+                                                     Ortografia
+
+Questão 11
+FGV - 2021 - PC-RJ - Inspetor de Polícia Civil
+
+
+A frase abaixo em que o vocábulo destacado está bem empregado é:
+A. absolver / absorver – O juiz decidiu absorver todo o grupo já que todas as provas eram circunstanciais;
+B. aprender / apreender – O grupo de policiais aprendeu uma grande quantidade de drogas no galpão da
+empresa;
+C. delatar / dilatar – O delegado resolveu delatar o prazo da investigação a fim de ajudar o trabalho dos
+agentes;
+D. despensa / dispensa – A administração do presídio guardava numa espécie de dispensa todas as frutas;
+E. fluir / fruir – Após o conserto a água fluía da torneira com toda a facilidade.
+Comentário: questão bem típica que alia grafia e paronímia. É muito comum confundir palavras parônimas,
+pois são palavras muito parecidas na grafia, embora bem diferentes no sentido. A questão pede que sejam
+avaliadas as palavras dentro do contexto. Vejamos:
+A) absolver / absorver – O juiz decidiu absorver todo o grupo já que todas as provas eram circunstanciais;
+Incorreta. O correto é o uso da forma "absolver";
+"Absolver" - dar alguém por inocente;
+"Absorver" - sugar;
+B) aprender / apreender – O grupo de policiais aprendeu uma grande quantidade de drogas no galpão da
+empresa;
+Incorreta. O correto é o uso da forma "apreendeu";
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                55
+         www.estrategiaconcursos.com.br
+                                                                                                             60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+"Aprender" - adquirir conhecimento;
+"Apreender" - realizar apreensão, tomar do possuidor algo ilícito;
+C) delatar / dilatar – O delegado resolveu delatar o prazo da investigação a fim de ajudar o trabalho dos
+agentes;
+Incorreta. O correto é o uso da forma "dilatar";
+"Delatar" - denunciar a responsabilidade de alguém por ato ilegal;
+"Dilatar" - tornar maior, mais largo;
+D) despensa / dispensa – A administração do presídio guardava numa espécie de dispensa todas as frutas;
+Incorreta. O correto é o uso da forma "despensa";
+"Despensa" - local próprio para o acondicionamento de mantimentos;
+"Dispensa" - ato de dispensar;
+E) fluir / fruir – Após o conserto a água fluía da torneira com toda a facilidade.
+Correta. O termo está corretamente empregado;
+"Fluir" - o liquido quando corre com abundância por um percurso determinado;
+"Fruir" - desfrutar;
+GABARITO: E
+
+                                                     Ortografia
+
+Questão 12
+FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+
+Escrever de forma ortograficamente correta é dever de todos aqueles que trabalham com a língua
+portuguesa; a forma abaixo que está graficamente correta é:
+A. enfarto;
+B. irriquieto;
+C. rúbrica;
+D. mantegueira;
+E. ponteagudo.
+Comentário:
+A. enfarto; CORRETA. Palavra com diferentes grafias, enfarte, infarte, enfarto e infarto.
+B. irriquieto; GRAFIA CORRETA: Irrequieto
+C. rúbrica; GRAFIA CORRETA: Rubrica
+D. mantegueira; GRAFIA CORRETA: Manteigueira
+E. ponteagudo. GRAFIA CORRETA: Pontiagudo
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                             56
+         www.estrategiaconcursos.com.br
+                                                                                                            60
+
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Gabarito: A
+
+                               10 - REVISÃO ESTRATÉGICA
+A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo, proporcionar
+uma outra forma de revisão de pontos importantes do conteúdo, a partir de perguntas que exigem respostas
+subjetivas.
+
+São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua resolução,
+como ocorre nas clássicas questões objetivas.
+
+O objetivo é que você realize uma autoexplicação mental de alguns pontos do conteúdo, para consolidar
+melhor o que aprendeu ;)
+
+Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto. Assim, ao
+resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do conteúdo, mas
+muitas vezes acaba não entendendo como esses pontos se conectam.
+
+Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor os
+diversos pontos do conteúdo, na medida do possível.
+
+É importante frisar que não estamos adentrando em um nível de profundidade maior que o exigido na sua
+prova, mas apenas permitindo que você compreenda melhor o assunto de modo a facilitar a resolução de
+questões objetivas típicas de concursos, ok?
+
+Nosso compromisso é proporcionar a você uma revisão de alto nível! Vamos ao nosso questionário:
+
+10.1 - Perguntas
+
+1. Quais aspectos da ortografia o Novo Acordo alterou?
+
+2. Quando o prefixo de uma palavra termina com vogal, qual é o uso do hífen?
+
+3. Quando o prefixo de uma palavra termina com consoante, qual é o uso do hífen?
+
+4. Quando ocorre a duplicação das consoantes "r" e "s"?
+
+5. Explique o uso dos "porquês".
+
+6. O Novo Acordo Ortográfico aboliu o acento diferencial?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             57
+        www.estrategiaconcursos.com.br
+                                                                                                           60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+7. Como fica a acentuação dos ditongos abertos éi e ói dos vocábulos paroxítonos.
+
+8. Quando as paroxítonas são acentuadas?
+
+9. Quais são os casos de crase facultativa/opcional?
+
+10. Quando é proibido o uso da crase?
+
+10.2 - Perguntas com respostas
+
+1. Quais aspectos da ortografia o Novo Acordo alterou? ==219a34==
+
+O Novo Acordo Ortográfico alterou o alfabeto, o trema (aboliu), o uso do hífen, a acentuação e o uso das
+letras maiúsculas e minúsculas.
+
+2. Quando o prefixo de uma palavra termina com vogal, qual é o uso do hífen?
+
+Segundo o Novo Acordo Ortográfico:
+
+
+                Prefixo terminado Sem Hífen diante de vogal diferente
+                em vogal          (autoestima, autoescola, antiaério)
+                                   Sem Hífen diante de Consoante diferente de r e s
+                                  (autodefesa, anteprojeto, semicírculo)
+                                  Sem Hífen diante de r e s (dobram-se essas leras)
+                                  (autorretrato, antirracismo, antissocial)
+                                  Com Hífen diante de mesma vogal
+                                  (arqui-inimigo, contra-ataque, micro-ondas)
+
+
+3. Quando o prefixo de uma palavra termina com consoante, qual é o uso do hífen?
+
+Segundo o Novo Acordo Ortográfico:
+
+
+                    Prefixo terminado Sem       Hífen      diante     de     vogal
+                    em consoante      (interestadual, superinteressante)
+                                      Sem hífen diante de consoante diferente
+                                      (intertextual, intermunicipal, supersônico)
+                                      Com Hífen diante de mesma consoante
+                                      (Sub-base, inter-regional, sob-bibliotecária)
+
+
+4. Quando ocorre a duplicação das consoantes "r" e "s"?
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               58
+        www.estrategiaconcursos.com.br
+                                                                                                           60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Não se usa o hífen quando o prefixo termina em vogal e o segundo elemento começa por r ou s. Nesse caso,
+duplicam-se as letras. Exemplos: sociorreligioso, antirrábico, antirracismo, antirreligioso, antirrugas,
+antissocial, biorritmo, contrarregra, contrassenso, cosseno, infrassom, microssistema, minissaia,
+multissecular, neorrealismo, neossimbolista, semirreta, ultrarresistente, ultrassom.
+
+5. Explique o uso dos "porquês".
+
+A forma por que é a sequência de uma preposição (por) e um pronome interrogativo (que). Equivale a "por
+qual razão", "por qual motivo". Há situações nas quais por que representa a sequência preposição +
+pronome relativo, equivalendo a "pelo qual" (ou alguma de suas flexões pela qual, pelos quais, pelas quais).
+
+A forma por quê é empregada ao final de uma frase, imediatamente antes de um ponto (final, de
+interrogação, de exclamação) ou de reticências. A sequência deve ser grafada por quê, pois, devido à
+posição na frase, o monossílabo "que" passa a ser tônico.
+
+A forma porque é uma conjunção, equivalendo a pois, já que, uma vez que, porquanto, como. Costuma ser
+utilizado em respostas, para explicação ou causa.
+
+A forma porquê representa um substantivo. Significa "causa", "razão", "motivo" e, normalmente, surge
+acompanhado de palavra determinante (artigo, por exemplo).
+
+6. O Novo Acordo Ortográfico aboliu o acento diferencial?
+
+Não se diferenciam mais os pares pára/para, péla(s)/pela(s), pêlo(s)/pelo(s), pólo(s)/polo(s) e pêra/pera. No
+entanto, permanece o acento diferencial em pôde/pode. Pôde é a forma do passado do verbo poder
+(pretérito perfeito do indicativo), na 3ª pessoa do singular. Pode é a forma do presente do indicativo, na 3ª
+pessoa do singular.
+
+Permanece o acento diferencial em pôr/por. Pôr é verbo. Por é preposição. Permanecem os acentos que
+diferenciam o singular do plural dos verbos ter e vir, assim como de seus derivados (manter, deter, reter,
+conter, convir, intervir, advir etc.).
+
+É facultado o uso do acento circunflexo para diferenciar as palavras dêmos (do verbo no subjuntivo que nós
+dêmos) de demos (do passado nós demos); fôrma (substantivo) de forma (verbo).
+
+Desaparece o acento dos ditongos abertos éi e ói dos vocábulos paroxítonos. Permanece o acento agudo
+nos monossílabos tônicos e oxítonos terminados em éis, éu, éus, ói, óis. Exemplos: dói, céu, papéis, herói,
+heróis, troféu, chapéu, chapéus.
+
+7. Como fica a acentuação dos ditongos abertos éi e ói dos vocábulos paroxítonos?
+
+Desaparece o acento dos ditongos abertos éi e ói dos vocábulos paroxítonos. Permanece o acento agudo
+nos monossílabos tônicos e oxítonos terminados em éis, éu, éus, ói, óis. Exemplos: dói, céu, papéis, herói,
+heróis, troféu, chapéu, chapéus.
+
+8. Quando as paroxítonas são acentuadas?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                59
+        www.estrategiaconcursos.com.br
+                                                                                                                60
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 01
+
+Levam acento agudo ou circunflexo os paroxítonos terminados em:
+
+   ▪   i(s): júri, lápis, táxi(s), tênis;
+   ▪   us: vênus, vírus, bônus;
+   ▪   r: caráter, revólver, éter, açúcar;
+   ▪   l: útil, amável, nível, têxtil;
+   ▪   x: tórax, fênix, ônix;
+   ▪   n: éden, hífen (no plural é sem acento: edens, hifens);
+   ▪   um, uns: álbum, álbuns, médium, médiuns;
+   ▪   ão(s): órgão, órfão, órgãos, órfãos;
+   ▪   ã(s): órfã, órfãs;
+   ▪   ps: bíceps, tríceps, fórceps;
+   ▪   om, on(s): iâmdom, rádon, rádons, nêutron, elétrons.
+
+9. Quais são os casos de crase facultativa/opcional?
+
+A crase é facultativa/opcional quando antes de pronomes possessivos, antes de substantivos femininos
+próprios e depois da palavra “até”.
+
+10. Quando é proibido o uso da crase?
+
+Não usamos crase antes de palavra masculina, diante de substantivos femininos indeterminados, diante de
+verbos e em locuções formadas com a repetição da mesma palavra.
+
+Pessoal, chegamos ao final desta aula. Façam uma boa revisão dos conceitos vistos hoje para gabaritarem
+as provas de Língua Portuguesa.
+
+Na próxima aula, continuaremos avançando gradativamente, de modo a visitar cada tópico cobrado pela
+banca examinadora. Estejam atentos aos percentuais estatísticos de cobrança para direcionarem seus
+estudos, ok?
+
+Forte abraço!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              60
+        www.estrategiaconcursos.com.br
+                                                                                                          60
+
+                                    
+
+
+---
+
+---

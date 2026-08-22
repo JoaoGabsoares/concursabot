@@ -1,0 +1,389 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: LOGÍSTICA SUSTENTÁVEL
+artigos_citados:
+- Art. 16.
+- Art. 2º
+- art. 11º
+- art. 12
+- art. 3º
+- artigo 16
+- artigo 2o
+- artigo 4o
+---
+
+# LOGÍSTICA SUSTENTÁVEL
+
+---
+
+---
+
+LOGÍSTICA SUSTENTÁVEL
+
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Logística Sustentável
+       Normatização vigente
+     ❑ A sustentabilidade é um tema já bastante conhecido e explorado. Não precisamos investir muito
+       tempo nele antes de entrar na própria logística sustentável. Não há qualquer mistério. Se é
+       possível atuar e gerar lucros sem prejudicar o meio ambiente ou sem deixar de lado a
+       responsabilidade social, porque não o fazer?
+
+     ❑ Esse mesmo pensamento vale para a logística, que é particularmente afetada por temas sensíveis
+       na questão ambiental como as sobras de produção, o uso de recursos naturais e de combustíveis
+       ao longo de todo o processo.
+
+     ❑ A chamada logística sustentável surge com o Decreto 7.746/2012, que regulamenta o art. 3º da
+       Lei nº 8.666/1993, reforçado pelos artigos 5º e 11º da lei 14.133/2021, com o objetivo de
+       estabelecer critérios e práticas para a promoção do desenvolvimento nacional sustentável nas
+       contratações realizadas pela administração pública federal direta, autárquica e fundacional e pelas
+       empresas estatais dependentes, e institui a Comissão Interministerial de Sustentabilidade na
+       Administração Pública - CISAP.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Logística Sustentável
+       Relacionada ao processo de licitação
+
+     ❑ Note que o Decreto se refere ao artigo 3o da Lei 8.666/1993, que trata de forma geral das normas de licitações e
+       contratos da administração pública. O artigo 3o da Lei 8.666/1993 diz o seguinte:
+
+                  Art. 3o A licitação destina-se a garantir a observância do princípio constitucional da isonomia, a seleção da
+                  proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável e será
+                  processada e julgada em estrita conformidade com os princípios básicos da legalidade, da impessoalidade,
+                  da moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento
+                  convocatório, do julgamento objetivo e dos que lhes são correlatos.
+
+
+     ❑ Nessa mesma linha a Nova Lei de Licitações 14.133/2021 traz no Art. 5º: “Na aplicação desta Lei, serão
+       observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência... e do
+       desenvolvimento nacional sustentável, assim como...” e no art. 11º: “O processo licitatório tem por objetivos: ...IV
+       - incentivar a inovação e o desenvolvimento nacional sustentável”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Logística Sustentável
+       Decreto 7746/2012
+
+     ❑ Dentro desse contexto o Decreto 7.746/2012 procura estabelecer critérios e práticas para definir exatamente o
+       que é a promoção do desenvolvimento nacional sustentável no ato da contratação pública, conceito trazido pelas
+       Leis 8.666/1993 e 14.133/2021. Vejamos alguns extratos do Decreto.
+
+     ❑ Logo em seu artigo 2o ele chama atenção para a adoção de práticas sustentáveis no processo de contratação:
+
+        Art. 2º Na aquisição de bens e na contratação de serviços e obras, a administração pública federal direta,
+        autárquica e fundacional e as empresas estatais dependentes adotarão critérios e práticas sustentáveis nos
+        instrumentos convocatórios, observado o disposto neste Decreto.
+
+
+     ❑ OK, mas fala-se o tempo todo em práticas sustentáveis, mas ainda não está claro e objetivo quais são elas. Mais
+       adiante, na parte mais importante do Decreto para sua prova, a norma estabelece quais são os critérios e práticas
+       considerados sustentáveis. Vejamos quais são eles a seguir.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Logística Sustentável
+       Decreto 7746/2012
+        Art. 4º Para os fins do disposto no art. 2º, são considerados critérios e práticas sustentáveis, entre outras: (“Caput”
+        do artigo com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+        I - baixo impacto sobre recursos naturais como flora, fauna, ar, solo e água; (Inciso com redação dada pelo Decreto
+        nº 9.178, de 23/10/2017)
+        II - preferência para materiais, tecnologias e matérias-primas de origem local;
+        III - maior eficiência na utilização de recursos naturais como água e energia;
+        IV - maior geração de empregos, preferencialmente com mão de obra local;
+        V - maior vida útil e menor custo de manutenção do bem e da obra;
+        VI - uso de inovações que reduzam a pressão sobre recursos naturais; (Inciso com redação dada pelo Decreto nº
+        9.178, de 23/10/2017)
+        VII - origem sustentável dos recursos naturais utilizados nos bens, nos serviços e nas obras; e (Inciso com redação
+        dada pelo Decreto nº 9.178, de 23/10/2017)
+        VIII - utilização de produtos florestais madeireiros e não madeireiros originários de manejo florestal sustentável ou
+        de reflorestamento. (Inciso acrescido pelo Decreto nº 9.178, de 23/10/2017)
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Logística Sustentável
+       Decreto 7746/2012
+     ❑ Mais adiante em seus artigos 5o e 6o, o Decreto traz ainda outras possibilidades para
+       que a administração pública, ao contratar, possa exigir certos pré requisitos ou
+       formas de atuação, em linha com a sustentabilidade. Vejamos abaixo:
+
+           Art. 5º A administração pública federal direta, autárquica e fundacional e as empresas estatais
+           dependentes poderão exigir no instrumento convocatório para a aquisição de bens que estes
+           sejam constituídos por material renovável, reciclado, atóxico ou biodegradável, entre outros
+           critérios de sustentabilidade. (Artigo com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+           Art. 6º As especificações e demais exigências do projeto básico ou executivo para contratação de
+           obras e serviços de engenharia devem ser elaboradas, nos termos do art. 12 da Lei nº 8.666, de
+           1993, de modo a proporcionar a economia da manutenção e operacionalização da edificação e a
+           redução do consumo de energia e água, por meio de tecnologias, práticas e materiais que
+           reduzam o impacto ambiental.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Logística Sustentável
+       Decreto 7746/2012
+     ❑ Importante frisar que o não cumprimento de tais condições, por meio da comprovação das exigências listadas ou
+       ainda por meio de diligências, impõe ao contratante a obrigação de apresentar razões técnicas para o não
+       cumprimento, ao final colocando em risco todo o processo de contratação.
+
+     ❑ Por fim, vale ainda destacar no próprio Decreto o artigo 16 que impõe a elaboração e implementação de plano
+       de gestão de logística sustentável a toda a administração pública federal direta, autárquica e fundacional e as
+       empresas estatais dependentes. Veja a seguir:
+
+         Art. 16. A administração pública federal direta, autárquica e fundacional e as empresas estatais dependentes
+         deverão elaborar e implementar Planos de Gestão de Logística Sustentável, conforme ato editado pela Secretaria
+         de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão, que preverá, no mínimo: (“Caput” do
+         artigo com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+         I - atualização do inventário de bens e materiais do órgão e identificação de similares de menor impacto ambiental
+         para substituição;
+         II - práticas de sustentabilidade e de racionalização do uso de materiais e serviços;
+         III - responsabilidades, metodologia de implementação e avaliação do plano; e
+         IV - ações de divulgação, conscientização e capacitação.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Logística Sustentável
+       Decreto 7746/2012
+
+     ❑ Veja que são todas medidas que visam regular a atuação de potenciais contratados
+       para a execução de obras ou serviços públicos em sintonia com as atuais
+       preocupações relativas a sustentabilidade, assim como impor, inclusive à
+       administração pública, a adoção de regras similares.
+     ❑ A Logística Sustentável dessa forma envolve todas as funções e responsabilidades da
+       logística tradicional, no entanto, com um viés voltado para a sustentabilidade.
+     ❑ Para isso, implementa ações que visam otimizar o uso dos recursos disponíveis,
+       buscando reduzir o desperdício de insumos, as emissões de gases poluentes na
+       atmosfera e outras práticas ambientalmente condenáveis.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAÚDE-CE/Analista Administrativo/2021) O sistema de organizações, pessoas, atividades e
+     recursos envolvidos em atividades de transportes de produtos ou insumos é conhecido formalmente
+     como cadeia de suprimentos. O tipo de cadeia que visa à restituição dos resíduos ao setor empresarial
+     para seu reaproveitamento, é conhecido por cadeia
+     a) direta
+     b) indireta
+     c) de ciclo aberto
+     d) integrada
+     e) reversa
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAÚDE-CE/Analista Administrativo/2021) O sistema de organizações, pessoas, atividades e
+     recursos envolvidos em atividades de transportes de produtos ou insumos é conhecido formalmente
+     como cadeia de suprimentos. O tipo de cadeia que visa à restituição dos resíduos ao setor empresarial
+     para seu reaproveitamento, é conhecido por cadeia
+     a) direta
+     b) indireta
+     c) de ciclo aberto
+     d) integrada
+     e) Reversa
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRESS-19/Agente Financeiro/2019) Considerando as noções básicas de administração de
+     materiais, julgue o item. Para fins de contratação com a Administração Pública, a geração de empregos
+     com mão de obra local constitui prática sustentável.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRESS-19/Agente Financeiro/2019) Considerando as noções básicas de administração de
+     materiais, julgue o item. Para fins de contratação com a Administração Pública, a geração de empregos
+     com mão de obra local constitui prática sustentável.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+      De acordo com o Decreto 7.746/2012 em seu artigo 4o, a geração de empregos com mão de obra local de fato constitui prática sustentável. Observe
+      o inciso IV abaixo:
+      Art. 4º Para os fins do disposto no art. 2º, são considerados critérios e práticas sustentáveis, entre outras: (“Caput” do artigo com redação dada pelo
+      Decreto nº 9.178, de 23/10/2017)
+      I - baixo impacto sobre recursos naturais como flora, fauna, ar, solo e água; (Inciso com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+      II - preferência para materiais, tecnologias e matérias-primas de origem local;
+      III - maior eficiência na utilização de recursos naturais como água e energia;
+      IV - maior geração de empregos, preferencialmente com mão de obra local;
+      V - maior vida útil e menor custo de manutenção do bem e da obra;
+      VI - uso de inovações que reduzam a pressão sobre recursos naturais; (Inciso com redação dada pelo Decreto nº 9.178, de 23/10/2017)
+      VII - origem sustentável dos recursos naturais utilizados nos bens, nos serviços e nas obras; e (Inciso com redação dada pelo Decreto nº 9.178, de
+      23/10/2017)
+      VIII - utilização de produtos florestais madeireiros e não madeireiros originários de manejo florestal sustentável ou de reflorestamento. (Inciso
+      acrescido pelo Decreto nº 9.178, de 23/10/2017)
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                             
+
+
+---
+
+       Tendências em Log. Sustentável
+       Otimização de Rotas
+     ❑ Dentro desse cenário algumas tendências que já podem ser verificadas de maneira geral apontam
+       para práticas logísticas sustentáveis que vem sendo adotadas cada vez com mais frequência:
+
+     ❑ O processo de otimização de rotas gera uma série de benefícios, como diminuição do tempo das
+       entregas, maior satisfação dos clientes, jornadas de trabalho menos cansativas para os motoristas
+       e redução do consumo de combustível.
+
+     ❑ Esse último tema tem impacto direto na sustentabilidade e é um dos mais cobrados em provas. A
+       gasolina e o diesel usados em caminhões são agentes extremamente poluidores.
+
+     ❑ Apoiada em geolocalização e programas que monitoram o trânsito, a otimização de rotas faz com
+       que toda a frota seja mais eficiente, a empresa colete melhores resultados financeiros e de
+       satisfação dos clientes e o meio ambiente seja menos prejudicado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tendências em Log. Sustentável
+       Controle de Materiais
+     ❑ A logística sustentável costuma focar demasiadamente o consumo de combustíveis
+       porém, na verdade o transporte de produtos e insumos também gera alguns outros
+       impactos ambientais, como o descarte de embalagens e de estruturas de apoio,
+       especialmente os pallets.
+     ❑ Com base nisso empresas estão investindo e desenvolvendo embalagens que podem
+       ser reutilizadas ou até mesmo que já são fruto de reciclagem, como as de plástico
+       feitas a partir de garrafas PET.
+     ❑ Também existe a possibilidade da utilização do plástico biodegradável, que, ao
+       contrário do tradicional, é produzido a partir de vegetais, levando menos tempo para
+       ser absorvido pelo meio ambiente após o descarte.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tendências em Log. Sustentável
+       Eficiência dos Veículos
+     ❑ Possuir uma frota renovada e com manutenção em dia é uma necessidade constante. Caminhões
+       e demais veículos pesados são modernizados todos os anos a fim de levar mais segurança e
+       conforto para os motoristas, bem como trazer mais eficiência para o consumo de combustível.
+
+     ❑ Um tema importante hoje é a avaliação por parte das empresas transportadoras ou empresas
+       possuidoras de frotas próprias, da possibilidade de comprar veículos que aceitem combustíveis
+       menos poluentes, como o etanol.
+
+     ❑ Cada vez mais populares, os caminhões flex, que aceitam tanto o álcool quanto a gasolina,
+       permitem que as empresas ainda tenham opções na hora de encher o tanque.
+
+     ❑ A tendência para os próximos anos é que motores híbridos ou movidos exclusivamente a energia
+       elétrica se tornem ainda mais eficientes e potentes, podendo estar embarcados em grandes
+       caminhões a preços bastante competitivos.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tendências em Log. Sustentável
+       Logística Reversa
+
+     ❑ A logística reversa engloba um conjunto de estratégias e práticas com o
+       objetivo de controlar todo o fluxo de materiais envolvendo o setor de
+       logística — desde a produção, passando pela entrega, até chegar ao
+       descarte.
+     ❑ Com muito estudo e planejamento, a empresa pode definir que fará o
+       recolhimento do descarte de produtos sensíveis (como pilhas e baterias
+       vendidas por ela mesma, por exemplo), ou seja, o material ao chegar ao
+       final da cadeia percorreria o caminho inverso, retornando ao fabricante.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

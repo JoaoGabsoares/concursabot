@@ -1,0 +1,5773 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 07_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Maurício
+artigos_citados:
+- Art. 16
+- Art. 226
+- Art. 226.
+- "art.\n    16"
+- art. 16
+- art. 17.
+- art. 1º
+- art. 3º
+sumulas_citadas:
+- Súmula 336
+---
+
+# Maurício
+
+Aula 06
+                          Receita Federal (Analista Tributário)
+                         Direito Previdenciário - Prof. Rubens
+                                                      Maurício
+
+                                                        Autor:
+                                     Rubens Mauricio Corrêa
+
+                                         08 de Setembro de 2025
+
+---
+
+      Rubens Mauricio Corrêa
+      Aula 06
+
+                                                                                     Índice
+1) Dependentes do RGPS
+
+
+2) Questões - Dependentes
+
+
+3) Resumo - Dependentes
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                          131
+
+                                                             
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    DEPENDENTES DO REGIME GERAL DE PREVIDÊNCIA
+
+    INTRODUÇÃO
+
+    Como já estudado, os beneficiários do Regime Geral de Previdência Social – RGPS
+    são os segurados e seus dependentes.
+    Após termos feito o estudo detalhado de cada uma das espécies de segurados,
+    vamos agora estudar cada um dos dependentes.
+    Os dependentes são beneficiários do RGPS independentemente de qualquer
+    contribuição, pois seu vínculo com a Previdência Social decorre da contribuição do
+    segurado com o qual mantenha vínculo de dependência.
+    Nos termos do art. 16 da Lei 8.213/91, os dependentes dividem-se em três classes,
+    conforme segue:
+
+
+          • Classe I (1ª Classe) - também conhecido como dependentes preferenciais: o
+            cônjuge, a companheira, o companheiro e o filho não emancipado, de
+            qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha
+            deficiência intelectual, mental ou deficiência grave;
+
+
+          • Classe II (2ª Classe): os pais;
+
+
+          • Classe III (3ª Classe): o irmão não emancipado, de qualquer condição, menor
+            de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    3
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                         não comprovam dependência
+                                 econômica                                cônjuge, companheira (o)
+                                                                     filho não emancipado de qualquer
+                                           Classe I                      condição, menor de 21 anos
+                                                                  filho inválido ou que tenha deficiência
+        Art. 16, do
+      Decreto 3.048/99
+                                         preferenciais         intelectual ou mental ou deficiência grave,
+                                                             nos termos do regulamento (de qualquer idade)
+           Dependentes                                          Enteado, menor sob tutela e menor sob guarda
+                                                                   (precisam comprovar dependência econômica)
+                                                                                      pais
+                                           Classe II             (precisam comprovar dependência econômica)
+                                                             irmão de qualquer condição, menor de 21 anos
+                                                                 (precisam comprovar dependência econômica)
+                                          Classe III             irmão inválido ou que tenha deficiência
+                                                               intelectual ou mental ou deficiência grave,
+                                                             nos termos do regulamento (de qualquer idade)
+                                                                 (precisam comprovar dependência econômica)
+
+    PRESTAÇÕES DEVIDAS AOS DEPENDENTES
+
+    Os dependentes têm direito apenas a dois benefícios previdenciários, quais sejam:
+          • pensão por morte e
+          • auxílio-reclusão.
+    Além destes benefícios, os dependentes também terão direito aos serviços
+    oferecidos pela Previdência Social, conforme segue:
+          • Habilitação e reabilitação profissional; e
+          • Serviço Social.
+    Tais benefícios e serviços serão estudados em detalhes, junto com as demais
+    prestações previdenciárias, durante nosso curso.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                       4
+      www.estrategiaconcursos.com.br                                                                            131
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                                              Direitos dos
+                                              Dependentes
+
+
+                      Benefícios                                             Serviços
+                                                                      Habilitação e
+                  Pensão por morte
+                                                                 Reabilitação Profissional
+
+                    Auxílio-reclusão                                       Serviço Social
+
+    DEPENDENTES DE CLASSE I (PREFERENCIAIS)
+
+    CÔNJUGE
+
+    Consideram-se cônjuges aqueles matrimonialmente vinculados pelo casamento.
+    Assim sendo, cada um dos cônjuges é beneficiário do RGPS, na condição de
+    dependente, em relação ao outro cônjuge, quando estes forem segurados.
+     Como exemplo podemos afirmar que o marido é dependente da esposa, se ela
+    for segurada. Da mesma forma, a esposa será dependente do marido, se ele for
+    segurado.
+    O cônjuge divorciado ou separado judicialmente ou de fato, bem como o ex-
+    companheiro, que recebia pensão de alimentos, concorrerá em igualdade de
+    condições com os dependentes de Classe I.
+
+           Obs.: Equipara-se à percepção de pensão alimentícia o recebimento de
+           ajuda econômica ou financeira sob qualquer forma.
+
+    Apesar da legislação previdenciária considerar o recebimento da pensão de
+    alimentos ou ajuda econômica/financeira como fator determinante para a
+    manutenção da qualidade de dependente para o ex-cônjuge e ex-companheiro, o
+    STJ tem o seguinte entendimento:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício    5
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           Súmula 336 – STJ: “A mulher que renunciou aos alimentos na separação judicial tem direito
+           à pensão previdenciária por morte do ex-marido, comprovada a necessidade econômica
+           superveniente.”
+
+    Apesar da súmula mencionar apenas a separação judicial, tal entendimento aplica-
+    se também aos casos de divórcio.
+    Para corroborar com tal entendimento, podemos citar parte da ementa de
+    Julgamento do STJ do Agravo Regimental no Agravo em Recurso Especial
+    101062/RJ:
+           STJ: “Consoante jurisprudência desta Corte, comprovada a dependência econômica em
+           relação ao de cujus, o cônjuge separado judicialmente faz jus ao benefício de pensão pós-
+           morte do ex-cônjuge, ainda que não receba pensão alimentícia.”
+
+    Na hipótese de o segurado estar, na data do seu óbito, obrigado por determinação
+    judicial a pagar alimentos temporários a ex-cônjuge ou a ex-companheiro ou ex-
+    companheira, a pensão por morte será devida pelo prazo remanescente na data do
+    óbito, caso não incida outra hipótese de cancelamento anterior do benefício.
+
+                                                     CÔNJUGE
+                Consideram-se cônjuges aqueles matrimonialmente vinculados pelo
+                casamento. Assim sendo, cada um dos cônjuges é beneficiário do RGPS,
+                na condição de dependente, em relação ao outro cônjuge, quando estes
+                forem segurados.
+
+                O cônjuge divorciado ou separado judicialmente ou de fato, bem como
+                o ex-companheiro(a), que recebia pensão de alimentos, concorrerá em
+                igualdade de condições com os dependentes de 1ª Classe.
+
+                Súmula 336 – STJ: “A mulher que renunciou aos alimentos na separação
+                judicial tem direito à pensão previdenciária por morte do ex-marido,
+                comprovada a necessidade econômica superveniente.”.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             6
+      www.estrategiaconcursos.com.br                                                               131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPANHEIROS
+
+    Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+    união estável com o segurado ou com a segurada.
+    Considera-se união estável aquela configurada na convivência pública, contínua e
+    duradoura entre pessoas, estabelecida com intenção de constituição de família,
+    exceto nos casos de impedimento legal de casamento, que também impedem a
+    constituição de união estável.
+    Outrossim, no caso em que um dos companheiros ou ambos sejam separados
+    apenas de fato, tal situação, apesar de impedir casamento, não impedirá a união
+    estável.
+    Assim sendo, podemos resumir as condições para que se reste caracterizada a
+    união estável em dois itens:
+          • convivência pública, contínua e duradoura entre pessoas, estabelecida com
+            intenção de constituição de família;
+          • ambos os companheiros sejam solteiros,                                separados   judicialmente,
+            divorciados, viúvos ou separados de fato.
+
+           Para comprovação de dependência econômica e união estável, exige-se
+           início de prova material contemporânea dos fatos, produzido em período
+           não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+           recolhimento à prisão do segurado, não admitida a prova exclusivamente
+           testemunhal, exceto na ocorrência de motivo de força maior ou caso
+           fortuito, conforme disposto no regulamento.
+
+
+           Obs.: Não é possível o reconhecimento da união estável, bem como dos
+           efeitos previdenciários correspondentes, quando um ou ambos os
+           pretensos companheiros forem menores de 16 anos.
+
+    Em se tratando de companheiro(a) maior de 16 anos e menor de 18 anos, dada a
+    incapacidade relativa, o reconhecimento da união estável está condicionado à
+    apresentação de declaração expressa dos pais ou representantes legais, atestando
+    que conheciam e autorizavam a convivência marital do menor.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 7
+      www.estrategiaconcursos.com.br                                                                      131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Analista de Gestão Educacional – SEDF - 2017). Relativamente a
+          segurados, cumulação de benefícios e previdência complementar, julgue o
+          item a seguir.
+           Entende-se como companheiro ou companheira para efeito de proteção
+          previdenciária a pessoa com quem o segurado mantém união estável por
+          período superior a cinco anos, independentemente da existência de prole em
+          comum.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três, e companheiros, desde que
+    comprovem união estável, são considerados como dependentes Classe I, portanto
+    automaticamente considerados como financeiramente dependentes do segurado,
+    não existindo um prazo legal para configurar uma união considerada estável,
+    conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+            (...)
+            § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+            união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+            Constituição Federal.
+            (Destaques Nossos).
+            Vamos conferir o Art. 226 da Constituição federal:
+            Art. 226. A família, base da sociedade, tem especial proteção do Estado.
+            [...]
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                8
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            § 3º Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a
+            mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento.
+            (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+
+    Gabarito: ERRADO.
+
+           (CESPE - Auditor de Controle Externo - TCE-PE - 2017). A respeito da carência
+          e da condição de segurados e dependentes no regime geral da previdência
+          social (RGPS), julgue o item subsequente.
+          Para a concessão da pensão por morte na condição de companheira ou
+          companheiro, exige-se do interessado a prova da existência de filhos em
+          comum ou da convivência por, no mínimo, dois anos com o segurado falecido.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Assertiva incorreta. As Classes de dependentes, conforme estudamos, são
+    definidas em três e companheiros, desde que comprovem união estável, são
+    considerados como dependentes Classe I, sendo automaticamente considerados
+    como financeiramente dependentes do segurado, e não existindo um prazo legal
+    para configurar uma união considerada estável e, menos ainda a necessidade da
+    existência de filhos em comum, conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+            (...)
+            § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+            união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+            Constituição Federal.
+            (Destaques Nossos).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                9
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Vejamos o Art. 226 da Constituição federal:
+           Art. 226. A família, base da sociedade, tem especial proteção do Estado.
+           [...]
+           § 3º Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a
+           mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento.
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+
+    Gabarito: ERRADO.
+
+    COMPANHEIROS HOMOSSEXUAIS
+    No âmbito do Regime Geral de Previdência Social - RGPS, as normas que tratam
+    de dependentes para fins previdenciários devem ser interpretadas de forma a
+    abranger a união estável entre pessoas do mesmo sexo.
+    O companheiro ou a companheira do mesmo sexo de segurado inscrito no RGPS
+    integra o rol dos dependentes e, desde que comprovada a união estável, concorre
+    com os dependentes preferenciais (dependentes de Classe I), para fins de
+    recebimento de pensão por morte e de auxílio-reclusão, independentemente de
+    comprovação de dependência econômica.
+
+    O STF já se posicionou reconhecendo a legitimidade da união homoafetiva como
+    entidade familiar. Vejamos o julgado a seguir:
+
+
+           RECONHECIMENTO E QUALIFICAÇÃO DA UNIÃO HOMOAFETIVA COMO ENTIDADE
+           FAMILIAR . - O Supremo Tribunal Federal - apoiando-se em valiosa hermenêutica construtiva
+           e invocando princípios essenciais (como os da dignidade da pessoa humana, da liberdade,
+           da autodeterminação, da igualdade, do pluralismo, da intimidade, da não discriminação e
+           da busca da felicidade) - reconhece assistir, a qualquer pessoa, o direito fundamental à
+           orientação sexual, havendo proclamado, por isso mesmo, a plena legitimidade ético-jurídica
+           da união homoafetiva como entidade familiar, atribuindo-lhe, em consequência, verdadeiro
+           estatuto de cidadania, em ordem a permitir que se extraiam, em favor de parceiros
+           homossexuais, relevantes consequências no plano do Direito, notadamente no campo
+           previdenciário, e, também, na esfera das relações sociais e familiares . - A extensão, às
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          10
+      www.estrategiaconcursos.com.br                                                               131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            uniões homoafetivas, do mesmo regime jurídico aplicável à união estável entre pessoas de
+            gênero distinto justifica-se e legitima-se pela direta incidência, dentre outros, dos princípios
+            constitucionais da igualdade, da liberdade, da dignidade, da segurança jurídica e do
+            postulado constitucional implícito que consagra o direito à busca da felicidade, os quais
+            configuram, numa estrita dimensão que privilegia o sentido de inclusão decorrente da
+            própria Constituição da República (art. 1º, III, e art. 3º, IV), fundamentos autônomos e
+            suficientes aptos a conferir suporte legitimador à qualificação das conjugalidades entre
+            pessoas do mesmo sexo como espécie do gênero entidade familiar .(STF, RE 477554
+            AgR/MG, DJe-164, de 25/08/2011)
+
+                            Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Auditor Fiscal de Controle Externo - TCE-SC – 2016). A seguridade
+          social compreende um conjunto integrado de ações de iniciativa dos poderes
+          públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde,
+          à previdência e à assistência social. Acerca da seguridade social, julgue o item
+          subsequente.
+          O STF reconhece a união homoafetiva como entidade familiar e,
+          consequentemente, assegura ao(à) companheiro(a) da pessoa segurada a
+          qualidade de dependente para fins previdenciários.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Sabemos que os dependentes são divididos em 3 classes, segundo o Art. 16 da Lei
+    8.213/91, senão vejamos:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+            II - os pais;
+            III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+            inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                 11
+      www.estrategiaconcursos.com.br                                                                      131
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Na análise literal do dispositivo, podemos notar que nada se aborda na lei sobre os
+    relacionamentos homoafetivos. Contudo, o STF publicou diversas decisões neste
+    sentido, conforme segue:
+          AGRAVO       REGIMENTAL     NO     RECURSO      EXTRAORDINÁRIO.     UNIÃO
+          HOMOAFETIVA. LEGITIMIDADE     CONSTITUCIONAL    DO   RECONHECIMENTO     E
+          QUALIFICAÇÃO DA UNIÃO CIVIL ENTRE PESSOAS DO MESMO SEXO COMO ENTIDADE
+          FAMILIAR. DIREITO À PERCEPÇÃO DO BENEFÍCIO DA PENSÃO POR MORTE.
+          RECONHECIMENTO. APLICAÇÃO DAS REGRAS E CONSEQUÊNCIAS JURÍDICAS VÁLIDAS
+          PARA A UNIÃO ESTÁVEL HETEROAFETIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA
+          COM O ENTENDIMENTO DO PLENÁRIO DESTA CORTE. REEXAME DE MATÉRIA FÁTICO-
+          PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL.
+          1. O preceito constante do art. 1.723 do Código Civil — “é reconhecida como entidade
+          familiar a união estável entre o homem e a mulher, configurada na convivência pública,
+          contínua e duradoura e estabelecida com o objetivo de constituição de família” – não obsta
+          que a união de pessoas do mesmo sexo possa ser reconhecida como entidade familiar apta a
+          merecer proteção estatal. O Pleno do Supremo Tribunal Federal, proferiu esse entendimento
+          no julgamento da ADI 4.277 e da ADPF 132, ambas da Relatoria do Ministro Ayres Britto,
+          Sessão de 5.5.11, utilizando a técnica da interpretação conforme a Constituição do referido
+          preceito do Código Civil, para excluir qualquer significado que impeça o reconhecimento da
+          união contínua, pública e duradoura entre pessoas do mesmo sexo como entidade familiar,
+          entendida esta como sinônimo perfeito de família. Reconhecimento este, que deve ser feito
+          segundo as mesmas regras e com idênticas consequências da união estável heteroafetiva.
+          2. Em recente pronunciamento, a Segunda Turma desta Corte, ao julgar caso análogo ao
+          presente, o RE n. 477.554-AgR, Relator o Ministro Celso de Mello, DJe de 26.08.11, em que
+          se discutia o direito do companheiro, na união estável homoafetiva, à percepção do benefício
+          da pensão por morte de seu parceiro, enfatizou que “ninguém, absolutamente ninguém,
+          pode ser privado de direitos nem sofrer quaisquer restrições de ordem jurídica por motivo de
+          sua orientação sexual. Os homossexuais, por tal razão, têm direito de receber a igual proteção
+          tanto das leis quanto do sistema político-jurídico instituído pela Constituição da República,
+          mostrando-se arbitrário e inaceitável qualquer estatuto que puna, que exclua, que discrimine,
+          que fomente a intolerância, que estimule o desrespeito e que desiguale as pessoas em razão
+          de sua orientação sexual. (…) A família resultante da união homoafetiva não pode sofrer
+          discriminação, cabendo-lhe os mesmos direitos, prerrogativas, benefícios e obrigações que
+          se mostrem acessíveis a parceiros de sexo distinto que integrem uniões heteroafetivas.”
+          (Precedentes: RE n. 552.802, Relator o Ministro Dias Toffoli, DJe de 24.10.11; RE n. 643.229,
+          Relator o Ministro Luiz Fux, DJe de 08.09.11; RE n. 607.182, Relator o Ministro Ricardo
+          Lewandowski, DJe de 15.08.11; RE n. 590.989, Relatora a Ministra Cármen Lúcia, DJe de
+          24.06.11; RE n. 437.100, Relator o Ministro Gilmar Mendes, DJe de 26.05.11, entre outros).(...)
+          (STF – RE 607562 AgR/PE – Relator Ministro LUIZ FUX – Primeira Turma – Julgamento em
+          18.09.2012 – Publicação em 03.10.2012)
+          (Destaques Nossos).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício              12
+      www.estrategiaconcursos.com.br                                                                   131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Portanto podemos concluir que a assertiva está correta, pois o STF reconhece a
+    união homoafetiva como entidade familiar e, consequentemente, assegura ao
+    companheiro(a) da pessoa segurada a qualidade de dependente para fins
+    previdenciários.
+    Estudar a Jurisprudência é essencial para diferenciar o candidato bem preparado.
+    Sobretudo em casos de assuntos que possuem uma razoável projeção na mídia.
+    Estes assuntos, o candidato tem que saber.
+
+
+    Gabarito: CERTO.
+
+    CONCUBINATO
+    Considera-se concubinato a relação não eventual entre pessoas, impedidas de
+    casar. Trata-se de uma relação impedida e que não pode ser considerada como
+    entidade familiar. No entanto, exclui-se da noção de concubinato a relação de
+    pessoas separadas judicialmente ou de fato que, apesar de serem impedidas para
+    novo casamento, podem estabelecer união estável, conforme previsão expressa em
+    lei.
+    Também se considera concubino(a) a pessoa com quem o cônjuge adúltero tem
+    encontros periódicos fora do lar.
+    A doutrina e a jurisprudência consideram as relações de concubinato excluídas do
+    conceito de união estável, por considerá-las ilegítimas, não alcançando a proteção
+    do Estado. Vejamos decisão do STF sobre o assunto:
+
+            STF - COMPANHEIRA E CONCUBINA - DISTINÇÃO. Sendo o Direito uma verdadeira
+           ciência, impossível é confundir institutos, expressões e vocábulos, sob pena de prevalecer a
+           babel. UNIÃO ESTÁVEL - PROTEÇÃO DO ESTADO. A proteção do Estado à união estável
+           alcança apenas as situações legítimas e nestas não está incluído o concubinato. PENSÃO -
+           SERVIDOR PÚBLICO - MULHER - CONCUBINA - DIREITO. A titularidade da pensão
+           decorrente do falecimento de servidor público pressupõe vínculo agasalhado pelo
+           ordenamento jurídico, mostrando-se impróprio o implemento de divisão a beneficiar, em
+           detrimento da família, a concubina. (STF - RE: 397762 BA, Relator: MARCO AURÉLIO, Data
+           de Julgamento: 03/06/2008)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            13
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    FILHOS
+    Os filhos também estão incluídos no rol de dependentes de Classe I (dependentes
+    preferenciais), quando não emancipados, de qualquer condição, quando menores
+    de 21 anos ou, em qualquer idade, quando inválidos ou que tenha deficiência
+    intelectual, mental ou deficiência grave.
+    Destaco aqui que os filhos adotivos não são classificados como equiparados a
+    filhos... Filhos adotivos SÃO FILHOS, sem qualquer distinção (não por equiparação,
+    mas por definição). A Constituição Federal de 1988 unificou o direito de igualdade
+    entre os filhos de qualquer condição (sejam adotados ou não).
+    Muitos alunos costumam confundir a dependência dos filhos para efeitos
+    previdenciários com a dependência para efeito de imposto de renda. Os filhos que
+    tenham entre 21 e 24 anos, quando universitários ou estejam cursando escola
+    técnica de 2º grau, apesar de dependentes para efeito de imposto de renda, não
+    são considerados dependentes para efeitos previdenciários.
+    O filho maior de 21 anos somente manterá a condição de dependente quando
+    inválido ou se tiver deficiência intelectual, mental ou deficiência grave.
+    Outro ponto que costuma causar confusão ocorreu após a redução da maioridade
+    promovida pelo Novo Código Civil, de 21 anos para 18 anos, para aquisição de
+    plena capacidade civil. Essa redução de maioridade civil para 18 anos em nada
+    altera a idade dos filhos, equiparados a filhos e irmãos para fins previdenciários,
+    que manterão a qualidade de dependente, quando não emancipados, até
+    completar 21 anos de idade.
+    A emancipação, cujo conceito jurídico é a aquisição de capacidade civil antes da
+    idade mínima definida em lei, ou seja, é a aptidão para exercer, por si só, os atos
+    da vida civil, poderá antecipar a perda da qualidade de dependente para idades
+    anteriores a 21 anos. Vejamos abaixo as causas de emancipação:
+    I - pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento
+    público, independentemente de homologação judicial, ou por sentença do juiz,
+    ouvido o tutor, se o menor tiver dezesseis anos completos;
+    II - pelo casamento;
+    III - pelo exercício de emprego público efetivo;
+    IV - pela colação de grau em curso de ensino superior;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   14
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    V - pelo estabelecimento civil ou comercial, ou pela existência de relação de
+    emprego, desde que, em função deles, o menor com dezesseis anos completos
+    tenha economia própria.
+    A cota do filho, do enteado, do menor tutelado, do menor sob guarda ou do irmão
+    dependente que se tornar inválido ou pessoa com deficiência intelectual, mental
+    ou grave antes de completar vinte e um anos de idade não será extinta se
+    confirmada a invalidez ou a deficiência.
+    A invalidez será reconhecida pela Perícia Médica Federal.
+    A deficiência será reconhecida por meio de avaliação biopsicossocial realizada por
+    equipe multiprofissional e interdisciplinar.
+    Portanto, para efeitos de dependência previdenciária sem limite de idade, a
+    invalidez tem que existir quando o requisito exigido como condição para concessão
+    do benefício for implementado. Assim sendo, a pensão por morte somente será
+    devida ao filho e ao irmão cuja invalidez tenha ocorrido antes da emancipação ou
+    antes de completar a idade de vinte e um anos, desde que reconhecida ou
+    comprovada, pela perícia médica do INSS, a continuidade da invalidez até a data
+    do óbito do segurado.
+
+           Exemplo 1: Abelardo , segurado do RGPS, faleceu deixando um filho de 25
+           anos chamado Paulo. Seis meses após a morte de Abelardo, Paulo sofreu um
+           acidente e ficou inválido. Nesta situação, apesar de inválido, Paulo não terá
+           direito à pensão por morte, pois sua invalidez ocorreu após a morte de seu pai
+           Abelardo e quando Paulo já possuía mais de 21 anos.
+
+           Exemplo 2: Agora vamos imaginar que Paulo, quando do falecimento de seu
+           pai Abelardo, tivesse 16 anos. Caso Paulo fique inválido antes de completar 21
+           anos, terá direito à manutenção dos benefícios de pensão por morte, enquanto
+           durar a invalidez, independentemente de ter ficado inválido antes ou após o
+           óbito do segurado.
+
+    O exercício de atividade remunerada, inclusive na condição de
+    microempreendedor individual, não impede a concessão ou manutenção da parte
+    individual da pensão do dependente com deficiência intelectual ou mental ou com
+    deficiência grave.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   15
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+          ADAPTADA).
+          Ao filho maior de vinte e um anos de idade será garantida a prestação de
+          benefícios e serviços da previdência social, desde que comprove a matrícula
+          em instituição de ensino superior, até a data da sua formatura.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Filhos, com exceção dos inválidos ou deficientes, são dependentes Classe I e
+    possuem direito a pensão até os 21 anos, não sendo o exercício de tal direito
+    prorrogável pelo fato de estarem matriculados em universidade.
+    Conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave; (...)
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            16
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS, julgue
+          o item a seguir.
+          De acordo com o disposto na Lei n.º 8.213/1991, filho maior de vinte e um
+          anos de idade não portador de invalidez ou qualquer deficiência mantém a
+          condição de dependente do segurado do RGPS até completar vinte e quatro
+          anos, desde que seja estudante universitário.
+          ( ) Certo
+          ( ) Errado
+                                                       ==219a34==
+
+    COMENTÁRIOS:
+    Filhos fazem parte de dependentes da Classe I, como podemos ver no art. 16 da
+    Lei 8.213/91, mas como sabemos, há algumas condições para isto. Vejamos o
+    referido artigo:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+            (...)
+            (Destaques Nossos).
+
+    Podemos ver que nada se fala sobre o filho ser estudante universitário ou não. A lei
+    apenas diz que filhos menores de 21 anos são considerados como dependentes,
+    com exceção aos filhos inválidos ou portadores de deficiências intelectuais ou
+    mentais, portanto assertiva incorreta.
+
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            17
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (Questão Inédita) Julgue o item a seguir: De acordo com o disposto na Lei n.º
+          8.213/1991, o filho, ainda não emancipado, quando adquire a maioridade civil
+          e não é portador de invalidez ou qualquer deficiência, automaticamente perde
+          a condição de dependente do segurado do RGPS.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Filhos fazem parte de dependentes da Classe I e perdem tal condição quando
+    chegam a determinada idade. Mas será que esta idade coincide com a maioridade
+    civil? Vejamos o art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave; (...)
+
+            (Destaques Nossos).
+
+    Podemos ver, neste caso, que a idade considerada pela legislação previdenciária
+    para a perda da condição de dependente é de 21 anos. Isto é diferente da perda
+    da menoridade que, segundo o artigo 5º do Código Civil, cessa aos 18 anos.
+    Calma... Você não precisa saber todo o Código Civil para realizar uma prova de
+    direito previdenciário. Mas, neste tipo de contexto, uma informação que pode ser
+    considerada senso comum (a maioridade no Brasil inicia-se após os 18 anos
+    completos), pode cair na sua prova. Mas não confunda maioridade civil (18 anos)
+    com idade padrão para cessar a dependência do filho no RGPS (21 anos).
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            18
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    EQUIPARADOS A FILHOS
+
+    Equiparam-se aos filhos, na condição de dependente de Classe I, o enteado, o
+    menor tutelado e o menor sob guarda (lei 15.108/2025), mediante declaração do
+    segurado e desde que não possuam condições suficientes para o próprio sustento
+    e educação.
+
+           Enteado: considera-se enteado o filho de seu cônjuge ou companheiro
+           atual, proveniente de um relacionamento anterior.
+
+           Menor tutelado: considera-se tutela um encargo conferido a uma pessoa
+           civilmente capaz, para que esta administre os bens e/ou a conduta de um
+           menor de idade, decorrente de falecimento dos pais ou estes decaírem
+           do poder familiar.
+
+           Menor sob guarda: Situação em que uma criança ou adolescente é
+           confiado a alguém, com autorização judicial, para fins de proteção,
+           assistência e educação. A guarda pode ser provisória ou definitiva, sendo
+           prevista no Estatuto da Criança e do Adolescente.
+
+    Os equipados a filhos, quando cumprirem os requisitos exigidos, estão incluídos no
+    rol de dependentes de Classe I (dependentes preferenciais), desde que sejam
+    menores de 21 anos ou, em qualquer idade, quando inválidos ou que tenha
+    deficiência intelectual, mental ou deficiência grave.
+
+    No caso de equiparado a filho, a inscrição será feita mediante a comprovação da
+    equiparação por:
+
+          • documento escrito do segurado falecido manifestando essa intenção;
+          • da dependência econômica; e
+          • da declaração de que não tenha sido emancipado.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   19
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Auditor de Controle Externo - TCE-PE - Auditoria de Contas Públicas
+          – 2017).
+          Acerca da filiação, acumulação de benefício e regimes próprios de previdência
+          social, julgue o item a seguir.
+          O adolescente que estiver sob dependência econômica da madrasta,
+          segurada do RGPS, poderá ser inscrito no INSS como dependente desta.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três, e vimos que apenas os
+    dependentes de 1ª Classe são considerados como financeiramente dependentes
+    do segurado. O enteado do segurado é equiparado aos filhos, mas precisa
+    comprovar dependência econômica para ser considerado dependente e receber os
+    benefícios, conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave; (...)
+
+            § 2º O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+            mediante declaração do segurado e desde que não possuam condições suficientes para o
+            próprio sustento e educação.
+
+            (Destaques Nossos).
+
+    Obs.: Atualmente, equiparam-se aos filhos, na condição de dependente de Classe
+    I, o enteado, o menor tutelado e o menor sob guarda (lei 15.108/2025), mediante
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            20
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    declaração do segurado e desde que não possuam condições suficientes para o
+    próprio sustento e educação.
+    Sendo assim podemos concluir que a assertiva é verdadeira.
+
+    Gabarito: CERTO.
+
+
+          (CESPE - Defensor Público Federal – 2015).
+          Em relação aos segurados do RGPS e seus dependentes, julgue o item
+          subsecutivo.
+          A lei de benefícios previdenciários prevê expressamente que o menor sob
+          guarda do segurado filiado ao RGPS é seu dependente, havendo discussão
+          jurisprudencial a respeito do tema, dada a existência de normas contrárias no
+          ordenamento jurídico nacional.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Atualmente, após a publicação da lei 15.108/2025, equiparam-se aos filhos, na
+    condição de dependente de Classe I, além do enteado e do menor tutelado ,
+    também o menor sob guarda, mediante declaração do segurado e desde que não
+    possuam condições suficientes para o próprio sustento e educação.
+
+
+    Na época da aplicação da prova, a questão foi considerada incorreta, pois o menor
+    sob guarda não era considerado dependente do RGPS. Contudo, atualmente
+    considera-se dependente.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   21
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+    Os dependentes de Classe I, também conhecidos como dependentes preferenciais,
+    em regra, não precisam comprovar dependência econômica, uma vez que tal
+    dependência é presumida.
+
+    Os únicos dependentes de Classe I que precisam comprovar dependência
+    econômica são os equiparados a filhos, conforme segue:
+
+          • Enteado;
+          • Menor sob tutela;
+          • Menor sob guarda.
+
+    No caso dos demais dependentes de Classe I, mesmo que possuam bens
+    suficientes para garantir seu sustento e educação e não dependam
+    economicamente do segurado, farão jus às prestações previdenciárias na qualidade
+    de dependentes.
+
+    Para comprovação do vínculo e da dependência econômica, conforme o caso,
+    deverão ser apresentados, no mínimo, dois documentos, os quais deverão ser
+    contemporâneos dos fatos, produzidos em período não superior aos vinte e quatro
+    meses anteriores à data do óbito ou do recolhimento à prisão do segurado, não
+    admitida a prova exclusivamente testemunhal, exceto na ocorrência de motivo de
+    força maior ou caso fortuito.
+
+    Os documentos que poderão ser aceitos, dentre outros, são:
+
+          • certidão de nascimento de filho havido em comum;
+          • certidão de casamento religioso;
+          • declaração do imposto de renda do segurado, em que conste o interessado
+            como seu dependente;
+          • disposições testamentárias;
+          • declaração especial feita perante tabelião;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   22
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          • prova de mesmo domicílio;
+          • prova de encargos domésticos evidentes e existência de sociedade ou
+            comunhão nos atos da vida civil;
+          • procuração ou fiança reciprocamente outorgada;
+          • conta bancária conjunta;
+          • registro em associação de qualquer natureza, onde conste o interessado
+            como dependente do segurado;
+          • anotação constante de ficha ou livro de registro de empregados;
+          • apólice de seguro da qual conste o segurado como instituidor do seguro e a
+            pessoa interessada como sua beneficiária;
+          • ficha de tratamento em instituição de assistência médica, da qual conste o
+            segurado como responsável;
+          • escritura de compra e venda de imóvel pelo segurado em nome de
+            dependente;
+          • declaração de não emancipação do dependente menor de vinte e um anos;
+            ou
+          • quaisquer outros que possam levar à convicção do fato a comprovar.
+
+
+    Obs.: O fato superveniente que importe em exclusão ou inclusão de dependente
+    deve ser comunicado ao Instituto Nacional do Seguro Social, com as provas
+    cabíveis.
+
+           Para comprovação de dependência econômica ou união estável, exige-se
+           início de prova material contemporânea dos fatos, produzido em período
+           não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+           recolhimento à prisão do segurado, não admitida a prova exclusivamente
+           testemunhal, exceto na ocorrência de motivo de força maior ou caso
+           fortuito, conforme disposto no regulamento.
+
+           Será excluído definitivamente da condição de dependente quem tiver
+           sido condenado criminalmente por sentença com trânsito em julgado,
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   23
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            como autor, coautor ou partícipe de homicídio doloso, ou de tentativa
+            desse crime, cometido contra a pessoa do segurado, ressalvados os
+            absolutamente incapazes e os inimputáveis.
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+          ADAPTADA). Julgue a assertiva a seguir.
+          A prestação de benefícios e serviços da previdência social será garantida ao
+          cônjuge supérstite, desde que este comprove a dependência econômica do
+          cônjuge segurado que tiver falecido.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Cônjuge, como você sabe, são pertencentes à Classe I. Não se assuste com as
+    palavras que você não conheça, caso isto ocorra na prova. No caso, cônjuge
+    supérstite significa cônjuge sobrevivente (viúvo), pertence à Classe I. Sabemos que
+    dependentes Classe I, são considerados como financeiramente dependentes,
+    conforme podemos ver no art. 16 da Lei 8.213/91:
+    Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do
+    segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave; (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois o cônjuge não deverá
+    comprovar dependência econômica, uma vez que ela é presumida.
+
+    Gabarito: ERRADO.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            24
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (CESPE - Analista Judiciário - TRT 7ª Região – 2017) (QUESTÃO ADAPTADA).
+          João, segurado obrigatório no RGPS, é casado com Fabiana, pelo regime da
+          separação total de bens, com quem tem dois filhos, Marcos, de dezesseis anos
+          de idade, e Felipe, de vinte e cinco anos de idade, portador de deficiência
+          mental grave desde criança.
+          Nessa situação hipotética, à luz da Lei n.º 8.213/1991, considera(m)-se
+          dependente(s) previdenciário(s) de João: Fabiana, Marcos e Felipe.
+          ( ) Certo
+          ( ) Errado
+
+
+    COMENTÁRIOS:
+    Cônjuges, filhos menores de 21 anos não emancipados ou filhos inválidos ou que
+    tenham deficiência intelectual ou mental (independentemente da idade), são
+    considerados como dependentes de 1ª Classe. Automaticamente, tais
+    dependentes têm sua dependência econômica presumida, conforme podemos
+    conferir no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave; (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+    O fato de João ser casado com Fabiana pelo regime da separação total de bens
+    em nada altera a condição de dependente preferencial de Fabiana. Sendo assim
+    podemos concluir que a assertiva é verdadeira.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            25
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          (CESPE - Juiz Federal - TRF 1ª Região – 2015) (QUESTÃO ADAPTADA). Com
+          relação aos beneficiários do RGPS, julgue o item a seguir:
+          Para efeitos previdenciários, presume-se que o filho e o enteado com menos
+          de vinte e um anos são economicamente dependentes do segurado.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    O enteado do segurado, é equiparado aos filhos, mas precisa comprovar
+    dependência econômica para receber os benefícios, conforme podemos ver no art.
+    16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+
+            (...)
+
+            § 2º O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+            mediante declaração do segurado e desde que não possuam condições suficientes para o
+            próprio sustento e educação.
+
+            (Destaques Nossos).
+
+    Obs.: Atualmente, equiparam-se aos filhos, na condição de dependente de Classe
+    I, o enteado, o menor tutelado e o menor sob guarda (lei 15.108/2025), mediante
+    declaração do segurado e desde que não possuam condições suficientes para o
+    próprio sustento e educação.
+
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois o enteado, apesar de
+    ser dependente de 1ª Classe, deverá comprovar a dependência econômica.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            26
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS,
+          julgue o item a seguir.
+          É presumida a dependência econômica do filho com mais de dezoito anos e
+          menos de vinte e um anos de idade em relação ao segurado da previdência
+          social, não sendo necessária a comprovação dessa dependência para que ele
+          se torne beneficiário do RGPS na condição de dependente do segurado.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Estudamos que os filhos são pertencentes à Classe I, no rol de dependentes (que
+    possui 3 classes). Dependentes Classe I são considerados como financeiramente
+    dependente, como podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+
+            (...)
+
+            (Destaques Nossos).
+
+    Note que a menção à idade é de 21 anos e não 18. Não confunda a maioridade
+    civil com a perda da condição de dependente.
+    Sendo assim podemos concluir que a assertiva está correta, pois é presumida a
+    dependência econômica do filho com mais de dezoito anos e menos de vinte e um
+    anos de idade em relação ao segurado da previdência social. O fato de ser
+    presumida também a dependência econômica para os filhos menores de 18 anos,
+    não modifica a verdade contida na afirmação.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            27
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    DEPENDENTES DE CLASSE II (PAIS)
+
+    PAIS
+
+    Os pais (pai e a mãe) do segurado são seus dependentes de Classe II.
+
+    Importante lembrar que os dependentes de Classe II somente terão direito às
+    prestações previdenciárias (benefícios e serviços) caso não exista nenhum
+    dependente de Classe I (preferencial), uma vez que a existência de dependente de
+    qualquer das classes anteriores exclui do direito às prestações os das classes
+    seguintes.
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+    Para fins de concessão de benefícios previdenciários, os pais (dependentes de
+    Classe II) devem comprovar dependência econômica, bem como a inexistência de
+    dependentes de Classe I (preferenciais).
+
+           Para comprovação de dependência econômica ou união estável, exige-se
+           início de prova material contemporânea dos fatos, produzido em período
+           não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+           recolhimento à prisão do segurado, não admitida a prova exclusivamente
+           testemunhal, exceto na ocorrência de motivo de força maior ou caso
+           fortuito, conforme disposto no regulamento.
+
+           Será excluído definitivamente da condição de dependente quem tiver
+           sido condenado criminalmente por sentença com trânsito em julgado,
+           como autor, coautor ou partícipe de homicídio doloso, ou de tentativa
+           desse crime, cometido contra a pessoa do segurado, ressalvados os
+           absolutamente incapazes e os inimputáveis.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   28
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                            Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Defensor Público Federal - 2017). A respeito da condição de
+          segurados e dependentes no RGPS e da fonte de custeio desse regime, julgue
+          o item subsequente.
+          Para efeito de concessão de benefício aos dependentes, a dependência
+          econômica dos genitores do segurado é considerada presumida.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três e apenas os dependentes Classe
+    I, em regra, são considerados, de forma presumida, como economicamente
+    dependentes do segurado. Os genitores do segurado (pai e mãe) são considerados
+    como dependentes de Classe II, precisando comprovar dependência econômica
+    para receber pensão, conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+
+            II - os pais;    (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada. (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            29
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (CESPE - Analista de Administração Pública - TC-DF - 2014). No que se refere
+          ao regime geral de previdência social, julgue o item a seguir.
+          É presumida, por força de lei, a dependência econômica dos pais do segurado
+          para fins de atribuição da qualidade de dependentes.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Não é bem assim. Os pais do segurado são considerados como dependentes Classe
+    II, precisando comprovar dependência financeira para receber pensão, conforme
+    podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+
+            II - os pais; (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada. (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois a dependência
+    econômica dos pais do segurado para fins de atribuição da qualidade de
+    dependentes deverá ser comprovada.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            30
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          (CESPE - Auditor Fiscal do Trabalho – 2013). No que se refere às normas que
+          regulamentam a condição de dependente no RGPS, julgue o item
+          subsequente.
+          Apesar de integrarem a segunda classe de dependentes, os pais poderão fazer
+          jus ao recebimento de pensão por morte, desde que comprovem a
+          dependência econômica do segurado a eles, ainda que existam dependentes
+          que integrem a primeira classe.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três e apenas os dependentes Classe
+    I são, em regra, automaticamente considerados como economicamente
+    dependentes do segurado. Os pais do segurado são considerados como
+    dependentes de Classe II, precisando comprovar dependência financeira para
+    receber pensão, porém só poderão receber essa pensão caso não exista nenhum
+    beneficiário Classe I, conforme podemos ver no art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+
+            II - os pais; (...)
+
+             § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+            prestações os das classes seguintes. (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+    Além do erro apontado acima, outro erro está inserido na questão. Quando a
+    assertiva afirma que os pais poderão fazer jus ao recebimento de pensão por morte,
+    desde que comprovem a dependência econômica do segurado a eles, temos uma
+    inversão técnica, pois não se deve comprovar a dependência econômica do
+    segurado aos pais, mas sim dos pais em relação aos segurados.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            31
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    DEPENDENTES DE CLASSE III (IRMÃOS)
+
+    IRMÃOS
+
+    Os irmãos são dependentes de Classe III, quando não emancipados, de qualquer
+    condição, quando menores de 21 anos ou, em qualquer idade, quando inválidos
+    ou que tenha deficiência intelectual, mental ou deficiência grave.
+
+    Importante lembrar que os dependentes de Classe III somente terão direito às
+    prestações previdenciárias (benefícios e serviços) caso não exista qualquer
+    dependente de Classe I (preferenciais), nem tampouco qualquer dependente de
+    Classe II, uma vez que a existência de dependente de qualquer das classes
+    anteriores exclui do direito às prestações os das classes seguintes.
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+    Como vimos, para fins de concessão de benefícios previdenciários, os irmãos
+    (dependentes de Classe III) devem comprovar dependência econômica, bem como
+    a inexistência de dependentes de Classe I (preferenciais) e de Classe II.
+
+           Para comprovação de dependência econômica ou união estável, exige-se
+           início de prova material contemporânea dos fatos, produzido em período
+           não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+           recolhimento à prisão do segurado, não admitida a prova exclusivamente
+           testemunhal, exceto na ocorrência de motivo de força maior ou caso
+           fortuito, conforme disposto no regulamento.
+
+           Será excluído definitivamente da condição de dependente quem tiver
+           sido condenado criminalmente por sentença com trânsito em julgado,
+           como autor, coautor ou partícipe de homicídio doloso, ou de tentativa
+           desse crime, cometido contra a pessoa do segurado, ressalvados os
+           absolutamente incapazes e os inimputáveis.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   32
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (CESPE - Auditor Governamental - CGE PI –2015). A respeito do regime geral
+          de previdência social, julgue o item a seguir.
+          A dependência econômica do irmão menor de vinte e um anos de idade na
+          condição de dependente do segurado é presumida para fins de obtenção de
+          benefício previdenciário.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Para responder a esta questão, recorramos ao art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+            II - os pais;
+            III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+            inválido ou que tenha deficiência intelectual ou mental ou deficiência grave; (...)
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+            (Destaques Nossos).
+
+
+    Portanto assertiva incorreta, pois a dependência dos irmãos, que são dependentes
+    da Classe III, não é presumida, devendo ser comprovada.
+
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            33
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (CESPE - Analista Judiciário - TRT 10ª Região – 2013). O item a seguir
+          apresenta uma situação hipotética, seguida de uma assertiva a ser julgada com
+          base nas disposições do direito previdenciário.
+          José, com dezesseis anos de idade, não emancipado, vive às expensas de seu
+          irmão mais velho, João, que é segurado da previdência social. Nessa situação,
+          José é considerado beneficiário do regime geral da previdência social, na
+          condição de dependente de João.
+          ( ) Certo
+          ( ) Errado
+
+    COMENTÁRIOS:
+    Como estudamos, temos três classes de dependentes. Irmãos pertencem a Classe
+    III, portanto, conforme podemos ver na legislação, transcrita abaixo, precisam
+    comprovar a dependência econômica. Vejamos o art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+
+            II - os pais;
+
+            III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+            inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+
+            (Destaques Nossos).
+
+    Nesse caso em específico, o irmão (José) tem 16 anos de idade, não é emancipado
+    e é economicamente dependente de seu irmão mais velho (João, que é segurado
+    RGPS). Portanto, José é considerado como beneficiário dependente de João, se
+    não houver dependentes de classes anteriores.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            34
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    REGRAS APLICÁVEIS AOS DEPENDENTES
+
+    Em relação aos dependentes, temos algumas regras básicas para que sejam
+    considerados beneficiários do RGPS, conforme segue:
+
+          • A existência de dependente de qualquer das classes exclui do direito às
+            prestações os das classes seguintes.
+
+                 o Exemplo: Se houver algum cônjuge, companheiro, filho ou equiparado
+                   a filho como dependentes, os pais e irmão não terão qualquer direito
+                   ao benefício previdenciário.
+
+          • Os dependentes de uma mesma classe concorrem em igualdade de
+            condições. Assim sendo, os benefícios dos dependentes (pensão por morte
+            e auxílio-reclusão), quando devidos, serão divididos em cotas iguais entre
+            cada um dos dependentes.
+
+                 o Exemplo: Imaginemos uma pensão por morte a ser paga para cinco
+                   dependentes, sendo uma esposa e quatro filhos menores. Se o valor
+                   da renda mensal inicial da pensão por morte for R$ 2.000,00, cada um
+                   dos cinco dependentes receberá R$ 400,00.
+
+          • Equiparam-se aos filhos, mediante declaração escrita do segurado, e
+            comprovada a dependência econômica, o enteado, o menor que esteja sob
+            sua tutela e o menor sob guarda.
+
+                 o Enteado: considera-se enteado o filho de seu cônjuge ou companheiro
+                   atual, proveniente de um matrimônio anterior.
+
+                 o Menor sob tutela: considera-se tutela um encargo conferido a uma
+                   pessoa civilmente capaz, para que esta administre os bens e/ou a
+                   conduta de um menor de idade, decorrente de falecimento dos pais
+                   ou estes decaírem dom poder familiar.
+
+                 o Menor sob guarda: Situação em que uma criança ou adolescente é
+                   confiado a alguém, com autorização judicial, para fins de proteção,
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   35
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                     assistência e educação. A guarda pode ser provisória ou definitiva,
+                     sendo prevista no Estatuto da Criança e do Adolescente
+
+          • O menor sob tutela somente poderá ser equiparado aos filhos do segurado
+            mediante apresentação de termo de tutela.
+
+          • Considera-se companheira ou companheiro a pessoa que mantenha união
+            estável com o segurado ou segurada.
+
+                 o Considera-se união estável aquela configurada na convivência pública,
+                   contínua e duradoura entre pessoas, estabelecida com intenção de
+                   constituição de família, inclusive na relação homoafetiva.
+
+          • A dependência econômica dos dependentes de Classe I é presumida e a das
+            demais deve ser comprovada.
+
+                     Obs.: O enteado, o menor sob tutela e o menor sob guarda, apesar de
+                     considerados dependentes de Classe I, deverão comprovar a
+                     dependência econômica.
+
+                         Vejamos como tais assuntos já foram cobrados em prova:
+
+          (FCC - Analista Judiciário (TST)/Judiciária/2012). São beneficiários do Regime
+          Geral da Previdência Social, na condição de dependentes do segurado:
+          a) os ascendentes até o terceiro grau, desde que comprovada a dependência
+          econômica.
+          b) o irmão até completar 18 anos ou inválido, independentemente de
+          comprovação da dependência econômica.
+          c) o menor tutelado independentemente de comprovação da dependência
+          econômica.
+          d) o cônjuge e a companheira, desde que comprovada a dependência
+          econômica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   36
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          e) o filho não emancipado inválido independentemente de comprovação de
+          dependência econômica.
+
+    COMENTÁRIOS:
+    A resolução da presente questão tem por base o art. 16 da Lei 8.213/91, conforme
+    segue:
+            “Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave;
+
+            II - os pais;
+
+            III - o irmão de qualquer condição menor de 21 (vinte e um) anos ou inválido ou que tenha
+            deficiência intelectual ou mental ou deficiência grave, nos termos do regulamento.
+
+            § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+            prestações os das classes seguintes.
+
+            § 2º . O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+            mediante declaração do segurado e desde que não possuam condições suficientes para o
+            próprio sustento e educação.
+
+            § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+            união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+            Constituição Federal.
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.”
+
+
+    Tomando por base o texto legal citado, vamos à análise de cada alternativa:
+    a) os ascendentes até o terceiro grau, desde que comprovada a dependência
+    econômica.
+    Ascendentes até o terceiro grau não são dependentes, mesmo que comprovada
+    dependência econômica. Apenas os pais, desde que comprovem dependência
+    econômica (ERRADA).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            37
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    b) o irmão até completar 18 anos ou inválido, independentemente de comprovação
+    da dependência econômica.
+    O irmão de qualquer condição será dependente quando menor de 21 (vinte e um)
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave, nos termos do regulamento, desde que comprovem dependência
+    econômica. (ERRADA).
+
+
+    c) o menor tutelado independentemente de comprovação da dependência
+    econômica.
+    O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+    mediante declaração do segurado e desde que não possuam condições suficientes
+    para o próprio sustento e educação. (ERRADA).
+
+
+    d) o cônjuge e a companheira, desde que comprovada a dependência econômica.
+    Cônjuge e companheira não precisam comprovar dependência econômica.
+    (ERRADA).
+
+
+    e) o filho não emancipado inválido independentemente de comprovação de
+    dependência econômica.
+    O filho não emancipado inválido será dependente independentemente da idade e
+    de qualquer comprovação de dependência econômica. (CORRETA).
+
+    RESPOSTA: E
+
+          (FCC     -    Analista Judiciário (TRT   6ª   Região)/Judiciária/"Sem
+          Especialidade"/2012). Nos termos da Lei no 8.213/1991, NÃO são
+          beneficiários do Regime Geral de Previdência Social, na condição de
+          dependentes do segurado:
+          a) os seus pais.
+          b) o seu irmão inválido de 30 anos.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   38
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          c) o seu irmão não emancipado menor de 21 anos.
+          d) o companheiro que mantém união estável.
+          e) o enteado menor ainda que não comprovada a dependência econômica do
+          segurado.
+
+    COMENTÁRIOS:
+
+
+    A resolução da presente questão tem por base o art. 16 da Lei 8.213/91.
+    Tomando por base o texto legal citado, vamos à análise de cada alternativa:
+
+
+    a) os seus pais.
+    Os pais poderão ser dependentes, desde que comprovada dependência
+    econômica.
+
+
+    b) o seu irmão inválido de 30 anos.
+    Irmão inválido poderá ser dependente qualquer que seja sua idade, desde que
+    comprovada dependência econômica.
+
+
+    c) o seu irmão não emancipado menor de 21 anos.
+    Irmão não emancipado, menor de 21 anos, poderá ser dependente, desde que
+    comprovada dependência econômica.
+
+
+    d) o companheiro que mantém união estável.
+    Companheiro que mantém união estável é dependente econômico.
+
+
+    e) o enteado menor ainda que não comprovada a dependência econômica do
+    segurado.
+    O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+    mediante declaração do segurado e desde que não possuam condições suficientes
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   39
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    para o próprio sustento e educação. Se não for comprovada a dependência
+    econômica, não será dependente. Como a questão pede para assinalarmos a
+    questão onde aparece alguém que NÃO é beneficiários do RGPS, esta é a
+    alternativa que deverá ser marcada.
+
+    RESPOSTA: E
+
+                                 Regra 1
+
+                                            Os dependentes de uma mesma classe
+               Dependentes
+                                            concorrem com igualdade de condições.
+
+
+                                 Regra 2
+
+                                            A existência de dependentes de qualquer
+               Dependentes                  das classes exclui do direito às prestações os
+                                            das classes seguintes.
+
+
+                                   Regra 3
+
+                                             A pensão por morte, havendo mais de um
+                 Dependentes
+                                             pensionista, será rateada em partes iguais.
+
+
+                                  Regra 4
+                                             A dependência econômica das pessoas da
+                 Dependentes                 Classe I é presumida* e das demais deve ser
+                                             comprovada. (*Exceção: enteado e menor sob
+                                             tutela   devem    comprovar      dependência
+                                             econômica, apesar de ser de Classe I).
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   40
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                                       A MP 871/2019, convertida na lei 13.846/19, trouxe expressa
+                                       a regra de que, para comprovação de dependência
+                         Regra 5       econômica ou união estável, exige-se início de prova
+                                       material contemporânea dos fatos, produzido em período
+              Dependentes              não superior a 24 (vinte e quatro) meses anterior à data do
+                                       óbito ou do recolhimento à prisão do segurado, não admitida
+                                       a prova exclusivamente testemunhal, exceto na ocorrência
+                                       de motivo de força maior ou caso fortuito, conforme
+                                       disposto no regulamento.
+
+                           Regra 6
+                                            Equiparam-se aos filhos, mediante declaração escrita do
+                                            segurado, comprovada a dependência econômica, o
+               Dependentes                  enteado e o menor que esteja sob sua tutela, desde
+                                            que não possuam bens suficientes para o próprio sustento
+                                            e educação.
+
+                                     Regra 7
+
+                                               O menor sob tutela somente poderá
+                 Dependentes
+                                               equiparar-se aos filhos do segurado mediante
+                                               apresentação de termo de tutela.
+
+
+                                     Regra 8
+
+                                               Considera-se companheira ou companheiro a
+                 Dependentes                   pessoa que mantenha união estável com o
+                                               segurado ou segurada, inclusive relação
+                                               homoafetiva.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             41
+      www.estrategiaconcursos.com.br                                                                   131
+
+                                     
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                            Vejamos como tais assuntos já foram cobrados em prova:
+
+          (FCC - Procurador Autárquico – MANAUSPREV – 2015). Após o falecimento
+          de Isis, seus familiares procuraram a Previdência Social a fim de requerer os
+          benefícios como dependentes do de cujus. Nessa situação, a dependência
+          econômica não será presumida, devendo ser comprovada para:
+
+          a) filho inválido com 30 anos.
+
+          b) companheiro que mantinha união estável com a segurada.
+
+          c) enteado menor de 21 anos.
+
+          d) filho não emancipado de 19 anos.
+
+          e) cônjuge.
+
+    COMENTÁRIOS:
+
+    Os dependentes estão divididos em três classes, conforme podemos verificar no
+    Art. 16 da Lei 8.213/91:
+
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+            II - os pais;
+            III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+            inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+            § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+            prestações os das classes seguintes.
+            § 2º O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+            mediante declaração do segurado e desde que não possuam condições suficientes para o
+            próprio sustento e educação.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            42
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    A partir destas informações, analisemos as assertivas:
+
+    a) filho inválido com 30 anos.
+
+    Incorreta, pois filho inválido, independentemente da idade, não precisa comprovar
+    dependência econômica.
+
+    b) companheiro que mantinha união estável com a segurada.
+
+    Incorreta, pois companheiro não precisa comprovar dependência econômica e sim
+    a união estável.
+
+    c) enteado menor de 21 anos.
+
+    Essa é a alternativa correta, pois enteado, apesar de ser equiparado ao filho, precisa
+    comprovar a dependência econômica, conforme vimos na legislação acima.
+
+    d) filho não emancipado de 19 anos.
+
+    Incorreta, pois na realidade o filho até 21 anos, desde que não emancipado, é
+    dependente de 1ª Classe e não precisa comprovar dependência econômica.
+
+    e) cônjuge.
+
+    Incorreta, pois cônjuge pertence a 1ª Classe e sua dependência econômica é
+    presumida.
+
+    Gabarito: C.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         43
+      www.estrategiaconcursos.com.br                                                               131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (FCC - Auditor - TCE-CE – 2015). Afrodite é segurada do Regime Geral da
+          Previdência Social. Mantém união estável como entidade familiar com Thor e
+          possui um filho Hermes de 27 anos. Em sua residência também habitam o seu
+          pai Ulisses de 64 anos e a sua irmã Medusa, não emancipada, de 17 anos.
+          Considerando as regras contidas no Plano de Benefícios da Previdência Social,
+          será considerado segurado de primeira classe e será presumida a dependência
+          econômica, respectivamente, de
+
+          a) Thor e Thor.
+
+          b) Thor e Ulisses.
+
+          c) Ulisses e Medusa.
+
+          d) Hermes e Medusa.
+
+          e) Hermes e Hermes.
+
+
+    COMENTÁRIOS:
+
+    Segundo podemos ver no Art. 16 da Lei 8.213/91, os dependentes de primeira
+    classe, nos termos da lei, são aqueles mais próximos do segurado, senão vejamos:
+
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+
+    Sendo assim, só temos como possibilidade a “alternativa A”, pois Thor é o cônjuge,
+    dependente de primeira classe e sua dependência econômica é presumida. Ulisses
+    é o pai, portanto dependente de classe II; Medusa é a irmã, portanto dependente
+    de classe III. Ademais, Ulisses e Medusa dependem de comprovação da
+    dependência econômica.
+
+    Gabarito: A.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            44
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          (FCC - Procurador do Tribunal de Contas do Município do Rio de Janeiro –
+          2015). Dependente é toda pessoa física filiada ao Regime Geral da Previdência
+          Social em razão do seu vínculo com o segurado principal. Quanto aos
+          dependentes, não é necessária a comprovação dessa condição, em razão de
+          presunção legal de dependência econômica:
+
+          a) os filhos, enteados e tutelados até 25 anos de idade.
+
+          b) os pais desde que inválidos.
+
+          c) os netos, filhos ou enteados de qualquer idade, desde que universitários.
+
+          d) os irmãos desde que inválidos.
+
+          e) o cônjuge, companheiro ou filho não emancipado, menor de 21 anos ou
+          inválido.
+
+    COMENTÁRIOS:
+
+    Segundo podemos ver no Art. 16 da Lei 8.213/91, os dependentes de primeira
+    classe são aqueles que, em regra, se presume a dependência financeira, conforme
+    segue:
+
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave. (...)
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+    Visto isso, vamos às assertivas:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            45
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    a) os filhos, enteados e tutelados até 25 anos de idade.
+
+    Incorreto, pois apenas os filhos menores de 21 anos ou inválidos ou que tenha
+    deficiência intelectual ou mental ou deficiência grave fariam parte deste rol.
+    Enteados, tutelados e menores sob guarda, apesar de ser dependente de 1ª
+    Classe, deverão comprovar sua dependência econômica.
+
+    b) os pais desde que inválidos.
+
+    Incorreta, pois os pais fazem parte da Classe II e a dependência econômica deve
+    ser comprovada.
+
+    c) os netos, filhos ou enteados de qualquer idade, desde que universitários.
+
+    Incorreto. Filhos são dependentes, independentemente de comprovação de
+    dependência econômica, apenas até 21 anos de idade, salvo se inválidos ou que
+    tenham deficiência intelectual ou mental ou deficiência grave. Netos não fazem
+    parte do rol de dependentes. Enteados precisam comprovar dependência
+    econômica. O fato de ser universitário não altera em nada as regras de
+    dependência no direito previdenciário.
+
+
+    d) os irmãos desde que inválidos.
+
+    Incorreta, irmãos devem comprovar dependência econômica, ainda que inválidos.
+
+
+    e) o cônjuge, companheiro ou filho não emancipado, menor de 21 anos ou inválido.
+
+    Correto, pois esses fazem parte da Classe I e sua dependência econômica é
+    presumida, não precisando, portanto, ser comprovada.
+
+
+    Gabarito: E.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   46
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          (FCC - Auditor Substituto de Conselheiro do TCM-RJ – 2015). Em relação aos
+          dependentes dos segurados, nos termos previstos no Plano de Benefícios do
+          Regime Geral da Previdência Social,
+          a) os avós constam do rol dos dependentes que têm dependência econômica
+          legalmente presumida.
+          b) são benefícios previstos aos dependentes a pensão por morte, a
+          reabilitação profissional e o salário-maternidade.
+          c) o menor tutelado e o enteado não se equiparam aos filhos para efeitos
+          previdenciários.
+          d) a existência de dependentes de quaisquer das classes exclui do direito às
+          prestações os das classes seguintes.
+          e) os irmãos menores de 21 anos, ainda que emancipados, são dependentes
+          de segunda classe.
+
+    COMENTÁRIOS:
+    Segundo podemos ver no Art. 16 da Lei 8.213/91:
+            Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+            dependentes do segurado:
+
+            I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+            condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+            mental ou deficiência grave
+
+            II - os pais;
+
+            III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+            inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+
+            § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+            prestações os das classes seguintes.
+
+            § 2º O enteado, o menor sob tutela e o menor sob guarda judicial equiparam-se a filho,
+            mediante declaração do segurado e desde que não possuam condições suficientes para o
+            próprio sustento e educação.
+
+            § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+            união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+            Constituição Federal.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            47
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+            deve ser comprovada.
+
+          Agora, vamos às assertivas:
+    a) os avós constam do rol dos dependentes que têm dependência econômica
+    legalmente presumida.
+    Incorreta, pois avós não fazem parte do rol dos dependentes.
+
+
+    b) são benefícios previstos aos dependentes a pensão por morte, a reabilitação
+    profissional e o salário-maternidade.
+    Incorreta, conforme podemos verificar no Art. 18 Lei 8.213/91. Tal assunto ainda
+    será estudado em detalhes nesta aula.
+            Art. 18. O Regime Geral de Previdência Social compreende as seguintes prestações,
+            devidas inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em
+            benefícios e serviços:
+
+            II - quanto ao dependente:
+
+              a) pensão por morte;
+
+              b) auxílio-reclusão;
+
+            III - quanto ao segurado e dependente:
+
+               b) serviço social;
+
+              c) reabilitação profissional.
+
+    Assim sendo, podemos verificar que a pensão por morte e a reabilitação
+    profissional são prestações devidas aos dependentes. No entanto, o salário-
+    maternidade é devido apenas aos segurados do RGPS.
+
+
+    c) o menor tutelado e o enteado não se equiparam aos filhos para efeitos
+    previdenciários.
+    Incorreto, pois menor tutelado, enteado e menor sob guarda equiparam-se ao filho
+    e serão dependentes de 1ª Classe, caso seja comprovada dependência financeira.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          48
+      www.estrategiaconcursos.com.br                                                                131
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    d) a existência de dependentes de quaisquer das classes exclui do direito às
+    prestações os das classes seguintes.
+    Correto, é exatamente isso que está previsto na lei, conforme podemos verificar no
+    art. 6º da Lei 8.213/91:
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+
+    e) os irmãos menores de 21 anos, ainda que emancipados, são dependentes de
+    segunda classe.
+    Incorreta, pois irmão são dependentes de terceira Classe.
+
+    Gabarito: D.
+
+    PERDA DA QUALIDADE DE DEPENDENTE
+    A perda da qualidade de dependente ocorre:
+
+          • para o cônjuge, pela separação judicial ou divórcio, enquanto não lhe for
+            assegurada a prestação de alimentos, pela anulação do casamento, pelo
+            óbito ou por sentença judicial transitada em julgado;
+
+          • para a companheira ou companheiro, pela cessação da união estável com o
+            segurado ou segurada, enquanto não lhe for garantida a prestação de
+            alimentos;
+
+          • ao completar vinte e um anos de idade, para o filho, o irmão, o enteado, o
+            menor tutelado e menor sob guarda, ou nas seguintes hipóteses, se ocorridas
+            anteriormente a essa idade:
+
+                  o casamento;
+                  o início do exercício de emprego público efetivo;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         49
+      www.estrategiaconcursos.com.br                                                               131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                  o constituição de estabelecimento civil ou comercial ou pela existência
+                    de relação de emprego, desde que, em função deles, o menor com
+                    dezesseis anos completos tenha economia própria; ou
+                  o concessão de emancipação, pelos pais, ou por um deles na falta do
+                    outro, por meio de instrumento público, independentemente de
+                    homologação judicial, ou por sentença judicial, ouvido o tutor, se o
+                    menor tiver dezesseis anos completos.
+
+          • para os dependentes em geral:
+
+                  o pela cessação da invalidez ou da deficiência intelectual, mental ou
+                    grave; ou
+                  o pelo falecimento.
+
+    Também será excluído definitivamente da condição de dependente aquele que
+    tiver sido condenado criminalmente por sentença transitada em julgado, como
+    autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse crime,
+    cometido contra a pessoa do segurado, ressalvados os absolutamente incapazes e
+    os inimputáveis.
+
+    INSCRIÇÃO DOS DEPENDENTES
+    A inscrição do dependente do segurado será promovida quando do requerimento
+    do benefício a que tiver direito, mediante a apresentação dos seguintes
+    documentos:
+
+              • para os dependentes preferenciais
+                   o cônjuge e filhos: certidões de casamento e de nascimento;
+                   o companheira ou companheiro: documento de identidade e
+                      certidão de casamento com averbação da separação judicial ou
+                      divórcio, quando um dos companheiros ou ambos já tiverem sido
+                      casados, ou de óbito, se for o caso; e
+                   o equiparado a filho (enteado, menor sob tutela e menor sob
+                      guarda): certidão judicial de tutela e, em se tratando de enteado,
+                      certidão de casamento do segurado e de nascimento do
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   50
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                           dependente. Para o menor sob guarda, a Certidão ou Termo de
+                           Guarda Judicial.
+
+
+              • pais: certidão de nascimento do segurado e documentos de identidade
+                dos mesmos; e
+
+
+              • irmão: certidão de nascimento.
+
+
+    Assim sendo, não há inscrição prévia de dependente. Somente quando do
+    requerimento do benefício de pensão por morte ou auxílio-reclusão é que os
+    dependentes deverão comprovar sua qualidade de dependente.
+
+                                  INSCRIÇÃO DO DEPENDENTE
+                     Incumbe ao dependente promover a sua inscrição quando do
+                     requerimento do benefício a que estiver habilitado.
+
+
+                     Assim sendo, não há inscrição prévia de dependente.
+                     Somente quando do requerimento do benefício de pensão por
+                     morte ou auxílio-reclusão é que os dependentes deverão
+                     comprovar sua qualidade de dependente.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   51
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    QUESTÕES COMENTADAS
+
+                                              Exercícios para fixação
+
+    1 - (CESPE – SLU DF – 2019) Antônio, de sessenta e três anos de idade,
+    empregado celetista no cargo de auxiliar de serviços gerais havia dez anos em
+    uma empresa de limpeza urbana, compareceu ao serviço de emergência de
+    um hospital público, queixando-se de fortes dores de cabeça. Após primeiro
+    atendimento médico, ele foi encaminhado para internação, sem previsão de
+    alta, para investigação da causa das dores. Antônio é casado com Maria, de
+    quarenta e cinco anos de idade, com a qual tem dois filhos menores de idade.
+    Maria está desempregada e nunca contribuiu para a previdência social.
+    Apreensiva pela possibilidade de Antônio não poder retornar ao trabalho,
+    Maria buscou orientação no serviço social do hospital a respeito dos direitos
+    de Antônio e dos meios de exercê-los.
+    A partir dessa situação hipotética, julgue o item subsecutivo, tendo como
+    referência a Lei Orgânica da Seguridade Social (Lei n.º 8.212/1991), os planos
+    de benefícios da previdência social (Lei n.º 8.213/1991) e o Estatuto do Idoso
+    (Lei n.º 10.741/2003).
+    Para fins previdenciários, a dependência econômica de Maria e de seus filhos
+    com Antônio deve ser comprovada.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   52
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Vamos ver o que a Lei 8.213 dispõe a respeito:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   53
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição
+                 de dependentes do segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave;
+                 II - os pais;
+                 III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+                 inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+                  (...)
+                 § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das
+                 demais deve ser comprovada.
+                 (grifos nossos)
+
+    Conforme os destaques, podemos afirmar que a dependência econômica do
+    cônjuge, do (a) companheiro (a) é presumida, não havendo necessidade de
+    comprovação. Portanto, a afirmação do enunciado está errada.
+
+
+    Gabarito: ERRADA.
+
+
+    2 - (CESPE – Analista Judiciário – STJ – 2018) A respeito do regime geral da
+    previdência social (RGPS), julgue o item que se segue, considerando a
+    jurisprudência dos tribunais superiores.
+    Os genitores de segurado do RGPS serão seus dependentes independentemente
+    de comprovação da dependência econômica.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    A questão nos pede para que assinalemos a alternativa correta em relação aos pais
+    como dependentes no RGPS. Vamos ver o que a Lei 8.213 dispõe a respeito:
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição
+                 de dependentes do segurado:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  54
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave; (Redação dada pela Lei nº 13.146, de 2015)
+                 II - os pais;
+                 III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+                 inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+                 § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+                 prestações os das classes seguintes.
+                 (...)
+                 § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das
+                 demais deve ser comprovada.
+                 (grifos nossos)
+
+    Conforme o texto da Lei, os genitores do segurado (pais) serão seus dependentes
+    perante o RGPS, entretanto, é necessária a comprovação de dependência
+    econômica, ao contrário do que a questão afirma.
+
+
+    Gabarito: ERRADO.
+
+
+    3 - (CESPE – Procurador do Município de João Pessoa – 2018) À luz da Lei n.º
+    8.213/1991, é(são) dependente(s) do segurado do regime geral de previdência
+    social
+          a) os pais, desde que com idade superior a sessenta anos.
+          b) o irmão não emancipado e menor de vinte e quatro anos de idade.
+          c) a companheira ou o companheiro, desde que em união estável há mais de
+             dois anos.
+          d) o filho não emancipado e menor de vinte e quatro anos de idade.
+          e) os pais, em qualquer idade.
+
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   55
+      www.estrategiaconcursos.com.br                                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    A questão nos pede para que encontremos a alternativa correta em relação aos
+    dependentes no RGPS. Vejamos quem são os dependentes do RGPS conforme a
+    Lei 8.213/91:
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição
+                 de dependentes do segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave; (Redação dada pela Lei nº 13.146, de 2015)
+                 II - os pais;
+                 III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+                 inválido ou que tenha deficiência intelectual ou mental ou deficiência grave; (...)
+
+    a)       os pais, desde que com idade superior a sessenta anos.
+    Conforme o inciso II do art. 16 da Lei 8.213/91, independentemente da idade, os
+    pais serão dependentes do RGPS. Alternativa ERRADA.
+
+
+    b)       o irmão não emancipado e menor de vinte e quatro anos de idade.
+    Conforme o inciso III do art. 16 da Lei 8.213/91, o irmão não emancipado é
+    dependente do RGPS se menor de 21 anos, e não menor de 24 anos como afirma
+    a questão. Caso seja inválido ou tenha deficiência intelectual ou mental ou
+    deficiência grave, não se aplica o limite de idade para o irmão. Alternativa ERRADA.
+
+
+    c)     a companheira ou o companheiro, desde que em união estável há mais de
+    dois anos.
+    Podemos observar que no inciso I do art. 16 da Lei 8.213/91 não existe restrição de
+    tempo mínimo de união estável para que o companheiro ou companheira seja
+    considerado dependente perante o RGPS. Alternativa ERRADA.
+
+
+    d)       o filho não emancipado e menor de vinte e quatro anos de idade.
+    Conforme o inciso I do art. 16 da Lei 8.213/91, o filho não emancipado é
+    dependente do RGPS se menor de 21 anos, e não menor de 24 anos como afirma
+    a questão. Caso seja inválido ou tenha deficiência intelectual ou mental ou
+    deficiência grave, não se aplica o limite de idade. Alternativa ERRADA.
+    e)       os pais, em qualquer idade.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  56
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Conforme o inciso II do art. 16 da Lei 8.213/91, independentemente da idade, os
+    pais serão dependentes do RGPS. Alternativa CORRETA.
+
+
+    Gabarito: E.
+
+
+    4 - (CESPE – Auditor de Contas Públicas – TCE PB – 2018 – Adaptada) A prestação
+    de benefícios e serviços da previdência social será garantida ao dependente, no
+    caso do benefício de pensão por morte, desde a data do óbito, quando requerida
+    em até 180 (cento e oitenta) dias após o óbito, para os filhos menores de 16
+    (dezesseis) anos, ou em até 90 (noventa) dias após o óbito, para os demais
+    dependentes.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    Lei 8.213/91
+                 Art. 74. A pensão por morte será devida ao conjunto dos dependentes do segurado que
+                 falecer, aposentado ou não, a contar da data:
+                 I - do óbito, quando requerida em até 180 (cento e oitenta) dias após o óbito, para os
+                 filhos menores de 16 (dezesseis) anos, ou em até 90 (noventa) dias após o óbito, para os
+                 demais dependentes;
+                 II - do requerimento, quando requerida após o prazo previsto no inciso anterior;
+                 III - da decisão judicial, no caso de morte presumida.
+
+    Assim sendo, quando requerida em até 180 (cento e oitenta) dias após o óbito,
+    para os filhos menores de 16 (dezesseis) anos, ou em até 90 (noventa) dias
+    após o óbito, para os demais dependentes, a pensão por morte será devida
+    desde a data do óbito.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  57
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    5 - (FCC – ANALISTA PREVIDENCIÁRIO – SEGEP MA – 2018) De acordo com a Lei
+    nº 8.213/91, os pais de um Segurado da Previdência Social
+
+
+    a) são considerados dependentes, inclusive se houver cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    b) podem ser considerados dependentes na inexistência de cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    c) não são considerados dependentes, em qualquer hipótese, por ausência de
+    disposição legal específica prevendo esta condição.
+    d) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de vinte e um anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+    e) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de dezoito anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+
+
+    COMENTÁRIOS:
+    A questão nos pede para que assinalemos a alternativa correta em relação aos pais
+    como dependentes no RGPS. Vamos ver o que a Lei 8.213 dispõe a respeito:
+
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição
+                 de dependentes do segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave; (Redação dada pela Lei nº 13.146, de 2015)
+                 II - os pais;
+                 III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+                 inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+                 § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+                 prestações os das classes seguintes.
+                 (...)
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                   58
+      www.estrategiaconcursos.com.br                                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das
+                 demais deve ser comprovada.
+                 (grifos nossos)
+
+    Vamos às alternativas.
+
+
+    a) são considerados dependentes, inclusive se houver cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    Conforme o §1º A do art. 16 da Lei 8.213, a existência de dependente em qualquer
+    das classes exclui do direto ao benefício os dependentes das classes seguintes.
+    Portanto, a assertiva está incorreta uma vez que se houve cônjuge, companheira,
+    companheiro ou filho (que se enquadre nos requisitos), os pais não serão
+    considerados dependentes. Alternativa INCORRETA.
+
+
+    b) podem ser considerados dependentes na inexistência de cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    Alternativa correta, uma vez que se não houver dependentes previstos no inciso I
+    do art. 16 da Lei 8.213, os pais poderão ser considerados como dependentes desde
+    que comprovem dependência econômica do segurado. Alternativa CORRETA.
+
+
+    c) não são considerados dependentes, em qualquer hipótese, por ausência de
+    disposição legal específica prevendo esta condição.
+    Os pais poderão ser considerados dependentes se não houver pessoa que se
+    enquadre no inciso I do art. 16 da Lei 8.213 e desde que comprovem dependência
+    econômica do segurado. Alternativa INCORRETA.
+
+
+    d) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de vinte e um anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício            59
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    A existência de dependente de qualquer uma das classes exclui do direito às
+    prestações os dependentes das classes seguinte. Os pais estão previstos no inciso
+    II do art. 16 da Lei 8.213 e os irmãos estão previstos no inciso III do mesmo artigo.
+    Portanto, os pais são classe anterior aos irmãos, podendo ser considerados
+    dependentes mesmo quando houver dependentes previstos no inciso III do art. 16.
+    Alternativa INCORRETA.
+
+
+    e) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de dezoito anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+    Incorreta pelos mesmos motivos que a alternativa “b”.
+
+
+    Gabarito: B.
+
+
+    6 – (FCC – Analista Previdenciário – SEGEP MA – 2018) São beneficiários do Regime
+    Geral de Previdência Social, na condição de dependentes do segurado, o cônjuge,
+    a companheira, o companheiro e o filho não emancipado, de qualquer condição,
+    menor de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+    deficiência
+    a)    grave; os pais; e o irmão emancipado, de qualquer condição, menor de 21
+    anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+    b)   média; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    18 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    média.
+    c)    grave; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    21 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    d)     média; os pais e os avós; e o irmão não emancipado, de qualquer condição,
+    menor de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+    deficiência média.
+    e)    grave; os pais; e o irmão emancipado, de qualquer condição, menor de 24
+    anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   60
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+    Para respondermos à questão, devemos encontrar a questão correta, que é
+    aplicação simples e pura da Lei.
+                 Lei 8.213/91
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição
+                 de dependentes                               do                               segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave;
+                 II - os pais;
+                 III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+                 inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+                 (grifos nossos)
+
+    O nosso gabarito é a letra “C”:
+
+    c)    grave; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    21 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    Vejamos o erro das demais assertivas:
+
+
+    a)    grave; os pais; e o irmão emancipado, de qualquer condição, menor de 21
+    anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+
+
+    b)   média; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    18 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    média.
+
+
+    d)     média; os pais e os avós; e o irmão não emancipado, de qualquer condição,
+    menor de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+    deficiência média.
+
+
+    e)    grave; os pais; e o irmão emancipado, de qualquer condição, menor de 24
+    anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+
+
+    Gabarito: C.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  61
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    7 – (FCC – Auditor Público Externo – TCE RS – 2018) Após o óbito de Hermes
+    ocorrido em dezembro de 2017, seus familiares procuraram o Instituto Nacional do
+    Seguro Social (INSS) para se habilitarem como dependentes do falecido e
+    postularem os benefícios a que teriam direito.
+     Nessa hipótese, em conformidade com a Lei nº 8.213/1991,
+    a)       o cônjuge goza de presunção relativa de dependência econômica.
+    b)   a companheira que mantinha união estável com o segurado deverá
+    comprovar a dependência econômica.
+    c)      o filho inválido com mais de 21 anos somente terá cobertura quando não
+    houver dependentes de primeira classe.             ==219a34==
+
+    c)   a pessoa designada, menor de 21 anos ou maior de 60 anos, será considerada
+    dependente de primeira classe.
+    d)       o enteado menor de 21 anos precisa comprovar a dependência econômica.
+
+
+    COMENTÁRIOS:
+    a)       o cônjuge goza de presunção relativa de dependência econômica.
+                 Lei 8.213/91
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+                 dependentes do segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave;
+                 (...)
+                 § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das
+                 demais deve ser comprovada.
+
+    Conforme vimos no texto da Lei 8.213/91, a dependência econômica do
+    cônjuge/companheiro (a), e do filho é presumida, sendo, portanto, absoluta e não
+    relativa, não havendo necessidade de comprovação. Para os demais dependentes,
+    a dependência econômica deve ser comprovada. Alternativa ERRADA.
+
+
+    b)        a companheira que mantinha união estável com o segurado deverá
+    comprovar a dependência econômica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  62
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Conforme vimos no comentário da alternativa “a”, a dependência econômica da
+    companheira é presumida, não havendo necessidade de comprovação. Cumpre
+    ressaltar que não há necessidade de comprovação da dependência econômica, mas
+    há a necessidade de comprovação da união estável. Alternativa ERRADA.
+
+
+    c)      o filho inválido com mais de 21 anos somente terá cobertura quando não
+    houver dependentes de primeira classe.
+    O filho, mesmo quando inválido e maior de 21 anos, será dependente de primeira
+    classe. Alternativa ERRADA.
+
+
+    d) a pessoa designada, menor de 21 anos ou maior de 60 anos, será considerada
+    dependente de primeira classe.
+    Não existe a figura da pessoa designada no rol de dependentes do RGPS. A pessoa
+    designada seria aquela que o segurado nomearia em vida para ser sua dependente
+    perante o RGPS. Os dependentes estão previstos em lei. Alternativa ERRADA.
+
+
+    e) o enteado menor de 21 anos precisa comprovar a dependência econômica.
+                 Lei 8.213/91
+                 Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+                 dependentes do segurado:
+                 I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+                 condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual
+                 ou mental ou deficiência grave; (...)
+                 § 2º. O enteado e o menor tutelado equiparam-se a filho mediante declaração do
+                 segurado e desde que comprovada a dependência econômica na forma estabelecida no
+                 Regulamento.
+
+    Eis o nosso gabarito. O enteado é dependente do RGPS na qualidade de
+    equiparado a filho e, conforme art. 16, I, § 2º da Lei 8.213/91, é necessária a
+    comprovação de dependência econômica para o enteado. Alternativa CORRETA.
+
+
+    Gabarito: E.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                  63
+      www.estrategiaconcursos.com.br                                                                        131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    8 – (Inédita) Mário é segurado obrigatório do Regime Geral de Previdência Social
+    e veio a falecer deixando como seu único dependente seu filho Mário Júnior, este
+    último é não inválido, possui 20 anos de idade e, devido a uma decisão judicial,
+    colou grau em ensino superior aos 19 anos. Nessas condições, podemos afirmar
+    que Mário Júnior fará jus a Pensão por Morte em decorrência do falecimento de
+    seu pai.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    Devemos avaliar se Mário fará jus ao benefício de pensão por morte.
+    Os filhos estão incluídos no rol de dependentes do RGPS desde que sejam não
+    emancipados, de qualquer condição, quando menores de 21 anos ou, em qualquer
+    idade, quando inválidos ou que tenha deficiência intelectual, mental ou deficiência
+    grave.
+    A colação de grau em curso de ensino superior é causa de emancipação. Então,
+    como a questão afirma que Mário Júnior não é inválido e colou grau em ensino
+    superior, ele não fará jus ao benefício uma vez que é emancipado.
+    Vale lembrar que se a emancipação decorrer da colação de grau científico em curso
+    de ensino superior, o filho inválido não perde a condição de dependente.
+
+
+    GABARITO: ERRADA.
+
+
+    9 – (Inédita) Carlos é segurado do RGPS e faleceu deixando como único
+    dependente seu filho Gustavo, que tinha 17 anos da data do óbito de seu pai e não
+    era emancipado. Aos 20 anos, Gustavo sofreu um acidente que o deixou inválido.
+    Tendo em vista estas informações, é correto afirmar que Gustavo fará jus à pensão
+    por morte enquanto durar sua invalidez.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   64
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    A pensão por morte é devida ao conjunto de dependentes do segurado,
+    independente de carência. Gustavo é dependente do RGPS, conforme a Lei
+    8.213, uma vez que é filho não emancipado menor de 21 anos:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência
+           intelectual ou mental ou deficiência grave; (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das
+           demais deve ser comprovada.
+           (Destaques Nossos).
+
+
+    Portanto, na data do óbito do seu pai Gustavo fará jus à pensão por morte.
+    Entretanto, a questão informa que aos 20 anos Gustavo sofreu um acidente que o
+    tornou inválido. Agora devemos avaliar se Gustavo fará jus a pensão por morte sem
+    limite de idade na condição de inválido.
+
+
+    A pensão por morte somente será devida ao filho e ao irmão cuja invalidez tenha
+    ocorrido antes da emancipação ou de completar a idade de vinte e um anos, desde
+    que reconhecida ou comprovada, pela perícia médica do INSS, a continuidade da
+    invalidez até a data do óbito do segurado.
+
+
+    Na questão, como é informado que a invalidez de Gustavo se deu aos 20 anos de
+    idade, ele terá direito ao benefício enquanto durar a invalidez, validando a
+    assertiva.
+
+
+    Gabarito: CERTO.
+
+
+    10 – (Inédita) O enteado de segurado do RGPS é considerado seu dependente e
+    concorre em igualdade de condições com os filhos biológicos, sendo sua
+    dependência econômica presumida.
+    Certo ( )
+    Errado ( )
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício      65
+      www.estrategiaconcursos.com.br                                                            131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+    A questão cobra conhecimento sobre o enteado como dependente do RGPS, o
+    qual é dependente e primeira classe, conforme art. 16 da lei 8.213:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+
+
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência
+           intelectual ou mental ou deficiência grave;
+           [...]
+           §2º O enteado e o menor tutelado equiparam-se a filho mediante declaração do
+           segurado e desde que comprovada a dependência econômica na forma estabelecida
+           no Regulamento.
+
+    Conforme o §2º do art. 16 da Lei 8213, é necessário que o dependente
+    comprove a dependência econômica. Como o enunciado informa que a
+    dependência econômica do enteado é presumida, está incorreta.
+    Vale lembrar que para os cônjuges, companheiros e filhos, a dependência
+    econômica é presumida.
+
+
+    Gabarito: ERRADO.
+
+
+    11- (Inédita) Nos termos da Lei 8.213, o menor sob guarda será considerado
+    dependente do RGPS na qualidade de equiparado a filho mediante declaração do
+    segurado e desde que comprovada a dependência econômica.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+
+
+    A questão afirma que nos termos da lei, o menor sob guarda equipara-se a filho.
+    Essa afirmação era incorreta, pois a lei citava somente o enteado e o menor
+    tutelado na qualidade de equiparados a filho. Contudo, com a publicação da lei lei
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício     66
+      www.estrategiaconcursos.com.br                                                           131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    15.108/2025, o menor sob guarda judicial passou a ser considerado equiparado a
+    filho para fins previdenciários.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   67
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Sendo a assim, o menor sob guarda, atualmente é considerado dependente do
+    RGPS de acordo com a lei.
+
+
+    Gabarito: CERTO.
+
+
+    12 – (Inédita) O exercício de atividade remunerada, inclusive na condição de
+    microempreendedor individual, não impede a concessão ou manutenção da parte
+    individual da pensão por morte do dependente com deficiência intelectual ou
+    mental ou com deficiência grave.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+    A questão está correta, uma vez que para os beneficiários de pensão por morte
+    com deficiência intelectual ou mental ou com deficiência grave, o exercício de
+    atividade remunerada, inclusive na condição de microempreendedor individual,
+    não impede o recebimento do benefício.
+
+
+    Para memorizar, vejamos o artigo da Lei 8.213/91:
+
+
+           Art. 77. A pensão por morte, havendo mais de um pensionista, será rateada entre todos em
+           parte iguais. (...)
+           § 6º O exercício de atividade remunerada, inclusive na condição de microempreendedor
+           individual, não impede a concessão ou manutenção da parte individual da pensão do
+           dependente com deficiência intelectual ou mental ou com deficiência grave.
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício        68
+      www.estrategiaconcursos.com.br                                                             131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    13 – (Inédito) Mário era segurado do RGPS na qualidade de contribuinte individual
+    e veio a falecer, deixando sua esposa Joana e dois filhos, Fábio e Sandra. Fábio
+    possui 23 anos e está cursando o ensino superior, já Sandra possui 19 anos e não é
+    emancipada. Além disso, Mário tinha uma irmã, Maria, que dependia
+    economicamente dele e possui 20 anos de idade. Nessas condições, podemos
+    afirmar que a pensão por morte será rateada em parte iguais por Joana, Fábio e
+    Sandra.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+
+
+    A questão envolve o conceito de dependentes do RGPS, primeiramente, vamos ver
+    o rol destes previsto na Lei 8.213/91:
+
+
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+
+    Joana será dependente de Mário por ser sua esposa. Além disso, também será
+    dependente Sandra, que é filha não emancipada menor de 21 anos. Já Fábio, não
+    será dependente, pois o filho maior de 21 anos não será mais dependente do
+    segurado, mesmo que esteja cursando ensino superior. Somente com essa análise
+    já podemos considerar a questão incorreta, uma vez que menciona que Fábio seria
+    dependente de Mário.
+    Para fins de aprofundar o conhecimento, vamos analisar se Maria entrará no rol de
+    dependentes.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           69
+      www.estrategiaconcursos.com.br                                                                131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Conforme o texto legal, a existência de dependentes de qualquer das classes exclui
+    do direito os dependentes das classes seguintes, portanto, como Maria pertence à
+    terceira classe, ela não será dependente de Mário, mesmo que dependa
+    economicamente dele, porque existem dependentes de primeira classe: Joana e
+    Sandra.
+
+
+    Podemos concluir que a questão está incorreta pois são dependentes de Mário
+    apenas Joana e Sandra.
+
+
+    Gabarito: ERRADO.
+
+
+    14 – (Inédita) São exemplos de prestações sociais oferecidas pela Previdência Social
+    ao grupo de dependentes do segurado os benefícios de pensão por morte, auxílio-
+    reclusão e salário-família.
+    Certo ( )
+    Errado ( )
+
+
+    COMENTÁRIOS:
+
+
+    Nessa questão temos uma pegadinha comum em provas: o salário-família, apesar
+    de ser pago em razão dos dependentes do segurado do baixa-renda, é um
+    benefício que é devido ao próprio segurado e não aos dependentes. Já a pensão
+    por morte e o auxílio-reclusão são sim devidos aos dependentes do segurado. Para
+    confirmação, vejamos o texto da Lei 8.213/91:
+
+
+           Art. 18. O Regime Geral de Previdência Social compreende as seguintes prestações,
+           devidas inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em
+           benefícios e serviços:
+           I - quanto ao segurado:
+           (…)
+           f) salário-família;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício       70
+      www.estrategiaconcursos.com.br                                                             131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           II - quanto ao dependente:
+           a) pensão por morte;
+           b) auxílio-reclusão;
+
+    Gabarito: ERRADO.
+
+
+    15. (CESPE - Analista de Gestão Educacional – SEDF - 2017). Relativamente a
+    segurados, cumulação de benefícios e previdência complementar, julgue o item
+    a seguir.
+     Entende-se como companheiro ou companheira para efeito de proteção
+    previdenciária a pessoa com quem o segurado mantém união estável por
+    período superior a cinco anos, independentemente da existência de prole em
+    comum.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três, e companheiros, desde que
+    comprovem união estável, são considerados como dependentes Classe I, portanto
+    automaticamente considerados como financeiramente dependentes do segurado,
+    não existindo um prazo legal para configurar uma união considerada estável,
+    conforme podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           (Destaques Nossos).
+           Vamos conferir o Art. 226 da Constituição federal:
+           Art. 226. A família, base da sociedade, tem especial proteção do Estado. [...]
+           § 3º Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a
+           mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           71
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   72
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    16. (CESPE - Auditor de Controle Externo - TCE-PE - 2017). A respeito da
+    carência e da condição de segurados e dependentes no regime geral da
+    previdência social (RGPS), julgue o item subsequente.
+    Para a concessão da pensão por morte na condição de companheira ou
+    companheiro, exige-se do interessado a prova da existência de filhos em comum
+    ou da convivência por, no mínimo, dois anos com o segurado falecido.
+    ( ) Certo
+    ( ) Errado
+
+    COMENTÁRIOS:
+    Assertiva incorreta. As Classes de dependentes, conforme estudamos, são
+    definidas em três e companheiros, desde que comprovem união estável, são
+    considerados como dependentes Classe I, sendo automaticamente considerados
+    como financeiramente dependentes do segurado, e não existindo um prazo legal
+    para configurar uma união considerada estável e, menos ainda a necessidade da
+    existência de filhos em comum, conforme podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           (...)
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           (Destaques Nossos).
+
+    Vejamos o Art. 226 da Constituição federal:
+           Art. 226. A família, base da sociedade, tem especial proteção do Estado.
+           [...]
+           § 3º Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a
+           mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento.
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+    Gabarito: ERRADO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           73
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    17. (CESPE - Auditor Fiscal de Controle Externo - TCE-SC – 2016). A seguridade
+    social compreende um conjunto integrado de ações de iniciativa dos poderes
+    públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à
+    previdência e à assistência social. Acerca da seguridade social, julgue o item
+    subsequente.
+    O STF reconhece a união homoafetiva como entidade familiar e,
+    consequentemente, assegura ao(à) companheiro(a) da pessoa segurada a
+    qualidade de dependente para fins previdenciários.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Sabemos que os dependentes são divididos em 3 classes, segundo o Art. 16 da Lei
+    8.213/91, senão vejamos:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+
+    Na análise literal do dispositivo, podemos notar que nada se aborda sobre os
+    relacionamentos homoafetivos, por isso o STF publicou uma nota onde muda isso,
+    conforme segue:
+           AGRAVO       REGIMENTAL    NO     RECURSO     EXTRAORDINÁRIO.   UNIÃO
+           HOMOAFETIVA. LEGITIMIDADE CONSTITUCIONAL DO RECONHECIMENTO E
+           QUALIFICAÇÃO DA UNIÃO CIVIL ENTRE PESSOAS DO MESMO SEXO COMO ENTIDADE
+           FAMILIAR. DIREITO À PERCEPÇÃO DO BENEFÍCIO DA PENSÃO POR MORTE.
+           RECONHECIMENTO. APLICAÇÃO DAS REGRAS E CONSEQUÊNCIAS JURÍDICAS
+           VÁLIDAS PARA A UNIÃO ESTÁVEL HETEROAFETIVA. ACÓRDÃO RECORRIDO EM
+           CONSONÂNCIA COM O ENTENDIMENTO DO PLENÁRIO DESTA CORTE. REEXAME DE
+           MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO
+           TRIBUNAL FEDERAL.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           74
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           1. O preceito constante do art. 1.723 do Código Civil — “é reconhecida como entidade
+           familiar a união estável entre o homem e a mulher, configurada na convivência pública,
+           contínua e duradoura e estabelecida com o objetivo de constituição de família” – não obsta
+           que a união de pessoas do mesmo sexo possa ser reconhecida como entidade familiar apta
+           a merecer proteção estatal. O Pleno do Supremo Tribunal Federal, proferiu esse
+           entendimento no julgamento da ADI 4.277 e da ADPF 132, ambas da Relatoria do Ministro
+           Ayres Britto, Sessão de 5.5.11, utilizando a técnica da interpretação conforme a Constituição
+           do referido preceito do Código Civil, para excluir qualquer significado que impeça o
+           reconhecimento da união contínua, pública e duradoura entre pessoas do mesmo sexo
+           como entidade familiar, entendida esta como sinônimo perfeito de família. Reconhecimento
+           este, que deve ser feito segundo as mesmas regras e com idênticas consequências da união
+           estável heteroafetiva.
+           (...)
+           (STF – RE 607562 AgR/PE – Relator Ministro LUIZ FUX – Primeira Turma – Julgamento em
+           18.09.2012 – Publicação em 03.10.2012)
+
+    Portanto podemos concluir que a assertiva está correta, pois o STF reconhece a
+    união homoafetiva como entidade familiar e, consequentemente, assegura ao
+    companheiro(a) da pessoa segurada a qualidade de dependente para fins
+    previdenciários.
+    Estudar a Jurisprudência é essencial para diferenciar o candidato bem preparado.
+    Sobretudo em casos de assuntos que possuem uma razoável projeção na mídia.
+    Estes assuntos, o candidato tem que saber.
+
+
+    Gabarito: CERTO.
+
+    18. (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+    ADAPTADA).
+    Ao filho maior de vinte e um anos de idade será garantida a prestação de
+    benefícios e serviços da previdência social, desde que comprove a matrícula em
+    instituição de ensino superior, até a data da sua formatura.
+    ( ) Certo
+    ( ) Errado
+
+    COMENTÁRIOS:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício             75
+      www.estrategiaconcursos.com.br                                                                  131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Filhos, com exceção dos inválidos ou deficientes, são dependentes Classe I e
+    possuem direito a pensão até os 21 anos, não sendo o exercício de tal direito
+    prorrogável pelo fato de estarem matriculados em universidade.
+    Conforme podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+
+    Gabarito: ERRADO.
+
+
+    19. (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS,
+    julgue o item a seguir.
+    De acordo com o disposto na Lei n.º 8.213/1991, filho maior de vinte e um anos
+    de idade não portador de invalidez ou qualquer deficiência mantém a condição
+    de dependente do segurado do RGPS até completar vinte e quatro anos, desde
+    que seja estudante universitário.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Filhos fazem parte de dependentes da Classe I, como podemos ver no art. 16 da
+    Lei 8.213/91, mas como sabemos, há algumas condições para isto. Vejamos o
+    referido artigo:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           76
+      www.estrategiaconcursos.com.br                                                                131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           (...)
+           (Destaques Nossos).
+
+    Podemos ver que nada se fala sobre o filho ser estudante universitário ou não. A lei
+    apenas diz que filhos menores de 21 anos são considerados como dependentes,
+    com exceção aos filhos inválidos ou portadores de deficiências intelectuais ou
+    mentais, portanto assertiva incorreta.
+
+
+    Gabarito: ERRADO.
+
+
+    20. (Inédita) Julgue o item a seguir: De acordo com o disposto na Lei n.º
+    8.213/1991, o filho, ainda não emancipado, quando adquire a maioridade civil e
+    não é portador de invalidez ou qualquer deficiência, automaticamente perde a
+    condição de dependente do segurado do RGPS.
+     ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Filhos fazem parte de dependentes da Classe I e perdem tal condição quando
+    chegam a determinada idade. Mas será que esta idade coincide com a maioridade
+    civil? Vejamos o art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+
+
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+
+    Podemos ver, neste caso, que a idade considerada pela legislação previdenciária
+    para a perda da condição de dependente é de 21 anos. Isto é diferente da perda
+    da menoridade que, segundo o artigo 5º do Código Civil, cessa aos 18 anos.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           77
+      www.estrategiaconcursos.com.br                                                                131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Calma... Você não precisa saber todo o Código Civil para realizar uma prova de
+    direito previdenciário. Mas, neste tipo de contexto, uma informação que pode ser
+    considerada senso comum (a maioridade no Brasil inicia-se após os 18 anos
+    completos), pode cair na sua prova. Mas não confunda maioridade civil (18 anos)
+    com idade padrão para cessar a dependência do filho no RGPS (21 anos).
+
+
+    Gabarito: ERRADO.
+
+
+    21. (CESPE - Auditor de Controle Externo - TCE-PE - Auditoria de Contas
+    Públicas – 2017). Acerca da filiação, acumulação de benefício e regimes próprios
+    de previdência social, julgue o item a seguir.
+    O adolescente que estiver sob dependência econômica da madrasta, segurada
+    do RGPS, poderá ser inscrito no INSS como dependente desta.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três, e vimos que apenas os
+    dependentes de 1ª Classe são considerados como financeiramente dependentes
+    do segurado. O enteado do segurado é equiparado aos filhos, mas precisa
+    comprovar dependência econômica para ser considerado dependente e receber os
+    benefícios, conforme podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+           § 2º O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado
+           e desde que comprovada a dependência econômica na forma estabelecida no
+           Regulamento.
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é verdadeira.
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           78
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    22. (CESPE - Defensor Público Federal – 2015). Em relação aos segurados do
+    RGPS e seus dependentes, julgue o item subsecutivo.
+    A lei de benefícios previdenciários prevê expressamente que o menor sob
+    guarda do segurado filiado ao RGPS é seu dependente, havendo discussão
+    jurisprudencial a respeito do tema, dada a existência de normas contrárias no
+    ordenamento jurídico nacional.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    A questão afirma que nos termos da lei, o menor sob guarda é dependentente do
+    segurado filiado ao RGPS. Essa afirmação era incorreta, pois a lei citava somente o
+    enteado e o menor tutelado na qualidade de dependentes equiparados a filho.
+    Contudo, com a publicação da lei lei 15.108/2025, o menor sob guarda judicial
+    passou a ser considerado equiparado a filho para fins previdenciários.
+    Sendo a assim, o menor sob guarda, atualmente é considerado dependente do
+    RGPS de acordo com a lei.
+    Gabarito: CERTO.
+
+
+    23. (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+    ADAPTADA). Julgue a assertiva a seguir.
+    A prestação de benefícios e serviços da previdência social será garantida ao
+    cônjuge supérstite, desde que este comprove a dependência econômica do
+    cônjuge segurado que tiver falecido.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    Cônjuge, como você sabe, são pertencentes à Classe I. Não se assuste com as
+    palavras que você não conheça, caso isto ocorra na prova. No caso, cônjuge
+    supérstite significa cônjuge sobrevivente (viúvo), pertence à Classe I. Sabemos que
+    dependentes Classe I, são considerados como financeiramente dependentes,
+    conforme podemos ver no art. 16 da Lei 8.213/91:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   79
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+           (Destaques Nossos).
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois o cônjuge não deverá
+    comprovar dependência econômica, uma vez que ela é presumida.
+
+
+    Gabarito: ERRADO.
+
+
+    24. (CESPE - Analista Judiciário - TRT 7ª Região – 2017) (QUESTÃO ADAPTADA).
+    João, segurado obrigatório no RGPS, é casado com Fabiana, pelo regime da
+    separação total de bens, com quem tem dois filhos, Marcos, de dezesseis anos
+    de idade, e Felipe, de vinte e cinco anos de idade, portador de deficiência mental
+    grave desde criança.
+    Nessa situação hipotética, à luz da Lei n.º 8.213/1991, considera(m)-se
+    dependente(s) previdenciário(s) de João: Fabiana, Marcos e Felipe.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Cônjuges, filhos menores de 21 anos não emancipados ou filhos inválidos ou que
+    tenham deficiência intelectual ou mental (independentemente da idade), são
+    considerados como dependentes de 1ª Classe. Automaticamente, tais
+    dependentes têm sua dependência econômica presumida, conforme podemos
+    conferir no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           80
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+           (Destaques Nossos).
+
+    O fato de João ser casado com Fabiana pelo regime da separação total de bens
+    em nada altera a condição de dependente preferencial de Fabiana. Sendo assim
+    podemos concluir que a assertiva é verdadeira.
+
+
+    Gabarito: CERTO.
+
+
+    25. (CESPE - Juiz Federal - TRF 1ª Região – 2015) (QUESTÃO ADAPTADA). Com
+    relação aos beneficiários do RGPS, julgue o item a seguir:
+    Para efeitos previdenciários, presume-se que o filho e o enteado com menos de
+    vinte e um anos são economicamente dependentes do segurado.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    O enteado do segurado, é equiparado aos filhos, mas precisa comprovar
+    dependência econômica para receber os benefícios, conforme podemos ver no art.
+    16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave; (...)
+           § 2º O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado
+           e desde que comprovada a dependência econômica na forma estabelecida no
+           Regulamento.
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois o enteado, apesar de
+    ser dependente de 1ª Classe, deverá comprovar a dependência econômica.
+
+
+    Gabarito: ERRADO.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           81
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    26. (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS,
+    julgue o item a seguir.
+    É presumida a dependência econômica do filho com mais de dezoito anos e
+    menos de vinte e um anos de idade em relação ao segurado da previdência
+    social, não sendo necessária a comprovação dessa dependência para que ele se
+    torne beneficiário do RGPS na condição de dependente do segurado.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Estudamos que os filhos são pertencentes à Classe I, no rol de dependentes (que
+    possui 3 classes). Dependentes Classe I são considerados como financeiramente
+    dependente, como podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           (...)
+           (Destaques Nossos).
+
+    Note que a menção à idade é de 21 anos e não 18. Não confunda a maioridade
+    civil com a perda da condição de dependente.
+    Sendo assim podemos concluir que a assertiva está correta, pois é presumida a
+    dependência econômica do filho com mais de dezoito anos e menos de vinte e um
+    anos de idade em relação ao segurado da previdência social. O fato de ser
+    presumida também a dependência econômica para os filhos menores de 18 anos,
+    não modifica a verdade contida na afirmação.
+
+
+    Gabarito: CERTO.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           82
+      www.estrategiaconcursos.com.br                                                                131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    27. (CESPE - Defensor Público Federal - 2017). A respeito da condição de
+    segurados e dependentes no RGPS e da fonte de custeio desse regime, julgue
+    o item subsequente.
+    Para efeito de concessão de benefício aos dependentes, a dependência
+    econômica dos genitores do segurado é considerada presumida.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    As Classes de dependentes são definidas em três e apenas os dependentes Classe
+    I são considerados, de forma presumida, como economicamente dependentes do
+    segurado. Os genitores do segurado (pai e mãe) são considerados como
+    dependentes de Classe II, precisando comprovar dependência econômica para
+    receber pensão, conforme podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+           II - os pais; (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    Sendo assim podemos concluir que a assertiva é falsa.
+
+
+    Gabarito: ERRADO.
+
+
+    28. (CESPE - Analista de Administração Pública - TC-DF - 2014). No que se refere
+    ao regime geral de previdência social, julgue o item a seguir.
+    É presumida, por força de lei, a dependência econômica dos pais do segurado
+    para fins de atribuição da qualidade de dependentes.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           83
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+    Não é bem assim. Os pais do segurado são considerados como dependentes Classe
+    II, precisando comprovar dependência financeira para receber pensão, conforme
+    podemos ver no art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+           II - os pais; (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    Sendo assim podemos concluir que a assertiva é falsa, pois a dependência
+    econômica dos pais do segurado para fins de atribuição da qualidade de
+    dependentes deverá ser comprovada.
+
+    Gabarito: ERRADO.
+
+    29. (CESPE - Auditor Fiscal do Trabalho – 2013). No que se refere às normas que
+    regulamentam a condição de dependente no RGPS, julgue o item subsequente.
+    Apesar de integrarem a segunda classe de dependentes, os pais poderão fazer
+    jus ao recebimento de pensão por morte, desde que comprovem a dependência
+    econômica do segurado a eles, ainda que existam dependentes que integrem a
+    primeira classe.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    Conforme estudamos, as Classes de dependentes são definidas em três e apenas
+    os dependentes Classe I são, em regra, automaticamente considerados como
+    economicamente dependentes do segurado. Os pais do segurado são
+    considerados como dependentes de Classe II, precisando comprovar dependência
+    financeira para receber pensão, porém só poderão receber essa pensão caso não
+    exista nenhum beneficiário Classe I, conforme podemos ver no art. 16 da Lei
+    8.213/91:
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           84
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+           II - os pais;
+            (...)
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes. (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    Além do erro apontado acima, outro erro está inserido na questão. Quando a
+    assertiva afirma que os pais poderão fazer jus ao recebimento de pensão por morte,
+    desde que comprovem a dependência econômica do segurado a eles, temos uma
+    inversão técnica, pois não se deve comprovar a dependência econômica do
+    segurado aos pais, mas sim dos pais em relação aos segurados.
+    Portanto, podemos concluir que a assertiva está duplamente incorreta.
+
+
+    Gabarito: ERRADO.
+
+    30. (CESPE - Auditor Governamental - CGE PI –2015). A respeito do regime geral
+    de previdência social, julgue o item a seguir.
+    A dependência econômica do irmão menor de vinte e um anos de idade na
+    condição de dependente do segurado é presumida para fins de obtenção de
+    benefício previdenciário.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Para responder a esta questão, recorramos ao art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           85
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+           (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+           (Destaques Nossos).
+
+
+    Portanto assertiva incorreta, pois a dependência dos irmãos, que são dependentes
+    da Classe III, não é presumida, devendo ser comprovada.
+
+
+    Gabarito: ERRADO.
+
+
+    31. (CESPE - Analista Judiciário - TRT 10ª Região – 2013). O item a seguir
+    apresenta uma situação hipotética, seguida de uma assertiva a ser julgada com
+    base nas disposições do direito previdenciário.
+    José, com dezesseis anos de idade, não emancipado, vive às expensas de seu
+    irmão mais velho, João, que é segurado da previdência social. Nessa situação,
+    José é considerado beneficiário do regime geral da previdência social, na
+    condição de dependente de João.
+    ( ) Certo
+    ( ) Errado
+
+
+    COMENTÁRIOS:
+    Como estudamos, temos três classes de dependentes. Irmãos pertencem a Classe
+    III, portanto, conforme podemos ver na legislação, transcrita abaixo, precisam
+    comprovar a dependência econômica. Vejamos o art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           86
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+
+           (Destaques Nossos).
+
+
+    Nesse caso em específico, o irmão (José) tem 16 anos de idade, não é emancipado
+    e é economicamente dependente de seu irmão mais velho (João, que é segurado
+    RGPS). Portanto, José é considerado como beneficiário dependente de João, se
+    não houver dependentes de classes anteriores.
+
+
+    Gabarito: CERTO.
+
+
+    32. (FCC - Analista Judiciário (TST)/Judiciária/2012). São beneficiários do Regime
+    Geral da Previdência Social, na condição de dependentes do segurado:
+    a) os ascendentes até o terceiro grau, desde que comprovada a dependência
+    econômica.
+    b) o irmão até completar 18 anos ou inválido, independentemente de
+    comprovação da dependência econômica.
+    c) o menor tutelado independentemente de comprovação da dependência
+    econômica.
+    d) o cônjuge e a companheira, desde que comprovada a dependência
+    econômica.
+    e) o filho não emancipado inválido independentemente de comprovação de
+    dependência econômica.
+
+
+    COMENTÁRIOS:
+    A resolução da presente questão tem por base o art. 16 da Lei 8.213/91, conforme
+    segue:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           87
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           “Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           II - os pais;
+           III - o irmão de qualquer condição menor de 21 (vinte e um) anos ou inválido ou que tenha
+           deficiência intelectual ou mental ou deficiência grave, nos termos do regulamento.
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+           § 2º .O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado
+           e desde que comprovada a dependência econômica na forma estabelecida no
+           Regulamento.
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.”
+
+    Tomando por base o texto legal citado, vamos à análise de cada alternativa:
+    a) os ascendentes até o terceiro grau, desde que comprovada a dependência
+    econômica.
+    Ascendentes até o terceiro grau não são dependentes, mesmo que comprovada
+    dependência econômica. Apenas os pais, desde que comprovem dependência
+    econômica (ERRADA).
+
+
+    b) o irmão até completar 18 anos ou inválido, independentemente de comprovação
+    da dependência econômica.
+    O irmão de qualquer condição será dependente quando menor de 21 (vinte e um)
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave, nos termos do regulamento, desde que comprovem dependência
+    econômica. (ERRADA).
+
+
+    c) o menor tutelado independentemente de comprovação da dependência
+    econômica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           88
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    O enteado, o menor tutelado e o menor sob guarda judicial equiparam-se a filho
+    mediante declaração do segurado e desde que comprovada a dependência
+    econômica na forma estabelecida no Regulamento. (ERRADA).
+
+
+    d) o cônjuge e a companheira, desde que comprovada a dependência econômica.
+    Cônjuge e companheira não precisam comprovar dependência econômica.
+    (ERRADA).
+
+
+    e) o filho não emancipado inválido independentemente de comprovação de
+    dependência econômica.
+    O filho não emancipado inválido será dependente independentemente da idade e
+    de qualquer comprovação de dependência econômica. (CORRETA).
+
+
+    RESPOSTA: E
+
+    33. (FCC - Analista Judiciário (TRT 6ª Região)/Judiciária/"Sem
+    Especialidade"/2012). Nos termos da Lei no 8.213/1991, NÃO são beneficiários
+    do Regime Geral de Previdência Social, na condição de dependentes do
+    segurado:
+    a) os seus pais.
+    b) o seu irmão inválido de 30 anos.
+    c) o seu irmão não emancipado menor de 21 anos.
+    d) o companheiro que mantém união estável.
+    e) o enteado menor ainda que não comprovada a dependência econômica do
+    segurado.
+
+
+    COMENTÁRIOS:
+    A resolução da presente questão tem por base o art. 16 da Lei 8.213/91.
+    Tomando por base o texto legal citado, vamos à análise de cada alternativa:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   89
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    a) os seus pais.
+    Os pais poderão ser dependentes, desde que comprovada dependência
+    econômica.
+
+    b) o seu irmão inválido de 30 anos.
+    Irmão inválido poderá ser dependente qualquer que seja sua idade, desde que
+    comprovada dependência econômica.
+
+    c) o seu irmão não emancipado menor de 21 anos.
+    Irmão não emancipado, menor de 21 anos, poderá ser dependente, desde que
+    comprovada dependência econômica.
+
+    d) o companheiro que mantém união estável.
+    Companheiro que mantém união estável é dependente econômico.
+
+    e) o enteado menor ainda que não comprovada a dependência econômica do
+    segurado.
+    O enteado, o menor tutelado e o menor sob guarda judicial equiparam-se a filho
+    mediante declaração do segurado, desde que comprovada a dependência
+    econômica. Se não for comprovada a dependência econômica, não será
+    dependente. Como a questão pede para assinalarmos a questão onde aparece
+    alguém que NÃO é beneficiários do RGPS, esta é a alternativa que deverá ser
+    marcada.
+
+    Gabarito: E
+
+
+    34. (FCC - Procurador Autárquico – MANAUSPREV – 2015). Após o falecimento
+    de Isis, seus familiares procuraram a Previdência Social a fim de requerer os
+    benefícios como dependentes do de cujus. Nessa situação, a dependência
+    econômica não será presumida, devendo ser comprovada para:
+    a) filho inválido com 30 anos.
+    b) companheiro que mantinha união estável com a segurada.
+    c) enteado menor de 21 anos.
+    d) filho não emancipado de 19 anos.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   90
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    e) cônjuge.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   91
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+    Os dependentes estão divididos em três classes, conforme podemos verificar no
+    Art. 16 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+           § 2º O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado
+           e desde que comprovada a dependência econômica na forma estabelecida no
+           Regulamento.
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    A partir destas informações, analisemos as assertivas:
+    a) filho inválido com 30 anos.
+    Incorreta, pois filho inválido, independentemente da idade, não precisa comprovar
+    dependência econômica.
+    b) companheiro que mantinha união estável com a segurada.
+    Incorreta, pois companheiro não precisa comprovar dependência econômica e sim
+    a união estável.
+    c) enteado menor de 21 anos.
+    Essa é a alternativa correta, pois enteado, apesar de ser equiparado ao filho, precisa
+    comprovar a dependência econômica, conforme vimos na legislação acima.
+    d) filho não emancipado de 19 anos.
+    Incorreta, pois na realidade o filho até 21 anos, desde que não emancipado, é
+    dependente de 1ª Classe e não precisa comprovar dependência econômica.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           92
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    e) cônjuge.
+    Incorreta, pois cônjuge pertence a 1ª Classe e sua dependência econômica é
+    presumida.
+    Gabarito: C.
+
+
+    35. (FCC - Auditor - TCE-CE – 2015). Afrodite é segurada do Regime Geral da
+    Previdência Social. Mantém união estável como entidade familiar com Thor e
+    possui um filho Hermes de 27 anos. Em sua residência também habitam o seu
+    pai Ulisses de 64 anos e a sua irmã Medusa, não emancipada, de 17 anos.
+    Considerando as regras contidas no Plano de Benefícios da Previdência Social,
+    será considerado segurado de primeira classe e será presumida a dependência
+    econômica, respectivamente, de
+    a) Thor e Thor.
+    b) Thor e Ulisses.
+    c) Ulisses e Medusa.
+    d) Hermes e Medusa.
+    e) Hermes e Hermes.
+
+
+    COMENTÁRIOS:
+    Segundo podemos ver no Art. 16 da Lei 8.213/91, os dependentes de primeira
+    classe, nos termos da lei, são aqueles mais próximos do segurado, senão vejamos:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+
+    Sendo assim, só temos como possibilidade a “alternativa A”, pois Thor é o cônjuge,
+    dependente de primeira classe e sua dependência econômica é presumida. Ulisses
+    é o pai, portanto dependente de classe II; Medusa é a irmã, portanto dependente
+    de classe III. Ademais, Ulisses e Medusa dependem de comprovação da
+    dependência econômica.
+    Gabarito: A.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           93
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    36. (FCC - Procurador do Tribunal de Contas do Município do Rio de Janeiro –
+    2015). Dependente é toda pessoa física filiada ao Regime Geral da Previdência
+    Social em razão do seu vínculo com o segurado principal. Quanto aos
+    dependentes, não é necessária a comprovação dessa condição, em razão de
+    presunção legal de dependência econômica:
+    a) os filhos, enteados e tutelados até 25 anos de idade.
+    b) os pais desde que inválidos.
+    c) os netos, filhos ou enteados de qualquer idade, desde que universitários.
+    d) os irmãos desde que inválidos.
+    e) o cônjuge, companheiro ou filho não emancipado, menor de 21 anos ou
+    inválido.
+
+
+    COMENTÁRIOS:
+    Segundo podemos ver no Art. 16 da Lei 8.213/91, os dependentes de primeira
+    classe são aqueles que, em regra, se presume a dependência financeira, conforme
+    segue:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave. (...)
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    Visto isso, vamos às assertivas:
+    a) os filhos, enteados e tutelados até 25 anos de idade.
+    Incorreto, pois apenas os filhos menores de 21 anos ou inválidos ou que tenha
+    deficiência intelectual ou mental ou deficiência grave fariam parte deste rol.
+    Enteado e tutelado (assim como o menor sob guarda judicial), apesar de ser
+    dependente de 1ª Classe, deverão comprovar sua dependência econômica.
+
+
+    b) os pais desde que inválidos.
+    Incorreta, pois os pais fazem parte da Classe II e a dependência econômica deve
+    ser comprovada.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           94
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    c) os netos, filhos ou enteados de qualquer idade, desde que universitários.
+    Incorreto. Filhos são dependentes, independentemente de comprovação de
+    dependência econômica, apenas até 21 anos de idade, salvo se inválidos ou que
+    tenham deficiência intelectual ou mental ou deficiência grave. Netos não fazem
+    parte do rol de dependentes. Enteados precisam comprovar dependência
+    econômica. O fato de ser universitário não altera em nada as regras de
+    dependência no direito previdenciário.
+
+
+    d) os irmãos desde que inválidos.
+    Incorreta, irmãos devem comprovar dependência econômica, ainda que inválidos.
+
+
+    e) o cônjuge, companheiro ou filho não emancipado, menor de 21 anos ou inválido.
+    Correto, pois esses fazem parte da Classe I e sua dependência econômica é
+    presumida, não precisando, portanto, ser comprovada.
+
+    Gabarito: E.
+
+
+    37. (FCC - Auditor Substituto de Conselheiro do TCM-RJ – 2015). Em relação aos
+    dependentes dos segurados, nos termos previstos no Plano de Benefícios do
+    Regime Geral da Previdência Social,
+    a) os avós constam do rol dos dependentes que têm dependência econômica
+    legalmente presumida.
+    b) são benefícios previstos aos dependentes a pensão por morte, a reabilitação
+    profissional e o salário-maternidade.
+    c) o menor tutelado e o enteado não se equiparam aos filhos para efeitos
+    previdenciários.
+    d) a existência de dependentes de quaisquer das classes exclui do direito às
+    prestações os das classes seguintes.
+    e) os irmãos menores de 21 anos, ainda que emancipados, são dependentes de
+    segunda classe.
+
+
+    COMENTÁRIOS:
+    Segundo podemos ver no Art. 16 da Lei 8.213/91:
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   95
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave
+           II - os pais;
+           III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou
+           inválido ou que tenha deficiência intelectual ou mental ou deficiência grave;
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+           § 2º O enteado e o menor tutelado equiparam-se a filho mediante declaração do segurado
+           e desde que comprovada a dependência econômica na forma estabelecida no Regulamento
+           § 3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+
+    Agora, vamos às assertivas:
+    a) os avós constam do rol dos dependentes que têm dependência econômica
+    legalmente presumida.
+    Incorreta, pois avós não fazem parte do rol dos dependentes.
+
+    b) são benefícios previstos aos dependentes a pensão por morte, a reabilitação
+    profissional e o salário-maternidade.
+    Incorreta, conforme podemos verificar no Art. 18 Lei 8.213/91. Tal assunto ainda
+    será estudado em detalhes nesta aula.
+           Art. 18. O Regime Geral de Previdência Social compreende as seguintes prestações,
+           devidas inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em
+           benefícios e serviços:
+           II - quanto ao dependente:
+              a) pensão por morte;
+              b) auxílio-reclusão;
+           III - quanto ao segurado e dependente:
+               b) serviço social;
+              c) reabilitação profissional.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           96
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                    
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Assim sendo, podemos verificar que a pensão por morte e a reabilitação
+    profissional são prestações devidas aos dependentes. No entanto, o salário-
+    maternidade é devido apenas aos segurados do RGPS.
+
+
+    c) o menor tutelado e o enteado não se equiparam aos filhos para efeitos
+    previdenciários.
+    Incorreto, pois menor tutelado e enteado (bem como o menor sob guarda judicial)
+    equiparam-se ao filho e serão dependentes de 1ª Classe, caso seja comprovada
+    dependência financeira.
+
+
+    d) a existência de dependentes de quaisquer das classes exclui do direito às
+    prestações os das classes seguintes.
+    Correto, é exatamente isso que está previsto na lei, conforme podemos verificar no
+    art. 6º da Lei 8.213/91:
+           § 1º A existência de dependente de qualquer das classes deste artigo exclui do direito às
+           prestações os das classes seguintes.
+
+    e) os irmãos menores de 21 anos, ainda que emancipados, são dependentes de
+    segunda classe.
+    Incorreta, pois irmão são dependentes de terceira Classe.
+
+
+    Gabarito: D.
+
+
+    38. (FCC - Assessor Jurídico - TCE-PI – 2014). A lei que dispõe sobre o regime
+    geral da previdência social prevê como prestações expressas em benefícios e
+    serviços, devidas apenas aos dependentes dos segurados,
+    a) aposentadoria especial e serviço social.
+    b) salário-família e auxílio-reclusão.
+    c) reabilitação profissional e salário-maternidade.
+    d) pensão por morte e auxílio-reclusão.
+    e) pecúlio e abono de permanência em serviço.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício         97
+      www.estrategiaconcursos.com.br                                                              131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   98
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+    Para responder essa questão vamos recorrer ao art. 18, II e III da Lei 8.213/91.
+           Art. 18. O Regime Geral de Previdência Social compreende as seguintes prestações, devidas
+           inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em benefícios
+           e serviços: (...)
+           II - quanto ao dependente:
+                  a) pensão por morte;
+                  b) auxílio-reclusão;
+           III - quanto ao segurado e dependente:
+                  a) pecúlios; (Revogada pela Lei nº 9.032, de 1995)
+                  b) serviço social; (Revogado pela Medida Provisória 905 , de 2019)
+                  c) reabilitação profissional
+
+    Agora vamos às assertivas:
+
+
+    a) aposentadoria especial e serviço social.
+    Incorreta, pois aposentadoria especial é apenas direito do segurado. Já o serviço
+    social não é prestado pelo RGPS.
+
+
+    b) salário-família e auxílio-reclusão.
+    Incorreta, pois salário-família é direito do segurado.
+
+
+    c) reabilitação profissional e salário-maternidade.
+    Incorreta, pois salário-maternidade é apenas direito do segurado.
+
+
+    d) pensão por morte e auxílio-reclusão.
+    Essa é a alternativa correta, pois ambas são devidas apenas aos dependentes.
+
+
+    e) pecúlio e abono de permanência em serviços.
+    Incorreta. Ambos os benefícios foram revogados. O pecúlio está com a revogação
+    especificada na legislação transcrita acima. O abono de permanência em serviço
+    era exclusivo do segurado, mas foi excluído do rol de benefícios do RGPS.
+    Gabarito: D.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          99
+      www.estrategiaconcursos.com.br                                                               131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    39. (CESPE - Auditor Fiscal do Trabalho – 2013).No que se refere às normas que
+    regulamentam a condição de dependente no RGPS, julgue o item subsequente.
+     O companheiro e a companheira, desde que comprovem a existência de união
+    estável, integram o rol de dependentes da primeira classe, o que lhes permite
+    receber pensão por morte ou auxílio-reclusão, conforme o caso.
+    ( ) Certo
+    ( ) Errado
+    COMENTÁRIOS:
+    As classes de dependentes são definidas em três, e apenas os dependentes da
+    Classe I são considerados como financeiramente dependentes. Companheiros
+    precisam comprovar união estável para serem considerados como dependentes,
+    conforme podemos ver no art. 16 da Lei 8.213/91. Sobre quais benefícios esses
+    dependentes terão direito, poderemos consultar o art. 18 da Lei 8.213/91:
+           Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de
+           dependentes do segurado:
+           I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer
+           condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou
+           mental ou deficiência grave;
+           (...)
+           §3º Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém
+           união estável com o segurado ou com a segurada, de acordo com o § 3º do art. 226 da
+           Constituição Federal.
+           § 4º A dependência econômica das pessoas indicadas no inciso I é presumida e a das demais
+           deve ser comprovada.
+           Art. 18. O Regime Geral de Previdência Social compreende as seguintes prestações,
+           devidas inclusive em razão de eventos decorrentes de acidente do trabalho, expressas em
+           benefícios e serviços: [...]
+           II - quanto ao dependente:
+           a) pensão por morte;
+           b) auxílio-reclusão;
+
+    Sendo assim podemos concluir que a assertiva está correta.
+
+
+    Gabarito: CERTO.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício           100
+      www.estrategiaconcursos.com.br                                                                 131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    40. (FCC - Analista Judiciário - TRT 6ª Região)/Judiciária/"Sem
+    Especialidade"/2012). Quanto aos dependentes, são consideradas prestações
+    previdenciárias compreendidas pelo Regime Geral de Previdência Social:
+    a) aposentadoria por invalidez e auxílio-doença.
+    b) auxílio-reclusão e aposentadoria por tempo de contribuição.
+    c) pensão por morte e aposentadoria especial.
+    d) auxílio-reclusão e pensão por morte.
+    e) aposentadoria por idade e auxílio-doença.
+
+    COMENTÁRIOS:
+    A resolução da presente questão tem por base o art. 18 da Lei 8.213/91.
+    Tomando por base o texto legal citado, vamos à análise de cada alternativa:
+
+    a) aposentadoria por invalidez e auxílio-doença.
+    Aposentadoria por invalidez e auxílio-doença são benefícios devidos aos
+    segurados, não aos dependentes. (ERRADA).
+
+    b) auxílio-reclusão e aposentadoria por tempo de contribuição.
+    Auxílio-reclusão é devido aos dependentes e aposentadoria por tempo de
+    contribuição é benefícios devidos aos segurados. (ERRADA).
+
+    c) pensão por morte e aposentadoria especial.
+    Pensão por morte é devido aos dependentes e aposentadoria especial é benefício
+    devido aos segurados. (ERRADA).
+
+    d) auxílio-reclusão e pensão por morte.
+    Auxílio-reclusão e pensão por morte são benefícios devidos aos dependentes.
+    (CORRETA).
+
+    e) aposentadoria por idade e auxílio-doença.
+    Aposentadoria por idade e auxílio-doença são benefícios devidos aos segurados,
+    não aos dependentes. (ERRADA).
+    RESPOSTA: D
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   101
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    41. (FGV – ANALISTA JUDICIÁRIO – TRF 1a REGIÃO – 2024)
+
+    Segundo a redação atual do Decreto nº 3.048/1999, que versa sobre o Regime
+    Geral de Previdência Social, podem ser dependentes do segurado, exceto nos
+    casos de invalidez ou deficiência intelectual e mental, os filhos não emancipados
+    com idade de no máximo:
+
+    a) 17 anos;
+
+    b) 18 anos;
+
+    c) 19 anos;
+
+    d) 20 anos;
+
+    e) 21 anos.
+
+    COMENTÁRIOS:
+
+
+    A questão trata do tema dependentes do segurado no RGPS. Segundo o art. 16,
+    inciso I, da Lei 8.213/91, são considerados dependentes os filhos não emancipados,
+    de qualquer condição, que tenham menos de 21 anos de idade, ou que sejam
+    inválidos ou tenham deficiência intelectual, mental ou grave.
+
+    Veja o que diz a norma:
+
+
+      Lei 8.213/91 art. 16 São beneficiários do Regime Geral de Previdência
+      Social, na condição de dependentes do segurado:
+
+      I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de
+      qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha
+      deficiência intelectual ou mental ou deficiência grave;
+
+    Assim, a alternativa correta é a letra D, pois ela considera como dependente o filho
+    menor de 21 anos. Isso significa que até o dia anterior ao 21º aniversário o filho é
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   102
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    considerado dependente. Ao completar 21 anos, perde essa condição, conforme
+    prevê o art. 17, inciso III, do Decreto 3.048/99:
+
+      Lei 8.213/91 art. 17. A perda da qualidade de dependente ocorre:
+
+      III - ao completar vinte e um anos de idade, para o filho, o irmão, o enteado
+      ou o menor tutelado, ou nas seguintes hipóteses, se ocorridas
+      anteriormente a essa idade: (...)
+
+    Portanto, o limite de idade para que um filho seja considerado dependente é 20
+    anos, 11 meses e 29 dias. Ao completar 21 anos, ele deixa de ser dependente
+    automaticamente, exceto se houver situação especial prevista em lei.
+
+    Gabarito: D.
+
+    42. (FGV – ANALISTA LEGISLATIVO – CÂMARA DOS DEPUTADOS – 2023)
+
+    A Lei nº 8.213/91, ao disciplinar os dependentes para fins previdenciários,
+    estabelece algumas regras e limitações relevantes.
+
+    Diante da referida norma, é correto afirmar que
+
+    a) a companheira ou companheiro somente poderão qualificar- se como
+    dependentes após demonstração, pela via judicial, da união estável.
+
+    b) somente a mãe do segurado falecido poderá postular a pensão por morte,
+    excluído o pai, e desde que provada a dependência econômica.
+
+    c) irmãos não emancipados, de qualquer condição, menores de 24 anos, poderão
+    obter benefício, desde que cursando ensino médio ou nível superior.
+
+    d) a separação judicial ou de fato implica imediata perda de qualidade do cônjuge
+    ou companheira, salvo expressa manifestação contrária do segurado, em vida.
+
+    e) na hipótese de segurado casado, com convivência simultânea com a cônjuge e
+    concubina, não há a possibilidade de ambas figurarem como dependentes.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   103
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMENTÁRIOS:
+
+
+    LETRA A – ERRADA – A comprovação da união estável pode ser feita na via
+    administrativa, não precisando ser judicial, como afirmado na questão.
+
+    LETRA B - ERRADA - Tanto a mãe como o pai do segurado são dependentes de
+    segunda classe, podendo solicitar a pensão por morte, caso não haja dependentes
+    de primeira classe.
+
+
+          Lei 8.213/91 Art. 16. São beneficiários do Regime Geral de Previdência
+          Social, na condição de dependentes do segurado:
+
+          II - os pais;
+
+    LETRA C – ERRADA - O artigo 16, inciso I, da Lei nº 8.213/1991 fixa em 21 anos a
+    idade máxima para que o filho não emancipado seja considerado dependente do
+    segurado, independentemente de estar matriculado no ensino médio ou superior,
+    uma vez que a legislação não condiciona essa dependência à situação educacional
+
+          Art. 16. São beneficiários do Regime Geral de Previdência Social, na
+          condição de dependentes do segurado:
+
+          III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e
+          um) anos ou inválido ou que tenha deficiência intelectual ou mental ou
+          deficiência grave;
+
+    do beneficiário.
+
+    LETRA D - ERRADA - A separação judicial ou de fato implica imediata perda de
+    qualidade do cônjuge ou companheira, sem possibilidade de que a expressa
+    manifestação contrária do segurado altere esse fato.
+
+    LETRA E - CORRETA - O STF decidiu, no julgamento do Tema 526 da Repercussão
+    Geral, que a concubina — ou seja, a pessoa que mantém relação com alguém já
+    casado — não tem direito à pensão por morte ou outros benefícios previdenciários.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   104
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Isso porque o concubinato não é reconhecido pela Constituição como união
+    protegida pelo Estado, diferente do casamento e da união estável. Assim, não é
+    possível que a esposa e a concubina sejam consideradas dependentes ao mesmo
+    tempo para fins previdenciários.
+
+    Gabarito: E.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   105
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    LISTA DE EXERCÍCIOS
+
+    1 - (CESPE – SLU DF – 2019) Antônio, de sessenta e três anos de idade,
+    empregado celetista no cargo de auxiliar de serviços gerais havia dez anos em
+    uma empresa de limpeza urbana, compareceu ao serviço de emergência de
+    um hospital público, queixando-se de fortes dores de cabeça. Após primeiro
+    atendimento médico, ele foi encaminhado para internação, sem previsão de
+    alta, para investigação da causa das dores. Antônio é casado com Maria, de
+    quarenta e cinco anos de idade, com a qual tem dois filhos menores de idade.
+    Maria está desempregada e nunca contribuiu para a previdência social.
+    Apreensiva pela possibilidade de Antônio não poder retornar ao trabalho,
+    Maria buscou orientação no serviço social do hospital a respeito dos direitos
+    de Antônio e dos meios de exercê-los.
+
+
+    A partir dessa situação hipotética, julgue o item subsecutivo, tendo como
+    referência a Lei Orgânica da Seguridade Social (Lei n.º 8.212/1991), os planos
+    de benefícios da previdência social (Lei n.º 8.213/1991) e o Estatuto do Idoso
+    (Lei n.º 10.741/2003).
+    Para fins previdenciários, a dependência econômica de Maria e de seus filhos
+    com Antônio deve ser comprovada.
+    Certo ( )
+    Errado ( )
+
+
+    2 - (CESPE – Analista Judiciário – STJ – 2018) A respeito do regime geral da
+    previdência social (RGPS), julgue o item que se segue, considerando a
+    jurisprudência dos tribunais superiores.
+    Os genitores de segurado do RGPS serão seus dependentes independentemente
+    de comprovação da dependência econômica.
+    Certo ( )
+    Errado ( )
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   106
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    3 - (CESPE – Procurador do Município de João Pessoa – 2018) À luz da Lei n.º
+    8.213/1991, é(são) dependente(s) do segurado do regime geral de previdência
+    social
+          a) os pais, desde que com idade superior a sessenta anos.
+          b) o irmão não emancipado e menor de vinte e quatro anos de idade.
+          c) a companheira ou o companheiro, desde que em união estável há mais de
+             dois anos.
+          d) o filho não emancipado e menor de vinte e quatro anos de idade.
+          e) os pais, em qualquer idade.
+
+
+    4 - (CESPE – Auditor de Contas Públicas – TCE PB – 2018 – Adaptada) A prestação
+    de benefícios e serviços da previdência social será garantida ao dependente, no
+    caso do benefício de pensão por morte, desde a data do óbito, quando requerida
+    em até 180 (cento e oitenta) dias após o óbito, para os filhos menores de 16
+    (dezesseis) anos, ou em até 90 (noventa) dias após o óbito, para os demais
+    dependentes.
+    Certo ( )
+    Errado ( )
+
+
+    5 - (FCC – ANALISTA PREVIDENCIÁRIO – SEGEP MA – 2018) De acordo com a Lei
+    nº 8.213/91, os pais de um Segurado da Previdência Social
+    a) são considerados dependentes, inclusive se houver cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    b) podem ser considerados dependentes na inexistência de cônjuge, companheira,
+    companheiro, filho não emancipado, de qualquer condição, menor de vinte e um
+    anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    c) não são considerados dependentes, em qualquer hipótese, por ausência de
+    disposição legal específica prevendo esta condição.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   107
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    d) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de vinte e um anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+    e) podem ser considerados dependentes somente quando não houver irmão não
+    emancipado, de qualquer condição, menor de dezoito anos ou inválido ou que
+    tenha deficiência intelectual ou mental ou deficiência grave.
+
+
+    6 - (FCC – Analista Previdenciário – SEGEP MA – 2018) São beneficiários do Regime
+    Geral de Previdência Social, na condição de dependentes do segurado, o cônjuge,
+    a companheira, o companheiro e o filho não emancipado, de qualquer condição,
+    menor de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+    deficiência
+    a)       grave; os pais; e o irmão emancipado, de qualquer condição, menor de 21
+             anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+    b)   média; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    18 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    média.
+    c)    grave; os pais; e o irmão não emancipado, de qualquer condição, menor de
+    21 anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+    grave.
+    d)     média; os pais e os avós; e o irmão não emancipado, de qualquer condição,
+    menor de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+    deficiência média.
+    e)    grave; os pais; e o irmão emancipado, de qualquer condição, menor de 24
+    anos ou inválido ou que tenha apenas deficiência intelectual ou mental.
+
+
+    7 – (FCC – Auditor Público Externo – TCE RS – 2018) Após o óbito de Hermes
+    ocorrido em dezembro de 2017, seus familiares procuraram o Instituto Nacional do
+    Seguro Social (INSS) para se habilitarem como dependentes do falecido e
+    postularem os benefícios a que teriam direito.
+    Nessa hipótese, em conformidade com a Lei nº 8.213/1991,
+          a) o cônjuge goza de presunção relativa de dependência econômica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   108
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          b) a companheira que mantinha união estável com o segurado deverá
+             comprovar a dependência econômica.
+          c) o filho inválido com mais de 21 anos somente terá cobertura quando não
+             houver dependentes de primeira classe.
+          d) a pessoa designada, menor de 21 anos ou maior de 60 anos, será considerada
+             dependente de primeira classe.
+          e) o enteado menor de 21 anos precisa comprovar a dependência econômica.
+
+
+    8 – (Inédita) Mário é segurado obrigatório do Regime Geral de Previdência Social
+    e veio a falecer deixando como seu único dependente seu filho Mário Júnior, este
+    último é não inválido, possui 20 anos de idade e, devido a uma decisão judicial,
+    colou grau em ensino superior aos 19 anos. Nessas condições, podemos afirmar
+    que Mário Júnior fará jus a Pensão por Morte em decorrência do falecimento de
+    seu pai.
+    Certo ( )
+    Errado ( )
+
+
+    9 – (Inédita) Carlos é segurado do RGPS e faleceu deixando como único
+    dependente seu filho Gustavo, que tinha 17 anos da data do óbito de seu pai e não
+    era emancipado. Aos 20 anos, Gustavo sofreu um acidente que o deixou inválido.
+    Tendo em vista estas informações, é correto afirmar que Gustavo fará jus à pensão
+    por morte enquanto durar sua invalidez.
+    Certo ( )
+    Errado ( )
+
+
+    10 – (Inédita) O enteado de segurado do RGPS é considerado seu dependente e
+    concorre em igualdade de condições com os filhos biológicos, sendo sua
+    dependência econômica presumida.
+    Certo ( )
+    Errado ( )
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   109
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    11- (Inédita) Nos termos da Lei 8.213, o menor sob guarda será considerado
+    dependente do RGPS na qualidade de equiparado a filho mediante declaração do
+    segurado e desde que comprovada a dependência econômica.
+    Certo ( )
+    Errado ( )
+
+
+    12 – (Inédita) O exercício de atividade remunerada, inclusive na condição de
+    microempreendedor individual, não impede a concessão ou manutenção da parte
+    individual da pensão por morte do dependente com deficiência intelectual ou
+    mental ou com deficiência grave.
+    Certo ( )
+    Errado ( )
+
+
+    13 – (Inédito) Mário era segurado do RGPS na qualidade de contribuinte individual
+    e veio a falecer, deixando sua esposa Joana e dois filhos, Fábio e Sandra. Fábio
+    possui 23 anos e está cursando o ensino superior, já Sandra possui 19 anos e não é
+    emancipada. Além disso, Mário tinha uma irmã, Maria, que dependia
+    economicamente dele e possui 20 anos de idade. Nessas condições, podemos
+    afirmar que a pensão por morte será rateada em parte iguais por Joana, Fábio e
+    Sandra.
+    Certo ( )
+    Errado ( )
+
+
+    14 – (Inédita) São exemplos de prestações sociais oferecidas pela Previdência Social
+    ao grupo de dependentes do segurado os benefícios de pensão por morte, auxílio-
+    reclusão e salário-família.
+    Certo ( )
+    Errado ( )
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   110
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    15. (CESPE - Analista de Gestão Educacional – SEDF - 2017). Relativamente a
+    segurados, cumulação de benefícios e previdência complementar, julgue o item
+    a seguir.
+     Entende-se como companheiro ou companheira para efeito de proteção
+    previdenciária a pessoa com quem o segurado mantém união estável por
+    período superior a cinco anos, independentemente da existência de prole em
+    comum.
+    ( ) Certo
+    ( ) Errado
+
+    16. (CESPE - Auditor de Controle Externo - TCE-PE - 2017). A respeito da
+    carência e da condição de segurados e dependentes no regime geral da
+    previdência social (RGPS), julgue o item subsequente.
+    Para a concessão da pensão por morte na condição de companheira ou
+    companheiro, exige-se do interessado a prova da existência de filhos em comum
+    ou da convivência por, no mínimo, dois anos com o segurado falecido.
+    ( ) Certo
+    ( ) Errado
+
+    17. (CESPE - Auditor Fiscal de Controle Externo - TCE-SC – 2016). A seguridade
+    social compreende um conjunto integrado de ações de iniciativa dos poderes
+    públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à
+    previdência e à assistência social. Acerca da seguridade social, julgue o item
+    subsequente.
+    O STF reconhece a união homoafetiva como entidade familiar e,
+    consequentemente, assegura ao(à) companheiro(a) da pessoa segurada a
+    qualidade de dependente para fins previdenciários.
+    ( ) Certo
+    ( ) Errado
+
+    18. (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+    ADAPTADA). Ao filho maior de vinte e um anos de idade será garantida a
+    prestação de benefícios e serviços da previdência social, desde que comprove a
+    matrícula em instituição de ensino superior, até a data da sua formatura.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   111
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    ( ) Certo
+    ( ) Errado
+
+    19. (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS,
+    julgue o item a seguir. De acordo com o disposto na Lei n.º 8.213/1991, filho
+    maior de vinte e um anos de idade não portador de invalidez ou qualquer
+    deficiência mantém a condição de dependente do segurado do RGPS até
+    completar vinte e quatro anos, desde que seja estudante universitário.
+    ( ) Certo
+    ( ) Errado
+
+    20. (Questão Inédita) Julgue o item a seguir: De acordo com o disposto na Lei
+    n.º 8.213/1991, o filho, ainda não emancipado, quando adquire a maioridade civil
+    e não é portador de invalidez ou qualquer deficiência, automaticamente perde a
+    condição de dependente do segurado do RGPS.
+     ( ) Certo
+    ( ) Errado
+    21. (CESPE - Auditor de Controle Externo - TCE-PE - Auditoria de Contas
+    Públicas – 2017). Acerca da filiação, acumulação de benefício e regimes próprios
+    de previdência social, julgue o item a seguir.
+    O adolescente que estiver sob dependência econômica da madrasta, segurada
+    do RGPS, poderá ser inscrito no INSS como dependente desta.
+    ( ) Certo
+    ( ) Errado
+
+    22. (CESPE - Defensor Público Federal – 2015). Em relação aos segurados do
+    RGPS e seus dependentes, julgue o item subsecutivo.
+    A lei de benefícios previdenciários prevê expressamente que o menor sob
+    guarda do segurado filiado ao RGPS é seu dependente, havendo discussão
+    jurisprudencial a respeito do tema, dada a existência de normas contrárias no
+    ordenamento jurídico nacional.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   112
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    23. (CESPE - Auditor de Contas Públicas - TCE-PB – 2018) (QUESTÃO
+    ADAPTADA). Julgue a assertiva a seguir.
+    A prestação de benefícios e serviços da previdência social será garantida ao
+    cônjuge supérstite, desde que este comprove a dependência econômica do
+    cônjuge segurado que tiver falecido.
+    ( ) Certo
+    ( ) Errado
+
+    24. (CESPE - Analista Judiciário - TRT 7ª Região – 2017) (QUESTÃO ADAPTADA).
+    João, segurado obrigatório no RGPS, é casado com Fabiana, pelo regime da
+    separação total de bens, com quem tem dois filhos, Marcos, de dezesseis anos
+    de idade, e Felipe, de vinte e cinco anos de idade, portador de deficiência mental
+    grave desde criança.
+    Nessa situação hipotética, à luz da Lei n.º 8.213/1991, considera(m)-se
+    dependente(s) previdenciário(s) de João: Fabiana, Marcos e Felipe.
+    ( ) Certo
+    ( ) Errado
+
+    25. (CESPE - Juiz Federal - TRF 1ª Região – 2015) (QUESTÃO ADAPTADA). Com
+    relação aos beneficiários do RGPS, julgue o item a seguir:
+    Para efeitos previdenciários, presume-se que o filho e o enteado com menos de
+    vinte e um anos são economicamente dependentes do segurado.
+    ( ) Certo
+    ( ) Errado
+
+    26. (CESPE - Defensor Público do Distrito Federal – 2013). Acerca do RGPS,
+    julgue o item a seguir.
+    É presumida a dependência econômica do filho com mais de dezoito anos e
+    menos de vinte e um anos de idade em relação ao segurado da previdência
+    social, não sendo necessária a comprovação dessa dependência para que ele se
+    torne beneficiário do RGPS na condição de dependente do segurado.
+    ( ) Certo
+    ( ) Errado
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   113
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    27. (CESPE - Defensor Público Federal - 2017). A respeito da condição de
+    segurados e dependentes no RGPS e da fonte de custeio desse regime, julgue
+    o item subsequente.
+    Para efeito de concessão de benefício aos dependentes, a dependência
+    econômica dos genitores do segurado é considerada presumida.
+    ( ) Certo
+    ( ) Errado
+
+
+    28. (CESPE - Analista de Administração Pública - TC-DF - 2014). No que se refere
+    ao regime geral de previdência social, julgue o item a seguir.
+    É presumida, por força de lei, a dependência econômica dos pais do segurado
+    para fins de atribuição da qualidade de dependentes.
+    ( ) Certo
+    ( ) Errado
+
+
+    29. (CESPE - Auditor Fiscal do Trabalho – 2013). No que se refere às normas que
+    regulamentam a condição de dependente no RGPS, julgue o item subsequente.
+    Apesar de integrarem a segunda classe de dependentes, os pais poderão fazer
+    jus ao recebimento de pensão por morte, desde que comprovem a dependência
+    econômica do segurado a eles, ainda que existam dependentes que integrem a
+    primeira classe.
+    ( ) Certo
+    ( ) Errado
+
+
+    30. (CESPE - Auditor Governamental - CGE PI –2015). A respeito do regime
+    geral de previdência social, julgue o item a seguir.
+    A dependência econômica do irmão menor de vinte e um anos de idade na
+    condição de dependente do segurado é presumida para fins de obtenção de
+    benefício previdenciário.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   114
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    31. (CESPE - Analista Judiciário - TRT 10ª Região – 2013). O item a seguir
+    apresenta uma situação hipotética, seguida de uma assertiva a ser julgada com
+    base nas disposições do direito previdenciário.
+    José, com dezesseis anos de idade, não emancipado, vive às expensas de seu
+    irmão mais velho, João, que é segurado da previdência social. Nessa situação,
+    José é considerado beneficiário do regime geral da previdência social, na
+    condição de dependente de João.
+    ( ) Certo
+    ( ) Errado
+
+    32. (FCC - Analista Judiciário (TST)/Judiciária/2012). São beneficiários do Regime
+    Geral da Previdência Social, na condição de dependentes do segurado:
+    a) os ascendentes até o terceiro grau, desde que comprovada a dependência
+    econômica.
+    b) o irmão até completar 18 anos ou inválido, independentemente de
+    comprovação da dependência econômica.
+    c) o menor tutelado independentemente de comprovação da dependência
+    econômica.
+    d) o cônjuge e a companheira, desde que comprovada a dependência
+    econômica.
+    e) o filho não emancipado inválido independentemente de comprovação de
+    dependência econômica.
+
+    33. (FCC - Analista Judiciário (TRT 6ª Região)/Judiciária/"Sem
+    Especialidade"/2012). Nos termos da Lei no 8.213/1991, NÃO são beneficiários
+    do Regime Geral de Previdência Social, na condição de dependentes do
+    segurado:
+    a) os seus pais.
+    b) o seu irmão inválido de 30 anos.
+    c) o seu irmão não emancipado menor de 21 anos.
+    d) o companheiro que mantém união estável.
+    e) o enteado menor ainda que não comprovada a dependência econômica do
+    segurado.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   115
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    34. (FCC - Procurador Autárquico – MANAUSPREV – 2015). Após o falecimento
+    de Isis, seus familiares procuraram a Previdência Social a fim de requerer os
+    benefícios como dependentes do de cujus. Nessa situação, a dependência
+    econômica não será presumida, devendo ser comprovada para:
+    a) filho inválido com 30 anos.
+    b) companheiro que mantinha união estável com a segurada.
+    c) enteado menor de 21 anos.
+    d) filho não emancipado de 19 anos.
+    e) cônjuge.
+
+    35. (FCC - Auditor - TCE-CE – 2015). Afrodite é segurada do Regime Geral da
+    Previdência Social. Mantém união estável como entidade familiar com Thor e
+    possui um filho Hermes de 27 anos. Em sua residência também habitam o seu
+    pai Ulisses de 64 anos e a sua irmã Medusa, não emancipada, de 17 anos.
+    Considerando as regras contidas no Plano de Benefícios da Previdência Social,
+    será considerado segurado de primeira classe e será presumida a dependência
+    econômica, respectivamente, de
+    a) Thor e Thor.
+    b) Thor e Ulisses.
+    c) Ulisses e Medusa.
+    d) Hermes e Medusa.
+    e) Hermes e Hermes.
+
+    36. (FCC - Procurador do Tribunal de Contas do Município do Rio de Janeiro –
+    2015). Dependente é toda pessoa física filiada ao Regime Geral da Previdência
+    Social em razão do seu vínculo com o segurado principal. Quanto aos
+    dependentes, não é necessária a comprovação dessa condição, em razão de
+    presunção legal de dependência econômica:
+    a) os filhos, enteados e tutelados até 25 anos de idade.
+    b) os pais desde que inválidos.
+    c) os netos, filhos ou enteados de qualquer idade, desde que universitários.
+    d) os irmãos desde que inválidos.
+    e) o cônjuge, companheiro ou filho não emancipado, menor de 21 anos ou
+    inválido.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   116
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    37. (FCC - Auditor Substituto de Conselheiro do TCM-RJ – 2015). Em relação aos
+    dependentes dos segurados, nos termos previstos no Plano de Benefícios do
+    Regime Geral da Previdência Social,
+    a) os avós constam do rol dos dependentes que têm dependência econômica
+    legalmente presumida.
+    b) são benefícios previstos aos dependentes a pensão por morte, a reabilitação
+    profissional e o salário-maternidade.
+    c) o menor tutelado e o enteado não se equiparam aos filhos para efeitos
+    previdenciários.
+    d) a existência de dependentes de quaisquer das classes exclui do direito às
+    prestações os das classes seguintes.
+    e) os irmãos menores de 21 anos, ainda que emancipados, são dependentes de
+    segunda classe.
+
+
+    38. (FCC - Assessor Jurídico - TCE-PI – 2014). A lei que dispõe sobre o regime
+    geral da previdência social prevê como prestações expressas em benefícios e
+    serviços, devidas apenas aos dependentes dos segurados,
+    a) aposentadoria especial e serviço social.
+    b) salário-família e auxílio-reclusão.
+    c) reabilitação profissional e salário-maternidade.
+    d) pensão por morte e auxílio-reclusão.
+    e) pecúlio e abono de permanência em serviço.
+
+
+    39. (CESPE - Auditor Fiscal do Trabalho – 2013). No que se refere às normas que
+    regulamentam a condição de dependente no RGPS, julgue o item subsequente.
+     O companheiro e a companheira, desde que comprovem a existência de união
+    estável, integram o rol de dependentes da primeira classe, o que lhes permite
+    receber pensão por morte ou auxílio-reclusão, conforme o caso.
+    ( ) Certo
+    ( ) Errado
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   117
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    40. (FCC - Analista Judiciário - TRT 6ª Região)/Judiciária/"Sem
+    Especialidade"/2012). Quanto aos dependentes, são consideradas prestações
+    previdenciárias compreendidas pelo Regime Geral de Previdência Social:
+    a) aposentadoria por invalidez e auxílio-doença.
+    b) auxílio-reclusão e aposentadoria por tempo de contribuição.
+    c) pensão por morte e aposentadoria especial.
+    d) auxílio-reclusão e pensão por morte.
+    e) aposentadoria por idade e auxílio-doença.
+
+    41. (FGV – ANALISTA JUDICIÁRIO – TRF 1a REGIÃO – 2024)
+
+    Segundo a redação atual do Decreto nº 3.048/1999, que versa sobre o Regime Geral de
+    Previdência Social, podem ser dependentes do segurado, exceto nos casos de invalidez ou
+    deficiência intelectual e mental, os filhos não emancipados com idade de no máximo:
+
+    a) 17 anos;
+
+    b) 18 anos;
+
+    c) 19 anos;
+
+    d) 20 anos;
+
+    e) 21 anos.
+
+    42. (FGV – ANALISTA LEGISLATIVO – CÂMARA DOS DEPUTADOS – 2023)
+
+    A Lei nº 8.213/91, ao disciplinar os dependentes para fins previdenciários, estabelece
+    algumas regras e limitações relevantes.
+
+    Diante da referida norma, é correto afirmar que
+
+    a) a companheira ou companheiro somente poderão qualificar- se como dependentes após
+    demonstração, pela via judicial, da união estável.
+
+    b) somente a mãe do segurado falecido poderá postular a pensão por morte, excluído o pai,
+    e desde que provada a dependência econômica.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   118
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    c) irmãos não emancipados, de qualquer condição, menores de 24 anos, poderão obter
+    benefício, desde que cursando ensino médio ou nível superior.
+
+    d) a separação judicial ou de fato implica imediata perda de qualidade do cônjuge ou
+    companheira, salvo expressa manifestação contrária do segurado, em vida.
+
+    e) na hipótese de segurado casado, com convivência simultânea com a cônjuge e concubina,
+    não há a possibilidade de ambas figurarem como dependentes.
+
+    GABARITO GERAL
+
+    1 – ERRADO           2 – ERRADO       3- E                 4 - CERTO           5–B           6–C
+
+
+    7- E                 8 - ERRADO       9 - CERTO            10 - ERRADO         11 - CERTO    12 - CERTO
+
+
+    13 - ERRADO          14 - ERRADO      15 – ERRADO          16 - ERRADO         17 - CERTO    18 - ERRADO
+
+
+    19 - ERRADO          20 - ERRADO      21 – CERTO           22 - CERTO          23 - ERRADO   24 - CERTO
+
+
+    25 - ERRADO          26 - CERTO       27 – ERRADO          28 - ERRADO         29 - ERRADO   30 – ERRADO
+
+
+    31 - CERTO           32 - E           33 - E               34 - C              35 – A        36 - E
+
+
+    37 - D               38 - D           39 – CERTO           40- D               41 - D        42 - E
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                    119
+      www.estrategiaconcursos.com.br                                                                          131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    RESUMO DA AULA
+
+    Dependentes:
+
+                         o Classe I: o cônjuge, a companheira, o companheiro e o filho não
+                              emancipado, de qualquer condição, menor de 21 (vinte e um)
+                              anos ou inválido ou que tenha deficiência intelectual ou mental
+                              ou deficiência grave. Também são dependentes de Classe I os
+                              equiparados a filhos (enteado, menor sob tutela e menor sob
+                              guarda judicial, quando economicamente dependentes do
+                              segurado);
+                         o Classe II: os pais;
+                         o Classe III: o irmão de qualquer condição menor de 21 (vinte e
+                              um) anos ou inválido ou que tenha deficiência intelectual ou
+                              mental ou deficiência grave, nos termos do regulamento.
+
+
+          ✓ Prestações Devidas aos Dependentes
+
+
+            Os dependentes têm direito apenas a dois benefícios previdenciários, quais
+            sejam:
+                 • pensão por morte e
+                 • auxílio-reclusão.
+
+
+            Além destes benefícios, os dependentes também terão direito aos serviços
+            oferecidos pela Previdência Social, conforme segue:
+                 • Habilitação e reabilitação profissional; e
+                 • Serviço Social.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   120
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Dependentes de Classe I (Preferenciais)
+
+          ✓ Cônjuge
+            Consideram-se cônjuges aqueles matrimonialmente vinculados pelo
+            casamento. Assim sendo, cada um dos cônjuges é beneficiário do RGPS, na
+            condição de dependente, em relação ao outro cônjuge, quando estes forem
+            segurados.
+             Como exemplo podemos afirmar que o marido é dependente da esposa, se
+            ela for segurada. Da mesma forma, a esposa será dependente do marido, se
+            ele for segurado.
+            O cônjuge divorciado ou separado judicialmente ou de fato, bem como o ex-
+            companheiro, que recebia pensão de alimentos, concorrerá em igualdade de
+            condições com os dependentes de Classe I.
+
+
+            Súmula 336 – STJ: “A mulher que renunciou aos alimentos na separação judicial tem direito
+            à pensão previdenciária por morte do ex-marido, comprovada a necessidade econômica
+            superveniente.”
+
+            Na hipótese de o segurado estar, na data do seu óbito, obrigado por
+            determinação judicial a pagar alimentos temporários a ex-cônjuge ou a ex-
+            companheiro ou ex-companheira, a pensão por morte será devida pelo prazo
+            remanescente na data do óbito, caso não incida outra hipótese de
+            cancelamento anterior do benefício.
+
+
+          ✓ Companheiros
+            Considera-se companheira ou companheiro a pessoa que, sem ser casada,
+            mantém união estável com o segurado ou com a segurada.
+            Considera-se união estável aquela configurada na convivência pública,
+            contínua e duradoura entre pessoas, estabelecida com intenção de
+            constituição de família, exceto nos casos de impedimento legal de casamento,
+            que também impedem a constituição de união estável.
+            Outrossim, no caso em que um dos companheiros ou ambos sejam separados
+            apenas de fato, tal situação, apesar de impedir casamento, não impedirá a
+            união estável.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício          121
+      www.estrategiaconcursos.com.br                                                                131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            Assim sendo, podemos resumir as condições para que se reste caracterizada
+            a união estável em dois itens:
+                 • convivência pública, contínua e duradoura entre pessoas, estabelecida
+                   com intenção de constituição de família;
+                 • ambos os companheiros sejam solteiros, separados judicialmente,
+                   divorciados, viúvos ou separados de fato.
+
+            Para comprovação de dependência econômica e união estável, exige-se
+            início de prova material contemporânea dos fatos, produzido em período
+            não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+            recolhimento à prisão do segurado, não admitida a prova exclusivamente
+            testemunhal, exceto na ocorrência de motivo de força maior ou caso
+            fortuito, conforme disposto no regulamento.
+
+
+            Obs.: Não é possível o reconhecimento da união estável, bem como dos
+            efeitos previdenciários correspondentes, quando um ou ambos os
+            pretensos companheiros forem menores de 16 anos.
+
+          ✓ Companheiros Homossexuais
+            No âmbito do Regime Geral de Previdência Social - RGPS, as normas que
+            tratam de dependentes para fins previdenciários devem ser interpretadas de
+            forma a abranger a união estável entre pessoas do mesmo sexo.
+            O companheiro ou a companheira do mesmo sexo de segurado inscrito no
+            RGPS integra o rol dos dependentes e, desde que comprovada a união
+            estável, concorre com os dependentes preferenciais (dependentes de Classe
+            I), para fins de recebimento de pensão por morte e de auxílio-reclusão,
+            independentemente de comprovação de
+
+
+          ✓ Concubinato
+            Considera-se concubinato a relação não eventual entre pessoas, impedidas de
+            casar. Trata-se de uma relação impedida e que não pode ser considerada
+            como entidade familiar. No entanto, exclui-se da noção de concubinato a
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   122
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+             relação de pessoas separadas judicialmente ou de fato que, apesar de serem
+             impedidas para novo casamento, podem estabelecer união estável, conforme
+             previsão expressa em lei.
+             Também se considera concubino(a) a pessoa com quem o cônjuge adúltero
+             tem encontros periódicos fora do lar.
+             A doutrina e a jurisprudência consideram as relações de concubinato excluídas
+             do conceito de união estável, por considerá-las ilegítimas, não alcançando a
+             proteção do Estado.
+
+
+          ✓ Filhos
+             Os filhos também estão incluídos no rol de dependentes de Classe I
+             (dependentes preferenciais), quando não emancipados, de qualquer
+             condição, quando menores de 21 anos ou, em qualquer idade, quando
+             inválidos ou que tenha deficiência intelectual, mental ou deficiência grave.
+             Muitos alunos costumam confundir a dependência dos filhos para efeitos
+             previdenciários com a dependência para efeito de imposto de renda. Os filhos
+             que tenham entre 21 e 24 anos, quando universitários ou estejam cursando
+             escola técnica de 2º grau, apesar de dependentes para efeito de imposto de
+             renda, não são considerados dependentes para efeitos previdenciários.
+             O filho maior de 21 anos somente manterá a condição de dependente quando
+             inválido ou se tiver deficiência intelectual, mental ou deficiência grave.
+             Outro ponto que costuma causar confusão ocorreu após a redução da
+             maioridade promovida pelo Novo Código Civil, de 21 anos para 18 anos, para
+             aquisição de plena capacidade civil. Essa redução de maioridade civil para 18
+             anos em nada altera a idade dos filhos, equiparados a filhos e irmãos para fins
+             previdenciários, que manterão a qualidade de dependente, quando não
+             emancipados, até completar 21 anos de idade.
+             A emancipação, cujo conceito jurídico é a aquisição de capacidade civil antes
+             da idade mínima definida em lei, ou seja, é a aptidão para exercer, por si só,
+             os atos da vida civil, poderá antecipar a perda da qualidade de dependente
+             para idades anteriores a 21 anos. Vejamos abaixo as causas de emancipação:
+                 I - pela concessão dos pais, ou de um deles na falta do outro, mediante
+                 instrumento público, independentemente de homologação judicial, ou
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   123
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 por sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos
+                 completos;
+                 II - pelo casamento;
+                 III - pelo exercício de emprego público efetivo;
+                 IV - pela colação de grau em curso de ensino superior;
+                 V - pelo estabelecimento civil ou comercial, ou pela existência de relação
+                 de emprego, desde que, em função deles, o menor com dezesseis anos
+                 completos tenha economia própria.
+             A cota do filho, do enteado, do menor tutelado, do menor sob guarda judicial
+             ou do irmão dependente que se tornar inválido ou pessoa com deficiência
+                                                       ==219a34==
+
+             intelectual, mental ou grave antes de completar vinte e um anos de idade não
+             será extinta se confirmada a invalidez ou a deficiência.
+             A invalidez será reconhecida pela Perícia Médica Federal.
+             A deficiência será reconhecida por meio de avaliação biopsicossocial realizada
+             por equipe multiprofissional e interdisciplinar.
+             Portanto, para efeitos de dependência previdenciária sem limite de idade, a
+             invalidez tem que existir quando o requisito exigido como condição para
+             concessão do benefício for implementado. Assim sendo, a pensão por morte
+             somente será devida ao filho e ao irmão cuja invalidez tenha ocorrido antes
+             da emancipação ou antes de completar a idade de vinte e um anos, desde
+             que reconhecida ou comprovada, pela perícia médica do INSS, a continuidade
+             da invalidez até a data do óbito do segurado.
+
+
+    O exercício de atividade remunerada, inclusive na condição de
+    microempreendedor individual, não impede a concessão ou manutenção da parte
+    individual da pensão do dependente com deficiência intelectual ou mental ou com
+    deficiência grave.
+
+
+          ✓ Equiparados a Filhos
+
+             Equiparam-se aos filhos, na condição de dependente de Classe I, o enteado,
+             o menor tutelado e o menor sob guarda (lei 15.108/2025), mediante
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   124
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                declaração do segurado e desde que não possuam condições suficientes
+                para o próprio sustento e educação.
+
+            .
+
+            Enteado: considera-se enteado o filho de seu cônjuge ou companheiro
+            atual, proveniente de um relacionamento anterior.
+
+             Menor tutelado: considera-se tutela um encargo conferido a uma pessoa
+            civilmente capaz, para que esta administre os bens e/ou a conduta de um
+            menor de idade, decorrente de falecimento dos pais ou estes decaírem
+            do poder familiar.
+
+             Menor sob guarda: Situação em que uma criança ou adolescente é
+            confiado a alguém, com autorização judicial, para fins de proteção,
+            assistência e educação. A guarda pode ser provisória ou definitiva, sendo
+            prevista no Estatuto da Criança e do Adolescente.
+
+            Os equipados a filhos, quando cumprirem os requisitos exigidos, estão
+            incluídos no rol de dependentes de Classe I (dependentes preferenciais),
+            desde que sejam menores de 21 anos ou, em qualquer idade, quando
+            inválidos ou que tenha deficiência intelectual, mental ou deficiência grave.
+
+          ✓ Comprovação do Vínculo e Dependência Econômica
+
+            Os dependentes de Classe I, também conhecidos como dependentes
+            preferenciais, em regra, não precisam comprovar dependência econômica,
+            uma vez que tal dependência é presumida.
+
+            Os únicos dependentes de Classe I que precisam comprovar dependência
+            econômica são os equiparados a filhos, conforme segue:
+
+                  • Enteado;
+                  • Menor sob tutela;
+                  • Menor sob guarda judicial.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   125
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            No caso dos demais dependentes de Classe I, mesmo que possuam bens
+            suficientes para garantir seu sustento e educação e não dependam
+            economicamente do segurado, farão jus às prestações previdenciárias na
+            qualidade de dependentes.
+
+            Para comprovação do vínculo e da dependência econômica, conforme o caso,
+            deverão ser apresentados, no mínimo, dois documentos, os quais deverão ser
+            contemporâneos dos fatos, produzidos em período não superior aos vinte e
+            quatro meses anteriores à data do óbito ou do recolhimento à prisão do
+            segurado, não admitida a prova exclusivamente testemunhal, exceto na
+            ocorrência de motivo de força maior ou caso fortuito.
+
+            Para comprovação de dependência econômica ou união estável, exige-se
+            início de prova material contemporânea dos fatos, produzido em período
+            não superior a 24 (vinte e quatro) meses anterior à data do óbito ou do
+            recolhimento à prisão do segurado, não admitida a prova exclusivamente
+            testemunhal, exceto na ocorrência de motivo de força maior ou caso
+            fortuito, conforme disposto no regulamento.
+
+            Será excluído definitivamente da condição de dependente quem tiver
+            sido condenado criminalmente por sentença com trânsito em julgado,
+            como autor, coautor ou partícipe de homicídio doloso, ou de tentativa
+            desse crime, cometido contra a pessoa do segurado, ressalvados os
+            absolutamente incapazes e os inimputáveis.
+
+    Dependentes de Classe II (Pais)
+
+          ✓ Pais
+
+            Os pais (pai e a mãe) do segurado são seus dependentes de Classe II.
+
+            Importante lembrar que os dependentes de Classe II somente terão direito às
+            prestações previdenciárias (benefícios e serviços) caso não exista nenhum
+            dependente de Classe I (preferencial), uma vez que a existência de
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   126
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+            dependente de qualquer das classes anteriores exclui do direito às prestações
+            os das classes seguintes.
+
+          ✓ Comprovação do Vínculo e Dependência Econômica
+
+            Para fins de concessão de benefícios previdenciários, os pais (dependentes de
+            Classe II) devem comprovar dependência econômica, bem como a
+            inexistência de dependentes de Classe I (preferenciais).
+
+    Dependentes de Classe III (Irmãos)
+
+          ✓ Irmãos
+
+            Os irmãos são dependentes de Classe III, quando não emancipados, de
+            qualquer condição, quando menores de 21 anos ou, em qualquer idade,
+            quando inválidos ou que tenha deficiência intelectual, mental ou deficiência
+            grave.
+
+            Importante lembrar que os dependentes de Classe III somente terão direito
+            às prestações previdenciárias (benefícios e serviços) caso não exista qualquer
+            dependente de Classe I (preferenciais), nem tampouco qualquer dependente
+            de Classe II, uma vez que a existência de dependente de qualquer das classes
+            anteriores exclui do direito às prestações os das classes seguintes.
+
+          ✓ Comprovação do Vínculo e Dependência Econômica
+
+            Como vimos, para fins de concessão de benefícios previdenciários, os irmãos
+            (dependentes de Classe III) devem comprovar dependência econômica, bem
+            como a inexistência de dependentes de Classe I (preferenciais) e de Classe II.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   127
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    Regras aplicáveis aos Dependentes
+
+           Em relação aos dependentes, temos algumas regras básicas para que sejam
+           considerados beneficiários do RGPS, conforme segue:
+
+                 • A existência de dependente de qualquer das classes exclui do direito
+                   às
+
+                 • Os dependentes de uma mesma classe concorrem em igualdade de
+                   condições. Assim sendo, os benefícios dos dependentes (pensão por
+                   morte e auxílio-reclusão), quando devidos, serão divididos em cotas
+                   iguais entre cada um dos dependentes.
+
+                 • Equiparam-se aos filhos, mediante declaração escrita do segurado, e
+                   comprovada a dependência econômica, exclusivamente o enteado, o
+                   menor que esteja sob sua tutela e o menor sob guarda judicial.
+
+                 • O menor sob tutela somente poderá ser equiparado aos filhos do
+                   segurado mediante apresentação de termo de tutela.
+
+                 • Considera-se companheira ou companheiro a pessoa que mantenha
+                   união estável com o segurado ou segurada.
+
+                 • A dependência econômica dos dependentes de Classe I é presumida
+                   e a das demais deve ser comprovada.
+
+
+    Perda da Qualidade de Dependente
+
+           A perda da qualidade de dependente ocorre:
+
+                 • para o cônjuge, pela separação judicial ou divórcio, enquanto não lhe
+                   for assegurada a prestação de alimentos, pela anulação do casamento,
+                   pelo óbito ou por sentença judicial transitada em julgado;
+
+                 • para a companheira ou companheiro, pela cessação da união estável
+                   com o segurado ou segurada, enquanto não lhe for garantida a
+                   prestação de alimentos;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   128
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 • ao completar vinte e um anos de idade, para o filho, o irmão, o
+                   enteado, o menor tutelado ou o menor sob guarda judicial, ou nas
+                   seguintes hipóteses, se ocorridas anteriormente a essa idade:
+
+                         o casamento;
+                         o início do exercício de emprego público efetivo;
+                         o constituição de estabelecimento civil ou comercial ou pela
+                           existência de relação de emprego, desde que, em função deles,
+                           o menor com dezesseis anos completos tenha economia própria;
+                           ou
+                         o concessão de emancipação, pelos pais, ou por um deles na falta
+                           do outro, por meio de instrumento público, independentemente
+                           de homologação judicial, ou por sentença judicial, ouvido o tutor,
+                           se o menor tiver dezesseis anos completos.
+
+                 • para os dependentes em geral:
+
+                         o pela cessação da invalidez ou da deficiência intelectual, mental ou
+                           grave; ou
+                         o pelo falecimento.
+
+           Também será excluído definitivamente da condição de dependente aquele
+           que tiver sido condenado criminalmente por sentença transitada em julgado,
+           como autor, coautor ou partícipe de homicídio doloso, ou de tentativa desse
+           crime, cometido contra a pessoa do segurado, ressalvados os absolutamente
+           incapazes e os inimputáveis.
+
+    Inscrição dos Dependentes
+
+           A inscrição do dependente do segurado será promovida quando do
+           requerimento do benefício a que tiver direito, mediante a apresentação dos
+           seguintes documentos:
+
+                 • para os dependentes preferenciais
+                     o cônjuge e filhos: certidões de casamento e de nascimento;
+                     o companheira ou companheiro: documento de identidade e
+                        certidão de casamento com averbação da separação judicial ou
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   129
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                        divórcio, quando um dos companheiros ou ambos já tiverem sido
+                        casados, ou de óbito, se for o caso; e
+                     o equiparado a filho (enteado, menor sob tutela e menor sob
+                        guarda judicial): certidão judicial de tutela ou guarda e, em se
+                        tratando de enteado, certidão de casamento do segurado e de
+                        nascimento do dependente.
+                 • pais: certidão de nascimento do segurado e documentos de
+                   identidade dos mesmos; e
+                 • irmão: certidão de nascimento.
+
+           Assim sendo, não há inscrição prévia de dependente. Somente quando do
+           requerimento do benefício de pensão por morte ou auxílio-reclusão é que os
+           dependentes deverão comprovar sua qualidade de dependente.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   130
+      www.estrategiaconcursos.com.br                                                         131
+
+                                   
+
+
+---
+
+---

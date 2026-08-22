@@ -1,0 +1,1357 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 17_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: IMPROBIDADE
+artigos_citados:
+- Art. 1º
+- Art. 21
+- Art. 9
+- art. 1
+- art. 11
+- art. 24
+- art. 8
+- art. 8º-A
+sumulas_citadas:
+- SV 13
+---
+
+# IMPROBIDADE
+
+IMPROBIDADE
+                             ADMINISTRATIVA
+                                        (Lei 8.429/1992,
+                              com redação dada pela Lei 14.230/2021)
+                                                                            Prof. Antonio Daud
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                       
+
+
+---
+
+NOÇÕES INTRODUTÓRIAS
+
+     
+
+
+---
+
+                Noção de (im)probidade Administrativa
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                         Improbidade Administrativa na CF
+
+                                                          Ressarcimento ao erário
+
+                                                       Indisponibilidade dos bens
+    atos de
+  Improbidade                importarão            Suspensão dos direitos políticos
+  administrativa
+                                                          Perda da função pública
+
+                                     sem prejuízo da ação penal cabível
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                      
+
+
+---
+
+LEI 14.230/2021
+
+  
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+ 1) É necessária a comprovação de responsabilidade subjetiva para a tipificação dos
+ atos de improbidade administrativa, exigindo-se — nos artigos 9º, 10 e 11 da LIA
+ — a presença do elemento subjetivo — dolo;
+ 2) A norma benéfica da Lei 14.230/2021 — revogação da modalidade culposa do
+ ato de improbidade administrativa —, é irretroativa, em virtude do artigo 5º, inciso
+ XXXVI [proteção à coisa julgada], da Constituição Federal, não tendo incidência em
+ relação à eficácia da coisa julgada; nem tampouco durante o processo de execução
+ das penas e seus incidentes;
+ 3) A nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa
+ culposos praticados na vigência do texto anterior da lei, porém sem condenação
+ transitada em julgado, em virtude de sua revogação expressa do texto anterior;
+ devendo o juízo competente analisar eventual dolo por parte do agente;
+ 4) O novo regime prescricional previsto na Lei 14.230/2021 é irretroativo aplicando-
+ se os novos marcos temporais a partir da publicação da lei.
+Improbidade Administrativa
+Prof. Antonio Daud                                                  ARE 843.989 (tema 1.199) - 18/8/2022
+                               
+
+
+---
+
+                                                            é irretroativa
+   norma benéfica                                                     condenações transitadas
+       da Lei                                                              em julgado
+    14.230/2021              não incide sobre                           execução das penas
+
+                                                             culposos
+   lei 14.230/2021            aos atos de                                     sem condenação
+                                                           praticados           transitada em
+       aplica-se             improbidade                  antes de sua             julgado
+                                                           publicação
+
+        regime                                              é irretroativo
+   prescricional da
+    Lei 14.230/21             aplica-se os marcos temporais ocorridos a partir da
+                                               publicação da lei
+Improbidade Administrativa
+Prof. Antonio Daud
+                                 
+
+
+---
+
+SUJEITOS ATIVO & PASSIVO
+
+       
+
+
+---
+
+                      Sujeitos dos atos de improbidade
+
+
+                                                             Entes da Administração
+                                                                     Pública
+                              Passivo
+                                                             Determinadas entidades
+                                                                    privadas
+     Sujeitos
+                                                                 Agentes públicos e
+                                                                   equiparados
+                              Ativo                         Particulares que atuaram
+                                                              em conjunto com o
+                                                                 agente público
+Improbidade Administrativa
+Prof. Antonio Daud
+                                 
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                             Agente público
+                              (sentido amplo)
+    sujeitos ativos
+
+                      equiparado a agente público,                         convênio, contrato de repasse ou ajuste
+                             pela celebração de                                         equivalente
+
+                                                                                         INDUZIDO à prática do ato
+                                                                                             de improbidade
+                                                                        desde que
+                                Particular                                                             ou
+                                                                          tenha
+                                                                                               CONCORRIDO
+                                                                                           dolosamente para o ato
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                             
+
+
+---
+
+                             Sujeitos Ativos: agentes públicos
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                             Sujeitos ativos impróprios
+
+                                                                          induzir
+                              Atuação conjunta com
+                                 agente público                          concorrer
+                                                                        dolosamente
+
+        Particulares          inviável a propositura de ação de improbidade
+                               “
+
+                             administrativa exclusivamente contra o particular”
+
+
+                                             PF ou PJ
+
+
+                                     “no que couber”
+Improbidade Administrativa
+Prof. Antonio Daud
+                                   
+
+
+---
+
+#anota aí
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+ATOS DE IMPROBIDADE
+  ADMINISTRATIVA
+
+     
+
+
+---
+
+                              importam enriquecimento
+                                                                        art. 9º
+                                       ilícito
+
+Categorias de atos
+ de Improbidade               causam prejuízo ao erário                 art. 10
+  Administrativa
+
+                             atentam contra os princípios
+                                                                        art. 11
+                               da administração pública
+Improbidade Administrativa
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                                                  enriquecimento ilícito
+                                                                           (art. 9º)
+
+
+  Elemento subjetivo                                              violação aos princípios
+  para aplicação das         DOLO                                         (art. 11)
+    sanções da LIA
+
+                                                                    prejuízo ao erário
+                                                                         (art. 10)
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+            Atos que importam enriquecimento ilícito
+    Art. 9° Constitui ato de improbidade administrativa importando em enriquecimento ilícito auferir, mediante
+    a prática de ato doloso, qualquer tipo de vantagem patrimonial indevida em razão do exercício de
+    cargo, de mandato, de função, de emprego ou de atividade nas entidades referidas no art. 1º desta Lei, e
+    notadamente:
+
+    I - receber, para si ou para outrem, dinheiro, bem móvel ou imóvel, ou qualquer outra vantagem
+    econômica, direta ou indireta, a título de comissão, percentagem, gratificação ou presente de quem
+    tenha interesse, direto ou indireto, que possa ser atingido ou amparado por ação ou omissão decorrente
+    das atribuições do agente público;
+
+    II - perceber vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de
+    bem móvel ou imóvel, ou a contratação de serviços pelas entidades referidas no art. 1° por preço
+    superior ao valor de mercado;
+
+    III - perceber vantagem econômica, direta ou indireta, para facilitar a alienação, permuta ou locação de
+    bem público ou o fornecimento de serviço por ente estatal por preço inferior ao valor de mercado;
+Improbidade Administrativa
+Prof. Antonio Daud
+                                         
+
+
+---
+
+       Atos que importam enriquecimento ilícito
+  IV - utilizar, em obra ou serviço particular, qualquer bem móvel, de propriedade ou à disposição de
+  qualquer das entidades referidas no art. 1º desta Lei, bem como o trabalho de servidores, de
+  empregados ou de terceiros contratados por essas entidades;
+
+
+  V - receber vantagem econômica de qualquer natureza, direta ou indireta, para tolerar a exploração ou
+  a prática de jogos de azar, de lenocínio, de narcotráfico, de contrabando, de usura ou de qualquer outra
+  atividade ilícita, ou aceitar promessa de tal vantagem;
+
+
+  VI - receber vantagem econômica de qualquer natureza, direta ou indireta, para fazer declaração falsa
+  sobre qualquer dado técnico que envolva obras públicas ou qualquer outro serviço ou sobre quantidade,
+  peso, medida, qualidade ou característica de mercadorias ou bens fornecidos a qualquer das entidades
+  referidas no art. 1º desta Lei;
+
+    VII - adquirir, para si ou para outrem, no exercício de mandato, de cargo, de emprego ou de função
+    pública, e em razão deles, bens de qualquer natureza, decorrentes dos atos descritos no caput deste
+Improbidade Administrativa
+    artigo, cujo valor seja desproporcional à evolução do patrimônio ou à renda do agente público,
+Prof. Antonio Daud
+    assegurada a demonstração pelo agente           da licitude da origem dessa evolução;
+                                         
+
+
+---
+
+            Atos que importam enriquecimento ilícito
+    VIII - aceitar emprego, comissão ou exercer atividade de consultoria ou assessoramento para pessoa
+    física ou jurídica que tenha interesse suscetível de ser atingido ou amparado por ação ou omissão
+    decorrente das atribuições do agente público, durante a atividade;
+
+
+    IX - perceber vantagem econômica para intermediar a liberação ou aplicação de verba pública de
+    qualquer natureza;
+
+
+    X - receber vantagem econômica de qualquer natureza, direta ou indiretamente, para omitir ato de
+    ofício, providência ou declaração a que esteja obrigado;
+
+    XI - incorporar, por qualquer forma, ao seu patrimônio bens, rendas, verbas ou valores integrantes do
+    acervo patrimonial das entidades mencionadas no art. 1° desta lei;
+
+
+    XII - usar, em proveito próprio, bens, rendas, verbas ou valores integrantes do acervo patrimonial das
+Improbidade Administrativa
+    entidades mencionadas no art. 1° desta lei.
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                  Atos que importam prejuízo ao erário
+
+                atos de improbidade que causam prejuízo ao
+                                  erário
+
+                                                                         dano efetivo e
+                             dolo                       +
+                                                                         comprovado
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                    
+
+
+---
+
+       Atos que importam prejuízo ao erário
+Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão
+dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou
+dilapidação dos bens ou haveres das entidades referidas no art. 1º desta Lei, e notadamente:
+
+I - facilitar ou concorrer, por qualquer forma, para a indevida incorporação ao patrimônio particular, de
+pessoa física ou jurídica, de bens, de rendas, de verbas ou de valores integrantes do acervo patrimonial das
+entidades referidas no art. 1º desta Lei;
+
+II - permitir ou concorrer para que pessoa física ou jurídica privada utilize bens, rendas, verbas ou valores
+integrantes do acervo patrimonial das entidades mencionadas no art. 1º desta lei, sem a observância das
+formalidades legais ou regulamentares aplicáveis à espécie;
+
+III - doar à pessoa física ou jurídica bem como ao ente despersonalizado, ainda que de fins educativos ou
+assistências, bens, rendas, verbas ou valores do patrimônio de qualquer das entidades mencionadas no art. 1º
+desta lei, sem observância das formalidades legais e regulamentares aplicáveis à espécie;
+
+IV - permitir ou facilitar a alienação, permuta ou locação de bem integrante do patrimônio de qualquer das
+entidades referidas no art. 1º desta lei, ou ainda a prestação de serviço por parte delas, por preço inferior ao
+de mercado;
+
+V  - permitir ou facilitar a aquisição, permuta ou locação de bem ou serviço por preço superior ao de
+Improbidade Administrativa
+mercado;
+Prof. Antonio Daud
+                                        
+
+
+---
+
+     Atos que importam prejuízo ao erário
+VI - realizar operação financeira sem observância das normas legais e regulamentares ou
+aceitar garantia insuficiente ou inidônea;
+
+
+VII - conceder benefício administrativo ou fiscal sem a observância das formalidades
+legais ou regulamentares aplicáveis à espécie;
+
+VIII - frustrar a licitude de processo licitatório ou de processo seletivo para celebração
+de parcerias com entidades sem fins lucrativos, ou dispensá-los indevidamente,
+acarretando perda patrimonial efetiva;
+
+IX - ordenar ou permitir a realização de despesas não autorizadas em lei ou
+regulamento;
+
+
+X - agir ilicitamente na arrecadação de tributo ou de renda, bem como no que diz
+Improbidade Administrativa
+respeito à conservação do patrimônio público;
+Prof. Antonio Daud
+                                
+
+
+---
+
+                               concurso
+                                público                                         violação a
+                                                                                 princípio
+                                                                  sem perda
+         fraude a                                                 patrimonial
+                                                                    efetiva
+                              licitação ou
+                             chamamento
+                                                                  com perda
+                                                                  patrimonial   prejuízo ao
+                                                                    efetiva       erário
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                 
+
+
+---
+
+   Atos que importam prejuízo ao erário
+XI - liberar verba pública sem a estrita observância das normas pertinentes ou influir de
+qualquer forma para a sua aplicação irregular;
+
+
+XII - permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitamente;
+
+XIII - permitir que se utilize, em obra ou serviço particular, veículos, máquinas, equipamentos ou
+material de qualquer natureza, de propriedade ou à disposição de qualquer das entidades
+mencionadas no art. 1° desta lei, bem como o trabalho de servidor público, empregados ou
+terceiros contratados por essas entidades.
+
+
+XIV – celebrar contrato ou outro instrumento que tenha por objeto a prestação de serviços
+públicos por meio da gestão associada sem observar as formalidades previstas na lei;
+
+
+XV – celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação
+Improbidade Administrativa
+orçamentária,
+Prof. Antonio Daud
+                           ou sem observar as formalidades previstas na lei.
+                                   
+
+
+---
+
+                     Atos que importam prejuízo ao erário
+
+ XVI - facilitar ou concorrer, por qualquer forma, para a incorporação, ao patrimônio
+ particular de pessoa física ou jurídica, de bens, rendas, verbas ou valores públicos
+ transferidos pela administração pública a entidades privadas mediante celebração
+ de parcerias, sem a observância das formalidades legais ou regulamentares
+ aplicáveis à espécie;
+....
+ XIX - agir para a configuração de ilícito na celebração, na fiscalização e na análise
+ das prestações de contas de parcerias firmadas pela administração pública com
+ entidades privadas
+...
+  XXII - conceder, aplicar ou manter benefício financeiro ou tributário contrário ao
+  que dispõem o caput e o § 1º do art. 8º-A da Lei Complementar nº 116, de 31 de
+  julho de
+Improbidade      2003
+            Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+ Art. 10, § 1º Nos casos em que a inobservância de formalidades legais ou
+ regulamentares não implicar perda patrimonial efetiva, não ocorrerá imposição de
+ ressarcimento, vedado o enriquecimento sem causa das entidades referidas no art.
+ 1º desta Lei.
+
+ § 2º A mera perda patrimonial decorrente da atividade econômica não acarretará
+ improbidade administrativa, salvo se comprovado ato doloso praticado com essa
+ finalidade.
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+ Atos que atentam contra os princípios da
+          administração pública
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+    Art. 11, § 4º Os atos de improbidade de que trata este artigo exigem lesividade
+    relevante ao bem jurídico tutelado para serem passíveis de sancionamento e
+    independem do reconhecimento da produção de danos ao erário e de
+    enriquecimento ilícito dos agentes públicos.
+
+    § 3º O enquadramento de conduta funcional na categoria de que trata este
+    artigo pressupõe a demonstração objetiva da prática de ilegalidade no
+    exercício da função pública, com a indicação das normas constitucionais, legais
+    ou infralegais violadas.
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                                                         dolo
+                                     dependem de
+                                                                  lesividade relevante
+ atos de improbidade que
+     violam princípios                                            produção de danos
+                                                                      ao erário
+                                    não dependem
+                                          de                       enriquecimento
+                                                                   ilícito do agente
+                                                                         público
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+ Atos que atentam contra os princípios da
+          administração pública
+
+
+                                                                 frustrar caráter
+  revelar fato que                                              concorrencial de
+                             negar publicidade                                       deixar de prestar
+deva permanecer em                                             concurso público,
+                              aos atos oficiais                                           contas
+      segredo                                                   chamamento ou
+                                                                 proc. licitatório
+
+
+                             descumprir sobre                                            promover
+      revelar teor de                                               Nepotismo
+                               parcerias da                                          personalização de
+         medida                                                           (SV 13)
+                              administração                                          obras (CF, art. 37, §1º)
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                                                                                                    cônjuge ou
+                                                                                                   companheiro
+                                                            nomeação de
+                                                                                               parente de até 3º
+                               é ato de                                                              grau
+                             improbidade                                                              cargo em
+                                                                                                      comissão
+                                                                    para
+        nepotismo                                                                                    função de
+                                                                                                     confiança
+                             não é ato de                      mera indicação/nomeação política
+                             improbidade                                (necessário: dolo com finalidade ilícita)
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                             Tipos revogados
+
+             Hipóteses revogadas pela Lei 14.230
+             • deixar de cumprir a exigência de requisitos de acessibilidade previstos
+               na legislação
+             • transferir recurso a entidade privada, em razão da prestação de
+               serviços na área de saúde sem a prévia celebração de contrato,
+               convênio ou instrumento congênere
+             • praticar ato visando fim proibido em lei ou regulamento ou diverso
+               daquele previsto, na regra de competência
+             • retardar ou deixar de praticar, indevidamente, ato de ofício
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                     
+
+
+---
+
+ Atos que atentam contra os princípios da
+          administração pública
+ Art. 11. Constitui ato de improbidade administrativa que atenta contra os princípios da
+ administração pública a ação ou omissão dolosa que viole os deveres de honestidade, de
+ imparcialidade e de legalidade, caracterizada por uma das seguintes condutas:
+
+
+ I - praticar ato visando fim proibido em lei ou regulamento ou diverso daquele previsto, na regra
+ de competência;
+
+
+ II - retardar ou deixar de praticar, indevidamente, ato de ofício;
+
+ III - revelar fato ou circunstância de que tem ciência em razão das atribuições e que deva
+ permanecer em segredo, propiciando beneficiamento por informação privilegiada ou
+ colocando em risco a segurança da sociedade e do Estado
+
+ IV - negar publicidade aos atos oficiais, exceto em razão de sua imprescindibilidade para a
+Improbidade Administrativa
+Prof. Antonio Daud
+ segurança da sociedade e do Estado         ou de outras hipóteses instituídas em lei;
+                                  
+
+
+---
+
+  Atos que atentam contra os princípios
+V - frustrar, em ofensa à imparcialidade, o caráter concorrencial de concurso público, de
+chamamento ou de procedimento licitatório, com vistas à obtenção de benefício próprio,
+direto ou indireto, ou de terceiros;
+VI - deixar de prestar contas quando esteja obrigado a fazê-lo, desde que disponha das
+condições para isso, com vistas a ocultar irregularidades;
+VII - revelar ou permitir que chegue ao conhecimento de terceiro, antes da respectiva
+divulgação oficial, teor de medida política ou econômica capaz de afetar o preço de
+mercadoria, bem ou serviço.
+
+VIII - descumprir as normas relativas à celebração, fiscalização e aprovação de contas de
+parcerias firmadas pela administração pública com entidades privadas.
+
+
+IX - deixar de cumprir a exigência de requisitos de acessibilidade previstos na legislação.
+
+ X - transferir recurso a entidade privada, em razão da prestação de serviços na área de saúde
+ sem a prévia celebração de contrato, convênio ou instrumento congênere, nos termos do
+Improbidade Administrativa
+ parágrafo
+Prof. Antonio Daud único do art. 24 da Lei nº 8.080, de 19 de setembro de 1990.
+                                   
+
+
+---
+
+     Atos que atentam contra os princípios
+
+ XI - nomear cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o
+ terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica
+ investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em
+ comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e
+ indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios,
+ compreendido o ajuste mediante designações recíprocas;
+
+ § 5º Não se configurará improbidade a mera nomeação ou indicação política por parte dos
+ detentores de mandatos eletivos, sendo necessária a aferição de dolo com finalidade ilícita por
+ parte do agente.
+
+XII - praticar, no âmbito da administração pública e com recursos do erário, ato de publicidade
+que contrarie o disposto no § 1º do art. 37 da Constituição Federal, de forma a promover
+inequívoco enaltecimento do agente público e personalização de atos, de programas, de obras,
+de serviços ou de campanhas dos órgãos públicos.
+Improbidade Administrativa
+Prof. Antonio Daud
+                                   
+
+
+---
+
+PENALIDADES
+
+ 
+
+
+---
+
+                                                                           possibilidade de ser duplicada
+                                  multa
+                                                                            (situação econômica do réu)
+
+                                                             DESCONTA os serviços efetivamente prestados
+ Sanções
+                                                                 DEDUZ o ressarcimento ocorrido em outras
+                                                                                instâncias
+                             ressarcimento ao
+                                   erário
+                                                             possibilidade de parcelamento em até 48 meses
+                                                                        (incapac. financeira do réu)
+
+                                                                    em favor da PJ prejudicada pelo ato de
+                                                                                 improbidade
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                           
+
+
+---
+
+                                                                            regra: apenas o vínculo de mesma
+                                                                            qualidade e natureza da época da
+                               perda da função pública                                   infração
+                                                                       exceção: possibilidade de extensão aos
+                                                                        demais vínculos (enriquecimento ilícito)
+
+Sanções                                                                   regra: alcança apenas o ente lesado
+                             proibição de contratar com o
+                                     poder público
+                                                                         exceção: estender para demais entes
+
+                                suspensão dos direitos                     contagem retroativa entre decisão
+                                      políticos                                    colegiada e TJ
+
+
+Improbidade Administrativa
+                                       máximo de 20 anos (se houver soma com outras condenações)
+Prof. Antonio Daud
+                                               
+
+
+---
+
+                                                                  Multa
+
+                      Atos de menor                     Perda dos bens
+                                                                (se for o caso)
+                         ofensa
+                                              Ressarcimento ao erário (se
+                                                                  for o caso)
+
+                                      Não pode inviabilizar a manutenção das
+                                             atividades da empresa
+            Penalidade
+              à P.J.                Se PJ já foi
+                                                                                  Não aplica sanções
+                                sancionada pela Lei
+                                                                                       da LIA
+                                  Anticorrupção
+Improbidade Administrativa
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                                   perda dos bens ou valores acrescidos ilicitamente
+                                                   ao patrimônio
+          Enriquecimento ilícito
+
+                                   ressarcimento integral do dano (se houver dano efetivo)
+
+                                                 perda da função pública
+Sanções
+
+                                    suspensão dos direitos políticos de até 14 anos
+
+                                       pagamento de multa civil igual ao valor do
+                                               acréscimo patrimonial
+                                                                                             direta ou indiretamente
+                                    proibição de contratar com o Poder Público ou
+                                      receber benefícios ou incentivos fiscais ou            ainda que por intermédio
+                                                                                               de pessoa jurídica da
+                                              creditícios por até 14 anos                         qual seja sócio
+                                                                                                    majoritário
+Improbidade Administrativa
+Prof. Antonio Daud
+                                                        
+
+
+---
+
+                                            perda dos bens ou valores acrescidos
+                                         ilicitamente ao patrimônio (se ocorrer esta
+                                                        circunstância)
+                                      ressarcimento integral do dano (se houver dano
+                 prejuízo ao erário
+
+                                                             efetivo)
+     Sanções -
+
+                                                 perda da função pública
+                                      suspensão dos direitos políticos de até 12 anos
+                                        pagamento de multa civil igual ao valor do
+                                                   dano ao erário                               direta ou
+                                      proibição de contratar com o Poder Público ou          indiretamente
+                                                                                             ainda que por
+                                        receber benefícios ou incentivos fiscais ou          intermédio de
+                                                creditícios por até 12 anos                 pessoa jurídica da
+                                                                                             qual seja sócio
+Improbidade Administrativa                                                                     majoritário
+Prof. Antonio Daud
+                                                       
+
+
+---
+
+                                      ressarcimento integral do dano (se houver dano
+            violação de princípios
+
+                                                          efetivo)
+Sanções -
+
+                                     pagamento de multa civil de até 24 vezes o valor
+                                         da remuneração percebida pelo agente
+                                                                                            direta ou indiretamente
+                                     proibição de contratar com o Poder Público ou
+                                       receber benefícios ou incentivos fiscais ou               ainda que por
+                                           creditícios pelo prazo de até 4 anos             intermédio de pessoa
+                                                                                             jurídica da qual seja
+                                                                                               sócio majoritário
+  Improbidade Administrativa
+  Prof. Antonio Daud
+                                                       
+
+
+---
+
+             Enriquecimento ilícito                   Prejuízo ao erário                 Violação a princípio
+
+                                                                                          multa civil = 24x
+   multa civil = acréscimo patrimonial         multa civil = dano ao erário
+                                                                                           remuneração
+                                                                                    proibição de contratar ou
+   proibição de contratar ou receber        proibição de contratar ou receber
+                                                                                   receber benefícios → até 4
+       benefícios → até 14 anos                 benefícios → até 12 anos
+                                                                                              anos
+
+
+    suspensão dos DP → até 14 anos          suspensão dos DP → até 12 anos                        -
+
+
+                                                Perda dos bens acrescidos
+         Perda dos bens acrescidos
+                                               ilicitamente (se ocorrer esta                      -
+                ilicitamente
+                                                       circunstância)
+
+           perda da função pública               perda da função pública                          -
+
+                               ressarcimento integral do dano (se houver dano efetivo)
+Improbidade Administrativa
+Prof. Antonio Daud
+                                            
+
+
+---
+
+APLICAÇÃO DAS SANÇÕES
+
+      
+
+
+---
+
+                                                                      competência do Poder Judiciário
+
+                                Aplicação                                    “perda da função pública”
+                                                                                          vs.
+
+                                                                                     “demissão”
+
+                                                                                isolada ou cumulativa
+
+
+ Sanções da LIA                                                                  gravidade do fato
+                             Fixação das penas
+                                                                                 extensão do dano
+
+                                                                           proveito patrimonial do infrator
+
+
+                              Execução das
+                                                                   somente após o trânsito em julgado
+                                 penas
+Improbidade Administrativa
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                                                                                  atos que importam
+                                     comprovação                                prejuízo ao erário (art. 10)
+                                     do prejuízo ao                 salvo
+                                         erário                                      condenação a
+                                                                                   ressarcimento ao
+ aplicação                                                                               erário
+    das                    não                                                      (demais categorias)
+sanções da              depende de
+                                       Rejeição ou
+    LIA
+                                     aprovação das                                   atos, provas e
+                                                                       juiz
+                                       contas por                   considera
+                                                                                  decisões dos órgãos
+                                       órgãos de                                      de controle
+                                        controle
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                       
+
+
+---
+
+     Responsabilidade dos herdeiros e sucessores
+
+    LIA, art. 8° O sucessor ou o herdeiro daquele que causar dano ao erário ou
+    que se enriquecer ilicitamente estão sujeitos apenas à obrigação de repará-lo
+    até o limite do valor da herança ou do patrimônio transferido.
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+   Art. 8º-A A responsabilidade sucessória de que trata o art. 8º desta Lei aplica-
+   se também na hipótese de alteração contratual, de transformação, de
+   incorporação, de fusão ou de cisão societária.    (Incluído pela Lei nº 14.230,
+   de 2021)
+
+   Parágrafo único. Nas hipóteses de fusão e de incorporação, a
+   responsabilidade da sucessora será restrita à obrigação de reparação integral
+   do dano causado, até o limite do patrimônio transferido, não lhe sendo
+   aplicáveis as demais sanções previstas nesta Lei decorrentes de atos e de fatos
+   ocorridos antes da data da fusão ou da incorporação, exceto no caso de
+   simulação ou de evidente intuito de fraude, devidamente comprovados.
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                       Independência das instâncias
+
+       Regra geral                      Instâncias independentes e cumulativas
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                 
+
+
+---
+
+    Art. 21, § 5º Sanções eventualmente aplicadas em outras esferas deverão
+    ser compensadas com as sanções aplicadas nos termos desta Lei.
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                  exigido em todas as categorias
+                              dolo é a vontade livre e consciente de           não basta a
+                              alcançar o resultado ilícito tipificado na    voluntariedade do
+                                                LIA                              agente
+                              somente haverá improbidade quando
+                                 for comprovado o fim de obter
+ dolo nos atos                         benefício indevido
+de improbidade
+                                 mero exercício da função, sem
+                                                                                 afasta a
+                               comprovação de ato doloso com fim
+                                                                             responsabilidade
+                                             ilícito
+                                                                              ainda que não
+                                  não configura improbidade a                   pacificada
+                               divergência de interpretação da lei,         mesmo que não seja
+                                    baseada em jurisprudência                 posteriormente
+ Improbidade Administrativa                                                    prevalecente
+ Prof. Antonio Daud
+                                       
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+PROCEDIMENTO
+ADMINISTRATIVO
+                    &
+AÇÃO JUDICIAL
+
+
+  
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                                                       representar à autoridade
+                                Qualquer pessoa
+                                                                      administrativa competente
+
+                                                    - Por escrito ou reduzida a termo + assinatura
+                                                    - Qualificação (não se aceita anônima)
+                                                    - Informações sobre fato e autoria
+                                                    - Indicação das provas
+
+     Procedimento
+     Administrativo                                                      determina a apuração
+                                                                                     ou
+                             Autoridade competente
+                                                                       fundamenta a rejeição da
+                                                                            representação
+                                  Rejeição da
+                                                                     não impede denúncia ao MP
+                                 representação
+
+                              Denunciar quando se
+                                                                                  crime
+Improbidade Administrativa       sabe inocente
+Prof. Antonio Daud
+                                
+
+
+---
+
+                             Procedimento Administrativo
+
+        ❑ Aceita a denúncia (art. 15):
+                 ✓ Autoridade administrativa → informa MP e TC
+                 ✓ Estes podem designar representantes para acompanhar o processo
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                                                                                   Repressiva
+
+                                                                          Caráter sancionatório
+                               Não é ação civil
+                                                                           Vedada p/ controle de
+                                                                       legalidade de política pública,
+                                                                        patrimônio público ou outros
+                                                                          dir. amparáveis por ACP
+
+                                                                                     MP (lei)
+                                legitimidade
+      Ação judicial                                                        P.J. interessada (STF)
+
+                                                               1º grau
+                                Juízo
+                             competente                   Local onde          ou        da P.J.
+                                                        ocorrer o dano                prejudicada
+
+                             Admitido acordo de
+Improbidade Administrativa
+Prof. Antonio Daud           não persecução cível
+                                  
+
+
+---
+
+   Lei 8.429, art. 17. A ação para a aplicação das sanções de que trata esta Lei
+   será proposta pelo Ministério Público e seguirá o procedimento comum
+   previsto na Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil),
+   salvo o disposto nesta Lei
+
+   “restabelecer a existência de legitimidade ativa concorrente e disjuntiva entre o
+   Ministério Público e as pessoas jurídicas interessadas para a propositura da ação por
+   ato de improbidade administrativa e para a celebração de acordos de não
+   persecução civil” (..)
+
+   ADI 7043/2022
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                competência do Poder
+                                     Judiciário
+                             antes ou depois de ingressar
+                                com a ação principal
+                             com ou sem a oitiva prévia do
+                                         réu
+Indisponibilidade
+     de bens                                                                 Recomposição do erário
+                                   Bens p/ garantir                         Perda dos bens acrescidos
+                                                                                   ilicitamente
+
+                                                                                   multa civil
+                                Não alcança valor de                        acréscimo patrimonial por
+                                                                                  atividade lícita
+                             Independe de Representação
+Improbidade Administrativa
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                                                                            risco de dano (PM)
+                                                                        não mais pode ser presumido
+                                   Requisitos
+                                                                       Probabilidade da ocorrência
+                                                                                  (FBI)
+                             Preferência p/ bens com                   Bloqueio de contas bancárias
+ Indisponibilidade                menor liquidez                            só em último caso
+      de bens
+                                                                       Soma não pode superar valor
+                                Mais de um réu
+                                                                              do dano/EI
+
+                                                                        valores em conta de até 40
+                                 não podem ser                                     S.M.
+                                  bloqueados                           bem de família, exceto se for
+                                                                        fruto de vantagem indevida
+Improbidade Administrativa
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                                               autoridade judicial
+
+ afastamento cautelar do
+        acusado                       sem prejuízo da remuneração
+
+
+                                                      90 + 90 dias
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                             Fim da notificação do                    Ato praticado com base em
+                                  requerido                             parecer jurídico prévio
+        Defesa do                                                      Até o trânsito em julgado
+         acusado             Defesa pela assessoria
+                                    jurídica                          Lei: “obrigada a defender”
+                                                                                o agente
+                                                                          STF: “autorizada” a
+                                                                       defendê-lo (lei específica)
+
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                 
+
+
+---
+
+      “não existe “obrigatoriedade de defesa judicial”; havendo, porém, a
+      possibilidade dos órgãos da Advocacia Pública autorizarem a realização dessa
+      representação judicial, por parte da assessoria jurídica que emitiu o parecer
+      atestando a legalidade prévia dos atos administrativos praticados pelo
+      administrador público, nos termos autorizados por lei específica”
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                
+
+
+---
+
+                        Direito Administrativo Sancionador
+
+    Art. 1º, § 4º Aplicam-se ao sistema da improbidade disciplinado nesta Lei
+    os princípios constitucionais do direito administrativo sancionador.
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                  
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+PRESCRIÇÃO NA AÇÃO DE
+    IMPROBIDADE
+
+
+      
+
+
+---
+
+                                                                            ocorrência do fato
+                                  Prazo de 8 anos,
+                                contados a partir da                       Da cessação (infrações
+                                                                                permanentes)
+                             ressarcimento ao erário por
+      Prescrição                                                               imprescritível
+                             ato doloso de improbidade
+                                                                            365 dias + 365 dias
+                                   inquérito civil                          Após tal prazo, ação
+                                                                          proposta em até 30 dias
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                     
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                                              ajuizamento da ação por improbidade
+
+                             interrupção                      publicação da sentença condenatória
+                                                     publicação de acórdão de Tribunal que confirma
+                                                           condenação ou reforma a absolvição
+
+ sustação                                                             instauração de inquérito civil
+    da                                          instauração de processo administrativo para apuração
+                             suspensão
+prescrição                                                           dos ilícitos
+                                                    máximo de 180 dias corridos
+                                               sobre todos os agentes que concorreram para o ato de
+                             efeitos se                            improbidade
+                             estendem             sobre todos os atos de improbidade conexos no
+                                                                 mesmo processo
+Improbidade Administrativa
+Prof. Antonio Daud
+                                           
+
+
+---
+
+                                                                                4 anos
+                                                                             de ofício ou a
+        Prescrição           prescrição intercorrente
+                                                                            requerimento
+                                                                          oitiva prévia do MP
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                     
+
+
+---
+
+DECLARAÇÃO DE BENS
+
+      
+
+
+---
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                             
+
+
+---
+
+                             OBRIGADO
+                              @professordaud
+
+
+                              t.me/professordaud
+
+Improbidade Administrativa
+Prof. Antonio Daud
+                                      
+
+
+---

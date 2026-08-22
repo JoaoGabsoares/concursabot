@@ -1,0 +1,5951 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 11_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 166-A
+- Art. 31
+- Art. 56
+- 'art.
+
+  57'
+- art. 102
+- art. 133
+- art. 44
+- art. 70
+sumulas_citadas:
+- Súmula 347
+- Súmula 653
+- Súmula nº 653
+- Súmula nº 704
+---
+
+# Direito Constitucional
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                            06 de Agosto de 2026
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 10
+
+                                                                                     Índice
+1) Poder Legislativo - Funções, Estrutura, Reuniões e Comissões
+
+
+2) Atribuições do Congresso Nacional (Art. 48 - Art. 50)
+
+
+3) Atribuições da Câmara dos Deputados (Art. 51)
+
+
+4) Atribuições do Senado Federal (Art. 52)
+
+
+5) Estatuto dos Congressistas (Art. 53 - Art. 56)
+
+
+6) Fiscalização Contábil, Financeira e Orçamentária (Art. 70 - Art. 75)
+
+
+7) Questões Comentadas - Poder Legislativo - FGV
+
+
+8) Questões Comentadas - Fiscalização Contábil, Financeira e Orçamentária (art. 70 - art. 75) - FGV
+
+
+9) Lista de Questões - Poder Legislativo - FGV
+
+
+10) Lista de Questões - Fiscalização Contábil, Financeira e Orçamentária (art. 70 - art. 75) - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                          113
+
+                                                             
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+      PODER LEGISLATIVO: FUNÇÕES, ESTRUTURA, REUNIÕES E
+                          COMISSÕES
+Funções do Poder Legislativo
+
+O Poder Legislativo tem duas funções típicas (aquelas que exerce com predominância): a função
+de legislar e a de fiscalizar. A função de legislar consiste na tarefa de elaborar as leis, atos
+normativos que inovam o ordenamento jurídico. Por sua vez, a função de fiscalizar manifesta-se
+no controle externo dos atos dos demais Poderes estatais.
+Ressalte-se que, ao contrário do que alguns podem pensar, as duas funções do Poder Legislativo
+(legislar e fiscalizar) possuem o mesmo grau de importância, não existindo hierarquia entre elas.
+No que diz respeito às funções atípicas, o Poder Legislativo exerce a função administrativa
+quando realiza concurso público para provimento de cargos ou, ainda, quando promove uma
+licitação para compra de material de consumo. Também exerce a função de julgamento, que se
+materializa, por exemplo, quando o Senado Federal processa e julga o Presidente da República
+nos crimes de responsabilidade.
+
+Estrutura e Funcionamento do Poder Legislativo
+
+Funcionamento do Poder Legislativo
+Em nível federal, o Poder Legislativo é bicameral, sendo representado pelo Congresso Nacional,
+que é composto de duas Casas Legislativas (o Senado Federal e a Câmara dos Deputados). O
+Senado Federal é composto por representantes dos Estados e do Distrito Federal (os
+Senadores), ao passo que a Câmara dos Deputados é composta por representantes do povo (os
+Deputados Federais).
+Já em nível estadual e municipal, o Poder Legislativo é unicameral. Nos estados, é exercido pela
+Assembleia Legislativa (integrada pelos Deputados Estaduais), ao passo que nos Municípios é
+exercido pela Câmara Municipal (composta dos Vereadores).
+O Congresso Nacional, em regra, atua por meio da manifestação do Senado e da Câmara em
+separado, de forma autônoma. Cada Casa delibera sobre as proposições de acordo com seu
+respectivo regimento interno, sem subordinação de uma Casa a outra. Daí dizer-se, inclusive, que
+vigora no Brasil o bicameralismo igual.
+Entretanto, em algumas situações previstas na Constituição, haverá o trabalho simultâneo e
+conjunto das Casas, por previsão constitucional. Trata-se da sessão conjunta do Congresso
+Nacional. Nela, as duas Casas Legislativas reúnem-se simultaneamente para deliberar sobre
+matéria de competência do Congresso Nacional, mas deliberam separadamente, com contagem
+de votos dentro de cada Casa.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           3
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+        § 3º - Além de outros casos previstos nesta Constituição, a Câmara dos
+        Deputados e o Senado Federal reunir-se-ão em sessão conjunta para:
+        I - inaugurar a sessão legislativa;
+        II - elaborar o regimento comum e regular a criação de serviços comuns às duas
+        Casas;
+        III - receber o compromisso do Presidente e do Vice-Presidente da República;
+        IV - conhecer do veto e sobre ele deliberar.
+
+
+A inauguração da sessão legislativa e o recebimento do compromisso do Presidente e do
+Vice-Presidente da República são ocasiões solenes, que demandam sessão conjunta do
+Congresso Nacional. Da mesma forma, será realizada sessão conjunta para elaborar o regimento
+comum e regular a criação de serviços comuns às duas Casas, bem como para apreciar o veto
+presidencial a projeto de lei.
+Além dessas hipóteses do art. 57, § 3º, a Constituição também estabelece a necessidade de
+sessão conjunta para:
+       a) Discussão e votação da lei orçamentária, conforme art. 166, CF/88.
+       b) Delegar ao Presidente da República poderes para legislar. O Congresso irá, por meio
+       de Resolução do Congresso Nacional, conceder ao Presidente a competência para editar
+       lei delegada.
+
+        Apesar de o Poder Legislativo da União ser composto por 2 (duas) Casas
+        Legislativas, são 3 (três) os órgãos deliberativos: a Câmara dos Deputados, o
+        Senado Federal e o Congresso Nacional. Nas sessões conjuntas, são exercidas
+        competências próprias do Congresso Nacional.
+
+Não se pode confundir sessão conjunta com sessão unicameral. Na sessão unicameral, ao
+contrário da sessão conjunta, o Congresso Nacional irá atuar como se fosse uma só Casa, ou seja,
+a contagem dos votos não será feita separadamente em cada Casa. Os votos dos Deputados
+Federais e dos Senadores serão tomados em seu conjunto. O texto constitucional prevê apenas
+uma hipótese de sessão unicameral do Congresso Nacional (ADCT, art. 3º). Trata-se da reunião, já
+realizada, para aprovar emendas constitucionais pelo processo simplificado de revisão, cinco anos
+após a promulgação da Constituição. O Congresso, nesse caso, atuou como se fosse uma só
+Casa.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           4
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Reuniões
+O Congresso Nacional exerce suas atividades ao longo de uma legislatura, cuja duração é de 4
+(quatro) anos, coincidindo com o mandato dos Deputados Federais. Durante uma legislatura,
+ocorrem sessões legislativas ordinárias e sessões legislativas extraordinárias.
+A sessão legislativa ordinária (SLO) está descrita no art. 57, caput, da CF/88, que estabelece que
+o Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 2 de fevereiro a 17 de julho
+e de 1º de agosto a 22 de dezembro. É o período normal de trabalho do Congresso Nacional.
+Cada sessão legislativa ordinária compreende dois períodos legislativos (02/02 a 17/07 e 01/08 a
+22/12). Os intervalos entre esses períodos são chamados de recessos parlamentares.
+A Constituição Federal dispõe que a sessão legislativa não será interrompida sem a aprovação
+do projeto de lei de diretrizes orçamentárias. Sobre o projeto de LDO, cabe destacar que é de
+iniciativa privativa do Presidente da República, devendo ser encaminhado ao Congresso Nacional
+até 8 meses e meio antes do encerramento do exercício financeiro e devolvido para sanção até o
+encerramento do primeiro período da sessão legislativa. Assim, o projeto de LDO deve ser
+aprovado pelo Congresso Nacional até 17 de julho, sob pena de a sessão legislativa não ser
+interrompida e de os parlamentares não usufruírem do recesso do meio de ano.
+O art. 57, § 4º, dispõe ainda que “cada uma das Casas reunir-se-á em sessões preparatórias, a
+partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição
+das respectivas Mesas, para mandato de 2 (dois) anos, vedada a recondução para o mesmo cargo
+na eleição imediatamente subsequente”. Trata-se das sessões preparatórias, destinadas à posse
+dos parlamentares e à eleição das Mesas do Senado Federal e da Câmara dos Deputados.
+A sessão legislativa extraordinária (SLE), por sua vez, é a que ocorre fora do período normal de
+trabalho do Congresso Nacional, ou seja, durante os recessos parlamentares. Nela, o Congresso
+delibera sobre questões especiais.
+
+        Art. 57 (...)
+        § 6º A convocação extraordinária do Congresso Nacional far-se-á:
+        I - pelo Presidente do Senado Federal, em caso de decretação de estado de
+        defesa ou de intervenção federal, de pedido de autorização para a decretação de
+        estado de sítio e para o compromisso e a posse do Presidente e do
+        Vice-Presidente- Presidente da República;
+        II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e
+        do Senado Federal ou a requerimento da maioria dos membros de ambas as
+        Casas, em caso de urgência ou interesse público relevante, em todas as
+        hipóteses deste inciso com a aprovação da maioria absoluta de cada uma das
+        Casas do Congresso Nacional.
+
+Nas hipóteses de decretação de estado de defesa ou de intervenção federal, de pedido de
+autorização para decretação de estado de sítio e para o compromisso e posse do Presidente e
+Vice-Presidente, a competência para convocar extraordinariamente o Congresso Nacional será do
+Presidente do Senado Federal. Perceba que o Presidente do Senado, sozinho, é quem irá
+convocar extraordinariamente o Congresso Nacional, independentemente de deliberação dos
+outros parlamentares.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            5
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Também é possível que o Congresso Nacional seja convocado extraordinariamente em caso de
+urgência ou de interesse público relevante. Nessa situação, a convocação poderá ser feita: i) pelo
+Presidente da República; ii) Presidente do Senado Federal e Presidente da Câmara dos
+Deputados (juntos); ou iii) a requerimento da maioria dos membros de ambas as Casas
+Legislativas. Destaque-se que, quando a convocação for em caso de urgência ou de interesse
+público relevante, ela dependerá da aprovação da maioria absoluta de cada uma das Casas do
+Congresso Nacional.
+Na sessão legislativa extraordinária, o Congresso apenas delibera sobre a matéria para a qual foi
+convocado (art. 57, §7º, CF) e sobre medidas provisórias em vigor na data da convocação (art.
+57, §8º, CF). Além disso, não há pagamento de parcela indenizatória em razão da convocação.
+
+(PGE-RJ – 2022) No Estado brasileiro, o Poder Legislativo, além da função normativa que lhe é
+típica, tem atribuição julgadora em situações taxativamente expressas na Constituição Federal.
+Comentários:
+O Poder Legislativo exerce função julgadora de forma atípica. Um exemplo clássico dessa função
+atípica é o julgamento do Presidente da República pelo Senado Federal por crimes de
+responsabilidade. Questão correta.
+
+Estrutura do Poder Legislativo
+
+
+Câmara dos Deputados
+A Câmara dos Deputados é composta por representantes do povo, eleitos pelo sistema
+proporcional, em cada Estado, em cada Território e no Distrito Federal (art. 45, CF/88).
+O sistema proporcional é utilizado nas eleições para Deputados Federais, Deputados Estaduais e
+Vereadores. Trata-se de um mecanismo de contabilização de votos por meio do qual cada
+partido político terá um número de representantes no parlamento proporcional ao número de
+eleitores que o apoiam. Se 20% dos eleitores apoiam um determinado partido, 20% das vagas no
+parlamento serão ocupadas por parlamentares a ele vinculados.
+Para viabilizar a implementação desse sistema, adota-se o método do quociente eleitoral, que
+consiste no cálculo de quantas cadeiras serão ocupadas por cada legenda partidária. Para isso,
+inicialmente, divide-se o total de votos válidos em candidatos pelo número de cargos em
+disputa, obtendo-se o quociente eleitoral. O total de votos obtidos por cada legenda partidária é
+dividido por esse quociente, chegando-se, finalmente, ao número de cadeiras por legenda
+(quociente partidário).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            6
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 10
+
+Suponha, por exemplo, que há 10 vagas para Deputado Federal no estado do Espírito Santo e
+2.500.000 eleitores. Considerando que, em uma determinada eleição, há 2.300.000 votos
+válidos, o quociente eleitoral será de 230.000 eleitores. Se um determinado partido político tiver
+1.150.000 votos válidos, ele irá eleger 5 deputados federais (os 5 mais votados do partido).
+Perceba que, se um candidato desse partido político, sozinho, receber, por exemplo, 900.000
+votos, ele “puxará” seus companheiros de partido, que acabarão “pegando carona” em sua
+expressiva votação.
+Segundo o art. 45, § 1o, o número total de Deputados Federais, bem como a representação por
+Estado e pelo Distrito Federal, será estabelecido por lei complementar. A representação deverá
+ser proporcional à população, procedendo-se aos ajustes necessários, no ano anterior às
+eleições, para que nenhuma das unidades da Federação tenha menos de 8 (oito) ou mais de 70
+(setenta) Deputados.
+
+          1) Atualmente, o número total de Deputados Federais, definido em lei
+          complementar, é de 513.
+          2) A representação por unidade da federação é proporcional à população (e não
+          ao número de eleitores!).
+          3) Os Territórios Federais têm o número fixo de 4 Deputados Federais, previsto
+          na Constituição Federal. Assim, está errado dizer que o número de Deputados
+          Federais é proporcional à população dos Territórios.
+
+Pelas características do sistema proporcional, fica bem claro que o voto é do partido (ou
+federação ou coligação partidária)1. Por isso, perderá seu mandato o Deputado que, sem razão
+legítima que o justifique, cancelar a sua filiação partidária ou transferir-se para outra legenda.
+O Supremo Tribunal Federal (STF) entende, porém, que algumas situações excepcionais
+(mudança significativa de orientação programática do partido ou comprovada perseguição
+política) tornam legítimo o desligamento voluntário do partido. Nesse caso, o parlamentar tem
+direito a instaurar, perante a Justiça Eleitoral, procedimento no qual possa demonstrar a
+ocorrência dessas situações, caso em que manterá a titularidade de seu mandato eletivo.
+
+Senado Federal
+O Senado Federal, também conhecido como Câmara alta, é a Casa legislativa que reforça a
+forma federativa de Estado. Segundo o art. 46, CF/88, o Senado Federal compõe-se de
+representantes dos Estados e do Distrito Federal, permitindo que esses entes federativos
+participem da formação da vontade nacional.
+
+1
+  A Emenda Constitucional nº 97/2017 previu que, a partir das eleições de 2020, não serão admitidas
+coligações nas eleições proporcionais.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                           7
+          www.estrategiaconcursos.com.br                                                        113
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+Os Senadores são eleitos pelo sistema majoritário simples. Por esse sistema, considera-se eleito
+o candidato com maior número de votos nas eleições, excluídos os votos em branco e os nulos,
+em um só turno de votação. É requisito de elegibilidade para o cargo possuir a idade mínima de
+35 anos e ter a nacionalidade brasileira (nato ou naturalizado).
+Cada Estado e o Distrito Federal elegem três Senadores, com mandato de oito anos (art. 46, §
+1º, CF). A representação de cada Estado e do Distrito Federal renova-se de quatro em quatro
+anos, alternadamente, por um e dois terços (art. 46, § 2º, CF).
+Cada senador é eleito com 2 (dois) suplentes (art. 46, § 3º, CF). Caso ocorra renúncia ou perda
+do mandato de senador da República, deverá ser chamado para assumir a vaga no Senado
+Federal seu 1o suplente, e, no impedimento deste, sucessivamente o 2o suplente. Ocorrendo
+vaga e não havendo suplente, será feita eleição para preenchê-la se faltarem mais de 15 (quinze)
+meses para o término do mandato.
+
+
+Mesas Diretoras
+Em cada uma das Casas Legislativas, existe uma Mesa Diretora, assim denominado o órgão
+responsável pela condução dos trabalhos legislativos e administrativos. Temos, portanto, a Mesa
+da Câmara dos Deputados, a Mesa do Senado Federal e, ainda, a Mesa do Congresso Nacional.
+A Mesa do Congresso Nacional é presidida pelo Presidente do Senado Federal, e os demais
+cargos são exercidos, alternadamente, pelos ocupantes de cargos equivalentes na Câmara dos
+Deputados e no Senado Federal (art. 57, § 5º, CF). Já as Mesas da Câmara e do Senado são
+eleitas, respectivamente, pelos deputados e senadores, devendo assegurar-se, tanto quanto
+possível, a representação proporcional dos partidos ou dos blocos parlamentares que participam
+da respectiva Casa (art. 58, § 1º, CF).
+O mandato dos cargos da Mesa é de 2 (dois) anos, vedada a recondução para o mesmo cargo na
+eleição subsequente. Segundo o STF, essa vedação somente se aplica dentro de uma mesma
+legislatura, nada impedindo a recondução no âmbito de uma legislatura diferente.2
+
+Comissões
+As Comissões Parlamentares são órgãos de natureza técnica criados pelas Casas Legislativas para
+facilitar-lhes os trabalhos. São criadas por cada Casa separadamente ou pelo Congresso
+Nacional, na forma do regimento interno correspondente. Quando constituídas no âmbito de
+cada Casa, são compostas por deputados (no caso de Comissão da Câmara) ou senadores (no
+caso de Comissão do Senado). No Congresso, pode haver Comissões Mistas, compostas tanto
+por deputados como por senadores.
+Na constituição de cada Comissão, é assegurada, tanto quanto possível, a representação
+proporcional dos partidos ou dos blocos parlamentares que participam da respectiva Casa (art.
+58, §1º, CF).
+As comissões podem ser permanentes ou temporárias. As permanentes integram a própria
+estrutura da Casa Legislativa de que fazem parte, tendo suas competências definidas pelo
+regimento interno respectivo. Já as temporárias são criadas para apreciar determinada matéria,
+2
+    STF, Pleno, MS no 22.183-6, 12.12.1997.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                       8
+           www.estrategiaconcursos.com.br                                                    113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+extinguindo-se com o término da legislatura, quando realizam seu objetivo ou quando expira o
+prazo de sua duração.
+A Constituição Federal relaciona, no art. 58, § 2º, atribuições das Comissões Parlamentares:
+
+        § 2º - Às comissões, em razão da matéria de sua competência, cabe:
+        I - discutir e votar projeto de lei que dispensar, na forma do regimento, a
+        competência do Plenário, salvo se houver recurso de um décimo dos membros
+        da Casa;
+        II - realizar audiências públicas com entidades da sociedade civil;
+        III - convocar Ministros de Estado para prestar informações sobre assuntos
+        inerentes a suas atribuições;
+        IV - receber petições, reclamações, representações ou queixas de qualquer
+        pessoa contra atos ou omissões das autoridades ou entidades públicas;
+                                                         ==5460==
+
+        V - solicitar depoimento de qualquer autoridade ou cidadão;
+        VI - apreciar programas de obras, planos nacionais, regionais e setoriais de
+        desenvolvimento e sobre eles emitir parecer.
+
+Chamo a atenção de vocês para dois pontos muito cobrados em prova:
+       a) O inciso I trata do procedimento legislativo abreviado, que consiste na possibilidade de
+       que um projeto de lei seja aprovado sem que precise ser apreciado pelo Plenário da Casa
+       Legislativa. As hipóteses em que esse procedimento é cabível são definidas pelo
+       Regimento Interno de cada Casa. Ressalte-se que, mesmo nesses casos, o projeto de lei
+       pode ser votado em Plenário caso haja recurso de 1/10 dos membros da Casa Legislativa.
+       b) A Câmara dos Deputados e o Senado Federal, ou qualquer de suas Comissões,
+       poderão convocar Ministro de Estado ou quaisquer titulares de órgãos diretamente
+       subordinados à Presidência da República para prestarem, pessoalmente, informações
+       sobre assunto previamente determinado, importando crime de responsabilidade a
+       ausência sem justificação adequada.
+Uma importante comissão temporária é a Comissão Representativa do Congresso Nacional, que
+atua durante o período de recesso legislativo. O art. 58, §4º, CF/88 trata dessa comissão:
+
+        § 4º - Durante o recesso, haverá uma Comissão representativa do Congresso
+        Nacional, eleita por suas Casas na última sessão ordinária do período legislativo,
+        com atribuições definidas no regimento comum, cuja composição reproduzirá,
+        quanto possível, a proporcionalidade da representação partidária.
+
+Comissões Parlamentares de Inquérito
+As Comissões Parlamentares de Inquérito (CPIs) estão previstas no art. 58, §3º, da CF/88:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            9
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+           § 3º - As comissões parlamentares de inquérito, que terão poderes de
+           investigação próprios das autoridades judiciais, além de outros previstos nos
+           regimentos das respectivas Casas, serão criadas pela Câmara dos Deputados e
+           pelo Senado Federal, em conjunto ou separadamente, mediante requerimento
+           de um terço de seus membros, para a apuração de fato determinado e por prazo
+           certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público,
+           para que promova a responsabilidade civil ou criminal dos infratores.
+
+Trata-se de comissões temporárias criadas pelas Casas Legislativas (em conjunto ou
+separadamente) para realizar a investigação parlamentar, produzindo o inquérito legislativo.
+Traduzem a função típica de fiscalização exercida pelo Poder Legislativo.
+Não têm papel de julgamento, acusação ou promoção de responsabilidade. Sua função é
+meramente investigativa. Suas conclusões são encaminhadas ao Ministério Público para que ele
+promova a responsabilidade civil ou criminal dos infratores.
+Requisitos Constitucionais para a criação de CPIs
+A criação de uma CPI está sujeita ao cumprimento de certos requisitos constitucionais, sujeitos
+ao controle jurisdicional. São eles:
+a) Requerimento de um terço dos membros da Casa Legislativa
+O STF considera que as CPIs são um “direito das minorias”. É por isso que se exige o
+requerimento de apenas 1/3 dos membros da Casa Legislativa ou, no caso de comissão mista, de
+um terço dos membros de cada uma das Casas. Segundo o Pretório Excelso, preenchidos os
+requisitos constitucionais do art. 58, § 3º, da Constituição Federal, existe direito público subjetivo
+de as minorias parlamentares verem instaurado o inquérito parlamentar.3 Por isso, seria
+inconstitucional norma que determinasse sujeição do requerimento de criação de CPI à
+deliberação pelo Plenário.
+b) Indicação de fato determinado a ser investigado
+O ato que instaura uma CPI deverá delimitar, precisamente, os fatos que serão objeto da
+investigação parlamentar. Não se admite a criação de CPIs para investigações genéricas.
+Isso não impede, entretanto, que a CPI investigue mais de um fato, desde que todos os fatos
+investigados sejam determinados. Além disso, não impede a apuração de fatos conexos ao
+principal, ou, ainda, de outros fatos, inicialmente desconhecidos, que surgirem durante a
+investigação4.
+Por fim, as CPIs de um ente da federação não podem investigar fatos referentes aos demais,
+devido ao pacto federativo. Desse modo, uma CPI federal não pode investigar questões
+relacionadas à gestão da coisa pública estadual, por exemplo.
+c) Fixação de prazo certo para os trabalhos da CPI
+O ato que instaura uma CPI deve prever o prazo dentro do qual os seus trabalhos serão
+encerrados. No entanto, a locução “prazo certo”, segundo o STF, não impede prorrogações
+sucessivas dentro da legislatura.
+
+3
+    STF, Pleno, MS 24831/DF; MS 24845/DF; MS 24846/DF.
+4
+    STF, HC no 71.039/RJ, 0704.1994.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                            10
+           www.estrategiaconcursos.com.br                                                          113
+
+                                         
+
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 10
+
+Poderes de Investigação das CPIs
+Os poderes de investigação das CPIs são limitados pelo princípio da separação de poderes e
+pelo respeito aos direitos fundamentais. Apesar de a Constituição ter mencionado que as CPIs
+têm poderes de investigação próprios das autoridades judiciais, há certas competências que
+estão sujeitas à reserva de jurisdição, isto é, são exclusivas do Poder Judiciário.
+Segundo a jurisprudência do STF, as CPIs têm competência para:
+a) Convocar particulares e autoridades públicas para depor.
+A CPI pode convocar qualquer pessoa para depor (particulares, servidores públicos, Ministros de
+Estado e titulares de órgãos ligados à Presidência da República), na qualidade de testemunhas
+ou indiciados, desde que a oitiva seja necessária à investigação. Os membros do Poder
+Judiciário, todavia, não estão obrigados a se apresentar perante CPI com o intuito de prestar
+depoimento sobre sua função jurisdicional, sob pena de violação do princípio da separação de
+poderes.
+As testemunhas, uma vez convocadas por CPI, são obrigadas a comparecer, sendo cabível,
+inclusive, a requisição de força policial para promover-lhes a condução coercitiva. Em respeito ao
+princípio da não autoincriminação, não cabe condução coercitiva do investigado.
+O depoente em CPI pode ter a assistência de um advogado. Nas reuniões da CPI, o advogado
+poderá comunicar-se pessoal e diretamente com o seu cliente, bem como adverti-lo sobre o
+direito ao silêncio. Poderá, ainda, reclamar, verbalmente ou por escrito, quando houver
+comportamento arbitrário ou desrespeito aos princípios constitucionais, legais e regimentais por
+parte da CPI.
+b) Realização de perícias e exames necessários à dilação probatória, bem como requisição de
+documentos e busca de todos os meios de prova legalmente admitidos.5 As CPIs podem
+requerer, entre outras diligências, exames grafotécnicos, análises contábeis, coleta de provas,
+acareações e auditorias. 6
+c) Determinar a quebra dos sigilos bancário, fiscal e telefônico do investigado:
+As quebras de sigilo bancário, fiscal e telefônico podem ser determinadas por CPI, não estando
+abrangidas por cláusula de reserva de jurisdição. No entanto, deve-se destacar que isso não
+coloca as informações em domínio público; ao contrário, a CPI torna-se depositária do segredo7.
+Segundo o STF, as CPIs estaduais também podem determinar a quebra do sigilo bancário.
+Contudo, a prerrogativa de quebra do sigilo bancário não se estende às CPIs municipais.
+...
+           As Comissões Parlamentares de Inquérito (CPIs) não têm competência para:
+           a) Decretar prisões, exceto em flagrante delito.
+
+5
+  STF, HC no 71.039/RJ, 07.04.1994.
+6
+  MASSON, Nathalia. Manual de Direito Constitucional, Ed. Juspodium, Salvador: 2013, pp. 554.
+7
+  MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional, 6ª edição, 2011.
+pp. 899.
+
+
+            Receita Federal (Analista Tributário) Direito Constitucional                              11
+            www.estrategiaconcursos.com.br                                                            113
+
+                                          
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+          b) Determinar a aplicação de medidas cautelares, tais como indisponibilidade de bens,
+          arrestos, sequestro, hipoteca judiciária ou, ainda, proibição de ausentar-se da comarca ou
+          do país;
+          c) Proibir ou restringir a assistência jurídica aos investigados. A Constituição Federal
+          consagrou, em seu art. 133, a indispensabilidade e a imunidade do advogado como
+          princípios constitucionais.
+          d) Determinar a anulação de atos do Poder Executivo, sob pena de violação ao princípio
+          da separação dos Poderes;
+          e) Determinar a quebra do sigilo judicial, pois nem mesmo o Judiciário detém essa
+          competência. Assim, “o sigilo imposto a processo sujeito a segredo de justiça é oponível a
+          Comissão Parlamentar de Inquérito”.8
+          f) Determinar a interceptação telefônica, por ser esse ato reservado à competência
+          jurisdicional.
+          g) Determinar a busca e apreensão domiciliar de documentos. A inviolabilidade domiciliar,
+          garantida pelo art. 5º, XI, CF/88, não pode ser violada por ato de CPI. Há necessidade de
+          ordem judicial para que se possa realizar a busca e apreensão domiciliar de documentos.
+          h) Apreciar atos de natureza jurisdicional (decisões judiciais), sob pena de se ferir a
+          separação de Poderes.
+          i) Convocar o Chefe do Poder Executivo. Somente poderão ser convocados para prestar
+          informações ao Poder Legislativo, sob pena de crime de responsabilidade, os Ministros de
+          Estado ou quaisquer titulares de órgãos diretamente subordinados à Presidência da
+          República.
+
+(TELEBRAS – 2022) A Câmara dos Deputados é composta por representantes do povo eleitos
+pelo sistema proporcional, e o Senado Federal é formado por representantes das unidades da
+federação e do Distrito Federal, que são eleitos segundo o princípio majoritário.
+Comentários:
+A estrutura bicameral estabelecida ao Poder Legislativo pela CF/88 consta expressamente no art.
+44, sendo definido em sua composição a Câmara dos Deputados, cujos parlamentares
+(Deputados Federais) são considerados como representantes do povo e eleitos pelo sistema
+proporcional, com variação da quantidade populacional, com no mínimo oito e no máximo
+setenta Deputados (Art. 45, § 1º), cabendo aos Territórios Federais eleger quatro Deputados (Art.
+8
+    MS 27483 DF. Rel. Min. Cezar Peluso, 14.08.2008.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          12
+           www.estrategiaconcursos.com.br                                                        113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+45, § 2º). Já o Senado Federal é formado por representantes dos Estados e do Distrito Federal,
+eleitos segundo o princípio majoritário, sendo eleitos três parlamentares por cada um, com
+mandato de oito anos (CF/88, art. 46, § 1º), cuja representação será renovada de quatro em
+quatro anos, alternadamente, por um e dois terços. Questão correta.
+(TCE-RJ – 2022) A Câmara dos Deputados convocou o ministro da educação a prestar
+pessoalmente informações relativas a erros na impressão de provas do Exame Nacional do Ensino
+Médio (ENEM). O ministro da educação recebeu o pedido, porém não compareceu na data
+aprazada, por entender que essa convocação violava a CF.
+A ausência injustificada do ministro da educação configura crime de responsabilidade, a ser
+julgado com exclusividade pelo Senado Federal.
+Comentários:
+O art. 50, da CF/1988, estabelece como crime de responsabilidade o não comparecimento de
+Ministro de Estado convocado pela Câmara, Senado ou suas comissões. Contudo, ao Senado
+compete somente processar e julgar os crimes de responsabilidade cometidos por Ministros de
+Estado conexos com os do Presidente da República (art. 52, I, CF). No caso de crimes de
+responsabilidade exclusivamente de Ministros de Estado, a competência é do Supremo Tribunal
+Federal (art. 102, I, "c", CF). Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        13
+        www.estrategiaconcursos.com.br                                                     113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                        ATRIBUIÇÕES DO PODER LEGISLATIVO
+Atribuições do Congresso Nacional
+As atribuições do Congresso Nacional estão previstas no art. 48 e no art. 49. No art. 48, estão as
+atribuições que dependem de sanção do Presidente da República. São atribuições que
+dependem, portanto, da edição de lei. O art. 49, por sua vez, relaciona as atribuições que
+independem de sanção do Presidente, efetivadas mediante decreto legislativo. Vejamos,
+primeiro, o que dispõe o art. 48, CF/88:
+
+        Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da República,
+        não exigida esta para o especificado nos arts. 49, 51 e 52, dispor sobre todas as
+        matérias de competência da União, especialmente sobre:
+        I - sistema tributário, arrecadação e distribuição de rendas;
+        II - plano plurianual, diretrizes orçamentárias, orçamento anual, operações de
+        crédito, dívida pública e emissões de curso forçado;
+        III - fixação e modificação do efetivo das Forças Armadas;
+        IV - planos e programas nacionais, regionais e setoriais de desenvolvimento;
+        V - limites do território nacional, espaço aéreo e marítimo e bens do domínio da
+        União;
+        VI - incorporação, subdivisão ou desmembramento de áreas de Territórios ou
+        Estados, ouvidas as respectivas Assembleias Legislativas;
+        VII - transferência temporária da sede do Governo Federal;
+        VIII - concessão de anistia;
+        IX - organização administrativa, judiciária, do Ministério Público e da Defensoria
+        Pública da União e dos Territórios e organização judiciária e do Ministério Público
+        do Distrito Federal;
+        X - criação, transformação e extinção de cargos, empregos e funções públicas,
+        observado o que estabelece o art. 84, VI, b;
+        XI - criação e extinção de Ministérios e órgãos da administração pública;
+        XII - telecomunicações e radiodifusão;
+        XIII - matéria financeira, cambial e monetária, instituições financeiras e suas
+        operações;
+        XIV - moeda, seus limites de emissão, e montante da dívida mobiliária federal.
+        XV - fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o
+        que dispõem os arts. 39, § 4º; 150, II; 153, III; e 153, § 2º, I.
+
+O art. 48, acima transcrito, consiste em rol meramente exemplificativo, havendo outras
+atribuições fora dessas hipóteses. Sobre esse dispositivo, vale destacar o seguinte:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           14
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+       a) A criação, transformação e extinção de cargos públicos depende de lei (art. 48, X). No
+       entanto, a extinção de cargos públicos que estiverem vagos será feita por decreto
+       autônomo.
+       b) A fixação dos subsídios dos Ministros do STF depende de lei (art.48, XV), a qual é de
+       iniciativa privativa do próprio STF.
+Vejamos, agora, as atribuições do art. 49, que são matérias da competência exclusiva do
+Congresso Nacional, reguladas por meio de decreto legislativo:
+
+        Art. 49. É da competência exclusiva do Congresso Nacional:
+        I - resolver definitivamente sobre tratados, acordos ou atos internacionais que
+        acarretem encargos ou compromissos gravosos ao patrimônio nacional;
+        II - autorizar o Presidente da República a declarar guerra, a celebrar a paz, a
+        permitir que forças estrangeiras transitem pelo território nacional ou nele
+        permaneçam temporariamente, ressalvados os casos previstos em lei
+        complementar;
+        III - autorizar o Presidente e o Vice-Presidente da República a se ausentarem do
+        País, quando a ausência exceder a quinze dias;
+        IV - aprovar o estado de defesa e a intervenção federal, autorizar o estado de
+        sítio, ou suspender qualquer uma dessas medidas;
+        V - sustar os atos normativos do Poder Executivo que exorbitem do poder
+        regulamentar ou dos limites de delegação legislativa;
+        VI - mudar temporariamente sua sede;
+        VII - fixar idêntico subsídio para os Deputados Federais e os Senadores,
+        observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I;
+        VIII - fixar os subsídios do Presidente e do Vice-Presidente da República e dos
+        Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, § 4º, 150, II,
+        153, III, e 153, § 2º, I;
+        IX - julgar anualmente as contas prestadas pelo Presidente da República e
+        apreciar os relatórios sobre a execução dos planos de governo;
+        X - fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do
+        Poder Executivo, incluídos os da administração indireta;
+        XI - zelar pela preservação de sua competência legislativa em face da atribuição
+        normativa dos outros Poderes;
+        XII - apreciar os atos de concessão e renovação de concessão de emissoras de
+        rádio e televisão;
+        XIII - escolher dois terços dos membros do Tribunal de Contas da União;
+        XIV - aprovar iniciativas do Poder Executivo referentes a atividades nucleares;
+        XV - autorizar referendo e convocar plebiscito;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            15
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+        XVI - autorizar, em terras indígenas, a exploração e o aproveitamento de recursos
+        hídricos e a pesquisa e lavra de riquezas minerais;
+        XVII - aprovar, previamente, a alienação ou concessão de terras públicas com área
+        superior a dois mil e quinhentos hectares.
+        XVIII - decretar o estado de calamidade pública de âmbito nacional previsto nos
+        arts. 167-B, 167-C, 167-D, 167-E, 167-F e 167-G desta Constituição
+
+Sobre as atribuições do art. 49, CF/88, destacamos o seguinte:
+       a) O Congresso Nacional tem competência para aprovar tratados internacionais mediante
+       decreto legislativo (art. 49, I). Após a aprovação pelo Congresso Nacional, o Presidente da
+       República está autorizado a ratificar o tratado (ato internacional) e a editar decreto
+       executivo, internalizando o tratado em nosso ordenamento jurídico. É a partir do decreto
+       executivo que o tratado entra em vigor no plano interno.
+                                                         ==5460==
+
+       b) O estado de defesa e a intervenção federal são decretados pelo Presidente da
+       República e, só depois, submetidos ao Congresso Nacional. Ressalte-se que o Congresso
+       Nacional poderá aprovar ou suspender a decretação de estado de defesa (art. 49, IV).
+       c) A sustação dos atos normativos do Poder Executivo que exorbitem do poder
+       regulamentar ou dos limites de delegação legislativa (art. 49, V) é um mecanismo de
+       controle e fiscalização, pelo Legislativo, dos atos do Executivo.
+       d) A fixação dos subsídios do Presidente e do Vice-Presidente, bem como dos Ministros de
+       Estado, é feita mediante decreto legislativo (art.49, VIII).
+       e) O julgamento das contas do Presidente da República compete ao Congresso Nacional
+       (art.49, IX). Destaque-se que é competência do TCU apreciar as contas do Presidente. O
+       Presidente da República deverá prestar contas ao Congresso, anualmente, até 60 dias
+       após a abertura da sessão legislativa (art. 84, XIV).
+       f) Cabe ao Congresso Nacional decretar o estado de calamidade pública de âmbito
+       nacional.
+
+(FUB – 2022) Compete ao Congresso Nacional, com a sanção do presidente da República, dispor
+definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou
+compromissos gravosos ao patrimônio nacional.
+Comentários:
+Trata-se de competência exclusiva do Congresso Nacional que prescinde de sanção presidencial.
+Está prevista no art. 49, inciso I, da Constituição Federal. Referidas competências do art. 49 são
+exercidas, via de regra, por decreto legislativo. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           16
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+(TCE-SC – 2022) Nos termos da CF, compete ao chefe do Poder Executivo federal decretar
+estado de calamidade pública de âmbito nacional referente à emergência de saúde pública de
+importância internacional relacionada ao coronavírus (covid-19).
+Comentários:
+A Emenda Constitucional nº 109/2021 autorizou o Congresso Nacional a decretar o estado de
+calamidade pública de âmbito nacional por conta da pandemia de covid-19, nos termos do inciso
+XVIII do art. 49 da CF/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       17
+        www.estrategiaconcursos.com.br                                                    113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                        ATRIBUIÇÕES DO PODER LEGISLATIVO
+Atribuições da Câmara dos Deputados
+
+O art. 51 relaciona as competências privativas da Câmara dos Deputados, disciplinadas mediante
+Resolução. As resoluções são atos normativos primários, que possuem hierarquia de lei, mas que
+independem de sanção do Presidente da República. Vejamos o que dispõe o texto
+constitucional:
+
+        Art. 51. Compete privativamente à Câmara dos Deputados:
+        I - autorizar, por dois terços de seus membros, a instauração de processo contra o
+        Presidente e o Vice-Presidente da República e os Ministros de Estado;
+        II - proceder à tomada de contas do Presidente da República, quando não
+        apresentadas ao Congresso Nacional dentro de sessenta dias após a abertura da
+        sessão legislativa;
+        III - elaborar seu regimento interno;
+        IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação
+        ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei
+        para fixação da respectiva remuneração, observados os parâmetros estabelecidos
+        na lei de diretrizes orçamentárias;
+        V - eleger membros do Conselho da República, nos termos do art. 89, VII.
+
+Apesar de o art. 51 denominar as atribuições nele arroladas como privativas, podemos
+considerá-las como sendo competências exclusivas, por serem indelegáveis e exercidas sem
+qualquer interferência ou participação indireta de outro Poder ou órgão.
+Sobre as atribuições do art. 51, podemos destacar o seguinte:
+       a) O Presidente da República e o Vice-Presidente da República são julgados pelo STF (nos
+       crimes comuns) ou pelo Senado Federal (nos crimes de responsabilidade). Em qualquer
+       desses casos, há necessidade de prévia autorização da Câmara dos Deputados, mediante
+       votos de 2/3 dos seus membros (art. 51, I). Trata-se de juízo de admissibilidade, de
+       natureza política.
+       A autorização da Câmara dos Deputados para a instauração de processo contra Ministro
+       de Estado somente se aplica no caso de crime conexo com o do Presidente da República.
+       b) O inciso IV pode ser dividido em duas partes. Na primeira, compete privativamente à
+       Câmara dispor sobre sua organização, funcionamento, polícia, criação e transformação ou
+       extinção dos cargos, empregos e funções de seus serviços; tais matérias serão objeto de
+       resolução. Na segunda parte, fica claro que Câmara tem iniciativa privativa para apresentar
+       projeto de lei para a fixação da remuneração de seus servidores. Essa última é a única,
+       entre as atribuições do art. 51, que não é desempenhada mediante resolução.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           18
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                        ATRIBUIÇÕES DO PODER LEGISLATIVO
+Atribuições do Senado Federal
+
+As competências privativas do Senado Federal estão arroladas no art. 52 da Constituição. Tais
+matérias são disciplinadas mediante resolução do Senado Federal, sendo dispensada a sanção
+do Presidente da República. Vejamos quais são elas:
+
+        Art. 52. Compete privativamente ao Senado Federal:
+        I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de
+        responsabilidade, bem como os Ministros de Estado e os Comandantes da
+        Marinha, do Exército e da Aeronáutica nos crimes da mesma natureza conexos
+        com aqueles;
+        II - processar e julgar os Ministros do Supremo Tribunal Federal, os membros do
+        Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público, o
+        Procurador-Geral da República e o Advogado-Geral da União nos crimes de
+        responsabilidade;
+        III - aprovar previamente, por voto secreto, após arguição pública, a escolha de:
+               a) Magistrados, nos casos estabelecidos nesta Constituição;
+            b) Ministros do Tribunal de Contas da União indicados pelo Presidente da
+        República;
+               c) Governador de Território;
+               d) Presidente e diretores do banco central;
+               e) Procurador-Geral da República;
+               f) titulares de outros cargos que a lei determinar;
+        IV - aprovar previamente, por voto secreto, após arguição em sessão secreta, a
+        escolha dos chefes de missão diplomática de caráter permanente;
+        V - autorizar operações externas de natureza financeira, de interesse da União,
+        dos Estados, do Distrito Federal, dos Territórios e dos Municípios;
+        VI - fixar, por proposta do Presidente da República, limites globais para o
+        montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos
+        Municípios;
+        VII - dispor sobre limites globais e condições para as operações de crédito
+        externo e interno da União, dos Estados, do Distrito Federal e dos Municípios, de
+        suas autarquias e demais entidades controladas pelo Poder Público federal;
+        VIII - dispor sobre limites e condições para a concessão de garantia da União em
+        operações de crédito externo e interno;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            19
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+        IX - estabelecer limites globais e condições para o montante da dívida mobiliária
+        dos Estados, do Distrito Federal e dos Municípios;
+        X - suspender a execução, no todo ou em parte, de lei declarada inconstitucional
+        por decisão definitiva do Supremo Tribunal Federal;
+        XI - aprovar, por maioria absoluta e por voto secreto, a exoneração, de ofício, do
+        Procurador-Geral da República antes do término de seu mandato;
+        XII - elaborar seu regimento interno;
+        XIII - dispor sobre sua organização, funcionamento, polícia, criação,
+        transformação ou extinção dos cargos, empregos e funções de seus serviços, e a
+        iniciativa de lei para fixação da respectiva remuneração, observados os
+        parâmetros estabelecidos na lei de diretrizes orçamentárias;
+        XIV - eleger membros do Conselho da República, nos termos do art. 89, VII.
+                                                         ==5460==
+
+        XV - avaliar periodicamente a funcionalidade do Sistema Tributário Nacional, em
+        sua estrutura e seus componentes, e o desempenho das administrações
+        tributárias da União, dos Estados e do Distrito Federal e dos Municípios.
+        Parágrafo único. Nos casos previstos nos incisos I e II, funcionará como
+        Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que
+        somente será proferida por dois terços dos votos do Senado Federal, à perda do
+        cargo, com inabilitação, por oito anos, para o exercício de função pública, sem
+        prejuízo das demais sanções judiciais cabíveis.
+
+Sobre o art. 52, destacamos o seguinte:
+       a) Nos crimes de responsabilidade, o Senado Federal tem competência para julgar as
+       seguintes autoridades: i) Presidente da República; ii) Vice-Presidente da República; iii)
+       Ministros do STF; iv) membros do CNJ e do CNMP; v) Procurador-Geral da República; e vi)
+       Advogado-Geral da União (art. 52, I e II).
+       b) O Senado Federal tem a competência para aprovar previamente a nomeação de
+       importantes autoridades da República (art. 52, III e IV). Esse procedimento de aprovação é
+       a famosa “sabatina”. Citamos, como exemplo, a nomeação dos Ministros do STF, que
+       depende de aprovação por maioria absoluta do Senado Federal.
+       c) O Senado Federal autoriza operações externas de natureza financeira realizadas pelos
+       Estados, Distrito Federal, Territórios e Municípios (art. 52, VI).
+       d) O Senado Federal tem a iniciativa privativa para apresentar projeto de lei que fixe a
+       remuneração de seus servidores (art. 52, XIII). Trata-se da única competência, entre as
+       arroladas no art. 52, que não é exercida por meio de resolução.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              20
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+(PGM Campo Grande – 2019) Compete privativamente ao Senado Federal avaliar
+periodicamente o desempenho das administrações tributárias dos municípios.
+Comentários:
+Trata-se, de fato, de competência privativa do Senado Federal. Nos termos do art. 52, XV, da
+Constituição, compete privativamente ao Senado Federal “avaliar periodicamente a
+funcionalidade do Sistema Tributário Nacional, em sua estrutura e seus componentes, e o
+desempenho das administrações tributárias da União, dos Estados e do Distrito Federal e dos
+Municípios”. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                      21
+        www.estrategiaconcursos.com.br                                                   113
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 10
+
+                                ESTATUTO DOS CONGRESSISTAS
+A Carta da República estabelece, na Seção V, Capítulo I, Título IV, imunidades e vedações aos
+parlamentares, a fim de garantir, ao Poder Legislativo como um todo e a seus membros,
+independência e liberdade no exercício de suas funções constitucionais. A essas regras, a
+doutrina convencionou chamar de estatuto dos congressistas.
+
+Imunidades Parlamentares
+As imunidades parlamentares não são privilégios, mas garantias funcionais que visam permitir
+que os membros do Poder Legislativo exerçam seu mandato com independência, livres de
+abusos e pressões de outros Poderes. São prerrogativas de ordem pública e, portanto,
+irrenunciáveis. Podem ser de dois tipos: materiais ou formais.
+
+Imunidade Material
+Segundo o art. 53, CF/88, os Deputados e Senadores são invioláveis, civil e penalmente, por
+quaisquer de suas opiniões, palavras e votos. Trata-se da imunidade material (substancial ou de
+conteúdo), que tem como objetivo garantir aos parlamentares liberdade de opinião, palavras e
+votos.
+
+          Apesar de a CF/88 mencionar expressamente apenas a inviolabilidade civil e
+          penal dos Deputados e Senadores, a doutrina e o STF entendem que a
+          imunidade material descarta toda e qualquer forma de responsabilização. Assim,
+          os congressistas também não podem ser responsabilizados no campo
+          administrativo e político pelas opiniões, palavras e votos que proferirem no
+          exercício da função parlamentar.
+
+A proteção conferida aos parlamentares pela imunidade material exige que exista uma relação
+entre a conduta praticada e o exercício do mandato. Em outras palavras, há que existir uma
+conexão entre a manifestação oral do parlamentar e o exercício da função para que ela seja
+cabível.
+Segundo o STF, quando a manifestação do parlamentar ocorre no recinto do Congresso
+Nacional, há a presunção absoluta de que está relacionada ao exercício parlamentar, portanto
+está abrangida pela imunidade material. É o caso de depoimento prestado por congressista a
+uma Comissão Parlamentar de Inquérito (CPI).
+Por outro lado, caso as palavras sejam proferidas pelo parlamentar fora do Congresso Nacional, é
+necessário perquirir o seu vínculo com a atividade de representação política.1 Desse modo,
+1
+ MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional, 6ª edição, 2011.
+pp. 929.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                               22
+          www.estrategiaconcursos.com.br                                                             113
+
+                                        
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 10
+
+quando um Deputado ou Senador concede uma entrevista a um jornal, por exemplo, esse ato
+naturalmente está protegido pela imunidade material, constituindo-se a entrevista em projeção
+do exercício da atividade parlamentar. Diferente, todavia, é a situação do “deputado-jornalista”
+que apresenta programa de televisão. Nessa situação, ele atua como jornalista (e não como
+deputado), motivo pelo qual não estará protegido pela imunidade material.
+A imunidade material possui eficácia temporal permanente, perpétua, pois persiste mesmo após
+o término do mandato. Isso quer dizer que o parlamentar não pode ser responsabilizado (civil ou
+penalmente), nem mesmo após o término do mandato, pelas palavras, opiniões e votos que tiver
+proferido durante o período em que era congressista, que tem como termo inicial a data da
+posse.
+
+Imunidade Formal
+A imunidade formal (processual ou de rito) garante aos parlamentares duas prerrogativas
+distintas:
+         a) impossibilidade de ser preso ou de permanecer preso;
+         b) possibilidade de sustação do andamento da ação penal.
+No que se refere à prisão, dispõe a Carta Magna que, desde a expedição do diploma2, os
+membros do Congresso Nacional não poderão ser presos, salvo em flagrante delito de crime
+inafiançável (art. 53, § 2º, CF). Nesse caso, os autos serão remetidos dentro de 24 horas à Casa
+respectiva para que, pelo voto aberto da maioria dos seus membros (ou seja, maioria absoluta),
+resolva sobre a prisão.
+Para o STF, essa previsão abrange somente as prisões cautelares (prisão em flagrante, temporária
+e preventiva). Por isso, é possível aplicar ao parlamentar a pena de privação da liberdade em dois
+casos: i) flagrante de crime inafiançável; e ii) sentença judicial transitada em julgado, segundo
+jurisprudência do STF.
+Como vimos, outra prerrogativa relacionada à imunidade formal é a possibilidade de sustação do
+andamento da ação penal. Recebida a denúncia ou queixa-crime contra o parlamentar, no caso
+de crime cometido após a diplomação, o Supremo dá ciência à Casa respectiva, para que se
+manifeste. Abre-se, então, a possibilidade de sustação do andamento da ação penal, mediante
+pedido feito por partido político com representação na Casa Legislativa.
+O pedido de sustação pode ser feito a qualquer tempo, desde o recebimento da denúncia ou
+queixa-crime até a decisão final do STF. Todavia, uma vez formulado, a Casa Legislativa tem 45
+dias para apreciá-lo, contados de seu recebimento pela Mesa Diretora. A Casa (Câmara ou
+Senado) pode, então, por iniciativa de partido político nela representado e pelo voto da maioria
+de seus membros3 (maioria absoluta), sustar o andamento da ação penal.
+A sustação do processo suspende4 a prescrição, enquanto durar o mandato. Além disso, somente
+é cabível para crimes cometidos após a diplomação.
+
+2
+  A diplomação é ato anterior à posse, por meio do qual a Justiça Eleitoral atesta que o candidato foi eleito.
+3
+  Falar em maioria dos membros equivale a dizer “maioria absoluta”.
+4
+  Note que, nesse caso, há suspensão (e não interrupção!) da prescrição. Na interrupção, quando o prazo volta
+a correr, é contado do zero novamente. Já na suspensão, começa a contar de onde parou. Esse conceito é
+relevante para o Direito Civil, sendo aqui exposto apenas para ajudar na fixação do art. 53, § 5º, da
+Constituição.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                     23
+          www.estrategiaconcursos.com.br                                                                   113
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Diferentemente do que ocorre na imunidade material, a imunidade formal é limitada no tempo.
+Segundo o STF, o termo “ad quem” do mandato (ou seja, o seu final) equivale ao início da
+próxima legislatura (STF, RTJ, 107:911-912).
+
+Prerrogativa de Foro
+Os parlamentares (Deputados e Senadores) gozam da prerrogativa especial de serem
+processados e julgados criminalmente perante o Supremo Tribunal Federal (STF). O poder
+constituinte originário buscou, com essa prerrogativa, assegurar aos parlamentares um
+julgamento imparcial, livre de pressões políticas.
+Entretanto, com o crescente número de parlamentares envolvidos em ilícitos penais, o STF
+deixou de dar vazão aos processos, transmitindo à sociedade a ideia de que ter foro por
+prerrogativa de função é sinônimo de impunidade. Por isso, a Corte reinterpretou o instituto do
+foro por prerrogativa de função, promovendo verdadeira mutação constitucional na Ação Penal
+nº 937.
+Segundo a nova interpretação da Corte Suprema, o foro por prerrogativa de função somente se
+aplica aos crimes praticados durante o exercício do cargo e que tenham relação com as funções
+desempenhadas pelo parlamentar. Assim, se o parlamentar tiver cometido crime antes da
+diplomação, não será processado e julgado pelo STF, mas, sim, pela primeira instância do Poder
+Judiciário. Da mesma forma, caso o parlamentar, já em exercício, cometa crime que não se
+relacione ao exercício do mandato, estará sujeito a julgamento na primeira instância do Poder
+Judiciário.
+Cabe destacar que o foro especial dos parlamentares perante o STF abrange apenas as infrações
+penais comuns. Entende a doutrina que os Deputados e Senadores não cometem crime de
+responsabilidade. Não há que se falar, portanto, em julgamento de congressista pela prática
+desse tipo de infração. Também não cabe essa prerrogativa nas ações civis (como a ação
+popular), que devem ser ajuizadas perante a Justiça Comum.
+A partir dessa interpretação, devem tramitar perante o STF apenas os inquéritos criminais
+relativos a crimes praticados por parlamentares no exercício do cargo (após a diplomação) e
+relacionados às funções por eles desempenhadas. Nesses casos, a abertura de inquérito
+dependerá de autorização prévia do STF, que exercerá a função de supervisão judicial. O
+inquérito será conduzido pela Polícia Federal ou pela Procuradoria-Geral da República.
+Por outro lado, se o crime tiver sido praticado antes da diplomação ou se não estiver relacionado
+com o mandato parlamentar, a abertura de inquérito não necessita de autorização do STF. As
+investigações poderão ser conduzidas pela Polícia Civil, Polícia Federal, Ministério Público
+Estadual ou Ministério Público Federal, a depender da natureza do crime.
+Um problema que sempre se enfrentou, relacionado ao foro por prerrogativa de função, foi o
+constante deslocamento de competência do STF para a primeira instância do Poder Judiciário, e
+vice-versa. Caso bastante conhecido é o do Deputado Federal Natan Donadon, que renunciou
+ao cargo na véspera do julgamento de ação penal pelo STF, com nítido abuso de direito. Em
+tese, a renúncia faria com que o processo fosse enviado à primeira instância, protelando a sua
+responsabilização penal. Todavia, entendeu o STF que o ato de renúncia “não se presta a ser
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          24
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+utilizado como subterfúgio para deslocamento de competências constitucionalmente definidas”5,
+e mantendo sua competência para julgar o congressista, mesmo após a sua renúncia.
+Para evitar o “sobe e desce” de processos e dar maior segurança jurídica ao sistema, o STF
+firmou o entendimento, na Ação Penal nº 937, de que, uma vez encerrada a fase de instrução,
+não haverá mais a modificação da competência. Ao contrário, a competência irá se perpetuar, ou
+seja, será definitivamente fixada uma vez que tenha sido encerrada a fase de instrução.
+Outro tema objeto de controvérsias diz respeito às situações em que, em um mesmo processo,
+há vários acusados (concurso de agentes), mas apenas um ou alguns deles possuem foro por
+prerrogativa de função. Como exemplo, cita-se a Operação Lava Jato, que investiga diversos
+parlamentares, mas também cidadãos que não detêm prerrogativa de foro.
+Atualmente, o STF entende que a regra geral é a de que haverá o desmembramento do
+processo. Suponha, por exemplo, que 4 (quatro) cidadãos tenham praticado o crime de lavagem
+de dinheiro, sendo que um deles é Deputado Federal. Apenas o Deputado Federal é que será
+processado e julgado pelo STF; os outros serão processados e julgados na Justiça Comum (1a
+instância).
+Todavia, o entendimento do STF nem sempre foi assim. Na Ação Penal nº 470 (o conhecido caso
+do “Mensalão”), dos 40 acusados, 34 não possuíam direito ao foro por prerrogativa de função.
+Apesar disso, todos os acusados foram julgados pelo STF, ou seja, não ocorreu o
+desmembramento do processo.
+Aplicou-se ao caso o conteúdo da Súmula nº 704, do STF:
+
+            “Não viola as garantias do juiz natural, da ampla defesa e do devido processo
+           legal a atração por continência ou conexão do processo do corréu ao foro por
+           prerrogativa de função de um dos denunciados.”
+
+O que significa isso?
+Significa que, se o réu é parlamentar e, consequentemente, detentor de foro especial por
+prerrogativa de função, isso poderá ter como resultado a atração para o STF da competência
+para julgar cidadãos comuns que praticaram crimes conexos com os do parlamentar.
+Conforme já afirmamos, a regra geral é a de que o processo sofrerá desmembramento, cabendo
+ao STF processar e julgar apenas aqueles indivíduos que detêm prerrogativa de foro. No entanto,
+excepcionalmente, também é possível que seja aplicada a Súmula nº 704/STF, que não foi
+cancelada.
+Caberá ao STF decidir se o processo será ou não desmembrado. O não desmembramento
+(exceção) somente deverá ocorrer quando o julgamento em separado puder resultar em prejuízo
+à prestação jurisdicional.
+
+Outras prerrogativas
+Além das imunidades que acabamos de estudar, os parlamentares apresentam 3 (três)
+importantes prerrogativas: i) a isenção do dever de testemunhar; ii) a necessidade de prévia
+licença para incorporação às Forças Armadas; e iii) a imunidade parlamentar durante o estado de
+sítio.
+
+5
+    AP 396/RO. Rel. Min. Carmen Lúcia. 28.10.2010
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                     25
+           www.estrategiaconcursos.com.br                                                   113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+A isenção do dever de testemunhar dos parlamentares é garantida pela CF/88 em seu art. 53, §
+6º. Reza o texto constitucional que os deputados e senadores não serão obrigados a
+testemunhar sobre informações recebidas ou prestadas em razão do exercício do mandato, nem
+sobre as pessoas que lhes confiaram ou deles receberam informações.
+No que se refere à necessidade de licença para incorporação às Forças Armadas, determina a
+CF/88 que essa deverá se dar previamente ao ato, mesmo que o parlamentar seja militar e
+houver guerra (CF, art. 53, § 7º). Trata-se, de acordo com a doutrina, de mais uma imunidade,
+uma vez que livra o parlamentar de uma obrigação constitucionalmente imposta (CF, art. 143).
+Por fim, a CF/88 garante aos parlamentares a manutenção de suas imunidades materiais e
+formais durante o estado de sítio (CF, art. 53, § 8º). Essas imunidades só poderão ser suspensas
+mediante o voto de dois terços dos membros da Casa respectiva. A suspensão das imunidades,
+nesse caso, será aplicada apenas aos atos praticados fora do recinto do Congresso Nacional e
+que sejam incompatíveis com a execução da medida. Note que não há possibilidade de
+suspensão dessas imunidades no estado de defesa.         ==5460==
+
+Incompatibilidades dos parlamentares
+Segundo o art. 54 da Carta Magna, os Deputados e Senadores não poderão:
+a) Desde a expedição do diploma:
+
+       - Firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa
+       pública, sociedade de economia mista ou empresa concessionária de serviço público,
+       salvo quando o contrato obedecer a cláusulas uniformes;
+
+       - Aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam
+       demissíveis "ad nutum", em pessoa jurídica de direito público, autarquia, empresa pública,
+       sociedade de economia mista ou empresa concessionária de serviço público.
+
+b) Desde a posse:
+
+       - Ser proprietários, controladores ou diretores de empresa que goze de favor decorrente
+       de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;
+
+       - Ocupar cargo ou função de que sejam demissíveis "ad nutum", em pessoa jurídica de
+       direito público, autarquia, empresa pública, sociedade de economia mista ou empresa
+       concessionária de serviço público;
+
+       - Patrocinar causa em que seja interessada qualquer das entidades acima citadas;
+
+       - Ser titulares de mais de um cargo ou mandato público eletivo.
+
+Perda do mandato
+As hipóteses de perda do mandato de parlamentares estão previstas no art. 55, CF/88.
+
+        Art. 55. Perderá o mandato o Deputado ou Senador:
+        I - que infringir qualquer das proibições estabelecidas no artigo anterior;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          26
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+           II - cujo procedimento for declarado incompatível com o decoro parlamentar;
+           III - que deixar de comparecer, em cada sessão legislativa, à terça parte das
+           sessões ordinárias da Casa a que pertencer, salvo licença ou missão por esta
+           autorizada;
+           IV - que perder ou tiver suspensos os direitos políticos;
+           V - quando o decretar a Justiça Eleitoral, nos casos previstos nesta Constituição;
+           VI - que sofrer condenação criminal em sentença transitada em julgado.
+
+Em alguns casos (art. 55, I, II e VI), a perda do mandato deve ser votada pela Casa Legislativa.
+Trata-se de situações em que a perda não será automática; ao contrário, deverá ser decidida pela
+maioria absoluta da Casa Legislativa, mediante provocação da respectiva Mesa ou de partido
+político representado no Congresso Nacional, assegurada ampla defesa. Até a EC nº 76/2013,
+essa votação era secreta; a partir da nova emenda constitucional, passou-se a decidir pela perda
+do mandato em votação aberta.
+São casos em que a perda do mandato é votada pela Casa Legislativa: i) quando o parlamentar
+incorrer em alguma das incompatibilidades do art. 54; ii) quando houver falta de decoro
+parlamentar; ou iii) quando o parlamentar sofrer condenação criminal transitada em julgado.
+Segundo o art. 55, § 1o, da Constituição Federal, são incompatíveis com o decoro parlamentar,
+além dos casos descritos no Regimento Interno das Casas Legislativas, o abuso das prerrogativas
+asseguradas a membro do Congresso Nacional ou a percepção de vantagens indevidas.
+Questão polêmica diz respeito à condenação criminal transitada em julgado de um parlamentar.
+Será que, após a condenação criminal de um parlamentar pelo STF, haverá a perda automática
+do mandato?
+Não há, atualmente, uma posição segura do STF a respeito do tema, uma vez que existe
+divergência entre a Primeira e a Segunda Turmas da Corte.
+A 1ª Turma do STF tem entendido o seguinte6:
+          a) Caso o Deputado Federal ou Senador tenha sido condenado a mais de 120 dias em
+          regime fechado, haverá perda automática do mandato. O parlamentar não poderá, afinal,
+          frequentar o Congresso Nacional durante todo esse período e, como consequência,
+          incorrerá na hipótese de perda do mandato prevista no art. 55, III, CF/88 (“deixar de
+          comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Casa a que
+          pertencer, salvo licença ou missão por esta autorizada”).
+          b) Caso o Deputado Federal ou Senador tenha sido condenado à pena em regime aberto
+          ou semiaberto, a perda do mandato não será automática. Caberá ao Plenário da Casa
+          Legislativa deliberar acerca da perda do mandato do parlamentar.
+A 2ª Turma do STF7, por outro lado, adota um posicionamento mais favorável aos parlamentares,
+entendendo que a perda do mandato sempre dependerá de deliberação da Casa Legislativa. Em
+outras palavras, a perda do mandato não será automática. Mesmo que o STF tenha condenado
+
+
+6
+    AP 694/MT. Rel. Min. Rosa Weber. Julgamento: 02.05.2017.
+7
+    AP 996/DF. Rel. Min. Edson Fachin. Julgamento: 29.05.2018.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          27
+           www.estrategiaconcursos.com.br                                                        113
+
+                                         
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 10
+
+criminalmente o parlamentar, será possível que ele conserve o mandato, se assim for decidido
+pela Casa Legislativa.
+Nas hipóteses do art. 55, III, IV e V, a perda do mandato do parlamentar será declarada pela
+Mesa, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político
+representado no Congresso Nacional, assegurada ampla defesa.
+É o que acontece quando o parlamentar deixa de comparecer a 1/3 das sessões ordinárias da
+Casa Legislativa, salvo licença ou missão por ela autorizada. Ou, ainda, quando há perda ou
+suspensão dos direitos políticos. Também haverá perda declarada pela mesa quando a Justiça
+Eleitoral decretar a perda do mandato do parlamentar. Destaque-se que, na perda do cargo por
+decretação da Justiça Eleitoral, não se exige o trânsito em julgado da sentença.
+
+Esquematizando:
+
+                                    Perderá o mandato o Deputado ou Senador...
+ ●       Que infringir qualquer das proibições do art. 54 da A perda do mandato dependerá de
+ Constituição;                                                juízo do Plenário da Casa Legislativa
+ ●       Cujo procedimento for declarado incompatível com (decisão política)
+ o decoro parlamentar;
+ ●       Que sofrer condenação criminal em sentença
+ transitada em julgado8.
+ ●       Que deixar de comparecer, em cada sessão A perda será declarada pela Mesa da
+ legislativa, à terça parte das sessões ordinárias da Casa a Casa Legislativa, de ofício ou
+ que pertencer, salvo licença ou missão por esta autorizada; mediante provocação de qualquer de
+ ●       Que perder ou tiver suspensos os direitos políticos; seus membros, ou de partido político
+ ●       Quando o decretar a Justiça Eleitoral, nos casos representado no Congresso Nacional,
+ previstos na Constituição.                                   assegurada ampla defesa.
+No art. 56, a CF/88 traz situações em que não haverá perda do mandato do parlamentar:
+
+          Art. 56. Não perderá o mandato o Deputado ou Senador:
+          I - investido no cargo de Ministro de Estado, Governador de Território, Secretário
+          de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de
+          missão diplomática temporária;
+          II - licenciado pela respectiva Casa por motivo de doença, ou para tratar, sem
+          remuneração, de interesse particular, desde que, neste caso, o afastamento não
+          ultrapasse cento e vinte dias por sessão legislativa.
+
+É bastante comum o caso do art. 56, I. O parlamentar afasta-se, por exemplo, para ocupar o
+cargo de Ministro de Estado, sendo, então, convocado o suplente. O parlamentar afastado não
+perderá o cargo de Senador ou Deputado Federal, podendo, inclusive, optar pela remuneração
+relativa ao mandato.
+Ressalte-se que, segundo o STF, o afastamento de parlamentar para ocupar cargo no Poder
+Executivo resultará na suspensão das imunidades parlamentares (imunidade material e imunidade
+
+8
+
+          Receita Federal (Analista Tributário) Direito Constitucional                          28
+          www.estrategiaconcursos.com.br                                                        113
+
+                                        
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+formal).9 Ademais, o deputado Federal ou Senador afastado para ocupar cargo no Poder
+Executivo estará sujeito a procedimento disciplinar perante sua Casa Legislativa em virtude de
+quebra de decoro parlamentar. Isso acontece porque não perdeu sua condição de parlamentar,
+estando apenas afastado do exercício de suas funções e investido, temporária e precariamente,
+em cargo executivo.10
+Imunidades                dos       Deputados              Estaduais,         Deputados   Distritais   e
+Vereadores
+De acordo com o art. 27, § 1º, da CF/88, aos Deputados Estaduais (e Deputados Distritais) serão
+aplicadas as regras previstas na Constituição Federal sobre sistema eleitoral, inviolabilidade,
+imunidades, remuneração, perda de mandato, licença, impedimentos e incorporação às Forças
+Armadas. Assim, pode-se afirmar que os Deputados Estaduais gozam de imunidade formal e
+imunidade material.
+Os Vereadores, por sua vez, não têm imunidade formal (processual), mas apenas imunidade
+material. Eles serão invioláveis por suas opiniões, palavras e votos no exercício do mandato
+apenas na circunscrição do Município.
+
+9
+    Inq 105-DF. Rel Min. Néri da Silveira. RTJ 99/487-491.
+10
+     STF, MS 25.579/DF. Rel. Min. Joaquim Barbosa. 19.10.2005.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                29
+           www.estrategiaconcursos.com.br                                                              113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+     FISCALIZAÇÃO CONTÁBIL, ORÇAMENTÁRIA, PATRIMONIAL E
+                       OPERACIONAL
+Os controles interno e externo
+Os dinheiros públicos sofrem duas formas de controle: i) o controle interno, realizado no âmbito
+de cada Poder; e ii) o controle externo, de competência do Poder Legislativo. Veja o que dispõe
+a Constituição sobre o controle interno:
+
+        Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma
+        integrada, sistema de controle interno com a finalidade de:
+        I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos
+        programas de governo e dos orçamentos da União;
+        II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência,
+        da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da
+        administração federal, bem como da aplicação de recursos públicos por
+        entidades de direito privado;
+        III - exercer o controle das operações de crédito, avais e garantias, bem como
+        dos direitos e haveres da União;
+        IV - apoiar o controle externo no exercício de sua missão institucional.
+
+O controle interno é realizado dentro de cada Poder. No Executivo, é realizado pela
+Controladoria-Geral da União (CGU); no Judiciário, é realizado pelo Conselho Nacional de Justiça
+(CNJ).
+O controle externo é exercido por órgão que não integra a estrutura daquele que é fiscalizado.
+Trata-se do controle exercido pelo Poder Legislativo sobre os demais Poderes, como veremos
+mais detalhadamente a seguir.
+Os controles interno e externo são realizados de forma complementar. Nesse sentido, determina
+a Carta Magna que os responsáveis pelo controle interno, ao tomarem conhecimento de
+qualquer irregularidade ou ilegalidade, deverão cientificar o Tribunal de Contas da União (TCU),
+sob pena de responsabilidade solidária (art. 74, CF/88).
+
+A Fiscalização                     Contábil,              Orçamentária,    Patrimonial         e
+Operacional
+A fiscalização contábil, orçamentária, patrimonial e operacional da União e das entidades da
+Administração Direta e Indireta tem como responsável o Congresso Nacional, com o auxílio do
+Tribunal de Contas da União (TCU). Nos Estados, são as Assembleias Legislativas as responsáveis
+pela fiscalização, auxiliadas pelos Tribunais de Contas dos Estados.
+A fiscalização realizada pelo Legislativo tem como objeto a legalidade, a legitimidade, a
+economicidade, a aplicação das subvenções e a renúncia de receitas (art. 70, caput, CF/88) e
+como fundamentos os princípios da legalidade, impessoalidade, moralidade e eficiência, entre
+outros.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           30
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+Os Tribunais de Contas
+Os Tribunais de Contas são órgãos independentes e autônomos, sem subordinação hierárquica a
+qualquer dos Poderes da República. Sua autonomia é garantida constitucionalmente. Embora
+estejam de certo modo vinculados ao Poder Legislativo, não exercem função legislativa, mas de
+fiscalização e controle, de natureza administrativa.
+
+           Após a promulgação da Emenda Constitucional nº 136/2026, os Tribunais de
+           Contas passaram a ser considerados instituições permanentes e essenciais ao
+           exercício do controle externo.
+
+A missão desses órgãos é orientar o Poder Legislativo no exercício do controle externo. Embora
+o titular do controle externo seja o Poder Legislativo, são os Tribunais de Contas os órgãos que,
+tecnicamente, realizam essa atividade. Sua atuação alcança toda a Administração Pública (direta
+e indireta), de todos os Poderes.
+Reconhecia-se que os Tribunais de Contas órgãos poderiam, inclusive, realizar o controle de
+constitucionalidade de leis. Esse controle de constitucionalidade não se dava em abstrato (lei em
+tese), mas sim no caso concreto (via de exceção). Por meio dele, poderia a Corte de Contas
+deixar de aplicar um ato por considerá-lo incompatível com a Constituição.
+O enunciado da Súmula 347 do STF, que trata sobre o controle de constitucionalidade por parte
+dos Tribunais de Contas, tem a seguinte redação: "O Tribunal de Contas, no exercício de suas
+atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público". Vale notar
+também que essa súmula foi editada no ano de 1963.
+Todavia, pode-se afirmar que atualmente a referida súmula está superada e não mais prevalece.
+Apesar de não ter sido expressamente revogada, seu conteúdo não tem tido mais eficácia
+prática em algumas decisões do STF.
+Em recente julgamento (MS 35.410), o STF afirmou que o TCU, "órgão sem função jurisdicional,
+não pode declarar a inconstitucionalidade de lei federal com efeitos erga omnes e vinculantes no
+âmbito de toda a Administração Pública Federal"1. Tal decisão vai ao encontro de uma tese que
+já vinha ganhando força no âmbito do STF2, no sentido de afastar a competência de exercício de
+controle de constitucionalidade por parte do Tribunal de Contas.
+
+O Tribunal de Contas da União
+O Tribunal de Contas da União (TCU) é órgão independente, que não integra nenhum dos
+Poderes da República. Tem natureza político-administrativa e estatura constitucional, sendo
+
+1
+    MS 35.410, Rel. Min. Alexandre de Moraes, julgamento em 06.05.2021.
+2
+    Vide o MS 25.888 e MS 27.796.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        31
+           www.estrategiaconcursos.com.br                                                      113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+responsável pelo controle externo da Administração Pública. Possui autonomia funcional,
+administrativa, financeira e orçamentária.
+O Tribunal de Contas da União (TCU) é composto de 9 (nove) Ministros, que dispõem das
+mesmas prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior
+Tribunal de Justiça (STJ). Para sua investidura, é necessário o cumprimento dos requisitos
+enumerados no art. 73, §1º, da CF:
+       a) Mais de trinta e cinco e menos de setenta anos de idade;
+       b) Idoneidade moral e reputação ilibada;
+       c) Notórios conhecimentos jurídicos, contábeis, econômicos e financeiros ou de
+       administração pública;
+       d) Mais de dez anos de exercício de função ou de efetiva atividade profissional que exija
+       os conhecimentos mencionados acima.               ==5460==
+
+A escolha de um terço (três) desses Ministros cabe ao Presidente da República, com posterior
+aprovação dos nomes pelo Senado Federal. Dois desses Ministros deverão ser escolhidos
+alternadamente entre auditores e membros do Ministério Público junto ao Tribunal, indicados em
+lista tríplice pelo TCU, segundo critérios de antiguidade e merecimento. Os outros dois terços
+são escolhidos pelo Congresso Nacional, na forma de seu regimento interno.
+A sede do TCU fica no Distrito Federal, embora essa Corte de Contas tenha jurisdição em todo o
+território nacional. Vejamos, agora, suas competências:
+
+        Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o
+        auxílio do Tribunal de Contas da União, ao qual compete:
+        I - apreciar as contas prestadas anualmente pelo Presidente da República,
+        mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de
+        seu recebimento;
+        II - julgar as contas dos administradores e demais responsáveis por dinheiros,
+        bens e valores públicos da administração direta e indireta, incluídas as fundações
+        e sociedades instituídas e mantidas pelo Poder Público federal, e as contas
+        daqueles que derem causa a perda, extravio ou outra irregularidade de que
+        resulte prejuízo ao erário público;
+
+Compete ao TCU julgar as contas dos administradores e demais responsáveis por recursos
+públicos. Já no que concerne às contas do Presidente da República, cabe à Corte apenas
+apreciá-las, mediante parecer prévio, elaborado no prazo de sessenta dias a contar do seu
+recebimento. Esse parecer tem caráter meramente opinativo. O julgamento dessas contas é de
+competência do Congresso Nacional.
+
+        III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal,
+        a qualquer título, na administração direta e indireta, incluídas as fundações
+        instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo
+        de provimento em comissão, bem como a das concessões de aposentadorias,
+        reformas e pensões, ressalvadas as melhorias posteriores que não alterem o
+        fundamento legal do ato concessório;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           32
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+Os atos de admissão de pessoal na Administração Pública, direta e indireta, são apreciados,
+quanto à legalidade, pelo Tribunal de Contas da União. Isso também se aplica aos atos de
+concessão de aposentadorias, reformas e pensões.
+Há, entretanto, algumas ressalvas importantes a essa competência. Não se submetem à
+apreciação do TCU a admissão de pessoal para cargos de provimento em comissão. Também
+não se sujeitam à análise da Corte de Contas as melhorias posteriores dos atos de concessão de
+aposentadoria, reforma e pensão que não alterem o fundamento legal do ato concessório.
+Outro ponto importante a ser analisado nesse tópico é que, em regra, todos os processos
+perante o TCU devem observar o contraditório e a ampla defesa quando da decisão possa
+resultar anulação ou revogação de ato administrativo que beneficie o interessado. Trata-se de
+obediência ao devido processo legal, garantia prevista expressamente na Constituição da
+República. Vejamos o que dispõe a Súmula Vinculante no 03:
+
+                                              Súmula Vinculante n. 03
+         “Nos processos perante o Tribunal de Contas da União asseguram-se o
+         contraditório e a ampla defesa quando da decisão puder resultar anulação ou
+         revogação de ato administrativo que beneficie o interessado, excetuada a
+         apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma
+         e pensão”.
+
+
+Perceba que, na apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma
+e pensão, excepcionalmente, não há garantia de contraditório e ampla defesa. Isso acontece
+porque, segundo o STF, o ato administrativo em questão é do tipo complexo, sendo
+aperfeiçoado com o registro realizado pela Corte de Contas. Fique atento a esse detalhe,
+bastante cobrado em provas!
+Segundo o STF, há um prazo decadencial de 5 anos para que o TCU aprecie a legalidade do ato
+de concessão inicial de aposentadoria, reforma e pensão. Após 5 anos da chegada do processo
+na Corte de Contas, haverá “concessão tácita” da aposentadoria. Em outras palavras, o TCU tem
+o prazo máximo de 5 anos para apreciar a legalidade do ato de concessão inicial de
+aposentadoria, reforma e pensão.
+Por último, um importante entendimento do STF refere-se à impossibilidade de o Tribunal de
+Contas suprimir vantagem pecuniária incluída nos proventos de servidor por decisão judicial
+transitada em julgado (MS 25.460, DJ de 10.2.2006). Esse tipo de decisão, segundo a Corte, só
+pode ser modificada por meio de ação rescisória.
+....
+
+         IV - realizar, por iniciativa própria, da Câmara dos Deputados, do Senado Federal,
+         de Comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil,
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                         33
+         www.estrategiaconcursos.com.br                                                       113
+
+                                       
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+           financeira, orçamentária, operacional e patrimonial, nas unidades administrativas
+           dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no
+           inciso II;
+           V - fiscalizar as contas nacionais das empresas supranacionais de cujo capital
+           social a União participe, de forma direta ou indireta, nos termos do tratado
+           constitutivo;
+           VI - fiscalizar a aplicação de quaisquer recursos repassados pela União mediante
+           convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito
+           Federal ou a Município;
+
+Com base no art. 71, inciso VI, o STF entendeu que o TCU não tem competência para fiscalizar a
+aplicação dos recursos recebidos a títulos de royalties decorrentes da extração de petróleo, xisto
+betuminoso e gás natural, pelos Estados e Municípios. Trata-se de competência dos Tribunais de
+Contas Estaduais, e não do TCU, tendo em vista que o art. 20, § 1º, da Constituição, qualificou os
+royalties como receita própria dos Estados, Distrito Federal e Municípios3.
+           VII - prestar as informações solicitadas pelo Congresso Nacional, por qualquer de
+           suas Casas, ou por qualquer das respectivas Comissões, sobre a fiscalização
+           contábil, financeira, orçamentária, operacional e patrimonial e sobre resultados
+           de auditorias e inspeções realizadas;
+           VIII - aplicar aos responsáveis, em caso de ilegalidade de despesa ou
+           irregularidade de contas, as sanções previstas em lei, que estabelecerá, entre
+           outras cominações, multa proporcional ao dano causado ao erário;
+           IX - assinar prazo para que o órgão ou entidade adote as providências
+           necessárias ao exato cumprimento da lei, se verificada ilegalidade;
+           X - sustar, se não atendido, a execução do ato impugnado, comunicando a
+           decisão à Câmara dos Deputados e ao Senado Federal;
+           XI - representar ao Poder competente sobre irregularidades ou abusos apurados.
+           § 1º - No caso de contrato, o ato de sustação será adotado diretamente pelo
+           Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as medidas
+           cabíveis.
+           § 2º - Se o Congresso Nacional ou o Poder Executivo, no prazo de noventa dias,
+           não efetivar as medidas previstas no parágrafo anterior, o Tribunal decidirá a
+           respeito.
+
+Os atos administrativos podem ser sustados diretamente pelo TCU, sendo comunicada a decisão
+à Câmara dos Deputados e ao Senado Federal. Já no que se refere aos contratos administrativos,
+a sustação caberá ao Congresso Nacional, que solicitará ao Executivo a anulação desses atos.
+Caso essas medidas não sejam adotadas no prazo de noventa dias, o TCU adquirirá competência
+para decidir a respeito, podendo determinar a sustação do contrato.
+Entende o STF que o TCU tem legitimidade para expedir medidas cautelares para prevenir a
+ocorrência de lesão ao erário ou a direito alheio, bem como para garantir a efetividade de suas
+
+3
+    MS 24.312-RJ, Rel. Min. Ellen Gracie, 19.02.2003.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        34
+           www.estrategiaconcursos.com.br                                                      113
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+decisões. Isso decorre da teoria de poderes implícitos, segundo a qual, a toda competência
+prevista constitucionalmente, há previsão, ainda que implicitamente, das prerrogativas
+necessárias para lhe dar efetividade (MS 26.547/DF, 23.05.2007).
+Entretanto, não tem a Corte de Contas, segundo o STF, poder para decretar quebra de sigilo
+bancário (Notícias STF, 17.12.2007). Isso acontece porque o TCU é um órgão auxiliar do Poder
+Legislativo, mas não se confunde com este. Cabe ao Legislativo, não ao TCU, determinar a
+invasão dos dados bancários.
+Mas atenção! Segundo o STF, “as operações financeiras que envolvam recursos públicos não
+estão abrangidas pelo sigilo bancário”. Há uma relativização do sigilo dessas informações frente
+ao interesse de toda a sociedade de conhecer o destino dos recursos públicos.
+Também não tem o TCU função jurisdicional (de “dizer o direito”). O TCU não é um tribunal
+administrativo, no sentido francês, dotado de poder de solução dos conflitos em última instância.
+O princípio da inafastabilidade da jurisdição impede que haja essa equiparação, além do que os
+poderes desse órgão estão devidamente delimitados constitucionalmente no artigo 71.4
+
+           § 3º - As decisões do Tribunal de que resulte imputação de débito ou multa terão
+           eficácia de título executivo.
+
+A Constituição Federal atribuiu às decisões do TCU que resultem na imputação de débito ou
+multa eficácia de título executivo extrajudicial. Isso significa que a decisão do TCU já servirá
+como fundamento para um processo de execução contra aquele que sofreu a penalidade. O
+processo de execução compete à Advocacia-Geral da União.
+
+           § 4º - O Tribunal encaminhará ao Congresso Nacional, trimestral e anualmente,
+           relatório de suas atividades.
+
+Os Tribunais de Contas também estão sujeitos ao controle do Poder Legislativo. Em âmbito
+federal, o TCU tem o dever de encaminhar ao Congresso Nacional, trimestral e anualmente,
+relatório de suas atividades, o que irá viabilizar um controle político pelo Parlamento. No relatório
+anual, o Tribunal deve apresentar a análise da evolução dos custos de controle e de sua
+eficiência, eficácia e economicidade.
+Segundo a Lei Orgânica do TCU (Lei Federal nº 8.443/92, art. 90), a fiscalização contábil,
+financeira, orçamentária, operacional e patrimonial do Tribunal de Contas da União será exercida
+pelo Congresso Nacional, na forma definida no seu regimento comum.
+
+Os Tribunais de Contas dos Estados e dos Municípios
+As normas estabelecidas para o TCU aplicam-se, no que couber, à organização, composição e
+fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e
+Conselhos de Contas dos Municípios.
+
+           Art. 75. Os Tribunais de Contas são instituições permanentes, essenciais ao
+           exercício do controle externo, e as normas estabelecidas nesta Seção aplicam-se,
+           no que couber, à organização, composição e fiscalização dos Tribunais de Contas
+           dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de
+           Contas dos Municípios, vedada sua extinção, criação ou instalação.
+
+4
+    MS 29599 DF, DJe-030, p. 15/02/2011.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           35
+           www.estrategiaconcursos.com.br                                                         113
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+Entretanto, a Constituição estabelece, também, algumas particularidades para essas Cortes de
+Contas, que estudaremos a seguir.
+Os Tribunais de Contas dos Estados e do Distrito Federal são compostos de sete conselheiros
+(art. 75, parágrafo único, CF), cujos vencimentos terão como parâmetro aqueles dos
+desembargadores do Tribunal de Justiça (ADI 396, DJ de 5.8.2005). Em decorrência do princípio
+da simetria, a nomeação desses Conselheiros segue os mesmos critérios estabelecidos pela
+CF/88 (art. 73, § 1º). Nesse sentido, entende o STF que:
+
+           Súmula 653 do STF: “No Tribunal de Contas Estadual, composto por sete
+           conselheiros, quatro devem ser escolhidos pela Assembleia Legislativa e três pelo
+           Chefe do Poder Executivo estadual, cabendo a este indicar um dentre auditores e
+           outro dentre membros do Ministério Público, e um terceiro à sua livre escolha.”
+
+Os Tribunais de Contas dos Estados (TCEs) são responsáveis pelo controle externo da
+Administração Pública estadual, direta e indireta. O poder de controle do TCE alcança, inclusive,
+o Poder Legislativo estadual. Por isso, segundo o STF, é inconstitucional norma da Constituição
+Estadual que atribui à Assembleia Legislativa a competência para analisar e julgar as contas do
+Poder Legislativo.5 Isso acontece porque o controle de contas do Poder Legislativo estadual é
+atribuição do TCE.
+“E a quem o Tribunal de Contas Estadual prestará contas, professora?”
+Excelente pergunta! À Assembleia Legislativa do Estado. Entende o STF (ADI 687, DJ
+10.02.2006) que o Tribunal de Contas está obrigado, por expressa determinação constitucional, a
+encaminhar, ao Poder Legislativo a que se acha institucionalmente vinculado, tanto relatórios
+trimestrais quanto anuais de suas próprias atividades, com o objetivo de expor a situação das
+finanças públicas administradas por esses órgãos.
+Passaremos, agora, à análise da fiscalização do Município, prevista no art. 31 da Constituição:
+
+           Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo
+           Municipal, mediante controle externo, e pelos sistemas de controle interno do
+           Poder Executivo Municipal, na forma da lei.
+           § 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos
+           Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais
+           de Contas dos Municípios, onde houver, vedada sua extinção, criação ou
+           instalação.
+
+A fiscalização do Município cabe ao Legislativo Municipal (controle externo) e ao Executivo
+Municipal (controle interno), na forma da lei. No controle externo, a Câmara Municipal contará
+
+5
+    ADI 1779. Rel. Min. Ilmar Galvão. Julgamento: 01.08.2001.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           36
+           www.estrategiaconcursos.com.br                                                         113
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 10
+
+com o auxílio dos Tribunais de Contas do Estado ou do Município ou dos Conselhos ou Tribunais
+de Contas dos Municípios, onde houver, vedada sua extinção, criação ou instalação.
+Importante notar também que, após a Emenda Constitucional nº 139/2026, ficou expressamente
+vedada no texto constitucional a extinção de Tribunais de Contas. Em suma: não podem ser
+criados novos Tribunais de Contas Municipais (a exemplo do TCM/SP e TCM/RJ), mas também
+não se pode extinguir aqueles que já existem.
+
+           § 4º - É vedada a criação de Tribunais, Conselhos ou órgãos de Contas
+           Municipais.
+
+A Constituição Federal de 1988 proíbe que sejam criados órgãos de contas municipais. Eles até
+existem, mas apenas quando criados previamente à Constituição de 1988. É o caso do TCM-SP e
+do TCM-RJ. Depois da promulgação da CF/88, nenhum órgão de contas municipal foi criado.
+Podem existir órgãos estaduais com competência para o controle externo da Administração
+Pública de todos os municípios de um determinado estado. São os Conselhos ou Tribunais de
+Contas dos Municípios. É o caso, por exemplo, do TCM-GO, que é órgão estadual com
+competência sobre todos os Municípios de Goiás.
+Caso não exista um órgão de contas municipal (criado antes da CF/88) ou um órgão de contas
+estadual com competência sobre todos os Municípios do estado, o controle externo da
+Administração Pública municipal caberá ao Tribunal de Contas do Estado (TCE).
+Em síntese, o controle externo da Administração Pública municipal poderá ser feito por 3 (três)
+tipos de órgãos diferentes:
+          a) Órgão de contas municipal: Aplica-se quando há órgãos de contas municipais criados
+          antes da CF/88. É o caso do TCM-RJ e TCM-SP.
+          b) Órgão de contas estadual com competência sobre todos os Municípios do estado: São
+          órgãos de contas estaduais, mas que têm como tarefa o controle externo da
+          Administração Pública dos Municípios do estado. É o caso do TCM-GO, TCM-BA e
+          TCM-PA.
+          c) Tribunal de Contas do Estado (TCEs): Naqueles estados em que não existirem os órgãos
+          de contas a que fizemos alusão anteriormente, o controle externo da Administração
+          Pública municipal será competência do TCE.
+Antes da PEC 139/2026, houve a extinção do Tribunal de Contas dos Municípios do Ceará
+(TCM-CE), pois o STF entendeu que os Estados teriam autonomia para decidir se o controle
+externo das Administrações Municipais será feito por Tribunal de Contas dos Municípios (TCM)
+ou por Tribunal de Contas Estadual (TCE), materializando-se tal decisão por norma constitucional
+estadual.6 Com base nesse entendimento, o STF julgou constitucional, na ocasião, a extinção do
+TCM-CE por emenda à Constituição Estadual. A Corte ainda destacou que não havia
+necessidade de participação dos Municípios no processo legislativo referente a essa matéria.
+
+           Art. 31, § 2º - O parecer prévio, emitido pelo órgão competente sobre as contas
+           que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de
+           dois terços dos membros da Câmara Municipal.
+
+
+6
+    ADI 5.763/CE, Rel. Min. Marco Aurélio, julgamento em 26.10.2017.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        37
+           www.estrategiaconcursos.com.br                                                     113
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Porém, após a PEC 139/2026, os Tribunais de Contas foram considerados órgãos permanentes e
+essenciais, conforme se verifica no art. 75 da CF/88:
+
+        Art. 75. Os Tribunais de Contas são instituições permanentes, essenciais ao
+        exercício do controle externo, e as normas estabelecidas nesta Seção aplicam-se,
+        no que couber, à organização, composição e fiscalização dos Tribunais de Contas
+        dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de
+        Contas dos Municípios, vedada sua extinção, criação ou instalação.
+
+A parte final do art. 75 agora expressamente veda a extinção, criação ou instalação de tribunais
+de contas.
+Para entender o tema “julgamento das contas do Prefeito”, será necessário que se saiba a
+diferença entre contas de governo e contas de gestão.
+As contas de governo têm caráter político e são de responsabilidade do Chefe do Poder
+Executivo. No âmbito federal e estadual, são julgadas pelo Poder Legislativo, cabendo aos
+Tribunais de Contas tão somente apreciá-las. É o que se extrai do art. 71, I, CF/88:
+
+        Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o
+        auxílio do Tribunal de Contas da União, ao qual compete:
+        I - apreciar as contas prestadas anualmente pelo Presidente da República,
+        mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de
+        seu recebimento;
+
+Já as contas de gestão têm caráter técnico e são de responsabilidade dos administradores
+públicos. Na União e nos Estados, são julgadas pelos Tribunais de Contas. É o que se extrai do
+art. 71, II, CF/88:
+
+        Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o
+        auxílio do Tribunal de Contas da União, ao qual compete:
+        (...)
+        II - julgar as contas dos administradores e demais responsáveis por dinheiros,
+        bens e valores públicos da administração direta e indireta, incluídas as fundações
+        e sociedades instituídas e mantidas pelo Poder Público federal, e as contas
+        daqueles que derem causa a perda, extravio ou outra irregularidade de que
+        resulte prejuízo ao erário público;
+
+Em alguns Municípios, notadamente nos menores, pode haver uma particularidade. O Prefeito,
+ao contrário do Presidente da República e dos Governadores, pode também ser ordenador de
+despesas e, portanto, ser responsável pelas contas de governo e pelas contas de gestão. Assim,
+havia controvérsias quanto à competência para o julgamento das contas de governo e contas de
+gestão em nível municipal.
+Apenas para esclarecer, ordenador de despesas é a autoridade cujos atos resultam em emissão
+de empenho, autorização de pagamento, suprimento ou dispêndio de recursos públicos. Nos
+Municípios menores, às vezes por ausência de pessoal, o Prefeito acaba desempenhando
+também essa função ao invés de delegá-la a outro agente público da Administração.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          38
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+        I - Prefeitos que ordenam despesas têm o dever de prestar contas, seja por
+        atuarem como responsáveis por dinheiros, bens e valores públicos da
+        administração, seja na eventualidade de darem causa a perda, extravio ou outra
+        irregularidade que resulte em prejuízo ao erário;
+        II - Compete aos Tribunais de Contas, nos termos do art. 71, II, da Constituição
+        Federal de 1988, o julgamento das contas de Prefeitos que atuem na qualidade
+        de ordenadores de despesas;
+        III - A competência dos Tribunais de Contas, quando atestada a irregularidade de
+        contas de gestão prestadas por Prefeitos ordenadores de despesa, se restringe à
+        imputação de débito e à aplicação de sanções fora da esfera eleitoral,
+        independentemente de ratificação pelas Câmaras Municipais, preservada a
+        competência exclusiva destas para os fins do art. 1º, inciso I, alínea g, da Lei
+        Complementar nº 64/1990 (ADPF 982, Rel. Min. Flávio Dino, j. 24.02.2025, p.
+        17.03.2025).
+
+        Não se admite o “julgamento ficto” das contas do Prefeito. Isso quer dizer que a
+        rejeição pelo Tribunal de Contas não é suficiente para tornar o Prefeito inelegível.
+        É preciso que a Câmara Municipal decida nesse sentido, não sendo possível
+        obrigá-la a julgar em tempo razoável as contas do Prefeito.
+
+(TCE-SC – 2022) Segundo o STF, não pode o Tribunal de Contas da União afastar incidentalmente
+a aplicação de lei federal sob o argumento de inconstitucionalidade.
+Comentários:
+O Supremo Tribunal Federal, em diversas decisões monocráticas, tem questionado a
+competência defendida pelo TCU para declarar inconstitucionais leis ou atos normativos do
+Poder Público, sob o argumento de que a Súmula 347 foi editada em 13/12/1963. Questão
+correta.
+(TCE-RJ – 2022) Cabe ao Tribunal de Contas da União a fiscalização da aplicação de recursos
+públicos repassados pela União, mediante ajuste, a estado, ao Distrito Federal ou a município.
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           39
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+A questão decorre diretamente do art. 71, inciso VI, da CF/88. Questão correta.
+(TCE-SC – 2021) As normas constitucionais alusivas às competências institucionais do Tribunal de
+Contas da União são de observância compulsória pelas constituições dos estados-membros.
+Comentários:
+A questão vai ao encontro do art. 75 da CF/88, que estabelece que as normas estabelecidas para
+o TCU se aplicam, no que couber, à organização, composição e fiscalização dos Tribunais de
+Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos
+Municípios. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          40
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                                    QUESTÕES COMENTADAS
+
+Poder Legislativo
+
+1.​   (FGV/TRF 1ª Região/Técnico Judiciário/2024) João, parlamentar atuante no Congresso
+Nacional, solicitou que sua assessoria analisasse os aspectos procedimentais a serem observados
+para a fixação do subsídio do presidente e do vice-presidente da República. A assessoria
+respondeu corretamente que, à luz da Constituição da República, a matéria é de competência:
+
+a) exclusiva do Congresso Nacional, o que afasta a exigência de lei;
+
+b) da União, podendo ser fixada em medida provisória ou em lei ordinária;
+
+c) privativa do Congresso Nacional, devendo ser fixada em lei ordinária, de iniciativa parlamentar;
+
+d) exclusiva do Congresso Nacional, sendo assegurado ao presidente da República o poder de
+veto;
+
+e) privativa do Congresso Nacional, devendo ser fixada em lei ordinária, de iniciativa exclusiva do
+presidente da República.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! Os decretos legislativos são utilizados para
+regulamentação das matérias de competência exclusiva do Congresso Nacional, de acordo com
+o art. 49, inciso VIII da CRFB/88:
+
+                         Art. 49. É da competência exclusiva do Congresso Nacional:
+
+                         VIII - fixar os subsídios do Presidente e do Vice-Presidente da República e
+                         dos Ministros de Estado, observado o que dispõem os arts. 37, XI, 39, § 4º,
+                         150, II, 153, III, e 153, § 2º, I";
+
+LETRA B. INCORRETA. Está equivocada a alternativa, já que compete Congresso Nacional por
+decreto legislativo e não a União editar o tema por medida provisória ou lei ordinária.
+
+LETRA C. INCORRETA. Na verdade, a competência é exclusiva do Congresso Nacional por
+decreto legislativo, de acordo com o art. 49, inciso VIII da CRFB/88.
+
+LETRA D. INCORRETA. Nesse caso, por se tratar de competência exclusiva do Congresso
+Nacional, não há que se falar em veto do Presidente da República, de acordo com o art. 48 da
+CRFB/88:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             41
+        www.estrategiaconcursos.com.br                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         Art. 48. Cabe ao Congresso Nacional, com a sanção do Presidente da
+                         República, não exigida esta para o especificado nos arts. 49, 51 e 52, dispor
+                         sobre todas as matérias de competência da União, especialmente sobre: (...)
+
+LETRA E. INCORRETA. Trata-se de competência exclusiva do Congresso Nacional, que será
+fixada por meio do decreto legislativo.
+
+Gabarito: Letra A.
+
+2.​   (FGV/TCE-PA/Auditor/2024) Após ampla mobilização da oposição, cento e setenta e cinco
+Deputados Federais subscreveram requerimento de instauração de Comissão Parlamentar de
+Inquérito (CPI) no âmbito da Câmara dos Deputados, com o objetivo de analisar a presença, ou
+não, de autorização para as operações externas de natureza financeira realizadas pelos Estados e
+pelo Distrito Federal. Com a instauração da CPI, foi deliberado que não seriam acolhidos
+requerimentos de interceptação telefônica, os quais não seriam abrangidos pelo potencial
+expansivo dessa comissão de natureza temporária.
+
+À luz da sistemática constitucional, é correto afirmar que a narrativa
+
+a) não apresenta nenhuma irregularidade.
+
+b) somente apresenta irregularidade em relação ao objeto da CPI.
+
+c) somente apresenta irregularidade em relação ao número de parlamentares que subscreveu o
+requerimento.
+
+d) somente apresenta irregularidade em relação à ausência de proporcionalidade na subscrição
+do requerimento.
+
+e) somente apresenta irregularidade em relação à vedação ao acolhimento de requerimentos de
+interceptação telefônica.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, apresenta irregularidade quanto ao objeto já que o disposto
+no enunciado não é um fato determinado, ferindo o que dispõe o art. 58, §3º da CRFB/88.
+
+LETRA B. CORRETA. É o nosso gabarito! As CPIs são instauradas para apurar fato determinado e
+por prazo certo. O enunciado nos traz uma situação indeterminada, assim não compete à CPI
+investigá-la, de acordo com o art. 58, § 3º da CRFB/88.
+
+                         § 3º As comissões parlamentares de inquérito, que terão poderes de
+                         investigação próprios das autoridades judiciais, além de outros previstos nos
+                         regimentos das respectivas Casas, serão criadas pela Câmara dos
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               42
+        www.estrategiaconcursos.com.br                                                             113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         Deputados e pelo Senado Federal, em conjunto ou separadamente,
+                         mediante requerimento de um terço de seus membros, para a apuração de
+                         fato determinado e por prazo certo, sendo suas conclusões, se for o caso,
+                         encaminhadas ao Ministério Público, para que promova a responsabilidade
+                         civil ou criminal dos infratores.
+
+LETRA C. INCORRETA. Não há irregularidade em relação ao número de parlamentares que
+subscreveu o requerimento, já que representa mais de 1/3 de seus membros, de acordo com o
+texto constitucional.
+
+LETRA D. INCORRETA. Não apresenta ausência de proporcionalidade de subscrição, mas
+apresenta irregularidade no objeto, uma vez que não se caracteriza como fato determinado, de
+acordo com o art. 58, § 3º da CRFB/88.
+
+LETRA E. INCORRETA. De acordo com o Supremo, a CPI apenas tem competência para a quebra
+do sigilo telefônico, não podendo determinar a interceptação telefônica.
+
+Gabarito: Letra B.
+
+3.​    (FGV/CGE-PB/Auditor das Contas Públicas/2024) O Tribunal de Contas do Estado Gama
+apurou irregularidades em contrato administrativo realizado entre o Município Alfa, localizado no
+Estado Gama, e determinada empresa prestadora de serviços de engenharia. A Assembleia
+Legislativa do referido Estado Gama instaurou Comissão Parlamentar de Inquérito (CPI),
+mediante requerimento de dois terços de seus membros, para apurar as irregularidades
+encontradas.
+
+Diante do exposto, é correto afirmar que:
+
+a) a CPI poderá anular o contrato, pois é sua função, concluída a investigação e confirmada a
+irregularidade;
+
+b) a CPI só poderia ter sido instaurada mediante o requerimento da maioria dos membros da
+Assembleia Legislativa do Estado Gama;
+
+c) a Assembleia Legislativa do Estado Gama não tem competência para instaurar CPI, a fim de
+apurar ato realizado por outro ente federativo, no caso, o Município Alfa;
+
+d) a CPI não deveria ter sido instaurada, pois o Tribunal de Contas tem o poder de anular o ato
+administrativo viciado;
+
+e) a CPI não poderia ter sido instaurada pelo Legislativo para apurar ato praticado pelo
+Executivo, em razão da separação de poderes, ainda que demonstrada a irregularidade.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            43
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA A. INCORRETA. Na verdade, as CPIs não têm competência para impor penalidades ou
+condenações de acordo com o art. 58, § 3º da CRFB/88.
+
+LETRA B. INCORRETA. A CPI é direito de minoria, podendo ser instaurada, mediante
+requerimento de 1/3 dos seus membros, de acordo com o art. 58, § 3º da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! A CPI não pode ser instaurada para apuração de fato
+determinado ocorrido em outro ente federativo, uma vez que violaria o princípio da autonomia
+federativa, de acordo com o art. 18 da CRFB/88, vejamos:
+
+                         Art. 18. A organização político-administrativa da República Federativa do
+                         Brasil compreende a União, os Estados, o Distrito Federal e os
+                         Municípios, todos autônomos, nos termos desta Constituição.
+
+LETRA D. INCORRETA. Quando se tratar de ato, o TCU irá sustar, se não atendido, a execução
+do ato impugnado, comunicando a decisão à Câmara dos Deputados e ao Senado Federal,
+segundo o art. 71, X da CRFB/88. No caso de contrato, o ato de sustação será adotado
+diretamente pelo Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as
+medidas cabíveis, nos termos do art. 71, §1º da CRFB/88.
+
+LETRA E. INCORRETA. Na verdade, as Comissões Parlamentares de Inquérito podem ser
+instauradas para apurar ato praticado pelo Poder Executivo, em razão da competência de o
+Poder Legislativo fiscalizar o Poder Executivo, conforme art. 70 da CRFB/88.
+
+Gabarito: Letra C.
+
+4.​   (FGV/ALE-TO/Procurador/2024) De acordo com o processo de incorporação dos tratados
+de Direitos Humanos no nosso ordenamento jurídico interno, analise as afirmativas a seguir.
+
+I. As Constituições brasileiras já existentes, incluindo a Constituição de 1988, adotaram a
+autorização prévia do Poder Legislativo como pressuposto constitucional do processo de
+incorporação do tratado de direitos humanos na ordem jurídica interna, salvo a primeira
+Constituição de 1824.
+
+II. De acordo com a Constituição de 1988, compete exclusivamente ao Congresso Nacional
+resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos
+ou compromissos gravosos ao patrimônio nacional.
+
+III. O processo de incorporação de um tratado envolve quatro fases: assinatura, aprovação
+legislativa, ratificação e decreto de promulgação. Nesse sentido, de acordo com a Convenção de
+Viena sobre o Direito dos Tratados, quando da assinatura do tratado, o Estado já estaria
+obrigado a abster-se da prática de atos que frustrariam o objeto e a finalidade desse tratado.
+
+Está correto o que se afirma em
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           44
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários:
+
+LETRA A. INCORRETA. Resta equivocado, porque os itens II e III também estão corretos. Sobre o
+item II, a Constituição Federal atribuiu ao Congresso Nacional a competência para resolver sobre
+tratados, acordos ou atos internacionais que causem encargos ou compromissos graves ao nosso
+patrimônio nacional, consoante art. 49, inciso I da CRFB/88. Por outro lado, no caso do item III
+devemos ter conhecimento acerca da Convenção de Viena, o qual diz que desde o momento da
+assinatura do tratado, o Estado já está obrigado a abster-se da prática de atos que frustrariam o
+objeto e finalidade. Vejamos:
+
+                           Art. 49. É da competência exclusiva do Congresso Nacional:
+
+                           I - resolver definitivamente sobre tratados, acordos ou atos internacionais
+                           que acarretem encargos ou compromissos gravosos ao patrimônio nacional
+
+                           (...)
+
+                           Artigo 18 da Convenção de Viena sobre direito dos Tratados
+
+                           Obrigação de Não Frustrar o Objeto e Finalidade de um Tratado antes de
+                           sua Entrada em Vigor
+
+                           "Um Estado é obrigado a abster-se da prática de atos que frustrariam o
+                           objeto e a finalidade de um tratado, quando:
+
+                           a) tiver assinado ou trocado instrumentos constitutivos do tratado, sob
+                           reserva de ratificação, aceitação ou aprovação, enquanto não tiver
+                           manifestado sua intenção de não se tornar parte no tratado;
+
+LETRA B. INCORRETA. O item III também está correto, uma vez que versa sobre a Convenção de
+Viena, que afirma que o Estado possui a obrigação de se abster da prática dos atos que possam
+frustrar o objeto do tratado desde o momento de sua assinatura (art. 18 da Convenção de Viena).
+
+LETRA C. INCORRETA. O item II trata da competência exclusiva do Congresso Nacional,
+cabendo apenas a ele a resolução de forma definitiva dos tratados, acordos ou atos
+internacionais, que venham a causar encargos ou compromissos gravosos ao patrimônio
+nacional, conforme art. 49, inciso I da CRFB/88.
+
+          Receita Federal (Analista Tributário) Direito Constitucional                             45
+          www.estrategiaconcursos.com.br                                                           113
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA D. INCORRETA. O item I também está correto! Os tratados e convenções internacionais
+sobre direitos humanos, devidamente aprovados, em cada casa do Congresso Nacional, em dois
+turnos e por três quintos dos votos de seus membros são equivalentes às emendas
+Constitucionais. Assim, podemos concluir que a Constituição de 1988, adota sim a prévia
+autorização do Poder Legislativo no processo de incorporação dos Tratados. No caso da
+Constituição de 1824, de fato ela não adotou tal procedimento, porque não havia previsão
+acerca dos direitos humanos. A doutrina explica que o Brasil vivia a época do império ou da
+dinastia.
+
+LETRA E. CORRETA. É o nosso gabarito! Os itens I, II e III estão corretos. As Constituições
+adotaram a prévia autorização do Poder Legislativo no processo de incorporação dos tratados,
+conforme art. 5º, § 3º da CRFB/88, com exceção da Constituição de 1824, porque não havia
+previsão acerca dos direitos humanos. Ao Congresso Nacional cabe resolver definitivamente os
+Tratados, acordos ou atos internacionais, que venham a causar encargos ou compromissos
+gravosos ao patrimônio nacional (art. 49, inciso I da CRFB/88).
+
+Por fim, vale esclarecer que a Convenção de Viena afirma que Estado possui a obrigação de se
+abster da prática dos atos que possam frustrar o objeto do tratado desde o momento de sua
+assinatura, de acordo com o art. 18 da Convenção de Viena
+
+Gabarito: Letra E.
+
+5.​    (FGV/TJ-SC/2024) João, deputado estadual, filiado ao partido político Alfa, foi condenado
+pela prática de ato de improbidade administrativa em sentença transitada em julgado, tendo
+sofrido a sanção de suspensão dos direitos políticos. Ao tomar conhecimento dessa condenação,
+o diretório estadual do partido político Alfa consultou sua assessoria em relação aos seus efeitos
+sobre o mandato eletivo de João.
+
+Foi corretamente respondido ao diretório estadual que:
+
+a) cabe ao Tribunal de Justiça decidir, em caráter definitivo, em relação à perda do mandato de
+João;
+
+b) a perda do mandato de João será declarada pela Mesa da Assembleia Legislativa, assegurada
+ampla defesa;
+
+c) a perda do mandato de João será decidida pela Mesa da Assembleia Legislativa, por maioria
+absoluta, assegurada ampla defesa;
+
+d) a perda do mandato de João, enquanto efeito da condenação, é uma medida autoexecutória,
+o que permite a imediata posse do suplente;
+
+e) a ordem constitucional proscreveu a sistemática das penas acessórias; logo, a perda do
+mandato de João somente será decretada se houver previsão expressa na sentença.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           46
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA A. INCORRETA. A declaração sobre a perda de mandato não cabe ao Tribunal de Justiça,
+mas sim à Mesa da Assembleia Legislativa.
+
+LETRA B. CORRETA. É o nosso gabarito! Em razão da suspensão dos direitos políticos, João
+perderá seu mandato, sendo a perda declarada pela Mesa da Assembleia Legislativa, sendo
+assegurada a ampla defesa, de acordo com o art. 55, inciso IV e § 3º da CRFB/88.
+
+LETRA C. INCORRETA. No caso de João, não se faz necessário votação por maioria absoluta na
+Mesa da Assembleia Legislativa, uma vez que a perda será declarada pela Mesa da Casa
+respectiva, sendo assegurada a ampla defesa, de acordo o § 3º do art. 55 da CRFB/88.
+
+LETRA D. INCORRETA. A alternativa está errada, porque a perda do mandato não ocorre
+automaticamente; ela deve ser declarada pela Mesa da Assembleia Legislativa, sempre
+respeitando o devido processo legal.
+
+LETRA E. INCORRETA. A perda do mandato em decorrência da suspensão dos direitos políticos
+tem previsão constitucional, não dependendo de previsão expressa na sentença.
+
+Gabarito: Letra B.
+
+6.​   (FGV/TJ-MS/2024) Em determinado estado da federação, foi identificada uma grande
+extensão de terras públicas, de propriedade desse ente federativo, que alcançavam três mil
+hectares. Por tal razão, o órgão competente do Poder Executivo decidiu iniciar a análise das
+medidas necessárias para realizar a sua alienação, mais especificamente se haveria, ou não, a
+necessidade de autorização legislativa.
+
+Considerando apenas os balizamentos constitucionais afetos à temática, é correto afirmar que:
+
+a) cabe ao estado, por força de sua autonomia política, definir a necessidade, ou não, de
+autorização legislativa;
+
+b) toda a alienação de terras públicas, independente de sua dimensão, depende de autorização
+legislativa;
+
+c) a autorização será necessária, e deve ser concedida pelo Congresso Nacional, mas apenas se
+as terras estiverem situadas na área de fronteira;
+
+d) por força do princípio da simetria, a autorização deve ser concedida pela Assembleia
+Legislativa, em lei editada a partir de projeto de iniciativa privativa do governador do estado;
+
+e) é necessária a aprovação do Congresso Nacional, que não será veiculada por meio de lei, não
+contando, portanto, com a sanção do Chefe do Poder Executivo no processo legislativo.
+
+Comentários:
+
+LETRA A. INCORRETA. A CRFB/88 estabelece que é necessária aprovação do Congresso
+Nacional. Logo, o Estado não possui tal competência.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            47
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+LETRA B. INCORRETA. Só depende de aprovação a alienação de terras públicas com área
+superior a dois mil e quinhentos hectares, conforme inciso XVII do art. 49 da CRFB/88.
+
+LETRA C. INCORRETA. A alternativa está errada, porque não há que se falar na localização das
+terras como pré-requisito para ser competência do Congresso Nacional, bastando apenas que as
+terras sejam públicas e com área superior a dois mil e quinhentos hectares.
+
+LETRA D. INCORRETA. A competência é exclusiva do Congresso Nacional! Não deve ser
+concedida pela Assembleia Legislativa.
+
+LETRA E. CORRETA. O art. 49 da CRFB/88 trata sobre atribuições do Congresso Nacional, as
+matérias elencadas são trabalhadas por decretos legislativos (norma prevista no art. 59, VI da
+CRFB/88), que não depende de sanção do Chefe do Poder Executivo Federal. Assim, são
+matérias da competência exclusiva do Congresso Nacional. Dentre essas matérias, podemos
+encontrar a disposta no inciso XVII, vejamos:             ==5460==
+
+Art. 49. É da competência exclusiva do Congresso Nacional:
+
+[...]
+
+XVII - aprovar, previamente, a alienação ou concessão de terras públicas com área superior a dois
+mil e quinhentos hectares.
+
+No mais, o art. 188, § 1º da CRFB/88 indica que a alienação ou a concessão, a qualquer título, de
+terras públicas com área superior a dois mil e quinhentos hectares a pessoa física ou jurídica,
+ainda que por interposta pessoa, dependerá de prévia aprovação do Congresso Nacional.
+
+Gabarito: Letra E.
+
+7.​    (FGV/TJ-AP/2024) A Câmara dos Deputados instaura uma determinada Comissão
+Parlamentar de Inquérito (CPI), em observância às formalidades constitucionais e legais, com o
+objetivo de apurar um fato certo, por prazo determinado. João, deputado federal e integrante
+da CPI, busca, junto aos seus assessores, informações sobre as medidas que a Comissão poderá
+adotar, independentemente da intervenção do Poder Judiciário.
+
+Nesse cenário, considerando os entendimentos doutrinário e jurisprudencial dominantes, é
+correto afirmar que a Comissão Parlamentar de Inquérito, por si só, poderá decretar a:
+
+a) busca e apreensão de documentos na residência e em detrimento de um investigado;
+
+b) quebra de sigilo de dados bancários em detrimento de um investigado;
+
+c) indisponibilidade de bens em detrimento de um investigado;
+
+d) interceptação telefônica em detrimento de um investigado;
+
+e) prisão preventiva em detrimento de um investigado.
+
+Comentários:
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                         48
+         www.estrategiaconcursos.com.br                                                       113
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA A. INCORRETA. A competência é do Poder Judiciário.
+
+LETRA B. CORRETA. É o nosso gabarito! De acordo com o STF, as CPIs podem, se for necessário,
+determinar a quebra de sigilo de dados bancários da pessoa investigada. Não há impedimento
+para que a quebra de sigilo bancário, fiscal e telefônico sejam determinadas pela CPI e quando
+isso ocorre a Comissão se torna depositária do segredo. Afinal, a quebra do sigilo não transforma
+as informações obtidas em informações públicas, remanescendo o segredo para qualquer pessoa
+que seja estranha aos fatos objeto da investigação. Então, é um dever jurídico de cada um dos
+membros da CPI preservar o sigilo dos dados transmitidos.
+
+LETRA C. INCORRETA. Não é de competência de uma CPI determinar a indisponibilidade de
+bens da pessoa investigada, sendo tal competência atribuída ao Judiciário.
+
+LETRA D. INCORRETA. A interceptação telefônica não é competência da CPI, sendo apenas
+atribuída ao Judiciário, de acordo com o entendimento jurisprudencial do STF. Na interceptação
+telefônica ocorre a captação da mensagem transmitida, ou melhor, se tem acesso ao conteúdo
+da conversa.
+
+LETRA E. INCORRETA. Apenas é de competência das CPIs decretar prisão em flagrante, não
+sendo de sua alçada a decretação de prisão preventiva, a qual cabe apenas ao órgão
+jurisdicionado.
+
+Gabarito: Letra B.
+
+8.​    (FGV/TJ-AP/2024) Maria, deputada federal, por entender que o isolamento de Brasília,
+capital federal, caminhava em norte contrário à sedimentação da ideologia participativa,
+apresentou projeto de lei visando à mudança temporária da sede do Poder Legislativo para
+determinada região do país, durante os meses previstos na proposição. A mudança, ao ver de
+Maria, era essencial ao desenvolvimento dessa região.
+
+A Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados, ao apreciar a
+compatibilidade do referido projeto com a Constituição da República, observou corretamente
+que a mudança da sede do Poder Legislativo:
+
+a) exige emenda constitucional;
+
+b) deve ser antecedida de plebiscito;
+
+c) pode ser realizada da forma alvitrada por Maria;
+
+d) pode ser estabelecida pelo Congresso Nacional, sem o concurso do Poder Executivo;
+
+e) é vedada, considerando que há norma constitucional definindo Brasília como a capital federal.
+
+Comentários:
+
+LETRA A. INCORRETA. Não há necessidade de edição de emenda constitucional para mudança
+temporária da sede do Poder Legislativo, uma vez que é atribuição exclusiva do Congresso
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          49
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Nacional, sem necessidade de sanção do Chefe do Poder Executivo, de acordo com o art. 49,
+inciso VI da CRFB/88.
+
+LETRA B. INCORRETA. Não há que se falar em plebiscito, já que é atribuição exclusiva do
+Congresso Nacional.
+
+LETRA C. INCORRETA. A mudança temporária da sede do Poder Legislativo é atribuição
+exclusiva do Congresso Nacional, que será realizada por meio de decreto legislativo, sem a
+necessidade de sanção pelo Chefe do Poder Executivo, não por meio de lei, de acordo com o
+art. 49, inciso VI da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! De fato, a mudança temporária da sede do Poder
+Legislativo é atribuição exclusiva do Congresso Nacional, que será realizada através de decreto
+legislativo, sem a necessidade de sanção pelo Chefe do Poder Executivo, conforme art. 49, inciso
+VI da CRFB/88.
+
+LETRA E. INCORRETA. A Constituição Federal prevê a possibilidade de mudança temporária da
+sede do Poder Legislativo em seu art. 49, inciso VI da CRFB/88.
+
+Gabarito: Letra D.
+
+9.​    (FGV/CVM/2024) A Mesa da Câmara dos Deputados encaminhou pedido escrito de
+informações ao ministro das Relações Exteriores, versando sobre temática internacional com
+reflexo nas exportações do agronegócio brasileiro. Nada obstante, passados sessenta dias, não
+houve qualquer resposta ao pleito formulado. Além disso, a Câmara dos Deputados convocou o
+ministro da Fazenda para prestar, pessoalmente, informações sobre o mesmo assunto, em razão
+das repercussões da matéria na esfera econômica do país. Contudo, na data designada, a
+autoridade deixou de comparecer, sem apresentar qualquer justificativa.
+
+Considerando as disposições da Constituição Federal, é correto afirmar que:
+
+a) o ministro das Relações Exteriores incorreu em crime de responsabilidade, porquanto a Mesa
+da Câmara dos Deputados tem a prerrogativa de encaminhar pedido escrito de informações ao
+presidente da República, ao vice-presidente da República, a ministros de Estado e quaisquer
+titulares de órgãos diretamente subordinados à Presidência da República. Por outro lado, o
+ministro da Fazenda não cometeu crime de responsabilidade, porquanto a convocação para
+comparecimento pessoal de autoridades do Poder Executivo Federal não tem assento
+constitucional;
+
+b) o ministro da Fazenda incorreu em crime de responsabilidade, porquanto a Câmara dos
+Deputados tem a prerrogativa de convocar o presidente da República, o vice-presidente da
+República, ministros de Estado e quaisquer titulares de órgãos diretamente subordinados à
+Presidência da República para prestarem, pessoalmente, informações sobre assunto previamente
+determinado. Por outro lado, o ministro das Relações Exteriores não cometeu crime de
+responsabilidade, porquanto o pedido escrito de informações tem caráter não vinculante;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         50
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+c) o ministro da Fazenda incorreu em crime de responsabilidade, porquanto a Câmara dos
+Deputados tem a prerrogativa de convocar ministros de Estado e quaisquer titulares de órgãos
+diretamente subordinados à Presidência da República para prestarem, pessoalmente,
+informações sobre assunto previamente determinado. Por outro lado, o ministro das Relações
+Exteriores não cometeu crime de responsabilidade, porquanto o pedido escrito de informações
+tem caráter não vinculante;
+
+d) o ministro das Relações Exteriores e o ministro da Fazenda não incorreram em crime de
+responsabilidade, porquanto as autoridades do Poder Executivo Federal não estão sujeitas à
+convocação da Câmara dos Deputados;
+
+e) o ministro das Relações Exteriores e o ministro da Fazenda incorreram em crime de
+responsabilidade.
+
+Comentários:
+
+LETRA A. INCORRETA. As Mesas da Câmara dos Deputados e do Senado Federal não poderão
+encaminhar pedidos escritos de informações ao Presidente da República e vice-presidente, nos
+termos do art. 50, caput da CRFB/88. No mais, o Ministro da Fazenda também cometeu crime de
+responsabilidade, conforme o art. 50, §2º da CRFB/88.
+
+LETRA B. INCORRETA. A Câmara dos Deputados tem a prerrogativa de convocar apenas o
+Ministro do Estado e quaisquer titulares de órgãos diretamente subordinados à Presidência da
+República, não o próprio Presidente da República e seu vice. Além disso, o Ministro das Relações
+Exteriores cometeu crime de responsabilidade, de acordo com o art. 50 da CRFB/88.
+
+LETRA C. INCORRETA. A assertiva está errada, porque assim como o Ministro da Fazenda, o
+Ministro das Relações Exteriores também cometeu crime de responsabilidade, conforme
+disposição do art. 50 da CRFB/88.
+
+LETRA D. INCORRETA. A alternativa está em desacordo com a Constituição, tendo em vista que
+tanto o Ministro da Fazenda como o das Relações Exteriores podem ser convocados pela Câmara
+dos Deputados, incorrendo em crime de responsabilidade o não comparecimento no prazo
+previsto na Constituição, de acordo com o art. 50, caput e §2º da CRFB/88.
+
+LETRA E. CORRETA. É o nosso gabarito! A Mesa da Câmara dos Deputados pode encaminhar
+pedido escrito de informações ao ministro das Relações Exteriores, conforme o §2º do art. 50 da
+CRFB/88, importando em crime de responsabilidade a recusa, ou o não-atendimento. A Câmara
+dos Deputados pode convocar o ministro da Fazenda para prestar, pessoalmente, informações
+sobre o mesmo assunto, de acordo com o art. 50 da CRFB/88, importando crime de
+responsabilidade a ausência sem justificação adequada.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         51
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+10.​ (FGV/CVM/2024) Um dos integrantes de Comissão Parlamentar de Inquérito (CPI)
+instaurada no âmbito da Câmara dos Deputados formulou três requerimentos a serem
+apreciados pela referida comissão. O primeiro requerimento almejava que fosse decretada a
+interceptação das comunicações telefônicas de João; o segundo, a quebra do sigilo dos dados
+telefônicos de Maria; e, o terceiro, a quebra do sigilo fiscal de Pedro. Ressalte-se que João,
+Maria e Pedro são servidores públicos federais, e os requerimentos estão devidamente
+fundamentados, sendo demonstrada a necessidade de produção dessas provas para a
+elucidação de determinado fato objeto de investigação.
+
+À luz da sistemática constitucional, é correto afirmar, em relação às três medidas requeridas, que
+a CPI:
+
+a) tem competência para decretá-las;
+
+b) somente tem competência para decretar a primeira medida requerida;
+
+c) somente tem competência para decretar a segunda medida requerida;
+
+d) somente tem competência para decretar a primeira e a terceira medidas requeridas;
+
+e) somente tem competência para decretar a segunda e a terceira medidas requeridas.
+
+Comentários:
+
+LETRA A. INCORRETA. A interceptação telefônica não é competência da CPI.
+
+LETRA B. INCORRETA. O STF entendeu que as CPIs não possuem competência para determinar
+a interceptação telefônica.
+
+LETRA C. INCORRETA. Além da competência de decretar a quebra do sigilo dos dados
+telefônicos, as CPIs também podem decretar a quebra do sigilo fiscal, de acordo com o STF.
+
+LETRA D. INCORRETA. De fato, as CPIs, podem decretar a quebra do sigilo fiscal, no entanto, a
+interceptação telefônica é competência apenas do Judiciário, que por meio de uma decisão do
+Juiz poderá concedê-la ou não, de acordo com o STF.
+
+LETRA E. CORRETA. De acordo com o Supremo (MS 37970, MS 37969, MS 37978), para a
+quebra do sigilo dos dados telefônicos e os fiscais, são de competência da CPI, que se
+devidamente fundamentado, poderá ser concedido. No entanto, não pode determinar a
+interceptação telefônica.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           52
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+11.​ (FGV/TCE ES/2023) Joana, estudante de direito, questionou o seu professor de Direito
+Constitucional a respeito da classificação, quanto à eficácia da norma obtida a partir da
+interpretação do disposto no parágrafo único do Art. 75 da Constituição da República de 1988,
+que tem a seguinte redação: “As Constituições estaduais disporão sobre os Tribunais de Contas
+respectivos, que serão integrados por sete Conselheiros”.
+
+O professor respondeu, corretamente, que se trata de norma de eficácia:
+
+a) plena e aplicabilidade imediata;
+
+b) contida e aplicabilidade imediata;
+
+c) limitada e de princípio institutivo;
+
+d) limitada e de princípio programático;
+
+e) estrutural e de princípio programático.
+
+Comentários:
+
+Letra A. INCORRETA. Normas de eficácia plena são aquelas normas que desde a entrada em
+vigor da Constituição já estão aptas a produzir eficácia. Por isso, são definidas como de
+aplicabilidade direta, imediata e integral. No referido caso, temos uma norma limitada e de
+princípio institutivo, pois depende de lei para estruturar e organizar as atribuições de instituições,
+pessoas e órgãos previstos na Constituição.
+
+Letra B. INCORRETA. Não se trata de norma de eficácia contida. Estas são dotadas de
+aplicabilidade direta, imediata, mas não integral (o legislador pode restringir a sua eficácia). O
+que não é o caso da questão.
+
+Letra C. CORRETA. É o nosso gabarito!! Trata-se de uma norma limitada e de princípio institutivo,
+pois depende de lei para estruturar e organizar as atribuições de instituições, pessoas e órgãos
+previstos na Constituição. (classificação do professor José Afonso da Silva)
+
+Letra D. INCORRETA. Hum... pegadinha! Normas declaratórias de princípios programáticos são
+aquelas que estabelecem programas e diretrizes a serem desenvolvidos pelo legislador
+infraconstitucional. Ex: Direito à Saúde. Aqui não é o caso. Pelo contrário, estamos diante de
+norma limitada e de princípio institutivo ou organizativo.
+
+Letra E. INCORRETA. Eita! Nem temos essa classificação (rs). Segundo o professor José Afonso
+da Silva, as normas constitucionais são classificadas como: (i) de eficácia plena; (ii) de eficácia
+contida e (iii) de eficácia limitada de princípio institutivo ou programáticas.
+
+Gabarito: Letra C.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               53
+        www.estrategiaconcursos.com.br                                                             113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de desonerar certo setor
+econômico, João, Deputado Federal, apresentou projeto de lei reduzindo a alíquota
+concernente a um imposto de competência da União, o que acarretaria a correlata redução da
+carga tributária.
+
+Ao analisar a constitucionalidade formal da referida proposição, a Comissão de Constituição e
+Justiça e de Cidadania da Câmara dos Deputados concluiu corretamente que
+
+a) a matéria é de iniciativa privativa do Presidente da República, por versar sobre tributos.
+
+b) trata-se de matéria de iniciativa privativa dos membros do Congresso Nacional, logo, João
+poderia apresentar o projeto.
+
+c) João tem legitimidade para apresentar o projeto, mas deve instrui-lo com estimativa do seu
+impacto orçamentário e financeiro.
+
+d) a matéria é de iniciativa privativa do Presidente da República, considerando que, ao acarretar a
+redução da receita, impacta no orçamento.
+
+e) a espécie legislativa escolhida por João está errada, considerando que a matéria deveria ser
+disciplinada em lei complementar.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque se trata de atribuição do Congresso
+Nacional, nos termos do art. 48, I da CRFB/88.
+
+LETRA B. INCORRETA. Não se trata de matéria privativa dos membros do Congresso Nacional.
+Cabe ao CN criar as leis de competência da União com a sanção do Presidente, conforme o art.
+48, caput da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! De fato, João tem legitimidade para apresentar o
+projeto, mas deve instruí-lo com estimativa do seu impacto orçamentário e financeiro, de acordo
+com o art. 48, I da CRFB/88 e art. 113 do ADCT.
+
+LETRA D. INCORRETA. A alternativa está errada, porque de acordo com o entendimento firmado
+pelo STF, o Chefe do Executivo não tem iniciativa exclusiva para tratar de matéria tributária,
+vejamos:
+
+Tributário. Processo legislativo. Iniciativa de lei. 2. Reserva de iniciativa em matéria tributária.
+Inexistência. 3. Lei municipal que revoga tributo. Iniciativa parlamentar. Constitucionalidade. 4.
+Iniciativa geral. Inexiste, no atual texto constitucional, previsão de iniciativa exclusiva do Chefe
+do Executivo em matéria tributária. 5. Repercussão geral reconhecida. 6. Recurso provido.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             54
+        www.estrategiaconcursos.com.br                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Reafirmação de jurisprudência. (STF. ARE 743480 RG, Relator(a): GILMAR MENDES, Tribunal
+Pleno, julgado em 10/10/2013)
+
+ LETRA E. INCORRETA. A alternativa está errada, uma vez que a matéria tratada no projeto de
+lei não é reservada à Lei Complementar.
+
+Gabarito: Letra C.
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Presidente da República encaminhou, ao
+Poder Legislativo, proposição fixando os seus subsídios, os do Vice-Presidente da República e os
+dos Ministros de Estado para o exercício financeiro seguinte. Após regular discussão, foi
+aprovado substitutivo no âmbito da Casa Legislativa iniciadora, chancelado pela Casa revisora,
+que aumentou os valores inicialmente propostos, considerados módicos pelos parlamentares. O
+Presidente da República, ao receber a proposição, a vetou, sendo o veto rejeitado pelo voto da
+maioria absoluta dos Deputados e Senadores. Por fim, o Presidente da República promulgou a
+Lei nº X, que veio a ser publicada.
+
+À luz da sistemática constitucional afeta à fixação dos subsídios do Presidente da República, do
+Vice-Presidente da República e dos Ministros, é correto afirmar, em relação às fases descritas na
+narrativa, que
+
+a) todas estão certas.
+
+b) todas apresentam incorreções.
+
+c) apenas apresenta incorreção em relação à promulgação.
+
+d) apenas apresenta incorreção em relação à rejeição do veto.
+
+e) apenas apresenta incorreção em relação ao substitutivo apresentado.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa está errada, porque todas as situações descritas no
+enunciado apresentam irregularidades.
+
+LETRA B. CORRETA. Conforme o art. 49, VIII da CRFB/88, é da competência exclusiva do
+Congresso Nacional fixar os subsídios do Presidente e do Vice-Presidente da República e dos
+Ministros de Estado. Portanto, não há qualquer tipo de interferência do Poder Executivo no
+exercício da referida atribuição. Logo, todas as fases indicadas apresentam incorreções.
+
+LETRA C. INCORRETA. Não está incorreta apenas em relação à promulgação.
+
+LETRA D. INCORRETA. A rejeição do veto não é a única incorreção.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          55
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA E. INCORRETA. O substitutivo apresentado não é a única incorreção.
+
+Gabarito: Letra B.
+
+14.​ (FGV/CÂMARA DOS DEPUTADOS/2023) João foi eleito Deputado Federal e, desde a
+expedição do diploma, passou a ocupar o cargo de diretor operacional em uma sociedade
+empresária privada. Essa sociedade atuava como concessionária do Poder Executivo federal em
+um programa direcionado à instalação e à operação de usinas termoelétricas, a partir de uma
+sistemática contratual padronizada e com a abertura de linhas de crédito junto a instituições
+financeiras federais.
+
+Maria, também Deputada Federal no exercício do mandato, entendia que a conduta de João era
+incompatível com a Constituição da República de 1988. Por tal razão, solicitou esclarecimentos a
+um advogado em relação à sua conformidade constitucional.
+
+Foi corretamente esclarecido a Maria, à luz da Constituição da República de 1988, que a conduta
+de João
+
+a) não apresenta qualquer irregularidade.
+
+b) acarreta a perda do mandato, caso João, notificado, não peça exoneração do cargo, o que
+deve ser declarado pela Mesa da Câmara dos Deputados.
+
+c) acarreta a perda do mandato, a ser decidida pela Câmara dos Deputados, a partir de
+provocação da respectiva Mesa ou de partido político representado no Congresso Nacional.
+
+d) acarreta a perda do mandato, a ser decidida pela Câmara dos Deputados, a partir de
+provocação da respectiva Mesa, de Deputado Federal ou de partido político representado no
+Congresso Nacional.
+
+e) acarreta a perda do mandato, que deve ser declarada pela Mesa da Câmara dos Deputados,
+de ofício ou mediante provocação de Deputado Federal ou de partido político representado no
+Congresso Nacional.
+
+Comentários:
+
+LETRA A. INCORRETA. A alternativa foi o gabarito inicial apontado pela banca. A alínea “a” do
+inciso I do art. 54 da CRFB/88, determina que desde a expedição do diploma, os deputados e
+senadores estão impedidos de firmar ou manter contrato com pessoa jurídica de direito público,
+autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço
+público, SALVO quando o contrato obedecer a cláusulas uniformes.
+
+O enunciado menciona a expressão “a partir de uma sistemática contratual padronizada”.
+Inicialmente, para a FGV, estaríamos diante de um contrato que obedece a cláusulas uniformes.
+Todavia, após recurso dos candidatos, a banca retificou sua posição, talvez por não ter ficado tão
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           56
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+claro assim que “sistemática contratual padronizada” corresponde a contrato que obedece a
+cláusulas uniformes. Diante disso, a FGV alterou o gabarito para a Letra C!
+
+LETRA B. INCORRETA. Em caso de perda de mandato, esta seria decidida pela Câmara dos
+Deputados, mediante provocação da respectiva Mesa ou de partido político representado no
+Congresso Nacional, assegurada a ampla defesa, de acordo com o art. 55, § 2º da CRFB/88.
+
+LETRA C. CORRETA. Temos o nosso gabarito final! Segundo a alínea “a” do inciso I do art. 54 da
+CRFB/88, desde a expedição do diploma, os deputados e senadores estão impedidos de firmar
+ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública,
+sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o
+contrato obedecer a cláusulas uniformes.
+
+Vale lembrar, conforme explicação na Letra A, a banca retificou o gabarito e passou a entender
+que a expressão “sistemática contratual padronizada” não necessariamente corresponde a um
+contrato que obedece a cláusulas uniformes. Por consequência, nos termos do art. 55, inciso I e
+§2º da CRFB/88 temos o seguinte:
+
+Art. 55. Perderá o mandato o Deputado ou Senador:
+
+I - que infringir qualquer das proibições estabelecidas no artigo anterior;
+
+§ 2º Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Câmara dos
+Deputados ou pelo Senado Federal, por maioria absoluta, mediante provocação da respectiva
+Mesa ou de partido político representado no Congresso Nacional, assegurada ampla defesa.
+
+LETRA D. INCORRETA. O certo é falar em provocação da respectiva Mesa ou de partido político
+representado no Congresso Nacional e não de Deputado Federal.
+
+LETRA E. INCORRETA. A perda do mandato será decidida pela Câmara dos Deputados ou pelo
+Senado Federal, por maioria absoluta, mediante provocação da respectiva Mesa ou de partido
+político representado no Congresso Nacional. Não pode ser de ofício.
+
+Gabarito final: Letra C.
+
+15.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em uma gincana jurídica, os grupos envolvidos
+deveriam discorrer sobre as características essenciais do regime jurídico-constitucional dos
+Deputados Federais.
+
+O Grupo Beta defendeu que as restrições direcionadas aos parlamentares a partir da posse são
+ontologicamente direcionadas a assegurar a sua equidistância exclusivamente em relação aos
+interesses de atores privados.
+
+O Grupo Delta observou que, após a expedição do diploma, surgem vedações que alcançam
+exclusivamente os liames com a Administração Pública direta e indireta ou com os
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        57
+        www.estrategiaconcursos.com.br                                                      113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+concessionários de serviço público, salvo apenas, em relação às últimas, quando o contrato
+obedecer a cláusulas uniformes.
+
+O Grupo Gama, por sua vez, defendeu que tanto a infringência das vedações incidentes a partir
+da posse, como aquelas incidentes a partir da expedição do diploma, podem ensejar a perda do
+mandato do Deputado Federal.
+
+Considerando as conclusões alcançadas pelos três grupos, à luz da ordem constitucional, o júri
+decidiu que
+
+a) todas estão certas.
+
+b) apenas a conclusão do grupo Beta está certa.
+
+c) apenas as conclusões dos grupos Delta e Gama estão certas.
+
+d) apenas as conclusões dos grupos Beta e Gama estão certas.
+
+e) apenas as conclusões dos grupos Beta e Delta estão certas.
+
+Comentários:
+
+Vamos à análise de cada grupo:
+
+1. O Grupo Beta defendeu que as restrições direcionadas aos parlamentares a partir da posse
+são ontologicamente direcionadas a assegurar a sua equidistância exclusivamente em relação
+aos interesses de atores privados.O entendimento firmado pelo grupo Beta está equivocado, em
+razão da exclusividade relacionada a interesses de atores privados. Essas vedações, além de
+coibir a influência nas relações privadas, também têm justamente o objetivo de frear a influência
+das autoridades públicas nas entidades, como forma de garantir a separação dos poderes.
+
+2. Grupo Delta observou que, após a expedição do diploma, surgem vedações que alcançam
+exclusivamente os liames com a Administração Pública direta e indireta ou com os
+concessionários de serviço público, salvo apenas, em relação às últimas, quando o contrato
+obedecer a cláusulas uniformes.
+
+O grupo Delta está certo, já que descreve a hipótese disposta no art. 54, inciso I da Constituição
+Federal. Olha só:
+
+Art. 54. Os Deputados e Senadores não poderão:
+
+I - desde a expedição do diploma:
+
+a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública,
+sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o
+contrato obedecer a cláusulas uniformes.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           58
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+3. Grupo Gama, por sua vez, defendeu que tanto a infringência das vedações incidentes a partir
+da posse, como aquelas incidentes a partir da expedição do diploma, podem ensejar a perda do
+mandato do Deputado Federal.
+
+Por fim, a ideia defendida pelo Grupo Gama está correta. Realmente, as vedações relacionadas à
+posse, bem como a partir da expedição do diploma, podem ensejar a perda do mandato do
+Deputado Federal. Trata-se da previsão do art. 55, inciso I da CRFB/88.
+
+Assim, apenas os Grupos Delta e Gama estão corretos.
+
+Logo, nosso gabarito é a LETRA C.
+
+(...)
+
+LETRA A. INCORRETA. A alternativa está errada, tendo em vista que apenas os Grupos Delta e
+Gama estão corretos.
+
+LETRA B. INCORRETA. Cuidado, pois a linha de pensamento do Grupo Beta está em desacordo
+com a Constituição Federal.
+
+LETRA C. CORRETA. É o nosso gabarito! Apenas os Grupos Delta e Gama estão de acordo com
+o texto constitucional.
+
+LETRA D. INCORRETA. A alternativa está errada, porque o Grupo Beta não está correto.
+
+LETRA E. INCORRETA. Como já vimos, o Grupo Beta está errado.
+
+Gabarito LETRA C.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                       59
+         www.estrategiaconcursos.com.br                                                    113
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                                    QUESTÕES COMENTADAS
+
+Fiscalização                 Contábil,                 Orçamentária,       Patrimonial           e
+Operacional
+
+1.​    (FGV/CAGE-RS/Auditor do Estado/2025) O Tribunal de Contas da União (TCU), ao se
+deparar com a alegada malversação de recursos públicos pela sociedade empresária Delta, que
+firmara ajuste com o referido ente, adotou, em caráter provisório, a partir de permissivo legal,
+medida cautelar de indisponibilidade dos bens dessa sociedade. Também em caráter provisório,
+desconsiderou a personalidade jurídica de Delta e estendeu a medida aos seus sócios.
+
+À luz da sistemática vigente, é correto afirmar que
+
+(A) em razão da presunção de inocência, quaisquer medidas restritivas dos direitos individuais, a
+serem adotadas pelo TCU, pressupõem o trânsito em julgado da decisão condenatória.
+
+(B) a desconsideração da personalidade jurídica de Delta é medida que não pode ser decretada
+pelo TCU, cuja atividade é restrita à fiscalização dos gestores do dinheiro público, o que a limita
+a Delta.
+
+(C)   tanto a indisponibilidade de bens como a desconsideração da personalidade jurídica
+pressupõem que tenham sido assegurados o contraditório e a ampla defesa, logo, o TCU agiu de
+modo ilícito.
+
+(D) a indisponibilidade de bens, nas circunstâncias indicadas, por restringir o direito de
+propriedade, somente pode ser decretada pelo Poder Judiciário, não pelo TCU, logo, a lei que a
+autorizou é inconstitucional.
+
+(E) a decretação da indisponibilidade de bens e a desconsideração da personalidade jurídica,
+nas circunstâncias indicadas, consubstanciam manifestação de poderes implícitos do TCU, de
+estatura constitucional.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, o TCU pode adotar medidas cautelares, como por exemplo,
+decretar a indisponibilidade de bens, antes do trânsito em julgado de decisão condenatória,
+conforme a teoria dos poderes implícitos adotada pelo STF.
+
+LETRA B. INCORRETA. É firme o entendimento do STF com relação ao TCU ter competência
+para determinar a desconsideração da personalidade jurídica de empresas que venham a causar
+lesão ao erário.
+
+LETRA C. INCORRETA. Sabemos que o contraditório e a ampla defesa são garantias
+constitucionais que devem ser respeitadas. No entanto, está entre as atribuições do TCU adotar
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             60
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+medidas cautelares sem a oitiva prévia dos interessados, quando houver risco ao erário ou ainda
+para garantir que sua decisão seja efetiva, conforme entendimento do STF.
+
+LETRA D. INCORRETA. O Tribunal de Contas da União tem a competência de decretar a
+indisponibilidade de bens de particulares como uma medida cautelar para salvaguardar o
+patrimônio público. Essa atribuição está estabelecida no artigo 44, §2º, da Lei nº 8.443/1992.
+Vale lembrar que o STF considerou constitucional a atuação do TCU nesse aspecto.
+
+LETRA E. CORRETA. É o nosso gabarito! O STF, em sede de Mandado de Segurança nº 35.506,
+entendeu que o TCU tem competência para decretar a indisponibilidade cautelar de bens, assim
+como pode proceder com a desconsideração da personalidade jurídica de empresa que venha
+causando danos ao erário. Vejamos:
+
+                         “Nada obsta, porém, que o TCU decrete a indisponibilidade cautelar de
+                         bens, pelo prazo não superior a um ano (art. 44, § 2°), sendo-lhe permitido,
+                         ainda, promover, cautelarmente, a desconsideração da personalidade
+                         jurídica da pessoa jurídica objeto da apuração, de maneira a assegurar o
+                         resultado útil do processo.”
+
+Gabarito: Letra E.
+
+2.​    (FGV/TCE-PI/Auditor de Controle Externo/2025) Ana, servidora pública estadual ocupante
+de cargo de provimento efetivo, preencheu os requisitos para a aposentadoria compulsória, o
+que redundou na expedição do ato de aposentadoria, com a correlata fixação dos seus
+proventos pela autoridade máxima da estrutura de poder a que estava vinculada. Esse ato foi
+expedido no dia 10 de setembro de 2018, mas até a presente data ainda não foi analisado pelo
+Tribunal de Contas. Sobre a hipótese apresentada, à luz da sistemática vigente, assinale a
+afirmativa correta.
+
+(A) Pela natureza do ato de aposentação, não é necessário o seu registro no Tribunal de Contas.
+
+(B)   Em razão do tempo decorrido desde a expedição do ato, a aposentadoria de Maria
+tornou-se irreversível.
+
+(C)  O Tribunal de Contas pode analisar a qualquer tempo a legalidade do ato inicial de
+aposentadoria, não se exigindo a observância do contraditório e da ampla defesa.
+
+(D) Em razão do tempo decorrido, eventual negativa de registro, pelo Tribunal de Contas, deve
+ser antecedida da observância das garantias do contraditório e da ampla defesa.
+
+(E) É possível que o ato seja considerado registrado em razão do decurso do tempo, mas o
+termo inicial da contagem é o ingresso do processo administrativo no Tribunal de Contas.
+
+Comentários:
+
+LETRA A. INCORRETA. É necessário o registro! Nesse sentido, confira a previsão constitucional:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               61
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                          Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido
+                         com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+                         III - apreciar, para fins de registro, a legalidade dos atos de admissão de
+                         pessoal, a qualquer título, na administração direta e indireta, incluídas as
+                         fundações instituídas e mantidas pelo Poder Público, excetuadas as
+                         nomeações para cargo de provimento em comissão, bem como a das
+                         concessões de aposentadorias, reformas e pensões, ressalvadas as
+                         melhorias posteriores que não alterem o fundamento legal do ato
+                         concessório.
+
+LETRA B. INCORRETA. O termo inicial da contagem é o ingresso do processo administrativo no
+Tribunal de Contas.
+
+LETRA C. INCORRETA. O STF no RE 636553/RS entendeu que, se o Tribunal de Contas demorar
+mais que 5 anos para julgar a aposentadoria, reforma ou pensão, o ato é considerado
+definitivamente registrado.
+
+Perceba que i) até o prazo de 5 anos não há necessidade de conceder o contraditório; ii) após o
+prazo de 5 anos, o Tribunal não pode mais negar o registro. Não há mais necessidade de
+conceder o direito ao contraditório e ampla defesa.
+
+LETRA D. INCORRETA. Conforme o entendimento do STF no RE 636553/RS, temos que: i) até o
+prazo de 5 anos não há necessidade de conceder o contraditório; ii) após o prazo de 5 anos, o
+Tribunal não pode mais negar o registro. Não há mais necessidade de conceder o direito ao
+contraditório e ampla defesa.
+
+LETRA E. CORRETA. É o nosso gabarito! A resposta está consolidada pelo STF no RE 636553/RS,
+olha só:
+
+                         “Em atenção aos princípios da segurança jurídica e da confiança legítima, os
+                         Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da
+                         legalidade do ato de concessão inicial de aposentadoria, reforma ou
+                         pensão, a contar da chegada do processo à respectiva Corte de Contas”.
+
+Gabarito: Letra E.
+
+3.​    (FGV/TJ-AP/2024) Imagine uma situação hipotética em que o Tribunal de Contas da União
+(TCU) tenha realizado auditoria ordinária in loco, com o objetivo de verificar a aplicação dos
+recursos da União, recebidos por determinado Estado-membro da Federação provenientes de
+emenda individual impositiva, prevista no Art. 166-A da Constituição Federal, na modalidade
+“transferência especial”.
+
+Diante do exposto, é correto afirmar que:
+
+a) o TCU possui respaldo em competência constitucional para efetuar a referida auditoria;
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               62
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+b) o TCU possui competência para realizar a referida auditoria, tendo em vista expressa previsão
+legal;
+
+c) a competência para a fiscalização dos recursos é privativa do órgão de controle interno do ente
+ou órgão beneficiário do recebimento dos recursos;
+
+d) o TCU não é o órgão de controle externo competente para realizar a referida auditoria, e sim o
+Tribunal de Contas do respectivo Estado-membro;
+
+e) o TCU é o órgão de controle externo competente para realizar a referida auditoria, uma vez
+que os recursos foram repassados pela União.
+
+Comentários:
+
+LETRA A. INCORRETA. O TCU não possui competência constitucional para efetuar a referida
+auditoria.
+
+LETRA B. INCORRETA. A alternativa não merece prosperar, tendo em vista que não há previsão
+legal expressa, mas sim entendimento consolidado pelo TCU, o qual entende que apenas
+Tribunal de Contas do Estado beneficiário possui competência para realizar a auditoria para
+verificação de regularidade das despesas na aplicação dos recursos recebidos.
+
+LETRA C. INCORRETA. A assertiva está errada, porque a competência para fiscalização dos
+recursos é do órgão de controle externo, que nessa ocasião será o respectivo Tribunal de Contas
+do Estado-membro.
+
+LETRA D. CORRETA. É o nosso gabarito! De acordo com o acórdão nº 1758/2023, proferido pelo
+TCU, o Tribunal de Contas do Estado beneficiário possui competência para realizar a auditoria
+para verificação de regularidade das despesas na aplicação dos recursos recebidos.
+
+"a fiscalização das transferências especiais de que trata o art. 166-A, caput, inciso I, da
+Constituição Federal, no que diz respeito ao controle externo, é dividida entre os tribunais de
+contas dos entes beneficiários e o TCU, cabendo a este a verificação do cumprimento das
+condicionantes (requisitos de validade) e àqueles a avaliação da regularidade das despesas na
+aplicação dos recursos, por força da determinação contida no § 2º, inciso II, do mesmo artigo, no
+sentido de que os recursos passam a pertencer imediatamente à unidade federativa". (TCU,
+Plenário. Acórdão TCU 1758/2023. Rel. Min. Vital do Rêgo, julgado em 23/08/2023)
+
+LETRA E. INCORRETA. Apesar do TCU ser órgão de controle externo e a União ter repassado os
+recursos, a competência para realizar auditoria para verificação de regularidade das despesas na
+aplicação dos recursos recebidos é do Estado-membro beneficiário, sendo tal controle exercido
+pelo Tribunal de Contas do respectivo Estado.
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           63
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+4.​   (FGV/CVM/2024) A Constituição do estado Alfa, após ampla mobilização parlamentar, foi
+objeto de emenda, devidamente promulgada pela Mesa da Assembleia Legislativa, dispondo
+que compete a essa Casa Legislativa sustar licitações conduzidas pelas estruturas de poder do
+estado Alfa.
+
+Irresignado com o teor dessa emenda, que, ao seu ver, “enfraqueceria” o Tribunal de Contas do
+Estado Alfa, determinado legitimado ao controle concentrado de constitucionalidade solicitou
+que fosse analisada a sua conformidade constitucional, sendo-lhe corretamente informado que:
+
+a) a emenda à Constituição Estadual apenas reproduz comando expresso da Constituição da
+República, não estabelecendo qualquer inovação;
+
+b) a licitação instrumentaliza o contrato administrativo; logo, como o Poder Legislativo tem
+competência para sustar este último, também deve sustar aquela;
+
+c) a distribuição de competências entre a Assembleia Legislativa e o Tribunal de Contas está
+sujeita à liberdade de conformação do Poder Legislativo Estadual, o que deriva da autonomia
+política do estado;
+
+d) a emenda afronta a competência do Tribunal de Contas, pois, como esse órgão é competente
+para sustar o contrato administrativo, também tem competência para sustar a licitação, que o
+instrumentaliza;
+
+e) o Poder Legislativo somente tem competência para sustar contratos; logo, a sustação de
+licitação, a contrario sensu, se insere entre as competências do Tribunal de Contas, o que não
+pode ser desconsiderado pela Constituição Estadual.
+
+Comentários:
+
+LETRA A. INCORRETA. A emenda à Constituição Estadual inovou, já que conforme o § 1º do art.
+71 da CRFB/88, no caso de contrato, o ato de sustação será adotado diretamente pelo
+Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis.
+Apenas no caso de contratos o ato de sustação será adotado diretamente pelo Congresso
+Nacional. Já a competência para sustar os atos administrativos, como por exemplo, licitação, é
+do Tribunal de Contas, não se subordinando ao crivo posterior do Poder Legislativo.
+
+LETRA B. INCORRETA. Apenas no caso de contratos o ato de sustação será adotado diretamente
+pelo Congresso Nacional.
+
+LETRA C. INCORRETA. A repartição de competências entre a Assembleia Legislativa e o Tribunal
+de Contas não é uma questão de autonomia política dos estados, devendo seguir os limites
+impostos pela CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       64
+        www.estrategiaconcursos.com.br                                                     113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA D. INCORRETA. O Tribunal de Contas é competente para sustar a execução de atos
+administrativos, como por exemplo, licitação. Já a sustação de contratos é de competência do
+Poder Legislativo.
+
+LETRA E. CORRETA. É o nosso gabarito! Ao Poder Legislativo é atribuído apenas o ato de sustar
+os contratos administrativos, de acordo com o § 1º do art. 71 da CRFB/88. Já a competência para
+sustar os atos administrativos, como por exemplo, licitação, é do Tribunal de Contas, conforme os
+art. 71 e 75 da CRFB/88. Nesse confira o entendimento fixado pelo STF na ADI nº 3.715:
+
+Ação Direta de Inconstitucionalidade. 2. Constituição do Estado do Tocantins. Emenda
+Constitucional n° 16/2006, que criou a possibilidade de recurso, dotado de efeito suspensivo,
+para o Plenário da Assembleia Legislativa, das decisões tomadas pelo Tribunal de Contas do
+Estado com base em sua competência de julgamento de contas (§5º do art. 33) e atribuiu à
+Assembleia Legislativa a competência para sustar não apenas os contratos, mas também as
+licitações e eventuais casos de dispensa e inexigibilidade de licitação (art. 19, inciso XXVIII, e art.
+33, inciso IX e § 1º). 3. A Constituição Federal é clara ao determinar, em seu art. 75, que as
+normas constitucionais que conformam o modelo federal de organização do Tribunal de Contas
+da União são de observância compulsória pelas Constituições dos Estados-membros.
+Precedentes. [...] 5. Na segunda hipótese, o exercício da competência de julgamento pelo
+Tribunal de Contas não fica subordinado ao crivo posterior do Poder Legislativo. Precedentes. 6.
+A Constituição Federal dispõe que apenas no caso de contratos o ato de sustação será adotado
+diretamente pelo Congresso Nacional (art. 71, § 1º, CF/88). 7. Ação julgada procedente.
+
+Gabarito: Letra E.
+
+5.​     (FGV/AL-PR/Analista Legislativo/2024) O Tribunal de Contas, integrado por sete
+conselheiros, tem sede na Capital do Estado, quadro próprio de pessoal e jurisdição em todo o
+território estadual, exercendo, no que couber, as atribuições previstas na Constituição do Estado
+do Paraná. Diante do exposto, de acordo com a Constituição do Estado do Paraná e da
+República e a jurisprudência do Supremo Tribunal Federal, é correto afirmar que
+
+a) qualquer cidadão, partido político, associação ou entidade sindical é parte legítima para, na
+forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas do Estado e
+as decisões fazendárias de última instância, contrárias ao erário, serão apreciadas pelo Tribunal
+de Contas em grau de recurso.
+
+b) os conselheiros do Tribunal de Contas do Estado serão nomeados dentre brasileiros que
+tenham mais de vinte e cinco e menos de cinquenta e cinco anos de idade, idoneidade moral e
+reputação ilibada, notórios conhecimentos jurídicos, econômicos, financeiros, contábeis ou de
+administração pública e mais de cinco anos de exercício de função ou de efetiva atividade
+profissional que exija os conhecimentos mencionados.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                65
+        www.estrategiaconcursos.com.br                                                              113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+c) os conselheiros do Tribunal de Contas do Estado serão escolhidos dois pelo Governador do
+Estado, com a aprovação da Assembleia Legislativa, alternadamente, entre auditores e membros
+do Ministério Público junto ao Tribunal, indicados em lista tríplice pelo mesmo Tribunal, segundo
+os critérios de antiguidade e merecimento.
+
+d) os conselheiros do Tribunal de Contas do Estado serão escolhidos dois pelo Governador do
+Estado, alternadamente, entre auditores, membros do Ministério Público junto ao Tribunal,
+indicados em lista tríplice pelo mesmo Tribunal, segundo os critérios de antiguidade e
+merecimento e livre escolha e cinco pela Assembleia Legislativa.
+
+e) os conselheiros do Tribunal de Contas do Estado serão escolhidos quatro pela Assembleia
+Legislativa e três pelo chefe do Poder Executivo estadual, com a aprovação da Assembleia
+Legislativa, cabendo ao Governador indicar um dentre auditores e outro dentre membros do
+Ministério Público, e um terceiro a sua livre escolha.
+
+Comentários:
+
+LETRA A. INCORRETA. Pegadinha maldosa! As decisões fazendárias de última instância são
+julgadas pela Poder Judiciário e não pelo Tribunal de Contas, conforme art. 74, § 2º da CRFB/88:
+
+                         § 2º Qualquer cidadão, partido político, associação ou sindicato é parte
+                         legítima para, na forma da lei, denunciar irregularidades ou ilegalidades
+                         perante o Tribunal de Contas da União.
+
+LETRA B. INCORRETA. Na verdade, os Conselheiros do Tribunal de Contas devem ter mais de 35
+anos e menos de 70 anos. Além disso, deve ter no mínimo 10 anos de exercício de função ou de
+efetiva atividade profissional, conforme art. 73, § 1º, incisos I e IV da CRFB/88:
+
+                         Art. 73. O Tribunal de Contas da União, integrado por nove Ministros, tem
+                         sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o
+                         território nacional, exercendo, no que couber, as atribuições previstas no art.
+                         96.
+
+                         § 1º Os Ministros do Tribunal de Contas da União serão nomeados dentre
+                         brasileiros que satisfaçam os seguintes requisitos:
+
+                         I - mais de trinta e cinco e menos de setenta anos de idade;
+
+                         IV - mais de dez anos de exercício de função ou de efetiva atividade
+                         profissional que exija os conhecimentos mencionados no inciso anterior.
+
+LETRA C. INCORRETA. Cabe ao Governador do Estado a escolha de 03 indivíduos para ocupar o
+cargo de Conselheiro do Tribunal de Contas Estadual, de acordo com a Súmula nº 653 do STF:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 66
+        www.estrategiaconcursos.com.br                                                               113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         Súmula 653: No Tribunal de Contas estadual, composto por sete
+                         conselheiros, quatro devem ser escolhidos pela Assembleia Legislativa e três
+                         pelo Chefe do Poder Executivo estadual, cabendo a este indicar um dentre
+                         auditores e outro dentre membros do Ministério Público, e um terceiro a sua
+                         livre escolha.
+
+LETRA D. INCORRETA. 03 (Três) Conselheiros do Tribunal de Contas serão escolhidos pelo
+Governador do Estado e 04 pela Assembleia, conforme Súmula nº 653 do STF.
+
+LETRA E. CORRETA. É o nosso gabarito! Conforme a Súmula nº 653 do STF, o Tribunal de Contas
+Estadual é composto por sete membros, dos quais, quatro são escolhidos pela Assembleia
+Legislativa e três pelo Governador do Estado, estando este incumbido de indicar um dentre
+auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha.
+                     Súmula 653: No Tribunal de Contas estadual, composto por sete
+                     conselheiros, quatro devem ser escolhidos pela Assembleia Legislativa e três
+                     pelo Chefe do Poder Executivo estadual, cabendo a este indicar um dentre
+                     auditores e outro dentre membros do Ministério Público, e um terceiro a sua
+                     livre escolha.
+
+Gabarito: Letra E.
+
+6.​ (FGV/ALE-SC/Analista Legislativo/2024) Os sistemas de Controle na Administração Pública
+    Brasileira desempenham um papel crucial na promoção da integridade e na prevenção de
+    irregularidades e corrupção no âmbito da Administração Pública. Com relação aos Sistemas
+    de Controle na Administração Pública Brasileira, analise os itens a seguir.
+
+I. O controle externo, atribuído ao Congresso Nacional, é realizado com o apoio do Tribunal de
+Contas da União.
+
+II. Os Ministros do Tribunal de Contas da União possuem as mesmas garantias, prerrogativas,
+impedimentos, vencimentos e vantagens dos Ministros do Supremo Tribunal Federal.
+
+III. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da
+lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              67
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários:
+
+LETRA A. INCORRETA. Além do item I o III também está correto, tendo em vista que a
+Constituição prevê que qualquer cidadão, partido político, associação ou sindicato é parte
+legítima para denunciar irregularidades ou ilegalidades ao Tribunal de Contas da União, art. 74, §
+2º da CRFB/88.
+
+LETRA B. INCORRETA. Na verdade, os Ministros do Tribunal de Contas da União possuem as
+mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do
+Superior Tribunal de Justiça, de acordo com o art. 73, § 3° da CRFB/88:
+
+                           § 3° Os Ministros do Tribunal de Contas da União terão as mesmas
+                           garantias, prerrogativas, impedimentos, vencimentos e vantagens dos
+                           Ministros do Superior Tribunal de Justiça, aplicando-se-lhes, quanto à
+                           aposentadoria e pensão, as normas constantes do art. 40.
+
+LETRA C. CORRETA. Apenas os itens I e III estão em consonância com a Constituição Federal. De
+acordo com a nossa Carta Magna o controle externo é exercido pelo Congresso Nacional com o
+auxílio do Tribunal de Contas da União, conforme art. 71. Ademais, qualquer cidadão, partido
+político, associação ou sindicato é parte legítima para denunciar irregularidades ou ilegalidades
+ao Tribunal de Contas da União, art. 74, § 2º da CRFB/88:
+
+                           Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido
+                           com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+                           Art. 74 (...)
+
+                           § 2º Qualquer cidadão, partido político, associação ou sindicato é parte
+                           legítima para, na forma da lei, denunciar irregularidades ou ilegalidades
+                           perante o Tribunal de Contas da União.
+
+LETRA D. INCORRETA. O item II está errado, porque os ministros do TCU possuem as mesmas
+garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior
+Tribunal de Justiça (e não do STF), de acordo com o art. 73, § 3° da CRFB/88.
+
+LETRA E. INCORRETA. Apenas os itens I e III estão em conformidade com a Constituição
+Federal, de acordo com os arts. 71 e 74, § 2º da CRFB/88.
+
+Gabarito: Letra C.
+
+          Receita Federal (Analista Tributário) Direito Constitucional                            68
+          www.estrategiaconcursos.com.br                                                         113
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+7.​ (FGV/ALE-SC/Analista Legislativo/2024) O órgão competente do Poder Executivo federal
+    expediu o ato de aposentadoria de Ana. Após receber seus proventos regularmente por sete
+    anos, Ana foi surpreendida com a comunicação de que o Tribunal de Contas, em julgamento
+    realizado dias antes, identificara uma incorreção no ato de concessão da aposentadoria.
+
+À luz da sistemática vigente, é correto afirmar que
+
+a) como decorreram sete anos desde o ato de concessão inicial da aposentadoria, o registro do
+ato seria obrigatório.
+
+b) não há limite temporal para que o Tribunal de Contas analise, para fins de registro, o ato de
+concessão inicial de aposentadoria.
+
+c) caso o processo de concessão da aposentadoria tenha ingressado no Tribunal de Contas há
+mais de cinco anos, o registro não poderia ser negado.
+
+d) o decurso de mais de cinco anos desde o ato de concessão da aposentadoria exigia, em
+caráter prévio ao julgamento pelo Tribunal de Contas, a observância do contraditório e da ampla
+defesa.
+
+e) caso tenham decorrido mais de cinco anos desde a chegada dos autos do processo
+administrativo ao Tribunal de Contas, o julgamento deveria ser antecedido pela observância do
+contraditório e da ampla defesa.
+
+Comentários:
+
+LETRA A. INCORRETA. O mero decurso de sete anos não torna por si só obrigatório o registro
+sem uma análise prévia. Pelo contrário, o STF tem entendimento consolidado (RE 636553/RS)
+que, se o Tribunal de Contas demorar mais de 5 anos para julgar a aposentadoria, reforma ou
+pensão, o ato é considerado definitivamente registrado.
+
+LETRA B. INCORRETA. De acordo com o STF, o Tribunal de Contas possui um prazo de 05 anos.
+Caso contrário, o ato é considerado definitivamente registrado.
+
+LETRA C. CORRETA. É o nosso gabarito! De acordo com o entendimento do STF, se o Tribunal
+de Contas passar mais de cinco anos para julgar a concessão inicial da aposentadoria, o registro
+não pode ser negado. O ato é considerado definitivamente registrado. vejamos:
+
+                         RE 636553/RS:
+
+                         “Em atenção aos princípios da segurança jurídica e da confiança legítima, os
+                         Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da
+                         legalidade do ato de concessão inicial de aposentadoria, reforma ou
+                         pensão, a contar da chegada do processo à respectiva Corte de Contas”.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               69
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         Tema 445 do STF: [...] a discussão acerca da observância do contraditório e
+                         da ampla defesa após o transcurso do prazo de cinco anos da chegada do
+                         processo ao TCU encontra-se prejudicada. Isso porque, findo o referido
+                         prazo, o ato de aposentação considera-se registrado tacitamente, não
+                         havendo mais a possibilidade de alteração pela Corte de Contas.
+
+LETRA D. INCORRETA. Na verdade, o transcurso de mais de cinco anos desde o ato de
+concessão não assegura automaticamente o direito ao contraditório e à ampla defesa antes do
+julgamento. O que realmente importa é o tempo transcorrido desde o início do processo no
+Tribunal.
+
+LETRA E. INCORRETA. Não mais! Segundo o STF: “Em atenção aos princípios da segurança
+jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o
+julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a
+contar da chegada do processo à respectiva Corte de Contas”. (RE 636553/RS)
+
+Gabarito: Letra C.
+
+8.​ (FGV/ALE-TO/Analista Legislativo/2024) Quanto ao controle exercido pelos Tribunais de
+    Contas, assinale a afirmativa incorreta.
+
+a) Compete ao Tribunal de Contas julgar as contas dos administradores e demais responsáveis
+por dinheiros, bens e valores públicos da administração direta e indireta.
+
+b) Compete ao Tribunal de Contas realizar, por iniciativa própria inspeções e auditorias de
+natureza contábil, financeira, orçamentária, operacional e patrimonial.
+
+c) Compete ao Tribunal de Contas prestar as informações solicitadas pelo Parlamento sobre
+resultados de auditorias e inspeções realizadas.
+
+d) Compete ao Tribunal de Contas sustar diretamente a execução de contratos.
+
+e) Compete ao Tribunal de Contas aplicar aos responsáveis, em caso de ilegalidade de despesa
+ou irregularidade de contas, as sanções previstas em lei.
+
+Comentários:
+
+LETRA A. CORRETA. Cabe ao Tribunal de Contas julgar as contas dos administradores, bem
+como dos demais responsáveis por dinheiro, bens e valores públicos, tanto da administração
+direta como da indireta (art. 71, inciso II da CRFB/88).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             70
+        www.estrategiaconcursos.com.br                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA B. CORRETA. Exatamente! O TCU pode, por sua própria iniciativa realizar inspeções e
+auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, de acordo
+com o art. 71, inciso IV da CRFB/88
+
+LETRA C. CORRETA. Dentre as atribuições do Tribunal de Contas, podemos encontrar a de
+prestar informações solicitadas pelo parlamento acerca dos resultados das auditorias e inspeções
+realizadas, conforme o art. 71, inciso VII da CRFB/88.
+
+LETRA D. INCORRETA. É o nosso gabarito! Não compete ao TCU sustar diretamente a execução
+de contratos. Nesse caso, cabe ao Congresso Nacional, o qual solicitará ao Poder Executivo, a
+adoção das medidas cabíveis, conforme art. 71, § 1º da CRFB/88:
+
+                         § 1º No caso de contrato, o ato de sustação será adotado diretamente pelo
+                         Congresso Nacional, que solicitará, de imediato, ao Poder Executivo as
+                         medidas cabíveis.
+
+LETRA E. CORRETA. O TCU possui a atribuição de aplicar aos responsáveis, na ocorrência de
+ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei. Pode
+estabelecer, inclusive, multa proporcional ao dano causado ao erário (art. 71, inciso VIII da
+CRFB/88).
+
+Gabarito: Letra D.
+
+9.​ (FGV/TJ-SC/Oficial de Justiça/2024) Determinado ente da Administração Pública indireta da
+    União promoveu a admissão de pessoal, com estrita observância dos requisitos
+    estabelecidos pela ordem jurídica. Por tal razão, foram admitidos:
+
+I - os aprovados em concurso público de provas e títulos;
+II - os contratados por prazo determinado;
+III - os designados para cargos em comissão.
+
+Ato contínuo, o presidente do referido ente questionou sua assessoria em relação à necessidade,
+ou não, de as referidas admissões de pessoal serem apreciadas pelo Tribunal de Contas para fim
+de registro.
+
+Foi corretamente esclarecido ao presidente que a apreciação:
+
+a) é necessária em relação a todas as admissões de pessoal;
+
+b) somente é necessária em relação às admissões de pessoal descritas em I;
+
+c) somente é necessária em relação às admissões de pessoal descritas em III;
+
+d) somente é necessária em relação às admissões de pessoal descritas em I e II;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            71
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+e) somente é necessária em relação às admissões de pessoal descritas em II e III.
+
+Comentários:
+
+LETRA A. INCORRETA. Não compete ao TCU apreciar as admissões de pessoal nomeado para o
+cargo de provimento em comissão. Portanto, o item III está errado.
+
+LETRA B. INCORRETA. Além do item I, é atribuído ao TCU apreciar as admissões de pessoal
+contratados por prazo determinado. Sendo assim, o item II também está correto.
+
+LETRA C. INCORRETA. A alternativa está errada, porque não compete ao TCU apreciar as
+admissões de pessoal nomeado para o cargo de provimento em comissão, estando o item III
+errado.
+
+LETRA D. CORRETA. É o nosso gabarito! É atribuído ao TCU a apreciação de admissão de
+pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e
+mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão,
+bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias
+posteriores que não alterem o fundamento legal do ato concessório, de acordo com o art. 71,
+inciso III da CRFB/88.
+
+                         Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido
+                         com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+                         III - apreciar, para fins de registro, a legalidade dos atos de admissão de
+                         pessoal, a qualquer título, na administração direta e indireta, incluídas as
+                         fundações          instituídas       e       mantidas       pelo      Poder
+                         Público, excetuadas as nomeações para cargo de provimento em comissão,
+                         bem como a das concessões de aposentadorias, reformas e pensões,
+                         ressalvadas as melhorias posteriores que não alterem o fundamento legal do
+                         ato concessório.
+
+LETRA E. INCORRETA. Mais uma vez, não compete ao TCU apreciar as admissões de pessoal
+nomeado para o cargo de provimento em comissão.
+
+Gabarito: Letra D.
+
+10.​(FGV/TCE-GO/Auditor de Controle Externo/2024) A Constituição Federal do Brasil, em seu
+    artigo 71, estabelece que o controle externo das contas públicas será realizado pelo
+    Congresso Nacional, com o auxílio do Tribunal de Contas da União (TCU).
+
+Assinale a opção que indica uma competência do TCU.
+
+a) avaliar a execução dos programas de governo.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              72
+        www.estrategiaconcursos.com.br                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+b) apreciar as contas prestadas anualmente pelo Governador.
+
+c) exercer o controle das operações de crédito, avais e garantias.
+
+d) fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio a
+Estado.
+
+e) avaliar o cumprimento das metas previstas no plano plurianual.
+
+Comentários:
+
+LETRA A. INCORRETA. E o fundamento passa pela compreensão do artigo 74, inciso I da CRFB.
+
+                         Art. 74 Os Poderes Legislativo, Executivo e Judiciário manterão, de forma
+                         integrada, sistema de controle interno com a finalidade de:
+
+                         I - avaliar o cumprimento das metas previstas no plano plurianual,
+                         a execução dos programas de governo e dos orçamentos da União.
+
+                         LETRA B. INCORRETA. Com base no artigo 71, inciso I da CRFB.
+
+                         Art. 71 O controle externo, a cargo do Congresso Nacional, será exercido
+                         com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+                         I - apreciar as contas prestadas anualmente pelo Presidente da República,
+                         mediante parecer prévio que deverá ser elaborado em sessenta (60) dias a
+                         contar de seu recebimento.
+
+LETRA C. INCORRETA. Com base no artigo 74, inciso III da CRFB: “Os Poderes Legislativo,
+Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a
+finalidade de: (...) III - exercer o controle das operações de crédito, avais e garantias, bem como
+dos direitos e haveres da União”.
+
+LETRA D. CORRETA. É o nosso gabarito. De acordo com o artigo 71, inciso IV da CRFB/88,
+compete ao TCU:”fiscalizar a aplicação de quaisquer recursos repassados pela União mediante
+convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a
+Município”.
+
+LETRA E. INCORRETA. Com base no artigo 74, inciso I da CRFB: “Os Poderes Legislativo,
+Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a
+finalidade de: I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos
+programas de governo e dos orçamentos da União:
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            73
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+11.​(FGV/TCE-GO/Auditor de Controle Externo/2024) O Tribunal de Contas do Estado Alfa, ao
+    apreciar as contas de Maria, ordenadora de despesas em determinado ente da
+    Administração Pública indireta sujeito à sua fiscalização, constatou o desvio de recursos
+    públicos. Por tal razão, as contas foram rejeitadas, foi aplicada a sanção de multa a Maria e
+    imputado o débito correspondente.
+
+Considerando os balizamentos constitucionais afetos a essa temática, e os efeitos da decisão do
+Tribunal de Contas, é correto afirmar que.
+
+a) em razão da natureza do ilícito praticado, é imprescritível a pretensão de ressarcimento ao
+erário fundada nessa decisão.
+
+b) a decisão do Tribunal de Contas, no exercício de sua competência constitucional, forma um
+título executivo judicial.
+
+c) como a decisão analisou as contas, não julgando Maria pelo ilícito praticado, é prescritível a
+pretensão de ressarcimento ao erário.
+
+d) a imputação de débito é incompatível com a decisão de rejeição das contas, devendo ser
+objeto de processo autônomo, o que retira a eficácia do título.
+
+e) caso não haja o adimplemento voluntário do dever de ressarcir o erário, a decisão deve ser
+inscrita em dívida ativa, não havendo prazo limite para a sua cobrança.
+
+Comentários:
+
+LETRA A. INCORRETA. Maldade da FGV! A pretensão de ressarcimento ao erário, decorrente de
+desvio de recursos públicos, é prescritível e não imprescritível como disposto na alternativa.
+
+LETRA B. INCORRETA. A decisão do Tribunal de Contas não constitui título executivo judicial,
+mas sim um título executivo administrativo extrajudicial, nos termos do art. 71, § 3º da CRFB/88.
+
+LETRA C. CORRETA. A decisão do Tribunal de Contas que rejeita as contas e aplica sanção de
+multa não julga o ilícito em si, mas reconhece a irregularidade nas contas apresentadas. Isso
+implica que a pretensão de ressarcimento ao erário é imprescritível, uma vez que a decisão não
+configura uma condenação por ato ilícito, mas sim uma análise das contas. Trata-se de
+entendimento do STF sobre o tema. Vejamos: “É prescritível a pretensão de ressarcimento ao
+erário fundada em decisão de Tribunal de Contas.” (STF, RE/636886, Tema: 899)
+
+LETRA D. INCORRETA. A imputação de débito e a rejeição das contas podem coexistir na
+mesma decisão do Tribunal de Contas. Quando o Tribunal rejeita as contas de um gestor e, ao
+mesmo tempo, imputa um débito, isso não compromete a eficácia da decisão.
+
+LETRA E. INCORRETA. A inscrição em dívida ativa faz com que a cobrança seja submetida ao
+regime de prescrição, conforme estabelecido pela legislação pertinente. Isso significa que há um
+prazo específico para que a administração pública possa exigir judicialmente o ressarcimento, e
+esse prazo pode variar dependendo da natureza da obrigação.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           74
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Gabarito: Letra C.
+
+12.​(FGV/STN/Auditor Federal de Finanças e Controle/2024) Determinado ente da
+    Administração Pública indireta da União, que desempenha atividade econômica, passou por
+    uma ampla remodelagem de sua governança interna, com o aperfeiçoamento do seu
+    programa de integridade. Ao analisar a funcionalidade do órgão de controle interno, bem
+    como a existência, ou não, de zonas de intercessão entre a sua atuação e a do controle
+    externo, a comissão responsável pela reestruturação concluiu corretamente que, na
+    perspectiva constitucional,
+
+a) o órgão interno está hierarquicamente subordinado ao externo, devendo cumprir suas
+determinações.
+
+b) apesar de organicamente separado do órgão externo, o órgão interno deve exercer as
+mesmas atribuições afetas àquele.
+
+c) deve haver total separação entre o órgão interno e o externo, de modo que os juízos de valor
+daquele sequer sejam conhecidos por este, preservando-se, assim, a sua imparcialidade.
+
+d) como parte indissociável da governança administrativa, o controle interno terá suas
+atribuições definidas em ato regulamentar, podendo ser incumbido, ou não, de avaliar a
+execução orçamentária.
+
+e) os agentes do órgão interno, caso não deem ciência ao órgão competente de controle
+externo das irregularidades que tenham conhecimento, podem ser responsabilizados pela
+totalidade dos danos causados, sem prejuízo da ação regressiva contra os autores.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, o controle traz as atribuições dos órgãos de controle interno,
+que juntamente com outros dispositivos constitucionais firmaram um sistema harmônico e
+integrado entre as duas formas de controle. Tal integração é perceptível quando nos deparamos
+com uma das finalidades do controle interno de cada Poder: apoiar o controle externo
+
+LETRA B. INCORRETA. Os órgãos de controle interno têm atribuições diferentes daquelas
+impostas ao controle externo, estando elas elencadas no art. 74, incisos de I a IV da CRFB/88. Por
+exemplo, avaliar o cumprimento das metas previstas no plano plurianual, a execução dos
+programas de governo e dos orçamentos da União.
+
+LETRA C. INCORRETA. Não podemos afirmar que há uma separação exata entre o controle
+interno e externo, uma vez que uma das atribuições do controle interno é apoiar o controle
+externo no exercício de sua missão constitucional, conforme art. 74, inciso IV da CRFB/88:
+“apoiar o controle externo no exercício de sua missão institucional”.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           75
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA D. INCORRETA. De forma alguma! As funções do controle interno estão devidamente
+previstas na Constituição, em seu art. 74, incisos I a IV da CRFB/88.
+
+LETRA E. CORRETA. É o nosso gabarito! A nossa Carta Magna nos diz que aqueles responsáveis
+pelo controle interno que tiverem conhecimento de irregularidade ou ilegalidade deve dar
+ciência ao TCU, sob pena de responsabilidade solidária, conforme art. 74, § 1º da CRFB/88:
+
+                         § 1º Os responsáveis pelo controle interno, ao tomarem conhecimento de
+                         qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de
+                         Contas da União, sob pena de responsabilidade solidária
+
+Gabarito: Letra E.
+
+13.​(FGV/TCE-PA/Auditor de Controle Externo/2024) Segundo a orientação do Supremo Tribunal
+    Federal, no complexo feixe de atribuições dos Tribunais de Contas previstos na Constituição
+    da República existem atribuições que são autônomas e outras que dependem do
+    pronunciamento da Casa Legislativa a sua efetivação.
+
+Entre as hipóteses que se enquadram na última situação descrita é correto indicar
+
+a) o julgamento das contas do chefe do Poder Executivo.
+
+b) a determinação de prazo para que o órgão ou entidade adote as providências necessárias ao
+exato cumprimento da lei, se verificada ilegalidade.
+
+c) a aplicação aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas,
+as sanções previstas em lei.
+
+d) a representação ao Poder competente sobre irregularidades ou abusos apurados.
+
+e) a apreciação, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer
+título, na administração direta e indireta, excetuados os cargos em comissão.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! Cabe ao TCU emitir parecer prévio sobre as contas do
+chefe do Poder Executivo, cabendo ao Poder Legislativo julgá-las conforme art. 71, inciso I da
+CRFB/88:
+
+                         Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido
+                         com o auxílio do Tribunal de Contas da União, ao qual compete:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            76
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         I - apreciar as contas prestadas anualmente pelo Presidente da República,
+                         mediante parecer prévio que deverá ser elaborado em sessenta dias a
+                         contar de seu recebimento;
+
+LETRA B. INCORRETA. Apesar de ser uma atribuição do TCU, ela não envolve manifestação do
+Poder Legislativo, sendo uma função autônoma, de acordo com o art. 71, inciso IX da CRFB/88:
+“assinar prazo para que o órgão ou entidade adote as providências necessárias ao exato
+cumprimento da lei, se verificada ilegalidade”.
+
+LETRA C. INCORRETA. Não é necessário manifestação do Poder Legislativo para que o TCU
+aplique as sanções cabíveis, de acordo com o art. 71, inciso VIII da CRFB/88.
+
+LETRA D. INCORRETA. A representação ao Poder competente sobre irregularidades ou abusos
+apurados, trata-se de uma função autônoma do TCU não necessitando de manifestação do Poder
+Legislativo, conforme art. 71, inciso IX da CRFB/88.
+
+LETRA E. INCORRETA. Compete ao TCU de forma autônoma a apreciação, para fins de registro,
+da legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e
+indireta, nos termos do art. 71, inciso III da CRFB/88.
+
+Gabarito: Letra A.
+
+14.​(FGV/TCE PA/Auxiliar Técnico de Controle Externo/2024) Os artigos 52, III, “b”, 73 e 75 da
+    Constituição Federal de 1988 traçam as regras e os critérios para escolha dos membros do
+    Tribunal de Contas da União, estendendo-as, no que couber, aos Tribunais Estaduais e
+    Conselhos Municipais de contas. (Paschoal, Valdecir. Direito Financeiro e Controle Externo. 2004, p. 184)
+
+Entre os critérios para escolha dos membros dos Tribunais de Contas a que se refere o texto,
+assinale aquele que é exigido pela Constituição Federal de 1988.
+
+a) Idade mínima de 30 e máxima de 70 anos.
+
+b) Idoneidade moral e reputação ilibada.
+
+c) Notórios conhecimentos jurídicos, econômicos e de obras públicas, dentre outros.
+
+d) Mais de 10 anos de exercício de cargo público ou de mandato eletivo.
+
+e) Aprovação em concurso público de provas ou de títulos.
+
+Comentários:
+
+LETRA A. INCORRETA. Para ser conselheiro do Tribunal de Contas, é necessário ter mais 35 anos
+e menos de 70 anos, de acordo com o art. 73, inciso I da CRFB/88.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      77
+        www.estrategiaconcursos.com.br                                                                    113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA B. CORRETA. É o nosso gabarito! Aqueles que forem ocupar o cargo de Conselheiro do
+Tribunal de Contas, devem ter idoneidade moral e reputação ilibada (art. 73, inciso II da
+CRFB/88).
+
+LETRA C. INCORRETA. Na verdade, o membro do TCU deve ter notórios conhecimentos
+jurídicos, contábeis, econômicos e financeiros ou da administração pública (art. 73, inciso III da
+CRFB/88).
+
+LETRA D. INCORRETA. Dentre os requisitos para ser Conselheiro do TCU, podemos encontrar a
+de ter mais de 10 anos de exercício de função ou de efetiva atividade profissional que exija os
+conhecimentos especificados no inciso III do art. 73 da CRFB/88.
+
+LETRA E. INCORRETA. Não é necessário aprovação em concurso público, tendo em vista que os
+Conselheiros do TCU são nomeados, conforme § 1º do art. 73 da CRFB/88: “Os Ministros do
+Tribunal de Contas da União serão nomeados dentre brasileiros que satisfaçam os seguintes
+requisitos”.
+
+Gabarito: Letra B.
+
+15.​(FGV/TCE-PA/Auditor de Controle Externo/2024) A Constituição da República de 1988
+    estabelece que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da
+    União e das entidades da administração direta e indireta, quanto a aspectos expressamente
+    mencionados no texto do Art. 70, no que concerne à aplicação das subvenções e renúncia
+    de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo
+    sistema de controle interno de cada Poder. Entre os aludidos aspectos textualmente
+    indicados no mencionado dispositivo, é correto apontar
+
+a) a transparência.
+
+b) a efetividade.
+
+c) a legitimidade.
+
+d) a eficiência.
+
+e) a juridicidade.
+
+Comentários:
+
+LETRA A. INCORRETA. Não há o aspecto da transparência, quanto ao sistema de controle
+interno e externo, consoante art. 70 da CRFB/88:
+
+                         Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e
+                         patrimonial da União e das entidades da administração direta e indireta,
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            78
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                         quanto à legalidade, legitimidade, economicidade, aplicação das
+                         subvenções e renúncia de receitas, será exercida pelo Congresso Nacional,
+                         mediante controle externo, e pelo sistema de controle interno de cada
+                         Poder.
+
+LETRA B. INCORRETA. A efetividade também não está relacionada no sistema de controle fiscal
+contábil, financeiro e orçamentário, conforme o art. 70 da CRFB/88:
+
+LETRA C. CORRETA. É o nosso gabarito! O sistema de controle deve ser pautado na
+legitimidade, examinando se o ato observa não só a lei, mas o ordenamento jurídico como um
+todo, incluindo os princípios jurídicos, conforme art. 70 da CRFB/88:
+
+                         Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e
+                         patrimonial da União e das entidades da administração direta e indireta,
+                         quanto à legalidade, legitimidade, economicidade, aplicação das
+                         subvenções e renúncia de receitas, será exercida pelo Congresso Nacional,
+                         mediante controle externo, e pelo sistema de controle interno de cada
+                         Poder.
+
+LETRA D. INCORRETA. Não há previsão na Constituição que o sistema de controle interno e
+externo deve prezar pela eficiência, conforme podemos vislumbrar no art. 70 da CRFB/88.
+
+LETRA E. INCORRETA. Não! A juridicidade não está relacionada ao sistema de controle fiscal
+contábil, financeiro e orçamentário (art. 70 da CRFB/88).
+
+Gabarito: Letra C.
+
+16.​(FGV/TCE-PA/Auditor de Controle Externo/2024) Um dos grandes debates doutrinários se
+    relaciona às objeções dirigidas contra a ideia de jurisdição de contas: A oposição que se faz à
+    jurisdição de contas, ou seja, aquela realizada no âmbito da atividade processual do Tribunal
+    de Contas, diz respeito à jurisdição uma. Outros elementos compõem o espectro de
+    oposições, porém, encontram-se conectados a esta principal objeção. (HOEMKE, Hamilton
+   Hobus. Tribunal de Contas-Direito Processual de Contas: jurisdição, provas e partes. Conceito Editorial, 2015, p.
+   56)
+
+Os argumentos a favor do reconhecimento da função jurisdicional na atividade processual dos
+Tribunais de Contas se fundam em sua função constitucional de
+
+a) exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e
+haveres da União.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                             79
+        www.estrategiaconcursos.com.br                                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+b) comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão
+orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem
+como da aplicação de recursos públicos por entidades de direito privado.
+
+c) avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de
+governo e dos orçamentos da União.
+
+d) julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores
+públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e
+mantidas pelo Poder Público federal, e as contas daqueles que derem causa a perda, extravio ou
+outra irregularidade de que resulte prejuízo ao erário público.
+
+e) executar, diretamente, as multas e débitos imputados pela Corte de Contas.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, trata-se de função relativa ao controle financeiro e não
+jurisdicional, de acordo com o art. 74, inciso III da CRFB/88: “exercer o controle das operações
+de crédito, avais e garantias, bem como dos direitos e haveres da União”.
+
+LETRA B. INCORRETA. Não é uma atribuição do TCU, mas sim uma função da auditoria e
+fiscalização. Não se caracterizando em função jurisdicional, conforme art. 74, inciso II da
+CRFB/88: “comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da
+gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal,
+bem como da aplicação de recursos públicos por entidades de direito privado”.
+
+LETRA C. INCORRETA. A avaliação do cumprimento de metas é uma função atribuída ao
+controle interno. Ademais, não se trata de uma função jurisdicional, de acordo com o art. 74,
+inciso I da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! Cabe ao TCU julgar as contas dos administradores e
+demais responsáveis por dinheiro, bens e valores públicos. Trata-se de uma atribuição de
+natureza jurisdicional, consoante art. 71, inciso II da CRFB/88:
+
+                         II - julgar as contas dos administradores e demais responsáveis por
+                         dinheiros, bens e valores públicos da administração direta e indireta,
+                         incluídas as fundações e sociedades instituídas e mantidas pelo Poder
+                         Público federal, e as contas daqueles que derem causa a perda, extravio ou
+                         outra irregularidade de que resulte prejuízo ao erário público
+
+LETRA E. INCORRETA. Claro que não! A execução de uma dívida não tem cunho jurisdicional,
+tendo em vista que é uma fase que ocorre em momento posterior ao julgamento.
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            80
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+17.​ (FGV/TCE ES/2024) No julgamento de um processo perante o Tribunal de Contas do
+Estado, em que se julgaram incorretas as contas prestadas por um agente público, foi, ao final,
+imputada a este a obrigação do pagamento do débito apurado.
+
+a) sua atividade é jurisdicional, sendo suas decisões acobertáveis pelo manto da coisa julgada
+material;
+
+b) sua atividade é jurisdicional, sendo suas decisões não acobertáveis pelo manto da coisa
+julgada material;
+
+c) há atividade administrativa, sendo a Corte de Contas órgão auxiliar da estrutura do Poder
+Judiciário brasileiro;
+
+d) não há atividade jurisdicional, mas eminentemente administrativa e fiscalizatória, não podendo
+sua legalidade se submeter ao crivo do Poder Judiciário;
+
+e) não há atividade jurisdicional, mas eminentemente administrativa e fiscalizatória, podendo sua
+legalidade se submeter ao crivo do Poder Judiciário.
+
+Comentários:
+
+Letra A. INCORRETA. O tribunal de Contas NÃO possui função jurisdicional, assim como também
+suas decisões não produzem coisa julgada material, sendo passíveis de revisão pelo Poder
+Judiciário. Nesse sentido, tem-se o entendimento do art. 71 da CRFB/88 combinado com a
+posição do STF (Plenário. MS 35410, Rel. Min. Alexandre de Moraes, julgado em 12/04/2021).
+
+Letra B. INCORRETA. Embora a alternativa termine com a redação ao dizer que “sendo suas
+decisões não acobertáveis pelo manto da coisa julgada material”, o Tribunal de Contas NÃO
+possui função jurisdicional. Cuidado!!!
+
+Letra C. INCORRETA. O Tribunal de Contas é um órgão independente e não está subordinado ao
+Poder Legislativo, nem pertence a nenhum dos Poderes da União. Possui natureza técnica com a
+função de auxiliar o Poder Legislativo na atividade de controle e fiscalização contábil, financeira,
+orçamentária, operacional e patrimonial do Poder Executivo e entidades da administração
+pública direta e indireta. O erro da alternativa é afirmar que o órgão seria “auxiliar da estrutura
+do Poder Judiciário brasileiro”. Falso!!!
+
+Letra D. INCORRETA. Opa!!! Pegadinha, hein? O Tribunal de Contas pode sim ter sua legalidade
+submetida ao crivo do Poder Judiciário, visto que suas decisões não produzem coisa julgada
+material, sendo passíveis de revisão pelo Judiciário.
+
+Letra E. CORRETA! É o nosso gabarito!! Como já explicado, embora sua atividade seja a de
+julgamento de contas, o Tribunal NÃO exerce jurisdição e as suas decisões não produzem coisa
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             81
+        www.estrategiaconcursos.com.br                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+julgada material, sendo passíveis de revisão pelo Poder Judiciário. Trata-se de órgão de controle
+de natureza técnica, visando a fiscalização contábil, financeira, orçamentária, operacional e
+patrimonial do Poder Executivo e entidades da administração pública direta e indireta. (art. 71, IV,
+CRFB/88)
+
+Gabarito: Letra E.
+
+18.​ (FGV/TCE-GO/2024) Certo Tribunal de Contas, no âmbito de sua competência, realizou
+uma tomada de contas especial, para fins de verificar a regularidade no cumprimento de
+determinado convênio interfederativo de repasse de verbas e promover a responsabilização
+pessoal dos envolvidos, dentre os quais o prefeito do Município Alfa.
+
+Considerando as disposições constitucionais acerca do controle exercido pelas Cortes de Contas
+e a orientação do Supremo Tribunal Federal acerca do tema, é correto afirmar que, em relação à
+mencionada tomada de contas especial
+
+a) não é possível que o Tribunal de Contas aprecie condutas e gastos realizados pelo prefeito,
+considerando que a Constituição determina que o julgamento das contas do Chefe do Poder
+Executivo deve ser realizado pela respectiva Casa Legislativa.
+
+b) cabe ao Tribunal de Contas apenas apreciar a regularidade dos gastos realizados pelo prefeito,
+mediante a elaboração de parecer, cuja conclusão apenas deixa de prevalecer pela votação de
+2/3 (dois terços) da Câmara de Vereadores.
+
+c) deve aplicar as sanções pertinentes ao prefeito, em decorrência da apuração de irregularidades
+no convênio em questão, considerando ser o órgão responsável pelo julgamento anual das
+contas do Chefe do Poder Executivo.
+
+d) não pode ser compreendida como atribuição autônoma do Tribunal de Contas, de modo que
+eventual aplicação de penalidade ao Chefe do Poder Executivo, em decorrência de
+irregularidades no convênio em questão, deve ser submetida à apreciação da Casa Legislativa.
+
+e) pode promover a condenação administrativa do Chefe do Poder Executivo, quando
+identificada a responsabilidade pessoal em face de irregularidades no cumprimento do convênio
+em questão, sem necessidade de posterior julgamento ou aprovação do ato pelo respectivo
+Poder Legislativo.
+
+Comentários:
+
+LETRA A. INCORRETA. Embora o julgamento das contas do Chefe do Poder Executivo Municipal
+deva ser feito pela Câmara de Vereadores, o Tribunal de Contas tem a competência de fiscalizar
+e auditar os atos administrativos, incluindo a apreciação das condutas e gastos do prefeito.
+
+LETRA B. INCORRETA. Não cabe ao Tribunal de Contas apenas apreciar a regularidade dos
+gastos realizados pelo prefeito. Também tem a função de identificar irregularidades e
+recomendar sanções.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             82
+        www.estrategiaconcursos.com.br                                                           113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA C. INCORRETA. O Tribunal de Contas aprecia, não julga as contas.
+
+LETRA D. INCORRETA. Não há necessidade de posterior julgamento ou aprovação do ato pelo
+respectivo Poder Legislativo.
+
+LETRA E. CORRETA. Conforme o STF (ARE 1.436.197/RO), existe a possibilidade de condenação
+administrativa do Chefe do Poder Executivo, confira trecho do julgado:
+
+No âmbito da tomada de contas especial, é possível a condenação administrativa de Chefes dos
+Poderes Executivos municipais, estaduais e distrital pelos Tribunais de Contas, quando
+identificada a responsabilidade pessoal em face de irregularidades no cumprimento de convênios
+Interfederativos de repasse de verbas, sem necessidade de posterior julgamento ou aprovação
+do ato pelo respectivo Poder Legislativo.
+
+Gabarito: Letra E.
+
+19.​ (FGV/TCE-GO/2024) O artigo 31 da Constituição Federal do Brasil estabelece que a
+fiscalização no âmbito municipal será conduzida pelo Poder Legislativo Municipal, por meio de
+controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, conforme
+determinado pela legislação.
+
+Assinale a opção que indica o órgão que auxilia o controle externo da Câmara Municipal.
+
+a) Controladoria do Estado.
+
+b) Tribunal de Contas do Estado.
+
+c) Secretaria da Fazenda.
+
+d) Secretaria de Auditoria.
+
+e) Conselho de Controle.
+
+Comentários:
+
+LETRA A. INCORRETA. A Controladoria do Estado não atua diretamente no controle externo
+municipal.
+
+LETRA B. CORRETA. O Tribunal de Contas do Estado (TCE) tem a função de auxiliar o controle
+externo da Câmara Municipal, conforme previsto no artigo 31 da CRFB.
+
+LETRA C. INCORRETA. A Secretaria da Fazenda é um órgão do Poder Executivo.
+
+LETRA D. INCORRETA. Auditorias podem ser feitas, mas não é um órgão reconhecido que atue
+como auxílio ao controle externo da Câmara Municipal.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       83
+        www.estrategiaconcursos.com.br                                                     113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA E. INCORRETA. Não existe uma figura formal chamada "Conselho de Controle".
+
+Gabarito: Letra B.
+
+20.​ (FGV/TCE ES/2023) A respeito do regime jurídico previsto na Constituição da República
+de 1988 para os conselheiros substitutos integrantes dos Tribunais de Contas subnacionais, é
+correto afirmar que:
+
+a) por simetria com o modelo federal, os conselheiros substitutos têm as garantias e prerrogativas
+da magistratura apenas quando estiverem em efetiva substituição;
+
+b) por simetria com o modelo federal, os conselheiros substitutos exercem função
+técnico-opinativa nos processos de controle externo, atuando nos impedimentos e afastamentos
+                                                         ==5460==
+
+dos membros titulares;
+
+c) inexiste simetria em relação ao modelo federal quanto à organização, composição, garantias e
+impedimentos dos conselheiros substitutos, estando a matéria no âmbito de autonomia dos
+entes federativos;
+
+d) quando não estiverem em substituição, exercem as atribuições próprias da judicatura de
+contas, competindo-lhes relatar e votar as matérias de sua competência, compondo o quórum
+ordinário dos órgãos decisórios;
+
+e) os conselheiros substitutos, quando em substituição a conselheiro, ostentam as mesmas
+garantias, impedimentos, prerrogativas, vencimentos e vantagens do titular.
+
+Comentários:
+
+Letra A. INCORRETA. O termo em efetiva substituição está incorreto. Segundo o art. 73, § 4º da
+CRFB/88, o auditor, quando em substituição a Ministro, terá as mesmas garantias e
+impedimentos do titular e, quando no exercício das demais atribuições da judicatura, as de juiz
+de Tribunal Regional Federal.
+
+Letra B. INCORRETA. Cuidado! Conselheiros substitutos exercem funções de judicatura, não
+técnico-opinativa. O concurso é do TCE ES. Logo, a LC nº 621/12 do ES deve ser considerada.
+
+Para responder à questão é importante uma leitura ao artigo 29 da referida legislação:
+
+Art. 29. O Conselheiro Substituto, no exercício das demais atribuições da judicatura, presidirá a
+instrução dos processos que lhe forem distribuídos, relatando-os com proposta de decisão a ser
+votada pelos integrantes do Plenário ou da Câmara para o qual estiver designado.
+
+Letra C. INCORRETA. Existe simetria! Logo, os conselheiros substitutos, quando em substituição
+a conselheiro, ostentam as mesmas garantias, impedimentos, prerrogativas, vencimentos e
+vantagens do titular, de acordo com o art. 73, § 4º e 75 da CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           84
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Letra D. INCORRETA. As funções serão exercidas quando estiverem em substituição! Conforme o
+§1º do art. 28 da LC nº 621/12 do ES, os Conselheiros Substitutos serão também convocados
+pelo Presidente da sessão, para efeito de quórum, quando se verificar ausência de titulares, não
+interferindo na ordem do rodízio estabelecida no caput deste artigo.
+
+Letra E. CORRETA. Os conselheiros substitutos, quando em substituição a conselheiro, ostentam
+as mesmas garantias, impedimentos, prerrogativas, vencimentos e vantagens do titular, de
+acordo com o art. 73, § 4º e 75 da CRFB/88.
+
+Gabarito: Letra E.
+
+21.​ (FGV/TJ-SE/2023) O chefe do Poder Executivo do Município Alfa exarou três atos
+administrativos: (1) nomeou Maria, aprovada em concurso público de provas e títulos, para
+ocupar cargo de provimento efetivo; (2) nomeou João para ocupar cargo de provimento em
+comissão; e (3) concedeu a aposentadoria a Pedro.
+
+Considerando a competência constitucional do Tribunal de Contas de apreciar, para fins de
+registro, a legalidade de certos atos, é correto afirmar, em relação aos três atos descritos na
+narrativa, que a referida apreciação:
+
+A) é exigida em relação a todos os atos;
+
+B) não é exigida em relação a nenhum dos atos;
+
+C) é exigida apenas em relação aos atos 1 e 2;
+
+D) é exigida apenas em relação aos atos 1 e 3;
+
+E) é exigida apenas em relação aos atos 2 e 3.
+
+Comentários:
+
+LETRA A. INCORRETA. Não é exigida em todas as hipóteses, já que a apreciação do TCU
+relativa ao cargo de provimento em comissão não é necessária.
+
+LETRA B. INCORRETA. A alternativa está errada, porque é exigida a apreciação pelo TCU na
+nomeação de Maria, aprovada em concurso público de provas e títulos, para ocupar o cargo de
+provimento efetivo e para concessão de aposentadoria de Pedro.
+
+LETRA C. INCORRETA. Não é exigida para o ato 2.
+
+LETRA D. CORRETA. É o nosso gabarito! O TCU tem competência para apreciar, para fins de
+registro, a legalidade da nomeação de Maria aprovada em concurso público de provas e títulos
+para o cargo de provimento efetivo e concessão da aposentadoria de Pedro.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         85
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+LETRA E. INCORRETA. Novamente, não é exigida para o ato 2.
+
+Gabarito: Letra D.
+
+
+22.​    (FGV/TCE BA/2023) Após ampla mobilização dos gestores públicos, a Constituição do
+Estado Alfa veio a ser reformada por iniciativa de deputados estaduais, passando a ser previsto
+que as decisões do respectivo Tribunal de Contas, que neguem o registro de pessoal, podem vir
+a ser revistas pela Assembleia Legislativa sempre que destoem da ordem constitucional, federal
+ou estadual. Considerando os balizamentos estabelecidos pela ordem constitucional brasileira, a
+modificação introduzida na Constituição do Estado Alfa está:
+
+a) certa, considerando que o Tribunal de Contas é órgão auxiliar do Poder Legislativo;
+
+b) certa, considerando que o duplo grau de jurisdição é um princípio geral do direito brasileiro;
+
+c) errada, considerando se tratar de atribuição constitucional do Tribunal de Contas, de modo
+que suas decisões têm caráter impositivo;
+
+d) certa, considerando que cabe ao Poder Legislativo ampliar ou restringir as situações em que as
+decisões do Tribunal de Contas serão definitivas;
+
+e) errada, considerando que as situações em que a Assembleia Legislativa pode rever as decisões
+do Tribunal de Contas estão previstas em lei complementar federal.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, a modificação introduzida na Constituição do Estado Alfa
+está errada. As decisões do respectivo Tribunal de Contas, que neguem o registro de pessoal não
+devem ser revistas pela Assembleia Legislativa.
+
+LETRA B. INCORRETA. Como vimos, a referida modificação é uma atribuição Constitucional do
+Tribunal de Contas.
+
+LETRA C. CORRETA. A reforma realizada na Constituição do Estado Alfa está errada, já que a
+atribuição constitucional é do Tribunal de Contas, nos termos do art. 71, III da CRFB/88. As
+decisões do respectivo Tribunal de Contas, que neguem o registro de pessoal, não devem ser
+revistas pelo Poder Legislativo. (tese fixada pelo STF no RE nº. 576920).
+
+LETRA D. INCORRETA. Mais uma vez, a alternativa não está certa. A atribuição é do Tribunal de
+Contas! Não precisa ser revista pela Assembleia Legislativa.
+
+LETRA E INCORRETA. Não há previsão para a Assembleia Legislativa rever as decisões do
+Tribunal de Contas.
+
+Gabarito: Letra C.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                86
+        www.estrategiaconcursos.com.br                                                              113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+23.​ (FGV/ALEMA/2023) O controle é compreendido como um instrumento da democracia. A
+existência de uma estrutura formal para controle das finanças públicas, eficiente, eficaz e efetiva
+é um fato comum em um Estado democrático organizado.
+
+Neste âmbito, exercer o controle das operações de crédito, avais e garantias, bem como dos
+direitos e haveres da União, é finalidade do
+
+a) Controle Externo.
+
+b) Controle Interno.
+
+c) Poder Legislativo.
+
+d) Poder Judiciário.
+
+e) Tribunal de Contas da União.
+
+Comentários:
+
+LETRA A. INCORRETA. O controle das operações de crédito, avais e garantias, bem como dos
+direitos e haveres da União faz parte do chamado controle interno (e não controle externo).
+
+LETRA B. CORRETA. É o nosso gabarito! De acordo com o art. 74, inciso III da CRFB/88, é de
+responsabilidade do sistema controle interno a gestão das operações de crédito, avais e
+garantias, bem como dos direitos e haveres da União.
+
+LETRA C. INCORRETA. A alternativa está errada, porque não é papel do Poder Legislativo
+realizar esse controle. Compete ao controle interno, que é exercido por cada poder, a gestão das
+operações de crédito, avais e garantias, assim como dos direitos e haveres da União.
+
+LETRA D. INCORRETA. Totalmente equivocada a alternativa, pois o controle interno nesse caso
+NÃO compete ao Poder Judiciário.
+
+LETRA E. INCORRETA. Compete ao TCU auxiliar o Poder Legislativo (Congresso Nacional) no
+exercício do controle externo.
+
+Gabarito: Letra B.
+
+24.​ (FGV/BBTS/2023) Acerca do Tribunal de Contas da União, assinale a opção que apresenta
+uma de suas competências.
+
+a) O julgamento, em periodicidade anual, das contas apresentadas pelo Presidente da República,
+realizado no prazo de até 60 dias do seu recebimento.
+
+b) A apreciação, exclusivamente mediante parecer prévio, da conta dos administradores
+responsáveis por recursos públicos e daqueles que causarem prejuízo ao erário.
+
+c) A sustação, em caso de não atendimento, da execução de contrato impugnado, comunicando
+imediatamente a decisão ao Congresso Nacional.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            87
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+d) A análise, para fins de registro, da legalidade dos atos de admissão de pessoal, inclusive de
+cargos de provimento em comissão, da Administração Pública.
+
+e) A realização, por iniciativa própria, de inspeções e auditorias nas unidades administrativas dos
+Poderes Legislativo, Executivo e Judiciário.
+
+Comentários:
+
+Letra A. INCORRETA. De acordo com o art. 71, inciso I da CRFB/88, o TCU aprecia as contas do
+chefe do executivo, emitindo um parecer prévio. Quem realiza o julgamento das contas do
+Presidente da República é o Congresso Nacional (art. 49, inciso IX da CF/88). Muito cuidado com
+a pegadinha!
+
+Letra B. INCORRETA. As contas dos administradores e demais responsáveis por recursos públicos
+são de responsabilidade constitucional do TCU julgar essas contas (art. 71, inciso II da CF/88).
+Está errado falar em ”apreciação mediante parecer prévio”. A banca examinadora fez uma
+mistura dos incisos I e II do art. 71 (rs).
+
+Letra C. INCORRETA. Temos dois erros aqui! Compete ao TCU, sustar, se não atendido, a
+execução do ato impugnado, comunicando a decisão à Câmara dos Deputados e ao Senado
+Federal. Ou seja, a sustação é do ato e não do contrato. Além disso, a comunicação será para as
+casas legislativas. (Art. 71, inciso X da CRFB/88).
+
+Letra D. INCORRETA. Banca maldosa, hein? A palavra “inclusive” derrubou a alternativa. Na
+verdade, são excetuadas as nomeações para cargo de provimento em comissão, conforme
+previsto no art. 71, inciso III da CRFB/88.
+
+Letra E. CORRETA. Temos aqui o gabarito da questão! De acordo com o art. 71, inciso IV da
+CRFB/88, o Tribunal de Contas da União tem competência para a realização, por iniciativa própria
+ou das casas legislativas, inspeções e auditorias nas unidades administrativas dos Poderes
+Legislativo, Executivo e Judiciário. Essas auditorias podem ser realizadas, por exemplo, sob o
+aspecto contábil, financeiro, orçamentário, operacional ou até mesmo patrimonial.
+
+Gabarito: Letra E.
+
+25.​ (FGV/RFB/2023) João, servidor público federal ocupante de cargo de provimento efetivo,
+preencheu os requisitos para a aposentadoria voluntária previstos na legislação de regência. Por
+tal razão, requereu o benefício previdenciário, o que foi deferido pelo órgão competente do
+Poder Executivo. Decorridos seis anos desde a concessão de sua aposentadoria, João constatou
+que o Tribunal de Contas da União (TCU) ainda não tinha examinado a legalidade do ato para
+fins de registro.
+
+À luz da sistemática vigente, é correto afirmar que
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            88
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+a) como já decorreram mais de cinco anos desde a concessão inicial da aposentadoria de João, o
+TCU não mais pode insurgir-se contra a legalidade do ato, aperfeiçoando-se o prazo decadencial
+para a sua revisão.
+b) o TCU pode examinar a qualquer tempo o ato de concessão inicial da aposentadoria de João,
+não sendo necessário assegurar o contraditório e a ampla defesa caso seja detectada alguma
+irregularidade.
+c) o registro do ato de aposentadoria, no âmbito do TCU, ocorre de imediato, mas pode ser
+desconstituído por decisão colegiada, a partir de iniciativa de qualquer Ministro, conforme as
+informações do corpo técnico.
+d) o TCU pode examinar a qualquer tempo o ato de concessão inicial da aposentadoria de João,
+mas, como já decorreram mais de cinco anos, deve assegurar o contraditório e a ampla defesa
+caso seja detectada alguma irregularidade.
+e) caso tenham decorridos mais de cinco anos desde a chegada ao TCU do processo
+administrativo concernente à aposentadoria de João, aquele órgão não pode mais insurgir-se
+contra a legalidade do ato, devendo ser considerado registrado.
+
+Comentários:
+
+Letra A. INCORRETA. O prazo de cinco anos da chegada ao TCU do processo administrativo,
+conforme informativo 967 do STF.
+
+Letra B. INCORRETA. Não é a qualquer tempo, mas sim, possui o prazo de 5 anos para julgar a
+legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, prazo esse contado
+da chegada do processo à Corte de Contas, segundo o informativo 967 do STF.
+
+Letra C. INCORRETA. O registro do ato de aposentadoria não ocorre de imediato, devendo ser
+submetida ao Tribunal de Contas.
+
+Letra D. INCORRETA. O STF no RE 636553/RS passou a dizer que, se o Tribunal de Contas
+demorar mais de 5 anos para julgar a aposentadoria, reforma ou pensão, o ato é considerado
+definitivamente registrado.
+
+Perceba que i) até o prazo de 5 anos não há necessidade de conceder o contraditório; ii) após o
+prazo de 5 anos, o Tribunal não pode mais negar o registro. Não há mais necessidade de
+conceder o direito ao contraditório e ampla defesa.
+
+Letra E. CORRETA. O Tribunal de Contas tem o prazo de 5 anos para julgar a legalidade do ato
+de concessão inicial de aposentadoria, reforma ou pensão, prazo esse contado da chegada do
+processo à Corte de Contas, de acordo com informativo 967 do STF. O STF no RE 636553/RS
+passou a dizer que, se o Tribunal de Contas demorar mais de 5 anos para julgar a aposentadoria,
+reforma ou pensão, o ato é considerado definitivamente registrado.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        89
+        www.estrategiaconcursos.com.br                                                      113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                                    QUESTÕES COMENTADAS
+
+Poder Legislativo
+
+1.​   (FGV/TRF 1ª Região/Técnico Judiciário/2024) João, parlamentar atuante no Congresso
+Nacional, solicitou que sua assessoria analisasse os aspectos procedimentais a serem observados
+para a fixação do subsídio do presidente e do vice-presidente da República. A assessoria
+respondeu corretamente que, à luz da Constituição da República, a matéria é de competência:
+
+a) exclusiva do Congresso Nacional, o que afasta a exigência de lei;
+
+b) da União, podendo ser fixada em medida provisória ou em lei ordinária;
+
+c) privativa do Congresso Nacional, devendo ser fixada em lei ordinária, de iniciativa parlamentar;
+
+d) exclusiva do Congresso Nacional, sendo assegurado ao presidente da República o poder de
+veto;
+
+e) privativa do Congresso Nacional, devendo ser fixada em lei ordinária, de iniciativa exclusiva do
+presidente da República.
+
+2.​   (FGV/TCE-PA/Auditor/2024) Após ampla mobilização da oposição, cento e setenta e cinco
+Deputados Federais subscreveram requerimento de instauração de Comissão Parlamentar de
+Inquérito (CPI) no âmbito da Câmara dos Deputados, com o objetivo de analisar a presença, ou
+não, de autorização para as operações externas de natureza financeira realizadas pelos Estados e
+pelo Distrito Federal. Com a instauração da CPI, foi deliberado que não seriam acolhidos
+requerimentos de interceptação telefônica, os quais não seriam abrangidos pelo potencial
+expansivo dessa comissão de natureza temporária.
+
+À luz da sistemática constitucional, é correto afirmar que a narrativa
+
+a) não apresenta nenhuma irregularidade.
+
+b) somente apresenta irregularidade em relação ao objeto da CPI.
+
+c) somente apresenta irregularidade em relação ao número de parlamentares que subscreveu o
+requerimento.
+
+d) somente apresenta irregularidade em relação à ausência de proporcionalidade na subscrição
+do requerimento.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             90
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+e) somente apresenta irregularidade em relação à vedação ao acolhimento de requerimentos de
+interceptação telefônica.
+
+3.​    (FGV/CGE-PB/Auditor das Contas Públicas/2024) O Tribunal de Contas do Estado Gama
+apurou irregularidades em contrato administrativo realizado entre o Município Alfa, localizado no
+Estado Gama, e determinada empresa prestadora de serviços de engenharia. A Assembleia
+Legislativa do referido Estado Gama instaurou Comissão Parlamentar de Inquérito (CPI),
+mediante requerimento de dois terços de seus membros, para apurar as irregularidades
+encontradas.
+
+Diante do exposto, é correto afirmar que:
+
+a) a CPI poderá anular o contrato, pois é sua função, concluída a investigação e confirmada a
+irregularidade;
+
+b) a CPI só poderia ter sido instaurada mediante o requerimento da maioria dos membros da
+Assembleia Legislativa do Estado Gama;
+
+c) a Assembleia Legislativa do Estado Gama não tem competência para instaurar CPI, a fim de
+apurar ato realizado por outro ente federativo, no caso, o Município Alfa;
+
+d) a CPI não deveria ter sido instaurada, pois o Tribunal de Contas tem o poder de anular o ato
+administrativo viciado;
+
+e) a CPI não poderia ter sido instaurada pelo Legislativo para apurar ato praticado pelo
+Executivo, em razão da separação de poderes, ainda que demonstrada a irregularidade.
+
+4.​   (FGV/ALE-TO/Procurador/2024) De acordo com o processo de incorporação dos tratados
+de Direitos Humanos no nosso ordenamento jurídico interno, analise as afirmativas a seguir.
+
+I. As Constituições brasileiras já existentes, incluindo a Constituição de 1988, adotaram a
+autorização prévia do Poder Legislativo como pressuposto constitucional do processo de
+incorporação do tratado de direitos humanos na ordem jurídica interna, salvo a primeira
+Constituição de 1824.
+
+II. De acordo com a Constituição de 1988, compete exclusivamente ao Congresso Nacional
+resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos
+ou compromissos gravosos ao patrimônio nacional.
+
+III. O processo de incorporação de um tratado envolve quatro fases: assinatura, aprovação
+legislativa, ratificação e decreto de promulgação. Nesse sentido, de acordo com a Convenção de
+Viena sobre o Direito dos Tratados, quando da assinatura do tratado, o Estado já estaria
+obrigado a abster-se da prática de atos que frustrariam o objeto e a finalidade desse tratado.
+
+Está correto o que se afirma em
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          91
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+5.​    (FGV/TJ-SC/2024) João, deputado estadual, filiado ao partido político Alfa, foi condenado
+pela prática de ato de improbidade administrativa em sentença transitada em julgado, tendo
+sofrido a sanção de suspensão dos direitos políticos. Ao tomar conhecimento dessa condenação,
+o diretório estadual do partido político Alfa consultou sua assessoria em relação aos seus efeitos
+sobre o mandato eletivo de João.
+
+Foi corretamente respondido ao diretório estadual que:
+
+a) cabe ao Tribunal de Justiça decidir, em caráter definitivo, em relação à perda do mandato de
+João;
+
+b) a perda do mandato de João será declarada pela Mesa da Assembleia Legislativa, assegurada
+ampla defesa;
+
+c) a perda do mandato de João será decidida pela Mesa da Assembleia Legislativa, por maioria
+absoluta, assegurada ampla defesa;
+
+d) a perda do mandato de João, enquanto efeito da condenação, é uma medida autoexecutória,
+o que permite a imediata posse do suplente;
+
+e) a ordem constitucional proscreveu a sistemática das penas acessórias; logo, a perda do
+mandato de João somente será decretada se houver previsão expressa na sentença.
+
+6.​   (FGV/TJ-MS/2024) Em determinado estado da federação, foi identificada uma grande
+extensão de terras públicas, de propriedade desse ente federativo, que alcançavam três mil
+hectares. Por tal razão, o órgão competente do Poder Executivo decidiu iniciar a análise das
+medidas necessárias para realizar a sua alienação, mais especificamente se haveria, ou não, a
+necessidade de autorização legislativa.
+
+Considerando apenas os balizamentos constitucionais afetos à temática, é correto afirmar que:
+
+a) cabe ao estado, por força de sua autonomia política, definir a necessidade, ou não, de
+autorização legislativa;
+
+b) toda a alienação de terras públicas, independente de sua dimensão, depende de autorização
+legislativa;
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                          92
+          www.estrategiaconcursos.com.br                                                        113
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+c) a autorização será necessária, e deve ser concedida pelo Congresso Nacional, mas apenas se
+as terras estiverem situadas na área de fronteira;
+
+d) por força do princípio da simetria, a autorização deve ser concedida pela Assembleia
+Legislativa, em lei editada a partir de projeto de iniciativa privativa do governador do estado;
+
+e) é necessária a aprovação do Congresso Nacional, que não será veiculada por meio de lei, não
+contando, portanto, com a sanção do Chefe do Poder Executivo no processo legislativo.
+
+7.​    (FGV/TJ-AP/2024) A Câmara dos Deputados instaura uma determinada Comissão
+Parlamentar de Inquérito (CPI), em observância às formalidades constitucionais e legais, com o
+objetivo de apurar um fato certo, por prazo determinado. João, deputado federal e integrante
+da CPI, busca, junto aos seus assessores, informações sobre as medidas que a Comissão poderá
+adotar, independentemente da intervenção do Poder Judiciário.
+
+Nesse cenário, considerando os entendimentos doutrinário e jurisprudencial dominantes, é
+correto afirmar que a Comissão Parlamentar de Inquérito, por si só, poderá decretar a:
+
+a) busca e apreensão de documentos na residência e em detrimento de um investigado;
+
+b) quebra de sigilo de dados bancários em detrimento de um investigado;
+
+c) indisponibilidade de bens em detrimento de um investigado;
+
+d) interceptação telefônica em detrimento de um investigado;
+
+e) prisão preventiva em detrimento de um investigado.
+
+8.​    (FGV/TJ-AP/2024) Maria, deputada federal, por entender que o isolamento de Brasília,
+capital federal, caminhava em norte contrário à sedimentação da ideologia participativa,
+apresentou projeto de lei visando à mudança temporária da sede do Poder Legislativo para
+determinada região do país, durante os meses previstos na proposição. A mudança, ao ver de
+Maria, era essencial ao desenvolvimento dessa região.
+
+A Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados, ao apreciar a
+compatibilidade do referido projeto com a Constituição da República, observou corretamente
+que a mudança da sede do Poder Legislativo:
+
+a) exige emenda constitucional;
+
+b) deve ser antecedida de plebiscito;
+
+c) pode ser realizada da forma alvitrada por Maria;
+
+d) pode ser estabelecida pelo Congresso Nacional, sem o concurso do Poder Executivo;
+
+e) é vedada, considerando que há norma constitucional definindo Brasília como a capital federal.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          93
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+9.​    (FGV/CVM/2024) A Mesa da Câmara dos Deputados encaminhou pedido escrito de
+informações ao ministro das Relações Exteriores, versando sobre temática internacional com
+reflexo nas exportações do agronegócio brasileiro. Nada obstante, passados sessenta dias, não
+houve qualquer resposta ao pleito formulado. Além disso, a Câmara dos Deputados convocou o
+ministro da Fazenda para prestar, pessoalmente, informações sobre o mesmo assunto, em razão
+das repercussões da matéria na esfera econômica do país. Contudo, na data designada, a
+autoridade deixou de comparecer, sem apresentar qualquer justificativa.
+
+Considerando as disposições da Constituição Federal, é correto afirmar que:
+
+a) o ministro das Relações Exteriores incorreu em crime de responsabilidade, porquanto a Mesa
+da Câmara dos Deputados tem a prerrogativa de encaminhar pedido escrito de informações ao
+presidente da República, ao vice-presidente da República, a ministros de Estado e quaisquer
+                                                         ==5460==
+
+titulares de órgãos diretamente subordinados à Presidência da República. Por outro lado, o
+ministro da Fazenda não cometeu crime de responsabilidade, porquanto a convocação para
+comparecimento pessoal de autoridades do Poder Executivo Federal não tem assento
+constitucional;
+
+b) o ministro da Fazenda incorreu em crime de responsabilidade, porquanto a Câmara dos
+Deputados tem a prerrogativa de convocar o presidente da República, o vice-presidente da
+República, ministros de Estado e quaisquer titulares de órgãos diretamente subordinados à
+Presidência da República para prestarem, pessoalmente, informações sobre assunto previamente
+determinado. Por outro lado, o ministro das Relações Exteriores não cometeu crime de
+responsabilidade, porquanto o pedido escrito de informações tem caráter não vinculante;
+
+c) o ministro da Fazenda incorreu em crime de responsabilidade, porquanto a Câmara dos
+Deputados tem a prerrogativa de convocar ministros de Estado e quaisquer titulares de órgãos
+diretamente subordinados à Presidência da República para prestarem, pessoalmente,
+informações sobre assunto previamente determinado. Por outro lado, o ministro das Relações
+Exteriores não cometeu crime de responsabilidade, porquanto o pedido escrito de informações
+tem caráter não vinculante;
+
+d) o ministro das Relações Exteriores e o ministro da Fazenda não incorreram em crime de
+responsabilidade, porquanto as autoridades do Poder Executivo Federal não estão sujeitas à
+convocação da Câmara dos Deputados;
+
+e) o ministro das Relações Exteriores e o ministro da Fazenda incorreram em crime de
+responsabilidade.
+
+10.​ (FGV/CVM/2024) Um dos integrantes de Comissão Parlamentar de Inquérito (CPI)
+instaurada no âmbito da Câmara dos Deputados formulou três requerimentos a serem
+apreciados pela referida comissão. O primeiro requerimento almejava que fosse decretada a
+interceptação das comunicações telefônicas de João; o segundo, a quebra do sigilo dos dados
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       94
+        www.estrategiaconcursos.com.br                                                    113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+telefônicos de Maria; e, o terceiro, a quebra do sigilo fiscal de Pedro. Ressalte-se que João,
+Maria e Pedro são servidores públicos federais, e os requerimentos estão devidamente
+fundamentados, sendo demonstrada a necessidade de produção dessas provas para a
+elucidação de determinado fato objeto de investigação.
+
+À luz da sistemática constitucional, é correto afirmar, em relação às três medidas requeridas, que
+a CPI:
+
+a) tem competência para decretá-las;
+
+b) somente tem competência para decretar a primeira medida requerida;
+
+c) somente tem competência para decretar a segunda medida requerida;
+
+d) somente tem competência para decretar a primeira e a terceira medidas requeridas;
+
+e) somente tem competência para decretar a segunda e a terceira medidas requeridas.
+
+11.​ (FGV/TCE ES/2023) Joana, estudante de direito, questionou o seu professor de Direito
+Constitucional a respeito da classificação, quanto à eficácia da norma obtida a partir da
+interpretação do disposto no parágrafo único do Art. 75 da Constituição da República de 1988,
+que tem a seguinte redação: “As Constituições estaduais disporão sobre os Tribunais de Contas
+respectivos, que serão integrados por sete Conselheiros”.
+
+O professor respondeu, corretamente, que se trata de norma de eficácia:
+
+a) plena e aplicabilidade imediata;
+
+b) contida e aplicabilidade imediata;
+
+c) limitada e de princípio institutivo;
+
+d) limitada e de princípio programático;
+
+e) estrutural e de princípio programático.
+
+12.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Com o objetivo de desonerar certo setor
+econômico, João, Deputado Federal, apresentou projeto de lei reduzindo a alíquota
+concernente a um imposto de competência da União, o que acarretaria a correlata redução da
+carga tributária.
+
+Ao analisar a constitucionalidade formal da referida proposição, a Comissão de Constituição e
+Justiça e de Cidadania da Câmara dos Deputados concluiu corretamente que
+
+a) a matéria é de iniciativa privativa do Presidente da República, por versar sobre tributos.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            95
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+b) trata-se de matéria de iniciativa privativa dos membros do Congresso Nacional, logo, João
+poderia apresentar o projeto.
+
+c) João tem legitimidade para apresentar o projeto, mas deve instrui-lo com estimativa do seu
+impacto orçamentário e financeiro.
+
+d) a matéria é de iniciativa privativa do Presidente da República, considerando que, ao acarretar a
+redução da receita, impacta no orçamento.
+
+e) a espécie legislativa escolhida por João está errada, considerando que a matéria deveria ser
+disciplinada em lei complementar.
+
+13.​ (FGV/CÂMARA DOS DEPUTADOS/2023) O Presidente da República encaminhou, ao
+Poder Legislativo, proposição fixando os seus subsídios, os do Vice-Presidente da República e os
+dos Ministros de Estado para o exercício financeiro seguinte. Após regular discussão, foi
+aprovado substitutivo no âmbito da Casa Legislativa iniciadora, chancelado pela Casa revisora,
+que aumentou os valores inicialmente propostos, considerados módicos pelos parlamentares. O
+Presidente da República, ao receber a proposição, a vetou, sendo o veto rejeitado pelo voto da
+maioria absoluta dos Deputados e Senadores. Por fim, o Presidente da República promulgou a
+Lei nº X, que veio a ser publicada.
+
+À luz da sistemática constitucional afeta à fixação dos subsídios do Presidente da República, do
+Vice-Presidente da República e dos Ministros, é correto afirmar, em relação às fases descritas na
+narrativa, que
+
+a) todas estão certas.
+
+b) todas apresentam incorreções.
+
+c) apenas apresenta incorreção em relação à promulgação.
+
+d) apenas apresenta incorreção em relação à rejeição do veto.
+
+e) apenas apresenta incorreção em relação ao substitutivo apresentado.
+
+14.​ (FGV/CÂMARA DOS DEPUTADOS/2023) João foi eleito Deputado Federal e, desde a
+expedição do diploma, passou a ocupar o cargo de diretor operacional em uma sociedade
+empresária privada. Essa sociedade atuava como concessionária do Poder Executivo federal em
+um programa direcionado à instalação e à operação de usinas termoelétricas, a partir de uma
+sistemática contratual padronizada e com a abertura de linhas de crédito junto a instituições
+financeiras federais.
+
+Maria, também Deputada Federal no exercício do mandato, entendia que a conduta de João era
+incompatível com a Constituição da República de 1988. Por tal razão, solicitou esclarecimentos a
+um advogado em relação à sua conformidade constitucional.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            96
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Foi corretamente esclarecido a Maria, à luz da Constituição da República de 1988, que a conduta
+de João
+
+a) não apresenta qualquer irregularidade.
+
+b) acarreta a perda do mandato, caso João, notificado, não peça exoneração do cargo, o que
+deve ser declarado pela Mesa da Câmara dos Deputados.
+
+c) acarreta a perda do mandato, a ser decidida pela Câmara dos Deputados, a partir de
+provocação da respectiva Mesa ou de partido político representado no Congresso Nacional.
+
+d) acarreta a perda do mandato, a ser decidida pela Câmara dos Deputados, a partir de
+provocação da respectiva Mesa, de Deputado Federal ou de partido político representado no
+Congresso Nacional.
+
+e) acarreta a perda do mandato, que deve ser declarada pela Mesa da Câmara dos Deputados,
+de ofício ou mediante provocação de Deputado Federal ou de partido político representado no
+Congresso Nacional.
+
+15.​ (FGV/CÂMARA DOS DEPUTADOS/2023) Em uma gincana jurídica, os grupos envolvidos
+deveriam discorrer sobre as características essenciais do regime jurídico-constitucional dos
+Deputados Federais.
+
+O Grupo Beta defendeu que as restrições direcionadas aos parlamentares a partir da posse são
+ontologicamente direcionadas a assegurar a sua equidistância exclusivamente em relação aos
+interesses de atores privados.
+
+O Grupo Delta observou que, após a expedição do diploma, surgem vedações que alcançam
+exclusivamente os liames com a Administração Pública direta e indireta ou com os
+concessionários de serviço público, salvo apenas, em relação às últimas, quando o contrato
+obedecer a cláusulas uniformes.
+
+O Grupo Gama, por sua vez, defendeu que tanto a infringência das vedações incidentes a partir
+da posse, como aquelas incidentes a partir da expedição do diploma, podem ensejar a perda do
+mandato do Deputado Federal.
+
+Considerando as conclusões alcançadas pelos três grupos, à luz da ordem constitucional, o júri
+decidiu que
+
+a) todas estão certas.
+
+b) apenas a conclusão do grupo Beta está certa.
+
+c) apenas as conclusões dos grupos Delta e Gama estão certas.
+
+d) apenas as conclusões dos grupos Beta e Gama estão certas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         97
+        www.estrategiaconcursos.com.br                                                      113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+e) apenas as conclusões dos grupos Beta e Delta estão certas.
+
+                                                   GABARITO
+   1.​ LETRA A
+   2.​ LETRA B
+   3.​ LETRA C
+   4.​ LETRA E
+   5.​ LETRA B
+   6.​ LETRA E
+   7.​ LETRA B
+   8.​ LETRA D
+   9.​ LETRA E
+   10.​LETRA E
+   11.​LETRA C
+   12.​LETRA C
+   13.​LETRA B
+   14.​LETRA C
+   15.​LETRA C
+
+        Receita Federal (Analista Tributário) Direito Constitucional       98
+        www.estrategiaconcursos.com.br                                     113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+                                         LISTA DE QUESTÕES
+
+Fiscalização                 Contábil,                 Orçamentária,       Patrimonial           e
+Operacional
+
+1.​    (FGV/CAGE-RS/Auditor do Estado/2025) O Tribunal de Contas da União (TCU), ao se
+deparar com a alegada malversação de recursos públicos pela sociedade empresária Delta, que
+firmara ajuste com o referido ente, adotou, em caráter provisório, a partir de permissivo legal,
+medida cautelar de indisponibilidade dos bens dessa sociedade. Também em caráter provisório,
+desconsiderou a personalidade jurídica de Delta e estendeu a medida aos seus sócios.
+
+À luz da sistemática vigente, é correto afirmar que
+
+(A) em razão da presunção de inocência, quaisquer medidas restritivas dos direitos individuais, a
+serem adotadas pelo TCU, pressupõem o trânsito em julgado da decisão condenatória.
+
+(B) a desconsideração da personalidade jurídica de Delta é medida que não pode ser decretada
+pelo TCU, cuja atividade é restrita à fiscalização dos gestores do dinheiro público, o que a limita
+a Delta.
+
+(C)   tanto a indisponibilidade de bens como a desconsideração da personalidade jurídica
+pressupõem que tenham sido assegurados o contraditório e a ampla defesa, logo, o TCU agiu de
+modo ilícito.
+
+(D) a indisponibilidade de bens, nas circunstâncias indicadas, por restringir o direito de
+propriedade, somente pode ser decretada pelo Poder Judiciário, não pelo TCU, logo, a lei que a
+autorizou é inconstitucional.
+
+(E) a decretação da indisponibilidade de bens e a desconsideração da personalidade jurídica,
+nas circunstâncias indicadas, consubstanciam manifestação de poderes implícitos do TCU, de
+estatura constitucional.
+
+2.​    (FGV/TCE-PI/Auditor de Controle Externo/2025) Ana, servidora pública estadual ocupante
+de cargo de provimento efetivo, preencheu os requisitos para a aposentadoria compulsória, o
+que redundou na expedição do ato de aposentadoria, com a correlata fixação dos seus
+proventos pela autoridade máxima da estrutura de poder a que estava vinculada. Esse ato foi
+expedido no dia 10 de setembro de 2018, mas até a presente data ainda não foi analisado pelo
+Tribunal de Contas. Sobre a hipótese apresentada, à luz da sistemática vigente, assinale a
+afirmativa correta.
+
+(A) Pela natureza do ato de aposentação, não é necessário o seu registro no Tribunal de Contas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             99
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+(B)   Em razão do tempo decorrido desde a expedição do ato, a aposentadoria de Maria
+tornou-se irreversível.
+
+(C)  O Tribunal de Contas pode analisar a qualquer tempo a legalidade do ato inicial de
+aposentadoria, não se exigindo a observância do contraditório e da ampla defesa.
+
+(D) Em razão do tempo decorrido, eventual negativa de registro, pelo Tribunal de Contas, deve
+ser antecedida da observância das garantias do contraditório e da ampla defesa.
+
+(E) É possível que o ato seja considerado registrado em razão do decurso do tempo, mas o
+termo inicial da contagem é o ingresso do processo administrativo no Tribunal de Contas.
+
+3.​    (FGV/TJ-AP/2024) Imagine uma situação hipotética em que o Tribunal de Contas da União
+(TCU) tenha realizado auditoria ordinária in loco, com o objetivo de verificar a aplicação dos
+recursos da União, recebidos por determinado Estado-membro da Federação provenientes de
+emenda individual impositiva, prevista no Art. 166-A da Constituição Federal, na modalidade
+“transferência especial”.
+
+Diante do exposto, é correto afirmar que:
+
+a) o TCU possui respaldo em competência constitucional para efetuar a referida auditoria;
+
+b) o TCU possui competência para realizar a referida auditoria, tendo em vista expressa previsão
+legal;
+
+c) a competência para a fiscalização dos recursos é privativa do órgão de controle interno do ente
+ou órgão beneficiário do recebimento dos recursos;
+
+d) o TCU não é o órgão de controle externo competente para realizar a referida auditoria, e sim o
+Tribunal de Contas do respectivo Estado-membro;
+
+e) o TCU é o órgão de controle externo competente para realizar a referida auditoria, uma vez
+que os recursos foram repassados pela União.
+
+4.​   (FGV/CVM/2024) A Constituição do estado Alfa, após ampla mobilização parlamentar, foi
+objeto de emenda, devidamente promulgada pela Mesa da Assembleia Legislativa, dispondo
+que compete a essa Casa Legislativa sustar licitações conduzidas pelas estruturas de poder do
+estado Alfa.
+
+Irresignado com o teor dessa emenda, que, ao seu ver, “enfraqueceria” o Tribunal de Contas do
+Estado Alfa, determinado legitimado ao controle concentrado de constitucionalidade solicitou
+que fosse analisada a sua conformidade constitucional, sendo-lhe corretamente informado que:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           100
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+a) a emenda à Constituição Estadual apenas reproduz comando expresso da Constituição da
+República, não estabelecendo qualquer inovação;
+
+b) a licitação instrumentaliza o contrato administrativo; logo, como o Poder Legislativo tem
+competência para sustar este último, também deve sustar aquela;
+
+c) a distribuição de competências entre a Assembleia Legislativa e o Tribunal de Contas está
+sujeita à liberdade de conformação do Poder Legislativo Estadual, o que deriva da autonomia
+política do estado;
+
+d) a emenda afronta a competência do Tribunal de Contas, pois, como esse órgão é competente
+para sustar o contrato administrativo, também tem competência para sustar a licitação, que o
+instrumentaliza;
+
+e) o Poder Legislativo somente tem competência para sustar contratos; logo, a sustação de
+licitação, a contrario sensu, se insere entre as competências do Tribunal de Contas, o que não
+pode ser desconsiderado pela Constituição Estadual.
+
+5.​     (FGV/AL-PR/Analista Legislativo/2024) O Tribunal de Contas, integrado por sete
+conselheiros, tem sede na Capital do Estado, quadro próprio de pessoal e jurisdição em todo o
+território estadual, exercendo, no que couber, as atribuições previstas na Constituição do Estado
+do Paraná. Diante do exposto, de acordo com a Constituição do Estado do Paraná e da
+República e a jurisprudência do Supremo Tribunal Federal, é correto afirmar que
+
+a) qualquer cidadão, partido político, associação ou entidade sindical é parte legítima para, na
+forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas do Estado e
+as decisões fazendárias de última instância, contrárias ao erário, serão apreciadas pelo Tribunal
+de Contas em grau de recurso.
+
+b) os conselheiros do Tribunal de Contas do Estado serão nomeados dentre brasileiros que
+tenham mais de vinte e cinco e menos de cinquenta e cinco anos de idade, idoneidade moral e
+reputação ilibada, notórios conhecimentos jurídicos, econômicos, financeiros, contábeis ou de
+administração pública e mais de cinco anos de exercício de função ou de efetiva atividade
+profissional que exija os conhecimentos mencionados.
+
+c) os conselheiros do Tribunal de Contas do Estado serão escolhidos dois pelo Governador do
+Estado, com a aprovação da Assembleia Legislativa, alternadamente, entre auditores e membros
+do Ministério Público junto ao Tribunal, indicados em lista tríplice pelo mesmo Tribunal, segundo
+os critérios de antiguidade e merecimento.
+
+d) os conselheiros do Tribunal de Contas do Estado serão escolhidos dois pelo Governador do
+Estado, alternadamente, entre auditores, membros do Ministério Público junto ao Tribunal,
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          101
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 10
+
+indicados em lista tríplice pelo mesmo Tribunal, segundo os critérios de antiguidade e
+merecimento e livre escolha e cinco pela Assembleia Legislativa.
+
+e) os conselheiros do Tribunal de Contas do Estado serão escolhidos quatro pela Assembleia
+Legislativa e três pelo chefe do Poder Executivo estadual, com a aprovação da Assembleia
+Legislativa, cabendo ao Governador indicar um dentre auditores e outro dentre membros do
+Ministério Público, e um terceiro a sua livre escolha.
+
+6.​ (FGV/ALE-SC/Analista Legislativo/2024) Os sistemas de Controle na Administração Pública
+    Brasileira desempenham um papel crucial na promoção da integridade e na prevenção de
+    irregularidades e corrupção no âmbito da Administração Pública. Com relação aos Sistemas
+    de Controle na Administração Pública Brasileira, analise os itens a seguir.
+
+I. O controle externo, atribuído ao Congresso Nacional, é realizado com o apoio do Tribunal de
+Contas da União.
+
+II. Os Ministros do Tribunal de Contas da União possuem as mesmas garantias, prerrogativas,
+impedimentos, vencimentos e vantagens dos Ministros do Supremo Tribunal Federal.
+
+III. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da
+lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+7.​ (FGV/ALE-SC/Analista Legislativo/2024) O órgão competente do Poder Executivo federal
+    expediu o ato de aposentadoria de Ana. Após receber seus proventos regularmente por sete
+    anos, Ana foi surpreendida com a comunicação de que o Tribunal de Contas, em julgamento
+    realizado dias antes, identificara uma incorreção no ato de concessão da aposentadoria.
+
+À luz da sistemática vigente, é correto afirmar que
+
+          Receita Federal (Analista Tributário) Direito Constitucional                          102
+          www.estrategiaconcursos.com.br                                                        113
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+a) como decorreram sete anos desde o ato de concessão inicial da aposentadoria, o registro do
+ato seria obrigatório.
+
+b) não há limite temporal para que o Tribunal de Contas analise, para fins de registro, o ato de
+concessão inicial de aposentadoria.
+
+c) caso o processo de concessão da aposentadoria tenha ingressado no Tribunal de Contas há
+mais de cinco anos, o registro não poderia ser negado.
+
+d) o decurso de mais de cinco anos desde o ato de concessão da aposentadoria exigia, em
+caráter prévio ao julgamento pelo Tribunal de Contas, a observância do contraditório e da ampla
+defesa.
+
+e) caso tenham decorrido mais de cinco anos desde a chegada dos autos do processo
+administrativo ao Tribunal de Contas, o julgamento deveria ser antecedido pela observância do
+contraditório e da ampla defesa.
+
+8.​ (FGV/ALE-TO/Analista Legislativo/2024) Quanto ao controle exercido pelos Tribunais de
+    Contas, assinale a afirmativa incorreta.
+
+a) Compete ao Tribunal de Contas julgar as contas dos administradores e demais responsáveis
+por dinheiros, bens e valores públicos da administração direta e indireta.
+
+b) Compete ao Tribunal de Contas realizar, por iniciativa própria inspeções e auditorias de
+natureza contábil, financeira, orçamentária, operacional e patrimonial.
+
+c) Compete ao Tribunal de Contas prestar as informações solicitadas pelo Parlamento sobre
+resultados de auditorias e inspeções realizadas.
+
+d) Compete ao Tribunal de Contas sustar diretamente a execução de contratos.
+
+e) Compete ao Tribunal de Contas aplicar aos responsáveis, em caso de ilegalidade de despesa
+ou irregularidade de contas, as sanções previstas em lei.
+
+9.​ (FGV/TJ-SC/Oficial de Justiça/2024) Determinado ente da Administração Pública indireta da
+    União promoveu a admissão de pessoal, com estrita observância dos requisitos
+    estabelecidos pela ordem jurídica. Por tal razão, foram admitidos:
+
+I - os aprovados em concurso público de provas e títulos;
+II - os contratados por prazo determinado;
+III - os designados para cargos em comissão.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         103
+        www.estrategiaconcursos.com.br                                                       113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+Ato contínuo, o presidente do referido ente questionou sua assessoria em relação à necessidade,
+ou não, de as referidas admissões de pessoal serem apreciadas pelo Tribunal de Contas para fim
+de registro.
+
+Foi corretamente esclarecido ao presidente que a apreciação:
+
+a) é necessária em relação a todas as admissões de pessoal;
+
+b) somente é necessária em relação às admissões de pessoal descritas em I;
+
+c) somente é necessária em relação às admissões de pessoal descritas em III;
+
+d) somente é necessária em relação às admissões de pessoal descritas em I e II;
+
+e) somente é necessária em relação às admissões de pessoal descritas em II e III.
+
+10.​(FGV/TCE-GO/Auditor de Controle Externo/2024) A Constituição Federal do Brasil, em seu
+    artigo 71, estabelece que o controle externo das contas públicas será realizado pelo
+    Congresso Nacional, com o auxílio do Tribunal de Contas da União (TCU).
+
+Assinale a opção que indica uma competência do TCU.
+
+a) avaliar a execução dos programas de governo.
+
+b) apreciar as contas prestadas anualmente pelo Governador.
+
+c) exercer o controle das operações de crédito, avais e garantias.
+
+d) fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio a
+Estado.
+
+e) avaliar o cumprimento das metas previstas no plano plurianual.
+
+11.​(FGV/TCE-GO/Auditor de Controle Externo/2024) O Tribunal de Contas do Estado Alfa, ao
+    apreciar as contas de Maria, ordenadora de despesas em determinado ente da
+    Administração Pública indireta sujeito à sua fiscalização, constatou o desvio de recursos
+    públicos. Por tal razão, as contas foram rejeitadas, foi aplicada a sanção de multa a Maria e
+    imputado o débito correspondente.
+
+Considerando os balizamentos constitucionais afetos a essa temática, e os efeitos da decisão do
+Tribunal de Contas, é correto afirmar que.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          104
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+a) em razão da natureza do ilícito praticado, é imprescritível a pretensão de ressarcimento ao
+erário fundada nessa decisão.
+
+b) a decisão do Tribunal de Contas, no exercício de sua competência constitucional, forma um
+título executivo judicial.
+
+c) como a decisão analisou as contas, não julgando Maria pelo ilícito praticado, é prescritível a
+pretensão de ressarcimento ao erário.
+
+d) a imputação de débito é incompatível com a decisão de rejeição das contas, devendo ser
+objeto de processo autônomo, o que retira a eficácia do título.
+
+e) caso não haja o adimplemento voluntário do dever de ressarcir o erário, a decisão deve ser
+inscrita em dívida ativa, não havendo prazo limite para a sua cobrança.
+
+12.​(FGV/STN/Auditor Federal de Finanças e Controle/2024) Determinado ente da
+    Administração Pública indireta da União, que desempenha atividade econômica, passou por
+    uma ampla remodelagem de sua governança interna, com o aperfeiçoamento do seu
+    programa de integridade. Ao analisar a funcionalidade do órgão de controle interno, bem
+    como a existência, ou não, de zonas de intercessão entre a sua atuação e a do controle
+    externo, a comissão responsável pela reestruturação concluiu corretamente que, na
+    perspectiva constitucional,
+
+a) o órgão interno está hierarquicamente subordinado ao externo, devendo cumprir suas
+determinações.
+
+b) apesar de organicamente separado do órgão externo, o órgão interno deve exercer as
+mesmas atribuições afetas àquele.
+
+c) deve haver total separação entre o órgão interno e o externo, de modo que os juízos de valor
+daquele sequer sejam conhecidos por este, preservando-se, assim, a sua imparcialidade.
+
+d) como parte indissociável da governança administrativa, o controle interno terá suas
+atribuições definidas em ato regulamentar, podendo ser incumbido, ou não, de avaliar a
+execução orçamentária.
+
+e) os agentes do órgão interno, caso não deem ciência ao órgão competente de controle
+externo das irregularidades que tenham conhecimento, podem ser responsabilizados pela
+totalidade dos danos causados, sem prejuízo da ação regressiva contra os autores.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          105
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+13.​(FGV/TCE-PA/Auditor de Controle Externo/2024) Segundo a orientação do Supremo Tribunal
+    Federal, no complexo feixe de atribuições dos Tribunais de Contas previstos na Constituição
+    da República existem atribuições que são autônomas e outras que dependem do
+    pronunciamento da Casa Legislativa a sua efetivação.
+
+Entre as hipóteses que se enquadram na última situação descrita é correto indicar
+
+a) o julgamento das contas do chefe do Poder Executivo.
+
+b) a determinação de prazo para que o órgão ou entidade adote as providências necessárias ao
+exato cumprimento da lei, se verificada ilegalidade.
+
+c) a aplicação aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas,
+as sanções previstas em lei.
+
+d) a representação ao Poder competente sobre irregularidades ou abusos apurados.
+
+e) a apreciação, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer
+título, na administração direta e indireta, excetuados os cargos em comissão.
+
+14.​(FGV/TCE PA/Auxiliar Técnico de Controle Externo/2024) Os artigos 52, III, “b”, 73 e 75 da
+    Constituição Federal de 1988 traçam as regras e os critérios para escolha dos membros do
+    Tribunal de Contas da União, estendendo-as, no que couber, aos Tribunais Estaduais e
+    Conselhos Municipais de contas. (Paschoal, Valdecir. Direito Financeiro e Controle Externo. 2004, p. 184)
+
+Entre os critérios para escolha dos membros dos Tribunais de Contas a que se refere o texto,
+assinale aquele que é exigido pela Constituição Federal de 1988.
+
+a) Idade mínima de 30 e máxima de 70 anos.
+
+b) Idoneidade moral e reputação ilibada.
+
+c) Notórios conhecimentos jurídicos, econômicos e de obras públicas, dentre outros.
+
+d) Mais de 10 anos de exercício de cargo público ou de mandato eletivo.
+
+e) Aprovação em concurso público de provas ou de títulos.
+
+15.​(FGV/TCE-PA/Auditor de Controle Externo/2024) A Constituição da República de 1988
+    estabelece que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da
+    União e das entidades da administração direta e indireta, quanto a aspectos expressamente
+    mencionados no texto do Art. 70, no que concerne à aplicação das subvenções e renúncia
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      106
+        www.estrategiaconcursos.com.br                                                                    113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+    de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo
+    sistema de controle interno de cada Poder. Entre os aludidos aspectos textualmente
+    indicados no mencionado dispositivo, é correto apontar
+
+a) a transparência.
+
+b) a efetividade.
+
+c) a legitimidade.
+
+d) a eficiência.
+
+e) a juridicidade.
+
+                                                         ==5460==
+
+16.​(FGV/TCE-PA/Auditor de Controle Externo/2024) Um dos grandes debates doutrinários se
+    relaciona às objeções dirigidas contra a ideia de jurisdição de contas: A oposição que se faz à
+    jurisdição de contas, ou seja, aquela realizada no âmbito da atividade processual do Tribunal
+    de Contas, diz respeito à jurisdição uma. Outros elementos compõem o espectro de
+    oposições, porém, encontram-se conectados a esta principal objeção. (HOEMKE, Hamilton
+    Hobus. Tribunal de Contas-Direito Processual de Contas: jurisdição, provas e partes. Conceito Editorial, 2015, p.
+    56)
+
+Os argumentos a favor do reconhecimento da função jurisdicional na atividade processual dos
+Tribunais de Contas se fundam em sua função constitucional de
+
+a) exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e
+haveres da União.
+
+b) comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão
+orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem
+como da aplicação de recursos públicos por entidades de direito privado.
+
+c) avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de
+governo e dos orçamentos da União.
+
+d) julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores
+públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e
+mantidas pelo Poder Público federal, e as contas daqueles que derem causa a perda, extravio ou
+outra irregularidade de que resulte prejuízo ao erário público.
+
+e) executar, diretamente, as multas e débitos imputados pela Corte de Contas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                              107
+        www.estrategiaconcursos.com.br                                                                            113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+17.​ (FGV/TCE ES/2024) No julgamento de um processo perante o Tribunal de Contas do
+Estado, em que se julgaram incorretas as contas prestadas por um agente público, foi, ao final,
+imputada a este a obrigação do pagamento do débito apurado.
+
+a) sua atividade é jurisdicional, sendo suas decisões acobertáveis pelo manto da coisa julgada
+material;
+
+b) sua atividade é jurisdicional, sendo suas decisões não acobertáveis pelo manto da coisa
+julgada material;
+
+c) há atividade administrativa, sendo a Corte de Contas órgão auxiliar da estrutura do Poder
+Judiciário brasileiro;
+
+d) não há atividade jurisdicional, mas eminentemente administrativa e fiscalizatória, não podendo
+sua legalidade se submeter ao crivo do Poder Judiciário;
+
+e) não há atividade jurisdicional, mas eminentemente administrativa e fiscalizatória, podendo sua
+legalidade se submeter ao crivo do Poder Judiciário.
+
+18.​ (FGV/TCE-GO/2024) Certo Tribunal de Contas, no âmbito de sua competência, realizou
+uma tomada de contas especial, para fins de verificar a regularidade no cumprimento de
+determinado convênio interfederativo de repasse de verbas e promover a responsabilização
+pessoal dos envolvidos, dentre os quais o prefeito do Município Alfa.
+
+Considerando as disposições constitucionais acerca do controle exercido pelas Cortes de Contas
+e a orientação do Supremo Tribunal Federal acerca do tema, é correto afirmar que, em relação à
+mencionada tomada de contas especial
+
+a) não é possível que o Tribunal de Contas aprecie condutas e gastos realizados pelo prefeito,
+considerando que a Constituição determina que o julgamento das contas do Chefe do Poder
+Executivo deve ser realizado pela respectiva Casa Legislativa.
+
+b) cabe ao Tribunal de Contas apenas apreciar a regularidade dos gastos realizados pelo prefeito,
+mediante a elaboração de parecer, cuja conclusão apenas deixa de prevalecer pela votação de
+2/3 (dois terços) da Câmara de Vereadores.
+
+c) deve aplicar as sanções pertinentes ao prefeito, em decorrência da apuração de irregularidades
+no convênio em questão, considerando ser o órgão responsável pelo julgamento anual das
+contas do Chefe do Poder Executivo.
+
+d) não pode ser compreendida como atribuição autônoma do Tribunal de Contas, de modo que
+eventual aplicação de penalidade ao Chefe do Poder Executivo, em decorrência de
+irregularidades no convênio em questão, deve ser submetida à apreciação da Casa Legislativa.
+
+e) pode promover a condenação administrativa do Chefe do Poder Executivo, quando
+identificada a responsabilidade pessoal em face de irregularidades no cumprimento do convênio
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          108
+        www.estrategiaconcursos.com.br                                                        113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+em questão, sem necessidade de posterior julgamento ou aprovação do ato pelo respectivo
+Poder Legislativo.
+
+19.​ (FGV/TCE-GO/2024) O artigo 31 da Constituição Federal do Brasil estabelece que a
+fiscalização no âmbito municipal será conduzida pelo Poder Legislativo Municipal, por meio de
+controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, conforme
+determinado pela legislação.
+
+Assinale a opção que indica o órgão que auxilia o controle externo da Câmara Municipal.
+
+a) Controladoria do Estado.
+
+b) Tribunal de Contas do Estado.
+
+c) Secretaria da Fazenda.
+
+d) Secretaria de Auditoria.
+
+e) Conselho de Controle.
+
+20.​ (FGV/TCE ES/2023) A respeito do regime jurídico previsto na Constituição da República
+de 1988 para os conselheiros substitutos integrantes dos Tribunais de Contas subnacionais, é
+correto afirmar que:
+
+a) por simetria com o modelo federal, os conselheiros substitutos têm as garantias e prerrogativas
+da magistratura apenas quando estiverem em efetiva substituição;
+
+b) por simetria com o modelo federal, os conselheiros substitutos exercem função
+técnico-opinativa nos processos de controle externo, atuando nos impedimentos e afastamentos
+dos membros titulares;
+
+c) inexiste simetria em relação ao modelo federal quanto à organização, composição, garantias e
+impedimentos dos conselheiros substitutos, estando a matéria no âmbito de autonomia dos
+entes federativos;
+
+d) quando não estiverem em substituição, exercem as atribuições próprias da judicatura de
+contas, competindo-lhes relatar e votar as matérias de sua competência, compondo o quórum
+ordinário dos órgãos decisórios;
+
+e) os conselheiros substitutos, quando em substituição a conselheiro, ostentam as mesmas
+garantias, impedimentos, prerrogativas, vencimentos e vantagens do titular.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           109
+        www.estrategiaconcursos.com.br                                                         113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+21.​ (FGV/TJ-SE/2023) O chefe do Poder Executivo do Município Alfa exarou três atos
+administrativos: (1) nomeou Maria, aprovada em concurso público de provas e títulos, para
+ocupar cargo de provimento efetivo; (2) nomeou João para ocupar cargo de provimento em
+comissão; e (3) concedeu a aposentadoria a Pedro.
+
+Considerando a competência constitucional do Tribunal de Contas de apreciar, para fins de
+registro, a legalidade de certos atos, é correto afirmar, em relação aos três atos descritos na
+narrativa, que a referida apreciação:
+
+A) é exigida em relação a todos os atos;
+
+B) não é exigida em relação a nenhum dos atos;
+
+C) é exigida apenas em relação aos atos 1 e 2;
+
+D) é exigida apenas em relação aos atos 1 e 3;
+
+E) é exigida apenas em relação aos atos 2 e 3.
+
+22.​    (FGV/TCE BA/2023) Após ampla mobilização dos gestores públicos, a Constituição do
+Estado Alfa veio a ser reformada por iniciativa de deputados estaduais, passando a ser previsto
+que as decisões do respectivo Tribunal de Contas, que neguem o registro de pessoal, podem vir
+a ser revistas pela Assembleia Legislativa sempre que destoem da ordem constitucional, federal
+ou estadual. Considerando os balizamentos estabelecidos pela ordem constitucional brasileira, a
+modificação introduzida na Constituição do Estado Alfa está:
+
+a) certa, considerando que o Tribunal de Contas é órgão auxiliar do Poder Legislativo;
+
+b) certa, considerando que o duplo grau de jurisdição é um princípio geral do direito brasileiro;
+
+c) errada, considerando se tratar de atribuição constitucional do Tribunal de Contas, de modo
+que suas decisões têm caráter impositivo;
+
+d) certa, considerando que cabe ao Poder Legislativo ampliar ou restringir as situações em que as
+decisões do Tribunal de Contas serão definitivas;
+
+e) errada, considerando que as situações em que a Assembleia Legislativa pode rever as decisões
+do Tribunal de Contas estão previstas em lei complementar federal.
+
+23.​ (FGV/ALEMA/2023) O controle é compreendido como um instrumento da democracia. A
+existência de uma estrutura formal para controle das finanças públicas, eficiente, eficaz e efetiva
+é um fato comum em um Estado democrático organizado.
+
+Neste âmbito, exercer o controle das operações de crédito, avais e garantias, bem como dos
+direitos e haveres da União, é finalidade do
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                110
+        www.estrategiaconcursos.com.br                                                              113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+a) Controle Externo.
+
+b) Controle Interno.
+
+c) Poder Legislativo.
+
+d) Poder Judiciário.
+
+e) Tribunal de Contas da União.
+
+24.​ (FGV/BBTS/2023) Acerca do Tribunal de Contas da União, assinale a opção que apresenta
+uma de suas competências.
+
+a) O julgamento, em periodicidade anual, das contas apresentadas pelo Presidente da República,
+realizado no prazo de até 60 dias do seu recebimento.
+
+b) A apreciação, exclusivamente mediante parecer prévio, da conta dos administradores
+responsáveis por recursos públicos e daqueles que causarem prejuízo ao erário.
+
+c) A sustação, em caso de não atendimento, da execução de contrato impugnado, comunicando
+imediatamente a decisão ao Congresso Nacional.
+
+d) A análise, para fins de registro, da legalidade dos atos de admissão de pessoal, inclusive de
+cargos de provimento em comissão, da Administração Pública.
+
+e) A realização, por iniciativa própria, de inspeções e auditorias nas unidades administrativas dos
+Poderes Legislativo, Executivo e Judiciário.
+
+25.​ (FGV/RFB/2023) João, servidor público federal ocupante de cargo de provimento efetivo,
+preencheu os requisitos para a aposentadoria voluntária previstos na legislação de regência. Por
+tal razão, requereu o benefício previdenciário, o que foi deferido pelo órgão competente do
+Poder Executivo. Decorridos seis anos desde a concessão de sua aposentadoria, João constatou
+que o Tribunal de Contas da União (TCU) ainda não tinha examinado a legalidade do ato para
+fins de registro.
+
+À luz da sistemática vigente, é correto afirmar que
+a) como já decorreram mais de cinco anos desde a concessão inicial da aposentadoria de João, o
+TCU não mais pode insurgir-se contra a legalidade do ato, aperfeiçoando-se o prazo decadencial
+para a sua revisão.
+b) o TCU pode examinar a qualquer tempo o ato de concessão inicial da aposentadoria de João,
+não sendo necessário assegurar o contraditório e a ampla defesa caso seja detectada alguma
+irregularidade.
+c) o registro do ato de aposentadoria, no âmbito do TCU, ocorre de imediato, mas pode ser
+desconstituído por decisão colegiada, a partir de iniciativa de qualquer Ministro, conforme as
+informações do corpo técnico.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            111
+        www.estrategiaconcursos.com.br                                                          113
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 10
+
+d) o TCU pode examinar a qualquer tempo o ato de concessão inicial da aposentadoria de João,
+mas, como já decorreram mais de cinco anos, deve assegurar o contraditório e a ampla defesa
+caso seja detectada alguma irregularidade.
+e) caso tenham decorridos mais de cinco anos desde a chegada ao TCU do processo
+administrativo concernente à aposentadoria de João, aquele órgão não pode mais insurgir-se
+contra a legalidade do ato, devendo ser considerado registrado.
+
+                                                   GABARITO
+   1.​ LETRA E
+   2.​ LETRA E
+   3.​ LETRA D
+   4.​ LETRA E
+   5.​ LETRA E
+   6.​ LETRA C
+   7.​ LETRA C
+   8.​ LETRA D
+   9.​ LETRA D
+   10.​LETRA D
+   11.​LETRA C
+   12.​LETRA E
+   13.​LETRA A
+   14.​LETRA B
+   15.​LETRA C
+   16.​LETRA D
+   17.​LETRA E
+   18.​LETRA E
+   19.​LETRA B
+   20.​LETRA E
+   21.​LETRA D
+   22.​LETRA C
+   23.​LETRA B
+   24.​LETRA E
+   25.​LETRA E
+
+        Receita Federal (Analista Tributário) Direito Constitucional                     112
+        www.estrategiaconcursos.com.br                                                   113
+
+                                      
+
+
+---
+
+---

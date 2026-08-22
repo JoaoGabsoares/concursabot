@@ -1,0 +1,298 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '03'
+titulo_aula: FUNÇÃO QUE ESTABELECE OS OBJETIVOS E DEFINE OS MEIOS (RECURSOS E
+---
+
+# FUNÇÃO QUE ESTABELECE OS OBJETIVOS E DEFINE OS MEIOS (RECURSOS E
+
+FUNÇÃO QUE ESTABELECE OS OBJETIVOS E DEFINE OS MEIOS (RECURSOS E
+         CONCEITO                                          TAREFAS) NECESSÁRIOS PARA ALCANÇAR ESSES OBJETIVOS.
+
+                                                                                            PRINCÍPIO DAS MAIORES EFICIÊNCIA,
+                DEVE BUSCAR MAXIMIZAR OS RESULTADOS E MINIMIZAR AS DEFICIÊNCIAS.                 EFICÁCIA E EFETIVIDADE
+
+
+                                                                                              PRINCÍPIO DA MAIOR INFLUÊNCIA
+PROVOCA MODIFICAÇÕES NAS DIVERSAS CARACTERÍSTICAS E ATIVIDADES DA ORGANIZAÇÃO.
+                                                                                             (OU PENETRAÇÃO) E ABRANGÊNCIA
+
+
+                                                                                              PRINCÍPIO DA PRECEDÊNCIA DO
+                           É A FUNÇÃO ADMINISTRATIVA QUE VEM ANTES DAS OUTRAS.               PLANEJAMENTO SOBRE AS DEMAIS
+                                                                                                       FUNÇÕES
+
+
+                     DEVE SEMPRE BUSCAR OS OBJETIVOS MÁXIMOS DA ORGANIZAÇÃO.
+                                                                                             PRINCÍPIO DA CONTRIBUIÇÃO AOS
+                                                                                                       OBJETIVOS
+    OBJETIVOS SÃO HIERARQUIZADOS COM O INTUITO DE QUE TODOS SEJAM CUMPRIDOS.
+
+ PLANEJAMENTO                                                                       PRINCÍPIOS GERAIS
+
+
+                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                              ❑ AUMENTO DO FOCO.
+                                                              ❑ AUMENTO DA FLEXIBILIDADE.
+                 VANTAGENS                                    ❑ MELHORA NA COORDENAÇÃO.
+                                                              ❑ MELHORA NO CONTROLE.
+                                                              ❑ ADMINISTRAÇÃO DO TEMPO.
+
+             DESENVOLVIDO COM A PARTICIPAÇÃO DAS DIVERSAS ÁREAS ENVOLVIDAS NO PROCESSO.               PLANEJAMENTO PARTICIPATIVO
+
+INTER-RELACIONA TODOS OS ASPECTOS DA ORGANIZAÇÃO QUE ESTIVEREM ENVOLVIDOS NO PROCESSO.                PLANEJAMENTO COORDENADO
+
+                               TODOS OS ESCALÕES DA ORGANIZAÇÃO DEVEM SER INTEGRADOS.                  PLANEJAMENTO INTEGRADO
+
+                                EM VIRTUDE DA DINAMICIDADE/MUTABILIDADE DO AMBIENTE, O
+                                                                                                       PLANEJAMENTO PERMANENTE
+                               DEVE SER CONSTANTEMENTE REVISTO/REFEITO, PARA SE ADAPTAR.
+
+          PLANEJAMENTO                                                                      PRINCÍPIOS ESPECÍFICOS
+
+
+                                                                                                                        ADMINISTRAÇÃO PÚBLICA
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+❑ UTILIZAÇÃO DE RECURSOS                                      COMO IREMOS PERCORRER              IMPLEMENTAÇÃO DO PLANO E
+  (FAZER MAIS COM MENOS).                                      ESSE MELHOR CAMINHO?              AVALIAÇÃO DOS RESULTADOS
+                                 EFICIÊNCIA
+❑ RELACIONA-SE AOS MEIOS.
+❑ FOCO INTERNO.                                          QUAL É O MELHOR CAMINHO?              ESCOLHA DE UM CURSO DE AÇÃO
+
+
+                                                                                                ANÁLISE DAS ALTERNATIVAS DE
+❑ ALCANCE DOS RESULTADOS                       QUAIS SÃO OS CAMINHOS POSSÍVEIS?
+                                                                                                           AÇÃO
+  (ATINGIR OBJETIVOS E METAS).
+                                  EFICÁCIA
+❑ RELACIONA-SE AOS FINS.
+                                                                                               DESENVOLVIMENTO DE PREMISSAS
+❑ FOCO EXTERNO.                                    O QUE NOS ESPERA PELA FRENTE?
+                                                                                               QUANTO ÀS CONDIÇÕES FUTURAS
+
+❑ IMPACTO CAUSADO.
+                                                                 ONDE ESTAMOS AGORA?           DIAGNÓSTICO DA SITUAÇÃO ATUAL
+❑ RELACIONA-SE    AOS
+                                 EFETIVIDADE
+  BENEFÍCIOS GERADOS.
+❑ FOCO EXTERNO.                                               PARA ONDE QUEREMOS IR?              DEFINIÇÃO DOS OBJETIVOS
+
+EFICIÊNCIA ≠ EFICÁCIA ≠ EFETIVIDADE
+
+
+                                                                                    PROCESSOS DE PLANEJAMENTO
+             PLANEJAMENTO                                                            (ETAPAS DO PLANEJAMENTO)
+
+                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                               FORMULAÇÃO DOS OBJETIVOS                        DEFINE AONDE QUER SE CHEGAR E INDICA A DIREÇÃO.
+
+                                        ANÁLISE EXTERNA                        ANALISA AMEAÇAS E OPORTUNIDADES (MATRIZ SWOT/FOFA).
+
+                                        ANÁLISE INTERNA                        ANALISA FORÇAS E FRAQUEZAS (MATRIZ SWOT/FOFA).
+
+                                                                                                            • IDENTIFICAR, RELACIONAR E ANALISAR OS
+                                          FORMULAÇÃO DAS ALTERNATIVAS ESTRATÉGICAS
+                                                                                                              CAMINHOS QUE PODEM SER TOMADOS.
+                                             E ESCOLHA DA ESTRATÉGIA A SER UTILIZADA
+                                                                                                            • DECIDIR O CAMINHO.
+
+ ETAPAS DO PLANEJAMENTO ESTRATÉGICO                DESENVOLVIMENTO DE PLANOS TÁTICOS E                      DESMEMBRAR OS PLANOS ESTRATÉGICOS
+            (CHIAVENATO)                               OPERACIONALIZAÇÃO DA ESTRATÉGIA                      EM PLANOS TÁTICOS E OPERACIONAIS.
+
+
+                                                         ❑ REALIZADO PELA ALTA CÚPULA (PRESIDENTES E DIRETORES).
+                                                         ❑ ENVOLVE E IMPACTA TODA A ORGANIZAÇÃO.
+                                                         ❑ É ORIENTADO PARA O FUTURO E PARA O "DESTINO" DA ORGANIZAÇÃO.
+          CARACTERÍSTICAS                                ❑ É VOLTADO PARA O LONGO PRAZO.
+                                                         ❑ ENVOLVE A "CONSTRUÇÃO DO CONSENSO"
+                                                         ❑ ALTO NÍVEL DE INCERTEZAS.
+                                                         ❑ É GENÉRICO E SINTÉTICO.
+
+                                                         É     O RESPONSÁVEL POR ESTABELECER A DIREÇÃO A SER SEGUIDA PELA
+                                                         ORGANIZAÇÃO.
+
+PLANEJAMENTO ESTRATÉGICO
+                                                         ELE DEFINE COMO A ORGANIZAÇÃO APLICARÁ AS ESTRATÉGIAS PARA ATINGIR OS
+                                                         SEUS OBJETIVOS.
+
+     PLANEJAMENTO
+                                                                                                                             ADMINISTRAÇÃO PÚBLICA
+                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                   ❑ REALIZADO PELO NÍVEL ADMINISTRATIVO MAIS BAIXO (SUPERVISORES).
+                                   ❑ SE PREOCUPA COM "O QUE" E "COMO" FAZER.
+                                   ❑ O FOCO ESTÁ NA EFICIÊNCIA.
+        CARACTERÍSTICAS
+                                   ❑ É VOLTADO PARA O CURTO PRAZO.
+                                   ❑ PODE SER CLASSIFICADO EM: PROCEDIMENTOS, ORÇAMENTOS, PROGRAMAS E REGULAMENTOS.
+                                   ❑ É DETALHADO E ANALÍTICO.
+
+                                          ELE ESTÁ DIRECIONADO                PARA   AS   ATIVIDADES   BÁSICAS      DO   DIA   A   DIA
+                                          (ROTINEIRAS).
+PLANEJAMENTO OPERACIONAL
+                                          TRATA-SE DE UM DESDOBRAMENTO DO PLANEJAMENTO TÁTICO.
+
+                                   ❑ REALIZADO PELO NÍVEL INTERMEDIÁRIO/GERENCIAL (GERENTES E CHEFES DE DEPARTAMENTO).
+                                   ❑ ENVOLVE UMA DETERMINADA UNIDADE.
+                                   ❑ BUSCA TRANSFORMAR OS PLANOS ESTRATÉGICOS EM AÇÕES ESPECÍFICAS E DIRECIONADAS.
+        CARACTERÍSTICAS
+                                   ❑ É VOLTADO PARA O MÉDIO PRAZO.
+                                   ❑ ENVOLVE PLANOS DE: PRODUÇÃO, FINANCEIROS, MARKETING, E RECURSOS HUMANOS.
+                                   ❑ É UM POUCO MENOS GENÉRICO E UM POUCO MAIS DETALHADO.
+
+                                          ELE BUSCA TRADUZIR AS ESTRATÉGIAS DO PLANEJAMENTO ESTRATÉGICO E
+                                          TRANSFORMÁ-LAS EM AÇÕES ESPECÍFICAS E DIRECIONADAS.
+
+  PLANEJAMENTO TÁTICO
+                                          É     O      ELO      ENTRE   O   PLANEJAMENTO    ESTRATÉGICO    E    O    PLANEJAMENTO
+                                          OPERACIONAL.
+
+    PLANEJAMENTO
+                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                                                    ESTRATÉGIA
+
+
+          DEFINIÇÃO DOS CAMINHOS QUE SERÃO ADOTADOS, MEDIANTE A ALOCAÇÃO DOS RECURSOS.
+                                                                                                                DEFINIÇÃO GERAL:
+LEVANDO-SE EM CONSIDERAÇÃO O AMBIENTE EXTERNO E O ALCANCE DOS OBJETIVOS ORGANIZACIONAIS.                          ESTRATÉGIA É
+                                                                                                       ❑ PLANO.
+                                                                                                       ❑ ESTRATAGEMA (ARMADILHA OU PRETEXTO).
+                                                      SEGUNDO MINTZBERG, A ESTRATÉGIA PODE
+   “CINCO PS” DE MINTZBERG                            SER VISTA SOB 5 ÂNGULOS DIFERENTES.
+                                                                                                       ❑ PADRÃO.
+                                                                                                       ❑ POSIÇÃO.
+                                                                                                       ❑ PERSPECTIVA.
+
+      TIPOS DE ESTRATÉGIA
+                            TRATA-SE DA ESTRATÉGIA INICIAL PLANEJADA.
+         PRETENDIDA
+                            É A ESTRATÉGIA INTENCIONAL, QUE PODERÁ OU NÃO SER REALIZADA.
+       NÃO REALIZADA        É A ESTRATÉGIA QUE FOI INICIALMENTE PRETENDIDA, MAS QUE ACABOU NÃO SENDO EXECUTADA.
+
+         DELIBERADA         É A ESTRATÉGIA QUE FOI PRETENDIDA E FOI IMPLEMENTADA.
+                            É A ESTRATÉGIA NÃO PLANEJADA (ELA SURGE "DO NADA").
+         EMERGENTE
+                            A ESTRATÉGIA "BROTA" DURANTE O DESENVOLVIMENTO DAS AÇÕES.
+                            TRATA-SE DO QUE FOI REALMENTE EXECUTADO.
+         REALIZADA
+                            PODE-SE DIZER QUE É A SOMA DAS ESTRATÉGIAS DELIBERADAS E DAS ESTRATÉGIAS EMERGENTES.         ADMINISTRAÇÃO PÚBLICA
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+      OBJETIVOS ESTRATÉGICOS
+
+É   O RESULTADO FINAL QUE A ORGANIZAÇÃO
+PRETENDE ALCANÇAR (LEVA EM CONTA A MISSÃO).
+
+
+      É ORIENTADO PARA O LONGO PRAZO.
+
+    CARACTERÍSTICAS (MNEMÔNICO: SMART)
+❑ESPECÍFICO (SPECIFIC).
+❑MENSURÁVEL (MENSURABLE).
+❑ATINGÍVEL (ATTAINABLE).
+❑RELEVANTE (RELEVANT).
+❑TEMPORAL (TIMELY).
+
+
+                                                      ADMINISTRAÇÃO PÚBLICA
+                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+           MISSÃO X VISÃO X VALORES X NEGÓCIO
+
+          ❑ RAZÃO DE SER.
+          ❑ POR QUE A ORGANIZAÇÃO EXISTE?
+MISSÃO    ❑ INDICA OS IMPACTOS CAUSADOS NA SOCIEDADE.
+          ❑ É PERMANENTE (ATEMPORAL).
+          ❑ EXEMPLO (NETFLIX): “PERMITIR QUE O ACESSO AOS FILMES E PROGRAMAS DE TV FAVORITOS SEJA RIDICULAMENTE FÁCIL”.
+
+          ❑ VISÃO DE FUTURO.
+          ❑ O QUE EU QUERO SER?
+ VISÃO    ❑ SONHOS QUE SE PRETENDE TORNAR REALIDADE.
+          ❑ É TEMPORÁRIO.
+          ❑ EXEMPLO (NETFLIX): “SER O MELHOR SERVIÇO DE DISTRIBUIÇÃO DE ENTRETENIMENTO DO MUNDO”.
+
+          ❑ PRINCÍPIOS BÁSICOS.
+          ❑ CRENÇAS.
+VALORES   ❑ BASE PARA A TOMADA DE DECISÕES.
+          ❑ INDICA COMO OS MEMBROS DEVEM SE COMPORTAR.
+          ❑ EXEMPLO (NETFLIX): “PRODUTIVIDADE, CRIATIVIDADE, INTELIGÊNCIA, HONESTIDADE”.
+
+          ❑ REPRESENTA O "RAMO DE ATIVIDADES".
+NEGÓCIO   ❑ ATIVIDADES PRINCIPAIS DA ORGANIZAÇÃO EM UM MOMENTO ESPECÍFICO.
+          ❑ O QUE A ORGANIZAÇÃO FAZ?
+
+                                                                                                      ADMINISTRAÇÃO PÚBLICA
+                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                          ❑ DEFINIÇÃO E ESPECIFICAÇÃO DOS OBJETIVOS.
+                          ❑ DESENVOLVIMENTO DO PLANO DE AÇÃO.
+       EXISTEM 5 ETAPAS   ❑ MONITORAMENTO DO PROCESSO.
+                          ❑ AVALIAÇÃO DO PROCESSO.
+                          ❑ RECICLAGEM DO PROCESSO.
+
+
+                          ❑ FOCA AS TAREFAS E ATIVIDADES DIRETAMENTE RELACIONADAS AO CUMPRIMENTO DOS OBJETIVOS.
+                          ❑ OBRIGA OS ADMINISTRADORES A ESTABELECEREM AS PRIORIDADES, METAS E MEDIDAS DE DESEMPENHO.
+           VANTAGENS      ❑ ESTIMULA A PARTICIPAÇÃO, A MOTIVAÇÃO E O COMPROMETIMENTO DE TODOS OS FUNCIONÁRIOS.
+                          ❑ AUMENTA A CAPACIDADE DA EMPRESA DE RESPONDER ÀS ALTERAÇÕES DO AMBIENTE EXTERNO.
+                          ❑ PROPORCIONA MAIOR LIGAÇÃO ENTRE OS OBJETIVOS GERAIS DA EMPRESA E OS OBJETIVOS INDIVIDUAIS.
+
+
+                          ❑ DEPENDE DO APOIO E DO EMPENHO DA ADMINISTRAÇÃO DE TOPO (ALTA CÚPULA).
+                          ❑ PODE SER INÚTIL E DESMOTIVADOR EM AMBIENTES OU FASES DE MUDANÇA DINÂMICA.
+         DESVANTAGENS     ❑ SUPERVALORIZA OS OBJETIVOS INDIVIDUAIS EM DETRIMENTO DOS OBJETIVOS ORGANIZACIONAIS.
+                          ❑ CONCENTRA OS ESFORÇOS NO CURTO PRAZO, COM PREJUÍZO AO PLANEJAMENTO DE LONGO PRAZO.
+
+                                                                         OS OBJETIVOS E AS METAS SÃO DEFINIDOS PELOS
+                                                                         CHEFES E SUBORDINADOS, EM COMUM ACORDO.
+ADMINISTRAÇÃO POR OBJETIVOS (APO) OU
+   ADMINISTRAÇÃO POR RESULTADOS                                          AS   RESPONSABILIDADES SÃO ESPECIFICADAS PARA
+                                                                         CADA UM, EM FUNÇÃO DOS RESULTADOS ESPERADOS.
+
+
+                                                                                                                ADMINISTRAÇÃO PÚBLICA
+                                                                               ESTRATÉGIA CONCURSOS
+
+
+---

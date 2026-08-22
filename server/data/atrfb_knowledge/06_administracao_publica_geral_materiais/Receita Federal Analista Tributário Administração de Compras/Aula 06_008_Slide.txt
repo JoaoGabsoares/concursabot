@@ -1,0 +1,370 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+MOVIMENTAÇÃO
+
+
+                                             Prof. Ricardo Campanario
+
+
+
+
+        https://t.me/KakashiAssinaturasBot
+       Movimentação
+       O mais comum é que o material seja movimentado
+
+     ❑ Para que o processo produtivo possa acontecer, ao menos um dos três elementos que compõem
+       o layout da organização precisa se movimentar: homem, máquina ou material. Caso nenhum dos
+       três se movimento o processo produtivo não ocorre.
+
+     ❑ Na maioria dos processos na indústria quem se move é o material porém há processos especiais
+       como na construção de aviões, navios ou equipamentos muito pesados em que homens e
+       máquinas é que se movimentam em torno do material, mas é uma exceção. É o caso do layout de
+       posição fixa.
+
+     ❑ Como em todas as outras atividades do processo de gestão de materiais, a movimentação
+       também têm custos, com o agravante que não gera qualquer valor ao produto acabado, podendo
+       apenas tornar o seu processo produtivo mais ou menos eficiente. Dessa forma é um dos alvos
+       mais importantes para a eficiência da gestão do processo e para o seu barateamento, pois só
+       gera custo...
+
+     ❑ Vamos entender a seguir quais são os principais objetivos e finalidades do processo de
+       movimentação.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Objetivos e Finalidades
+
+     ❑ Em relação à movimentação de materiais (o que ainda está diretamente ligado ao
+       armazenamento e se relaciona diretamente com ele), o mais importante é adotar um
+       layout que facilite e otimize a movimentação dos materiais, assim como adotar os
+       equipamentos e técnicas mais eficientes em todo o processo, gerando a maximização
+       da utilização dos recursos disponíveis, sejam eles os espaços, o tempo, as pessoas,
+       os materiais e os próprios equipamentos e ferramentas.
+     ❑ Isto é bastante importante pois as movimentações são movimentos repetitivos e, caso
+       não estejam otimizadas, representarão perdas que se acumularão ao longo do tempo
+       em função de ineficiência produzida.
+     ❑ Um sistema de movimentação de materiais no processo produtivo de uma indústria
+       deve buscar as seguintes finalidades básicas: redução de custos, aumento da
+       capacidade produtiva, melhores condições de trabalho e melhor distribuição.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Redução de custos ao longo do processo
+
+     ❑ A redução de custos dentro do processo de movimentação pode ser obtida por meio de três
+       grandes grupos:
+
+
+         •     Mão de obra (substituição) - utilização de equipamentos de manuseio substituem a mão
+               de obra braçal pelas alternativas mecânicas. Utilizar ao máximo os equipamentos
+               disponíveis, de preferência os padronizados e que podem trabalhar com diferentes
+               tipos de cargas.
+         •     Materiais - O melhor acondicionamento e transporte reduz as perdas ao longo do
+               processo.
+         •     Despesas Gerais - processos de transporte e estoque racionalizados diminuem as
+               despesas com acidentes ou sinistros.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Aumento da capacidade produtiva
+
+     ❑ Já em relação à capacidade produtiva também é possível atuar em três frentes:
+
+        •     Aumento da produção - métodos mais eficientes de transporte e armazenagem que
+              permitam à matéria prima chegar mais rapidamente à linha de produção.
+
+        •     Aumento da capacidade de armazenagem - a ocupação vertical e a utilização de
+              equipamentos que permitem o empilhamento são fundamentais para a maximização
+              da ocupação do espaço. Objetivo é utilizar ao máximo o espaço disponível.
+        •     Melhor distribuição da armazenagem - a formação de cargas unitárias por meio do uso
+              de dispositivos de transportes e armazenagem como os pallets é fundamental, assim
+              como a melhor estruturação possível de corredores, estantes. Reduzir, de forma geral,
+              os custos da armazenagem usando, entre outras técnicas, a gravidade e a escolha de
+              equipamentos com os menores custos globais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Busca por melhores condições de trabalho
+
+     ❑ Em relação às condições de trabalho, as medidas afetam diretamente as pessoas envolvidas. São
+       elas:
+
+
+        •     Maior segurança - o uso correto de equipamentos de manuseio e a disseminação da
+              utilização da unitização das cargas reduz bastante o risco de acidentes.
+        •     Redução da fadiga e maior conforto ao pessoal - o manuseio de cargas feito por
+              máquinas libera o homem para outras atividades e reduz fadiga. Evitar a manipulação
+              (esforço humano) ao longo do transporte, preferindo tarefas automatizadas e/ou
+              mecanizadas. Para os que continuam na atividade, o uso de máquinas e equipamentos
+              adequados aumenta o conforto da atividade.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Distribuição ideal para o usuário final
+
+     ❑ Por fim, em relação à distribuição, também temos diversas oportunidades de melhoria até a
+       chegada no usuário final:
+
+        •     Melhoria na circulação - criação de corredores e layouts eficientes que respeitem o fluxo
+              natural das operações e reduzam trajetos em zigue zague, assim como a integração da
+              unidade produtora com unidades regionais para distribuição, contribuem para significativa
+              melhora na circulação da produção.
+
+        •     Localização estratégica do armazém - a integração da cadeia de distribuição permite a criação
+              do diversos pontos de armazenagem, mesmo afastados da unidade produtiva e, desta vez,
+              próximos do cliente final.
+
+        •     Melhoria dos serviços ao usuário - a proximidade do consumidor torna possíveis respostas
+              mais rápidas e minimiza as perdas e quebras ao longo do transporte, reduzindo custos e
+              ampliando a satisfação do usuário final.
+
+        •     Maior disponibilidade - com a implantação dos pontos de armazenagem remotos é possível
+              aumentar a disponibilidade de produtos em cada uma das regiões alvo.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       As Leis da Movimentação
+       Importante conhecer!
+
+     ❑ Existem algumas "leis de movimentação" que valem a pena ser estudadas pois ajudarão você a
+       entender e resolver várias questões de prova. Além disso resumem bem o assunto. Vamos a elas:
+               - Obediência ao fluxo das operações: trajetória dos materiais deve seguir a sequência das operações, de preferência de
+               forma linear.
+               - Mínima distância: eliminação do zigue zague e redução de distâncias no fluxo dos materiais.
+               - Mínima manipulação: evitar a manipulação ao longo do processo, priorizando o transporte mecânico.
+               - Segurança e satisfação: selecionar equipamentos que ampliem a segurança e a satisfação dos envolvidos.
+               - Padronização: equipamentos padronizados possuem custos e manutenção inferiores aos especializados.
+               - Flexibilidade: equipamentos devem ser capazes de atuar com vários tipos de materiais e cargas.
+               - Máxima utilização do equipamento: equipamento deve estar ocupado o tempo todo.
+               - Máxima utilização da gravidade: sempre que possível priorizar o transporte por gravidade, usando para isso pequenas
+               elevações mecânicas.
+               - Máxima utilização do espaço disponível: utilizar sempre o espaço vertical.
+               - Método alternativo: quando falhar o plano A é necessário ter o plano B de movimentação já desenhado.
+               - Menor custo total: o custo total é que deve ser o decisor na escolha do equipamento e não custos intermediários
+               como o de aquisição, operacional ou de manutenção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                        https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Equipamentos e Sistemas de Manuseio
+
+     ❑ A movimentação e manuseio dos materiais pode ser feita das mais variadas formas, inclusive
+       manualmente, efetuado pelo esforço físico dos funcionários.
+
+     ❑ Vimos até aqui o quanto é importante adotar os equipamentos corretos em cada uma das
+       ocasiões, visando redução de custos, ganho de velocidade, eficiência e a segurança, saúde e
+       satisfação dos envolvidos.
+
+     ❑ Além disso, as decisões relativas a movimentação de materiais, devem levar em conta aspectos
+       importantes como o layout adotado, o produto a ser fabricado, a edificação existente e suas
+       limitações impostas, os custos das movimentações, as áreas necessárias para o funcionamento
+       dos equipamentos, fontes de energia necessárias, operadores requeridos, entre outros.
+
+     ❑ Como podemos ver é um processo decisório complexo que, ao final, conta com as algumas
+       alternativas de equipamentos para sua execução.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Principais Classificações dos Equipamentos
+
+     ❑ A classificação adotada para os diferentes tipos de equipamentos de movimentação e
+       transporte os divide em alguns grupos de acordo com características geométricas e
+       funcionais. Os principais são, incluindo alguns meios de apoio aos processos de
+       carga, descarga e manuseio:
+                  - Transportadores: correias, correntes, fitas metálicas, roletes, rodízios, roscas e vibratórios.
+
+                  - Guindastes, talhas e elevadores: guindastes fixos e móveis, pontes rolantes, talhas, guinchos, monovias,
+                  elevadores, etc.
+
+                  - Veículos Industriais: carrinhos de todos os tipos, paleteiras, empilhadeiras, tratores, trailers e veículos
+                  especiais para transporte a granel.
+
+                  - Equipamentos de posicionamento, pesagem e controle: plataformas fixas e móveis, rampas, equipamentos
+                  de transferência, etc.
+
+                  - Containers e estruturas de suporte: vasos, tanques, suportes e plataformas, estrados, pallets, suportes para
+                  bobinas e equipamentos auxiliares de embalagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Entre pontos pré-determinados
+
+     ❑ São utilizados sempre que se precisar realizar uma movimentação constante, entre dois pontos
+       predeterminados. Nestes casos deve-se usar os sistemas de transportadores contínuos como
+       esteiras, roletes ou rodízios, transportadores de rosca ou outros.
+
+     ❑ Geralmente são utilizados em mineração, indústrias, terminais de carga e descarga, terminais de
+       recepção e expedição de mercadorias ou em armazéns de manutenção a granel. Veja abaixo
+       exemplos de esteiras transportadoras, inclusive por roletes.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Somente em áreas restritas
+
+     ❑ Já para os casos em que o transporte se refere a áreas restritas (como no caso dos armazéns),
+       temos algumas opções de sistemas de manuseio:
+
+     ❑ Pontes rolantes ou monovias: utilizadas no transporte e elevação de cargas em instalações
+       industriais como fundições e usinas siderúrgicas. Veja abaixo:
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Somente em áreas restritas
+
+     ❑ Guindastes: compostos por colunas e lança com guincho, acionado por dispositivo
+       mecânico ou elétrico. Indicados para cargas acima de 5 toneladas.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Movimentação
+       Entre pontos sem limites fixos
+
+     ❑ Quando o transporte deve acontecer entre pontos sem limites fixos são usados os veículos industriais. Os mais
+       utilizados são os seguintes:
+
+     ✓     Carrinhos: movimentação manual, pode possuir vários formatos. Abaixo, um exemplo.
+
+     ✓     Paleteiras (ou carro pallet): braços metálicos em forma de garfo recolhem os pallets, elevam a carga e permitem o
+           seu transporte. Podem ser manuais ou motorizadas. Abaixo um exemplo de paleteira manual.
+
+     ✓     Empilhadeiras: quando há a necessidade de empilhar a carga, além de transportá-la, deve ser usada a
+           empilhadeira, que é um carro de elevação por garfos, motorizado e em condições de operar a média distância.
+           Conseguem recolher os pallets por meio dos garfos frontais e os elevam à altura requerida para o empilhamento
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) O responsável pelo almoxarifado deve estar atento às
+     normas aplicáveis no local de trabalho, visando segurança e operação de pessoas e produtos.
+     Profissionais que atuam no processo de movimentação e armazenagem em almoxarifado/armazém
+     precisam:
+     a) monitorar movimentos perigosos dos transportadores contínuos de materiais, acessíveis durante
+     operação normal, que devem ser protegidos, especialmente, nos pontos de esmagamento,
+     agarramento e aprisionamento.
+     b) utilizar transportadores de materiais (ex. empilhadeira) para qualquer tipo e capacidade de carga,
+     independente da especificação.
+     c) permitir permanência e circulação de pessoas sobre partes e corredores, em movimento de
+     transportadores de materiais.
+     d) consertar máquinas e equipamentos utilizados no setor de trabalho, sem necessidade de chamar
+     profissional legalmente habilitado.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) O responsável pelo almoxarifado deve estar atento às
+     normas aplicáveis no local de trabalho, visando segurança e operação de pessoas e produtos.
+     Profissionais que atuam no processo de movimentação e armazenagem em almoxarifado/armazém
+     precisam:
+     a) monitorar movimentos perigosos dos transportadores contínuos de materiais, acessíveis durante
+     operação normal, que devem ser protegidos, especialmente, nos pontos de esmagamento,
+     agarramento e aprisionamento.
+     b) utilizar transportadores de materiais (ex. empilhadeira) para qualquer tipo e capacidade de carga,
+     independente da especificação.
+     c) permitir permanência e circulação de pessoas sobre partes e corredores, em movimento de
+     transportadores de materiais.
+     d) consertar máquinas e equipamentos utilizados no setor de trabalho, sem necessidade de chamar
+     profissional legalmente habilitado.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) Os veículos industriais são os equipamentos mais versáteis,
+     pois não têm limites fixos de movimentação de materiais. Eles dividem-se em:
+     a) guindastes, carretas, empilhadeiras, guinchos e containers.
+     b) carretas, carrinhos, empilhadeiras, tratores e trailers.
+     c) carros, guindastes, talhas, elevadores e trens.
+     d) trailers, empilhadeiras, tratores, transportadores e pontes elevadiças.
+     e) roletes, transportadores, tratores, carretas e guinchos.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) Os veículos industriais são os equipamentos mais versáteis,
+     pois não têm limites fixos de movimentação de materiais. Eles dividem-se em:
+     a) guindastes, carretas, empilhadeiras, guinchos e containers.
+     b) carretas, carrinhos, empilhadeiras, tratores e trailers.
+     c) carros, guindastes, talhas, elevadores e trens.
+     d) trailers, empilhadeiras, tratores, transportadores e pontes elevadiças.
+     e) roletes, transportadores, tratores, carretas e guinchos.
+     GABARITO - B
+                                                  - Transportadores: correias, correntes, fitas metálicas, roletes, rodízios, roscas e
+                                                  vibratórios.
+
+                                                  - Guindastes, talhas e elevadores: guindastes fixos e móveis, pontes rolantes,
+                                                  talhas, guinchos, monovias, elevadores, etc.
+
+                                                  - Veículos Industriais: carrinhos de todos os tipos, paleteiras, empilhadeiras,
+                                                  tratores, trailers e veículos especiais para transporte a granel.
+
+                                                  - Equipamentos de posicionamento, pesagem e controle: plataformas fixas e
+                                                  móveis, rampas, equipamentos de transferência, etc.
+
+                                                  - Containers e estruturas de suporte: vasos, tanques, suportes e plataformas,
+                                                  estrados, pallets, suportes para bobinas e equipamentos auxiliares de embalagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,403 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: OPERAÇÕES DE COMPRAS
+---
+
+# OPERAÇÕES DE COMPRAS
+
+---
+
+---
+
+OPERAÇÕES DE COMPRAS
+
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Solicitações de Compras
+       Autoriza o comprador. É diferente do Pedido!!
+
+        Algumas etapas constituem o processo de Operação de Compras. São elas:
+        solicitação de compras, a coleta de preços (cotações), e o pedido e acompanhamento
+        das compras.
+
+      ❑ A solicitação de compras é o documento que autoriza o comprador a executar uma
+        compra, aplicando-se tanto a materiais produtivos como improdutivos.
+      ❑ É o documento que informa o que se deve comprar, a quantidade, o prazo e o local
+        de entrega e, eventualmente, prováveis fornecedores.
+      ❑ Note que é o documento resultante da primeira etapa do processo de compras que
+        estudamos anteriormente, que consiste na determinação do que deve ser comprado,
+        quanto e quando, de acordo com as técnicas utilizadas pela área de controle de
+        estoques.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Solicitações de Compras
+       Autoriza o comprador. É diferente do Pedido!!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FCC/ALAP/Assistente Legislativo/2020) No ciclo de compras convencional de uma
+     organização, as “requisições de compras” têm início com o
+     a) acompanhamento do pedido de compras e o recebimento dos itens no almoxarifado.
+     b) fornecedor e o distribuidor do item.
+     c) departamento financeiro e a aprovação da fatura do fornecedor.
+     d) departamento de compras concomitantemente à emissão do pedido de compras.
+     e) departamento ou a pessoa que será o usuário final do item.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FCC/ALAP/Assistente Legislativo/2020) No ciclo de compras convencional de uma
+     organização, as “requisições de compras” têm início com o
+     a) acompanhamento do pedido de compras e o recebimento dos itens no almoxarifado.
+     b) fornecedor e o distribuidor do item.
+     c) departamento financeiro e a aprovação da fatura do fornecedor.
+     d) departamento de compras concomitantemente à emissão do pedido de compras.
+     e) departamento ou a pessoa que será o usuário final do item.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Coleta de Preços
+       Cotação junto a diferentes fornecedores
+
+       ❑ A partir do recebimento da requisição ou solicitação de compras, a área responsável
+         já deve começar a atividade de coleta de preços.
+       ❑ A chamada cotação é o registro do preço obtido da oferta de diversos fornecedores
+         em relação ao material cuja compra foi solicitada.
+       ❑ Ao se fazer uma cotação de preços de determinado equipamento ou produto, os
+         potenciais fornecedores enviam propostas de fornecimento, que informam preço,
+         prazo, reajustes e uma série de condições gerais que estabelecem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/CRQ 2/Auxiliar Administrativo/2015) De posse da primeira via da solicitação ou
+     requisição de compra, o serviço de compras efetuará ________.
+     a) a identificação do requisitante por carimbo e assinatura, o registro da data da
+     solicitação e a justificativa da solicitação de aquisição.
+     b) a coleta de preços emitida em duas vias, sendo a primeira encaminhada ao fornecedor
+     e a segunda para o controle do serviço.
+     c) a impressão de 2ª via do pedido, o arquivamento da ordem de compra para controle
+     interno e a efetuação do pagamento dentro do prazo homologado.
+     d) o resumo da coleta de preços com a localização do fornecedor, os dados do
+     departamento solicitante e a identificação e assinatura do gerente geral.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/CRQ 2/Auxiliar Administrativo/2015) De posse da primeira via da solicitação ou
+     requisição de compra, o serviço de compras efetuará ________.
+     a) a identificação do requisitante por carimbo e assinatura, o registro da data da
+     solicitação e a justificativa da solicitação de aquisição.
+     b) a coleta de preços emitida em duas vias, sendo a primeira encaminhada ao fornecedor
+     e a segunda para o controle do serviço.
+     c) a impressão de 2ª via do pedido, o arquivamento da ordem de compra para controle
+     interno e a efetuação do pagamento dentro do prazo homologado.
+     d) o resumo da coleta de preços com a localização do fornecedor, os dados do
+     departamento solicitante e a identificação e assinatura do gerente geral.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Pedido de Compra
+       Valor de contrato entre fornecedor e comprador, seguido pelo
+       acompanhamento (follow-up) da entrega
+
+       ❑ O pedido de compra é um contrato formal entre o comprador e o fornecedor, representando
+         fielmente todas as condições da transação estabelecida.
+
+       ❑ Qualquer alteração em relação ao disposto no documento deve ser objeto de discussão e acordo
+         posterior pois o pedido de compra tem força de contrato e sua aceitação implica no atendimento
+         pelo fornecedor de todas as condições impostas pelo comprador como; quantidade, qualidade,
+         frequência e local de entrega, preços e prazos.
+
+       ❑ Veja a seguir o modelo de um pedido de compra e cuidado para não confundi-lo com os
+         documentos que já estudamos até agora, sobretudo a solicitação (ou requisição) de compra que é
+         o documento que autoriza o comprador a iniciar o processo de compra junto ao fornecedor o
+         que, por sua vez, gera aí sim o pedido de compra que estamos aqui discutindo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Pedido de Compra
+       Valor de contrato entre fornecedor e comprador
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Otimização das Compras
+       Qualidade – Definição do nível desejado
+        Qualidade, preço, custo e condições de compra e negociação são fatores que devem ser levados em
+        consideração pelo profissional responsável pelo processo de compras na busca da maximização do
+        emprego de recursos ao longo da cadeia de valor e incremento do nível de eficiência.
+
+       ❑ O nível de qualidade a ser alcançado ou mantido depende de fatores internos e externos:
+       ✓ Fatores internos: condições materiais, instalações, matéria prima, pessoal e quais os custos para atingir ou
+         manter determinado nível de qualidade (relação custo-benefício). Sob essa perspectiva a medida de
+         confiabilidade de um produto em relação as suas especificações é a sua qualidade.
+       ✓ Fatores externos: essa dimensão avalia a expectativa do consumidor / usuário. Qual o seu desejo?
+         Existem imposições legais ou exigências de determinado mercado? Esses fatores afetam a percepção da
+         qualidade independentemente das características intrínsecas do produto.
+       ❑ Com base na análise dessas duas dimensões a organização vai determinar qual o nível de qualidade que
+         planeja atingir e como manter esse nível ao longo do tempo, o que será feito pela área de Controle de
+         Qualidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Otimização das Compras
+       Qualidade – Processo de Inspeção
+
+       ❑ Entre os controles estabelecidos pela área de Controle de Qualidade temos alguns
+         diretamente relacionados ao processo de compra, como as inspeções de matéria
+         prima ou de recebimento.
+       ❑ A inspeção de recebimento, também conhecida por conferência qualitativa (ou
+         mesmo quantitativa quando apenas o volume entregue é checado) ocorre antes ou
+         no momento do recebimento do material adquirido.
+       ❑ Logo após a checagem quantitativa, a organização vai conferir se as especificações
+         do que foi entregue estão de acordo com o que foi contratado. O objetivo é garantir
+         a adequação do material ao fim a que se destina e, portanto, a qualidade de todo o
+         processo.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Otimização das Compras
+       Qualidade – Processo de Inspeção
+
+       ❑ A análise de qualidade efetuada pela inspeção técnica, por meio da confrontação das condições
+         contratadas na autorização de fornecimento com as consignadas na nota fiscal do fornecedor,
+         visa garantir o recebimento adequado do material contratado pelo exame dos seguintes itens:
+
+       ✓ Características dimensionais (medidas, por exemplo)
+
+       ✓ Características específicas (outras: acabamento, detalhes)
+
+       ✓ Restrições de especificações (outras especificações e tolerâncias)
+       ❑ A inspeção pode ser feita ao longo de diferentes etapas (definidas pelo comprador e variando de
+         acordo com o fornecedor ou com a criticidade do material adquirido):
+
+
+        ✓     Acompanhamento ao longo do processo de fabricação
+        ✓     Inspeção do produto acabado ainda no fornecedor
+        ✓     Inspeção do material adquirido no recebimento
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Otimização das Compras
+       Preço e Custo
+
+       ❑ Considerando que grande parte do custo total de uma empresa transformadora está
+         nos custos de sua matéria prima, é fundamental que esse tipo de organização seja
+         capaz de estabelecer técnicas robustas de gerenciamento que a permitam manter
+         um adequado controle sobre o preço de produtos comprados, já que o impacto
+         sobre o lucro e a rentabilidade da empresa são bastante significativos.
+       ❑ Nesse cenário é recomendável que a organização execute análises completas dos
+         produtos e materiais que são adquiridos constantemente e representam importante
+         impacto no volume total de compras da organização (lembra-se da curva ABC?).
+       ❑ Esses itens devem ter seus preços objetivos coletados minuciosamente, fornecendo
+         ao comprador meios adequados à condução de suas negociações.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Otimização das Compras
+       Preço e Custo
+
+       ❑ A partir daí o controle será feito por meio da comparação entre preços objetivos
+         desejados , ou suas variações, com os preços negociados.
+       ❑ Alguns caminhos para se buscar a redução de custos no fornecimento de materiais
+         são:
+       ✓ Negociação pura que resulte na redução do preço pago.
+       ✓ Novo fornecedor que entregue o mesmo material por preço mais baixo.
+       ✓ Aumento de volume do pedido, resultando em redução de preço unitário.
+       ✓ Dilatação dos prazos de pagamento sem acréscimo proporcional de juros.
+       ✓ Variação de marcas ou migração para similares.
+       ✓ Negociação de condições de entrega visando inclusão da entrega no comprador.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/SUDENE/Agente Administrativo/2013) A função compras deve buscar um substancial
+     sistema de _____ de custos, por meio de _____ de preços, na busca de materiais
+     alternativos e de novos _____.
+     a) apropriação – análise – parceiros.
+     b) controle – análise – fornecedores.
+     c) redução – negociações – fornecedores.
+     d) aumento – negociações – parceiros.
+     e) apropriação – procura – fornecedores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/SUDENE/Agente Administrativo/2013) A função compras deve buscar um substancial
+     sistema de _____ de custos, por meio de _____ de preços, na busca de materiais
+     alternativos e de novos _____.
+     a) apropriação – análise – parceiros.
+     b) controle – análise – fornecedores.
+     c) redução – negociações – fornecedores.
+     d) aumento – negociações – parceiros.
+     e) apropriação – procura – fornecedores.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Otimização das Compras
+       Condições e Negociação
+
+       ❑ Ao longo do processo de negociação é importante que o comprador enderece e busque negociar
+         alguns alvos que podem potencialmente influenciar o custo final do material adquirido:
+
+       ❑ Prazos: embora a definição dos prazos para a disponibilização dos materiais adquiridos não seja
+         competência da área de compras, é dela a responsabilidade de cumprir à risca os prazos
+         estipulados em conjunto pelos departamentos de venda, produção e finanças, que resultam no
+         Planejamento e Controle da Produção, que alimenta a área de compras para a execução da sua
+         atividade.
+
+       ❑ Frete: analisar o padrão oferecido pelo fornecedor (especialmente quando o valor do frete está
+         incluso no preço final do produto adquirido - CIF) é importante, incluindo aí a possibilidade de
+         buscar modalidades de transporte alternativas ou mais baratas do que as oferecidas pelo
+         vendedor.
+
+       ❑ Condições de pagamento e descontos: descontos e condições especiais de pagamento podem
+         ser obtidos por meio de negociação de volumes, extensão de prazos, etc.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CFBio/Agente Administrativo/2018) Uma compra antecipada ou em maior
+     quantidade de estoques pode justificar‐se em função de preços mais baixos ou de
+     obtenção de descontos.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CFBio/Agente Administrativo/2018) Uma compra antecipada ou em maior
+     quantidade de estoques pode justificar‐se em função de preços mais baixos ou de
+     obtenção de descontos.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CERTO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,144 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 12_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '12'
+titulo_aula: RESUMO
+---
+
+# RESUMO
+
+RESUMO
+Trata-se de saber qual a preposição certa exigida por um verbo ou nome. A banca gosta de cobrar aqueles
+verbos que têm dois sentidos, a depender da preposição:
+
+      Visar               Implicar                Precisar                Assistir               Aspirar
+
+
+     Rubricar: VTD        Resultar: VTD           Precisão: VTD           Ajudar: VTD           Sorver: VTD
+
+    Almejar: VTI           Irritar: VTI                                                         Almejar: VTI
+                                                  Necessidade:             Morar: VI
+        (a)                   (com)                                                                 (a)
+                                                    VTI (de)
+
+                                                                          Presenciar: VTI
+                                                                                (a)
+
+                                                                          Caber: VTI (a)
+
+
+                     Informar /                                                                    Ir, chegar,
+                                          Esquecer /       Referir-se /
+   Preferir            avisar /                                                 Chamar                voltar,
+                                           lembrar           Aludir
+                     comunicar                                                                    comparecer
+    Escolher:          São VTDI              VTD sem          VTI (a)             Invocar            Regra:
+       VTI            pedem um              pronome:                             ajuda: VTI         VI (+ADJ
+                      OD e um OI             lembrar /                              (por)             ADV
+                                                                 Seu
+     Preferir                               esquecer o                                               Lugar)
+                                               tema           sinônimo          Convocar/
+    uma coisa         Preposição:                            "mencionar         Convidar:
+     A outra          a/de/sobre                               " é VTD            VTD               Preposição
+                                              VTI com
+                                             pronome:                                                "a". Não
+       Não                                                   Presenciar:          Nomear/            admitem
+                                           lembrar/esqu
+     admite:                                ecer ME DO         VTI (a)            Designar             "em"
+      prefiro                                                                    VTD ou VTI
+                                               tema
+    mais/menos                                               Caber: VTI
+                                              Ou vem            (a)             Há predicativo      Já foram
+                                               com                               do objeto:         cobrados
+                                            PRONOME                             Chamou o/ao           como
+                                             + DE, ou                             moço de              VTI
+                                             sem nada                                  ladrão
+
+Regência com pronomes relativos:
+              Comparecemos A + a reunião> A reunião A QUE comparecemos foi produtiva.
+
+                                  
+
+
+---
+
+Na segunda lacuna, temos que pensar no verbo Chegar. Quem chega chega “a” algum lugar, então, o
+pronome relativo que retoma esse lugar deve vir acompanhado da preposição “a”.
+                          Chegamos A + o lugar> O lugar A QUE chegamos era lindo.
+
+
+                                A reunião À QUAL comparecemos foi produtiva.
+                                 O lugar AO QUAL/AONDE chegamos era lindo.
+
+
+                              (“a qual” já tem um “a” embutido, por isso há crase)
+Crase é o fenômeno de fusão sonora, marcado pelo acento grave.
+       Aludi ( a ) + ( as ) crianças                    Aludi às crianças.
+O caso que nos interessa é a crase na contração da preposição “a” com artigos femininos ou com o “a”
+em alguns pronomes demonstrativos e relativos:
+       Ex.: Assisti ao jogo. (assistir “a” + “o” jogo = ao)
+       Ex.: Assisti à novela. (assistir “a” + “a” novela = à)
+       Ex.: Estou visando a este cargo. (visar “a” + Este)
+       Ex.: Estou visando àquele cargo. (visar “a” + aquele = àquele)
+       Ex.: Estou visando à remuneração. (visar “a” + “a” remuneração = à)
+       Ex.: Esse é o livro ao qual me referi. (se referir “a” + “o” qual – livro)
+       Ex.: Essa é a apostila à qual me referi. (se referir “a” + “a” qual – apostila)
+Principais locuções femininas: à medida que, à proporção que, à toa, à noite, à tarde, às vezes, às pressas,
+à vista, à primeira vista, àquela hora, à direita, à vontade, às avessas, às escuras, às escondidas, à míngua,
+à venda, à mão armada, à beça, à tinta, à máquina, à caneta, à foice, à chave, à revelia, à deriva, à uma
+hora, à altura de, à custa de, à espera de, à beira de, à espreita de, à base de, à moda de, à procura de, à
+roda de, à mercê de, à semelhança de... (obs.: “a máquina” já foi dado como certo)
+
+                                                   Preposição a+a
+                              Locuções                do artigo              Preposição a+
+                            Femininas (à              feminino
+                                                                             a de/que ("a"
+                           toa; à deriva; à
+                                                                            pron.demonst.);
+                               espera)
+                                                                            aquele; a qual(s)
+
+                                                       Crase
+                                                     Obrigatória
+
+                                       
+
+
+---
+
+                     Palavra em
+                       sentido
+  Antes de            genérico,             Entre palavras
+ Masculino,          indefinido               repetidas
+verbo, "uma"                                    após
+   e Pron.                                   preposição
+   Tratam.
+
+                        Crase
+                       Proibida
+
+                         Até a
+
+                                             antes de
+     antes de
+                                            Possessivos
+   nome próprio
+                                             adjetivos
+
+
+                        Crase
+                      Facultativa
+
+       
+
+
+---

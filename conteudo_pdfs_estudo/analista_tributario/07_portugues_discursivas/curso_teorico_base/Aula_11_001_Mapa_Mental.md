@@ -1,0 +1,382 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 11_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '11'
+titulo_aula: CONCORDÂNCIA VERBAL - REGRA GERAL
+---
+
+# CONCORDÂNCIA VERBAL - REGRA GERAL
+
+CONCORDÂNCIA VERBAL - REGRA GERAL
+                                               O VERBO CONCORDA COM O SUJEITO EM NÚMERO (SINGULAR OU PLURAL) E PESSOA (1ª, 2ª OU 3ª).
+
+ CONCORDÂNCIA VERBAL - COM SUJEITO SIMPLES
+                                                                                              SUJEITO QUE POSSUI UM SÓ NÚCLEO – UM NOME OU PRONOME.
+
+     EX: O RUÍDO DOS CAMINHÕES E DAS MÁQUINAS PERTURBA A COMUNIDADE LOCAL. (NÚCLEO DO SUJEITO SIMPLES NO SINGULAR; VERBO NO SINGULAR).
+
+
+  CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES:                                                                               EXISTEM DUAS REGRAS DE
+                                                                                                                              CONCORDÂNCIA
+  SUBSTANTIVOS COLETIVOS OU PARTITIVOS ESPECIFICADOS.                                                                         (FACULTATIVAS)
+
+O VERBO CONCORDA COM O NÚCLEO DO SUJEITO (PARTE).
+
+     EX: A MATILHA DE LOBOS ATRAVESSOU A MONTANHA. (SUBSTANTIVO COLETIVO NO SINGULAR; VERBO NO SINGULAR).
+     EX: A METADE DOS SERVIDORES PÚBLICOS ENTROU EM GREVE. (SUBSTANTIVO PARTITIVO NO SINGULAR; VERBO NO SINGULAR).
+
+O VERBO CONCORDA COM O DETERMINANTE (ADJUNTO ADNOMINAL).
+
+     EX: A MATILHA DE LOBOS ATRAVESSARAM A MONTANHA. (NÚCLEO DO DETERMINANTE NO PLURAL – “LOBOS”; VERBO NO PLURAL).
+     EX: A METADE DOS SERVIDORES PÚBLICOS ENTRARAM EM GREVE. (NÚCLEO DO DETERMINANTE NO PLURAL – “SERVIDORES”; VERBO NO PLURAL).
+
+
+                                                                                                                                        PORTUGUÊS
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+      CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: NUMERAIS DETERMINADOS EM GERAL
+PORCENTAGENS: A CONCORDÂNCIA É FEITA COM A PRÓPRIA PORCENTAGEM OU COM O DETERMINANTE.
+     EX: 80% DA POPULAÇÃO SÃO ALFABETIZADOS. (CONCORDÂNCIA COM PORCENTAGEM “80”).
+     EX: 80% DA POPULAÇÃO É ALFABETIZADA. (CONCORDÂNCIA COM O DETERMINANTE “DA POPULAÇÃO”).
+
+
+NUMERAIS DECIMAIS: A CONCORDÂNCIA É FEITA COM A PARTE INTEIRA OU COM O DETERMINANTE.
+     EX: 1,4% DAS PESSOAS É DE CLASSE MÉDIA. (CONCORDÂNCIA COM A PARTE INTEIRA “1”).
+     EX: 1,4% DAS PESSOAS SÃO DE CLASSE MÉDIA. (CONCORDÂNCIA COM O DETERMINANTE “DAS PESSOAS”).
+
+     SE O NUMERAL DECIMAL FOR NÃO DETERMINADO, TEREMOS A CONCORDÂNCIA OBRIGATÓRIA NO PLURAL SOMENTE A PARTIR DO NÚMERO DOIS.
+
+     ATENÇÃO! SE VIER ARTIGO OU PRONOME ANTES DO NUMERAL, A CONCORDÂNCIA SERÁ NECESSARIAMENTE FEITA COM ESSE ARTIGO OU PRONOME.
+
+NUMERAIS FRACIONÁRIOS: CONCORDÂNCIA É FEITA COM O NUMERADOR DA FRAÇÃO.
+
+     EX: UM QUINTO DOS HOMENS ERA DE COR ESCURA. (VERBO NO SINGULAR CONCORDANDO COM O NUMERADOR “1”).
+
+MILHÃO, BILHÃO, TRILHÃO (E ETC.): A CONCORDÂNCIA É FEITA COM O NÚCLEO DO SUJEITO OU COM O DETERMINANTE.
+
+     EX: 1 MILHÃO DE TORCEDORES ASSISTIU À COPA DO MUNDO. (CONCORDÂNCIA COM “MILHÃO”).
+     EX: 1 MILHÃO DE TORCEDORES ASSISTIRAM À COPA DO MUNDO. (CONCORDÂNCIA COM TORCEDORES).
+
+     ATENÇÃO! MILHÕES, BILHÕES E MILHARES SÃO USADOS COMO SUBSTANTIVOS MASCULINOS.
+
+MAIS DE UM, MENOS DE DOIS, CERCA DE, MENOS DE + NUMERAL: CONCORDÂNCIA OBRIGATÓRIA COM O NUMERAL.
+
+     EX: MAIS DE UM CLIENTE SE QUEIXOU; MENOS DE DOIS CLIENTES SE QUEIXARAM.
+                                                                                                                               PORTUGUÊS
+                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES:
+                               VERBOS TER, VIR, VER E DERIVADOS (MANTER, DETER, ENTRETER, ADVIR, PROVIR, REVER).
+
+                                                                                           PRESENTE DO INDICATIVO
+                                                          VERBOS                                    3ª PESSOA SINGULAR   3ª PESSOA PLURAL
+                                                           TER                                             TEM                 TÊM
+                                                           VIR                                             VEM                 VÊM
+                                                          MANTER                                          MANTÉM             MANTÊM
+                                                          ADVIR                                           ADVÉM              ADVÊM
+                                                           VER                                              VÊ                VEEM
+                                                          REVER                                            REVÊ              REVEEM
+
+        CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: VERBOS HAVER, EXISTIR E EQUIVALENTES
+
+HAVER, COM SENTIDO DE EXISTIR, É VERBO IMPESSOAL – NÃO TEM SUJEITO (POSSUI APENAS OBJETO DIRETO) E PERMANECE SEMPRE NA TERCEIRA PESSOA DO SINGULAR (É INVARIÁVEL).
+
+      EX: HOUVE VÁRIOS INCIDENTES ESTRANHOS NO EVENTO. (VERBO NA 3ª PESSOA DO SINGULAR DO PRET. PERF.; OBJETO DIRETO).
+
+
+ ATENÇÃO!    VERBOS   QUE    INDICAM   FENÔMENOS     DA       EX: CHOVEU TORRENCIALMENTE NAS ÚLTIMAS NOITES.(FENÔMENO DA NATUREZA).
+ NATUREZA E PASSAGEM DE TEMPO TAMBÉM SÃO INVARIÁVEIS.         EX: FAZ DOIS ANOS QUE TERMINEI A GRADUAÇÃO.(“FAZER” INDICANDO TEMPO DECORRIDO - “FAZEM 2 ANOS”).
+
+
+EXISTIR É VERBO PESSOAL – TEM SUJEITO E SE FLEXIONA PARA CONCORDAR EM NÚMERO E PESSOA COM ELE.
+
+      EX: EXISTEM PESSOAS QUE SÓ DIZEM NÃO. (VERBO NA 3ª PESSOA DO PLURAL DO PRES.; SUJEITO).
+                                                                                                                                              PORTUGUÊS
+                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+               EXISTEM DUAS REGRAS DE              CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: PRONOME QUE
+            CONCORDÂNCIA (FACULTATIVAS),
+            DESDE QUE O SENTIDO PERMITA:            + NÚCLEO DO SUJEITO NO SINGULAR + NÚCLEO DO ADJUNTO NO PLURAL
+
+O VERBO CONCORDA COM O NÚCLEO DO SUJEITO NO SINGULAR.       EX: NÃO SOU UM DAQUELES QUE PENSA NA MORTE. (NÚCLEO DO SUJEITO NO SINGULAR; VERBO NO SINGULAR).
+
+O VERBO CONCORDA COM O NÚCLEO DO ADJUNTO NO PLURAL.         EX: NÃO SOU UM DAQUELES QUE PENSAM NA MORTE. (NÚCLEO DO ADJUNTO NO PLURAL; VERBO NO PLURAL).
+
+
+                  CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: PRONOMES QUE E QUEM
+QUE: O VERBO DEVE CONCORDAR COM SEU ANTECEDENTE.         EX: TODOS AQUELES QUE ESTUDARAM LÁ FORAM APROVADOS.(ANTECEDENTE NO PLURAL; VERBO NO PLURAL).
+
+                REGRA PREFERENCIAL: O VERBO CONCORDA COM O
+                                                                                    EX: FOMOS NÓS QUEM CONVIDOU VOCÊ PARA A REUNIÃO.
+                PRÓPRIO “QUEM”, FICANDO NA 3º PESSOA DO SINGULAR.
+ QUEM
+                REGRA POSSÍVEL: O VERBO PODE CONCORDAR COM O
+                ANTECEDENTE “QUEM”, FICANDO NA 3º PESSOA DO PLURAL.                 EX: FOMOS NÓS QUEM CONVIDAMOS VOCÊ PARA A REUNIÃO.
+
+
+ PREDICATIVO DO SUJEITO: EXISTEM DUAS REGRAS DE CONCORDÂNCIA (FACULTATIVAS):
+                                                                                                                      CONCORDÂNCIA VERBAL
+                        O VERBO CONCORDA COM O SUJEITO.                                                                COM SUJEITO SIMPLES:
+    EX: FUI EU O ÚLTIMO QUE CONSEGUI A VAGA.                                                                               PREDICATIVOS
+                                   O VERBO CONCORDA COM O PREDICATIVO.
+
+     EX: FUI EU O ÚLTIMO QUE CONSEGUIU A VAGA.
+
+PREDICATIVO DO OBJETO: A CONCORDÂNCIA É FEITA NORMALMENTE COM O OBJETO.
+                                                                                                                                              PORTUGUÊS
+     EX: ACHEI AS AULAS BOAS.(VERBO TRANSITIVO DIRETO; OBJETO DIRETO; PREDICATIVO).                                                      ESTRATÉGIA CONCURSOS
+                                                                   
+
+
+---
+
+                                                                                                               CONCORDÂNCIA VERBAL
+        CASO DAS ORAÇÕES SUBORDINADAS SUBSTANTIVAS SUBJETIVAS: EXERCEM A FUNÇÃO DE SUJEITO E
+        SÃO SUBSTITUÍVEIS PELO PRONOME ISTO. SÃO INTRODUZIDAS PELAS CONJUNÇÕES “QUE” E “SE”.
+                                                                                                                COM SUJEITO SIMPLES:
+                                                                                                                  SUJEITO ORACIONAL
+  ATENÇÃO! COM O SUJEITO ORACIONAL, O VERBO DA ORAÇÃO PRINCIPAL PERMANECERÁ SEMPRE NO SINGULAR.
+
+                    EX: CONVÉM QUE DIGAS A VERDADE AO ADVOGADO. (CONVÉM ISTO).
+
+
+ CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: SUJEITO PACIENTE
+                                                  EX: CASAS SÃO VENDIDAS NO GRAJAÚ. (VOZ PASSIVA ANALÍTICA).
+O VERBO CONCORDA COM O SUJEITO PACIENTE.
+                                                  EX: VENDEM-SE CASAS NO GRAJAÚ. (VOZ PASSIVA SINTÉTICA).
+
+              CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: LOCUÇÃO VERBAL
+(VERBO AUXILIAR + VERBO PRINCIPAL NA FORMA NOMINAL – INFINITIVO, GERÚNDIO OU PARTICÍPIO).
+
+       REGRA: O VERBO AUXILIAR SE FLEXIONA E O VERBO PRINCIPAL FICA INVARIÁVEL, NO SINGULAR.
+            EX: DEVEM EXISTIR VÁRIAS SOLUÇÕES PARA ESSE PROBLEMA. (“DEVEM” = VERBO AUXILIAR).
+
+       EXCEÇÃO: VERBO PRINCIPAL “HAVER” (COM SENTIDO DE EXISTIR) “CONTAMINA” A CONCORDÂNCIA DO VERBO AUXILIAR E, POR ISSO, AMBOS FICAM INVARIÁVEIS.
+            EX: DEVE HAVER VÁRIAS SOLUÇÕES PARA ESSE PROBLEMA.
+
+            ATENÇÃO! A EXPRESSÃO “TRATAR-SE DE” TEM SUJEITO INDETERMINADO. POR ISSO, FICA INVARIÁVEL.
+                                                                                                                                        PORTUGUÊS
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+        CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: NOMES PRÓPRIOS NO PLURAL.
+
+SE HOUVER ARTIGO, A CONCORDÂNCIA DO VERBO SEGUE O ARTIGO E FICA NO PLURAL.                    EX: OS ESTADOS UNIDOS DECLARARAM GUERRA AO TERROR.
+
+SE NÃO HOUVER ARTIGO, VERBO FICA NO SINGULAR.      EX: ESTADOS UNIDOS DECLAROU GUERRA AO TERROR.
+
+         CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: PRONOMES DE TRATAMENTO.
+
+O VERBO CONCORDA COM A TERCEIRA PESSOA, SEGUINDO O PADRÃO DO PRONOME “VOCÊ”.                         EX: VOSSA EXCELÊNCIA PERDEU SUA CARTEIRA?
+
+
+DICA! O ADJETIVO CONCORDA COM O SEXO DA PESSOA A QUE SE REFERE O TRATAMENTO.                      EX: SENADOR, VOSSA SENHORIA ESTÁ CANSADO!
+
+                     CONCORDÂNCIA VERBAL COM SUJEITO SIMPLES: INFINITIVOS
+
+INFINITIVO PESSOAL: VERBO DEVE SER FLEXIONADO PARA CONCORDAR COM O SUJEITO EXPLÍCITO.
+
+     EX: FAÇO ISSO PARA ELES NÃO ME JULGAREM UM FRACASSADO. (VERBO “JULGAREM” CONCORDA COM O PRONOME “ELES”).
+
+INFINITIVO IMPESSOAL: VERBO NÃO SE FLEXIONA, POIS O SUJEITO NÃO É EXPLÍCITO.
+
+     EX: VIVER É PERIGOSO. (QUEM VIVE? O AGENTE É INDETERMINADO).
+                                                                                                                                             PORTUGUÊS
+                                                                                                      ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                              CONCORDÂNCIA VERBAL COM SUJEITO
+      A CONCORDÂNCIA É FEITA NA 3ª PESSOA DO PLURAL (ELES).
+                                                                           COMPOSTO: SUJEITO QUE POSSUI MAIS DE UM NÚCLEO.
+            EX: JOÃO E MARIA CORRERAM NO PARQUE.
+
+        CONCORDÂNCIA VERBAL COM SUJEITO COMPOSTO: SUJEITO POSPOSTO AO VERBO.
+
+                                                              ATRATIVA: O VERBO CONCORDA COM O NÚCLEO MAIS PRÓXIMO.
+                                                                        EX: MORREU A PLANTA E A FLOR.
+EXISTEM DUAS REGRAS DE CONCORDÂNCIA (FACULTATIVAS):
+                                                                        EX: MORRERAM AS PLANTAS E A FLOR.
+
+                                                              GRAMATICAL: O VERBO CONCORDA COM O TOTAL.                      EX: MORRERAM A PLANTA E AS FLORES.
+
+
+  CONCORDÂNCIA VERBAL COM SUJEITO COMPOSTO: NÚCLEOS UNIDOS POR COORDENAÇÃO
+NÚCLEO COM PALAVRAS SINÔNIMAS, PALAVRAS EM GRADAÇÃO OU EXPRESSÕES COMO “BEM COMO”, “ASSIM COMO” E “NÃO SÓ...COMO/MAS TAMBÉM” – A
+CONCORDÂNCIA PODE SER:
+                                 ATRATIVA            EX: CARINHO E AFETO É ESSENCIAL AO CASAMENTO.
+
+                                     GRAMATICAL                 EX: CARINHO E AFETO SÃO ESSENCIAIS AO CASAMENTO.
+
+NÚCLEO COM INFINITIVOS: VERBO FICA NA 3ª PESSOA DO PLURAL.       EX: GASTAR OU POUPAR SE ALTERNAM EM MINHAS PRIORIDADES.
+
+ATENÇÃO! INFINITIVOS QUE NÃO SÃO ANTÔNIMOS E FORMAM O SUJEITO ORACIONAL, A CONCORDÂNCIA É NO SINGULAR.
+
+      EX: COMER, REZAR E AMAR SE TORNOU MEU LEMA.                                                  EX: EU COM MEU AMIGO INSTALAMOS O ROTEADOR.
+                                                                                                           (VERBO NA 1ª PESSOA DO PLURAL).
+PREPOSIÇÃO “COM” TENDO SENTIDO ADITIVO (= ”E”): CONCORDÂNCIA FEITA NO PLURAL.
+                                                                                                                                                PORTUGUÊS
+                                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                  CONCORDÂNCIA VERBAL COM SUJEITO COMPOSTO:
+                                                                              VERBOS RECÍPROCOS.
+
+NÚCLEOS DO SUJEITO PRATICAM E, AO MESMO TEMPO, SOFREM A AÇÃO VERBAL: VERBO SE FLEXIONA PARA O PLURAL.
+
+      EX: ABRAÇARAM-SE O LEÃO E O CORDEIRO.
+
+      CONCORDÂNCIA VERBAL COM SUJEITO COMPOSTO: FORMADO POR PESSOAS DIFERENTES.
+
+QUANDO HOUVER A PRESENÇA DA 1 ª PESSOA DO SINGULAR (EU) ENTRE OS NÚCLEOS: VERBO FICA NA 1 ª PESSOA DO PLURAL (PARA CONCORDAR SEMANTICAMENTE COM O “NÓS”).
+
+      EX: A DIREÇÃO DA EMPRESA E EU DECIDIMOS AFASTAR O DIRETOR FINANCEIRO.
+
+
+QUANDO NÃO HOUVER A PRESENÇA DA 1 ª PESSOA DO SINGULAR ENTRE OS NÚCLEOS: A CONCORDÂNCIA PODE SER COM A 2 ª OU A 3 ª PESSOA DO PLURAL (VÓS OU ELES).
+
+      EX: TU E ELE SEREIS APROVADOS. (“VÓS SEREIS APROVADOS”).
+
+
+      EX: TU E ELE SERÃO APROVADOS. (“VOCÊS SERÃO APROVADOS”).
+
+                                                                                                                                       PORTUGUÊS
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                      CONCORDÂNCIA VERBAL COM SUJEITO COMPOSTO: CONJUNÇÃO “OU”.
+                                                                                                     EX: O ARQUITETO OU O ENGENHEIRO SABERÃO CONSERTAR ISSO.
+                                                                                                     (AMBOS SABERÃO).
+“OU” ADITIVO, INCLUSIVO OU UNINDO PALAVRAS ANTÔNIMAS: VERBO VAI AO PLURAL.
+                                                                                                     DICA! ESSA REGRA VALE TAMBÉM PARA O “NEM” ANTEPOSTO AO VERBO.
+
+“OU” EXCLUDENTE, FAZENDO UMA RETIFICAÇÃO OU UNINDO PALAVRAS SINÔNIMAS: VERBO FICA NO SINGULAR, JÁ QUE SÓ TEREMOS UM NÚCLEO PRATICANDO A AÇÃO.
+
+     EX: OU O CONSERVADOR OU O RADICAL SERÁ ELEITO PRESIDENTE. (SÓ UM SERÁ).
+
+
+                                                                                                                         SUJEITO E PREDICATIVO DO SUJEITO COM
+    CONCORDÂNCIA VERBAL COM O VERBO “SER”                                                                                     NÚMERO E PESSOA DIFERENTES
+
+
+COM PRONOMES RETOS E SUJEITO “PESSOA”: O VERBO CONCORDA NORMALMENTE COM O SUJEITO.
+
+            EX: VANDERCLEVERSON É PREJUÍZOS MENSAIS GARANTIDOS. (SUJEITO; VERBO NA 3ª PES. DO SINGULAR PARA CONCORDAR COM O SUJEITO; PREDICATIVO).
+
+SUJEITO E PREDICATIVO FOREM PERSONATIVOS: VERBO PODERÁ CONCORDAR COM O SUJEITO OU COM PREDICATIVO.
+
+EX: VANDERCLEVERSON É MUITOS PERSONAGENS AO MESMO TEMPO. (SUJEITO; VERBO NA 3ª PES. DO SINGULAR PARA CONCORDAR COM O SUJEITO; PREDICATIVO).
+EX: VANDERCLEVERSON SÃO MUITOS PERSONAGENS AO MESMO TEMPO. (SUJEITO; VERBO NA 3ª PES. DO PLURAL PARA CONCORDAR COM O PREDICATIVO; PREDICATIVO).
+
+PRONOMES TUDO, NADA, ISSO, AQUILO OU SUJEITO “COISA”: VERBO PODERÁ CONCORDAR COM O SUJEITO OU COM PREDICATIVO (PREFERÊNCIA).
+
+EX: NEM TUDO É ALEGRIAS. (VERBO NA 3ª PES. DO SINGULAR PARA CONCORDAR COM O SUJEITO).
+EX: NEM TUDO SÃO ALEGRIAS. (VERBO NA 3ª PES. DO PLURAL PARA CONCORDAR COM O PREDICATIVO).
+
+                                                                                                                                                       PORTUGUÊS
+                                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                      CONCORDÂNCIA VERBAL COM O VERBO “SER”
+
+
+PRONOMES INTERROGATIVOS “QUE” OU “QUEM” COMO SUJEITO: O VERBO CONCORDA COM O PREDICATIVO.
+
+     EX: QUE SÃO ATIVOS IMOBILIZADOS?; EX: QUEM FORAM OS VIKINGS?
+
+TEMPO E DISTÂNCIA: O VERBO CONCORDA COM O PREDICATIVO.                                      EX: ESTÁ QUENTE HOJE; EX: ACORDA, SÃO 9 HORAS!
+
+  QUANTIDADE OU DISTÂNCIA INDICADOS COM PALAVRAS COMO “TUDO”, “NADA”, “MUITO”, “POUCO”,
+        “MAIS”, “MENOS”, “BASTANTE”, “SUFICIENTE”: O VERBO CONCORDA NO SINGULAR.
+
+     EX: CEM DIAS É SUFICIENTE PARA LER ISSO, 300 DIAS É MUITO.
+
+DATAS: EXISTEM DUAS REGRAS DE CONCORDÂNCIA (FACULTATIVAS).                                   EX: HOJE SÃO 10 DE MARÇO; EX: HOJE É 10 DE MARÇO.
+
+                                                                                                                                PORTUGUÊS
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                         CONCORDÂNCIA NOMINAL - REGRA GERAL: OS DETERMINANTES
+                                                                         DO SUBSTANTIVO DEVEM CONCORDAR COM ELE EM GÊNERO E NÚMERO.
+
+            EX: AQUELAS DUAS BELAS MULHERES SÃO CANDIDATAS A MISS UNIVERSO. (PRONOME; NUMERAL; ADJETIVO; SUBSTANTIVO; VERBO DE LIGAÇÃO; ADJETIVOS).
+
+
+              CONCORDÂNCIA NOMINAL: ADJETIVO SE REFERINDO A DOIS OU MAIS SUBSTANTIVOS.
+
+ADJETIVOS APÓS O SUBSTANTIVO - EXISTEM DUAS REGRAS DE CONCORDÂNCIA (FACULTATIVAS):
+
+        ATRATIVA             EX: TENHO ALUNOS E ALUNAS DEDICADAS. ADJETIVO CONCORDA COM O SUBSTANTIVO MAIS PRÓXIMO).
+
+        GRAMATICAL (OU TOTAL).              EX: TENHO ALUNOS E ALUNAS DEDICADOS. (ADJETIVO CONCORDA COM OS DOIS SUBSTANTIVOS).
+
+
+ADJETIVOS ANTES DO SUBSTANTIVO: A CONCORDÂNCIA DEVE SER OBRIGATORIAMENTE COM O TERMO MAIS PRÓXIMO (CONCORDÂNCIA ATRATIVA).
+
+     EX: CONSUMI BOA COMIDA, VINHOS E LIVROS.
+
+
+SE O ADJETIVO EXERCER A FUNÇÃO DE PREDICATIVO DO SUJEITO, SERÁ POSSÍVEL TANTO A CONCORDÂNCIA ATRATIVA QUANTO A GRAMATICAL.
+
+     EX: ESTAVAM ENFERRUJADAS AS FACAS E OS GARFOS. (ADJETIVO CONCORDA COM O SUBSTANTIVO MAIS PRÓXIMO).
+     EX: ESTAVAM ENFERRUJADOS AS FACAS E OS GARFOS. (ADJETIVO CONCORDA COM OS DOIS SUBSTANTIVOS).
+
+SE O ADJETIVO EXERCER A FUNÇÃO DE PREDICATIVO DO OBJETO, A CONCORDÂNCIA DEVERÁ SER GRAMATICAL (CONCORDAR COM AMBOS OS SUBSTANTIVOS).
+
+     EX: JULGOU CULPADOS A ESPOSA E O MARIDO.
+
+
+                                                                                                                                        PORTUGUÊS
+                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                 CONCORDÂNCIA NOMINAL
+
+                  ADJETIVOS X ADVÉRBIOS.
+
+
+ÀS VEZES, UMA MESMA PALAVRA PODE SER UM ADJETIVO OU UM ADVÉRBIO.
+                    DEPENDERÁ DO CONTEXTO.
+          ADJETIVOS                                             ADVÉRBIOS
+         SÃO VARIÁVEIS.                                       SÃO INVARIÁVEIS.
+     ESTAMOS SÓS (SOZINHOS).                                   JOÃO SÓ ESTUDA.
+  COMPREI MEIO METRO DE PEDRA.                               ANDO MEIO DESLIGADA.
+   ESTUDO BASTANTES MATÉRIAS.                                 ESTUDO BASTANTE.
+
+                                                                                         PORTUGUÊS
+                                                  ESTRATÉGIA CONCURSOS
+
+
+---

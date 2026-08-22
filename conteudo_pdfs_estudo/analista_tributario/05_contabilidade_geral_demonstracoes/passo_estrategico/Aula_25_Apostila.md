@@ -1,0 +1,616 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 25_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '25'
+titulo_aula: Passo Estratégico de Contabilidade
+artigos_citados:
+- art. 179
+---
+
+# Passo Estratégico de Contabilidade
+
+Aula 24
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+                                             19 de Maio de 2023
+
+---
+
+   Filipe Magalhães, Júlio Cardozo
+   Aula 24
+
+                                     SIMULADO DE FIXAÇÃO
+Pessoal, faz parte da nossa rotina de estudos aqui no Passo Estratégico a realização de simulados para fixação
+de conteúdo. É uma forma de verificarmos como está o nosso aprendizado e corrigirmos eventuais falhas!
+
+Nossa sugestão é que imprimam as questões, separem um local adequado e mandem ver! Tentem fazer um
+exercício o mais próximo da realidade possível. Será muito bom para sua preparação.
+
+
+                    Faça contato conosco pelas redes sociais!
+
+                             @profjuliocardozo @filipemagalhaes30
+
+                                 CONTABILIDADE GERAL
+ Questões
+
+1. No ano de 2022, a empresa FJ vendeu R$100.000 de seu estoque por R$250.000, sendo que houve um
+   abatimento de 20% do valor por conta de problemas ocorridos na entrega dos produtos.
+Da receita, 40% do valor foi recebido em 2022, enquanto o restante deverá ser recebido em 2023. A
+sociedade empresária estima inadimplência de 2%.
+Ainda, a sociedade empresária paga a seus vendedores, no momento da venda, comissão de 10 % sobre o
+preço.
+No ano, também foram reconhecidas despesas administrativas de R$40.000.
+Assinale a opção que indica o Lucro Bruto da empresa FJ contabilizado em 31/12/2022.
+(A) R$20.000.
+(B) R$95.000.
+(C) R$45.000.
+(D) R$100.000.
+(E) R$5.000.
+
+2. A entidade JF tinha uma bicicleta elétrica que era utilizada para o deslocamento de seus funcionários.
+A bicicleta foi comprada em 01/01/2021 por R$20.000 e tinha vida útil avaliada em 10 anos. A sociedade
+empresária não estimava valor residual e depreciava os seus ativos imobilizados de acordo com o método
+da linha reta.
+Em 31/12/2022, a sociedade empresária estimou que o valor justo líquido de despesas de venda da bicicleta
+era de R$14.000. Já o valor em uso era de R$10.000.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+Assinale a opção que indica se há necessidade de reconhecimento de uma despesa relacionada à perda por
+recuperabilidade da bicicleta e, caso, positivo, por qual valor.
+(A) Sim. R$2.000.
+(B) Sim. R$10.000.
+(C) Sim. R$6.000.
+(D) Sim. R$4.000.
+(E) Não há.
+
+3. A entidade JF apresentava, em seu Balanço Patrimonial, os seguintes saldos em seu ativo em
+31/12/2022:
+Disponibilidades: R$20.000
+Contas a receber de clientes (380 dias): R$100.000
+Perdas estimadas com crédito de liquidação duvidosa: R$5.000
+Ajuste a valor presente a apropriar sobre Clientes: R$7.500
+Veículo utilizado para entregas: R$40.000
+Depreciação acumulada do veículo: R$10.000
+Seguro do carro pago antecipadamente com apropriação mensal e linear por 24 meses: R$6.000
+Assinale a opção que indica o total do ativo não circulante da entidade em 31/12/2022.
+(A) R$145.000.
+(B) R$150.000.
+(C) R$30.000.
+(D) R$120.500.
+(E) R$137.500.
+
+4. A entidade FJ reconheceu os seguintes eventos no ano de 2022:
+Venda por R$100.000 à vista de estoque que tinha valor contábil de R$50.000.
+Venda à vista de ativo imobilizado cujo valor contábil era de R$25.000 por R$ 30.000.
+Reconhecimento e pagamento das despesas de salários a seus empregados (R$30.000) e de aluguel
+(R$24.000)
+Reconhecimento da despesa de depreciação do ativo imobilizado: R$10.000
+Reconhecimento da receita com equivalência patrimonial: R$ 20.000
+Reconhecimento de imposto de renda e contribuição social no valor de R$17.000
+Assinale a opção que indica o Valor Adicionado Total a Distribuir da sociedade empresária, de acordo com a
+NBC TG 09– Demonstração do Valor Adicionado.
+(A) R$48.000.
+(B) R$63.000.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                        2
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+(C) R$70.000.
+(D) R$45.000.
+(E) R$65.000.
+
+5. Em 01/07/2021, uma entidade obteve um empréstimo bancário no valor de R$60.000. O montante foi
+recebido nesta data. A entidade elabora demonstrações contábeis mensais.
+O empréstimo deverá ser pago em 60 parcelas mensais no valor de R$1.000, a partir de 01/08/2022. Junto
+com a parcela, a entidade deve pagar mensalmente R$300, a título de juros.
+Assinale a opção que indica o montante apresentado, respectivamente, como passivo circulante e como
+passivo não circulante em 01/07/2021.
+(A) R$6.000 e R$42.000.
+(B) R$7.200 e R$50.400.
+(C) R$12.000 e R$48.000.
+(D) R$18.000 e R$30.000.
+(E) R$21.600 e R$48.000.
+
+6. A Cia F produz aviões e tem ciclo operacional de treze meses. Já a Cia J produz guitarras personalizadas
+e tem ciclo operacional de 11 meses. O prazo para classificação das exigibilidades das Cias F e J,
+respectivamente, em Passivo Circulante e Passivo não Circulante, considerando que as empresas optam
+por adotar o prazo do exercício social de acordo com o ciclo operacional, é de
+(A) doze meses e onze meses.
+(B) doze meses e doze meses.
+(C) treze meses e onze meses.
+(D) treze meses e doze meses.
+(E) doze meses e treze meses
+
+7. Em 01/01/2022, a entidade JF adquiriu, por R$100.000, ações de emissão própria para manter em
+tesouraria. Os custos de transação incorridos na aquisição foram de R$10.000. Em 01/12/2022, a sociedade
+empresária vendeu essas ações por R$120.000. Os custos de transação incorridos na venda foram de
+R$12.000. Assinale a opção que indica o efeito no patrimônio líquido resultante da venda destas ações em
+tesouraria.
+(A) Redução de R$6.000.
+(B) Redução de R$2.000.
+(C) Redução de R$1.000.
+(D) Aumento de R$20.000.
+(E) Aumento de R$2.000.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                         3
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+8. Em 31/12/2022, a empresa JF apresentava os seguintes saldos em suas demonstrações contábeis:
+   •   Juros incorridos de financiamentos: R$20.000;
+   •   Juros recebidos por atraso de pagamento de seus clientes: R$30.000;
+   •   Descontos concedidos incondicionalmente sobre o preço de venda: R$10.000;
+   •   Descontos concedidos a clientes por pagamentos antecipados de duplicatas: R$15.000;
+   •   Descontos obtidos por pagamento antecipado de duplicatas: R$12.000;
+   •   Despesas financeiras nominais de valores prefixados: R$30.000;
+   •   Prêmio de resgate de títulos e debêntures emitidos: R$40.000;
+   •   Receitas de títulos vinculados ao mercado aberto: R$28.000.
+Assinale a opção que indica o resultado financeiro contabilizado na Demonstração do Resultado do Exercício
+da sociedade empresária em 31/12/2022.
+(A) R$ 35.000.
+(B) R$45.000.
+(C) R$25.000.
+(D) R$15.000.
+(E) R$17.000.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                        4
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+   Aula 24
+
+Questões Comentadas
+
+1. No ano de 2022, a empresa FJ vendeu R$100.000 de seu estoque por R$250.000, sendo que houve um
+   abatimento de 20% do valor por conta de problemas ocorridos na entrega dos produtos.
+Da receita, 40% do valor foi recebido em 2022, enquanto o restante deverá ser recebido em 2023. A
+sociedade empresária estima inadimplência de 2%.
+Ainda, a sociedade empresária paga a seus vendedores, no momento da venda, comissão de 10 % sobre o
+preço.
+No ano, também foram reconhecidas despesas administrativas de R$40.000.
+Assinale a opção que indica o Lucro Bruto da empresa FJ contabilizado em 31/12/2022.
+(A) R$20.000.                                            ==219a34==
+
+(B) R$95.000.
+(C) R$45.000.
+(D) R$100.000.
+(E) R$5.000.
+
+Comentários:
+
+O Lucro Bruto é a diferença entre a Receita Líquida da empresa e o Custo das Mercadorias Vendidas. É muito
+comum as bancas inserirem informações de despesas que não interferem nessa apuração, apenas para
+confundir, como por exemplo, comissões sobre vendas, perdas estimadas com clientes.
+
+Fiquem atentos!
+
+Receita Líquida = Receita Bruta – Deduções (Descontos Comerciais, Abatimentos, Devoluções e Tributos
+sobre a venda).
+
+Receita Líquida = 250.000 – (250.000 20%) = 250.000 - 50.000 = 200.000
+
+CMV = 100.000
+
+Lucro Bruto = 200.000 – 100.000 = R$ 100.000
+
+Percebam que a forma de recebimento da receita (prazo ou à vista), a estimativa de inadimplência,
+comissões sobre vendas não foram utilizadas na apuração.
+
+Gabarito: D
+
+2. A entidade JF tinha uma bicicleta elétrica que era utilizada para o deslocamento de seus funcionários.
+A bicicleta foi comprada em 01/01/2021 por R$20.000 e tinha vida útil avaliada em 10 anos. A sociedade
+empresária não estimava valor residual e depreciava os seus ativos imobilizados de acordo com o método
+da linha reta.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                        5
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+Em 31/12/2022, a sociedade empresária estimou que o valor justo líquido de despesas de venda da bicicleta
+era de R$14.000. Já o valor em uso era de R$10.000.
+Assinale a opção que indica se há necessidade de reconhecimento de uma despesa relacionada à perda por
+recuperabilidade da bicicleta e, caso, positivo, por qual valor.
+(A) Sim. R$2.000.
+(B) Sim. R$10.000.
+(C) Sim. R$6.000.
+(D) Sim. R$4.000.
+(E) Não há.
+
+Comentários:
+
+Questão de aplicação direta do teste de Recuperabilidade previsto no CPC 01. O examinador nos ofereceu:
+
+Valor justo líquido de despesas de venda: R$14.000.
+
+Valor em uso: $10.000
+
+O valor recuperável do ativo é o maior entre os dois: R$ 14.000.
+
+O valor contábil da bicicleta seria o custo menos a depreciação acumulada até o momento do teste. A vida
+útil do ativo era de 10 anos e ele foi usado por 2 anos, ou seja, 2/10 = 20% de sua vida útil. Assim sendo, a
+depreciação acumulada do ativo era de 20.000 x 0,20 = R$ 4.000 e o valor contábil seria de 20.000 – 4.000 =
+R$ 16.000,00.
+
+Percebam que o valor contábil do ativo é de R$ 16.000 e o valor recuperável é menor, R$ 14.000, portanto,
+há perda por recuperabilidade a ser registrada de R$ 2.000 (16.000 - 14.000)
+
+Gabarito: A
+
+3. A entidade JF apresentava, em seu Balanço Patrimonial, os seguintes saldos em seu ativo em
+31/12/2022:
+Disponibilidades: R$20.000
+Contas a receber de clientes (380 dias): R$100.000
+Perdas estimadas com crédito de liquidação duvidosa: R$5.000
+Ajuste a valor presente a apropriar sobre Clientes: R$7.500
+Veículo utilizado para entregas: R$40.000
+Depreciação acumulada do veículo: R$10.000
+Seguro do carro pago antecipadamente com apropriação mensal e linear por 24 meses: R$6.000
+Assinale a opção que indica o total do ativo não circulante da entidade em 31/12/2022.
+(A) R$145.000.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                           6
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+    Aula 24
+
+(B) R$150.000.
+(C) R$30.000.
+(D) R$120.500.
+(E) R$137.500.
+
+Comentários:
+
+Vamos efetuar a classificação das contas apresentadas:
+
+•       Disponibilidades: R$20.000 (ativo circulante)
+
+•       Contas a receber de clientes (380 dias): R$100.000 (realizável em longo prazo)
+
+•      Perdas estimadas com crédito de liquidação duvidosa: R$5.000: retificadora da conta clientes que é
+de longo prazo.
+
+•      Ajuste a valor presente a apropriar sobre Clientes: R$7.500 retificadora da conta clientes que é de
+longo prazo.
+
+•       Veículo utilizado para entregas: R$40.000: Ativo Imobilizado
+
+•       Depreciação acumulada do veículo: R$10.000: retificadora do ativo imobilizado.
+
+•       Seguro do carro pago antecipadamente com apropriação mensal e linear por 24 meses: R$6.000: aqui
+temos que o que é proporcional a 12 meses fica no ativo circulante (3.000) e o restante no ativo não
+circulante: (3.000).
+
+Total do Ativo Não Circulante = 100.000 - 5.000 - 7.500 + 40.000 - 10.000 + 3.000 = R$ 120.500
+
+Gabarito: D
+
+4. A entidade FJ reconheceu os seguintes eventos no ano de 2022:
+Venda por R$100.000 à vista de estoque que tinha valor contábil de R$50.000.
+Venda à vista de ativo imobilizado cujo valor contábil era de R$25.000 por R$ 30.000.
+Reconhecimento e pagamento das despesas de salários a seus empregados (R$30.000) e de aluguel
+(R$24.000)
+Reconhecimento da despesa de depreciação do ativo imobilizado: R$10.000
+Reconhecimento da receita com equivalência patrimonial: R$ 20.000
+Reconhecimento de imposto de renda e contribuição social no valor de R$17.000
+Assinale a opção que indica o Valor Adicionado Total a Distribuir da sociedade empresária, de acordo com a
+NBC TG 09– Demonstração do Valor Adicionado.
+(A) R$48.000.
+(B) R$63.000.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+          www.estrategiaconcursos.com.br
+                                                                                                        7
+                                       
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+(C) R$70.000.
+(D) R$45.000.
+(E) R$65.000.
+
+Comentários:
+
+Solução Rápida! A questão pede o Valor Adicionado Total a Distribuir que é o último item da primeira parte
+da DVA.
+
+Dos fatos apresentados, a despesa de salários, despesa com aluguel e o imposto de renda não serão
+utilizados, pois são apresentados na segunda parte da DVA, na distribuição do valor adicionado. Fica assim:
+
+(+) Venda de estoque R$100.000
+(-) CMV (R$50.000)
+(+) Lucro na Venda do imobilizado (R$30.000- R$25.000) = R$ 5.000
+(-) Despesa de depreciação do ativo imobilizado: (R$10.000)
+(+) Ganho com equivalência patrimonial: R$ 20.000
+= Valor Adicionado a Distribuir: R$ 65.000
+
+Gabarito: E
+
+5. Em 01/07/2021, uma entidade obteve um empréstimo bancário no valor de R$60.000. O montante foi
+recebido nesta data. A entidade elabora demonstrações contábeis mensais.
+O empréstimo deverá ser pago em 60 parcelas mensais no valor de R$1.000, a partir de 01/08/2022. Junto
+com a parcela, a entidade deve pagar mensalmente R$300, a título de juros.
+Assinale a opção que indica o montante apresentado, respectivamente, como passivo circulante e como
+passivo não circulante em 01/07/2021.
+(A) R$6.000 e R$42.000.
+(B) R$7.200 e R$50.400.
+(C) R$12.000 e R$48.000.
+(D) R$18.000 e R$30.000.
+(E) R$21.600 e R$48.000.
+
+Comentários:
+
+O CPC 26 – Apresentação das Demonstrações Contábeis afirma que o passivo deve ser classificado como
+circulante quando satisfizer qualquer dos seguintes critérios:
+
+(a) espera-se que seja liquidado durante o ciclo operacional normal da entidade;
+
+(b) está mantido essencialmente para a finalidade de ser negociado;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                         8
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+(c) deve ser liquidado no período de até doze meses após a data do balanço; ou
+
+d) a entidade não tem direito incondicional de diferir a liquidação do passivo durante pelo menos doze meses
+após a data do balanço (ver item 73). Os termos de um passivo que podem, à opção da contraparte, resultar
+na sua liquidação por meio da emissão de instrumentos patrimoniais não devem afetar a sua classificação.
+
+Assim sendo, em 01/07/x0, são classificadas no passivo circulante a dívida deve ser liquidada no período de
+até doze meses após a data do balanço. E ressaltamos que a empresa apura demonstrações mensais. Ou
+seja, 12 x 1.000 = R$ 12.000 será classificado como passivo circulante e 48.000 será classificado como passivo
+não circulante.
+
+Apenas destacamos que os juros serão apropriados ao resultado mensalmente, começando ao final do
+primeiro período.
+
+Gabarito: C
+
+6. A Cia F produz aviões e tem ciclo operacional de treze meses. Já a Cia J produz guitarras personalizadas
+e tem ciclo operacional de 11 meses. O prazo para classificação das exigibilidades das Cias F e J,
+respectivamente, em Passivo Circulante e Passivo não Circulante, considerando que as empresas optam
+por adotar o prazo do exercício social de acordo com o ciclo operacional, é de
+(A) doze meses e onze meses.
+(B) doze meses e doze meses.
+(C) treze meses e onze meses.
+(D) treze meses e doze meses.
+(E) doze meses e treze meses
+
+Comentários:
+
+O art. 179, parágrafo único, da Lei 6404/76, afirma que na companhia em que o ciclo operacional da empresa
+tiver duração maior que o exercício social, a classificação no circulante ou longo prazo terá por base o prazo
+desse ciclo.
+
+Percebam que a Cia F tem ciclo operacional de 13 meses, portanto, maior que o exercício social que é de 12
+meses. Logo, o prazo para classificação de itens circulante e não circulantes, como regra, será de 13 meses,
+atendendo ao comando da lei.
+
+Já a Cia J, ela possui ciclo operacional de 11 meses, nesse caso, vamos adotar como prazo para classificação
+de passivos circulantes e não circulantes o prazo "padrão" de 12 meses.
+
+Vale lembrar que as normas contábeis apresentam casos especiais que fugirão a essa regra.
+
+Gabarito: D
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                            9
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+7. Em 01/01/2022, a entidade JF adquiriu, por R$100.000, ações de emissão própria para manter em
+tesouraria. Os custos de transação incorridos na aquisição foram de R$10.000. Em 01/12/2022, a sociedade
+empresária vendeu essas ações por R$120.000. Os custos de transação incorridos na venda foram de
+R$12.000. Assinale a opção que indica o efeito no patrimônio líquido resultante da venda destas ações em
+tesouraria.
+(A) Redução de R$6.000.
+(B) Redução de R$2.000.
+(C) Redução de R$1.000.
+(D) Aumento de R$20.000.
+(E) Aumento de R$2.000.
+
+Comentários:
+
+Para resolvermos essa questão, precisamos entender que os gastos incorridos com operações com ações em
+tesouraria, como regra, não afetam o resultado do exercício, sendo lançadas diretamente no patrimônio
+líquido.
+
+Além disso, se a operação tiver um ganho, ele será lançado em uma reserva de capital, semelhante a reserva
+de ágio na emissão de ações.
+
+De outro, se houver uma perda, o lançamento será na reserva que serviu de lastro para operação, sem afetar
+o resultado.
+
+Na primeira operação, a empresa adquiriu ações em tesouraria no valor de R$ 100.000 com custo de R$
+10.000.
+
+Essa operação gerou uma redução do patrimônio líquido de R$ 110.000.
+
+Agora, na segunda operação, a empresa vendeu as ações por R$ 120.000 e teve um custo de R$ 12.000, ou
+seja, uma captação líquida na operação de R$ 108.000.
+
+Portanto, a empresa captou R$ 108.000 nas ações que custaram R$ 110.000, gerando, assim, uma perda de
+R$ 2.000, a qual será lança diretamente reduzindo patrimônio líquido.
+
+Gabarito: B
+
+8. Em 31/12/2022, a empresa JF apresentava os seguintes saldos em suas demonstrações contábeis:
+   •   Juros incorridos de financiamentos: R$20.000;
+   •   Juros recebidos por atraso de pagamento de seus clientes: R$30.000;
+   •   Descontos concedidos incondicionalmente sobre o preço de venda: R$10.000;
+   •   Descontos concedidos a clientes por pagamentos antecipados de duplicatas: R$15.000;
+   •   Descontos obtidos por pagamento antecipado de duplicatas: R$12.000;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                       10
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+   •   Despesas financeiras nominais de valores prefixados: R$30.000;
+   •   Prêmio de resgate de títulos e debêntures emitidos: R$40.000;
+   •   Receitas de títulos vinculados ao mercado aberto: R$28.000.
+Assinale a opção que indica o resultado financeiro contabilizado na Demonstração do Resultado do Exercício
+da sociedade empresária em 31/12/2022.
+(A) R$ 35.000.
+(B) R$45.000.
+(C) R$25.000.
+(D) R$15.000.
+(E) R$17.000.
+
+Comentários:
+
+Elaborando a DRE com os dados apresentados, temos o seguinte:
+
+                         Demonstração do Resultado do Exercício
+(-) Juros Incorridos de financiamentos                                           -R$ 20.000,00
+(+) Juros Recebidos de atrasos                                                    R$ 30.000,00
+(-) Descontos Concedidos a clientes por pagamento antecipado                     -R$ 15.000,00
+(+) Descontos Obtido por pagamento antecipado                                     R$ 12.000,00
+(-) Despesas Financeiras Nominais de valores prefixados                          -R$ 30.000,00
+(+) Prêmio de resgate de títulos e debêntures                                     R$ 40.000,00
+(+) Receitas de Títulos Vinculados ao mercado aberto                              R$ 28.000,00
+Resultado Financeiro                                                              R$ 45.000,00
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                                       11
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+    Filipe
+  Aula 24
+
+Gabarito
+
+                                           Número da Questão Gabarito
+                                                     1                 D
+                                                     2                 A
+                                                     3                 D
+                                                     4                 E
+                                                     5                 C
+                                                     6                 D
+                                                     7                 B
+                                                     8                 B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral
+         www.estrategiaconcursos.com.br
+                                                                                          12
+                                      
+
+
+---
+
+---

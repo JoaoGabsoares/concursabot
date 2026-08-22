@@ -1,0 +1,5847 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Índice
+artigos_citados:
+- Art. 73.
+---
+
+# Índice
+
+Índice
+1)  Armazenagem e Movimentação - AULA COMPLETA
+
+---
+
+                        ARMAZENAGEM E MOVIMENTAÇÃO
+
+Administração de Almoxarifados
+
+
+       Não há como um sistema de gestão de materiais funcionar sem um local específico para a guarda de
+materiais. Esse local é o almoxarifado. É lá onde o material é devidamente armazenado e protegido. Vamos
+conhecer um pouco do seu histórico pois isso as vezes é tema específico de alguns editais.
+
+Histórico e Conceitos
+
+       HISTÓRICO E EVOLUÇÃO
+
+       No passado o conceito de almoxarifado estava muito ligado a um simples depósito, desorganizado,
+onde os materiais eram acumulados da pior forma possível, em locais e estruturas inadequadas e com mão
+de obra despreparada e desqualificada. Isso acabou.
+
+       Hoje temos à disposição do gestor de materiais técnicas de armazenagem e manuseio bastante
+modernas, propiciando o alcance do maior objetivo buscado ao longo de toda a cadeia de gestão de
+materiais: redução de custo.
+
+        O emprego das técnicas modernas e indicadas de armazenamento e movimentação levam a
+significativo aumento de produtividade e maior segurança ao longo de todo o processo.
+
+       CONCEITOS
+
+       O almoxarifado pode hoje ser definido como:
+
+     Local destinado à fiel guarda e conservação de materiais, em recinto coberto ou não,
+     adequado a sua natureza, tendo a função de destinar espaços onde permanecerá cada
+     item aguardando a necessidade do seu uso, ficando sua localização, equipamentos e
+     disposição interna condicionados à política geral de estoques da empresa.
+
+
+---
+
+       Como alguns de seus maiores objetivos o almoxarifado procura eliminar divergências de inventário
+e perdas de qualquer natureza, minimizando o desperdício e a ineficiência, como já vimos acima.
+
+       Dessa forma o almoxarifado deve dispor das condições adequadas para assegurar tudo aquilo que
+já conhecemos como o mantra da Administração de Materiais, ou seja, o material na quantidade desejada,
+no local correto e no tempo preciso, tudo com base nas técnicas de armazenagem e movimentação
+adotadas.
+
+       Para que tudo isso seja obtido é fundamental que o almoxarifado introduza rotinas rigorosas de
+preservação e retiradas dos materiais, protegendo-os de furtos e desperdícios e garantindo a eficiência por
+toda a cadeia.
+
+       Um método simples de garantir a confiabilidade do processo de retirada é definir com clareza as
+pessoas autorizadas e atrelar ao processo a apresentação da devida requisição de material, sem exceções,
+o que ajuda a controlar o processo com precisão.
+
+       Nesse contexto o almoxarifado será o depósito/armazém que receberá e estocará os materiais
+adquiridos pela organização, garantindo sua preservação adequada, disponibilizando-os nos momentos
+corretos e ampliando a eficiência ao longo de toda a cadeia.
+
+        Os grandes objetivos da gestão de um almoxarifado são reduzir os custos de armazenamento e
+aumentar o nível de serviço aos clientes (tanto internos quanto, eventual e indiretamente, externos). Veja
+abaixo:
+
+
+                                                         Aumentar nível de serviço aos
+           Reduzir custos de armazenagem
+                                                                  clientes
+        • Evitar perdas e roubos                      • Entregar os itens demandados no
+        • Reduzir obsolescência de materiais            momento correto, no volume
+        • Maximizar uso do espaço                       combinado, com a qualidade
+          disponível                                    necessária e no local exato
+        • Minimizar movimentações
+          desnecessárias
+
+
+       As seguintes atividades fazem parte da gestão dos almoxarifados:
+
+          •   Recebimento dos materiais.
+          •   Estocagem / Armazenagem dos materiais.
+          •   Movimentação física dos materiais.
+          •   Expedição dos materiais.
+
+       Reforçando esse entendimento, conheça o fluxo percorrido pelos materiais no almoxarifado, desde
+a sua entrada até a sua saída, para atendimento de qualquer tipo de cliente. A ilustração está de acordo com
+Viana (2012), págs. 273 e 274:
+
+
+---
+
+       Note que as atividades começam com o recebimento (que envolve toda a verificação e respectivas
+conferências), passa pela armazenagem e termina nas atividades de expedição e distribuição, final do
+processo pelo qual o almoxarifado é responsável. Mergulharemos em cada um desses temas em instantes.
+
+      Por fim, falamos muito sobre a eficiência pois, de fato, é uma das premissas do funcionamento dos
+almoxarifados. Para garanti-la o almoxarifado depende de:
+
+        - Redução de distâncias internas percorridas pela carga (veremos isso mais a fundo em
+        Layout e Movimentação).
+
+        - Aumento do tamanho médio das unidades armazenadas.
+
+        - Melhor utilização da capacidade volumétrica.
+
+
+---
+
+(SELECON/EMGEPRON/Almoxarife/2021) A gestão de almoxarifado/armazém envolve várias operações,
+conforme demonstra a figura a seguir. Inicia na recepção dos produtos e termina na expedição quando
+são requeridos pelo cliente interno e/ou externo.
+
+O almoxarifado deve pautar em controles formais, regras claras e metodologias específicas para
+dimensionamento correto de quantitativos demandados. Cabe ao almoxarife:
+a) manter condições de trabalho, mesmo com estresse e exaustão.
+b) receber, conferir, armazenar e registrar materiais em estoque.
+c) receber produto com defeito, atestar nota sem necessidade de registrar inconformidade, considerando o
+fornecedor conhecido na empresa.
+d) arranjar carga, mesmo em paletes com defeito, para acelerar o carregamento da equipe de transporte e
+terminar tarefa de forma rápida e aumentar a produtividade.
+A alternativa B está correta e é o gabarito da questão. São todas atividades de competência do almoxarifado:
+o recebimento, a conferência a armazenagem e o correto registro dos materiais nos sistemas de controle da
+organização.
+Estresse e/ou exaustão e produtos ou equipamentos com defeito certamente não devem ser admitidos pelo
+responsável pelas atividades do almoxarifado.
+
+
+(VUNESP/Pref. Poá-SP/Almoxarife/2015) A eficiência de um almoxarifado depende, fundamentalmente,
+da(o)
+a) aumento da eficiência de armazenagem, da redução dos equipamentos de produção e do melhor
+aproveitamento do espaço.
+b) aumento da quantidade de equipamentos, da diminuição da mão de obra e da redução do número de
+acidentes através de um local maior de armazenagem.
+c) redução do volume de armazenagem por metro quadrado, do aumento do tamanho das pilhas na
+estocagem e da melhor utilização do espaço dentro e fora do depósito, ocupando todos os espaços
+disponíveis.
+d) redução das distâncias internas percorridas pelas cargas, do aumento do tamanho médio das unidades
+armazenadas e da melhor utilização da sua capacidade volumétrica.
+
+
+---
+
+e) utilização de todos os espaços disponíveis, do volume de recursos empregados no almoxarifado, como
+investimentos em tecnologia de ponta, e da redução de mão de obra do pessoal para armazenagem e
+distribuição.
+A alternativa D está correta e é o gabarito da questão. Citação literal de João José Viana para quem “a
+eficiência de um almoxarifado” depende fundamentalmente: da redução das distâncias internas percorridas
+pela carga e do consequente aumento das viagens de ida e volta; do aumento do tamanho médio das
+unidades armazenadas e da melhor utilização de sua capacidade volumétrica.
+
+       PERFIL DO ALMOXARIFE
+
+      De acordo com João José Viana, "as atividades de armazenagem exigem muito mais do que o simples
+manuseio dos materiais. Requer funcionários habilitados. O exame, a identificação, o registro e o
+armazenamento são processos para os quais é necessário o envolvimento dos funcionários adequados".
+
+        Algumas provas costumam cobrar as principais características de um almoxarife. De modo genérico
+(e é isso que costuma aparecer na prova) o funcionário escolhido deve possuir "alto grau de sentimento de
+honestidade", o que faz com que suas principais competências sejam "a lealdade, a confiança e a disciplina".
+
+(SELECON/EMGEPRON/Almoxarife/2021) No caso de armazém/almoxarifado, cabe aos trabalhadores:
+a) colaborar com o empregador na implementação de rotinas para organização do trabalho.
+b) não comunicar ao superior imediato algum dispositivo de segurança danificado ou sem função.
+c) cobrar utilização de medidas de proteção individual, exceto as coletivas, na execução das tarefas.
+d) facultar participação de treinamentos pelo empregador para atendimento às exigências.
+A alternativa A está correta e é o gabarito da questão. Sem dúvida cabe ao almoxarife colaborar com a
+estrutura de gestão na implementação de todas as rotinas planejadas para a área. Isso envolve a
+comunicação de irregularidades ou disfunções; a busca e cobrança por mediadas de proteção individual e
+coletiva e a certificação de que todos os funcionários estão regularmente participando de treinamentos
+fornecidos pela organização.
+
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos produtos no
+almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e desperdícios. A
+autoridade para a retirada do estoque deve estar definida com clareza e somente pessoas autorizadas
+poderão exercer essa atribuição. Considerando essa informação, julgue o item. A atualização dos registros
+dos materiais adquiridos pela empresa não é de responsabilidade do almoxarifado, mas sim da área de
+compras, que realiza tais transações.
+
+
+---
+
+a) Certo
+b) Errado
+A afirmativa está ERRADA.
+Cabe sim ao almoxarife executar todo o registro correto dos materiais adquiridos pela empresa, mantendo
+controle gerencial de entradas, saídas e volumes estocados, provendo visão geral do processo de
+armazenagem da organização.
+
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) Caso alguma mercadoria apresente avarias ou material
+claramente divergente, o almoxarife terá o direito de realizar a devolução do material sem nenhum tipo
+de justificativa.
+a) Certo
+b) Errado
+A afirmativa está ERRADA.
+O almoxarife pode e deve realizar a devolução, porém, acompanhada dos devidos registros de avarias.
+
+Organização do Almoxarifado
+
+       Antes de avançarmos, veja qual é o organograma padrão funcional de um Almoxarifado, também de
+acordo com Viana (2012), págs. 273 e 274.
+      Na figura abaixo ficam claras quais são as grandes funções/atividades operacionais de um
+almoxarifado.
+
+
+---
+
+       Vamos conhecer melhor cada uma dessas etapas.
+
+       CONTROLE
+
+       O controle é uma etapa que, embora não apareça no organograma acima, permeia de forma
+matricial todas as atividades listadas.
+
+       Para que o processo todo funcione de maneira segura e eficiente é necessário um sistema seguro
+que possa fornecer a qualquer momento relatórios e informações a respeito das quantidades disponíveis,
+aonde se encontram e quais as mercadorias em processo de recebimento, devolução, trânsito, etc. (lembre-
+se dos conceitos de estoques real e virtual).
+
+       Esse sistema de controle, como dito acima, deve abranger todas as "funções" do organograma acima,
+ou seja, o recebimento, a armazenagem e a distribuição.
+
+       RECEBIMENTO
+
+       Aqui falaremos rapidamente do recebimento pois o próximo capítulo é dedicado inteiramente a ele.
+
+       Suas atividades vão desde a recepção do material no momento da entrega realizada pelo fornecedor
+até a definitiva entrada nos estoques, passando por isso por todo o processo de inspeção tanto qualitativo
+quanto quantitativo.
+
+
+---
+
+       A atividade de recebimento deverá também estar completamente integrada às áreas de
+contabilidade, transporte e compras, para que todos estejam alinhados em relação a chegada ou não dos
+itens no momento em que eram aguardados e possam tomar as devidas providências quando necessário.
+
+         O recebimento contém basicamente as fases abaixo, sendo que comumente as fases 1 e 2
+         são encaradas como uma coisa só, a entrada do material. Além dela temos as conferências
+         quantitativa, qualitativa e a regularização, compondo as tradicionais 4 fases do
+         recebimento.
+
+       As atividades a seguir não fazem mais parte do processo de Recebimento, porém ainda estão
+abrangidas dentro das atividades do almoxarifado. Vamos a elas:
+
+       ARMAZENAGEM
+
+       A armazenagem, em linhas gerais trata dos procedimentos e cuidados que deverão ser tomados em
+relação à disposição dos materiais nos almoxarifados, de acordo com suas classificações de perecibilidade,
+periculosidade, regras e frequência de utilização, entre outras variáveis.
+
+        A guarda seguirá critérios e técnicas definidas que visam a garantia de segurança e eficiência ao longo
+do processo, como a utilização plena do espaço disponível tanto em seu comprimento como em largura e
+altura! Veremos com calma mais à frente.
+
+
+---
+
+       DISTRIBUIÇÃO
+
+      Por fim, mesmo que tudo até aqui tenha sido realizado com perfeição, caso a distribuição também
+não ocorra a contento, todo o ganho pode ser perdido. Já vimos que a atividade de gestão de materiais é
+uma cadeia e, dessa forma, se um elo não funciona, todo o benefício obtido é desperdiçado.
+
+      A distribuição do material deve ser realizada de forma coordenada e fecha todo o processo de
+armazenamento e movimentação que estudaremos aqui, garantindo seus resultados buscados nas
+dimensões de qualidade (atendimento das requisições) e eficiência (redução de custos).
+
+(VUNESP/Pref. Poá-SP/Almoxarife/2015) O recebimento de mercadorias pelo almoxarifado compreende
+4 fases:
+a) compra do material, recebimento, armazenagem e distribuição.
+b) entrada de materiais, conferência quantitativa, conferência qualitativa e regularização.
+c) recebimento, estocagem, armazenagem e expedição.
+d) conferência quantitativa, entrada de materiais, devolução e estocagem.
+e) recebimento da nota fiscal, conferência, estocagem e distribuição para produção.
+Comentários:
+A alternativa B está correta e é o gabarito da questão. Pergunta clássica sobre o processo de recebimento
+que abrange desde a recepção do material na entrega pelo fornecedor até a entrada nos estoques, sofrendo
+critérios de conferência quantitativa e qualitativa. O recebimento compreende 4 fases: entrada de materiais,
+conferência quantitativa, conferência qualitativa e regularização.
+Na alternativa A, o recebimento não abrange etapas de compra ou distribuição.
+Na C, o recebimento não abrange etapas de expedição.
+A alternativa D também não está correta pois o recebimento não abrange etapas de estocagem.
+Por fim a letra E está incorreta. O recebimento não abrange etapas de estocagem e distribuição para
+produção.
+
+
+---
+
+Recebimento de Materiais
+
+
+       A atividade de Recebimento localiza-se entre as tarefas de compra e pagamento ao fornecedor
+(atenção com isso pois é uma perguntinha típica de prova). Tem sob sua responsabilidade todo o processo
+de conferência de materiais, devendo assegurar que o que foi entregue é exatamente aquilo que foi
+contratado tanto em relação ao volume quanto em relação a qualidade e/ou outras características
+acordadas.
+
+Principais Atribuições
+
+       As principais atribuições da atividade de recebimento são:
+
+            •   Coordenar as atividades de recebimento e devolução de materiais.
+            •   Analisar a documentação da operação verificando se a aquisição está autorizada.
+            •   Comparar os volumes entregues aos declarados em Nota Fiscal e/ou Manifesto de
+                Transporte.
+            •   Executar a conferência visual em relação à embalagem e eventuais avarias na carga
+                recebida, registrando ressalvas nos documentos fiscais quando for o caso.
+            •   Conduzir as conferências quantitativas e qualitativas do material entregue.
+            •   Tomar a decisão em relação ao aceite, recusa ou devolução do material.
+            •   Providenciar a regularização do pagamento, recusa ou devolução junto ao
+                fornecedor.
+            •   Liberar o material recém chegado para encaminhamento e estoque no
+                almoxarifado.
+
+Nota Fiscal
+
+       A Nota Fiscal é um documento fundamental para o processo de recebimento.
+
+       Algumas das atribuições do processo de recebimento baseiam-se na análise dos documentos fiscais
+e confrontação entre o declarado e o, de fato, entregue.
+
+       São os documentos fiscais emitidos pelo fornecedor que desencadeiam o processo de recebimento
+junto ao comprador.
+
+        Entendendo um pouco mais da nota fiscal, é um documento emitido pelo vendedor, no qual notifica
+ao fisco os respectivos impostos que deverão ser recolhidos em relação à transação: Imposto sobre Produtos
+
+
+---
+
+Industrializados (IPI), Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e Imposto Sobre Serviços
+de Qualquer Natureza (ISS).
+
+       Serve também como documento que acompanha o transporte da mercadoria do fornecedor até a
+sua entrega no destinatário.
+
+       A nota fiscal não tem valor como instrumento de cobrança e, por isso, há a necessidade de
+estudarmos outros documentos como a Fatura, a Duplicata e a Nota Fiscal Fatura.
+
+           FATURA
+
+           Nas vendas a prazo o vendedor deve emitir uma fatura que, com base no valor da nota
+           fiscal, conterá dados adicionais como prazos e valores das parcelas de cobrança e
+           respectivo banco. A fatura não é título hábil para cobrança, como a duplicata.
+
+           DUPLICATA
+
+           É uma cópia da fatura quando se tratar de cobrança única. Caso a fatura possua mais de
+           um pagamento, teremos tantas duplicatas quanto o número de parcelas (valores parciais).
+           A duplicata por sua vez é um título de crédito cuja quitação comprova a liquidação da
+           obrigação. É emitida pelo vendedor contra o comprador.
+
+           NOTA FISCAL FATURA
+
+           Algumas empresas aglutinam todas as faturas em uma única peça, a nota fiscal fatura,
+           fazendo a cobrança por intermédio de duplicatas.
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) Toda vez que for efetivada uma nova compra de material em uma
+dada instituição, o setor de compras deverá informar sobre os empenhos e seus respectivos responsáveis.
+Para o recebimento desses materiais, alguns documentos hábeis podem ser a nota fiscal e(ou) a fatura.
+a) Certo
+b) Errado
+A afirmativa está CORRETA.
+
+
+---
+
+Como acabamos de estudar, são de fato documentos que devem ser analisados e confrontados ao longo do
+processo de recebimento.
+
+Entrada de Materiais
+
+       O início do processo de recebimento se dá com a entrada dos materiais e tem como objetivo
+recepcionar os veículos transportadores, checar a respectiva documentação, direcioná-los a descarga e
+cadastrar os dados necessários em diferentes sistemas de controle que integram as áreas de Administração
+de Materiais, Contas a Pagar, Compras e Gestão de Estoques.
+
+      O processo de entrada dos materiais acontece em dois locais distintos: a portaria e o almoxarifado.
+Vejamos:
+
+       PORTARIA
+
+       Na portaria da organização o foco da checagem é a documentação. Nessa checagem inicial verifica-
+se: autorização da compra, cumprimento do prazo de entrega, correspondência entre o documento de
+compra e a nota fiscal e cadastramento de informações.
+
+       Feita essa checagem inicial, o material deve ser encaminhado para entrada no almoxarifado (caso
+tudo esteja em ordem) ou recusado (caso a compra não esteja autorizada ou entregue fora do prazo, neste
+caso incluindo-se observação no verso da nota fiscal).
+
+       ALMOXARIFADO
+
+       No almoxarifado o foco da conferência passa a ser a própria mercadoria, inicialmente confrontando-
+se a nota fiscal do fornecedor com os registros de compras, checando a adequação entre as duas fontes de
+dados.
+
+      Nesta primeira checagem não só os volumes são primariamente conferidos como as condições das
+embalagens e da carga em geral.
+
+       É nessa primeira avaliação na entrada do almoxarifado que diferentes tipos de violações ou avarias
+nas embalagens (sinais de quebras, umidade, amassados ou outros danos) são detectados e registrados no
+verso da nota fiscal para futuro ressarcimento ou mesmo resultando em recusa do recebimento.
+
+       Finalizada esta etapa, o transportador é encaminhado à descarga em espaço reservado de acordo
+com o layout do almoxarifado e dispensado ou, no caso de recusa, retorna ao fornecedor com a carga
+devolvida em função de divergências apuradas ao longo do processo de entrada de materiais.
+
+
+---
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) No momento do descarregamento e do recebimento, se o
+recebedor identificar que houve danos nas embalagens, ele deverá alertar, por escrito, no verso do recibo
+do frete, para que o solicitante realize uma futura conferência e peça uma possível indenização.
+a) Certo
+b) Errado
+A afirmativa está CORRETA.
+No momento da descarga é função do responsável executar checagem inicial em relação ao estado de
+conservação das embalagens para que a área demandante ou almoxarifado providencie a devida conferência
+mais a frente no processo.
+
+Conferência Quantitativa
+
+        A conferência quantitativa nada mais é do que uma checagem entre as quantidades contratadas e
+as efetivamente recebidas.
+
+        Geralmente utiliza-se a técnica da contagem cega, na qual um funcionário conferente que não sabe
+qual o real volume adquirido faz a contagem e informa o volume apurado para que seja feita a confrontação
+do recebido em relação ao que foi faturado.
+
+       A contagem do material recebido pode se dar de diversas formas como: manual (pequenas
+quantidades), cálculos (embalagens padronizadas em grandes quantidades), balanças pesadoras (grande
+quantidade de pequenas peças como parafusos e porcas), pesagem (materiais de maior peso ou volume
+pesados em balanças rodoviárias ou ferroviárias), medição (geralmente com o uso de trenas).
+
+       Em todas as modalidades acima a empresa poderá adotar critérios de tolerância que permitiriam o
+recebimento das mercadorias encaminhadas com pequenos desvios em relação à quantidade esperada.
+
+       Tal liberalidade é aceitável considerando-se que a devolução ou mesmo os procedimentos de ajustes
+por variações muito pequenas acabam sendo mais custosos do que vantajosos à organização, exigindo o
+emprego de recursos como pessoas, tempo e equipamentos para correções muito pouco significativas.
+
+Conferência Qualitativa
+
+       A conferência qualitativa visa checar e garantir a adequação do material adquirido ao fim a que se
+destina. Esta etapa é também conhecida por Inspeção Técnica e visa confrontar as condições contratadas
+com as de fato entregues, examinando especialmente as seguintes variáveis:
+
+
+---
+
+            •   Características dimensionais
+            •   Características específicas
+            •   Restrições de especificações
+
+       MODALIDADES DE INSPEÇÃO
+
+       A inspeção pode ser feita ao longo de diferentes etapas (definidas pelo comprador e variando de
+acordo com o fornecedor ou com a criticidade do material adquirido):
+
+            •   Acompanhamento ao longo do processo de fabricação (no fornecedor)
+            •   Inspeção do produto acabado ainda no fornecedor (no fornecedor)
+            •   Inspeção do material adquirido no recebimento (no comprador)
+
+       ROTEIRO DE INSPEÇÃO
+
+       A fim de criar uma uniformidade no processo de inspeção, costuma-se seguir os seguintes passos ao
+longo da atividade:
+
+            •   Documentos para inspeção: especificação de compra, desenhos ou catálogos
+                técnicos, definição do padrão da inspeção.
+            •   Tipo de inspeção: total ou amostragem e critérios de aceitação ou recusa.
+            •   Preparação do material para inspeção: retirada de proteção ou embalagem e
+                definição de local adequado.
+            •   Análise visual: sem utilização de instrumentos, busca problemas de acabamento
+                como respingos, rebarbas, riscos, avarias, etc.
+            •   Análise dimensional: com utilização de instrumentos checa as dimensões de acordo
+                com as especificações e tolerâncias acordadas.
+            •   Ensaios: podem ser de natureza mecânica (destrutivos) ou elétricos (isolamento,
+                curto circuito, vibração, capacitância, etc.).
+            •   Testes: caráter não destrutivo como ultra sons, radiografia, líquido penetrante,
+                dureza, etc.
+            •   Consulta ao usuário: no caso de divergência mínima, usuário do material deve ser
+                consultado antes de se iniciar eventual processo de devolução.
+            •   Resultado Final: liberação ou recusa apontada no formulário Relatório Técnico de
+                Inspeção.
+
+       Terminada a inspeção ou conferência qualitativa, vamos a última atividade do processo de
+recebimento, a Regularização.
+
+
+---
+
+Regularização
+
+        A regularização caracteriza-se pelo controle do processo de recebimento, após todas as checagens
+de volume e qualidade, e pela aceitação ou recusa/devolução do material entregue, caminhando para a
+finalização do processo.
+
+      Para esta decisão o profissional responsável levará em conta os níveis de tolerância de variação
+adotados pela organização, como vimos acima.
+
+       O processo de regularização dará origem a uma das seguintes situações:
+
+            •   Liberação de pagamento ao fornecedor (quando não houver qualquer ressalva em
+                relação ao material recebido).
+            •   Liberação parcial do pagamento (quando houver alguma ressalva).
+            •   Devolução do material ao fornecedor (irregularidade insanável). Prazo de 10 dias a
+                contar do recebimento, exceto em casos de problemas no posterior desempenho
+                do material ao ser empregado no processo produtivo, por exemplo.
+            •   Reclamação de falta ao fornecedor (as reclamações são sempre acompanhadas do
+                documento Comunicação de Divergência/Irregularidades, que esclarece a razão da
+                manifestação de insatisfação do comprador, geralmente quantidade ou qualidade).
+            •   Entrada de material no estoque (nos casos de devolução por solicitação em excesso
+                de usuários internos. Nestes casos o material devolvido passa por todo o processo
+                de recebimento, como se fosse material recém entregue por fornecedor externo).
+
+      Em resumo o processo de Recebimento é composto por estas quatro grandes etapas e esse é um
+tema cobrado com insistência pelas bancas em provas de concurso. Fique atento!
+
+
+---
+
+                                            RECEBIMENTO
+
+        Entrada de               Conferência               Conferência
+                                                                                     Regularização
+         materiais               quantitativa               qualitativa
+
+(CPCON/UEPB/Almoxarife/2021) Uma das responsabilidades do setor do almoxarifado é o recebimento e
+conferência de novos materiais e, quando se trata de bens patrimoniais (bens móveis), é indicado que o
+recebimento seja realizado em conjunto com o setor de controle patrimonial. Considerando o recebimento
+completo do material, assinale a única alternativa que envolve as fases de execução desse processo.
+a) Compra de materiais, análise de viabilidade de estocagem, recusa de materiais e pagamento das compras.
+b) Entrada de materiais, conferência quantitativa, conferência qualitativa e regularização.
+c) Conferência quantitativa, regularização, compra de materiais e pagamento das compras.
+d) Conferência qualitativa, regularização, compra de materiais e pagamento das compras.
+e) Entrada de materiais, análise de viabilidade de estocagem, recusa de materiais e conferência qualitativa.
+Comentário:
+A alternativa B está correta e é o gabarito da questão.
+Questão clássica das bancas sobre recebimento de materiais, que recai sobre as 4 etapas características do
+processo: Entrada de materiais, conferência quantitativa, conferência qualitativa e regularização.
+
+
+(CETREDE/Pref. Mun. Frecheirinha-CE/Agente Patrimonial/2021) Analise e enumere a coluna B de acordo
+com a coluna A. A atividade de recebimento, no almoxarifado, compreende quatro fases. As atividades de
+recebimento abrangem desde a recepção do material na entrega pelo fornecedor até a entrada nos
+estoques.
+COLUNA A
+I. 1ª fase.
+II. 2ª fase.
+III. 3ª fase.
+IV. 4ª fase.
+
+
+---
+
+COLUNA B
+( ) Entrada de materiais.
+( ) Conferência qualitativa.
+( ) Conferência quantitativa.
+( ) Regularização.
+Marque a opção que apresenta a sequência CORRETA.
+a) I-II-III-IV
+b) II-III-IV-I
+c) I-IV-III-II
+d) I-III-II-IV
+e) II-I-III-IV
+Comentário:
+Como vimos, a ordem correta do processo de recebimento se inicia com a entrada do material (I), depois
+passamos as conferências, primeiro a quantitiva (III) e em seguida a qualitativa (II) e, por fim, a regularização
+(IV) de todo o procedimento. Assim temos I-III-II-IV.
+A alternativa D está correta e é o gabarito da questão.
+
+
+(SELECON/EMGEPRON/Almoxarife/2021) De acordo com Júnior (2019), entre os documentos usados no
+almoxarifado para atender às diversas rotinas de trabalho, encontra-se:
+a) a comunicação de irregularidades.
+b) o relatório de localização.
+c) a ficha de suprimentos.
+d) o controle de pesagem.
+Comentário:
+A alternativa A está correta e é o gabarito da questão.
+A comunicação de irregularidades é o documento utilizado para esclarecer ao fornecedor os motivos da
+devolução, quando são detectadas variações indesejáveis seja no aspecto qualitativo ou no aspecto
+quantitativo.
+
+
+(VUNESP/Pref. Poá-SP/Almoxarife/2015) A Nota Fiscal é um documento exigido para
+a) levar produtos até a linha de produção.
+b) retirada de mercadoria em estoque.
+c) conferência no recebimento de materiais.
+d) enviar mercadoria da produção para a expedição.
+e) transferência interna e para terceiro.
+
+
+---
+
+Comentário:
+A alternativa C está correta e é o gabarito da questão. A nota fiscal é documento emitido pelo fornecedor
+quando da aquisição de materiais pelo comprador, para notificação ao fisco dos respectivos impostos
+incidentes sobre a operação. É importante também para o seu transporte, durante o trajeto do
+estabelecimento vendedor até o seu destinatário comprador. No processo de recebimento do material a
+nota fiscal é utilizada em diferentes momentos, sobretudo para conferência de volumes em relação ao
+registrado em sistema relativo a compra efetuada e o realmente entregue pelo fornecedor.
+A alternativa A está incorreta. O deslocamento de produtos até a linha de produção (desde que dentro da
+própria organização), não precisa ser acobertado por nota fiscal.
+A alternativa B está incorreta. A retirada de mercadoria em estoque também não precisa ser acompanhada
+por nota fiscal.
+A alternativa D está incorreta. Envio de mercadoria da produção para a expedição não exige o
+acompanhamento de nota fiscal.
+A alternativa E está incorreta. Atenção aqui pois embora a transferência interna não exija a nota fiscal, a
+transferência para terceiro exige. Porém, como a questão coloca “transferência interna E para terceiro” está
+incorreta pois na movimentação interna a nota fiscal não é exigida.
+
+
+(VUNESP/Pref. Poá-SP/Almoxarife/2015) Assinale a alternativa que apresenta corretamente o conceito de
+recebimento.
+a) A atividade intermediária entre as tarefas de compra e pagamento ao fornecedor, sendo de
+responsabilidade do almoxarife a conferência dos materiais destinados à empresa.
+b) A tomada de conhecimento do setor, ao entrar a mercadoria, pela conferência da nota fiscal e distribuição
+aos usuários.
+c) Um segmento intermediário que antecede os procedimentos de compra, estocagem e distribuição dos
+materiais.
+d) Um roteiro intermediário entre o planejamento, compra e venda de mercadorias e distribuição a todos
+usuários.
+e) A atividade entre as tarefas de faturamento e pagamento ao fornecedor.
+Comentário:
+A alternativa A está correta e é o gabarito da questão. A atividade de recebimento está exatamente
+localizada após a compra e antes do pagamento ao fornecedor. Efetuada a compra, o recebimento se inicia
+com a entrada dos materiais, Após todas as conferências, caso tudo esteja ok, ocorre a regularização do
+processo que culmina no pagamento ao fornecedor. Note que, nesse cenário, o processo de recebimento
+está entre a compra e o pagamento ao fornecedor. Complementando é mesmo do almoxarife a
+responsabilidade pela conferência dos materiais destinados à empresa.
+A alternativa B está incorreta. Essa é apenas uma das etapas do recebimento: a entrada de materiais.
+A alternativa C está incorreta. O recebimento não pode nunca anteceder as compras pois os materiais
+recebidos são justamente os previamente adquiridos.
+A alternativa D está incorreta. O recebimento está exatamente entre a compra e o pagamento ao fornecedor.
+Essa é a definição correta.
+
+
+---
+
+A alternativa E está incorreta. Tanto faturamento como pagamento ao fornecedor estão ao final da cadeia
+do recebimento.
+
+
+---
+
+Embalagens
+
+Embalagens
+
+       De maneira geral as embalagens transportadoras de mercadorias e materiais tem como objetivo:
+
+
+     Proteger o produto da melhor maneira possível, de acordo com a modalidade de
+     transporte utilizada na distribuição e ao menor custo possível.
+
+       Note que não é difícil produzir uma embalagem resistente, porém cara. O maior desafio neste quesito
+é desenvolver uma embalagem que, além de proteger convenientemente o produto, tenha também um
+custo acessível.
+
+        Para o projeto de uma embalagem verifica-se inicialmente a fragilidade do produto, identificando
+seus pontos críticos para as necessidades específicas de acolchoamento. Outro ponto importante é a
+finalidade da mercadoria, levando em conta aqui se será exportada, aonde será comercializada e quais os
+meios de transporte utilizados.
+
+       Após esses passos é necessário entender também se o produto possui e qual é a sua embalagem
+primária, além de eventual necessidade de unitização e os materiais mais indicados para a confecção das
+embalagens.
+
+       Ao longo desse processo a área de engenharia de embalagens deve trabalhar junto com a de produtos
+e, algumas vezes, é preferível mudar o projeto do produto a desenvolver uma embalagem muito cara.
+
+       Os tipos mais comuns de embalagem são:
+
+        - Caixa de Papelão: reduzem custos ao substituir a madeira, compensado ou embalagem a
+        granel. Geralmente são constituídas pelo papelão ondulado com diferentes tamanhos de
+        onda, escolhidas de acordo com a necessidade específica de proteção e acolchoamento. A
+        caixa de papelão tem várias vantagens em relação ao uso da madeira como: mais leve,
+        menos espaço, mais resistência e, geralmente, mais barata.
+
+        - Tambores metálicos: destacam-se pela sua resistência, o que facilita a manipulação,
+        armazenagem e transporte. Indicados para produtos líquidos e mesmo sólidos, pastosos,
+        fluidos, em pó, etc., para isso dependendo do revestimento aplicado a sua parte interna,
+        impedindo que o produto entre em contato com o metal.
+
+
+---
+
+- Fardos: são comumente usados para diminuir o volume da mercadoria acondicionada, o
+que reduz significativamente os custos de transporte, geralmente calculados por espaço
+ocupado. O algodão, por exemplo, ocupa espaço muitas vezes menor do que quando
+"solto". Além disso facilita o manuseio e permite arrumação mais fácil. Para isso utilizam-
+se prensas que comprimem a mercadoria até que ela seja presa com fitas metálicas e
+fivelas.
+
+- Recipientes Plásticos: geralmente originadas do polietileno, são indicadas para o
+transporte de líquidos e materiais a granel. Vem substituindo com vantagem as embalagens
+de vidro, madeira e metal em função da versatilidade do material. Muito mais leves,
+resistem a corrosão, são fáceis de lavar e muito resistentes. Como desvantagem, ao
+sofrerem grandes avarias, não são recuperáveis.
+
+
+---
+
+Estocagem / Armazenagem
+
+      Há diversas formas e técnicas de se embalar e estocar os materiais e esse é um tema bastante cobrado
+em provas. Vamos conhecer as principais modalidades e as suas mais importantes características:
+
+        CARGA UNITÁRIA
+
+        A carga unitária ou unitização é um dos conceitos mais importantes para sua prova. Pode ser definida
+como:
+
+     Carga constituída de embalagens de transporte, arranjadas ou acondicionadas de modo
+     que possibilite o seu manuseio, transporte e armazenagem por meios mecânicos, como
+     uma unidade.
+
+       A unitização da carga permite a maximização da utilização dos equipamentos de transporte,
+sobretudo as paleteiras e empilhadeiras.
+
+       O mais conhecido dispositivo que permite a formação da carga unitária é o pallet, que consiste em
+um estrado geralmente de madeira de dimensões diversas, de acordo com as necessidades da empresa e
+sobre o qual as mercadorias são depositadas.
+
+        O pallet, porém, não é a única forma de obter as cargas unitárias. Existem também recipientes de
+coleta como as caçambas, indicadas especialmente para o manuseio de peças a granel, containers
+tradicionais e flexíveis, além de racks e berços metálicos. Temos ainda o processo de pré-lingagem, que
+consiste no acondicionamento da carga em redes especiais de nylon ou corda, de forma a proporcionar fácil
+manuseio por guindastes, permitindo o aumento da velocidade de carregamento e descarregamento.
+
+        PALETIZAÇÃO
+
+      Com o passar do tempo e aumento de sua utilização, tornou-se necessário estabelecer normas de
+medidas para esses recipientes formadores de cargas unitárias, com o que os pallets se tornaram
+padronizados em relação aos seus tamanhos.
+
+       Hoje é considerado antieconômico manter pallets de vários tipos e dimensões, fazendo com que as
+organizações adaptem as suas embalagens aos tamanhos disponíveis de pallets padronizados, usufruindo do
+máximo benefício logístico.
+
+
+---
+
+       Como as mercadorias que são acomodadas sobre ele não têm sempre o mesmo tamanho, para cada
+uma delas é necessário aplicar um arranjo físico diferente sobre o pallet, com o objetivo de dar a elas a
+maior sustentação possível.
+
+       É justamente por essa razão que as caixas de formato cúbico não são as mais indicadas para esse
+processo por não permitirem "encaixes" que dão maior suporte e resistência à pilha, dificultando a sua
+arrumação sobre o pallet e o seu empilhamento com segurança. Embalagens em forma de cone, cilíndricas
+ou qualquer forma não usual também não são indicadas pois dificultam a arrumação e equilíbrio do pallet.
+
+       Outros tipos de embalagem também não são indicados para paletização como embalagens fracas
+(que não permitam empilhamento), demasiadamente cheias, mal identificadas, entre outras.
+
+       A utilização dos pallets tem algumas vantagens e desvantagens que valem a pena ser estudadas:
+
+                   VANTAGENS                                         DESVANTAGENS
+ Maior densidade de carga no armazenamento.        Pouco eficiente para materiais de baixo giro.
+ Padronização e automação dos sistemas de          Dependência de equipamentos especiais para sua
+ recebimento e fornecimento de materiais.          movimentação, como as empilhadeiras.
+ Redução nos custos de manuseio e manutenção.      Alto investimento nos equipamentos para o seu
+                                                   manuseio.
+ Redução no tempo de carga e descarga.             Custo operacional elevado no caso de baixa vida útil
+                                                   dos pallets (ataque de pragas nos de madeira, por
+                                                   exemplo).
+ Melhoria na utilização de espaços verticais, Dificuldade na utilização de embalagens não
+ aumentando a capacidade de armazenamento.         padronizadas ou pouco resistentes.
+ Compatibilidade com todos os meios de transporte. Pesos dos pallets.
+
+(CETREDE/Pref. Mun. Frecheirinha-CE/Agente Patrimonial/2021) Os pallets são considerados um
+importante material utilizado na organização de um almoxarife. Analise as alternativas a seguir e responda
+qual opção apresenta uma vantagem na utilização de um pallet?
+a) Permite o recebimento do material via on-line e o despacho para outros setores da empresa.
+b) Compatibilidade com todos os meios de transporte (marítimo, terrestre, aéreo).
+
+
+---
+
+c) Estabelece o sistema de instalações e do layout mais adequado, propiciando condições físicas que
+preservem a qualidade dos materiais, com vistas à ocupação plena do espaço físico e à ordenação da
+arrumação.
+d) Ocasiona a ocorrência de demandas constantes no tempo, ou seja, um comportamento regular de
+consumo.
+e) Permite controlar os níveis de estoques, realizando a compra dos materiais para reposição, conforme
+procedimentos estabelecidos pelos clientes.
+Comentário:
+Pallets são compatíveis com todos os meios de transporte, uma outra grande vantagem da sua adoção e
+utilização.
+A alternativa B está correta e é o gabarito da questão.
+
+       ESTRUTURAS PORTA PALLETS
+
+        Um outro ponto importante e costumeiramente cobrado e provas se refere as estruturas porta
+pallets, que são basicamente duas:
+
+        - Estrutura Drive-In: proporciona a melhor solução para o aproveitamento do espaço. Trata-se de
+um porta pallet contínuo, não separado por corredores intermediários, ou seja, os materiais são acomodados
+e retirados pelo mesmo lado. Dessa forma, aqueles que foram colocados por último são os mais fáceis de
+serem retirados e, por isso, é uma estrutura que favorece o método UEPS ou LIFO.
+
+       Por ter esta limitação, é indicado para grande quantidade porém, pequena variedade de itens pois,
+imagine se for necessário retirar um pallet que está atrás de diversos outros e que não pode ser acessado
+pelo outro lado. Todos os que estão à frente dele deverão ser movimentados.
+
+       Como grande vantagem permite um excelente aproveitamento da área disponível.
+
+       - Estrutura Drive Through: o sistema tem como grande diferença a acessibilidade pelos 2 lados,
+admitindo a utilização tanto do sistema UEPS (LIFO) como do PEPS (FIFO), visto que a empilhadeira pode
+colocar e retirar os pallets pelos 2 lados da estrutura.
+
+       As vantagens e desvantagens são exatamente as inversas do sistema Drive In. Enquanto, desta vez, a
+ocupação do espaço disponível à armazenagem sofre algumas limitações em função da necessidade de
+manutenção de corredores adicionais, a retirada e movimentação de mercadorias é muito mais fácil,
+podendo o sistema ser usado inclusive por portfólios que possuem grande número de itens, ao contrário da
+realidade trazido pelo sistema Drive In.
+
+
+---
+
+      TÉCNICAS DE ARMAZENAMENTO
+
+       A dimensão e as características de materiais e produtos podem exigir desde a instalação de uma
+simples prateleira até complexos sistemas de armações, caixas e gavetas. Vamos conhecer as técnicas de
+armazenamento mais utilizadas:
+
+        Carga Unitária (ou unitizada): esta já estudamos. É a mais cobrada em provas e você
+        precisa memorizar. É a carga constituída de embalagens de transporte que acondicionam
+        quantidades variadas de material como se fossem uma só unidade, facilitando seu
+        manuseio, transporte e o próprio armazenamento. Em resumo é a técnica que permite
+        reunir inúmeros itens em uma única embalagem ou volume.
+
+        Caixas ou gavetas: técnica utilizada para materiais de pequenas dimensões, de escritório,
+        em processamento, semi acabados ou acabados. Os tamanhos das caixas e gavetas devem
+        variar em função dos materiais que serão armazenados.
+
+        Prateleiras: Servem para a armazenagem de materiais diversos ou mesmo para o apoio de
+        caixas e gavetas. É o meio de estocagem mais simples e econômico e também deve variar
+        conforme a atividade e a natureza do material estocado.
+
+        Racks: Devem acomodar peças longas e estreitas como tubos, barras, tiras, etc.
+
+        Empilhamento: Aproveita o espaço vertical. Caixas ou pallets (estrados que possibilitam o
+        empilhamento das cargas) são empilhados uns sobre os outros.
+
+      Em relação à fabricação, temos três classificações de estocagem que também são importantes de
+conhecer:
+
+        Estocagem de matéria prima - dependendo do material ele pode ser armazenado ao tempo
+        (área externa) ou internamente (caso mais comum). A estocagem de matéria prima pode
+        ainda ser centralizada (facilita o planejamento e controle) ou descentralizada (junto ao
+
+
+---
+
+        ponto de utilização, inventários visuais e mais rápidos e menos atrasos ou enganos nas
+        entregas).
+
+        Estocagem intermediária - também pode ser centralizada ou descentralizada. Trata-se de
+        estocar os materiais transformados ou processados que ainda entram em etapas seguintes
+        da produção, antes de se tornarem materiais acabados.
+
+        Estocagem de produtos acabados - visa atender o usuário, seja a entrega imediata ou
+        encomenda sob pedido. No primeiro caso a armazenagem é próxima a área de expedição
+        enquanto quando sob encomenda esse aspecto não é relevante.
+
+       A escolha do melhor sistema de estocagem de uma empresa é feita em função do espaço disponível,
+do número de itens estocados, do tipo de embalagem e da velocidade de atendimento necessária. Ao se
+fazer um estudo de implantação ou modificação de um depósito, deve-se efetuar uma comparação entre os
+custos de armazenagem do novo sistema e as vantagens adquiridas, em termos de tempo e dinheiro. Como
+sempre, constitui-se em mais uma análise de custo-benefício.
+
+      CONSERVAÇÃO DE MATERIAIS
+
+      Um dos maiores problemas dos almoxarifados é o da conservação, que é justamente um de seus
+maiores objetivos.
+
+      Temperatura e umidade, por exemplo, caso não devidamente controladas, são fatores que
+desencadeiam inúmeros problemas, mas não os únicos.
+
+       Em mais um exemplo, produtos metálicos (ou com componentes metálicos) se não forem
+adequadamente protegidos são afetados pela corrosão durante as fases de transporte e armazenamento,
+até mesmo antes de sua utilização. Estes danos podem tornar o produto inadequado ao uso, causando
+indesejável prejuízo.
+
+       Tome nota de alguns eventos que podem originar transformações e/ou alterações nos materiais,
+resultando em sua inutilização:
+
+           •   Combustão espontânea: produtos químicos que, por sua natureza, podem inflamar
+               e entrar em combustão.
+           •   Compressão ou achatamento: deformações causadas pelo mau armazenamento.
+           •   Decomposição: alteração de matérias ou matérias primas devido a fenômenos
+               específicos.
+           •   Empenamento: deformação das linhas originais do material.
+
+
+---
+
+           •   Outros: evaporação, excesso de calor e luz, explosão, oxidação, etc.
+
+      Nesse contexto alguns procedimento próprios para a mitigação dos riscos devem ser adotados, como:
+
+           •   inclusão de necessidades de proteção e embalagem nas especificações de compras.
+           •   inspeção da proteção/embalagem no recebimento.
+           •   adoção de critérios cuidadosos e específicos de armazenamento.
+           •   verificação das condições de proteção.
+           •   adoção de critérios para preservação.
+
+       Ainda nesta direção e, independentemente do critério ou seleção do método de armazenamento, é
+importante conhecermos também as indicações contidas nas embalagens (símbolos convencionais) que
+indicam os cuidados a serem seguidos ao longo das atividades de manuseio, transporte e armazenagem de
+acordo com a carga contida e exatamente com o objetivo de conservá-las intactas e apta para o uso e/ou
+emprego imediato no processo produtivo ou de prestação de serviços:
+
+      CRITÉRIOS DE ARMAZENAGEM
+
+      Em relação ao armazenamento dos materiais, importante conhecermos os principais critérios de
+armazenagem.
+
+      De acordo com Viana (2010), a armazenagem pode ser simples ou complexa.
+
+
+---
+
+            •   Armazenagem simples - materiais não necessitam de nenhum cuidado especial por parte do
+                setor de almoxarifado.
+            •   Armazenagem complexa - materiais apresentam fatores que exigem atenção especial dos
+                profissionais responsáveis pela atividade de almoxarifado. Ao longo da atividade de
+                armazenamento ou de movimentação esses materiais podem exigir equipamentos de
+                segurança específicos, estruturas de prevenção de incêndios ou outras providências
+                especialmente voltadas a eles.
+
+      Os principais fatores que podem levar o material a uma armazenagem complexa são: fragilidade,
+combustibilidade, volatização, oxidação, explosividade, intoxicação, radiação, corrosão, inflamabilidade e
+volumes, pesos ou formas particulares.
+
+       Identificada a necessidade da armazenagem complexa, deverá ser definido o critério de guarda
+materiais. Os principais são os seguintes:
+
+           Critério de armazenamento                                       Objetivos
+ Por agrupamento (complementaridade)                  Materiais semelhantes são acondicionados no
+                                                      mesmo local. Facilita a arrumação e busca mas
+                                                      minimiza o aproveitamento dos espaços.
+ Por tamanho (acomodabilidade)                        Materiais de tamanhos semelhantes ficam
+                                                      próximos uns dos outros. Otimiza o aproveitamento
+                                                      de espaços.
+ Por frequência                                       Materiais com maior frequência (giro) são
+                                                      armazenados perto das saídas.
+ Especial                                             Trata-se da armazenagem de produtos perigosos,
+                                                      perecíveis ou inflamáveis. São os casos que exigem
+                                                      cuidados e procedimentos especiais.
+ Em área externa                                      Armazenamento fora do depósito, aumentando a
+                                                      capacidade total de armazenagem.
+ Coberturas alternativas                              Também fora do depósito, mas com a utilização de
+                                                      coberturas plásticas para a proteção.
+
+
+---
+
+(QUADRIX/CORE-PR/Fiscal Junior/2021) A armazenagem por acomodabilidade possibilita um maior
+aproveitamento do espaço físico, mas demanda maior controle por parte do gestor de almoxarifado.
+a) Certo
+b) Errado
+A afirmativa está CORRETA.
+Exatamente o que acabamos de ver. Na técnica de armazenagem por tamanho ou acomodabilidade, os
+materiais de tamanhos semelhantes ficam próximos uns dos outros. Otimiza o aproveitamento de espaços
+mas certamente demanda maior controle por parte do gestor de almoxarifado.
+
+       LOCALIZAÇÃO DE MATERIAIS
+
+       Normalmente são usados dois critérios de localização de materiais:
+
+       - Sistema de Estocagem Fixo: um número de áreas específicas é previamente determinado e
+reservado para um tipo de material, admitindo-se apenas este material no local designado. É um sistema
+que não permite o melhor aproveitamento da área destinada à armazenagem, visto que não há hipótese
+do aproveitamento de espaços disponíveis por materiais que não fazem parte do rol previsto para aquele
+local.
+
+       - Sistema de Estocagem Livre: não há local fixo de armazenagem, a não ser para materiais de
+estocagem especial. Todos os materiais podem ocupar qualquer lugar disponível, maximizando a utilização
+do espaço. Como inconveniente, é necessário um rígido e eficiente sistema de controle com o objetivo de
+propiciar a rápida localização do material buscado.
+
+Picking
+
+     O Picking é exatamente o processo de recolhimento do material no almoxarifado sempre que o
+mesmo material é requerido por um cliente, seja ele interno ou externo.
+
+       O picking geralmente é planejado levando-se em conta o número de pessoas envolvidas, o número
+de itens manipulados de uma só vez e o processo de separação de pedidos.
+
+       Os principais tipos de picking, que você deve levar para a prova são os seguintes:
+
+
+---
+
+           Picking Discreto: um único operador inicia e finaliza o processo e apenas um único produto
+           é coletado por vez. Baixo índice de erro e baixa complexidade. Baixa produtividade em
+           função do deslocamento do operador.
+
+           Picking por Zona: a área de armazenagem é dividida em zonas e cada operador é
+           responsável por determinada zona. Nesse cenário cada operador coleta os itens da "sua
+           zona" e remete a outra área para consolidação. Geralmente mais de um operador está
+           envolvido no processo. Reduz o deslocamento dos operadores.
+
+           Picking por Lote: pedidos são acumulados e juntam-se às quantidades totais de cada
+           produto. A partir daí o operador vai até a área de estocagem para coletar a soma dos
+           pedidos (mais de um produto por vez). Aumenta a produtividade no deslocamento do
+           operador. Aumenta o risco de erro pela sua complexidade.
+
+           Picking por Onda: semelhante ao modelo Discreto. Cada operador é responsável
+           pelo picking de um tipo de produto por vez. Pode também ser combinado com os modelos
+           de separação por zona e por lote. Trabalha com um número diferenciado de
+           agendamentos de pedidos por turno.
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) A armazenagem é o subprocedimento mais longo e envolve a
+guarda dos materiais, a preservação, a separação, a liberação para a entrega e a venda de inservíveis.
+a) Certo
+b) Errado
+A afirmativa está CORRETA.
+Guarda dos materiais, preservação, separação, liberação para a entrega e a venda de inservíveis são todas
+atribuições do processo de armazenagem da organização.
+
+
+(VUNESP/Pref. Arujá-SP/Almoxarife/2015) Os estrados para acondicionamento de cargas são chamados
+de
+a) embalagens.
+b) roletes.
+c) esteiras.
+d) paletes.
+e) pórticos.
+
+
+---
+
+Comentário:
+A alternativa D está correta e é o gabarito da questão. Os paletes são um dos principais instrumentos
+utilizados no processo de unitização de cargas e são compostos por um estrado de madeira que suporta
+caixas e outros tipos de embalagem, conforme figura abaixo.
+
+As demais alternativas se referem a estruturas diferentes daquela a qual o examinador está se referindo.
+(VUNESP/Pref. Arujá-SP/Almoxarife/2015) O armazenamento tipo drive-thru permite rotatividade
+a) FIFO, porém diminui a área de estocagem.
+b) LIFO, aumentando a área de estocagem.
+c) FIFO, sem alteração da área de estocagem.
+d) LIFO, sem alteração da área de estocagem.
+e) FIFO, porém aumenta a área de estocagem.
+Comentário:
+A alternativa A está correta e é o gabarito da questão. No armazenamento drive thru a estrutura de
+armazenamento pode ser acessada por qualquer um dos lados pois há corredores disponíveis em ambos os
+lados para o depósito ou retirada de materiais. Dessa forma é mais fácil retirar um material que tenha sido
+armazenado há algum tempo, propiciando a adoção do método FIFO (ao contrário do sistema drive in que,
+por ser acessado só de um lado é recomendado apenas para o sistema LIFO). Além disso, o sistema drive
+thru, justamente por possuir mais corredores que o sistema drive in, diminui a área de estocagem.
+A alternativa B está incorreta. O armazenamento tipo drive-thru é indicado para a rotatividade FIFO e não
+LIFO e diminui a área de estocagem.
+A alternativa C está incorreta. O armazenamento tipo drive-thru é indicado para a rotatividade FIFO, porém
+diminui (e não aumenta) a área de estocagem.
+A alternativa D está incorreta. O armazenamento tipo drive-thru é indicado para a rotatividade FIFO, e
+diminui (e não mantém) a área de estocagem.
+A alternativa E está incorreta. O armazenamento tipo drive-thru é indicado para a rotatividade FIFO, porém
+diminui (e não aumenta) a área de estocagem.
+
+
+---
+
+Layout
+
+
+       Definido de maneira simples, o layout nada mais é do que “o arranjo de homens, máquinas e
+materiais”, podendo ser definido tecnicamente como:
+
+
+     A integração do fluxo típico de materiais, da operação dos equipamentos de
+     movimentação, combinado com as características que conferem maior produtividade ao
+     elemento humano; isto para que a armazenagem de determinado produto se processe
+     dentro do padrão máximo de economia e rendimento.
+
+       O layout influi desde a seleção ou adequação do local, assim como no projeto de construção,
+modificação ou ampliação, de acordo com a necessidade da organização.
+
+      Atua ainda diretamente na distribuição e localização dos componentes e estações de trabalho, assim
+como na movimentação de materiais, máquinas e operários.
+
+        Em linhas gerais o layout é iniciado com a aplicabilidade da elaboração de um projeto, sendo
+finalizado no momento de sua concretização. Para que um projeto seja bem sucedido, é necessária a
+existência de um planejamento que incorpore um layout.
+
+Definição de um Layout
+
+       No momento da implantação de um depósito surgem as primeiras necessidades de se definir um
+layout. Isto se manifesta desde a fase inicial do projeto até a etapa de sua operacionalização, influindo na
+seleção do local, projeto de construção, localização de equipamentos e estações de trabalho, seleção de
+equipamentos de transporte e movimentação, estocagem, áreas de expedição e muitos outros detalhes e
+decisões que vão da topografia do terreno à localização das janelas.
+
+       Note que passamos por decisões a respeito da localização dos materiais (estoques), das máquinas e
+equipamentos e das pessoas (estações de trabalho). E é de tudo isso mesmo que trata o layout, como vimos
+acima.
+
+       Nesse contexto, o regime de atendimento e os tipos de produtos a serem estocados são os
+parâmetros em torno dos quais os especialistas em layout fazem seus estudos que têm como objetivo
+entregar ao projeto as condições necessárias para uma operação econômica e eficiente. Muitas vezes,
+porém, não é possível adotar a íntegra das recomendações e, nesses casos, a alternativa é um layout de
+adaptação.
+
+      Não há um critério único para se avaliar a adequação de um layout a determinada atividade. O mais
+importante é que o layout adotado permita e colabore para que a organização atinja suas metas.
+
+
+---
+
+       Dessa forma, em alguns casos pode ser mais interessante reduzir a movimentação interna enquanto,
+em outros, o foco possa ser reduzir o custo da estocagem ou, ainda, propiciar espaços capazes de acolher a
+estocagem máxima possível independentemente de seus custos, ou seja, não há uma receita única e cada
+caso concreto deverá ser analisado, gerando necessidades e limitações específicas.
+
+(QUADRIX/CREFITO-4/Almoxarife/2021) A redução das distâncias internas percorridas pela carga (e
+consequentemente o aumento das viagens de ida e volta), o aumento do tamanho médio das unidades
+armazenadas e a melhor utilização de sua capacidade volumétrica estão diretamente ligados à eficiência
+do almoxarifado.
+a) Certo
+b) Errado
+A afirmativa está CORRETA.
+São todos benefícios trazidos por um bom trabalho na definição do layout adotado pela organização.
+
+Objetivos do Layout na Armazenagem
+
+       Um bom layout é fundamental para a realização de uma operação eficiente e efetiva de
+armazenagem. O layout escolhido determinará o grau de acesso aos materiais, os modelos de fluxo do
+material, os locais e áreas obstruídas, a eficiência da mão de obra e até mesmo a segurança do pessoal do
+armazém.
+
+       Os principais objetivos de um layout de um armazém são:
+
+            •   Assegurar a utilização máxima do espaço.
+            •   Propiciar a mais eficiente movimentação de materiais.
+            •   Propiciar a estocagem mais econômica, em relação às despesas de equipamento,
+                espaço, danos de material e mão de obra do armazém.
+            •   Fazer do armazém um modelo de boa organização.
+
+
+---
+
+(FGV/IMBEL/Analista Administrativo/2021) O conceito associado à logística que proporciona economia na
+estocagem, bem como movimentação mais eficiente de materiais e tem como um dos seus tipos o
+“celular”, é conhecido por
+a) processos de transformação
+b) cadeia de valor
+c) merchandising
+d) supply chain
+e) layout
+Comentário:
+A alternativa E está correta e é o gabarito da questão.
+A banca traz exatamente o conceito de layout e apresenta, inclusive, um dos arranjos físicos possíveis (o
+celular) que veremos mais adiante.
+
+       Note que em resumo estamos falando de otimizar a utilização, movimentação e a estocagem do
+material em questão. Para que tudo isso seja obtido em geral é necessário percorrer os passos abaixo.
+
+       Vamos agora aprofundar a discussão e conhecer os principais aspectos do layout a serem verificados
+e levados em consideração ao longo do planejamento:
+
+ITENS DE ESTOQUE
+
+       Mercadorias de maior saída do depósito devem ser armazenadas nas imediações das saídas ou
+expedição, a fim de facilitar o manuseio. Mesmo procedimento deve ser adotado em relação aos itens de
+grande peso e volume.
+
+
+---
+
+CORREDORES
+
+      Corredores servem para facilitar o acesso as mercadorias em estoque. Quanto mais corredores, em
+tese mais simples o acesso porém, menor o espaço para o armazenamento. Alguns tipos de estocagem
+(como a em prateleiras) exigem corredores para cada duas filas de prateleiras.
+
+      A largura dos corredores deverá ser determinada pelo equipamento de manuseio e movimentação
+de materiais, assim como as suas localizações serão estabelecidas em função das portas de acesso e da
+arrumação das mercadorias.
+
+PORTAS DE ACESSO
+
+      As portas de acesso também devem se preocupar com a passagem dos equipamentos de manuseio
+e manutenção dos materiais, assim como os corredores, tendo sua altura e largura devidamente
+dimensionadas.
+
+       A expedição, por sua vez, deve ser corretamente planejada para facilitar as operações de manuseio,
+carga e descarga.
+
+       Por fim, deve-se pensar no local de embarque e desembarque diário de mercadorias, reservando
+espaço adequado de acordo com a quantidade esperada de caminhões e o tempo estimado de carga e
+descarga.
+
+PRATELEIRAS E ESTRUTURAS
+
+       Quando prateleiras e estruturas forem consideradas no depósito, a altura máxima deve considerar
+sempre o peso dos materiais. O topo das pilhas deve manter distância de ao menos um metro das luminárias
+ou sprinklers de teto.
+
+        Mercadorias leves devem permanecer na parte superior, as mais pesadas nas partes mais baixas e
+o piso deve ser suficientemente resistente para suportar o peso das mercadorias estocadas e o trânsito dos
+equipamentos de movimentação.
+
+       Especificamente para a escolha de estruturas metálicas para a armazenagem, devem ser levados em
+conta fatores como a largura mínima dos corredores (por onde veículos industriais deverão trafegar), a altura
+máxima de empilhamento (os níveis de armazenagem), o peso e o volume das cargas (ou o tipo dos
+materiais) e os meios previstos para a entrada e saída dos materiais (ou os equipamentos e veículos utilizados
+para a movimentação).
+
+Arranjos Físicos de um Layout
+
+       Os arranjos físicos de um layout podem ser de quatro tipos diferentes:
+
+        Posicional ou de posição fixa - as pessoas e materiais são arranjados, mas o produto não
+        se move. Esse arranjo é norma em montagens de aviões, por exemplo.
+
+
+---
+
+        Celular (ou tecnologia de grupo) - agrupa em um mesmo local os recursos necessários ao
+        processamento de um determinado produto.
+
+        Por produto ou linear - funciona como uma linha de produção, em que os materiais e
+        pessoas são arranjados em sequência, para produzir o bem ou o serviço.
+
+        Por processo ou funcional - os processos semelhantes são dispostos em proximidade, por
+        especialidade.
+
+Taxa de Ocupação Volumétrica
+
+        A maximização dos espaços disponíveis para armazenagem é uma busca contínua na atividade. Um
+dos indicadores de tal medida é a taxa de ocupação volumétrica que leva em consideração o espaço
+utilizado em relação ao espaço disponível. Atenção pois esse tema costuma vir na prova no formato de um
+problema matemático:
+
+               Taxa de Ocupação Volumétrica = Espaço Utilizado / Espaço Disponível.
+
+       Outro fator ainda relacionado à taxa de ocupação é a chamada seletividade, considerada o pronto
+acesso a todos os itens, propiciando um atendimento imediato e impactando positivamente o nível de
+serviço.
+
+      Nesse contexto, para se obter um aproveitamento máximo do espaço, o armazenamento vertical é
+um recurso indispensável e, para isso, é necessário recorrer novamente aos pallets.
+
+      Assim, um dos fatores fundamentais na armazenagem é a correta e máxima utilização possível do
+espaço disponível, o que demanda intenso e detalhado estudo das cargas a armazenar, níveis de
+armazenamento, estruturas de armazenagem disponíveis ou necessárias e meios mecânicos requeridos.
+
+
+---
+
+(VUNESP/Pref. Arujá-SP/Almoxarife/2015) Em relação às condições básicas do arranjo físico no caso de
+almoxarifado e de depósito, os principais aspectos do layout para serem verificados são:
+a) portas de acesso, corredores e prateleiras.
+b) embalagem, requisição de materiais e estoque mínimo.
+c) corrimão, telhado e cabine primária.
+d) extintores, classificação de fornecedores e estoque máximo.
+e) avaliação de fornecedores, controle de qualidade e custo de pedido.
+Comentário:
+A alternativa A está correta e é o gabarito da questão. De acordo com João José Viana, os principais aspectos
+do layout a serem verificados são: itens de estoque, corredores, portas de acesso e prateleiras/estruturas.
+Nas demais alternativas a banca lista aspectos não considerados entre os mais importantes para a verificação
+do layout.
+
+
+(FCC/METRO SP/Oficial Logística Almoxarifado/2018) Um depósito de peças sobressalentes do
+almoxarifado de uma empresa de transportes público armazena somente um tipo de produto. Sabendo
+que a área do piso é de 1 500 m2 e a resistência estrutural do piso é 9 t/m2, quando este depósito contiver
+6 000 toneladas de carga, sua taxa de ocupação será de
+a) 55%.
+b) 44%.
+c) 36%.
+d) 60%.
+e) 30%.
+Comentário:
+Vamos aos cálculos antes de apontar a alternativa correta:
+Área total = 1500 m²
+Resistência estrutural do piso a cada m² = 9 toneladas
+Depósito = 6 mil toneladas
+Taxa de ocupação correspondente ao depósito?
+1. Se a resistência do piso é de 9T/m2, considerando que temos 6.000 T, é possível descobrir que 666,7m2
+da área estão ocupados = 6.000/9
+2. Como a área possui 1.500m2, sua ocupação é de 666,7/1500 = 44,4%
+
+
+---
+
+A alternativa B está correta e é o gabarito da questão.
+
+
+---
+
+Movimentação
+
+       Para que o processo produtivo possa acontecer, ao menos um dos três elementos que compõem o
+layout da organização precisa se movimentar: homem, máquina ou material. Caso nenhum dos três se
+movimento o processo produtivo não ocorre.
+
+      Na maioria dos processos na indústria quem se move é o material porém há processos especiais
+como na construção de aviões, navios ou equipamentos muito pesados em que homens e máquinas é que
+se movimentam em torno do material, mas é uma exceção. É o caso do layout de posição fixa, que já
+estudamos.
+
+        Como em todas as outras atividades do processo de gestão de materiais, a movimentação também
+têm custos, com o agravante que não gera qualquer valor ao produto acabado, podendo apenas tornar o
+seu processo produtivo mais ou menos eficiente. Dessa forma é um dos alvos mais importantes para a
+eficiência da gestão do processo e para o seu barateamento, pois só gera custo...
+
+     Vamos entender a seguir quais são os principais objetivos e finalidades do processo de
+movimentação.
+
+Objetivos e finalidades
+
+       Em relação à movimentação de materiais (o que ainda está diretamente ligado ao armazenamento e
+se relaciona diretamente com ele), o mais importante é adotar um layout que facilite e otimize a
+movimentação dos materiais, assim como adotar os equipamentos e técnicas mais eficientes em todo o
+processo, gerando a maximização da utilização dos recursos disponíveis, sejam eles os espaços, o tempo, as
+pessoas, os materiais e os próprios equipamentos e ferramentas.
+
+       Isto é bastante importante pois as movimentações são movimentos repetitivos e, caso não estejam
+otimizadas, representarão perdas que se acumularão ao longo do tempo em função de ineficiência
+produzida.
+
+       Um sistema de movimentação de materiais no processo produtivo de uma indústria deve buscar as
+seguintes finalidades básicas:
+
+
+---
+
+REDUÇÃO DE CUSTOS
+
+      A redução de custos dentro do processo de movimentação pode ser obtida por meio de três grandes
+grupos:
+
+            •   Mão de obra - utilização de equipamentos de manuseio substituem a mão de obra
+                braçal pelas alternativas mecânicas. Utilizar ao máximo os equipamentos
+                disponíveis, de preferência os padronizados e que podem trabalhar com diferentes
+                tipos de cargas.
+            •   Materiais - O melhor acondicionamento e transporte reduz as perdas ao longo do
+                processo.
+            •   Despesas Gerais - processos de transporte e estoque racionalizados diminuem as
+                despesas com acidentes ou sinistros.
+
+AUMENTO DA CAPACIDADE PRODUTIVA
+
+        Já em relação à capacidade produtiva também é possível atuar em três frentes:
+
+            •   Aumento da produção - métodos mais eficientes de transporte e armazenagem
+                que permitam à matéria prima chegar mais rapidamente à linha de produção.
+            •   Aumento da capacidade de armazenagem - a ocupação vertical e a utilização de
+                equipamentos que permitem o empilhamento são fundamentais para a
+                maximização da ocupação do espaço. Objetivo é utilizar ao máximo o espaço
+                disponível.
+            •   Melhor distribuição da armazenagem - a formação de cargas unitárias por meio do
+                uso de dispositivos de transportes e armazenagem como os pallets é fundamental,
+                assim como a melhor estruturação possível de corredores, estantes. Reduzir, de
+                forma geral, os custos da armazenagem usando, entre outras técnicas, a gravidade
+                e a escolha de equipamentos com os menores custos globais.
+
+MELHORES CONDIÇÕES DE TRABALHO
+
+        Em relação às condições de trabalho, as medidas afetam diretamente as pessoas envolvidas. São
+elas:
+
+            •   Maior segurança - o uso correto de equipamentos de manuseio e a disseminação
+                da utilização da unitização das cargas reduz bastante o risco de acidentes.
+
+
+---
+
+           •   Redução da fadiga e maior conforto ao pessoal - o manuseio de cargas feito por
+               máquinas libera o homem para outras atividades e reduz fadiga. Evitar a
+               manipulação (esforço humano) ao longo do transporte, preferindo tarefas
+               automatizadas e/ou mecanizadas. Para os que continuam na atividade, o uso de
+               máquinas e equipamentos adequados aumenta o conforto da atividade.
+
+MELHOR DISTRIBUIÇÃO
+
+      Por fim, em relação à distribuição, também temos diversas oportunidades de melhoria até a chegada
+no usuário final:
+
+           •   Melhoria na circulação - criação de corredores e layouts eficientes que respeitem
+               o fluxo natural das operações e reduzam trajetos em zigue zague, assim como a
+               integração da unidade produtora com unidades regionais para distribuição,
+               contribuem para significativa melhora na circulação da produção.
+           •   Localização estratégica do armazém - a integração da cadeia de distribuição
+               permite a criação do diversos pontos de armazenagem, mesmo afastados da
+               unidade produtiva e, desta vez, próximos do cliente final.
+           •   Melhoria dos serviços ao usuário - a proximidade do consumidor torna possíveis
+               respostas mais rápidas e minimiza as perdas e quebras ao longo do transporte,
+               reduzindo custos e ampliando a satisfação do usuário final.
+           •   Maior disponibilidade - com a implantação dos pontos de armazenagem remotos
+               é possível aumentar a disponibilidade de produtos em cada uma das regiões alvo.
+
+As Leis da Movimentação
+
+      Existem algumas "leis de movimentação" que valem a pena ser estudadas pois ajudarão você a
+entender e resolver várias questões de prova. Além disso resumem bem o assunto. Vamos a elas:
+
+        - Obediência ao fluxo das operações: trajetória dos materiais deve seguir a sequência das
+        operações, de preferência de forma linear.
+
+        - Mínima distância: eliminação do zigue zague e redução de distâncias no fluxo dos
+        materiais.
+
+        - Mínima manipulação: evitar a manipulação ao longo do processo, priorizando o
+        transporte mecânico.
+
+
+---
+
+        - Segurança e satisfação: selecionar equipamentos que ampliem a segurança e a satisfação
+        dos envolvidos.
+
+        - Padronização: equipamentos padronizados possuem custos e manutenção inferiores aos
+        especializados.
+
+        - Flexibilidade: equipamentos devem ser capazes de atuar com vários tipos de materiais e
+        cargas.
+
+        - Máxima utilização do equipamento: equipamento deve estar ocupado o tempo todo.
+
+        - Máxima utilização da gravidade: sempre que possível priorizar o transporte por
+        gravidade, usando para isso pequenas elevações mecânicas.
+
+        - Máxima utilização do espaço disponível: utilizar sempre o espaço vertical.
+
+        - Método alternativo: quando falhar o plano A é necessário ter o plano B de movimentação
+        já desenhado.
+
+        - Menor custo total: o custo total é que deve ser o decisor na escolha do equipamento e
+        não custos intermediários como o de aquisição, operacional ou de manutenção.
+
+Equipamentos de movimentação e sistemas de manuseio
+
+      A movimentação e manuseio dos materiais pode ser feita das mais variadas formas, inclusive
+manualmente, efetuado pelo esforço físico dos funcionários.
+
+       Vimos até aqui o quanto é importante adotar os equipamentos corretos em cada uma das ocasiões,
+visando redução de custos, ganho de velocidade, eficiência e a segurança, saúde e satisfação dos envolvidos.
+
+       Além disso, as decisões relativas a movimentação de materiais, devem levar em conta aspectos
+importantes como o layout adotado, o produto a ser fabricado, a edificação existente e suas limitações
+impostas, os custos das movimentações, as áreas necessárias para o funcionamento dos equipamentos,
+fontes de energia necessárias, operadores requeridos, entre outros.
+
+       Como podemos ver é um processo decisório complexo que, ao final, conta com as alternativas abaixo
+para sua execução.
+
+CLASSIFICAÇÃO E EQUIPAMENTOS PARA MANUSEIO
+
+        A classificação adotada para os diferentes tipos de equipamentos de movimentação e transporte os
+divide em alguns grupos de acordo com características geométricas e funcionais. Os principais são, incluindo
+alguns meios de apoio aos processos de carga, descarga e manuseio:
+
+
+---
+
+        - Transportadores: correias, correntes, fitas metálicas, roletes, rodízios, roscas e
+        vibratórios.
+
+        - Guindastes, talhas e elevadores: guindastes fixos e móveis, pontes rolantes, talhas,
+        guinchos, monovias, elevadores, etc.
+
+        - Veículos Industriais: carrinhos de todos os tipos, paleteiras, empilhadeiras, tratores,
+        trailers e veículos especiais para transporte a granel.
+
+        - Equipamentos de posicionamento, pesagem e controle: plataformas fixas e móveis,
+        rampas, equipamentos de transferência, etc.
+
+        - Containers e estruturas de suporte: vasos, tanques, suportes e plataformas, estrados,
+        pallets, suportes para bobinas e equipamentos auxiliares de embalagem.
+
+DOIS PONTOS PRÉ DETERMINADOS - TRANSPORTADORES CONTÍNUOS
+
+        São utilizados sempre que se precisar realizar uma movimentação constante, entre dois pontos
+predeterminados. Nestes casos deve-se usar os sistemas de transportadores contínuos como esteiras,
+roletes ou rodízios, transportadores de rosca ou outros.
+
+       Geralmente são utilizados em mineração, indústrias, terminais de carga e descarga, terminais de
+recepção e expedição de mercadorias ou em armazéns de manutenção a granel. Veja abaixo exemplos de
+esteiras transportadoras, inclusive por roletes.
+
+
+---
+
+ÁREAS RESTRITAS - GUINDASTES, PONTES E MONOVIAS
+
+      Já para os casos em que o transporte se refere a áreas restritas (como no caso dos armazéns), temos
+algumas opções de sistemas de manuseio:
+
+      Pontes rolantes ou monovias: utilizadas no transporte e elevação de cargas em instalações industriais
+como fundições e usinas siderúrgicas. Veja abaixo:
+
+
+---
+
+Guindastes: compostos por colunas e lança com guincho, acionado por dispositivo mecânico ou elétrico.
+Indicados para cargas acima de 5 toneladas.
+
+PONTOS SEM LIMITES FIXOS - VEÍCULOS INDUSTRIAIS
+
+       Quando o transporte deve acontecer entre pontos sem limites fixos são usados os veículos
+industriais. Os mais utilizados são os seguintes:
+
+Carrinhos: movimentação manual, pode possuir vários formatos. Abaixo, um exemplo:
+
+Paleteiras (ou carro pallet): braços metálicos em forma de garfo recolhem os pallets, elevam a carga e
+permitem o seu transporte. Podem ser manuais ou motorizadas. Abaixo um exemplo de paleteira manual.
+
+
+---
+
+Empilhadeiras: quando há a necessidade de empilhar a carga, além de transportá-la, deve ser usada a
+empilhadeira, que é um carro de elevação por garfos, motorizado e em condições de operar a média
+distância. Conseguem recolher os pallets por meio dos garfos frontais e os elevam à altura requerida para o
+empilhamento.
+
+(SELECON/EMGEPRON/Almoxarife/2021) O responsável pelo almoxarifado deve estar atento às normas
+aplicáveis no local de trabalho, visando segurança e operação de pessoas e produtos. Profissionais que
+atuam no processo de movimentação e armazenagem em almoxarifado/armazém precisam:
+a) monitorar movimentos perigosos dos transportadores contínuos de materiais, acessíveis durante
+operação normal, que devem ser protegidos, especialmente, nos pontos de esmagamento, agarramento e
+aprisionamento.
+b) utilizar transportadores de materiais (ex. empilhadeira) para qualquer tipo e capacidade de carga,
+independente da especificação.
+c) permitir permanência e circulação de pessoas sobre partes e corredores, em movimento de
+transportadores de materiais.
+d) consertar máquinas e equipamentos utilizados no setor de trabalho, sem necessidade de chamar
+profissional legalmente habilitado.
+Comentário:
+A alternativa A está correta e é o gabarito da questão.
+A preocupação com a segurança deve ser sempre um grande objetivo dos responsáveis pelas atividades de
+movimentação. Pontos de esmagamento, agarramento e aprisionamento são comuns e devem ser
+mapeados para que as devidas medidas de segurança sejam implementadas.
+
+
+---
+
+(VUNESP/Pref. Poá-SP/Almoxarife/2015) Os veículos industriais são os equipamentos mais versáteis, pois
+não têm limites fixos de movimentação de materiais. Eles dividem-se em:
+a) guindastes, carretas, empilhadeiras, guinchos e containers.
+b) carretas, carrinhos, empilhadeiras, tratores e trailers.
+c) carros, guindastes, talhas, elevadores e trens.
+d) trailers, empilhadeiras, tratores, transportadores e pontes elevadiças.
+e) roletes, transportadores, tratores, carretas e guinchos.
+Comentário:
+A alternativa B está correta e é o gabarito da questão.
+A classificação adotada para os equipamentos de movimentação e transporte os segmenta em grupos
+bastante amplos, conforme abaixo:
+- Transportadores: correias, correntes, fitas metálicas, roletes, rodízios, roscas e vibratórios.
+- Guindastes, talhas e elevadores: guindastes fixos e móveis, pontes rolantes, talhas, guinchos, monovias,
+elevadores, etc.
+- Veículos industriais: carrinhos de todos os tipos, paleteiras, empilhadeiras, tratores, trailers e veículos
+especiais para o transporte a granel.
+- Equipamentos de posicionamento, pesagem e controle: plataformas fixas e móveis, rampas, equipamentos
+de transferência, etc.
+- Containers e estruturas de suporte: vasos, tanques, suportes e plataformas, estrados, pallets, suportes para
+bobinas e equipamento auxiliar de embalagem.
+A alternativa A está incorreta. Guindastes, guinchos e containers não são considerados veículos industriais.
+Veja a classificação nos comentários da alternativa correta.
+A alternativa C está incorreta. Guindastes, talhas, elevadores e trens não são considerados veículos
+industriais. Veja a classificação nos comentários da alternativa correta.
+A alternativa D está incorreta. Pontes elevadiças e transportadores não são considerados veículos industriais.
+Veja a classificação nos comentários da alternativa correta.
+A alternativa E está incorreta. Roletes, guinchos e transportadores em geral não são considerados veículos
+industriais. Veja a classificação nos comentários da alternativa correta.
+
+
+---
+
+                                  LISTA DE QUESTÕES
+
+1. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado é responsável apenas pelo recebimento e pela armazenagem de produtos.
+
+a) Certo
+
+b) Errado
+
+2. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado é o local onde se estocam matéria-prima, insumos e embalagens, ou seja, os
+   materiais iniciais. Pode ser também responsável pelo recebimento e pela compra dos materiais.
+
+a) Certo
+
+b) Errado
+
+3. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado e o depósito exercem a mesma função dentro das empresas.
+
+a) Certo
+
+b) Errado
+
+4. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O     padrão     funcional    de     um     almoxarifado      dá-se    da    seguinte     forma:
+   recebimento →→ armazenagem →→ distribuição.
+
+
+---
+
+a) Certo
+
+b) Errado
+
+5. (FGV/FUNSAÚDE CE/Analista Administrativo/2021) No processo de estocagem de materiais, é
+   frequente a utilização em armazéns dos pallets, que possuem como vantagens reconhecidas:
+
+a) a dispensabilidade de treinamento para a adaptação dos funcionários.
+b) a facilidade de movimentação de cargas viabilizada pela leveza do pallet.
+c) o melhor aproveitamento dos espaços verticais em função do empilhamento de cargas.
+d) o baixo investimento em equipamentos para o seu manuseio devido à capacidade de adaptação do modal.
+e) a eficiência no manuseio de materiais de alto giro.
+
+6. (VUNESP/CODEN/Almoxarife/2021) As atividades de devolução de materiais, confronto dos itens
+   listados na nota fiscal e no manifesto de transporte com os volumes a serem efetivamente
+   recebidos, análise da documentação recebida, conferência visual, quantitativa e qualitativa dos
+   materiais, são executadas:
+
+a) no momento de utilização do material.
+b) no recebimento de mercadorias.
+c) na reposição por Ponto de Pedido.
+d) na estocagem até o momento em que os produtos forem requisitados.
+e) no ponto de ressuprimento ou reposição.
+
+7. (SELECON/EMGEPRON/Técnico/2021) As atividades de recebimento abrangem desde a recepção de
+   material entregue pelo fornecedor à entrada no estoque. A interação entre áreas acontece através
+   do processo de comunicação oficial da Organização, que pode ser por correspondência interna (CI),
+   ofício, ou qualquer meio digital. A área de recebimento tem, entre suas principais funções:
+
+a) realizar somente a conferência qualitativa dos materiais recebidos e liberar pagamento ao fornecedor
+direcionando para estoque no almoxarifado.
+b) coordenar e controlar as atividades de recebimento e devolução de materiais, além de registrar em
+sistema próprio as notas fiscais dos materiais recebidos.
+c) proceder à conferência visual e ignorar as condições de embalagem quanto a possíveis avarias na carga
+transportada.
+d) comprar, pagar e conferir os materiais destinados à empresa.
+
+8. (CEBRASPE/PGDF/Técnico Jurídico/2021) Acerca do recebimento e da conferência de materiais,
+   julgue o item a seguir. Ao se realizar o recebimento de materiais, deve-se avaliar se consta a
+   quantidade acordada dos produtos, bem como sua qualidade, além de se averiguar se os materiais
+   cumprem as exigências de preço e prazo estabelecidas previamente.
+
+a) Certo
+
+
+---
+
+b) Errado
+
+9. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   Os sub-procedimentos dentro do recebimento envolvem: descarga; conferência quantitativa;
+   conferência qualitativa; e recarga.
+
+a) Certo
+
+b) Errado
+
+10. (QUADRIX/CREFITO 4/Almoxarife/2021) No que se refere a patrimônio e a almoxarifado, julgue o
+    item. No momento de descarga do material no almoxarifado, é imprescindível que se cheque se a
+    nota fiscal da mercadoria recebida é a mesma descrita no documento que ensejou seu recebimento.
+
+a) Certo
+
+b) Errado
+
+11. (VUNESP/CODEN/Almoxarife/2021) A imagem a seguir refere-se a:
+
+a) carga pré-lingada.
+b) demurrage.
+c) prancha.
+d) pallet 4 entradas.
+e) pallet 2 entradas.
+
+12. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Chiavenato (2005) define que o
+    armazenamento de materiais depende da dimensão e características dos materiais. Segundo o
+    referido autor, trata-se da técnica de estocagem ideal para materiais de pequenas dimensões, como
+    parafusos, arruelas, alguns materiais de escritório, como lápis, canetas esferográficas etc., podem
+    ser de metal, de madeira ou de plástico e denominam-se:
+
+a) Prateleiras ou raques.
+b) Raques ou bags.
+
+
+---
+
+c) Caixas ou gavetas.
+d) Pallets ou estrados.
+
+13. (SELECON/EMGEPRON/Técnico/2021) Considerando os princípios de estocagem, alguns dispositivos
+    são importantes para manuseio, movimentação, transporte e armazenagem de carga. A figura a
+    seguir mostra um palete, modelo fabricado em madeira. Em relação ao palete, é possível afirmar
+    que:
+
+a) não é compatível com a unitização de cargas.
+b) é obrigatório o uso de palete de madeira em armazéns frigoríficos.
+c) é fabricado em madeira e, exclusivamente, há modelos de duas entradas.
+d) há diferentes tipos e aplicações, em função da carga, permitindo carga unitária e medidas básicas de 1.000
+mm × 1.200 mm.
+
+14. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos critérios e às técnicas
+    de armazenagem. A paletização é o procedimento apropriado para unitizar embalagens de formas
+    cônicas e cilíndricas.
+
+a) Certo
+
+b) Errado
+
+15. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos critérios e às técnicas
+    de armazenagem. O empilhamento, o uso de caixas e racks e a instalação de prateleiras são
+    procedimentos empregados na estocagem de materiais e produtos.
+
+a) Certo
+
+b) Errado
+
+16. (CPCON UEPB/UEPB/Almoxarife/2021) Em uma organização, o arranjo físico tem o objetivo de
+    planejar e integrar o fluxo dos materiais dentro do almoxarifado, buscando eficiência e eficácia do
+    processo.
+
+   Analise as afirmações abaixo em relação ao planejamento e ao layout do almoxarifado.
+
+   I- Definir a largura das ruas do almoxarifado de acordo com o tipo de movimentação a ser executado.
+
+   II- Determinar o empilhamento máximo permitido.
+
+
+---
+
+    III- Analisar a iluminação artificial necessária para execução dos trabalhos do almoxarifado.
+
+    IV- Verificar o tipo de embalagem adequada para cada item.
+
+    Estão CORRETAS as afirmações que se apresentam na alternativa:
+
+a) III e IV, apenas.
+b) I, II e IV, apenas.
+c) I e IV, apenas.
+d) I, II, III e IV.
+e) II e III, apenas.
+
+17. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Os pallets são considerados um importante
+    material utilizado na organização de um almoxarife. Analise as alternativas a seguir e responda qual
+    opção apresenta uma vantagem na utilização de um pallet?
+
+a) Permite o recebimento do material via on-line e o despacho para outros setores da empresa.
+b) Compatibilidade com todos os meios de transporte (marítimo, terrestre, aéreo).
+c) Estabelece o sistema de instalações e do layout mais adequado, propiciando condições físicas que
+preservem a qualidade dos materiais, com vistas à ocupação plena do espaço físico e à ordenação da
+arrumação.
+d) Ocasiona a ocorrência de demandas constantes no tempo, ou seja, um comportamento regular de
+consumo.
+e) Permite controlar os níveis de estoques, realizando a compra dos materiais para reposição, conforme
+procedimentos estabelecidos pelos clientes.
+
+18. (VUNESP/CODEN/Almoxarife/2021) Grandes caixas, normalmente de metal, que são utilizadas para
+    o acondicionamento de diversos produtos que serão enviados a um mesmo destino, amplamente
+    utilizados nos portos, e que ao chegar ao destino são esvaziados e reutilizados para novas cargas,
+    são:
+
+a) contêineres.
+b) pallets de plástico.
+c) pallets de metal.
+d) pallets PBR.
+e) cargas pré-lingadas.
+
+19. (VUNESP/CODEN/Almoxarife/2021) O tipo de carga unitizada que apresenta estrutura fabricada,
+    normalmente, com fios de poliéster de grande resistência que suportam cargas excepcionalmente
+    pesadas, cujos fios são içados por meio de guindaste e armazenados nos locais apropriados, com
+    pacotes que possuem o mesmo peso e volume, é:
+
+a) o pallet de 2 entradas.
+
+
+---
+
+b) o pallet de 4 entradas.
+c) o pallet PBR.
+d) o contêiner.
+e) a carga pré-lingada.
+
+20. (SELECON/EMGEPRON/Técnico/2021) Em atividades no segmento naval, o responsável do
+    almoxarifado deve estar atento às recomendações sobre transporte, movimentação, armazenagem
+    e manuseio de materiais, visando produtividade e segurança para colaboradores. A equipe de
+    almoxarifado/armazém deve, dentre outras atividades:
+
+a) inspecionar equipamentos utilizados na movimentação de materiais, tais como ascensores, elevadores de
+carga, guindastes, monta-carga, pontes-rolantes, talhas e empilhadeiras.
+b) inspecionar, eventualmente, cabos de aço, cordas, correntes, roldanas e ganchos, sem necessidade de
+substituição de partes defeituosas.
+c) indicar, em lugar não visível, a carga máxima de trabalho permitida para não preocupar funcionários da
+equipe.
+d) possuir protetores de mãos para transporte de carga, mas em carros manuais não é preciso, pois são
+equipamentos destinados à movimentação do pessoal que exigem condições especiais de segurança.
+
+21. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O controle do almoxarifado deve fornecer, a qualquer
+    momento, as quantidades dos materiais que se encontram em:
+
+a) armazenagem, distribuição e transportes.
+b) estocagem, devoluções e vendas.
+c) compras, faturamento e devoluções.
+d) recebimento, físico e devoluções.
+e) entradas, compras e clientes.
+
+22. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As 6 fases da armazenagem, numa sequência lógica, são:
+
+a) guarda na localização adotada, recebimento, estocagem, armazenagem, devolução e distribuição.
+b) recebimento, identificação do material, guarda na localização adotada, informação da localização física,
+verificação periódica das condições de proteção e armazenamento.
+c) identificação do material, codificação, catalogação, armazenagem, devolução e estocagem.
+d) identificação do material, separação, guarda na localização adotada, informação da localização física,
+verificação periódica das condições de proteção e armazenamento.
+e) armazenagem, recebimento, identificação do material, guarda na localização adotada, verificação
+periódica das condições de proteção e armazenamento.
+
+23. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O recebimento de materiais envolve 3 passos que são:
+
+a) verificar a qualidade do produto, armazená-lo e informar a entrega ao setor de contas a pagar.
+
+
+---
+
+b) conferir a qualidade do produto, verificar as características de armazenamento e faturar para os clientes.
+c) conferir a quantidade do material, fazer testes de espessura e textura e informar aos superiores quando
+o material não corresponder com o pedido ou distribuir aos setores.
+d) especificar equipamentos e materiais específicos e restrições de especificações.
+e) verificar se a Nota Fiscal corresponde ao pedido, verificar a qualidade e quantidade dos materiais e liberar
+a guarda dos materiais se em conformidade ou providenciar devolução.
+
+24. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Dependendo das características do material, a
+    armazenagem pode dar-se em função dos seguintes parâmetros:
+
+a) volume, peso, forma, aspecto, fragilidade, obsolescência e tamanho dos materiais.
+b) peso, cor, odor, aspectos de deterioração, fragilidade e estocagens especiais.
+c) frequência, obsolescência, radiação, corrosão, peso, tamanho e forma.
+d) piso, estocagem, equipamentos de distribuição, armazenagem e distribuição.
+e) fragilidade, intoxicação, radiação, corrosão, inflamabilidade, volume, peso e forma.
+
+25. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Armazenagem por frequência é:
+
+a) armazenar no centro do almoxarifado ou depósito os materiais de menor giro de movimentação.
+b) armazenar no fundo do almoxarifado ou depósito os materiais de maior giro de movimentação.
+c) estocar os materiais menores e de menor giro de movimentação próximo às saídas do almoxarifado ou
+depósito.
+d) armazenar próximo à saída do almoxarifado os materiais com maior giro de movimentação.
+e) estocar materiais de maior giro de movimentação próximo às saídas de emergência ou debaixo das
+escadas dos depósitos.
+
+26. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O almoxarife é o responsável pelo sistema de localização
+    de materiais e deverá possuir um esquema do _________ com o(a) _________ dos espaços
+    disponíveis por área de__________ .
+
+a) layout … depósito … localização
+b) layout … localização … estocagem
+c) depósito … arranjo físico … estocagem
+d) dimensionamento … tamanho … armazenagem
+e) armazenamento … localização … estocagem
+
+27. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O inventário físico, redigido periodicamente nas
+    empresas, tem o objetivo de
+
+a) efetuar o confronto entre as saídas de estoque e o relatório de auditoria.
+b) informar o setor de expedição sobre as diferenças encontradas no estoque.
+
+
+---
+
+c) efetuar o confronto entre o físico e a ficha de controle de estoque e acertar possíveis erros de valores na
+contabilidade.
+d) informar aos superiores imediatos quanto a eficiência do setor de almoxarifado.
+e) simples conferência entre o físico e a ficha de controle, através do inventário permanente.
+
+28. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Os fatores que influenciam na escolha das estruturas
+    metálicas para armazenagem são:
+
+a) tipo de embalagem, plataformas, pisos, equipamentos de movimentação e técnicas adequadas de
+estocagem dos materiais.
+b) técnicas de armazenagens paletizadas, local de higienização das mercadorias e mesa para manuseio de
+documentos.
+c) largura dos corredores, altura das pilhas, tipo de armazenagem e equipamentos de produção de
+mercadorias.
+d) o modo de compra, armazenagem, produção e venda das mercadorias.
+e) tipo de material armazenado, equipamentos utilizados para a movimentação, largura mínima dos
+corredores e níveis de armazenagem.
+
+29. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As vantagens de usar equipamentos automáticos na
+    armazenagem são:
+
+a) redução do custo de oportunidade e aumento da eficiência dos controles na descarga.
+b) melhor monitoramento, identificação e correção de erros no ato da verificação.
+c) redução do custo de mão de obra, aumento de produtividade, aumento do controle e melhor nível de
+serviço.
+d) redução do valor envolvido na compra e manutenção de equipamentos automáticos e aumento dos custos
+e níveis de serviço.
+e) diminuição do carregamento e descarregamento de caminhões e diminuição dos custos envolvidos na
+armazenagem.
+
+30. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Pode-se considerar como uma das principais
+    atribuições do almoxarife
+
+a) promover o marketing da empresa perante os órgãos controladores.
+b) manter a política de informações de compras junto aos fornecedores.
+c) fazer nota de empenho, liquidação e contabilização das compras.
+d) receber, para guarda e proteção, os materiais adquiridos pela empresa.
+e) rever projetos com uso desnecessário de pessoas e de material.
+
+31. (VUNESP/Pref. Arujá-SP/Controlador de Patrimônio/2019) Quando o material solicitado chega à
+    empresa, é necessário o processo de entrada de materiais, que inclui
+
+
+---
+
+a) conferência física, armazenagem, distribuição e transporte.
+b) expedição, faturamento, conferência eletrônica e recebimento.
+c) conferência física, expedição, armazenagem e transporte.
+d) controle de qualidade, recebimento de materiais e controle.
+e) conferência eletrônica, conferência física e recebimento de materiais.
+
+32. (VUNESP/CM Registro-SP/Assistente Legislativo/2016) A distribuição, como uma atividade global,
+    que se inicia na preparação do produto e termina no usuário, é grandemente melhorada com a
+    racionalização dos sistemas de manuseio de materiais no que diz respeito à
+
+a) distância entre os centros de distribuição, realocação de espaços de armazenagem, serviços de separação,
+controle e entrega de materiais.
+b) administração de centros de distribuição, contratação de mais mão de obra e equipamentos
+automatizados.
+c) realocação de locais de estocagem, frotas próprias para melhor distribuição, racionalização da mão de
+obra.
+d) separação, armazenagem e entrega de mercadorias, maior espaço de estocagem, uma grande frota de
+caminhões.
+e) circulação de mercadorias, localização estratégica dos almoxarifados, melhoria do serviços aos usuários e
+maior disponibilidade de produtos em cada região.
+
+33. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Na descentralização dos almoxarifados, encontra-se
+    algumas vantagens. Entre elas, destacam-se:
+
+a) maior agilidade na obtenção dos materiais, proximidade com o centro de decisão local e maior divisão de
+responsabilidade.
+b) maior poder de negociação em função do volume de compras, adoção de procedimentos uniformes e
+melhor controle dos materiais.
+c) possibilidade de maior especialização por parte do pessoal de compras, menor divisão de responsabilidade
+e melhor controle dos materiais.
+d) adoção de procedimentos uniformes possibilitando melhor controle dos materiais, maior poder de
+negociação e melhores espaços de estocagem.
+e) melhor poder de decisão, maior poder de negociação com o pessoal de vendas e menor nível de
+responsabilidade.
+
+34. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos objetivos da existência do almoxarifado é
+
+a) adotar novas técnicas de aquisições da empresa através de inovação tecnológica.
+b) resguardar as quantidades exatas e preservar a qualidade dos materiais.
+c) aprimorar o projeto de transportes e reciclagem de materiais padronizados.
+d) controlar o beneficiamento das matérias primas até o produto acabado.
+
+
+---
+
+e) realizar levantamentos contábeis para diminuição do custo da mão de obra.
+
+35. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) A requisição de material é utilizada para
+
+a) elaborar o pagamento da aquisição de um determinado material através do lançamento contábil.
+b) transportar o material, informando o roteiro otimizado de coletas e padronização das metas.
+c) realizar inventário rotativo e aprimorar o sistema de aquisição de materiais.
+d) alterar o layout do almoxarifado, devido à detecção de desperdícios de materiais em diferentes áreas de
+consumo.
+e) formalizar o pedido de retirada de determinada quantidade de um item em estoque para utilização da
+empresa.
+
+36. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos objetivos do arranjo físico é
+
+a) coletar dados para definir uma estratégia de mercado em relação à concorrência.
+b) analisar a política de estoque e o ponto ideal do tempo de reposição dos materiais.
+c) integrar máquinas, pessoas e materiais, para possibilitar uma produção eficiente.
+d) facilitar os pedidos de compras e eliminar a dualidade de itens de suprimento.
+e) acompanhar o desempenho do fornecimento de materiais a diversos setores da empresa.
+
+37. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) O descarregamento dos produtos no ato do
+    recebimento deve ser efetuado em local coberto no caso de mau tempo. Essa afirmação refere-se
+    ao
+
+a) sistema de custeio por ordem de serviço e entrega do produto.
+b) método e à precaução para o manuseio e movimentação de materiais.
+c) sistema de custeio padrão e custos dos produtos e seus subconjuntos.
+d) método LIFO de armazenagem e ao método FIFO de aquisição.
+e) fluxo de estoque, à classificação e à codificação de materiais.
+
+38. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Quem serve de base para a escolha do sistema de
+    armazenagem de cargas e da operação do almoxarifado são
+
+a) as notas de empenho.
+b) os inventários diários.
+c) os pontos de ressuprimento.
+d) os registros de estoque.
+e) as condições de trabalho.
+
+39. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) As embalagens de comercialização têm por finalidade
+    primordial a
+
+
+---
+
+a) proteção do produto.
+b) valoração contábil.
+c) ocupação volumétrica.
+d) classificação de fornecedores.
+e) marcação de pedidos.
+
+40. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) São tipos de equipamentos utilizados para
+    movimentação de materiais:
+
+a) guindaste e flutuador.
+b) nivelador e comboio.
+c) paleteiro e empilhadeira.
+d) monovia e atomizador.
+e) embalador e acondicionador.
+
+41. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Pode-se chamar a arrumação de pequenos volumes
+    padronizados em unidades maiores, para que possam ser mecanicamente movimentados, de
+
+a) classificação de materiais.
+b) unitização de cargas.
+c) codificação de materiais.
+d) avaliação de estoque.
+e) integração de serviços.
+
+42. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Nos inventários, propiciar a verificação periódica da
+    exatidão dos registros para poder avaliar o lucro e transferir para o resultado as diferenças
+    apuradas é o objetivo do
+
+a) ponto de pedido.
+
+b) estoque de segurança.
+
+c) levantamento físico.
+
+d) sistema de codificação.
+
+e) lote econômico de compra.
+
+43. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Efetua-se, periodicamente, quase sempre no
+    encerramento do período fiscal da empresa, para efeito de balanço contábil, o
+
+a) arranjo físico.
+
+
+---
+
+b) inventário físico.
+
+c) controle de qualidade.
+
+d) plano de produção.
+
+e) controle de custos.
+
+44. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos pré-requisitos mais importantes para
+    organização de um inventário anual é a
+
+a) efetivação de compras de todos os itens de material para abastecer o ano seguinte.
+
+b) agilização das atividades de processamento de dados da área financeira e contábil.
+
+c) redução da imobilização do estoque em decorrência da simplificação dos procedimentos contábeis.
+
+d) organização do controle de qualidade e de custos, inclusive contábeis na classificação de materiais.
+
+e) arrumação prévia e com antecedência das áreas produtivas dos almoxarifados e dos armazéns.
+
+45. (VUNESP/Pref. Arujá-SP/Técnico Administração/2015) É uma das atividades do almoxarifado e
+    tem como objetivo principal o levantamento físico ou a contagem dos materiais existentes para
+    efeito de confrontação periódica com os estoques anotados nos fichários de estoques ou no banco
+    de dados sobre materiais. Trata-se do(a)
+
+a) auditoria dos materiais.
+
+b) conferência física.
+
+c) balanço dos estoques.
+
+d) inventário físico.
+
+e) rastreamento dos materiais.
+
+46. (VUNESP/Pref. Arujá-SP/ Técnico Administração /2015) A ação de recebimento de mercadorias
+    para serem estocadas no almoxarifado compõe-se de quatro fases: 1) entrada do material; 2)
+    conferência quantitativa; 3) conferência qualitativa; e 4) _________.
+
+a) ingresso
+
+b) verificação
+
+c) comparação
+
+d) admissão
+
+
+---
+
+e) regularização
+
+47. (CEBRASPE/TRT 8a Região/Analista Judiciário/2016) Acerca da administração de material e
+    patrimônio no governo federal, assinale a opção correta.
+
+a) No fornecimento por requisição, a entrega de material ao usuário segue uma tabela de provisão
+previamente estabelecida, independentemente de qualquer solicitação.
+b) Na armazenagem, os materiais devem ficar protegidos da ação danosa de animais ou insetos.
+c) Recebimento é o ato pelo qual se declara que o material foi aceito, por satisfazer às especificações
+contratadas, e foi recebido no local designado.
+d) Todas as movimentações de materiais e patrimônio devem ser registradas em sistema informatizado.
+e) Para realizar a armazenagem e a distribuição de qualquer material, o órgão federal pode optar pelo
+método primeiro a entrar, primeiro a sair (PEPS) ou pelo método último a entrar, primeiro a sair (UEPS).
+
+48. (CEBRASPE/TRE-MT/Técnico Judiciário/2015) No que se refere à armazenagem de materiais,
+    assinale a opção correta.
+
+a) Em órgãos públicos, a armazenagem dos materiais por agrupamento é mais vantajosa que a armazenagem
+por frequência de uso, pois facilita a localização dos materiais.
+b) Facilitar o acesso aos itens do depósito, proteger os materiais e maximizar o uso da mão de obra são
+objetivos da armazenagem.
+c) Em órgãos públicos, é ideal manter estoque zero de materiais.
+d) A definição dos critérios de armazenagem dos materiais de consumo de um órgão público está
+diretamente relacionada aos critérios de licitação.
+e) A redução dos custos de materiais é diretamente influenciada pela proximidade entre os centros de
+distribuição e os centros consumidores.
+
+49. (CEBRASPE/TCE-PB/Agente Documentação/2018) Um almoxarife recebeu uma encomenda de
+    parafusos e, tendo detectado avarias na embalagem, teve dúvidas sobre a integridade do
+    conteúdo. Nessa situação, o material deve ser rejeitado com base na inspeção
+
+a) visual.
+b) de identificação.
+c) do certificado de qualidade.
+d) dimensional.
+e) documental.
+
+50. (CEBRASPE/TCE-PB/Agente Documentação/2018) Um almoxarifado, cujo croqui é mostrado a
+    seguir, utiliza o sistema de localização fixa para posicionamento de itens de consumo e segue as
+    melhores práticas de armazenagem descritas na literatura especializada. De acordo com a figura
+    em apreço, e considerando-se que a variável giro do estoque seja a que definirá a localização do
+    item no espaço físico disponível, a melhor localização para porcas e parafusos, itens de giro rápido,
+    será o setor
+
+
+---
+
+a) I.
+b) II.
+c) III.
+d) IV.
+e) V.
+
+51. (CEBRASPE/IFF/Administrador/2018) Os riscos de avarias no estoque que sejam resultantes de
+    vibração, trepidação, frenagens, atrito e impactos constituem os riscos.
+
+a) químicos.
+b) imponderáveis.
+c) mecânicos.
+d) climáticos.
+e) humanos.
+
+52. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. Manter estoques de
+    medicamentos em ambientes com temperatura adequada à conservação é um dos objetivos da
+    armazenagem.
+
+a) Certo
+
+b) Errado
+
+
+---
+
+53. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. A verificação das informações
+    constantes na nota fiscal, também considerada como recebimento provisório, faz parte da etapa
+    de entrada de materiais em um setor de armazenagem.
+
+a) Certo
+
+b) Errado
+
+54. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) Com relação a critérios e técnicas de
+    armazenagem, julgue o item subsequente. No caso de as caixas dos produtos acabados serem
+    cúbicas, o dispositivo mais indicado para a formação da carga unitária é o palete.
+
+a) Certo
+
+b) Errado
+
+55. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. O tempo em que um produto
+    será mantido em armazenagem e as embalagens utilizadas são fundamentais para a definição do
+    leiaute de armazenagem.
+
+a) Certo
+
+b) Errado
+
+56. (CEBRASPE/MDIC/Agente Administrativo/2014) Com referência à gestão de materiais, julgue o
+    item. A movimentação de materiais deve ser analisada juntamente com o leiaute; para isso, devem-
+    se analisar as dimensões do produto, suas características mecânicas e a quantidade a ser
+    transportada, bem como a edificação, a sequência das operações e o custo da movimentação.
+
+a) Certo
+
+b) Errado
+
+57. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) A respeito de compras, recebimento e
+    armazenagem, julgue o item. A conferência quantitativa verifica se a quantidade declarada pelo
+    fornecedor, na nota fiscal, corresponde ao que foi, de fato, entregue.
+
+a) Certo
+
+b) Errado
+
+58. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) A respeito de compras, recebimento e
+    armazenagem, julgue o item. A armazenagem em área externa diminui o espaço interno do
+    almoxarifado disponível para materiais que precisem de maior proteção.
+
+a) Certo
+
+
+---
+
+b) Errado
+
+59. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. O setor de gestão da armazenagem deve estabelecer procedimentos
+    distintos de armazenagem e conservação para cada material ou agrupamento de materiais.
+
+a) Certo
+
+b) Errado
+
+60. (QUADRIX/CRMV MA/Assistente Administrativo/2018) Entre os critérios de guarda de materiais no
+    almoxarifado, aquele em que é necessário considerar a influência que um material pode ter sobre
+    outro, de modo que devam ser mantidos em ambientes distintos, é denominado de armazenagem:
+
+a) por compatibilidade.
+
+b) por agrupamento.
+
+c) por acomodabilidade.
+
+d) por frequência.
+
+e) em área externa.
+
+61. (QUADRIX/CRO PB/Agente/2018) No que tange à classificação de materiais, julgue o item que se
+    segue. O arranjo físico por posição fixa é adequado para a fabricação de grandes quantidades de
+    um só produto ou de produtos padronizados.
+
+a) Certo
+
+b) Errado
+
+62. (QUADRIX/CRB 10/Auxiliar Administrativo/2018) Acerca de classificação de materiais, julgue o
+    item. O arranjo físico linear é adequado para fabricação de pequenas quantidades, com produção
+    flexível, vários tipos e estilos.
+
+a) Certo
+
+b) Errado
+
+63. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. As paleteiras são equipamentos para manuseio de materiais utilizados
+    quando é necessário fazer o armazenamento vertical dos materiais.
+
+a) Certo
+
+b) Errado
+
+
+---
+
+64. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. O exame de avarias e a conferência de volumes de materiais recebidos
+    devem ser feitos no almoxarifado.
+
+a) Certo
+
+b) Errado
+
+65. (QUADRIX/CRMV MA/Assistente Administrativo/2018) A respeito das técnicas de armazenagem,
+    assinale a alternativa correta.
+
+a) Embora facilitem o manuseio, o transporte e a armazenagem, os pallets não são capazes de possibilitar o
+empilhamento das cargas.
+
+b) O uso de pallets é ideal para materiais de pequenas dimensões, como parafusos, arruelas e material de
+escritório.
+
+c) As prateleiras são adequadas para peças pequenas e leves, para estoques não muito grandes e para apoio
+de caixas e gavetas.
+
+d) O contêiner flexível é destinado ao transporte intermodal de mercadorias (ferroviário, rodoviário,
+marítimo ou aéreo).
+
+e) O contêiner tradicional é utilizado para armazenamento de sólidos a granel e líquidos em sacos.
+
+66. (QUADRIX/CRESS PR/Assistente Administrativo/2018) Acerca de rotinas de compras, julgue o item
+    seguinte. A etapa do recebimento de materiais engloba a conferência das especificações pedidas,
+    da qualidade e da quantidade dos materiais.
+
+a) Certo
+
+b) Errado
+
+67. (FGV/COMPESA/Analista de Gestão/2014) Nas últimas décadas, as indústrias aumentaram os
+    investimentos em logística, estruturas próprias ou terceirizadas para armazenagem e
+    movimentação de materiais. Em relação às razões para o uso desse espaço de armazenagem,
+    analise as afirmativas a seguir.
+  I. Redução dos custos de transporte e de produção.
+  II. Coordenação da oferta e da demanda.
+  III. Auxílio no processo de produção.
+  Assinale:
+
+a) se somente a afirmativa I estiver correta.
+
+b) se somente a afirmativa II estiver correta
+
+c) se somente a afirmativa III estiver correta
+
+
+---
+
+d) se somente as afirmativas I e II estiverem corretas
+
+e) se todas as afirmativas estiverem corretas.
+
+68. (FGV/FBN/Assistente Administrativo/2013) A função recebimento deve estar integrada com as
+    áreas de contabilidade, de compras e de transportes. As alternativas a seguir relacionam fases de
+    recebimento de material, à exceção de uma. Assinale‐a.
+
+a) Entrada de materiais.
+
+b) Conferência quantitativa.
+
+c) Projeção de estoque.
+
+d) Conferência qualitativa.
+
+69. (FGV/FBN/Assistente Técnico Administrativo/2013) Recebimento é o momento em que a equipe
+    do almoxarifado recebe do fornecedor os materiais adquiridos pelo órgão/entidade. Assinale a
+    alternativa que indica os dois tipos de recebimento.
+
+a) Provisório e por registro.
+
+b) Por empréstimo e por registro.
+
+c) Provisório e definitivo.
+
+d) Por consignação e definitivo.
+
+70. (FGV/AL MT/Almoxarife/2013) A nota fiscal é considerada um documento hábil para o recebimento
+    de uma compra em um órgão público. Da nota fiscal devem obrigatoriamente constar os itens a
+    seguir, à exceção de um. Assinale‐o.
+
+a) Descrição do material
+
+b) Manual de uso
+
+c) Quantidade
+
+d) Unidade de medida
+
+e) Preços unitário e total.
+
+71. (FGV/MPE AL/Técnico do Ministério Público/2018) Leia o trecho a seguir. Uma confecção de roupas
+    resolve realizar um rearranjo nos seus materiais para agilizar a produção. Ao pesquisar sobre
+    técnicas de armazenagem, opta por utilizar a técnica _____________ que separa os materiais pelos
+    seus pares, separando um local para os botões, outro para linhas de um tipo específico, e assim por
+    diante. Assinale a opção que apresenta o termo que completa corretamente a lacuna do trecho
+    acima.
+
+
+---
+
+a) por especialidade
+
+b) por frequência
+
+c) por agrupamento
+
+d) por tamanho
+
+e) por regularidade
+
+72. (FGV/FBN/Assistente Administrativo/2013) A correta utilização do espaço disponível demanda
+    estudo detalhado dos materiais a armazenar, dos níveis de armazenamento, das estruturas para
+    armazenagem e dos meios mecânicos a utilizar na sua movimentação. Assinale a alternativa que
+    apresenta características da paletização.
+
+a) Aumenta a capacidade vertical de estocagem e reduz custos.
+
+b) Utiliza mão de obra intensiva.
+
+c) Permite a estocagem vertical de produtos de diversas geometrias.
+
+d) Apresenta flexibilidade, o que permite modificar a altura e a largura das divisões.
+
+73. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Existem quatro razões básicas para
+    uma organização utilizar espaço físico de armazenagem. São elas:
+
+a) reduzir custos de transporte e produção, coordenar suprimentos e demanda, auxiliar o processo de
+produção e auxiliar no processo de marketing;
+
+b) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, auxiliar o processo de
+produção e auxiliar o processo de marketing;
+
+c) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, auxiliar no processo de
+armazenamento e auxiliar no processo de marketing;
+
+d) reduzir procura por alocação, reduzir custos com pessoal, reduzir demanda e suprimentos e auxiliar no
+processo de vendas;
+
+e) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, reduzir custos com
+pessoal e auxiliar no processo de marketing.
+
+74. (FGV/FBN/Assistente Administrativo/2013) Os materiais devem ser distribuídos aos usuários
+    mediante programação que seja do pleno conhecimento das partes envolvidas. No almoxarifado,
+    para a dispensação dos materiais aos usuários, é usado o seguinte documento:
+
+a) planilha de produção.
+
+b) ficha de inventário do material.
+
+
+---
+
+c) controle estatístico de processos.
+
+d) requisição de material.
+
+75. (FGV/AL MT/Almoxarife/2013) O almoxarifado é o local responsável pela _____ de materiais, de
+    forma _____ para que os produtos sejam _____ com agilidade sempre que solicitados. Assinale a
+    alternativa que preenche corretamente as lacunas do fragmento acima.
+
+a) transferência e guarda – adequada – consumidos.
+
+b) compra e venda – eficiente – conferidos.
+
+c) guarda e conservação – organizada – disponibilizados.
+
+d) compra e recepção – segura – selecionados.
+
+e) conservação e venda – sistemática – oferecidos.
+
+76. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere as afirmações sobre o Sistema de
+    Gerenciamento de Armazém (WMS).
+    I. Não possui integração com o Sistema de Intercâmbio Eletrônico de Dados               (EDI).
+    II. Programa a mão de obra necessária e analisa seu desempenho e produtividade.
+    III. Prioriza tarefas operacionais e parametriza a consolidação do picking list.
+    IV. Controla o desempenho, as distâncias e as rotas percorridas pelos transportes.
+Está correto o que se afirma APENAS em:
+
+a) II e III.
+
+b) I, II e IV.
+
+c) II, III e IV.
+
+d) I e IV.
+
+e) I e III.
+
+77. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) O almoxarifado de uma determinada
+    empresa tem armazenado todos os seus itens de estoque em paletes de plástico, sendo assim o
+    operador deste almoxarifado se depara com uma significativa limitação inerente a este tipo de
+    palete:
+
+a) Não resiste à oleosidade ou grande peso durante sua movimentação.
+
+b) Exige equipamento especial na movimentação com empilhadeiras (push-pull).
+
+c) Não permite aquecimento ou passagens por banhos químicos ou pintura.
+
+d) Não resiste a certas condições de corrosividade.
+
+
+---
+
+e) Caso apresente algum tipo de avaria, não pode ser consertado.
+
+78. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) O almoxarifado de uma empresa de
+    transportes coletivos pretende armazenar 2 000 caixas de suprimentos em paletes que comportam
+    20 caixas cada um e podem ser empilhados em número de quatro. O número de posições de paletes
+    necessárias será de:
+
+a) 25.
+
+b) 50.
+
+c) 15.
+
+d) 20.
+
+e) 40.
+
+79. (FCC/TCE GO/Técnico de Controle Externo/2009) Em relação ao armazenamento de materiais,
+    é INCORRETO afirmar:
+
+a) Sacos de cimento devem ser empilhados sobre estrados de madeira ou plástico, longe de janelas abertas
+para o exterior, para que se evite o contato dos sacos com a umidade.
+
+b) As caixas de papel tamanho A4 devem ser empilhadas diretamente sobre o piso do almoxarifado, para
+que se evite a deformação das folhas e o possível rompimento das caixas.
+
+c) Sacos de gesso e cal devem ser armazenados em locais diversos daqueles destinados aos sacos de cimento
+para que se evite a contaminação e o enfraquecimento do cimento.
+
+d) As tintas e solventes destinados aos processos reprográficos e gráficos devem ser armazenados em locais
+secos, cobertos e ventilados, para que sejam evitados o acúmulo de gases e a contaminação da rede de água.
+
+e) Centros de impressão cujo pavimento é lavado com frequência, devem ser providos de esgoto tratado,
+separado dos demais ramais de esgoto e águas pluviais.
+
+80. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere as afirmações sobre as
+     necessidades de uma organização possuir espaço físico de armazenagem.
+I. Os custos da armazenagem e do manuseio de materiais podem contribuir com a redução dos custos
+de transporte, pois permitem o uso de quantidades maiores e mais econômicas de lotes de
+carregamento.
+II. Os estoques armazenados não absorvem flutuações dos níveis de produção, devido às incertezas
+do processo de manufatura ou das variações de oferta e demanda, portanto não contribuem com a
+redução dos custos de produção. III. Não há necessidade de manter espaço físico para armazenagem
+quando a empresa possui uma produção fortemente sazonal e demanda por produtos constante.
+ IV. A armazenagem pode ser utilizada em sinergia com a área de Marketing, pois melhora o nível de
+serviço ao cliente, uma vez que o estoque agrega valor de disponibilidade.
+Está correto o que se afirma APENAS em:
+
+
+---
+
+a) II e IV.
+
+b) II e III.
+
+c) I, II e III.
+
+d) I e IV.
+
+e) I, III e IV.
+
+81. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) No início de uma reunião sobre a mudança
+    de local do almoxarifado, o gerente forneceu as seguintes informações:
+    − As medidas de comprimento e largura do novo espaço são, respectivamente, 40m e 20m.
+    − A norma de segurança prevê que as pilhas de carga devem estar afastadas a 1 m das paredes.
+
+     Ao término da reunião, a equipe concluiu que este novo almoxarifado deve ter as seguintes
+     características:
+     − Espaço para circulação longitudinal de 2m de largura.
+     − Espaço para circulação transversal de 2m de largura.
+     − Instalações para escritório e sanitários de 13 m2.
+     Portanto, a utilização (U) deste novo almoxarifado é de:
+
+a) 77%.
+
+b) 85%.
+
+c) 53%.
+
+d) 65%.
+
+e) 61%.
+
+82. (FCC/TCE GO/Técnico de Controle Externo/2009) Sobre as diferentes formas de transporte e
+    armazenagem de materiais, considere:
+    I. Transporte e armazenagem de pallets contendo caixas de papel.
+    II. Alocação de amarrados de resmas de cartolina em prateleiras.
+    III. Transporte de tonéis de solventes sobre piso irregular.
+    IV. Transporte de rolos de fio de 1,5 mm2 para instalações elétricas em geral.
+    V. Transporte de latas de tinta de parede.
+    Dependem de maquinário específico para o transporte APENAS as atividades constantes em:
+
+a) II, III e IV.
+
+b) II, III, IV e V.
+
+c) I, II e IV.
+
+d) I, II, III e V.
+
+
+---
+
+e) I, II e III.
+
+83. (FCC/TRT 3a Região/Analista Judiciário/2015) Atenção: Para responder à questão, considere a
+    imagem abaixo. De acordo com a NBR 7500, a placa em destaque é denominada:
+
+a) Número do Risco do Produto.
+
+b) Rótulo de Segurança.
+
+c) Painel de Perigo.
+
+d) Número da ONU.
+
+e) Painel de Segurança.
+
+84. (FCC/TRT 4a Região/Auxiliar Judiciário/2006) A questão está relacionada à imagem de um
+    almoxarifado e às afirmações a seguir.
+
+     www.aph.com.br/2002/imagens
+
+I. Os bens devem ser guardados, de preferência, em suas embalagens originais e separados segundo sua
+utilização.
+
+II. Os materiais de consumo e permanentes devem constar de uma mesma lista patrimonial, por ordem
+de chegada ao Tribunal.
+
+III. O local deve ser bem vedado para evitar excesso de ventilação e luminosidade.
+
+
+---
+
+IV. Materiais combustíveis devem ser armazenados com cuidados especiais.
+
+
+Está correto APENAS o que se afirma em:
+
+a) I e II.
+b) I e III.
+c) I e IV.
+d) II e III.
+e) III e IV
+
+
+---
+
+                              QUESTÕES COMENTADAS
+
+1. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado é responsável apenas pelo recebimento e pela armazenagem de produtos.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+A afirmativa final do enunciado se esquece de uma responsabilidade do almoxarifado mencionada
+anteriormente pelo próprio enunciado. Além de receber e armazenar os materiais, cabe ao almoxarifado
+cuidar de sua conservação e disponibilização no momento em que é requisitado, apto para uso. Assim, o
+almoxarifado é responsável pelo recebimento, guarda, conservação e disponibilização dos materiais.
+Vejamos o que diz Viana sobre o tema: “O local destinado a fiel guarda e conservação de materiais, em
+recinto coberto ou não, adequado a sua natureza, tendo a função de destinar espaços onde permanecerá
+cada item aguardando a necessidade de seu uso, ficando sua localização, equipamentos e disposição interna
+condicionados à política geral de estoques da empresa”.
+
+2. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado é o local onde se estocam matéria-prima, insumos e embalagens, ou seja, os
+   materiais iniciais. Pode ser também responsável pelo recebimento e pela compra dos materiais.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+
+---
+
+A afirmativa ia bem até mencionar que almoxarifados são responsáveis pelas compras dos materiais. Essa é
+uma competência exclusiva da área de compras, que não envolve diretamente o almoxarifado. Vejamos
+como Viana define as responsabilidades de um almoxarifado: “O local destinado a fiel guarda e conservação
+de materiais, em recinto coberto ou não, adequado a sua natureza, tendo a função de destinar espaços onde
+permanecerá cada item aguardando a necessidade de seu uso, ficando sua localização, equipamentos e
+disposição interna condicionados à política geral de estoques da empresa”.
+
+3. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O almoxarifado e o depósito exercem a mesma função dentro das empresas.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+Essa é uma questão recorrente e que gera muita discussão e dúvida entre os alunos.
+
+Antes disso, vamos começar definindo os estoques. De modo geral, estoques são locais que guardam
+materiais, produtos acabados, matérias primas ou qualquer outra coisa, para uso futuro.
+
+Também de modo geral, são divididos pela literatura em almoxarifados e depósitos. Os almoxarifados estão
+no início da cadeia. Estocam a matéria prima e fornecem os materiais para a linha de produção no momento
+da fabricação, por exemplo.
+
+Já os depósitos estão geralmente ao final da cadeia e recebem os produtos acabados, prontos para serem
+enviados aos clientes. Podem ser, inclusive, os chamados centros de distribuição.
+
+Essas são as quebras e nomenclaturas mais comumente usadas, o que não dizer que algo diferente disso
+esteja errado.
+
+Note que, nessa linha, tanto almoxarifados como depósitos são estoques, porém, estão geralmente
+localizados em pontos diferentes da cadeia de valor.
+
+Vejamos como autores muito usados pelas bancas abordam a questão, começando por Viana: “O local
+destinado a fiel guarda e conservação de materiais, em recinto coberto ou não, adequado a sua natureza,
+tendo a função de destinar espaços onde permanecerá cada item aguardando a necessidade de seu uso,
+ficando sua localização, equipamentos e disposição interna condicionados à política geral de estoques da
+empresa”.
+
+Agora, Chiavenato: “O almoxarifado e o depósito constituem dois extremos do processo produtivo. O
+primeiro proporciona os insumos- as matérias-primas necessárias à produção-, enquanto o segundo recebe
+os resultados do processo produtivo- os produtos acabados”.
+
+
+---
+
+4. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   O     padrão     funcional    de     um     almoxarifado      dá-se    da    seguinte     forma:
+   recebimento →→ armazenagem →→ distribuição.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+Esse é mesmo o fluxo correto dos materiais desde a sua chegada ao almoxarifado (recebimento, composto
+pela entrada, conferência quantitativa, conferência qualitativa e regularização), passando em seguida a
+guarda (armazenagem, composta pela guarda, preservação, separação, liberação para entrega e venda de
+inservíveis) e, finalmente, chegando ao momento em que são requisitados e entregues a área demandante
+(distribuição, composta por programação e, finalmente, pela entrega).
+
+5. (FGV/FUNSAÚDE CE/Analista Administrativo/2021) No processo de estocagem de materiais, é
+   frequente a utilização em armazéns dos pallets, que possuem como vantagens reconhecidas:
+
+a) a dispensabilidade de treinamento para a adaptação dos funcionários.
+b) a facilidade de movimentação de cargas viabilizada pela leveza do pallet.
+c) o melhor aproveitamento dos espaços verticais em função do empilhamento de cargas.
+d) o baixo investimento em equipamentos para o seu manuseio devido à capacidade de adaptação do modal.
+e) a eficiência no manuseio de materiais de alto giro.
+Comentário:
+
+A alternativa A está incorreta. Ao contrário, o uso dos pallets exige o treinamento dos funcionários
+envolvidos para a utilização do equipamento e obtenção dos melhores resultados no processo que muitas
+vezes emprega o uso de paleteiras, empilhadeiras, etc.
+
+A alternativa B está incorreta. O pallet carregado não é leve, demandando inclusive equipamentos robustos
+para o seu transporte, como as empilhadeiras.
+
+A alternativa C está correta e é o gabarito da questão. Uma das principais vantagens dos pallets é permitir o
+empilhamento das cargas por meio do uso das empilhadeiras. Essa estratégia de armazenamento otimiza o
+uso das áreas disponíveis, reduzindo o custo total de armazenagem por unidade armazenada.
+
+A alternativa D está incorreta. Ao contrário, o uso dos pallets exige o emprego e operação de equipamentos
+como paleteiras e empilhadeiras.
+
+
+---
+
+A alternativa E está incorreta. A eficiência do uso dos pallets em tese se aplica a qualquer tipo de material e
+não apenas aqueles de alto giro. Os materiais de alto giro aliás apresentam mais dificuldades no uso de
+pallets pois exigem movimentação intensa o que demanda o alto uso de equipamentos e força de trabalho
+envolvidos no processo.
+
+6. (VUNESP/CODEN/Almoxarife/2021) As atividades de devolução de materiais, confronto dos itens
+   listados na nota fiscal e no manifesto de transporte com os volumes a serem efetivamente
+   recebidos, análise da documentação recebida, conferência visual, quantitativa e qualitativa dos
+   materiais, são executadas:
+
+a) no momento de utilização do material.
+b) no recebimento de mercadorias.
+c) na reposição por Ponto de Pedido.
+d) na estocagem até o momento em que os produtos forem requisitados.
+e) no ponto de ressuprimento ou reposição.
+Comentário:
+
+A alternativa A está incorreta. O enunciado descreve as atividades do processo de recebimento de materiais
+e não do momento de utilização do material. Veja mais detalhes no gabarito da questão pois essa é uma
+cobrança típica de prova em relação a esse tema.
+
+A alternativa B está correta e é o gabarito da questão. Essas são basicamente todas as etapas do processo
+de recebimento de materiais: entrada, conferências qualitativa e quantitativa e a regularização. Vejamos
+todas as etapas de acordo com Viana:
+
+
+---
+
+A alternativa C está incorreta. O enunciado descreve as atividades do processo de recebimento de materiais
+e não na reposição por Ponto de Pedido. Veja mais detalhes no gabarito da questão pois essa é uma cobrança
+típica de prova em relação a esse tema.
+A alternativa D está incorreta. O enunciado descreve as atividades do processo de recebimento de materiais
+e não na estocagem até o momento em que os produtos forem requisitados. Veja mais detalhes no gabarito
+da questão pois essa é uma cobrança típica de prova em relação a esse tema.
+A alternativa E está incorreta. O enunciado descreve as atividades do processo de recebimento de materiais
+e não no ponto de ressuprimento ou reposição. Veja mais detalhes no gabarito da questão pois essa é uma
+cobrança típica de prova em relação a esse tema.
+
+7. (SELECON/EMGEPRON/Técnico/2021) As atividades de recebimento abrangem desde a recepção de
+   material entregue pelo fornecedor à entrada no estoque. A interação entre áreas acontece através
+   do processo de comunicação oficial da Organização, que pode ser por correspondência interna (CI),
+   ofício, ou qualquer meio digital. A área de recebimento tem, entre suas principais funções:
+
+a) realizar somente a conferência qualitativa dos materiais recebidos e liberar pagamento ao fornecedor
+direcionando para estoque no almoxarifado.
+b) coordenar e controlar as atividades de recebimento e devolução de materiais, além de registrar em
+sistema próprio as notas fiscais dos materiais recebidos.
+c) proceder à conferência visual e ignorar as condições de embalagem quanto a possíveis avarias na carga
+transportada.
+
+
+---
+
+d) comprar, pagar e conferir os materiais destinados à empresa.
+Comentário:
+
+A alternativa A está incorreta. Além de executar outras conferências além da qualitativa (quantitativa,
+documentos fiscais, etc), muitas vezes a área de recebimento não libera o pagamento ao fornecedor pois há
+divergência em relação ao contratado, efetuando muitas vezes a devolução do pedido.
+
+A alternativa B está correta e é o gabarito da questão. O recebimento de materiais deve não só receber e
+registrar os materiais recebidos como também fazer a checagem e registro dos documentos fiscais e, quando
+necessário, rejeitar o material por eventual divergência do contratado efetuando até mesmo a devolução do
+que foi entregue.
+
+A alternativa C está incorreta. A conferência das embalagens é uma das primeiras checagens feitas ao longo
+do processo de recebimento, geralmente antes mesmo da conferência quantitativa.
+A alternativa D está incorreta. A área de recebimento não tem envolvimento direto com a compra dos
+materiais, envolvendo-se apenas a partir da chegada do material comprado à organização.
+
+8. (CEBRASPE/PGDF/Técnico Jurídico/2021) Acerca do recebimento e da conferência de materiais,
+   julgue o item a seguir. Ao se realizar o recebimento de materiais, deve-se avaliar se consta a
+   quantidade acordada dos produtos, bem como sua qualidade, além de se averiguar se os materiais
+   cumprem as exigências de preço e prazo estabelecidas previamente.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+O enunciado descreve várias etapas do processo de recebimento como as conferências quantitativa e
+qualitativa e outros procedimentos de checagem antes da regularização (encerramento) do processo de
+compra. Vejamos a resposta da banca para essa questão específica da PGDF: As verificações de recebimento
+devem garantir que o material recebido tenha as características iguais àquelas determinadas no momento
+da compra, a fim de que possa ser encaminhada com maior brevidade a área de produção. Dessa forma, as
+inspeções usuais são as que verificam quantidade, preço (conferência com NF), prazo (a entrega deve ser
+feita respeitando o lead time definido brevemente) e qualidade (principalmente no que diz respeito à
+conformidade de fabricação).
+
+9. (QUADRIX/CREFITO 4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada dos
+   produtos no almoxarifado preservarão os materiais armazenados, protegendo-os contra furtos e
+   desperdícios. A autoridade para a retirada do estoque deve estar definida com clareza e somente
+   pessoas autorizadas poderão exercer essa atribuição. Considerando essa informação, julgue o item.
+   Os sub-procedimentos dentro do recebimento envolvem: descarga; conferência quantitativa;
+   conferência qualitativa; e recarga.
+
+a) Certo
+
+
+---
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+De acordo com Viana as 4 etapas do processo de recebimento (chamadas pela banca de "sub-
+procedimentos"), são:
+
+    •   Entrada de materiais: recepção dos veículos transportadores, verificação de dados básicos da
+        entrega (preço e prazo), encaminhamento para a área de descarga.
+    •   Conferência quantitativa: verificação da quantidade declarada na nota fiscal corresponde àquela
+        efetivamente entregue.
+    •   Conferência Qualitativa: Verificação se as especificações técnicas estão de acordo com as solicitadas
+        pelo setor de compra através do laudo de inspeções técnicas.
+    •   Regularização: é o resultado das fases anteriores, podendo ocorrer as seguintes situações: a.
+        entrada do material e liberação do pagamento; b. devolução parcial ou total ou c. reclamação junto
+        ao fornecedor, por falta de material.
+
+10. (QUADRIX/CREFITO 4/Almoxarife/2021) No que se refere a patrimônio e a almoxarifado, julgue o
+    item. No momento de descarga do material no almoxarifado, é imprescindível que se cheque se a
+    nota fiscal da mercadoria recebida é a mesma descrita no documento que ensejou seu recebimento.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+Essa é uma das primeiras checagens ocorridas ao longo do processo de recebimento. Na verdade, ocorre
+logo em sua primeira etapa, ou seja, na entrada (descarga) dos materiais. Logo no momento da descarga do
+material no almoxarifado, é necessário que se cheque a documentação conforme a Nota Fiscal emitida pelo
+fornecedor quando da aquisição de materiais, assim como se a própria nota apresentada é a mesma descrita
+no documento de recebimento. No caso de existência de divergências muitas vezes o material nem
+prossegue para as próximas etapas que são as conferências quantitativas e qualitativas do que foi comprado
+e entregue.
+
+11. (VUNESP/CODEN/Almoxarife/2021) A imagem a seguir refere-se a:
+
+
+---
+
+a) carga pré-lingada.
+b) demurrage.
+c) prancha.
+d) pallet 4 entradas.
+e) pallet 2 entradas.
+Comentário:
+A alternativa A está incorreta. A questão trata do palete e não da carga pré lingada. A carga pré-lingada é
+um tipo de carga unitária composto por uma estrutura fabricada, regularmente, com fios de poliéster de
+grande resistência, que suportam bastante peso e que são içadas por guindaste e armazenados em locais
+apropriados.
+
+A alternativa B está incorreta. A questão trata do palete e não do demurrage. O Demurrage (ou sobre-
+estadia) é um termo relacionado ao comércio exterior marítimo utilizado para se referir à contraprestação
+devida em razão de se ter extrapolado o prazo acordado em contrato para as operações de embarque e
+desembarque da carga do navio.
+
+A alternativa C está incorreta. A questão trata do palete e não da prancha. A Prancha (Gangway, em inglês)
+é uma plataforma usada nos embarques por transportadores contínuos das docas para as embarcações,
+plataformas para os veículos, ou de veículo para veículo. Também é usada como passagem nos quais os
+passageiros embarcam ou desembarcam de um navio.
+
+A alternativa D está correta e é o gabarito da questão. A imagem apresenta um pallet de 4 entradas. Os
+pallets são plataformas que possibilitam o empilhamento das cargas, maximizando a utilização do espaço
+cúbico do almoxarifado. Temos os paletes de face simples (abertos na parte de baixo), com 2 e 4 entradas e
+os paletes de face dupla (fechados na parte de baixo), também com 2 e 4 entradas. Vejamos:
+
+Face Simples com 2 entradas:
+
+
+---
+
+Face Simples com 4 entradas (é o tipo de pallet trazido pela questão):
+
+Face Dupla com 2 entradas:
+
+Face Dupla com 4 entradas:
+
+A utilização dos pallets tem algumas vantagens e desvantagens que valem a pena ser estudadas:
+
+
+---
+
+A alternativa E está incorreta. A imagem apresenta um pallet de 4 entradas e não de duas, como podemos
+observar nas figuras acima.
+
+12. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Chiavenato (2005) define que o
+    armazenamento de materiais depende da dimensão e características dos materiais. Segundo o
+    referido autor, trata-se da técnica de estocagem ideal para materiais de pequenas dimensões, como
+    parafusos, arruelas, alguns materiais de escritório, como lápis, canetas esferográficas etc., podem
+    ser de metal, de madeira ou de plástico e denominam-se:
+
+a) Prateleiras ou raques.
+b) Raques ou bags.
+c) Caixas ou gavetas.
+d) Pallets ou estrados.
+Comentário:
+
+A alternativa A está incorreta. De acordo com Chiavenato a melhor forma para armazenar esse tipo de
+material são as caixas ou gavetas e não as prateleiras ou raques. A prateleira é uma técnica de estocagem
+destinada a materiais de tamanhos diversos e para o apoio de gavetas ou caixas padronizadas. As prateleiras
+podem ser de madeira ou de perfis metálicos, de vários tamanhos e dimensões.
+
+A alternativa B está incorreta. De acordo com Chiavenato a melhor forma para armazenar esse tipo de
+material são as caixas ou gavetas e não os raques ou bags. O raque é construído para acomodar peças longas
+e estreitas, como tubos, barras, tiras, vergalhões, feixes, etc. Pode ser montado em rodízios para facilitar o
+deslocamento. Sua estrutura pode ser de madeira ou de aço; enquanto os bags (chamados também de
+contêineres flexíveis ou BigBags) são uma espécie de saco feito com tecido resistente e borracha
+vulcanizada, com um revestimento interno que varia conforme seu uso. É utilizado para estocagem e
+movimentação de sólidos a granel e de líquidos, com capacidade que pode variar entre 500 e 1.000 quilos.
+
+A alternativa C está correta e é o gabarito da questão. A melhor forma de armazenar e organizar materiais
+de pequenas dimensões, como parafusos, arruelas, alguns materiais de escritório, como lápis, canetas
+esferográficas etc. e que podem ser de metal, de madeira ou de plástico são as caixas ou gavetas. De acordo
+com Chiavenato "as caixas ou gavetas podem ser metálicas, de madeira ou de plástico. As dimensões devem
+
+
+---
+
+ser padronizadas, e seu tamanho pode variar enormemente. Podem ser construídas pela própria empresa
+ou adquiridas no mercado fornecedor."
+
+A alternativa D está incorreta. De acordo com Chiavenato a melhor forma para armazenar esse tipo de
+material são as caixas ou gavetas e não os paletes ou estrados, que são estrados de madeira padronizados,
+que podem ter diversas dimensões. Suas medidas convencionais básicas são 1.100 X 1.100 mm (podendo
+variar entre 1.000-1.200mm), como padrão internacional, para se adequar aos diversos meios de transporte
+e de armazenagem.
+
+13. (SELECON/EMGEPRON/Técnico/2021) Considerando os princípios de estocagem, alguns dispositivos
+    são importantes para manuseio, movimentação, transporte e armazenagem de carga. A figura a
+    seguir mostra um palete, modelo fabricado em madeira. Em relação ao palete, é possível afirmar
+    que:
+
+a) não é compatível com a unitização de cargas.
+b) é obrigatório o uso de palete de madeira em armazéns frigoríficos.
+c) é fabricado em madeira e, exclusivamente, há modelos de duas entradas.
+d) há diferentes tipos e aplicações, em função da carga, permitindo carga unitária e medidas básicas de 1.000
+mm × 1.200 mm.
+Comentário:
+
+A alternativa A está incorreta. Ao contrário, o palete é um dos principais instrumentos utilizados para
+viabilizar a unitização da carga.
+
+A alternativa B está incorreta. Também ao contrário, para armazenamento de produtos
+em baixa temperatura e alta umidade, o modelo de palete mais recomendado é o de plástico (pois são fáceis
+de manusear e higienizar). Em geral não se deve utilizar paletes fabricados em madeira em ambientes de
+baixa temperatura e alta umidade, pois não atendem às exigências de sanitização dos padrões
+internacionais.
+
+A alternativa C está incorreta. Paletes podem ser de madeira, metal, plástico e papelão e podem ser de 2 ou
+4 entradas, com face simples ou dupla.
+
+A alternativa D está correta e é o gabarito da questão. Os paletes são estrados de madeira padronizados,
+que podem ter diversas dimensões. Suas medidas convencionais básicas são 1.100 X 1.100 mm (podendo
+variar entre 1.000-1.200mm), como padrão internacional, para se adequar aos diversos meios de transporte
+e de armazenagem.
+
+
+---
+
+14. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos critérios e às técnicas
+    de armazenagem. A paletização é o procedimento apropriado para unitizar embalagens de formas
+    cônicas e cilíndricas.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+Pergunta muito comum em provas, o palete não é o instrumento adequado para a unitização de cargas em
+embalagens cônicas, cilíndricas ou de formatos não convencionais. Assim como também não é indicado para
+embalagens de formato cúbico, que não permitem a criação dos "vínculos" naturais entre as diferentes
+caixas. O formato ideal para a paletização é o da embalagem retangular. Vejamos a resposta da banca nesta
+questão da PGDF: "A paletização é o procedimento adequado para unitizar cargas de formatos retangulares.
+Materiais cônicos e cilíndricos são autounitizados e dependem basicamente de uma amarração.”
+
+15. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos critérios e às técnicas
+    de armazenagem. O empilhamento, o uso de caixas e racks e a instalação de prateleiras são
+    procedimentos empregados na estocagem de materiais e produtos.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+São todos recursos e equipamentos utilizados na estocagem de materiais e produtos, de acordo com o que
+requer cada tipo de material/produto a ser armazenado. Vejamos a resposta da banca nesta questão da
+PGDF: "Amplamente utilizados na gestão de materiais, empilhamento, o uso de caixas e racks e a instalação
+de prateleiras proporcionam o acondicionamento adequado de materiais que não necessitem de cuidados
+especiais.”
+
+16. (CPCON UEPB/UEPB/Almoxarife/2021) Em uma organização, o arranjo físico tem o objetivo de
+    planejar e integrar o fluxo dos materiais dentro do almoxarifado, buscando eficiência e eficácia do
+    processo.
+
+   Analise as afirmações abaixo em relação ao planejamento e ao layout do almoxarifado.
+
+   I- Definir a largura das ruas do almoxarifado de acordo com o tipo de movimentação a ser executado.
+
+   II- Determinar o empilhamento máximo permitido.
+
+   III- Analisar a iluminação artificial necessária para execução dos trabalhos do almoxarifado.
+
+
+---
+
+    IV- Verificar o tipo de embalagem adequada para cada item.
+
+    Estão CORRETAS as afirmações que se apresentam na alternativa:
+
+a) III e IV, apenas.
+b) I, II e IV, apenas.
+c) I e IV, apenas.
+d) I, II, III e IV.
+e) II e III, apenas.
+Comentário:
+Vamos avaliar as afirmativas antes de buscar a alternativa correta:
+
+I- Definir a largura das ruas do almoxarifado de acordo com o tipo de movimentação a ser executado.
+CORRETA. Fundamental a definição correta pois o tamanho das ruas pode permitir ou impedir o emprego
+de equipamentos como paleteiras e empilhadeiras, as vezes requeridos no processo de armazenamento
+e transporte.
+
+II- Determinar o empilhamento máximo permitido. CORRETA. Decisões equivocadas sobre o tamanho
+máximo permitido e seguro de empilhamento podem provocar acidentes e a perda do material
+armazenado.
+
+III- Analisar a iluminação artificial necessária para execução dos trabalhos do almoxarifado. CORRETA. A
+iluminação é componente importante do processo de armazenamento, permitindo a correta guarda,
+conservação e localização dos itens armazenados.
+
+IV- Verificar o tipo de embalagem adequada para cada item. CORRETA. No processo de armazenamento
+é importante definir para cada item/material, qual o tipo de embalagem requerido para sua melhor
+proteção ao longo do tempo e de acordo com suas características (periculosidade, perecibilidade,
+impermeabilidade, fragilidade, etc)
+
+Dessa forma, todas as afirmativas estão corretas!
+
+A alternativa D está correta e é o gabarito da questão.
+
+17. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Os pallets são considerados um importante
+    material utilizado na organização de um almoxarife. Analise as alternativas a seguir e responda qual
+    opção apresenta uma vantagem na utilização de um pallet?
+
+a) Permite o recebimento do material via on-line e o despacho para outros setores da empresa.
+b) Compatibilidade com todos os meios de transporte (marítimo, terrestre, aéreo).
+c) Estabelece o sistema de instalações e do layout mais adequado, propiciando condições físicas que
+preservem a qualidade dos materiais, com vistas à ocupação plena do espaço físico e à ordenação da
+arrumação.
+
+
+---
+
+d) Ocasiona a ocorrência de demandas constantes no tempo, ou seja, um comportamento regular de
+consumo.
+e) Permite controlar os níveis de estoques, realizando a compra dos materiais para reposição, conforme
+procedimentos estabelecidos pelos clientes.
+Comentário:
+
+A alternativa A está incorreta. O palete é uma forma de transporte física e não virtual (online). Além disso o
+despacho para outros setores nem sempre depende da utilização do palete, momento no qual a carga
+costuma ser fracionada e distribuída em outros formatos.
+
+A alternativa B está correta e é o gabarito da questão. Os paletes são transportáveis por todos os meios e
+seus modais de transporte: marítimo, terrestre e aéreo.
+
+A alternativa C está incorreta. Os paletes não estabelecem ou definem o sistema de instalações ou layout.
+Ao contrário, de acordo com o sistema e layout escolhidos eles podem ou não ser utilizados.
+A alternativa D está incorreta. A utilização ou não dos paletes não tem qualquer relação com a
+demanda/consumo dos materiais/produtos armazenados.
+A alternativa E está incorreta. A utilização ou não dos paletes também não tem qualquer relação com o
+controle dos níveis de estoques e das compras dos materiais para reposição, conforme procedimentos
+estabelecidos pelos clientes.
+
+18. (VUNESP/CODEN/Almoxarife/2021) Grandes caixas, normalmente de metal, que são utilizadas para
+    o acondicionamento de diversos produtos que serão enviados a um mesmo destino, amplamente
+    utilizados nos portos, e que ao chegar ao destino são esvaziados e reutilizados para novas cargas,
+    são:
+
+a) contêineres.
+b) pallets de plástico.
+c) pallets de metal.
+d) pallets PBR.
+e) cargas pré-lingadas.
+Comentário:
+A alternativa A está correta e é o gabarito da questão. O enunciado aqui faz referência aos contêineres,
+recurso amplamente utilizado (especialmente em portos) para a unitização de cargas. Os contêineres (ou
+contenedores) são normalmente caixas metálicas retangulares, hermeticamente fechadas e seladas,
+destinadas ao transporte intermodal de mercadorias.
+
+
+---
+
+A alternativa B está incorreta. O enunciado se refere aos contêineres e não aos pallets de plástico. Os pallets
+são plataformas que possibilitam o empilhamento das cargas, maximizando a utilização do espaço cúbico do
+almoxarifado. Temos os paletes de face simples (abertos na parte de baixo), com 2 e 4 entradas e os paletes
+de face dupla (fechados na parte de baixo), também com 2 e 4 entradas. Podem ser de metal, madeira,
+plástico ou papelão.
+
+A alternativa C está incorreta. O enunciado se refere aos contêineres e não aos pallets de metal. Os pallets
+são plataformas que possibilitam o empilhamento das cargas, maximizando a utilização do espaço cúbico do
+almoxarifado. Temos os paletes de face simples (abertos na parte de baixo), com 2 e 4 entradas e os paletes
+de face dupla (fechados na parte de baixo), também com 2 e 4 entradas. Podem ser de metal, madeira,
+plástico ou papelão.
+A alternativa D está incorreta. O enunciado se refere aos contêineres e não aos pallets PBR. Os pallets são
+plataformas que possibilitam o empilhamento das cargas, maximizando a utilização do espaço cúbico do
+almoxarifado. Temos os paletes de face simples (abertos na parte de baixo), com 2 e 4 entradas e os paletes
+de face dupla (fechados na parte de baixo), também com 2 e 4 entradas. Podem ser de metal, madeira,
+plástico ou papelão.
+A alternativa E está incorreta. O enunciado se refere aos contêineres e não as cargas pré lingadas. A carga
+pré-lingada é um tipo de carga unitária composto por uma estrutura fabricada, regularmente, com fios de
+poliéster de grande resistência, que suportam bastante peso e que são içadas por guindaste e armazenados
+em locais apropriados.
+
+19. (VUNESP/CODEN/Almoxarife/2021) O tipo de carga unitizada que apresenta estrutura fabricada,
+    normalmente, com fios de poliéster de grande resistência que suportam cargas excepcionalmente
+    pesadas, cujos fios são içados por meio de guindaste e armazenados nos locais apropriados, com
+    pacotes que possuem o mesmo peso e volume, é:
+
+a) o pallet de 2 entradas.
+b) o pallet de 4 entradas.
+c) o pallet PBR.
+d) o contêiner.
+e) a carga pré-lingada.
+Comentário:
+
+A alternativa A está incorreta. A questão se refere a carga pré lingada, mas não aos pallets, que podem ser
+mesmo de duas ou quatro entradas e de face simples ou dupla:
+
+Face Simples com 2 entradas:
+
+
+---
+
+Face Simples com 4 entradas (é o tipo de pallet trazido pela questão):
+
+Face Dupla com 2 entradas:
+
+Face Dupla com 4 entradas:
+
+
+---
+
+A alternativa B está incorreta. A questão se refere a carga pré lingada, mas não aos pallets, que podem ser
+mesmo de duas ou quatro entradas e de face simples ou dupla, veja acima.
+
+A alternativa C está incorreta. A questão se refere a carga pré lingada, mas não aos pallets. O pallet PBR é o
+tipo de palete mais utilizado no Brasil. Suas dimensões foram padronizadas pela Associação Brasileira de
+Supermercados (ABRAS) e eles são retornáveis. Dessa forma, ao entregar cargas paletizadas, o fornecedor
+recolhe a mesma quantidade de paletes entregues em paletes vazios, em um processo semelhante ao de
+vasilhames de bebidas. O modelo padrão PBR é em madeira, e apresenta as seguintes medidas:
+Comprimento = 1200 (+0-5) mm;
+Largura = 1000 (+0-5) mm;
+Altura = 135 (±3) mm.
+A alternativa D está incorreta. A questão se refere a carga pré lingada, mas não aos conteineres, recurso
+amplamente utilizado (especialmente em portos) para a unitização de cargas. Os contêineres (ou
+contenedores) são normalmente caixas metálicas retangulares, hermeticamente fechadas e seladas,
+destinadas ao transporte intermodal de mercadorias.
+
+A alternativa E está correta e é o gabarito da questão. A banca aqui se refere especificamente a unitização
+das cargas com a utilização das cargas pré lingadas. A carga pré-lingada é um tipo de carga unitária composto
+por uma estrutura fabricada, regularmente, com fios de poliéster de grande resistência, que suportam
+bastante peso e que são içadas por guindaste e armazenados em locais apropriados.
+
+20. (SELECON/EMGEPRON/Técnico/2021) Em atividades no segmento naval, o responsável do
+    almoxarifado deve estar atento às recomendações sobre transporte, movimentação, armazenagem
+    e manuseio de materiais, visando produtividade e segurança para colaboradores. A equipe de
+    almoxarifado/armazém deve, dentre outras atividades:
+
+
+---
+
+a) inspecionar equipamentos utilizados na movimentação de materiais, tais como ascensores, elevadores de
+carga, guindastes, monta-carga, pontes-rolantes, talhas e empilhadeiras.
+b) inspecionar, eventualmente, cabos de aço, cordas, correntes, roldanas e ganchos, sem necessidade de
+substituição de partes defeituosas.
+c) indicar, em lugar não visível, a carga máxima de trabalho permitida para não preocupar funcionários da
+equipe.
+d) possuir protetores de mãos para transporte de carga, mas em carros manuais não é preciso, pois são
+equipamentos destinados à movimentação do pessoal que exigem condições especiais de segurança.
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. A inspeção dos equipamentos utilizados, entre eles
+ascensores, elevadores de carga, guindastes, monta-carga, pontes-rolantes, talhas e empilhadeiras é mesmo
+competência do responsável pelo almoxarifado.
+
+A alternativa B está incorreta. Ao contrário, ao encontrar uma parte defeituosa cabe ao responsável buscar
+a sua substituição ou a solução do problema, evitando riscos de acidentes ou comprometimento da carga
+armazenada.
+
+A alternativa C está incorreta. A indicação da carga máxima de trabalho permitida deve ser feita em local
+visível (e não invisível), tornando clara a comunicação a todos.
+
+A alternativa D está incorreta. Os protetores de mão (e demais EPIs - equipamentos de proteção individual)
+para transporte de carga são exigidos inclusive no uso dos carros manuais.
+
+21. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O controle do almoxarifado deve fornecer, a qualquer
+    momento, as quantidades dos materiais que se encontram em:
+
+a) armazenagem, distribuição e transportes.
+b) estocagem, devoluções e vendas.
+c) compras, faturamento e devoluções.
+d) recebimento, físico e devoluções.
+e) entradas, compras e clientes.
+
+Comentários:
+
+A alternativa A está incorreta. O foco do almoxarifado está nos volumes estocados, em recebimento ou
+devolução e não nas atividades de distribuição e transportes, por exemplo.
+
+A alternativa B está incorreta. O foco do almoxarifado está nos volumes estocados, em recebimento ou
+devolução e não nas atividades de vendas.
+
+A alternativa C está incorreta. O foco do almoxarifado está nos volumes estocados, em recebimento ou
+devolução e não nas atividades de compras e faturamento.
+
+
+---
+
+A alternativa D está correta e é o gabarito da questão. O controle do almoxarifado deve fornecer, a qualquer
+momento, as quantidades dos materiais que se encontram estocadas fisicamente, em processo de
+recebimento ou em processo de devolução, permitindo uma análise global do volume estocado no momento
+e no curto prazo.
+
+A alternativa E está incorreta. O foco do almoxarifado está nos volumes estocados, em recebimento ou
+devolução e não nas atividades de compras ou nos clientes.
+
+22. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As 6 fases da armazenagem, numa sequência lógica, são:
+
+a) guarda na localização adotada, recebimento, estocagem, armazenagem, devolução e distribuição.
+b) recebimento, identificação do material, guarda na localização adotada, informação da localização física,
+verificação periódica das condições de proteção e armazenamento.
+c) identificação do material, codificação, catalogação, armazenagem, devolução e estocagem.
+d) identificação do material, separação, guarda na localização adotada, informação da localização física,
+verificação periódica das condições de proteção e armazenamento.
+e) armazenagem, recebimento, identificação do material, guarda na localização adotada, verificação
+periódica das condições de proteção e armazenamento.
+
+Comentários:
+
+A alternativa A está incorreta. Tanto a ordem como algumas das etapas estão invertidas ou equivocadas.
+Veja o comentário na alternativa correta.
+
+A alternativa B está correta e é o gabarito da questão. De acordo com Viana, o processo de armazenagem é
+composto pelas 6 etapas a seguir:
+
+   1.   Verificação das condições pelas quais o material foi recebido, no tocante a proteção e embalagem.
+   2.   Identificação dos materiais.
+   3.   Guarda na localização adequada.
+   4.   Informação da localização física de guarda ao controle.
+   5.   Verificação periódica das condições de proteção e armazenamento.
+   6.   Separação para distribuição.
+
+Curiosamente falta a 6ª etapa na alternativa que a banca considerou correta, mas o gabarito foi mantido.
+
+A alternativa C está incorreta. Tanto a ordem como algumas das etapas estão invertidas ou equivocadas.
+Veja o comentário na alternativa correta.
+
+A alternativa D está incorreta. Tanto a ordem como algumas das etapas estão invertidas ou equivocadas.
+Veja o comentário na alternativa correta.
+
+A alternativa E está incorreta. Tanto a ordem como algumas das etapas estão invertidas ou equivocadas.
+Veja o comentário na alternativa correta.
+
+23. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O recebimento de materiais envolve 3 passos que são:
+
+
+---
+
+a) verificar a qualidade do produto, armazená-lo e informar a entrega ao setor de contas a pagar.
+b) conferir a qualidade do produto, verificar as características de armazenamento e faturar para os clientes.
+c) conferir a quantidade do material, fazer testes de espessura e textura e informar aos superiores quando
+o material não corresponder com o pedido ou distribuir aos setores.
+d) especificar equipamentos e materiais específicos e restrições de especificações.
+e) verificar se a Nota Fiscal corresponde ao pedido, verificar a qualidade e quantidade dos materiais e liberar
+a guarda dos materiais se em conformidade ou providenciar devolução.
+
+Comentários:
+
+A alternativa A está incorreta. Faltam algumas etapas, como a conferência quantitativa.
+
+A alternativa B está incorreta. Falta novamente a conferência quantitativa, parte fundamental do processo
+de recebimento.
+
+A alternativa C está incorreta. Faltou agora a conferência inicial, com base na nota fiscal emitida.
+
+A alternativa D está incorreta. Aqui falta quase o processo completo de recebimento.
+
+A alternativa E está correta e é o gabarito da questão. O recebimento é composto de 4 etapas, aqui
+condensadas em 3 pois as duas conferências (quantitativa e qualitativa) foram agrupadas. As 4 etapas são:
+entrada de materiais (quando ocorre a verificação prévia em confronto com a nota fiscal emitida),
+conferência quantitativa, conferência qualitativa e regularização, que compreende a aceitação e guarda dos
+materiais entregues ou a devolução ao fornecedor, além do pagamento da transação comercial.
+
+
+---
+
+24. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Dependendo das características do material, a
+    armazenagem pode dar-se em função dos seguintes parâmetros:
+
+a) volume, peso, forma, aspecto, fragilidade, obsolescência e tamanho dos materiais.
+b) peso, cor, odor, aspectos de deterioração, fragilidade e estocagens especiais.
+c) frequência, obsolescência, radiação, corrosão, peso, tamanho e forma.
+d) piso, estocagem, equipamentos de distribuição, armazenagem e distribuição.
+e) fragilidade, intoxicação, radiação, corrosão, inflamabilidade, volume, peso e forma.
+
+Comentários:
+
+A alternativa A está incorreta. Aspecto, obsolescência e tamanho dos materiais não são parâmetros levados
+em conta mesmo na armazenagem complexa. Veja a lista completa no comentário da alternativa correta.
+
+A alternativa B está incorreta. Cor, odor, entre outros, não são parâmetros levados em conta mesmo na
+armazenagem complexa. Veja a lista completa no comentário da alternativa correta.
+
+A alternativa C está incorreta. Frequência e obsolescência não são parâmetros levados em conta mesmo na
+armazenagem complexa. Veja a lista completa no comentário da alternativa correta.
+
+A alternativa D está incorreta. Piso, equipamentos de distribuição, entre outros, não são parâmetros levados
+em conta mesmo na armazenagem complexa. Veja a lista completa no comentário da alternativa correta.
+
+A alternativa E está correta e é o gabarito da questão. De acordo com Viana a armazenagem pode ser simples
+ou complexa. Dependendo de algumas características intrínsecas dos materiais, a armazenagem torna-se
+complexa em virtude dos seguintes parâmetros: fragilidade, combustibilidade, volatização, oxidação,
+explosividade, intoxicação, radiação, corrosão, inflamabilidade, volume, peso e forma.
+
+25. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Armazenagem por frequência é:
+
+a) armazenar no centro do almoxarifado ou depósito os materiais de menor giro de movimentação.
+b) armazenar no fundo do almoxarifado ou depósito os materiais de maior giro de movimentação.
+c) estocar os materiais menores e de menor giro de movimentação próximo às saídas do almoxarifado ou
+depósito.
+d) armazenar próximo à saída do almoxarifado os materiais com maior giro de movimentação.
+e) estocar materiais de maior giro de movimentação próximo às saídas de emergência ou debaixo das
+escadas dos depósitos.
+
+Comentários:
+
+A alternativa A está incorreta. O armazenamento por frequência aloca próximo da saída (e não no centro)
+os materiais de maior giro.
+
+A alternativa B está incorreta. O armazenamento por frequência aloca próximo da saída (e não no fundo) os
+materiais de maior giro.
+
+
+---
+
+A alternativa C está incorreta. O armazenamento por frequência aloca próximo da saída os materiais de
+maior (e não de menor) giro.
+
+A alternativa D está correta e é o gabarito da questão. De acordo com Viana, a Armazenagem por Frequência
+implica em armazenar tão próximo quanto possível da saída os materiais que tenham maior frequência de
+movimento.
+
+A alternativa E está incorreta. O armazenamento por frequência aloca próximo da saída (e não das saídas de
+emergência ou abaixo das escadas) os materiais de maior giro.
+
+26. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O almoxarife é o responsável pelo sistema de localização
+    de materiais e deverá possuir um esquema do _________ com o(a) _________ dos espaços
+    disponíveis por área de__________ .
+
+a) layout … depósito … localização
+b) layout … localização … estocagem
+c) depósito … arranjo físico … estocagem
+d) dimensionamento … tamanho … armazenagem
+e) armazenamento … localização … estocagem
+
+Comentários:
+
+A alternativa A está incorreta. A ordem dos termos está incorreta. Veja a ordenação adequada na alternativa
+gabarito da questão.
+
+A alternativa B está incorreta. A ordem dos termos está incorreta. Veja a ordenação adequada na alternativa
+gabarito da questão.
+
+A alternativa C está correta e é o gabarito da questão. O almoxarife é mesmo o responsável pelo sistema de
+localização de materiais. Para isso deve ter em mãos um esquema de todo o depósito com o arranjo físico
+(ou layout) de todos os espaços disponíveis, de acordo com cada uma das áreas de estocagem.
+
+A alternativa D está incorreta. A ordem dos termos está incorreta. Veja a ordenação adequada na alternativa
+gabarito da questão.
+
+A alternativa E está incorreta. A ordem dos termos está incorreta. Veja a ordenação adequada na alternativa
+gabarito da questão.
+
+27. (VUNESP/Pref. Poá-SP/Almoxarife/2015) O inventário físico, redigido periodicamente nas
+    empresas, tem o objetivo de
+
+a) efetuar o confronto entre as saídas de estoque e o relatório de auditoria.
+b) informar o setor de expedição sobre as diferenças encontradas no estoque.
+c) efetuar o confronto entre o físico e a ficha de controle de estoque e acertar possíveis erros de valores na
+contabilidade.
+
+
+---
+
+d) informar aos superiores imediatos quanto a eficiência do setor de almoxarifado.
+e) simples conferência entre o físico e a ficha de controle, através do inventário permanente.
+
+Comentários:
+
+A alternativa A está incorreta. A comparação é feita entre o volume fisicamente estocado e o registrado nas
+ferramentas de controle adotadas, entre elas a ficha de estoque.
+
+A alternativa B está incorreta. Esse é apenas o final do processo e, mesmo assim, quem deve ser avisado
+para efetuar as devidas correções é a área contábil e não o setor de expedição.
+
+A alternativa C está correta e é o gabarito da questão. Segundo Viana o inventário físico é uma contagem
+periódica dos materiais existentes para efeito de comparação com os estoques registrados e contabilizados
+em controle da empresa, a fim de se comprovar sua existência e exatidão. Desse modo, os inventários visam
+confrontar a realidade física dos estoques, em determinado momento, com os registros contábeis
+correspondentes neste mesmo momento. Dessa forma são comparados os volumes físicos encontrados
+estoque com aqueles registrados nas fichas de controle (fichas de estoque) e efetuados os ajustes contábeis
+sempre que necessário.
+
+A alternativa D está incorreta. Não é essa a função do almoxarifado, mas apenas uma das consequências
+finais do procedimento.
+
+A alternativa E está incorreta. Ficou faltando a efetivação dos ajustes contábeis necessários, o que fecha o
+processo do inventário físico.
+
+28. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Os fatores que influenciam na escolha das estruturas
+    metálicas para armazenagem são:
+
+a) tipo de embalagem, plataformas, pisos, equipamentos de movimentação e técnicas adequadas de
+estocagem dos materiais.
+b) técnicas de armazenagens paletizadas, local de higienização das mercadorias e mesa para manuseio de
+documentos.
+c) largura dos corredores, altura das pilhas, tipo de armazenagem e equipamentos de produção de
+mercadorias.
+d) o modo de compra, armazenagem, produção e venda das mercadorias.
+e) tipo de material armazenado, equipamentos utilizados para a movimentação, largura mínima dos
+corredores e níveis de armazenagem.
+
+Comentários:
+
+A alternativa A está incorreta. Todos os fatores tem alguma relação com o processo porém, exceto o piso
+que está apenas indiretamente ligado ao tema. De qualquer forma há alternativa completamente correta
+mais adiante.
+
+A alternativa B está incorreta. Local de higienização e mesa para manuseio de documentos não tem qualquer
+relação com o tema em pauta.
+
+
+---
+
+A alternativa C está incorreta. Os equipamentos de produção das mercadorias não influenciam esse processo
+em específico.
+
+A alternativa D está incorreta. Os modos de compra, produção e venda não tem qualquer relação com a
+decisão a ser tomada.
+
+A alternativa E está correta e é o gabarito da questão. A correta utilização do espaço disponível para a
+armazenagem é fundamental para a busca de eficiência ao longo do processo. Especificamente para a
+escolha de estruturas metálicas para a armazenagem, devem ser levados em conta fatores como a largura
+mínima dos corredores (por onde veículos industriais deverão trafegar), a altura máxima de empilhamento
+(os níveis de armazenagem), o peso e o volume das cargas (ou o tipo dos materiais) e os meios previstos para
+a entrada e saída dos materiais (ou os equipamentos e veículos utilizados para a movimentação).
+
+29. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As vantagens de usar equipamentos automáticos na
+    armazenagem são:
+
+a) redução do custo de oportunidade e aumento da eficiência dos controles na descarga.
+b) melhor monitoramento, identificação e correção de erros no ato da verificação.
+c) redução do custo de mão de obra, aumento de produtividade, aumento do controle e melhor nível de
+serviço.
+d) redução do valor envolvido na compra e manutenção de equipamentos automáticos e aumento dos custos
+e níveis de serviço.
+e) diminuição do carregamento e descarregamento de caminhões e diminuição dos custos envolvidos na
+armazenagem.
+
+Comentários:
+
+A alternativa A está incorreta. A utilização de equipamentos automáticos não tem relação com a redução do
+custo de oportunidade mas sim com os custos de mão de obra do processo.
+
+A alternativa B está incorreta. A utilização de equipamentos automáticos na armazenagem não se relaciona
+com os processos e volume de erros na verificação do material, seja ela anterior a armazenagem (processo
+de recebimento) ou posterior (inventário e respectivas correções). Em ambos os casos não há relação com o
+uso de equipamentos automáticos no ato da armazenagem.
+
+A alternativa C está correta e é o gabarito da questão. A utilização de equipamentos automáticos na
+armazenagem certamente traz mais eficiência a todo o processo pois reduz custos de mão de obra, aumenta
+o controle e o nível de serviço e a produtividade, como um todo.
+
+A alternativa D está incorreta. A utilização de equipamentos automáticos provavelmente aumenta (e não
+diminui) o valor envolvido na compra dos próprios equipamentos, aumento de custo esse, porém,
+compensado pelo ganho de eficiência ao longo do tempo.
+
+A alternativa E está incorreta. Não há relação com o aumento ou diminuição do carregamento e
+descarregamento de caminhões.
+
+
+---
+
+30. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Pode-se considerar como uma das principais
+    atribuições do almoxarife
+
+a) promover o marketing da empresa perante os órgãos controladores.
+b) manter a política de informações de compras junto aos fornecedores.
+c) fazer nota de empenho, liquidação e contabilização das compras.
+d) receber, para guarda e proteção, os materiais adquiridos pela empresa.
+e) rever projetos com uso desnecessário de pessoas e de material.
+
+Comentários:
+
+A alternativa A está incorreta. O almoxarife não tem envolvimento direto com as ações de marketing da
+empresa, que ficam a cargo do departamento de marketing.
+
+A alternativa B está incorreta. O almoxarife não tem envolvimento direto com as ações de compras da
+empresa, que ficam a cargo do departamento de compras.
+
+A alternativa C está incorreta. O almoxarife não tem envolvimento direto com as ações da área financeira e
+contábil da empresa, que ficam a cargo desses dois departamentos.
+
+A alternativa D está correta e é o gabarito da questão. Receber os materiais adquiridos pela empresa é
+mesmo uma das principais funções do almoxarife.
+
+A alternativa E está incorreta. O almoxarife não tem envolvimento direto com as ações como a revisão de
+projetos com uso desnecessário de pessoas e de material, o que fica a cargo de áreas como o RH ou outros
+setores responsáveis pelo desenho da estratégia e/ou gestão de projetos da organização.
+
+31. (VUNESP/Pref. Arujá-SP/Controlador de Patrimônio/2019) Quando o material solicitado chega à
+    empresa, é necessário o processo de entrada de materiais, que inclui
+
+a) conferência física, armazenagem, distribuição e transporte.
+b) expedição, faturamento, conferência eletrônica e recebimento.
+c) conferência física, expedição, armazenagem e transporte.
+d) controle de qualidade, recebimento de materiais e controle.
+e) conferência eletrônica, conferência física e recebimento de materiais.
+
+Comentários:
+
+A alternativa A está incorreta. Segundo Ronald Ballou esses não são os procedimentos fundamentais no
+processo de controle logístico de estoque.
+
+A alternativa B está incorreta. Segundo Ronald Ballou esses não são os procedimentos fundamentais no
+processo de controle logístico de estoque.
+
+
+---
+
+A alternativa C está incorreta. Segundo Ronald Ballou esses não são os procedimentos fundamentais no
+processo de controle logístico de estoque.
+
+A alternativa D está incorreta. Segundo Ronald Ballou esses não são os procedimentos fundamentais no
+processo de controle logístico de estoque.
+
+A alternativa E está correta e é o gabarito da questão.
+
+Segundo Ronald Ballou, quando os produtos chegam à empresa é necessária a realização do controle para
+proceder o processo de entrada de materiais. A necessidade básica de tal processo centra-se nas incertezas
+que alteram os desempenhos futuros dos planejamentos de estoques. Ballou (2004), traz que alguns
+procedimentos são fundamentais nesse processo de controle logístico de estoque, são eles:
+
+   •   Conferência eletrônica: que diz respeito ao acompanhamento via sistema de informação MRP
+       (Material Requirement Planning) se o que fora pedido está em conformidade com a nota faturada
+       pelo fornecedor;
+   •   Conferência física: com a chegada do pedido faz-se o controle de materiais considerando a nota fiscal
+       eletrônica faturada pelo fornecedor de acordo com o pedido realizado pela empresa que recebe os
+       materiais.
+   •   Recebimento de materiais: à medida que os materiais são recebidos, a empresa realiza as
+       conferências eletrônicas e físicas para posteriormente dar baixa no recebimento de materiais,
+       considerando as devidas confirmações pós-controles. Esse procedimento dá entrada para que o
+       processo logístico de armazenagem possa ser executado.
+
+Dessa forma A alternativa E está correta e é o gabarito da questão.
+
+32. (VUNESP/CM Registro-SP/Assistente Legislativo/2016) A distribuição, como uma atividade global,
+    que se inicia na preparação do produto e termina no usuário, é grandemente melhorada com a
+    racionalização dos sistemas de manuseio de materiais no que diz respeito à
+
+a) distância entre os centros de distribuição, realocação de espaços de armazenagem, serviços de separação,
+controle e entrega de materiais.
+b) administração de centros de distribuição, contratação de mais mão de obra e equipamentos
+automatizados.
+c) realocação de locais de estocagem, frotas próprias para melhor distribuição, racionalização da mão de
+obra.
+d) separação, armazenagem e entrega de mercadorias, maior espaço de estocagem, uma grande frota de
+caminhões.
+e) circulação de mercadorias, localização estratégica dos almoxarifados, melhoria do serviços aos usuários e
+maior disponibilidade de produtos em cada região.
+
+
+---
+
+Comentários:
+
+A alternativa A está incorreta. Segundo Dias (2010), a racionalização dos sistemas de manuseio de materiais
+deve ser buscada por meio de melhorias nas seguintes atividades: melhoria na circulação, localização
+estratégica, melhoria dos serviços ao usuário e maior disponibilidade.
+
+A alternativa B está incorreta. Segundo Dias (2010), a racionalização dos sistemas de manuseio de materiais
+deve ser buscada por meio de melhorias nas seguintes atividades: melhoria na circulação, localização
+estratégica, melhoria dos serviços ao usuário e maior disponibilidade.
+
+A alternativa C está incorreta. Segundo Dias (2010), a racionalização dos sistemas de manuseio de materiais
+deve ser buscada por meio de melhorias nas seguintes atividades: melhoria na circulação, localização
+estratégica, melhoria dos serviços ao usuário e maior disponibilidade.
+
+A alternativa D está incorreta. Segundo Dias (2010), a racionalização dos sistemas de manuseio de materiais
+deve ser buscada por meio de melhorias nas seguintes atividades: melhoria na circulação, localização
+estratégica, melhoria dos serviços ao usuário e maior disponibilidade.
+
+A alternativa E está correta e é o gabarito da questão. De acordo com Dias (2010) a distribuição pode ser
+significativamente melhorada com a racionalização dos sistemas de manuseio. Vejamos abaixo:
+
+   •   Melhoria na circulação: com a criação de corredores bem definidos, endereçamento fácil,
+       equipamentos eficientes;
+   •   Localização estratégica de almoxarifado: com a aplicação de sistemas de manuseio torna-se viável a
+       criação de pontos de armazenagem próximos aos consumidores;
+   •   Melhoria dos serviços ao usuário: o consumidor pode adquirir as mercadorias com custo menor, em
+       melhor estado, de maneira mais célere estando as mercadorias próximas aos centros de
+       consumidores;
+   •   Maior disponibilidade: da mesma forma, haverá mais disponibilidade dos produtos na região.
+
+33. (VUNESP/Pref. Poá-SP/Almoxarife/2015) Na descentralização dos almoxarifados, encontra-se
+    algumas vantagens. Entre elas, destacam-se:
+
+a) maior agilidade na obtenção dos materiais, proximidade com o centro de decisão local e maior divisão de
+responsabilidade.
+b) maior poder de negociação em função do volume de compras, adoção de procedimentos uniformes e
+melhor controle dos materiais.
+c) possibilidade de maior especialização por parte do pessoal de compras, menor divisão de responsabilidade
+e melhor controle dos materiais.
+d) adoção de procedimentos uniformes possibilitando melhor controle dos materiais, maior poder de
+negociação e melhores espaços de estocagem.
+e) melhor poder de decisão, maior poder de negociação com o pessoal de vendas e menor nível de
+responsabilidade.
+Comentários:
+
+
+---
+
+A alternativa A está correta e é o gabarito da questão. Vimos que a descentralização da atividade de estoques
+e gestão de materiais tem como grande vantagem a velocidade no atendimento das requisições de materiais
+visto que o gestor está bastante próximo da unidade de negócio, o que geralmente não acontece no modelo
+centralizado.
+
+A alternativa B está incorreta. Exatamente o contrário. A descentralização embora garanta agilidade,
+possivelmente abre mão do poder de negociação em função do volume de compras (agora desconcentrado),
+assim como tem mais dificuldades na adoção de procedimentos uniformes nas diferentes unidade e controle
+dos materiais mais complexo.
+
+A alternativa C está incorreta. Também não. O modelo descentralizado inibe a possibilidade de maior
+especialização por parte do pessoal de compras visto que o time deverá estar espalhado por várias unidades
+e, provavelmente, será maior. A divisão de responsabilidade acaba sendo também maior (mais delegação) e
+o controle dos materiais, menor, em função da pulverização do processo.
+
+A alternativa D está incorreta. É o contrário. A descentralização traz agilidade e flexibilidade, mas torna mais
+difícil a adoção de procedimentos uniformes possibilitando melhor controle dos materiais e diminui o poder
+de negociação além de, provavelmente, também pulverizar a estocagem em diferentes espaços não
+integrados, ampliando seu custo de manutenção e gestão.
+
+A alternativa E está incorreta. Também não. A descentralização dilui o poder de decisão em frentes de ação
+diferentes e diminui o poder de negociação com os fornecedores por não concentrar o volume adquirido em
+um único pedido.
+
+34. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos objetivos da existência do almoxarifado é
+
+a) adotar novas técnicas de aquisições da empresa através de inovação tecnológica.
+b) resguardar as quantidades exatas e preservar a qualidade dos materiais.
+c) aprimorar o projeto de transportes e reciclagem de materiais padronizados.
+d) controlar o beneficiamento das matérias primas até o produto acabado.
+e) realizar levantamentos contábeis para diminuição do custo da mão de obra.
+
+Comentários:
+
+A alternativa A está incorreta. Essa é uma atribuição da área de compras e não do almoxarifado.
+
+A alternativa B está correta e é o gabarito da questão. Exato. Essas são duas das mais importantes atribuições
+do almoxarifado.
+
+A alternativa C está incorreta. Atribuições da área de movimentação e transportes (as vezes chamada de
+logística) e não do almoxarifado.
+
+A alternativa D está incorreta. Atribuição da área de produção (fabricação) e não do almoxarifado.
+
+A alternativa E está incorreta. Atribuição da área contábil e/ou financeira e não do almoxarifado.
+
+
+---
+
+35. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) A requisição de material é utilizada para
+
+a) elaborar o pagamento da aquisição de um determinado material através do lançamento contábil.
+b) transportar o material, informando o roteiro otimizado de coletas e padronização das metas.
+c) realizar inventário rotativo e aprimorar o sistema de aquisição de materiais.
+d) alterar o layout do almoxarifado, devido à detecção de desperdícios de materiais em diferentes áreas de
+consumo.
+e) formalizar o pedido de retirada de determinada quantidade de um item em estoque para utilização da
+empresa.
+
+Comentários:
+
+A alternativa A está incorreta. A requisição de material não tem qualquer relação com esse procedimento,
+muito mais relacionado à área financeira e contas a pagar.
+
+A alternativa B está incorreta. A requisição de material não tem qualquer relação com esse procedimento,
+muito mais relacionado à área de transportes e logística.
+
+A alternativa C está incorreta. A requisição de material não tem qualquer relação com esse procedimento,
+muito mais relacionado à área de compras e controle de estoques (mas sem utilização da requisição de
+materiais).
+
+A alternativa D está incorreta. A requisição de material não tem qualquer relação com esse procedimento,
+mesmo que haja relação com os estoques / almoxarifados.
+
+A alternativa E está correta e é o gabarito da questão. A requisição de material é utilizada para formalizar ao
+almoxarifado a necessidade de determinado material e sua respectiva retirada do estoque.
+
+36. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos objetivos do arranjo físico é
+
+a) coletar dados para definir uma estratégia de mercado em relação à concorrência.
+b) analisar a política de estoque e o ponto ideal do tempo de reposição dos materiais.
+c) integrar máquinas, pessoas e materiais, para possibilitar uma produção eficiente.
+d) facilitar os pedidos de compras e eliminar a dualidade de itens de suprimento.
+e) acompanhar o desempenho do fornecimento de materiais a diversos setores da empresa.
+
+Comentários:
+
+A alternativa A está incorreta. O arranjo físico está relacionado à organização física (localização e disposição)
+e integração dos diferentes elementos componentes do processo de produtivo. Não há relação com a
+definição de estratégia relativa aos concorrentes.
+
+A alternativa B está incorreta. O arranjo físico está relacionado à organização física (localização e disposição)
+e integração dos diferentes elementos componentes do processo de produtivo. Não há relação com a
+definição de políticas de estoque ou ponto ideal de reposição de materiais.
+
+
+---
+
+A alternativa C está correta e é o gabarito da questão. O arranjo físico procura organizar e integrar da melhor
+forma possível máquinas, pessoas, materiais e equipamentos, com o objetivo de gerar a maior produtividade
+possível ao longo do processo.
+
+A alternativa D está incorreta. O arranjo físico está relacionado à organização física (localização e disposição)
+e integração dos diferentes elementos componentes do processo de produtivo. Não há relação com a
+facilitação dos pedidos de compras ou eliminação na dualidade dos itens de suprimento, tema muito mais
+relacionado à codificação.
+
+A alternativa E está incorreta. O arranjo físico está relacionado à organização física (localização e disposição)
+e integração dos diferentes elementos componentes do processo de produtivo. Não há relação com o
+acompanhamento do desempenho do fornecimento de materiais à organização.
+
+37. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) O descarregamento dos produtos no ato do
+    recebimento deve ser efetuado em local coberto no caso de mau tempo. Essa afirmação refere-se
+    ao
+
+a) sistema de custeio por ordem de serviço e entrega do produto.
+b) método e à precaução para o manuseio e movimentação de materiais.
+c) sistema de custeio padrão e custos dos produtos e seus subconjuntos.
+d) método LIFO de armazenagem e ao método FIFO de aquisição.
+e) fluxo de estoque, à classificação e à codificação de materiais.
+
+Comentários:
+
+A alternativa A está incorreta. Proteger o material da chuva e do mau tempo não está diretamente ligado
+ao sistema de custeio da organização.
+
+A alternativa B está correta e é o gabarito da questão. É tipicamente uma ação de proteção em relação ao
+manuseio de materiais.
+
+A alternativa C está incorreta. Proteger o material da chuva e do mau tempo não está diretamente ligado ao
+sistema de custeio da organização.
+
+A alternativa D está incorreta. Proteger o material da chuva e do mau tempo não possui qualquer relação
+com os métodos contábeis e gerenciais adotados pela organização.
+
+A alternativa E está incorreta. Proteger o material da chuva e do mau tempo não está diretamente ligado ao
+fluxo de estoque, classificação ou codificação de materiais.
+
+38. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Quem serve de base para a escolha do sistema de
+    armazenagem de cargas e da operação do almoxarifado são
+
+a) as notas de empenho.
+b) os inventários diários.
+
+
+---
+
+c) os pontos de ressuprimento.
+d) os registros de estoque.
+e) as condições de trabalho.
+
+Comentários:
+
+A alternativa A está incorreta. As notas de empenho não influenciam as decisões sobre os sistemas de
+armazenagem mais indicados ou sobre a melhor metodologia de operação dos almoxarifados.
+
+A alternativa B está incorreta. Inventários diários não influenciam diretamente as decisões sobre os sistemas
+de armazenagem mais indicados ou sobre a melhor metodologia de operação dos almoxarifados.
+
+A alternativa C está incorreta. Pontos de ressuprimento não influenciam diretamente as decisões sobre os
+sistemas de armazenagem mais indicados ou sobre a melhor metodologia de operação dos almoxarifados.
+
+A alternativa D está incorreta. Registros de estoque não influenciam diretamente as decisões sobre os
+sistemas de armazenagem mais indicados ou sobre a melhor metodologia de operação dos almoxarifados.
+
+A alternativa E está correta e é o gabarito da questão. As condições de trabalho vão determinar quais são os
+sistemas de armazenagem mais indicados, assim como a melhor metodologia de operação dos
+almoxarifados.
+
+39. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) As embalagens de comercialização têm por finalidade
+    primordial a
+
+a) proteção do produto.
+b) valoração contábil.
+c) ocupação volumétrica.
+d) classificação de fornecedores.
+e) marcação de pedidos.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. A principal função das embalagens de comercialização
+é justamente a proteção dos produtos ao longo de todo o processo logístico, preservando suas características
+e valor.
+
+A alternativa B está incorreta. A principal função é a proteção e não a valoração contábil.
+
+A alternativa C está incorreta. A principal função é a proteção e não a ocupação volumétrica. Ao contrário,
+a embalagem deve ser pequena o suficiente para não ocupar espaços desnecessários ao longo das atividades
+de armazenamento e transporte.
+
+A alternativa D está incorreta. A principal função é a proteção. Não há qualquer relação com a atividade de
+classificação de fornecedores.
+
+
+---
+
+A alternativa E está incorreta. A principal função é a proteção. Também não há qualquer relação com a
+atividade de marcação de pedidos.
+
+40. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) São tipos de equipamentos utilizados para
+    movimentação de materiais:
+
+a) guindaste e flutuador.
+b) nivelador e comboio.
+c) paleteiro e empilhadeira.
+d) monovia e atomizador.
+e) embalador e acondicionador.
+
+Comentários:
+
+A alternativa A está incorreta. O flutuador não é um equipamento utilizado para a movimentação de
+materiais.
+
+A alternativa B está incorreta. O nivelador não é um equipamento utilizado para a movimentação de
+materiais.
+
+A alternativa C está correta e é o gabarito da questão. Tanto o paleteiro como a empilhadeira são
+equipamentos utilizados para a movimentação de materiais.
+
+A alternativa D está incorreta. O atomizador não é um equipamento utilizado para a movimentação de
+materiais.
+
+A alternativa E está incorreta. Embaladores e acondicionadores não são equipamentos utilizados para a
+movimentação de materiais.
+
+41. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Pode-se chamar a arrumação de pequenos volumes
+    padronizados em unidades maiores, para que possam ser mecanicamente movimentados, de
+
+a) classificação de materiais.
+b) unitização de cargas.
+c) codificação de materiais.
+d) avaliação de estoque.
+e) integração de serviços.
+
+Comentários:
+
+A alternativa A está incorreta. A classificação de materiais busca as diferenças, especifica e codifica os
+materiais e não os acomoda em unidades maiores de pequenos volumes.
+
+A alternativa B está correta e é o gabarito da questão. A unitização ou carga unitária é a técnica de
+armazenamento mais cobrada em provas e você precisa memorizar. É a carga constituída de embalagens de
+
+
+---
+
+transporte que acondicionam quantidades variadas de material como se fossem uma só unidade, facilitando
+seu manuseio, transporte e o próprio armazenamento. Em resumo é a técnica que permite reunir inúmeros
+itens em uma única embalagem ou volume. Paletização e conteinerização são exemplos práticos da técnica.
+
+A alternativa C está incorreta. A codificação de materiais atribui códigos específicos aos itens facilitando sua
+gestão e não os acomoda em unidades maiores de pequenos volumes.
+
+A alternativa D está incorreta. A avaliação de estoque não consiste na acomodação de itens em unidades
+maiores de pequenos volumes.
+
+A alternativa E está incorreta. A integração de serviços também não consiste na acomodação de itens em
+unidades maiores de pequenos volumes.
+
+42. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Nos inventários, propiciar a verificação periódica da
+    exatidão dos registros para poder avaliar o lucro e transferir para o resultado as diferenças
+    apuradas é o objetivo do
+
+a) ponto de pedido.
+
+b) estoque de segurança.
+
+c) levantamento físico.
+
+d) sistema de codificação.
+
+e) lote econômico de compra.
+
+Comentários:
+
+A alternativa A está incorreta. O ponto do pedido não tem relação com a realização de inventários.
+
+A alternativa B está incorreta. O estoque de segurança também não tem relação com a realização de
+inventários.
+
+A alternativa C está correta e é o gabarito da questão. O levantamento físico das quantidades existentes é
+seguido pela checagem dos volumes escriturados, para que os ajustes dos eventuais desvios possam ser
+realizados.
+
+A alternativa D está incorreta. O sistema de codificação não se relaciona diretamente com a realização de
+inventários.
+
+A alternativa E está incorreta. O lote econômico de compras também não se relaciona diretamente com a
+realização de inventários.
+
+43. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Efetua-se, periodicamente, quase sempre no
+    encerramento do período fiscal da empresa, para efeito de balanço contábil, o
+
+a) arranjo físico.
+
+
+---
+
+b) inventário físico.
+
+c) controle de qualidade.
+
+d) plano de produção.
+
+e) controle de custos.
+
+Comentários:
+
+A alternativa A está incorreta. O arranjo físico é a organização física dos materiais. Não tem efeito em relação
+ao balanço contábil.
+
+A alternativa B está correta e é o gabarito da questão. O inventário físico é o instrumento de controle para
+a verificação dos saldos de estoques nos almoxarifados e depósitos, e dos equipamentos e materiais
+permanentes, em uso no órgão ou entidade, que irá permitir, dentre outros, o ajuste dos dados escriturais
+de saldos e movimentações dos estoques com o saldo físico real nas instalações de armazenagem.
+
+A alternativa C está incorreta. O controle de qualidade não se relaciona com as ações de final de ano com
+efeito contábil em uma organização.
+
+A alternativa D está incorreta. O plano de produção não é a atividade efetuada periodicamente, quase
+sempre no encerramento do período fiscal da empresa, para efeito de balanço contábil. Esse é o inventário
+físico, ou “balanço anual”.
+
+A alternativa E está incorreta. O controle de custos também não é a atividade efetuada periodicamente,
+quase sempre no encerramento do período fiscal da empresa, para efeito de balanço contábil. Esse é o
+inventário físico, ou “balanço anual”.
+
+44. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Um dos pré-requisitos mais importantes para
+    organização de um inventário anual é a
+
+a) efetivação de compras de todos os itens de material para abastecer o ano seguinte.
+
+b) agilização das atividades de processamento de dados da área financeira e contábil.
+
+c) redução da imobilização do estoque em decorrência da simplificação dos procedimentos contábeis.
+
+d) organização do controle de qualidade e de custos, inclusive contábeis na classificação de materiais.
+
+e) arrumação prévia e com antecedência das áreas produtivas dos almoxarifados e dos armazéns.
+
+Comentários:
+
+A alternativa A está incorreta. A efetivação de compras de todos os itens de material para abastecer o ano
+seguinte não tem relação direta com a realização de um inventário.
+
+
+---
+
+A alternativa B está incorreta. A agilização das atividades de processamento de dados da área financeira e
+contábil também não se relaciona diretamente com a realização de um inventário anual.
+
+A alternativa C está incorreta. Também não é requerida a redução da imobilização do estoque em
+decorrência da simplificação dos procedimentos contábeis, em função da realização de um inventário anual.
+
+A alternativa D está incorreta. A organização do controle de qualidade e de custos, inclusive contábeis na
+classificação de materiais, independe da realização de um inventário anual.
+
+A alternativa E está correta e é o gabarito da questão. Segundo Marco Aurélio Dias, na preparação para um
+inventário algumas medidas devem ser tomadas, entre elas:
+
+- Definição dos convocados, datas, horários e locais de trabalho;
+
+- Fornecimento de meios de registro em volume e qualidade apropriados
+
+- Revisão da arrumação física
+
+- Definição do método e seu treinamento para a tomada do inventário
+
+- Atualização e análise dos registros
+
+- Cut-off para documentação e movimentação de materiais que serão inventariados
+
+45. (VUNESP/Pref. Arujá-SP/Técnico Administração/2015) É uma das atividades do almoxarifado e
+    tem como objetivo principal o levantamento físico ou a contagem dos materiais existentes para
+    efeito de confrontação periódica com os estoques anotados nos fichários de estoques ou no banco
+    de dados sobre materiais. Trata-se do(a)
+
+a) auditoria dos materiais.
+
+b) conferência física.
+
+c) balanço dos estoques.
+
+d) inventário físico.
+
+e) rastreamento dos materiais.
+
+Comentários:
+
+A alternativa A está incorreta. O nome técnico correto é inventário físico e não auditoria dos materiais.
+
+A alternativa B está incorreta. O nome técnico correto é inventário físico e não conferência física.
+
+A alternativa C está incorreta. O nome técnico correto é inventário físico e não balanço dos estoques.
+
+
+---
+
+A alternativa D está correta e é o gabarito da questão. O inventário físico é o instrumento de controle para
+a verificação dos saldos de estoques nos almoxarifados e depósitos, e dos equipamentos e materiais
+permanentes, em uso no órgão ou entidade, que irá permitir, dentre outros, o ajuste dos dados escriturais
+de saldos e movimentações dos estoques com o saldo físico real nas instalações de armazenagem.
+
+A alternativa E está incorreta. O nome técnico correto é inventário físico e não rastreamento dos materiais.
+
+46. (VUNESP/Pref. Arujá-SP/ Técnico Administração /2015) A ação de recebimento de mercadorias
+    para serem estocadas no almoxarifado compõe-se de quatro fases: 1) entrada do material; 2)
+    conferência quantitativa; 3) conferência qualitativa; e 4) _________.
+
+a) ingresso
+
+b) verificação
+
+c) comparação
+
+d) admissão
+
+e) regularização
+
+Comentários:
+
+A alternativa A está incorreta. O termo técnico correto no contexto buscado é a regularização. Veja a
+definição no comentário da alternativa correta.
+
+A alternativa B está incorreta. O termo técnico correto no contexto buscado é a regularização. Veja a
+definição no comentário da alternativa correta.
+
+A alternativa C está incorreta. O termo técnico correto no contexto buscado é a regularização. Veja a
+definição no comentário da alternativa correta.
+
+A alternativa D está incorreta. O termo técnico correto no contexto buscado é a regularização. Veja a
+definição no comentário da alternativa correta.
+
+A alternativa E está correta e é o gabarito da questão. A regularização é e última das 4 fases e constitui-se
+do encerramento do processo após as etapas de recebimento e de conferência quantitativa e qualitativa do
+material entregue, resultando na aceitação total, parcial ou mesmo recusa do material entregue e a
+finalização do processo com o pagamento ou devolução do que foi adquirido.
+
+47. (CEBRASPE/TRT 8a Região/Analista Judiciário/2016) Acerca da administração de material e
+    patrimônio no governo federal, assinale a opção correta.
+
+a) No fornecimento por requisição, a entrega de material ao usuário segue uma tabela de provisão
+previamente estabelecida, independentemente de qualquer solicitação.
+b) Na armazenagem, os materiais devem ficar protegidos da ação danosa de animais ou insetos.
+
+
+---
+
+c) Recebimento é o ato pelo qual se declara que o material foi aceito, por satisfazer às especificações
+contratadas, e foi recebido no local designado.
+d) Todas as movimentações de materiais e patrimônio devem ser registradas em sistema informatizado.
+e) Para realizar a armazenagem e a distribuição de qualquer material, o órgão federal pode optar pelo
+método primeiro a entrar, primeiro a sair (PEPS) ou pelo método último a entrar, primeiro a sair (UEPS).
+
+Comentários:
+
+A alternativa A está incorreta. Deve sim haver a solicitação para a entrega no fornecimento por requisição.
+
+A alternativa B está correta e é o gabarito da questão. Os materiais devem ficar protegidos da ação danosa
+de animais, insetos, assim como contra furtos, roubos ou outros perigos mecânicos ou climáticos.
+
+A alternativa C está incorreta. O recebimento não implica na aceitação do material, o que ocorrerá apenas
+após as respectivas conferências e regularização do material recebido.
+
+A alternativa D está incorreta. O registro não necessariamente deve ocorrer em sistema informatizado.
+
+A alternativa E está incorreta. O método escolhido deve ser o PEPS, ou seja, o primeiro que entrou (mais
+antigo) deve ser o primeiro a sair, evitando o envelhecimento e/ou perecimento e/ou obsolescência do
+estoque.
+
+48. (CEBRASPE/TRE-MT/Técnico Judiciário/2015) No que se refere à armazenagem de materiais,
+    assinale a opção correta.
+
+a) Em órgãos públicos, a armazenagem dos materiais por agrupamento é mais vantajosa que a armazenagem
+por frequência de uso, pois facilita a localização dos materiais.
+b) Facilitar o acesso aos itens do depósito, proteger os materiais e maximizar o uso da mão de obra são
+objetivos da armazenagem.
+c) Em órgãos públicos, é ideal manter estoque zero de materiais.
+d) A definição dos critérios de armazenagem dos materiais de consumo de um órgão público está
+diretamente relacionada aos critérios de licitação.
+e) A redução dos custos de materiais é diretamente influenciada pela proximidade entre os centros de
+distribuição e os centros consumidores.
+
+Comentários:
+
+A alternativa A está incorreta. A armazenagem por agrupamento facilita as tarefas de arrumação e busca,
+mas nem sempre permite o melhor aproveitamento do espaço. Já a armazenagem por frequência de uso
+implica armazenar tão próximo quanto possível da saída os materiais que tenham maior frequência de
+movimento. No caso dos órgãos públicos, a armazenagem dos materiais por frequência de uso é mais
+vantajosa que a armazenagem por agrupamento, permitindo maior agilidade e melhor aproveitamento do
+espaço disponível.
+
+
+---
+
+A alternativa B está correta e é o gabarito da questão. As três ações listadas estão entre os principais
+objetivos de armazenagem que são os seguintes:
+   •   Maximizar o uso dos espaços;
+   •   Facilitar o acesso aos itens do depósito;
+   •   Proteger e abrigar os materiais;
+   •   Facilitar a movimentação interna do depósito;
+   •   Maximizar a utilização de mão de obra e equipamentos.
+
+A alternativa C está incorreta. Como o órgão público está sempre submetido ao processo de licitação para a
+compra de materiais, é impensável um cenário sem estoques ou de compras sob demanda (JIT) visto a
+burocracia e demora inerentes ao processo.
+
+A alternativa D está incorreta. São diversos os critérios de armazenagem que devem ser observados na
+gestão de materiais, quase sempre vinculados às características do material (e não ao processo licitatório),
+tais como fragilidade, volume, peso, forma.
+
+A alternativa E está incorreta. A proximidade dos centros de distribuição dos centros consumidores pode
+reduzir os custos de distribuição e transportes, mas não os custos de aquisição dos materiais.
+
+49. (CEBRASPE/TCE-PB/Agente Documentação/2018) Um almoxarife recebeu uma encomenda de
+    parafusos e, tendo detectado avarias na embalagem, teve dúvidas sobre a integridade do
+    conteúdo. Nessa situação, o material deve ser rejeitado com base na inspeção
+
+a) visual.
+b) de identificação.
+c) do certificado de qualidade.
+d) dimensional.
+e) documental.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão. O procedimento adotado para detectar avarias nas
+embalagens é mesmo a inspeção visual. Por meio dela, é possível verificar as condições da embalagem.
+
+A alternativa B está incorreta. A inspeção de identificação diz respeito à análise da identificação dos itens
+recebidos.
+
+A alternativa C está incorreta. A inspeção do certificado de qualidade se refere, como o próprio nome diz, à
+qualidade.
+
+A alternativa D está incorreta. A inspeção dimensional é uma inspeção qualitativa que visa conferir as
+características dimensionais dos itens, como comprimento, altura, largura.
+
+A alternativa E está incorreta. A inspeção documental se refere ao exame minucioso realizado nos
+documentos para descobrir eventuais erros.
+
+
+---
+
+50. (CEBRASPE/TCE-PB/Agente Documentação/2018) Um almoxarifado, cujo croqui é mostrado a
+    seguir, utiliza o sistema de localização fixa para posicionamento de itens de consumo e segue as
+    melhores práticas de armazenagem descritas na literatura especializada. De acordo com a figura
+    em apreço, e considerando-se que a variável giro do estoque seja a que definirá a localização do
+    item no espaço físico disponível, a melhor localização para porcas e parafusos, itens de giro rápido,
+    será o setor
+
+a) I.
+b) II.
+c) III.
+d) IV.
+e) V.
+
+Comentários:
+
+Quando a variável mais importante para a definição da localização dos itens nos estoques é o giro, isso
+significa que os itens de maior giro devem ser alocados próximos aos locais de entrada e saída de materiais,
+sinalizados como os setores IV ou V no croqui.
+
+Como os materiais são identificados como porcas e parafusos, têm suas armazenagens indicadas em gavetas,
+localizadas justamente ao lado da entrada/saída do depósito, no setor IV.
+
+A alternativa D está correta e é o gabarito da questão.
+
+51. (CEBRASPE/IFF/Administrador/2018) Os riscos de avarias no estoque que sejam resultantes de
+    vibração, trepidação, frenagens, atrito e impactos constituem os riscos.
+
+a) químicos.
+
+
+---
+
+b) imponderáveis.
+c) mecânicos.
+d) climáticos.
+e) humanos.
+
+Comentários:
+
+A alternativa A está incorreta. Risco químico é o perigo a que determinado indivíduo ou material está
+exposto ao manipular produtos químicos que podem causar-lhe danos físicos ou prejudicar lhe a saúde.
+
+A alternativa B está incorreta. A banca descreveu riscos mecânicos no enunciado.
+
+A alternativa C está correta e é o gabarito da questão. Os riscos mecânicos são aqueles relacionados à falta
+de organização e segurança no ambiente ou existência de processos de trabalho que podem acarretar algum
+dano à saúde e integridade física dos trabalhadores ou materiais. Veja os principais agentes mecânicos
+considerados como riscos causadores de acidentes:
+
+   •   Arranjos físicos deficientes;
+   •   Maquinários e equipamentos sem a proteção adequada;
+   •   Ferramentas inapropriadas ou com problemas;
+   •   Eletricidade;
+   •   Risco de queda;
+   •   Incêndio ou explosão;
+   •   Animais peçonhentos;
+   •   Armazenamento inadequado.
+
+A alternativa D está incorreta. Riscos climáticos derivam de impactos negativos de eventos climáticos, ao
+contrário do descrito no enunciado.
+
+A alternativa E está incorreta. A banca descreveu riscos mecânicos no enunciado.
+
+52. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. Manter estoques de
+    medicamentos em ambientes com temperatura adequada à conservação é um dos objetivos da
+    armazenagem.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+A armazenagem, em linhas gerais trata dos procedimentos e cuidados que deverão ser tomados em relação
+à disposição dos materiais nos almoxarifados, de acordo com suas classificações de perecibilidade,
+
+
+---
+
+periculosidade, regras e frequência de utilização, entre outras variáveis, adequando a guarda de cada um
+dos materiais a suas características e especificidades, visando sua segurança e preservação.
+
+A guarda seguirá critérios e técnicas definidas que visam a garantia de segurança e eficiência ao longo do
+processo, como a utilização plena do espaço disponível tanto em seu comprimento como em largura e altura.
+
+No caso da questão, estocar medicamentos em ambientes com temperaturas adequadas é fundamental para
+a manutenção de suas características físicas e/ou químicas, em função de sua perecibilidade.
+
+53. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. A verificação das informações
+    constantes na nota fiscal, também considerada como recebimento provisório, faz parte da etapa
+    de entrada de materiais em um setor de armazenagem.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+A Nota Fiscal é um documento fundamental para o processo de recebimento. Algumas das atribuições do
+processo de recebimento baseiam-se na análise dos documentos fiscais e confrontação entre o declarado e
+o, de fato, entregue.
+
+Entendendo um pouco mais da nota fiscal, é um documento emitido pelo vendedor, no qual notifica ao fisco
+os respectivos impostos que deverão ser recolhidos em relação à transação: Imposto sobre Produtos
+Industrializados (IPI), Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e Imposto Sobre Serviços
+de Qualquer Natureza (ISS).
+
+No início do processo de recebimento, ao longo da etapa de Entrada dos materiais e ainda na portaria da
+organização, o foco da checagem é a documentação. Nessa checagem inicial verifica-se: autorização da
+compra, cumprimento do prazo de entrega, correspondência entre o documento de compra e a nota fiscal
+e cadastramento de informações.
+
+Feita essa checagem inicial, o material deve ser encaminhado para entrada no almoxarifado (caso tudo esteja
+em ordem) ou recusado (caso a compra não esteja autorizada ou entregue fora do prazo, neste caso
+incluindo-se observação no verso da nota fiscal).
+
+54. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) Com relação a critérios e técnicas de
+    armazenagem, julgue o item subsequente. No caso de as caixas dos produtos acabados serem
+    cúbicas, o dispositivo mais indicado para a formação da carga unitária é o palete.
+
+a) Certo
+
+b) Errado
+
+
+---
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+O mais conhecido dispositivo que permite a formação da carga unitária é o pallet, que consiste em um
+estrado de madeira de dimensões diversas, de acordo com as necessidades da empresa. Como as
+mercadorias que são acomodadas sobre ele não têm sempre o mesmo tamanho, para cada uma delas é
+necessário aplicar um arranjo físico diferente sobre o pallet, com o objetivo de dar a elas a maior sustentação
+possível. É justamente por essa razão que as caixas de formato cúbico não são as mais indicadas para esse
+processo por não permitirem "encaixes" que dão maior suporte e resistência à pilha, dificultando a sua
+arrumação sobre o pallet e o seu empilhamento com segurança.
+
+Além das embalagens de formato cúbico, há outras que também não são indicadas para a paletização como
+as muito fracas, muito pesadas, demasiadamente cheias, volumes de formas não usuais (cônicos, cilíndricos,
+etc.), mal identificadas, entre outras.
+
+55. (CEBRASPE/EBSERH/Analista Administrativo/2018) Com relação a aspectos pertinentes ao
+    recebimento e à armazenagem de materiais, julgue o item a seguir. O tempo em que um produto
+    será mantido em armazenagem e as embalagens utilizadas são fundamentais para a definição do
+    leiaute de armazenagem.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+De acordo com Idalberto Chiavenato, os principais aspectos de layout a serem verificados são os seguintes:
+
+- Itens de estoque: produtos de maior utilização (tempos reduzidos de estocagem) ou importância devem
+ficar próximos da área de saída ou expedição.
+
+- Corredores: deverão facilitar o acesso aos materiais e mercadorias em estoque.
+
+- Portas de Acesso: devem ter altura e largura corretamente dimensionadas, permitindo a passagem de
+equipamentos de manuseio e movimentação de materiais.
+
+- Empilhamentos e prateleiras: altura máxima deve considerar o peso e a embalagem dos materiais, além
+de eventuais limitações dos equipamentos de elevação. O piso também deve ser suficientemente resistente
+para suportar o peso e o trânsito dos materiais estocados.
+
+56. (CEBRASPE/MDIC/Agente Administrativo/2014) Com referência à gestão de materiais, julgue o
+    item. A movimentação de materiais deve ser analisada juntamente com o leiaute; para isso, devem-
+    se analisar as dimensões do produto, suas características mecânicas e a quantidade a ser
+    transportada, bem como a edificação, a sequência das operações e o custo da movimentação.
+
+
+---
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+De acordo com Dias, a “movimentação de materiais deve ser analisada junto com o layout; para tal, para tal,
+uma série de dados é necessária: produto (dimensões, características mecânicas, quantidade a ser
+transportada), edificação (espaço entre as colunas, resistência do piso, dimensão de passagens, corredores,
+portas etc.), método (sequência das operações, método de armazenagem, equipamento de movimentação
+etc.), custo da movimentação, área necessária para o funcionamento do equipamento, fonte de energia
+necessária, deslocamento, direção do movimento, operador.
+
+De acordo com o próprio Dias, layout nada mais é do que “o arranjo de homens, máquinas e materiais”,
+podendo ser definido como “a integração do fluxo típico de materiais, da operação dos equipamentos de
+movimentação, combinado com as características que conferem maior produtividade ao elemento humano;
+isto para que a armazenagem de determinado produto se processe dentro do padrão máximo de economia
+e rendimento”.
+
+57. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) A respeito de compras, recebimento e
+    armazenagem, julgue o item. A conferência quantitativa verifica se a quantidade declarada pelo
+    fornecedor, na nota fiscal, corresponde ao que foi, de fato, entregue.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+De acordo com Viana o processo de recebimento de materiais costuma ser dividido em quatro etapas:
+
+            •   Entrada de Materiais;
+            •   Conferência quantitativa;
+            •   Conferência qualitativa;
+            •   Regularização.
+
+A conferência quantitativa nada mais é do que uma checagem entre as quantidades contratadas e as
+efetivamente recebidas, tomando-se como base o apontado na Nota Fiscal da operação.
+
+Geralmente utiliza-se a técnica da contagem cega, na qual um funcionário conferente que não sabe qual o
+real volume adquirido faz a contagem e informa o volume apurado para que seja feita a confrontação do
+recebido em relação ao que foi faturado.
+
+
+---
+
+A contagem do material recebido pode se dar de diversas formas como: manual (pequenas quantidades),
+cálculos (embalagens padronizadas em grandes quantidades), balanças pesadoras (grande quantidade de
+pequenas peças como parafusos e porcas), pesagem (materiais de maior peso ou volume pesados em
+balanças rodoviárias ou ferroviárias), medição (geralmente com o uso de trenas).
+
+58. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) A respeito de compras, recebimento e
+    armazenagem, julgue o item. A armazenagem em área externa diminui o espaço interno do
+    almoxarifado disponível para materiais que precisem de maior proteção.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+Ao contrário. A armazenagem em área externa aumenta o espaço interno para materiais que necessitam de
+proteção em área coberta. Além disso, o armazenamento em área externa de materiais que, por sua
+natureza, permitem a prática, diminui os custos de armazenagem de forma geral.
+
+59. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. O setor de gestão da armazenagem deve estabelecer procedimentos
+    distintos de armazenagem e conservação para cada material ou agrupamento de materiais.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+A armazenagem, em linhas gerais trata dos procedimentos e cuidados que deverão ser tomados em relação
+à disposição dos materiais nos almoxarifados, de acordo com suas classificações de perecibilidade,
+periculosidade, regras e frequência de utilização, entre outras variáveis, adequando a guarda de cada um
+dos materiais a suas características e especificidades, visando sua segurança e preservação.
+
+Dessa maneira, a observação das características, particularidades e necessidades de cada material ou
+agrupamento de materiais para a adoção das técnicas e arranjos mais adequados em relação as suas
+armazenagens é fundamental para a eficiência de todo o processo.
+
+60. (QUADRIX/CRMV MA/Assistente Administrativo/2018) Entre os critérios de guarda de materiais no
+    almoxarifado, aquele em que é necessário considerar a influência que um material pode ter sobre
+    outro, de modo que devam ser mantidos em ambientes distintos, é denominado de armazenagem:
+
+a) por compatibilidade.
+
+
+---
+
+b) por agrupamento.
+
+c) por acomodabilidade.
+
+d) por frequência.
+
+e) em área externa.
+
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. A armazenagem por compatibilidade assume que,
+pelas características de alguns produtos, deve-se considerar o seu armazenamento em locais distintos. Por
+exemplo, produtos químicos podem não ser perigosos se estiverem sozinhos, mas em contato com outros
+materiais químicos podem reagir e colocar em risco todo o armazém. Outros materiais podem também
+transferir características entre si, como um carregamento de manteiga pode absorver o odor de peixe caso
+sejam mantidos refrigerados em um mesmo ambiente.
+
+A alternativa B está incorreta. A armazenagem por agrupamento dispõe materiais semelhantes no mesmo
+local. Facilita a arrumação e busca, mas minimiza o aproveitamento dos espaços.
+
+A alternativa C está incorreta. A armazenagem por acomodabilidade ou por tamanho consiste em agrupar
+materiais de tamanhos semelhantes próximos uns dos outros. Otimiza o aproveitamento de espaços.
+
+A alternativa D está incorreta. Na armazenagem por frequência materiais com maior frequência (giro) são
+armazenados perto das saídas.
+
+A alternativa E está incorreta. A armazenagem em área externa consiste no armazenamento fora do
+depósito, aumentando a capacidade total de armazenagem.
+
+61. (QUADRIX/CRO PB/Agente/2018) No que tange à classificação de materiais, julgue o item que se
+    segue. O arranjo físico por posição fixa é adequado para a fabricação de grandes quantidades de
+    um só produto ou de produtos padronizados.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+O arranjo físico é a disposição física dos equipamentos, pessoas e materiais, da maneira mais adequada para
+o processo produtivo.
+
+No arranjo físico por posição fixa, as pessoas e os materiais são arranjados, mas o produto não se move.
+Dessa forma os recursos produtivos deslocam-se até o local em que o material deve ser transformado.
+
+
+---
+
+Esse tipo de arranjo é norma em montagens de aviões, por exemplo. e muito utilizado na indústria da
+construção.
+
+Caracteriza-se por ter a fabricação de um produto com grandes dimensões fixas em um local e por apresentar
+os recursos necessários para produção dirigidos ao produto.
+
+É recomendado para um produto único, em quantidade pequena ou unitária e, em geral, não repetitivo. Só
+é viável para a produção de grandes itens.
+
+62. (QUADRIX/CRB 10/Auxiliar Administrativo/2018) Acerca de classificação de materiais, julgue o
+    item. O arranjo físico linear é adequado para fabricação de pequenas quantidades, com produção
+    flexível, vários tipos e estilos.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+O arranjo físico linear ou por produto funciona como uma linha de produção, em que os materiais e pessoas
+são arranjados em sequência, para produzir o bem ou serviço.
+
+Neste arranjo os equipamentos estão dispostos em uma sequência específica, sem caminhos alternativos,
+obedecendo a um fluxo de trabalho linear.
+
+Os equipamentos são agrupados de forma lógica de modo que as operações sejam executadas no produto.
+
+É indicado para processos com pouca diversidade e em quantidades altas e constantes.
+
+Um bom exemplo são as linhas de produção de veículos nas grandes montadoras de automóveis.
+
+Por outro lado, o arranjo físico ideal para fabricação de pequenas quantidades, com produção flexível, vários
+tipos e estilos é o por processo ou funcional. Ele é indicado para fluxos de trabalho muito diferentes, volume
+baixo e personalização alta.
+
+63. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. As paleteiras são equipamentos para manuseio de materiais utilizados
+    quando é necessário fazer o armazenamento vertical dos materiais.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+
+---
+
+A paleteira é um equipamento simples, de pequena dimensão e geralmente operado manualmente. Por isso
+é indicado para o deslocamento de pallets em pequenas distâncias (manuais) ou distâncias um pouco
+maiores (paleteira motorizada).
+
+DE qualquer forma, não são os equipamentos necessários para o armazenamento vertical dos materiais,
+atividade para a qual o equipamento indicado são as empilhadeiras, máquinas maiores, mais fortes e
+hidráulicas ou pneumáticas, usadas para armazenar materiais verticalmente.
+
+Cuidado para não confundir!
+
+64. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à administração de
+    materiais, julgue o item. O exame de avarias e a conferência de volumes de materiais recebidos
+    devem ser feitos no almoxarifado.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+É exatamente na etapa de recebimento dos materiais, que ocorre no almoxarifado, que tanto o exame de
+avarias como a conferência de volumes de materiais recebidos são realizados.
+
+De acordo com Viana, são 4 as etapas do recebimento de materiais em um almoxarifado:
+
+            •   Entrada de Materiais
+            •   Conferência Quantitativa
+            •   Conferência Qualitativa
+            •   Regularização.
+
+O exame de avarias ocorre na etapa "conferência qualitativa", enquanto que a conferência de volumes é
+verificada na etapa "conferência quantitativa".
+
+65. (QUADRIX/CRMV MA/Assistente Administrativo/2018) A respeito das técnicas de armazenagem,
+    assinale a alternativa correta.
+
+a) Embora facilitem o manuseio, o transporte e a armazenagem, os pallets não são capazes de possibilitar o
+empilhamento das cargas.
+
+b) O uso de pallets é ideal para materiais de pequenas dimensões, como parafusos, arruelas e material de
+escritório.
+
+c) As prateleiras são adequadas para peças pequenas e leves, para estoques não muito grandes e para apoio
+de caixas e gavetas.
+
+
+---
+
+d) O contêiner flexível é destinado ao transporte intermodal de mercadorias (ferroviário, rodoviário,
+marítimo ou aéreo).
+
+e) O contêiner tradicional é utilizado para armazenamento de sólidos a granel e líquidos em sacos.
+
+Comentário:
+
+A alternativa A está incorreta. Ao contrário, uma das principais vantagens da utilização dos pallets é que eles
+permitem o empilhamento e a unitização da carga para a armazenagem, manuseio e transporte.
+
+A alternativa B está incorreta. Embora o pallet seja indicado para a unitização de cargas, não é recomendado
+para materiais de pequena dimensão como os apontados na alternativa. Para estes materiais existem outras
+alternativas, como as caçambas, indicadas especialmente para o manuseio de peças a granel.
+
+A alternativa C está correta e é o gabarito da questão. Além da adequada definição trazida pela alternativa,
+quanto mais leve a mercadoria, mais acima ela deve ficar, facilitando o processo de armazenagem e
+manipulação.
+
+A alternativa D está incorreta. A utilização de containers flexíveis não tem relação direta com o modal de
+transporte. A utilização de contentores flexíveis como embalagem proporcionam uma otimização do espaço
+dos armazéns, pois possuem grande capacidade de carga e suportam empilhamento. Além disso, como o
+processo de movimentação é mecanizado, reduzem o tempo de carga e descarga dos produtos, e a
+necessidade de mão de obra, possibilitando a redução de custos operacionais
+
+A alternativa E está incorreta. Para estes casos o indicado é o container (ou contentor) flexível. Geralmente
+são feitos de material resistente, flexível e dobrável, utilizados para transporte e armazenamento de grandes
+cargas (média de 1 tonelada) a granel, de qualquer tipo de líquidos, granulados ou produtos em pó, com
+alças para içamento, econômicos e de fácil manuseio.
+
+66. (QUADRIX/CRESS PR/Assistente Administrativo/2018) Acerca de rotinas de compras, julgue o item
+    seguinte. A etapa do recebimento de materiais engloba a conferência das especificações pedidas,
+    da qualidade e da quantidade dos materiais.
+
+a) Certo
+
+b) Errado
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+A etapa de recebimento costuma ser dividida em quatro etapas:
+
+   1. Entrada de Materiais: representa o início do processo de recebimento, tendo como propósito efetuar
+      a recepção dos veículos transportadores, proceder à triagem da documentação suporte do
+      recebimento, encaminhá-los para descarga e efetuar o cadastramento dos dados pertinentes no
+      sistema.
+
+
+---
+
+   2. Conferência Quantitativa: é a atividade que verifica se a quantidade declarada pelo fornecedor na
+      Nota Fiscal corresponde à efetivamente recebida, portanto, típica de contagem.
+
+   3. Conferência Qualitativa: visa garantir o recebimento adequado do material contratado pelo exame
+      dos seguintes itens: características dimensionais; características específicas; e restrições de
+      especificação.
+
+   4. Regularização: caracteriza-se pelo controle do processo de recebimento, pela confirmação da
+      conferência qualitativa e quantitativa, por meio do laudo da inspeção técnica e da confrontação
+      quantidades conferidas versus faturadas, respectivamente, para decisão de aceitar ou recusar, e,
+      finalmente, pelo encerramento do processo.
+
+Portanto, tanto a checagem das especificação como da qualidade do material recebido são realizadas ao
+longo da conferência qualitativa, assim como a quantidade é verificada na conferência quantitativa.
+
+Em resumo o processo de Recebimento é composto por estas quatro grandes etapas e esse é um tema
+cobrado com insistência pelas bancas em provas de concurso. Fique atento!
+
+67. (FGV/COMPESA/Analista de Gestão/2014) Nas últimas décadas, as indústrias aumentaram os
+    investimentos em logística, estruturas próprias ou terceirizadas para armazenagem e
+    movimentação de materiais. Em relação às razões para o uso desse espaço de armazenagem,
+    analise as afirmativas a seguir.
+  I. Redução dos custos de transporte e de produção.
+  II. Coordenação da oferta e da demanda.
+  III. Auxílio no processo de produção.
+  Assinale:
+
+a) se somente a afirmativa I estiver correta.
+
+b) se somente a afirmativa II estiver correta
+
+c) se somente a afirmativa III estiver correta
+
+d) se somente as afirmativas I e II estiverem corretas
+
+e) se todas as afirmativas estiverem corretas.
+
+Comentário:
+
+Vamos avaliar as afirmativas antes de buscar a alternativa correta:
+
+I. Redução dos custos de transporte e de produção. CORRETA. O investimento em logística, armazenagem
+e movimentação certamente impacta (reduz) os custos de transporte e produção, colaborando para o
+aumento da lucratividade da organização. Uma ação, por exemplo, é armazenar os produtos acabados
+em Centros e Distribuição, mais próximos dos consumidores finais e em posições estratégicas sob o ponto
+de vista logístico, reduzindo rotas e custos relacionados.
+
+
+---
+
+II. Coordenação da oferta e da demanda. CORRETA. Investimentos em logística, armazenagem e
+movimentação também colaboram para a coordenação entre a oferta e a demanda, que pode ser
+genericamente resumida na gestão de estoques e no abastecimento de toda a cadeia produtiva.
+
+III. Auxílio no processo de produção. CORRETA. O investimento em logística, armazenagem e
+movimentação também auxilia diretamente o processo de produção visto que otimiza a disponibilização
+de recursos e materiais na quantidade e qualidade corretas, no tempo ideal e no local indicado.
+
+Tal questão baseia-se em Ronald Ballou, que afirma que "existem quatro razões básicas para uma
+organização utilizar espaço físico de armazenagem. Elas são: reduzir custos de transporte e produção,
+coordenar suprimento e demanda, auxiliar o processo de produção e auxiliar o processo de marketing".
+
+Dessa forma, todas as afirmativas estão corretas.
+
+A alternativa E está correta e é o gabarito da questão.
+
+68. (FGV/FBN/Assistente Administrativo/2013) A função recebimento deve estar integrada com as
+    áreas de contabilidade, de compras e de transportes. As alternativas a seguir relacionam fases de
+    recebimento de material, à exceção de uma. Assinale‐a.
+
+a) Entrada de materiais.
+
+b) Conferência quantitativa.
+
+c) Projeção de estoque.
+
+d) Conferência qualitativa.
+
+Comentário:
+
+A alternativa A está incorreta. A entrada de materiais é a primeira das 4 fases do Recebimento: Entrada de
+Materiais, Conferência Quantitativa, Conferência Qualitativa e Regularização.
+
+A alternativa B está incorreta. A conferência quantitativa é a segunda das 4 fases do Recebimento: Entrada
+de Materiais, Conferência Quantitativa, Conferência Qualitativa e Regularização.
+
+A alternativa C está correta e é o gabarito da questão. Projeção de estoque é uma técnica quantitativa de
+cálculo de demanda. Não tem relação com a função recebimento.
+
+A alternativa D está incorreta. A conferência qualitativa é a terceire e penúltima das 4 fases do Recebimento:
+Entrada de Materiais, Conferência Quantitativa, Conferência Qualitativa e Regularização.
+
+69. (FGV/FBN/Assistente Técnico Administrativo/2013) Recebimento é o momento em que a equipe
+    do almoxarifado recebe do fornecedor os materiais adquiridos pelo órgão/entidade. Assinale a
+    alternativa que indica os dois tipos de recebimento.
+
+a) Provisório e por registro.
+
+
+---
+
+b) Por empréstimo e por registro.
+
+c) Provisório e definitivo.
+
+d) Por consignação e definitivo.
+
+Comentário:
+
+A alternativa A está incorreta. Os dois tipos de recebimento são o provisório e o definitivo. Veja os
+comentários na alternativa correta.
+
+A alternativa B está incorreta. Os dois tipos de recebimento são o provisório e o definitivo. Veja os
+comentários na alternativa correta.
+
+A alternativa C está correta e é o gabarito da questão. No mundo público, de acordo com a Lei 8.666/1993,
+o recebimento pode acontecer de duas formas:
+
+         Art. 73. Executado o contrato, o seu objeto será recebido:
+
+         ...
+
+         II - em se tratando de compras ou de locação de equipamentos:
+
+         a) provisoriamente, para efeito de posterior verificação da conformidade do material com
+         a especificação;
+
+         b) definitivamente, após a verificação da qualidade e quantidade do material e
+         consequente aceitação.
+
+Na mundo privado, da mesma forma, o recebimento pode se dar de forma provisória ou definitiva.
+
+No recebimento provisório, o material adquirido é entregue ao órgão/entidade no local definido, não
+implicando necessariamente em aceitação. Nesse momento serão realizados procedimentos de conferência
+para aceitar ou não a carga.
+
+O recebimento definitivo é o ato por meio do qual se declara, na documentação fiscal, que o material
+recebido está de acordo com as especificações do contrato, procedendo-se a regularização do processo e o
+posterior pagamento ao fornecedor.
+
+A alternativa D está incorreta. Os dois tipos de recebimento são o provisório e o definitivo. Veja os
+comentários na alternativa correta.
+
+70. (FGV/AL MT/Almoxarife/2013) A nota fiscal é considerada um documento hábil para o recebimento
+    de uma compra em um órgão público. Da nota fiscal devem obrigatoriamente constar os itens a
+    seguir, à exceção de um. Assinale‐o.
+
+a) Descrição do material
+
+
+---
+
+b) Manual de uso
+
+c) Quantidade
+
+d) Unidade de medida
+
+e) Preços unitário e total.
+
+Comentário:
+
+A alternativa A está incorreta. A descrição do material é um item obrigatoriamente constante da nota fiscal.
+
+A alternativa B está correta e é o gabarito da questão.
+A Nota Fiscal é um documento fundamental para o processo de recebimento.
+Algumas das atribuições do processo de recebimento baseiam-se na análise dos documentos fiscais e
+confrontação entre o declarado e o, de fato, entregue.
+São os documentos fiscais emitidos pelo fornecedor que desencadeiam o processo de recebimento junto ao
+comprador.
+Entendendo um pouco mais da nota fiscal, é um documento emitido pelo vendedor, no qual notifica ao fisco
+os respectivos impostos que deverão ser recolhidos em relação à transação: Imposto sobre Produtos
+Industrializados (IPI), Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e Imposto Sobre Serviços
+de Qualquer Natureza (ISS).
+Entre as alternativas listadas, todas estão presentes em uma nota fiscal, exceção feita ao Manual de Uso,
+que geralmente acompanha o produto, mas sem relação ou, muito menos, constando obrigatoriamente no
+conteúdo da nota fiscal.
+
+A alternativa C está incorreta. A quantidade do material é um item obrigatoriamente constante da nota
+fiscal.
+
+A alternativa D está incorreta. A unidade de medida do material é um item obrigatoriamente constante da
+nota fiscal.
+
+A alternativa E está incorreta. Os preços unitário e total do material são itens obrigatoriamente constantes
+da nota fiscal.
+
+71. (FGV/MPE AL/Técnico do Ministério Público/2018) Leia o trecho a seguir. Uma confecção de roupas
+    resolve realizar um rearranjo nos seus materiais para agilizar a produção. Ao pesquisar sobre
+    técnicas de armazenagem, opta por utilizar a técnica _____________ que separa os materiais pelos
+    seus pares, separando um local para os botões, outro para linhas de um tipo específico, e assim por
+    diante. Assinale a opção que apresenta o termo que completa corretamente a lacuna do trecho
+    acima.
+
+a) por especialidade
+
+b) por frequência
+
+
+---
+
+c) por agrupamento
+
+d) por tamanho
+
+e) por regularidade
+
+Comentário:
+
+A alternativa A está incorreta. Na armazenagem especial ou por especialidade alguns materiais, por
+características especiais que lhe são próprias precisam de uma estrutura especial para armazená-los
+(ambiente climatizado, inflamável, perecível etc.).
+
+A alternativa B está incorreta. Na armazenagem por frequência de utilização os materiais com uso mais
+frequente devem ter o acesso mais fácil e rápido.
+
+A alternativa C está correta e é o gabarito da questão. Na armazenagem por agrupamento ou semelhança,
+os materiais parecidos (semelhantes ou pares) devem ser armazenados próximos uns dos outros.
+
+A alternativa D está incorreta. Na armazenagem por tamanho, forma ou peso busca-se acondicionar os
+materiais levando em conta suas características físicas (líquido, gasoso, perecível etc.).
+
+A alternativa E está incorreta. Armazenagem por regularidade não é um tipo comumente discutido na
+literatura.
+
+72. (FGV/FBN/Assistente Administrativo/2013) A correta utilização do espaço disponível demanda
+    estudo detalhado dos materiais a armazenar, dos níveis de armazenamento, das estruturas para
+    armazenagem e dos meios mecânicos a utilizar na sua movimentação. Assinale a alternativa que
+    apresenta características da paletização.
+
+a) Aumenta a capacidade vertical de estocagem e reduz custos.
+
+b) Utiliza mão de obra intensiva.
+
+c) Permite a estocagem vertical de produtos de diversas geometrias.
+
+d) Apresenta flexibilidade, o que permite modificar a altura e a largura das divisões.
+
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. A paletização é uma das técnicas de unitização dos
+materiais. Consiste em um estrado de madeira de dimensões diversas, de acordo com as necessidades da
+empresa, sobre o qual as mercadorias são depositadas. Neste formato é mesmo muito mais fácil estocar,
+manusear e transportar a mercadoria, inclusive explorando ao máximo a capacidade de armazenamento
+vertical do armazém. Pode-se atribuir ao pallet, além do aumento da capacidade vertical de estocagem,
+economia de mão-de-obra, tempo e redução de custos.
+
+
+---
+
+A alternativa B está incorreta. A paletização não exige mão de obra intensiva. Ao contrário, em função da
+otimização do processo de armazenagem é conhecido por gerar economia e redução na mão de obra
+empregada no processo.
+
+A alternativa C está incorreta. Além das embalagens de formato cúbico, há outras que também não são
+indicadas para a paletização como as muito fracas, muito pesadas, demasiadamente cheias, volumes de
+formas não usuais (cônicos, cilíndricos, etc.), mal identificadas, entre outras. A paletização, em geral, exige
+embalagens de tamanhos e formatos semelhantes.
+
+A alternativa D está incorreta. Os pallets não são flexíveis em relação as suas medidas e tamanhos. Com o
+aumento das trocas entre países dos vários continentes, foi tornando-se necessário estabelecer normas de
+medidas para os recipientes de manuseio, formadores de cargas unitárias. Para utilizar pallets padronizados
+as empresas devem adaptar a eles suas embalagens. É antieconômico manter pallets de vários tipos e
+dimensões em um só sistema.
+
+73. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Existem quatro razões básicas para
+    uma organização utilizar espaço físico de armazenagem. São elas:
+
+a) reduzir custos de transporte e produção, coordenar suprimentos e demanda, auxiliar o processo de
+produção e auxiliar no processo de marketing;
+
+b) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, auxiliar o processo de
+produção e auxiliar o processo de marketing;
+
+c) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, auxiliar no processo de
+armazenamento e auxiliar no processo de marketing;
+
+d) reduzir procura por alocação, reduzir custos com pessoal, reduzir demanda e suprimentos e auxiliar no
+processo de vendas;
+
+e) reduzir custos de armazenagem e produção, coordenar suprimentos e demanda, reduzir custos com
+pessoal e auxiliar no processo de marketing.
+
+Comentário:
+
+A alternativa A está correta e é o gabarito da questão. Tal questão baseia-se em Ronald Ballou, que afirma
+que "existem quatro razões básicas para uma organização utilizar espaço físico de armazenagem. Elas são:
+reduzir custos de transporte e produção, coordenar suprimento e demanda, auxiliar o processo de produção
+e auxiliar o processo de marketing".
+
+A alternativa B está incorreta. Reduzir custos de transporte (e não armazenagem) e produção, coordenar
+suprimentos e demanda, auxiliar o processo de produção e auxiliar o processo de marketing.
+
+A alternativa C está incorreta. Reduzir custos de transporte (e não armazenagem) e produção, coordenar
+suprimentos e demanda, auxiliar no processo de produção (e não armazenamento) e auxiliar no processo de
+marketing.
+
+
+---
+
+A alternativa D está incorreta. Reduzir custos de transporte e produção (e não procura por alocação), e
+coordenar suprimento e demanda, auxiliar o processo de produção e auxiliar o processo de marketing (e
+não reduzir custos com pessoal, reduzir demanda e suprimentos e auxiliar no processo de vendas).
+
+A alternativa E está incorreta. Reduzir custos de transporte (e não armazenagem) e produção, coordenar
+suprimentos e demanda, auxiliar no processo de produção (reduzir custos com pessoal) e auxiliar no
+processo de marketing.
+
+74. (FGV/FBN/Assistente Administrativo/2013) Os materiais devem ser distribuídos aos usuários
+    mediante programação que seja do pleno conhecimento das partes envolvidas. No almoxarifado,
+    para a dispensação dos materiais aos usuários, é usado o seguinte documento:
+
+a) planilha de produção.
+
+b) ficha de inventário do material.
+
+c) controle estatístico de processos.
+
+d) requisição de material.
+
+Comentário:
+
+A alternativa A está incorreta. O documento correto utilizado para a dispensação de materiais aos usuários
+requisitantes é a requisição de material e não a planilha de produção.
+
+A alternativa B está incorreta. O documento correto utilizado para a dispensação de materiais aos usuários
+requisitantes é a requisição de material e não a ficha de inventário do material.
+
+A alternativa C está incorreta. O documento correto utilizado para a dispensação de materiais aos usuários
+requisitantes é a requisição de material e não um controle estatístico de processos.
+
+A alternativa D está correta e é o gabarito da questão. A requisição de material é o documento correto a ser
+utilizado na retirada de materiais do almoxarifado. Por intermédio das requisições de materiais, o
+almoxarifado dispensa (distribui) os materiais adquiridos pelo setor de compras aos setores requisitantes da
+organização.
+
+75. (FGV/AL MT/Almoxarife/2013) O almoxarifado é o local responsável pela _____ de materiais, de
+    forma _____ para que os produtos sejam _____ com agilidade sempre que solicitados. Assinale a
+    alternativa que preenche corretamente as lacunas do fragmento acima.
+
+a) transferência e guarda – adequada – consumidos.
+
+b) compra e venda – eficiente – conferidos.
+
+c) guarda e conservação – organizada – disponibilizados.
+
+d) compra e recepção – segura – selecionados.
+
+
+---
+
+e) conservação e venda – sistemática – oferecidos.
+
+Comentário:
+
+A alternativa A está incorreta. Almoxarifados não são responsáveis por transferência ou consumo de
+materiais.
+
+A alternativa B está incorreta. Almoxarifados não são responsáveis pela compra e venda de materiais.
+
+A alternativa C está correta e é o gabarito da questão. O almoxarifado é responsável pela guarda e
+conservação segura e adequada dos materiais adquiridos pela organização para uso posterior. Tem como
+um dos maiores objetivos fornecer os materiais tão logo sejam requisitados via requisições de materiais e,
+como sempre, no volume, tempo e local adequados. Para isso seu layout e operação devem ser os mais
+organizados possíveis, possibilitando que a disponibilização e distribuição do material seja a mais rápida e
+eficiente possível.
+
+A alternativa D está incorreta. Almoxarifados não são responsáveis pela compra de materiais.
+
+A alternativa E está incorreta. Almoxarifados não são responsáveis pela venda de materiais.
+
+76. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere as afirmações sobre o Sistema de
+    Gerenciamento de Armazém (WMS).
+
+     I. Não possui integração com o Sistema de Intercâmbio Eletrônico de Dados          (EDI).
+     II. Programa a mão de obra necessária e analisa seu desempenho e produtividade.
+     III. Prioriza tarefas operacionais e parametriza a consolidação do picking list.
+     IV. Controla o desempenho, as distâncias e as rotas percorridas pelos transportes.
+
+     Está correto o que se afirma APENAS em:
+
+a) II e III.
+
+b) I, II e IV.
+
+c) II, III e IV.
+
+d) I e IV.
+
+e) I e III.
+
+Comentário:
+
+Vamos avaliar cada uma das afirmativas antes de buscar a alternativa correta:
+
+I. Não possui integração com o Sistema de Intercâmbio Eletrônico de Dados (EDI). ERRADO. O sistema
+de Gerenciamento de Armazém (WMS) possui integração com outros sistemas entre eles o EDI, que
+permite a conexão entre os sistemas eletrônicos de informação de diferentes empresas. O intercâmbio
+dos dados é fundamental para a eficácia de sistemas de gerenciamento.
+
+
+---
+
+II. Programa a mão de obra necessária e analisa seu desempenho e produtividade. CORRETO. O WMS
+indica a real necessidade de funcionários nas atividades, reduzindo os custos com pessoal. O
+gerenciamento de picking, por exemplo, otimiza a quantidade de pessoal para a atividade de coleta dos
+pedidos.
+
+III. Prioriza tarefas operacionais e parametriza a consolidação do picking list. CORRETO. O WMS consolida
+e gerencia o picking, evitando o desperdício de atividades desnecessárias.
+
+IV. Controla o desempenho, as distâncias e as rotas percorridas pelos transportes. ERRADO. O WMS é
+capaz de definir as rotas de coleta, mas não controla o desempenho, as distâncias dos transportes
+efetuados.
+
+Para aprofundar, as principais características operacionais presentes em um sistema de WMS são estas:
+
+    •   processamento de pedidos;
+    •   processamento de pedidos atrasados;
+    •   controle de inventário;
+    •   controle de lote;
+    •   controle do FIFO (First-In-First-Out – primeiro que entra primeiro que sai);
+    •   atualização on-line do estoque;
+    •   controle de divergências;
+    •   capacidade de previsão;
+    •   endereçamento automático;
+    •   reconhecimento das limitações físicas dos endereços;
+    •   otimização da locação do estoque;
+    •   auxilio no projeto de ocupação da embalagem;
+    •   programação da mão-de-obra necessária;
+    •   analise do desempenho da mão-de-obra;
+    •   analise da produtividade da mão-de-obra;
+    •   parametrização da consolidação do picking list;
+    •   determinação da rota de separação;
+    •   determinação da melhor sequência de paradas na separação;
+    •   formação de kits;
+    •   preparação de documentos de expedição;
+    •   auxilio no projeto do layout de armazenagem;
+    •   determinação da prioridade de descarga;
+    •   gerenciamento do pátio.
+
+Portanto temos I (F), II (V), III (V) e IV (F).
+
+A alternativa A está correta e é o gabarito da questão.
+
+77. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) O almoxarifado de uma determinada
+    empresa tem armazenado todos os seus itens de estoque em paletes de plástico, sendo assim o
+    operador deste almoxarifado se depara com uma significativa limitação inerente a este tipo de
+    palete:
+
+
+---
+
+a) Não resiste à oleosidade ou grande peso durante sua movimentação.
+
+b) Exige equipamento especial na movimentação com empilhadeiras (push-pull).
+
+c) Não permite aquecimento ou passagens por banhos químicos ou pintura.
+
+d) Não resiste a certas condições de corrosividade.
+
+e) Caso apresente algum tipo de avaria, não pode ser consertado.
+
+Comentário:
+
+A alternativa A está incorreta. O palete plástico é muito resistente e de fácil limpeza.
+
+A alternativa B está incorreta. O palete plástico não exige equipamento especial, além das empilhadeiras, já
+listadas na alternativa. Podem ser movimentados também com paleteiras, tratores empilhadeiras, carrinhos
+hidráulicos, etc., assim como paletes de madeira.
+
+A alternativa C está incorreta. O palete plástico não apresenta estas restrições. Resiste a temperaturas de -
+35Cº a + 60Cº, além de permitir banhos químicos e pinturas.
+
+A alternativa D está incorreta. Ao contrário, o palete plástico resiste a corrosividade. Há paletes plásticos
+que são usados exatamente para conter o derramamento de produtos químicos e substâncias corrosivas.
+Eles são chamados de paletes de contenção.
+
+A alternativa E está correta e é o gabarito da questão. Essa é uma limitação do palete plástico, especialmente
+em se tratando de avarias de grande extensão.
+
+78. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) O almoxarifado de uma empresa de
+    transportes coletivos pretende armazenar 2 000 caixas de suprimentos em paletes que comportam
+    20 caixas cada um e podem ser empilhados em número de quatro. O número de posições de paletes
+    necessárias será de:
+
+a) 25.
+
+b) 50.
+
+c) 15.
+
+d) 20.
+
+e) 40.
+
+Comentário:
+
+Vamos aos cálculos antes de buscar a alternativa correta. É muito mais uma questão de matemática do que
+de Administração de Materiais:
+
+
+---
+
+Armazenagem: 2000 caixas de suprimentos
+Cada palete comporta 20 caixas de suprimentos
+Cada posição de pilha comporta 4 paletes.
+Número de posições de paletes: ?
+
+Cada palete comporta 20 caixas e cada posição comporta 4 paletes, portanto, cada posição comporta 80
+caixas.
+
+Se temos 2.000 caixas precisamos de 2.000/80 (uma posição) = 25 posições.
+
+A alternativa A está correta e é o gabarito da questão.
+
+79. (FCC/TCE GO/Técnico de Controle Externo/2009) Em relação ao armazenamento de materiais,
+    é INCORRETO afirmar:
+
+a) Sacos de cimento devem ser empilhados sobre estrados de madeira ou plástico, longe de janelas abertas
+para o exterior, para que se evite o contato dos sacos com a umidade.
+
+b) As caixas de papel tamanho A4 devem ser empilhadas diretamente sobre o piso do almoxarifado, para
+que se evite a deformação das folhas e o possível rompimento das caixas.
+
+c) Sacos de gesso e cal devem ser armazenados em locais diversos daqueles destinados aos sacos de cimento
+para que se evite a contaminação e o enfraquecimento do cimento.
+
+d) As tintas e solventes destinados aos processos reprográficos e gráficos devem ser armazenados em locais
+secos, cobertos e ventilados, para que sejam evitados o acúmulo de gases e a contaminação da rede de água.
+
+e) Centros de impressão cujo pavimento é lavado com frequência, devem ser providos de esgoto tratado,
+separado dos demais ramais de esgoto e águas pluviais.
+
+Comentário:
+
+A alternativa A está incorreta. Cimento é um produto perecível, cujo contato com a umidade pode alterar
+suas características físicas/químicas.
+
+A alternativa B está correta e é o gabarito da questão. O ideal seria empilhar as caixas sobre um pallet,
+justamente com o objetivo de preservar seu formato e embalagens (caixas) o que pode não ocorrer caso
+sejam depositadas diretamente no piso, sob o risco de serem atingidas por água, agente biológicos ou
+mesmo sofrerem danos relativos a deformidade ou temperatura do piso.
+
+A alternativa C está incorreta. Sacos de gesso e cal devem ser armazenados distantes dos sacos de cimento
+para que se evite a alteração das propriedades físico/químicas do cimento.
+
+A alternativa D está incorreta. Materiais perigosos devem ser armazenados de acordo com suas
+necessidades específicas, como o caso de tintas e solventes.
+
+A alternativa E está incorreta. O objetivo é preservar as águas pluviais de eventual contaminação resultante
+dos resíduos de tintas destinadas ao processo gráfico.
+
+
+---
+
+80. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere as afirmações sobre as
+    necessidades de uma organização possuir espaço físico de armazenagem.
+
+I. Os custos da armazenagem e do manuseio de materiais podem contribuir com a redução dos custos
+de transporte, pois permitem o uso de quantidades maiores e mais econômicas de lotes de
+carregamento.
+II. Os estoques armazenados não absorvem flutuações dos níveis de produção, devido às incertezas
+do processo de manufatura ou das variações de oferta e demanda, portanto não contribuem com a
+redução dos custos de produção. III. Não há necessidade de manter espaço físico para armazenagem
+quando a empresa possui uma produção fortemente sazonal e demanda por produtos constante.
+ IV. A armazenagem pode ser utilizada em sinergia com a área de Marketing, pois melhora o nível de
+serviço ao cliente, uma vez que o estoque agrega valor de disponibilidade.
+
+Está correto o que se afirma APENAS em:
+
+a) II e IV.
+
+b) II e III.
+
+c) I, II e III.
+
+d) I e IV.
+
+e) I, III e IV.
+
+Comentário:
+
+Vamos avaliar as afirmativas antes de buscar a alternativa correta:
+
+I. Os custos da armazenagem e do manuseio de materiais podem contribuir com a redução dos custos de
+transporte, pois permitem o uso de quantidades maiores e mais econômicas de lotes de carregamento.
+CORRETO. A estocagem de produtos tende a reduzir os custos de transporte e manuseio pois possivelmente
+diminui o número de transportes em função dos lotes maiores.
+
+II. Os estoques armazenados não absorvem flutuações dos níveis de produção, devido às incertezas do
+processo de manufatura ou das variações de oferta e demanda, portanto não contribuem com a redução
+dos custos de produção. ERRADO. O armazenamento de estoques tem como principal função exatamente
+absorver as flutuações dos níveis de produção e não ao contrário.
+
+III. Não há necessidade de manter espaço físico para armazenagem quando a empresa possui uma produção
+fortemente sazonal e demanda por produtos constante. ERRADO. Se a produção é sazonal a empresa pode
+programar-se para ela e manter, ao longo do restante do ano, estoques mínimos porém, em relação ao
+produto acabado, como a demanda é constante, o estoque deverá estar disponível todo o tempo, obrigando
+a instituição a ter espaço físico para a sua armazenagem.
+
+IV. A armazenagem pode ser utilizada em sinergia com a área de Marketing, pois melhora o nível de serviço
+ao cliente, uma vez que o estoque agrega valor de disponibilidade. CORRETA. A entrega rápida ao cliente é
+
+
+---
+
+fundamental para a obtenção de bons níveis de satisfação, um dos objetivos da área de marketing, o que
+demonstra a obtenção de sinergia no trabalho entre as áreas de armazenagem e marketing.
+
+Assim temos: I (V), II (F), III (F) e IV (V).
+
+A alternativa D está correta e é o gabarito da questão.
+
+81. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) No início de uma reunião sobre a mudança
+    de local do almoxarifado, o gerente forneceu as seguintes informações:
+    − As medidas de comprimento e largura do novo espaço são, respectivamente, 40m e 20m.
+    − A norma de segurança prevê que as pilhas de carga devem estar afastadas a 1 m das paredes.
+
+    Ao término da reunião, a equipe concluiu que este novo almoxarifado deve ter as seguintes
+    características:
+    − Espaço para circulação longitudinal de 2m de largura.
+    − Espaço para circulação transversal de 2m de largura.
+    − Instalações para escritório e sanitários de 13 m2.
+    Portanto, a utilização (U) deste novo almoxarifado é de:
+
+a) 77%.
+
+b) 85%.
+
+c) 53%.
+
+d) 65%.
+
+e) 61%.
+
+Comentário:
+
+Vamos aos cálculos antes de buscar a alternativa correta:
+
+Espaço inicial = 800 m² (área = 40m comprimento x 20m largura)
+
+Afastamento da parede: 1m
+
+Circulação longitudinal/transversal: 2m
+
+Escritório e sanitário: 13m²
+
+1. Considerando que as cargas devem ficar afastadas das paredes em 1m, imagine que o local perde um
+metro de cada lado (em relação a sua utilização), tanto em comprimento como em largura. Dessa forma, o
+espaço que tinha 40x20 passa a ter 38x18 = 684m2.
+
+2. O espaço para movimentação longitudinal e transversal deve ser de 2m. Como já temos 1m de cada lado,
+basta acrescentar mais um (em apenas um lado) e nas duas direções. Portanto o espaço vai agora para 37x17
+= 629m2
+
+
+---
+
+3. Por fim é necessário diminuir o espaço do banheiro (13m2), restando portanto 616m2 para utilização:
+(629-13).
+
+4. Considerando que o espaço total era de 800m2, sua ocupação agora é de 616/800 = 77%.
+
+A alternativa A está correta e é o gabarito da questão.
+
+82. (FCC/TCE GO/Técnico de Controle Externo/2009) Sobre as diferentes formas de transporte e
+    armazenagem de materiais, considere:
+
+     I. Transporte e armazenagem de pallets contendo caixas de papel.
+     II. Alocação de amarrados de resmas de cartolina em prateleiras.
+     III. Transporte de tonéis de solventes sobre piso irregular.
+     IV. Transporte de rolos de fio de 1,5 mm2 para instalações elétricas em geral.
+     V. Transporte de latas de tinta de parede.
+
+     Dependem de maquinário específico para o transporte APENAS as atividades constantes em:
+
+a) II, III e IV.
+
+b) II, III, IV e V.
+
+c) I, II e IV.
+
+d) I, II, III e V.
+
+e) I, II e III.
+
+Comentário:
+
+Vamos avaliar as afirmativas antes de buscar a alternativa correta:
+
+I. Transporte e armazenagem de pallets contendo caixas de papel. CORRETO. O transporte e, sobretudo, a
+armazenagem de pallets exige maquinário específico como paleteiras ou empilhadeiras.
+II. Alocação de amarrados de resmas de cartolina em prateleiras. CORRETO. A alocação de amarrados de
+resmas de cartolina em prateleiras também necessita de maquinário específico.
+
+III. Transporte de tonéis de solventes sobre piso irregular. CORRETO. O transporte de tonéis de solventes
+sobre piso irregular também necessita de maquinário específico impedindo o derramamento e
+contaminação.
+
+IV. Transporte de rolos de fio de 1,5 mm2 para instalações elétricas em geral. ERRADO. O transporte de rolos
+de fios não exige maquinário específico.
+
+V. Transporte de latas de tinta de parede. ERRADO. O transporte de latas de tinta também não exige
+maquinário específico.
+
+Temos portanto: I (V), II (V), III (V), IV (F) e V (F).
+
+
+---
+
+A alternativa E está correta e é o gabarito da questão.
+
+83. (FCC/TRT 3a Região/Analista Judiciário/2015) Atenção: Para responder à questão, considere a
+    imagem abaixo. De acordo com a NBR 7500, a placa em destaque é denominada:
+
+a) Número do Risco do Produto.
+
+b) Rótulo de Segurança.
+
+c) Painel de Perigo.
+
+d) Número da ONU.
+
+e) Painel de Segurança.
+
+Comentário:
+
+A alternativa A está incorreta. A figura destaca o painel de segurança (e não o número do risco do produto)
+aplicado à lateral do veículo conforme disposto na NBR 7500.
+
+A alternativa B está incorreta. A figura destaca o painel de segurança (e não o rótulo de segurança) aplicado
+à lateral do veículo conforme disposto na NBR 7500.
+
+A alternativa C está incorreta. A figura destaca o painel de segurança (e não o painel de perigo) aplicado à
+lateral do veículo conforme disposto na NBR 7500.
+
+A alternativa D está incorreta. A figura destaca o painel de segurança (e não o número da ONU) aplicado à
+lateral do veículo conforme disposto na NBR 7500.
+
+A alternativa E está correta e é o gabarito da questão. Vamos consultar a NBR7500 na íntegra, para
+responder à questão:
+
+"6.2.1 Em caso de um único produto perigoso
+
+A unidade de transporte deve portar o descrito abaixo, conforme figura L.1 do anexo L:
+
+a) na frente: o painel de segurança, do lado esquerdo (lado do motorista), onde figuram, na parte superior,
+o nº de identificação de risco do produto (nº de risco) e, na parte inferior, o nº de identificação do produto
+(nº ONU), conforme seção 4 da Portaria nº 204 do Ministério dos Transportes;
+
+
+---
+
+b) na traseira: o painel de segurança, do lado esquerdo (lado do motorista), idêntico ao colocado na frente,
+e o rótulo indicativo da classe ou subclasse de risco principal e subsidiário (quando houver) do produto;
+
+c) nas laterais: o painel de segurança, idêntico aos colocados na frente e na traseira, e o rótulo indicativo da
+classe ou subclasse de risco principal e subsidiário (quando houver) do produto, colocados do centro para a
+traseira, em local visível."
+
+84. (FCC/TRT 4a Região/Auxiliar Judiciário/2006) A questão está relacionada à imagem de um
+    almoxarifado e às afirmações a seguir.
+
+     www.aph.com.br/2002/imagens
+
+I. Os bens devem ser guardados, de preferência, em suas embalagens originais e separados segundo sua
+utilização.
+
+II. Os materiais de consumo e permanentes devem constar de uma mesma lista patrimonial, por ordem
+de chegada ao Tribunal.
+
+III. O local deve ser bem vedado para evitar excesso de ventilação e luminosidade.
+
+IV. Materiais combustíveis devem ser armazenados com cuidados especiais.
+
+
+Está correto APENAS o que se afirma em:
+
+a) I e II.
+
+b) I e III.
+
+c) I e IV.
+
+
+---
+
+d) II e III.
+
+e) III e IV.
+
+Comentário:
+
+Vamos avaliar as afirmativas para depois buscar a alternativa correta:
+
+I. Os bens devem ser guardados, de preferência, em suas embalagens originais e separados segundo sua
+utilização. CORRETO. A manutenção das embalagens originais e a classificação e separação conforme a
+utilização podem auxiliar na localização e manuseio dos materiais.
+
+II. Os materiais de consumo e permanentes devem constar de uma mesma lista patrimonial, por ordem de
+chegada ao Tribunal. ERRADO. O procedimento correto é listá-los em relações diferentes, de acordo com
+suas características específicas.
+
+III. O local deve ser bem vedado para evitar excesso de ventilação e luminosidade. ERRADO. Dependendo
+dos materiais e/ou bens armazenados o local necessitará de ventilação e luminosidade.
+
+IV. Materiais combustíveis devem ser armazenados com cuidados especiais. CORRETO. Materiais perigosos
+em função de suas composições físicas/químicas devem ser armazenados em condições especiais,
+garantindo sua segurança, dos demais materiais e instalações.
+
+Dessa forma temos: I (V), II (F), III (F), IV (V).
+
+A alternativa C está correta e é o gabarito da questão.
+
+
+---
+
+                    GABARITO
+
+1. ERRADA     36. C         71. C
+2. ERRADA     37. B         72. A
+3. ERRADA     38. E         73. A
+4. CORRETA    39. A         74. D
+5. C          40. C         75. C
+6. B          41. B         76. A
+7. B          42. C         77. E
+8. CORRETA    43. B         78. A
+9. ERRADA     44. E         79. B
+10. CORRETA   45. D         80. D
+11. D         46. E         81. A
+12. C         47. B         82. E
+13. D         48. B         83. E
+14. ERRADA    49. A         84. C
+15. CORRETA   50. D
+16. D         51. C
+17. B         52. CORRETA
+18. A         53. CORRETA
+19. E         54. ERRADA
+20. A         55. CORRETA
+21. D         56. CORRETA
+22. B         57. CORRETA
+23. E         58. ERRADA
+24. E         59. CORRETA
+25. D         60. A
+26. C         61. ERRADA
+27. C         62. ERRADA
+28. E         63. ERRADA
+29. C         64. CORRETA
+30. D         65. C
+31. E         66. CORRETA
+32. E         67. E
+33. A         68. C
+34. B         69. C
+35. E         70. B
+
+
+---
+
+                                              RESUMO
+ Administração dos Almoxarifados: Não há como um sistema de gestão de materiais funcionar sem um
+local específico para a guarda de materiais. Esse local é o almoxarifado. É lá onde o material é devidamente
+armazenado e protegido. Vamos conhecer um pouco do seu histórico pois isso as vezes é tema específico de
+alguns editais.
+
+        Histórico e Conceitos: destinado à fiel guarda e conservação de materiais, em recinto coberto ou
+       não, adequado a sua natureza, tendo a função de destinar espaços onde permanecerá cada item
+       aguardando a necessidade do seu uso, ficando sua localização, equipamentos e disposição interna
+       condicionados à política geral de estoques da empresa.
+
+          •   As seguintes atividades fazem parte da gestão dos almoxarifados: recebimento dos materiais,
+              estocagem/armazenagem dos materiais, movimentação física dos materiais e expedição dos
+              materiais.
+
+        Organização dos Almoxarifados: veja qual é o organograma padrão funcional de um Almoxarifado:
+
+ Recebimento de Materiais, Conferência e Inspeção: A atividade de Recebimento localiza-se entre as
+tarefas de compra e pagamento ao fornecedor (atenção com isso pois é uma perguntinha típica de prova).
+Tem sob sua responsabilidade todo o processo de conferência de materiais, devendo assegurar que o que
+foi entregue é exatamente aquilo que foi contratado tanto em relação ao volume quanto em relação a
+qualidade e/ou outras características acordadas.
+
+        Principais Atribuições: as principais atribuições da atividade de recebimento são:
+
+          •   Coordenar as atividades de recebimento e devolução de materiais.
+          •   Analisar a documentação da operação verificando se a aquisição está autorizada.
+          •   Comparar os volumes entregues aos declarados em Nota Fiscal e/ou Manifesto de Transporte.
+
+
+---
+
+          •   Executar a conferência visual em relação à embalagem e eventuais avarias na carga recebida,
+              registrando ressalvas nos documentos fiscais quando for o caso.
+          •   Conduzir as conferências quantitativas e qualitativas do material entregue.
+          •   Tomar a decisão em relação ao aceite, recusa ou devolução do material.
+          •   Providenciar a regularização do pagamento, recusa ou devolução junto ao fornecedor.
+          •   Liberar o material recém chegado para encaminhamento e estoque no almoxarifado.
+
+        Nota Fiscal: documento fundamental para o processo de recebimento. Algumas das atribuições
+       do processo de recebimento baseiam-se na análise dos documentos fiscais e confrontação entre o
+       declarado e o, de fato, entregue. São os documentos fiscais emitidos pelo fornecedor que
+       desencadeiam o processo de recebimento junto ao comprador.
+
+        Entrada de Materiais: início do processo de recebimento se dá com a entrada dos materiais e tem
+       como objetivo recepcionar os veículos transportadores, checar a respectiva documentação,
+       direcioná-los a descarga e cadastrar os dados necessários em diferentes sistemas de controle que
+       integram as áreas de Administração de Materiais, Contas a Pagar, Compras e Gestão de Estoques.
+
+        Conferência Quantitativa: nada mais é do que uma checagem entre as quantidades contratadas e
+       as efetivamente recebidas.
+
+        Conferência Qualitativa: visa checar e garantir a adequação do material adquirido ao fim a que se
+       destina. Esta etapa é também conhecida por Inspeção Técnica e visa confrontar as condições
+       contratadas com as de fato entregues.
+
+        Regularização: caracteriza-se pelo controle do processo de recebimento, após todas as checagens
+       de volume e qualidade, e pela aceitação ou recusa/devolução do material entregue, caminhando para
+       a finalização do processo.
+
+ Embalagens
+
+        Embalagens: De maneira geral as embalagens transportadoras de mercadorias e materiais tem
+       como objetivo proteger o produto da melhor maneira possível, de acordo com a modalidade de
+       transporte utilizada na distribuição e ao menor custo possível.
+
+ Princípios de Estocagem: principais modalidades e as suas mais importantes características:
+
+          •   Carga unitária: carga constituída de embalagens de transporte, arranjadas ou acondicionadas
+              de modo que possibilite o seu manuseio, transporte e armazenagem por meios mecânicos,
+              como uma unidade.
+          •   Paletização: o mais conhecido dispositivo que permite a formação da carga unitária é o pallet,
+              que consiste em um estrado geralmente de madeira de dimensões diversas, de acordo com
+              as necessidades da empresa e sobre o qual as mercadorias são depositadas
+          •   Estruturas porta pallets:
+
+
+---
+
+        ➢ Drive In: proporciona a melhor solução para o aproveitamento do espaço. Trata-se de
+        um porta pallet contínuo, não separado por corredores intermediários, ou seja, os
+        materiais são acomodados e retirados pelo mesmo lado. Dessa forma, aqueles que foram
+        colocados por último são os mais fáceis de serem retirados e, por isso, é uma estrutura
+        que favorece o método UEPS ou LIFO.
+        ➢ Drive Through: o sistema tem como grande diferença a acessibilidade pelos 2 lados,
+        admitindo a utilização tanto do sistema UEPS (LIFO) como do PEPS (FIFO), visto que a
+        empilhadeira pode colocar e retirar os pallets pelos 2 lados da estrutura.
+
+•   Técnicas de Armazenamento: as mais utilizadas são:
+
+        ➢ Carga unitária: é a carga constituída de embalagens de transporte que acondicionam
+        quantidades variadas de material como se fossem uma só unidade.
+        ➢ Caixas ou gavetas: técnica utilizada para materiais de pequenas dimensões, de
+        escritório, em processamento, semi acabados ou acabados.
+        ➢ Prateleiras: servem para a armazenagem de materiais diversos ou mesmo para o apoio
+        de caixas e gavetas. É o meio de estocagem mais simples e econômico.
+        ➢ Racks: devem acomodar peças longas e estreitas como tubos, barras, tiras, etc.
+        ➢ Empilhamento: aproveita o espaço vertical. Caixas ou pallets (estrados que
+        possibilitam o empilhamento das cargas) são empilhados uns sobre os outros.
+
+•   Conservação de Materiais: um dos maiores problemas dos almoxarifados é o da conservação,
+    que é justamente um de seus maiores objetivos.
+•   Critérios de Armazenagem: os principais são os seguintes:
+
+•   Localização de Materiais:
+
+
+---
+
+                  ➢ Estocagem Fixa: um número de áreas específicas é previamente determinado e
+                  reservado para um tipo de material, admitindo-se apenas este material no local
+                  designado. É um sistema que não permite o melhor aproveitamento da área destinada à
+                  armazenagem.
+                  ➢ Estocagem Livre: não há local fixo de armazenagem, a não ser para materiais de
+                  estocagem especial. Todos os materiais podem ocupar qualquer lugar disponível,
+                  maximizando a utilização do espaço.
+
+       Picking: processo de recolhimento do material no almoxarifado sempre que o mesmo material é
+      requerido por um cliente, seja ele interno ou externo. Principais tipos:
+
+          •   Discreto: único operador, único produto, baixa produtividade.
+          •   Por Zona: mais de um operador e reduz o deslocamento.
+          •   Por Lote: soma dos pedidos (mais de um produto), aumenta a produtividade.
+          •   Por Onda: combinação de modelos, número diferenciado de agendamentos por turno.
+
+ Layout: a integração do fluxo típico de materiais, da operação dos equipamentos de movimentação,
+combinado com as características que conferem maior produtividade ao elemento humano; isto para que a
+armazenagem de determinado produto se processe dentro do padrão máximo de economia e rendimento.
+
+       Definição de um Layout: No momento da implantação de um depósito surgem as primeiras
+      necessidades de se definir um layout. Isto se manifesta desde a fase inicial do projeto até a etapa de
+      sua operacionalização, influindo na seleção do local, projeto de construção, localização de
+      equipamentos e estações de trabalho, seleção de equipamentos de transporte e movimentação,
+      estocagem, áreas de expedição e muitos outros detalhes e decisões que vão da topografia do terreno
+      à localização das janelas.
+
+       Objetivos do Layout na Armazenagem: os principais objetivos de um layout de um armazém são:
+
+          •   Assegurar a utilização máxima do espaço.
+          •   Propiciar a mais eficiente movimentação de materiais.
+          •   Propiciar a estocagem mais econômica, em relação às despesas de equipamento, espaço,
+              danos de material e mão de obra do armazém.
+          •   Fazer do armazém um modelo de boa organização.
+
+       Arranjos Físicos de um Layout: dividem-se em quatro tipos principais:
+
+          •   Posicional ou de posição fixa - as pessoas e materiais são arranjados, mas o produto não se
+              move. Esse arranjo é norma em montagens de aviões, por exemplo.
+          •   Celular (ou tecnologia de grupo) - agrupa em um mesmo local os recursos necessários ao
+              processamento de um determinado produto.
+          •   Por produto ou linear - funciona como uma linha de produção, em que os materiais e pessoas
+              são arranjados em sequência, para produzir o bem ou o serviço.
+
+
+---
+
+         •   Por processo ou funcional - os processos semelhantes são dispostos em proximidade, por
+             especialidade.
+
+       Taxa de Ocupação Volumétrica: a maximização dos espaços disponíveis para armazenagem é uma
+      busca contínua na atividade. Um dos indicadores de tal medida é a taxa de ocupação volumétrica que
+      leva em consideração o espaço utilizado em relação ao espaço disponível. Atenção pois esse tema
+      costuma vir na prova no formato de um problema matemático: Taxa de Ocupação Volumétrica =
+      Espaço Utilizado / Espaço Disponível.
+
+ Movimentação: Equipamentos, Manuseio e Segurança: para que o processo produtivo possa acontecer,
+ao menos um dos três elementos que compõem o layout da organização precisa se movimentar: homem,
+máquina ou material. Caso nenhum dos três se movimento o processo produtivo não ocorre.
+
+       Objetivos e Finalidades: as finalidades básicas são a redução de custos, aumento da capacidade
+      produtiva, melhores condições de trabalho e melhor distribuição.
+
+       As Leis da Movimentação: Obediência ao fluxo das operações, mínima distância, mínima
+      manipulação, segurança e satisfação, padronização, flexibilidade, máxima utilização do equipamento,
+      máxima utilização da gravidade, máxima utilização do espaço disponível, método alternativo e menor
+      custo total.
+
+       Equipamentos de Movimentação e Sistemas de Manuseio: A classificação adotada para os
+      diferentes tipos de equipamentos de movimentação e transporte os divide em alguns grupos de
+      acordo com características geométricas e funcionais. Os principais são, incluindo alguns meios de
+      apoio aos processos de carga, descarga e manuseio:
+
+         •   Transportadores: correias, correntes, fitas metálicas, roletes, rodízios, roscas e vibratórios.
+         •   Guindastes, talhas e elevadores: guindastes fixos e móveis, pontes rolantes, talhas, guinchos,
+             monovias, elevadores, etc.
+         •   Veículos Industriais: carrinhos de todos os tipos, paleteiras, empilhadeiras, tratores, trailers
+             e veículos especiais para transporte a granel.
+         •   Equipamentos de posicionamento, pesagem e controle: plataformas fixas e móveis, rampas,
+             equipamentos de transferência, etc.
+         •   Containers e estruturas de suporte: vasos, tanques, suportes e plataformas, estrados, pallets,
+             suportes para bobinas e equipamentos auxiliares de embalagem.
+
+
+---

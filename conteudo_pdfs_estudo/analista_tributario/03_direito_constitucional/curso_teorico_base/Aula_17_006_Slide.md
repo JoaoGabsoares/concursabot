@@ -1,0 +1,531 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 17_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: Limitações ao Poder de Tributar
+artigos_citados:
+- Art. 150.
+- Art. 151.
+- Art. 152.
+- art. 150
+sumulas_citadas:
+- Súmula Vinculante 50
+- Súmula Vinculante 52
+- Súmula vinculante 57
+---
+
+# Limitações ao Poder de Tributar
+
+Limitações ao Poder de Tributar
+
+         
+
+
+---
+
+Princípios Constitucionais Tributários
+
+            
+
+
+---
+
+1. Princípio da Legalidade Tributária
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+I - exigir ou aumentar tributo sem lei que o estabeleça;
+
+                               
+
+
+---
+
+---
+
+2. Princípio da Isonomia
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+II - instituir tratamento desigual entre contribuintes que se encontrem em situação
+equivalente, proibida qualquer distinção em razão de ocupação profissional ou
+função por eles exercida, independentemente da denominação jurídica dos
+rendimentos, títulos ou direitos;
+
+                              
+
+
+---
+
+3. Princípio da Irretroatividade
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os
+houver instituído ou aumentado;
+
+                              
+
+
+---
+
+4. Princípio da Anterioridade
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+III - cobrar tributos:
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu
+ou aumentou;
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os
+instituiu ou aumentou, observado o disposto na alínea b;
+
+                                
+
+
+---
+
+---
+
+---
+
+Súmula Vinculante 50
+Norma legal que altera o prazo de recolhimento de obrigação tributária não se
+sujeita ao princípio da anterioridade.
+
+                           
+
+
+---
+
+Tributos de cobrança imediata   Tributos submetidos apenas à Tributos submetidos apenas à
+                                anterioridade nonagesimal    anterioridade anual
+
+Imposto de Importação (II);    Imposto      sobre      Produtos Imposto de Renda;
+Imposto de Exportação (IE);    Industrializados (IPI);          Base de cálculo do IPTU
+Imposto     sobre   Operações Contribuições Sociais             Base de cálculo do IPVA
+Financeiras (IOF);             Cide/combustíveis
+Imposto Extraordinário de ICMS/combustíveis
+Guerra (IEG);
+Empréstimos Compulsório nos
+casos de calamidade pública ou
+guerra externa.
+(não submetidos a nenhuma (podem ser cobrados no (podem ser cobrados com
+anterioridade - podem ser mesmo exercício financeiro, menos de 90 dias da publicação
+cobrados no dia seguinte)      mas 90 dias após a publicação da lei, desde que no exercício
+                               da lei).                         financeiro seguinte)
+
+                                  
+
+
+---
+
+5. Princípio do não-confisco
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+IV - utilizar tributo com efeito de confisco;
+
+                                
+
+
+---
+
+6. Princípio da liberdade de tráfego
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+V - estabelecer limitações ao tráfego de pessoas ou bens, por meio de tributos
+interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização
+de vias conservadas pelo Poder Público;
+
+                              
+
+
+---
+
+7. Princípio da Uniformidade geográfica
+
+
+Art. 151. É vedado à União:
+I - instituir tributo que não seja uniforme em todo o território nacional ou que
+implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a
+Município, em detrimento de outro, admitida a concessão de incentivos fiscais
+destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as
+diferentes regiões do País;
+
+                              
+
+
+---
+
+8. Vedação às isenções heterônomas
+
+
+Art. 151. É vedado à União:
+III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou
+dos Municípios.
+
+                               
+
+
+---
+
+9. Princípio da não-discriminação baseada em procedência ou destino
+
+
+Art. 152. É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer
+diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua
+procedência ou destino.
+
+                             
+
+
+---
+
+Imunidades Tributárias
+
+    
+
+
+---
+
+1. Imunidade Tributária Recíproca
+
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+VI - instituir impostos sobre:
+a) patrimônio, renda ou serviços, uns dos outros;
+
+                                 
+
+
+---
+
+2. Imunidade Tributária Religiosa
+
+
+b) templos de qualquer culto;
+
+Súmula Vinculante 52:
+Ainda quando alugado a terceiros, permanece imune ao IPTU o imóvel pertencente
+a qualquer das entidades referidas pelo art. 150, VI, "c", da Constituição Federal,
+desde que o valor dos aluguéis seja aplicado nas atividades para as quais tais
+entidades foram constituídas.
+                                
+
+
+---
+
+3. Imunidade Tributária dos partidos políticos, sindicatos de trabalhadores e
+entidades educacionais e assistenciais sem fins lucrativos
+
+
+c) patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações,
+das entidades sindicais dos trabalhadores, das instituições de educação e de
+assistência social, sem fins lucrativos, atendidos os requisitos da lei;
+
+                              
+
+
+---
+
+4. Imunidade Tributária Cultural
+
+
+d) livros, jornais, periódicos e o papel destinado a sua impressão.
+
+Súmula vinculante 57
+A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se à importação
+e comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes
+exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos
+(e-readers), ainda que possuam funcionalidades acessórias.
+
+                               
+
+
+---
+
+5. Imunidade Tributária dos fonogramas e videofonogramas musicais
+
+e) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras
+musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas
+por artistas brasileiros bem como os suportes materiais ou arquivos digitais que os
+contenham, salvo na etapa de replicação industrial de mídias ópticas de leitura a
+laser.
+
+                              
+
+
+---
+
+---
+
+1. (2022/FGV/AGE-MG) A sociedade empresária Delta é devedora contumaz do
+imposto sobre a circulação de mercadorias e sobre serviços de transporte
+interestadual e intermunicipal e de comunicação (ICMS).
+
+Em razão do seu proceder, a Secretaria de Fazenda do Estado Alfa, com base na
+legislação estadual vigente, negou-se a fornecer autorização para que emitisse
+notas fiscais.
+
+À luz da sistemática constitucional, é correto afirmar que o proceder da referida
+Secretaria é
+
+A) lícito, considerando a necessidade de a atividade econômica ser desenvolvida
+com estrita observância da juridicidade.
+
+                             
+
+
+---
+
+B) lícito, considerando a necessidade de se ponderar os interesses de Delta com o
+interesse coletivo no recolhimento dos impostos.
+
+C) ilícito, não sendo possível a utilização de meio indireto de cobrança de imposto,
+que afronte o livre exercício da atividade econômica.
+
+D)ilícito, já que a negativa peremptória inviabiliza o exercício da atividade
+econômica, mas poderia ser exigida garantia real ou fidejussória do contribuinte.
+
+E) ilícito, pois a negativa deveria ser condicional, estabelecendo alternativas para o
+contribuinte, a exemplo de programa de parcelamento, de modo a não obstar a
+atividade econômica.
+
+                               
+
+
+---
+
+2. (2022/FCC/SEFAZ-AP) Agente de fiscalização estadual lavrou autuação por ter
+determinada empresa deixado de recolher imposto sobre a comercialização de
+leitores de livros eletrônicos que possuem funcionalidades acessórias. Nesse caso,
+considerando o disposto na Constituição Federal e a jurisprudência do Supremo
+Tribunal Federal, a autuação é
+
+A) insubsistente, uma vez que há imunidade tributária na hipótese.
+
+B) subsistente, uma vez que a imunidade tributária alcança apenas a
+comercialização de livros eletrônicos, e não a de seus leitores, ainda que não
+possuam funcionalidades acessórias.
+
+                             
+
+
+---
+
+C) subsistente, uma vez que não há imunidade tributária, seja na comercialização
+de livros eletrônicos, seja na de seus leitores, já que o suporte impresso é essencial
+para o gozo da imunidade.
+
+D) subsistente, uma vez que, por possuírem funcionalidades acessórias, os leitores
+de livros eletrônicos em questão equiparam-se a aparelhos multifuncionais, como
+tablets e smartphones, não alcançados pela imunidade tributária.
+
+E) insubsistente, desde que a legislação estadual estenda aos leitores, com ou sem
+funcionalidades acessórias, a imunidade tributária aplicável à comercialização de
+livros eletrônicos.
+
+                               
+
+
+---
+
+3. (2022/FCC/SEFAZ-AP) Considere as seguintes afirmações à luz da jurisprudência
+do Supremo Tribunal Federal sobre a disciplina constitucional das limitações ao
+poder de tributar:
+
+I. A alteração, por lei, do prazo de recolhimento de obrigação tributária não se
+sujeita ao princípio da anterioridade.
+
+II. Viola o princípio da não cumulatividade lei complementar que prorroga a
+compensação de créditos de ICMS relativos a bens adquiridos para uso e consumo
+no próprio estabelecimento do contribuinte.
+
+III. O princípio da anterioridade nonagesimal aplica-se somente para leis que
+instituem ou majoram tributos, não incidindo relativamente às normas que
+prorrogam a data de início da compensação de crédito tributário.
+                             
+
+
+---
+
+Está correto o que se afirma APENAS em
+
+A) II.
+
+B) III.
+
+C) I e II.
+
+D) I e III.
+
+E) II e III.
+
+                            
+
+
+---
+
+4. (2022/Quadrix/CRP 9ª Região (GO e TO) É vedado aos estados, ao Distrito Federal e aos
+municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em
+razão de sua procedência ou de seu destino.
+
+5. (2022/Quadrix/CRP 9ª Região (GO e TO) É vedado à União instituir isenções de tributos da
+competência dos estados, do Distrito Federal ou dos municípios.
+
+                                
+
+
+---
+
+6. (2022/FGV/SEFAZ-ES) Com o objetivo de aumentar a arrecadação e possibilitar a
+implementação de diversos programas sociais de interesse da coletividade, o
+Estado Beta editou a Lei ordinária nº XX/2021, dispondo que a autorização para a
+expedição de nota fiscal, pelas sociedades empresárias que figuravam como
+contribuintes do ICMS, estava condicionada à apresentação de certidão negativa de
+débito com o Estado.
+
+Irresignado, o Sindicato das Sociedades Empresárias da Área de Circulação de
+Mercadorias, solicitou que o seu advogado analisasse a compatibilidade da Lei
+ordinária nº XX/2021 com a Constituição da República, sendo corretamente
+respondido que esse diploma normativo é
+
+A) constitucional, pois compete ao Estado legislar concorrentemente com a União
+sobre Direito Tributário, sendo a medida correta por zelar pelo patrimônio público.
+                              
+
+
+---
+
+B) constitucional, pois compete ao Estado legislar sobre a matéria e a medida
+decorre da exigência de boa-fé nas relações jurídicas, inclusive as tributárias.
+
+C) inconstitucional, pois, apesar de o Estado poder legislar sobre Direito Tributário,
+veicula espécie de “sanção política”, com ofensa ao princípio da livre atividade
+econômica.
+
+D) inconstitucional, pois compete privativamente à União legislar sobre Direito
+Tributário, ainda que a determinação seja correta por aumentar a arrecadação.
+
+E) constitucional, desde que o comando normativo estadual seja mera reprodução
+de norma nacional editada pela União em matéria tributária.
+
+                               
+
+
+---
+
+7. (2021/FGV/Prefeitura de Paulínia – SP) Casa de Amparo ao Ser Humano, entidade
+regularmente reconhecida como beneficente de assistência social, requereu, junto
+ao Município X, o reconhecimento de imunidade de IPTU e da taxa municipal de
+coleta domiciliar de lixo referentes a seu imóvel-sede, onde realiza suas atividades
+essenciais. Neste Município, ambos os tributos são cobrados conjuntamente por
+meio do carnê de IPTU.
+
+À luz da Constituição Federal, tal requerimento administrativo deverá ser
+
+deferido quanto a ambos os pedidos, pois tal imunidade abrange os dois tributos.
+
+B) deferido apenas quanto ao pedido de imunidade de IPTU, pois tal imunidade não
+abrange a taxa municipal de coleta domiciliar de lixo proveniente de imóveis.
+
+                              
+
+
+---
+
+C) deferido apenas quanto ao pedido de imunidade da taxa municipal de coleta
+domiciliar de lixo proveniente de imóveis, pois tal imunidade não abrange o IPTU.
+
+D) indeferido quanto a ambos os pedidos, pois esta entidade não faz jus a tal
+imunidade.
+
+E) indeferido quanto a ambos os pedidos, porque só é possível requerer tal
+reconhecimento judicialmente.
+
+                             
+
+
+---
+
+8. (2022/FCC/Prefeitura de Teresina – PI) No que se refere ao sistema tributário
+nacional, a Constituição Federal de 1988 estabelece:
+
+A) As limitações ao poder de tributar estabelecidas pela Constituição Federal são
+garantias asseguradas aos contribuintes e encerram um rol taxativo.
+
+B) A União poderá instituir, mediante lei complementar, impostos não previstos
+pela Constituição como de sua competência tributária, desde que sejam não
+cumulativos e não tenham fato gerador ou base de cálculo próprios dos
+discriminados na Constituição.
+
+                             
+
+
+---
+
+C) Templos de qualquer culto, bem como livros, jornais, periódicos e papel
+destinado a sua impressão gozam de isenção de impostos, mas não de taxas ou de
+contribuições.
+
+D) É vedado à União utilizar tributo com efeito de confisco, salvo em caso de
+iminência ou guerra declarada.
+
+E) Compete à União estabelecer impostos sobre grandes fortunas, nos termos da
+lei.
+
+                            
+
+
+---
+
+9. (2022/FCC/PGE-AM) Determinada contribuinte ajuizou ação visando a anular
+autuação lavrada pela autoridade fiscal estadual em virtude do não recolhimento
+de imposto sobre a comercialização, no mercado interno, de livros eletrônicos
+(e-books) e de aparelhos leitores de livros eletrônicos (e-readers). A ação foi julgada
+procedente, em primeira instância, e a sentença confirmada, em segunda instância,
+por órgão fracionário do Tribunal de Justiça (TJ), sob o fundamento de
+inconstitucionalidade da exigência, por se tratar de hipótese alcançada por
+imunidade tributária. Nesse caso, diante do que dispõe a Constituição Federal e da
+jurisprudência do Supremo Tribunal Federal (STF), as decisões foram
+
+                               
+
+
+---
+
+A) acertadas, no mérito, pois a imunidade tributária alcança a comercialização de
+e-books e a de e-readers, ainda que possuam funcionalidades acessórias, ademais
+de a decisão do órgão fracionário do TJ não violar a cláusula de reserva de plenário,
+estando em conformidade com súmula vinculante existente sobre a matéria.
+
+B) equivocadas, no mérito, pois a imunidade tributária não alcança a
+comercialização de e-books, nem a de e-readers, cabendo reclamação ao STF, em
+virtude de terem sido tomadas em contrariedade à súmula vinculante existente
+sobre a matéria.
+
+C) parcialmente acertadas, no mérito, pois a imunidade tributária alcança a
+comercialização de e-books e a de e-readers, desde que não possuam
+funcionalidades acessórias; ademais, a decisão do órgão fracionário do TJ viola a
+cláusula de reserva de plenário, razão pela qual cabe reclamação ao STF.
+                              
+
+
+---

@@ -1,0 +1,505 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 08_003_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: 08
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+artigos_citados:
+- art. 191
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Legislação Tributária - IRPJ -
+
+Parte I. Trata-se de um material pensado para lhe ajudar em todo esse processo, visando,
+
+inclusive, uma economia de tempo de confecção de materiais, tempo que é o bem mais
+
+precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                                 
+
+
+---
+
+            RESUMO DE LEGISLAÇÃO TRIBUTÁRIA
+
+Contribuintes do IRPJ
+
+                                                                                            2
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                           
+
+
+---
+
+   ● Para efeito de incidência de IRPJ sobre seus lucros, consideram-se pessoas
+
+      jurídicas:
+
+
+         ○ As pessoas jurídicas de direito privado domiciliadas no País, sejam quais
+
+            forem seus fins, nacionalidade ou participantes no capital;
+
+
+         ○ As filiais, sucursais, agências ou representações no País das pessoas
+
+            jurídicas com sede no exterior;
+
+
+         ○ Os comitentes domiciliados no exterior, quanto aos resultados das
+
+            operações realizadas por seus mandatários ou comissários no País.
+
+Observação: A EIRELI é uma pessoa jurídica que poderá ser constituída por uma única
+
+pessoa titular da totalidade do capital social, devidamente integralizado.
+
+   ● São equiparadas a pessoa jurídica:
+
+
+         ○ Empresas Individuais;
+
+
+         ○ Sociedades em Conta de Participação.
+
+                                                                                                 3
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                                
+
+
+---
+
+● São empresas individuais:
+
+
+     ○ As firmas individuais;
+
+
+     ○ As pessoas físicas que, em nome individual, explorem, habitual e
+
+        profissionalmente, qualquer atividade econômica de natureza civil ou
+
+        comercial, com o fim especulativo de lucro, mediante venda a terceiros de
+
+        bens ou serviços;
+
+
+     ○ As pessoas físicas que promoverem a incorporação de prédios em
+
+        condomínio ou loteamento de terrenos.
+
+● A sociedade em conta de participação é uma sociedade sem personalidade
+
+  jurídica.
+
+                                                                                                4
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                               
+
+
+---
+
+Responsáveis pelo IRPJ
+
+  ● O sujeito passivo da obrigação principal diz-se:
+
+
+       ○ Contribuinte, quando tenha relação pessoal e direta com a situação que
+
+          constitua o respectivo fato gerador;
+
+
+       ○ Responsável, quando, sem revestir a condição de contribuinte, sua
+
+          obrigação decorra de disposição expressa de lei.
+
+  ● Responsabilidade Tributária pelo IRPJ: Respondem pelo imposto devido pelas
+
+    pessoas jurídicas:
+
+
+       ○ A pessoa jurídica resultante da transformação de outra;
+
+
+       ○ A pessoa jurídica constituída pela fusão de outras, ou em decorrência de
+
+          cisão de sociedade;
+
+
+       ○ A pessoa jurídica que incorporar outra ou parcela do patrimônio de
+
+          sociedade cindida;
+
+                                                                                               5
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                              
+
+
+---
+
+     ○ A pessoa física sócia da pessoa jurídica extinta mediante liquidação, ou seu
+
+       espólio, que continuar a exploração da atividade social, sob a mesma ou
+
+       outra razão social, ou sob firma individual.
+
+
+     ○ Os sócios, com poderes de administração, da pessoa jurídica que deixar de
+
+       funcionar sem proceder à liquidação, ou sem apresentar a declaração de
+
+       rendimentos no encerramento da liquidação.
+
+● Responsabilidade por Aquisição de Fundo de Comércio ou Estabelecimento
+
+                                                                                            6
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                           
+
+
+---
+
+● Responsabilidade de Terceiros: Na hipótese de impossibilidade de exigência do
+
+  cumprimento         da     obrigação         principal       pelo     contribuinte,        respondem
+
+  solidariamente com este nos atos em que intervierem ou pelas omissões de que
+
+  forem responsáveis:
+
+
+     ○ Os administradores de bens de terceiros, pelo imposto devido por estes;
+
+
+     ○ O síndico e o comissário, pelo imposto devido pela massa falida ou pelo
+
+        concordatário;
+
+
+     ○ Os tabeliães, escrivães e demais serventuários de ofício, pelo imposto
+
+        devido sobre os atos praticados por eles, ou perante eles, em razão do seu
+
+        ofício;
+
+
+     ○ Os sócios, no caso de liquidação de sociedade de pessoas.
+
+                                                                                                   7
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                            
+
+
+---
+
+Domicílio Tributário - IRPJ
+
+  ● Regra Geral:
+
+
+       ○ Quanto ao IRPJ:
+
+
+            ➢ Quando existir um único estabelecimento, o lugar da situação deste;
+
+
+            ➢ Quando se verificar pluralidade de estabelecimentos, à opção da
+
+                pessoa      jurídica,     o    lugar     onde      se    achar     o    estabelecimento
+
+                centralizador das suas operações ou a sede da empresa dentro do
+
+                País;
+
+
+       ○ Em relação às obrigações em que incorra como fonte pagadora, o lugar do
+
+          estabelecimento que pagar, creditar, entregar, remeter ou empregar
+
+          rendimento sujeito ao imposto no regime de tributação na fonte.
+
+  ● Pessoas jurídicas procuradoras ou representantes de pessoas residentes ou
+
+    domiciliados no exterior: o lugar onde se achar seu estabelecimento ou a sede
+
+    de sua representação no País.
+
+                                                                                                    8
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                             
+
+
+---
+
+● Se não couber a aplicação dessas regras: lugar onde se situarem os bens ou
+
+  onde ocorram os atos ou os fatos que deram origem à obrigação tributária
+
+● Se o domicílio impede ou dificulta a arrecadação ou fiscalização do imposto,
+
+  será recusado pela autoridade, sendo definido como domicílio:
+
+
+     ○ Utilizar regra geral para definir o domicílio tributário;
+
+
+     ○ Se não for possível, o domicílio será o lugar onde se situarem os bens ou
+
+        onde ocorram os atos ou os fatos que deram origem à obrigação tributária.
+
+                                                                                             9
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                            
+
+
+---
+
+                                                                                  10
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                 
+
+
+---
+
+Imunidades relativas ao IRPJ
+
+  ● IRPJ - Imunidade, isenção ou não incidência:
+
+
+       ○ Não exime da retenção e recolhimento de impostos bem como da
+
+             prestação de informações.
+
+
+       ○ Não aproveita aos que delas percebam rendimentos sob qualquer título e
+
+             forma.
+
+  ● Imunidades previstas no RIR:
+
+
+       ○ Templos de Qualquer Culto: incondicionada.
+
+
+       ○ Partidos Políticos e Entidades Sindicais dos Trabalhadores:
+
+Condições:
+
+
+               ➢ Não distribuam qualquer parcela de seu patrimônio ou de suas
+
+                   rendas, a título de lucro ou de participação no resultado;
+
+                                                                                                 11
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                                
+
+
+---
+
+               ➢ Apliquem seus recursos integralmente no País, na manutenção de
+
+                   seus objetivos institucionais;
+
+
+               ➢ Mantenham escrituração de suas receitas e despesas em livros
+
+                   revestidos de formalidades capazes de assegurar sua exatidão.
+
+
+       ○ Instituições de Educação e de Assistência Social:
+
+Condições:
+
+
+               ➢ Não distribuam qualquer parcela de seu patrimônio ou de suas
+
+                   rendas, a título de lucro ou de participação no resultado;
+
+
+               ➢ Apliquem seus recursos integralmente no País, na manutenção de
+
+                   seus objetivos institucionais;
+
+
+               ➢ Mantenham escrituração de suas receitas e despesas em livros
+
+                   revestidos de formalidades capazes de assegurar sua exatidão.
+
+
+       ○ Autarquias e Fundações instituídas e mantidas pelo Poder Público: no que
+
+             se refere aos resultados vinculados às suas finalidades essenciais ou às
+
+             delas decorrentes.
+
+                                                                                                 12
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                                
+
+
+---
+
+● Em decorrência do não cumprimento dos requisitos legais, ocorrerá a
+
+  suspensão da imunidade tributária.
+
+
+    ○ A suspensão da imunidade terá como termo inicial a data da prática da
+
+       infração;
+
+
+    ○ A impugnação e o recurso apresentados pela entidade não terão efeito
+
+       suspensivo em relação ao ato declaratório contestado;
+
+
+    ○ Na hipótese de ser lavrado auto de infração, as impugnações contra o ato
+
+       declaratório e contra a exigência de crédito tributário serão reunidas em
+
+       processo único, para serem decididas simultaneamente.
+
+                                                                                            13
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                           
+
+
+---
+
+Isenções relativas ao IRPJ
+
+  ● Associações e Fundações: isenção restrita ao IRPJ.
+
+
+       ○ Entidades específicas que possuem isenção até mesmo de rendimentos e
+
+          ganhos de capital auferidos em aplicações financeiras
+
+
+             ➢ Pela Academia Brasileira de Letras;
+
+
+             ➢ Pela Associação Brasileira de Imprensa; e
+
+
+             ➢ Pelo Instituto Histórico e Geográfico Brasileiro.
+
+  ● Programa Universidade para Todos (Prouni);
+
+  ● Entidades de Previdência Complementar;
+
+
+       ○ Entidades fechadas de previdência complementar: isenção de IRPJ e CSLL
+
+
+       ○ Entidades abertas sem fins lucrativos: isenção de IRPJ
+
+                                                                                               14
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                              
+
+
+---
+
+● Empresas Estrangeiras de Transportes: companhias estrangeiras de navegação
+
+  marítima e aérea se, no país de sua nacionalidade, as companhias brasileiras de
+
+  igual objetivo gozarem da mesma prerrogativa.
+
+● Associações de Poupança e Empréstimo;
+
+● Sociedades de Investimento Com Participação de Capital Estrangeiro;
+
+● Isenções Específicas:
+
+
+     ○ Entidade Binacional ITAIPU (RIR, art. 191, I);
+
+
+     ○ Fundo Garantidor de Crédito – FGC (RIR, art. 191, II);
+
+                                                                                             15
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 08.
+
+                            
+
+
+---

@@ -1,0 +1,223 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 20_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: 'DA ORDEM SOCIAL:'
+artigos_citados:
+- Art. 206.
+- Art. 207.
+- art. 206
+- art. 207
+- artigo 2º
+sumulas_citadas:
+- Súmula Vinculante 12
+---
+
+# DA ORDEM SOCIAL:
+
+DA ORDEM SOCIAL:
+    EDUCAÇÃO
+
+
+                                          Prof. Adriane Fauth
+
+     
+
+
+---
+
+EDUCAÇÃO: PRINCÍPIOS
+Art. 206. O ensino será ministrado com base nos seguintes princípios:
+
+ I - igualdade de condições para o acesso e permanência na escola;
+
+ II - liberdade de aprender, ensinar, pesquisar e divulgar o
+  pensamento, a arte e o saber;
+
+ III - pluralismo de ideias e de concepções pedagógicas, e
+  coexistência de instituições públicas e privadas de ensino;
+
+                          
+
+
+---
+
+EDUCAÇÃO: (206, II e III)
+ Programa Escola Livre. Lei estadual. (...) Inconstitucionalidades
+  materiais da Lei 7.800/2016 do Estado de Alagoas: Violação do direito
+  à educação com o alcance pleno e emancipatório que lhe confere a
+  Constituição. Supressão de domínios inteiros do saber do universo
+  escolar. Incompatibilidade entre o suposto dever de neutralidade,
+  previsto na lei, e os princípios constitucionais da liberdade de ensinar,
+  de aprender e do pluralismo de ideias (...). Vedações genéricas de
+  conduta que, a pretexto de evitarem a doutrinação de alunos, podem
+  gerar a perseguição de professores que não compartilhem das visões
+  dominantes.[ADI 5.537, rel. min. Roberto Barroso, j. 24-8-2020, P, DJE
+  de 17-9-2020.]
+
+                           
+
+
+---
+
+EDUCAÇÃO: (206, II e III)
+In casu, o parágrafo único do artigo 2º da Lei 6.496/2015 do Município
+de Cascavel - PR, que veda a adoção de ‘políticas de ensino que tendam
+a aplicar a ideologia de gênero, o termo ‘gênero’ ou ‘orientação sexual’’,
+viola a Constituição Federal, vez que (i) o estabelecimento de regras
+sobre o conteúdo didático e a forma de ensino usurpa competência
+privativa da União para legislar sobre diretrizes e bases da educação; e
+que (ii) a proibição genérica de determinado conteúdo, supostamente
+doutrinador ou proselitista, desvaloriza o professor, gera perseguições no
+ambiente escolar, compromete o pluralismo de ideias, esfria o debate
+democrático e prestigia perspectivas hegemônicas por vezes sectárias.
+[ADPF 460, rel. min. Luiz Fux, j. 29-6-2020, P, DJE de 13-8-2020.]
+
+                           
+
+
+---
+
+EDUCAÇÃO: PRINCÍPIOS
+ IV - gratuidade do ensino público em estabelecimentos oficiais;
+
+                          
+
+
+---
+
+EDUCAÇÃO: (206, IV)
+ A cobrança de taxa de matrícula nas universidades públicas viola o
+   disposto no art. 206, IV, da CF.
+[Súmula Vinculante 12.]
+
+
+ A garantia constitucional da gratuidade de ensino não obsta a
+  cobrança, por universidades públicas, de mensalidade em curso de
+  especialização.
+[RE 597.854, rel. min. Edson Fachin, j. 26-4-2017, P, DJE de 21-9-2017,
+Tema 535.]
+
+                          
+
+
+---
+
+EDUCAÇÃO: PRINCÍPIOS
+ V - valorização dos profissionais da educação escolar, garantidos, na
+  forma da lei, planos de carreira, com ingresso exclusivamente por
+  concurso público de provas e títulos, aos das redes públicas;
+
+ VI - gestão democrática do ensino público, na forma da lei;
+
+ VII - garantia de padrão de qualidade.
+
+ VIII - piso salarial profissional nacional para os profissionais da
+  educação escolar pública, nos termos de lei federal.
+
+                           
+
+
+---
+
+EDUCAÇÃO: (206, VIII)
+"Pacto federativo e repartição de competência. Piso nacional para os
+professores da educação básica. (...) É constitucional a norma geral
+federal que fixou o piso salarial dos professores do ensino médio com
+base no vencimento, e não na remuneração global. Competência da
+União para dispor sobre normas gerais relativas ao piso de vencimento
+dos professores da educação básica, de modo a utilizá-lo como
+mecanismo de fomento ao sistema educacional e de valorização
+profissional, e não apenas como instrumento de proteção mínima ao
+trabalhador. É constitucional a norma geral federal que reserva o
+percentual mínimo de 1/3 da carga horária dos docentes da educação
+básica para dedicação às atividades extraclasse. [ADI 4.167, rel. min.
+Joaquim Barbosa, j. 27-4-2011, P, DJE de 24-8-2011.]
+
+                         
+
+
+---
+
+EDUCAÇÃO: (206, VIII)
+"É constitucional a norma federal que prevê a forma de atualização do
+piso nacional do magistério da educação básica. [ADI 4.848, rel. min.
+Roberto Barroso, j. 1º-3-2021, P, DJE de 5-5-2021.]"
+
+                         
+
+
+---
+
+EDUCAÇÃO: PRINCÍPIOS
+ IX - garantia do direito à educação e à aprendizagem ao longo da vida.
+  (Incluído pela Emenda Constitucional nº 108, de 2020)
+
+ Parágrafo único. A lei disporá sobre as categorias de trabalhadores
+  considerados profissionais da educação básica e sobre a fixação de
+  prazo para a elaboração ou adequação de seus planos de carreira, no
+  âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+
+                           
+
+
+---
+
+EDUCAÇÃO: AUTONOMIA
+UNIVERSITÁRIA
+Art. 207. As universidades gozam de autonomia didático-científica,
+administrativa e de gestão financeira e patrimonial, e obedecerão ao
+princípio de indissociabilidade entre ensino, pesquisa e extensão.
+
+   1º É facultado às universidades admitir professores, técnicos e
+cientistas estrangeiros, na forma da lei.
+
+   2º O disposto neste artigo aplica-se às instituições de pesquisa
+científica e tecnológica.
+
+                          
+
+
+---
+
+EDUCAÇÃO: AUTONOMIA
+UNIVERSITÁRIA
+ As instituições federais de ensino têm, portanto, autoridade para
+  exercer sua autonomia universitária, podendo, legitimamente, exigir o
+  comprovante de vacinação. [ADPF 756, rel. min. Ricardo
+  Lewandowski, j. 21-2-2022, P, DJE de 24-3-2022.]
+
+                          
+
+
+---
+
+EDUCAÇÃO: AUTONOMIA
+UNIVERSITÁRIA
+ A autonomia científica, didática e administrativa das universidades
+  federais, prevista no art. 207 da Constituição Federal (...) A escolha de
+  seu dirigente máximo pelo Chefe do Poder Executivo, a partir de lista
+  tríplice, com atribuições eminentemente executivas, não prejudica ou
+  perturba o exercício da autonomia universitária, não significando ato
+  de fiscalização ou interferência na escolha ou execução de políticas
+  próprias da instituição, escolhidas por decisão colegiada e
+  participativa de seus integrantes. (...) Sendo a escolha determinada a
+  partir de lista tríplice, não se justifica a imposição de escolha no nome
+  mais votado, sob pena de total inutilidade da votação e de restrição
+  absoluta à discricionariedade mitigada concedida ao Chefe do Poder
+  Executivo. [ADPF 759 MC REF, rel. p/ o ac. min. Alexandre de Moraes, j. 8-2-2021, P,
+   DJE de 15-4-2021.]
+
+
+                                
+
+
+---

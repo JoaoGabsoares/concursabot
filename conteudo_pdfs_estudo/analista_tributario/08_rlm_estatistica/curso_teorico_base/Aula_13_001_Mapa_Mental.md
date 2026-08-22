@@ -1,0 +1,106 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 13_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '13'
+titulo_aula: • Grupo, lista, classe, sistema, coleção de determinado objeto.
+---
+
+# • Grupo, lista, classe, sistema, coleção de determinado objeto.
+
+• Grupo, lista, classe, sistema, coleção de determinado objeto.
+                CONJUNTO
+
+                                              • Letra maiúscula e entre par de chaves.
+                NOTAÇÃO
+INTRODUÇÃO À                                 A = {a, b, c, d, e}
+
+ TEORIA DOS
+ CONJUNTOS
+
+                                              • Quando um elemento faz parte de determinado conjunto,
+               RELAÇÃO DE
+                                                  dizemos que o elemento PERTENCE ao conjunto. Essa
+               PERTINÊNCIA
+                                                  relação de pertinência entre um elemento e um conjunto é
+                                                  representada por ∈/∉.
+
+                                                      a∈A,        f∉A
+
+                                                                                                      ESTRATÉGIA CONCURSOS
+                             
+
+
+---
+
+                                                                         • Relacionamento entre dois conjuntos;
+                                                                         • Representada pelo símbolo ⊂ e variações.
+                                                                         • Indica quando um conjunto é ou não subconjunto de outro.
+                                                                         • Subconjunto:
+                                                                                       o Parte de um conjunto maior.
+                                                                                       o B é um subconjunto de A se todos os elementos de B
+                                                                                         também são elementos de A.
+                                   RELAÇÃO DE
+                                    INCLUSÃO
+
+INTRODUÇÃO À TEORIA DOS
+      CONJUNTOS                                                                        o Como {a,e} é um subconjunto de A escrevemos {a,e}⊂A.
+                                                                                       o Subconjuntos possíveis de um determinado conjunto {a, b}.
+
+              CONJUNTO DAS PARTES
+
+ • Conjunto formado por todos os subconjuntos
+   de um conjunto.                                                                     o O conjunto vazio é subconjunto de qualquer outro conjunto.
+ • Para exempliﬁcar considere os conjuntos A = {a,                                     o Qualquer conjunto é também um subconjunto de si mesmo.
+   b} e B = {a, b, c}. Os Conjuntos das Partes desses                                  o Número de subconjuntos de um conjunto A:
+   dois conjuntos são:
+
+
+                                                                                           n(A) é o número de elementos do conjunto A.
+
+
+                                                                                                                                  ESTRATÉGIA CONCURSOS
+                                                  
+
+
+---
+
+                          UNIÃO                                                                                             INTERSECÇÃO
+                                                                                               • É a operação que seleciona os elementos comuns entre dois ou
+    • A União de conjuntos é representada pelo símbolo                                           mais conjuntos. É representada por ∩.
+      ∪ e, basicamente, junta dois conjuntos em um só.
+
+                                                                                               • Quando dois conjuntos possuem uma intersecção, é comum
+                                                                                                 representá-los por meio de Diagramas de Euler-Venn da
+    • Não é preciso (nem correto) escrever duas vezes                                            seguinte forma:
+      um determinado elemento repetido.
+
+                                                                                               • A região vermelha é a região que representa a intersecção.
+                                                                                               • Quando dois conjuntos não possuem intersecção, dizemos que
+                                                         OPERAÇÕES                               são disjuntos e sua representação em diagramas é dada por:
+
+
+                  DIFERENÇA                                 COM
+• A diferença entre dois conjuntos A e B é               CONJUNTOS
+  representada por A-B e é formada por todos os
+  elementos de A que não são elementos de B.
+                                                                                                         PRINCÍPIO DA INCLUSÃO-EXCLUSÃO
+                                                                                                   • Para dois conjuntos:
+                                                          COMPLEMENTAR                                                            • Para três conjuntos:
+
+• Representação por meio de diagramas de
+  Euler-Venn:
+
+                                                                                                                                         ESTRATÉGIA CONCURSOS
+                                                          
+
+
+---

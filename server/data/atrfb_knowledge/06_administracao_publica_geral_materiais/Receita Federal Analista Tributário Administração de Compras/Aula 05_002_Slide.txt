@@ -1,0 +1,298 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+INVENTÁRIOS
+
+
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Uma das maiores ferramentas de gestão dos estoques é o inventário. O controle efetuado pela realização dos
+         inventários permite o acompanhamento correto dos volumes de materiais estocados e está diretamente ligado
+         aos sistemas de reposição que acabamos de estudar.
+
+       ❑ De acordo com a Instrução Normativa 205/1988, vamos à definição de inventários:
+
+                 Inventário físico é o instrumento de controle para a verificação dos saldos de estoques nos almoxarifados e
+                 depósitos, e dos equipamentos e materiais permanentes, em uso no órgão ou entidade, que irá permitir,
+                 dentre outros:
+                 a) o ajuste dos dados escriturais de saldos e movimentações dos estoques com o saldo físico real nas
+                 instalações de armazenagem;
+                 b) a análise do desempenho das atividades do encarregado do almoxarifado através dos resultados obtidos
+                 no levantamento físico;
+                 c) o levantamento da situação dos materiais estocados no tocante ao saneamento dos estoques;
+                 d) o levantamento da situação dos equipamentos e materiais permanentes em uso e das suas necessidades
+                 de manutenção e reparos; e
+                 e) a constatação de que o bem móvel não é necessário naquela unidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Inventários
+       Contagem física realizada por duas equipes
+
+       ❑ Os inventários ocorrem sempre que é necessário contar os itens de um almoxarifado.
+         Com a realização do inventário é possível ter certeza que os sistemas em uso na
+         empresa, inclusive o contábil, está refletindo a realidade do estoque físico.
+       ❑ Ao longo do inventário os itens são checados e contados fisicamente para que se
+         possa quantificar o estoque como um todo. Feito isso, os resultados são comparados
+         aos registros contábeis, para verificar sua acuracidade e proceder com eventuais
+         ajustes necessários.
+       ❑ Em relação a sua operacionalização, o inventário geralmente é feito por duas
+         equipes: a primeira conta e a segunda reconta. Caso encontrem as mesmas
+         quantidades a atividade está terminada, caso contrário uma terceira equipe deverá
+         efetuar nova e definitiva contagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Fases do Inventário
+       Levantamento, Arrolamento e Avaliação
+       ❑ O inventário tem as seguintes fases:
+       ✓ Levantamento: coleta de dados sobre o patrimônio, tanto no meio físico como no contábil.
+
+       ✓ Arrolamento: registros das características e volumes apurados no levantamento. Pode ser
+         resumido (sintético) ou individualizado (analítico).
+
+       De acordo com a Instrução Normativa 205/1988, o inventário analítico deve contar com os seguintes
+       elementos:
+                 No inventário analítico, para a perfeita caracterização do material, figurarão:
+                 a) descrição padronizada;
+                 b) número de registro;
+                 c) valor (preço de aquisição, custo de produção, valor arbitrado ou preço de avaliação);
+                 d) estado (bom, ocioso, recuperável, antieconômico ou irrecuperável);
+                 e) outros elementos julgados necessários.
+
+       ✓ Avaliação: atribuição de valor aos bens, partindo da dimensão física para a dimensão financeira da
+         questão.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      https://t.me/KakashiAssinaturasBot
+       Tipos de Inventário
+       Anual/Geral x Rotativo/Eventual
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente
+         efetuado uma vez ao ano e no qual todos os itens são contados de uma única vez. Em
+         seguida são efetuadas as comparações com os sistemas gerenciais e contábeis da
+         organização.
+       ✓ Rotativo (ou Cíclico): nesta modalidade alguns itens (os mais significativos, que
+         representam os maiores valores de estoque e são estratégicos e imprescindíveis para
+         a produção) são inventariados mais de uma vez por ano ou sempre que necessário.
+         Não exigem a completa paralização da área inventariada.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Inventário
+       5 tipos de acordo com a IN 205/88
+       ❑ Para a Instrução Normativa 205/1988, temos cinco tipos de inventários (e essa classificação as
+         vezes é cobrada pelas bancas, fique atento!):
+                 Os tipos de Inventários Físicos são:
+
+                 a) anual - destinado a comprovar a quantidade e o valor dos bens patrimoniais do acervo de cada
+                 unidade gestora, existente em 31 de dezembro de cada exercício - constituído do inventário anterior
+                 e das variações patrimoniais ocorridas durante o exercício.
+                 b) inicial - realizado quando da criação de uma unidade gestora, para identificação e registro dos
+                 bens sob sua responsabilidade;
+                 c) de transferência de responsabilidade - realizado quando da mudança do dirigente de uma unidade
+                 gestora ;
+                 d) de extinção ou transformação - realizado quando da extinção ou transformação da unidade
+                 gestora;
+                 e) eventual - realizado em qualquer época, por iniciativa do dirigente da unidade gestora ou por
+                 iniciativa do órgão fiscalizador.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 https://t.me/KakashiAssinaturasBot
+       Tipos de Inventário
+       Exceções do processo: pequeno valor ou valor desconhecido
+       ❑ Nos casos em que o valor do material for muito baixo, com o custo de controle maior que o risco
+         representado pela perda, o órgão poderá controlá-lo com simples relação de material, também
+         chamada de relação de carga.
+
+       ❑ E, por fim, quando o bem móvel tiver valor de custo ou aquisição desconhecidos será avaliado
+         levando-se em conta o valor de mercado de outro semelhante e com mesmo estado de
+         conservação.
+
+       ❑ Veja o que diz a mesma Instrução Normativa a respeito desses dois temas:
+                 - O material de pequeno valor econômico que tiver seu custo de controle evidentemente superior
+                 ao risco da perda poderá ser controlado através do simples relacionamento de material (relação
+                 carga), de acordo com o estabelecido no item 3 da I.N./DASP nº142/83.
+
+                 - O bem móvel cujo valor de aquisição ou custo de produção for desconhecido será avaliado
+                 tomando como referência o valor de outro, semelhante ou sucedâneo, no mesmo estado de
+                 conservação e a preço de mercado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Inventários na Adm. Pública
+       Possui caráter obrigatório
+
+       ❑ Na Administração Pública o inventário tem caráter obrigatório. Tanto bens móveis
+         como imóveis deverão ser inventariados com base no inventário analítico de cada
+         unidade administrativa e nos elementos da escrituração da contabilidade.
+       ❑ Dessa forma, a realização de inventários não consiste apenas em contar itens nos
+         armazéns e nos almoxarifados, mas também em fazer o devido levantamento dos
+         bens e materiais permanentes, acompanhados pelo controle patrimonial.
+       ❑ Nesse contexto, o gestor público deve controlar os bens e materiais públicos sobre
+         os quais tem responsabilidade, sob pena de responder por perdas e/ou danos.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Os princípios dos Inventários
+       6 princípios costumam ser cobrados
+       ❑ Segundo Dias, o inventário tem os seguintes princípios:
+
+       ✓    Instantaneidade: determina-se o momento (dia e hora) para sua realização. O resultado é uma fotografia daquele momento.
+
+       ✓    Oportunidade: seu tempo de execução deve ser o menor possível. Quanto mais tempo de realização, menor a precisão. Para
+            isso, no momento definido para a realização (geralmente um dia), a empresa não deve movimentar materiais ou produtos
+            acabados (vendas, recebimentos, transportes, etc.). Esse é o chamado Cut-Off, que minimiza as chances de contar algo em
+            duplicidade ou deixar de contar algum item.
+
+       ✓    Especificação: define a forma como os elementos serão classificados e agrupados, dentro da mesma espécie.
+
+       ✓    Homogeneidade: escolhe denominador comum (em geral a moeda corrente) contra o qual todos os itens serão comparados
+            ou valorados.
+
+       ✓    Integridade: todos os elementos patrimoniais compreendidos pelo escopo da atividade devem ser incluídos.
+
+       ✓    Uniformidade: permite a comparação dos inventários período após período, adotando as mesmas normas e estruturações ao
+            longo do tempo.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Inventários
+       Avaliação dos bens
+
+       ❑ A avaliação dos bens em um inventário pode ocorrer de variadas formas. Uma das
+         mais cobradas em prova é a classificação de Dias (2006), que aponta o seguinte:
+       ✓ Reversível: é indispensável à prestação do serviço público.
+       ✓ Alienável: inservível ao ente público
+       ✓ Inservível: ocioso, antieconômico ou irrecuperável
+       ✓ Alienável ocioso: em perfeitas condições, mas não utilizado.
+       ✓ Alienável de recuperação antieconômica: recuperação inviável do ponto de vista
+         econômico.
+       ✓ Irrecuperável: perda das características não permitem mais sua utilização
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Decreto 9.378/2018
+       Bens Inservíveis
+
+                 Art. 3º Para que seja considerado inservível, o bem será classificado como:
+
+                 I - ocioso - bem móvel que se encontra em perfeitas condições de uso, mas não é aproveitado;
+
+                 II - recuperável - bem móvel que não se encontra em condições de uso e cujo custo da
+                 recuperação seja de até cinquenta por cento do seu valor de mercado ou cuja análise de custo e
+                 benefício demonstre ser justificável a sua recuperação;
+
+                 III - antieconômico - bem móvel cuja manutenção seja onerosa ou cujo rendimento seja
+                 precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo; ou
+
+                 IV - irrecuperável - bem móvel que não pode ser utilizado para o fim a que se destina devido à
+                 perda de suas características ou em razão de ser o seu custo de recuperação mais de cinquenta
+                 por cento do seu valor de mercado ou de a análise do seu custo e benefício demonstrar ser
+                 injustificável a sua recuperação.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 https://t.me/KakashiAssinaturasBot
+       Ficha de Controle de Estoque
+       Usada no Sistema Kardex
+       ❑ O fichário de estoque – também denominado banco de dados sobre materiais – é um conjunto de documentos e
+         informações que servem para informar, analisar e controlar os estoques de materiais.
+
+       ❑ Quando o fichário de estoque ocupa um arquivo normal, o seu processamento é manual. Quando se utiliza o
+         processamento de dados com a ajuda de computador ou microcomputador, tem-se um banco de dados.
+
+       ❑ Mesmo com toda a possibilidade de informatização do processo, ainda há organizações que mantém seus
+         registros de estoques em fichas e que processam pedidos e análises de inventário manualmente.
+
+       ❑ O elemento chave desse sistema manual, ou sistema Kardex - como é normalmente chamado -, é a ficha ou cartão
+         de registro de estoques, que compõem um fichário de estoques.
+
+       ❑ O fichário de estoque é composto por um conjunto de fichas de estoque ou planilhas de estoque. Cada empresa
+         define o tipo de ficha de estoque mais apropriado as suas necessidades e ao grua de sofisticação pretendido em
+         seu processamento.
+
+       ❑ De acordo com Ronald Ballou, "a maioria das informações necessárias para controlar o item estão contidas nessas
+         fichas", que devem registrar cada transação de venda ou entrega de reposição, assim como os saldos de
+         estoque.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Ficha de Controle de Estoque
+       Principais informações trazidas
+       ❑ Já de acordo com Idalberto Chiavenato, em geral a ficha de estoques deve conter as seguintes
+         informações sobre os materiais (não é uma lista exaustiva):
+
+       •      Identificação do item: nome, código, descrição, unidade de medida, tipo de utilização.
+       •      Controle do item: estoque mínimo, lote econômico, demanda, dias de espera para recebimento,
+              fornecedores, %s de perda ou rejeição.
+       •      Entrada de materiais: recebimentos em quantidade, preço do lote, valor monetário do lote.
+       •      Saídas de materiais: saídas de materiais em quantidade, preço do lote, valor monetário do lote.
+       •      Saldo em estoque: saldo do estoque, saldo disponível (em estoque + encomendado e não recebido),
+              saldo das encomendas (a receber), saldo das reservas (requisitados mas não retirados do estoque).
+       •      Valor do saldo em estoque: custo de cada lote, custo unitário médio, custo de cada saída, valor
+              monetário do saldo em estoque.
+       •      Rotação do estoque: soma das entradas, soma das saídas, porcentagem de entradas sobre as saídas.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Ficha de Controle de Estoque
+       Um exemplo
+
+
+    ❑ Veja ao lado um exemplo de ficha de
+      estoques com base no que vimos
+      acima. Note que não necessariamente
+      a ficha contém todos os itens
+      previamente descritos.
+
+    ❑ Como já vimos , cada organização
+      define qual é o melhor modelo de
+      ficha e quais as informações que ela
+      deve    conter     para   servir de
+      instrumento de acompanhamento nos
+      processos de controle de estoques
+      que estudaremos a seguir.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

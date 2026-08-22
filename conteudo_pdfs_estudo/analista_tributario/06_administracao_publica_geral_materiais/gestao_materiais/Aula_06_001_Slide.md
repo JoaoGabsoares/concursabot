@@ -1,0 +1,373 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ADMINISTRAÇÃO DE
+---
+
+# ADMINISTRAÇÃO DE
+
+---
+
+---
+
+ADMINISTRAÇÃO DE
+ALMOXARIFADOS - I
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Almoxarifado
+       Histórico e Evolução
+     ❑ No passado o conceito de almoxarifado estava muito ligado a um simples depósito,
+       desorganizado, onde os materiais eram acumulados da pior forma possível, em locais
+       e estruturas inadequadas e com mão de obra despreparada e desqualificada. Isso
+       acabou.
+     ❑ Hoje temos à disposição do gestor de materiais técnicas de armazenagem e
+       manuseio bastante modernas, propiciando o alcance do maior objetivo buscado ao
+       longo de toda a cadeia de gestão de materiais: redução de custo.
+     ❑ O emprego das técnicas modernas e indicadas de armazenamento e movimentação
+       levam a significativo aumento de produtividade e maior segurança ao longo de todo
+       o processo.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Almoxarifado
+       Principais Conceitos
+
+        Local destinado à fiel guarda e conservação de materiais, em recinto coberto ou não,
+        adequado a sua natureza, tendo a função de destinar espaços onde permanecerá cada
+        item aguardando a necessidade do seu uso, ficando sua localização, equipamentos e
+        disposição interna condicionados à política geral de estoques da empresa.
+
+       ❑ Como alguns de seus maiores objetivos, o almoxarifado procura eliminar divergências
+         de inventário e perdas de qualquer natureza, minimizando o desperdício e a
+         ineficiência, como já vimos acima.
+       ❑ Dessa forma o almoxarifado deve dispor das condições adequadas para assegurar
+         tudo aquilo que já conhecemos como o mantra da Administração de Materiais, ou
+         seja, o material na quantidade desejada, no local correto e no tempo preciso, tudo
+         com base nas técnicas de armazenagem e movimentação adotadas.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Almoxarifado
+       Principais Conceitos
+     ❑ Para que tudo isso seja obtido é fundamental que o almoxarifado introduza rotinas
+       rigorosas de preservação e retiradas dos materiais, protegendo-os de furtos e
+       desperdícios e garantindo a eficiência por toda a cadeia.
+     ❑ Um método simples de garantir a confiabilidade do processo de retirada é definir
+       com clareza as pessoas autorizadas e atrelar ao processo a apresentação da devida
+       requisição de material, sem exceções, o que ajuda a controlar o processo com
+       precisão.
+     ❑ Nesse contexto o almoxarifado será o depósito/armazém que receberá e estocará os
+       materiais adquiridos pela organização, garantindo sua preservação adequada,
+       disponibilizando-os nos momentos corretos e ampliando a eficiência ao longo de
+       toda a cadeia.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Almoxarifado
+       Principais Objetivos
+
+     ❑ Os grandes objetivos da gestão de um almoxarifado são reduzir os custos de
+       armazenamento e aumentar o nível de serviço aos clientes (tanto internos quanto,
+       eventual e indiretamente, externos). Veja abaixo:
+
+                              Reduzir custos de                       Aumentar nível de serviço
+                               armazenagem                                 aos clientes
+                    • Evitar perdas e roubos                       • Entregar os itens demandados no
+                    • Reduzir obsolescência de materiais             momento correto, no volume
+                    • Maximizar uso do espaço disponível             combinado, com a qualidade
+                                                                     necessária e no local exato
+                    • Minimizar movimentações
+                      desnecessárias
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+Atividades dos Almoxarifados
+Da Descarga à Distribuição
+
+❑ As seguintes atividades fazem parte da gestão dos almoxarifados: recebimento dos materiais,
+  estocagem / armazenagem dos materiais, movimentação física dos materiais, expedição dos
+  materiais.
+
+                                
+
+
+---
+
+       Almoxarifados
+       Busca pela eficiência
+
+     ❑ Por fim, falamos muito sobre a eficiência pois, de fato, é uma das premissas do
+       funcionamento dos almoxarifados. Para garanti-la o almoxarifado depende de:
+
+
+                  - Redução de distâncias internas percorridas pela carga (veremos isso mais a fundo em
+                  Layout e Movimentação).
+                  - Aumento do tamanho médio das unidades armazenadas.
+                  - Melhor utilização da capacidade volumétrica.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) A gestão de almoxarifado/armazém envolve várias operações, conforme
+     demonstra a figura a seguir. Inicia na recepção dos produtos e termina na expedição quando são requeridos pelo cliente
+     interno e/ou externo. O almoxarifado deve pautar em controles formais, regras claras e metodologias específicas para
+     dimensionamento correto de quantitativos demandados. Cabe ao almoxarife:
+
+     a) manter condições de trabalho, mesmo com estresse e exaustão.
+     b) receber, conferir, armazenar e registrar materiais em estoque.
+     c) receber produto com defeito, atestar nota sem necessidade de registrar inconformidade, considerando o fornecedor
+     conhecido na empresa.
+     d) arranjar carga, mesmo em paletes com defeito, para acelerar o carregamento da equipe de transporte e terminar
+     tarefa de forma rápida e aumentar a produtividade.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) A gestão de almoxarifado/armazém envolve várias operações, conforme
+     demonstra a figura a seguir. Inicia na recepção dos produtos e termina na expedição quando são requeridos pelo cliente
+     interno e/ou externo. O almoxarifado deve pautar em controles formais, regras claras e metodologias específicas para
+     dimensionamento correto de quantitativos demandados. Cabe ao almoxarife:
+
+     a) manter condições de trabalho, mesmo com estresse e exaustão.
+     b) receber, conferir, armazenar e registrar materiais em estoque.
+     c) receber produto com defeito, atestar nota sem necessidade de registrar inconformidade, considerando o fornecedor
+     conhecido na empresa.
+     d) arranjar carga, mesmo em paletes com defeito, para acelerar o carregamento da equipe de transporte e terminar
+     tarefa de forma rápida e aumentar a produtividade.
+     GABARITO - B
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) A eficiência de um almoxarifado depende, fundamentalmente,
+     da(o)
+     a) aumento da eficiência de armazenagem, da redução dos equipamentos de produção e do melhor
+     aproveitamento do espaço.
+     b) aumento da quantidade de equipamentos, da diminuição da mão de obra e da redução do número
+     de acidentes através de um local maior de armazenagem.
+     c) redução do volume de armazenagem por metro quadrado, do aumento do tamanho das pilhas na
+     estocagem e da melhor utilização do espaço dentro e fora do depósito, ocupando todos os espaços
+     disponíveis.
+     d) redução das distâncias internas percorridas pelas cargas, do aumento do tamanho médio das
+     unidades armazenadas e da melhor utilização da sua capacidade volumétrica.
+     e) utilização de todos os espaços disponíveis, do volume de recursos empregados no almoxarifado,
+     como investimentos em tecnologia de ponta, e da redução de mão de obra do pessoal para
+     armazenagem e distribuição.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) A eficiência de um almoxarifado depende, fundamentalmente,
+     da(o)
+     a) aumento da eficiência de armazenagem, da redução dos equipamentos de produção e do melhor
+     aproveitamento do espaço.
+     b) aumento da quantidade de equipamentos, da diminuição da mão de obra e da redução do número
+     de acidentes através de um local maior de armazenagem.
+     c) redução do volume de armazenagem por metro quadrado, do aumento do tamanho das pilhas na
+     estocagem e da melhor utilização do espaço dentro e fora do depósito, ocupando todos os espaços
+     disponíveis.
+     d) redução das distâncias internas percorridas pelas cargas, do aumento do tamanho médio das
+     unidades armazenadas e da melhor utilização da sua capacidade volumétrica.
+     e) utilização de todos os espaços disponíveis, do volume de recursos empregados no almoxarifado,
+     como investimentos em tecnologia de ponta, e da redução de mão de obra do pessoal para
+     armazenagem e distribuição.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Almoxarifados
+       O perfil do Almoxarife
+
+
+     ❑ De acordo com João José Viana, "as atividades de armazenagem exigem muito mais do que o
+       simples manuseio dos materiais. Requer funcionários habilitados. O exame, a identificação, o
+       registro e o armazenamento são processos para os quais é necessário o envolvimento dos
+       funcionários adequados".
+
+     ❑ Algumas provas costumam cobrar as principais características de um almoxarife. De modo
+       genérico (e é isso que costuma aparecer na prova) o funcionário escolhido deve possuir "alto grau
+       de sentimento de honestidade", o que faz com que suas principais competências sejam "a
+       lealdade, a confiança e a disciplina".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) No caso de armazém/almoxarifado, cabe aos
+     trabalhadores:
+     a) colaborar com o empregador na implementação de rotinas para organização do
+     trabalho.
+     b) não comunicar ao superior imediato algum dispositivo de segurança danificado ou sem
+     função.
+     c) cobrar utilização de medidas de proteção individual, exceto as coletivas, na execução
+     das tarefas.
+     d) facultar participação de treinamentos pelo empregador para atendimento às
+     exigências.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) No caso de armazém/almoxarifado, cabe aos
+     trabalhadores:
+     a) colaborar com o empregador na implementação de rotinas para organização do
+     trabalho.
+     b) não comunicar ao superior imediato algum dispositivo de segurança danificado ou sem
+     função.
+     c) cobrar utilização de medidas de proteção individual, exceto as coletivas, na execução
+     das tarefas.
+     d) facultar participação de treinamentos pelo empregador para atendimento às
+     exigências.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada
+     dos produtos no almoxarifado preservarão os materiais armazenados, protegendo-os
+     contra furtos e desperdícios. A autoridade para a retirada do estoque deve estar definida
+     com clareza e somente pessoas autorizadas poderão exercer essa atribuição.
+     Considerando essa informação, julgue o item. A atualização dos registros dos materiais
+     adquiridos pela empresa não é de responsabilidade do almoxarifado, mas sim da área de
+     compras, que realiza tais transações.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Segundo Viana, rotinas rigorosas para a retirada
+     dos produtos no almoxarifado preservarão os materiais armazenados, protegendo-os
+     contra furtos e desperdícios. A autoridade para a retirada do estoque deve estar definida
+     com clareza e somente pessoas autorizadas poderão exercer essa atribuição.
+     Considerando essa informação, julgue o item. A atualização dos registros dos materiais
+     adquiridos pela empresa não é de responsabilidade do almoxarifado, mas sim da área de
+     compras, que realiza tais transações.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Caso alguma mercadoria apresente avarias ou
+     material claramente divergente, o almoxarife terá o direito de realizar a devolução do
+     material sem nenhum tipo de justificativa.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Caso alguma mercadoria apresente avarias ou
+     material claramente divergente, o almoxarife terá o direito de realizar a devolução do
+     material sem nenhum tipo de justificativa.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

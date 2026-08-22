@@ -1,0 +1,600 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 09_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+ESTOQUES - II
+FGV
+
+                                             Prof. Ricardo Campanario
+
+        
+
+
+---
+
+       Questão Comentada
+     01. (FGV/TJ BA/Técnico Judiciário/2015) O quadro abaixo representa a planilha de
+     movimentação de estoque de uma determinada empresa. O estoque médio e a cobertura
+     geral do estoque do primeiro mês são, respectivamente:
+     a) 1500 e 1,5;
+     b) 1500 e 1,2;
+     c) 1250 e 1,2;
+     d) 1200 e 1,5;
+     e) 1200 e 1,2.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (FGV/TJ BA/Técnico Judiciário/2015) O quadro abaixo representa a planilha de
+     movimentação de estoque de uma determinada empresa. O estoque médio e a cobertura
+     geral do estoque do primeiro mês são, respectivamente:
+     a) 1500 e 1,5;                   O Estoque médio do primeiro mês pode ser calculado
+     b) 1500 e 1,2;                   somando-se os estoques das 4 primeiras semanas e dividindo-
+     c) 1250 e 1,2;                   se pelo número de períodos:
+                                      Estoque médio mês = (3000+2000+1000+0) / 4 = 1500
+     d) 1200 e 1,5;                   unidades
+     e) 1200 e 1,2.
+                                               Já a cobertura geral podemos encontrar dividindo o estoque
+                                               médio pela demanda média do mesmo período.
+
+                                               Demanda média mês: (2000+1000+1000+1000) / 4 = 1250
+                                               unidades
+
+                                               Logo, cobertura = 1500/1250 = 1,2.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (FGV/TJ BA/Técnico Judiciário/2015) O quadro abaixo representa a planilha de
+     movimentação de estoque de uma determinada empresa. O estoque médio e a cobertura
+     geral do estoque do primeiro mês são, respectivamente:
+     a) 1500 e 1,5;
+     b) 1500 e 1,2;
+     c) 1250 e 1,2;
+     d) 1200 e 1,5;
+     e) 1200 e 1,2.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FGV/FBN/Assistente Administrativo/2013) O gerenciamento dos estoques permite o
+     controle do material estocado nos almoxarifados. Para isso é necessário o cumprimento de
+     alguns princípios básicos. As alternativas listadas a seguir apresentam princípios que
+     devem ser seguidos para o controle de estoque, à exceção de uma. Assinale‐a.
+     a) Determinar “o quê” deve ser mantido em estoque.
+     b) Determinar “ quando” reabastecer os estoques.
+     c) Determinar “quanto” de estoque será necessário para um período determinado.
+     d) Determinar “quem” deve elaborar os processos de padronização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FGV/FBN/Assistente Administrativo/2013) O gerenciamento dos estoques permite o
+     controle do material estocado nos almoxarifados. Para isso é necessário o cumprimento de
+     alguns princípios básicos. As alternativas listadas a seguir apresentam princípios que
+     devem ser seguidos para o controle de estoque, à exceção de uma. Assinale‐a.
+     a) Determinar “o quê” deve ser mantido em estoque.
+     b) Determinar “ quando” reabastecer os estoques.
+     c) Determinar “quanto” de estoque será necessário para um período determinado.
+     d) Determinar “quem” deve elaborar os processos de padronização.
+     GABARITO - D
+      Segundo Marco Aurélio Dias, para organizar um setor de controle de estoque, inicialmente deveremos descrever suas funções principais, que são as
+      listadas abaixo. Note que não há menção a responsável por processo de padronização, ao contrário das demais alternativas listadas pela banca, todas
+      elencadas na lista de Dias.
+      Determinar "o quê" deve permanecer em estoque, números de itens;
+      Determinar "quando” se devem reabastecer os estoques, periodicidade;
+      Determinar "quanto" de estoque será necessário para um período predeterminado;
+      Acionar o departamento de compras para executar aquisição de estoque;
+      Receber, armazenar e atender os materiais estocados de acordo com as necessidades;
+      Controlar os estoques em termos de quantidade e valor e fornecer informações sobre a posição do estoque;
+      Manter inventários periódicos para avaliação das quantidades e estados dos materiais estocados;
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                            
+
+
+---
+
+       Questão Comentada
+     03. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema de
+     reposição contínua para o estoque de resmas de papel. O montante anual despendido
+     com o material permite que as aquisições sejam efetuadas por compra direta, e o custo de
+     pedido é de R$ 80,00. O consumo mensal de resmas é, em média, de 100 unidades, o
+     estoque de segurança é de 40 unidades e o tempo de ressuprimento é de nove dias
+     corridos. Na situação descrita, o ponto de pedido é (considere que um mês tem 30 dias):
+     a) 40 unidades;
+     b) 60 unidades;
+     c) 65 unidades;
+     d) 70 unidades;
+     e) 72 unidades.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema de
+     reposição contínua para o estoque de resmas de papel. O montante anual despendido
+     com o material permite que as aquisições sejam efetuadas por compra direta, e o custo de
+     pedido é de R$ 80,00. O consumo mensal de resmas é, em média, de 100 unidades, o
+     estoque de segurança é de 40 unidades e o tempo de ressuprimento é de nove dias
+     corridos. Na situação descrita, o ponto de pedido é (considere que um mês tem 30 dias):
+     a) 40 unidades;
+     b) 60 unidades;      Ponto Pedido = ES + TR x CM
+     c) 65 unidades;      Estoque de Segurança = 40 unidades
+     d) 70 unidades;      Consumo Médio = 100 unidades/mês ou 3,33/dia
+     e) 72 unidades.      Tempo de Reposição = 9 dias
+                                            PP = 40 + 9 x 3,33 = 70
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Questão Comentada
+     03. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema de
+     reposição contínua para o estoque de resmas de papel. O montante anual despendido
+     com o material permite que as aquisições sejam efetuadas por compra direta, e o custo de
+     pedido é de R$ 80,00. O consumo mensal de resmas é, em média, de 100 unidades, o
+     estoque de segurança é de 40 unidades e o tempo de ressuprimento é de nove dias
+     corridos. Na situação descrita, o ponto de pedido é (considere que um mês tem 30 dias):
+     a) 40 unidades;
+     b) 60 unidades;
+     c) 65 unidades;
+     d) 70 unidades;
+     e) 72 unidades.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Uma escola pública
+     hipotética adota o sistema de reposição contínua para a manutenção dos níveis de canetas
+     para quadro branco em estoque. O consumo mensal é de 300 canetas, o estoque de
+     segurança é de 60 canetas e o tempo de reposição solicitado pelo vendedor é de 2
+     dias. Considerando o mês de 20 dias, os pedidos deverão ser realizados quando a
+     quantidade de canetas em estoque for de:
+     a) 150;
+     b) 120;
+     c) 90;
+     d) 80;
+     e) 60.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Uma escola pública
+     hipotética adota o sistema de reposição contínua para a manutenção dos níveis de canetas
+     para quadro branco em estoque. O consumo mensal é de 300 canetas, o estoque de
+     segurança é de 60 canetas e o tempo de reposição solicitado pelo vendedor é de 2
+     dias. Considerando o mês de 20 dias, os pedidos deverão ser realizados quando a
+     quantidade de canetas em estoque for de:
+     a) 150;
+     b) 120;          Ponto Pedido = ES + TR x CM
+                      Estoque de Segurança = 60 canetas
+     c) 90;           Consumo Médio = 300 unidades/mês ou 15/dia (atenção pois o enunciado
+     d) 80;           diz que o mês é de 20 dias!)
+     e) 60.           Tempo de Reposição = 2 dias
+                                    PP = 60 + 2 x 15 = 90
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     04. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Uma escola pública
+     hipotética adota o sistema de reposição contínua para a manutenção dos níveis de canetas
+     para quadro branco em estoque. O consumo mensal é de 300 canetas, o estoque de
+     segurança é de 60 canetas e o tempo de reposição solicitado pelo vendedor é de 2
+     dias. Considerando o mês de 20 dias, os pedidos deverão ser realizados quando a
+     quantidade de canetas em estoque for de:
+     a) 150;
+     b) 120;
+     c) 90;
+     d) 80;
+     e) 60.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Quanto ao modelo de
+     reposição periódica de estoques, é correto afirmar que:
+     a) consiste em emitir um pedido de compra sempre que o nível de estoque atingir o
+     ponto de pedido, sendo bastante sensível ao tempo de atendimento;
+     b) consiste em emitir pedidos de compra em intervalos fixos, em quantidades que
+     deixariam o estoque pleno no momento do pedido;
+     c) também chamado de modelo do lote padrão, ou modelo do estoque máximo,
+     depende do tempo de atendimento para determinação do ponto de pedido;
+     d) por trabalhar com o estoque mínimo, corre o risco de ficar sem estoque caso a
+     demanda seja razoavelmente maior que a utilizada para determinação do ponto de
+     pedido;
+     e) por trabalhar com o estoque mínimo, o estoque de segurança não deve ser inferior a
+     30% do lote econômico.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Quanto ao modelo de
+     reposição periódica de estoques, é correto afirmar que:
+     a) consiste em emitir um pedido de compra sempre que o nível de estoque atingir o
+     ponto de pedido, sendo bastante sensível ao tempo de atendimento;
+     b) consiste em emitir pedidos de compra em intervalos fixos, em quantidades que
+     deixariam o estoque pleno no momento do pedido;
+     c) também chamado de modelo do lote padrão, ou modelo do estoque máximo,
+     depende do tempo de atendimento para determinação do ponto de pedido;
+     d) por trabalhar com o estoque mínimo, corre o risco de ficar sem estoque caso a
+     demanda seja razoavelmente maior que a utilizada para determinação do ponto de
+     pedido;
+     e) por trabalhar com o estoque mínimo, o estoque de segurança não deve ser inferior a
+     30% do lote econômico.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FGV/MPE RJ/Analista do Ministério Público/2016) Uma firma de advocacia consome
+     semanalmente, em média, 30 resmas de 500 folhas de papel. A firma compra as resmas de
+     papel de um fornecedor em lotes de 120 resmas, a um preço de R$ 5,00 por resma. Um
+     pedido leva, em média, 2 semanas para ser recebido, a um custo de R$ 1,50 por pedido. A
+     firma mantém um estoque de segurança de 10 resmas. Os estoques máximo e médio de
+     resmas na firma são, respectivamente:
+     a) 150 e 70;
+     b) 250 e 90;
+     c) 250 e 80;
+     d) 130 e 80;
+     e) 130 e 70.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FGV/MPE RJ/Analista do Ministério Público/2016) Uma firma de advocacia consome
+     semanalmente, em média, 30 resmas de 500 folhas de papel. A firma compra as resmas de
+     papel de um fornecedor em lotes de 120 resmas, a um preço de R$ 5,00 por resma. Um
+     pedido leva, em média, 2 semanas para ser recebido, a um custo de R$ 1,50 por pedido. A
+     firma mantém um estoque de segurança de 10 resmas. Os estoques máximo e médio de
+     resmas na firma são, respectivamente:
+     a) 150 e 70;
+     b) 250 e 90;       O estoque máximo pode ser determinado pelo estoque de segurança somado ao lote de
+     c) 250 e 80;       compra, ou seja: Emáx = Eseg + Q ou 10 resmas +120 resmas. Dessa forma o maior
+                        estoque que a firma atingirá será de 130 resmas.
+     d) 130 e 80;
+     e) 130 e 70.       Já o estoque médio pode ser calculado pela soma do estoque mínimo com Lote de
+                                        Compra/2 ou EMédio = Emin + Q/2, ou seja: Emédio = 10 + 120/2 = 70 resmas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Questão Comentada
+     06. (FGV/MPE RJ/Analista do Ministério Público/2016) Uma firma de advocacia consome
+     semanalmente, em média, 30 resmas de 500 folhas de papel. A firma compra as resmas de
+     papel de um fornecedor em lotes de 120 resmas, a um preço de R$ 5,00 por resma. Um
+     pedido leva, em média, 2 semanas para ser recebido, a um custo de R$ 1,50 por pedido. A
+     firma mantém um estoque de segurança de 10 resmas. Os estoques máximo e médio de
+     resmas na firma são, respectivamente:
+     a) 150 e 70;
+     b) 250 e 90;
+     c) 250 e 80;
+     d) 130 e 80;
+     e) 130 e 70.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/IBGE/Analista/2016) Suponha que você é responsável pelo ressuprimento de
+     materiais do setor de gestão de estoques de uma organização como o IBGE. O sistema
+     empregado para um determinado item, sob sua responsabilidade, é o de reposição
+     contínua. Considere os seguintes dados (em quantidades e em unidade de tempo):
+     quantidade de ressuprimento (reposição) = 900; tempo de ressuprimento (lead time) = 2
+     meses; intervalo entre ressuprimentos = 4 meses; e estoque de segurança = 500. Calcule o
+     ponto de ressuprimento (reposição), considerando que deverá ser expresso na quantidade
+     existente em estoque no momento do seu cálculo. O resultado, em unidades, é:
+     a) 800;
+     b) 900;
+     c) 950;
+     d) 1.150;
+     e) 1.350.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/IBGE/Analista/2016) Suponha que você é responsável pelo ressuprimento de
+     materiais do setor de gestão de estoques de uma organização como o IBGE. O sistema
+     empregado para um determinado item, sob sua responsabilidade, é o de reposição
+     contínua. Considere os seguintes dados (em quantidades e em unidade de tempo):
+     quantidade de ressuprimento (reposição) = 900; tempo de ressuprimento (lead time) = 2
+     meses; intervalo entre ressuprimentos = 4 meses; e estoque de segurança = 500. Calcule o
+     ponto de ressuprimento (reposição), considerando que deverá ser expresso na quantidade
+     existente em estoque no momento do seu cálculo. O resultado, em unidades, é:
+     a) 800;
+                              Ponto Pedido = ES + TR x CM
+     b) 900;
+     c) 950;                  Estoque de Segurança = 500 unidades
+     d) 1.150;                Quantidade de ressuprimento: 900 a cada 4 meses, logo
+     e) 1.350.                Consumo Médio = 225 unidades/mês
+
+                                            Tempo de Reposição = 2 meses ou 60 dias
+
+                                            PP = 500 + 2 x 225 = 950
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     07. (FGV/IBGE/Analista/2016) Suponha que você é responsável pelo ressuprimento de
+     materiais do setor de gestão de estoques de uma organização como o IBGE. O sistema
+     empregado para um determinado item, sob sua responsabilidade, é o de reposição
+     contínua. Considere os seguintes dados (em quantidades e em unidade de tempo):
+     quantidade de ressuprimento (reposição) = 900; tempo de ressuprimento (lead time) = 2
+     meses; intervalo entre ressuprimentos = 4 meses; e estoque de segurança = 500. Calcule o
+     ponto de ressuprimento (reposição), considerando que deverá ser expresso na quantidade
+     existente em estoque no momento do seu cálculo. O resultado, em unidades, é:
+     a) 800;
+     b) 900;
+     c) 950;
+     d) 1.150;
+     e) 1.350.
+     GABARITO - C
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FGV/IBGE/Analista/2016) O estoque de segurança é fundamental para muitas
+     organizações no sistema de controle por quantidades fixas. É importante, seja em função
+     do seu custo ou de sua criticidade operacional. Trata-se de uma quantidade:
+     a) variável pela ação da demanda, sendo constituída, em seu nível mais elevado;
+     b) teórica, que serve como indicador para avaliar quantidades em estoque;
+     c) máxima admissível em estoque, tanto em termos físicos como potenciais;
+     d) predeterminada de material que evite ou reduza os efeitos da variação da demanda ou
+     do tempo de ressuprimento;
+     e) necessária para atender à demanda correspondente à quantidade de ressuprimento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FGV/IBGE/Analista/2016) O estoque de segurança é fundamental para muitas
+     organizações no sistema de controle por quantidades fixas. É importante, seja em função
+     do seu custo ou de sua criticidade operacional. Trata-se de uma quantidade:
+     a) variável pela ação da demanda, sendo constituída, em seu nível mais elevado;
+     b) teórica, que serve como indicador para avaliar quantidades em estoque;
+     c) máxima admissível em estoque, tanto em termos físicos como potenciais;
+     d) predeterminada de material que evite ou reduza os efeitos da variação da demanda ou
+     do tempo de ressuprimento;
+     e) necessária para atender à demanda correspondente à quantidade de ressuprimento.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FGV/TJ RO/Analista Judiciário/2015) Em um hospital, determinado item tem consumo
+     mensal de 50 unidades. Dada a importância do item, o hospital não permite que seu
+     estoque seja zerado. Se o consumo mensal aumentar para 60 unidades e um atraso no
+     tempo de reposição for de 15 dias, o estoque mínimo do item deverá ser de:
+     a) 60 unidades;
+     b) 40 unidades;
+     c) 30 unidades;
+     d) 25 unidades;
+     e) 10 unidades.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FGV/TJ RO/Analista Judiciário/2015) Em um hospital, determinado item tem consumo
+     mensal de 50 unidades. Dada a importância do item, o hospital não permite que seu
+     estoque seja zerado. Se o consumo mensal aumentar para 60 unidades e um atraso no
+     tempo de reposição for de 15 dias, o estoque mínimo do item deverá ser de:
+     a) 60 unidades;       Para este tipo de problema é necessário usar a fórmula de
+     b) 40 unidades;       cálculo do Estoque Mínimo com alteração no consumo e no
+     c) 30 unidades;       tempo de reposição, conforme relata o enunciado:
+     d) 25 unidades;       Estoque Mínimo = (C2 - C1) + C2 x Atraso
+     e) 10 unidades.
+     GABARITO - B          C2 = Novo consumo = 60
+
+                                            C1 = Consumo anterior = 50
+
+                                            Atraso = 15 dias ou 0,5 mês
+
+                                            Estoque Mínimo = 60-50 + 60 x 0,5 = 40
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Questão Comentada
+     10. (FGV/PGE RO/Analista de Procuradoria/2015) Uma fabricante de massas alimentícias
+     consome semanalmente uma média de 3000 quilos de farinha de trigo. A empresa compra
+     a farinha de um moinho em lotes de 15000 quilos, a um preço de R$3,00 por quilo. Uma
+     encomenda realizada junto ao moinho leva, em média, 3 semanas para ser recebida. A fim
+     de se precaver contra eventuais oscilações de demanda, a fabricante de massas opera com
+     um estoque de segurança de 9000 quilos de farinha de trigo. Os estoques máximo e
+     médio de farinha de trigo na fabricante de massas são, respectivamente:
+     a) 9000 quilos e 7500 quilos;
+     b) 15000 quilos e 7500 quilos;
+     c) 24000 quilos e 16500 quilos;
+     d) 24000 quilos e 12000 quilos;
+     e) 27000 quilos e 14500 quilos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (FGV/PGE RO/Analista de Procuradoria/2015) Uma fabricante de massas alimentícias
+     consome semanalmente uma média de 3000 quilos de farinha de trigo. A empresa compra
+     a farinha de um moinho em lotes de 15000 quilos, a um preço de R$3,00 por quilo. Uma
+     encomenda realizada junto ao moinho leva, em média, 3 semanas para ser recebida. A fim
+     de se precaver contra eventuais oscilações de demanda, a fabricante de massas opera com
+     um estoque de segurança de 9000 quilos de farinha de trigo. Os estoques máximo e
+     médio de farinha de trigo na fabricante de massas são, respectivamente:
+     a) 9000 quilos e 7500 quilos;
+     b) 15000 quilos e 7500 quilos;        Estoque Máximo = Eseg + Lote de Compra = 9.000 + 15.000 = 24.000
+     c) 24000 quilos e 16500 quilos;
+     d) 24000 quilos e 12000 quilos;       Estoque Médio = (Emáx + Eseg) / 2 = (24.000 + 9.000)/2 = 16.500
+                                           ou Eseg + Q/2 = 9000 + (15000/2) = 16.500
+     e) 27000 quilos e 14500 quilos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (FGV/PGE RO/Analista de Procuradoria/2015) Uma fabricante de massas alimentícias
+     consome semanalmente uma média de 3000 quilos de farinha de trigo. A empresa compra
+     a farinha de um moinho em lotes de 15000 quilos, a um preço de R$3,00 por quilo. Uma
+     encomenda realizada junto ao moinho leva, em média, 3 semanas para ser recebida. A fim
+     de se precaver contra eventuais oscilações de demanda, a fabricante de massas opera com
+     um estoque de segurança de 9000 quilos de farinha de trigo. Os estoques máximo e
+     médio de farinha de trigo na fabricante de massas são, respectivamente:
+     a) 9000 quilos e 7500 quilos;
+     b) 15000 quilos e 7500 quilos;
+     c) 24000 quilos e 16500 quilos;
+     d) 24000 quilos e 12000 quilos;
+     e) 27000 quilos e 14500 quilos.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

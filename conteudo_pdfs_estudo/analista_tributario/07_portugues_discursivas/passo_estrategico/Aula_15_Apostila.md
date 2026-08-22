@@ -1,0 +1,1493 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Passo Estratégico de Português
+---
+
+# Passo Estratégico de Português
+
+Aula 11
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Aula 11
+
+1 - Apresentação 
+2 - Análise Estatística 
+3 - Linguagem 
+   Tipos de Linguagem 
+4 - Língua
+5 - Língua Falada e Língua Escrita 
+6 - Fala 
+   Níveis de fala 
+   O conceito de erro em língua 
+   Momentos do discurso 
+7 - A gíria 
+   O Preconceito linguístico 
+8 - Tipos de variação linguística 
+   Variedade culta padrão (VCP) 
+   Variedade popular 
+9 - Aposta Estratégica 
+10 - Questões-chave de revisão
+11 – Lista de questões comentadas 
+12 - Revisão Estratégica 
+   12.1 - Perguntas 
+   12.2 - Perguntas com respostas 
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                               1
+           www.estrategiaconcursos.com.br                                                                                                                     36
+                                                
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+1 - APRESENTAÇÃO
+Olá, servidores. Daremos, na aula de hoje, mais um grande PASSO rumo à sua aprovação.
+Adentraremos num assunto bastante interessante, sempre cobrados em provas de Língua
+Portuguesa: variação linguística e níveis de linguagem.
+Desejo-lhes uma excelente aula!
+Bons estudos!
+Prof. Carlos Roberto
+
+                                            #amoraovernáculo
+
+
+                “A vida sem luta é um mar morto no centro do organismo universal”.
+                                       (Machado de Assis)
+
+                                 Seu cantinho de estudos famoso!
+                             Poste uma foto do seu cantinho de estudos e nos
+                                         marque no Instagram:
+
+                                            @passoestrategico
+                                          @prof_carlosroberto
+                          Vamos repostar sua foto no nosso perfil para que ele
+                              fique famoso entre milhares de pessoas!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português            2
+        www.estrategiaconcursos.com.br                                                  36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+2 - ANÁLISE ESTATÍSTICA
+
+                    Percentual de incidência em concursos similares (FGV)
+
+                              Interpretação de textos.                         34,98%
+
+            Classes de palavras; Formação e estrutura das palavras.            14,43%
+
+                                     Linguagem.                                 3,96%
+
+                          Ortografia, Acentuação e Crase.                       3,27%
+
+                                 Tipologia Textual.                             3,11%
+
+                                      Pontuação.                                2,90%
+
+                               Colocação pronominal.                            2,61%
+
+                                 Termos da oração.                              2,14%
+
+                 Concordância verbal, nominal e vozes verbais.                  1,92%
+
+             Relação de coordenação e subordinação das orações.                 1,35%
+
+                           Palavras “se”, “que” e “como”.                       1,19%
+
+                            Regência nominal e verbal.                          1,06%
+
+3 - LINGUAGEM
+Linguagem é a capacidade que possuímos de expressar nossos pensamentos, ideias, opiniões e
+sentimentos. A Linguagem está relacionada a fenômenos comunicativos; se há comunicação, há
+linguagem. Podemos usar inúmeros tipos de linguagens para estabelecermos atos de comunicação,
+tais como: sinais, símbolos, sons, gestos e regras com sinais convencionais (linguagem escrita e
+linguagem mímica, por exemplo). Num sentido mais genérico, a Linguagem pode ser classificada
+como qualquer sistema de sinais de que se valem os indivíduos para comunicar-se.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       3
+        www.estrategiaconcursos.com.br                                                             36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+TIPOS DE LINGUAGEM
+
+A linguagem pode ser:
+Verbal: a Linguagem Verbal é a forma de comunicação feita a partir do uso da fala ou da escrita
+
+As figuras acima nos comunicam sua mensagem através da linguagem verbal (são usadas palavras
+para transmitir a informação).
+Linguagem Não Verbal: é aquela em que se utiliza outros métodos de comunicação, que não são as
+palavras. Dentre elas estão a linguagem de sinais, as placas e sinais de trânsito, a linguagem corporal,
+uma figura, a expressão facial, um gesto etc.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               4
+        www.estrategiaconcursos.com.br                                                                     36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+4 - LÍNGUA
+A Língua é um instrumento de comunicação. Ela é composta por regras gramaticais que possibilitam
+que determinado grupo de falantes consiga produzir enunciados que lhes permitam comunicar-se e
+compreender-se.
+A língua possui um caráter social: pertence a todo um conjunto de pessoas, as quais podem agir
+sobre ela. Cada membro da comunidade pode optar por esta ou aquela forma de expressão. Dessa
+forma, cada indivíduo pode usar de maneira particular a língua comunitária, originando a fala. Por
+outro lado, não é possível criar uma língua particular e exigir que outros falantes a compreendam.
+
+                                                     É diferente, mas igual!
+ Observe que um indivíduo pode pronunciar um enunciado da seguinte maneira:
+ A família de Regina era paupérrima
+
+
+ Outro, no entanto, pode optar por:
+ A família de Regina era muito pobre
+
+
+ As diferenças e semelhanças constatadas devem-se às diversas manifestações da fala de cada um. No
+ disso, que essas manifestações de fala devem obedecer às regras gerais da língua portuguesa, para não s
+ o risco de produzir enunciados incompreensíveis como:
+ Família a paupérrima de era Regina.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                         5
+        www.estrategiaconcursos.com.br                                                               36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+ Portanto é diferente, pois cada indivíduo pode falar de determinada maneira, mas é igual porque todos p
+ falar a mesma língua para que a comunicação seja eficaz.
+
+5 - LÍNGUA FALADA E LÍNGUA ESCRITA
+Não devemos confundir língua com escrita, pois são dois meios de comunicação distintos. A escrita
+representa um estágio posterior de uma língua. A língua falada é mais espontânea, abrange a
+comunicação linguística em toda sua totalidade, já que pode ser permeada por expressões faciais,
+gestos, alterações no tom de voz etc. A língua escrita não é apenas a representação da língua falada,
+mas sim um sistema mais disciplinado e rígido, uma vez que não conta com o jogo fisionômico, as
+mímicas e o tom de voz do falante.
+No Brasil, por exemplo, todos falam a língua portuguesa, mas existem usos diferentes da língua
+devido a diversos fatores. Dentre eles, destacam-se:
+
+
+Fatores regionais: é possível notar a diferença do português falado por um indivíduo proveniente
+da região nordeste para outro da região sudeste do Brasil. Dentro de uma mesma região, também
+há variações no uso da língua. No estado do Rio Grande do Sul, por exemplo, há diferenças entre a
+língua utilizada por um cidadão que vive na capital e aquela utilizada por um cidadão do interior do
+estado.
+Fatores culturais: o grau de escolarização e a formação cultural de um indivíduo também são fatores
+que colaboram para essa diferença nos usos da língua. Uma pessoa escolarizada utiliza a língua de
+uma maneira diferente da utilização feita por uma pessoa que não teve acesso à educação escolar.
+Fatores contextuais: nosso modo de falar varia de acordo com a situação em que nos encontramos.
+Quando conversamos com nossos amigos, não usamos os termos que usaríamos se estivéssemos
+discursando em uma solenidade de formatura. Concordam?
+Fatores profissionais: o exercício de algumas atividades requer o domínio de certas formas de língua
+chamadas línguas técnicas. Cheias de termos específicos, essas formas têm uso praticamente
+restrito ao intercâmbio técnico de engenheiros, químicos, profissionais da área de direito e da
+informática, biólogos, médicos e linguistas por exemplo.
+Fatores naturais: o uso da língua pelos falantes sofre influência de fatores naturais, como idade e
+sexo. Uma criança não utiliza a língua da mesma maneira que um adulto, daí falar-se em linguagem
+infantil e linguagem adulta.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            6
+        www.estrategiaconcursos.com.br                                                                  36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+6 - FALA
+É a utilização oral da língua pelo indivíduo. É um ato individual, pois cada indivíduo, para a
+manifestação da fala, pode escolher os elementos da língua que lhe convém, conforme seu gosto e
+sua necessidade, de acordo com a situação, o contexto, sua personalidade, o ambiente sociocultural
+em que vive etc. Desse modo, dentro da unidade da língua, há uma grande diversificação nos mais
+variados níveis de fala. Cada indivíduo, além de conhecer o que fala, conhece também o que os
+outros falam; é por isso que somos capazes de dialogar com pessoas dos mais variados graus de
+cultura, embora nem sempre a linguagem delas seja exatamente como a nossa.
+A fala está sempre condicionada pelas regras socialmente estabelecidas da língua, mas é
+suficientemente ampla para permitir um exercício criativo da comunicação.
+
+NÍVEIS DE FALA
+
+Baseando-nos no caráter individual da fala, é possível observarmos alguns níveis:
+Nível coloquial-popular: é a fala que a maioria das pessoas utiliza no seu dia a dia, principalmente
+em situações informais. Esse nível da fala é mais espontâneo. Ao utilizá-lo, não nos preocupamos
+em saber se falamos de acordo ou não com as regras formais estabelecidas pela língua.
+Nível formal-culto: é o nível da fala normalmente utilizado pelas pessoas em situações formais.
+Caracteriza-se por um cuidado maior com o vocabulário e pela obediência às regras gramaticais
+estabelecidas pela língua.
+
+O CONCEITO DE ERRO EM LÍNGUA
+
+Em rigor, ninguém comete erro em língua, exceto nos casos de ortografia. O que normalmente se
+comete são transgressões da norma culta. Então, num momento íntimo do discurso, se alguém diz:
+“Ninguém deixou ele falar”, não comete propriamente erro; apenas transgride a norma culta.
+Mas um repórter, ao cometer uma transgressão em sua fala, transgride tanto quanto um indivíduo
+que comparece a um banquete trajando bermuda, tênis e camiseta ou quanto um alguém que, numa
+praia, apareça vestido de fraque e cartola.
+É interessante, então, considerarmos o momento do discurso, que pode ser íntimo, neutro ou
+solene. Vamos a eles!
+
+MOMENTOS DO DISCURSO
+
+Momento íntimo é o das liberdades da fala. Em casa, na conversa entre amigos, parentes,
+namorados etc., são consideradas perfeitamente normais construções do tipo:
+Eu não vi ela hoje.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           7
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Ninguém deixou ele falar.
+Deixe eu ver isso!
+Eu te amo, sim, mas não abuse!
+Não assisti o filme nem vou assistir.
+Sou teu pai, por isso vou perdoá-lo.
+Nesse momento, a informalidade prevalece sobre a norma culta, deixando mais livres os
+interlocutores (emissor e receptor).
+
+
+Momento neutro é o do uso da língua-padrão, que é a língua da Nação. Como forma de respeito,
+tomam-se por base aqui as normas estabelecidas na gramática, ou seja, a norma culta. Assim,
+aquelas mesmas construções são alteradas para:
+Eu não a vi hoje.
+Ninguém o deixou falar.
+Deixe-me ver isso!
+Eu te amo, sim, mas não abuses!
+Não assisti ao filme nem vou assistir a ele.
+Sou seu pai, por isso vou perdoar-lhe.
+O momento neutro é o utilizado nos veículos de comunicação de massa (rádio, televisão, jornal,
+revista etc.). Daí o fato de não se admitirem deslizes ou transgressões da norma culta na escrita ou
+na fala de jornalistas, que, no exercício do trabalho, devem refletir serviço à causa do ensino.
+
+
+Momento solene é acessível a poucos, é o da arte poética, caracterizado por construções de rara
+beleza.
+
+
+ Vale lembrar que a língua é um costume. Como tal, qualquer
+ transgressão, ou chamado erro, deixa de sê-lo no exato
+ instante em que a maioria absoluta o comete, passando, assim,
+ a constituir fato linguístico, registro de linguagem definitivamente consagrado pelo uso,
+ ainda que não tenha amparo gramatical.
+
+
+ Alguns exemplos:
+ Olha eu aqui! (Substituiu: Olha-me aqui!)
+ Vamos nos reunir. (Substituiu: Vamo-nos reunir.)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           8
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+ Não vamos nos dispersar. (Substituiu: Não nos vamos dispersar e Não vamos dispersar-nos.)
+ Tenho que sair daqui depressinha. (Substituiu: Tenho de sair daqui bem depressa.)
+ O soldado está a postos. (Substituiu: O soldado está no seu posto.)
+
+
+ Têxtil, que significa rigorosamente que se pode tecer, em virtude do seu significado, não
+ poderia ser adjetivo associado a indústria, já que não existe indústria que se pode tecer. Hoje,
+ porém, temos não só a indústria têxtil como também o operário têxtil, em vez da indústria
+ de fibra têxtil e do operário da indústria de fibra têxtil.
+ As formas impeço, despeço e desimpeço, dos verbos impedir, despedir e desimpedir,
+ respectivamente, são exemplos também de transgressões ou “erros” que se tornaram fatos
+ linguísticos, já que só ocorrem hoje porque a maioria viu tais verbos como derivados de pedir,
+ que tem, início, na sua conjugação, com peço. Isso bastou para se “aposentarem” as formas
+ então legítimas impido, despido e desimpido, que hoje nenhuma pessoa bem-escolarizada
+ tem coragem de usar.
+
+ USO COLOQUIAL/POPULAR                                    USO CULTO
+
+ Pronúncia mais descuidada de certas Maior cuidado com a pronúncia: nós, vocês,
+ palavras e expressões: nóis, oceis, tá bão, está bom, não vou, não quer.
+ num vô, num qué
+
+ Não utilização das marcas de concordância.               Utilização das marcas de concordância entre
+ Ex.: Os menino vai bem.                                  verbo e sujeito.
+                                                          Ex.: Os meninos vão bem.
+
+ Uso constante de a gente no lugar de nós.                Uso regular da forma nós.
+
+ Mistura de pessoas gramaticais.                          Uniformidade no uso das pessoas gramaticais.
+ Ex.: Você sabe que te enganam.                           Ex.: Você sabe que o enganam. Tu sabes que te
+                                                          enganam.
+
+7 - A GÍRIA
+Ao contrário do que muitos pensam, a gíria não constitui um flagelo da linguagem. Quem, um dia, já
+não usou alguma das expressões bacana, maneiro, cara chato, um chega pra lá, mano? O mal maior
+da gíria está no seu uso como forma permanente de comunicação, desencadeando um processo não
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              9
+        www.estrategiaconcursos.com.br                                                                    36
+                                    
+
+
+---
+
+    Carlos Roberto Correa
+    Aula 11
+
+só de esquecimento, como de desprezo do vocabulário oficial. Usada no momento certo, porém, a
+gíria é um elemento de linguagem que denota expressividade e revela grande criatividade, desde
+que, naturalmente, adequada à mensagem, ao meio e ao receptor.
+Note, porém, que estamos falando em gíria, e não em calão, que é a linguagem caracterizada pelo
+uso de termos ou expressões obscenas ou grosseiras.
+Ainda que criativa e expressiva, a gíria só é admitida na língua falada. A língua escrita não a tolera,
+salvo se for na reprodução da fala de determinado meio ou época, com a visível intenção de
+documentar o fato, ou no contexto coloquial, na comunicação entre amigos, familiares, namorados
+etc., caracterizado pela linguagem informal.
+
+O PRECONCEITO LINGUÍSTICO
+
+Chamamos de preconceito linguístico a discriminação que resulta da realização de comparativos
+indevidos entre um modelo idealizado da língua falada com a maneira como as pessoas realmente
+se comunicam. Há um “padrão” que foi instituído do falar, quando um grupo foge ao padrão, sofre
+preconceito. Temos como exemplo quando se compara a forma de falar de diferentes regiões
+dentro de um mesmo país.
+Esse tipo de preconceito está ligado, também, à classe social ocupada pelos falantes. Ou seja,
+pessoas de poder aquisitivo mais elevado, podendo estudar mais e com melhores condições,
+tendem a exercer preconceito contra o modo de falar daqueles mais humildes.
+Outra forma muito comum de preconceito linguístico, porém menos difundida, ocorre entre países
+falantes da mesma língua, como Brasil e Portugal e Estados Unidos e Inglaterra. Não é raro ouvirmos
+que o inglês “de verdade” é o da Inglaterra. Há um forte preconceito nisso, valoriza-se o inglês
+britânico em detrimento do americano. As variações das línguas são incompreendidas por algumas
+pessoas, o que leva a atitudes preconceituosas.
+Segundo Marcus Bagno1, a discriminação com base no modo de falar dos indivíduos é encarada com
+muita naturalidade na sociedade brasileira. Os “erros” de português cometidos por analfabetos,
+semianalfabetos, pobres e excluídos são criticados pela elite, que “disputa” quem sabe mais a nossa
+língua. Segundo o pesquisador, o conhecimento da gramática normativa tem sido usado como um
+instrumento de distinção e de dominação pela população culta. “É que, de todos os instrumentos de
+controle e coerção social, a linguagem talvez seja o mais complexo e sutil”, afirma. “Para construir
+uma sociedade tolerante com as diferenças é preciso exigir que as diversidades nos
+comportamentos linguísticos sejam respeitadas e valorizadas”, defende.
+O preconceito na língua faz com que os indivíduos se sintam humilhados ou intimidados com a
+possibilidade de cometer um erro de português. “Como se o fato de saber a regência ‘correta’ do
+verbo implicar gerasse algum tipo de vantagem, de superioridade, de senha secreta para o ingresso
+
+
+1
+ Marcos Bagno é graduado em Letras, com doutorado em Filologia e Língua Portuguesa pela Universidade
+de São Paulo (USP) e mestrado em Letras pela Universidade Federal de Pernambuco (UFPE). É professor
+do Instituto de Letras (IL) da Universidade de Brasília (UnB)
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                        10
+          www.estrategiaconcursos.com.br                                                                  36
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+num círculo de privilegiados”, afirma o Bagno. Mas ele assegura que esse tal erro, que tanto
+aterroriza, na realidade, não existe. Na sua opinião, o que há são variedades do português, como
+aquele falado no interior pelo caipira ou aquele falado por alguém que estudou e mora na capital. O
+que mais importa para Bagno é o contexto de quem diz o quê, a quem, como e visando que efeito.
+E na sala de aula? Isso não significa que a norma culta deva ser desprezada nas escolas. Muito pelo
+contrário. Bagno acredita que esta deve ser a base do que é ensinado na cadeira de língua
+portuguesa. Mas é preciso entender essa norma como sendo a falada e escrita atualmente pela
+população culta do país e não aquela que só existe na gramática, mas ninguém usa.
+Vejamos agora os tipos de variações para entendermos a raiz do preconceito.
+
+8 - TIPOS DE VARIAÇÃO LINGUÍSTICA
+
+ A língua não é una (com N mesmo), ou seja, não é indivisível; ela pode ser considerada um conjunto
+de dialetos. Já ouvi dizer que em país algum se fala uma língua só. Isso é uma verdade. Há várias
+línguas dentro da língua oficial de um país. E, no Brasil, não é diferente. Cada região, cada grupo
+sociocultural tem seu falar. Pode-se até afirmar que cada cidadão tem o seu. A essa característica da
+Língua damos o nome de variação linguística.
+Qualquer cidadão, quando resolve emitir algumas palavras, faz isso não isoladamente. As frases ditas
+por cada um de nós não são construídas por nós próprios, mas sim por tudo o que nos fez tornar o
+que somos hoje: nossa família, a terra em que nascemos e/ou em que vivemos, as escolas em que
+estudamos (principalmente nas séries iniciais), as pessoas com as quais convivemos, os livros que
+lemos, os filmes a que assistimos, enfim, nossa maneira de falar é formada, não é criada. E é formada
+pouco a pouco. Aliás, nunca é totalmente acabada. Imagine o que acontece com um idoso que nunca
+aprendeu a ler nem a escrever ou como uma criança, quando ele ou ela entra em contato com as
+letras, seu mundo se transforma. Eles se apoderam de um conhecimento nunca antes imaginado.
+Passam a usar expressões desconhecidas até então e, no caso do idoso, ele se torna um cidadão de
+fato.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        11
+        www.estrategiaconcursos.com.br                                                                  36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+O mesmo acontece com os indivíduos que aprenderam a ler e a escrever, mas que não leem nem
+escrevem quase nunca. Se passarem a entrar em contato com o mundo das letras, por meio da
+leitura de romances, contos, textos filosóficos ou poesias, por exemplo, transformarão sua visão de
+mundo e passarão a ter um novo falar, uma vez que terão o que falar: aquilo que leram.
+
+ - Ôpa... Essa é minha deixa!!!
+ - Aqueles que ainda não o fazem precisam começar JÁ a assumir o hábito da leitura!
+
+
+A variação linguística mais evidente é a que corresponde ao lugar em que o cidadão nasceu ou no
+qual vive há bastante tempo. Há jeitos de pronunciar as palavras, há melodias frasais diferentes de
+região para região. A variação mais famosa do Brasil é o “s” chiante do carioca da gema.
+
+
+                    Um adendo: o adjetivo “chiante” não é depreciativo ao modo de falar do carioca,
+                      e sim um termo usado na fonologia – ou fonética – que representa um som
+                      cujo ponto de articulação é pré-palatal, como ocorre nas palavras chá e já. É
+                                         assim que o carioca pronuncia o “s”.
+                           E a locução “da gema”? Você sabe o significado dela? É o mesmo que
+sem mistura, genuíno, puro. Carioca da gema, portanto, é o cidadão nascido na cidade do Rio de
+Janeiro; não aquele que se mudou para lá e lá vive há muitos anos.
+Voltando à variação linguística: a mais famosa é o “s” chiante do carioca. É a mais famosa, mas não
+é a única.
+Outra bastante perceptível pelo visitante é o “r” retroflexo do londrinense quando pronuncia
+palavras como “porta, carne, certo” e do piracicabano quando pronuncia as mesmas palavras do
+londrinense e também as que têm “r” entre vogais: “cara, cera, tora”. Retroflexo significa “curvado
+para trás, flexionado para trás”. É o que acontece com a língua quando ocorre a pronúncia dessas
+palavras: a ponta dela é flexionada para trás, às vezes até exageradamente.
+Também o “l” (ele), na região de Pato Branco - PR, que é alveolar, mesmo antes de consoante e no
+final da palavra. Alveolar é o nome dado à consoante que, quando pronunciada, é articulada com a
+ponta da língua próxima ou em contato com os alvéolos dos dentes incisivos superiores. Na região
+de Pato Branco, pronuncia-se o “ele” de “alto” da mesma forma que o “ele” de “alô”.
+
+
+A essa variação, que corresponde ao lugar, dá-se o nome de variação diatópica ou geográfica.
+
+
+A palavra “diatópica” é formada pelos seguintes elementos:
+“dia-“, prefixo grego que significa “através de, por meio de, por causa de”;
+“topos”, radical grego que significa “lugar”;
+“-ico”, sufixo grego, que forma adjetivos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          12
+        www.estrategiaconcursos.com.br                                                                36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+A variação diatópica pode ocorrer, como vimos, com sons diferentes. Quando isso acontecer,
+dizemos que ocorreu uma variação diatópica fonética, já que fonética significa “aquilo que diz
+respeito aos sons da fala.
+A diferença, porém, pode não ser de som, mas sim de vocabulário, ou seja, de palavras diferentes
+em sua estrutura. Por exemplo, em Curitiba - PR, os jovens chamam de “penal” o estojo escolar para
+guardar canetas e lápis; no Nordeste, é comum usarem a palavra “cheiro” para representar um
+carinho feito em alguém; o que em outras regiões se chamaria de “beijinho”. Macaxeira, no Norte e
+no Nordeste, é a mandioca ou o aipim da região sudeste. Essa variação denominamos de variação
+diatópica lexical, já que lexical significa “relativo a vocabulário”.
+A diferença pode não ser de som nem de vocabulário. Pode estar na estrutura frasal, ou seja, na
+frase toda. Em algumas regiões brasileiras é comum a utilização do pronome “tu”. No Maranhão, no
+Espírito Santo e no Rio Grande do Sul, um cidadão diria o seguinte: “Tu já estudaste Química?”. Na
+maioria dos outros estados, o cidadão diria assim: “Você já estudou Química”? A essa variação
+chamamos de variação diatópica sintática, já que “sintático” significa “parte da gramática que estuda
+as palavras enquanto elementos de uma frase”.
+
+                           Variação geográfica ou diatópica
+          Trata das diferentes formas de pronúncia, vocabulário e estrutura sintática entre regiões. As
+diferenças linguísticas entre as regiões são graduais, nem sempre coincidindo com as fronteiras geográficas,
+ou seja, pessoas que moram em outras regiões têm formas diferentes de falar e cada região tem seu devido
+sotaque.
+
+
+Outra variação bastante evidente também é a que corresponde à camada social da qual o indivíduo
+faz parte. O falar de um cidadão é subordinado ao nível socioeconômico e cultural dele. Quanto mais
+estudo tiver, mais bem trabalhadas serão suas frases. Quanto mais livros ler, mais cultura terá.
+Quanto mais exemplos tiver de seus pais e professores, mais facilmente se comunicará com os
+demais.
+Essa variação, no Brasil, é facilmente identificada. Basta conversar com um cidadão humilde, com
+poucos anos de estudos, que já se perceberá uma linguagem diferente da habitual de outras classes
+sociais. Frases como “Naonde a gente podemos ponhar esse troço aqui?” ou como “Houveram
+menas percas” ou ainda “Estou meia cansada” não são ouvidas em um ambiente em que estejam
+pessoas com um grau de escolaridade maior. São frases comuns a quem não teve oportunidades
+para ascender a estratos sociais mais privilegiados.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               13
+        www.estrategiaconcursos.com.br                                                                         36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+A essa variação, que corresponde ao estrato social, à camada social e cultural do indivíduo, dá-se o
+nome de variação diastrática ou sociocultural.
+
+
+A palavra “diatrástica” é formada pelos seguintes elementos:
+“dia-“, prefixo grego que significa “através de, por meio de, por causa de”;
+“estrato”, radical latino que significa “camada”;
+“-ico”, sufixo grego, que forma adjetivos.
+
+
+A variação diastrática, como também ocorre com a diatópica, pode ser fonética, lexical e sintática,
+dependendo do que seja modificado pelo falar do indivíduo: falar “adevogado”, “pineu”, “bicicreta”,
+é variação diastrática fonética. Usar “presunto” no lugar de “corpo de pessoa assassinada” é variação
+diastrática lexical. E falar “Houveram menas percas” no lugar de “Houve menos perdas” é variação
+diastrática sintática.
+                                     Variação diastrática ou sociocultural
+
+
+                           Agrupa alguns fatores de diversidade: o nível socioeconômico, determinado pelo
+                           meio social onde vive um indivíduo; o grau de educação; a idade e o gênero. A
+            variação social não compromete a compreensão entre indivíduos, como poderia acontecer na
+           variação regional; o uso de certas variantes pode indicar qual o nível socioeconômico de uma
+pessoa, e há a possibilidade de alguém oriundo de um grupo menos favorecido atingir o padrão de maior
+prestígio.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            14
+        www.estrategiaconcursos.com.br                                                                      36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Atrelados à variedade sociocultural estão os conceitos de variedade culta padrão e variedade
+popular.
+
+VARIEDADE CULTA PADRÃO (VCP)
+
+É uma variedade linguística que se impôs na comunidade através de um ou mais grupos socialmente
+dominantes e tende à preservação da unidade em seu uso, dados os processos de codificação, em
+especial o código escrito, e de normalização por que passa. É o registro usado em situações de maior
+formalidade, como aulas, conferências, palestras (no uso oral), e como correspondência oficial,
+noticiário jornalístico, redação acadêmica (no uso escrito). Por ter a escola como uma das agências
+que a implementam, a VCP encontra-se legalmente institucionalizada e associada aos interesses do
+grupo ou grupos sociais dominantes. Entretanto, de caráter suprarregional e refletindo um índice de
+cultura e prestígio, a VCP serve a qualquer grupo social que a tome por variedade veicular em todos
+os contatos formais.
+Está claro então que a variedade padrão de qualquer língua, longe de possuir qualquer valor
+linguístico que a faça mais prestigiada do que as demais variedades, tem seu predomínio
+condicionado a fatores históricos e culturais que lhe renderam atributos ao longo de um processo
+institucional, determinado à sua imposição e legitimação.
+
+
+Características da variedade culta padrão:
+A VCP é caracterizada pela disciplina gramatical, o que resulta em significados mais delimitados, e
+maior incidência de termos técnicos. A variedade padrão ainda apresenta:
+a) organização gramatical (sintática) regulando os enunciados.
+b) uso frequente de preposições que indicam relações lógicas, como também as preposições
+indicando contextos espaciais e temporais.
+c) seleção discriminada de adjetivos e advérbios.
+d) ausência, quanto ao padrão escrito, de expressões idiomáticas, gírias e termos chulos.
+
+VARIEDADE POPULAR
+
+A variedade popular se caracteriza pelo relaxamento da disciplina gramatical, por um vocabulário
+restrito e usado amplamente nos mais variados sentidos. Contudo, cabe assinalar que a variedade
+popular, com farta utilização de expressões idiomáticas, é rica em metáforas e várias outras formas
+de colorir a expressão linguística, como a comparação, a ênfase, a atenuação e o eufemismo, muito
+frequentes em fórmulas de saudação e polidez, também expressões fáticas, insultos e provérbios.
+
+
+ Conceitos:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          15
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+ Expressão idiomática é aquela expressão ou frase que assume significado diferente do que
+ as palavras que a compõem teriam isoladamente. Elas retratam traços culturais de uma
+ determinada região ou país.
+ Exemplos:
+ acabar em pizza / acertar na mosca / agarrar com unhas e dentes / engolir sapo / cara de
+ pau / com uma mão na frente e outra atrás
+
+ Provérbios ou ditos populares são expressões de formato curto, simples e direto que
+ transmitem conhecimentos comuns sobre a vida, mas ligados a aspectos universais da vida.
+ Exemplos:
+ Água mole em pedra dura tanto bate até que fura.
+ Mais vale um pássaro na mão do que dois voando.
+ Quando um não quer dois não brigam.
+
+Características da variedade popular:
+a) sentenças curtas, gramaticalmente simples, muitas vezes incompletas, apresentando construção
+sintática deficiente e acentuado emprego da voz ativa.
+b) expressões formuladas como perguntas implícitas, que introduzem certa circularidade na fala
+(exemplo: “Não é mesmo?”, “Está vendo?” etc.).
+c) falta de uso, em muitas ocorrências de fala, das concordâncias nominal e verbal, estabelecidas
+pela gramática normativa.
+
+
+A última variação, não menos importante que as anteriores, é a que corresponde à licença que cada
+um de nós tem para falar e escrever o que bem entender da maneira que quiser.
+É a que permite um cidadão extremamente culto usar informalmente a expressão “Eu encontrei ele”
+no lugar de “Eu o encontrei”. É a linguagem informal, solta, às vezes até desleixada.
+Principalmente o jovem tem o hábito de usar essa variação. É bastante comum ouvirmos um “véio”,
+com o ‘e’ aberto, numa conversa entre adolescentes ou um “mano” na alta sociedade. É comum
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        16
+        www.estrategiaconcursos.com.br                                                              36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+também essa variação na linguagem caseira, em que pai, mãe e filhos não estão preocupados com
+a comunicação dentro da norma padrão, ou na linguagem descontraída de uma roda de amigos.
+Outra modalidade desta variação ocorre na Literatura, na qual o autor de poesias, contos, romances,
+novelas etc. tem a liberdade de cometer deslizes, de inventar palavras, de recriar estruturas
+sintáticas, enfim, tem liberdade para aplicar seu estilo em seus escritos. Isso tem até nome, chama-
+se licença poética ou liberdade poética.
+
+
+ Licença poética, segundo o dicionário Houaiss, é uma expressão que pode ser definida como a
+ “liberdade de o escritor utilizar construções, prosódias, ortografias, sintaxes não conformes às
+ regras, ao uso habitual, para atingir seus objetivos de expressão”. O que significa dizer que o
+ artista, ao utilizá-la, tem certa liberdade de expressar toda a sua criatividade, sem se prender
+ às normas gramaticais ou métricas. No trecho da música do compositor Arnaldo Antunes,
+ verificamos um exemplo dessa apropriação:
+ Seja eu!
+ Seja eu!
+ Deixa que eu seja eu
+ E aceita
+ O que seja seu
+ Então deita e aceita eu...
+ Molha eu!
+ Seca eu!
+ Deixa que eu seja o céu
+ E receba
+ O que seja seu
+ Anoiteça e amanheça eu...
+ Beija eu!
+ Beija eu!
+ Beija eu, me beija
+ Deixa
+ O que seja ser...
+
+
+A essa variação, que corresponde à liberdade de expressão, dá-se o nome de variação diafásica ou
+estilística.
+
+
+Essa palavra - diafásica - é formada pelos seguintes elementos:
+“dia-“, prefixo grego que significa “através de, por meio de, por causa de”;
+“phasys”, radical grego que significa “expressão”;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        17
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+“-ico”, sufixo grego, que forma adjetivos.
+
+
+A variação diafásica, como ocorreu com a diatópica e com a diastrática, pode ser também fonética,
+lexical e sintática, dependendo da liberdade de que o indivíduo tenha se apossado. Dizer “véio”, não
+porque more em determinado lugar nem porque todos de sua camada social dizem, é usar a variação
+diafásica fonética. Um padre, em um momento de descontração, brincando com alguém, dizer
+“presunto” para representar o “corpo de pessoa assassinada”, é usar a variação diafásica lexical. E,
+finalmente, um advogado dizer “Encontrei ele”, também num momento de descontração, no lugar
+de “Encontrei-o” é usar a variação diafásica sintática.
+
+                           Variação estilística ou diafásica
+        Considera um mesmo indivíduo em diferentes circunstâncias de comunicação: se está em um
+ambiente familiar, profissional, o grau de intimidade, o tipo de assunto tratado e quem são os receptores.
+Sem levar em conta as graduações intermediárias, é possível identificar dois limites extremos de estilo: o
+informal, quando há um mínimo de reflexão do indivíduo sobre as normas linguísticas, utilizado nas
+conversações imediatas do cotidiano; e o formal, em que o grau de reflexão é máximo, utilizado em
+conversações que não são do dia a dia e cujo conteúdo é mais elaborado e complexo. Não se deve confundir
+o estilo formal e informal com língua escrita e falada, pois os dois estilos ocorrem em ambas as formas de
+comunicação.
+
+
+As diferentes modalidades de variação linguística não existem isoladamente, há um inter-
+relacionamento entre elas: uma variante geográfica pode ser vista como uma variante social,
+considerando-se a migração entre regiões do país. Observa-se que o meio rural, por ser menos
+influenciado pelas mudanças da sociedade, preserva variantes antigas. O conhecimento do padrão
+de prestígio pode ser fator de mobilidade social para um indivíduo pertencente a uma classe menos
+favorecida.
+Diante de tantas variantes linguísticas, é inevitável perguntar qual delas é a correta. Resposta: não
+existe a mais correta em termos absolutos, mas sim, a mais adequada a cada contexto. Dessa
+maneira, fala bem aquele que se mostra capaz de escolher a variante adequada a cada situação e
+consegue o máximo de eficiência na comunicação dentro da variante escolhida.
+
+9 - APOSTA ESTRATÉGICA
+No assunto variação linguística, a grande aposta é na diferença entre linguagem formal/padrão
+culto e linguagem coloquial. O uso especifico dessas duas linguagens deve estar de acordo com a
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 18
+        www.estrategiaconcursos.com.br                                                                       36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+situação comunicativa em vários aspectos como quem são os interlocutores, em qual lugar a
+comunicação ocorre, qual é o assunto.
+Então relembre:
+
+
+Nível coloquial-popular: é a fala que a maioria das pessoas utiliza no seu dia a dia, principalmente em
+situações informais. Esse nível da fala é mais espontâneo. Ao utilizá-lo, não nos preocupamos em saber se
+falamos de acordo ou não com as regras formais estabelecidas pela língua.
+
+
+Nível formal-culto: é o nível da fala normalmente utilizado pelas pessoas em situações formais.
+Caracteriza-se por um cuidado maior com o vocabulário e pela obediência às regras gramaticais
+estabelecidas pela língua.
+
+10 - QUESTÕES-CHAVE DE REVISÃO
+                                               Variação linguística
+Questão 01
+A língua que falamos, seja qual for (português, inglês...), não é uma, são várias. Tanto que um dos mais
+eminentes gramáticos brasileiros, Evanildo Bechara, disse a respeito: “Todos temos de ser poliglotas em
+nossa própria língua”. Qualquer um sabe que não se deve falar em uma reunião de trabalho como se falaria
+em uma mesa de bar. A língua varia com, no mínimo, quatro parâmetros básicos: no tempo (daí o português
+medieval, renascentista, do século XIX, dos anos 1940, de hoje em dia); no espaço (português lusitano,
+brasileiro e mais: um português carioca, paulista, sulista, nordestino); segundo a escolaridade do falante
+(que resulta em duas variedades de língua: a escolarizada e a não escolarizada) e finalmente varia segundo
+a situação de comunicação, isto é, o local em que estamos, a pessoa com quem falamos e o motivo da nossa
+comunicação ― e, nesse caso, há, pelo menos, duas variedades de fala: formal e informal.
+A língua é como a roupa que vestimos: há um traje para cada ocasião. Há situações em que se deve usar
+traje social, outras em que o mais adequado é o casual, sem falar nas situações em que se usa maiô ou
+mesmo nada, quando se toma banho. Trata-se de normas indumentárias que pressupõem um uso “normal”.
+Não é proibido ir à praia de terno, mas não é normal, pois causa estranheza.
+A língua funciona do mesmo modo: há uma norma para entrevistas de emprego, audiências judiciais; e outra
+para a comunicação em compras no supermercado. A norma culta é o padrão de linguagem que se deve
+usar em situações formais.
+A questão é a seguinte: devemos usar a norma culta em todas as situações? Evidentemente que não, sob
+pena de parecermos pedantes. Dizer “nós fôramos” em vez de “a gente tinha ido” em uma conversa de
+botequim é como ir de terno à praia. E quanto a corrigir quem fala errado? É claro que os pais devem ensinar
+seus filhos a se expressar corretamente, e o professor deve corrigir o aluno, mas será que temos o direito de
+advertir o balconista que nos cobra “dois real” pelo cafezinho?
+                           Língua Portuguesa. Internet: <www.revistalingua.uol.com.br> (com adaptações).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                19
+        www.estrategiaconcursos.com.br                                                                          36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+ Depreende-se do texto que a língua falada não é uma, mas são várias porque, a depender da situação, o
+falante pode se expressar com maior ou menor formalidade.
+
+
+                                               Variação linguística
+
+Questão 02
+É verdade que quase todo mundo tem suas preferências, detesta algumas construções, prefere a pronúncia
+de alguma região, etc. Mas o linguista precisa manter uma atitude científica, com atenção constante às
+realidades da língua e total respeito por elas. Se ele verifica que as pessoas dizem frases como “Se você ver
+ela, fala com ela pra me telefonar”, precisa reconhecer essa construção como legítima na língua. Por outro
+lado, em um texto escrito, ele provavelmente encontraria outra frase, que igualmente precisa ser
+reconhecida. As duas coexistem, cada qual no seu contexto. O linguista, cientista da linguagem, observa a
+língua como ela é, não como algumas pessoas acham que ela deveria ser. Condenar uma construção ou
+uma palavra ocorrente como incorreta é mais ou menos como decretar que é “errado” que aconteçam
+terremotos. Eles acontecem, e um cientista não tem remédio senão reconhecer os fatos. O objetivo dos
+linguistas é descrever e explicar, e não, prescrever formas certas e proibir formas erradas. Para nós, “certo”
+é aquilo que ocorre na língua.
+      Mário A. Perini. Gramática do português brasileiro. São Paulo: Parábola Editorial, 2010, p. 20-1 (com
+                                                                                              adaptações).
+De acordo com o texto, em uma análise científica de construções linguísticas, deve ser considerada a
+adequação à situação em que tais construções foram empregadas.
+
+                                               Variação linguística
+Questão 03
+
+Com relação aos aspectos linguísticos desse texto, julgue o item a seguir.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 20
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+As formas ‘Xô’ e ‘Vâmu’, na linha 5, são marcas de oralidade e reproduzem a informalidade da fala do
+condutor do carro de boi.
+
+                                               Variação linguística
+Questão 04
+
+Com relação à variação linguística, aos fatores de textualidade e aos aspectos linguísticos do texto, julgue o
+item a seguir.
+A regência do verbo preferir observada no quarto período do texto é típica da variedade culta do português
+europeu, sendo pouco frequente na variedade brasileira do português, principalmente em textos informais.
+
+                                               Variação linguística
+Questão 05
+
+                                                  Internet:<www.jornaldosamigos.com.br> (com adaptações).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 21
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Comunicação Social - Conforme o texto,
+A - a atitude e a fala de Rui Barbosa denotam que ele era uma pessoa esnobe e enigmática.
+B - a linguagem do texto é rebuscada e, portanto, própria para homens letrados e operadores do direito.
+C - a intenção de Rui Barbosa ao proferir seu discurso era repreender o ladrão para evitar zombaria por causa
+de seus dogmas religiosos.
+D - por ser conhecedor do direito, Rui Barbosa usou um discurso de poder de matiz ideológico para
+convencer o ladrão.
+E - o ladrão desconhecia a modalidade formal da língua portuguesa.
+
+                                                Variação linguística
+Questão 06
+Ainda sobre o texto da questão anterior
+No texto, predomina a linguagem
+A - informal.
+B - coloquial.
+C - popular.
+D - figurada.
+E - formal.
+
+                                                Variação linguística
+Questão 07
+No modesto apartamento em que mora na rua Conde de Bonfim, Graciliano Ramos mostrou-me alguns
+originais dos seus trabalhos. Via de regra, escreve em papel sem pautas, de um só golpe, ao calor da
+composição. A forma definitiva vem depois. Emenda muito. E até mesmo quando passa a limpo, com sua
+letra explicativa de escrevente de cartório, corta muita coisa, tudo o que depois vai achando ruim. Às vezes
+risca linhas inteiras. As palavras morrem sob o traço forte de tinta de uma igualdade assombrosa, como
+feito à régua.
+Graciliano guarda os originais dos livros já publicados. Assim pude verificar um curioso detalhe da feitura de
+Vidas Secas. Os capítulos, datados, indicaram-me a ausência de seguimento na elaboração da narrativa.
+“Baleia”, o nono capítulo, foi o primeiro a ser escrito, em 4 de maio de 1937. Um mês e pouco depois,
+precisamente no dia 18 de 16 junho, escreveu o quarto capítulo, “Sinha Vitória”. E assim todo o livro, que
+não obedeceu a nenhum plano antecipado.
+— Escrevi a história de um cachorro de meu avô — conta o romancista, cigarro Selma com ponta de cortiça
+entre os dedos queimados de fumo. — Os episódios foram-se amontoando. O livro foi crescendo. E assim
+arrumei Vidas Secas, que pensei em chamar “O mundo coberto de penas”, título de um dos capítulos do
+livro.
+A vida de Graciliano Ramos está sempre presente na sua obra, no que ela tem de mais humano e doloroso.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                22
+         www.estrategiaconcursos.com.br                                                                          36
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+— Caetés é uma história de Palmeira dos Índios. São Bernardo se passa em Viçosa. Angústia tem um pouco
+do Rio, um pouco de Maceió e muito de mim mesmo. Vidas Secas são cenas da vida de Buíque
+[Pernambuco].
+Todos esses romances exigiram do autor um longo e penoso trabalho de composição.
+— Não sou como José Américo — disse —, que primeiro escreve na cabeça e depois transporta o livro para
+o papel. A obra de criação, para mim, é quase sempre imprevista. E espontânea. Refaço tudo, depois.
+Escrever dá muito trabalho. A gente muitas vezes não sabe o que vai fazer. Sai tudo diverso do que se
+imaginou.
+     Francisco de Assis Barbosa. Graciliano Ramos, aos cinquenta anos. Reportagem biográfica. In: jornal
+  Diretrizes, Rio de Janeiro: Fundação Biblioteca Nacional RJ, 1942. Apud: Ieda Lebensztayn e Thiago Mio
+               Salla (Orgs.). Conversas – Graciliano Ramos. 3.ª ed. Rio de Janeiro: Record, 2014, p. 119 - 20.
+
+
+Embora contenha trechos de fala, o texto está isento de coloquialismo.
+
+                                               Variação linguística
+Questão 08
+Assinale a alternativa que reproduz um trecho que serve como exemplo de variante linguística popular e
+regional.
+A. O velho Antônio Batista tinha para obra de setenta janeiros nos couros.
+B. Até de S. Luís do Maranhão vinha gente para ele fazer trabalhos.
+C. Maria Piribido não conhecia pessoalmente o velho Antônio Cabeça-Branca.
+D. Veio ao mundo com aquela sorte, aquele destino, aquele dom.
+E. Com a sorte, o destino e o dom de responsar Santo Antônio e encontrar objetos roubados e perdidos.
+
+                                               Variação linguística
+Questão 09
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 23
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+                                                       ==219a34==
+
+Um dos efeitos de humor da charge reside no fato de as personagens entenderem “ROÇONA” e “ROCINHA”
+como
+(A) palavras sinônimas derivadas de “roça”.
+(B) aumentativo e diminutivo de “roça”, respectivamente.
+(C) áreas urbanas onde se trabalha pouco.
+(D) áreas rurais cuidadas pelo Exército.
+(E) substantivos próprios relativos a logradouro.
+
+                                               Variação linguística
+Questão 10
+Uma ideia simples
+Elio Gaspari, Folha de São Paulo, 27/8/2014
+Todos os candidatos prometem crescimento e austeridade. Entre os chavões mais batidos vem sempre a
+reforma tributária, tema complexo, chato mesmo, acaba sempre em parolagem. Promete-se a
+simplificação das leis que regulam os tributos, e a cada ano eles ficam mais complicados. Uma coletânea da
+legislação brasileira pesa seis toneladas. Aqui vai uma contribuição, que foi trazida pelo Instituto Endeavor.
+Relaciona-se com o regime de cobrança de impostos de pequenas empresas, aquelas que faturam até R$
+3,6 milhões por ano (R$ 300 mil por mês). É o Simples – pode-se estimar que ele facilita a vida de algo como
+3 milhões de empresas ativas.
+
+
+Sobre a variedade de linguagem mostrada no texto acima, afirma-se corretamente que ela pertence à
+linguagem:
+(A) formal, com exemplos de coloquialismo;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 24
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+(B) informal, com inserções de gíria;
+(C) regional, com traços de formalidade;
+(D) popular, com falhas gramaticais;
+(E) culta, com marcas de erudição
+
+11 – LISTA DE QUESTÕES COMENTADAS
+                                               Variação linguística
+Questão 01
+A língua que falamos, seja qual for (português, inglês...), não é uma, são várias. Tanto que um dos mais
+eminentes gramáticos brasileiros, Evanildo Bechara, disse a respeito: “Todos temos de ser poliglotas em
+nossa própria língua”. Qualquer um sabe que não se deve falar em uma reunião de trabalho como se falaria
+em uma mesa de bar. A língua varia com, no mínimo, quatro parâmetros básicos: no tempo (daí o português
+medieval, renascentista, do século XIX, dos anos 1940, de hoje em dia); no espaço (português lusitano,
+brasileiro e mais: um português carioca, paulista, sulista, nordestino); segundo a escolaridade do falante
+(que resulta em duas variedades de língua: a escolarizada e a não escolarizada) e finalmente varia segundo
+a situação de comunicação, isto é, o local em que estamos, a pessoa com quem falamos e o motivo da nossa
+comunicação ― e, nesse caso, há, pelo menos, duas variedades de fala: formal e informal.
+A língua é como a roupa que vestimos: há um traje para cada ocasião. Há situações em que se deve usar
+traje social, outras em que o mais adequado é o casual, sem falar nas situações em que se usa maiô ou
+mesmo nada, quando se toma banho. Trata-se de normas indumentárias que pressupõem um uso “normal”.
+Não é proibido ir à praia de terno, mas não é normal, pois causa estranheza.
+A língua funciona do mesmo modo: há uma norma para entrevistas de emprego, audiências judiciais; e outra
+para a comunicação em compras no supermercado. A norma culta é o padrão de linguagem que se deve
+usar em situações formais.
+A questão é a seguinte: devemos usar a norma culta em todas as situações? Evidentemente que não, sob
+pena de parecermos pedantes. Dizer “nós fôramos” em vez de “a gente tinha ido” em uma conversa de
+botequim é como ir de terno à praia. E quanto a corrigir quem fala errado? É claro que os pais devem ensinar
+seus filhos a se expressar corretamente, e o professor deve corrigir o aluno, mas será que temos o direito de
+advertir o balconista que nos cobra “dois real” pelo cafezinho?
+                           Língua Portuguesa. Internet: <www.revistalingua.uol.com.br> (com adaptações).
+
+
+ Depreende-se do texto que a língua falada não é uma, mas são várias porque, a depender da situação, o
+falante pode se expressar com maior ou menor formalidade.
+
+
+Comentário: depreender do texto é o mesmo que entender a partir dele. Sendo assim, o que se depreende
+do texto é exatamente o que afirma a assertiva: a língua falada não é uma, mas são várias porque, a
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                25
+        www.estrategiaconcursos.com.br                                                                          36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+depender da situação, o falante pode se expressar com maior ou menor formalidade. Comprova-se isso no
+seguinte trecho das linhas 4 e 5, entre outros: “Todos temos de ser poliglotas em nossa própria língua”.
+GABARITO: CERTO
+
+
+                                               Variação linguística
+
+Questão 02
+É verdade que quase todo mundo tem suas preferências, detesta algumas construções, prefere a pronúncia
+de alguma região, etc. Mas o linguista precisa manter uma atitude científica, com atenção constante às
+realidades da língua e total respeito por elas. Se ele verifica que as pessoas dizem frases como “Se você ver
+ela, fala com ela pra me telefonar”, precisa reconhecer essa construção como legítima na língua. Por outro
+lado, em um texto escrito, ele provavelmente encontraria outra frase, que igualmente precisa ser
+reconhecida. As duas coexistem, cada qual no seu contexto. O linguista, cientista da linguagem, observa a
+língua como ela é, não como algumas pessoas acham que ela deveria ser. Condenar uma construção ou
+uma palavra ocorrente como incorreta é mais ou menos como decretar que é “errado” que aconteçam
+terremotos. Eles acontecem, e um cientista não tem remédio senão reconhecer os fatos. O objetivo dos
+linguistas é descrever e explicar, e não, prescrever formas certas e proibir formas erradas. Para nós, “certo”
+é aquilo que ocorre na língua.
+      Mário A. Perini. Gramática do português brasileiro. São Paulo: Parábola Editorial, 2010, p. 20-1 (com
+                                                                                              adaptações).
+De acordo com o texto, em uma análise científica de construções linguísticas, deve ser considerada a
+adequação à situação em que tais construções foram empregadas.
+
+
+Comentário: o que afirma a questão está absolutamente certo e reforça o que estamos estudando no
+momento. Cada situação de uso, cada contexto, “merece” a forma de linguagem mais adequada. Em
+situações informais, a forma coloquial “se você ver ela” pode ser aceitável, pois é reconhecida como
+uso legítimo da língua, assim como também é legítima a reescrita formal: Caso a veja.
+GABARITO: CERTO
+
+                                               Variação linguística
+Questão 03
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 26
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Com relação aos aspectos linguísticos desse texto, julgue o item a seguir.
+As formas ‘Xô’ e ‘Vâmu’, na linha 5, são marcas de oralidade e reproduzem a informalidade da fala do
+condutor do carro de boi.
+Comentário: as formas em análise são de fato marcas de oralidade, que são as tentativas de reprodução da
+forma como as pessoas falam em um texto escrito. Foi exatamente o que ocorreu no texto. O autor
+representa a fala do personagem. Além disso, verificamos no texto que é um registro informal da língua
+portuguesa, pois não se preocupa com as normas gramaticais.
+GABARITO: CERTO
+
+                                               Variação linguística
+Questão 04
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           27
+        www.estrategiaconcursos.com.br                                                                     36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Com relação à variação linguística, aos fatores de textualidade e aos aspectos linguísticos do texto, julgue o
+item a seguir.
+A regência do verbo preferir observada no quarto período do texto é típica da variedade culta do português
+europeu, sendo pouco frequente na variedade brasileira do português, principalmente em textos informais.
+
+
+Comentário: a afirmativa contém mais de um erro. Na linha 6, o verbo "preferir" veio acompanhado de "do
+que". Esse é não é o esperado pela normativa da Língua Portuguesa, pois a regência do verbo é a seguinte:
+prefere-se algo a alguma coisa. A construção encontrada no texto é frequente no Brasil em situações
+informais, porém não é aceita como correta na norma gramatical (em nenhum país lusófono, quanto mais
+em Portugal).
+GABARITO: ERRADO
+
+                                               Variação linguística
+Questão 05
+
+                                                  Internet:<www.jornaldosamigos.com.br> (com adaptações).
+
+
+Comunicação Social - Conforme o texto,
+A - a atitude e a fala de Rui Barbosa denotam que ele era uma pessoa esnobe e enigmática.
+B - a linguagem do texto é rebuscada e, portanto, própria para homens letrados e operadores do direito.
+C - a intenção de Rui Barbosa ao proferir seu discurso era repreender o ladrão para evitar zombaria por causa
+de seus dogmas religiosos.
+D - por ser conhecedor do direito, Rui Barbosa usou um discurso de poder de matiz ideológico para
+convencer o ladrão.
+E - o ladrão desconhecia a modalidade formal da língua portuguesa.
+
+
+Comentário: vamos analisar as alternativas.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 28
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+A - ERRADA - a atitude e a fala de Rui Barbosa denotam que ele era uma pessoa esnobe e enigmática.
+Não podemos dizer que Rui Barbosa era esnobe porque usava uma variação culta e rebuscada da fala.
+B - ERRADA - a linguagem do texto é rebuscada e, portanto, própria para homens letrados e operadores do
+direito.
+De fato, os homens letrados costumam ter uma linguagem mais rebuscada, mas nem sempre. Isso também
+se pode dizer dos operadores de direito.
+C - ERRADA- a intenção de Rui Barbosa ao proferir seu discurso era repreender o ladrão para evitar zombaria
+por causa de seus dogmas religiosos.
+A intenção de Rui Barbosa certamente era a de evitar o roubo, não de evitar zombaria por causa de seus
+dogmas religiosos.
+D - ERRADA - por ser conhecedor do direito, Rui Barbosa usou um discurso de poder de matiz ideológico
+para convencer o ladrão.
+O que parece é que cada um (Rui e o ladrão) possui um conhecimento e uso da linguagem. Ambos a utilizam
+da maneira como conhecem. É fato que algumas pessoas utilizam uma linguagem rebuscada para reforçar
+discurso de poder, mas não parece o caso.
+E - CERTO - o ladrão desconhecia a modalidade formal da língua portuguesa.
+Trata-se de um texto com características de anedota. Há humor no fato da não comunicação entre Rui e o
+ladrão por não compartilharem da mesma variação da fala.
+GABARITO: E
+
+                                                Variação linguística
+Questão 06
+Ainda sobre o texto da questão anterior
+No texto, predomina a linguagem
+A - informal.
+B - coloquial.
+C - popular.
+D - figurada.
+E - formal.
+
+
+Comentário: apenas na última frase do texto tem-se linguagem informal, coloquial. A predominâncias é de
+formalidade do uso da língua, que quer dizer que são respeitadas as normas gramaticais.
+GABARITO: E
+
+                                                Variação linguística
+Questão 07
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                             29
+         www.estrategiaconcursos.com.br                                                                       36
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+No modesto apartamento em que mora na rua Conde de Bonfim, Graciliano Ramos mostrou-me alguns
+originais dos seus trabalhos. Via de regra, escreve em papel sem pautas, de um só golpe, ao calor da
+composição. A forma definitiva vem depois. Emenda muito. E até mesmo quando passa a limpo, com sua
+letra explicativa de escrevente de cartório, corta muita coisa, tudo o que depois vai achando ruim. Às vezes
+risca linhas inteiras. As palavras morrem sob o traço forte de tinta de uma igualdade assombrosa, como
+feito à régua.
+Graciliano guarda os originais dos livros já publicados. Assim pude verificar um curioso detalhe da feitura de
+Vidas Secas. Os capítulos, datados, indicaram-me a ausência de seguimento na elaboração da narrativa.
+“Baleia”, o nono capítulo, foi o primeiro a ser escrito, em 4 de maio de 1937. Um mês e pouco depois,
+precisamente no dia 18 de 16 junho, escreveu o quarto capítulo, “Sinha Vitória”. E assim todo o livro, que
+não obedeceu a nenhum plano antecipado.
+— Escrevi a história de um cachorro de meu avô — conta o romancista, cigarro Selma com ponta de cortiça
+entre os dedos queimados de fumo. — Os episódios foram-se amontoando. O livro foi crescendo. E assim
+arrumei Vidas Secas, que pensei em chamar “O mundo coberto de penas”, título de um dos capítulos do
+livro.
+A vida de Graciliano Ramos está sempre presente na sua obra, no que ela tem de mais humano e doloroso.
+— Caetés é uma história de Palmeira dos Índios. São Bernardo se passa em Viçosa. Angústia tem um pouco
+do Rio, um pouco de Maceió e muito de mim mesmo. Vidas Secas são cenas da vida de Buíque
+[Pernambuco].
+Todos esses romances exigiram do autor um longo e penoso trabalho de composição.
+— Não sou como José Américo — disse —, que primeiro escreve na cabeça e depois transporta o livro para
+o papel. A obra de criação, para mim, é quase sempre imprevista. E espontânea. Refaço tudo, depois.
+Escrever dá muito trabalho. A gente muitas vezes não sabe o que vai fazer. Sai tudo diverso do que se
+imaginou.
+      Francisco de Assis Barbosa. Graciliano Ramos, aos cinquenta anos. Reportagem biográfica. In: jornal
+   Diretrizes, Rio de Janeiro: Fundação Biblioteca Nacional RJ, 1942. Apud: Ieda Lebensztayn e Thiago Mio
+                Salla (Orgs.). Conversas – Graciliano Ramos. 3.ª ed. Rio de Janeiro: Record, 2014, p. 119 - 20.
+
+
+Embora contenha trechos de fala, o texto está isento de coloquialismo.
+
+
+Comentário: há erro em afirmar que não há coloquialismo no texto. Exemplos de coloquialismos no texto:
+“de um só golpe”, “dá muito trabalho”, “a gente”, “amontoado”...
+GABARITO: ERRADO
+
+                                               Variação linguística
+Questão 08
+Assinale a alternativa que reproduz um trecho que serve como exemplo de variante linguística popular e
+regional.
+A. O velho Antônio Batista tinha para obra de setenta janeiros nos couros.
+B. Até de S. Luís do Maranhão vinha gente para ele fazer trabalhos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  30
+        www.estrategiaconcursos.com.br                                                                            36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+C. Maria Piribido não conhecia pessoalmente o velho Antônio Cabeça-Branca.
+D. Veio ao mundo com aquela sorte, aquele destino, aquele dom.
+E. Com a sorte, o destino e o dom de responsar Santo Antônio e encontrar objetos roubados e perdidos.
+
+
+Comentário: a alternativa A traz variação popular e regional ao dizer que “O velho Antônio Batista tinha
+para obra de setenta janeiros nos couros”. É de uso popular o costume de substituir a quantidade de "anos"
+da idade por "janeiros". Nos "couros" indica “na pele”, ou seja, no corpo ficando velho.
+Gabarito: A
+
+                                               Variação linguística
+Questão 09
+
+Um dos efeitos de humor da charge reside no fato de as personagens entenderem “ROÇONA” e “ROCINHA”
+como
+(A) palavras sinônimas derivadas de “roça”.
+(B) aumentativo e diminutivo de “roça”, respectivamente.
+(C) áreas urbanas onde se trabalha pouco.
+(D) áreas rurais cuidadas pelo Exército.
+(E) substantivos próprios relativos a logradouro.
+
+
+Comentário: o humor está no fato de que os personagens não entenderam que o Exército foi chamado para
+a favela da Rocinha, não para capinar uma roça pequena! Os personagens usam uma variação da língua que
+chamamos de “caipira” ou “caipirês”, comum a áreas geográficas mais afastadas, fato que podemos
+perceber pelo uso de “carpimo” ao invés de “capinamos”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 31
+        www.estrategiaconcursos.com.br                                                                       36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Pela falta de conhecimento de mundo, os personagens entendem apenas que “rocinha” é diminutivo de
+roça, não reconhecem o substantivo próprio que nomeia a favela.
+Gramaticalmente: Rocinha (roça pequena) e Rocinha (favela) são palavras homônimas perfeitas, são
+grafadas e pronunciadas da mesma maneira, mas possuem significados completamente diferentes,
+distinguíveis pelo contexto.
+GABARITO: B
+
+                                               Variação linguística
+Questão 10
+Uma ideia simples
+Elio Gaspari, Folha de São Paulo, 27/8/2014
+Todos os candidatos prometem crescimento e austeridade. Entre os chavões mais batidos vem sempre a
+reforma tributária, tema complexo, chato mesmo, acaba sempre em parolagem. Promete-se a
+simplificação das leis que regulam os tributos, e a cada ano eles ficam mais complicados. Uma coletânea da
+legislação brasileira pesa seis toneladas. Aqui vai uma contribuição, que foi trazida pelo Instituto Endeavor.
+Relaciona-se com o regime de cobrança de impostos de pequenas empresas, aquelas que faturam até R$
+3,6 milhões por ano (R$ 300 mil por mês). É o Simples – pode-se estimar que ele facilita a vida de algo como
+3 milhões de empresas ativas.
+
+
+Sobre a variedade de linguagem mostrada no texto acima, afirma-se corretamente que ela pertence à
+linguagem:
+(A) formal, com exemplos de coloquialismo;
+(B) informal, com inserções de gíria;
+(C) regional, com traços de formalidade;
+(D) popular, com falhas gramaticais;
+(E) culta, com marcas de erudição
+
+
+Comentário: por ter sido publicado em um jornal, a linguagem é formal, mas, para aproximar o leitor do
+texto, o autor usou de coloquialismos (termos informais usados principalmente na fala), como o “batidos”
+no seguinte trecho: “Entre os chavões mais batidos vem sempre a reforma tributária”. Outro exemplo de
+coloquialismo no texto é “chato mesmo”.
+GABARITO: A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 32
+        www.estrategiaconcursos.com.br                                                                           36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+12 - REVISÃO ESTRATÉGICA
+
+12.1 - PERGUNTAS
+
+1. Quais são as diferenças entre língua falada e língua escrita?
+2. Quais são os níveis de fala?
+3. Quais são as diferenças essenciais dos níveis de fala?
+4. Como fica a questão do erro no uso da língua?
+5. O que é preconceito linguístico?
+6. Quais são os fatores que podem fazer variar a fala?
+7. Diferencie momento neutro de momento neutro de momento íntimo.
+8. O que é o momento solene?
+9. O que diz Marcos Bagno, linguista, sobre o uso de gírias e a discriminação com base no modo
+de falar do indivíduo?
+10. Quais são os tipos de variação linguística?
+
+12.2 - PERGUNTAS COM RESPOSTAS
+
+1. Quais são as diferenças entre língua falada e língua escrita?
+A língua falada é mais espontânea, abrange a comunicação linguística em toda sua totalidade, já que
+pode ser permeada por expressões faciais, gestos, alterações no tom de voz etc. A língua escrita não
+é apenas a representação da língua falada, mas sim um sistema mais disciplinado e rígido, uma vez
+que não conta com o jogo fisionômico, as mímicas e o tom de voz do falante.
+2. Quais são os níveis de fala?
+Nível coloquial-popular e nível forma-culto.
+3. Quais são as diferenças essenciais dos níveis de fala?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       33
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+4. Como fica a questão do erro no uso da língua?
+Em rigor, ninguém comete erro em língua, exceto nos casos de ortografia. O que normalmente se
+comete são transgressões da norma culta.
+5. O que é preconceito linguístico?
+Chamamos de preconceito linguístico a discriminação que resulta da realização de comparativos
+indevidos entre um modelo idealizado da língua falada com a maneira como as pessoas realmente
+se comunicam. Há um “padrão” que foi instituído do falar, quando um grupo foge ao padrão, sofre
+preconceito. Temos como exemplo quando se compara a forma de falar de diferentes regiões
+dentro de um mesmo país.
+
+
+6. Quais são os fatores que podem fazer variar a fala?
+Para responder, vou propor um mapa mental simples para que vocês possam visualizar e guardar
+quais são os fatores de variação:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                  34
+        www.estrategiaconcursos.com.br                                                            36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+7. Diferencie momento neutro de momento neutro de momento íntimo.
+Momento íntimo é o das liberdades da fala. Em casa, na conversa entre amigos, parentes,
+namorados etc., são consideradas perfeitamente normais construções do tipo. Momento neutro é
+o do uso da língua-padrão, que é a língua da Nação. Como forma de respeito, tomam-se por base
+aqui as normas estabelecidas na gramática, ou seja, a norma culta.
+
+
+8. O que é o momento solene?
+Momento solene é acessível a poucos, é o da arte poética, caracterizado por construções de rara
+beleza. Há o uso da “licença poética” nesse momento.
+
+
+9. O que diz Marcos Bagno, linguista, sobre o uso de gírias e a discriminação com base no modo
+de falar do indivíduo?
+Segundo Marcus Bagno, A discriminação com base no modo de falar dos indivíduos é encarada com
+muita naturalidade na sociedade brasileira. Os “erros” de português cometidos por analfabetos,
+semianalfabetos, pobres e excluídos são criticados pela elite, que “disputa” quem sabe mais a nossa
+língua. Segundo o pesquisador, o conhecimento da gramática normativa tem sido usado como um
+instrumento de distinção e de dominação pela população culta. “É que, de todos os instrumentos de
+controle e coerção social, a linguagem talvez seja o mais complexo e sutil”, afirma. “Para construir
+uma sociedade tolerante com as diferenças é preciso exigir que as diversidades nos
+comportamentos linguísticos sejam respeitadas e valorizadas”, defende.
+10. Quais são os tipos de variação linguística?
+Variação diatópica ou geográfica, variação diastrática ou sociocultural e variação diafásica ou
+estilística.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       35
+        www.estrategiaconcursos.com.br                                                                 36
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 11
+
+Servidores, chegamos ao final de mais uma aula. Façam uma boa revisão dos conceitos vistos hoje
+para gabaritarem as provas de Língua Portuguesa.
+Na próxima aula, continuaremos avançando gradativamente, de modo a visitar cada tópico cobrado
+pela banca examinadora. Estejam atentos aos percentuais estatísticos de cobrança para
+direcionarem seus estudos, ok?
+Forte abraço!
+Prof. Carlos Roberto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                  36
+        www.estrategiaconcursos.com.br                                                            36
+                                    
+
+
+---
+
+---

@@ -1,0 +1,101 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+TABELA-VERDADE DO “E”
+
+
+
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “e”
+      Conjunção (  )
+
+
+
+                                                        V         V
+                        E, MAS                          V         F
+                                                        F         V
+                                                        F         F
+
+
+
+
+TABELA-VERDADE DO “E”
+Prof. Brunno Lima
+
+
+
+
+                                 https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “e”
+         Exemplo:
+
+
+
+         A: Vitória é a capital do Espírito Santo e Belém é a capital do Pará.
+
+
+
+
+TABELA-VERDADE DO “E”
+Prof. Brunno Lima
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+         Tabela-verdade do “e”
+    P Q PQ                                        Exemplos:
+    V       V               Vitória é capital do ES e Belém é capital do PA.
+
+
+    V       F             Vitória é capital do ES e Belém não é capital do PA.
+
+     F      V             Vitória não é capital do ES e Belém é capital do PA.
+
+
+     F      F           Vitória não é capital do ES e Belém não é capital do PA.
+
+
+TABELA-VERDADE DO “E”
+Prof. Brunno Lima
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+         Tabela-verdade do “e”
+         Determine o valor lógico da proposição:
+         P: 2 é par e 3 é ímpar e Brasília é capital do Brasil e a palavra chave
+         apresenta duas vogais e 4 é primo e no Brasil não haverá penas de morte,
+         salvo em caso de guerra declarada.
+
+
+
+
+TABELA-VERDADE DO “E”
+Prof. Brunno Lima
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

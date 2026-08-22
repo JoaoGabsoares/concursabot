@@ -1,0 +1,172 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: '✓ Contribuição do Empregador Rural Pessoa Física:'
+artigos_citados:
+- art. 195
+---
+
+# ✓ Contribuição do Empregador Rural Pessoa Física:
+
+RESUMO DA AULA
+
+✓ Contribuição do Empregador Rural Pessoa Física:
+
+
+✓ Não recolhe contribuição patronal em relação a seus empregados e trabalhadores
+  avulsos;
+
+       •   Em substituição a estas contribuições patronais, deverá recolher 1,3% sobre
+           a Receita Bruta da Comercialização de sua Produção Rural dentro do
+           respectivo mês.
+
+✓ Contribuição do Produtor Rural Pessoa Jurídica:
+
+
+       •   Não recolhe contribuição patronal em relação a seus empregados e
+           trabalhadores avulsos;
+
+       •   Em substituição a estas contribuições patronais, deverá recolher 1,8% (1,7%
+           + 0,1%) sobre a Receita Bruta da Comercialização de sua Produção Rural
+           dentro do respectivo mês.
+
+✓ Contribuição da Agroindústria:
+
+
+       •   Não recolhe contribuição patronal em relação a seus empregados e
+           trabalhadores avulsos;
+
+       •   Em substituição a estas contribuições patronais, deverá recolher 2,6% (2,5%
+           + 0,1%) sobre a Receita Bruta da Comercialização de sua Produção Rural
+           dentro do respectivo mês.
+
+                     
+
+
+---
+
+✓ Contribuição da Associação Desportiva que mantém Equipe de Futebol Profissional:
+
+
+       •   Não recolhe contribuição patronal em relação a seus empregados e
+           trabalhadores avulsos;
+
+       •   Em substituição a estas contribuições patronais, deverá recolher 5% da
+           Receita Bruta sobre:
+
+           o Espetáculos desportivos de que participem no território nacional;
+           o Patrocínio;
+           o Publicidade;
+           o Propaganda;
+           o Licenciamento pelo uso de marcas e símbolos;
+           o Transmissão de eventos desportivos
+
+       •   A contribuição sobre a renda bruta dos espetáculos desportivos que
+           participem no território nacional deverá ser retida e recolhida pela entidade
+           promotora do evento.
+
+
+       •   Nos demais casos, a contribuição deverá ser retida e recolhida pela empresa
+           que repassou os recursos à associação desportiva quem mantém equipe de
+           futebol profissional
+
+✓ O empregador rural pessoa física, o produtor rural pessoa jurídica, a agroindústria e
+  a associação desportiva que mantém equipe de futebol profissional recolhem
+   normalmente suas contribuições sobre os contribuintes individuais que lhes
+   prestarem serviços.
+
+
+✓ Contribuição Previdenciária Sobre a receita Bruta (desoneração da folha):
+
+
+       •   Por um prazo indeterminado, algumas empresas fabricantes e prestadoras
+           de serviços terão a contribuição previdenciária patronal de 20% substituída
+           por uma contribuição incidente sobre a receita bruta.
+
+
+       •   Tal substituição não abrange as contribuições destinadas a outras entidades
+           e fundos (terceiros) e nem ao RAT.
+
+                      
+
+
+---
+
+       •   A contribuição sobre a Receita Bruta será feita após excluídas:
+           o As vendas canceladas;
+           o Os descontos incondicionais concedidos;
+           o As receitas com exportação.
+
+✓ Contribuição Previdenciária do Micro Empreendedor Individual - MEI:
+       •   O MEI só tem uma contribuição patronal, que será devida apenas se o MEI
+           tiver um empregado a seu serviço de 3% do salário de contribuição do
+           empregado que lhe presta serviço
+
+✓ Contribuição Previdenciária das empresas optantes pelo Simples Nacional:
+      • As empresas optantes pelo Simples Nacional não são isentas de
+           contribuições previdenciária patronal. Elas recolhem de forma diferenciada,
+           simplificada e favorecida 8 (oito) tributos de forma unificada, entre as quais,
+           a contribuição previdenciária patronal, incidindo tais contribuições sobre a
+           Receita Bruta auferida no mês.
+
+✓ Contribuição Previdenciária das Entidades Beneficentes de Assistência Social:
+      • As Entidades Beneficentes de Assistência Social são isentas* (imunes) de
+         contribuição para a seguridade social, desde que atendam às exigências
+           estabelecidas em lei.
+
+✓ Contribuição Previdenciária do Empregador Doméstico:
+
+
+       •   A contribuição patronal do empregador doméstico é de 8% do salário de
+           Contribuição do Empregado Doméstico a seu serviço, somados a 0,8% do
+           salário de Contribuição do Empregado Doméstico a seu serviço (a título de
+           Seguro Contra Acidentes do Trabalho), totalizando 8,8% do salário de
+           contribuição do empregado doméstico a seu serviço.
+
+                      
+
+
+---
+
+✓ Contribuição Previdenciária sobre Receitas de Concursos de Prognósticos:
+       • Constitui receita da Seguridade Social a contribuição social sobre a
+         receita de concursos de prognósticos a que se refere o inciso III do
+         caput do art. 195 da Constituição Federal.
+       • O produto da arrecadação desta contribuição será destinado ao
+         financiamento da Seguridade Social.
+       • A base de cálculo da contribuição equivale à receita auferida nos
+         concursos de prognósticos, sorteios e loterias.
+       • A alíquota da contribuição corresponde ao percentual vinculado à
+           Seguridade Social em cada modalidade lotérica, conforme previsto em
+           lei.
+
+✓ Contribuição para Seguridade Social sobre Receitas de outras fontes:
+      • Multas e juros;
+       •   3,5% sobre o montante arrecadado a título de remuneração pela
+           arrecadação, fiscalização e cobrança prestadas a terceiros;
+       •   Fornecimento ou arrendamento de bens;
+       •   Receitas patrimoniais, industriais e financeiras;
+       •   Doações, legados, subvenções;
+       •   50% dos valores arrecadados com os leilões dos bens apreendidos em
+           decorrência do tráfico ilícito de entorpecentes;
+       •   40% dos valores arrecadados com os leilões dos bens apreendidos em
+           decorrência de contrabando ou descaminho;
+       •   50% do seguro obrigatório (DPVAT) será destinado à saúde (SUS), para
+           custeio da assistência médico-hospitalar para tratamento dos acidentes de
+           trânsito;
+       •   Outras receitas previstas em legislação específica.
+
+                      
+
+
+---

@@ -1,0 +1,275 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: COMPRAS NO SETOR PÚBLICO – V
+artigos_citados:
+- Art. 78.
+- Art. 82.
+- Art. 83.
+- Art. 84.
+- Art. 85.
+- Art. 86.
+- art. 23
+---
+
+# COMPRAS NO SETOR PÚBLICO – V
+
+---
+
+---
+
+COMPRAS NO SETOR PÚBLICO – V
+LEI 14.133/2021
+
+                                                       Prof. Ricardo Campanario
+
+                  
+
+
+---
+
+       SRP
+       Sistema de Registro de Preços
+
+
+      ❑ Outro ponto importante e que costuma ser cobrado junto ao tema Compras no Setor Público é o
+        SRP. Conforme Alexandrino e Paulo (2009):
+
+       O Sistema de Registro de Preços é um meio apto a viabilizar diversas contratações de compras,
+       concomitante ou sucessivas, sem a realização de um específico procedimento licitatório
+       previamente a cada uma, por um ou mais de um órgão ou entidade da Administração Pública.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       SRP
+       SRP na Lei 14.133/2021
+
+      ❑ Na Lei 14.133/2021 o Sistema de Registro de Preços está previsto como um
+        procedimento auxiliar das licitações. Observe a seguir:
+         Seção I
+
+         Dos Procedimentos Auxiliares
+
+         Art. 78. São procedimentos auxiliares das licitações e das contratações regidas por esta Lei:
+         I - credenciamento;
+         II - pré-qualificação;
+         III - procedimento de manifestação de interesse;
+         IV - sistema de registro de preços;
+         V - registro cadastral.
+         § 1º Os procedimentos auxiliares de que trata o caput deste artigo obedecerão a critérios claros e objetivos
+         definidos em regulamento.
+         § 2º O julgamento que decorrer dos procedimentos auxiliares das licitações previstos nos incisos II e III
+         do caput deste artigo seguirá o mesmo procedimento das licitações.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+
+      ❑ A Lei 14.133/2021 disciplina o Sistema de Registro de Preços melhor que a Lei
+        8.666/1993. Os artigos 82 a 86 da Lei trazem muitos detalhes sobre o Sistema.
+      ❑ O SRP acaba registrando um verdadeiro cadastro de fornecedores dentro das
+        condições estipuladas pelo comprador, nesse caso o poder público, ficando a lista
+        disponível para futuras contratações, podendo ser utilizado nas hipóteses de
+        inexigibilidade e de dispensa de licitação para a aquisição de bens ou para a
+        contratação de serviços por mais de um órgão ou entidade
+      ❑ A Lei estabelece que o SRP deve basear-se em ampla pesquisa de mercado,
+        atualização periódica e definição da validade dos preços considerados e não vincula o
+        poder público a “a contratar, facultada a realização de licitação específica para a
+        aquisição pretendida, desde que devidamente motivada”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+
+      ❑ Vejamos o que diz a Lei:
+
+                   Art. 82. O edital de licitação para registro de preços observará as regras gerais desta Lei e deverá dispor sobre:
+                   I - as especificidades da licitação e de seu objeto, inclusive a quantidade máxima de cada item que poderá ser adquirida;
+                   II - a quantidade mínima a ser cotada de unidades de bens ou, no caso de serviços, de unidades de medida;
+                   III - a possibilidade de prever preços diferentes:
+                   a) quando o objeto for realizado ou entregue em locais diferentes;
+                   b) em razão da forma e do local de acondicionamento;
+                   c) quando admitida cotação variável em razão do tamanho do lote;
+                   d) por outros motivos justificados no processo;
+                   IV - a possibilidade de o licitante oferecer ou não proposta em quantitativo inferior ao máximo previsto no edital, obrigando-se
+                   nos limites dela;
+                   V - o critério de julgamento da licitação, que será o de menor preço ou o de maior desconto sobre tabela de preços praticada no
+                   mercado;
+                   VI - as condições para alteração de preços registrados;
+                   VII - o registro de mais de um fornecedor ou prestador de serviço, desde que aceitem cotar o objeto em preço igual ao do
+                   licitante vencedor, assegurada a preferência de contratação de acordo com a ordem de classificação;
+                   VIII - a vedação à participação do órgão ou entidade em mais de uma ata de registro de preços com o mesmo objeto no prazo de
+                   validade daquela de que já tiver participado, salvo na ocorrência de ata que tenha registrado quantitativo inferior ao máximo
+                   previsto no edital;
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                          
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+                   IX - as hipóteses de cancelamento da ata de registro de preços e suas consequências.
+                   § 1º O critério de julgamento de menor preço por grupo de itens somente poderá ser adotado quando for demonstrada a
+                   inviabilidade de se promover a adjudicação por item e for evidenciada a sua vantagem técnica e econômica, e o critério de
+                   aceitabilidade de preços unitários máximos deverá ser indicado no edital.
+                   § 2º Na hipótese de que trata o § 1º deste artigo, observados os parâmetros estabelecidos nos §§ 1º, 2º e 3º do art. 23 desta Lei, a
+                   contratação posterior de item específico constante de grupo de itens exigirá prévia pesquisa de mercado e demonstração de sua
+                   vantagem para o órgão ou entidade.
+                   § 3º É permitido registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido,
+                   apenas nas seguintes situações:
+                   I - quando for a primeira licitação para o objeto e o órgão ou entidade não tiver registro de demandas anteriores;
+                   II - no caso de alimento perecível;
+                   III - no caso em que o serviço estiver integrado ao fornecimento de bens.
+                   § 4º Nas situações referidas no § 3º deste artigo, é obrigatória a indicação do valor máximo da despesa e é vedada a participação
+                   de outro órgão ou entidade na ata.
+                   § 5º O sistema de registro de preços poderá ser usado para a contratação de bens e serviços, inclusive de obras e serviços de
+                   engenharia, observadas as seguintes condições:
+                   I - realização prévia de ampla pesquisa de mercado;
+                   II - seleção de acordo com os procedimentos previstos em regulamento;
+                   III - desenvolvimento obrigatório de rotina de controle;
+                   IV - atualização periódica dos preços registrados;
+                   V - definição do período de validade do registro de preços;
+                   VI - inclusão, em ata de registro de preços, do licitante que aceitar cotar os bens ou serviços em preços iguais aos do licitante
+                   vencedor na sequência de classificação da licitação e inclusão do licitante que mantiver sua proposta original.
+                   § 6º O sistema de registro de preços poderá, na forma de regulamento, ser utilizado nas hipóteses de inexigibilidade e de dispensa
+                   de licitação para a aquisição de bens ou para a contratação de serviços por mais de um órgão ou entidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                            
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+
+                   Art. 83. A existência de preços registrados implicará compromisso de fornecimento nas
+                   condições estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de
+                   licitação específica para a aquisição pretendida, desde que devidamente motivada.
+
+                   Art. 84. O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser
+                   prorrogado, por igual período, desde que comprovado o preço vantajoso.
+
+                   Parágrafo único. O contrato decorrente da ata de registro de preços terá sua vigência
+                   estabelecida em conformidade com as disposições nela contidas.
+
+                   Art. 85. A Administração poderá contratar a execução de obras e serviços de engenharia pelo
+                   sistema de registro de preços, desde que atendidos os seguintes requisitos:
+
+                   I - existência de projeto padronizado, sem complexidade técnica e operacional;
+
+                   II - necessidade permanente ou frequente de obra ou serviço a ser contratado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+
+                   Art. 86. O órgão ou entidade gerenciadora deverá, na fase preparatória do processo licitatório, para fins de registro de preços,
+                   realizar procedimento público de intenção de registro de preços para, nos termos de regulamento, possibilitar, pelo prazo mínimo
+                   de 8 (oito) dias úteis, a participação de outros órgãos ou entidades na respectiva ata e determinar a estimativa total de quantidades
+                   da contratação.
+
+                   § 1º O procedimento previsto no caput deste artigo será dispensável quando o órgão ou entidade gerenciadora for o único
+                   contratante.
+
+                   § 2º Se não participarem do procedimento previsto no caput deste artigo, os órgãos e entidades poderão aderir à ata de registro
+                   de preços na condição de não participantes, observados os seguintes requisitos:
+
+                   I - apresentação de justificativa da vantagem da adesão, inclusive em situações de provável desabastecimento ou descontinuidade
+                   de serviço público;
+
+                   II - demonstração de que os valores registrados estão compatíveis com os valores praticados pelo mercado na forma do art. 23
+                   desta Lei;
+
+                   III - prévias consulta e aceitação do órgão ou entidade gerenciadora e do fornecedor.
+
+                   § 3º A faculdade conferida pelo § 2º deste artigo estará limitada a órgãos e entidades da Administração Pública federal, estadual,
+                   distrital e municipal que, na condição de não participantes, desejarem aderir à ata de registro de preços de órgão ou entidade
+                   gerenciadora federal, estadual ou distrital.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                            
+
+
+---
+
+       SRP
+       Artigos 82 a 86
+
+                   § 4º As aquisições ou as contratações adicionais a que se refere o § 2º deste artigo não poderão exceder, por órgão
+                   ou entidade, a 50% (cinquenta por cento) dos quantitativos dos itens do instrumento convocatório registrados na ata
+                   de registro de preços para o órgão gerenciador e para os órgãos participantes.
+
+                   § 5º O quantitativo decorrente das adesões à ata de registro de preços a que se refere o § 2º deste artigo não
+                   poderá exceder, na totalidade, ao dobro do quantitativo de cada item registrado na ata de registro de preços para o
+                   órgão gerenciador e órgãos participantes, independentemente do número de órgãos não participantes que
+                   aderirem.
+
+                   § 6º A adesão à ata de registro de preços de órgão ou entidade gerenciadora do Poder Executivo federal por órgãos
+                   e entidades da Administração Pública estadual, distrital e municipal poderá ser exigida para fins de transferências
+                   voluntárias, não ficando sujeita ao limite de que trata o § 5º deste artigo se destinada à execução descentralizada de
+                   programa ou projeto federal e comprovada a compatibilidade dos preços registrados com os valores praticados no
+                   mercado na forma do art. 23 desta Lei.
+
+                   § 7º Para aquisição emergencial de medicamentos e material de consumo médico-hospitalar por órgãos e entidades
+                   da Administração Pública federal, estadual, distrital e municipal, a adesão à ata de registro de preços gerenciada
+                   pelo Ministério da Saúde não estará sujeita ao limite de que trata o § 5º deste artigo.
+
+                   § 8º Será vedada aos órgãos e entidades da Administração Pública federal a adesão à ata de registro de preços
+                   gerenciada por órgão ou entidade estadual, distrital ou municipal.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

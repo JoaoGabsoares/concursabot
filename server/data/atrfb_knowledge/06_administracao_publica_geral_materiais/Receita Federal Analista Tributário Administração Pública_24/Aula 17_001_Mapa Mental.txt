@@ -1,0 +1,560 @@
+           PROJETOS                                           PROJETOS ≠ OPERAÇÕES ≠ PROCESSOS
+
+
+
+                      ❑ UM ESFORÇO TEMPORÁRIO COM RESULTADOS PREVIAMENTE DETERMINADOS.
+DEFINIÇÃO GERAL:      ❑ EMPREENDIDO COM O OBJETIVO DE CRIAR UM PRODUTO, SERVIÇO OU RESULTADO
+   PROJETO É            “UNITÁRIO/ÚNICO”.
+                      ❑ TEM DATAS DE INÍCIO E FIM PREVIAMENTE DEFINIDAS.
+
+
+                      ❑ EXECUÇÃO CONTÍNUA DE ATIVIDADES.
+DEFINIÇÃO GERAL:      ❑ PRODUZEM O MESMO PRODUTO OU SERVIÇO REPETITIVO.
+ OPERAÇÕES SÃO        ❑ SÃO ESFORÇOS PERMANENTES.
+                      ❑ GERAM SAÍDAS REPETITIVAS.
+
+
+                      ❑ CONJUNTO DE ATIVIDADES INTER-RELACIONADAS.
+DEFINIÇÃO GERAL:      ❑ SEQUENCIALMENTE E LOGICAMENTE ESTRUTURADAS.
+ PROCESSOS SÃO        ❑ POR MEIO DAS QUAIS AS ENTRADAS/INPUTS SÃO TRANSFORMADAS (PROCESSADAS) EM
+                        SAÍDAS/OUTPUTS (PRODUTOS/SERVIÇOS).
+
+
+
+
+                                                                                           ADMINISTRAÇÃO PÚBLICA
+                               https://t.me/KakashiAssinaturasBot                           ESTRATÉGIA CONCURSOS
+               PROJETOS                                                               GESTÃO DE PROJETOS
+
+
+
+                                                                                         DEFINIÇÃO GERAL:
+   AS DUAS ONDAS DA GESTÃO DE                                                          A GESTÃO DE PROJETOS É
+
+            PROJETOS                                                ❑ A APLICAÇÃO DE CONHECIMENTOS, HABILIDADES, FERRAMENTAS E
+                                                                      TÉCNICAS ÀS ATIVIDADES DO PROJETO.
+A GESTÃO DE PROJETOS PODE SER DIVIDIDA EM DUAS                      ❑ COM A FINALIDADE ATENDER AOS REQUISITOS E OBJETIVOS
+“ONDAS” HISTÓRICAS:                                                   PREVIAMENTE ESTIPULADOS.
+                                                                    ❑ E PERMITE QUE AS ORGANIZAÇÕES EXECUTEM PROJETOS DE FORMA
+                                                                      EFICAZ E EFICIENTE.
+FOCO NO PROJETO            ❑ CONSOLIDAR BOAS PRÁTICAS.
+(PRIMEIRA ONDA)            ❑ FOCO NA EFICIÊNCIA.
+
+
+
+                                ❑ PRECONIZOU OS MODELOS ORGANIZACIONAIS DE MATURIDADE EM PROJETOS.
+FOCO ORGANIZACIONAL             ❑ FOCO NA EFICÁCIA.
+  (SEGUNDA ONDA)                ❑ INTEGRAÇÃO DAS ÁREAS DO CONHECIMENTO.
+                                ❑ ALINHAMENTO ESTRATÉGICO DOS PROJETOS DA ORGANIZAÇÃO.
+
+
+
+                                                                                                                    ADMINISTRAÇÃO PÚBLICA
+                                                 https://t.me/KakashiAssinaturasBot                                  ESTRATÉGIA CONCURSOS
+                   PORTFÓLIOS X PROGRAMAS X PROJETOS X SUBPROJETOS
+
+
+                 OS PROJETOS PODEM SER AGRUPADOS, DANDO ORIGEM AOS PORTFÓLIOS OU AOS PROGRAMAS.
+
+                          OS PROJETOS PODEM SER DESMEMBRADOS, DANDO ORIGEM AOS SUBPROJETOS.
+
+                                                               DEFINIÇÕES
+
+
+                    PORTFÓLIO                                                                                   PROGRAMA
+❑ CONJUNTO DE PROJETOS, PROGRAMAS, SUBPORTFÓLIOS E                                         ❑ GRUPO RELACIONADO DE PROJETOS, SUBPROGRAMAS E
+  OPERAÇÕES.                                                                                 ATIVIDADES DE PROGRAMA.
+❑ GERENCIADOS EM GRUPO.                                                                    ❑ GERENCIADOS DE FORMA COORDENADA.
+❑ VISA ALCANÇAR OBJETIVOS ESTRATÉGICOS E FACILITAR O                                       ❑ VISA À OBTENÇÃO DE BENEFÍCIOS QUE NÃO ESTARIAM
+  GERENCIAMENTO.                                                                             DISPONÍVEIS      CASO      FOSSEM      GERENCIADOS
+❑ SEUS INTEGRANTES PODEM ESTAR RELACIONADOS ENTRE SI,                                        INDIVIDUALMENTE.
+  OU NÃO.                                                                                  ❑ SEUS INTEGRANTES DEVEM ESTAR RELACIONADOS ENTRE SI.
+
+                                                               SUBPROJETO
+                              ❑ É UMA PARTE MENOR DO PROJETO TOTAL.
+                              ❑ CRIADA QUANDO UM PROJETO É SUBDIVIDIDO EM COMPONENTES MENORES.
+                              ❑ VISA DEIXAR AS PARTES MAIS FACILMENTE GERENCIÁVEIS.
+                                                                                                                                       ADMINISTRAÇÃO PÚBLICA
+                                                      https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+É UM GUIA DE BOAS PRÁTICAS SOBRE GERENCIAMENTO DE PROJETOS.                      DEFINIÇÃO
+
+
+       O GUIA PMBOK NÃO É UMA METODOLOGIA! E NÃO É PRESCRITIVO!
+
+          É PRODUZIDO PELO PROJECT MANAGEMENT INSTITUTE (PMI).
+                                                                                                 GUIA PMBOK - 6ª EDIÇÃO
+  O PMI CRIOU A CERTIFICAÇÃO PROJECT MANAGEMENT PROFESSIONAL (PMP).
+
+    O PROJECT MANAGEMENT OFFICE (PMO) É UM ESCRITÓRIO DE PROJETOS.
+
+                BANCAS TRAZEM QUESTÕES DA VERSÃO 6.0 E 7.0.
+
+                                                                                                 CICLO DE VIDA DOS PROJETOS
+                                                                                               (FASES DOS PROJETOS) – 6ª EDIÇÃO
+
+
+       O CICLO DE VIDA DE UM PROJETO É COMPOSTO POR 4 FASES
+   ❑ INÍCIO DO PROJETO (FASE DE INICIAÇÃO / CONCEPÇÃO / CONCEITUAL).
+   ❑ ORGANIZAÇÃO E PREPARAÇÃO (FASE DE PLANEJAMENTO / ESTRUTURAÇÃO).                                AS FASES DO PROJETO PODEM SER
+   ❑ EXECUÇÃO DO TRABALHO DO PROJETO (FASE DE EXECUÇÃO).                                           ❑ SEQUENCIAIS.
+   ❑ ENCERRAMENTO DO PROJETO (FASE DE FECHAMENTO / CONCLUSÃO).                                     ❑ INTERATIVAS.
+                                                                                                   ❑ SOBREPOSTAS.
+
+                                                                                                                        ADMINISTRAÇÃO PÚBLICA
+                                                          https://t.me/KakashiAssinaturasBot                             ESTRATÉGIA CONCURSOS
+                                                                                                   GUIA PMBOK - 6ª EDIÇÃO
+CUSTOS E RISCOS ASSOCIADOS AO CICLO
+       DE VIDA DOS PROJETOS
+                                                                                             TIPOS DE CICLO DE VIDA DE PROJETOS
+                    CUSTOS E PESSOAL
+❑ SÃO BAIXOS NO INÍCIO.                                                                   PREDITIVOS (PREVISTOS / PREVISÍVEIS / PREDETERMINADOS /
+❑ VÃO AUMENTANDO NA FASE DE ORGANIZAÇÃO E PREPARAÇÃO.
+                                                                                                  INTEIRAMENTE PLANEJADOS / EM CASCATA)
+❑ ATINGEM O SEU VALOR MÁXIMO NA FASE DE EXECUÇÃO.                                        ❑ ESCOPO, PRAZO E CUSTO DO PROJETO SÃO DETERMINADOS NA FASE
+                                                                                           INICIAL.
+❑ DIMINUEM RAPIDAMENTE NA FASE DE ENCERRAMENTO.
+                                                                                         ❑ ABORDAGEM MAIS ESTÁVEL E RÍGIDA.
+                                                                                         ❑ MUDANÇAS SÃO COMPLEXAS.
+     RISCOS, INCERTEZAS E INFLUÊNCIAS DAS PARTES                                         ❑ HÁ ÊNFASE NA PREVISIBILIDADE.
+                    INTERESSADAS
+❑ SÃO MAIORES NO INÍCIO.
+                                                                                                ADAPTATIVOS (ORIENTADOS À MUDANÇA / ÁGEIS)
+❑ VÃO DIMINUINDO QUANDO AS ENTREGAS SÃO ACEITAS.
+                                                                                         ❑ SÃO ÁGEIS E PODEM SER ITERATIVOS OU INCREMENTAIS.
+❑ SÃO MENORES PRÓXIMO AO FINAL DO PROJETO.
+                                                                                         ❑ O ESCOPO É DEFINIDO NO INÍCIO DE CADA FASE (ITERAÇÃO) DO
+                                                                                           PROJETO.
+                  CUSTOS DE MUDANÇA                                                      ❑ SÃO PREFERIDOS EM AMBIENTES DE RÁPIDA MUTAÇÃO.
+❑ SÃO MENORES NO INÍCIO DO PROJETO.                                                      ❑ ABORDAGEM MAIS FLEXÍVEL E COM ESCOPO VARIÁVEL.
+❑ VÃO AUMENTANDO DE ACORDO COM O AVANÇO DO PROJETO.
+❑ SÃO MAIORES NO FINAL DO PROJETO.                                                                                   HÍBRIDOS
+                                                                                         ❑ COMBINAÇÃO DE UM CICLO DE VIDA PREDITIVO E UM CICLO DE VIDA
+                                                                                           ADAPTATIVO.
+                                                                                                                                         ADMINISTRAÇÃO PÚBLICA
+                                                    https://t.me/KakashiAssinaturasBot                                                    ESTRATÉGIA CONCURSOS
+      ÁREAS DE CONHECIMENTO EM
+ GERENCIAMENTO DE PROJETOS - 6ª EDIÇÃO
+                                                                                                     GUIA PMBOK - 6ª EDIÇÃO
+
+                                  • 10 ÁREAS DE CONHECIMENTO.
+                                                                                                 (1) GERENCIAMENTO DA INTEGRAÇÃO DO PROJETO
+O GUIA PMBOK É ESTRUTURADO EM     • 5 GRUPOS DE PROCESSOS
+                                    GERENCIAIS.
+                                                                                           ❑ INCLUI OS PROCESSOS E ATIVIDADES PARA:
+                                                                                             • IDENTIFICAR
+ÁREA DE CONHECIMENTO É UM CONJUNTO DE PROCESSOS ASSOCIADOS                                   • DEFINIR
+COM UM TEMA ESPECÍFICO.                                                                      • COMBINAR.
+                                                                                             • UNIFICAR E
+            POSSUI 10 ÁREAS DE CONHECIMENTO
+                                                                                             • COORDENAR
+                                                                                           ❑ TODOS OS VÁRIOS PROCESSOS E ATIVIDADES DE GERENCIAMENTO.
+       (4) GERENCIAMENTO DOS CUSTOS DO PROJETO                                             ❑ OCORRE DENTRO DOS GRUPOS DE PROCESSOS DE GERENCIAMENTO
+                                                                                             DO PROJETO.
+❑ INCLUI OS PROCESSOS ENVOLVIDOS EM:
+  ▪ PLANEJAMENTO,                                                                                  (2) GERENCIAMENTO DO ESCOPO DO PROJETO
+  ▪ ESTIMATIVAS,                                                                           ❑ ASSEGURA QUE O PROJETO INCLUA TODO O TRABALHO NECESSÁRIO.
+  ▪ ORÇAMENTOS,                                                                            ❑ DEFINE QUAIS SÃO OS PROCESSOS E ATIVIDADES NECESSÁRIOS.
+  ▪ FINANCIAMENTOS,                                                                        ❑ OBJETIVA EVITAR ATIVIDADES DESNECESSÁRIAS.
+  ▪ GERENCIAMENTO E
+  ▪ CONTROLE DOS CUSTOS.                                                                       (3) GERENCIAMENTO DO CRONOGRAMA DO PROJETO
+❑ OBJETIVA TERMINAR O PROJETO DENTRO DO ORÇAMENTO APROVADO.                                ❑ PROCESSOS NECESSÁRIOS PARA GERENCIAR O TÉRMINO DENTRO DO
+                                                                                             PRAZO.
+
+      (5) GERENCIAMENTO DA QUALIDADE DO PROJETO
+❑ INCORPORAÇÃO DA POLÍTICA DE QUALIDADE.
+❑ CONTROLE DOS REQUISITOS DE QUALIDADE DO PROJETO E DO
+  PRODUTO.                                                                                                                                ADMINISTRAÇÃO PÚBLICA
+                                                      https://t.me/KakashiAssinaturasBot                                                   ESTRATÉGIA CONCURSOS
+      ÁREAS DE CONHECIMENTO EM
+ GERENCIAMENTO DE PROJETOS - 6ª EDIÇÃO
+                                                                                                        GUIA PMBOK - 6ª EDIÇÃO
+
+             POSSUI 10 ÁREAS DE CONHECIMENTO                                                       (6) GERENCIAMENTO DOS RECURSOS DO PROJETO:
+                                                                                              ❑ INCLUI OS PROCESSOS PARA:
+        (8) GERENCIAMENTO DOS RISCOS DO PROJETO                                                ▪ IDENTIFICAR,
+                                                                                               ▪ ADQUIRIR E
+❑ INCLUI PROCESSOS DE:
+                                                                                               ▪ GERENCIAR OS RECURSOS NECESSÁRIOS PARA A CONCLUSÃO DO
+ ▪ CONDUÇÃO DE PLANEJAMENTO,
+                                                                                                 PROJETO.
+ ▪ IDENTIFICAÇÃO E ANÁLISE DE GERENCIAMENTO DE RISCO,
+ ▪ PLANEJAMENTO DE RESPOSTA,                                                                     (7) GERENCIAMENTO DAS COMUNICAÇÕES DO PROJETO:
+ ▪ IMPLEMENTAÇÃO DE RESPOSTA E                                                                ❑ ASSEGURAR QUE AS INFORMAÇÕES DO PROJETO SEJAM:
+ ▪ MONITORAMENTO DE RISCO EM UM PROJETO.                                                       ▪ PLANEJADAS.
+                                                                                               ▪ COLETADAS.
+     (9) GERENCIAMENTO DAS AQUISIÇÕES DO PROJETO                                               ▪ CRIADAS.
+❑ SÃO PROCESSOS NECESSÁRIOS PARA:                                                              ▪ DISTRIBUÍDAS.
+  ▪ COMPRAR OU ADQUIRIR PRODUTOS,                                                              ▪ ARMAZENADAS.
+  ▪ SERVIÇOS OU                                                                                ▪ RECUPERADAS.
+  ▪ RESULTADOS EXTERNOS À EQUIPE DO PROJETO.                                                   ▪ GERENCIADAS.
+                                                                                               ▪ CONTROLADAS.
+    (10)      GERENCIAMENTO DAS PARTES INTERESSADAS                                            ▪ MONITORADAS.
+                (STAKEHOLDERS) DO PROJETO                                                      ▪ DISPOSTAS DE MANEIRA OPORTUNA E APROPRIADA.
+❑ IDENTIFICAR TODAS AS PESSOAS OU ORGANIZAÇÕES IMPACTADAS.
+❑ ANALISAR AS EXPECTATIVAS E O IMPACTO DAS PARTES INTERESSADAS.
+❑ ENGAJAMENTO EFICAZ DAS PARTES INTERESSADAS NAS DECISÕES E
+  EXECUÇÃO DO PROJETO.                                                                                                                     ADMINISTRAÇÃO PÚBLICA
+                                                         https://t.me/KakashiAssinaturasBot                                                 ESTRATÉGIA CONCURSOS
+       GRUPOS DE PROCESSOS DE
+ GERENCIAMENTO DE PROJETOS - 6ª EDIÇÃO
+                                                                                                           GUIA PMBOK - 6ª EDIÇÃO
+OS GRUPOS DE PROCESSOS DE GERENCIAMENTO DE PROJETOS SÃO
+DIVIDIDOS EM 5 GRUPOS:
+
+   ❑ GRUPO DE PROCESSOS DE INICIAÇÃO.
+   ❑ GRUPOS DE PROCESSOS DE PLANEJAMENTO.                                                        CRIAR A ESTRUTURA ANALÍTICA DO PROJETO
+   ❑ GRUPOS DE PROCESSOS DE EXECUÇÃO.                                                                       (EAP) ATENÇÃO!!
+   ❑ GRUPOS DE PROCESSOS DE MONITORAMENTO E CONTROLE.
+   ❑ GRUPOS DE PROCESSOS DE ENCERRAMENTO.                                                        PERTENCENTE AO GRUPO DE PROCESSOS DE PLANEJAMENTO E À ÁREA
+                                                                                                 DE CONHECIMENTO GERENCIAMENTO DO ESCOPO DO PROJETO.
+
+
+ATENÇÃO!! OS GRUPOS DE PROCESSOS DE GERENCIAMENTO DE                                                                   CARACTERÍSTICAS
+PROJETOS NÃO SÃO “FASES” (“ETAPAS”) DO PROJETO.                                                  ❑ PROCESSO DE DECOMPOR AS ENTREGAS E O TRABALHO DO PROJETO.
+                                                                                                 ❑ EM COMPONENTES MENORES E MAIS FACILMENTE GERENCIÁVEIS.
+                                                                                                 ❑ FORNECE UMA VISÃO ESTRUTURADA DO QUE DEVE SER ENTREGUE.
+             RESTRIÇÕES DOS PROJETOS                                                             ❑ ORGANIZA E DEFINE O ESCOPO TOTAL DO PROJETO.
+                                                                                                 ❑ REPRESENTA O TRABALHO ESPECIFICADO NA ATUAL DECLARAÇÃO DO
+❑ SÃO ASPECTOS QUE “LIMITAM” E INFLUENCIAM OS PROJETOS.                                            ESCOPO.
+❑ AS PRINCIPAIS RESTRIÇÕES AOS PROJETOS SÃO AS SEGUINTES:                                        ❑ CRIA “PACOTES DE TRABALHO”.
+ ▪ ESCOPO.
+ ▪ QUALIDADE.
+ ▪ CRONOGRAMA.
+ ▪ ORÇAMENTO.
+ ▪ RECURSOS.
+ ▪ RISCO.
+                                                                                                                                                  ADMINISTRAÇÃO PÚBLICA
+                                                            https://t.me/KakashiAssinaturasBot                                                     ESTRATÉGIA CONCURSOS
+❑ ATIVIDADES SÃO AGRUPADAS EM FUNÇÕES ESPECIALIZADAS.
+❑ ATIVIDADES SEMELHANTES SÃO AGRUPADAS EM ÁREAS ESPECIALIZADAS.
+                                                                                                 ESTRUTURA ORGANIZACIONAL FUNCIONAL
+
+
+
+❑ ATIVIDADES SÃO AGRUPADAS EM FUNÇÃO DOS RESULTADOS.
+❑ PESSOAS E ATIVIDADES RECEBEM ATRIBUIÇÕES TEMPORÁRIAS.
+                                                                                                    ESTRUTURA ORGANIZACIONAL POR
+❑ É NECESSÁRIO QUE A EMPRESA TENHA UMA ESTRUTURA FLEXÍVEL E MUTÁVEL.                              PROJETOS (ESTRUTURA POR PROJETOS)
+
+
+
+❑ FUSÃO DA ESTRUTURA FUNCIONAL COM A ESTRUTURA BASEADA EM
+  PROJETOS.
+❑ OBJETIVA APROVEITAR A ESPECIALIZAÇÃO DOS FUNCIONÁRIOS EM PRODUTOS
+                                                                                                 ESTRUTURA ORGANIZACIONAL MATRICIAL
+  OU PROJETOS ESTRATÉGICOS.
+
+
+
+
+  GESTÃO POR PROJETOS E ESTRUTURA ORGANIZACIONAL
+                                                                                                                             ADMINISTRAÇÃO PÚBLICA
+                                                            https://t.me/KakashiAssinaturasBot                                ESTRATÉGIA CONCURSOS
+           DE ACORDO COM O GUIA PMBOK 6ª EDIÇÃO, A MATRIZ PODE SER
+
+
+
+
+GESTÃO POR PROJETOS E ESTRUTURA ORGANIZACIONAL
+                                                                     ADMINISTRAÇÃO PÚBLICA
+                               https://t.me/KakashiAssinaturasBot     ESTRATÉGIA CONCURSOS
+                       ESCRITÓRIO DE GERENCIAMENTO DE PROJETOS (EGP)
+
+          É UMA ESTRUTURA ORGANIZACIONAL QUE PADRONIZA OS PROCESSOS DE GOVERNANÇA RELACIONADOS A PROJETOS.
+
+
+                     FACILITA O COMPARTILHAMENTO DE RECURSOS, METODOLOGIAS, FERRAMENTAS E TÉCNICAS.
+
+
+                                                 OS PRINCIPAIS TIPOS SÃO OS SEGUINTES
+
+
+                      EGPS DE SUPORTE                                                                            EGPS DE CONTROLE
+❑ DESEMPENHAM UM PAPEL CONSULTIVO.                                                  ❑ FORNECEM SUPORTE E EXIGEM A CONFORMIDADE.
+❑ ATUA COMO REPOSITÓRIO DE PROJETOS.                                                ❑ O NÍVEL DE CONTROLE EXERCIDO É MÉDIO.
+❑ O NÍVEL DE CONTROLE FORNECIDO É BAIXO.                                            ❑ A CONFORMIDADE PODE ENVOLVER:
+❑ FORNECEM:                                                                              ▪ ADOÇÃO DE ESTRUTURAS OU METODOLOGIAS DE GERENCIAMENTO
+  ▪ MODELOS.                                                                               DE PROJETOS.
+
+  ▪ TREINAMENTOS.                                                                        ▪ UTILIZAÇÃO       DE   FERRAMENTAS,   FORMULÁRIOS   E   MODELOS
+                                                                                             ESPECÍFICOS.
+  ▪ PRÁTICAS RECOMENDADAS.
+                                                                                         ▪ CONFORMIDADE COM AS ESTRUTURAS DE GOVERNANÇA.
+  ▪ ACESSO ÀS INFORMAÇÕES E LIÇÕES APRENDIDAS.
+
+                                                             EGPS DIRETIVOS
+                              ❑ ASSUMEM O CONTROLE DOS PROJETOS ATRAVÉS DE UM GERENCIAMENTO DIRETO.
+                              ❑ DESIGNA GERENTES DE PROJETOS QUE FICAM SUBORDINADOS AO EGP.
+                              ❑ O NÍVEL DE CONTROLE FORNECIDO É ALTO.                                                                         ADMINISTRAÇÃO PÚBLICA
+                                                        https://t.me/KakashiAssinaturasBot                                                     ESTRATÉGIA CONCURSOS
+                                                    É A PESSOA DESIGNADA PARA LIDERAR A EQUIPE RESPONSÁVEL POR ALCANÇAR OS OBJETIVOS DO
+     GERENTE DE PROJETOS                            PROJETO.
+
+
+
+
+AS HABILIDADES-CHAVE DO GERENTE DE
+                                                                        HABILIDADES DE GERENCIAMENTO DE PROJETOS TÉCNICO
+          PROJETOS SÃO
+                                                                  DOMÍNIO ESPECÍFICO DE GERENCIAMENTO DE PROJETOS, PROGRAMAS E
+                                                                  PORTFÓLIOS.
+
+
+
+
+                         HABILIDADES DE LIDERANÇA                                HABILIDADE DE ORIENTAR, MOTIVAR E DIRIGIR UMA EQUIPE.
+
+
+
+                         HABILIDADES DE GERENCIAMENTO ESTRATÉGICO E DE NEGÓCIOS
+                       CONHECIMENTOS E EXPERTISE NO SETOR DO NEGÓCIO E NA ORGANIZAÇÃO.
+
+
+
+
+                                                                                                                             ADMINISTRAÇÃO PÚBLICA
+                                            https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+GERENCIAMENTO DOS                           O RISCO PODE SER DEFINIDO COMO UM EVENTO FUTURO E
+                                                                                                                           POSITIVA (OPORTUNIDADE) OU
+
+RISCOS DO PROJETO                           INCERTO QUE, SE OCORRER, PODERÁ AFETAR O PROJETO DE FORMA:
+                                                                                                                           NEGATIVA (AMEAÇA).
+
+
+
+
+                                                                                          ❑ RISCO INDIVIDUAL DO PROJETO.
+                                                                                          ❑ RISCO GERAL DO PROJETO.
+  TIPOS DE RISCOS                            OS RISCOS PODEM SER DE 4 TIPOS
+                                                                                          ❑ RISCO RESIDUAL.
+                                                                                          ❑ RISCO SECUNDÁRIO.
+
+  ESTRATÉGIAS DE                             ESTRATÉGIAS DE RESPOSTA PARA RISCOS NEGATIVOS (AMEAÇAS)
+RESPOSTA AOS RISCOS
+        AÇÃO FOCADA EM REDUZIR O EFEITO NEGATIVO DA INCERTEZA SOBRE O RISCO GERAL DO PROJETO.
+                                                  EQUIPE DO PROJETO ATUA PARA ELIMINAR O RISCO.                    PREVENIR/EVITAR
+                              EQUIPE DO PROJETO PROTEGE O PROJETO CONTRA O IMPACTO NEGATIVO.
+
+                                  UTILIZADA QUANDO O NÍVEL DE RISCO GERAL DO PROJETO FOR ALTO.
+                                      UM TERCEIRO PODERÁ SER ENVOLVIDO PARA GERENCIAR O RISCO.                        TRANSFERIR
+                                                                            EXEMPLO: SEGURO DE UM IMÓVEL.
+
+                          BUSCA-SE REDUZIR A PROBABILIDADE DE OCORRÊNCIA, OU IMPACTO DO RISCO.
+                                                                                                                       MITIGAR
+      ENVOLVE ALTERAR O NÍVEL DE RISCO GERAL PARA OTIMIZAR AS CHANCES DE ALCANÇAR OS OBJETIVOS.
+                                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                https://t.me/KakashiAssinaturasBot                                              ESTRATÉGIA CONCURSOS
+          GERENCIAMENTO DOS                                  ESTRATÉGIAS DE RESPOSTA PARA RISCOS NEGATIVOS E/OU RISCOS POSITIVOS
+
+          RISCOS DO PROJETO                                                       CONTINUAR COM O PROJETO CONFORME A DEFINIÇÃO ATUAL.
+
+                                                                                             MESMO QUE O RISCO GERAL ESTEJA FORA DOS LIMITES.          ACEITAR
+                                                         A EQUIPE DO PROJETO DECIDE RECONHECER A EXISTÊNCIA DO RISCO E NÃO AGIR.
+
+                                                                                                      AMEAÇA ESTÁ FORA DO ESCOPO DO PROJETO.
+                                                                                                                                                       ESCALAR
+                                                                A RESPOSTA PROPOSTA EXCEDE A AUTORIDADE DO GERENTE DO PROJETO.
+
+
+
+             ESTRATÉGIAS DE                                  ESTRATÉGIAS DE RESPOSTA PARA RISCOS POSITIVOS (OPORTUNIDADES)
+           RESPOSTA AOS RISCOS
+                                                        UTILIZADA QUANDO O NÍVEL DE RISCO GERAL DO PROJETO FOR ALTO.
+                                                                                AÇÃO FOCADA EM CAPTURAR O EFEITO POSITIVO.                  EXPLORAR
+                                            EQUIPE DO PROJETO AGE PARA GARANTIR A OCORRÊNCIA DE UMA OPORTUNIDADE.
+
+                                                        UTILIZADA QUANDO O NÍVEL DE RISCO GERAL DO PROJETO FOR ALTO.
+UM TERCEIRO PODERÁ SER ENVOLVIDO PARA GERENCIAR O RISCO, POIS É MAIS CAPAZ DE APROVEITAR O BENEFÍCIO DA OPORTUNIDADE.                    COMPARTILHAR
+                                 A RESPONSABILIDADE PODERÁ SER COMPARTILHADA PARA COLHER OS BENEFÍCIOS ASSOCIADOS.
+
+                                    EQUIPE DO PROJETO ATUA PARA AUMENTAR A PROBABILIDADE DE OCORRÊNCIA OU IMPACTO.
+                                                                                                                                           MELHORAR
+                                                   CONSISTE EM MELHORAR OS RESULTADOS E IMPACTOS POSITIVOS DO RISCO.
+
+
+                                                                                                                                                ADMINISTRAÇÃO PÚBLICA
+                                                                 https://t.me/KakashiAssinaturasBot                                              ESTRATÉGIA CONCURSOS
+                                 TÉCNICAS UTILIZADAS NO GERENCIAMENTO DE PROJETOS
+
+
+MÉTODO DA ESTIMATIVA DE TRÊS PONTOS (PERT)                                                           CRITICAL PATH METHOD OU MÉTODO DO
+                                                                                                            CAMINHO CRÍTICO (CPM)
+                           CARACTERÍSTICAS
+❑ UTILIZADO PARA ESTIMAR A DURAÇÃO DAS ATIVIDADES DE UM PROJETO.                                                          CARACTERÍSTICAS
+❑ PERMITE AO GESTOR VISUALIZAR MELHOR COMO AS ATIVIDADES DE UM PROJETO                             ❑ UTILIZADO PARA ESTIMAR A DURAÇÃO DAS ATIVIDADES DE UM
+  SERÃO DISPOSTAS.
+                                                                                                     PROJETO.
+❑ AUXILIA NA DIMINUIÇÃO DE IMPREVISTOS.                                                            ❑ PERMITE AO GESTOR VISUALIZAR MELHOR COMO AS ATIVIDADES DE UM
+❑ AUXILIA NA ELABORAÇÃO DE UM CRONOGRAMA.                                                            PROJETO SERÃO DISPOSTAS.
+❑ BASEIA-SE EM INCERTEZAS PROBABILÍSTICAS.                                                         ❑ AUXILIA NA DIMINUIÇÃO DE IMPREVISTOS E NA ELABORAÇÃO DE UM
+❑ UTILIZA UMA ESTIMATIVA PESSIMISTA, UMA REALISTA E UMA OTIMISTA.                                    CRONOGRAMA.
+
+❑ ESTIMATIVA FINAL É O RESULTADO DA MÉDIA PONDERADA DAS ESTIMATIVAS.                               ❑ ADOTA APENAS UMA ÚNICA ESTIMATIVA DE DURAÇÃO PARA CADA
+                                                                                                     ATIVIDADE
+                                                                                                   ❑ É DETERMINÍSTICO EM RELAÇÃO A PRAZOS.
+                      GRÁFICO DE GANTT                                                             ❑ MOSTRA O “PASSO A PASSO” DO PROJETO.
+                                                                                                   ❑ INDICA AS ATIVIDADES QUE SERÃO REALIZADAS E ESTIMA SEUS TEMPOS.
+                           CARACTERÍSTICAS
+                                                                                                   ❑ DEMONSTRA O CAMINHO CRÍTICO (CAMINHO MAIS LONGO, SEM
+❑ UTILIZADO PARA AUXILIAR O GESTOR NA PROGRAMAÇÃO DE PROJETOS.                                       FOLGAS).
+❑ TRATA-SE DE UMA ESPÉCIE DE CRONOGRAMA DE ATIVIDADES.                                             ❑ DETERMINA O GRAU DE FLEXIBILIDADE NOS CAMINHOS LÓGICOS.
+❑ PODE-SE DETALHAR AS ATIVIDADES QUE DEVEM SER EXECUTADAS E AS SUAS
+  ORDENS.
+❑ ESTIMA A DURAÇÃO DE CADA UMA DAS ATIVIDADES.
+                                                                                                                                                ADMINISTRAÇÃO PÚBLICA
+❑ É UM GRÁFICO QUE REPRESENTA O AVANÇO TEMPORAL DAS ATIVIDADES.
+                                                              https://t.me/KakashiAssinaturasBot                                                 ESTRATÉGIA CONCURSOS
+                                                                  O CICLO DE VIDA DE UM PROJETO É COMPOSTO PELAS SEGUINTES FASES
+  GUIA PMBOK - 7ª EDIÇÃO
+                                                                                 ❑ DETERMINA SE O BUSINESS CASE (PROPOSTA DE VALOR) É VÁLIDO
+                                                                                   SE A ORGANIZAÇÃO TEM CAPACIDADE DE ENTREGAR O RESULTADO
+                                                          VIABILIDADE              PRETENDIDO.
+                                                                                 ❑ BUSINESS CASE PODE INCLUIR BENEFÍCIOS FINANCEIROS E NÃO
+                                                                                   FINANCEIROS.
+  CICLO DE VIDA DOS PROJETOS
+(FASES DOS PROJETOS) – 7ª EDIÇÃO                              DESIGN
+                                                                                 O PLANEJAMENTO E A ANÁLISE LEVAM AO DESIGN DA ENTREGA DO
+                                                                                 PROJETO.
+
+
+                                                                                 É CONDUZIDA COM ATIVIDADES INTEGRADAS DE GARANTIA DA
+                                                        CONSTRUÇÃO               QUALIDADE.
+
+ PRINCÍPIOS DO GERENCIAMENTO                                                     ❑ REVISÃO FINAL DA QUALIDADE E INSPEÇÃO DAS ENTREGAS.
+    DE PROJETOS - 7ª EDIÇÃO                                     TESTE            ❑ SÃO   REALIZADAS  ANTES     DA   TRANSIÇÃO/ENTRADA       EM
+                                                                                   OPERAÇÃO/ACEITAÇÃO PELO CLIENTE.
+
+
+                                                                                 ❑ ENTREGAS DO PROJETO SÃO COLOCADAS EM USO.
+                                                        IMPLANTAÇÃO
+                                                                                 ❑ AS ATIVIDADES DE TRANSIÇÃO SÃO CONCLUÍDAS.
+
+A 7ª EDIÇÃO DO GUIA PMBOK EVOLUIU PARA UM                                        ❑ O PROJETO É ENCERRADO.
+       PADRÃO BASEADO EM PRINCÍPIOS.                                             ❑O      CONHECIMENTO   E   OS   ARTEFATOS   DO   PROJETO   SÃO
+                                                      ENCERRAMENTO                 ARQUIVADOS.
+                                                                                 ❑ MEMBROS DA EQUIPE DO PROJETO SÃO LIBERADOS.
+                                                                                 ❑ OS CONTRATOS SÃO ENCERRADOS.
+
+                                                                                                                         ADMINISTRAÇÃO PÚBLICA
+                                            https://t.me/KakashiAssinaturasBot                                            ESTRATÉGIA CONCURSOS
+                                                                                          OS PRINCÍPIOS SÃO OS SEGUINTES
+   GUIA PMBOK - 7ª EDIÇÃO
+                                                                                        ❑ SEJA UM INTENDENTE DILIGENTE.
+                                                                INTENDÊNCIA             ❑ MANTENHA UMA CONDUTA DE RESPEITO E CUIDADOSA.
+                                                                                        ❑ SEJA UM ADMINISTRADOR DILIGENTE, RESPEITOSO E ATENCIOSO.
+
+
+  PRINCÍPIOS DO GERENCIAMENTO                                        EQUIPE             CRIE UM AMBIENTE DE EQUIPE COLABORATIVA.
+
+     DE PROJETOS - 7ª EDIÇÃO
+                                                                     PARTES
+                                                                                        ENGAJE-SE E ENVOLVA-SE DE FATO COM AS PARTES INTERESSADAS.
+                                                               INTERESSADAS
+
+
+    RISCO        OTIMIZE RESPOSTAS A RISCOS.                          VALOR             MANTENHA O FOCO NO VALOR.
+
+
+ADAPTABILIDADE   ADOTE      ADAPTABILIDADE     E                      VISÃO
+                                                                                        RECONHEÇA, AVALIE E REAJA ÀS INTERAÇÕES COM O SISTEMA.
+ E RESILIÊNCIA   RESILIÊNCIA.                                     SISTÊMICA
+
+                 ACEITE    A MUDANÇA PARA
+   CHANGE                                                         LIDERANÇA             DEMONSTRE COMPORTAMENTOS DE LIDERANÇA.
+                 ALCANÇAR O ESTADO FUTURO
+  (MUDANÇA)      PREVISTO.
+                                                                  TAILORING             FAÇA O TAILORING (ADAPTAÇÃO) COM BASE NO CONTEXTO.
+
+                                                                                        PROMOVA     E   INCLUA     QUALIDADE       EM   PROCESSOS    E
+                                                                 QUALIDADE              RESULTADOS/ENTREGAS.
+
+
+                                                             COMPLEXIDADE               NAVEGUE PELA COMPLEXIDADE.
+
+                                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                   https://t.me/KakashiAssinaturasBot                                           ESTRATÉGIA CONCURSOS
+    GUIA PMBOK - 7ª EDIÇÃO                                                                               TAILORING
+
+    OS ASPECTOS DO PROJETO QUE PODEM SER                                                               O TAILORING É:
+  SUBMETIDOS AO TAILORING SÃO OS SEGUINTES:
+                                                                                                       ❑ DA ABORDAGEM,
+  SELEÇÃO DO CICLO DE VIDA E A ABORDAGEM DE                              ADAPTAÇÃO DELIBERADA:         ❑ DA GOVERNANÇA E
+                 DESENVOLVIMENTO                                                                       ❑ DOS PROCESSOS DO GERENCIAMENTO DE PROJETOS.
+DECIDIR SOBRE O CICLO DE VIDA E AS FASES DESTE CICLO
+SÃO EXEMPLOS DE TAILORING.
+                                                                                     POSSUI O FOCO DE ADAPTAÇÃO DO PROJETO AO AMBIENTE.
+
+                                                                                                  VISA MELHORAR O AJUSTE:
+                    PROCESSOS
+                                                                 ❑ DA ORGANIZAÇÃO,
+INCLUI DETERMINAR QUAIS PARTES OU ELEMENTOS DEVEM
+SER:                                                             ❑ DO AMBIENTE OPERACIONAL E
+  • ADICIONADOS,                                                 ❑ DAS NECESSIDADES DO PROJETO.
+ • MODIFICADOS,
+ • REMOVIDOS,
+                                                                   FERRAMENTAS                    TRATA-SE DA ESCOLHA DAS FERRAMENTAS PELA EQUIPE.
+ • MISTURADOS OU
+ • ALINHADOS.
+                                                                                                       ❑ CONSISTE NO TAILORING DOS MEIOS.
+                  ENGAJAMENTO                                                                          ❑ SERÃO USADOS PARA ALCANÇAR OS RESULTADOS DO
+O TAILORING DO ENGAJAMENTO DAS PESSOAS ENVOLVIDAS                   MÉTODOS E ARTEFATOS                  PROJETO.
+NO PROJETO INCLUI:                                                                                     ❑ É REALIZADO PARA QUE OS MÉTODOS SEJAM
+                                                                                                         ADEQUADOS AO AMBIENTE E À CULTURA.
+ • PESSOAS,
+ • EMPODERAMENTO E
+ • INTEGRAÇÃO.                                                                                                                       ADMINISTRAÇÃO PÚBLICA
+                                                       https://t.me/KakashiAssinaturasBot                                             ESTRATÉGIA CONCURSOS
+ GUIA PMBOK - 7ª EDIÇÃO                                                           TAILORING
+                                                                    O PROCESSO DE TAILORING ENVOLVE 4 ETAPAS:
+                                         ❑ SELECIONAR A ABORDAGEM INICIAL.
+                                         ❑ REALIZAR O TAILORING DA ORGANIZAÇÃO.
+                                         ❑ REALIZAR O TAILORING DO PROJETO.
+DOMÍNIOS DO GERENCIAMENTO DE             ❑ IMPLEMENTAR MELHORIAS CONTÍNUAS.
+
+    PROJETOS - 7ª EDIÇÃO
+
+
+                                         ENQUANTO A 6ª EDIÇÃO TRATA DE 10 ÁREAS DE CONHECIMENTO A 7ª EDIÇÃO TRATA DE 8
+                                         DOMÍNIOS DE DESEMPENHO.
+
+                                         DOMÍNIO DE DESEMPENHO:
+                                              ❑ É UM GRUPO DE ATIVIDADES RELACIONADAS.
+                                              ❑ SÃO CRÍTICAS PARA A ENTREGA EFICAZ DOS RESULTADOS.
+                                              ❑ SÃO ÁREAS DE FOCO INTERATIVAS, INTER-RELACIONADAS E INTERDEPENDENTES.
+                                              ❑ SÃO EXECUTADOS DE FORMA SIMULTÂNEA AO LONGO DO PROJETO.
+
+
+
+
+                                                                                                          ADMINISTRAÇÃO PÚBLICA
+                               https://t.me/KakashiAssinaturasBot                                          ESTRATÉGIA CONCURSOS
+    GUIA PMBOK - 7ª EDIÇÃO
+                                                                                                 PLANEJAMENTO
+                                                                FUNÇÕES ASSOCIADAS À ORGANIZAÇÃO E COORDENAÇÃO DO PROJETO.
+
+
+                                                                                             TRABALHO DO PROJETO
+                                                                FUNÇÕES ASSOCIADAS AO ESTABELECIMENTO DE PROCESSOS DO PROJETO, GERENCIAMENTO DE
+DOMÍNIOS DO GERENCIAMENTO DE                                    RECURSOS FÍSICOS E PROMOÇÃO DE UM AMBIENTE DE APRENDIZADO.
+    PROJETOS - 7ª EDIÇÃO
+                                                                                                     ENTREGA
+                                                                FUNÇÕES ASSOCIADAS ÀS ENTREGAS DO ESCOPO E DA QUALIDADE.
+ EXISTEM 8 DOMÍNIOS DE DESEMPENHO DE PROJETOS:
+
+                                                                                                    MEDIÇÃO
+              PARTES INTERESSADAS                               FUNÇÕES ASSOCIADAS À AVALIAÇÃO DO DESEMPENHO DO PROJETO.
+TRATA DAS ATIVIDADES E FUNÇÕES ASSOCIADAS ÀS PARTES
+INTERESSADAS.
+                                                                                                    INCERTEZA
+                     EQUIPE
+                                                                FUNÇÕES ASSOCIADAS A RISCOS E INCERTEZAS.
+FUNÇÕES ASSOCIADAS ÀS PESSOAS RESPONSÁVEIS PELA
+PRODUÇÃO DAS ENTREGAS.
+
+ ABORDAGEM DE DESENVOLVIMENTO E CICLO DE
+                 VIDA
+FUNÇÕES ASSOCIADAS ÀS FASES DE ABORDAGEM DE
+DESENVOLVIMENTO, CADÊNCIA E CICLO DE VIDA DO
+PROJETO.                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                      https://t.me/KakashiAssinaturasBot                                    ESTRATÉGIA CONCURSOS
+

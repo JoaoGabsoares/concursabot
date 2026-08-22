@@ -1,0 +1,513 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 10_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: DIREITO TRIBUTÁRIO
+artigos_citados:
+- "art.\n           176"
+- art. 111
+- art. 150
+- art. 175
+- art. 176
+- art. 179
+- art. 180
+- art. 97
+---
+
+# DIREITO TRIBUTÁRIO
+
+---
+
+---
+
+DIREITO TRIBUTÁRIO
+
+                                        Prof. Fábio Dutra
+
+   
+
+
+---
+
+Prof Fábio Dutra
+
+      @proffabiodutra                 Fábio Dutra     ProfFabioDutraConcursos
+
+                 
+
+
+---
+
+    EXCLUSÃO DO
+CRÉDITO TRIBUTÁRIO
+   NOÇÕES GERAIS
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+ Exclusão do Crédito Tributário
+
+
+                 Instituição do    Ocorrência da situação prevista
+                                                                                    EXCLUSÃO       Lançamento
+                 Tributo por lei               em lei
+
+                 Hipótese de                Fato Gerador                      Isenção ou Anistia     Crédito
+                  Incidência                                                                        Tributário
+                                      (Surge Obrigação Tribut.)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                                @ProfFabioDutra
+                                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+
+       Concedida apenas mediante lei específica (CF/88, art. 150, § 6º e CTN,
+        art. 97, VI);
+
+
+       Interpretação literal da legislação que disponha sobre tal assunto (CTN,
+        art. 111, I);
+
+
+       Não dispensa o cumprimento de obrigações acessórias (CTN, art. 175, par.
+        único);
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+ Exclusão do Crédito Tributário
+
+       Modalidades de exclusão do crédito tributário:
+
+
+                      Isenção  Dispensa do pagamento de tributo;
+
+                      Anistia  Dispensa do pagamento de penalidade pecuniária (multa).
+
+Direito Tributário
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                          
+
+
+---
+
+Exclusão do Crédito Tributário
+
+              
+
+
+---
+
+---
+
+    EXCLUSÃO DO
+CRÉDITO TRIBUTÁRIO
+      ISENÇÃO
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                          (Isenção)
+
+     A isenção é uma modalidade de exclusão do crédito tributário.
+
+
+     O crédito excluído não é constituído pelo lançamento.
+
+
+     A isenção não dispensa o cumprimento de obrigações acessórias.
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                          (Isenção)
+
+     A concessão de isenção depende de lei autorizativa.
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                       (Isenção)
+
+    A isenção pode ser revogada a qualquer tempo, ressalvada a isenção
+     onerosa.
+
+    Isenção onerosa: concedida por prazo certo e em função de determinadas
+     condições.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                            
+
+
+---
+
+ Exclusão do Crédito Tributário
+
+           Súmula STF 544 - Isenções tributárias concedidas, sob condição
+           onerosa, não podem ser livremente suprimidas.
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                                 
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                            (Isenção)
+
+         A isenção, ainda quando prevista em contrato, é sempre decorrente de
+          lei que especifique as condições e requisitos exigidos para a sua
+          concessão, os tributos a que se aplica e, sendo caso, o prazo de sua
+          duração. (CTN, art. 176)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                 
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                             (Isenção)
+
+          A isenção pode ser restrita a determinada região do território da
+           entidade tributante, em função de condições a ela peculiares. (CTN, art.
+           176)
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                  
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                              (Isenção)
+
+          Salvo disposição de lei em contrário, a isenção não é extensiva:
+
+          I - às taxas e às contribuições de melhoria;
+
+          II - aos tributos instituídos posteriormente à sua concessão. (CTN, art.
+           177)
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                   
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                          (Isenção)
+
+        A isenção, quando não concedida em caráter geral, é efetivada, em
+         cada caso, por despacho da autoridade administrativa, em
+         requerimento com o qual o interessado faça prova do preenchimento
+         das condições e do cumprimento dos requisitos previstos em lei ou
+         contrato para sua concessão. (CTN, art. 179)
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                            (Isenção)
+
+        Sobre a isenção individual:
+
+        Tratando-se de tributo lançado por período certo de tempo, o despacho
+         referido neste artigo será renovado antes da expiração de cada
+         período, cessando automaticamente os seus efeitos a partir do
+         primeiro dia do período para o qual o interessado deixar de promover a
+         continuidade do reconhecimento da isenção.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                            (Isenção)
+
+       Atenção!
+
+       A isenção individual não gera direito adquirido!
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                                 
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                (Isenção e Anistia)
+    A concessão da isenção e anistia em caráter individual não gera direito
+     adquirido e será revogada de ofício, sempre que se apure que o
+     beneficiado não satisfazia ou deixou de satisfazer as condições ou não
+     cumprira ou deixou de cumprir os requisitos para a concessão do benefício,
+     cobrando-se o crédito acrescido de juros de mora:
+
+   a) - com imposição da penalidade cabível, nos casos de dolo ou simulação do
+   beneficiado, ou de terceiro em benefício daquele;
+
+   b) - sem imposição de penalidade, nos demais casos.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                (Isenção e Anistia)
+
+    Revogação de Isenção/Anistia Individual:
+
+    Nos casos de dolo ou simulação, o tempo decorrido entre a concessão da
+     isenção/anistia e sua revogação não se computa para efeito da extinção do
+     direito da Fazenda Pública;
+
+    Nos demais casos, a revogação só pode ocorrer antes de extinto o referido
+     direito.
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+    EXCLUSÃO DO
+CRÉDITO TRIBUTÁRIO
+      ANISTIA
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                          (Anistia)
+
+    A anistia é uma modalidade de exclusão do crédito tributário. O crédito
+     excluído não é constituído pelo lançamento.
+
+    A anistia abrange exclusivamente as infrações cometidas anteriormente à
+     vigência da lei que a concede.
+
+    A concessão de anistia depende de lei autorizativa.
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                              
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                              (Anistia)
+
+        A anistia abrange exclusivamente as infrações cometidas anteriormente
+         à vigência da lei que a concede, não se aplicando:
+
+       I - aos atos qualificados em lei como crimes ou contravenções e aos que,
+       mesmo sem essa qualificação, sejam praticados com dolo, fraude ou
+       simulação pelo sujeito passivo ou por terceiro em benefício daquele;
+
+       II - salvo disposição em contrário, às infrações resultantes de conluio entre
+       duas ou mais pessoas naturais ou jurídicas. (CTN, art. 180)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                               (Anistia)
+
+           A anistia pode ser concedida:
+
+          I - em caráter geral;
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                                   
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                             (Anistia)
+      A anistia pode ser concedida:
+
+     II - limitadamente:
+
+     a) às infrações da legislação relativa a determinado tributo;
+
+     b) às infrações punidas com penalidades pecuniárias até determinado
+     montante, conjugadas ou não com penalidades de outra natureza;
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                                 
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                           (Anistia)
+      A anistia pode ser concedida:
+
+     II - limitadamente:
+
+     c) a determinada região do território da entidade tributante, em função de
+     condições a ela peculiares;
+
+     d) sob condição do pagamento de tributo no prazo fixado pela lei que a
+     conceder, ou cuja fixação seja atribuída pela mesma lei à autoridade
+     administrativa.
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                           (Anistia)
+
+       A anistia, quando não concedida em caráter geral, é efetivada, em cada
+        caso, por despacho da autoridade administrativa, em requerimento com
+        a qual o interessado faça prova do preenchimento das condições e do
+        cumprimento dos requisitos previstos em lei para sua concessão.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                               
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                              (Anistia)
+
+       Atenção!
+
+       A anistia individual não gera direito adquirido!
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                  
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                (Isenção e Anistia)
+    A concessão da isenção e anistia em caráter individual não gera direito
+     adquirido e será revogada de ofício, sempre que se apure que o
+     beneficiado não satisfazia ou deixou de satisfazer as condições ou não
+     cumprira ou deixou de cumprir os requisitos para a concessão do benefício,
+     cobrando-se o crédito acrescido de juros de mora:
+
+   a) - com imposição da penalidade cabível, nos casos de dolo ou simulação do
+   beneficiado, ou de terceiro em benefício daquele;
+
+   b) - sem imposição de penalidade, nos demais casos.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+ Exclusão do Crédito Tributário
+                                (Isenção e Anistia)
+
+    Revogação de Isenção/Anistia Individual:
+
+    Nos casos de dolo ou simulação, o tempo decorrido entre a concessão da
+     isenção/anistia e sua revogação não se computa para efeito da extinção do
+     direito da Fazenda Pública;
+
+    Nos demais casos, a revogação só pode ocorrer antes de extinto o referido
+     direito.
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                              
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+OBRIGADO
+                                          Prof. Fábio Dutra
+
+     
+
+
+---
+
+---

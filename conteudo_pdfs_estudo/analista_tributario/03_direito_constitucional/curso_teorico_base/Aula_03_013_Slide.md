@@ -1,0 +1,213 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 03_013_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- art. 84
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                          Profª. Nelma Fontana
+
+     
+
+
+---
+
+   Professora Nelma
+        Fontana
+
+               @nelmafontan
+               a
+
+---
+
+Direitos e deveres individuais e coletivos
+
+              
+
+
+---
+
+Pequena propriedade rural
+
+XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada
+pela família, não será objeto de penhora para pagamento de débitos decorrentes
+de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu
+desenvolvimento;
+
+                            
+
+
+---
+
+Propriedade incorpórea
+
+XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou
+reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+XXVIII - são assegurados, nos termos da lei:
+a) a proteção às participações individuais em obras coletivas e à reprodução da
+imagem e voz humanas, inclusive nas atividades desportivas;
+b) o direito de fiscalização do aproveitamento econômico das obras que criarem
+ou de que participarem aos criadores, aos intérpretes e às respectivas
+representações sindicais e associativas;
+XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário
+para sua utilização, bem como proteção às criações industriais, à propriedade das
+marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o
+interesse social e o desenvolvimento tecnológico e econômico do País;
+                             
+
+
+---
+
+Direito de herança
+
+XXX - é garantido o direito de herança;
+
+XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei
+brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes
+seja mais favorável a lei pessoal do "de cujus";
+
+                              
+
+
+---
+
+Direito de reunião
+
+XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao
+público, independentemente de autorização, desde que não frustrem outra
+reunião anteriormente convocada para o mesmo local, sendo apenas exigido
+prévio aviso à autoridade competente;
+
+                           
+
+
+---
+
+Inafastabilidade de jurisdição
+
+XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a
+direito;
+
+                                 
+
+
+---
+
+Direito adquirido
+
+XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa
+julgada;
+
+                              
+
+
+---
+
+Princípio do Juiz Natural
+
+XXXVII - não haverá juízo ou tribunal de exceção;
+
+LIII - ninguém será processado nem sentenciado senão pela autoridade
+competente;
+
+                              
+
+
+---
+
+Tribunal do Júri
+
+XXXVIII - é reconhecida a instituição do júri, com a organização que lhe der a lei,
+assegurados:
+a) a plenitude de defesa;
+b) o sigilo das votações;
+c) a soberania dos veredictos;
+d) a competência para o julgamento dos crimes dolosos contra a vida;
+
+                              
+
+
+---
+
+Crimes inafiançáveis, imprescritíveis e que não admitem perdão
+
+XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à
+pena de reclusão, nos termos da lei;
+
+XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a
+prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e
+os definidos como crimes hediondos, por eles respondendo os mandantes, os
+executores e os que, podendo evitá-los, se omitirem;
+
+XLIV - constitui crime inafiançável e imprescritível a ação de grupos armados, civis
+ou militares, contra a ordem constitucional e o Estado Democrático;
+
+                               
+
+
+---
+
+---
+
+Princípio da personificação da pena
+
+XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de
+reparar o dano e a decretação do perdimento de bens ser, nos termos da lei,
+estendidas aos sucessores e contra eles executadas, até o limite do valor do
+patrimônio transferido;
+
+                             
+
+
+---
+
+Princípio da individualização da pena/penas permitidas
+
+XLVI - a lei regulará a individualização da pena e adotará, entre outras, as
+seguintes:
+a) privação ou restrição da liberdade;
+b) perda de bens;
+c) multa;
+d) prestação social alternativa;
+e) suspensão ou interdição de direitos;
+
+                            
+
+
+---
+
+Penas proibidas
+
+XLVII - não haverá penas:
+a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
+b) de caráter perpétuo;
+c) de trabalhos forçados;
+d) de banimento;
+e) cruéis;
+
+                              
+
+
+---
+
+GRATA!
+                                          Profª.: Nelma Fontana
+
+     
+
+
+---

@@ -1,0 +1,4338 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 14_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1)  Séries Temporais
+
+
+)  Modelo Clássico                                                                                                                                                                           6
+
+3)  Tendência                                                                                                                                                                               15
+)  Suavização Exponencial                                                                                                                                                                  25
+..............................................................................................................................................................................................
+
+)  Operadores                                                                                                                                                                              29
+
+6)  Estacionariedade                                                                                                                                                                        32
+..............................................................................................................................................................................................
+
+)  Funções de Autocovariância e Autocorrelação                                                                                                                                             33
+
+8)  Modelos Arima                                                                                                                                                                           34
+)  Questões Comentadas - Modelo Clássico - FGV                                                                                                                                             67
+..............................................................................................................................................................................................
+
+)   Questões Comentadas - Tendência - FGV                                                                                                                                                 68
+
+11)   Questões Comentadas - Funções de Autocovariância e Autocorrelação - FGV                                                                                                               70
+)   Questões Comentadas - Modelos ARIMA - FGV                                                                                                                                             72
+..............................................................................................................................................................................................
+
+)   Aviso importante - Orientação de estudo                                                                                                                                               84
+
+14)   Questões Comentadas - Modelo Clássico - Inéditas                                                                                                                                      85
+)   Questões Comentadas - Tendência - Inéditas                                                                                                                                            89
+..............................................................................................................................................................................................
+
+)   Questões Comentadas - Suavização Exponencial - Inéditas                                                                                                                               94
+
+17)   Questões Comentadas - Modelos ARIMA - Inéditas                                                                                                                                        95
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Modelo Clássico - FGV                                                                                                                                           104
+
+19)   Lista de Questões - Tendência - FGV                                                                                                                                                 106
+)   Lista de Questões - Funções de Autocovariância e Autocorrelação - FGV                                                                                                               108
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Modelos ARIMA - FGV                                                                                                                                             110
+
+22)   Lista de Questões - Modelo Clássico - Inéditas                                                                                                                                      116
+)   Lista de Questões - Tendência - Inéditas                                                                                                                                            119
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Suavização Exponencial - Inéditas                                                                                                                               123
+
+25)   Lista de Questões - Modelos ARIMA - Inéditas                                                                                                                                        125
+..............................................................................................................................................................................................
+
+
+---
+
+                                   SÉRIES TEMPORAIS
+Uma série temporal é um conjunto de observações ordenadas no tempo, como os índices diários da bolsa
+de valores; os valores mensais de temperatura de uma cidade; a precipitação atmosférica mensal de uma
+cidade; o registro de marés em um porto; etc.
+Vamos supor que estivéssemos medindo a temperatura do ar ao longo do dia, durante vários instantes 𝑡,
+com 𝑡 variando de 0 a 24 horas. Em certo dia, obtivemos o seguinte gráfico:
+
+                                                Temperatura
+                 28
+                 26
+                 24
+                 22
+                 20
+                 18
+                 16
+                 14
+                 12
+                 10
+                      0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+                                                       seg
+
+
+Nos outros dias da semana, foram obtidos outros gráficos, como os indicados a seguir:
+
+                                                Temperatura
+                 30
+                 28
+                 26
+                 24
+                 22
+                 20
+                 18
+                 16
+                 14
+                 12
+                 10
+                      0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+                                 seg      ter       quarta    quinta     sexta
+
+
+Um processo estocástico é um processo controlado pelas leis da probabilidade, que pode ser visto como
+um conjunto de todas as possíveis trajetórias que se pode observar de uma variável. Uma série temporal
+é uma trajetória ou parte de uma trajetória, dentre as muitas que podem ter sido observadas.
+
+
+---
+
+Portanto, cada linha nos fornece uma possível trajetória da variável temperatura ao longo do dia. Cada
+trajetória é uma sucessão de valores ordenados no tempo, chamada de série temporal. Assim, a
+temperatura no instante t é designada pela variável 𝑍(𝑡).
+A série temporal é contínua se as observações são obtidas continuamente em um determinado intervalo
+de tempo [0,T]. Por outro lado, a série temporal é discreta se o intervalo de observações pertence a um
+conjunto discreto, ou seja, as observações são realizadas em intervalos de tempo específicos.
+Nos exemplos iniciais, temos 3 casos de séries temporais discretas (índices diários da bolsa de valores,
+temperatura e precipitação atmosférica mensal) e 1 caso de série temporal contínua (o registro de marés
+em um porto).
+A periodicidade das observações pode ser diária, semanal, mensal, trimestral, anual e decenal,
+dependendo do caso em estudo. Determinadas variáveis, porém, por serem mais voláteis, podem exigir
+períodos mais curtos, como a hora ou o minuto.
+O objetivo da análise de séries temporais é descobrir os padrões de comportamento (crescimento e
+mudança) nas variáveis estudadas, buscando entender o relacionamento histórico entre as observações,
+para fins de previsibilidade de valores futuros da série em consideração.
+Uma série temporal é dita estacionária quando ela se desenvolve aleatoriamente em torno de uma média
+constante, exibindo comportamento estatístico similar ao longo do tempo. Além disso, apresenta sempre a
+mesma distribuição de probabilidades no tempo (mesma média, variância, etc).
+Na prática, contudo, as séries costumam ser não estacionárias, isto é, apresentar uma tendência de
+crescimento ou decrescimento ao longo do tempo. Em geral, as séries econômicas apresentam tendências.
+Por exemplo, quando a série se desenvolve em torno de uma reta, dizemos que há uma tendência linear.
+Por fim, algumas séries não estacionárias podem apresentar comportamento explosivo. Os modelos ARIMA
+são capazes de descrever séries estacionárias e não estacionárias que apresentem um comportamento não
+explosivo.
+
+
+---
+
+(IADES/SEAP-DF/2014) Uma série temporal é qualquer conjunto de observações ordenadas no tempo.
+Acerca das séries temporais, assinale a alternativa correta.
+a) As séries temporais não podem ser contínuas nem discretas.
+b) Os modelos utilizados para descrever séries temporais não são controlados por fatores probabilísticos.
+c) Os modelos utilizados para descrever séries temporais são processos estocásticos, isto é, processos
+controlados por leis probabilísticas.
+d) Um conjunto de observações ordenadas no tempo não é uma série temporal.
+e) Um conjunto de índices diários da bolsa de valores não é um exemplo de série temporal.
+
+
+Comentários:
+Vamos analisar cada alternativa:
+Alternativa A: Incorreta. Não há nenhuma restrição quanto ao tipo de dado, podendo ser discreto ou
+contínuo. Por exemplo, a série temporal da produção mensal de painéis solares no Brasil será constituída
+por dados discretos. Por outro lado, a série temporal da variação das alturas das marés será constituída por
+dados contínuos.
+Alternativa B: Incorreta. Um processo estocástico é uma família de variáveis aleatórias representando a
+evolução de um sistema de valores com o tempo, ou seja, uma série temporal. É a contraparte probabilística
+de um processo determinístico. Ao invés de um processo que possui um único modo de evoluir, em um
+processo estocástico há uma indeterminação: mesmo que se conheça a condição inicial, existem várias, por
+vezes infinitas, direções nas quais o processo pode evoluir.
+Alternativa C: Correta. De fato, os modelos utilizados para descrever séries temporais são processos
+estocásticos, isto é, processos controlados por leis probabilísticas.
+Alternativa D: Incorreta. É exatamente o contrário - um conjunto de observações ordenadas no tempo é uma
+série temporal.
+Alternativa D: Incorreta. Uma série temporal é um conjunto de observações ordenadas no tempo. Os preços
+das ações são observações de valores negociados de forma sequencial em determinado período (dias, horas,
+minutos). Portanto, esses dados podem ser vistos como uma série temporal.
+Gabarito: C.
+
+
+---
+
+                                  MODELO CLÁSSICO
+As séries temporais podem ser decompostas em quatro componentes: tendência secular (T), variação
+sazonal (S), variação cíclica (C), variação irregular ou aleatória (I). Esses quatro componentes serão
+detalhados nas subseções seguintes.
+
+Tendência
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. As
+tendências podem estar relacionadas com fatos tais como variações de população, modificações nas
+preferências dos consumidores, maior ênfase em energia sustentável, etc.
+A tendência diz respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem
+por um longo período. Por exemplo, a série temporal do consumo de eletricidade no Brasil apresenta uma
+tendência ascendente ou crescente.
+
+A tendência pode ser linear ou não. Caso não seja linear, podemos escolher outro tipo de função
+(exponencial, logarítmica, quadrática) que melhor se adapte à representação gráfica da série temporal.
+
+Variação Sazonal
+As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de forma
+regular e periódica. Essas forças geralmente seguem um padrão semelhante ano após ano. Dessa forma, as
+variações sazonais são variações cíclicas a prazo relativamente curto (um ano ou menos).
+Quando registramos dados semanais, mensais ou trimestrais, podemos ver e calcular as variações sazonais.
+Contudo, quando uma série temporal consiste apenas em dados baseados em valores anuais, não somos
+capazes de identificar variações sazonais.
+
+
+---
+
+Essas variações podem ser devidas a estações do ano, época, condições climáticas, feriados, hábitos,
+costumes ou tradições. Por exemplo, a venda de sorvetes aumenta no verão; a venda de livros didáticos
+cresce no primeiro bimestre; a venda de roupas de frio cresce no inverno; etc.
+
+Variação Cíclica
+As variações cíclicas são oscilações de longo prazo em torno de uma linha de tendência. Esses ciclos podem
+ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes após intervalos de tempo iguais.
+Essas variações possuem duração maior que um ano e não mostram o tipo de regularidade observada no
+caso de variações sazonais.
+Um exemplo de variação cíclica ocorre nos chamados ciclos de negócios, representando intervalos de
+prosperidade, recessão, depressão e recuperação. Essas fases seguem umas às outras com regularidade
+constante e o período entre dois picos de prosperidade é chamado de ciclo completo. Os períodos usuais de
+um ciclo de negócios podem variar entre 5 a 11 anos.
+Na fase de prosperidade, os negócios prosperam, os preços sobem e os lucros se multiplicam. Isso causa
+aumento da atividade econômica, dificuldades de transporte, aumento dos salários, deficiência de mão-de-
+obra, altas taxas de juros e escassez de dinheiro no mercado, levando à recessão. O ponto em que a atividade
+econômica atinge seu ápice é denominado de pico.
+Na fase de depressão, há pessimismo no comércio e nas indústrias. A atividade econômica diminui e o
+desemprego se espalha. Isso causa a ociosidade de dinheiro, a disponibilidade de dinheiro a juros baixos e o
+aumento na demanda por bens e serviços, caracterizando a situação de recuperação econômica. O ponto
+em que a atividade econômica atinge seu nível mais baixo é denominado de vale.
+A maioria das séries econômicas e de negócios relacionadas a renda, investimento, salários e produção
+mostra essa tendência.
+
+Variação Irregular (ou aleatória)
+As variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis. Essas forças são
+causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido. As variações irregulares podem ser resultantes de enchentes, guerras, pandemias,
+terremotos, conflitos políticos, etc.
+
+
+---
+
+O gráfico a seguir ilustra a interação das 4 (quatro) componentes de uma série temporal:
+
+                                 Variação Sazonal
+
+                                                                           Tendência Secular
+
+        Variação Irregular                              Variação Cíclica
+
+ 0        1        2         3         4            5      6          7         8         9    10   11   12
+
+(IBADE/IPERON/2017) Considerando uma série temporal, é correto afirmar que a tendência indica:
+a) comportamento sazonal a curto prazo.
+b) ciclos de altas e quedas periódicas de valores a curto prazo.
+c) comportamento independente dos dados a longo, curto e médio prazo.
+d) comportamento a longo prazo.
+e) somente se há um outlier conhecido como ponto influente.
+
+
+Comentários:
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. Ela diz
+respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um longo
+período.
+Gabarito: D.
+
+
+---
+
+(UEPA/FAPESPA/2014) Definem-se séries temporais como um conjunto cronológico de observações.
+Então, considere a seguinte situação: uma indústria está selecionando pessoas para trabalhar na área de
+controle de qualidade por meio de currículo e entrevistas. Durante a entrevista o responsável pelo setor
+faz a seguinte pergunta ao candidato ao emprego: “Quais os elementos que compõem o modelo clássico
+de séries temporais?”. A alternativa correta desta indagação é:
+a) regularização exponencial, variação cíclicas, variações sazonais e variações irregulares.
+b) tendência, variações aditivas, médias móveis, variações regulares.
+c) variações multiplicativas, variações irregulares, tendência e variações sazonais.
+d) tendência cíclica, variações aditivas, variações sazonais e variações irregulares.
+e) tendência, variações cíclicas, variações sazonais e variações irregulares.
+
+
+Comentários:
+Uma série temporal é um conjunto de observações ordenadas no tempo. As séries temporais podem ser
+decompostas em quatro componentes: tendência secular (T), variação sazonal (S), variação cíclica (C),
+variação irregular ou aleatória (I).
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. Ela diz
+respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um longo
+período.
+As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de forma
+regular e periódica. Dessa forma, as variações sazonais são variações cíclicas a prazo relativamente curto (um
+ano ou menos).
+As variações cíclicas são oscilações de longo prazo em torno de uma linha de tendência. Esses ciclos podem
+ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes após intervalos de tempo iguais.
+As variações aleatórias são flutuações (ruídos) resultantes de forças imprevistas e imprevisíveis. Essas forças
+são causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido.
+Gabarito: E.
+
+
+---
+
+Modelos Aditivo e Multiplicativo
+O modelo aditivo considera uma série temporal como o resultado da soma das componentes individuais,
+isto é, a soma da componente de tendência (𝑻𝒕 ), da componente cíclica (𝑪𝒕 ), da componente sazonal (𝑺𝒕 )
+e da componente irregular (𝑰𝒕 ). Assim, o modelo aditivo tem a forma:
+
+
+                                       𝒁𝒕 = 𝑻𝒕 + 𝑪𝒕 + 𝑺𝒕 + 𝑰𝒕
+
+
+O modelo aditivo pressupõe que os componentes não interagem entre si e são independentes. Esse
+comportamento, no entanto, não é o que observamos na prática. Muitas vezes, um movimento do
+componente sazonal pode influenciar a tendência, fazendo com que o modelo aditivo se torne inadequado.
+
+O modelo aditivo deve ser empregado quando a série temporal não apresentar uma modificação
+significativa na amplitude com o incremento do nível ao longo do tempo, ou seja, a decomposição pode
+ser feita pelo método aditivo se as magnitudes das flutuações sazonais não variam com nível da série ao
+longo do tempo.
+
+Finalmente, no modelo aditivo, todas as componentes são expressas em suas unidades originais. As
+componentes 𝐶𝑡 , 𝑆𝑡 e 𝐼𝑡 representam desvios em torno da tendência 𝑇𝑡 .
+
+
+O modelo multiplicativo considera uma série temporal como resultado do produto das componentes
+individuais, isto é, o produto da tendência, da componente cíclica, da componente sazonal e da
+componente irregular. Assim, o modelo multiplicativo tem a forma:
+
+
+                                       𝒁𝒕 = 𝑻𝒕 × 𝑪𝒕 × 𝑺𝒕 × 𝑰𝒕
+
+
+O modelo multiplicativo pressupõe que os componentes interagem entre si e não são independentes.
+Como dissemos anteriormente, na prática, o que se visualiza é exatamente esse comportamento. Por isso, o
+modelo multiplicativo é mais empregado que o modelo aditivo.
+
+
+---
+
+A decomposição pode ser feita pelo método multiplicativo se as magnitudes das flutuações sazonais
+variam com nível da série ao longo do tempo, isto é, se a série temporal apresenta um comportamento
+sazonal estatisticamente significativo, conforme mostra a figura a seguir:
+
+No modelo multiplicativo, apenas a tendência T é expressa na unidade original (p. ex., 10t). As demais
+componentes C, S e I são expressas em porcentagens da tendência.
+
+(FUNDATEC/Pref. de Porto Alegre/2020) Qual método de previsão de Séries Temporais deve ser utilizado
+quando temos tendência e sazonalidade presentes nos dados?
+a) Decomposição.
+b) Média Móvel.
+c) Alisamento exponencial simples.
+d) Alisamento exponencial duplo.
+e) Análise de tendência com regressão linear.
+
+
+Comentários:
+A decomposição da série permite identificar quais componentes estão atuando no conjunto, possibilitando
+a obtenção de equações para realizar previsões para períodos futuros da série.
+As séries temporais podem ser decompostas em quatro componentes: tendência secular (T), variação
+sazonal (S), variação cíclica (C), variação irregular ou aleatória (I). Temos dois modelos de decomposição: o
+aditivo e o multiplicativo.
+
+
+---
+
+O modelo aditivo considera uma série temporal como o resultado da soma das componentes individuais,
+isto é, a soma da componente de tendência (𝑇𝑡 ), da componente cíclica (𝐶𝑡 ), da componente sazonal (𝑆𝑡 ) e
+da componente irregular (𝐼𝑡 ). Assim, o modelo aditivo tem a forma:
+                                          𝑍𝑡 = 𝑇𝑡 + 𝐶𝑡 + 𝑆𝑡 + 𝐼𝑡
+O modelo multiplicativo considera uma série temporal como resultado do produto das componentes
+individuais, isto é, o produto da tendência, da componente cíclica, da componente sazonal e da componente
+irregular. Assim, o modelo multiplicativo tem a forma:
+                                          𝑍𝑡 = 𝑇𝑡 × 𝐶𝑡 × 𝑆𝑡 × 𝐼𝑡
+Gabarito: A.
+
+
+(FCC/Pref Manaus/2019) Analisando as vendas trimestrais realizadas pela empresa Gama no período de
+2016 a 2018, obteve-se a equação da tendência utilizando o método dos mínimos quadrados com base
+nestas 12 observações, ou seja, 𝑿𝒕 = 𝟏𝟎 + 𝟏, 𝟓𝒕, em que X corresponde às vendas trimestrais (em
+milhões de reais) e 𝒕 = 𝟏 representa o primeiro trimestre de 2016, 𝒕 = 𝟐 representa o segundo trimestre
+de 2016 e assim por diante.
+
+                             Trimestre    1º         2º         3º      4º
+
+                               Índices
+                                          0,5        0,3        1,2     1,0
+                              Sazonais
+
+
+A previsão das vendas para o segundo trimestre de 2020, levando em conta o movimento sazonal do
+período e considerando o modelo multiplicativo, é igual, em milhões de reais, a
+a) 11,1.
+b) 12,6.
+c) 12,0.
+d) 11,5.
+e) 11,8.
+
+
+Comentários:
+De 2016 a 2019, temos um total de 4 anos, cada um com 4 trimestres. Logo, temos 16 trimestres. Assim, o
+primeiro trimestre de 2020 representará a décima sétima observação dessa série, 𝑡 = 17; e o segundo
+trimestre de 2020 representará a décima oitava observação, 𝑡 = 18.
+Calculando a tendência para 𝑡 = 18, temos:
+                                                𝑋 = 10 + 1,5𝑡
+                                             𝑋 = 10 + 1,5 × 18
+
+
+---
+
+                                                  𝑋 = 37
+O índice sazonal para o segundo trimestre foi fornecido na tabela, vale 0,3. Assim, basta multiplicarmos a
+tendência encontrada pelo índice sazonal:
+                                              0,3 × 37 = 11,1
+Gabarito: A.
+
+
+(FCC/BACEN/2006) A análise do comportamento das vendas de uma empresa durante os últimos anos
+permitiu apurar uma tendência linear de crescimento ao longo do tempo com sazonalidade.
+Por meio do método dos mínimos quadrados, a empresa deduziu a reta de tendência como sendo 𝒀𝒕 =
+𝟓 + 𝟐𝟓 𝒕, em que 𝒀𝒕 são as vendas, em milhares de reais, em t, que representa o trimestre correspondente
+das vendas (𝒕 = 𝟏 é o primeiro trimestre de 2001; 𝒕 = 𝟐 é o segundo trimestre de 2001, e assim por diante).
+Esta empresa poderá adotar o modelo multiplicativo, caso se verifique que os movimentos estejam
+associados ao nível de tendência, ou adotar o modelo aditivo, caso se verifique movimentos em torno da
+tendência que não dependam de seu nível.
+O quadro a seguir fornece os fatores sazonais, caso seja adotado o modelo multiplicativo, e as médias das
+diferenças (vendas observadas menos vendas obtidas pela tendência) por trimestre, caso seja adotado o
+modelo aditivo.
+                                              Fator Sazonal
+                             Trimestre                          Média das Diferenças
+                                              Multiplicativo
+                             Primeiro                0,4               -280
+                             Segundo                 0,6               -205
+                             Terceiro                1,2                150
+                              Quarto                 1,8                335
+
+A previsão de vendas, em milhares de reais, para o primeiro trimestre de 2006 é
+a) 212, caso seja adotado o método multiplicativo.
+b) 210, caso seja adotado o método multiplicativo.
+c) 200, caso seja adotado o método multiplicativo.
+d) 245, caso seja adotado o método aditivo.
+e) 225, caso seja adotado o método aditivo.
+
+
+Comentários:
+Para o primeiro trimestre de 2001, temos 𝑡 = 1. De 2001 a 2006, temos 5 anos, cada ano com 4 trimestres,
+logo, temos um total de 20 trimestres. Portanto, o primeiro trimestre de 2006 será o vigésimo primeiro da
+série, 𝑡 = 21.
+
+
+---
+
+Calculando a tendência para 𝑡 = 21, temos:
+                                               𝑇 = 5 + 25𝑡
+                                             𝑇 = 5 + 25 × 21
+                                                 𝑇 = 530
+Agora, basta multiplicarmos a tendência pelo fator sazonal do primeiro trimestre (0,4):
+                                             530 × 0,4 = 212
+Gabarito: A.
+
+
+---
+
+                                         TENDÊNCIA
+A tendência se refere ao movimento dos dados a longo prazo, para cima e para baixo. Há duas finalidades
+básicas ao isolar a tendência numa série temporal. Uma é identificar a tendência e usá-la, digamos, em
+previsões. A outra é remover a tendência, de modo a permitir o estudo das outras componentes da série.
+
+Os movimentos de tendência podem ofuscar outros componentes de uma série temporal. Os padrões
+sazonal e cíclico podem se tomar menos evidentes quando a tendência está presente. Em geral, estratégias
+a curto prazo dependem mais de fatores sazonais e cíclicos do que de uma tendência a longo prazo.
+
+Há dois métodos gerais para isolar a tendência. No primeiro, empregamos modelos de regressão para
+estimar a linha de tendência. No outro, usamos médias móveis para eliminar os outros componentes.
+
+Regressão Linear
+Se substituirmos a variável independente 𝑥 pelo tempo (𝑡 = 1, 2, 3, ⋯ , 𝑛) e usarmos os correspondentes
+valores da série temporal como variável dependente, podemos aplicar os modelos de regressão à análise de
+dados de séries temporais.
+
+A tabela a seguir contém dados de uma série temporal para um período de 20 (vinte) anos.
+
+                                  Ano   Toneladas    Ano    Toneladas
+
+                                 2001       12       2011      18
+
+                                 2002       14       2012      20
+
+                                 2003       13       2013      21
+
+                                 2004       12       2014      18
+
+                                 2005       14       2015      17
+
+                                 2006       16       2016      19
+
+                                 2007       17       2017      23
+
+                                 2008       18       2018      25
+
+                                 2009       15       2019      21
+
+                                 2010       16       2020      23
+
+
+---
+
+Reparem que o gráfico dessa série temporal sugere a existência de uma tendência linear:
+
+                                                 Toneladas
+                  30
+
+                  25
+
+                  20
+
+                  15
+
+                  10
+
+                   5
+
+                   0
+
+Vejamos como aplicar a técnica de regressão linear para obter a reta de tendência. Substituindo a escala (𝑥)
+da variável independente por uma escala de tempo (𝑡), obtemos uma equação da forma:
+
+                                                𝑍𝑡 = 𝑎 + 𝑏 × 𝑡
+
+em que:
+
+  𝑍𝑡 : valor previsto da série temporal;
+
+  𝑎: valor de 𝑍𝑡 quando 𝑡 = 0;
+
+  𝑏: coeficiente angular da reta; e
+
+  𝑡: número de períodos.
+
+As equações para 𝑎 e 𝑏 são expressas pelas seguintes fórmulas:
+
+                                                𝒏 ∑ 𝒕𝒁 − ∑ 𝒕 ∑ 𝒁
+                                           𝒃=
+                                                𝒏 ∑ 𝒕𝟐 − (∑ 𝒕)𝟐
+
+
+                                            ∑𝒁 − 𝒃∑𝒕
+                                       𝒂=             ̅ − 𝒃𝒕̅
+                                                     =𝒁
+                                               𝒏
+
+
+em que 𝑛 é o número de observações.
+
+
+---
+
+A tabela a seguir calcula os valores necessários nas fórmulas: ∑ 𝑡, ∑ 𝑡 2 , ∑(𝑡 × 𝑍) e ∑ 𝑍. Reparem que os anos
+foram substituídos por 1, 2, 3, etc. Isso simplifica os cálculos e resulta em um valor para a em 𝑡 = 0.
+
+                                  Ano    𝒕     𝒁          𝒕×𝒁            𝒕𝟐
+                                 2001    1     12     𝟏 × 𝟏𝟐 = 𝟏𝟐         1
+                                 2002    2     14     𝟐 × 𝟏𝟒 = 𝟐𝟖         4
+                                 2003    3     13     𝟑 × 𝟏𝟑 = 𝟑𝟗         9
+                                 2004    4     12     𝟒 × 𝟏𝟐 = 𝟒𝟖        16
+                                 2005    5     14     𝟓 × 𝟏𝟒 = 𝟕𝟎        25
+                                 2006    6     16     𝟔 × 𝟏𝟔 = 𝟗𝟔        36
+                                 2007    7     17    𝟕 × 𝟏𝟕 = 𝟏𝟏𝟗        49
+                                 2008    8     18    𝟖 × 𝟏𝟖 = 𝟏𝟒𝟒        64
+                                 2009    9     15    𝟗 × 𝟏𝟓 = 𝟏𝟑𝟓        81
+                                 2010    10    16   𝟏𝟎 × 𝟏𝟔 = 𝟏𝟔𝟎        100
+                                 2011    11    18   𝟏𝟏 × 𝟏𝟖 = 𝟏𝟗𝟎        121
+                                 2012    12    20   𝟏𝟐 × 𝟐𝟎 = 𝟐𝟒𝟎        144
+                                 2013    13    21   𝟏𝟑 × 𝟐𝟏 = 𝟐𝟕𝟑        169
+                                 2014    14    18   𝟏𝟒 × 𝟏𝟖 = 𝟐𝟓𝟐        196
+                                 2015    15    17   𝟏𝟓 × 𝟏𝟕 = 𝟐𝟓𝟓        225
+                                 2016    16    19   𝟏𝟔 × 𝟏𝟗 = 𝟑𝟎𝟒        256
+                                 2017    17    23   𝟏𝟕 × 𝟐𝟑 = 𝟑𝟗𝟏        289
+                                 2018    18    25   𝟏𝟖 × 𝟐𝟓 = 𝟒𝟓𝟎        324
+                                 2019    19    21   𝟏𝟗 × 𝟐𝟏 = 𝟑𝟗𝟗        361
+                                 2020    20    23   𝟐𝟎 × 𝟐𝟑 = 𝟒𝟔𝟎        400
+                                   Σ    210 352           4.073         2.870
+
+
+De posse dos valores de ∑ 𝑡, ∑ 𝑡 2 , ∑(𝑡 × 𝑍) e ∑ 𝑍, podemos calcular os parâmetros da reta de regressão:
+
+     𝑛 × ∑(𝑡 × 𝑍) − (∑ 𝑡) × (∑ 𝑍) 20 × (4.073) − 210 × 352 81.460 − 73.920   7.540
+𝑏=                               =                        =                =       ≅ 0,567
+         𝑛 × (∑ 𝑡 2 ) − (∑ 𝑡)2      20 × 2.870 − (210)2     57.400 − 44.100 13.300
+                                  ∑ 𝑍 − 𝑏 × ∑ 𝑡 352 − 0,567 × 210
+                             𝑎=                =                  = 11,65
+                                       𝑛               20
+
+
+Assim, a componente linear desses dados é representada pela equação:
+
+                                          𝑍𝑡 = 11,65 + 0,567 × 𝑡.
+
+
+---
+
+A reta pode ser traçada mediante a identificação de dois pontos quaisquer. Naturalmente, já temos o ponto
+em que a reta intercepta o eixo 𝑦: o valor de 𝑎. Logo, para 𝑡 = 0 (2001), 𝑍𝑡 = 𝑎 = 11,65. Outro ponto pode
+ser o valor de 𝑍𝑡 quando 𝑡 = 20: 𝑍𝑡 = 11,65 + 0,567 × 20 = 22,99.
+
+O traçado da linha de tendência é apresentado na figura a seguir:
+
+                                               Toneladas
+                  30
+
+                  25
+
+                  20
+                                                                        Zt = 0,567 t + 11,65
+                  15
+
+                  10
+
+                   5
+
+                   0
+
+Se os dados são exportações anuais em toneladas, e a finalidade da análise é prever exportações futuras,
+podemos levar os valores de 𝑡 na equação para obter as exportações projetadas para anos futuros. Por
+exemplo, a estimativa para 2021 (t = 21) seria:
+
+                                   𝑍𝑡 = 11,65 + 0,567 × 21 = 23,56.
+
+Médias Móveis
+A média móvel também pode ser aplicada à análise de tendência de uma série. Uma média móvel é uma
+média das últimas 𝒌 observações, digamos as 5, 10 ou 15 últimas. A média é móvel porque, à medida que
+incluímos uma nova observação, desprezamos também a mais antiga.
+
+Assim, uma média móvel é a média aritmética das últimas 𝒌 observações 𝒁𝒕 :
+
+                                                ∑𝒌𝒊=𝒕−𝒌 𝒁𝒕
+                                           𝑴𝑴 =
+                                                    𝒌
+
+
+---
+
+Consideremos a seguinte série, para a qual foi estabelecida uma média móvel de cinco períodos:
+
+                   𝒕   𝒁𝒕    Total Móvel (5 períodos)      Média Móvel = Total Móvel/5
+
+                  1    10
+
+                  2    15
+
+                  3    10
+
+                  4    5
+
+                  5    10   = 10 + 15 + 10 + 5 + 10 = 50           = 50/5 = 10
+
+                  6    15   = 15 + 10 + 5 + 10 + 15 = 55           = 55/5 = 11
+
+                  7    20   = 10 + 5 + 10 + 15 + 20 = 60           = 60/5 = 12
+
+                  8    25   = 5 + 10 + 15 + 20 + 25 = 75           = 75/5 = 15
+
+                  9    15 = 10 + 15 + 20 + 25 +15 = 85             = 85/5 = 17
+
+                  10   5    = 15 + 20 + 25 +15 + 5 = 80            = 80/5 = 16
+
+
+Reparem que sempre calculamos a soma das cinco últimas observações (total móvel), e que a média móvel
+foi obtida dividindo-se o total móvel pelo número de períodos (valores) naquele total. Assim, há sempre k
+observações no total móvel.
+
+O efeito da utilização de uma média móvel é a remoção de variações sazonais, cíclicas, irregulares e
+aleatórias; restando apenas o que é considerado tendência. Contudo, devemos adotar um período bastante
+longo para que a média móvel seja capaz de remover variações cíclicas e irregulares.
+
+Quanto mais dados incluímos na média, menos sensível ela se torna a observações recentes.
+Inversamente, quanto menos dados, mais sensível ela se torna a mudanças recentes. Às vezes, podemos
+utilizar um esquema de ponderação (suavização exponencial) que atribui maior peso às observações mais
+recentes.
+
+     Quanto mais dados incluímos na média, menos sensível ela se torna a observações
+     recentes. Inversamente, quanto menos dados, mais sensível ela se torna a mudanças
+     recentes
+
+
+---
+
+A tabela a seguir ilustra a média móvel de 5 períodos para os mesmos dados analisados por regressão:
+
+                   Ano     𝒕   𝒁     Total Móvel (5 períodos)     MM = Total Móvel/5
+
+                   2001    1   12
+
+                   2002    2   14
+
+                   2003    3   13
+
+                   2004    4   12
+
+                   2005    5   14   12 + 14 + 13 + 12 + 14 = 65       65/5 = 13,0
+
+                   2006    6   16   14 + 13 + 12 + 14 + 16 = 69       69/5 = 13,8
+
+                   2007    7   17   13 + 12 + 14 + 16 + 17 = 72       72/5 = 14,4
+
+                   2008    8   18   12 + 14 + 16 + 17 + 18 = 77       77/5 = 15,4
+
+                   2009    9   15   14 + 16 + 17 + 18 + 15 = 80       80/5 = 16,0
+
+                   2010 10 16       16 + 17 + 18 + 15 + 16 = 82      82/ 5 = 16,4
+
+                   2011 11 18       17 + 18 + 15 + 16 + 18 = 84       84/5 = 16,8
+
+                   2012 12 20       18 + 15 + 16 + 18 + 20 = 87       87/5 = 17,4
+
+                   2013 13 21       15 + 16 + 18 + 20 + 21 = 90       90/5 = 18,0
+
+                   2014 14 18       16 + 18 + 20 + 21 + 18 = 93       93/5 = 18,6
+
+                   2015 15 17       18 + 20 + 21 + 18 + 17 = 94       94/5 = 18,8
+
+                   2016 16 19       20 + 21 + 18 + 17 + 19 = 95       95/5 = 19,0
+
+                   2017 17 23       21 + 18 + 17 + 19 + 23 = 98       98/5 = 19,6
+
+                   2018 18 25 18 + 17 + 19 + 23 + 25 = 102           102/5 = 20,4
+
+                   2019 19 21 17 + 19 + 23 + 25 + 21 = 105           105/5 = 21,0
+
+                   2020 20 23 19 + 23 + 25 + 21 + 23 = 111           111/5 = 22,2
+
+
+---
+
+A figura a seguir compara os dois métodos discutidos: regressão e média móvel. A vantagem do método das
+médias móveis é que ele abrange tanto tendências lineares como não-lineares. A desvantagem é que os
+primeiros valores não possuem valores correspondentes na média móvel, enquanto na tendência linear sim.
+
+                                             Toneladas
+                 30
+
+                 25
+                                                         Zt = 0,57 t + 11,647
+                 20
+
+                 15
+
+                 10
+
+                  5
+
+                  0
+
+(IBADE/IPVV/2020) Considere a série temporal de seis itens de números de sinistros a pagar no mês a
+seguir: 200, 210, 205, 217, 207, 203, 209. Usando o método de previsão de médias móveis de dois pontos
+de dados, o valor para a projeção do oitavo item de dado é igual a:
+a) 200.
+b) 203.
+c) 242.
+d) 207.
+e) 206
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                           𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                   𝑀𝑀𝑡 =                          .
+                                                      𝑘
+
+
+---
+
+A questão solicita a previsão por média móvel de dois pontos de dados. Desse modo, a previsão para o oitavo
+item será determinada pela média dos dois últimos meses, ou seja,
+                                       𝑍6 + 𝑍7 203 + 209 412
+                               𝑀𝑀8 =          =         =    = 206.
+                                          2        2      2
+Gabarito: E.
+
+
+4. (IBADE/Pref. Vila Velha/2020) Considere a série temporal de seis itens de dados a seguir: {200, 210, 205,
+217, 207, 203}. Usando o método de previsão de médias móveis de dois pontos de dados, o valor para a
+projeção do sétimo item de dado é igual a:
+a) 200.
+b) 203.
+c) 242.
+d) 207.
+e) 205
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                            𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                     𝑀𝑀𝑡 =                         .
+                                                       𝑘
+A questão solicita a previsão por média móvel de ordem 2. Desse modo, a previsão para o sétimo item será
+determinada pela média dos dois termos anteriores, ou seja,
+                                           𝑍5 + 𝑍6 207 + 203
+                                  𝑀𝑀7 =           =          = 205.
+                                              2        2
+Gabarito: E.
+
+
+7. (VUNESP/EsFCEx/2020) A tabela a seguir apresenta parte da série trimestral de exportação de ferro do
+Brasil, em milhões de dólares.
+
+
+---
+
+                                    Trim./Ano Exportação de Ferro
+
+                                      tri1/89            467
+
+                                      tri2/89            558
+
+                                      tri3/89            631
+
+                                      tri4/89            577
+
+                                      tri1/90            565
+
+                                      tri2/90            644
+
+                                      tri3/90            677
+
+                                      tri4/90            521
+
+Considerando tri1/89 como o primeiro valor da série; tri2/89 o segundo valor da série; e assim por diante,
+qual é o valor, arredondado para número inteiro, da média móvel central de ordem quatro, referente ao
+tri3/89?
+a) 631.
+b) 558.
+c) 571.
+d) 589.
+e) 630.
+
+
+Comentários:
+No cálculo da média centrada de comprimento 4, consideramos a existência de 5 parcelas: o valor que
+representa a posição central, dois valores em torno da posição central e duas parcelas mais distantes, que
+entram no cálculo pela metade, ou seja,
+                                              𝑥1                  𝑥
+                                                 + 𝑥2 + 𝑥3 + 𝑥4 + 5
+                                      𝑀𝑀4 =   2                    2
+                                                        4
+Assim, com relação ao tri3/89, a sequência considerada será 467, 558, 631, 577 e 565. Portanto, a média
+central de ordem quatro é expressa por:
+                                     467                     565
+                                         + 558 + 631 + 577 +
+                                𝑀𝑀4 = 2                       2
+                                                  4
+                                                2282
+                                         𝑀𝑀4 =
+                                                  4
+
+
+---
+
+                                               𝑀𝑀4 = 570,5.
+A questão pede para arredondar para um número inteiro, logo, a média procurada é igual a 571.
+Gabarito: C.
+
+
+ (VUNESP/TJ SP/2019) Uma série de tempo consiste no consumo mensal, em unidades, de um produto no
+ano de 2017. Pelo método da regressão linear, usando os estimadores de mínimos quadrados, obteve-se
+a equação da tendência estimada 𝑻 ̂ 𝒕 = 𝟕𝟎 + 𝟒 × 𝒕, em que 𝒕 é o tempo (mês). Essa equação foi encontrada
+com base nas observações do consumo dos 12 meses de 2017, ou seja, janeiro é representado por 𝒕 = 𝟏,
+fevereiro por 𝒕 = 𝟐 e assim por diante até dezembro por 𝒕 = 𝟏𝟐.
+A média mensal do consumo, em unidades, desse produto, no ano de 2017, foi então igual a
+a) 74
+b) 94
+c) 100
+d) 120
+e) 96
+
+
+Comentários:
+A média aritmética é definida pela soma dos valores de um determinado conjunto de observações, sendo o
+resultado dessa soma dividido pela quantidade dos valores que foram somados. Então, para determinar a
+média mensal do consumo precisamos efetuar a conta:
+                                             𝑇̂1 + 𝑇̂2 + 𝑇̂3 + ⋯ + 𝑇̂12
+                                        𝑥̅ =
+                                                         12
+Substituindo 𝑡 = 1, 2, 3, ⋯ , 12 na equação da tendência estimada 𝑇̂𝑡 = 70 + 4 × 𝑡, teremos:
+                                (70 + 4 × 1) + (70 + 4 × 2) + ⋯ + (70 + 4 × 12)
+                         𝑥̅ =
+                                                         12
+                                      (70 × 12) + 4 × (1 + 2 + 3 + ⋯ + 12)
+                                 𝑥̅ =
+                                                         12
+                                                    840 + 312
+                                               𝑥̅ =
+                                                         12
+                                                    𝑥̅ = 96
+Gabarito: E.
+
+
+---
+
+                           SUAVIZAÇÃO EXPONENCIAL
+A suavização exponencial é uma técnica que utiliza uma equação de médias móveis ponderadas
+exponencialmente para regularizar variações aleatórias em dados de séries temporais. A finalidade é a
+obtenção de uma imagem mais clara de padrões não aleatórios que possam estar presentes nos dados.
+
+De modo geral, ao empregarmos uma técnica de médias móveis, devemos considerar a quantidade de
+períodos a serem incluídos na média. Quanto maior o número de períodos, menos sensível será a média a
+cada novo dado; quanto menor o número de períodos, mais sensível será a média a novos dados.
+
+O grau de suavização depende da magnitude das flutuações aleatórias. Se tivermos muitas flutuações
+aleatórias, precisaremos de um elevado grau de regularização para reduzir o impacto delas; se tivermos
+poucas flutuações aleatórias, haverá menor necessidade de regularização.
+
+A equação de suavização exponencial é
+
+           ̅𝒕 = 𝜶 × 𝒁𝒕 + (𝟏 − 𝜶) × 𝒁
+           𝒁                       ̅ 𝒕−𝟏 ,                ̅𝟎 = 𝒁𝟏 ,
+                                                          𝒁                  𝒕 = 𝟏, ⋯ , 𝑵,
+
+
+em que 𝑍𝑡̅ é o valor exponencialmente suavizado e 𝛼 é a constante de suavização, 0 ≤ 𝛼 ≤ 1.
+
+Reparem que o efeito do fator de suavização é tomar uma percentagem da diferença entre a última média
+e o próximo dado individual e somá-la à última média para obter a nova média. Por exemplo, sendo 80 a
+última média, 100 a nova observação, e 𝛼 = 0,20. A nova média se calcula como:
+
+                                     𝑍̅𝑡 = 𝛼 × 𝑍𝑡 + (1 − 𝛼) × 𝑍̅𝑡−1
+
+                                   𝑍̅𝑡 = 0,2 × 100 + (1 − 0,2) × 90
+
+                                         𝑍𝑡̅ = 20 + (0,8) × 90
+
+                                          𝑍̅𝑡 = 20 + 72 = 92
+
+Como cada média anterior é calculada exatamente da mesma maneira, todos as observações passadas estão
+incorporadas a 𝑍̅𝑡−1 . Com isso, a necessidade de armazenar dados históricos é reduzida, pois as únicas
+informações necessárias são o valor anterior, o novo valor e o fator de suavização.
+
+Quando os dados apresentam grandes variações, adotamos um fator de suavização, 𝛼, pequeno.
+Inversamente, na presença de pequenas variações aleatórias, empregamos um valor maior para 𝛼, pois há
+menor necessidade de regularizar os dados. Comumente, os valores de 𝛼 vão de 0,01 a 0,30.
+
+
+---
+
+Consideremos os dados da tabela a seguir, vejamos o efeito da utilização de constantes de suavização de 0,1
+a 0,3 sobre esses dados.
+
+                                              ̅ 𝒕 = 𝜶 × 𝒁𝒕 + (𝟏 − 𝜶) × 𝒁
+                                              𝒁                        ̅ 𝒕−𝟏
+                             Ano     𝒕   𝒁𝒕
+                                              𝜶 = 𝟎, 𝟏   𝜶 = 𝟎, 𝟐   𝜶 = 𝟎, 𝟑
+
+                             2001    1   12     12,0       12,0       12,0
+
+                             2002    2   14     12,2       12,4       12,6
+
+                             2003    3   13     12,3       12,5       12,7
+
+                             2004    4   12     12,3       12,4       12,5
+
+                             2005    5   14     12,4       12,7       13,0
+
+                             2006    6   16     12,8       13,4       13,9
+
+                             2007    7   17     13,2       14,1       14,8
+
+                             2008    8   18     13,7       14,9       15,8
+
+                             2009    9   15     13,8       14,9       15,5
+
+                             2010 10 16         14,0       15,1       15,7
+
+                             2011 11 18         14,4       15,7       16,4
+
+                             2012 12 20         15,0       16,6       17,5
+
+                             2013 13 21         15,6       17,4       18,5
+
+                             2014 14 18         15,8       17,6       18,4
+
+                             2015 15 17         15,9       17,4       18,0
+
+                             2016 16 19         16,3       17,8       18,3
+
+                             2017 17 23         16,9       18,8       19,7
+
+                             2018 18 25         17,7       20,0       21,3
+
+                             2019 19 21         18,1       20,2       21,2
+
+                             2020 20 23         18,6       20,8       21,7
+
+
+---
+
+Notem que a constante maior (0,3) resulta em valores que tendem a seguir mais de perto os dados originais
+do que os valores retornados pela constante menor (0,1):
+
+                                                    Toneladas
+                  30
+                                                                                 α = 0,3
+
+                  25
+
+                  20
+
+                  15
+                                                                       α = 0,2
+                  10
+                                                                                  α = 0,1
+                   5
+
+                   0
+
+(IBADE/Pref. Vila Velha/2020) Denomina-se amortecimento exponencial o método de prever valores em
+séries temporais através da expressão:
+𝑿𝑷𝒓𝒆𝒗𝒊𝒔𝒕𝒐 (𝒕) = (𝜶) ⋅ 𝑿(𝒕 − 𝟏) + (𝟏 − 𝜶) ⋅ 𝑿(𝒕 − 𝟐), com 𝟎 ≤ 𝜶 ≤ 𝟏.
+Isto posto, assinale a única alternativa correta.
+a) Se α < 0,5 temos que a série valoriza mais o valor imediatamente X(t-1)
+b) Se α > 0,5 temos que a série valoriza mais o valor imediatamente X(t-2)
+c) Valor de α =1 implica que a previsão é exatamente igual a X(t-2)
+d) Valor de α = 0 implica que a previsão é exatamente igual a X(t-1)
+e) À medida que aumenta o valor de t, diminui a influência dos termos da série mais distantes ao atual por
+isso a denominação amortecimento exponencial
+
+
+Comentários:
+Vamos analisar cada uma das alternativas:
+Alternativa A: Incorreta. Se 𝛼 < 0,5, então 1 − 𝛼 > 0,5 > 𝛼. Com isso, a série valoriza o termo 𝑋(𝑡 − 2).
+Alternativa B: Incorreta. Se 𝛼 > 0,5, então 1 − 𝛼 < 0,5 < 𝛼. Com isso, a série valoriza mais o valor
+imediatamente 𝑋(𝑡 − 1).
+
+
+---
+
+Alternativa C: Incorreta. Se 𝛼 = 1, então
+                             𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 𝛼 ⋅ 𝑋(𝑡 − 1) + (1 − 𝛼) ⋅ 𝑋(𝑡 − 2)
+                             𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 1 ⋅ 𝑋(𝑡 − 1) + (1 − 1) ⋅ 𝑋(𝑡 − 2)
+                                            𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 𝑋(𝑡 − 1)
+Alternativa D: Incorreta. Se 𝛼 = 0, então
+                             𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 𝛼 ⋅ 𝑋(𝑡 − 1) + (1 − 𝛼) ⋅ 𝑋(𝑡 − 2)
+                             𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 0 ⋅ 𝑋(𝑡 − 1) + (1 − 0) ⋅ 𝑋(𝑡 − 2)
+                                            𝑋𝑃𝑟𝑒𝑣𝑖𝑠𝑡𝑜 (𝑡) = 𝑋(𝑡 − 2)
+Alternativa E: Correta. O método de amortecimento exponencial define um peso para cada termo da série,
+de modo que os pesos das observações decrescem com o tempo. Os elementos mais próximos do tempo 𝑡
+atual possuem peso maior, enquanto os mais distantes possuem peso menor. A taxa de decrescimento é a
+constante de amortização 𝛼 apresentada no enunciado.
+Gabarito: E.
+
+
+(CESGRANRIO/PETROBRAS/2018) Considere o método de suavização exponencial simples para previsão.
+Suponha que a taxa de amortecimento seja 0,9, e que a previsão de 1 passo à frente na origem 𝒕 = 𝟏𝟎𝟎 é
+̂ 𝟏𝟎𝟎 = 𝟓𝟎. Se 𝑿𝟏𝟎𝟏 = 𝟓𝟓, qual é a previsão de 1 passo à frente em 𝒕 = 𝟏𝟎𝟏?
+𝑿
+a) 49,5
+b) 50
+c) 50,5
+d) 54,5
+e) 55
+
+
+Comentários:
+A equação de suavização exponencial é
+                      𝑋̅𝑡 = 𝛼 × 𝑋𝑡 + (1 − 𝛼) × 𝑋̅𝑡−1 ,       𝑋̅0 = 𝑋1 ,   𝑡 = 1, ⋯ , 𝑁,
+em que 𝑋̅𝑡 é o valor exponencialmente suavizado e 𝛼 é a constante de suavização, 0 ≤ 𝛼 ≤ 1.
+Para 𝛼 = 0,9; 𝑡 = 101, temos:
+                                      𝑋̅𝑡 = 𝛼 × 𝑋𝑡 + (1 − 𝛼) × 𝑋̅𝑡−1
+                                      𝑋̅101 = 0,9 × 𝑋101 + 0,1 × 𝑋̅100
+                                        𝑋̅101 = 0,9 × 55 + 0,1 × 50
+                                               𝑋̅101 = 49,5 + 5
+                                                  𝑋̅101 = 54,5
+Gabarito: D.
+
+
+---
+
+                                          OPERADORES
+Seja uma série temporal composta pelos seguintes valores:
+
+    𝒕         1         2        3          4          5          6       7       8         9         10
+
+   𝑍(𝑡)      3,3       3,8       4,2       3,2        3,7     4,3      3,0       3,7       4,1        3,1
+
+Podemos escrever 𝑍(𝑡) ou 𝑍𝑡 . Dessa forma, a tabela anterior pode ser reescrita da seguinte forma:
+                                                𝑍(1) = 𝑍1 = 3,3
+                                                𝑍(2) = 𝑍2 = 3,8
+                                                𝑍(3) = 𝑍3 = 4,2
+                                                𝑍(4) = 𝑍4 = 3,2
+                                                𝑍(5) = 𝑍5 = 3,7
+                                                𝑍(6) = 𝑍6 = 4,3
+                                                𝑍(7) = 𝑍7 = 3,0
+                                                𝑍(8) = 𝑍8 = 3,7
+                                                𝑍(9) = 𝑍9 = 4,1
+                                            𝑍(10) = 𝑍10 = 3,1
+
+Translação para o Passado
+O operador de translação para o passado (𝑩) desloca o índice de tempo para trás (retarda) em uma unidade.
+A letra 𝑩 vem do inglês "backward shift operator".
+Aplicando o operador de translação para o passado a uma variável no tempo 𝑡, definida como 𝑍𝑡 , obtemos
+o valor dessa variável no tempo 𝒕 − 𝟏:
+
+                                           𝑩𝒁(𝒕) = 𝒁(𝒕 − 𝟏)
+
+                                                 𝑩𝒁𝒕 = 𝒁𝒕−𝟏
+
+Aplicar o operador duas vezes seguidas (𝐵 2) equivale a retardar a série temporal em dois períodos:
+                                     𝐵 2 𝑍𝑡 = 𝐵(𝐵𝑍𝑡 ) = 𝐵(𝑍𝑡−1 ) = 𝑍𝑡−2
+
+
+---
+
+Podemos também retardar a série em mais de um período. Nessa situação, se quisermos voltar 𝑛 passos,
+teremos:
+
+                                             𝑩𝒏 𝒁𝒕 = 𝒁𝒕−𝒏
+
+
+Vejamos um exemplo. Considerando a série temporal apresentada no início da seção, se quisermos retardar
+𝑍7 em 3 períodos, teremos a seguinte operação:
+                                        𝐵 3 𝑍7 = 𝑍7−3 = 𝑍4 = 3,2
+
+Translação para o Futuro
+O operador de translação para o futuro (𝑭) desloca o índice de tempo para frente em uma unidade. A letra
+𝑭 vem do inglês "forward shift operator".
+Aplicando o operador de translação para o futuro a uma variável no tempo 𝑡, definida como 𝑍𝑡 , obtemos o
+valor dessa variável no tempo 𝒕 + 𝟏:
+
+                                           𝑭𝒁(𝒕) = 𝒁(𝒕 + 𝟏)
+
+                                              𝑭𝒁𝒕 = 𝒁𝒕+𝟏
+
+Aplicar o operador duas vezes seguidas (𝐹 2 ) equivale a avançar a série temporal em dois períodos:
+                                   𝐹 2 𝑍𝑡 = 𝐹(𝐹𝑍𝑡 ) = 𝐹(𝑍𝑡+1 ) = 𝑍𝑡+2
+Analogamente, também podemos adiantar a série em mais de um período, fazendo:
+
+                                             𝑭𝒏 𝒁𝒕 = 𝒁𝒕+𝒏
+
+Vejamos um exemplo. Considerando a série temporal apresentada no início da seção, se quisermos avançar
+𝑍3 em 4 períodos, teremos a seguinte operação:
+                                        𝐹 4 𝑍3 = 𝑍3+4 = 𝑍7 = 3,0
+
+Diferença
+O operador de diferença (∇) retorna a diferença entre dois valores consecutivos da série temporal. Alguns
+autores empregam a letra grega Δ (delta) em vez do símbolo ∇ (nabla ou del).
+
+                                            ∇𝒁𝒕 = 𝒁𝒕 − 𝒁𝒕−𝟏
+
+
+---
+
+Aplicando o operador duas vezes seguidas (∇2 ), teremos:
+            𝛻 2 𝑍𝑡 = 𝛻(𝛻𝑍𝑡 ) = 𝛻(𝑍𝑡 − 𝑍𝑡−1 ) = 𝛻𝑍𝑡 − 𝛻𝑍𝑡−1 = (𝑍𝑡 − 𝑍𝑡−1 ) − (𝑍𝑡−1 − 𝑍𝑡−2 )
+                                     𝛻 2 𝑍𝑡 = 𝑍𝑡 − 2 × 𝑍𝑡−1 + 𝑍𝑡−2
+
+
+Agora, é importante observarmos que os operadores de diferente e de translação para o passado estão
+relacionados. Já sabemos que:
+                                            ∇𝑍𝑡 = 𝑍𝑡 − 𝑍𝑡−1
+Também já vimos que
+                                              𝐵𝑍𝑡 = 𝑍𝑡−1.
+Assim, temos que:
+                                            ∇𝑍𝑡 = 𝑍𝑡 − 𝑍
+                                                       ⏟𝑡−1
+                                                           𝐵𝑍𝑡
+
+                                            ∇𝑍𝑡 = 𝑍𝑡 − 𝐵𝑍𝑡
+                                          ∇𝑍𝑡 = (1 − 𝐵) × 𝑍𝑡
+
+
+Dessa forma, podemos escrever o operador de diferença da seguinte forma:
+
+                                              ∇= 𝟏−𝑩
+
+
+De maneira geral, o operador de diferença de ordem 𝑛 é definido como:
+
+                                            ∇𝒏 = (𝟏 − 𝑩)𝒏
+
+
+Por exemplo, aplicando o operador de ordem 1 a 𝑍3 , teremos:
+                             ∇𝑍3 = 𝑍3 − 𝑍3−1 = 𝑍3 − 𝑍2 = 4,2 − 3,8 = 0,4
+
+
+---
+
+                                    ESTACIONARIEDADE
+Uma série temporal é estacionária quando ela se desenvolve no tempo, de modo aleatório, ao redor de
+uma média constante, refletindo, assim, alguma forma de equilíbrio estável. Na figura a seguir, temos
+uma série temporal em equilíbrio, que se desenvolve ao longo de uma média constante.
+
+               12
+
+
+               10
+
+
+                8
+
+
+                6
+
+
+                4
+
+
+                2
+
+
+                0
+                    0    1      2      3      4     5      6      7      8      9
+
+
+Na prática, o que ocorre é que a maioria das séries apresenta algum tipo de não estacionariedade, o que
+torna necessário uma mudança de nível e/ou inclinação. Na figura a seguir, temos uma série temporal com
+tendência de crescimento linear, apontada pela reta na cor vermelha.
+
+               12
+
+
+               10
+
+
+                8
+
+
+                6
+
+
+                4
+
+
+                2
+
+
+                0
+                    0    1      2      3      4     5      6      7      8      9
+
+
+Se os dados não formam uma série estacionária, podemos utilizar o operador de diferença até obtermos
+uma série estacionária. Normalmente, a aplicação do operador de diferença uma ou duas vezes é suficiente
+para que a série se torne estacionária. Isso é feito no modelo ARIMA (a ser explicado posteriormente),
+para tornar a série estacionária por meio de diferenciação.
+
+
+---
+
+     FUNÇÕES DE AUTOCOVARIÂNCIA E AUTOCORRELAÇÃO
+Em um processo estacionário, a distribuição conjunta de (𝑍𝑡1 , 𝑍𝑡2 , ⋯ , 𝑍𝑡𝑛 ) é a mesma da distribuição
+conjunta do vetor deslocado (𝑍𝑡1 +𝜏 , 𝑍𝑡2 +𝜏 , ⋯ , 𝑍𝑡𝑛+𝜏 ) para todos 𝑡1 , 𝑡2 , ⋯, 𝑡𝑛 , 𝑛 e 𝜏. Em outras palavras,
+desde que as distâncias relativas entre as observações sejam fixas, a distribuição conjunta não muda.
+
+A função de autocovariância (FACV) descreve a covariância entre duas variáveis 𝒁𝒕𝟏 e 𝒁𝒕𝟐 do processo em
+dois instantes, sendo representada por 𝜸(𝒕𝟏 , 𝒕𝟐 ). Por definição, temos:
+
+                      𝛾(𝑡1 , 𝑡2 ) = 𝐶𝑜𝑣(𝑍𝑡1 , 𝑍𝑡2 ) = 𝐸[(𝑍𝑡1 − 𝐸[𝑍𝑡1 ]) × (𝑍𝑡2 − 𝐸[𝑍𝑡2 ])]
+
+A estacionariedade implica que 𝒁𝒕 e 𝒁𝒕+𝝉 possuem a mesma distribuição para todos os valores de 𝒕 e 𝝉.
+Dessa forma, se o momento de primeira ordem existir, podemos atribuir 𝜏 = −𝑡 para verificarmos que:
+
+                                        𝐸[𝑍𝑡 ] = 𝐸[𝑍𝑡+τ ] = 𝐸[𝑍0 ] = 𝑚
+
+em que 𝑚 é uma constante. De forma similar, a estacionariedade implica que (𝒁𝒕 , 𝒁𝒔 ) e (𝒁𝒕+𝛕 , 𝒁𝒔+𝛕 )
+possuem a mesma distribuição para todos os valores de 𝒕, 𝒔 e 𝝉, e em particular para 𝜏 = −𝑠. Desse modo,
+se o momento de segunda ordem existir, teremos que:
+
+                                𝐸[𝑍𝑡 × 𝑍𝑠 ] = 𝐸[𝑍𝑡+τ × 𝑍𝑠+τ ] = 𝐸[𝑍𝑡−𝑠 × 𝑍0 ]
+
+ou
+
+                                       𝛾(𝑡, 𝑠) = 𝐶𝑜𝑣(𝑍𝑡 , 𝑍𝑠 ) = 𝛾(𝑡 − 𝑠)
+
+em que adotamos a mesma notação 𝛾, porém, com um único parâmetro. Assim, a função de autocovariância
+para processos estacionários é função apenas do tempo de atraso (𝑙𝑎𝑔) τ,
+
+
+                                 𝜸(𝛕) = 𝑪𝒐𝒗(𝒁𝒕+𝛕 , 𝒁𝒕 ) = 𝑪𝒐𝒗(𝒁𝝉 , 𝒁𝟎 ).
+
+De forma similar, a função de autocorrelação (FAC) é uma função somente de 𝛕,
+
+
+                                                           𝜸(𝛕)
+                                                𝝆(𝛕) =
+                                                           𝜸(𝟎)
+
+assumindo que 𝛾(0) ≠ 0. A autocorrelação 𝝆(𝛕) mede a correlação entre 𝒁𝒕+𝛕 e 𝒁𝒕 como uma função das
+diferenças dos índices, independentemente de 𝑡, ou seja, a função de autocorrelação mede a dependência
+linear entre os valores de uma série temporal com atraso (lag) igual a 𝛕.
+
+
+---
+
+                                     MODELOS ARIMA
+Os modelos autorregressivos integrados de médias móveis (ARIMA, do inglês autoregressive integrated
+moving average) podem ser ajustados aos dados de uma série temporal para que possamos entender melhor
+os dados dessa série ou para prever seus valores futuros. Os modelos ARIMA também são conhecidos como
+modelos de Box-Jenkins.
+
+Nos tópicos seguintes, serão estudados quatro tipos de modelos lineares: os modelos autorregressivos,
+AR(p); os modelos de médias móveis, MA(q); os modelos autorregressivos de médias móveis, ARMA(p,q); e
+os modelos autorregressivos integrados, de médias móveis ARIMA(p,d,q).
+
+Modelos Autorregressivos (AR)
+
+Temos que um modelo autorregressivo de ordem p é dado por:
+                                                                        𝑝
+                𝑍𝑡 = 𝛿 + 𝜙1 𝑍𝑡−1 + 𝜙2 𝑍𝑡−2 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡 = 𝛿 + ∑         𝜙𝑗 𝑍𝑡−𝑗 + 𝜀𝑡
+                                                                        𝑗=1
+
+
+Em que:
+
+𝜙1 → parâmetro autorregressivo de ordem 1;
+
+𝑍𝑡−1 → série de tempo defasado um período;
+
+𝜀𝑡 → termo do erro do modelo, também denominado ruído branco;
+
+Assim, se considerarmos que 𝑍𝑡 , 𝑡 ∈ 𝑍, podemos afirmar que temos um modelo autorregressivo de ordem
+𝑝(𝑍𝑡 ∼ 𝐴𝑅(𝑝)).
+
+Na expressão dada temos que 𝛿, 𝜙1 , 𝜙2 , … , 𝜙𝑝 são parâmetros reais.
+
+Então, como já dissemos, o modelo autorregressivo está relacionado à correlação da variável com seus
+próprios valores anteriores. Assim, temos que para cada ordem de modelo autorregressivo é adicionado uma
+variável seguinte:
+
+Modelo Autorregressivo de Ordem 1:
+
+
+                                        𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+
+
+---
+
+Modelo Autorregressivo de Ordem 2:
+
+
+                                   𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝝓𝟐 𝒁𝒕−𝟐 + 𝜺𝒕
+
+Se isolarmos o erro da equação teremos o seguinte:
+
+                             𝑍𝑡 − 𝛿 − 𝜙1 𝑍𝑡−1 − 𝜙2 𝑍𝑡−2 − ⋯ − 𝜙𝑝 𝑍𝑡−𝑝 = 𝜀𝑡
+
+Agora, podemos aplicar o operador 𝑩 (backshift) na nossa equação do modelo de autorregressão, obtendo
+a seguinte expressão:
+
+                             𝑍𝑡 − 𝛿 − 𝜙1 𝐵𝑍𝑡 − 𝜙2 𝐵 2 𝑍𝑡 − ⋯ − 𝜙𝑝 𝐵 𝑝 𝑍𝑡 = 𝜀𝑡
+
+Colocando 𝑍𝑡 em evidência, fica:
+
+                             𝑍𝑡 × (1 − 𝜙1 𝐵 − 𝜙2 𝐵 2 − ⋯ − 𝜙𝑝 𝐵 𝑝 ) − 𝛿 = 𝜀𝑡
+
+Aqui temos o que chamamos de operador ou polinômio autorregressivo estacionário de ordem p, (1 −
+𝜙1 𝐵 − 𝜙2 𝐵 2 − ⋯ − 𝜙𝑝 𝐵 𝑝 ), que pode ser representado por 𝝓(𝑩). Substituindo na equação, temos:
+
+
+                                         𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜺𝒕
+
+Estacionariedade e Invertibilidade
+
+Vamos destacar alguns pontos importantes relativos ao modelo:
+
+O processo AR(p) será estacionário se as raízes do polinômio 𝝓(𝑩) estiverem fora do círculo unitário, ou
+seja, se igualarmos 𝜙(𝐵) a zero, e encontrarmos suas raízes, todas as raízes do polinômio devem estar
+localizadas fora do círculo unitário (círculo de raio 1).
+
+
+---
+
+Uma série temporal é invertível se, quando representamos 𝑍𝑡 em função dos valores anteriores, a sequência
+dos pesos associados a cada componente 𝑍𝑡−1 , 𝑍𝑡−2 , ⋯, 𝑍𝑡−𝑝 é convergente. Para modelos
+autorregressivos, o processo é sempre invertível.
+
+Um modelo não invertível implica que os pesos, 𝜙𝑗 , aplicados às observações passadas de 𝑍𝑡 não decaem à
+medida que se desloca a série no passado. Contudo, o que normalmente observamos é que a observação
+atual é influenciada pelas observações mais recentes, portanto, as mais recentes devem receber pesos
+maiores. Isso é garantido se a condição de invertibilidade for respeitada.
+
+  Para AR(1) é necessário apenas que |𝜙1 | < 1 para que o processo seja estacionário, ou seja, o modelo
+                                 AR(1) é estacionário se −1 < 𝜙1 < 1.
+
+Vejamos como calcular a média incondicional do processo autorregressivo de ordem 1, AR(1):
+
+                                          𝑍𝑡 = 𝛿 + 𝜙1 𝑍𝑡−1 + 𝜀𝑡
+
+                                      𝐸(𝑍𝑡 ) = 𝐸(𝛿 + 𝜙1 𝑍𝑡−1 + 𝜀𝑡 )
+
+                                  𝐸(𝑍𝑡 ) = 𝐸(𝛿) + 𝐸(𝜙1 𝑍𝑡−1 ) + 𝐸(𝜀𝑡 )
+
+Sabemos que 𝛿 é constante, logo 𝐸(𝛿) = 𝛿. Além disso, temos que 𝜙1 também é constante, portanto,
+𝐸(𝜙1 𝑍𝑡−1 ) = 𝜙1 × 𝐸(𝑍𝑡−1 ). Assim, temos que:
+
+                                   𝐸(𝑍𝑡 ) = 𝛿 + 𝜙1 × 𝐸(𝑍𝑡−1 ) + 𝐸(𝜀𝑡 )
+
+Agora, sabemos que, por ser um processo estacionário, 𝐸(𝑍𝑡 ) = 𝐸(𝑍𝑡−1 ) = 𝜇. Também sabemos que, por
+se tratar de um ruído branco, 𝐸(𝜀𝑡 ) = 0.
+
+                                             𝜇 = 𝛿 + 𝜙1 × 𝜇
+
+                                            (1 − 𝜙1 ) × 𝜇 = 𝛿
+
+                                                           𝜹
+                                       𝑬(𝒁𝒕 ) = 𝝁 =
+                                                       (𝟏 − 𝝓𝟏 )
+
+Ou seja, a esperança incondicional de 𝑍𝑡 é constante e não varia no tempo.
+
+
+---
+
+Agora, vamos calcular a variância incondicional do processo AR(1).
+
+                                    𝑉𝑎𝑟(𝑍𝑡 ) = 𝑉𝑎𝑟(𝛿 + 𝜙1 𝑍𝑡−1 + 𝜀𝑡 )
+
+Como as variáveis são independentes, a variância da soma é igual à soma das variâncias:
+
+                             𝑉𝑎𝑟(𝑍𝑡 ) = 𝑉𝑎𝑟(𝛿) + 𝑉𝑎𝑟(𝜙1 𝑍𝑡−1 ) + 𝑉𝑎𝑟(𝜀𝑡 )
+
+Sabemos que a variância de uma constante é sempre zero, então 𝑉𝑎𝑟(𝛿) = 0. Além disso, como o processo
+é estacionário, |𝜙1 | < 1, então 𝑉𝑎𝑟(𝑍𝑡 ) = 𝑉𝑎𝑟(𝑍𝑡−1 ):
+
+                                     𝑉𝑎𝑟(𝑍𝑡 ) = 𝜙12 × 𝑉𝑎𝑟(𝑍𝑡 ) + 𝜎 2
+
+                                       (1 − 𝜙12 ) × 𝑉𝑎𝑟(𝑍𝑡 ) = 𝜎 2
+
+
+                                                      𝝈𝟐
+                                         𝑽𝒂𝒓(𝒁𝒕 ) =
+                                                    𝟏 − 𝝓𝟐𝟏
+
+Reparem que, se 𝜙1 for maior que 1, 𝜙12 também será maior do que 1 e teremos na equação um
+denominador negativo. Se 𝜙1 for igual a 1 ou -1, 𝜙12 também será igual a 1 e o denominador será zero,
+consequentemente, teremos uma divisão por zero na nossa equação. Desta forma, a equação da variância
+fornece a condição de estacionariedade a ser satisfeita.
+
+A função de autocovariância (FACV) com lag (𝜏) para o processo AR(1) é dada por:
+
+
+                                                 𝝈𝟐
+                                       𝜸(𝝉) = (     𝟐)
+                                                       × 𝝓𝝉𝟏
+                                               𝟏 − 𝝓𝟏
+
+Percebam que se considerarmos 𝜏 = 0, obteremos a variância de 𝑍𝑡 :
+
+
+                                   𝝈𝟐         𝟎
+                                                    𝝈𝟐
+                         𝜸(𝟎) = (        ) × 𝝓𝟏 =         = 𝑽𝒂𝒓(𝒁𝒕 )
+                                 𝟏 − 𝝓𝟐𝟏          𝟏 − 𝝓𝟐𝟏
+
+
+---
+
+A função de autocorrelação (FAC) do processo AR(1) é dada por:
+
+                                                       𝜎2
+                                                    (        ) × 𝜙1𝜏
+                                             𝛾(τ)    1 − 𝜙12
+                                      𝜌(τ) =      =
+                                             𝛾(0)         𝜎2
+                                                      (         )
+                                                       1 − 𝜙12
+
+
+                                        𝝆(𝛕) = 𝝓𝝉𝟏 ,       𝝉≥𝟎
+
+Portanto, temos que:
+
+
+                                               𝝆(𝟎) = 𝟏
+
+                                 𝝆𝝉 = 𝝓𝟏 × 𝝆𝝉−𝟏 ,          𝒑𝒂𝒓𝒂 𝝉 > 𝟏
+
+Reparem que, no AR(1) estacionário, |𝝓𝟏 | < 𝟏, a função de autocorrelação 𝝆𝝉 decai exponencialmente,
+pois, se o módulo de 𝝓𝟏 está entre 0 e 1, a correlação vai sempre diminuindo. Assim, a condição de
+estacionariedade nos garante que a função de autocorrelação (FAC) sempre converge.
+
+O processo AR(p) é sempre invertível, pois pode ser reescrito em função das observações passadas. A
+invertibilidade garante que os pesos dos valores passados possam ser obtidos dos pesos dos ruídos passados.
+
+                               𝑍̃𝑡 = 𝜙1 𝑍̃𝑡−1 + 𝜙2 𝑍̃𝑡−2 + ⋯ + 𝜙𝑝 𝑍̃𝑡−𝑝 + 𝜀𝑡
+
+                               𝑍̃𝑡 × (1 − 𝜙1 𝐵 − 𝜙2 𝐵 2 − ⋯ − 𝜙𝑝 𝐵 𝑝 ) = 𝜀𝑡
+
+                                             𝑍̃𝑡 × 𝜙(𝐵) = 𝜀𝑡
+
+O processo autorregressivo de ordem p é sempre invertível, isto é, sempre pode ser escrito em
+função das observações passadas. Isso garante que os pesos dos valores passados podem ser
+obtidos em função dos pesos dos ruídos passados.
+
+
+---
+
+As questões que exploram o assunto de modelos autorregressivos normalmente abordam apenas
+os modelos de ordem 1, AR(1).
+
+                              Modelo Autorregressivo de Ordem 1 - AR(1)
+                                         𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+           Medida                                                Fórmulas
+                                                                         𝛿
+      Média Incondicional                                  𝐸(𝑍𝑡 ) =
+                                                                      (1 − 𝜙1 )
+
+                                                                          𝜎2
+    Variância incondicional                               𝑉𝑎𝑟(𝑍𝑡 ) =
+                                                                        1 − 𝜙12
+
+                                     •   𝝉 = 𝟎:
+                                                                          𝜎2
+                                                                 𝛾(0) =
+                                                                        1 − 𝜙12
+                                     •   𝝉 = 𝟏:
+   Função de Autocovariância
+                                                                       𝜎 2 × 𝜙1
+            (FACV)                                           𝛾(1) =
+                                                                       1 − 𝜙12
+                                     •   𝝉 > 𝟏:
+                                                                  𝜎2
+                                                        𝛾(𝜏) = (        ) × 𝜙1𝜏
+                                                                1 − 𝜙12
+
+                                     •   𝝉 = 𝟏:
+                                                                     𝛾(1)
+   Função de Autocorrelação                               𝜌(1) =          = 𝜙1
+                                                                     𝛾(0)
+            (FAC)
+                                     •   𝝉 > 𝟏:
+                                                                 𝜌(𝜏) = 𝜙1𝜏
+
+
+---
+
+(CESPE/TCU/2015) Uma empresa publicou um relatório acerca das previsões para sua receita operacional
+nos próximos meses. Essas previsões foram obtidas com base em um modelo estacionário de séries
+temporais na forma 𝑿𝒕 = 𝟐 + 𝟎, 𝟓𝑿𝒕−𝟏 + 𝒂𝒕 , em que 𝑿𝒕 representa a receita operacional no mês t e 𝒂𝒕
+é um ruído branco (no instante t) que possui média nula e variância igual a 3.
+A partir dessas informações, julgue o item abaixo.
+O modelo apresentado é um processo autorregressivo de primeira ordem, AR(1), em que a média e o desvio
+padrão de 𝑿𝒕 são, respectivamente, iguais a 4 e 2.
+
+
+Comentários:
+Estamos diante de um modelo autorregressivo de ordem 1, vez que, além da tendência constante (2) e do
+ruído branco (𝒂𝒕 ), 𝑋𝑡 é representado exclusivamente em função de 𝑋𝑡−1 .
+Como o modelo é estacionário, sua média se mantém constante independente de 𝑡:
+                                            𝐸(𝑋𝑡 ) = 𝐸(𝑋𝑡−1 ) = 𝜇.
+Além disso, como 𝒂𝒕 é um ruído branco, temos ainda que:
+                                                 𝐸(𝑎𝑡 ) = 0.
+Agora, para encontrarmos a média, basta substituirmos esses valores no processo apresentado:
+                                       𝑋𝑡 = 2 + 0,5 × 𝑋𝑡−1 + 𝑎𝑡
+                                    𝐸(𝑋𝑡 ) = 𝐸(2 + 0,5 × 𝑋𝑡−1 + 𝑎𝑡 )
+                                𝐸(𝑋𝑡 ) = 𝐸(2) + 0,5 × 𝐸(𝑋𝑡−1 ) + 𝐸(𝑎𝑡 )
+                                              𝜇 = 2 + 0,5𝜇 + 0
+                                                𝜇 − 0,5𝜇 = 2
+                                                  0,5𝜇 = 2
+                                                         2
+                                                   𝜇=
+                                                        0,5
+                                                    𝜇=4
+Em sequência, vamos calcular a variância:
+                                  𝑉𝑎𝑟(𝑋𝑡 ) = 𝑉𝑎𝑟(2 + 0,5𝑋𝑡−1 + 𝑎𝑡 )
+Como as variáveis não são correlacionadas, a variância da soma é igual a soma das variâncias:
+                             𝑉𝑎𝑟(𝑋𝑡 ) = 𝑉𝑎𝑟(2) + 𝑉𝑎𝑟(0,5𝑋𝑡−1 ) + 𝑉𝑎𝑟(𝑎𝑡 )
+
+
+---
+
+Sabemos que a variância de 𝑎𝑡 (ruído branco) vale 3, conforme informado no enunciado. Além disso, sabemos
+que a variância da constante é zero. Para a constante que multiplica 𝑋𝑡−1 , basta retirarmos a constante da
+variância e elevarmos ao quadrado, ficando assim:
+                                   𝑉𝑎𝑟(𝑋𝑡 ) = 0 + 0,25 × 𝑉𝑎𝑟(𝑋𝑡−1 ) + 3
+                                             𝜎 2 = 0,25𝜎 2 + 3
+                                             𝜎 2 − 0,25𝜎 2 = 3
+                                                0,75𝜎 2 = 3
+                                                           3
+                                                 𝜎2 =
+                                                         0,75
+                                                  𝜎2 = 4
+Para encontrarmos o desvio padrão, basta tirarmos a raiz da variância:
+
+                                                  𝜎 = √4
+                                                   𝜎=2
+De fato, o desvio padrão vale 2.
+Gabarito: Certo.
+
+
+(CESPE/ANATEL/2014) Acerca das propriedades dos modelos econométricos de séries temporais, julgue o
+item subsequente.
+A função de autocorrelação de um processo AR(1), 𝐶𝑜𝑟(𝑦𝑡 , 𝑦𝑡−𝑘 ) cresce exponencialmente à medida que k
+aumenta.
+
+
+Comentários:
+A função de autocovariância para um lag (τ) é expressa por:
+                                                     σ2
+                                           γ(τ) = (        ) × ϕ1τ
+                                                   1 − ϕ12
+em que σ2 é a variância da variável 𝑎𝑡 .
+
+
+Dessa forma, a autocorrelação entre 𝒁𝒕 e 𝒁𝒕−𝝉 é dada por:
+                                                         γ(τ)
+                                                 𝜌τ =
+                                                         γ(0)
+Desta forma, a função de autocorrelação do processo AR(1) é expressa por:
+                                              ρτ = ϕ1 × ρτ−1
+                                            ρτ = 𝜙1τ ,      τ≥1
+
+
+---
+
+Em um processo autorregressivo de primeira ordem estacionário, |𝝓𝟏 | < 𝟏, o valor da função de
+autocorrelação 𝝆𝒌 decai ou decresce exponencialmente. Se o módulo de 𝜙1 estiver entre 0 e 1, a correlação
+vai sempre diminuirá. Além disso, a condição de estacionariedade nos garante que a função de
+autocorrelação FAC converge.
+Portanto, a questão está errada.
+Gabarito: Errado.
+
+
+(CESPE/ANTT/2013) Acerca dos modelos de séries temporais, julgue o item que se segue.
+Um modelo autorregressivo de 1.ª ordem 𝒀𝒕 = 𝒄 + 𝜽𝒀𝒕−𝟏 + 𝝐𝒕 , com |𝜽| < 𝟏, pode ser reescrito como um
+processo de média móvel de ordem infinita.
+
+
+Comentários:
+O processo AR(p) será sempre invertível, pois já temos 𝒁𝒕 em função do passado:
+                             𝑍𝑡 = 𝛿 + 𝜙1 𝑍𝑡−1 + 𝜙2 𝑍𝑡−2 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡
+                             𝑍𝑡 − 𝛿 − 𝜙1 𝑍𝑡−1 − 𝜙2 𝑍𝑡−2 − ⋯ − 𝜙𝑝 𝑍𝑡−𝑝 = 𝜀𝑡
+
+                                   (1 − 𝜙1 𝐵 − ⋯ − 𝜙𝑝 𝐵 𝑝 ) × 𝑍𝑡 = 𝛿 + 𝜀𝑡
+                                            𝜙(𝐵) × 𝑍𝑡 = 𝛿 + 𝜀𝑡
+Assim, podemos reescrever:
+                          𝜙(𝐵) × 𝑍𝑡 = 𝛿 + 𝜃1 𝜀𝑡−1 + 𝜃2 𝜀𝑡−2 + ⋯ + 𝜃𝑝 𝜀𝑡−𝑝 + 𝜀𝑡
+Gabarito: Certo.
+
+
+---
+
+Modelos de Médias Móveis (MA)
+
+Agora, vamos entender como funciona o modelo de médias móveis (MA, do inglês moving average). O
+modelo de médias móveis é expresso com base em observações pregressas de ruídos brancos
+𝜀𝑡 , 𝜀𝑡−1 , 𝜀𝑡−2 , ⋯ , 𝜀𝑡−𝑞 .
+
+Assim, o modelo de médias móveis de ordem q, escrito 𝑀𝐴(𝑞), é dado por:
+
+                              𝑍𝑡 = 𝜇 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − 𝜃2 𝜀𝑡−2 − ⋯ − 𝜃𝑞 𝜀𝑡−𝑞
+
+Podemos reescrever a expressão anterior com o auxílio do operador de translação para o passado, 𝑩
+(backshift). Aplicando o operador, obtemos:
+
+                                              𝜀𝑡−1 − 𝜃2 ⏟
+                             𝑍𝑡 = 𝜇 + 𝜀𝑡 − 𝜃1 ⏟         𝜀𝑡−2 − ⋯ − 𝜃𝑞 𝜀⏟
+                                                                       𝑡−𝑞
+                                                𝐵𝜀𝑡       𝐵 2 𝜀𝑡         𝐵 𝑞 𝜀𝑡
+
+
+                              𝑍𝑡 = 𝜇 + (1 − 𝜃1 𝐵 − 𝜃2 𝐵 2 − ⋯ − 𝜃𝑞 𝐵 𝑞 ) × 𝜀𝑡
+
+A expressão entre parênteses é denominada de operador de médias móveis de ordem q e simbolizada por
+𝜃(𝐵). Substituindo na equação, temos:
+
+                                                 𝟐          𝒒
+                                  ⏟ − 𝜽𝟏 𝑩 − 𝜽𝟐 𝑩 − ⋯ − 𝜽𝒒 𝑩 ) × 𝜺𝒕
+                         𝒁𝒕 = 𝝁 + (𝟏
+                                                      𝜽(𝑩)
+
+
+                                           𝒚𝒕 = 𝝁 + 𝜽(𝑩)𝜺𝒕
+
+Assim, se 𝑞 é finito, o processo MA(q) é sempre estacionário.
+
+Além disso, o processo MA(q) é invertível se as raízes do polinômio 𝜽(𝑩) = 𝟎 estiverem situadas fora do
+círculo unitário.
+
+Para MA(1) é necessário apenas que ǀ𝜃1 ǀ < 1 para que o processo seja invertível, ou seja, o modelo MA(1)
+                                     é invertível se −1 < 𝜃1 < 1.
+
+
+---
+
+A média de um processo MA(q) é dada por:
+
+
+                                               𝑬(𝒁𝒕 ) = 𝝁
+
+E a variância é dada por:
+
+
+                                𝑽𝒂𝒓(𝒁𝒕 ) = 𝝈𝟐 × (𝟏 + 𝜽𝟐𝟏 + 𝜽𝟐𝟐 + ⋯ + 𝜽𝟐𝒒 )
+
+Além disso, as funções de autocovariância e autocorrelação do processo MA(q) são iguais a zero para um lag
+τ maior que 𝑞.
+
+Para um lag entre 1 e q, 1 ≤ 𝜏 ≤ 𝑞, as funções de autocovariância e autocorrelação do processo MA(q) são
+expressas pelas seguintes fórmulas:
+
+
+                     𝜸(𝝉) = 𝝈𝟐 × (−𝜽𝝉 + 𝜽𝟏 × 𝜽𝝉+𝟏 + 𝜽𝟐 × 𝜽𝝉+𝟐 + ⋯ + 𝜽𝒒 × 𝜽𝒒−𝝉 )
+
+                              𝜸(𝝉) −𝜽𝝉 + 𝜽𝟏 × 𝜽𝝉+𝟏 + 𝜽𝟐 × 𝜽𝝉+𝟐 + ⋯ + 𝜽𝒒 × 𝜽𝒒−𝝉
+                     𝝆(𝝉) =        =
+                              𝜸(𝟎)            𝟏 + 𝜽𝟐𝟏 + 𝜽𝟐𝟐 + ⋯ + 𝜽𝟐𝒒
+
+Para todo valor de lag maior que 𝑞, 𝜏 > 𝑞, as funções de autocovariância e autocorrelação do processo
+MA(q) assumem o valor zero.
+
+Agora, vamos derivar, a partir das fórmulas anteriores, as funções de autocorrelação para os processos de
+médias móveis de ordens 1 e 2. Para o processo MA(1), temos a seguinte formulação:
+
+   •   Sendo 𝜏 = 1, temos:
+
+                                                  𝜸(𝟏)   −𝜽𝟏
+                                         𝝆(𝟏) =        =
+                                                  𝜸(𝟎) 𝟏 + 𝜽𝟐𝟏
+
+   •   Sendo 𝜏 > 1, temos:
+
+
+---
+
+                                             𝝆(𝝉 > 𝟏) = 𝟎
+
+Para o processo MA(2), temos a seguinte fórmula de autocorrelação:
+
+   •   Sendo 𝜏 = 1, temos:
+
+                                             𝜸(𝟏) −𝜽𝟏 + 𝜽𝟏 × 𝜽𝟐
+                                    𝝆(𝟏) =        =
+                                             𝜸(𝟎)   𝟏 + 𝜽𝟐𝟏 + 𝜽𝟐𝟐
+
+   •   Sendo 𝜏 = 2, temos:
+
+                                              𝜸(𝟐)    −𝜽𝟐
+                                     𝝆(𝟐) =        =
+                                              𝜸(𝟎) 𝟏 + 𝜽𝟐𝟏 + 𝜽𝟐𝟐
+
+   •   Sendo 𝜏 > 2, temos:
+
+                                             𝝆(𝝉 > 𝟐) = 𝟎
+
+As questões que exploram o assunto de modelos de médias móveis costumam abordar, de forma
+mais frequente, o modelo de ordem 1, MA (1). Todavia, o modelo MA (2) também aparece em
+algumas questões.
+
+
+---
+
+                           Modelo de Médias Móveis de Ordem 1 - MA(1)
+                                       𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+        Medida                                                  Fórmulas
+   Média Incondicional                                         𝐸(𝑍𝑡 ) = 𝜇
+ Variância incondicional                             𝑉𝑎𝑟(𝑍𝑡 ) = 𝜎 2 × (1 + 𝜃12 )
+
+                                   •   𝝉 = 𝟎:
+                                                         𝛾(0) = 𝜎 2 × (1 + 𝜃12 )
+Função de Autocovariância          •   𝝉 = 𝟏:
+         (FACV)                                                𝛾(1) = 𝜎 2 × (−𝜃1 )
+                                   •   𝝉 > 𝟏:
+                                                                𝛾(𝜏) = 0
+                                   •   𝝉 = 𝟏:
+                                                                 𝛾(1)   −𝜃1
+Função de Autocorrelação                               𝜌(1) =         =
+                                                                 𝛾(0) 1 + 𝜃12
+         (FAC)
+                                   •   𝝉 > 𝟏:
+                                                                𝜌(𝜏) = 0
+
+                           Modelo de Médias Móveis de Ordem 2 - MA(2)
+
+                           𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐
+        Medida                                                  Fórmulas
+   Média Incondicional                                         𝐸(𝑍𝑡 ) = 𝜇
+ Variância incondicional                          𝑉𝑎𝑟(𝑍𝑡 ) = 𝜎 2 × (1 + 𝜃12 + 𝜃22 )
+
+                                   •   𝝉 = 𝟎:
+                                                      𝛾(0) = 𝜎 2 × (1 + 𝜃12 + 𝜃22 )
+Função de Autocovariância          •   𝝉 = 𝟏:
+         (FACV)                                        𝛾(1) = 𝜎 2 × (−𝜃1 + 𝜃1 × 𝜃2 )
+                                   •   𝝉 = 𝟐:
+                                                               𝛾(2) = 𝜎 2 × (−𝜃2 )
+
+
+---
+
+                                    •    𝝉 > 𝟐:
+                                                                   𝛾(𝜏) = 0
+                                    •    𝝉 = 𝟏:
+                                                              𝛾(1) −𝜃1 + 𝜃1 × 𝜃2
+                                                     𝜌(1) =        =
+                                                              𝛾(0)   1 + 𝜃12 + 𝜃22
+Função de Autocorrelação            •    𝝉 = 𝟐:
+         (FAC)                                                    𝛾(2)     −𝜃2
+                                                         𝜌(2) =        =
+                                                                  𝛾(0) 1 + 𝜃12 + 𝜃22
+                                    •    𝝉 > 𝟐:
+                                                                   𝜌(𝜏) = 0
+
+                           Modelo de Médias Móveis de Ordem q - MA(q)
+                           𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐 − ⋯ − 𝜽𝒒 𝜺𝒕−𝒒
+
+        Medida                                                     Fórmulas
+
+   Média Incondicional                                            𝐸(𝑍𝑡 ) = 𝜇
+
+ Variância incondicional                       𝑉𝑎𝑟(𝑍𝑡 ) = 𝜎 2 × (1 + 𝜃12 + 𝜃22 + ⋯ + 𝜃𝑞2 )
+
+                                    •    𝝉 = 𝟎:
+                                                     𝛾(0) = 𝜎 2 × (1 + 𝜃12 + 𝜃22 + ⋯ + 𝜃𝑞2 )
+
+Função de Autocovariância           •    𝝉 = 𝟏, ⋯ , 𝒒:
+         (FACV)                         𝛾(𝜏) = 𝜎 2 × (−𝜃𝜏 + 𝜃1 × 𝜃𝜏+1 + 𝜃2 × 𝜃𝜏+2 + ⋯ + 𝜃𝑞 × 𝜃𝑞−𝜏 )
+                                    •    𝝉 > 𝒒:
+                                                                   𝛾(𝜏) = 0
+
+                                    •    𝝉 = 𝟏, ⋯ , 𝒒:
+                                             𝛾(𝜏) −𝜃𝜏 + 𝜃1 × 𝜃𝜏+1 + 𝜃2 × 𝜃𝜏+2 + ⋯ + 𝜃𝑞 × 𝜃𝑞−𝜏
+Função de Autocorrelação           𝜌(𝜏) =         =
+                                             𝛾(0)            1 + 𝜃12 + 𝜃22 + ⋯ + 𝜃𝑞2
+         (FAC)
+                                    •    𝝉 > 𝒒:
+                                                                   𝜌(𝜏) = 0
+
+
+---
+
+(FGV/DPE RJ/2019) Após uma análise sobre a série de tempo que reflete o volume de recursos envolvidos
+nos feitos em que a Defensoria Pública atua, verificou-se a existência de um processo do tipo MA(2).
+Adicionalmente, estimou-se essa equação que modela a série sendo dada por:
+                                       𝒚𝒕 = 𝑲 + 𝟎, 𝟒. 𝜺𝒕−𝟐 + 𝟎, 𝟐. 𝜺𝒕−𝟏 + 𝜺𝒕
+Onde K é uma constante e 𝜺𝒕 um ruído branco, 𝑬(𝜺𝒕 ) = 𝟎 e 𝑬(𝜺𝟐𝒕 ) = 𝝈𝟐 . Daí pode-se concluir que:
+                                          𝐾
+a) a média do processo é dada por(1−0,4−0,2);
+
+b) a variância do processo é dada por 𝑉𝑎𝑟(𝑦𝑡 ) = 0,20𝜎 2 ;
+c) se as raízes do polinômio 0,4𝐷2 + 0,2𝐷 + 1 estiverem fora do círculo unitário, o processo será
+estacionário;
+d) a correlação entre 𝑦𝑡 e 𝑦𝑡−2 é igual a 0,4. 𝜎 2 ;
+e) a correlação entre 𝑦𝑡 e 𝑦𝑡−1 é igual a 7/30 .
+
+
+Comentários:
+Vamos analisar cada uma das alternativas:
+
+
+Alternativa A: Errada.
+Inicialmente, vamos calcular a média. Sabemos que 𝐸(𝜀𝑡 ) = 𝐸(𝜀𝑡−1 ) = 𝐸(𝜀𝑡−2 ) = 0. Assim,
+                                         𝑦𝑡 = 𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡
+                                     𝐸(𝑦𝑡 ) = 𝐸(𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡 )
+                           𝐸(𝑦𝑡 ) = 𝐸(𝑘) + 0,4 × 𝐸(𝜀𝑡−2 ) + 0,2 × 𝐸(𝜀𝑡−1 ) + 𝐸(𝑎𝑡 )
+                                                       𝐸(𝑦𝑡 ) = 𝑘
+Alternativa B: Errada.
+Para a variância, temos que:
+                                  𝑉𝑎𝑟(𝑦𝑡 ) = 𝑉𝑎𝑟(𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡 )
+                   𝑉𝑎𝑟(𝑦𝑡 ) = 𝑉𝑎𝑟(𝑘) + 0,4² × 𝑉𝑎𝑟(𝜀𝑡−2 ) + 0,2² × 𝑉𝑎𝑟(𝜀𝑡−1 ) + 𝑉𝑎𝑟(𝜀𝑡 )
+                                      𝑉𝑎𝑟(𝑦𝑡 ) = 0 + 0,16𝜎 2 + 0,04𝜎 2 + 𝜎 2
+                                                  𝑉𝑎𝑟(𝑦𝑡 ) = 1,2𝜎 2
+
+
+Alternativa C: Errada.
+
+
+---
+
+Para que um processo de médias móveis seja estacionário é necessário que o polinômio característico tenha
+raízes dentro do círculo unitário. No presente caso, o polinômio característico é gerado pela troca de variável
+𝐷 𝑗 𝑎𝑡 = 𝑎𝑡−𝑗 . Utilizando a relação, temos:
+                                      𝑦𝑡 = 𝑘 + 0,4𝐷2 𝑎𝑡 + 0,2𝐷𝑎𝑡 + 𝑎𝑡
+Colocando 𝑎𝑡 em evidência, temos:
+
+                                                ⏟ 2 + 0,2𝐷 + 1) 𝑎𝑡
+                                      𝑦𝑡 = 𝑘 + (0,4𝐷
+                                                𝑝𝑜𝑙𝑖𝑛ô𝑚𝑖𝑜 𝑐𝑎𝑟𝑎𝑐𝑡𝑒𝑟í𝑠𝑡𝑖𝑐𝑜
+
+Alternativa D: Errada.
+Em um processo de médias móveis da forma
+                                    𝑍𝑡 = 𝛿 + 𝜃1 𝜀𝑡−1 + 𝜃2 𝜀𝑡−2 + ⋯ + 𝜀𝑡
+A função de correlação entre 𝑍𝑡 e 𝑍𝑡−2 é dada por:
+                                                          −𝜃2
+                                             𝜌(2) =
+                                                      1 + 𝜃12 + 𝜃22
+Substituindo os valores 𝜃1 = −0,2 e 𝜃2 = −0,4, temos:
+                                                      −(−0,4)
+                                       𝜌(2) =
+                                                1 + (−0,2)2 + (−0,4)2
+                                                        0,4
+                                                 𝜌(2) =
+                                                        1,2
+                                                         1
+                                                  𝜌(2) =
+                                                         3
+
+
+Alternativa E: Correta.
+A função de correlação entre 𝑍𝑡 , 𝑍𝑡−1 é dada por:
+                                                      −𝜃1 + 𝜃1 𝜃2
+                                             𝜌(1) =
+                                                      1 + 𝜃12 + 𝜃22
+Substituindo os valores 𝜃1 = −0,2 e 𝜃2 = −0,4, temos:
+                                             −(−0,2) + (−0,2) × (−0,4)
+                                    𝜌(1) =
+                                               1 + (−0,2)2 + (−0,4)2
+                                                        0,28
+                                                 𝜌(1) =
+                                                         1,2
+                                                         28
+                                                 𝜌(1) =
+                                                        120
+                                                          7
+                                                 𝜌(1) =
+                                                         30
+Gabarito: E.
+
+
+---
+
+Modelos Autorregressivos de Médias Móveis (ARMA)
+
+O modelo ARMA é basicamente a mistura dos processos Autorregressivos AR(p) e Médias Móveis MA(q).
+
+            𝑍𝑡 = 𝛿 + 𝜙1 𝑍𝑡−1 + 𝜙2 𝑍𝑡−2 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − 𝜃2 𝜀𝑡−2 − ⋯ − 𝜃𝑞 𝜀𝑡−𝑞
+
+            𝑍𝑡 × (1 − 𝜙1 𝐵 − 𝜙2 𝐵 2 − ⋯ − 𝜙𝑝 𝐵 𝑝 ) = 𝛿 + (1 − 𝜃1 𝐵 − 𝜃2 𝐵 2 − ⋯ − 𝜃𝑞 𝐵 𝑞 ) × 𝜀𝑡
+
+
+                                    𝝓(𝑩) × 𝒁𝒕 = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+O modelo ARMA(p,q) será estacionário se as raízes do polinômio 𝜙(𝐵) = 0 estiverem fora do círculo
+unitário.
+
+O modelo ARMA(p,q) será invertível se as raízes do polinômio 𝜃(𝐵) = 0 estiverem fora do círculo unitário.
+
+    Para ARMA(1,1) o processo será estacionário e invertível se |𝜙1 | < 1 e |𝜃1 | < 1 respectivamente.
+
+
+De maneira geral, para o modelo ARMA temos um caso análogo a estacionariedade do modelo AR e a
+invertibilidade do modelo MA.
+
+A média incondicional do modelo ARMA(1,1) é dada por:
+
+                                                        𝝁
+                                           𝑬(𝒁𝒕 ) =
+                                                      𝟏 − 𝝓𝟏
+
+
+A variância incondicional do modelo ARMA(1,1) é dada por:
+
+                                            1 − 2𝜙1 𝜃1 + 𝜃12
+                                𝑉𝑎𝑟(𝑍𝑡 ) = (          2      ) × 𝜎2
+                                                1 − 𝜙1
+
+
+---
+
+A função de autocovariância do modelo ARMA(1,1) é dada por:
+
+                                        1 − 2𝜙1 𝜃1 + 𝜃12
+                                𝛾(0) = (                 ) × 𝜎2
+                                            1 − 𝜙12
+
+                                                 1 − 𝜙1 𝜃1    2
+                              𝛾(1) = (𝜙1 − 𝜃1 ) (       2 )×𝜎
+                                                  1 − 𝜙1
+
+                                        γ(2) = 𝜙1 × γ(1)
+
+
+                                𝛾(𝜏) = 𝜙1𝜏−1 × 𝛾(1),          𝜏>1
+
+
+A função de autocorrelação do modelo ARMA(1,1) é dada por:
+
+                                      𝛾(1) (𝜙1 − 𝜃1 )(1 − 𝜙1 𝜃1 )
+                             𝜌(1) =        =
+                                      𝛾(0)   1 − 2𝜙1 𝜃1 + 𝜃12
+
+                                     𝛾(𝜏)
+                            𝜌(𝜏) =        = 𝜙1𝜏−1 × 𝜌(1),       𝜏>1
+                                     𝛾(0)
+
+As questões que exploram o assunto de modelos autorregressivos de médias móveis normalmente
+abordam apenas os modelos de ordem 1, ARMA(1,1).
+
+
+---
+
+              Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+                              𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+         Medida                                             Fórmulas
+                                                                     𝛿
+   Média Incondicional                                 𝐸(𝑍𝑡 ) =
+                                                                  (1 − 𝜙1 )
+
+                                                            1 − 2𝜙1 𝜃1 + 𝜃12
+  Variância incondicional                    𝑉𝑎𝑟(𝑍𝑡 ) = (                    ) × 𝜎2
+                                                                1 − 𝜙12
+
+                                •   𝝉 = 𝟎:
+                                                           1 − 2𝜙1 𝜃1 + 𝜃21
+                                                 𝛾(0) = (                     ) × 𝜎2
+                                                                  1 − 𝜙21
+Função de Autocovariância       •   𝝉 = 𝟏:
+         (FACV)                                                   1 − 𝜙1 𝜃1
+                                               𝛾(1) = (𝜙1 − 𝜃1 ) (          ) × 𝜎2
+                                                                   1 − 𝜙12
+                                •   𝝉 > 𝟏:
+                                                      𝛾(𝜏) = 𝜙1𝜏−1 × 𝛾(1)
+
+                                •   𝝉 = 𝟏:
+                                                      𝛾(1) (𝜙1 − 𝜃1 )(1 − 𝜙1 𝜃1 )
+Função de Autocorrelação                     𝜌(1) =        =
+                                                      𝛾(0)   1 − 2𝜙1 𝜃1 + 𝜃12
+         (FAC)
+                                •   𝝉 > 𝟏:
+                                                      𝜌(𝜏) = 𝜙1𝜏−1 × 𝜌(1)
+
+
+---
+
+(CESPE/ABIN/2018) A quantidade demandada por certo produto no instante t é representada por 𝑿𝒕 , em
+que 𝒕 ∈ 𝒁 = ⋯ , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, …, e 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟏𝟎 + 𝟎, 𝟓𝑿𝒕−𝟏 + 𝒂𝒕 − 𝟐𝒂𝒕−𝟏 , na
+qual 𝒂𝒕 e 𝒂𝒕−𝟏 representam ruídos aleatórios com média nula e variância unitária.
+A respeito dessa situação, julgue o item subsequente.
+A média do processo 𝑿𝒕 é igual a 10.
+
+
+Comentários:
+Estamos diante de um processo autorregressivo de médias móveis, ARMA(1,1). Esses modelos são
+estacionários quando as raízes do polinômio característico 𝜙(𝐵) se localizam fora do círculo unitário. No
+modelo dado no enunciado, temos:
+                                               1 − 𝜙1 𝐵 = 0
+                                               1 − 0,5𝑥 = 0
+                                                       1
+                                                 𝑥=
+                                                      0,5
+                                                  𝑥=2
+Portanto, a série é estacionária. Logo, temos que 𝐸(𝑋𝑡 ) = 𝐸(𝑋𝑡−1 ) = 𝜇.
+Além disso, por se tratar de um ruído branco, temos também que 𝐸(𝑎𝑡 ) = 0.
+Assim, podemos substituir no processo:
+                                   𝑋𝑡 = 10 + 0,5𝑋𝑡−1 + 𝑎𝑡 − 2𝑎𝑡−1
+                                𝐸(𝑋𝑡 ) = 𝐸(10 + 0,5𝑋𝑡−1 + 𝑎𝑡 − 2𝑎𝑡−1 )
+                           𝐸(𝑋𝑡 ) = 𝐸(10) + 0,5𝐸(𝑋𝑡−1 ) + 𝐸(𝑎𝑡 ) − 2𝐸(𝑎𝑡−1 )
+                                         𝜇 = 10 + 0,5𝜇 + 0 − 2 × 0
+                                                0,5𝜇 = 10
+                                                      10
+                                                 𝜇=
+                                                      0,5
+                                                  𝜇 = 20
+Gabarito: Errado.
+
+
+(FCC/TRT 2ª Região/2018) No modelo ARMA(1,1), ou seja, 𝒚𝒕 = 𝟏𝟎 + 𝟎, 𝟐𝒚𝒕−𝟏 + 𝜺𝒕 + 𝟎, 𝟖𝜺𝒕−𝟏, em que 𝜺𝒕
+é um ruído branco de média nula e variância unitária, obtém-se que a variância de 𝒚𝒕 é igual a
+a) 41/24
+b) 25/12
+
+
+---
+
+c) 49/24
+d) 9/4
+e) 3/4
+
+
+Comentários:
+Na presente questão, estamos diante de um modelo ARMA(1,1), o qual é expresso por meio do seguinte
+processo:
+               𝑍𝑡 = 𝛿 + 𝜙1 𝑍𝑡−1 + 𝜙2 𝑍𝑡−2 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − 𝜃2 𝜀𝑡−2 − ⋯ − 𝜃𝑞 𝜀𝑡−𝑞
+A variância incondicional do modelo ARMA(1,1) é expressa por:
+
+                                            2
+                                              (1 + 2𝜙𝜃 + 𝜃 2 )𝜎𝜀2
+                                          𝜎 =
+                                                  (1 − 𝜙 2 )
+Identificando os termos temos:
+                                      𝑦𝑡 = 10 + 0,2𝑦𝑡−1 + 𝜀𝑡 + 0,8𝜀𝑡−1
+𝛿 = 10
+𝜙1 = 0,2
+𝜃1 = −0,8
+𝑉𝑎𝑟(𝜀𝑡 ) 𝑜𝑢 𝜎𝜀2 = 1
+Assim, substituindo os valores, temos:
+                                                 (1 − 2𝜙𝜃 + 𝜃 2 )𝜎𝜀2
+                                          𝜎2 =
+                                                     (1 − 𝜙 2 )
+
+                                  2
+                                     (1 − 2 × 0,2 × (−0,8) + (−0,8)2 ) × 1
+                                 𝜎 =
+                                                   (1 − 0,22 )
+                                                   1,96 49
+                                             𝜎2 =       =
+                                                   0,96 24
+Gabarito: C.
+
+
+---
+
+Modelos Autorregressivos Integrados de Médias Móveis (ARIMA)
+
+Os modelos ARIMA (do inglês auto-regressive integrated moving average) são modelos estatísticos
+lineares que correspondem à classe mais geral de modelos para análise de séries temporais. Eles são ditos
+autorregressivos, integrados e de médias móveis.
+
+O modelo ARIMA(p, d, q) basicamente generaliza o modelo ARMA, tornando o processo estacionário por
+meio de operações diferenças. A série temporal que necessita ser diferenciada para se tornar estacionária
+é dita integrada. No modelo ARIMA (p, d, q), temos que:
+
+  • 𝑝 é o número de termos autorregressivos;
+  • 𝑑 é o número de diferenciações para que a série se torne estacionária;
+  • 𝑞 é o número termos de médias móveis.
+
+Portanto, os modelos ARIMA(p, d, q) podem ser aplicados tanto a dados estacionários quanto não
+estacionários. Se os dados indicarem uma não estacionaridade, realizamos a sua diferenciação, para
+transformar a série não estacionária em uma série estacionária.
+
+Assim, fazemos uma diferenciação de primeira ordem(∇) se a série estiver crescendo a uma taxa constante
+e uma diferenciação de segunda ordem (∇2 ) se a série estiver a crescendo a uma taxa crescente. Se após a
+segunda diferenciação a série ainda não se tornar estacionária, podemos realizar novas diferenciações:
+
+                                        𝑊𝑡 = 𝛻𝑑 𝑍𝑡 = (1 − 𝐵)𝑑 𝑍𝑡
+
+      𝑊𝑡 = 𝛿 + 𝜙1 × 𝑊
+                    ⏟𝑡−1 + 𝜙2 × 𝑊
+                                ⏟                              𝜀𝑡−1 − 𝜃2 ⏟
+                                                ⏟𝑡−𝑝 + 𝜀𝑡 − 𝜃1 ⏟
+                                 𝑡−2 + ⋯ + 𝜙𝑝 × 𝑊                        𝜀𝑡−2 − ⋯ − 𝜃𝑞 𝜀⏟
+                                                                                        𝑡−𝑞
+                       𝐵𝑊𝑡          𝐵2 𝑊𝑡             𝐵𝑝 𝑊𝑡           𝐵𝜀𝑡       𝐵 2 𝜀𝑡           𝐵 𝑝 𝜀𝑡
+
+
+           𝑊𝑡 × (1 − 𝜙1 𝐵 − 𝜙2 𝐵 2 − ⋯ − 𝜙𝑝 𝐵 𝑝 ) = 𝛿 + (1 − 𝜃1 𝐵 − 𝜃2 𝐵 2 − ⋯ − 𝜃𝑞 𝐵 𝑞 ) × 𝜀𝑡
+
+                                      𝑊𝑡 × 𝜙(𝐵) = 𝛿 + 𝜃(𝐵) × 𝜀𝑡
+
+                                     𝜵𝒅 𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+Por fim, é importante notarmos que os modelos autorregressivos e os modelos de suavização exponencial
+(isto é, de médias móveis exponenciais ponderadas) são casos especiais de modelos ARIMA.
+
+
+---
+
+(FCC/TRT 20ª Região/2016) Sejam f(k) e h(k), 𝒌 = 𝟏, 𝟐, 𝟑, …, respectivamente, as funções de
+autocorrelação e autocorrelação parcial de um modelo ARIMA(p,d,q). Considere as seguintes afirmações:
+I. No modelo ARIMA(0,d,1), a região de admissibilidade do modelo é −𝟏 < 𝜽 < 𝟏, onde 𝜽 é o parâmetro
+de médias móveis do modelo.
+II. No modelo ARMA(0,d, 2), f(1) = f(2) e f(k) = 0 para 𝒌 > 𝟐.
+III. No modelo ARIMA(1,d,1) f(k) decai exponencialmente após 𝒌 = 𝟏 e h(k) é dominada por senoides
+amortecidas após 𝒌 = 𝟏.
+IV. No modelo ARIMA(1,d, 0) ,𝒇(𝟏) = 𝝓, onde 𝝓 é o parâmetro autorregressivo do modelo.
+Está correto o que se afirma APENAS em
+a) I, III e IV.
+b) II, III e IV.
+c) II e III.
+d) I e IV.
+e) I, II e IV.
+
+
+Comentários:
+
+
+Vamos analisar cada uma das afirmações:
+
+
+Afirmação I: Correta.
+Dentre as séries temporais, os modelos autorregressivos integrados de médias móveis, ARIMA (p,d,q),
+constituem uma generalização do modelo autorregressivo de médias móveis (ARMA), em que os
+parâmetros p, d e q são números inteiros não negativos, p é o número de defasagens do modelo
+autorregressivo; d é o grau de diferenciação; e q é a ordem do modelo de média móvel.
+Portanto, podemos descrever todos os modelos vistos anteriormente utilizando a nomenclatura ARIMA,
+isto é:
+- ARIMA(p,0,0) = AR(p);
+- ARIMA(0,0,q) = MA(q);
+- ARIMA(p,0,q) = ARMA(p,q).
+
+
+---
+
+A equação do modelo ARIMA (p, d, q) é expressa por:
+   𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜙1 × 𝛻              𝛻 𝑑 𝑍𝑡−2 + ⋯ + 𝜙𝑝 × 𝛻
+                     ⏟𝑑 𝑍𝑡−1 + 𝜙2 × ⏟                     𝑑
+                                                                          𝑡−1 − 𝜃2 𝜀
+                                                        ⏟ 𝑍𝑡−𝑝 + 𝜀𝑡 − 𝜃1 𝜀⏟        ⏟ 𝑡−2 − ⋯ − 𝜃𝑞 𝜀
+                                                                                                  ⏟ 𝑡−𝑞
+                      𝐵𝑊𝑡              𝐵2 𝑊𝑡                   𝐵𝑝 𝑊𝑡        𝐵𝜀𝑡     𝐵2 𝜀𝑡          𝐵𝑝 𝜀𝑡
+
+Para o modelo ARIMA (0,d,1), temos:
+                                          𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜀𝑡 − 𝜃1 𝜀⏟
+                                                                𝑡−1
+                                                                      𝐵𝜀𝑡
+
+                                         𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜀𝑡 × (1 − 𝜃1 𝐵)
+                                               𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜀𝑡 × 𝜃(𝐵)
+Logo, esse modelo será admitido quando tivermos:
+                                                   −1 < 𝜃1 < 1
+
+
+Afirmação II: Errada. Para a função de autocorrelação temos:
+                                                            γ(τ)
+                                                   ρ(τ) =
+                                                            γ(0)
+E para a função de autocovariância da série 𝑋𝑡 temos que:
+                                                 𝛾τ = 𝐸[𝑋𝑡 , 𝑋𝑡−τ ]
+Para ARIMA(0,d,2) temos:
+                                      𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − 𝜃2 𝜀𝑡−2
+Assim,
+                                                          −𝜃1 + 𝜃1 × 𝜃2
+                                       𝑓(1) = 𝜌(1) =
+                                                           1 + 𝜃12 + 𝜃22
+                                                                −𝜃2
+                                        𝑓(1) = 𝜌(2) =
+                                                            1 + 𝜃12 + 𝜃22
+Logo 𝑓(1) ≠ 𝑓(2).
+
+
+Afirmação III: Errada. O modelo ARIMA(1,d,1) decai exponencialmente com lag 1 para f(k) e da mesma forma
+para h(k).
+
+
+Afirmação IV: Certa. Para o modelo ARIMA (1,d,0), temos:
+                                       𝛻 𝑑 𝑍𝑡 = 𝛿 + 𝜙1 × 𝛻 𝑑 𝑍𝑡−1 + 𝜀𝑡
+
+
+Desenvolvendo a fórmula apresentada na alternativa II, podemos mostrar que para o modelo ARIMA (1,d,0),
+                                                     𝜌1 = 𝜙1
+Gabarito: D.
+
+
+---
+
+Identificação do Modelo pela Função de Autocorrelação
+Vimos anteriormente que a correlação entre 𝑍𝑡 e 𝑍𝑡−𝜏 , para modelos estacionários, depende apenas da
+diferença dois instantes de tempo, comumente chamada de "lag" e simbolizada 𝝉.
+Dessa forma, podemos calcular a correlação para vários valores de 𝜏, começando em zero e variando até o
+infinito. Conforme o valor de 𝜏 vai aumentando, o comportamento de 𝜌(𝜏) vai seguindo um determinado
+padrão, que pode ser representado em gráfico chamado de correlograma.
+No caso de processos AR (p), a função autocorrelação é infinita e pode ir decaindo exponencialmente, ou
+pode se comportar feito senóides amortecidas. Os gráficos a seguir ilustram a função de autocorrelação
+decaindo: a) exponencialmente; b) segundo senóides amortecidas:
+
+                               Modelo Autorregressivo de Ordem 1 - AR(1)
+                (a) 𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏                                (b) 𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏
+
+                        ρ(τ)                                                ρ(τ)
+    1                                                    1
+
+  0,5                                                  0,5
+
+    0                                                    0
+
+  -0,5                                                -0,5
+
+   -1                                                   -1
+
+No caso de processos MA(q), a função autocorrelação é finita e apresenta valores diferentes de zero para 𝝉
+menor ou igual a 𝒒 e valores iguais a zero para τ maior que 𝒒.
+
+  Modelo de Médias Móveis de Ordem 1 - MA(1)           Modelo de Médias Móveis de Ordem 2 - MA(2)
+               𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏                         𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏 − 𝟎, 𝟕 × 𝜺𝒕−𝟐
+
+                        ρ(τ)                                                 ρ(τ)
+    1                                                   1
+
+  0,5                                                 0,5
+
+    0                                                   0
+
+  -0,5                                                -0,5
+
+   -1                                                  -1
+
+
+---
+
+No caso de processos ARMA(p,q), a função autocorrelação é infinita e decresce com características
+exponenciais ou senoidais amortecidas após a defasagem (q,p).
+
+                     Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+           𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏              𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏
+
+                          ρ(τ)                                              ρ(τ)
+  1,000                                            1,000
+
+
+  0,500                                            0,500
+
+
+  0,000                                            0,000
+
+
+  -0,500                                           -0,500
+
+
+  -1,000                                           -1,000
+
+
+---
+
+                                         RESUMO DA AULA
+SÉRIES TEMPORAIS
+
+                                             Uma série temporal é um
+                                             conjunto de observações
+                                               ordenadas no tempo
+
+  Um processo estocástico é um            A série temporal é contínua se as
+ processo controlado pelas leis da        observações      são     obtidas        A série temporal é discreta se o
+ probabilidade, que pode ser visto        continuamente        em      um            intervalo de observações
+  como um conjunto de todas as            determinado intervalo de tempo          pertence a um conjunto discreto
+ possíveis trajetórias que se pode        [0,T]
+     observar de uma variável
+
+
+                                             Uma série temporal é dita
+    O objetivo da análise de séries         estacionária quando ela se               As séries costumam ser não-
+  temporais é descobrir os padrões        desenvolve aleatoriamente em             estacionárias, isto é, apresentar
+ de comportamento (crescimento e          torno de uma média constante,           uma tendência de crescimento ou
+ mudança) nas variáveis estudadas            exibindo comportamento               decrescimento ao longo do tempo
+                                           estatístico similar ao longo do
+                                                        tempo.
+
+2. MODELO CLÁSSICO
+
+                         tendência          A tendência descreve um movimento suave (a longo prazo) dos
+                         secular (T)        dados, para cima ou para baixo.
+
+
+                                             As variações sazonais referem-se às mudanças que ocorrem
+                         variação            devido às forças rítmicas que atuam de forma regular e
+                        sazonal (S)          periódica. Essas forças geralmente seguem um padrão
+                                             semelhante ano após ano.
+   Séries
+ temporais
+                                              As variações cíclicas são oscilações de longo prazo em torno
+                      variação cíclica        de uma linha de tendência. Esses ciclos podem ou não ser
+                            (C)               periódicos
+
+
+                          variação
+                                               As variações aleatórias são flutuações resultantes de forças
+                        irregular ou
+                                               imprevistas e imprevisíveis.
+                        aleatória (I)
+
+
+---
+
+Modelos Aditivo e Multiplicativo
+
+        Item                                 Definição                              Símbolos e Fórmulas
+                            considera uma série temporal como o
+                             resultado da soma das componentes
+                          individuais, isto é, a soma da componente
+  O modelo aditivo         de tendência (𝑻𝒕 ), da componente cíclica               𝒁𝒕 = 𝑻𝒕 + 𝑪𝒕 + 𝑺𝒕 + 𝑰𝒕
+                            (𝑪𝒕 ), da componente sazonal (𝑺𝒕 ) e da
+                                    componente irregular (𝑰𝒕 ).
+
+                             considera uma série temporal como
+                           resultado do produto das componentes
+    O modelo             individuais, isto é, o produto da tendência,              𝒁𝒕 = 𝑻𝒕 × 𝑪𝒕 × 𝑺𝒕 × 𝑰𝒕
+   multiplicativo          da componente cíclica, da componente
+                             sazonal e da componente irregular.
+
+TENDÊNCIA
+
+                                                                  1.   Empregamos modelos de regressão para
+    Há dois métodos gerais para isolar a tendência                     estimar a linha de tendência.
+                                                                  2.   Usamos médias móveis para eliminar os
+                                                                       outros componentes.
+
+
+Regressão Linear
+Substituindo a escala (𝒙) da variável independente por uma escala de tempo (𝒕):
+
+                                                     𝒁𝒕 = 𝒂 + 𝒃 × 𝒕
+As equações para 𝒂 e 𝒃 são expressas pelas seguintes fórmulas:
+
+                                                      𝒏 ∑ 𝒕𝒁 − ∑ 𝒕 ∑ 𝒁
+                                             𝒃=
+                                                      𝒏 ∑ 𝒕𝟐 − (∑ 𝒕)𝟐
+
+
+                                                ∑𝒁 − 𝒃∑𝒕
+                                          𝒂=              ̅ − 𝒃𝒕̅
+                                                         =𝒁
+                                                   𝒏
+
+Médias Móveis
+
+ Uma média móvel é a média aritmética das últimas 𝒌 observações 𝒁𝒕 :
+
+
+---
+
+                                     ∑𝒌𝒊=𝒕−𝒌 𝒁𝒕
+                              𝑴𝑴 =
+                                         𝒌
+
+SUAVIZAÇÃO EXPONENCIAL
+
+A equação de suavização exponencial é:
+
+                    ̅ 𝒕 = 𝜶 × 𝒁𝒕 + (𝟏 − 𝜶) × 𝒁
+                    𝒁                        ̅ 𝒕−𝟏 ,   ̅ 𝟎 = 𝒁𝟏 ,
+                                                       𝒁                𝒕 = 𝟏, ⋯ , 𝑵,
+
+OPERADORES
+
+Translação para o Passado
+
+  O operador de translação para o passado (𝑩) desloca o índice de tempo para trás (retarda) em uma
+                    unidade. A letra 𝑩 vem do inglês "backward shift operator".
+
+                  Definição                                    Símbolos e Fórmulas
+
+
+   o operador de translação para o passado a                        𝑩𝒁(𝒕) = 𝒁(𝒕 − 𝟏)
+   uma variável no tempo 𝑡, definida como 𝑍𝑡
+                                                                      𝑩𝒁𝒕 = 𝒁𝒕−𝟏
+
+  Translação para o passado para mais de um
+                   período                                           𝑩𝒏 𝒁𝒕 = 𝒁𝒕−𝒏
+
+
+---
+
+Translação para o Futuro
+
+ O operador de translação para o futuro (𝑭) desloca o índice de tempo para frente em uma unidade. A
+                           letra 𝑭 vem do inglês "forward shift operator".
+
+                  Definição                                      Símbolos e Fórmulas
+
+
+   o operador de translação para o futuro a                           𝑭𝒁(𝒕) = 𝒁(𝒕 + 𝟏)
+  uma variável no tempo 𝑡, definida como 𝑍𝑡
+                                                                        𝑭𝒁𝒕 = 𝒁𝒕+𝟏
+
+   Translação para o futuro para mais de um
+                   período                                             𝑭𝒏 𝒁𝒕 = 𝒁𝒕+𝒏
+
+Diferença
+
+                              Definição                                       Símbolos e Fórmulas
+
+ O operador de diferença (∇) retorna a diferença entre dois valores
+ consecutivos da série temporal. Alguns autores empregam a letra                ∇𝒁𝒕 = 𝒁𝒕 − 𝒁𝒕−𝟏
+        grega Δ (delta) em vez do símbolo ∇ (nabla ou del).
+
+   podemos escrever o operador de diferença da seguinte forma:                     ∇=𝟏−𝑩
+
+
+       o operador de diferença de ordem 𝑛 é definido como:                       ∇𝒏 = (𝟏 − 𝑩)𝒏
+
+
+---
+
+ESTACIONARIEDADE
+
+               Gráfico                                          Definição
+
+
+   10
+                                  Uma série temporal é estacionária quando ela se desenvolve no tempo,
+       5                          de modo aleatório, ao redor de uma média constante, refletindo, assim,
+                                                   alguma forma de equilíbrio estável.
+       0
+           0 1 2 3 4 5 6 7 8 9
+
+  10
+                                  Uma série temporal é não-estacionária quando apresenta uma mudança
+   5                                de nível e/ou inclinação, no gráfico temos uma série temporal com
+                                   tendência de crescimento linear, apontada pela reta na cor vermelha.
+   0
+       0 1 2 3 4 5 6 7 8 9
+
+FUNÇÕES DE AUTOCOVARIÂNCIA E AUTOCORRELAÇÃO
+
+            Função de autocovariância (FACV)
+
+            • Descreve a covariância entre duas variáveis 𝒁𝒕𝟏 e 𝒁𝒕𝟐 do processo em dois instantes,
+              sendo representada por 𝜸(𝒕𝟏 , 𝒕𝟐 ).
+            • 𝜸 𝒕𝟏 , 𝒕𝟐 = 𝑪𝒐𝒗 𝒁𝒕𝟏 , 𝒁𝒕𝟐 = 𝑬 𝒁𝒕𝟏 − 𝑬 𝒁𝒕𝟏 × 𝒁𝒕𝟐 − 𝑬 𝒁𝒕𝟐
+            • A funcão de autocovariância para processos estacionários é função apenas do tempo de
+              atraso (𝒍𝒂𝒈)𝝉.
+            • 𝜸 𝝉 = 𝑪𝒐𝒗 𝒁𝒕+𝝉 , 𝒁𝒕 = 𝑪𝒐𝒗 𝒁𝒕 , 𝒁𝟎 .
+
+
+            Função de autocorrelação
+            • É uma função somente de 𝝉.
+                       𝜸(𝝉)
+            •𝝆 𝝉 =
+                       𝜸(𝟎)
+
+MODELOS ARIMA
+Os modelos autorregressivos integrados de médias móveis (ARIMA, do inglês autoregressive integrated
+moving average) podem ser ajustados aos dados de uma série temporal para que possamos entender melhor
+os dados dessa série ou para prever seus valores futuros.
+
+
+---
+
+Modelos Autorregressivos (AR)
+
+ Modelo Autorregressivo de Ordem 1:
+
+                                      𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+ Modelo Autorregressivo de Ordem 2:
+
+                                𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝝓𝟐 𝒁𝒕−𝟐 + 𝜺𝒕
+ Após aplicar o operador ou polinômio autorregressivo estacionário de ordem p representado por 𝝓(𝑩):
+
+                                       𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜺𝒕
+
+                             Modelo Autorregressivo de Ordem 1 - AR(1)
+
+                                      𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+
+
+Modelos de Médias Móveis (MA)
+
+                           Modelo de Médias Móveis de Ordem 1 - MA(1)
+
+                                      𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+                           Modelo de Médias Móveis de Ordem 2 - MA(2)
+
+                                𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐
+                           Modelo de Médias Móveis de Ordem q - MA(q)
+
+                        𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐 − ⋯ − 𝜽𝒒 𝜺𝒕−𝒒
+
+Modelos Autorregressivos de Médias Móveis (ARMA)
+O modelo ARMA é basicamente a mistura dos processos Autorregressivos AR(p) e Médias Móveis MA(q).
+
+
+                                  𝝓(𝑩) × 𝒁𝒕 = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+
+                 Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+
+                                𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+
+
+---
+
+Modelos Autorregressivos Integrados de Médias Móveis (ARIMA)
+Os modelos ARIMA (do inglês auto-regressive integrated moving average) são modelos estatísticos lineares
+que correspondem à classe mais geral de modelos para análise de séries temporais. Eles são ditos
+autorregressivos, integrados e de médias móveis.
+
+                                              𝜵𝒅 𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+
+Identificação do Modelo pela Função de Autocorrelação
+
+                                     Modelo Autorregressivo de Ordem 1 - AR(1)
+                      (a) 𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏                                (b) 𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏
+
+                              ρ(τ)                                                ρ(τ)
+                  1                                                      2
+
+                                                                         0
+
+              -1                                                         -2
+
+  Modelo de Médias Móveis de Ordem 1 - MA(1)                  Modelo de Médias Móveis de Ordem 2 - MA(2)
+                      𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏                        𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏 − 𝟎, 𝟕 × 𝜺𝒕−𝟐
+
+                              ρ(τ)                                                ρ(τ)
+             1                                                            1
+
+
+             -1                                                          -1
+
+                         Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+       𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏                       𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏
+
+                             ρ(τ)                                                ρ(τ)
+          1,000                                                       1,000
+
+          -1,000                                                      -1,000
+
+
+---
+
+                       QUESTÕES COMENTADAS – FGV
+
+Modelo Clássico
+
+1. (FGV/IBGE/2016) Os métodos estatísticos mais comuns para previsão de demandas, de acordo com o
+tamanho, a complexidade e o tipo de demanda são: (1) média aritmética; (2) média móvel; (3) média
+ponderada exponencialmente; (4) regressão; e (5) modelos econométricos. Entre essas variedades, o
+conceito mais preciso para a média móvel é:
+a) forma de média aritmética empregada para prever demandas sazonais;
+b) média que aplica dados empíricos, incorporando termos residuais diversos, não disponíveis na série
+histórica;
+c) média aritmética, calculada período a período, empregada, principalmente, para a projeção de demandas;
+d) medida de tendência central, obtida a partir de uma massa dispersa de dados;
+e) média aritmética, de uma série de dados, com a substituição, a cada período, do dado mais antigo pelo
+mais recente.
+
+
+Comentários:
+A média móvel é um indicador que calcula a média de uma série de dados em um determinado período. Esse
+indicador é bastante utilizado para prever tendências de comportamento. A ideia do cálculo da média móvel
+é eliminar a observação mais antiga em detrimento de uma mais nova.
+Assim, temos que, quanto mais termos forem empregados no cálculo da média móvel, menos sensível será
+a média, e quanto menos termos forem empregados no cálculo, mais sensível será a média.
+Gabarito: E.
+
+
+---
+
+                         QUESTÕES COMENTADAS – FGV
+
+Tendência
+
+1. (FGV/TCU/2022) A demanda de um certo serviço público no mês t é modelada pela equação 𝟐𝟎 + 𝟑𝒕 +
+𝟐𝑫(𝒕) + 𝜺𝒕 , onde 𝑫(𝒕) = 𝟏, se 𝒕 = 𝟔, e 0, caso contrário, e 𝜺𝒕 é um ruído com média zero e variância
+4.
+As previsões de demanda nos meses 6 e 12 são, respectivamente:
+a) 40 e 56;
+b) 40 e 58;
+c) 42 e 58;
+d) 44 e 60;
+e) 56 e 40.
+
+
+Comentários:
+O enunciado nos forneceu os valores da média e da variância do ruído: E(𝜀𝑡 ) = 0 e Var(𝜀𝑡 ) = 4. Além disso, foi
+informado que a demanda é modelada pela equação:
+                                         𝐷 = 20 + 3𝑡 + 2𝐷(𝑡) + 𝜀𝑡
+Para t=6, temos que D(t) = 1:
+                                      𝐷 = 20 + 3.6 + 2. 𝐷(𝑡) + 𝜀𝑡
+                                         𝐷 = 20 + 18 + 2.1 + 𝜀𝑡
+                                         𝐷 = 20 + 18 + 2 + 𝜀𝑡
+                                                𝐷 = 40 + 𝜀𝑡
+O valor esperado para a demanda quando t=6 é:
+                                        𝐸(𝐷) = 𝐸(40 + 𝜀𝑡 ) = 40.
+
+
+Para t=12, temos que D(t) = 0:
+                                        𝐷 = 20 + 3.12 + 2.0 + 𝜀𝑡
+                                            𝐷 = 20 + 36 + 𝜀𝑡
+                                                𝐷 = 56 + 𝜀𝑡
+O valor esperado para a demanda quando t=12 é:
+                                        𝐸(𝐷) = 𝐸(56 + 𝜀𝑡 ) = 56.
+
+
+---
+
+Gabarito: A.
+
+
+---
+
+                        QUESTÕES COMENTADAS – FGV
+
+Funções de Autocovariância e Autocorrelação
+
+1. (FGV/TRT-MA/2022) Em relação a características das séries temporais, avalie se as afirmativas a seguir
+são falsas (F) ou verdadeiras (V):
+I. A autocorrelação avalia o modo como uma observação, num dado instante, está relacionada com as
+observações passadas; em particular, a autocorrelação de primeira ordem caracteriza séries nas quais uma
+observação está correlacionada com a observação imediatamente anterior.
+II. A tendência de uma série temporal é uma medida do padrão de crescimento (positivo ou negativo) da
+variável em um certo período de tempo.
+III. A sazonalidade mede se há padrões de comportamento que se repetem em épocas específicas.
+IV. Dizemos que uma série temporal apresenta estacionariedade se a variável em estudo se comporta de
+modo aleatório ao longo do tempo ao redor de uma média constante.
+As afirmativas são respectivamente
+a) V, V, V e V.
+b) V, V, F e F.
+c) F, F, V e V.
+d) V, F, V e V.
+e) V, V, V e F.
+
+
+Comentários:
+Vamos analisar cada uma das afirmativas:
+I. A autocorrelação avalia o modo como uma observação, num dado instante, está relacionada com as
+observações passadas; em particular, a autocorrelação de primeira ordem caracteriza séries nas quais uma
+observação está correlacionada com a observação imediatamente anterior.
+Correto. A função de autocorrelação mede a dependência linear entre os valores de uma série temporal com
+atraso (lag) igual a τ, ou seja, a autocorrelação avalia a relação de uma observação com outras observações
+passadas em um dado período. Quando falamos em autocorrelação de primeira ordem, estamos nos
+referindo às séries nas quais uma observação está correlacionada com a observação imediatamente anterior.
+
+
+II. A tendência de uma série temporal é uma medida do padrão de crescimento (positivo ou negativo) da
+variável em um certo período de tempo.
+
+
+---
+
+Correto. A tendência diz respeito ao comportamento geral dos dados de aumentarem, diminuírem ou
+estagnarem por um longo período. A tendência pode ser linear ou não. Caso não seja linear, podemos
+escolher outro tipo de função (exponencial, logarítmica, quadrática) que melhor se adapte à representação
+gráfica da série temporal.
+
+
+III. A sazonalidade mede se há padrões de comportamento que se repetem em épocas específicas.
+Correto. As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de
+forma regular e periódica. Essas forças geralmente seguem um padrão semelhante ano após ano. Dessa
+forma, as variações sazonais são variações cíclicas a prazo relativamente curto (um ano ou menos). Então, a
+sazonalidade avalia se há padrões de comportamentos que se repetem em épocas específicas.
+
+
+IV. Dizemos que uma série temporal apresenta estacionariedade se a variável em estudo se comporta de
+modo aleatório ao longo do tempo ao redor de uma média constante.
+Correto. Uma série temporal é estacionária quando ela se desenvolve no tempo, de modo aleatório, ao redor
+de uma média constante, refletindo, assim, alguma forma de equilíbrio estável.
+Assim, temos que todas as afirmativas são verdadeiras.
+Gabarito: A.
+
+
+---
+
+                        QUESTÕES COMENTADAS – FGV
+
+Modelos ARIMA
+
+1. (FGV/TJDFT/2022) Sejam os modelos ARIMA(2,0,0) a seguir.
+I. 𝒛𝒕 = 𝟎, 𝟒𝒛𝒕−𝟏 + 𝟎, 𝟖𝒛𝒕−𝟐 + 𝜺𝒕
+II. 𝒛𝒕 = 𝟎, 𝟖𝒛𝒕−𝟏 − 𝟎, 𝟒𝒛𝒕−𝟐 + 𝜺𝒕
+III. 𝒛𝒕 = −𝟎, 𝟒𝒛𝒕−𝟏 + 𝟎, 𝟖𝒛𝒕−𝟐 + 𝜺𝒕
+Sendo (𝜺𝟏 , 𝜺𝟐 ,..., 𝜺𝒕 ) variáveis aleatórias independentes e identicamente distribuídas, iid, com média zero
+e variância constante, ou seja, os εt′s, formam uma sequência de ruídos brancos.
+A condição de estacionariedade é satisfeita somente no(s) modelo(s):
+a) I;
+b) II;
+c) III;
+d) I e II;
+e) I e III.
+
+
+Comentários:
+Os modelos em questão são autorregressivos do tipo AR(2), os quais podem ser representados por:
+                                        𝑍𝑡 = 𝜙1 𝑍𝑡−1 + 𝜙2 𝑍𝑡−2 + 𝜀𝑡
+Um processo 𝐴𝑅(2) é estacionário somente se as raízes da equação característica estiverem fora do círculo
+unitário:
+                                      1 − 𝜙1 𝑧 − 𝜙1 𝑧 2 = 0 ⇒ |𝑧| > 1
+Vamos analisar cada modelo:
+I. 𝑧𝑡 = 0,4𝑧𝑡−1 + 0,8𝑧𝑡−2 + 𝜀𝑡
+A equação característica é:
+                                           1 − 0,4𝑧 − 0,8𝑧 2 = 0
+                                           𝛥 = 0,16 + 3,2 = 3,36
+                                             0,4 ± 1,833   −1,395
+                                        𝑧=               ={
+                                                 −1,6       0,895
+O processo não é estacionário, pois uma das raízes é interna ao círculo unitário.
+
+
+---
+
+II. 𝑧𝑡 = 0,8𝑧𝑡−1 − 0,4𝑧𝑡−2 + 𝜀𝑡 (Estacionário)
+A equação característica é:
+                                             1 − 0,8𝑧 + 0,4𝑧 2 = 0
+                                          𝛥 = 0,64 − 1,6 = −0,96
+                                             0,8 ± 0,98𝑖   1 + 1,11𝑖
+                                        𝑧=               ={
+                                                 0,8       1 − 1,11𝑖
+O processo é estacionário, pois as duas raízes estão fora do círculo unitário.
+
+
+III. 𝑧𝑡 = −0,4𝑧𝑡−1 + 0,8𝑧𝑡−2 + 𝜀𝑡 (Não estacionário)
+A equação característica é:
+                                             1 + 0,4𝑧 − 0,8𝑧 2 = 0
+                                           𝛥 = 0,16 + 3,2 = 3,36
+                                             −0,4 ± 1,833    −0,895
+                                       𝑧=                 ={
+                                                 −1,6        1,395
+O processo não é estacionário, pois uma das raízes é interna ao círculo unitário.
+Gabarito: B.
+
+
+2. (FGV/TJDFT/2022) O gráfico a seguir representa uma série temporal.
+
+
+---
+
+Com a finalidade de identificar o modelo, devem ser observadas a função de autocorrelação (FAC) e a
+função de autocorrelação parcial (FACP) da série com uma diferença que está ilustrada nos gráficos a
+seguir.
+
+
+---
+
+Seja a notação de modelo tipo ARIMA (p, d, q), sendo p, a ordem da parte autorregressiva; d, o grau da
+diferenciação; e q, a ordem da parte de médias móveis.
+O modelo que melhor representa a série temporal é:
+a) ARIMA(0,0,1);
+b) ARIMA(0,1,1);
+c) ARIMA(1,0,1);
+d) ARIMA(1,1,0);
+e) ARIMA(1,1,1).
+
+
+Comentários:
+Ao analisarmos o primeiro gráfico, percebemos que a série em questão não é estacionária, sendo necessária
+uma integração de ordem 1. É, portanto, uma série temporal que se torna estacionária com a primeira
+diferença, logo, d=1.
+A partir do segundo gráfico, conseguimos verificar que a função de autocorrelação apresenta decaimento
+exponencial e, com base no terceiro, verificamos que a função de autocorrelação parcial é truncada na
+primeira defasagem, vez que para as demais defasagens os valores são muito próximos de zero.
+Isso ocorre quando a série temporal é do tipo autorregressiva. Quando a função de autocorrelação parcial
+trunca a partir da defasagem 𝑝, temos um indicativo de que o processo é do tipo 𝐴𝑅(𝑝). Portanto, na
+presente questão, temos 𝑝 = 1.
+Por fim, o modelo não indica a presença de médias móveis, vez que, se fosse o caso, os gráficos
+apresentariam o comportamento inverso. Assim, considerando a notação ARIMA(p, d, q), temos um modelo
+do tipo ARIMA(1,1,0).
+Gabarito: D.
+
+
+3. (FGV/TJDFT/2022) No contexto de Séries Temporais são impostas restrições de estacionariedade e
+invertibilidade para os modelos ARIMA(p, d, q).
+Considerando       a notação   na   forma   de operador     retardo   (𝟏 − 𝝓𝟏 𝑩 − ⋯ − 𝝓𝒑 𝑩𝒑 )𝒁𝒕 = (𝟏 −
+𝜽𝟏 𝑩−. . . −𝜽𝟏 𝑩𝒒 )𝜺𝒕 , sendo 𝜺𝒕 ∼ 𝑵(𝟎, 𝝈𝟐 ), o modelo, na forma de equação de diferenças, que está de
+acordo com as restrições é:
+a) 𝑍𝑡 = 0,5𝑍𝑡−1 + 𝜀𝑡
+b) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 − 0,4𝜀𝑡−2 + 𝜀𝑡
+c) 𝑍𝑡 = 1,5𝑍𝑡−1 + 0,6𝑍𝑡−2 + 𝜀𝑡
+d) 𝑍𝑡 = 1,5𝑍𝑡−1 + 𝜀𝑡
+e) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 + 𝜀𝑡
+
+
+---
+
+Comentários:
+Um processo 𝐴𝑅(𝑝) é estacionário somente se as raízes da equação característica estiverem fora do círculo
+unitário:
+                                   1 − 𝜙1 𝑧 − ⋯ − 𝜙𝑝 𝑧 𝑝 = 0 ⇒ |𝑧| > 1
+Já um processo MA(q) é invertível somente se as raízes da sua equação característica estiverem fora do
+círculo unitário:
+                                   1 + 𝜃1 𝑧 + ⋯ + 𝜃𝑞 𝑧 𝑝 = 0 ⇒ |𝑧| > 1
+
+
+Sabendo disso, analisaremos cada série:
+a) 𝑍𝑡 = 0,5𝑍𝑡−1 + 𝜀𝑡
+Correta. A série representa um processo AR(1), cuja condição de estacionariedade pode ser verificada
+fazendo-se:
+                                                𝑍𝑡 − 0,5𝑍𝑡−1
+                                                (1 − 0,5𝐵)𝑍𝑡
+                                        1 − 0,5𝑧 = 0 ⇒ 𝑧 = 2 > 1
+Além disso, todo processo autoregressivo também é invertível.
+
+
+b) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 − 0,4𝜀𝑡−2 + 𝜀𝑡
+Incorreta. A série representa um processo ARMA(1,2), cuja condição de estacionariedade pode ser verificada
+fazendo-se:
+                                                𝑍𝑡 − 0,5𝑍𝑡−1
+                                                (1 − 0,5𝐵)𝑍𝑡
+                                        1 − 0,5𝑧 = 0 ⇒ 𝑧 = 2 > 1
+Portanto, o processo é estacionário. Já para a condição de invertibilidade, precisamos verificar:
+                                           −1,3𝑧 − 0,4𝑧 2 + 1 = 0
+                                           𝛥 = 1,69 + 1,6 = 3,29
+                                               1,3 ± 1,8    −3,87
+                                          𝑧=             ={
+                                                 −0,8      −0,625
+O processo não é invertível, pois uma das raízes é interna ao círculo unitário.
+
+
+c) 𝑍𝑡 = 1,5𝑍𝑡−1 + 0,6𝑍𝑡−2 + 𝜀𝑡
+
+
+---
+
+Incorreta. A série representa um processo AR(2). A equação característica é:
+                                           1 − 1,5𝑧 − 0,6𝑧 2 = 0
+                                          𝛥 = 2,25 + 2,4 = 4,65
+                                              1,5 ± 2,15   −3,04
+                                         𝑧=              ={
+                                                 −1,2       0,54
+O processo não é estacionário, pois uma das raízes é interna ao círculo unitário.
+
+
+d) 𝑍𝑡 = 1,5𝑍𝑡−1 + 𝜀𝑡
+Incorreta. A série representa um modelo AR(1). Verificando-se a regra apresentada anteriormente, temos:
+                                       1 − 1,5𝑧 = 0 ⇒ 𝑧 = 0,66 < 1
+Portanto, não é estacionário.
+
+
+e) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 + 𝜀𝑡
+Incorreta. A série representa um modelo 𝐴𝑅𝑀𝐴(1,1). A parte autorregressiva foi analisada anteriormente
+e já sabemos que o modelo é estacionário. Porém, não é invertível:
+                                      −1,3𝑧 + 1 = 0 ⇒ 𝑧 ≈ 0,77 < 1
+Gabarito: A.
+
+
+4. (FGV/EPE/2022) Considere o seguinte modelo de séries temporais:
+                                      𝒀𝒕 = 𝑿𝒕 + 𝟎, 𝟖𝑿𝒕−𝟏 − 𝟎, 𝟑𝑿𝒕−𝟐
+no qual 𝑿𝒕 é o ruído branco.
+A média e a variância desse modelo são respectivamente iguais a
+a) 0 e 0,64.
+b) 0 e 1,55.
+c) 0 e 1,73.
+d) 1,5 e 0,64.
+e) 1,5 e 1,55.
+
+
+Comentários:
+Como 𝑋𝑡 ∼ 𝑁(0,1), temos 𝐸[𝑋𝑡 ] = 0 e 𝑉𝑎𝑟[𝑋𝑡 ] = 1. Sabendo disso, podemos calcular o valor esperado do
+processo:
+                                    𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 + 0,8𝑋𝑡−1 − 0,3𝑋𝑡−2 ]
+
+
+---
+
+                                 𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 ] + 𝐸[0,8𝑋𝑡−1 ] − 𝐸[0,3𝑋𝑡−2 ]
+                             𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 ] + 0,8 × 𝐸[𝑋𝑡−1 ] − 0,3 × 𝐸[𝑋𝑡−2 ]
+                                    𝐸[𝑌𝑡 ] = 0 + 0,8 × 0 − 0,3 × 0 = 0
+Calculando a variância, temos:
+                                 𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 + 0,8𝑋𝑡−1 − 0,3𝑋𝑡−2 ]
+                          𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 ] + 𝑉𝑎𝑟[0,8𝑋𝑡−1 ] + 𝑉𝑎𝑟[−0,3𝑋𝑡−2 ]
+                       𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 ] + 0,82 × 𝑉𝑎𝑟[𝑋𝑡−1 ] + 0,32 × 𝑉𝑎𝑟[𝑋𝑡−2 ]
+                                    𝑉𝑎𝑟[𝑌𝑡 ] = 1 + 0,82 × 1 + 0,32 × 1
+                                        𝑉𝑎𝑟[𝑌𝑡 ] = 1 + 0,64 + 0,09
+                                              𝑉𝑎𝑟[𝑌𝑡 ] = 1,73
+Gabarito: C.
+
+
+5. (FGV/FEMPAR/2021) Consórcio de veículos de imprensa passa a divulgar dados mais detalhados sobre
+a pandemia de Covid-19 no Brasil.
+Além dos números diários de casos e mortes, um novo indicador, recomendado por especialistas e
+adotado por diversos veículos da imprensa internacional, passa a ser divulgado: a média móvel. Ao adotar
+tal critério, os gráficos passam a mostrar o número de casos e mortes de cada dia em barras, e uma linha
+mostrará a média móvel dos últimos 7 dias.
+                                                 Fonte: g1.globo.com (Adaptado). Acesso em 09/07/2020.
+Em Estatística, a média móvel é um estimador calculado a partir de uma sequência de observações que
+suaviza flutuações curtas e privilegia tendências de longo prazo. A “média móvel dos últimos 7 dias”, citada
+na reportagem, é a média aritmética dos 7 últimos valores observados. No dia seguinte, o novo registro
+substitui o registro mais antigo da série e a média aritmética é recalculada.
+Nos primeiros 7 dias de janeiro, a média móvel de mortes confirmadas por Covid-19 no Brasil divulgada
+foi 741. No dia 8 de janeiro, esse número aumentou para 872.
+Com relação ao número de mortes por Covid-19 no dia 1° de janeiro, o dia 8 desse mesmo mês apresentou,
+a mais,
+a) 19 óbitos.
+b) 131 óbitos.
+c) 806 óbitos.
+d) 917 óbitos.
+e) 1.834 óbitos
+
+
+---
+
+Comentários:
+Conforme o enunciado, a média móvel dos primeiros 7 dias de janeiro é de 741 mortes, então:
+                                          𝑀1 + 𝑀2 + 𝑀3 + 𝑀4 + 𝑀5 + 𝑀6 + 𝑀7
+                                  741 =
+                                                         7
+                            𝑀1 + 𝑀2 + 𝑀3 + 𝑀4 + 𝑀5 + 𝑀6 + 𝑀7 = 5187 𝑚𝑜𝑟𝑡𝑒𝑠
+em que 𝑀𝑖 , 𝑖 = 1,2, . . . 7, representa a quantidade de mortes nos dias 1 a 7.
+No dia 8 de janeiro, a média móvel aumentou para 872, ou seja,
+                                          𝑀2 + 𝑀3 + 𝑀4 + 𝑀5 + 𝑀6 + 𝑀7 + 𝑀8
+                                  872 =
+                                                         7
+                            𝑀2 + 𝑀3 + 𝑀4 + 𝑀5 + 𝑀6 + 𝑀7 + 𝑀8 = 6104 𝑚𝑜𝑟𝑡𝑒𝑠
+Juntando as duas expressões, temos:
+                                𝑀2 + 𝑀3 + 𝑀4 + 𝑀5 + 𝑀6 + 𝑀7 + 𝑀8 = 6104
+                                              5187 − 𝑀1 + 𝑀8 = 6104
+                                              𝑀8 − 𝑀1 = 917 𝑚𝑜𝑟𝑡𝑒𝑠
+Portanto, com relação ao número de mortes por Covid-19 no dia 1° de janeiro, o dia 8 desse mesmo mês
+apresentou 917 mortes a mais.
+Gabarito: D.
+
+
+6. (FGV/DPE RJ/2019) Após uma análise sobre a série de tempo que reflete o volume de recursos
+envolvidos nos feitos em que a Defensoria Pública atua, verificou-se a existência de um processo do tipo
+MA(2).
+Adicionalmente, estimou-se essa equação que modela a série sendo dada por:
+                                       𝒚𝒕 = 𝑲 + 𝟎, 𝟒. 𝜺𝒕−𝟐 + 𝟎, 𝟐. 𝜺𝒕−𝟏 + 𝜺𝒕
+Onde K é uma constante e 𝜺𝒕 um ruído branco, 𝑬(𝜺𝒕 ) = 𝟎 e 𝑬(𝜺𝟐𝒕 ) = 𝝈𝟐 . Daí pode-se concluir que:
+                                          𝐾
+a) a média do processo é dada por(1−0,4−0,2);
+
+b) a variância do processo é dada por 𝑉𝑎𝑟(𝑦𝑡 ) = 0,20𝜎 2 ;
+c) se as raízes do polinômio 0,4𝐷2 + 0,2𝐷 + 1 estiverem fora do círculo unitário, o processo será
+estacionário;
+d) a correlação entre 𝑦𝑡 e 𝑦𝑡−2 é igual a 0,4. 𝜎 2 ;
+e) a correlação entre 𝑦𝑡 e 𝑦𝑡−1 é igual a 7/30 .
+
+
+Comentários:
+
+
+---
+
+Vamos analisar cada uma das alternativas:
+
+
+Alternativa A: Errada.
+Inicialmente, vamos calcular a média. Sabemos que 𝐸(𝜀𝑡 ) = 𝐸(𝜀𝑡−1 ) = 𝐸(𝜀𝑡−2 ) = 0. Assim,
+                                      𝑦𝑡 = 𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡
+                                  𝐸(𝑦𝑡 ) = 𝐸(𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡 )
+                         𝐸(𝑦𝑡 ) = 𝐸(𝑘) + 0,4 × 𝐸(𝜀𝑡−2 ) + 0,2 × 𝐸(𝜀𝑡−1 ) + 𝐸(𝑎𝑡 )
+                                                  𝐸(𝑦𝑡 ) = 𝑘
+Alternativa B: Errada.
+Para a variância, temos que:
+                                𝑉𝑎𝑟(𝑦𝑡 ) = 𝑉𝑎𝑟(𝑘 + 0,4𝜀𝑡−2 + 0,2𝜀𝑡−1 + 𝜀𝑡 )
+                  𝑉𝑎𝑟(𝑦𝑡 ) = 𝑉𝑎𝑟(𝑘) + 0,4² × 𝑉𝑎𝑟(𝜀𝑡−2 ) + 0,2² × 𝑉𝑎𝑟(𝜀𝑡−1 ) + 𝑉𝑎𝑟(𝜀𝑡 )
+                                   𝑉𝑎𝑟(𝑦𝑡 ) = 0 + 0,16𝜎 2 + 0,04𝜎 2 + 𝜎 2
+                                              𝑉𝑎𝑟(𝑦𝑡 ) = 1,2𝜎 2
+
+
+Alternativa C: Errada.
+Para que um processo de médias móveis seja estacionário é necessário que o polinômio característico tenha
+raízes dentro do círculo unitário. No presente caso, o polinômio característico é gerado pela troca de variável
+𝐷 𝑗 𝑎𝑡 = 𝑎𝑡−𝑗 . Utilizando a relação, temos:
+                                      𝑦𝑡 = 𝑘 + 0,4𝐷2 𝑎𝑡 + 0,2𝐷𝑎𝑡 + 𝑎𝑡
+Colocando 𝑎𝑡 em evidência, temos:
+
+                                                ⏟ 2 + 0,2𝐷 + 1) 𝑎𝑡
+                                      𝑦𝑡 = 𝑘 + (0,4𝐷
+                                                𝑝𝑜𝑙𝑖𝑛ô𝑚𝑖𝑜 𝑐𝑎𝑟𝑎𝑐𝑡𝑒𝑟í𝑠𝑡𝑖𝑐𝑜
+
+Alternativa D: Errada.
+Em um processo de médias móveis da forma
+                                    𝑍𝑡 = 𝛿 + 𝜃1 𝜀𝑡−1 + 𝜃2 𝜀𝑡−2 + ⋯ + 𝜀𝑡
+A função de correlação entre 𝑍𝑡 e 𝑍𝑡−2 é dada por:
+                                                           𝜃2
+                                             𝜌2 = −
+                                                      1 + 𝜃12 + 𝜃22
+Substituindo os valores 𝜃1 = 0,2 e 𝜃2 = 0,4, temos:
+
+
+---
+
+                                                           0,4
+                                          𝜌2 = −
+                                                     1 + 0,22 + 0,42
+                                                            0,4
+                                                     𝜌2 =
+                                                            1,2
+                                                            1
+                                                     𝜌2 =
+                                                            3
+
+
+Alternativa E: Correta.
+A função de correlação entre 𝑍𝑡 , 𝑍𝑡−1 é dada por:
+                                                       𝜃1 + 𝜃1 𝜃2
+                                            𝜌1 = −
+                                                      1 + 𝜃12 + 𝜃22
+Substituindo os valores 𝜃1 = 0,2 e 𝜃2 = 0,4, temos:
+                                                     0,2 + 0,2 × 0,4
+                                          𝜌1 = −
+                                                     1 + 0,22 + 0,42
+                                                         0,28
+                                                 𝜌1 =
+                                                          1,2
+                                                          28
+                                                 𝜌1 =
+                                                          120
+                                                            7
+                                                     𝜌1 =
+                                                           30
+Gabarito: E.
+
+
+7. (FGV/MPE-BA/2017) O comportamento da variável que reflete o nível de violência em determinado
+centro urbano parece ter uma dinâmica própria, do ponto de vista estatístico, adaptada à seguinte
+estrutura modelar:
+                                        𝒚𝒕 = 𝟏𝟐 + 𝟎, 𝟐𝟓. 𝒚𝒕−𝟏 + 𝜺𝒕
+onde 𝒚𝒕 é o nível de violência em t e 𝜺𝒕 o erro aleatório com os pressupostos usuais.
+Considerando os valores dos parâmetros estimados por MQO, conclui-se que:
+a) o nível da violência tende a subir com o passar do tempo;
+b) o nível da violência tende a reduzir com o passar do tempo;
+c) não se pode prever se a violência tende a crescer ou baixar por causa da presença do termo aleatório;
+d) o nível de violência tende a oscilar, mas permanecendo, em média, ao redor do valor 16;
+e) a variância da medida do nível de violência tende a se reduzir com o passar do tempo.
+
+
+---
+
+Comentários:
+Vamos analisar cada uma das alternativas:
+Alternativa A: Errada.
+Precisamos verificar se o processo autorregressivo de ordem 1, AR(1), dado na questão é estacionário. O
+operador autorregressivo estacionário é dado por:
+                                              𝜙(𝐵) = 1 − 𝜙1 𝐵
+                                            𝜙(𝐵) = 1 − 0,25 × 𝐵
+Agora, vamos resolver a equação 𝜙(𝐵) = 0:
+                                             1 − 0,25 × 𝐵 = 0
+                                               0,25 × 𝐵 = 1
+                                                   1    100
+                                            𝐵=        =     =4
+                                                 0,25   25
+Como a raiz é maior do que 1, isto é, como a raiz está situada fora do círculo unitário, o processo é dito
+estacionário, portanto, tende a oscilar em torno de sua própria média.
+
+
+Alternativa B: Errada. Conforme visto no item anterior, a série é estacionária. Portanto, ela tende a oscilar
+em torno de sua média.
+Alternativa C: Errada. Uma vez determinado o modelo matemático, podemos analisar o comportamento da
+série temporal, determinando os prováveis valores que assumirão as variáveis aleatórias futuras. O horizonte
+de previsão está relacionado ao erro de previsão, que, por sua vez, está associado a cada componente de
+erro aleatório.
+Alternativa D: Correta. Como vimos, a série é estacionária, portanto, tende a oscilar em torno de sua média.
+Como esse valor médio se mantém constante ao longo do tempo, podemos fazer:
+                                        𝑦𝑡 = 12 + 0,25𝑦𝑡−1 + 𝜀𝑡
+                                     𝐸(𝑦𝑡 ) = 𝐸(12 + 0,25𝑦𝑡−1 + 𝜀𝑡 )
+                                𝐸(𝑦𝑡 ) = 𝐸(12) + 0,25 × 𝐸(𝑦𝑡−1 ) + 𝐸(𝜀𝑡 )
+A média do ruído branco é zero, 𝐸(𝜀𝑡 ) = 0. Além disso, como a média é constante, temos que 𝐸(𝑦𝑡 ) =
+𝐸(𝑦𝑡−1 ) = 𝜇. Assim,
+                                            𝜇 = 12 + 0,25𝜇 + 0
+                                              𝜇 − 0,25𝜇 = 12
+                                                 0,75𝜇 = 12
+                                                        12
+                                                  𝜇=
+                                                       0,75
+                                                  𝜇 = 16
+
+
+---
+
+Alternativa E: Errada. Tanto a variância como a média são constantes ao longo do tempo.
+Gabarito: D.
+
+
+---
+
+                                  AVISO IMPORTANTE!
+
+Olá, alunos (as)!
+
+Informamos que não temos mais questões da banca, referente ao assunto tratado na aula de hoje, em
+virtude de baixa cobrança deste tópico ao longo dos anos. No entanto, para complementar o estudo e deixar
+sua preparação em alto nível, preparamos um caderno de questões inéditas que servirá como treino e
+aprimoramento do conteúdo.
+
+Em caso de dúvidas, não deixe de nos chamar no Fórum de dúvidas!
+
+Bons estudos!
+
+Estratégia Concursos
+
+
+---
+
+                   QUESTÕES COMENTADAS – INÉDITAS
+
+Modelo Clássico
+
+1. (INÉDITA) Uma série temporal é um conjunto de observações ordenadas no tempo, podendo apresentar
+até quatro componentes. No modelo de decomposição multiplicativo (𝑿𝒕 = 𝑪𝒕 × 𝑻𝒕 × 𝑺𝒕 × 𝑰𝒕 ), considera-
+se que uma série temporal é resultante da multiplicação das componentes:
+a) ciclo, temporalidade, sistemática e irregularidade.
+b) ciclo, tendência, sazonalidade e ruído.
+c) circularidade, tendência, sistemática e ruído.
+d) circularidade, tendência, sazonalidade e imprevisibilidade.
+e) ciclo, temporalidade, sazonalidade e imprevisibilidade.
+
+
+Comentários:
+Uma série temporal é um conjunto de observações ordenadas no tempo. As séries temporais podem ser
+decompostas em quatro componentes: tendência secular (T), variação sazonal (S), variação cíclica (C),
+variação irregular ou aleatória (I).
+Gabarito: B.
+
+
+2. (INÉDITA) Considerando uma série temporal, é correto afirmar que a tendência descreve:
+a) um comportamento que ocorre devido às forças rítmicas que atuam de forma regular e periódica.
+b) um movimento errático, que opera de maneira absolutamente aleatória e não tem nenhum padrão
+definido.
+c) um movimento suave de longo prazo, para cima ou para baixo.
+d) um comportamento oscilatório de curto prazo, que pode ou não ser periódico.
+e) se há variações aleatórias resultantes de forças imprevisíveis.
+
+
+Comentários:
+Vamos analisar cada alternativa:
+Alternativas A: Incorreta. As variações sazonais referem-se às mudanças que ocorrem devido às forças
+rítmicas que atuam de forma regular e periódica. Dessa forma, as variações sazonais são variações cíclicas a
+prazo relativamente curto (um ano ou menos).
+
+
+---
+
+Alternativa B: Incorreta. As variações aleatórias são causadas por ocorrências raras, operam de maneira
+absolutamente aleatória ou errática, e não têm nenhum padrão definido.
+Alternativa C: Correta. A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou
+para baixo. Ela diz respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem
+por um longo período.
+Alternativa D: Incorreta. As variações cíclicas são oscilações de longo prazo em torno de uma linha de
+tendência. Esses ciclos podem ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes
+após intervalos de tempo iguais.
+Alternativa E: Incorreta. As variações aleatórias são flutuações (ruídos) resultantes de forças imprevistas e
+imprevisíveis.
+Gabarito: C.
+
+
+3. (INÉDITA) Acerca das séries temporais, pode-se afirmar que
+a) as variações sazonais indicam comportamentos imprevisíveis.
+b) as variações cíclicas referem-se a comportamentos em determinadas épocas do ano.
+c) a tendência indica comportamento a curto prazo.
+d) as variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis.
+e) as variações cíclicas são causadas por ocorrências raras, que operam de maneira aleatória.
+
+
+Comentários:
+Vamos analisar cada alternativa:
+Alternativa A: as variações sazonais indicam comportamentos imprevisíveis.
+Incorreta. As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam
+de forma regular e periódica.
+
+
+Alternativa B: as variações cíclicas referem-se a comportamentos em determinadas épocas do ano.
+Incorreta. As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam
+de forma regular e periódica. Dessa forma, as variações sazonais são variações cíclicas a prazo relativamente
+curto (um ano ou menos).
+
+
+Alternativa C: a tendência indica comportamento a curto prazo.
+
+
+---
+
+Incorreta. A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo.
+Ela diz respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um
+longo período.
+
+
+Alternativa D: as variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis.
+Correta. As variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis. Essas forças
+são causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido.
+
+
+Alternativa E: as variações cíclicas são causadas por ocorrências raras, que operam de maneira aleatória.
+Incorreta. As variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis. Essas
+forças são causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não
+têm nenhum padrão definido.
+Gabarito: D.
+
+
+4. (INÉDITA) Conceitua-se série temporal como um conjunto de observações ordenadas no tempo. Assinale
+a alternativa que indica corretamente os elementos que compõem o modelo clássico das séries temporais:
+a) tendência, variações multiplicativas, médias móveis, variações sazonais.
+b) tendência, variações cíclicas, variações sazonais e variações irregulares.
+c) regressão, variação cíclicas, variações sazonais e variações regulares.
+d) tendência sazonal, variações multiplicativas, variações sazonais e variações irregulares.
+e) variações aditivas, variações irregulares, tendência e variações cíclicas.
+
+
+Comentários:
+Uma série temporal é um conjunto de observações ordenadas no tempo. As séries temporais podem ser
+decompostas em quatro componentes: tendência secular (T), variação sazonal (S), variação cíclica (C),
+variação irregular ou aleatória (I).
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. Ela diz
+respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um longo
+período.
+As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de forma
+regular e periódica. Dessa forma, as variações sazonais são variações cíclicas a prazo relativamente curto (um
+ano ou menos).
+
+
+---
+
+As variações cíclicas são oscilações de longo prazo em torno de uma linha de tendência. Esses ciclos podem
+ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes após intervalos de tempo iguais.
+As variações aleatórias são flutuações (ruídos) resultantes de forças imprevistas e imprevisíveis. Essas forças
+são causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido.
+Gabarito: B.
+
+
+---
+
+                 QUESTÕES COMENTADAS – INÉDITAS
+
+Tendência
+
+1. (INÉDITA) Uma escola apresentou os seguintes consumos de energia nos últimos seis meses:
+
+                                       Mês       Consumo (kWh)
+
+                                      Janeiro         820
+
+                                     Fevereiro        780
+
+                                      Março           750
+
+                                       Abril          800
+
+                                       Maio           825
+
+                                       Junho          765
+
+Com base na tabela acima, o diretor da escola calculou a média móvel dos últimos quatro meses,
+encontrando o seguinte valor como resultado:
+a) 775.
+b) 785.
+c) 787.
+d) 791.
+e) 793.
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                           𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                   𝑀𝑀𝑡 =                          .
+                                                      𝑘
+Portanto, para calcularmos a média móvel dos últimos quatro meses, basta somarmos os quatro últimos
+consumos e dividirmos por quatro:
+                                   750 + 800 + 825 + 765 3.140
+                           𝑀𝑀4 =                        =      = 785
+                                             4             4
+
+
+---
+
+Gabarito: B.
+
+
+2. (INÉDITA) Considere a série temporal do consumo de água (em litros), em um período de 6 meses, por
+uma determinada residência: 225, 245, 215, 205, 250, 235. Empregando o método das médias móveis de
+três pontos de dados, a projeção do consumo para o sétimo mês será igual a:
+a) 215.
+b) 225.
+c) 230.
+d) 235.
+e) 245
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                             𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                    𝑀𝑀𝑡 =                           .
+                                                        𝑘
+A questão solicita a previsão por média móvel de três pontos de dados. Desse modo, a previsão para o sétimo
+mês será determinada pela média dos três últimos meses, ou seja,
+                                𝑍4 + 𝑍5 + 𝑍6 205 + 250 + 235 690
+                        𝑀𝑀7 =               =               =    = 230.
+                                     3              3         3
+Gabarito: C.
+
+
+3. (INÉDITA) A equação da tendência, 𝑿𝒕 = 𝟏𝟎𝟓 + 𝟎, 𝟖𝒕, foi obtida utilizando o método dos mínimos
+quadrados a partir das vendas trimestrais realizadas por uma empresa no período de 2015 a 2020. Nessa
+equação, X corresponde às vendas trimestrais (em milhares de reais) e 𝒕 representa o trimestre, sendo que
+𝒕 = 𝟏 representa o primeiro trimestre de 2015.
+
+                       Trimestre       1º           2º          3º           4º
+
+                         Índices
+                                       0,7         0,2          1,5         0,9
+                        Sazonais
+
+Levando em conta o movimento sazonal do período e considerando o modelo multiplicativo, a previsão
+das vendas para o terceiro trimestre de 2021 é igual, em milhares de reais, a
+a) 178,9.
+
+
+---
+
+b) 180,9.
+c) 183,9.
+d) 189,9.
+e) 195,9.
+
+
+Comentários:
+De 2015 a 2020, temos um total de 6 anos, cada um com 4 trimestres. Logo, temos 24 trimestres. Assim, o
+primeiro trimestre de 2021 representará a vigésima quinta observação dessa série, 𝑡 = 25; e o terceiro
+trimestre de 2021, a vigésima sétima observação, 𝑡 = 27.
+Calculando a tendência para 𝑡 = 27, temos:
+                                             𝑋 = 105 + 0,8𝑡
+                                           𝑋 = 105 + 0,8 × 27
+                                             𝑋 = 105 + 21,6
+                                                𝑋 = 126,6
+O índice sazonal para o terceiro trimestre foi fornecido na tabela, vale 1,5. Assim, basta multiplicarmos a
+tendência encontrada pelo índice sazonal:
+                                          1,5 × 126,6 = 189,9
+Gabarito: D.
+
+
+4. (INÉDITA) Considerando a sequência 3; 5; 4; 3; 8; 7, uma média móvel de ordem 3 pode ser dada pela
+sequência
+a) 4; 4; 5; 6
+b) 4; 3; 4; 6
+c) 4; 3; 5; 4; 6
+d) 4; 4; 3; 5
+e) 4; 3; 3; 4; 3; 5; 6
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                             𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                    𝑀𝑀𝑡 =                           .
+                                                        𝑘
+
+
+---
+
+Portanto, as médias móveis para a sequência apresentada no enunciado são:
+                                              3+5+4
+                                                    =4
+                                                3
+                                              5+4+3
+                                                    =4
+                                                3
+                                              4+3+8
+                                                    =5
+                                                3
+                                              3+8+7
+                                                    =6
+                                                3
+Reparem que a média móvel foi calculada a cada 3 termos, a partir do valor inicial. Assim, a sequência
+procurada pode ser: 4; 4; 5; 6.
+Gabarito: A.
+
+
+5. (INÉDITA)
+
+                    Mês 1         Mês 2           Mês 3         Mês 4         Mês 5
+                   Janeiro       Fevereiro        Março          Abril         Maio
+
+                  560 kWh        720 kWh         630 kWh       810 kWh       900 kWh
+
+A tabela acima lista os consumos mensais de energia de uma residência no período de janeiro a maio.
+Determine a previsão do consumo, em kWh, para o mês de julho (mês 7), utilizando o modelo da média
+móvel para os últimos três meses.
+a) 780.
+b) 800.
+c) 820.
+d) 830.
+e) 850.
+
+
+Comentários:
+A média móvel consiste em calcular a média aritmética das 𝑘 observações mais recentes de uma série
+temporal 𝑍1 , 𝑍2 , ⋯, 𝑍𝑛 :
+                                             𝑍𝑡 + 𝑍𝑡−1 + ⋯ + 𝑍𝑡−𝑘+1
+                                    𝑀𝑀𝑡 =                           .
+                                                        𝑘
+A cada novo período de previsão se substitui o dado mais antigo pelo mais recente. Desta forma, 𝑀𝑀𝑡 é uma
+estimativa que não leva em consideração as observações mais antigas.
+
+
+---
+
+A questão solicita a previsão por média móvel de três pontos. Desse modo, a previsão para o mês de junho
+será determinada pela média dos três meses anteriores, ou seja,
+                                    𝑍5 + 𝑍4 + 𝑍3 900 + 810 + 630
+                            𝑀𝑀6 =               =                = 780.
+                                         3              3
+Com isso, a previsão procurada para julho, será:
+                                    𝑍6 + 𝑍5 + 𝑍4 780 + 900 + 810
+                            𝑀𝑀7 =               =                = 830.
+                                         3              3
+Gabarito: D.
+
+
+---
+
+                 QUESTÕES COMENTADAS – INÉDITAS
+
+Suavização Exponencial
+
+1. (INÉDITA) Considere o método de suavização exponencial simples para previsão. Suponha que a taxa de
+                                                                                ̂ 𝟓𝟎 = 𝟕𝟎. Se 𝑿𝟓𝟏 = 𝟕𝟓,
+amortecimento seja 0,8, e que a previsão de 1 passo à frente na origem 𝒕 = 𝟓𝟎 é 𝑿
+qual é a previsão de 1 passo à frente em 𝒕 = 𝟓𝟏?
+a) 71
+b) 72
+c) 73
+d) 74
+e) 75
+
+
+Comentários:
+A equação de suavização exponencial é
+                     𝑋̅𝑡 = 𝛼 × 𝑋𝑡 + (1 − 𝛼) × 𝑋̅𝑡−1 ,       𝑋̅0 = 𝑋1 ,   𝑡 = 1, ⋯ , 𝑁,
+em que 𝑋̅𝑡 é o valor exponencialmente suavizado e 𝛼 é a constante de suavização, 0 ≤ 𝛼 ≤ 1.
+Para 𝛼 = 0,8; 𝑡 = 51, temos:
+                                     𝑋̅𝑡 = 𝛼 × 𝑋𝑡 + (1 − 𝛼) × 𝑋̅𝑡−1
+                                     𝑋̅51 = 0,8 × 𝑋51 + 0,2 × 𝑋̅50
+                                        𝑋̅51 = 0,8 × 75 + 0,2 × 70
+                                             𝑋̅51 = 60 + 14
+                                                𝑋̅51 = 74
+Gabarito: D.
+
+
+---
+
+                   QUESTÕES COMENTADAS – INÉDITAS
+
+Modelos ARIMA
+
+1. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟓 + 𝟎, 𝟐𝑿𝒕−𝟏 + 𝟎, 𝟓𝑿𝒕−𝟐 + 𝒂𝒕 − 𝟎, 𝟔𝒂𝒕−𝟏 , em
+que 𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância
+unitária. A respeito desse modelo, podemos afirmar tratar-se de um:
+a) ARMA(1,1).
+b) AR(1).
+c) ARMA(2,1).
+d) AR(2).
+e) ARIMA(2,0,0).
+
+
+Comentários:
+O modelo autorregressivo e de médias móveis de ordens p e q, ARMA(p,q), faz a junção dos modelos
+autoregressivo de ordem p, AR(p), e de média móvel de ordem q, 𝑀𝐴(q), sendo representado por:
+                       𝑍𝑡 = 𝜇 + 𝜙1 𝑍𝑡−1 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − ⋯ − 𝜃𝑞 𝜀𝑡−𝑞
+em que 𝜇, 𝜙1 , … , 𝜙𝑝 , 𝜃1 , … , 𝜃𝑞 são parâmetros reais e 𝜀𝑡 é um ruído branco, isto é, i.i.d. com 𝐸(𝜀𝑡 ) = 0 e
+𝑉𝑎𝑟(𝜀𝑡 ) = 𝜎 2 .
+Com isso, o processo
+                                𝑋𝑡 = 5 + 0,2𝑋𝑡−1 + 0,5𝑋𝑡−2 + 𝑎𝑡 − 0,6𝑎𝑡−1
+representa um modelo 𝐴𝑅𝑀𝐴(2,1), fazendo a junção de um modelo 𝐴𝑅(2) com um 𝑀𝐴(1).
+Gabarito: C.
+
+
+2. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟐 + 𝒂𝒕 − 𝟎, 𝟓𝒂𝒕−𝟏 − 𝟎, 𝟑𝒂𝒕−𝟐 , em que 𝒕 ∈
+𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância unitária. A
+respeito desse modelo, podemos afirmar tratar-se de um:
+a) MA(2).
+b) AR(2).
+c) ARMA(2,1).
+d) MA(1).
+e) ARIMA(2,0,0).
+
+
+---
+
+Comentários:
+O modelo de médias móveis de ordem q, MA(q), é representado por:
+                                      𝑍𝑡 = 𝜇 + 𝜀𝑡 − 𝜃1 𝜀𝑡−1 − ⋯ − 𝜃𝑞 𝜀𝑡−𝑞
+em que 𝜇, 𝜃1 , … , 𝜃𝑞 são parâmetros reais e 𝜀𝑡 é um ruído branco, isto é, i.i.d. com 𝐸(𝜀𝑡 ) = 0 e 𝑉𝑎𝑟(𝜀𝑡 ) = 𝜎 2 .
+Com isso, o processo
+                                       𝑋𝑡 = 2 + 𝑎𝑡 − 0,5𝑎𝑡−1 − 0,3𝑎𝑡−2
+é um modelo 𝑀𝐴(2).
+Gabarito: A.
+
+
+3. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟎, 𝟏𝑿𝒕−𝟏 + 𝟎, 𝟒𝑿𝒕−𝟐 + 𝟎, 𝟖𝑿𝒕−𝟑 + 𝒂𝒕 , em que
+𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância unitária. A
+respeito desse modelo, podemos afirmar tratar-se de um:
+a) ARIMA(2,0,0).
+b) ARMA(1,2).
+c) ARMA(2,1).
+d) ARIMA(2,1,1).
+e) AR(3).
+
+
+Comentários:
+O modelo autorregressivo de ordem p, AR(p), é representado por:
+                                     𝑍𝑡 = 𝜇 + 𝜙1 𝑍𝑡−1 + ⋯ + 𝜙𝑝 𝑍𝑡−𝑝 + 𝜀𝑡
+em que 𝜇, 𝜙1 , … , 𝜙𝑝 são parâmetros reais e 𝜀𝑡 é um ruído branco, isto é, i.i.d. com 𝐸(𝜀𝑡 ) = 0 e 𝑉𝑎𝑟(𝜀𝑡 ) =
+𝜎2.
+Com isso, o processo
+                                   𝑋𝑡 = 0,1𝑋𝑡−1 + 0,4𝑋𝑡−2 + 0,8𝑋𝑡−3 + 𝑎𝑡
+é um modelo 𝐴𝑅(3).
+Gabarito: E.
+
+
+4. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma (𝟏 − 𝑩)𝟐 × 𝑿𝒕 × (𝟏 − 𝟎, 𝟓𝑩) = (𝟏 − 𝟎, 𝟐𝑩 −
+𝟎, 𝟓𝑩𝟐 ) × 𝒂𝒕 , em que 𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; 𝒂𝒕 representa um ruído aleatório com média nula e
+
+
+---
+
+variância unitária; e 𝑩 representa o operador de backshift. A respeito desse modelo, podemos afirmar
+tratar-se de um:
+a) ARMA(1,1).
+b) ARIMA(2,1,2).
+c) ARMA(2,1).
+d) ARIMA(1,2,2).
+e) ARIMA(1,2,1).
+
+
+Comentários:
+O modelo autorregressivo, integrado e de médias móveis, 𝐴𝑅𝐼𝑀𝐴(𝑝, 𝑑, 𝑞), é representado por:
+
+                 (1 − 𝐵)𝑑 × 𝑍𝑡 × (1 − 𝜙1 𝐵 − ⋯ − 𝜙𝑝 𝐵𝑝 ) = 𝛿 + (1 − 𝜃1 𝐵 − ⋯ − 𝜃𝑞 𝐵𝑞 ) × 𝜀𝑡
+
+em que 𝛿, 𝜙1 , … , 𝜙𝑝 , 𝜃0 , 𝜃1 , … , 𝜃𝑞 são parâmetros reais e 𝜀𝑡 é um ruído branco, isto é, i.i.d. com 𝐸(𝜀𝑡 ) = 0 e
+𝑉𝑎𝑟(𝜀𝑡 ) = 𝜎 2 .
+Com isso, o processo
+                           (1 − 𝐵)2 × 𝑋𝑡 × (1 − 0,5𝐵) = (1 − 0,2𝐵 − 0,5𝐵 2 ) × 𝑎𝑡
+é um modelo 𝐴𝑅𝐼𝑀𝐴(1,2,2).
+Gabarito: D.
+
+
+5. (INÉDITA) No contexto de séries temporais, assinale o processo que está de acordo com as restrições de
+estacionariedade e invertibilidade aplicáveis aos modelos ARIMA(p, d, q):
+a) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 − 0,5𝜀𝑡−2 + 𝜀𝑡
+b) 𝑍𝑡 = 2𝑍𝑡−1 + 0,5𝑍𝑡−2 + 𝜀𝑡
+c) 𝑍𝑡 = 0,75𝑍𝑡−1 + 𝜀𝑡
+d) 𝑍𝑡 = 2𝑍𝑡−1 + 𝜀𝑡
+e) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 + 𝜀𝑡
+
+
+Comentários:
+Um processo 𝐴𝑅(𝑝) é estacionário somente se as raízes da equação característica estiverem fora do círculo
+unitário:
+                                     1 − 𝜙1 𝑧 − ⋯ − 𝜙𝑝 𝑧 𝑝 = 0 ⇒ |𝑧| > 1
+Já um processo MA(q) é invertível somente se as raízes da sua equação característica estiverem fora do
+círculo unitário:
+
+
+---
+
+                                   1 + 𝜃1 𝑧 + ⋯ + 𝜃𝑞 𝑧 𝑝 = 0 ⇒ |𝑧| > 1
+
+
+Sabendo disso, analisaremos cada série:
+a) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 − 0,5𝜀𝑡−2 + 𝜀𝑡
+A série representa um processo ARMA(1,2), cuja condição de estacionariedade pode ser verificada fazendo-
+se:
+                                                𝑍𝑡 − 0,75𝑍𝑡−1
+                                                (1 − 0,75𝐵)𝑍𝑡
+                                     1 − 0,75𝑧 = 0 ⇒ 𝑧 = 1,333 > 1
+Portanto, o processo é estacionário. Já para a condição de invertibilidade, precisamos verificar:
+                                           −1,5𝑧 − 0,5𝑧 2 + 1 = 0
+                                            𝛥 = 2,25 + 2 = 3,29
+                                               1,5 ± 2,06    3,56
+                                          𝑧=              ={
+                                                  −1,0      −0,56
+O processo não é invertível, pois uma das raízes é interna ao círculo unitário.
+
+
+b) 𝑍𝑡 = 2𝑍𝑡−1 + 0,5𝑍𝑡−2 + 𝜀𝑡
+A série representa um processo AR(2). A equação característica é:
+                                             1 − 2𝑧 − 0,5𝑧 2 = 0
+                                                𝛥=4+2=6
+                                                2 ± 2,45    −4,45
+                                           𝑧=            ={
+                                                   −1       0,45
+O processo não é estacionário, pois uma das raízes é interna ao círculo unitário.
+
+
+c) 𝑍𝑡 = 0,75𝑍𝑡−1 + 𝜀𝑡
+Correta. A série representa um processo AR(1), cuja condição de estacionariedade pode ser verificada
+fazendo-se:
+                                                𝑍𝑡 − 0,75𝑍𝑡−1
+                                                (1 − 0,75𝐵)𝑍𝑡
+                                     1 − 0,75𝑧 = 0 ⇒ 𝑧 = 1,333 > 1
+Além disso, todo processo autoregressivo também é invertível.
+
+
+---
+
+d) 𝑍𝑡 = 2𝑍𝑡−1 + 𝜀𝑡
+A série representa um modelo AR(1). Verificando-se a regra apresentada anteriormente, temos:
+                                      1 − 2𝑧 = 0 ⇒ 𝑧 = 0,50 < 1
+Portanto, não é estacionário.
+
+
+e) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 + 𝜀𝑡
+A série representa um modelo 𝐴𝑅𝑀𝐴(1,1). A parte autorregressiva foi analisada anteriormente e já sabemos
+que o modelo é estacionário. Porém, não é invertível:
+                                    −1,5𝑧 + 1 = 0 ⇒ 𝑧 ≈ 0,66 < 1
+Gabarito: C.
+
+
+6. (INÉDITA) Considere uma série temporal estacionária, cujos gráficos das funções de autocorrelação e
+autocorrelação parcial são apresentados a seguir:
+
+Seja a notação de modelo tipo ARIMA (p, d, q), sendo p a ordem da parte autorregressiva, d o grau da
+diferenciação e q a ordem da parte de médias móveis. O modelo que representa melhor a série temporal
+em questão é:
+a) ARIMA (2, 1, 1).
+
+
+---
+
+b) ARIMA (0, 0, 2).
+c) ARIMA (1, 0, 1).
+d) ARIMA (2, 0, 0).
+e) ARIMA (2, 1, 2).
+
+
+Comentários:
+Para a interpretação do correlograma, podemos adotar as seguintes regras:
+
+                                                                   Função de Autocorrelação
+                                       Função de Autocorrelação
+                       Modelo                                               Parcial
+                                                   (FAC)
+                                                                            (FACP)
+
+                        AR(p)           Decaimento exponencial     Truncada na defasagem 𝑝
+
+                       MA(q)           Truncada na defasagem 𝑞      Decaimento exponencial
+
+                                        Decaimento exponencial      Decaimento exponencial
+                      ARMA(p,q)
+                                              para 𝜆 > q                  para 𝜆 > p
+
+Conforme podemos observar, a função de autocorrelação apresenta decaimento exponencial, enquanto a
+função de autocorrelação parcial é truncada na segunda defasagem, o que caracteriza um modelo AR(2).
+Com relação à notação ARIMA(p, d, q), temos que:
+                                       𝐴𝑅(2) = 𝐴𝑅𝐼𝑀𝐴(2,0,0).
+Gabarito: D.
+
+
+7. (INÉDITA) Seja um modelo de séries temporais do tipo 𝒁𝒕 = 𝟏 + 𝟎, 𝟓𝒁𝒕−𝟏 + 𝒂𝒕 , no qual 𝒂𝒕 ∼ 𝑵(𝟎, 𝟏)
+forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. Para esse modelo,
+a autocorrelação entre 𝒁𝒕 e 𝒁𝒕−𝟑 é igual a:
+a) 0,500
+b) 0,255
+c) 0,125
+d) 0,225
+e) 0,625
+
+
+---
+
+Comentários:
+A série temporal em questão é um processo do tipo 𝐴𝑅(1), que pode ser representado da seguinte forma:
+                                           𝑍𝑡 = 𝜇 + 𝜙1 𝑍𝑡−1 + 𝜀𝑡
+com 𝜇 e 𝜙1 constantes e 𝜀𝑡 ∼ 𝑁(0,1).
+A autocorrelação entre observações distantes 𝑘 períodos é dada por
+
+                                                 𝜌𝑘 = 𝜙1 𝑘
+Como o enunciado pede a autocorrelação entre 𝑍𝑡 e 𝑍𝑡−3 , utilizaremos 𝑘 = 3. Além disso, já sabemos que
+𝜙1 = 0,3, portanto,
+                                            𝜌3 = 0,53 = 0,125
+Gabarito: C.
+
+
+8. (INÉDITA) Seja um modelo de séries temporais do tipo 𝒁𝒕 = 𝟒 + 𝟎, 𝟕𝒁𝒕−𝟏 + 𝒂𝒕 , no qual 𝒂𝒕 ∼ 𝑵(𝟎, 𝟏)
+forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. Para esse modelo,
+a autocorrelação parcial entre 𝒁𝒕 e 𝒁𝒕+𝟑 é igual a:
+a) 0,5
+b) 0,2
+c) 1,5
+d) 0
+e) 0,3
+
+
+Comentários:
+A série temporal em questão é um processo do tipo 𝐴𝑅(1), que pode ser representado da seguinte forma:
+                                           𝑍𝑡 = 𝜇 + 𝜙1 𝑍𝑡−1 + 𝜀𝑡
+com 𝜇 e 𝜙1 constantes e 𝜀𝑡 ∼ 𝑁(0,1).
+Todo processo autorregressivo, 𝐴𝑅(𝑝), tem a função de autocorrelação parcial nula para defasagens iguais
+ou superiores a 𝑝. Portanto, o processo 𝐴𝑅(1) tem correlações parciais nulas para defasagens iguais ou
+superiores a 1.
+Na presente questão, a autocorrelação parcial entre 𝑍𝑡 e 𝑍𝑡+3 , cuja defasagem é igual a 3, será zero.
+Gabarito: D.
+
+
+---
+
+9. (INÉDITA) Seja o modelo de séries temporais do tipo 𝒁𝒕 = 𝟒 + 𝟎, 𝟖𝒁𝒕−𝟏 + 𝒂𝒕 − 𝟎, 𝟐𝒂𝒕−𝟏, no qual 𝒂𝒕 ∼
+𝑵(𝟎, 𝟏) forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. A média
+do processo 𝒁𝒕 é igual:
+a) 4,5
+b) 5,0
+c) 5,5
+d) 6,0
+e) 6,5
+
+
+Comentários:
+A série temporal em questão é um processo do tipo 𝐴𝑅𝑀𝐴(1,1). Calculando-se o valor esperado do
+processo, temos:
+                            𝐸[𝑍𝑡 ] = 𝐸[4] + 𝐸[0,8𝑍𝑡−1 ] + 𝐸[𝑎𝑡 ] − 𝐸[0,2𝑎𝑡−1 ]
+Como os valores esperados de 𝑍𝑡 para cada 𝑡 são idênticos, podemos chamar essa média de 𝜇. Além disso,
+como 𝑎𝑡 ∼ 𝑁(0,1), temos 𝐸[𝑎𝑡 ] = 0. Assim, obtemos:
+                                          𝜇 = 4 + 0,8𝜇 + 0 + 0
+                                              𝜇 − 0,8𝜇 = 4
+                                                    4
+                                              𝜇=       =5
+                                                   0,8
+A média do processo 𝑍𝑡 é igual a 5.
+Gabarito: B.
+
+
+10. (INÉDITA) Considere o modelo de séries temporais do tipo 𝒀𝒕 = 𝑿𝒕 + 𝟎, 𝟓𝑿𝒕−𝟏 − 𝟎, 𝟔𝑿𝒕−𝟐 , em que 𝑿𝒕
+é o ruído branco. A média e a variância desse modelo são respectivamente iguais a
+a) 0,5 e 0,61.
+b) 0,5 e 1,61.
+c) 0 e 1,61.
+d) 1,5 e 0,36.
+e) 1,5 e 0,61.
+
+
+Comentários:
+Como 𝑋𝑡 ∼ 𝑁(0,1), temos 𝐸[𝑋𝑡 ] = 0 e 𝑉𝑎𝑟[𝑋𝑡 ] = 1. Sabendo disso, podemos calcular o valor esperado do
+processo:
+
+
+---
+
+                                    𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 + 0,5𝑋𝑡−1 − 0,6𝑋𝑡−2 ]
+                                 𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 ] + 𝐸[0,5𝑋𝑡−1 ] − 𝐸[0,6𝑋𝑡−2 ]
+                             𝐸[𝑌𝑡 ] = 𝐸[𝑋𝑡 ] + 0,5 × 𝐸[𝑋𝑡−1 ] − 0,6 × 𝐸[𝑋𝑡−2 ]
+                                    𝐸[𝑌𝑡 ] = 0 + 0,5 × 0 − 0,6 × 0 = 0
+Calculando a variância, temos:
+                                 𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 + 0,5𝑋𝑡−1 − 0,6𝑋𝑡−2 ]
+                          𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 ] + 𝑉𝑎𝑟[0,5𝑋𝑡−1 ] + 𝑉𝑎𝑟[−0,6𝑋𝑡−2 ]
+                       𝑉𝑎𝑟[𝑌𝑡 ] = 𝑉𝑎𝑟[𝑋𝑡 ] + 0,52 × 𝑉𝑎𝑟[𝑋𝑡−1 ] + 0,62 × 𝑉𝑎𝑟[𝑋𝑡−2 ]
+                                    𝑉𝑎𝑟[𝑌𝑡 ] = 1 + 0,52 × 1 + 0,62 × 1
+                                        𝑉𝑎𝑟[𝑌𝑡 ] = 1 + 0,25 + 0,36
+                                              𝑉𝑎𝑟[𝑌𝑡 ] = 1,61
+Gabarito: C.
+
+
+---
+
+                            LISTA DE QUESTÕES – FGV
+
+Modelo Clássico
+
+1. (FGV/IBGE/2016) Os métodos estatísticos mais comuns para previsão de demandas, de acordo com o
+tamanho, a complexidade e o tipo de demanda são: (1) média aritmética; (2) média móvel; (3) média
+ponderada exponencialmente; (4) regressão; e (5) modelos econométricos. Entre essas variedades, o
+conceito mais preciso para a média móvel é:
+a) forma de média aritmética empregada para prever demandas sazonais;
+b) média que aplica dados empíricos, incorporando termos residuais diversos, não disponíveis na série
+histórica;
+c) média aritmética, calculada período a período, empregada, principalmente, para a projeção de demandas;
+d) medida de tendência central, obtida a partir de uma massa dispersa de dados;
+e) média aritmética, de uma série de dados, com a substituição, a cada período, do dado mais antigo pelo
+mais recente.
+
+
+---
+
+                  GABARITO – FGV
+
+Modelo Clássico
+
+  1. LETRA E
+
+
+---
+
+                           LISTA DE QUESTÕES – FGV
+
+Tendência
+
+1. (FGV/TCU/2022) A demanda de um certo serviço público no mês t é modelada pela equação 𝟐𝟎 + 𝟑𝒕 +
+𝟐𝑫(𝒕) + 𝜺𝒕 , onde 𝑫(𝒕) = 𝟏, se 𝒕 = 𝟔, e 0, caso contrário, e 𝜺𝒕 é um ruído com média zero e variância
+4.
+As previsões de demanda nos meses 6 e 12 são, respectivamente:
+a) 40 e 56;
+b) 40 e 58;
+c) 42 e 58;
+d) 44 e 60;
+e) 56 e 40.
+
+
+---
+
+              GABARITO – FGV
+
+Tendência
+
+ 1. LETRA A
+
+
+---
+
+                            LISTA DE QUESTÕES – FGV
+
+Funções de Autocovariância e Autocorrelação
+
+1. (FGV/TRT-MA/2022) Em relação a características das séries temporais, avalie se as afirmativas a seguir
+são falsas (F) ou verdadeiras (V):
+I. A autocorrelação avalia o modo como uma observação, num dado instante, está relacionada com as
+observações passadas; em particular, a autocorrelação de primeira ordem caracteriza séries nas quais uma
+observação está correlacionada com a observação imediatamente anterior.
+II. A tendência de uma série temporal é uma medida do padrão de crescimento (positivo ou negativo) da
+variável em um certo período de tempo.
+III. A sazonalidade mede se há padrões de comportamento que se repetem em épocas específicas.
+IV. Dizemos que uma série temporal apresenta estacionariedade se a variável em estudo se comporta de
+modo aleatório ao longo do tempo ao redor de uma média constante.
+As afirmativas são respectivamente
+a) V, V, V e V.
+b) V, V, F e F.
+c) F, F, V e V.
+d) V, F, V e V.
+e) V, V, V e F.
+
+
+---
+
+                     GABARITO – FGV
+
+Funções de Autocovariância e Autocorrelação
+
+  1. LETRA A
+
+
+---
+
+                             LISTA DE QUESTÕES – FGV
+
+Modelos ARIMA
+
+1. (FGV/TJDFT/2022) Sejam os modelos ARIMA(2,0,0) a seguir.
+I. 𝒛𝒕 = 𝟎, 𝟒𝒛𝒕−𝟏 + 𝟎, 𝟖𝒛𝒕−𝟐 + 𝜺𝒕
+II. 𝒛𝒕 = 𝟎, 𝟖𝒛𝒕−𝟏 − 𝟎, 𝟒𝒛𝒕−𝟐 + 𝜺𝒕
+III. 𝒛𝒕 = −𝟎, 𝟒𝒛𝒕−𝟏 + 𝟎, 𝟖𝒛𝒕−𝟐 + 𝜺𝒕
+Sendo (𝜺𝟏 , 𝜺𝟐 ,..., 𝜺𝒕 ) variáveis aleatórias independentes e identicamente distribuídas, iid, com média zero
+e variância constante, ou seja, os εt′s, formam uma sequência de ruídos brancos.
+A condição de estacionariedade é satisfeita somente no(s) modelo(s):
+a) I;
+b) II;
+c) III;
+d) I e II;
+e) I e III.
+
+
+2. (FGV/TJDFT/2022) O gráfico a seguir representa uma série temporal.
+
+
+---
+
+Com a finalidade de identificar o modelo, devem ser observadas a função de autocorrelação (FAC) e a
+função de autocorrelação parcial (FACP) da série com uma diferença que está ilustrada nos gráficos a
+seguir.
+
+
+---
+
+Seja a notação de modelo tipo ARIMA (p, d, q), sendo p, a ordem da parte autorregressiva; d, o grau da
+diferenciação; e q, a ordem da parte de médias móveis.
+O modelo que melhor representa a série temporal é:
+a) ARIMA(0,0,1);
+b) ARIMA(0,1,1);
+c) ARIMA(1,0,1);
+d) ARIMA(1,1,0);
+e) ARIMA(1,1,1).
+
+
+3. (FGV/TJDFT/2022) No contexto de Séries Temporais são impostas restrições de estacionariedade e
+invertibilidade para os modelos ARIMA(p, d, q).
+Considerando       a notação   na   forma   de operador   retardo   (𝟏 − 𝝓𝟏 𝑩 − ⋯ − 𝝓𝒑 𝑩𝒑 )𝒁𝒕 = (𝟏 −
+𝜽𝟏 𝑩−. . . −𝜽𝟏 𝑩𝒒 )𝜺𝒕 , sendo 𝜺𝒕 ∼ 𝑵(𝟎, 𝝈𝟐 ), o modelo, na forma de equação de diferenças, que está de
+acordo com as restrições é:
+a) 𝑍𝑡 = 0,5𝑍𝑡−1 + 𝜀𝑡
+b) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 − 0,4𝜀𝑡−2 + 𝜀𝑡
+c) 𝑍𝑡 = 1,5𝑍𝑡−1 + 0,6𝑍𝑡−2 + 𝜀𝑡
+d) 𝑍𝑡 = 1,5𝑍𝑡−1 + 𝜀𝑡
+
+
+---
+
+e) 𝑍𝑡 = 0,5𝑍𝑡−1 − 1,3𝜀𝑡−1 + 𝜀𝑡
+
+
+4. (FGV/EPE/2022) Considere o seguinte modelo de séries temporais:
+                                      𝒀𝒕 = 𝑿𝒕 + 𝟎, 𝟖𝑿𝒕−𝟏 − 𝟎, 𝟑𝑿𝒕−𝟐
+no qual 𝑿𝒕 é o ruído branco.
+A média e a variância desse modelo são respectivamente iguais a
+a) 0 e 0,64.
+b) 0 e 1,55.
+c) 0 e 1,73.
+d) 1,5 e 0,64.
+e) 1,5 e 1,55.
+
+
+5. (FGV/FEMPAR/2021) Consórcio de veículos de imprensa passa a divulgar dados mais detalhados sobre
+a pandemia de Covid-19 no Brasil.
+Além dos números diários de casos e mortes, um novo indicador, recomendado por especialistas e
+adotado por diversos veículos da imprensa internacional, passa a ser divulgado: a média móvel. Ao adotar
+tal critério, os gráficos passam a mostrar o número de casos e mortes de cada dia em barras, e uma linha
+mostrará a média móvel dos últimos 7 dias.
+                                                 Fonte: g1.globo.com (Adaptado). Acesso em 09/07/2020.
+Em Estatística, a média móvel é um estimador calculado a partir de uma sequência de observações que
+suaviza flutuações curtas e privilegia tendências de longo prazo. A “média móvel dos últimos 7 dias”, citada
+na reportagem, é a média aritmética dos 7 últimos valores observados. No dia seguinte, o novo registro
+substitui o registro mais antigo da série e a média aritmética é recalculada.
+Nos primeiros 7 dias de janeiro, a média móvel de mortes confirmadas por Covid-19 no Brasil divulgada
+foi 741. No dia 8 de janeiro, esse número aumentou para 872.
+Com relação ao número de mortes por Covid-19 no dia 1° de janeiro, o dia 8 desse mesmo mês apresentou,
+a mais,
+a) 19 óbitos.
+b) 131 óbitos.
+c) 806 óbitos.
+d) 917 óbitos.
+e) 1.834 óbitos
+
+
+---
+
+6. (FGV/DPE RJ/2019) Após uma análise sobre a série de tempo que reflete o volume de recursos
+envolvidos nos feitos em que a Defensoria Pública atua, verificou-se a existência de um processo do tipo
+MA(2).
+Adicionalmente, estimou-se essa equação que modela a série sendo dada por:
+                                       𝒚𝒕 = 𝑲 + 𝟎, 𝟒. 𝜺𝒕−𝟐 + 𝟎, 𝟐. 𝜺𝒕−𝟏 + 𝜺𝒕
+Onde K é uma constante e 𝜺𝒕 um ruído branco, 𝑬(𝜺𝒕 ) = 𝟎 e 𝑬(𝜺𝟐𝒕 ) = 𝝈𝟐 . Daí pode-se concluir que:
+                                          𝐾
+a) a média do processo é dada por(1−0,4−0,2);
+
+b) a variância do processo é dada por 𝑉𝑎𝑟(𝑦𝑡 ) = 0,20𝜎 2 ;
+c) se as raízes do polinômio 0,4𝐷2 + 0,2𝐷 + 1 estiverem fora do círculo unitário, o processo será
+estacionário;
+d) a correlação entre 𝑦𝑡 e 𝑦𝑡−2 é igual a 0,4. 𝜎 2 ;
+e) a correlação entre 𝑦𝑡 e 𝑦𝑡−1 é igual a 7/30 .
+
+
+7. (FGV/MPE-BA/2017) O comportamento da variável que reflete o nível de violência em determinado
+centro urbano parece ter uma dinâmica própria, do ponto de vista estatístico, adaptada à seguinte
+estrutura modelar:
+                                              𝒚𝒕 = 𝟏𝟐 + 𝟎, 𝟐𝟓. 𝒚𝒕−𝟏 + 𝜺𝒕
+onde 𝒚𝒕 é o nível de violência em t e 𝜺𝒕 o erro aleatório com os pressupostos usuais.
+Considerando os valores dos parâmetros estimados por MQO, conclui-se que:
+a) o nível da violência tende a subir com o passar do tempo;
+b) o nível da violência tende a reduzir com o passar do tempo;
+c) não se pode prever se a violência tende a crescer ou baixar por causa da presença do termo aleatório;
+d) o nível de violência tende a oscilar, mas permanecendo, em média, ao redor do valor 16;
+e) a variância da medida do nível de violência tende a se reduzir com o passar do tempo.
+
+
+---
+
+                GABARITO – FGV
+
+Modelos ARIMA
+
+ 1. LETRA B      4. LETRA C      7. LETRA D
+ 2. LETRA D      5. LETRA D
+ 3. LETRA A      6. LETRA E
+
+
+---
+
+                        LISTA DE QUESTÕES – INÉDITAS
+
+Modelo Clássico
+
+1. (INÉDITA) Uma série temporal é um conjunto de observações ordenadas no tempo, podendo apresentar
+até quatro componentes. No modelo de decomposição multiplicativo (𝑿𝒕 = 𝑪𝒕 × 𝑻𝒕 × 𝑺𝒕 × 𝑰𝒕 ), considera-
+se que uma série temporal é resultante da multiplicação das componentes:
+a) ciclo, temporalidade, sistemática e irregularidade.
+b) ciclo, tendência, sazonalidade e ruído.
+c) circularidade, tendência, sistemática e ruído.
+d) circularidade, tendência, sazonalidade e imprevisibilidade.
+e) ciclo, temporalidade, sazonalidade e imprevisibilidade.
+
+
+2. (INÉDITA) Considerando uma série temporal, é correto afirmar que a tendência descreve:
+a) um comportamento que ocorre devido às forças rítmicas que atuam de forma regular e periódica.
+b) um movimento errático, que opera de maneira absolutamente aleatória e não tem nenhum padrão
+definido.
+c) um movimento suave de longo prazo, para cima ou para baixo.
+d) um comportamento oscilatório de curto prazo, que pode ou não ser periódico.
+e) se há variações aleatórias resultantes de forças imprevisíveis.
+
+
+3. (INÉDITA) Acerca das séries temporais, pode-se afirmar que
+a) as variações sazonais indicam comportamentos imprevisíveis.
+b) as variações cíclicas referem-se a comportamentos em determinadas épocas do ano.
+c) a tendência indica comportamento a curto prazo.
+d) as variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis.
+e) as variações cíclicas são causadas por ocorrências raras, que operam de maneira aleatória.
+
+
+4. (INÉDITA) Conceitua-se série temporal como um conjunto de observações ordenadas no tempo. Assinale
+a alternativa que indica corretamente os elementos que compõem o modelo clássico das séries temporais:
+a) tendência, variações multiplicativas, médias móveis, variações sazonais.
+b) tendência, variações cíclicas, variações sazonais e variações irregulares.
+
+
+---
+
+c) regressão, variação cíclicas, variações sazonais e variações regulares.
+d) tendência sazonal, variações multiplicativas, variações sazonais e variações irregulares.
+e) variações aditivas, variações irregulares, tendência e variações cíclicas.
+
+
+---
+
+                  GABARITO – INÉDITAS
+
+Modelo Clássico
+
+  1. LETRA B          3. LETRA D
+  2. LETRA C          4. LETRA B
+
+
+---
+
+                      LISTA DE QUESTÕES – INÉDITAS
+
+Tendência
+
+1. (INÉDITA) Uma escola apresentou os seguintes consumos de energia nos últimos seis meses:
+
+                                       Mês       Consumo (kWh)
+
+                                      Janeiro         820
+
+                                     Fevereiro        780
+
+                                      Março           750
+
+                                       Abril          800
+
+                                       Maio           825
+
+                                       Junho          765
+
+Com base na tabela acima, o diretor da escola calculou a média móvel dos últimos quatro meses,
+encontrando o seguinte valor como resultado:
+a) 775.
+b) 785.
+c) 787.
+d) 791.
+e) 793.
+
+
+2. (INÉDITA) Considere a série temporal do consumo de água (em litros), em um período de 6 meses, por
+uma determinada residência: 225, 245, 215, 205, 250, 235. Empregando o método das médias móveis de
+três pontos de dados, a projeção do consumo para o sétimo mês será igual a:
+a) 215.
+b) 225.
+c) 230.
+d) 235.
+e) 245
+
+
+---
+
+3. (INÉDITA) A equação da tendência, 𝑿𝒕 = 𝟏𝟎𝟓 + 𝟎, 𝟖𝒕, foi obtida utilizando o método dos mínimos
+quadrados a partir das vendas trimestrais realizadas por uma empresa no período de 2015 a 2020. Nessa
+equação, X corresponde às vendas trimestrais (em milhares de reais) e 𝒕 representa o trimestre, sendo que
+𝒕 = 𝟏 representa o primeiro trimestre de 2015.
+
+                            Trimestre        1º       2º       3º          4º
+
+                              Índices
+                                             0,7     0,2       1,5         0,9
+                             Sazonais
+
+Levando em conta o movimento sazonal do período e considerando o modelo multiplicativo, a previsão
+das vendas para o terceiro trimestre de 2021 é igual, em milhares de reais, a
+a) 178,9.
+b) 180,9.
+c) 183,9.
+d) 189,9.
+e) 195,9.
+
+
+4. (INÉDITA) Considerando a sequência 3; 5; 4; 3; 8; 7, uma média móvel de ordem 3 pode ser dada pela
+sequência
+a) 4; 4; 5; 6
+b) 4; 3; 4; 6
+c) 4; 3; 5; 4; 6
+d) 4; 4; 3; 5
+e) 4; 3; 3; 4; 3; 5; 6
+
+
+5. (INÉDITA)
+
+                          Mês 1          Mês 2       Mês 3      Mês 4            Mês 5
+                         Janeiro        Fevereiro   Março        Abril           Maio
+
+                         560 kWh        720 kWh     630 kWh    810 kWh       900 kWh
+
+
+---
+
+A tabela acima lista os consumos mensais de energia de uma residência no período de janeiro a maio.
+Determine a previsão do consumo, em kWh, para o mês de julho (mês 7), utilizando o modelo da média
+móvel para os últimos três meses.
+a) 780.
+b) 800.
+c) 820.
+d) 830.
+e) 850.
+
+
+---
+
+              GABARITO – INÉDITAS
+
+Tendência
+
+ 1. LETRA B       3. LETRA D        5. LETRA D
+ 2. LETRA C       4. LETRA A
+
+
+---
+
+                      LISTA DE QUESTÕES – INÉDITAS
+
+Suavização Exponencial
+
+1. (INÉDITA) Considere o método de suavização exponencial simples para previsão. Suponha que a taxa de
+                                                                                ̂ 𝟓𝟎 = 𝟕𝟎. Se 𝑿𝟓𝟏 = 𝟕𝟓,
+amortecimento seja 0,8, e que a previsão de 1 passo à frente na origem 𝒕 = 𝟓𝟎 é 𝑿
+qual é a previsão de 1 passo à frente em 𝒕 = 𝟓𝟏?
+a) 71
+b) 72
+c) 73
+d) 74
+e) 75
+
+
+---
+
+                 GABARITO – INÉDITAS
+
+Suavização Exponencial
+
+  1. LETRA D
+
+
+---
+
+                       LISTA DE QUESTÕES – INÉDITAS
+
+Modelos ARIMA
+
+1. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟓 + 𝟎, 𝟐𝑿𝒕−𝟏 + 𝟎, 𝟓𝑿𝒕−𝟐 + 𝒂𝒕 − 𝟎, 𝟔𝒂𝒕−𝟏 , em
+que 𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância
+unitária. A respeito desse modelo, podemos afirmar tratar-se de um:
+a) ARMA(1,1).
+b) AR(1).
+c) ARMA(2,1).
+d) AR(2).
+e) ARIMA(2,0,0).
+
+
+2. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟐 + 𝒂𝒕 − 𝟎, 𝟓𝒂𝒕−𝟏 − 𝟎, 𝟑𝒂𝒕−𝟐 , em que 𝒕 ∈
+𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância unitária. A
+respeito desse modelo, podemos afirmar tratar-se de um:
+a) MA(2).
+b) AR(2).
+c) ARMA(2,1).
+d) MA(1).
+e) ARIMA(2,0,0).
+
+
+3. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma 𝑿𝒕 = 𝟎, 𝟏𝑿𝒕−𝟏 + 𝟎, 𝟒𝑿𝒕−𝟐 + 𝟎, 𝟖𝑿𝒕−𝟑 + 𝒂𝒕 , em que
+𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; e 𝒂𝒕 representa um ruído aleatório com média nula e variância unitária. A
+respeito desse modelo, podemos afirmar tratar-se de um:
+a) ARIMA(2,0,0).
+b) ARMA(1,2).
+c) ARMA(2,1).
+d) ARIMA(2,1,1).
+e) AR(3).
+
+
+---
+
+4. (INÉDITA) A variável 𝑿𝒕 segue um processo na forma (𝟏 − 𝑩)𝟐 × 𝑿𝒕 × (𝟏 − 𝟎, 𝟓𝑩) = (𝟏 − 𝟎, 𝟐𝑩 −
+𝟎, 𝟓𝑩𝟐 ) × 𝒂𝒕 , em que 𝒕 ∈ 𝒁 = {… , −𝟐, −𝟏, 𝟎, 𝟏, 𝟐, … }; 𝒂𝒕 representa um ruído aleatório com média nula e
+variância unitária; e 𝑩 representa o operador de backshift. A respeito desse modelo, podemos afirmar
+tratar-se de um:
+a) ARMA(1,1).
+b) ARIMA(2,1,2).
+c) ARMA(2,1).
+d) ARIMA(1,2,2).
+e) ARIMA(1,2,1).
+
+
+5. (INÉDITA) No contexto de séries temporais, assinale o processo que está de acordo com as restrições de
+estacionariedade e invertibilidade aplicáveis aos modelos ARIMA(p, d, q):
+a) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 − 0,5𝜀𝑡−2 + 𝜀𝑡
+b) 𝑍𝑡 = 2𝑍𝑡−1 + 0,5𝑍𝑡−2 + 𝜀𝑡
+c) 𝑍𝑡 = 0,75𝑍𝑡−1 + 𝜀𝑡
+d) 𝑍𝑡 = 2𝑍𝑡−1 + 𝜀𝑡
+e) 𝑍𝑡 = 0,75𝑍𝑡−1 − 1,5𝜀𝑡−1 + 𝜀𝑡
+
+
+6. (INÉDITA) Considere uma série temporal estacionária, cujos gráficos das funções de autocorrelação e
+autocorrelação parcial são apresentados a seguir:
+
+
+---
+
+Seja a notação de modelo tipo ARIMA (p, d, q), sendo p a ordem da parte autorregressiva, d o grau da
+diferenciação e q a ordem da parte de médias móveis. O modelo que representa melhor a série temporal
+em questão é:
+a) ARIMA (2, 1, 1).
+b) ARIMA (0, 0, 2).
+c) ARIMA (1, 0, 1).
+d) ARIMA (2, 0, 0).
+e) ARIMA (2, 1, 2).
+
+
+7. (INÉDITA) Seja um modelo de séries temporais do tipo 𝒁𝒕 = 𝟏 + 𝟎, 𝟓𝒁𝒕−𝟏 + 𝒂𝒕 , no qual 𝒂𝒕 ∼ 𝑵(𝟎, 𝟏)
+forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. Para esse modelo,
+a autocorrelação entre 𝒁𝒕 e 𝒁𝒕−𝟑 é igual a:
+a) 0,500
+b) 0,255
+c) 0,125
+d) 0,225
+e) 0,625
+
+
+---
+
+8. (INÉDITA) Seja um modelo de séries temporais do tipo 𝒁𝒕 = 𝟒 + 𝟎, 𝟕𝒁𝒕−𝟏 + 𝒂𝒕 , no qual 𝒂𝒕 ∼ 𝑵(𝟎, 𝟏)
+forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. Para esse modelo,
+a autocorrelação parcial entre 𝒁𝒕 e 𝒁𝒕+𝟑 é igual a:
+a) 0,5
+b) 0,2
+c) 1,5
+d) 0
+e) 0,3
+
+
+9. (INÉDITA) Seja o modelo de séries temporais do tipo 𝒁𝒕 = 𝟒 + 𝟎, 𝟖𝒁𝒕−𝟏 + 𝒂𝒕 − 𝟎, 𝟐𝒂𝒕−𝟏, no qual 𝒂𝒕 ∼
+𝑵(𝟎, 𝟏) forma uma sequência de ruídos aleatórios independentes e identicamente distribuídos. A média
+do processo 𝒁𝒕 é igual:
+a) 4,5
+b) 5,0
+c) 5,5
+d) 6,0
+e) 6,5
+
+
+10. (INÉDITA) Considere o modelo de séries temporais do tipo 𝒀𝒕 = 𝑿𝒕 + 𝟎, 𝟓𝑿𝒕−𝟏 − 𝟎, 𝟔𝑿𝒕−𝟐 , em que 𝑿𝒕
+é o ruído branco. A média e a variância desse modelo são respectivamente iguais a
+a) 0,5 e 0,61.
+b) 0,5 e 1,61.
+c) 0 e 1,61.
+d) 1,5 e 0,36.
+e) 1,5 e 0,61.
+
+
+---
+
+                GABARITO – INÉDITAS
+
+Modelos ARIMA
+
+ 1.   LETRA C       5.   LETRA C      9. LETRA B
+ 2.   LETRA A       6.   LETRA D      10. LETRA C
+ 3.   LETRA E       7.   LETRA C
+ 4.   LETRA D       8.   LETRA D
+
+
+---

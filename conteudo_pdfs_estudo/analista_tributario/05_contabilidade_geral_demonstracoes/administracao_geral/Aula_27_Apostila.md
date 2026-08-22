@@ -1,0 +1,822 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 27_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '27'
+titulo_aula: Possati
+---
+
+# Possati
+
+Aula 26
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                           14 de Agosto de 2025
+
+---
+
+      Gilmar Possati
+      Aula 26
+
+                                                                                     Índice
+1) CPC 47 - Receita de Contrato com Cliente - Teoria
+
+
+2) Lista de Questões - CPC 47 - Receita de Contrato com Cliente
+
+                Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           20
+
+                                                             
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+                                           APRESENTAÇÃO
+Prezados, a seguir abordamos de maneira objetiva e focada os principais pontos que entendemos serem
+passíveis de exigência em provas. O CPC 47 é enorme, mas pela nossa experiência as questões irão se
+concentrar nos pontos que abordamos nesta aula. Até o momento, temos raras exigências diretas do CPC
+47, de modo que não teremos muitas questões. À medida que forem surgindo as questões vamos atualizando
+a aula.
+
+Um forte abraço e bons estudos!
+
+Possati
+
+@profgilmarpossati – Instagram e Facebook
+
+@gpossati - Twitter
+
+Contabilizando – Canal You Tube
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          3
+          www.estrategiaconcursos.com.br                                                           20
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+            RECEITA DE CONTRATO COM CLIENTE (CPC 47)
+
+Aspectos Introdutórios
+Objetivo
+O objetivo do CPC 47 é estabelecer os princípios que a entidade deve aplicar para apresentar informações
+úteis aos usuários de demonstrações contábeis sobre a natureza, o valor, a época e a incerteza de receitas
+e fluxos de caixa provenientes de contrato com cliente.
+O Manual de Contabilidade Societária (Fipecafi) destaca que o CPC 47 “tem como princípio básico que a
+entidade deve reconhecer receitas para refletir a transferência de bens ou serviços prometidos a clientes no
+valor que reflita a contraprestação à qual a entidade espera receber em troca desses bens ou serviços.
+Alcance
+O CPC 47 se aplica a todos os contratos com clientes, com exceção dos seguintes:
+   ▪   contratos de arrendamento (CPC 06);
+   ▪   contratos de seguro (CPC 11);
+   ▪   instrumentos financeiros (CPC 48);
+   ▪   permutas não monetárias entre entidades na mesma linha de negócios*.
+*Exemplo: CPC 47 não se aplica a contrato entre duas empresas do setor de óleo e gás que pactuem a
+permuta de petróleo para satisfazer à demanda de seus clientes em diferentes locais especificados, de forma
+tempestiva.
+Observa-se que o CPC 47 alcança todos os contratos com clientes. Mas, afinal o que seriam esses contratos?
+Basicamente, os contratos de clientes envolvem a compra ou venda de mercadorias ou a prestação de
+serviços. Para fins de concursos são esses contratos que servirão como base para as questões. Porém,
+precisamos detalhar um pouco mais essa definição, pois pode ser explorada de forma teórica. Esses detalhes
+estão inseridos no próximo tópico (1.2).
+O CPC 47 estabelece os requerimentos para o reconhecimento e mensuração de receitas de contratos com
+clientes. Para fins didáticos, pode-se dividir o modelo adotado pela norma contábil em cinco passos que
+devem ser percorridos para se identificar, reconhecer e mensurar receitas de operações mercantis que
+estejam dentro do escopo da norma.
+Passo 1 – Identificação do contrato com cliente
+Passo 2 – Identificação das obrigações contratuais de performance
+Passo 3 – Satisfação de Obrigação de Performance
+Passo 4 – Determinação do preço da transação
+Passo 5 – Alocação do valor do contrato nas obrigações de performance
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                4
+          www.estrategiaconcursos.com.br                                                                 20
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+Reconhecimento
+Identificação do Contrato (Passo 1)
+Nos termos do CPC 47, para que um contrato gere efeitos para reconhecimento da contabilidade ele deve
+atender a todos os critérios a seguir:
+   ▪   quando as partes do contrato aprovarem o contrato (por escrito, verbalmente ou de acordo com
+       outras práticas usuais de negócios) e estiverem comprometidas em cumprir suas respectivas
+       obrigações;
+   ▪   quando a entidade puder identificar os direitos de cada parte em relação aos bens ou serviços a
+       serem transferidos;
+   ▪   quando a entidade puder identificar os termos de pagamento para os bens ou serviços a serem
+       transferidos;
+   ▪   quando o contrato possuir substância comercial; e
+   ▪   quando for provável que a entidade receberá a contraprestação à qual terá direito em troca dos bens
+       ou serviços que serão transferidos ao cliente.
+Para fins do CPC 47, um contrato não existe se cada parte do contrato tiver o direito incondicional de rescindir
+inteiramente o contrato não cumprido, sem compensar a outra parte (ou partes).
+Vale destacar que os contratos podem ser escritos, verbais ou sugeridos pelas práticas usuais de negócios da
+entidade.
+É muito provável que essas exigências relativas à identificação do contrato sejam exploradas em prova. Logo,
+vamos resumi-las em um quadro para facilitar o seu estudo.
+
+            Critérios para que um Contrato com Clientes gere Reconhecimento Contábil (CPC 47)
+
+ ▪ Formalização do contrato: escrito, verbal ou sugerido pelas práticas usuais de negócios;
+
+ ▪ As partes devem aprovar o contrato;
+
+ ▪ As partes devem estar comprometidas com o cumprimento das suas obrigações;
+
+ ▪ A entidade deve conseguir identificar os direitos de cada parte e os termos de pagamento;
+
+ ▪ O contrato deve possuir substância comercial;
+
+ ▪ A contraprestação a ser recebida pela entidade deve ser provável.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                     5
+        www.estrategiaconcursos.com.br                                                                       20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+Veja como o examinador pode explorar esse ponto do CPC 47.
+(INÉDITA) Para que um contrato com cliente gere reconhecimento contábil, nos termos do CPC 47 – Receita
+de Contratos com Cliente, ele deve possuir substância comercial, as partes do contrato devem estar
+comprometidas com o cumprimento das suas obrigações e a contraprestação a ser recebida pela entidade
+deve ser certa, entre outros critérios.
+Comentários
+O erro na assertiva está na expressão “certa”. Um dos critérios previstos no CPC 47 é que a contraprestação
+a ser recebida pela entidade deve ser provável. O CPC 47 não retorna maiores detalhes sobre o que é
+considerado provável. Porém, tomando como base o CPC 25, quando a probabilidade for maior que 50%
+podemos considerar como provável (mas isso é apenas uma interpretação nossa ☺). Vai que aparece algo
+em termos percentuais... aí você leva para a prova essa base.
+Gabarito: Errado
+Segundo o CPC 47, quando o contrato com o cliente não atender aos critérios acima (dispostos no quadro) e
+a entidade receber contraprestação do cliente, a entidade deve reconhecer a contraprestação recebida
+como receita somente quando qualquer uma das seguintes hipóteses tiver ocorrido:
+a) a entidade não possui obrigações restantes de transferir bens ou serviços ao cliente, e a totalidade, ou
+praticamente a totalidade, da contraprestação prometida pelo cliente foi recebida pela entidade e não é
+restituível; ou
+b) o contrato foi rescindido e a contraprestação recebida do cliente não é restituível.
+Por fim, cabe destacar que a entidade deve reconhecer a contraprestação recebida de cliente como passivo
+até que uma das hipóteses acima (itens “a” e “b”) ocorra ou até que os critérios dispostos no quadro acima
+descrito sejam subsequentemente atendidos.
+Observe que a orientação do CPC 47 nada mais é do que a aplicação do regime de competência! A receita é
+reconhecida no momento do fato gerador, independentemente de recebimento.
+Dependendo dos fatos e circunstâncias relativos ao contrato, o passivo reconhecido representa a obrigação
+da entidade de transferir bens ou serviços no futuro ou de restituir a contraprestação recebida. Em qualquer
+dos casos, o passivo deve ser mensurado pelo valor da contraprestação recebida do cliente.
+
+(Exame Perito Contábil/2018) A empresa W foi contratada pelo cliente Z, em 20X0, para prestar serviços
+de manutenção de ar condicionado durante o ano 20X1. De acordo com o contrato, o cliente Z pagou à
+empresa W o valor integral contratado no ato da assinatura do contrato. A área operacional da empresa
+W preparou uma planilha com as datas em que o serviço seria prestado durante o ano de 20X1 e
+encaminhou ao contador e ao gerente financeiro. O gerente financeiro também enviou ao contador o
+documento de crédito em conta do valor do contrato pago pelo cliente Z. Ao receber a referida planilha e
+o documento de crédito, o contador reconheceu a receita, porém o gerente financeiro divergiu do
+reconhecimento feito pelo contador. Para dirimir divergência levantada pelo gerente financeiro e a
+preocupação da empresa W com a adequada mensuração do resultado, um perito contábil foi contratado
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   6
+        www.estrategiaconcursos.com.br                                                                     20
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 26
+
+para emitir um parecer técnico contábil orientando como o valor do contrato deveria ser reconhecido. De
+acordo com o que disciplina o item 16 da NBC TG 47-Receita, analise os itens I a IV e em seguida assinale
+a opção CORRETA que deve corresponder à orientação do Perito Contábil.
+I . O valor contratado deve ser reconhecido na receita no momento da assinatura do contrato.
+II. O valor recebido deve ser reconhecido na receita no momento do recebimento do crédito.
+III. O valor recebido deve ser reconhecido a crédito do passivo.
+IV. O valor recebido deve ser reconhecido na receita quando da prestação do serviço.
+Está(ão) CORRETO(S) apenas o(s) item(ns)
+a) I.
+b) II.
+                                                               ==219a34==
+
+c) III e IV.
+d) I e III.
+Comentários
+Observe que no caso apresentado pela questão estamos diante de uma receita antecipada.
+A empresa W foi contratada pelo cliente Z, em 20X0, para prestar serviços de manutenção de ar condicionado
+durante o ano 20X1. De acordo com o contrato, o cliente Z pagou à empresa W o valor integral contratado
+no ato da assinatura do contrato.
+Nesse caso, segundo o CPC 47, a entidade deve reconhecer a contraprestação recebida de cliente como
+passivo, até o momento em que o serviço for prestado, oportunidade em que a entidade não possuirá mais
+obrigações restantes de prestar o serviço a cliente.
+Logo, apenas os itens III e IV estão corretos. Aplicação do regime de competência.
+Gabarito: C
+
+Identificação da Obrigação de Performance (Passo 2)
+Segundo o CPC 47, obrigação de performance é a promessa em contrato com cliente para a transferência ao
+cliente de:
+a) bem ou serviço (ou grupo de bens ou serviços) que seja distinto; ou
+b) série de bens ou serviços distintos que sejam praticamente os mesmos e que tenham o mesmo padrão de
+transferência para o cliente.
+Na moral, o termo é todo “rebuscado”, mas para facilitar o entendimento, obrigação de performance nada
+mais é do que a obrigação contratual de entregar o bem ou prestar o serviço, ok? Daqui para frente quando
+você ler o termo “obrigação de performance” raciocine nesse sentido que vai facilitar a nossa vida.
+
+              Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati          7
+              www.estrategiaconcursos.com.br                                                           20
+
+                                           
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+                                   Obrigação de desempenho (CPC 47)
+
+                                     Obrigação contratual (promessa) de
+                                     entregar o bem ou prestar o serviço
+
+
+            Vendedor                                                                       Comprador
+
+
+De qualquer forma, precisamos entrar em alguns detalhes técnicos relativos a essa expressão. Avante!
+O CPC 47 destaca que um contrato com cliente de modo geral declara expressamente os bens ou os serviços
+que a entidade promete transferir ao cliente. Contudo, as obrigações de performance identificadas no
+contrato com o cliente podem não estar limitadas aos bens ou serviços que são expressamente declarados
+nesse contrato. Isso porque um contrato com cliente pode incluir também promessas que sejam sugeridas
+pelas práticas usuais de negócios, políticas publicadas ou declarações específicas da entidade se, no
+momento da celebração do contrato, essas promessas criarem uma expectativa válida do cliente de que a
+entidade transferirá bem ou serviço ao cliente.
+Satisfação de Obrigação de Performance (Passo 3)
+Nos termos do CPC 47, a entidade deve reconhecer receitas quando (ou à medida que) a entidade satisfizer
+à obrigação de performance ao transferir o bem ou o serviço (ou seja, um ativo) prometido ao cliente.
+Grosso modo, a entidade deve reconhecer a receita quando “merecer”, ou seja, quando cumprir com a sua
+obrigação (de performance) pela entrega/transferência dos bens ou serviços prometidos ao cliente.
+O CPC 47 esclarece que o ativo é considerado transferido quando (ou à medida que) o cliente obtiver o
+controle desse ativo.
+O Pronunciamento destaca que o controle do ativo refere-se à capacidade de determinar o uso do ativo e
+de obter substancialmente a totalidade dos benefícios restantes provenientes do ativo. O controle inclui a
+capacidade de evitar que outras entidades direcionem o uso do ativo e obtenham benefícios desse ativo.
+Vale destacar que os benefícios do ativo são os fluxos de caixa potenciais (entradas ou economias em saídas)
+que podem ser obtidos direta ou indiretamente de muitas formas, como, por exemplo:
+   ▪   pelo uso do ativo para produzir bens ou prestar serviços (incluindo serviços públicos);
+   ▪   pelo uso do ativo para aumentar o valor de outros ativos;
+   ▪   pelo uso do ativo para liquidar passivos ou reduzir despesas;
+   ▪   pela venda ou troca do ativo;
+   ▪   pela caução do ativo em garantia de empréstimo; e
+   ▪   pela retenção do ativo.
+Existem duas formas expostas pelo CPC 47 de a obrigação de performance ser satisfeita, quais sejam: ao
+longo do tempo ou em momento específico do tempo.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 8
+        www.estrategiaconcursos.com.br                                                                   20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+Obrigação de performance satisfeita ao longo do tempo
+A entidade transfere o controle do bem ou serviço ao longo do tempo e, portanto, satisfaz à obrigação de
+performance e reconhece receitas ao longo do tempo, se um dos critérios a seguir for atendido:
+   ▪   o cliente recebe e consome simultaneamente os benefícios gerados pelo desempenho por parte da
+       entidade à medida que a entidade efetiva o desempenho;
+   ▪   o desempenho por parte da entidade cria ou melhora o ativo (por exemplo, produtos em elaboração)
+       que o cliente controla à medida que o ativo é criado ou melhorado; ou
+   ▪   o desempenho por parte da entidade não cria um ativo com uso alternativo para a entidade e a
+       entidade possui direito executável (enforcement) ao pagamento pelo desempenho concluído até a
+       data presente.
+Obrigação de performance satisfeita em momento específico no tempo
+Se a obrigação de performance não for satisfeita ao longo do tempo, a entidade deverá satisfazer à obrigação
+de performance em momento específico no tempo.
+Para determinar o momento específico no tempo no qual o cliente obtém o controle do ativo prometido e a
+entidade satisfaz à obrigação de performance, a entidade deve considerar os requisitos para controle
+(basicamente, a capacidade de determinar o uso do ativo e de obter substancialmente a totalidade dos
+benefícios).
+Além disso, o CPC 47 destaca que a entidade deve considerar os indicadores da transferência de controle. O
+CPC 47 nos fornece os seguintes exemplos desses indicadores:
+   ▪   a entidade possui um direito presente a pagamento pelo ativo;
+   ▪   o cliente possui a titularidade legal do ativo;
+   ▪   a entidade transferiu a posse física do ativo;
+   ▪   o cliente possui os riscos e os benefícios significativos da propriedade do ativo;
+   ▪   o cliente aceitou o ativo.
+
+Mensuração
+Nos termos do CPC 47, quando (ou à medida que) uma obrigação de performance for satisfeita, a entidade
+deve reconhecer como receita o valor do preço da transação, o qual exclui estimativas de contraprestação
+variável que sejam restringidas e deve ser alocado a essa obrigação de performance.
+Determinação do Preço da Transação (Passo 4)
+Segundo o CPC 47, a entidade deve considerar os termos do contrato e suas práticas de negócios usuais para
+determinar o preço da transação.
+O Pronunciamento define que o preço de uma transação é o valor da contraprestação à qual a entidade
+espera ter direito em troca da transferência dos bens ou serviços prometidos ao cliente, excluindo quantias
+cobradas em nome de terceiros (por exemplo, alguns impostos sobre vendas). A contraprestação prometida
+em contrato com o cliente pode incluir valores fixos, valores variáveis ou ambos.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    9
+        www.estrategiaconcursos.com.br                                                                      20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+                                        Preço da Transação (CPC 47)
+
+                                       valor da contraprestação à qual a
+                                    entidade espera ter direito em troca da
+                                      transferência dos bens ou serviços
+                                             prometidos ao cliente
+              Entidade                                                                      Cliente
+
+(Exame Perito Contábil/2018) A empresa K foi contratada pela empresa X para fornecer bens duráveis em
+uma transação de compra e venda por preço fixo e irreajustável. A formação do preço de venda inclui o
+custo de produção do bem mais tributo indireto. A empresa K, com ações negociadas na bolsa de valores,
+contratou um expert para elaborar um parecer contábil, identificando o preço da transação nessa
+operação. O expert, que tem formação e experiência em Contabilidade, sustentou seu parecer no item 47
+da NBC TG 47 – Receita de Contrato com Cliente.
+Com base no enunciado, assinale a opção que apresenta o que deve estar certificado no parecer do expert.
+a) O preço da transação é o valor total do contrato.
+b) O preço da transação é o valor total que a empresa K recebeu da empresa X.
+c) O preço da transação não inclui o valor do tributo indireto.
+d) As opções “a” e “c” estão corretas.
+Comentários
+Segundo o CPC 47, o preço de uma transação é o valor da contraprestação à qual a entidade espera ter
+direito em troca da transferência dos bens ou serviços prometidos ao cliente, excluindo quantias cobradas
+em nome de terceiros (por exemplo, alguns impostos sobre vendas). A contraprestação prometida em
+contrato com o cliente pode incluir valores fixos, valores variáveis ou ambos.
+Gabarito: C
+(Exame Perito Contábil/2018) Em contrato de fornecimento de bens na modalidade de compra e venda a
+prazo, a empresa J compôs seu preço da seguinte forma: (a) custo de produção R$10.000,00; (b) custo de
+comercialização e lucro R$3.000,00; (c) tributo indireto R$1.500,00; e (d) total recebido do cliente
+R$14.500,00. Na demonstração do resultado da empresa J, o valor da receita foi divulgado pelo valor de
+R$14.500,00. Uma agência de crédito informou à empresa J que, de acordo com o item 47 da NBC TG 47-
+Receita de Contrato Com Cliente, o valor divulgado da receita não está correto porque não corresponde
+ao preço da transação. Perplexa, a empresa J contratou de imediato um perito contábil para emitir um
+parecer técnico contábil, orientando qual o preço da transação que deveria ser divulgado na sua
+demonstração do resultado.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               10
+         www.estrategiaconcursos.com.br                                                                 20
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+De acordo com o enunciado assinale a opção que apresenta a orientação do perito contábil certificada no
+parecer técnico contábil.
+a) A divulgação correta deve ser a do valor de R$14.500,00.
+b) A divulgação correta deve ser a do valor de R$10.000,00.
+c) A divulgação correta deve ser a do valor de R$11.500,00.
+d) A divulgação correta deve ser a do valor de R$13.000,00.
+Comentários
+Para fixar! Segundo o CPC 47, o preço de uma transação é o valor da contraprestação à qual a entidade
+espera ter direito em troca da transferência dos bens ou serviços prometidos ao cliente, excluindo quantias
+cobradas em nome de terceiros (por exemplo, alguns impostos sobre vendas). A contraprestação prometida
+em contrato com o cliente pode incluir valores fixos, valores variáveis ou ambos.
+Logo, no caso apresentado, o valor da receita deveria ser o seguinte:
+Preço da Transação
+Valor da Contraprestação                                                  14.500,00
+(-) Imposto Indireto                                                      (1.500,00)
+(=) Preço da Transação                                                    13.000,00
+Gabarito: D
+O Pronunciamento informa que a natureza, a época e o valor da contraprestação prometida por cliente
+afetam a estimativa do preço da transação.
+Nesse sentido, ao determinar o preço da transação, a entidade deve considerar os efeitos de todos os itens
+a seguir:
+   ▪   contraprestação variável;
+   ▪   restrição de estimativas de contraprestação variável;
+   ▪   existência de componente de financiamento significativo no contrato;
+   ▪   contraprestação não monetária; e
+   ▪   contraprestação a pagar ao cliente.
+Vamos estudar alguns detalhes sobre algumas variáveis acima descritas, as quais consideramos interessantes
+para fins de provas.
+Contraprestação Variável
+O valor da contraprestação pode variar em razão de descontos, abatimentos, restituições, créditos,
+concessões de preços, incentivos, bônus de desempenho, penalidades ou outros itens similares.
+Segundo o CPC 47, a entidade deve estimar o valor da contraprestação variável, utilizando qualquer dos
+métodos a seguir, dependendo de por qual método a entidade espera melhor prever o valor da
+contraprestação à qual tem direito:
+a) o valor esperado – o valor esperado é a soma de valores ponderados em função da probabilidade de uma
+gama de possíveis valores de contraprestação. O valor esperado pode ser uma estimativa apropriada do
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  11
+        www.estrategiaconcursos.com.br                                                                    20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+valor da contraprestação variável, se a entidade tiver grande número de contratos com características
+similares;
+b) o valor mais provável – o valor mais provável é o valor único mais provável de uma gama de possíveis
+valores de contraprestação (ou seja, o resultado único mais provável do contrato). O valor mais provável
+pode ser uma estimativa apropriada do valor da contraprestação variável, se o contrato tiver apenas dois
+possíveis resultados (por exemplo, a entidade atingir um bônus de desempenho ou não).
+A entidade deve aplicar um método de forma consistente ao longo de todo o contrato ao estimar o efeito
+da incerteza sobre o valor da contraprestação variável ao qual a entidade tem direito.
+O Pronunciamento informa que em alguns contratos, a entidade transfere o controle do produto ao cliente
+e também concede ao cliente o direito de devolver o produto por diversas razões (tais como, insatisfação
+com o produto) e receber qualquer combinação abaixo:
+a) reembolso total ou parcial de qualquer contraprestação paga;
+b) crédito que possa ser aplicado contra valores devidos, ou que serão devidos, à entidade; e
+c) outro produto em troca.
+Nesses casos (venda com direito à devolução ou serviços prestados com direito a reembolso), a entidade
+deve reconhecer todos os itens abaixo:
+a) receita para os produtos transferidos no valor da contraprestação ao qual a entidade espera ter direito
+(portanto, a receita não seria reconhecida para os produtos que se espera que sejam devolvidos);
+b) obrigação de restituição (passivo de restituição); e
+c) ativo (e correspondente ajuste ao custo de vendas) por seu direito de recuperar produtos de clientes ao
+liquidar a obrigação de restituição.
+As trocas pelos clientes de produto por outro do mesmo tipo, qualidade, condição e preço (por exemplo, cor
+ou tamanho por outro) não são consideradas devoluções para as finalidades do CPC 47.
+O passivo de restituição deve ser mensurado pelo valor da contraprestação recebida (ou a receber) em
+relação à qual a entidade não espera ter direito (ou seja, valores não incluídos no preço da transação).
+Reavaliação da contraprestação variável
+Segundo o CPC 47, ao final de cada período de relatório, a entidade deve atualizar o preço da transação
+estimado (incluindo a atualização de sua avaliação, se a estimativa de contraprestação variável for restrita)
+para representar fielmente as circunstâncias presentes no final do período do relatório e as alterações nas
+circunstâncias durante o período do relatório.
+Existência de componente de financiamento significativo no contrato
+O CPC 47 informa que ao determinar o preço da transação, a entidade deve ajustar o valor prometido da
+contraprestação para refletir os efeitos do valor do dinheiro no tempo, se a época dos pagamentos pactuada
+pelas partes do contrato (seja expressa ou implicitamente) fornecer ao cliente ou à entidade um benefício
+significativo de financiamento da transferência de bens ou serviços ao cliente. Nessas circunstâncias, o
+contrato contém componente de financiamento significativo. Componente de financiamento significativo
+pode existir, independentemente, se a promessa de financiamento é expressamente declarada no contrato
+ou implícita pelos termos de pagamento pactuados pelas partes do contrato.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    12
+         www.estrategiaconcursos.com.br                                                                      20
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+O objetivo, ao ajustar o valor prometido da contraprestação para um componente de financiamento
+significativo, é que a entidade reconheça receitas pelo valor que reflita o preço que o cliente teria pago pelos
+bens ou serviços prometidos, se o cliente tivesse pago à vista por esses bens ou serviços quando (ou à medida
+que) foram transferidos ao cliente (ou seja, o preço de venda à vista).
+Observe que essa determinação do CPC 47 vai ao encontro do que dispõe o CPC 12 – Ajuste a Valor Presente.
+A ideia é a mesma.
+O CPC 47 destaca que a entidade deve apresentar os efeitos do financiamento (receita de juros ou despesa
+de juros) separadamente da receita de contratos com clientes na demonstração do resultado abrangente. A
+receita de juros ou a despesa de juros deve ser reconhecida somente na medida em que ativo (ou recebível)
+de contrato ou passivo de contrato for reconhecido na contabilização do contrato com o cliente.
+Contraprestação não monetária
+Nos termos do CPC 47, para determinar o preço de transação para contratos nos quais o cliente promete
+contraprestação na forma que não seja pagamento em dinheiro, a entidade deve mensurar a
+contraprestação não monetária (ou promessa de contraprestação não monetária) pelo valor justo.
+Contraprestação a pagar ao cliente
+Segundo o CPC 47, a contraprestação a pagar ao cliente inclui valores à vista que a entidade paga ou espera
+pagar ao cliente (ou a outras partes que compram do cliente bens ou serviços da entidade). A
+contraprestação a pagar ao cliente inclui ainda crédito ou outros itens (por exemplo, cupom ou voucher) que
+podem ser aplicados contra valores devidos à entidade (ou a outras partes que comprem do cliente bens ou
+serviços da entidade).
+Nesse sentido, a entidade deve contabilizar a contraprestação a pagar ao cliente como redução do preço
+da transação e, portanto, das receitas, a menos que o pagamento ao cliente se dê em troca de bem ou
+serviço distinto que o cliente transfere à entidade.
+Alocação do valor do contrato nas obrigações de performance (Passo 5)
+Nesse momento (passo 4), a entidade aloca o preço da transação a cada obrigação de performance (bem ou
+serviço distinto) pelo valor que reflita o valor da contraprestação à qual a entidade espera ter direito em
+troca da transferência dos bens ou serviços prometidos ao cliente.
+Para tanto, a entidade deve alocar o preço da transação a cada obrigação de performance identificada no
+contrato com base no preço de venda individual.
+Segundo o CPC 47, o preço de venda individual é o preço pelo qual a entidade venderia o bem ou o serviço
+prometido separadamente ao cliente. A melhor evidência do preço de venda individual é o preço observável
+do bem ou serviço quando a entidade vende esse bem ou serviço separadamente em circunstâncias similares
+e a clientes similares. O preço contratualmente declarado ou o preço de tabela do bem ou serviço pode ser
+(mas não se deve presumir que seja) o preço de venda individual desse bem ou serviço.
+Se o preço de venda individual não for diretamente observável, a entidade deve estimar o preço de venda
+individual. O CPC 47 informa que entre os métodos adequados para realizar essa estimativa estão:
+abordagem de avaliação de mercado ajustada, abordagem do custo esperado mais margem e abordagem
+residual.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                       13
+        www.estrategiaconcursos.com.br                                                                         20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+Alterações no Preço da Transação
+O CPC 47 informa que após o início do contrato, o preço da transação pode mudar por várias razões, incluindo
+a solução de eventos incertos ou outras alterações nas circunstâncias que alterem o valor da contraprestação
+à qual a entidade espera ter direito em troca dos bens ou serviços prometidos.
+Nesse sentido, a entidade deve alocar às obrigações de performance do contrato quaisquer alterações
+subsequentes no preço da transação da mesma forma que no início do contrato. Consequentemente, a
+entidade não deve realocar o preço da transação para refletir alterações em preços de venda individuais
+após o início do contrato. Valores alocados à obrigação de performance satisfeita devem ser reconhecidos
+como receita, ou como redução da receita, no período em que o preço da transação mudar.
+
+Custos do Contrato
+Custo incremental para obtenção de contrato
+Segundo o CPC 47, custo incremental para obtenção de contrato são os custos em que a entidade incorre
+para obter o contrato com o cliente que ela não teria incorrido, se o contrato não tivesse sido obtido (por
+exemplo, comissão de venda).
+A entidade deve reconhecer como ATIVO os custos incrementais para obtenção de contrato com cliente,
+se a entidade espera recuperar esses custos.
+O CPC 47 destaca que os custos para obter o contrato, que forem incorridos independentemente da
+obtenção do contrato, devem ser reconhecidos como DESPESA quando incorridos, a menos que esses custos
+sejam expressamente cobráveis do cliente, independentemente da obtenção do contrato.
+Custo para Cumprir o Contrato
+Nos termos do CPC 47, se os custos incorridos no desempenho do contrato com o cliente não estiverem
+dentro do alcance de outro pronunciamento (por exemplo, o CPC 16 – Estoques, o CPC 27 – Ativo Imobilizado
+ou o CPC 04 – Ativo Intangível), a entidade deve reconhecer o ATIVO a partir dos custos incorridos para
+cumprir o contrato, somente se esses custos atenderem a todos os critérios a seguir:
+a) os custos referem-se diretamente ao contrato ou ao contrato previsto que a entidade pode
+especificamente identificar (por exemplo, custos relativos a serviços a serem prestados de acordo com a
+renovação de contrato existente ou custos para projetar o ativo a ser transferido, de acordo com contrato
+específico que ainda não foi aprovado);
+b) os custos geram ou aumentam recursos da entidade que serão usados para satisfazer (ou para continuar
+a satisfazer) a obrigações de performance no futuro; e
+c) espera-se que os custos sejam recuperados.
+O CPC 47 nos fornece exemplos de custos que se referem diretamente ao contrato, os quais organizamos na
+tabela a seguir.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                      14
+        www.estrategiaconcursos.com.br                                                                        20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+              Custos que se referem diretamente ao contrato (reconhecidos como ATIVO*)
+
+ Mão de obra direta (por exemplo, salários e ordenados de empregados que prestam os serviços
+ prometidos diretamente ao cliente);
+
+ Materiais diretos (por exemplo, suprimentos utilizados na prestação dos serviços prometidos ao
+ cliente);
+
+ Alocações de custos que se referem diretamente ao contrato ou a atividades do contrato (por exemplo,
+ custos de gestão e supervisão do contrato, seguro e depreciação de ferramentas, equipamentos e ativo
+ de direito de uso utilizados no desempenho do contrato);
+
+ Custos que são expressamente cobráveis do cliente de acordo com o contrato; e
+
+ Outros custos que sejam incorridos somente em razão de a entidade ter celebrado o contrato (por
+ exemplo, pagamentos a subcontratadas).
+
+ *reconhecidos como ativo, desde que atendam aos critérios dispostos no item 1.4.2 acima.
+
+Além disso, o CPC 47 fornece exemplos de custos que devem ser reconhecidos como despesa quando
+incorridos.
+
+                              Custos que devem ser reconhecidos como DESPESA
+
+ Custos gerais e administrativos (a menos que esses custos sejam expressamente cobráveis do cliente de
+ acordo com o contrato);
+
+ Custos relativos a perdas de material, mão de obra ou outros recursos para cumprir o contrato que não
+ foram refletidos no preço do contrato;
+
+ Custos que se referem a obrigações de performance satisfeitas (ou obrigações de performance
+ parcialmente satisfeitas) do contrato (ou seja, custos que se referem ao desempenho passado); e
+
+ Custos em relação aos quais a entidade não pode distinguir se eles se referem a obrigações de
+ performance não satisfeitas ou a obrigações de performance satisfeitas (ou obrigações de performance
+ parcialmente satisfeitas).
+
+Amortização e Redução ao Valor Recuperável
+O ativo reconhecido nos termos do CPC 47 deve ser amortizado em base sistemática que seja consistente
+com a transferência ao cliente dos bens ou serviços aos quais o ativo se refere.
+A entidade deve atualizar a amortização para refletir uma alteração significativa na época esperada pela
+entidade de transferência ao cliente dos bens ou serviços aos quais o ativo se refere. Essa alteração deve ser
+contabilizada como mudança na estimativa contábil de acordo com o CPC 23.
+A entidade deve reconhecer a perda por redução ao valor recuperável no resultado na medida em que o
+valor contábil do ativo reconhecido, exceda:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                     15
+        www.estrategiaconcursos.com.br                                                                       20
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+a) o valor restante da contraprestação que a entidade espera receber em troca dos bens ou serviços aos
+quais o ativo se refere; menos
+b) os custos que se referem diretamente ao fornecimento desses bens ou serviços e que não foram
+reconhecidos como despesa.
+
+Apresentação
+Segundo o CPC 47, quando qualquer das partes do contrato tiver concluído o desempenho, a entidade deve
+apresentar o contrato no balanço patrimonial como ativo de contrato ou passivo de contrato, dependendo
+da relação entre o desempenho pela entidade e o pagamento pelo cliente. A entidade deve apresentar
+separadamente como recebível quaisquer direitos incondicionais à contraprestação.
+Ativo de Contrato: é um direito da entidade à contraprestação em troca de bens ou serviços que a entidade
+transferiu ao cliente quando esse direito está condicionado a algo além da passagem do tempo (por exemplo,
+desempenho futuro da entidade).
+Passivo de contrato: obrigação da entidade de transferir bens ou serviços ao cliente, em relação aos quais a
+entidade recebeu contraprestação do (ou o valor é devido pelo) cliente.
+Recebível: é um direito da entidade à contraprestação que seja incondicional. O direito à contraprestação é
+considerado incondicional, se somente a passagem do tempo for exigida antes que o pagamento dessa
+contraprestação seja devido. Por exemplo, a entidade deve reconhecer o recebível se tiver o direito presente
+a pagamento ainda que esse valor possa estar sujeito à restituição no futuro. A entidade deve contabilizar o
+recebível de acordo com o CPC 48.
+
+Divulgação
+Nesse ponto o CPC 47 estabelece uma infinidade de informações que devem ser divulgadas em notas
+explicativas. Considerando o histórico de exigência de outros Pronunciamentos, creio que o custo-benefício
+de estudar todas essas divulgações seja muito baixo de forma que vamos descrever apenas o critério geral
+de divulgação abaixo.
+Segundo o CPC 47, o objetivo dos requisitos de divulgação consiste em que a entidade divulgue informações
+suficientes para permitir aos usuários de demonstrações contábeis compreender a natureza, o valor, a época
+e a incerteza de receitas e fluxos de caixa provenientes de contratos com clientes. Para atingir esse objetivo,
+a entidade deve divulgar informações qualitativas e quantitativas sobre todos os itens seguintes:
+a) seus contratos com clientes;
+b) julgamentos significativos e mudanças nos julgamentos feitos ao aplicar este pronunciamento a esses
+contratos; e
+c) quaisquer ativos reconhecidos a partir dos custos para obter ou cumprir um contrato com cliente.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    16
+        www.estrategiaconcursos.com.br                                                                      20
+
+                                     
+
+
+---
+
+   Gilmar Possati
+   Aula 26
+
+                                            LISTA DAS QUESTÕES
+1.     (INÉDITA) Para que um contrato com cliente gere reconhecimento contábil, nos termos do CPC 47
+– Receita de Contratos com Cliente, ele deve possuir substância comercial, as partes do contrato devem
+estar comprometidas com o cumprimento das suas obrigações e a contraprestação a ser recebida pela
+entidade deve ser certa, entre outros critérios.
+
+2.     (CFC/Perito Contábil/2018) A empresa W foi contratada pelo cliente Z, em 20X0, para prestar
+serviços de manutenção de ar condicionado durante o ano 20X1. De acordo com o contrato, o cliente Z
+pagou à empresa W o valor integral contratado no ato da assinatura do contrato. A área operacional da
+empresa W preparou uma planilha com as datas em que o serviço seria prestado durante o ano de 20X1 e
+encaminhou ao contador e ao gerente financeiro. O gerente financeiro também enviou ao contador o
+documento de crédito em conta do valor do contrato pago pelo cliente Z. Ao receber a referida planilha e
+o documento de crédito, o contador reconheceu a receita, porém o gerente financeiro divergiu do
+reconhecimento feito pelo contador. Para dirimir divergência levantada pelo gerente financeiro e a
+preocupação da empresa W com a adequada mensuração do resultado, um perito contábil foi contratado
+para emitir um parecer técnico contábil orientando como o valor do contrato deveria ser reconhecido. De
+acordo com o que disciplina o item 16 da NBC TG 47-Receita, analise os itens I a IV e em seguida assinale
+a opção CORRETA que deve corresponder à orientação do Perito Contábil.
+
+I . O valor contratado deve ser reconhecido na receita no momento da assinatura do contrato.
+
+II. O valor recebido deve ser reconhecido na receita no momento do recebimento do crédito.
+
+III. O valor recebido deve ser reconhecido a crédito do passivo.
+
+IV. O valor recebido deve ser reconhecido na receita quando da prestação do serviço.
+
+Está(ão) CORRETO(S) apenas o(s) item(ns)
+
+a) I.
+
+b) II.
+
+c) III e IV.
+
+d) I e III.
+
+3.     (CFC/Perito Contábil/2018) A empresa K foi contratada pela empresa X para fornecer bens duráveis
+em uma transação de compra e venda por preço fixo e irreajustável. A formação do preço de venda inclui
+o custo de produção do bem mais tributo indireto. A empresa K, com ações negociadas na bolsa de valores,
+contratou um expert para elaborar um parecer contábil, identificando o preço da transação nessa
+operação. O expert, que tem formação e experiência em Contabilidade, sustentou seu parecer no item 47
+da NBC TG 47 – Receita de Contrato com Cliente.
+
+
+              Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        17
+              www.estrategiaconcursos.com.br                                                          20
+
+                                           
+
+
+---
+
+  Gilmar Possati
+  Aula 26
+
+Com base no enunciado, assinale a opção que apresenta o que deve estar certificado no parecer do expert.
+
+a) O preço da transação é o valor total do contrato.
+
+b) O preço da transação é o valor total que a empresa K recebeu da empresa X.
+
+c) O preço da transação não inclui o valor do tributo indireto.
+
+d) As opções “a” e “c” estão corretas.
+
+4.     (CFC/Perito Contábil/2018) Em contrato de fornecimento de bens na modalidade de compra e
+venda a prazo, a empresa J compôs seu preço da seguinte forma: (a) custo de produção R$10.000,00; (b)
+custo de comercialização e lucro R$3.000,00; (c) tributo indireto R$1.500,00; e (d) total recebido do cliente
+R$14.500,00. Na demonstração do resultado da empresa J, o valor da receita foi divulgado pelo valor de
+                                                         ==219a34==
+
+R$14.500,00. Uma agência de crédito informou à empresa J que, de acordo com o item 47 da NBC TG 47-
+Receita de Contrato Com Cliente, o valor divulgado da receita não está correto porque não corresponde
+ao preço da transação. Perplexa, a empresa J contratou de imediato um perito contábil para emitir um
+parecer técnico contábil, orientando qual o preço da transação que deveria ser divulgado na sua
+demonstração do resultado.
+
+De acordo com o enunciado assinale a opção que apresenta a orientação do perito contábil certificada no
+parecer técnico contábil.
+
+a) A divulgação correta deve ser a do valor de R$14.500,00.
+
+b) A divulgação correta deve ser a do valor de R$10.000,00.
+
+c) A divulgação correta deve ser a do valor de R$11.500,00.
+
+d) A divulgação correta deve ser a do valor de R$13.000,00.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  18
+        www.estrategiaconcursos.com.br                                                                    20
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 26
+
+                                               GABARITO
+
+                                        1.        2.       3.        4.
+
+                                        E         C        C         D
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati   19
+      www.estrategiaconcursos.com.br                                                     20
+
+                                   
+
+
+---
+
+---

@@ -1,0 +1,356 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 07_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: (FGV/SEFAZ-ES/2022)
+---
+
+# (FGV/SEFAZ-ES/2022)
+
+DRE
+
+
+                                     Prof. Gilmar Possati
+
+---
+
+(FGV/SEFAZ-ES/2022)
+Assinale a opção que indica apenas os tributos que incidem sobre as vendas e que são contabilizados
+como dedução da Receita Bruta na Demonstração do Resultado do Exercício.
+a) PIS e CSLL.
+b) IPI e IR.
+c) ICMS e ISS.
+d) ISS e CSLL.
+e) IR e ICMS.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-AM/2022)
+Uma entidade que presta serviços de consultoria incorreu em R$ 20.000 referentes a despesa de juros
+sobre empréstimos bancários.
+Assinale a opção que indica o reconhecimento contábil dessa despesa na Demonstração do Resultado do
+Exercício.
+a) Despesas Operacionais.
+b) Outras Despesas Operacionais.
+c) Despesas Financeiras.
+d) Distribuição do lucro.
+e) Dedução da receita.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma indústria vendeu uma de suas máquinas por R$50.000, com o intuito de adquirir maquinário mais
+moderno.
+Assinale a opção que indica a contabilização da receita com a venda na Demonstração do Resultado do
+Exercício da indústria.
+a) Receitas comerciais.
+b) Receitas financeiras.
+c) Receitas operacionais.
+d) Outras receitas operacionais.
+e) Receitas não operacionais.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+Assinale a opção que indica a contabilização na Demonstração do Resultado do Exercício que foi instituída
+a partir das alterações da Lei nº 6.404/1976.
+a) Contabilização das perdas estimadas com crédito de liquidação duvidosa como “Dedução da Receita
+Bruta”.
+b) Contabilização da despesa de depreciação como “Despesas Operacionais”.
+c) Contabilização da venda do ativo imobilizado como “Outras receitas operacionais”.
+d) Contabilização da receita de aluguel como “Receitas Financeiras”.
+e) Contabilização da distribuição dos dividendos como “Despesas não Operacionais”.
+
+@profgilmarpossati     @canalcontabilizando
+                                              
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma sociedade empresária, que presta serviços de consultoria, apresentou os seguintes saldos em sua
+Demonstração do Resultado do Exercício, em 31/12/X0:
+Receita de serviços:                              R$500.000;
+Descontos concedidos:                             R$15.000;
+Abatimentos:                                      R$10.000;
+Juros auferidos:                                  R$50.000;
+Prêmio de resgate de debêntures:                  R$16.000;
+Receita com equivalência patrimonial:             R$20.000;
+Receita de títulos vinculados ao mercado aberto:  R$21.000;
+Custo dos Serviços Prestados:                     R$200.000;
+Despesas gerais:                                  R$80.000;
+Comissões e despesas bancárias:                   R$8.000; e
+Variações monetárias das obrigações:              R$18.000.
+
+Assinale a opção que indica o resultado financeiro da sociedade empresária, em 31/12/X0.
+a) R$9.000.      b) R$32.000.       c) R$38.000.     d) R$46.000.    e) R$54.000.
+
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma padaria apresentou os seguintes saldos em 31/12/X0:
+Receita de Vendas: R$100.000; Perdas estimadas com crédito de liquidação duvidosa: R$3.000; vendas
+canceladas: R$10.000; custo das mercadorias vendidas: R$50.000; Receita com a venda de veículo que era
+utilizado para entregas: R$40.000; custo do veículo vendido: R$30.000; impostos incidentes sobre as
+vendas de produtos: R$15.000.
+Assinale a opção que indica o lucro bruto da padaria em 31/12/X0, evidenciado em sua Demonstração do
+Resultado do Exercício.
+a) R$22.000.
+b) R$25.000.
+c) R$35.000.
+d) R$40.000.
+e) R$50.000.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/Câmara de Taubaté/2022)
+Uma entidade apresentava os seguintes saldos em 31/12/X0: Receita de vendas: R$ 80.000; Receitas
+financeiras: R$ 30.000; Custo das mercadorias vendidas: R$ 15.000; Despesas financeiras: R$ 12.000;
+Despesas operacionais: R$ 35.000; Outras receitas e despesas operacionais: R$ 28.000; Imposto de renda
+e contribuição social: R$ 25.840.
+Assinale a opção que indica o lucro bruto da entidade na data.
+a) R$30.000.
+b) R$50.160.
+c) R$58.000.
+d) R$65.000.
+e) R$76.000.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/SEFIN-RO/2018)
+A Cia. LOL elaborou sua Demonstração do Resultado do Exercício pelo método da natureza da despesa.
+Assinale a opção que contém apenas as contas classificadas de acordo com esse método.
+a) Despesa com Benefícios a Empregados e Despesas Comerciais.
+b) Variação do Estoque e Custo dos Produtos Vendidos.
+c) Despesa de Depreciação e Consumo de Matéria Prima.
+d) Despesa de Vendas e Despesas Administrativas.
+e) Despesas Administrativas e Despesa de Amortização.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/SEFIN-RO/2018)
+A Cia. X vende roupas. A sociedade empresária não é contribuinte do IPI, mas é contribuinte dos impostos
+estaduais e municipais.
+Em 31/12/2017, ela apresentava os seguintes saldos:
+• vendas brutas de vendas: R$ 200.000;
+• comissão de vendas: R$ 20.000;
+• devolução de vendas: R$ 10.000;
+• custo das mercadorias vendidas: R$ 120.000;
+• devolução de compras: R$ 15.000;
+• ajuste a valor presente de contas a pagar: R$ 5.000;
+• ajuste a valor presente de clientes: R$ 12.000;
+• ICMS sobre vendas: R$ 40.000;
+• IPI nas compras: R$ 30.000;
+• despesas com salários: R$ 35.000;
+• perdas estimadas para créditos de liquidação duvidosa: R$ 10.000;
+• perdas com a redução do valor dos estoques: R$ 4.000.
+
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+Com base nos dados acima, assinale a opção que indica o valor da Receita Líquida de Vendas da Cia. X, em
+31/12/2017.
+a) R$ 18.000.
+b) R$ 70.000.
+c) R$ 118.000.
+d) R$ 138.000.
+e) R$ 150.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEPOG-RO/2017)
+Uma sociedade empresária apresentava em suas contas, em 31/12/2016, os saldos listados a seguir.
+• Vendas Brutas: R$ 400.000;
+• Compras de mercadorias: R$ 100.000;
+• Abatimentos concedidos: R$ 20.000;
+• Descontos financeiros obtidos: R$ 22.000;
+• Descontos financeiros concedidos: R$ 28.000;
+• Devolução de vendas: R$ 15.000;
+• Devolução de compras: R$ 10.000;
+• Saldo inicial do estoque de mercadorias: R$ 25.000;
+• Saldo final do estoque de mercadorias: R$ 5.000;
+• Despesas comerciais: R$ 60.000;
+• Despesas administrativas: R$ 65.000;
+• Provisão para crédito de liquidação duvidosa: R$ 8.000.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+Considerando apenas as informações acima e desconsiderando a incidência de impostos, o valor do lucro
+bruto da sociedade empresária, em 31/12/2016, era de
+a) R$ 187.000.
+b) R$ 227.000.
+c) R$ 247.000.
+d) R$ 255.000.
+e) R$ 280.000.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/AL-RO/2018)
+As opções a seguir trazem exemplos de informações que são apresentadas na Demonstração do Resultado
+do Exercício de uma entidade, à exceção de uma. Assinale-a:
+a) Devolução de vendas.
+b) Provisão para imposto sobre a renda.
+c) Resultado de operações descontinuadas.
+d) Variação cambial.
+e) Distribuição de dividendos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/AL-RO/2018)
+Uma entidade apresentava os seguintes saldos, em 31/12/2017:
+Receita de vendas (a prazo): R$ 100.000; Custo das mercadorias vendidas: R$ 40.000; Receita com a venda
+de ativo imobilizado (à vista): R$ 50.000; Baixa de ativo imobilizado: R$ 30.000; Perdas estimadas com
+crédito de liquidação duvidosa: R$ 5.000; Despesas gerais: R$ 15.000.
+Assinale a opção que indica o valor do lucro antes do imposto sobre a renda (LAIR), em 31/12/2017, com
+base nas informações acima e considerando a alíquota do ICMS de 18%.
+a) R$ 33.000.
+b) R$ 42.000.
+c) R$ 42.900.
+d) R$ 49.200.
+e) R$ 60.000.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/COMPESA/2018)
+Assinale a opção que indica o que é evidenciado pela Demonstração do Resultado do Exercício.
+a) A riqueza gerada pela entidade e pertencente ao acionista.
+b) A riqueza gerada pela entidade e pertencente à sociedade.
+c) As aplicações e as origens dos recursos da entidade.
+d) A movimentação ocorrida nas contas pertencentes aos sócios da entidade.
+e) A parte dos recursos financeiros gerada internamente pela entidade.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/COMPESA/2018)
+Uma entidade apresentava o seguinte balanço patrimonial em 31/12/2016:
+
+No ano de 2017, aconteceram os seguintes fatos:
+• Pagamento das despesas de 2016;
+• Venda à vista de todo o estoque, por R$ 350.000;
+• Reconhecimento e pagamento de despesas gerais, no valor de R$ 50.000.
+Assinale a opção que indica o valor do lucro antes do imposto sobre a renda (LAIR), em 31/12/2017,
+considerando alíquota do ICMS de 18%.
+a) R$ 37.000.
+b) R$ 73.000.
+c) R$ 87.000.
+d) R$ 97.000.
+e) R$ 100.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/CODEBA/2016)
+De acordo com o Pronunciamento Contábil CPC 26 (R1) - Apresentação das Demonstrações Contábeis, as
+despesas de uma entidade devem ser subclassificadas a fim de destacar componentes do desempenho
+que podem diferir em termos de frequência, potencial de ganho ou de perda e previsibilidade.
+Em relação à classificação das despesas, assinale a afirmativa correta.
+a) Existem três formas de análise, o método da natureza da despesa, o método da função da despesa e o
+método do setor da despesa.
+b) Custos dos produtos vendidos, despesa com empregados e despesa com depreciação são exemplos de
+despesas classificadas pelo método da natureza da despesa.
+c) Despesas de vendas, despesas administrativas e despesas financeiras são exemplos de despesas
+classificadas pelo método do setor da despesa.
+d) As entidades que classificam seus gastos por função devem divulgar informação adicional sobre a
+natureza das despesas, que é útil ao prever os futuros fluxos de caixa.
+e) O Comitê dos Pronunciamentos Contábeis recomenda fortemente que a entidade utilize o método do
+setor da despesa.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+Padrão de exigência da FGV
+a) ESTRUTURA DA DRE
+Descrição de contas contábeis → solicita em qual parte da estrutura deve constar na DRE.
+
+Exemplos de exigência: SEFAZ-ES, PC-AM, SEFAZ-AM, FunSaúde-CE
+
+b) CÁLCULO DE RESULTADOS
+Descrição de contas contábeis e respectivos saldos → solicita determinado resultado (financeiro, bruto,
+líquido ...).
+
+Exemplos de exigência: SEFAZ-AM (2)
+
+c) CPC 26
+Tópicos sobre DRE presentes no CPC 26.
+
+Exemplos de exigência: SEFIN-RO, CODEBA
+
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---

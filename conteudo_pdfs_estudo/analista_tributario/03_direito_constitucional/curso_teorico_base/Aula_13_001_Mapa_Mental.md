@@ -1,0 +1,635 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 13_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '13'
+titulo_aula: PODER EXECUTIVO - NORMAS GERAIS
+artigos_citados:
+- ART. 84
+- art. 85
+---
+
+# PODER EXECUTIVO - NORMAS GERAIS
+
+PODER EXECUTIVO - NORMAS GERAIS
+
+
+                                          FORMA DE GOVERNO
+
+
+• DIZ RESPEITO À ORGANIZAÇÃO DAS INSTITUIÇÕES QUE EXERCEM O PODER SOBERANO DO ESTADO E ÀS
+  RELAÇÕES ENTRE AQUELAS INSTITUIÇÕES;
+
+                               ❑ Monarquia:
+
+                               ✓ Vitaliciedade;
+• HÁ DUAS FORMAS:              ✓ Hereditariedade;
+                               ✓ Irresponsabilidade.
+
+                               ❑ República:
+
+                               ✓ Temporariedade;
+                               ✓ Eletividade;
+                               ✓ Responsabilidade;
+                               ✓ República significa "coisa pública“.
+
+                                                                               (res = coisa; publica = pública)   DIREITO CONSTITUCIONAL
+                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                          PODER EXECUTIVO - NORMAS GERAIS
+ SISTEMA DE GOVERNO                       MODO COMO SE DÁ A RELAÇÃO ENTRE OS PODERES EXECUTIVO E LEGISLATIVO
+
+                           ❑ Origens nos EUA;
+   HÁ DOIS SISTEMAS:       ❑ Chefia do Poder Executivo: unipessoal ou monocrática:
+                                         • Presidente da República exerce a função de Chefe de Estado e Chefe de Governo.
+❑ Presidencialismo:        ❑ Inexistência de vínculo entre Poder Legislativo e Poder Executivo:
+                                         • Independência entre o Poder Legislativo e o Executivo.
+                           ❑ Mandato por tempo determinado;
+                           ❑ Responsabilidade: dever de prestar contas.
+
+                           ❑ Origens na Inglaterra do século XI;
+                           ❑ Chefia do Poder Executivo: Dual.
+❑ Parlamentarismo:                       • Chefe de Estado e o Chefe de Governo são pessoas diferentes.
+                           ❑ Interdependência entre os Poderes Executivo e Legislativo;
+                           ❑ Mandato por prazo indeterminado.
+
+                           ❑ Chefia dual;
+❑ Semipresidencialismo:    ❑ Interdependência entre Executivo e Legislativo;
+                           ❑ Mandato por prazo indeterminado.
+
+                                   ❑ Forma de estado – Federação;
+
+REPÚBLICA FEDERATIVA DO            ❑ Regime Político – Democracia;
+        BRASIL                     ❑ Forma de Governo – República;
+                                                                                                          DIREITO CONSTITUCIONAL
+                                   ❑ Sistema de governo – Presidencialismo.
+                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                 PODER EXECUTIVO - NORMAS GERAIS
+     TÍPICAS                                               FUNÇÕES DO PODER EXECUTIVO
+❑ FUNÇÃO EXECUTIVA:
+•   Abrange atividades de:
+
+❑ Chefia de Governo:
+•   Formulação e a condução das políticas públicas internas;
+•   Funcionamento das instituições e dos demais órgãos do país;
+❑ Chefia de Estado:
+•   Atribuições simbólicas e mais relacionadas a aspectos diplomáticos;
+❑ Chefia da Administração Pública.
+
+❑ SUBDIVIDE-SE EM DUAS:
+                                                                                                     ATÍPICAS
+❑ Função de governo:
+•   Atribuições de decisão política.
+❑ Função administrativa:
+                                                                                      ❑ Função de julgamento:
+•   Atribuições relacionadas à prestação de serviço público.
+                                                                                      •   Decide um processo administrativo
+                                                                                          disciplinar;
+❑ Função legislativa:                                                                 •   Doutrina majoritária entende que o
+•   Medidas provisórias;                                                                  Poder Executivo não exerce função
+                                                                                          jurisdicional.
+•   Leis delegadas;
+•   Decretos autônomos;                                                                                             DIREITO CONSTITUCIONAL
+                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                       PODER EXECUTIVO - NORMAS GERAIS
+      REQUISITOS:                                    INVESTIDURA DO PRESIDENTE DA REPÚBLICA
+❑   FUNÇÃO EXECUTIVA:
+
+    ❑ Ser brasileiro nato;                                                                          ELEIÇÃO:
+    ❑ Possuir alistamento eleitoral;
+    ❑ Estar no pleno gozo dos direitos políticos;
+    ❑ Ter no mínimo 35 anos;                                                               ❑ ELEIÇÃO DO PRESIDENTE IMPORTARÁ
+                                                                                             A DO VICE-PRESIDENTE COM ELE
+        •   Comprovada na data da posse.                                                     REGISTRADO;
+
+    ❑ Não se enquadrar em nenhuma das inelegibilidades previstas na Constituição;
+    ❑ Possuir filiação partidária.
+                                                                                           ❑ SISTEMA MAJORITÁRIO    DE     DOIS
+                                                                                             TURNOS:
+❑ PRIMEIRO DOMINGO DE OUTUBRO (EM PRIMEIRO TURNO) E NO ÚLTIMO DOMINGO DE OUTUBRO
+  (EM SEGUNDO TURNO, SE HOUVER) DO ANO ANTERIOR AO DO TÉRMINO DO MANDATO
+  PRESIDENCIAL VIGENTE.                                                                    ❑ É eleito o candidato que
+                                                                                             obtiver a maioria absoluta
+❑ SEGUNDO TURNO:                                                                             dos votos válidos:
+
+    ❑ Irão concorrer os dois candidatos mais votados no primeiro turno.                    •   Votos brancos e nulos não
+                                                                                               são computados.
+    ❑ Empate do segundo lugar:
+        •   Será qualificado o mais idoso.
+    ❑ Eleito: Aquele que obtiver a maioria dos votos válidos.
+
+ ❑ MORTE, DESISTÊNCIA OU IMPEDIMENTO LEGAL DE CANDIDATO ANTES DO SEGUNDO TURNO:
+
+                 ❑ Convocar-se-á, dentre os remanescentes, o de maior votação:
+                 •   É chamado aquele que ficou na terceira posição no primeiro turno.                         DIREITO CONSTITUCIONAL
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+POSSE DO PR E VICE-PRESIDENTE                                         PODER EXECUTIVO - NORMAS GERAIS
+ •   SESSÃO CONJUNTA DO CONGRESSO NACIONAL;
+ •   EM 5 DE JANEIRO – NOVIDADE DE 2021 (A PARTIR DAS ELEIÇÕES DE 2026);
+ •   DECORRIDOS DEZ DIAS DA DATA FIXADA PARA A POSSE, O PRESIDENTE OU O VICE-PRESIDENTE NÃO TIVER ASSUMIDO O CARGO:
+
+                                                                                      ❑ CARGO SERÁ DECLARADO VAGO:
+ ❑ SITUAÇÕES POSSÍVEIS:
+                                                                                      • Salvo motivo de força maior.
+ • PR e Vice-Presidente não comparecem dentro de 10 dias
+   da data fixada para posse, SEM motivo de força maior:                              ❑ PR não comparece dentro de 10 dias da data fixada
+     ✓ Vacância dos dois cargos:                                                        para a posse, SEM motivo de força maior:
+
+     ✓ Novas eleições diretas.                                                        •   Vice assumirá o cargo de Presidente e exercerá o
+                                                                                          mandato inteiro sem Vice.
+
+ ❑ Vice-Presidente não comparece dentro de 10 dias da data fixada para a posse, SEM motivo de força maior:
+ •   Presidente irá exercer todo o mandato sem Vice
+
+ ❑ Presidente da República e Vice-Presidente não comparecem dentro de 10 dias da data fixada para posse, COM motivo de
+   força maior:
+ •   Posse será adiada.
+
+ ❑ Presidente da República não comparece dentro de 10 dias da data fixada para a posse, COM motivo de força maior:
+ •   Vice-Presidente toma posse e assume, interinamente, o cargo de Presidente até que cesse o motivo de força maior.
+
+ ❑ Vice-Presidente não comparece dentro de 10 dias da data fixada para a posse, COM motivo de força maior:
+ •   Presidente toma posse e governa sem Vice até que cesse o motivo de força maior que impediu o Vice de tomar posse.
+
+                                 ❑ 4 Anos;
+ ❑ MANDATO:
+                                 ❑ Permitida a reeleição para um único período subsequente.                                  DIREITO CONSTITUCIONAL
+                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                            PODER EXECUTIVO - NORMAS GERAIS
+
+
+                       IMPEDIMENTO E VACÂNCIA DO PRESIDENTE DA REPÚBLICA
+
+                                        ❑ AFASTAMENTO TEMPORÁRIO;
+        IMPEDIMENTO                     ❑ OCORRE A SUBSTITUIÇÃO;
+                                        ❑ SUBSTITUÍDO PELO VICE-PRESIDENTE.
+
+          VACÂNCIA                      ❑ AFASTAMENTO DEFINITIVO;
+                                        ❑ OCORRE A SUCESSÃO;
+❑ HIPÓTESES:                            ❑ VICE O SUCEDERÁ;
+
+•   Não comparecimento dentro de 10 dias da data fixada para a posse, exceto por motivo de força maior;
+•   Por morte, renúncia, perda ou suspensão dos direitos políticos e perda da nacionalidade brasileira;
+•   Condenação por crime de responsabilidade ou comum;
+•   Ausência do país por mais de 15 dias sem autorização do Congresso Nacional.
+
+                                                                                                          DIREITO CONSTITUCIONAL
+                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+                               PODER EXECUTIVO - NORMAS GERAIS
+IMPEDIMENTO OU VACÂNCIA DOS CARGOS DE                                         IMPEDIMENTO E VACÂNCIA DO PRESIDENTE DA
+          PRESIDENTE E VICE:                                                                 REPÚBLICA
+ ❑ PRESIDENTE DA CÂMARA DOS DEPUTADOS;                                             •   Linha sucessória;
+ ❑ PRESIDENTE DO SENADO FEDERAL;                                                   •   Exercem a Presidência temporariamente;
+ ❑ PRESIDENTE DO STF:                                                              •   Hipótese de dupla vacância:
+
+ ❑ Haverá convocação de novas eleições;
+ ❑ Vacância nos dois primeiros anos do mandato presidencial:
+     •   Eleições diretas;
+     •   90 dias depois de aberta a última vaga.
+ ❑ Vacância nos dois últimos anos do mandato presidencial:
+     •   Eleições indiretas;
+     •   30 dias depois da última vaga;
+     •   Eleição feita pelo Congresso Nacional.
+ ❑ Eleições para mandato-tampão:
+     •   Os eleitos dessa maneira deverão apenas completar o mandato dos seus antecessores.
+ ❑ Âmbito Estadual e Municipal:
+     •   STF: Reconhece a autonomia dos entes federativos para disciplinar os procedimentos no caso de “dupla
+         vacância”, não se aplicando o princípio da simetria.
+
+ ❑ OBS: APENAS O VICE-PRESIDENTE PODERÁ SUCEDER AO PRESIDENTE EM CARÁTER DEFINITIVO.                                            DIREITO CONSTITUCIONAL
+                                                                                               ESTRATÉGIA CONCURSOS
+
+
+---
+
+     ATRIBUIÇÕES:                               PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+❑ PREVISTAS NO ART. 84 DA CF - ROL NÃO TAXATIVO;                                        • Direção da Administração Federal:(função de Chefe da
+❑ PARA FINS DIDÁTICOS, DIVIDE-SE NOS SEGUINTES GRUPOS:                                    Administração Pública Federal):
+
+❑ Nomear e exonerar os Ministros de Estado;
+❑ Exercer, com o auxílio dos Ministros de Estado, a direção superior da administração federal;
+❑ Expedir decretos e regulamentos para fiel execução da lei.
+
+ •    Decretos executivos;
+ •    Não pode inovar o ordenamento jurídico, limita-se a facilitar a execução das leis;
+ •    Atos normativos secundários;
+ •    Exercício do poder regulamentar.
+
+❑ Dispor, mediante decreto, sobre:
+
+ •    Organização e funcionamento da administração federal, quando não                                 ✓ Decretos autônomos;
+      implicar aumento de despesa nem criação ou extinção de órgãos públicos;
+                                                                                                       ✓ Atos normativos primários;
+ •    Extinção de funções ou cargos públicos, quando vagos;
+                                                                                                       ✓ Extraem seu fundamento de validade
+❑ Conceder indulto e comutar penas, com audiência, se necessário, dos órgãos                             diretamente do texto constitucional.
+  instituídos em lei;
+❑ Nomear os Ministros do TCU:
+     • 1/3.
+
+❑ Nomear membros do Conselho da República;
+❑ Convocar e presidir o Conselho da República e o Conselho de Defesa Nacional;
+❑ Prover e extinguir os cargos públicos federais.                                                                                     DIREITO CONSTITUCIONAL
+                                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+          ATRIBUIÇÕES:                                PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+                                                       PARA FINS DIDÁTICOS, DIVIDE-SE NOS SEGUINTES GRUPOS:
+
+
+❑ RELAÇÃO COM O CONGRESSO NACIONAL E ATUAÇÃO NO PROCESSO LEGISLATIVO:
+
+
+•   Iniciar o processo legislativo, na forma e nos casos previstos na CF;
+
+•   Sancionar, promulgar e fazer publicar as leis;
+
+•   Vetar projetos de lei, total ou parcialmente;
+
+•   Remeter mensagem e plano de governo ao Congresso Nacional por ocasião da abertura da sessão legislativa,
+    expondo a situação do País e solicitando as providências que julgar necessárias;
+
+•   Prestar, anualmente, ao Congresso Nacional, dentro de 60 dias após a abertura da sessão legislativa, as contas
+    referentes ao exercício anterior;
+
+    ✓ OBS: Compete ao Congresso Nacional julgar as contas do Presidente da República, com parecer prévio
+        do TCU;
+
+•   Enviar ao Congresso Nacional o plano plurianual, o projeto de lei de diretrizes orçamentárias e as propostas
+    de orçamento previstos nesta Constituição;
+
+•   Editar medidas provisórias com força de lei;
+
+•   Propor ao Congresso Nacional a decretação do estado de calamidade pública de âmbito nacional nas
+    hipóteses previstas na CF.                                                                                       DIREITO CONSTITUCIONAL
+                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+       ATRIBUIÇÕES:                                PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+
+                                     PARA FINS DIDÁTICOS, DIVIDE-SE NOS SEGUINTES GRUPOS:
+
+
+❑ ATRIBUIÇÕES NO PLANO DAS RELAÇÕES INTERNACIONAIS (CHEFIA DE ESTADO):
+
+•   Manter relações com Estados estrangeiros e acreditar seus representantes diplomáticos;
+
+•   Celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional;
+
+    ✓ Assinar os tratados (consentimento provisório);
+
+    ✓ Ratificá-los (consentimento definitivo).
+
+•   Declarar guerra, no caso de agressão estrangeira, autorizado pelo Congresso Nacional ou referendado por ele, quando ocorrida
+    no intervalo das sessões legislativas, e, nas mesmas condições, decretar, total ou parcialmente, a mobilização nacional;
+
+•   Celebrar a paz, autorizado ou com o referendo do Congresso Nacional;
+
+•   Conferir condecorações e distinções honoríficas;
+
+•   Permitir, nos casos previstos em lei complementar, que forças estrangeiras transitem pelo território nacional ou nele
+    permaneçam temporariamente;
+
+
+                                                                                                                           DIREITO CONSTITUCIONAL
+                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                           PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+            PARA FINS DIDÁTICOS, DIVIDE-SE NOS SEGUINTES GRUPOS:                                                                 ATRIBUIÇÕES:
+
+•    ATRIBUIÇÕES CONCERNENTES À SEGURANÇA INTERNA, PRESERVAÇÃO DA ORDEM INSTITUCIONAL E DA HARMONIA DAS RELAÇÕES FEDERATIVAS:
+
+
+                                                                                          ❑ Nomear, após aprovação pelo Senado Federal:
+❑ Decretar o estado de defesa e o estado de sítio;
+                                                                                          •   Ministros do STF e dos Tribunais Superiores;
+❑ Decretar e executar a intervenção federal;
+                                                                                          •   Governadores de Territórios;
+❑ Exercer o comando supremo das Forças Armadas,
+  nomear os Comandantes da Marinha, do Exército e da                                      •   Procurador-Geral da República;
+  Aeronáutica, promover seus oficiais-generais e nomeá-                                   •   Presidente e os diretores do banco central;
+  los para os cargos que lhes são privativos;
+                                                                                          •   Outros servidores, quando determinado em lei.
+•    NOMEAÇÃO DE JUÍZES DO STF E DOS TRIBUNAIS SUPERIORES:                                ❑ Nomear os magistrados, nos casos previstos nesta
+                                                                                            Constituição, e o Advogado-Geral da União;
+
+
+    TAIS ATRIBUIÇÕES SÃO PRIVATIVAS, VIA DE REGRA, INDELEGÁVEIS
+
+                                                                      ❑ Editar decretos autônomos;
+                                                                      ❑ Conceder indulto e comutar penas, com audiência, se necessário, dos
+      •   EXCEÇÕES: COMPETÊNCIAS DELEGÁVEIS.
+                                                                        órgãos instituídos em lei;
+                                                                      ❑ Prover cargos públicos.
+
+                                                                      ❑ Ministros de Estado;
+      •   PODERÁ DELEGAR AOS:                                         ❑ Procurador-Geral da República;
+                                                                      ❑ Advogado-Geral da União.                                             DIREITO CONSTITUCIONAL
+                                                                                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+                             PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+
+                         NÃO POSSUI IMUNIDADE MATERIAL                                                                   IMUNIDADES
+•   PODE SER RESPONSABILIZADO CIVIL E PENALMENTE POR SUAS PALAVRAS E OPINIÕES.
+
+                                                                                            POSSUI APENAS IMUNIDADES FORMAIS
+
+    •   PRERROGATIVAS RELACIONADAS AO PROCESSO;
+
+    •   ESPÉCIES:
+
+              ❑ CLÁUSULA DE IRRESPONSABILIDADE PENAL RELATIVA:                                           • Atos estranhos ao exercício da função:
+              •     Durante o seu mandato, o Presidente não pode ser                                     ✓ Crimes que foram praticados antes do
+                    responsabilizado por atos estranhos ao exercício da função.                            início do mandato presidencial.
+
+              •     Somente se aplica às infrações de natureza penal.
+
+              ❑ VEDAÇÃO À PRISÃO CAUTELAR:
+              •     O PR somente estará sujeito à prisão após sentença condenatória, nas infrações penais comuns;
+              •     Não são admitidas prisões cautelares;
+              •     STF: Imunidade exclusiva do PR, não pode ser estendida aos governadores dos Estados.
+
+              ❑ AUTORIZAÇÃO DA CÂMARA DOS DEPUTADOS:
+              •     Prévio juízo de admissibilidade político pela Câmara dos Deputados para que o PR seja
+                    processado e julgado. (crimes comuns ou de responsabilidade);
+              •     2/3 Dos membros da Câmara dos Deputados.                                                                            DIREITO CONSTITUCIONAL
+                                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                               PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+
+                               RESPONSABILIDADE                                                           CRIMES COMUNS:
+
+•   INFRAÇÕES PENAIS COMUNS;
+•   PROCESSO E JULGAMENTO OCORREM PERANTE O STF, APÓS AUTORIZADO PELA CÂMARA DOS DEPUTADOS;
+
+•   AUTORIZADO PELA CÂMARA:
+
+
+       ❑ STF pode aceitar ou rejeitar a denúncia:
+           •   Recebimento da denúncia é ato discricionário.
+
+
+                                                                     • Retorno às funções:
+       ❑ Denúncia aceita:
+                                                                     ✓ Absolvição;
+       • Presidente ficará suspenso das suas funções.
+                                                                     ✓ Ultrapassados 180 dias do afastamento sem conclusão do processo.
+
+
+       ❑ Condenação – Penalidades:
+           •   Direito políticos suspensos;
+           •   Perda do mandato presidencial.
+
+
+•   NÃO SE ADMITE QUE O STF ANALISE QUALQUER QUESTÃO JURÍDICA ACERCA DA DENÚNCIA ANTES DO JUÍZO DE ADMISSIBILIDADE
+    POLÍTICO DA CÂMARA DOS DEPUTADOS.
+
+                                                                                                                              DIREITO CONSTITUCIONAL
+                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                  PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+    CRIMES DE RESPONSABILIDADE:                                                            RESPONSABILIDADE
+•   INFRAÇÕES POLÍTICO-ADMINISTRATIVAS COMETIDAS NO EXERCÍCIO DO CARGO
+•   PROCESSO E JULGAMENTO OCORREM PERANTE O SENADO FEDERAL, APÓS AUTORIZADO PELA CÂMARA DOS DEPUTADOS
+•   AUTORIZADO PELA CÂMARA:
+
+
+❑ O PROCESSO SERÁ REMETIDO AO SENADO FEDERAL;
+                                                                                                              • RETORNO ÀS FUNÇÕES:
+❑ NO SENADO, HAVERÁ NOVO JUÍZO DE ADMISSIBILIDADE DA DENÚNCIA:
+                                                                                                              ✓    Absolvição;
+•   Por maioria simples
+                                                                                                              ✓    Ultrapassados 180 dias
+•   Possui discricionariedade para decidir instaurar ou não o processo
+                                                                                                                  do   afastamento    sem
+•   Senado Federal não está vinculado ao juízo de admissibilidade da Câmara dos Deputados
+                                                                                                                  conclusão do processo.
+•   Após a instauração do processo pelo Senado Federal, o Presidente ficará suspenso de suas funções
+
+
+•   CONDENAÇÃO:
+
+
+❑ DEPENDE DO VOTO NOMINAL (ABERTO) DE 2/3 DOS SEUS MEMBROS;
+❑ STF:
+• Não é cabível recurso contra o mérito da decisão do Senado Federal no processo de “impeachment”;
+• No processo constitucional de “impeachment”, devem ser assegurados os princípios do devido processo legal.
+❑ PENALIDADES:
+•   Perda do cargo;
+•   Inabilitação, por 8 anos, para o exercício de função pública.                                                           DIREITO CONSTITUCIONAL
+                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                        PODER EXECUTIVO – PRESIDENTE DA REPÚBLICA
+                                                     RESPONSABILIDADE
+
+•   CRIMES DE RESPONSABILIDADE:
+
+❑ ATOS QUE CONFIGURAM CRIMES DE RESPONSABILIDADE:
+•   Previstos genericamente no art. 85 da CF – lista exemplificativa
+•   Atos que atentem contra:
+
+                                                ✓ A CF
+                                                ✓ A existência da União;
+                                                ✓ O livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e
+                                                  dos Poderes constitucionais das unidades da Federação;
+                                                ✓ O exercício dos direitos políticos, individuais e sociais;
+                                                ✓ A segurança interna do País;
+•   Regulamentação: Lei especial,
+                                                ✓ A probidade na administração;
+    competência privativa da União
+                                                ✓ A lei orçamentária;
+✓ Lei nº 1.079/50.                              ✓ O cumprimento das leis e das decisões judiciais.
+
+•   CUIDADO:                                                   ❑ Crimes Comuns - O Presidente ficará suspenso de suas funções desde o
+                                                                 recebimento da denúncia ou queixa-crime pelo STF;
+                                                               ❑ Crimes de Responsabilidade - o Presidente ficará suspenso de suas
+•   STF – LINHA SUCESSÓRIA:
+                                                                 funções desde a instauração do processo pelo Senado Federal.
+
+❑ Aqueles que forem réus em processo-criminal não poderão, em hipótese alguma, exercer o ofício
+  de Presidente da República.
+❑ O fato de ser réu em processo criminal não impede que o indivíduo exerça a Presidência da
+  Câmara dos Deputados, do Senado Federal ou do STF.                                                                    DIREITO CONSTITUCIONAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                          PODER EXECUTIVO
+
+
+                                                 VICE-PRESIDENTE
+
+•   SUBSTITUI O PRESIDENTE EM SEUS IMPEDIMENTOS;
+
+
+•   SUCEDE, NO CASO DE VACÂNCIA DO CARGO;
+
+
+•   ELEIÇÃO DO PRESIDENTE IMPORTARÁ A DO VICE-PRESIDENTE COM ELE REGISTRADO;
+
+                                           ❑ PRÓPRIAS OU TÍPICAS:
+                                                •     Substituição;
+•   FUNÇÕES:                                    •     Sucessão;
+                                                •     Participação nos Conselhos da República e de Defesa Nacional;
+                                                •     Outras estabelecidas pela lei complementar;
+
+
+                                           ❑ IMPRÓPRIAS:
+                                                •     Auxílio ao Presidente da República sempre que por ele convocado para
+                                                      missões especiais.
+
+
+                                                                                                                      DIREITO CONSTITUCIONAL
+                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               PODER EXECUTIVO
+                                               MINISTROS DO ESTADO
+
+•   ASSESSORES DIRETOS DO PRESIDENTE DA REPÚBLICA;
+•   SÃO LIVREMENTE NOMEÁVEIS E EXONERÁVEIS PELO PRESIDENTE DA REPÚBLICA;
+•   ESCOLHIDOS DENTRE BRASILEIROS NATOS OU NATURALIZADOS, MAIORES DE 21 E NO EXERCÍCIO DOS DIREITOS POLÍTICOS.
+
+❑ Ministro da Defesa: brasileiro nato;
+
+•   ATRIBUIÇÕES: (ROL EXEMPLIFICATIVO).
+
+
+❑ Exercer a orientação, coordenação e supervisão dos órgãos e entidades da administração federal na área de sua
+  competência e referendar os atos e decretos assinados pelo Presidente da República;
+❑ Expedir instruções para a execução das leis, decretos e regulamentos;
+❑ Apresentar ao Presidente da República relatório anual de sua gestão no Ministério;
+❑ Praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República.
+
+
+•   RESPONSABILIZAÇÃO:
+
+
+❑ Regra: Processados e julgados pelo STF nos crimes comuns e nos crimes de responsabilidade.
+
+❑ Exceção: Crime de responsabilidade conexo com o do Presidente – processado e julgado pelo Senado Federal.
+
+                                                                                                                    DIREITO CONSTITUCIONAL
+                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                PODER EXECUTIVO
+                          CONSELHO DA REPÚBLICA E CONSELHO DE DEFESA NACIONAL
+
+                      ÓRGÃOS COLEGIADOS, DE NATUREZA CONSULTIVA
+
+SE MANIFESTAM, QUANDO CONSULTADOS PELO PRESIDENTE DA REPÚBLICA, POR MEIO DE PARECER
+
+          •   PARECER – NATUREZA OPINATIVA.
+
+                                   CONSELHO DA REPÚBLICA
+
+          •   COMPETÊNCIA: SE PRONUNCIAR SOBRE AS SEGUINTES QUESTÕES:
+
+          ❑ Intervenção federal, estado de defesa e estado de sítio;
+          ❑ Questões relevantes para a estabilidade das instituições democráticas.
+
+          •   MEMBROS:
+                                                                                       • Com mais de 35 anos de idade;
+
+          ❑ Vice-Presidente da República;                                              • 2 Nomeados pelo Presidente da República;
+
+          ❑ Presidente da Câmara dos Deputados;                                        • 2 Eleitos pelo Senado Federal;
+                                                                                       • 2 Eleitos pela Câmara dos Deputados;
+          ❑ Presidente do Senado Federal;
+                                                                                       • Todos com mandato de três anos, vedada a
+          ❑ Líderes da maioria e da minoria na Câmara dos Deputados;
+                                                                                         recondução.
+          ❑ Líderes da maioria e da minoria no Senado Federal;
+          ❑ Ministro da Justiça;
+          ❑ Seis cidadãos brasileiros natos:                                                                    DIREITO CONSTITUCIONAL
+                                                                               ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                     PODER EXECUTIVO
+       CONSELHO DA REPÚBLICA E CONSELHO                                                     CONSELHO DE DEFESA NACIONAL
+             DE DEFESA NACIONAL
+
+•   ÓRGÃO DE CONSULTA NOS ASSUNTOS RELACIONADOS COM A SOBERANIA NACIONAL E A DEFESA DO ESTADO DEMOCRÁTICO;
+
+•   COMPETÊNCIAS:
+
+          ❑ Opinar nas hipóteses de declaração de guerra e de celebração da paz
+          ❑ Opinar sobre a decretação do estado de defesa, do estado de sítio e da intervenção federal;
+          ❑ Propor os critérios e condições de utilização de áreas indispensáveis à segurança do território nacional e opinar
+            sobre seu efetivo uso, especialmente na faixa de fronteira e nas relacionadas com a preservação e a exploração
+            dos recursos naturais de qualquer tipo;
+          ❑ Estudar, propor e acompanhar o desenvolvimento de iniciativas necessárias a garantir a independência nacional e
+            a defesa do Estado democrático
+
+•   MEMBROS:
+
+          ❑ Vice-Presidente da República;
+          ❑ Presidente da Câmara dos Deputados;
+          ❑ Presidente do Senado Federal;
+          ❑ Ministro da Justiça;
+          ❑ Ministro de Estado da Defesa;
+          ❑ Ministro das Relações Exteriores;
+          ❑ Ministro do Planejamento;
+                                                                                                                          DIREITO CONSTITUCIONAL
+          ❑ Comandantes da Marinha, do Exército e da Aeronáutica.
+                                                                                         ESTRATÉGIA CONCURSOS
+
+
+---

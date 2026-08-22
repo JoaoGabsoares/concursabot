@@ -1,0 +1,3349 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 09_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Legislação Aduaneira
+artigos_citados:
+- art. 44
+- art. 642
+- art. 740
+- art. 803
+- artigo 14
+- artigo 37
+- artigo 644
+- artigo 740
+---
+
+# Legislação Aduaneira
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                                         Legislação Aduaneira
+
+                                                         Autor:
+                                     Áulus Dias Warzeé Mattos
+
+                                             30 de Julho de 2025
+
+---
+
+      Áulus Dias Warzeé Mattos
+      Aula 08
+
+                                                                                     Índice
+1) Aula 08
+
+                Receita Federal (Analista Tributário) Legislação Aduaneira                                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                           65
+
+                                                             
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 08
+
+Sumário
+
+1 - Bagagem 
+
+   1.1 - Introdução 
+
+   1.2 - Conceito de bagagem 
+
+   1.3 - Despacho aduaneiro da bagagem de viajantes 
+
+      1.3.1 - Bagagem acompanhada 
+
+      1.3.2 - Bagagem desacompanhada 
+
+   1.4 - Tratamento tributário da bagagem de viajantes na importação 
+
+      1.4.1 - Bagagem acompanhada 
+
+      1.4.2 - Bagagem desacompanhada 
+
+      1.4.3 - Bagagem de tripulantes 
+
+   1.5 - Tratamento tributário da bagagem na exportação 
+
+   1.6 - Outras disposições 
+
+2 - Abandono de Mercadorias 
+
+   2.1 - Declaração de abandono 
+
+   2.2 - Consequências do abandono de mercadorias 
+
+3 - Extravio e Avaria de Mercadorias 
+
+4 - Atividades Relacionadas aos Serviços Aduaneiros 
+
+   4.1 - Despachante Aduaneiro 
+
+   4.2 - Operador de Transporte Multimodal (OTM) 
+
+   4.3 - Agentes de Unitização e Desunitização 
+
+   4.4 - Perito / Assistente Técnico 
+                                                                                                                                                1
+                                                                                                                                              62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                          3
+           www.estrategiaconcursos.com.br                                                                                                     65
+
+                                              
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 08
+
+5 - Representação Fiscal para Fins Penais 
+
+6 - Destinação de Mercadorias 
+
+7 - Mercadorias provenientes de acidentes 
+
+8 - Mercadorias presumidas idênticas 
+
+9 - Tráfego Postal
+
+   9.1 - Introdução 
+
+   9.2 - Despacho aduaneiro de Remessa Internacional 
+
+   9.3 - Importação via Remessa Internacional 
+
+   9.4 - Exportação via remessa internacional 
+
+10 - Tráfego de Cabotagem 
+
+11 - Controle Administrativo Específico 
+
+   11.1 - Introdução 
+
+   11.2 - Controle de Processos e Declarações 
+
+   11.3 - FUNDAF 
+
+Lista de Questões 
+
+   1 – Bagagem 
+
+   2 – Abandono de Mercadorias 
+
+   3 – Extravio e Avaria de Mercadorias 
+
+   4 - Atividades Relacionadas aos Serviços Aduaneiros
+
+   5 – Representação Fiscal para Fins Penais 
+
+   6 – Destinação de Mercadorias 
+
+   7 - Mercadorias provenientes de acidentes 
+
+                                                                                                                                               2
+                                                                                                                                             62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                         4
+           www.estrategiaconcursos.com.br                                                                                                    65
+
+                                              
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 08
+
+   8 - Mercadorias presumidas idênticas 
+
+   9 - Tráfego postal 
+
+   10 - Tráfego de cabotagem 
+
+   11 - Controle Administrativo Específico 
+
+Gabarito 
+
+Questões Comentadas 
+
+   1 – Bagagem 
+
+   2 – Abandono de Mercadorias 
+
+   3 – Extravio e Avaria de Mercadorias 
+
+   4 - Atividades Relacionadas aos Serviços Aduaneiros
+
+   5 – Representação Fiscal para Fins Penais 
+
+   6 – Destinação de Mercadorias 
+
+   7 - Mercadorias provenientes de acidentes 
+
+   8 - Mercadorias presumidas idênticas 
+
+   9 - Tráfego postal 
+
+   10 - Tráfego de cabotagem 
+
+   11 - Controle Administrativo Específico 
+
+                                                                                                                                                   3
+                                                                                                                                                 62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                             5
+           www.estrategiaconcursos.com.br                                                                                                        65
+
+                                               
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+                                             1 - BAGAGEM
+
+1.1 - Introdução
+
+A Decisão CMC nº 53/2008, adota o Regime Aduaneiro de Bagagem no MERCOSUL, a fim de
+estabelecer procedimentos harmonizados para o tratamento aduaneiro da bagagem de viajantes.
+Com essa harmonização, fica reduzida a discricionariedade de cada país do MERCOSUL para fixar
+normas sobre bagagem, havendo, todavia, espaço para regulamentação de certos dispositivos no
+âmbito interno.
+
+A Decisão CMC nº 53/2008 passou a vigorar no âmbito do MERCOSUL em 2019.
+
+
+1.2 - Conceito de bagagem
+
+Bagagem são os bens novos ou usados que um viajante, em compatibilidade com as circunstâncias
+de sua viagem, puder destinar para seu uso ou consumo pessoal, bem como para presentear,
+sempre que, pela sua quantidade, natureza ou variedade, não permitirem presumir importação
+com fins comerciais ou industriais.
+
+Bens de uso ou consumo pessoal são os artigos de vestuário, higiene e demais bens de caráter
+manifestamente pessoal, em natureza e quantidade compatíveis com as circunstâncias da viagem.
+
+Nos termos da IN RFB nº 1.059/2010, bens de caráter manifestamente pessoal são os bens que o
+viajante possa necessitar para uso próprio, considerando as circunstâncias da viagem e a sua
+condição física, bem como os bens portáteis destinados a atividades profissionais a serem
+executadas durante a viagem, excluídos máquinas, aparelhos e outros objetos que requeiram
+alguma instalação para seu uso e máquinas filmadoras e computadores pessoais.
+
+Os bens de caráter manifestamente pessoal compreendem, entre outros, uma máquina
+fotográfica, um relógio de pulso e um telefone celular usados que o viajante porte consigo, desde
+que em compatibilidade com as circunstâncias da viagem. Cabe ao viajante a comprovação da
+compatibilidade desses bens com as circunstâncias da viagem, tendo em vista, entre outras
+variáveis, o tempo de permanência no exterior.
+
+Existem dois tipos de bagagem: i) a bagagem acompanhada e; ii) a bagagem desacompanhada.
+Bagagem acompanhada é a que o viajante trouxer consigo, no mesmo meio de transporte em
+que viaje, desde que não amparada por conhecimento de carga ou documento equivalente.
+Bagagem desacompanhada é a que chegar ao País, amparada por conhecimento de carga ou
+documento equivalente.
+
+                                                                                               4
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             6
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Ficam excluídos do conceito de bagagem os bens importados com fins comerciais ou industriais.
+O que permite presumir importação com finalidade comercial ou industrial são os seguintes
+critérios: quantidade, natureza e variedade dos bens.
+
+O Regulamento Aduaneiro relaciona mais alguns bens que ficam excluídos do conceito de
+bagagem. Esses bens poderão ingressar no Brasil ao amparo do regime de admissão temporária,
+sempre que o viajante comprove sua residência permanente em outro país. São eles:
+
+            a) veículos automotores em geral, as motocicletas, as motonetas, as bicicletas com
+               motor, os motores para embarcação, as motos aquáticas e similares, as casas
+               rodantes, as aeronaves e as embarcações de todo tipo;
+
+            b) as partes e peças dos bens acima relacionados, exceto os bens unitários, de valor
+               inferior aos limites de isenção, relacionados em listas específicas que poderão ser
+               elaboradas pela Secretaria da Receita Federal do Brasil.
+
+
+1.3 - Despacho aduaneiro da bagagem de viajantes
+
+1.3.1 - Bagagem acompanhada
+
+Segundo o art. 156, do R/A, o viajante que ingressar no País, inclusive o proveniente de outro país
+integrante do Mercosul, deverá declarar a sua bagagem. A declaração do conteúdo da bagagem
+será feita mediante a entrega à autoridade aduaneira da Declaração Eletrônica de Bens de
+Viajantes (e-DBV).
+
+Temos dois tipos de viajantes. Há o brasileiro que viajou ao exterior e, agora, retorna ao País, e o
+estrangeiro que chega ao Brasil. São o viajante residente e o viajante não-residente.
+
+No caso de viajante não-residente no País, a declaração apresentada pelo viajante servirá de base
+para o requerimento de concessão do regime aduaneiro especial de admissão temporária,
+devendo o viajante manter a documentação fornecida pela fiscalização aduaneira até a extinção
+da aplicação do regime, com o retorno ao exterior.
+
+Ressalte-se que, nesse caso, somente deverão ser especificados na e-DBV bens de valor global
+superior a US$ 3,000.00 (três mil dólares dos Estados Unidos da América) ou o equivalente em
+outra moeda.
+
+O viajante residente, ao retornar ao Brasil, também precisa apresentar a Declaração de Bens de
+Viajante (e-DBV). Aos bens que ele traz do exterior, não será concedida a admissão temporária.
+Ao contrário, estes serão objeto de nacionalização. Nesse contexto, cresce a relevância do
+tratamento tributário aplicável à bagagem, sobre o qual falaremos no tópico 1.4.
+
+                                                                                                  5
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                7
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Tratemos, agora, de disposições comuns ao viajante residente e ao viajante não-residente.
+
+Ao chegar ao país, o viajante (residente ou não-residente) terá duas opções: i) dirigir-se ao canal
+de bens a declarar; ou ii) optar pelo canal “nada a declarar”.
+
+        Art. 6º Ao ingressar no País, o viajante procedente do exterior deverá dirigir-se ao
+        canal "bens a declarar" quando trouxer:
+
+        I - animais, vegetais, ou suas partes, produtos de origem animal ou vegetal,
+        inclusive alimentos, sementes, produtos veterinários ou agrotóxicos;
+
+        II - produtos médicos, produtos para diagnóstico in vitro, produtos para limpeza,
+        inclusive os equipamentos e suas partes, instrumentos e materiais, os destinados
+        à estética ou ao uso odontológico, ou materiais biológicos;
+
+        III - medicamentos ou alimentos de qualquer tipo; inclusive vitaminas e
+        suplementos alimentares, excluindo os de uso pessoal;
+
+        IV - armas e munições;
+
+        V - bens destinados à pessoa jurídica, nos termos do § 2º do art. 44, ou outros
+        bens que não sejam passíveis de enquadramento como bagagem, nos termos do
+        art. 2º;
+
+        VI - bens que devam ser submetidos a armazenamento para posterior despacho
+        no regime comum de importação, na hipótese referida no inciso II do § 1º do art.
+        4o;
+
+        VII - bens sujeitos ao regime aduaneiro especial de admissão temporária, nos
+        termos do art. 5º, quando sua discriminação na e-DBV for obrigatória;
+
+        VIII - bens cujo valor global ultrapasse o limite de isenção para a via de transporte,
+        de acordo com o disposto no art. 33;
+
+        IX - bens que excederem limite quantitativo para fruição da isenção, de acordo
+        com o disposto no art. 33; ou
+
+        X - valores em espécie em montante superior a US$ 10.000,00 (dez mil dólares
+        dos Estados Unidos da América) ou seu equivalente em outra moeda.
+
+Atualmente, estão dispensados de apresentar a Declaração de Bens de Viajantes (e-DBV) os
+viajantes que não estiverem obrigados a dirigir-se ao canal “bens a declarar”.
+                                                                                                  6
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               8
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+O despacho aduaneiro de importação de bens trazidos pelo viajante e que não sejam passíveis de
+enquadramento como bagagem será efetuado com observância da legislação referente à
+importação comum ou, no caso de viajante não-residente no País, à admissão temporária.
+
+Segundo o Regulamento Aduaneiro, o viajante não poderá declarar como própria bagagem de
+terceiro, ou utilizar o tratamento de bagagem para o ingresso de bens que não lhe pertençam.
+Excetuam essa regra os bens de uso ou consumo pessoal de residente no País, falecido no exterior,
+e cujo óbito seja comprovado por documentação idônea.
+
+1.3.2 - Bagagem desacompanhada
+
+A bagagem desacompanhada, como vimos, é aquela que tem amparo em um conhecimento de
+carga. Ela deverá chegar ao Brasil dentro dos 3 meses anteriores ou até os 6 meses posteriores à
+chegada do viajante e, além disso, provir do país ou dos países de estada ou de procedência do
+viajante.
+
+Em todos os casos, a bagagem desacompanhada somente será desembaraçada depois da
+chegada do viajante.
+
+A bagagem desacompanhada deverá ser declarada por escrito, sendo seu despacho de
+importação realizado com base em Declaração Simplificada de Importação (DSI), registrada no
+SISCOMEX.
+
+
+1.4 - Tratamento tributário da bagagem de viajantes na
+importação
+
+1.4.1 - Bagagem acompanhada
+
+O art. 33 da IN nº 1.059/2010 define precisamente como funciona a isenção sobre a bagagem
+acompanhada de viajante procedente do exterior.
+
+De acordo com o dispositivo citado, a isenção abrange livros, folhetos e periódicos; bens de uso
+ou consumo pessoal; e outros bens, observados limites quantitativos e limites de valor global.
+
+O viajante fará jus à isenção relativa a bens cujo valor global não exceda US$ 1.000,00, quando
+ingressar no território nacional pelas vias aérea ou marítima, e de US$ 500,00, quando ingressar
+pelas vias terrestre, fluvial ou lacustre.
+
+Para a fruição da isenção devem ser observados, ainda, os limites quantitativos relacionados no
+art. 33, § 1º. Como exemplo, não poderão ser importados com isenção mais de 12 litros de bebidas
+
+
+                                                                                               7
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             9
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+alcóolicas, ainda que seu preço não exceda o valor global da isenção. Vale destacar que a isenção
+é individual e intransferível.
+
+Além disso, o direito à isenção relativa aos bens relacionados no art.33, inciso III, somente poderá
+ser exercido uma vez a cada intervalo de 1 (um) mês. A bagagem acompanhada de viajante que
+já tiver usufruído a isenção de tributos 1 (uma) vez dentro do período de 1 (um) mês, irá se sujeitar
+ao Regime de Tributação Especial.
+
+O Regime de Tributação Especial fica caracterizado pela incidência tão somente do Imposto de
+Importação, calculado pela alíquota de 50% sobre o valor tributável dos bens, e isenção de IPI,
+PIS/PASEP-Importação e COFINS-Importação.
+
+Aos bens compreendidos no conceito de bagagem, no montante que exceder o limite de valor
+global de isenção, também será aplicado o Regime de Tributação Especial.
+
+Aos bens que excederem os limites quantitativos, por outro lado, será aplicado o Regime de
+Tributação Comum. O Regime de Tributação Comum também será aplicado aos bens que não
+possam ser enquadrados como bagagem.
+
+1.4.2 - Bagagem desacompanhada
+
+Como vimos, a bagagem desacompanhada deverá chegar ao Brasil dentro dos 3 meses anteriores
+ou até os 6 meses posteriores à chegada do viajante e, além disso, provir do país ou dos países
+de estada ou de procedência do viajante. Caso esses requisitos sejam cumpridos, ela receberá
+isenção tributária relativamente a: i) bens de uso e consumo pessoal usados; ii) livros e periódicos.
+
+E se os requisitos não forem cumpridos? Nesse caso, será aplicado o Regime de Importação
+Comum, nos termos do que prevê o art. 44, inciso III, da IN nº 1.059/2010.
+
+Pode acontecer, todavia, de o não cumprimento dos requisitos ter ocorrido em virtude de
+circunstâncias alheias à vontade do viajante. Caso seja esse o fator que levou ao descumprimento
+dos requisitos, será concedida a isenção.
+
+Notem que, diversamente do que ocorre com a bagagem acompanhada, na bagagem
+desacompanhada não há um limite de isenção para os “outros bens”. Esses “outros bens”,
+quando ingressam no País como bagagem desacompanhada, desde que cumpridos os requisitos
+aplicáveis a esse tipo de bagagem, submetem-se ao Regime de Tributação Especial.
+
+                                                                                                   8
+                                                                                                  62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                10
+        www.estrategiaconcursos.com.br                                                            65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+1.4.3 - Bagagem de tripulantes
+
+A bagagem dos tripulantes beneficia-se da isenção apenas em relação a bens de uso ou consumo
+pessoal, livros e periódicos. Assim, o tripulante não se beneficia dos limites de isenção aplicável a
+“outros bens”.
+
+
+1.5 - Tratamento tributário da bagagem na exportação
+
+Os bens integrantes de bagagem, acompanhada ou desacompanhada, de viajante que se destine
+ao exterior estão isentos de tributos. Será dado o tratamento de bagagem a outros bens
+adquiridos no País, levados pessoalmente pelo viajante para o exterior, até o limite de US$
+2,000.00 ou o equivalente em outra moeda. Nesse caso, o despacho de exportação será realizado
+com base em nota fiscal de aquisição.
+
+Aos bens que não possam ser enquadrados como bagagem ou que superem o limite de US$
+2.000,00 será aplicado o regime comum de exportação, ou, no caso de viajante residente no País,
+o regime de exportação temporária.
+
+
+1.6 - Outras disposições
+
+O art. 162 do R/A prevê isenção tributária para duas pessoas diferentes: i) brasileiro/estrangeiro
+residente no País, que tiver permanecido no exterior por período superior a um ano; e ii)
+estrangeiro que ingressar no Brasil para residir de forma permanente. Essas pessoas farão jus à
+isenção relativa a móveis e outros bens de uso doméstico e ferramentas, máquinas, aparelhos e
+instrumentos necessários ao exercício de sua profissão, arte ou ofício.
+
+O art. 163 do R/A prevê a mesma isenção para os cientistas, engenheiros e técnicos, brasileiros
+ou estrangeiros, radicados no exterior. Estas pessoas não precisarão observar o prazo mínimo de
+permanência no exterior para fazer jus à isenção, desde que cumpridas certas condições elencadas
+na norma.
+
+(Questão Inédita) A bagagem desacompanhada está isenta do pagamento do imposto,
+relativamente a bens de uso ou consumo pessoal; livros, folhetos e periódicos; e outros bens,
+
+
+                                                                                                   9
+                                                                                                  62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                11
+        www.estrategiaconcursos.com.br                                                            65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+observados os limites, quantitativos ou de valor global, os termos e as condições estabelecidos
+em ato do Ministério da Fazenda.
+
+Comentários
+
+A bagagem desacompanhada receberá isenção tributária relativamente a bens de uso e consumo
+pessoal usado e a livros e periódicos. Não se aplica a isenção a “outros bens” constantes da
+bagagem desacompanhada.
+
+Gabarito: errada
+
+
+                        2 - ABANDONO DE MERCADORIAS
+
+2.1 - Declaração de abandono
+
+Uma mercadoria é considerada abandonada nas hipóteses previstas pelo art. 642 do Regulamento
+Aduaneiro.
+
+            I.    O inciso I dispõe que será considerada abandonada a mercadoria que permanecer
+                  em recinto alfandegado sem que seu despacho seja iniciado dentro de 90 dias da
+                  descarga ou dentro de 90 dias do recebimento de aviso de remessa postal
+                  internacional sujeita ao regime de importação comum.
+
+No primeiro caso, a mercadoria chegou ao Brasil e foi descarregada em um porto alfandegado ou
+aeroporto alfandegado. No entanto, passados 90 dias da descarga, o importador não deu início
+ao despacho de importação.
+
+No segundo caso, o destinatário de remessa postal internacional não deu início ao despacho de
+importação dentro de 90 dias do aviso de recebimento.
+
+            II.   O inciso II, por sua vez, diz respeito a três situações em que o despacho de
+                  importação dever ser iniciado dentro de 45 dias, sob pena de a mercadoria ser
+                  considerada abandonada.
+
+Na primeira situação (alínea “a”), a mercadoria se considerada abandonada 45 dias após o
+encerramento do prazo de permanência em regime de entreposto aduaneiro.
+
+Na segunda situação (alínea “b”), a mercadoria se considera abandonada 45 dias após esgotar-se
+o prazo de permanência em recinto alfandegado de zona secundária. O prazo de permanência
+das mercadorias em recinto alfandegado de zona secundária é de 75 dias.
+                                                                                             10
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           12
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Na terceira situação (alínea “c”), a bagagem acompanhada ou desacompanhada chegou ao Brasil
+e, após 45 dias de sua chegada, não foi iniciado o despacho de importação.
+
+            III.   O inciso III faz referência ao art. 640, do R/A. Trata-se de situação em que, ocorrido
+                   naufrágio ou outro acidente similar, a mercadoria transportada no veículo é
+                   encaminhada à RFB. Quando isso ocorrer, o titular da unidade da RFB notificará o
+                   interessado para, no prazo de 60 dias, promover o despacho da mercadoria, sob
+                   pena de ser considerada abandonada.
+
+            IV.    O parágrafo 1º do art. 642 faz se refere a mais três situações de abandono de
+                   mercadorias.
+
+Na primeira situação (inciso I, alínea “a”), a mercadoria será considerada abandonada caso o
+despacho de importação não seja iniciado ou retomado no prazo de 30 dias da ciência da
+relevação da pena de perdimento.
+
+Na segunda situação (inciso I, alínea “b”), a mercadoria será considerada abandonada caso o
+despacho de importação não seja iniciado ou retomado no prazo de 30 dias do reconhecimento
+do direito de iniciar ou de retomar o despacho.
+
+Na terceira situação (inciso I, alínea “c”), a mercadoria será considerada abandonada se o
+despacho de importação for interrompido durante 60 dias, por ação ou omissão do importador.
+
+Há, ainda, mais algumas situações de abandono de mercadorias previstas no artigo 644, do R/A.
+Observação: essas hipóteses do art. 644, R/A não configuram dano ao erário, pelo que se sujeitam
+tão comente à declaração de abandono por parte da autoridade aduaneira, conforme esclarece o
+§4º, do mesmo artigo 644.
+
+
+2.2 - Consequências do abandono de mercadorias
+
+Quando tiverem sido decorridos os prazos previstos no art. 642 e art. 644, sem que o importador
+tenha iniciado o despacho de importação, as mercadorias serão consideradas abandonadas.
+Nesse caso, o depositário fará uma comunicação dentro de 5 (cinco) dias à unidade da RFB com
+jurisdição sobre o recinto alfandegado.
+
+Caso a comunicação do depositário tenha sido feita dentro do prazo, o Regulamento Aduaneiro
+prevê que a RFB efetuará o pagamento, ao depositário, da tarifa de armazenagem até a data em
+que retirar a mercadoria.
+
+                                                                                                      11
+                                                                                                      62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                    13
+        www.estrategiaconcursos.com.br                                                                65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Se a comunicação do depositário não tiver sido feita dentro do prazo estipulado, o Regulamento
+Aduaneiro prevê que a RFB somente pagará a taxa de armazenagem até o termino do referido
+prazo, mesmo que a mercadoria venha a ser posteriormente alienada.
+
+Vale destacar, no entanto, que o pagamento dessas tarifas de armazenagem é contestado,
+atualmente, pela Receita Federal, inclusive em juízo, via Procuradoria da Fazenda Nacional. Com
+efeito, há casos de pedidos administrativos de pagamento que vêm sendo negados com base nos
+pareceres PGFN/CJU/COJLC 825/2012 e 593/2013.
+
+Pois bem. Uma vez considerada abandonada, a mercadoria será objeto de processo para aplicação
+da pena de perdimento. Notem que a pena de perdimento não é aplicada de imediato, portanto,
+logo que fica configurado o abandono, mas apenas após processo administrativo com
+contraditório e julgamento.
+
+Desse modo, é possível que, antes de aplicada a pena de perdimento, o importador dê início ou
+retome o despacho de importação (direito de iniciar ou retomar o despacho). Nesse caso, o
+importador deverá arcar com o pagamento dos tributos incidentes na importação, acrescidos de
+juros e de multa de mora, além das despesas decorrentes da armazenagem da mercadoria em
+recinto alfandegado.
+
+Lembrem-se que o importador tem o prazo de trinta dias para adotar as providências necessárias,
+contados a partir da ciência da decisão que lhe reconheceu o direito de iniciar ou retomar o
+despacho, sob pena de ficar configurado novo abandono.
+
+(Questão Inédita) Será considerada abandonada a mercadoria que permaneça em recinto
+alfandegado, e cujo despacho de importação tenha seu curso interrompido durante 60 (sessenta)
+dias, por ação ou por omissão do importador.
+
+Comentários
+
+É o que dispõe o art. 642, § 1º, inciso II, do R/A. Se o despacho ficar interrompido durante 60 dias,
+por ação ou omissão do importador, a mercadoria será considerada abandonada.
+
+Gabarito: certa
+
+                                                                                                  12
+                                                                                                  62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                14
+        www.estrategiaconcursos.com.br                                                            65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+                3 - EXTRAVIO E AVARIA DE MERCADORIAS
+O art. 649 do Regulamento Aduaneiro define os conceitos de avaria, extravio e acréscimo:
+
+  I.   Avaria: qualquer prejuízo que sofrer a mercadoria ou o seu envoltório. Será considerada
+       total a avaria que acarrete a descaracterização da mercadoria;
+
+ II.   Extravio: toda e qualquer falta de mercadoria, ressalvados os casos de erro inequívoco ou
+       comprovado de expedição;
+
+III.   Acréscimo: qualquer excesso de volume ou de mercadoria, em relação à quantidade
+       registrada em manifesto ou em declaração de efeito equivalente.
+
+No caso de avaria de mercadoria, a solução nos é dada pelo art. 89, do Regulamento Aduaneiro,
+que determina que, para efeito de cálculo do Imposto de Importação, o valor aduaneiro da
+mercadoria será reduzido proporcionalmente ao prejuízo, a pedido do interessado.
+
+Quanto ao extravio, o tratamento tributário é o que está previsto no art. 660, do Regulamento
+Aduaneiro. Nesse sentido, não é porque a mercadoria foi extraviada que os tributos não serão
+exigidos. Eles serão exigidos do responsável, isto é, daquele que tiver dado causa ao extravio
+(transportador ou depositário).
+
+Basicamente, quando as mercadorias são entregues pelo transportador ao depositário, este
+deverá, caso constatado o extravio, lavrar um termo em que registre a ocorrência. Se o depositário
+não fizer nenhum registro e, posteriormente, verificar-se o extravio da mercadoria, a
+responsabilidade pelo pagamento dos tributos recairá sobre ele. Em sentido oposto, caso seja
+lavrado pelo depositário termo constatando o extravio, a responsabilidade será do transportador.
+
+Os artigos 661, 662 e 663 nos ilustram melhor como a autoridade aduaneira irá verificar de quem
+é a responsabilidade pelo extravio de mercadoria:
+
+        Art. 661. Para efeitos fiscais, é responsável o transportador quando:
+
+        I - constatado que houve, após o embarque, substituição de mercadoria;
+
+        II - houver extravio de mercadoria em volume descarregado com indícios de
+        violação; ou
+
+        III - o volume for descarregado com peso ou dimensão inferior ao constante no
+        conhecimento de carga, no manifesto ou em documento de efeito equivalente.
+
+                                                                                               13
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             15
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+        Art. 662. Para efeitos fiscais, o depositário responde por extravio de mercadoria
+        sob sua custódia.
+
+        Parágrafo único. Presume-se a responsabilidade do depositário no caso de
+        volumes recebidos sem ressalva ou sem protesto.
+
+        Art. 663. Para efeitos fiscais, as entidades da administração pública indireta e as
+        empresas concessionárias ou permissionárias de serviço público, quando
+        depositárias ou transportadoras, respondem por extravio de mercadoria sob sua
+        custódia.
+
+Os responsáveis pelo extravio de mercadoria poderão ser o transportador ou o depositário.
+
+O depositário responderá pelo extravio de mercadoria que estiver sob sua custódia. Sua
+responsabilidade começa no momento em que ele recebe as mercadorias do transportador. Caso
+ele tenha recebido os volumes sem qualquer ressalva ou protesto e, posteriormente, as
+mercadorias não apareçam (sejam extraviadas), será ele o responsável pelo pagamento dos
+tributos incidentes na importação. A autoridade aduaneira efetuará o lançamento de ofício,
+lavrando auto de infração que recairá sobre o depositário.
+
+O transportador, por sua vez, é responsável pelas mercadorias desde momento em que recebe as
+mercadorias no país de origem ou procedência até o momento em que ele as entrega ao
+depositário. Ao receber as mercadorias no exterior, o transportador deverá verificar se os volumes
+são exatamente os mesmos que constam no conhecimento de carga, manifesto ou outro
+documento de efeito equivalente.
+
+Se um volume for descarregado no Brasil com dimensão ou peso diferente do previsto no
+conhecimento de carga, a responsabilidade será do transportador. Da mesma forma, o
+transportador será responsável se um volume for descarregado com indícios de violação. Ou,
+ainda, será responsável o transportador quando for constado que houve, após o embarque,
+substituição de mercadoria.
+
+A responsabilidade poderá ser excluída, no entanto, nos termos do art. 664 do Regulamento
+Aduaneiro, nas hipóteses de caso fortuito ou força maior.
+
+Além disso, o lançamento de ofício destinado a exigir os tributos e multa pelo extravio de
+mercadoria poderá ser dispensado. Isso ocorrerá quando o importador ou o responsável
+(transportador ou depositário) assumir, espontaneamente, o pagamento dos créditos.
+
+                                                                                               14
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             16
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+(Questão Inédita) O depositário será responsável quando houver extravio de mercadoria em
+volume descarregado com indícios de violação.
+
+Comentários
+
+No caso de extravio de mercadoria em volume descarregado com indícios de violação, a
+responsabilidade será do transportador.
+
+Gabarito: errada
+
+
+            4 - ATIVIDADES RELACIONADAS AOS SERVIÇOS
+                           ADUANEIROS
+
+4.1 - Despachante Aduaneiro
+
+O despachante aduaneiro é o profissional competente para realizar, em nome dos seus
+representados, os atos relacionados ao despacho aduaneiro de bens ou de mercadorias.
+
+Existe, também, a figura do ajudante de despachante aduaneiro, que poderá estar tecnicamente
+subordinado a um despachante aduaneiro. O ajudante de despachante tem atribuições mais
+limitadas que as do despachante.
+
+O exercício da profissão de despachante aduaneiro somente será permitido à pessoa física inscrita
+no Registro de Despachantes Aduaneiros, mantido pela Secretaria da Receita Federal do Brasil.
+Destaque-se que é vedado o exercício da atividade de despachante ou ajudante de despachante
+a quem exerce cargo, emprego ou função pública.
+
+A Receita Federal do Brasil (RFB) é o órgão competente para editar as normas necessárias para a
+regulamentação das atividades do despachante aduaneiro e do ajudante de despachante. Além
+disso, também é responsável por dar publicidade de informações acerca dos despachantes e
+ajudantes de despachantes inscritos no registro.
+
+A competência para proceder à inscrição do interessado no Registro de Despachantes Aduaneiros
+e no Registro de Ajudantes de Despachantes Aduaneiros, especificamente, pertence ao chefe da
+
+                                                                                              15
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            17
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+unidade da Secretaria da Receita Federal com jurisdição aduaneira sobre o domicílio do
+requerente.
+
+
+4.2 - Operador de Transporte Multimodal (OTM)
+
+A Lei nº 9.611/98 versa sobre o transporte multimodal de cargas e sobre o operador de transporte
+multimodal (OTM). Nos termos dessa lei, transporte multimodal de cargas é aquele que, regido
+por um único contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o
+destino, e é executado sob a responsabilidade única de um operador de transporte multimodal.
+
+O OTM é uma pessoa jurídica contratada como principal para a realização do transporte
+multimodal de cargas da origem até o destino, por meios próprios ou por intermédio de terceiros.
+
+Além do transporte em si, o contrato firmado com um OTM pode compreender, ainda, os serviços
+de coleta, unitização, desunitização, movimentação, armazenagem e entrega de carga ao
+destinatário, bem como a realização dos serviços correlatos que forem contratados entre a origem
+e o destino, inclusive os de consolidação e desconsolidação documental de cargas.
+
+O exercício da atividade de operador de transporte multimodal, no transporte multimodal
+internacional de cargas, depende de habilitação prévia e registro junto à Agência Nacional de
+Transportes Terrestres – ANTT, e de habilitação pela Secretaria da Receita Federal do Brasil, para
+fins de controle aduaneiro.
+
+Há duas espécies de habilitação do operador de transporte multimodal perante a ANTT, distintas
+em razão da abrangência do registro:
+
+       c) Nacional e Internacional: para atuação no Brasil e no exterior, à exceção do MERCOSUL.
+
+       d) MERCOSUL: para que possa atuar nos países do MERCOSUL;
+
+A habilitação perante a Receita Federal, concedida pelo prazo de dez anos, prorrogável por igual
+período, depende de comprovação da inscrição no registro mantido pela ANTT.
+
+O contrato de transporte multimodal se torna eficaz com a emissão do Conhecimento de
+Transporte Multimodal de Cargas – CTMC e o recebimento da carga pelo OTM. Com a emissão
+do Conhecimento, o OTM assume perante o contratante a responsabilidade:
+
+            a) pela execução dos serviços de transporte multimodal de cargas, por conta
+               própria ou de terceiros, do local em que as receber até a sua entrega no
+               destino;
+
+
+                                                                                               16
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             18
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+            b) pelos prejuízos resultantes de perda, danos ou avaria às cargas sob sua
+               custódia, assim como pelos decorrentes de atraso em sua entrega, quando
+               houver prazo acordado.
+
+O OTM também assume responsabilidade tributária perante os órgãos fazendários, a qual se inicia
+com a concessão do regime de trânsito aduaneiro até o momento da entrega da mercadoria ou
+carga em recinto alfandegado de destino.
+
+Lembrem-se que o expedidor, o operador de transporte multimodal ou qualquer subcontratado
+para a realização do transporte multimodal, são indicados como responsáveis solidários pelo
+pagamento do Imposto de Importação, nos termos do atigo 106, inciso V, do Regulamento
+Aduaneiro.
+
+
+4.3 - Agentes de Unitização e Desunitização
+
+As operações de unitização e desunitização de cargas, quando realizadas em locais e recintos
+alfandegados, serão feitas somente por agentes previamente credenciados pela Receita Federal
+do Brasil (RFB). São os chamados agentes de unitização e desunitização.
+
+Os agentes de unitização são aqueles que colocam diversas cargas em uma unidade de carga
+maior. É o que chamamos de ova ou estufagem do contêiner. Os agentes de desunitização, por
+sua vez, fazem o processo inverso, ou seja, pegam a unidade de carga maior e fazem a separação
+das cargas. A desunitização é o que chamamos de desova do contêiner.
+
+
+4.4 - Perito / Assistente Técnico
+
+O Auditor-Fiscal da RFB pode solicitar o auxílio de perícia para a realização das seguintes
+atividades: i) identificação e quantificação de mercadoria importada ou a exportar; ii) avaliação de
+equipamentos de segurança e sistemas informatizados e; iii) emissão de laudos sobre o estado e
+valor residual dos bens.
+
+A atividade de perícia é proporcionada: i) pelos laboratórios da RFB; ii) por órgãos ou entidades
+da administração pública; e iii) por entidades privadas e técnicos especializados, previamente
+credenciados.
+
+A pessoa que comprovar legítimo interesse na perícia poderá utilizar-se de assistência técnica para
+acompanhar sua realização. Para isso, indica uma espécie de “perito particular”, que é
+denominado assistente técnico.
+
+                                                                                                 17
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               19
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+(Questão Inédita) A habilitação do Operador de Transporte Multimodal perante a Receita Federal
+depende de comprovação da inscrição do interessado no registro mantido pela Agência Nacional
+de Transportes Terrestres - ANTT.
+
+Comentários
+
+A habilitação do Operador de Transporte Multimodal perante a Receita Federal depende de
+comprovação da inscrição do interessado no registro mantido pela ANTT, conforme estabelece o
+artigo 5º, §1º, inciso I, do Decreto nº 3.411/00.
+
+Gabarito: certa
+
+
+            5 - REPRESENTAÇÃO FISCAL PARA FINS PENAIS
+De acordo com o artigo 740 do Regulamento Aduaneiro, sempre que o Auditor-Fiscal da Receita
+Federal do Brasil constatar, no exercício de suas atribuições, fato que configure, em tese, crime
+contra a ordem tributária, crime de contrabando ou de descaminho, ou crimes em detrimento da
+Fazenda Nacional ou contra a administração pública federal, deverá efetuar a correspondente
+representação fiscal para fins penais, a ser encaminhada ao Ministério Público.
+
+O encaminhamento da Representação Fiscal para Fins Penais ao órgão do Ministério Público
+Federal é realizado mediante ofício do titular da unidade responsável pela formalização da
+representação.
+
+O art. 5º da Portaria RFB nº 1.750/2018 relaciona os elementos de prova que deverão instruir a
+Representação Fiscal para Fins Penais.
+
+        Art. 5º A representação fiscal para fins penais referente a fatos que configuram,
+        em tese, crimes contra a ordem tributária definidos nos arts. 1º e 2º da Lei nº 8.137,
+        de 27 de dezembro de 1990, ou crimes contra a Previdência Social definidos nos
+        arts. 168-A e 337-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código
+        Penal), deverá conter:
+
+        I - a identificação das pessoas físicas a quem se atribua a prática do delito penal,
+        da pessoa jurídica autuada e, quando couber:
+                                                                                                 18
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               20
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+        a) das pessoas que possam ter concorrido ou contribuído para a prática do ilícito,
+        mesmo que por intermédio de pessoa jurídica; e
+
+        b) dos gerentes ou administradores de instituição financeira que possam ter
+        concorrido para abertura de conta ou movimentação de recursos sob nome falso,
+        em nome de pessoa física ou jurídica inexistente ou de pessoa jurídica liquidada
+        de fato ou sem representação regular;
+
+        II - a descrição dos fatos caracterizadores do ilícito penal e o seu enquadramento
+        legal; e
+
+        III - a identificação das pessoas que possam ser arroladas como testemunhas, assim
+        consideradas aquelas que tenham conhecimento do fato ou que, em razão de
+        circunstâncias a ele relacionadas, deveriam tê-lo.
+
+        Parágrafo único. A representação fiscal para fins penais deve ser instruída com os
+        seguintes documentos, no mínimo:
+
+        I - o auto de infração ou a notificação de lançamento;
+
+        II - cópia atualizada do contrato social ou do estatuto social da pessoa jurídica
+        autuada;
+
+        III - declarações ou escriturações apresentadas à RFB relacionadas ao lançamento;
+
+        IV - termos lavrados na ação fiscal de que resultou o lançamento, especialmente
+        referentes a depoimentos, declarações, diligências e perícias; e
+
+        V - documentos com indícios de irregularidades apreendidos no curso da ação
+        fiscal.
+
+Segundo o art. 741, do R/A, a representação fiscal para fins penais relativa aos crimes contra a
+ordem tributária será encaminhada ao Ministério Público após ter sido proferida a decisão final
+administrativa, no processo fiscal. Na hipótese de concessão de parcelamento do crédito
+tributário, a representação fiscal para fins penais somente será encaminhada ao Ministério Público
+após a exclusão da pessoa física ou jurídica do parcelamento.
+
+                                                                                               19
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             21
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+(Questão Inédita) Sempre que o Auditor-Fiscal da Receita Federal do Brasil constatar, no exercício
+de suas atribuições, fato que configure, em tese, crime contra a ordem tributária, crime de
+contrabando ou de descaminho, ou crimes em detrimento da Fazenda Nacional ou contra a
+administração pública federal, deverá efetuar a correspondente representação fiscal para fins
+penais, a ser encaminhada ao Ministério Público, na forma estabelecida pela Secretaria da Receita
+Federal do Brasil.
+
+Comentários
+
+Caso o Auditor-Fiscal RFB constate a ocorrência de um crime, ele deverá formalizar a
+correspondente representação fiscal para fins penais ao Ministério Público.
+
+Gabarito: certa
+
+
+                       6 - DESTINAÇÃO DE MERCADORIAS
+O art. 803, do R/A, relaciona as destinações possíveis para as mercadorias abandonadas,
+entregues à Fazenda Nacional ou objeto de pena de perdimento. Há quatro destinações possíveis
+– muito embora o Ministro da Fazenda (atual Ministro da Economia) esteja autorizado a dispor sobre
+outras formas de destinação:
+
+            a) Alienação, mediante licitação (leilão) ou doação a entidades sem fins lucrativos;
+
+       b) Incorporação ao patrimônio de órgão da Administração Pública;
+
+       c) Destruição;
+
+       d) Inutilização.
+
+As mercadorias podem ser destinadas após decisão administrativa definitiva ou imediatamente após
+a formalização do procedimento administrativo-fiscal pertinente (antes da decisão definitiva), a
+depender do caso.
+
+O primeiro caso (mercadorias destinadas após decisão administrativa definitiva) é a regra geral. Antes
+da destinação, deve-se aguardar a decisão administrativa definitiva. Vale destacar, no entanto, que
+após a decisão administrativa definitiva a mercadoria pode ser destinada, ainda que o caso tenha sido
+submetido a apreciação judicial e ainda esteja pendente de resolução, salvo determinação expressa
+em contrário, em cada caso, emanada de autoridade judiciária.
+
+                                                                                                   20
+                                                                                                   62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 22
+        www.estrategiaconcursos.com.br                                                             65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+O segundo caso (mercadorias destinadas imediatamente após a formalização do procedimento fiscal-
+administrativo pertinente) se aplica a determinadas mercadorias que, por sua natureza, precisam ser
+rapidamente destinadas, nas seguintes hipóteses:
+
+       e) semoventes, perecíveis, inflamáveis e explosivos ou outras mercadorias que exijam
+          condições especiais de armazenamento;
+
+       f) mercadorias deterioradas, danificadas, estragadas, com data de validade vencida, que
+          não atendam exigências sanitárias ou agropecuárias, ou que estejam em desacordo com
+          regulamentos ou normas técnicas, e que devam ser destruídas; ou
+
+       g) cigarros e outros derivados do tabaco, apreendidos por infração fiscal sujeita a pena de
+          perdimento, que devem ser destruídos.
+
+Nesses casos acima mencionados, a destinação poderá ocorrer antes da decisão final administrativa,
+imediatamente após a formalização do procedimento administrativo-fiscal. A destinação poderá
+ocorrer antes mesmo do decurso do prazo do art. 774, § 1º (prazo de 20 dias para impugnação no
+processo de perdimento).
+
+Caso uma decisão judicial ou administrativa determine a restituição de mercadorias que já tenham
+sido destinadas o prejudicado fará jus à indenização, com recursos do FUNDAF (Fundo Especial de
+Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização), tendo como base o valor
+declarado para efeito de cálculo do imposto de importação ou de exportação.
+
+É possível, também, que seja considerado como base para o cálculo da indenização o valor
+constante do procedimento fiscal correspondente nos seguintes casos:
+
+       h) não houver declaração de importação ou de exportação;
+
+       i) a base de cálculo do imposto de importação ou de exportação apurada for inferior ao
+          valor declarado;
+
+       j) em virtude de depreciação, o valor da mercadoria apreendida em posse do interessado
+          for inferior ao valor declarado.
+
+Em caso de alienação (leilão), do total arrecadado 60% vai para o FUNDAF (Fundo Especial de
+Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização) e 40% para a seguridade
+social.
+
+O FUNDAF tem como objetivo fornecer recursos para financiar:
+
+       k) o reaparelhamento e reequipamento da Secretaria da Receita Federal do Brasil;
+
+                                                                                                21
+                                                                                                62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              23
+        www.estrategiaconcursos.com.br                                                          65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+       l) atender aos demais encargos específicos inerentes ao desenvolvimento                e
+          aperfeiçoamento das atividades de fiscalização dos tributos federais;
+
+       m) intensificar a repressão às infrações relativas a mercadorias estrangeiras e a outras
+          modalidades de fraude fiscal ou cambial, inclusive mediante a instituição de sistemas
+          especiais de controle do valor externo de mercadorias e de exames laboratoriais.
+
+É importante ressaltar que, na alienação mediante licitação (leilão), não haverá incidência de
+tributos federais.
+
+Segundo o art. 806, compete ao Ministro da Fazenda autorizar a destinação das mercadorias
+abandonadas, entregues à Fazenda Nacional ou objeto da pena de perdimento. À Secretaria
+Especial da Receita Federal do Brasil, por sua vez, compete a administração e destinação dessas
+mercadorias.
+
+(ATRFB – 2012) Compete ao Ministro de Estado da Fazenda autorizar a destinação de mercadorias
+abandonadas, entregues à Fazenda Nacional ou objeto de pena de perdimento.
+
+Comentários
+
+De fato, o art. 806, do R/A, dispõe que compete ao Ministro da Fazenda autorizar a destinação de
+mercadorias.
+
+Gabarito: certa
+
+
+            7 - MERCADORIAS PROVENIENTES DE ACIDENTES
+Amigos, em caso de naufrágio, acidente aéreo, ou outras ocorrências similares no transporte
+terrestre, as mercadorias encontradas no território aduaneiro brasileiro devem ser encaminhadas
+por quem as encontrar para a unidade da Receita Federal mais próxima do local.
+
+Além disso, independentemente da efetiva entrega das mercadorias, qualquer pessoa que tomar
+conhecimento da existência de mercadorias provenientes de algum desses acidentes deve fazer a
+devida comunicação do ocorrido para alguma unidade da Receita Federal.
+
+                                                                                             22
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           24
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Nesses casos, o titular da unidade da Receita Federal providenciará a expedição de uma
+notificação para que interessados promovam, no prazo de sessenta dias, o despacho aduaneiro
+das mercadorias encontradas. Vale destacar que a promoção do despacho aduaneiro das
+mercadorias fica condicionada à comprovação de posse ou de propriedade dos bens.
+
+Caso não seja promovido o despacho aduaneiro dos bens encontrados no prazo de sessenta dias
+a partir da notificação, essas mercadorias são consideradas abandonadas. Aplicam-se, então, as
+regras gerais de destinação de mercadorias abandonadas.
+
+Nesse contexto, eventual reclamação quanto à entrega dos bens recuperados só será capaz de
+afastar a declaração de abandono caso seja formulada perante autoridade judicial.
+
+Importa ressaltar, ainda, que a pessoa que entregar à Receita Federal mercadorias provenientes
+dos acidentes mencionados faz jus a uma recompensa equivalente a dez por cento do valor da
+arrematação caso haja destinação dos bens via leilão (hasta pública).
+
+Anotem, por fim, que essas regras se aplicam para acidentes ocorridos com veículos em viagem
+internacional ou em viagem nacional amparada por regime especial de trânsito aduaneiro. Ou
+seja, essas regras se aplicam no caso de mercadorias que interessam para o exercício do controle
+aduaneiro.
+
+(Questão Inédita) Mercadorias encontradas ao longo da costa brasileira após um naufrágio são
+consideradas abandonadas.
+
+Comentários
+
+As mercadorias encontradas ao longo da costa brasileira em decorrência de um naufrágio devem
+ser encaminhadas para a Receita Federal. O titular da unidade providencia, então, a expedição de
+uma notificação para que seja promovido o despacho aduaneiro em sessenta dias. Apenas caso
+não seja promovido o despacho aduaneiro nesse prazo é que as mercadorias são consideradas
+abandonadas.
+
+Gabarito: errada
+
+                                                                                             23
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           25
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+               8 - MERCADORIAS PRESUMIDAS IDÊNTICAS
+As mercadorias descritas de forma semelhante em diferentes declarações de importação do
+mesmo importador são presumidas idênticas para fins de determinação do tratamento tributário
+ou aduaneiro aplicável.
+
+Assim, imaginem que a autoridade aduaneira esteja avaliando a adequação da classificação fiscal
+de um determinado produto selecionada pelo contribuinte, seja para avaliar se há necessidade de
+licença de importação, seja para definir as alíquotas aplicáveis para o cálculo dos tributos, ou
+mesmo para verificar a exigibilidade de uma medida de defesa comercial.
+
+Caso o mesmo importador tenha registrado uma declaração de importação anterior, contendo
+produto com descrição semelhante ao que está sendo avaliado, há uma presunção de que se está
+tratando de mercadorias idênticas.
+
+Essa presunção de identidade entre mercadorias com descrição similar é bastante relevante no
+caso de mercadorias extraviadas, mas pode ser aplicada também em sede de revisão aduaneira,
+notadamente para o caso de produtos desembaraçados nos canais verde ou amarelo que já
+tenham sido consumidos pelos importadores.
+
+Nesse sentido, aliás, o parágrafo único do artigo 667 do Regulamento Aduaneiro estabelece
+expressamente que a identificação das mercadorias, para efeito da presunção de identidade,
+pode ser realizada no curso do despacho aduaneiro ou em outro momento.
+
+Para finalizar, importa ressaltar que essa presunção de identidade das mercadorias descritas de
+forma semelhante em declarações do mesmo importador estabelecida pela legislação é uma
+hipótese de presunção relativa (juris tantum). Ou seja, trata-se de presunção que pode ser afastada
+mediante apresentação de prova em sentido diverso.
+
+(Questão Inédita) As mercadorias descritas de forma semelhante em diferentes declarações
+aduaneiras, ainda que não sejam do mesmo contribuinte, são presumidas idênticas para fins de
+determinação do tratamento tributário ou aduaneiro.
+
+Comentários
+
+                                                                                                24
+                                                                                                62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              26
+        www.estrategiaconcursos.com.br                                                          65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+As mercadorias descritas de forma semelhante em diferentes declarações aduaneiras do mesmo
+contribuinte, são presumidas idênticas para fins de determinação do tratamento tributário ou
+aduaneiro.
+
+Gabarito: errada
+
+
+                                     9 - TRÁFEGO POSTAL
+
+9.1 - Introdução
+
+De início, importa esclarecer que há duas espécies de Remessa Internacional: a Remessa Postal
+Internacional (RPI), transportada sob a responsabilidade da Empresa Brasileira de Correios e
+Telégrafos (ECT); e a Remessa Expressa Internacional (REI), transportada sob a responsabilidade
+de uma empresa de courier. As malas, ou malas postais, por sua vez, são os recipientes em que
+são transportadas as remessas.
+
+As Remessas Postais Internacionais (RPIs), manejadas pelos Correios, compreendem o Objeto de
+Correspondência, a Mala M, a Encomenda e a Remessa Expressa Postal, permutados pela ECT
+com operadores estrangeiros.
+
+     a) Objeto de Correspondência: são as cartas, os cartões postais, os impressos, os cecogramas
+     (materiais impressos para cegos) e as pequenas encomendas (petit paquet);
+
+     b) Mala M: é a mala especial contendo exclusivamente impressos, de um mesmo remetente
+     para um mesmo destinatário;
+
+     c) Encomenda: é a encomenda postal internacional propriamente dita (colis postal);
+
+     d) Remessa Expressa Postal: é a remessa transportada pela ECT com prioridade superior às
+     demais, constituída de documentos ou mercadorias urgentes.
+
+A Remessa Expressa Internacional (REI), de outro turno, compreende a Encomenda Aérea
+Internacional (bens ou documentos transportados na modalidade aérea, amparados por
+conhecimento aéreo internacional), transportada por empresa de courier sob as condições de
+serviço expresso e entrega “porta a porta”.
+
+Empresa de courier, ou empresa de transporte expresso internacional, é a pessoa jurídica
+estabelecida no País que presta o serviço de transporte internacional de remessas expressas, pela
+via aérea, com entrega “porta a porta”.
+
+
+                                                                                              25
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            27
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+A entrega “porta a porta”, por sua vez, constitui modalidade de transporte em que o prestador
+de serviço retira a encomenda na porta do remetente e a entrega na porta do destinatário.
+
+
+9.2 - Despacho aduaneiro de Remessa Internacional
+
+O despacho aduaneiro de Remessas Internacionais, procedimento por meio do qual é exercido o
+controle aduaneiro sobre as remessas, deve ser processado em recinto alfandegado para a
+realização de operações de movimentação, armazenagem e despacho de Remessa Internacional.
+
+Esse local pode ser um recinto alfandegado da própria ECT, ou um recinto alfandegado no qual
+esteja habilitada a empresa courier.
+
+No âmbito das Remessas Internacionais, o despacho aduaneiro é promovido pela própria ECT ou
+                                                       ==219a34==
+
+pela própria empresa de courier. Há, no entanto, hipóteses de remessas que estão dispensadas
+da formalização de despacho ou do registro de declaração aduaneira.
+
+Vale lembrar, a esse respeito, que é dispensado o despacho aduaneiro de mala diplomática ou
+consular. São, ainda, desembaraçadas sem a formalização de despacho aduaneiro, as remessas
+internacionais constituídas exclusivamente de documentos, cartas, cartões-postais e impressos e
+a Mala M.
+
+Anotem, ainda, que, como o despacho aduaneiro é promovido pela própria ECT ou pela empresa
+de courier, o atendimento ao destinatário na remessa internacional de importação deve ser
+efetuado também pela própria ECT ou pela empresa de courier, inclusive no curso do despacho
+aduaneiro.
+
+
+9.3 - Importação via Remessa Internacional
+
+O despacho aduaneiro de importação promovido pela ECT ou pela empresa de courier, é
+processado, em regra, com base em uma Declaração de Importação de Remessa (DIR), registrada
+no SISCOMEX Remessa.
+
+A opção pelo despacho aduaneiro com base em DIR é automática, inclusive, para as remessas que
+se enquadrem nos requisitos de utilização da DIR e de aplicação do Regime de Tributação
+Simplificada (RTS), a não ser que o destinatário da remessa indique à empresa de courier ou à
+ECT, até o momento da postagem da remessa no exterior, a sua intenção de não utilizar o RTS.
+
+O despacho de aduaneiro processado mediante registro de DIR no SISCOMEX Remessa se aplica
+aos bens contidos em Remessa Internacional importados por pessoa física ou jurídica, em caráter
+
+
+                                                                                            26
+                                                                                            62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          28
+        www.estrategiaconcursos.com.br                                                      65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+definitivo, cujo valor aduaneiro não ultrapasse US$ 3.000,00 (três mil dólares dos Estados Unidos
+da América), ou o equivalente em outra moeda.
+
+A DIR pode ser utilizada sem limite de valor, no entanto, caso se trate de Remessa Internacional
+para a importação de:
+
+     a) documentos;
+
+     b) bens enviados ao exterior como remessa internacional que retornem ao País por fatores
+     alheios à vontade do remetente, desde que seja reconhecida a não incidência de tributo;
+
+     c) cheques e travelers cheques recebidos por instituições autorizadas a operar no mercado
+     de câmbio, para cobrança ou liquidação internacional;
+
+     d) bens importados por missões diplomáticas, repartições consulares e representações de
+     organismos internacionais, de caráter permanente, de que o Brasil seja membro, e pelos seus
+     respectivos integrantes;
+
+     e) bens importados pela União, por estado, pelo Distrito Federal e por município, e pelas
+     respectivas autarquias, com isenção ou imunidade tributária;
+
+     f) bens importados por fundação instituída e mantida pelo Poder Público, com imunidade
+     tributária referente a livros, jornais e periódicos ou a fonogramas e videofonogramas
+     musicais;
+
+Caso a remessa seja destinada a pessoa jurídica com a finalidade de revenda ou de
+industrialização, a utilização da DIR só tem cabimento se:
+
+     a) Os bens importados não estiverem sujeitos a licenciamento de importação; e
+
+     b) O valor aduaneiro das operações da pessoa jurídica importadora não ultrapasse US$
+     150.000,00 (cento e cinquenta mil dólares dos Estados Unidos da América) no ano-
+     calendário, ou o equivalente em outra moeda.
+
+Importa ressaltar que não é permitida a importação por pessoa física de bens destinados à
+revenda ou a serem submetidos a processo de industrialização, ressalvadas as importações
+realizadas por produtor rural, artesão, artista ou assemelhado.
+
+Anotem, também, que há casos em que a utilização da DIR é vedada. São os seguintes:
+
+     a) mercadorias sujeitas a licenciamento de importação pelo Ministério da Defesa, pelo
+     Comando do Exército ou pela Polícia Federal;
+
+                                                                                              27
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            29
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+     b) bens aos quais está vedada a aplicação do RTS (exceto no caso de amostras sem valor
+     comercial de determinados bens, destinadas à realização de análises técnicas, em importação
+     promovida por estabelecimento industrial que mantenha registro especial na RFB);
+
+     c) animais da vida silvestre;
+
+     d) vegetais da vida silvestre;
+
+     e) diamantes;
+
+     f) moeda corrente;
+
+     g) bens usados ou recondicionados (há exceções, como no caso de bens destinados a uso
+     ou consumo pessoal, importados por pessoa física).
+
+Cabe destacar que as remessas internacionais, na importação ou na exportação, são submetidas
+a inspeção não invasiva, previamente à conferência aduaneira, antes ou depois do registro da
+correspondente declaração aduaneira, a fim de que seja promovida uma triagem preliminar com
+detecção de irregularidades relacionadas aos bens.
+
+A remessa selecionada para conferência aduaneira pela Receita Federal será submetida a exame
+documental, podendo também ser submetida à verificação física invasiva ou não invasiva.
+
+Constatadas, durante a conferência aduaneira da remessa, ocorrências que impeçam o
+prosseguimento do despacho aduaneiro, este terá seu curso interrompido automaticamente no
+Siscomex Remessa, após o registro da exigência na respectiva DIR.
+
+Nesse caso, cabe à própria ECT ou à empresa de courier comunicar a exigência ao destinatário.
+O prazo para o cumprimento das exigências é de trinta dias, contados da data de seu registro do
+SISCOMEX Remessa.
+
+Caso haja vencimento do prazo para cumprimento da exigência sem manifestação do interessado,
+a ECT ou a empresa de courier deve solicitar, em quinze dias, o cancelamento da DIR e a
+autorização para devolução da remessa ao exterior.
+
+Uma vez concluída a conferência aduaneira, com ou sem exigência de crédito tributário, a
+autoridade aduaneira responsável pelo despacho providencia o registro da conclusão da
+fiscalização da remessa no Siscomex Remessa. A remessa será liberada no sistema quando não
+houver exigência pendente de atendimento.
+
+                                                                                             28
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           30
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+As remessas não selecionadas para fiscalização por órgão ou entidade da Administração Pública
+Federal ou para conferência aduaneira pela RFB, por outro lado, são liberadas automaticamente
+pelo Siscomex Remessa.
+
+Caso haja crédito tributário a ser recolhido, o pagamento pelo destinatário da Remessa
+Internacional deve ser efetuado à ECT ou à empresa de courier.
+
+As remessas internacionais liberadas com lançamento de crédito tributário devem ser mantidas à
+disposição do destinatário para providências durante o chamado prazo de guarda. O prazo de
+guarda é de vinte dias contados da data da liberação da remessa.
+
+Caso haja vencimento do prazo de guarda sem o devido recolhimento do crédito tributário, a ECT
+ou a empresa de courier deve solicitar, em quinze dias, o cancelamento da DIR e a autorização
+para devolução da remessa ao exterior.
+
+Quanto ao tratamento tributário, a regra é que seja aplicado o Regime de Tributação Simplificada
+(RTS), com incidência apenas do Imposto de Importação, calculado pela aplicação da alíquota
+única de sessenta por cento sobre o valor aduaneiro da totalidade dos bens contidos na remessa,
+em regra, e isenção do IPI, do PIS-Importação e da COFINS-Importação.
+
+Para que seja aplicável o Regime de Tributação Simplificada, o valor dos bens contidos na remessa
+internacional não pode superar US$ 3.000,00 (três mil dólares dos Estados Unidos da América),
+ou o equivalente em outra moeda. Além disso, bebidas alcoólicas, fumo e outros produtos de
+tabacaria não podem ser importados ao amparo do RTS.
+
+A alíquota do Imposto de Importação é reduzida a zero, porém, no caso de produtos acabados
+pertencentes às classes de medicamentos, no valor limite de até US$ 10.000,00 (dez mil dólares
+dos Estados Unidos da América) ou o equivalente em outra moeda, importados por remessa postal
+ou encomenda aérea internacional, por pessoa física para uso próprio ou individual.
+
+Para mercadorias adquiridas por pessoa física, por meio de empresa de comércio eletrônico que
+participe do programa de conformidade da Receita Federal, especificamente, a alíquota do
+Imposto de Importação no RTS vai depender do valor dos bens.
+
+Com efeito, se o valor da remessa for de até US$ 50,00 (cinquenta dólares), a alíquota do Imposto
+de Importação, no RTS, será de 20%. Para as remessas de valor superior a US$ 50,00 (até US$
+3.000,00) por outro lado, a alíquota do Imposto de Importação será de 60%, mas haverá uma
+parcela de US$ 20,00 (vinte dólares) a deduzir do montante de imposto a ser recolhido.
+
+A esse respeito, são consideradas empresas de comércio eletrônico as empresas, nacionais ou
+estrangeiras, que utilizem plataformas, sites e meios digitais de intermediação de compra e venda
+
+                                                                                              29
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            31
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+de produtos, por meio de solução própria ou de terceiros. O programa de conformidade, por
+outro lado, é chamado de Programa Remessa Conforme.
+
+A adesão ao Programa Remessa Conforme é voluntária e depende de certificação que ateste o
+cumprimento dos requisitos estabelecidos de acordo com o artigo 20-B da Instrução Normativa
+nº 1.737/17.
+
+Além disso, a Declaração de Importação de Remessa (DIR) que atenda aos critérios determinados
+pelo artigo 20-C, incisos I, II e III, da IN RFB nº 1.737/17, recebe tratamento diferenciado no âmbito
+do despacho aduaneiro de importação.
+
+Por fim, vale destacar que se a remessa não puder ser despachada mediante registro de DIR, mas
+contiver bens em valor não superior a US$ 3.000,00 (três mil dólares dos Estados Unidos da
+América) e cumprir os requisitos para a utilização do RTS, o despacho aduaneiro pode ser
+processado com base em Declaração Simplificada de Importação (DSI).
+
+Caso a remessa contenha bens que não superem US$ 3.000,00 (três mil dólares dos Estados
+Unidos da América), seja destinada a pessoa física e não possa ser despachada com base em DIR,
+também pode ser utilizada a DSI, ainda que não seja aplicado o RTS, observando-se o regime de
+tributação comum.
+
+Porém, se a remessa não puder ser despachada com base em DIR, tampouco atender os requisitos
+para a utilização da DSI, o despacho de importação deve ser processado com base em DI ou
+DUIMP, no âmbito do SISCOMEX Importação ou do PUCOMEX, observando-se o regime de
+importação comum. Convém atentar que, neste caso, o destinatário da remessa deve ser uma
+pessoa jurídica.
+
+No mais, caso não seja possível o acesso ao SISCOMEX Remessa por mais de duas horas
+consecutivas, devido a problema de ordem técnica reconhecido pela unidade local da Receita
+Federal de despacho, o despacho aduaneiro de importação pode ser realizado pela ECT ou pela
+empresa de courier com base nos formulários de Declaração de Remessas de Importação (DRI) e
+Relação de Remessas de Importação (RRI).
+
+
+9.4 - Exportação via remessa internacional
+
+Há três formas possíveis para o processamento do despacho aduaneiro de exportação de uma
+Remessa Internacional. Primeiramente, é possível a utilização do formulário da Declaração de
+Remessas de Exportação (DRE).
+
+                                                                                                   30
+                                                                                                   62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 32
+        www.estrategiaconcursos.com.br                                                             65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+A DRE pode ser utilizada no caso de bens enviados ao exterior, em caráter definitivo, até o limite,
+por remessa, de US$ 1.000,00 (mil dólares dos Estados Unidos da América), ou o equivalente em
+outra moeda, desde que se trate de exportação realizada:
+
+     a) por pessoa jurídica ou por produtor rural, artesão, artista ou assemelhado; ou
+
+     b) por pessoa física, cuja operação não caracterize destinação comercial ou fins industriais.
+
+O despacho de exportação de Remessa Internacional também pode ser processado mediante
+utilização dos formulários de Declaração Simplificada de Exportação e Folha Suplementar, em
+conformidade com a disciplina prevista pelo artigo 31 da IN SRF nº 611/06.
+
+Dentre as hipóteses em que se admite a utilização da DSE-Formulário, podemos destacar: as
+amostras sem valor comercial; as exportações realizadas por pessoa física ou jurídica, sem
+cobertura cambial e sem finalidade comercial, cujo valor não ultrapasse US$ 1,000.00 (mil dólares
+dos Estados Unidos da América) ou o equivalente em outra moeda; as exportações realizadas por
+missão diplomática, repartição consular, representação de organismo internacional de que o Brasil
+faça parte; a exportação de bens submetidos ao regime de exportação temporária.
+
+Por fim, é possível que o despacho de exportação de Remessas Internacionais seja processado
+com base em Declaração Única de Exportação (DUE), com registro no Portal Único de Comércio
+Exterior (PUCOMEX).
+
+A utilização da DUE é obrigatória caso se trate de Remessa Internacional que contenha bem cujo
+tratamento administrativo aplicável às exportações indique a necessidade de anuência por órgão
+ou entidade da Administração Pública Federal, ou caso a remessa contenha bem sujeito à
+incidência do Imposto de Exportação.
+
+Anotem, por fim, que não podem ser exportados por meio de Remessa Internacional os seguintes
+produtos:
+
+     a) cigarros, cigarrilhas e charutos, de tabaco ou de seus sucedâneos (exceto se a exportação
+     for promovida por estabelecimento industrial que mantenha registro especial perante a
+     Receita Federal);
+
+     b) moeda corrente (exceto as moedas comemorativas lançadas pelo Banco Central do Brasil);
+
+     c) bens cujo transporte seja proibido pela legislação postal (quando se tratar de RPI);
+
+     d) bens cujo transporte seja proibido pelas normas de aviação civil internacional (quando se
+     tratar de Remessa Internacional com transporte pela via aérea).
+
+
+                                                                                                31
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               33
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+(Questão Inédita) As Remessas Expressas Internacionais são transportadas sob a responsabilidade
+da Empresa Brasileira de Correios e Telégrafos sob a condição de serviço expresso e entrega
+“porta a porta”.
+
+Comentários
+
+As Remessas Expressas Internacionais (REI) são transportadas sob a responsabilidade das
+empresas de courier sob a condição de serviço expresso e entrega “porta a porta”.
+
+As Remessas Postais Internacionais (RPI) são transportadas sob a responsabilidade da ECT.
+
+Gabarito: errada
+
+(Questão Inédita) O despacho aduaneiro das Remessas Internacionais é promovido pela própria
+Empresa Brasileira de Correios e Telégrafos ou por uma empresa de courier.
+
+Comentários
+
+Cabe à própria ECT ou à empresa de courier promover o despacho aduaneiro das Remessas
+Internacionais.
+
+Gabarito: certa
+
+
+                             10 - TRÁFEGO DE CABOTAGEM
+A cabotagem nada mais é do que o transporte efetuado entre portos e aeroportos nacionais.
+Trata-se, portanto, da movimentação de embarcações ou de aeronaves com origem e destino
+dentro do território brasileiro.
+
+Nesse contexto, importa anotar que as mercadorias nacionais ou nacionalizadas, destinadas ao
+mercado interno em transporte de cabotagem, não podem ser depositadas em recintos
+alfandegados.
+
+Excepcionalmente, no entanto, para atender a situações especiais, a autoridade aduaneira pode
+autorizar o depósito em recinto alfandegado das mercadorias nacionais ou nacionalizadas
+                                                                                            32
+                                                                                            62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          34
+        www.estrategiaconcursos.com.br                                                      65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+destinadas ao mercado interno em transporte de cabotagem, no prazo e nas condições que
+estabelecer.
+
+De acordo com o artigo 671 do Regulamento Aduaneiro, a Receita Federal pode estabelecer
+normas relativas ao controle aduaneiro de mercadorias no tráfego de cabotagem, quando este
+for realizado para portos e aeroportos alfandegados ou a partir desses locais.
+
+Além disso, de acordo com o artigo 672 do Regulamento Aduaneiro, quando for considerado
+necessário, a autoridade aduaneira pode determinar o acompanhamento fiscal ou até mesmo a
+realização de busca em aeronave ou embarcação utilizada no transporte de cabotagem.
+
+(Questão Inédita) Em regra, as mercadorias nacionais ou nacionalizadas, destinadas ao mercado
+interno em transporte de cabotagem, não podem ser depositadas em recintos alfandegados.
+
+Comentários
+
+De acordo com o artigo 670, do Regulamento Aduaneiro, as mercadorias nacionais ou
+nacionalizadas, destinadas ao mercado interno em transporte de cabotagem, não poderão ser
+depositadas em recinto alfandegado.
+
+Excepcionalmente, no entanto, para atender a situações especiais, a autoridade aduaneira pode
+autorizar o depósito das mercadorias em recinto alfandegado, no prazo e nas condições que
+estabelecer.
+
+Gabarito: certo
+
+
+             11 - CONTROLE ADMINISTRATIVO ESPECÍFICO
+
+11.1 - Introdução
+
+De acordo com o Regulamento Aduaneiro, o tema “Controle Administrativo Específico”
+compreende quatro assuntos: a destinação de mercadorias, o controle de processos e
+declarações, as atividades relacionadas aos serviços aduaneiros e o Fundo Especial de
+Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização – FUNDAF.
+                                                                                          33
+                                                                                          62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                        35
+        www.estrategiaconcursos.com.br                                                    65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Abordaremos, a seguir, dois desses assuntos: o Controle de Processos e de Declarações e o
+FUNDAF.
+
+
+11.2 - Controle de Processos e Declarações
+
+De acordo com o artigo 807 do Regulamento Aduaneiro, em regra, os processos fiscais e as
+declarações prestadas não podem sair das respectivas unidades da Receita Federal.
+
+Vale destacar que é possível que sejam fornecidas cópias do processo administrativo ao sujeito
+passivo ou ao seu mandatário.
+
+Os incisos do artigo 807 do Regulamento Aduaneiro trazem, ainda assim, três exceções em que
+se admite a saída dos processos e declarações da unidade da Receita Federal.
+
+A primeira delas refere-se ao encaminhamento de recursos à instância superior. A segunda
+exceção diz respeito à restituição de autos às unidades de origem.
+
+Nesses dois casos em que se admite a saída do processo da unidade, seja para encaminhamento
+de recursos à instância superior, seja na restituição de processo à unidade de origem, o artigo 807,
+§1º, do Regulamento Aduaneiro, determina que sejam providenciadas cópias autenticadas dos
+documentos essenciais para permanecerem na unidade.
+
+A terceira exceção, em que se admite a saída de processos e declarações da unidade, sem que
+haja necessidade de manutenção de cópias autenticadas, refere-se ao encaminhamento de
+documentos para fins de processamento de dados.
+
+
+11.3 - FUNDAF
+
+O Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização –
+FUNDAF foi criado pelo Decreto-Lei nº 1.437/75, com o objetivo de fornecer recursos para
+financiar o reaparelhamento e reequipamento da Receita Federal.
+
+De acordo com o artigo 815 do Regulamento Aduaneiro, a remuneração devida ao FUNDAF pelos
+permissionários ou concessionários de recintos alfandegados, e pelos beneficiários de regimes
+aduaneiros especiais ou aplicados em áreas especiais, se for o caso, observará a legislação
+específica, inclusive as normas complementares editadas pela Secretaria da Receita Federal do
+Brasil.
+
+                                                                                                 34
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               36
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Em consonância, as Instruções Normativas SRF nº 14/1993 e 48/1996 estabelecem as regras para
+a cobrança da contribuição devida ao FUNDAF, fixando, inclusive, a forma com que o
+ressarcimento deve ser calculado.
+
+Ocorre, porém, que há uma discussão quanto à natureza jurídica dessa contribuição ao FUNDAF.
+A Fazenda sustenta que se trata de preço público, mas diversos contribuintes defendem que se
+trata de uma taxa decorrente do exercício do poder de polícia do Estado.
+
+Notem que, sendo reconhecida a natureza jurídica de taxa, a contribuição ao FUNDAF passa a ser
+um tributo, de modo que deve ser respeitado o princípio da legalidade. Por consequência, não se
+poderia admitir a instituição da taxa via instrução normativa da Receita Federal.
+
+No que diz respeito aos terminais aduaneiros de uso público, especificamente, já está pacificado
+que a contribuição para o FUNDAF tem a natureza de taxa, de modo que a sua cobrança com
+base em instrução normativa da Receita Federal é indevida. Quanto aos terminais aduaneiros de
+uso privado, ainda há discussão.
+
+Nesse sentido, podemos citar a Solução de Consulta COSIT nº 33/2019, que estabelece o
+seguinte: As empresas que explorem terminais aduaneiros de uso público estão dispensadas do
+ressarcimento ao FUNDAF, devendo tal dispensa ser observada por todas a unidades da Receita
+Federal do Brasil, não havendo, por parte dessas empresas, necessidade de adoção de
+procedimentos específicos perante a Receita Federal do Brasil.
+
+(Questão Inédita) Os processos fiscais relativos a tributos ou contribuições federais e a
+penalidades isoladas, bem como as declarações, não poderão sair das unidades da Receita
+Federal em nenhuma hipótese.
+
+Comentários
+
+Em regra, os processos fiscais relativos a tributos ou contribuições federais e a penalidades
+isoladas, bem como as declarações, não podem sair das unidades da Receita Federal. Mas os
+incisos do artigo 807 do Regulamento Aduaneiro trazem três exceções.
+
+Gabarito: errada
+
+
+                                                                                             35
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           37
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+(Questão Inédita) O Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de
+Fiscalização – FUNDAF foi criado com o objetivo de fornecer recursos para financiar o
+reaparelhamento e reequipamento da Receita Federal.
+
+Comentários
+
+Nesse sentido, confiram o teor do artigo 6º do Decreto-Lei nº 1.437/75:
+
+Art 6º Fica instituído, no Ministério da Fazenda, o Fundo Especial de Desenvolvimento e
+Aperfeiçoamento das Atividades de Fiscalização - FUNDAF, destinado a fornecer recursos para
+financiar o reaparelhamento e reequipamento da Secretaria da Receita Federal, a atender aos
+demais encargos específicos inerentes ao desenvolvimento e aperfeiçoamento das atividades de
+fiscalização dos tributos federais e, especialmente, a intensificar a repressão às infrações relativas
+a mercadorias estrangeiras e a outras modalidades de fraude fiscal ou cambial, inclusive mediante
+a instituição de sistemas especiais de controle do valor externo de mercadorias e de exames
+laboratoriais.
+
+Gabarito: certa
+
+                                      LISTA DE QUESTÕES
+
+1 – Bagagem
+
+1. (AFRFB – 2012) Para fins de aplicação da isenção para bagagem de viajante procedente do
+   exterior, entende-se por bagagem acompanhada a que chegue ao País, amparada por
+   conhecimento de carga ou documento equivalente.
+
+2. (AFRFB – 2012) Estão excluídos do conceito de bagagem os veículos automotores em geral,
+   as motocicletas, as motonetas, as bicicletas com motor, os motores para embarcação, as motos
+   aquáticas e similares, as casas rodantes, as aeronaves e as embarcações de todo tipo; e as
+   partes e peças desses bens, exceto os bens unitários, de valor inferior aos limites de isenção,
+   relacionados em listas específicas que poderão ser elaboradas pela Secretaria da Receita
+                                                                                                   36
+                                                                                                   62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 38
+        www.estrategiaconcursos.com.br                                                             65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+   Federal do Brasil. Tais bens poderão ingressar no País sob o regime de admissão temporária,
+   sempre que o viajante comprove sua residência permanente em outro país.
+
+3. (AFRF-2010- Curso de Formação) Quanto ao tratamento aplicável a bagagem de viajante, no
+   Brasil, assinale a alternativa INCORRETA:
+
+  a) A bagagem desacompanhada está isenta de tributos em relação a roupas e objetos de
+  consumo pessoal, novos ou usados.
+
+  b) O direito a isenção para bagagem é pessoal e intransferível, e somente poderá ser
+  exercido uma vez no intervalo de um mês.
+
+  c) A bagagem de estrangeiros que ingressem a título permanente no País está isenta de
+  tributos em relação a móveis e bens de uso doméstico, novos ou usados.
+
+  d) Estão compreendidas no conceito de bagagem as bebidas alcoólicas, se portadas por
+  viajantes maiores de dezoito anos.
+
+  e) Estão excluídas do conceito de bagagem as partes e peças para motocicletas e para
+  motores de embarcações.
+
+4. (AFRFB - 2014) Sobre Bagagem e Regime Aduaneiro de Bagagem no MERCOSUL, é correto
+   afirmar:
+
+  a) os veículos automotores em geral, as motocicletas, as motonetas, as bicicletas com motor,
+  os motores para embarcação, as motos aquáticas e similares, as casas rodantes, as aeronaves
+  e as embarcações de todo tipo estão excluídos do conceito de bagagem, mas esses bens
+  poderão ingressar no País sob o regime de admissão temporária, sempre que o viajante
+  comprove sua residência permanente em outro país.
+
+  b) o viajante não poderá declarar como própria bagagem de terceiro, ou utilizar o tratamento
+  de bagagem para o ingresso de bens que não lhe pertençam, exceto os cônjuges casados
+  sob o regime de comunhão universal de bens.
+
+  c) muito embora não seja razoável, mas em função da legalidade estrita que norteia a
+  temática da bagagem de viajantes, a Secretaria da Receita Federal do Brasil não está
+  autorizada a editar atos normativos específicos relativos ao tratamento tributário aplicável à
+  bagagem dos viajantes que ingressarem no País para participar da Copa do Mundo Fifa 2014.
+
+  d) por intermédio de requerimento, a bagagem                            desacompanhada   poderá   ser
+  desembaraçada antes da chegada do viajante.
+
+                                                                                                          37
+                                                                                                          62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                        39
+        www.estrategiaconcursos.com.br                                                                    65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  e) o brasileiro ou o estrangeiro residente no País, que tiver permanecido no exterior por
+  período superior a um ano, ou o estrangeiro que ingressar no País para nele residir, de forma
+  permanente, terá direito à isenção relativa aos seguintes bens, desde que usados: a) móveis
+  e outros bens de uso doméstico; e b) ferramentas, máquinas, aparelhos e instrumentos,
+  necessários ao exercício de sua profissão, arte ou ofício, individualmente considerado.
+
+
+2 – Abandono de Mercadorias
+
+5. (ATRFB – 2012) Decorrido o prazo de trinta dias da entrada no recinto alfandegado onde será
+   realizado o despacho aduaneiro de importação ao amparo do Regime de Tributação Unificada,
+   sem que tenha sido iniciado ou retomado o respectivo despacho aduaneiro, por ação ou por
+   omissão do optante pelo Regime, a mercadoria será declarada abandonada pela autoridade
+   aduaneira e destinada na forma da legislação específica.
+
+6. (AFRF-2010- Curso de Formação) Analise se é Verdadeira (V) ou Falsa (F) cada proposição a
+   seguir e assinale a alternativa que contém a sequência CORRETA.
+
+  ( ) A legislação aduaneira contempla hipótese de configuração de abandono de mercadoria,
+  ainda que se tenha providenciado o registro da respectiva declaração de importação, mas
+  cujo despacho tenha sido interrompido durante 60 dias, por ação ou omissão do importador.
+
+  ( ) Fica caracterizado o abandono da mercadoria, sujeitando-a à aplicação da pena de
+  perdimento, tão logo seja esgotado seu prazo de permanência em recinto alfandegado de
+  zona secundária.
+
+  ( ) Considera-se abandonada a mercadoria trazida do exterior como bagagem, acompanhada
+  ou desacompanhada, que permanecer em recinto alfandegado sem que seu despacho
+  aduaneiro seja iniciado no prazo de 45 dias da sua chegada ao País.
+
+  a) F V F
+
+  b) F F V
+
+  c) V F V
+
+  d) V V F
+
+  e) V V V
+
+                                                                                                  38
+                                                                                                  62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                40
+        www.estrategiaconcursos.com.br                                                            65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+3 – Extravio e Avaria de Mercadorias
+
+7. (AFRFB – 2012) Considerar-se-á, para efeitos fiscais, dano ou avaria qualquer prejuízo que
+   sofrer a mercadoria ou seu envoltório; e extravio toda e qualquer falta de mercadoria,
+   ressalvados os casos de erro inequívoco ou comprovado de expedição.
+
+8. (AFRFB – 2012) Os créditos relativos aos tributos e direitos correspondentes às mercadorias
+   extraviadas na importação serão exigidos do responsável mediante lançamento por
+   declaração. Porém, fica dispensado o referido lançamento na hipótese de o importador ou de
+   o responsável assumir espontaneamente o pagamento dos tributos.
+
+9. (AFRF-2002.1) Assinale a opção correta.
+
+  a) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o veículo
+  transportador, em razão de sinistro.
+
+  b) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o expedidor da
+  carga, por desídia ou negligência.
+
+  c) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que decorra, exclusivamente, de
+  "força maior".
+
+  d) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o transitário
+  internacional em razão de acidentes ou sinistros, ainda que provocados por terceiro
+  subcontratado.
+
+  e) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer a mercadoria
+  ou o seu envoltório.
+
+
+4 - Atividades Relacionadas aos Serviços Aduaneiros
+
+10. (AFRFB - 2023) O transporte multimodal pode ser entendido como
+
+  (A) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela unitização e
+  desunitização da carga, mas não pela consolidação e desconsolidação.
+
+  (B) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela consolidação e
+  desconsolidação da carga, mas não pela unitização e desunitização.
+
+                                                                                               39
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             41
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  (C) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela unitização e
+  desunitização da carga, e, também, pela consolidação e desconsolidação da carga.
+
+  (D) o transporte de mercadoria por qualquer modalidade de transporte, encerrando-se, por
+  natureza, a responsabilidade do operador de transporte multimodal no momento da entrega
+  da mercadoria no ponto de chegada ao ponto de destino.
+
+  (E) o transporte de mercadorias por duas ou mais modalidades diferentes de transporte,
+  responsabilizando-se o operador de transporte multimodal apenas pela entrega da carga a
+  cada responsável pelo veículo transportador de escolha do exportador.
+
+11. (AFRF-2002.1) O expedidor, o operador de transporte multimodal ou qualquer subcontratado
+    para a realização do transporte multimodal:
+
+  a) são responsáveis solidários, perante a Fazenda Nacional, pelo crédito tributário exigível.
+
+  b) são responsáveis por designação expressa, perante a Fazenda Nacional, pelo crédito
+  tributário exigível.
+
+  c) na qualidade de sujeitos passivos por sujeição direta, respondem perante a Fazenda
+  Nacional proporcionalmente ao crédito tributário exigível.
+
+  d) são contribuintes substitutos perante a                         Fazenda   Nacional,   respondendo
+  proporcionalmente pelo crédito tributário exigível.
+
+  e) são responsáveis solidários perante a Fazenda Nacional e nessa qualidade respondem
+  proporcional e equitativamente pelo crédito tributário exigível.
+
+12. (AFRF-2000) A responsabilidade do Operador de Transporte Multimodal de cargas, no
+    transporte internacional:
+
+  a) perante o contratante, cobre o período compreendido entre o instante do recebimento
+  da carga e a ocasião de sua entrega ao destinatário, e perante os órgãos fazendários,
+  permanece desde a concessão do regime de trânsito aduaneiro até o momento da entrega
+  da mercadoria ou carga em recinto alfandegado de destino
+
+  b) com relação ao contratante, inicia-se desde sua inclusão no manifesto do veículo
+  transportador até a sua descarga no local alfandegado de destino e, perante os órgãos
+  fazendários, permanece desde a autorização para embarque no veículo até sua descarga no
+  recinto alfandegado de destino
+
+
+                                                                                                         40
+                                                                                                         62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                       42
+        www.estrategiaconcursos.com.br                                                                   65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  c) perante o contratante, cobre o período compreendido entre o instante da colocação da
+  carga a bordo do veículo e a ocasião da sua chegada ao destino, e, perante os órgãos
+  fazendários, desde o recebimento da carga na origem até o seu desembaraço aduaneiro
+
+  d) relativamente ao contratante do transporte, inicia-se com a entrega da carga no local de
+  origem e cessa quando da chegada do veículo ao local de destino e, relativamente à
+  Alfândega, inicia-se desde o recebimento dos documentos relativos à carga até o
+  desembaraço aduaneiro na importação ou averbação de embarque na exportação
+
+  e) perante o contratante na importação, inicia-se desde a disponibilização da carga pelo
+  importador na condição FOB até a entrega do conhecimento de transporte à autoridade do
+  local de descarga para instruir o despacho aduaneiro e, no tocante aos tributos, inicia-se
+  desde a lavratura do Termo de Visita Aduaneira até o desembaraço aduaneiro da carga.
+
+
+5 – Representação Fiscal para Fins Penais
+
+13. (Questão Inédita) Analise os itens a seguir e atribua a letra (V) para as assertivas verdadeiras e
+    a letra (F) para as falsas.
+
+  I) O Auditor-Fiscal da Receita Federal deverá encaminhar a Representação Fiscal para Fins
+  Penais por ele elaborada diretamente ao Ministério Público.
+
+  II) Sempre que o Auditor-Fiscal da Receita Federal do Brasil constatar, no exercício de suas
+  atribuições, fato que configure, em tese, crime contra a ordem tributária, crime de
+  contrabando ou de descaminho, ou crimes em detrimento da Fazenda Nacional ou contra a
+  administração pública federal, deverá efetuar a correspondente representação fiscal para fins
+  penais, a ser encaminhada ao Ministério Público, na forma estabelecida pela Secretaria da
+  Receita Federal do Brasil.
+
+  III) A representação fiscal para fins penais relativa aos crimes contra a ordem tributária será
+  encaminhada ao Ministério Público após ter sido proferida a decisão final administrativa, no
+  processo fiscal.
+
+  Estão corretas as seguintes assertivas:
+
+  a) I e II
+
+  b) I e III
+
+  c) II e III
+
+
+                                                                                                    41
+                                                                                                    62
+
+         Receita Federal (Analista Tributário) Legislação Aduaneira                                 43
+         www.estrategiaconcursos.com.br                                                             65
+
+                                      
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  d) II
+
+  e) III
+
+14. (Questão Inédita) A representação fiscal para fins penais relativa a crime contra a ordem
+    tributária será encaminhada ao Ministério Público mesmo antes de ter sido proferida a decisão
+    final administrativa, no processo fiscal.
+
+
+6 – Destinação de Mercadorias
+
+15. (Questão Inédita) Sobre a destinação de mercadorias, analise os itens a seguir e atribua a letra
+    (V) para as assertivas verdadeiras e a letra (F) para as falsas.
+
+  I) A destinação de mercadorias somente poderá acontecer depois de decisão administrativa
+  final.
+
+  II) As mercadorias apreendidas, objeto de pena de perdimento aplicada em decisão final
+  administrativa, poderão ser alienadas a pessoas físicas ou jurídicas, mediante leilão. O
+  produto do leilão será inteiramente destinado ao Fundo Especial de Desenvolvimento e
+  Aperfeiçoamento das Atividades de Fiscalização (FUNDAF).
+
+  III) As mercadorias apreendidas, objeto de pena de perdimento aplicada em decisão final
+  administrativa, poderão ser objeto de destruição ou inutilização, quando assim recomendar
+  o interesse da Administração.
+
+  Estão corretas as seguintes assertivas:
+
+  a) I e II
+
+  b) I e III
+
+  c) I
+
+  d) II
+
+  e) III
+
+16. (ATRFB – 2012-adaptada) O produto da alienação de que trata a alínea a do inciso I do caput
+    do art. 29 do Decreto-Lei n. 1.455, de 7 de abril de 1976, terá a seguinte destinação: sessenta
+    por cento ao Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de
+    Fiscalização (Fundaf), instituído pelo Decreto-Lei n. 1.437, de 17 de dezembro de 1975; e
+    quarenta por cento à seguridade social.
+                                                                                                 42
+                                                                                                 62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                            44
+           www.estrategiaconcursos.com.br                                                        65
+
+                                        
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+17. (ATRFB – 2012) Compete ao Presidente da República dispor sobre outras formas de destinação
+    de mercadorias.
+
+
+7 - Mercadorias provenientes de acidentes
+
+18. (Questão Inédita) Não tem cabimento a promoção de despacho aduaneiro das mercadorias
+    encontradas no território brasileiro após um acidente rodoviário envolvendo veículo em
+    viagem nacional já amparada por regime especial de trânsito aduaneiro.
+
+
+8 - Mercadorias presumidas idênticas
+
+19. (Questão Inédita) A presunção de identidade entre mercadorias descritas de forma semelhante
+    em diferentes declarações aduaneiras do mesmo contribuinte é absoluta, não admitindo prova
+    em contrário.
+
+
+9 - Tráfego postal
+
+20. (Questão Inédita) O despacho aduaneiro processado mediante utilização do Siscomex
+    Remessa aplica-se aos bens contidos em remessa internacional importados por pessoa física
+    ou jurídica em caráter definitivo, cujo valor aduaneiro não ultrapasse US$ 3.000,00 (três mil
+    dólares dos Estados Unidos da América), ou o equivalente em outra moeda.
+
+21. (Questão Inédita) O atendimento ao destinatário de remessa internacional na importação será
+    efetuado pela empresa de courier ou pela ECT, exceto no curso do despacho aduaneiro.
+
+22. (Questão Inédita) Moeda corrente não pode ser exportada por meio de remessa internacional,
+    exceto no caso de moedas comemorativas lançadas pelo Banco Central do Brasil.
+
+23. (Questão Inédita) As remessas internacionais, na importação ou na exportação, serão
+    submetidas à inspeção não invasiva, durante a conferência aduaneira, com vistas a triagem
+    preliminar e a detecção de irregularidades relacionadas aos bens.
+
+24. (Questão Inédita) O Regime de Tributação Simplificada (RTS) é o que permite o pagamento
+    do Imposto de Importação na importação de bens contidos em remessa internacional, no valor
+    total de até US$ 3.000,00 (três mil dólares dos Estados Unidos da América) ou o equivalente
+    em outra moeda, mediante aplicação da alíquota única de 60% (sessenta por cento).
+
+                                                                                              43
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            45
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+10 - Tráfego de cabotagem
+
+25. (Questão Inédita) Considera-se cabotagem o transporte efetuado entre portos e aeroportos
+    nacionais.
+
+26. (Questão Inédita) A autoridade aduaneira, quando reputar necessário, pode determinar o
+    acompanhamento fiscal da aeronave ou embarcação utilizada no transporte de cabotagem.
+    Não é possível, no entanto, que seja determinada a realização de busca na aeronave ou
+    embarcação.
+
+
+11 - Controle Administrativo Específico
+
+27. (Questão Inédita) Caso o processo administrativo fiscal saia da unidade da Receita Federal em
+    virtude do encaminhamento de recurso à instância superior, devem permanecer na unidade
+    aduaneira cópias autenticadas dos documentos essenciais.
+
+28. (Questão Inédita) As empresas que explorem terminais aduaneiros de uso público estão
+    obrigadas ao recolhimento da contribuição ao FUNDAF.
+
+29. (Questão Inédita) No que diz respeito aos terminais aduaneiros de uso público, pode-se dizer
+    que a remuneração devida ao FUNDAF tem a natureza jurídica de preço público.
+
+                                                                                              44
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            46
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+     Áulus Dias Warzeé Mattos
+     Aula 08
+
+GABARITO
+
+           1. E                                     11. Letra A                  21. E
+           2. C                                     12. Letra A                  22. C
+           3. Letra A                               13. Letra C                  23. E
+           4. Letra A                               14. E                        24. C
+           5. C                                     15. Letra E                  25. C
+           6. Letra C                               16. C                        26. E
+           7. C                                     17. E                        27. C
+           8. E                                     18. E                        28. E
+           9. Letra E                               19. E                        29. E
+           10. Letra C                              20. C
+
+                                                                                         45
+                                                                                         62
+
+               Receita Federal (Analista Tributário) Legislação Aduaneira                47
+               www.estrategiaconcursos.com.br                                            65
+
+                                            
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+                                 QUESTÕES COMENTADAS
+
+1 – Bagagem
+
+1. (AFRFB – 2012) Para fins de aplicação da isenção para bagagem de viajante procedente do
+   exterior, entende-se por bagagem acompanhada a que chegue ao País, amparada por
+   conhecimento de carga ou documento equivalente.
+
+Comentários
+
+A bagagem desacompanhada é que chega ao País amparada por conhecimento de carga ou
+documento equivalente.
+
+Gabarito: errada
+
+2. (AFRFB – 2012) Estão excluídos do conceito de bagagem os veículos automotores em geral,
+   as motocicletas, as motonetas, as bicicletas com motor, os motores para embarcação, as motos
+   aquáticas e similares, as casas rodantes, as aeronaves e as embarcações de todo tipo; e as
+   partes e peças desses bens, exceto os bens unitários, de valor inferior aos limites de isenção,
+   relacionados em listas específicas que poderão ser elaboradas pela Secretaria da Receita
+   Federal do Brasil. Tais bens poderão ingressar no País sob o regime de admissão temporária,
+   sempre que o viajante comprove sua residência permanente em outro país.
+
+Comentários
+
+Segundo o art. 155, § 1º, do R/A, os bens relacionados pelo enunciado da questão são excluídos
+do conceito de bagagem. Um macete é guardar que tudo aquilo que “tiver motor”, assim como
+suas partes e peças não podem ser enquadrados como bagagem. Tais bens podem ingressar no
+País ao amparo do regime de admissão temporária, desde que o viajante comprove sua residência
+em outro país.
+
+Gabarito: certa
+
+3. (AFRF-2010- Curso de Formação) Quanto ao tratamento aplicável a bagagem de viajante, no
+   Brasil, assinale a alternativa INCORRETA:
+
+  a) A bagagem desacompanhada está isenta de tributos em relação a roupas e objetos de
+  consumo pessoal, novos ou usados.
+
+                                                                                               46
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             48
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  b) O direito a isenção para bagagem é pessoal e intransferível, e somente poderá ser
+  exercido uma vez no intervalo de um mês.
+
+  c) A bagagem de estrangeiros que ingressem a título permanente no País está isenta de
+  tributos em relação a móveis e bens de uso doméstico, novos ou usados.
+
+  d) Estão compreendidas no conceito de bagagem as bebidas alcoólicas, se portadas por
+  viajantes maiores de dezoito anos.
+
+  e) Estão excluídas do conceito de bagagem as partes e peças para motocicletas e para
+  motores de embarcações.
+
+Comentários
+
+Letra A: errada. Em relação à bagagem desacompanhada, somente há isenção para os bens de
+uso ou consumo pessoal usados. Os bens novos não estão abrangidos pela isenção.
+
+Letra B: correta. De fato, o direito à isenção é individual (pessoal) e intransferível. Além disso,
+somente pode ser exercido uma vez no intervalo de um mês.
+
+Letra C: correta. Exatamente o que dispõe o art. 162, inciso I, do R/A.
+
+Letra D: correta. As bebidas alcóolicas portadas por viajantes maiores de 18 anos estão, sim,
+compreendidas no conceito de bagagem. Há, inclusive, limites quantitativos para aplicação da
+isenção.
+
+Letra E: correta. As partes e peças para motocicletas e para motores de embarcação estão, de
+fato, excluídos do conceito de bagagem.
+
+Gabarito: letra A
+
+4. (AFRFB - 2014) Sobre Bagagem e Regime Aduaneiro de Bagagem no MERCOSUL, é correto
+   afirmar:
+
+  a) os veículos automotores em geral, as motocicletas, as motonetas, as bicicletas com motor,
+  os motores para embarcação, as motos aquáticas e similares, as casas rodantes, as aeronaves
+  e as embarcações de todo tipo estão excluídos do conceito de bagagem, mas esses bens
+  poderão ingressar no País sob o regime de admissão temporária, sempre que o viajante
+  comprove sua residência permanente em outro país.
+
+                                                                                                 47
+                                                                                                 62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               49
+        www.estrategiaconcursos.com.br                                                           65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+   b) o viajante não poderá declarar como própria bagagem de terceiro, ou utilizar o tratamento
+   de bagagem para o ingresso de bens que não lhe pertençam, exceto os cônjuges casados
+   sob o regime de comunhão universal de bens.
+
+   c) muito embora não seja razoável, mas em função da legalidade estrita que norteia a
+   temática da bagagem de viajantes, a Secretaria da Receita Federal do Brasil não está
+   autorizada a editar atos normativos específicos relativos ao tratamento tributário aplicável à
+   bagagem dos viajantes que ingressarem no País para participar da Copa do Mundo Fifa 2014.
+
+   d) por intermédio de requerimento, a bagagem                            desacompanhada   poderá   ser
+   desembaraçada antes da chegada do viajante.
+
+   e) o brasileiro ou o estrangeiro residente no País, que tiver permanecido no exterior por
+   período superior a um ano, ou o estrangeiro que ingressar no País para nele residir, de forma
+   permanente, terá direito à isenção relativa aos seguintes bens, desde que usados: a) móveis
+   e outros bens de uso doméstico; e b) ferramentas, máquinas, aparelhos e instrumentos,
+   necessários ao exercício de sua profissão, arte ou ofício, individualmente considerado.
+
+Comentários
+
+Letra A: correta. É o que está previsto no art. 155, § 1º, do Regulamento Aduaneiro:
+
+Art. 155. (...)
+
+§ 1o Estão excluídos do conceito de bagagem:
+
+I - os veículos automotores em geral, as motocicletas, as motonetas, as bicicletas com motor, os
+motores para embarcação, as motos aquáticas e similares, as casas rodantes, as aeronaves e as
+embarcações de todo tipo; e
+
+II - as partes e peças dos bens relacionados no inciso I, exceto os bens unitários, de valor inferior
+aos limites de isenção, relacionados em listas específicas que poderão ser elaboradas pela
+Secretaria da Receita Federal do Brasil.
+
+Letra B: errada. Não existe a exceção mencionada pelo enunciado. O viajante não poderá, em
+qualquer situação, declarar como própria bagagem de terceiro.
+
+Letra C: errada. O artigo 168, do Regulamento Aduaneiro, autoriza expressamente a Receita
+Federal a editar atos normativos destinadas a implementar as disposições pertinentes ao
+tratamento da bagagem de viajante.
+
+                                                                                                           48
+                                                                                                           62
+
+         Receita Federal (Analista Tributário) Legislação Aduaneira                                        50
+         www.estrategiaconcursos.com.br                                                                    65
+
+                                      
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Letra D: errada. A bagagem desacompanhada somente pode ser desembaraçada após a chegada
+do viajante (art. 158, § 2o, do R/A).
+
+Letra E: errada. Segundo o art. 162, do Regulamento Aduaneiro, a isenção abrangerá, nesse caso,
+bens novos e usados.
+
+Gabarito: letra A
+
+
+2 – Abandono de Mercadorias
+
+5. (ATRFB – 2012) Decorrido o prazo de trinta dias da entrada no recinto alfandegado onde será
+   realizado o despacho aduaneiro de importação ao amparo do Regime de Tributação Unificada,
+   sem que tenha sido iniciado ou retomado o respectivo despacho aduaneiro, por ação ou por
+   omissão do optante pelo Regime, a mercadoria será declarada abandonada pela autoridade
+   aduaneira e destinada na forma da legislação específica.
+
+Comentários
+
+Essa hipótese de abandono de mercadorias está prevista no art. 644, § 1º, inciso II, do R/A. A
+mercadoria armazenada em recinto alfandegado ao amparo do RTU será considerada abandonada
+se, após 30 dias da sua entrada no recinto, não tiver sido iniciado o despacho aduaneiro.
+
+Gabarito: certa
+
+6. (AFRF-2010- Curso de Formação) Analise se é Verdadeira (V) ou Falsa (F) cada proposição a
+   seguir e assinale a alternativa que contém a sequência CORRETA.
+
+  ( ) A legislação aduaneira contempla hipótese de configuração de abandono de mercadoria,
+  ainda que se tenha providenciado o registro da respectiva declaração de importação, mas
+  cujo despacho tenha sido interrompido durante 60 dias, por ação ou omissão do importador.
+
+  ( ) Fica caracterizado o abandono da mercadoria, sujeitando-a à aplicação da pena de
+  perdimento, tão logo seja esgotado seu prazo de permanência em recinto alfandegado de
+  zona secundária.
+
+  ( ) Considera-se abandonada a mercadoria trazida do exterior como bagagem, acompanhada
+  ou desacompanhada, que permanecer em recinto alfandegado sem que seu despacho
+  aduaneiro seja iniciado no prazo de 45 dias da sua chegada ao País.
+
+  a) F V F
+
+
+                                                                                              49
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            51
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  b) F F V
+
+  c) V F V
+
+  d) V V F
+
+  e) V V V
+
+Comentários
+
+A primeira assertiva está correta. Quando uma Declaração de Importação é objeto de exigência
+fiscal, o despacho é interrompido. Se o curso do despacho ficar interrompido por 60 dias, por
+ação ou omissão do importador, a mercadoria será considerada abandonada.
+
+A segunda assertiva está errada. A caracterização do abandono da mercadoria apenas ocorrerá
+45 dias após o vencimento do prazo de permanência em recinto alfandegado de zona secundária.
+Só então é que terá início o processo para aplicação da pena de perdimento.
+
+A terceira assertiva está correta. Essa é uma das hipóteses em que fica configurado o abandono
+de mercadoria. A mercadoria trazida do exterior como bagagem (acompanhada ou
+desacompanhada) que ficar em recinto alfandegado por 45 dias a contar da sua chegada ao País
+será declarada abandonada.
+
+Gabarito: letra C
+
+
+3 – Extravio e Avaria de Mercadorias
+
+7. (AFRFB – 2012) Considerar-se-á, para efeitos fiscais, dano ou avaria qualquer prejuízo que
+   sofrer a mercadoria ou seu envoltório; e extravio toda e qualquer falta de mercadoria,
+   ressalvados os casos de erro inequívoco ou comprovado de expedição.
+
+Comentários
+
+Avaria é qualquer prejuízo que sofrer a mercadoria ou o seu envoltório; extravio, por sua vez, é
+toda e qualquer falta de mercadoria. Não se considera que houve extravio na hipótese de erro
+inequívoco ou comprovado de expedição.
+
+Gabarito: certa
+
+8. (AFRFB – 2012) Os créditos relativos aos tributos e direitos correspondentes às mercadorias
+   extraviadas na importação serão exigidos do responsável mediante lançamento por
+
+                                                                                             50
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           52
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+   declaração. Porém, fica dispensado o referido lançamento na hipótese de o importador ou de
+   o responsável assumir espontaneamente o pagamento dos tributos.
+
+Comentários
+
+No caso de extravio da mercadoria, os créditos tributários serão exigidos mediante lançamento
+de ofício.
+
+Gabarito: errada
+
+9. (AFRF-2002.1) Assinale a opção correta.
+
+  a) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o veículo
+  transportador, em razão de sinistro.
+
+  b) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o expedidor da
+  carga, por desídia ou negligência.
+
+  c) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que decorra, exclusivamente, de
+  "força maior".
+
+  d) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer o transitário
+  internacional em razão de acidentes ou sinistros, ainda que provocados por terceiro
+  subcontratado.
+
+  e) Avaria - Em Direito Aduaneiro corresponde ao prejuízo que venha a sofrer a mercadoria
+  ou o seu envoltório.
+
+Comentários
+
+De acordo com o art. 649, inciso I, do R/A, avaria é qualquer prejuízo que sofrer a mercadoria ou
+o seu envoltório. A resposta é a letra E.
+
+Gabarito: letra E
+
+
+4 - Atividades Relacionadas aos Serviços Aduaneiros
+
+10. (AFRFB - 2023) O transporte multimodal pode ser entendido como
+
+  (A) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela unitização e
+  desunitização da carga, mas não pela consolidação e desconsolidação.
+                                                                                               51
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             53
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  (B) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela consolidação e
+  desconsolidação da carga, mas não pela unitização e desunitização.
+
+  (C) o transporte realizado por dois ou mais meios de transporte distintos, podendo ser
+  atribuída ao operador do transporte multimodal a responsabilidade pela unitização e
+  desunitização da carga, e, também, pela consolidação e desconsolidação da carga.
+
+  (D) o transporte de mercadoria por qualquer modalidade de transporte, encerrando-se, por
+  natureza, a responsabilidade do operador de transporte multimodal no momento da entrega
+  da mercadoria no ponto de chegada ao ponto de destino.
+
+  (E) o transporte de mercadorias por duas ou mais modalidades diferentes de transporte,
+  responsabilizando-se o operador de transporte multimodal apenas pela entrega da carga a
+  cada responsável pelo veículo transportador de escolha do exportador.
+
+Comentários:
+
+Letra A: errada. O Transporte Multimodal de Cargas é, de fato, aquele que, regido por um único
+contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o destino, e é
+executado sob a responsabilidade única de um Operador de Transporte Multimodal, conforme
+artigo 2º, caput, da Lei nº 9.611/98.
+
+Porém, de acordo com o artigo 3º, também da Lei nº 9.611/98, o Transporte Multimodal de Cargas
+compreende, além do transporte em si, os serviços de coleta, unitização, desunitização,
+movimentação, armazenagem e entrega de carga ao destinatário, bem como a realização dos
+serviços correlatos que forem contratados entre a origem e o destino, inclusive os de consolidação
+e desconsolidação documental de cargas.
+
+Letra B: errada. O Transporte Multimodal de Cargas é, de fato, aquele que, regido por um único
+contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o destino, e é
+executado sob a responsabilidade única de um Operador de Transporte Multimodal, conforme
+artigo 2º, caput, da Lei nº 9.611/98.
+
+Porém, de acordo com o artigo 3º, também da Lei nº 9.611/98, o Transporte Multimodal de Cargas
+compreende, além do transporte em si, os serviços de coleta, unitização, desunitização,
+movimentação, armazenagem e entrega de carga ao destinatário, bem como a realização dos
+serviços correlatos que forem contratados entre a origem e o destino, inclusive os de consolidação
+e desconsolidação documental de cargas.
+
+Letra C: certa. Perfeito. O Transporte Multimodal de Cargas é, de fato, aquele que, regido por um
+único contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o destino, e é
+                                                                                                52
+                                                                                               62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             54
+        www.estrategiaconcursos.com.br                                                         65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+executado sob a responsabilidade única de um Operador de Transporte Multimodal, conforme
+artigo 2º, caput, da Lei nº 9.611/98.
+
+Além disso, de acordo com o artigo 3º, também da Lei nº 9.611/98, o Transporte Multimodal de
+Cargas compreende, além do transporte em si, os serviços de coleta, unitização, desunitização,
+movimentação, armazenagem e entrega de carga ao destinatário, bem como a realização dos
+serviços correlatos que forem contratados entre a origem e o destino, inclusive os de consolidação
+e desconsolidação documental de cargas.
+
+Letra D: errada. O Transporte Multimodal de Cargas é aquele que utiliza duas ou mais
+modalidades de transporte, desde a origem até o destino, e é executado sob a responsabilidade
+única de um Operador de Transporte Multimodal, conforme artigo 2º, caput, da Lei nº 9.611/98.
+
+Além disso, de acordo com o artigo 13, da mesma Lei nº 9.611/98, a responsabilidade do
+Operador de Transporte Multimodal cobre o período compreendido entre o instante do
+recebimento da carga e a ocasião da sua entrega ao destinatário, e só cessa por ocasião do
+recebimento da carga pelo destinatário, sem protestos ou ressalvas.
+
+Letra E: errada. O Transporte Multimodal de Cargas é, de fato, aquele que, regido por um único
+contrato, utiliza duas ou mais modalidades de transporte, desde a origem até o destino, e é
+executado sob a responsabilidade única de um Operador de Transporte Multimodal, conforme
+artigo 2º, caput, da Lei nº 9.611/98.
+
+De acordo com o artigo 13, da mesma Lei nº 9.611/98, no entanto, a responsabilidade do
+Operador de Transporte Multimodal cobre o período compreendido entre o instante do
+recebimento da carga e a ocasião da sua entrega ao destinatário, e só cessa por ocasião do
+recebimento da carga pelo destinatário, sem protestos ou ressalvas.
+
+Gabarito: letra C.
+
+11. (AFRF-2002.1) O expedidor, o operador de transporte multimodal ou qualquer subcontratado
+    para a realização do transporte multimodal:
+
+  a) são responsáveis solidários, perante a Fazenda Nacional, pelo crédito tributário exigível.
+
+  b) são responsáveis por designação expressa, perante a Fazenda Nacional, pelo crédito
+  tributário exigível.
+
+  c) na qualidade de sujeitos passivos por sujeição direta, respondem perante a Fazenda
+  Nacional proporcionalmente ao crédito tributário exigível.
+
+                                                                                                  53
+                                                                                                  62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                55
+        www.estrategiaconcursos.com.br                                                            65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  d) são contribuintes substitutos perante a                         Fazenda   Nacional,   respondendo
+  proporcionalmente pelo crédito tributário exigível.
+
+  e) são responsáveis solidários perante a Fazenda Nacional e nessa qualidade respondem
+  proporcional e equitativamente pelo crédito tributário exigível.
+
+Comentários:
+
+Segundo o art. 106, inciso V, do R/A, o expedidor, o operador de transporte multimodal ou
+qualquer subcontratado para a realização do transporte multimodal são responsáveis solidários
+relativamente ao imposto de importação. Logo, a resposta é a letra A.
+
+Gabarito: letra A
+
+12. (AFRF-2000) A responsabilidade do Operador de Transporte Multimodal de cargas, no
+    transporte internacional:
+
+  a) perante o contratante, cobre o período compreendido entre o instante do recebimento
+  da carga e a ocasião de sua entrega ao destinatário, e perante os órgãos fazendários,
+  permanece desde a concessão do regime de trânsito aduaneiro até o momento da entrega
+  da mercadoria ou carga em recinto alfandegado de destino
+
+  b) com relação ao contratante, inicia-se desde sua inclusão no manifesto do veículo
+  transportador até a sua descarga no local alfandegado de destino e, perante os órgãos
+  fazendários, permanece desde a autorização para embarque no veículo até sua descarga no
+  recinto alfandegado de destino
+
+  c) perante o contratante, cobre o período compreendido entre o instante da colocação da
+  carga a bordo do veículo e a ocasião da sua chegada ao destino, e, perante os órgãos
+  fazendários, desde o recebimento da carga na origem até o seu desembaraço aduaneiro
+
+  d) relativamente ao contratante do transporte, inicia-se com a entrega da carga no local de
+  origem e cessa quando da chegada do veículo ao local de destino e, relativamente à
+  Alfândega, inicia-se desde o recebimento dos documentos relativos à carga até o
+  desembaraço aduaneiro na importação ou averbação de embarque na exportação
+
+  e) perante o contratante na importação, inicia-se desde a disponibilização da carga pelo
+  importador na condição FOB até a entrega do conhecimento de transporte à autoridade do
+  local de descarga para instruir o despacho aduaneiro e, no tocante aos tributos, inicia-se
+  desde a lavratura do Termo de Visita Aduaneira até o desembaraço aduaneiro da carga.
+
+Comentários
+                                                                                                         54
+                                                                                                         62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                       56
+        www.estrategiaconcursos.com.br                                                                   65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Letra A: correta. A responsabilidade do OTM junto ao contratante vai desde o momento do
+recebimento da carga até a entrega desta ao destinatário. A responsabilidade o OTM junto aos
+órgãos fazendários vai desde a concessão do regime de trânsito aduaneiro até a entrega da
+mercadoria em recinto alfandegado.
+
+Letra B: errada. A inclusão da carga no manifesto do veículo transportador é posterior ao
+recebimento da carga. É com o recebimento da carga que se inicia a responsabilidade do OTM
+perante o contratante. Não há responsabilidade do OTM perante os órgãos fazendários no
+momento da autorização do embarque, uma vez que o embarque ocorre no exterior, fora da
+jurisdição aduaneira.
+
+Letra C: errada. Os órgãos fazendários não têm jurisdição sobre o território estrangeiro. Logo, não
+faz sentido em dizer que a responsabilidade do OTM perante os órgãos fazendários se inicia com
+o recebimento da carga na origem. Outro erro é dizer que a responsabilidade perante o
+contratante se inicia com a colocação da mercadoria a bordo do veículo.
+
+Letra D: errada. A responsabilidade do OTM junto à Aduana, na importação, inicia-se com a
+concessão do regime de trânsito aduaneiro.
+
+Letra E: errada. Não existe mais essa tal de “visita aduaneira”, ok? Outro erro é dizer que a
+responsabilidade do OTM perante o contratante começa com a disponibilização da mercadoria
+na condição FOB. Não é isso! A responsabilidade perante o contratante se inicia no momento do
+recebimento da carga, que não precisa ser a bordo do veículo.
+
+Gabarito: letra A
+
+
+5 – Representação Fiscal para Fins Penais
+
+13. (Questão Inédita) Analise os itens a seguir e atribua a letra (V) para as assertivas verdadeiras e
+    a letra (F) para as falsas.
+
+  I) O Auditor-Fiscal da Receita Federal deverá encaminhar a Representação Fiscal para Fins
+  Penais por ele elaborada diretamente ao Ministério Público.
+
+  II) Sempre que o Auditor-Fiscal da Receita Federal do Brasil constatar, no exercício de suas
+  atribuições, fato que configure, em tese, crime contra a ordem tributária, crime de
+  contrabando ou de descaminho, ou crimes em detrimento da Fazenda Nacional ou contra a
+  administração pública federal, deverá efetuar a correspondente representação fiscal para fins
+  penais, a ser encaminhada ao Ministério Público, na forma estabelecida pela Secretaria da
+  Receita Federal do Brasil.
+
+
+                                                                                                   55
+                                                                                                   62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 57
+        www.estrategiaconcursos.com.br                                                             65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+  III) A representação fiscal para fins penais relativa aos crimes contra a ordem tributária será
+  encaminhada ao Ministério Público após ter sido proferida a decisão final administrativa, no
+  processo fiscal.
+
+  Estão corretas as seguintes assertivas:
+
+  a) I e II
+
+  b) I e III
+
+  c) II e III
+
+  d) II
+
+  e) III
+
+Comentários
+
+A primeira assertiva está errada. Pela leitura da Portaria RFB nº 2.439/2010, percebe-se que o
+Auditor-Fiscal RFB não encaminha a Representação Fiscal para Fins Penais diretamente ao
+Ministério Público. O encaminhamento é realizado mediante ofício do titular da unidade.
+
+A segunda assertiva está correta. Exatamente o que prevê o art. 740, do R/A, que estabelece a
+obrigação do Auditor-Fiscal RFB efetuar Representação Fiscal para Fins Penais quando da
+constatação de crimes contra a ordem tributária, crime de contrabando ou de descaminho, ou
+crimes em detrimento da Fazenda Nacional ou contra a administração pública federal.
+
+A terceira assertiva está correta. É o que prevê o art. 741 do R/A. No caso de crimes contra a
+ordem tributária, a RFFP será encaminhada ao Ministério Público após ter sido proferida a decisão
+administrativa final.
+
+Gabarito: letra C
+
+14. (Questão Inédita) A representação fiscal para fins penais relativa a crime contra a ordem
+    tributária será encaminhada ao Ministério Público mesmo antes de ter sido proferida a decisão
+    final administrativa, no processo fiscal.
+
+Comentários
+
+No caso de crimes contra a ordem tributária, a representação fiscal para fins penais será
+encaminhada ao Ministério Público após ser proferida decisão final administrativa no processo
+fiscal.
+
+                                                                                                    56
+                                                                                                    62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                               58
+           www.estrategiaconcursos.com.br                                                           65
+
+                                        
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Gabarito: errada
+
+
+6 – Destinação de Mercadorias
+
+15. (Questão Inédita) Sobre a destinação de mercadorias, analise os itens a seguir e atribua a letra
+    (V) para as assertivas verdadeiras e a letra (F) para as falsas.
+
+  I) A destinação de mercadorias somente poderá acontecer depois de decisão administrativa
+  final.
+
+  II) As mercadorias apreendidas, objeto de pena de perdimento aplicada em decisão final
+  administrativa, poderão ser alienadas a pessoas físicas ou jurídicas, mediante leilão. O
+  produto do leilão será inteiramente destinado ao Fundo Especial de Desenvolvimento e
+  Aperfeiçoamento das Atividades de Fiscalização (FUNDAF).
+
+  III) As mercadorias apreendidas, objeto de pena de perdimento aplicada em decisão final
+  administrativa, poderão ser objeto de destruição ou inutilização, quando assim recomendar
+  o interesse da Administração.
+
+  Estão corretas as seguintes assertivas:
+
+  a) I e II
+
+  b) I e III
+
+  c) I
+
+  d) II
+
+  e) III
+
+Comentários
+
+A primeira assertiva está errada. No caso de semoventes, perecíveis e mercadorias que exijam
+condições especiais de armazenamento, é possível a destinação de mercadorias apreendidas e
+objeto da pena de perdimento antes da decisão administrativa final.
+
+A segunda assertiva está errada. O produto do leilão não será inteiramente destinado ao FUNDAF.
+Parte vai para o FUNDAF (60%) e outra parte vai para a seguridade social (40%).
+
+A terceira assertiva está correta. Quando assim recomendar o interesse da Administração, as
+mercadorias apreendidas e objeto da pena de perdimento podem ser destruídas ou inutilizadas.
+                                                                                                 57
+                                                                                                 62
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                            59
+           www.estrategiaconcursos.com.br                                                        65
+
+                                        
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+Gabarito: letra E
+
+16. (ATRFB – 2012-adaptada) O produto da alienação de que trata a alínea a do inciso I do caput
+    do art. 29 do Decreto-Lei n. 1.455, de 7 de abril de 1976, terá a seguinte destinação: sessenta
+    por cento ao Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de
+    Fiscalização (Fundaf), instituído pelo Decreto-Lei n. 1.437, de 17 de dezembro de 1975; e
+    quarenta por cento à seguridade social.
+
+Comentários
+
+No caso de destinação por alienação (leilão), 60% vai para o FUNDAF e 40% para a seguridade
+social.
+
+Gabarito: certa
+
+17. (ATRFB – 2012) Compete ao Presidente da República dispor sobre outras formas de destinação
+    de mercadorias.
+
+Comentários
+
+Nos termos do art. 803, § 7o, do R/A, o Ministro da Fazenda é que poderá dispor sobre outras
+formas de destinação de mercadorias.
+
+Gabarito: errada
+
+
+7 - Mercadorias provenientes de acidentes
+
+18. (Questão Inédita) Não tem cabimento a promoção de despacho aduaneiro das mercadorias
+    encontradas no território brasileiro após um acidente rodoviário envolvendo veículo em
+    viagem nacional já amparada por regime especial de trânsito aduaneiro.
+
+Comentários
+
+As mercadorias transportadas por veículo em viagem nacional, desde que amparada por regime
+especial de trânsito aduaneiro, submetem-se às mesmas regras previstas para as mercadorias
+transportadas por veículo em viagem internacional (artigo 639, §1º, do Regulamento Aduaneiro).
+
+Assim, deve ser promovido o despacho aduaneiro dessas mercadorias encontradas no território
+brasileiro, no prazo de sessenta dias contados da notificação expedida pela unidade da Receita
+Federal (artigo 640 do Regulamento Aduaneiro).
+
+Gabarito: errada
+                                                                                                58
+                                                                                                62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              60
+        www.estrategiaconcursos.com.br                                                          65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+8 - Mercadorias presumidas idênticas
+
+19. (Questão Inédita) A presunção de identidade entre mercadorias descritas de forma semelhante
+    em diferentes declarações aduaneiras do mesmo contribuinte é absoluta, não admitindo prova
+    em contrário.
+
+Comentários
+
+A presunção é relativa, pelo que admite prova em contrário.
+
+Gabarito: errada
+
+
+9 - Tráfego postal
+
+20. (Questão Inédita) O despacho aduaneiro processado mediante utilização do Siscomex
+    Remessa aplica-se aos bens contidos em remessa internacional importados por pessoa física
+    ou jurídica em caráter definitivo, cujo valor aduaneiro não ultrapasse US$ 3.000,00 (três mil
+    dólares dos Estados Unidos da América), ou o equivalente em outra moeda.
+
+Comentários
+
+Perfeito. Esse é o teor do artigo 37 da IN RFB nº 1.737/17.
+
+Gabarito: certa
+
+21. (Questão Inédita) O atendimento ao destinatário de remessa internacional na importação será
+    efetuado pela empresa de courier ou pela ECT, exceto no curso do despacho aduaneiro.
+
+Comentários
+
+O atendimento ao destinatário de remessa internacional na importação, inclusive no curso do
+despacho aduaneiro, será efetuado pela empresa de courier ou pela ECT (artigo 14 da IN RFB nº
+1.737/17).
+
+Gabarito: errada
+
+22. (Questão Inédita) Moeda corrente não pode ser exportada por meio de remessa internacional,
+    exceto no caso de moedas comemorativas lançadas pelo Banco Central do Brasil.
+
+Comentários
+
+
+                                                                                              59
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            61
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+   Áulus Dias Warzeé Mattos
+   Aula 08
+
+Perfeito. Nesse sentido, o artigo 69, §2º, da IN RFB nº 1.737/17:
+
+Art. 69. Não poderão ser exportados por meio de remessa internacional:
+
+(...)
+
+II - moeda corrente;
+
+(...)
+
+§ 2º Excetuam-se do disposto no inciso II do caput as moedas comemorativas lançadas pelo Banco
+Central do Brasil.
+
+Gabarito: certa
+
+23. (Questão Inédita) As remessas internacionais, na importação ou na exportação, serão
+    submetidas à inspeção não invasiva, durante a conferência aduaneira, com vistas a triagem
+    preliminar e a detecção de irregularidades relacionadas aos bens.
+
+Comentários
+
+As remessas internacionais, na importação ou na exportação, serão submetidas à inspeção não
+invasiva, previamente à conferência aduaneira, antes ou depois do registro da correspondente
+declaração aduaneira, com vistas a triagem preliminar e a detecção de irregularidades
+relacionadas aos bens (artigo 18 da IN RFB nº 1.737/17).
+
+Gabarito: errada
+
+24. (Questão Inédita) O Regime de Tributação Simplificada (RTS) é o que permite o pagamento
+    do Imposto de Importação na importação de bens contidos em remessa internacional, no valor
+    total de até US$ 3.000,00 (três mil dólares dos Estados Unidos da América) ou o equivalente
+    em outra moeda, mediante aplicação da alíquota única de 60% (sessenta por cento).
+
+Comentários
+
+Isso é exatamente o que nos diz o artigo 21 IN RFB nº 1.737/17.
+
+Gabarito: certa
+
+                                                                                            60
+                                                                                            62
+
+         Receita Federal (Analista Tributário) Legislação Aduaneira                         62
+         www.estrategiaconcursos.com.br                                                     65
+
+                                      
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+10 - Tráfego de cabotagem
+
+25. (Questão Inédita) Considera-se cabotagem o transporte efetuado entre portos e aeroportos
+    nacionais.
+
+Comentários
+
+Perfeito. Essa é a definição de cabotagem trazida pelo artigo 669 do Regulamento Aduaneiro.
+
+Gabarito: certa
+
+26. (Questão Inédita) A autoridade aduaneira, quando reputar necessário, pode determinar o
+    acompanhamento fiscal da aeronave ou embarcação utilizada no transporte de cabotagem.
+    Não é possível, no entanto, que seja determinada a realização de busca na aeronave ou
+    embarcação.
+
+Comentários
+
+De acordo com o artigo 672 do Regulamento Aduaneiro, a autoridade aduaneira poderá, quando
+necessário, determinar a realização de busca em aeronave ou embarcação, utilizada no transporte
+de cabotagem, ou seu acompanhamento fiscal.
+
+Gabarito: errada
+
+
+11 - Controle Administrativo Específico
+
+27. (Questão Inédita) Caso o processo administrativo fiscal saia da unidade da Receita Federal em
+    virtude do encaminhamento de recurso à instância superior, devem permanecer na unidade
+    aduaneira cópias autenticadas dos documentos essenciais.
+
+Comentários
+
+Perfeito. Nesse sentido o artigo 807, §1º, do Regulamento Aduaneiro.
+
+Gabarito: certa
+
+28. (Questão Inédita) As empresas que explorem terminais aduaneiros de uso público estão
+    obrigadas ao recolhimento da contribuição ao FUNDAF.
+
+Comentários
+
+
+                                                                                              61
+                                                                                              62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            63
+        www.estrategiaconcursos.com.br                                                        65
+
+                                     
+
+
+---
+
+  Áulus Dias Warzeé Mattos
+  Aula 08
+
+De acordo com a SC COSIT nº 33/19, as empresas que explorem terminais aduaneiros de uso
+público estão dispensadas do ressarcimento ao FUNDAF, devendo tal dispensa ser observada por
+todas a unidades da Receita Federal do Brasil, não havendo, por parte dessas empresas,
+necessidade de adoção de procedimentos específicos perante a Receita Federal do Brasil.
+
+Gabarito: errada
+
+29. (Questão Inédita) No que diz respeito aos terminais aduaneiros de uso público, pode-se dizer
+    que a remuneração devida ao FUNDAF tem a natureza jurídica de preço público.
+
+Comentários
+
+Para os terminais aduaneiros de uso público já está pacificado que a contribuição ao FUNDAF tem
+natureza jurídica de taxa.
+
+Gabarito: errada
+
+                                                                                             62
+                                                                                             62
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           64
+        www.estrategiaconcursos.com.br                                                       65
+
+                                     
+
+
+---
+
+---

@@ -1,0 +1,248 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_011_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '01'
+titulo_aula: ENCONTROS DE DUAS LETRAS (VOGAIS OU CONSOANTES) COM SOM DE UMA SÓ. NORMALMENTE,
+  HAVENDO UM
+---
+
+# ENCONTROS DE DUAS LETRAS (VOGAIS OU CONSOANTES) COM SOM DE UMA SÓ. NORMALMENTE, HAVENDO UM
+
+ENCONTROS DE DUAS LETRAS (VOGAIS OU CONSOANTES) COM SOM DE UMA SÓ. NORMALMENTE, HAVENDO UM
+    DÍGRAFOS                           DÍGRAFO, A PALAVRA TERÁ MAIS LETRAS DO QUE FONEMAS.
+
+                                         CONSOANTES: CH, LH, NH, SC, SÇ, XC, XS, RR, SS, QU, GU E XC.                     Exemplo: Chá, Exceção.
+                                         VOGAIS NASAIS : AM OU AN, EM OU EN, IM OU IN, OM OU ON E UM OU UN                             Exemplo: Campo, canto
+
+
+ENCONTROS CONSONANTAIS                                         HAVENDO UM ENCONTRO CONSONANTAL, CADA LETRA REPRESENTARÁ UM ÚNICO SOM.
+
+
+ SEQUÊNCIA DE DOIS SONS CONSONANTAIS NUMA                                                           NA MESMA SÍLABA. EX: CLIMA, FLORES, PSICOSE.
+                                                               PODE OCORRER:
+                     PALAVRA.
+                                                                                                    EM SÍLABAS DIFERENTES. EX: ADVENTO, OBTUSO.
+         ENCONTROS DE SONS VOCÁLICOS.
+
+                                                                                                       VOGAL (V): PRONUNCIADA COM MAIS INTENSIDADE.
+                                                                    CONCEITOS
+                                                                                                       SEMIVOGAL (SV): PRONUNCIADA COM MENOS INTENSIDADE.
+    ENCONTROS VOCÁLICOS
+                                                                 CLASSIFICAÇÃO                         DITONGO: (SV + V) OU (V + SV)
+
+TRITONGO: SV + V + SV
+                                                                Ditongo Crescente: sv + V                   Ex: precáriAs - ditongo oral; enquAnto - ditongo nasal).
+       EX: URUGUAI,SAGUÃO, DESÁGUEM.
+                                                                                           O ditongo crescente “iA” em palavras como “pre-cá-riAs”
+                                                                                         também pode ser classificado como um hiato “pre-cá-rI-As”.
+ HIATO: V + V
+       EX: INCLUÍRAM, SAÚDE, PAÍSES.                            Ditongo Decrescente: V + sv                    Ex: imóvEis - ditongo oral; sótÃo - ditongo nasal).
+
+                                                                                                                                                    PORTUGUÊS
+                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              REGRAS GERAIS DE ACENTUAÇÃO
+                                                    MONOSSÍLABOS TÔNICOS
+                                        Primeira Regra                                           Segunda Regra
+                            Monossílabos tônicos terminados em:                    Monossílabos tônicos terminados em:
+                                          A, E, O                                      ditongo aberto ÉU, ÉI, ÓI
+                                      Ex: pá, pé, pó, más                                     Ex: céu, déis, dói, sóis
+                          Nos dois casos podem ser seguidos ou não de S, pois o plural não afeta a regra.
+
+                                         OXÍTONAS (Última sílaba da palavra é tônica)
+                                                                                                 Oxítonas terminadas em
+                    Oxítonas terminadas em Oxítonas terminadas em
+                                                                                              EM, ENS (desde que haja 2 ou +
+                            A, E, O        ditongos abertos ÉU, ÉI, ÓI
+                                                                                                         sílabas)
+                        Ex: sofá, café, avó       Ex: chapéu, fiéis, herói                           Ex: parabéns, porém
+
+          PROPAROXÍTONAS                                                          PAROXÍTONAS (Penúltima sílaba da palavra é tônica)
+(Antepenúltima sílaba da palavra é tônica)                                            Regra Geral                                 Regra Específica
+             Todas são acentuadas.
+ (Essa regra prevalece sobre qualquer outra!)
+                                                            Acentuam-se todas paroxítonas exceto as                        Acentuam-se as PAROXÍTONAS
+                                                                terminadas em A, E, O, EM, ENS                             terminadas em DITONGO ORAL
+
+
+                                                                              Ex: fácil, hífen, álbum                       Ex: indivíduos, precárias, série
+
+                                                            Paroxítonas que tragam ditongo aberto EI, OI não são acentuadas (Ex: Ideia, heroico).
+
+
+ATENÇÃO : ALTA INCIDÊNCIA QUANDO O EDITAL COBRA ACENTUAÇÃO
+                                                                                                                                                 PORTUGUÊS
+                                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                   REGRAS GERAIS DE ACENTUAÇÃO
+
+
+              HIATOS                 DEVEMOS ACENTUAR O I E O U TÔNICOS, EM HIATO, FORMANDO SÍLABA SOZINHA OU COM S.
+                                     • EX: CAÍ, FAÍSCA, PARAÍBA, EGOÍSTA, RUÍDO, SAÚDE, SAÚVA, BALAÚSTRE.
+
+                                     EM SENTIDO CONTRÁRIO, NÃO POSSUEM ACENTO O I E O U TÔNICOS, EM HIATOS, QUANDO
+                                     FORMAM SÍLABA COM LETRA QUE NÃO SEJA S.
+
+                                     • EX: CAIR, SAINDO, SAIU, RAUL, JUIZ.
+
+                                     ESSA REGRA NÃO CONSIDERA A CLASSIFICAÇÃO TÔNICA, POIS VALE TANTO PARA OXÍTONAS
+                                     (A-ÇA-Í) QUANTO PARA PAROXÍTONAS (SA-Ú-DE).
+
+
+      ALGUMAS PAROXÍTONAS TERMINADAS EM DITONGO CRESCENTE PODEM TAMBÉM SER CONSIDERADAS PROPAROXÍTONAS EVENTUAIS OU
+      APARENTES (TEORIA MINORITÁRIA), COMO NAS PALAVRAS PRECÁRIA E HISTÓRIA.
+
+
+                                         •PÔDE (PRETÉRITO) X PODE (PRESENTE).
+                                         •PÔR (VERBO) X POR (PREPOSIÇÃO).
+                                         •VEM/TEM (3ª SINGULAR) X VÊM/TÊM (3ª PLURAL).
+         ACENTOS DIFERENCIAIS
+                                         •VERBO MANTER E DERIVADOS: MANTÉM (3ª SINGULAR) X MANTÊM (3ª PLURAL).
+                                         •VERBO INTERVIR E DERIVADOS: INTERVÉM (3ª SINGULAR) X INTERVÊM (3ª PLURAL).
+                                         •FACULTATIVO: FÔRMA (OBJETO) X FORMA (VERBO FORMAR)
+
+ATENÇÃO : ALTA INCIDÊNCIA QUANDO O EDITAL COBRA ACENTUAÇÃO
+                                                                                                                            PORTUGUÊS
+                                                                                     ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                      ATENÇÃO : ALTA INCIDÊNCIA QUANDO O EDITAL COBRA ORTOGRAFIA
+
+                                                                        EMPREGO DO HÍFEN
+                   PARA SEPARAR LETRAS IGUAIS NA UNIÃO DE PREFIXOS A PALAVRAS.                                 EX: MICRO-ONDAS, ANTI-INFLAMATÓRIO, CONTRA-ATAQUE, SUPER-RESISTENTE.
+
+                   NA UNIÃO DE DUAS PALAVRAS QUE FORMAM UMA UNIDADE DE SENTIDO
+                   PARTICULAR (CHAMADA ENCADEAMENTO).
+                                                                                                               EX: PONTE RIO-NITERÓI; EIXO RIO-SÃO PAULO; PERCURSO CASA-TRABALHO.
+USA-SE HÍFEN
+
+                   ANTES DE PALAVRA COM H.                                                                     EX: ANTI-HIGIÊNICO, PRÉ-HISTÓRIA, SUPER-HOMEM, SUB-HEPÁTICO.
+
+                   COM OS PREFIXOS RECÉM, ALÉM, AQUÉM, SEM, EX, VICE.                                          EX: RECÉM-NASCIDO, ALÉM-TÚMULO, SEM-TERRA, EX-PRESIDENTE, VICE-PRESIDENTE.
+
+                   COM OS PREFIXOS TÔNICOS PRÉ, PRÓ E PÓS.                                                     EX: PRÉ-ESCOLAR, PRÓ-AMERICANO, PÓS-GRADUAÇÃO.
+
+                   COM OS PREFIXOS SUB E SOB + R/B.                                                            EX: SUB-REGIÃO, SUB-RAÇA, SUB-REITOR, SUB-REPTÍCIO.
+
+                   COM OS PREFIXOS CIRCUM E PAN + VOGAL/M/N.                                                   EX: PAN-AMERICANO; PAN-EUROPEU; CIRCUM-ADJACENTE; CIRCUM-NAVEGAÇÃO.
+NÃO SE USA HÍFEN
+
+                   PARA UNIR LETRAS DIFERENTES NA JUNÇÃO DE PREFIXOS A PALAVRAS                                EX: AUTOESTRADA, AGROINDUSTRIAL, ANTEONTEM, HIPERMERCADO, HIPERATIVO;
+
+                   COM O PREFIXO CO.                                                                           EX: COOPERATIVA, COOBRIGADO.
+
+                   APÓS NÃO E QUASE                                                                            EX: NÃO AGRESSÃO; NÃO FUMANTE; QUASE DELITO; QUASE MORTE.
+
+                   ENTRE PALAVRAS COMPOSTAS COM ELEMENTO DE LIGAÇÃO (INCLUSIVE COM                             EX: MÃO DE OBRA; DIA A DIA; CAFÉ COM LEITE, CARA DE PAU, CORPO A CORPO;
+                   PALAVRAS REPETIDAS), POIS A PREPOSIÇÃO JÁ É UM ELEMENTO CONECTOR.                           FACE A FACE. EXCEÇÕES:
+                                                                                                   ARCO-DA-VELHA; MAIS-QUE-PERFEITO; COR-DE-
+                   ATENÇÃO! SE APÓS A VOGAL QUE TERMINA O PREFIXO HOUVER S OU R, ESTA              ROSA; ÁGUA-DE-COLÔNIA; PÉ-DE-MEIA; GOTA-
+                   DEVE SER DUPLICADA (EX: MINISSAIA; CONTRARREGRA).                               D’ÁGUA, AO DEUS-DARÁ, À QUEIMA-ROUPA.
+                                                                                                                                                                          PORTUGUÊS
+                                                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                        CONTEÚDO DE GRANDE RELEVÂNCIA
+                                  EXPRESSÕES PROBLEMÁTICAS:
+
+                                          PORQUE X POR QUE X POR QUÊ X PORQUÊ
+
+PORQUE: CONJUNÇÃO EXPLICATIVA OU CAUSAL              EX: ESTUDO PORQUE SEI QUE MINHA HORA VAI CHEGAR.
+
+                  USADO EM FRASES INTERROGATIVAS DIRETAS OU INDIRETAS
+
+POR QUE:               EX: POR QUE VOCÊ É GROSSEIRO? / EX: NÃO SEI POR QUE VOCÊ SE FOI...
+
+                  SENTIDO DE “PELO QUAL”, “PELA QUAL” = POR (PREPOSIÇÃO) + QUE (PRONOME RELATIVO)
+                       EX: SÓ EU SEI AS ESQUINAS POR QUE PASSEI. (= PELAS QUAIS PASSEI)
+
+
+POR QUÊ: USADO EM FRASES INTERROGATIVAS EM FINAL DE PERÍODO OU ANTES DE PAUSA                     EX: NUNCA FUMOU E MORREU DE CÂNCER. POR QUÊ?
+
+
+PORQUÊ: SUBSTANTIVO; EQUIVALE A “MOTIVO”, “RAZÃO”; VEM COM ARTIGO                      EX: NÃO FOI APROVADO E NINGUÉM SABE O PORQUÊ.
+
+                                                                                                                                  PORTUGUÊS
+                                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                      CONTEÚDO DE GRANDE RELEVÂNCIA
+                                   EXPRESSÕES PROBLEMÁTICAS
+
+
+                                         CESSÃO: ATO DE CEDER                   EX: VOU ASSINAR UM CONTRATO DE CESSÃO DE DIREITOS COM VOCÊ.
+
+    CESSÃO X SESSÃO X SEÇÃO              SESSÃO: PERÍODO DE TEMPO QUE DURA UMA REUNIÃO
+                                               EX: A SESSÃO LEGISLATIVA VAI ATRASAR DE NOVO.
+
+
+                                         SEÇÃO: PONTO OU LOCAL ONDE ALGO FOI CORTADO OU DIVIDIDO
+
+                                               EX: PROCURE SEU LIQUIDIFICADOR NA SEÇÃO DE ELETRODOMÉSTICOS.
+
+     SE NÃO X SENÃO
+
+
+            SE (CONJUNÇÃO CONDICIONAL) + NÃO (ADV. NEGAÇÃO)                        EX: SE NÃO REVISAR REGULARMENTE, ESQUECERÁ O CONTEÚDO.
+SE NÃO
+            SE (CONJUNÇÃO INTEGRANTE) + NÃO (ADV. NEGAÇÃO)                      EX: JOÃO PERGUNTOU SE NÃO HAVERIA AULA.
+
+
+                                                                                    EX: VENHA, SENÃO VAI SE ARREPENDER. (= DO CONTRÁRIO)
+SENÃO       DO CONTRÁRIO, MAS TAMBÉM, MAS SIM, A NÃO SER, EXCETO.
+                                                                                    EX: ELE NÃO É GROSSEIRO, SENÃO VERDADEIRO. (= MAS SIM)
+
+
+                                                                                                                               PORTUGUÊS
+                                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                      ATENÇÃO!
+                              OUTRAS EXPRESSÕES PROBLEMÁTICAS
+
+                        CONTEÚDO DE GRANDE RELEVÂNCIA
+                        MAL
+             Advérbio: oposto a “bem”;
+    Ex: Não passou porque estava mal preparado.                                                    MAU
+     Conjunção temporal: sentido de “logo que”.                                          Adjetivo: oposto a “bom”;
+          Ex: Mal cheguei, fui interrogado.                                     Ex: Não passou porque era um mau candidato.
+         Substantivo: sinônimo de “doença”.
+            Ex: Morreu de um mal súbito.
+                       ONDE                                                                      AONDE
+     Com verbos que pedem a preposição “em”.                                     Com verbos que pedem a preposição “a”.
+       Ex: Onde você mora? Moro em Caxias.                                   Ex: Aonde quer que eu vá, eu levo você no olhar.
+                        MAS                                                                        MAIS
+    Conjunção adversativa: equivale a “porém”.                                              Oposto a “menos”
+       Ex: Ela come muito, mas não engorda.                                Ex: Estudei um pouco de manhã; à noite estudei mais.
+                      A FIM DE                                                                     AFIM
+Locução prepositiva com sentido de “propósito”, “para”.                            Sinônimo de “semelhante”, “correlato”.
+         Ex: Estou aqui a fim de te orientar.                                  Ex: Matemática e estatística são matérias afins.
+
+                                                                                                                    PORTUGUÊS
+                                                                             ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,1460 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 01_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Passo Estratégico de Legislação
+artigos_citados:
+- 'art.
+
+  26'
+- art. 16
+- art. 17.
+- art. 22
+- art. 27
+- art. 2º
+- art. 4º
+- art. 683
+---
+
+# Passo Estratégico de Legislação
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                               Passo Estratégico de Legislação
+                                                    Aduaneira
+
+                                                        Autor:
+                             Raphael Rabelo Parreira, Bruno
+                                                      Bezerra
+
+
+                                         09 de Setembro de 2025
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+   LEGISLAÇÃO ADUANEIRA: JURISDIÇÃO ADUANEIRA,
+   TERRITÓRIO ADUANEIRO, PORTOS, AEROPORTOS E
+       PONTOS DE FRONTEIRA ALFANDEGADOS,
+    ALFANDEGAMENTO, RECINTOS ALFANDEGADOS,
+  ADMINISTRAÇÃO ADUANEIRA, CONTROLE ADUANEIRO
+                  DE VEÍCULOS.
+
+
+Sumário
+Apresentação​                                                                              2
+O que é o Passo Estratégico?​                                                              3
+Análise Estatística​                                                                      5
+   O que é mais cobrado dentro do assunto?​                                               5
+Roteiro de revisão e pontos do assunto que merecem destaque​                              7
+Aposta estratégica​                                                                       18
+Questões estratégicas​                                                                    20
+Questionário de revisão e aperfeiçoamento​                                                30
+   Perguntas​                                                                             28
+   Perguntas com respostas​                                                               28
+Lista de Questões Estratégicas​                                                           33
+   Gabarito​                                                                              32
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+                                            APRESENTAÇÃO
+Olá, caro(a) estudante!
+Este material será conduzido em colaboração pelos professores Bruno Bezerra e Raphael
+Rabelo.
+
+Juntos, trilharemos o caminho do Passo Estratégico de Diversidade e Inclusão na Sociedade!
+Assim como você, também já estivemos na jornada de preparação para concursos e podemos
+afirmar com certeza: todo o seu empenho valerá a pena. Ser aprovado em um concurso público e
+conquistar um bom cargo traz benefícios como uma remuneração atrativa, estabilidade e
+excelentes perspectivas de qualidade de vida.
+A seguir, compartilhamos um pouco sobre nossas experiências profissionais, acadêmicas e como
+concurseiros:
+     Bruno Bezerra
+
+     Analista do Passo Estratégico - disciplina: Legislação Aduaneira
+     Professor de pós-graduação da Faculdade Unyleya
+     Professor de Legislação Tributária e Direito Tributário
+     Auditor-Fiscal da Receita Federal do Brasil
+     Meu contato com os concursos começou aos 22 anos, depois de ter cursado
+     Odontologia e de ter trabalhado 9 meses como dentista. Desde então, dediquei boa
+     parte da minha vida ao mundo dos concursos - seja como concurseiro ou ajudando
+     como mentor outras pessoas a mudarem de vida por meio dos estudos.
+     Aprovado em vários concursos de diversas bancas.
+     Graduado em Odontologia pela Universidade Federal do Ceará
+     Pós-graduado em Direito Público com ênfase em Direito Tributário (Instituto de Ensino
+     Superior de Fortaleza, IESF, Brasil)
+
+
+     Raphael Rabelo
+
+     Analista do Passo Estratégico - disciplina: Legislação Aduaneira
+     Aprovado e nomeado nos seguintes concursos:
+     Auditor Fiscal - Uberlândia (1º lugar)
+     Auditor Fiscal - Campo Grande
+     Auditor Fiscal - Manaus
+     Técnico Tributário da Receita Estadual do Rio Grande do Sul
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                             2
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+     Oficial Administrativo (1º lugar)
+     Graduado em Engenharia Mecânica pela Universidade Federal de Uberlândia
+
+
+Este material é diferenciado e o aluno que se dedicar ficará muito próximo de seu objetivo final.
+Estamos muito felizes em poder fazer parte da sua trajetória até a aprovação!
+
+
+                                       CONTEÚDO PROGRAMÁTICO
+
+
+Impostos, Taxas e Contribuições na Importação e na Exportação (II: Incidência, Fato Gerador,
+Base de Cálculo, Cálculo, Contribuintes, Pagamento, Restituição, Isenções, Imunidade).
+Imposto  de    Exportação;             IPI     vinculado       à     Importação;          PIS/COFINS-Importação;
+CIDE-Combustíveis.
+Controle Aduaneiro de Mercadorias: Despacho de Importação e Exportação, Casos Especiais,
+Revisão Aduaneira; Crédito Tributário: Lançamento, Acréscimos, Decadência e Prescrição.
+Regimes Aduaneiros Especiais: Trânsito Aduaneiro, Admissão Temporária, Aperfeiçoamento
+Ativo, Drawback, Termo de Responsabilidade.
+Regimes Aduaneiros Especiais: Entreposto, Recof, Recom, Exportação Temporária, Repetro,
+Repex, Reporto, Loja Franca, Depósitos, ZFM, Áreas de Livre Comércio, ZPE.
+Infrações e Penalidades Aduaneiras: Perdimento, Multas, Sanções, Relevação, Infrações por
+órgãos públicos.
+Crédito Tributário, Processo Fiscal e Controle Administrativo Aduaneiro: exigência, perdimento,
+penalidades, sanções, antidumping, consultas.
+Normas Especiais: naufrágio, abandono, avaria, extravio, tráfego postal e cabotagem;
+Representação Fiscal Penal; Controle Administrativo Específico; FUNDAF.
+
+
+Para acompanhar dicas diárias de estudo, estamos lá no Instagram sempre trazendo conteúdo
+para melhorar seu desempenho nos estudos!
+Vamos Juntos!
+
+
+Prof Bruno Bezerra
+
+
+Feitas as devidas apresentações, vamos ao trabalho.
+
+
+"O que fazemos no presente é o que molda nosso amanhã." Mahatma Gandhi.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                               3
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+                            O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+a) orientar revisões eficientes;
+b) destacar os pontos mais importantes e prováveis de serem cobrados em provas.
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+Isso porque nossa didática é direcionada ao aluno que já possui uma base de conteúdo.
+Assim, se você vai utilizar o Passo Estratégico:
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras
+indicadas no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente em
+nossos relatórios;
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram eventualmente
+expostos utilizando uma didática mais avançada que a sua capacidade de compreensão, em
+razão do seu nível de conhecimento do assunto.
+
+                        Seu cantinho de estudos famoso!
+                       Poste uma foto do seu cantinho de estudos nos stories do
+                                       Instagram e nos marque:
+
+                                           @passoestrategico
+                      Vamos repostar sua foto no nosso perfil para que ele fique
+                              famoso entre milhares de concurseiros!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                            4
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+                                       ANÁLISE ESTATÍSTICA
+O que é mais cobrado dentro do assunto?
+Foram analisadas 20 questões no total, iniciando com a banca FGV (2025 - 2021) e expandindo a
+pesquisa para concursos de 2015 em diante (e anos anteriores quando necessário). Incluíram-se,
+além da banca FGV, questões da ESAF (tradicional nos concursos da Receita até 2014), FCC,
+Cebraspe, CESGRANRIO e outras bancas relevantes. Essa ampliação permitiu alcançar uma
+amostragem relevante para a análise estatística.
+Considerando os tópicos que compõem assunto dessa aula, possuímos a seguinte distribuição
+percentual:
+
+                                                                                              Incidência
+                     Assunto                                           Subassunto
+                                                                                                  (%)
+
+
+                                                          2.4 – Habilitação no SISCOMEX         15%
+
+
+                                                                  2.1 – Generalidades           15%
+  2. O SISCOMEX (Sistema Integrado de
+           Comércio Exterior)                                2.3 – Gestão do SISCOMEX           10%
+
+
+                                                           2.2 – Portal Único de Comércio
+                                                                                                <1%
+                                                                 Exterior (PUCOMEX)
+
+
+                                                              4.2 – Território Aduaneiro        15%
+
+
+                                                       4.3 – Portos, Aeroportos e Pontos de
+                                                                                                10%
+                                                                      Fronteira
+              4. Jurisdição Aduaneira
+
+                                                             4.4 – Recintos Alfandegados        10%
+
+
+                                                                    4.1 – Introdução            <1%
+
+
+                                                             (não se aplica – assunto sem
+            5. Administração Aduaneira                                                          10%
+                                                                     subdivisões)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                           5
+                                     
+
+
+---
+
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 00
+
+                                                          1.2 – Controle Administrativo   5%
+
+
+                                                                  1.1 – Introdução        <1%
+    1. O Comércio Exterior Brasileiro
+                                                             1.3 – Controle Aduaneiro     <1%
+
+
+                                                              1.4 – Controle Cambial      <1%
+
+
+  3. Considerações sobre a Legislação                      (não se aplica – assunto sem
+                                                                                          5%
+              Aduaneira                                            subdivisões)
+
+
+                                                           (não se aplica – assunto sem
+   6. Controle Aduaneiro de Veículos                                                      5%
+                                                                   subdivisões)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+      www.estrategiaconcursos.com.br
+                                                                                                6
+                                   
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+    ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE MERECEM
+                                                 DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do
+assunto e, ao mesmo tempo, destacar aspectos do conteúdo que merecem atenção.
+
+                       1. O COMÉRCIO EXTERIOR BRASILEIRO
+1.1 - Introdução
+O comércio exterior brasileiro está submetido a três controles: administrativo, aduaneiro e
+cambial. Cada um é exercido por um órgão: SECEX no administrativo, RFB no aduaneiro e
+BACEN no cambial. A prova costuma testar a correta associação entre controle e órgão.
+
+1.2 - Controle Administrativo
+É o conjunto de anuências e exigências para importar ou exportar, de diversos órgãos em suas
+áreas de competência. Ex.: ANVISA para medicamentos, MAPA para animais vivos, SUEXT para
+bens usados. Em regra, é prévio ao embarque e funciona como autorização para a operação.
+Pegadinha: emissão de Licença de Importação pertence ao controle administrativo, não ao
+aduaneiro.
+
+1.3 - Controle Aduaneiro
+Exercido pela RFB, fiscaliza entrada e saída de mercadorias e veículos, acompanha o despacho
+aduaneiro, verifica base de cálculo dos tributos e aplica medidas de defesa comercial. É
+eminentemente extrafiscal: arrecadação é objetivo secundário. Pode ocorrer a posteriori.
+
+1.4 - Controle Cambial
+Decorre dos pagamentos internacionais por contrato de câmbio. O BACEN exerce o controle,
+verificando a circulação de divisas. Atenção para a distinção com o controle aduaneiro: cambial
+olha pagamentos; aduaneiro olha bens e veículos.
+                                        Quadro-síntese dos controles
+
+    Controle                       Órgão                                  Foco            Quando ocorre.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                           7
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+                          SECEX + anuentes                                                  Prévio ao
+                                                              Anuências e restrições
+ Administrativo         (ANVISA, MAPA, SUEXT,                                             embarque, em
+                                                                   internas.
+                                 etc.).                                                       regra.
+
+
+                                                              Mercadorias, veículos e
+                                                                                          Na fronteira e a
+   Aduaneiro                        RFB.                        despacho; defesa
+                                                                                            posteriori.
+                                                                   comercial.
+
+
+                                                            Pagamentos internacionais     Na operação de
+     Cambial                      BACEN.
+                                                                  e câmbio.                  câmbio.
+
+            2. O SISTEMA INTEGRADO DE COMÉRCIO EXTERIOR
+                            (SISCOMEX)
+2.1 - Generalidades
+“O SISCOMEX é o instrumento administrativo que integra as atividades de registro,
+acompanhamento e controle das operações de comércio exterior, mediante fluxo único,
+computadorizado, de informações.” (art. 2º do Decreto nº 660/92). Essa integração reduziu
+burocracia e facilitou importações e exportações.
+
+2.2 - A criação do Portal Único de Comércio Exterior (PUCOMEX)
+O PUCOMEX adota o conceito de guichê único, centralizando o contato de operadores com o
+governo, para desburocratizar e reduzir tempos de importação e exportação. Ele cumpre medida
+prevista no Acordo de Facilitação de Comércio da OMC celebrado em 2013.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                             8
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+2.3 - A gestão do SISCOMEX
+Desde 2014, os órgãos gestores são SECEX (controle administrativo) e RFB (controle aduaneiro).
+O BACEN não é mais gestor, embora mantenha o controle cambial. Órgãos anuentes deliberam
+na fase administrativa, como ANVISA, MAPA, INMETRO, IBAMA, ANP, ANCINE, SUFRAMA,
+PF/DFPC, entre outros.
+
+2.4 - Habilitação no SISCOMEX
+A habilitação segue a IN RFB nº 1.984/2020, com três modalidades: expressa, limitada e
+ilimitada.
+
+Art. 16. A habilitação do declarante de mercadorias [...] poderá ser concedida em uma das
+seguintes modalidades: I - Expressa [...]; II - Limitada [...]; III - Ilimitada [...].
+Art. 17. O declarante [...] habilitado na modalidade Limitada [...] poderá realizar operações de
+importação, em cada período consecutivo de seis meses, até o limite de: I - US$ 50.000,00 [...] ou
+II - US$ 150.000,00 [...]. § 1º [...] as operações [...] serão consideradas pelo valor aduaneiro das
+mercadorias.
+
+Em suma:
+   ●​ Expressa: S.A. de capital aberto e estatais; sem limite.
+   ●​ Limitada: capacidade até US$ 50 mil ou entre US$ 50 mil e US$ 150 mil a cada 6 meses.
+   ●​ Ilimitada: capacidade acima de US$ 150 mil no mesmo período.
+   ●​ O SISCOMEX bloqueia registro de DI que exceda o limite da limitada.
+                                    Quadro: modalidades de habilitação
+
+                                                                      Limite em 6
+ Modalidade                  Quem se enquadra                                               Observações.
+                                                                         meses
+
+
+                   S.A. de capital aberto e subsidiárias                                    Presunção de
+   Expressa                                                           Sem limite.
+                            integrais; EP/SEM.                                               idoneidade.
+
+
+                  Demais, com capacidade até US$ 50                  US$ 50 mil ou        Controle por valor
+   Limitada
+                       mil ou até US$ 150 mil.                       US$ 150 mil.            aduaneiro.
+
+
+                                                                                          Exige comprovação
+   Ilimitada       Capacidade acima de US$ 150 mil.                   Sem limite.
+                                                                                            de capacidade.
+
+Pegadinhas
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                               9
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+   ●​ Expressa não impõe limite de operações.
+   ●​ Limitada possui duas faixas; o valor aduaneiro é a base do controle do limite.
+   ●​ Operações podem ser feitas diretamente ou por representantes credenciados.
+
+
+            3. CONSIDERAÇÕES SOBRE A LEGISLAÇÃO ADUANEIRA
+O Direito Aduaneiro é ramo autônomo, que disciplina as relações entre a Aduana e os
+intervenientes do comércio exterior, fixando direitos, obrigações e restrições tarifárias e não
+tarifárias. Razões da autonomia: princípios e institutos próprios, relações jurídicas específicas,
+dinamismo do comércio internacional, controle governamentalnecessário, dimensão extrafiscal e
+prevalência de tratados.
+“os tratados e as convenções internacionais revogam ou modificam a legislação tributária interna,
+e serão observados pela que lhes sobrevenha” (art. 98 do CTN). Essa leitura sustenta a
+prevalência de tratados no âmbito aduaneiro.
+A CF/88 confere à União competência privativa para legislar sobre comércio exterior; por
+consequência, sobre direito aduaneiro. A legislação é esparsa, com grande parte compilada no
+Regulamento Aduaneiro (Decreto nº 6.759/2009), que é infralegal.
+Pegadinhas
+   ●​ Não confundir: competência concorrente em direito tributário não se aplica ao direito
+      aduaneiro.
+   ●​ O Regulamento Aduaneiro é norma secundária, não primária.
+
+
+                                 4. JURISDIÇÃO ADUANEIRA
+4.1 - Introdução
+Jurisdição aduaneira é o poder de submeter todas as operações de comércio exterior à
+fiscalização. “A fiscalização e o controle sobre o comércio exterior [...] serão exercidos pelo
+Ministério da Fazenda.” (art. 237 da CF). Hoje a RFB, como órgão fazendário, exerce essas
+funções.
+
+4.2 - Território Aduaneiro
+A jurisdição alcança todo o território aduaneiro, que compreende todo o território nacional.
+Divide-se em zona primária e zona secundária. Na primária entram e saem mercadorias, pessoas
+e veículos, abrangendo áreas demarcadas nos portos, aeroportos e pontos de fronteira. A
+secundária é o restante do território, incluindo águas territoriais e espaço aéreo.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                               10
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+As ZPEs são consideradas zona primária para fins de controle, embora integrem a zona
+secundária. Existem também Áreas de Controle Integrado nas fronteiras do MERCOSUL, onde
+ocorre controle integrado por equipes dos países.
+Zonas de Vigilância Aduaneira podem ser demarcadas na orla marítima e na faixa de fronteira
+por ato do Ministro da Fazenda; nelas, circulação e permanência de mercadorias, pessoas,
+veículos e animais ficam sujeitas a exigências, proibições e restrições. Atenção: a abrangência
+recai sobre o Município atravessado pela linha demarcatória.
+                                             Quadro: zonas e áreas
+
+  Categoria                             O que abrange                                     Ponto-chave.
+
+
+    Zona              Áreas demarcadas em portos, aeroportos e                    Entrada e saída sob controle
+   primária                     pontos de fronteira.                                        da RFB.
+
+
+     Zona           Todo o restante do território; águas territoriais;               Fiscalização a posteriori
+  secundária                        espaço aéreo.                                             possível.
+
+
+                                                                                   Regime aduaneiro em área
+      ZPE              Primária para controle; integra secundária.
+                                                                                           especial.
+
+
+                                                                                     Demarcação por ato do
+      ZVA                 Orla e fronteira sob regras especiais.
+                                                                                           Ministro.
+
+Pegadinhas
+   ●​ ZPE é primária para controle, mas pertence à secundária.
+   ●​ ZVA: a banca troca Município por Estado; o correto é Município.
+
+4.3 - Portos, Aeroportos e Pontos de Fronteira
+São alfandegados por ato declaratório para permitir: i) estacionar/transitar veículos; ii) carga,
+descarga, armazenagem e passagem de mercadorias; iii) embarque/desembarque de viajantes.
+Em regra, somente neles pode ocorrer a entrada/saída de mercadorias, com exceções:
+dutos/linhas de transmissão e outras definidas pela RFB.
+
+Art. 13. O alfandegamento [...] somente poderá ser efetivado: I - depois de atendidas as
+condições de instalação e de infraestrutura indispensável à segurança fiscal; II - regularidade
+fiscal do interessado; III - disponibilidade de recursos; IV - fiel depositário.
+
+A RFB define requisitos técnicos e operacionais: balanças, inspeção não invasiva (raios X ou
+gama), vigilância eletrônica, controle de acesso e segregação física entre áreas de importação,
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                                 11
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+exportação e regimes. Em cidades fronteiriças, pode haver cadastros de pessoas que cruzam
+habitualmente a fronteira.
+Pegadinhas
+   ●​ A RFB pode criar outras exceções além de dutos/linhas.
+   ●​ O trânsito aduaneiro pode iniciar na primária e encerrar em porto seco.
+
+4.4 - Recintos Alfandegados
+Podem existir na zona primária e na secundária. O alfandegamento é condição para
+movimentação, armazenagem e despacho de mercadorias, bagagens e remessas internacionais.
+Em zona primária, pode haver lojas francas e recintos privativos para feiras, no entreposto
+aduaneiro.
+Portos secos: recintos de uso público em zona secundária, onde se executam movimentação,
+armazenagem e despacho aduaneiro de mercadorias e bagagens. Operam por permissão ou
+concessão; podem receber cargas de importação, exportação ou ambas; processam despacho
+do regime comum e de regimes especiais; é vedada a armazenagem de mercadoria fora do
+controle aduaneiro.
+                                                Quadro: recintos
+
+   Recinto           Zona                           Pode fazer                                  Restrições.
+
+
+  Terminal                             Carga/descarga, armazenagem,                         Regras de acesso e
+                   Primária.
+  primário                                 despacho, passageiros.                              segregação.
+
+
+                                    Movimentar, armazenar e despachar;                    Proibido armazenar sem
+ Porto seco      Secundária.
+                                       regimes comum e especiais.                           controle aduaneiro.
+
+                             5. ADMINISTRAÇÃO ADUANEIRA
+A administração aduaneira compreende fiscalização e controle sobre o comércio exterior,
+essenciais à defesa dos interesses fazendários nacionais, em todo o território aduaneiro. A
+fiscalização de tributos incidentes nas operações é supervisionada e executada por Auditor-Fiscal
+da RFB.
+Nos portos, aeroportos, pontos de fronteira e recintos alfandegados, a fiscalização pode ser
+ininterrupta, em horários determinados ou eventual. Prevalece a precedência da autoridade
+aduaneira nesses locais e nas ZVAs.
+Essência legal: o Regulamento Aduaneiro estabelece a precedência da autoridade aduaneira:
+outras autoridades devem prestar auxílio imediato quando requisitadas; e a aduaneira pode
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                                 12
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+disciplinar entrada, permanência, movimentação e saída de pessoas, veículos, unidades de carga
+e mercadorias.
+Prerrogativas e deveres
+   ●​ Exigir apresentação de mercadorias e documentos; ter acesso a depósitos, cofres e
+      dependências.
+   ●​ Importador, exportador e adquirente: manter documentos em boa guarda, pelo prazo
+      decadencial, e apresentá-los quando exigidos; comunicar sinistro em até 48 horas.
+   ●​ Terceiros obrigados a informar, mediante intimação: tabeliães, instituições financeiras,
+      administradores de bens, corretores, leiloeiros, inventariantes, síndicos e outros
+      designados em lei.
+Sigilo bancário                                        ==219a34==
+
+O STF reconheceu a constitucionalidade da requisição, pela RFB, de dados protegidos por sigilo
+bancário, sem ordem judicial, desde que haja processo administrativo ou procedimento fiscal e
+que o exame seja indispensável. Os dados permanecem sob sigilo fiscal.
+Termo de início e denúncia espontânea
+O início de fiscalização é formalizado por termo, que também fixa prazo máximo para conclusão.
+Não há denúncia espontânea no curso do despacho, até o desembaraço: “não se considera
+espontânea a denúncia apresentada no curso do despacho aduaneiro, até o desembaraço da
+mercadoria” (art. 683, § 1º, I, RA).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                           13
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Pegadinhas
+   ●​ Precedência não depende de “conflito” para existir; decorre do exercício do controle.
+   ●​ “Competência exclusiva” da autoridade aduaneira para disciplinar circulação não é a
+      redação correta: há sem prejuízo de outras autoridades.
+
+
+                     6. CONTROLE ADUANEIRO DE VEÍCULOS:
+A entrada ou saída de veículos procedentes do exterior ou a ele destinados ocorre em porto,
+aeroporto ou ponto de fronteira alfandegado. Excepcionalmente, o titular da unidade aduaneira
+pode autorizar por local não alfandegado, se justificado. O controle alcança mercadorias e bens a
+bordo, inclusive bagagens.
+O transportador deve prestar, no prazo e forma fixados, informações sobre cargas e a
+chegada/saída do veículo; após a entrada, a RFB emite o termo de entrada. Agente de carga e
+operador portuário também informam as operações sob sua responsabilidade. Dados de
+tripulantes e passageiros são informados pelas empresas de transporte.
+A autoridade aduaneira pode realizar buscas em qualquer tempo, inclusive antes das informações
+do transportador, precedidas de comunicação verbal ou escrita ao responsável. Pode determinar
+cautelas fiscais e isolamento de volumes.
+Proibições ao condutor (art. 27, RA)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                              14
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+   ●​ Estacionar, carregar/descargar ou transbordar fora de local habilitado.
+   ●​ Trafegar em desacordo com normas do transporte internacional.
+   ●​ Desviar da rota estabelecida sem motivo justificado.
+   ●​ Aproximar veículo de outro, sendo um deles internacional, para transbordo sem controle;
+      exceções: veículos de guerra (fora do transporte comercial), repartições públicas em
+      serviço, veículos autorizados em operações portuárias/aeroportuárias e os em socorro.
+O veículo pode ser garantia de débitos fiscais, inclusive multas aplicadas ao transportador ou
+condutor.
+Manifesto de carga x Conhecimento de carga
+   ●​ Conhecimento: comprova o contrato de frete e a posse da mercadoria; traz descrição,
+      valor, origem/destino e condições de entrega.
+   ●​ Manifesto: consolida vários conhecimentos; para cada ponto de descarga, o veículo traz
+      tantos manifestosquantos os locais no exterior onde recebeu carga.
+   ●​ Conteúdo mínimo do manifesto: identificação e nacionalidade do veículo; local de
+      embarque e destino; número de cada conhecimento; quantidade, espécie, marcas,
+      número e peso dos volumes; natureza das mercadorias; consignatário; data de
+      encerramento; nome e assinatura do responsável.
+Operações de descarga e conferência
+A mercadoria descarregada é registrada pelo transportador/depositário. Ocorrências de avarias,
+diferença de peso ou violação geram conserto/pesagem e anotação. A RFB realiza a conferência
+final de manifesto: compara manifestocom registros de descarga/armazenagem para apurar
+extravio ou acréscimo; os tributos e multas são exigidos do transportador. Ressalvas lançadas no
+manifesto não afastam responsabilidade.
+Ajustes e divergências
+   ●​ Omissão de volume no manifesto, havendo conhecimento regular, pode ser suprida por
+      declaração escrita do responsável antes do conhecimento da irregularidade pela RFB.
+   ●​ Carga embarcada após encerramento do manifesto vai para manifesto complementar.
+   ●​ Em divergência entre manifesto e conhecimento, prevalece o conhecimento; a RFB pode
+      corrigir de ofício o manifesto.
+   ●​ Carta de correção do conhecimento pode ser apresentada antes do início do despacho.
+Sistemas de controle de cargas
+   ●​ Aéreas: MANTRA.
+   ●​ Portuárias: SISCOMEX Carga.
+                                     Quadro: manifesto x conhecimento
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                             15
+                                     
+
+
+---
+
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 00
+
+ Documento                   Finalidade                 Quando prevalece                 Observações
+
+
+                                                         Em divergência,
+                   Prova do frete e da posse;                                       Pode ser corrigido por
+Conhecimento                                            prevalece sobre o
+                     dados da mercadoria.                                          carta, antes do despacho.
+                                                           manifesto.
+
+
+                    Consolida conhecimentos              Prevalece só na              Ressalvas que excluam
+ Manifesto            por trajeto/ponto de                 ausência de              responsabilidade não são
+                            descarga.                      divergência.                   consideradas.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+      www.estrategiaconcursos.com.br
+                                                                                                           16
+                                   
+
+
+---
+
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula 00
+
+                                         Fluxo do Controle Aduaneiro
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+      www.estrategiaconcursos.com.br
+                                                                                        17
+                                   
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Pegadinhas
+   ●​ Entrada/saída por local não alfandegado pode ser autorizada pela RFB em casos
+      justificados.
+   ●​ Busca pode ocorrer antes da prestação de informações.
+   ●​ Prevalece o conhecimento, e ressalvas no manifesto não afastam responsabilidade.
+
+
+                             OBSERVAÇÕES FINAIS DE PROVA
+   ●​ Associação órgão–controle é recorrente: SECEX administrativo, RFB aduaneiro, BACEN
+      cambial.
+   ●​ PUCOMEX: lembre do Acordo de Facilitação de 2013 e do conceito de guichê único.
+   ●​ Zonas: primária, secundária, ZPE (primária para controle), ZVA no Município demarcado.
+   ●​ Habilitação: memorize os limites da limitada e a ausência de limite na expressa e ilimitada.
+   ●​ Precedência da autoridade aduaneira: auxílio imediato e poder de disciplinar fluxos, sem
+      excluir competências de outras autoridades.
+   ●​ Veículos: proibições do art. 27, possibilidade de garantia do veículo e as regras do
+      manifesto.
+Checklist de pegadinhas frequentes
+   ●​ LI não é controle aduaneiro; é administrativo.
+   ●​ Competência para legislar em direito aduaneiro é privativa da União.
+   ●​ Regulamento Aduaneiro é infralegal.
+   ●​ Denúncia espontânea não se aplica durante o despacho até o desembaraço.
+   ●​ Porto seco é zona secundária, mas opera despacho de importação, exportação e regimes
+      especiais.
+
+
+                                      APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem
+cobrados em prova, considerando o histórico de questões da banca em provas de nível
+semelhante à nossa, bem como as inovações no conteúdo, na legislação e nos entendimentos
+doutrinários e jurisprudenciais.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                18
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Os temas de maior relevância desta aula, conforme o levantamento estatístico apresentado no
+tópico "O que é mais cobrado dentro do assunto?" deste relatório, são a SISCOMEX:
+Generalidades, Habilitação e Gestão. Esses temas possuem uma incidência relativa de 40%. A
+seguir, destacam-se os principais aspectos sobre os assuntos.
+Generalidades
+O SISCOMEX unifica registros e comunicações entre intervenientes públicos e privados,
+facilitando estudos estatísticos e a formulação de políticas públicas. A criação do sistema foi
+marco de desburocratização e de coordenação entre órgãos.
+O Portal Único de Comércio Exterior (PUCOMEX) introduziu o conceito de guichê único e gerou
+resultados práticos: a DU‑E tornou‑se obrigatória, substituindo DE e RE nas exportações; a
+DUIMP está em implantação e deve substituir DI e LI, com anexação eletrônica de documentos.
+Para operar, a empresa deve primeiro habilitar‑se no SISCOMEX junto à RFB, além de credenciar
+representantes para atos de despacho.
+Gestão do SISCOMEX
+Há órgãos gestores e órgãos anuentes. Desde 2014, os gestores são SECEX e RFB: a SECEX
+responde pelo controle administrativo; a RFB pelo controle aduaneiro. O BACEN atua no
+controle cambial, porém não é mais órgão gestor do sistema.
+A gestão do SISCOMEX está a cargo do Ministério da Economia, do qual fazem parte SECEX e
+RFB. Entre os anuentes que autorizam operações no controle administrativo estão, por exemplo,
+ANVISA, MAPA, INMETRO, IBAMA e SUFRAMA.
+Habilitação no SISCOMEX
+A habilitação segue a IN RFB nº 1.984/2020. “Art. 16. A habilitação do declarante de mercadorias
+para atuar no comércio exterior poderá ser concedida em uma das seguintes modalidades.” Em
+termos práticos, existem expressa, limitada e ilimitada.
+A expressa aplica‑se a sociedades anônimas de capital aberto e suas subsidiárias integrais e a
+empresas públicas ou sociedades de economia mista; não impõe limite de operações.
+A limitada e a ilimitada consideram a capacidade financeira estimada. “Art. 17… poderá realizar
+operações de importação, em cada período consecutivo de seis meses, até o limite de: I – US$
+50.000,00…; II – US$ 150.000,00…”A partir de US$ 150.000,00 em seis meses, a regra geral é a
+ilimitada.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                             19
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+O habilitado limitado fica vinculado à sua faixa; se a operação exceder o teto, o próprio
+SISCOMEX bloqueia o registro da DI. As operações podem ser feitas pelo importador ou
+exportador diretamente ou por representantes credenciados.
+Tabela — Modalidades de habilitação (IN RFB nº 1.984/2020).
+
+                                                                                          Observações de
+ Modalidade                 Quem pode obter                        Limite em 6 meses
+                                                                                              prova.
+
+
+                        S.A. de capital aberto e                                           É a de menor
+                    subsidiárias integrais; empresas                                       exigência; não
+   Expressa                                                            Sem limite.
+                       públicas e sociedades de                                            confundir com
+                            economia mista.                                                   ilimitada.
+
+
+                                                                Faixa 1: US$ 50.000,00.
+                       Quem não se enquadra na                                            Sistema bloqueia
+                                                                    Faixa 2: > US$
+   Limitada           expressa e tem capacidade                                           DI acima do teto
+                                                                  50.000,00 até US$
+                     financeira ≤ US$ 150.000,00.                                              da faixa.
+                                                                      150.000,00.
+
+
+                                                                                          Usada quando a
+                     Capacidade financeira > US$                                          estimativa supera
+   Ilimitada                                                           Sem limite.
+                            150.000,00.                                                       o teto da
+                                                                                              limitada.
+
+Atenção em prova:
+• BACEN não é órgão gestor do SISCOMEX, embora atue no câmbio.
+• Expressa não é sinônimo de ilimitada: expressa decorre do perfil do ente; ilimitada decorre da
+capacidade financeira.
+• Faixas da limitada: US$ 50 mil e US$ 150 mil em seis meses; excedeu o teto, não registra DI.
+
+
+                                   QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas
+que você faça uma boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                         20
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+1. (FGV/2023/RFB/Auditor-Fiscal) Os recintos aduaneiros são os locais onde se depositam
+mercadorias importadas ou destinadas ao exterior, localizados na zona secundária do território
+aduaneiro, como, por exemplo, os entrepostos aduaneiros. Eles operam
+a) como qualquer armazém, depósito ou entreposto de zona primária e, tendo em vista a
+jurisdição natural e legal dos serviços aduaneiros, suas operações se encontram sob o controle do
+órgão local de entrada da mercadoria.
+b) sob o controle aduaneiro da repartição da jurisdição onde se encontram e, sob os aspectos
+jurídico e tributário, caracterizam-se como uma extensão da zona primária, tendo em vista as
+obrigações legais a que se sujeitam.
+c) nos mesmos moldes que um armazém de zona primária localizado em portos, aeroportos ou
+pontos de fronteira, e estão sob o controle da repartição de zona primária de entrada ou pela
+qual deverá sair a mercadoria a ser exportada.
+d) sob a responsabilidade do beneficiário do regime, que providenciará a emissão da Declaração
+de Importação ou de Exportação, quando solicitada pela alfândega da jurisdição, obrigando-se,
+ainda, ao pagamento dos tributos, se devidos.
+e) sob o aspecto jurídico, como recintos aduaneiros de zona secundária, em razão da natureza da
+sua finalidade, podendo ainda ser utilizados como depósitos públicos de mercadoria importada
+ou de mercadoria destinada à exportação.
+Comentários:
+Letra A: ERRADA. As operações dos recintos aduaneiros de zona secundária ficam sob o controle
+da unidade aduaneira que possui jurisdição sobre o local onde se situa o recinto, e não da
+unidade por onde a mercadoria ingressou no país. Por exemplo, se uma mercadoria entra no
+território nacional pelo porto de Santos/SP, mas é submetida a trânsito aduaneiro para depósito
+em um entreposto aduaneiro (porto seco) localizado em São Paulo/SP, essa mercadoria ficará sob
+o controle da Alfândega da Receita Federal em São Paulo, e não da Alfândega de Santos.
+Letra B: CERTA. O recinto aduaneiro de zona secundária opera sob controle da repartição da
+Receita Federal que tem jurisdição sobre sua localização. Sob os aspectos jurídico e tributário,
+esses recintos funcionam como uma extensão da zona primária, pois as mercadorias ali
+depositadas permanecem sob controle aduaneiro e sujeitas às mesmas obrigações legais como
+se ainda estivessem na zona primária. Com efeito, os recintos aduaneiros de zona secundária
+foram criados precisamente para desafogar a zona primária, descentralizando as operações de
+despacho e armazenagem para o interior.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                              21
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Letra C: ERRADA. Embora os procedimentos operacionais nos recintos de zona secundária sejam
+semelhantes aos de um armazém alfandegado de zona primária, o controle aduaneiro não é
+exercido pela repartição de zona primária de entrada (ou saída) da mercadoria. Conforme visto, a
+fiscalização aduaneira é feita pela unidade local (zona secundária) onde o recinto está instalado –
+e não pela alfândega do porto, aeroporto ou fronteira por onde a carga ingressou ou de onde
+sairá.
+Letra D: ERRADA. O beneficiário do regime especial (como o entreposto aduaneiro) tem a
+obrigação de registrar a declaração aduaneira pertinente (Declaração de Importação ou de
+Exportação) e de recolher os tributos devidos no momento oportuno, sem necessidade de
+solicitação pela autoridade aduaneira. Além disso, as operações no recinto permanecem sob
+controle do Fisco; não é correto dizer que funcionam apenas “sob a responsabilidade” do
+beneficiário, pois a autoridade aduaneira supervisiona e controla todo o processo.
+Letra E: ERRADA. Os recintos de zona secundária, pela própria natureza de sua finalidade,
+operam sob regime de concessão ou permissão de serviço público, uma vez que atuam como
+extensão da zona primária sob controle aduaneiro. Apesar de serem de uso público (ou seja,
+acessíveis a quaisquer importadores/exportadores que cumpram os requisitos), esses recintos não
+se confundem com depósitos públicos gerais de mercadorias. Eles funcionam dentro de regimes
+aduaneiros específicos (como entreposto) e estão sujeitos a rigorosa fiscalização, não podendo
+ser livremente utilizados fora das finalidades aduaneiras estabelecidas.
+Gabarito: Letra B.
+
+
+2. (FGV/2023/RFB/Auditor-Fiscal) As atividades exercidas pelas alfândegas e pelos
+Auditores-Fiscais da Receita Federal do Brasil, no que se refere ao controle e à fiscalização das
+operações típicas de comércio exterior, têm precedência sobre as atividades desenvolvidas pelas
+demais autoridades do país,
+a) exceto nos casos de apreensão, em flagrante, de mercadoria pela Polícia Federal.
+b) excetuadas as autoridades de saúde, nos casos de produtos químicos e alimentícios.
+c) nos limites estabelecidos pelo Ministro da Fazenda, conforme dispõe a Constituição.
+d) nos termos e nos limites estabelecidos por lei ordinária ou por Medida Provisória.
+e) sempre que se manifestarem interesses conflitantes sobre fatos de natureza fiscal.
+Comentários:
+Letra A: ERRADA. A autoridade aduaneira (alfândegas e Auditores-Fiscais da RFB) possui
+competência para apreender mercadorias em situação irregular, inclusive em casos de flagrante,
+não havendo exceção que subordine a atuação fiscal à Polícia Federal nesse contexto. A
+precedência das atividades aduaneiras não é afastada pela atuação de outros órgãos policiais; ao
+contrário, as ações podem ser conjuntas, mas a primazia em matéria fiscal permanece com a
+Receita Federal.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                22
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Letra B: ERRADA. Mesmo em se tratando de produtos sujeitos à vigilância sanitária (como
+produtos químicos ou alimentícios), a fiscalização aduaneira prevalece sobre as demais. As
+autoridades de saúde (como Anvisa ou Vigilância Agropecuária) atuam no seu âmbito específico
+de controle, mas não excluem a precedência da autoridade aduaneira quando há interesses
+fiscais envolvidos. Em casos de conflito de competência, a atividade da Receita Federal, no
+exercício do controle de comércio exterior, tem prioridade.
+Letra C: ERRADA. Não existe qualquer previsão constitucional de que a precedência das
+atividades aduaneiras dependa de limites estabelecidos por Ministro da Fazenda. A Constituição
+Federal trata da matéria de forma direta, conferindo primazia à administração fazendária e seus
+agentes fiscais dentro de suas atribuições, “na forma da lei”, mas não delega ao Ministro a
+definição de limites para esse princípio.
+Letra D: ERRADA. A precedência das atividades exercidas pelos Auditores-Fiscais e alfândegas
+decorre de mandamento constitucional e legal já existente, não estando sujeita a ser
+estabelecida ou restringida por lei ordinária ou Medida Provisória específica. A redação “nos
+termos e nos limites estabelecidos por lei ou MP” não encontra respaldo no texto constitucional,
+que apenas menciona a forma da lei sem impor limites ao exercício dessa precedência além do
+âmbito de competência fiscal.
+Letra E: CERTA. Sempre que houver interesses conflitantes relacionados a fatos de natureza fiscal,
+a autoridade aduaneira prevalecerá sobre as demais autoridades. Esse princípio decorre do
+comando constitucional que garante prioridade à administração tributária no desempenho de
+suas funções. Conforme dispõe a Constituição Federal, “a administração fazendária e seus
+servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os
+demais setores administrativos, na forma da lei” (art. 37, XVIII, CF/88). Em outras palavras,
+havendo conflito de interesse no que tange à fiscalização tributária ou aduaneira, as ações da
+Receita Federal têm primazia sobre as de quaisquer outros órgãos.
+Gabarito: Letra E.
+
+
+3. (SELECON/2021/EMGEPRON) As operações de comércio exterior no Brasil estão submetidas
+a três espécies de controle: o controle administrativo, o controle aduaneiro e o controle cambial.
+O órgão que desempenha funções do controle administrativo é:​
+a) Secretaria de Comércio Exterior.
+b) Secretaria Estadual da Fazenda.
+c) Receita Federal.
+d) Banco Central.
+Comentários:
+Letra A: CERTA. No Brasil, o controle administrativo das operações de comércio exterior é
+exercido, em grande parte, pela Secretaria de Comércio Exterior (SECEX), atualmente vinculada
+ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). A SECEX é
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                               23
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+responsável por regulamentar e autorizar as operações de importação e exportação, expedindo
+licenças, controlando quotas e assegurando que as políticas de comércio exterior sejam
+cumpridas pelos importadores e exportadores.
+Letra B: ERRADA. As Secretarias Estaduais de Fazenda não desempenham o controle
+administrativo de comércio exterior. Essas secretarias cuidam principalmente da administração
+tributária estadual (como ICMS no comércio interno ou interestadual) e não têm competência
+sobre licenciamento ou políticas de importação/exportação, que são de âmbito federal.
+Letra C: ERRADA. A Receita Federal do Brasil exerce o controle aduaneiro (alfandegário) das
+operações de comércio exterior, fiscalizando mercadorias, cobrando tributos aduaneiros e
+aplicando a legislação aduaneira. Contudo, o controle administrativo (relacionado a permissões,
+proibições e regulações de comércio exterior) é atribuição de outros órgãos, notadamente o
+MDIC/SECEX e algumas agências reguladoras setoriais.
+Letra D: ERRADA. O Banco Central do Brasil é o órgão responsável pelo controle cambial, isto é,
+pela fiscalização e normatização das operações financeiras relativas à entrada e saída de moedas
+estrangeiras do país (pagamentos, contratos de câmbio, etc.). Ele não executa o controle
+administrativo do comércio exterior. Assim, embora o Banco Central atue em operações de
+comércio exterior no que tange à moeda e pagamentos, o controle administrativo (licenciamento
+e políticas comerciais) cabe à SECEX.
+Gabarito: Letra A.
+
+
+4. (ESAF/2018/Receita Federal/Ajudante de Despachante Aduaneiro – adaptada) A habilitação
+do declarante de mercadorias para atuar no comércio exterior poderá ser concedida em uma das
+seguintes modalidades:
+a) ilimitada, no caso de pessoa jurídica com capacidade financeira que permita realizar operações
+de exportação cuja soma dos valores seja superior a US$ 50.000,00 (cinquenta mil dólares dos
+Estados Unidos da América).
+b) limitada, no caso de pessoa jurídica cuja capacidade financeira comporte realizar operações de
+importação cuja soma dos valores, em cada período consecutivo de seis meses, seja superior a
+US$ 150.000,00 (cento e cinquenta mil dólares dos Estados Unidos da América).
+c) expressa, para pessoas jurídicas constituídas sob a forma de sociedade anônima de capital
+aberto, com ações negociadas em bolsa de valores ou no mercado de balcão, e suas subsidiárias
+integrais, e para empresas públicas ou sociedades de economia mista.
+d) expressa, para pessoas jurídicas constituídas sob a forma de sociedade anônima de capital
+aberto, com ações negociadas em bolsa de valores ou no mercado de balcão, e suas subsidiárias
+integrais.
+e) limitada, para empresas públicas, sociedades de economia mista e microempreendedor
+individual.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                              24
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Comentários:
+Letra A: ERRADA. A modalidade Ilimitada não se aplica a casos de meras operações de
+exportação acima de US$ 50.000,00. Na legislação atual, a habilitação ilimitada é concedida ao
+declarante cuja capacidade financeira ultrapasse determinado patamar. Conforme a Instrução
+Normativa RFB nº 1.984/2020, “III – Ilimitada, no caso de declarante de mercadorias não
+enquadrado na modalidade Expressa cuja capacidade financeira seja estimada em valor acima do
+limite máximo estabelecido no inciso II do caput do art. 17.” Esse limite máximo a que se refere o
+art. 17, II da IN é de US$ 150.000,00 em cada período de seis meses. Além disso, destaca-se que
+operações de exportação não são computadas para fins de limite de habilitação financeira – na
+verdade, “Não estão sujeitas aos limites estabelecidos neste artigo as operações de: I –
+exportação” (art. 17, §2º, I, da IN RFB 1.984/20). Portanto, a alternativa apresenta critérios
+equivocados: o valor de US$ 50 mil é referente a outro contexto (limite inicial da modalidade
+Limitada), e exportações não entram nesse cálculo de capacidade financeira; logo, a alternativa A
+está incorreta.
+Letra B: ERRADA. A modalidade Limitada não se destina a quem pode operar acima de
+US$ 150.000,00 por semestre – na verdade, é o oposto. A IN RFB nº 1.984/2020 define que a
+habilitação limitada se aplica ao declarante não enquadrado na Expressa cuja capacidade
+financeira seja igual ou inferior a certo limite. Segundo o art. 16, II, dessa instrução, “II – Limitada,
+no caso de declarante de mercadorias não enquadrado na modalidade Expressa cuja capacidade
+financeira seja estimada em valor igual ou inferior ao limite máximo estabelecido no inciso II do
+caput do art. 17.” Esse limite máximo é exatamente US$ 150.000,00 (conforme art. 17, II). Assim,
+quem possui capacidade financeira maior que 150 mil dólares não fica na categoria “Limitada”,
+mas sim passaria à “Ilimitada”. Logo, a alternativa B também está incorreta.
+Letra C: ERRADA. A alternativa C procura descrever a modalidade Expressa, e de fato elenca as
+duas situações abrangidas por essa modalidade (sociedade anônima de capital aberto ou
+empresa pública/sociedade de economia mista). No entanto, a forma de redação combinando
+ambas categorias em uma só alternativa pode induzir a erro. De acordo com a IN RFB
+nº 1.984/2020, art. 16, I, a habilitação Expressa é cabível para dois grupos distintos de pessoas
+jurídicas: (a) as sociedades anônimas de capital aberto, com ações em bolsa ou balcão, e suas
+subsidiárias integrais; ou (b) as empresas públicas e sociedades de economia mista.* Observe
+que a norma separa as hipóteses por “ou”, indicando que basta pertencer a um dos grupos para
+ter direito à modalidade Expressa. A alternativa C apresentou ambas as hipóteses em sequência,
+o que pode gerar confusão quanto à necessidade de atendimento simultâneo. Em suma, apesar
+de mencionar corretamente os tipos de empresas que se enquadram na Expressa, a alternativa
+não isolou bem as condições e não era o item esperado como correto.
+Letra D: CERTA. A alternativa D descreve uma das hipóteses da modalidade Expressa, nos exatos
+termos da legislação: a pessoa jurídica constituída sob a forma de sociedade anônima de capital
+aberto, com ações negociadas em bolsa ou no mercado de balcão, e suas subsidiárias integrais.
+Essa é uma das categorias previstas no art. 16, I, da IN RFB nº 1.984/2020 para habilitação
+Expressa. Trata-se de empresas de grande porte e alta transparência (companhias abertas), que,
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                      25
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+por determinação normativa, podem obter habilitação de forma mais ágil (expressa),
+independentemente de análise aprofundada de capacidade financeira. Portanto, a descrição da
+letra D está correta.
+Letra E: ERRADA. Empresas públicas e sociedades de economia mista não se encaixam na
+modalidade Limitada – ao contrário, como visto, tais entidades se enquadram na modalidade
+Expressa (art. 16, I, da IN 1.984/20). Ademais, microempreendedor individual (MEI) tampouco
+está previsto como categoria à parte de habilitação; caso um MEI precise habilitar-se no
+Siscomex, será avaliado dentro das modalidades comuns (limitada ou ilimitada conforme sua
+capacidade financeira estimada, ou pode até ser dispensado de habilitação se fizer operações de
+baixo valor pessoal). Assim, a alternativa E mistura indevidamente perfis que não correspondem à
+modalidade limitada, estando incorreta.
+Gabarito: Letra D.
+
+
+5. (SELECON/2021/EMGEPRON/—) Quanto ao controle aduaneiro de veículos procedentes do
+exterior ou a ele destinados, pode-se afirmar que é permitida:
+a) a entrada de veículos procedentes do exterior e que poderá ocorrer exclusivamente em porto,
+aeroporto ou ponto de fronteira alfandegado.
+b) a saída de veículos procedentes do exterior ou a ele destinados e que poderá ocorrer
+exclusivamente em porto, aeroporto ou ponto de fronteira alfandegado.
+c) a entrada ou saída de veículos procedentes do exterior ou a ele destinados e que poderá
+ocorrer exclusivamente em porto, aeroporto ou ponto de fronteira alfandegado.
+d) a entrada ou saída de veículos procedentes do exterior ou a ele destinados e que poderá
+ocorrer em porto, aeroporto ou ponto de fronteira alfandegado, permitindo-se,
+excepcionalmente, por porto, aeroporto ou ponto de fronteira não alfandegado.
+Comentários:
+Letra A: ERRADA. A alternativa trata apenas da entrada de veículos procedentes do exterior, mas
+o correto é que a regra abrange tanto a entrada quanto a saída. Além disso, a redação diz que a
+entrada “poderá ocorrer exclusivamente” em locais alfandegados, o que ignora eventuais
+exceções previstas em lei. Em resumo, a letra A está incompleta por mencionar apenas a entrada
+e desconsiderar as exceções.
+Letra B: ERRADA. Aqui o foco foi apenas na saída de veículos destinados ao exterior, limitada a
+portos, aeroportos ou pontos de fronteira alfandegados. Novamente, a regra geral inclui tanto a
+entrada quanto a saída de veículos, e a alternativa B peca por tratar somente da saída, além de
+não contemplar exceções.
+Letra C: ERRADA. A letra C quase reproduz a regra geral ao afirmar que a entrada ou saída de
+veículos só pode ocorrer em porto, aeroporto ou ponto de fronteira alfandegado. De fato, a
+norma geral é que veículos procedentes do exterior ou a ele destinados somente ingressem ou
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                             26
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+saiam por intermédios de pontos alfandegados. No entanto, a alternativa C está incompleta, pois
+omite a possibilidade excepcional prevista na legislação de se autorizar movimentações em locais
+não alfandegados em casos justificados. Assim, falta mencionar a exceção, o que torna a assertiva
+incorreta.
+Letra D: CERTA. A alternativa D apresenta a regra geral e a exceção, de acordo com o
+Regulamento Aduaneiro. Em princípio, a entrada ou saída de veículos do exterior deve ocorrer
+exclusivamente através de porto, aeroporto ou ponto de fronteira devidamente alfandegado
+(zona primária). Excepcionalmente, porém, a autoridade aduaneira competente pode autorizar
+que essa entrada ou saída ocorra por local não alfandegado, se houver justificativa para tanto.
+Esse tratamento está expresso no art. 26 do Decreto nº 6.759/2009 (Regulamento Aduaneiro):
+
+Art. 26. A entrada ou a saída de veículos procedentes do exterior ou a ele destinados só poderá
+ocorrer em porto, aeroporto ou ponto de fronteira alfandegado.
+§ 2º O titular da unidade aduaneira jurisdicionante poderá autorizar a entrada ou a saída de
+veículos por porto, aeroporto ou ponto de fronteira não alfandegado, em casos justificados, e
+sem prejuízo do disposto no § 1º.
+
+Como se nota, a letra D está em conformidade com a legislação aduaneira, apresentando tanto a
+exigência principal quanto a possibilidade excepcional.
+Gabarito: Letra D.
+
+
+              QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da sua compreensão no assunto e, ao mesmo tempo,
+proporcionar uma outra forma de revisão de pontos importantes do conteúdo, a partir de
+perguntas que exigem respostas subjetivas.
+São questões um pouco mais desafiadoras, porque a redação de seu enunciado não ajuda na sua
+resolução, como ocorre nas clássicas questões objetivas.
+O objetivo é que você realize uma autoexplicação mental de alguns pontos do conteúdo, para
+consolidar melhor o que aprendeu ;)
+Além disso, as questões objetivas, em regra, abordam pontos isolados de um dado assunto.
+Assim, ao resolver várias questões objetivas, o candidato acaba memorizando pontos isolados do
+conteúdo, mas muitas vezes acaba não entendendo como esses pontos se conectam.
+Assim, no questionário, buscaremos trazer também situações que ajudem você a conectar melhor
+os diversos pontos do conteúdo, na medida do possível.
+É importante frisar que não estamos adentrando em um nível de profundidade maior que o
+exigido na sua prova, mas apenas permitindo que você compreenda melhor o assunto de modo
+a facilitar a resolução de questões objetivas típicas de concursos, ok?
+Nosso compromisso é proporcionar a você uma revisão de alto nível!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                              27
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+Vamos ao nosso questionário:
+
+Perguntas
+   1.​ O que é o SISCOMEX?
+   2.​ Qual é o propósito central do Portal Único de Comércio Exterior (PUCOMEX)?
+   3.​ Quais são as modalidades de habilitação no SISCOMEX?
+   4.​ Qual é o limite da 1ª faixa da modalidade limitada no SISCOMEX?
+   5.​ Qual é o limite da 2ª faixa da modalidade limitada no SISCOMEX?
+   6.​ Quem se enquadra na habilitação expressa do SISCOMEX?
+   7.​ Quem exerce a fiscalização e o controle sobre o comércio exterior no Brasil?
+   8.​ Quem tem competência privativa para legislar sobre comércio exterior?
+   9.​ Como se divide o território aduaneiro brasileiro?
+   10.​O que integra a zona primária do território aduaneiro?
+   11.​Por onde, em regra, podem entrar ou sair mercadorias do país?
+   12.​Quem pode demarcar Zonas de Vigilância Aduaneira e onde?
+   13.​Qual a abrangência municipal de uma Zona de Vigilância Aduaneira?
+   14.​A jurisdição aduaneira alcança as Áreas de Controle Integrado do MERCOSUL?
+   15.​Quem pode autorizar a entrada ou saída de veículo por local não alfandegado?
+   16.​Qual dever imediato outras autoridades têm quando requisitadas pela aduana?
+   17.​Quem deve manter e apresentar documentos das operações de comércio exterior?
+   18.​Quando a denúncia não é considerada espontânea no despacho aduaneiro?
+   19.​Em divergência entre manifesto e conhecimento de carga, qual prevalece?
+   20.​O veículo pode garantir débitos fiscais no controle aduaneiro?
+
+Perguntas com respostas
+   1.​ O que é o SISCOMEX?
+Instrumento que integra, por fluxo único informatizado, o registro, o acompanhamento e o
+controle das operações de comércio exterior (Decreto nº 660/1992, art. 2º).
+   2.​ Qual é o propósito central do Portal Único de Comércio Exterior (PUCOMEX)?
+Desburocratizar e unificar a interface entre governo e operadores, em linha com o “guichê
+único” do Acordo de Facilitação de Comércio (Acordo de Facilitação de Comércio da OMC,
+2013).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                          28
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+   3.​ Quais são as modalidades de habilitação no SISCOMEX?
+Expressa, limitada e ilimitada (IN RFB nº 1.984/2020, art. 16).
+   4.​ Qual é o limite da 1ª faixa da modalidade limitada no SISCOMEX?
+Importações até US$ 50.000 em cada período de seis meses (IN RFB nº 1.984/2020, art. 17, I).
+   5.​ Qual é o limite da 2ª faixa da modalidade limitada no SISCOMEX?
+Acima de US$ 50.000 até US$ 150.000 em seis meses (IN RFB nº 1.984/2020, art. 17, II).
+   6.​ Quem se enquadra na habilitação expressa do SISCOMEX?
+S.A. de capital aberto e suas subsidiárias integrais, empresa pública e sociedade de economia
+mista (IN RFB nº 1.984/2020, art. 16, I).
+   7.​ Quem exerce a fiscalização e o controle sobre o comércio exterior no Brasil?
+Ministério da Fazenda (executados pela RFB) (CF, art. 237).
+   8.​ Quem tem competência privativa para legislar sobre comércio exterior?
+A União (CF, art. 22, VIII).
+   9.​ Como se divide o território aduaneiro brasileiro?
+Em zona primária e zona secundária (Decreto nº 6.759/2009, art. 3º).
+   10.​O que integra a zona primária do território aduaneiro?
+Áreas demarcadas em portos alfandegados, área terrestre dos aeroportos alfandegados e área
+terrestre dos pontos de fronteira alfandegados (Decreto nº 6.759/2009, art. 3º, I).
+   11.​Por onde, em regra, podem entrar ou sair mercadorias do país?
+Somente por portos, aeroportos e pontos de fronteira alfandegados, ressalvados dutos/linhas de
+transmissão e outros casos definidos pela RFB (Decreto nº 6.759/2009, art. 8º).
+   12.​Quem pode demarcar Zonas de Vigilância Aduaneira e onde?
+O Ministro da Fazenda, na orla marítima e na faixa de fronteira (Decreto nº 6.759/2009, art. 4º).
+   13.​Qual a abrangência municipal de uma Zona de Vigilância Aduaneira?
+Compreende todo o município atravessado pela linha de demarcação (Decreto nº 6.759/2009,
+art. 4º, § 3º).
+   14.​A jurisdição aduaneira alcança as Áreas de Controle Integrado do MERCOSUL?
+Sim, estende-se às ACIs criadas em regiões limítrofes com o Brasil (Decreto nº 6.759/2009, art.
+3º, § 5º).
+   15.​Quem pode autorizar a entrada ou saída de veículo por local não alfandegado?
+O titular da unidade aduaneira jurisdicionante, em casos justificados (Decreto nº 6.759/2009, art.
+26, § 2º).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                                29
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+   16.​Qual dever imediato outras autoridades têm quando requisitadas pela aduana?
+Prestar auxílio imediato com pessoas, equipamentos ou instalações necessários (Decreto nº
+6.759/2009, art. 17, § 1º, I).
+   17.​Quem deve manter e apresentar documentos das operações de comércio exterior?
+Importador, exportador, adquirente por conta e ordem e demais intervenientes, pelo prazo
+decadencial aplicável (Decreto nº 6.759/2009, art. 18).
+   18.​Quando a denúncia não é considerada espontânea no despacho aduaneiro?
+Do registro da DI até o desembaraço da mercadoria (Decreto nº 6.759/2009, art. 683, § 1º, I;
+CTN, art. 138).
+   19.​Em divergência entre manifesto e conhecimento de carga, qual prevalece?
+Prevalece o conhecimento de carga (Decreto nº 6.759/2009, art. 47).
+   20.​O veículo pode garantir débitos fiscais no controle aduaneiro?
+Sim, pode ser tomado como garantia, inclusive de multas aplicadas ao transportador ou
+condutor (Decreto nº 6.759/2009, art. 64).
+
+
+                          LISTA DE QUESTÕES ESTRATÉGICAS
+1. (FGV/2023/RFB/Auditor-Fiscal) Os recintos aduaneiros são os locais onde se depositam
+mercadorias importadas ou destinadas ao exterior, localizados na zona secundária do território
+aduaneiro, como, por exemplo, os entrepostos aduaneiros. Eles operam
+a) como qualquer armazém, depósito ou entreposto de zona primária e, tendo em vista a
+jurisdição natural e legal dos serviços aduaneiros, suas operações se encontram sob o controle do
+órgão local de entrada da mercadoria.
+b) sob o controle aduaneiro da repartição da jurisdição onde se encontram e, sob os aspectos
+jurídico e tributário, caracterizam-se como uma extensão da zona primária, tendo em vista as
+obrigações legais a que se sujeitam.
+c) nos mesmos moldes que um armazém de zona primária localizado em portos, aeroportos ou
+pontos de fronteira, e estão sob o controle da repartição de zona primária de entrada ou pela
+qual deverá sair a mercadoria a ser exportada.
+d) sob a responsabilidade do beneficiário do regime, que providenciará a emissão da Declaração
+de Importação ou de Exportação, quando solicitada pela alfândega da jurisdição, obrigando-se,
+ainda, ao pagamento dos tributos, se devidos.
+e) sob o aspecto jurídico, como recintos aduaneiros de zona secundária, em razão da natureza da
+sua finalidade, podendo ainda ser utilizados como depósitos públicos de mercadoria importada
+ou de mercadoria destinada à exportação.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                              30
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+2. (FGV/2023/RFB/Auditor-Fiscal) As atividades exercidas pelas alfândegas e pelos
+Auditores-Fiscais da Receita Federal do Brasil, no que se refere ao controle e à fiscalização das
+operações típicas de comércio exterior, têm precedência sobre as atividades desenvolvidas pelas
+demais autoridades do país,
+a) exceto nos casos de apreensão, em flagrante, de mercadoria pela Polícia Federal.
+b) excetuadas as autoridades de saúde, nos casos de produtos químicos e alimentícios.
+c) nos limites estabelecidos pelo Ministro da Fazenda, conforme dispõe a Constituição.
+d) nos termos e nos limites estabelecidos por lei ordinária ou por Medida Provisória.
+e) sempre que se manifestarem interesses conflitantes sobre fatos de natureza fiscal.
+
+
+3. (SELECON/2021/EMGEPRON) As operações de comércio exterior no Brasil estão submetidas
+a três espécies de controle: o controle administrativo, o controle aduaneiro e o controle cambial.
+O órgão que desempenha funções do controle administrativo é:
+a) Secretaria de Comércio Exterior.
+b) Secretaria Estadual da Fazenda.
+c) Receita Federal.
+d) Banco Central.
+
+
+4. (ESAF/2018/Receita Federal/Ajudante de Despachante Aduaneiro – adaptada) A habilitação
+do declarante de mercadorias para atuar no comércio exterior poderá ser concedida em uma das
+seguintes modalidades:
+a) ilimitada, no caso de pessoa jurídica com capacidade financeira que permita realizar operações
+de exportação cuja soma dos valores seja superior a US$ 50.000,00 (cinquenta mil dólares dos
+Estados Unidos da América).
+b) limitada, no caso de pessoa jurídica cuja capacidade financeira comporte realizar operações de
+importação cuja soma dos valores, em cada período consecutivo de seis meses, seja superior a
+US$ 150.000,00 (cento e cinquenta mil dólares dos Estados Unidos da América).
+c) expressa, para pessoas jurídicas constituídas sob a forma de sociedade anônima de capital
+aberto, com ações negociadas em bolsa de valores ou no mercado de balcão, e suas subsidiárias
+integrais, e para empresas públicas ou sociedades de economia mista.
+d) expressa, para pessoas jurídicas constituídas sob a forma de sociedade anônima de capital
+aberto, com ações negociadas em bolsa de valores ou no mercado de balcão, e suas subsidiárias
+integrais.
+e) limitada, para empresas públicas, sociedades de economia mista e microempreendedor
+individual.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                               31
+                                     
+
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula 00
+
+5. (SELECON/2021/EMGEPRON) Quanto ao controle aduaneiro de veículos procedentes do
+exterior ou a ele destinados, pode-se afirmar que é permitida:
+a) a entrada de veículos procedentes do exterior e que poderá ocorrer exclusivamente em porto,
+aeroporto ou ponto de fronteira alfandegado.
+b) a saída de veículos procedentes do exterior ou a ele destinados e que poderá ocorrer
+exclusivamente em porto, aeroporto ou ponto de fronteira alfandegado.
+c) a entrada ou saída de veículos procedentes do exterior ou a ele destinados e que poderá
+ocorrer exclusivamente em porto, aeroporto ou ponto de fronteira alfandegado.
+d) a entrada ou saída de veículos procedentes do exterior ou a ele destinados e que poderá
+ocorrer em porto, aeroporto ou ponto de fronteira alfandegado, permitindo-se,
+excepcionalmente, por porto, aeroporto ou ponto de fronteira não alfandegado.
+
+Gabarito
+
+1-B
+2-E
+3-A
+4-D
+5-D
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+                                                                                           32
+                                     
+
+
+---
+
+---

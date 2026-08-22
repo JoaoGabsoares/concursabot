@@ -1,0 +1,177 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 07_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: NUMERAIS
+---
+
+# NUMERAIS
+
+---
+
+---
+
+NUMERAIS
+
+                                     Prof. Adolfo Sá (vídeos)
+
+                                              @adolfo.sa.9
+
+                                     Prof. Ena Smith (pdfs)
+
+---
+
+NUMERAIS
+                          NUMERAIS
+If a person does not keep up with household chores, he or she will find
+that things pile up with alarming speed.
+Se uma pessoa não acompanhar as tarefas domésticas, ele ou ela vai achar
+que as coisas se acumulam com uma velocidade alarmante.
+ If people do not keep up with household chores, they will find that things
+pile up with alarming speed.
+Se as pessoas não acompanharem as tarefas domésticas, eles(as) vão achar
+que as coisas se acumulam com uma velocidade alarmante.
+ All the teachers have good reputations.
+Todos os professores têm boas reputações.
+
+                                       INGLÊS – Adolfo Sá
+                           
+
+
+---
+
+NUMERAIS
+              Os Números Cardinais
+They distributed the books yesterday – one took five, another six,
+someone else got three or four.
+Eles distribuiram os livros ontem – uma pessoa levou cinco, outra levou
+seis, e mais alguém levou três ou quatro.
+
+They levied $123,000 fines on ten economists for purportedly misleading
+consumers.
+Eles aplicaram multas de 123.000 dólares em dez economistas por
+supostamente enganarem os consumidores.
+
+
+                                      INGLÊS – Adolfo Sá
+                          
+
+
+---
+
+NUMERAIS
+               Os Números Ordinais
+
+His office is on the second floor.
+O escritório dele é no segundo andar.
+
+
+It’s April twelfth. Today is their fiftieth anniversary.
+É doze de Abril. Hoje é o quinquagésimo aniversário de
+casamento deles.
+
+                                     INGLÊS – Adolfo Sá
+                         
+
+
+---
+
+NUMERAIS
+              Os Números Ordinais
+
+           First – 1st                    Primeiro (a)
+           Second – 2nd                   Segundo (a)
+           Third – 3rd                    Terceiro (a)
+
+                                     INGLÊS – Adolfo Sá
+                         
+
+
+---
+
+NUMERAIS
+               Os Números Ordinais
+
+
+           Fourth – 4th                            Quarto (a)
+           Sixth – 6th                             Sexto (a)
+           Hundredth – 100th                       Centésimo(a)
+           Thousandth – 1000th                     Milésimo (a)
+
+                                      INGLÊS – Adolfo Sá
+                          
+
+
+---
+
+NUMERAIS
+              Os Números Ordinais
+
+           Eighth – 8th              Oitavo (a)
+           Fifth – 5th               Quinto (a)
+           Ninth – 9th               Nono (a)
+           Twelfth – 12th            Décimo (a) segundo (a)
+
+                                   INGLÊS – Adolfo Sá
+                       
+
+
+---
+
+NUMERAIS
+                Os Números Ordinais
+
+           Twenty > Twentieth – 20th                  Vinte > Vigésimo (a)
+
+           Forty > Fortieth – 40th                    Quarenta > Quadragésimo (a)
+
+           Seventy > Seventieth – 70th Setenta > Septuagésimo (a)
+
+                                         INGLÊS – Adolfo Sá
+                             
+
+
+---
+
+NUMERAIS
+           Os Números Fracionários
+
+•A half slice of pizza.
+(Meia fatia de pizza.)
+
+•I need three quarters of a cup of sugar.
+•(Eu preciso de três quartos de uma xícara de açúcar.)
+
+                                      INGLÊS – Adolfo Sá
+                          
+
+
+---
+
+NUMERAIS
+           Os Números Fracionários
+
+•½ one half/a half (um meio)
+•⅓ one third/a third (um terço)
+•⅔ two thirds (dois terços)
+•¼ a fourth/ a quarter (um quarto)
+•¾ three fourths/three quarters (três quartos)
+•⅖ two fifths (dois quintos)
+                                   INGLÊS – Adolfo Sá
+                       
+
+
+---
+
+                                     @adolfo.sa.9
+
+---

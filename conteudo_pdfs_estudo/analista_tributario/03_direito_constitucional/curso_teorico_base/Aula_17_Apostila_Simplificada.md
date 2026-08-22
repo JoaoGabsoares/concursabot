@@ -1,0 +1,3097 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 17_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: Direito Constitucional
+artigos_citados:
+- Art. 148
+- Art. 149
+- Art. 152
+- art. 11
+- art. 16
+- art. 167
+- art. 198
+- art. 24
+sumulas_citadas:
+- "Súmula\n           Vinculante nº 19"
+- Súmula 724
+- Súmula Vinculante nº 19
+- Súmula Vinculante nº 29
+- Súmula Vinculante nº 41
+- Súmula nº 595
+---
+
+# Direito Constitucional
+
+Aula 16
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                           07 de Outubro de 2025
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 16
+
+                                                                                     Índice
+1) Noções Iniciais sobre o Sistema Tributário Nacional
+
+
+2) Conceito e Funções do Tributo
+
+
+3) Introdução - Espécies Tributárias: Aspectos Gerais
+
+
+4) Impostos (Art. 145)
+
+
+5) Taxas (Art. 145)
+
+
+6) Contribuições de Melhoria
+
+
+7) Empréstimos Compulsórios (Art. 148)
+
+
+8) Contribuições Especiais (Art. 149 - Art. 149-A)
+
+
+9) Competência Tributária x Competência para Legislar (Art. 146 - Art. 147)
+
+
+10) Princípios Constitucionais Tributários
+
+
+11) Imunidades Tributárias (Art. 150 - Art. 152)
+
+
+12) Repartição de Competências Tributárias (Art. 153 - Art. 156)
+
+
+13) Repartição de Receitas Tributárias (Art. 157 - Art. 162)
+
+
+14) Questões Comentadas - Sistema Constitucional Tributário - FGV
+
+
+15) Lista de Questões - Sistema Constitucional Tributário - FGV
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           62
+
+                                                             
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                       SISTEMA CONSTITUCIONAL TRIBUTÁRIO
+O Sistema Tributário Nacional
+Introdução
+Existem duas maneiras de o Estado carrear recursos para os cofres públicos: i) por meio das
+receitas originárias e; ii) por meio das receitas derivadas.
+As receitas originárias são aquelas que o Estado obtém a partir da exploração de atividade
+econômica ou através da exploração de seu próprio patrimônio. É o caso da cobrança de
+aluguel de um prédio público alugado para uma empresa, por exemplo.
+As receitas derivadas, por sua vez, são obtidas a partir do exercício do poder de império pelo
+Estado. Consistem em prestações pecuniárias compulsórias. Dentro dessas receitas, destacam-se
+                                                         ==219a34==
+
+os tributos, objeto da nossa aula de hoje.
+Ainda a título introdutório, temos os princípios do Sistema Tributário Nacional:
+
+Esses princípios foram inseridos no texto constitucional pela Emenda Constitucional nº 132, de 20
+de dezembro de 2023.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           3
+        www.estrategiaconcursos.com.br                                                        62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                   SISTEMA CONSTITUCIONAL TRIBUTÁRIO
+Conceito de Tributo
+
+A definição de tributo está prevista no art. 3º, do Código Tributário Nacional (CTN):
+
+        Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se
+        possa exprimir, que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante
+        atividade administrativa plenamente vinculada.
+
+São várias as características do tributo, sobre as quais explanaremos a seguir:
+a) Prestação compulsória: o tributo é uma obrigação que surge a partir da lei, e não da vontade das partes
+na relação jurídica. Sua característica marcante é a compulsoriedade.
+b) Prestação pecuniária, em moeda ou em cujo valor nela se possa exprimir: o tributo deve ser pago em
+dinheiro (pecúnia), não sendo admissível o seu pagamento em bens (prestação in natura) ou serviços
+(prestação in labore). Somente excepcionalmente admite-se a extinção do crédito tributário mediante dação
+em pagamento em bens IMÓVEIS (art. 156, XI, CTN).
+c) Prestação diversa de sanção: os tributos não têm como objetivo a punição de uma conduta. Seu objetivo
+é arrecadar recursos para o Estado (função fiscal) ou promover a regulação econômica (função extrafiscal).
+Nesse sentido, são diferentes das multas, que constituem sanções por ato ilícito.
+d) Prestação instituída em lei: os tributos só podem ser instituídos mediante leis (ordinárias ou
+complementares, conforme o caso), que são a legítima expressão da vontade do povo. O STF também admite
+a criação de tributos por medida provisória.
+e) Cobrança mediante atividade administrativa plenamente vinculada: a autoridade tributária sempre
+deverá efetuar a cobrança dos tributos, sem qualquer margem de discricionariedade Em outras palavras, a
+autoridade tributária não poderá deixar de cobrar um tributo por julgá-lo inoportuno ou inconveniente.
+
+Funções do Tributo
+
+Os tributos podem ter função fiscal ou extrafiscal. Em cada tributo, uma dessas funções predomina, embora
+nenhum tributo se preste unicamente a qualquer delas.
+A finalidade fiscal existirá quando o objetivo do tributo for eminentemente arrecadatório, como é o caso
+do Imposto de Renda (IR). Já a finalidade extrafiscal estará presente quando o tributo tiver por desígnio a
+regulação econômico-social, como é o caso do Imposto de Importação (II). O Estado poderá aumentar a
+alíquota desse imposto para proteger a indústria nacional contra a concorrência de produtos estrangeiros,
+por exemplo.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     4
+        www.estrategiaconcursos.com.br                                                                  62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                       SISTEMA CONSTITUCIONAL TRIBUTÁRIO
+Espécies Tributárias
+A doutrina adota várias correntes para definir as espécies tributárias. Dentre elas, destacam-se: i)
+a tricotômica ou tripartite e; ii) a pentapartida.
+Para a corrente tricotômica, os tributos podem ser divididos em impostos, taxas e contribuições
+de melhoria. Essa corrente se apoia, dentre outros argumentos, na literalidade do art. 145, CF/88:
+
+        Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão instituir
+        os seguintes tributos:
+        I - impostos;
+        II - taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou
+        potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte
+        ou postos a sua disposição;
+        III - contribuição de melhoria, decorrente de obras públicas.
+
+A corrente pentapartida, entretanto, é seguida pela doutrina dominante. Segundo essa teoria,
+cujo entendimento já foi referendado pelo STF, o sistema tributário brasileiro possui cinco
+espécies de tributos: impostos, taxas, contribuições de melhoria, empréstimos compulsórios e
+contribuições especiais. Segundo os adeptos dessa teoria, o legislador constituinte agrupou no
+art. 145, CF/88, apenas as espécies tributárias que poderiam ser instituídas por todos os entes
+federativos. Trataremos de cada um desses tributos a seguir.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              5
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 16
+
+Impostos
+Segundo o art. 16, do CTN, imposto é o tributo cuja obrigação tem por fato gerador uma
+situação independente de qualquer atividade estatal específica, relativa ao contribuinte. Em
+outras palavras, os impostos surgem a partir de algum tipo de manifestação de riqueza do
+contribuinte, independentemente de qualquer contraprestação estatal. Por exemplo, se um
+indivíduo é proprietário de um automóvel, é contribuinte do IPVA (Imposto sobre Veículos
+Automotores).
+Os impostos são tributos não vinculados, pois seu fato gerador depende única e exclusivamente
+de um fato do contribuinte; é por isso, também, que a doutrina os considera tributos unilaterais.
+Sua arrecadação também é não-vinculada, ou seja, os recursos deles provenientes não poderão,
+em regra, estar atrelados a qualquer órgão, fundo ou despesa (art. 167, IV). Esses recursos
+servirão para financiar despesas públicas gerais ou universais.
+Segundo o art. 145, § 1º, CF/88, sempre que possível, os impostos terão caráter pessoal e serão
+                                                           ==219a34==
+
+graduados segundo a capacidade econômica do contribuinte. É facultado à administração
+tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os
+direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas
+do contribuinte.
+A observância do princípio da capacidade contributiva é, assim, obrigatória para todos os
+impostos. Para os outros tributos, não existe essa obrigatoriedade. Todavia, considera o STF que
+não existe qualquer empecilho a que o princípio da capacidade contributiva se aplique à criação
+de taxas.
+A Constituição não cria nenhum tributo: o que ela faz é tão-somente atribuir competência
+tributária aos entes federativos para que eles instituam os tributos mediante leis (ou medidas
+provisórias). Por exemplo, o art. 153, I, estabelece que compete à União instituir imposto sobre a
+importação de produtos estrangeiros. Cabe, então, à União editar lei ordinária que crie o imposto
+de importação.1
+Em relação aos impostos, há que se destacar, ainda, o que dispõe o art. 146, III, “a”. Segundo
+esse dispositivo, cabe à lei complementar estabelecer definir fatos geradores, bases de cálculo e
+contribuintes dos impostos previstos na Constituição. Ressalte-se o seguinte: a definição dos
+fatos geradores, bases de cálculo e contribuintes dos outros tributos poderá ser feita por simples
+lei ordinária.
+
+1
+  No caso específico do Imposto de Importação, ele foi instituído pelo Decreto-Lei nº 37/66, que foi
+recepcionado como lei ordinária pelo atual ordenamento jurídico.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                            6
+          www.estrategiaconcursos.com.br                                                         62
+
+                                        
+
+
+---
+
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 16
+
+Taxas
+Ao contrário dos impostos, as taxas são tributos vinculados, isto é, o seu fato gerador está
+relacionado a uma atividade estatal específica relativa ao contribuinte. A CF/88 prevê que os
+entes federativos (União, Estados, DF e Municípios) poderão instituir taxas por 2 (dois) motivos:
+           a) em razão do exercício do poder de polícia (taxas de polícia);
+           b) pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis,
+           prestados ao contribuinte ou postos à sua disposição (taxas de serviço).
+As taxas de polícia têm como fato gerador o regular exercício do poder de polícia. Esse poder é
+a prerrogativa que tem a Administração Pública de condicionar ou limitar o exercício de direitos
+ou o uso de bens pelo particular, em prol do interesse público.
+As taxas de serviço, por sua vez, têm como fato gerador a utilização efetiva ou potencial de
+serviços específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição. Segundo o
+                                                             ==219a34==
+
+CTN, são específicos aqueles serviços que podem ser destacados em unidades autônomas de
+utilização; por outro lado, são divisíveis os serviços suscetíveis de utilização, separadamente, por
+parte de cada um dos seus usuários.
+Saber se um serviço público é específico e divisível ou geral e indivisível é de grande relevância a
+fim de que possamos saber como ele poderá ser financiado pelo Estado. De maneira bem
+objetiva, podemos dizer que:
+           a) Serviços específicos e divisíveis são financiados mediante taxas.
+           b) Serviços gerais e indivisíveis são financiados por meio de impostos.
+Levando-se essa lógica em consideração, o STF já foi chamado a apreciar a constitucionalidade
+de várias taxas de serviço. Destacamos, a seguir, as principais decisões da Corte Suprema:
+           a) Súmula Vinculante nº 19: “A taxa cobrada exclusivamente em razão dos serviços
+           públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes
+           de imóveis, não viola o art. 145, II, da CF.”
+           Há, aqui, uma nuance que merece receber destaque. A coleta de lixo de logradouros
+           públicos é um serviço geral, que tem a coletividade inteira como destinatária e, portanto,
+           não pode ser financiada por taxa, sob pena de inconstitucionalidade.
+           Por outro lado, a coleta de lixo proveniente de imóveis é serviço específico e divisível, pois
+           tem destinatários determinados: os donos dos imóveis. É desse serviço que trata a Súmula
+           Vinculante nº 19. Perceba que o STF considera constitucional a taxa cobrada
+           exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou
+           destinação de lixo ou resíduos provenientes de imóveis. A palavra “exclusivamente” foi
+           usada para deixar claro que se o lixo não for proveniente de imóveis, os serviços a ele
+           relacionados não poderão ser remunerados por taxa.
+           b) Súmula Vinculante nº 41: “O serviço de iluminação pública não pode ser remunerado
+           mediante taxa”. Esse é um bom exemplo de serviço geral e indivisível, que visa atender
+           toda a coletividade. Não poderá, portanto, ser financiado por taxa.
+...
+
+            Receita Federal (Analista Tributário) Direito Constitucional                               7
+            www.estrategiaconcursos.com.br                                                            62
+
+                                          
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 16
+
+Segundo o art. 145, § 2º, CF/88, as taxas não podem ter base de cálculo1 próprias de impostos.
+A taxa, sendo tributo vinculado, terá necessariamente uma base de cálculo relacionada ao custo
+da atividade estatal prevista em sua hipótese de incidência. Já o imposto, terá base de cálculo
+sem qualquer relação com uma atividade estatal, dado seu caráter não vinculado.
+Com base nesse entendimento, o STF editou a Súmula nº 595, que dispõe que “é
+inconstitucional a taxa municipal de conservação de estradas de rodagem cuja base de cálculo
+seja idêntica a do imposto territorial rural”.
+Tudo bem! As taxas não podem ter base de cálculo próprias de impostos. Mas será que a taxa
+poderá ter um ou mais elementos da base de cálculo própria de determinado imposto?
+O STF já foi chamado a apreciar essa questão. O município de Campinas havia instituído “taxa de
+lixo”, a qual levava em consideração, para o seu cálculo, o tamanho da área construída dos
+imóveis. O problema é que o IPTU também leva em consideração, dentre outros elementos, a
+metragem da área construída do imóvel. Será que isso violaria a Constituição?
+O STF decidiu que a referida taxa estava em perfeita conformidade com a CF/88, editando a
+Súmula Vinculante nº 29:
+       Súmula Vinculante nº 29: “É constitucional a adoção, no cálculo do valor de taxa, de um ou
+       mais elementos da base de cálculo própria de determinado imposto, desde que não haja
+       integral identidade entre uma base e outra.”
+
+1
+ Por base de cálculo compreende-se o valor numérico sobre o qual se aplica a alíquota para se obter o valor
+do tributo.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                   8
+          www.estrategiaconcursos.com.br                                                                62
+
+                                        
+
+
+---
+
+   Equipe Direito Constitucional Estratégia Concursos
+   Aula 16
+
+Contribuições de Melhoria
+
+A contribuição de melhoria é um tributo especial, distinto dos impostos e das taxas, que tem como fato
+gerador a valorização imobiliária decorrente de uma obra pública. Assim, a mera realização de obra pública
+não é suficiente para fazer surgir uma contribuição de melhoria; é necessário que, além disso, haja
+valorização imobiliária dela decorrente.
+
+Segundo o STF, o recapeamento de via pública já asfaltada consiste em mero serviço de manutenção e
+conservação e, portanto, não acarreta valorização imobiliária. Logo, essa atividade não dá ensejo à cobrança
+de contribuição de melhoria.1 Por outro lado, uma obra de asfaltamento gera valorização imobiliária, dela
+podendo decorrer contribuição de melhoria.
+
+Qualquer um dos entes federativos (União, Estados, DF e Municípios) pode instituir, mediante lei, uma
+contribuição de melhoria. Trata-se, dessa maneira, de um tributo da competência comum dos entes
+                                                          ==219a34==
+
+federativos.
+
+A contribuição de melhoria é um tributo contraprestacional: o contribuinte irá pagá-la como retribuição a
+uma atividade estatal específica (obra pública) que trouxe a valorização de imóvel de sua propriedade. Pode-
+se dizer, assim, que a contribuição de melhoria, assim como as taxas, é um tributo vinculado.
+
+No entendimento do STF, a base de cálculo da contribuição de melhoria é o quantum da valorização
+imobiliária.2 Em outras palavras, a alíquota da contribuição de melhoria incide sobre o acréscimo de valor
+experimento pelo imóvel, após a realização da obra pública.
+
+1 RE 115.863/SP – Rel. Min. Célio Borja. 29.10.1991.
+2 AI 694.836- AgR – Rel. Min. Ellen Gracie. 24.11.2009.
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                     9
+         www.estrategiaconcursos.com.br                                                                  62
+
+                                       
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Empréstimos Compulsórios
+
+Os empréstimos compulsórios, apesar do nome, possuem natureza jurídica tributária. Consistem em
+“empréstimos forçados”, porém restituíveis. Estão previstos no art. 148, CF/88.
+
+        Art. 148. A União, mediante lei complementar, poderá instituir empréstimos compulsórios:
+
+        I - para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra
+        externa ou sua iminência;
+
+        II - no caso de investimento público de caráter urgente e de relevante interesse nacional,
+        observado o disposto no art. 150, III, "b".
+
+        Parágrafo único. A aplicação dos recursos provenientes de empréstimo compulsório será
+        vinculada à despesa que fundamentou sua instituição.
+
+A União detém competência exclusiva para a criação dos empréstimos compulsórios, devendo fazê-lo
+mediante lei complementar. Não poderão os outros entes federativos instituir empréstimos compulsórios,
+sob pena de se estar usurpando a competência constitucionalmente atribuída à União. Essa é uma vedação
+absoluta, por mais urgente que seja a necessidade.
+
+Há 2 (duas) hipóteses em que se autoriza a instituição de empréstimos compulsórios:
+
+       a) para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa
+       ou sua iminência.
+
+       b) no caso de investimento público de caráter urgente e de relevante interesse nacional.
+
+No primeiro caso (“despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua
+iminência”), os recursos precisam ser direcionados o mais rapidamente possível para cobrir as despesas. Por
+isso, estabelece a CF/88 que não haverá necessidade de se observar os princípios da anterioridade e da
+anterioridade nonagesimal. Em outras palavras, não é necessário aguardar 90 dias (princípio da
+anterioridade nonagesimal), tampouco o próximo exercício financeiro (princípio da anterioridade), para que
+o empréstimo compulsório seja exigível. Já no segundo caso, exige-se a observância dos princípios da
+anterioridade e da anterioridade nonagesimal.
+
+Os empréstimos compulsórios são tributos de arrecadação vinculada: a aplicação dos recursos provenientes
+de sua arrecadação será vinculada à despesa que fundamentou sua instituição.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    10
+        www.estrategiaconcursos.com.br                                                                  62
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 16
+
+Contribuições Especiais
+As contribuições especiais possuem amparo jurídico no art. 149, CF/88, que estabelece que a
+União tem competência exclusiva para instituir 3 (três) espécies de contribuição: i) contribuições
+sociais; ii) contribuições de intervenção no domínio econômico e; iii) contribuições corporativas.
+Contribuições sociais
+As contribuições sociais relacionam-se à arrecadação de recursos para a atuação do Estado na
+área social. Destacamos as seguintes:
+          a) Contribuições de seguridade social: destinam-se ao financiamento da seguridade social
+          (saúde, previdência e assistência social). Estão previstas no art. 195, CF/88:
+
+           Art. 195. A seguridade social será financiada por toda a sociedade, de forma
+           direta e indireta, nos termos da lei, mediante recursos provenientes dos
+           orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das
+           seguintes contribuições sociais:
+           I - do empregador, da empresa e da entidade a ela equiparada na forma da lei,
+           incidentes sobre:
+           a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a
+           qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo
+           empregatício;
+           b) a receita ou o faturamento;
+           c) o lucro;
+           II - do trabalhador e dos demais segurados da previdência social, não incidindo
+           contribuição sobre aposentadoria e pensão concedidas pelo regime geral de
+           previdência social de que trata o art. 201;
+           III - sobre a receita de concursos de prognósticos.
+           IV - do importador de bens ou serviços do exterior, ou de quem a lei a ele
+           equiparar;
+           V - sobre bens e serviços, nos termos de lei complementar.
+
+          São exemplos de contribuições de seguridade social: PIS/PASEP, COFINS, CSLL,
+          contribuição sobre a folha de salários, dentre outras.
+          b) Contribuições sociais gerais: destinam-se a custear ações da União na ordem social, que
+          não estejam compreendidas na seguridade social. São exemplos de contribuições sociais
+          gerais o salário-educação (art. 212, § 5º) e as contribuições destinadas aos Serviços Sociais
+          Autônomos (SENAI, SESI, SESC, SEBRAE, dentre outros).
+          c) “Outras” contribuições sociais: trata-se das contribuições sociais residuais, que podem
+          ser instituídas pela União, por meio de lei complementar. Essas contribuições devem ser
+          não-cumulativas1 e não podem ter fato gerador e base de cálculo próprios de outras
+          contribuições.
+1
+    A não-cumulatividade é uma técnica tributacional que busca evitar a “tributação em cascata”.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                             11
+           www.estrategiaconcursos.com.br                                                           62
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Por último, cabe destacar que a Carta Magna prevê, em seu art. 149, § 1º, a possibilidade de
+Estados, Distrito Federal e Municípios instituírem contribuições sociais a serem cobradas de seus
+servidores ativos, dos aposentados e pensionistas, a fim de custear o seu regime próprio de
+previdência (RPPS). Essas contribuições poderão ter alíquotas progressivas de acordo com o valor
+da base de contribuição ou dos proventos de aposentadoria e de pensões. Assim, remunerações
+mais elevadas poderão sofrer a incidência de contribuições previdenciárias com alíquotas
+superiores.
+Trata-se de norma de eficácia limitada inserida pela Reforma da Previdência, que depende de
+publicação de lei de iniciativa privativa do Chefe do Poder Executivo para produzir todos os seus
+efeitos.
+Nos entes em que essa contribuição for instituída, sua incidência deverá se dar apenas sobre o
+valor que exceder o limite máximo estabelecido para os benefícios do RGPS, nos termos do 40,
+§ 18, da CF/88.
+                                                         ==219a34==
+
+Contribuições de intervenção no domínio econômico:
+As contribuições de intervenção no domínio econômico (CIDE), de competência exclusiva da
+União, foram criadas para estimular segmentos econômicos específicos, destinando-lhes os
+recursos provenientes da arrecadação. Trata-se, portanto, de tributos de arrecadação vinculada e
+de finalidade extrafiscal.
+Dentre essas contribuições, a CIDE-Combustíveis, que é a mais cobrada em concursos, tem
+previsão expressa no art. 177, § 4º, CF/88. Seus recursos destinam-se:
+
+        a) ao pagamento de subsídios a preços ou transporte de álcool combustível, gás
+        natural e seus derivados e derivados de petróleo;
+        b) ao financiamento de projetos ambientais relacionados com a indústria do
+        petróleo e do gás;
+        c) ao financiamento de programas de infraestrutura de transportes;
+        d) ao pagamento de subsídios a tarifas de transporte público coletivo de
+        passageiros.
+
+Contribuições corporativas
+As contribuições corporativas estão previstas no art. 149 da Constituição, nos seguintes termos:
+        Art. 149. Compete exclusivamente à União instituir contribuições sociais, de
+        intervenção no domínio econômico e de interesse das categorias profissionais
+        ou econômicas, como instrumento de sua atuação nas respectivas áreas,
+        observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto
+        no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
+
+São exemplos dessas contribuições as que se destinam aos conselhos de fiscalização de
+profissões regulamentadas, como é o caso do Conselho de Medicina (CRM) e do Conselho de
+Odontologia (CRO), dentre outros.
+
+Desde a Reforma Trabalhista implementada pela Lei Federal nº 13.467/17, a até então chamada
+"contribuição sindical" deixou de ser compulsória e passou a depender de expressa autorização
+
+        Receita Federal (Analista Tributário) Direito Constitucional                               12
+        www.estrategiaconcursos.com.br                                                             62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+dos trabalhadores. Com isso, a contribuição sindical perdeu sua natureza jurídica tributária, já que
+a compulsoriedade é um dos elementos que integram a definição de tributo.
+
+Contribuição para o Custeio do Serviço de Iluminação Pública (COSIP):
+Segundo o STF, o serviço de iluminação pública é um serviço geral e indivisível e, portanto, não
+pode ser financiado por meio de taxa. Em razão disso, várias leis municipais que instituíram taxas
+de iluminação pública foram declaradas inconstitucionais pela Corte Suprema.
+Dessa maneira, a iluminação pública deveria ser custeada por meio de impostos. Os Municípios,
+todavia, alegavam não ter condições financeiras para desviar os seus limitados recursos para essa
+atividade. Em razão disso, foi promulgada a EC nº 39/2002, criando o art. 149-A, abaixo
+transcrito:
+
+        Art. 149-A Os Municípios e o Distrito Federal poderão instituir contribuição, na
+        forma das respectivas leis, para o custeio do serviço de iluminação pública,
+        observado o disposto no art. 150, I e III.
+        Parágrafo único. É facultada a cobrança da contribuição a que se refere o caput,
+        na fatura de consumo de energia elétrica.
+
+A doutrina considera que a Contribuição de Iluminação Pública é uma contribuição “sui generis”,
+que não se confunde com as demais contribuições especiais. Ela busca financiar um serviço
+público geral e indivisível, o que aproxima sua natureza jurídica da de um imposto; no entanto,
+ao contrário dos impostos, sua arrecadação é vinculada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             13
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Competência Tributária X Competência para legislar sobre
+Direito Tributário
+Antes de qualquer coisa, é preciso destacar que há diferenças relevantes entre “competência
+tributária” e “competência para legislar sobre direito tributário”. Vamos começar por aí.
+A competência para legislar sobre direito tributário consiste na competência para editar normas
+acerca desse tema; em outras palavras, é o poder para estabelecer normas relativas à matéria
+tributária. Segundo o art. 24, CF/88, legislar sobre direito tributário é competência concorrente
+da União, dos Estados e do Distrito Federal. Cabe à União editar normas gerais e aos Estados e
+Distrito Federal suplementá-las, mediante leis próprias. No exercício dessa competência, a União
+editou o Código Tributário Nacional (CTN), que estabelece normas gerais em matéria tributária.
+A competência tributária, por sua vez, é o poder conferido pela Constituição aos entes
+federativos (União, Estados, Distrito Federal e Municípios) para que estes instituam os tributos.
+Veja: a Constituição não cria tributos; ela apenas autoriza que os entes federativos o façam,
+outorgando-lhes a competência tributária. A CF/88 estabelece, por exemplo, que o ICMS é um
+imposto da competência dos estados; caberá, todavia, a cada um deles instituir esse tributo
+mediante lei ordinária.
+O exercício da competência tributária é facultativo. Cabe a cada ente federativo a
+discricionariedade para decidir se irá ou não exercê-la, instituindo o tributo de sua competência.
+A Lei de Responsabilidade Fiscal (LRF) aponta que constituem requisitos essenciais para a
+responsabilidade na gestão fiscal a instituição, previsão e efetiva arrecadação de todos os
+tributos da competência constitucional do ente da Federação (art. 11, LC nº 101/ 2000).
+Não se deve interpretar a LRF como obrigando os entes federativos a instituir todos os tributos
+de sua competência. O sentido teleológico da norma é na direção de impor que os entes
+federativos instituam apenas aqueles tributos que sejam economicamente viáveis.
+
+        A CF/88 prevê que a União tem competência para instituir, mediante lei
+        complementar, o imposto sobre grandes fortunas. No entanto, até hoje, esse
+        tributo não foi criado.
+        Outro tributo de competência da União que também deve ser instituído por lei
+        complementar é o imposto sobre produção, extração, comercialização ou
+        importação de bens e serviços prejudiciais à saúde ou ao meio ambiente. Esta é
+        uma novidade incluída no texto constitucional pela Emenda nº 132/2023.
+
+Ao estudarmos a competência tributária, é relevante mencionarmos o art. 146, CF/88:
+
+        Art. 146. Cabe à lei complementar:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           14
+        www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 16
+
+      I- dispor sobre conflitos de competência, em matéria tributária, entre a União, os
+      Estados, o Distrito Federal e os Municípios;
+      II - regular as limitações constitucionais ao poder de tributar;
+      III - estabelecer normas gerais em matéria de legislação tributária, especialmente
+      sobre:
+      a) definição de tributos e de suas espécies, bem como, em relação aos impostos
+      discriminados nesta Constituição, a dos respectivos fatos geradores, bases de
+      cálculo e contribuintes;
+      b) obrigação, lançamento, crédito, prescrição e decadência tributários;
+      c) adequado tratamento tributário ao ato cooperativo praticado pelas sociedades
+      cooperativas, inclusive em relação aos tributos previstos nos arts. 156-A e 195, V;
+      (Redação dada pela Emenda Constitucional nº 132, de 2023)
+                                                       ==219a34==
+
+      d) definição de tratamento diferenciado e favorecido para as microempresas e
+      para as empresas de pequeno porte, inclusive regimes especiais ou simplificados
+      no caso dos impostos previstos nos arts. 155, II, e 156-A, das contribuições
+      sociais previstas no art. 195, I e V, e § 12 e da contribuição a que se refere o art.
+      239. (Redação dada pela Emenda Constitucional nº 132, de 2023).
+      § 1º A lei complementar de que trata o inciso III, d, também poderá instituir um
+      regime único de arrecadação dos impostos e contribuições da União, dos
+      Estados, do Distrito Federal e dos Municípios, observado que: (Incluído pela
+      Emenda Constitucional nº 132, de 2023)
+      I - será opcional para o contribuinte; (Incluído pela Emenda Constitucional nº 132,
+      de 2023)
+      II - poderão ser estabelecidas condições de enquadramento diferenciadas por
+      Estado; (Incluído pela Emenda Constitucional nº 132, de 2023)
+      III - o recolhimento será unificado e centralizado e a distribuição da parcela de
+      recursos pertencentes aos respectivos entes federados será imediata, vedada
+      qualquer retenção ou condicionamento; (Incluído pela Emenda Constitucional nº
+      132, de 2023)
+      IV - a arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos
+      entes federados, adotado cadastro nacional único de contribuintes. (Incluído pela
+      Emenda Constitucional nº 132, de 2023)
+      § 2º É facultado ao optante pelo regime único de que trata o § 1º apurar e
+      recolher os tributos previstos nos arts. 156-A e 195, V, nos termos estabelecidos
+      nesses artigos, hipótese em que as parcelas a eles relativas não serão cobradas
+      pelo regime único. (Incluído pela Emenda Constitucional nº 132, de 2023)
+      § 3º Na hipótese de o recolhimento dos tributos previstos nos arts. 156-A e 195,
+      V, ser realizado por meio do regime único de que trata o § 1º, enquanto perdurar
+      a opção: (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            15
+      www.estrategiaconcursos.com.br                                                          62
+
+                                    
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 16
+
+          I - não será permitida a apropriação de créditos dos tributos previstos nos arts.
+          156-A e 195, V, pelo contribuinte optante pelo regime único; e (Incluído pela
+          Emenda Constitucional nº 132, de 2023)
+          II - será permitida a apropriação de créditos dos tributos previstos nos arts. 156-A
+          e 195, V, pelo adquirente não optante pelo regime único de que trata o § 1º de
+          bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em
+          montante equivalente ao cobrado por meio do regime único. (Incluído pela
+          Emenda Constitucional nº 132, de 2023)
+
+É possível perceber, a partir da leitura do art. 146, que as normas gerais de direito tributário
+deverão ser objeto de lei complementar. Trata-se de lei complementar de caráter nacional, que
+visa a dar efetividade à previsão do art. 24, § 1º, da Constituição1. Essa lei, sendo nacional,
+vincula todos os entes federativos. Atualmente, é representada pelo Código Tributário Nacional
+(CTN), que foi recepcionado pela CF/88 com “status” de lei complementar.
+Também compete à lei complementar dispor sobre conflitos de competência, em matéria
+tributária, entre a União, os Estados, o Distrito Federal e os Municípios (art. 146, I).
+Considerando-se que a Constituição delimita o âmbito de competência de cada um dos entes
+políticos, qualquer conflito de competência entre eles será apenas aparente. Nesse sentido, a lei
+complementar prevista no art. 146, I, tem a função tão-somente de elucidar conceitos e normas
+previstos na Constituição, de modo a permitir a solução do conflito.
+No que se refere à previsão de tratamento diferenciado e favorecido para as microempresas e
+para as empresas de pequeno porte, inclusive regimes especiais ou simplificados, determina a
+Constituição (art. 146, § 1º) que a lei complementar poderá, também, instituir um regime único
+de arrecadação dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos
+Municípios, observado que:
+         a) Será opcional para o contribuinte;
+         b) Poderão ser estabelecidas condições de enquadramento diferenciadas por Estado;
+         c) O recolhimento será unificado e centralizado e a distribuição da parcela de recursos
+         pertencentes aos respectivos entes federados será imediata, vedada qualquer retenção ou
+         condicionamento;
+         d) A arrecadação, a fiscalização e a cobrança poderão ser compartilhadas pelos entes
+         federados, adotado cadastro nacional único de contribuintes.
+Os §§ 2º e 3º do art. 146 trazem particularidades em relação ao Imposto de Competência
+compartilhada entre Estados, Distrito Federal e Municípios, previsto no art. 156-A, e acerca da
+contribuição social sobre bens e serviços, nos termos de lei complementar.
+
+1
+ Segundo o art. 24, § 1º, CF/88, “no âmbito da legislação concorrente, a competência da União limitar-se-á a
+estabelecer normas gerais.”
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                   16
+          www.estrategiaconcursos.com.br                                                                 62
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Limitações Constitucionais ao poder de tributar
+Na relação jurídico-tributária, o Estado goza de nítida posição de supremacia sobre o particular.
+Em razão disso, a Constituição, com o objetivo de proteger os particulares contra a ânsia
+arrecadatória do Estado, estabeleceu diversas limitações ao poder de tributar.
+Podemos dividir as limitações constitucionais ao poder de tributar em 2 (duas) grandes espécies:
+i) princípios constitucionais tributários e; ii) imunidades tributárias.
+
+Princípios Constitucionais Tributários
+Princípio da Legalidade
+O Estado, por meio dos tributos, invade a esfera patrimonial dos indivíduos, obrigando-lhes ao
+pagamento de uma prestação pecuniária. Em um regime democrático, invasão de tal natureza
+somente pode ocorrer mediante consentimento do povo, o que se dá por lei.
+É nessa lógica que se apoia o princípio da legalidade em matéria tributária. Segundo o art. 150, I,
+CF/88, é vedado aos entes federativos (União, Estados, DF e Municípios) exigir ou aumentar
+tributo sem lei que o estabeleça.
+Embora a literalidade do texto constitucional disponha que a lei é necessária para “exigir ou
+aumentar” tributo, o alcance do princípio da legalidade é mais amplo. O Código Tributário
+Nacional (CTN) é mais específico sobre o tema, determinando que será necessária lei para:
+       a) Instituição de tributos, ou a sua extinção. Ora, se é a lei que cria o tributo, também é a
+       lei que o extingue. Igualmente, a concessão de benefícios fiscais está submetida à reserva
+       legal.
+       b) Majoração de tributos, ou a sua redução. O aumento e a redução da alíquota de um
+       tributo são feitos mediante lei.
+       c) Definição do fato gerador da obrigação tributária principal e do seu sujeito passivo. Vale
+       enfatizar que é a lei complementar que define o fato gerador dos impostos.
+       d) Fixação da alíquota do tributo e de sua base de cálculo. A base de cálculo dos
+       impostos depende de lei complementar.
+       e) Cominação de penalidades para infrações;
+       f) Hipóteses de exclusão, suspensão e extinção de créditos tributários, ou de dispensa ou
+       redução de penalidades.
+Há várias exceções ao princípio da legalidade.
+A primeira delas diz respeito à atualização do valor monetário da base de cálculo. Cuidado para
+não confundir atualização com aumento da base de cálculo! A atualização visa diminuir o efeito
+corrosivo da inflação e não precisa de lei para ser implementada; por outro lado, o aumento da
+base de cálculo depende está, sim, sujeito à reserva legal. O caso mais clássico é a atualização
+dos valores das tabelas referentes ao preço por metro quadrado dos imóveis, que servem de
+base para o IPTU. Tal atualização pode ser feita por ato do Poder Executivo Municipal.
+A segunda exceção se refere à fixação do prazo para pagamento do tributo. Por não estar
+relacionado no CTN dentre as matérias sujeitas à reserva legal, entende o STF que a fixação do
+prazo para pagamento não está submetida à reserva legal.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             17
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 16
+
+Vamos à terceira exceção...
+A Constituição não prevê exceções à legalidade no que se refere à criação de tributos, mas
+apenas no que se refere à alteração de alíquotas. Nesses casos, é tecnicamente mais adequado,
+inclusive, dizer que há uma mitigação ao princípio da legalidade.
+Dessa forma, podem ser alteradas (reduzidas ou aumentadas) por ato do Poder Executivo as
+alíquotas dos seguintes impostos: i) Imposto de importação (II); ii) Imposto de exportação (IE); iii)
+Imposto sobre produtos industrializados (IPI) e iv) Imposto sobre operações financeiras (IOF).
+Há que se comentar ainda sobre a CIDE-Combustíveis e o ICMS-Monofásico incidente sobre
+combustíveis.
+Segundo a Constituição Federal, a alíquota da CIDE-Combustíveis poderá ser reduzida e
+restabelecida por ato do Poder Executivo (art. 177, § 4º, I, b). Dizer que a alíquota pode ser
+restabelecida por ato do Poder Executivo é bem diferente de dizer que ela pode ser aumentada.
+Restabelecer a alíquota significa retornar ao nível em que esta se encontrava antes da redução.
+Para aumentá-la além desse nível, não será suficiente um ato do Poder Executivo; haverá
+necessidade de uma lei. A redução e o restabelecimento da alíquota da CIDE-Combustíveis
+também não obedecem o princípio da anterioridade, que estudaremos mais à frente.
+O ICMS-monofásico incidente sobre combustíveis, por sua vez, pode ter sua alíquota aumentada
+ou reduzida por meio de Convênio. Para a redução e restabelecimento de alíquotas, não há
+necessidade de que seja obedecido o princípio da anterioridade. Todavia, para que a alíquota
+seja elevada para um patamar superior ao que ela se encontrava antes de uma redução, há
+necessidade de que a anterioridade seja observada.
+Princípio da Isonomia
+O princípio da isonomia (ou da igualdade) possui 2 (duas) importantes dimensões: i) a igualdade
+perante a lei e; ii) a igualdade na lei.
+A igualdade “perante a lei” é direcionada aos intérpretes e aplicadores da lei. Não podem estes,
+quando da aplicação do Direito, estabelecer diferenças àqueles a quem a lei concedeu
+tratamento igual. A igualdade “na lei”, por sua vez, se direciona ao legislador, que não pode
+editar leis que discriminem pessoas em situação equivalente.
+Em matéria tributária, o princípio da isonomia está previsto no art. 150, II, CF/88, segundo o qual
+é vedado aos entes federativos instituir tratamento desigual entre contribuintes que se
+encontrem em situação equivalente, proibida qualquer distinção em razão de ocupação
+profissional ou função por eles exercida, independentemente da denominação jurídica dos
+rendimentos, títulos ou direitos.
+Assim, no âmbito tributário, a isonomia impede que sejam concedidos privilégios a determinados
+grupos de indivíduos. Como exemplo, pessoas que têm rendimentos e despesas semelhantes
+deverão pagar o mesmo montante de imposto de renda. Não há que se conceder qualquer
+privilégio em razão de ocupação profissional ou função exercida. Nesse sentido, o STF
+considerou inconstitucional pretensão de contribuinte de ter isenção de IPTU com base na sua
+qualidade de servidor público.1
+
+1
+    STF, AI 157.871 – AgR.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           18
+           www.estrategiaconcursos.com.br                                                         62
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+A isonomia está intimamente relacionada ao princípio da capacidade contributiva, o qual
+determina que aqueles que têm maiores rendimentos sofram uma maior tributação. A
+Constituição prevê esse princípio em seu art. 145, § 1º:
+
+        § 1º - Sempre que possível, os impostos terão caráter pessoal e serão graduados
+        segundo a capacidade econômica do contribuinte, facultado à administração
+        tributária, especialmente para conferir efetividade a esses objetivos, identificar,
+        respeitados os direitos individuais e nos termos da lei, o patrimônio, os
+        rendimentos e as atividades econômicas do contribuinte.
+
+Salienta-se que, apesar de a Carta Magna prever a aplicação do princípio da capacidade
+contributiva apenas para impostos, o STF entende que não há impedimento a que ele se estenda
+às demais espécies de tributos.
+Princípio da Irretroatividade
+Em nome da segurança jurídica, a lei tributária deverá, em regra, possuir efeitos prospectivos, ou
+seja, não deverá se aplicar a fatos do passado. É isso o que determina o princípio da
+irretroatividade, que veda aos entes federativos cobrar tributos em relação a fatos geradores
+ocorridos antes do início da vigência da lei que os tenha instituído ou majorado (art. 150, III, “a”,
+CF).
+Com isso, a CF/88 dá segurança jurídica aos particulares, impedindo que estes tenham sua
+programação financeira desestruturada pela tributação de fatos ocorridos no passado, à época
+não sujeitos à incidência tributária.
+Princípio da anterioridade
+A Constituição Federal veda aos entes federados a cobrança de tributos no mesmo exercício
+financeiro em que tenha sido publicada a lei que os instituiu ou aumentou (art. 150, III, “b”, CF).
+É importante ressaltar que a data-referência para aplicação do princípio da anterioridade é a data
+da publicação da lei (que nem sempre coincide com a data da sua entrada em vigor).
+Suponha, por exemplo, que, em 11/06/2015, a União eleve a alíquota do Imposto de Renda para
+35%. Essa nova alíquota somente poderá ser cobrada no exercício financeiro seguinte. O objetivo
+é impedir a imediata aplicação de uma tributação mais gravosa ao indivíduo, sem que ele tenha
+tempo para programar seu orçamento para recebê-la.
+O princípio da anterioridade é, assim, verdadeira garantia individual do contribuinte, já tendo
+sido considerado cláusula pétrea pelo Supremo Tribunal Federal (STF). Por ser um princípio de
+proteção ao contribuinte, não há qualquer óbice a que uma redução de carga tributária (extinção
+de um tributo ou redução de alíquota) produza efeitos imediatamente.
+A CF/88 prevê algumas exceções ao princípio da anterioridade, as quais discriminamos a seguir:
+            ●   II, IE, IPI e IOF;
+            ●   Impostos extraordinários de guerra (IEG);
+            ●   Empréstimos compulsórios referentes a guerra e a calamidade pública;
+            ●   Contribuições para financiamento da seguridade social.
+            ●   CIDE-Combustíveis (Não se aplica a anterioridade para a redução e o
+                restabelecimento de alíquotas).
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              19
+        www.estrategiaconcursos.com.br                                                            62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+            ● ICMS-monofásico incidente sobre combustíveis (Também não se aplica a
+                anterioridade apenas para a redução e o restabelecimento de alíquotas).
+Princípio da Noventena ou Anterioridade Nonagesimal ou Carência
+O princípio da noventena ou anterioridade nonagesimal é, assim como o princípio da
+anterioridade anual, uma vertente do princípio da não-surpresa. Surgiu com a EC nº 42/2003,
+que estabeleceu que é vedado aos entes federativos cobrar tributos antes de decorridos noventa
+dias da data em que haja sido publicada a lei que os instituiu ou aumentou.
+O objetivo da criação da regra da anterioridade nonagesimal foi ampliar a proteção dada ao
+contribuinte contra mudanças na legislação tributária. Era comum que ocorressem modificações
+ao final do ano, o que tornava a anterioridade anual insuficiente para garantir ao contribuinte um
+período mínimo para reestruturar seu orçamento antes de sofrer uma maior tributação.
+Dessa forma, atualmente, é necessário que os princípios da noventena e da anterioridade anual
+sejam observados, cumulativamente, para que um aumento da carga tributária seja
+                                                         ==219a34==
+
+implementado.
+A Carta Magna prevê algumas exceções à noventena, no que concerne aos seguintes tributos:
+            ●   II, IE e IOF;
+            ●   Impostos extraordinários de guerra (IEG);
+            ●   Empréstimos compulsórios referentes a guerra e a calamidade pública;
+            ●   Imposto de Renda (IR).
+            ●   Alterações da base de cálculo do IPTU e do IPVA.
+
+        Algumas dicas!
+        1) O IPI é exceção ao princípio da anterioridade, mas obedece à noventena.
+        2) O IR é exceção ao princípio da noventena, mas obedece à anterioridade.
+        3) As contribuições para o financiamento da seguridade social são uma exceção
+        ao princípio da anterioridade, mas obedecem à noventena.
+
+Princípio do não-confisco
+Segundo o art. 150, IV, CF/88, os entes federativos não podem utilizar tributos com efeito de
+confisco. Visa-se, com isso, a garantir a razoabilidade da carga tributária aplicada aos
+particulares, de modo a não desestimular a própria atividade econômica.
+O princípio da vedação ao confisco denota um conceito jurídico indeterminado. Não há
+parâmetros objetivos para se determinar em que ponto um tributo passa a ter efeito
+confiscatório. Caberá ao juiz, em cada caso concreto, decidir se o tributo tem ou não efeito de
+confisco.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           20
+        www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 16
+
+Um importante posicionamento do STF a respeito desse princípio é o de que a identificação do
+efeito confiscatório se dá quanto à totalidade da carga tributária, considerando se a riqueza do
+indivíduo permite que ele suporte a incidência de todos os tributos que ele deverá pagar, dentro
+de um determinado período, à mesma pessoa política que os houver instituído2.
+O STF entende que a proibição ao confisco também se estende às multas3 e às taxas4. Embora
+para as multas seja difícil definir em que ponto começa a haver o confisco, para as taxas essa
+mensuração é feita levando-se em conta o custo da atividade estatal prestada ou posta à
+disposição do constituinte.
+Princípio da liberdade de tráfego
+A Carta Magna proíbe que os entes federativos estabeleçam limitações ao tráfego de pessoas ou
+bens, por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio
+pela utilização de vias conservadas pelo Poder Público (art. 150, V, CF). O objetivo da proibição
+foi impedir que esses entes criassem tributos sobre a passagem de pessoas ou bens em seus
+territórios, restringindo o direito de locomoção previsto no art. 5º, XV, da Constituição.
+A principal exceção a essa regra é a possibilidade de cobrança de ICMS interestadual, que, por
+ter fundamento constitucional, é admitida. Outra exceção importante diz respeito ao pedágio.
+Princípio da Uniformidade Geográfica da Tributação
+O princípio da uniformidade geográfica da tributação veda à União instituir tributo que não seja
+uniforme em todo o território nacional ou que implique distinção ou preferência em relação a
+Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a concessão de
+incentivos fiscais destinados a promover o equilíbrio do desenvolvimento socioeconômico entre
+as diferentes regiões do País (art. 151, I, CF). Note que a exceção está em consonância com o
+objetivo da República Federativa do Brasil de reduzir as desigualdades sociais e regionais (art. 3º,
+III, CF).
+Perceba que esse princípio se dirige apenas à União. São os tributos federais deverão ser
+cobrados uniformemente em todo o território nacional. Um aumento da alíquota de tributos
+federais deverá, portanto, incidir em todo o território brasileiro.
+Princípio da não-discriminação baseada em procedência ou destino
+Este princípio veda aos Estados, ao Distrito Federal e aos Municípios o estabelecimento de
+diferenças tributárias entre bens e serviços de qualquer natureza em razão de sua procedência ou
+destino. Visa-se, com isso, à proteção do pacto federativo.
+Vedação às Isenções Heterônomas
+Segundo o art. 151, III, CF/88, é vedado à União instituir isenções de tributos da competência
+dos Estados, do Distrito Federal e dos Municípios. Proíbe-se, dessa forma, a concessão de
+isenções heterônomas, assim chamadas as isenções concedidas por um ente federativo em
+relação a tributos que fogem à sua competência tributária. Como exemplo, a União não é
+autorizada a editar lei concedendo isenção de IPVA (tributo estadual) ou IPTU (tributo municipal).
+A Constituição Federal algumas exceções à vedação de isenções heterônomas:
+2
+  STF, ADI-QO 2010/DF, Rel. Min. Celso de Mello, j. 13.06.2002, DJ de 28.03.2003.
+3
+  STF, ADI 551/RJ, Rel. Min. Ilmar Galvão, j. 24.10.2002, DJ de 14.02.2003.
+4
+  STF, Pleno, ADI-MC-QO 2.551/MG, Rel. Min. Celso de Mello, j. 02.04.2003, DJ de 20.04.2006.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                           21
+          www.estrategiaconcursos.com.br                                                         62
+
+                                        
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 16
+
+     a) A União poderá, mediante lei complementar conceder isenção de ISS (Imposto sobre
+     Serviços) sobre a exportação de serviços ao exterior (art. 156, § 3º, II, CF/88). O ISS é um
+     imposto municipal.
+     b) A União poderá, mediante lei complementar, conceder isenção de ICMS nas
+     exportações de mercadorias (art. 155, § 2º, X, “a”, CF/88). Enfatize-se, todavia, que esse
+     dispositivo perdeu sua finalidade, eis que a EC nº 42/2003 concedeu imunidade de ICMS
+     na exportação de mercadorias.
+     c) É possível que, mediante tratados e convenções internacionais, sejam concedidas
+     isenções de tributos estaduais e municipais. A União, quando celebra um tratado, está
+     representando o Estado brasileiro, a República Federativa do Brasil. Não está, portanto,
+     representando seus interesses enquanto ente federativo.
+
+      Receita Federal (Analista Tributário) Direito Constitucional                            22
+      www.estrategiaconcursos.com.br                                                          62
+
+                                    
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 16
+
+Limitações Constitucionais ao poder de tributar
+Imunidades Tributárias
+Imunidades tributárias são hipóteses de não-incidência constitucionalmente qualificadas. Do
+ponto de vista formal, entende-se que a imunidade é a impossibilidade da criação do vínculo
+jurídico-tributário em razão da limitação de competência do ente político. Já do ponto de vista
+material, a imunidade concede aos seus destinatários direito público subjetivo de não ser
+tributado.
+As imunidades podem ser objetivas ou subjetivas. As imunidades objetivas incidem sobre
+determinados bens, fatos ou situações, como é o caso da imunidade sobre livros, jornais e
+periódicos. As imunidades subjetivas, por outro lado, são aquelas que existem em virtude da
+natureza da pessoa, tais como as imunidades concedidas a partidos políticos e entidades
+beneficentes de assistência social.
+Segundo o STF, “a imunidade tributária subjetiva aplica-se a seus beneficiários na posição de
+contribuinte de direito, mas não na de simples contribuinte de fato, sendo irrelevante, para a
+verificação da existência do beneplácito constitucional, a repercussão econômica do tributo
+envolvido”. Assim, aquisições feitas por entidades beneficentes de assistência social não
+receberão imunidade de ICMS. Em uma situação como essa, a entidade beneficente de
+assistência social é apenas contribuinte de fato, sofrendo a repercussão econômica do tributo. O
+contribuinte de direito, entretanto, é a pessoa jurídica responsável pela venda, que sofrerá a
+incidência tributária do ICMS.
+Imunidade Tributária Recíproca
+O art. 150, VI, “a”, da Constituição proíbe que os entes federativos (a União, os Estados, o
+Distrito Federal e os Municípios) instituam impostos sobre patrimônio, renda ou serviços uns dos
+outros. Trata-se de importante regra de proteção à federação e, por isso mesmo, de cláusula
+pétrea, conforme entendimento do STF.
+O § 2º do mesmo artigo estende a imunidade às autarquias e às fundações instituídas e mantidas
+pelo Poder Público, no que diz respeito ao patrimônio, à renda e ais serviços vinculados às suas
+finalidades essenciais ou às delas decorrentes. Note que, para esses entes da Administração
+Indireta, diferentemente do que ocorre para os entes políticos, a Constituição exige que haja
+vinculação do patrimônio, renda e serviços às suas finalidades essenciais ou às delas decorrentes.
+O STF tem um entendimento muito importante e muito cobrado em concursos públicos sobre o
+tema. Segundo a Corte, a imunidade tributária recíproca também abrange as empresas públicas
+e sociedades de economia mista prestadoras de serviços públicos de prestação obrigatória e
+exclusiva do Estado1. É o caso, por exemplo, da Empresa de Correios e Telégrafos (ECT).
+A imunidade tributária recíproca não se aplica, porém, às empresas públicas e às sociedades de
+economia mista que exploram atividade econômica. Trata-se, afinal, de pessoas jurídicas de
+direito privado que visam o lucro. Para exemplificar, imóvel da União arrendado pela PETROBRAS
+não estará sujeito à imunidade tributária recíproca, sofrendo a incidência do IPTU.
+
+1
+    STF, RE 407.099/RS e AC 1.550-2.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        23
+           www.estrategiaconcursos.com.br                                                      62
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 16
+
+Imunidade Tributária Religiosa
+Tendo como fundamento a liberdade de culto (art. 5º, VI, CF/88) a imunidade religiosa (art. 150,
+VI, “b”, CF) visa a impedir que o Estado utilize a tributação como meio de embaraçar o
+funcionamento das entidades religiosas. Aplica-se exclusivamente aos impostos, não se
+estendendo às demais espécies de tributos.
+O art. 150, § 4º, da Constituição determina que essa imunidade compreende somente o
+patrimônio, a renda e os serviços, relacionados com as finalidades essenciais das entidades
+religiosas. O STF tem interpretado esse dispositivo de maneira bastante flexível, tendo
+entendido, por exemplo, que se um imóvel pertencente a um ente imune for alugado, não
+deixará de estar vinculado às finalidades essenciais do ente, ou seja, não perderá a imunidade2.
+Com a Emenda Constitucional nº 116/2022, a Constituição passou a prever no art. 156, § 1º-A,
+que não incide IPTU (imposto sobre a propriedade predial e territorial urbana) sobre os templos
+de qualquer culto, ainda que sejam locatárias do bem imóvel.
+                                                            ==219a34==
+
+Imunidade Tributária dos partidos políticos, sindicatos de trabalhadores e entidades
+educacionais e assistenciais sem fins lucrativos
+Trata-se de imunidade, prevista no art. 150, VI, “c”, da Constituição, visa a assegurar o
+pluralismo político e a liberdade de associação sindical, bem como a fomentar a educação e a
+cultura.
+Da mesma forma que tem feito na análise da imunidade religiosa, a interpretação do STF tem
+sido bastante flexível quanto a essa imunidade. Para a Corte, o fato de a entidade utilizar seu
+patrimônio em atividade que gere renda e, a rigor, não se enquadre em suas atividades
+essenciais, não afasta a imunidade, desde que os recursos obtidos sejam destinados a essas
+atividades essenciais.
+Como exemplo desse entendimento, o aluguel de imóvel integrante de entidade imune não
+perde sua imunidade, desde que seu valor seja aplicado nas atividades essenciais da entidade3.
+Para o reconhecimento da imunidade, basta que não seja provado desvio de finalidade, ônus que
+incumbe ao sujeito ativo da obrigação tributária.
+Imunidade Tributária Cultural
+A Constituição Federal proíbe os entes federativos de instituírem impostos sobre livro, jornais,
+periódicos e o papel destinado a sua impressão (art. 150, VI, “d”). Visa-se, com isso, a tornar mais
+barato o acesso à cultura e a facilitar a livre manifestação do pensamento, bem como a liberdade
+de atividade intelectual, artística, científica e de comunicação e o acesso à informação, dando
+concretude aos direitos previstos no art. 5º, incisos IV, IX e XIV, da Constituição. Por esse motivo,
+a imunidade tributária cultural é considerada cláusula pétrea.
+Essa imunidade é do tipo objetiva, ou seja, incide sobre o objeto (livros, jornais, periódicos e o
+papel destinado a sua impressão), não sobre o sujeito (livraria). Assim, não se cobra o ICMS sobre
+um livro quando ele sai da livraria, mas esta deverá pagar normalmente seu IR.
+
+2
+    STF, Pleno, RE 325.822/SP, Rel. Min. Ilmar Galvão, j. 18.12.2002, DJ de 14.05.2004.
+3
+    STF, Súmula 724.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           24
+           www.estrategiaconcursos.com.br                                                         62
+
+                                         
+
+
+---
+
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 16
+
+Segundo o STF, “a imunidade tributária constante do art. 150, VI, “d”, da Constituição Federal
+(CF), aplica-se ao livro eletrônico (“e-book”), inclusive aos suportes exclusivamente utilizados
+para fixá-lo”. 4
+Imunidade Tributária dos fonogramas e videofonogramas musicais
+É vedado aos entes federativos (União, Estados, Distrito Federal e Municípios) instituir impostos
+sobre “fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou
+literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem
+como os suportes materiais ou arquivos digitais que os contenham, salvo na etapa de replicação
+industrial de mídias ópticas de leitura a laser.”
+Trata-se de imunidade objetiva, pois impede a incidência de impostos sobre determinados bens.
+Busca-se dar incentivo às obras musicais brasileiras, permitindo a redução dos seus preços e,
+consequentemente, a “pirataria”. Em razão disso, passam a estar imunes a impostos:
+          a) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais
+          ou literomusicais de autores brasileiros;
+          b) fonogramas e videofonogramas musicais produzidos no Brasil contendo obras em geral
+          interpretadas por artistas brasileiros;
+          c) os suportes materiais ou arquivos digitais que contenham os conteúdos acima descritos.
+Observação: essa imunidade não alcança a etapa de replicação industrial de mídias ópticas de
+leitura a laser. Ainda não se tem jurisprudência formada sobre o tema e pairam sérias dúvidas
+sobre o que seria exatamente essa “etapa de replicação industrial”. Por ora, para fins de
+concursos públicos, guarde apenas a literalidade da norma.
+Outras Imunidades previstas no texto constitucional
+Além das imunidades veiculadas pelo art. 150, inciso VI, da CF/88, podem ser identificadas
+outras hipóteses de não incidência tributária.
+O STF5, ao apreciar o mérito da ADI 2.259, manifestou-se expressamente pela imunidade
+tributária em relação ao direito de gratuidade de certidões previsto no art. 5º, XXXIV, "b", cuja
+redação é a seguinte:
+
+           Art. 5º, XXXIV - são a todos assegurados, independentemente do pagamento de
+           taxas:
+           a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra
+           ilegalidade ou abuso de poder;
+           b) a obtenção de certidões em repartições públicas, para defesa de direitos e
+           esclarecimento de situações de interesse pessoal;
+
+No mesmo sentido, defende-se que os incisos LXXVI e LXXVII do art. 5º também manifestam
+imunidade tributária em relação às certidões de nascimento e óbito e em relação às ações de
+habeas corpus e habeas data, bem como dos atos necessários ao exercício da cidadania:
+
+
+4
+    RE 330817/RJ, Rel. Min. Dias Toffoli, 08.03.2017
+5
+    ADI 2.259/DF, Rel. Min. Dias Toffoli, DJe 25.03.2020.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          25
+           www.estrategiaconcursos.com.br                                                        62
+
+                                         
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+        Art. 5º, LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei:
+        a) o registro civil de nascimento;
+        b) a certidão de óbito;
+        Art. 5º, LXXVII - são gratuitas as ações de "habeas-corpus" e "habeas-data", e,
+        na forma da lei, os atos necessários ao exercício da cidadania.
+
+(TELEBRAS – 2022) Milita em favor da instituição de assistência social que tenha adquirido o
+status de imune a presunção de estarem seu patrimônio, renda e serviços vinculados às suas
+finalidades essenciais, cabendo à Fazenda Pública o ônus de provar que algum requisito da
+imunidade não esteja sendo cumprido pela entidade.
+Comentários:
+Exatamente isso: segundo o STF, para reconhecer a imunidade, basta que não seja provado
+desvio de finalidade, ônus que incumbe ao Poder Público. Questão correta.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                       26
+        www.estrategiaconcursos.com.br                                                     62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Repartição de Competências Tributárias
+A Constituição Federal de 1988 prevê uma repartição da competência tributária entre os entes
+federativos. No modelo por ela definido, identificamos as seguintes espécies de competência
+tributária: i) competência privativa; ii) competência residual; iii) competência extraordinária; iv)
+competência cumulativa e; v) competência comum.
+a) Competência tributária privativa: A CF/88 define exatamente os impostos que cada ente
+federativo tem competência para instituir. Apenas como exemplo, a União tem competência
+privativa para instituir o Imposto de Renda (IR), ao passo que os Municípios tem competência
+privativa para instituir o Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU).
+Vejamos, na tabela a seguir, a competência privativa dos entes federativos em relação a cada um
+dos impostos definidos na CF/88:
+      ENTE
+                                                                   IMPOSTO
+   FEDERATIVO
+
+                                                         Imposto de Importação (II)
+
+                                                         Imposto de Exportação (IE)
+
+                                    Imposto sobre a Renda e Proventos de qualquer natureza (IR)
+
+                                              Imposto sobre Produtos Industrializados (IPI)
+       União
+                                   Imposto sobre Operações de Crédito, Câmbio e Seguros (IOF)
+
+                                           Imposto sobre a Propriedade Territorial Rural (ITR)
+
+                                                  Imposto sobre Grandes Fortunas (IGF)
+
+                             Produção, extração, comercialização ou importação de bens e serviços
+                         prejudiciais à saúde ou ao meio ambiente, nos termos de lei complementar. (*)
+
+                            Imposto sobre a transmissão causa mortis e doação de quaisquer bens ou
+                                                       direitos (ITCMD)
+
+ Estados e Distrito           Imposto sobre operações relativas à circulação de mercadorias e sobre
+      Federal                 prestação de serviços de transporte interestadual e intermunicipal e de
+                                                       comunicação (ICMS)
+
+                                    Imposto sobre a propriedade de veículos automotores (IPVA)
+
+                                   Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU)
+
+                         Imposto sobre a transmissão inter vivos, a qualquer título, de bens imóveis, por
+   Municípios e
+                           natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de
+  Distrito Federal
+                                  garantia, bem como cessão de direitos a sua aquisição (ITBI)
+
+                                          Imposto sobre Serviços de qualquer natureza (ISS)
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    27
+        www.estrategiaconcursos.com.br                                                                  62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+(*) A previsão constitucional acerca do imposto sobre produção, extração, comercialização ou importação de bens e
+serviços prejudiciais à saúde ou ao meio ambiente é uma novidade introduzida no art. 153 da CF/88 pela Emenda
+Constitucional nº 132/2023. Por ora, o que é importante de sabermos é que ele deve ser instituído por meio de lei
+complementar.
+
+Também são consideradas privativas:
+       - A competência da União para instituir contribuições especiais, ressalvada a competência
+       dos Estados, DF e Municípios para instituírem contribuições previdenciárias de seus
+       servidores.
+       - A competência privativa da União para instituir empréstimos compulsórios.
+       - A competência privativa dos Municípios e do Distrito Federal para instituírem
+       contribuição de iluminação pública.
+                                                         ==219a34==
+
+b) Competência tributária residual: A União tem competência para, mediante lei complementar,
+instituir outros impostos (não previstos na Constituição), desde que sejam não cumulativos e não
+tenham fato gerador ou base de cálculo próprios dos discriminados na Constituição (art. 154, I).
+Essa competência para instituir outros impostos é o que se chama de competência tributária
+residual.
+Cabe destacar que o mesmo se aplica à criação das chamadas contribuições sociais residuais (art.
+195, § 4º, CF/88). A União poderá instituir, mediante lei complementar, outras contribuições
+sociais, não previstas na CF/88. Tais contribuições sociais serão não-cumulativas e não poderão
+ter fato gerador ou base de cálculo próprios de outras contribuições previstas no texto
+constitucional.
+A doutrina entende, ainda, que os Estados e o Distrito Federal possuem competência tributária
+residual para a instituição de taxas e contribuições de melhoria. Isso porque a CF/88, ao repartir
+as competências administrativas entre os entes federativos, atribuiu aos Estados a competência
+remanescente. Assim, os serviços públicos que não estiverem explícitos na CF/88 como
+competência da União e dos Municípios, serão da esfera de atribuições dos Estados e do Distrito
+Federal.
+c) Competência extraordinária: Segundo o art. 154, II, CF/88, a União poderá instituir, na
+iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua
+competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua
+criação.
+d) Competência cumulativa: A União e o Distrito Federal possuem competência cumulativa.
+A competência cumulativa da União se revela no fato de que, além dos impostos federais, ela
+possui competência para: i) instituir impostos estaduais nos Territórios Federais e; ii) instituir
+impostos estaduais e municipais se o Território não for dividido em Municípios.
+O Distrito Federal, por sua vez, tem competência cumulativa em razão da impossibilidade de ser
+dividido em Municípios. Em decorrência disso, o Distrito Federal tem competência para instituir
+os tributos estaduais e municipais.
+e) Competência comum: A competência tributária comum existe em relação aos tributos
+vinculados (aqueles cujo fato gerador dependem de atuação estatal). Assim, todos os entes
+federativos têm competência para a instituição de taxas e contribuições de melhoria.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                          28
+        www.estrategiaconcursos.com.br                                                                        62
+
+                                      
+
+
+---
+
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 16
+
+(Funpresp-EXE – 2022) Compete aos municípios instituir impostos sobre transmissão inter vivos, a
+qualquer título, por ato oneroso ou gratuito, de bens móveis e imóveis, por natureza ou acessão
+física, e de direitos reais sobre imóveis, inclusive os de garantia, bem como cessão de direitos à
+sua aquisição.
+Comentários:
+De acordo com o art. 156, II, CF/88, o imposto sobre transmissão "inter vivos" incide, a qualquer
+título, sobre ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais
+sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição. Questão
+errada.
+
+A Emenda Constitucional nº 132, de 20 de dezembro de 2023, prevê a existência de um imposto
+de competência compartilhada entre Estados, Distrito Federal e Municípios que deve incidir
+sobre bens e serviços. Ele também deve ser instituído por meio de uma lei complementar
+federal.
+
+
+.
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         29
+          www.estrategiaconcursos.com.br                                                       62
+
+                                        
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Repartição de Receitas Tributárias
+A repartição de receitas tributárias visa assegurar a autonomia dos entes da federação, uma vez
+que, pela mera repartição de competências tributárias, percebeu-se uma concentração da
+arrecadação de tributos na esfera federal e, em segundo lugar, na estadual. Desse modo, a
+repartição se dá principalmente da União para os Estados e Municípios e, adicionalmente, dos
+Estados para os Municípios.
+A distribuição das receitas se dá tanto de forma direta quanto indireta. No primeiro caso, os
+entes recebem diretamente os recursos; no segundo, esses recursos integram o fundo, a ser
+repartido posteriormente.
+Algumas receitas tributárias não são passíveis de repartição, por determinação constitucional.
+São elas:
+       a) Receitas que custeiam uma atividade específica do Estado;
+       b) Receitas decorrentes de empréstimos compulsórios: devem ser aplicadas integralmente
+       no motivo que ensejou sua instituição.
+       c) Contribuições: devem ser aplicadas, da mesma forma, na causa de sua instituição.
+       Exceção: Cide-combustíveis.
+Percebe-se, desse modo, que os impostos são a principal espécie tributária a ser objeto de
+repartição, uma vez que sua cobrança independe de qualquer atividade estatal específica relativa
+ao contribuinte, bem como não podem, em regra, ter sua receita vinculada a qualquer órgão,
+fundo ou despesa (art. 167, IV, CF). Vejamos como se dá essa repartição:
+
+        Art. 157. Pertencem aos Estados e ao Distrito Federal:
+        I – o produto da arrecadação do imposto da União sobre renda e proventos de
+        qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer
+        título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
+
+Por esse dispositivo, percebe-se que o imposto de renda incidente sobre a remuneração de um
+servidor público estadual caberá ao Estado. Na prática, como os Estados, o Distrito Federal, suas
+autarquias e fundações retêm a totalidade do imposto de renda na fonte, devido à
+responsabilidade tributária, não há necessidade de que essa receita lhes seja repassada pela
+União.
+
+        Art. 157. Pertencem aos Estados e ao Distrito Federal:
+        (...)
+        II – vinte por cento do produto da arrecadação do imposto que a União instituir
+        no exercício da competência que lhe é atribuída pelo art. 154, I.
+
+Trata-se, aqui, da competência residual da União para instituir novos impostos. Caso essa
+competência seja exercida, a União deverá repassar 20% (vinte por cento) da totalidade da
+arrecadação para os Estados e o Distrito Federal.
+
+        Art. 158. Pertencem aos Municípios:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          30
+        www.estrategiaconcursos.com.br                                                        62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+        I – o produto da arrecadação do imposto da União sobre renda e proventos de
+        qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer
+        título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
+
+Trata-se de hipótese semelhante à prevista no art. 157, I, da CF/88, agora no que se refere aos
+Municípios, suas autarquias e fundações. O imposto de renda retido dessa forma não precisará
+ser repassado à União: pertencerá integralmente aos Municípios. Assim, o imposto de renda
+incidente sobre a remuneração de um servidor público municipal caberá ao Município.
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        II – cinquenta por cento do produto da arrecadação do imposto da União sobre a
+        propriedade territorial rural, relativamente aos imóveis neles situados, cabendo a
+        totalidade na hipótese da opção a que se refere o art. 153, § 4º, III;
+
+Esse dispositivo determina que 50% da arrecadação do imposto sobre a propriedade territorial
+rural (ITR) sejam repassados para o município onde o referido imóvel esteja situado. Caso o
+Município opte, entretanto, por fiscalizar e cobrar esse tributo, terá direito à totalidade do mesmo
+(art. 153, § 4º, III, CF).
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        III – 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado
+        sobre a propriedade de veículos automotores licenciados em seus territórios e,
+        em relação a veículos aquáticos e aéreos, cujos proprietários sejam domiciliados
+        em seus territórios;
+
+Nesse dispositivo, determina-se que 50% (cinquenta por cento) da receita do imposto sobre a
+propriedade de veículos automotores (IPVA) sejam repassados pelos Estados aos Municípios
+onde esses veículos tiverem sido licenciados. É importante verificar que, a partir da promulgação
+da Emenda nº 132/2023, o IPVA também passa a incidir sobre a propriedade de veículos
+aquáticos e aéreos, com algumas exceções previstas no art. 155, § 6º, inciso III, da CF/88.
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        IV – vinte e cinco por cento do produto da arrecadação do imposto do Estado
+        sobre operações relativas à circulação de mercadorias e sobre prestações de
+        serviços de transporte interestadual e intermunicipal e de comunicação.
+        Parágrafo único. As parcelas de receita pertencentes aos Municípios,
+        mencionadas no inciso IV, serão creditadas conforme os seguintes critérios:
+        I – 65% (sessenta e cinco por cento), no mínimo, na proporção do valor
+        adicionado nas operações relativas à circulação de mercadorias e nas prestações
+        de serviços, realizadas em seus territórios;
+        II – até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual,
+        observada, obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             31
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+        percentuais com base em indicadores de melhoria nos resultados de
+        aprendizagem e de aumento da equidade, considerado o nível socioeconômico
+        dos educandos.
+
+Tem-se, aqui, a previsão da obrigatoriedade de repasse de 25% (vinte e cinco por cento) do total
+do ICMS arrecadado para os municípios localizados no Estado responsável pela arrecadação.
+Essa receita deverá ser repartida da seguinte forma:
+       a) No mínimo 65% (sessenta e cinco por cento) serão distribuídos proporcionalmente ao
+       valor adicionado nas operações referentes à circulação de mercadorias e prestação de
+       serviços realizadas em seus territórios;
+       b) Até 35% (trinta e cinco por cento) será distribuído de acordo com a lei estadual,
+       devendo ser observada, obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos
+       percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de
+       aumento da equidade, considerado o nível socioeconômico dos educandos.
+                                                         ==219a34==
+
+As hipóteses analisadas até agora dizem respeito à repartição direta de receitas tributárias.
+Passaremos, a seguir, à análise do art. 159 da Constituição, que trata dos casos em que essa
+repartição se dá de maneira indireta, por meio de fundos.
+Determina-se, nesse dispositivo, a repartição de 50% (cinquenta por cento) da receita tributária
+do IR e do IPI, descontadas do montante arrecadado as parcelas já repassadas do imposto de
+renda na forma prevista nos arts. 157, I e 158, I, da CF, que analisamos anteriormente. A partir da
+Emenda nº 132/2023, também deve ser repartido 50% da arrecadação com o imposto sobre
+produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao
+meio ambiente.
+A repartição se dá do seguinte modo:
+            ●      21,5% para o Fundo de Participação dos Estados e do DF;
+            ●      22,5% para o Fundo de Participação dos Municípios;
+            ●      3% para aplicação em programas de financiamento ao setor produtivo das
+            regiões Norte, Nordeste e Centro-Oeste;
+            ●      1% para o Fundo de Participação dos Municípios, que será entregue no
+            primeiro decêndio do mês de dezembro de cada ano.
+            ●      1% para o Fundo de Participação dos Municípios, que será entregue no
+            primeiro decêndio do mês de julho de cada ano.
+            ●      1% para o Fundo de Participação dos Municípios, que será entregue no
+            primeiro decêndio do mês de setembro de cada ano.
+
+        Art. 159. A União entregará:
+        (...)
+        II – do produto da arrecadação do imposto sobre produtos industrializados, dez
+        por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das
+        respectivas exportações de produtos industrializados.
+
+Esse dispositivo tem como objetivo ressarcir os Estados da perda de arrecadação decorrente da
+desoneração do ICMS sobre a exportação, após a EC nº 42/2003. Essa emenda determinou a
+não incidência de ICMS sobre operações que destinem mercadorias para o exterior ou sobre
+serviços prestados a destinatários no exterior, assegurada a manutenção e o aproveitamento do
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            32
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+montante do imposto cobrado nas operações e prestações anteriores. A perda resultante dessa
+previsão foi compensada por meio do repasse de 10% (dez por cento) do total da arrecadação
+do IPI.
+Com o mesmo objetivo, previu-se que os Estados deverão repassar 25% do total dessa parcela
+recebida para os Municípios de seus territórios que tiveram perdas com a desoneração do ICMS
+incidente sobre a exportação (art. 159, § 3º, CF).
+O teto para esse repasse de dez por cento da arrecadação do IPI foi fixado em vinte por cento
+(20%) para cada Estado ou para o Distrito Federal, devendo o excedente ser repartido pelos
+demais entes da federação (art. 159, § 2º, CF).
+
+        Art. 159. A União entregará:
+        (...)
+        III – do produto da arrecadação da contribuição de intervenção no domínio
+        econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os
+        Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação
+        a que se refere o inciso II, c, do referido parágrafo.
+
+Tem-se, aqui, a determinação do repasse aos Estados e Distrito Federal de 29% do total
+arrecadado a título de Cide-Combustíveis pela União. Os Estados, por sua vez, deverão repassar
+vinte e cinco por cento (25%) do que receberem para seus municípios (art. 159, § 4º, CF). Esses
+recursos deverão ser destinados ao financiamento de programas de infraestrutura de transportes
+(art. 177, §4º, II, “c”, CF).
+Nos termos do art. 161, inciso II, da CF/88, cabe a uma lei complementar estabelecer normas
+sobre a entrega dos recursos de que trata o art. 159, especialmente sobre os critérios de rateio
+dos fundos, objetivando promover o equilíbrio socioeconômico entre Estados e entre
+Municípios. Cabe ao Tribunal de Contas da União efetuar o cálculo das quotas dos fundos de
+participação.
+O art. 160 da Constituição, a fim de dar efetividade à repartição das receitas tributárias, proíbe a
+União, os Estados e o Distrito Federal de reter ou estabelecer qualquer restrição à entrega ou ao
+emprego desses recursos. Essa vedação, entretanto, não impede que esses entes condicionem a
+entrega desses valores:
+       - ao pagamento de seus créditos, inclusive de suas autarquias;
+       - ao cumprimento do disposto no art. 198, § 2º, incisos II e III (aplicação de recursos
+       mínimos em ações e serviços públicos de saúde).
+
+        Uma novidade importante trazida pela Emenda nº 132/2023 foi a instituição de
+        um Fundo Nacional de Desenvolvimento Regional, com o objetivo de reduzir as
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             33
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+        desigualdades regionais e sociais, mediante a entrega de recursos da União aos
+        Estados e ao Distrito Federal para:
+        I - realização de estudos, projetos e obras de infraestrutura;
+        II - fomento a atividades produtivas com elevado potencial de geração de
+        emprego e renda, incluindo a concessão de subvenções econômicas e
+        financeiras; e
+        III - promoção de ações com vistas ao desenvolvimento científico e tecnológico e
+        à inovação.
+
+Por fim, concluindo o nosso tópico, transcrevemos o art. 162 da CF/88, que dispõe sobre a
+publicidade dos montantes dos tributos arrecadados pelos entes federativos:
+
+        Art. 162. A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o
+        último dia do mês subsequente ao da arrecadação, os montantes de cada um
+        dos tributos arrecadados, os recursos recebidos, os valores de origem tributária
+        entregues e a entregar e a expressão numérica dos critérios de rateio.
+        Parágrafo único. Os dados divulgados pela União serão discriminados por Estado
+        e por Município; os dos Estados, por Município.
+
+(TCM-SP – 2023) Na repartição das receitas tributárias, a Constituição Federal estabelece que
+pertence aos Municípios cinquenta e cinco por cento do produto da arrecadação do imposto do
+Estado sobre a propriedade de veículos automotores licenciados em seus territórios.
+Comentários:
+O percentual correto de repasse do IPVA por parte dos Estados aos Municípios onde os veículos
+foram licenciados é de 50%, e não 55%, como mencionado pela questão. Questão errada.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          34
+        www.estrategiaconcursos.com.br                                                        62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                                    QUESTÕES COMENTADAS
+1.​    (FGV/MPU/Analista do MPU-Direito/2025) A organização não governamental Alfa,
+entidade beneficente de assistência social, oferece assistência médico-hospitalar a pessoas
+carentes. Ao adquirir medicamentos, a serem utilizados no exercício de sua atividade regular,
+houve a incidência do imposto sobre operações relativas à circulação de mercadorias e sobre
+prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que
+as operações e as prestações se iniciem no exterior (ICMS). Ao requerer a restituição do valor do
+referido imposto à Secretaria de Estado competente, teve o seu pedido indeferido, o que a
+levou a impetrar mandado de segurança por entender que a decisão administrativa era
+manifestamente contrária à ordem constitucional.
+
+O órgão jurisdicional competente, ao julgar o mandado de segurança, observou, corretamente,
+que Alfa:
+
+A) não tem direito à restituição, considerando que a imunidade tributária subjetiva não incide na
+hipótese;
+
+B) tem direito à restituição, pois o ICMS incidiu sobre insumos a serem utilizados em suas
+atividades finalísticas;
+
+C) tem direito à restituição, pois arcará com o impacto financeiro do ICMS, modalidade de
+imposto indireto;
+
+D) não tem direito à restituição, pois a ordem constitucional não lhe assegura o direito à
+imunidade tributária nos bens e serviços que adquira para consumo ou que comercialize;
+
+E) tem direito à restituição, pois, em razão de suas atividades, há uma correspondência biunívoca
+entre a imunidade e as figuras do contribuinte de direito e do contribuinte de fato.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! No âmbito do Direito Tributário, podemos afirmar que
+nos tributos indiretos temos a figura do contribuinte de direito, que é o sujeito passivo que
+realiza o fato gerador do tributo, bem como o contribuinte de fato, aquele que efetivamente arca
+com o ônus tributário (dada a transferência do encargo pelo contribuinte de direito).
+
+Nesse aspecto, o STF já consolidou entendimento que: “A imunidade tributária subjetiva se
+aplica a seus beneficiários na posição de contribuinte de direito, mas não na de simples
+contribuinte de fato, sendo irrelevante, para a verificação da existência do beneplácito
+constitucional, a repercussão econômica do tributo envolvido”. (STF. Plenário. RE 608872/MG,
+Info 855, 2017).
+
+LETRA B. INCORRETA. Cuidado! pois a organização não governamental não tem direito à
+restituição, dada a sua condição de contribuinte de fato no caso narrado.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           35
+        www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA C. INCORRETA. Muito embora arque com o impacto financeiro do ICMS, a entidade não
+possui direito à restituição, conforme posição consolidada do STF (RE 608872/MG, 2017, Info
+855).
+
+LETRA D. INCORRETA. Essa assertiva possui uma pegadinha maldosa da banca rs. Realmente, a
+entidade não governamental não possui direito à restituição, mas desde que esteja na condição
+de contribuinte de fato, quando por exemplo adquire para consumo. Se ela for comercializar um
+produto, estará na condição de contribuinte de direito, fazendo assim jus à restituição do ICMS.
+
+LETRA E. INCORRETA. Não possui direito à restituição do tributo. Além disso, não podemos
+afirmar que existe uma “correspondência biunívoca entre a imunidade e as figuras do
+contribuinte de direito e do contribuinte de fato”. No presente caso, a imunidade tributária
+subjetiva somente será aplicada para a entidade se ela estiver na condição de contribuinte de
+direito.
+
+Gabarito: Letra A.
+
+2.​    (FGV/CAGE-RS/Auditor do Estado/2025) O estado Alfa editou a Lei nº X, que dispôs
+sobre o diferimento do recolhimento do Imposto sobre Circulação de Mercadorias e Serviços
+indicados na ordem constitucional (ICMS), incidente sobre as operações de venda da produção
+das indústrias que venham a ser instaladas no norte de Alfa, como forma de estimular o
+desenvolvimento dessa região. A medida foi muito elogiada pelo setor econômico beneficiado,
+mas criticada pelos demais setores. À luz da sistemática constitucional, é correto afirmar que a
+Lei nº X
+
+(A) por conceder benefício fiscal, deveria ser antecedida de autorização prevista em lei
+complementar federal.
+
+(B) afronta a isonomia tributária, de modo que igual benefício deve ser assegurado aos setores
+econômicos preteridos.
+
+(C)   se ajusta à sistemática constitucional, pois o referido tratamento diferenciado não
+consubstancia benefício fiscal.
+
+(D) se ajusta à sistemática constitucional, pois o ICMS é tributo de competência de Alfa, que
+pode conceder benefícios fiscais com base na sua autonomia política.
+
+(E) por conceder benefício fiscal, deveria ser antecedida de autorização concedida por meio de
+convênio celebrado com os demais Estados e o Distrito Federal.
+
+Comentários:
+
+LETRA A. INCORRETA. Não se trata de benefício fiscal, tendo em vista que ainda é cobrado o
+pagamento do tributo.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          36
+        www.estrategiaconcursos.com.br                                                        62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA B. INCORRETA. Não, pessoal! A lei adotada pelo Estado Alfa não diz respeito a benefício
+fiscal, pois não há isenção ou não incidência do tributo, mas sim uma forma diversa do
+recolhimento do ICMS.
+
+LETRA C. CORRETA. É o nosso gabarito! O STF, possui entendimento consolidado, no sentido
+de que, o diferimento é uma substituição tributária para trás, consistindo em mera técnica de
+tributação, não se confundindo com isenção, imunidade ou não-incidência, uma vez que a
+incidência resta efetivamente configurada, todavia, o pagamento é postergado. Vejamos:
+
+                         “O diferimento é uma substituição tributária para trás, consistindo em mera
+                         técnica de tributação, não se confundindo com isenção, imunidade ou
+                         não-incidência, uma vez que a incidência resta efetivamente configurada,
+                         todavia, o pagamento é postergado. Tem por finalidade funcionar como um
+                         mecanismo de recolhimento criado para otimizar a arrecadação e, via de
+                         consequência, a fiscalização tributária. [...]" (STF, RE 781926)
+
+LETRA D. INCORRETA. Resta equivocada, porque a forma diversa de recolhimento do ICMS não
+se configura em benefício fiscal, tendo em vista que ainda há incidência, ou seja, o contribuinte
+ainda é obrigado a pagar o referido tributo.
+
+LETRA E. INCORRETA. Não se trata de benefício fiscal, mas apenas forma diversa de
+recolhimento do tributo, sendo o contribuinte obrigado a pagá-lo de forma postergada.
+
+Gabarito: Letra C.
+
+3.​    (FGV/TCE-PI/Auditor de Controle Externo/2025) A Lei estadual nº X instituiu a Taxa de
+Serviços Diversos (TSD), dispondo que o seu fato gerador decorreria do exercício do poder de
+polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis,
+prestados ao contribuinte ou postos à sua disposição pela Secretaria Estadual de
+Desenvolvimento Econômico.
+
+Logo após a edição da Lei estadual nº X e a realização dos primeiros lançamentos tributários,
+diversos contribuintes insurgiram-se contra a cobrança desse tributo, argumentando com a sua
+inconstitucionalidade.
+
+Sobre a TSD, considerando a sistemática constitucional vigente, assinale a afirmativa correta.
+
+(A) É inconstitucional, pois somente a União poderia instituir tributo dessa natureza.
+
+(B) É inconstitucional, por não definir a atuação estatal que seria o fato gerador do tributo.
+
+(C) É constitucional, considerando que a descrição do fato gerador se ajusta ao permissivo
+constitucional.
+
+(D) É inconstitucional, pois tributo dessa natureza deveria ser criado por meio de lei
+complementar estadual.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              37
+        www.estrategiaconcursos.com.br                                                            62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+(E) É constitucional, pois cabe ao regulamento detalhar o fato gerador do tributo, a partir da
+enunciação geral da lei.
+
+Comentários:
+
+LETRA A. INCORRETA. É inconstitucional por outro motivo. Nesse sentido, confira a previsão
+constitucional:
+
+                         Art. 145. A União, os Estados, o Distrito Federal e os Municípios poderão
+                         instituir os seguintes tributos:
+
+                         II - taxas, em razão do exercício do poder de polícia ou pela utilização,
+                         efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados
+                         ao contribuinte ou postos à sua disposição.
+
+LETRA B. CORRETA. É o nosso gabarito! O STF no ARE 957650 entendeu que “É
+inconstitucional o art. 1º da Lei 9.960/00, que instituiu a Taxa de Serviços Administrativos (TSA),
+por não definir de forma específica o fato gerador da exação”.
+
+LETRA C. INCORRETA. Em verdade, não se ajusta ao permissivo constitucional.
+
+LETRA D. INCORRETA. Não se exige lei complementar, as taxas podem ser criadas por lei
+ordinária.
+
+LETRA E. INCORRETA. Cabe à lei detalhar o fato gerador.
+
+Gabarito: Letra B.
+
+4.​     (FGV/TCE-PI/Auditor de Controle Externo/2025) O Estado Beta editou a Lei estadual nº Y,
+instituindo o programa estadual de crescimento econômico, que tem como um dos pilares o
+diferimento do recolhimento do imposto sobre operações relativas à circulação de mercadorias e
+sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação,
+ainda que as operações e as prestações se iniciem no exterior (ICMS).
+
+Esse diferimento seria fruído pelas sociedades empresárias que se instalassem na região do
+Estado que apresentasse menor índice de desenvolvimento humano.
+
+Diversos municípios do Estado Beta argumentaram com a inconstitucionalidade da Lei estadual
+nº Y, pois esse diploma normativo impactara negativamente as suas receitas.
+
+Sobre a hipótese narrada, à luz da sistemática constitucional, assinale a afirmativa correta.
+
+(A) A arrecadação do ICMS, pelo Estado Beta, não apresenta qualquer correlação com o
+aumento ou a redução da arrecadação dos municípios situados em seu território.
+
+(B) Não há afronta ao sistema de repartição de receitas tributárias, desde que o repasse da
+parcela pertencente aos municípios seja realizado quando do recolhimento do ICMS.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                 38
+        www.estrategiaconcursos.com.br                                                               62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+(C) Caso haja o depósito prévio, no Fundo de Participação dos Municípios, do valor a que fazem
+jus os municípios atingidos, o diferimento do recolhimento do ICMS será considerado lícito.
+
+(D) O diferimento do recolhimento do ICMS não afeta o sistema de repartição de receitas
+tributárias, desde que o repasse da parcela pertencente aos Municípios seja realizado quando da
+prática do fato gerador do imposto.
+
+(E) O diferimento do recolhimento do ICMS somente será considerado lícito se forem adotadas
+medidas de compensação por Beta, considerando outros impostos cuja arrecadação deva ser
+repartida com os municípios.
+
+Comentários:
+
+LETRA A. INCORRETA. Há correlação, tendo em vista o repasse com a repartição constitucional
+de receitas tributárias.                                 ==219a34==
+
+LETRA B. CORRETA. É o nosso gabarito! Trata-se da exata previsão do art. 155, II e 158, IV, a da
+CRFB/88, observe:
+
+                         Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos
+                         sobre: (Redação dada pela Emenda Constitucional nº 3, de 1993)
+
+                         II - operações relativas à circulação de mercadorias e sobre prestações de
+                         serviços de transporte interestadual e intermunicipal e de comunicação,
+                         ainda que as operações e as prestações se iniciem no exterior;
+
+                         Art. 158. Pertencem aos Municípios:
+
+                         IV - 25% (vinte e cinco por cento):               (Redação dada pela Emenda
+                         Constitucional nº 132, de 2023)
+
+                         a) do produto da arrecadação do imposto do Estado sobre operações
+                         relativas à circulação de mercadorias e sobre prestações de serviços de
+                         transporte interestadual e intermunicipal e de comunicação.
+
+LETRA C. INCORRETA. Na verdade, não há necessidade de depósito prévio para que o ICMS
+seja considerado lícito.
+
+LETRA D. INCORRETA. Maldade da banca examinadora! O repasse da parcela pertencente aos
+municípios deve ser realizado quando do recolhimento do ICMS.
+
+LETRA E. INCORRETA. Não se exige medidas de compensação.
+
+Gabarito: Letra B.
+
+5.​   (FGV/Prefeitura de São José dos Campos-SP/2024) Após a Emenda Constitucional nº
+39/2012, o serviço de iluminação pública passou a ser custeado
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              39
+        www.estrategiaconcursos.com.br                                                            62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+a) por taxa de serviço, de competência dos estados.
+
+b) por taxa de serviço, de competência dos municípios.
+
+c) por contribuição de iluminação pública, de competência dos estados.
+
+d) por contribuição de iluminação pública, de competência dos municípios.
+
+e) por taxa de poder de polícia, de competência dos municípios.
+
+Comentários:
+
+LETRA A. INCORRETA. De forma alguma! O serviço de iluminação pública é instituído pelo
+município, através da contribuição para o custeio, expansão e melhoria do serviço público, de
+acordo com o art. 149-A da CRFB/88.
+
+LETRA B. INCORRETA. Apesar de o serviço de iluminação ser de competência do Município, tal
+serviço deve ser custeado através de contribuição e não taxa (art.149-A da CRFB/88).
+
+LETRA C. INCORRETA. Nada a ver! O serviço de iluminação pública não é de competência dos
+Estados, mas sim dos Municípios.
+
+LETRA D. CORRETA. É o nosso gabarito! A Constituição Federal atribuiu aos Municípios e DF a
+instituição da contribuição de melhoria. Consequentemente esses serviços serão custeados
+através da denominada contribuição de iluminação pública, consoante art. 149-A da CRFB/88:
+
+                         Art. 149-A. Os Municípios e o Distrito Federal poderão instituir contribuição,
+                         na forma das respectivas leis, para o custeio, a expansão e a melhoria do
+                         serviço de iluminação pública e de sistemas de monitoramento para
+                         segurança e preservação de logradouros públicos, observado o disposto no
+                         art. 150, I e III.
+
+LETRA E. INCORRETA. Na verdade, é custeada por contribuição de iluminação pública e não por
+meio de taxa de poder de polícia, conforme art. 149-A da CRFB/88.
+
+Gabarito: Letra D.
+
+6.​    (FGV/AL-PR/Analista Legislativo - Assessor Legislativo/2024) As imunidades tributárias são
+limites ao poder de tributar impostos pela Constituição aos entes públicos. Sobre o tema e de
+acordo com o sistema constitucional vigente, assinale a afirmativa correta.
+
+a) É permitido à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou
+literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem
+como os suportes materiais ou arquivos digitais que os contenham.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                40
+        www.estrategiaconcursos.com.br                                                              62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+b) É permitido à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+o patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, uma vez que
+estes têm natureza de pessoa jurídica de direito privado.
+
+c) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+patrimônio, renda ou serviços, uns dos outros, com exceção das autarquias e das fundações
+instituídas e mantidas pelo poder público, no que se refere ao patrimônio, à renda e aos serviços
+vinculados a suas finalidades essenciais ou às delas decorrentes.
+
+d) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+patrimônio, renda ou serviços, uns dos outros, ainda que relacionados com exploração de
+atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que
+haja contraprestação ou pagamento de preços ou tarifas pelo usuário.
+
+e) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e
+beneficentes, desde que o patrimônio, a renda e os serviços, estejam relacionados com as
+finalidades essenciais das entidades mencionadas.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, a Constituição proíbe a instituição de imposto sobre
+fonogramas e videofonogramas musicais no Brasil, de acordo com o art. 150, inciso VI, alínea “e”
+da CRFB/88: “fonogramas e videofonogramas musicais produzidos no Brasil contendo obras
+musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas
+brasileiros bem como os suportes materiais ou arquivos digitais que os contenham, salvo na
+etapa de replicação industrial de mídias ópticas de leitura a laser”.
+
+LETRA B. INCORRETA. É vedada a instituição de imposto sobre o patrimônio, renda ou serviços
+dos partidos políticos, conforme art. 150, inciso VI, alínea “c” da CRFB/88: “patrimônio, renda ou
+serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos
+trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, atendidos
+os requisitos da lei”.
+
+LETRA C. INCORRETA. Na realidade é proibido a tributação entre os entes federativos, sem
+exceção, conforme art. 150, inciso VI, alínea “a” da CRFB/88: “patrimônio, renda ou serviços, uns
+dos outros”.
+
+LETRA D. INCORRETA. A vedação se aplica a qualquer tipo de atividade, não apenas na
+econômica, de acordo com o art. 150, inciso VI, alínea “a” da CRFB/88: “patrimônio, renda ou
+serviços, uns dos outros”.
+
+LETRA E. CORRETA. É o nosso gabarito! Com a reforma tributária (EC nº 132/2023), a nossa
+Carta Magna passou a conceder imunidade tributária às entidades religiosas, incluindo templos e
+suas organizações assistenciais, contanto que o patrimônio, a renda e os serviços estejam
+relacionados às suas finalidades essenciais, de acordo com o art. 150, inciso VI, alínea “b” da
+CRFB/88: “entidades religiosas e templos de qualquer culto, inclusive suas organizações
+assistenciais e beneficentes”.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            41
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Gabarito: Letra E.
+
+7.​    (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo - Reaplicação/2024) O Art. 151
+da Constituição de 1988 estabelece limites à atividade normativa da União, em respeito ao
+princípio do pacto federativo. Sobre as isenções heterônomas, tratadas no Art. 151, inciso III,
+assinale a afirmativa correta.
+
+a) Por força do disposto no Art. 151, inciso III, o STF não reconhece a prevalência do Acordo
+Geral de Tarifas e Comércio (GATT) em face das normas tributárias emanadas dos entes
+federados.
+
+b) A lei complementar que restringe a lista de serviços tributáveis pelo ISS é exemplo de ofensa
+ao comando constitucional previsto no Art. 151, inciso III.
+
+c) A União tem autorização para instituir isenções de tributos da competência de outros entes
+federados.
+
+d) A vedação prevista no Art. 151, inciso III, não se aplica às relações internacionais, cuja
+titularidade pertence à República Federativa do Brasil.
+
+e) A possibilidade de a União instituir isenções para além de suas atribuições originais encontra
+amparo na competência residual, prevista no Art. 154 da Constituição.
+
+Comentários:
+
+LETRA A. INCORRETA. O Supremo Tribunal Federal (STF) possui entendimento de que acordos
+internacionais, como o Acordo Geral de Tarifas e Comércio (GATT), podem impactar as normas
+tributárias internas. No entanto, essa questão não é o foco principal do Art. 151, inciso III da
+CRFB/88.
+
+LETRA B. INCORRETA. A lei complementar que determina quais serviços são sujeitos à tributação
+do ISS (Imposto Sobre Serviços) não infringe o art. 151, inciso III da CRFB/88, pois diz respeito à
+competência tributária dos Municípios e não a uma isenção imposta pela União.
+
+LETRA C. INCORRETA. É exatamente o contrário, tendo em vista que a Constituição veda
+expressamente à União instituir isenções de tributos da competência dos Estados, do Distrito
+Federal ou dos Municípios, de acordo com o art. 151, inciso III da CRFB/88: “instituir isenções de
+tributos da competência dos Estados, do Distrito Federal ou dos Municípios”.
+
+LETRA D. CORRETA. É o nosso gabarito! A vedação disposta no art. 151, inciso III da
+Constituição Federal não se aplica nas relações internacionais, tendo em vista que à República,
+através de tratados e convenções, concede isenções que refletem na tributação interna.
+
+LETRA E. INCORRETA. A competência residual mencionada no art. 154 não se relaciona à
+autorização para que a União conceda isenções de tributos que pertencem a outros entes
+federativos, mas sim à instituição de novos tributos que não estão contemplados na Constituição.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            42
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+Gabarito: Letra D.
+
+8.​    (FGV/CÂMARA          DOS     DEPUTADOS/Consultor        Legislativo   - Reaplicação/2024)
+Considerando os princípios tributários fundamentais estabelecidos na Constituição Federal
+brasileira, analise as afirmações a seguir e assinale a opção correta que descreve adequadamente
+a aplicação desses princípios.
+
+a) A progressividade busca adequar a carga tributária à capacidade econômica do contribuinte.
+
+b) A universalidade determina que apenas os cidadãos brasileiros devem ser tributados,
+excluindo-se os estrangeiros residentes no país, enquanto a capacidade contributiva estabelece
+que todos devem contribuir igualmente, independentemente de sua situação econômica.
+
+c) A progressividade aplica-se exclusivamente aos tributos diretos, proibindo sua aplicação em
+tributos indiretos, enquanto a generalidade proíbe a instituição de quaisquer tributos, visando a
+uma sociedade livre de impostos
+
+d) A capacidade contributiva refere-se ao princípio de que apenas as empresas devem ser
+tributadas, isentando as pessoas físicas de qualquer obrigação tributária, a fim de estimular o
+empreendedorismo e o crescimento econômico.
+
+e) A generalidade implica que o governo pode conceder isenções fiscais a determinados grupos
+de contribuintes com base em critérios sociais.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! O princípio da progressividade tem como finalidade
+garantir que àquele que tenha maior capacidade econômica possa contribuir mais, conforme art.
+145, § 1º da CRFB/88: “Sempre que possível, os impostos terão caráter pessoal e serão
+graduados segundo a capacidade econômica do contribuinte, facultado à administração
+tributária, especialmente para conferir efetividade a esses objetivos, identificar, respeitados os
+direitos individuais e nos termos da lei, o patrimônio, os rendimentos e as atividades econômicas
+do contribuinte”.
+
+LETRA B. INCORRETA. Na verdade, o princípio da universalidade não exclui os estrangeiros que
+residem no Brasil. Ademais, o referido princípio determina que o contribuinte contribua de
+acordo com suas condições econômicas.
+
+LETRA C. INCORRETA. Muito cuidado com esse raciocínio equivocado. Digo isso, pois a
+progressividade não se limita apenas aos tributos diretos. Apesar de ser mais incidente nesses
+casos, a Constituição não proíbe sua aplicação a tributos indiretos. Ademais, podemos dizer que
+a generalidade não impede a criação de tributos, mas diz respeito à extensão das normas
+tributárias.
+
+LETRA D. INCORRETA. Nada disso, pessoal! O princípio da capacidade contributiva se aplica a
+todas as pessoas, isto é, física ou jurídica.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           43
+        www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA E. INCORRETA. Outra maldade da banca examinadora! A generalidade não está
+relacionada à concessão de isenções fiscais. A atribuição de isenções é uma questão de política
+fiscal e deve respeitar outros princípios, dentre eles, igualdade e a capacidade de contribuição.
+
+Gabarito: Letra A.
+
+9.​    (FGV/TJ-AP/Analista Judiciário - Área Judiciária/2024) Maria, estudiosa do direito, realizou
+alentada análise a respeito da concepção de anterioridade na Constituição da República. Ao fim
+de suas reflexões, concluiu que: (1) a vedação à cobrança de tributos em relação aos fatos
+geradores anteriores ao início da vigência da lei não afasta a possibilidade de a contribuição de
+melhoria alcançar as obras iniciadas em momento anterior, mas no decorrer do mesmo exercício
+financeiro; (2) não há exceções à vedação de cobrança de tributos no mesmo exercício financeiro
+em que haja sido publicada a lei que os instituiu; e (3) a anterioridade nonagesimal não se aplica
+ao imposto sobre operações de crédito, câmbio e seguro, relativas a títulos ou valores
+mobiliários.
+
+Ao analisar a compatibilidade das conclusões de Maria com a Constituição da República, Joana
+depreendeu, corretamente, que:
+
+a) apenas as conclusões 1 e 2 estão certas;
+
+b) apenas as conclusões 1 e 3 estão certas;
+
+c) apenas a conclusão 2 está certa;
+
+d) apenas a conclusão 3 está certa;
+
+e) todas estão certas.
+
+Comentários:
+
+LETRA A. INCORRETA. As afirmativas 01 e 02 estão em desacordo com a Constituição, sendo
+correta apenas a afirmativa 03. Quanto ao entendimento 1, está incorreto porque, a constituição
+determina que não é possível cobrar tributos em relação a fatos geradores ocorridos antes do
+início da vigência da lei que houver instituído ou aumentado, não havendo exceção
+constitucional a esse preceito. Já o entendimento 2, está errado, porque o princípio da
+anterioridade admite exceção, como é o caso do Imposto sobre a Importação e Exportação, por
+exemplo.
+
+É possível cobrar tributos no mesmo exercício financeiro em que haja sido publicada a lei que o
+instituiu ou aumentou, conforme dispõe o art. 150, inciso III, alínea b, §1º da CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+
+                         III - cobrar tributos:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            44
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                         a) em relação a fatos geradores ocorridos antes do início da vigência da lei
+                         que os houver instituído ou aumentado;
+
+                         b) no mesmo exercício financeiro em que haja sido publicada a lei que os
+                         instituiu ou aumentou;
+
+                         § 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts.
+                         148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica
+                         aos tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à
+                         fixação da base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.
+
+LETRA B. INCORRETA. A afirmativa 01 não se coaduna com a Constituição Federal, estando
+correta apenas a afirmativa 03, porque os referidos impostos não se sujeitam ao princípio da
+anterioridade nonagesimal, uma vez que têm como objetivo intervir ou regular a situação
+econômica, isto é, exige-se imediatismo.
+
+LETRA C. INCORRETA. A afirmativa 02 feita por Maria está em desacordo com a Constituição, já
+que o princípio da anterioridade admite exceção. Assim, é possível cobrar tributos no mesmo
+exercício financeiro em que haja sido publicada a lei que o instituiu ou aumentou, conforme
+dispõe o art. 150, inciso III, alínea b, §1º da CRFB/88.
+
+LETRA D. CORRETA. É o nosso gabarito! De fato, apenas a afirmativa 03 feita por Maria está
+correta, uma vez que o imposto sobre operações de crédito, câmbio e seguro, relativas a títulos
+ou valores mobiliários, não se submete à anterioridade nonagesimal.
+
+LETRA E. INCORRETA. As afirmativas 01 e 02 feitas por Maria estão em desacordo com a
+Constituição, sendo correta apenas a afirmativa 03.
+
+Gabarito: Letra D.
+
+10.​ (FGV/ENAM/2024) Ouro Fino 100%, sociedade empresária sediada no Município Alfa,
+Estado Beta, atua na atividade de extração de ouro no mesmo município de sua sede, possuindo
+todas as autorizações necessárias para a regular operação nessa atividade. A sociedade
+empresária realizou a venda de sua produção aurífera para uma instituição integrante do Sistema
+Financeiro Nacional (SFN), na forma e nas condições autorizadas pelo Banco Central do Brasil
+(ouro destinado ao mercado financeiro).
+
+Diante desse cenário, assinale a afirmativa correta.
+
+a) A alíquota mínima de ICMS incidente sobre a operação será de 1%.
+
+b) 50% do montante da arrecadação do imposto incidente devido nessa operação será
+destinado aos cofres do Estado Beta.
+
+c) Sobre a operação de venda de ouro da sociedade empresária para a instituição integrante do
+SFN incide o Imposto sobre a Circulação de Mercadorias e Serviços - ICMS.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    45
+        www.estrategiaconcursos.com.br                                                                  62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+d) 70% do montante da arrecadação do imposto incidente devido nessa operação será
+destinado aos cofres do Município Alfa.
+
+e) O ouro decorrente da atividade de exploração minerária, quando destinado ao mercado
+financeiro (ativo financeiro), sofre tributação apenas do Imposto sobre Produtos Industrializados
+(IPI).
+
+Comentários:
+
+LETRA A. INCORRETA. A alíquota mínima não se aplica ao ICMS, mas sim ao IOF, na hipótese de
+o ouro ser classificado como ativo financeiro ou instrumento de câmbio, de acordo com o art.
+153, § 5º, inciso I e II da CRFB/88.
+
+LETRA B. INCORRETA. Totalmente equivocada, uma vez que a finalidade do valor arrecadado
+com a tributação do ouro enquanto ativo financeiro ou instrumento cambial é determinada pela
+Constituição Federal, que estabelece que 70% do total vai para o município de origem e 30%
+para o Estado de origem, conforme art. 153, § 5º, inciso I e II da CRFB/88.
+
+LETRA C. INCORRETA. A Constituição nos diz que quando o ouro é definido como ativo
+financeiro ou instrumento cambial, sujeita-se exclusivamente ao IOF (art. 153, § 5º da CRFB/88).
+
+LETRA D. CORRETA. É o nosso gabarito! Na situação proposta pela questão, o Município Alfa
+tem direito a 70% do valor arrecadado com a tributação do ouro como ativo financeiro ou
+instrumento cambial, de acordo com o art. 153, § 5º, inciso II da CRFB/88:
+
+                          Art. 153, § 5º:
+
+                         II – setenta por cento para o Município de origem."
+
+LETRA E. INCORRETA. Nada a ver! O texto Constitucional determinar que quando o ouro é
+definido como ativo financeiro ou instrumento cambial, sujeita-se exclusivamente ao IOF e não
+ao IPI conforme art. 153, § 5º da CRFB/88: “O ouro, quando definido em lei como ativo
+financeiro ou instrumento cambial, sujeita-se exclusivamente à incidência do imposto de que
+trata o inciso V do caput deste artigo, devido na operação de origem”.
+
+Gabarito: Letra D.
+
+11.​ (FGV/TJ-RR/Analista Judiciário - Direito/2024) Em relação às limitações ao poder de
+tributar e sem prejuízo de outras garantias asseguradas ao contribuinte, é incorreto afirmar que é
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+
+a) instituir impostos sobre entidades religiosas e templos de qualquer culto, inclusive suas
+organizações assistenciais e beneficentes.
+
+b) cobrar tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os
+houver instituído ou aumentado.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            46
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+c) instituir impostos sobre fonogramas e videofonogramas musicais produzidos no Brasil
+contendo obras musicais de autores brasileiros.
+
+d) instituir impostos sobre patrimônio, renda ou serviço, uns dos outros.
+
+e) cobrar tributos antes de decorridos 360 dias da data em que haja sido publicada a lei que os
+instituiu ou aumentou.
+
+Comentários:
+
+LETRA A. CORRETA. A questão pede a alternativa incorreta. De fato, a Constituição Federal veda
+que seus entes federados instituir imposto sobre entidades religiosas e templos de qualquer
+culto, conforme art. 150, inciso VI, alínea "b" da CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+
+                         (...)
+
+                         VI - instituir impostos sobre:
+
+                         b) entidades religiosas e templos de qualquer culto, inclusive suas
+                         organizações assistenciais e beneficentes.
+
+LETRA B. CORRETA. A Constituição não permite que seja cobrado tributo referente a fato
+gerador ocorrido antes do início da vigência da lei que o houver criado ou aumentado, de acordo
+com o art. 150, inciso III, alínea "a" da CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+
+                         (...)
+
+                         III - cobrar tributos:
+
+                         a) em relação a fatos geradores ocorridos antes do início da vigência da
+                         lei que os houver instituído ou aumentado
+
+LETRA C. CORRETA. O nosso texto constitucional veda a instituição de imposto sobre
+fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais de
+autores brasileiros, estando tal proibição disciplinada no art. 150, inciso VI, alínea "e" da
+CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios: [...]
+
+                         III - cobrar tributos:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            47
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                         e) fonogramas e videofonogramas musicais produzidos no Brasil contendo
+                         obras musicais ou literomusicais de autores brasileiros e/ou obras em geral
+                         interpretadas por artistas brasileiros bem como os suportes materiais ou
+                         arquivos digitais que os contenham, salvo na etapa de replicação industrial
+                         de mídias ópticas de leitura a laser.
+
+LETRA D. CORRETA. Exatamente! A Constituição não permite que os entes federados cobrem
+imposto sobre patrimônio, renda ou serviço uns dos outros, de acordo com o art. 150, inciso VI,
+alínea "a" da CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios: [...]
+
+                         III - cobrar tributos:
+
+                         a) patrimônio, renda ou serviços, uns dos outros.
+
+LETRA E. INCORRETA. É o nosso gabarito! Os entes federados devem observar o princípio da
+noventena, o qual veda que os entes federados cobrem tributos antes de decorrido o prazo de
+90 dias da data que publicou a lei que o instituiu ou aumentou, de acordo com o art. 150, alínea
+"c" da CRFB/88:
+
+                         Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+                         vedado à União, aos Estados, ao Distrito Federal e aos Municípios: [...]
+
+                         III - cobrar tributos:
+
+                         c) antes de decorridos noventa dias da data em que haja sido publicada a
+                         lei que os instituiu ou aumentou, observado o disposto na alínea b.
+
+Gabarito: Letra E.
+
+12.​ (FGV/TRF 1ª Região/Analista Judiciário – Área Judiciária/2024) Considere que a
+autoridade competente, por meio de medida provisória, promova um aumento da alíquota geral
+de um imposto federal sujeito ao princípio constitucional da anterioridade anual.
+
+O referido aumento produzirá efeitos:
+
+a) a partir da data da vigência da medida provisória;
+
+b) a partir da data da conversão da medida provisória em lei;
+
+c) após dois exercícios da vigência da medida provisória, em face do atendimento da
+anterioridade;
+
+d) no exercício financeiro seguinte, caso a medida provisória tenha sido convertida em lei até o
+último dia do exercício em que foi editada;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             48
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+e) no exercício financeiro em andamento, caso a medida provisória venha a ser convertida em lei
+neste mesmo exercício.
+
+Comentários:
+
+LETRA A. INCORRETA. De forma alguma! Não é a partir da data da vigência da medida
+provisória. A MP apenas produzirá efeitos no exercício financeiro seguinte se houver sido
+convertida em lei até o último dia daquele em que foi editada.
+
+LETRA B. INCORRETA. Não é a partir da data da conversão da MP em lei, mas sim no exercício
+financeiro seguinte se houver sido convertida em lei até o último dia daquele em que foi editada.
+
+LETRA C. INCORRETA. Após 2 anos? Não! Será no exercício financeiro seguinte se houver sido
+convertida em lei até o último dia daquele em que foi editada.
+
+LETRA D. CORRETA. A Constituição determina que a MP que verse sobre a instituição ou
+majoração de imposto só começará a produzir efeitos no exercício financeiro seguinte se houver
+sido convertida em lei até o último dia daquele em que foi editada, de acordo com o art. 62, § 2º
+da CRFB/88:
+
+                         Art. 62. (...)
+
+                         §2º Medida provisória que implique instituição ou majoração de impostos,
+                         exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no
+                         exercício financeiro seguinte se houver sido convertida em lei até o último
+                         dia daquele em que foi editada.
+
+LETRA E. INCORRETA. Não produzirá efeitos no exercício em andamento, sim no exercício
+financeiro seguinte, nos termos do art. 62, § 2º da CRFB/88.
+
+Gabarito: Letra D.
+
+13.​ (FGV/TCE-PA/Auditor de Controle Externo/2024) De acordo com a Constituição Federal
+de 1988 (CRFB/88), pertencem aos Municípios
+
+a) cinquenta por cento do produto da arrecadação do imposto da União sobre renda e proventos
+de qualquer natureza, incidente na fonte sobre rendimentos pagos, a qualquer título, por eles,
+suas autarquias e pelas fundações que instituírem e mantiverem.
+
+b) cinquenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade
+de veículos automotores licenciados em seus territórios.
+
+c) cem por cento do produto da arrecadação do imposto da União sobre a propriedade territorial
+rural, relativamente aos imóveis neles situados.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     49
+        www.estrategiaconcursos.com.br                                                                   62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+d) vinte por cento do produto da arrecadação do imposto que a União instituir no exercício da
+competência que lhe é atribuída pelo Art. 154, I, CRFB/88 (impostos não-cumulativos e que não
+tenham fato gerador ou base de cálculo próprios dos discriminados na Constituição).
+
+e) cem por cento do produto da arrecadação de empréstimos compulsórios instituídos para
+atender despesas extraordinárias, decorrentes de calamidade pública ocorridas em seus
+territórios.
+
+Comentários:
+
+LETRA A. INCORRETA. Nesse caso, não se aplica o percentual de 50%, veja:
+
+                         Art. 158. Pertencem aos Municípios:
+
+                         I - o produto da arrecadação do imposto da União sobre renda e proventos
+                         de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a
+                         qualquer título, por eles, suas autarquias e pelas fundações que instituírem e
+                         mantiverem.
+
+LETRA B. CORRETA. É o nosso gabarito! De acordo com a Constituição, os Municípios têm
+direito à 50%do produto de arrecadação do imposto dos Estados sobre IPVA, de acordo com o
+art. 158, inciso III da CRFB/88:
+
+                         Art. 158. Pertencem aos Municípios:
+
+                         III - 50% (cinquenta por cento) do produto da arrecadação do imposto do
+                         Estado sobre a propriedade de veículos automotores licenciados em seus
+                         territórios e, em relação a veículos aquáticos e aéreos, cujos proprietários
+                         sejam domiciliados em seus territórios;
+
+LETRA C. INCORRETA. Resta equivocada, já que cabe aos Municípios 50%, não 100% do
+produto da arrecadação do imposto da União sobre a propriedade territorial rural, de acordo
+com o art. 158, inciso II da CRFB/88:
+
+                         Art. 158. Pertencem aos Municípios:
+
+                         (...)
+
+                         II - cinquenta por cento do produto da arrecadação do imposto da União
+                         sobre a propriedade territorial rural, relativamente aos imóveis neles
+                         situados, cabendo a totalidade na hipótese da opção a que se refere o art.
+                         153, § 4º, III.
+
+LETRA D. INCORRETA. A Constituição não prevê a participação dos Municípios no produto da
+arrecadação dos impostos instituídos pela União no exercício da competência residual
+mencionada no artigo 154, inciso I da CRFB/88.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                50
+        www.estrategiaconcursos.com.br                                                              62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA E. INCORRETA. Não há previsão na Constituição sobre a destinação de forma exclusiva
+aos Municípios dos produtos da arrecadação de empréstimos compulsórios, ainda que seja
+instituído para suprir as despesas extraordinárias oriundas de calamidade pública.
+
+                          Art. 148. A União, mediante lei complementar, poderá instituir empréstimos
+                         compulsórios:
+
+                         I - para atender a despesas extraordinárias, decorrentes de calamidade
+                         pública, de guerra externa ou sua iminência;
+
+                         II - no caso de investimento público de caráter urgente e de relevante
+                         interesse nacional, observado o disposto no art. 150, III, "b".
+
+                         Parágrafo único. A aplicação dos recursos provenientes de empréstimo
+                         compulsório será vinculada à despesa que fundamentou sua instituição.
+
+Gabarito: Letra B.
+
+14.​ (FGV/ TJ-SC/Analista Jurídico/2024) Em razão do crescimento dos níveis de criminalidade
+no âmbito do estado Alfa, foi editada a Lei Estadual nº X, que criou uma taxa cujo fato gerador
+consistia na mobilização de um efetivo dos órgãos de segurança pública, direcionando-os a uma
+região específica, por ocasião da realização de eventos que atraíssem um elevado quantitativo
+de pessoas, conforme os padrões indicados no referido diploma normativo.
+
+À luz da sistemática constitucional, é correto afirmar que:
+
+a) como há efetiva prestação de um serviço público, o tributo é constitucional;
+
+b) somente a União pode instituir novas taxas, não o estado Alfa; logo, o tributo é
+inconstitucional;
+
+c) a atividade desenvolvida pelo estado, conforme descrita na narrativa, deve ser mantida por
+impostos; logo, o tributo é inconstitucional;
+
+d) apesar de o estado Alfa ter competência para criar a taxa, deveria tê-lo feito com a alteração
+da Constituição Estadual; logo, o tributo é inconstitucional;
+
+e) o tributo somente será constitucional caso haja a compensação com os demais valores
+despendidos, junto ao Poder Público, para a realização do evento.
+
+Comentários:
+
+LETRA A. INCORRETA. Não é constitucional, porque deve ser fixado por imposto, não taxa.
+
+LETRA B. INCORRETA. É errado dizer que somente a União pode instituir novas taxas, o Estado
+também pode.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                              51
+        www.estrategiaconcursos.com.br                                                            62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA C. CORRETA. O STF entende que a atividade de segurança pública é serviço público
+geral e indivisível, logo deve ser remunerada mediante imposto, não taxa. Confira o
+entendimento fixado na ADI 1.942:
+
+                         A jurisprudência do Supremo Tribunal Federal se consolidou no sentido de
+                         que a atividade de segurança pública é serviço público geral e indivisível,
+                         logo deve ser remunerada mediante imposto, isto é, viola o artigo 145, II,
+                         do Texto Constitucional, a exigência de taxa para sua fruição.
+
+LETRA D. INCORRETA. Não há necessidade de alterar a Constituição Estadual. No entanto,
+deveria ter sido instituído por imposto, não taxa.
+
+LETRA E. INCORRETA. Na verdade, conforme o STF, a atividade de segurança pública é serviço
+público geral e indivisível, logo deve ser remunerada mediante imposto, não taxa.
+
+Gabarito: Letra C.
+
+15.​ (FGV/ALEMA/2023) O Presidente da República firmou tratado bilateral no qual a
+República Federativa do Brasil concedia alguns benefícios tributários às sociedades empresárias
+com sede na República Alfa e que realizassem operações no território brasileiro. Entre esses
+benefícios estava a denominada, pelo tratado, “dispensa de recolhimento” do imposto de
+importação (II) e do imposto sobre a circulação de mercadorias e sobre prestação de serviços de
+transporte interestadual e intermunicipal e de comunicação (ICMS). Por entender que a referida
+“dispensa de recolhimento” era irregular, um legitimado à deflagração do controle concentrado
+de constitucionalidade solicitou que um advogado analisasse a sua compatibilidade com a
+Constituição da República.
+
+O advogado respondeu corretamente que a “dispensa de recolhimento” é
+
+a) inconstitucional apenas em relação ao ICMS, pois caracteriza uma isenção heterônoma, o que
+é vedado.
+
+b) inconstitucional em relação ao II e ao ICMS, considerando a exigência, em ambos os casos, de
+lei em sentido formal para que o referido efeito seja produzido.
+
+c) constitucional, desde que o tratado bilateral seja aprovado, em cada Casa do Congresso
+Nacional, em dois turnos, por três quintos dos votos dos respectivos membros.
+
+d) constitucional, considerando que no federalismo cooperativo é possível a desoneração da
+atividade econômica pelos entes maiores em relação às exações dos entes menores.
+
+e) constitucional, considerando que resultou da atuação da União como sujeito de direito no
+plano internacional, não se aplicando a restrição à concessão de isenções heterônomas.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             52
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+LETRA A. INCORRETA. Como já explicado, quando se trata de ratificação de tratado
+internacional, não há limitação da isenção heterônoma, ou seja, não se aplica o art. 151, III da
+CRFB/88.
+
+LETRA B. INCORRETA. Após a conclusão de um processo de ratificação de um tratado
+internacional, o Presidente da República expede decreto executivo que tem como finalidade a
+produção de efeitos no âmbito interno. Não há necessidade de criação de uma lei em sentido
+formal para produção desses efeitos.
+
+LETRA C. INCORRETA. Muito cuidado! Não há necessidade de aprovação pelo quórum
+mencionado. Mas, se for o caso de tratado internacional sobre Direitos Humanos aprovado no
+referido quórum, terá status de Emenda Constitucional.
+
+LETRA D. INCORRETA. A regra geral disposta lá no art. 151 da CRFB/88 veda a concessão de
+isenções heterônomas.
+
+LETRA E CORRETA. É o nosso gabarito! Como já explicado, a isenção resultante de tratado
+internacional não sofre limitação do art. 151, III da CRFB/88. Dessa maneira, é Constitucional o
+benefício instituído pelo tratado internacional assinado e ratificado pelo Presidente da República.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            53
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+                                          LISTA DE QUESTÕES
+1.​    (FGV/MPU/Analista do MPU-Direito/2025) A organização não governamental Alfa,
+entidade beneficente de assistência social, oferece assistência médico-hospitalar a pessoas
+carentes. Ao adquirir medicamentos, a serem utilizados no exercício de sua atividade regular,
+houve a incidência do imposto sobre operações relativas à circulação de mercadorias e sobre
+prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que
+as operações e as prestações se iniciem no exterior (ICMS). Ao requerer a restituição do valor do
+referido imposto à Secretaria de Estado competente, teve o seu pedido indeferido, o que a
+levou a impetrar mandado de segurança por entender que a decisão administrativa era
+manifestamente contrária à ordem constitucional.
+O órgão jurisdicional competente, ao julgar o mandado de segurança, observou, corretamente,
+que Alfa:
+A) não tem direito à restituição, considerando que a imunidade tributária subjetiva não incide na
+hipótese;
+B) tem direito à restituição, pois o ICMS incidiu sobre insumos a serem utilizados em suas
+atividades finalísticas;
+C) tem direito à restituição, pois arcará com o impacto financeiro do ICMS, modalidade de
+imposto indireto;
+
+D) não tem direito à restituição, pois a ordem constitucional não lhe assegura o direito à
+imunidade tributária nos bens e serviços que adquira para consumo ou que comercialize;
+E) tem direito à restituição, pois, em razão de suas atividades, há uma correspondência biunívoca
+entre a imunidade e as figuras do contribuinte de direito e do contribuinte de fato.
+
+
+2.​    (FGV/CAGE-RS/Auditor do Estado/2025) O estado Alfa editou a Lei nº X, que dispôs
+sobre o diferimento do recolhimento do Imposto sobre Circulação de Mercadorias e Serviços
+indicados na ordem constitucional (ICMS), incidente sobre as operações de venda da produção
+das indústrias que venham a ser instaladas no norte de Alfa, como forma de estimular o
+desenvolvimento dessa região. A medida foi muito elogiada pelo setor econômico beneficiado,
+mas criticada pelos demais setores. À luz da sistemática constitucional, é correto afirmar que a
+Lei nº X
+(A) por conceder benefício fiscal, deveria ser antecedida de autorização prevista em lei
+complementar federal.
+(B) afronta a isonomia tributária, de modo que igual benefício deve ser assegurado aos setores
+econômicos preteridos.
+(C)   se ajusta à sistemática constitucional, pois o referido tratamento diferenciado não
+consubstancia benefício fiscal.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           54
+        www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+(D) se ajusta à sistemática constitucional, pois o ICMS é tributo de competência de Alfa, que
+pode conceder benefícios fiscais com base na sua autonomia política.
+(E) por conceder benefício fiscal, deveria ser antecedida de autorização concedida por meio de
+convênio celebrado com os demais Estados e o Distrito Federal.
+
+
+3.​    (FGV/TCE-PI/Auditor de Controle Externo/2025) A Lei estadual nº X instituiu a Taxa de
+Serviços Diversos (TSD), dispondo que o seu fato gerador decorreria do exercício do poder de
+polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis,
+prestados ao contribuinte ou postos à sua disposição pela Secretaria Estadual de
+Desenvolvimento Econômico.
+Logo após a edição da Lei estadual nº X e a realização dos primeiros lançamentos tributários,
+diversos contribuintes insurgiram-se contra a cobrança desse tributo, argumentando com a sua
+inconstitucionalidade.                                   ==219a34==
+
+Sobre a TSD, considerando a sistemática constitucional vigente, assinale a afirmativa correta.
+(A) É inconstitucional, pois somente a União poderia instituir tributo dessa natureza.
+(B) É inconstitucional, por não definir a atuação estatal que seria o fato gerador do tributo.
+(C) É constitucional, considerando que a descrição do fato gerador se ajusta ao permissivo
+constitucional.
+(D) É inconstitucional, pois tributo dessa natureza deveria ser criado por meio de lei
+complementar estadual.
+(E) É constitucional, pois cabe ao regulamento detalhar o fato gerador do tributo, a partir da
+enunciação geral da lei.
+
+
+4.​     (FGV/TCE-PI/Auditor de Controle Externo/2025) O Estado Beta editou a Lei estadual nº Y,
+instituindo o programa estadual de crescimento econômico, que tem como um dos pilares o
+diferimento do recolhimento do imposto sobre operações relativas à circulação de mercadorias e
+sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação,
+ainda que as operações e as prestações se iniciem no exterior (ICMS).
+Esse diferimento seria fruído pelas sociedades empresárias que se instalassem na região do
+Estado que apresentasse menor índice de desenvolvimento humano.
+Diversos municípios do Estado Beta argumentaram com a inconstitucionalidade da Lei estadual
+nº Y, pois esse diploma normativo impactara negativamente as suas receitas.
+Sobre a hipótese narrada, à luz da sistemática constitucional, assinale a afirmativa correta.
+(A) A arrecadação do ICMS, pelo Estado Beta, não apresenta qualquer correlação com o
+aumento ou a redução da arrecadação dos municípios situados em seu território.
+(B) Não há afronta ao sistema de repartição de receitas tributárias, desde que o repasse da
+parcela pertencente aos municípios seja realizado quando do recolhimento do ICMS.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             55
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+(C) Caso haja o depósito prévio, no Fundo de Participação dos Municípios, do valor a que fazem
+jus os municípios atingidos, o diferimento do recolhimento do ICMS será considerado lícito.
+(D) O diferimento do recolhimento do ICMS não afeta o sistema de repartição de receitas
+tributárias, desde que o repasse da parcela pertencente aos Municípios seja realizado quando da
+prática do fato gerador do imposto.
+(E) O diferimento do recolhimento do ICMS somente será considerado lícito se forem adotadas
+medidas de compensação por Beta, considerando outros impostos cuja arrecadação deva ser
+repartida com os municípios.
+
+
+5.​   (FGV/Prefeitura de São José dos Campos-SP/2024) Após a Emenda Constitucional nº
+39/2012, o serviço de iluminação pública passou a ser custeado
+a) por taxa de serviço, de competência dos estados.
+b) por taxa de serviço, de competência dos municípios.
+c) por contribuição de iluminação pública, de competência dos estados.
+d) por contribuição de iluminação pública, de competência dos municípios.
+e) por taxa de poder de polícia, de competência dos municípios.
+
+
+6.​    (FGV/AL-PR/Analista Legislativo - Assessor Legislativo/2024) As imunidades tributárias são
+limites ao poder de tributar impostos pela Constituição aos entes públicos. Sobre o tema e de
+acordo com o sistema constitucional vigente, assinale a afirmativa correta.
+a) É permitido à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou
+literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros bem
+como os suportes materiais ou arquivos digitais que os contenham.
+b) É permitido à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+o patrimônio, renda ou serviços dos partidos políticos, inclusive suas fundações, uma vez que
+estes têm natureza de pessoa jurídica de direito privado.
+c) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+patrimônio, renda ou serviços, uns dos outros, com exceção das autarquias e das fundações
+instituídas e mantidas pelo poder público, no que se refere ao patrimônio, à renda e aos serviços
+vinculados a suas finalidades essenciais ou às delas decorrentes.
+d) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+patrimônio, renda ou serviços, uns dos outros, ainda que relacionados com exploração de
+atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que
+haja contraprestação ou pagamento de preços ou tarifas pelo usuário.
+e) É vedado à União, aos Estados, ao Distrito Federal e aos Municípios instituir impostos sobre
+entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e
+beneficentes, desde que o patrimônio, a renda e os serviços, estejam relacionados com as
+finalidades essenciais das entidades mencionadas.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                             56
+        www.estrategiaconcursos.com.br                                                           62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+7.​    (FGV/CÂMARA DOS DEPUTADOS/Consultor Legislativo - Reaplicação/2024) O Art. 151
+da Constituição de 1988 estabelece limites à atividade normativa da União, em respeito ao
+princípio do pacto federativo. Sobre as isenções heterônomas, tratadas no Art. 151, inciso III,
+assinale a afirmativa correta.
+a) Por força do disposto no Art. 151, inciso III, o STF não reconhece a prevalência do Acordo
+Geral de Tarifas e Comércio (GATT) em face das normas tributárias emanadas dos entes
+federados.
+b) A lei complementar que restringe a lista de serviços tributáveis pelo ISS é exemplo de ofensa
+ao comando constitucional previsto no Art. 151, inciso III.
+c) A União tem autorização para instituir isenções de tributos da competência de outros entes
+federados.
+d) A vedação prevista no Art. 151, inciso III, não se aplica às relações internacionais, cuja
+titularidade pertence à República Federativa do Brasil.
+e) A possibilidade de a União instituir isenções para além de suas atribuições originais encontra
+amparo na competência residual, prevista no Art. 154 da Constituição.
+
+
+8.​    (FGV/CÂMARA          DOS     DEPUTADOS/Consultor        Legislativo   - Reaplicação/2024)
+Considerando os princípios tributários fundamentais estabelecidos na Constituição Federal
+brasileira, analise as afirmações a seguir e assinale a opção correta que descreve adequadamente
+a aplicação desses princípios.
+a) A progressividade busca adequar a carga tributária à capacidade econômica do contribuinte.
+b) A universalidade determina que apenas os cidadãos brasileiros devem ser tributados,
+excluindo-se os estrangeiros residentes no país, enquanto a capacidade contributiva estabelece
+que todos devem contribuir igualmente, independentemente de sua situação econômica.
+c) A progressividade aplica-se exclusivamente aos tributos diretos, proibindo sua aplicação em
+tributos indiretos, enquanto a generalidade proíbe a instituição de quaisquer tributos, visando a
+uma sociedade livre de impostos
+d) A capacidade contributiva refere-se ao princípio de que apenas as empresas devem ser
+tributadas, isentando as pessoas físicas de qualquer obrigação tributária, a fim de estimular o
+empreendedorismo e o crescimento econômico.
+e) A generalidade implica que o governo pode conceder isenções fiscais a determinados grupos
+de contribuintes com base em critérios sociais.
+
+
+9.​    (FGV/TJ-AP/Analista Judiciário - Área Judiciária/2024) Maria, estudiosa do direito, realizou
+alentada análise a respeito da concepção de anterioridade na Constituição da República. Ao fim
+de suas reflexões, concluiu que: (1) a vedação à cobrança de tributos em relação aos fatos
+geradores anteriores ao início da vigência da lei não afasta a possibilidade de a contribuição de
+melhoria alcançar as obras iniciadas em momento anterior, mas no decorrer do mesmo exercício
+financeiro; (2) não há exceções à vedação de cobrança de tributos no mesmo exercício financeiro
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            57
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+em que haja sido publicada a lei que os instituiu; e (3) a anterioridade nonagesimal não se aplica
+ao imposto sobre operações de crédito, câmbio e seguro, relativas a títulos ou valores
+mobiliários.
+Ao analisar a compatibilidade das conclusões de Maria com a Constituição da República, Joana
+depreendeu, corretamente, que:
+a) apenas as conclusões 1 e 2 estão certas;
+b) apenas as conclusões 1 e 3 estão certas;
+c) apenas a conclusão 2 está certa;
+d) apenas a conclusão 3 está certa;
+e) todas estão certas.
+
+
+10.​ (FGV/ENAM/2024) Ouro Fino 100%, sociedade empresária sediada no Município Alfa,
+Estado Beta, atua na atividade de extração de ouro no mesmo município de sua sede, possuindo
+todas as autorizações necessárias para a regular operação nessa atividade. A sociedade
+empresária realizou a venda de sua produção aurífera para uma instituição integrante do Sistema
+Financeiro Nacional (SFN), na forma e nas condições autorizadas pelo Banco Central do Brasil
+(ouro destinado ao mercado financeiro).
+Diante desse cenário, assinale a afirmativa correta.
+a) A alíquota mínima de ICMS incidente sobre a operação será de 1%.
+b) 50% do montante da arrecadação do imposto incidente devido nessa operação será
+destinado aos cofres do Estado Beta.
+c) Sobre a operação de venda de ouro da sociedade empresária para a instituição integrante do
+SFN incide o Imposto sobre a Circulação de Mercadorias e Serviços - ICMS.
+d) 70% do montante da arrecadação do imposto incidente devido nessa operação será
+destinado aos cofres do Município Alfa.
+e) O ouro decorrente da atividade de exploração minerária, quando destinado ao mercado
+financeiro (ativo financeiro), sofre tributação apenas do Imposto sobre Produtos Industrializados
+(IPI).
+
+
+11.​ (FGV/TJ-RR/Analista Judiciário - Direito/2024) Em relação às limitações ao poder de
+tributar e sem prejuízo de outras garantias asseguradas ao contribuinte, é incorreto afirmar que é
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+a) instituir impostos sobre entidades religiosas e templos de qualquer culto, inclusive suas
+organizações assistenciais e beneficentes.
+b) cobrar tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os
+houver instituído ou aumentado.
+c) instituir impostos sobre fonogramas e videofonogramas musicais produzidos no Brasil
+contendo obras musicais de autores brasileiros.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            58
+        www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+d) instituir impostos sobre patrimônio, renda ou serviço, uns dos outros.
+e) cobrar tributos antes de decorridos 360 dias da data em que haja sido publicada a lei que os
+instituiu ou aumentou.
+
+
+12.​ (FGV/TRF 1ª Região/Analista Judiciário – Área Judiciária/2024) Considere que a
+autoridade competente, por meio de medida provisória, promova um aumento da alíquota geral
+de um imposto federal sujeito ao princípio constitucional da anterioridade anual.
+O referido aumento produzirá efeitos:
+a) a partir da data da vigência da medida provisória;
+b) a partir da data da conversão da medida provisória em lei;
+c) após dois exercícios da vigência da medida provisória, em face do atendimento da
+anterioridade;
+d) no exercício financeiro seguinte, caso a medida provisória tenha sido convertida em lei até o
+último dia do exercício em que foi editada;
+e) no exercício financeiro em andamento, caso a medida provisória venha a ser convertida em lei
+neste mesmo exercício.
+
+
+13.​ (FGV/TCE-PA/Auditor de Controle Externo/2024) De acordo com a Constituição Federal
+de 1988 (CRFB/88), pertencem aos Municípios
+a) cinquenta por cento do produto da arrecadação do imposto da União sobre renda e proventos
+de qualquer natureza, incidente na fonte sobre rendimentos pagos, a qualquer título, por eles,
+suas autarquias e pelas fundações que instituírem e mantiverem.
+b) cinquenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade
+de veículos automotores licenciados em seus territórios.
+c) cem por cento do produto da arrecadação do imposto da União sobre a propriedade territorial
+rural, relativamente aos imóveis neles situados.
+d) vinte por cento do produto da arrecadação do imposto que a União instituir no exercício da
+competência que lhe é atribuída pelo Art. 154, I, CRFB/88 (impostos não-cumulativos e que não
+tenham fato gerador ou base de cálculo próprios dos discriminados na Constituição).
+e) cem por cento do produto da arrecadação de empréstimos compulsórios instituídos para
+atender despesas extraordinárias, decorrentes de calamidade pública ocorridas em seus
+territórios.
+
+
+14.​ (FGV/ TJ-SC/Analista Jurídico/2024) Em razão do crescimento dos níveis de criminalidade
+no âmbito do estado Alfa, foi editada a Lei Estadual nº X, que criou uma taxa cujo fato gerador
+consistia na mobilização de um efetivo dos órgãos de segurança pública, direcionando-os a uma
+região específica, por ocasião da realização de eventos que atraíssem um elevado quantitativo
+de pessoas, conforme os padrões indicados no referido diploma normativo.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                         59
+        www.estrategiaconcursos.com.br                                                       62
+
+                                      
+
+
+---
+
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 16
+
+À luz da sistemática constitucional, é correto afirmar que:
+a) como há efetiva prestação de um serviço público, o tributo é constitucional;
+b) somente a União pode instituir novas taxas, não o estado Alfa; logo, o tributo é
+inconstitucional;
+c) a atividade desenvolvida pelo estado, conforme descrita na narrativa, deve ser mantida por
+impostos; logo, o tributo é inconstitucional;
+d) apesar de o estado Alfa ter competência para criar a taxa, deveria tê-lo feito com a alteração
+da Constituição Estadual; logo, o tributo é inconstitucional;
+e) o tributo somente será constitucional caso haja a compensação com os demais valores
+despendidos, junto ao Poder Público, para a realização do evento.
+
+
+15.​ (FGV/ALEMA/2023) O Presidente da República firmou tratado bilateral no qual a
+República Federativa do Brasil concedia alguns benefícios tributários às sociedades empresárias
+com sede na República Alfa e que realizassem operações no território brasileiro. Entre esses
+benefícios estava a denominada, pelo tratado, “dispensa de recolhimento” do imposto de
+importação (II) e do imposto sobre a circulação de mercadorias e sobre prestação de serviços de
+transporte interestadual e intermunicipal e de comunicação (ICMS). Por entender que a referida
+“dispensa de recolhimento” era irregular, um legitimado à deflagração do controle concentrado
+de constitucionalidade solicitou que um advogado analisasse a sua compatibilidade com a
+Constituição da República.
+O advogado respondeu corretamente que a “dispensa de recolhimento” é
+a) inconstitucional apenas em relação ao ICMS, pois caracteriza uma isenção heterônoma, o que
+é vedado.
+b) inconstitucional em relação ao II e ao ICMS, considerando a exigência, em ambos os casos, de
+lei em sentido formal para que o referido efeito seja produzido.
+c) constitucional, desde que o tratado bilateral seja aprovado, em cada Casa do Congresso
+Nacional, em dois turnos, por três quintos dos votos dos respectivos membros.
+d) constitucional, considerando que no federalismo cooperativo é possível a desoneração da
+atividade econômica pelos entes maiores em relação às exações dos entes menores.
+e) constitucional, considerando que resultou da atuação da União como sujeito de direito no
+plano internacional, não se aplicando a restrição à concessão de isenções heterônomas.
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          60
+        www.estrategiaconcursos.com.br                                                        62
+
+                                      
+
+
+---
+
+Equipe Direito Constitucional Estratégia Concursos
+Aula 16
+
+                                                 GABARITO
+ 1.​ LETRA A
+ 2.​ LETRA C
+ 3.​ LETRA B
+ 4.​ LETRA B
+ 5.​ LETRA D
+ 6.​ LETRA E
+ 7.​ LETRA D
+ 8.​ LETRA A
+ 9.​ LETRA D
+ 10.​LETRA D
+ 11.​LETRA E
+ 12.​LETRA D
+ 13.​LETRA B
+ 14.​LETRA C
+ 15.​LETRA E
+
+      Receita Federal (Analista Tributário) Direito Constitucional       61
+      www.estrategiaconcursos.com.br                                     62
+
+                                    
+
+
+---
+
+---

@@ -1,0 +1,3137 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 04_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Administração de Compras e Materiais
+---
+
+# Administração de Compras e Materiais
+
+Aula 03
+                          Receita Federal (Analista Tributário)
+                     Administração de Compras e Materiais
+
+                                                        Autor:
+                                        Ricardo Campanario
+
+                                          15 de Outubro de 2024
+
+---
+
+      Ricardo Campanario
+      Aula 03
+
+                                                                                     Índice
+1) Conceitos de Estoques - AULA SIMPLIFICADA
+
+                Receita Federal (Analista Tributário) Administração de Compras e Materiais                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                           67
+
+                                                             
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+                                     CONCEITOS DE ESTOQUES
+
+Conceitos e Importância dos Estoques
+      Estoques podem ser considerados o tema mais importante dentro de Administração de
+Materiais e, em função disso, é também o mais cobrado pelas bancas.
+       Para começar é bom entendermos o que é Estoque e como ele é definido pela literatura,
+visto que a cobrança de definições é comum neste tema.
+       O alcance do termo Estoque é bastante amplo. Considerado uma das funções do sistema
+de administração de materiais, o gerenciamento de Estoques reflete de forma quantitativa o
+resultado obtido pela empresa ao longo de seu exercício financeiro.
+       Dessa forma já é possível concluir que a organização tenderá sempre a manter em níveis
+economicamente satisfatórios o atendimento de suas demandas de materiais. Isso se dá por
+meio do planejamento e da gestão de seus Estoques configurando, sem dúvida, um dos maiores
+objetivos de qualquer instituição.
+      Quando a empresa possui amplo conhecimento a respeito da constituição e do
+comportamento dos seus estoques, ela poderá gerenciar tanto o processo de demanda como de
+abastecimento por meio de eficientes modelos.
+      E é justamente nesse cenário, de amplo conhecimento e modelagem da informação
+disponível, que a empresa poderá tomar as melhores decisões em relação aos níveis de estoque
+desejados, os momentos e volumes ideais de aquisição e demais decisões relativas a
+armazenamento e transporte, tudo visando atingir suas metas de receita e lucratividade.
+       Nesse contexto, em qualquer organização os estoques representarão um componente da
+maior importância seja sob o olhar econômico-financeiro ou sob o olhar operacional.
+      Marketing, Vendas e, sobretudo, a área Operacional (fábrica) vão querer sempre estoques
+mais altos para honrar suas metas internas ou com clientes. Porém, estoque além da conta gera
+desperdício, custo adicional e impacta negativamente a rentabilidade.
+      Por outro lado a área Financeira sempre vai recomendar estoques mais baixos. Porém,
+estoque menor do que o necessário pode acabar e parar a produção ou a prestação do serviço,
+gerando impacto imediato na receita (vendas) e, de novo, na lucratividade.
+       Veja que o gestor do processo deverá buscar sempre o ponto ótimo entre esses dois
+extremos e daí surge o conceito do "efeito lubrificante" dos Estoques, ou seja, não permitir que
+os diferentes interesses entrem em atrito.
+      No setor industrial o impacto é ainda mais dramático, visto que os materiais adquiridos
+costumam representar cerca de 50% do custo do produto vendido, sendo seu componente de
+custo mais importante. Nos serviços, da mesma forma, o impacto também é importante. Embora
+o impacto econômico possa ser menor em relação ao custo do serviço prestado, sem o material
+de manutenção, reparo ou operação, a atividade prestada para! Imagine o prejuízo!
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            3
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      Indo agora um pouco mais para as definições de Estoque, do ponto de vista tradicional
+podemos considerá-lo como representativo de matérias-primas, produtos em fabricação (podem
+ser os materiais semiacabados ou acabados / componentes), produtos acabados, materiais
+administrativos ou demais suprimentos.
+       Para Viana (um dos autores mais lembrados por todas as bancas), Estoque pode ser
+definido como:
+
+     Materiais, mercadorias ou produtos acumulados para utilização posterior, de modo a
+     permitir o atendimento regular das necessidades dos usuários para a continuidade das
+     atividades da empresa, sendo o estoque gerado, consequentemente, pela
+     impossibilidade de prever-se a demanda com exatidão.
+
+      Note na definição que o estoque só existe pois não há a possibilidade de prever com
+exatidão a demanda (consumo do material ao longo de toda a cadeia). Não só é difícil prever a
+demanda como a reposição também pode apresentar problemas, seja com o fornecedor ou
+qualquer outro obstáculo, aumentando ainda mais a necessidade da existência de estoques para
+permitir a manutenção da operação da organização.
+
+Objetivos dos Estoques
+
+       Os estoques têm um papel chamado de "função lubrificante". Para quem ainda não ouviu
+falar desse termo, é importante conhecer, pois é comumente cobrado em provas.
+
+
+Funções do Estoque
+      O chamado efeito lubrificante dos estoques é responsável por minimizar os conflitos entre
+as áreas de vendas e de planejamento e programação da produção. A existência do estoque
+permite que a empresa continue operando em situações nas quais, por exemplo, a área de
+vendas comercializou mais do que o esperado ou, por qualquer razão, o planejamento da
+produção não deu conta do volume necessário de material para que a produção continuasse a
+todo vapor.
+      Nesses casos o estoque supre essas lacunas no processo produtivo e permite que a
+organização mantenha em funcionamento o seu processo produtivo.
+      Lembre-se ainda que a organização deve minimizar os seus investimentos em estoques
+pois ele possui diversos custos atrelados a sua aquisição e manutenção, que aumentam de
+acordo com o seu volume e custo financeiro.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           4
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+        Assim, quanto maior o estoque, maior será o comprometimento e a responsabilidade de
+cada um dos departamentos envolvidos. Nesse contexto, a área financeira estará sempre
+buscando minimizar os investimentos em estoques, tendo esta ação como uma de suas metas
+prioritárias, muitas vezes se opondo aos objetivos de outros departamentos como vendas,
+marketing e produção, que sempre optarão por estoques mais altos com o intuito de garantir -
+com a máxima segurança possível - a continuidade do processo produtivo.
+       Uma das maiores funções do processo de gestão de estoques portanto, será otimizar esse
+investimento, maximizando o uso dos recursos financeiros e reduzindo as necessidades do capital
+investido.
+       O encontro desse "meio termo" entre todas as opções colocadas cabe justamente ao
+gestor de estoques, ou seja, ao departamento de materiais, que deve ouvir os diferentes
+argumentos de cada um dos interessados e tomar a melhor decisão com o intuito de atender a
+todas as demandas explicitadas pelos atores do processo e levando em conta os objetivo
+estratégicos da organização..
+
+
+Políticas de Estoque
+      Dentro do cenário que vimos acima, caberá ao gestor de estoques definir qual a política
+adotada. Vimos que, para isso, ele deverá levar em conta os desejos de compras, vendas e
+produção (geralmente de estoques mais altos) e os da área financeira (geralmente estoques mais
+baixos).
+       Além disso será necessário observar todo um contexto mercadológico e mesmo de
+planejamento interno como variação de preços de materiais devido à inflação (o que pode
+incentivar a compra de maiores volumes de forma antecipada), riscos de escassez do material no
+mercado, previsíveis variações de demanda, políticas pré estabelecidas pela empresa em relação
+ao giro de estoques de matéria prima e materiais acabados, metas de entrega de produtos aos
+clientes, entre outras.
+      A definição de todas essas políticas internas e o mapeamento dessas variações de
+mercado é fundamental para a determinação da política final de estoques e tudo isso será
+representado por um grande indicador que é o Nível de Serviço buscado pela organização.
+
+        O Nível de Serviço apontará qual o % de pedidos será satisfatoriamente atendido
+        dentro do total de pedidos recebidos, seja por clientes internos ou externos.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           5
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Previsão de Estoques
+
+       Toda a previsão de estoques é dirigida pela previsão do consumo do material. Essa
+previsão de consumo ou da demanda estabelece estimativas futuras dos produtos acabados,
+comercializados ou vendidos.
+     Assim, define quais produtos, em quais quantidades e em que momento serão
+demandados pelos clientes. Vamos entender inicialmente as principais classificações de
+consumo.
+
+Tipos de Consumo
+      O consumo é a quantidade de material requerido para o atendimento das necessidades
+de produção e de comercialização, relacionada a determinada unidade de tempo. Dessa forma,
+conforme o ritmo em que se processa a utilização, pode-se classificar o consumo das seguintes
+formas:
+
+
+CONSUMO REGULAR
+        Um dos modelos de consumo regular é também conhecido por modelo de evolução
+horizontal do consumo. Sua principal característica é a utilização constante de materiais em
+quantidades significativas e com pequena variação ente sucessivos intervalos de tempo
+constantes. Possui tendência constante (não varia de forma uniforme nem para cima e nem para
+baixo).
+     Na figura abaixo você pode observar a variação constante (consumo efetivo) em torno de
+uma média estável (consumo médio).
+
+       Outro modelo, ainda dentro do consumo regular é o modelo sujeito às tendências.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         6
+        www.estrategiaconcursos.com.br                                                    67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      Neste modelo a curva aumenta ou diminui com o decorrer do tempo. Na figura abaixo,
+por exemplo, a tendência é ascendente.
+        Quando o consumo é crescente, geralmente deve-se ao crescimento vegetativo da
+utilização dos materiais, de forma ordenada.
+        Já quando apresenta comportamento decrescente caracteriza-se pelo decréscimo da
+utilização e sua representação é exatamente a inversa da figura a seguir.
+     Na figura abaixo vemos a variação (consumo efetivo) em torno do consumo médio, que
+também mostra tendência ascendente.
+
+CONSUMO IRREGULAR
+
+       O consumo irregular tem por característica a utilização de materiais em quantidades
+aleatórias, por meio de grande variação entre sucessivos intervalos de tempo.
+       Observe na figura abaixo o comportamento de consumo de dois materiais (consumo
+efetivo), ambos de caráter irregular ao longo do mesmo período observado não permitindo
+sequer a observação de um consumo médio regular ou tendencial.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais      7
+        www.estrategiaconcursos.com.br                                                  67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+CONSUMO SAZONAL
+
+       Temos ainda o consumo sazonal. Neste padrão, que é repetitivo, o consumo apresenta
+intervalos de considerável elevação em alguns períodos do ano (exemplos: consumo/vendas de
+sorvetes e aparelho de ar condicionado no verão ou de cobertores e antigripais no inverno).
+      Esse tipo de consumo possui oscilações regulares, que tanto podem ser positivas quanto
+negativas. É considerado sazonal quando o desvio é de no mínimo 25% do consumo médio e
+quando aparece condicionado a determinadas causas.
+       Veja um exemplo de comportamento sazonal na figura abaixo, quando o consumo efetivo
+atinge ou ultrapassa os 25% em relação ao consumo médio, para cima e para baixo, em
+diferentes períodos do intervalo observado.
+
+         Tudo isso é bastante teórico, mas é importante conhecer, pois é cobrado dessa forma na
+prova.
+       Na prática, por outro lado, podem ocorrer diversas combinações dos modelos estudados.
+Observe por exemplo na figura abaixo a evolução de vendas de um produto ao longo de um
+intervalo de tempo.
+      Note que ele apresenta uma evolução de tendência claramente crescente no início, depois
+passa por uma evolução de consumo regular e, ao final, possui uma evolução tendencialmente
+descendente.
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais          8
+         www.estrategiaconcursos.com.br                                                      67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Previsão da Demanda
+        O primeiro passo para um bom trabalho na gestão de estoques é conseguir estimar a
+demanda com o maior nível possível de precisão. É com base nessa estimativa que as compras
+(inclusive para a composição dos estoques) serão planejadas e efetuadas.
+      As informações básicas que permitem decidir quais serão as dimensões e a distribuição no
+tempo da demanda dos produtos acabados podem ser classificadas em duas categorias:
+quantitativas e qualitativas.
+       As informações quantitativas são compostas pela evolução passada das vendas, variáveis
+ligadas diretamente ao próprio resultado de vendas como o lançamento de produtos, variáveis
+sociais ou econômicas como crescimento da população ou do PIB e ações de marketing e
+comunicação.
+     Já em relação as informações qualitativas temos basicamente as opiniões de especialistas
+como gerentes e vendedores de um lado, os compradores de outro, especialistas de mercado ou
+mesmo pesquisa de mercado entre consumidores ou potenciais consumidores do produto.
+       Todas essas informações permitem basicamente o desenvolvimento de três métodos de
+previsão de consumo que se utilizam de fontes quantitativas e qualitativas em suas composições
+em diferentes medidas.
+      Em geral as previsões de consumo de materiais podem ser feitas de três modos: a
+projeção, a explicação e a predileção. Vamos ver cada uma delas:
+            ● Projeção: a quantidade consumida no passado ou as tendências passadas
+              permanecerão as mesmas, ou seja, se o volume consumido cresceu 10% nos últimos
+              12 meses, projeta-se que para os próximos 12 meses crescerá novamente 10%.
+              Nesse caso a técnica é essencialmente quantitativa.
+            ● Explicação: acrescentam-se fatores diversos ao consumo real. Exemplos: variações
+              do PIB, do salário mínimo, taxas de crescimento ou desemprego etc. Usa técnicas
+              quantitativas no cálculo da demanda, inclusive recursos como regressão e
+              correlação.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          9
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+            ● Predileção: emprego de técnicas qualitativas como a opinião de funcionários,
+              especialistas, analistas ou consultores. Com base nessas percepções de mercados e
+              de tendências faz-se o cálculo da demanda.
+Técnicas Quantitativas de previsão da demanda
+     Vamos conhecer algumas técnicas quantitativas usuais para o cálculo das previsões de
+consumo.
+
+
+MÉTODO DO ÚLTIMO PERÍODO
+
+       Modelo mais simples, consiste em utilizar como previsão para o período seguinte o valor
+ocorrido no período anterior. Dessa forma os valores anteriores e os valores previstos serão
+rigorosamente os mesmos, repetidos em diferentes períodos de tempo.
+
+MÉTODO DA MÉDIA MÓVEL
+
+      Extensão do método anterior em que a previsão do período é obtida calculando-se a
+média dos valores consumidos nos "n" períodos anteriores.
+      Quando o consumo tem tendência crescente, o modelo tende a estimar valores inferiores
+ao real e, ao contrário, quando a tendência é decrescente, é comum o modelo estimar valores
+maiores do que os que de fato irão ocorrer.
+
+     Exemplo: qual o consumo para 2023 considerando-se a média móvel dos últimos 3
+     anos?
+     2019 - 20 / 2020 - 30 / 2021 - 40 / 2022 - 50
+     2023 = (30+40+50) / 3 = 40
+     Em primeiro lugar, note que o volume de 2019 é descartado pois a média envolve
+     apenas os últimos 3 anos, conforme solicitado. Depois, perceba que a média móvel
+     estima 40 porém, como a tendência é de crescimento (em 2022 o volume já foi de 50),
+     é provável que a demanda esteja subestimada.
+
+MÉTODO DA MÉDIA MÓVEL PONDERADA
+
+       Neste método (que é uma variação do método anterior), os valores dos períodos mais
+próximos recebem peso maior que os valores correspondentes aos períodos mais antigos,
+justamente para tentar compensar os desvios que são comumente gerados pelo método anterior,
+não ponderado (superestima quando a tendência é de retração e subestima quando a tendência
+é de crescimento).
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               10
+        www.estrategiaconcursos.com.br                                                           67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+     Exemplo: qual o consumo para 2023 considerando-se a média móvel ponderada dos
+     últimos 3 anos?
+     2019 - 20 / 2020 - 30 / 2021 - 40 / 2022 - 50
+     Critérios de ponderação:
+     2019 - 0% / 2020 - 5% / 2021 - 20% / 2022 - 75%
+     2023 = (30x0,05 + 40x0,2 + 50x0,75) = 1,5 + 8 + 37,5 = 47
+     Novamente, note que o volume de 2019 é descartado pois a média envolve apenas os
+     últimos 3 anos, conforme solicitado. Depois perceba que a média móvel ponderada
+     sobe para 47 (versus 40 no cálculo anterior) pois atribui mais peso para os períodos
+     mais recentes e, como a tendência é de crescimento, o valor aumenta.
+
+Níveis de Estoques
+
+     Avançando nas discussões sobre estoques, é hora de conhecermos os níveis de estoque e
+o momento ideal de realizar o pedido de compra, o famoso "ponto do pedido". Vamos a eles:
+
+
+Nível de Estoque
+       Os níveis de estoque são costumeiramente representados pela chamada curva "dente de
+serra".
+      Nesse tipo de representação temos todas as informações sobre a movimentação dos
+materiais em estoque (tanto entradas como saídas). No gráfico, o eixo X (abcissa) representa o
+tempo transcorrido e o eixo Y (ordenada) representa a quantidade (volume) do estoque
+observado.
+
+Veja um exemplo a seguir.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          11
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      Perceba que no gráfico "dente de serra" acima, no início da leitura o estoque disponível é
+de 140 unidades. Esse estoque vai sendo consumido até o mês de Junho, quando chega a zero,
+momento em que acontece a reposição, elevando novamente o estoque ao volume de 140
+unidades que, novamente, são consumidas ao longo do semestre, atingindo o nível mínimo
+novamente, em Dezembro.
+     Importante notar que, ao longo de todos os meses, o consumo dos estoques se
+comportou de maneira absolutamente uniforme e a reposição aconteceu exatamente no
+momento em que o nível de estoques estava zerado.
+      Para que isso tudo aconteça é necessário que não exista alteração da tendência de
+consumo ao longo do tempo, não existam falhas na colocação do pedido de compra e na
+entrega e o material entregue seja sempre 100% aceito, ou seja, sem problemas de qualidade.
+      Sabemos que tudo isso não ocorre de forma simultânea e com frequência. É natural
+termos falhas na colocação do pedidos, nos prazos de entrega dos fornecedores ou mesmo na
+qualidade dos produtos entregues.
+       Dessa forma é necessário criar um sistema que absorva essa diferenças. Vamos ver
+novamente no gráfico "dente de serra" como que diferentes falhas no sistema podem afetar de
+maneira significativa os volumes de estoque da organização, podendo levar à paralisação da
+atividade produtiva:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           12
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+       Note que no cenário acima, com o esgotamento dos estoques no mês de Junho e sua não
+reposição imediata (pelos fatores que podem ser os acima listados como falha na colocação do
+pedido, problemas de qualidade ou prazo de entrega dos fornecedores), não foi possível atender
+a demanda por 80 unidades do material, até o mês de setembro quando, finalmente, houve a
+reposição dos estoques e os materiais voltaram a ser consumidos.
+     O maior objetivo de um sistema de gestão de estoques é justamente impedir ocorrências
+como estas, não permitindo que a ruptura aconteça deixando os clientes desabastecidos.
+      Para isso, o que se costuma fazer é determinar um ponto a partir do qual o pedido de
+compra deve ser colocado, preservando ainda um "pedaço" do estoque, justamente para
+suportar atrasos na entrega ou problemas na qualidade do material recebido, minimizando a
+chance do estoque chegar a zero e termos a paralisação da atividade produtiva. Veja abaixo
+como representar esse mecanismo:
+
+      Perceba que agora a reposição dos estoques é prevista para momento em que ainda
+existem 20 unidades em estoque. Dessa forma, mesmo que haja algum nível de atraso ou
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         13
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+problema com a qualidade do material entregue, essas 20 unidades seriam capazes de suportar
+essa variação "inesperada" e poderiam suprir a atividade produtiva até que o novo material fosse
+entregue.
+
+     Esse é o chamado estoque mínimo, ou estoque de segurança. Importante lembrar que
+     esse estoque ficará a maior parte do tempo parado e sem ser utilizado, portanto é
+     crítico determinar qual o nível realmente necessário e suficiente, com o objetivo de
+     reduzir todos os custos relativos a sua manutenção como armazenagem, seguros,
+     imobilização do capital, etc.
+
+
+Ponto do Pedido
+      Bem, para o cálculo do chamado ponto do pedido, deve-se saber qual o tempo de
+reposição esperado, que nada mais é do que todo o tempo percorrido entre a conclusão de que
+o estoque precisa ser reposto até sua efetiva disponibilização no almoxarifado da empresa.
+      Esse intervalo de tempo é composto por três grandes atividades que você precisa
+conhecer:
+
+        Emissão do Pedido: tempo percorrido desde a emissão do pedido até ele chegar
+        ao fornecedor.
+        Preparação do Pedido: tempo percorrido para a fabricação e separação dos
+        produtos, emissão do faturamento e preparação para que fiquem em condições
+        de serem transportados até o cliente que os adquiriu.
+        Transporte: tempo percorrido da saída do fornecedor até o recebimento pela
+        empresa de todos os materiais adquiridos.
+
+       Veja a seguir como o tempo de reposição pode ser graficamente representado:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           14
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      Perceba que o pedido é realizado quando ainda há 80 unidades no estoque (PP ou ponto
+do pedido), com a expectativa de que seja entregue quando o estoque estiver em 20 unidades
+(cruzamento da linha pontilhada com a linha do estoque mínimo).
+       Dessa forma é o possível concluir que o tempo de reposição, nesse caso, consome 60
+unidades (somando-se todo o tempo necessário para a emissão (1), preparação (2) e transporte
+(3) do pedido), com o material sendo completamente entregue a organização quando ela ainda
+possui 20 unidades no estoque, ou seja, seu estoque mínimo que, eventualmente, poderá ser
+consumido caso tenhamos prazos maiores do que os esperados relativos a entrega por falhas do
+fornecedor (atrasos ou problemas de qualidade, por exemplo).
+      Bem, após todas essa contas, conseguimos descobrir o momento do ponto do pedido.
+Esse é o exato instante em que um item necessita de novo suprimento, ou seja, quando seu
+volume de estoque estiver igual ou abaixo do que chamamos no gráfico de PP ou Ponto do
+Pedido.
+      CÁLCULO DO PONTO DO PEDIDO
+
+
+     O cálculo do ponto do pedido é feito somando-se ao estoque mínimo desejado, o
+consumo esperado ao longo do tempo de reposição do material. Veja a seguir:
+
+                                                PP = C x TR + EM
+
+      Na fórmula temos:
+      PP = Ponto de Pedido
+      C = Consumo médio esperado do material
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais        15
+        www.estrategiaconcursos.com.br                                                    67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      TR = Tempo de reposição somando as três etapas que vimos acima: emissão, preparação e
+transporte do pedido.
+      EM = estoque mínimo desejado, capaz de suprir a organização no caso de atrasos na
+entrega ou problemas de qualidade.
+      Entenda graficamente o que estamos falando:
+
+      O Ponto do Pedido (P no gráfico acima), está exatamente no ponto que considera o
+consumo que acontecerá durante todo o Tempo de Reposição (T no gráfico acima) mais o
+estoque de segurança ou mínimo (Eseg no gráfico acima).
+      Desta forma, note que o pedido é realizado no P, o consumo do material continua ao
+longo do tempo de reposição (T) e, ao final desse período o ressuprimento acontece, elevando
+novamente os estoques e, nesse caso, não consumindo nenhuma unidade do estoque mínimo ou
+de segurança.
+      Vejamos um exemplo para você entender melhor:
+
+        Uma peça é consumida à razão de 80 unidades/mês e seu tempo de reposição é
+        de 3 meses. A organização entende que é necessário manter 45 dias de estoque
+        de segurança. Qual o ponto do pedido?
+        Vamos lá:
+        PP = C x TR + EM <=> PP = 80 x 3 + (80 x 1,5) -> note que aqui temos que fazer
+        uma pequena transformação para chegar ao estoque mínimo pois ele
+        corresponde a 1,5 mês (45 dias)., portanto é necessário multiplicar o consumo de
+        1 mês (80) por 1,5.
+        PP = 240 + 120 = 360
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         16
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+        Veja que ao chegar a 360 unidades a empresa deve efetuar o pedido. Como a
+        premissa assumida é que o material leva 3 meses para ser entregue e a cada mês
+        a empresa consome 80 unidade, é normal esperar que, até que o material seja
+        entregue, a empresa terá consumido 240 unidades (80x3). Dessa forma, no
+        momento em que o material for recebido, a empresa deverá ter 120 unidades em
+        estoque (360 - 240) e esse é exatamente o estoque mínimo (ou de segurança)
+        adotado (45 dias que equivale a um mês e meio de consumo ou 80 x 1,5 - 120).
+        Bingo!
+
+Tipos de Estoques
+      Como vimos acima, o principal objetivo de um sistema de gestão de estoques é otimizar o
+seu volume por meio de parâmetros de ressuprimento que procuram manter os seus níveis
+constantemente ajustados e respeitando as variações do consumo, dos prazos de reposição, da
+importância operacional e do valor de cada material.
+       Dentro desse contexto, além de otimizar o volume do estoque o modelo também deve
+minimizar a chance de ruptura do estoque, não o deixando chegar ao nível zero e paralisando a
+atividade operacional da organização, havendo sempre uma reserva calculada que permita à
+empresa manter sua produção ativa.
+      Essa reserva, o chamado estoque de segurança, aparentemente um excesso necessário de
+material previamente calculado, forma um lastro de emergência que será utilizado após o
+estoque atingir o seu ponto mínimo.
+        Vejamos a seguir os principais tipos de ressuprimento e/ou estoque estudados pela
+literatura e cobrados em prova. Em primeiro lugar vamos lembrar o Ponto do Pedido, pois o
+usaremos mais adiante:
+
+      Ponto do Pedido (PP) = C (Consumo médio) x TR (tempo de reposição) + EM (estoque mínimo)
+
+      ESTOQUE REAL (ER)
+      É a quantidade de material existente em estoque no almoxarifado da empresa.
+      ESTOQUE VIRTUAL (EV)
+       É o estoque real acrescido das quantidades de encomendas em andamento, sejam os
+fornecimentos em atraso, os dentro do prazo mas ainda não entregues e os entregues porém
+ainda em inspeção.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               17
+        www.estrategiaconcursos.com.br                                                           67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      ESTOQUE MÁXIMO
+      É a quantidade máxima de estoque permitida para o material. Pode ser atingida pelo
+estoque virtual, quando da emissão de um pedido de compra. A finalidade principal do estoque
+máximo é indicar a quantidade de ressuprimento, por meio da análise do estoque virtual.
+      ESTOQUE DE SEGURANÇA (OU MÍNIMO)
+      Quantidade mínima possível capaz de suportar um tempo de ressuprimento (ou tempo de
+reposição) superior ao programado ou um consumo desproporcional (aumento inesperado da
+demanda, por exemplo). Ao ser atingido pelo estoque em declínio, indica condição crítica do
+estoque real e exige ação imediata para impedir a ruptura. Também é denominado estoque de
+armazenamento, intermediário, de reserva, isolador, de regulação ou de flutuação.
+      Seu volume é calculado em função do nível de atendimento fixado pela empresa, em
+função da importância operacional e do valor do material em questão, além dos desvios entre os
+consumos estimados e realizados e o prazo médio de reposição.
+      ESTOQUE DE ANTECIPAÇÃO
+      São criados antecipando-se uma demanda futura como, por exemplo, uma época de pico
+de vendas (sazonalidade), um programa de promoções, férias coletivas ou ameaça de greve, etc.
+Procuram auxiliar o nivelamento da produção.
+      ESTOQUE DE TAMANHO DO LOTE
+      Composto por itens comprados ou fabricados em quantidades maiores que o necessário.
+Ocorre pela busca de vantagens em função dos descontos de volume e redução de despesas
+como transporte e outras relacionadas. Também é chamado de estoque de ciclo.
+      ESTOQUE DE TRANSPORTE
+       Existem pela necessidade de se transportar itens de um local ao outro, por exemplo, da
+fábrica ao centro de distribuição ou mesmo a um cliente. Chamados também de estoque de
+tubulação ou estoque de movimento ou estoque em trânsito. Não depende do volume, mas sim
+do tempo de trânsito. Única forma de diminuí-lo é reduzir o tempo de trânsito.
+      ESTOQUE HEDGE
+      Envolve produtos que possam sofrer bruscas variações de preço de acordo com a oferta e
+demanda mundiais. Para se precaver em relação à flutuação de preços (aumento) a organização
+pode antecipar as compras de determinado material adquirindo o chamado estoque hedge.
+
+Custos dos Estoques
+      Estoques geram uma série de custos. O mais óbvio é o custo de aquisição do próprio
+material que será estocado porém há uma série de outros custos diretos e indiretos que precisam
+ser considerados como os custos de armazenamento, de pedidos e, inclusive, os custos da
+eventual falta de estoques!
+      CUSTOS DE ARMAZENAMENTO
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          18
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      Em relação aos custos de armazenamento, eles são proporcionais a quantidade e ao
+tempo que um material permanece em estoque. Em linhas gerais podem ser agrupados nas
+seguintes modalidades:
+
+            ✔ Custos de capital (juros e depreciação)
+
+            ✔ Custos com pessoal (salários, encargos sociais)
+
+            ✔ Custos com edificação (aluguéis, impostos, luz, conservação)
+
+            ✔ Custos de manutenção (deterioração, obsolescência, equipamento)
+
+      Para a guarda apropriada dos estoques é necessária uma estrutura adequada que envolve
+depósitos ou galpões, móveis, equipamentos, materiais e pessoas. Tudo o que é investido para a
+manutenção dessa estrutura é considerado custo de estoque e varia muito pouco em função do
+volume, portanto é considerado custo fixo.
+       Além disso temos custos de eventuais aluguéis de espaços, seguros, juros financeiros,
+obsolescência do material, depreciação, deterioração, etc. Note que são vários custos embutidos
+na atividade de armazenagem e gestão dos materiais adquiridos para a formação dos estoques.
+      Podemos concluir portanto que o custo de armazenagem é composto de uma parte fixa
+(independe do volume) e outra variável (diretamente dependente do volume armazenado) e é a
+soma de custos de capital, seguros, transportes, obsolescências e despesas diversas.
+      CUSTOS DE PEDIDOS
+      O custo do pedido restringe-se basicamente a atividade de compra. Refere-se aos
+recursos necessários para a efetivação da compra como as pessoas envolvidas, os papéis e
+materiais, as viagens, os contatos telefônicos e todos os demais custos relacionados à transação
+de aquisição dos materiais.
+      O total das despesas que compõem o custo total de pedidos é:
+
+            ✔ Mão de obra: para emissão e processamento
+
+            ✔ Material: utilizado na confecção do pedido (formulários, envelopes, impressora, etc.)
+
+            ✔ Custos indiretos: despesas ligadas indiretamente ao pedido (telefone, energia,
+           departamento de compras etc.)
+      Do ponto de vista contábil, quanto maior o pedido, mais o custo total será diluído entre
+todo o volume adquirido, visto que o custo unitário do pedido não varia muito em função do
+volume comprado.
+      CUSTOS DE FALTA DE ESTOQUE
+      Por outro lado temos os custos da falta de estoque. Este é muito mais um custo de
+oportunidade. São componentes de custo que não podem ser calculados com grande precisão,
+mas que ocorrem quando um pedido atrasa ou não pode ser entregue pelo fornecedor.
+      Um exemplo podem ser os custos para a organização em não atender uma demanda do
+mercado por máscaras que evitam o contágio de certas moléstias no momento de uma epidemia.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              19
+        www.estrategiaconcursos.com.br                                                          67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+       Se a organização não tinha o produto em estoque naquele momento, perdeu a
+oportunidade. Até que ela realize o pedido, o produto seja fabricado no volume desejado e
+entregue, os concorrentes já abasteceram os clientes e consumidores e a oportunidade de
+receita foi perdida.
+      Outro exemplo é a falta de determinado remédio em um hospital. Em função desse
+problema de planejamento o paciente não pode ser medicado em um quadro emergencial e
+morreu. Não há nem como calcular esse custo, não é verdade?
+      O custo da falta de estoque está ligado as oportunidades perdidas, sejam elas de geração
+de receitas ou de atendimento de demandas variadas, pela falta do material necessário no
+momento em que era demandado.
+      Os custos de falta de estoques ou de ruptura podem ocorrer nas seguintes ocasiões:
+
+            ✔ Lucros cessantes: incapacidade de fornecimento e perda de lucros em função do
+               cancelamento de pedidos.
+            ✔ Custeios adicionais: resultado de fornecimentos em substituição com material de
+               terceiros.
+            ✔ Custeios do não cumprimento de prazos: multas, bloqueios de reajustes, etc.
+
+            ✔ Quebra da imagem: impacto na relação, no posicionamento e na imagem
+               construída pela empresa por sua atuação e performance
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          20
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+                                     QUESTÕES COMENTADAS
+
+      1. (MP-PR/Auxiliar Administrativo/Instituto AOCP/2024)
+
+Como auxiliar administrativo do Ministério Público do Estado do Paraná, você é responsável pelo
+reabastecimento de material de expediente junto ao almoxarifado. Nesse sentido, considere os
+dados a seguir e assinale a alternativa que apresenta o valor da média móvel ponderada para o
+ano 5.
+
+(A)    66,15.
+
+(B)    65,78.
+
+(C) 64,35.
+
+(D) 62,24.
+
+(E) 60,45.
+
+Comentários:
+
+A questão pede o cálculo da média móvel ponderada, porém não especifica o números de
+meses que devem ser considerados, portanto devemos considerar (e ponderar) todos os meses,
+conforma indicado no enunciado. Assim, temos:
+
+Média Móvel Ponderada no ano 5 = 72 x 0,05 + 60 x 0,2 + 63 x 0,25 + 66 x 0,5
+Média Móvel Ponderada no ano 5 = 64,35
+
+A alternativa C está correta e é o gabarito da questão.
+
+
+      2. (CÂMARA DE MACEIÓ/ANALISTA ADMINISTRATIVO/CEBRASPE/2024)
+
+Minimizar o estoque de segurança significa reduzir ao máximo a imobilização de capital, o que
+possibilita o surgimento de riscos de ruptura de estoque.
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais        21
+          www.estrategiaconcursos.com.br                                                    67
+
+                                      
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Comentário:
+
+A afirmativa está CORRETA.
+
+É verdade. O tamanho dos estoques de segurança varia de acordo com os objetivos da
+organização, sua propensão a riscos, sua possibilidade de absorver custos de estoques maiores e
+algumas outras variáveis. Minimizar o estoque em geral (e o de segurança, inclusive) permite sim
+reduzir a imobilização de capital, porém aumenta o risco de ruptura (falta de estoques) ao longo
+do tempo.
+
+
+   3. (CÂMARA DE MACEIÓ/ANALISTA ADMINISTRATIVO/CEBRASPE/2024)
+
+O dimensionamento do estoque de segurança resume-se aos seguintes fatores: tempo médio de
+tramitação do processo de aquisição do material; perecibilidade do material; volume do
+material; e impacto financeiro na organização.
+
+Comentário:
+
+A afirmativa está ERRADA.
+
+O dimensionamento do estoque de segurança é ainda mais complexo e abrange outras variáveis
+como a capacidade de absorção de custos da organização, sua propensão a assumir riscos, entre
+outras, além das listadas no enunciado como tempo médio de tramitação do processo de
+aquisição do material; perecibilidade do material; volume do material; e impacto financeiro na
+organização.
+
+Julgue os itens que se seguem, acerca da gestão de estoques.
+
+
+   4. (CEBRASPE/INPI/2024)
+
+Denominam-se estoques ocasionais as quantidades de produtos adquiridas em excesso no
+período de baixas de vendas para permitir a regularidade do atendimento à demanda nos
+períodos de alta previstos ao longo do ano.
+
+Comentários:
+
+Denominam-se estoques ocasionais as quantidades de produtos adquiridas em excesso no
+período de baixas de vendas para permitir a regularidade do atendimento à demanda nos
+períodos de alta previstos ao longo do ano. ERRADA. Essas são características do estoque de
+antecipação ou mesmo do estoque hedge caso faça referência a subida de preço de algum item.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           22
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   5. (CEBRASPE/INPI/2024)
+
+O giro dos estoques é definido como o número de dias que um produto leva para sair do
+estoque.
+
+Comentários:
+
+O giro dos estoques é definido como o número de dias que um produto leva para sair do
+estoque. ERRADA. A definição de giro não é essa, mas sim o número de vezes que o estoque
+deve ser reposto e consumido para atingir a demanda do período.
+
+Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+
+   6. (CEBRASPE/CAPES/2024)
+
+Uma das funções dos estoques é proteger as organizações de eventuais oscilações de demanda,
+embora eles não possam salvaguardá-las das oscilações do mercado.
+
+Comentário:
+A afirmativa está ERRADA.
+Os estoques de fato podem proteger as organizações de eventuais oscilações de demanda, aliás,
+essa é uma das principais razões de sua existência. Porém, além disso, eles podem sim
+salvaguardar (ou, novamente, proteger) as organização dessas mesmas oscilações do mercado, a
+partir do momento que fornecem volumes adicionais nos incrementos inesperados de demanda
+ou custodiam volumes produzidos em demasia no caso de variação abaixo da esperada no
+mercado.
+
+   7. (CEBRASPE/CAPES/2024)
+
+Os custos de falta de estoque ocorrem quando o estoque mantido é inferior à demanda, o que
+acarreta a falta do item no momento de sua necessidade.
+
+Comentário:
+A afirmativa está CORRETA.
+Os custos da falta de estoques ocorrem quando há a ruptura dos estoques e a consequente
+"falta" do produto acabado na venda ao cliente final. Esse processo causa diversos custos como a
+interrupção do processo produtivo e os respectivos custos para o reinício, a perda de receita com
+as vendas não efetuadas, eventuais multas de não entregas de pedidos contratados por clientes,
+etc.
+
+   8. (CEBRASPE/CAPES/2024)
+
+Os custos de riscos de estoques estão associados a potenciais perdas, furtos, roubos e avarias.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                23
+        www.estrategiaconcursos.com.br                                                            67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Comentário:
+A afirmativa está CORRETA.
+Riscos de estoques são justamente os riscos causados pelo acúmulo dos estoques ao longo do
+tempo, estando sujeitos a perdas, obsolescência, avarias, furtos, etc.
+
+   9. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à gestão de insumos, julgue os itens a seguir.
+
+O conceito de estoques de segurança não se aplica a empresa que utilize o sistema de
+reposições periódicas para o planejamento e a manutenção de seus níveis de estoque.
+
+Comentários:
+
+A afirmativa está ERRADA.
+
+A questão pode gerar discussão pois o sistema de reposição que tem o estoque de segurança
+em seu modelo é a reposição contínua. Porém, isso não quer dizer que a reposição periódica não
+o utilize. A reposição periódica repõe os estoques de tempos em tempos mas, no seu cálculo, o
+estoque de segurança pode ser usado para definir os intervalos de reposição. É mais uma
+questão polêmica do CEBRASPE.
+
+
+   10. (CEBRASPE (CESPE)/CNPq/2023)
+
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens
+subsequentes.
+
+O custo de aquisição de estoques corresponde ao custo de capital para manter a mercadoria
+somado ao custo de ocupação do espaço no armazém.
+
+Comentários:
+
+A afirmativa está ERRADA.
+
+De acordo com a CVM o custo de aquisição dos estoques compreende o preço de compra, os
+impostos de importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os
+custos de transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos
+acabados, materiais e serviços. Descontos comerciais, abatimentos e outros itens semelhantes
+devem ser deduzidos na determinação do custo de aquisição.
+
+   11. (VUNESP/Pref Pindamonhangaba/2023)
+
+Segundo Chiavenato (2014), uma das principais funções do estoque tem como objetivo garantir
+o abastecimento de materiais à empresa, neutralizando os efeitos de
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           24
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+a) revisão do custo de estocagem, menor risco de perdas e obsolescência e melhores condições
+de compra e descontos.
+b) otimização dos espaços de armazenamento, elasticidade do processo produtivo e aumento
+do capital de giro.
+c) reabastecimento de matéria prima, previsão de consumo mensal e produção em lotes
+econômicos.
+d) revisão do tempo padrão de produção, erros de planejamento e controle do estoque de
+produtos acabados.
+e) demora ou atraso no fornecimento de materiais, sazonalidade no suprimento e riscos de
+dificuldade no fornecimento.
+
+Comentário:
+A alternativa A está incorreta. Esses não são os principais riscos oferecidos à organização por
+uma gestão de estoques não eficiente. Veja na alternativa gabarito quais são os maiores riscos
+combatidos por uma eficiente gestão de estoques. Revisão de custos e melhores condições de
+compra, por exemplo, não são problemas/riscos ao processo de estocagem.
+A alternativa B está incorreta. Esses não são os principais riscos oferecidos à organização por uma
+gestão de estoques não eficiente. Veja na alternativa gabarito quais são os maiores riscos
+combatidos por uma eficiente gestão de estoques. Otimização dos espaços de armazenamento,
+por exemplo, não é um problema/risco ao processo de estocagem.
+A alternativa C está incorreta. Esses não são os principais riscos oferecidos à organização por
+uma gestão de estoques não eficiente. Veja na alternativa gabarito quais são os maiores riscos
+combatidos por uma eficiente gestão de estoques. Nenhum dos itens listados é um
+problema/risco ao processo de estocagem.
+A alternativa D está incorreta. Esses não são os principais riscos oferecidos à organização por
+uma gestão de estoques não eficiente. Veja na alternativa gabarito quais são os maiores riscos
+combatidos por uma eficiente gestão de estoques. O controle do estoque de produtos
+acabados, por exemplo, não é um problema/risco ao processo de estocagem.
+A alternativa E está correta e é o gabarito da questão. Esses são 3 grandes problemas no
+abastecimento de materiais que podem mesmo ser neutralizados com uma boa gestão de
+estoques: o atraso no fornecimento (um bom controle/escolha dos fornecedores minimiza o
+problema), a sazonalidade da demanda (contornada por um bom planejamento de volumes) e
+riscos de dificuldade na obtenção do material (driblada novamente por planejamento e níveis de
+estoques compatíveis com o risco diagnosticado).
+
+
+   12. (VUNESP/Pref Peruíbe/2023)
+
+O tipo de estoque utilizado pela organização para prevenir- se contra eventualidades que
+envolvem especulações de mercado, como greves, aumento de preços, instabilidade em
+situação econômica ou política, ambiente inflacionário ou imprevisível é o de
+a) antecipação.
+b) proteção.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                25
+        www.estrategiaconcursos.com.br                                                            67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+c) flutuação.
+d) ciclo.
+e) sazonalidade.
+
+Comentário:
+A alternativa A está incorreta. O enunciado se refere ao estoque de proteção e não o de
+antecipação. Veja os comentários na alternativa gabarito pois há uma pequena área de conflito
+entre os estoques de antecipação e o de proteção.
+A alternativa B está correta e é o gabarito da questão. Cuidado para não confundir. A VUNESP
+adota para esse tipo de situação a denominação "estoque de proteção", especialmente por se
+referir a "necessidade de prevenção" em algumas situações específicas, como diz o enunciado.
+Esse estoque também é chamado de estoque hedge e alguns dos problemas listados no
+enunciado como as greves, as vezes são atendidos pelo estoque de antecipação, produzido de
+forma planejada para atender variações previsíveis futuras.
+A alternativa C está incorreta. O enunciado se refere ao estoque de proteção e não ao de
+flutuação.
+A alternativa D está incorreta. O enunciado se refere ao estoque de proteção e não ao de ciclo.
+A alternativa E está incorreta. O enunciado se refere ao estoque de proteção e não ao de
+sazonalidade.
+
+
+   13. (VUNESP/EsFCEx/Administração/2023)
+
+Na gestão de estoques, em casos de significativa diferença entre a previsão de consumo e o
+consumo efetivo no período anterior, o método de previsão da demanda mais recomendado é
+denominado
+a) média ponderada.
+b) média aritmética simples ou média móvel.
+c) média móvel exponencialmente ponderada.
+d) último período.
+e) mínimos quadrados.
+
+
+Comentário:
+A alternativa A está incorreta. Em cenários de variação significativas de volume o ideal é a
+adoção de métodos de cálculo que sejam ponderados, para minimizar os desvios de cálculo
+causados pela variação diagnosticada. Veja mais comentários na alternativa gabarito da questão.
+A alternativa B está incorreta. Em cenários de variação significativas de volume o ideal é a adoção
+de métodos de cálculo que sejam ponderados, para minimizar os desvios de cálculo causados
+pela variação diagnosticada. Veja mais comentários na alternativa gabarito da questão.
+A alternativa C está correta e é o gabarito da questão. A ponderação da média móvel ajuda a
+diminuir os erros do método, sobretudo quando ele é aplicado em um cenário de variação
+significativa em relação aos períodos anteriores. Quando não ponderada, em tendências de
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                26
+        www.estrategiaconcursos.com.br                                                            67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+crescimento a média móvel tende a subestimar a previsão enquanto em tendências de queda a
+média móvel tende a superestimar os volumes futuros.
+A alternativa D está incorreta. Em cenários de variação significativas de volume o ideal é a
+adoção de métodos de cálculo que sejam ponderados, para minimizar os desvios de cálculo
+causados pela variação diagnosticada. Veja mais comentários na alternativa gabarito da questão.
+
+A alternativa E está incorreta. Em cenários de variação significativas de volume o ideal é a adoção
+de métodos de cálculo que sejam ponderados, para minimizar os desvios de cálculo causados
+pela variação diagnosticada. Veja mais comentários na alternativa gabarito da questão.
+
+   14. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+A série histórica do consumo mensal de determinado material utilizado por uma empresa é dada
+pelos meses de M1 a M6, conforme a sequência: M1 = 5.500, M2 = 5.800, M3 = 5.200, M4 =
+5.400, M5 = 6.000 e M6 = 5.400.
+
+A previsão de demanda para o período M7, utilizando a média móvel para os últimos 3 meses,
+será de:
+
+a) 5.400 unidades;
+b) 5.450 unidades;
+c) 5.500 unidades;
+d) 5.550 unidades;
+e) 5.600 unidades.
+
+Comentário:
+
+Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+Média Móvel últimos 3 meses = (M6 + M5 + M4) / 3
+Média Móvel últimos 3 meses = (5.400 + 6.000 + 5.400) / 3
+Média Móvel últimos 3 meses = 16.800/3
+Média Móvel últimos 3 meses = 5.600 unidades
+A alternativa E está correta e é o gabarito da questão.
+
+
+   15. (FGV/ALEMA/Agente Legislativo/2023)
+
+Em uma empresa pública responsável por realizar a administração portuária, o estoque de
+determinada peça de manutenção é consumido na razão de 1.000 unidades por mês, sendo o
+seu tempo de reposição de 2 meses.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              27
+        www.estrategiaconcursos.com.br                                                          67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Considerando que o estoque mínimo exigido para essa peça equivale a 1 mês de consumo, o
+ponto do pedido (ressuprimento) será de
+
+a) nenhuma unidade.
+b) 1000 unidades.
+c) 2000 unidades.
+d) 3000 unidades.
+e) 4000 unidades.
+
+Comentário:
+
+Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+Ponto do Pedido = Consumo Médio x Tempo de Reposição + Estoque de Segurança
+Ponto do Pedido = 1.000 x 2 + 1.000
+Ponto do Pedido = 3.000 unidades
+A alternativa D está correta e é o gabarito da questão.
+
+
+   16. (FGV/ALEMA/Agente Legislativo/2023)
+
+No caso de uma empresa operar em um mercado consumidor de alta sazonalidade, a exemplo
+do mercado de chocolates, que atinge picos de venda em datas festivas, é adequado o uso do
+estoque
+
+a) em trânsito.
+b) de antecipação.
+c) de desacoplamento.
+d) ponderado.
+e) por just-in-time.
+
+Comentário:
+A alternativa A está incorreta. O examinador se refere ao estoque de antecipação e não ao
+estoque em trânsito. Veja mais comentários na alternativa gabarito da questão.
+
+
+A alternativa B está correta e é o gabarito da questão. A banca descreve justamente o estoque
+de antecipação, que deve ser construído com antecedência em situações previsíveis de aumento
+da demanda ou necessidade de uso de estoques maiores. Note que a grande "dica" para o uso
+dos estoques de antecipação é a previsibilidade do aumento da demanda, como no caso de
+períodos de incrementos sazonais de venda.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais        28
+        www.estrategiaconcursos.com.br                                                    67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa C está incorreta. O examinador se refere ao estoque de antecipação e não ao
+estoque de desacoplamento. Veja mais comentários na alternativa gabarito da questão.
+A alternativa D está incorreta. O examinador se refere ao estoque de antecipação e não ao
+estoque ponderado. Veja mais comentários na alternativa gabarito da questão.
+A alternativa E está incorreta. O examinador se refere ao estoque de antecipação e não ao
+estoque por just in time. Veja mais comentários na alternativa gabarito da questão.
+
+
+   17. (FGV/DPE RS/Administrativa/Administração/2023)
+
+Um hospital adota sistema de reposição contínua para o estoque de determinado material
+cirúrgico. O consumo desse material é de 300 unidades por mês. As compras são feitas em lotes
+de 1.000 unidades e o tempo de ressuprimento do material é de 15 dias. Como se trata de um
+material crítico para a realização das cirurgias, o hospital mantém um estoque de segurança de
+100 unidades do material.
+
+Na situação descrita, o estoque máximo, o estoque médio e o ponto de pedido (considere que
+um mês tem 30 dias) são, respectivamente:
+
+a) 1.000 unidades; 500 unidades; 200 unidades;
+b) 1.000 unidades; 550 unidades; 200 unidades;
+c) 1.100 unidades; 600 unidades; 250 unidades;
+d) 1.100 unidades; 550 unidades; 250 unidades;
+e) 1.100 unidades; 600 unidades; 200 unidades.
+
+Comentário:
+
+Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+Ponto do Pedido = Consumo Médio x Tempo de Reposição + Estoque de Segurança
+Ponto do Pedido = 300 x 0,5*+100
+*15/30
+Ponto do Pedido = 250 unidades
+
+
+Estoque Máximo = Q(Lote) + Estoque de Segurança
+Estoque Máximo = 1.000 + 100
+Estoque Máximo = 1.100 unidades
+
+
+Estoque Médio = Q(Lote)/2 + Estoque de Segurança
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais         29
+         www.estrategiaconcursos.com.br                                                     67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Estoque Médio = 1.000/2 + 100
+Estoque Médio = 600 unidades
+
+
+A alternativa C está correta e é o gabarito da questão.
+
+
+   18. (FGV/ALEMA/Administrador/2023)
+
+A gestão de estoques constitui uma série de ações que permitem ao administrador verificar se
+os estoques estão sendo bem utilizados, bem localizados em relação aos setores que deles se
+utilizam, bem manuseados e bem controlados.
+A tabela abaixo é utilizada pela empresa XYZ para controlar os seus estoques:
+
+                        Mês Estoque Inicial Entradas Saídas Estoque Final
+                        Jan    150                  350          200      300
+                        Fev    300                  50           250      100
+                        Mar 100                     200          250      50
+                        Abril 50                    400          150      300
+                        Maio 300                    150          300      150
+
+Assinale a opção que informa corretamente o número aproximado de vezes em que o estoque
+girou de janeiro a maio.
+
+a) 3,4 vezes.
+b) 4,7 vezes.
+c) 5,2 vezes.
+d) 6,4 vezes.
+e) 7,1 vezes.
+
+Comentário:
+
+Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+Giro de Estoques = Demanda (Saída) / Estoque Médio
+Giro de Estoques = (200+250+250+150+300) / [(300+100+50+300+150)/5]
+Giro de Estoques = 1150 / 180
+Giro de Estoques = 6,38
+
+
+A alternativa D está correta e é o gabarito da questão.
+
+
+   19. (FGV/ALEMA/Agente Legislativo/2023)
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais        30
+        www.estrategiaconcursos.com.br                                                    67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Uma empresa maranhense de turbinas de geração eólica vendeu 100 turbinas em 2021 e 130 em
+2022.
+
+Caso ela utilize a projeção como modelo de previsão de demanda de materiais, deve esperar
+vender, em 2023,
+
+a) 100 turbinas.
+b) 115 turbinas.
+c) 130 turbinas.
+d) 160 turbinas.
+e) 169 turbinas.
+
+Comentário:
+
+Vamos primeiro fazer as contas e depois buscar a alternativa correta:
+A projeção assume a mesma tendência passada para os cenários futuros.
+2021 = 100
+2022 = 130 (ou incremento de 30%)
+2023 = 130 mais o incremento de 30%, que deve ser mantido
+2023 = 130 x 130% = 169 turbinas.
+A alternativa E está correta e é o gabarito da questão.
+
+
+   20. (QUADRIX/CRM MG/2023)
+
+A respeito da administração de materiais, assinale a alternativa correta.
+a) É desnecessária a centralização das compras em um setor de compras sob a direção e a
+responsabilidade de um especialista, com rotinas de procedimento bem claras e definidas.
+b) É ineficaz o desenvolvimento de um sistema de controle que demonstre o custo dos materiais
+em cada estágio, desde o almoxarifado de matéria-prima até o almoxarifado de produtos
+acabados.
+c) É desnecessária a determinação de limites, mínimos e máximos, para cada item do estoque.
+d) É necessária a emissão regular de relatórios de materiais comprados e entregues, de saldos,
+de itens obsoletos, de devoluções a fornecedores e de registro de toda e qualquer informação
+que se faça necessária para uma correta avaliação do desempenho.
+e) É desnecessário o estabelecimento de um sistema de inventário rotativo, que possibilite, a
+qualquer momento, a determinação do valor de cada item e do total de materiais em estoque.
+
+Comentário:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         31
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa A está incorreta. Ao contrário, a centralização das compras em um setor de compras
+sob a direção e a responsabilidade de um especialista, com rotinas de procedimento bem claras
+e definidas é muito bem vinda e pode trazer diversos benefícios a quem adotar o modelo.
+
+
+A alternativa B está incorreta. Não só é eficaz como é fundamental o desenvolvimento de um
+sistema de controle que demonstre o custo dos materiais em cada estágio, desde o almoxarifado
+de matéria-prima até o almoxarifado de produtos acabados, permitindo um melhor planejamento
+financeiro de todo o processo.
+A alternativa C está incorreta. Também ao contrário do que diz o enunciado, é importante (e não
+desnecessária) a determinação de limites, mínimos e máximos, para cada item do estoque para
+que se possa trabalhar dentro dos intervalos corretos, sem desperdícios ou grandes riscos de
+ruptura de estoque.
+A alternativa D está correta e é o gabarito da questão. Todas essas medidas e ações são
+fundamentais para garantir o correto controle do fluxo de materiais ao longo da cadeia e para
+permitir a disponibilização regular de relatórios gerenciais acurados sempre que solicitados.
+A alternativa E está incorreta. O inventário rotativo diminui o período entre a realização de
+inventários e permite um controle mais acurado, por exemplo, dos itens mais importantes no
+portfólio de materiais de uma organização. Dessa forma, é importante (e não desnecessário) o
+estabelecimento de um sistema de inventário rotativo, que possibilite, a qualquer momento, a
+determinação do valor de cada item e do total de materiais em estoque.
+
+
+   21. (QUADRIX/Pref Alto P de Goiás/Administrativo/2023)
+
+A respeito da gestão de estoques, assinale a alternativa correta.
+a) Sempre é possível repor os itens de estoque em um prazo curto e confiável de tempo.
+b) Os custos de manutenção de estoques não devem ser considerados. O importante é ter à
+disposição os produtos de que se necessita quando ocorrer sua demanda.
+c) A necessidade de estoque existe porque não é possível prever, com exatidão, o modo como
+ocorrerá o consumo de materiais, que oscila conforme a demanda pelos serviços da organização.
+d) Não há a necessidade de se manter um plano de seguro contra acidentes ou desastres para
+os itens estocados se eles forem manuseados com zelo e cuidados.
+e) Com a gestão do estoque, que deve ser balanceado em função dos custos, nunca há conflito
+de interesses entre os diversos setores da instituição que utilizam os produtos.
+Comentário:
+
+
+A alternativa A está incorreta. Na verdade, muitas vezes não é possível repor os itens de estoque
+em um prazo curto e confiável de tempo, o que pode causar a ruptura de estoques.
+
+A alternativa B está incorreta. Ao contrário, os custos de manutenção de estoques sempre devem
+ser considerados, mesmo que seja de fato importante ter à disposição os produtos de que se
+necessita quando ocorrer sua demanda.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              32
+        www.estrategiaconcursos.com.br                                                          67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa C está correta e é o gabarito da questão. Essa é mesmo a principal razão para a
+existência de estoques, ou seja, a impossibilidade de se prever a demanda com exatidão,
+embora existam inúmeras ferramentas para tornar esse processo o mais acurado possível. Como
+é impossível acertar o volume demandado, o estoque serve para equilibrar as diferenças entre a
+oferta (produção) e a demanda estimada.
+A alternativa D está incorreta. Ao contrário há sim a necessidade de se manter um plano de
+seguro contra acidentes ou desastres para os itens estocados já que acidentes e desastres muitas
+vezes independem do zelo e cuidados no manuseio dos materiais.
+A alternativa E está incorreta. Na verdade, mesmo a gestão do estoque, que deve ser
+balanceado em função dos custos, é normal haver conflito de interesses entre os diversos setores
+da instituição que utilizam os produtos como, por exemplo, o clássico conflito entre marketing
+(quer sempre mais estoques para atender os clientes com segurança e maximizar receitas) e
+finanças (quer sempre menos estoques para diminuir os custos de gestão).
+
+
+   22. (QUADRIX/CREFONO 2/2023)
+
+Em relação à administração de materiais, julgue o item.
+
+O ponto central da política de estoque é o custo de reposição.
+
+Comentário:
+A afirmativa está CORRETA.
+Os custos da aquisição/reposição de materiais e matérias primas de fato é fundamental para todo
+o processo de planejamento e execução da reposição de estoques e pode ser rotulado como o
+ponto central da política de estoque é o custo de reposição.
+
+   23. (FCC/COPERGÁS/Administrador/2023)
+
+
+Um compressor de gás do modelo XYZ possui uma demanda média semanal de 120 unidades.
+Ao consultar os acordos negociados com o principal fornecedor, o analista concluiu que o lead
+time para ressuprimento desse item é de três semanas. Sabe-se que o ponto de reposição desse
+modelo de compressor é realizado quando esse item atinge 400 unidades no estoque. Sendo
+assim, o Estoque de Segurança do compressor XYZ é de
+a) 80 unidades.
+b) 40 unidades.
+c) 120 unidades.
+d) 60 unidades.
+e) 360 unidades.
+
+Comentário:
+Vamos ao cálculo antes de buscar a alternativa correta.
+Ponto de Reposição = Consumo Médio x Tempo de Reposição + Estoque de Segurança
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            33
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+400 = 120 x 3 + Eseg
+Eseg = 400 - 360
+Eseg = 40 unidades
+A alternativa B está correta e é o gabarito da questão. A classificação ABC é justamente
+conhecida pela aplicação da Lei de Pareto, ou seja, apenas 20% dos itens representam cerca de
+80% da importância em valor dos estoques.
+
+
+   24. (CEBRASPE (CESPE)/CNMP/Apoio Técnico Administrativo/Administração/2023)
+
+Acerca da gestão de estoques, julgue o item a seguir.
+
+O tempo de elaborar e confirmar o pedido junto ao fornecedor não é considerado para o cálculo
+                                                       ==219a34==
+
+do tempo de reposição.
+
+Comentário:
+A afirmativa está ERRADA
+O tempo de reposição (que faz parte do cálculo do Ponto do Pedido), leva sim em conta o tempo
+de elaborar e confirmar o pedido junto ao fornecedor. O chamado tempo de reposição é
+composto justamente por esse tempo (elaboração e confirmação junto ao fornecedor), somado
+ao tempo de preparação do pedido e o tempo que o material leva no transporte entre o
+fornecedor e o cliente.
+
+
+   25. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+O aspecto mais importante a ser considerado na decisão sobre a manutenção de grandes
+volumes de estoques de matéria prima é o custo financeiro.
+
+Comentário:
+A afirmativa está ERRADA.
+Há vários aspectos que devem ser considerados na decisão sobre a manutenção de grandes
+volumes de estoques de matéria prima, não só o financeiro. Variáveis como o nível de serviço
+pretendido, os riscos que a organização pretende correr em relação a eventuais rupturas de
+estoque, ganhos de economia de escala na compra em grandes volumes, criticidade/dificuldade
+na aquisição do material, etc são todos fatores que devem ser levados em conta nesse processo
+decisório, além do impacto financeiro, também importante.
+
+
+   26. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             34
+        www.estrategiaconcursos.com.br                                                         67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+O inventário de segurança ou de reserva é o tipo de inventário de estoque recomendável para
+registrar os estoques de estabilidade da empresa com vistas a evitar quebras de estoques
+decorrentes de atrasos de fornecedores ou aumento inesperado de demandas.
+
+Comentário:
+A afirmativa está CORRETA.
+Aqui o examinador claramente se refere aos estoques de segurança (ou mínimo ou isolador) e
+traz sua principal característica, ou seja, é um estoque usado apenas em situações absolutamente
+imprevisíveis como o aumento inesperado e não previsto de demanda ou falha nas entregas de
+fornecedores. Em ambos os casos o estoque de segurança permite a equalização entre os níveis
+de oferta e demanda mesmo com os acontecimentos inesperados.
+
+
+   27. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As principais funções do estoque é/são:
+a) garantir o abastecimento de materiais da empresa e proporcionar economias de escala.
+b) garantir o lucro total da empresa e comprar todos os materiais disponíveis.
+c) produzir e vender o máximo de produtos e ter o faturamento mais alto possível.
+d) estabelecer os níveis de estoque adequados ao abastecimento dos clientes e serviços.
+e) controlar todos os materiais comprados e informar ao setor “contas a pagar” a data para o
+pagamento da fatura.
+Comentários:
+A alternativa A está correta e é o gabarito da questão. Sempre garantir o abastecimento das
+áreas internas demandantes e, de preferência, garantindo ganhos advindos da economia de
+escala são duas das principais funções dos estoques.
+A alternativa B está incorreta. Estoques não têm como função comprar materiais. Quem faz isso é
+a área de compras. Não há também como garantir o lucro total da empresa. O estoque apenas
+colabora com esse processo.
+A alternativa C está incorreta. O estoque não vende produtos. Essa é uma atribuição da área
+comercial.
+A alternativa D está incorreta. Não é o setor de estoque que estabelece os níveis adequados de
+abastecimento, mas sim garante que esses níveis, pré definidos, sejam sempre atendidos.
+A alternativa E está incorreta. Não é o setor de estoques que informa datas ou demais
+procedimentos contábeis/financeiros.
+
+
+   28. (VUNESP/TJ-SP/Administrador Judiciário/2019) Para a adequada aplicação de técnicas
+       de previsões, é importante identificar a sua natureza. Quando são observados
+       produtos que estão entrando ou saindo de uma linha de produção, que são
+       procurados por poucos clientes, divididos, entre um número excessivo de localizações
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             35
+        www.estrategiaconcursos.com.br                                                         67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+       de tal forma que a demanda em cada uma delas é baixa, sendo considerada
+       intermitente. Essa natureza é classificada como demanda:
+a) independente.
+b) temporal.
+c) dependente.
+d) irregular.
+e) espacial.
+Comentários:
+A alternativa A está incorreta. Quando o material ou produto tem procura baixa e por poucos
+clientes, dividida em diferentes localizações e de caráter intermitente, é considerada irregular e
+não independente.
+A alternativa B está incorreta. Quando o material ou produto tem procura baixa e por poucos
+clientes, dividida em diferentes localizações e de caráter intermitente, é considerada irregular e
+não temporal.
+A alternativa C está incorreta. Quando o material ou produto tem procura baixa e por poucos
+clientes, dividida em diferentes localizações e de caráter intermitente, é considerada irregular e
+não dependente.
+A alternativa D está correta e é o gabarito da questão. Quando o material ou produto tem
+procura baixa e por poucos clientes, dividida em diferentes localizações e de caráter intermitente,
+é considerada irregular.
+A alternativa E está incorreta. Quando o material ou produto tem procura baixa e por poucos
+clientes, dividida em diferentes localizações e de caráter intermitente, é considerada irregular e
+não espacial.
+
+
+   29. (VUNESP/UFABC/Assistente de Administração/2019) Estoque de contingência é o
+       estoque:
+a) de produtos que não tiveram saída em determinado período.
+b) mantido para suprir prováveis situações não previstas no sistema.
+c) composto por produtos que ainda se encontram pendentes, como o de matérias-primas ou
+semiacabados.
+d) de produtos que estão em trânsito, em vias de entrega pelos fornecedores.
+e) composto pela quantidade máxima de produtos armazenados por um determinado período.
+Comentários:
+A alternativa A está incorreta. O estoque de contingência não tem relação com a saída dos
+produtos ao longo de qualquer período.
+A alternativa B está correta e é o gabarito da questão. O estoque de contingência, de segurança
+ou mínimo é o "seguro" que tem a organização para reduzir as chances de que alterações nas
+variáveis de demanda e entrega de fornecedores afetem a produção da organização.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais              36
+        www.estrategiaconcursos.com.br                                                          67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa C está incorreta. O estoque de contingência também não tem relação com o
+estágio de produção em que se encontram os produtos.
+A alternativa D está incorreta. O estoque de contingência não se refere a produtos em trânsito,
+mas sim a material que será empregado no processo de transformação.
+A alternativa E está incorreta. O estoque de contingência não se refere a quantidade máxima de
+produtos, mas sim a um volume mínimo que traga segurança à organização em relação às
+variações de demanda ou do processo de entrega de seus fornecedores.
+
+
+   30. (VUNESP/CM Itatiba-SP/Almoxarife/2015) O estoque funciona como:
+a) um suporte para que seja atingido o lucro máximo da empresa.
+b) um “pulmão” para que o financeiro consiga receber todas as vendas efetuadas.
+c) uma quantidade máxima para se atingir o mínimo de produção e serviços.
+d) um amortecedor entre os vários estágios da produção até a venda final do produto.
+e) uma quantidade excedente para cobrir falhas das vendas.
+Comentários:
+A alternativa A está incorreta. Os estoques tem muito mais relação com custos do que com o
+lucro, dessa forma devem ser minimizados e usados na medida exata, de acordo com as
+previsões e planejamentos realizados.
+A alternativa B está incorreta. Estoques não tem relação direta com os recebimentos do
+financeiro.
+A alternativa C está incorreta. A relação criada entre estoques e produção na alternativa não faz
+sentido e é a inversa da que é buscada: estoques mínimos e produção máxima.
+A alternativa D está correta e é o gabarito da questão. Exatamente. O estoque, ao longo da
+produção, vai minimizando os atritos resultantes de alteração na demanda prevista, planejamento
+realizado, entregas de material diferentes do combinado, etc. Regula a cadeia de produção e não
+permite que ela pare por mudança nas variáveis que influenciam o processo.
+A alternativa E está incorreta. O conceito de quantidade excedente faz sentido, mas não para
+cobrir falhas nas vendas e sim para minimizar o impacto causado por falhas nas entregas ou no
+processo de compras ou ainda um aumento inesperado de demanda ou outra variável que
+aumente o volume previsto de produção.
+
+
+   31. (VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015) O estoque de
+       segurança é definido como:
+a) uma quantidade para abastecer os setores improdutivos da empresa ou serviços.
+b) uma quantidade em estoque obrigatória e prevista em orçamento de vendas.
+c) um procedimento comum em todas as empresas, para cobrir o estoque virtual.
+d) uma quantidade excedente que visa cobrir o estoque virtual da empresa.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            37
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+e) uma quantidade excedente, só sendo consumido em caso de necessidade.
+Comentários:
+A alternativa A está incorreta. Estoque de segurança não se restringe ao abastecimento de
+setores improdutivos. Não tem relação com isso.
+A alternativa B está incorreta. O estoque de segurança não tem caráter de obrigatoriedade mas
+é, sim, recomendável.
+A alternativa C está incorreta. Não há relação direta do estoque de segurança com o estoque
+virtual.
+A alternativa D está incorreta. É mesmo uma quantidade excedente, mas não serve para cobrir o
+estoque virtual da organização mas sim para reduzir as chances que variáveis de demanda e
+entrega de fornecedores afetem a produção da organização.
+A alternativa E está correta e é o gabarito da questão. O estoque de contingência ou de
+segurança ou mínimo é o "seguro" que tem a organização para reduzir as chances que variáveis
+de demanda e entrega de fornecedores afetem a produção da organização. É mesmo composto
+por uma quantidade excedente, só sendo consumido em caso de necessidade.
+
+
+   32. (FCC/DPE-AM/Analista em Gestão/2018) A literatura define estoque como a
+       acumulação armazenada de materiais em um sistema de transformação. Em uma
+       organização do setor público, corresponde ao somatório de materiais que
+       permanecem reservados para uso oportuno. Os estoques devem sempre ser
+       corretamente dimensionados, eis que sua manutenção é onerosa, importando, entre
+       outros custos, os:
+a) independentes do nível de estoque médio, tal como os custos de pedido.
+b) inversamente proporcionais ao seu nível médio, tal como o custo de depreciação.
+c) diretamente proporcionais ao seu nível médio, tal como o custo de perdas.
+d) de oportunidade, que se relacionam com o valor financeiro dos itens.
+e)de predileção, relacionados com aspectos psicológicos e culturais inerentes ao gerenciamento.
+Comentário:
+A alternativa A está incorreta. O custo de manutenção dos estoques está sim relacionado ao nível
+de estoque médio. Quanto maior o nível médio, maior o custo. Em relação aos custos do pedido,
+quanto maior o volume, menor o custo unitário.
+A alternativa B está incorreta. Ao contrário. Quanto maior o nível médio, maior o custo.
+A alternativa C está correta e é o gabarito da questão. O custo de perdas é mesmo proporcional
+ao volume dos estoques, ou seja, quanto maior o volume, provavelmente maior as perdas.
+A alternativa D está incorreta. Os custos de oportunidade não se relacionam com os valores
+financeiros dos itens, mas com sua disponibilidade no momento correto e com o "tamanho" e as
+consequências da oportunidade aproveitada ou desperdiçada.
+A alternativa E está incorreta. Não há relação com o tema. Predileção é uma técnica qualitativa
+de previsão de estoques.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           38
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   33. (FCC/DPE-AM/Analista em Gestão/2018) No que concerne ao controle e
+       gerenciamento de estoques, existem alguns indicadores ordinariamente utilizados,
+       entre os quais aquele hábil para aferir o percentual de requisições dos setores da
+       organização em relação ao total de requisições, denominado:
+a) nível de serviço.
+b) giro de estoque.
+c) índice de cobertura.
+d) ponto de intersecção.
+e) curva de kanban.
+Comentário:
+A alternativa A está correta e é o gabarito da questão. O Nível de Serviço nada mais é do que o
+percentual de pedidos/requisições de materiais que são atendidos de maneira satisfatória pela
+área de administração de materiais.
+A alternativa B está incorreta. O giro é um indicador de estoque que mede quantas vezes, em um
+determinado período, o estoque da empresa foi movimentado ou removido. É conhecido
+também como indicador de rotatividade. Pode-se concluir que quanto maior o giro, mais
+eficiente é a empresa em sua gestão de estoques. É calculado dividindo-se o valor consumido no
+período pelo estoque médio do período.
+A alternativa C está incorreta. A cobertura é o cálculo de quanto tempo o estoque suporta a
+demanda média da organização.
+A alternativa D está incorreta. Não tem qualquer relação com o tema.
+A alternativa E está incorreta. O Kanban é um sistema japonês de gestão de estoques que
+consiste na utilização de cartões pelos integrantes da linha de produção. É considerada uma
+ferramenta do sistema Just in Time portanto tem a velocidade do abastecimento também
+influenciada pela demanda real de produção. Não é disso que o examinador está falando.
+
+
+   34. (FCC/PGM Teresina/Técnico de Nível Superior/2016) No almoxarifado da Prefeitura
+       Municipal de Teresina, a demanda média semanal de envelopes é de 1.500 unidades,
+       onde o tempo médio para ressuprimento deste item é de duas semanas. Sabendo-se
+       que o seu ponto de reposição ocorre quando o nível de estoque atinge 4.000
+       unidades, o Estoque de Segurança de envelopes é de:
+a) 500 unidades.
+b) 1.500 unidades.
+c) 1.000 unidades.
+d) 2.000 unidades.
+e) 2.500 unidades.
+Comentário:
+A alternativa A está incorreta. Veja os comentários e a resolução na alternativa correta.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          39
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa B está incorreta. Veja os comentários e a resolução na alternativa correta.
+A alternativa C está correta e é o gabarito da questão. Vamos ao cálculo do estoque de
+segurança:
+
+        PP (Ponto do Pedido ou de Reposição) = CM (Consumo ou demanda média) x TR
+        (Tempo de reposição ou de ressuprimento) + ES (Estoque de segurança).
+        4.000 = 1.500 x 2 + ES <=> ES = 4.000-3.000 = 1.000
+
+A alternativa D está incorreta. Veja os comentários e a resolução na alternativa correta.
+A alternativa E está incorreta. Veja os comentários e a resolução na alternativa correta.
+
+
+   35. (CEBRASPE/ANS/Técnico Administrativo/2013) A demanda constante é explicada por
+       fatores como tendência, sazonalidade e periodicidade do consumo no mercado.
+a) CERTO
+b) ERRADO
+Comentários:
+A afirmativa está ERRADA.
+
+Demanda se refere à quantidade de um bem ou serviço que os consumidores desejam adquirir
+por um determinado preço. A demanda pode ser interpretada como procura, mas não
+necessariamente como consumo, uma vez que é possível querer e não consumir um bem ou
+serviço, por diversos motivos.
+
+Assim, se essa procura é regular e estável, temos uma demanda constante; é o caso, por
+exemplo, da demanda por carne. Se a procura é irregular e periódica, temos a demanda variável;
+é o exemplo da demanda por sorvetes no verão.
+
+Logo, é a demanda variável que é explicada por fatores como tendência, sazonalidade e
+periodicidade do consumo no mercado.
+
+   36. (CEBRASPE/ANS/Técnico Administrativo/2013) A demanda independente está
+       relacionada à demanda conhecida e controlada pela empresa, intimamente vinculada,
+       entretanto, às variações de mercado e dos custos de produção.
+a) CERTO
+b) ERRADO
+Comentários:
+A afirmativa está ERRADA.
+
+De acordo com sua natureza, a                        demanda        pode      ser    classificada   em demanda
+independente e demanda dependente.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                          40
+        www.estrategiaconcursos.com.br                                                                      67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A demanda independente é a demanda que não pode ser calculada, pois são geralmente os
+itens mais altos da estrutura de produto e, por este motivo, esta demanda deve ser prevista. Por
+exemplo, em uma montadora a demanda independente é a demanda pelo produto acabado, ou
+seja, pelo veículo pronto na configuração final exigida pelo cliente.
+
+Já a demanda dependente é a que pode ser derivada através de cálculo. Por exemplo, no caso
+da montadora de veículos não é necessário fazer previsões para a quantidade de pneus, pois esta
+quantidade será calculada com uso do MRP a partir da quantidade de veículos que serão
+montados (demanda independente). É a demanda que está sob o controle do planejador de
+produção.
+
+Por fim, é importante destacar que, conforme um item é tratado, ele pode ser visto como
+demanda dependente ou demanda independente. Por exemplo, em uma fábrica de ventiladores,
+quando a hélice é utilizada como peça na linha de montagem, é considerada demanda
+dependente, mas quando é utilizada como peça de reposição, vendida separadamente para a
+rede de assistência técnica, é considerada demanda independente.
+
+    37. (CEBRASPE/IFF/Administrador/2018) O gráfico seguinte representa a curva dente de
+        serra de um item dentro de um sistema de estoque. No gráfico, o ponto de pedido é
+        representado pelos pontos:
+
+a) II e III.
+b) IV e VI.
+c) IV e VIII.
+d) VI e X.
+e) VII e XI.
+Comentários:
+Boa questão para discutirmos o gráfico trazido pela banca.
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais          41
+         www.estrategiaconcursos.com.br                                                      67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Os pontos I, V, IX e XIII na primeira linha horizontal de cima para baixo representam os estoques
+máximos, atingidos sempre após as reposições, representadas por cada uma das linhas verticais,
+de baixo para cima, após realização de pedidos em pontos anteriores que veremos abaixo.
+A segunda linha horizontal de cima para baixo representa exatamente os pontos de pedido
+(considerando que a terceira linha é a linha do estoque de segurança). Os pontos II, IV, VI, VIII, X
+e XII são os encontros da linha de volume de material disponível com a linha que indica o
+momento do pedido. Quando está descendo significa que é a hora de realizar o pedido (II, VI e
+X) e quando está subindo significa que é um momento de reposição de estoques.
+A terceira linha horizontal de cima para baixo representa o estoque mínimo, que é atingido nos
+pontos VII e XI.
+Por fim, o eixo x ou quarta linha horizontal de cima para baixo representa o final dos estoques ou
+a chamada quebra de estoques, atingida no ponto III.
+O gráfico deve ser lido da seguinte maneira: o estoque vai diminuindo até atingir o momento do
+pedido (2a linha horizontal). Nesse momento material adicional é solicitado. Enquanto ele não
+chega o consumo do material disponível continua, as vezes atingindo o estoque mínimo (terceira
+linha) ou mesmo ocasionando o fim dos estoques e possível parada na produção (quarta linha).
+Quando o material solicitado é entregue o nível de estoques sobe novamente até a primeira linha
+horizontal, no alto.
+Dessa forma, os pontos de pedido são os pontos II, VI e X e apenas a alternativa D está correta.
+A alternativa D está correta e é o gabarito da questão.
+
+
+   38. (CEBRASPE/TRT 8a Região/Técnico Judiciário/2016) Assinale a opção que apresenta
+       tipos de dados necessários para o cálculo do ponto de pedido, ou seja, a quantidade
+       de estoque que, quando alcançada, indica o momento de providenciar um novo
+       pedido de compra.
+a) consumo médio mensal, estoque máximo e tempo de reposição.
+b) tempo de reposição, estoque mínimo e giro de estoque.
+c) consumo médio mensal, giro de estoque e estoque segurança.
+d) tempo de reposição, giro de estoque e estoque máximo.
+e) consumo médio mensal, tempo de reposição e estoque mínimo.
+Comentários:
+O Ponto de Pedido é calculado por meio da seguinte fórmula: Consumo Médio Mensal x Tempo
+de Reposição + Estoque Mínimo ou:
+
+                                               PP = C x TR + EM
+
+A alternativa E está correta e é o gabarito da questão.
+
+Veja abaixo um exemplo de aplicação do cálculo:
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais               42
+        www.estrategiaconcursos.com.br                                                           67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Se um material apresenta consumo quinzenal de 60 unidades, estoque mínimo de um mês e
+tempo de reposição de 45 dias e não há pedidos pendentes de atendimento, então qual o seu
+ponto de pedido?
+
+Aplicando a fórmula, temos:
+
+Consumo médio mensal = 60 x 2 = 120 (transformando em mês)
+
+Tempo de reposição = 45/30 = 1,5 (transformando em mês)
+
+Estoque mínimo = 120 (estoque de 1 mês)
+
+PP = 120 x 1,5 + 120 = 300
+
+Assim, quando o estoque estiver com 300 unidades, um novo pedido deve ser feito.
+
+   39. (QUADRIX/CREF20-CE/Assistente Administrativo/2019) Julgue o item. Os estoques
+       possuem a função de proteção dos atrasos no recebimento das mercadorias.
+a) Certo
+b) Errado
+Comentários:
+A afirmativa está CORRETA.
+Sim. O estoque tem uma função "lubrificante". Note que nesta definição de "lubrificante" os
+estoques são diretamente responsáveis por várias funções, tais como as abaixo. Veja que todas
+elas são "resolvedoras de conflitos" entre áreas ou atores com objetivos conflitantes:
+            ● Absorver diferenças entre oferta e demanda.
+            ● Atender demanda dos clientes por produtos acabados entre os ciclos de produção.
+            ● Atender a demanda variável por insumos na organização, permitindo seu
+              abastecimento.
+            ● Manter a produção funcionando mesmo com o atraso de entrega de fornecedores.
+            ● Proporcionar ganhos financeiros para a organização e evitar perdas.
+
+
+   40. (QUADRIX/CRM AC/Assistente Administrativo/2019) Julgue o item. Por meio do
+       método da média móvel, a previsão de consumo de materiais gerada será menor que
+       os valores verificados se o padrão de consumo for decrescente.
+a) Certo
+b) Errado
+Comentários:
+A afirmativa está ERRADA.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         43
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Ao contrário, como a tendência é decrescente e no método da média móvel não se adota
+ponderações entre os diferentes períodos, a previsão gerada possivelmente será superestimada,
+ou seja, maior do que que os valores verificados.
+Para sanar esse problema, no método da média móvel ponderada atribui-se maior importância
+aos períodos mais recentes, procurando capturar a tendência observada, seja ela de retração ou
+expansão do volume.
+
+
+   41. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) Quanto à gestão de estoques,
+       julgue o item. Os custos de pedido aumentam na mesma proporção do aumento da
+       quantidade média de produtos no estoque.
+a) Certo
+b) Errado
+Comentários:
+A afirmativa está ERRADA.
+Os custos dos pedidos não aumentam proporcionalmente ao volume do próprio pedido. Eles
+tendem a variar pouco em relação a essa variável específica.
+Dessa forma, a análise deve ser exatamente a inversa, ou seja, quanto maior o pedido (em
+volume), menor será o custo (do pedido) por unidade adquirida, pois o custo do pedido não
+tende a crescer na mesma proporção do volume.
+Nesse contexto, cada unidade adquirida em um lote maior terá um custo de pedido menor, se
+comparado a pedidos de quantidades mais baixas.
+
+
+   42. (FGV/CM-Salvador/Analista Legislativo Municipal/2018) Um posto de saúde precisa ter
+       uma forma de gerenciar seus estoques de medicamentos, para atender melhor seus
+       cidadãos. Em relação à gestão de estoques, é correto afirmar que:
+a) o estoque de segurança ou isolador é indicado quando houver alta previsibilidade entre oferta
+e demanda do material estocado;
+b) o estoque de ciclo ocorre quando um ou mais estágios na operação conseguem fornecer
+simultaneamente todos os itens necessários;
+c) o estoque de antecipação é o mais comumente usado quando as flutuações de demanda são
+significativas, mas relativamente previsíveis;
+d) o estoque no canal de distribuição ocorre quando a matéria-prima chega à fábrica por meio de
+dutos;
+e) o estoque é criado para aumentar as diferenças de ritmo entre demanda e fornecimento.
+Comentário:
+A alternativa A está incorreta. Ao contrário, o estoque de segurança é indicado quando houver
+baixa previsibilidade entre oferta e demanda do material estocado, destinando-se a cobrir
+eventuais imprevisibilidades de consumo ou atrasos no suprimento, objetivando, assim, a
+continuidade do funcionamento do processo produtivo.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           44
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa B está incorreta. Também ao contrário, o estoque de ciclo ocorre quando um ou
+mais estágios na operação não conseguem fornecer simultaneamente todos os itens necessários.
+Segundo Slack, Chambers e Johnst "O estoque de ciclo ocorre porque um ou mais estágios na
+operação não podem fornecer todos os itens que produzem."
+
+A alternativa C está correta e é o gabarito da questão. Os estoques de antecipação são criados
+antecipando-se uma demanda futura como, por exemplo, uma época de pico de vendas
+(sazonalidade), um programa de promoções, férias coletivas ou ameaça de greve, etc. Procuram
+auxiliar o nivelamento da produção.
+
+A alternativa D está incorreta. O estoque no canal de distribuição ocorre quando a matéria-prima
+não pode ser transportada instantaneamente. De acordo com Slack, Chambers e Johnst:
+"Estoques no canal existem porque o material não pode ser transportado instantaneamente entre
+o ponto de fornecimento e o ponto de demanda".
+
+A alternativa E está incorreta. Ao contrário, os estoques são criados para diminuir as diferenças
+de ritmo entre demanda e fornecimento. É o chamado efeito lubrificante dos estoques, na
+prática.
+
+
+   43. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema de
+       reposição contínua para o estoque de resmas de papel. O montante anual despendido
+       com o material permite que as aquisições sejam efetuadas por compra direta, e o
+       custo de pedido é de R$ 80,00. O consumo mensal de resmas é, em média, de 100
+       unidades, o estoque de segurança é de 40 unidades e o tempo de ressuprimento é de
+       nove dias corridos. Na situação descrita, o ponto de pedido é (considere que um mês
+       tem 30 dias):
+a) 40 unidades;
+b) 60 unidades;
+c) 65 unidades;
+d) 70 unidades;
+e) 72 unidades.
+Comentário:
+A alternativa D está correta e é o gabarito da questão. Vamos as contas:
+PP = CM x TR + ES
+CM = 100 unidades/mês ou 3,33/dia
+TR = 9 dias
+ES = 40 unidades
+Logo, PP = 3,33 x 9 + 40 = 70
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            45
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   44. (FGV/CM Salvador/Analista Legislativo Municipal/2018) A definição de estoque pode
+       ser dada como a acumulação armazenada de materiais em um sistema de
+       transformação. Um dos métodos para a sua reposição é o de previsão de demanda. A
+       técnica de previsão de demanda realizada por meio de informações qualitativas é
+       definida como:
+a) explicação;
+b) predileção;
+c) projeção;
+d) ponderação;
+e) mínimos quadrados.
+Comentário:
+A alternativa A está incorreta. Na explicação acrescentam-se fatores diversos ao consumo real.
+Exemplos: variações do PIB, do salário mínimo, taxas de crescimento ou desemprego etc. Usa
+técnicas quantitativas no cálculo da demanda, inclusive recursos como regressão e correlação.
+A alternativa B está correta e é o gabarito da questão. A predileção é composta pelo emprego
+de técnicas qualitativas como a opinião de funcionários, especialistas, analistas ou consultores.
+Com base nessas percepções de mercados e de tendências faz-se o cálculo da demanda.
+A alternativa C está incorreta. No método da projeção a quantidade consumida no passado ou as
+tendências passadas permanecerão as mesmas, ou seja, se o volume consumido cresceu 10% nos
+últimos 12 meses, projeta-se que para os próximos 12 meses crescerá novamente 10%. Nesse
+caso a técnica é essencialmente quantitativa.
+A alternativa D está incorreta. A ponderação é uma ferramenta usada para calcular a média
+móvel e minimizar os desvios gerados pela tendência do consumo.
+A alternativa E está incorreta. Método usado para determinar a melhor linha de ajuste que passa
+mais perto de todos os dados coletados, ou seja, é a linha de melhor ajuste que minimiza
+diferenças entre a linha reta e cada ponto de consumo levantado.
+
+
+   45. (FGV/Pref. Salvador/Técnico/2017) Com relação à gestão de estoques e ao lote
+       econômico de compras (LEC), analise as afirmativas a seguir.
+I. O trade-off entre o custo do excesso e o custo da falta é a chave para parametrização da
+política de gestão de estoques.
+II. Quanto maior o custo de excesso de um produto em relação ao custo da sua falta, menor
+deve ser o estoque de segurança.
+III. A metodologia LEC permite gerenciar, de maneira adequada e segura, uma demanda variada
+de insumos.
+Está correto o que se afirma em:
+a) I, somente.
+b) II, somente.
+c) III, somente.
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            46
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+   Ricardo Campanario
+   Aula 03
+
+d) I e II, somente.
+e) I, II e III.
+Comentário:
+Vamos avaliar cada uma das afirmativas antes de buscar a alternativa correta:
+I. O trade-off entre o custo do excesso e o custo da falta é a chave para parametrização da
+política de gestão de estoques - CORRETO. A política de gestão de estoques terá como norte
+justamente encontrar o meio termo entre o excesso (custos) e a falta (riscos à produção) de
+estoques de materiais ou matérias primas demandadas.
+II. Quanto maior o custo de excesso de um produto em relação ao custo da sua falta, menor deve
+ser o estoque de segurança - CORRETO. O nível do estoque de segurança certamente vai variar
+para baixo conforme o custo de seu excesso supere o risco de sua falta, e vice versa.
+III. A metodologia LEC permite gerenciar, de maneira adequada e segura, uma demanda variada
+de insumos - ERRADA. O LEC concentra-se na avaliação individual dos insumos, considerando
+custos como os de armazenagem e do pedido, sempre do item em questão.
+Dessa forma temos I (V), II (V) e III (F)
+A alternativa D está correta e é o gabarito da questão.
+
+
+    46. (FAFIPA/UNIFLOR/Auxiliar Administrativo/2016) O controle de materiais no ambiente
+        de trabalho requer planejamento e organização. A partir dessa premissa, assinale a
+        alternativa que corresponde ao estoque mínimo:
+a) O estoque mínimo corresponde ao estoque de contingência, adicionado ao lote de compra.
+b) O estoque mínimo trata-se de uma reserva com uma quantidade mínima de produtos que é
+mantida para ser utilizada no caso de atraso na reposição por parte do fornecedor e tem a
+finalidade de garantir que o produto não irá faltar.
+c) O estoque mínimo é a quantidade mínima de produtos predeterminada para o impedimento
+de novas compras, quer por motivo de espaço ou por razões financeiras.
+d) O estoque mínimo são as quantidades de materiais solicitadas no pedido de compra para
+reposição do estoque de materiais.
+Comentários:
+A alternativa A está incorreta. O estoque de contingência é utilizado para cobrir potenciais falha
+no sistema de estoque, evitando assim que o cliente fique sem o item desejado. Normalmente,
+em períodos de maior venda são mantidos os estoques de contingência. Não é o estoque
+mínimo.
+A alternativa B está correta e é o gabarito da questão. O estoque mínimo ou de segurança faz
+parte, por exemplo, do sistema de máximos e mínimos do controle de estoque: nessa
+metodologia o sistema de reposição é automático. Tem-se um volume de estoques mais um
+estoque de segurança. Tão logo o nível de segurança é atingido deve ser recebido um novo lote
+de material, evitando o consumo do estoque mínimo (ou de segurança). Esse volume de
+segurança serve como um colchão e suporta as demandas da organização enquanto a nova
+remessa de material não é entregue ou a demanda sofre eventuais variações inesperadas.
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          47
+           www.estrategiaconcursos.com.br                                                      67
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A alternativa C está incorreta. O estoque mínimo não tem relação com impedimento de novas
+compras. Ao contrário, muitas vezes ao ser atingido, é o gatilho que dispara o pedido de novas
+encomendas.
+A alternativa D está incorreta. As quantidades de materiais solicitadas no pedido de compra para
+reposição do estoque de materiais formam o pedido do cliente e não o seu estoque mínimo.
+
+
+   47. (ZAMBINI/PRODESP/Analista em Gestão/2010) Assinale a alternativa INCORRETA.
+       Estão dentre as vantagens do estoque:
+a) assegurar um suprimento adequado de matéria prima e outros itens.
+b) definir lotes de compra e/ou períodos de compra.
+c) absorver flutuações de demanda.
+d) utilizar itens pouco usados ou obsoletos para a manufatura de novos produtos.
+e) pronta entrega.
+Comentários:
+A alternativa A está incorreta. Assegurar suprimentos adequados no momento e local em que
+são solicitados é uma das principais funções e vantagens de uma atividade de estoque bem
+executada.
+A alternativa B está incorreta. A definição dos lotes e períodos de compra permite à organização
+ampliar seu nível de eficiência ao longo da cadeia de gestão de materiais.
+A alternativa C está incorreta. É outra função típica dos estoques, permitindo que a empresa
+mantenha sua função produtiva mesmo nos momentos de variação da demanda ou mesmo
+problemas com entregas de fornecedores.
+A alternativa D está correta e é o gabarito da questão. Prover aos solicitantes itens usados ou
+obsoletos para a manufatura de produtos não é o esperado do estoque de uma organização, mas
+sim itens novos e de acordo com as especificações esperadas pela área de produção.
+A alternativa E está incorreta. Por outro lado, prover aos solicitantes itens na forma de pronta
+entrega é um grande ativo que estoques bem estruturados podem oferecer à organização em
+que atuam.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            48
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+                                          LISTA DE QUESTÕES
+
+      1. (MP-PR/Auxiliar Administrativo/Instituto AOCP/2024)
+
+Como auxiliar administrativo do Ministério Público do Estado do Paraná, você é responsável pelo
+reabastecimento de material de expediente junto ao almoxarifado. Nesse sentido, considere os
+dados a seguir e assinale a alternativa que apresenta o valor da média móvel ponderada para o
+ano 5.
+
+(A)    66,15.
+
+(B)    65,78.
+
+(C) 64,35.
+
+(D) 62,24.
+
+(E) 60,45.
+
+      2. (CÂMARA DE MACEIÓ/ANALISTA ADMINISTRATIVO/CEBRASPE/2024)
+
+Minimizar o estoque de segurança significa reduzir ao máximo a imobilização de capital, o que
+possibilita o surgimento de riscos de ruptura de estoque.
+
+
+      3. (CÂMARA DE MACEIÓ/ANALISTA ADMINISTRATIVO/CEBRASPE/2024)
+
+O dimensionamento do estoque de segurança resume-se aos seguintes fatores: tempo médio de
+tramitação do processo de aquisição do material; perecibilidade do material; volume do
+material; e impacto financeiro na organização.
+
+          Receita Federal (Analista Tributário) Administração de Compras e Materiais        49
+          www.estrategiaconcursos.com.br                                                    67
+
+                                      
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Julgue os itens que se seguem, acerca da gestão de estoques.
+
+   4. (CEBRASPE/INPI/2024)
+
+Denominam-se estoques ocasionais as quantidades de produtos adquiridas em excesso no
+período de baixas de vendas para permitir a regularidade do atendimento à demanda nos
+períodos de alta previstos ao longo do ano.
+
+
+   5. (CEBRASPE/INPI/2024)
+
+O giro dos estoques é definido como o número de dias que um produto leva para sair do
+estoque.
+
+Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+
+   6. (CEBRASPE/CAPES/2024)
+
+Uma das funções dos estoques é proteger as organizações de eventuais oscilações de demanda,
+embora eles não possam salvaguardá-las das oscilações do mercado.
+
+   7. (CEBRASPE/CAPES/2024)
+
+Os custos de falta de estoque ocorrem quando o estoque mantido é inferior à demanda, o que
+acarreta a falta do item no momento de sua necessidade.
+
+   8. (CEBRASPE/CAPES/2024)
+
+Os custos de riscos de estoques estão associados a potenciais perdas, furtos, roubos e avarias.
+
+
+   9. (CEBRASPE (CESPE)/CNPq/2023)
+
+No que se refere à gestão de insumos, julgue os itens a seguir.
+
+O conceito de estoques de segurança não se aplica a empresa que utilize o sistema de
+reposições periódicas para o planejamento e a manutenção de seus níveis de estoque.
+
+   10. (CEBRASPE (CESPE)/CNPq/2023)
+
+Acerca da armazenagem, da gestão de estoques e da gestão de transportes, julgue os itens
+subsequentes.
+
+O custo de aquisição de estoques corresponde ao custo de capital para manter a mercadoria
+somado ao custo de ocupação do espaço no armazém.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                50
+        www.estrategiaconcursos.com.br                                                            67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   11. (VUNESP/Pref Pindamonhangaba/2023)
+
+Segundo Chiavenato (2014), uma das principais funções do estoque tem como objetivo garantir
+o abastecimento de materiais à empresa, neutralizando os efeitos de
+a) revisão do custo de estocagem, menor risco de perdas e obsolescência e melhores condições
+de compra e descontos.
+b) otimização dos espaços de armazenamento, elasticidade do processo produtivo e aumento
+do capital de giro.
+c) reabastecimento de matéria prima, previsão de consumo mensal e produção em lotes
+econômicos.
+d) revisão do tempo padrão de produção, erros de planejamento e controle do estoque de
+produtos acabados.
+e) demora ou atraso no fornecimento de materiais, sazonalidade no suprimento e riscos de
+dificuldade no fornecimento.
+
+
+   12. (VUNESP/Pref Peruíbe/2023)
+
+O tipo de estoque utilizado pela organização para prevenir- se contra eventualidades que
+envolvem especulações de mercado, como greves, aumento de preços, instabilidade em
+situação econômica ou política, ambiente inflacionário ou imprevisível é o de
+a) antecipação.
+b) proteção.
+c) flutuação.
+d) ciclo.
+e) sazonalidade.
+
+
+   13. (VUNESP/EsFCEx/Administração/2023)
+
+Na gestão de estoques, em casos de significativa diferença entre a previsão de consumo e o
+consumo efetivo no período anterior, o método de previsão da demanda mais recomendado é
+denominado
+a) média ponderada.
+b) média aritmética simples ou média móvel.
+c) média móvel exponencialmente ponderada.
+d) último período.
+e) mínimos quadrados.
+
+
+   14. (FGV/DPE RS/Apoio Especializado/Logística/2023)
+
+A série histórica do consumo mensal de determinado material utilizado por uma empresa é dada
+pelos meses de M1 a M6, conforme a sequência: M1 = 5.500, M2 = 5.800, M3 = 5.200, M4 =
+5.400, M5 = 6.000 e M6 = 5.400.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais        51
+        www.estrategiaconcursos.com.br                                                    67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+A previsão de demanda para o período M7, utilizando a média móvel para os últimos 3 meses,
+será de:
+
+a) 5.400 unidades;
+b) 5.450 unidades;
+c) 5.500 unidades;
+d) 5.550 unidades;
+e) 5.600 unidades.
+
+   15. (FGV/ALEMA/Agente Legislativo/2023)
+
+Em uma empresa pública responsável por realizar a administração portuária, o estoque de
+determinada peça de manutenção é consumido na razão de 1.000 unidades por mês, sendo o
+seu tempo de reposição de 2 meses.
+
+Considerando que o estoque mínimo exigido para essa peça equivale a 1 mês de consumo, o
+ponto do pedido (ressuprimento) será de
+
+a) nenhuma unidade.
+b) 1000 unidades.
+c) 2000 unidades.
+d) 3000 unidades.
+e) 4000 unidades.
+
+   16. (FGV/ALEMA/Agente Legislativo/2023)
+
+No caso de uma empresa operar em um mercado consumidor de alta sazonalidade, a exemplo
+do mercado de chocolates, que atinge picos de venda em datas festivas, é adequado o uso do
+estoque
+
+a) em trânsito.
+b) de antecipação.
+c) de desacoplamento.
+d) ponderado.
+e) por just-in-time.
+
+   17. (FGV/DPE RS/Administrativa/Administração/2023)
+
+Um hospital adota sistema de reposição contínua para o estoque de determinado material
+cirúrgico. O consumo desse material é de 300 unidades por mês. As compras são feitas em lotes
+de 1.000 unidades e o tempo de ressuprimento do material é de 15 dias. Como se trata de um
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         52
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+material crítico para a realização das cirurgias, o hospital mantém um estoque de segurança de
+100 unidades do material.
+
+Na situação descrita, o estoque máximo, o estoque médio e o ponto de pedido (considere que
+um mês tem 30 dias) são, respectivamente:
+
+a) 1.000 unidades; 500 unidades; 200 unidades;
+b) 1.000 unidades; 550 unidades; 200 unidades;
+c) 1.100 unidades; 600 unidades; 250 unidades;
+d) 1.100 unidades; 550 unidades; 250 unidades;
+e) 1.100 unidades; 600 unidades; 200 unidades.
+
+   18. (FGV/ALEMA/Administrador/2023)
+
+A gestão de estoques constitui uma série de ações que permitem ao administrador verificar se
+os estoques estão sendo bem utilizados, bem localizados em relação aos setores que deles se
+utilizam, bem manuseados e bem controlados.
+A tabela abaixo é utilizada pela empresa XYZ para controlar os seus estoques:
+
+                        Mês Estoque Inicial Entradas Saídas Estoque Final
+                        Jan    150                  350          200      300
+                        Fev    300                  50           250      100
+                        Mar 100                     200          250      50
+                        Abril 50                    400          150      300
+                        Maio 300                    150          300      150
+
+Assinale a opção que informa corretamente o número aproximado de vezes em que o estoque
+girou de janeiro a maio.
+
+a) 3,4 vezes.
+b) 4,7 vezes.
+c) 5,2 vezes.
+d) 6,4 vezes.
+e) 7,1 vezes.
+
+
+   19. (FGV/ALEMA/Agente Legislativo/2023)
+
+Uma empresa maranhense de turbinas de geração eólica vendeu 100 turbinas em 2021 e 130 em
+2022.
+
+Caso ela utilize a projeção como modelo de previsão de demanda de materiais, deve esperar
+vender, em 2023,
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          53
+        www.estrategiaconcursos.com.br                                                      67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+a) 100 turbinas.
+b) 115 turbinas.
+c) 130 turbinas.
+d) 160 turbinas.
+e) 169 turbinas.
+
+
+   20. (QUADRIX/CRM MG/2023)
+
+A respeito da administração de materiais, assinale a alternativa correta.
+a) É desnecessária a centralização das compras em um setor de compras sob a direção e a
+responsabilidade de um especialista, com rotinas de procedimento bem claras e definidas.
+b) É ineficaz o desenvolvimento de um sistema de controle que demonstre o custo dos materiais
+em cada estágio, desde o almoxarifado de matéria-prima até o almoxarifado de produtos
+acabados.
+c) É desnecessária a determinação de limites, mínimos e máximos, para cada item do estoque.
+d) É necessária a emissão regular de relatórios de materiais comprados e entregues, de saldos,
+de itens obsoletos, de devoluções a fornecedores e de registro de toda e qualquer informação
+que se faça necessária para uma correta avaliação do desempenho.
+e) É desnecessário o estabelecimento de um sistema de inventário rotativo, que possibilite, a
+qualquer momento, a determinação do valor de cada item e do total de materiais em estoque.
+
+
+   21. (QUADRIX/Pref Alto P de Goiás/Administrativo/2023)
+
+A respeito da gestão de estoques, assinale a alternativa correta.
+a) Sempre é possível repor os itens de estoque em um prazo curto e confiável de tempo.
+b) Os custos de manutenção de estoques não devem ser considerados. O importante é ter à
+disposição os produtos de que se necessita quando ocorrer sua demanda.
+c) A necessidade de estoque existe porque não é possível prever, com exatidão, o modo como
+ocorrerá o consumo de materiais, que oscila conforme a demanda pelos serviços da organização.
+d) Não há a necessidade de se manter um plano de seguro contra acidentes ou desastres para
+os itens estocados se eles forem manuseados com zelo e cuidados.
+e) Com a gestão do estoque, que deve ser balanceado em função dos custos, nunca há conflito
+de interesses entre os diversos setores da instituição que utilizam os produtos.
+
+
+   22. (QUADRIX/CREFONO 2/2023)
+
+Em relação à administração de materiais, julgue o item.
+
+O ponto central da política de estoque é o custo de reposição.
+
+
+   23. (FCC/COPERGÁS/Administrador/2023)
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais         54
+        www.estrategiaconcursos.com.br                                                     67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+Um compressor de gás do modelo XYZ possui uma demanda média semanal de 120 unidades.
+Ao consultar os acordos negociados com o principal fornecedor, o analista concluiu que o lead
+time para ressuprimento desse item é de três semanas. Sabe-se que o ponto de reposição desse
+modelo de compressor é realizado quando esse item atinge 400 unidades no estoque. Sendo
+assim, o Estoque de Segurança do compressor XYZ é de
+a) 80 unidades.
+b) 40 unidades.
+c) 120 unidades.
+d) 60 unidades.
+e) 360 unidades.
+
+
+   24. (CEBRASPE (CESPE)/CNMP/Apoio Técnico Administrativo/Administração/2023)
+
+Acerca da gestão de estoques, julgue o item a seguir.
+
+O tempo de elaborar e confirmar o pedido junto ao fornecedor não é considerado para o cálculo
+do tempo de reposição.
+
+
+   25. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+O aspecto mais importante a ser considerado na decisão sobre a manutenção de grandes
+volumes de estoques de matéria prima é o custo financeiro.
+
+   26. (CEBRASPE (CESPE)/PETROBRAS/Logística de Transporte/Controle/2023)
+
+Acerca do controle de inventários e da decisão política de estoques, julgue o item seguinte.
+
+O inventário de segurança ou de reserva é o tipo de inventário de estoque recomendável para
+registrar os estoques de estabilidade da empresa com vistas a evitar quebras de estoques
+decorrentes de atrasos de fornecedores ou aumento inesperado de demandas.
+
+   27. (VUNESP/Pref. Poá-SP/Almoxarife/2015) As principais funções do estoque é/são:
+a) garantir o abastecimento de materiais da empresa e proporcionar economias de escala.
+b) garantir o lucro total da empresa e comprar todos os materiais disponíveis.
+c) produzir e vender o máximo de produtos e ter o faturamento mais alto possível.
+d) estabelecer os níveis de estoque adequados ao abastecimento dos clientes e serviços.
+e) controlar todos os materiais comprados e informar ao setor “contas a pagar” a data para o
+pagamento da fatura.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais             55
+        www.estrategiaconcursos.com.br                                                         67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   28. (VUNESP/TJ-SP/Administrador Judiciário/2019) Para a adequada aplicação de técnicas
+       de previsões, é importante identificar a sua natureza. Quando são observados
+       produtos que estão entrando ou saindo de uma linha de produção, que são
+       procurados por poucos clientes, divididos, entre um número excessivo de localizações
+       de tal forma que a demanda em cada uma delas é baixa, sendo considerada
+       intermitente. Essa natureza é classificada como demanda:
+a) independente.
+b) temporal.
+c) dependente.
+d) irregular.
+e) espacial.
+
+
+   29. (VUNESP/UFABC/Assistente de Administração/2019) Estoque de contingência é o
+       estoque:
+a) de produtos que não tiveram saída em determinado período.
+b) mantido para suprir prováveis situações não previstas no sistema.
+c) composto por produtos que ainda se encontram pendentes, como o de matérias-primas ou
+semiacabados.
+d) de produtos que estão em trânsito, em vias de entrega pelos fornecedores.
+e) composto pela quantidade máxima de produtos armazenados por um determinado período.
+
+
+   30. (VUNESP/CM Itatiba-SP/Almoxarife/2015) O estoque funciona como:
+a) um suporte para que seja atingido o lucro máximo da empresa.
+b) um “pulmão” para que o financeiro consiga receber todas as vendas efetuadas.
+c) uma quantidade máxima para se atingir o mínimo de produção e serviços.
+d) um amortecedor entre os vários estágios da produção até a venda final do produto.
+e) uma quantidade excedente para cobrir falhas das vendas.
+
+
+   31. (VUNESP/CM Caieiras-SP/Assistente de Patrimônio e Estoque/2015) O estoque de
+       segurança é definido como:
+a) uma quantidade para abastecer os setores improdutivos da empresa ou serviços.
+b) uma quantidade em estoque obrigatória e prevista em orçamento de vendas.
+c) um procedimento comum em todas as empresas, para cobrir o estoque virtual.
+d) uma quantidade excedente que visa cobrir o estoque virtual da empresa.
+e) uma quantidade excedente, só sendo consumido em caso de necessidade.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            56
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+   32. (FCC/DPE-AM/Analista em Gestão/2018) A literatura define estoque como a
+       acumulação armazenada de materiais em um sistema de transformação. Em uma
+       organização do setor público, corresponde ao somatório de materiais que
+       permanecem reservados para uso oportuno. Os estoques devem sempre ser
+       corretamente dimensionados, eis que sua manutenção é onerosa, importando, entre
+       outros custos, os:
+a) independentes do nível de estoque médio, tal como os custos de pedido.
+b) inversamente proporcionais ao seu nível médio, tal como o custo de depreciação.
+c) diretamente proporcionais ao seu nível médio, tal como o custo de perdas.
+d) de oportunidade, que se relacionam com o valor financeiro dos itens.
+e)de predileção, relacionados com aspectos psicológicos e culturais inerentes ao gerenciamento.
+
+
+   33. (FCC/DPE-AM/Analista em Gestão/2018) No que concerne ao controle e
+       gerenciamento de estoques, existem alguns indicadores ordinariamente utilizados,
+       entre os quais aquele hábil para aferir o percentual de requisições dos setores da
+       organização em relação ao total de requisições, denominado:
+a) nível de serviço.
+b) giro de estoque.
+c) índice de cobertura.
+d) ponto de intersecção.
+e) curva de kanban.
+
+
+   34. (FCC/PGM Teresina/Técnico de Nível Superior/2016) No almoxarifado da Prefeitura
+       Municipal de Teresina, a demanda média semanal de envelopes é de 1.500 unidades,
+       onde o tempo médio para ressuprimento deste item é de duas semanas. Sabendo-se
+       que o seu ponto de reposição ocorre quando o nível de estoque atinge 4.000
+       unidades, o Estoque de Segurança de envelopes é de:
+a) 500 unidades.
+b) 1.500 unidades.
+c) 1.000 unidades.
+d) 2.000 unidades.
+e) 2.500 unidades.
+
+
+   35. (CEBRASPE/ANS/Técnico Administrativo/2013) A demanda constante é explicada por
+       fatores como tendência, sazonalidade e periodicidade do consumo no mercado.
+a) CERTO
+b) ERRADO
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           57
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+    36. (CEBRASPE/ANS/Técnico Administrativo/2013) A demanda independente está
+        relacionada à demanda conhecida e controlada pela empresa, intimamente vinculada,
+        entretanto, às variações de mercado e dos custos de produção.
+a) CERTO
+b) ERRADO
+
+    37. (CEBRASPE/IFF/Administrador/2018) O gráfico seguinte representa a curva dente de
+        serra de um item dentro de um sistema de estoque. No gráfico, o ponto de pedido é
+        representado pelos pontos:
+
+a) II e III.
+b) IV e VI.
+c) IV e VIII.
+d) VI e X.
+e) VII e XI.
+
+
+    38. (CEBRASPE/TRT 8a Região/Técnico Judiciário/2016) Assinale a opção que apresenta
+        tipos de dados necessários para o cálculo do ponto de pedido, ou seja, a quantidade
+        de estoque que, quando alcançada, indica o momento de providenciar um novo
+        pedido de compra.
+a) consumo médio mensal, estoque máximo e tempo de reposição.
+b) tempo de reposição, estoque mínimo e giro de estoque.
+c) consumo médio mensal, giro de estoque e estoque segurança.
+d) tempo de reposição, giro de estoque e estoque máximo.
+
+         Receita Federal (Analista Tributário) Administração de Compras e Materiais           58
+         www.estrategiaconcursos.com.br                                                       67
+
+                                     
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+e) consumo médio mensal, tempo de reposição e estoque mínimo.
+
+   39. (QUADRIX/CREF20-CE/Assistente Administrativo/2019) Julgue o item. Os estoques
+       possuem a função de proteção dos atrasos no recebimento das mercadorias.
+a) Certo
+b) Errado
+
+
+   40. (QUADRIX/CRM AC/Assistente Administrativo/2019) Julgue o item. Por meio do
+       método da média móvel, a previsão de consumo de materiais gerada será menor que
+       os valores verificados se o padrão de consumo for decrescente.
+a) Certo
+b) Errado
+
+
+   41. (QUADRIX/CREF20 SE/Assistente Administrativo/2019) Quanto à gestão de estoques,
+       julgue o item. Os custos de pedido aumentam na mesma proporção do aumento da
+       quantidade média de produtos no estoque.
+a) Certo
+b) Errado
+
+
+   42. (FGV/CM-Salvador/Analista Legislativo Municipal/2018) Um posto de saúde precisa ter
+       uma forma de gerenciar seus estoques de medicamentos, para atender melhor seus
+       cidadãos. Em relação à gestão de estoques, é correto afirmar que:
+a) o estoque de segurança ou isolador é indicado quando houver alta previsibilidade entre oferta
+e demanda do material estocado;
+b) o estoque de ciclo ocorre quando um ou mais estágios na operação conseguem fornecer
+simultaneamente todos os itens necessários;
+c) o estoque de antecipação é o mais comumente usado quando as flutuações de demanda são
+significativas, mas relativamente previsíveis;
+d) o estoque no canal de distribuição ocorre quando a matéria-prima chega à fábrica por meio de
+dutos;
+e) o estoque é criado para aumentar as diferenças de ritmo entre demanda e fornecimento.
+
+
+   43. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema de
+       reposição contínua para o estoque de resmas de papel. O montante anual despendido
+       com o material permite que as aquisições sejam efetuadas por compra direta, e o
+       custo de pedido é de R$ 80,00. O consumo mensal de resmas é, em média, de 100
+       unidades, o estoque de segurança é de 40 unidades e o tempo de ressuprimento é de
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           59
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+   Ricardo Campanario
+   Aula 03
+
+         nove dias corridos. Na situação descrita, o ponto de pedido é (considere que um mês
+         tem 30 dias):
+a) 40 unidades;
+b) 60 unidades;
+c) 65 unidades;
+d) 70 unidades;
+e) 72 unidades.
+
+
+    44. (FGV/CM Salvador/Analista Legislativo Municipal/2018) A definição de estoque pode
+        ser dada como a acumulação armazenada de materiais em um sistema de
+        transformação. Um dos métodos para a sua reposição é o de previsão de demanda. A
+        técnica de previsão de demanda realizada por meio de informações qualitativas é
+        definida como:
+a) explicação;
+b) predileção;
+c) projeção;
+d) ponderação;
+e) mínimos quadrados.
+
+
+    45. (FGV/Pref. Salvador/Técnico/2017) Com relação à gestão de estoques e ao lote
+        econômico de compras (LEC), analise as afirmativas a seguir.
+I. O trade-off entre o custo do excesso e o custo da falta é a chave para parametrização da
+política de gestão de estoques.
+II. Quanto maior o custo de excesso de um produto em relação ao custo da sua falta, menor
+deve ser o estoque de segurança.
+III. A metodologia LEC permite gerenciar, de maneira adequada e segura, uma demanda variada
+de insumos.
+Está correto o que se afirma em:
+a) I, somente.
+b) II, somente.
+c) III, somente.
+d) I e II, somente.
+e) I, II e III.
+
+
+    46. (FAFIPA/UNIFLOR/Auxiliar Administrativo/2016) O controle de materiais no ambiente
+        de trabalho requer planejamento e organização. A partir dessa premissa, assinale a
+        alternativa que corresponde ao estoque mínimo:
+
+
+           Receita Federal (Analista Tributário) Administração de Compras e Materiais          60
+           www.estrategiaconcursos.com.br                                                      67
+
+                                       
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+a) O estoque mínimo corresponde ao estoque de contingência, adicionado ao lote de compra.
+b) O estoque mínimo trata-se de uma reserva com uma quantidade mínima de produtos que é
+mantida para ser utilizada no caso de atraso na reposição por parte do fornecedor e tem a
+finalidade de garantir que o produto não irá faltar.
+c) O estoque mínimo é a quantidade mínima de produtos predeterminada para o impedimento
+de novas compras, quer por motivo de espaço ou por razões financeiras.
+d) O estoque mínimo são as quantidades de materiais solicitadas no pedido de compra para
+reposição do estoque de materiais.
+
+
+   47. (ZAMBINI/PRODESP/Analista em Gestão/2010) Assinale a alternativa INCORRETA.
+       Estão dentre as vantagens do estoque:
+a) assegurar um suprimento adequado de matéria prima e outros itens.
+b) definir lotes de compra e/ou períodos de compra.
+c) absorver flutuações de demanda.
+d) utilizar itens pouco usados ou obsoletos para a manufatura de novos produtos.
+e) pronta entrega.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          61
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+Ricardo Campanario
+Aula 03
+
+                                               GABARITO
+
+ 1. C                                                           40. ERRADA
+ 2. CORRETA                                                     41. ERRADA
+ 3. ERRADA                                                      42. C
+ 4. ERRADA                                                      43. D
+ 5. ERRADA                                                      44. B
+ 6. ERRADA                                                      45. D
+ 7. CORRETA                                                     46. B
+ 8. CORRETA                                                     47. D
+ 9. ERRADA
+ 10. ERRADA
+ 11. E
+ 12. B
+ 13. C
+ 14. E
+ 15. D
+ 16. B
+ 17. C
+ 18. D
+ 19. E
+ 20. D
+ 21. C
+ 22. CORRETA
+ 23. B
+ 24. ERRADA
+ 25. ERRADA
+ 26. CORRETA
+ 27. A
+ 28. D
+ 29. B
+ 30. D
+ 31. E
+ 32. C
+ 33. A
+ 34. C
+ 35. ERRADA
+ 36. ERRADA
+ 37. D
+ 38. E
+ 39. CORRETA
+
+
+      Receita Federal (Analista Tributário) Administração de Compras e Materiais   62
+      www.estrategiaconcursos.com.br                                               67
+
+                                  
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+                                                  RESUMO
+🔾 Importância dos Estoques: Materiais, mercadorias ou produtos acumulados para utilização
+posterior, de modo a permitir o atendimento regular das necessidades dos usuários para a
+continuidade das atividades da empresa, sendo o estoque gerado , consequentemente, pela
+impossibilidade de prever-se a demanda com exatidão.
+🔾 Objetivos, funções e políticas de Estoques: efeito "lubrificante" da minimização de conflitos.
+      ⮲ Funções do Estoque: uma das maiores funções do estoque é conciliar objetivos
+      conflitantes entre as diferentes áreas da organização, sem prejudicar a atividade
+      operacional da empresa, minimizando seus custos e praticando a política de estoque da
+      forma como foi previamente definida, levando em consideração os ajustes necessários
+      devido a eventuais variações do cenário.
+      ⮲ Políticas de Estoque: caberá ao gestor de estoques definir qual a política adotada. Vimos
+      que, para isso, ele deverá levar em conta os desejos de compras, vendas e produção
+      (geralmente de estoques mais altos) e os da área financeira (geralmente estoques mais
+      baixos).
+            ● A definição de todas essas políticas internas e o mapeamento dessas variações de
+              mercado é fundamental para a determinação da política final de estoques e tudo
+              isso será representado por um grande indicador que é o Nível de Serviço buscado
+              pela organização.
+            ● O Nível de Serviço apontará qual o % de pedidos será satisfatoriamente atendido
+              dentro do total de pedidos recebidos seja por clientes internos ou externos.
+
+🔾 Previsão para os Estoques: Toda a previsão de estoques é dirigida pela previsão do consumo
+do material. Essa previsão de consumo ou da demanda estabelece estimativas futuras dos
+produtos acabados, comercializados ou vendidos.
+      ⮲ Tipos de Consumo: O consumo é a quantidade de material requerido para o
+      atendimento das necessidades de produção e de comercialização, relacionada a
+      determinada unidade de tempo. Dessa forma, conforme o ritmo em que se processa a
+      utilização, pode-se classificar o consumo da seguinte forma:
+            ● REGULAR: também conhecido por modelo de evolução horizontal do consumo. Sua
+              principal característica é a utilização constante de materiais em quantidades
+              significativas e com pequena variação ente sucessivos intervalos de tempo
+              constantes. Possui tendência constante (não varia de forma uniforme nem para
+              cima e nem para baixo).
+            ● IRREGULAR: o consumo irregular tem por característica a utilização de materiais em
+              quantidades aleatórias, por meio de grande variação entre sucessivos intervalos de
+              tempo.
+            ● SAZONAL: neste padrão, que é repetitivo, o consumo apresenta intervalos de
+              considerável elevação em alguns períodos do ano (exemplos: consumo/vendas de
+              sorvetes e aparelho de ar condicionado no verão ou de cobertores e antigripais no
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais                 63
+        www.estrategiaconcursos.com.br                                                             67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+               inverno). Possui oscilações regulares, que tanto podem ser positivas quanto
+               negativas. É considerado sazonal quando o desvio é de no mínimo 25% do
+               consumo médio e quando aparece condicionado a determinadas causas.
+
+      ⮲ Previsão de Demanda: o primeiro passo para um bom trabalho na gestão de estoques é
+      conseguir estimar a demanda com o maior nível possível de precisão. É com base nessa
+      estimativa que as compras (inclusive para a composição dos estoques) serão planejadas e
+      efetuadas. As informações básicas que permitem decidir quais serão as dimensões e a
+      distribuição no tempo da demanda dos produtos acabados podem ser classificadas em
+      duas categorias: quantitativas e qualitativas.
+            ● PROJEÇÃO: a quantidade consumida no passado ou as tendências passadas
+              permanecerão as mesmas, ou seja, se o volume consumido cresceu 10% nos
+              últimos 12 meses, projeta-se que para os próximos 12 meses crescerá novamente
+              10%. Nesse caso a técnica é essencialmente quantitativa.
+            ● EXPLICAÇÃO: acrescentam-se fatores diversos ao consumo real. Exemplos:
+              variações do PIB, do salário mínimo, taxas de crescimento ou desemprego etc. Usa
+              técnicas quantitativas no cálculo da demanda, inclusive recursos como regressão e
+              correlação.
+            ● PREDILEÇÃO: emprego de técnicas qualitativas como a opinião de funcionários,
+              especialistas, analistas ou consultores. Com base nessas percepções de mercados e
+              de tendências faz-se o cálculo da demanda.
+
+      ⮲ Técnicas Quantitativas de previsão de demanda:
+            ● ÚLTIMO PERÍODO: modelo mais simples, consiste em utilizar como previsão para o
+              período seguinte o valor ocorrido no período anterior. Dessa forma os valores
+              anteriores e os valores previstos serão rigorosamente os mesmos, repetidos em
+              diferentes períodos de tempo.
+            ● MÉDIA MÓVEL: previsão do período é obtida calculando-se a média dos valores
+              consumidos nos "n" períodos anteriores. Quando o consumo tem tendência
+              crescente, o modelo tende a estimar valores inferiores ao real e, ao contrário,
+              quando a tendência é decrescente, é comum o modelo estimar valores maiores do
+              que os que de fato irão ocorrer.
+            ● MÉDIA MÓVEL PONDERADA: os valores dos períodos mais próximos recebem
+              peso maior que os valores correspondentes aos períodos mais antigos, justamente
+              para tentar compensar os desvios que são comumente gerados pelo método
+              anterior, não ponderado (superestima quando a tendência é de retração e
+              subestima quando a tendência é de crescimento).
+
+🔾 Níveis de Estoques: o nível de estoque geralmente é quem determina o ponto do pedido.
+
+      ⮲ Nível de Estoque: nesse tipo de representação temos todas as informações sobre a
+      movimentação dos materiais em estoque (tanto entradas como saídas). Costumeiramente
+      usa-se o gráfico dente de serra para ilustrar o cenário. No gráfico, o eixo X (abcissa)
+      representa o tempo transcorrido e o eixo Y (ordenada) representa a quantidade (volume)
+      do estoque.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais           64
+        www.estrategiaconcursos.com.br                                                       67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+      ⮲ Ponto do Pedido: para o cálculo do chamado ponto do pedido, deve-se saber qual o
+      tempo de reposição esperado, que nada mais é do que todo o tempo percorrido entre a
+      conclusão de que o estoque precisa ser reposto até sua efetiva disponibilização no
+      almoxarifado da empresa. Ele é constituído por três grandes atividades.
+            ● EMISSÃO DO PEDIDO: tempo percorrido desde a emissão do pedido até ele
+              chegar ao fornecedor.
+            ● PREPARAÇÃO DO PEDIDO: tempo percorrido para a fabricação e separação dos
+              produtos, emissão do faturamento e preparação para que fiquem em condições de
+              serem transportados até o cliente que os adquiriu.
+            ● TRANSPORTE: tempo percorrido da saída do fornecedor até o recebimento pela
+              empresa de todos os materiais adquiridos.
+            ● O cálculo do ponto do pedido é feito somando-se ao estoque mínimo desejado, o
+              consumo esperado ao longo do tempo de reposição do material.
+
+                                               PP = C x TR + EM
+
+🔾 Tipos de Estoques: os principais tipos de ressuprimento e/ou estoque estudados pela literatura
+e cobrados em prova são os seguintes:
+            ● ESTOQUE REAL: é a quantidade de material existente em estoque no almoxarifado
+              da empresa.
+            ● ESTOQUE VIRTUAL: é o estoque real acrescido das quantidades de encomendas
+              em andamento, sejam os fornecimentos em atraso, os dentro do prazo mas ainda
+              não entregues e os entregues porém ainda em inspeção.
+            ● ESTOQUE MÁXIMO: é a quantidade máxima de estoque permitida para o material.
+              Pode ser atingida pelo estoque virtual, quando da emissão de um pedido de
+              compra. A finalidade principal do estoque máximo é indicar a quantidade de
+              ressuprimento, por meio da análise do estoque virtual.
+            ● ESTOQUE DE SEGURANÇA OU MÍNIMO: quantidade mínima possível capaz de
+              suportar um tempo de ressuprimento (ou tempo de reposição) superior ao
+              programado ou um consumo desproporcional (aumento inesperado da demanda,
+              por exemplo). Ao ser atingido pelo estoque em declínio, indica condição crítica do
+              estoque real e exige ação imediata para impedir a ruptura. Também é denominado
+              estoque de armazenamento, intermediário, de reserva, isolador ou de flutuação.
+            ● ESTOQUE DE ANTECIPAÇÃO: são criados antecipando-se uma demanda futura
+              como, por exemplo, uma época de pico de vendas (sazonalidade), um programa de
+              promoções, férias coletivas ou ameaça de greve, etc. Procuram auxiliar o
+              nivelamento da produção.
+            ● ESTOQUE DE TAMANHO DE LOTE: composto por itens comprados ou fabricados
+              em quantidades maiores que o necessário. Ocorre pela busca de vantagens em
+              função dos descontos de volume e redução de despesas como transporte e outras
+              relacionadas. Também é chamado de estoque de ciclo.
+            ● ESTOQUE DE TRANSPORTE: existem pela necessidade de se transportar itens de
+              um local ao outro, por exemplo, da fábrica ao centro de distribuição ou mesmo a
+
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais            65
+        www.estrategiaconcursos.com.br                                                        67
+
+                                    
+
+
+---
+
+  Ricardo Campanario
+  Aula 03
+
+               um cliente. Chamados também de estoque de tubulação ou estoque de movimento
+               ou estoque em trânsito. Não depende do volume, mas sim do tempo de trânsito.
+               Única forma de diminuí-lo é reduzir o tempo de trânsito.
+            ● ESTOQUE HEDGE: envolve produtos que possam sofrer bruscas variações de preço
+              de acordo com a oferta e demanda mundiais. Para se precaver em relação à
+              flutuação de preços (aumento) a organização pode antecipar as compras de
+              determinado material adquirindo o chamado estoque hedge.
+
+🔾 Custos dos Estoques: estoques geram uma série de custos. O mais óbvio é o custo de
+aquisição do próprio material que será estocado porém há uma série de outros custos diretos e
+indiretos que precisam ser considerados como os custos de armazenamento, de pedidos e,
+inclusive, os custos da eventual falta de estoques.
+            ● CUSTOS DE ARMAZENAMENTO: em relação aos custos de armazenamento, eles
+              são proporcionais a quantidade e ao tempo que um material permanece em
+              estoque. Em linhas gerais podem ser agrupados nas seguintes modalidades:
+                   o   Custos de Capital (juros e depreciação)
+                   o   Custos com pessoal (salários, encargos sociais)
+                   o   Custos com edificação (aluguéis, impostos, luz, conservação)
+                   o   Custos de manutenção (deterioração, obsolescência, equipamento)
+            ● CUSTO DE PEDIDOS: o custo do pedido restringe-se basicamente a atividade de
+              compra. Refere-se aos recursos necessários para a efetivação da compra como as
+              pessoas envolvidas, os papéis e materiais, as viagens, os contatos telefônicos e
+              todos os demais custos relacionados à transação de aquisição dos materiais.
+            ● CUSTO DE FALTA DE ESTOQUES: é muito mais um custo de oportunidade. São
+              componentes de custo que não podem ser calculados com grande precisão, mas
+              que ocorrem quando um pedido atrasa ou não pode ser entregue pelo fornecedor.
+
+        Receita Federal (Analista Tributário) Administração de Compras e Materiais          66
+        www.estrategiaconcursos.com.br                                                      67
+
+                                    
+
+
+---
+
+---

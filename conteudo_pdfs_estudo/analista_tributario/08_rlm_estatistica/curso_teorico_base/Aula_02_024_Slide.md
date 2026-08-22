@@ -1,0 +1,164 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 02_024_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: NEGAÇÕES E EQUIVALÊNCIAS
+---
+
+# NEGAÇÕES E EQUIVALÊNCIAS
+
+Prof. Brunno Lima
+
+                    
+
+
+---
+
+NEGAÇÕES E EQUIVALÊNCIAS
+
+
+                                          Prof. Brunno Lima
+
+     
+
+
+---
+
+RESOLUÇÃO DE QUESTÕES –
+BANCAS DIVERSAS
+
+                                           Prof. Brunno Lima
+
+      
+
+
+---
+
+ (IBFC / EBSERH / 2020)
+ Dada a sentença
+ “Ou Camila é médica ou Ana é dentista.”
+ Assinale a alternativa que apresenta a negação das proposições
+ anteriores.
+ (A) Camila não é médica e Ana não é dentista
+ (B) Camila não é médica ou Ana não é dentista
+ (C) Se Camila não é médica então Ana não é dentista
+ (D) Camila é médica se e somente se Ana é dentista
+ (E) Se Camila é médica então Ana é dentista
+
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ GABARITO:
+ (D) Camila é médica se e somente se Ana é dentista
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ (AOCP / IPM–SP / 2018)
+ Dada a disjunção exclusiva “Ou Carlos é advogado ou Luíza é professora”,
+ a sua negação será dada por
+ (A) “Se Carlos é advogado, então Luiza é advogada”
+ (B) “Se Luiza não é advogada então Carlos é professor”.
+ (C) “Carlos é advogado se, e somente se, Luiza é professora”.
+ (D) “Se Luiza é advogada, então Carlos é professor”.
+ (E) “Carlos é professor se, e somente se, Luiza é advogada”.
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ GABARITO:
+ (C) “Carlos é advogado se, e somente se, Luiza é professora”.
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ (CESPE/MCTI/2012)
+ A negação da proposição “O desenvolvimento científico do país
+ permanecerá estagnado se, e somente se, não houver investimento em
+ pesquisa acadêmica no Brasil” está corretamente enunciada da seguinte
+ forma: “Ou o desenvolvimento científico do país permanecerá estagnado,
+ ou não haverá investimento em pesquisa acadêmica no Brasil”.
+ ( ) CERTO         ( ) ERRADO
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ GABARITO:
+ CERTO
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ (CESPE/TCE-RS/2013)
+ A negação da proposição “Ou o cliente aceita as regras ditadas pelo
+ banco, ou o cliente não obtém o dinheiro” é logicamente equivalente a
+ “O cliente aceita as regras ditadas pelo banco se, e somente se, o cliente
+ não obtém o dinheiro”.
+ (      ) CERTO        (     ) ERRADO
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+ GABARITO:
+ CERTO
+
+NEGAÇÕES E EQUIVALÊNCIAS – RESOLUÇÃO DE QUESTÕES – BANCAS DIVERSAS
+Prof. Brunno Lima
+
+                                           
+
+
+---
+
+OBRIGADO
+                                        Prof. Brunno Lima
+
+   
+
+
+---

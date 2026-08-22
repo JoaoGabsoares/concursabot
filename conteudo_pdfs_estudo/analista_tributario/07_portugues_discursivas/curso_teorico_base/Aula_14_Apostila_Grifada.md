@@ -1,0 +1,2019 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Índice
+artigos_citados:
+- artigo 102
+---
+
+# Índice
+
+Índice
+1)  Noções iniciais de Semântica
+
+
+)  Campo semântico                                                                                                                                                                           4
+
+3)  Sentido Denotativo e Sentido Conotativo
+
+
+4)  Sinônimos e Antônimos
+
+
+)  Hiperônimo e Hipônimo                                                                                                                                                                   10
+
+6)  Homônimos e Parônimos                                                                                                                                                                   13
+..............................................................................................................................................................................................
+
+)  Polissemia                                                                                                                                                                              17
+
+8)  Ambiguidade                                                                                                                                                                             19
+)  Homônimo, Polissemia e Ambiguidade                                                                                                                                                      24
+..............................................................................................................................................................................................
+
+)   Questões Comentadas - Campo Semântico - FGV                                                                                                                                           26
+
+11)   Questões Comentadas - Sinônimo e Antônimo - FGV                                                                                                                                       28
+)   Questões Comentadas - Hiperônimo e Hipônimo - FGV                                                                                                                                     37
+..............................................................................................................................................................................................
+
+)   Questões Comentadas - Parônimo e Homônimo - FGV                                                                                                                                       39
+
+14)   Questões Comentadas - Polissemia - FGV                                                                                                                                                44
+)   Questões Comentadas - Ambiguidade - FGV                                                                                                                                               46
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Campo Semântico - FGV                                                                                                                                             49
+
+17)   Lista de Questões - Sinônimo e Antônimo - FGV                                                                                                                                         51
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Hiperônimo e Hipônimo - FGV                                                                                                                                       57
+
+19)   Lista de Questões - Parônimo e Homônimo - FGV                                                                                                                                         58
+)   Lista de Questões - Polissemia - FGV                                                                                                                                                  60
+..............................................................................................................................................................................................
+
+)   Lista de Questões - Ambiguidade - FGV                                                                                                                                                 61
+
+
+---
+
+                              CONSIDERAÇÕES INICIAIS
+Olá, pessoal!
+Professora e Coach Patrícia Manzato aqui para darmos continuidade nos nossos estudos de Língua
+Portuguesa!
+Em primeiro lugar, PARABÉNS a você que perseverou até aqui. Foi um longo caminho, muito
+conteúdo e centenas de questões comentadas. Agora, vamos concluir nossa missão!
+Nesta aula, nosso foco é em Semântica, que é o estudo do sentido de palavras ou de textos. É um
+assunto muito amplo. Para se entender plenamente um texto, cada palavra é relevante.
+Na prática, estamos estudando Semântica desde o início, subjacente ao sentido de toda parte de
+morfologia que vimos: o sentido dos conectores, dos tempos e modos verbais, das circunstâncias
+adverbiais, dos verbos regidos por determinadas preposições, das regras de pontuação, tudo isso
+tem aspectos “Semântica” e vai ser fundamental na hora de ler e decifrar o que está sendo
+comunicado.
+Agora vamos trabalhar algumas questões mais específicas, como vocabulário, sinônimos,
+antônimos, ambiguidade, interpretação, bem como outros detalhes da gramática que vêm sendo
+cobrados em prova.
+Pessoal, muito carinho com esta aula! Destaco que o conteúdo dela também complementa muito
+o conhecimento de Interpretação de Texto e de Redação.
+Vamos seguir! Estaremos prontos para tudo!!!
+Por fim, se quiser conhecer melhor meu trabalho e ter ainda mais dicas de Estudos e de Língua
+Portuguesa, me siga nas redes sociais
+Grande abraço e ótimos estudos!
+Profª Patrícia Manzato
+
+    @prof.patriciamanzato
+     Prof. Patrícia Manzato
+
+
+---
+
+                                CAMPO SEMÂNTICO
+As palavras podem ter estreitas relações de sentido entre si, como de semelhança, equivalência,
+diferença, oposição, pertinência.
+Palavras que se associam de uma forma direta e previsível, de modo que uma pessoa consiga
+facilmente pensar nas outras quando pensa na primeira, formam um “campo semântico”.
+
+
+                                                 Bola
+
+                                 Rede                      Chuteira
+
+                                             Futebol
+                             Árbitro                           Trave
+
+                                       Goleiro          Gramado
+
+
+Em termos simples, podemos dizer que vocábulos como bola, chuteira, trave, rede, gol, artilheiro,
+goleiro, campeonato, pênalti, formam o campo semântico de “Futebol”. Quando pensamos em
+um elemento desses, geralmente há uma associação intuitiva aos outros elementos desse
+conjunto.
+Evidentemente, as associações são infinitas e não existe um número definido de elementos que
+pertencem a um campo semântico fixo e previsível. Essas associações se formam no contexto e
+dependem da experiência e conhecimento de mundo de cada um. Nada impede que faça parte
+desse campo palavra como Messi, juiz, ingresso, artilheiro, cartão, patrocínio, uniforme, luva ou
+outra que também se relacione de algum modo à ideia geral sugerida por “futebol”.
+
+
+---
+
+         SENTIDO DENOTATIVO X SENTIDO CONOTATIVO
+As palavras geralmente têm um sentido mais direto, mais clássico, mais primário, que
+imediatamente se manifesta quando ouvimos ou lemos aquela sequência de sons ou letras. Esse
+é o sentido denotativo, o sentido direto, primário, principal do dicionário.
+Cuidado que o dicionário também traz os possíveis sentidos figurados de um termo, mas o sentido
+denotativo é aquele mais clássico, mais imediato, do mundo real, não figurado. Os sentidos
+figurados listados no dicionário geralmente são extensão semântica do primeiro sentido, do
+sentido real.
+      Ex: o leão é o animal mais visitado do zoológico.
+Veja que “leão” está sendo usado em sua acepção mais clássica, como animal.
+
+
+Por outro lado, num determinado contexto, a palavra pode assumir um novo sentido, figurado,
+metafórico, especial, não óbvio.
+      Ex: Esse lutador batendo é um leão; apanhando, é um gatinho.
+Agora a palavra “leão” deixou de designar o animal para indicar figuradamente uma pessoa que
+tem a característica da ferocidade. Já o gatinho tem a característica de ser pequeno, inofensivo.
+Esse é um sentido figurado, metafórico, conotativo.
+
+
+Veja exemplos de sentido conotativo que uma palavra pode assumir:
+
+Observe que “devorando” tem sentido figurado. Não é possível “comer” o planeta. Mas esse uso
+se torna perfeitamente coerente porque a matéria fala sobre o consumo “desenfreado” dos
+alimentos do mundo.
+
+
+---
+
+Veja mais um exemplo:
+
+A palavra “frito” foi utilizada com sentido ambíguo de “ferrado” ou literalmente “frito numa
+frigideira”.
+
+(TJ-RS / 2020 - adaptada) Observe o texto a seguir, retirado de uma revista de computação.
+“Por mais poderoso que seja, um computador sem programas poderá usar essa pouca utilidade.
+Um programa adequado com certeza não é um aplicativo profissional, caro e sofisticado que, às
+vezes, já vem instalado. De nada adiantam funções, botões e janelas, se você não conseguir fazer
+alguma coisa com eles”.
+Um dos elementos que dá coerência aos textos é a ocorrência de vocábulos que estão dentro de
+um mesmo campo semântico; nesse texto, como palavras que pertencem ao mesmo bloco
+conceitual são computador, programas, aplicativo, janelas.
+Comentário
+“computador, programas, aplicativo e janelas” são termos que pertencem ao campo semântico
+da informática, são vocábulos típicos dessa temática. Questão correta.
+(PREF. SÃO CRISTÓVÃO (SE) / 2019)
+Catar feijão
+Catar feijão se limita com escrever:
+ joga-se os grãos na água do alguidar
+e as palavras na folha de papel;
+e depois, joga-se fora o que boiar.
+Certo, toda palavra boiará no papel,
+água congelada, por chumbo seu verbo:
+
+
+---
+
+pois para catar esse feijão, soprar nele,
+e jogar fora o leve e oco, palha e eco.
+
+Ora, nesse catar feijão entra um risco:
+o de que entre os grãos pesados entre
+um grão qualquer, pedra ou indigesto,
+um grão imastigável, de quebrar dente.
+Certo não, quando ao catar palavras:
+a pedra dá à frase seu grão mais vivo:
+obstrui a leitura fluviante, flutual,
+açula a atenção, isca-a como o risco.
+                       João Cabral de Melo Neto. A educação pela pedra. Rio de Janeiro: Nova Fronteira, 1997.
+
+Considerando as propriedades linguísticas e os sentidos do poema precedente, julgue o próximo
+item.
+Haja vista as situações apresentadas no poema, a expressão “catar feijão” tem tanto sentido
+denotativo quanto conotativo.
+Comentários:
+O poema, utiliza a expressão “catar feijão” tanto no sentido denotativo quanto no sentido
+conotativo.
+O poema traz a ação de catar feijão com a ação de escrever: e as palavras na folha de papel;
+(sentido figurado, linguagem conotativa, assim como se joga o feijão na água, as palavras são
+jogadas no papel). E também como a ação de pegar o feijão, de forma literal: e jogar fora o leve
+e oco, palha e eco. (sentido literal, linguagem denotativa). Questão correta.
+
+
+---
+
+                          SINÔNIMOS E ANTÔNIMOS
+Sinônimos
+São palavras que se aproximam semanticamente por uma relação de equivalência ou semelhança.
+Não existem sinônimos perfeitos, mas, em um dado contexto, palavras com sentido próximo,
+embora não idênticos, podem ser utilizadas para se referir e retomar o mesmo ser no texto.
+As questões de sinonímia dependem de um bom vocabulário e de uma boa captação do que a
+palavra significa no contexto em que aparece.
+Por exemplo, “marcar” e “agendar” são sinônimos, certo? Marcar uma consulta = Agendar uma
+consulta. Certo?
+Errado! Depende do contexto!
+Veja que não é mais possível trocar um verbo pelo outro no exemplo abaixo:
+      Ex: O jogador marcou um gol.
+          Aquele momento me marcou para sempre.
+Então, nunca olhe as palavras isoladamente.
+
+     Muitas questões são de vocabulário puro, secas, ou você conhece a palavra ou não
+     conhece. Nesses casos, não há escapatória, você precisará tentar inferir o sentido da
+     palavra pelo contexto, por palavras semelhantes, por prefixos e claro, sempre tentar
+     fortalecer seu vocabulário com leitura regular de textos variados.
+
+(PGE-PE / 2019)
+Tenho ótimas recordações de lá e uma foto da qual gosto muito, da minha infância, às
+gargalhadas, vestindo um macacão que minha própria mãe costurava, com bastante capricho.
+A palavra “capricho” (L.2) está empregada no texto com o mesmo sentido de zelo.
+
+
+---
+
+Comentários:
+Questão direta, são sinônimos no sentido de cuidado. Questão correta.
+(LIQUIGÁS / 2018 - Adaptada)
+No trecho do Texto “Ele lá ia cumprindo seu ritual, como antigamente se depositava o pão e o
+leite” (l. 11-13), a palavra em destaque pode, sem prejuízo de sentido, ser substituída por jogava.
+Comentários:
+Questão direta: "depositar" é sinônimo de postar, pôr, assentar, apoiar, colocar, acostar, arrimar.
+Questão incorreta.
+
+Antônimos
+São palavras que se aproximam semanticamente por uma relação de antagonismo ou oposição.
+      Ex: Gosto de silêncio: não tolero barulho. (silêncio x barulho)
+
+
+Em alguns casos, duas palavras podem não ser exatamente antônimos em seu sentido clássico,
+mas podem aparecer como opostas no contexto em que se dá aquele contraste. A relação de
+antonímia se dá no contexto.
+      Ex: Não fale nada, acalme-se e respire. (falar x se acalmar e respirar)
+
+(SEFAZ-RS / 2019)
+A música de Pixis, ouvida como sendo de Beethoven, foi recebida com entusiasmo e paixão, e a
+de Beethoven, ouvida como sendo de Pixis, foi enxovalhada.
+A correção e os sentidos do texto 1A11-I seriam preservados se a palavra “enxovalhada” fosse
+substituída por desassistida.
+Comentários:
+“Enxovalhada” foi utilizado no sentido de “menosprezada”, “desdenhada”: Os espectadores
+desprezaram a peça musical pensando que era de Pixis, músico considerado medíocre — não era
+de Beethoven. De qualquer forma, "desassistida" não é antônimo de "desprezada". Questão
+incorreta.
+
+
+---
+
+                        HIPERÔNIMOS E HIPÔNIMOS
+Hiperônimos
+São palavras de sentido amplo que indicam, em termos semânticos, um conjunto abrangente de
+elementos, um “gênero”. Esse “gênero” tem unidades menores, “espécies” (hipônimos), que
+fazem parte daquele conjunto maior.
+
+    Atleta é um hiperônimo. Nadador, corredor e goleiro são hipônimos, porque são
+    espécies de atleta. Logo, “Atleta” é hiperônimo de “nadador”.
+    Animal é um hiperônimo. Cachorro, macaco, jabuti são hipônimos, porque são espécies
+    de animal. Então, “Animal” é hiperônimo de “macaco”.
+
+                                         Hiperônimo:
+                                           Animais
+
+
+                                          Hipônimo:
+                                         Quadrúpedes
+
+
+                                          Hipônimo:
+                                           Equinos
+
+                                          Hipônimo:
+                                           Cavalos
+
+Hipônimos
+O conceito de hipônimo decorre da explicação acima. Trata-se de um elemento com sentido mais
+específico, contido em um grupo maior, ou seja, de uma espécie contida em um gênero.
+
+
+---
+
+                           Gato é hipônimo de Felino (hiperônimo).
+                          Cavalo é hipônimo de Equino (hiperônimo).
+                        Deputado é hipônimo de Político (hiperônimo).
+
+
+Essas relações de inclusão e pertinência se constroem num contexto.
+
+                              Rosas
+
+                                      Orquídeas
+
+                Flor
+                                      Margaridas
+
+                            Begônia
+
+Mesmo antes de conhecer esses conceitos, sempre nos valemos de hiperônimos bem genéricos,
+como “coisa”, “pessoa”, “ser”, “acontecimento”, “fato”, “evento”, “elemento” para retomar
+outro termo mais específico.
+Às vezes fazemos o contrário: anunciamos o termo geral primeiro, depois o especificamos com
+um hipônimo:
+      Ex: Tragédia: queda de avião mata 56 pessoas em Paris. A cidade organizou um evento de
+      condolências. Milhares de pessoas compareceram à solenidade.
+Observe que tragédia é hiperônimo de “queda de avião”, pois a “queda” está dentro de um
+grupo maior de “tragédias”. Paris é hipônimo de “cidade”. “Solenidade” é hipônimo de evento e
+assim por diante...
+
+
+---
+
+(TJ-RS / 2020) Ao escrever um texto, o autor enfrenta várias dificuldades. Uma delas é evitar a
+repetição de palavras e um dos meios para isso é substituir uma palavra de valor específico por
+outra de conteúdo geral, como no exemplo a seguir.
+O sargento foi atropelado; depois de alguns minutos, chegou uma ambulância que levou o militar
+para o hospital.
+Assinale os vocábulos abaixo que mostram, respectivamente, esse mesmo tipo de relação:
+a) selvagens / índios;
+b) músicos / sambistas;
+c) embalagens / caixas;
+d) bananeira / bananal;
+e) quarto / cômodo.
+Comentário
+“militar” é o termo geral, o “hiperônimo”, dentro dele podemos abarcar “cabo”, “coronel”,
+“soldado”, “general”, inclusive “sargento”, que é um termo específico, um “hipônimo”. Essa troca
+é típico recurso de coesão, de retomada e substituição no texto. Gabarito letra E.
+(PGE-PE / 2019)
+É como se você tivesse baixado algum software e ele te solicitasse assinar um contrato com
+dezenas de páginas em “juridiquês”; você dá uma olhada nele, passa imediatamente para a última
+página, tica em “concordo” e esquece o assunto.
+No trecho “tica em ‘concordo’” (L.2-3), o verbo ticar é sinônimo de clicar, mas difere deste por ser
+de uso informal.
+Comentários:
+Sim, “ticar” vem do inglês “to tick”, que significa justamente clicar numa caixinha virtual para
+aceitar, ou marcar um sinal de concordância, um “tique”, um x, um visto ou algo assim. No caso,
+“ticar” é clicar para aceitar o contrato. Ticar é uma palavra oficial, não é considerada de uso
+informal. Questão incorreta.
+
+
+---
+
+                         HOMÔNIMOS E PARÔNIMOS
+Homônimos
+Homônimos homógrafos: palavras que têm a mesma grafia, mas trazem sentidos diferentes.
+Homônimos homófonos: palavras que têm a mesma pronúncia, mesmo som, mas trazem sentidos
+diferentes.
+Homônimos perfeitos: São palavras que têm som e grafia idênticos, diferenciando-se somente
+pelo sentido. Quase sempre, são palavras de classes diferentes.
+
+Parônimos
+São pares de palavras parecidas na pronúncia ou na grafia.
+Muitas vezes, essa semelhança conduz a erros ortográficos. O conhecimento dessas palavras
+também é muito importante para interpretação de texto e questões de vocabulário.
+
+
+---
+
+                                Exemplos clássicos de parônimos:
+
+absolver (perdoar, inocentar)                   absorver (aspirar, sorver)
+
+apóstrofe (figura de linguagem)                 apóstrofo (sinal gráfico)
+
+aprender (tomar conhecimento)                   apreender (capturar, assimilar)
+
+arrear (pôr arreios)                            arriar (descer, cair)
+
+ascensão (subida)                               assunção (elevação a um cargo)
+
+bebedor (aquele que bebe)                       bebedouro (local onde se bebe)
+
+cavaleiro (que cavalga)                         cavalheiro (homem gentil)
+
+comprimento (extensão)                          cumprimento (saudação)
+
+deferir (atender)                               diferir (distinguir-se, divergir)
+
+delatar (denunciar)                             dilatar (alargar)
+
+descrição (ato de descrever)                    discrição (reserva, prudência)
+
+descriminar (tirar a culpa)                     discriminar (distinguir)
+
+despensa   (local      onde     se   guardam dispensa (ato de dispensar)
+mantimentos)
+
+docente (relativo a professores)                discente (relativo a alunos)
+
+emigrar (deixar um país)                        imigrar (entrar num país)
+
+eminência (elevado)                             iminência (qualidade do que está iminente)
+
+eminente (elevado)                              iminente (prestes a ocorrer)
+
+esbaforido (ofegante, apressado)                espavorido (apavorado)
+
+estada (permanência em um lugar)                estadia (permanência temporária em um lugar)
+
+
+---
+
+ flagrante (evidente)                               fragrante (perfumado)
+
+ fluir (transcorrer, decorrer)                      fruir (desfrutar)
+
+ fusível (aquilo que funde)                         fuzil (arma de fogo)
+
+ imergir (afundar)                                  emergir (vir à tona)
+
+ inflação (alta dos preços)                         infração (violação)
+
+ infligir (aplicar pena)                            infringir (violar, desrespeitar)
+
+ mandado (ordem judicial)                           mandato (procuração)
+
+ peão (aquele que anda a pé, domador de pião (tipo de brinquedo)
+ cavalos)
+
+ precedente (que vem antes)                         procedente (proveniente; que tem fundamento)
+
+ ratificar (confirmar)                              retificar (corrigir)
+
+ recrear (divertir)                                 recriar (criar novamente)
+
+ soar (produzir som)                                suar (transpirar)
+
+ sortir (abastecer, misturar)                       surtir (produzir efeito)
+
+ sustar (suspender)                                 suster (sustentar)
+
+ tráfego (trânsito)                                 tráfico (comércio ilegal)
+
+ vadear (atravessar a vau)                          vadiar (andar ociosamente)
+
+                                     (http://www.soportugues.com.br/secoes/seman/seman7.php)
+
+
+A melhor forma de estudar esses pares é marcar a parte da palavra que se diferencia e anotar o
+sentido, como exemplifico abaixo:
+
+
+              Cavaleiro          x      Cavalheiro
+              Comprimento        x      Cumprimento
+              Descriminar        x      Discriminar
+              Descrição          x      Discrição
+
+
+---
+
+              Aprender               x      Apreender
+              Eminente               x      Iminente
+              Inflação               x      Infração
+              Flagrante              x      Fragrante
+
+(TJ-RS / 2020) Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por
+seu parônimo; a única das frases cuja forma de vocábulo sublinhado está correta é:
+a) O motorista infligiu como leis do trânsito;
+b) O prisioneiro dilatou os comparsas do assalto;
+c) Não há nada que desabone sua conduta imoral;
+d) A cobrança é bimestral, ou seja, duas vezes por mês;
+e) Os cumprimentos devem ser dados na entrada da festa.
+Comentário
+Vejamos o parônimo adequado:
+a) “infringiu”, violou. “Infligir” é “aplicar, fazer incidir”.
+b) “delatou”, denunciou. “Dilatar” é “aumentar de extensão”.
+c) Aqui, temos que fazer uma análise mais profunda. Se a conduta fosse “imoral” mesmo,
+certamente seria reprovada, desabonada. Então, aqui, caberia “amoral”, que significa “Que não
+está de acordo com a moral nem é contrário a ela; indiferente à moral”.
+d) “bimensal”, duas vezes por mês. “Bimestral” significa “a cada dois meses”.
+e) Aqui, temos a “saudação”, ato de cumprimentar. “Comprimento” é a dimensão, medida física.
+Gabarito letra E.
+(DPE-RJ / 2019 - Adaptada) Há uma série de palavras em língua portuguesa que modificam o seu
+sentido em função de uma troca vocálica; esse fato não ocorre em infarte / infarto.
+Comentários:
+Infarte / infarto são variantes da mesma palavra, o sentido não muda. Questão correta.
+
+
+---
+
+                                        POLISSEMIA
+Uma mesma palavra pode ter múltiplos sentidos.
+É diferente de um homônimo perfeito, pois a polissemia se refere a vários sentidos de uma única
+palavra. Homônimos são palavras diferentes, geralmente de classes diferentes, que têm sentidos
+diferentes. A palavra polissêmica é uma só, mas se reveste de novos sentidos, muitas vezes por
+associações ﬁguradas. A diferença na prática é bem sutil.
+Vejamos alguns exemplos:
+      Quero um suco de laranja natural (feito da fruta)
+      Sou natural da Argentina (originário)
+      Água é um recurso natural (da natureza)
+      Pintou um retrato bastante natural (ﬁel, próximo)
+      Quero um vinho natural (temperatura ambiente)
+Veja uma história em quadrinhos que explora os múltiplos sentidos da palavra “vendo”:
+
+Agora, você pode me perguntar: Ah, professora! Então, qual a diferença entre “polissemia” e
+“homônimo perfeito”?
+Não há uma resposta deﬁnitiva. A língua não é uma ciência exata.
+        “A distinção entre homonímia e polissemia é indeterminada e arbitrária” (Lyons).
+Então, sem querer resolver enigmas acadêmicos, temos que adotar um critério prático:
+
+
+---
+
+Homonímia: há “duas” palavras, quase sempre de classes diferentes, cada uma com
+seu sentido, mas que apresentam uma “coincidência” de forma.
+Polissemia: há uma única palavra, que apresenta dois ou mais sentidos, normalmente
+com alguma relação.
+
+Normalmente, a Questão apenas cobra o conceito:
+
+                  “Palavra com mais de um sentido” – Polissemia
+
+“Palavras diferentes, com sentidos diferentes, mas que apresentam mesma graﬁa e/ou
+                              pronúncia” – Homônimos
+
+
+---
+
+                                   AMBIGUIDADE
+Ambiguidade é a possibilidade de dupla leitura de um enunciado. É o bom e velho duplo sentido.
+Pode ser estrutural ou polissêmica.
+Nem sempre é um problema, pois pode ser proposital e está presente na literatura, nas piadas,
+nas propagandas. Porém, deve ser evitada, porque é considerada vício de linguagem, porque
+prejudica a clareza.
+
+A expressão “rede social” está difundida no campo semântico da maioria das pessoas como
+estruturas, principalmente dentro da internet, formada por pessoas e organizações que se
+conectam a partir de interesses ou valores comuns. O que vem à nossa cabeça, quase que
+imediato, são as redes Facebook, Instagram, Twitter etc.
+Por outro lado, essa mesma expressão pode ser entendida em seu sentido literal: um local de
+descanso coletivo, onde mais de uma pessoa pode se sentar.
+
+Ambiguidade estrutural
+Veja a tira abaixo e observe como a posição do termo “com pouca gordura” causa dupla
+possibilidade de leitura:
+
+
+---
+
+Essa é a ambiguidade estrutural. Ocorre quando a estrutura, a organização e a construção da frase
+dão margem a mais de uma possibilidade de sentido.
+No exemplo da tira, se o autor tivesse mudado a posição do termo, “comida com pouca gordura
+para gato”, a ambiguidade se desfaria.
+Vejamos outros exemplos:
+      Ex: Peguei o ônibus correndo.
+      Sentido 1: Eu estava correndo quando peguei o ônibus.
+      Sentido 2: O ônibus estava correndo quando o peguei.
+
+
+      Ex: Pedro encontrou Maria e lhe disse que sua mãe foi ao cinema.
+      Sentido 1: A mãe de Pedro foi ao cinema.
+      Sentido 2: A mãe de Maria foi ao cinema.
+
+
+      Ex: O advogado viu o cliente entrando no tribunal.
+      Sentido 1: O advogado estava entrando no tribunal e viu seu cliente.
+      Sentido 2: O cliente estava entrando no tribunal.
+
+
+      Ex: João e Maria vão se casar.
+      Sentido 1: João vai se casar com uma pessoa e Maria, com outra.
+      Sentido 2: João vai se casar com Maria.
+
+
+      Ex: A venda das empresas foi positiva para os acionistas.
+      Sentido 1: As próprias empresas foram vendidas.
+      Sentido 2: As empresas venderam seus produtos.
+
+
+---
+
+      Ex: Comprei as frutas e os legumes que fazem emagrecer.
+      Sentido 1: Os legumes fazem emagrecer.
+      Sentido 2: Os legumes e as frutas fazem emagrecer.
+
+
+      Ex: O menino falou com a menina que mora em Ipanema.
+      Sentido 1: O menino mora em Ipanema e falou isso para a menina.
+      Sentido 2: A menina mora em Ipanema e o menino falou com ela.
+
+Ambiguidade polissêmica
+Ambiguidade polissêmica é aquela inerente ao próprio vocábulo ou à expressão que traz múltiplos
+sentidos.
+
+     Na charge acima, a palavra “bala” é a responsável pela ambiguidade e consequente
+     efeito de humor.
+     Então, observe que, no exemplo acima, “bala” pode ser compreendida como o “doce”
+     ou como “munição de arma de fogo”, em referência a um tiroteio. Portanto, o humor
+     da charge reside na polissemia da palavra “bala”.
+
+
+---
+
+     Essa propaganda brinca com o nome da marca, “Garoto”.
+     Na frase, “não fique sem seu garoto”, pode ser entendido como: (i) não fique sem
+     companhia; (ii) não fique sem chocolate Garoto. Portanto, o efeito da publicidade reside
+     na polissemia da palavra “garoto”.
+
+(POLÍCIA CIVIL-SP / 2018 - Adaptada)
+
+É correto afirmar que o efeito de sentido da tira decorre da declaração pouco convincente do
+garoto, diante da resposta do tigre.
+Comentários:
+Perceba que o efeito de humor está construída em função da palavra “Nó”, que é uma medida
+náutica (1,852 km/h). No plural, a palavra fica “nós”, que se confunde com o pronome pessoal
+“nós”, o que explica a ambiguidade da tira. Nesse caso, a ambiguidade é um “efeito” da
+polissemia, isto é, o uso de palavras polissêmicas pode gerar ambiguidade. Questão incorreta.
+(TCE-PE / 2017 - adaptada)
+No período “Assim, os negócios escusos, a corrupção, a gatunagem, os procedimentos ilícitos
+fogem da luz da divulgação como os vampiros da luz do Sol” (linha. 24 a 27), a expressão “da luz”,
+em ambas as ocorrências foi empregada com o mesmo sentido.
+
+
+---
+
+Comentários:
+A expressão "da luz" possui significados distintos na frase:
+"Assim, os negócios escusos, a corrupção, a gatunagem, os procedimentos ilícitos fogem da luz da
+divulgação (sentido figurado - da imprensa, do aparecimento em meios de comunicação) como os
+vampiros da luz (sentido denotativo - luz, energia) do Sol”. Questão incorreta.
+
+
+---
+
+             HOMONÍMIA X POLISSEMIA X AMBIGUIDADE
+A diferença é sutil e controversa, objeto de muitas discussões acadêmicas.
+Manteremos um enfoque prático, para que você possa acertar as questões da prova. E nada
+melhor, do que trazer um exemplo prático:
+
+(TJ-RS / 2020) A frase abaixo em que ocorre ambiguidade é:
+a) Ninguém mais os encontrou de novo;
+b) O cargo de oficial de justiça é importante;
+c) A nomeação do Ministro foi surpreendente;
+d) Tudo foi organizado para o julgamento;
+e) As folhas do caderno despencaram.
+Comentário
+Conforme se aprende na aula de sintaxe, o termo preposicionado “do Ministro” pode ser lido
+como “agente” (aí seria um adjunto adnominal) ou “paciente” (aí seria um complemento nominal):
+1) O Ministro nomeou alguém e isso foi surpreendente.
+2) O Ministro foi nomeado e isso foi surpreendente.
+Nas demais, não há outra leitura possível, além da literal. Gabarito letra C.
+(DPE-RJ / 2019 - Adaptada)
+A Prefeitura de Salvador faz divulgação de seu Festival da Virada em conhecidas revistas. O texto
+da publicidade diz o seguinte:
+Festa que vira atração de 460 mil turistas,
+Que vira 98% de ocupação hoteleira,
+Que vira milhares de empregos,
+Que vira 500 milhões de reais na economia.
+Que virada!
+Obrigado, Salvador!
+A estruturação do texto compreende ambiguidade do substantivo “virada".
+Comentários:
+Perceba que há jogo de palavras entre virar (transformar-se) virada (mudança brusca de resultado).
+Questão correta.
+
+
+---
+
+              •Duas palavras, que tem a mesma forma, cada uma com
+Homonímia      seu sentido
+                      Ex: paciente (substantivo) x paciente (adjetivo)
+
+
+              •Dois ou mais sentidos para a mesma palavra
+ Polissemia           Ex: manga (fruta) x manga (da camisa)
+
+              •Duplo sentido de uma palavra / expressão
+Ambiguidade   •Vício de linguagem
+
+
+---
+
+        QUESTÕES COMENTADAS - CAMPO SEMÂNTICO - FGV
+   1. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eﬁciência comunicativa.
+Observe o texto a seguir, retirado de uma revista de computação. “Por mais poderoso que seja,
+um computador sem programas adequados tem pouca utilidade. E um ‘programa adequado’
+com certeza não é aquele aplicativo proﬁssional, caro e soﬁsticado que, às vezes, já vem
+instalado. De nada adiantam funções, botões e janelas, se você não conseguir fazer alguma coisa
+com eles”.
+Um dos elementos que dá coerência aos textos é a ocorrência de vocábulos que estão dentro de
+um mesmo campo semântico; nesse texto, as palavras que pertencem ao mesmo bloco
+conceitual são:
+A) computador, programas, aplicativo, janelas;
+B) computador, programa, aplicativo, soﬁsticado;
+C) programas, aplicativo, caro, instalado;
+D) caro, soﬁsticado, instalado, funções;
+E) poderoso, aplicativo, instalado, funções.
+Comentários:
+Vejamos as alternativas:
+A) CERTA. Todas as palavras fazem da parte do mesmo campo semântico de “computador”.
+B) ERRADA. “Soﬁsticado" não faz parte do mesmo campo semântico.
+C) ERRADA. “Caro” não faz parte do mesmo campo semântico.
+D) ERRADA. Não conseguimos identiﬁcar uma relação de signiﬁcado entre as palavras.
+E) ERRADA. “Poderoso” não faz parte do mesmo campo semântico. Gabarito letra A.
+
+
+   2. (FGV/ PREF. SALVADOR (BA) / AGENTE DE FISCALIZAÇÃO / 2019)
+“A ideia de que a natureza existe para servir o homem seria apenas ingênua, se não fosse
+perigosamente pretensiosa. Essa crença lançou raízes profundas no espírito humano, reforçada
+por doutrinas que situam corretamente o Homo Sapiens no ponto mais alto da evolução, mas
+incidem no equívoco de fazer dele uma espécie de ﬁnalidade da criação. Pode-se dizer com
+segurança que nada na natureza foi feito para alguma coisa, mas pode-se crer em permuta e
+equilíbrio entre seres e coisas”.
+                                             Lisboa, Luiz Carlos, Olhos de ver; ouvidos de ouvir. Ed. DIFEL. 2013.
+
+
+---
+
+As opções a seguir apresentam uma série de palavras e expressões do campo semântico da
+religiosidade, à exceção de uma. Assinale-a.
+A) Olhos de ver; ouvidos de ouvir.
+B) Essa crença lançou raízes profundas.
+C) ... uma espécie de ﬁnalidade da criação.
+D) ... reforçada por doutrinas.
+E) ... nada na natureza foi feito para alguma coisa.
+Comentários:
+A única alternativa que não traz uma relação com a religiosidade é a Letra (E): ao aﬁrmar que
+“nada na natureza foi feito para alguma coisa”, a sentença está se opondo ao pensamento
+religioso de que há razão de ser e existir em tudo. Portanto, Gabarito letra E.
+
+
+---
+
+     QUESTÕES COMENTADAS - SINÔNIMO E ANTÔNIMO - FGV
+   1. FGV – Agente de Segurança Penitenciário (DEPEN MG)/2022
+Assinale a opção que apresenta a substituição adequada dos termos sublinhados por um só
+vocábulo de signiﬁcado equivalente.
+A) Mais um verão e mais uma vez a dengue está de volta / repentinamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / frequentemente.
+C) Ele trabalha doze horas todos os dias / continuamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / progressivamente.
+Comentários:
+Vejamos a substituição adequada:
+A) Mais um verão e mais uma vez a dengue está de volta / novamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / ocasionalmente,
+esporadicamente ou de vez em quando.
+C) Ele trabalha doze horas todos os dias / diariamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / até onde sei, não existe um advérbio
+perfeitamente equivalente a “de hora em hora”; mas “progressivamente” certamente não tem
+esse sentido.
+Gabarito Letra D
+
+
+   2. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+“A expressão santo do pau oco, que designa o sujeito dissimulado, ﬁngido, surgiu em Minas
+Gerais nos tempos do Brasil colonial.”
+Nessa frase, o autor usou dois adjetivos sinônimos em seguida – dissimulado, ﬁngido – talvez
+com a ﬁnalidade de tornar o texto mais claro, pois o primeiro adjetivo é de uso mais raro.
+Essa mesma estratégia foi usada na seguinte frase:
+A) A beata praticava sempre atos bondosos, caridosos;
+B) O policial ﬁcou colérico, raivoso, com a atitude do criminoso;
+C) O fugitivo foi ágil, lépido, e escapou dos perseguidores;
+D) O aluno era disciplinado, regrado, e obtinha boas notas;
+E) O vento era fraco, brando, e balançava as folhas.
+Comentários:
+
+
+---
+
+Cuidado, a ordem é importante nessa questão. O adjetivo comum tem que ser o segundo. O
+primeiro tem que ser mais raro.
+A) A beata praticava sempre atos bondosos, caridosos (ambos comuns);
+B) O policial ﬁcou colérico (mais raro), raivoso (mais comum), com a atitude do criminoso;
+C) O fugitivo foi ágil (mais comum), lépido (mais raro), e escapou dos perseguidores;
+D) O aluno era disciplinado, regrado (ambos comuns), e obtinha boas notas;
+E) O vento era fraco, brando (ambos comuns), e balançava as folhas.
+Gabarito Letra B
+
+
+   3. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+“Estaremos caminhando para uma vida sem limites?”; a locução “sem limites” equivale ao
+adjetivo “ilimitada”.
+A locução abaixo que corresponde semanticamente ao adjetivo dado, é:
+A) comida sem sabor / comida insossa;
+B) guerra sem trégua / guerra interrompida;
+C) porta sem chave / porta aberta;
+D) pessoa sem audição / pessoa deﬁciente;
+E) carne sem sal / carne insípida.
+Comentário:
+Vejamos as correspondências mais óbvias:
+A) comida sem sabor / comida insípida;
+B) guerra sem trégua / guerra ininterrupta;
+E) carne sem sal / carne insossa.
+Na C: porta “sem chave”, não há um adjetivo perfeitamente equivalente; mas, certamente, porta
+sem chave não é sinônimo de porta aberta, ela pode estar apenas encostada. Há várias portas
+que não possuem chave também.
+O gabarito está no par: pessoa sem audição / pessoa deﬁciente.
+A banca usou “deﬁciente” como termo muito genérico, é questionável. Contudo, não se pode
+negar que a surdez é uma deﬁciência; logo, essa era a única resposta possível.
+Gabarito Letra B
+
+
+   4. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Um problema da língua escrita é a polissemia das palavras, que pode gerar mais de um
+entendimento da frase.
+A frase abaixo em que isso ocorre com o termo sublinhado é:
+A) Comprou um romance de estilo moderno;
+
+
+---
+
+B) Após dois anos, perdeu os óculos;
+C) Vi o automóvel importado por meu tio;
+D) Comprou uma caixa de ovos;
+E) Adquiriu um terno na semana passada.
+Comentários:
+Polissemia é a propriedade que uma mesma palavra tem de apresentar mais de um signiﬁcado
+nos múltiplos contextos em que aparece. Ex: Banco: Assento / Instituição Financeira; Manga:
+Fruta / Parte da camisA).
+Vejamos as alternativas:
+A) ERRADA. Nesse contexto, só temos um signiﬁcado coerente para "romance": literatura
+narrativa em prosa, ou seja, a pessoa comprou um livro.
+B) CERTA. No contexto, o verbo "perder" pode assumir os seguintes sentidos:
+1. "não localizar": A pessoa perdeu os óculos após dois anos, ou seja, não consegue localizá-los
+mais.
+2. "deixar de ser útil": A pessoa perdeu os óculos após dois anos porque seu grau aumentou, por
+exemplo.
+C) ERRADA. A palavra "automóvel" apresenta apenas um signiﬁcado: carro.
+D) ERRADA. Nesse contexto, só temos um signiﬁcado coerente para "caixa": embalagem.
+E) ERRADA. Nesse contexto, só temos um signiﬁcado coerente para "adquirir": passar a ser
+proprietário de algo. Gabarito letra B.
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. “Disposição” não tem o mesmo sentido de “dedicação”.
+B) ERRADA. “Ter vontade” está relacionado a desejar, e não gostar.
+C) ERRADA. “Ter necessidade" não pode ser substituído por "exigir".
+D) ERRADA. "Não ter serventia" não tem relação de sentido com "deteriorar".
+E) CERTA. Gabarito letra E.
+
+
+---
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase a seguir em que os termos sublinhados podem ser considerados sinônimos é:
+A) A batata está custando caro, como, aliás, todo cereal;
+B) A educação é tarefa dos pais, e a cultura, do Estado;
+C) A maior greve ocorreu em 1950; a paralisação durou um mês;
+D) A operação e o tratamento foram demasiadamente caros;
+E) As crianças adoram doce, principalmente chocolate.
+Comentários:
+Para resolver essa questão temos que ter os conceitos de sinônimo, hipônimo e hiperônimo em
+mente.
+A) ERRADA. Os termos "batata" e cereal" foram utilizados como hiperônimo ("cereal") e
+hipônimo ("batata").
+B) ERRADA. Os termos "educação" e "cultura" não são sinônimos.
+C) CERTA. "Greve" e "paralisação" possuem o mesmo signiﬁcado, podendo ser substituídos
+entre si sem nenhum prejuízo semântico.
+D) ERRADA. Os termos "operação" e "tratamento" não são sinônimos.
+E) ERRADA. Os termos "doce" e "chocolate" foram utilizados como hiperônimo ("doce") e
+hipônimo ("chocolate"). Gabarito letra C.
+
+
+   7. (FGV/ IBGE / COORDENADOR CENSITÁRIO / 2019)
+Prisão de traﬁcante mostra eﬁcácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os termos que mostram a mesma relação semântica (antônimos) entre compra e venda são:
+A) comprovação / falsiﬁcação;
+B) hipocrisia / demonstração;
+C) certeza / dúvida;
+D) inteligência / esperteza;
+E) subordinação / coordenação.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. “Comprovação” e “falsiﬁcação” não são antônimos.
+B) ERRADA. Não há relação de sentido entre “hipocrisia” e “demonstração”
+C) CERTA. “Certeza” e “dúvida” são antônimos.
+D) ERRADA. “Inteligência” e “esperteza” remetem ao mesmo campo semântico.
+
+
+---
+
+E) ERRADA. “Subordinação” e “coordenação” fazem parte do mesmo campo semântico.
+Gabarito: Letra C.
+
+
+   8. (FGV/ TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+A frase abaixo que NÃO se estrutura com base numa oposição é:
+A) A tortura é um meio seguro de absolver os criminosos robustos e condenar os fracos
+inocentes;
+B) Muitos primeiros virão a ser os últimos;
+C) A glória deve ser conquistada; a honra, por sua vez, basta que não seja perdida;
+D) Nenhuma lei se adapta igualmente bem a todos;
+E) Infeliz é aquele discípulo que não supera seu mestre.
+Comentários:
+Vejamos as alternativas:
+A) CERTA. Há oposição entre "criminosos robustos" e "fracos inocentes".
+B) CERTA. Há oposição entre "primeiros" e "últimos".
+C) CERTA. Há oposição entre "glória - conquistada" e "honra – não seja perdida".
+D) ERRADA. Não há oposição na frase.
+E) CERTA Há oposição entre “discípulo" e "mestre". Gabarito letra D.
+
+
+   9. (FGV/ MPE-RJ / OFICIAL / 2019)
+A psicóloga Fernanda Furia escreveu uma reportagem sobre Inteligência Digital, que dizia o
+seguinte: Nas últimas décadas a nossa vida vem se tornando digital. Estamos a todo momento
+não somente usando diversas tecnologias como também sendo, sem perceber, profundamente
+inﬂuenciados por elas. Vivemos rodeados de tecnologias digitais acessíveis, intuitivas, disruptivas
+e extremamente atraentes, o que nos coloca em uma posição ao mesmo tempo de poder e de
+vulnerabilidade.
+Sobre o vocabulário empregado nesse texto, a única indicação de signiﬁcado equivocada é:
+A) década = espaço de dez anos;
+B) diversas tecnologias = tecnologias diferentes;
+C) acessíveis = disponíveis;
+D) disruptivas = que mostram quebra, interrupção;
+E) vulnerabilidade = fraqueza.
+Comentários:
+A) CERTA. De fato, “década” signiﬁca o período de dez anos.
+B) ERRADA. “Diversas” e “diferentes” não são sinônimas. Diversas = várias.
+C) CERTA. “Acessíveis” tem o sentido de estar disponível, de permitir o acesso.
+
+
+---
+
+D) CERTA. “Disruptivas” tem o sentido de ruptura com os padrões.
+E) CERTA. “Vulnerabilidade” indica um estado de fraqueza. Gabarito letra B.
+
+
+   10. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que o termo sublinhado tem um sinônimo indicado corretamente é:
+A) “A razão nos é dada para discernir o bem e o mal” / julgar;
+B) “Quem decide praticar o mal, encontra sempre um pretexto” / castigo;
+C) “Poucas vezes falta engenho à maldade” / trabalho;
+D) “A educação seria a arte de parecer inofensivo” / inocente;
+E) “Não pode haver educação onde não há discrição” / reserva.
+Comentários:
+Podemos sim dizer que “ser discreto” pode equivaler a “ser reservado”, mas no contexto da letra
+E, com a frase solta, não parece haver essa equivalência, porque “reserva” pode ter outros
+sentidos. Contudo, novamente deveríamos tentar fazer por eliminação. Vou então marcar um
+possível sinônimo correto para as demais alternativas:
+Discernir – diferenciar, distinguir
+Pretexto – motivo, alegação
+Engenho – criação, inventividade
+Aí, na letra D, temos “inofensivo” e “inocente”, que são palavras muito próximas do que
+“reserva” e “discrição”:
+Inclusive, segundo o consagrado dicionário Aulete, são sinônimas:
+inofensivo
+(i.no.fen.si.vo)
+1. Que não ofende, que não escandaliza: Parece uma pessoa inofensiva.
+2. Que não produz mau resultado, que não prejudica; INOCENTE; INÓCUO: A água é uma
+bebida inofensiva.
+3. Que não faz mal, que não tem qualquer ﬁm malévolo: A chupeta é inofensiva quando usada só
+para dormir.
+O melhor gabarito seria a letra D; contudo, a banca entendeu “inocente” como “não culpado” e
+“inofensivo” como “quem não ofende, não faz mal”. É uma leitura possível, mas a D também era
+razoável. O problema é sempre a falta de um contexto maior. Gabarito deﬁnitivo letra E.
+
+
+   11. (FGV / COMPESA / ADVOGADO / 2016)
+ Sobre os vocábulos do texto 1, assinale a aﬁrmativa correta.
+ A) paulistanas é o mesmo que paulistas.
+ B) gélidas mostra menos intensidade que frias.
+
+
+---
+
+ C) insalubres signiﬁca algo fora dos padrões legais.
+ D) municipais são instituições de responsabilidade do estado.
+ E) desrespeitoso indica falta de respeito aos cidadãos.
+Comentários:
+A) Paulistano é quem nasce na cidade de São Paulo. Paulista é quem nasce no estado de São
+Paulo. Então temos que todo paulistano é paulista, mas nem todo paulista é paulistano, pois
+pode ter nascido em qualquer outra cidade do estado de São Paulo.
+B) gélidas mostra muito mais intensidade que frias.
+C) insalubres signiﬁca algo que não é saudável, que é nocivo saúde.
+D) municipais são instituições de responsabilidade do município.
+E) desrespeitoso indica exatamente isto: ausência, falta de respeito aos cidadãos. Gabarito letra
+E.
+
+
+    12. (FGV / PREF. PAULÍNIA-SP / AGENTE DE FISCALIZAÇÃO / 2016)
+“...revelaram que 36,3% dos pontos de coleta analisados apresentam qualidade ruim ou
+péssima.”
+A relação semântica entre “ruim ou péssima” se repete em
+A) distante ou longe.
+B) perto ou próximo.
+C) amado ou adorado.
+D) variado ou diversiﬁcado.
+E) fácil ou difícil.
+Comentários:
+Perceba que “ruim” e “péssimo” dividem o mesmo sentido: algo que não é bom. Contudo, a
+diferença está na gradação, na intensidade. Então temos que péssimo é pior do que ruim.
+Essa mesma relação semântica de graus de intensidade está em “amado” e “adorado”, pois
+ambos tem sentido de “objeto de amor”, mas o grau é diferente. Gabarito letra C.
+
+
+    13. (FGV / SENADO / CONSULTOR DE ORÇAMENTO / 2008)
+                              O STF e a estabilidade das instituições
+           Em 5 de outubro de 1988, com meridiana clareza, ao ser outorgada uma nova carta
+política à nação, o constituinte determinou que seu guardião seria o Supremo Tribunal Federal
+(artigo 102, caput).
+         A Constituição, que rege os destinos do Estado democrático de Direito, portanto, sedia
+no pretório excelso seu elemento de estabilização.
+         Compreende-se, pois, que, entre os constitucionalistas, tenha-se por assentado que, no
+capítulo destinado ao Poder Judiciário em sua competência de atribuições (artigos 92 a 126),
+
+
+---
+
+caiba aos juízos monocráticos e aos tribunais de segundo grau a missão de administrar a Justiça
+e, aos tribunais superiores (STF, STJ, TST, TSE e STM), dar estabilidade às instituições, exercendo
+o papel mais relevante, entre eles, a Suprema Corte.
+        É exatamente isso o que tem ocorrido, nos últimos tempos, no que diz respeito ao direito
+de maior importância em uma democracia, que é o direito de defesa, inexistente nos Estados
+totalitários.
+       Todos os cidadãos dignos, que constituem a esmagadora maioria da nação, são contra a
+impunidade, a corrupção, o peculato. Há de convir, todavia, que, na busca dos ﬁns legítimos de
+combate à impunidade, não se pode admitir a utilização de meios ilegítimos, risco de se
+nivelarem os bons e os maus no desrespeito à ordem jurídica e à lei suprema.
+      Ora, o simples fato de o país ter percebido, estupefato, que houve 409.000 interceptações
+telefônicas autorizadas pela Justiça, em 2007, seguido de declarações do ministro da Justiça de
+que todos devem admitir que podem estar sendo grampeados, ou do ministro chefe do serviço
+de inteligência de que a melhor forma de não ser grampeado é fechar a boca, está a demonstrar
+a existência de excessos, com a conseqüente violação desse direito, o que se tornou mais claro
+na operação da Polícia Federal de maior visibilidade (SatiagrahA).
+     Nada mais natural, portanto, que a Suprema Corte, por imposição constitucional, interviesse
+- como, efetivamente, interveio - para recolocar em seus devidos termos o direito de investigar e
+acusar, assim como o direito de defesa, cabendo ao Poder Judiciário julgar, sem preferências ou
+preconceitos, as questões que lhe são submetidas.
+      No instante em que foram diagnosticados abusos reais, a corte máxima, de imediato,
+deﬂagrou um saudável processo de conscientização de cidadãos e governantes de que tanto os
+crimes quanto os abusos devem ser coibidos, dando início a processo que desaguará em
+adequada legislação, necessária ao equilíbrio do contencioso, além, naturalmente, à busca da
+verdade, com a intervenção judiciária, isenta e justa, dentro da lei.
+        E, por força dessa tomada de consciência, não só o Conselho Nacional de Justiça impôs
+regras às autorizações judiciais como o Poder Legislativo examina projeto de lei objetivando
+evitar tais desvios. Essas medidas permitirão que as águas, que saíram do leito do rio, para ele
+voltem, com ﬁrmeza e serenidade.
+       Há de realçar, todavia, nos episódios que levaram, novamente, o país a conviver com o
+primado do Direito - especialmente com a valorização do direito de defesa, garantidor, numa
+democracia, da certeza de que o cidadão não sofrerá arbítrios -, a ﬁgura do presidente do
+Supremo Tribunal Federal, ministro Gilmar Mendes, hoje, indiscutivelmente, um dos maiores
+constitucionalistas do país, com merecido reconhecimento internacional (é doutor em direito pela
+Universidade de Münster, na Alemanha, com tese sobre o controle concentrado de
+constitucionalidade).
+      Graças à ﬁrmeza com que agiu, foi possível não só diagnosticar as violações como deﬂagrar
+todo o processo que está levando ao aperfeiçoamento das instituições, em que o combate à
+corrupção, legítimo, deve, todavia, ser realizado dentro da lei.
+      Conhecendo e admirando o eminente magistrado há quase 30 anos, a ﬁrmeza na condução
+de assuntos polêmicos, na procura das soluções adequadas e jurídicas, seu perﬁl de admirável
+jurista e sua preocupação com a "Justiça justa", tenho a certeza de que não poderia ter sido
+melhor para o país do que vê-lo dirigir o pretório excelso nesta quadra delicada.
+
+
+---
+
+    Prova inequívoca da correção de sua atuação é ter contado com o apoio incondicional dos
+demais ministros, quanto às medidas que tomou, durante a crise.
+        Parodiando a lenda do moleiro - que não quis ceder suas terras a Frederico da Prússia,
+dizendo que as defenderia, porque "ainda havia juízes em Berlim" -, posso aﬁrmar: há juízes em
+Brasília, e dos bons!
+                                     (Ives Gandra da Silva Martins. Folha de São Paulo, 16 de setembro de 2008.)
+
+Assinale a alternativa em que não se tenha feito correta correspondência entre os termos.
+A) carta política (L.2) – Constituição (L.5)
+B) lei suprema (L.25) – Constituição (L.5)
+C) corte máxima (L.43) – STJ (L.13)
+D) pretório excelso (L.76) – Supremo Tribunal Federal (L.60-61)
+E) Suprema Corte (L.36) – Supremo Tribunal Federal (L.60-61)
+Comentários:
+O termo “corte máxima” se refere ao Supremo Tribunal Federal. Gabarito Letra C.
+
+
+   14. (FGV / Ministério Público do Rio de Janeiro / 2016)
+“...O crescimento dos índices de violência e a dramática transformação do crime manifestados
+nas grandes metrópoles são alarmantes, sobretudo, na cidade do Rio de Janeiro”.
+O termo “sobretudo” só NÃO pode ser substituído adequadamente por:
+A) principalmente;
+B) geralmente;
+C) especialmente;
+D) destacadamente;
+E) particularmente.
+Comentários:
+A palavra “sobretudo” tem sentido de prioridade, preponderância, algo que é mais importante,
+acima dos outros em relevância. Portanto, apenas a palavra “geralmente” não compartilha esse
+campo semântico.
+Gabarito letra B.
+
+
+---
+
+   QUESTÕES COMENTADAS - HIPERÔNIMO E HIPÔNIMO - FGV
+1. (FGV / PC-AM / 2022)
+Nos dicionários, as palavras dos verbetes são geralmente deﬁnidas e essas deﬁnições começam
+por um termo de valor geral (hiperônimo).
+Identiﬁque a deﬁnição a seguir em que o termo inicial de caráter geral foi bem escolhido.
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O graﬁteiro é um escultor mal compreendido.
+Comentários:
+Uma relação semântica muito cobrada em prova é: hiperônimo (termo geral) > hipônimo (termo
+especíﬁco). Parece muito uma relação gênero-espécie, em sentido amplo:
+hiperônimo (termo geral) > hipônimo (termo especíﬁco)
+felino > gato
+cão > labrador
+carro > gol
+eletrodoméstico > televisão
+embarcação > navio
+A banca pediu o termo geral "adequado". Vejamos:
+(A) O caderno é um material/item escolar.
+(C) O martelo é um utensílio/uma ferramenta do carpinteiro.
+(D) O cachorro é um animal muito amado.
+(E) O graﬁteiro é um artista/pintor mal compreendido.
+Por exclusão, chegaríamos à letra B:
+(B) O jogador é um personagem (ator/agente participante) do futebol.
+Aqui, teríamos de perceber que a banca não quis dizer "personagem" no sentido restrito de uma
+obra de ﬁcção, mas no sentido de um "papel social".
+Gabarito letra B.
+
+
+2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Ao escrever um texto, o autor enfrenta várias diﬁculdades. Uma delas é evitar a repetição de
+palavras e um dos meios para isso é substituir uma palavra de valor especíﬁco por outra de
+conteúdo geral, como no exemplo a seguir.
+O sargento foi atropelado; depois de alguns minutos, chegou uma ambulância que levou o
+militar para o hospital.
+Assinale os vocábulos abaixo que mostram, respectivamente, esse mesmo tipo de relação:
+A) selvagens / índios;
+B) músicos / sambistas;
+
+
+---
+
+C) embalagens / caixas;
+D) bananeira / bananal;
+E) quarto / cômodo.
+Comentários:
+Temos uma relação de substituição que ocorre da seguinte forma: Especíﬁco => Geral, ou seja,
+Hipônimo => Hiperônimo.
+A única alternativa em que essa relação, nessa ordem, ocorre é na Letra E. Perceba que aqui
+temos uma relação de Especíﬁco => Geral: cômodo é mais geral que quarto, pois pode ser
+qualquer espaço na casa (quarto, cozinha, sala etc).
+Na alternativa C temos uma relação invertida, Geral => Especíﬁco, por isso não pode ser nosso
+gabarito. Gabarito letra E.
+
+
+---
+
+    QUESTÕES COMENTADAS - PARÔNIMO E HOMÔNIMO - FGV
+1. (FGV / IBGE / 2022)
+Parônimos são palavras semelhantes, mas de sentido diferente; a frase abaixo em que a forma
+sublinhada mostra uma forma de um parônimo/homônimo mal-empregada é
+A) O aumento era tão pequeno que passou despercebido.
+B) Ela trabalhava na seção de perfumes da loja.
+C) Falou acerca da situação política.
+D) Não estou feliz aqui; vou imigrar.
+E) Pensou em auferir grandes lucros.
+Comentários:
+O erro está na (D): Não estou feliz aqui; vou emigrar (sair daquele local).
+Imigrar é entrar num país estrangeiro; Emigrar é sair do país. Então, depende da perspectiva: da
+ótica do país estrangeiro, quem entra é imigrante; quem sai é emigrante.
+As demais estão corretas e usaremos a questão para revisar pontos importantes:
+(B) Ela trabalhava na seção (setor/divisão) de perfumes da loja.
+Sessão: reunião (sessão de cinema)
+Cessão: ato de ceder (cessão de direitos)
+(C) Falou acerca da situação política.
+Acerca de=a respeito de=sobre (falei acerca de um assunto)
+Há diversas combinações com "a", "há", "cerca" e "de":
+Cheguei há (faz) cerca de (aproximadamente) dois anos.
+Estamos a cerca de (aproximadamente) dois anos da Copa do Mundo.
+A cerca de um lado da fazenda foi derrubada.
+(E) Pensou em auferir grandes lucros.
+Não confunda com "aferir": conferir/avaliar
+É preciso aferir o taxímetro.
+Eu sempre aferi meu desempenho.
+Gabarito letra D.
+
+
+2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu parônimo;
+a única das frases cuja forma do vocábulo sublinhado está correta é:
+A) O motorista inﬂigiu as leis do trânsito;
+B) O prisioneiro dilatou os comparsas do assalto;
+C) Nada há que desabone a sua conduta imoral;
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+E) Os cumprimentos devem ser dados na entrada da festa.
+Comentários:
+
+
+---
+
+Questão bem "casca de banana". Para respondê-la, devemos ter em mente os pares mais
+conhecidos de parônimos.
+Vejamos as alternativas:
+A) INCORRETO. O correto seria "O motorista infringiu as leis de trânsito".
+B) INCORRETO. O correto seria "O prisioneiro delatou os comparsas do assalto".
+C) INCORRETO.O correto seria "Nada há que desabone a sua conduta moral".
+D) INCORRETO. O correto seria "A cobrança é bimensal, ou seja, duas vezes por mês."
+E) CORRETO. "Cumprimentos" tem o sentido de saudação. Gabarito letra E.
+
+
+3. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+A) O mandado de senador dura 8 anos;
+B) Impetrou mandato de segurança com pedido de liminar;
+C) Não tinha mandado de busca para entrar na casa;
+D) Todos desejavam que seu mandado de diretor acabasse;
+E) O mandato de apreensão não havia sido expedido.
+Comentários:
+Mandato: período de uma concessão de poderes, incumbência de uma missão, por exemplo, o
+mandato de um político.
+Mandado: ordem judicial/administrativa, por exemplo, o mandato de prisão. Por isso, está correta
+a letra C e as demais foram trocadas:
+(A) O mandaTo de senador dura 8 anos;
+(B) Impetrou mandaDo de segurança com pedido de liminar;
+(D) Todos desejavam que seu mandaTo de diretor acabasse;
+(E) O mandaDo de apreensão não havia sido expedido. Gabarito letra C.
+
+
+4. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+Há uma série de palavras em língua portuguesa que modiﬁcam o seu sentido em função de uma
+troca vocálica; esse fato só NÃO ocorre em:
+A) deferir / diferir;
+B) infarte / infarto;
+C) emergir / imergir;
+D) descrição / discrição;
+E) eminente / iminente.
+Comentários:
+
+
+---
+
+(A) deferir (conceder) / diferir (divergir/adiar);
+(B) infarte / infarto (são variantes da mesma palavra, o sentido não muda)
+(C) emergir (subir à tona) / imergir (descer, submergir);
+(D) descrição (ato de descrever) / discrição (ser discreto, reservado);
+(E) eminente (excelso, destacado) / iminente (imediato, próximo no tempo, algo que está por
+ocorrer).
+Gabarito letra B.
+
+
+5. (FGV / CÂMARA DE SALVADOR / ANALISTA LEG. / 2018)
+“tratados e declarações internacionais ratiﬁcadas pelos países”; nesse segmento do texto 1 está
+sublinhada uma palavra denominada parônimo, por ter uma forma semelhante no idioma
+(retiﬁcadas), com signiﬁcado distinto.
+A frase abaixo em que está correto o emprego da forma sublinhada é:
+A) As organizações aguardam o diferimento de seus pedidos para que possam começar a atuar
+nos conﬂitos;
+B) Alguns Estados cometem fragrantes delitos contra a segurança de seus cidadãos;
+C) Devido a conﬂitos violentos, alguns cidadãos imigram para outros países em busca de
+segurança;
+D) Houve um vultuoso comércio de mercadorias contrabandeadas no momento dos conﬂitos;
+E) As organizações procedentes de países mais desenvolvidos são normalmente mais conﬁáveis.
+Comentários:
+a) “Diferimento” signiﬁca atraso, adiamento. “Deferimento” seria a palavra adequada, no sentido
+de “anuência, aprovação, concordância”.
+b) “Fragrante” signiﬁca é cheiroso, perfumado. “Flagrante” signiﬁca evidente, visível, óbvio; esta
+deveria ter sido a palavra utilizada.
+c) Se você vai para outro país, você “emigra”. Imigrante é quem “entra” no país estrangeiro, do
+ponto de vista de quem está dentro.
+d) A ideia é de volume, vulto, então devemos usar “vultoso”, volumoso, abundante. “Vultuoso” é
+quem está com a cara inchada e vermelha, com olhos salientes.
+e) Esta é correta. Procedente signiﬁca “originário”. Precedente é aquilo que precede, que vem
+antes.
+Gabarito letra E.
+
+
+6. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que houve troca indevida entre parônimos ou homônimos é:
+A) “A evolução da técnica chegou ao ponto de tornar-nos inermes diante da técnica” / inertes;
+B) “Quem aspira a grandes coisas também deve sofrer muito” / expira;
+
+
+---
+
+C) “Aquele que não deixa nada ao acaso raramente fará coisas de modo errado, mas fará
+pouquíssimas coisas” / ocaso;
+D) “Fala como sábio a um ignorante e este te dirá que tens pouco bom senso” / censo;
+E) “Ao entrar em um restaurante, todo cliente espera satisfazer desejos de ordem física e
+emocional. Os cardápios devem vir de encontro a essas necessidades” / ao encontro de.
+Comentários:
+Essa questão tem sérios problemas de elaboração na minha opinião. Entendo que a banca queria
+saber em qual opção o termo usado está equivocado e deveria ser trocado pela expressão que
+está sublinhada.
+No entanto, as expressões “de encontro A” ou “ao encontro DE”, nosso gabarito, não são
+parônimos, não se encaixam na deﬁnição de parônimo:
+Veja a deﬁnição:
+(pa.rô.ni.mo)
+a. Gram. Ling.Diz-se da palavra que tem pronúncia e/ou graﬁa semelhante à de outra palavra
+(p.ex.: recriar e recrear). [Us. tb. como adj.]
+Então, um parônimo é uma palavra parecida com outra, como os exemplos clássicos que
+menciono abaixo e constam em quase todas as gramáticas:
+avaleiro (que cavalga)      cavalheiro (homem gentil)
+comprimento (extensão)      cumprimento (saudação)
+deferir (atender)    diferir (distinguir-se, divergir)
+delatar (denunciar) dilatar (alargar)
+descrição (ato de descrever)        discrição (reserva, prudência)
+descriminar (tirar a culpa) discriminar (distinguir)
+despensa (local onde se guardam mantimentos)             dispensa (ato de dispensar)
+docente (relativo a professores)    discente (relativo a alunos)
+emigrar (deixar um país)    imigrar (entrar num país)
+eminência (elevado)iminência (qualidade do que está iminente)
+eminente (elevado) iminente (prestes a ocorrer)
+Vejam a deﬁnição de Cegalla:
+Parônimos
+Registramos alguns parônimos (palavras parecidas na pronúncia e na escrita) que se diferenciam
+pela oposição das vogais /e/ e li/, /oi e /ui.
+As expressões “de encontro A” (ideia de choque, oposição, ir contra, discordar) e “Ao encontro
+DE” (ideia de ir no mesmo sentido, concordar) são apenas combinações diferentes de palavras,
+cujo núcleo é uma mesma palavra (encontro). Não se encaixa na deﬁnição de parônimo que vejo
+nas gramáticas. A FGV não vai anular por causa disso, mas não deixa de ser um defeito da
+questão.
+Gabarito letra E.
+
+
+---
+
+Vejamos as demais palavras:
+Inerme – desarmado, indefeso.
+Inerte – que não se movimenta, estático.
+Ocaso – Lado ou momento em que o sol se põe. Em sentido ﬁgurado, signiﬁca “ruína,
+decadência”.
+Senso – sentido, faculdade mental, razão.
+Censo – contagem estatística.
+
+
+---
+
+              QUESTÕES COMENTADAS - POLISSEMIA - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Nas frases abaixo há um termo sublinhado, empregado com duplicidade de sentido; assinale o
+termo que, apesar de signiﬁcados diversos, conserva uma base de sentido comum aos dois
+empregos.
+A) As raízes de uma árvore não são gregas nem latinas.
+B) O cabo da faca nunca passa a sargento.
+C) O sonho acabou, mas ainda tem pão-doce.
+D) A maioria dos percussionistas não bate bem da bola.
+E) A boca da noite não mostra cárie nos dentes.
+Comentário:
+Aqui, temos uma questão de polissemia, a propriedade de uma palavra ter mais de um sentido.
+Em “As raízes de uma árvore não são gregas nem latinas”, raízes tem sentido de “base, origem,
+fundamento”, tanto considerando a árvore literal, quanto considerando a árvore genealógica de
+uma palavra.
+Nas demais opções, os dois sentidos possíveis de cada palavra não têm relação alguma.
+Cabo da faca não tem relação com cabo do exército.
+Sonho com sentido de aspiração não tem relação com sonho de padaria.
+Bater na bateria não tem relação com “bater bem da bola” (ser louco).
+A boca da noite não tem relação com a boca literal, com dentes e cáries.
+Gabarito Letra A
+
+
+    2. (FGV / CGU / 2022)
+Muitos que escrevem exploram a riqueza da polissemia, ou seja, a possibilidade de um vocábulo
+mostrar mais de um signiﬁcado.
+A frase abaixo em que a polissemia NÃO está presente é:
+A) Os espelhos fariam muito bem em reﬂetir um pouco antes de reenviar as imagens;
+B) Dentro das cápsulas de viagens interplanetárias, o espaço é cada vez maior;
+C) Nos exames ﬁnais, o mestre teve uma prova do pouco estudo do aluno;
+E) O ator declarava que a sua vida tinha sido um teatro.
+Comentários:
+A) "reﬂetir" possui mais de um sentido, espelhar ou pensar, por exemplo.
+B) "espaço" possui mais de um sentido, a área física do universo não ocupada por corpos
+celestes ou a área dentro da capsula.
+C) "prova" possui mais de um sentido, teste de conhecimento ou evidência de um fato, por
+exemplo.
+
+
+---
+
+E) "teatro" possui mais de um sentido, um teatro de fato, físico, ou uma farsa, uma encenação,
+ﬁguradamente.
+Gabarito letra D.
+
+
+---
+
+            QUESTÕES COMENTADAS - AMBIGUIDADE - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe a seguinte frase, dita pelo proprietário de um restaurante soﬁsticado:
+“Meu restaurante deve comprar somente carne fresca.”
+Assinale o problema de construção encontrado nessa frase.
+A) O mau emprego do adjetivo “fresca”, que não especiﬁca claramente o signiﬁcado
+   pretendido.
+B) A ambiguidade contida no segmento “deve comprar somente carne fresca”.
+C) A construção pouco simpática de destacar-se o proprietário do restaurante por meio do
+   possessivo “meu”.
+D) O uso inadequado da forma “deve”, já que mostra a ação de comprar como obrigatória.
+E) O advérbio “somente” deveria ser deslocado para o ﬁnal da frase.
+Comentário:
+O problema é que há duas leituras possíveis em “deve comprar somente carne fresca”:
+1) vai comprar apenas carne fresca, isto é, excluindo todos os demais alimentos. Não vai ter nada
+que não seja carne fresca.
+2) vai comprar carne apenas fresca, sempre que comprar carne, ela será fresca, nunca comprará
+carne que não seja fresca.
+Gabarito Letra B
+
+
+   2. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+A frase abaixo que está isenta de ambiguidade, é:
+A) Fazer exercícios matutinos já melhoram as condições físicas.
+B) Meninos da turma desprezam menos leituras de quadrinhos.
+C) A História esclarece somente fatos passados.
+D) Vou passear também curtindo a paisagem.
+E) Na estrada vi mansões e gente de alto padrão.
+Comentário:
+Apenas a C não traz ambiguidade. Só a leitura mais literal é possível.
+A ambiguidade pode ser muito sutil, quase imperceptível. É preciso muito cuidado. Para
+conﬁrmar isso, vejamos as demais:
+a) Fazer exercícios matutinos já melhoram as condições físicas.
+1) melhoram agora e não melhoravam antes
+2) só os matutinos já melhoram
+
+
+---
+
+b) Meninos da turma desprezam menos leituras de quadrinhos.
+1) desprezavam mais antes
+2) desprezam diminuir as leituras
+d) Vou passear também curtindo a paisagem.
+1) curtindo a paisagem e fazendo outra coisa
+2) curtindo a paisagem e curtindo outra coisa
+e) Na estrada vi mansões e gente de alto padrão.
+1) apenas a gente era de alto padrão
+2) ambas eram de alto padrão
+Gabarito Letra C
+
+
+   3. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Um cliente do Banco X recebeu o seguinte e-mail:
+“Caso haja algum problema, só receba informações de funcionários do nosso Banco”.
+Assinale a opção que apresenta corretamente uma inadequação na estruturação dessa frase.
+a) a falta de paralelismo.
+b) a ambiguidade na construção.
+c) erros gramaticais.
+d) pontuação inadequada.
+e) ausência de coerência.
+Comentário:
+O vocábulo “só” possui valor de exclusão/restrição, então, dependendo de sua posição na frase,
+pode causar ambiguidade estrutural:
+“Caso haja algum problema, só receba informações de funcionários do nosso Banco”.
+Informações apenas, nada mais.
+“Caso haja algum problema, só receba informações de funcionários do nosso Banco”.
+Receba dos funcionários do banco, de ninguém mais.
+Gabarito Letra B
+
+
+    4. (FGV / CGU / 2022)
+Um dos problemas muito comuns na estruturação de um texto é a presença de ambiguidade
+sintática, ou seja, a possibilidade de mais de um entendimento para uma só frase. A frase abaixo
+que está livre de qualquer ambiguidade é:
+A) Foram à loja e escolheram um carro rápido;
+B) O pai disse ao menino que podia decidir o que quisesse;
+C) Não os aceitaram no clube pelos preconceitos;
+
+
+---
+
+D) Os meninos escolheram brinquedos que eram muito divertidos;
+E) O síndico encontrou-se com o porteiro para diminuir a sua preocupação.
+Comentários:
+Vejamos, há mais de uma leitura possível:
+A) O carro era rápido ou a escolha foi rápida.
+B) O pai disse que podia (o pai) decidir o que quisesse ou que podia (o menino) decidir o que
+quisesse.
+C) Não os aceitaram no clube pelos preconceitos do clube contra quem não foi aceito ou o
+preconceito por parte das pessoas que não foram aceitas pelo clube.
+E) O síndico encontrou-se com o porteiro para diminuir a sua preocupação (preocupação do
+síndico ou do porteiro).
+Apenas na letra D não há ambiguidade, os brinquedos eram divertidos.
+Gabarito letra D.
+
+
+   5. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Uma editora acaba de lançar o livro “Os Meninos da Caverna”, que conta a dramática história do
+resgate de um time de futebol juvenil que ﬁcou dezoito dias preso em uma caverna na Tailândia.
+A capa do livro traz o seguinte texto:
+“O passeio de um sábado à tarde que durou dezoito dias preocupou o mundo e mobilizou mil
+pessoas em um resgate quase impossível na Tailândia”.
+O problema estrutural desse pequeno texto da capa é:
+A) a má seleção vocabular do termo “passeio”;
+B) a possível ambiguidade do termo “na Tailândia”;
+C) a inclusão de exageros evidentes para atrair o leitor;
+D) a presença de várias formas verbais com o mesmo sujeito;
+E) a ausência de vírgula após “mil pessoas”.
+Comentários:
+Questão direta: na expressão “impossível na Tailândia”, temos a possibilidade de ler que aquele
+resgate é impossível apenas na Tailândia, quando sentido original não era esse. Gabarito letra B.
+
+
+---
+
+            LISTA DE QUESTÕES - CAMPO SEMÂNTICO - FGV
+   1. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eﬁciência comunicativa.
+Observe o texto a seguir, retirado de uma revista de computação. “Por mais poderoso que seja,
+um computador sem programas adequados tem pouca utilidade. E um ‘programa adequado’
+com certeza não é aquele aplicativo proﬁssional, caro e soﬁsticado que, às vezes, já vem
+instalado. De nada adiantam funções, botões e janelas, se você não conseguir fazer alguma coisa
+com eles”.
+Um dos elementos que dá coerência aos textos é a ocorrência de vocábulos que estão dentro de
+um mesmo campo semântico; nesse texto, as palavras que pertencem ao mesmo bloco
+conceitual são:
+A) computador, programas, aplicativo, janelas;
+B) computador, programa, aplicativo, soﬁsticado;
+C) programas, aplicativo, caro, instalado;
+D) caro, soﬁsticado, instalado, funções;
+E) poderoso, aplicativo, instalado, funções.
+
+
+   2. (FGV/ PREF. SALVADOR (BA) / AGENTE DE FISCALIZAÇÃO / 2019)
+“A ideia de que a natureza existe para servir o homem seria apenas ingênua, se não fosse
+perigosamente pretensiosa. Essa crença lançou raízes profundas no espírito humano, reforçada
+por doutrinas que situam corretamente o Homo Sapiens no ponto mais alto da evolução, mas
+incidem no equívoco de fazer dele uma espécie de ﬁnalidade da criação. Pode-se dizer com
+segurança que nada na natureza foi feito para alguma coisa, mas pode-se crer em permuta e
+equilíbrio entre seres e coisas”.
+                                             Lisboa, Luiz Carlos, Olhos de ver; ouvidos de ouvir. Ed. DIFEL. 2013.
+
+As opções a seguir apresentam uma série de palavras e expressões do campo semântico da
+religiosidade, à exceção de uma. Assinale-a.
+A) Olhos de ver; ouvidos de ouvir.
+B) Essa crença lançou raízes profundas.
+C) ... uma espécie de ﬁnalidade da criação.
+D) ... reforçada por doutrinas.
+E) ... nada na natureza foi feito para alguma coisa.
+
+
+---
+
+GABARITO
+ 1. LETRA A
+ 2. LETRA E
+
+
+---
+
+         LISTA DE QUESTÕES - SINÔNIMO E ANTÔNIMO - FGV
+   1. FGV – Agente de Segurança Penitenciário (DEPEN MG)/2022
+Assinale a opção que apresenta a substituição adequada dos termos sublinhados por um só
+vocábulo de signiﬁcado equivalente.
+A) Mais um verão e mais uma vez a dengue está de volta / repentinamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / frequentemente.
+C) Ele trabalha doze horas todos os dias / continuamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / progressivamente.
+
+
+   2. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+“A expressão santo do pau oco, que designa o sujeito dissimulado, ﬁngido, surgiu em Minas
+Gerais nos tempos do Brasil colonial.”
+Nessa frase, o autor usou dois adjetivos sinônimos em seguida – dissimulado, ﬁngido – talvez
+com a ﬁnalidade de tornar o texto mais claro, pois o primeiro adjetivo é de uso mais raro.
+Essa mesma estratégia foi usada na seguinte frase:
+A) A beata praticava sempre atos bondosos, caridosos;
+B) O policial ﬁcou colérico, raivoso, com a atitude do criminoso;
+C) O fugitivo foi ágil, lépido, e escapou dos perseguidores;
+D) O aluno era disciplinado, regrado, e obtinha boas notas;
+E) O vento era fraco, brando, e balançava as folhas.
+
+
+   3. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+“Estaremos caminhando para uma vida sem limites?”; a locução “sem limites” equivale ao
+adjetivo “ilimitada”.
+A locução abaixo que corresponde semanticamente ao adjetivo dado, é:
+A) comida sem sabor / comida insossa;
+B) guerra sem trégua / guerra interrompida;
+C) porta sem chave / porta aberta;
+D) pessoa sem audição / pessoa deﬁciente;
+E) carne sem sal / carne insípida.
+
+
+---
+
+   4. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Um problema da língua escrita é a polissemia das palavras, que pode gerar mais de um
+entendimento da frase.
+A frase abaixo em que isso ocorre com o termo sublinhado é:
+A) Comprou um romance de estilo moderno;
+B) Após dois anos, perdeu os óculos;
+C) Vi o automóvel importado por meu tio;
+D) Comprou uma caixa de ovos;
+E) Adquiriu um terno na semana passada.
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase a seguir em que os termos sublinhados podem ser considerados sinônimos é:
+A) A batata está custando caro, como, aliás, todo cereal;
+B) A educação é tarefa dos pais, e a cultura, do Estado;
+C) A maior greve ocorreu em 1950; a paralisação durou um mês;
+D) A operação e o tratamento foram demasiadamente caros;
+E) As crianças adoram doce, principalmente chocolate.
+
+
+   7. (FGV/ IBGE / COORDENADOR CENSITÁRIO / 2019)
+Prisão de traﬁcante mostra eﬁcácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os termos que mostram a mesma relação semântica (antônimos) entre compra e venda são:
+
+
+A) comprovação / falsiﬁcação;                        C) certeza / dúvida;
+B) hipocrisia / demonstração;                        D) inteligência / esperteza;
+                                                     E) subordinação / coordenação.
+
+
+---
+
+   8. (FGV/ TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+A frase abaixo que NÃO se estrutura com base numa oposição é:
+A) A tortura é um meio seguro de absolver os criminosos robustos e condenar os fracos
+inocentes;
+B) Muitos primeiros virão a ser os últimos;
+C) A glória deve ser conquistada; a honra, por sua vez, basta que não seja perdida;
+D) Nenhuma lei se adapta igualmente bem a todos;
+E) Infeliz é aquele discípulo que não supera seu mestre.
+
+
+   9. (FGV/ MPE-RJ / OFICIAL / 2019)
+A psicóloga Fernanda Furia escreveu uma reportagem sobre Inteligência Digital, que dizia o
+seguinte: Nas últimas décadas a nossa vida vem se tornando digital. Estamos a todo momento
+não somente usando diversas tecnologias como também sendo, sem perceber, profundamente
+inﬂuenciados por elas. Vivemos rodeados de tecnologias digitais acessíveis, intuitivas, disruptivas
+e extremamente atraentes, o que nos coloca em uma posição ao mesmo tempo de poder e de
+vulnerabilidade.
+Sobre o vocabulário empregado nesse texto, a única indicação de signiﬁcado equivocada é:
+A) década = espaço de dez anos;
+B) diversas tecnologias = tecnologias diferentes;
+C) acessíveis = disponíveis;
+D) disruptivas = que mostram quebra, interrupção;
+E) vulnerabilidade = fraqueza.
+
+
+   10. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que o termo sublinhado tem um sinônimo indicado corretamente é:
+A) “A razão nos é dada para discernir o bem e o mal” / julgar;
+B) “Quem decide praticar o mal, encontra sempre um pretexto” / castigo;
+C) “Poucas vezes falta engenho à maldade” / trabalho;
+D) “A educação seria a arte de parecer inofensivo” / inocente;
+E) “Não pode haver educação onde não há discrição” / reserva.
+
+
+   11. (FGV / COMPESA / ADVOGADO / 2016)
+ Sobre os vocábulos do texto 1, assinale a aﬁrmativa correta.
+ A) paulistanas é o mesmo que paulistas.
+ B) gélidas mostra menos intensidade que frias.
+ C) insalubres signiﬁca algo fora dos padrões legais.
+
+
+---
+
+ D) municipais são instituições de responsabilidade do estado.
+ E) desrespeitoso indica falta de respeito aos cidadãos.
+
+
+    12. (FGV / PREF. PAULÍNIA-SP / AGENTE DE FISCALIZAÇÃO / 2016)
+“...revelaram que 36,3% dos pontos de coleta analisados apresentam qualidade ruim ou
+péssima.”
+A relação semântica entre “ruim ou péssima” se repete em
+A) distante ou longe.
+B) perto ou próximo.
+C) amado ou adorado.
+D) variado ou diversiﬁcado.
+E) fácil ou difícil.
+
+
+    13. (FGV / SENADO / CONSULTOR DE ORÇAMENTO / 2008)
+                              O STF e a estabilidade das instituições
+           Em 5 de outubro de 1988, com meridiana clareza, ao ser outorgada uma nova carta
+política à nação, o constituinte determinou que seu guardião seria o Supremo Tribunal Federal
+(artigo 102, caput).
+         A Constituição, que rege os destinos do Estado democrático de Direito, portanto, sedia
+no pretório excelso seu elemento de estabilização.
+          Compreende-se, pois, que, entre os constitucionalistas, tenha-se por assentado que, no
+capítulo destinado ao Poder Judiciário em sua competência de atribuições (artigos 92 a 126),
+caiba aos juízos monocráticos e aos tribunais de segundo grau a missão de administrar a Justiça
+e, aos tribunais superiores (STF, STJ, TST, TSE e STM), dar estabilidade às instituições, exercendo
+o papel mais relevante, entre eles, a Suprema Corte.
+          É exatamente isso o que tem ocorrido, nos últimos tempos, no que diz respeito ao direito
+de maior importância em uma democracia, que é o direito de defesa, inexistente nos Estados
+totalitários.
+         Todos os cidadãos dignos, que constituem a esmagadora maioria da nação, são contra a
+impunidade, a corrupção, o peculato. Há de convir, todavia, que, na busca dos ﬁns legítimos de
+combate à impunidade, não se pode admitir a utilização de meios ilegítimos, risco de se
+nivelarem os bons e os maus no desrespeito à ordem jurídica e à lei suprema.
+               Ora, o simples fato de o país ter percebido, estupefato, que houve 409.000
+interceptações telefônicas autorizadas pela Justiça, em 2007, seguido de declarações do ministro
+da Justiça de que todos devem admitir que podem estar sendo grampeados, ou do ministro
+chefe do serviço de inteligência de que a melhor forma de não ser grampeado é fechar a boca,
+está a demonstrar a existência de excessos, com a conseqüente violação desse direito, o que se
+tornou mais claro na operação da Polícia Federal de maior visibilidade (SatiagrahA).
+              Nada mais natural, portanto, que a Suprema Corte, por imposição constitucional,
+interviesse - como, efetivamente, interveio - para recolocar em seus devidos termos o direito de
+
+
+---
+
+investigar e acusar, assim como o direito de defesa, cabendo ao Poder Judiciário julgar, sem
+preferências ou preconceitos, as questões que lhe são submetidas.
+          No instante em que foram diagnosticados abusos reais, a corte máxima, de imediato,
+deﬂagrou um saudável processo de conscientização de cidadãos e governantes de que tanto os
+crimes quanto os abusos devem ser coibidos, dando início a processo que desaguará em
+adequada legislação, necessária ao equilíbrio do contencioso, além, naturalmente, à busca da
+verdade, com a intervenção judiciária, isenta e justa, dentro da lei.
+          E, por força dessa tomada de consciência, não só o Conselho Nacional de Justiça impôs
+regras às autorizações judiciais como o Poder Legislativo examina projeto de lei objetivando
+evitar tais desvios. Essas medidas permitirão que as águas, que saíram do leito do rio, para ele
+voltem, com ﬁrmeza e serenidade.
+         Há de realçar, todavia, nos episódios que levaram, novamente, o país a conviver com o
+primado do Direito - especialmente com a valorização do direito de defesa, garantidor, numa
+democracia, da certeza de que o cidadão não sofrerá arbítrios -, a ﬁgura do presidente do
+Supremo Tribunal Federal, ministro Gilmar Mendes, hoje, indiscutivelmente, um dos maiores
+constitucionalistas do país, com merecido reconhecimento internacional (é doutor em direito pela
+Universidade de Münster, na Alemanha, com tese sobre o controle concentrado de
+constitucionalidadE).
+          Graças à ﬁrmeza com que agiu, foi possível não só diagnosticar as violações como
+deﬂagrar todo o processo que está levando ao aperfeiçoamento das instituições, em que o
+combate à corrupção, legítimo, deve, todavia, ser realizado dentro da lei.
+           Conhecendo e admirando o eminente magistrado há quase 30 anos, a ﬁrmeza na
+condução de assuntos polêmicos, na procura das soluções adequadas e jurídicas, seu perﬁl de
+admirável jurista e sua preocupação com a "Justiça justa", tenho a certeza de que não poderia
+ter sido melhor para o país do que vê-lo dirigir o pretório excelso nesta quadra delicada.
+        Prova inequívoca da correção de sua atuação é ter contado com o apoio incondicional
+dos demais ministros, quanto às medidas que tomou, durante a crise.
+           Parodiando a lenda do moleiro - que não quis ceder suas terras a Frederico da Prússia,
+dizendo que as defenderia, porque "ainda havia juízes em Berlim" -, posso aﬁrmar: há juízes em
+Brasília, e dos bons!
+                                       (Ives Gandra da Silva Martins. Folha de S. Paulo, 16 de setembro de 2008.)
+Assinale a alternativa em que não se tenha feito correta correspondência entre os termos.
+A) carta política (L.2) – Constituição (L.5)
+B) lei suprema (L.25) – Constituição (L.5)
+C) corte máxima (L.43) – STJ (L.13)
+D) pretório excelso (L.76) – Supremo Tribunal Federal (L.60-61)
+E) Suprema Corte (L.36) – Supremo Tribunal Federal (L.60-61)
+
+
+---
+
+   14. (FGV / Ministério Público do Rio de Janeiro / 2016)
+“...O crescimento dos índices de violência e a dramática transformação do crime manifestados
+nas grandes metrópoles são alarmantes, sobretudo, na cidade do Rio de Janeiro”.
+O termo “sobretudo” só NÃO pode ser substituído adequadamente por:
+A) principalmente;
+B) geralmente;
+C) especialmente;
+D) destacadamente;
+E) particularmente.
+
+                                         GABARITO
+
+
+                                            1. LETRA D
+                                            2. LETRA B
+                                            3. LETRA B
+                                            4. LETRA B
+                                            5. LETRA E
+                                            6. LETRA C
+                                            7. LETRA C
+                                            8. LETRA D
+                                            9. LETRA C
+                                            10. LETRA E
+                                            11. LETRA E
+                                            12. LETRA C
+                                            13. LETRA C
+                                            14. LETRA B
+
+
+---
+
+       LISTA DE QUESTÕES - HIPERÔNIMO E HIPÔNIMO - FGV
+1. (FGV / PC-AM / 2022)
+Nos dicionários, as palavras dos verbetes são geralmente deﬁnidas e essas deﬁnições começam
+por um termo de valor geral (hiperônimo).
+Identiﬁque a deﬁnição a seguir em que o termo inicial de caráter geral foi bem escolhido.
+A) O caderno é um utensílio escolar.
+B) O jogador é um personagem do futebol.
+C) O martelo é um objeto do carpinteiro.
+D) O cachorro é um réptil muito amado.
+E) O graﬁteiro é um escultor mal compreendido.
+
+
+2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Ao escrever um texto, o autor enfrenta várias diﬁculdades. Uma delas é evitar a repetição de
+palavras e um dos meios para isso é substituir uma palavra de valor especíﬁco por outra de
+conteúdo geral, como no exemplo a seguir.
+O sargento foi atropelado; depois de alguns minutos, chegou uma ambulância que levou o
+militar para o hospital.
+Assinale os vocábulos abaixo que mostram, respectivamente, esse mesmo tipo de relação:
+A) selvagens / índios;
+B) músicos / sambistas;
+C) embalagens / caixas;
+D) bananeira / bananal;
+E) quarto / cômodo.
+
+                                       GABARITO
+                                          1. LETRA B
+                                          2. LETRA E
+
+
+---
+
+         LISTA DE QUESTÕES - PARÔNIMO E HOMÔNIMO - FGV
+1. (FGV / IBGE / 2022)
+Parônimos são palavras semelhantes, mas de sentido diferente; a frase abaixo em que a forma
+sublinhada mostra uma forma de um parônimo/homônimo mal-empregada é
+A) O aumento era tão pequeno que passou despercebido.
+B) Ela trabalhava na seção de perfumes da loja.
+C) Falou acerca da situação política.
+D) Não estou feliz aqui; vou imigrar.
+E) Pensou em auferir grandes lucros.
+
+
+2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu parônimo;
+a única das frases cuja forma do vocábulo sublinhado está correta é:
+A) O motorista inﬂigiu as leis do trânsito;
+B) O prisioneiro dilatou os comparsas do assalto;
+C) Nada há que desabone a sua conduta imoral;
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+E) Os cumprimentos devem ser dados na entrada da festa.
+
+
+3. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+A) O mandado de senador dura 8 anos;
+B) Impetrou mandato de segurança com pedido de liminar;
+C) Não tinha mandado de busca para entrar na casa;
+D) Todos desejavam que seu mandado de diretor acabasse;
+E) O mandato de apreensão não havia sido expedido.
+
+
+4. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+Há uma série de palavras em língua portuguesa que modiﬁcam o seu sentido em função de uma
+troca vocálica; esse fato só NÃO ocorre em:
+A) deferir / diferir;
+B) infarte / infarto;
+C) emergir / imergir;
+D) descrição / discrição;
+E) eminente / iminente.
+
+
+---
+
+5. (FGV / CÂMARA DE SALVADOR / ANALISTA LEG. / 2018)
+“tratados e declarações internacionais ratiﬁcadas pelos países”; nesse segmento do texto 1 está
+sublinhada uma palavra denominada parônimo, por ter uma forma semelhante no idioma
+(retiﬁcadas), com signiﬁcado distinto.
+A frase abaixo em que está correto o emprego da forma sublinhada é:
+A) As organizações aguardam o diferimento de seus pedidos para que possam começar a atuar
+nos conﬂitos;
+B) Alguns Estados cometem fragrantes delitos contra a segurança de seus cidadãos;
+C) Devido a conﬂitos violentos, alguns cidadãos imigram para outros países em busca de
+segurança;
+D) Houve um vultuoso comércio de mercadorias contrabandeadas no momento dos conﬂitos;
+E) As organizações procedentes de países mais desenvolvidos são normalmente mais conﬁáveis.
+
+
+6. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que houve troca indevida entre parônimos ou homônimos é:
+A) “A evolução da técnica chegou ao ponto de tornar-nos inermes diante da técnica” / inertes;
+B) “Quem aspira a grandes coisas também deve sofrer muito” / expira;
+C) “Aquele que não deixa nada ao acaso raramente fará coisas de modo errado, mas fará
+pouquíssimas coisas” / ocaso;
+D) “Fala como sábio a um ignorante e este te dirá que tens pouco bom senso” / censo;
+E) “Ao entrar em um restaurante, todo cliente espera satisfazer desejos de ordem física e
+emocional. Os cardápios devem vir de encontro a essas necessidades” / ao encontro de.
+
+                                        GABARITO
+                                           1. LETRA D
+                                           2. LETRA E
+                                           3. LETRA C
+                                           4. LETRA B
+                                           5. LETRA E
+                                           6. LETRA E
+
+
+---
+
+                LISTA DE QUESTÕES - POLISSEMIA - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Nas frases abaixo há um termo sublinhado, empregado com duplicidade de sentido; assinale o
+termo que, apesar de signiﬁcados diversos, conserva uma base de sentido comum aos dois
+empregos.
+A) As raízes de uma árvore não são gregas nem latinas.
+B) O cabo da faca nunca passa a sargento.
+C) O sonho acabou, mas ainda tem pão-doce.
+D) A maioria dos percussionistas não bate bem da bola.
+E) A boca da noite não mostra cárie nos dentes.
+
+
+    2. (FGV / CGU / 2022)
+Muitos que escrevem exploram a riqueza da polissemia, ou seja, a possibilidade de um vocábulo
+mostrar mais de um signiﬁcado.
+A frase abaixo em que a polissemia NÃO está presente é:
+A) Os espelhos fariam muito bem em reﬂetir um pouco antes de reenviar as imagens;
+B) Dentro das cápsulas de viagens interplanetárias, o espaço é cada vez maior;
+C) Nos exames ﬁnais, o mestre teve uma prova do pouco estudo do aluno;
+E) O ator declarava que a sua vida tinha sido um teatro.
+
+                                        GABARITO
+
+                                            1. LETRA A
+                                            2. LETRA D
+
+
+---
+
+                LISTA DE QUESTÕES - AMBIGUIDADE - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe a seguinte frase, dita pelo proprietário de um restaurante soﬁsticado:
+“Meu restaurante deve comprar somente carne fresca.”
+Assinale o problema de construção encontrado nessa frase.
+A) O mau emprego do adjetivo “fresca”, que não especiﬁca claramente o signiﬁcado
+   pretendido.
+B) A ambiguidade contida no segmento “deve comprar somente carne fresca”.
+C) A construção pouco simpática de destacar-se o proprietário do restaurante por meio do
+   possessivo “meu”.
+D) O uso inadequado da forma “deve”, já que mostra a ação de comprar como obrigatória.
+E) O advérbio “somente” deveria ser deslocado para o ﬁnal da frase.
+
+
+   2. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+A frase abaixo que está isenta de ambiguidade, é:
+A) Fazer exercícios matutinos já melhoram as condições físicas.
+B) Meninos da turma desprezam menos leituras de quadrinhos.
+C) A História esclarece somente fatos passados.
+D) Vou passear também curtindo a paisagem.
+E) Na estrada vi mansões e gente de alto padrão.
+
+
+   3. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Um cliente do Banco X recebeu o seguinte e-mail:
+“Caso haja algum problema, só receba informações de funcionários do nosso Banco”.
+Assinale a opção que apresenta corretamente uma inadequação na estruturação dessa frase.
+A) a falta de paralelismo.
+B) a ambiguidade na construção.
+C) erros gramaticais.
+D) pontuação inadequada.
+E) ausência de coerência.
+
+
+---
+
+    4. (FGV / CGU / 2022)
+Um dos problemas muito comuns na estruturação de um texto é a presença de ambiguidade
+sintática, ou seja, a possibilidade de mais de um entendimento para uma só frase. A frase abaixo
+que está livre de qualquer ambiguidade é:
+A) Foram à loja e escolheram um carro rápido;
+B) O pai disse ao menino que podia decidir o que quisesse;
+C) Não os aceitaram no clube pelos preconceitos;
+D) Os meninos escolheram brinquedos que eram muito divertidos;
+E) O síndico encontrou-se com o porteiro para diminuir a sua preocupação.
+
+
+   5. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Uma editora acaba de lançar o livro “Os Meninos da Caverna”, que conta a dramática história do
+resgate de um time de futebol juvenil que ﬁcou dezoito dias preso em uma caverna na Tailândia.
+A capa do livro traz o seguinte texto:
+“O passeio de um sábado à tarde que durou dezoito dias preocupou o mundo e mobilizou mil
+pessoas em um resgate quase impossível na Tailândia”.
+O problema estrutural desse pequeno texto da capa é:
+A) a má seleção vocabular do termo “passeio”;
+B) a possível ambiguidade do termo “na Tailândia”;
+C) a inclusão de exageros evidentes para atrair o leitor;
+D) a presença de várias formas verbais com o mesmo sujeito;
+E) a ausência de vírgula após “mil pessoas”.
+
+                                          GABARITO
+                                               1. LETRA B
+                                               2. LETRA C
+                                               3. LETRA B
+                                               4. LETRA D
+                                               5. LETRA B
+
+
+---

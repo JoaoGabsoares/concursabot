@@ -1,0 +1,167 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 09_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: 09
+titulo_aula: DEFINIÇÃO                                   CONSISTEM EM PARCERIAS ENTRE
+  O GOVERNO E A SOCIEDADE.
+---
+
+# DEFINIÇÃO                                   CONSISTEM EM PARCERIAS ENTRE O GOVERNO E A SOCIEDADE.
+
+DEFINIÇÃO                                   CONSISTEM EM PARCERIAS ENTRE O GOVERNO E A SOCIEDADE.
+
+                                                                          BUSCAM A PARTICIPAÇÃO DIRETA DO POVO NA GESTÃO PÚBLICA, OU SEJA, O
+                                OBJETIVO                                  OBJETIVO É A BUSCA DE UMA DEMOCRACIA PARTICIPATIVA (DEMOCRACIA DIRETA).
+
+        PROCESSOS PARTICIPATIVOS
+                                                                           EXISTEM 3 NÍVEIS DE PARTICIPAÇÃO POPULAR (PATEMAN)
+           DE GESTÃO PÚBLICA
+
+                      INDIVÍDUOS SÃO APENAS CONSULTADOS SOBRE ALGUM ASSUNTO (ENDOSSAM A DECISÃO DO LÍDER).
+                                                                                                                  PSEUDOPARTICIPAÇÃO
+                                                          NÃO HÁ PARTICIPAÇÃO DIRETA NA TOMADA DE DECISÃO.
+
+
+   MUITOS TOMAM PARTE NO PROCESSO DECISÓRIO, MAS O PODER FINAL DE DECIDIR PERTENCE A APENAS UMA DAS PARTES.
+                                                                                                                 PARTICIPAÇÃO PARCIAL
+PROCESSO NO QUAL O INDIVÍDUO PODE INFLUENCIAR NA TOMADA DE DECISÕES, MAS A DECISÃO FINAL NÃO É DO INDIVÍDUO.
+
+                     CADA MEMBRO ISOLADAMENTE TEM IGUAL PODER DE DETERMINAR O RESULTADO FINAL DAS DECISÕES.
+                                                                                                                  PARTICIPAÇÃO PLENA
+   INDIVÍDUOS PODEM TOMAR SUAS PRÓPRIAS DECISÕES E PARTICIPAM EFETIVAMENTE DO RESULTADO FINAL DAS DECISÕES.
+
+
+                                                                                                                                   ADMINISTRAÇÃO PÚBLICA
+                                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---
+
+                 DEFINIÇÃO                         SÃO INSTRUMENTOS TÍPICOS DA ADMINISTRAÇÃO PÚBLICA GERENCIAL.
+
+                  OBJETIVO                        POSSIBILITAR QUE OS CIDADÃOS PARTICIPEM E FISCALIZEM A ADMINISTRAÇÃO PÚBLICA.
+
+           CONSELHOS DE GESTÃO
+                                                                                                        CARACTERÍSTICAS
+ (CONSELHOS GESTORES DE POLÍTICAS PÚBLICAS)                                             ❑ SÃO CANAIS INSTITUCIONAIS, PLURAIS, AUTÔNOMOS (POSSUEM
+                                                                                          PREVISÃO LEGISLATIVA).
+                                                                                        ❑ SÃO ESPAÇOS PÚBLICOS NÃO-ESTATAIS.
+                                                                                        ❑ FORMADOS POR REPRESENTANTES DA SOCIEDADE CIVIL E DO
+                                                                                          PODER PÚBLICO (PRINCÍPIO DA PARIDADE).
+                                                                                        ❑ POSSUEM A ATRIBUIÇÃO DE FORMULAR, AVALIAR, FISCALIZAR E
+           NATUREZA DOS CONSELHOS DE GESTÃO                                               SUPERVISIONAR AS POLÍTICAS PÚBLICAS.
+                                                                                        ❑ SÃO ÓRGÃOS DE GESTÃO PÚBLICA VINCULADOS À ESTRUTURA
+                                                                                          DO PODER EXECUTIVO.
+                                                                                        ❑ SÃO MECANISMOS DE DEMOCRACIA E CONTROLE SOCIAL.
+CONSELHO CONSULTIVO      CIDADÃO É CONSULTADO A RESPEITO DA EXECUÇÃO DE POLÍTICAS PÚBLICAS.
+
+CONSELHO DELIBERATIVO    CIDADÃO FAZ PARTE DA TOMADA DE DECISÕES/DELIBERAÇÕES A RESPEITO DE DETERMINADO ASSUNTO.
+
+CONSELHO NORMATIVO       CIDADÃO FAZ PARTE DO ESTABELECIMENTO DE NORMAS E DIRETRIZES DAS POLÍTICAS PÚBLICAS.
+
+CONSELHO FISCALIZADOR    CIDADÃO FISCALIZA A IMPLEMENTAÇÃO DAS POLÍTICAS PÚBLICAS E SEUS RESULTADOS.                       ADMINISTRAÇÃO PÚBLICA
+                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+           CONSELHOS DE GESTÃO
+ (CONSELHOS GESTORES DE POLÍTICAS PÚBLICAS)
+
+           NATUREZA DOS CONSELHOS DE GESTÃO
+
+CONSELHO DE GESTÃO FISCAL           ESTÁ PREVISTO NA LEI DE RESPONSABILIDADE FISCAL (LRF), PORÉM AINDA NÃO FOI CRIADO.
+
+
+             OBJETIVO: BUSCA INSTITUCIONALIZAR A PARTICIPAÇÃO DA SOCIEDADE CIVIL NA AVALIAÇÃO DA GESTÃO FISCAL (INSTRUMENTO DE CONTROLE SOCIAL).
+
+                                    ❑ ACOMPANHA E AVALIA A POLÍTICA E A OPERACIONALIDADE DA GESTÃO FISCAL.
+                                    ❑ CONSTITUÍDO POR REPRESENTANTES DE TODOS OS PODERES E ESFERAS DE GOVERNO, DO MINISTÉRIO PÚBLICO E DE
+                                      ENTIDADES TÉCNICAS REPRESENTATIVAS DA SOCIEDADE.
+             CARACTERÍSTICAS        ❑ VISA À HARMONIZAÇÃO E COORDENAÇÃO ENTRE OS ENTES DA FEDERAÇÃO.
+                                    ❑ VISA À DISSEMINAÇÃO DE PRÁTICAS QUE RESULTEM EM MAIOR EFICIÊNCIA NA ALOCAÇÃO E EXECUÇÃO DO GASTO
+                                      PÚBLICO, NA ARRECADAÇÃO DE RECEITAS, NO CONTROLE DO ENDIVIDAMENTO E NA TRANSPARÊNCIA DA GESTÃO FISCAL.
+                                    ❑ REALIZA A DIVULGAÇÃO DE ANÁLISES, ESTUDOS E DIAGNÓSTICOS.
+                                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                         ORÇAMENTO PARTICIPATIVO
+                                          DEFINIÇÃO
+
+    É UMA TÉCNICA ORÇAMENTÁRIA EM QUE A ALOCAÇÃO DE ALGUNS RECURSOS CONTIDOS
+    NO ORÇAMENTO PÚBLICO É DECIDIDA COM A PARTICIPAÇÃO DIRETA DA POPULAÇÃO.
+
+                      ❑PERMITE QUE A SOCIEDADE EXERÇA A CIDADANIA.
+                      ❑REFORÇA A TRANSPARÊNCIA E A PRESTAÇÃO DE CONTAS.
+                      ❑SOMENTE SÃO COLOCADOS PARA DECISÃO DA POPULAÇÃO UMA PARTE DOS
+                       RECURSOS.
+CARACTERÍSTICAS       ❑RESTRINGE-SE AO ÂMBITO MUNICIPAL, EXCEPCIONALMENTE ESTADUAL.
+                      ❑NÃO SUBSTITUI A FUNÇÃO DO PODER EXECUTIVO E NEM DO PODER
+                       LEGISLATIVO.
+                      ❑MAIOR RIGIDEZ NA PROGRAMAÇÃO DOS INVESTIMENTOS.
+
+           ATENÇÃO! O ESTATUTO DAS CIDADES (LEI Nº 10.527/2001) PREVÊ QUE NO
+           ÂMBITO   MUNICIPAL A   GESTÃO      ORÇAMENTÁRIA                 PARTICIPATIVA   É   CONDIÇÃO
+           OBRIGATÓRIA PARA A APROVAÇÃO DO PPA, LDO E LOA PELA CÂMARA MUNICIPAL.
+
+                                                                                                          ADMINISTRAÇÃO PÚBLICA
+                                                                         ESTRATÉGIA CONCURSOS
+
+
+---
+
+SÃO ESPAÇOS AMPLOS E DEMOCRÁTICOS DE DISCUSSÃO E ARTICULAÇÃO
+COLETIVAS DE PROPOSTAS E ESTRATÉGIAS DE ORGANIZAÇÃO.
+                                                                                     DEFINIÇÃO
+
+                                             CONFERÊNCIAS DE POLÍTICAS PÚBLICAS
+
+❑REÚNE O GOVERNO E A SOCIEDADE CIVIL ORGANIZADA PARA DEBATER E DECIDIR AS
+ PRIORIDADES NAS POLÍTICAS PÚBLICAS NOS PRÓXIMOS ANOS.
+❑FUNCIONA COMO PARTE DE UM PROCESSO AMPLO DE DIÁLOGO E
+ DEMOCRATIZAÇÃO DA GESTÃO PÚBLICA (NÃO É ALGO ISOLADO).                         CARACTERÍSTICAS
+❑PODEM SER REALIZADAS EM ÂMBITO MUNICIPAL, ESTADUAL E FEDERAL.
+❑CONFERE E AVALIA O QUE ESTÁ SENDO REALIZADO E PROPÕE NOVAS MEDIDAS.
+❑DEPENDE DA PARTICIPAÇÃO POPULAR.
+
+                                                                                        ADMINISTRAÇÃO PÚBLICA
+                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                      ❑TRATA-SE DE UM INSTRUMENTO PREVISTO NA CF/88.
+                      ❑É UM ESPAÇO DE CONVERSAÇÃO ABERTO PARA A CO-CONSTRUÇÃO DE
+                       SOLUÇÕES PARA AS QUESTÕES APRESENTADAS PELA COMUNIDADE.
+                      ❑INCENTIVA OS INDIVÍDUOS A BUSCAREM SOLUÇÕES PARA PROBLEMAS
+                       PÚBLICOS.
+                      ❑PROMOVE INTERAÇÃO ENTRE AS CASAS LEGISLATIVAS E AS ENTIDADES DA
+ CARACTERÍSTICAS       SOCIEDADE CIVIL (ESTREITA RELAÇÕES ENTRE REPRESENTANTES E
+                       REPRESENTADOS).
+                      ❑NÃO POSSUEM CARÁTER VINCULANTE (PARLAMENTARES NÃO SÃO
+                       OBRIGADOS A IMPLEMENTAR O QUE FOI DEFENDIDO NAS AUDIÊNCIAS).
+                      ❑CONSIDERA-SE QUE O PESO DAS AUDIÊNCIAS É RELATIVAMENTE MENOR DO
+                       QUE O DAS OUTRAS FORMAS DE PARTICIPAÇÃO.
+
+                      É UM INSTRUMENTO DO DIÁLOGO ESTABELECIDO COM A
+      DEFINIÇÃO       SOCIEDADE NA BUSCA DE SOLUÇÕES PARA AS DEMANDAS SOCIAIS.
+
+AUDIÊNCIAS PÚBLICAS
+
+                                                                          ADMINISTRAÇÃO PÚBLICA
+                                         ESTRATÉGIA CONCURSOS
+
+
+---

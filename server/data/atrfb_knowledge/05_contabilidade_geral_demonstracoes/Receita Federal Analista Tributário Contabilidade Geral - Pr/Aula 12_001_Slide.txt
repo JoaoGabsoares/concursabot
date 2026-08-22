@@ -1,0 +1,790 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+CPC 26 – APRESENTAÇÃO DAS
+DEMONSTRAÇÕES CONTÁBEIS
+
+
+                                            Prof. Gilmar Possati
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ASPECTOS INTRODUTÓRIOS
+
+
+                                          Prof. Gilmar Possati
+
+
+
+     https://t.me/KakashiAssinaturasBot
+Objetivo
+
+q Definir a base para a apresentação das demonstrações contábeis, para
+  assegurar a comparabilidade tanto com as demonstrações contábeis
+  de períodos anteriores da mesma entidade quanto com as
+  demonstrações contábeis de outras entidades.
+q Estabelecer requisitos gerais para a apresentação das demonstrações
+  contábeis, diretrizes para a sua estrutura e os requisitos mínimos para
+  seu conteúdo.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Alcance
+
+q Todas as demonstrações contábeis elaboradas e apresentadas de
+  acordo com os Pronunciamentos, Orientações e Interpretações do
+  Comitê de Pronunciamentos Contábeis. O CPC 26 aplica-se
+  igualmente a todas as entidades, inclusive àquelas que apresentem
+  demonstrações contábeis consolidadas ou demonstrações contábeis
+  separadas.
+q não se aplica à estrutura e ao conteúdo de demonstrações contábeis
+  intermediárias condensadas elaboradas segundo o CPC 21.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Finalidade das Demonstrações
+q As demonstrações contábeis são uma representação estruturada
+  da posição patrimonial e financeira e do desempenho da entidade.
+q o objetivo das demonstrações contábeis é o de proporcionar
+  informação acerca da posição patrimonial e financeira, do
+  desempenho e dos fluxos de caixa da entidade que seja útil a um
+  grande número de usuários em suas avaliações e tomada de
+  decisões econômicas.
+q também objetivam apresentar os resultados da atuação da
+  administração, em face de seus deveres e responsabilidades na
+  gestão diligente dos recursos que lhe foram confiados.
+
+
+                       https://t.me/KakashiAssinaturasBot
+Conjunto Completo das
+         DCs
+a) balanço patrimonial ao final do período;
+b1) demonstração do resultado do período;
+b2) demonstração do resultado abrangente do período;
+c) demonstração das mutações do patrimônio líquido do período;
+d) demonstração dos fluxos de caixa do período;
+e) notas explicativas, compreendendo as políticas contábeis
+significativas e outras informações elucidativas;
+ea) informações comparativas com o período anterior;
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+Conjunto Completo das
+         DCs
+f) balanço patrimonial do início do período mais antigo,
+comparativamente apresentado, quando a entidade aplica uma política
+contábil retrospectivamente ou procede à reapresentação retrospectiva
+de itens das demonstrações contábeis, ou quando procede à
+reclassificação de itens de suas demonstrações contábeis.
+f1) demonstração do valor adicionado do período, conforme CPC 09 –
+Demonstração do Valor Adicionado, se exigido legalmente ou por algum
+órgão regulador ou mesmo se apresentada voluntariamente.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+AFRFB/2012
+O conjunto completo das demonstrações contábeis exigidas pelas
+Normas Brasileiras de Contabilidade inclui
+a) o relatório do Conselho de Administração e as Notas Explicativas,
+compreendendo um resumo das políticas contábeis significativas.
+b) o resumo das políticas Contábeis e                        o   Valor   Adicionado
+obrigatoriamente a todos os tipos de entidade.
+c) a Demonstração do Valor Adicionado, se entidade prestadora de
+serviços, e de Resultado Abrangente, se instituição financeira.
+d) as Demonstrações dos Fluxos de Caixa e das Mutações do Patrimônio
+Líquido do período.
+e) a Demonstração da Conta Lucros / Prejuízos Acumulados e o Relatório
+de Impacto Ambiental.
+                        https://t.me/KakashiAssinaturasBot
+Inédita
+Segundo o CPC 26, o objetivo das demonstrações contábeis é o de
+proporcionar informação acerca da posição patrimonial e financeira, do
+desempenho e dos fluxos de caixa da entidade que seja útil a um grande
+número de usuários em suas avaliações e tomada de decisões
+econômicas. Nesse sentido, para que a entidade que reporta a
+informação possa atingir esse objetivo, ela deve priorizar as informações
+presentes no balanço patrimonial e na demonstração do resultado do
+exercício, pois são as principais demonstrações contábeis.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Considerações Gerais
+q As DCs devem representar apropriadamente a posição financeira e
+  patrimonial, o desempenho e os fluxos de caixa da entidade;
+q As DCs devem ser elaboradas no pressuposto da continuidade, a
+  menos que a administração tenha intenção de liquidar a entidade ou
+  cessar seus negócios, ou ainda não possua uma alternativa realista
+  seno a descontinuidade de suas atividades;
+q A entidade deve elaborar as suas demonstrações contábeis, exceto
+  para a demonstração dos fluxos de caixa, utilizando-se do regime de
+  competência;
+q A entidade deve apresentar separadamente nas DCs cada classe
+  material de itens semelhantes (materialidade e agregação).
+                        https://t.me/KakashiAssinaturasBot
+EBSERH/2016
+De acordo com o CPC 26 “Apresentação das Demonstrações
+Contábeis”, a entidade deve elaborar as suas demonstrações contábeis
+utilizando-se do regime de competência, EXCETO para a
+a) demonstração do Valor Adicionado.
+b) demonstração dos Resultados Abrangentes.
+c) demonstração dos Fluxos de Caixa.
+d) demonstração de Origens e Aplicações de Recursos.
+e) demonstração do Resultado do Período.
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Considerações Gerais
+q A entidade não deve compensar ativos e passivos ou receitas e
+  despesas, a menos que a compensação seja exigida ou permitida por
+  um CPC;
+q Os ganhos e perdas provenientes de grupo de transações
+  semelhantes devem ser apresentados em base líquida;
+q O conjunto completo das DCs deve ser apresentado pelo menos
+  anualmente;
+q a entidade divulgue informação comparativa com respeito ao período
+  anterior para todos os montantes apresentados nas DCs do período
+  corrente, a não ser que os CPCs permitam ou exijam de outra forma;
+q Consistência de apresentação.
+                       https://t.me/KakashiAssinaturasBot
+ESTRUTURA E CONTEÚDO
+BALANÇO PATRIMONIAL
+
+
+                                         Prof. Gilmar Possati
+
+
+
+    https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+O balanço patrimonial deve apresentar, respeitada a legislação, as
+seguintes contas:
+
+
+Contas do ativo
+a) caixa e equivalentes de caixa;
+b) clientes e outros recebíveis;
+c) estoques;
+d) ativos financeiros (exceto os mencionados nas alíneas “a”, “b” e “g”);
+e) total de ativos classificados como disponíveis para venda e ativos à
+disposição para venda de acordo com o CPC 31;
+
+                           https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+f) ativos biológicos (CPC 29);
+g) investimentos avaliados pelo método da equivalência patrimonial;
+h) propriedades para investimento;
+i) imobilizado;
+j) intangível;
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+Contas do passivo
+k) contas a pagar comerciais e outras;
+l) provisões;
+m) obrigações financeiras (exceto as referidas nas alíneas “k” e “l”);
+n) obrigações e ativos relativos à tributação corrente (CPC 32 – Tributos
+sobre o Lucro);
+o) impostos diferidos ativos e passivos (CPC 32);
+p) obrigações associadas a ativos à disposição para venda (CPC 31);
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+
+Contas do PL
+q) participação de não controladores apresentada de forma destacada
+dentro do patrimônio líquido; e
+r) capital integralizado e reservas e outras contas atribuíveis aos
+proprietários da entidade.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+q O CPC 26 não prescreve a ordem ou o formato que deva ser utilizado
+  na apresentação das contas do balanço patrimonial, mas a ordem
+  legalmente instituída no Brasil deve ser observada (ordem decrescente
+  de liquidez para as contas do ativo e ordem decrescente de
+  exigibilidade para as contas do passivo).
+
+
+q A nomenclatura de contas utilizada e sua ordem de apresentação ou
+  agregação de itens semelhantes podem ser modificadas de acordo
+  com a natureza da entidade e de suas transações.
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+CEFET-RJ/2014
+O CPC 26, alterado pelo CPC 26 (R1), que trata da apresentação das
+demonstrações contábeis, foi formalizado pelo Conselho Federal de
+Contabilidade na Resolução CFC nº 1.185/2009 que aprova a NBC TG
+26, alterada e consolidada em 11/dez/2013 como NBC TG 26 (R1). Nos
+estritos termos da NBC TG 26 (R1), no balanço patrimonial devem ser
+apresentados, no mínimo, as contas de reservas, outras contas atribuíveis
+aos proprietários e o capital:
+a) a realizar
+b) a subscrever
+c) autorizado
+d) integralizado
+e) subscrito
+                        https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+Os impostos diferidos ativos (passivos) não devem ser classificados como
+ativos circulantes (passivos circulantes).
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+CODEBA/2016
+De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação
+das Demonstrações Contábeis, quando uma entidade apresenta
+separadamente seus ativos e passivos circulantes e não circulantes, os
+impostos diferidos ativos e passivos devem ser classificados
+a) como circulantes.
+b) como não circulantes.
+c) como circulantes ou não circulantes, de acordo com o prazo esperado.
+d) como contas a receber ou a pagar.
+e) no grupo do ativo diferido.
+
+
+                           https://t.me/KakashiAssinaturasBot
+Circulante x Não Circulante
+
+A entidade deve apresentar ativos circulantes e não circulantes, e
+passivos circulantes e não circulantes, como grupos de contas separados
+no balanço patrimonial, exceto quando uma apresentação baseada na
+liquidez proporcionar informação confiável e mais relevante.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Circulante x Não Circulante
+
+
+
+
+             https://t.me/KakashiAssinaturasBot
+Pref. Niterói/2016
+De acordo com o CPC 26, o ativo deve ser classificado como circulante
+quando satisfizer qualquer dos seguintes critérios, EXCETO:
+a) espera-se que seja realizado, ou pretende-se que seja vendido ou
+consumido no decurso normal do ciclo operacional da entidade.
+b) está mantido essencialmente com o propósito de ser negociado.
+c) tiver em montante valor negociável ou realizável de provisão para
+situações que superem o decurso normal do ciclo operacional da
+entidade.
+d) espera-se que seja realizado até doze meses após a data do balanço.
+e) é caixa ou equivalente de caixa, a menos que sua troca ou uso para
+liquidação de passivo se encontre vedada durante pelo menos doze
+meses após a data do balanço.
+                         https://t.me/KakashiAssinaturasBot
+Ciclo Operacional
+Ciclo operacional da entidade é o tempo entre a aquisição de ativos para
+processamento e sua realização em caixa ou seus equivalentes.
+
+Quando o ciclo operacional normal da entidade não for claramente
+identificável, pressupõe-se que sua duração seja de doze meses.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Petrobras/2015
+O Pronunciamento Técnico CPC 26(R2), ao tratar da classificação dos
+passivos, informa que as competências relativas a gastos com
+empregados e a outros custos operacionais são parte do capital
+circulante usado no ciclo operacional normal da entidade. Com relação à
+falta de identificação clara do ciclo operacional, o aludido CPC 26(R2)
+estabelece que o mesmo deva ser considerado com a duração de
+a) 3 meses
+b) 6 meses
+c) 12 meses
+d) 18 meses
+e) 24 meses
+                         https://t.me/KakashiAssinaturasBot
+Circulante x Não Circulante
+
+
+
+
+             https://t.me/KakashiAssinaturasBot
+Circulante x Não Circulante
+A entidade deve classificar os seus passivos financeiros como
+circulantes quando a sua liquidação estiver prevista para o período
+de até doze meses após a data do balanço, mesmo que:
+a) o prazo original para sua liquidação tenha sido por período
+superior a doze meses; e
+b) um acordo de refinanciamento, ou de reescalonamento de
+pagamento a longo prazo seja completado após a data do balanço
+e antes de as demonstrações contábeis serem autorizadas para sua
+publicação.
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+    ESTRUTURA E CONTEÚDO
+DEMONSTRAÇÃO DO RESULTADO DO
+          EXERCÍCIO
+
+                                              Prof. Gilmar Possati
+
+
+
+         https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+
+A estrutura presente no CPC 26 estabelece a evidenciação, de forma
+destacada, do resultado proveniente da avaliação de investimentos pelo
+método da equivalência patrimonial, do resultado financeiro, além de
+destacar o resultado proveniente das operações continuadas e
+descontinuadas da entidade.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+                         Lei nº 6.404/76                                                     CPC 26
+Receita Operacional Bruta
+(-) Deduções
+(=) Receita Operacional Líquida                                      Receitas
+(-) CMV                                                              (-) CMV
+(=) Resultado Operacional Bruto                                      (=) Resultado Operacional Bruto
+(-) Despesas Operacionais                                            (-) Despesas com vendas
+- Despesas com vendas                                                (-) Despesas gerais e administrativas
+- Despesas gerais e administrativas                                  (-) Outras despesas
+- Despesas financeiras                                               (+) Outras receitas
+- Resultado negativo de equivalência patrimonial                     (+/-) Resultado de equivalência patrimonial
+- Variações monetárias passivas
+(+) Receitas Operacionais                                            (=) Resultado antes das receitas e despesas financeiras
++ Receitas financeiras                                               (-) Despesas financeiras
++ Resultado positivo de equivalência patrimonial
+                                                                     (+) Receitas financeiras
++ Variações monetárias ativas
+                                                                     (=) Resultado antes dos tributos sobre o lucro
++ Receitas de aluguel
+                                                                     (-) Despesa com tributos sobre o lucro
++ Dividendos recebidos (investimentos avaliados pelo custo)
+                                                                     (=) Resultado Líquido das Operações Continuadas
+(=) Resultado Operacional Líquido
+                                                                     (+/-) Resultado líquido das operações descontinuadas
+(+) Outras Receitas
+(-) Outras Despesas
+                                                                     (=) Resultado Líquido do Período
+(=) Resultado antes do IR e CSLL
+(-) CSLL
+(-) IR
+(=) Resultado do Exercício antes das Participações
+(-) Participações
+          Debêntures/ Empregados /Administradores
+          Partes Beneficiárias / Fundos Assistência
+          (=) Lucro Líquido do Exercício
+(÷) número de ações do capital social
+(=) Lucro Líquido por Ação do Capital
+                                               https://t.me/KakashiAssinaturasBot
+Estrutura e Conteúdo
+
+O CPC 26 aborda, ainda, dois outros aspectos relativos à DRE, quais
+sejam:
+Aspecto 1: A necessidade de divulgação, de forma separada, da natureza
+e montantes dos itens de receita e despesa quando estes são relevantes;
+Aspecto 2: A necessidade de subclassificação das despesas.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Formas de análise das despesas
+
+q Método da natureza da despesa: As despesas são agregadas
+  na demonstração do resultado de acordo com a sua natureza
+  (por exemplo, depreciações, compras de materiais, despesas
+  com transporte, benefícios aos empregados e despesas de
+  publicidade), não sendo realocados entre as várias funções
+  dentro da entidade.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+Formas de análise das despesas
+
+q Método da função da despesa ou do “custo dos produtos e
+  serviços vendidos”, classificando-se as despesas de acordo
+  com a sua função como parte do custo dos produtos ou
+  serviços vendidos ou, por exemplo, das despesas de
+  distribuição ou das atividades administrativas. No mínimo, a
+  entidade deve divulgar o custo dos produtos e serviços
+  vendidos segundo esse método separadamente das outras
+  despesas.
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+Formas de análise das despesas
+
+q Atualmente, por força da Lei n. 6.404/76, as empresas utilizam o
+  método da função da despesa (funcional).
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Telebras/2013
+
+As despesas podem ser classificadas na demonstração do
+resultado do exercício de acordo com sua natureza ou
+função.
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+Outras rubricas e contas, títulos e subtotais devem ser apresentados
+na DRE quando tal apresentação for relevante para a compreensão do
+desempenho da entidade.
+
+Entretanto, a entidade não deve apresentar na DRE, ou em notas
+explicativas, rubricas, receitas ou despesas sob a forma de itens
+extraordinários.
+
+Também não se admite mais a figura das receitas e despesas não
+operacionais. A única discriminação é a dos resultados derivados das
+atividades descontinuadas.
+
+
+                        https://t.me/KakashiAssinaturasBot
+DEMONSTRAÇÃO DO RESULTADO
+       ABRANGENTE
+
+
+                                            Prof. Gilmar Possati
+
+
+
+       https://t.me/KakashiAssinaturasBot
+Definição
+A DRA apresenta as receitas, despesas e outras mutações
+que afetam o patrimônio líquido, mas que não são
+reconhecidas ou não foram reconhecidas ainda na DRE. Tais
+receitas e despesas são denominadas de “outros resultados
+abrangentes”
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+Outros Resultados Abrangentes
+Outros Resultados Abrangentes incluem as mutações do patrimônio
+líquido que não representam receitas e despesas realizadas. Inclui
+alterações que poderão afetar o resultado do período futuramente ou às
+vezes permanecerão sem esse trânsito.
+
+Compreendem itens de receita e despesa (incluindo ajustes de
+reclassificação) que não são reconhecidos na demonstração do resultado
+como requerido ou permitido pelos Pronunciamentos, Interpretações e
+Orientações emitidos pelo CPC.
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Resultado Abrangente
+
+O Resultado Abrangente é a mutação que ocorre no
+patrimônio líquido durante um período que resulta de
+transações e outros eventos que não sejam derivados de
+transações com os sócios na sua qualidade de proprietários
+(aumento ou devolução de capital social, distribuição de
+lucros ou compra e venda de ações e quotas próprias dos
+sócios).
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+Outros Resultados Abrangentes
+Segundo o CPC 26, os componentes dos outros resultados abrangentes
+incluem:
+a) variações na reserva de reavaliação, quando permitidas legalmente;
+b) ganhos e perdas atuariais em planos de pensão com benefício
+definido;
+c) ganhos e perdas derivados de conversão de demonstrações contábeis
+de operações no exterior;
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Outros Resultados Abrangentes
+d) ganhos e perdas resultantes de investimentos em instrumentos
+patrimoniais designados ao valor justo por meio de outros resultados
+abrangentes;
+e) ganhos e perdas em ativos financeiros mensurados ao valor justo por
+meio de outros resultados abrangentes;
+f) parcela efetiva de ganhos e perdas de instrumentos de hedge em
+operação de hedge de fluxo de caixa e os ganhos e perdas em
+instrumentos de hedge que protegem investimentos em instrumentos
+patrimoniais mensurados ao valor justo por meio de outros resultados
+abrangentes;
+
+
+                        https://t.me/KakashiAssinaturasBot
+Outros Resultados Abrangentes
+g) para passivos específicos designados como ao valor justo por meio do
+resultado, o valor da alteração no valor justo que for atribuível a
+alterações no risco de crédito do passivo;
+h) alteração no valor temporal de opções quando separar o valor
+intrínseco e o valor temporal do contrato de opção e designar como
+instrumento de hedge somente as alterações no valor intrínseco.
+i) alteração no valor dos elementos a termo de contratos a termo ao
+separar o elemento a termo e o elemento à vista de contrato a termo e
+designar, como instrumento de hedge, somente as alterações no
+elemento à vista, e alterações no valor do spread com base na moeda
+estrangeira de instrumento financeiro ao excluí-lo da designação desse
+instrumento financeiro como instrumento de hedge.
+                         https://t.me/KakashiAssinaturasBot
+Atualmente, é vedada a apresentação da DRA apenas na
+Demonstração das Mutações do Patrimônio Líquido!
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+Lucro Líquido do Período (I)                                    272.000,00
+Parcela dos Sócios da Controladora                              250.000,00
+Parcela dos Não Controladores                                   22.000,00
+(+/-)
+Ajustes de Instrumentos Financeiros                             (60.000,00)
+Tributos s/ Ajustes de Instrumentos Financeiros                 20.000,00
+Equiv. Patrimonial s/ Ganhos Abrangentes de Coligadas           30.000,00
+Ajustes de Conversão do Período                                 260.000,00
+Tributos s/ Ajustes de Conversão do Período                     (90.000,00)
+(=) Outros Resultados Abrangentes Antes Reclassificação         160.000,00
+(+) Aj. Instrum. Financeiros Reclassificados p/ resultado       10.600,00
+(=) Outros Resultados Abrangentes (II)                          170.600,00
+Parcela dos Sócios da Controladora                              164.600,00
+Parcela dos Não Controladores                                   6.000,00
+Resultado Abrangente Total (I + II)                             442.600,00
+Parcela dos Sócios da Controladora                              414.600,00
+Parcela dos Não Controladores                                   28.000,00
+                           https://t.me/KakashiAssinaturasBot
+STJ/2015
+
+Com relação às demonstrações contábeis de companhias abertas, julgue
+o item a seguir.
+A demonstração do resultado abrangente do exercício, que é obrigatória
+por determinação do Comitê de Pronunciamentos Contábeis, não deve
+contemplar ajustes de avaliação patrimonial em sua composição, pois
+esse valor já está contemplado no patrimônio líquido das companhias.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+DEMONSTRAÇÃO DAS MUTAÇÕES
+   DO PATRIMÔNIO LÍQUIDO
+
+
+
+                                            Prof. Gilmar Possati
+
+
+
+       https://t.me/KakashiAssinaturasBot
+Conteúdo
+Segundo o CPC 26, a DMPL inclui as seguintes informações:
+a) o resultado abrangente do período, apresentando separadamente o
+montante total atribuível aos proprietários da entidade controladora e o
+montante correspondente à participação de não controladores;
+b) para cada componente do patrimônio líquido, os efeitos da aplicação
+retrospectiva ou da reapresentação retrospectiva, reconhecidos de
+acordo com o CPC 23;
+c) para cada componente do patrimônio líquido, a conciliação do saldo
+no início e no final do período, demonstrando-se separadamente (no
+mínimo) as mutações decorrentes:
+
+
+                         https://t.me/KakashiAssinaturasBot
+Conteúdo
+(i) do resultado líquido;
+(ii) de cada item dos outros resultados abrangentes; e
+(iii) de transações com os proprietários realizadas na condição de
+proprietário, demonstrando separadamente suas integralizações e as
+distribuições realizadas, bem como modificações nas participações em
+controladas que não implicaram perda do controle.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Conteúdo
+q Para cada componente do patrimônio líquido, a entidade deve
+  apresentar, ou na demonstração das mutações do patrimônio líquido
+  ou nas notas explicativas, uma análise dos outros resultados
+  abrangentes por item.
+q O patrimônio líquido, por sua vez, deve apresentar o capital social, as
+  reservas de capital, os ajustes de avaliação patrimonial, as reservas de
+  lucros, as ações ou quotas em tesouraria, os prejuízos acumulados, se
+  legalmente admitidos os lucros acumulados (no Brasil não é admitido
+  que tenhamos saldo na conta Lucros Acumulados) e as demais contas
+  exigidas pelos CPCs.
+
+
+                          https://t.me/KakashiAssinaturasBot
+Exame de Suficiência/2012.2
+Com relação ao que determina a NBC TG 26 – Apresentação das
+Demonstrações Contábeis, no tocante à informação a ser apresentada na
+Demonstração das Mutações do Patrimônio Líquido (DMPL) ou nas Notas
+Explicativas, julgue os itens abaixo e, em seguida, assinale a opção
+CORRETA.
+I. Para cada componente do patrimônio líquido, a entidade deve
+apresentar, ou na demonstração das mutações do patrimônio líquido ou
+nas notas explicativas, uma análise dos outros resultados abrangentes por
+item.
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+II. O patrimônio líquido deve apresentar o capital social, as reservas de
+capital, os ajustes de avaliação patrimonial, as reservas de lucros, as ações
+ou quotas em tesouraria, os prejuízos acumulados, se legalmente
+admitidos os lucros acumulados e as demais contas exigidas pelas normas
+emitidas pelo Conselho Federal de Contabilidade.
+III. A entidade deve apresentar na demonstração das mutações do
+patrimônio líquido, ou nas notas explicativas, o montante de dividendos
+reconhecidos como distribuição aos proprietários durante o período e o
+respectivo montante por ação.
+
+
+Está(ão) CORRETO(S) o(s) item(ns):
+a) I e II, apenas. b) I, apenas.
+c) I, II e III. d) II e III, apenas.
+                                 https://t.me/KakashiAssinaturasBot
+CADE/2014
+Ao apresentar a demonstração das mutações do patrimônio líquido, uma
+entidade controlada deverá desmembrar, no resultado abrangente do
+período, o montante total atribuível aos proprietários da entidade
+controladora e o montante correspondente à participação de não
+controladores.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Liquigás/2014
+Nos termos das normas contábeis vigentes, estabelecidas no
+Pronunciamento Técnico CPC 26 (R1), a informação sobre fluxos de caixa
+oferece aos usuários das demonstrações contábeis uma base para avaliar
+a capacidade de a entidade gerar caixa e equivalentes de caixa e
+também a(o)
+a) necessidade de a entidade utilizar esses fluxos de caixa.
+b) destinação do caixa e equivalentes de caixa do fluxo operacional.
+c) capacidade operacional da entidade na geração de fluxos de caixa.
+d) movimentação de entradas e saídas do caixa e equivalentes de caixa.
+e) controle dos recursos financeiros operacionais e não operacionais.
+
+                           https://t.me/KakashiAssinaturasBot
+NOTAS EXPLICATIVAS
+
+
+
+                                        Prof. Gilmar Possati
+
+
+
+   https://t.me/KakashiAssinaturasBot
+Definição
+
+               São informações adicionais às apresentadas nos quadros das
+               Demonstrações.  São   consideradas  parte   integrante das
+               demonstrações.
+
+
+NOTAS
+               Seu objetivo é facilitar a compreensão das demonstrações contábeis
+EXPLICATIVAS
+               a seus diversos usuários.
+
+
+
+               Englobam informações de qualquer natureza exigidas pela lei, pelas
+               normas contábeis e outras informações relevantes não suficientemente
+               evidenciadas ou que não constam nas demonstrações.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Conteúdo
+Segundo o CPC 26, as notas explicativas devem:
+a) apresentar informação acerca da base para a elaboração das
+demonstrações contábeis e das políticas contábeis específicas utilizadas;
+b) divulgar a informação requerida pelos Pronunciamentos Técnicos,
+Orientações e Interpretações do CPC que não tenha sido apresentada
+nas demonstrações contábeis; e
+c) prover informação adicional que não tenha sido apresentada nas
+demonstrações contábeis, mas que seja relevante para sua compreensão.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Conteúdo
+
+
+
+
+           https://t.me/KakashiAssinaturasBot
+Exame de Suficiência CFC/2012.1
+Com relação ao conteúdo das Notas Explicativas, de acordo com a NBC
+TG 26 – Apresentação das Demonstrações Contábeis, julgue os itens
+abaixo e, em seguida, assinale a opção CORRETA.
+
+
+I. Notas Explicativas contêm informações adicionais em relação à
+apresentada nas demonstrações contábeis.
+II. As Notas Explicativas oferecem descrições narrativas ou segregações e
+aberturas de itens divulgados nas demonstrações contábeis e informação
+acerca de itens que não se enquadram nos critérios de reconhecimento
+nas demonstrações contábeis.
+
+
+                         https://t.me/KakashiAssinaturasBot
+Exame de Suficiência CFC/2012.1
+
+III. O conjunto completo de demonstrações contábeis não inclui as Notas
+Explicativas.
+Está(ão) CORRETO(S) o(s) item(ns):
+a) I, II e III.
+b) I e II, apenas.
+c) II, apenas.
+d) II e III, apenas.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+     https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

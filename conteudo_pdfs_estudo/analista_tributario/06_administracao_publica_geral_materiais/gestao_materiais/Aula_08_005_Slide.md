@@ -1,0 +1,312 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: SUPPLY CHAIN MANAGEMENT - III
+---
+
+# SUPPLY CHAIN MANAGEMENT - III
+
+---
+
+---
+
+SUPPLY CHAIN MANAGEMENT - III
+
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Efeito Forrester
+       Também conhecido por Efeito Chicote!
+     ❑ O efeito Forrester ou efeito "chicote" é fruto das distorções de demandas de estoque que ocorrem em cadeias
+       não integradas pelo SCM. O efeito é explicado pelo impacto que pequenas variações na demanda final (clientes)
+       acabam causando em toda a cadeia.
+
+                Este problema, típico de cadeias não integradas, ocorre poque não há o compartilhamento de
+                informações entre os diferentes atores envolvidos.
+
+     ❑ Imagine que o varejista por alguma razão emite uma ordem de compra 30% maior do que costumava fazer. O
+       distribuidor/atacadista que está acostumado a atendê-lo, sem saber qual a real razão do aumento, amplia
+       também o seu pedido para o fabricante em proporção ainda maior (50%, por exemplo), visando o atendimento
+       do varejista nos meses subsequentes e desconhecendo que o incremento projetado pelo varejista se deu por um
+       cliente único que avisou que fará uma simples e única compra no mês seguinte.
+
+     ❑ O fabricante, por sua vez, sem ter a menor ideia do que está acontecendo (já que os atores não se conversam e a
+       informação não flui entre eles), eleva sua produção e dobra o volume de compras de matérias primas junto aos
+       fornecedor.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Efeito Forrester
+       Impacto e efeito reverberam e aumentam ao longo da cadeia
+     ❑ Perceba que o impacto vai reverberando por toda a cadeia e tende a aumentar conforme vamos
+       avançando por cada um dos parceiros.
+
+     ❑ Quanto mais os atores estão afastados do cliente final, maior o risco de que o efeito se instale e
+       ganhe cada vez maior volume, enquanto vai percorrendo toda a cadeia.
+
+     ❑ Isso acontece porque cada elo da cadeia só tem informações recebidas do elo seguinte e não se
+       enxerga o ciclo como um todo, não havendo também o necessário compartilhamento de
+       informações.
+
+                  O resultado final de tal efeito é a formação de grandes volumes de estoques ao longo
+                  da cadeia. Isso obrigará cada um dos atores a tomar medidas que incentivem seu
+                  giro, buscando a redução de custo em função da instalação desnecessária destes
+                  altos volumes de estoques devido à desinformação generalizada ao longo da cadeia.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Efeito Forrester
+       Impacto e efeito reverberam e aumentam ao longo da cadeia
+
+     ❑ Veja a representação gráfica das variações de estoque que podem acontecer em
+       função do efeito chicote ou Forrester e como elas vão ganhando intensidade ao
+       longo da cadeia.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDATEC/CRA-RS/Fiscal/2021) O efeito chicote é um dos fenômenos que podem ocorrer em uma
+     cadeia de suprimentos, que tem impacto negativo sobre a regularidade e a estabilidade dos pedidos
+     recebidos. Em particular, observa-se esse fenômeno quando a variação da procura aumenta à medida
+     que se avança ao longo da cadeia. O efeito chicote tem algumas causas, quais sejam:
+     I. Processamento das variações na procura.
+     II. Jogo do racionamento.
+     III. Extinção de lotes de compra e de produção.
+     IV. Variações de preço.
+     Quais estão corretas?
+     a) apenas I e II
+     b) apenas II e III
+     c) apenas III e IV
+     d) apenas I, II e IV
+     e) I, II, III, IV
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDATEC/CRA-RS/Fiscal/2021) O efeito chicote é um dos fenômenos que podem ocorrer em uma
+     cadeia de suprimentos, que tem impacto negativo sobre a regularidade e a estabilidade dos pedidos
+     recebidos. Em particular, observa-se esse fenômeno quando a variação da procura aumenta à medida
+     que se avança ao longo da cadeia. O efeito chicote tem algumas causas, quais sejam:
+     I. Processamento das variações na procura.
+     II. Jogo do racionamento.
+     III. Extinção de lotes de compra e de produção.
+                                                         O efeito chicote possui variadas causas. A mais aparente é o processamento
+     IV. Variações de preço.                             equivocado das variações na procura/demanda. Tal processamento vai se
+     Quais estão corretas?                               estendendo ao longo da cadeia e ampliando o efeito ao longo do processo.
+
+     a) apenas I e II                                    O jogo do racionamento ou da escassez é outra causa típica do efeito. Com
+     b) apenas II e III                                  receio de ficar sem material/produto para ser comercializado em um cenário
+                                                         de aumento de demanda (mal processado), o comprador tende a elevar seus
+     c) apenas III e IV                                  pedidos dando ainda mais força ao efeito chicote ao longo da cadeia.
+     d) apenas I, II e IV
+                                                         O Lote de Compras (tamanho do pedido) não é extinto. Ao contrário, o
+     e) I, II, III, IV                                   comprador tende a aumentá-lo no cenário colocado, mais uma vez, ampliando
+                                                         o resultado do efeito ao longo da cadeia.
+     GABARITO - D
+                                                                      Por fim, as flutuações de preço. Promoções podem causar elevação não
+                                                                      natural de demanda o que, caso não seja bem observado, pode contribuir
+                                                                      também para a geração do efeito chicote ao longo da cadeia.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Comakership
+       Integração e relacionamento ao longo da cadeia
+
+     ❑ O Comakership é um outro conceito que de vez em quando aparece em provas de concurso.
+       Traduzindo-o logo de cara, estamos falando de "cofabricação", mas ele sempre aparece em
+       inglês mesmo, portanto acostume-se com a terminologia.
+
+     ❑ Uma boa definição para o Comakership é:
+
+        Mais alto nível de relacionamento entre cliente e fornecedor, representado por conceitos como os
+        de confiança mútua, participação e fornecimento com qualidade assegurada. É a chamada
+        integração estratégica.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Comakership
+       Integração e relacionamento ao longo da cadeia
+     ❑ O termo pode mesmo ser traduzido como cofabricação pois o fornecedor participa
+       ativamente do processo de fabricação, envolvendo-se com as várias fases do projeto, como
+       o seu planejamento, cálculo de custos e definição da qualidade, já que possui contratos de
+       fornecimento de longo prazo com o fabricante. Veja que as decisões são tomadas em
+       conjunto e impactam diretamente os dois atores.
+     ❑ Dessa forma, perceba que o Comakership só é alcançado quando as empresas trabalham
+       no mais alto nível de cooperação (nível estratégico), trocando informações detalhadas sobre
+       as demandas dos clientes finais (note a relação direta com a inibição do efeito chicote),
+       gerenciando a qualidade, planejando conjuntamente os próximos produtos a serem
+       oferecidos e buscando a redução dos custos de toda a cadeia.
+     ❑ A ideia final é que ambos adquiram vantagens competitivas versus o mercado e consigam
+       atingir seus objetivos estratégicos finais e comuns, como a conquista e manutenção do
+       maior número possível de clientes.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Comakership
+       Quais são os níveis de Relacionamento?
+                  Abordagem convencional: a prioridade é o preço e o relacionamento é entre adversários: quem
+                  pode mais impõe suas condições. Desconfiança quanto à qualidade. Inspeção em 100% dos
+                  recebimentos.
+
+                  Melhoria da qualidade: prioridade à qualidade do produto. É o primeiro passo de um
+                  relacionamento mais duradouro, com o surgimento dos primeiros sinais de confiança recíproca.
+                  Reduz-se o número de fornecedores, eliminando-se aqueles que não oferecem qualidade. É um
+                  primeiro estágio do relacionamento tipo comaker.
+
+                  Integração operacional: a prioridade passa a ser o controle do processo, levando-se em conta sua
+                  capabilidade. Cliente e fornecedor passam a fazer investimentos comuns em pesquisa e
+                  desenvolvimento, com o cliente na maioria das vezes financiando programas de melhoria da
+                  qualidade dos fornecedores, para que implantem sistemas de garantia da qualidade. É um passo
+                  além do relacionamento comaker.
+
+                  Integração estratégica: conhecida por Comakership é uma verdadeira parceria nos negócios.
+                  Requer gerenciamento comum dos procedimentos dos negócios, incluindo o desenvolvimento de
+                  produtos e processos, engenharia simultânea, desdobramento da função qualidade
+                  (QFD), fornecimento sincronizado e qualidade assegurada.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (Instituto AOCP/IBGE/Analista Censitário Logística/2019) O relacionamento cliente-fornecedor possui
+     quatro fases. Assinale a alternativa que apresenta a fase que trata do relacionamento tipo comakership.
+     a) Integração estratégica.
+     b) Integração operacional.
+     c) Melhoria da qualidade.
+     d) Abordagem convencional.
+     e) Integração convencional.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (Instituto AOCP/IBGE/Analista Censitário Logística/2019) O relacionamento cliente-fornecedor possui
+     quatro fases. Assinale a alternativa que apresenta a fase que trata do relacionamento tipo comakership.
+     a) Integração estratégica.
+     b) Integração operacional.
+     c) Melhoria da qualidade.
+     d) Abordagem convencional.
+     e) Integração convencional.
+     GABARITO - A
+
+
+                  Integração estratégica: conhecida por Comakership é uma
+                  verdadeira parceria nos negócios. Requer gerenciamento
+                  comum dos procedimentos dos negócios, incluindo o
+                  desenvolvimento de produtos e processos, engenharia
+                  simultânea, desdobramento da função qualidade
+                  (QFD),    fornecimento     sincronizado  e    qualidade
+                  assegurada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     (VUNESP/TJ-PA/Analista Judiciário/2014) A visão moderna da cadeia de suprimentos privilegia a
+     compreensão de todo o processo de geração de produtos e serviços (desde a entrada de matéria-prima
+     até a entrega do produto ao cliente) e o monitoramento deste processo de maneira integrada. Uma das
+     vantagens dessa visão é o desaparecimento de grandes oscilações na produção nos primeiros estágios
+     das empresas que formam a cadeia, efeito conhecido como
+     a) Forrester.
+     b) cíclico primário.
+     c) potencialização da produção.
+     d) “dominó”.
+     e) polar.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/TJ-PA/Analista Judiciário/2014) A visão moderna da cadeia de suprimentos privilegia a
+     compreensão de todo o processo de geração de produtos e serviços (desde a entrada de matéria-prima
+     até a entrega do produto ao cliente) e o monitoramento deste processo de maneira integrada. Uma das
+     vantagens dessa visão é o desaparecimento de grandes oscilações na produção nos primeiros estágios
+     das empresas que formam a cadeia, efeito conhecido como
+     a) Forrester.
+     b) cíclico primário.
+     c) potencialização da produção.
+     d) “dominó”.
+     e) polar.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

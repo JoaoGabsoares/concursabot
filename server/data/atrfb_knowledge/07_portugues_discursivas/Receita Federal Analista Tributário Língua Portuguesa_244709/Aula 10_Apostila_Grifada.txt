@@ -1,0 +1,2626 @@
+                                                                                     Índice
+1)  Noções Iniciais de Pontuação
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Vírgula, Respiração e Semântica                                                                                                                                                           7
+
+3)  Uso da Vírgula
+..............................................................................................................................................................................................9
+
+4)  Ponto e Vírgula                                                                                                                                                                         32
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+5)  Dois-pontos                                                                                                                                                                             34
+
+6)  Reticências                                                                                                                                                                             38
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+7)  Aspas                                                                                                                                                                                   39
+
+8)  Travessão                                                                                                                                                                               42
+..............................................................................................................................................................................................
+
+9)  Parênteses                                                                                                                                                                              44
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+10)   Ponto final                                                                                                                                                                           45
+
+11)   Questões Comentadas - Vírgula - FGV                                                                                                                                                   48
+..............................................................................................................................................................................................
+
+12)   Questões Comentadas - Dois-pontos - FGV                                                                                                                                               57
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+13)   Questões Comentadas - Aspas - FGV                                                                                                                                                     58
+
+14)   Questões Comentadas - Travessão - FGV                                                                                                                                                 63
+..............................................................................................................................................................................................
+
+15)   Lista de Questões - Vírgula - FGV                                                                                                                                                     65
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+16)   Lista de Questões - Dois-pontos - FGV                                                                                                                                                 71
+
+17)   Lista de Questões - Aspas - FGV                                                                                                                                                       72
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+18)   Lista de Questões - Travessão - FGV                                                                                                                                                   76
+                                        NOÇÕES INICIAIS
+Pessoal,
+Iniciaremos uma aula extremamente importante de Sintaxe: Pontuação.
+Mas, antes de iniciarmos a teoria, é necessário retomar alguns conceitos. Vamos aquecer os motores?!
+
+
+Como sabemos, a ordem natural da organização de uma sentença na nossa língua é SuVeCA. É a chamada
+“ordem direta”.
+
+
+
+
+                                   Eu comprei uma bicicleta semana passada
+                                          Maria foi trabalhar de táxi
+                                     Nós gostamos de comer em rodízios
+Essa ordem é fluída, intuitiva, natural. A inversão desses termos ou a inclusão de outros termos entre eles
+tem implicações na pontuação, para que ainda seja possível enxergar a relação de sentido e a sequência
+natural da frase.
+
+
+Então, seque o primeiro fundamento da pontuação:
+
+
+Na ordem direta, a vírgula não pode separar esses termos. Qualquer termo que vier entre eles deve estar
+entre vírgulas, devidamente isolado para não interferir nessa ordem direta.
+                        Sujeito,___ ,Verbo, ___ ,Complemento, ___ , Adjuntos, ___.
+
+
+
+
+                  Em outras palavras, isso significa que não pode haver separação entre:
+
+
+Sujeito e seu verbo - Ex.: João, saiu ontem.
+Verbo e seu complemento - Ex.: Ricardo comprou, uma empresa.
+Verbo e predicativo - Ex.: Felipe é, professor de inglês.
+Nome e seu complemento ou adjunto - Ex.: Tenho um carro, de corrida, mas tenho medo, do trânsito.
+Predicativo de seu objeto - Ex.: Considerei, chato o livro.
+
+
+Isso reflete a tendência geral de não “fatiar” termos que são lidos de maneira fluída, não “cortar”
+indevidamente estruturas que devem ser lidas de uma vez.
+Porém, se houver algum termo intercalado entre esses, ele deve estar isolado por pontuação: por vírgulas,
+parênteses, travessões.
+                                    Pedro comprou um carro de corrida.
+Não poderia haver nenhuma vírgula entre esses termos. Porém, poderia haver outros termos intercalados,
+isto é, entre um termo e outro, caso em que deve estar devidamente indicado e isolado por pontuação.
+
+
+                       Pedro ,___ , comprou , ___ , um carro , ___ , de corrida , ___.
+
+
+ Pedro, sem pensar muito, comprou, a prazo e sem poder pagar, um carro, que mais parecia uma nave,
+                              de corrida, ontem à noite— que louco!
+
+
+                                       PRINCÍPIOS DA PONTUAÇÃO
+
+        Item                              Circunstância                              Princípio
+
+                       Termos que indicam circunstância adverbial, Se estiverem deslocados,
+                       devem vir no final segundo a ordem direta.  geralmente, devem ser
+     ADJUNTOS
+                                                                   pontuados.
+
+                Expressões que desenvolvam o sentido de termos
+                anteriores, acrescentem informações, detalhes, Deve estar
+                                                                          separado por
+                explicações, adendos, extensões. Podem ser
+                                                               pontuação.
+ ESCLARECIMENTO adjuntos adnominais, adjuntos adverbiais,
+                predicativos do sujeito, apostos explicativos,
+                orações interferentes, entre outros.
+
+
+
+
+Momento de reflexão... Usamos a palavra “princípios” e não “regras” por um motivo: há muita divergência
+entre gramáticos sobre o uso da pontuação e eventualmente você encontrará exemplos que contrariem em
+algum grau esses princípios, veja:
+                               O aluno, empolgado, estudou duas horas a mais
+                     (Predicativo, com verbo de ligação omitido, separado por vírgula).
+
+
+                                   Que você já tinha jantado, eu já sabia
+                    (Objeto direto em forma de oração antecipada separado do verbo).
+
+
+                                A casa, de madeira, não resistiu ao furacão
+                                 (Adjunto adnominal separado do nome).
+
+
+No entanto, esses casos cabem no segundo princípio, pois são expressões de “explicação” ou ênfase e são
+pouco comuns, além de serem casos de pontuação não obrigatória. As questões de prova pedem quase
+sempre que você identifique um erro mais crasso, uma separação prejudicial entre termos que seguem uma
+ordem direta e fluída.
+Veja esse outro exemplo:
+       Quem compra, compra algo (sujeito separado do verbo? Com ou sem vírgula?)
+
+
+Segundo posicionamento da Academia Brasileira de Letras: “a vírgula é de regra. Não se estaria separando
+o sujeito do verbo, pois são duas orações, uma delas com o pronome relativo condensado. Eis a análise
+sugerida pelo Professor Rocha Lima para este tipo de período: (Aquele) compra algo=principal/que
+compra=subordinada adjetiva. Eis outros exemplos semelhantes: Quem tem boca, vai a Roma; Quem
+desdenha, quer comprar. Põe-se a vírgula quando se profere com pausa maior a segunda parte do
+enunciado.”
+Já o gramático Sacconi defende que é caso de vírgula facultativa.
+A língua portuguesa não é uma ciência exata e há bastante divergência entre gramáticos e até entre bancas.
+Logo: não se preocupe em decorar ou entender profundamente a explicação acima, trouxemos esses
+exemplos só para você ficar preparado para casos que podem ter uma explicação excepcional, ou de uma
+doutrina gramatical minoritária.
+
+
+  Para a prova, guarde os princípios básicos e use-os para entender melhor as regras gerais que virão a
+                                            seguir nessa aula.
+
+
+Moral da história: para pôr fim a essa polêmica, se vier em prova, marque a regra geral: não use vírgula. A
+visão tradicional é que não se colocar vírgula entre sujeito e verbo, mesmo que este sujeito seja uma
+oração e mesmo que esteja deslocado, fora de ordem.
+Se você for capaz de identificar as funções sintáticas básicas, sujeito, complemento, adjuntos, e organizar o
+período, já vai ser capaz de acertar muitas questões, pois as bancas adoram inserir uma vírgula entre esses
+termos da ordem direta. Na confusão de um período longo, o aluno não percebe.
+(TELEBRAS / 2022)
+“Ora, você sabe do que eu estou falando.”
+“Estou me esforçando, mas...”
+“Escuta. Acho que não podia ser mais claro. Pontudo numa ponta, certo?”
+“Se o senhor diz, cavalheiro.”
+Em ‘Acho que não podia ser mais claro’, a correção gramatical seria prejudicada caso se inserisse uma vírgula
+logo após ‘Acho’.
+Comentários:
+A vírgula separaria o verbo “acho” do seu complemento oracional “que não podia ser mais claro”.
+Acho, que não podia ser mais claro
+Questão correta.
+
+
+(MP-CE / 2020)
+A cada ano, quase uma em cada dez pessoas no mundo (cerca de 600 milhões de pessoas) adoece e 420 mil
+morrem depois de ingerir alimentos contaminados por bactérias, vírus, parasitas ou substâncias químicas.
+No trecho “quase uma em cada dez pessoas no mundo” (1º parágrafo), a inserção de uma vírgula logo após
+“pessoas” prejudicaria a correção gramatical do texto.
+Comentários:
+Essa vírgula separaria o sujeito do verbo, causando erro de pontuação:
+quase uma em cada dez pessoas no mundo, adoece
+Questão correta.
+                     VÍRGULA, RESPIRAÇÃO E SEMÂNTICA
+Para aprender bem essa matéria, esqueça aquela história de que a vírgula é para respirar ou para fazer
+pausas. A vírgula é essencialmente um marcador de funções sintáticas.
+A vírgula é o sinal de pontuação mais cobrado em prova e o que tem mais regras. A sua presença ou omissão
+altera sintática e semanticamente o texto.
+Vamos comparar exemplos de mudança de sentido por uso da vírgula.
+
+
+                    João, o Auditor multou a empresa. (João é vocativo, Auditor é sujeito)
+             João, o Auditor, multou a empresa. (João é sujeito, Auditor é aposto explicativo)
+
+
+                    Os servidores que fizeram greve levaram falta. (alguns levaram falta)
+                    Os servidores, que fizeram greve, levaram falta. (todos levaram falta)
+
+
+                                     Não espere por mim! (vá na frente)
+                                    Não, espere por mim! (vamos juntos)
+
+
+                           “Vamos perder nada, foi resolvido.” (não haverá perda)
+                             “Vamos perder, nada foi resolvido.” (haverá perda)
+            Se o homem soubesse o valor que tem, a mulher andaria de quatro à sua procura.
+                       (A mulher anda à procura do homem que sabe o próprio valor)
+            Se o homem soubesse o valor que tem a mulher, andaria de quatro à sua procura.
+                       (O homem anda à procura da mulher porque sabe o valor dela)
+
+
+Trouxemos esses exemplos porque a banca gosta de perguntar se uma vírgula pode ser suprimida ou mudar
+de posição. Nesse caso, devemos analisar as consequências sintáticas e semânticas.
+
+
+
+
+(SEFAZ-AL / 2020)
+É uma loja grande e escura no centro da cidade, uma quadra distante da estação de trem. Quando visito a
+família, entre um churrasco e outro, vou até lá para olhar as gôndolas atulhadas de baldes.
+A supressão da vírgula empregada após o vocábulo “família” (1º parágrafo) implicaria alteração no sentido
+do período.
+Comentários:
+Implicaria sim mudança de sentido, pois a expressão “entre um churrasco e outro” passaria a restringir outra
+parte do texto:
+Quando visito a família entre um churrasco e outro, vou até lá (visito entre um churrasco e outro)
+Quando visito a família, entre um churrasco e outro vou até lá (vou lá entre um churrasco e outro)
+Além das tradicionais regras, a pontuação também serve para “dividir” o texto. Questão correta.
+
+
+(SEDF / 2017)
+Quando indaguei a alguns escritores de sucesso que manuais de estilo tinham consultado durante seu
+aprendizado, a resposta mais comum foi “nenhum”. Disseram que escrever, para eles, aconteceu
+naturalmente.
+No que se refere ao texto precedente, julgue o item a seguir.
+Em “Disseram que escrever, para eles, aconteceu naturalmente”, a supressão das vírgulas preservaria a
+correção gramatical do período, mas prejudicaria seu sentido original.
+Comentários:
+Na redação original, a expressão adverbial “para eles” indica opinião: na opinião deles, aconteceu
+naturalmente. Poderíamos entender também que tem sentido de “com eles”: escrever aconteceu
+naturalmente com eles, na vida deles.
+Se tirarmos as vírgulas, “para eles” passa a ser objeto de “escrever”. Então, o sentido original muda, pois
+agora se escreve para alguém (escrever para eles). Portanto, a ausência de vírgulas mudou o sentido e a
+análise sintática. Questão correta.
+                                  O USO DA VÍRGULA
+Agora vamos ver as principais regras de uso da vírgula. Vocês vão observar como elas se
+encaixam nos princípios que trouxemos no início da aula.
+Não vamos ser rigorosos com nomenclatura, pois isso varia muito entre bancas e questões. De
+modo geral, “marcar”, “separar” e “isolar” serão sinônimos, embora “isolar” geralmente
+signiﬁque mais especiﬁcamente que o termo está entre vírgulas ou sinal que as substitua. Do
+mesmo modo, “deslocado” signiﬁca que o termo está fora da posição tradicional, pode ser
+sinônimo de “anteposto”, se estiver antes do verbo ou oração a que se refere, e “intercalado”, se
+estiver entre termos, no meio. Esse é o vocabulário mais tradicional. Na sequência teremos
+tópicos com as principais ﬁnalidades das vírgulas. Vamos em frente!!!
+
+Separar adjuntos adverbiais deslocados
+Os adjuntos adverbiais expressam circunstância relacionada à ação verbal, como tempo, modo,
+motivo, condição, concessão, instrumento, ﬁnalidade. Podem vir em termos simples, locuções ou
+até na forma de orações subordinadas adverbiais, introduzidas pelas conjunções subordinativas
+adverbiais (quando, embora, porque, como, conforme, à medida que, na medida em que, para
+que, tanto...que). Então, essa regra vale para orações subordinadas adverbiais e termos
+adverbiais.
+Nem sempre você saberá classiﬁcar exatamente qual é a circunstância. Mas é importante lembrar
+que ela se referirá ao modo que o verbo é praticado.
+Na ordem direta, os termos e orações adverbiais vêm ao ﬁnal. Se deslocados, como regra,
+devem vir separados por vírgula:
+
+
+            Vou jogar xadrez na casa de minha namorada. (adjunto na posição ﬁnal)
+               Na casa de minha namorada, vou jogar xadrez. (adjunto deslocado)
+                Vou jogar, em casa, xadrez até a madrugada. (adjunto deslocado)
+              Inscrevi-me no concurso sem pensar muito. (adjunto na posição ﬁnal)
+                Sem pensar muito, inscrevi-me no concurso. (adjunto deslocado)
+                Inscrevi-me, sem pensar muito, no concurso. (adjunto deslocado)
+
+
+No primeiro exemplo, temos uma circunstância de lugar: adjunto adverbial de lugar.
+No terceiro exemplo, temos uma circunstância de modo: adjunto adverbial de modo.
+Os termos ou orações que indiquem circunstância devem vir separados por vírgulas quando
+estiverem fora de sua posição natural, ou seja, quando não estiverem no ﬁnal do período.
+Feita essa explanação, memorize:
+As vírgulas são usadas para separar orações subordinadas adverbiais, principalmente quando
+antepostas à oração principal. Ex.:
+                                   Quando cheguei, o cão ﬁcou feliz.
+                                     Se eu pudesse, viajaria mais.
+                         A terra estava molhada, porque tinha chovido muito.
+                               Embora seja gentil, costuma elevar a voz.
+                          Para que ele viesse, foi necessário muito incentivo.
+                       Conforme prescreve a lei, é crime o abandono de animais.
+                     A persistirem os sintomas, um médico deverá ser consultado.
+                      Havendo possibilidade, faça questões das melhores bancas.
+                             Feito o trabalho, você receberá o pagamento.
+ATENÇÃO: se a circunstância (termo adverbial ou oração subordinada adverbial) estiver após a
+oração principal, na ordem direta, a vírgula é facultativa. Se estiver anteposta, deve vir marcada
+por vírgula.
+                                           POLÊMICA
+       Juntamente com a regra acima, você deve ter outro detalhe em mente: se o
+       adjunto adverbial vier fora de sua posição natural, mas for uma expressão simples
+       e curta, de pequena extensão (um advérbio, por exemplo), a vírgula é facultativa.
+       Se for um adjunto adverbial longo, a vírgula é obrigatória.
+       Existe muita polêmica e subjetividade sobre o que seria longo ou curto. Para a
+       prova, leve a opinião majoritária, que é conﬁrmada pela Academia Brasileira de
+       Letras: um adjunto de até duas palavras é considerado curto. Há várias questões
+       nesse sentido.
+       Com três palavras ou mais, embora nenhuma gramática o diga expressamente,
+       para efeito de prova normalmente será considerado um adjunto adverbial longo,
+       que será separado por vírgula quando for deslocado. É como cai em 99% dos
+       casos!
+       Dizemos “normalmente” porque tudo depende do ritmo da frase. Veja exemplo
+       do consagrado gramático Adriano Gama Kury:
+             “No princípio de agosto resolvi deﬁnitivamente sair”.
+       Aqui, foi considerado correto o não uso de vírgula, por questão do ritmo de
+       leitura.
+       Veja que certas expressões parecem rejeitar a vírgula, ou causariam uma pausa
+       brusca na leitura:
+             A essa hora da madrugada você me telefona?
+       Veja que uma vírgula após “madrugada” causaria uma quebra rítmica descabida,
+       ninguém teria vontade de inserir uma vírgula ali. É esse tipo de situação
+       especíﬁca que torna a pontuação tão ﬂexível.
+
+Voltemos. Em suma:
+                  Hoje (,) eu vou beber até perder a memória. (Vírgula facultativa)
+                      Amanhã (,) vou acordar arrependido. (Vírgula facultativa)
+                         De tarde (,) quero descansar... (Vírgula facultativa)
+            Depois de muito esforço e sacrifício (,) ela conseguiu. (Vírgula obrigatória)
+               Embora fosse impossível (,) ela realizou a façanha. (Vírgula obrigatória)
+                     Se tudo der certo (,) o dólar vai baixar. (Vírgula obrigatória)
+
+
+Reiteramos: a função da vírgula de separar orações adverbiais deslocadas (antepostas,
+intercaladas) é muito cobrada em prova, especialmente com orações reduzidas. Oração
+deslocada pede vírgula. Fique atento!!!
+
+
+
+
+(IBAMA / 2022)
+Esse processo é, também, o que comanda as migrações, que são, por si sós, processos de
+desterritorialização e, paralelamente, processos de desculturização. O novo ambiente opera
+como uma espécie de denotador. Sua relação com o novo morador se manifesta dialeticamente
+como territorialidade nova e cultura nova, que interferem reciprocamente, mudando
+paralelamente territorialidade e cultura, e mudando o ser humano.
+A oração “o que comanda as migrações” está empregada entre vírgulas porque tem caráter
+explicativo.
+Comentários:
+Tecnicamente, não está “isolada” entre vírgulas. As vírgulas derivam de outros termos.
+Esse processo é, também, o que comanda as migrações, que são
+A primeira vírgula faz parte do par que isola o advérbio “também” (aliás, essas vírgulas são
+facultativas, porque “também” é um adjunto adverbial de curta extensão)
+A segunda vírgula marca oração adjetiva explicativa, antes do relativo “que”.
+Questão incorreta.
+(TJ-PA / 2020)
+No entanto, o que lhe deram foram cuecas sujas, que Eurídice lavou muito rápido e muito bem,
+sentando-se em seguida no sofá, olhando as unhas e pensando no que deveria pensar. E foi
+assim que concluiu que não deveria pensar, e que, para não pensar, deveria se manter ocupada
+todas as horas do dia, e que a única atividade caseira que oferecia tal benefício era aquela que
+apresentava o dom de ser quase inﬁnita em suas demandas diárias: a culinária.
+A correção gramatical e o sentido do texto CG4A1-I seriam mantidos caso se suprimisse do texto
+a vírgula imediatamente após “para não pensar”.
+Comentários:
+O trecho “para não pensar” é uma oração subordinada adverbial ﬁnal e está intercalada, de
+modo que é isolada por duas vírgulas. Não é possível suprimir nenhuma das duas vírgulas.
+Questão incorreta.
+
+
+(PM-BA / 2020)
+Sobre o uso da vírgula, julgue a aﬁrmação a seguir.
+“Agora, a segurança é completa”. É facultativo o uso da vírgula para separar adjuntos adverbiais,
+de pouca extensão, antepostos.
+Comentários:
+Sim, temos adjunto adverbial de curta extensão, formado por apenas um advérbio. Então, a
+vírgula é de fato facultativa. Questão correta.
+
+
+(SEMEF MANAUS-AM / 2019)
+Os três grupos estiveram presentes desde a época colonial e, cada um a seu modo, contribuíram
+para a formação do país.
+Considerado o trecho reproduzido, é correto aﬁrmar:
+No último período, a retirada da vírgula após a conjunção não prejudica a correção original da
+frase, visto que seu emprego é facultativo.
+Comentários:
+Prejudica sim. O termo “cada um a seu modo” tem valor adverbial e está intercalado, por isso foi
+isolado por duas vírgulas. Não é correto suprimir a vírgula após o E. Questão incorreta.
+
+
+(UFTM / 2019)
+Os tempos mudaram. Nos dias atuais, a internet tornou-se a nova ameaça a angariar jovens para
+a morte. O suicídio é assunto nas redes sociais virtuais e seriados, caso do 13 Reasons Why, que
+gira em torno do suicídio de uma adolescente. Mas, com certeza, a natureza do suicídio juvenil
+da atualidade muito se distancia dos suicídios românticos [no quesito literatura] de três séculos
+atrás. O que estaria acontecendo? Como compreender melhor esse fenômeno? Como evitar que
+jovens vulneráveis o cometam?
+Assinale a opção correta acerca do emprego de vírgulas, no texto:
+Caso fosse suprimida a vírgula empregada logo após “Nos dias atuais”, seriam preservados a
+correção gramatical e o sentido do texto.
+Comentários:
+Aqui temos a visão clássica—embora não expressa nem pacíﬁca— da gramática tradicional:
+adjuntos adverbiais antecipados/intercalados de maior extensão, normalmente com três ou mais
+palavras, são obrigatoriamente marcados por vírgula(s). Embora existam algumas raras questões
+polêmicas considerando a vírgula facultativa, esse é o entendimento mais seguro e até validado
+pela ABL. Questão incorreta.
+
+
+(UFTM / 2019)
+Pensamentos suicidas são frequentes na adolescência, principalmente em épocas de diﬁculdades
+diante de um estressor importante. Na maioria das vezes, são passageiros; por si só não indicam
+psicopatologia ou necessidade de intervenção. No entanto, quando os pensamentos suicidas são
+intensos e prolongados, o risco de levar a um comportamento suicida aumenta.
+Assinale a opção correta acerca do emprego de vírgulas, no texto:
+As vírgulas que isolam o trecho “quando os pensamentos suicidas são intensos e prolongados”
+são de uso facultativo.
+Comentários:
+O termo “quando os pensamentos suicidas são intensos e prolongados” é uma oração
+subordinada adverbial temporal intercalada, o uso de vírgulas é obrigatório. Questão incorreta.
+
+Enumerar termos repetidos e/ou de mesma função sintática
+Umas das razões de uso da vírgula mais recorrentes em provas é a enumeração. As bancas
+gostam de chamar os itens de uma lista de “elementos coordenados de uma série enumerativa”.
+Grave esse nome!
+Em resumo, é a “vírgula da listinha”! Ex.:
+"Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o
+transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a
+assistência aos desamparados, na forma desta Constituição." (enumeração de itens, os termos
+separados pelas vírgulas são sujeitos de "são").
+
+
+"Comprei frutas, legumes, cereais e carnes magras." (enumeração de itens; os termos separados
+pelas vírgulas são objetos do verbo comprar).
+
+
+"Tenho medo de altura, da morte, da solidão e da Gretchen." (enumeração de itens; os termos
+separados pelas vírgulas são complementos nominais de “medo”).
+
+
+"Os líderes eram machistas, tirânicos e corruptos." (enumeração de itens; os termos separados
+pelas vírgulas são predicativos do sujeito “os líderes”).
+"É pau, é pedra, é o ﬁm do caminho, é um resto de toco, é um pouco sozinho..." (a vírgula
+separa a repetição de uma estrutura sintática; a repetição de um termo no início de um período
+ou oração é uma ﬁgura de linguagem chamada anáfora. Não precisa gravar esse nome, mas
+grave que a vírgula separa essa repetição).
+
+
+“Chorei, chorei, até ﬁcar com dó de mim...”/ "Nadou, nadou, nadou e morreu na praia." (a
+vírgula separa palavras repetidas).)
+
+
+“Muitos policiais estão envolvidos em corrupção, e tramas obscuras, e conluios, e todo tipo de
+intrigas escusas.” (a vírgula separa o polissíndeto, ou seja, a repetição de conectivos).
+
+
+
+
+       Antes do último elemento da enumeração o uso do “e” indica que a enumeração
+       acabou. Se for inserida vírgula antes do último item, sugere-se que há outros
+       itens que não foram mencionados. Ex.:
+           Há grandes jogadores no Barcelona: Messi, Suárez, Neymar (há outros
+       grandes jogadores além desses, a lista é exempliﬁcativa).
+           Há grandes jogadores no Barcelona: Messi, Suárez e Neymar (Não há outros
+       grandes jogadores além desses, a lista é taxativa).
+
+
+
+
+(TELEBRAS / 2022)
+No trecho “os satélites de observação terrestre são usados para combater as alterações
+climáticas e as tecnologias ecológicas contribuem para a existência de cidades mais limpas”, a
+substituição da conjunção “e” por uma vírgula manteria a correção gramatical e a coerência do
+texto.
+Comentários:
+Temos orações independentes, então poderíamos coordená-las com uma vírgula ou com uma
+conjunção coordenativa aditiva, sem prejuízo gramatical. Além disso, o texto continua fazendo
+sentido, sendo lógico, então não há prejuízo à coerência.
+Questão correta.
+(IPHAN / 2018)
+      Para fazer frente a essas transformações, é necessário um novo tipo de planejamento
+urbano. Conceitos rígidos dão lugar à ﬂexibilidade, à análise de cenários alternativos e à inclusão
+da sociedade na formulação das políticas.
+      Nesse contexto novo, o patrimônio histórico tem de ser integrado ao planejamento da
+cidade, sob pena de ﬁcar à deriva em um mar de interesses puramente econômicos.
+As vírgulas empregadas após as palavras “ﬂexibilidade” (ℓ.2) e “novo” (ℓ.4) justiﬁcam-se pela
+mesma regra de pontuação.
+Comentários:
+Conceitos rígidos dão lugar à ﬂexibilidade, à análise de cenários alternativos e à inclusão da
+sociedade na formulação das políticas.
+A vírgula após “ﬂexibilidade” separa termos de mesma função sintática numa enumeração.
+Nesse contexto novo, o patrimônio histórico tem de ser integrado ao planejamento da cidade,
+sob pena de ﬁcar à deriva em um mar de interesses puramente econômicos.
+A vírgula após “novo” marca a antecipação de um adjunto adverbial.
+Logo, estão em regras diferentes. Questão incorreta.
+
+
+(EBSERH / 2018)
+O Brasil, durante a maior parte da sua história, manteve uma cultura familista e pró-natalista. Por
+cerca de 450 anos, o incentivo à fecundidade elevada era justiﬁcado em função da prevalência
+de altas taxas de mortalidade, dos interesses da colonização portuguesa, da expansão da
+ocupação territorial e do crescimento do mercado interno.
+O trecho “da prevalência de altas taxas de mortalidade, dos interesses da colonização
+portuguesa, da expansão da ocupação territorial e do crescimento do mercado interno” constitui
+uma enumeração que complementa o sentido da expressão iniciada por “em função”.
+Comentários:
+Sim, aqui temos a vírgula separando termos de mesma função sintática, numa enumeração de
+complementos:
+em função 1da prevalência de altas taxas de mortalidade, 2dos interesses da colonização
+portuguesa, 3da expansão da ocupação territorial e 4do crescimento do mercado interno.
+Questão correta.
+
+Isolar conjunção coordenativa na ordem indireta
+O lugar “padrão” da conjunção é no início da oração que ela introduz. Portanto, as conjunções
+coordenativas deslocadas devem vir isoladas por vírgulas, para “marcar” esse deslocamento da
+posição original. Ex.: Porém, logo, todavia, portanto, pois.
+                                    Seu lugar, portanto, não é aqui.
+                       Tinha algumas qualidades; tinha, porém, muitos defeitos.
+LEMBRETE: o “mas” não aceita deslocamento, devendo vir iniciando a oração adversativa. A
+vírgula vem antes do “mas”, não após.
+
+Separar orações coordenadas com ou sem conjunção
+A separação de orações coordenadas é semelhante a uma enumeração de termos coordenados.
+Por isso, também deve ser usada a vírgula. Ex.:
+                        Cheguei, tomei banho, me arrumei e saí de novo.
+                        Ela amava intensamente, mas por pouco tempo.
+                          Vou embora, pois não aguento essa loucura.
+                                     Saia, que já vai chover.
+                             Quero passar, logo evito perder tempo.
+                          Seja por bem, seja por mal, eu vou conseguir.
+Também são separadas as orações aditivas reduzidas de gerúndio, um tipo bem especíﬁco, que
+geralmente se relaciona ao “E” indicativo de sequência temporal ou de consequência. Ex.:
+                  “O vaso caiu no chão, despedaçando-se.” (e despedaçou-se)
+            “O balão subiu rápido, desaparecendo no céu.” (e desapareceu no céu)
+OBS: Em regra, não se separam as orações coordenadas unidas por “e” ou “nem”.
+OBS: É possível inserir vírgulas após conjunção conclusiva iniciando período (Ex.: Quero passar.
+Logo (,) evito perder tempo.)
+
+
+
+
+(PM-BA / 2020)
+Sobre o uso da vírgula, julgue a aﬁrmação a seguir.
+“Havia as mais belas casas, os jardins, os playgrounds, as piscinas,” [...] É obrigatório o uso da
+vírgula para separar termos com funções semelhantes.
+Comentários:
+Sim. A vírgula coordena (enumera) elementos de mesma função sintática. No caso, temos uma
+enumeração de objetos diretos do verbo “haver”. Questão correta.
+
+
+(PM-BA / 2020)
+Sobre o uso da vírgula, julgue a aﬁrmação a seguir.
+“Houve protestos, mas no ﬁm todos concordaram”. É obrigatório o uso da vírgula para separar
+orações coordenadas sindéticas adversativas.
+Comentários:
+Sim. Antes do “mas”, devemos usar vírgula, pois esta conjunção inicia uma oração coordenada
+adversativa.
+Questão correta.
+
+
+(SEFAZ-BA / 2019)
+Atente para o que se aﬁrma abaixo a respeito do fragmento "De tão difícil e cruel, a vida parece
+impossível e no entanto o povo vive, luta, ri, não se entrega."
+Isolando-se por vírgulas o segmento no entanto, não haverá alteração do sentido e da correção.
+Comentários:
+Não haveria mudança alguma, pois a conjunção adversativa “no entanto” já deveria estar isolada
+por vírgulas, porque está deslocada. Basicamente, a banca apenas pede que o candidato
+observe que a pontuação estava inadequada e a corrija. Questão correta.
+
+
+
+
+                                     A vírgula antes do "E"
+
+                      No polissíndeto (repetição de       Ex.: Mas ela só reclama, e reclama, e
+                               conjunção)                               reclama...
+
+                                                         Ex.: Ela comprou o gato, e o cachorro
+  Obrigatório                                              ﬁcou com ciúme (se tirar a vírgula,
+                       Para desfazer ambiguidade
+                                                         pode-se entender que ela comprou o
+                                                                   gato e o cachorro.)
+
+                    Para separar orações aditivas com
+                      sujeitos diferentes. Porém, é
+                     recomendável usá-la. (esse uso           Ex.: Eu trabalhava (,) e meu ﬁlho
+                               cai muito!!)                          gastava o dinheiro.
+
+                                                         Ex.: Fez dieta por muitos anos (,) e não
+                                                                       emagreceu.
+                                                                 Ex.: Chovia muito (,) e foi nadar
+                    Para separar orações com relação                    na piscina.
+                    adversativa, ou seja, com sentidos
+                                                          (E com sentido de MAS; a vírgula é
+   Facultativo                   opostos.
+                                                             aconselhável, recomendável).
+
+                      É facultativo o uso da vírgula
+                              antes de etc.
+                                                       Ex.: Dormi no sofá e acordei com dores
+                                                                    na escápula.
+ Desaconselháv       Separar orações com sujeitos      (o sujeito de ambos os verbos é “eu”: a
+      el                        iguais.                 vírgula estaria separando o sujeito do
+                                                             seu segundo verbo. Evite-a!)
+
+
+
+       Notinha de rodapé (KURY,1999): Pode-se usar a vírgula, quando o sujeito for o
+       mesmo, “como recurso estilístico” para realçar a oração iniciada pela conjunção
+       aditiva, ocasião em que a pausa é mais forte. Nesse caso, pode-se também usar
+       o travessão:
+             Ex.: Na véspera, deitara-se cedo, e sonhou.
+             Ex.: Na véspera, deitara-se cedo — e sonhou.
+       Ressaltamos: esse uso acima é “estilístico", não deriva de regra gramatical.
+       Trouxemos aqui, pois pode aparecer no texto de prova e a banca perguntar o
+       motivo do uso daquela pontuação.
+       Obs.: A banca geralmente pergunta se a vírgula foi utilizada por um dos motivos
+       acima e o candidato deve reconhecer essas possibilidades. É difícil a banca ser
+       categórica e aﬁrmar que é “impossível” ou “proibido” usar aquela vírgula.
+       Normalmente se limita a dizer que a vírgula foi inserida por haver sujeitos
+       diferentes ou por haver sentido adversativo e perguntar se está certo!
+
+
+
+
+(PGE-PE / 2019)
+A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele regula
+nossa vida até o dia em que morremos.
+A vírgula empregada na linha 1 tem a ﬁnalidade de demarcar uma relação de oposição entre as
+orações “Todos nós aderimos a ele no dia em que nascemos” (L. 1-2) e “e ele regula nossa vida
+até o dia em que morremos” (L.2).
+Comentários:
+Não há oposição, a vírgula foi usada para separar orações com sujeitos distintos (“Todos nós” e
+“ele”).
+Todos nós aderimos a ele no dia em que nascemos, e ele regula nossa vida até o dia em que
+morremos. Questão incorreta.
+
+
+(SEDF / 2017)
+Como qualquer proﬁssional do ambiente escolar, os monitores também são educadores, e cabe à
+equipe gestora realizar ações formativas para que eles saibam como interagir com as crianças e
+os jovens nos diversos...
+Seria mantida a correção gramatical do texto caso a vírgula empregada imediatamente após
+“educadores” fosse suprimida.
+Comentários:
+As orações coordenadas pelo “E” têm sujeitos diferentes, logo é facultativa (embora
+recomendável) a utilização de vírgula antes da conjunção “E”. Na primeira oração, o sujeito é
+“monitores”, na segunda é uma oração:
+
+Como qualquer proﬁssional do ambiente escolar, [os monitores] também são educadores, e cabe
+à equipe gestora [realizar ações formativas para que eles saibam como interagir com as crianças
+e os jovens nos diversos]
+Portanto, a vírgula utilizada na redação oﬁcial é adequada, mas não é obrigatória, de modo que
+sua supressão manteria a correção gramatical do texto. Questão correta.
+
+
+(FUNPRESP / 2016)
+Senti como se estivesse nascendo naquele momento. Uma vida nova, passada a limpo, me
+esperava em direção a um Norte mais nítido, a uma morte mais próxima e sem alternativa. Mas
+aquela casa me protegia, e dentro dela uma mulher se esforçava por me fazer feliz. Aquelas
+folhas de papel me esperavam também, intocadas, e era minha obrigação escurecê-las de ideias,
+histórias, sortilégios capazes, talvez, de fazer alguém parar no seu cotidiano e se pôr a sonhar.
+A respeito de aspectos linguísticos do texto, julgue o próximo item.
+A vírgula empregada logo após “protegia” separa orações aditivas que têm sujeitos distintos.
+Comentários:
+A vírgula antes do “E” é recomendável quando há sujeitos distintos. Na primeira oração, o sujeito
+é “aquela casa”; na segunda, é “uma mulher”:
+Mas aquela casa me protegia, e dentro dela uma mulher se esforçava por me fazer feliz. Questão
+correta.
+
+Separar expressões explicativas, retiﬁcativas e palavras de
+situação
+As expressões explicativas se diferenciam das orações explicativas somente pela ausência de
+verbo e do pronome relativo. Um aposto explicativo também segue esse padrão.
+A vírgula também deve ser usada para separar palavras denotativas de situação, de retiﬁcação ou
+de continuidade: aﬁnal, enﬁm, ora, agora, então (sem sentido conclusivo), por exemplo, ou
+melhor, isto é, ou seja, aliás, com efeito, do mesmo modo, ou antes, por assim dizer. Ex.:
+                         Vários lutadores perderam, por exemplo, Aldo.
+                               Gosto muito de livros, isto é, de ler.
+                           Então, você vai mesmo desistir de estudar?
+                                Aﬁnal, quem poderá nos defender?
+                                    Podemos, enﬁm, descansar.
+                               Ora, o que você tem a ver com isso?
+                           Bem, não posso negar que ela tem coragem.
+                                   Aliás, ela tem muita coragem.
+
+
+Obs.: Em expressões de natureza explicativa, podem ser usadas vírgulas, parênteses ou
+travessões. Ex.:
+               Messi, entre outros atacantes ilustres, nunca venceu a copa do mundo.
+               Messi (entre outros atacantes ilustres) nunca venceu a copa do mundo.
+           Messi — entre outros atacantes ilustres — nunca venceu a copa do mundo.
+Veja que essa pontuação reforça o caráter acessório das explicações, que poderiam ser retiradas:
+Messi nunca venceu a copa do mundo.
+
+
+
+
+(UEPA / 2020)
+Uma vírgula deveria ter sido empregada em:
+Aliado a isso, as empresas do setor têm estimulado seus clientes a consumirem menos e melhor,
+promovendo, inclusive ações de conscientização.
+Comentários:
+A vírgula deveria ser inserida após “inclusive”:
+Aliado a isso, as empresas do setor têm estimulado seus clientes a consumirem menos e melhor,
+promovendo, inclusive, ações de conscientização. Questão correta.
+
+
+(PGE-PE / 2019)
+Em razão disso, todos os países, lugares e pessoas passam a se comportar, isto é, a organizar sua
+ação, como se tal “crise” fosse a mesma para todos e como se a receita para a afastar devesse
+ser geralmente a mesma.
+O isolamento da expressão “isto é” por vírgulas marca uma suspensão no texto provocada por
+dúvida.
+Comentários:
+Não. Expressões explicativas e retiﬁcativas como “ou seja”, “isto é”, “a saber”, “ou melhor” etc.
+são obrigatoriamente isoladas por vírgula por regra. Questão incorreta.
+Separar orações interferentes
+Essa regra é um subtipo da regra das orações intercaladas, pois a oração interferente é aquela
+que interrompe o período, que interfere na ordem direta, com um adendo, explicação ou
+comentário do autor: Ex.:
+          Acontece que a donzela, isso era segredo dela, também tinha seus caprichos.
+            A vizinha, somente ﬁquei sabendo agora, guardava um corpo no freezer!
+
+
+      Essas orações interferentes podem vir também marcadas por vírgula ou travessão.
+
+Separar orações adjetivas explicativas
+Orações adjetivas explicativas basicamente são explicações que aparecem em forma de oração,
+por terem verbo. Assemelham-se a um aposto explicativo e acrescentam um comentário
+acessório (suprimível) ao substantivo. São iniciadas por pronome relativo: que, o qual, as quais,
+cujo... Ex.:
+                  Minha mãe, que era uma mulher sábia, nunca fez faculdade.
+                          O livro, cuja capa era metálica, caiu no chão.
+                            Chamei um policial, que me negou ajuda.
+Lembre-se de que as orações adjetivas restritivas não são separadas por vírgulas. Ex.:
+                O homem, que estuda muito, vence na vida. (oração explicativa)
+ O homem que estuda muito vence na vida. (nem todo homem vence na vida, somente aquele
+                que estuda muito. O comentário restringe, limita homem)
+
+
+
+
+Em algumas situações, é inadequado omitir as vírgulas da oração adjetiva, pois a semântica não
+vai permitir o sentido restritivo. Ex.:
+            A minha mãe, que tem medo de avião, viaja de carro. (oração explicativa)
+           A minha mãe que tem medo de avião viaja de carro. (restrição inadequada)
+
+
+Observe que, nesse caso, se retirarmos a vírgula, teremos inadequação, pois estaremos
+restringindo “minha mãe”, entidade que já é restrita por natureza. Não podemos dizer que
+“somente uma das minhas mães viaja de carro”.
+Pela mesma razão, não poderíamos omitir as vírgulas abaixo. Ex.:
+                    O Canadá, que é um país frio, recebe muitos imigrantes.
+              A Carta Magna de 1988, que trouxe muitos direitos difusos, é rígida.
+Só há um Canadá e uma Carta Magna de 1988, então não é possível transformar a oração em
+restritiva. As vírgulas se tornam obrigatórias!
+
+
+
+
+(IBAMA / 2022)
+De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
+Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que
+fomenta o uso irracional de recursos naturais e a destruição de hábitats, como ﬂorestas e outras
+áreas, o que faz que animais, forçados a mudar seus hábitos de vida, contraiam e transmitam
+doenças que não existiriam em situações normais. “Situações de desequilíbrio ambiental,
+causadas principalmente por desmatamento e mudanças de clima, aumentam ainda mais a
+probabilidade de que zoonoses, ou seja, doenças de origem animal, nos atinjam e alcancem o
+patamar de epidemias e pandemias”, explica a professora.
+No segundo período do terceiro parágrafo, a supressão da vírgula empregada logo após
+‘ambiental’ alteraria o sentido do texto, mas manteria sua correção gramatical.
+Comentários:
+Haveria erro gramatical, pois a banca só menciona a retirada de uma vírgula:
+“Situações de desequilíbrio ambiental causadas principalmente por desmatamento e mudanças
+de clima, aumentam
+As duas precisariam ser retiradas para que a oração fosse considerada restritiva e a correção fosse
+mantida.
+“Situações de desequilíbrio ambiental, causadas principalmente por desmatamento e mudanças
+de clima, aumentam
+Questão incorreta.
+
+
+(PGE-PE / 2019)
+Passávamos férias na fazenda da Jureia, que ﬁcava na região de lindas propriedades cafeeiras.
+A retirada da vírgula empregada na linha 1 alteraria os sentidos originais do primeiro período do
+texto.
+Comentários:
+Questão clássica. Sim, a vírgula indica que a oração adjetiva “que ﬁcava...” é explicativa. Se for
+retirada, a oração passa a ser restritiva e o sentido então muda.
+Passávamos férias na fazenda da Jureia, que ﬁcava na região de lindas propriedades cafeeiras.
+Questão correta.
+(PRF / 2019)
+Dispor de tanta luz assim, porém, tem um custo ambiental muito alto, avisam os cientistas. Nos
+humanos, o excesso de luz urbana que se inﬁltra no ambiente no qual dormimos pode reduzir
+drasticamente os níveis de melatonina, que regula o nosso ciclo de sono-vigília.
+A correção gramatical do texto seria mantida, mas seu sentido seria alterado, caso o trecho “que
+se inﬁltra no ambiente no qual dormimos” fosse isolado por vírgulas.
+Comentários:
+A oração adjetiva pode ser restritiva ou explicativa a depender da pontuação:
+Nos humanos, o excesso de luz urbana que se inﬁltra no ambiente no qual dormimos pode
+reduzir drasticamente os níveis de melatonina. (oração restritiva)
+Nos humanos, o excesso de luz urbana, que se inﬁltra no ambiente no qual dormimos, pode
+reduzir drasticamente os níveis de melatonina. (oração explicativa)
+Então, o sentido é alterado, mas não há erro gramatical, já que ambas as formas são válidas,
+apenas têm sentidos diferentes. Questão correta.
+
+
+(MPE-PI / 2018)
+Um dos últimos estádios norte-americanos que mantêm sua construção original, diz o Atlanta
+Journal Constitution.
+Os sentidos originais do texto seriam preservados caso se inserisse uma vírgula imediatamente
+após “norte-americanos”.
+Comentários:
+A inserção da vírgula vai mudar o sentido sim, de restrição para explicação.
+... estádios norte-americanos que mantêm sua construção original (sem vírgula, oração adjetiva
+restritiva)
+... estádios norte-americanos, que mantêm sua construção original (COM vírgula, oração adjetiva
+explicativa)
+Questão incorreta.
+
+
+(SLU-DF / 2019)
+Como em todas as tardes abafadas de Americana, no interior de São Paulo, o paranaense
+Adílson dos Anjos circula entre velhas placas de computador, discos rígidos quebrados,
+estabilizadores de energia enferrujados, monitores com tubos queimados e outras velharias do
+mundo da informática. Ao ar livre, as pilhas, que alcançam um metro de altura, reﬂetem os raios
+de sol de forma difusa e provocam um incessante piscar de olhos. Por trás delas, um corredor
+estreito, formado por antigos decodiﬁcadores de televisão a cabo, se esconde sob uma poeira
+ﬁna que sobe do chão.
+A supressão da vírgula empregada logo após o vocábulo “estreito” (ℓ.6) alteraria os sentidos
+originais do texto, mas manteria sua correção gramatical.
+Comentários:
+Muita atenção aqui!
+Aquela análise de oração explicativa (com vírgula) x oração restritiva (sem vírgula) também vale
+para orações ou termos adjetivos que não venham expressamente com o pronome relativo:
+
+Por trás delas, um corredor estreito, (que é) formado por antigos decodiﬁcadores de televisão a
+cabo, se esconde sob uma poeira ﬁna que sobe do chão.
+O termo separado por vírgula tem valor adjetivo e explicativo; logo, se suprimirmos a vírgula,
+passaria a ter sentido restritivo. Em tese, funciona assim. Era isso que a banca queria que você
+pensasse.
+Contudo, aqui, a expressão adjetiva explicativa está intercalada, COM DUAS VÍRGULAS. Se
+retirarmos uma delas, causaremos um erro de pontuação, pois sobrará uma vírgula depois dela,
+separando o sujeito do verbo:
+Por trás delas, um corredor estreito formado por antigos decodiﬁcadores de televisão a cabo, se
+esconde.
+Então, esse item estaria correto apenas se fossem suprimidas as duas vírgulas. Questão incorreta.
+
+
+(PC-MA / 2018)
+O desastre, que completou um ano no último dia 28 de novembro, matou 71 pessoas, em sua
+maior parte atletas do time brasileiro da Chapecoense.
+O sentido do segundo período do segundo parágrafo seria preservado caso as vírgulas que
+sucedem as palavras “desastre” e “novembro” fossem suprimidas.
+Comentários:
+Se fossem suprimidas, a oração adjetiva explicativa se tornaria restritiva, fato que mudaria o
+sentido. Questão incorreta.
+
+
+(MPU / 2018)
+A visão etnocêntrica caminha na contramão do processo de integração global decorrente da
+modernização dos meios de comunicação como a Internet, pois é sinônimo de estranheza e de
+falta de tolerância.
+A inserção de uma vírgula após “global” (l.1) alteraria os sentidos originais do texto, mas não sua
+correção gramatical.
+Comentários:
+Aqui, temos a mesma “lógica” das orações adjetivas. Observem que o adjetivo ‘decorrente’, sem
+vírgula, tem valor restritivo. Ao inserir a vírgula, passa a ter valor explicativo:
+A visão etnocêntrica caminha na contramão do processo de integração global decorrente (que
+decorre) da modernização dos meios de comunicação como a internet...
+A visão etnocêntrica caminha na contramão do processo de integração global, decorrente (que
+decorre) da modernização dos meios de comunicação como a internet...
+Portanto, embora não cause erro, a inserção da vírgula altera os sentidos. Questão correta.
+Separar o objeto direto pleonástico (repetido)
+O objeto “pleonástico” é aquele complemento verbal que, por recurso estilístico ou de ênfase,
+aparece duas vezes, isto é, é repetido. Ex.:
+                               Os meninos, já os levei para escola.
+                          Títulos relevantes, não ganhei nenhum deles.
+
+Separar o aposto
+O aposto é um termo explicativo de valor substantivo que desenvolve ou esclarece um termo
+anterior. Por ter natureza explicativa e acessória, normalmente vêm marcado por vírgulas e pode
+ser retirado. Ex.:
+                Ares, o deus da guerra, inspirava os troianos. (aposto explicativo)
+        O Presidente do Senado, Renan Calheiros, jurou ser inocente. (aposto explicativo)
+Se bater aquela dúvida sobre se realmente aquelas vírgulas estão bem posicionadas, retire o
+termo entre vírgulas e veja se ainda faz sentido. Ex.:
+                                    Ares inspirava os troianos.
+                            O Presidente do Senado jurou ser inocente.
+Viu? As frases continuam perfeitas. Isso corrobora o caráter explicativo e acessório do aposto. Ele
+pode ser retirado sem prejuízo da correção.
+Veja outros tipos de aposto.
+
+                     TIPO                                             EXEMPLO
+
+                                                 Planejamento,    disciplina,   estudo,   tudo   é
+                 RESUMITIVO
+                                                 importante!
+
+                                                 Chitãozinho e Xororó são cantores, este tem
+                                                 voz aguda e aquele tem voz grave.
+                                                 Comprei duas canetas, uma azul e uma
+                                                 vermelha.
+                DISTRIBUTIVO
+                                                 Queria dois atacantes no meu time, Messi e
+                                                 Suárez.
+
+                                                 Chitãozinho e Xororó são cantores: este tem
+                                                 voz aguda e aquele tem voz grave.
+ *O aposto distributivo ou enumerativo           Comprei duas canetas: uma azul e uma
+ também pode vir iniciado por dois-pontos        vermelha.
+ (:).
+                                                 Queria dois atacantes no meu time: Messi e
+                                                 Suárez.
+
+                     Especiﬁca, distingue e      O estado de Minas Gerais possui grande área.
+ ESPECIFICATIV       individualiza, é o único
+ O                   que não vem pontuado.         A praia de Copacabana é super segura.
+                                                   Ele cometeu crime de latrocínio.
+                                                   O Poeta Fernando Pessoa era português.
+
+
+     APOSTO DE                                     Reprovei quatro vezes, o que abalou minha
+      ORAÇÃO                                       conﬁança.
+
+
+O aposto também pode estar antes do substantivo a que se refere, separado por pontuação:
+       Ex.: Destino inevitável, a morte ainda intriga a ﬁlosoﬁa. (a morte é o destino...)
+
+
+
+
+(PREF. CARIACICA / 2020)
+Assinale a alternativa que apresenta uma explicação INCORRETA quanto ao emprego da vírgula.
+a) Em “No ﬁm de 2016, a American Academy of Pediatrics divulgou um estudo bem amplo sobre
+os efeitos das mídias digitais (...).”, a vírgula foi utilizada para marcar inversão na posição do
+adjunto adverbial para o início da oração.
+b) No excerto “Faltava, entretanto, comprovação cientíﬁca.”, tal sinal de pontuação foi
+empregado para marcar a intercalação da conjunção “entretanto”.
+c) Em “O uso mal administrado de smartphones ajuda a criar um ambiente de emergência
+permanente, transforma problemas gerenciáveis em incêndios ameaçadores e faz com que todos
+se sintam como bombeiros sem equipamentos (...)”, a vírgula foi utilizada para separar orações
+coordenadas assindéticas.
+d) No excerto “(...) Jean M. Twenge, professora de psicologia na Universidade Estadual de San
+Diego, alertou sobre o risco de uma crise mental iminente afetando crianças e adolescentes. (...)”,
+as vírgulas foram empregadas para isolar um vocativo.
+Comentários:
+No excerto “(...) Jean M. Twenge, professora de psicologia na Universidade Estadual de San
+Diego, alertou sobre o risco de uma crise mental iminente afetando crianças e adolescentes. (...)”,
+as vírgulas foram empregadas para isolar um APOSTO EXPLICATIVO, referente a Jean M.
+Twenge.
+As demais opções são teóricas, corretas e autoexplicativas. Gabarito letra D.
+
+
+(PREF. RIO DE JANEIRO / 2019)
+A vírgula é empregada para isolar um aposto no seguinte fragmento do texto:
+a) “Como o fungo chamava-se Penicillium notatum, Fleming batizou a tal substância de
+penicilina.”
+b) “Em pessoas com câncer, por exemplo, os antibióticos atuam muito menos...”
+c) “Segundo Emília, os sistêmicos são aqueles que precisam atingir a corrente sanguínea...”
+d) “...onde observava o comportamento de uma cultura de Staphylococcus aureus, a temível
+bactéria que causa infecção generalizada.”
+Comentários:
+Vejamos:
+a) A vírgula separa uma oração adverbial causal antecipada.
+b) As vírgulas são obrigatórias e separam a expressão explicativa “por exemplo”.
+c) A vírgula separa expressão adverbial conformativa que está antecipada no período.
+d) A vírgula isola o aposto explicativo de “Staphylococcus aureus”. Qual é a temível bactéria? A
+“Staphylococcus aureus”. Gabarito letra D.
+
+
+(UFPE / 2019)
+Outros trabalhos mostram também que a endorﬁna, neurotransmissor produzido com a prática
+de exercícios, melhora a disposição de maneira geral – o que ajuda na concentração e nas aulas.
+Mais: exercícios físicos ajudam no sono, que, por sua vez, tem um papel importantíssimo na
+memória. Para a psicologia, os exercícios físicos ajudam a desenvolver o trabalho em grupo, a
+liderança e a disciplina.
+No trecho: “Outros trabalhos mostram também que a endorﬁna, neurotransmissor produzido
+com a prática de exercícios, melhora a disposição”, as vírgulas separam um segmento
+explicativo.
+Comentários:
+Temos um aposto explicativo de “endorﬁna”. Questão correta.
+
+Separar o vocativo
+O vocativo é um chamamento, uma invocação do ouvinte. Ex.:
+                                         Bom dia, Brasil.
+                                Felipe, seja mais gentil com ela!
+                 Olha aqui, meu querido, não há milagre: você tem que estudar!
+                               A jornalista, Patrícia, perdeu 22 kg!
+Observe que, se retirarmos a vírgula, o vocativo passa a ser aposto especiﬁcativo: A jornalista
+Patrícia perdeu 22 kg! Também é possível considerar que o termo entre vírgulas é um aposto
+explicativo.
+(PREF. VÁRZEA GRANDE-PI / 2019)
+“— Seu Borjalino, sua competência é demais para repartição tão miúda.”
+Aponte a alternativa que justiﬁca corretamente o emprego da vírgula na frase acima.
+a) Separar o aposto.                     c) Separar o sujeito.
+b) Separar o vocativo.                   d) Separar termo deslocado na oração.
+Comentários:
+“Seu Borjalino” é o ouvinte, a pessoa a quem se dirige a fala. Temos então um vocativo, termo
+que evoca o interlocutor, e a vírgula é obrigatória. Gabarito letra B.
+
+Marcar a omissão de palavra
+A vírgula é usada para indicar que uma palavra foi suprimida, mas que pode ser facilmente
+subentendida pelo contexto. Ex.:
+  Ela gosta de instagram; eu, de estudar. (a vírgula substitui o verbo omitido gostar; a vírgula se
+             justiﬁca por ocorrência da Zeugma, omissão de termo já mencionado.)
+  O meu pai foi peão, minha mãe, solidão. (minha mãe “foi” solidão. A vírgula substitui o verbo
+                                  “ser”, que está omitido.)
+Elipse é a omissão de um termo que não foi expressamente mencionado, mas que pode ser
+facilmente identiﬁcado ou presumido no contexto. Zeugma é uma elipse especíﬁca: a omissão de
+um termo que expressamente já foi mencionado.
+Veja um caso de elipse. Ex.:
+  Só faço o que mandam. (Eu faço o que eles(as) mandam; as palavras “Eu” e “Eles(as)” estão
+                elípticas, mas podem ser facilmente inferidas pelas desinências)
+
+
+Agora veja um caso de elipse que justiﬁca a vírgula: geralmente pela existência de um verbo
+implícito. Ex.:
+               Na casa de mamãe, roupa lavada; na minha, contas embaixo da porta.
+         (Na casa de mamãe havia roupa lavada; na minha há contas embaixo da porta.)
+                            Sábado, balada; domingo, sono profundo.
+          (Subentende-se que sábado alguém vai à balada e no domingo dorme muito)
+                               Aos amigos, tudo; aos inimigos, nada.
+                  (aos amigos oferecemos tudo; aos inimigos oferecemos nada)
+*O meu pai era paulista, meu avô, pernambucano, o meu bisavô, mineiro, meu tataravô, baiano.
+*essa última sentença é especial, pois traz duas regras de pontuação. As vírgulas em negrito
+separam as orações coordenadas; as demais marcam a omissão do verbo. Por substituírem um
+verbo omitido numa Zeugma (forma de elipse), essas vírgulas são chamadas de vírgulas vicárias.
+
+
+
+
+(PREF. SÃO JOSÉ DO RIO PRETO-SP / 2021)
+Observa-se a elipse (ou seja, a omissão) de um substantivo no seguinte trecho:
+(A) um devedor, ao ter sua dívida cobrada pelo credor, primeiro pôs-se a pedir-lhe um adiamento
+(B) para as festas da deusa Deméter, paria fêmeas e, para as de Atena, machos
+(C) como o comprador estivesse assombrado com a resposta
+(D) Ele aﬁrmou que ela não apenas paria, mas que ainda o fazia de modo extraordinário
+(E) Mas não se espante, pois nas festas do deus Dioniso ela também vai lhe parir cabritos
+ZzComentários:
+A FCC ultimamente tem feito várias questões sobre elipse. Vejamos:
+(B) para as festas da deusa Deméter, paria fêmeas e, para as de Atena, machos
+(B) para as festas da deusa Deméter, paria fêmeas e, para as festas de Atena paria machos
+A última vírgula substitui o verbo já mencionado: parir.
+Gabarito letra B.
+
+
+(PREF. CURITIBA / 2019)
+“[…] o cinema nunca foi sua primeira opção, daí ter feito poucos ﬁlmes. O teatro, sim”.
+Julgue o item a seguir.
+A segunda vírgula foi empregada para marcar a omissão do verbo.
+Comentários:
+A vírgula aqui marca a supressão do verbo “ser”, que aparece em “foi sua primeira opção”:
+“[…] o cinema nunca foi sua primeira opção, daí ter feito poucos ﬁlmes. O teatro (foi) sim (sua
+primeira opção)”.
+O enunciado seria mais “preciso” se dissesse que a vírgula marca a elipse do termo “foi sua
+primeira opção”, mas o mero “foi” já recupera esta ideia. Questão correta.
+
+
+(UFGD / 2019)
+Agora, com técnicas de microscopia, viram que, nas ﬂores do cajuzinho e da mangueira, as
+glândulas de odor estão na base interna das pétalas. A primeira produz 39 compostos voláteis, a
+segunda, 21.
+Julgue o item. A vírgula no termo destacado marca a omissão de uma palavra.
+Comentários:
+A vírgula foi usada para marcar a elipse do verbo “produzir”. Esta é a vírgula da “zeugma”, um
+tipo especíﬁco de elipse, que indica a omissão de uma palavra/expressão já citada no texto.
+A primeira produz 39 compostos voláteis, a segunda, 21.
+A primeira produz 39 compostos voláteis, a segunda produz 21. Questão correta.
+
+                                 QUADRO RESUMO DO USO DA VÍRGULA
+
+                            Aplicação                                                Exemplo
+
+                                     Expressam circunstância          Na casa de minha namorada, vou jogar
+                                    relacionada à ação verbal -                     xadrez.
+                                   referem-se ao modo como o
+     Adjuntos adverbiais
+                                     verbo (ação) é praticado
+         deslocados
+                                                                   Vou jogar, em casa, xadrez até a madrugada.
+
+                                                                     Comprei frutas, legumes, cereais e carnes
+                                                                                      magras.
+  Enumerar termos repetidos
+ ou de mesma função sintática      Elementos coordenados de
+                                   uma série enumerativa: lista        Os líderes eram machistas, tirânicos e
+                                                                                     corruptos.
+                                                                   Seu lugar, portanto, não é aqui.
+                                  Caso não estejam em posição
+ Isolar conjunção coordenativa    inicial na oração, a conjunção
+         na ordem direta           deve ser isolada por vírgulas   Tinha algumas qualidades; tinha, porém,
+                                                                   muitos defeitos.
+                                                                   Cheguei, tomei banho, me arrumei e saí de
+                                                                   novo.
+  Separar oração coordenada
+                                                                   Ela amava intensamente, mas por pouco
+    com ou sem conjunção
+                                                                   tempo.
+                                    Semelhante à enumeração
+
+
+                                                                   Vários lutadores perderam, por exemplo,
+                                                                   Aldo.
+                                   As expressões explicativas se
+     Separar expressões              diferenciam das orações
+  explicativas, retiﬁcativas e     explicativas pela ausência do   Gosto muito de livros, isto é, de ler.
+    palavras de situação           verbo e do pronome relativo
+                                                                   Então, você vai mesmo desistir de estudar?
+                                                                   Acontece que a donzela, isso era segredo
+                                                                   dela, também tinha seus caprichos.
+                                    Aquela que interrompe o
+ Separar orações interferentes
+                                            período
+                                                                   Minha mãe, que era uma mulher sábia, nunca
+                                                                   fez faculdade.
+
+   Separar orações adjetivas      Explicações que aparecem em
+         explicativas                    forma de oração           O livro, cuja capa era metálica, caiu no chão.
+                                                                   Os meninos, já os levei para escola.
+                            Objeto direto que aparece duas
+                                         vezes
+  Separar objeto direto                                      Títulos relevantes, não ganhei nenhum deles.
+      pleonástico
+                                                             Ares, o deus da guerra, inspirava os troianos.
+
+
+                                                             O Presidente do Senado, Renan Calheiros,
+    Separar o aposto          Aposto: termo explicativo
+                                                             jurou ser inocente.
+                                                             Felipe, seja mais gentil com ela!
+
+                                    Chamamento
+                                                             Olha aqui, meu querido, não há milagre: você
+   Separar o vocativo
+                                                             tem que estudar!
+
+                            Elipse: omissão de palavra não   Na casa de mamãe, roupa lavada; na minha,
+                                     mencionada              contas embaixo da porta
+
+                            Zeugma: omissão de palavra já
+Marcar omissão de palavra            expressa                O meu pai foi peão, minha mãe, solidão
+                               USO DO PONTO E VÍRGULA
+A definição clássica do ponto e vírgula (;) é ser uma pausa maior que a vírgula e menor que o ponto final, é
+uma pontuação intermediária entre os dois. As gramáticas não trazem regras absolutas e obrigatórias para
+essa pontuação, o que gera certa insegurança no seu uso, sentimento que foi tratado em uma crônica de
+Luis Fernando Veríssimo:
+
+
+         “(…) Mas tenho um temor e uma frustração. Jamais usei um ponto e vírgula. Já usei
+         ‘outrossim’, acho que já usei até ‘deveras’ e vivo cometendo advérbios, mas nunca me
+         animei a usar ponto e vírgula. Tenho um respeito reverencial por quem sabe usar ponto e
+         vírgula e uma admiração maior ainda por quem não sabe e usa assim mesmo, sabendo que
+         poucos terão autoridade suficiente para desafiá-lo. (…)”
+Então vamos ver os casos mais comuns de uso desse sinal.
+
+Antes de conectivos adversativos e conclusivos
+É comum o uso de ponto e vírgula para separar orações coordenadas. Ele ocorre especialmente antes de
+conjunções adversativas: entretanto; mas; porém; contudo; todavia; ou conclusivas: logo; portanto; por isso;
+por conseguinte.
+Nada impede que seja usada a vírgula também, pois sabemos que a vírgula deve ser usada para separar
+orações coordenadas. Ex.:
+                            Eu sempre tive medo do mar; mas sempre amei praia.
+                        Ele foi condenado penalmente; portanto perdeu o emprego.
+Se a oração se inicia após (;) ou (.), a vírgula após o conectivo PODE ser utilizada, facultativamente. Ex.:
+                       Ele foi condenado penalmente; portanto (,) perdeu o emprego.
+                       Ele foi condenado penalmente. Portanto (,) perdeu o emprego.
+Apesar disso, não se recomenda iniciar oração com “mas” após ponto final.
+
+Enumerar e agrupar elementos em enumerações
+A função principal do ponto e vírgula é atuar como um enumerador. Ele separa estruturas coordenadas que
+já tenham vírgulas internas. Ele é usado para separar partes independentes, razão por que não é
+aconselhável para separar orações subordinadas.
+       Ex.: Art. 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de
+       sua condição social:
+I - relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei
+complementar, que preverá indenização compensatória, dentre outros direitos;
+II - seguro-desemprego, em caso de desemprego involuntário;
+III - fundo de garantia do tempo de serviço;
+       Ex.: O concurseiro tem duas preocupações: uma é passar; outra é passar logo.
+Veja a organização interna dessa enumeração:
+       Ex.: Viajei com dois casais e um amigo solteiro: Wandercleverson, Sâmila; Waldisney, Eyshylah;
+       Douglas. (o ponto e vírgula indica quem eram os casais)
+Veja outra possibilidade:
+       Ex.: Viajei com dois casais e um amigo solteiro: Wandercleverson; Sâmila, Waldisney; Eyshylah,
+       Douglas. (o ponto e vírgula indica outro agrupamento)
+Na fala, essa divisão e agrupamento seriam marcados pela entonação e pelas pausas. Ex.:
+   No mercadinho tem de tudo, carne, frango, peixe; frutas, legumes, cereais. (o ponto e vírgula separa
+               subgrupos diferentes: alimentos de origem animal e de origem vegetal.)
+Os atacantes dos times são Messi, Neymar e Suárez; Cristiano, James e Bale. (o ponto e vírgula separa dois
+                                grupos de atacantes, um de cada time)
+
+
+
+
+(UFPB / 2019)
+O vento gemera durante o dia todo e a chuva fustigara as janelas com tal fúria que mesmo ali, no coração
+da grande Londres feita de homens, éramos obrigados a afastar a mente da rotina da vida por um instante
+e reconhecer a presença daquelas grandes forças elementares que gritam para a humanidade através das
+grades de sua civilização, como animais indomáveis numa jaula. À medida que a noite se fechava, a
+tempestade ficava mais intensa e mais ruidosa; na chaminé, o vento chorava e soluçava como uma criança.
+Considerando o texto, analise as seguintes afirmações e assinale a alternativa correta.
+I. Em “À medida que a noite se fechava, a tempestade ficava mais intensa e mais ruidosa [...]”, o uso da
+vírgula é facultativo.
+PORQUE
+II. pode-se substituir a vírgula pelo ponto e vírgula no trecho “À medida que a noite se fechava, a tempestade
+ficava mais intensa e mais ruidosa [...]”, a fim de marcar uma pausa longa entre as orações intercaladas.
+a) As afirmações I e II são proposições verdadeiras, e a II é uma justificativa da I.
+b) As afirmações I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+c) A afirmação I é uma proposição verdadeira, e a II é uma proposição falsa.
+d) A afirmação I é uma proposição falsa, e a II é uma proposição verdadeira.
+e) As afirmações I e II são proposições falsas.
+Comentários:
+A vírgula é obrigatória, pois separa uma oração subordinada adverbial proporcional antecipada. O ponto e
+vírgula não pode separar termos subordinados, opera basicamente como elemento de coordenação entre
+itens enumerados e orações independentes de maior extensão. Gabarito letra E.
+                       USO DO SINAL DE DOIS PONTOS (:)
+Ligar orações ou termos que tenham natureza de “explicação”
+Em essência, o sinal de dois pontos indica que há uma relação entre o que vem antes dele com o que vem
+depois. Essa relação geralmente é de explicação ou, de forma mais ampla, qualquer sentido que seja um
+desenvolvimento do que foi dito antes. Ex.:
+                                    O dólar estava muito alto: não viajei.
+                                  Ele era difícil de conviver: nunca se casou.
+Nesse caso, como são duas orações coordenadas, poderia também haver entre elas uma vírgula. Por isso, a
+banca muitas vezes pergunta se é possível trocar a vírgula por dois pontos. Nesse caso, seria até possível
+trocar por (;). Ex.:
+                               Tenho apenas um objetivo: passar em concurso.
+Essas orações introduzidas por (:) com sentido de esclarecimento de um termo específico anterior
+(“objetivo”, por exemplo) são chamadas de orações subordinadas substantivas apositivas, pois funcionam
+como um aposto explicativo, mas na forma de oração (com verbo).
+Além disso, os dois pontos são utilizados em outras situações:
+
+                 USO                                                      EXEMPLOS
+
+     Isolar oração subordinada           Ela queria apenas uma coisa: que a prova viesse logo.
+  substantiva apositiva (introduzida     (O aposto pode vir na forma de uma oração desenvolvida.)
+     por conjunção integrante)
+
+                                         Dizia ele: “Estou indo pra Brasília, neste país lugar melhor não há”.
+          Introduzir citação             O uso mais clássico do sinal de dois pontos é marcar o discurso direto e inserir
+                                         uma reprodução fiel, literal, da fala alheia. Nesse caso, é comum haver aspas na
+                                         reprodução literal do comentário citado.
+
+                                         Eu aceito você de volta sob três condições: você vai pedir
+                                         desculpas, devolver o dinheiro e nunca mais repetir esse
+                                         comportamento.
+        Introduzir enumeração
+                                         Encontrei na festa meus dois melhores amigos de infância: João e
+                                         Pedro.
+                                         Utilizado para introduzir apostos distributivos e enumerativos, ou seja,
+                                         enumerações.
+(PREF. MANAUS / 2022)
+Um ator de cinema disse:
+“Eu tive uma grande vantagem que meus filhos não tiveram: eu nasci pobre.”
+Essa frase tem duas partes com dois pontos entre elas. Assinale a opção que indica a conjunção que poderia
+substituir esses dois pontos de forma adequada.
+(A) assim que
+(B) mas
+(C) portanto
+(D) quando
+(E) pois
+Comentários:
+O sinal de dois-pontos indica uma explicação, então devemos trocar pela única conjunção explicativa entre
+as opções: pois
+“Eu tive uma grande vantagem que meus filhos não tiveram: eu nasci pobre.”
+“Eu tive uma grande vantagem que meus filhos não tiveram, pois eu nasci pobre.”
+"assim que" expressa tempo; "mas" expressa oposição; "portanto" expressa conclusão; "quando" expressa
+tempo.
+Gabarito letra E.
+
+
+(TJ-PA / 2020)
+Entretanto, eram nítidos os preconceitos que cercavam o trabalho feminino nessa época. Como as mulheres
+ainda eram vistas prioritariamente como donas de casa e mães, a ideia da incompatibilidade entre
+casamento e vida profissional tinha grande força no imaginário social. Um dos principais argumentos dos
+que viam com ressalvas o trabalho feminino era o de que, trabalhando, a mulher deixaria de lado seus
+afazeres domésticos e suas atenções e cuidados para com o marido: ameaças não só à organização
+doméstica como também à estabilidade do matrimônio.
+Na linha 5 do texto, os dois-pontos foram utilizados para introduzir uma
+a) enumeração.      b) enunciação.   c) hipótese.   d) explicação.   e) ressalva.
+Comentários:
+O sinal de dois-pontos explica que a “deixar de lado afazeres domésticos e atenção ao marido” era
+considerado ameaça à organização doméstica e à estabilidade do matrimônio.
+Gabarito letra D.
+
+
+(TJ-PA / 2020)
+E foi assim que concluiu que não deveria pensar, e que, para não pensar, deveria se manter ocupada todas
+as horas do dia, e que a única atividade caseira que oferecia tal benefício era aquela que apresentava o dom
+de ser quase infinita em suas demandas diárias: a culinária.
+A correção gramatical e o sentido original do texto CG4A1-I seriam preservados caso os dois-pontos
+imediatamente após “diárias” fossem substituídos por uma vírgula.
+Comentários:
+O termo “a culinária” é um aposto explicativo, traz uma explicação de qual é a referida “única atividade
+caseira que apresentava o dom de ser quase infinita em suas demandas diárias”. Qual era? A culinária.
+Portanto, a vírgula também é cabível, pois também se separa o aposto explicativo por vírgula. Questão
+correta.
+
+
+(SEMEF MANAUS-AM / 2019)
+Como nossas experiências com a mídia social têm deixado claro, agimos diferente quando sabemos estar
+sendo observados. A privacidade é a liberdade de agir sem ser observado, e assim, em certo sentido, de
+sermos quem realmente somos - não o que desejamos que os outros pensem que somos. A maioria deseja
+maior proteção à sua privacidade. Porém, isso requererá a criação de diversas leis.
+O travessão que antecede o segmento não o que desejamos que os outros pensem que somos (L.3-4) pode
+ser substituído por vírgula, sem prejuízo da correção.
+Comentários:
+O termo após o travessão tem caráter explicativo, então pode ser também separado por vírgula, embora o
+travessão seja mais enfático. Questão correta.
+
+
+(SEMEF MANAUS-AM / 2019)
+Hoje as forças da criação de riqueza já não favorecem a expansão da privacidade, mas trabalham para
+solapá-la. Testemunhamos a ascensão daquilo que a socióloga Shoshanna Zuboff define como "capitalismo
+de vigilância" - a transformação de nossos dados pessoais em mercadoria por gigantes da tecnologia.
+Encaramos um futuro no qual a vigilância ativa é uma parte tão rotineira das transações que se tornou
+praticamente inescapável.
+O travessão que antecede o segmento a transformação de nossos dados pessoais em mercadoria por
+gigantes da tecnologia (L.3-4) pode ser substituído por dois-pontos, sem prejuízo da correção.
+Comentários:
+Todo o termo que veio após o travessão é um esclarecimento, um aposto explicativo de “capitalismo de
+vigilância”; então, cabe o travessão e cabe também o sinal de dois-pontos, pois ambos são pontuações
+próprias de introduzir termos explicativos. Caberia também a vírgula. Questão correta.
+
+
+(PGE-PE / 2019)
+Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para absolver o presente,
+nem de deplorar o presente para louvar os bons tempos antigos.
+Na linha 1, os dois-pontos foram empregados com a finalidade de introduzir uma síntese das ideias
+enunciadas no primeiro parágrafo do texto.
+Comentários:
+Não é uma síntese. Os dois-pontos foram usados para anunciar a explicação daquilo que deveria ficar claro.
+Questão incorreta.
+
+
+(PREF. LONDRINA-PR / 2019)
+Sobre o trecho “É hora de mudar a maneira como enxergamos o problema: há um vazamento enorme de
+plástico que polui a natureza e ameaça a vida”, assinale a alternativa que apresenta, corretamente, a
+expressão que, precedida por vírgula, pode substituir os dois pontos, sem alterar o sentido original.
+a) apesar disso   b) ou seja   c) sem dúvida   d) de modo que   e) visto que
+Comentários:
+Tendo em vista a relação de causa/explicação, um “esclarecimento” em sentido amplo, é possível indicar
+essa relação semântica com o sinal de dois-pontos ou com um conectivo expresso:
+“É hora de mudar a maneira como enxergamos o problema, porque/visto que há um vazamento enorme de
+plástico que polui a natureza e ameaça a vida”. Gabarito letra E.
+
+
+(SEMEF MANAUS-AM / 2019)
+O terceiro motivo do fracasso do modelo de assimilabilidade católica é conceitual. Seus defensores partiam
+de um pressuposto falso: o de que a população brasileira era homogênea em termos de religião.
+Considerado o trecho reproduzido, é correto afirmar:
+Os dois-pontos estão empregados pelo mesmo motivo que se nota em “Curioso, perguntou: - Quem lhe deu
+esse belo presente?”, exigidos por verbo dicendi.
+Comentários:
+No item, a banca dá um exemplo de sinal de dois pontos introduzindo discurso direto, citação literal. Não é
+o mesmo caso do texto. Lá, o sinal de dois-pontos foi usado para introduzir um aposto explicativo de “um
+pressuposto falso”. Qual era esse pressuposto? O pressuposto era “o de que a população brasileira era
+homogênea em termos de religião”. Questão incorreta.
+                                   USO DAS RETICÊNCIAS
+As reticências, essencialmente, indicam uma interrupção de algo que ia continuar, ou seja, expressam
+interrupções no texto. O sinal de reticências sinaliza também uma ideia não concluída, algo que o escritor
+deixa no ar. Ex.:
+                                Nós fizemos tudo para salvar seu filho, mas...
+                                   O que eu ia dizer é... bem... deixa pra lá.
+As reticências entre parênteses indicam a supressão de parte do texto (...).
+Ex.: “Do mesmo modo que a frase não é uma simples sequência de palavras, o texto não é uma simples
+sucessão de frases. São elos transfrásicos, (...), que fazem do texto um conjunto de informações.”
+
+
+
+
+(EMSERH / 2016)
+A carta de amor
+No momento em que Malvina ia por a frigideira no fogo, entrou a cozinheira com um envelope na mão. Isso
+bastou para que ela se tornasse nervosa. Seu coração pôs-se a bater precipitadamente e seu rosto se
+afogueou. Abriu-o com gesto decisivo e extraiu um papel verde-mar, sobre o qual se liam, em caracteres
+energéticos, masculinos, estas palavras: “Você será amada...”.
+Os “três pontos de reticências” na frase escrita no papel verde-mar indicam:
+a) introdução à fala de um personagem.               c) indicação de uma transcrição.
+b) realce da palavra anterior ao sinal.              d) interrupção da frase.     e) fim da ação verbal.
+Comentários:
+As reticências servem para suspender o “fluxo” sintático, marcando uma interrupção da fala. Gabarito letra D.
+                                    USO DAS ASPAS
+                         USO                                         EXEMPLOS
+                 Reprodução literal do texto, as Encheu o peito de ar com orgulho e
+                 exatas palavras, no discurso gritou: “Agora ferrou!”
+                 direto.                            O padre começou a oração: “Em nome do
+                                                    pai, do ﬁlho...”
+                 Em citações literais, o ponto deve Nunca ﬁz amigos bebendo leite.” (Vinícius
+     Indicar     ﬁcar dentro das aspas se a frase de Morais)
+    citações     começa e termina com aspas.
+                 Se apenas uma parte da citação Minha mãe sempre dizia que “lágrimas
+                 está dentro das aspas, a não são argumentos”.
+                 pontuação deve ﬁcar fora das
+                 aspas.
+                                                    Para    apagar     caracteres,    pressione
+                                                    “backspace” ou “delete”.
+                                                    Ela posta fotos de biquíni para “causar” na
+   Indicar estrangeirismo, neologismo, arcaísmo,    “net”.
+             expressão popular ou gíria             Impetrei um “habeas corpus” com a
+                                                    “patroa” para poder sair na “night”.
+                                                    *Atualmente, no entanto, tem sido tolerado o uso
+                                                    de itálico como forma de dispensar o uso de aspas,
+                                                    exceto na hipótese de citação textual.
+Indicar ironia Uso “especial” de uma palavra,       Quem foi o “gênio” que tirou zero naquela
+e      sentido com intenção diferente do            prova fácil?
+ﬁgurado        esperado, fora do contexto           Você, calado, é um “poeta”...
+               habitual.                            O policial e o ladrão chegaram a um
+                                                    “entendimento”.
+
+
+
+
+(PREF. SÃO ROQUE / 2020)
+Subi ao avião com indiferença, e como o dia não estava bonito, lancei apenas um olhar distraído
+a essa cidade do Rio de Janeiro e mergulhei na leitura de um jornal. Depois ﬁquei a olhar pela
+janela e não via mais que nuvens, e feias. Na verdade, não estava no céu; pensava coisas da
+terra, minhas pobres, pequenas coisas, uma aborrecida sonolência foi me dominando, até que
+uma senhora nervosa ao meu lado disse que “nós não podemos descer!” O avião já havia
+chegado a São Paulo, mas estava fazendo sua ronda dentro de um nevoeiro fechado, à espera de
+ordem para pousar. Procurei acalmar a senhora.
+Empregando aspas na passagem “nós não podemos descer”, o narrador sinaliza ao leitor que se
+trata
+a) de uma fala cuja autoria ele não identiﬁca.
+b) da citação de uma obra de sua autoria.
+c) da fala literal da senhora nervosa a seu lado.
+d) de menção irônica dele à fala da senhora a seu lado.
+e) de transcrição indireta de uma dedução do leitor.
+Comentários:
+A frase entre aspas é reprodução literal da fala da senhora, ou seja, marcam discurso direto. Gabarito
+letra C.
+
+
+(PM-SP / 2020)
+       Quem vai viajar e passar dias fora de casa, deve ﬁcar atento ao que vai postar nas redes
+sociais: elas podem virar uma arma para os assaltantes de plantão. O alerta é da Polícia Militar e
+do Sindicato das Empresas de Segurança Privada do Estado de São Paulo (Sesvesp).
+      “Se a pessoa posta que está saindo de férias ou pelo menos deixa subentendido, dá um
+prato cheio para o bandido, que saberá que a casa está vazia. Mesmo que se publique apenas
+para os amigos, a informação vai passando, circulando. A pessoa acaba preparando uma
+armadilha para si mesma”, aﬁrma o capitão Cleodato Moisés, porta-voz da PM.
+O uso das aspas no segundo parágrafo do texto tem o propósito de indicar
+a) a referência às ideias menos importantes do texto.
+b) a fala do capitão que é porta-voz da PM.
+c) a opinião das pessoas que expõem sua vida particular via redes sociais.
+d) a discordância do capitão em relação às informações do 1º parágrafo.
+Comentários:
+Questão direta. As aspas isolam a fala literal do capitão, reproduzida ﬁelmente. Gabarito letra B.
+
+
+(PREF. SÃO JOSÉ DO CERRITO-SC / 2017)
+Analise as proposições a seguir sobre a pontuação do seguinte trecho:
+Curiosamente, uma das formas de manifestar chateação, com perdão da expressão, é “p*** que
+o pariu”! Aqui, o pronome oblíquo aparece! Entretanto, ninguém vai dizer que esse é um
+argumento para sustentar que o pronome oblíquo está vivo. Se disser...
+I. A primeira vírgula é opcional, ou seja, sua presença é apenas um recurso de entonação.
+II. A segunda e a terceira vírgula estão isolando uma oração explicativa.
+III. As aspas foram empregadas para indicar que a expressão é própria da linguagem verbal.
+IV. O segundo ponto de exclamação que aparece no trecho foi empregado para indicar espanto.
+Agora assinale a alternativa que contenha análise correta sobre as proposições.
+a) Estão corretas apenas as proposições I, II e IV.
+b) Estão corretas apenas as proposições I, III e IV.
+c) Estão corretas apenas as proposições II e IV.
+d) Estão corretas apenas as proposições I e III
+Comentários:
+I. A primeira vírgula é opcional porque “curiosamente” é adjunto adverbial antecipado de
+pequena extensão. Correta.
+II. A segunda e a terceira vírgula estão isolando um comentário interferente. Não há verbo para
+podermos classiﬁcar como oração. Incorreta.
+III. De fato, as aspas foram empregadas para indicar que a expressão foi reproduzida literalmente.
+Como palavrão, numa situação de fala, é própria da linguagem verbal. Correta.
+IV. De fato, o segundo ponto de exclamação que aparece no trecho foi empregado para indicar
+espanto, causado pelo fato de não usarmos normalmente pronomes oblíquos átonos na
+linguagem oral e, justamente na hora de falar um palavrão, esse pronome aparecer na fala.
+Correta. Gabarito letra B.
+                                     USO DO TRAVESSÃO
+O travessão serve para indicar a mudança de interlocutor e muitas vezes funciona como a vírgula, nos casos
+em que ela é usada para isolar ou destacar palavras ou orações. Vááárias questões pedem para trocar um
+par de vírgulas isolando um termo por um travessão duplo.
+
+Mudança de interlocutor no diálogo
+       Ex.:    — Pai, tirei 7.5 no exame!
+               — Parabéns, filho! Qual exame?
+               — O exame do bafômetro. Eles ficaram com seu carro...
+       Ex.: Meus “queridinhos” — disse ela — quero que vocês de explodam!
+
+Isolar termos ou orações intercaladas de caráter explicativo ou
+para dar destaque/ênfase
+       Exemplos:
+       Esse seu carro — se é que pode ser chamado assim — é uma “carroça”.
+       Meus amigos —todos casados— não querem mais saber de carnaval.
+Podem aparecer outros sinais de pontuação após o travessão, mas eles serão justificados por suas próprias
+regras de uso. Veja:
+       Minha filha — amor da minha vida—, não faça mais isso! (a vírgula depois do travessão está ali para
+       isolar o vocativo minha filha, que tem dentro dele uma fala isolada por travessões. Basta ler sem o
+       termo entre os travessões que fica claro o motivo da vírgula: Minha filha, não faça mais isso!)
+
+
+
+
+(PREF. RIO DE JANEIRO / 2019)
+“A obesidade é um problema que afeta gente de todas as idades – a prevalência entre os adultos aumentou
+60% no país de 2006 a 2016! – e começa cada vez mais cedo.”
+Nesta frase, os travessões são empregados para:
+a) trazer uma informação que ilustra o que é dito         c) isolar uma oração justaposta
+b) indicar a fala de um personagem                        d) introduzir uma citação
+Comentários:
+O termo intercalado explica a afirmação anterior: afeta gente de todas as idades.
+Por isso, menciona o aumento da obesidade entre os adultos. Gabarito letra A.
+(UFTM / 2019)
+A ocorrência de vários suicídios de adolescentes em curto espaço de tempo não é um fenômeno restrito à
+atualidade. No século 18, um famoso livro, Os Sofrimentos do Jovem Werther, tornou-se um marco do
+Romantismo e uma febre entre os jovens. Nele conta-se a história de um adolescente que vive uma paixão
+impossível por uma mulher na casa dos trinta anos.
+Assinale a opção correta acerca do emprego de vírgulas, no texto:
+As vírgulas para isolar o trecho “Os Sofrimentos do Jovem Werther” podem ser substituídas por travessão,
+sem prejuízo para a correção gramatical e para o sentido do texto.
+Comentários:
+O termo entre vírgulas é um aposto explicativo e poderia ser isolado por travessões. Questão correta.
+
+
+(UFTM / 2019)
+A estratégia adotada pelo autor do livro, Johann Wolfgang von Goethe – ele deixou para o exame do leitor
+as cartas trocadas pelo casal de amantes –, fez a narrativa parecer muito crível. Adolescentes passaram a se
+matar vestidos como nas ilustrações do livro, tendo-o em mãos e usando o mesmo método letal – um tiro de
+pistola. Ensinado nos cursos de Jornalismo, o Efeito Werther acabou por reforçar o tabu social de evitar o
+assunto, e nada se publicava sobre suicídio.
+Se a vírgula empregada após o travessão, depois da expressão “casal de amantes” fosse omitida, seria
+preservada a correção gramatical, mas haveria prejuízo ao sentido do texto.
+Comentários:
+Em questões de vírgula após o travessão temos que considerar o seguinte: os travessões isolam termos
+acessórios, então devemos ler o texto sem o termo intercalado e observar o real motivo de a vírgula estar
+ali:
+A estratégia adotada pelo autor do livro, Johann Wolfgang von Goethe – ele deixou para o exame do leitor
+as cartas trocadas pelo casal de amantes –, fez a narrativa parecer muito crível.
+A estratégia adotada pelo autor do livro, Johann Wolfgang von Goethe, fez a narrativa parecer muito crível.
+Observem que a vírgula mencionada é a segunda de um par que isola corretamente o aposto explicativo de
+“autor do livro”. Então, ela não tem relação alguma com os travessões e não pode ser suprimida.
+Questão incorreta.
+                                 USO DOS PARÊNTESES
+Essencialmente, os parênteses servem para isolar esclarecimentos acessórios. Ex.:
+                         A faculdade em que estudei (UFRJ) era longe do centro.
+                Os políticos estão sendo investigados (pela Polícia Federal) na “lava-jato”.
+Em vários casos, o uso dos parênteses vai ser justificado pelas mesmas regras do travessão duplo e das
+vírgulas que isolam termos ou orações acessórias.
+                     USO DO PONTO FINAL (.)
+Ponto simples
+O ponto final indica o término de uma frase declarativa, seja a única o ou última de um
+período composto. As gramáticas o descrevem como uma "pausa longa". O ponto final
+encerra o período e, portanto, a próxima oração deve iniciar com letra maiúscula.
+       Ex: A vida não é justa.
+       Ex: Tento bastante, mas não consigo melhorar.
+       Ex: Não sei o que houve. Ela nunca mais falou comigo.
+Uma forma básica de contar os períodos é contar os pontos finais. No primeiro exemplo
+acima, temos um período simples com uma oração absoluta, única sozinha. No segundo
+exemplo, temos um período composto por coordenação, com uma oração coordenada
+adversativa. No terceiro exemplo, temos dois períodos.
+O autor, por recurso estilístico, pode empregar ponto final no lugar da vírgula para
+enfatizar a frase, causando um efeito de pausa maior e controlando o ritmo da leitura.
+       Ex: A vida não é justa, mas temos que continuar.
+       Ex: A vida não é justa. Mas temos que continuar.
+Entre orações subordinadas, esse recurso tende a não funcionar.
+       Ex: Comprei livros, que me custaram muito caro.
+       Ex: Comprei livros. Que me custaram muito caro. (errado - a oração seguinte
+       virou um "fragmento")
+
+Ponto-parágrafo
+O ponto final indica o término da última oração de um período, após o qual haverá um
+salto para o próximo parágrafo, deixando-se o restante da linha em branco.
+       Ex: Mudar o comportamento não costuma ser uma tarefa simples . Não importa
+se a mudança envolve hábitos, dependências, exercícios físicos, ideais, pensamentos ou
+alimentação, a modificação comportamental é um dos feitos mais difíceis que o ser
+humano tem de encarar ao longo da vida.
+       Passamos a vida inteira tendo hábitos e condutas específicas, repetindo-os dia
+após dia sem ter muita consciência disso.
+O primeiro ponto marca o fim do período, é um ponto simples, também chamado de
+ponto continuativo, pois o texto continua antes de mudar de parágrafo. O segundo
+ponto marca o fim do último período, é o ponto parágrafo. O último ponto, novamente,
+é um ponto simples.
+FUNDATEC / PREF. ESTEIO RS / 2022
+Qual dos sinais de pontuação abaixo substitui corretamente a figura na linha 05?
+A Vírgula.
+B Ponto-final.
+C Ponto de interrogação.
+D Dois-pontos.
+E Travessão.
+Comentários:
+Após a oração coordenada adversativa "mas exige alguns cuidados para manter o corpo
+hidratado da maneira correta", temos o fim do período. Então, emprega-se ponto final.
+Repare que, logo em seguida, temos letra maiúscula em "Confira".
+Gabarito letra B.
+
+CEBRASPE / DPE-RS / 2022
+
+Esse movimento social de hiperconsumismo, de vida para o consumo, guiou a pessoa
+natural para o caminho da necessidade, da vontade e do gosto pelo consumo, bem como
+impulsionou o descarte de cada vez mais recursos naturais finitos. Isso tem
+transformado negativamente o planeta, ao trazer prejuízos não apenas para as futuras
+gerações, como também para as atuais, o que resulta em problemas sociais, crises
+humanitárias e degradação do meio ambiente ecologicamente equilibrado, além de
+afetar o desenvolvimento humano, ao se precificar o ser racional, dissolvendo-se toda
+solidez social e trazendo-se à tona uma sociedade líquido-moderna de
+hiperconsumidores vorazes e indiferentes às consequências de seus atos sobre o meio
+ambiente ecologicamente equilibrado e sobre as gerações atuais e futuras.
+No segundo período do segundo parágrafo, o pronome “Isso” poderia ser substituído
+por O que, sem prejuízo da coerência e da correção gramatical do texto.
+Comentários:
+Em tese, o pronome demonstrativo “o” equivale a “isso”, retomando uma ideia
+mencionada antes.
+Eu durmo pouco, isso atrapalha minha concentração.
+Eu durmo pouco, o que atrapalha minha concentração.
+Contudo; na questão em tela, haveria um erro de pontuação:
+Esse movimento social de hiperconsumismo [...] impulsionou o descarte de cada vez mais
+recursos naturais finitos. Isso tem transformado negativamente o planeta
+Esse movimento social de hiperconsumismo [...] impulsionou o descarte de cada vez mais
+recursos naturais finitos. O que tem transformado negativamente o planeta
+A forma correta pediria uma vírgula separando um aposto:
+Esse movimento social de hiperconsumismo [...] impulsionou o descarte de cada vez mais
+recursos naturais finitos, o que tem transformado negativamente o planeta
+Questão incorreta.
+                QUESTÕES COMENTADAS - VÍRGULA - FGV
+
+   1. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+O texto a seguir foi retirado da contracapa de um livro sobre segurança; ele foi copiado sem os
+sinais de pontuação presentes no original:
+“O que você tem agora em mãos é uma obra que identiﬁca os problemas investiga as causas e
+aponta os caminhos a serem percorridos para vivermos em um país com menos crimes”.
+Assinale a forma adequada de reescrevê-lo com os sinais adequados de pontuação.
+A) “o que você tem agora em mãos, é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos para vivermos em um país, com menos crimes”.
+B) “o que você tem agora em mãos é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos para vivermos em um país com menos crimes”.
+C) “o que você tem agora em mãos é uma obra que identiﬁca os problemas, investiga as causas,
+e aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+D) “o que você tem agora em mãos é uma obra que identiﬁca os problemas investiga as causas e
+aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+E) “o que você tem, agora, em mãos, é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+Comentários:
+Vejamos a pontuação correta e sua justiﬁcativa, de modo que isso revele o erro das demais
+alternativas:
+B) “o que você tem agora em mãos é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos para vivermos em um país com menos crimes”.
+A primeira vírgula separa orações coordenadas sem conectivo. É a única pontuação do texto,
+além do ponto ﬁnal que encerra o período.
+A) não se separa sujeito do verbo com vírgula.
+C) não cabe vírgula antes do “e”, pois o sujeito é o mesmo.
+D) faltou a vírgula para separar as orações enumeradas.
+E) não há erro nessa alternativa! É facultativo isolar os adjuntos “agora” e “em mãos” e também
+é facultativa a vírgula separando a oração adverbial ﬁnal “para vivermos em um país com menos
+crimes”, pois esta não está deslocada.
+Infelizmente, a FGV entuba gabaritos totalmente equivocados às vezes. Fica a questão para
+estudo, pelo menos.
+Gabarito Letra B
+   2. (FGV / PREF. SALVADOR-BA / 2019)
+Falando sobre uma passeata em São Paulo, um jornal paulista escreveu o seguinte:
+“Os alunos iam à frente da passeata, e os professores seguiam atrás”.
+A vírgula, nesse caso,
+A) tem emprego incorreto, pois não se emprega vírgula antes da conjunção coordenativa aditiva.
+B) tem emprego incorreto, pois, nesse caso, não há qualquer interrupção na leitura que
+demonstre pausa.
+C) tem emprego adequado, pois o sujeito da segunda oração não é o mesmo da anterior.
+D) mostra correção, pois a nova frase tem valor explicativo da primeira.
+E) está bem empregada, pois a segunda frase indica mudança de pensamento.
+Comentários:
+Com relação ao uso da vírgula antes do "e" devemos nos lembrar de que:
+- A vírgula poderá ser utilizada (o uso é facultativo) caso a conjunção "e" estabeleça relação entre
+duas orações com sujeitos diferentes;
+- A vírgula não será utilizada caso a conjunção "e" estabeleça relação entre orações com sujeitos
+iguais.
+No caso em análise, há dois sujeitos diferentes na sentença: alunos e professores. Por isso, a
+utilização da vírgula está adequada.
+Gabarito letra C.
+
+
+   3. (FGV / DPE-RJ / 2019)
+Na página inicial de uma prova, entre as instruções gerais, estava escrito:
+“Será eliminado sumariamente do processo seletivo e as suas provas não serão levadas em
+consideração, o candidato que:
+I) der ou receber auxílio para a execução de qualquer prova;
+II) utilizar-se de qualquer material não autorizado;
+III) desrespeitar qualquer prescrição relativa à execução das provas;
+IV) escrever o nome ou introduzir marcas identiﬁcadoras noutro lugar que não o indicado para
+esse ﬁm;
+V) cometer um ato grave de indisciplina”.
+
+
+Uma outra forma, mais conveniente, de redigirem-se as duas primeiras linhas do texto acima é:
+A) As provas não serão levadas em consideração e será eliminado sumariamente do processo
+seletivo, o candidato que:
+B) O candidato não terá suas provas levadas em consideração e será sumariamente eliminado do
+processo seletivo o candidato que:
+C) Será eliminado sumariamente do processo seletivo (as suas provas não serão levadas em
+consideração), o candidato que:
+D) Será eliminado sumariamente do processo seletivo o candidato que:
+E) Será eliminado do processo seletivo e as provas não serão levadas em consideração, o
+candidato que:
+Comentários:
+Primeiramente, deveríamos eliminar A, C e E, pois trazem evidente erro de pontuação, separando
+o sujeito do verbo. Já a letra B repete o sujeito “candidato”, criando uma estrutura inadequada,
+confusa e truncada. Gabarito letra D.
+
+
+    4. (FGV / DPE-RJ / 2019)
+“Pensar mal amiúde signiﬁca tornar mau. Na vida das nações (1) não menos que na dos
+indivíduos (2) os primeiros momentos de uma trajetória imprimem (3) no que está nascendo (4)
+traços de teimosa permanência”.
+   (Eduardo Giannetti, O Elogio do Vira-Lata e outros ensaios. 1ª. ed. São Paulo: Companhia das Letras, 2018. p. 13)
+
+
+
+Nesse segmento inicial de um texto, poderiam ser usadas vírgulas nas posições dos seguintes
+números:
+A) apenas em (1) e (2);
+B) apenas em (2) e (4);
+C) apenas em (3) e (4);
+D) apenas em (1), (2) e (4);
+E) em (1), (2), (3) e (4).
+Comentários:
+Esse “poderiam” é muito polêmico, pois pode sugerir ao candidato uma ideia de
+“facultatividade”, quando na verdade a banca pede as posições em que seria correto usar
+vírgula:
+A vírgula é correta e obrigatória em todas as posições, em 1 e 2 para separar adjuntos
+adnominais antecipados e também em 3 e 4 para isolar um adjunto intercalado: “no que está
+nascendo”.
+“Pensar mal amiúde signiﬁca tornar mau. Na vida das nações, não menos que na dos indivíduos,
+os primeiros momentos de uma trajetória imprimem, no que está nascendo, traços de teimosa
+permanência”.
+Gabarito letra E.
+    5. (FGV / TJ-SC / 2018)
+
+
+
+
+Sobre a frase dita por Einstein, é correto aﬁrmar que:
+o termo “Galileu” deveria aparecer entre vírgulas, por ser um vocativo.
+Comentários:
+Sim. O vocativo, termo que evoca, chama o interlocutor, deve vir marcado por vírgula.
+Questão correta.
+
+
+    6. (FGV / MPE-AL / 2018)
+“Numa democracia, (1) é livre a expressão, estão garantidos o direito de reunião e de greve, (2)
+entre outros, obedecidas leis e regras, (3) lastreadas na Constituição. Em um regime de
+liberdades, (4) há sempre o risco de excessos, (5) a serem devidamente contidos e seus
+responsáveis, punidos, conforme estabelecido na legislação”.
+Nesse segmento inicial do texto, a vírgula que tem caráter optativo é a indicada pelo número
+A) (1).              B) (2).               C) (3).                        D) (4).        E) (5).
+Comentários:
+Questão direta. A vírgula em adjuntos adverbiais de curta extensão, uma ou duas palavras, por
+exemplo, é facultativa. O aluno deveria ir diretamente nessa conhecida regra para acertar a
+questão, pois não há outro caso de expressa pontuação facultativa no texto.
+Gabarito letra A.
+
+
+    7. (FGV / TJ-AL / 2018)
+“Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda
+da falta de uma legislação especíﬁca que coíba não somente os usos mas os abusos deste
+importante e eﬁcaz veículo de comunicação”.
+O problema de norma culta identiﬁcado nesse segmento do texto é:
+A ausência de vírgula depois de “Folha”;
+Comentários:
+O termo “em diversas folhas” deveria ser isolado por duas vírgulas, pois constitui um adjunto
+adverbial deslocado.
+“Tenho comentado aqui na Folha, em diversas crônicas, os usos da internet.
+Questão correta.
+
+
+    8. (FGV / ALE-RO / 2018)
+“A pintura transforma o espaço em tempo; a música, o tempo em espaço.”
+A razão que justiﬁca o emprego da vírgula nesse pensamento é a mesma que ocorre em:
+A) “A pintura é poesia silenciosa, a poesia é pintura que fala.”
+B) “A pintura é uma poesia que se vê e não se sente, e a poesia é uma pintura que se sente e
+não se vê.”
+C) “A crítica rasteja, e a criação voa.”
+D) “O artista é mentiroso, mas a arte é verdade.”
+E) “Todos pintam com talento e ele, com arte.”
+Comentários:
+Observe que a vírgula foi utilizada na sentença em análise para indicar a omissão de uma palavra
+já citada anteriormente (processo conhecido como zeugma ou elipsE) - o verbo TRANSFORMAR.
+Agora vejamos a justiﬁcativa para o uso da vírgula em cada uma das alternativas:
+A) INCORRETO. A vírgula foi utilizada para separar orações coordenadas.
+B) INCORRETO. Da mesma forma que a alternativa anterior, a vírgula foi utilizada para separar
+orações coordenadas (ligadas pela conjunção "e") com sujeitos diferentes.
+C) INCORRETO. A vírgula foi utilizada para separar orações com sentido adversativo com a
+presença da conjunção "e" e com sujeitos diferentes.
+D) INCORRETO. A vírgula foi utilizada para separar orações coordenadas com sentido
+adversativo marcado pela utilização da conjunção adversativa "mas".
+E) CORRETO. A vírgula foi utilizada, assim como na sentença em análise, para indicar a omissão
+de uma palavra já citada anteriormente - o verbo PINTAR.
+Gabarito letra E.
+
+
+    9. (FGV / MP-AL / 2018)
+“Numa democracia, (1) é livre a expressão, estão garantidos o direito de reunião e de greve, (2)
+entre outros, obedecidas leis e regras, (3) lastreadas na Constituição. Em um regime de
+liberdades, (4) há sempre o risco de excessos, (5) a serem devidamente contidos e seus
+responsáveis, punidos, conforme estabelecido na legislação”.
+Nesse segmento inicial do texto, a vírgula que tem caráter optativo é a indicada pelo número
+A) (1).              B) (2).               C) (3).            D) (4).          E) (5).
+Comentários:
+O caráter facultativo do uso da vírgula se encontra no número 1 por se tratar de um adjunto
+adverbial de pequena extensão que aparece deslocado na sentença.
+Gabarito letra A.
+
+
+   10. (FGV / PREF. SALVADOR-BA / 2017)
+Leia a frase a seguir.
+“Entre os efeitos positivos do fumo inclui-se a economia com o sistema de saúde por causa da
+mortalidade prematura do fumante”.
+Assinale a opção que apresenta a maneira de reescrever-se essa frase em que o emprego de
+vírgulas é adequado.
+A) Entre os efeitos positivos do fumo, inclui-se a economia com o sistema de saúde, por causa da
+mortalidade prematura do fumante.
+B) Por causa da mortalidade prematura do fumante, entre os efeitos positivos do fumo, inclui-se a
+economia com o sistema de saúde.
+C) Entre os efeitos positivos do fumo inclui-se a economia, com o sistema de saúde, por causa da
+mortalidade prematura do fumante.
+D) Inclui-se a economia com o sistema de saúde entre os efeitos positivos do fumo por causa da
+mortalidade, prematura do fumante.
+E) Por causa da mortalidade, prematura, do fumante, entre os efeitos, positivos, do fumo inclui-se
+a economia com o sistema de saúde.
+Comentários:
+Vejamos cada uma das alternativas:
+A) CORRETO. A primeira vírgula isola um adjunto adverbial de longa extensão. A segunda vírgula
+(facultativA) separa uma oração subordinada causal.
+B) INCORRETO. Nesta alternativa altera-se o sentido da sentença original - aqui dá a entender
+que a mortalidade prematura do fumante é um dos aspectos positivos do fumo (quando, na
+verdade, é a economia com o sistema de saúdE). Note que a questão pede a alternativa que
+reescreve a frase original em que o emprego da vírgula é adequado - sendo assim, se há
+mudança de sentido na reescrita a vírgula não foi utilizada de maneira adequada.
+C) INCORRETO. Da mesma forma que a alternativa anterior, a utilização das vírgulas altera o
+sentido original da sentença, pois transforma uma restrição ("economia com o sistema de saúde")
+em uma explicação.
+D) INCORRETO. A vírgula separa incorretamente o complemento nominal "do fumante".
+E) INCORRETO. A vírgulas separam elementos do texto como adjunto nominal ("morte
+prematura" e "efeitos positivos").
+Gabarito letra A.
+   11. (FGV / CÂM. MUNICIPAL SALVADOR-BA / 2017)
+“Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal”.
+Na reescritura desse segmento do texto 2, a pontuação está INADEQUADA em relação às regras
+de pontuação em:
+A) Os espanhóis, nos primeiros anos de conquista, resistiram a comer produtos nativos
+americanos, por isso trouxeram consigo plantas e animais de sua terra natal;
+B) Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos
+e, por isso, trouxeram consigo plantas e animais de sua terra natal;
+C) Nos primeiros anos da conquista os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal;
+D) Os espanhóis resistiram a comer produtos nativos americanos, nos primeiros anos de
+conquista; trouxeram consigo, por isso, plantas e animais de sua terra natal;
+E) Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos
+americanos, e, por isso trouxeram consigo plantas e animais de sua terra natal.
+Comentários:
+Note que a questão pede a reescrita inadequada em relação à utilização de vírgula. Vejamos
+cada alternativa:
+A) CORRETO. As duas primeiras vírgulas isolam corretamente o adjunto adverbial de tempo
+("nos primeiros anos da conquista") que aparece intercalado. A terceira vírgula aparece
+corretamente antes da conjunção coordenativa "por isso".
+B) CORRETO. A primeira vírgula isola corretamente o adjunto adverbial de tempo que aparece
+antecipado. A expressão "por isso" aparece corretamente entre vírgulas por estar intercalada
+após a conjunção "e".
+C) CORRETO. Segundo um possível entendimento sobre a utilização de vírgulas após o
+deslocamento de adjunto adverbial de longa extensão, é possível que se encare a utilização da
+vírgula, nesse caso, como sendo opcional, a obrigatoriedade viria apenas com o deslocamento
+de orações. Esse parece ser o entendimento da banca quando considera a alternativa C como
+correta. A vírgula antes de "por isso" está adequada por ser colocada antes de conjunção
+coordenativa.
+D) CORRETO. Com o adjunto adverbial colocado após o verbo a vírgula é opcional. Por isso, a
+utilização da vírgula antes de "nos primeiros anos de conquista" está correta. O ponto e vírgula
+separa corretamente orações coordenadas e as vírgulas isolam adequadamente a expressão "por
+isso".
+E) INCORRETO. O erro está na utilização da vírgula antes da conjunção "e" uma vez que essa
+conjunção une orações com sujeitos iguais (nesse caso, então, o uso da vírgula é proibido). Além
+disso, a expressão "por isso" está intercalada, logo haveria a necessidade da inserção da vírgula
+após "por isso".
+Gabarito letra E.
+   12. (FGV / TJ PI / 2015)
+“Atualmente, a grande maioria dos casos de adultério é combinada por telefones pessoais, pois
+dessa forma não há tanto risco de outra pessoa atender às ligações".
+De acordo com as estruturas linguísticas do texto, julgue o item: a primeira vírgula do segmento
+marca a presença de um termo deslocado da ordem direta.
+Comentários:
+Exatamente. A posição tradicional do adjunto adverbial na ordem direta é estar no ﬁnal do
+período. Quando é antecipado, devemos marcar com pontuação esse deslocamento.
+Questão correta.
+
+
+   13. (FGV / PREF. NITERÓI-RJ / 2015)
+Entre os segmentos do texto 1, aquele que mostra o emprego de vírgula em função de um
+adjunto adverbial deslocado é:
+A) “A publicidade cerca-nos de todos os lados - na TV, nas ruas, nas revistas e nos jornais – e
+força-nos a ser mais consumidores que cidadãos".
+B) “Hoje, tudo se reduz a uma questão de marketing".
+C) “Não tem a menor importância, se uma boa máquina publicitária for capaz de tornar a sua
+marca bem aceita entre os consumidores".
+D) “Isso vale também para o refrigerante que descalciﬁca os ossos, corrói os dentes, engorda e
+cria dependência".
+E) “A gula, nos produtos alimentícios e nas lanchonetes que oferecem muito colesterol em
+sanduíches piramidais".
+Comentários:
+A questão pede a localização do adjunto adverbial deslocado para o emprego da vírgula. A única
+alternativa que marca esta característica é a letra B, em que há o adjunto adverbial de tempo
+“hoje”, deslocado para o início da oração:
+“Hoje, tudo se reduz a uma questão de marketing”. (Ainda, a vírgula seria facultativa por ser um
+adjunto de pequena extensão)
+Nas outras questões temos a vírgula por outros motivos:
+A) Marca enumeração;
+C) Uso da vírgula marcado pelo “se” condicional, que introduz uma oração subordinada
+adverbial;
+D) Marca enumeração de orações coordenadas;
+E) Marca a omissão de um termo elíptico: A gula “existente” nos produtos alimentícios...
+Gabarito letra B.
+   14. (FGV / DPE-RO / 2015)
+“O Estatuto da Criança e do Adolescente, o ECA, é uma lei bem justa e generosa, ainda
+largamente ignorada em suas medidas de proteção e promoção”.
+A inclusão de uma vírgula entre os dois segmentos faz supor a implícita existência de um
+conector entre eles; tal conector deveria representar:
+A) uma concessão, como “ainda que”;
+B) uma adversidade, como “porém”;
+C) uma conclusão, como “logo”;
+D) uma explicação, como “pois”;
+E) uma proporcionalidade, como “à medida que”.
+Comentários:
+Nesta questão, precisávamos analisar qual relação semântica que as orações possuem entre si,
+para replicarmos com um conector que represente esta mesma ideia. Podemos perceber que o
+sentido que se passa entre as duas sentenças é de contradição. Se o ECA é uma lei bem justa e
+generosa, esperaríamos que fosse bem divulgada, PORÉM não é. O fato de ser justa e generosa
+tem relação de oposição e adversidade em relação ao fato de ser ignorada.
+Gabarito letra B.
+
+
+   15. (FGV / DETRAN-RN / 2015)
+No trecho: “É que tudo se acha fora de um livro falho, leitor amigo. ” A utilização da vírgula se
+justiﬁca por:
+A) Isolar um termo circunstancial de modo.
+B) Isolar um termo explicativo.
+C) Separar termos enumerativos.
+D) Separar um vocativo.
+E) Isolar um termo circunstancial deslocado.
+Comentários:
+Ha existência da vírgula obrigatória, já que o vocativo (leitor amigo) é um chamamento ao
+ouvinte (o leitor), não pertencente à estrutura sintática da oração.
+Poderíamos até mesmo retirá-lo sem prejudicar o sentido da frase: “É que tudo se acha fora do
+livro”. Gabarito letra D.
+            QUESTÕES COMENTADAS - DOIS-PONTOS - FGV
+
+1. (FGV / PREF. MANAUS / 2022)
+Um ator de cinema disse:
+“Eu tive uma grande vantagem que meus ﬁlhos não tiveram: eu nasci pobre.”
+
+Essa frase tem duas partes com dois pontos entre elas. Assinale a opção que indica a conjunção
+que poderia substituir esses dois pontos de forma adequada.
+A) assim que
+B) mas
+C) portanto
+D) quando
+E) pois
+Comentários:
+O sinal de dois-pontos indica uma explicação, então devemos trocar pela única conjunção
+explicativa entre as opções: pois
+“Eu tive uma grande vantagem que meus ﬁlhos não tiveram: eu nasci pobre.”
+“Eu tive uma grande vantagem que meus ﬁlhos não tiveram, pois eu nasci pobre.”
+"assim que" expressa tempo; "mas" expressa oposição; "portanto" expressa conclusão;
+"quando" expressa tempo.
+Gabarito letra E.
+                  QUESTÕES COMENTADAS - ASPAS - FGV
+
+1. (FGV / COMPESA / 2018)
+                                   A Política de Tolerância Zero
+Suas vozes frágeis e seus corpos miúdos sugerem que elas não têm mais de 7 anos, mas já
+conhecem a brutal realidade dos desaventurados cuja sina é cruzar fronteiras para sobreviver. O
+drama dessas crianças tiradas dos braços de seus pais e mães pela “política de tolerância zero”
+do governo americano tem comovido o mundo e dividido o país do presidente Donald Trump.
+Os relatos são de solidão e desespero para essas famílias divididas, que, não raro, mal podem se
+comunicar com o mundo exterior e não conseguem informações sobre o paradeiro de seus
+parentes após terem cruzado a fronteira do México para os EUA em busca de uma vida menos
+difícil. Em vez de encontrarem a realização de seu “sonho americano”, elas vêm sendo recebidas
+por essa prática de hostilidade reforçada na zona fronteiriça, que já separou mais de 2300
+crianças de seus pais desde abril.
+“O drama dessas crianças tiradas dos braços de seus pais e mães pela “política de tolerância
+zero” do governo americano tem comovido o mundo e dividido o país do presidente Donald
+Trump.”
+
+
+O segmento sublinhado aparece entre aspas para
+A) destacar uma parte importante do texto.
+B) mostrar as palavras sob um novo ponto de vista.
+C) indicar uma realidade já conhecida dos leitores.
+D) repetir as palavras das autoridades na fronteira.
+E) informar ao leitor que se trata de uma ironia.
+Comentários:
+Todas as alternativas apresentam motivos válidos para a utilização das aspas, porém, é preciso
+dar atenção ao contexto especíﬁco em que as aspas foram utilizadas. Sendo assim, vejamos cada
+uma das alternativas:
+a) INCORRETO. O texto dá destaque ao drama vivido pelas crianças separadas de suas mães ao
+cruzarem a fronteira dos Estados Unidos e não à política de tolerância zero.
+b) INCORRETO. O autor não trata de seu ponto de vista sobre a política de tolerância zero de
+Donald Trump.
+c) CORRETO. A expressão já é conhecida pelos leitores do texto (indicada no título) que sabem
+ao que se refere a política de tolerância zero do governo americano.
+d) INCORRETO. Não se trata de uma citação direta das palavras das autoridades.
+e) INCORRETO. Não há ironia (que seria a utilização de uma expressão que indica uma ideia
+contrária àquela que realmente se deseja expressar, ex.: Assisti ao ﬁlme de três horas e foi ótimo,
+apesar da música ruim e da história sem graça!), apenas o destaque de uma expressão já
+conhecida pelos leitores.
+Gabarito letra C.
+
+
+2. (FGV / PREF. SALVADOR-BA / 2017)
+                                         Crianças infelizes
+Uma em cada onze crianças com idade entre 8 e 16 anos está infeliz, segundo um estudo
+divulgado em janeiro deste ano [2012] pela Children’s Society.
+Apesar de a pesquisa trazer à tona uma realidade do Reino Unido, especialistas brasileiros em
+saúde infantil aﬁrmam que esse não é um problema exclusivo das crianças britânicas. Para eles,
+mais do que infelizes, elas estão ansiosas, estressadas, deprimidas e sobrecarregadas. “As
+crianças de hoje estão desconfortáveis com a infância”, diz a Coordenadora da Unidade de
+Psiquiatria da Infância e Adolescência da Universidade Federal de São Paulo (Unifesp).
+                                                                        (Veja, 12 de fevereiro de 2012).
+Um segmento do texto aparece entre aspas porque
+A) destaca uma parte importante do texto.
+B) informa ao leitor que se trata de uma ironia.
+C) mostra a tradução de um texto estrangeiro.
+D) indica a reprodução de uma fala alheia.
+E) separa um segmento que não tem ligação temática com o texto.
+Comentários:
+As aspas no texto foram usadas para indicar citação, ou seja, a reprodução literal das palavras da
+Coordenadora da Unidade de Psiquiatria da Infância e Adolescência da Universidade Federal de
+São Paulo.
+Veja: “As crianças de hoje estão desconfortáveis com a infância”, diz a Coordenadora da Unidade
+de Psiquiatria da Infância e Adolescência da Universidade Federal de São Paulo (Unifesp).
+Gabarito letra D.
+
+
+3. (FGV / SECR. DE ESTADO DE PLANEJAMENTO ORÇAMENTO E GESTÃO-RO / 2017)
+Temos uma notícia triste: o coração não é o órgão do amor! Ao contrário do que dizem, não é ali
+que moram os sentimentos. Puxa, para que serve ele, aﬁnal? Calma, não jogue o coração para
+escanteio, ele é superimportante. “É um órgão vital. É dele a função de bombear sangue para
+todas as células de nosso corpo”, explica Sérgio Jardim, cardiologista do Hospital do Coração.
+O uso de aspas nesse fragmento do texto indica:
+A) o destaque de palavras muito importantes para o texto.
+B) a utilização de palavras com um sentido irônico.
+C) a transcrição de palavras que não pertencem ao autor do texto.
+D) o emprego de palavras em sentido ﬁgurado.
+E) o uso de palavras em variante diferente do restante do texto.
+Comentários:
+No fragmento do texto, transcrito no enunciado da questão, as aspas foram utilizadas pelo autor
+para indicar uma fala do cardiologista Sérgio Jardim, uma citação.
+Assim, esse sinal gráﬁco isola a transcrição de palavras que não pertencem ao autor do texto.
+Gabarito letra C.
+
+
+4. (FGV / SME-SP / 2016)
+“Oralidade e ensino de língua: uma questão pouco falada”.
+
+
+No título do artigo de Marcuschi, as aspas empregadas na palavra “falada” indicam:
+A) o desvio semântico do termo, da linguagem lógica para a ﬁgurada.
+B) a informação da presença de mais discussões orais que trabalhos escritos sobre o tema.
+C) uma crítica à ausência de discussões sobre o ensino da oralidade.
+D) um alerta sobre o excesso de espaço didático dedicado à língua falada.
+E) uma denúncia contra a total ausência do ensino de língua falada nas escolas.
+Comentários:
+Nesta questão, as aspas foram utilizadas para indicar um uso especial da palavra. Neste caso,
+Marcuschi pretendia fazer uma crítica ao ensino da oralidade, pouco discutida, “falada”, visto que
+os estudos da linguagem valorizam historicamente a língua escrita, em detrimento da oral. Então
+há um jogo de palavras entre “falada” no sentido de “discutida, debatida” e “falada” no sentido
+de “oral”, “não escrita”.
+Gabarito letra C.
+
+
+5. (FGV / PGE-RO / 2015)
+               MAIS UM ATAQUE DISFARÇADO CONTRA A NOSSA AMAZÔNIA
+A intenção de domínio sobre a Amazônia, com seus 830 mil quilômetros quadrados, dos quais
+mais de 65 por cento nosso, aparece seguidamente, sob os mais incríveis disfarces. A iniciativa
+parte sempre de alguma ONG, ligada a poderosos grupos internacionais, que surge como
+salvadora da Pátria, para “preservar" a ﬂoresta e suas riquezas. Já se viu esse ﬁlme. Quem não
+lembra quando uma ONG conseguiu transferir para o Japão a propriedade do nome “Cupuaçu"?
+Agora surge mais um desses ataques, escamoteados sob boas intenções e com apoio de
+governos vizinhos. O presidente da Colômbia, Juan Manoel Santos, caiu na catilinária da ONG,
+Fundação Gaia Internacional e mandou ao Congresso projeto criando um “corredor ecológico"
+dentro da Amazônia, que ligaria os Andes ao Oceano Atlântico. Esse corredor seria intocado e
+suas riquezas eternamente não violadas. Assim, aparentemente, seria uma ideia positiva, não
+fosse a Gaia uma entidade bancada por dinheiro de várias Nações, todas elas muito aﬂitas para
+botar a mão em alguma coisa próxima dos 230 trilhões de dólares das riquezas que a maior
+ﬂoresta do mundo comporta.
+O presidente colombiano (isso mesmo, do país que até recentemente era dominado pelo
+narcotráﬁco e ainda se mantém como um dos maiores exportadores de cocaína do mundo), não
+consegue resolver seus problemas internos, mas quer interferir nos vizinhos, impondo um
+corredor, inclusive dentro do Brasil, onde ninguém entraria. Como ninguém? Claro que a exceção
+seria para as ONGs internacionais; para representantes da Igreja, que viriam “catequizar" os
+índios e para outros estrangeiros. A proibição seria para os brasileiros, que não poderiam usar
+parte do seu território. Nosso governo, até agora, não chiou contra esse crime. O que, aliás, não
+é surpresa alguma!
+
+
+As palavras “preservar" e “catequizar" aparecem entre aspas porque pretendem:
+A) destacar a importância das ações citadas;
+B) ironizar as intenções de quem as empregam;
+C) repetir palavras alheias;
+D) mostrar a preocupação mundial com a Amazônia;
+E) valorizar algumas ações em relação à Amazônia.
+Comentários:
+A palavra “preservar” foi utilizada com sentido irônico, pois a intenção não era “preservar” nada
+e sim dominar a Amazônia. Da mesma forma, “catequizar” não é a intenção verdadeira, que na
+verdade é ocupar e se inﬁltrar naquelas terras.
+Gabarito letra B.
+
+
+6. (FGV / PGE-RO / 2015)
+Esta prova tem por base texto da imprensa nacional sobre fatos de nosso momento histórico.
+                                Texto 2 – Momento da Economia
+Há sutis melhoras à frente; possibilidades vagas que nascem muitas vezes do agudo da crise. Mas
+é bom falar nelas em momentos de escassez de esperança. “A inﬂação será forte este ano, mas a
+recessão vai derrubá-la no ano que vem", diz o economista José Roberto Mendonça de Barros. A
+recessão e a disparada do câmbio estão fazendo o ajuste externo, e o país pode ter dois anos de
+superávits altos.
+
+
+Ao atribuir a um economista conhecido a citação entre aspas, a autora do texto pretende
+certamente:
+A) prestigiar a fala de um amigo;
+B) criticar a linguagem popular do economista;
+C) demonstrar a importância do tema tratado;
+D) dar autoridade à opinião expressa;
+E) passar clareza no tratamento do tema.
+Comentários:
+Nesta questão, marca-se uma das funções principais das aspas, reportar o discurso alheio. No
+momento que reproduzimos a fala de alguém no texto, queremos dar veracidade aos fatos
+contados, muitas vezes pela voz de um especialista, no caso, o economista. Portanto, as aspas
+foram utilizadas para citar literalmente a fala de um especialista com autoridade no tema.
+Gabarito letra D.
+               QUESTÕES COMENTADAS - TRAVESSÃO - FGV
+
+1. (FGV / ALE-RO / 2018)
+                                          Do Casamento
+O casamento foi a maneira que a humanidade encontrou de propagar a espécie sem causar
+falatório na vizinhança. As tradições matrimoniais se transformaram através dos tempos e variam
+de cultura para cultura. Em certas sociedades primitivas o tempo gasto nas preliminares do
+casamento – corte, namoro, noivado etc. – era abreviado. O macho escolhia uma fêmea, batia
+com um tacape na sua cabeça e a arrastava para a sua caverna. Com o passar do tempo este
+método foi sendo abandonado, por pressão dos buffets, das lojas de presente e das mulheres,
+que não admitiam um período pré-conjugal tão curto. O homem precisava aproximar-se dela,
+cheirar seus cabelos, grunhir no seu ouvido, mordiscar a sua orelha e só então, quando ela
+estivesse distraída, bater com o tacape na sua cabeça e arrastá-la para a caverna. (fragmento)
+                                      (VERÍSSIMO, Luís Fernando, Comédias da Vida Privada. Ed. LPM. 1994).
+
+
+
+“Em certas sociedades primitivas o tempo gasto nas preliminares do casamento – corte, namoro,
+noivado etc. – era abreviado.”
+
+
+O segmento sublinhado entre travessões indica
+A) uma retiﬁcação de um erro anterior.
+B) uma explicação de um termo obscuro.
+C) uma exempliﬁcação de tradições sociais.
+D) uma citação de todas as preliminares referidas.
+E) uma enumeração de todas as preliminares citadas.
+Comentários:
+Vejamos cada uma das alternativas:
+a) INCORRETO. O trecho em questão não retiﬁca, ou não corrige a informação apresentada
+previamente.
+b) INCORRETO. Não há termos obscuros - o texto todo fala sobre tradições sociais que
+antecedem o casamento.
+c) CORRETO. Ao citar corte, namoro, noivado etc. o autor indica alguns exemplos das tradições
+sociais que antecedem o casamento.
+d) INCORRETO. A expressão "etc." indica que nem todas as situações preliminares ao casamento
+foram indicadas - há algo que ﬁcou fora da lista.
+e) INCORRETO. No mesmo sentido da alternativa D, nem todas as situações preliminares ao
+casamento forma citadas.
+Gabarito letra C.
+2. (FGV / IBGE / 2017)
+“Com todos os problemas que temos em nosso Estado – corporativismo, incompetência pública,
+intervencionismo, burocracia, estatismo, carga tributária complexa, entre outros -, ainda somos
+um país de muita sorte. Pelo simples fato de que a solução para nossos problemas só depende
+de nós mesmos.
+Não somos como a Palestina, que depende de Israel para existir. Nem somos como os países
+europeus, que dependem uns dos outros. Tampouco, como os Estados Unidos, que carregam um
+peso imenso de problemas deles e dos outros”.
+                                                                            (Isto É, março de 2017)
+O trecho entre travessões no texto mostra:
+A) a enumeração de todos os problemas de nosso Estado;
+B) a explicação de um termo anterior;
+C) a exempliﬁcação de alguns de nossos problemas;
+D) a seleção de nossos problemas mais graves;
+E) a justiﬁcativa de uma aﬁrmação.
+Comentários:
+Vejamos as alternativas:
+a) INCORRETO. Não há a enumeração de todos os problemas do Estado, mas tão somente a
+exempliﬁcação de alguns - como ﬁca claro com a expressão "entre outros" ao ﬁnal da
+exempliﬁcação.
+b) INCORRETO. Apesar der ser uma das funções do travessão isolar termos ou orações
+intercaladas de caráter explicativo, esse não foi o uso no texto, que somente cita exemplos dos
+problemas do nosso Estado.
+c) CORRETO. É possível comprovar que se trata apenas de uma exempliﬁcação quando ao ﬁnal o
+autor escreve "entre outros", denotando que esses problemas citados não são os únicos.
+d) INCORRETO. A intenção ao usar os travessões nesse caso, não foi a de selecionar ou ponderar
+quais eram os problemas mais graves ou mais brandos, e sim de citar exemplos de problemas
+que temos em nosso Estado.
+e) INCORRETO. Não já justiﬁcativa alguma, mas sim EXEMPLIFICAÇÃO.
+Gabarito letra C.
+                    LISTA DE QUESTÕES - VÍRGULA - FGV
+   1. (FGV – Agente de Segurança Penitenciário - DEPEN MG / 2022)
+O texto a seguir foi retirado da contracapa de um livro sobre segurança; ele foi copiado sem os
+sinais de pontuação presentes no original:
+“O que você tem agora em mãos é uma obra que identiﬁca os problemas investiga as causas e
+aponta os caminhos a serem percorridos para vivermos em um país com menos crimes”.
+Assinale a forma adequada de reescrevê-lo com os sinais adequados de pontuação.
+A) “o que você tem agora em mãos, é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos para vivermos em um país, com menos crimes”.
+B) “o que você tem agora em mãos é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos para vivermos em um país com menos crimes”.
+C) “o que você tem agora em mãos é uma obra que identiﬁca os problemas, investiga as causas,
+e aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+D) “o que você tem agora em mãos é uma obra que identiﬁca os problemas investiga as causas e
+aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+E) “o que você tem, agora, em mãos, é uma obra que identiﬁca os problemas, investiga as causas
+e aponta os caminhos a serem percorridos, para vivermos em um país com menos crimes”.
+
+
+   2. (FGV / PREF. SALVADOR-BA / 2019)
+Falando sobre uma passeata em São Paulo, um jornal paulista escreveu o seguinte:
+“Os alunos iam à frente da passeata, e os professores seguiam atrás”.
+A vírgula, nesse caso,
+A) tem emprego incorreto, pois não se emprega vírgula antes da conjunção coordenativa aditiva.
+B) tem emprego incorreto, pois, nesse caso, não há qualquer interrupção na leitura que
+demonstre pausa.
+C) tem emprego adequado, pois o sujeito da segunda oração não é o mesmo da anterior.
+D) mostra correção, pois a nova frase tem valor explicativo da primeira.
+E) está bem empregada, pois a segunda frase indica mudança de pensamento.
+
+
+   3. (FGV / DPE-RJ / 2019)
+Na página inicial de uma prova, entre as instruções gerais, estava escrito:
+“Será eliminado sumariamente do processo seletivo e as suas provas não serão levadas em
+consideração, o candidato que:
+I) der ou receber auxílio para a execução de qualquer prova;
+II) utilizar-se de qualquer material não autorizado;
+III) desrespeitar qualquer prescrição relativa à execução das provas;
+IV) escrever o nome ou introduzir marcas identiﬁcadoras noutro lugar que não o indicado para
+esse ﬁm;
+V) cometer um ato grave de indisciplina”.
+
+
+Uma outra forma, mais conveniente, de redigirem-se as duas primeiras linhas do texto acima é:
+A) As provas não serão levadas em consideração e será eliminado sumariamente do processo
+seletivo, o candidato que:
+B) O candidato não terá suas provas levadas em consideração e será sumariamente eliminado do
+processo seletivo o candidato que:
+C) Será eliminado sumariamente do processo seletivo (as suas provas não serão levadas em
+consideração), o candidato que:
+D) Será eliminado sumariamente do processo seletivo o candidato que:
+E) Será eliminado do processo seletivo e as provas não serão levadas em consideração, o
+candidato que:
+
+
+    4. (FGV / DPE-RJ / 2019)
+“Pensar mal amiúde signiﬁca tornar mau. Na vida das nações (1) não menos que na dos
+indivíduos (2) os primeiros momentos de uma trajetória imprimem (3) no que está nascendo (4)
+traços de teimosa permanência”.
+   (Eduardo Giannetti, O Elogio do Vira-Lata e outros ensaios. 1ª. ed. São Paulo: Companhia das Letras, 2018. p. 13)
+
+
+
+Nesse segmento inicial de um texto, poderiam ser usadas vírgulas nas posições dos seguintes
+números:
+A) apenas em (1) e (2);
+B) apenas em (2) e (4);
+C) apenas em (3) e (4);
+D) apenas em (1), (2) e (4);
+E) em (1), (2), (3) e (4).
+    5. (FGV / TJ-SC / 2018)
+
+
+
+
+Sobre a frase dita por Einstein, é correto aﬁrmar que:
+o termo “Galileu” deveria aparecer entre vírgulas, por ser um vocativo.
+
+
+    6. (FGV / MPE-AL / 2018)
+“Numa democracia, (1) é livre a expressão, estão garantidos o direito de reunião e de greve, (2)
+entre outros, obedecidas leis e regras, (3) lastreadas na Constituição. Em um regime de
+liberdades, (4) há sempre o risco de excessos, (5) a serem devidamente contidos e seus
+responsáveis, punidos, conforme estabelecido na legislação”.
+Nesse segmento inicial do texto, a vírgula que tem caráter optativo é a indicada pelo número
+A) (1).               B) (2).              C) (3).                        D) (4).        E) (5).
+
+
+    7. (FGV / TJ-AL / 2018)
+“Tenho comentado aqui na Folha em diversas crônicas, os usos da internet, que se ressente ainda
+da falta de uma legislação especíﬁca que coíba não somente os usos mas os abusos deste
+importante e eﬁcaz veículo de comunicação”.
+O problema de norma culta identiﬁcado nesse segmento do texto é:
+A ausência de vírgula depois de “Folha”;
+
+
+    8. (FGV / ALE-RO / 2018)
+“A pintura transforma o espaço em tempo; a música, o tempo em espaço.”
+A razão que justiﬁca o emprego da vírgula nesse pensamento é a mesma que ocorre em:
+A) “A pintura é poesia silenciosa, a poesia é pintura que fala.”
+B) “A pintura é uma poesia que se vê e não se sente, e a poesia é uma pintura que se sente e
+não se vê.”
+C) “A crítica rasteja, e a criação voa.”
+D) “O artista é mentiroso, mas a arte é verdade.”
+E) “Todos pintam com talento e ele, com arte.”
+
+
+    9. (FGV / MP-AL / 2018)
+“Numa democracia, (1) é livre a expressão, estão garantidos o direito de reunião e de greve, (2)
+entre outros, obedecidas leis e regras, (3) lastreadas na Constituição. Em um regime de
+liberdades, (4) há sempre o risco de excessos, (5) a serem devidamente contidos e seus
+responsáveis, punidos, conforme estabelecido na legislação”.
+Nesse segmento inicial do texto, a vírgula que tem caráter optativo é a indicada pelo número
+A) (1).              B) (2).            C) (3).             D) (4).             E) (5).
+
+
+    10. (FGV / PREF. SALVADOR-BA / 2017)
+Leia a frase a seguir.
+“Entre os efeitos positivos do fumo inclui-se a economia com o sistema de saúde por causa da
+mortalidade prematura do fumante”.
+Assinale a opção que apresenta a maneira de reescrever-se essa frase em que o emprego de
+vírgulas é adequado.
+A) Entre os efeitos positivos do fumo, inclui-se a economia com o sistema de saúde, por causa da
+mortalidade prematura do fumante.
+B) Por causa da mortalidade prematura do fumante, entre os efeitos positivos do fumo, inclui-se a
+economia com o sistema de saúde.
+C) Entre os efeitos positivos do fumo inclui-se a economia, com o sistema de saúde, por causa da
+mortalidade prematura do fumante.
+D) Inclui-se a economia com o sistema de saúde entre os efeitos positivos do fumo por causa da
+mortalidade, prematura do fumante.
+E) Por causa da mortalidade, prematura, do fumante, entre os efeitos, positivos, do fumo inclui-se
+a economia com o sistema de saúde.
+
+
+    11. (FGV / CÂM. MUNICIPAL SALVADOR-BA / 2017)
+“Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal”.
+Na reescritura desse segmento do texto 2, a pontuação está INADEQUADA em relação às regras
+de pontuação em:
+A) Os espanhóis, nos primeiros anos de conquista, resistiram a comer produtos nativos
+americanos, por isso trouxeram consigo plantas e animais de sua terra natal;
+B) Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos
+e, por isso, trouxeram consigo plantas e animais de sua terra natal;
+C) Nos primeiros anos da conquista os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal;
+D) Os espanhóis resistiram a comer produtos nativos americanos, nos primeiros anos de
+conquista; trouxeram consigo, por isso, plantas e animais de sua terra natal;
+E) Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos
+americanos, e, por isso trouxeram consigo plantas e animais de sua terra natal.
+
+
+   12. (FGV / TJ PI / 2015)
+“Atualmente, a grande maioria dos casos de adultério é combinada por telefones pessoais, pois
+dessa forma não há tanto risco de outra pessoa atender às ligações".
+De acordo com as estruturas linguísticas do texto, julgue o item: a primeira vírgula do segmento
+marca a presença de um termo deslocado da ordem direta.
+
+
+   13. (FGV / PREF. NITERÓI-RJ / 2015)
+Entre os segmentos do texto 1, aquele que mostra o emprego de vírgula em função de um
+adjunto adverbial deslocado é:
+A) “A publicidade cerca-nos de todos os lados - na TV, nas ruas, nas revistas e nos jornais – e
+força-nos a ser mais consumidores que cidadãos".
+B) “Hoje, tudo se reduz a uma questão de marketing".
+C) “Não tem a menor importância, se uma boa máquina publicitária for capaz de tornar a sua
+marca bem aceita entre os consumidores".
+D) “Isso vale também para o refrigerante que descalciﬁca os ossos, corrói os dentes, engorda e
+cria dependência".
+E) “A gula, nos produtos alimentícios e nas lanchonetes que oferecem muito colesterol em
+sanduíches piramidais".
+
+
+   14. (FGV / DPE-RO / 2015)
+“O Estatuto da Criança e do Adolescente, o ECA, é uma lei bem justa e generosa, ainda
+largamente ignorada em suas medidas de proteção e promoção”.
+A inclusão de uma vírgula entre os dois segmentos faz supor a implícita existência de um
+conector entre eles; tal conector deveria representar:
+A) uma concessão, como “ainda que”;
+B) uma adversidade, como “porém”;
+C) uma conclusão, como “logo”;
+D) uma explicação, como “pois”;
+E) uma proporcionalidade, como “à medida que”.
+   15. (FGV / DETRAN-RN / 2015)
+No trecho: “É que tudo se acha fora de um livro falho, leitor amigo. ” A utilização da vírgula se
+justiﬁca por:
+A) Isolar um termo circunstancial de modo.
+B) Isolar um termo explicativo.
+C) Separar termos enumerativos.
+D) Separar um vocativo.
+E) Isolar um termo circunstancial deslocado.
+
+
+
+
+                                         GABARITO
+
+                                                 1. LETRA B
+                                                2. LETRA C
+                                                3. LETRA D
+                                                 4. LETRA E
+                                               5. CORRETA
+                                                6. LETRA A
+                                               7. CORRETA
+                                                 8. LETRA E
+                                                9. LETRA A
+                                                10. LETRA A
+                                                11. LETRA E
+                                               12. CORRETA
+                                                13. LETRA B
+                                                14. LETRA B
+                                               15. LETRA D
+               LISTA DE QUESTÕES - DOIS-PONTOS - FGV
+
+1. (FGV / PREF. MANAUS / 2022)
+Um ator de cinema disse:
+“Eu tive uma grande vantagem que meus ﬁlhos não tiveram: eu nasci pobre.”
+
+Essa frase tem duas partes com dois pontos entre elas. Assinale a opção que indica a conjunção
+que poderia substituir esses dois pontos de forma adequada.
+A) assim que
+B) mas
+C) portanto
+D) quando
+E) pois
+
+
+
+
+                                       GABARITO
+
+                                          1. LETRA E
+                      LISTA DE QUESTÕES - ASPAS - FGV
+
+1. (FGV / COMPESA / 2018)
+                                   A Política de Tolerância Zero
+Suas vozes frágeis e seus corpos miúdos sugerem que elas não têm mais de 7 anos, mas já
+conhecem a brutal realidade dos desaventurados cuja sina é cruzar fronteiras para sobreviver. O
+drama dessas crianças tiradas dos braços de seus pais e mães pela “política de tolerância zero”
+do governo americano tem comovido o mundo e dividido o país do presidente Donald Trump.
+Os relatos são de solidão e desespero para essas famílias divididas, que, não raro, mal podem se
+comunicar com o mundo exterior e não conseguem informações sobre o paradeiro de seus
+parentes após terem cruzado a fronteira do México para os EUA em busca de uma vida menos
+difícil. Em vez de encontrarem a realização de seu “sonho americano”, elas vêm sendo recebidas
+por essa prática de hostilidade reforçada na zona fronteiriça, que já separou mais de 2300
+crianças de seus pais desde abril.
+“O drama dessas crianças tiradas dos braços de seus pais e mães pela “política de tolerância
+zero” do governo americano tem comovido o mundo e dividido o país do presidente Donald
+Trump.”
+
+
+O segmento sublinhado aparece entre aspas para
+A) destacar uma parte importante do texto.
+B) mostrar as palavras sob um novo ponto de vista.
+C) indicar uma realidade já conhecida dos leitores.
+D) repetir as palavras das autoridades na fronteira.
+E) informar ao leitor que se trata de uma ironia.
+
+
+2. (FGV / PREF. SALVADOR-BA / 2017)
+                                         Crianças infelizes
+Uma em cada onze crianças com idade entre 8 e 16 anos está infeliz, segundo um estudo
+divulgado em janeiro deste ano [2012] pela Children’s Society.
+Apesar de a pesquisa trazer à tona uma realidade do Reino Unido, especialistas brasileiros em
+saúde infantil aﬁrmam que esse não é um problema exclusivo das crianças britânicas. Para eles,
+mais do que infelizes, elas estão ansiosas, estressadas, deprimidas e sobrecarregadas. “As
+crianças de hoje estão desconfortáveis com a infância”, diz a Coordenadora da Unidade de
+Psiquiatria da Infância e Adolescência da Universidade Federal de São Paulo (Unifesp).
+                                                                      (Veja, 12 de fevereiro de 2012).
+
+
+
+Um segmento do texto aparece entre aspas porque
+A) destaca uma parte importante do texto.
+B) informa ao leitor que se trata de uma ironia.
+C) mostra a tradução de um texto estrangeiro.
+D) indica a reprodução de uma fala alheia.
+E) separa um segmento que não tem ligação temática com o texto.
+
+
+3. (FGV / SECR. DE ESTADO DE PLANEJAMENTO ORÇAMENTO E GESTÃO-RO / 2017)
+Temos uma notícia triste: o coração não é o órgão do amor! Ao contrário do que dizem, não é ali
+que moram os sentimentos. Puxa, para que serve ele, aﬁnal? Calma, não jogue o coração para
+escanteio, ele é superimportante. “É um órgão vital. É dele a função de bombear sangue para
+todas as células de nosso corpo”, explica Sérgio Jardim, cardiologista do Hospital do Coração.
+
+
+O uso de aspas nesse fragmento do texto indica:
+A) o destaque de palavras muito importantes para o texto.
+B) a utilização de palavras com um sentido irônico.
+C) a transcrição de palavras que não pertencem ao autor do texto.
+D) o emprego de palavras em sentido ﬁgurado.
+E) o uso de palavras em variante diferente do restante do texto.
+
+
+4. (FGV / SME-SP / 2016)
+“Oralidade e ensino de língua: uma questão pouco falada”.
+No título do artigo de Marcuschi, as aspas empregadas na palavra “falada” indicam:
+A) o desvio semântico do termo, da linguagem lógica para a ﬁgurada.
+B) a informação da presença de mais discussões orais que trabalhos escritos sobre o tema.
+C) uma crítica à ausência de discussões sobre o ensino da oralidade.
+D) um alerta sobre o excesso de espaço didático dedicado à língua falada.
+E) uma denúncia contra a total ausência do ensino de língua falada nas escolas.
+
+
+5. (FGV / PGE-RO / 2015)
+               MAIS UM ATAQUE DISFARÇADO CONTRA A NOSSA AMAZÔNIA
+A intenção de domínio sobre a Amazônia, com seus 830 mil quilômetros quadrados, dos quais
+mais de 65 por cento nosso, aparece seguidamente, sob os mais incríveis disfarces. A iniciativa
+parte sempre de alguma ONG, ligada a poderosos grupos internacionais, que surge como
+salvadora da Pátria, para “preservar" a ﬂoresta e suas riquezas. Já se viu esse ﬁlme. Quem não
+lembra quando uma ONG conseguiu transferir para o Japão a propriedade do nome “Cupuaçu"?
+Agora surge mais um desses ataques, escamoteados sob boas intenções e com apoio de
+governos vizinhos. O presidente da Colômbia, Juan Manoel Santos, caiu na catilinária da ONG,
+Fundação Gaia Internacional e mandou ao Congresso projeto criando um “corredor ecológico"
+dentro da Amazônia, que ligaria os Andes ao Oceano Atlântico. Esse corredor seria intocado e
+suas riquezas eternamente não violadas. Assim, aparentemente, seria uma ideia positiva, não
+fosse a Gaia uma entidade bancada por dinheiro de várias Nações, todas elas muito aﬂitas para
+botar a mão em alguma coisa próxima dos 230 trilhões de dólares das riquezas que a maior
+ﬂoresta do mundo comporta.
+O presidente colombiano (isso mesmo, do país que até recentemente era dominado pelo
+narcotráﬁco e ainda se mantém como um dos maiores exportadores de cocaína do mundo), não
+consegue resolver seus problemas internos, mas quer interferir nos vizinhos, impondo um
+corredor, inclusive dentro do Brasil, onde ninguém entraria. Como ninguém? Claro que a exceção
+seria para as ONGs internacionais; para representantes da Igreja, que viriam “catequizar" os
+índios e para outros estrangeiros. A proibição seria para os brasileiros, que não poderiam usar
+parte do seu território. Nosso governo, até agora, não chiou contra esse crime. O que, aliás, não
+é surpresa alguma!
+
+
+As palavras “preservar" e “catequizar" aparecem entre aspas porque pretendem:
+A) destacar a importância das ações citadas;
+B) ironizar as intenções de quem as empregam;
+C) repetir palavras alheias;
+D) mostrar a preocupação mundial com a Amazônia;
+E) valorizar algumas ações em relação à Amazônia.
+
+
+6. (FGV / PGE-RO / 2015)
+Esta prova tem por base texto da imprensa nacional sobre fatos de nosso momento histórico.
+                                Texto 2 – Momento da Economia
+Há sutis melhoras à frente; possibilidades vagas que nascem muitas vezes do agudo da crise. Mas
+é bom falar nelas em momentos de escassez de esperança. “A inﬂação será forte este ano, mas a
+recessão vai derrubá-la no ano que vem", diz o economista José Roberto Mendonça de Barros. A
+recessão e a disparada do câmbio estão fazendo o ajuste externo, e o país pode ter dois anos de
+superávits altos.
+
+
+Ao atribuir a um economista conhecido a citação entre aspas, a autora do texto pretende
+certamente:
+A) prestigiar a fala de um amigo;
+B) criticar a linguagem popular do economista;
+C) demonstrar a importância do tema tratado;
+D) dar autoridade à opinião expressa;
+E) passar clareza no tratamento do tema.
+GABARITO
+ 1. LETRA C
+ 2. LETRA D
+ 3. LETRA C
+ 4. LETRA C
+ 5. LETRA B
+ 6. LETRA D
+                 LISTA DE QUESTÕES - TRAVESSÃO - FGV
+
+1. (FGV / ALE-RO / 2018)
+                                            Do Casamento
+O casamento foi a maneira que a humanidade encontrou de propagar a espécie sem causar
+falatório na vizinhança. As tradições matrimoniais se transformaram através dos tempos e variam
+de cultura para cultura. Em certas sociedades primitivas o tempo gasto nas preliminares do
+casamento – corte, namoro, noivado etc. – era abreviado. O macho escolhia uma fêmea, batia
+com um tacape na sua cabeça e a arrastava para a sua caverna. Com o passar do tempo este
+método foi sendo abandonado, por pressão dos buffets, das lojas de presente e das mulheres,
+que não admitiam um período pré-conjugal tão curto. O homem precisava aproximar-se dela,
+cheirar seus cabelos, grunhir no seu ouvido, mordiscar a sua orelha e só então, quando ela
+estivesse distraída, bater com o tacape na sua cabeça e arrastá-la para a caverna. (fragmento)
+                                        (VERÍSSIMO, Luís Fernando, Comédias da Vida Privada. Ed. LPM. 1994).
+
+
+
+“Em certas sociedades primitivas o tempo gasto nas preliminares do casamento – corte, namoro,
+noivado etc. – era abreviado.”
+
+
+O segmento sublinhado entre travessões indica
+A) uma retiﬁcação de um erro anterior.
+B) uma explicação de um termo obscuro.
+C) uma exempliﬁcação de tradições sociais.
+D) uma citação de todas as preliminares referidas.
+E) uma enumeração de todas as preliminares citadas.
+
+
+2. (FGV / IBGE / 2017)
+“Com todos os problemas que temos em nosso Estado – corporativismo, incompetência pública,
+intervencionismo, burocracia, estatismo, carga tributária complexa, entre outros -, ainda somos
+um país de muita sorte. Pelo simples fato de que a solução para nossos problemas só depende
+de nós mesmos.
+Não somos como a Palestina, que depende de Israel para existir. Nem somos como os países
+europeus, que dependem uns dos outros. Tampouco, como os Estados Unidos, que carregam um
+peso imenso de problemas deles e dos outros”.
+                                                                                      (Isto É, março de 2017)
+O trecho entre travessões no texto mostra:
+A) a enumeração de todos os problemas de nosso Estado;
+B) a explicação de um termo anterior;
+C) a exempliﬁcação de alguns de nossos problemas;
+D) a seleção de nossos problemas mais graves;
+E) a justiﬁcativa de uma aﬁrmação.
+
+
+
+
+                                       GABARITO
+                                          1. LETRA C
+                                          2. LETRA C
+

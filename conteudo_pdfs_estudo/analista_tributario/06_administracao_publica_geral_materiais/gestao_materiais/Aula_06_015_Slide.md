@@ -1,0 +1,494 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ARMAZENAGEM E MOVIMENTAÇÃO
+---
+
+# ARMAZENAGEM E MOVIMENTAÇÃO
+
+---
+
+---
+
+ARMAZENAGEM E MOVIMENTAÇÃO
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - VII
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/CODEN/Almoxarife/2021) A imagem a seguir refere-se a:
+     a) carga pré-lingada.
+     b) demurrage.
+     c) prancha.
+     d) pallet 4 entradas.
+     e) pallet 2 entradas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Pallets
+
+                      Face Simples com 2 entradas                                        Face Dupla com 2 entradas
+
+                      Face Simples com 4 entradas                                        Face Dupla com 4 entradas
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/CODEN/Almoxarife/2021) A imagem a seguir refere-se a:
+     a) carga pré-lingada.
+     b) demurrage.
+     c) prancha.
+     d) pallet 4 entradas.
+     e) pallet 2 entradas.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Chiavenato (2005) define que o
+     armazenamento de materiais depende da dimensão e características dos materiais.
+     Segundo o referido autor, trata-se da técnica de estocagem ideal para materiais de
+     pequenas dimensões, como parafusos, arruelas, alguns materiais de escritório, como
+     lápis, canetas esferográficas etc., podem ser de metal, de madeira ou de plástico e
+     denominam-se:
+     a) Prateleiras ou raques.
+     b) Raques ou bags.
+     c) Caixas ou gavetas.
+     d) Pallets ou estrados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Chiavenato (2005) define que o
+     armazenamento de materiais depende da dimensão e características dos materiais.
+     Segundo o referido autor, trata-se da técnica de estocagem ideal para materiais de
+     pequenas dimensões, como parafusos, arruelas, alguns materiais de escritório, como
+     lápis, canetas esferográficas etc., podem ser de metal, de madeira ou de plástico e
+     denominam-se:
+     a) Prateleiras ou raques.
+     b) Raques ou bags.
+     c) Caixas ou gavetas.
+     d) Pallets ou estrados.
+     GABARITO - C
+                                            A melhor forma de armazenar e organizar materiais de pequenas dimensões, como
+                                            parafusos, arruelas, alguns materiais de escritório, como lápis, canetas esferográficas
+                                            etc. e que podem ser de metal, de madeira ou de plástico são as caixas ou gavetas.
+                                            De acordo com Chiavenato "as caixas ou gavetas podem ser metálicas, de madeira ou
+                                            de plástico. As dimensões devem ser padronizadas, e seu tamanho pode variar
+                                            enormemente. Podem ser construídas pela própria empresa ou adquiridas no
+Administração de Materiais para Concursos   mercado fornecedor."
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     03. (SELECON/EMGEPRON/Técnico/2021) Considerando os princípios de estocagem,
+     alguns dispositivos são importantes para manuseio, movimentação, transporte e
+     armazenagem de carga. A figura a seguir mostra um palete, modelo fabricado em
+     madeira. Em relação ao palete, é possível afirmar que:
+
+     a) não é compatível com a unitização de cargas.
+     b) é obrigatório o uso de palete de madeira em armazéns frigoríficos.
+     c) é fabricado em madeira e, exclusivamente, há modelos de duas entradas.
+     d) há diferentes tipos e aplicações, em função da carga, permitindo carga unitária e
+     medidas básicas de 1.000 mm × 1.200 mm.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (SELECON/EMGEPRON/Técnico/2021) Considerando os princípios de estocagem,
+     alguns dispositivos são importantes para manuseio, movimentação, transporte e
+     armazenagem de carga. A figura a seguir mostra um palete, modelo fabricado em
+     madeira. Em relação ao palete, é possível afirmar que:
+
+     a) não é compatível com a unitização de cargas.
+     b) é obrigatório o uso de palete de madeira em armazéns frigoríficos.
+     c) é fabricado em madeira e, exclusivamente, há modelos de duas entradas.
+     d) há diferentes tipos e aplicações, em função da carga, permitindo carga unitária e
+     medidas básicas de 1.000 mm × 1.200 mm.           Os paletes são estrados de madeira padronizados, que podem ter
+     GABARITO - D                                      diversas dimensões. Suas medidas convencionais básicas são 1.100 X
+                                                                            1.100 mm (podendo variar entre 1.000-1.200mm), como padrão
+                                                                            internacional, para se adequar aos diversos meios de transporte e
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                                    de armazenagem.
+                                             
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos
+     critérios e às técnicas de armazenagem. A paletização é o procedimento apropriado
+     para unitizar embalagens de formas cônicas e cilíndricas.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estocagem
+       Paletização
+
+     ❑ Com o passar do tempo e aumento de sua utilização, tornou-se necessário estabelecer normas de medidas para
+       esses recipientes formadores de cargas unitárias, com o que os pallets se tornaram padronizados em relação aos
+       seus tamanhos.
+
+     ❑ Hoje é considerado antieconômico manter pallets de vários tipos e dimensões, fazendo com que as organizações
+       adaptem as suas embalagens aos tamanhos disponíveis de pallets padronizados, usufruindo do máximo benefício
+       logístico.
+
+     ❑ Como as mercadorias que são acomodadas sobre ele não têm sempre o mesmo tamanho, para cada uma delas é
+       necessário aplicar um arranjo físico diferente sobre o pallet, com o objetivo de dar a elas a maior sustentação
+       possível.
+
+     ❑ É justamente por essa razão que as caixas de formato cúbico não são as mais indicadas para esse processo por
+       não permitirem "encaixes" que dão maior suporte e resistência à pilha, dificultando a sua arrumação sobre o
+       pallet e o seu empilhamento com segurança. Embalagens em forma de cone, cilíndricas ou qualquer forma não
+       usual também não são indicadas pois dificultam a arrumação e equilíbrio do pallet.
+
+     ❑ Outros tipos de embalagem também não são indicados para paletização como embalagens fracas (que não
+       permitam empilhamento), demasiadamente cheias, mal identificadas, entre outras.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos
+     critérios e às técnicas de armazenagem. A paletização é o procedimento apropriado
+     para unitizar embalagens de formas cônicas e cilíndricas.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos
+     critérios e às técnicas de armazenagem. O empilhamento, o uso de caixas e racks e a
+     instalação de prateleiras são procedimentos empregados na estocagem de materiais e
+     produtos.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/PGDF/Técnico Jurídico/2021) Julgue o próximo item, relativo aos
+     critérios e às técnicas de armazenagem. O empilhamento, o uso de caixas e racks e a
+     instalação de prateleiras são procedimentos empregados na estocagem de materiais e
+     produtos.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+                                                                  Racks para armazenagem
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CPCON UEPB/UEPB/Almoxarife/2021) Em uma organização, o arranjo físico tem o objetivo de
+     planejar e integrar o fluxo dos materiais dentro do almoxarifado, buscando eficiência e eficácia do
+     processo.
+     Analise as afirmações abaixo em relação ao planejamento e ao layout do almoxarifado.
+     I- Definir a largura das ruas do almoxarifado de acordo com o tipo de movimentação a ser
+     executado.
+     II- Determinar o empilhamento máximo permitido.
+     III- Analisar a iluminação artificial necessária para execução dos trabalhos do almoxarifado.
+     IV- Verificar o tipo de embalagem adequada para cada item.
+     Estão CORRETAS as afirmações que se apresentam na alternativa:
+     a) III e IV, apenas.
+     b) I, II e IV, apenas.
+     c) I e IV, apenas.
+     d) I, II, III e IV.
+     e) II e III, apenas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CPCON UEPB/UEPB/Almoxarife/2021) Em uma organização, o arranjo físico tem o objetivo de
+     planejar e integrar o fluxo dos materiais dentro do almoxarifado, buscando eficiência e eficácia do
+     processo.
+     Analise as afirmações abaixo em relação ao planejamento e ao layout do almoxarifado.
+     I- Definir a largura das ruas do almoxarifado de acordo com o tipo de movimentação a ser
+     executado.
+     II- Determinar o empilhamento máximo permitido.
+     III- Analisar a iluminação artificial necessária para execução dos trabalhos do almoxarifado.
+     IV- Verificar o tipo de embalagem adequada para cada item.
+     Estão CORRETAS as afirmações que se apresentam na alternativa:
+     a) III e IV, apenas.
+     b) I, II e IV, apenas.
+     c) I e IV, apenas.
+     d) I, II, III e IV.
+     e) II e III, apenas.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Os pallets são considerados
+     um importante material utilizado na organização de um almoxarife. Analise as
+     alternativas a seguir e responda qual opção apresenta uma vantagem na utilização de
+     um pallet?
+     a) Permite o recebimento do material via on-line e o despacho para outros setores da
+     empresa.
+     b) Compatibilidade com todos os meios de transporte (marítimo, terrestre, aéreo).
+     c) Estabelece o sistema de instalações e do layout mais adequado, propiciando
+     condições físicas que preservem a qualidade dos materiais, com vistas à ocupação plena
+     do espaço físico e à ordenação da arrumação.
+     d) Ocasiona a ocorrência de demandas constantes no tempo, ou seja, um
+     comportamento regular de consumo.
+     e) Permite controlar os níveis de estoques, realizando a compra dos materiais para
+     reposição, conforme procedimentos estabelecidos pelos clientes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Pallets
+       Vantagens x Desvantagens
+
+     ❑ A utilização dos pallets tem algumas vantagens e desvantagens que valem a pena ser
+       estudadas:
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Os pallets são considerados
+     um importante material utilizado na organização de um almoxarife. Analise as
+     alternativas a seguir e responda qual opção apresenta uma vantagem na utilização de
+     um pallet?
+     a) Permite o recebimento do material via on-line e o despacho para outros setores da
+     empresa.
+     b) Compatibilidade com todos os meios de transporte (marítimo, terrestre, aéreo).
+     c) Estabelece o sistema de instalações e do layout mais adequado, propiciando
+     condições físicas que preservem a qualidade dos materiais, com vistas à ocupação plena
+     do espaço físico e à ordenação da arrumação.
+     d) Ocasiona a ocorrência de demandas constantes no tempo, ou seja, um
+     comportamento regular de consumo.
+     e) Permite controlar os níveis de estoques, realizando a compra dos materiais para
+     reposição, conforme procedimentos estabelecidos pelos clientes.
+     GABARITO - B
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/CODEN/Almoxarife/2021) Grandes caixas, normalmente de metal, que são
+     utilizadas para o acondicionamento de diversos produtos que serão enviados a um
+     mesmo destino, amplamente utilizados nos portos, e que ao chegar ao destino são
+     esvaziados e reutilizados para novas cargas, são:
+     a) contêineres.
+     b) pallets de plástico.
+     c) pallets de metal.
+     d) pallets PBR.
+     e) cargas pré-lingadas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/CODEN/Almoxarife/2021) Grandes caixas, normalmente de metal, que são
+     utilizadas para o acondicionamento de diversos produtos que serão enviados a um
+     mesmo destino, amplamente utilizados nos portos, e que ao chegar ao destino são
+     esvaziados e reutilizados para novas cargas, são:
+     a) contêineres.
+     b) pallets de plástico.                O enunciado aqui faz referência aos contêineres, recurso amplamente
+                                            utilizado (especialmente em portos) para a unitização de cargas. Os
+     c) pallets de metal.                   contêineres (ou contenedores) são normalmente caixas metálicas
+     d) pallets PBR.                        retangulares, hermeticamente fechadas e seladas, destinadas ao
+                                            transporte intermodal de mercadorias.
+     e) cargas pré-lingadas.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (VUNESP/CODEN/Almoxarife/2021) O tipo de carga unitizada que apresenta
+     estrutura fabricada, normalmente, com fios de poliéster de grande resistência que
+     suportam cargas excepcionalmente pesadas, cujos fios são içados por meio de
+     guindaste e armazenados nos locais apropriados, com pacotes que possuem o mesmo
+     peso e volume, é:
+     a) o pallet de 2 entradas.
+     b) o pallet de 4 entradas.
+     c) o pallet PBR.
+     d) o contêiner.
+     e) a carga pré-lingada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (VUNESP/CODEN/Almoxarife/2021) O tipo de carga unitizada que apresenta
+     estrutura fabricada, normalmente, com fios de poliéster de grande resistência que
+     suportam cargas excepcionalmente pesadas, cujos fios são içados por meio de
+     guindaste e armazenados nos locais apropriados, com pacotes que possuem o mesmo
+     peso e volume, é:
+     a) o pallet de 2 entradas.
+     b) o pallet de 4 entradas.
+     c) o pallet PBR.
+     d) o contêiner.
+     e) a carga pré-lingada.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (SELECON/EMGEPRON/Técnico/2021) Em atividades no segmento naval, o responsável do
+     almoxarifado deve estar atento às recomendações sobre transporte, movimentação, armazenagem e
+     manuseio de materiais, visando produtividade e segurança para colaboradores. A equipe de
+     almoxarifado/armazém deve, dentre outras atividades:
+     a) inspecionar equipamentos utilizados na movimentação de materiais, tais como ascensores,
+     elevadores de carga, guindastes, monta-carga, pontes-rolantes, talhas e empilhadeiras.
+     b) inspecionar, eventualmente, cabos de aço, cordas, correntes, roldanas e ganchos, sem necessidade
+     de substituição de partes defeituosas.
+     c) indicar, em lugar não visível, a carga máxima de trabalho permitida para não preocupar funcionários
+     da equipe.
+     d) possuir protetores de mãos para transporte de carga, mas em carros manuais não é preciso, pois
+     são equipamentos destinados à movimentação do pessoal que exigem condições especiais de
+     segurança.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (SELECON/EMGEPRON/Técnico/2021) Em atividades no segmento naval, o responsável do
+     almoxarifado deve estar atento às recomendações sobre transporte, movimentação, armazenagem e
+     manuseio de materiais, visando produtividade e segurança para colaboradores. A equipe de
+     almoxarifado/armazém deve, dentre outras atividades:
+     a) inspecionar equipamentos utilizados na movimentação de materiais, tais como ascensores,
+     elevadores de carga, guindastes, monta-carga, pontes-rolantes, talhas e empilhadeiras.
+     b) inspecionar, eventualmente, cabos de aço, cordas, correntes, roldanas e ganchos, sem necessidade
+     de substituição de partes defeituosas.
+     c) indicar, em lugar não visível, a carga máxima de trabalho permitida para não preocupar funcionários
+     da equipe.
+     d) possuir protetores de mãos para transporte de carga, mas em carros manuais não é preciso, pois
+     são equipamentos destinados à movimentação do pessoal que exigem condições especiais de
+     segurança.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,382 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 11_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 425.
+- "art.\n    22"
+- art. 22
+- art. 421
+- art. 423
+- art. 425
+- art. 426
+---
+
+# IRPJ
+
+IRPJ
+  INVESTIMENTOS
+AVALIADOS PELO MEP
+
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ De acordo com a Lei 6.404/76 (Lei das S/A), os investimentos
+      na forma de participações permanentes no capital de outras
+      sociedades, tais como ações de coligadas e controladas,
+      podem ser avaliados pelo:
+
+    ❑ 1 – Método da equivalência patrimonial (ou método do
+      patrimônio líquido);
+
+    ❑ 2 – Método do custo de aquisição.
+
+Legislação Tributária
+                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                          
+
+
+---
+
+IRPJ – Investimentos - MEP
+    A Lei das S/A determinou a avaliação pelo MEP dos
+    investimentos em:
+    • Coligadas;
+    • Controladas; e
+    • Outras sociedades que façam parte de um mesmo grupo ou
+       estejam sob controle comum.
+
+Legislação Tributária
+                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                        
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Sociedade Controlada → Sociedade na qual a controladora,
+    diretamente ou através de outras controladas, é titular de direitos de
+    sócio que lhe assegurem, de modo permanente, preponderância nas
+    deliberações sociais e o poder de eleger a maioria dos
+    administradores.
+    Coligada → Sociedades nas quais a investidora tenha influência
+    significativa e que não se configura como controlada ou participação
+    em empreendimento sob controle conjunto (joint venture).
+
+Legislação Tributária
+                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+    A Companhia X é controladora da Companhia Z, possuindo 80% do
+    seu capital social. No início do exercício X1, o valor do patrimônio
+    líquido da Companhia Z era de R$ 100.000,00. No encerramento do
+    exercício X1, a Companhia Z apurou lucros no valor de R$ 50.000,00,
+    distribuindo 25% desse valor a título de dividendos.
+
+    D – Investimentos                            80.000,00
+    C – Caixa                                     80.000,00
+
+Legislação Tributária
+                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                            
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Como a Companhia X detém 80% do capital social da investida, o
+    valor dos investimentos deve ser reajustado nessa proporção sobre o
+    lucro apurado pela controlada: 50.000,00 x 80% = 40.000,00. O
+    lançamento seria o seguinte:
+
+    D – Investimentos                   40.000,00
+    C – Receita de Equivalência Patrimonial 40.000,00
+
+    Valor dos Investimentos após lucros: 120.000,00
+
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+ Com a distribuição dos dividendos, o valor dos investimentos deve ser
+ reduzido, mediante contrapartida, mediante registro na conta
+ dividendos a receber, sempre na proporção do percentual de
+ participação da investidora no capital social da investida.
+ A distribuição de dividendos foi de 25% dos lucros apurados, ou seja,
+ 50.000,00 x 25% = 12.500,00. Como a Companhia X detém 80% do
+ capital social da investida, receberá 80% dos dividendos distribuídos,
+ isto é, 12.500,00 x 80% = R$ 10.000,00. Desse modo, o lançamento
+ na investidora seria:
+ D – Dividendos a receber 10.000,00
+ C – Investimentos           10.000,00
+
+    Valor dos Investimentos após dividendos: (120.000,00-10.000,00 =
+    110.000)
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                  @ProfFabioDutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ Apuração de lucros – Aumento da conta de investimentos (D)
+
+    ❑ Distribuição de dividendos – Redução da conta de investimentos
+      (C)
+
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                            
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Art. 425. O valor do investimento na data do balanço de que trata o inciso I
+    do caput do art. 421 deverá ser ajustado ao valor de patrimônio líquido de
+    acordo com o disposto no art. 423 , por meio do lançamento da diferença a
+    débito ou a crédito da conta de investimento ( Decreto-Lei nº 1.598, de 1977,
+    art. 22, caput ).
+
+    § 1º Os lucros ou os dividendos distribuídos pela investida deverão ser
+    registrados pelo contribuinte como diminuição do valor do investimento e
+    não influenciarão as contas de resultado ( Decreto-Lei nº 1.598, de 1977, art.
+    22, parágrafo único ).
+
+    Obs.: A contrapartida do ajuste de que trata o art. 425 , por aumento ou
+    redução no valor de patrimônio líquido do investimento, não será computada
+    para fins de determinação do lucro real
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Contas patrimoniais → são contas contábeis utilizadas para controle e
+    apuração do patrimônio, sendo compostas de contas do ativo, do
+    passivo e do patrimônio líquido.
+
+    Contas de resultado → são contas contábeis utilizadas para a apuração do
+    resultado do exercício (lucro ou prejuízo), sendo compostas de contas de
+    receitas e contas de despesas.
+
+Legislação Tributária
+                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+IRPJ – Investimentos - MEP
+    O contribuinte que avaliar investimento pelo método de equivalência
+    patrimonial (MEP), ou seja, pelo valor do patrimônio líquido, deverá,
+    na ocasião da aquisição do investimento, desdobrar o custo de
+    aquisição deste e registrar em subcontas distintas em:
+    I – Valor do Patrimônio Líquido na época da aquisição;
+    II – Mais-valia ou Menos-valia, correspondendo à diferença entre o
+    valor justo dos ativos líquidos da investida, na proporção da
+    porcentagem da participação adquirida, e o valor do patrimônio
+    líquido na época da aquisição;
+    III – Ágio por Rentabilidade Futura (goodwill), que corresponde à
+    diferença ente o custo de aquisição do investimento e o somatório
+    dos valores de que tratam os incisos I e II acima.
+
+Legislação Tributária
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+
+      Observação: o valor correspondente ao mais-valia deverá ser baseado em
+      laudo elaborado por perito independente que deverá ser protocolado na
+      Secretaria da Receita Federal do Brasil ou cujo sumário deverá ser
+      registrado em Cartório de Registro de Títulos e Documentos, até o
+      último dia útil do 13° mês subsequente ao da aquisição da participação.
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Investimentos - MEP
+    A Companha X (investidora) adquire 80% das quotas da Companhia Z
+    (investida), pelo valor de R$ 700.000,00, à vista.
+    Os ativos e passivos da Companhia Z (investida) apresentam os
+    seguintes valores:
+
+                                                                           Mais-Valia (2 -
+          Companhia Z     Valor Contábil (1)             Valor Justo (2)
+                                                                                1)
+           Ativos            R$ 800.000                    R$ 1.000.000     R$ 200.000
+         Passivos            R$ 300.000                     R$ 400.000      R$ 100.000
+     Valor Líquido (PL)      R$ 500.000                     R$ 600.000      R$ 100.000
+
+Legislação Tributária
+                                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Como a Companha X pagou pela aquisição da participação da
+    Companhia Z o valor de R$ 700.000,00, a investidora deverá no seu
+    Ativo Não Circulante, em conta Investimento, efetuar o
+    desdobramento da seguinte forma:
+    Custo de Aquisição ............ R$ 400.000 (80% x 500.000)
+    Mais-Valia ........................ R$ 80.000 (80% x [600.000 - 500.000])
+    Ágio Rentabilidade Futura ...R$ 220.000                 (700.000 – [400.000 +
+    80.000])
+
+Legislação Tributária
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Investimentos - MEP
+    Ganho proveniente de “Compra Vantajosa” (deságio): consiste
+    basicamente no excesso do valor justo dos ativos líquidos da
+    investida, na proporção da participação adquirida, em relação ao
+    custo de aquisição (valor pago) do investimento avaliado pelo MEP.
+
+    Traduzindo, o raciocínio é o oposto: existe expectativa de prejuízos
+    futuros.
+
+    No nosso exemplo, imagine que o valor justo do PL seja de R$
+    1.000.000, e que o valor pago se mantenha em R$ 700.000. Assim,
+    80% de 1.000.000 resulta em 800.000. O cálculo do ganho
+    proveniente de compra vantajosa seria 800.000 – 700.000 = 100.000.
+
+Legislação Tributária
+                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                            
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ Investimentos avaliados pelo MEP e a tributação pelo IRPJ:
+
+
+    ❑ A contrapartida do ajuste, por aumento ou redução no valor de
+      patrimônio liquido do investimento, não será computada na
+      determinação do lucro real, em se tratando de investimento
+      realizado no Brasil (RIR, art. 426);
+
+    ❑ Os lucros ou dividendos distribuídos pela investida deverão ser
+      registrados pelo contribuinte como diminuição do valor do
+      investimento, e não influenciarão as contas de resultado e,
+      consequentemente, não são computados na determinação do lucro
+      real (RIR, art. 425, § 1º);
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ Investimentos avaliados pelo MEP e a tributação pelo IRPJ:
+
+
+    ❑ O ganho proveniente de compra vantajosa (deságio) será
+      computado na determinação do Lucro Real no período de apuração
+      da alienação ou baixa do investimento (RIR, art. 421, § 4º);
+
+    ❑ Amortização de valores mais-valia, menos-valia e do ágio/goodwill
+      não são dedutíveis ou tributáveis em um primeiro momento. Tais
+      valores são controlados na Parte B do Lalur, ocorrendo tributação,
+      em caso de deságio, ou dedutibilidade, em caso de ágio, apenas
+      no momento da alienação ou baixa do investimento.
+
+Legislação Tributária
+                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ Investimentos avaliados pelo MEP e a tributação pelo IRPJ:
+
+
+    ❑ O acréscimo ou a diminuição do valor de patrimônio líquido de
+      investimento, decorrente de ganho ou perda por variação na
+      porcentagem de participação do contribuinte no capital social da
+      investida não é considerada na determinação do lucro real.
+
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---
+
+IRPJ – Investimentos - MEP
+    ❑ Investimentos avaliados pelo MEP e a tributação pelo IRPJ:
+
+    ❑ Amortização de deságio menos-valia, ágio                    mais-valia    ou
+      ágil/goodwill são controlados na Parte B do Lalur.
+
+    ❑ A tributação ou dedutibilidade só ocorre no momento da alienação
+      ou baixa do investimento. Guarde isso!
+
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                             
+
+
+---

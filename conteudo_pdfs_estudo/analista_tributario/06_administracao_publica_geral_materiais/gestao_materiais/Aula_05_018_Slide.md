@@ -1,0 +1,624 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_018_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+GESTÃO DE ESTOQUES
+BANCAS DIVERSAS - XII
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO MAIS/CM Praia Grande/Agente/2022) O inventário é realizado ao final
+     _______________, quando o departamento de patrimônio envia aos departamentos e
+     setores uma lista de bens permanentes para informar no registro o local exato no qual o
+     bem está disponibilizado, confirmando sua existência. Assinale a alternativa que
+     preenche corretamente a lacuna.
+     a) de cada ano fiscal
+     b) de cada trimestre
+     c) de cada semestre
+     d) do mês
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Os inventários ocorrem sempre que é necessário contar os itens de um almoxarifado. Com a
+         realização do inventário é possível ter certeza que os sistemas em uso na empresa, inclusive o
+         contábil, está refletindo a realidade do estoque físico.
+
+       ❑ Ao longo do inventário os itens são checados e contados fisicamente para que se possa
+         quantificar o estoque como um todo. Feito isso, os resultados são comparados aos registros
+         contábeis, para verificar sua acuracidade e proceder com eventuais ajustes necessários.
+
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente efetuado uma
+         vez ao ano e no qual todos os itens são contados de uma única vez. Em seguida são efetuadas as
+         comparações com os sistemas gerenciais e contábeis da organização.
+
+       ✓ Rotativo ou Cíclico: nesta modalidade alguns itens (os mais significativos, que representam os
+         maiores valores de estoque e são estratégicos e imprescindíveis para a produção) são
+         inventariados mais de uma vez por ano ou sempre que necessário. Não exigem a completa
+         paralização da área inventariada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO MAIS/CM Praia Grande/Agente/2022) O inventário é realizado ao final
+     _______________, quando o departamento de patrimônio envia aos departamentos e
+     setores uma lista de bens permanentes para informar no registro o local exato no qual o
+     bem está disponibilizado, confirmando sua existência. Assinale a alternativa que
+     preenche corretamente a lacuna.
+     a) de cada ano fiscal
+     b) de cada trimestre
+     c) de cada semestre
+     d) do mês
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INAZ DO PARÁ/SAGAZ/Analista/2022) A frequência dos inventários vai depender de
+     cada negócio e produto comercializado. Eles podem ser diários, semanais ou mensais, e
+     variar de acordo com o giro do produto ou o seu valor. Algumas situações podem ser
+     merecedoras de acompanhamento por inventário. Aponte a alternativa que NÃO condiz
+     com essas situações.
+     a) Produtos com histórico de perdas frequentes.
+     b) Produtos com ruptura identificada na preparação de pedidos ou no reabastecimento
+     de linhas.
+     c) Divergências encontradas em inventários anteriores.
+     d) Produtos visados e/ou sujeitos a furtos.
+     e) Itens com indicação de “stockdown” ou estoque mínimo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INAZ DO PARÁ/SAGAZ/Analista/2022) A frequência dos inventários vai depender de
+     cada negócio e produto comercializado. Eles podem ser diários, semanais ou mensais, e
+     variar de acordo com o giro do produto ou o seu valor. Algumas situações podem ser
+     merecedoras de acompanhamento por inventário. Aponte a alternativa que NÃO condiz
+     com essas situações.
+     a) Produtos com histórico de perdas frequentes.
+     b) Produtos com ruptura identificada na preparação de pedidos ou no reabastecimento
+     de linhas.
+     c) Divergências encontradas em inventários anteriores.
+     d) Produtos visados e/ou sujeitos a furtos.
+     e) Itens com indicação de “stockdown” ou estoque mínimo.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRF GO/Agente/2022) No que diz respeito à administração e a seus
+     conceitos fundamentais, julgue o item. A realização do inventário físico permite que sejam
+     verificadas incongruências entre o estoque físico e o estoque contábil.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Uma das maiores ferramentas de gestão dos estoques é o inventário. O controle efetuado pela realização dos
+         inventários permite o acompanhamento correto dos volumes de materiais estocados e está diretamente ligado
+         aos sistemas de reposição que acabamos de estudar.
+
+       ❑ De acordo com a Instrução Normativa 205/1988, vamos à definição de inventários:
+
+                  Inventário físico é o instrumento de controle para a verificação dos saldos de estoques nos almoxarifados e
+                  depósitos, e dos equipamentos e materiais permanentes, em uso no órgão ou entidade, que irá permitir,
+                  dentre outros:
+                  a) o ajuste dos dados escriturais de saldos e movimentações dos estoques com o saldo físico real nas
+                  instalações de armazenagem;
+                  b) a análise do desempenho das atividades do encarregado do almoxarifado através dos resultados obtidos
+                  no levantamento físico;
+                  c) o levantamento da situação dos materiais estocados no tocante ao saneamento dos estoques;
+                  d) o levantamento da situação dos equipamentos e materiais permanentes em uso e das suas necessidades
+                  de manutenção e reparos; e
+                  e) a constatação de que o bem móvel não é necessário naquela unidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRF GO/Agente/2022) No que diz respeito à administração e a seus
+     conceitos fundamentais, julgue o item. A realização do inventário físico permite que sejam
+     verificadas incongruências entre o estoque físico e o estoque contábil.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO MAIS/Pró-Sangue/Auxiliar/2022) A etapa de apuração do inventário físico é definida
+     como o(a):
+     a) levantamento de pessoal necessário à contagem física dos itens estocados com dimensionamento
+     de tempo e da ordem da contagem em cada local.
+     b) contagem, medição ou pesagem, de acordo com as unidades de fornecimento (peças, metro
+     quadrado, quilograma, litros etc.), considerada a mais demorada.
+     c) descrição do material, unidade de fornecimento, quantidade em estoque, valor unitário e o valor
+     total, depois de apuradas e saneadas as divergências apuradas no inventário físico.
+     d) confronto das quantidades de materiais levantadas com os saldos dos registros de controle. As
+     eventuais diferenças devem ser analisadas para identificar suas causas e estabelecidas correções nos
+     procedimentos operacionais padrões. Dependendo da diferença, uma nova recontagem deverá ser
+     efetuada.
+     e) levantamento do código do material, a quantidade em estoque, o valor unitário e o valor total,
+     depois de apuradas e saneadas as divergências apuradas no inventário físico.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Fases do Inventário
+       Levantamento, Arrolamento e Avaliação
+       ❑ O inventário tem as seguintes fases:
+
+       ✓ Levantamento: coleta de dados sobre o patrimônio, tanto no meio físico como no contábil.
+
+       ✓ Arrolamento: registros das características e volumes apurados no levantamento. Pode ser
+         resumido (sintético) ou individualizado (analítico).
+
+       De acordo com a Instrução Normativa 205/1988, o inventário analítico deve contar com os seguintes
+       elementos:
+                  No inventário analítico, para a perfeita caracterização do material, figurarão:
+                  a) descrição padronizada;
+                  b) número de registro;
+                  c) valor (preço de aquisição, custo de produção, valor arbitrado ou preço de avaliação);
+                  d) estado (bom, ocioso, recuperável, antieconômico ou irrecuperável);
+                  e) outros elementos julgados necessários.
+
+       ✓ Avaliação: atribuição de valor aos bens, partindo da dimensão física para a dimensão financeira da
+         questão.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Questão Comentada
+     04. (INSTITUTO MAIS/Pró-Sangue/Auxiliar/2022) A etapa de apuração do inventário físico é definida
+     como o(a):
+     a) levantamento de pessoal necessário à contagem física dos itens estocados com dimensionamento
+     de tempo e da ordem da contagem em cada local.
+     b) contagem, medição ou pesagem, de acordo com as unidades de fornecimento (peças, metro
+     quadrado, quilograma, litros etc.), considerada a mais demorada.
+     c) descrição do material, unidade de fornecimento, quantidade em estoque, valor unitário e o valor
+     total, depois de apuradas e saneadas as divergências apuradas no inventário físico.
+     d) confronto das quantidades de materiais levantadas com os saldos dos registros de controle. As
+     eventuais diferenças devem ser analisadas para identificar suas causas e estabelecidas correções nos
+     procedimentos operacionais padrões. Dependendo da diferença, uma nova recontagem deverá ser
+     efetuada.
+     e) levantamento do código do material, a quantidade em estoque, o valor unitário e o valor total,
+     depois de apuradas e saneadas as divergências apuradas no inventário físico.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (INSTITUTO MAIS/Pró-Sangue/Auxiliar/2022) Sobre inventário físico, analise as
+     proposições abaixo.
+     I. É o processo de verificação não necessariamente in loco dos estoques de produtos,
+     mercadorias e materiais da empresa, através da contagem dos itens existentes.
+     II. Existem dois tipos de inventário: o inventário periódico (anual), realizado no final de
+     cada período contábil e o inventário rotativo, realizado durante o período contábil.
+     III. O inventário periódico é realizado em todos os itens do estoque e o rotativo em um
+     número reduzido de itens.
+     É correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) I e II, apenas.
+     d) II e III, apenas.
+     e) I, II e III.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Os inventários ocorrem sempre que é necessário contar os itens de um almoxarifado. Com a
+         realização do inventário é possível ter certeza que os sistemas em uso na empresa, inclusive o
+         contábil, está refletindo a realidade do estoque físico.
+
+       ❑ Ao longo do inventário os itens são checados e contados fisicamente para que se possa
+         quantificar o estoque como um todo. Feito isso, os resultados são comparados aos registros
+         contábeis, para verificar sua acuracidade e proceder com eventuais ajustes necessários.
+
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente efetuado uma
+         vez ao ano e no qual todos os itens são contados de uma única vez. Em seguida são efetuadas as
+         comparações com os sistemas gerenciais e contábeis da organização.
+
+       ✓ Rotativo ou Cíclico: nesta modalidade alguns itens (os mais significativos, que representam os
+         maiores valores de estoque e são estratégicos e imprescindíveis para a produção) são
+         inventariados mais de uma vez por ano ou sempre que necessário. Não exigem a completa
+         paralização da área inventariada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (INSTITUTO MAIS/Pró-Sangue/Auxiliar/2022) Sobre inventário físico, analise as
+     proposições abaixo.
+     I. É o processo de verificação não necessariamente in loco dos estoques de produtos,
+     mercadorias e materiais da empresa, através da contagem dos itens existentes.
+     II. Existem dois tipos de inventário: o inventário periódico (anual), realizado no final de
+     cada período contábil e o inventário rotativo, realizado durante o período contábil.
+     III. O inventário periódico é realizado em todos os itens do estoque e o rotativo em um
+     número reduzido de itens.
+     É correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) I e II, apenas.
+     d) II e III, apenas.
+     e) I, II e III.
+     GABARITO - D
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRMV MS/Auxiliar/2022) No que se refere à administração de materiais,
+     julgue o item. É necessário o estabelecimento de um sistema de inventário rotativo que
+     possibilite, a qualquer momento, a determinação do valor de cada item e o total dos
+     materiais em estoque.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Os inventários ocorrem sempre que é necessário contar os itens de um almoxarifado. Com a
+         realização do inventário é possível ter certeza que os sistemas em uso na empresa, inclusive o
+         contábil, está refletindo a realidade do estoque físico.
+
+       ❑ Ao longo do inventário os itens são checados e contados fisicamente para que se possa
+         quantificar o estoque como um todo. Feito isso, os resultados são comparados aos registros
+         contábeis, para verificar sua acuracidade e proceder com eventuais ajustes necessários.
+
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente efetuado uma
+         vez ao ano e no qual todos os itens são contados de uma única vez. Em seguida são efetuadas as
+         comparações com os sistemas gerenciais e contábeis da organização.
+
+       ✓ Rotativo ou Cíclico: nesta modalidade alguns itens (os mais significativos, que representam os
+         maiores valores de estoque e são estratégicos e imprescindíveis para a produção) são
+         inventariados mais de uma vez por ano ou sempre que necessário. Não exigem a completa
+         paralização da área inventariada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRMV MS/Auxiliar/2022) No que se refere à administração de materiais,
+     julgue o item. É necessário o estabelecimento de um sistema de inventário rotativo que
+     possibilite, a qualquer momento, a determinação do valor de cada item e o total dos
+     materiais em estoque.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Profissional Nível Superior/2022) No que diz respeito à
+     administração de compras e de produção, julgue o item a seguir. Dadas as características
+     de produção dos derivados de petróleo, o MRPII não representa qualquer agregação de
+     valor quando comparado ao Sistema MRP tradicional.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP e suas variações
+       Vantagens x Desvantagens
+
+                                                                                 Enterprise
+
+                                                                                 Manufacturing
+                                                                                 (FIN+ENG)
+
+                                                                                 Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/PETROBRAS/Profissional Nível Superior/2022) No que diz respeito à
+     administração de compras e de produção, julgue o item a seguir. Dadas as características
+     de produção dos derivados de petróleo, o MRPII não representa qualquer agregação de
+     valor quando comparado ao Sistema MRP tradicional.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FUNDATEC/IF RS/Administrador/2022) Para Dias (2012), existem sistemas de controle
+     de estoques que dão, com certo grau de precisão, os volumes a serem comprados para
+     determinado período. Um dos sistemas de planejamento e controle de materiais mais
+     divulgados é o sistema _________ . Originalmente, conhecido através de Joseph Orlick, e
+     que lida especialmente com suprimento de peças e componentes cujas demandas
+     dependem de determinado produto final. Assinale a alternativa que preenche
+     corretamente a lacuna do trecho acima.
+     a) duas gavetas
+     b) MRP (Materials Requirements Planning)
+     c) dos máximos-mínimos
+     d) das revisões periódicas
+     e) curva ABC
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP e suas variações
+       Vantagens x Desvantagens
+
+                                                                                 Enterprise
+
+                                                                                 Manufacturing
+                                                                                 (FIN+ENG)
+
+                                                                                 Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FUNDATEC/IF RS/Administrador/2022) Para Dias (2012), existem sistemas de controle
+     de estoques que dão, com certo grau de precisão, os volumes a serem comprados para
+     determinado período. Um dos sistemas de planejamento e controle de materiais mais
+     divulgados é o sistema _________ . Originalmente, conhecido através de Joseph Orlick, e
+     que lida especialmente com suprimento de peças e componentes cujas demandas
+     dependem de determinado produto final. Assinale a alternativa que preenche
+     corretamente a lacuna do trecho acima.
+     a) duas gavetas
+     b) MRP (Materials Requirements Planning)
+     c) dos máximos-mínimos
+     d) das revisões periódicas
+     e) curva ABC
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (SELECON/IF RJ/Administrador/2022) A técnica ou modalidade de compras que, a
+     partir de uma lista de materiais, é obtida através da estrutura analítica do produto e
+     permite determinar as necessidades de compras de materiais que serão utilizados na
+     fabricação de determinado produto é a denominada:
+     a) Materiais requirement planning — MRP
+     b) Eletronic data interchange — EDI
+     c) Just-in-time — JIT
+     d) KANBAN
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP e suas variações
+       Vantagens x Desvantagens
+
+                                                                                 Enterprise
+
+                                                                                 Manufacturing
+                                                                                 (FIN+ENG)
+
+                                                                                 Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (SELECON/IF RJ/Administrador/2022) A técnica ou modalidade de compras que, a
+     partir de uma lista de materiais, é obtida através da estrutura analítica do produto e
+     permite determinar as necessidades de compras de materiais que serão utilizados na
+     fabricação de determinado produto é a denominada:
+     a) Materiais requirement planning — MRP
+     b) Eletronic data interchange — EDI
+     c) Just-in-time — JIT
+     d) KANBAN
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (INSTITUTO CONSULPLAN/ISGH HRVJ/Assistente/2022) Analise a imagem a seguir:
+     De acordo as informações anteriores, é correto afirmar que corresponde ao Sistema
+     Integrado:
+
+                                                                (Caiçara Júnior, 2016. Adaptado.)
+
+
+     a) AIC (Automatic Inventory Control / Controle Automático de Estoques)
+     b) MRP (Material Resource Planning / Planejamento de Recursos Materiais)
+     c) ERP (Enterprise Resource Planning / Planejamento de Recursos Empresariais)
+     d) MRP II (Manufacturing Resource Planning / Planejamento de Recursos de Manufatura)
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       MRP e suas variações
+       Vantagens x Desvantagens
+
+                                                                                 Enterprise
+
+                                                                                 Manufacturing
+                                                                                 (FIN+ENG)
+
+                                                                                 Materials
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (INSTITUTO CONSULPLAN/ISGH HRVJ/Assistente/2022) Analise a imagem a seguir:
+     De acordo as informações anteriores, é correto afirmar que corresponde ao Sistema
+     Integrado:
+
+                                                                (Caiçara Júnior, 2016. Adaptado.)
+
+
+     a) AIC (Automatic Inventory Control / Controle Automático de Estoques)
+     b) MRP (Material Resource Planning / Planejamento de Recursos Materiais)
+     c) ERP (Enterprise Resource Planning / Planejamento de Recursos Empresariais)
+     d) MRP II (Manufacturing Resource Planning / Planejamento de Recursos de Manufatura)
+     GABARITO - C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,167 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 26_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '26'
+titulo_aula: INVESTIMENTO EM COLIGADA E EM CONTROLADA
+---
+
+# INVESTIMENTO EM COLIGADA E EM CONTROLADA
+
+INVESTIMENTO EM COLIGADA E EM CONTROLADA
+
+
+                                         LEI 6.404/1976: CONSIDERA-SE CONTROLADA A SOCIEDADE NA QUAL A CONTROLADORA, DIRETAMENTE OU ATRAVÉS DE
+           CONTROLADA                    OUTRAS CONTROLADAS, É TITULAR DE DIREITOS DE SÓCIO QUE LHE ASSEGUREM, DE MODO PERMANENTE, PREPONDERÂNCIA NAS
+                                         DELIBERAÇÕES SOCIAIS E O PODER DE ELEGER A MAIORIA DOS ADMINISTRADORES
+
+                                            CONCEITO                 COLIGADA É A ENTIDADE SOBRE A QUAL O INVESTIDOR TEM INFLUÊNCIA SIGNIFICATIVA.
+
+                                                                                                   INFLUÊNCIA SIGNIFICATIVA É O PODER DE PARTICIPAR NAS DECISÕES DAS
+             COLIGADA                      INFLUÊNCIA SIGNIFICATIVA
+                                                                                                   POLÍTICAS FINANCEIRA OU OPERACIONAL DA INVESTIDA.
+
+
+                                                            A INFLUÊNCIA É PRESUMIDA QUANDO O INVESTIDOR FOR TITULAR DE 20% OU MAIS DO CAPITAL
+                                                            VOTANTE.
+
+                                                                                         SE TIVER MENOS DE 20%, PRESUME-SE QUE NÃO TEM INFLUÊNCIA.
+
+                                                     ATENÇÃO: NÃO HÁ RELAÇÃO DE CONTROLE ENTRE A COLIGADA E A INVESTIDORA.
+
+                                           • REPRESENTAÇÃO NO CONSELHO DE ADMINISTRAÇÃO OU NA DIRETORIA DA INVESTIDA.
+                                           • PARTICIPAÇÃO NOS PROCESSOS DE ELABORAÇÃO DE POLÍTICAS, INCLUSIVE EM DECISÕES SOBRE DIVIDENDOS E OUTRAS
+                                             DISTRIBUIÇÕES.
+EVIDÊNCIAS DE INFLUÊNCIA SIGNIFICATIVA     • OPERAÇÕES MATERIAIS ENTRE O INVESTIDOR E A INVESTIDA.
+                                           • INTERCÂMBIO DE DIRETORES OU GERENTES.
+                                           • FORNECIMENTO DE INFORMAÇÃO TÉCNICA ESSENCIAL.
+                                                                                                                                                 CONTABILIDADE GERAL
+                                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                                           INICIALMENTE É CONTABILIZADO AO CUSTO.
+
+APÓS A AQUISIÇÃO, O SALDO DO INVESTIMENTO É AJUSTADO PARA REFLETIR AS ALTERAÇÕES
+DO PATRIMÔNIO LÍQUIDO DA INVESTIDA.
+
+
+                                                                                                          RECONHECIMENTO DO INVESTIMENTO
+           LUCROS OU PREJUÍZOS SÃO EXEMPLOS DE ALTERAÇÃO NO PL DA INVESTIDA.
+
+A CONTABILIZAÇÃO DOS AJUSTES DEVE CONSIDERAR O PERCENTUAL DE PARTICIPAÇÃO ACIONÁRIA.
+
+      O MEP É APLICADO ÀS COLIGADAS, CONTROLADAS EM                                                    MÉTODO DA EQUIVALÊNCIA PATRIMONIAL
+       CONJUNTO E CONTROLADA (BALANÇO INDIVIDUAL).                                                                  (MEP)
+
+LUCRO REGISTRADO NO PL DA INVESTIDA: DEBITA O INVESTIMENTO E CREDITA GANHO COM
+MEP (RESULTADO).
+
+                                                                                                       LANÇAMENTOS CONTÁBEIS NA INVESTIDORA
+                          AUMENTO O SALDO DO INVESTIMENTO.
+
+PREJUÍZO REGISTRADO NO PL DA INVESTIDA: DEBITA PERDA COM MEP (RESULTADO) E CREDITA
+O INVESTIMENTO.
+
+                           DIMINUI O SALDO DO INVESTIMENTO.
+
+DISTRIBUIÇÃO DE DIVIDENDOS: DEBITA DIVIDENDOS A RECEBER E CREDITA O INVESTIMENTO.
+
+
+                                                                                                                                          CONTABILIDADE GERAL
+                           DIMINUI O SALDO DO INVESTIMENTO.                                            ESTRATÉGIA CONCURSOS
+
+
+---
+
+      SÃO VALORES LANÇADOS DIRETAMENTE NO PATRIMÔNIO LÍQUIDO, SEM AFETAR O
+      RESULTADO DO PERÍODO.
+
+                                                                                                              RESULTADOS ABRANGENTES
+      A PARTICIPAÇÃO DO INVESTIDOR NA VARIAÇÃO DOS OUTROS RESULTADOS ABRANGENTES
+      DA INVESTIDA É RECONHECIDA DE FORMA REFLEXA NO PATRIMÔNIO LÍQUIDO DO
+      INVESTIDOR.
+
+                                                                                                      MÉTODO DA EQUIVALÊNCIA PATRIMONIAL
+                    RESULTADOS NÃO REALIZADOS
+                                                                                                                   (MEP)
+RESULTADOS NÃO REALIZADOS SÃO TRANSAÇÕES ENTRE INVESTIDORA E INVESTIDA.
+   • EXEMPLO: INVESTIDORA VENDE ESTOQUES PARA A COLIGADA.
+   • LÓGICA: A INVESTIDORA E A INVESTIDA SÃO CONSIDERADAS UM ÚNICO GRUPO
+     ECONÔMICO.
+                                                                                                      NA APLICAÇÃO DO MEP, DEVE-SE UTILIZAR A
+TRANSAÇÕES.                                                                                           DEMONSTRAÇÃO CONTÁBIL MAIS RECENTE DA
+    • ASCENDENTES (UPSTREAM): VENDA DA INVESTIDA PARA A INVESTIDORA.                                  COLIGADA, CONTROLADA OU CONTROLADA EM
+    • DESCENDENTES (DOWNSTREAM): VENDA DA INVESTIDORA PARA A INVESTIDA.                               CONJUNTO.
+O RESULTADO É REALIZADO QUANDO O ATIVO É VENDIDO A TERCEIRO.
+
+POR MEIO DO MEP, OS LUCROS NÃO REALIZADOS SÃO ELIMINADOS PARA O CÁLCULO DO
+VALOR DO INVESTIMENTO NO BALANÇO INDIVIDUAL DA INVESTIDORA.
+
+QUANDO AS DEMONSTRAÇÕES DA INVESTIDA FOREM DE DATA DIFERENTE DA DATA USADO PELO INVESTIDOS, AJUSTES DEVEM
+SER FEITOS PARA OS EFEITOS DE TRANSAÇÕES E EVENTOS SIGNIFICATIVAS QUE OCORREM ENTRE AS DATAS.
+
+                                         ATENÇÃO: A DEFASAGEM MÁXIMA ENTRE AS DATAS DE ENCERRAMENTO DAS
+                                      DEMONSTRAÇÕES DA INVESTIDA E DO INVESTIDOR NÃO DEVE SER SUPERIOR A 2 MESES.                 CONTABILIDADE GERAL
+                                                                                               ESTRATÉGIA CONCURSOS
+
+
+---
+
+                        AS DEMONSTRAÇÕES DO INVESTIDOR DEVEM SER ELABORADAS UTILIZANDO PRÁTICAS CONTÁBEIS
+                        UNIFORMES PARA EVENTOS E TRANSAÇÕES DE MESMA NATUREZA EM CIRCUNSTÂNCIAS SEMELHANTES.
+
+  SE A INVESTIDA UTILIZAR PRÁTICAS CONTÁBEIS DIFERENTES
+DAQUELAS ADOTADAS PELO INVESTIDOR, DEVEM SER EFETUADOS
+                                                                                           MÉTODO DA EQUIVALÊNCIA PATRIMONIAL
+ AJUSTES NECESSÁRIOS PARA ADEQUAR AS DEMONSTRAÇÕES
+   CONTÁBEIS DA INVESTIDA ÀS PRÁTICAS CONTÁBEIS DO
+                                                                                                        (MEP)
+                        INVESTIDOR.
+
+                                              O MEP DEVE SER DESCONTINUADO QUANDO O INVESTIMENTO DEIXAR DE SE
+                                              QUALIFICAR COMO COLIGADA, CONTROLADA, OU CONTROLADA EM CONJUNTO.
+
+                                                       PREJUÍZOS - MEP
+
+
+           COLIGADAS: CESSA QUANDO O INVESTIMENTO CHEGAR A ZERO (EXCETO SE EXISTIR OBRIGAÇÃO LEGAL OU CONSTRUTIVA).
+
+           CONTROLADAS: CONTINUA RECONHECENDO O PREJUÍZO MESMO DEPOIS DE ZERAR O INVESTIMENTO.
+
+                                                                                                                       CONTABILIDADE GERAL
+                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                  FÓRMULAS
+
+LUCRO NÃO REALIZADO (LNR) = LUCRO NA VENDA X % DE MERCADORIAS EM ESTOQUE.
+
+OBS.: SE HOUVER INCIDÊNCIA DE IMPOSTO DE RENDA (IR) USAR O RESULTADO DE LNR X (1 - ALÍQUOTA IR).
+
+     COLIGADA               EQUIVALÊNCIA PATRIMONIAL = (LUCRO DA COLIGADA – LNR) X % DA PARTICIPAÇÃO.
+
+    CONTROLADA              EQUIVALÊNCIA PATRIMONIAL = (LUCRO DA CONTROLADA X % DE PARTICIPAÇÃO) – LNR.
+
+
+             ATENÇÃO: PARA O ICPC 09 (R2), APLICA-SE A MESMA REGRA DA COLIGADA (EXCLUI O LNR
+             PELA PARTICIPAÇÃO). MAS ALGUMAS BANCAS COBRAM A REGRA ANTIGA (EXCLUI 100% DO LNR).
+
+
+                                                                                                CONTABILIDADE GERAL
+                                                             ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,7804 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Estatística
+---
+
+# Estatística
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                                                   Estatística
+
+                                                        Autor:
+                                     Equipe Exatas Estratégia
+                                                  Concursos
+
+
+                                            23 de Junho de 2025
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 08
+
+                                                                                     Índice
+1) Introdução - Distribuições Discretas de Probabilidade.
+
+
+2) Distribuição Uniforme.
+
+
+3) Distribuição de Bernoulli.
+
+
+4) Distribuição Binomial.
+
+
+5) Distribuição Geométrica.
+
+
+6) Distribuição Hipergeométrica.
+
+
+7) Distribuição de Poisson.
+
+
+8) Distribuição Binomial Negativa.
+
+
+9) Questões Comentadas - Distribuição Uniforme - FGV
+
+
+10) Questões Comentadas - Distribuição Binomial - FGV
+
+
+11) Questões Comentadas - Distribuição Geométrica - FGV
+
+
+12) Questões Comentadas - Distribuição Hipergeométrica - FGV
+
+
+13) Questões Comentadas - Distribuição de Poisson - FGV
+
+
+14) Questões Comentadas - binomial negativa - FGV
+
+
+15) Lista de Questões - Distribuição Uniforme - FGV
+
+
+16) Lista de Questões - Distribuição Binomial - FGV
+
+
+17) Lista de Questões - Distribuição Geométrica - FGV
+
+
+18) Lista de Questões - Distribuição Hipergeométrica - FGV
+
+
+19) Lista de Questões - Distribuição de Poisson - FGV
+
+
+20) Lista de Questões - binomial negativa - FGV
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                          154
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Olá, concurseiro(a)! Estão aproveitando o curso?
+
+Agora, vamos estudar Distribuições Discretas: aquelas distribuições especiais, como a distribuição binomial,
+que caem bastante em prova. Os conceitos envolvidos são aqueles que vimos na aula de variáveis discretas,
+mas aqui eles são utilizados de maneira diferente. Então, mesmo que você não esteja muito seguro com a
+aula passada, vem comigo, para aprender a resolver questões de distribuições discretas
+
+Até já!
+
+Luana Brandão
+
+Posso te falar um pouquinho sobre mim? Sou Doutora em Engenharia de Produção, pela Universidade Federal
+Fluminense, e Auditora Fiscal da SEFAZ-RJ. Sou professora de Estatística do Estratégia, porque quero muito
+                                                              ==219a34==
+
+ajudá-lo(a) em sua trajetória rumo à aprovação!
+
+                                 Se tiver alguma dúvida, entre em contato comigo!
+
+                professoraluanabrandao@gmail.com
+
+               @professoraluanabrandao
+
+                                       “Quando pensar em desistir, lembre-se da causa pela qual você começou.”
+
+                                                                                            Elias Lima da Silva
+
+          Receita Federal (Analista Tributário) Estatística                                                 3
+          www.estrategiaconcursos.com.br                                                                   154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+            DISTRIBUIÇÕES DISCRETAS DE PROBABILIDADE
+Nesta aula, veremos algumas distribuições específicas de probabilidade, chamadas de Distribuições Teóricas
+ou Distribuições Especiais, que, por serem muito comuns, merecem atenção especial.
+
+Distribuições Uniformes
+
+Distribuições uniformes são aquelas cujos possíveis resultados são equiprováveis, como o lançamento de
+uma moeda equilibrada ou de um dado equilibrado; ou o sorteio de um elemento quando as probabilidades
+de todos os elementos serem sorteados forem iguais.
+
+Para distribuições uniformes, havendo um total de 𝑵 elementos, a probabilidade de cada valor 𝑥 é dada por:
+
+                                                                  1
+                                                      𝑃 (𝑥 ) =
+                                                                  𝑁
+                                                                          1               1
+Por exemplo, a probabilidade de cada face da moeda é 𝑃 = 2 e do dado é 𝑃 = 6.
+
+Visualmente, no gráfico de uma distribuição uniforme, as barras apresentam o mesmo tamanho, como
+representado abaixo, para o exemplo do dado:
+
+                                                 Distribuição Uniforme
+                                                   Dado Equilibrado
+                               20%
+                               15%
+                                       17%      17%         17%   17%         17%   17%
+                               10%
+                                5%
+                                0%
+                                         1        2          3        4        5     6
+
+
+Vamos calcular a esperança dessa distribuição. A fórmula geral da esperança é:
+
+                                                 𝐸(𝑋) = ∑ 𝑥. 𝑃(𝑥)
+
+                     1
+Como 𝑃(𝑋 = 𝑥 ) = 𝑁 para uma distribuição uniforme, então a esperança dessa distribuição é:
+
+                                                                      1
+                                                   𝐸 (𝑋) = ∑ 𝑥.
+                                                                      𝑁
+
+                                                                  ∑𝒙
+                                                      𝑬(𝑿) = 𝑵
+
+        Receita Federal (Analista Tributário) Estatística                                               4
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Ou seja, a esperança da distribuição uniforme corresponde à média aritmética dos valores da variável. Para
+o exemplo do dado, a esperança é:
+
+                                                  1 + 2 + 3 + 4 + 5 + 6 21 7
+                                    𝐸 (𝑋 ) =                           =   =
+                                                            6            6   2
+
+O próximo passo é calcular a variância dessa distribuição. A fórmula da variância é:
+
+                                               𝑉(𝑋) = 𝐸 (𝑋 2 ) − [𝐸(𝑋)]2
+
+Sabemos calcular E(X), então basta elevá-la ao quadrado para calcular [𝐸(𝑋)]2 . Já o valor de 𝐸(𝑋 2 ) é definido
+como:
+
+                                                   𝐸 (𝑋 2 ) = ∑ 𝑥 2 . 𝑃(𝑥)
+
+               1
+Como 𝑃(𝑥 ) = 𝑁 para uma distribuição uniforme, então, para essa distribuição, temos:
+
+
+                                                        2)       2
+                                                                   1 ∑ 𝑥2
+                                              𝐸 (𝑋           = ∑𝑥 . =
+                                                                   𝑁  𝑁
+
+Ou seja, 𝐸 (𝑋 2 ) é a média aritmética dos valores da variável elevados ao quadrado.
+
+Para o exemplo do dado, o valor de 𝐸 (𝑋 2 ) é:
+
+                             12 + 22 + 32 + 42 + 52 + 62 1 + 4 + 9 + 16 + 25 + 36 91
+                𝐸 (𝑋 2 ) =                              =                        =
+                                          6                          6             6
+
+Logo, a variância será a diferença:
+
+                                   2)
+                                                          91   7 2 91 49 182 − 147 35
+                   𝑉 (𝑋 ) = 𝐸 (𝑋        − [𝐸 (𝑋   )]2   =    −( ) =   −   =       =
+                                                          6    2    6   4   12      12
+
+         A maioria das distribuições teóricas conhecidas fazem parte da chamada família
+         exponencial (ex.: binomial, geométrica, hipergeométrica, de Poisson; exponencial,
+         Normal). Uma família é um conjunto de distribuições que apresentam características
+         semelhantes. Para a família exponencial, a função de probabilidade pode ser descrita de
+         forma similar.
+
+         A distribuição uniforme é uma distribuição discreta importante que não pertence à família
+         exponencial.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                    5
+        www.estrategiaconcursos.com.br                                                                      154
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+(2008 – TJ/RO) Uma urna contém dez bolas, cada uma gravada com um número diferente, de 1 a 10. Uma
+bola é retirada da urna aleatoriamente e X é o número marcado nesta bola. X é uma variável aleatória cujo(a)
+a) desvio padrão é 10.
+b) primeiro quartil é 0,25.
+c) média é 5.
+d) distribuição de probabilidades é uniforme.             ==219a34==
+
+e) distribuição de probabilidades é assimétrica.
+Comentários:
+Sabendo que todas as bolas possuem a mesma probabilidade de serem sorteadas, então elas seguem
+distribuição uniforme. Com isso, já sabemos a resposta da questão (D), mas vejamos as demais alternativas.
+Em relação à alternativa C, a média é:
+                                                        ∑𝑥
+                                                   𝜇 = 𝐸 (𝑋 ) =
+                                                         𝑁
+                             1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 55
+                         𝜇=                                        =    = 5,5
+                                               10                    10
+Portanto, a alternativa C está incorreta.
+Em relação à alternativa A, o desvio padrão é a raiz da variância, dada por:
+                                              𝑉(𝑋) = 𝐸 (𝑋 2 ) − [𝐸(𝑋)]2
+Para distribuições uniformes, o valor de 𝐸(𝑋 2 ) é dado por:
+                                                      ∑ 𝑥2
+                                                     𝐸 (𝑋 2 ) =
+                                                       𝑁
+                        1 + 4 + 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100 385
+             𝐸 (𝑋 2 ) =                                              =    = 38,5
+                                              10                       10
+Sabendo que [𝐸 (𝑋)]2 = (5,5)2 = 30,25, a variância é:
+                                   𝑉(𝑋) = 𝐸 (𝑋 2 ) − 𝜇 2 = 38,5 − 30,25 = 8,25
+E o desvio padrão é a raiz quadrada:
+                                            𝜎 = √𝑉(𝑋) = √8,25 ≅ 2,87
+Assim, a alternativa A está incorreta.
+Em relação à alternativa B, sabemos que a probabilidade associada a cada valor é:
+                                                       1   1
+                                                 𝑃=      =   = 10%
+                                                       𝑁 10
+
+
+         Receita Federal (Analista Tributário) Estatística                                                     6
+         www.estrategiaconcursos.com.br                                                                       154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Assim, a função de distribuição acumulada aumenta em 10% para cada unidade:
+
+Observamos que não existe um valor de X = x que corresponda a F(x) = 25% exatamente. O valor superior a
+25% mais próximo é F(x) = 30%, associado a X = 3. Portanto, o primeiro quartil é X = 3.
+Assim, a alternativa B está incorreta.
+Em relação à alternativa D, no gráfico de uma distribuição uniforme, todas as barras apresentam o mesmo
+tamanho. Logo, a distribuição não é assimétrica.
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                            7
+        www.estrategiaconcursos.com.br                                                              154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                             DISTRIBUIÇÃO DE BERNOULLI
+Uma variável aleatória discreta 𝑋 com Distribuição de Bernoulli assume apenas 2 valores possíveis, 0 ou 1,
+em um experimento realizado uma única vez. Esse experimento é chamado de Ensaio de Bernoulli ou
+Experimento de Bernoulli.
+
+Um exemplo clássico dessa distribuição é o lançamento de uma moeda.
+
+Chamamos os resultados possíveis de sucesso (em que a variável assume o valor X = 1) ou fracasso (em que
+a variável assume o valor X = 0). Se estivermos interessados na face CARA, esta representaria o sucesso e
+COROA representaria o fracasso (ou o contrário, se estivéssemos interessados na outra face).
+
+Nesse exemplo, não faz muita diferença qual face corresponde ao sucesso ou ao fracasso, porque a
+probabilidade de ambas é a mesma: 50%.
+
+Agora, vamos considerar que estamos torcendo para que o resultado do lançamento de um dado seja um
+múltiplo de 3. Nesse caso, os resultados 3 e 6 correspondem ao sucesso e os demais resultados
+correspondem ao fracasso.
+
+Assim, teríamos 2 resultados de sucesso (em que X = 1) e 4 resultados de fracasso (em que X = 0). Logo, as
+probabilidades seriam as seguintes:
+
+                                                              2 1
+                                                 𝑃(𝑋 = 1) =    =
+                                                              6 3
+
+                                                              4 2
+                                                 𝑃(𝑋 = 0) =    =
+                                                              6 3
+
+Normalmente, indicamos a probabilidade de sucesso como 𝒑 e a probabilidade de fracasso como 𝒒.
+
+                                                    𝒑 = 𝑃 (𝑋 = 1)
+
+                                                    𝒒 = 𝑃(𝑋 = 0)
+                                   1        2
+Para esse exemplo, temos 𝒑 = e 𝒒 = .
+                                   3        3
+
+Outro exemplo de uma distribuição de Bernoulli é associar o sucesso a apenas uma das faces do dado, por
+exemplo, a face 3. Nesse caso, temos 1 resultado de sucesso (X = 1) e 5 resultados de fracasso (X = 0):
+
+                                                                    1
+                                                 𝒑 = 𝑃 (𝑋 = 1) =
+                                                                    6
+
+                                                                    5
+                                                 𝒒 = 𝑃 (𝑋 = 0) =
+                                                                    6
+
+
+        Receita Federal (Analista Tributário) Estatística                                               8
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Como há apenas 2 resultados possíveis, as probabilidades de sucesso e de fracasso são complementares,
+isto é, a soma dessas 2 probabilidades é igual a 1:
+
+                                                       𝒑+𝒒= 𝟏
+
+                                                       𝒒=𝟏−𝒑
+
+A probabilidade de sucesso 𝒑 é a única informação necessária para caracterizar uma distribuição de
+Bernoulli, uma vez que a probabilidade de fracasso é calculada a partir dela. Por isso, podemos indicar que
+uma variável 𝑋 segue distribuição de Bernoulli como 𝑋~𝐵𝑒𝑟(𝒑).
+
+Esse dado que caracteriza uma distribuição de probabilidade é chamado de parâmetro.
+
+         Um mesmo experimento pode estar associado a variáveis aleatórias com distribuições
+         distintas de probabilidade, dependendo de como você o analisa.
+
+         O lançamento de um dado, por exemplo, pode estar associado a uma variável uniforme,
+         com 6 valores equiprováveis; ou a distribuições de Bernoulli com parâmetros distintos;
+         dentre outras distribuições possíveis.
+
+Agora, vamos calcular a esperança da distribuição de Bernoulli. A fórmula geral da esperança é:
+
+                                              𝐸 (𝑋) = ∑ 𝑥. 𝑃 (𝑋 = 𝑥 )
+
+                                               𝐸 (𝑋 ) = 0 × 𝑞 + 1 × 𝑝
+
+                                                       𝑬(𝑿) = 𝒑
+
+Para calcular a variância, primeiro calculamos 𝐸 (𝑋 2 ):
+
+                                            𝐸 (𝑋 2 ) = ∑ 𝑥 2 . 𝑃 (𝑋 = 𝑥 )
+
+                                             𝐸 (𝑋 2 ) = 02 × 𝑞 + 12 × 𝑝
+
+                                                      𝐸 (𝑋 2 ) = 𝒑
+
+
+        Receita Federal (Analista Tributário) Estatística                                                9
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Logo, a variância é:
+
+                                             𝑉 (𝑋) = 𝐸 (𝑋 2 ) − [𝐸(𝑋)]2
+
+                                            𝑉 (𝑋) = 𝑝 − 𝑝2 = 𝑝(1 − 𝑝)
+
+                                                      𝑽(𝑿) = 𝒑. 𝒒
+
+                                                                                                    1    2
+Para o exemplo do dado, em que o sucesso corresponde a uma face múltipla de 3, vimos que 𝒑 = 3 e 𝒒 = 3.
+Nesse caso, a esperança e a variância são:
+
+                                                                           1
+                                                    𝐸 (𝑋 ) = 𝒑 =
+                                                                           3
+
+                                                                         1 2 2
+                                                            ==219a34==
+
+                                             𝑉(𝑋) = 𝒑. 𝒒 =                × =
+                                                                         3 3 9
+                                                                                                    1    5
+Para o exemplo em que o sucesso corresponde a uma face específica do dado, vimos que 𝒑 = 6 e 𝒒 = 6.
+Nesse caso, a esperança e a variância são:
+
+                                                                           1
+                                                    𝐸 (𝑋 ) = 𝒑 =
+                                                                           6
+
+                                                                         1 5  5
+                                            𝑉 (𝑋) = 𝒑. 𝒒 =                × =
+                                                                         6 6 36
+
+                                            Distribuição de Bernoulli (𝒑)
+
+                                        1 experimento: Ensaio de Bernoulli
+
+                          2 resultados possíveis: sucesso (𝑋 = 1) ou fracasso (𝑋 = 0)
+
+                                     Probabilidade de sucesso: 𝑃 [𝑋 = 1] = 𝒑
+
+                               Probabilidade de fracasso: 𝑃[𝑋 = 0] = 𝒒 = 𝟏 − 𝒑
+
+                           Esperança: 𝐸 (𝑋) = 𝒑;                           Variância: 𝑉(𝑋) = 𝒑. 𝒒
+
+        Receita Federal (Analista Tributário) Estatística                                               10
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+(2017 – SES/DF) Considere o lançamento de um dado cúbico honesto cujas faces são numeradas de 1 a 6,
+após o qual é observado se o número da face voltada para cima é múltiplo de 3. Tendo em vista que um
+experimento como esse pode apresentar apenas dois resultados possíveis (sucesso ou falha), é correto
+afirmar que tal experiência denomina-se distribuição
+a) de Bernoulli.
+b) hipergeométrica.
+c) de Poisson.
+d) normal.
+e) qui-quadrado.
+Comentários:
+A distribuição que trabalha com apenas 2 resultados possíveis (sucesso ou fracasso) para 1 ensaio (no caso,
+1 lançamento do dado) é a distribuição de Bernoulli.
+Gabarito: A.
+
+
+(CESPE/2016 – TCE/PA) Se as variáveis aleatórias X e Y seguem distribuições de Bernoulli, tais que:
+                                               P[X = 1] = P[Y = 0] = 0,9
+Então a média de Y é superior a 0,5.
+Comentários:
+A questão indaga sobre a média (esperança) de Y.
+O enunciado informa que Y segue distribuição de Bernoulli, com probabilidade de fracasso de:
+                                                𝑃(𝑌 = 0) = 𝑞 = 0,9
+Logo, a probabilidade de sucesso é complementar:
+                                                      𝑝+𝑞=1
+                                                 𝑝 = 1 − 0,9 = 0,1
+Assim, a esperança de Y é:
+                                                   𝐸 (𝑌) = 𝑝 = 0,1
+Que é inferior a 0,5.
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                               11
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                  DISTRIBUIÇÃO BINOMIAL
+Quando repetimos um mesmo Ensaio de Bernoulli (isto é, o experimento com 2 resultados possíveis),
+damos origem à Distribuição Binomial.
+
+Para termos uma distribuição binomial, é necessário que a probabilidade de sucesso de cada repetição seja
+a mesma (afinal, estamos repetindo um mesmo Ensaio de Bernoulli).
+
+Além disso, as repetições precisam ser independentes, isto é, o resultado de um experimento não pode
+afetar o resultado de outro.
+
+Os parâmetros dessa distribuição (os dados que a caracterizam) são o número 𝒏 de repetições e a
+probabilidade de sucesso 𝒑. Por isso, podemos indicar que uma variável 𝑋 segue distribuição binomial como
+𝑋~𝐵(𝒏, 𝒑).
+
+        A Distribuição Binomial pode ser considerada a soma de 𝑛 variáveis com Distribuição de
+        Bernoulli independentes, com mesmo parâmetro 𝑝.
+
+        Também é possível formar uma distribuição binomial pela soma de outras distribuições
+        binomiais, com mesmo parâmetro 𝑝.
+
+        Por exemplo, sendo 𝑛𝑋 = 3 o número de repetições da variável 𝑋 e 𝑛𝑌 = 4 o número de
+        repetições da variável 𝑌, então a soma das variáveis 𝑆 = 𝑋 + 𝑌 terá distribuição binomial
+        com o seguinte número de repetições:
+
+                                             𝑛𝑆 = 𝑛𝑋 + 𝑛𝑌 = 4 + 3 = 7
+
+Um exemplo de distribuição binomial é o lançamento de um dado n = 3 vezes, em que o sucesso, corresponde
+à face 6 e o fracasso corresponde às demais faces.
+
+Cada um desses lançamentos corresponde a um Ensaio de Bernoulli, em que podemos obter, em cada um
+deles, sucesso (XBer = 1) ou fracasso (XBer = 0), ou seja, 2 resultados possíveis.
+
+Assim, o número de possíveis resultados para os 3 lançamentos é (princípio multiplicativo de combinatória):
+
+                                                      2x2x2=8
+
+As 8 possibilidades são:
+
+                         {(0,0,0), (0,0,1), (0,1,0), (1,0,0), (0,1,1), (1,0,1), (1,1,0), (1,1,1)}
+
+
+        Receita Federal (Analista Tributário) Estatística                                               12
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A variável X com distribuição binomial representa o número de sucessos obtidos em todos os n lançamentos.
+
+Sabendo que cada sucesso terá valor 1 e que cada fracasso terá valor 0, então o número de sucessos pode
+ser calculado pela soma dos resultados dos Ensaios.
+
+Para o nosso exemplo dos 3 lançamentos, a variável binomial pode assumir os seguintes valores:
+
+   •   X = 0 (nenhum sucesso): {(0,0,0)}
+   •   X = 1 (1 sucesso): {0,0,1), (0,1,0), (1,0,0)}
+   •   X = 2 (2 sucessos): {(0,1,1), (1,0,1), (1,1,0)}
+   •   X = 3 (3 sucessos): {(1,1,1)}
+
+De maneira geral, a variável binomial pode assumir qualquer valor entre 0 e 𝒏.
+
+Agora, vamos calcular a probabilidade de cada valor dessa variável binomial.
+
+A probabilidade de obter a face 6 (sucesso) em um único lançamento é:
+
+                                                                 1
+                                                            𝒑=
+                                                                 6
+
+E a probabilidade de não obter a face 6 (fracasso) em um único lançamento é complementar:
+
+                                                                     5
+                                                   𝒒=1−𝑝 =
+                                                                     6
+
+
+Logo, a probabilidade de ter fracasso nos 𝒏 = 3 lançamentos (0 sucesso: X = 0) corresponde à interseção de
+𝑛 = 3 fracassos. Por serem eventos independentes, a interseção é o produto das probabilidades:
+
+                                                                     5 5 5 125
+                                   𝑃 (𝑋 = 0) = 𝒒 × 𝒒 × 𝒒 =            × × =
+                                                                     6 6 6 216
+
+        Generalizando, para 𝒏 repetições, a probabilidade de ter 0 sucesso (𝒏 fracassos) é:
+
+                                         𝑃(𝑋 = 0) = 𝒒 × 𝒒 × … × 𝒒 = 𝒒𝒏
+                                                             𝒏 vezes
+
+Similarmente, a probabilidade de obter somente sucessos (nenhum fracasso) nos 𝒏 = 3 lançamentos (X = 3)
+corresponde à interseção desses eventos independentes, dada pelo produto:
+
+                                                                     1 1 1  1
+                                  𝑃(𝑋 = 3) = 𝒑 × 𝒑 × 𝒑 =              × × =
+                                                                     6 6 6 216
+
+        Receita Federal (Analista Tributário) Estatística                                              13
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+        Generalizando, para 𝒏 repetições, a probabilidade de ter 𝒏 sucessos (0 fracassos) é:
+
+                                         𝑃(𝑋 = 𝑛) = 𝒑 × 𝒑 × … × 𝒑 = 𝒑𝒏
+                                                            𝒏 vezes
+
+Já, a probabilidade de obter exatamente 1 sucesso (2 fracassos) é igual à probabilidade de obter 1 sucesso
+no primeiro experimento OU 1 sucesso no segundo experimento OU 1 sucesso no terceiro experimento:
+
+                                   𝑃 (𝑋 = 1) = 𝑃({1,0,0} ∪ {0,1,0} ∪ {0,0,1})
+
+Como são eventos mutuamente excludentes, a probabilidade da união desses eventos é a soma dessas
+probabilidades:
+
+            𝑃(𝑋 = 1) = 𝑃({1,0,0} ∪ {0,1,0} ∪ {0,0,1}) = 𝑃 ({1,0,0}) + 𝑃 ({0,1,0}) + 𝑃({0,0,1})
+
+Agora, vamos calcular essas probabilidades para o nosso exemplo:
+
+                                                                1 5 5  25
+                                  𝑃({1,0,0}) = 𝑝 × 𝑞 × 𝑞 =       × × =
+                                                                6 6 6 216
+
+                                                                5 1 5  25
+                                  𝑃({0,1,0}) = 𝑞 × 𝑝 × 𝑞 =       × × =
+                                                                6 6 6 216
+
+                                                                5 5 1  25
+                                  𝑃({0,0,1}) = 𝑞 × 𝑞 × 𝑝 =       × × =
+                                                                6 6 6 216
+
+Como as probabilidades são todas iguais, em vez de somá-las, basta MULTIPLICAR o resultado por 3:
+
+                                                                       25   75
+                                 𝑃 (𝑋 = 1) = 3 × 𝑝 × 𝑞 × 𝑞 = 3 ×          =
+                                                                      216 216
+
+E a probabilidade de obter exatamente 2 sucessos (1 fracasso) é igual à probabilidade de obter 1 fracasso no
+primeiro OU no segundo OU no terceiro experimento:
+
+                                                                5 1 1  5
+                                  𝑃({0,1,1}) = 𝑞 × 𝑝 × 𝑝 =       × × =
+                                                                6 6 6 216
+
+                                                                1 5 1  5
+                                  𝑃({1,0,1}) = 𝑝 × 𝑞 × 𝑝 =       × × =
+                                                                6 6 6 216
+
+                                                                1 1 5  5
+                                  𝑃({1,1,0}) = 𝑝 × 𝑝 × 𝑞 =       × × =
+                                                                6 6 6 216
+
+        Receita Federal (Analista Tributário) Estatística                                                14
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Esses eventos também são mutuamente excludentes, então a probabilidade da união também corresponde
+à soma das probabilidades. Como elas são iguais, podemos multiplicar o resultado por 3:
+
+                                                                           5   15
+                                 𝑃 (𝑋 = 2) = 3 × 𝑝 × 𝑝 × 𝑞 = 3 ×             =
+                                                                          216 216
+
+Generalizando, para 𝒏 repetições, vamos calcular a probabilidade de obter 𝒌 sucessos, digamos, nas
+primeiras 𝒌 tentativas e, portanto, 𝒏 − 𝒌 fracassos nas demais tentativas:
+
+                                 𝑝 × 𝑝 × … × 𝑝 × 𝑞 × 𝑞 × … × 𝑞 = 𝑝𝒌 × 𝑞𝒏−𝒌
+                                     𝒌 vezes                𝒏 − 𝒌 vezes
+
+Porém, a ordem não precisa ser exatamente essa. Podemos obter 𝑘 sucessos em quaisquer 𝑘 tentativas. Por
+isso, devemos multiplicar esse resultado pelo número de maneiras de reorganizar os resultados de sucesso
+e fracasso.
+
+Para isso, podemos simplesmente “escolher” quais serão as tentativas que resultarão em 𝒌 sucessos, pois
+as outras 𝒏 − 𝒌 tentativas serão, necessariamente, fracassos.
+
+O número de maneiras de "escolher" 𝒌 tentativas, dentre 𝒏 tentativas no total, corresponde à combinação
+de 𝒌 elementos, dentre 𝒏:
+
+                                                                 𝑛!
+                                                  𝐶𝒏,𝒌 = (𝑛−𝑘)!×𝑘!
+
+Logo, a probabilidade de ter exatamente 𝑘 sucessos (e, portanto, 𝑛 − 𝑘 fracassos) é o produto da
+probabilidade 𝑝𝒌 × 𝑞𝒏−𝒌 com a combinação 𝐶𝑛,𝑘 .
+
+                                           𝑷(𝑿 = 𝒌) = 𝑪𝒏,𝒌 × 𝒑𝒌 × 𝒒𝒏−𝒌
+
+                                                           𝒏
+A combinação 𝑪𝒏,𝒌 também pode ser indicado por 𝑪𝒌𝒏 ou por ( ).
+                                                           𝒌
+
+        Receita Federal (Analista Tributário) Estatística                                            15
+        www.estrategiaconcursos.com.br                                                               154
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+      Podemos calcular também a probabilidade de um intervalo ou de múltiplos valores da
+      variável binomial.
+
+      Por exemplo, vamos primeiro calcular a probabilidade de obter 1 OU 2 sucessos, em 3
+      lançamentos de uma moeda (com p = q = 0,5). Como são eventos mutuamente exclusivos,
+      devemos somar as probabilidades:
+
+                                 𝑃(𝑋 = 1 ∪ 𝑋 = 2) = 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2)
+
+      A probabilidade de obter 1 sucesso é:
+
+                         𝑃(𝑋 = 1) = 𝐶3,1 × 0,51 × 0,52 = 3 × 0,5 × 0,25 = 0,375
+
+      A probabilidade de obter 2 sucessos é:
+
+                         𝑃(𝑋 = 2) = 𝐶3,2 × 0,52 × 0,51 = 3 × 0,25 × 0,5 = 0,375
+
+      Então, a probabilidade de obter 1 OU 2 sucessos é:
+
+                                 𝑃(𝑋 = 1 ∪ 𝑋 = 2) = 0,375 + 0,375 = 0,75
+
+      Agora, vamos calcular a probabilidade de obter pelo menos um sucesso.
+
+      Em geral, para calcular a probabilidade de "pelo menos um", é mais fácil calcular a
+      probabilidade complementar, isto é, a probabilidade de nenhum:
+
+                                           𝑃(𝑋 ≥ 1) = 1 − 𝑃(𝑋 = 0)
+
+      A probabilidade de obter 0 sucesso é:
+
+                         𝑃(𝑋 = 0) = 𝐶3,0 × 0,53 × 0,50 = 1 × 0,125 × 1 = 0,125
+
+      Logo, a probabilidade de obter pelo menos um sucesso é o complemento:
+
+                                        𝑃(𝑋 ≥ 1) = 1 − 0,125 = 0,875
+
+      Receita Federal (Analista Tributário) Estatística                                     16
+      www.estrategiaconcursos.com.br                                                        154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Também podemos nos referir a uma distribuição binomial como uma amostra de tamanho 𝒏 de uma
+população que segue uma Distribuição de Bernoulli.
+
+Por exemplo, vamos supor uma população de peças, das quais 20% delas são defeituosas. Nesse caso, a
+seleção de uma única peça corresponde a um Ensaio de Bernoulli, pois há 2 resultados possíveis: sucesso
+(peça defeituosa) ou fracasso (peça não defeituosa).
+
+A probabilidade de sucesso desse experimento equivale à proporção de peças defeituosas na população:
+
+                                                   𝑝 = 20% = 0,2
+
+E a probabilidade de fracasso é complementar: 𝑞 = 1 − 𝑝 = 0,8
+
+Suponha que vamos selecionar uma amostra de 𝒏 = 𝟓 peças ao acaso. O número de peças defeituosas
+encontradas na amostra segue uma distribuição binomial com parâmetros 𝑛 = 5 e 𝑝 = 0,2.
+
+Assim, a probabilidade de obter 𝑘 = 3 peças defeituosas (portanto, 𝑛 − 𝑘 = 2 peças não defeituosas) é:
+
+                                          𝑃 (𝑋 = 𝑘 ) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞𝑛−𝑘
+
+                                          𝑃(𝑋 = 3) = 𝐶5,3 × 0,23 × 0,82
+
+A combinação de 3 elementos, dentre 5, é:
+
+                                             5!         5 × 4 × 3! 5 × 4
+                               𝐶5,3 =                 =           =      = 10
+                                        (5 − 3)! × 3!     2! × 3!    2
+
+Logo, a probabilidade de obter 3 é igual a:
+
+                                   𝑃(𝑋 = 3) = 10 × 0,008 × 0,64 = 0,0512
+
+        Para que as seleções sejam independentes (condição necessária para termos uma
+        distribuição binomial), isto é, para que o resultado de uma não influencie no resultado da
+        outra, a proporção de peças defeituosas não pode ser alterada a cada extração.
+
+        Para que essa condição seja satisfeita, temos duas alternativas:
+
+        •   A seleção das peças é feita com reposição, isto é, a peça selecionada é devolvida; ou
+        •   A população é infinita (ou grande o suficiente, em comparação com o tamanho da
+            amostra, para permitir tal aproximação).
+
+        Receita Federal (Analista Tributário) Estatística                                                17
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+(2020 – Universidade do Estado do Pará – Adaptada) Julgue as seguintes afirmações:
+I. As distribuições de Bernoulli e Binomial apresentam as mesmas características e, portanto, os mesmos
+parâmetros.
+II. Repetições independentes de um ensaio de Bernoulli, com a mesma probabilidade de ocorrência de
+“sucesso”, dão origem ao modelo Binomial;
+Comentários:
+Em relação à afirmativa I, o parâmetro de uma distribuição de Bernoulli é a probabilidade de sucesso p; e os
+parâmetros de uma distribuição binomial são a probabilidade de sucesso p e o número de repetições n.
+Portanto, a afirmativa I está errada.
+Em relação à afirmativa II, o modelo Binomial realmente consiste em repetições independentes de um ensaio
+de Bernoulli, com a mesma probabilidade de sucesso p. Logo, a afirmativa II está certa.
+Gabarito: I – Errado; II – Certo.
+
+
+(CESPE/2016 – Auditor de Controle Externo TCE/PA) Considere um processo de amostragem de uma
+população finita cuja variável de interesse seja binária e assuma valor 0 ou 1, sendo a proporção de indivíduos
+com valor 1 igual a p = 0,3.
+Considere, ainda, que a probabilidade de cada indivíduo ser sorteado seja a mesma para todos os indivíduos
+da amostragem e que, após cada sorteio, haja reposição do indivíduo selecionado na amostragem.
+A partir dessas informações, julgue o item subsequente.
+Se for coletada uma amostra de tamanho n = 20, o número total de observações sorteadas com valor 1 terá
+distribuição binomial com parâmetros n e p.
+Comentários:
+A variável binária corresponde a uma distribuição de Bernoulli.
+Coletando uma amostra de tamanho n, então o número de observações com o atributo sucesso corresponde
+a uma variável binomial, com parâmetros n e p.
+Gabarito: Certo.
+
+
+(CESPE/2016 – TCE/PA) Se as variáveis aleatórias X e Y seguem distribuições de Bernoulli, tais que
+                                               P[X = 1] = P[Y = 0] = 0,9
+então X + Y segue uma distribuição binomial com parâmetros n = 2 e p = 0,3, se X e Y forem variáveis
+aleatórias independentes.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   18
+        www.estrategiaconcursos.com.br                                                                     154
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+A distribuição binomial é caracterizada por repetições independentes de Ensaios de Bernoulli, com o mesmo
+parâmetro p.
+O enunciado informa que:
+•    P[X = 1] = 0,9, ou seja, a probabilidade de sucesso de X é p X = 0,9.
+•    P[Y = 0] = 0,9, ou seja, a probabilidade de fracasso de Y é qY = 0,9. Portanto, a probabilidade de sucesso
+     de Y é: pY = 1 – 0,9 = 0,1
+Como pX ≠ pY, então X + Y não segue uma distribuição binomial.
+Gabarito: Errado.
+
+
+(2018 – Câmara de Goiânia) Considere uma variável aleatória X com distribuição binomial e parâmetros p =
+1/3 e n = 4. Qual é a probabilidade de X = 2?
+a) 4/81
+b) 1/9
+c) 2/9
+d) 8/27
+Comentários:
+A probabilidade P(X = k) de uma distribuição binomial é dada por:
+
+                                           𝑃 (𝑋 = 𝑘 ) = 𝐶𝑛,𝑘 . 𝑝𝑘 . (1 − 𝑝)𝑛−𝑘
+
+Para p = 1/3, n = 4 e k = 2, temos:
+
+                                             4!     1 2 2 2 4×3 1 4   8
+                                𝑃 (𝑋 = 2) =       .( ) .( ) =   . . =
+                                            2! .2! 3     3    2 9 9 27
+
+Gabarito: D
+
+
+(2016 – ANAC) Em um determinado município, 70% da população é favorável a um certo projeto. Se uma
+amostra aleatória de cinco pessoas dessa população for selecionada, então a probabilidade de exatamente
+três pessoas serem favoráveis ao projeto é igual a
+a) 40,58%
+b) 35,79%
+c) 42,37%
+d) 30,87%
+e) 37,46%
+Comentários:
+Considerando que a pessoa pode ser favorável ou não (não há outra possibilidade) e que o resultado da
+seleção de uma pessoa não afeta o de outra, então temos uma distribuição binomial.
+
+
+          Receita Federal (Analista Tributário) Estatística                                                 19
+          www.estrategiaconcursos.com.br                                                                   154
+
+                                        
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+Sabemos que:
+•    a proporção de pessoas favoráveis é p = 70% = 0,7 (logo, q = 1 – p = 0,3); e
+•    serão selecionadas n = 5 pessoas.
+Então, a probabilidade de selecionar k = 3 pessoas favoráveis, P(X = 3), é dada por:
+
+                                            𝑃 (𝑋 = 𝑘 ) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞𝑛−𝑘
+
+                                          𝑃 (𝑋 = 3) = 𝐶5,3 × (0,7)3 × (0,3)2
+
+A combinação de 3 elementos, dentre 5, é:
+
+                                               5!         5 × 4 × 3! 5 × 4
+                                 𝐶5,3 =                 =           =      = 10
+                                          (5 − 3)! × 3!     2! × 3!    2
+
+Assim, P(X = 3) é:
+
+                              𝑃 (𝑋 = 3) = 10 × 0,343 × 0,09 = 0,3087 = 30,87%
+
+Gabarito: D
+
+
+(FGV/2018 – ALE/RO) Uma moeda é lançada quatro vezes. A probabilidade de saírem mais caras do que
+coroas é de
+    4
+a) 16
+    5
+b) 16
+    6
+c) 16
+    7
+d) 16
+    8
+e) 16
+Comentários:
+Para saírem mais caras do que coroas em 4 lançamentos de uma moeda, é necessário que saiam 3 OU 4
+caras. Assim, temos uma distribuição binomial com n = 4 e p = ½ (e também q = ½).
+A probabilidade de saírem k = 4 caras (4 sucessos e 0 fracasso) é:
+                                            𝑃 (𝑋 = 𝑘 ) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞𝑛−𝑘
+
+                                                  1 4   1 0      1      1
+                               𝑃(𝑋 = 4) = 𝐶4,4 × ( ) × ( ) = 1 ×    ×1=
+                                                  2     2        16     16
+
+A probabilidade de saírem k = 3 caras (3 sucessos e 1 fracasso) é:
+
+                                                   1 3   1 1     1 1  4
+                                𝑃(𝑋 = 3) = 𝐶4,3 × ( ) × ( ) = 4 × × =
+                                                   2     2       8 2 16
+
+
+          Receita Federal (Analista Tributário) Estatística                                   20
+          www.estrategiaconcursos.com.br                                                      154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Portanto, a probabilidade de obter 3 OU 4 caras, sabendo que são eventos mutuamente exclusivos, é:
+                                                                   1   4   5
+                                        𝑃 (𝑋 = 4) + 𝑃(𝑋 = 3) =       +   =
+                                                                   16 16 16
+Gabarito: B.
+
+
+(VUNESP/2019 – TJ/SP) Em uma eleição, sabe-se que 40% dos eleitores são favoráveis ao candidato X e o
+restante ao candidato Y. Extraindo uma amostra aleatória, com reposição, de tamanho 3 da população de
+eleitores, obtém-se que a probabilidade de que no máximo 1 eleitor da amostra seja favorável ao candidato
+X é igual a
+a) 35,2%
+b) 64,8%
+c) 36,0%
+d) 43,2%.
+e) 78,4%
+Comentários:
+O enunciado informa que 40% dos eleitores são favoráveis a X (sucesso) e que os demais são favoráveis a Y
+(fracasso), ou seja, a seleção de uma pessoa ao acaso segue distribuição de Bernoulli.
+Logo, a seleção de 3 pessoas com reposição (seleções independentes) configura uma distribuição binomial
+com n = 3 e p = 0,4 (q = 1 – p = 0,6).
+Nessa distribuição, a probabilidade de encontrar k sucessos é dada por:
+
+                                             𝑷(𝑿 = 𝒌) = 𝑪𝒏,𝒌 × 𝒑𝒌 × 𝒒𝒏−𝒌
+
+A probabilidade de obter no máximo 1 eleitor favorável corresponde a obter 0 ou 1 sucesso:
+
+                                               𝑷 = 𝑷(𝑿 = 𝟎) + 𝑷(𝑿 = 𝟏)
+
+Para k = 0, temos:
+
+                              𝑃 (𝑋 = 0) = 𝐶3,0 × 0,40 × 0,63 = 1 × 1 × 0,36 = 0,216
+
+Para k = 1, temos:
+
+                             𝑃 (𝑋 = 1) = 𝐶3,1 × 0,41 × 0,62 = 3 × 0,4 × 0,36 = 0,432
+
+Assim, a probabilidade desejada é:
+
+                            𝑷(𝑿 = 𝟎 ∪ 𝑿 = 𝟏) = 𝟎, 𝟐𝟏𝟔 + 𝟎, 𝟒𝟑𝟐 = 𝟎, 𝟔𝟒𝟖 = 𝟔𝟒, 𝟖%
+
+Gabarito: B
+
+           Receita Federal (Analista Tributário) Estatística                                          21
+           www.estrategiaconcursos.com.br                                                             154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Esperança e Variância
+
+E quanto à esperança dessa distribuição?
+
+Vamos considerar o experimento de lançar uma moeda 100 vezes. Quantos resultados “CARA” você espera?
+50, certo? Qual é a intuição por trás desse valor?
+
+Se a probabilidade de sucesso é 𝒑 e se estamos realizando esse experimento 𝒏 vezes, espera-se que o
+número de sucessos obtidos mantenha essa proporção. Ou seja, o valor esperado é:
+
+                                                     𝑬(𝑿) = 𝒏 × 𝒑
+
+                                                                       1
+Para o exemplo dos 3 lançamentos de uma moeda, temos 𝒑 = 2 e 𝒏 = 3. Então, o número de vezes que
+esperamos obter a face CARA é:
+
+                                                               1 3
+                                        𝐸 (𝑋 ) = 𝑛 × 𝑝 = 3 ×    = = 1,5
+                                                               2 2
+
+Mas esse valor não é inteiro!
+
+Tudo bem! Algumas vezes obteremos mais CARAS, outras vezes menos, de modo que, em média, obteremos
+1,5 CARA.
+
+E a variância da distribuição binomial? A sua fórmula é:
+
+                                                  𝑽(𝑿 ) = 𝒏 × 𝒑 × 𝒒
+
+                                          1
+Para esse mesmo exemplo, com 𝒒 = 2, a variância é:
+
+                                                              1 1 3
+                                  𝑉 (𝑋 ) = 𝑛 × 𝑝 × 𝑞 = 3 ×     × = = 0,75
+                                                              2 2 4
+
+E o desvio padrão é a raiz quadrada da variância:
+
+                                               𝑫𝑷(𝑿) = √𝒏 × 𝒑 × 𝒒
+
+        Receita Federal (Analista Tributário) Estatística                                        22
+        www.estrategiaconcursos.com.br                                                           154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+        A combinação de 𝑘 elementos, dentre 𝑛, é igual à combinação de 𝑛 − 𝑘 elementos, dentre
+        𝑛: 𝐶𝑛,𝑘 = 𝐶𝑛,𝑛−𝑘 .
+
+        Ou seja, o número de maneiras de obter 0 sucesso é igual ao de obter 𝑛 sucessos; o número
+        de maneiras de obter 1 sucesso é igual ao de obter 𝑛 − 1 sucessos; etc.
+
+        Assim, se tivermos 𝒑 = 𝒒, a probabilidade de obter 0 sucesso será igual à probabilidade
+        de obter 𝑛 sucessos; a probabilidade de obter 1 sucesso será igual à de 𝑛 − 1 sucessos etc.
+
+        Portanto, temos uma distribuição simétrica se 𝒑 = 𝒒, isto é, se 𝒑 = 𝒒 = 𝟎, 𝟓, conforme
+        ilustrado a seguir.
+
+        Quando a probabilidade de sucesso for maior 𝒑 > 𝟎, 𝟓, teremos uma distribuição
+        assimétrica negativa, conforme ilustrado a seguir.
+
+        Analogamente, quando a probabilidade de sucesso for menor 𝒑 < 𝟎, 𝟓, teremos uma
+        distribuição assimétrica positiva, conforme ilustrado a seguir.
+
+Apesar de a distribuição binomial ser assimétrica sempre que 𝑝 ≠ 0,5, sempre que o produto 𝑛 × 𝑝 for um
+número inteiro, esse será o valor da média, da mediana e da moda!
+
+        Receita Federal (Analista Tributário) Estatística                                             23
+        www.estrategiaconcursos.com.br                                                                154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                                Distribuição Binomial (𝒏, 𝒑)
+
+                      𝒏 Ensaios de Bernoulli independentes, com probabilidade de sucesso 𝒑
+
+                                                𝑃(𝑋 = 𝑘 ) = 𝐶𝒏,𝑘 . 𝒑𝑘 . 𝒒𝒏−𝑘
+
+                             Esperança: 𝐸 (𝑋) = 𝒏. 𝒑;              Variância: 𝑉(𝑋) = 𝒏. 𝒑. 𝒒
+
+Observe que:
+
+       •   A esperança da binomial é igual a 𝒏 vezes a esperança da Bernoulli; e
+       •   A variância da binomial é igual a 𝒏 vezes a variância da Bernoulli.
+
+                                             𝑬(𝑿𝑩𝒊𝒏𝒐𝒎𝒊𝒂𝒍) = 𝒏. 𝑬(𝑿𝑩𝒆𝒓𝒏𝒐𝒖𝒍𝒍𝒊)
+
+                                             𝑽(𝑿𝑩𝒊𝒏𝒐𝒎𝒊𝒂𝒍 ) = 𝒏. 𝑽(𝑿𝑩𝒆𝒓𝒏𝒐𝒖𝒍𝒍𝒊 )
+
+(2019 – Universidade Federal do Acre) Seja X uma variável aleatória com distribuição binomial de
+parâmetros n e p. Então, pode-se dizer que a variância de X é dado por.
+a) n
+b) n.p
+c) n.p(1 – p).
+d) n.p2
+e) n.p2(1 – p)
+
+           Receita Federal (Analista Tributário) Estatística                                   24
+           www.estrategiaconcursos.com.br                                                      154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+A variância de uma variável com distribuição binomial é dada por:
+                                            𝑉(𝑋) = 𝑛. 𝑝. 𝑞 = 𝑛. 𝑝. (1 − 𝑝)
+Gabarito: C
+
+
+(CESPE/2013 – TRT 17ª Região) Em toda distribuição binomial, a média será menor que a variância.
+Comentários:
+Em uma distribuição binomial, a média é E(X) = n.p e a variância V(X) = n.p.q.
+Como q < 1 (por ser uma probabilidade), então:
+                                                V(X) = n.p.q < n.p.1 = E(X)
+Portanto, a média é sempre maior que a variância.
+Gabarito: Errado.
+
+
+(2016 – IBGE) Quando um pesquisador vai a campo e aborda pessoas na rua para serem entrevistadas, o
+número de pessoas que aceita responder à pesquisa segue uma distribuição binomial.
+Se o valor esperado dessa distribuição é 8, e sua variância é 1,6, então a probabilidade de uma pessoa aceitar
+responder à pesquisa é de
+a) 1,6%
+b) 16%
+c) 20%
+d) 50%
+e) 80%
+Comentários:
+O enunciado informa que o valor esperado de uma variável com distribuição binomial é E(X) = 8.
+Sabendo que, para uma distribuição binomial, temos E(X) = n.p, então:
+                                                    𝐸 (𝑋) = 𝑛. 𝑝 = 8
+                                                               8
+                                                          𝑛=
+                                                               𝑝
+O enunciado informa, ainda, que a variância é V(X) = 1,6.
+Sabemos que:
+                                    𝑉 (𝑋) = 𝑛. 𝑝. 𝑞 = 𝑛. 𝑝. (1 − 𝑝) = 𝑛. 𝑝 − 𝑛. 𝑝2
+Então:
+                                               𝑉(𝑋) = 𝑛. 𝑝 − 𝑛. 𝑝2 = 1,6
+
+          Receita Federal (Analista Tributário) Estatística                                                25
+          www.estrategiaconcursos.com.br                                                                  154
+
+                                        
+
+
+---
+
+       Equipe Exatas Estratégia Concursos
+       Aula 08
+
+                              8
+Considerando que 𝑛 = , temos:
+                              𝑝
+
+                                                            8      8
+                                                 𝑉 (𝑋 ) =     . 𝑝 − . 𝑝2 = 1,6
+                                                            𝑝      𝑝
+                                                         8 − 8. 𝑝 = 1,6
+                                                            8. 𝑝 = 6,4
+                                                        𝑝 = 0,8 = 80%
+Gabarito: E.
+
+
+(FCC/2014 – Auditor Fiscal da SEFAZ/RJ) Sabe-se que:
+I.          X é uma variável aleatória com distribuição binomial com média 2p e variância (2p-2p2).
+II.         Y é uma variável aleatória com distribuição binomial com média 5p e variância (5p-5p2).
+                                                                 ==219a34==
+
+III.        A probabilidade de X ser inferior a 2 é igual a 15/16.
+Nessas condições, a probabilidade de Y ser superior a 3 é igual a
+a) 3/1.024
+b) 1/64
+c) 5/512
+d) 15/1.024
+e) 7/512
+Comentários:
+Sendo X uma variável com distribuição binomial, com média 2p, então:
+                                                         E(X) = nX.p = 2p
+                                                                     nX = 2
+O enunciado informa que a probabilidade de X ser inferior a 2 é P(X < 2) = 15/16, isto é:
+                                             P(X < 2) = P(X = 0) + P(X = 1) = 15/16
+Sabendo que a probabilidade da distribuição binomial é 𝑃(𝑋 = 𝑘 ) = 𝐶𝑛,𝑘 . 𝑝𝑘 . 𝑞𝑛−𝑘 , então para n = 2, temos:
+
+                                  𝑃(𝑋 = 0) = 𝐶2,0 . 𝑝0 . 𝑞2 = 1 × 1 × 𝑞2 = 𝑞2 = (1 − 𝑝)2
+
+                                     𝑃(𝑋 = 1) = 𝐶2,1 . 𝑝1 . 𝑞1 = 2. 𝑝. 𝑞 = 2. 𝑝. (1 − 𝑝)
+
+Sabendo que a soma dessas probabilidades é igual a 15/16, então:
+                                                                        15
+                                                (1 − 𝑝)2 + 2. 𝑝. (1 − 𝑝) =
+                                                                        16
+                                                                         15
+                                              1 − 2𝑝 + 𝑝2 + 2. 𝑝 − 2𝑝2 =
+                                                                         16
+                                                                 15
+                                                      1 − 𝑝2 =
+                                                                 16
+
+
+             Receita Federal (Analista Tributário) Estatística                                             26
+             www.estrategiaconcursos.com.br                                                               154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                                    15    1
+                                                  𝑝2 = 1 −
+                                                       =
+                                                    16 16
+Extraindo a raiz de ambos os lados da equação, sabendo que 𝑝 ≥ 0, temos:
+                                                     1
+                                                             𝑝=
+                                                     4
+Sabendo que, para Y, temos E(Y) = 5.p, então o número n de repetições de Y é:
+                                                     E(Y) = nY.p = 5p
+                                                             nY = 5
+A probabilidade de Y ser superior a 3 corresponde à probabilidade de Y ser igual 4 OU igual a 5:
+                                        𝑃(𝑌 > 3) = 𝑃 (𝑌 = 4) + 𝑃(𝑌 = 5)
+Sabendo que p = ¼ (logo q = 1 – p = ¾) e nY = 5, temos:
+                                                                      1
+                                                 1 4   3        1 3   15
+                             𝑃 (𝑌 = 4) = 𝐶5,4 × ( ) × ( ) = 5 × 4 × =
+                                                 4     4       4   4 1024
+                                                                      0
+                                                1 5 3     1         1
+                           (      )
+                         𝑃 𝑌 = 5 = 𝐶5,5 × ( ) × ( ) = 1 × 5 × 1 =
+                                                4   4    4        1024
+Assim, a probabilidade de Y ser superior a 3 é:
+                                                     15    1   16    1
+                                     𝑃 (𝑌 > 3) =        +    =     =
+                                                    1024 1024 1.024 64
+Gabarito: B
+
+
+(FGV/2022 – TCU) A média e a variância de uma distribuição binomial são, respectivamente, 20 e 4. O
+número de ensaios (n) dessa distribuição é:
+a) 20
+b) 22
+c) 25
+d) 50
+e) 100
+Comentários:
+Segundo o enunciado, a média de uma distribuição binomial é igual a 20 e a variância é igual a 4:
+                                                 𝐸(𝑋) = 𝑛 × 𝑝 = 20
+                                                𝑉 (𝑋 ) = 𝑛 × 𝑝 × 𝑞 = 4
+A fórmula da variância é igual à da esperança, multiplicada por 𝑞:
+                                           𝑉 (𝑋) = 𝑛 × 𝑝 × 𝑞 = 𝐸(𝑋) × 𝑞
+                                                       𝐸(𝑋)
+Sabendo que E(X) = 20 e que V(X) = 4, podemos calcular a probabilidade de fracasso:
+                                                 𝑉(𝑋) = 20 × 𝑞 = 4
+
+
+         Receita Federal (Analista Tributário) Estatística                                          27
+         www.estrategiaconcursos.com.br                                                             154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                                            4   1
+                                                     𝑞=       =
+                                                            20 5
+A probabilidade de sucesso é complementar:
+                                                      1 4
+                                              𝑝 =1−𝑞 =1−
+                                                       =
+                                                      5 5
+Sabendo que 𝐸 (𝑋) = 𝑛 × 𝑝 = 20, podemos calcular o número n de ensaios:
+                                                        4
+                                                𝐸 (𝑋 ) = 𝑛 ×
+                                                          = 20
+                                                        5
+                                             20       5 100
+                                          𝑛=    = 20 × =       = 25
+                                              4       4    4
+                                              5
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Estatística                  28
+        www.estrategiaconcursos.com.br                                     154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                               DISTRIBUIÇÃO GEOMÉTRICA
+Assim como a distribuição binomial, a distribuição geométrica também se baseia em Ensaios de Bernoulli
+independentes com a mesma probabilidade de sucesso 𝒑.
+
+Porém, a variável com distribuição geométrica corresponde ao número de ensaios até o primeiro sucesso.
+
+Por exemplo, suponha que iremos lançar um dado até obter a face 6, que será o nosso sucesso. Essa
+distribuição estuda, nesse caso, o número de lançamentos que teremos que efetuar até obtermos essa face
+pela primeira vez.
+
+Assim, se o valor da variável for 𝑋 = 1, teremos realizado 1 ensaio (ou tentativa) até a obtenção do primeiro
+sucesso; se o valor for 𝑋 = 2, teremos realizado 2 ensaios até a obtenção do primeiro sucesso, ...
+
+De maneira geral, 𝑋 = 𝑘 corresponde à realização de 𝒌 ensaios até o primeiro sucesso.
+
+Portanto, a probabilidade 𝑃(𝑋 = 𝑘), equivale à probabilidade de se obter, nesta ordem, 𝒌 − 𝟏 fracassos e,
+na 𝑘-ésima tentativa, 1 sucesso. Ou seja, temos a interseção desses eventos independentes.
+
+Assim, considerando que a probabilidade de cada fracasso é 𝒒 e a probabilidade do sucesso é 𝒑, então a
+probabilidade 𝑃(𝑋 = 𝑘) é o produto das probabilidades:
+
+                                           𝑃(𝑋 = 𝑘 ) = 𝒒. 𝒒. 𝒒. 𝒒. … . 𝒒. 𝒑
+                                                            𝒌 − 𝟏 fracassos
+
+                                                 𝑷(𝑿 = 𝒌) = 𝒒𝒌−𝟏 . 𝒑
+
+                                                                                                           𝟏
+Por exemplo, sabendo que a probabilidade de obtermos uma determinada face do dado (sucesso) é 𝒑 = 𝟔,
+                                                                 𝟓
+e que a probabilidade de não a obter (fracasso) é 𝒒 = , então a probabilidade de efetuarmos 𝒌 = 𝟑
+                                                        𝟔
+lançamentos do dado até obtermos o primeiro sucesso (ou seja, obtermos fracasso nas 2 primeiras tentativas
+e sucesso na 3ª) é:
+
+                                                    5 2 1  25
+                                            (   )
+                                           𝑃 𝑋=3 = ) × =
+                                                  (
+                                                    6   6 216
+
+Observe que, conhecendo 𝑝 (e, portanto, 𝑞 = 1 − 𝑝), podemos calcular a probabilidade de qualquer valor
+de X, isto é, toda a distribuição de probabilidade da variável. Portanto, o único parâmetro da distribuição
+geométrica é a probabilidade de sucesso 𝒑 e, assim, representamos essa distribuição por 𝑋~𝐺𝑒𝑜(𝑝).
+
+        Receita Federal (Analista Tributário) Estatística                                                 29
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+É importante pontuar que é sempre possível ter que realizar o experimento mais uma vez até obter o
+primeiro sucesso. Por exemplo, no lançamento de um dado, com 𝑝 = 1⁄6, seria possível termos que lançar
+o dado 10 vezes até obter a face desejada? Sim! A probabilidade dessa situação seria:
+
+                                                      5 9 1
+                                         𝑃(𝑋 = 10) = ( ) × ≅ 3,2%
+                                                      6   6
+
+E 50 vezes? Seria possível? Pode ser improvável, mas possível é, com a seguinte probabilidade:
+
+                                         𝑃(𝑋 = 50) = 𝑞49 . 𝑝 ≅ 0,0018%
+
+Ou seja, não há limite para a variável com distribuição geométrica – ela é uma variável discreta, mas infinita.
+A variável pode assumir qualquer valor no intervalo [1, ∞) – ela não pode ser menor que um, pois, no
+mínimo, faremos 1 lançamento para obter 1 sucesso.
+                                                            ==219a34==
+
+         Para calcular a probabilidade de a variável assumir um número maior ou igual a 𝒌, pela
+         probabilidade complementar:
+
+                                             𝑃 ( 𝑋 ≥ 𝑘 ) = 1 − 𝑃 (𝑋 < 𝑘 )
+
+         A probabilidade 𝑃 (𝑋 < 𝑘 ) pode ser calculada pela soma:
+
+                           𝑃(𝑋 < 𝑘 ) = 𝑃(𝑋 = 1) + 𝑃 (𝑋 = 2) + ⋯ + 𝑃(𝑋 = 𝑘 − 1)
+
+         Por exemplo, a probabilidade de precisar de pelo menos 3 tentativas até obter
+         determinada face do dado (sucesso) pode ser calculada como:
+
+                                     𝑃(𝑋 ≥ 3) = 1 − 𝑃(𝑋 = 1) − 𝑃(𝑋 = 2)
+
+         A probabilidade de obter sucesso na 1ª tentativa é:
+
+                                                                             5 0   1        1
+                                              𝑃(𝑋 = 1) = (6) × 6 = 6
+
+         A probabilidade de obter sucesso na 2ª tentativa é:
+
+                                                                             5 1   1        5
+                                             𝑃(𝑋 = 2) = (6) × 6 = 36
+
+         Assim, a probabilidade de precisar de pelo menos 3 tentativas é:
+
+                                                                         1    5    36−6−5         25
+                                      𝑃(𝑋 ≥ 3) = 1 − 6 − 36 =                                   = 36
+                                                                                       36
+
+        Receita Federal (Analista Tributário) Estatística                                                   30
+        www.estrategiaconcursos.com.br                                                                     154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Esperança e Variância
+
+Vamos deixar a nossa imaginação fluir! No caso da moeda, sabendo que há 50% de chance de o resultado
+ser CARA, quantas vezes você espera lançar a moeda até obter a face CARA? 2, certo? (Se a sua intuição não
+concorda comigo, não se preocupe!)
+
+De modo geral, para uma variável geométrica com probabilidade de sucesso 𝑝, temos:
+
+                                                                      1
+                                                       𝐸 (𝑋) = 𝒑
+
+E a variância é:
+
+                                                                      𝒒
+                                                       𝑉 (𝑋) = 𝒑2
+
+                                                                                                  1
+Para o exemplo do dado, o número esperado de lançamentos até obter determinada face, com 𝑝 = 6 é:
+
+                                                                  1
+                                                       𝐸 (𝑋 ) =
+                                                                  𝑝
+
+                                                             1    6
+                                               𝐸 (𝑋 ) =        =1× =6
+                                                             1    1
+                                                             6
+
+                                               5
+E a variância, sabendo que 𝑞 = 1 − 𝑝 = , é:
+                                               6
+
+                                                                  𝑞
+                                                       𝑉 (𝑋 ) =
+                                                                  𝑝2
+
+                                             5
+                                                  5   6 2
+                                     𝑉 (𝑋) = 6 2 = × ( ) = 5 × 6 = 30
+                                             1    6   1
+                                            (6)
+
+         Receita Federal (Analista Tributário) Estatística                                             31
+         www.estrategiaconcursos.com.br                                                                154
+
+                                       
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+      É possível parametrizar a variável geométrica de uma outra maneira: a variável Y pode
+      corresponder ao número de fracassos até o primeiro sucesso.
+
+      Ou seja, sendo Y = 3 temos 3 fracassos até o primeiro sucesso (obtido na 4ª tentativa).
+
+      Com essa parametrização a variável pode assumir os valores 𝑌 = {0,1,2,3, . . . }, incluindo o
+      valor zero, uma vez que é possível obter sucesso na 1ª tentativa.
+
+      Nessa situação, a probabilidade de 𝑌 = 𝑘 é calculada como:
+
+                                                 𝑃 (𝑌 = 𝑘 ) = 𝑞 𝑘 . 𝑝
+
+      Ou seja, elevamos a probabilidade de fracasso a 𝑘, e não a 𝑘 − 1, como antes.
+
+      Com essa parametrização, a variância é a mesma!
+                                                                𝑞
+                                                      𝑉 (𝑌 ) = 𝑝 2
+
+      Mas a esperança é um pouco diferente:
+                                                                𝑞
+                                                      𝐸 (𝑌 ) = 𝑝
+
+      Como as probabilidades dessa parametrização são 𝑞 vezes as probabilidades da outra, a
+      esperança dessa parametrização corresponde à esperança da outra parametrização,
+      multiplicada por 𝒒.
+
+                                          Distribuição Geométrica (𝒑)
+
+                          Número de Ensaios de Bernoulli até o primeiro sucesso
+
+                                               𝑃(𝑋 = 𝑘 ) = 𝒒𝒌−𝟏 . 𝒑
+                                                  1                                    𝒒
+                          Esperança: 𝐸 (𝑋) = 𝒑;                      Variância: 𝑉(𝑋) = 𝒑2
+
+      Receita Federal (Analista Tributário) Estatística                                               32
+      www.estrategiaconcursos.com.br                                                                  154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+(2018 – IPM) Marque a alternativa correta em relação ao modelo probabilístico que mais se adequa ao
+seguinte caso: lançamento de uma moeda honesta, contando o número de casos até a realização da primeira
+coroa:
+a) Poisson.
+b) Geométrica.
+c) Hipergeométrica.
+d) Uniforme Discreta.
+e) Pareto.
+Comentários:
+Ensaios sucessivos e independentes de Bernoulli até o primeiro sucesso caracterizam a distribuição
+geométrica.
+Gabarito: B
+
+
+(2018 – IPM) Sabe-se que a distribuição geométrica pode ser interpretada como uma sequência de ensaios
+de Bernoulli, independentes, até a ocorrência do primeiro sucesso. Assinale a alternativa que indica
+corretamente a média e a variância, respectivamente, de uma distribuição geométrica cujo parâmetro é p =
+0,64 e tendo como parametrização o número de ensaios de Bernoulli até se obter um sucesso.
+a) 1,56; 0,78
+b) 1,56; 0,88
+c) 0,56; 0,88
+d) 0,56; 0,78
+e) 1,56; 0,68
+Comentários:
+A média de uma distribuição geométrica, com p = 0,64, é dada por:
+                                                            1   1
+                                          𝜇 = 𝐸 (𝑋 ) =        =    ≅ 1,56
+                                                            𝑝 0,64
+E, sabendo que q = 1 – 0,64= 0,36, a variância é:
+                                                   𝑞   0,36
+                                            𝜎2 =     =        ≅ 0,88
+                                                   𝑝2 (0,64)2
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Estatística                                            33
+        www.estrategiaconcursos.com.br                                                               154
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+(FGV/2017 – Prefeitura de Salvador) Abel tem uma moeda que dá “cara” com probabilidade 1/2 e Breno
+tem uma moeda que dá “cara” com probabilidade 1/3. Abel e Breno lançam suas respectivas moedas,
+alternadamente. O primeiro que obtiver “cara”, ganha. Abel é o primeiro a lançar, e os lançamentos são
+todos independentes.
+A probabilidade de Abel ganhar no seu terceiro lançamento é de:
+     1
+a) 2
+     1
+b) 3
+     1
+c) 4
+     1
+d) 8
+     1
+e)
+     18
+
+Comentários:
+A probabilidade de Abel, que é o primeiro a lançar, ganhar em seu 3º lançamento corresponde a ele obter
+CARA exatamente em seu 3º lançamento E Breno obter COROA em seus 1º e 2º lançamentos.
+                                                                                       1
+O enunciado informou que a probabilidade de Abel obter CARA (sucesso) é 𝑝 = 2, logo a probabilidade de
+                                                                 1
+obter COROA (fracasso) é complementar 𝑞 = 1 − 𝑝 = 2.
+Assim, a probabilidade de Abel obter CARA (sucesso) exatamente no 3º lançamento corresponde a uma
+distribuição geométrica com 𝑘 = 3:
+                                                   𝑃(𝑋 = 𝑘 ) = 𝑞𝑘−1 . 𝑝
+                                                                  1 2 1 1
+                                      𝑃(𝐴) = 𝑃(𝑋 = 3) = 𝑞2 . 𝑝 = ( ) × =
+                                                                  2   2 8
+                                                                                       1
+O enunciado informou que a probabilidade de Breno obter CARA (sucesso) é 𝑝 = 3, logo a probabilidade de
+                                                                 2
+obter COROA (fracasso) é complementar 𝑞 = 1 − 𝑝 = 3.
+Assim, a probabilidade de Breno obter COROA no 1º E 2º lançamentos é:
+                                                    2 2 4
+                                                𝑃(𝐵) = 𝑞. 𝑞 =
+                                                     × =
+                                                    3 3 9
+Portanto, a probabilidade de Abel ganhar no 3º lançamento corresponde à interseção desses 2 eventos
+(produto das probabilidades):
+                                                               1 4   1    1
+                                         𝑃 ( 𝐴 ) × 𝑃 (𝐵 ) =     × =     =
+                                                               8 9 2 × 9 18
+Gabarito: E
+
+
+(CESPE/2016 – TCE/PA) Considere que Y seja uma variável aleatória geométrica que representa o número
+de erros cometidos por um atendente no preenchimento de formulários e que a função de probabilidade de
+Y seja definida por P(Y = k) = 0,9 × (0,1)k, em que k = 0, 1, 2, ... A partir dessas informações, julgue o item que
+se segue.
+O desvio padrão da variável Y é inferior a 1.
+
+
+           Receita Federal (Analista Tributário) Estatística                                                    34
+           www.estrategiaconcursos.com.br                                                                      154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+Observa-se que a questão apresenta a segunda forma de parametrização da distribuição geométrica, da
+forma: P(Y = k) = qk.p, com k = 0, 1, 2,..., sendo q = 0,1 e p = 0,9.
+A variância (que não se altera com o tipo de parametrização) é dada por:
+                                                  𝑞      0,1      0,1   10
+                                        𝑉(𝑋) =      2
+                                                      =       2
+                                                                =     =
+                                                  𝑝     (0,9)     0,81 81
+O desvio padrão, raiz quadrada da variância, é dado por:
+                                                            √10
+                                            𝜎 = √𝑉(𝑋) =         ≅ 0,35
+                                                             9
+Gabarito: Certo.
+
+
+(CESPE/2019 – TJ-AM/Analista Judiciário) É igual a 3/4 a probabilidade de determinado advogado conseguir
+decisão favorável a si em cada petição protocolada por ele na vara cível de certo tribunal. O plano desse
+advogado é protocolar, sequencialmente, 12 petições nessa vara cível durante o ano de 2020. Favoráveis ou
+não, as decisões do tribunal para petições são emitidas na mesma ordem cronológica em que são
+protocoladas e são sempre independentes entre si.
+A partir dessa situação hipotética, julgue os próximos itens, considerando as variáveis aleatórias X e Y, em
+que X = quantidade de decisões emitidas pelo tribunal até que ocorra a primeira decisão não favorável ao
+advogado, e Y = quantidade de decisões emitidas pelo tribunal favoráveis ao advogado.
+Espera-se que a primeira decisão desfavorável ao advogado ocorra somente depois de, pelo menos, quatro
+decisões favoráveis a ele.
+Comentários:
+Note que a questão pede o número de decisões favoráveis (fracasso) até a primeira decisão desfavorável
+(sucesso). Para essa parametrização, o valor esperado da distribuição geométrica é:
+                                                         𝒒
+                                                𝑬 (𝑿 ) =
+                                                         𝒑
+A probabilidade de fracasso (decisão favorável) é q = ¾, conforme enunciado.
+Assim, a probabilidade de sucesso (decisão desfavorável) é complementar: p = 1 – q = ¼.
+Logo, a esperança é:
+                                                          𝟑⁄
+                                                  𝑬 (𝑿 ) = 𝟒 = 𝟑
+                                                          𝟏⁄
+                                                            𝟒
+Ou seja, espera-se que haja 3 decisões favoráveis até a primeira decisão desfavorável.
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                35
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Propriedades
+
+Existem 2 propriedades da distribuição geométrica que são moderadamente cobradas nas provas:
+
+   i)       𝑷(𝑿 > 𝒕 + 𝒔|𝑿 ≥ 𝒔) = 𝑷(𝑿 > 𝒕)
+
+Essa propriedade afirma que, sabendo que já houve 𝒔 ou mais tentativas, então a probabilidade de haver
+mais que 𝒕 tentativas a mais, até o primeiro sucesso, é igual à probabilidade de haver mais que 𝒕 tentativas,
+até o primeiro sucesso, independentemente das tentativas anteriores.
+
+Por exemplo, sabendo que eu já lancei a moeda mais que 𝒔 = 𝟏𝟎 vezes e não obtive CARA (sucesso), então
+qual é a probabilidade de eu precisar lançar a moeda mais que 𝒕 = 𝟒 vezes a mais até obter CARA? É igual à
+probabilidade de eu ter que lançar a moeda mais que 𝒕 = 𝟒 vezes até obter CARA!
+
+Essa propriedade está associada à “falta de memória” ou “falta de desgaste” da distribuição geométrica. Ela
+afirma que não importa quantas tentativas já foram feitas, as probabilidades dos próximos resultados se
+mantêm as mesmas.
+
+            𝑷(𝑿=𝒌)
+   ii)               =𝒑
+            𝑷(𝑿≥𝒌)
+
+
+Essa propriedade também decorre de uma probabilidade condicional, mas “disfarçada”.
+
+Considerando que 𝑋 = 𝑘 pode ser considerado o resultado da interseção entre 𝑋 = 𝑘 e 𝑋 ≥ 𝑘, então a
+fração à esquerda da igualdade pode ser escrita como:
+
+                              𝑃(𝑋 = 𝑘) 𝑃(𝑋 = 𝑘 ∩ 𝑋 ≥ 𝑘)
+                                       =                = 𝑃(𝑋 = 𝑘|𝑋 ≥ 𝑘 )
+                              𝑃(𝑋 ≥ 𝑘)    𝑃(𝑋 ≥ 𝑘)
+
+Ou seja, podemos reescrever essa propriedade da seguinte forma:
+
+                                                𝑃(𝑋 = 𝑘|𝑋 ≥ 𝑘 ) = 𝑝
+
+Essa expressão significa o seguinte: sabendo que eu vou precisar de pelo menos 𝒌 tentativas até o primeiro
+sucesso (isso porque já foram feitas 𝑘 − 1 tentativas sem sucesso), então a probabilidade de obter sucesso
+na 𝒌-ésima tentativa é igual a 𝒑.
+
+Ora, 𝑝 é a probabilidade de obter sucesso em uma tentativa qualquer! Inclusive, na 𝑘-ésima tentativa! Ou
+seja, temos mais uma propriedade associada à falta de memória (ou de desgaste) da distribuição geométrica.
+
+Mas, reorganizando a expressão original dessa segunda propriedade, temos:
+
+                                                                𝑷(𝑿=𝒌)
+                                                   𝑷(𝑿 ≥ 𝒌) =     𝒑
+
+         Receita Federal (Analista Tributário) Estatística                                                36
+         www.estrategiaconcursos.com.br                                                                  154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Com isso, podemos calcular 𝑃 (𝑋 ≥ 𝑘 ) facilmente, em vez de fazer 𝑃(𝑋 ≥ 𝑘 ) = 1 − 𝑃 (𝑋 < 𝑘 ), o que pode
+ser trabalhoso, dependendo do valor de k.
+
+Por exemplo, para calcular a probabilidade de serem necessárias pelo menos 3 tentativas até obter
+                                                      1       5
+determinada face do dado pela primeira vez, sendo 𝑝 = 6 e 𝑞 = 6, primeiro calculamos a probabilidade de
+precisar de k = 3 tentativas:
+
+                                                     5 2 1    25
+                                           (     )
+                                          𝑃 𝑋 = 3 = ) .( ) =
+                                                   (
+                                                     6   6   216
+                                                                                                        1
+Assim, a probabilidade de precisar de pelo menos 3 tentativas é obtida dividindo esse resultado por 𝑝 = 6:
+
+                                                             𝑃(𝑋 = 3)
+                                               𝑃 (𝑋 ≥ 3) =
+                                                                𝑝
+
+                                                     25
+                                                           25     25
+                                        𝑃 (𝑋 ≥ 3) = 216 =     ×6=
+                                                     1    216     36
+                                                     6
+
+Este é exatamente o resultado que obtivemos calculando 𝑃 (𝑋 ≥ 3) = 1 − 𝑃 (𝑋 = 1) − 𝑃(𝑋 = 2)!
+
+De maneira geral, sabendo que 𝑃(𝑋 = 𝑘 ) = 𝑞𝑘−1 . 𝑝, então podemos escrever a fórmula como:
+
+                                                        𝑃(𝑋 = 𝑘 ) 𝑞𝑘−1 . 𝑝
+                                         𝑃 (𝑋 ≥ 𝑘 ) =            =
+                                                           𝑝        𝑝
+
+                                                  𝑷(𝑿 ≥ 𝒌) = 𝒒𝒌−𝟏
+
+(FGV/2019 – DPE/RJ) Para que as pessoas que aguardam atendimento em uma repartição pública fiquem
+acomodadas com relativo conforto, é necessário que o recinto seja dimensionado à razão de um metro
+quadrado de espaço para cada cidadão em espera.
+Se o número de pessoas que comparece, por dia, tem distribuição geométrica, com parâmetro p = 0,2, é
+correto afirmar que:
+a) em função da distribuição do número de pessoas, o tamanho médio ideal do recinto deve ser de 16 metros
+quadrados;
+
+
+        Receita Federal (Analista Tributário) Estatística                                               37
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+b) a probabilidade de que uma sala de espera com 4 metros quadrados não seja confortável em certo dia é
+(0,2).(0,8)4;
+c) a probabilidade de que uma sala com 3 metros quadrados fique subutilizada em certo dia é igual a 0,448;
+d) considerando uma sala de espera que tem 20 metros quadrados e o fato de que 18 pessoas já estão
+aguardando, a probabilidade de que atinja sua lotação exata é igual a 0,16;
+e) a distribuição de probabilidade do tamanho (A) de sala ideal, a cada dia, é dada por P(A = x) =
+(0,2)2.(0,8)2x para X = 1,2,3,....
+Comentários:
+Sabendo que X é uma variável que segue uma distribuição geométrica com parâmetro p = 0,2 e que o recinto
+deve ter 1m2 para cada cidadão, então:
+Em relação à alternativa A, o tamanho médio ideal corresponde à média E(X):
+                                                              1   1
+                                             𝜇 = 𝐸 (𝑋 ) =       =   =5
+                                                              𝑝 0,2
+Sabendo que uma sala de 5 m2 atende, em média, esse é o tamanho ideal. Logo, alternativa A está incorreta.
+Em relação à alternativa B, a probabilidade de uma sala com 4m 2 não ser adequada é igual à probabilidade
+de chegarem mais que 4 pessoas, ou seja, X ≥ 5:
+                                                            𝑃(𝑋 = 𝑘)
+                                          𝑃 (𝑋 ≥ 𝑘 ) =               = 𝑞𝑘−1
+                                                               𝑝
+                                                 𝑃 (𝑋 ≥ 5) = (0,8)4
+A alternativa forneceu a resposta para 𝑃(𝑋 = 5) = (0,8)4 . 0,2. Entretanto, essa é apenas uma das
+possibilidades de a sala não ser adequada. Portanto, a alternativa B está incorreta.
+Em relação à alternativa C, para que uma sala de 3m2 fique subutilizada, é necessário ter X < 3:
+            𝑃(𝑋 < 3) = 𝑃(𝑋 = 1) + 𝑃 (𝑋 = 2) = 𝑝 + 𝑞. 𝑝 = 0,2 + 0,8 × 0,2 = 0,2 + 0,16 = 0,36
+Em relação à alternativa D, sabendo que há 18 pessoas aguardando, então a probabilidade de atingir a
+lotação de 20m2 é igual à probabilidade de chegarem 2 pessoas a mais, que é igual à probabilidade de
+chegarem X = 2 pessoas (propriedade da falta de memória):
+                                          𝑃(𝑋 = 2) = 0,8 × 0,2 = 0,16
+A distribuição de probabilidade do tamanho da sala é igual à distribuição de probabilidade das pessoas que
+chegam, dada por:
+                               𝑃(𝑋 = 𝑘 ) = (0,8)𝑘−1 × 0,2 𝑝𝑎𝑟𝑎 𝑘 = {1,2,3, … }
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                                              38
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                         DISTRIBUIÇÃO HIPERGEOMÉTRICA
+A Distribuição Hipergeométrica considera uma população de elementos com dois possíveis atributos
+(sucesso ou fracasso), isto é, uma população com distribuição de Bernoulli, da qual será selecionada uma
+amostra de alguns elementos, assim como a distribuição binomial.
+
+Porém, diferentemente desta, na distribuição hipergeométrica, a população é finita e a amostra é extraída
+sem reposição, ou seja, as extrações não são independentes.
+
+Vamos chamar o tamanho da amostra de 𝒏 e o tamanho da população de 𝑵. Dessa população, 𝑺 elementos
+possuem o atributo sucesso e, consequentemente, 𝑵 − 𝑺 elementos possuem o atributo fracasso.
+
+Esses três parâmetros 𝑵, 𝑺, 𝒏 caracterizam a distribuição geométrica e, assim, podemos representá-la como
+𝑋~𝐻𝑔𝑒𝑜(𝑵, 𝑺, 𝒏).
+
+Por exemplo, vamos supor que haja 𝑵 = 𝟏𝟎 peças, no total, das quais 𝑺 = 𝟒 peças sejam defeituosas
+(sucesso), logo, haverá 𝑵 − 𝑺 = 𝟏𝟎 − 𝟒 = 𝟔 peças não defeituosas (fracasso).
+
+Se formos extrair 𝒏 = 𝟑 peças sem reposição, então o número de peças defeituosas (sucesso) encontradas
+na amostra seguirá uma Distribuição Hipergeométrica.
+
+A probabilidade de haver 𝒌 elementos com o atributo sucesso na amostra (e, consequentemente 𝒏 − 𝒌 com
+o atributo fracasso) é dada por:
+
+                                                                  𝑺   𝑵−𝑺
+                                                        ( )(    )
+                                              𝑷(𝑿 = 𝒌) = 𝒌 𝑵𝒏−𝒌
+                                                           ( )
+                                                                      𝒏
+
+
+Vamos entender essa fórmula. Pela definição clássica de probabilidade, temos:
+
+                                           𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑐𝑎𝑠𝑜𝑠 𝑓𝑎𝑣𝑜𝑟á𝑣𝑒𝑖𝑠 𝑛(𝐴)
+                                𝑃 (𝐴 ) =                             =
+                                             𝑛ú𝑚𝑒𝑟𝑜 𝑡𝑜𝑡𝑎𝑙 𝑑𝑒 𝑐𝑎𝑠𝑜𝑠     𝑛(𝑈)
+
+No denominador, constam todas as maneiras de selecionarmos 𝒏 elementos, dentre 𝑵 (sem importância
+de ordem), ou seja, temos a combinação de 𝒏 elementos, dentre 𝑵:
+
+                                                               𝑵
+                                                     𝑛 (𝑈 ) = ( )
+                                                               𝒏
+
+No numerador, temos, de um lado, a quantidade de maneiras de selecionar 𝒌 elementos com o atributo
+sucesso, dentre 𝑺 elementos, no total.
+
+                                                             𝑺
+                                                            ( )
+                                                             𝒌
+
+        Receita Federal (Analista Tributário) Estatística                                             39
+        www.estrategiaconcursos.com.br                                                                154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Ademais, temos a quantidade de maneiras de selecionar 𝒏 − 𝒌 elementos com o atributo fracasso, dentre
+𝑵 − 𝑺, no total.
+
+                                                            𝑵−𝑺
+                                                       (        )
+                                                            𝒏−𝒌
+
+Em seguida, multiplicamos esses dois resultados para obter o número de casos favoráveis (princípio
+multiplicativo):
+
+                                                        𝑺     𝑵−𝑺
+                                              𝑛 (𝐴 ) = ( ) × (     )
+                                                        𝒌      𝒏−𝒌
+
+        Suponha que haja 𝑵 = 𝟏𝟎 peças, no total, das quais 𝑺 = 𝟒 peças sejam defeituosas. Se
+        retirarmos 𝒏 = 𝟑 peças sem reposição, a probabilidade de encontrar 𝒌 = 𝟐 defeituosas é:
+
+                                                                   𝑺 𝑵−𝑺
+                                                                  ( )(  )
+                                                 𝑃(𝑋 = 𝑘 ) = 𝒌 𝑵𝒏−𝒌
+                                                                    ( )
+                                                                     𝒏
+
+        Vamos calcular cada combinação separadamente. No denominador, temos todas as
+        maneiras de escolher 𝒏 = 𝟑 peças, dentre 𝑵 = 𝟏𝟎 peças, no total:
+
+                      𝑵     𝟏𝟎      10!     10×9×8×7! 10×9×8
+                     ( ) = ( ) = (10−3)!3! = 7!×3! = 3×2×1 = 10 × 3 × 4 = 120
+                      𝒏      𝟑
+
+        No numerador, temos, de um lado, a quantidade de maneiras de escolher 𝒌 = 𝟐
+        defeituosas, dentre 𝑺 = 𝟒 defeituosas, no total:
+
+                                 𝑺     𝟒       4!     4×3×2!  4×3
+                                ( ) = ( ) = (4−2)!2! = 2!×2! = 2 = 2 × 3 = 6
+                                 𝒌     𝟐
+
+        Ademais, temos a quantidade de maneiras de escolher 𝒏 − 𝒌 = 𝟑 − 𝟐 = 𝟏 peça não
+        defeituosa, dentre 𝑵 − 𝑺 = 𝟏𝟎 − 𝟒 = 𝟔 não defeituosas, na população:
+
+                                        𝑵−𝑺       𝟔       6!      6×5!
+                                       (     ) = ( ) = (6−1)!1! = 5!×1! = 6
+                                         𝒏−𝒌      𝟏
+
+        Pelo princípio multiplicativo, o numerador é:
+
+                                             𝑺 𝑵−𝑺
+                                            ( )(   ) = 𝟔 × 𝟔 = 𝟑𝟔
+                                             𝒌 𝒏−𝒌
+
+        Assim, a probabilidade de retirar 𝒌 = 𝟐 defeituosas é:
+
+                                                             36     3
+                                            𝑃(𝑋 = 2) = 120 = 10 = 30%
+
+
+        Receita Federal (Analista Tributário) Estatística                                         40
+        www.estrategiaconcursos.com.br                                                            154
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+Em vez de aplicarmos essa fórmula, podemos calcular as probabilidades a cada extração. Para o nosso
+exemplo, podemos calcular a probabilidade de encontrar 𝒌 = 𝟐 peças defeituosas, em uma amostra de
+tamanho 𝒏 = 𝟑, da seguinte forma:
+
+          i)       𝑃𝑖 : Probabilidade de retirarmos a primeira peça não defeituosa. Sabendo que há 𝑵 − 𝑺 = 6
+                   peças não defeituosas dentre 𝑵 = 𝟏𝟎 peças no total, então:
+
+                                                                          6
+                                                                   𝑃𝑖 =
+                                                                          10
+
+          ii)      𝑃𝑖𝑖 : Probabilidade de retirarmos a segunda peça defeituosa, dado que a primeira peça foi
+                   não defeituosa. Sabendo que há 𝑺 = 𝟒 peças defeituosas dentre 9 peças no total, então:
+
+                                                                            4
+                                                                   𝑃𝑖𝑖 =
+                                                                            9
+
+          iii)     𝑃𝑖𝑖𝑖 : Probabilidade de retirarmos a terceira peça defeituosa, dado que foi retirada uma peça
+                   não defeituosa e outra defeituosa. Sabendo que restam 3 peças defeituosas dentre 8 peças
+                   no total, então:
+
+                                                                            3
+                                                                   𝑃𝑖𝑖𝑖 =
+                                                                            8
+
+Como todos os 3 eventos ocorrem (interseção), então pela Teoria da Probabilidade, multiplicamos as 3
+probabilidades.
+
+Porém, considerando que a ordem das extrações não precisa ser essa, devemos multiplicar o resultado pela
+quantidade de maneiras de “escolher” qual será a extração da peça defeituosa1. Como há 3 peças, no total,
+das quais 1 é não defeituosa, temos 3 possibilidades:
+
+                                                        3!        3 × 2!
+                                          𝐶3,1 =                =        =3
+                                                   (3 − 1)! × 1! 2! × 1!
+
+Assim, a probabilidade de encontrar 𝒌 = 𝟐 peças defeituosas, é:
+
+                                                    6 4 3    6     3
+                               𝑃(𝑋 = 2) = 3 ×         × × =      =   = 30%
+                                                    10 9 8 10 × 2 10
+
+1
+ Se preferir, você pode raciocinar que devemos multiplicar as probabilidades pelo número de maneiras de reordenar as extrações,
+o que corresponde à permutação das 3 peças, com repetição de 2 peças defeituosas:
+
+                                                                3!
+                                                        𝑃32 =      =3
+                                                                2!
+
+          Receita Federal (Analista Tributário) Estatística                                                                 41
+          www.estrategiaconcursos.com.br                                                                                   154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Esse raciocínio pode ser aplicado para qualquer valor de 𝑋, porém, é necessário se atentar ao fato de que a
+ordem das extrações não importa e, por isso, as probabilidades calculadas devem ser multiplicadas pela
+combinação correspondente. Além disso, para uma amostra grande, essa segunda maneira de calcular pode
+se tornar bastante trabalhosa.
+
+        Agora, vamos ver quais são os limites mínimos e máximos da variável hipergeométrica.
+
+        Limite Superior: maior número possível de sucessos na amostra
+
+        Se o número total de sucessos existentes 𝑺 for maior que o tamanho da amostra 𝒏, ou
+        seja, se 𝒏 < 𝑺, então o valor máximo que 𝑋 pode assumir é 𝒏.
+
+        Por exemplo, se houver 𝑺 = 𝟒 peças defeituosas (sucesso) e o tamanho da amostra for de
+        𝒏 = 𝟑, então o valor máximo de peças defeituosas selecionadas será 𝒏 = 𝟑.
+
+        Caso contrário, ou seja, se o tamanho da amostra 𝒏 for maior do que o número total de
+        sucessos 𝑺, então o valor máximo que 𝑋 pode assumir é 𝑺.
+
+        Por exemplo, havendo 𝑺 = 𝟒 peças defeituosas e o tamanho da amostra for 𝒏 = 𝟖 então
+        o valor máximo de peças defeituosas que podem ser selecionadas será 𝑺 = 𝟒.
+
+        Logo, o limite superior da variável é o menor valor entre 𝒏 e 𝑺:
+
+                                                    𝒌 ≤ 𝐦𝐢𝐧 {𝒏, 𝑺}
+
+        Limite Inferior: menor número possível de sucessos na amostra
+
+        Se o número total de fracassos existentes, 𝑵 − 𝑺, foi maior que o tamanho da amostra 𝒏,
+        ou seja, se 𝒏 < 𝑵 − 𝑺, então todas as peças selecionadas podem ter o atributo fracasso e,
+        portanto, o número mínimo que 𝑋 pode assumir é 𝟎.
+
+        Por exemplo, vamos supor que haja 𝑁 = 10 peças e 𝑆 = 4 peças defeituosas (sucesso),
+        logo, 𝑁– 𝑆 = 6 peças não defeituosas (fracasso). Se o tamanho da amostra for de 𝑛 = 3
+        peças, então todas as peças selecionadas podem ser não defeituosas (fracasso), ou seja, é
+        possível obter 𝑋 = 0 sucessos.
+
+        Caso contrário, ou seja, se o tamanho da amostra 𝒏 for maior que o número total de
+        fracassos existentes, então o número máximo de fracassos será o total de fracassos
+        existentes, 𝑵 − 𝑺. Assim, o número mínimo de sucessos será a diferença entre o tamanho
+        da amostra 𝒏 e o máximo de fracassos 𝑵 − 𝑺:
+
+                                                      𝒏 − (𝑵 − 𝑺)
+
+
+        Receita Federal (Analista Tributário) Estatística                                               42
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+        Por exemplo, supondo as mesmas 𝑁– 𝑆 = 6 peças não defeituosas (fracasso), mas uma
+        amostra de tamanho 𝑛 = 8 peças, então o número máximo de peças não defeituosas
+        (fracasso) que podem ser selecionadas é o número total existente, isto é, 𝑁– 𝑆 = 6.
+
+        Assim, o número mínimo de peças defeituosas (sucesso) que podem ser selecionadas é a
+        diferença entre o tamanho da amostra e esse limite:
+
+                                              𝑛 − (𝑁 − 𝑆 ) = 8 − 6 = 2
+
+        Pontue-se que essa diferença será negativa na primeira situação, em que há mais fracassos
+        existentes do que elementos na amostra. Para o nosso exemplo com a amostra de tamanho
+        𝑛 = 3 peças, essa diferença será:
+
+                                             𝑛 − (𝑁 − 𝑆) = 3 − 6 = −3
+
+        Dessa forma, o limite inferior da variável é o maior valor entre 0 e 𝒏 − (𝑵 − 𝑺).
+
+                                             𝒌 ≥ 𝐦𝐚𝐱{𝟎, 𝒏 − (𝑵 − 𝑺)}
+
+        Portanto, os limites da variável são:
+
+                                     𝐦𝐚𝐱 {𝟎, 𝒏 − (𝑵 − 𝑺)} ≤ 𝒌 ≤ 𝐦𝐢𝐧 {𝒏, 𝑺}
+
+Esperança e Variância
+
+Em relação ao valor esperado, vamos voltar ao nosso exemplo, em que 𝑺 = 𝟒 peças são defeituosas, de um
+total de 𝑵 = 𝟏𝟎 peças. Ou seja, a proporção de peças defeituosas é:
+
+                                                             4
+                                                        𝑝=
+                                                             10
+
+Então, se eu selecionar 5 peças (metade da população), espero que 2 sejam defeituosas (metade da amostra),
+certo? Ou seja, espero que a proporção de defeito (sucesso) na amostra seja a mesma de toda a população.
+
+Isso significa que a esperança é dada pela seguinte fórmula:
+
+                                                      𝑬(𝑿) = 𝒏. 𝒑
+
+Em que 𝒑 é a proporção de sucessos na população:
+
+                                                             𝑺
+                                                        𝒑=
+                                                             𝑵
+
+        Receita Federal (Analista Tributário) Estatística                                              43
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Para o nosso exemplo com 𝑵 = 𝟏𝟎 peças no total, das quais 𝑺 = 𝟒 peças são defeituosas, a proporção de
+sucessos na população é:
+
+                                                       𝑺   4
+                                                 𝑝=      =   = 0,4
+                                                       𝑵 10
+
+Considerando que vamos retirar uma amostra de 𝒏 = 𝟑 peças, o valor esperado é:
+
+                                           𝐸 (𝑋) = 𝑛. 𝑝 = 3 × 0,4 = 1,2
+
+Observe que a esperança da distribuição hipergeométrica é a mesma da distribuição binomial (associada a
+seleções independentes)!
+
+A variância, entretanto, fica um pouco diferente:
+
+                                                                 𝑵−𝒏
+                                                  𝑽(𝑿) = 𝒏. 𝒑. 𝒒. 𝑵−𝟏
+
+Em que 𝒒 = 𝟏 − 𝒑.
+
+Para o nosso exemplo, com 𝑁 = 10 e 𝑆 = 4, a proporção de fracassos na amostra é:
+
+                                            𝑞 = 1 − 𝑝 = 1 − 0,4 = 0,6
+
+Então, sendo 𝑛 = 3, a variância da variável é:
+
+                               𝑁−𝑛                   10 − 3             7
+            𝑉 (𝑋) = 𝑛. 𝑝. 𝑞.       = 3 × 0,4 × 0,6 ×        = 3 × 0,24 × = 0,08 × 7 = 0,56
+                               𝑁−1                   10 − 1             9
+
+Observe que a variância da distribuição hipergeométrica é igual à da distribuição binomial, 𝑛. 𝑝. 𝑞, “corrigida”
+           𝑵−𝒏
+pelo fator 𝑵−𝟏. Esse fator é chamado fator de correção para população finita.
+
+Esse fator é sempre menor que 1 (pois 𝑁 − 𝑛 < 𝑁 − 1), logo, o fator de correção diminui a variância da
+distribuição.
+
+Ele se aproxima de 1 quando o tamanho da população 𝑁 é muito maior que o tamanho da amostra 𝑛. Nessa
+situação, a distribuição hipergeométrica pode ser aproximada à distribuição binomial.
+
+É por esse motivo que podemos utilizar a distribuição binomial, mesmo para amostras extraídas com
+reposição, quando a população é suficientemente grande.
+
+        Receita Federal (Analista Tributário) Estatística                                                    44
+        www.estrategiaconcursos.com.br                                                                      154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                      Distribuição Hipergeométrica (𝑵, 𝑺, 𝒏)
+
+                            Extrações sem reposição de elementos com 2 atributos
+
+                                                               𝑺 𝑵−𝑺
+                                                              ( )(     )
+                                                               𝒌   𝒏−𝒌
+                                                 𝑃 (𝑋 = 𝑘 ) =     𝑵
+                                                                 ( )
+                                                                  𝒏
+
+                                                                                            𝑁−𝑛
+                       Esperança: 𝐸 (𝑋) = 𝑛. 𝑝;                Variância: 𝑉 (𝑋) = 𝑛. 𝑝. 𝑞
+                                                                                            𝑁−1
+
+                                                                  𝑺
+                                                     Em que 𝒑 = 𝑵
+
+(FCC/2015 – DPE/SP – Adaptada) Julgue o item a seguir:
+A distribuição hipergeométrica é adequada quando consideramos extrações casuais feitas sem reposição de
+uma população dividida segundo dois extratos.
+Comentários:
+A distribuição hipergeométrica estuda as extrações, sem reposição, de uma população com 2 atributos
+(sucesso ou fracasso).
+Resposta: Certo.
+
+
+(FCC/2015 – TRT 3ª Região – Adaptada) Julgue o item a seguir:
+A distribuição hipergeométrica é uma distribuição de probabilidade discreta que depende de 3 parâmetros.
+Comentários:
+A distribuição hipergeométrica depende dos parâmetros 𝑵 (total da população), 𝑺 (total de elementos com
+o atributo sucesso) e 𝒏 (número de extrações).
+Resposta: Certo.
+
+        Receita Federal (Analista Tributário) Estatística                                            45
+        www.estrategiaconcursos.com.br                                                               154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+(FGV/2022 – TJDFT) A Vara Cível de determinada comarca realiza 200 audiências por mês. No mês passado,
+em 120 audiências o autor era assistido pela Defensoria Pública e, nas outras 80 audiências restantes, o
+demandante esteve representado por advogado particular.
+Sorteiam-se, aleatoriamente e sem reposição, 80 audiências desse último mês. O número mais provável de
+audiências em que atuam os defensores públicos é de:
+a) 48
+b) 49
+c) 50
+d) 51
+e) 52
+Comentários:
+Nessa questão, a população de 200 audiências é segregada em assistência por Defensoria Pública (sucesso)
+                                                               ==219a34==
+
+e por advogado particular (fracasso).
+Considerando que uma amostra de 80 audiências é extraída sem reposição, concluímos que as extrações são
+dependentes, o que caracteriza uma distribuição hipergeométrica.
+A média (ou esperança) dessa distribuição é dada por:
+                                                       𝐸 (𝑋 ) = 𝑛 × 𝑝
+A probabilidade de sucesso é a razão entre o número de audiências em que o autor é assistido pela
+Defensoria Pública (120) e o número total de audiências no mês (200):
+                                               120
+                                                      𝑝=
+                                                   = 0,6
+                                               200
+Sabendo que o tamanho da amostra é n = 80, a esperança é:
+                                                  𝐸 (𝑋) = 80 × 0,6 = 48
+Gabarito: A
+
+
+(2013 – TRE/MG) Em uma população finita de tamanho N, onde existem k indivíduos com uma característica
+de interesse, ao se selecionar uma amostra aleatória de tamanho n sem reposição, o número de indivíduos
+com a característica na amostra (R) é uma variável aleatória com distribuição hipergeométrica. A
+probabilidade de se ter exatamente r indivíduos na amostra com a característica de interesse é dada por
+        (𝑘 )(𝑁−𝑘)
+𝑝𝑟 = 𝑟 (𝑁𝑛−𝑟 , onde max (0, n – N + k) = r = min (k, n).
+          )𝑛
+
+Analise:
+I. Para N = 100, k = 20, n = 10 e r = 3, E(R) = 2 e Var(R) = 144/99.
+II. Para N = 100, k = 20, n = 5 e r = 3, E(R) = 1 e Var(R) = 8/10.
+III. Para N = 10000, k = 2000, n = 100 e r = 3, E(R) = 20 e Var(R) = 15,84.
+IV. Para N = 10000, k = 1000, n = 100 e r = 3, E(R) = 10 e Var(R) ≈ 9.
+V. Para N = 10000, k = 2000, n = 10 e r = 0, P(R = 0) ≈ 0,1074.
+
+           Receita Federal (Analista Tributário) Estatística                                         46
+           www.estrategiaconcursos.com.br                                                            154
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+Estão corretas apenas as alternativas
+a) I e II.
+b) II e IV.
+c) I, III e IV.
+d) I, III, IV e V.
+e) II, III, IV e V
+Comentários:
+Em relação à afirmativa I, o total de elementos da população é 𝑵 = 𝟏𝟎𝟎, o número de sucessos da população
+(que chamamos de 𝑺) é 𝒌 = 𝟐𝟎, então a proporção de sucessos é:
+                                             𝟐𝟎
+                                                 = 0,2  𝑝=
+                                             𝟏𝟎𝟎
+Sendo 𝒏 = 𝟏𝟎 o tamanho da amostra, então a esperança é:
+                                                𝐸 (𝑋) = 𝑛. 𝑝 = 10 × 0,2 = 2
+Sabendo que a proporção de fracassos é q = 1 – p = 0,8, então a variância é:
+                                                    𝑁−𝑛                    90 144
+                                  𝑉(𝑋) = 𝑛. 𝑝. 𝑞.       = 10 × 0,2 × 0,8 ×    =
+                                                    𝑁−1                    99   99
+Portanto, a afirmativa I está correta.
+
+
+Em relação à afirmativa II, o total de elementos e o número de sucessos da população são os mesmos, assim
+    20
+𝑝 = 100 = 0,2 e q = 1 – p = 0,8.
+Agora, a amostra tem tamanho 𝒏 = 𝟓, então a esperança é:
+                                                 𝐸 (𝑋) = 𝑛. 𝑝 = 5 × 0,2 = 1
+E a variância é:
+                                              𝑁−𝑛                   95 76
+                            𝑉(𝑋) = 𝑛. 𝑝. 𝑞.       = 5 × 0,2 × 0,8 ×   =   = 0,7676 …
+                                              𝑁−1                   99 99
+Portanto, a afirmativa II está errada.
+
+
+Em relação à afirmativa III, o total de elementos da população é 𝑵 = 𝟏𝟎. 𝟎𝟎𝟎 e o número de sucessos da
+população é 𝒌 (𝒐𝒖 𝑺) = 𝟐. 𝟎𝟎𝟎. Assim, a proporção de sucessos é:
+                                                  𝟐. 𝟎𝟎𝟎
+                                                      𝑝= = 0,2
+                                                 𝟏𝟎. 𝟎𝟎𝟎
+E a proporção de fracassos é q = 1 – p = 0,8. Sendo o tamanho da amostra 𝒏 = 𝟏𝟎𝟎, então, a esperança é:
+                                               𝐸 (𝑋) = 𝑛. 𝑝 = 100 × 0,2 = 20
+E a variância é:
+                                         𝑁−𝑛                     9900 16 × 1100
+                      𝑉(𝑋) = 𝑛. 𝑝. 𝑞.        = 100 × 0,2 × 0,8 ×      =         ≅ 15,84
+                                         𝑁−1                     9999   1111
+
+             Receita Federal (Analista Tributário) Estatística                                        47
+             www.estrategiaconcursos.com.br                                                           154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Portanto, a afirmativa III está correta.
+
+
+Em relação à afirmativa IV, o total de elementos é 𝑵 = 𝟏𝟎. 𝟎𝟎𝟎 e o número de sucessos da população é
+𝒌 (𝒐𝒖 𝑺) = 𝟏. 𝟎𝟎𝟎. Assim, a proporção de sucessos é:
+                                               𝟏. 𝟎𝟎𝟎
+                                                  𝑝=   = 0,1
+                                               𝟏𝟎. 𝟎𝟎𝟎
+E q = 1 – p = 0,9. Sendo o tamanho da amostra 𝒏 = 𝟏𝟎𝟎, a esperança é:
+                                           𝐸 (𝑋) = 𝑛. 𝑝 = 100 × 0,1 = 10
+E a variância é:
+                                𝑁−𝑛                         9900 9 × 1100
+                   𝑉 (𝑋) = 𝑛. 𝑝. 𝑞.     = 100 × 0,1 × 0,9 ×      =        ≅ 8,91 ≅ 9
+                                𝑁−1                         9999   1111
+Portanto, a afirmativa IV está correta.
+
+
+Em relação à afirmativa V, temos 𝑵 = 𝟏𝟎. 𝟎𝟎𝟎, 𝒌 (𝒐𝒖 𝑺) = 𝟐. 𝟎𝟎𝟎 e 𝒏 = 𝟏𝟎.
+Para calcular o valor exato da probabilidade de não obter sucesso na amostra P(R = 0), faríamos:
+                                                          𝑁−𝑘
+                                                   (𝑘 ) (     )
+                                      𝑃 (𝑋 = 𝑟 ) = 𝑟 𝑛 − 𝑟
+                                                          𝑁
+                                                        ( )
+                                                          𝑛
+                                           2.000 8.000           8.000
+                                          (       )(        )  (      )
+                              𝑃(𝑋 = 0) =     0        10 =        10
+                                                10.000          10.000
+                                              (        )      (        )
+                                                  10              10
+O que é bastante trabalhoso. Porém, como o tamanho da amostra n = 10 é muito menor que o tamanho da
+população N = 10.000, podemos aproximar essa distribuição a uma binomial. A proporção de sucessos na
+amostra é:
+                                                     2.000
+                                                  𝑝=        = 0,2
+                                                     10.000
+E de fracassos é q = 1 – p = 0,8. Assim, a probabilidade de não obter sucessos na amostra é aproximadamente:
+                                            P(X=0) = q10 = (0,8)10 ≅ 0,1074
+Portanto, a afirmativa V está correta.
+Gabarito: D.
+
+         Receita Federal (Analista Tributário) Estatística                                               48
+         www.estrategiaconcursos.com.br                                                                  154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                DISTRIBUIÇÃO DE POISSON
+A Distribuição de Poisson descreve a probabilidade de ocorrências aleatórias em determinado intervalo,
+como o tempo, mas com uma taxa média constante.
+
+O número de ligações recebidas por hora ou o número de clientes que comparecem diariamente em um
+estabelecimento são exemplos em que podemos aplicar a distribuição de Poisson.
+
+Nessas situações, a probabilidade de o evento ocorrer em um instante específico (determinado segundo, por
+exemplo) é tão baixa, que não é possível ocorrer mais de um evento ao mesmo tempo. Por isso, dizemos
+que a probabilidade de ocorrência 𝒑 em uma distribuição de Poisson é muito pequena (tende a zero).
+
+Por outro lado, o tamanho da amostra 𝒏, que corresponde ao "número de instantes" no intervalo desejado,
+como uma hora ou um dia, é muito grande (tende a infinito). Essa é outra característica importante da
+distribuição de Poisson.
+
+Além disso, as ocorrências devem ser independentes uma das outras e devem assumir apenas números
+inteiros (não é possível receber meia ligação ou chegar meio cliente), assim como na distribuição binomial.
+Na verdade, a distribuição de Poisson é desenvolvida a partir da distribuição binomial, considerando que o
+tamanho da amostra 𝒏 tende ao infinito e a probabilidade de sucesso 𝒑 tende a zero.
+
+A Distribuição de Poisson também pode ser utilizada como uma aproximação da distribuição binomial,
+quando o tamanho da amostra 𝒏 for muito grande e probabilidade de sucesso 𝒑 for muito pequena. Nesses
+casos, o cálculo das probabilidades pela distribuição binomial pode se tornar muito trabalhoso.
+
+        Vamos supor que uma indústria farmacêutica apresenta defeito em 𝒑 = 𝟏% dos
+        medicamentos e que a amostra a ser verificada contém n = 400 medicamentos.
+
+        Como calcularíamos a probabilidade de encontrar 5 medicamentos defeituosos, utilizando
+        a distribuição binomial?
+
+                                     𝑃(𝑋 = 100) = 𝐶400,5 × 0,015 × 0,99395
+
+        Que seria extremamente trabalhoso.
+
+
+        Receita Federal (Analista Tributário) Estatística                                               49
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Em uma distribuição binomial, a média (ou esperança) é:
+
+                                                    𝐸 (𝑋𝐵𝑖 ) = 𝑛. 𝑝
+
+Na distribuição de Poisson, denotamos essa média por 𝝀 (chamamos essa letra de lambda), que é o único
+parâmetro da distribuição. Assim, nos referimos à distribuição de Poisson como 𝑋~𝑃𝑜(𝜆).
+
+                                                        𝝀 = 𝒏. 𝒑
+
+Para o nosso exemplo, em que a probabilidade de defeito é p = 1% = 0,01 e a amostra contém n = 400
+medicamentos, o valor de 𝝀 é:
+
+                                            𝜆 = 𝑛. 𝑝 = 400 × 0,01 = 4
+
+Dessa forma, a média (ou esperança) da distribuição de Poisson é igual ao parâmetro 𝝀, que representa o
+número médio de ocorrências (taxa de ocorrência) em determinado intervalo:
+
+                                                       𝑬(𝑿) = 𝝀
+
+Essa taxa de ocorrência deve ser constante no intervalo considerado (assim como a probabilidade de sucesso
+da distribuição binomial deve ser a mesma para todos os ensaios).
+
+Na distribuição binomial, a média (ou esperança) é:
+
+                                                   𝑉 (𝑋𝐵 ) = 𝑛. 𝑝. 𝑞
+
+Considerando que 𝑝 tende a 0, então 𝒒 = 1 − 𝑝 tende a 1.
+
+Desse modo, a variância da distribuição de Poisson é dada por:
+
+                                                     𝑉(𝑋) = 𝑛. 𝑝
+
+Como definimos 𝜆 = 𝑛. 𝑝, a variância também é igual ao parâmetro:
+
+                                                       𝑽 (𝑿 ) = 𝝀
+
+A probabilidade de ocorrerem 𝒌 eventos no intervalo determinado, na distribuição de Poisson, é dada por:
+
+                                                                   𝒆−𝝀 .𝝀𝒌
+                                                 𝑷(𝑿 = 𝒌) =           𝒌!
+
+        Em que 𝒆 ≅ 𝟐, 𝟕𝟏𝟖 (número neperiano).
+
+        Receita Federal (Analista Tributário) Estatística                                              50
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+      Vamos supor o exemplo inicial da indústria farmacêutica, que produz 𝑝 = 1% de
+      medicamentos defeituosos e que será extraída uma amostra com 𝑛 = 400 peças.
+
+      Vimos que o parâmetro da distribuição de Poisson é 𝜆 = 400 × 1% = 4, que equivale à
+      sua média e variância.
+
+      Com base no parâmetro, podemos calcular a probabilidade de haver, por exemplo, 𝑘 = 1
+      medicamento com defeito na amostra:
+
+                                                                               𝒌
+                                                                      𝒆−𝝀 .𝝀
+                                                𝑷(𝑿 = 𝒌) =
+                                                                        𝒌!
+
+                                                              𝑒 −4 .41
+                                           𝑃(𝑋 = 1) =            1!
+                                                                         = 4. 𝑒 −4
+
+      Se essa fosse uma questão de prova, a banca poderia apresentar a resposta dessa forma,
+      ou então informar que 𝑒 −4 ≅ 0,018. Assim, seria possível calcular:
+
+                                        𝑃(𝑋 = 1) ≅ 4 × 0,018 = 0,072.
+
+      Poderíamos calcular, ainda, a probabilidade de encontrar mais de 1 medicamento com
+      defeito, que pode ser calculada pelo seu complemento:
+
+                         𝑃(𝑋 > 1) = 1 − 𝑃(𝑋 ≤ 1) = 1 − 𝑃(𝑋 = 0) − 𝑃 (𝑋 = 1)
+
+      Como já temos 𝑃(𝑋 = 1), precisamos calcular 𝑃 (𝑋 = 0):
+
+                                                          𝑒 −4 .40       𝑒 −4 .1
+                                        𝑃(𝑋 = 0) =                   =             = 𝑒 −4
+                                                            0!             1
+
+      Logo:
+
+           𝑃(𝑋 > 1) = 1 − 𝑒 −4 − 4. 𝑒 −4 = 1 − 5. 𝑒 −4 ≅ 1 − 5 × 0,018 = 1 − 0,09 = 0,91
+
+      Receita Federal (Analista Tributário) Estatística                                        51
+      www.estrategiaconcursos.com.br                                                           154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+        Sim, você precisa memorizar a fórmula da probabilidade de Poisson, mas eu vou tentar te
+        ajudar. Você precisa preencher os 5 espaços indicados abaixo:
+
+        No 1º espaço, você preenche o 𝒆:
+
+        Agora, você vai preencher o lambda 𝝀 (para lembrar, chame-o de L) no 2º e 3º espaços. No
+        2º espaço (acima do 𝒆), acrescente um sinal de menos (–):
+
+        Nos últimos espaços, preencha o 𝒌. No último espaço (denominador), acrescente o fatorial
+        (!):
+
+                                                                     𝒌
+                                                                𝒆−𝝀 .𝝀
+                                                 𝑷(𝑿 = 𝒌) =
+                                                                  𝒌!
+
+        Pronto! Então, não se esqueça da sequência ELK, de colocar um "–" no expoente e um "!"
+        no denominador.
+
+Assim como para a distribuição binomial, o valor de 𝑋 = 𝑘, varia entre 0 e o tamanho da amostra 𝑛 → ∞.
+
+Ressalte-se, ainda, que o coeficiente de assimetria 𝑏1 e de curtose 𝑏2 para essa distribuição são:
+
+                                                                 1
+                                                    𝑏1 = 𝑏2 =
+                                                                √𝜆
+
+Sabendo que 𝜆 > 0, então esses coeficientes são positivos.
+
+        Receita Federal (Analista Tributário) Estatística                                            52
+        www.estrategiaconcursos.com.br                                                               154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                             Distribuição de Poisson (𝝀)
+
+                          Aproximação da Distribuição Binomial para 𝑛 → ∞ e 𝑝 → 0
+
+                                                                    𝒌
+                                                              𝒆−𝝀 .𝝀
+                                                 𝑷(𝑿 = 𝒌) =     𝒌!
+
+                            Esperança: 𝐸 (𝑋) = 𝝀;                 Variância: 𝑉(𝑋) = 𝝀
+
+(2011 – Transpetro) Uma distribuição discreta de probabilidade que fornece a frequência de ocorrência de
+certos tipos de eventos aleatórios, podendo ser usada como aproximação da distribuição binomial,
+corresponde à distribuição
+a) geométrica
+b) hipergeométrica
+c) normal
+d) uniforme
+e) de Poisson
+Comentários:
+A distribuição que se aproxima à distribuição binomial, para n muito grande, com parâmetro , isto é, a taxa
+(ou frequência) de ocorrência é a distribuição de Poisson.
+Gabarito: E
+
+
+(2019 – IDAM) Sobre a distribuição de Poisson P(X=k; λ) que representa a distribuição de frequências da
+variável aleatória X, analise as afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F).
+                                                        𝜆
+( ) 𝑃(𝑋 = 𝑘; 𝜆) = lim 𝐵𝑖𝑛𝑜𝑚𝑖𝑎𝑙 (𝑋 = 𝑘; 𝑁, 𝑝 = 𝑁)
+                   𝑁→∞
+
+( ) A distribuição de Poisson é útil na modelagem de processos de natureza binomial onde o evento tem
+probabilidade de ocorrência (binomial), p, pequena (ou seja, tendendo a zero), porém o valor esperado da
+variável aleatória fica finito devido a ser grande a quantidade da amostragem (testes).
+( ) O parâmetro λ corresponde ao mesmo tempo ao valor esperado e à variância da distribuição de Poisson,
+P(X=k; λ).
+
+
+        Receita Federal (Analista Tributário) Estatística                                                53
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+a) F, F, F
+b) F, V, V
+c) V, F, V
+d) V, V, V
+Comentários:
+Em relação à primeira afirmativa, sabemos que a distribuição de Poisson corresponde à distribuição binomial
+para 𝑛 → ∞. Sabemos, ainda, que 𝜆 = 𝑛. 𝑝, logo:
+                                                                  𝜆
+                                                             𝑝=
+                                                                  𝑁
+Portanto, a primeira afirmativa é verdadeira.
+Em relação à segunda afirmativa, sabemos que a distribuição de Poisson é utilizada como aproximação da
+distribuição binomial para amostras grandes (n) e probabilidade pequena (p), tal que o produto n.p, isto é, a
+esperança da distribuição, é um valor finito. Portanto, a segunda afirmativa é verdadeira.
+Na distribuição de Poisson, temos E(X) = Var(X) = 𝜆. Portanto, a terceira afirmativa é verdadeira.
+Gabarito: D
+
+
+(2019 – IF-PA – Adaptada) Se uma variável X tem distribuição de Poisson com parâmetro , tal que
+X~Poisson(), pode-se afirmar que:
+a) E(X) =  e Var(X) = 1/
+b) E(X)= 1 –  e Var(X)= 
+c) E(X) =  e Var(X)= 
+d) E(X) = /2 e Var(X) = 2/12
+e) E(X) =  e Var(X) = 2/12
+Comentários:
+Na distribuição de Poisson, sabemos que E(X) = Var(X) = 𝜆. O enunciado chamou o parâmetro de 𝜆 = ,
+então:
+                                                        E(X) = Var(X) = 
+Gabarito: C
+
+
+(CESPE/2018 – ABIN/Oficial Técnico) A quantidade diária de emails indesejados recebidos por um atendente
+é uma variável aleatória X que segue distribuição de Poisson com média e variância desconhecidas. Para
+estimá-las, retirou-se dessa distribuição uma amostra aleatória simples de tamanho quatro, cujos valores
+observados foram 10, 4, 2 e 4. Com relação a essa situação hipotética, julgue o seguinte item.
+Se P (X = 0) representa a probabilidade de esse atendente não receber emails indesejados em determinado
+dia, estima-se que tal probabilidade seja nula.
+
+             Receita Federal (Analista Tributário) Estatística                                            54
+             www.estrategiaconcursos.com.br                                                               154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+Para a distribuição de Poisson, a probabilidade P(X = 0) é dada por:
+                                                                     𝑒 −𝜆 . 𝜆𝑘
+                                                      𝑃 (𝑋 = 𝑘 ) =
+                                                                        𝑘!
+                                                    𝑒 −𝜆 . 𝜆0 𝑒 −𝜆 . 1
+                                        𝑃 (𝑋 = 0) =          =         = 𝑒 −𝜆 ≠ 0
+                                                       0!        1
+Gabarito: Errado.
+
+
+(FCC/2014 – TRT 13ª Região) Suponha que o número de processos trabalhistas que chegam, por dia, a um
+determinado tribunal regional do trabalho seja uma variável aleatória com distribuição de Poisson com
+média igual a λ. Sabe-se que a probabilidade de chegarem 2 processos por dia é igual a oito vezes a
+probabilidade de não chegar nenhum. Nessas condições, a probabilidade de, em um determinado dia,
+chegarem pelo menos 2 processos é igual a
+Dados: 𝑒 −2 = 0,135; 𝑒 −4 = 0,018
+a) 0,91
+b) 0,36
+c) 0,93
+d) 0,46
+e) 0,85
+Comentários:
+O enunciado informa que a probabilidade de chegar 2 processos é 8 vezes a probabilidade de não chegar
+processo algum:
+                                                       P(X = 2) = 8.P(X = 0)
+                                 𝜆𝑘 𝑒 −𝜆
+Considerando 𝑃(𝑋 = 𝑘 ) =                   , então:
+                                   𝑘!
+
+                                                              𝑒 −𝜆 . 𝜆2 𝑒 −𝜆 . 𝜆2
+                                               𝑃 (𝑋 = 2) =             =
+                                                                 2!        2
+                                              𝑒 −𝜆 . 𝜆0 𝑒 −𝜆 . 1
+                                            𝑃 (𝑋 = 0) ==         = 𝑒 −𝜆
+                                                 0!        1
+Substituindo esses resultados na equação, temos:
+                                                       𝜆2 𝑒 −𝜆
+                                                               = 8 × 𝑒 −𝜆
+                                                          2
+Dividindo ambos os lados da equação por 𝑒 −𝜆 , temos:
+                                                            𝜆2 = 16
+Sabendo que 𝜆 é positivo (pois, 𝜆 = 𝑛. 𝑝, com 𝑛 ≥ 0 e 𝑝 ≥ 0), então:
+                                                              𝜆=4
+
+          Receita Federal (Analista Tributário) Estatística                                       55
+          www.estrategiaconcursos.com.br                                                          154
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Nessas condições, a probabilidade de chegarem pelo menos 2 processos é (com as aproximações fornecidas
+pelo enunciado):
+                            𝑃(𝑋 ≥ 2) = 1 − 𝑃(𝑋 < 2) = 1 − [𝑃(𝑋 = 0) + 𝑃 (𝑋 = 1)]
+                                         𝑃(𝑋 = 0) = 𝑒 −𝜆 = 𝑒 −4 ≅ 0,018
+                                                     𝑒 −4 . 41
+                                      𝑃 (𝑋 = 1) =              = 4. 𝑒 −4 ≅ 0,072
+                                                        1!
+Portanto:
+                   𝑃 (𝑋 ≥ 2) = 1 − 𝑃(𝑋 < 2) = 1 − 0,018 − 0,072 = 1 − 0,09 = 0,91
+Gabarito: A.
+
+Algumas questões informam a taxa de ocorrência 𝜆 para determinado intervalo (por dia, por exemplo), e
+pedem a probabilidade associada a um intervalo diferente (por semana, por exemplo). Nessa situação, é
+necessário calcular a taxa de ocorrência para o intervalo desejado, mantendo-se a proporção constante:
+
+                                                                        𝜆1
+                                               𝜆1 = 𝑛1 × 𝑝 → 𝑝 =
+                                                                        𝑛1
+
+                                                                        𝜆1
+                                              𝜆2 = 𝑛2 × 𝑝 = 𝑛2 ×
+                                                                        𝑛1
+
+                                                                𝑛
+                                                      𝜆2 = 𝜆1 × 𝑛2
+                                                                    1
+
+Em outras palavras, multiplicamos a taxa de ocorrência 𝜆1 fornecida pela razão entre o intervalo desejado e
+                     𝑛
+o intervalo fornecido 2.
+                       𝑛1
+
+Vamos supor que o número de clientes que chegam em um estabelecimento siga uma distribuição de Poisson
+com média 𝜆1 = 10 clientes por dia. Para calcular a probabilidade de chegarem 100 clientes em uma
+semana, por exemplo, precisamos primeiro calcular o número médio de clientes que chegam em 1 semana
+𝜆2 , considerando que 1 semana = 5 dias úteis:
+
+                                                             5
+                                                 𝜆2 = 10 ×     = 50
+                                                             1
+
+Para calcular a probabilidade de chegar 1 cliente em uma hora, primeiro calculamos o número médio de
+clientes que chegam em 1 hora, considerando que 1 dia = 8 horas úteis:
+
+                                                            1
+                                                𝜆3 = 10 ×     = 1,25
+                                                            8
+
+        Receita Federal (Analista Tributário) Estatística                                               56
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Podemos, ainda, calcular o tempo médio entre as ocorrências, dividindo o intervalo pela taxa de ocorrência:
+
+                                                                 𝑛
+                                                            𝑡=
+                                                                 𝜆
+
+Por exemplo, considerando que chegam em média 𝜆 = 10 clientes ao longo de 8 horas, o tempo médio entre
+um cliente e outro é:
+
+                                                      8
+                                                 𝑡=      = 0,8 ℎ𝑜𝑟𝑎
+                                                      10
+
+Por fim, é importante ressaltar que é possível somar variáveis com distribuição de Poisson.
+
+Sendo 𝜆𝑋 o parâmetro da distribuição da variável 𝑋 e 𝜆𝑌 o parâmetro da distribuição da variável 𝑌, então a
+variável 𝑆 = 𝑋 + 𝑌 terá distribuição de Poisson com parâmetro:
+
+                                                    𝜆𝑆 = 𝜆𝑋 + 𝜆𝑌
+
+Por exemplo, suponha que a empresa X receba, em média, 𝜆𝑋 = 5 novos clientes por mês e que a empresa
+𝑌 receba, em média, 𝜆𝑌 = 3 novos clientes por mês, de modo que ambos sigam distribuições de Poisson. Se
+essas empresas se juntarem, formando a empresa S, então, se as taxas de novos clientes permanecerem as
+mesmas, a nova empresa receberá a seguinte taxa de novos clientes por mês, que também seguirá uma
+distribuição de Poisson:
+
+                                            𝜆𝑆 = 𝜆𝑋 + 𝜆𝑌 = 5 + 3 = 8
+
+Também podemos multiplicar esses parâmetros por constantes, que o resultado também seguirá uma
+distribuição de Poisson.
+
+No nosso exemplo, havendo uma empresa Z que receba 𝜆𝑍 = 10 novos clientes por mês, sendo que metade
+dela se juntará às demais empresas, então a nova empresa N formada receberá a seguinte taxa de novos
+clientes por mês, que também seguirá uma distribuição de Poisson:
+
+                               𝜆𝑁 = 𝜆𝑋 + 𝜆𝑌 + 0,5. 𝜆𝑍 = 5 + 3 + 0,5 × 10 = 13
+
+(CESPE/2010 – MPU/Analista) Uma empresa possui um serviço de atendimento ao consumidor (SAC).
+Diariamente, um atendente registra, em uma folha de papel, as chamadas recebidas. Cada folha de registro
+do atendente do SAC permite o registro de até 20 chamadas. O atendente efetua os registros de forma
+sequencial, anotando, para cada chamada, se houve reclamação.
+
+        Receita Federal (Analista Tributário) Estatística                                               57
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+De acordo com os dados históricos, sabe-se que, a cada 20 chamadas, a probabilidade de se registrar
+exatamente uma reclamação é constante e igual a 0,05. Sabe-se também que o número médio diário de
+reclamações registradas pelo SAC é igual a 1.
+Com base nessas informações e considerando 2,71 como valor aproximado para o número e, base do
+logaritmo natural, julgue o seguinte item.
+Considere que o número de reclamações registradas pelo SAC, X(t), em um intervalo de tempo t, siga um
+processo de Poisson e que X(5) represente o número de reclamações registradas em um intervalo de 5 dias
+úteis. Nesse caso, a probabilidade de não haver reclamações registradas em um intervalo de 5 dias úteis é
+igual a e-5.
+Comentários:
+O enunciado informa que a média é de 𝜆1 = 1 reclamação por dia. Assim, para um intervalo de 5 dias, a taxa
+de ocorrência é:
+                                                         𝑛2     5
+                                                              ==219a34==
+
+                                               𝜆2 = 𝜆1 ×    = 1× =5
+                                                         𝑛1     1
+Para a distribuição de Poisson, a probabilidade P(X = 0), com 𝜆 = 5, é dada por:
+                                                          𝑒 −𝜆 . 𝜆𝑘
+                                                  𝑃 (𝑋 = 𝑘 ) =
+                                                             𝑘!
+                                                     −5 0
+                                                    𝑒 .5     𝑒 −5 . 1
+                                         𝑃(𝑋 = 0) =       =           = 𝑒 −5
+                                                      0!         1
+Gabarito: Certo.
+
+
+(FGV/2022 – SEFAZ/AM) Suponha que o número de carros que chega a uma praça de pedágio siga uma
+distribuição Poisson, com uma média de 2 carros por minuto.
+A probabilidade de que, num intervalo de 2 minutos, passe no máximo um carro é aproximadamente igual a
+[use e-4 = 0,0183]
+a) 0,09
+b) 0,12
+c) 0,17
+d) 0,20
+e) 0,22
+Comentários:
+O enunciado informa que a média é de 2 carros por minuto e pede a probabilidade associada a um tempo
+de 2 minutos. O primeiro passo é calcular a média de carros a cada 2 minutos:
+                                                              𝑛2     2
+                                               𝜆2 = 𝜆1 ×         = 2× =4
+                                                              𝑛1     1
+A probabilidade de passar no máximo um carro, ou seja, 0 ou 1 carro é a soma:
+
+                                         𝑃(𝑋 ≤ 1) = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1)
+
+
+          Receita Federal (Analista Tributário) Estatística                                            58
+          www.estrategiaconcursos.com.br                                                               154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade da distribuição de Poisson é dada por:
+                                                               𝑒 −𝜆 × 𝜆𝑘
+                                                  𝑃 (𝑋 = 𝑘 ) =
+                                                                   𝑘!
+Para k = 0, sendo 𝜆 = 4, temos:
+                                                       𝑒 −4 × 40 𝑒 −4 × 1
+                                       𝑃 (𝑋 = 0) =              =         = 𝑒 −4
+                                                           0!        1
+Para k = 1, temos:
+                                                      𝑒 −4 × 41 𝑒 −4 × 4
+                                      𝑃 (𝑋 = 1) =              =         = 4. 𝑒 −4
+                                                          1!        1
+E a soma é:
+                                           𝑃(𝑋 ≤ 1) = 𝑒 −4 + 4. 𝑒 −4 = 5. 𝑒 −4
+Sendo 𝑒 −4 = 0,0183, temos:
+                                      𝑃 (𝑋 ≤ 1) = 5 × 0,0183 = 0,0915 ≅ 0,09
+Gabarito: A
+
+
+(FCC/2015 – TRT 3ª Região) A comissão de erradicação do trabalho infantil de um determinado Tribunal
+Regional do Trabalho analisa, por meio de seu canal de denúncias, casos de desrespeito à legislação que
+regula o trabalho de menores de 18 anos. Suponha que a variável X, que representa o número de denúncias
+mensais que são recebidas, tem distribuição de Poisson com média 9. Nessas condições, a probabilidade de
+serem recebidas 2 ou 3 denúncias em um período de 10 dias é igual a
+
+a) 0,450
+b) 0,472
+c) 0,230
+d) 0,375
+e) 0,250
+Comentários:
+Sabendo que a variável tem distribuição de Poisson, com média de 9 denúncias por mês, ou seja, em um
+período 𝑛1 = 30 dias, temos 𝜆1 = 9, em um período de 𝑛2 = 10 dias, temos:
+                                                           𝑛2     10
+                                               𝜆2 = 𝜆1 ×      =9×    =3
+                                                           𝑛1     30
+Ademais, a probabilidade de receber X = 2 ou X = 3 denúncias corresponde a união dessas probabilidades.
+Como são eventos mutuamente exclusivos, a probabilidade da união corresponde à soma das
+probabilidades:
+                                          P(X = 2 OU X = 3) = P(X = 2) + P(X = 3)
+
+
+           Receita Federal (Analista Tributário) Estatística                                         59
+           www.estrategiaconcursos.com.br                                                            154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Pela fórmula de Poisson, temos:
+                                              𝑒 −3 . 32
+                                   𝑃(𝑋 = 2) =           = 4,5 × 0,05 = 0,225
+                                                 2!
+                                              𝑒 −3 . 33
+                                   𝑃(𝑋 = 3) =           = 4,5 × 0,05 = 0,225
+                                                 3!
+Logo:
+                                      P(X = 2 OU X = 3) = 0,225 + 0,225 = 0,45
+Gabarito: A.
+
+
+(CESPE/2018 – TCE-PA/Auditor de Controle Externo) O número de acidentes de trabalho em determinada
+obra pública no mês k segue uma distribuição de Poisson W k com média igual a 1 acidente por mês.
+Considerando uma amostra aleatória simples W1, W2, ..., Wn, julgue o item a seguir, acerca da soma W1 + W2
++ ... + Wn.
+O total de acidentes segue distribuição de Poisson com média igual a n.
+Comentários:
+A soma de variáveis com distribuição de Poisson também segue uma distribuição de Poisson. A média
+(esperança) da distribuição W1 + W2 + ... + Wn pode ser calculada pela propriedade aditiva da esperança:
+                          𝐸 (𝑊1 + 𝑊2 + ⋯ + 𝑊𝑛 ) = 𝐸 (𝑊1 ) + 𝐸 (𝑊2 ) + ⋯ + 𝐸(𝑊𝑛 )
+O enunciado informa que as médias são todas iguais a 1. Sabendo que há 𝑛 variáveis Wi, temos:
+                            𝐸 (𝑊1 + 𝑊2 + ⋯ + 𝑊𝑛 ) = 1 + 1 + ⋯ + 1 = 1 × 𝑛 = 𝑛
+                                                             𝑛 vezes
+Gabarito: Certo.
+
+        Receita Federal (Analista Tributário) Estatística                                              60
+        www.estrategiaconcursos.com.br                                                                154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                       DISTRIBUIÇÃO BINOMIAL NEGATIVA
+A distribuição binomial negativa ou distribuição de Pascal estuda o número de ensaios de Bernoulli
+necessários para se obter 𝒌 sucessos.
+
+        Enquanto a binomial (original) estuda o número de sucessos (𝑋 = 𝑘) obtidos em 𝒏 ensaios
+        de Bernoulli, com 𝒏 fixo; a binomial negativa estuda o número de ensaios (𝑋 = 𝑥)
+        necessários para se obter 𝒌 sucessos, com 𝒌 fixo.
+
+Vamos utilizar um exemplo para ilustrar melhor essa diferença. Vamos supor que o ensaio de Bernoulli seja
+o lançamento de uma moeda, e que o sucesso corresponda à face CARA.
+
+Se definirmos que vamos jogar a moeda 10 vezes para estudar quantos sucessos obtemos, temos uma
+distribuição binomial (original); se definirmos que vamos jogar a moeda até obtermos 5 sucessos, temos
+uma distribuição binomial negativa.
+
+A probabilidade de realizarmos 𝑋 = 𝑛 ensaios para obter 𝑘 sucessos é dada por:
+
+                                                            𝒙 − 𝟏 𝒌 𝒙−𝒌
+                                           𝑃(𝑋 = 𝑥) = (          )𝑝 .𝑞
+                                                            𝒌−𝟏
+
+Para o nosso exemplo de lançamento da moeda, a probabilidade de obter CARA (sucesso) em um único
+lançamento é 𝑝 = 0,5 e de obter COROA é 𝑞 = 1 − 𝑝 = 0,5. Assim, a probabilidade de obtermos 𝒌 = 𝟓
+sucessos em 𝒙 = 𝟖 lançamentos é:
+
+                                         8−1                   7                 7
+                        𝑃(𝑋 = 8) = (        ) 0,55 . 0,58−5 = ( ) 0,55 . 0,53 = ( ) 0,58
+                                         5−1                   4                 4
+              7
+A combinação ( ) é igual a:
+              4
+
+                       7        7!         7 × 6 × 5 × 4! 7 × 6 × 5
+                      ( )=               =               =          = 7 × 5 = 35
+                       4   (7 − 4)! × 4!      3! × 4!       3×2
+
+Então, a probabilidade 𝑃(𝑋 = 8) é:
+
+                                          𝑃(𝑋 = 8) = 35 × 0,58 ≅ 0,137
+
+
+        Receita Federal (Analista Tributário) Estatística                                             61
+        www.estrategiaconcursos.com.br                                                                154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+O que muda, em relação à fórmula da binomial (original), são os parâmetros da combinação: enquanto na
+                                       𝑛                                             𝒙−𝟏
+binomial (original) a combinação é de ( ), na binomial negativa, a combinação é de (     ).
+                                       𝑘                                            𝒌−𝟏
+                                                     𝑛     8
+Para o nosso exemplo, em vez de termos a combinação ( ) = ( ), como seria o caso para a distribuição
+                                                     𝑘     5
+                               𝒙−𝟏      7
+binomial, temos a combinação (     ) = ( ).
+                               𝒌−𝟏      4
+
+Essa diferença ocorre porque, na distribuição binomial negativa, a última tentativa será necessariamente o
+𝒌-ésimo sucesso (para o nosso exemplo, a 8ª tentativa será o 5º sucesso); caso contrário teríamos parado
+com as tentativas antes.
+
+Por isso, precisamos escolher, dentre as demais 𝒙 − 𝟏 = 7 tentativas, quais serão os 𝒌 − 𝟏 = 4 sucessos.
+
+Os parâmetros da distribuição binomial negativa são a probabilidade de sucesso 𝑝 e o número de sucessos
+𝑘. Assim, podemos representar essa distribuição como 𝑋~𝐵𝑁(𝒑, 𝒌).
+
+A variável com distribuição binomial negativa assume os valores 𝒙 = 𝒌, 𝒌 + 𝟏, 𝒌 + 𝟐, …
+
+Ela é no mínimo 𝑘 (pois só é possível obter 𝑘 sucessos, com no mínimo 𝑘 tentativas) e não tem limite superior
+(é sempre possível ter que tentar mais uma vez até obter o 𝑘-ésimo sucesso). Para o nosso exemplo, em que
+𝑘 = 5, a variável pode assumir os valores 𝑥 = 5, 6, 7, …, sem limite superior.
+
+Também podemos utilizar a binomial negativa para calcular a probabilidade de extrairmos uma amostra de
+tamanho 𝒙, de uma população com 2 atributos (sucesso e fracasso), para encontrar 𝒌 sucessos na amostra.
+
+        Vamos supor que em uma fábrica, 20% das peças apresentem defeito. Para calcular a
+        probabilidade de inspecionarmos exatamente 𝒙 = 𝟒 peças, para encontrar 𝒌 = 𝟐 peças
+        defeituosas, utilizamos a distribuição binomial negativa, com p = 20% = 0,2 e k = 2.
+
+        A probabilidade 𝑃(𝑋 = 4) é:
+
+                                                            𝑥 − 1 𝑘 𝑥−𝑘
+                                           𝑃(𝑋 = 𝑥) = (          )𝑝 .𝑞
+                                                            𝑘−1
+
+                                        3
+                            𝑃(𝑋 = 4) = ( ) 0,22 . 0,82 = 3 × 0,04 × 0,64 = 7,68%
+                                        1
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 62
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+No entanto, para utilizar essa distribuição, é necessário que as extrações sejam independentes (mesma
+condição necessária para a aplicação da distribuição binomial). Para isso, é necessário que a população seja
+infinita (ou muito grande em relação à amostra) ou que as extrações sejam feitas com reposição.
+
+E quanto à esperança? Assim como para outras distribuições, esperamos que o resultado mantenha a
+proporção de sucessos. Por exemplo, no caso do lançamento de uma moeda, com 𝑝 = 50%, esperamos ter
+que lançar 10 vezes para obter 5 caras.
+
+Isso significa que o valor esperado é dado por:
+
+                                                                             𝒌
+                                                        𝑬(𝑿) = 𝒑
+                                                            ==219a34==
+
+Para o exemplo da fábrica, em que 𝑝 = 0,2 e 𝑘 = 2, esperamos que o número de peças inspecionadas seja:
+                                                                𝑘   2
+                                                 𝐸(𝑋) =           =   = 10
+                                                                𝑝 0,2
+
+
+E a variância é dada por:
+
+                                                                             𝒌.𝒒
+                                                        𝑽(𝑿) =
+                                                                             𝒑𝟐
+
+
+Para o mesmo exemplo da fábrica, a proporção de peças não defeituosas (fracasso) é 𝑞 = 1 − 𝑝 = 0,8. A
+variância dessa distribuição é:
+                                                        𝑘. 𝑞 2 × 0,8
+                                               𝑉(𝑋) =       =        = 40
+                                                        𝑝2    0,22
+
+
+Pontue-se que a distribuição geométrica, que estuda o número de tentativas até o 1º sucesso, pode ser
+considerada um caso particular da binomial negativa, para 𝑘 = 1.
+Também podemos dizer que a binomial negativa corresponde à soma de 𝒌 variáveis geométricas, com o
+mesmo parâmetro 𝒑.
+
+
+                                           1                             𝑞
+De fato, para 𝑘 = 1, temos 𝐸(𝑋) = 𝑝 e 𝑉(𝑋) = 𝑝2, que são as fórmulas da esperança e da variância,
+respectivamente, da distribuição geométrica. E a probabilidade de 𝑋 = 𝑥 para 𝑘 = 1 é:
+                                          𝑥 − 1 𝑘 𝑥−𝑘    𝑥 − 1 𝑘 𝑥−𝑘
+                         𝑃(𝑋 = 𝑥) = (          )𝑝 .𝑞  =(      )𝑝 .𝑞  = 𝑝. 𝑞 𝑥−𝑘
+                                          𝑘−1              0
+Essa é justamente a probabilidade 𝑃(𝑋 = 𝑥) para a variável com distribuição geométrica.
+
+        Receita Federal (Analista Tributário) Estatística                                                63
+        www.estrategiaconcursos.com.br                                                                  154
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+      Assim, como podemos parametrizar a distribuição geométrica pelo número de fracassos
+      até o primeiro sucesso, também podemos parametrizar a binomial negativa como o
+      número de fracassos até o 𝑘-ésimo sucesso. Nesse caso, teríamos:
+
+                                                          𝑘+𝑦−1 𝑘 𝑦
+                                        𝑃(𝑌 = 𝑦) = (           )𝑝 .𝑞
+                                                           𝑘−1
+
+      Com essa parametrização temos 𝑦 fracassos e 𝑘 sucessos, logo, há 𝑦 + 𝑘 tentativas no
+      total. Sabendo que a última tentativa será o 𝑘-ésimo sucesso, precisamos escolher, dentre
+      as demais 𝑦 + 𝑘 − 1 tentativas quais serão os 𝑘 − 1 sucessos.
+
+      Para o exemplo do lançamento da moeda até obter 𝑘 = 5 sucessos, sabemos que um total
+      de 𝑥 = 8 tentativas (parametrização anterior) corresponde a 𝑦 = 3 fracassos
+      (parametrização alternativa). A probabilidade de obter 𝑦 = 3 fracassos é dada por:
+
+                                             5+3−1                 7
+                            𝑃(𝑌 = 3) = (          ) 0,55 . 0,53 = ( ) 0,55 . 0,53
+                                              5−1                  4
+
+      Como era esperado, a probabilidade de obter 𝑦 = 3 fracassos é igual à probabilidade de
+      lançar a moeda um total de 𝑥 = 8 vezes (parametrização anterior).
+
+      Com essa parametrização a variável pode assumir os valores 𝑌 = {0,1,2,3, . . . }, ou seja, a
+      partir de zero (afinal, é possível não obter fracasso algum).
+
+                                     Distribuição Binomial Negativa (𝒑, 𝒌)
+
+                           Número de Ensaios de Bernoulli até o 𝒌-ésimo sucesso
+
+                                                          𝒙 − 𝟏 𝒌 𝒙−𝒌
+                                         𝑷(𝑿 = 𝒌) = (          )𝒑 .𝒒
+                                                          𝒌−𝟏
+                                                 𝑘                               𝑞.𝑘
+                          Esperança: 𝐸(𝑋) = 𝑝;                  Variância: 𝑉(𝑋) = 𝑝2
+
+      Receita Federal (Analista Tributário) Estatística                                              64
+      www.estrategiaconcursos.com.br                                                                 154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+(FGV/2022 – EPE) Sabe-se que sempre que um consumidor vai a um supermercado, a probabilidade de ele
+comprar um determinado item é de 20%. Suponha que se deseja saber a probabilidade desse consumidor
+ter que ir ao supermercado 10 vezes para que ele compre o referido item metade das vezes.
+A distribuição de probabilidade mais apropriada para modelar esse problema é a
+a) binomial
+b) geométrica
+c) binomial negativa
+d) Poisson
+e) hipergeométrica
+Comentários:
+A distribuição que estuda o número de ensaios necessários para se obter 𝑘 sucessos (no caso, 𝑘 = 5) é a
+distribuição binomial negativa (alternativa C).
+Em relação às demais alternativas, a distribuição geométrica (B) estuda o número de ensaios necessários
+para se obter o primeiro sucesso (k = 1); a distribuição binomial (A) estuda o número de sucessos obtidos,
+para uma quantidade fixa de ensaios; a distribuição de Poisson (D) estuda o número de sucessos obtidos em
+um intervalo fixo; e a distribuição hipergeométrica estuda o número de sucessos obtidos, em uma amostra
+de tamanho fixo, extraída sem reposição (ou seja, quando as extrações não são independentes).
+Gabarito: C.
+
+
+(CESPE/2011 – STM) Se, em determinada fábrica, 10% das peças produzidas são defeituosas, então, para fins
+de controle de qualidade, uma distribuição binomial negativa deve ser usada na situação em que é retirada
+uma amostra aleatória simples com reposição de 10 peças para se determinar a probabilidade de ocorrer
+exatamente 3 peças defeituosas nessa amostra.
+Comentários:
+Sabendo que será retirada uma amostra aleatória, com reposição, de n = 10 peças e que a probabilidade de
+defeito é p = 10%, então temos uma distribuição binomial (original).
+Gabarito: Errado.
+
+
+(FGV/2019 – DPE/RJ – Adaptada) Uma amostra (X1, X2,... , Xn) de tamanho n, onde cada uma das variáveis Xi
+é de Bernoulli, tipo 0 ou 1, todas com o mesmo parâmetro p, é extraída. Considerando as distribuições exatas,
+é correto afirmar que:
+Se a extração da amostra só é encerrada quando Xk = 1, pela J-ésima vez, então K tem distribuição de Binomial
+Negativa com parâmetros J e p.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 65
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+Se a extração da amostra só é encerrada quando Xk = 1 (isto é, ocorre sucesso) pela J-ésima vez, então a
+variável tem distribuição binomial negativa. Os parâmetros são o número de sucessos desejados (J) e a
+probabilidade de sucesso de cada elemento p.
+Resposta: Certo.
+
+
+(CESPE/2018 – Analista Judiciário STM) A quantidade de clientes atendidos em cada minuto pelos
+empregados 1 e 2 em um balcão de atendimentos é expressa por T = Y1 + Y2, em que Y1 = quantidade de
+clientes atendidos (por minuto) pelo empregado 1, e Y2 = quantidade de clientes atendidos (por minuto) pelo
+empregado 2.
+Considerando que, nessa situação hipotética, Y1 e Y2 sejam variáveis aleatórias independentes, seguindo
+uma mesma distribuição Y, cuja função de probabilidade é P(Y = y) = 0,1 × 0,9y , para y = 0, 1, 2, ..., julgue o
+seguinte item.
+A soma T segue uma distribuição binomial negativa.
+Comentários:
+Sabendo que as variáveis Y seguem distribuições geométricas com mesmo p, então a soma de k variáveis
+com distribuição geométrica corresponde a uma distribuição binomial negativa (que estuda o número de
+tentativas até o k-ésimo sucesso).
+Gabarito: Certo.
+(CESPE/2018 – Analista Judiciário STM) A quantidade de clientes atendidos em cada minuto pelos
+empregados 1 e 2 em um balcão de atendimentos é expressa por T = Y1 + Y2, em que Y1 = quantidade de
+clientes atendidos (por minuto) pelo empregado 1, e Y2 = quantidade de clientes atendidos (por minuto) pelo
+empregado 2.
+Considerando que, nessa situação hipotética, Y1 e Y2 sejam variáveis aleatórias independentes, seguindo
+uma mesma distribuição Y, cuja função de probabilidade é P(Y = y) = 0,1 × 0,9y , para y = 0, 1, 2, ..., julgue o
+seguinte item.
+Se E[T]=quantidade média de clientes atendidos em cada minuto por esses dois empregados, então E[T]< 17.
+Comentários:
+A média de uma variável binomial negativa é dada por:
+                                                                𝑘
+                                                       𝐸(𝑋) =
+                                                                𝑝
+Pela função de probabilidade P(Y = y) = 0,1 × 0,9y, concluímos que a probabilidade de sucesso é p = 0,1.
+Ademais, sabemos que a variável T consiste na soma de k = 2 variáveis geométricas, então:
+                                                             2
+                                                   𝐸(𝑋) =       = 20
+                                                            0,1
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                    66
+        www.estrategiaconcursos.com.br                                                                      154
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Resumo da Aula
+
+Distribuição Uniforme: todos os valores são equiprováveis
+
+Distribuição de Bernoulli (𝒑): 1 Experimento (Ensaio) de Bernoulli
+
+   •   2 resultados possíveis: sucesso (𝑋 = 1) ou fracasso (𝑋 = 0)
+   •   Probabilidade de sucesso: 𝑃[𝑋 = 1] = 𝑝
+   •   Probabilidade de fracasso: 𝑃[𝑋 = 0] = 𝑞 = 1 − 𝑝
+                                          𝐸(𝑋) = 𝑝;               𝑉(𝑋) = 𝑝. 𝑞
+
+
+Distribuição Binomial (𝒏, 𝒑): Número de sucessos em 𝒏 Ensaios de Bernoulli independentes
+
+                                             𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 . 𝑝𝑘 . 𝑞 𝑛−𝑘
+
+                                        𝐸(𝑋) = 𝑛. 𝑝;              𝑉(𝑋) = 𝑛. 𝑝. 𝑞
+
+Distribuição Geométrica (𝒑): Número de Ensaios de Bernoulli até o primeiro sucesso
+
+                                                 𝑃(𝑋 = 𝑘) = 𝑞 𝑘−1 . 𝑝
+                                                     1                       𝑞
+                                           𝐸(𝑋) =      ;          𝑉(𝑋) =
+                                                     𝑝                       𝑝2
+
+Distribuição Hipergeométrica (𝑵, 𝑺, 𝒏): Extrações sem reposição
+                                                         𝑆 𝑁−𝑆
+                                                        ( )(     )
+                                              𝑃(𝑋 = 𝑘) = 𝑘 𝑛 − 𝑘
+                                                             𝑁
+                                                           ( )
+                                                             𝑛
+                                                                             𝑁−𝑛
+                                    𝐸(𝑋) = 𝑛. 𝑝;            𝑉(𝑋) = 𝑛. 𝑝. 𝑞
+                                                                             𝑁−1
+
+Distribuição de Poisson (𝝀): Aproximação da Binomial para 𝑛 → ∞ e 𝑝 → 0
+
+                                                                 𝑒 −𝜆 . 𝜆𝑘
+                                                 𝑃(𝑋 = 𝑘) =
+                                                                    𝑘!
+                                               𝐸(𝑋) = 𝜆;         𝑉(𝑋) = 𝜆
+
+Distribuição Binomial Negativa (𝒑, 𝒌): Número de Ensaios até o 𝒌-ésimo sucesso
+                                                             𝑥 − 1 𝑘 𝑥−𝑘
+                                           𝑃(𝑋 = 𝑘) = (           )𝑝 .𝑞
+                                                             𝑘−1
+                                                   𝑘                         𝑞. 𝑘
+                                         𝐸(𝑋) =      ;             𝑉(𝑋) =
+                                                   𝑝                         𝑝2
+
+        Receita Federal (Analista Tributário) Estatística                                  67
+        www.estrategiaconcursos.com.br                                                     154
+
+                                      
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+                               QUESTÕES COMENTADAS – FGV
+
+Uniforme
+
+1.        (FGV/2023 – CGE/SC) Considere uma variável aleatória X uniformemente distribuída no intervalo [0,1].
+A média e a variância de X serão, respectivamente, iguais a
+
+a) 0 e 1/3
+
+b) 1 e 1
+
+c) 1/2 e 1/12
+
+d) 1/12 e 1
+
+e) 1/6 e 1/24
+
+Comentários:
+A média de uma variável uniforme, no intervalo [0, 1], é a média aritmética dos limites do intervalo:
+                                                          𝑎+𝑏 0+1 1
+                                                    𝜇=       =   =
+                                                           2   2   2
+E a variância é dada por:
+                                                      (𝑏 − 𝑎)2 (1 − 0)2    1
+                                               𝜎2 =           =         =
+                                                         12       12      12
+Gabarito: C
+
+
+2.     (FGV/2023 – BANESTES) Admita que a variável aleatória Y siga uma distribuição uniforme contínua no
+intervalo [-1, +2]. Assim, a esperança de Y2 é igual a
+
+a) 1
+
+b) 1,5
+
+c) 2
+
+d) 2,5
+
+e) 3
+
+           Receita Federal (Analista Tributário) Estatística                                               68
+           www.estrategiaconcursos.com.br                                                                  154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+O valor de 𝐸(𝑌 2 ) pode ser calculado a partir da fórmula da variância:
+                                              𝑉𝑎𝑟(𝑌) = 𝐸(𝑌 2 ) − [𝐸(𝑋)]2
+                                              𝐸(𝑌 2 ) = 𝑉𝑎𝑟(𝑌) + [𝐸(𝑋)]2
+Para uma variável uniforme, a esperança corresponde à média aritmética dos extremos:
+                                                       𝑎 + 𝑏 (−1) + 2 1
+                                            𝐸(𝑋) =          =        =
+                                                         2      2      2
+E a variância é dada por:
+                                             (𝑏 − 𝑎)2 (2 − (−1))2 32   9   3
+                                𝑉𝑎𝑟(𝑌) =             =           =   =   =
+                                                12        12       12 12 4
+E a soma é:
+                                                        3   1 2 3 1
+                                            𝐸(𝑌 2 ) =     +( ) = + =1
+                                                        4   2   4 4
+Gabarito: A
+
+
+3.      (FGV/2023 – TCE/ES) Os noventa e nove percentis (𝑷𝟏 , 𝑷𝟐 , … , 𝑷𝟗𝟗 ) dividem os dados ordenados em
+cem partes com, aproximadamente, 1% dos dados em cada uma delas. Seja 𝑿~𝑼𝒏𝒊𝒇𝒐𝒓𝒎𝒆(𝒂; 𝒃), 𝒃 > 𝒂 e
+𝒑(𝒊) o 𝒊-ésimo percentil, 𝒊 = 𝟏, 𝟐, … , 𝟗𝟗.
+
+Uma expressão que fornece o 𝒑(𝒊) dessa distribuição é
+
+a) 𝑎 + (𝑏 − 𝑎)𝑖%
+
+b) 𝑏 + (𝑏 − 𝑎)𝑖%
+
+c) 𝑎 − (𝑏 − 𝑎)𝑖%
+
+d) 𝑏 − (𝑎 − 𝑏)𝑖%
+
+        𝑏−𝑎
+e) 𝑏 + ( 2 ) 𝑖%
+
+Comentários:
+Precisamos encontrar a expressão referente ao 𝑖-ésimo percentil de uma distribuição uniforme no intervalo
+(𝑎, 𝑏).
+Em relação à alternativa A, a expressão 𝑎 + (𝑏 − 𝑎)𝑖% representa que somamos ao limite inferior do intervalo
+(𝑎) a parcela (𝑏 − 𝑎)𝑖%, associada ao 𝑖-ésimo percentil.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                69
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Para ilustrar, vamos supor que o intervalo seja (10, 50). De acordo com essa expressão, o primeiro percentil é
+calculado como:
+                                       10 + (50 − 10) × 1% = 10 + 0,4 = 10,4
+De modo que 𝑃(𝑋 < 10,4) = 1%. Já, o 99º percentil é:
+                                      10 + (50 − 10) × 99% = 10 + 39,6 = 49,6
+De modo que 𝑃(𝑋 < 49,6) = 99%. Em outras palavras, devemos dividir a amplitude do intervalo por 100 e
+multiplicar pelo percentil 𝑖 desejado. Esse é o valor que deve ser acrescido ao limite inferior do intervalo.
+Portanto, essa expressão está correta.
+A alternativa B soma esse termo ao limite superior do intervalo, resultando em valores maiores que o limite
+superior. A alternativa E também adiciona um termo ao limite superior, o que também resulta em valores
+maiores. Assim, as alternativas A e E estão erradas.
+A alternativa C subtrai o termo (𝑏 − 𝑎)𝑖% do limite inferior, resultando em valores menores que o limite
+inferior, logo a alternativa C está errada.
+Por fim, a alternativa D subtrai esse termo do limite superior, o que resulta em valores entre os dois limites.
+Entretanto, os percentis estarão trocados, ou seja, para 𝑖 = 1, obteremos o 99% percentil, para 𝑖 = 2,
+obteremos o 98%, e assim sucessivamente. Logo, a alternativa D está errada.
+Gabarito: A
+
+
+4.     (FGV/2022 – EPE) Se uma variável aleatória contínua X tem distribuição uniforme no intervalo [2, 8],
+então a variância de X é igual a
+
+a) 2,0
+
+b) 3,0
+
+c) 4,0
+
+d) 5,0
+
+e) 6,0
+
+Comentários:
+A variância de uma variável com distribuição uniforme é dada por:
+                                                             (𝑏 − 𝑎)2
+                                                    𝑉𝑎𝑟(𝑋) =
+                                                                12
+Sendo os extremos 𝑎 = 2 e 𝑏 = 8, temos:
+
+         Receita Federal (Analista Tributário) Estatística                                                  70
+         www.estrategiaconcursos.com.br                                                                     154
+
+                                         
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+                                                           (8 − 2)2 62 36
+                                              𝑉𝑎𝑟(𝑋) =             =   =   =3
+                                                              12     12 12
+Gabarito: B
+
+
+5.    (FGV/2022 – SEMSA/Manaus) Avalie se as seguintes famílias de distribuições pertencem à família
+exponencial:
+
+I - Distribuição Normal
+II - Distribuição Binomial
+
+III - Distribuição de Poisson
+
+IV - Distribuição Uniforme
+Estão corretas apenas
+
+a) I e II
+
+b) III e IV
+
+c) I, II e III
+
+d) I, III e IV
+
+e) II, III e IV
+
+Comentários:
+Diversas distribuições conhecidas pertencem à família exponencial, incluindo a distribuição normal, binomial e
+de Poisson. A distribuição uniforme não pertence a essa família.
+Gabarito: C
+
+6.          (FGV/2018 – ALERO) Avalie se as seguintes famílias de distribuições são uma família exponencial:
+
+I - A família de distribuições Poisson com média desconhecida.
+
+II - A família de distribuições normais com média conhecida e variância desconhecida.
+
+III - A família de distribuições Beta com parâmetro α conhecido e parâmetro β desconhecido.
+
+IV - A família de distribuições Uniforme no intervalo (0, θ), θ parâmetro desconhecido.
+São de fato famílias exponenciais
+
+            Receita Federal (Analista Tributário) Estatística                                                  71
+            www.estrategiaconcursos.com.br                                                                     154
+
+                                            
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+a) I e II, apenas.
+
+b) III e IV, apenas.
+
+c) I, II e IV, apenas.
+
+d) I, II e III, apenas.
+
+e) I, II, III e IV.
+
+Comentários:
+
+A distribuição uniforme contínua, assim como a discreta, é uma importante distribuição que não pertence à
+família exponencial.
+                                                               ==219a34==
+
+As demais distribuições citadas (Poisson, normal e Beta), assim como outras (binomial, geométrica,
+hipergeométrica, exponencial, Weibull) são da família exponencial.
+
+Gabarito: D.
+
+7.        (FGV/2018 – ALERO) Se (Xn) é uma sequência de variáveis aleatórias com distribuição uniforme no
+intervalo (0, (n – 1)/ n), n > 1, então (Xn) converge para uma distribuição
+
+a) uniforme no intervalo (0, 1).
+
+b) qui-quadrado com 1 grau de liberdade
+
+c) exponencial com parâmetro 𝜆 = 1.
+
+d) normal padrão.
+
+e) geométrica parâmetro 𝜃 = 1.
+
+Comentários:
+
+                                                                                       𝑛−1
+Sendo Xn uma sequência de variáveis aleatórias com distribuição uniforme no intervalo (0, 𝑛 ), então quando
+                      𝑛−1
+𝑛 → ∞, a razão 𝑛 converge para 1, porque 𝑛 − 1 e 𝑛 convergem para o mesmo valor.
+
+Logo, Xn converge para uma distribuição uniforme no intervalo (0, 1).
+
+Gabarito: A.
+
+           Receita Federal (Analista Tributário) Estatística                                            72
+           www.estrategiaconcursos.com.br                                                               154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+8.     (FGV/2017 – IBGE) Sabe-se que o tempo de aplicação de um questionário em uma pesquisa de campo
+é uma variável com distribuição uniforme entre 8 e 20 minutos. Um entrevistador pretende aplicar três
+questionários.
+
+Logo, é correto afirmar que:
+
+a) a probabilidade de que todas as entrevistas durem mais do que 15 minutos é de 27/64;
+
+b) a probabilidade de que duas entrevistas durem mais do que a média é igual a 5/8;
+
+c) o desvio padrão do tempo de duração de cada entrevista é igual a 2 minutos;
+
+d) a probabilidade de que apenas uma das entrevistas leve menos da metade do tempo máximo é igual a 25/72.
+
+e) a probabilidade do tempo total de entrevista exceder 40 minutos é igual a 0,5.
+
+Comentários:
+
+Primeiro vamos calcular o valor da f.d.p.:
+
+                                                       1     1     1
+                                               𝑘=         =      =
+                                                     𝑏 − 𝑎 20 − 8 12
+
+Em relação à alternativa a, a probabilidade de um questionário durar mais que 15 minutos é:
+
+                                                                  𝑏−𝑚
+                                                   𝑃(𝑋 > 𝑚) =
+                                                                  𝑏−𝑎
+
+                                                                        20 − 15    5
+                                  𝑃(𝑋 > 15) = 𝑃(15 < 𝑋 < 20) =                  =
+                                                                         20 − 8   12
+
+A probabilidade de os 3 questionários durarem mais que 15 minutos é o produto:
+
+                                                                        5   5   5   125
+                         𝑃(𝑋 > 15) × 𝑃(𝑋 > 15) × 𝑃(𝑋 > 15) =              ×   ×   =
+                                                                       12 12 12 1728
+
+Portanto, a alternativa a está errada.
+
+Em relação à alternativa b, precisamos calcular a média:
+
+                                                            𝑏 + 𝑎 20 + 8
+                                          𝜇 = 𝐸(𝑋) =             =       = 14
+                                                              2     2
+
+A probabilidade de uma entrevista durar mais que a média, isto é, 𝑝 = 𝑃(𝑋 > 14), é dada por:
+
+        Receita Federal (Analista Tributário) Estatística                                              73
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                                                           20 − 14    6
+                             𝑝 = 𝑃(𝑋 > 14) = 𝑃(14 < 𝑋 < 20) =                      =    = 0,5
+                                                                            20 − 8   12
+
+A probabilidade de 2 questionários, dentre 3, durarem mais que a média, é dada pela fórmula da distribuição
+binomial, em que a probabilidade de sucesso (isto é, de um questionário durar mais que a média) é p = 0,5 e a
+probabilidade de fracasso é q = 1 – p = 0,51:
+
+                                        𝐶3,2 × 𝑝2 × 𝑞 = 3 × 0,52 × 0,5 = 0,375
+
+Portanto, a alternativa b está errada.
+
+Em relação à alternativa c, o desvio padrão é dado por:
+
+
+                                                                (𝑏 − 𝑎)2 𝑏 − 𝑎
+                                           𝜎𝑋 = √𝑉(𝑋) = √               =
+                                                                   12     √12
+
+                                                       20 − 8       12
+                                                𝜎𝑋 =            =         = √12
+                                                        √12         √12
+
+Portanto, a alternativa c está errada.
+
+Em relação à alternativa d, a probabilidade de uma entrevista levar menos da metade do tempo máximo,
+𝑃(𝑋 < 10) é:
+
+                                                                          10 − 8   2   1
+                                  𝑃(𝑋 < 10) = 𝑃(8 < 𝑋 < 10) =                    =   =
+                                                                          20 − 8 12 6
+
+A probabilidade de apenas um dos questionários durar menos de 10 minutos, e os demais, mais que 10 minutos,
+                                                  5
+com probabilidade 𝑃(𝑋 ≥ 10) = 1 − 𝑃(𝑋 < 10) = 6, é:
+
+                                                                                  1 5 5    25
+                       𝑃(𝑋 < 10) × 𝑃(𝑋 ≥ 10) × 𝑃(𝑋 ≥ 10) × 𝐶3,2 =                  × × ×3=
+                                                                                  6 6 6    72
+
+Portanto, a alternativa d está correta.
+
+Em relação à alternativa e, o tempo total de entrevista (com os 3 questionários) é uma variável com média igual
+à mediana, dada por:
+
+                              𝐸(𝑇𝑜𝑡𝑎𝑙) = 𝐸(𝑋1 + 𝑋2 + 𝑋3 ) = 𝐸(𝑋1 ) + 𝐸(𝑋2 ) + 𝐸(𝑋3 )
+
+1 É necessário multiplicar o produto das probabilidades 𝑝 2 × 𝑞 pelo número de maneiras de escolher 2 questionários, dentre 3
+
+(isto é, pela combinação 𝐶3,2). Isso porque o produto 𝑝2 × 𝑞 fornece a probabilidade associada a determinada ordem (por
+exemplo, de os 2 primeiros questionários durarem mais e o 3º questionário durar menos que a média).
+         Receita Federal (Analista Tributário) Estatística                                                                74
+         www.estrategiaconcursos.com.br                                                                                  154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A média de tempo de cada questionário é a média aritmética entre os limites 8 e 20:
+
+                                                                     8 + 20
+                                       𝐸(𝑋1 ) = 𝐸(𝑋2 ) = 𝐸(𝑋3 ) =           = 14
+                                                                       2
+
+Logo, a média do tempo total da entrevista é:
+
+                                            𝐸(𝑇𝑜𝑡𝑎𝑙) = 14 + 14 + 14 = 42
+
+Portanto, a probabilidade de o tempo total exceder 42 minutos (não 40 minutos) é igual 0,5.
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                     75
+        www.estrategiaconcursos.com.br                                                        154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                              QUESTÕES COMENTADAS – FGV
+
+Distribuição Binomial
+
+1.    (FGV/2025 – TCE/PI) Numa determinada população, 40% das famílias moram em locais sem acesso a
+saneamento básico. Se quatro famílias dessa população forem sorteadas ao acaso, sem reposição, a
+probabilidade de que duas morem em locais sem saneamento básico é, aproximadamente, igual a
+
+a) 0,25
+
+b) 0,30
+
+c) 0,35
+
+d) 0,40
+
+e) 0,45
+
+Comentários:
+
+Aqui, temos uma distribuição binomial, com uma amostra de tamanho 𝑛 = 4 e probabilidade de sucesso (morar
+em local sem saneamento básico) 𝑝 = 0,4. A probabilidade de encontrar 𝑘 = 2 famílias nessa situação é:
+                                           𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × (1 − 𝑝)𝑛−𝑘
+                                               𝑃(𝑋 = 2) = 𝐶4,2 × 0,42 × 0,62
+A combinação é:
+                                                        4!         4 × 3 × 2!
+                                          𝐶4,2 =                 =            =6
+                                                   (4 − 2)! × 2!     2! × 2
+E a probabilidade desejada é:
+                                           𝑃(𝑋 = 2) = 6 × 0,16 × 0,36 ≅ 0,35
+Gabarito: C
+
+2.     (FGV/2024 – Pref. São José dos Campos) Uma moeda é viciada de modo que, cada vez que ela é
+lançada, a probabilidade de ocorrer cara é igual a 1/4 e a probabilidade de ocorrer coroa é 3/4. A cada
+lançamento o resultado é independente de lançamentos anteriores. Essa moeda é lançada 3 vezes
+consecutivas.
+
+          Receita Federal (Analista Tributário) Estatística                                           76
+          www.estrategiaconcursos.com.br                                                              154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade de que os 3 resultados sejam iguais é
+
+a) 11/16
+
+b) 9/16
+
+c) 7/16
+
+d) 5/16
+
+e) 1/2
+
+Comentários:
+
+Considerando que os lançamentos são independentes, temos uma distribuição binomial, com 𝑛 = 3
+                                                                            1       3
+lançamentos. Considerando que a face CARA corresponde ao sucesso, temos 𝑝 = 4 e 𝑞 = 4. A probabilidade de
+obter nenhum sucesso (3 resultados iguais) é:
+                                                𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+
+                                                      1 0   3 3         33 27
+                                   𝑃(𝑋 = 0) = 𝐶3,0 × ( ) × ( ) = 1 × 1 × 3 =
+                                                      4     4           4    64
+E a probabilidade de obter somente sucessos (3 resultados iguais) é:
+                                                      1 3   3 0      1        1
+                                   𝑃(𝑋 = 3) = 𝐶3,3 × ( ) × ( ) = 1 × 3 × 1 =
+                                                      4     4       4        64
+E a probabilidade de obter 3 resultados iguais, de uma forma ou de outra, corresponde à soma:
+                                                                 27 1   28   7
+                                        𝑃(𝑋 = 0 𝑜𝑢 𝑋 = 3) =        +  =    =
+                                                                 64 64 64 16
+Gabarito: C
+
+3.      (FGV/2023 – TJ/SE) A média e o desvio padrão de uma distribuição binomial são, respectivamente, 20
+e 2. O número de ensaios (n) dessa distribuição é:
+
+a) 1
+
+b) 25
+
+c) 40
+
+d) 80
+
+e) 400
+
+
+           Receita Federal (Analista Tributário) Estatística                                           77
+           www.estrategiaconcursos.com.br                                                              154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+
+Sabendo que a média (ou esperança) da variável é igual a 20, temos:
+                                                   𝐸(𝑋) = 𝑛 × 𝑝 = 20
+Sabendo que o desvio padrão é igual a 2, então a variância é igual ao quadrado disso:
+                                             𝑉𝑎𝑟(𝑋) = 𝑛 × 𝑝 × 𝑞 = 22 = 4
+Agora, calculamos a razão entre a variância e a média, para obter a probabilidade de fracasso:
+                                                      𝑛×𝑝×𝑞    4
+                                                            =
+                                                       𝑛×𝑝    20
+                                                                 1
+                                                            𝑞=
+                                                                 5
+E a probabilidade de sucesso é complementar:
+                                                                     1 4
+                                                 𝑝 = 1−𝑞 =1−          =
+                                                                     5 5
+Por fim, substituímos esse resultado na fórmula da esperança:
+                                                                  4
+                                                   𝐸(𝑋) = 𝑛 ×       = 20
+                                                                  5
+                                                                 5
+                                                     𝑛 = 20 ×      = 25
+                                                                 4
+Gabarito: B
+
+4.      (FGV/2023 – TJ/SE - Adaptada) Quanto à transformação de variáveis aleatórias que seguem uma
+distribuição de probabilidade determinada, julgue o item a seguir.
+A soma de n variáveis aleatórias independentes e identicamente distribuídas Bernoulli com parâmetro p tem
+distribuição Binomial com parâmetros n e p.
+
+Comentários:
+
+A distribuição binomial corresponde a repetições independentes do mesmo ensaio de Bernoulli. Desse modo, a
+soma de n variáveis independentes que seguem distribuição de Bernoulli com a mesma probabilidade de
+sucesso p, de fato, corresponde a uma distribuição binomial com parâmetros n e p.
+
+Resposta: Certo
+
+        Receita Federal (Analista Tributário) Estatística                                              78
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                        
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+5.     (FGV/2023 – Câmara dos Deputados) Numa população, 50% dos indivíduos já contraíram covid-19. Se
+uma amostra aleatória simples de 10 indivíduos for obtida dessa população, a probabilidade de que 6 tenham
+contraído covid-19 é aproximadamente igual a
+
+a) 0,02
+
+b) 0,05
+
+c) 0,08
+
+d) 0,10
+
+e) 0,20
+
+Comentários:                                                    ==219a34==
+
+Para resolver essa questão, utilizamos a distribuição binomial, em que as probabilidades são calculadas como:
+                                                 𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+O enunciado informa que o tamanho da amostra é 𝑛 = 10, que a proporção de indivíduos que contraíram covid
+é 𝑝 = 0,5, logo a proporção de indivíduos que não contraíram é 𝑞 = 1 − 𝑝 = 0,5. Assim, a probabilidade de
+encontrar 6 pessoas que tenham contraído covid é:
+                                                𝑃(𝑋 = 6) = 𝐶10,6 × 0,56 × 0,54
+A combinação é:
+                                10!         10 × 9 × 8 × 7 × 6! 10 × 9 × 8 × 7
+                 𝐶10,6 =                  =                    =               = 10 × 3 × 7 = 210
+                           (10 − 6)! × 6!         4! × 6!         4×3×2
+E a probabilidade desejada é1:
+                                                 𝑃(𝑋 = 6) = 210 × 0,510 ≅ 0,2
+Gabarito: E
+
+6.    (FGV/2023 – BANESTE) O Comitê organizador de um congresso científico contratou 5 hotéis da cidade
+onde vai se realizar esse evento para hospedar os 1.000 congressistas inscritos. Cada um desses hotéis só tem
+quartos individuais e só poderá hospedar os participantes do congresso durante o período do evento.
+
+                                                            1 10                  1
+1
+    Para fazer essa conta, você pode considerar que 0,510 = ( )              =        .
+                                                            2                    1024
+                             210
+Assim, temos 𝑃(𝑋 = 6) =            ≅ 0,2.
+                            1024
+
+            Receita Federal (Analista Tributário) Estatística                                              79
+            www.estrategiaconcursos.com.br                                                                 154
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Cada congressista escolherá de forma aleatória para qual dos 5 hotéis vai se dirigir. O Hotel H é um desses 5
+hotéis e tem capacidade para acomodar 210 pessoas. Para facilitar, informam-se a seguir as probabilidades
+de que uma variável aleatória X seja menor ou igual a k, para alguns valores de k, em que X tem distribuição
+Binomial (n,p), com n = 1000 e p = 1/5.
+
+                                                         k    P(X≤k)
+                                                        200    0,519
+                                                        204    0,642
+                                                        208    0,751
+                                                        212    0,839
+                                                        216    0,903
+                                                        220    0,946
+
+Sobre a probabilidade p de que o Hotel H consiga acomodar todos os congressistas que o procurarem, é
+correto afirmar que o valor de p está entre
+
+a) 0,519 e 0,642
+
+b) 0,642 e 0,751
+
+c) 0,751 e 0,839
+
+d) 0,839 e 0,903
+
+e) 0,903 e 0,946
+
+Comentários:
+
+A probabilidade de o hotel H ser capaz de acomodar todos os congressistas que o procurarem, corresponde à
+probabilidade de o número de congressistas que o procuram ser menor ou igual à sua capacidade, que é de 210
+pessoas.
+Considerando que há 1000 congressistas que escolhem cada um dos 5 hotéis aleatoriamente, então, a variável
+que representa o número de congressistas que procuram o hotel H segue uma distribuição binomial com 𝑛 =
+           1
+1000 e 𝑝 = 5.
+
+Em atenção à tabela fornecida, referente a essa distribuição, sabemos que a probabilidade 𝑃(𝑋 ≤ 210) está
+entre 𝑃(𝑋 ≤ 208) e 𝑃(𝑋 ≤ 212), logo:
+                                             0,751 < 𝑃(𝑋 ≤ 210) < 0,839
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Estatística                                                 80
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+7.     (FGV/2023 – RFB) Numa população, 50% das pessoas têm uma certa característica C. Se 4 pessoas
+forem aleatoriamente selecionadas, com reposição, a probabilidade de que mais de uma tenha a
+característica C é igual a
+
+a) 0,3125
+
+b) 0,3650
+
+c) 0,4245
+
+d) 0,6875
+
+e) 0,7225
+
+Comentários:
+
+A probabilidade de que mais de uma pessoa, dentre 4, ter a característica pode ser calculada pela probabilidade
+complementar:
+                              𝑃(𝑋 > 1) = 1 − 𝑃(𝑋 ≤ 1) = 1 − [𝑃(𝑋 = 0) + 𝑃(𝑋 = 1)]
+Como as pessoas são extraídas com reposição, tornando as extrações independentes, essas probabilidades são
+calculadas pela distribuição binomial:
+                                               𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+Sendo 𝑛 = 4, 𝑝 = 0,5, logo 𝑞 = 1 − 𝑝 = 0,5, temos:
+                             𝑃(𝑋 = 0) = 𝐶4,0 × 0,50 × 0,54 = 1 × 1 × 0,0625 = 0,0625
+                               𝑃(𝑋 = 1) = 𝐶4,1 × 0,51 × 0,53 = 4 × 0,5 × 0,125 = 0,25
+E a probabilidade desejada é:
+                              𝑃(𝑋 > 1) = 1 − [0,0625 + 0,25) = 1 − 0,3125 = 0,6875
+Gabarito: D
+
+8.      (FGV/2023 – SEFAZ/MG) Numa população, 50% das pessoas têm uma certa característica C. Se oito
+pessoas desta população foram aleatoriamente sorteadas com reposição, a probabilidade de que mais de
+cinco tenham a referida característica é aproximadamente igual a
+
+a) 14%.
+
+b) 18%.
+
+          Receita Federal (Analista Tributário) Estatística                                                 81
+          www.estrategiaconcursos.com.br                                                                    154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+c) 22%.
+
+d) 25%.
+
+e) 29%.
+
+Comentários:
+
+Como o sorteio das pessoas é feito com reposição, as extrações são independentes, o que caracteriza uma
+distribuição binomial. O enunciado informa que a proporção de pessoas da população que apresentam a
+referida característica é p = 50%, logo, a proporção de pessoas que não apresentam é q = 1 - p = 50%. A
+probabilidade de que mais de que mais de 5 pessoas, dentre n = 8, apresentem a referida característica é a
+soma:
+                                    𝑃(𝑋 > 5) = 𝑃(𝑋 = 6) + 𝑃(𝑋 = 7) + 𝑃(𝑋 = 8)
+Na distribuição binomial, as probabilidades são calculadas como:
+                                               𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+
+                               1 6   1 2       8!         1 8 8 × 7 × 6!    1 8        1 8
+            𝑃(𝑋 = 6) = 𝐶8,6 × ( ) × ( ) =               ×( ) =           × ( ) = 28 × ( )
+                               2     2    (8 − 6)! × 6!   2     2! × 6!     2          2
+                                 1 7   1 1       8!         1 8 8 × 7!     1 8     1 8
+              𝑃(𝑋 = 7) = 𝐶8,7 × ( ) × ( ) =               ×( ) =         ×( ) = 8×( )
+                                 2     2    (8 − 7)! × 7!   2    1! × 7!   2       2
+                                           1 6    1 2        8!          1 8     1 8
+                        𝑃(𝑋 = 8) = 𝐶8,8 × (  ) × (  ) =               × (  ) =1× )
+                                                                                (
+                                           2      2     (8 − 8)! × 8!    2       2
+E a soma é:
+                                    1 8       1 8       1 8        1 8  37
+                   𝑃(𝑋 > 5) = 28 × ( ) + 8 × ( ) + 1 × ( ) = 37 × ( ) =     ≅ 14,4%
+                                    2         2         2          2    256
+Gabarito: A
+
+9.    (FGV/2022 – TRT/MA) Uma moeda honesta será lançada 10 vezes. Se X é o número de caras
+observadas, então a variância de X vale
+
+a) 1,0
+
+b) 1,5
+
+c) 2,0
+
+d) 2,5
+
+e) 3,0
+
+
+          Receita Federal (Analista Tributário) Estatística                                            82
+          www.estrategiaconcursos.com.br                                                               154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+
+Sendo X o número de CARAS observadas (sucessos) em 10 lançamentos de uma moeda honesta (ensaios
+independentes), temos uma distribuição binomial, com n=10 lançamentos e probabilidade de sucesso p=0,5,
+sendo a probabilidade de fracasso complementar: q = 1 - p = 0,5. A variância da distribuição binomial é:
+                                        𝑉(𝑋) = 𝑛 × 𝑝 × 𝑞 = 10 × 0,5 × 0,5 = 2,5
+Gabarito: D
+
+10.    (FGV/2022 – SEFAZ/ES) Sabe-se que numa cidade muito populosa 60% das pessoas adultas foram
+vacinadas contra a ação de um vírus.
+
+Se uma amostra aleatória simples de 5 pessoas adultas dessa população for observada, a probabilidade de
+que mais de 3 tenham sido vacinadas é aproximadamente igual a
+
+a) 0,34
+
+b) 0,40
+
+c) 0,46
+
+d) 0,50
+
+e) 0,56
+
+Comentários:
+
+A questão informa que serão selecionadas 5 pessoas e pede a probabilidade de obter mais de 3 sucessos
+(pessoas vacinadas):
+
+                                            𝑃(𝑋 > 3) = 𝑃(𝑋 = 4) + 𝑃(𝑋 = 5)
+
+Sabendo que a probabilidade de sucesso é p = 60% = 0,6 (proporção de pessoas vacinadas), logo a probabilidade
+de fracasso (proporção de pessoas não vacinadas) é o complemento:
+
+                                                    q = 1 - p = 1 - 0,6 = 0,4
+
+Considerando que a cidade é muito populosa, consideramos que as extrações são independentes. Assim, a
+probabilidade de encontrar 4 sucessos é dada pela distribuição binomial, com n = 5 e p = 0,6 (logo, q = 0,4), para
+k = 4:
+
+                            𝑃(𝑋 = 4) = 𝐶5,4 × 0,64 × 0,41 = 5 × 0,1296 × 0,4 = 0,2592
+
+          Receita Federal (Analista Tributário) Estatística                                                    83
+          www.estrategiaconcursos.com.br                                                                      154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+E a probabilidade de encontrar 5 sucessos é:
+
+                            𝑃(𝑋 = 5) = 𝐶5,5 × 0,65 × 0,40 = 1 × 0,07776 × 1 = 0,0776
+
+A probabilidade desejada é a soma:
+
+                          𝑃(𝑋 > 3) = 𝑃(𝑋 = 4) + 𝑃(𝑋 = 5) = 0,2592 + 0,0776 ≅ 0,337
+
+Gabarito: A
+
+11.     (FGV/2022 – EPE) Em uma vila, 10% das pessoas são canhotas. Se, nessa vila, seis pessoas forem
+aleatoriamente escolhidas, com reposição (de modo que uma mesma pessoa pode ser escolhida mais de uma
+vez), então a probabilidade de que, no máximo, duas sejam canhotas é aproximadamente igual a
+
+a) 0,52
+
+b) 0,64
+
+c) 0,87
+
+d) 0,90
+
+e) 0,98
+
+Comentários:
+
+A probabilidade de no máximo 2 pessoas, dentre 6, serem canhotas é a soma:
+                                    𝑃(𝑋 ≤ 2) = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2)
+Como as extrações são feitas com reposição, elas são independentes, logo, temos uma variável com distribuição
+binomial, em que a probabilidade de sucesso é 𝑝 = 10% = 0,1 e, portanto, a probabilidade de fracasso é 𝑞 =
+1 − 𝑝 = 0,9:
+                                               𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+                                 𝑃(𝑋 = 0) = 𝐶6,0 × 0,10 × 0,96 = 1 × 1 × 0,96 ≅ 0,53
+                                𝑃(𝑋 = 1) = 𝐶6,1 × 0,11 × 0,95 = 6 × 0,1 × 0,95 ≅ 0,35
+                                               𝑃(𝑋 = 2) = 𝐶6,2 × 0,12 × 0,94
+A combinação 𝐶6,2 é:
+                                                        6!         6 × 5 × 4!
+                                          𝐶6,2 =                 =            = 15
+                                                   (6 − 2)! × 2!     4! × 2
+
+
+          Receita Federal (Analista Tributário) Estatística                                               84
+          www.estrategiaconcursos.com.br                                                                  154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Assim, a probabilidade de obter 2 sucessos é:
+                                         𝑃(𝑋 = 2) = 15 × 0,01 × 0,94 ≅ 0,10
+E a soma é:
+                                       𝑃(𝑋 ≤ 2) = 0,53 + 0,35 + 0,10 = 0,98
+Gabarito: E
+
+12.     (FGV/2022 – EPE) Em uma população, 50% das pessoas já tiveram diagnóstico de Covid-19. Se oito
+pessoas dessa população forem sorteadas com reposição, (ou seja, uma mesma pessoa pode ser sorteada
+mais de uma vez), a probabilidade de que, das oito, ao menos seis já tenham sido diagnosticadas com Covid-
+19 é, aproximadamente, igual a
+
+a) 14,5%
+
+b) 20,5%
+
+c) 25,0%
+
+d) 30,5%
+
+e) 35,0%
+
+Comentários:
+
+A probabilidade de pelo menos 6 pessoas, dentre 8, terem sido diagnosticadas com COVID é a soma:
+                                  𝑃(𝑋 ≥ 6) = 𝑃(𝑋 = 6) + 𝑃(𝑋 = 7) + 𝑃(𝑋 = 8)
+Como os sorteios são feitas com reposição, eles são independentes, logo, temos uma variável com distribuição
+binomial, em que a probabilidade de sucesso é 𝑝 = 50% = 0,5 e, portanto, a probabilidade de fracasso é 𝑞 =
+1 − 𝑝 = 0,5:
+                                             𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+                                             𝑃(𝑋 = 6) = 𝐶8,6 × 0,56 × 0,52
+A combinação 𝐶8,6 é:
+                                                8!         8 × 7 × 6! 8 × 7
+                                  𝐶8,6 =                 =           =      = 28
+                                           (8 − 6)! × 6!     2! × 6!    2
+Assim, a probabilidade de obter 6 sucessos é:
+                                                  𝑃(𝑋 = 6) = 28 × 0,58
+
+        Receita Federal (Analista Tributário) Estatística                                                85
+        www.estrategiaconcursos.com.br                                                                   154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+E as demais probabilidades são:
+                                       𝑃(𝑋 = 7) = 𝐶8,7 × 0,57 × 0,51 = 8 × 0,58
+E a soma é:
+                  𝑃(𝑋 ≥ 6) = 28 × 0,58 + 8 × 0,58 + 1 × 0,58 = 37 × 0,58 ≅ 0,145 = 14,5%
+Gabarito: A
+
+13.  (FGV/2022 – TCU) A média e a variância de uma distribuição binomial são, respectivamente, 20 e 4. O
+número de ensaios (n) dessa distribuição é:
+
+a) 20
+
+b) 22
+
+c) 25
+
+d) 50
+
+e) 100
+
+Comentários:
+
+A média e a variância da distribuição binomial são dadas por, respectivamente:
+                                                        𝐸(𝑋) = 𝑛 × 𝑝
+                                                    𝑉𝑎𝑟(𝑋) = 𝑛 × 𝑝 × 𝑞
+Podemos obter o valor da probabilidade de fracasso 𝑞, pela razão entre a variância e a média:
+                                                 𝑉𝑎𝑟(𝑋) 𝑛 × 𝑝 × 𝑞
+                                                       =          =𝑞
+                                                  𝐸(𝑋)    𝑛×𝑝
+Sabendo que 𝐸(𝑋) = 20 e 𝑉𝑎𝑟(𝑋) = 4, temos:
+                                                   𝑉𝑎𝑟(𝑋)      4   1
+                                                          =𝑞=    =
+                                                    𝐸(𝑋)      20 5
+E a probabilidade de sucesso é complementar:
+                                                                    1 4
+                                                  𝑝 = 1−𝑞 =1−        =
+                                                                    5 5
+Substituindo esse resultado na fórmula da média, obtemos o número n de ensaios:
+
+         Receita Federal (Analista Tributário) Estatística                                           86
+         www.estrategiaconcursos.com.br                                                              154
+
+                                         
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+                                                                      4
+                                                      𝐸(𝑋) = 𝑛 ×        = 20
+                                                                      5
+                                                                100
+                                                         𝑛=         = 25
+                                                                 4
+Gabarito: C
+
+14.     (FGV/2022 – TJDFT) O Tribunal de Justiça de uma determinada Unidade da Federação almeja analisar
+o perfil socioeconômico das pessoas integrantes do polo ativo das 1.000 ações de família distribuídas em uma
+determinada Comarca. Dessas 1.000 demandas, 600 são julgadas pela 1ª Vara de Família e 400 pela 2ª Vara
+de Família.
+
+Para isso, seleciona-se uma amostra aleatória simples, com reposição, de 100 ações. A probabilidade de
+ocorrer a extração de exatamente k, (k<100) ações da 1ª Vara entre as 100 ações selecionadas, é:
+
+     (100)600𝑘 (400)100−𝑘
+       𝑘
+a)        (1000100 )
+
+
+  ( 400 )
+b) 100−𝑘
+   (1000)
+    100
+
+
+     (100)600𝑘 (400)100−𝑘
+       𝑘
+c)         100100
+
+     (600)( 400 )
+       𝑘    100−𝑘
+d)
+         (1000)
+           100
+
+
+     (100)𝑘 600 (100−𝑘)400
+       𝑘
+e)         1000100
+
+Comentários:
+
+O enunciado informa que as demandas são julgadas pela 1ª Vara ou pela 2ª Vara; e que será selecionada uma
+amostra de 100 processos, com reposição. Pelo fato de haver reposição, temos extrações independentes, o que
+caracteriza uma distribuição binomial, no caso, com n = 100.
+
+A probabilidade de sucesso (1ª Vara) corresponde à razão entre o número de processos da 1ª Vara e o número
+total de processos:
+
+                                                                    600
+                                                               𝑝=
+                                                                    1000
+
+           Receita Federal (Analista Tributário) Estatística                                             87
+           www.estrategiaconcursos.com.br                                                                154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+E a probabilidade de fracasso (2ª Vara) corresponde à razão entre o número de processos da 2ª Vara e o número
+total de processos (que é complementar à probabilidade de sucesso):
+
+                                                                  400
+                                                             𝑞=
+                                                                  1000
+
+Em uma distribuição binomial, a probabilidade de encontrar k sucessos é dada por:
+
+                                              𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 (𝑛−𝑘)
+
+                         600            400
+Sendo 𝑛 = 100, 𝑝 = 1000 e 𝑞 = 1000, temos:
+
+                                                         600 𝑘     400 (100−𝑘)
+                                   𝑃(𝑋 = 𝑘) = 𝐶100,𝑘 × (      ) ×(      )
+                                                         1000      1000
+
+                                                                     100
+Para encontrar a resposta da questão, precisamos considerar que 𝐶100,𝑘 = (
+                                                                         ) (outra forma de representar
+                                                                       𝑘
+a combinação), bem como segregar o numerador do denominador das frações:
+
+                                                                100
+                                         600𝑘
+                                                400 (100−𝑘)   (     ) × 600𝑘 × 400(100−𝑘)
+                                 100                             𝑘
+                    𝑃(𝑋 = 𝑘) = (     )×       ×             =
+                                  𝑘     1000𝑘 1000(100−𝑘)         1000𝑘 × 1000(100−𝑘)
+
+Por fim, precisamos considerar que para multiplicar potências de mesma base, somamos os expoentes:
+
+                                100                         100
+                                    ) × 600𝑘 × 400(100−𝑘) (
+                                    (                           ) × 600𝑘 × 400(100−𝑘)
+                     𝑃(𝑋 = 𝑘) =  𝑘                       =   𝑘
+                                      1000(𝑘+100−𝑘)                 1000100
+
+Gabarito: A
+
+15.    (FGV/2021 – FunSaúde/CE) Se X tem distribuição binomial (n, p), então a média e a variância de X são,
+respectivamente:
+
+a) np e np(1 - p)
+
+b) p e p(1 - p)/n
+
+c) np e np2
+
+d) p e np(1 - p)
+
+e) np e p(1 - p)
+
+         Receita Federal (Analista Tributário) Estatística                                                88
+         www.estrategiaconcursos.com.br                                                                   154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+
+Para uma distribuição binomial com n ensaios e probabilidade de sucesso p, a média (ou esperança) é:
+
+                                                        𝐸(𝑋) = 𝑛 × 𝑝
+
+E a variância é:
+
+                                                     𝑉(𝑋) = 𝑛 × 𝑝 × 𝑞
+
+Sabendo que 𝑞 = 1 − 𝑝, temos:
+
+                                                 𝑉(𝑋) = 𝑛 × 𝑝 × (1 − 𝑝)
+
+Gabarito: A
+
+16.    (FGV/2018 – ALE/RO) Numa população muito grande, 50% das pessoas são do sexo feminino. Se 5
+pessoas dessa população forem aleatoriamente escolhidas, a probabilidade de que pelo menos 4 delas sejam
+do sexo feminino é igual a
+
+a) 10,25%
+
+b) 12,50%
+
+c) 15,80%
+
+d) 18,75%
+
+e) 32,40%
+
+Comentários:
+
+A questão informa que a população é muito grande para pontuar que a escolha de uma pessoa não afeta a
+população (isto é, o número de pessoas disponíveis), de modo que as seleções são eventos independentes.
+
+Para escolher pelo menos 4 mulheres, de um total de 5 pessoas selecionadas, podemos escolher 4 OU 5
+mulheres. Considerando que são eventos mutuamente exclusivos, a probabilidade de escolher 4 OU 5 mulheres
+(união de eventos exclusivos) é:
+
+                                           P(X = 4 ou X = 5) = P(X = 4) + P(X = 5)
+
+Em ambos os casos, temos uma distribuição binomial com n = 5 e p = 0,5 (logo, q = 1 – p = 0,5).
+
+         Receita Federal (Analista Tributário) Estatística                                             89
+         www.estrategiaconcursos.com.br                                                                154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade de ter k = 5 é:
+
+                                             𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+
+                          𝑃(𝑋 = 5) = 𝐶5,5 × 0,55 × 0,50 = 1 × 0,03125 × 1 = 0,03125
+
+A probabilidade de ter k = 4 é:
+
+                              𝑃(𝑋 = 4) = 𝐶5,4 × 0,54 × 0,51 = 5 × 0,03125 = 0,15625
+
+Logo, a probabilidade desejada é:
+
+                         𝑃(𝑋 = 4 𝑜𝑢 𝑋 = 5) = 0,03125 + 0,15625 = 0,1875 = 18,75%
+
+Gabarito: D
+
+17.    (FGV/2018 – TJ-AL) Suponha que 8 pessoas foram identificadas pelo Ministério Público como possíveis
+integrantes de uma ORCRIM. De acordo com a experiência dos procuradores, a probabilidade de que qualquer
+um deles esteja envolvido é de 0,75.
+
+a) a probabilidade de que haja no grupo 7 ou mais envolvidos é de 2,75.(0,75)7;
+
+b) o número esperado de envolvidos é igual a 2;
+
+c) o número esperado de não envolvidos é igual a 6;
+
+d) a probabilidade de que a maioria dos identificados seja de envolvidos é de 7,25.(0,25)7;
+
+e) a probabilidade de envolvidos e não envolvidos em mesmo número é de 35.(0,75)4.(0,25)4.
+
+Comentários:
+
+Essa questão envolve novamente a distribuição binomial, com parâmetros n = 8 e p = 0,75 (logo, q = 1 – p =
+0,25).
+
+Em relação à alternativa A, a probabilidade de haver 7 ou mais envolvidos corresponde à probabilidade de haver
+7 ou 8 envolvidos:
+
+                                          𝑃(𝑋 ≥ 7) = 𝑃(𝑋 = 7) + 𝑃(𝑋 = 8)
+
+Assim, a probabilidade de haver 7 envolvidos é:
+
+                                             𝑃(𝑋 = 7) = 𝐶8,7 . 0,757 . 0,251
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  90
+        www.estrategiaconcursos.com.br                                                                     154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A combinação é:
+
+                                                        8!        8 × 7!
+                                          𝐶8,7 =                =        =8
+                                                   (8 − 7)! × 7! 1! × 7!
+
+Logo:
+
+                                     𝑃(𝑋 = 7) = 8 × 0,757 × 0,25 = 2 × 0,757
+
+E a probabilidade de haver 8 envolvidos é:
+
+                                             𝑃(𝑋 = 8) = 𝐶8,8 . 0,758 . 0,250
+
+A combinação é:
+
+                                                        8!          8!
+                                          𝐶8,8 =                =        =1
+                                                   (8 − 8)! × 8! 0! × 8!
+
+Logo:
+
+                                        𝑃(𝑋 = 8) = 1. 0,758 . 1 = 0,75 × 0,757
+
+Portanto, a probabilidade de haver 7 ou 8 envolvidos é:
+
+                              𝑃(𝑋 ≥ 7) = 2 × 0,757 + 0,75 × 0,757 = 2,75 × 0,757
+
+Logo, a alternativa A está correta. Em relação à alternativa B, o número esperado de envolvidos corresponde à
+esperança da distribuição binomial:
+
+                                             𝐸(𝑋) = 𝑛 × 𝑝 = 8 × 0,75 = 6
+
+Logo, a alternativa B está incorreta.
+
+Em relação à alternativa C, o número esperado de não envolvidos corresponde à diferença entre o número total
+de pessoas e o número esperado de envolvidos, que acabamos de calcular:
+
+                                             𝑛ã𝑜 𝑒𝑛𝑣𝑜𝑙𝑣𝑖𝑑𝑜𝑠 = 8 − 6 = 2
+
+Em relação à alternativa D, a maioria dos 8 identificados corresponde a 5 ou mais envolvidos:
+
+                           𝑃(𝑋 ≥ 5) = 𝑃(𝑋 = 5) + 𝑃(𝑋 = 6) + 𝑃(𝑋 = 7) + 𝑃(𝑋 = 8)
+
+Já calculamos as probabilidade P(X = 7) + P(X = 8):
+
+                                        𝑃(𝑋 = 7) + 𝑃(𝑋 = 8) = 2,75 × 0,757
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 91
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade de haver 5 envolvidos é:
+
+                                             𝑃(𝑋 = 5) = 𝐶8,5 . 0,755 . 0,253
+
+A combinação é:
+
+                                        8!         8 × 7 × 6 × 5! 8 × 7 × 6
+                          𝐶8,5 =                 =               =          = 8 × 7 = 56
+                                   (8 − 5)! × 5!      3! × 5!      3×2×1
+
+Logo:
+
+                                   𝑃(𝑋 = 5) = 56 × 0,755 × 0,253 = 0,875 × 0,755
+
+E a probabilidade de haver 6 envolvidos é:
+
+                                             𝑃(𝑋 = 6) = 𝐶8,6 . 0,756 . 0,252
+
+A combinação é:
+
+                                           8!         8 × 7 × 6! 8 × 7
+                             𝐶8,6 =                 =           =      = 4 × 7 = 28
+                                      (8 − 6)! × 6!     2! × 6!    2
+
+Logo:
+
+                                    𝑃(𝑋 = 6) = 28 × 0,756 × 0,252 = 1,75 × 0,756
+
+E a soma é:
+
+                  𝑃(𝑋 ≥ 5) = 0,875 × 0,755 + 1,75 × 0,756 + 2,75 × 0,757 ≅ 6,64 × 0,757
+
+Logo, a alternativa D está incorreta.
+
+Em relação à alternativa E, a probabilidade de ter o mesmo número de envolvidos e não envolvidos, isto é, 4 de
+cada, é dada por:
+
+                                             𝑃(𝑋 = 4) = 𝐶8,4 . 0,754 . 0,254
+
+A combinação é:
+
+                               8!         8 × 7 × 6 × 5 × 4! 8 × 7 × 6 × 5
+                 𝐶8,4 =                 =                   =              = 2 × 7 × 5 = 70
+                          (8 − 4)! × 4!         4! × 4!       4×3×2×1
+
+Logo:
+
+                                            𝑃(𝑋 = 4) = 70 × 0,754 × 0,254
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  92
+        www.estrategiaconcursos.com.br                                                                     154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Assim, a alternativa E está incorreta.
+
+Gabarito: A
+
+18.    (FGV/2017 – SEFIN/RO) Um dado é lançado quatro vezes. A probabilidade de que o número ´6´ seja
+obtido ao menos duas vezes é, aproximadamente, igual a
+
+a) 0,25.
+
+b) 0,13.
+
+c) 0,40.
+
+d) 0,05.
+
+e) 0,50
+
+Comentários:
+
+A probabilidade de obter o número 6 ao menos 2 vezes, de um total de 4 lançamentos, corresponde a obter tal
+resultado 2, 3 ou 4 vezes. Tal probabilidade pode ser calculada como o complemento da probabilidade de obter
+esse resultado 0 OU 1 vez.
+
+A probabilidade de obter o número 6 é:
+
+                                                               𝑛(𝐴) 1
+                                                          𝑝=       =
+                                                               𝑛(𝑈) 6
+
+Logo, a probabilidade de não obter o número 6 é complementar:
+
+                                                                      1 5
+                                                    𝑞 = 1−𝑝 =1−        =
+                                                                      6 6
+
+Portanto, a probabilidade de obter 0 vez o número 6 é:
+
+                                      𝑃(𝑋 = 0) = 𝐶4,0 × 𝑝0 × 𝑞 4 = 1 × 1 × 𝑞 4 = 𝑞 4
+
+                                                           5 4 54   625
+                                               𝑃(𝑋 = 0) = ( ) = 4 =
+                                                           6   6    1296
+
+E a probabilidade de obter 1 vez o número 6 é:
+
+                                         𝑃(𝑋 = 1) = 𝐶4,1 × 𝑝1 × 𝑞 3 = 4 × 𝑝 × 𝑞 3
+
+
+           Receita Federal (Analista Tributário) Estatística                                             93
+           www.estrategiaconcursos.com.br                                                                154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                                   1   5 3 4 × 53   500
+                                     𝑃(𝑋 = 1) = 4 × × ( ) =       =
+                                                   6   6     64     1296
+
+A probabilidade de obter um resultado OU outro (união de eventos mutuamente exclusivos é):
+
+                                                             625   500   1125
+                                     𝑃(𝑋 = 0 ∪ 𝑋 = 1) =          +     =
+                                                             1296 1296 1296
+
+A probabilidade buscada, qual seja, de obter o número 6 pelo menos 2 vezes é complementar:
+
+                               𝑃(𝑋 = 2 ∪ 𝑋 = 3 ∪ 𝑋 = 4) = 1 − 𝑃(𝑋 = 0 ∪ 𝑋 = 1)
+
+                                                            1125 1296 − 1125   171
+                   𝑃(𝑋 = 2 ∪ 𝑋 = 3 ∪ 𝑋 = 4) = 1 −                =           =      ≅ 0,13
+                                                            1296    1296       1296
+
+Gabarito: B
+
+19.    (FGV/2016 – IBGE) De uma população arbitrariamente grande é extraída uma pequena amostra de
+tamanho n = 5, com o objetivo de avaliar o apoio a um dirigente político. Se forem verdadeiros os rumores de
+que tal indivíduo tem o apoio de apenas 10% da população, então a probabilidade de que dois se declarem
+favoráveis a ele é de:
+
+a) 0,729%.
+
+b) 1,458%.
+
+c) 1,620%.
+
+d) 7,290%.
+
+e) 14,580%
+
+Comentários:
+
+O enunciado descreve uma população cuja característica estudada é apoiar (sucesso) ou não (fracasso) um
+dirigente, ou seja, a seleção aleatória de uma pessoa apresenta uma distribuição de Bernoulli.
+
+Como a população é arbitrariamente grande, então a seleção de uma ou mais pessoas não influencia a
+proporção (sucesso X fracasso) da população, logo, temos uma distribuição binomial, com n = 5 e p = 10% = 0,1
+(q = 1 – p = 0,9).
+
+Assim, a probabilidade de obter k = 2 sucessos (pessoas favoráveis ao dirigente) é:
+
+        Receita Federal (Analista Tributário) Estatística                                                 94
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                              𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+
+                                                                5!
+                       𝑃(𝑋 = 2) = 𝐶5,2 × 0,12 × 0,93 =               × 0,1 × 0,1 × 0,9 × 0,9 × 0,9
+                                                             3! × 2!
+
+                                  5×4
+                     𝑃(𝑋 = 2) =       × 0,01 × 0,729 = 10 × 0,01 × 0,729 = 0,0729 = 7,29%
+                                   2
+
+Gabarito: D
+
+20.    (FGV/2015 – TCM/SP) Suponha que em um levantamento realizado sobre todos os processos
+administrativos que chegaram ao Tribunal de Contas do Município de São Paulo, no passado recente,
+constatou-se a existência de uma probabilidade fixa, igual a 20%, de que, após examinados, esses processos
+apresentem algum tipo de irregularidade, demandando providências. Se um determinado conselheiro do
+Tribunal receber cinco processos para relatar, a probabilidade de que mais de 60% contenha irregularidades
+é de:
+
+a) (0,8). (0,2)4 + (0,2)5
+
+b) (0,8)2 . (0,2)3
+
+c) 4. (0,2)4 + 5. (0,2)5.
+
+d) 21. (0,2)5
+
+e) (0,2)4 + (0,2)5
+
+Comentários:
+
+O enunciado informa que 20% dos processos analisados apresentam irregularidade (sucesso) e que serão
+analisados 5 processos. Ou seja, temos uma distribuição binomial com n = 5 e p = 20% = 0,2.
+
+A questão pede a probabilidade de que mais de 60% dos 5 processos apresentem irregularidade, isto é, mais de
+60% x 5 = 3 processos, portanto, 4 OU 5 processos (união de eventos excludentes).
+
+A probabilidade de encontrar k = 4 processos com irregularidades é:
+
+                                              𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 × 𝑝𝑘 × 𝑞 𝑛−𝑘
+
+                                                                5!
+                       𝑃(𝑋 = 4) = 𝐶5,4 × 0,24 × 0,81 =               × 0,24 × 0,8 = 5 × 0,24 × 0,8
+                                                             1! × 4!
+
+
+         Receita Federal (Analista Tributário) Estatística                                               95
+         www.estrategiaconcursos.com.br                                                                  154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade de encontrar k = 5 processos com irregularidades é:
+
+                               𝑃(𝑋 = 5) = 𝐶5,5 × 0,25 × 0,80 = 1 × 0,25 × 1 = 0,25
+
+Assim, a probabilidade de encontrar 4 OU 5 sucessos é a soma:
+
+                                𝑃 = 𝑃(𝑋 = 4) + 𝑃(𝑋 = 5) = 5 × 0,24 × 0,8 + 0,25
+
+Para encontrar a alternativa correta, vamos escrever 0,8 como 4 × 0,2:
+
+                                             𝑃 = 5 × 0,24 × 4 × 0,2 + 0,25
+
+                               𝑃 = 20 × 0,25 + 0,25 = 0,25 × (20 + 1) = 21 × 0,25
+
+Gabarito: D
+
+21.    (FGV/2014 – DPE/RJ) Registros históricos demonstram que 20% das pessoas que procuram a
+Defensoria Pública não preenchem os requisitos necessários ao atendimento gratuito. Logo, se durante certo
+período 45 pessoas recorrem à Defensoria, a probabilidade de que mais da metade mereça receber
+atendimento gratuito é igual a
+
+            45
+a) ∑45
+    𝑘=23 (     ) (0,2)45−𝑘 (0,8)𝑘
+            𝑘
+           (36)𝑘
+b) ∑45
+    𝑘=23           𝑒 −36
+             𝑘!
+
+          𝑘−1
+c) ∑45
+    𝑘=23 (    ) (0,2)45−𝑘 (0,8)𝑘 .
+           22
+
+d) ∑+∞
+    𝑘=23(0,2). (0,8)
+                     𝑘−1
+
+
+              45
+e) ∑45
+    𝑘=23 (       ) (0,2)22 (0,8)𝑘−22
+             𝑘−1
+
+Comentários:
+
+O enunciado informa que 20% das pessoas que recorrem à Defensoria não podem receber atendimento gratuito
+e que 45 pessoas recorreram à Defensoria, logo temos uma distribuição binomial.
+
+Sabendo que 20% não recebem atendimento gratuito, então q = 20% = 0,2. A probabilidade de uma pessoa
+receber atendimento gratuito é complementar:
+
+                                                     𝑝 = 1 − 𝑞 = 0,8
+
+
+        Receita Federal (Analista Tributário) Estatística                                              96
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Assim, a probabilidade de mais da metade das 45 pessoas (ou seja, de 23 a 45 pessoas) receberem atendimento
+gratuito é dada por:
+
+                           𝑃 = 𝑃(𝑋 = 23) + 𝑃(𝑋 = 24) + ⋯ + 𝑃(𝑋 = 44) + 𝑃(𝑋 = 45)
+
+Com n = 45 e p = 0,8 (q = 0,2), essas probabilidades são dadas por:
+
+                                                      45
+                                         𝑃(𝑋 = 23) = ( ) . (0,2)45−23 . (0,8)23
+                                                      23
+
+                                                      45
+                                         𝑃(𝑋 = 24) = ( ) . (0,2)45−24 . (0,8)24
+                                                      24
+
+                                                              …
+
+                                                      45
+                                         𝑃(𝑋 = 44) = ( ) . (0,2)45−44 . (0,8)44
+                                                      44
+
+                                                      45
+                                         𝑃(𝑋 = 45) = ( ) . (0,2)45−45 . (0,8)45
+                                                      45
+
+Ou seja, a probabilidade 𝑃 é dada pelo seguinte somatório:
+
+                                                    45
+                                                         45
+                                             𝑃= ∑ (        ) . (0,2)45−𝑘 . (0,8)𝑘
+                                                         𝑘
+                                                  𝑘=23
+
+Gabarito: A
+
+22.    (FGV/2014 – DPE-RJ) Uma amostra com 32 solicitações de assistências jurídicas, a partir dos pedidos
+recebidos pela Defensoria Pública, foi realizada, observando os tempos de apreciação.
+
+Se as distribuições dos tempos de apreciação são contínuas uniformes, no intervalo de 48 a 72 horas, a
+probabilidade de que apenas duas solicitações, as mais rapidamente apreciadas, levem menos do que 54
+horas é igual a
+
+    32    48 2       48 30
+a) ( ) . (72) . (1 − 72)
+     2
+
+    32        48 2       48 30
+b) ( ) . (1 − 72) . (1 − 72)
+    30
+
+    32      1 2       3 30
+c) (   ) . (4) . (1 − 4)
+     2
+
+         Receita Federal (Analista Tributário) Estatística                                              97
+         www.estrategiaconcursos.com.br                                                                 154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+    32        3 2   3 30
+d) ( ) . (1 − 4) . (4)
+    30
+
+    32        54 2   54 30
+e) ( ) . (1 − 72) . (72)
+    30
+
+Comentários:
+
+A probabilidade uma solicitação qualquer levar menos de 54 horas, sabendo que essa variável segue distribuição
+uniforme no intervalo de a = 48 a b = 72 horas, é dada por:
+
+                                                                 𝑥−𝑎
+                                                    𝑃(𝑋 < 𝑥) =
+                                                                 𝑏−𝑎
+
+                                                            54 − 48   6   1
+                                           𝑃(𝑋 < 54) =              =   =
+                                                            72 − 48 24 4
+
+A variável que representa a solicitação que leva menos de 54 horas segue distribuição de Bernoulli, que assume
+o valor X = 1, caso a solicitação dure menos de 54 horas e X = 0, caso a solicitação não dure menos de 54 horas.
+Logo, a probabilidade de exatamente 2 solicitações, dentre 32, levar esse tempo, pode ser calculada a partir de
+                                                             1                      3
+uma distribuição binomial com probabilidade 𝑛 = 32 e 𝑝 = 4 (logo 𝑞 = 1 − 𝑝 = 4):
+
+                                                           𝑛
+                                               𝑃(𝑋 = 𝑘) = ( ) . 𝑝𝑘 . 𝑞 𝑛−𝑘
+                                                           𝑘
+
+                                                        32    1 2 3 30
+                                            𝑃(𝑋 = 𝑘) = ( ) . ( ) . ( )
+                                                         2    4     4
+                          𝑛     32                         𝑛       32
+Sabendo que a combinação ( ) = ( ) é igual à combinação (     ) = ( ), então a alternativa correta é a
+                          𝑘      2                        𝑛−𝑘      30
+D.
+
+Gabarito: D
+
+23.   (FGV/2014 – TJ/BA) A escolha dos integrantes de um júri é feita individualmente, mediante a
+aprovação dos nomes pela defesa e a acusação. A probabilidade de que um indivíduo seja rejeitado pela
+acusação é de 50%, sendo um pouco menor no caso da defesa, igual a 40%. Com isso, o número médio de
+pessoas que deverão ter os nomes submetidos à análise das partes para que um júri de 12 pessoas seja
+montado é de:
+
+a) 28
+
+b) 30
+
+        Receita Federal (Analista Tributário) Estatística                                                    98
+        www.estrategiaconcursos.com.br                                                                      154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+c) 36
+
+d) 40
+
+e) 48
+
+Comentários:
+
+O enunciado informa que:
+
+   •    a probabilidade de a acusação rejeitar uma pessoa é de 50% = 0,5, logo a probabilidade de ela aceitar é
+        complementar:
+
+                                                   𝑃(𝐴) = 1 − 0,5 = 0,5
+
+   •    a probabilidade de a defesa rejeitar uma pessoa é de 40% = 0,4, logo a probabilidade de ela aceitar é
+        complementar:
+
+                                                   𝑃(𝐷) = 1 − 0,4 = 0,6
+
+Para que uma pessoa seja aceita, ela precisa ser aceita pela Acusação E pela Defesa (interseção). Logo, a
+probabilidade de uma pessoa ser aceita é o produto das probabilidades:
+
+                                          𝑝 = 𝑃(𝐴) × 𝑃(𝐷) = 0,5 × 0,6 = 0,3
+
+Para um determinado número de pessoas 𝑛, a probabilidade de aceitar 𝑘 pessoas segue uma distribuição
+binomial. Dessa forma, o número médio de pessoas aceitas é dado pela esperança da distribuição:
+
+                                                    𝐸(𝑋) = 𝑛. 𝑝 = 0,3. 𝑛
+
+Para que haja 12 pessoas aceitas, o número médio 𝑛 de pessoas submetidas à análise é de:
+
+                                                                   12
+                                               0,3. 𝑛 = 12 → 𝑛 =       = 40
+                                                                   0,3
+
+Gabarito: D
+
+24.    (FGV/2013 – INEA) Um estudo mostrou que, de 100 produtos pesquisados num determinado mês, 50
+tiveram aumento de preço ao consumidor em relação ao mês anterior, 30 mantiveram seus preços e 20
+apresentaram redução de preço.
+
+Se quatro desses produtos forem aleatoriamente escolhidos, com reposição, a probabilidade de que ao menos
+três tenham apresentado aumento de preço no período é igual a:
+
+
+         Receita Federal (Analista Tributário) Estatística                                                  99
+         www.estrategiaconcursos.com.br                                                                     154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+a) 0,0625
+
+b) 0,125
+
+c) 0,1875
+
+d) 0,25
+
+e) 0,3125
+
+Comentários:
+
+Considerando que n(A) = 50 produtos, dentre n(U) = 100, tiveram aumento de preço, a probabilidade de um
+produto qualquer ter tido aumento de preço é:
+
+                                                          𝑛(𝐴)   50
+                                                    𝑃=         =    = 0,5
+                                                          𝑛(𝑈) 100
+
+A variável que representa o produto que teve aumento de preço pode segue distribuição de Bernoulli, que
+assume o valor X = 1, caso o preço tenha aumentado e X = 0, caso o preço não tenha aumentado.
+
+Logo, a seleção de 4 produtos corresponde a uma distribuição binomial com n = 4 e p = 0,5 (logo, q = 1 – p =
+0,5).
+
+A probabilidade de ter pelo menos 3 produtos (𝑋 ≥ 3) é:
+
+                                             𝑃(𝑋 ≥ 3) = 𝑃(𝑋 = 3) + 𝑃(𝑋 = 4)
+
+Para X = 3, temos:
+
+                                                              𝑛
+                                                  𝑃(𝑋 = 𝑘) = ( ) . 𝑝𝑘 . 𝑞 𝑛−𝑘
+                                                              𝑘
+
+                                           4
+                               𝑃(𝑋 = 3) = ( ) . (0,5)3 . (0,5)1 = 4 × 0,125 × 0,5 = 0,25
+                                           3
+
+Para X = 4:
+
+                              𝑃(𝑋 = 4) = (4). (0,5)4 . (0,5)0 = 1 × 0,0625 × 1 = 0,0625
+
+Logo:
+
+                                           𝑃(𝑋 ≥ 3) = 0,25 + 0,0625 = 0,3125
+
+Gabarito: E
+
+           Receita Federal (Analista Tributário) Estatística                                             100
+           www.estrategiaconcursos.com.br                                                                154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+25.   (FGV/2013 – INEA) Se X1, X2, ..., Xn são variáveis aleatórias independentes e identicamente distribuídas
+Bernoulli(p), então a variável X1 + X2 + ... + Xn tem distribuição
+
+a) geométrica (p).
+b) geométrica (np).
+c) Poisson (np).
+d) Bernoulli (np).
+e) binomial (n, p).
+
+Comentários:
+
+Por definição, a soma de n variáveis de Bernoulli com parâmetro p segue distribuição binomial com parâmetros
+n e p.
+
+Gabarito: E
+
+26.     (FGV/2013 – INEA/RJ) Se X tem distribuição Binomial com parâmetros n = 4 e p = 0,3, então a mediana
+de X é igual a
+
+a) 0,5
+b) 1,0
+c) 1,2
+d) 1,5
+e) 2,0
+
+Comentários:
+
+A mediana de uma distribuição corresponde ao valor de X para o qual a função de distribuição acumulada
+assume valor maior ou igual a 0,5 (o mais próximo possível):
+
+                                                       𝐹(𝑥𝑚𝑒𝑑 ) ≥ 0,5
+
+Sendo X uma variável binomial com n = 4, os possíveis valores de X são 0, 1, 2, 3 e 4. Sendo p = 0,3 (logo, q = 1 –
+p = 0,7), então para X = 0, temos:
+
+                                                𝑃(𝑋 = 𝑘) = 𝐶𝑛,𝑘 . 𝑝𝑘 . 𝑞 𝑛−𝑘
+
+                            𝑃(𝑋 = 0) = 𝐶4,0 . (0,3)0 . (0,7)4 = 1 × 1 × 0,2401 = 0,2401
+
+
+         Receita Federal (Analista Tributário) Estatística                                                     101
+         www.estrategiaconcursos.com.br                                                                        154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Logo, a probabilidade acumulada em X = 0 é:
+
+                                              𝐹(0) = 𝑃(𝑋 = 0) = 0,2401
+
+Esse valor é menor que 0,5. Para X = 1, temos:
+
+                           𝑃(𝑋 = 1) = 𝐶4,1 . (0,3)1 . (0,7)3 = 4 × 0,3 × 0,343 = 0,4116
+
+A probabilidade acumulada em X = 1 é:
+
+                             𝐹(1) = 𝐹(0) + 𝑃(𝑋 = 1) = 0,2401 + 0,4116 = 0,6517
+
+Esse valor é maior que 0,5, sendo o mais próximo possível para essa distribuição. Logo, a mediana é 𝑥𝑚𝑒𝑑 = 1.
+
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Estatística                                                 102
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                            QUESTÕES COMENTADAS – FGV
+
+Distribuição Geométrica
+
+1.      (FGV/2023 – SEFAZ/MT) Marcelo adora quermesses e costuma arriscar uns trocados no jogo de bola
+ao cesto. Em média, ele acerta uma bola em cada 5 tentativas. Amanhã, Marcelo vai tentar novamente a
+sorte, pagando 30 reais para ter 3 chances de acertar uma cesta e ganhar como prêmio uma bola de basquete.
+
+A probabilidade de que Marcelo saia vencedor situa-se entre
+
+a) 30% e 35%
+
+b) 35% e 40%
+
+c) 40% e 45%
+
+d) 45% e 50%
+
+e) 50% e 55%
+
+Comentários:
+
+Para que Marcelo saia vencedor é necessário que ele acerte na primeira, na segunda ou na terceira tentativa.
+Essas probabilidades podem ser calculadas pela distribuição geométrica, considerando que a probabilidade de
+               1
+sucesso é 𝑝 = 5 = 0,2, logo, a probabilidade de fracasso é 𝑞 = 1 − 𝑝 = 0,8.
+
+A probabilidade de Marcelo acertar a primeira tentativa é:
+                                                   𝑃(𝑋 = 1) = 𝑝 = 0,2
+A probabilidade de ele acertar a cesta na segunda tentativa é:
+                                        𝑃(𝑋 = 2) = 𝑞 × 𝑝 = 0,8 × 0,2 = 0,16
+E a probabilidade de ele acertar na terceira tentativa é:
+                                      𝑃(𝑋 = 3) = 𝑞 2 × 𝑝 = 0,82 × 0,2 = 0,128
+Por serem eventos mutuamente excludentes, a probabilidade da união corresponde à soma das probabilidades:
+               𝑃 = 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2) + 𝑃(𝑋 = 3) = 0,2 + 0,16 + 0,128 = 0,488 = 48,8%
+Que está entre 45% e 50%.
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                                 103
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+2.     (FGV/2022 – TRT/MA) Suponha que experimentos Bernoulli independentes sejam realizados até que
+o primeiro “sucesso” aconteça.
+
+Se X é o número de tentativas anteriores a esse primeiro “sucesso”, avalie se as afirmativas a seguir sobre a
+distribuição de X estão corretas.
+
+I. X tem distribuição geométrica.
+II. E[X] = (1 – p)/p
+III. Var[X] = (1 – p)/p²
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+                                                                ==219a34==
+
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+Comentários:
+
+O enunciado informa serão realizados ensaios independentes de Bernoulli, até a ocorrência do primeiro
+sucesso, o que corresponde à distribuição geométrica.
+O enunciado esclarece que X corresponde ao número de tentativas (ensaios de Bernoulli) anteriores a esse
+primeiro sucesso, que corresponde à parametrização alternativa da distribuição geométrica. Assim, a afirmativa
+I está correta.
+A média da variável geométrica com essa parametrização é:
+                                                                             𝑞 1−𝑝
+                                                        𝐸(𝑋) =                 =
+                                                                             𝑝   𝑝
+Logo, a afirmativa II está correta.
+A variância da distribuição geométrica (em qualquer parametrização):
+                                                                             𝑞     1−𝑝
+                                                       𝑉(𝑋) =                  2
+                                                                                 =
+                                                                             𝑝      𝑝2
+Logo, a afirmativa III também está correta.
+
+Gabarito: E
+
+            Receita Federal (Analista Tributário) Estatística                                             104
+            www.estrategiaconcursos.com.br                                                                154
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+3.    (FGV/2021 – FunSaúde) Em uma população muito grande, pessoas serão aleatoriamente escolhidas
+até que uma pessoa acometida por uma certa doença seja encontrada. A variável aleatória que contará
+quantas pessoas serão observadas até que tal pessoa seja encontrada, tem distribuição de probabilidades
+
+a) binomial
+
+b) Poisson
+
+c) geométrica
+
+d) hipergeométrica
+
+e) binomial negativa
+
+Comentários:
+
+Para essa questão, podemos considerar que a seleção de uma pessoa com a doença corresponda ao sucesso do
+experimento e que a seleção de uma pessoa sem a doença corresponda ao fracasso do experimento.
+Considerando que a população é muito grande, concluímos que as seleções são independentes umas das outras.
+
+Portanto, a questão pede a variável que representa o número de extrações (ou ensaios) até que seja encontrado
+o primeiro sucesso (para extrações independentes). Essa é a distribuição geométrica (C).
+
+A variável binomial (A) representa o número de sucessos observados em uma amostra de tamanho fixo, para
+extrações independentes; e a de Poisson (B) faz o mesmo que a binomial, sendo uma aproximação da binomial
+para amostras grandes com pequena probabilidade de sucesso.
+
+A variável hipergeométrica (D) também representa o número de sucessos em uma amostra de tamanho fixo,
+para extrações dependentes, uma vez que os elementos são extraídos sem reposição, de populações finitas (e
+não muito grandes).
+
+E a variável binomial negativa (E) ou de Pascal representa o número de ensaios até que seja encontrado o k-
+ésimo sucesso (para extrações independentes), sendo, portanto, uma generalização da distribuição geométrica.
+
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Estatística                                                 105
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                            QUESTÕES COMENTADAS – FGV
+
+Distribuição Hipergeométrica
+
+1.      (FGV/2022 – TRT/MA) Uma fábrica produz N itens, dos quais K são defeituosos. Se n itens diferentes
+forem sorteados aleatoriamente dessa produção, então o número de itens defeituosos nessa amostra tem
+distribuição
+
+a) binomial.
+b) exponencial.
+c) uniforme discreta.
+d) hipergeométrica.
+e) Poisson.
+
+Comentários:
+
+A distribuição que estuda o número de sucessos (no caso, itens defeituosos) em uma amostra extraída de uma
+população finita de N elementos no total, dos quais K apresentam o atributo sucesso é a distribuição
+hipergeométrica (alternativa D).
+Vamos analisar as demais alternativas. A distribuição binomial (alternativa A) estuda o número de sucessos em
+uma amostra extraída de uma população infinita, ou se a amostra for extraída com reposição. Porém, o
+enunciado informa que o tamanho da população é igual a N (finito) e não afirma que a extração é com reposição.
+Desse modo, não podemos utilizar a distribuição binomial.
+A distribuição de Poisson (alternativa E) deve ser aplicada quando o tamanho da amostra tende a infinito (𝒏 →
+∞) e a probabilidade tende a zero (𝒑 → 𝟎), sendo aplicável a intervalos, como o tempo, que não é o caso.
+A distribuição exponencial (alternativa B) é contínua e estuda o intervalo entre ocorrências; e a distribuição
+uniforme (alternativa C) é utilizada quando todos os possíveis resultados da variável apresentam a mesma
+probabilidade. Essas distribuições não apresentam qualquer relação com a situação descrita.
+
+Gabarito: D
+
+2.     (FGV/2018 – TJ/AL) De um lote de 12 processos, três serão sorteados para fins de avaliação por parte
+do Conselho Nacional de Justiça (CNJ). Em cinco dos processos originais houve condenação do réu, e nos
+demais, absolvição.
+
+Assim, a probabilidade de que a maior parte dos processos a serem sorteados seja de absolvições é igual a:
+
+        Receita Federal (Analista Tributário) Estatística                                                 106
+        www.estrategiaconcursos.com.br                                                                    154
+
+                                        
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 08
+
+    9
+a) 33
+    7
+b) 22
+    14
+c) 22
+    5
+d) 33
+    15
+e) 22
+
+Comentários:
+
+A probabilidade de que a maior parte dos 3 processos selecionados seja de absolvições corresponde a selecionar
+2 OU 3 processos de absolvições.
+Como os processos podem ser de absolvição (sucesso) ou de condenação (fracasso), a seleção aleatória de um
+                                                              ==219a34==
+
+único processo segue uma distribuição Bernoulli. Observe, ainda, que a seleção dos processos ocorre sem
+reposição, por isso, temos uma distribuição hipergeométrica:
+                                                              𝑆 𝑁−𝑆
+                                                             ( )(     )
+                                                 𝑃 (𝑋 = 𝑘 ) = 𝑘 𝑛 − 𝑘
+                                                                 𝑁
+                                                                ( )
+                                                                  𝑛
+O enunciado informa que:
+
+•    Há 12 processos no total, logo N = 12;
+
+•    5 dos 12 processos tratam de condenação, portanto, 12 – 5 = 7 tratam de absolvição. Logo: S = 7 e N – S = 5
+
+•    Serão selecionados 3 processos, logo: n = 3
+Assim, a probabilidade de selecionar k = 2 processos de absolvições e, consequentemente, n – k = 1 processo de
+condenação, é:
+                                                              7
+                                                             ( ) × (5)
+                                                  𝑃 (𝑋 = 2) = 2     1
+                                                                 12
+                                                                ( )
+                                                                  3
+Resolvendo cada uma dessas combinações em separado, temos:
+                                    7        7!         7 × 6 × 5! 7 × 6
+                                   ( )=               =           =      = 21
+                                    2   (7 − 2)! × 2!     5! × 2!    2
+                                             5        5!        5 × 4!
+                                            ( )=              =        =5
+                                             1   (5 − 1)! × 1! 4! × 1
+                  12        12!         12 × 11 × 10 × 9! 12 × 11 × 10
+              (     )=                =                  =             = 2 × 11 × 10 = 220
+                  3    (12 − 3)! × 3!        9! × 3!         3×2
+
+          Receita Federal (Analista Tributário) Estatística                                                 107
+          www.estrategiaconcursos.com.br                                                                    154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Substituindo esses resultados na probabilidade 𝑃(𝑋 = 2), temos:
+                                                            21 × 5 105
+                                              𝑃(𝑋 = 2) =          =
+                                                             220    220
+Além disso, a probabilidade de selecionar k = 3 processos de absolvições e, consequentemente, n – k = 0
+processo de condenação, é:
+                                                             7     5
+                                                            ( )×( )
+                                                𝑃 (𝑋 = 3) =  3     0
+                                                                12
+                                                               ( )
+                                                                 3
+Calculando os numeradores (já que o denominador é o mesmo), temos:
+                        7        7!         7 × 6 × 5 × 4! 7 × 6 × 5
+                       ( )=               =               =          = 7 × 5 = 35
+                        3   (7 − 3)! × 3!      4! × 3!       3×2
+                                           5        5!         5!
+                                          ( )=              =       =1
+                                           0   (5 − 0)! × 0! 5! × 1
+Substituindo esses resultados na probabilidade 𝑃(𝑋 = 3), temos:
+                                                            35 × 1    35
+                                              𝑃(𝑋 = 3) =           =
+                                                             220     220
+Logo, a probabilidade de selecionar 2 OU 3 processos é a soma dessas probabilidades:
+                                                            105 35   140 14
+                                   𝑃(𝑋 = 2 ∪ 𝑋 = 3) =          +   =    =
+                                                            220 220 220 22
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Estatística                                           108
+        www.estrategiaconcursos.com.br                                                              154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                QUESTÕES COMENTADAS – FGV
+
+Distribuição de Poisson
+
+1.     (FGV/2023 – TCE/ES) O número de blocos de concreto vendidos por hora em uma loja de materiais de
+construção segue uma distribuição Poisson com taxa v > 0.
+
+Supondo que as vendas a cada hora são independentes, a probabilidade de não observarmos nenhuma venda
+em cinco horas é:
+
+a) 𝑒 −5𝑣
+
+b) 1 − 𝑒 −5𝑣
+
+c) 1 − 𝑒 −5/𝑣
+
+d) 𝑒 −5/𝑣
+
+e) 1 − 𝑒 −√5𝑣
+
+Comentários:
+
+Na distribuição de Poisson, a probabilidade é dada por:
+
+                                                                      𝑒 −𝜆 . 𝜆𝑘
+                                                       𝑃(𝑋 = 𝑘) =
+                                                                         𝑘!
+
+O enunciado informa que o número de blocos vendidos por hora é igual a 𝑣 e pede a probabilidade de não
+observarmos venda alguma em 5 horas. Para 5 horas, o parâmetro é:
+                                                                𝜆 = 5𝑣
+E a probabilidade de 𝑋 = 0 é:
+
+                                                                𝑒 −5𝑣 . (5𝑣)0
+                                                𝑃(𝑋 = 0) =                    = 𝑒 −5𝑣
+                                                                      0!
+
+Gabarito: A
+
+            Receita Federal (Analista Tributário) Estatística                                       109
+            www.estrategiaconcursos.com.br                                                          154
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+2.    (FGV/2023 – TCE/ES) O número de carros que passam por um posto de gasolina em meia hora pode
+ser modelado como uma variável aleatória X com distribuição Poisson de taxa w = 2.
+
+A probabilidade de X exceder a média é:
+
+a) 1 − 5𝑒 −2
+
+b) 1 + 5𝑒 −2
+
+c) 5𝑒 −2
+
+d) 1 − 5𝑒 −0,5
+
+e) 5𝑒 −0,5
+
+Comentários:
+
+O enunciado informa que X segue distribuição de Poisson com taxa 𝜆 = 2, o que corresponde à média da
+distribuição, uma vez que 𝐸(𝑋) = 𝜆.
+A probabilidade de X exceder a média pode ser calculada pela probabilidade complementar:
+                        𝑃(𝑋 > 2) = 1 − 𝑃(𝑋 ≤ 2) = 1 − [𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2)]
+Essas probabilidades são:
+
+                                                                    𝑒 −𝜆 . 𝜆𝑘
+                                                      𝑃(𝑋 = 𝑘) =
+                                                                       𝑘!
+
+                                                                𝑒 −2 . 20
+                                                  𝑃(𝑋 = 0) =              = 𝑒 −2
+                                                                   0!
+
+                                                            𝑒 −2 . 21
+                                                 𝑃(𝑋 = 1) =           = 2. 𝑒 −2
+                                                               1!
+
+                                                               𝑒 −2 . 22
+                                                 𝑃(𝑋 = 2) =              = 2. 𝑒 −2
+                                                                  2!
+
+E a probabilidade desejada é:
+
+                                  𝑃(𝑋 > 2) = 1 − (𝑒 −2 + 2. 𝑒 −2 + 2. 𝑒 −2 ) = 1 − 5. 𝑒 −2
+
+Gabarito: A
+
+           Receita Federal (Analista Tributário) Estatística                                     110
+           www.estrategiaconcursos.com.br                                                        154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+3.    (FGV/2023 – TCE/ES) O A sobredispersão, isto é, a variância maior que a média, é uma característica
+de dados de contagem que não se adequam bem à distribuição de Poisson.
+
+Suponha que os números de gols marcados por um jogador de futebol em dez temporadas tenham sido: 3, 2,
+8, 3, 12, 11, 17, 11, 15, 14.
+
+A variância desse conjunto de dados é 19,34. Sobre a razão R entre a variância observada e a variância
+esperada sob o modelo Poisson, é correto afirmar que
+
+a) R > 2, indicando sobredispersão
+
+b) R > 1/2, sem indicação de sobredispersão
+
+c) R < 1/2, indicando sobredispersão
+
+d) R > 2, sem indicação de sobredispersão
+
+e) R < 1/2, sem indicação de sobredispersão
+
+Comentários:
+
+Na distribuição de Poisson, temos 𝐸(𝑋) = 𝑉𝑎𝑟(𝑋) = 𝜆, ou seja, a média é igual à variância. Assim, para um
+conjunto de dados que siga uma distribuição de Poisson, espera-se que a variância seja igual a média.
+A média do conjunto de dados fornecido é:
+                           ∑ 𝑥𝑖 3 + 2 + 8 + 3 + 12 + 11 + 17 + 11 + 15 + 14 96
+                    𝑥̅ =       =                                           =    = 9,6
+                            𝑛                        10                      10
+O enunciado informa que R é a razão entre a variância observada e a variância esperada; e que a variância
+observada é igual a 19,34. Considerando que a variância esperada é igual à média 𝑥̅ = 9,6, temos:
+                                                     𝑉𝑎𝑟_𝑜𝑏𝑠 19,6
+                                                𝑅=           =     >2
+                                                     𝑉𝑎𝑟_𝑒𝑠𝑝   9,6
+Ou seja, a variância observada é mais do que o dobro da variância esperada, o que indica sobredispersão.
+Gabarito: A
+
+4.      (FGV/2023 – TJ/SE - Adaptada) Quanto à transformação de variáveis aleatórias que seguem uma
+distribuição de probabilidade determinada, julgue o item a seguir.
+A soma de n variáveis aleatórias independentes e identicamente distribuídas Poisson com parâmetro λ tem
+distribuição Poisson com parâmetro n*λ.
+
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  111
+        www.estrategiaconcursos.com.br                                                                     154
+
+                                        
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+A soma de variáveis independentes com distribuição de Poisson também segue distribuição de Poisson. O
+parâmetro da nova distribuição corresponde à soma dos parâmetros. Assim, a soma de n variáveis com o mesmo
+parâmetro 𝜆 terá o seguinte parâmetro:
+
+                                                  𝜆𝑆 = 𝜆 + 𝜆 + ⋯ + 𝜆 = 𝑛. 𝜆
+                                                               𝑛 vezes
+Resposta: Certo
+
+5.        (FGV/2022 – MPE/SC) A procura diária de conserto de celulares numa assistência técnica é uma
+                                                                                        𝒆−𝟑 𝟑𝒙
+variável aleatória cuja função de probabilidade é dada por 𝒇(𝒙) = 𝒙! , para valores de 𝒙 = 𝟎, 𝟏, 𝟐, … A
+probabilidade de, em determinado dia, a procura de conserto de celulares ser inferior à variância da
+distribuição é:
+
+a) 𝑒 −3
+
+b) 3𝑒 −3
+
+c) 5,5𝑒 −3
+
+d) 8,5𝑒 −3
+
+e) 9𝑒 −3
+
+Comentários:
+
+Pela função de probabilidade fornecida no enunciado, verificamos que a variável segue distribuição de Poisson,
+com parâmetro 𝜆 = 3.
+Para essa distribuição, a variância é igual ao parâmetro, logo, a probabilidade de a variável ser inferior ao
+parâmetro corresponde à soma:
+                                     𝑃(𝑋 < 3) = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2)
+Essas probabilidades são dadas por:
+
+                                                                  𝑒 −3 . 30
+                                                  𝑃(𝑋 = 0) =                = 𝑒 −3
+                                                                     0!
+
+                                                            𝑒 −3 . 31
+                                                 𝑃(𝑋 = 1) =           = 3. 𝑒 −3
+                                                               1!
+
+                                                                𝑒 −3 . 32
+                                                𝑃(𝑋 = 2) =                = 4,5. 𝑒 −3
+                                                                   2!
+
+           Receita Federal (Analista Tributário) Estatística                                               112
+           www.estrategiaconcursos.com.br                                                                  154
+
+                                           
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+E a soma é:
+                                      𝑃(𝑋 < 3) = 𝑒 −3 + 3. 𝑒 −3 + 4,5. 𝑒 −3 = 8,5. 𝑒 −3
+Gabarito: D
+
+6.        (FGV/2022 – EPE) Assinale a opção que apresente características da distribuição de Poisson.
+
+a) Ter função de probabilidade simétrica e ser adequada como modelo para eventos abundantes.
+
+b) Ter função de probabilidade simétrica e ser adequada como modelo para eventos raros.
+
+c) Ter média igual à variância e ser adequada como modelo para eventos raros.
+
+d) Ter média maior do que a variância e ser adequada como modelo para eventos raros.
+
+e) Ter média menor do que a variância e ser adequada como modelo para eventos abundantes.
+
+Comentários:
+
+A distribuição de Poisson é aplicável quando a probabilidade de sucesso é muito pequena (𝑝 → 0), ou seja, para
+eventos raros, logo, as alternativas A e E estão erradas.
+Nessa distribuição, tanto a média quanto a variância são iguais ao parâmetro 𝜆, logo, a alternativa D está errada
+e a alternativa C está certa.
+Em relação à alternativa B, a variável pode assumir qualquer valor inteiro positivo, não sendo uma distribuição
+simétrica.
+Gabarito: C
+
+7.    (FGV/2022 – TRT/MA) Um exemplo de variável aleatória cuja distribuição de probabilidades é tal que
+a média é sempre igual a variância é a
+
+a) binomial.
+
+b) exponencial.
+
+c) uniforme discreta.
+
+d) hipergeométrica.
+
+e) Poisson.
+
+           Receita Federal (Analista Tributário) Estatística                                                 113
+           www.estrategiaconcursos.com.br                                                                    154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+
+O enunciado pede a distribuição em que a média é sempre igual à variância. Na distribuição de Poisson
+(alternativa E), temos:
+                                                        𝐸(𝑋𝑃𝑜 ) = 𝜆
+                                                        𝑉(𝑋𝑃𝑜 ) = 𝜆
+Ou seja, a média e a variância são sempre iguais na distribuição de Poisson. Mas vejamos as demais alternativas.
+Para a distribuição binomial (A), a média e a variância são diferentes:
+                                                      𝐸(𝑋𝐵𝑖 ) = 𝑛 × 𝑝
+                                                   𝑉(𝑋𝐵𝑖 ) = 𝑛 × 𝑝 × 𝑞
+Em relação à distribuição hipergeométrica (D), a média é igual à média da distribuição binomial e a variância é
+                                                            ==219a34==
+
+multiplicada pelo fator de correção:
+                                                     𝐸(𝑋𝐻𝑔 ) = 𝑛 × 𝑝
+                                                                               𝑁−𝑛
+                                             𝑉(𝑋𝐻𝑔 ) = 𝑛 × 𝑝 × 𝑞 ×
+                                                                               𝑁−1
+Assim, também temos média diferente de variância.
+Para a distribuição exponencial, a média e a variância também são diferentes:
+                                                                 1
+                                                        𝐸(𝑋𝐸𝑥 ) =
+                                                                 𝜆
+                                                                 1
+                                                       𝑉(𝑋𝐸𝑥 ) = 2
+                                                                𝜆
+Em relação à distribuição uniforme discreta, a média e a variância são diferentes:
+                                                                         𝑎+𝑏
+                                                      𝐸(𝑋𝑈 ) =
+                                                                          2
+                                                             (𝑏 − 𝑎)2
+                                                    𝑉(𝑋𝑈 ) =
+                                                                12
+Gabarito: E
+
+8.     (FGV/2022 – TRT/MA) Suponha que um processo Poisson esteja ocorrendo no tempo a uma taxa média
+de 0,5/min. Usando 𝐞−𝟎,𝟐𝟓 = 0,7788, a probabilidade de que ocorra um acontecimento num intervalo de 30s
+é, aproximadamente, igual a
+
+a) 0,104.
+
+        Receita Federal (Analista Tributário) Estatística                                                   114
+        www.estrategiaconcursos.com.br                                                                      154
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+b) 0,195.
+c) 0,256.
+d) 0,348.
+e) 0,360.
+
+Comentários:
+
+O enunciado informa que o processo segue distribuição de Poisson com parâmetro 𝜆0 = 0,5 por minuto.
+O parâmetro para 30 segundos (meio minuto) é a metade:
+                                                         𝜆0 0,5
+                                                    𝜆=     =    = 0,25
+                                                         2   2
+A probabilidade de ocorrer k = 1 acontecimento nesse intervalo é:
+                                                                𝑒 −𝜆 × 𝜆𝑘
+                                                   𝑃(𝑋 = 𝑘) =
+                                                                    𝑘!
+                                                      𝑒 −0,25 × 0,251
+                                       𝑃(𝑋 = 1) =                     = 0,25. 𝑒 −0,25
+                                                             1!
+Considerando que 𝑒 −0,25 = 0,7788:
+                                    𝑃(𝑋 = 1) = 0,25 × 0,7788 = 0,1947 ≅ 0,195
+Gabarito: B
+
+9.    (FGV/2021 – Auditor Fiscal Pref. Paulínia) Em 30 dias, um auditor autua a uma taxa média de 18
+empreendimentos em decorrência de recolhimento de tributo a menor. O valor esperado do número de dias
+em que esse auditor não autua nenhum empreendimento é de
+
+a) 18/30 e1,6
+b) 30/18 e0,6
+c) 30/18 e1,6
+d) 18/30 e-0,6
+e) 30 e-0,6
+
+Comentários:
+
+Segundo o enunciado, um auditor autua 18 empreendimentos em 30 dias. Logo, a média de autuações por dia:
+
+         Receita Federal (Analista Tributário) Estatística                                            115
+         www.estrategiaconcursos.com.br                                                               154
+
+                                         
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+                                                                  18
+                                                             𝜆=      = 0,6
+                                                                  30
+
+Seguindo a distribuição de Poisson, a probabilidade de o auditor não autuar um empreendimento (ou seja,
+autuar k = 0 empreendimento) em determinado dia é:
+
+                                                         𝑒 −0,6 × 0,60 𝑒 −0,6 × 1
+                                          𝑃(𝑋 = 0) =                  =           = 𝑒 −0,6
+                                                               0!           1
+
+Para calcular o número esperado de dias sem autuação, dentre 30 dias, consideramos uma distribuição binomial
+com n = 30 dias e probabilidade de sucesso 𝑝 = 𝑒 −0,6 :
+
+                                                     𝐸(𝑋) = 𝑛 × 𝑝 = 30 × 𝑒 −0,6
+
+Gabarito: E
+
+10.    (FGV/2017 – MPE/BA) Suponha que o número de denúncias oferecidas por mês (30 dias) pelo
+Ministério Público seja uma variável aleatória discreta com distribuição de Poisson, com parâmetro λ = 12. Se
+até o 10º dia de certo mês já tenham sido oferecidas três denúncias, a probabilidade de que até o final do
+mês (+20 dias) se tenham acumulado exatamente seis denúncias é igual a:
+
+     (12)3
+a)           . 𝑒 −12 ;
+      3!
+
+     (4)3
+b) 3! . 𝑒 −4;
+
+     (6)3
+c) 3! . 𝑒 −6 ;
+
+     (8)3
+d) 3! . 𝑒 −8;
+
+     (20)3
+e)           . 𝑒 −20 .
+      3!
+
+
+Comentários:
+
+A probabilidade de uma distribuição de Poisson é dada por:
+
+                                                                     𝑒 −𝜆 × 𝜆𝑘
+                                                        𝑃(𝑋 = 𝑘) =
+                                                                         𝑘!
+
+Se já foram oferecidas 3 denúncias em 10 dias, a probabilidade de acumular 6 denúncias no total dos 30 dias
+corresponde à probabilidade de serem oferecidas 3 denúncias nos 20 dias restantes.
+
+
+              Receita Federal (Analista Tributário) Estatística                                           116
+              www.estrategiaconcursos.com.br                                                              154
+
+                                              
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+Sabendo que a média é de 12 denúncias a cada 30 dias, então em 20 dias, a média de denúncias será de:
+
+                                                      20        2 × 12
+                                                 𝜆=      × 12 =        =8
+                                                      30          3
+
+Assim, a probabilidade de haver k = 3 denúncias nesse período é:
+
+                                                              𝑒 −8 × 83 (8)3 −8
+                                             𝑃(𝑋 = 3) =                =    .𝑒
+                                                                  3!     3!
+
+Gabarito: D
+
+11.   (FGV/2015 – TJ-RO) O número de recursos em um processo é uma variável aleatória de Poisson com
+parâmetro λ = 5. Então a probabilidade de que um processo tenha menos do que 2 recursos é:
+
+a) 31. 𝑒 −5 ;
+
+b) 6. 𝑒 −5;
+
+c) 5. 𝑒 −5;
+
+d) 1 − 6. 𝑒 −5;
+
+e) 1 − 31. 𝑒 −5 .
+
+Comentários:
+
+A probabilidade de um processo ter menos que 2 recursos corresponde a:
+
+                                            𝑃(𝑋 < 2) = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1)
+
+A probabilidade de uma distribuição de Poisson é dada por:
+
+                                                               𝑒 −𝜆 × 𝜆𝑘
+                                                    𝑃(𝑋 = 𝑘) =
+                                                                   𝑘!
+
+Sabendo que 𝜆 = 5, então:
+
+                                                           𝑒 −5 × 50
+                                                𝑃(𝑋 = 0) =           = 𝑒 −5
+                                                               0!
+
+                                                               𝑒 −5 × 51
+                                               𝑃(𝑋 = 1) =                = 5. 𝑒 −5
+                                                                   1!
+
+
+          Receita Federal (Analista Tributário) Estatística                                             117
+          www.estrategiaconcursos.com.br                                                                154
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+Logo:
+
+                                             𝑃(𝑋 < 2) = 𝑒 −5 + 5. 𝑒 −5 = 6. 𝑒 −5
+
+Gabarito: B
+
+12.    (FGV/2015 – IBGE) Suponha que o número de chegada de pessoas a uma fila é uma variável aleatória,
+cuja média, proporcional ao tempo, é de seis pessoas por hora. As chegadas são independentes e a
+probabilidade de que duas pessoas cheguem à fila num mesmo segundo é nula. Logo, uma aproximação para
+a probabilidade de que duas pessoas entrem na fila no período de meia hora é:
+
+    1 2
+a) (3) ;
+
+b) 6. 𝑒 −4,5;
+
+    1 2       2 4
+c) (3) . (3) ;
+
+d) 3. 𝑒 −6;
+
+e) 4,5. 𝑒 −3 .
+
+Comentários:
+
+A probabilidade de que 2 pessoas entrem na fila em meia hora pode ser calculada a partir da fórmula de Poisson:
+
+                                                                     𝑒 −𝜆 × 𝜆𝑘
+                                                     𝑃(𝑋 = 𝑘) =
+                                                                         𝑘!
+
+O enunciado informa que a média é de 6 pessoas por hora, então em meia hora (isto é, metade de 1 hora)
+chegam em média o seguinte número de pessoas:
+
+                                                                    6
+                                                               𝜆=     =3
+                                                                    2
+
+Substituindo esse valor de 𝜆 na fórmula de Poisson para k = 2, temos a probabilidade de entrarem 2 pessoas em
+meia hora:
+
+                                                       𝑒 −3 × 32 𝑒 −3 × 9
+                                        𝑃(𝑋 = 2) =              =         = 4,5. 𝑒 −3
+                                                           2!        2
+
+Gabarito: E
+
+           Receita Federal (Analista Tributário) Estatística                                                118
+           www.estrategiaconcursos.com.br                                                                   154
+
+                                           
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+13.   (FGV/2015 – CODEBA) Uma empresa deseja estabelecer um procedimento de manutenção centrada
+em confiabilidade. Sabe-se que uma máquina dessa empresa registra 2 falhas a cada 5000 horas de operação.
+Desse modo, a probabilidade de falha dessa máquina em 10000 h de operação vale
+
+   1
+a) 4;
+
+   3
+b) 4;
+
+c) 𝑒 −4 ;
+
+d) 1 − 𝑒 −4;
+
+e) 1 − 𝑒 −2 .
+
+Comentários:
+
+A probabilidade de a máquina apresentar falha em 10.000 horas de operação pode ser calculada como o
+complementar da probabilidade de a máquina não apresentar falha nesse período.
+
+A probabilidade de falha pode ser calculada a partir da fórmula de Poisson:
+
+                                                                 𝑒 −𝜆 × 𝜆𝑘
+                                                      𝑃(𝑋 = 𝑘) =
+                                                                     𝑘!
+
+O enunciado informa que a média é de 2 falhas a cada 5.000 horas, então em 10.000 horas (isto é, o dobro de
+5.000 horas) há, em média, o seguinte número de falhas:
+
+                                                          𝜆=2×2=4
+
+Assim, a probabilidade de a máquina não apresentar falha (isto é, k = 0) em 10.000 horas é:
+
+                                                      𝑒 −4 × 40 𝑒 −4 × 1
+                                           𝑃(𝑋 = 0) =          =         = 𝑒 −4
+                                                          0!        1
+
+Assim, a probabilidade de a máquina apresentar alguma falha nesse período é complementar:
+
+                                                 𝑃 = 1 − 𝑃(𝑋 = 0) = 1 − 𝑒 −4
+
+Gabarito: D
+
+            Receita Federal (Analista Tributário) Estatística                                           119
+            www.estrategiaconcursos.com.br                                                              154
+
+                                            
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+14.    (FGV/2014 – TJ/BA) Suponha que a quantidade total de erros cometidos pelo judiciário segue o padrão
+de um Processo de Poisson com parâmetro λ = 4, relativo ao período de um ano. Então a probabilidade de
+que sejam cometidos exatamente três erros, nos próximos 18 meses, é igual a:
+
+   43
+a) 3! . 𝑒 −4;
+
+                       3⁄
+     43                  2
+b) ( 3! . 𝑒 −4 )             ;
+
+   34
+c) 4! . 𝑒 −6;
+
+   63
+d) 3! . 𝑒 −6;
+
+                   3⁄
+     63       −6     2
+e) ( 3! . 𝑒        )     .
+
+Comentários:
+
+A probabilidade de uma distribuição de Poisson é dada por:
+
+                                                                   𝑒 −𝜆 × 𝜆𝑘
+                                                        𝑃(𝑋 = 𝑘) =
+                                                                       𝑘!
+
+Sabendo que a média é de 4 erros por ano, então, em 18 meses (isto é, 1 ano e meio), a média de erros é de:
+
+                                                           𝜆 = 1,5 × 4 = 6
+
+Assim, a probabilidade de haver k = 3 erros é de:
+
+                                                                   𝑒 −6 × 63
+                                                        𝑃(𝑋 = 6) =
+                                                                       3!
+
+Gabarito: D
+
+15.    (FGV/2014 – SEDUC/AM) Suponha que pessoas procurem certo caixa eletrônico de acordo com um
+processo de Poisson com uma taxa média de uma pessoa a cada dois minutos. A probabilidade de que, num
+intervalo de quatro minutos, menos de duas pessoas procurem esse caixa é, aproximadamente, igual a (use
+𝒆−𝟐 ≅ 𝟎, 𝟏𝟑𝟓):
+
+a) 0,270;
+
+              Receita Federal (Analista Tributário) Estatística                                           120
+              www.estrategiaconcursos.com.br                                                              154
+
+                                              
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+b) 0,405
+
+c) 0,473
+
+d) 0,525
+
+e) 0,567
+
+Comentários:
+
+A probabilidade de uma distribuição de Poisson é dada por:
+
+                                                                𝑒 −𝜆 × 𝜆𝑘
+                                                     𝑃(𝑋 = 𝑘) =
+                                                                    𝑘!
+
+Considerando que a média é de 1 pessoa a cada 2 minutos, então, a cada 4 minutos (o dobro), o número médio
+de pessoas é de:
+
+                                                         𝜆=2×1=2
+
+A probabilidade de menos de 2 pessoas procurarem o caixa, corresponde a 0 OU 1 pessoa procurar, dada por
+(união de eventos excludentes):
+
+                                                  𝑃 = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1)
+
+Sendo 𝜆 = 2, temos:
+
+                                                          𝑒 −2 × 20 𝑒 −2 × 1
+                                          𝑃(𝑋 = 0) =               =         = 𝑒 −2
+                                                              0!        1
+
+                                                    𝑒 −2 × 21 𝑒 −2 × 2
+                                         𝑃(𝑋 = 1) =          =         = 2. 𝑒 −2
+                                                        1!        1
+
+Logo, a probabilidade desejada é:
+
+                                     𝑃 = 𝑒 −2 + 2. 𝑒 −2 = 3. 𝑒 −2 ≅ 3 × 0,135 = 0,405
+
+Gabarito: B
+
+16.    (FGV/2013 – INEA) Suponha que pessoas procurem certo caixa eletrônico de acordo com um processo
+de Poisson com uma taxa média de uma pessoa a cada dois minutos.
+
+           Receita Federal (Analista Tributário) Estatística                                           121
+           www.estrategiaconcursos.com.br                                                              154
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+A probabilidade de que, num intervalo de quatro minutos, menos de duas pessoas procurem esse caixa é igual
+a
+
+a) exp{-2}
+
+b) 2.exp{-1}
+
+c) 3.exp{-2}
+
+d) 5.exp{-1}
+
+e) 5.exp{-2}
+
+Comentários:
+
+Essa questão é igual à anterior, porém com as respostas representadas de forma diferente. Já calculamos a
+probabilidade da forma:
+
+                                𝑃 = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) = 𝑒 −2 + 2. 𝑒 −2 = 3. 𝑒 −2
+
+Sabendo que podemos representar um expoente 𝑥 qualquer na base 𝑒 como:
+
+                                                        𝑒 𝑥 = exp{𝑥}
+Então, a probabilidade calculada pode ser representada como:
+                                                      𝑃 = 3. exp{−2}
+
+Gabarito: C
+
+17.    (FGV/2013 – SUDENE/PE) Suponha que o número de navios que ancoram num certo porto por dia
+tenha distribuição Poisson com uma média de 0,6 navio por dia. A probabilidade de que em um período de
+cinco dias ancorem no máximo dois navios é aproximadamente igual a (use 𝒆−𝟑 ≅ 𝟎, 𝟎𝟓):
+
+a) 0,125.
+
+b) 0,225.
+
+c) 0,375.
+
+d) 0,425.
+
+e) 0,575.
+
+        Receita Federal (Analista Tributário) Estatística                                              122
+        www.estrategiaconcursos.com.br                                                                 154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+Comentários:
+
+Considerando que a média é de 0,6 navio por dia, então, em um período de 5 dias, a média é:
+
+                                                     𝜆 = 5 × 0,6 = 3
+
+A probabilidade de no máximo 2 navios ancorarem, corresponde a:
+
+                                       𝑃 = 𝑃(𝑋 = 0) + 𝑃(𝑋 = 1) + 𝑃(𝑋 = 2)
+
+Sendo 𝜆 = 3, temos:
+
+                                                               𝑒 −𝜆 × 𝜆𝑘
+                                                  𝑃(𝑋 = 𝑘) =
+                                                                   𝑘!
+
+                                                       𝑒 −3 × 30 𝑒 −3 × 1
+                                       𝑃(𝑋 = 0) =               =         = 𝑒 −3
+                                                           0!        1
+
+                                                 𝑒 −3 × 31 𝑒 −2 × 3
+                                      𝑃(𝑋 = 1) =          =         = 3. 𝑒 −2
+                                                     1!        1
+
+                                                    𝑒 −3 × 32 𝑒 −2 × 9
+                                     𝑃(𝑋 = 2) =              =         = 4,5. 𝑒 −2
+                                                        2!        2
+
+Logo, a probabilidade desejada é:
+
+                          𝑃 = 𝑒 −3 + 3. 𝑒 −3 + 4,5. 𝑒 −3 = 8,5. 𝑒 −2 ≅ 8,5 × 0,05 = 0,425
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Estatística                                     123
+        www.estrategiaconcursos.com.br                                                        154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                            QUESTÕES COMENTADAS – FGV
+
+Distribuição Binomial Negativa
+
+1.     (FGV/2022 – EPE) Sabe-se que sempre que um consumidor vai a um supermercado, a probabilidade
+de ele comprar um determinado item é de 20%. Suponha que se deseja saber a probabilidade desse
+consumidor ter que ir ao supermercado 10 vezes para que ele compre o referido item metade das vezes.
+
+A distribuição de probabilidade mais apropriada para modelar esse problema é a
+
+a) binomial
+
+b) geométrica
+
+c) binomial negativa
+
+d) Poisson
+
+e) hipergeométrica
+
+Comentários:
+
+A distribuição que estuda o número de ensaios necessários para obter 𝑘 sucessos (no caso, 𝑘 = 5) é a
+distribuição binomial negativa.
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Estatística                                        124
+        www.estrategiaconcursos.com.br                                                           154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                   LISTA DE QUESTÕES – FGV
+
+Uniforme
+
+1.      (FGV/2023 – CGE/SC) Considere uma variável aleatória X uniformemente distribuída no intervalo
+[0,1]. A média e a variância de X serão, respectivamente, iguais a
+
+a) 0 e 1/3
+
+b) 1 e 1
+
+c) 1/2 e 1/12
+
+d) 1/12 e 1
+
+e) 1/6 e 1/24
+
+2.     (FGV/2023 – BANESTES) Admita que a variável aleatória Y siga uma distribuição uniforme contínua
+no intervalo [-1, +2]. Assim, a esperança de Y2 é igual a
+
+a) 1
+
+b) 1,5
+
+c) 2
+
+d) 2,5
+
+e) 3
+
+3.     (FGV/2023 – TCE/ES) Os noventa e nove percentis (𝑷𝟏 , 𝑷𝟐 , … , 𝑷𝟗𝟗 ) dividem os dados ordenados
+em cem partes com, aproximadamente, 1% dos dados em cada uma delas. Seja 𝑿~𝑼𝒏𝒊𝒇𝒐𝒓𝒎𝒆(𝒂; 𝒃), 𝒃 >
+𝒂 e 𝒑(𝒊) o 𝒊-ésimo percentil, 𝒊 = 𝟏, 𝟐, … , 𝟗𝟗. Uma expressão que fornece o 𝒑(𝒊) dessa distribuição é
+
+a) 𝑎 + (𝑏 − 𝑎)𝑖%
+
+b) 𝑏 + (𝑏 − 𝑎)𝑖%
+
+c) 𝑎 − (𝑏 − 𝑎)𝑖%
+
+d) 𝑏 − (𝑎 − 𝑏)𝑖%
+           𝑏−𝑎
+e) 𝑏 + ( 2 ) 𝑖%
+
+           Receita Federal (Analista Tributário) Estatística                                       125
+           www.estrategiaconcursos.com.br                                                          154
+
+                                         
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+4.      (FGV/2022 – EPE) Se uma variável aleatória contínua X tem distribuição uniforme no intervalo [2,
+8], então a variância de X é igual a
+
+a) 2,0
+
+b) 3,0
+
+c) 4,0
+
+d) 5,0
+
+e) 6,0
+
+
+                                                                 ==219a34==
+
+5.    (FGV/2022 – SEMSA/Manaus) Avalie se as seguintes famílias de distribuições pertencem à família
+exponencial:
+
+I - Distribuição Normal
+II - Distribuição Binomial
+
+III - Distribuição de Poisson
+
+IV - Distribuição Uniforme
+
+Estão corretas apenas
+
+a) I e II
+
+b) III e IV
+
+c) I, II e III
+
+d) I, III e IV
+
+e) II, III e IV
+
+6.          (FGV/2018 – ALERO) Avalie se as seguintes famílias de distribuições são uma família exponencial:
+
+I - A família de distribuições Poisson com média desconhecida.
+
+II - A família de distribuições normais com média conhecida e variância desconhecida.
+
+III - A família de distribuições Beta com parâmetro α conhecido e parâmetro β desconhecido.
+
+IV - A família de distribuições Uniforme no intervalo (0, θ), θ parâmetro desconhecido.
+São de fato famílias exponenciais
+
+             Receita Federal (Analista Tributário) Estatística                                            126
+             www.estrategiaconcursos.com.br                                                               154
+
+                                           
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+a) I e II, apenas.
+
+b) III e IV, apenas.
+
+c) I, II e IV, apenas.
+
+d) I, II e III, apenas.
+
+e) I, II, III e IV.
+
+7.        (FGV/2018 – AL/RO) Se (Xn) é uma sequência de variáveis aleatórias com distribuição uniforme no
+intervalo (0, (n – 1)/ n), n > 1, então (Xn) converge para uma distribuição
+
+a) uniforme no intervalo (0, 1).
+
+b) qui-quadrado com 1 grau de liberdade
+
+c) exponencial com parâmetro 𝜆 = 1.
+
+d) normal padrão.
+
+e) geométrica parâmetro 𝜃 = 1.
+
+8.     (FGV/2017 – IBGE) Sabe-se que o tempo de aplicação de um questionário em uma pesquisa de
+campo é uma variável com distribuição uniforme entre 8 e 20 minutos. Um entrevistador pretende aplicar
+três questionários.
+
+Logo, é correto afirmar que:
+
+a) a probabilidade de que todas as entrevistas durem mais do que 15 minutos é de 27/64;
+
+b) a probabilidade de que duas entrevistas durem mais do que a média é igual a 5/8;
+
+c) o desvio padrão do tempo de duração de cada entrevista é igual a 2 minutos;
+
+d) a probabilidade de que apenas uma das entrevistas leve menos da metade do tempo máximo é igual a
+25/72.
+
+e) a probabilidade do tempo total de entrevista exceder 40 minutos é igual a 0,5.
+
+           Receita Federal (Analista Tributário) Estatística                                          127
+           www.estrategiaconcursos.com.br                                                             154
+
+                                         
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1. LETRA C                                  4. LETRA B                  7. LETRA A
+ 2. LETRA A                                  5. LETRA C                  8. LETRA D
+ 3. LETRA A                                  6. LETRA D
+
+      Receita Federal (Analista Tributário) Estatística                               128
+      www.estrategiaconcursos.com.br                                                  154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                   LISTA DE QUESTÕES – FGV
+
+Distribuição Binomial
+
+1.    (FGV/2025 – TCE/PI) Numa determinada população, 40% das famílias moram em locais sem acesso
+a saneamento básico. Se quatro famílias dessa população forem sorteadas ao acaso, sem reposição, a
+probabilidade de que duas morem em locais sem saneamento básico é, aproximadamente, igual a
+
+a) 0,25
+
+b) 0,30
+
+c) 0,35
+
+d) 0,40
+
+e) 0,45
+
+2.    (FGV/2024 – Pref. São José dos Campos) Uma moeda é viciada de modo que, cada vez que ela é
+lançada, a probabilidade de ocorrer cara é igual a 1/4 e a probabilidade de ocorrer coroa é 3/4. A cada
+lançamento o resultado é independente de lançamentos anteriores. Essa moeda é lançada 3 vezes
+consecutivas. A probabilidade de que os 3 resultados sejam iguais é
+
+a) 11/16
+
+b) 9/16
+
+c) 7/16
+
+d) 5/16
+
+e) 1/2
+
+3.      (FGV/2023 – TJ/SE) A média e o desvio padrão de uma distribuição binomial são, respectivamente,
+20 e 2. O número de ensaios (n) dessa distribuição é:
+
+a) 1
+
+b) 25
+
+c) 40
+
+           Receita Federal (Analista Tributário) Estatística                                        129
+           www.estrategiaconcursos.com.br                                                           154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+d) 80
+
+e) 400
+
+4.      (FGV/2023 – TJ/SE - Adaptada) Quanto à transformação de variáveis aleatórias que seguem uma
+distribuição de probabilidade determinada, julgue o item a seguir.
+A soma de n variáveis aleatórias independentes e identicamente distribuídas Bernoulli com parâmetro p tem
+distribuição Binomial com parâmetros n e p.
+
+5.    (FGV/2023 – Câmara dos Deputados) Numa população, 50% dos indivíduos já contraíram covid-19.
+Se uma amostra aleatória simples de 10 indivíduos for obtida dessa população, a probabilidade de que 6
+tenham contraído covid-19 é aproximadamente igual a
+
+a) 0,02
+
+b) 0,05
+
+c) 0,08
+
+d) 0,10
+
+e) 0,20
+
+6.     (FGV/2023 – BANESTE) O Comitê organizador de um congresso científico contratou 5 hotéis da
+cidade onde vai se realizar esse evento para hospedar os 1.000 congressistas inscritos. Cada um desses
+hotéis só tem quartos individuais e só poderá hospedar os participantes do congresso durante o período
+do evento. Cada congressista escolherá de forma aleatória para qual dos 5 hotéis vai se dirigir. O Hotel H
+é um desses 5 hotéis e tem capacidade para acomodar 210 pessoas. Para facilitar, informam-se a seguir as
+probabilidades de que uma variável aleatória X seja menor ou igual a k, para alguns valores de k, em que
+X tem distribuição Binomial (n,p), com n = 1000 e p = 1/5.
+
+                                                         k    P(X≤k)
+                                                       200    0,519
+                                                       204    0,642
+                                                       208    0,751
+                                                       212    0,839
+                                                       216    0,903
+                                                       220    0,946
+
+          Receita Federal (Analista Tributário) Estatística                                            130
+          www.estrategiaconcursos.com.br                                                               154
+
+                                        
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+Sobre a probabilidade p de que o Hotel H consiga acomodar todos os congressistas que o procurarem, é
+correto afirmar que o valor de p está entre
+
+a) 0,519 e 0,642
+
+b) 0,642 e 0,751
+
+c) 0,751 e 0,839
+
+d) 0,839 e 0,903
+
+e) 0,903 e 0,946
+
+7.     (FGV/2023 – RFB) Numa população, 50% das pessoas têm uma certa característica C. Se 4 pessoas
+forem aleatoriamente selecionadas, com reposição, a probabilidade de que mais de uma tenha a
+característica C é igual a
+
+a) 0,3125
+
+b) 0,3650
+
+c) 0,4245
+
+d) 0,6875
+
+e) 0,7225
+
+8.        (FGV/2023 – SEFAZ/MG) Numa população, 50% das pessoas têm uma certa característica C.
+Se oito pessoas desta população foram aleatoriamente sorteadas com reposição, a probabilidade de que
+mais de cinco tenham a referida característica é aproximadamente igual a
+
+a) 14%.
+
+b) 18%.
+
+c) 22%.
+
+d) 25%.
+
+e) 29%.
+
+           Receita Federal (Analista Tributário) Estatística                                      131
+           www.estrategiaconcursos.com.br                                                         154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+9.    (FGV/2022 – TRT/MA) Uma moeda honesta será lançada 10 vezes. Se X é o número de caras
+observadas, então a variância de X vale
+
+a) 1,0
+
+b) 1,5
+
+c) 2,0
+
+d) 2,5
+
+e) 3,0
+
+10.     (FGV/2022 – SEFAZ/ES) Sabe-se que numa cidade muito populosa 60% das pessoas adultas foram
+vacinadas contra a ação de um vírus. Se uma amostra aleatória simples de 5 pessoas adultas dessa
+população for observada, a probabilidade de que mais de 3 tenham sido vacinadas é aproximadamente
+igual a
+
+a) 0,34
+
+b) 0,40
+
+c) 0,46
+
+d) 0,50
+
+e) 0,56
+
+11.    (FGV/2022 – EPE) Em uma vila, 10% das pessoas são canhotas. Se, nessa vila, seis pessoas forem
+aleatoriamente escolhidas, com reposição (de modo que uma mesma pessoa pode ser escolhida mais de
+uma vez), então a probabilidade de que, no máximo, duas sejam canhotas é aproximadamente igual a
+
+a) 0,52
+
+b) 0,64
+
+c) 0,87
+
+d) 0,90
+
+e) 0,98
+
+          Receita Federal (Analista Tributário) Estatística                                       132
+          www.estrategiaconcursos.com.br                                                          154
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+12.    (FGV/2022 – EPE) Em uma população, 50% das pessoas já tiveram diagnóstico de Covid-19. Se oito
+pessoas dessa população forem sorteadas com reposição, (ou seja, uma mesma pessoa pode ser sorteada
+mais de uma vez), a probabilidade de que, das oito, ao menos seis já tenham sido diagnosticadas com
+Covid-19 é, aproximadamente, igual a
+
+a) 14,5%
+
+b) 20,5%
+
+c) 25,0%
+
+d) 30,5%
+
+e) 35,0%
+
+13.    (FGV/2022 – TCU) A média e a variância de uma distribuição binomial são, respectivamente, 20 e
+4. O número de ensaios (n) dessa distribuição é:
+
+a) 20
+
+b) 22
+
+c) 25
+
+d) 50
+
+e) 100
+
+14.     (FGV/2022 – TJDFT) O Tribunal de Justiça de uma determinada Unidade da Federação almeja
+analisar o perfil socioeconômico das pessoas integrantes do polo ativo das 1.000 ações de família
+distribuídas em uma determinada Comarca. Dessas 1.000 demandas, 600 são julgadas pela 1ª Vara de
+Família e 400 pela 2ª Vara de Família. Para isso, seleciona-se uma amostra aleatória simples, com
+reposição, de 100 ações. A probabilidade de ocorrer a extração de exatamente k, (k<100) ações da 1ª Vara
+entre as 100 ações selecionadas, é:
+
+  (100)600𝑘 (400)100−𝑘
+a) 𝑘 (1000100 )
+
+  ( 400 )
+b) 100−𝑘
+    1000
+   (         )
+       100
+
+  (100)600𝑘 (400)100−𝑘
+c) 𝑘 100100
+
+             Receita Federal (Analista Tributário) Estatística                                       133
+             www.estrategiaconcursos.com.br                                                          154
+
+                                           
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+     (600)( 400 )
+       𝑘    100−𝑘
+d)
+         (1000)
+           100
+
+     (100)𝑘 600 (100−𝑘)400
+       𝑘
+e)         1000100
+
+15.    (FGV/2021 – FunSaúde/CE) Se X tem distribuição binomial (n, p), então a média e a variância de X
+são, respectivamente:
+a) np e np(1 - p)
+b) p e p(1 - p)/n
+c) np e np2
+d) p e np(1 - p)
+e) np e p(1 - p)
+
+
+16.   (FGV/2018 – ALE/RO) Numa população muito grande, 50% das pessoas são do sexo feminino. Se 5
+pessoas dessa população forem aleatoriamente escolhidas, a probabilidade de que pelo menos 4 delas
+sejam do sexo feminino é igual a
+
+a) 10,25%
+
+b) 12,50%
+
+c) 15,80%
+
+d) 18,75%
+
+e) 32,40%
+
+17.     (FGV/2018 – TJ-AL) Suponha que 8 pessoas foram identificadas pelo Ministério Público como
+possíveis integrantes de uma ORCRIM. De acordo com a experiência dos procuradores, a probabilidade de
+que qualquer um deles esteja envolvido é de 0,75.
+
+a) a probabilidade de que haja no grupo 7 ou mais envolvidos é de 2,75.(0,75)7;
+
+b) o número esperado de envolvidos é igual a 2;
+
+c) o número esperado de não envolvidos é igual a 6;
+
+d) a probabilidade de que a maioria dos identificados seja de envolvidos é de 7,25.(0,25)7;
+
+e) a probabilidade de envolvidos e não envolvidos em mesmo número é de 35.(0,75)4.(0,25)4.
+
+
+           Receita Federal (Analista Tributário) Estatística                                        134
+           www.estrategiaconcursos.com.br                                                           154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+18.    (FGV/2017 – SEFIN/RO) Um dado é lançado quatro vezes. A probabilidade de que o número ´6´ seja
+obtido ao menos duas vezes é, aproximadamente, igual a
+
+a) 0,25.
+
+b) 0,13.
+
+c) 0,40.
+
+d) 0,05.
+
+e) 0,50
+
+19.    (FGV/2016 – IBGE) De uma população arbitrariamente grande é extraída uma pequena amostra de
+tamanho n = 5, com o objetivo de avaliar o apoio a um dirigente político. Se forem verdadeiros os rumores
+de que tal indivíduo tem o apoio de apenas 10% da população, então a probabilidade de que dois se
+declarem favoráveis a ele é de:
+
+a) 0,729%.
+
+b) 1,458%.
+
+c) 1,620%.
+
+d) 7,290%.
+
+e) 14,580%
+
+20.    (FGV/2015 – TCM/SP) Suponha que em um levantamento realizado sobre todos os processos
+administrativos que chegaram ao Tribunal de Contas do Município de São Paulo, no passado recente,
+constatou-se a existência de uma probabilidade fixa, igual a 20%, de que, após examinados, esses
+processos apresentem algum tipo de irregularidade, demandando providências. Se um determinado
+conselheiro do Tribunal receber cinco processos para relatar, a probabilidade de que mais de 60%
+contenha irregularidades é de:
+
+a) (0,8). (0,2)4 + (0,2)5
+
+b) (0,8)2 . (0,2)3
+
+c) 4. (0,2)4 + 5. (0,2)5.
+
+d) 21. (0,2)5
+
+e) (0,2)4 + (0,2)5
+
+
+           Receita Federal (Analista Tributário) Estatística                                          135
+           www.estrategiaconcursos.com.br                                                             154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+21.    (FGV/2014 – DPE/RJ) Registros históricos demonstram que 20% das pessoas que procuram a
+Defensoria Pública não preenchem os requisitos necessários ao atendimento gratuito. Logo, se durante
+certo período 45 pessoas recorrem à Defensoria, a probabilidade de que mais da metade mereça receber
+atendimento gratuito é igual a
+
+            45
+a) ∑45
+    𝑘=23 (     ) (0,2)45−𝑘 (0,8)𝑘
+            𝑘
+           (36)𝑘
+b) ∑45
+    𝑘=23           𝑒 −36
+             𝑘!
+
+          𝑘−1
+c) ∑45
+    𝑘=23 (    ) (0,2)45−𝑘 (0,8)𝑘 .
+           22
+
+d) ∑+∞
+    𝑘=23(0,2). (0,8)
+                     𝑘−1
+
+
+              45
+e) ∑45
+    𝑘=23 (       ) (0,2)22 (0,8)𝑘−22
+             𝑘−1
+
+22.    (FGV/2014 – DPE-RJ) Uma amostra com 32 solicitações de assistências jurídicas, a partir dos pedidos
+recebidos pela Defensoria Pública, foi realizada, observando os tempos de apreciação.
+Se as distribuições dos tempos de apreciação são contínuas uniformes, no intervalo de 48 a 72 horas, a
+probabilidade de que apenas duas solicitações, as mais rapidamente apreciadas, levem menos do que 54
+horas é igual a
+
+    32    48 2       48 30
+a) ( ) . (72) . (1 − 72)
+     2
+
+    32        48 2       48 30
+b) ( ) . (1 − 72) . (1 − 72)
+    30
+
+    32      1 2       3 30
+c) (   ) . (4) . (1 − 4)
+     2
+
+    32        3 2   3 30
+d) ( ) . (1 − 4) . (4)
+    30
+
+    32        54 2   54 30
+e) ( ) . (1 − 72) . (72)
+    30
+
+23.   (FGV/2014 – TJ/BA) A escolha dos integrantes de um júri é feita individualmente, mediante a
+aprovação dos nomes pela defesa e a acusação. A probabilidade de que um indivíduo seja rejeitado pela
+acusação é de 50%, sendo um pouco menor no caso da defesa, igual a 40%.
+Com isso, o número médio de pessoas que deverão ter os nomes submetidos à análise das partes para que
+um júri de 12 pessoas seja montado é de:
+
+         Receita Federal (Analista Tributário) Estatística                                             136
+         www.estrategiaconcursos.com.br                                                                154
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+a) 28
+
+b) 30
+
+c) 36
+
+d) 40
+
+e) 48
+
+24.    (FGV/2013 – INEA) Um estudo mostrou que, de 100 produtos pesquisados num determinado mês,
+50 tiveram aumento de preço ao consumidor em relação ao mês anterior, 30 mantiveram seus preços e
+20 apresentaram redução de preço.                              ==219a34==
+
+Se quatro desses produtos forem aleatoriamente escolhidos, com reposição, a probabilidade de que ao
+menos três tenham apresentado aumento de preço no período é igual a:
+
+a) 0,0625
+
+b) 0,125
+
+c) 0,1875
+
+d) 0,25
+
+e) 0,3125
+
+25.     (FGV/2013 – INEA) Se X1, X2, ..., Xn são variáveis aleatórias independentes e identicamente
+distribuídas Bernoulli(p), então a variável X1 + X2 + ... + Xn tem distribuição
+
+a) geométrica (p).
+
+b) geométrica (np).
+
+c) Poisson (np).
+
+d) Bernoulli (np).
+
+e) binomial (n, p).
+
+26.   (FGV/2013 – INEA/RJ) Se X tem distribuição Binomial com parâmetros n = 4 e p = 0,3, então a
+mediana de X é igual a
+
+           Receita Federal (Analista Tributário) Estatística                                    137
+           www.estrategiaconcursos.com.br                                                       154
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+a) 0,5
+
+b) 1,0
+
+c) 1,2
+
+d) 1,5
+
+e) 2,0
+
+         Receita Federal (Analista Tributário) Estatística                  138
+         www.estrategiaconcursos.com.br                                     154
+
+                                       
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1.   LETRA C                                10. LETRA A                 19. LETRA D
+ 2.   LETRA C                                11. LETRA E                 20. LETRA D
+ 3.   LETRA B                                12. LETRA A                 21. LETRA A
+ 4.   CERTO                                  13. LETRA C                 22. LETRA D
+ 5.   LETRA E                                14. LETRA A                 23. LETRA D
+ 6.   LETRA C                                15. LETRA A                 24. LETRA E
+ 7.   LETRA D                                16. LETRA D                 25. LETRA E
+ 8.   LETRA A                                17. LETRA A                 26. LETRA B
+ 9.   LETRA D                                18. LETRA B
+
+      Receita Federal (Analista Tributário) Estatística                                139
+      www.estrategiaconcursos.com.br                                                   154
+
+                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+                                    LISTA DE QUESTÕES – FGV
+
+Distribuição Geométrica
+
+1.     (FGV/2023 – SEFAZ/MT) Marcelo adora quermesses e costuma arriscar uns trocados no jogo de
+bola ao cesto. Em média, ele acerta uma bola em cada 5 tentativas. Amanhã, Marcelo vai tentar
+novamente a sorte, pagando 30 reais para ter 3 chances de acertar uma cesta e ganhar como prêmio uma
+bola de basquete.
+
+A probabilidade de que Marcelo saia vencedor situa-se entre
+
+a) 30% e 35%
+
+b) 35% e 40%
+
+c) 40% e 45%
+
+d) 45% e 50%
+
+e) 50% e 55%
+
+2.     (FGV/2022 – TRT/MA) Suponha que experimentos Bernoulli independentes sejam realizados até
+que o primeiro “sucesso” aconteça.
+
+Se X é o número de tentativas anteriores a esse primeiro “sucesso”, avalie se as afirmativas a seguir sobre
+a distribuição de X estão corretas.
+
+I. X tem distribuição geométrica.
+II. E[X] = (1 – p)/p
+III. Var[X] = (1 – p)/p²
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+            Receita Federal (Analista Tributário) Estatística                                           140
+            www.estrategiaconcursos.com.br                                                              154
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+3.    (FGV/2021 – FunSaúde) Em uma população muito grande, pessoas serão aleatoriamente escolhidas
+até que uma pessoa acometida por uma certa doença seja encontrada. A variável aleatória que contará
+quantas pessoas serão observadas até que tal pessoa seja encontrada, tem distribuição de probabilidades
+
+a) binomial
+
+b) Poisson
+
+c) geométrica
+
+d) hipergeométrica
+
+e) binomial negativa
+
+                                                            ==219a34==
+
+        Receita Federal (Analista Tributário) Estatística                                           141
+        www.estrategiaconcursos.com.br                                                              154
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1. LETRA D                                  2. LETRA E                  3. LETRA C
+
+      Receita Federal (Analista Tributário) Estatística                               142
+      www.estrategiaconcursos.com.br                                                  154
+
+                                    
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+                                   LISTA DE QUESTÕES – FGV
+
+Distribuição Hipergeométrica
+
+1.      (FGV/2022 – TRT/MA) Uma fábrica produz N itens, dos quais K são defeituosos. Se n itens diferentes
+forem sorteados aleatoriamente dessa produção, então o número de itens defeituosos nessa amostra tem
+distribuição
+
+a) binomial.
+b) exponencial.
+c) uniforme discreta.
+d) hipergeométrica.
+e) Poisson.
+
+2.     (FGV/2018 – TJ/AL) De um lote de 12 processos, três serão sorteados para fins de avaliação por
+parte do Conselho Nacional de Justiça (CNJ). Em cinco dos processos originais houve condenação do réu,
+e nos demais, absolvição.
+
+Assim, a probabilidade de que a maior parte dos processos a serem sorteados seja de absolvições é igual
+a:
+
+     9
+a) 33
+     7
+b)
+     22
+     14
+c)
+     22
+     5
+d) 33
+     15
+e) 22
+
+           Receita Federal (Analista Tributário) Estatística                                           143
+           www.estrategiaconcursos.com.br                                                              154
+
+                                         
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1. LETRA D                                  2. LETRA C
+
+                                                          ==219a34==
+
+      Receita Federal (Analista Tributário) Estatística                  144
+      www.estrategiaconcursos.com.br                                     154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                    LISTA DE QUESTÕES – FGV
+
+Distribuição de Poisson
+
+1.    (FGV/2023 – TCE/ES) O número de blocos de concreto vendidos por hora em uma loja de materiais
+de construção segue uma distribuição Poisson com taxa v > 0. Supondo que as vendas a cada hora são
+independentes, a probabilidade de não observarmos nenhuma venda em cinco horas é:
+
+a) 𝑒 −5𝑣
+
+b) 1 − 𝑒 −5𝑣
+
+c) 1 − 𝑒 −5/𝑣
+
+d) 𝑒 −5/𝑣
+
+e) 1 − 𝑒 −√5𝑣
+
+2.    (FGV/2023 – TCE/ES) O número de carros que passam por um posto de gasolina em meia hora pode
+ser modelado como uma variável aleatória X com distribuição Poisson de taxa w = 2.
+
+A probabilidade de X exceder a média é:
+
+a) 1 − 5𝑒 −2
+
+b) 1 + 5𝑒 −2
+
+c) 5𝑒 −2
+
+d) 1 − 5𝑒 −0,5
+
+e) 5𝑒 −0,5
+
+3.    (FGV/2023 – TCE/ES) O A sobredispersão, isto é, a variância maior que a média, é uma característica
+de dados de contagem que não se adequam bem à distribuição de Poisson.
+
+Suponha que os números de gols marcados por um jogador de futebol em dez temporadas tenham sido:
+3, 2, 8, 3, 12, 11, 17, 11, 15, 14.
+
+A variância desse conjunto de dados é 19,34. Sobre a razão R entre a variância observada e a variância
+esperada sob o modelo Poisson, é correto afirmar que
+
+            Receita Federal (Analista Tributário) Estatística                                         145
+            www.estrategiaconcursos.com.br                                                            154
+
+                                          
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+a) R > 2, indicando sobredispersão
+
+b) R > 1/2, sem indicação de sobredispersão
+
+c) R < 1/2, indicando sobredispersão
+
+d) R > 2, sem indicação de sobredispersão
+
+e) R < 1/2, sem indicação de sobredispersão
+
+4.        (FGV/2023 – TJ/SE - Adaptada) Quanto à transformação de variáveis aleatórias que seguem uma
+distribuição de probabilidade determinada, julgue o item a seguir.
+A soma de n variáveis aleatórias independentes e identicamente distribuídas Poisson com parâmetro λ tem
+distribuição Poisson com parâmetro n*λ.
+
+5.        (FGV/2022 – MPE/SC) A procura diária de conserto de celulares numa assistência técnica é uma
+                                                                              𝒆−𝟑 𝟑𝒙
+variável aleatória cuja função de probabilidade é dada por 𝒇(𝒙) =                      , para valores de 𝒙 = 𝟎, 𝟏, 𝟐, …
+                                                                                𝒙!
+
+A probabilidade de, em determinado dia, a procura de conserto de celulares ser inferior à variância da
+distribuição é:
+
+a) 𝑒 −3
+
+b) 3𝑒 −3
+
+c) 5,5𝑒 −3
+
+d) 8,5𝑒 −3
+
+e) 9𝑒 −3
+
+6.        (FGV/2022 – EPE) Assinale a opção que apresente características da distribuição de Poisson.
+
+a) Ter função de probabilidade simétrica e ser adequada como modelo para eventos abundantes.
+
+b) Ter função de probabilidade simétrica e ser adequada como modelo para eventos raros.
+
+c) Ter média igual à variância e ser adequada como modelo para eventos raros.
+
+d) Ter média maior do que a variância e ser adequada como modelo para eventos raros.
+
+e) Ter média menor do que a variância e ser adequada como modelo para eventos abundantes.
+
+
+           Receita Federal (Analista Tributário) Estatística                                                              146
+           www.estrategiaconcursos.com.br                                                                                 154
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+7.     (FGV/2022 – TRT/MA) Um exemplo de variável aleatória cuja distribuição de probabilidades é tal
+que a média é sempre igual a variância é a
+
+a) binomial.
+b) exponencial.
+c) uniforme discreta.
+d) hipergeométrica.
+e) Poisson.
+
+8.    (FGV/2022 – TRT/MA) Suponha que um processo Poisson esteja ocorrendo no tempo a uma taxa
+média de 0,5/min.
+
+Usando 𝐞−𝟎,𝟐𝟓 = 0,7788, a probabilidade de que ocorra um acontecimento num intervalo de 30s é,
+aproximadamente, igual a
+
+a) 0,104.
+b) 0,195.
+c) 0,256.
+d) 0,348.
+e) 0,360.
+
+9.   (FGV/2021 – Auditor Fiscal Pref. Paulínia) Em 30 dias, um auditor autua a uma taxa média de 18
+empreendimentos em decorrência de recolhimento de tributo a menor.
+
+O valor esperado do número de dias em que esse auditor não autua nenhum empreendimento é de
+
+a) 18/30 e1,6
+
+b) 30/18 e0,6
+
+c) 30/18 e1,6
+
+d) 18/30 e-0,6
+
+e) 30 e-0,6
+
+10.    (FGV/2017 – MPE/BA) Suponha que o número de denúncias oferecidas por mês (30 dias) pelo
+Ministério Público seja uma variável aleatória discreta com distribuição de Poisson, com parâmetro λ = 12.
+
+         Receita Federal (Analista Tributário) Estatística                                             147
+         www.estrategiaconcursos.com.br                                                                154
+
+                                       
+
+
+---
+
+     Equipe Exatas Estratégia Concursos
+     Aula 08
+
+Se até o 10º dia de certo mês já tenham sido oferecidas três denúncias, a probabilidade de que até o final
+do mês (+20 dias) se tenham acumulado exatamente seis denúncias é igual a:
+
+     (12)3
+a)           . 𝑒 −12 ;
+      3!
+
+     (4)3
+b) 3! . 𝑒 −4;
+
+     (6)3
+c) 3! . 𝑒 −6 ;
+
+     (8)3
+d) 3! . 𝑒 −8;
+
+     (20)3
+e)           . 𝑒 −20 .
+      3!
+
+11.   (FGV/2015 – TJ-RO) O número de recursos em um processo é uma variável aleatória de Poisson
+com parâmetro λ = 5. Então a probabilidade de que um processo tenha menos do que 2 recursos é:
+
+a) 31. 𝑒 −5 ;
+
+b) 6. 𝑒 −5;
+
+c) 5. 𝑒 −5;
+
+d) 1 − 6. 𝑒 −5;
+
+e) 1 − 31. 𝑒 −5 .
+
+12.    (FGV/2015 – IBGE) Suponha que o número de chegada de pessoas a uma fila é uma variável
+aleatória, cuja média, proporcional ao tempo, é de seis pessoas por hora. As chegadas são independentes
+e a probabilidade de que duas pessoas cheguem à fila num mesmo segundo é nula. Logo, uma aproximação
+para a probabilidade de que duas pessoas entrem na fila no período de meia hora é:
+
+      1 2
+a) (3) ;
+
+b) 6. 𝑒 −4,5;
+
+      1 2       2 4
+c) (3) . (3) ;
+
+d) 3. 𝑒 −6;
+
+e) 4,5. 𝑒 −3 .
+
+
+              Receita Federal (Analista Tributário) Estatística                                        148
+              www.estrategiaconcursos.com.br                                                           154
+
+                                            
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 08
+
+13.    (FGV/2015 – CODEBA) Uma empresa deseja estabelecer um procedimento de manutenção
+centrada em confiabilidade. Sabe-se que uma máquina dessa empresa registra 2 falhas a cada 5000 horas
+de operação. Desse modo, a probabilidade de falha dessa máquina em 10000 h de operação vale
+
+   1
+a) 4;
+
+   3
+b) 4;
+
+c) 𝑒 −4 ;
+
+d) 1 − 𝑒 −4;
+
+e) 1 − 𝑒 −2 .
+                                                                  ==219a34==
+
+14.   (FGV/2014 – TJ/BA) Suponha que a quantidade total de erros cometidos pelo judiciário segue o
+padrão de um Processo de Poisson com parâmetro λ = 4, relativo ao período de um ano.
+
+Então a probabilidade de que sejam cometidos exatamente três erros, nos próximos 18 meses, é igual a:
+
+   43
+a) 3! . 𝑒 −4;
+
+                       3⁄
+       43     −4         2
+b) ( 3! . 𝑒        )         ;
+
+   34
+c) 4! . 𝑒 −6;
+
+   63
+d) 3! . 𝑒 −6;
+
+                   3⁄
+       63     −6     2
+e) ( 3! . 𝑒        )     .
+
+15.   (FGV/2014 – SEDUC/AM) Suponha que pessoas procurem certo caixa eletrônico de acordo com um
+processo de Poisson com uma taxa média de uma pessoa a cada dois minutos.
+
+A probabilidade de que, num intervalo de quatro minutos, menos de duas pessoas procurem esse caixa é,
+aproximadamente, igual a (use 𝒆−𝟐 ≅ 𝟎, 𝟏𝟑𝟓):
+
+a) 0,270;
+
+b) 0,405
+
+c) 0,473
+
+
+              Receita Federal (Analista Tributário) Estatística                                    149
+              www.estrategiaconcursos.com.br                                                       154
+
+                                            
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+d) 0,525
+
+e) 0,567
+
+16.   (FGV/2013 – INEA) Suponha que pessoas procurem certo caixa eletrônico de acordo com um
+processo de Poisson com uma taxa média de uma pessoa a cada dois minutos.
+
+A probabilidade de que, num intervalo de quatro minutos, menos de duas pessoas procurem esse caixa é
+igual a
+
+a) exp{-2}
+
+b) 2.exp{-1}
+
+c) 3.exp{-2}
+
+d) 5.exp{-1}
+
+e) 5.exp{-2}
+
+17.    (FGV/2013 – SUDENE/PE) Suponha que o número de navios que ancoram num certo porto por dia
+tenha distribuição Poisson com uma média de 0,6 navio por dia.
+
+A probabilidade de que em um período de cinco dias ancorem no máximo dois navios é aproximadamente
+igual a (use 𝒆−𝟑 ≅ 𝟎, 𝟎𝟓):
+
+a) 0,125.
+
+b) 0,225.
+
+c) 0,375.
+
+d) 0,425.
+
+e) 0,575.
+
+           Receita Federal (Analista Tributário) Estatística                                     150
+           www.estrategiaconcursos.com.br                                                        154
+
+                                         
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1.   LETRA A                                7. LETRA E                  13. LETRA D
+ 2.   LETRA A                                8. LETRA B                  14. LETRA D
+ 3.   LETRA A                                9. LETRA E                  15. LETRA B
+ 4.   CERTO                                  10. LETRA D                 16. LETRA C
+ 5.   LETRA D                                11. LETRA B                 17. LETRA D
+ 6.   LETRA C                                12. LETRA E
+
+      Receita Federal (Analista Tributário) Estatística                                151
+      www.estrategiaconcursos.com.br                                                   154
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 08
+
+                                LISTA DE QUESTÕES – FGV
+
+Distribuição Binomial Negativa
+
+1.     (FGV/2022 – EPE) Sabe-se que sempre que um consumidor vai a um supermercado, a probabilidade
+de ele comprar um determinado item é de 20%. Suponha que se deseja saber a probabilidade desse
+consumidor ter que ir ao supermercado 10 vezes para que ele compre o referido item metade das vezes.
+
+A distribuição de probabilidade mais apropriada para modelar esse problema é a
+
+a) binomial
+
+b) geométrica
+                                                            ==219a34==
+
+c) binomial negativa
+
+d) Poisson
+
+e) hipergeométrica
+
+        Receita Federal (Analista Tributário) Estatística                                        152
+        www.estrategiaconcursos.com.br                                                           154
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 08
+
+                                                GABARITO
+ 1. LETRA C
+
+      Receita Federal (Analista Tributário) Estatística                  153
+      www.estrategiaconcursos.com.br                                     154
+
+                                    
+
+
+---
+
+---

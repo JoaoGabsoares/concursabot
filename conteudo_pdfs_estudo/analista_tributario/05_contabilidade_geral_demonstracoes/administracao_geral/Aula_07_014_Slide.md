@@ -1,0 +1,163 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 07_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: (FCC/PGE-AM/2022)
+---
+
+# (FCC/PGE-AM/2022)
+
+DRE
+       FCC
+
+                                     Prof. Gilmar Possati
+
+---
+
+(FCC/PGE-AM/2022)
+Na tabela abaixo, são apresentadas informações retiradas da Demonstração do resultado do exercício
+(elaborada conforme as normas brasileiras de contabilidade) da empresa ShowDeBola, uma fabricante
+de bolas esportivas. Os valores (em milhares de Reais) referem-se ao encerramento dos anos fiscais 1
+e 2, findos em 31 de dezembro.
+
+                                                                        Ano 1       Ano 2
+              Despesas administrativas e de vendas                    R$ 1.033     R$ 1.103
+                 Despesa com imposto de renda                         R$ 26         R$ 47
+                          Lucro líquido                                  ?          R$ 484
+             Despesas com publicidade e propaganda                    R$ 488        R$ 595
+                           Lucro bruto                                   ?             ?
+             Despesa com pesquisa e desenvolvimento                   R$ 196        R$ 229
+                   Outras receitas/(despesas)*                        R$ 18            ?
+                  Custo da mercadoria vendida                        R$ 12.091     R$ 13.901
+                 Lucro antes do imposto de renda                         ?             ?
+                        Receita de vendas                            R$ 13.978     R$ 16.351
+
+                                              
+
+
+---
+
+Indicam os valores referentes ao “lucro líquido” para o ano 1, e a “outras receitas/(despesas)” para o
+ano 2, respectivamente,
+a) R$ 188 e R$ 2.450
+b) R$ 170 e R$ 595
+c) R$ 1.887 e R$ 484
+d) R$ 162 e R$ 8
+e) R$ 488 e R$ 531
+
+                                        
+
+
+---
+
+(FCC/TRT4/2022)
+Durante a primeira quinzena do mês de setembro do ano 20X9, as seguintes transações aconteceram
+no supermercado ABC:
+I. 02/09: Vendas feitas no caixa do supermercado no valor de R$ 15.000,00. Os clientes pagaram 40%
+desse valor a vista, e o restante será recebido apenas em 01/10.
+II. 04/09: Perdas nos estoques devido a um incêndio no almoxarifado da empresa. Estima-se que o
+valor da perda é de R$ 2.500,00.
+III. 08/09: Venda de veículo de uso da empresa totalizando R$ 20.000,00 (a vista). O valor contábil do
+imobilizado líquido de depreciação e perdas por impairment acumuladas era R$ 8.000,00.
+IV. 10/09: Estima-se que a ABC não irá receber 1% do saldo de contas a receber referentes às vendas a
+prazo de 02/09, visto que um dos clientes declarou falência.
+V. 15/09: A empresa recebeu uma intimação de processo trabalhista. Os advogados da empresa
+estimam que a obrigação tem risco possível, com uma estimativa de desembolso de R$ 30.000,00.
+
+                                        
+
+
+---
+
+As transações que afetam o resultado do exercício da empresa são as que constam nos itens
+a) I, II, III, IV e V.
+b) I, II, III e IV, apenas.
+c) II, III e V, apenas.
+d) I, IV e V, apenas.
+e) I e IV, apenas.
+
+                                      
+
+
+---
+
+(FCC/TRT4/2022)
+Uma empresa adquiriu produtos para revenda e pagou os seguintes valores:
+− Valor total pago ao fornecedor dos produtos: R$ 460.000,00
+− Valor pago por um seguro para transportar os produtos até a empresa: R$ 12.000,00
+− No valor total pago ao fornecedor dos produtos adquiridos estavam incluídos os seguintes tributos:
+ − Tributos recuperáveis: R$ 64.000,00
+ − Tributos não recuperáveis: R$ 36.000,00
+Todos os produtos adquiridos foram vendidos por R$ 1.000.000,00 à vista, tendo sido concedido um
+desconto de 10% no momento da venda. Sobre o valor líquido da venda houve a incidência de
+impostos sobre vendas no valor de R$ 106.000,00 e a empresa pagou R$ 24.000,00 de comissão para
+seus vendedores.
+
+                                         
+
+
+---
+
+O valor do lucro bruto apurado pela empresa, relacionado apenas com estas transações de compra e
+venda foi, em reais,
+a) 492.000,00
+b) 322.000,00
+c) 386.000,00
+d) 362.000,00
+e) 358.000,00
+
+                                     
+
+
+---
+
+(FCC/ALAP/2020)
+A Cia. Negocia Tudo adquiriu, em 01/10/2018, produtos para serem revendidos. Os produtos foram
+adquiridos à vista por R$ 210.000,00, sendo que neste valor estavam incluídos tributos recuperáveis
+no valor de R$ 33.000,00 e tributos não recuperáveis no valor de R$ 22.000,00. Adicionalmente, a Cia.
+contratou e pagou frete e seguro, exclusivamente para transporte dos produtos adquiridos até seu
+depósito, no valor total de R$ 10.000,00, sendo que neste valor estavam incluídos tributos
+recuperáveis no valor de R$ 1.000,00.
+Em 25/10/2018, a Cia. revendeu todos estes produtos por R$ 400.000,00, à vista, sendo que o valor
+dos tributos incidentes sobre a venda foi R$ 70.000,00. O valor do lucro bruto apurado pela Cia.
+Negocia Tudo no mês de outubro de 2018 foi, em reais,
+a) 144.000,00.
+b) 166.000,00.
+c) 132.000,00.
+d) 153.000,00.
+e) 190.000,00.
+                                       
+
+
+---
+
+(FCC/ISS-Manaus/2019)
+No dia 31/10/2018 a empresa Tecnologia de Revenda S.A. adquiriu mercadorias para revenda, tendo pago os
+seguintes valores:
+− Fornecedor: R$109.500,00
+− Frete para transporte das mercadorias até a empresa: R$ 2.500,00
+No valor pago ao fornecedor estavam incluídos tributos recuperáveis no valor de R$ 11.500,00 e tributos não
+recuperáveis no valor de R$ 8.000,00.
+Todas estas mercadorias foram negociadas em 18/12/2018 pelo valor de R$ 225.000,00, mas foram vendidas com
+um desconto comercial de 10% em função da quantidade. A empresa pagou R$ 2.250,00 de comissão para os
+vendedores e R$ 3.500,00 de frete para entrega das mercadorias vendidas. O lucro bruto apurado pela empresa
+Tecnologia de Revenda S.A., especificamente em relação à compra e venda das mercadorias, foi, em reais,
+a) 124.500,00.
+b) 102.000,00.
+c) 99.750,00.
+d) 96.250,00.
+e) 90.500,00.
+                                            
+
+
+---

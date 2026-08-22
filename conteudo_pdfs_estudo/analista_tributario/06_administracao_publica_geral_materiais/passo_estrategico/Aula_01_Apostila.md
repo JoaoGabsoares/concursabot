@@ -1,0 +1,2624 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        28 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 00
+
+     O PROCESSO ADMINISTRATIVO. FUNÇÕES DE
+    ADMINISTRAÇÃO. TEORIA DA ADMINISTRAÇÃO.
+
+Apresentação
+O que é o Passo Estratégico? 
+Considerações Iniciais 
+Análise Estatística 
+  Análise geral 
+  O que é mais cobrado dentro do assunto? 
+Roteiro de revisão e pontos do assunto que merecem destaque 
+Aposta estratégica 
+Questões estratégicas 
+Questionário de revisão e aperfeiçoamento 
+  Perguntas 
+  Perguntas com respostas 
+Lista de Questões Estratégicas Sem Comentários 
+  Gabarito 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+             Inserir aqui o nome do Curso
+             www.estrategiaconcursos.com.br
+                                       
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                         APRESENTAÇÃO
+Olá!
+Sou o professor Abraão Pereira.
+Ocupo o cargo de Auditor Fiscal da Receita Estadual de São Paulo (ICMS-SP) e sou professor do
+Estratégia Concursos. Fui aprovado também para Analista Tributário da Receita Federal e
+Técnico Judiciário do Tribunal de Justiça do Estado da Bahia.
+Minha experiência vem dos meus estudos para concurso e, principalmente, do meu ofício como
+Auditor Fiscal da Receita Estadual. Trabalhei por alguns anos na Consultoria Tributária da
+SEFAZ-SP, onde pude estudar a fundo a legislação dos tributos e outras temáticas relacionadas a
+empresas, e, atualmente, trabalho com a fiscalização direta de tributos.
+Já no Estratégia, trabalho como professor do Passo Estratégico, ministrando matérias
+relacionadas à Legislação Tributária e Administração, e no projeto das Trilhas Estratégicas.
+Vamos falar um pouco sobre estratégia de estudo:
+Um edital para um concurso de grande visibilidade, como é o caso da Receita Federal, costuma
+ser imenso, então qualquer assunto pode ser cobrado.
+Só que isso também tem uma vantagem! Analisando pelo lado inverso, se o conteúdo é extenso,
+então nem tudo será cobrado.
+Assim, além de estudar de forma a adquirir a compreensão do assunto, para conseguir realizar
+uma boa prova, é indispensável que o aluno:
+    1. Conheça a fundo a sua banca organizadora;
+    2. Domine os pontos da matéria que foram mais cobrados nas últimas provas.
+Podemos dizer que esse material nasceu da necessidade o de cumprimento, com excelência,
+desses dois quesitos trazidos.
+Com isso, toda metodologia do nosso curso foi montada para que o aluno compreenda da
+melhor maneira possível a matéria e decore os pontos mais cobrados em provas similares,
+através, sempre, da visão de sua banca organizadora.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                      O QUE É O PASSO ESTRATÉGICO?
+O Passo Estratégico é um material escrito e enxuto que possui dois objetivos principais:
+a) orientar revisões eficientes;
+b) destacar os pontos mais importantes e prováveis de serem cobrados em prova.
+Assim, o Passo Estratégico pode ser utilizado tanto para turbinar as revisões dos alunos mais
+adiantados nas matérias, quanto para maximizar o resultado na reta final de estudos por parte
+dos alunos que não conseguirão estudar todo o conteúdo do curso regular.
+Em ambas as formas de utilização, como regra, o aluno precisa utilizar o Passo Estratégico em
+conjunto com um curso regular completo.
+Isso porque nossa didática é direcionada ao aluno que já possui uma base do conteúdo.
+Assim, se você vai utilizar o Passo Estratégico:
+a) como método de revisão, você precisará de seu curso completo para realizar as leituras
+indicadas no próprio Passo Estratégico, em complemento ao conteúdo entregue diretamente
+em nossos relatórios;
+b) como material de reta final, você precisará de seu curso completo para buscar maiores
+esclarecimentos sobre alguns pontos do conteúdo que, em nosso relatório, foram
+eventualmente expostos utilizando uma didática mais avançada que a sua capacidade de
+compreensão, em razão do seu nível de conhecimento do assunto.
+
+                          Seu cantinho de estudos famoso!
+                        Poste uma foto do seu cantinho de estudos nos stories do
+                                        Instagram e nos marque:
+
+                                              @passoestrategico
+                        Vamos repostar sua foto no nosso perfil para que ele fique
+                                famoso entre milhares de concurseiros!
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                  CONSIDERAÇÕES INICIAIS
+Iniciaremos o estudo da Administração Geral. Nosso curso é composto das seguintes aulas:
+
+     AULA                                                          CONTEÚDO
+
+                 O processo administrativo. Funções de administração: planejamento, organização, direção e controle. Papéis e
+     Aula 0
+                                 habilidades do administrador. Teoria da administração e das organizações.
+
+                  Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas. Planejamento tático.
+     Aula 1
+                                Planejamento operacional. Administração por objetivos. Balanced scorecard.
+
+     Aula 2                                                        Simulado 01
+
+                       Organização: princípios de organização; estrutura organizacional; departamentalização; centralização e
+     Aula 3
+                                                    descentralização. Função direção. Liderança
+
+     Aula 4                                                  Motivação. Comunicação.
+
+     Aula 5                                                        Simulado 02
+
+                           Controle: tipos de controle; sistemas de controle. Indicadores de Desempenho. Tipo. Variáveis.
+     Aula 6
+                                               Comportamento organizacional: cultura organizacional.
+
+                 Processo decisório: tipos de decisões; decisão racional; heurísticas; ferramentas de apoio à decisão. Gestão de
+     Aula 7          processos. Conceitos da abordagem por processos. Técnicas de mapeamento, análise e melhoria de
+                            processos. Noções de estatística aplicada ao controle e à melhoria de processos. BPM.
+
+     Aula 8                                                        Simulado 03
+
+                      Gestão de projetos: modelos, etapas, elaboração, técnicas de análise e avaliação de projetos. Gestão da
+     Aula 9            qualidade e modelo de excelência gerencial: principais teóricos e suas contribuições para a gestão da
+                                                qualidade; ferramentas de gestão da qualidade.
+
+                 Equipes de trabalho. Gestão de pessoas: evolução; conceitos básicos; abordagem estratégica; indicadores de
+    Aula 10
+                                                            gestão de pessoas.
+
+    Aula 11                                                        Simulado 04
+
+                      Gestão do desempenho: visão geral e conceitos básicos; relação com os demais processos de gestão de
+    Aula 12
+                                                pessoas; métodos. Gestão por competências.
+
+                      Recrutamento e seleção de pessoas: visão geral e conceitos básicos; relação com os demais processos de
+                       gestão de pessoas; recrutamento interno e externo; técnicas de recrutamento e seleção. Treinamento e
+    Aula 13
+                      desenvolvimento: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas;
+                         métodos; avaliação de programas de treinamento e desenvolvimento. Análise e descrição de cargos
+
+    Aula 14                                                        Simulado 05
+
+    Aula 15                                                       Simulado Final
+
+Como é de praxe na didática do nosso curso, tentaremos trazer o conteúdo de forma bem
+objetiva e direta, elaborando esquemas, quando possível, de forma a facilitar a revisão e
+memorização.
+Teremos questões de concursos anteriores, assim como nosso questionário de revisão.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Na aula de hoje traremos os seguintes tópicos:
+    •   Processo administrativo.
+    •   Funções de administração: planejamento, organização, direção e controle.
+    •   Papéis e habilidades do administrador.
+    •   Teorias da administração.
+É muito importante que você domine tanto os conceitos, quanto a sua aplicabilidade.
+Vamos começar!
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                     ANÁLISE ESTATÍSTICA
+Análise geral
+
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos no
+nosso curso – quanto maior o percentual de cobrança de um dado assunto, maior sua
+importância:
+
+
+                                                                                           Grau de incidência em
+                                     Assunto
+                                                                                              provas da FGV
+
+          Planejamento (Estratégico, Tático e Operacional)                                        18,9%
+
+                              Gestão de Projetos                                                  12,6%
+
+             Teoria da administração e das organizações.                                          10,1%
+
+ Organização. Estrutura organizacional; departamentalização.                                       7,0%
+
+                                    Liderança                                                      6,1%
+
+                             Gestão de Processos                                                   5,1%
+
+                          Gestão do Desempenho                                                     4,7%
+
+                              Gestão de Pessoas                                                    4,4%
+
+                              Processo Decisório                                                   4,4%
+
+     Comportamento organizacional: cultura organizacional;                                         3,2%
+
+                                 Recrutamento                                                      3,2%
+
+                      Treinamento e Desenvolvimento                                                3,1%
+
+      O processo administrativo. Funções de administração.                                         2,8%
+
+                       Análise e descrição de cargos                                               2,6%
+
+                             Equipes de Trabalho                                                   2,6%
+
+                         Gestão por Competências                                                   2,2%
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                       Indicadores de desempenho                                           2,2%
+
+                                     Controle                                              2,1%
+
+                  Papéis e habilidades do administrador                                    1,5%
+
+                               Gestão de Riscos                                            0,9%
+
+                  Administração de compras e materiais                                     N/A
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+O que é mais cobrado dentro do assunto?
+
+Assim, considerando os tópicos que compõem essa aula possuímos a seguinte distribuição
+percentual, em ordem decrescente de cobrança.
+
+                                                                                           Grau de incidência em
+                                      Tópico
+                                                                                              provas da FGV
+
+                      Administrador (Papeis e Habilidades)                                        32,5%
+
+                      Processo e Funções Administrativas                                          27,5%
+
+                              Teoria dos Sistemas                                                 ¨12,5%
+
+                              Teoria Estruturalista                                               12,5%
+
+      Abordagem Clássica (Administração Científica e Teoria
+                                                                                                   7,5%
+                           Clássica)
+
+                             Teoria da Burocracia                                                  2,5%
+
+                            Teoria Comportamental                                                  2,5%
+
+               Conceito de Administração e Organização                                             2,5%
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, seguir os
+passos a seguir:
+
+
+Conceito de Administração e Organização
+De início perceba que administrar é uma atividade natural do cotidiano, presente na gestão do
+tempo, dinheiro afazeres, etc.
+No contexto organizacional, devemos lembrar dos conceitos trazidos por 3 grandes autores:
+    •   Chiavenato: Administração envolve a hierarquia (subordinação) e o serviço, utilizando
+        recursos organizacionais (humanos, materiais, financeiros, etc.) para atingir objetivos. O
+        administrador coordena o trabalho de outras pessoas, fazendo as coisas acontecerem.
+    •   Maximiano: Define administração como um processo dinâmico de decisões sobre o uso
+        de recursos para alcançar objetivos.
+    •   Mintzberg: Triângulo entre arte (criatividade), habilidade prática (experiência) e ciência
+        (análise sistemática).
+Deve-se perceber que a maioria dos conceitos possuem diversos pontos em comum e
+convergem para a ideia de que:
+
+
+Administrar é usar recursos de forma planejada, organizada, dirigida e controlada, visando a
+alcançar objetivos que não seriam possíveis individualmente.
+
+
+Temos, portanto, as seguintes palavras chaves para serem memorizadas e observadas nas
+questões que envolvam o conceito de Administração:
+
+        PLANEJAMENTO                              ORGANIZAÇÃO                              LIDERNAÇA
+
+            RECURSOS                                CONTROLE                               OBJETIVOS
+
+Já organização é uma entidade estruturada onde pessoas e recursos trabalham juntos para
+alcançar objetivos comuns, sendo fortemente ligada à administração, que conduz essa estrutura.
+É necessário memorizar que existem dois tipos principais de organização:
+    •   Formal: Baseada em normas e lógica, estruturada para atingir objetivos.
+    •   Informal: Baseada em relações sociais e espontaneidade, sem regras formais.
+Além disso, é importante lembrar que as organizações são divididas em três níveis:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    •   Estratégico: Nível mais alto, com foco no longo prazo e decisões gerais (diretores).
+    •   Tático: Nível gerencial, que implementa as decisões estratégicas (gerentes).
+    •   Operacional: Foco no curto prazo e execução de tarefas (funcionários).
+Vamos montar uma tabela com as principais informações para facilitar no seu processo de
+revisão:
+
+             ASPECTO                            ADMINISTRAÇÃO                              ORGANIZAÇÃO
+
+                                             Processo de orientar,                 Entidade estruturada onde
+                                          planejar, liderar e controlar             pessoas e recursos estão
+            CONCEITO
+                                            pessoas e recursos para                alocados para trabalhar em
+                                               atingir objetivos.                          conjunto.
+
+                                             Faz com que as coisas                 Local e estrutura em que os
+                                            aconteçam por meio das                     recursos e pessoas
+            OBJETIVO
+                                            pessoas; coordenação e                      desempenham as
+                                                   direção.                                 atividades.
+
+                                          Orientação, coordenação e                A estruturação de pessoas e
+                FOCO                        controle para alcançar                   recursos para atingir os
+                                          objetivos organizacionais.                        objetivos.
+
+                                                                                    Pode ser formal (normas e
+                                                Gerencia os níveis
+                                                                                    regulamentos) ou informal
+          NÍVEIS/TIPOS                         estratégico, tático e
+                                                                                         (relações sociais
+                                                   operacional.
+                                                                                           espontâneas).
+
+Vamos para o próximo tópico do nosso roteiro de revisão!
+
+
+Processo e Funções Administrativas
+Lembre-se que a tarefa básica da administração, segundo Chiavenato, é transformar os objetivos
+globais da organização em ação por meio do processo administrativo, composto por quatro
+funções principais: Planejamento, Organização, Direção e Controle.
+É fundamental que saiba diferenciar essas quatro funções.
+    •   Planejamento: Estabelece os objetivos e as estratégias para alcançá-los. Define "onde se
+        quer chegar" e "como chegar lá", identificando oportunidades e ameaças. Tem foco em
+        ideias.
+    •   Organização: Divide o trabalho, atribui responsabilidades e aloca recursos. Define as
+        estruturas necessárias para implementar o planejamento. Foco em "coisas" e recursos.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    •   Direção: Conduz o trabalho, usa a liderança e a motivação para orientar as pessoas na
+        execução das tarefas. Foco em pessoas.
+    •   Controle: Monitora as atividades, faz ajustes e avalia o desempenho organizacional para
+        garantir que os objetivos sejam alcançados. Foco em resultados.
+Além disso, é importante ainda memorizar que o processo administrativo é cíclico, interativo e
+dinâmico.
+A partir disso, temos o que chamamos de ciclo administrativo:
+
+
+                                                     PLANEJAMENTO
+
+                                    CONTROLE                             ORGANIZAÇÃO
+
+                                                        DIREÇÃO
+
+Papéis e Habilidades do Administrador
+É importante entender que Henry Mintzberg identificou 10 papéis específicos do administrador,
+organizados em três categorias: interpessoais, informacionais e decisórios. Para facilitar o
+processo de revisão, vamos esquematizar em formato de tabela:
+
+           CATEGORIA                                    PAPEL                              DESCRIÇÃO
+
+                                                                                   Representa a organização
+                                            Símbolo/Representação                    em eventos e assina
+                                                                                   documentos importantes.
+
+                                                                                  Orienta, motiva e direciona
+           Interpessoais                             Liderança
+                                                                                       os subordinados.
+
+                                                                                  Mantém contatos internos e
+                                              Elemento de Ligação                   externos para troca de
+                                                                                         informações.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                                                                        Coleta e analisa
+                                                       Monitor                       informações sobre o
+                                                                                  ambiente interno e externo.
+
+                                                                                   Compartilha informações
+          Informacionais                           Disseminador                     internamente, do nível
+                                                                                  estratégico ao operacional.
+
+                                                                                     Transmite informações
+                                                                                    externas da organização,
+                                                      Porta-voz
+                                                                                     como em coletivas de
+                                                                                           imprensa.
+
+                                                                                    Identifica novas ideias e
+                                                                                   oportunidades, assumindo
+                                                  Empreendedor
+                                                                                     riscos para melhorar a
+                                                                                          organização.
+
+                                                                                  Resolve conflitos internos e
+                                                                                    externos para manter o
+                                           Solucionador de Conflitos
+                                                                                      bom andamento da
+                                                                                         organização.
+             Decisórios
+                                                                                    Administra e distribui os
+                                             Alocador de Recursos                 recursos de acordo com as
+                                                                                  prioridades organizacionais.
+
+                                                                                   Representa a organização
+                                                                                     em negociações com
+                                                    Negociador
+                                                                                     sindicatos, clientes e
+                                                                                           parceiros.
+
+Observe que os papéis gerenciais de Mintzberg destacam as diferentes responsabilidades do
+administrador em interações interpessoais, processamento de informações e tomada de
+decisões para garantir o bom funcionamento da organização.
+Já a habilidade do administrador é a capacidade de transformar conhecimento em ação.
+Lembre-se das três habilidades fundamentais para os administradores:
+    •   Habilidades Técnicas: São relacionadas ao "fazer", ou seja, o uso de conhecimentos
+        especializados para executar tarefas. Essas habilidades são mais utilizadas no nível
+        operacional (funcionários).
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    •   Habilidades Humanas: Ligadas ao relacionamento interpessoal, comunicação e liderança.
+        São fundamentais para motivar e coordenar pessoas. Importantes em todos os níveis
+        organizacionais, mas com destaque no nível tático (gerentes).
+    •   Habilidades Conceituais: Relacionadas à visão sistêmica da organização, à capacidade de
+        lidar com ideias e abstrações, e à análise estratégica. São indispensáveis no nível
+        estratégico (diretores).
+Embora exista tal divisão, é importante você saber que todos os níveis organizacionais precisam
+das três habilidades, mas a predominância de uma habilidade sobre as outras varia conforme o
+nível.
+
+
+Administração Científica
+Vamos iniciar agora nosso processo de revisão das Teorias da Administração, começando pela
+Administração Científica.
+É importante lembrar que essa teoria foi desenvolvida por Frederick Taylor, e focava no aumento
+da eficiência e produtividade dos operários, eliminando desperdícios e padronizando processos.
+Principais Fundamentos da Administração Científica:
+    •   Análise do trabalho e estudo dos tempos e movimentos: Eliminar movimentos inúteis e
+        buscar a melhor maneira de realizar cada tarefa.
+    •   Estudo da fadiga humana: Racionalizar movimentos para reduzir a fadiga e aumentar a
+        produtividade.
+    •   Divisão do trabalho e especialização: Cada trabalhador se especializa em uma tarefa
+        específica para aumentar a eficiência.
+    •   Desenho de cargos e tarefas: Definir claramente as funções e responsabilidades de cada
+        operário.
+    •   Incentivos salariais: Remuneração baseada na produtividade, motivando os trabalhadores
+        a produzir mais.
+    •   Condições ambientais: Melhorar o ambiente de trabalho (iluminação, conforto) para
+        aumentar a eficiência.
+    •   Padronização de métodos e máquinas: Uniformidade no trabalho para eliminar
+        desperdícios e melhorar a eficiência.
+    •   Supervisão funcional: Vários supervisores especializados, cada um em sua área, orientando
+        os operários.
+Os princípios administrativos de Taylor incluem Planejamento, Preparo, Controle e Execução
+(PPCE).
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Teoria Clássica
+A Teoria Clássica da Administração, foi fundada por Henri Fayol e tinha como objetivo aumentar
+a eficiência, com ênfase na estrutura organizacional.
+É muito importante observar que, enquanto Taylor focava nas tarefas, Fayol propôs que a
+eficiência deveria ser alcançada por meio da disposição dos órgãos e departamentos e de como
+eles se relacionam.
+Deve-se lembrar quais são os 14 Princípios Gerais da Administração de Fayol:
+    1. Divisão do trabalho: Especialização aumenta a eficiência.
+    2. Autoridade e responsabilidade: Autoridade para dar ordens, responsabilidade para
+       prestar contas.
+    3. Disciplina: Obediência e respeito às regras.
+    4. Unidade de comando: Cada empregado responde a um único chefe.
+    5. Unidade de direção: Um único plano para cada grupo de atividades.
+    6. Subordinação dos interesses individuais: Os interesses da organização acima dos pessoais.
+    7. Remuneração justa: Retribuição equilibrada para satisfação mútua.
+    8. Centralização: Autoridade concentrada no topo.
+    9. Cadeia escalar: Linha clara de autoridade.
+    10. Ordem: Tudo e todos no lugar certo.
+    11. Equidade: Justiça no tratamento dos empregados.
+    12. Estabilidade do pessoal: Permanência no cargo melhora a eficiência.
+    13. Iniciativa: Incentivar a criação de planos e sua execução.
+    14. Espírito de equipe: União e harmonia fortalecem a organização
+Lembre-se que Fayol defendia uma estrutura hierárquica linear, com ordens seguindo de cima
+para baixo, ou seja, uma estrutura vertical, refletindo os princípios de centralização, unidade de
+comando e autoridade.
+Observe a tabela comparativa entre a Administração Científica e a Teoria Clássica:
+
+       ASPECTO                 ADMINISTRAÇÃO CIENTÍFICA                              TEORIA CLÁSSICA
+
+        Fundador                          Frederick Taylor                                 Henri Fayol
+
+                                       Tarefas e processos                       Estrutura organizacional e
+          Ênfase
+                                          operacionais                            funções administrativas
+
+        Objetivo               Aumentar a eficiência por meio                   Aumentar a eficiência pela
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                               da padronização de métodos e                     disposição e interação dos
+                                    controle de tarefas                          departamentos e órgãos
+
+                                    Estudo dos tempos e                     Funções administrativas (POC3):
+         Método                 movimentos, padronização de                  Prever, Organizar, Comandar,
+                                 tarefas e incentivos salariais                 Coordenar e Controlar
+
+                                                                               Divisão vertical (hierarquia) e
+                                     Divisão horizontal e
+ Divisão do trabalho                                                                    horizontal
+                                  especialização de operários
+                                                                                  (departamentalização)
+
+                                                                             14 Princípios da Administração,
+                                 Estudo científico do trabalho,
+                                                                              como autoridade, unidade de
+        Princípios              supervisão funcional, incentivo
+                                                                              comando e subordinação dos
+                                       à produtividade
+                                                                                  interesses individuais
+
+        Visão da                      Sistema fechado (sem                       Sistema aberto (estrutura
+      organização                      influências externas)                            integrada)
+
+                                                                             Todos os níveis organizacionais
+ Nível de aplicação                      Nível operacional                       (estratégico, tático e
+                                                                                      operacional)
+
+Teoria das Relações Humanas
+A Teoria das Relações Humanas surgiu nos Estados Unidos, como um movimento contrário à
+Teoria Clássica, e foi baseada na Experiência de Hawthorne, realizada por Elton Mayo.
+Deve-se lembrar que essa abordagem deslocou o foco da estrutura organizacional e das tarefas
+para as pessoas e seus aspectos psicológicos e sociais.
+É importante ainda perceber que a Teoria das Relações Humanas destacou a importância das
+relações sociais, motivação e liderança, diminuindo o foco em conceitos clássicos como
+autoridade e racionalização do trabalho.
+Em outras palavras, ela trouxe uma visão mais humana e social para a administração, enfatizando
+a necessidade de compreender o comportamento e as interações dos trabalhadores dentro das
+organizações.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                                       Foco nas Pessoas
+
+                                 Teoria das Relações
+                                                       Relações Sociais
+
+                                      Humanas
+                                                           Motivação
+
+
+                                                            Liderança
+
+Teoria da Burocracia
+De início lembre-se que ela foi inspirada nas ideias de Max Weber e surgiu como uma resposta
+às limitações da Teoria Clássica e da Teoria das Relações Humanas.
+Deve-se perceber que seu objetivo era criar um modelo de administração que fosse mais
+racional, sólido e abrangente, capaz de lidar com o crescimento e a complexidade das
+organizações.
+É muito importante entender as características da Burocracia de Max Weber:
+    •   Legalidade das normas e regulamentos: As regras e procedimentos devem ser seguidos à
+        risca. As normas definem as funções e os procedimentos antecipadamente.
+    •   Formalidade nas comunicações: Toda comunicação deve ser formalizada, por escrito e
+        padronizada.
+    •   Racionalidade e divisão do trabalho: A divisão do trabalho é feita de forma racional,
+        sistemática e por funções. Cada funcionário ocupa um cargo específico.
+    •   Impessoalidade: As relações de trabalho são impessoais. As atividades são distribuídas
+        com base no cargo e nas funções, não nas características pessoais.
+Observe que a Teoria da Burocracia foi essencial para estruturar as organizações modernas,
+especialmente as públicas, promovendo uma administração mais eficiente e organizada, tendo
+em vista que prioriza o cumprimento rigoroso das normas, a divisão clara de responsabilidades e
+a impessoalidade nas relações profissionais, combatendo a corrupção e os desperdícios.
+Em resumo, a Teoria da Burocracia trouxe uma nova visão para a administração ao propor um
+modelo estruturado e regido por normas, que busca a eficiência por meio da racionalidade e da
+impessoalidade, consolidando a hierarquia e a divisão de trabalho como princípios fundamentais.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Em contrapartida, deve-se lembrar que ao longo tempo o modelo burocrático passou a receber
+críticas, principalmente por conta da evolução e modernização dos processos. Tais críticas
+resultaram no levantamento de uma série de disfunções da burocracia. É importante que
+conheça as principais:
+    •   Excesso de Formalismo e Papelada: A necessidade de formalizar tudo por escrito gera
+        burocracia e volume excessivo de documentos.
+    •   Resistência a Mudanças: Funcionários antigos tendem a resistir a novos procedimentos,
+        preferindo métodos já estabelecidos.
+    •   Apego Exagerado às Normas: O foco nas regras faz os funcionários esquecerem os
+        objetivos da organização, tratando as normas como um fim em si mesmas.
+    •   Rigidez e Falta de Inovação: Processos rígidos impedem a criatividade e a liberdade dos
+        funcionários para inovar.
+    •   Decisões Centralizadas e Lentas: Decisões são tomadas no topo da hierarquia, muitas
+        vezes por quem não tem conhecimento adequado, o que causa lentidão e ineficácia.
+    •   Despersonalização nas Relações: As interações se tornam impessoais, com funcionários e
+        clientes tratados por seus cargos, não como indivíduos.
+    •   Foco em Processos e não em Resultados: A qualidade é medida pela conformidade às
+        regras, e não pelos resultados alcançados.
+    •   Conflito no Atendimento ao Cliente: O foco excessivo em normas faz os funcionários
+        perderem de vista o atendimento ao cliente, gerando insatisfação e conflitos
+Lembre-se que a burocracia, embora eficiente em algumas áreas, sofre com rigidez, excesso de
+regras e uma desconexão com os resultados e o atendimento ao cliente.
+
+
+Teoria Estruturalista
+A Teoria Estruturalista surgiu como uma tentativa de integrar e ampliar as abordagens das
+teorias anteriores (Clássica, Relações Humanas e Burocrática), analisando a organização como um
+todo, tanto formal quanto informal.
+Lembre-se que o foco é na estrutura organizacional e no ambiente externo, introduzindo o
+conceito de sistema aberto, que considera as influências externas. Tem como principais
+características:
+    •   Integração da Organização Formal e Informal: A teoria considera tanto a estrutura formal
+        quanto os grupos informais dentro da organização.
+    •   Sistema Aberto: A organização é vista como aberta ao ambiente externo, influenciada por
+        fatores externos, ao contrário das teorias anteriores que focavam em um sistema fechado
+        e previsível.
+    •   Homem Organizacional: Ao contrário do "homo economicus" da Teoria Clássica e do
+        "homo social" da Teoria das Relações Humanas, o homem moderno desempenha
+        múltiplos papéis em várias organizações e deve ser cooperativo e flexível, com
+        capacidade de adiar recompensas para obter sucesso.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    •   Abordagem Múltipla e Interdisciplinar: A Teoria Estruturalista busca unir os conceitos de
+        eficiência da Teoria Clássica, os aspectos sociais das Relações Humanas e a racionalidade
+        da Teoria Burocrática, aplicando-os a todos os níveis hierárquicos e tipos de organizações
+Em resumo, busca uma visão global e interdisciplinar da administração, focando na integração
+entre os aspectos formais, informais e ambientais para uma compreensão mais ampla e
+complexa das organizações.
+
+
+Teoria Neoclássica
+De início, lembre-se que a Teoria Neoclássica retomou princípios da Teoria Clássica,
+modernizando-os para atender às novas necessidades das organizações em crescimento e mais
+complexas.
+Essa teoria é focada em resultados práticos e objetivos claros, sendo considerada a base da
+administração moderna, tendo as seguintes características:
+    •   Ênfase na Prática da Administração: Voltada para resultados concretos com foco na
+        solução de problemas.
+    •   Reafirmação dos Princípios Clássicos: Muitos conceitos clássicos, como a
+        departamentalização e a hierarquia, são reaplicados de forma mais flexível.
+    •   Foco nos Objetivos e Resultados: A organização é estruturada para alcançar objetivos e
+        produzir resultados, priorizando metas claras e justificando sua existência pelos resultados
+        alcançados.
+    •   Conceitos Ecléticos: A Teoria Neoclássica combina conceitos de várias outras teorias,
+        como a Clássica, Relações Humanas e Burocrática, para criar uma abordagem mais ampla.
+    •   Eficiência e Eficácia:
+             o   Eficiência: Fazer as coisas da maneira correta, com foco interno e nos custos.
+                 Sempre se relaciona com o ganho em relação ao gasto.
+             o   Eficácia: Fazer as coisas certas, focando nos objetivos e nos fins, independente dos
+                 custos. Se relaciona com os resultados atingidos em relação aos programados.
+Vale ainda lembrar que os Neoclássicos reestruturaram as funções administrativas, que agora são
+Planejamento, Organização, Direção e Controle (PODC). Essa visão é a mais aceita atualmente e
+serve de base para a administração moderna.
+Desta forma, deve-se perceber que a Teoria Neoclássica trouxe uma abordagem mais prática e
+flexível da administração, focada em resultados e objetivos claros, consolidando-se como a base
+da administração moderna, apesar de suas limitações em um ambiente organizacional dinâmico.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Teoria Comportamental (Behaviorista)
+A Teoria Comportamental, também conhecida como Teoria Behaviorista, foi iniciada por Herbert
+Alexander Simon e representa um desdobramento da Teoria das Relações Humanas. Podemos
+destacas os seguintes aspectos:
+    •   Ênfase nas Ciências do Comportamento: Ao contrário das teorias anteriores, foca em
+        explicar e descrever o comportamento humano nas organizações, sem prescrever normas
+        ou princípios rígidos.
+    •   Homem Administrativo: O ser humano é visto como "homem administrativo", que reage
+        de forma racional, mas limitada, aos incentivos (salariais, materiais, sociais e simbólicos).
+        Ele busca uma solução satisfatória, mas que nem sempre é a melhor.
+    •   Sistema de Tomada de Decisões: A organização é vista como um sistema no qual cada
+        indivíduo toma decisões racionais em todos os níveis. O foco está nas pessoas e em suas
+        decisões.
+    •   Rejeição da Autoridade Formal e Rígida: A Teoria Comportamental é contrária à
+        autoridade centralizada e rígida da Teoria Clássica e ao modelo de "máquina" da
+        Burocracia.
+    •   Motivação e Comportamento: Quanto mais o administrador entender o comportamento
+        humano e os mecanismos que motivam as pessoas, melhores serão os resultados
+        organizacionais.
+Para sua prova é importante lembrar que a Teoria Comportamental coloca o comportamento
+humano no centro da administração, buscando compreender como as pessoas tomam decisões
+e são motivadas. Ela desenvolveu a psicologia organizacional e foi um passo importante para
+melhorar a qualidade de vida no trabalho, com foco na satisfação pessoal e nas interações
+humanas.
+
+
+Teoria dos Sistemas
+Esta teoria propõe uma visão global e integrada dos sistemas, aplicando esse conceito à
+administração para superar as limitações das teorias anteriores.
+Neste contexto, lembre-se que organizações são vistas como sistemas abertos, em constante
+interação com o ambiente externo, influenciadas por variáveis imprevisíveis e em adaptação
+contínua.
+É muito importante que memorize os componentes do sistema:
+    •   Objetivos: São as metas ou finalidades que justificam a existência do sistema, aquilo que
+        ele busca alcançar.
+    •   Entradas (inputs): São os recursos que o sistema recebe do ambiente externo, como
+        materiais, informações e energia, necessários para seu funcionamento.
+    •   Processamento: É o mecanismo interno do sistema que transforma as entradas (insumos)
+        em resultados ou produtos finais.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    •   Saídas (outputs): São os produtos, serviços ou resultados gerados pelo sistema após o
+        processamento, devolvidos ao ambiente.
+    •   Controles: São os mecanismos que verificam se os resultados estão alinhados com os
+        objetivos planejados, monitorando o desempenho do sistema.
+    •   Retroalimentação (feedback): Trata-se do retorno de informações ao sistema sobre os
+        resultados, permitindo ajustes e correções para manter o sistema em funcionamento
+        adequado.
+    •   Ambiente: É o contexto externo ao sistema, composto por fatores que influenciam e são
+        influenciados pelas atividades do sistema, como clientes, fornecedores, regulamentações,
+        entre outros.
+Em resumo, a Teoria dos Sistemas introduziu uma visão mais ampla e interativa da organização,
+mostrando-a como parte de um sistema maior, em constante interação com o ambiente e
+composta por subsistemas interdependentes.
+Chegamos ao fim do nosso roteiro de revisão!! Vamos à nossa Aposta Estratégica.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                     APOSTA ESTRATÉGICA
+Na nossa aposta estratégica de hoje vamos destacar dois pontos do nosso roteiro de revisão.
+O primeiro é o comparativo entre os conceitos de Administração e Organização:
+
+             ASPECTO                            ADMINISTRAÇÃO                              ORGANIZAÇÃO
+
+                                             Processo de orientar,                 Entidade estruturada onde
+                                          planejar, liderar e controlar             pessoas e recursos estão
+            CONCEITO
+                                            pessoas e recursos para                alocados para trabalhar em
+                                               atingir objetivos.                          conjunto.
+
+                                             Faz com que as coisas                 Local e estrutura em que os
+                                            aconteçam por meio das                     recursos e pessoas
+            OBJETIVO
+                                            pessoas; coordenação e                      desempenham as
+                                                   direção.                                 atividades.
+
+                                          Orientação, coordenação e                A estruturação de pessoas e
+                FOCO                        controle para alcançar                   recursos para atingir os
+                                          objetivos organizacionais.                        objetivos.
+
+                                                                                    Pode ser formal (normas e
+                                                Gerencia os níveis
+                                                                                    regulamentos) ou informal
+          NÍVEIS/TIPOS                         estratégico, tático e
+                                                                                         (relações sociais
+                                                   operacional.
+                                                                                           espontâneas).
+
+O segundo ponto a destacarmos é em relação às teorias da administração. É importante que
+consiga diferenciar uma das outras em relação a seu fundador e características principais.
+Abaixo, temos uma tabela que tenta sintetizar tais aspectos:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+      TEORIA             FUNDADOR             FOCO PRINCIPAL                        CARACTERÍSTICAS
+
+                                                                   Estudo de tempos e movimentos,
+ Administração              Frederick        Tarefas e eficiência
+                                                                  padronização de tarefas, incentivos
+   Científica                Taylor             operacional
+                                                                     salariais, supervisão funcional
+
+                                                                           Divisão do trabalho, hierarquia,
+                                                  Estrutura                autoridade e responsabilidade,
+ Teoria Clássica          Henri Fayol
+                                                organizacional            princípios gerais de administração
+                                                                                        (POC3)
+
+    Teoria das
+                                             Pessoas e relações           Motivação, grupos informais, foco
+     Relações             Elton Mayo
+                                                  sociais                 nos aspectos emocionais e sociais.
+    Humanas
+
+                                                                               Legalidade das normas,
+      Teoria                                   Racionalidade e             impessoalidade, formalidade nas
+                          Max Weber
+    Burocrática                                     regras                comunicações, divisão do trabalho
+                                                                                       racional
+
+                            James
+                                               Interação entre            Sistema aberto, interdependência
+     Teoria               Thompson e
+                                                 organização               entre partes, foco no ambiente
+  Estruturalista            Amitai
+                                              formal e informal            externo, homem organizacional
+                            Etzioni
+
+                                                                             Ênfase na prática, eficiência e
+     Teoria                   Peter               Objetivos e             eficácia, princípios administrativos
+   Neoclássica               Drucker              resultados                     (PODC), hierarquia e
+                                                                                     especialização
+
+                                               Comportamento              Sistema de tomada de decisões,
+   Teoria                    Herbert
+                                                 humano nas              motivação, Teoria X e Y, Hierarquia
+Comportamental               Simon
+                                                  decisões                  das Necessidades de Maslow
+
+                                                Interação entre           Sistema aberto, interdependência,
+    Teoria dos            Ludwig Von
+                                                 organização e            entradas, processamento e saídas,
+     Sistemas             Bertalanffy
+                                                   ambiente                   retroalimentação (feedback)
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+                                 QUESTÕES ESTRATÉGICAS
+    1) FGV – Consultor Técnico Legislativo (CM SP) - 2024
+
+Uma organização é empreendimento humano com o objetivo de atingir metas ou realizar
+atividades específicas.
+
+Em relação à organização informal é correto afirmar que:
+
+a) é estabelecida com base em manuais de organização e organogramas, sendo aprovada pela
+direção da empresa.
+
+b) emerge espontaneamente a partir de relações de amizade e grupos informais, não sendo
+registrada em documentos formais como organogramas.
+
+c) está confinada ao horário de trabalho, enquanto a organização formal pode estender-se para
+os períodos de lazer.
+d) ocorre exclusivamente dentro do local físico determinado pela empresa, ao contrário da
+organização formal, que pode ocorrer em qualquer lugar.
+
+e) limita-se aos interesses da empresa, ao passo que a organização formal abrange todos os
+interesses comuns das pessoas envolvidas
+COMENTÁRIOS
+Vamos, primeiro, lembrar o que comentamos no nosso roteiro de revisão!
+É necessário memorizar que existem dois tipos principais de organização:
+    •   Formal: Baseada em normas e lógica, estruturada para atingir objetivos.
+    •   Informal: Baseada em relações sociais e espontaneidade, sem regras formais.
+Agora, analisando as alternativas, temos:
+Alternativa A – INCORRETA – Essa são características das organizações formais.
+Alternativa B – CORRETA – A organização informal é baseada relações sociais e espontaneidade,
+sem regras formais.
+Alternativa C – INCORRETA – Horário de trabalho é característico de organização formal. Já a
+informal é que pode se estender para períodos de lazer.
+Alternativa D – INCORRETA – Mais características das organizações formais, invertendo os
+conceitos.
+Alternativa E – INCORRETA – Novamente os conceitos estão invertidos.
+Gabarito: B
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    2) FGV – Analista em Gestão Municipal (Prefeitura de SJC) - 2024
+
+Após concluir sua graduação em administração de empresas no exterior, Júlio iniciou sua busca
+por oportunidades de trabalho em diversos sites de emprego. Uma oferta de trabalho em São
+José dos Campos chamou sua atenção devido ao salário atrativo. Contudo, a descrição indicava
+que a posição era de “nível operacional”, deixando Júlio em dúvida sobre quais atividades
+estaria desempenhando caso fosse selecionado para tal vaga.
+
+Considerando a descrição da vaga que intrigou Júlio, é correto afirmar que o ocupante da vaga:
+
+a) deve tratar diretamente com questões relacionadas com o ambiente externo à organização,
+como concorrentes diretos.
+
+b) deve ter o status de gerente, sendo encarregado da tomada de decisões que impactam a
+organização no longo prazo.
+
+c) deve cuidar de questões de caráter rotineiro, coordenando adequadamente um
+departamento.
+
+d) deve lidar com os problemas de cada unidade de negócios, assumindo o papel de diretor de
+cúpula.
+
+e) deve atuar na função de supervisor, cuidando da execução adequada das tarefas
+programadas.
+COMENTÁRIOS
+Vamos lembrar dos três níveis da organização:
+    •   Estratégico: Nível mais alto, com foco no longo prazo e decisões gerais (diretores).
+    •   Tático: Nível gerencial, que implementa as decisões estratégicas (gerentes).
+    •   Operacional: Foco no curto prazo e execução de tarefas (funcionários).
+Agora, analisando as alternativas, temos:
+Alternativa A – INCORRETA – Essa é uma função de nível estratégico.
+Alternativa B – INCORRETA – Essa é uma função de nível tático.
+Alternativa C – INCORRETA – Essa é uma função de nível tático.
+Alternativa D – INCORRETA – Essa é uma função de nível estratégico.
+Alternativa E – CORRETA – Agora sim temos uma função de nível operacional. Normalmente o
+nível operacional é associado ao “chão de fábrica”, ou seja, aqueles que estão na atividade fim.
+É o caso dos operários e supervisores.
+Gabarito: E
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    3) FGV – Analista em Gestão Municipal (Prefeitura de SJC) / 2024
+
+Entre as funções administrativas, aquela que possibilita o monitoramento das ações estratégicas
+e operacionais sobre ações programadas e executadas, permitindo ações corretivas nos casos
+em que os objetivos e metas organizacionais não estejam dentro de parâmetros pré-
+estabelecidos, é o(a)
+
+a) Controle.
+
+b) Comando.
+
+c) Organização.
+
+d) Coordenação.
+
+e) Planejamento.
+COMENTÁRIOS:
+Agora temos uma questão que trata das quatro funções administrativas.
+    •   Planejamento: Estabelece os objetivos e as estratégias para alcançá-los. Define "onde se
+        quer chegar" e "como chegar lá", identificando oportunidades e ameaças. Tem foco em
+        ideias.
+    •   Organização: Divide o trabalho, atribui responsabilidades e aloca recursos. Define as
+        estruturas necessárias para implementar o planejamento. Foco em "coisas" e recursos.
+    •   Direção: Conduz o trabalho, usa a liderança e a motivação para orientar as pessoas na
+        execução das tarefas. Foco em pessoas.
+    •   Controle: Monitora as atividades, faz ajustes e avalia o desempenho organizacional para
+        garantir que os objetivos sejam alcançados. Foco em resultados.
+Quando falamos em monitoramento e avaliação, estamos falando de controle.
+Gabarito: A
+
+    4) FGV – Analista Administrativo (TJ SC) - 2024
+
+Em todas as áreas funcionais de uma empresa, os administradores exercem as funções
+administrativas, que correspondem às etapas do processo administrativo: planejar, organizar,
+dirigir e controlar. Considere as afirmativas a seguir sobre algumas atividades gerenciais e as
+funções administrativas.
+I. A implementação de políticas de gestão participativa está relacionada à função direção.
+II. A aplicação de recursos financeiros está relacionada à função planejamento.
+III. A definição da estrutura de cargos e salários está relacionada à função organização.
+IV. A avaliação de desempenho dos funcionários está relacionada à função direção.
+Está correto o que se afirma em:
+a) I e III, apenas;
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+b) I e IV, apenas;
+c) II e III, apenas;
+d) II, III e IV, apenas;
+e) I,II, III e IV.
+
+
+COMENTÁRIOS:
+Mais uma questão envolvendo as funções administrativas.
+    •    Planejamento: Estabelece os objetivos e as estratégias para alcançá-los. Define "onde se
+         quer chegar" e "como chegar lá", identificando oportunidades e ameaças. Tem foco em
+         ideias.
+    •    Organização: Divide o trabalho, atribui responsabilidades e aloca recursos. Define as
+         estruturas necessárias para implementar o planejamento. Foco em "coisas" e recursos.
+    •    Direção: Conduz o trabalho, usa a liderança e a motivação para orientar as pessoas na
+         execução das tarefas. Foco em pessoas.
+    •    Controle: Monitora as atividades, faz ajustes e avalia o desempenho organizacional para
+         garantir que os objetivos sejam alcançados. Foco em resultados.
+Agora, analisando as afirmativas:
+Afirmativa I – CORRETA – Observe que a função de direção está relacionada à liderança,
+motivação e gestão de pessoas.
+Afirmativa II – INCORRETA – A aplicação de recursos financeiros está relacionada a função de
+organização.
+Afirmativa III – CORRETA – Perfeito! A alocação de recursos e divisão de trabalho está na função
+organização.
+Afirmativa IV – INCORRETA – Essa é uma função de nível estratégico.
+Gabarito: A
+
+    5) FGV – Auditor de Controle Externo (TCE-PA) / 2024
+
+O processo administrativo abrange planejamento, organização, direção e controle. O
+planejamento define objetivos e estratégias; a organização estrutura recursos e atividades; a
+direção lidera e motiva as equipes; e o controle monitora o desempenho, ajustando conforme
+necessário para garantir o sucesso organizacional.
+
+Assinale a base de atuação da função de ideias
+
+a) Organização.
+b) Controle.
+c) Planejamento.
+d) Direção.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+e) Retroação.
+COMENTÁRIOS:
+Mais uma questão envolvendo as funções administrativas.
+    •   Planejamento: Estabelece os objetivos e as estratégias para alcançá-los. Define "onde se
+        quer chegar" e "como chegar lá", identificando oportunidades e ameaças. Tem foco em
+        ideias.
+    •   Organização: Divide o trabalho, atribui responsabilidades e aloca recursos. Define as
+        estruturas necessárias para implementar o planejamento. Foco em "coisas" e recursos.
+    •   Direção: Conduz o trabalho, usa a liderança e a motivação para orientar as pessoas na
+        execução das tarefas. Foco em pessoas.
+    •   Controle: Monitora as atividades, faz ajustes e avalia o desempenho organizacional para
+        garantir que os objetivos sejam alcançados. Foco em resultados.
+Observe que é no planejamento que definimos onde e como chegar e tem como foco as ideias.
+Gabarito: C
+
+    6) FGV – Auditor de Contas Públicas (CGE PB) - 2024
+
+É muito comum nas organizações que o exercício das funções de direção dependa de
+habilidades e da capacidade de desempenhar determinados papéis. Em diversos momentos, o
+gestor principal deve ser capaz de atuar como representação simbólica e referência que provê
+direção aos subordinados e constrói uma rede de relações.
+O gestor em questão é demandado a desempenhar um papel do tipo
+a) monitor;
+b) decisório;
+c) negociador;
+d) interpessoal;
+e) informacional.
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Alternativa A – INCORRETA – O papel do tipo monitor coleta e analisa informações sobre o
+ambiente interno e externo.
+Alternativa B – INCORRETA – Decisório é uma categoria, que se subdivide nos papeis
+Empreendedor, Solucionador de Conflitos, Alocador de Recursos e Negociador.
+Alternativa C – INCORRETA – O papel negociador representa a organização em negociações
+com sindicatos, clientes e parceiros.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Alternativa D – CORRETA – A categoria interpessoal tem papel de representar a organização em
+eventos e assina documentos importantes; Orientar, motivar e direcionar os subordinados; e
+manter contatos internos e externos para troca de informações.
+Alternativa E – INCORRETA – Informacional é uma categoria, que se subdivide nos papeis
+Monitor, Disseminador e Porta-Voz.
+Gabarito: D
+
+    7) FGV – Analista Judiciário (TJ AP) - 2024
+
+João é líder de uma equipe de dez funcionários na organização em que trabalha. Ele acaba de
+ser informado dos resultados de sua avaliação anual de desempenho, tendo recebido notas altas
+nos quesitos: capacidade de compartilhar informação relevante com os subordinados;
+capacidade de organizar o trabalho dos funcionários em função das metas da equipe;
+capacidade de identificar oportunidades e novos projetos relevantes.
+
+João foi bem avaliado no desempenho dos seguintes papéis organizacionais, respectivamente.
+
+a) porta-voz; empreendedor; líder;
+
+b) disseminador; administrador de recursos; empreendedor;
+
+c) porta-voz; elemento de ligação; empreendedor;
+
+d) disseminador; administrador de recursos; líder;
+
+e) elemento de ligação; monitor; empreendedor.
+COMENTÁRIOS:
+Bom, vamos analisar as características:
+Capacidade de compartilhar informação relevante com os subordinados: Aqui temos uma
+característica relacionada ao papel de disseminador. O disseminador compartilha informações
+internamente, do nível estratégico ao operacional.
+Capacidade de organizar o trabalho dos funcionários em função das metas da equipe: Aqui
+temos uma característica relacionada ao papel de administrator de recursos. Este administra e
+distribui os recursos de acordo com as prioridades organizacionais.
+Capacidade de identificar oportunidades e novos projetos relevantes: Aqui temos uma
+característica relacionada ao papel de empreendedor. Este identifica novas ideias e
+oportunidades, assumindo riscos para melhorar a organização.
+Gabarito: B
+
+    8) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+Com relação aos principais papéis exercidos pelos administradores nas organizações, assinale a
+afirmação correta:
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+a) A atuação na construção de alianças e redes de contatos em diferentes âmbitos representa o
+papel de alocador de recursos.
+b) A atuação como representante da organização nas atividades de natureza cerimonial e sociais
+se refere ao papel do monitor.
+c) A atuação no planejamento de mudanças organizacionais, assumindo riscos na promoção de
+novas ideias representa o papel de empreendedor.
+d) A atuação na coleta de informações relevantes que podem impactar os objetivos da
+organização se enquadra no papel de porta-voz.
+e) A atuação na administração de crises inesperadas e disputas internas tem relação com o papel
+de símbolo.
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Alternativa A – INCORRETA – A atuação na construção de alianças e redes de contatos se
+enquadra no papel de Elemento de Ligação.
+Alternativa B – INCORRETA – A atuação como representante da organização nas atividades de
+natureza cerimonial e sociais se enquadra no papel de Negociador.
+Alternativa C – CORRETA – A atuação no planejamento de mudanças organizacionais,
+assumindo riscos na promoção de novas ideias representa o papel de empreendedor. Este
+identifica novas ideias e oportunidades, assumindo riscos para melhorar a organização.
+Alternativa D – INCORRETA – A atuação na coleta de informações relevantes que podem
+impactar os objetivos da organização se enquadra no papel de Disseminador.
+Alternativa E – INCORRETA – A atuação na administração de crises inesperadas e disputas
+internas tem relação com o papel de Solucionador de Conflitos.
+Gabarito: C
+
+    9) FGV – Assistente Técnico de Regulação (AGENERSA) - 2023
+
+A escola da Administração Científica sofreu muitas críticas por impor uma visão mecanicista na
+organização, alienando os operários por meio da superespecialização das tarefas. Apesar de
+essas críticas serem válidas, alguns de seus fundamentos, mesmo visando a interesses
+econômicos, ajudaram a melhorar o trabalho e a vida dos trabalhadores.
+Assinale a opção que apresenta um desses fundamentos:
+a) O fortalecimento dos processos de integração e criação de grupos informais.
+b) A ênfase no conteúdo e na importância contextual das tarefas do cargo.
+c) O estabelecimento de condições ambientais de trabalho que garantam o bem-estar do
+trabalhador.
+d) O pagamento por meio de recompensas mistas, incluindo as materiais e as simbólicas.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+e) A aplicação da metodologia dos sistemas abertos, por meio da interação dos operários com
+os clientes diretos e indiretos.
+COMENTÁRIOS:
+Vamos replicar as características da Administração Científica:
+    •   Análise do trabalho e estudo dos tempos e movimentos: Eliminar movimentos inúteis e
+        buscar a melhor maneira de realizar cada tarefa.
+    •   Estudo da fadiga humana: Racionalizar movimentos para reduzir a fadiga e aumentar a
+        produtividade.
+    •   Divisão do trabalho e especialização: Cada trabalhador se especializa em uma tarefa
+        específica para aumentar a eficiência.
+    •   Desenho de cargos e tarefas: Definir claramente as funções e responsabilidades de cada
+        operário.
+    •   Incentivos salariais: Remuneração baseada na produtividade, motivando os trabalhadores
+        a produzir mais.
+    •   Condições ambientais: Melhorar o ambiente de trabalho (iluminação, conforto) para
+        aumentar a eficiência.
+    •   Padronização de métodos e máquinas: Uniformidade no trabalho para eliminar
+        desperdícios e melhorar a eficiência.
+    •   Supervisão funcional: Vários supervisores especializados, cada um em sua área, orientando
+        os operários.
+Agora, vamos analisar as alternativas:
+Alternativa A – INCORRETA – O objetivo da administração científica era aumentar a eficiência e
+eliminar desperdício, através da especialização da atividade. Não tinha foco na integração de
+processos.
+Alternativa B – INCORRETA – O foco está na especialização da tarefa.
+Alternativa C – CORRETA – Um dos pilares é melhorar o ambiente de trabalho (iluminação,
+conforto) para aumentar a eficiência. Embora o intuito das mudanças propostas pelo modelo ser
+inteiramente econômico, trouxe reflexos positivos.
+Alternativa D – INCORRETA – De fato o modelo previa pagamento de recompensas, entretanto
+focava apenas nas materiais, e não nas simbólicas.
+Alternativa E – INCORRETA – O foco está na especialização da tarefa, sem a interação entre os
+operários.
+Gabarito: C
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    10) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+
+A Teoria Clássica da Administração emergiu como um marco no início do século XX,
+introduzindo abordagens inovadoras destinadas a aprimorar a eficiência produtiva da época. Seu
+foco estava na otimização da estrutura organizacional e na definição clara das funções
+administrativas, que deveriam ser desempenhadas pelos gestores, guiadas por princípios
+específicos.
+
+Com relação aos princípios gerais propostos por essa teoria, é correto afirmar que a teoria
+preconiza
+
+a) o espírito de equipe, definido pela harmonia entre os colaboradores, com melhora do
+desempenho organizacional.
+b) a intensificação, que busca a redução do tempo de produção por meio do uso maximizado de
+equipamentos e mão-de-obra.
+c) o estudo dos tempos e movimentos, que consiste na análise das atividades buscando a
+eliminação de ações desnecessárias.
+d) a supervisão funcional, estabelecendo que os colaboradores devem receber ordens de vários
+supervisores diferentes.
+e) a contingência pontual, que entende não existir uma maneira ideal de alcançar um objetivo,
+mas diversas formas satisfatórias.
+COMENTÁRIOS:
+Vamos lembrar dos 14 Princípios Gerais da Administração de Fayol:
+    1. Divisão do trabalho: Especialização aumenta a eficiência.
+    2. Autoridade e responsabilidade: Autoridade para dar ordens, responsabilidade para
+       prestar contas.
+    3. Disciplina: Obediência e respeito às regras.
+    4. Unidade de comando: Cada empregado responde a um único chefe.
+    5. Unidade de direção: Um único plano para cada grupo de atividades.
+    6. Subordinação dos interesses individuais: Os interesses da organização acima dos pessoais.
+    7. Remuneração justa: Retribuição equilibrada para satisfação mútua.
+    8. Centralização: Autoridade concentrada no topo.
+    9. Cadeia escalar: Linha clara de autoridade.
+    10. Ordem: Tudo e todos no lugar certo.
+    11. Equidade: Justiça no tratamento dos empregados.
+    12. Estabilidade do pessoal: Permanência no cargo melhora a eficiência.
+    13. Iniciativa: Incentivar a criação de planos e sua execução.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    14. Espírito de equipe: União e harmonia fortalecem a organização
+Agora, vamos analisar as alternativas:
+Alternativa A – CORRETA – Descreve perfeitamente o último princípio!
+As alternativas B, C, D e E trazem ideias que se relacionam mais com o modelo de Administração
+Científica, e não princípios relacionados à Teoria Clássica de Fayol.
+Gabarito: A
+
+    11) FGV – Analista Técnico (AGENERSA) - 2023
+
+A Teoria Clássica das Organizações tinha como foco melhorar a eficiência na produção fabril.
+Embora possuísse o mesmo objetivo da Administração Científica, acreditava em formas
+diferentes de alcançá-lo.
+Acerca das diferenças entre a Teoria Clássica e a da Administração Científica, assinale a
+afirmativa correta
+a) A primeira foca na definição das tarefas, enquanto a segunda em aspectos da estrutura
+organizacional.
+b) A primeira utiliza uma abordagem global e sintética, enquanto a segunda segue uma
+abordagem analítica e concreta.
+c) A primeira aborda o ideal do homem social, enquanto a segunda o do homem econômico.
+d) A primeira se pauta no modelo orgânico da administração, enquanto a segunda no modelo
+mecanicista.
+e) A primeira utiliza-se apenas de recompensas materiais como forma de retribuição aos
+funcionários, enquanto a segunda prioriza as simbólicas
+COMENTÁRIOS:
+Agora, vamos analisar as alternativas:
+Alternativa A – INCORRETA – Os conceitos estão invertidos. A Administração Científica é que
+tem foco na tarefa, enquanto a Teoria Clássica foca na organização.
+Alternativa B – CORRETA – A Teoria Clássica foca na organização (global), enquanto a
+Administração Científica foca na tarefa (concreto).
+Alternativa C – INCORRETA – É o oposto. A administração Científica foca no homem econômico.
+Alternativa D – INCORRETA – Mais uma vez os conceitos estão invertidos.
+Alternativa E – INCORRETA – Novamente uma inversão de conceitos. As recompensas materiais
+são da Administração Científica.
+Gabarito: B
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    12) FGV – Analista Técnico (AGENERSA) - 2024
+
+A Teoria Clássica das Organizações tinha como foco melhorar a eficiência na produção fabril.
+Embora possuísse o mesmo objetivo da Administração Científica, acreditava em formas
+diferentes de alcançá-lo.
+Acerca das diferenças entre a Teoria Clássica e a da Administração Científica, assinale a
+afirmativa correta
+a) A primeira foca na definição das tarefas, enquanto a segunda em aspectos da estrutura
+organizacional.
+b) A primeira utiliza uma abordagem global e sintética, enquanto a segunda segue uma
+abordagem analítica e concreta.
+c) A primeira aborda o ideal do homem social, enquanto a segunda o do homem econômico.
+d) A primeira se pauta no modelo orgânico da administração, enquanto a segunda no modelo
+mecanicista.
+e) A primeira utiliza-se apenas de recompensas materiais como forma de retribuição aos
+funcionários, enquanto a segunda prioriza as simbólicas
+COMENTÁRIOS:
+Agora, vamos analisar as alternativas:
+Alternativa A – INCORRETA – Os conceitos estão invertidos. A Administração Científica é que
+tem foco na tarefa, enquanto a Teoria Clássica foca na organização.
+Alternativa B – CORRETA – A Teoria Clássica foca na organização (global), enquanto a
+Administração Científica foca na tarefa (concreto).
+Alternativa C – INCORRETA – É o oposto. A administração Científica foca no homem econômico.
+Alternativa D – INCORRETA – Mais uma vez os conceitos estão invertidos.
+Alternativa E – INCORRETA – Novamente uma inversão de conceitos. As recompensas materiais
+são da Administração Científica.
+Gabarito: B
+
+    13) FGV – Técnico de Gestão Administrativa (ALEMA) - 2023
+
+A escola de relações humanas, embora tenha tido diversas influências como fontes para a sua
+elaboração, teve como principal impulso os resultados da pesquisa realizada em uma fábrica
+americana, pelo cientista Elton Mayo, que ficou conhecida como experiência de Hawthorne.
+
+Com relação a essa escola teórica da administração, assinale a afirmativa correta
+
+a) Trouxe o conceito de “homem complexo” na relação com os funcionários.
+
+b) Passou a valorizar mais os incentivos financeiros como elementos motivacionais.
+c) Deu luz à importância dos grupos informais presentes na organização.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+d) Apresentou a importância da estrutura de cargos na eficiência produtiva.
+
+e) Concluiu que a intensificação do trabalho, por meio da linha de montagem móvel, permite o
+aumento salarial dos colaboradores
+
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Alternativa A – INCORRETA – O conceito trazido pela Teoria das Relações Humanas foi o de
+Homem Social.
+Alternativa B – INCORRETA – A Teoria passou a valorizar as relações sociais, e não incentivos
+financeiros.
+Alternativa C – CORRETA – Como o foco da Teoria eram as relações sociais, naturalmente
+surgiam grupos informais. Esses tipos de grupo surgem exatamente a partir dessas relações
+sociais.
+Alternativa D – INCORRETA – A Teoria passou a valorizar as relações sociais.
+Alternativa E – INCORRETA – A Teoria passou a valorizar as relações sociais, não na
+intensificação do trabalho.
+Gabarito: C
+
+    14) FGV – Oficial da Polícia Militar (PM PB) - 2021
+
+As disfunções da burocracia podem ser entendidas como um conjunto de consequências não
+previstas no modelo burocrático que levam a ineficiências e outros problemas para a gestão,
+quando seus princípios são aplicados.
+
+Entre as disfunções da burocracia, podem-se elencar:
+
+a) formalismo excessivo;
+
+b) canais de comunicação limitados;
+
+c) criação de uma cultura tecnocrática voltada à destruição criativa;
+
+d) descentralização e perda de controle das decisões estratégicas;
+
+e) atenção às demandas de coalizões externas, com perda do foco nos processos internos.
+
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Alternativa A – CORRETA – O formalismo excessivo é uma das principais disfunções da
+administração burocráticas.
+Alternativa B – INCORRETA – Na administração burocrática temos os canais de comunicação
+formais limitados. Isso é uma característica do modelo, e não uma disfunção propriamente dita.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Alternativa C – INCORRETA – Temos a criação de uma cultura burocrática, e não tecnocrática.
+Alternativa D – INCORRETA – No modelo temos a centralização das decisões.
+Alternativa E – INCORRETA – Pelo contrário, no modelo burocrático o foco acaba sendo os
+processos internos.
+Gabarito: A
+
+    15) FGV – Analista Judiciário (TJ AP) - 2024
+
+As ideias e concepções acerca do ser humano evoluem ao longo do desenvolvimento do
+pensamento administrativo, iniciando-se com o conceito de homo economicus da Administração
+Científica.
+
+O estruturalismo, corrente que abriga autores como Merton, Blau e outros, apoia-se em uma
+                                                         ==219a34==
+
+visão do ser humano caracterizado, entre outros aspectos, como flexível, resistente à frustação,
+capaz de adiar recompensas e com desejo permanente de realização.
+
+Esse conceito de ser humano é conhecido como homem:
+
+a) funcional;
+
+b) complexo;
+
+c) organizacional;
+
+d) social;
+
+e) administrativo.
+
+COMENTÁRIOS:
+A Teoria Estruturalista tem como conceito o Homem Organizacional. Ao contrário do "homo
+economicus" da Teoria Clássica e do "homo social" da Teoria das Relações Humanas, o homem
+moderno desempenha múltiplos papéis em várias organizações e deve ser cooperativo e flexível,
+com capacidade de adiar recompensas para obter sucesso. .
+Gabarito: C
+
+    16) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+
+A Teoria Comportamental ou Behaviorista surgiu como um movimento crítico a determinadas
+teorias da administração, a exemplo da Teoria das Relações Humanas, que considerava ingênua
+e pouco realista.
+
+ Acerca da Teoria Comportamental, é correto afirmar que ela trouxe uma concepção conhecida
+como
+a) Homem Econômico.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+b) Homem Isolado.
+
+c) Homem Complexo.
+
+d) Homem Administrativo.
+
+e) Homem Social.
+
+COMENTÁRIOS:
+A Teoria Comportamental tem como conceito o Homem Administrativo. O ser humano é visto
+como "homem administrativo", que reage de forma racional, mas limitada, aos incentivos
+(salariais, materiais, sociais e simbólicos). Ele busca uma solução satisfatória, mas que nem
+sempre é a melhor.
+Gabarito: D
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+       QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+Vamos ao nosso questionário:
+
+Perguntas
+
+1. Qual é o conceito de administração segundo Chiavenato, Maximiano e Mintzberg?
+
+2. Quais são as principais diferenças entre administração e organização?
+
+3. Quais são as principais características da administração formal e informal?
+
+4. Descreva as principais responsabilidades no nível estratégico de uma organização.
+
+5. Qual é o foco principal do nível tático dentro de uma organização?
+
+6. Quais são as funções principais no nível operacional de uma organização?
+
+7. O que envolve o processo administrativo? Quais são as suas etapas?
+
+8. Qual é o papel do planejamento dentro do processo administrativo?
+
+9. O que caracteriza a função de organização no processo administrativo?
+
+10. Qual é a importância da direção no processo administrativo?
+
+11. Qual a finalidade do controle no processo administrativo?
+
+12. Descreva o ciclo administrativo e sua interação.
+
+13. Quais são os papéis interpessoais de um administrador, segundo Henry Mintzberg?
+
+14. Quais são os papéis informacionais do administrador?
+
+15. Quais são os papéis decisórios do administrador?
+
+16. Quais são as três principais habilidades do administrador, segundo Robert Katz?
+
+17. Qual é a função das habilidades técnicas em diferentes níveis organizacionais?
+
+18. Como as habilidades humanas afetam o desempenho do administrador?
+
+19. Por que as habilidades conceituais são fundamentais no nível estratégico?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+20. Quais são os principais fundamentos da Administração Científica, segundo Taylor?
+
+21. Quais são os princípios gerais da Teoria Clássica da Administração, segundo Fayol?
+
+22. Quais são as características principais da Teoria das Relações Humanas?
+
+23. Como Max Weber definiu a burocracia e suas características?
+
+24. Quais são as disfunções comuns da burocracia, segundo a teoria?
+
+25. Quais são as principais características da Teoria Estruturalista?
+
+26. Compare a Teoria Clássica de Fayol com a Teoria das Relações Humanas de Elton Mayo,
+destacando as principais diferenças no foco e abordagem.
+
+27. Como a abordagem da Administração Científica de Taylor difere da abordagem burocrática
+de Max Weber no que diz respeito ao controle e à eficiência organizacional?
+
+28. Qual é a principal semelhança e diferença entre a Teoria Estruturalista e a Teoria dos
+Sistemas no entendimento das organizações como sistemas abertos?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Perguntas com respostas
+
+1. Qual é o conceito de administração segundo Chiavenato, Maximiano e Mintzberg?
+
+Chiavenato: Administração utiliza recursos organizacionais para alcançar objetivos.
+
+Maximiano: Administração é um processo dinâmico de decisões.
+
+Mintzberg: Administração é um triângulo entre arte, habilidade prática e ciência.
+
+2. Quais são as principais diferenças entre administração e organização?
+
+Administração: Processo de planejar, organizar, liderar e controlar.
+
+Organização: Entidade estruturada onde pessoas e recursos trabalham juntos para objetivos
+comuns.
+
+3. Quais são as principais características da administração formal e informal?
+
+Formal: Baseada em normas e lógica.
+
+Informal: Baseada em relações sociais e espontâneas.
+
+4. Descreva as principais responsabilidades no nível estratégico de uma organização.
+
+Foco no longo prazo, decisões gerais que afetam toda a organização, e interação direta com o
+ambiente externo
+
+5. Qual é o foco principal do nível tático dentro de uma organização?
+
+Implementação de decisões estratégicas e foco em unidades específicas da organização, com
+preocupação no médio prazo.
+
+6. Quais são as funções principais no nível operacional de uma organização?
+
+Execução de tarefas específicas com foco no curto prazo, supervisão e orientação de
+funcionários.
+
+7. O que envolve o processo administrativo? Quais são as suas etapas?
+
+Envolve planejamento, organização, direção e controle, com o objetivo de alcançar resultados
+organizacionais.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+8. Qual é o papel do planejamento dentro do processo administrativo?
+
+Estabelece objetivos e define estratégias para alcançá-los, identificando oportunidades e
+ameaças.
+
+9. O que caracteriza a função de organização no processo administrativo?
+
+Divide trabalho, atribui responsabilidades e aloca recursos de acordo com os planos
+estabelecidos.
+
+10. Qual é a importância da direção no processo administrativo?
+
+Conduz os trabalhos, motiva e orienta pessoas para garantir que o planejamento seja executado
+corretamente.
+
+11. Qual a finalidade do controle no processo administrativo?
+
+Monitora atividades e faz correções necessárias para manter o curso da organização em direção
+aos objetivos.
+
+12. Descreva o ciclo administrativo e sua interação.
+
+O processo é cíclico e dinâmico, com cada etapa (planejamento, organização, direção e controle)
+se retroalimentando.
+
+13. Quais são os papéis interpessoais de um administrador, segundo Henry Mintzberg?
+
+Símbolo/Representação, Liderança e Elemento de Ligação: Conduzem a interação e influência
+sobre subordinados.
+
+14. Quais são os papéis informacionais do administrador?
+
+Monitor, Disseminador e Porta-voz: Focam na coleta e disseminação de informações dentro e
+fora da organização
+
+15. Quais são os papéis decisórios do administrador?
+
+Empreendedor, Solucionador de Conflitos, Alocador de Recursos e Negociador: Relacionam-se à
+tomada de decisões e gerenciamento de recursos.
+
+16. Quais são as três principais habilidades do administrador, segundo Robert Katz?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Técnicas, Humanas e Conceituais: Cada habilidade é essencial para diferentes níveis de
+responsabilidade dentro da organização.
+
+17. Qual é a função das habilidades técnicas em diferentes níveis organizacionais?
+
+Envolvem a utilização de conhecimentos especializados para a execução de tarefas, sendo
+essenciais no nível operacional.
+
+18. Como as habilidades humanas afetam o desempenho do administrador?
+
+Habilidades de comunicação e liderança para motivar e coordenar pessoas são fundamentais em
+todos os níveis organizacionais.
+
+19. Por que as habilidades conceituais são fundamentais no nível estratégico?
+
+Habilidades conceituais permitem uma visão sistêmica e a capacidade de diagnóstico de
+situações e planejamento estratégico no nível mais alto da organização.
+
+20. Quais são os principais fundamentos da Administração Científica, segundo Taylor?
+
+Envolve estudo de tempos e movimentos, divisão do trabalho, padronização e incentivos
+salariais.
+
+21. Quais são as ideias gerais da Teoria Clássica da Administração de Fayol?
+
+Fayol propôs que a eficiência deveria ser alcançada por meio da disposição dos órgãos e
+departamentos e de como eles se relacionam.
+
+Lembre-se que Fayol defendia uma estrutura hierárquica linear, com ordens seguindo de cima
+para baixo, ou seja, uma estrutura vertical, refletindo os princípios de centralização, unidade de
+comando e autoridade.
+
+22. Quais são as características principais da Teoria das Relações Humanas?
+
+Foco nas relações humanas e sociais no ambiente de trabalho, motivação social e grupos
+informais.
+
+23. Como Max Weber definiu a burocracia e suas características?
+
+Caracteriza-se pela racionalidade, impessoalidade, formalidade e divisão de trabalho claramente
+estruturada.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+             Inserir aqui o nome do Curso
+             www.estrategiaconcursos.com.br
+                                       
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+24. Cite algumas das disfunções comuns da burocracia, segundo a teoria?
+
+Excesso de formalismo, rigidez, falta de inovação e foco excessivo em processos em detrimento
+dos resultados.
+
+25. Quais são as principais características da Teoria Estruturalista?
+
+Foco na interação entre organização formal e informal, sistema aberto, e visão integrada das
+organizações.
+
+26. Compare a Teoria Clássica de Fayol com a Teoria das Relações Humanas de Elton Mayo,
+destacando as principais diferenças no foco e abordagem.
+
+A Teoria Clássica de Fayol foca na estrutura organizacional e nas funções administrativas, com
+ênfase em eficiência, divisão do trabalho e hierarquia formal. Já a Teoria das Relações Humanas,
+de Elton Mayo, concentra-se nos aspectos sociais e emocionais do trabalho, com foco no bem-
+estar dos funcionários, integração social e motivação não apenas por dinheiro, mas também por
+aprovação social e recompensas simbólicas.
+
+27. Como a abordagem da Administração Científica de Taylor difere da abordagem burocrática
+de Max Weber no que diz respeito ao controle e à eficiência organizacional?
+
+A Administração Científica de Taylor busca aumentar a eficiência por meio do estudo dos
+tempos e movimentos, padronizando o trabalho e oferecendo incentivos salariais baseados na
+produtividade. Já a Teoria Burocrática de Weber se concentra no controle por meio de normas
+rígidas, regras formais, e uma estrutura hierárquica clara, onde a autoridade e a responsabilidade
+são determinadas por cargos e regulamentos, sem o mesmo foco nos aspectos operacionais do
+trabalho individua
+
+28. Qual é a principal semelhança e diferença entre a Teoria Estruturalista e a Teoria dos
+Sistemas no entendimento das organizações como sistemas abertos?
+
+A semelhança principal entre as duas teorias é que ambas veem as organizações como sistemas
+abertos, interagindo com o ambiente externo e adaptando-se a ele. A principal diferença é que
+a Teoria Estruturalista foca mais na interdependência entre a estrutura formal e informal da
+organização, enquanto a Teoria dos Sistemas se concentra na interação entre os subsistemas da
+organização e o ambiente, com ênfase no equilíbrio dinâmico e na capacidade de
+retroalimentação para ajustar-se às mudanças externas
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Pessoal, qualquer dúvida, mandem um DM pelo instagram!! Respondemos a todos!
+
+                                                Abraão Pereira
+                                                  Insta: @abraapdp
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+LISTA DE QUESTÕES ESTRATÉGICAS SEM COMENTÁRIOS
+    1) FGV – Consultor Técnico Legislativo (CM SP) - 2024
+
+Uma organização é empreendimento humano com o objetivo de atingir metas ou realizar
+atividades específicas.
+
+Em relação à organização informal é correto afirmar que:
+
+a) é estabelecida com base em manuais de organização e organogramas, sendo aprovada pela
+direção da empresa.
+
+b) emerge espontaneamente a partir de relações de amizade e grupos informais, não sendo
+registrada em documentos formais como organogramas.
+
+c) está confinada ao horário de trabalho, enquanto a organização formal pode estender-se para
+os períodos de lazer.
+d) ocorre exclusivamente dentro do local físico determinado pela empresa, ao contrário da
+organização formal, que pode ocorrer em qualquer lugar.
+
+e) limita-se aos interesses da empresa, ao passo que a organização formal abrange todos os
+interesses comuns das pessoas envolvidas.
+
+    2) FGV – Analista em Gestão Municipal (Prefeitura de SJC) - 2024
+
+Após concluir sua graduação em administração de empresas no exterior, Júlio iniciou sua busca
+por oportunidades de trabalho em diversos sites de emprego. Uma oferta de trabalho em São
+José dos Campos chamou sua atenção devido ao salário atrativo. Contudo, a descrição indicava
+que a posição era de “nível operacional”, deixando Júlio em dúvida sobre quais atividades
+estaria desempenhando caso fosse selecionado para tal vaga.
+
+Considerando a descrição da vaga que intrigou Júlio, é correto afirmar que o ocupante da vaga:
+
+a) deve tratar diretamente com questões relacionadas com o ambiente externo à organização,
+como concorrentes diretos.
+
+b) deve ter o status de gerente, sendo encarregado da tomada de decisões que impactam a
+organização no longo prazo.
+
+c) deve cuidar de questões de caráter rotineiro, coordenando adequadamente um
+departamento.
+
+d) deve lidar com os problemas de cada unidade de negócios, assumindo o papel de diretor de
+cúpula.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+e) deve atuar na função de supervisor, cuidando da execução adequada das tarefas
+programadas.
+
+    3) FGV – Analista em Gestão Municipal (Prefeitura de SJC) / 2024
+
+Entre as funções administrativas, aquela que possibilita o monitoramento das ações estratégicas
+e operacionais sobre ações programadas e executadas, permitindo ações corretivas nos casos
+em que os objetivos e metas organizacionais não estejam dentro de parâmetros pré-
+estabelecidos, é o(a)
+
+a) Controle.
+
+b) Comando.
+
+c) Organização.
+
+d) Coordenação.
+
+e) Planejamento.
+
+    4) FGV – Analista Administrativo (TJ SC) - 2024
+
+Em todas as áreas funcionais de uma empresa, os administradores exercem as funções
+administrativas, que correspondem às etapas do processo administrativo: planejar, organizar,
+dirigir e controlar. Considere as afirmativas a seguir sobre algumas atividades gerenciais e as
+funções administrativas.
+I. A implementação de políticas de gestão participativa está relacionada à função direção.
+II. A aplicação de recursos financeiros está relacionada à função planejamento.
+III. A definição da estrutura de cargos e salários está relacionada à função organização.
+IV. A avaliação de desempenho dos funcionários está relacionada à função direção.
+Está correto o que se afirma em:
+a) I e III, apenas;
+b) I e IV, apenas;
+c) II e III, apenas;
+d) II, III e IV, apenas;
+e) I,II, III e IV.
+
+
+    5) FGV – Auditor de Controle Externo (TCE-PA) / 2024
+
+O processo administrativo abrange planejamento, organização, direção e controle. O
+planejamento define objetivos e estratégias; a organização estrutura recursos e atividades; a
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+direção lidera e motiva as equipes; e o controle monitora o desempenho, ajustando conforme
+necessário para garantir o sucesso organizacional.
+
+Assinale a base de atuação da função de ideias
+
+a) Organização.
+b) Controle.
+c) Planejamento.
+d) Direção.
+e) Retroação.
+
+
+    6) FGV – Auditor de Contas Públicas (CGE PB) - 2024
+
+É muito comum nas organizações que o exercício das funções de direção dependa de
+habilidades e da capacidade de desempenhar determinados papéis. Em diversos momentos, o
+gestor principal deve ser capaz de atuar como representação simbólica e referência que provê
+direção aos subordinados e constrói uma rede de relações.
+O gestor em questão é demandado a desempenhar um papel do tipo
+a) monitor;
+b) decisório;
+c) negociador;
+d) interpessoal;
+e) informacional.
+
+
+    7) FGV – Analista Judiciário (TJ AP) - 2024
+
+João é líder de uma equipe de dez funcionários na organização em que trabalha. Ele acaba de
+ser informado dos resultados de sua avaliação anual de desempenho, tendo recebido notas altas
+nos quesitos: capacidade de compartilhar informação relevante com os subordinados;
+capacidade de organizar o trabalho dos funcionários em função das metas da equipe;
+capacidade de identificar oportunidades e novos projetos relevantes.
+
+João foi bem avaliado no desempenho dos seguintes papéis organizacionais, respectivamente.
+
+a) porta-voz; empreendedor; líder;
+
+b) disseminador; administrador de recursos; empreendedor;
+
+c) porta-voz; elemento de ligação; empreendedor;
+
+d) disseminador; administrador de recursos; líder;
+
+e) elemento de ligação; monitor; empreendedor.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    8) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+
+Com relação aos principais papéis exercidos pelos administradores nas organizações, assinale a
+afirmação correta:
+a) A atuação na construção de alianças e redes de contatos em diferentes âmbitos representa o
+papel de alocador de recursos.
+b) A atuação como representante da organização nas atividades de natureza cerimonial e sociais
+se refere ao papel do monitor.
+c) A atuação no planejamento de mudanças organizacionais, assumindo riscos na promoção de
+novas ideias representa o papel de empreendedor.
+d) A atuação na coleta de informações relevantes que podem impactar os objetivos da
+organização se enquadra no papel de porta-voz.
+e) A atuação na administração de crises inesperadas e disputas internas tem relação com o papel
+de símbolo.
+
+
+    9) FGV – Assistente Técnico de Regulação (AGENERSA) - 2023
+
+A escola da Administração Científica sofreu muitas críticas por impor uma visão mecanicista na
+organização, alienando os operários por meio da superespecialização das tarefas. Apesar de
+essas críticas serem válidas, alguns de seus fundamentos, mesmo visando a interesses
+econômicos, ajudaram a melhorar o trabalho e a vida dos trabalhadores.
+Assinale a opção que apresenta um desses fundamentos:
+a) O fortalecimento dos processos de integração e criação de grupos informais.
+b) A ênfase no conteúdo e na importância contextual das tarefas do cargo.
+c) O estabelecimento de condições ambientais de trabalho que garantam o bem-estar do
+trabalhador.
+d) O pagamento por meio de recompensas mistas, incluindo as materiais e as simbólicas.
+e) A aplicação da metodologia dos sistemas abertos, por meio da interação dos operários com
+os clientes diretos e indiretos.
+
+
+    10) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+
+A Teoria Clássica da Administração emergiu como um marco no início do século XX,
+introduzindo abordagens inovadoras destinadas a aprimorar a eficiência produtiva da época. Seu
+foco estava na otimização da estrutura organizacional e na definição clara das funções
+administrativas, que deveriam ser desempenhadas pelos gestores, guiadas por princípios
+específicos.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Com relação aos princípios gerais propostos por essa teoria, é correto afirmar que a teoria
+preconiza
+
+a) o espírito de equipe, definido pela harmonia entre os colaboradores, com melhora do
+desempenho organizacional.
+b) a intensificação, que busca a redução do tempo de produção por meio do uso maximizado de
+equipamentos e mão-de-obra.
+c) o estudo dos tempos e movimentos, que consiste na análise das atividades buscando a
+eliminação de ações desnecessárias.
+d) a supervisão funcional, estabelecendo que os colaboradores devem receber ordens de vários
+supervisores diferentes.
+e) a contingência pontual, que entende não existir uma maneira ideal de alcançar um objetivo,
+mas diversas formas satisfatórias.
+
+
+    11) FGV – Analista Técnico (AGENERSA) - 2023
+
+A Teoria Clássica das Organizações tinha como foco melhorar a eficiência na produção fabril.
+Embora possuísse o mesmo objetivo da Administração Científica, acreditava em formas
+diferentes de alcançá-lo.
+Acerca das diferenças entre a Teoria Clássica e a da Administração Científica, assinale a
+afirmativa correta
+a) A primeira foca na definição das tarefas, enquanto a segunda em aspectos da estrutura
+organizacional.
+b) A primeira utiliza uma abordagem global e sintética, enquanto a segunda segue uma
+abordagem analítica e concreta.
+c) A primeira aborda o ideal do homem social, enquanto a segunda o do homem econômico.
+d) A primeira se pauta no modelo orgânico da administração, enquanto a segunda no modelo
+mecanicista.
+e) A primeira utiliza-se apenas de recompensas materiais como forma de retribuição aos
+funcionários, enquanto a segunda prioriza as simbólicas.
+
+
+    12) FGV – Analista Técnico (AGENERSA) - 2024
+
+A Teoria Clássica das Organizações tinha como foco melhorar a eficiência na produção fabril.
+Embora possuísse o mesmo objetivo da Administração Científica, acreditava em formas
+diferentes de alcançá-lo.
+Acerca das diferenças entre a Teoria Clássica e a da Administração Científica, assinale a
+afirmativa correta
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+a) A primeira foca na definição das tarefas, enquanto a segunda em aspectos da estrutura
+organizacional.
+b) A primeira utiliza uma abordagem global e sintética, enquanto a segunda segue uma
+abordagem analítica e concreta.
+c) A primeira aborda o ideal do homem social, enquanto a segunda o do homem econômico.
+d) A primeira se pauta no modelo orgânico da administração, enquanto a segunda no modelo
+mecanicista.
+e) A primeira utiliza-se apenas de recompensas materiais como forma de retribuição aos
+funcionários, enquanto a segunda prioriza as simbólicas.
+
+
+    13) FGV – Técnico de Gestão Administrativa (ALEMA) - 2023
+
+A escola de relações humanas, embora tenha tido diversas influências como fontes para a sua
+elaboração, teve como principal impulso os resultados da pesquisa realizada em uma fábrica
+americana, pelo cientista Elton Mayo, que ficou conhecida como experiência de Hawthorne.
+
+Com relação a essa escola teórica da administração, assinale a afirmativa correta
+
+a) Trouxe o conceito de “homem complexo” na relação com os funcionários.
+
+b) Passou a valorizar mais os incentivos financeiros como elementos motivacionais.
+
+c) Deu luz à importância dos grupos informais presentes na organização.
+
+d) Apresentou a importância da estrutura de cargos na eficiência produtiva.
+
+e) Concluiu que a intensificação do trabalho, por meio da linha de montagem móvel, permite o
+aumento salarial dos colaboradores.
+
+    14) FGV – Oficial da Polícia Militar (PM PB) - 2021
+
+As disfunções da burocracia podem ser entendidas como um conjunto de consequências não
+previstas no modelo burocrático que levam a ineficiências e outros problemas para a gestão,
+quando seus princípios são aplicados.
+
+Entre as disfunções da burocracia, podem-se elencar:
+
+a) formalismo excessivo;
+
+b) canais de comunicação limitados;
+
+c) criação de uma cultura tecnocrática voltada à destruição criativa;
+
+d) descentralização e perda de controle das decisões estratégicas;
+e) atenção às demandas de coalizões externas, com perda do foco nos processos internos.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+    15) FGV – Analista Judiciário (TJ AP) - 2024
+
+As ideias e concepções acerca do ser humano evoluem ao longo do desenvolvimento do
+pensamento administrativo, iniciando-se com o conceito de homo economicus da Administração
+Científica.
+
+O estruturalismo, corrente que abriga autores como Merton, Blau e outros, apoia-se em uma
+visão do ser humano caracterizado, entre outros aspectos, como flexível, resistente à frustação,
+capaz de adiar recompensas e com desejo permanente de realização.
+
+Esse conceito de ser humano é conhecido como homem:
+
+a) funcional;
+
+b) complexo;
+
+c) organizacional;
+
+d) social;
+
+e) administrativo.
+
+    16) FGV – Analista Legislativo (CM de Fortaleza) - 2024
+
+A Teoria Comportamental ou Behaviorista surgiu como um movimento crítico a determinadas
+teorias da administração, a exemplo da Teoria das Relações Humanas, que considerava ingênua
+e pouco realista.
+
+ Acerca da Teoria Comportamental, é correto afirmar que ela trouxe uma concepção conhecida
+como
+
+a) Homem Econômico.
+
+b) Homem Isolado.
+c) Homem Complexo.
+
+d) Homem Administrativo.
+
+e) Homem Social
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 00
+
+Gabarito
+
+ 1        2       3      4       5       6       7      8       9      10     11      12   13   14   15   16
+
+ B        E       A      A       C       D      B       C       C      A       B       B   C    A    C    D
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+---

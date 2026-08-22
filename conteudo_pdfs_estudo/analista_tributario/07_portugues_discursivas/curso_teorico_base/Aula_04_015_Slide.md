@@ -1,0 +1,1811 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 04_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Curso Completo de Português
+---
+
+# Curso Completo de Português
+
+---
+
+---
+
+Curso Completo de Português
+as novas perspectivas da FGV
+                                              Profª. Adriana Figueiredo
+
+         
+
+
+---
+
+                           CADERNO 3
+
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+             PRONOMES DEMONSTRATIVOS
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+               PRONOMES DEMONSTRATIVOS
+
+PRONOME    NO ESPAÇO                    NO TEMPO          NO TEXTO
+
+ISTO,      Apontam para    o Momento presente.            Apontam para
+ESTE(s),   que está perto do Ex.: Estes dias              uma informação que
+ESTA(s)    falante.           têm sido                    virá   adiante  no
+                              agradáveis.                 texto.
+           Ex.: Este material
+           aqui é meu.        Momento futuro              Ex.: Este
+                              próximo.                    número é a
+                              Ex.: Nestas                 dica do teste –
+                              férias viajarei.            sete.
+
+                               Prof. Adriana Figueiredo
+                   
+
+
+---
+
+               PRONOMES DEMONSTRATIVOS
+
+PRONOME    NO ESPAÇO                    NO TEMPO          NO TEXTO
+
+ISSO,      Apontam para      o Passado não                Indicam uma
+ESSE(s),   que está perto do   distante.                  informação que já
+ESSA(s)    ouvinte.                                       apareceu no texto.
+                               Ex.: Nesse domingo
+           Ex.: Esse material fui ao Maracanã.            Ex.: “Dois” –
+           aí é meu.                                      Esse número é
+                                                          a dica do teste.
+
+                               Prof. Adriana Figueiredo
+                   
+
+
+---
+
+                 PRONOMES DEMONSTRATIVOS
+
+PRONOME      NO ESPAÇO                    NO TEMPO          NO TEXTO
+
+AQUILO,      Apontam ao que Passado ou futuro               Com dois
+AQUELE(s),   está distante de distante.                     antecedentes:
+AQUELA(s).   ambos.                                         “Este” para o mais
+                                 Ex.: Aquelas férias        próximo; “Aquele”
+             Ex.: Aquele         de 2000/2050               para o mais distante.
+             material ali é meu. foram/serão
+                                 maravilhosas.              Ex.: José e João
+                                                            estudaram. Este
+                                                            (João)/ Aquele
+                                                            (José) foi aprovado.
+
+                                 Prof. Adriana Figueiredo
+                     
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+I. Complete as lacunas com os demonstrativos adequados.
+
+1.________________ livro que estás lendo é infantil?
+
+
+2. Não. ________________ livro que estou lendo é sobre política.
+
+
+3. Guilherme, traga-me ________________ CD que ficou lá no seu quarto.
+
+
+4. Guilherme, dê-me ________________ CD que está aí.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+5. “Qual é a relação entre dialética e retórica? A ________________ pergunta
+Aristóteles responde desde a primeira frase do seu livro.”
+
+6. ________________ é a pergunta que Aristóteles responde desde a primeira frase
+do seu livro: qual é a relação entre dialética e retórica?
+
+7. Ao comparar os diversos rios do mundo com o Amazonas, defendia com
+azedume e paixão a proeminência ________________ sobre cada um
+________________.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+8. Atentem para ________________: o que se guarda no coração jamais se
+esquece.
+
+9. Homens e mulheres participaram das festividades. ________________,
+simpáticas e elegantes. ________________, sérios e tímidos.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+01. FGV - 2021 - IMBEL - Cargos de Nível Médio
+Segundo a norma culta, assinale a frase em que o demonstrativo sublinhado está
+bem empregado.
+
+A) “Nada é gratuito nesse mundo em que vivemos.”
+
+B) “É preciso sempre desculpar-se por ter agido bem – nada fere mais do que isso.”
+
+C) “Marido e mulher amavam os hóspedes, porque sem aqueles acabavam
+brigando.”
+
+D) “Isto que é estrangeiro tem sempre uma aparência aristocrática para nós.”
+
+E) “Não quero que as pessoas sejam muito gentis; isto me poupa do trabalho de
+gostar muito delas.”
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+A frase em que os pronomes demonstrativos estão adequadamente empregados é:
+
+
+A) Perto de minha casa havia um parque de diversões; este parque foi importante
+na minha infância;
+
+B) Nas comunidades, muitas das casas são pintadas de cores bastante vivas;
+aquelas cores chamam a atenção de todos;
+
+C) Na Antiguidade, os deuses eram venerados dentro de casa; naqueles tempos as
+coisas eram muito diferentes;
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+D) João e Maria chegaram ao mesmo tempo à festa; este de carro, aquele de
+ônibus;
+
+E) Estou agora diante da porta do cinema; aquela porta foi construída há pouco
+tempo.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+03. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+Também pode evitar-se a repetição de palavras idênticas, substituindo a segunda
+ocorrência do vocábulo por um pronome demonstrativo; a frase abaixo em que isso
+foi feito de forma adequada é:
+
+A) Amazonas e Sergipe são estados brasileiros; este tem enorme território e aquele,
+pequeno;
+
+B) Meu carro é mais elegante que esse que você está comprando;
+
+C) Teu jornal abordou o tema de forma interessante, mas aquele, em minhas mãos,
+é mais justo;
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+D) Brasil e Rússia jogaram várias vezes, mas aqueles jogos nunca foram violentos;
+
+E) O terremoto de Lisboa foi violentíssimo, mas aquele de agora matou mais gente.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+04. FGV - DPE-RO - Técnico da Defensoria Publica - Técnico em
+Contabilidade
+
+“O programa de medicamentos genéricos, criado no Brasil em 1999 com a
+promulgação da Lei 9787, se deu três anos após o país voltar a respeitar o direito de
+patentes, em 1996. Após apenas 4 anos da criação dessa lei, os genéricos já se
+encontravam disponíveis em mais de 4 mil apresentações, abrangendo as principais
+classes terapêuticas, atendendo a mais de 60% das necessidades de prescrições
+médicas.”
+
+“Após apenas 4 anos da criação dessa lei, os genéricos já se encontravam
+disponíveis em mais de 4 mil apresentações,...".
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+04. FGV - DPE-RO - Técnico da Defensoria Publica - Técnico em
+Contabilidade
+
+Nesse segmento do texto, o emprego da forma ESSA é justificado pelo mesmo
+motivo que aparece corretamente no seguinte segmento:
+
+A) os genéricos e os remédios de marca estão disponíveis no mercado e tanto esses
+quanto aqueles são bastante úteis;
+
+B) os genéricos possuem preços mais baixos e essa novidade fez com que seu
+consumo aumentasse;
+
+C) em 1999 apareceu esse produto novo: os remédios genéricos foram criados;
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+04. FGV - DPE-RO - Técnico da Defensoria Publica - Técnico em
+Contabilidade
+
+D) artrite, rinite e estomatite são inflamações; esta, essa e aquela podem ser
+combatidas por remédios genéricos;
+
+E) não me venha com essa história de os remédios genéricos não serem tão
+eficazes.
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+                      PRONOMES RELATIVOS
+
+
+              1 REFERENTE                       O fumo é prejudicial à saúde. Esse hábito já foi
+                                                        comprovado pelos cientistas.
+
+OBSERVAÇÕES   2 REFERENTES                 Machado de Assis e Carlos Drummond de Andrade
+IMPORTANTES                               são dois grandes nomes da literatura brasileira. Este
+                                            é conhecido por suas poesias, aquele, por seus
+                                                              romances.
+
+
+              3 REFERENTES                Na família, três irmãos se destacam – Pedro, Marcos
+                                             e João. Este por ser brincalhão, aquele por ser
+                                                estudioso e o terceiro, por ser prestativo.
+                                  Prof. Adriana Figueiredo
+                      
+
+
+---
+
+05. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+TEXTO 3
+
+      Um dos grandes problemas enfrentados pelos moradores das grandes
+cidades brasileiras é a deficiente infraestrutura de transportes. As pessoas
+demoram muito tempo para se deslocarem, sem condições mínimas de conforto,
+tendo muitas vezes que encarar longas distâncias em pé, em ônibus lotados.
+
+       Este problema tem origem em meados do século XX, quando o Brasil passou
+por um processo de industrialização que aconteceu de forma rápida e
+descontrolada. Houve migração muito grande de pessoas para as cidades, o que
+levou à supervalorização do preço dos terrenos e imóveis.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+O segundo parágrafo do texto 3 se inicia com o pronome este, em referência a um
+termo anterior, podendo ser substituído por esse.
+
+
+A única frase abaixo em que os demonstrativos empregados mostram a utilização
+adequada é:
+
+A) Ônibus e trens são transportes urbanos; esses mais demorados que aqueles;
+
+B) Automóveis, trens e ônibus são transportes das grandes cidades; estes menos
+caros que esses;
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+C) Automóveis, trens e ônibus são transportes urbanos; estes menos rápidos; esses
+mais velozes e aqueles mais caros;
+
+D) Automóveis e ônibus são transportes urbanos; estes mais populares e aqueles
+para minorias;
+
+E) Automóveis, trens e ônibus são transportes urbanos; estes, esses e aqueles
+igualmente desconfortáveis.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+06. FGV - 2021 - TCE-PI - Assistente de Administração
+
+“Antes que comecem os mimimis, um aviso: não tenho absolutamente nada contra
+aqueles que fumam.”
+
+Nesse primeiro segmento do texto 2, o autor usa adequadamente o demonstrativo
+aqueles, referindo-se a pessoas indeterminadas; a frase abaixo em que o emprego
+dos demonstrativos se mostra adequado é:
+
+A) João e Pedro são fumantes; este, de cigarros; esse, de charutos;
+
+B) João, Pedro e Fernando são fumantes; este, de cigarros; esse, de cachimbo e
+aquele, de charutos;
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+06. FGV - 2021 - TCE-PI - Assistente de Administração
+
+C) João e Maria são fumantes; esta, de cigarros; aquele, de charutos;
+
+D) Maria e Fernando são fumantes; este, de charutos; aquele, de cigarros;
+
+E) João, Pedro e Maria são fumantes; esta, de cigarros; esse, de charutos e aquele,
+de cachimbo.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                    PRONOMES DEMONSTRATIVOS
+                                                                  “As mulheres intensificaram
+                                                                  sua participação no mercado
+                                            ANÁFORA
+                                                                  de trabalho. Há várias razões
+                                                                           para isso.”
+              ENDOFÓRICO
+
+                                                                   Na América Latina, esta é a
+  FUNÇÃO                                                             realidade da maioria dos
+TEXTUAL DOS                                CATÁFORA               países: degradação ambiental,
+ PRONOMES                                                          desemprego, problemas de
+                                                                           saneamento.
+
+                                            Naquela sala estão os alunos.
+              EXOFÓRICO
+                                          Este mês está passando rápido.
+                                       Prof. Adriana Figueiredo
+                           
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+II. Classifique os pronomes em destaque segundo a função textual que
+eles desempenham, com a ajuda do código abaixo:
+
+(a) função anafórica
+(b) função catafórica
+(c) função exofórica
+
+
+A) Este sempre foi seu objetivo – a aprovação.
+
+
+B) “Salvo disposição especial deste código e não tendo sido ajustado da época para
+o pagamento, o credor pode exigi-lo imediatamente.”
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+C) “A cessão de crédito não vale em relação ao devedor, senão quando a este
+notificada [...]
+
+
+D) “Cabe ao juiz suprir a outorga da mulher, quando esta a denegue sem motivo
+justo…”
+
+
+E) Este país não tem mais jeito, é o que repetem usualmente nossos conterrâneos.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+07. FGV - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+
+Texto 2 – Intercâmbio de alimentos
+
+      A chegada dos europeus à América foi o começo de uma das transformações
+mais revolucionárias nos hábitos alimentares dos seres humanos.
+
+       Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos
+nativos americanos, por isso trouxeram consigo plantas e animais de sua terra
+natal. Todavia, os espanhóis enviavam à Europa todos os alimentos exóticos que os
+nativos lhes ofereciam para, de alguma forma, apaziguar a Coroa pelas dificuldades
+que tinham de encontrar os tão desejados metais preciosos.
+
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+07. FGV - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+
+Progressivamente, por meio dessa troca entre América e Europa, a flora e a fauna
+de ambos os continentes foram modificadas, pois diversas plantas e animais
+adaptaram-se aos novos climas. Com isso, a dieta dos habitantes das duas regiões
+foi enriquecida.
+
+Observe os três segmentos abaixo, retirados do texto 2.
+
+“por isso trouxeram consigo plantas e animais de sua terra natal”
+
+“Progressivamente, por meio dessa troca entre América e Europa...”
+
+“Com isso, a dieta dos habitantes das duas regiões foi enriquecida”.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+
+Nessas ocorrências, os pronomes demonstrativos empregados:
+
+
+A) têm sempre por antecedente uma oração;
+
+B) referem-se sempre a termos imediatamente anteriores;
+
+C) mostram sempre referências a um de dois termos citados;
+
+D) prendem-se sempre a elementos distantes no tempo;
+
+E) ligam-se semanticamente a elementos já citados.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+08. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+Os pronomes pessoais podem mostrar valor anafórico (quando se referem a algo já
+presente no texto) ou dêitico (quando se referem a elementos da situação de
+comunicação).
+
+A opção em que o pronome sublinhado tem valor dêitico é:
+
+A) O pagamento, não se deve esperá-lo para tão cedo.
+B) Os maridos cuidam das mulheres quando elas adoecem.
+C) Quem disse isso? Você?.
+D) Trabalhar é duro, mas eu o faço com prazer
+E) Você acha que é esperto, João?
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+09. FGV - AL-RO - Advogado
+
+“No primeiro semestre deste ano, 80 mil alunos deixaram de ingressar em
+faculdades particulares de todo o país...”
+
+Assinale a opção em que o emprego do pronome demonstrativo sublinhado tem o
+mesmo valor do apresentado no segmento inicial.
+
+A) Muitos alunos deixaram de matricular-se em 2018; este dado se torna
+preocupante.
+
+B) Esta semana o Globo publicou uma notícia preocupante sobre as matrículas em
+universidades privadas.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+09. FGV - AL-RO - Advogado
+
+C) Rio, Minas Gerais e Espírito Santo são estados onde houve redução do número
+de matrículas e neste último estado a situação/o é mais grave.
+
+D) Neste texto da prova, o jornal mostra preocupação com a redução de calouros
+nas universidades privadas.
+
+E) Na terceira semana de julho o jornal publicou uma notícia sobre matrículas
+universitárias; neste momento a preocupação era grande com a redução do
+número de calouro.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+                           INTERPRETAÇÃO
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+RECORRÊNCIA
+     É o que se chama de Compreensão de Textos, a modalidade mais comum em provas de
+concurso. Nesses casos, os candidatos devem ser capazes de identificar a paráfrase, ou seja,
+aquilo que está no texto, mas escrito de outra forma nas respostas.
+
+
+     Os enunciados de recorrência costumam vir com as seguintes expressões: “segundo o texto/o
+autor ......”, “compreende-se no texto ...”, “a frase significa...”, “o autor do texto informa...”, “o
+texto diz...”, “a ideia presente no texto...”, “a alternativa que exemplifica a informação...” etc.
+
+                                                Prof. Adriana Figueiredo
+                                    
+
+
+---
+
+3 PASSOS PARA RESPONDER A UMA QUESTÃO DE RECORRÊNCIA
+
+
+1. LOCALIZE NO TEXTO O QUE BUSCA O COMANDO DO ENUNCIADO;
+
+
+2. COMPREENDA A INFORMAÇÃO E OS SEUS ARREDORES (CONTEXTO);
+
+
+3. BUSQUE A MELHOR ALTERNATIVA QUE REESCREVA AQUILO QUE VOCÊ LEU NO
+TEXTO.
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+             QUESTÕES DE CONCURSO
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                 SEGUNDO O AUTOR/FRAGMENTO/PENSAMENTO
+
+                     O AUTOR/O PENSAMENTO NOS DIZ QUE
+
+
+                       ESSA FRASE/ O AUTOR RECOMENDA
+MAPEAMENTO
+ENUNCIADOS DE
+ RECORRÊNCIA    ASSINALE A AFIRMATIVA ADEQUADA/INADEQUADA
+                                SOBRE O TEXTO
+
+
+                A MENSAGEM CONTIDA NO TEXTO SE REPETE EM/ A
+                       FRASE QUE EXEMPLIFICA O TEXTO
+
+                                   Prof. Adriana Figueiredo
+                     
+
+
+---
+
+              Toda vez que nas alternativas a banca disser “se refere
+OBSERVAÇÃO
+             a”, a informação estará dentro do texto (referenciação).
+IMPORTANTE    Não se trata, portanto, de uma questão de inferência.
+
+                                Prof. Adriana Figueiredo
+                  
+
+
+---
+
+10. FGV - 2022 - IBGE - Recenseador
+
+Um escritor francês compôs o seguinte pensamento: “No fim do dia, não lhes
+perguntaram o que tinham pensado, mas o que tinham feito”.
+
+Nesse caso, segundo esse autor,
+
+A) as ações são mais importantes que os pensamentos.
+B) todos devemos trabalhar todos os dias.
+C) é necessário pensar antes de agir.
+D) ações sem reflexão são perigosas.
+E) pensar e agir são ações simultâneas.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. FGV - 2021 - IMBEL - Analista Especializado - Analista Administrativo
+- Reaplicação
+“Os gênios são aqueles que dizem muito antes o que se dirá muito depois.”
+Ramón Gómez De La Serna, escritor espanhol.
+
+Segundo esse fragmento, os gênios são aqueles que mostram a capacidade de
+
+A) analisar fielmente os dados.
+B) antecipar pensamentos futuros.
+C) demonstrar a verdade do que pensam.
+D) prever acontecimentos que ainda vão ocorrer.
+E) indicar com precisão a localização da verdade.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+12. FGV - 2021 - FUNSAÚDE - CE - Médico
+“Não há nada que demonstre tão bem a grandeza e a potência do intelecto
+humano, nem a superioridade e a nobreza do homem, como o fato de ele poder
+conhecer, compreender por completo e sentir fortemente a sua pequenez”.
+
+Segundo esse pensamento, o valor máximo da inteligência humana está em:
+
+A) Demonstrar a grandeza e a potência do homem;
+B) Mostrar a superioridade do homem sobre os demais animais;
+C) Reconhecer as limitações do ser humano;
+D) Poder conhecer e compreender tudo por completo;
+E) Equilibrar as nossas potências racionais e afetivas.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+13. FGV - 2022 - CBM-AM - 2º Tenente do Corpo de Bombeiros Militar
+Um conhecido jogador de futebol, negro, foi entrevistado na França onde lhe
+perguntaram se no Brasil havia racismo; sua resposta foi: “Não; no Brasil, onde
+preto não entra, branco pobre também não entra”. A frase demonstra haver no
+Brasil, segundo ele,
+
+(A) racismo.
+(B) preconceito linguístico.
+(C) homofobia.
+(D) preconceito social.
+(E) intolerância religiosa.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+14. FGV – 2022 – PM SP - SOLDADO PM DE 2ª CLASSE DO QUADRO DE
+PRAÇAS DE POLÍCIA MILITAR
+
+“Em 2018, o Japão recebeu 31,2 milhões de visitantes estrangeiros.”
+
+A frase final do Texto III
+
+(A) critica o grande número de visitantes estrangeiros.
+(B) indica a necessidade de limitar o número de visitantes.
+(C) sugere que o Japão trata bem os turistas.
+(D) mostra a importância do turismo para o Japão.
+(E) denuncia a falta de efetividade das leis japonesas.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+15. FGV - 2021 - IMBEL - Cargos de Nível Fundamental
+
+Use seu cérebro!
+Não use drogas!
+
+Com essas palavras, o autor nos diz que
+
+A) quem é inteligente não se droga.
+B) estude as drogas antes de usá-las.
+C) pense bem para deixar o vício das drogas.
+D) só as pessoas mal-informadas usam drogas.
+E) as drogas afetam prejudicialmente o cérebro.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+16. FGV - 2021 - FUNSAÚDE - CE - Assistente Administrativo
+
+“Como a doença amplia as dimensões internas do homem!”
+
+Esse pensamento nos diz que o homem deve encarar a doença como
+
+A) fase de solidariedade.
+B) momento de precaução.
+C) fase de depressão.
+D) período de descanso.
+E) momento de reflexão.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+17. FGV - 2022 - IBGE - Recenseador
+
+Um filósofo disse: “Como saber tudo sem envelhecer?”
+
+Com essa frase, esse filósofo nos diz que
+
+A) a experiência de vida tudo ensina.
+B) a longa vida permite mais estudo.
+C) a velhice favorece a reflexão.
+D) a idade avançada nos ensina paciência.
+E) saber tudo é impossível.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+18. FGV - 2022 - Prefeitura de Manaus - AM - Condutor de Ambulância
+
+“O doutor Riso e o doutor Sono são os dois melhores médicos que existem.”
+
+Essa frase recomenda que as pessoas
+
+A) procurem dormir em bom estado de espírito.
+B) sigam à risca as recomendações médicas.
+C) mantenham o bom humor e durmam o necessário.
+D) busquem divertir-se e acordem cedo.
+E) consultem os médicos certos para suas doenças.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+19. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+
+“Comece fazendo o que é necessário, depois o que é possível e de repente você
+estará fazendo o impossível.”
+
+Essa frase de São Francisco de Assis nos recomenda que:
+
+A) desconfiemos daqueles que nos desestimulam;
+B) tentemos sempre o impossível;
+C) procuremos avançar com persistência;
+D) sigamos sempre em direção à verdade;
+E) façamos sempre o que estiver a nosso alcance.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+20. FGV - 2021 - SEFAZ-ES - Auditor Fiscal da Receita Estadual - Tarde
+No fragmento a seguir, há uma série de conselhos implícitos.
+
+“Assim como é boa economia guardar um pão para a velhice, assim também é de
+boa prática social acautelar um ofício para a hipótese de que outros falhem, ou não
+indenizem suficientemente o esforço de nossa ambição.” ASSIS, Machado de.
+Teoria do Medalhão, Gazeta de Notícias. RJ. 1881.
+
+Assinale a opção que apresenta o conselho que não faz parte dessa série.
+
+A) Devemos ter prudência nos gastos.
+B) Devemos economizar para mais tarde.
+C) Devemos investir em nossas relações sociais.
+D) Devemos sempre procurar melhores remunerações.
+E) Devemos estar preparados para mudanças profissionais.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+21. FGV - 2021 - IMBEL - Cargos de Nível Fundamental
+Um cartaz mostrava o seguinte:
+
+“O seu filho quer duas gotinhas da sua atenção.
+Vacine seu filho menor de 5 anos contra a paralisia infantil!”
+
+Sobre os termos desse cartaz, assinale a afirmativa inadequada.
+
+A) As palavras do cartaz são dirigidas aos pais.
+B) Todos os menores de 5 anos devem ser vacinados.
+C) A finalidade da vacina é o combate à paralisia infantil.
+D) “seu filho” indica que só os meninos recebem a vacina.
+E) “duas gotinhas” se refere à quantidade da vacina aplicada.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+22. FGV - 2022 - SSP-AM - Assistente Operacional
+“A segurança pública é um direito humano fundamental, essencial à preservação
+da vida e à garantia de direitos. Portanto, independentemente de condição social,
+econômica, política, filosófica, a todo ser humano lhe é assegurado o direito de
+viver em segurança.”
+
+Assinale a afirmação correta sobre o conteúdo desse texto.
+
+(A) A segurança pública é uma causa da existência dos direitos humanos.
+(B) Os direitos humanos diferem em função das condições sociais dos cidadãos.
+(C) Entre os direitos humanos fundamentais está a segurança de todos.
+(D) A segurança pública garante a todos o direito à vida.
+(E) Os direitos sociais, econômicos, políticos e filosóficos são garantidos pela
+segurança pública.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+23. FGV - 2021 - FUNSAÚDE - CE - Técnico de Enfermagem
+
+“A Agência Nacional de Vigilância Sanitária (Anvisa) – parece nome de cartão de
+crédito – tomou a iniciativa de modificar as regras para a redação das bulas dos
+remédios. Que os laboratórios chamem profissionais que saibam escrever.”
+Deonísio da Silva, A língua nossa de cada dia.
+
+Sobre esse pequeno fragmento, assinale a afirmativa correta.
+
+A) O termo “profissionais” se refere a médicos.
+B) As bulas trazem muitos erros de língua portuguesa.
+C) As bulas e os cartões de crédito são muito utilizados.
+D) A Anvisa e os laboratórios pretendem modificar as bulas.
+E) Os laboratórios devem contratar redatores competentes.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+24. FGV - 2022 - PM-AM - Aluno Soldado da Polícia Militar
+
+“Ao entrar em um restaurante, todo cliente espera satisfazer desejos de ordem
+física e emocional. Os cardápios devem vir ao encontro dessas necessidades.”
+
+Assinale a afirmativa correta sobre o conteúdo da frase.
+
+A) Os desejos de ordem física dizem respeito à fome do cliente.
+B) Os desejos de ordem emocional se referem aos preços dos pratos.
+C) As informações dos cardápios devem incentivar o apetite.
+D) Os clientes de restaurantes procuram comida boa e barata.
+E) Os restaurantes montam cardápios deficientes em alguns aspectos.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+25. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+Observe o seguinte texto, de autoria de um conhecido sociólogo contemporâneo:
+“A moda satisfaz ao mesmo tempo o desejo de reunião com os outros, e o do
+isolamento, da diferenciação. O indivíduo na moda se sente diferente, original, e,
+ao mesmo tempo, objeto da aprovação do maior número de pessoas, que se
+comportam como ele”. Sobre os componentes estruturais desse segmento, a
+afirmação adequada é:
+
+(A) o desejo de reunião com os outros se explica pela necessidade de ser admirado
+pelos que mostram comportamento diferente do seu;
+
+(B) o texto reflete o ponto de vista de um sociólogo porque destaca o pensamento
+íntimo da pessoa que está na moda;
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+25. FGV - 2022 - CGU - Auditor Federal de Finanças e Controle
+
+(C) a pessoa que está na moda é vista como insegura em suas convicções, pois
+necessita socialmente da aprovação alheia;
+
+(D) a característica essencial da moda é a contradição aparente entre o isolamento
+e a interação;
+
+(E) a moda é vista, no texto, como algo fútil e de reduzida importância na vida
+humana.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+26. FGV - 2022 - PMAM - Oficial de Saúde - Enfermagem
+
+“Não pergunte nem como nem por quê, simplesmente aproveite seu sorvete
+enquanto ele ainda está no prato.”
+
+O tema desse texto se repete no seguinte ditado popular:
+
+A) Quem tudo quer, tudo perde.
+B) Mais vale um pássaro na mão, que dois voando.
+C) Nem tudo que reluz é ouro.
+D) Não deixe para amanhã o que pode fazer hoje.
+E) Comeu o pão que o diabo amassou.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+27. FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+
+"Quem alguma vez já teve a fama de acordar cedo pode permitir-se dormir até o
+meio-dia.“
+
+A ideia desse pensamento se repete no seguinte ditado:
+
+A) Deus ajuda a quem cedo madruga;
+B) No quintal do vizinho, a grama é sempre mais verde;
+C) Não há mal que sempre dure;
+D) Quem bem faz a cama, dorme nela;
+E) Nada como um dia depois do outro.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+28. FGV - 2021 - PC RJ - Perito Legista
+
+O termo misantropia é definido no dicionário de Aurélio Buarque de Holanda, p.
+1338, como "aversão à sociedade, aos homens".
+
+  A frase abaixo que poderia exemplificar esse sentimento é:
+
+(A) "O inferno são os outros." (Sartre)
+(B) "Morte a todos os fanáticos!" (anônimo)
+(C) "Deus deve amar os medíocres. Fez muitos deles." (Abraham Lincoln)
+(D) "A única maneira de ter amigos é ser amigo." (Emerson)
+(E) "Do nada, nada vem e ao nada, nada pode reverter." (Pérsio)
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+29. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+“Sabedoria é saber o que fazer; virtude é fazer.”
+
+A mensagem contida nesse pensamento, é:
+
+
+(A) mais vale o conhecimento que a obra;
+
+(B) a sabedoria é superior à virtude;
+
+(C) as obras valem menos que as palavras;
+
+(D) sabedoria e virtude se equivalem;
+
+(E) mais vale a ação que a reflexão.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+INFERÊNCIA
+     É o que chamamos de Interpretação de Texto. Diferentemente da compreensão de texto,
+neste caso, é preciso ir um pouco além do que diz o texto, é necessário concluir com base no que
+se leu. O cuidado que é necessário ter é não extrapolar o texto.
+
+    Em geral, os enunciados de inferência trazem expressões do seguinte tipo: “infere-se”,
+“deduz-se”, “o trecho indica”, “a alternativa que mostra um implícito”, “uma inferência” etc.
+
+                                              Prof. Adriana Figueiredo
+                                  
+
+
+---
+
+DIANTE DE ENUNCIADOS       A BANCA QUER                                              VOCÊ DEVE
+
+ DEDUZ-SE/ INFERE-SE/                                                 Buscar pistas (pressupostos textuais) para a
+                        Que você deduza a partir
+   DEPREENDE-SE/ O                                                     adequada inferência. Se não houver pista:
+                        das informações do texto.
+  AUTOR PRETENDE...                                                                 EXTRAPOLAÇÃO.
+
+                                           Prof. Adriana Figueiredo
+                             
+
+
+---
+
+                   PRESSUPOSTO:
+             Informação obtida a partir
+                                                         TEXTO: Ana não quer mais ser professora.
+               de marcas linguísticas
+                                                         PRESSUPOSTO 1: Ana já quis ser professora.
+              (pistas textuais): verbos,
+                                                         PRESSUPOSTO 2: Ana quer deixar de ser professora.
+               adjetivos, advérbios...
+
+INFERÊNCIA
+
+                 SUBENTENDIDO:
+             Informação que não está
+              marcada no texto, mas                      TEXTO: Ana não quer mais ser professora.
+              que pode ser deduzida                      SUBENTENDIDO: Talvez pelas condições de trabalho
+             pelo leitor a partir de sua                 e baixa remuneração.
+                  leitura e de seu
+             conhecimento de mundo.
+
+                                  Prof. Adriana Figueiredo
+                    
+
+
+---
+
+                           EXERCÍCIOS DE FIXAÇÃO
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+A partir das frases a seguir, indique os pressupostos e subentendidos.
+
+1. Flu se reapresenta nesta terça e deve ter mudanças.
+
+2. Quando sair de casa, não se esqueça de levar um casaco.
+
+3. Infelizmente, meu marido continua trabalhando fora do país.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+4. Alunos que estudam de manhã costumam ter melhor rendimento.
+
+5. Globo muda programação para atender a nova classe C.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+6. “Ricardo é médico-cirurgião do hospital Taquaral e professor titular da cadeira de
+cardiologia da Faculdade de Medicina na Universidade do Estado”.
+
+7. Estou com a garganta seca de tanto falar.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+                           QUESTÕES DE CONCURSO
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+                      DEDUZ-SE/ INFERE-SE DO TEXTO
+
+                A FRASE QUE MOSTRA UMA PRESSUPOSIÇÃO
+                ADEQUADA/ É POSSÍVEL INFERIR A SEGUINTE
+MAPEAMENTO                   INFORMAÇÃO
+ENUNCIADOS DE
+  INFERÊNCIA
+
+
+                    O TEXTO/O AUTOR QUER MOSTRAR
+
+                                Prof. Adriana Figueiredo
+                  
+
+
+---
+
+30. FGV - 2021 - IMBEL - Cargos de Nível Médio - Reaplicação
+
+ “Pedimos desculpas às esposas americanas. ABC apresenta o futebol das segundas-
+ feiras à noite.”
+
+ Esse é um trecho de divulgação da emissora de TV norte-americana ABC. Deduz-se
+ desse pequeno texto que
+
+
+ A) as mulheres são vistas como público de futebol.
+
+ B) as emissoras de TV dos EUA não transmitem futebol.
+
+ C) às segundas-feiras as emissoras de TV só exibem programas de diversão.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+30. FGV - 2021 - IMBEL - Cargos de Nível Médio - Reaplicação
+
+ D) as mulheres casadas não querem que os maridos deixem de dar-lhes atenção
+ por causa do futebol.
+
+ E) as transmissões de futebol nas segundas-feiras à noite, nos EUA, não são ao vivo.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+31. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+ Observe a seguinte situação comunicativa: “Roberto envia à Viviane, uma escritora
+ consagrada, um conto escrito por ele, para que ela lhe dê sua opinião. Ao ler o
+ conto, no qual a protagonista é uma caricatura dela mesma, responde a Roberto:
+ ‘Seu conto está muito bom. Estou aliviada de que não tenha sido escrito para
+ publicação, mas como diversão entre nós. Ri muito com a protagonista. Você tem
+ muito senso de humor e isso é bom para quem escreve’.”
+
+ Pode-se inferir da resposta de Viviane que ela:
+
+ A) faz deduções a partir das informações de Roberto;
+ B) declara que o conto deve conter fatos humorísticos;
+ C) considera o conto indigno de publicação;
+ D) reconhece a relação da protagonista com ela mesma;
+ E) não responde à solicitação de Roberto.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+32. FGV - 2021 - PC-RN - Agente e Escrivão
+
+“A Polícia Civil cumpriu, nesta quinta-feira (19), dois mandados de prisão na zona
+leste de Porto Alegre contra ladrões de veículos. Um deles, que havia rompido
+tornozeleira eletrônica após ter progredido de regime, foi recapturado no bairro
+Glória e, segundo a investigação, seguia cometendo crimes.”
+
+A afirmação abaixo que pode ser inferida após a leitura do texto é:
+
+A) a utilização de tornozeleiras eletrônicas se tem revelado completamente inútil
+como medida punitiva;
+
+B) a libertação de prisioneiros por progressão de regime é um incentivo à volta da
+vida criminosa;
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+32. FGV - 2021 - PC-RN - Agente e Escrivão
+
+ C) a lei não pode evitar a volta de ladrões de veículos à vida do crime, já que as
+ tornozeleiras eletrônicas são rompidas;
+
+ D) nem todos os criminosos que são libertados por progressão de regime voltam à
+ vida do crime;
+
+ E) os criminosos que continuam sua vida criminosa, mesmo após soltura, são
+ recapturados.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+33. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+ “A despeito do impacto profundo destas ideias na sociedade ocidental, sua
+ formulação e desenvolvimento não se deram sobre uma base empírica e
+ quantitativa, marcando um divórcio progressivo de método e discurso entre a
+ psicanálise e a biologia.”
+
+ Com base nessa passagem, retirada do primeiro parágrafo do texto 2, é possível
+ inferir a seguinte informação implícita:
+
+ (A) as ideias de Freud não tiveram um impacto tão profundo no desenvolvimento
+ da teoria psicanalítica quanto algumas pessoas supõem;
+
+ (B) a sociedade ocidental não teve acesso às inovações trazidas pela obra “A
+ interpretação dos sonhos”;
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+33. FGV - 2022 - TJ TO - Técnico Judiciário - Apoio Judiciário e
+Administrativo
+
+ (C) a biologia se baseia em métodos empíricos e quantitativos;
+
+ (D) a teoria psicanalítica e a biologia são mutuamente incompatíveis;
+
+ (E) o divórcio entre a psicanálise e a biologia ocorreu de forma gradual.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+34. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+ Abaixo estão cinco enunciados seguidos de uma pressuposição necessária para que
+ ele faça sentido; a frase que mostra uma pressuposição adequada é:
+
+
+ A) Heitor lamenta que os pais de sua namorada viajem neste final de semana / A
+ viagem a ser realizada é pouco demorada;
+
+ B) Dois amigos meus vão a São Paulo no próximo domingo / Os dois amigos têm
+ namoradas na cidade de São Paulo;
+
+ C) Me dá pena que uma moça como ela esteja saindo com o Carlos / Carlos está
+ desempregado e sem dinheiro;
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+34. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+ D) Aquele casal pretende bronzear-se em Copacabana / Em Copacabana faz sol
+ constantemente;
+
+ E) Deixou de ir ao Rio pelo excesso de calor / A pessoa que viajaria ao Rio não
+ possuía roupas adequadas.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+35. FGV - 2022 - SSP-AM - Assistente Operacional
+ Quando, no mesmo pensamento, o ex-ministro declara que nossa Constituição traz
+ “uma regulamentação minuciosa do efêmero”, ele quer mostrar que nossas leis
+
+
+ (A) se perdem em detalhes inúteis.
+
+ (B) tratam de fatos de rara ocorrência.
+
+ (C) exploram os temas de forma profunda.
+
+ (D) indicam medidas sem aplicabilidade.
+
+ (E) recomendam providências que não se tomam.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+              Provérbio (também chamado de
+PROVÉRBIO    ditado popular) é uma frase curta               Ex.: “A pressa é inimiga
+                 empregada para transmitir                        da perfeição!”
+            ensinamentos, lições obtidas a partir
+                  de experiências da vida
+
+                                  Prof. Adriana Figueiredo
+                      
+
+
+---
+
+                           QUESTÕES DE CONCURSO
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+36. FGV - 2022 - IBGE - Recenseador
+ Jesus Cristo afirma num dos evangelhos: “Não pode a árvore boa dar maus frutos;
+ nem pode a árvore ruim dar bons frutos”.
+
+ Tratando-se de uma mensagem moral, o que Jesus Cristo está querendo destacar é
+
+ A) o trabalho agrícola eficiente.
+ B) a força dos bons exemplos.
+ C) a necessidade de fazer justiça.
+ D) a dignidade de fazer caridade.
+ E) o compromisso de ter filhos.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+37. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo -
+Tecnologia da Informação
+ Em Contos Fluminenses, Machado de Assis escreveu: “Não há erro venial, em
+ matéria de costumes e de amor”.
+
+ Com essa frase, nosso famoso escritor afirma que:
+
+ A) erros provocados por amor podem ser perdoados;
+ B) todos os erros, mesmo os mais graves, merecem perdão;
+ C) em matéria de costumes, todos somos pecadores;
+ D) no terreno do amor, todos os erros são graves;
+ E) em matéria de costumes e de amor, todos erramos.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+38. FGV - 2022 - TJ TO - Técnico Judiciário - Informática
+
+“Quem fica olhando o vento jamais semeará, quem fica olhando as nuvens jamais
+colherá.”
+
+Com esse pensamento, condena-se:
+
+(A) a exagerada preocupação com o meio ambiente;
+(B) o desleixo com a produção agrícola;
+(C) a predominância da observação sobre a ação;
+(D) a preguiça nas situações de trabalho duro;
+(E) a falta de persistência no trabalho.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+39. FGV - 2022 - TJ TO - Contador / Distribuidor
+
+“No Brasil, a diferença entre viver de arte e viver de ar é a sílaba ‘te’.”
+
+Com esse pensamento, seu autor quer mostrar que:
+
+(A) trabalhar com arte no Brasil produz muita riqueza;
+(B) não há diferença entre as duas expressões;
+(C) a arte é uma atividade economicamente difícil;
+(D) o trabalho com arte só tem valor social;
+(E) a arte e a ciência se equivalem.
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+40. FGV - 2021 - FUNSAÚDE - CE - Médico
+
+“Se você é tolo, fique rodeado de pessoas inteligentes. Se você é inteligente, fique
+rodeado de pessoas inteligentes que discordam de você.” Esse conselho anônimo
+mostra que nossa inteligência progride quando:
+
+A) Mantemos contato com pessoas diferentes de nós;
+B) Conhecemos muitas pessoas inteligentes;
+C) Demonstramos nossa inteligência aos demais;
+D) Debatemos com nossos inimigos;
+E) Discutimos nossas convicções.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+41. FGV - 2021 - PC-RN - Agente e Escrivão
+
+Rui Barbosa disse certa vez que “As leis que não protegem o nosso adversário não
+podem nos proteger”.
+
+Isso mostra que as leis:
+
+A) contrariam, muitas vezes, a justiça;
+B) defendem sobretudo os mais fortes;
+C) devem ser as mesmas para todos;
+D) mostram dificuldades em sua aplicação;
+E) servem para a proteção social.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+42. SEFAZ-ES - Consultor do Tesouro Estadual
+
+“Quando nada parece ajudar, eu vou e olho o cortador de pedras martelando sua
+rocha talvez cem vezes sem que nem uma só rachadura apareça. No entanto, na
+centésima primeira martelada, a pedra se abre em duas, e eu sei que não foi
+aquela que a conseguiu, mas todas as outras que vieram antes.”
+
+A primeira frase do texto - Quando nada parece ajudar, (...) - mostra uma situação
+de crise íntima. A lição de vida dada pelo cortador de pedras mostra o valor da
+
+(A) perseverança.
+(B) força do trabalho.
+(C) fidelidade a uma causa.
+(D) organização nas tarefas.
+(E) Inconstância.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+43. FGV - 2022 - PM-AM - Aluno Oficial da Polícia Militar
+
+O célebre biólogo Pasteur disse: “A ciência não tem pátria!”
+
+Com isso, ele pretende dizer que
+
+A) não importa o inventor, mas sim o invento.
+B) a ciência é um conhecimento abstrato, que não se prende a um país.
+C) o local onde algo foi criado não é importante.
+D) todos os homens colaboram para o desenvolvimento da ciência.
+E) os bens trazidos pela ciência pertencem à humanidade.
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+44. FGV - 2022 - PC-RJ - Auxiliar Policial de Necropsia de 3ª Classe
+Uma escritora francesa, falando da felicidade, afirmou que: “A felicidade é uma
+bola atrás da qual corremos enquanto rola e que chutamos logo que para”. Com
+esse pensamento, a escritora quer dizer-nos que a felicidade humana:
+
+
+A) é um estado transitório em nossas vidas;
+
+B) depende de nosso estado de espírito;
+
+C) está sempre presente em nossa existência;
+
+D) se compara às nossas brincadeiras infantis;
+
+E) afasta a infelicidade para bem longe.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+45. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+
+“Você tem o teu caminho, eu tenho o meu. Quanto ao caminho certo, o correto, o
+único caminho, não existe.”
+
+Com esse pensamento, o filósofo Nietzsche quer dizer que:
+
+A) Nem sempre os homens seguem o caminho certo;
+B) O único caminho correto é o que leva a Deus;
+C) Cada um tem seu próprio caminho e todos estão errados;
+D) Caminhos diferentes podem levar à verdade;
+E) O mundo é um espaço de caminhos errados.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+46. FGV - 2021 - PM-CE - Soldado da Polícia Militar
+
+Avalie a frase a seguir. “Os fumantes são suicidas homeopáticos.” Isso significa que
+os fumantes
+
+
+A) não acreditam na medicina tradicional.
+
+B) preferem deixar de fumar a morrer.
+
+C) matam-se pouco a pouco.
+
+D) perdem a vida sem uma razão convincente.
+
+E) ingerem remédios prejudiciais à saúde.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+47. FGV - 2022 - IBGE - Recenseador
+
+Um jogador de futebol, que jogava fora do país, declarou: “Neste país é que é bom.
+Aqui a gente recebe semanalmente, de 15 em 15 dias”.
+
+Essa frase significa que, nesse país,
+
+A) os salários são pagos com atraso.
+B) todos os jogadores recebem em dia.
+C) os pagamentos são feitos semanalmente.
+D) os salários nunca são pagos.
+E) só ao final de cada mês os salários são quitados.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+48. FGV - 2022 - TJ-DFT - Técnico Judiciário - Área Administrativa
+
+“Aquele que não sabe aproveitar a sorte quando ela vem não deve se queixar
+quando ela passa.”
+
+Essa frase de Cervantes significa que:
+
+A) nem todos têm a mesma sorte na vida;
+B) algumas pessoas vivem queixando-se da sorte;
+C) a felicidade bate à porta de todos;
+D) a sorte passa para os que não a merecem;
+E) a sorte sempre passa para os que perdem oportunidades.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+         O humor, geralmente, provém do
+HUMOR      “efeito surpresa”: quebra de                   Ex.: “Você foi tão bem na
+        expectativa, uso de ironia, atribuição              prova... Tirou zero!”
+          de novo sentido a um termo ou
+              conclusão imprevisível.
+
+                               Prof. Adriana Figueiredo
+                   
+
+
+---
+
+49. FGV - 2022 - CBM-AM - 2º Tenente do Corpo de Bombeiros Militar
+Observe a seguinte frase humorística: “Era um deputado conservador. Seu único
+programa político era conservar sua cadeira na Câmara.” O humor é obtido, em
+muitos casos, pelo inesperado de algo; no caso dessa frase, o inesperado está
+
+(A) no fato de o programa do político não ter mais de um tópico.
+
+(B) na atribuição de um sentido diferente ao termo conservador.
+
+(C) na informação de que os conservadores nada fazem de útil.
+
+(D) na circunstância de alguns políticos não terem programas.
+
+(E) na referência a um parlamento antigo, em função da presença do termo
+cadeira.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+50. FGV - 2022 - IBGE - Agente Censitário - Municipal e Supervisor
+Veja essa frase humorística de Millôr Fernandes: “Tantos anos o país se descuidou
+do meio ambiente que, agora, se quiser salvar alguma coisa, vai ter que tratar do
+ambiente inteiro”.
+
+O humor dessa frase provém
+
+A) da crítica às autoridades que não protegem o meio ambiente.
+B) do desprezo de todos em relação ao meio ambiente.
+C) da ironia da frase “se quiser salvar alguma coisa”.
+D) do emprego inadequado do verbo “tratar”.
+E) da oposição inesperada meio/inteiro.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+51. FGV - 2021 - Prefeitura de Paulínia - SP - Agente de Apoio
+Administrativo
+Uma camiseta trazia estampada a seguinte frase:
+“Não tomo juízo porque já tomo cerveja!”
+
+O que provoca o humor na frase é
+
+A) a desconsideração de algo que devia ser levado a sério.
+B) o desprezo pelos conhecimentos tradicionais.
+C) o emprego de um sentido inesperado do verbo tomar.
+D) a repetição de palavras idênticas.
+E) a negação total de uma atitude positiva.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+52. FGV - 2021 - PM-CE - Soldado da Polícia Militar
+Analise o seguinte texto humorístico: “Larguei a bebida. O ruim é que não lembro
+onde.” Nesse texto, o humor é provocado
+
+
+A) pelo fato de a segunda frase dar um novo sentido ao verbo “largar”.
+
+B) pela situação incômoda de procurar algo sem saber onde.
+
+C) pela decisão anunciada na primeira frase não ter sido bem-sucedida.
+
+D) pelos erros gramaticais cometidos nas duas frases.
+
+E) pela circunstância do esquecimento provocado pela bebida.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+53. FGV - 2021 - IMBEL - Cargos de Nível Fundamental
+Um bar na Escócia mostrava o seguinte cartaz:
+
+Amanhã: cerveja grátis só para escoceses!
+
+Assinale a opção que mostra o lado humorístico do cartaz.
+
+A) limitar a doação aos escoceses.
+B) nunca chegar o dia da gratuidade.
+C) indicar que escoceses bebem muito.
+D) dar cerveja é algo impossível na Escócia.
+E) criticar outras nacionalidades por não beberem.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRIANAF
+
+                                                      Profª. Adriana Figueiredo
+
+                 
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                    @professoraadrianafigueiredo
+
+              
+
+
+---
+
+---

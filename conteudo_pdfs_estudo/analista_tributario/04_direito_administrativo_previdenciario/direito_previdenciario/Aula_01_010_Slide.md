@@ -1,0 +1,405 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 01_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: REVISANDO POR QUESTÕES
+artigos_citados:
+- Art. 201
+---
+
+# REVISANDO POR QUESTÕES
+
+---
+
+---
+
+REVISANDO POR QUESTÕES
+ DIREITO PREVIDENCIÁRIO
+
+
+                                           Prof. Adriana Menezes
+
+      
+
+
+---
+
+SEGURIDADE SOCIAL - PRINCÍPIOS DA
+PREVIDÊNCIA SOCIAL - FGV
+
+
+                                                Prof. Adriana Menezes
+
+           
+
+
+---
+
+        4001935265
+        (FGV/TRF3 - Juiz Federal Substituto/2025) - Assinale a alternativa correta.
+        São Princípios da Previdência Social:
+        A) Cálculo dos benefícios considerando-se os salários-de contribuição
+        corrigidos monetariamente; economicidade; irredutibilidade do valor dos
+        benefícios de forma a preservar-lhes o poder aquisitivo.
+        B) Previdência complementar facultativa, custeada por contribuição adicional;
+        caráter democrático e descentralizado da gestão administrativa, com a
+        participação do governo e da comunidade, em especial de trabalhadores em
+        atividade, representantes das empresas, empregadores e aposentados.
+
+Prof. Adriana Menezes             
+
+
+---
+
+        C) Previdência complementar facultativa, custeada, ou não, por contribuição
+        adicional; irredutibilidade do valor dos benefícios de forma a preservar-lhes o
+        poder aquisitivo; universalidade e uniformidade de participação nos planos
+        previdenciários.
+        D) Universalidade de participação nos planos previdenciários; uniformidade e
+        equivalência dos benefícios e serviços às populações urbanas e rurais;
+        seletividade e distributividade na prestação dos benefícios.
+        E) Uniformidade, universalidade e equivalência dos benefícios e serviços às
+        populações urbanas e rurais; cálculo dos benefícios considerando-se os
+        salários-de-contribuição corrigidos monetariamente pela taxa Selic.
+
+Prof. Adriana Menezes              
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001813263
+        (FGV/MACAEPREV/Assistente Previdenciário/2024) - O parágrafo 2º do
+        Art. 201 da Constituição Federal determina que “nenhum benefício que
+        substitua o salário de contribuição ou o rendimento do trabalho do
+        segurado terá valor mensal inferior ao salário-mínimo.”
+        As opções a seguir apresentam benefícios que seguem essa regra, à
+        exceção de uma. Assinale-a.
+        A) Auxílio-acidente
+        B) Pensão por morte
+        C) Auxílio-reclusão
+        D) Aposentadoria por incapacidade permanente
+        E) Auxílio por incapacidade temporária
+
+Prof. Adriana Menezes              
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001336326
+        (FGV/Auditor Fiscal da Receita Federal – Receita Federal/2023) - O
+        equilíbrio financeiro e atuarial da Previdência Social brasileira é
+        mandamento constitucional, na forma do Art. 201, caput, da Constituição
+        da República de 1988. Tendo em vista a necessidade de prévio
+        financiamento frente às prestações previdenciárias, é correto afirmar que
+        A) a majoração de contribuições previdenciárias pode tomar lugar por
+        decretos, com aplicabilidade imediata, desde que precedida de avaliação
+        atuarial que assim a justifique.
+        B) a necessidade do equilíbrio financeiro e atuarial é um comando
+        constitucional de especial importância para o legislador ordinário, de forma a
+        direcionar e limitar alterações no plano de benefícios.
+
+
+Prof. Adriana Menezes              
+
+
+---
+
+        C) o princípio da seguridade social brasileira é também estampado em normas
+        infraconstitucionais, o qual, todavia, não se estende a assistência social.
+        D) na hipótese de desequilíbrio do sistema previdenciário nacional, o plano de
+        custeio vigente já prevê, automaticamente, majorações pontuais dos aportes
+        dos empregadores.
+        E) o equilíbrio atuarial reflete a necessidade de que toda e qualquer prestação
+        previdenciária seja passível de concessão a todo e qualquer segurado, desde
+        que previamente filiado ao regime protetivo.
+
+Prof. Adriana Menezes              
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+---
+
+---
+
+REVISANDO POR QUESTÕES
+ DIREITO PREVIDENCIÁRIO
+
+
+                                           Prof. Adriana Menezes
+
+      
+
+
+---
+
+SEGURIDADE SOCIAL - PRINCÍPIOS DA
+PREVIDÊNCIA SOCIAL - OUTRAS BANCAS
+
+
+                                               Prof. Adriana Menezes
+
+          
+
+
+---
+
+        4001996320
+        (AVANÇASP/ITUPREV/ANALISTA PREVIDENCIÁRIO/2024) - Assinale a
+        alternativa que completa corretamente a lacuna.
+        A Previdência Social tem por fim assegurar aos seus beneficiários meios
+        indispensáveis de manutenção, por motivo de incapacidade, idade
+        avançada, tempo de serviço, desemprego involuntário, encargos de
+        família e ____________ daqueles de quem dependiam economicamente.
+        A) afastamento temporário
+        B) aposentadoria
+        C) contribuição previdenciária
+        D) reclusão ou morte
+        E) invalidez permanente
+
+Prof. Adriana Menezes               
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001807987
+        (IBFC/Tribunal Regional Federal 5ª Região/Técnico Judiciário/2024) - A
+        seguridade social compreende um conjunto integrado de ações de
+        iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar
+        os direitos relativos à saúde, à previdência e à assistência social. De
+        acordo com a Constituição de 1988, assinale a alternativa que apresenta
+        como a seguridade social será financiada.
+        a) Por toda sociedade, de forma direta e indireta, nos termos da lei mediante
+        recursos provenientes do orçamento da União
+        b) Por toda sociedade de forma direta e indireta, nos termos da lei, mediante
+        recursos provenientes dos orçamentos da União, dos Estados, do Distrito
+        Federal e dos Municípios.
+
+
+Prof. Adriana Menezes             
+
+
+---
+
+        c) Por meio de contribuição social do trabalhador, podendo ser adotadas
+        alíquotas progressivas, de acordo com o valor do salário de contribuição,
+        incidindo contribuição sobre aposentadoria e pensão concedidas pelo Regime
+        Geral de Previdência Social.
+        d) Por meio de contribuição social do trabalhador, podendo ser adotadas
+        alíquotas progressivas, de acordo com o valor do salário de contribuição,
+        incidindo contribuição sobre aposentadoria, mas não sobre a pensão
+        concedidas pelo Regime Geral de Previdência Social.
+
+Prof. Adriana Menezes            
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001808043
+        (IBFC/Tribunal Regional Federal 5ª Região/Técnico Judiciário/2024) - A
+        seguridade social visa assegurar os direitos à saúde, à previdência e à
+        assistência social. Diante do exposto, assinale a alternativa correta
+        quanto aos objetivos da seguridade social.
+        a) Universalidade, equidade e confiscatoriedade.
+        b) Uniformidade, retroatividade e seletividade.
+        c) Equidade, redutibilidade e anterioridade.
+        d) Universalidade, equidade e irredutibilidade.
+
+Prof. Adriana Menezes               
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4002152257
+        (RECIPREV/Analista de Previdência e Assistência à Saúde/2024) - De
+        acordo com a definição dada pela Constituição Federal de 1988 e suas
+        alterações posteriores, analise a afirmativa abaixo:
+        “É ______ a adoção de requisitos ou critérios diferenciados para
+        concessão de benefícios, ressalvada, nos termos de lei ______, a
+        possibilidade de previsão de ______ distintos da regra geral para
+        concessão de aposentadoria exclusivamente em favor dos segurados:
+        I com deficiência, previamente submetidos a avaliação biopsicossocial
+        realizada por equipe multiprofissional e interdisciplinar;
+        II cujas atividades sejam exercidas com efetiva exposição a agentes
+        químicos, físicos e biológicos prejudiciais à saúde, ou associação desses
+        agentes, vedada a caracterização por categoria profissional ou
+        ocupação”.
+Prof. Adriana Menezes            
+
+
+---
+
+        Assinale a alternativa que preencha correta e respectivamente as
+        lacunas:
+        a) vedada, delegada, idade e tempo de contribuição
+        b) permitida, ordinária, idade e tempo de trabalho
+        c) permitida, complementar, tempo de trabalho e de contribuição
+        d) permitida, ordinária, tempo de trabalho e de contribuição
+        e) vedada, complementar, idade e tempo de contribuição
+
+Prof. Adriana Menezes               
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4002152256
+        (RECIPREV - Analista de Previdência e Assistência à Saúde/2024) -
+        Analise as afirmativas abaixo, de acordo com a Constituição Federal (e
+        suas alterações posteriores) e assinale a alternativa correta:
+        É facultado aos Estados e ao Distrito Federal vincular a programa de
+        apoio à inclusão e promoção social até cinco décimos por cento de sua
+        receita tributária líquida, vedada a aplicação desses recursos no
+        pagamento de:
+        I. despesas com pessoal e encargos sociais.
+        II. serviço de crédito.
+        III. outra despesa corrente vinculada diretamente aos investimentos ou
+        ações apoiados.
+
+Prof. Adriana Menezes             
+
+
+---
+
+        Estão corretas as afirmativas:
+        a) I apenas
+        b) I e II apenas
+        c) I, II e III
+        d) II e III apenas
+        e) I e III apenas
+
+Prof. Adriana Menezes            
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4002152251
+        (RECIPREV/Analista de Previdência e Assistência à Saúde/2024) - De
+        acordo com a Constituição Federal de 1988 e suas alterações
+        posteriores, é assegurada aposentadoria no regime geral de previdência
+        social, nos termos da lei, obedecidas as seguintes condições:
+        a) 60 (sessenta) anos de idade, se homem, e 62 (sessenta e dois) anos de
+        idade, se mulher, observado tempo mínimo de contribuição; e 55 (cinquenta e
+        cinco) anos de idade, se homem, e 50 (cinquenta) anos de idade, se mulher,
+        para os trabalhadores rurais e para os que exerçam suas atividades em regime
+        de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o
+        pescador artesanal
+
+Prof. Adriana Menezes             
+
+
+---
+
+        b) 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos de
+        idade, se mulher, observado tempo mínimo de contribuição; e 60 (sessenta)
+        anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher,
+        para os trabalhadores rurais e para os que exerçam suas atividades em regime
+        de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o
+        pescador artesanal
+        c) 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois)
+        anos de idade, se mulher, observado tempo mínimo de contribuição; e 70
+        (setenta) anos de idade, se homem, e 60 (sessenta) anos de idade, se mulher,
+        para os trabalhadores rurais e para os que exerçam suas atividades em regime
+        de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o
+        pescador artesanal
+
+
+Prof. Adriana Menezes             
+
+
+---
+
+        d) 65 (sessenta e cinco) anos de idade, se homem, e 62 (sessenta e dois)
+        anos de idade, se mulher, observado tempo mínimo de contribuição; e 60
+        (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade,
+        se mulher, para os trabalhadores rurais e para os que exerçam suas atividades
+        em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro
+        e o pescador artesanal
+        e) 60 (sessenta) anos de idade, se homem, e 62 (sessenta e dois) anos de
+        idade, se mulher, observado tempo mínimo de contribuição; e 60 (sessenta)
+        anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher,
+        para os trabalhadores rurais e para os que exerçam suas atividades em regime
+        de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o
+        pescador artesanal
+
+
+Prof. Adriana Menezes              
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4002152249
+        RECIPREV/Analista de Previdência e Assistência à Saúde/2024) - As
+        competências legislativas em matéria de seguridade social e de
+        previdência social foram conferidas:
+        a) privativamente à União
+        b) privativamente aos Estados e ao Distrito Federal
+        c) concorrentemente aos Estados, ao Distrito Federal e aos Municípios
+        d) respectivamente, de forma privativa à União, e concorrentemente à União,
+        aos Estados e ao Distrito Federal
+        e) respectivamente, de forma concorrente à União, aos Estados e ao Distrito
+        Federal, e privativamente à União
+
+
+Prof. Adriana Menezes               
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---

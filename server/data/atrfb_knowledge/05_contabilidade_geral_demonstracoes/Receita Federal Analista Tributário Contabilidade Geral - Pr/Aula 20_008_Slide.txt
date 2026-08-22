@@ -1,0 +1,587 @@
+CPC 27 – IMOBILIZADO
+  QUESTÕES FCC
+
+                                          Prof. Gilmar Possati
+
+
+
+     https://t.me/KakashiAssinaturasBot
+(FCC/CGM-SP/2025)
+A indústria ABC S.A. adquiriu, em 01/01/2022, maquinário necessário para ampliação da sua capacidade
+produtiva, pelo valor de R$ 367.500,00, montante que inclui R$ 30.000,00 de impostos de importação. Para
+colocá-lo em condições de funcionamento, a entidade precisou incorrer em: I. gastos com frete, no valor de
+R$ 10.000,00, II. manuseio e montagem que. juntos. somaram R$ 15.000,00 e III. abertura de uma nova
+edificação, no valor de R$ 50.000,00. A vida útil estimada do maquinário é de 10 anos, tendo capacidade
+produtiva total de 500.000 unidades e valor residual de R$ 17.500,00. Após a aquisição, a indústria ABC
+S.A. optou pelo método de unidades produzidas para apurar a depreciação mensal do ativo, tendo
+registrado os seguintes volumes de produção, em unidades, no referido ano:
+
+                                        Janeiro          2.000          Abril   2.000
+                                       Fevereiro 3.000                  Maio    4.000
+                                        Março            5.000 Junho 1.000
+Assim, o valor contábil líquido do referido maquinário da indústria ABC S.A., em 30/06/2022, é, em reais,
+a) 373.750,00.
+b) 398.475,00.
+c) 350.770,00.
+d) 379.750,00.
+e) 428.050,00.
+                                                                                  @profgilmarpossati   @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+PASSO 1: Definição do Custo Inicial (CPC 27)
+Valor de compra (c/ impostos de importação): R$ 367.500
+(+) Frete: R$ 10.000
+(+) Manuseio e montagem: R$ 15.000
+(=) Custo Inicial do Ativo: R$ 392.500
+PASSO 2: Cálculo da Depreciação (Método das Unidades Produzidas)
+Valor Depreciável: Custo Inicial - Valor Residual (R$392.500 – R$17.500) = R$ 375.000
+Taxa de Depreciação por Unidade: Valor Depreciável ÷ Capacidade Total
+R$375.000/500.000 unidades = R$0,75 por unidade produzida.
+Produção do Período (Jan a Jun): 2.000 + 3.000 + 5.000 + 2.000 + 4.000 + 1.000 = 17.000
+unidades.
+Depreciação Acumulada: 17.000 unidades x R$0,75 = R$12.750
+
+PASSO 3: Valor Contábil Líquido
+Valor Contábil = Custo Inicial - Depreciação Acumulada = R$392.500 – R$12.750
+Valor Contábil = R$ 379.750
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+(FCC/TRT15/2025)
+Um equipamento industrial foi adquirido, à vista, pelo valor de R$ 800.000 e a empresa ainda incorreu em
+gastos de instalação a de adequação do imóvel no valor total de R$ 100.000. A empresa funciona em um
+imóvel alugado e, por condições contratuais, deverá devolver a localidade nas mesmas condições em que o
+recebeu no inicio do contrato de locação.
+A data da aquisição do equipamento foi 02/12/2021 e o inicio de utilização ocorreu a partir do dia
+01/01/2022, sendo que a empresa definiu a vida útil do equipamento em 8 anos e, no final desse prazo de
+utilização, o equipamento poderá ser vendido pelo valor estimado de R$ 120.000. Para o final do 8º ano, e
+empresa estimou que os gastos para fazer a desmontagem e remoção da máquina e para reestruturar o
+imóvel para as condições originais serão de R$ 60.000. A taxa acumulada de juros projetada para os
+próximos anos foi 25% e a empresa utiliza o método das quotas constantes para o cálculo da despesa de
+depreciação.
+Os valores, em reais (R$), do valor contábil desse equipamento evidenciado no Balanço Patrimonial em
+31/12/2022 e da despesa de depreciação apresenta na Demonstração do Resultado do ano de 2022,
+foram, respectivamente:
+a) 855.000 - 105.000.
+b) 787.500 - 112.500.
+c) 802.500 - 97.500.
+d) 844.500 - 103.500.
+e) 682.500 - 97.500.
+                                                                             @profgilmarpossati   @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+PASSO 1: Mensuração do Custo Inicial (CPC 27)
+Valor de Aquisição: R$ 800.000
+Gastos de Instalação: R$ 100.000
+Custos de Desmontagem (Ajuste a Valor Presente): A empresa estima gastar R$ 60.000
+daqui a 8 anos. A questão informa uma taxa acumulada de 25% para o período. Devemos
+                                    Valor Futuro                           60.000
+trazer esse valor para hoje. 𝑉𝑃 =                           𝑉𝑃 =                  𝑉𝑃 = 48.000,00
+                                          (1+𝑖)                             1,25
+Custo Total do Ativo: R$800.000 + R$100.000 + R$48.000 = R$ 948.000
+
+PASSO 2: Cálculo da Despesa de Depreciação (2022)
+Valor Depreciável: Custo Total - Valor Residual (R$948.000 – R$120.000) = R$828.000
+Depreciação Anual: Valor Depreciável ÷ Vida Útil (R$828.000/8 anos = R$ 103.500)
+Nota: A depreciação começa em 01/01/2022 (início do uso), então calculamos o ano cheio.
+
+
+
+                                                                                  @profgilmarpossati   @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+PASSO 3: Cálculo do Valor Contábil (em 31/12/2022)
+Valor Contábil = Custo Total - Depreciação Acumulada
+Valor Contábil = R$948.000 – R$103.500
+Valor Contábil = R$ 844.500
+
+
+
+
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            https://t.me/KakashiAssinaturasBot
+(FCC/TRT1/2025)
+Uma empresa adquiriu um equipamento por R$ 3.400.000,00 e efetuou o pagamento à vista.
+A aquisição ocorreu em 30/06/2022 e a empresa começou a utilizá-lo em 01/07/2022. A
+empresa definiu a vida útil para o equipamento em 10 anos e o valor residual esperado para o
+final do prazo de vida útil era R$ 200.000,00. Sabendo que a empresa adota o método das
+quotas constantes para o cálculo da depreciação, o valor da despesa de depreciação
+registrado em 2022 e o saldo contábil apresentado para o equipamento no Balanço
+Patrimonial da empresa em 31/12/2022 foram, respectivamente:
+a) R$ 160.000,00 e R$ 3.240.000,00
+b) R$ 320.000,00 e R$ 2.880.000,00
+c) R$ 170.000,00 e R$ 3.230.000,00
+d) R$ 160.000,00 e R$ 3.040.000,00
+e) R$ 320.000,00 e R$ 3.040.000,00
+
+
+
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+PASSO 1: Encontrar o Valor Depreciável
+O CPC 27 determina que o valor residual (o valor de revenda no fim da vida útil) não
+sofre depreciação. Portanto, devemos retirá-lo da base de cálculo.
+Custo de Aquisição: R$ 3.400.000
+(-) Valor Residual: (R$ 200.000
+(=) Valor Depreciável: R$ 3.200.000
+
+PASSO 2: Calcular a Depreciação Anual
+Vida Útil: 10 anos.
+Depreciação por ano: R$3.200.000/10 = R$320.000,00
+
+PASSO 3: Calcular a Depreciação Proporcional (2022)
+A máquina começou a ser usada em 01/07/2022. Até 31/12/2022, passaram-se 6 meses.
+Depreciação 2022: R$320.000/12meses x 6 meses= R$160.000
+
+
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               https://t.me/KakashiAssinaturasBot
+PASSO 4: Calcular o Valor Contábil (Saldo no Balanço)
+O Valor Contábil é o Custo Histórico menos a Depreciação Acumulada.
+Custo Histórico:               R$ 3.400.000 (Cuidado! Aqui volta o valor cheio, não o depreciável).
+(-) Depreciação Acumulada:     (R$ 160.000)
+(=) Valor Contábil:            R$ 3.240.000
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PI/2025)
+Um equipamento industrial foi adquirido pela empresa Equipamentos Pesados S.A., em
+1/1/2020, pelo valor de R$ 20.400.000,00. A empresa efetuou o pagamento à vista, definiu a
+vida útil para o equipamento em 20 anos e estimou o valor residual para sua venda, no final do
+prazo de utilização, em R$ 1.200.000,00. No final do ano de 2020, a empresa redefiniu a vida
+útil remanescente para 15 anos e o novo valor residual estimado no final deste novo prazo de
+utilização para R$ 1.440.000,00. A empresa adota o método das cotas constantes para cálculo
+da despesa de depreciação e a revisão do prazo de vida útil ocorreu em função da análise da
+condição de uso do equipamento. O valor contábil do equipamento evidenciado no Balanço
+Patrimonial de 31/12/2021 foi
+a) R$ 18.000.000,00
+b) R$ 18.240.000,00
+c) R$ 18.504.000,00
+d) R$ 18.480.000,00
+e) R$ 17.840.000,00
+
+
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+MOMENTO 1: Depreciação em 2020 (Estimativas Antigas)
+Custo Histórico:             R$ 20.400.000
+(-) Valor Residual Antigo:   (R$ 1.200.000)
+(=) Base Depreciável Antiga: R$ 19.200.000
+Vida Útil Antiga:            20 anos
+Depreciação Anual (2020): R$19.200.000/20 = R$960.000
+Valor Contábil em 31/12/2020: R$20.400.000(Custo) - 960.000 (Deprec.) = R$ 19.440.000
+
+MOMENTO 2: Depreciação em 2021 (Novas Estimativas)
+A partir de 01/01/2021, esquecemos o custo original e a vida útil original. Nossa nova
+base de partida é o saldo que sobrou (Valor Contábil de 2020).
+Novo "Custo" (Valor Contábil em 31/12/20): R$ 19.440.000
+(-) Novo Valor Residual:                    (R$ 1.440.000)
+(=) Nova Base Depreciável:                  R$ 18.000.000
+(÷) Nova Vida Útil Remanescente:            15 anos (dado da questão)
+(=) Nova Depreciação Anual (2021):          R$1.200.000
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                https://t.me/KakashiAssinaturasBot
+PASSO FINAL: Valor Contábil em 31/12/2021
+Pegamos o saldo do início de 2021 e subtraímos a nova depreciação.
+Saldo Inicial (31/12/20): R$ 19.440.000
+(-) Depreciação de 2021: (R$ 1.200.000)
+(=) Valor Contábil Final: R$ 18.240.000
+
+
+
+
+                                                                @profgilmarpossati   @canalcontabilizando
+                           https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PI/2025)
+A empresa Produtos Enormes S.A. adquiriu, à vista, um equipamento pelo valor de R$
+13.000.000,00. A compra ocorreu no dia 1/6/2022, a empresa teve gastos adicionais necessários de
+instalação no valor de R$ 2.000.000,00 e o equipamento entrou em operação no dia 1/7/2022. Os
+gastos adicionais se referem a alterações na estrutura física da localidade, em função do porte do
+equipamento adquirido e, como a empresa utiliza um imóvel alugado, por condições contratuais,
+devera devolver a localidade nas mesmas condições em que a recebeu no Inicio do contrato de
+aluguel.
+A empresa definiu a vida útil do equipamento em 8 anos e, no final deste prazo de utilização, o
+equipamento poderá ser vendido por R$ 2.000.000,00. A empresa estimou que, para fazer a
+desmontagem, remover a máquina e reestruturar o imóvel para as condições originais no final do
+8ºano, terá que incorrer em gastos no valor de R$ 1.000.000,00.
+A taxa acumulada de juros projetada para os próximos 8 anos é 25% e a empresa utiliza o método
+das quotas constantes para o cálculo da despesa de depreciação.
+O valor do saldo contábil evidenciado no Balanço Patrimonial em 31/12/2022 da empresa Produtos
+Enormes S.A., especificamente em relação ao equipamento adquirido, foi
+a) R$ 14.812.500,00
+b) R$ 14.937.500,00
+c) R$ 15.125.000,00
+d) R$ 14. 187.500,00
+                                                                         @profgilmarpossati @canalcontabilizando
+e) R$ 15.000.000,00                   https://t.me/KakashiAssinaturasBot
+PASSO 1: Mensuração do Custo Inicial (CPC 27)
+O custo do imobilizado é a soma do preço de compra, custos de instalação e a estimativa
+dos custos de desmontagem trazida a valor presente.
+Compra: R$ 13.000.000,00
+Instalação: R$ 2.000.000,00
+Desmontagem (Ajuste a Valor Presente): Valor futuro de R$ 1.000.000,00 com taxa
+                         1.000.000
+acumulada de 25%. 𝑉𝑃 =             = 800.000,00
+                            1,25
+Custo Total do Ativo: R$13.000.000 + R$2.000.000 + R$800.000 = R$ 15.800.000
+
+
+
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+PASSO 2: Cálculo da Depreciação de 2022
+Valor Depreciável: Custo Total - Valor Residual (R$15.800.000 – R$ 2.000.000) = R$
+13.800.000.
+Depreciação Anual: Valor Depreciável ÷ Vida Útil (R$13.800.000/8 anos) = R$1.725.000
+por ano
+Depreciação Proporcional (Pro Rata Temporis): O ativo entrou em operação em
+01/07/2022. Até 31/12/2022, temos 6 meses de uso. R$1.725.000/12 meses x 6 meses =
+R$ 862.500
+
+PASSO 3: Saldo Contábil Final
+Saldo = Custo Total - Depreciação Acumulada
+Saldo = R$15.800.000 – R$ 862.500
+Saldo = R$ 14.937.500
+
+
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               https://t.me/KakashiAssinaturasBot
+(FCC/CGE-PI/2025)
+Um equipamento industrial foi adquirido pela empresa Equipamentos Pesados S.A., em 1/1/2020,
+pelo valor de R$ 20.400.000,00. A empresa efetuou o pagamento à vista, definiu a vida útil para o
+equipamento em 20 anos e estimou o valor residual para sua venda, no final do prazo de utilização,
+em R$ 1.200.000,00. No final do ano de 2020, a empresa redefiniu a vida útil remanescente para 15
+anos e o novo valor residual estimado no final deste novo prazo de utilização para R$ 1.440.000,00.
+A empresa adota o método das cotas constantes para cálculo da despesa de depreciação e a revisão
+do prazo de vida útil ocorreu em função da análise da condição de uso do equipamento.
+O valor contábil do equipamento evidenciado no Balanço Patrimonial de 31/12/2021 foi
+a) R$ 18.000.000,00
+b) R$ 18.240.000,00
+c) R$ 18.504.000,00
+d) R$ 18.480.000,00
+e) R$ 17.840.000,00
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+MOMENTO 1: Depreciação em 2020 (Estimativas Antigas)
+
+Custo Original:              R$ 20.400.000
+
+(-) Valor Residual Antigo:       (R$ 1.200.000)
+
+(=) Base Depreciável Antiga:     R$ 19.200.000
+
+(÷) Vida Útil Antiga:        20 anos
+
+(=) Depreciação Anual (2020): R$960.000
+
+Valor Contábil em 31/12/2020: R$20.400.000(Custo) – R$ 960.000 (Deprec.) =
+R$ 19.440.000.
+
+
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               https://t.me/KakashiAssinaturasBot
+MOMENTO 2: Depreciação em 2021 (Novas Estimativas)
+A partir de 01/01/2021, esquecemos o custo original e a vida útil original. Nossa nova base
+de partida é o saldo que sobrou (Valor Contábil de 2020).
+Novo "Custo" (Valor Contábil em 31/12/20): R$ 19.440.000
+(-) Novo Valor Residual:                    (R$ 1.440.000)
+(=) Nova Base Depreciável:                  R$ 18.000.000
+Nova Vida Útil Remanescente: 15 anos (dado da questão)
+Nova Depreciação Anual (2021): R$18.000.000/15 = R$1.200.000.
+
+PASSO FINAL: Valor Contábil em 31/12/2021
+Pegamos o saldo do início de 2021 e subtraímos a nova depreciação.
+Saldo Inicial (31/12/20): R$ 19.440.000
+(-) Depreciação de 2021: (R$ 1.200.000)
+(=) Valor Contábil Final: R$ 18.240.000
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+(FCC/CGE-PI/2025)
+Um equipamento industrial foi adquirido pela empresa Equipamentos Pesados S.A., em 1/1/2020,
+pelo valor de R$ 20.400.000,00. A empresa efetuou o pagamento à vista, definiu a vida útil para o
+equipamento em 20 anos e estimou o valor residual para sua venda, no final do prazo de utilização,
+em R$ 1.200.000,00. No final do ano de 2020, a empresa redefiniu a vida útil remanescente para 15
+anos e o novo valor residual estimado no final deste novo prazo de utilização para R$ 1.440.000,00.
+A empresa adota o método das cotas constantes para cálculo da despesa de depreciação e a revisão
+do prazo de vida útil ocorreu em função da análise da condição de uso do equipamento.
+O valor contábil do equipamento evidenciado no Balanço Patrimonial de 31/12/2021 foi
+a) R$ 18.000.000,00
+b) R$ 18.240.000,00
+c) R$ 18.504.000,00
+d) R$ 18.480.000,00
+e) R$ 17.840.000,00
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+(FCC/TRT7/2024)
+Em 01/06/2022, a empresa Sunset S.A., indústria responsável pela produção de itens de plástico,
+adquiriu uma máquina injetora para a fabricação de uma nova linha de produtos, pelo valor de R$
+300.000,00, mas a compra envolveu gastos com impostos de importação no valor de R$ 15.000,00.
+Além disso, a empresa incorreu em gastos de preparação do local no valor de R$ 10.000,00 e de
+instalação e montagem no valor de R$ 20.000,00. A máquina tem vida útil de 10 anos e valor residual
+de R$ 30.000,00. O supervisor de produção estima que, no futuro, a Sunset S.A. terá de
+desembolsar o equivalente a R$ 9.000,00 para desmontar, remover e restaurar o local em que a
+referida máquina foi instalada. Ainda assim, os gestores da empresa estão animados com a nova
+linha de produtos e já gastaram R$ 50.000,00 em sua divulgação.
+Com base nas informações fornecidas e na NBC TG 27 - Ativo Imobilizado, a máquina injetora
+adquirida pela empresa Sunset S.A. será reconhecida no Balanço Patrimonial da entidade, em
+01/06/2022, pelo valor inicial de:
+a) R$ 300.000,00
+b) R$ 315.000,00
+c) R$ 354.000,00
+d) R$ 389.000,00
+e) R$ 330.000,00
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+O que entra no Custo:
+(+) Valor da Máquina:        R$ 300.000,00
+(+) Impostos de Importação: R$ 15.000,00 (são custos irrecuperáveis)
+(+) Preparação do local:     R$ 10.000,00 (custo direto)
+(+) Instalação e montagem: R$ 20.000,00 (custo direto)
+(+) Estimativa de Desmontagem: R$ 9.000,00 (faz parte do custo, conforme CPC 27).
+Cálculo Final: R$300.000 + R$15.000 + R$10.000 + R$20.000 + R$9.000 = R$ 354.000
+
+
+O que NÃO entra no Custo
+Publicidade (R$ 50.000): Gastos com propaganda, treinamento de funcionários e
+custos administrativos são Despesas do período. Não agregam valor físico à máquina.
+Valor Residual (R$ 30.000): Este valor é usado apenas para calcular a depreciação
+futura. Ele não afeta o custo de entrada do bem.
+
+
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                https://t.me/KakashiAssinaturasBot
+(FCC/TRT9/2022)
+Um equipamento industrial foi adquirido, à vista, pelo custo total de R$ 1.200.000,00, a aquisição
+ocorreu em 31/12/2017 e o ativo foi colocado em uso nessa data. A empresa tem como política
+utilizar esse tipo de equipamento até atingir a produção total de 500.000 unidades, estima vendê-lo,
+no final do período de utilização, pelo valor R$ 150.000,00 e calcula a despesa de depreciação em
+função das unidades produzidas. O equipamento foi utilizado até 30/06/2019 e tinham sido
+produzidas 250.000 unidades até esta data, quando a empresa optou por vendê-lo por R$
+750.000,00, à vista. Sabendo-se que a vida útil, para fins fiscais, é 10 anos, o valor evidenciado na
+Demonstração do Resultado de 2019, correspondente somente à venda do equipamento foi
+a) lucro na venda no valor de R$ 225.000,00.
+b) prejuízo na venda no valor de R$ 270.000,00.
+c) lucro na venda no valor de R$ 150.000,00.
+d) prejuízo na venda no valor de R$ 292.500,00.
+e) lucro na venda no valor de R$ 75.000,00.
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Valor Contábil: 1.200.000,00
+(-) Valor residual: 150.000,00
+(=) Valor Depreciável: 1.050.000,00
+Vida útil: 500.000 unidades
+Depreciação por unidade produzida: 2,10
+Depreciação de 250.000 unidades: 525.000,00
+
+Saldo: 675.000,00 (1.200.000-525.000)
+
+Ganho = 750.000,00 – 675.000,00 = 75.000,00
+
+
+
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FCC/TRT9/2022)
+Um equipamento foi adquirido por uma empresa em 31/12/2017 pelo valor de R$ 1.600.000,00 para
+ser pago integralmente em 2020. Se o equipamento fosse adquirido à vista, o preço pago seria R$
+1.300.000. A empresa substitui esse tipo de equipamento após utilizá-lo por 8 anos, sendo
+depreciado de forma linear. O valor residual esperado para sua venda no final do prazo de utilização
+é 20% do valor pago pela compra à vista do equipamento. A empresa optou por vender o
+equipamento em 30/06/2019 e obteve o valor de venda à vista de R$ 1.000.000,00. O resultado
+obtido na venda do equipamento evidenciado na Demonstração do Resultado no ano de 2019 foi:
+a) Prejuízo de R$ 300.000,00.
+b) Prejuízo de R$ 600.000,00.
+c) Prejuízo de R$ 56.250,00.
+d) Lucro de R$ 155.000,00.
+e) Prejuízo de R$ 105.000,00.
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Custo de Aquisição                1.300.000,00
+(-) Valor residual                     (260.000,00)
+(=) Valor depreciável                  1.040.000,00
+(÷) Vida útil:                         8 anos
+(=) Depreciação anual                  130.000,00
+
+Depreciação Acumulada = 195.000,00 (130.000 x 1,5)
+
+Custo de aquisição                         1.300.000,00
+(-) Depreciação Acumulada                  (195.000,00)
+(=) Valor contábil líquido                 1.105.000,00
+
+Prejuízo de 105.000,00 (1.105.000,00 – 1.000.000,00)
+
+
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-AP/2022)
+Uma máquina foi adquirida por uma empresa em 31/12/2013. O valor pago, à vista, pela aquisição
+foi R$ 800.000,00, a empresa definiu a vida útil da máquina em 4 anos e o valor residual esperado foi
+estimado em R$ 80.000,00. Em 31/12/2014, a empresa reavaliou a vida útil remanescente da
+máquina para 5 anos e o valor residual estimado, no final do novo prazo de vida útil, foi R$
+20.000,00.
+Em 31/12/2015, a empresa realizou o teste de redução ao valor recuperável de ativos (teste de
+“impairment”) com as seguintes informações disponíveis:
+− Valor em uso: R$ 560.000,00
+− Valor justo líquido das despesas de venda: R$ 460.000,00
+O valor contábil da máquina apresentado no Balanço Patrimonial da empresa, em 31/12/2015, foi,
+em reais,
+a) 560.000,00.
+b) 460.000,00.
+c) 540.000,00.
+d) 500.000,00.
+e) 480.000,00.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Custo de aquisição        800.000,00
+(-) Valor residual        (80.000,00)
+(=) Valor depreciável     720.000,00
+(÷) Vida Útil             4 anos
+(=) Depreciação Acumulada 180.000,00
+
+Valor contábil líquido (31/12/2014):                         Para o exercício de 2015, temos:
+Custo de aquisição                800.000,00                 Valor contábil              620.000,00
+(-) Depreciação acumulada (180.000,00)                       (-) Valor residual          (20.000,00)
+(=) Valor Contábil Líquido 620.000,00                        (=) Valor depreciável       600.000,00
+                                                             (÷) Vida útil                     5 anos
+                                                             (=) Depreciação acumulada 120.000,00
+
+                                                             Final de 2015, temos:
+                                                             Valor contábil             800.000,00
+                                                             (-) Depreciação acumulada (300.000,00)
+                                                             (=) Valor Contábil Líquido 500.000,00
+
+
+                                                                             @profgilmarpossati   @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FCC/ManausPrev/2021)
+Uma empresa adquiriu uma máquina e incorreu nos seguintes gastos que foram pagos à vista:
+− Custo de aquisição junto ao fornecedor              R$ 25.000.000
+− Gastos com instalação e customização da máquina R$ 2.000.000
+A compra ocorreu no dia 30/06/2019. A empresa tem como política utilizar a máquina por 10 anos e
+o valor residual estimado para sua venda no final da vida útil era R$ 7.500.000,00. A empresa estima,
+também, que os gastos para a desmontagem e desinstalação da máquina, no final do 10o ano,
+totalizarão R$ 3.300.000,00 e a taxa de juros vigente para a empresa na data da aquisição era 10%
+para o prazo de 10 anos. Tendo em vista que a máquina funciona ininterruptamente, a empresa
+calcula a despesa de depreciação em função do tempo decorrido. Se, no final do ano de 2019, a
+empresa identificou que não havia necessidade de redução do valor contábil da máquina
+(Impairment), a despesa de depreciação evidenciada na demonstração do resultado de 2019, para
+esta máquina foi, em reais,
+a) 1.025.000,00
+b) 875.000,00
+c) 1.140.000,00
+d) 1.350.000,00
+e) 1.125.000,00
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+PASSO 1: Montar o Custo do Ativo (CPC 27)
+O custo deve incluir o preço de compra, a instalação e o custo de desmontagem trazido a
+valor presente.
+Compra: R$ 25.000.000
+Instalação: R$ 2.000.000
+Desmontagem (Ajuste a Valor Presente): A questão diz que o gasto futuro será de R$
+3.300.000 e a taxa para o período todo (10 anos) é de 10%.
+                           Valor Futuro                 3.300.000
+                    𝑉𝑃 =                    𝑉𝑃 =                  𝑉𝑃 = 3.000.000,00
+                              (1+𝑖)                        1,10
+Custo Total do Ativo: R$25.000.000 + R$2.000.000 + R$3.000.000 = R$ 30.000.000
+
+
+
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+PASSO 2: Encontrar o Valor Depreciável
+Custo Total:             R$ 30.000.000
+(-) Valor Residual:      (R$ 7.500.000)
+(=) Base de Depreciação: R$ 22.500.000
+
+
+PASSO 3: Calcular a Depreciação de 2019
+Depreciação Anual: R$22.500.000/10 anos = R$2.250.000 por ano.
+Depreciação Proporcional: A máquina foi comprada em 30/06/2019. Portanto, foi usada de
+julho a dezembro (6 meses).
+                                                       6
+                             𝐷𝑒𝑝𝑟𝑒𝑐𝑖𝑎ç𝑎𝑜
+                                       ෤ = 2.250.000 ×
+                                                       12
+Depreciação 2019 = R$ 1.125.000
+
+
+
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                https://t.me/KakashiAssinaturasBot
+(FCC/ALAP/2020)
+O parque de diversões Só Alegria sofreu um estrago na montanha-russa por conta dos fortes ventos
+que assolaram a região. Foram pagos R$ 150.000,00 para substituir os reforços de aço da estrutura
+da montanha-russa, R$ 30.000,00 para consertar o telhado da plataforma de embarque e R$
+21.000,00 para refazer o piso danificado pelo vendaval.
+A Só Alegria estima que os novos reforços de aço são de qualidade superior aos anteriores, e que
+eles agregaram 30% mais suporte de peso estrutural.
+O lançamento contábil a ser feito pela Só Alegria em relação aos gastos de melhoria e reparo no
+imobilizado da montanha-russa é
+a) Débito: Despesas de reparo (resultado) − R$ 201.000,00; Crédito: Caixa (ativo) − R$ 201.000,00.
+b) Débito: Imobilizado (ativo) − R$ 150.000,00; Débito: Despesas de reparo (resultado) − R$
+51.000,00; Crédito: Caixa (ativo) − R$ 201.000,00.
+c) Débito: Imobilizado (ativo) − R$ 171.000,00; Débito: Despesas de reparo (resultado) − R$
+30.000,00; Crédito: Caixa (ativo) − R$ 201.000,00.
+d) Débito: Imobilizado (ativo) − R$ 201.000,00; Crédito: Caixa (ativo) − R$ 201.000,00.
+e) Débito: Imobilizado (ativo) − R$ 180.000,00; Débito: Despesas de reparo (resultado) − R$
+11.000,00; Crédito: Caixa (ativo) − R$ 201.000,00.
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+Análise dos Gastos:
+Reforços de Aço (R$ 150.000): A questão diz que são de "qualidade superior" e "agregaram 30% mais
+suporte". Ou seja, houve uma melhoria na capacidade do ativo.
+Classificação: Ativo Imobilizado (Aumenta o valor do bem).
+
+Conserto do Telhado (R$ 30.000): O termo "consertar" indica reparo. O telhado voltou ao estado
+normal, não ficou "superpotente".
+Classificação: Despesa de Reparo (Resultado).
+
+Refazer o Piso (R$ 21.000): O termo "refazer o piso danificado" também indica manutenção corretiva.
+Apenas restaurou a condição original.
+Classificação: Despesa de Reparo (Resultado).
+
+Resumo do Lançamento:
+    Débito no Ativo (Imobilizado): R$ 150.000 (Só os reforços).
+    Débito na Despesa (Resultado): R$ 30.000 + R$ 21.000 = R$ 51.000 (Telhado + Piso).
+    Crédito no Caixa (Saída total): R$ 201.000.
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+

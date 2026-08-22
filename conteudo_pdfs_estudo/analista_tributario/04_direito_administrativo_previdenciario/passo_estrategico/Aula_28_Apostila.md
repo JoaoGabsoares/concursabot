@@ -1,0 +1,642 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 28_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '28'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 37
+- art. 17
+- art. 23
+- art. 38
+- art. 7
+- art. 71
+- art. 7º
+- artigo 37
+sumulas_citadas:
+- Súmula 14
+- Súmula 682
+- Súmula 683
+- Súmula Vinculante 37
+- Súmula Vinculante 4
+- Súmula Vinculante 55
+---
+
+# Passo Estratégico de Direito
+
+Aula Extra
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             30 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula Extra
+
+                                                                                     Índice
+1) _____________________CADERNO DE JURISPRUDÊNCIA (CJ): COMECE POR AQUI!_____________________3
+) Lei 8.112/1990 (CJ)
+
+
+3) Organização Administrativa - (CJ)
+
+
+4) Controle da Administração - (CJ)
+
+
+5) Agentes Públicos - (CJ)
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           14
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+                           CADERNO DE JURISPRUDÊNCIA
+                                       COMECE POR AQUI!
+O presente caderno contém a jurisprudência que julgamos ser interessante o aluno levar à prova,
+considerando o nível de dificuldade do concurso.
+
+Recomendamos o estudo da presente jurisprudência não apenas por terem chances de cair em
+prova, mas, principalmente, por serem uma forma de o aluno entender e fixar melhor o próprio
+teor da literalidade dos dispositivos normativos e os conceitos doutrinários.
+
+Lembramos que a jurisprudência mais básica já se encontra no roteiro de revisão, então no
+presente caderno é disponibilizada uma jurisprudência de segundo nível de importância.
+
+Portanto, orientamos que o estudo da presente jurisprudência ocorra em uma fase mais
+avançada, quando o aluno já efetuou algumas revisões da matéria. Inclusive, um bom
+conhecimento das normas, da doutrina e da jurisprudência básica será necessário para que o
+estudo da jurisprudência presente neste caderno seja eficiente.
+
+Bons estudos!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    3
+        www.estrategiaconcursos.com.br                                                      14
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                                 LEI 8.112/90
+                              CADERNO DE JURISPRUDÊNCIA
+Provimento (arts. 5º a 32)
+
+                                                    JURISPRUDÊNCIA
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”1.
+
+    “Não é admissível, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo
+    público”2.
+
+Estágio probatório (art. 20)
+
+                                                    JURISPRUDÊNCIA
+    “O estágio probatório não protege o funcionário contra a extinção do cargo”3.
+
+
+Regime disciplinar - Penalidades (arts. 127 a 142)
+
+                                                    JURISPRUDÊNCIA
+    “Pela falta residual não compreendida na absolvição pelo juízo criminal, é admissível a punição
+    administrativa do servidor”4.
+
+Sindicância e processo administrativo disciplinar (arts. 143 a 182)
+
+                                                    JURISPRUDÊNCIA
+    “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a
+    Constituição”5.
+
+    “É inadmissível segunda punição de servidor público, baseada no mesmo processo em que se fundou a
+    primeira”6.
+
+1
+  STF – Súmula Vinculante 44.
+2
+  STF - Súmula 14.
+3
+  STF – Súmula 22.
+4
+  STF – Súmula 18.
+5
+  STF – Súmula vinculante 5.
+6
+  STF – Súmula 19.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 4
+           www.estrategiaconcursos.com.br                                                                   14
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula Extra
+
+                             ORGANIZAÇÃO ADMINISTRATIVA
+                              CADERNO DE JURISPRUDÊNCIA
+
+Administração Indireta
+
+Empresas estatais (empresas públicas e sociedades de economia mista)
+
+- Conforme já destacado no roteiro de revisão, é cabível mandado de segurança contra ato dos
+dirigentes de estatais quando praticados na qualidade de autoridade pública (como nas
+licitações e concursos públicos), mas é incabível nos atos de mera gestão econômica.
+Sobre o tema, é importante relembrar a súmula 333 do STJ:
+                                                           ==219a34==
+
+                                                    JURISPRUDÊNCIA
+    Cabe mandado de segurança contra ato praticado em licitação promovida por sociedade de economia
+    mista ou empresa pública.
+
+- Outros precedentes jurisprudenciais importantes:
+
+                                                    JURISPRUDÊNCIA
+    "São constitucionais as normas dos incisos I e II do § 2° do art. 17 da Lei 13.303/2016, que impõem
+    vedações à indicação política de membros para o Conselho de Administração e para a diretoria de
+    empresas estatais (CF, art. 173, § 1º)." Trata-se de normas que servem como importante elemento
+    indutor da constituição de um ambiente empresarial oxigenado pelas noções de ética pública,
+    integridade, probidade e gestão técnica, focada na busca da eficiência, contribuindo, portanto, para a
+    concretização do direito fundamental à boa administração. 1
+
+    Sociedade de economia mista, cuja participação acionária é negociada em Bolsas de Valores, e que,
+    inequivocamente, está voltada à remuneração do capital de seus controladores ou acionistas, não está
+    abrangida pela regra de imunidade tributária prevista no art. 150, VI, ‘a’, da Constituição, unicamente
+    em razão das atividades desempenhadas.2
+
+1
+    STF – ADI 7331
+2
+    STF – Tema 508
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              5
+           www.estrategiaconcursos.com.br                                                                14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                              CONTROLE DA ADMINISTRAÇÃO
+                              CADERNO DE JURISPRUDÊNCIA
+Competências do Tribunal de Contas da União (art. 71 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa
+    quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o
+    interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria,
+    reforma e pensão”1.
+
+    "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão
+    sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de
+    aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas"2.
+
+    “O TCU tem legitimidade para expedição de medidas cautelares, a fim de prevenir a ocorrência de
+    lesão ao erário ou a direito alheio, bem como garantir a efetividade de suas decisões”3.
+
+    O TCU não tem competência para decretar quebra de sigilo bancário4.
+
+    O TCU tem competência para requisitar informações relativas a operações de crédito originárias de
+    recursos públicos5.
+
+    “São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na
+    Lei de Improbidade Administrativa”6.
+
+    “É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas"7.
+
+    "É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil"8.
+
+Disposições gerais sobre o TCU e demais Tribunais de Contas (arts. 73 e 75 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “No Tribunal de Contas Estadual, composto por sete conselheiros, quatro devem ser escolhidos pela
+
+
+1
+  STF – Súmula Vinculante 3.
+2
+  STF – RE 636553.
+3
+  STF – MS 26.547/DF.
+4
+  STF – MS 22.801.
+5
+  STF – MS 33.340/DF.
+6
+  STC – RE 852475.
+7
+  STF – RE 636886.
+8
+  STF – RE 669069.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               6
+           www.estrategiaconcursos.com.br                                                                 14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    Assembléia Legislativa e três pelo chefe do Poder Executivo estadual, cabendo a este indicar um dentre
+    auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha”9.
+
+    É inconstitucional lei estadual que concede autonomia financeira e administrativa aos ministérios
+    públicos especiais que atuam junto aos Tribunais de Contas do estado e dos municípios, uma vez que a
+    Constituição determina que as normas estabelecidas para a organização do Tribunal de Contas da
+    União também se aplicam aos Tribunais de Contas dos Estados e do Distrito Federal (art. 75),
+    possuindo o Ministério Público especial que atua junto ao TCU apenas autonomia funcional
+    (independência para o exercício de suas funções).10
+
+                                                           ==219a34==
+
+9
+    STF – Súmula 653.
+10
+     STF - ADI 5254
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             7
+           www.estrategiaconcursos.com.br                                                               14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                          AGENTES PÚBLICOS
+                              CADERNO DE JURISPRUDÊNCIA
+Forma e requisitos de acesso a cargos, empregos e funções públicas
+
+- Os requisitos de acesso aos cargos, empregos e funções públicas (art. 37, inciso I da CF/88)
+devem estar previstos em lei, ou seja, o edital de um concurso público não pode inovar e exigir
+determinados requisitos como, por exemplo, limite de idade, sem previsão legal. Nesse sentido:
+
+                                                    JURISPRUDÊNCIA
+    "O limite de idade para a inscrição em concurso público só se legitima em face do art. 7º, XXX, da
+    Constituição, quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido"1.
+
+    "a imposição de discrímen de gênero, para fins de concurso público, só é compatível com a Constituição
+    nos excepcionais casos em que reste inafastável a fundamentação proporcional e a legalidade da
+    imposição"2.
+
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”3.
+
+    Não é admissível, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo
+    público.4
+
+    "... somente se afigura constitucional a fixação de idade mínima em edital de concursos públicos quando
+    respaldada por lei e justificada pela natureza das atribuições do cargo."5
+
+- O STF entende que é admissível política de reserva de vagas em concurso público para
+candidatas do sexo feminino, desde que não se incorra em restrição à sua participação, sendo-
+lhes assegurado o direito de concorrer à totalidade das vagas oferecidas nos certames, para além
+da reserva percentual (por exemplo: 10%) de vagas exclusivas6.
+
+Caso ocorra restrição à participação de candidatas do sexo feminino, há inconstitucionalidade da
+lei. Nesse sentido, o STF entendeu que é inconstitucional lei federal que limita em até 10% do
+efetivo o número de mulheres na Polícia Militar do DF e permite que o comandante-geral da PM
+fixe o percentual de mulheres para cada concurso, em razão de afrontar os ditames constitucionais
+
+1
+  STF – Súmula 683.
+2
+  STF – RE 528.684/MS.
+3
+  STF – Súmula Vinculante 44.
+4
+  STF – Súmula 14
+5
+  STF - ARE nº 678.112/MG
+6
+  STF – ADI 7492
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                8
+           www.estrategiaconcursos.com.br                                                                  14
+
+                                        
+
+
+---
+
+    Tulio Lages
+    Aula Extra
+
+quanto à igualdade de gênero e o princípio da igualdade, que garante os mesmos direitos e
+obrigações aos homens e mulheres (art. 5°, I, da CF/1988), proibindo a diferenciação de salários,
+de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil
+(art. 7°, XXX, da CF/1988).7
+
+- O STF entendeu que é constitucional lei distrital que estabelece a obrigatoriedade de: (i) serem
+mantidas, no mínimo, 5% (cinco por cento) de pessoas com idade acima de quarenta anos,
+obedecido o princípio do concurso público, nos quadros da Administração Pública direta e
+indireta; e (ii) ser firmada cláusula, nas licitações para contratação de serviços com fornecimento
+de mão de obra, que assegure o mínimo de 10% (dez por cento) das vagas a pessoas com mais
+de quarenta anos.
+
+Na mesma ocasião, o Supremo entendeu que:
+                                                          ==219a34==
+
+     a) não há invasão à seara do regramento geral sobre licitações e contratos estabelecido pela
+        União, mas se trata precipuamente de política pública de pleno emprego, através da reserva
+        de vagas, visando o desenvolvimento social e econômico do Distrito Federal;
+     b) se trata de regra que personaliza o procedimento licitatório do Distrito Federal, obrigando
+        a inclusão de determinada cláusula em suas contratações, a partir do que se encontra
+        dentro do espaço de conformação legislativa dos Estados-membros;
+     c) a fixação de um percentual mínimo de contração pelo poder público de empregados com
+        mais de quarenta anos não é matéria relativa à relação empregatícia e, portanto, não se
+        encontra regida pela Consolidação das Leis Trabalhistas;
+     d) ações afirmativas antidiscriminatórias e a elaboração de políticas públicas que promovam o
+        pleno emprego estão compreendidas no plexo de competências comuns dos entes
+        federativos;
+     e) se verifica presente a correlação lógica entre o fator de discrime e o fim perseguido, qual
+        seja, o desenvolvimento econômico e social em âmbito local, eis que visa minimização do
+        desemprego entre os adultos na faixa dos quarenta anos, os quais seriam pouco
+        aproveitados pela iniciativa privada e não contemplados pelas políticas de incentivo à
+        contratação jovem nem pelas políticas de proteção às pessoas idosas8.
+
+- A regra geral é que será no ato da posse, e não da inscrição do concurso público, a exigência de
+habilitação para o exercício do cargo (entendimento do STF e STJ)9, tendo como exceções as
+seguintes:
+
+7
+  STF - ADI 7433 MC-Ref / DF
+8
+  STF - ADI 4082
+9
+  STF – ARE-AgR 728.049/RJ. STJ – Súmula 266.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      9
+          www.estrategiaconcursos.com.br                                                        14
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+     a) será na data da inscrição definitiva no concurso público a comprovação de 3 anos de atividade
+     jurídica para os cargos de juiz e membros do Ministério Público (art. 23, § 1º da Resolução CNJ
+     nº 75/2009);
+
+     b) em concurso para policial militar, "a comprovação do requisito etário deve ocorrer no
+     momento da inscrição do certame"10.
+
+- Um percentual dos cargos e empregos públicos deve ser reservado para as pessoas portadoras
+de deficiência (art. 37, inciso VIII da CF/88). Nesse sentido:
+
+                                                    JURISPRUDÊNCIA
+ “O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos
+ deficientes”11.
+
+
+Concurso público
+
+                                                    JURISPRUDÊNCIA
+ “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia
+ aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na
+ qual anteriormente investido”12.
+
+ "A transformação de carreira de nível médio em outra de nível superior, com atribuições distintas,
+ constitui forma de provimento derivado vedada pelo art. 37, II, da CF/88."13
+
+ "É materialmente inconstitucional dispositivo de Constituição Estadual que estabeleça a possibilidade
+ de contratação direta e genérica de serviços de representação judicial e extrajudicial, por ferir a regra
+ constitucional de concurso público. (...) Realizada a opção política municipal de instituição de órgão
+ próprio de procuradoria, a composição de seu corpo técnico está vinculada à incidência das regras
+ constitucionais, dentre as quais o inafastável dever de promoção de concurso público (artigo 37, inciso
+ II, da Constituição Federal) [ressalvadas as situações excepcionais situações em que também à União, aos
+ Estados e ao Distrito Federal pode ser possível a contratação de advogados externos, conforme os
+ parâmetros reconhecidos pela jurisprudência do STF].14"
+
+ É inconstitucional, por dispensar o concurso público, a reestruturação de quadro funcional por meio de
+ aglutinação, em uma única carreira, de cargos diversos, quando a nova carreira tiver atribuições e
+ responsabilidades diferentes dos cargos originais.15
+
+10
+   STF – ARE 685870 MG.
+11
+   STF – Súmula 377.
+12
+   STF – Súmula 685.
+13
+   STF – ADI 7229/AC
+14
+   STF - ADI 6331/PE
+15
+   STF – Tema 667
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            10
+           www.estrategiaconcursos.com.br                                                               14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ É inconstitucional o aproveitamento de servidor, aprovado em concurso público a exigir formação de
+ nível médio, em cargo que pressuponha escolaridade superior.16
+
+ É constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o
+ intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame.17
+
+Direitos de associação sindical e de greve dos servidores públicos
+
+                                                    JURISPRUDÊNCIA
+ "A administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício
+ do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela
+ decorre, permitida a compensação em caso de acordo. O desconto será, contudo, incabível se ficar
+ demonstrado que a greve foi provocada por conduta ilícita do Poder Público”18.
+
+ "1 - O exercício do direito de greve, sob qualquer forma ou modalidade, é vedado aos policiais civis e a
+ todos os servidores públicos que atuem diretamente na área de segurança pública.
+
+ 2 - É obrigatória a participação do Poder Público em mediação instaurada pelos órgãos classistas das
+ carreiras de segurança pública, nos termos do art. 165 do CPC, para vocalização dos interesses da
+ categoria"19.
+
+
+Remuneração dos agentes públicos e acumulação de cargos públicos
+
+                                                    JURISPRUDÊNCIA
+ São inconstitucionais leis estaduais de iniciativa do Poder Judiciário, da Defensoria Pública, da
+ Procuradoria-Geral de Justiça, do Tribunal de Contas e da Mesa da Assembleia Legislativa que têm como
+ objetivo aumento remuneratório visando recuperar a perda do poder aquisitivo da moeda, por vício de
+ iniciativa, já que tal competência é do Chefe do Poder Executivo (art. 38 inciso X, c/c alínea “a”, do inciso
+ II, do § 1º, do art. 61 da CF/1988).20
+
+ “Salvo nos casos previstos na Constituição, o salário-mínimo não pode ser usado como indexador de
+ base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão
+ judicial”21.
+
+ “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores
+ públicos sob o fundamento de isonomia”22.
+
+16
+   STF – Tema 697
+17
+   STF – RE 635739 / AL
+18
+   STF – RE 693.456/RJ.
+19
+   STF – ARE 654.432.
+20
+   STF - ADI 5.562/RS
+21
+   STF – Súmula Vinculante 4.
+22
+   STF – Súmula Vinculante 37.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                11
+           www.estrategiaconcursos.com.br                                                                   14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ "O direito ao auxílio-alimentação não se estende aos servidores inativos"23.
+
+ “Não ofende a Constituição a correção monetária no pagamento com atraso dos vencimentos de
+ servidores públicos24”.
+
+ “No que respeita ao subteto dos servidores estaduais, a Constituição estabeleceu a possibilidade de o
+ Estado optar entre: a definição de um subteto por poder, hipótese em que o teto dos servidores da
+ Justiça corresponderá ao subsídio dos Desembargadores do Tribunal de Justiça (art. 37, XI, CF, na
+ redação da Emenda Constitucional 41/2003); e a definição de um subteto único, correspondente ao
+ subsídio mensal dos Desembargadores do Tribunal de Justiça, para todo e qualquer servidor de qualquer
+ poder, ficando de fora desse subteto apenas o subsídio dos Deputados (art. 37, § 12, CF, conforme
+ redação da Emenda Constitucional 47/2005). Inconstitucionalidade da desvinculação entre o subteto dos
+ servidores da Justiça e o subsídio mensal dos Desembargadores do Tribunal de Justiça. Violação ao art.
+ 37, XI e § 12, CF. Incompatibilidade entre a opção pela definição de um subteto único, nos termos do
+ art. Art. 37, § 12, CF, e definição de "subteto do subteto", em valor diferenciado e menor, para os
+ servidores do Judiciário. Tratamento injustificadamente mais gravoso para esses servidores. Violação à
+ isonomia”25.
+
+ “Nos casos autorizados, constitucionalmente, de acumulação de cargos, empregos e funções, a
+ incidência do artigo 37, inciso XI, da Constituição Federal, pressupõe consideração de cada um dos
+ vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos
+ do agente público”26.
+
+ "As hipóteses excepcionais autorizadoras de acumulação de cargos públicos previstas na Constituição
+ Federal sujeitam-se, unicamente, a existência de compatibilidade de horários, verificada no caso
+ concreto, ainda que haja norma infraconstitucional que limite a jornada semanal"27.
+
+ A fixação de vencimentos dos servidores públicos não pode ser objeto de convenção coletiva28. O STF
+ vem determinando, em sede de mandado de injunção, a aplicação temporária ao setor público, no que
+ couber, da lei de greve vigente no setor privado, em razão da inexistência, até hoje, da lei
+ regulamentadora do direito de greve dos servidores públicos29.
+
+Estabilidade dos servidores efetivos
+
+                                                    JURISPRUDÊNCIA
+
+23
+   STF – Súmula Vinculante 55.
+24
+   STF – Súmula 682.
+25
+   STF – ADI 4.900.
+26
+   STF – REs 602043 e 612975.
+27
+   STF – ARE 1.246.685/RJ.
+28
+   STF – Súmula 679.
+29
+   STF – MI 670/ES, dentre outros.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo         12
+           www.estrategiaconcursos.com.br                                                            14
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ “Funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as
+ formalidades legais de apuração de sua capacidade”30.
+
+ ”O estágio probatório não protege o funcionário contra a extinção do cargo”31.
+
+- Ainda que os empregados públicos concursados não gozem da estabilidade prevista no art. 41
+da CF/88, a sua demissão deve ser devidamente motivada, não sendo necessário procedimento
+administrativo, mas apenas ato formal que indique claramente, ainda que de forma simples, as
+razões da demissão32:
+
+                                                    JURISPRUDÊNCIA
+ "As empresas públicas e as sociedades de economia mista, sejam elas prestadoras de serviço público ou
+ exploradoras de atividade econômica, ainda que em regime concorrencial, têm o dever jurídico de
+ motivar, em ato formal, a demissão de seus empregados concursados, não se exigindo processo
+ administrativo. Tal motivação deve consistir em fundamento razoável, não se exigindo, porém, que se
+ enquadre nas hipóteses de justa causa da legislação trabalhista".
+
+30
+   STF – Súmula 21.
+31
+   STF – Súmula 22.
+32
+   STF – RE 688267
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        13
+           www.estrategiaconcursos.com.br                                                           14
+
+                                        
+
+
+---
+
+---

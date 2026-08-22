@@ -1,0 +1,5237 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 02_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1) Programação - Lógica de Programação - Conceitos Básicos
+
+
+2) Programação - Lógica de Programação - Representações de Algoritmos
+
+
+3) Programação - Python - Conceitos Básicos
+
+
+4) Programação - Python - Tipos de Operadores
+
+
+5) Programação - Python - Funções
+
+
+6) Programação - Python - Comentários
+
+
+7) Programação - Python - Tipos e Variáveis
+
+
+8) Programação - Python - Controle de Fluxo
+
+
+9) Programação - Python - Orientação a Objetos
+
+
+10) Programação - Python - Arquivos
+
+
+11) Programação - Python - Desafio
+
+
+12) Mapa Mental - Programação - Python
+
+
+13) Resumo - Programação - Python
+
+
+14) Questões Comentadas - Programação - Python - Multibancas
+
+
+15) Lista de Questões - Programação - Python - Multibancas
+
+---
+
+Seus lindos, vamos iniciar a nossa aula de Python. Eu sei que muitas pessoas ficam
+preocupadíssimas achando que precisam aprender a programar para resolver questões de prova.
+Galera, não é necessário... vocês vão ver que é totalmente possível responder questões de
+programação sem nunca ter desenvolvido um software na vida. Fiquem calmos... venham comigo
+que vocês vão adorar descobrir como funciona um programa de computador ;)
+
+
+---
+
+---
+
+---
+
+O Edital traz um tópico sobre Python, mas eu insiro dois pequenos tópicos no início da aula sobre
+lógica de programação para que vocês entendam os fundamentos que norteiam o estudo de
+qualquer linguagem de programação. Para alunos que já tiveram alguma experiência prévia com
+programação ou que não encontram dificuldades no assunto, eu sugiro pular esses três
+primeiros tópicos e irem diretamente para o assunto de Python.
+
+Vamos lá... em primeiro lugar, por que nós chamamos de lógica? Porque nós vamos utilizar princípios
+lógicos para resolver geralmente, mas não exclusivamente, problemas computacionais. Como
+assim, Diego? É necessário utilizar um encadeamento de raciocínios coerentes para alcançar um
+determinado objetivo. Nós podemos descrever esses raciocínios como uma sequência de
+instruções ou passos.
+
+Professor, e o que seria uma instrução? É um conjunto de regras ou normas simples e bem
+definidas para a realização ou emprego de algo, indicando ao computador uma ação ou função
+elementar a ser executada. Galera, um computador não pensa, ele é burro – ele somente recebe
+ordens e as executa! O programador de computador – sim – é o cara inteligente que dá as ordens.
+Então, vejam só a linha de raciocínio...
+
+Um computador é excelente para realizar cálculos e processamentos, mas ele não consegue pensar
+sozinho. Já o programador é ótimo em pensar sozinho sobre como resolver problemas, mas ele não
+
+
+---
+
+tem capacidade de fazer bilhões de cálculos e processamentos. Logo, eles se juntam de forma que
+o programador possa pensar na forma de resolver um problema e criar um conjunto de
+instruções para que o computador apenas as execute.
+
+Sabe qual é o nome dado a um conjunto de instruções? Algoritmo! Programadores são especialistas
+em construir algoritmos. Formalmente podemos definir um algoritmo como um conjunto
+predeterminado e bem definido de passos destinados à solução de um problema, com um número
+finito de etapas. Professor, você pode dar um exemplo? Claro! O exemplo mais comum da
+bibliografia é mostrado a seguir: uma receita de bolo.
+
+Qual é o problema que desejamos resolver? Nós queremos fazer um bolo! Observem que para
+solucionar nosso problema – fazer um bolo –, é necessário seguir uma sequência de passos
+finitos e predeterminados. Galera, no fim das contas um software é apenas a representação de um
+algoritmo. Claro que é um algoritmo bastante complexo que exige um conjunto de recursos e
+ferramentas computacionais, mas – no fim das contas – é apenas um algoritmo.
+
+
+     (MPCM – 2015) Um algoritmo é:
+
+
+---
+
+a) Uma sequência de passos para realizar uma atividade.
+b) A operação matemática inversa a potencia.
+c) A parte de um programa em que se limita a definir os tipos de dados das variaveis.
+d) A parte de um programa em que se limita a definir as constantes.
+e) Um software utilizado para escrever programas
+_______________________
+Comentários: um algoritmo é uma sequência de passos para realizar uma atividade (Letra A).
+
+(CODENI/RJ – 2010) É a descrição de um padrão de comportamento, expressado em
+termos de um repertório bem definido e finito de ações "primitivas", das quais damos por
+certo que elas podem ser executadas. A descrição refere-se a:
+
+a) Sequenciamento.      b) Algoritmo.                                  c) Compilador.              d) Modularização.
+_______________________
+Comentários: ações primitivas que podem ser executadas é um algoritmo (Letra B).
+
+(PC/RJ – 2013) Marque a opção que determina uma lista de procedimentos bem definida,
+que pega algum valor, ou conjunto de valores como entrada, e produz algum valor ou
+conjunto de valores como saída.
+
+a) Algoritmo.     b) Código.                              c) Chave                     d) Inserção.             e) Loop.
+_______________________
+Comentários: lista de procedimentos bem definida é um algoritmo (Letra A).
+
+(Câmara de Juiz de Fora/MG – 2018) Lógica de programação é o modo como se escreve
+um programa de computador, um algoritmo. Um algoritmo é uma sequência de passos
+para se executar uma função.
+_______________________
+Comentários: perfeito... um algoritmo é uma sequência de passos para se executar uma função (Correto).
+
+(Câmara de Juiz de Fora/MG – 2018) Saber lógica de programação é saber o melhor jeito
+de escrever um código, para o computador interpretar corretamente. É saber se
+comunicar com a máquina a partir de uma linguagem seja lá qual for.
+_______________________
+Comentários: perfeito... é uma linguagem em comum entre humanos e máquinas (Correto).
+
+(CRM/PR – 2018) Os algoritmos são sequências finitas de instruções que, quando
+corretamente executadas, levam à solução de um problema.
+_______________________
+Comentários: perfeito... algoritmos são sequências finitas de instruções para resolver um problema (Correto).
+
+
+---
+
+Todos os programas de um computador ou dispositivos são representações de algoritmos! Inclusive
+o Candy Crush no meu celular? Sim! O Uber, Waze e Spotify também? Eles também! Se você pudesse
+ver como são internamente cada programa, você perceberia que todos são basicamente um
+conjunto de instruções. Dito isso, vamos ver a seguir as maneiras possíveis de se representar um
+algoritmo. Venham comigo...
+
+Também conhecida como Descrição Narrativa, trata-se da maneira como expressamos nosso
+raciocínio e trocamos informações. Como é a expressão da cultura de uma sociedade,
+desenvolvida através das gerações e em diferentes situações, raramente constitui um sistema de
+regras rígidas e estruturadas que possa ser implementada numa máquina ou que possa ser
+transcrita logicamente.
+
+Além da linguagem falada, fazem parte da nossa comunicação gestos e posturas, que não podem
+ser diretamente adaptados para compreensão de uma máquina. Ademais, toda a comunicação
+eficiente pressupõe um conhecimento prévio comum entre os interlocutores, por exemplo: a
+mesma língua, a mesma bagagem cultura, etc. Ao contrário dos seres humanos, as máquinas são
+projetadas para executar tarefas bem determinadas a partir de determinadas instruções.
+
+Um computador não é por si só uma máquina inteligente – no sentido de que não pode aprender
+com a própria experiência para melhorar seu comportamento futuro. Ao contrário, um computador
+é somente capaz de realizar estritamente as tarefas que lhe forem delegadas e que façam parte do
+conjunto daquelas ações que ele pode executar. Neste sentido, é necessário compreender que
+tipo de instruções podem ser executadas pelos computadores. Por que?
+
+Para que possamos programá-los – instruí-los com a sequência de ações necessárias para resolver
+um determinado problema – de modo que realizem a tarefa do modo desejado. Em suma: basta
+que eu escreva um conjunto de passos em qualquer língua que o meu computador realiza a tarefa que
+eu quiser? Não, isso é uma descrição narrativa que utiliza a linguagem natural para especificar
+os passos para a realização das tarefas – são ambíguas e não estruturadas.
+
+
+     (EBC – 2011) A descrição narrativa é uma forma de algoritmo que utiliza linguagem
+     estruturada e, embora sua estrutura e simbologia apresentem pequenas diferenças em
+     relação à língua portuguesa, também é chamada de português estruturado.
+     _______________________
+     Comentários: a descrição narrativa utiliza linguagem natural para especificar os passos para a realização das tarefas. Isso dá
+     margem a más interpretações e ambiguidades. O português estruturado – pseudocódigo –realmente utiliza uma linguagem
+     estruturada, mas não é a mesma coisa que descrição narrativa (Errado).
+
+
+---
+
+Além do fato de o computador necessitar que lhe instruam com ações bem específicas, estas
+ações devem ser passadas para o computador numa linguagem que ele possa entendê-las,
+chamada linguagem de máquina. Esta linguagem é composta somente por números,
+representados de forma binária (0 e 1), que – sob o ponto de vista do computador – representam as
+operações e os operandos que serão usados no processamento do programa.
+
+Para um ser humano, a linguagem de máquina é extremamente difícil de se compreender. Querem
+um exemplo? A saudação “Olá, Estratégia Concursos” em linguagem de máquina seria:
+
+01001111011011001110000100101100010001010111001101
+11010001110010011000010111010011101001011001110110
+10010110000101000011011011110110111001100011011101
+010111001001110011011011110111001100100001
+Vocês já imaginaram alguém programando na linguagem de máquina? Seria inviável! Existe,
+portanto, uma linguagem representada por comandos, mas que reproduz as tarefas que serão
+executadas dentro do computador, chamada Linguagem de Montagem (Assembly). No entanto,
+mesmo a linguagem de montagem é difícil de programar – além de outros problemas como a
+especificidade do processador. Vejam como seria a mesma saudação em Assembly:
+
+  4F6CE12C457374726174E9676961436F6E637572736F7321
+Viram que já melhorou? Está melhor e já existem algumas letras, no entanto ainda seria muito
+complicado para um ser humano programar utilizando essa linguagem. Vamos seguir...
+
+
+     (IFC/SC – 2015) Para armazenar um algoritmo na memória de um computador e para
+     que ele possa, em seguida, comandar as operações a serem executadas, é necessário que
+     ele seja programado, isto é, que seja transcrito para uma linguagem que o computador
+     possa “entender”, direta ou indiretamente. Os computadores só podem executar
+     diretamente os algoritmos expressos em:
+
+     a) Linguagem de máquina.
+     b) Linguagem orientada a objeto.
+     c) Linguagem constante.
+     d) Linguagem simbólica.
+     _______________________
+     Comentários: computadores só “entendem” Linguagem de Máquina (Letra A).
+
+
+---
+
+Para facilitar a tarefa de programar um computador, foram criadas várias linguagens de
+programação. Estas linguagens são uma maneira de tentar escrever as tarefas que o
+computador vai realizar de maneira mais parecida com a linguagem natural. Embora ainda seja
+muitas vezes complexo em comparação com a linguagem natural, um programa escrito em uma
+linguagem de programação é muito mais fácil de ser implementado, compreendido e modificado.
+
+As linguagens de programação são um meio termo entre a linguagem de máquina e a
+linguagem natural. As linguagens mais parecidas com a linguagem de máquina são classificadas
+como linguagens de baixo nível. Já as linguagens mais parecidas com a linguagem natural são
+classificadas como linguagens de alto nível. Como um computador não entende diretamente
+linguagens de programação, ela deve ser traduzida em código de máquina antes de ser executada.
+
+Esse processo é chamado de tradução e é responsável por converter os comandos da linguagem de
+programação nas instruções em linguagem de máquina, que o computador é capaz de processar!
+Em suma: as linguagens de programação surgem – portanto – como uma solução para abstrair
+a comunicação entre seres humanos e computadores de modo que o computador nos entenda
+e nós os entendamos. A mesma saudação em uma linguagem de programação seria:
+
+Nesse caso, a linguagem de programação utilizada foi a linguagem Python, mas existem
+centenas de outras. Assim como seres humanos se comunicam por meio de diversas línguas
+(Exemplo: português, inglês, francês, japonês, dinamarquês, entre outras), as máquinas também
+podem se comunicar por meio de diversas linguagens de programação (Exemplo: Java, PHP, C++,
+Python, Ruby, entre outras).
+
+Bem, acho que todo mundo já ouviu falar alguma vez na vida em Código-Fonte. Se você não
+sabe o que é um código-fonte, eu tenho uma tarefa para você executar agora: abra algum
+navegador web (Ex: Google Chrome, Mozilla Firefox ou Microsoft Edge), acesse qualquer site que
+vocês queiram e pressionem a Tecla F12. Pronto, vocês verão o código-fonte por trás do site
+bonitinho que você está vendo...
+
+Um código-fonte é uma versão do software da forma em que ele foi originalmente escrito – digitado
+em um computador – por um programador humano em texto puro (caracteres alfanuméricos
+humanamente legíveis). Todo software ou site possui um código-fonte, que é um conjunto de
+palavras organizadas de acordo com regras específicas. Essas palavras que formam o algoritmo
+são escritas – em geral – utilizando linguagens de programação.
+
+
+---
+
+Uma vantagem interessante da linguagem de programação em relação à linguagem de máquina é
+que um programa escrito em linguagem de máquina – como contém instruções escritas para um
+processador específico – só poderá ser utilizado naquele processador ou em similares. Em
+contrapartida, uma linguagem de programação, como contém somente instruções abstratas
+do que fazer, pode ser executado em qualquer processador ou máquina.
+
+
+    (Câmara de Juiz de Fora/MG – 2018) A linguagem de programação é como uma língua
+    normal, um grupo de palavras com significados. No caso da programação, a maioria das
+    linguagens é escrita em Inglês. Estas linguagens fazem o computador assimilar cada
+    comando e função de um algoritmo, depois executar cada função.
+    _______________________
+    Comentários: as linguagens de programação realmente são similares a uma língua normal que geralmente utilizam palavras
+    em inglês e que servem de padrão comum entre humanos e máquinas (Correto).
+
+
+---
+
+O pseudocódigo é uma linguagem intermediária entre a linguagem natural e a linguagem de
+programação. Ela utiliza um conjunto restrito de palavras-chave, em geral na língua nativa do
+programador, que tem equivalentes nas linguagens de programação. Além disso, o pseudocódigo
+não requer a rigidez sintática necessária numa linguagem de programação, permitindo que um
+aprendiz se atenha à lógica do algoritmo e, não, ao formalismo da sua representação.
+
+À medida que se obtém mais familiaridade com os algoritmos, o pseudocódigo pode ser traduzido
+para uma linguagem de programação. Por essa razão, ele é considerado um excelente instrumento
+pedagógico para ensinar linguagens de programação. Em suma, um pseudocódigo é uma
+representação abstrata de um algoritmo utilizando uma linguagem simples sem necessidade
+de conhecer a sintaxe correta de nenhuma linguagem de programação.
+
+Pode-se dizer também que ele é uma simulação de uma linguagem de programação real, mas que
+– na verdade – é uma linguagem de programação “de mentirinha”. Logo, ela não pode ser utilizada
+para criar softwares de verdade, mas são excelentes para ajudar a entender a lógica. Um tipo
+de pseudocódigo brasileiro é o Portugol ou Português Estruturado. O que é isso, Diegão? Cara, é
+uma pseudolinguagem utilizada para ensinar algoritmos em português.
+
+                                     Sim, em português! Porque vocês perceberão que a imensa maioria
+                                     das linguagens de programação do mercado utilizam como base a
+                                     língua inglesa. Professor, esse português estruturado é moleza de
+                                     entender? Galera, embora ele seja uma linguagem simplificada, ele
+                                     possui todos os elementos básicos necessários para construir um
+                                     algoritmo por meio de uma estrutura semelhante à de uma
+                                     linguagem de programação de computadores.
+
+Dessa forma, resolver problemas com português estruturado pode ser uma tarefa tão complexa
+quanto a de escrever um programa em uma linguagem de programação qualquer, porém utilizando
+uma linguagem mais simples! Bacana? A imagem anterior é um exemplo de português estruturado.
+Comparem com o exemplo da linguagem de programação e vocês notarão que a diferença está
+na língua utilizada, mas continua sendo um algoritmo.
+
+     (CFO/DF – 2017) O portugol é uma das formas de se representar um algoritmo.
+     _______________________
+     Comentários: portugol é realmente uma das formas de se representar algoritmos (Correto).
+
+     (EBC – 2011) Para especificar os passos de um algoritmo, o pseudocódigo utiliza uma
+     linguagem natural com característica pouco formal, o que pode causar ambiguidade e
+     propiciar interpretações errôneas.
+     _______________________
+     Comentários: ele não usa linguagem natural e nem é ambíguo (Errado).
+
+
+---
+
+Além do português estruturado, é possível representar um algoritmo também por meio de um
+Fluxograma! O que é isso, professor? É uma espécie de diagrama utilizado para documentar
+processos, ajudando o leitor a visualizá-los, compreendê-los mais facilmente e encontrar falhas ou
+problemas de eficiência, como mostra a imagem abaixo. Nada como usar imagens – agora vai ficar
+beeeeem mais fácil de entender. Vamos ver um exemplo...
+
+O que mostra o diagrama anterior? Ele mostra um algoritmo – conjunto de instruções – para comprar
+um curso de informática. Você acessa o site do Estratégia Concursos, depois procura por cursos
+do Prof. Diego Carvalho, baixa e acessa a aula demonstrativa, lê e decide se gostou ou não!
+Gostou? Compra para estudar! Não gostou? Compra também para ajudar! Brincadeira, pessoal! Com
+um fundo de verdade! Mas é brincadeira (mas é verdade...).
+
+Bem, nós vimos então que podemos representar algoritmos por meio de Descrições Narrativas,
+Linguagens de Programação, Pseudocódigos ou Fluxogramas! Em geral, os fluxogramas são mais
+utilizados para leigos; pseudocódigo para usuários um pouquinho mais avançados; e linguagens de
+programação para os usuários avançados. Agora que já vimos diversas representações de
+algoritmos, vamos falar de conceitos mais específicos e avançados.
+
+
+---
+
+Antes de iniciar a aula, é importante mencionar que vários exemplos dessa aula foram retirados ou
+inspirados em exemplos do W3Tutorials (www.w3schools.com/python). Não fizemos isso porque
+somos preguiçosos, mas por dois motivos: (1) os exemplos são excelentes; (2) essa é umadas
+fontes de inspiração das bancas. Além disso, eu sugiro que vocês tenham sempre aberta uma
+janela com um interpretador online para que vocês possam testar o que veremos. Recomendo esse:
+
+O que é Python? Python é uma linguagem de programação de alto nível, interpretada,
+multiparadigma e case-sensitive sendo bastante utilizada para desenvolvimento web, criação
+de fluxos de trabalho, conexão com bancos de dados, resolução de problemas matemáticos,
+prototipação de software, entre outros. Eu sei, eu sei que você tomou aquele susto, mas relaxa
+que nós vamos entender cada um desses conceitos. Não é tão difícil quanto parece...
+
+
+                        Trata-se de uma linguagem de alto nível porque é uma linguagem com nível de
+                        abstração bastante elevado, bem longe do código de máquina e mais próximo da
+
+
+---
+
+                                      linguagem humana. Em outras palavras, o Python está muito mais próximo à forma
+                                      humana de pensar/escrever do que dos comandos entendidos por um processador.
+                                      Trata-se de uma linguagem interpretada porque seu código-fonte é executado linha a
+                                      linha por um interpretador (software que traduz uma linguagem em outra) e depois
+                                      pelo sistema operacional, isto é, seu código -fonte não precisa ser totalmente
+                                      transformado em código de máquina para somente depois ser executado1.
+                                      Trata-se de uma linguagem multiparadigma porque suporta mais de um paradigma
+                                      de programação. No caso, eles são: imperativo, procedural, funcional e orientado a
+                                      objetos. Paradigmas são formas diferentes de resolver problemas – alguns utilizam
+                                      funções, outros utilizam objetos, outros procedimentos e assim por diante.
+                                      Trata-se de uma linguagem case-sensitive, isto é, capaz de diferenciar maiúsculas e
+                                      minúsculas. Em outras palavras, isso significa que as variáveis nome, Nome e NOME
+                                      são diferentes entre si, uma vez que possuem diferenças de caixa em sua grafia.
+
+Acabou? Não acabou! Python é uma linguagem multiplataforma, podendo ser utilizada no
+Windows, Linux, MacOS, etc. Além disso, ele é fácil de aprender e possui uma linguagem simples
+extremamente semelhante com o inglês comum. Pode-se afirmar também que é uma linguagem
+menos verbosa, isto é, sua sintaxe permite escrever softwares com menos palavras e linhas que
+outras linguagens semelhantes. Acabou? Ainda não...
+
+Python é uma linguagem de tipagem forte e dinâmica. Como é, Diego? Linguagens de
+programação possuem um conjunto de regras sobre como tratar tipos de dados, sendo que a
+tipagem de uma variável pode ser estática/dinâmica ou fraca/forte. Linguagens com tipagem
+estática não permitem alteração de tipo de variável durante a execução do código-fonte; já
+linguagens com tipagem dinâmica permitem essa alteração.
+
+No código abaixo, nós declaramos uma variável com nome de var1 e a atribuímos o valor ‘Diego’,
+logo a linguagem já infere que se trata de uma variável do tipo string (conjunto de caracteres)2. Em
+seguida, nós atribuímos o valor 2020 (que é do tipo int) a essa mesma variável e não ocorre nenhum
+erro. Ela permite que a variável var1 tenha seu tipo modificado de string para int (inteiros). Se uma
+linguagem permite esse tipo de alteração durante a execução, trata-se de uma tipagem dinâmica.
+
+var1 = ‘Diego’
+var1 = 2020
+
+
+Linguagens com tipagem forte não permitem realizar algumas operações com variáveis de tipos
+diferentes sem conversão; já linguagens com tipagem fraca permitem realizar esse tipo de
+operação. No código abaixo, declaramos uma variável com nome de var2 e a atribuímos o valor
+
+1
+  Isso significa que o código-fonte pode ser executado linha por linha em tempo real à medida que sendo traduzida pelo interpretador. Há outras
+linguagens que são compiladas, isto é, primeiro traduz todo o programa e só depois pode ser executada.
+2
+ Essa inferência é conhecida como Duck Typing (Tipagem de Pato). Esse nome vem da expressão: “Se anda como pato, nada como um pato e faz
+quack como um pato, então provavelmente é um pato”. Em outras palavras, isso significa que o tipo de uma variável é inferido pelo interpretador
+em tempo de execução pelo valor que foi atribuído a ela. Se eu atribuo um valor do tipo string, significa que a variável é do tipo string; se eu atribuo
+um valor do tipo inteiro, significa que a variável é do tipo inteiro; e assim por diante.
+
+
+---
+
+‘20’, logo a linguagem já infere que se trata de uma variável do tipo string. Ué, Diego? Como assim?
+Galera, tudo que vier entre aspas é considerado uma string (até mesmo números).
+
+var2 = ‘20’
+print(10 + var2)
+
+
+Na linha seguinte, há um comando (print) para imprimir na tela a soma de 10 com var2 – sendo que
+10 é do tipo int e var2 é do tipo string. Isso resultará em um erro porque o Python não permite
+realizar uma soma entre variáveis string e int – seria necessário fazer uma conversão antes de
+realizar a operação desejada. Linguagens de programação de tipagem fraca permitem fazer esse
+tipo de operação sem precisar fazer uma conversão prévia de tipos.
+
+Python tem tipagem forte, logo teríamos que fazer uma conversão explícita transformando var2
+em um inteiro antes de imprimir o valor em tela. Se ela tivesse tipagem fraca, faria essa conversão
+implicitamente, sem a necessidade de o programador indicar que deseja fazer uma conversão.
+Enfim, Python é uma linguagem de tipagem forte e dinâmica, porque não possui conversão
+implícita de tipos e porque permite alterar o tipo de uma variável durante a execução do código.
+
+Por fim, essa linguagem de programação apresenta código-fonte agrupado por indentação. O que
+diabos é isso, professor? Indentar é o recuo do texto em relação a sua margem! Em outras palavras,
+se antes de escrevermos uma instrução, utilizarmos quatro espaçamentos da margem esquerda até
+a instrução propriamente dita, podemos dizer que a indentação utilizada possui quatro espaços.
+Esse termo vem do inglês indentation e é bastante comum em linguagens de programação.
+
+Algumas linguagens utilizam marcadores textuais para identificar e delimitar blocos de código,
+como chaves ({ }) ou palavras-chave (begin/end). O Python não utiliza nenhum marcador textual
+para isso – ele utiliza apenas a profundidade da indentação. Dessa forma, códigos que estiverem
+rente a margem esquerda farão parte do primeiro nível hierárquico; os que estiverem a quatro
+espaços da margem esquerda estarão no segundo nível hierárquico; e assim por diante.
+
+Todos os blocos são delimitados pela profundidade da indentação e, por conta disso, sua
+organização é vital para o programa escrito nessa linguagem. A sua má utilização acarretará à
+não execução ou no mal funcionamento do software. Assim, se você criar um while e quiser colocar
+4 comandos dentro dele, terá que colocar todos com uma indentação de alguns espaços. Quantos
+espaços? Quantos você quiser – desde que seja a mesma quantidade no bloco. Veja o exemplo:
+
+
+---
+
+No código da esquerda, a linha 2 cria um loop de repetição em que as linhas 3 a 6 serão repetidas
+enquanto i < 3. Sabemos disso porque todas essas linhas estão com indentação interna ao comando
+while. Por sua vez, a linha 5 está em um bloco pertencente ao if da linha 4, pois está quatro espaços
+para dentro do if. Dessa forma, a indentação (ou endentação) em Python é estrutural e não apenas
+um elemento de organização visual, tanto que o código da esquerda é diferente.
+
+
+    Python permite utilizar ponto-e-vírgula (;) para delimitar comandos, mas de forma opcional – assim como em
+    outras linguagens como JavaScript e Typescript.
+
+    Python é distribuída sob uma licença própria (compatível com a GPL), que permite a distribuição – comercial ou
+    não – tanto da linguagem quanto de aplicações desenvolvidas nela, em formato binário ou código fonte, bastando
+    cumprir a exigência de manter o aviso de copyright.
+    Python permite que programas sejam compilados para um formato portável chamado de bytecode. Essa
+    característica faz com que programas escritos nessa linguagem com uma biblioteca padrão sejam executadas da
+    mesma forma em diversos sistemas operacionais que possuam um software interpretador de Python.
+    Python possui uma interface com muitas bibliotecas e sistemas de janela, sendo extensível em C/C++. Além disso,
+    pode ser utilizada como linguagem de extensão para aplicações que necessitam de uma interface programável
+    (muito comum em aplicativos, jogos, processamento de textos, dados científicos e motores de busca).
+    Python possui funcionalidades para expressões regulares; sockets; threads; data/tempo; analisadores XML;
+    analisadores de arquivos de configuração; manipulação de arquivos e diretórios; persistência de dados; unidades
+    de testes; bibliotecas clientes para os protocolos HTTP, FTP, IMAP, SMTP e NNTP.
+    Python suporta o paradigma orientado a objetos com todos os seus componentes, tais como herança (simples ou
+    múltipla), polimorfismo, sobrescrita, encapsulamento, abstração, reflexão, introspecção, etc! Não é necessário
+    entender o que isso significa exatamente, apenas saber que ele suporta e que tudo em Python é um objeto3.
+
+
+Galera, apenas para finalizar é importante mencionar que houve algumas mudanças introduzidas
+na virada da versão do Python de 2.x para o Python 3.x. Vocês podem acabar fazendo questões de
+provas antigas e ficarem um pouco confusos, por isso estou fazendo essa ressalva! Em termos de
+concurso, acredito que vale mencionar apenas uma mudança: o print mudou de instrução para
+função. O que isso significa na prática? Significa apenas que agora precisa de parênteses:
+
+print 'Olá Mundo' # até versão 2.7
+print('Olá Mundo')# a partir da versão 3.0
+
+
+        (IF/MT – 2018) Sobre a linguagem Python, é INCORRETO afirmar que:
+
+        a) Suporta os paradigmas: imperativo, orientado a objetos e funcional.
+        b) Utiliza indentação para delimitar início e fim de blocos.
+        c) A linguagem Python é distribuída sob licença que proíbe sua incorporação em
+        produtos proprietários.
+
+3
+  Esse paradigma trata um software como uma coleção de agentes interconectados chamados de objetos, que são uma posição na memória que
+funciona como abstração para qualquer coisa que tenha atributos e comportamentos (Ex: se eu quero representar pessoas em um software, eu posso
+criar um Objeto Pessoa e configurar seus atributos – pessoa tem nome, idade, altura, etc – e seus comportamentos – pessoa fala, come, anda, etc.
+
+
+---
+
+d) Python é uma linguagem de tipagem dinâmica e forte.
+e) Python é um software de código aberto.
+_______________________
+Comentários: (a) Correto, ele suporta todos esses paradigmas de programação; (b) Correto, ele realmente utiliza endentação
+para delimitar início e fim de blocos de programação; (c) Errado, Python é um software de código aberto (com licença compatível
+com a GPL - General Public License), porém menos restritiva – permitindo que ele seja incorporado em produtos proprietários;
+(d) Correto, ele realmente possui tipagem dinâmica e forte; (e) Correto, ele é uma linguagem de programação, mas também
+pode ser considerado um software de código aberto pelo conjunto (Letra C).
+
+(IF/PB – 2015) Sobre a tipagem de dados na linguagem Python, considere as seguintes
+afirmativas:
+
+I. Python possui tipagem dinâmica.
+II. Python possui tipagem forte.
+III. Python não possui tipagem.
+IV. Python possui tipagem fraca.
+V. Python possui tipagem estática.
+
+Está CORRETO o que se afirma apenas em:
+
+a) III.
+b) I e II.
+c) IV e V.
+d) I e IV.
+e) II e V.
+_______________________
+Comentários: (I) Correto, ele possui tipagem dinâmica; (II) Correto, ele possui tipagem forte; (III) Errado, ele possui tipagem;
+(IV) Errado, ele possui tipagem forte; (V) Errado, ele possui tipagem dinâmica (Letra B).
+
+(IF/RS – 2019) Em relação às características da linguagem Python, é correto afirmar que:
+
+a) tem tipagem fraca e dinâmica.
+b) deve ser usada, exclusivamente, para programação web.
+c) tem suporte a herança múltipla.
+d) a tupla é um tipo mutável.
+_______________________
+Comentários: (a) Errado, tem tipagem forte e dinâmica; (b) Errado, pode ser utilizada para desenvolvimento web, criação de
+fluxos de trabalho, conexão com bancos de dados, resolução de problemas matemáticos, prototipação de software, entre
+outros; (c) Correto, ele realmente suporta orientação a objetos e herança múltipla; (d) Errado, tupla é tipo imutável (Letra C).
+
+
+---
+
+Assim como na matemática, operadores são elementos utilizados em linguagens de programação
+para realizar operações. Existem quase 40 operadores em Python, mas nós não vamos ver todos
+porque diversos deles possuem um péssimo custo/benefício e não valerá a pena! Vamos nos ater
+– portanto – aos operadores mais cobrados em prova. Abaixo serão apresentadas categorias de
+operadores com suas descrições e exemplos.
+
+Operadores Matemáticos são os mais simples comuns. Nós aprendemos todos eles na época de
+escola, só basta lembrar da ordem de precedência1:
+
+
+           +                            Soma                       10 + 10 = 20.
+            -                        Subtração                     20 - 20 = 0.
+           *                        Multiplicação                  15 * 25 = 375.
+            /                          Divisão                     25 / 4 = 6,25.
+           //                     Divisão com Piso                 25 // 4 = 6 (6,25 arredondado para baixo) .
+           **                      Exponenciação                   2 ** 5 = 32.
+           %                           Módulo                      30 % 7 = 2 (resto da divisão).
+
+
+Operadores de Atribuição são usados para atribuir valores a variáveis! Considerem na tabela abaixo
+que as operações seguem uma sequência (o resultado da linha atual depende da linha anterior)2:
+
+
+            =                   Atribuição Simples                 x = 10 é o mesmo que atribuir o valor 10 a x.
+           +=                 Atribuição com Soma                  x += 1 é o mesmo que x = x + 1, logo x = 10 + 1 = 11.
+           -=               Atribuição com Subtração               x -= 6 é o mesmo que x = x - 6, logo x = 11 – 6 = 5.
+           *=                Atribuição com Produto                x *= 2 é o mesmo que x = x*2, logo x = 5 * 2 = 10.
+           /=                Atribuição com Divisão                x /= 5 é o mesmo que x = x / 5, logo x = 10 / 5 = 2.
+
+
+Operadores de Comparação (também chamados de Operadores Relacionais) são utilizados para
+comparar valores! Nos exemplos abaixo, considere sempre que x = 1 e y = 2. Vejamos...
+
+
+           ==                            Igual                     x == y retorna Falso.
+           !=                          Diferente                   x != y retorna Verdadeiro.
+
+1
+  A ordem de precedência é uma convenção que indica a ordem pela qual devem ser realizadas as operações em uma expressão com vá rios
+operadores. O Python utiliza a ordem PEMMDAS: Parênteses, Exponenciação, Multiplicação/Módulo/Divisão (o que vier primeiro da esquerda para
+direita), Adição/Subtração (o que vier primeiro da esquerda para direita).
+2
+    Diferente de outras linguagens, Python não possui o operador incremento (++) e decremento (--).
+
+
+---
+
+       >                    Maior que                   x > y retorna Falso.
+       <                    Menor que                   x < y retorna Verdadeiro.
+      >=                  Maior ou igual a              x >= y retorna Falso.
+      <=                  Menor ou igual a              x <= y retorna Verdadeiro.
+
+
+Operadores Lógicos são utilizados para combinar condições em expressões e também são
+frequentemente utilizados em Python. Nos exemplos abaixo, considerem que x = 10 e y = 20:
+
+
+                   Retorna Verdadeiro se ambas
+     and                                                x == 10 and y > 20 retorna Falso.
+                   condições forem Verdadeiras
+                  Retorna Verdadeiro se uma das
+      or                                                x == 10 or y > 20 retorna Verdadeiro.
+                     condições for Verdadeira
+                    Inverte o resultado de uma
+     not                                                not(x == 10 or y > 20) retorna Falso.
+                        condição qualquer
+
+
+Operadores de Associação são utilizados para verificar se um conjunto de valores está presente em
+um objeto. Vejamos como funciona:
+
+
+                     Retorna Verdadeiro se o            x = [“Flamengo”, “Vasco”]
+      in            conjunto de valores estiver         y = “Botafogo” in x
+                        presente no objeto              print(y) retornará Falso porque Botafogo não está na lista.
+                     Retorna Verdadeiro se o            x = [“Flamengo”, “Vasco”]
+    not in        conjunto de valores não estiver       y = “Flamengo” not in x
+                        presente no objeto              print(y) retornará Falso porque Flamengo está na lista.
+
+
+     (MPE/AL – 2018) Considere os seguintes operadores:
+
+               Exponenciação
+               Comparação de Igualdade
+               Módulo (Resto da Divisão)
+
+     Assinale a lista dos símbolos que, respectivamente, representam esses operadores no
+     Python:
+
+     a) ^ == mod
+     b) ** == %
+     c) ** = %
+     d) ** = mod
+     e) ^ = mod
+     _______________________
+     Comentários: Exponenciação é representado por **; Comparação de Igualdade é representado por == e Módulo (Resto da
+     Divisão) é representado por % (Letra B).
+
+
+---
+
+(AL/RR – 2010 – Letra E) O operador lógico de conjunção ("e", como em a e b) é &&.
+_______________________
+Comentários: o operador lógico de conjunção (“e”, como em a e b) é o and e, não, && (Errado).
+
+(CEV – 2018 – Letra A) O operador lógico de conjunção (“e”, como em aa e bb) é &&.
+_______________________
+Comentários: o operador lógico de conjunção (“e”, como em aa e bb) é o and e, não, && (Errado).
+
+(IFC/SC – 2015 – Item I) b %= a é equivalente a b = b % a.
+_______________________
+Comentários: b %= a é a forma reduzida de representar b = b % a – assim como b += a equivale é b = b+a (Correto).
+
+(IFC/SC – 2015 – Item II) <> é o operador de comparação que significa “diferente de” em
+Python. O operador != também é, mas este é um operador obsoleto e não se recomenda
+mais sua utilização.
+_______________________
+Comentários: o operador de "diferente de" do Python é o != e, não, <> (Errado).
+
+
+---
+
+Uma função é um bloco de código que é executado apenas quando é invocado. São três passos
+bem simples: (1) uma função é invocada; (2) é passado algum dado como parâmetro ou não; (3) e
+algum dado é retornado como resultado. No Python, uma função é definida utilizando a palavra-
+chave def. Sempre que você vir essa palavra em um código-fonte, saiba que ela está definindo uma
+função (lembrando que a utilização de chaves para delimitar o bloco é facultativa). Seguindo...
+
+                               Sintaxe: def NomeFunção(argumentos):
+
+def BomDia():
+    print('Bom dia!')
+
+
+No código acima, foi definida uma função chamada BomDia(). Toda vez que essa função for
+invocada, será impresso na tela as palavras “Bom dia!”. Professor, o que você quer dizer com invocar
+uma função? Invocar significa chamar essa função para que ela seja executada. Caso eu deseje que
+essa função seja executada em algum ponto do meu código-fonte, eu posso invocá-la bastando
+apenas chamar seu nome: BomDia().
+
+Professor... e se a minha função precisar de alguns dados para que ela consiga processar alguma
+informação e retornar um resultado? Sem problemas! Nós podemos passar alguns parâmetros –
+também chamados de argumentos – dentro dos parênteses separados por vírgulas. Modificando
+um pouco a função definida no código anterior, nós podemos inserir um nome como parâmetro
+de modo que seja impressa uma mensagem que dependerá do parâmetro passado:
+
+def BomDia(nome):
+    print('Bom dia, ',nome)
+
+
+Note que agora a função precisa de um parâmetro para que possa ser executada! Logo, se eu invoco
+essa função como BomDia(‘Diego’), será impressa a mensagem “Bom dia, Diego”. Vejam só:
+
+BomDia('Diego Carvalho') #Retornará Bom dia, Diego Carvalho
+BomDia('Renato da Costa') #Retornará Bom dia, Renato da Costa
+BomDia('Ricardo Vale')    #Retornará Bom dia, Ricardo Vale
+BomDia('Herbert Almeida') #Retornará Bom dia, Herbert Almeida
+
+
+Como já dissemos, é possível também passar mais de um parâmetro para uma função. Para tal,
+basta separá-los por vírgula dentro dos parênteses:
+
+def BomDia(nome1, nome2):
+    print('Bom dia, ' + nome1 + ' e ' + nome2)
+
+BomDia('Diego','Renato')   #Retornará Bom dia, Diego e Renato
+
+
+---
+
+Em todas as funções apresentadas, não se retornou nenhum resultado (dados apenas foram
+impressos em tela). No entanto, é possível retornar algum valor usando a palavra-chave return:
+
+def MultiplicaPorCinco(numero):
+    return 5*numero #Retornará o número do parâmetro multiplicado por 5
+
+print(MultiplicaPorCinco(1))     #Imprimirá 5*1 = 5
+print(MultiplicaPorCinco(2))     #Imprimirá 5*2 = 10
+print(MultiplicaPorCinco(3))     #Imprimirá 5*3 = 15
+print(MultiplicaPorCinco(4))     #Imprimirá 5*4 = 20
+print(MultiplicaPorCinco(5))     #Imprimirá 5*5 = 25
+
+
+Um dado importante é que uma variável somente está disponível dentro da região em que ela é
+criada – chamamos isso de escopo! Como é, Diego? Vejam o código-fonte abaixo:
+
+def minhaFuncao(y):
+    x = y + y       #Escopo Local
+    print(x)
+    return x
+
+x = 5                 #Escopo Global
+minhaFuncao(x)
+print(x)
+
+
+Notem que definimos inicialmente uma função chamada minhaFuncao( ). Toda variável criada
+dentro dessa função possui um escopo local, logo somente podem ser utilizadas dentro dessa
+função. Em seguida, temos x = 5 com uma indentação diferente, logo ele não possui escopo local
+daquela função, ele possui um escopo global. Por que? Porque ele não foi criado dentro da função,
+portanto ele existe e pode ser utilizado em qualquer parte do código.
+
+Dito isso, vamos analisar o código! A função é definida (linhas 1 a 4), depois cria-se uma variável
+x com valor 5 e chama-se a função com esse parâmetro (linha 7), logo minhaFuncao(5). Quando
+essa variável vai para dentro da função, ela é recebida como y (minhaFuncao(y)). E essa função cria
+uma variável x (que só existe dentro dela) e diz que x = y + y. Ora, quanto é y? y = 5, logo x = 5+5 = 10.
+Na linha 3, a função imprime x (logo, imprime 10) e retorna 10.
+
+Quando voltamos ao corpo principal do código-fonte, temos um print(x). Ora, quanto é x? Agora
+que vem o pulo do gato! Aquele x utilizado na função só existe lá dentro porque ele tem escopo
+local. Logo, quando voltamos ao corpo principal, ele não existe! No entanto, existe outro x no corpo
+principal. Qual? Aquele definido na linha 6! Logo, a linha 8 imprimirá 5! Legal, né? Imprimimos x
+duas vezes, mas dentro da função ele tem valor 10 e fora da função ele tem valor 5.
+
+
+     (Prefeitura de Criciúma/SC – 2018) Uma função no Python é um conjunto nomeado de
+     código, que pode também ter uma lista opcional de argumentos. Assinale a alternativa
+     que corresponde a forma padrão de uma função na linguagem Python:
+
+     a) default function name (argument);
+
+
+---
+
+     b) void function name (argument);
+     c) def function name (argument) :
+     d) function name (argument) :
+     _______________________
+     Comentários: a sintaxe de uma função é: def NomeFunção(argumentos):. Logo, a única opção que é adequada a essa sintaxe
+     é def function name (argument) : (Letra C).
+
+     (FUB – 2013) Considere o código abaixo digitado em Python.
+
+     ..I.... contar(n):
+        a=1
+        while a < n:
+          print a,
+          a = a+1
+
+     contar(10)
+
+     Preenche, corretamente, a lacuna I:
+
+     a) function      b) def                        c) procedure                d) public                  e) void
+     _______________________
+     Comentários: questão tranquilaaaaaça – a palavra-chave para representar uma função é o def. Professor, como você sabe que
+     se trata de uma função? Porque veja que no final é executado contar(10), que é exatamente o nome da função que está sendo
+     definida na primeira linha de código (Letra B).
+
+Por fim, é importante falar sobre funções/expressões lambda. O que é isso, Diego? São pequenas
+funções anônimas! Como assim? Galera, essas funções são úteis para deixar o código mais simples
+e legível. Elas são funções de uma única linha, isto é, não possuem nome e são declaradas como
+variáveis. Além disso, sua sintaxe não utiliza a palavra-chave def e nem utilizam a palavra return
+antes do comando porque se considera que haverá um retorno implícito.
+
+
+---
+
+                                 Sintaxe: lambda lista_de_argumentos : expressão
+
+
+Uma função anônima é útil principalmente nos casos em que precisamos de uma função para ser
+passada como parâmetro para outra função e que não será mais necessária após isso – como se
+fosse “descartável”. Vejam no exemplo abaixo a criação de uma função anônima que recebe dois
+parâmetros – x e y – e retorna a soma das duas variáveis. Essa função anônima é atribuída à
+variável s, que quando é invocada retorna essa soma:
+
+s = lambda x,y : x+y
+print(s(10,20))   #Retornará 10+20 = 30
+
+
+Para finalizar, vamos ver uma comparação de uma função comum apresentada anteriormente com
+uma função lambda. Vejamos...
+def quadrado(x):
+    return x*x
+
+print(quadrado(2)) #Retornará 4
+
+
+Notem que se trata de uma função comum. Como poderíamos transformar essa função em uma
+expressão lambda? Basta utilizar a sintaxe apresentada anteriormente. Logo, teríamos...
+
+quadrado = lambda x: x*x
+print(quadrado(2)) #Retornará 4
+
+
+     (FUB – 2013) Na linguagem Phyton, uma função lambda atribui à nova função o nome
+     que está no cabeçalho, em vez de retorná-la como resultado.
+     _______________________
+     Comentários: a palavra-chave lambda faz exatamente o oposto do que está no enunciado: lambda retorna uma função anônima
+     como resultado. O Python (ignorem a grafia errada da questão) retorna uma função ao invés de atribuí-la a um nome – como
+     ocorria com def (Errado).
+
+     (UFPRE – 2019) Funções lambda em Python são úteis para deixar o código mais simples
+     e legível. Abaixo temos a descrição de uma função lambda em Python. O valor resultante
+     da expressão será:
+
+                                      ((lambda x: (lambda y: x**2 - y))(29))(31)
+
+     a) 810         b) 27                             c) 932                       d) 33                       e) 872
+     _______________________
+     Comentários: notem que temos uma função lambda dentro de outra função lambda. É importante dizer que é possível aplicar
+     um argumento na função lambda rodeando a função e seus argumentos entre parênteses (Ex: (lambda x:x+1)(5) retornará 5+1
+     = 6. Para facilitar a visualização, podemos reescrever a função como (lambda x,y : x**2-y)(29,31). Dessa forma, temos 29²-31 =
+     841-31 = 810 (Letra A).
+
+
+---
+
+A utilização de comentários é uma prática comum em programação. Seu objetivo é adicionar
+descrições em partes especificas do código, seja para documentá-lo, seja para descrevê-lo, ou
+mesmo, para marcar que uma determinada linha, ou um conjunto de linhas, não devem ser
+executadas. Podem ser utilizados para documentar programas, classes, funções, variáveis,
+constantes ou o que mais você desejarmos.
+
+Quando criamos uma funcionalidade, é importante que o código possua uma documentação para
+que os outros programadores (e até nós mesmos) entendam qual foi a lógica utilizada. Para
+adicionarmos comentários, utilizamos uma marcação especial a fim de informar ao
+interpretador para não interpretar os caracteres contidos na notação que demarca trechos de
+comentários. E que marcação seria essa, professor?
+
+No caso do Python, há notações diferentes para comentários de uma única linha e comentários de
+mais de uma linha. Caso você deseje fazer um comentário de apenas uma linha, pode utilizar o
+caractere cerquilha (#). Tudo que estiver à frente desse caractere deve ser ignorado pelo
+interpretador. Caso você deseje fazer um comentário com mais de uma linha, pode utilizar aspas
+triplas (simples ou duplas). Vejamos alguns exemplos:
+
+# Comentário para documentar a função "Olá, Mundo!"
+print("Olá, Mundo!")
+
+’’’
+Comentário para documentar
+a função "Olá, Mundo!"
+com mais de uma linha
+e aspas simples
+’’’
+
+print("Olá, Mundo!")
+
+”””
+Comentário para documentar
+a função "Olá, Mundo!"
+com mais de uma linha
+e aspas duplas
+”””
+
+print("Olá, Mundo!")
+
+
+---
+
+Tipos e Variáveis
+Definições
+                                                                          INCIDÊNCIA EM PROVA: baixíssima
+
+Em nível de hardware, seu computador possui um componente chamado Memória RAM, que é
+responsável – grosso modo – por armazenar dados, sendo composta por milhões e milhões de
+posições ou espaços físicos. Em nível de software, dados são armazenados – em geral – em
+variáveis, que são essas posições na memória responsáveis por armazenar dados e identificadas
+por um nome.
+
+Notem abaixo que há uma posição na memória do computador que guarda um espaço físico e que
+nós demos o nome dessa posição de numeroDaConta. Logo, esse é o nome que identifica esse
+endereço na memória do computador. Essa posição pode armazenar uma variável, que são dados
+que podem variar com o tempo ou circunstância. Note pela imagem que atualmente essa variável
+está armazenando o valor 4823 na posição numeroDaConta.
+
+O conteúdo de uma variável pode ser alterado, consultado ou apagado diversas vezes durante
+a execução de um algoritmo, porém o valor apagado será perdido. Eu gosto de pensar na variável
+como uma caixa aberta, em que você inserir, retirar ou modificar coisas de dentro. Em contraste
+com uma constante, que seria uma caixa em que – uma vez inserido algo dentro – não mais permite
+inserções, alterações ou remoções enquanto o programa estiver sendo executado.
+
+Galera, assim como as línguas faladas, as linguagens de programação possuem o que chamamos
+de declarações. O que são declarações? Basicamente são pensamentos completos e individuais –
+por exemplo: “Eu quero café” ou “Está chovendo”. Usando palavras diferentes, podemos mudar o
+
+
+---
+
+significado – por exemplo: “Eu quero café” para “Eu quero unicórnios”. No entanto, não podemos
+mudar de “Eu quero café” para “Eu quero chovendo” – que não faz sentido gramatical.
+
+O conjunto de regras que governam a estrutura e composição de declarações em uma
+linguagem é chamado de sintaxe. Assim como o idioma Português possui uma sintaxe, todas as
+linguagens de programação também possuem. Vejam só: a é igual a 5 é uma declaração na língua
+portuguesa; a = 5 também é uma declaração, mas na linguagem de programação Python. Neste
+caso, a declaração diz que uma variável chamada a armazena o número inteiro 5.
+
+Galera, quando uma declaração atribui um valor a uma variável, nós chamamos isso de
+"declaração de atribuição". É possível também expressar coisas mais complexas como:
+
+      A é 5;
+      B é 10;
+      C é A mais B;
+
+
+O que o algoritmo acima está querendo dizer? Este algoritmo diz ao computador para definir a
+variável A como 5, a variável B como 10, e, finalmente, somar A e B e armazenar o resultado na
+variável C. Legal, não é? Note que podemos chamar as variáveis de qualquer coisa que nós
+quisermos desde que cumpra a sintaxe da linguagem de programação escolhida. Em vez de A,
+B e C, poderíamos chamar de Maçã, Pera e Uva.
+
+Pessoal, é claro que uma melhor prática seria nomeá-las com coisas que façam sentido no caso de
+alguém mais tentar entender seu código. Imaginem vocês tentando ler um código escrito por outra
+pessoa! Fica mais fácil de compreender Maçã, Pera e Uva do que A, B e C. Concordam? Legal! As
+declarações atribuem identificadores para variáveis, tipos, funções, entre outros. Vamos agora
+ver como tudo isso funciona especificamente no Python! \o/
+
+
+---
+
+Identificadores
+                                                                                      INCIDÊNCIA EM PROVA: baixa
+
+
+O que é uma variável? Variáveis são uma espécie de contêiner para armazenar valores de dados. No
+Python, as variáveis possuem duas particularidades: (1) variáveis são consideradas um tipo de
+objeto; (2) variáveis não precisam ser previamente declaradas. Como é, Diego? Em outras
+linguagens de programação, é necessário usar um comando para declarar uma variável. No Python,
+não é necessário usar comando nenhum, basta informar o nome e o valor que será armazenado.
+
+nome = "Diego"
+idade = 31
+
+
+Vejam acima que não é necessário usar nenhum comando, eu simplesmente inseri o nome da
+variável e o seu valor! Em outras linguagens de programação, eu teria que fazer algo como:
+
+var nome = "Diego"
+var idade = 31
+
+
+Além disso, não é necessário informar qual é o tipo da variável, isto é, quais tipos de valores serão
+armazenados na variável. Em outras linguagens de programação, eu teria que fazer algo como:
+
+var string nome = "Diego"
+var int idade = 31
+
+
+É possível fazer várias atribuições de variáveis em uma mesma linha. Para tal, basta separar os
+identificadores por vírgula do lado esquerdo da atribuição e manter a mesma ordem no lado direito:
+
+nome, idade = "Diego", 31
+
+
+Professor, eu posso dar qualquer nome para uma variável? Não é bem assim! Identificadores de
+variáveis válidos devem obedecer às seguintes regras:
+
+   Começar necessariamente com uma letra ou _ (underline);
+   Jamais devem começar com um número;
+   Conter caracteres alfanuméricos e undelines (a-z, A-Z, 0-9 e _);
+   São Case-Sensitive, isto é, capazes de diferenciar maiúscula de minúscula.
+
+Essa mesma regra vale também para identificação de funções, classes, módulos, entre outros.
+Vejamos alguns exemplos de nomes válidos e inválidos:
+
+                            NOMES VÁLIDOS DE VARIÁVEIS NOMES INVÁLIDOS DE VARIÁVEIS
+                          nomevariavel = "Diego"       2nomevariavel = "Diego"
+                         nome_variavel = "Diego"       nome-variavel = "Diego"
+                        _nome_variavel = "Diego"       nome variavel = "Diego"
+                          nomeVariavel = "Diego"       nome#variavel = "Diego"
+                          NOMEVARIAVEL = "Diego"       Nome%variavel = "Diego"
+
+
+---
+
+                        nomevariavel2 = "Diego"   n0m3v@r1@vel   = "Diego"
+
+
+O Python possui uma função chamada print() responsável por imprimir na tela do computador o
+valor de uma variável. Vejamos como funciona:
+
+nome = "Diego"
+idade = 31
+
+print(nome) #Imprimirá: Diego
+print(idade) #Imprimirá: 31
+
+
+Para imprimir um texto junto com o valor de uma variável, basta utilizar o caractere +. Lembrando
+que esse caractere serve tanto para somar o valor de variáveis quanto para realizar concatenações.
+
+nome = "Diego"
+idade = 31
+
+print("Prof. " + nome + " tem " + str(idade) + " anos")   #Imprimirá: Prof. Diego tem 31 anos
+
+
+Professor, o que é essa função str( ) com o parâmetro idade? Muito observador você... nós vamos
+entender no próximo tópico :)
+
+
+---
+
+Tipos de Dados
+                                                                                  INCIDÊNCIA EM PROVA: ALTA
+
+
+      CATEGORIA             TIPO              PYTHON                         Exemplo
+                                                            x = True
+      BOOLEANO           Booleano              bool         x = False
+                                                            x = 10
+                          Inteiro               int         x = -5
+                                                            x = 10.7
+      numérico        Ponto Flutuante          float        x = -2.8
+                                                            x = 345j
+                         Complexo            complex        x = 2-9j
+                                                            x = 'texto'
+      textual              Texto                str         x = "texto"
+                                                            x = [4, 8]
+                           Lista                list        x = list()
+                                                            x = (5, 10)
+                           Tupla               tuple        x = tuple()
+  Coleção/sequência                                         x = {2, 4}
+                            Set                 set         x = set( )
+                                                            x = {'nome': 'Diego', idade: 31}
+                         Dicionário          dictionary
+
+
+Nos próximos tópicos, vamos detalhar os tipos coleção e dicionário! Por enquanto, é importante
+mencionar alguns detalhes sobre os tipos booleano, numérico e textual. O tipo booleano não
+tem nada demais – ele só representa dois valores: True ou False. Isso é extremamente útil em
+programação para avaliar se alguma expressão é verdadeira ou falsa. Quando você compara dois
+valores, por exemplo, retorna-se um valor verdadeiro ou falso.
+
+É importante ressaltar que existe também uma função chamada bool(). Essa função retorna um
+valor True ou False dado um determinado parâmetro de entrada. Em regra, ela retornará sempre
+True, com algumas exceções: bool(), bool(0) e bool(False) – nesse caso, ela retornará False. Isso
+já foi tema de questão de prova da Polícia Federal (2021) com pegadinha ainda! Lembre-se que
+“False” é diferente de False – o primeiro é uma string e o segundo é um booleano.
+
+Já os números podem ser inteiros, ponto flutuante ou complexos. Inteiro é um número positivo
+ou negativo sem decimais (Ex: 2, -50, 137); Ponto Flutuante é um número positivo ou negativo com
+um ou mais decimais (Ex: -0.5, 3.1415, 137.0); e Complexo é um número escrito com a letra j para
+indicar a parte imaginária (Ex: 8j, -14j, 500j). Vocês se lembram quando estudaram números
+complexos na escola? Pois é, pode ignorar aqui também porque isso não cai.
+
+Por fim, variáveis textuais/literais são cadeias de caracteres chamadas de string. Trata-se de
+uma sequência de caracteres geralmente utilizada para representar caracteres, palavras, frases ou
+textos. Os valores podem vir dentro de aspas simples ou aspas duplas (Ex: ‘Diego’ ou “Diego”). Além
+disso, os caracteres que compõem uma string podem ser acessados individualmente. Para tal, basta
+utilizar colchetes. Vejamos...
+
+nome = "Diego"
+print(nome[0]) #Retornará o caractere de índice 0 = “D”
+
+
+---
+
+Nós falamos que uma string é uma cadeia de caracteres. Logo, no exemplo acima, é como se nome
+fosse uma variável que armazenasse [“D”,”i”,”e”,”g”,“o”]. Cada letra nessa cadeia está associada a
+um índice sequencial: nome[0] = “D”; nome[1] = “i”; nome[2] = “e”; nome[3] = “g”; nome[4] = “o”. E
+se você quisesse retornar apenas os caracteres do meio dessa string? Nesse caso, bastaria utilizar a
+instrução print(nome[1:4] = “ieg”). Vamos ver agora algumas funções textuais úteis:
+
+    funções                       DESCRIÇÃO                                                 EXEMPLO
+                Converte o primeiro caractere em maiúscula. x = “olá, mundo!”
+ capitalize()                                                      print(x.capitalize()) #retorna “Olá, mundo!”
+
+             Retorna a posição da primeira ocorrência de           x = “Uma vez Flamengo, sempre Flamengo!”
+       find()
+             um valor em uma string ou -1 se não existir.          print(x.find(“vez”)) #retorna 4
+             Semelhante ao find(), mas retorna uma                 x = “Uma vez Flamengo, sempre Flamengo!”
+     index()
+             exceção caso o valor não exista.                      print(x.index(“vasco”)) #retorna ValueError
+             Retorna o tamanho da string.                          x = “Uma vez Flamengo, sempre Flamengo!”
+       len()                                                       print(len(x)) #retorna 34
+              Divide substrings encontradas a partir de um         x = “Olá, Mundo!”
+      split()
+              separador especificado e retorna uma lista.          print(x.split(“,”)) #retorna ['Olá', ' Mundo!']
+              Remove espaços em branco (ou caracteres              x = “ Olá, mundo! ”
+      strip()
+              dentro do parêntese) do início/fim da string.        print(x.strip()) #retorna “Olá, Mundo!”
+
+     (AL/TO – 2005) O método capitalize da classe String do Python é utilizado para:
+
+     a) remover todos os espaços de uma string.
+     b) verificar se todos os caracteres da string são numéricos.
+     c) procurar uma substring em uma string retornando seu índice caso seja encontrada.
+     d) retornar uma cópia de uma string somente com o primeiro caractere em maiúsculo.
+     e) retornar uma cópia de uma string com todos os caracteres em minúsculo.
+     _______________________
+     Comentários: esse método é responsável por retornar uma cópia da string original somente com o primeiro caractere em
+     maiúsculo (Letra D).
+
+     (Polícia Federal – 2018) Considere os seguintes comandos na programação em Python.
+
+     a = " Hello, World! "
+     print(a.strip())
+
+     Esses comandos, quando executados, apresentarão o resultado a seguir.
+
+     a[0]=Hello,
+     a[1]=World!
+     _______________________
+
+
+---
+
+     Comentários: opa... nada a ver! A função strip() é responsável por remover espaços no início e no fim de uma string, portanto o
+     resultado esperado será: “Hello, World!” – sem os espaços iniciais e finais (Errado).
+
+É importante falar rapidamente sobre casting! Esse é um recurso que permite definir ou converter
+o tipo de uma variável. Em geral, isso é feito por meio de três funções:
+
+  FUNÇÃO DE CASTING         DESCRIÇÃO
+                            Converte variáveis do tipo inteiro, ponto flutuante ou string em um inteiro.
+                            #Exemplos:
+
+         int()              x = int(100) #x será 100
+                            y = int(4.8) #y será 4
+                            z = int('5') #z será 5
+
+
+                            Converte variáveis do tipo inteiro, ponto flutuante ou string em um ponto flutuante.
+                            #Exemplos:
+
+        float()             x = float(100) #x será 100.0
+                            y = float(3.6) #y será 3.6
+                            z = float('2') #z será 2.0
+
+
+                            Converte variáveis do tipo inteiro, ponto flutuante ou string em uma string.
+                            #Exemplos:
+
+         str()              x = str('Diego') #x será ‘Diego’
+                            y = str(1234567) #y será ‘1234567’
+                            z = str(3.14159) #z será ‘3.14159’
+
+     (CRECI – 2016) Qual alternativa representa a declaração de uma variável do tipo texto,
+     na linguagem de programação Python?
+
+     a) var valor = 3;
+     b) boolean inicio = falso;
+     c) textp = “texto de exemplo”;
+     d) int i = 1;
+     _______________________
+     Comentários: (a) Errado, essa é a declaração de uma variável do tipo inteiro e não é necessário utilizar a palavra-chave var; (b)
+     Errado, essa é a declaração de uma variável do tipo booleana e não é necessário definir o tipo como boolean; (c) Correto, não
+     utiliza palavras-chave nem o tipo da variável e o valor está entre aspas; (d) Errado, essa é a declaração de uma variável do tipo
+     inteiro e não é necessário definir o tipo como int (Letra C).
+
+
+---
+
+Estruturas de Dados
+
+Meus queridos, nós estudamos cinco tipos de dados no tópico anterior (booleano, inteiro, ponto
+flutuante, complexo e textual). Todos eles possuem uma característica em comum: são capazes de
+armazenar um único dado. No entanto, para armazenar múltiplos itens dentro de uma única
+estrutura, utilizamos estruturas de dados. No caso do Python, essas estruturas de dados são
+chamadas de coleções (collections). Vamos entender isso melhor...
+
+Uma coleção é um contêiner utilizado para armazenar uma coleção de dados. Em outras
+palavras, trata-se de uma estrutura de dados utilizada para armazenar objetos. Galera, em
+algumas situações você precisa armazenar um conjunto de valores e – não apenas – um único valor.
+Para escolher qual coleção será utilizada, é importante entender as propriedades de cada tipo a fim
+de tirar o melhor possível de cada estrutura. Bem, existem quatro tipos de coleção...
+
+ TIPO DE COLEÇÃO   TRADUÇÃO                                      DESCRIÇÃO
+                              Trata-se de uma coleção de valores ordenados, mutáveis e indexáveis que pode
+         LIST        LISTA    conter valores duplicados.
+                              Trata-se de uma coleção de valores ordenados, imutáveis e indexáveis que pode
+     TUPLE           TUPLA
+                              conter valores duplicados (também podem ser chamadas de sequências).
+                              Trata-se de uma coleção de valores desordenados, mutáveis e não indexáveis que
+         SET       CONJUNTO
+                              não pode conter valores duplicados.
+                              Trata-se de uma coleção de valores ordenados, mutáveis e indexáveis que não pode
+   DICTIONARY      DICIONÁRIO
+                              conter valores duplicados.
+
+
+Calma! Nós vamos explicar tim-tim por tim-tim cada uma dessas características das coleções em
+tópicos específicos nas próximas páginas...
+
+Listas
+                                                                                       INCIDÊNCIA EM PROVA: Altíssima
+
+Uma lista é uma coleção de valores ordenados, mutáveis e indexáveis que pode conter valores
+duplicados e são delimitadas por colchetes. Vejamos um exemplo:
+
+ListaFrutas = ["maçã", "carambola", "banana"]
+
+print(ListaFrutas) #Retornará ['maçã', 'carambola', 'banana']
+
+
+Vejam que realmente se trata de uma coleção, uma vez que armazena múltiplos valores em
+uma única variável. Legal, mas e se eu quiser acessar uma fruta específica? Vejamos...
+
+ListaFrutas = ["maçã", "carambola", "banana"]
+
+print(ListaFrutas[1])        #Retornará carambola
+
+
+Galera, cada valor em uma lista é indexado por um número inteiro. O que isso significa? Significa
+que existe um número inteiro que referencia cada valor da lista com o intuito de facilitar seu
+
+
+---
+
+acesso. Professor, não deveria ter retornado maçã em vez de carambola, uma vez que foi utilizado o
+índice [1]? Não, porque – por convenção – adotou-se que o índice de lista começa sempre pelo [0]
+(zero). Vejam só o que aconteceria se o código fosse assim:
+
+ListaFrutas = ["maçã", "carambola", "banana"]
+
+print(ListaFrutas[0])     #retornará maçã
+print(ListaFrutas[1])     #retornará carambola
+print(ListaFrutas[2])     #retornará banana
+print(ListaFrutas[3])     #retornará IndexError: list index out range
+
+
+Note que se eu tentar acessar o índice [3], retornará Erro de Índice: índice da lista fora de alcance.
+Professor, e se eu quiser modificar algum valor dessa lista? É muito simples também...
+
+ListaFrutas[0] = "manga"
+ListaFrutas[2] = "carambola"
+
+print(ListaFrutas)      #retornará ['manga', 'carambola', carambola]
+
+
+Percebam que eu mudei o valor armazenado no índice [0] e índice [1] da lista e o resultado
+correspondeu aos novos valores. Dito isso, vamos relembrar nossa definição inicial de lista? Uma lista
+é uma coleção de valores ordenados, mutáveis e indexáveis que pode conter valores duplicados.
+Uma lista é uma coleção de valores? Sim, nós vimos que ele é capaz de armazenar múltiplos dados.
+Os valores de uma lista são ordenados? Sim, ser ordenado significa que há uma ordem qualquer.
+
+Professor, é necessariamente uma ordem alfabética ou numérica? Não, pode ser qualquer ordem! Os
+valores de uma lista são mutáveis? Sim, nós vimos que é possível modificar seus valores no exemplo
+anterior. Os valores de uma lista podem ser duplicados? Sim, em nossa lista final, há duas ocorrências
+da fruta ‘carambola’. Bem, agora nós já conseguimos entender cada ponto da definição de lista,
+então chegou o momento de nos aprofundar mais...
+
+O que acontece se eu utilizar um índice negativo em uma lista? Galera, um índice negativo significa
+que a lista começa do fim para o início. Como é, Diego? É só ver a lista de modo invertido, olha só...
+
+ListaFrutas = ["maçã", "carambola", "banana"]
+
+print(ListaFrutas[-1])    #retornará banana
+print(ListaFrutas[-2])    #retornará carambola
+print(ListaFrutas[-3])    #retornará maçã
+print(ListaFrutas[-4])    #retornará IndexError: list index out range
+
+
+Note que há uma observação: “maçã” está no índice [0] e no índice [-3]. Além disso, é possível
+especificar uma extensão de índices também...
+
+ListaFrutas = ["maçã", "carambola", "banana", "pera", "laranja", "amora"]
+
+print(ListaFrutas[1:2])     #retornará [‘carambola’]
+print(ListaFrutas[1:3])     #retornará [‘carambola’, ‘banana’]
+print(ListaFrutas[1:4])     #retornará ['carambola', 'banana', 'pera']
+
+
+---
+
+print(ListaFrutas[1:5])                #retornará ['carambola', 'banana', 'pera', 'laranja']
+
+
+Note que o valor contido na posição do índice à esquerda dos dois-pontos é retornado, mas o
+valor contido na posição do índice à direita, não. Há também algumas variações:
+
+ListaFrutas = ["maçã", "carambola", "banana", "pera", "laranja", "amora"]
+
+print(ListaFrutas[:2])                #retornará ['maçã', 'carambola']
+print(ListaFrutas[3:])                #retornará ['pera', 'laranja', 'amora']
+
+
+Note que – se não inserirmos nenhum valor à esquerda – considera-se como [0] ; e – se não
+inserirmos nenhum valor à direita, considera-se até o final da lista. Galera, nós temos visto diversos
+exemplos em que todos os valores da lista são do tipo texto, mas eles poderiam ter outros tipos
+(inclusive tipos diferentes em uma mesma lista). Por essa razão, dizemos que uma lista é um tipo
+de coleção heterogênea.
+
+Galera, nós já vimos que é possível criar funções em Python, mas já existem diversas funções
+(ou métodos) prontos para serem utilizados. Vamos conhecê-los...
+
+       FUNÇÃO                       DESCRIÇÃO                                                       EXEMPLO
+                Função utilizada para retornar                      ListaQualquer = [2020, "Flamengo", True]
+                                                                    print(len(ListaQualquer))
+         len( ) quantos itens uma lista possui.
+                                                                    #Retornará 3
+              Função utilizada para adicionar um                    ListaQualquer = [2020, "Flamengo", True]
+              item ao final da lista. Pensando como                 ListaQualquer.append(5)
+    append( )                                                       print(ListaQualquer)
+              uma pilha, de modo inverso a uma
+              lista, ele adiciona um item no topo.1 #Retornará [2020, "Flamengo", True, 5]
+                                                                    ListaQualquer = [2020, "Flamengo", True, 5]
+                Função utilizada para adicionar um ListaQualquer.insert(3,"Bola")
+      insert( ) item a um índice especificado.     print(ListaQualquer)
+
+                                                                    #Retornará [2020, "Flamengo", True, 'Bola', 5]
+              Função utilizada para remover a                       ListaQualquer = [2020, "Flamengo", True, "Bola", 5]
+                                                                    ListaQualquer.remove(2020)
+              primeira ocorrência de um item
+    remove( )                                                       print(ListaQualquer)
+              especificado em uma lista.
+                                                                    #Retornará ["Flamengo", True, "Bola", 5]
+                                                                    ListaQualquer = ["Flamengo", True, "Bola", 5]
+               Função utilizada para remover item                   ListaQualquer.pop()
+               especificado (ou o último item se                    print(ListaQualquer)
+               nenhum item for especificado).
+                                                   #Retornará ["Flamengo", True, "Bola"]
+        pop( ) Pensando como uma pilha, de modo
+               inverso a uma lista, essa função ListaQualquer.pop(2)
+               recupera o primeiro item quando não print(ListaQualquer)
+               é espeficiado.
+                                                                    #Retornará ["Flamengo", True"]
+
+1
+ Em programação, existe o conceito de pilha. O que é uma pilha? Pensem em uma pilha de pratos: o último prato a ser adicionado é o primeiro a
+ser lavado. Em programação, é semelhante: o último elemento a ser adicionado na pilha é o primeiro a ser recuperado, em contraste com a lista, em
+que o primeiro elemento a ser adicionado é também o primeiro a ser recuperado (como em uma fila).
+
+
+---
+
+                                                      ListaQualquer = ["Flamengo", True, "Bola", 5]
+           Função utilizada para remover um           del ListaQualquer[3]
+           item especificado (ou a lista inteira se   print(ListaQualquer)
+    del( ) o nenhum índice for especificado).
+           Caso a lista seja excluída, ela não        #Retornará ["Flamengo", True, "Bola"]
+           poderá mais ser referenciada.              del ListaQualquer #Excluirá a lista
+                                                      ListaQualquer = ["Flamengo", True, "Bola", 5]
+           Função utilizada para esvaziar uma         ListaQualquer.clear()
+  clear( ) lista.                                     print(ListaQualquer)
+
+                                                      #Retornará a lista vazia []
+              Função utilizada para copiar uma        ListaQualquer = ["Flamengo", True, "Bola", 5]
+                                                      ListaQualquer2 = ListaQualquer.copy()
+              lista.
+  copy( )                                             print(ListaQualquer2)
+
+                                                      #Retornará ["Flamengo", True, "Bola", 5]
+                                                      ListaQualquer = list(("Flamengo", True, "Bola", 5))
+              Função utilizada para criar uma nova    print(ListaQualquer)
+    list( )
+              lista.
+                                                      #Note que deve ter parênteses duplos
+          Função utilizada para retornar a ListaQualquer = ["Flamengo", True, "Flamengo", 5]
+                                           print(ListaQualquer.count("Flamengo"))
+ count( ) quantidade de vezes que um valor
+          específico aparece em uma lista. #Retornará 2 (“Flamengo aparece duas vezes”)
+                                                      ListaQualquer1 = ["Bola", 5]
+                                                      ListaQualquer2 = ["Flamengo", True]
+          Função utilizada para adicionar             ListaQualquer1.extend(ListaQualquer2)
+extend( ) elementos específicos de uma lista
+          ao final de outra lista.           print(ListaQualquer1)
+
+                                                      #Retornará ["Bola", 5, "Flamengo", True]
+                                                      ListaQualquer = ["Flamengo", True, "Bola", 5]
+
+          Função utilizada para retornar o print(ListaQualquer.index("Flamengo")) #Retornará 0
+ index( ) índice da primeira ocorrência de um print(ListaQualquer.index(True))    #Retornará 1
+          valor especificado.                 print(ListaQualquer.index("Bola"))  #Retornará 2
+                                                      print(ListaQualquer.index(5))           #Retornará 3
+
+                                                      ListaQualquer = ["Flamengo", True, "Bola", 5]
+                                                      ListaQualquer.reverse()
+              Função utilizada para inverter a
+reverse( )                                            print(ListaQualquer)
+              ordem dos elementos de uma lista.
+                                                      #Retornará [5, 'Bola', True, 'Flamengo']
+                                                      ListaQualquer = ["Flamengo", "Vasco", "Santos", "Bahia"]
+                                                      ListaQualquer.sort()
+           Função utilizada para ordenar uma          print(ListaQualquer)
+           simples em ordem ascendente (por
+                                             #Retornará ['Bahia', 'Flamengo', 'Santos', 'Vasco']
+   sort( ) padrão – sem necessidade de
+           parâmetros)     ou    descendente ListaQualquer.sort(reverse=True)
+           (parâmetro reverse=True).         print(ListaQualquer)
+
+                                                      #Retornará ['Vasco', 'Santos', 'Flamengo', 'Bahia']
+          Função utilizada para retornar uma          listaQualquer = range(5, 20, 3)
+          lista de números, começando do zero         print(list(listaQualquer)) #retorna [5, 8, 11, 14, 17]
+          (por padrão) e incrementando em
+                                                      listaQualquer = range(4, 10)
+  range() uma unidade (por padrão) e parando          print(list(listaQualquer)) #retorna [4, 5, 6, 7, 8, 9]
+          em um número especificado. Sua
+          sintaxe é: range(start, stop, step) –       listaQualquer = range(6)
+          sendo que start é opcional e incluso;       print(list(listaQualquer)) #retorna [0, 1, 2, 3, 4, 5]
+
+
+---
+
+               step é opcional e pode ser negativo;
+               e stop é obrigatório e não é incluso.
+
+
+Vamos resumir as características básicas de uma lista (list) em uma tabelinha que será
+incrementada à medida que estudarmos os outros tópicos sobre coleções:
+
+      Critério                                                            List
+    Ordenação                                                          Ordenada
+    Modificação                                                         mutável
+    Duplicatas                                                     Permite duplicatas
+     Indexação                                                        Por inteiro
+    delimitador                                                    Entre colchetes [ ]
+
+
+    (PRODATER – 2016) Em Python existe um conjunto de métodos disponíveis para se
+    trabalhar com objetos do tipo lista. Considere o trecho de programa abaixo que faz uso
+    desses métodos.
+
+    a = [99.15, 323, 323, 2, 12.5]
+    a.insert(2, -5)
+    a.append(323)
+    a.index(323)
+    a.remove(323)
+    a.reverse()
+
+    Ao executar este trecho de programa, o conteúdo final da lista a será:
+
+    a) [99.15, −5, 323, 2, 12.5, 323]
+    b) [−5, 2, 12.5, 99.15, 323, 323]
+    c) [323, 12.5, 2, 323, −5, 99.15]
+    d) [99.15, −5, 323, 323, 12.5, 2]
+    e) [323, 323, 99.15, 12.5, 2, −5]
+    _______________________
+    Comentários: essa é uma questão boa, vamos lá...
+
+    a = [99.15, 323, 323, 2, 12.5]
+    #Cria-se uma lista com números inteiros e ponto flutuante;
+
+    a.insert(2, -5) #Insere o valor -5 no item de índice 2
+    #Resultado: a = [99.15, 323, -5, 323, 2, 12.5]
+
+    a.append(323) #Insere o valor 323 ao final da lista
+    #Resultado: a = [99.15, 323, -5, 323, 2, 12.5, 323]
+
+    a.index(323) #Retorna o índice da primeira ocorrência de 323
+    #Resultado: 1
+
+    a.remove(323) #Remove a primeira ocorrência de 323
+
+
+---
+
+# Retorna a = [99.15, -5, 323, 2, 12.5, 323]
+
+a.reverse() #Inverte a ordem da lista
+# Retorna a = [323, 12.5, 2, 323, -5, 99.15] (Letra C).
+
+(IF/PE – 2016) Uma das estruturas de dados existentes na linguagem de programação
+Python são as listas. Considere o trecho de código abaixo:
+
+candidatos = ['José', 'João', 'Cibelly', 'Sonivaldo','Dariane']
+
+É CORRETO afirmar que:
+
+a) candidatos.len() obtem o tamanho da lista.
+b) o método append é utilizado para adicionar um elemento no início da lista.
+c) o comando insert('Antônio') insere “Antônio” no início da lista.
+d) candidatos[-2] retornaria o penúltimo elemento da lista.
+e) candidatos.size() obtem o tamanho da lista.
+_______________________
+Comentários: (a) Errado, essa função utilizada para retornar o tamanho de uma lista, mas a sintaxe é len(candidatos); (b)
+Errado, ele é utilizado para adicionar um elemento no fim da lista; (c) Errado, essa função é utilizada para adicionar um item a
+um índice especificado – para adicionar ao início da lista, a sintaxe deveria ser insert(0,’Antônio’); (d) Correto, quando se utiliza
+um número negativo, a contagem do índice é de traz para frente, logo seria o segundo item do final para o começo; (e) Errado,
+para obter o tamanho da lista, deve-se usar len(candidatos) (Letra D).
+
+
+---
+
+Tuplas
+                                                                                     INCIDÊNCIA EM PROVA: baixa
+
+Uma tupla (ou sequência) é uma coleção de valores ordenados, imutáveis e indexáveis que pode
+conter valores duplicados e são delimitadas por parênteses. Vejamos um exemplo:
+
+TuplaFrutas = ("maçã", "carambola", "banana")
+
+print(TuplaFrutas) #Retornará ('maçã', 'carambola', 'banana')
+
+
+Vejam que realmente se trata de uma coleção, uma vez que armazena múltiplos valores em
+uma única variável. Legal, mas e se eu quiser acessar uma fruta específica? Vejamos...
+
+TuplaFrutas = ("maçã", "carambola", "banana")
+
+print(TuplaFrutas[0]) #Retornará maçã
+print(TuplaFrutas[1]) #Retornará carambola
+print(TuplaFrutas[2]) #Retornará banana
+print(TuplaFrutas[3]) #Retornará IndexError: list index out range
+
+
+Note que a tupla é delimitada por parênteses, mas o índice sempre será representado entre
+colchetes. Galera, tuplas são muito parecidas com listas, isto é, a forma de acessar é semelhante,
+existem índices negativos, é possível acessar uma extensão de índices. No entanto, há uma
+diferença fundamental: tuplas são imutáveis! Isso significa que – uma vez criada – você não poderá
+mais modificar seus itens.
+
+Diego, eu não posso modificar, mas eu posso inserir ou remover itens? Não, você não pode modificar
+absolutamente nada! Caso seja necessário, a única alternativa seria convertê-la em lista:
+
+TuplaFrutas = ("maçã", "carambola", "banana")
+print(TuplaFrutas) #Retornará ('maçã', 'carambola', 'banana')
+
+ListaFrutas = list(TuplaFrutas) #Converte a Tupla em uma Lista
+
+ListaFrutas[1] = "abacate"
+print(ListaFrutas) #Retornará ['maçã', 'abacate', 'banana']
+
+Vejamos agora algumas funções (ou métodos) que podem ser utilizadas com tuplas (ou
+sequências). Fiquem tranquilos, agora são apenas quatro:
+
+     FUNÇÃO               DESCRIÇÃO                                     EXEMPLO
+               Função utilizada para retornar    TuplaQualquer = (2020, "Flamengo", True)
+      len( )                                     print(len(TuplaQualquer)) #Retornará 3
+               quantos itens uma tupla possui.
+                                                 TuplaQualquer = (8, 6, 1, 9, 1, 9, 1, 6, 5, 1)
+
+             Função utilizada para retornar a print(TuplaQualquer.count(2)) #Retornará 0
+    count( ) quantidade de vezes que um valor print(TuplaQualquer.count(6)) #Retornará 2
+             específico ocorre em uma tupla.  print(TuplaQualquer.count(1)) #Retornará 4
+                                                 print(TuplaQualquer.count(9)) #Retornará 2
+
+
+---
+
+                                                               TuplaQualquer = (8, 6, 1, 9, 1, 9, 1, 6, 5, 1)
+
+            Função utilizada para buscar por um print(TuplaQualquer.index(5)) #Retornará 8
+   index( ) valor específico e retornar o índice de print(TuplaQualquer.index(6)) #Retornará 1
+            sua primeira ocorrência na tupla.       print(TuplaQualquer.index(1)) #Retornará 2
+                                                               print(TuplaQualquer.index(9)) #Retornará 3
+
+                                                               TuplaQualquer = tuple(("Flamengo", True, "Bola", 5))
+             Função utilizada para criar uma nova print(TuplaQualquer)
+    tuple( )
+             tupla.
+                                                               #Note que deve ter parênteses duplos
+
+
+Vamos resumir as características básicas de uma tupla (tuple) em uma tabelinha que será
+incrementada à medida que estudarmos os outros tópicos sobre coleções:
+
+      Critério                                  List                                                 Tuple
+    Ordenação                                Ordenada                                              Ordenada
+    Modificação                               mutável                                              imutável
+    Duplicatas                           Permite duplicatas                                   Permite duplicatas
+     Indexação                               Por inteiro                                           Por inteiro
+    delimitador                          Entre colchetes [ ]                                  Entre parênteses ( )
+
+
+    (IF/PI – 2016 – Item IV) No Python3, uma Tupla é uma sequência mutável onde podemos
+    inserir elementos ao final.
+    _______________________
+    Comentários: uma tupla é uma sequência imutável onde não se pode inserir elementos (Errado).
+
+    (IF/PI – 2016) Dado a sequência de código Python3 abaixo, assinale a alternativa
+    CORRETA:
+
+    j = (1,2,3,4,5)
+    h = [1,2,3,4,5]
+
+    a) As variáveis j e h são do tipo tabela hash;
+    b) A variável j é uma tupla e a variável h é uma lista;
+    c) A variável j é uma lista e a variável h é uma tupla;
+    d) Ambas as variáveis são dict;
+    e) Existem erros na declaração destas variáveis.
+    _______________________
+    Comentários: conforme podemos ver, j é uma variável do tipo tupla porque vem entre parênteses e h é uma variável do tipo
+    lista porque vem entre colchetes (Letra B).
+
+
+---
+
+Sets
+                                                                                      INCIDÊNCIA EM PROVA: baixíssima
+
+Um set (ou conjunto) é uma coleção de valores desordenados, mutáveis e não indexáveis que
+não pode conter valores duplicados e são delimitadas por chaves. Vejamos um exemplo:
+
+SetFrutas = {"maçã", "carambola", "banana"}
+
+print(SetFrutas)
+
+#Retornará uma sequência desses três valores em ordem aleatória
+
+
+Apesar de termos declarado o conjunto acima como maçã, carambola e banana, não existe uma
+ordem! Se eu executar várias vezes o comando print acima, poderíamos ter resultados
+diferentes para cada execução. No caso acima, poderíamos ter uma das seis possibilidades
+apresentadas abaixo. Como não há uma ordenação, não há como indexar os valores por nenhum
+número inteiro. Entendido?
+
+{"maçã", "carambola", "banana"} ou
+{"maçã", "banana", "carambola"} ou
+{"carambola", "maçã", "banana"} ou
+{"carambola", "banana", "maçã"} ou
+{"banana", "maçã", "carambola"} ou
+{"banana", "carambola", "maçã"}
+
+
+Nós não vamos nos estender nesse tipo de coleção, porque ela quase não cai em prova (tanto
+que não encontrei nenhuma questão sobre ela). De todo modo, vejamos algumas funções:
+
+       FUNÇÃO                DESCRIÇÃO                                      EXEMPLO
+                                                     SetQualquer = {2020, "Flamengo", True}
+                 Função utilizada para retornar
+        len( )                                       print(len(SetQualquer)) #Retornará 3
+                 quantos itens um conjunto possui.
+                                                     SetQualquer = {2020, "Flamengo", True, 5}
+              Função utilizada para adicionar um SetQualquer.add("Bola")
+       add( ) item a um conjunto.                print(SetQualquer)
+
+                                                     #Retornará o set original com “Bola” dentro do conjunto
+                                                     SetQualquer1 = {"Bola", 5}
+                                                     SetQualquer2 = {"Flamengo", True}
+            Função utilizada para adicionar          SetQualquer1.update(SetQualquer2)
+  update( ) elementos específicos de um
+            conjunto ao final de outro conjunto. print(SetQualquer1)
+                                                     #Retornará a união dos dois conjuntos em alguma ordem
+            Função utilizada para remover a          SetQualquer = {2020, "Flamengo", True, "Bola", 5}
+                                                     SetQualquer.remove(2020)
+            primeira ocorrência de um item
+  remove( )                                          print(SetQualquer)
+            especificado em um conjunto.
+                                                     #Retornará o set original sem 2020 dentro do conjunto
+                                                     SetQualquer = {"Flamengo", True, "Bola", 5}
+                Função utilizada para esvaziar um    SetQualquer.clear()
+       clear( ) conjunto.                            print(SetQualquer)
+
+                                                     #Retornará o set vazio {}
+
+
+---
+
+                                              SetQualquer = {"Flamengo", True, "Bola", 5}
+            Função utilizada para remover um del SetQualquer
+     del( )
+            conjunto (set) inteiro.
+                                              #Excluirá o set
+
+
+Vamos resumir as características básicas de um conjunto (set) em uma tabelinha que será
+incrementada à medida que estudarmos os outros tópicos sobre coleções:
+
+      Critério                 List                     Tuple                          Set
+    Ordenação               Ordenada                   Ordenada                   Não ordenada
+    Modificação              Mutável                   Imutável                      mutável
+    Duplicatas          Permite duplicatas        Permite duplicatas          Não permite duplicatas
+     Indexação             Por inteiro                Por inteiro                 Não indexada
+    delimitador         Entre colchetes [ ]       Entre parênteses ( )           Entre chaves { }
+
+
+---
+
+Dicionários
+                                                                                                                        INCIDÊNCIA EM PROVA: baixa
+
+Um dicionário é uma coleção de valores ordenados2, mutáveis e indexáveis que pode não conter
+valores duplicados e são delimitadas por chaves. Galera, como funciona um dicionário de língua
+portuguesa? Você basicamente procura uma palavra e encontra seu significado. Aqui o dicionário
+funciona de maneira semelhante, no entanto – em vez de utilizar uma estrutura de
+palavra:significado – utiliza uma estrutura de chave:valor.
+
+Essa é uma primeira diferença sobre as coleções dos tópicos anteriores – as chaves delimitam
+um conjunto de chave:valor. Vamos ver um exemplo para ficar mais claro:
+
+DicioQualquer = {
+  "marca": "Ford",
+  "modelo": "Fiesta",
+  "ano": 2015
+}
+print(DicioQualquer) #Retornará {'marca': 'Ford', 'modelo': 'Fiesta', 'ano': 2015}
+
+
+Vejam que realmente se trata de uma coleção, uma vez que armazena múltiplos valores em
+uma única variável. Legal, mas se eu quiser acessar um valor específico? Vejamos...
+
+DicioQualquer = {
+  "marca": "Ford",
+  "modelo": "Fiesta",
+  "ano": 2015
+}
+
+print(DicioQualquer["modelo"]) #Retornará Fiesta
+
+
+Observem que eu passei como parâmetro uma chave e ele me retornou um valor. O acesso a esse
+valor específico também poderia ser feito utilizando a função get():
+
+print(DicioQualquer.get("modelo")) #Retornará Fiesta
+
+
+E se eu quiser modificar um valor do meu dicionário, também é muito simples! Basta informar o
+valor da chave e o nome valor a ser atribuído:
+
+DicioQualquer = {
+  "marca": "Ford",
+  "modelo": "Fiesta",
+  "ano": 2015
+}
+
+DicioQualquer["modelo"] = "Ranger"
+print(DicioQualquer) #Retornará {'marca': 'Ford', 'modelo': 'Ranger', 'ano': 2015}
+
+2
+  A partir da versão 3.7 (lançada em 2018), a ordem em que os itens são inseridos em um dicionário é preservada. Antes da versão 3.7, os dicionários
+eram não ordenados, o que significa que a ordem dos elementos não era garantida.
+
+
+---
+
+E para adicionar um novo valor ou deletar um valor existente, Diego? Também é completamente
+possível, porque lembrem-se que essa coleção é do tipo mutável:
+
+DicioQualquer = {
+  "marca": "Ford",
+  "modelo": "Fiesta",
+  "ano": 2015
+}
+
+DicioQualquer["cor"] = "Prata"
+print(DicioQualquer)
+#Retornará 'marca': 'Ford', 'modelo': 'Fiesta', 'ano': 2015, 'cor': 'Prata'}
+
+del DicioQualquer["ano"]
+print(DicioQualquer)
+#Retornará marca': 'Ford', 'modelo': 'Fiesta', 'cor': 'Prata'}
+
+
+Por fim, é importante mencionar os itens são indexados por string e, não, por inteiros. Além
+disso, ele não pode conter duplicatas nas chaves, mas pode conter duplicadas nos valores.
+
+     FUNÇÃO                 DESCRIÇÃO                                            EXEMPLO
+                                                      DicioQualquer = {
+                                                        "marca": "Ford",
+                                                        "modelo": "Fiesta",
+               Função utilizada para retornar
+      len( )                                            "ano": 2015
+               quantos itens um dicionário possui.    }
+
+                                                      print(len(DicioQualquer) ) #Retornará 3
+                                                      DicioQualquer = {
+                                                        "marca": "Ford",
+                                                        "modelo": "Fiesta",
+                                                        "ano": 2015
+                                                      }
+               Função utilizada para copiar um
+      copy
+               dicionário para outro.          DicioQualquer1 = DicioQualquer.copy()
+
+                                                      #Outra forma de implementar seria usando dict():
+
+                                                      DicioQualquer1 = dict(DicioQualquer)
+
+
+Chegamos finalmente à versão final da nossa tabela comparativa entre tipos de coleções inserindo
+dicionários (dictionary). Essa tabela será muito útil para vocês, então guardem-na com carinho!
+
+      Critério                   List                  Tuple                    Set                  Dictionary
+    Ordenação                 Ordenada               Ordenada              Não ordenada               ordenada
+    Modificação                Mutável               Imutável                 Mutável                  mutável
+    Duplicatas            Permite duplicatas    Permite duplicatas     Não permite duplicatas   Não permite duplicatas
+     Indexação               Por inteiro             Por inteiro           Não indexada               Por string
+    delimitador           Entre colchetes [ ]   Entre parênteses ( )      Entre chaves { }         Entre chaves { }
+
+
+---
+
+(UFPR – 2017) Três tipos de dados fundamentais em Python são as listas (“lists”),
+sequências ou ‘tuplas’ (“tuples”) e dicionários (“dictionaries”). A respeito dessas
+estruturas, é correto afirmar:
+
+a) Listas não podem ser modificadas depois de criadas, ao passo que sequências e
+dicionários podem.
+
+b) Listas podem ser modificadas, mas seu tamanho não pode ser modificado após a
+criação, ao passo que sequências e dicionários não têm essa limitação.
+
+c) Dicionários não podem ser modificados depois de criados, ao passo que listas e
+sequências podem.
+
+d) Listas e sequências são indexadas por inteiros, ao passo que dicionários podem ser
+indexados por “strings”.
+
+e) Listas e dicionários são indexados por inteiros, ao passo que sequências podem ser
+indexadas por “strings”.
+_______________________
+Comentários: (a) Errado, listas podem ser modificadas ao passo que sequências não podem; (b) Errado, listas podem ser
+modificadas, assim como seu tamanho – sequências não podem ser modificadas; (c) Errado, dicionários podem ser modificados
+a qualquer momento; (d) Correto; (e) Errado, dicionários são indexados por string e sequências são indexados por inteiro. Notem
+que a questão não menciona os sets, mas isso não a invalida (Letra D).
+
+
+---
+
+Controle de Fluxo
+
+Galera, em geral as instruções de uma receita de bolo – como a mostrada no início da aula –
+aparecem de forma vertical de cima para baixo. Vocês se lembram, não é? Em programas de
+computador, ocorre da mesma forma! O programa começa na primeira instrução e desce uma de
+cada vez até atingir eventualmente o seu fim. Até agora, nós mostramos poucas instruções, mas
+um software pode possuir muitas linhas de código (Ex: Windows possui mais de 2 milhões).
+
+Vocês se lembram que uma forma de representar algoritmos é por meio de um fluxograma? Pois é, um
+fluxograma representa os possíveis fluxos ou caminhos que um programa pode tomar. Eu disse que
+as instruções de um software são lidas verticalmente uma após a outra, mas isso não significa
+que todas as instruções devem ser executadas na ordem apresentada. Por que? Por conta das
+Estruturas de Controle de Fluxo!
+
+Nós vamos estudar a seguir as principais estruturas de controle de fluxo: Estruturas de Decisão (If)
+e Estruturas de Repetição (While e For). Vamos lá...
+
+Estrutura de Decisão (If-Elif-Else)
+                                                                              INCIDÊNCIA EM PROVA: Altíssima
+
+Também chamadas de Estruturas de Seleção ou Condição, elas permitem interferir na
+sequência natural de instruções executadas dependendo de uma condição de teste. Nós vimos
+que a execução de instruções em geral ocorre em uma sequência uma após a outra, porém – por
+meio de condições – é possível mudar a sequência natural de execução. A estrutura de condição
+mais simples em algoritmos é conhecida como If (Se) e é utilizada da seguinte forma:
+
+if expressão-lógica:
+    bloco-de-instruções
+
+A <expressão-lógica> é uma expressão/condição que retorna um valor verdadeiro ou falso e, caso o
+resultado dessa expressão seja verdadeiro, será executado o bloco de comandos que está dentro
+dessa estrutura; caso seja falso, a execução do programa ignora o bloco de comandos e continua na
+linha seguinte à estrutura de condição. Uma condição falsa poderia ser: 10 > 20; e uma condição
+verdadeira poderia ser 30 = 30.
+
+O bloco-de-instruções é uma sequência de código que será executada somente quando o
+resultado da expressão lógica for verdadeiro. Por fim, é preciso tomar cuidado com a indentação
+(o recuo no começo da linha) para definir o escopo dessa instrução. Dito isso, vamos analisar o
+
+
+---
+
+código apresentado abaixo. Note que ele define duas variáveis (a e b) e – em seguida – apresenta
+uma instrução if que avalia uma expressão lógica.
+
+a = 20
+b = 50
+
+if b > a:
+    print("b é maior que a")   #Retornará b é maior que a
+
+Perceba que b é realmente maior que a, logo a expressão lógica é verdadeira. Se ela é verdadeira, o
+comando na linha abaixo – que possui um recuo maior – será executado. E se não tiver recuo?
+
+a = 20
+b = 50
+
+if b > a:
+print("b é maior que a")    #Retornará IndentationError: expected na indented block
+
+
+Caso não haja esse recuo (indentação), o código retornará um erro porque é obrigatório que
+haja um bloco de instruções indentado para executar a instrução. Dessa forma, podemos dizer
+que a instrução se é como uma bifurcação na estrada. O caminho que você toma depende da
+avaliação da expressão lógica (se é verdadeira ou falsa). Pronto, nós acabamos de aprender nossa
+primeira declaração condicional. Só que ainda não acabou...
+
+Há uma outra palavra-chave utilizada quando uma condição não foi satisfeita, mas eu gostaria de
+fazer outro teste. Para tal, utiliza-se a palavra-chave elif. Como funciona, Diego? A sintaxe é...
+
+if expressão-lógica1:
+    bloco-de-instruções1
+elif expressão-lógica2:
+    bloco-de-instruções2
+
+
+---
+
+Vamos ver um exemplo semelhante ao apresentado anteriormente, mas agora o código testará
+uma condição e, se ela não for verdadeira, ele testará outra condição:
+
+a = 50
+b = 50
+
+if b > a:
+    print("b é maior que a")
+elif a == b:
+    print("a e b são iguais") #Retornará a e b são iguais
+
+No exemplo acima, analisa-se a primeira expressão lógica (linha 4): b > a. Essa expressão é
+verdadeira ou falsa? É falsa, logo não se executa a instrução da linha 5. Em seguida, analisa-se a
+segunda expressão lógica (linha 6): a == b. Essa expressão é verdadeira ou falsa? É verdadeira, logo
+executa-se a instrução da linha 7 e imprime na tela a mensagem: a e b são iguais. Bacana! Estamos
+aumentando nosso vocabulário. Agora vamos aprender mais uma palavra-chave: else.
+
+if expressão-lógica1:
+    bloco-de-instruções1
+elif expressão-lógica2:
+    bloco-de-instruções2
+else:
+    bloco-de-instruções3
+
+Para ficar mais claro, imagine o software de uma faculdade que calcula se um aluno qualquer foi
+aprovado, reprovado ou se ficou de recuperação a partir de expressões lógicas:
+
+
+---
+
+if media < 5.0:
+    print("Aluno Reprovado")
+elif media >= 7.0:
+    print("Aluno Aprovado")
+else:
+    print("Aluno de Recuperação")
+
+Vamos interpretar esse algoritmo? Suponha que um aluno qualquer tenha uma nota média de 5.1.
+A primeira expressão lógica é falsa porque a média do aluno não é menor que 5.0 e a segunda
+expressão lógica é falsa porque a média do aluno não é maior ou igual a 7.0, logo o terceiro bloco
+de instruções será necessariamente executado porque se a média do aluno não é menor que 5.0 e
+não é maior ou igual a 7.0, então a média dele é entre 5.0 e 6.9, portanto ele está de recuperação.
+
+Nós vimos exemplos em que há apenas uma instrução dentro do bloco de cada expressão lógica,
+mas você pode colocar quantas desejar. Caso tenha apenas uma instrução, pode escrever assim:
+
+if media < 5.0: print("Aluno Reprovado")
+elif media >= 7.0: print("Aluno Aprovado")
+else: print("Aluno de Recuperação")
+
+
+Lembrando também que você não é obrigado a usar o elif. Caso só haja duas opções, você pode
+utilizar apenas if e else. Veja só o código abaixo:
+
+if idade >= 18:
+    print("Maior de Idade")
+else:
+    print("Menor de Idade")
+
+
+---
+
+Se você tiver apenas uma instrução para executar, uma para if e outra para else, poderá colocar
+tudo na mesma linha conforme apresentado a seguir:
+
+if idade >= 18: print("Maior de Idade")
+else: print("Menor de Idade")
+
+
+Por fim, é importante saber que é possível ter um if dentro de outro if (e assim por diante).
+Quando isso ocorre, dizemos que temos um if aninhado ou encadeado.
+
+if x > 10:
+  print("Número acima de 10!")
+  if x > 20:
+    print("E também acima de 20!")
+    if x > 30:
+       print("E também acima de 30!")
+    else:
+       print("Mas abaixo de 30!")
+  else:
+    print("Mas abaixo de 20!")
+else:
+  print("Número abaixo de 10!")
+
+
+     (CRC/SC – 2019) Considerando a função abaixo, escrita em Python, se o valor dos
+     parâmetros quantidade De Horas for igual a 40 e valor Hora = 40 ,teremos como
+     resultado:
+
+     def calcular (quantidadeDeHoras, valorHora):
+        horas = float(quantidadeDeHoras)
+        taxa = float(valorHora)
+        if horas <= 40:
+           salario=horas*taxa
+        else:
+           h_excd = horas - 40
+           salario = 40*taxa+(h_excd*(1.5*taxa))
+       return salario
+
+     a) Uma exceção.
+     b) 80.
+     c) 16000.
+     d) 0.
+     e) 1600.
+     _______________________
+     Comentários: vamos começar a fazer algumas questões um pouquinho mais interessantes! Note que o enunciado afirma que
+     os parâmetros Quantidade de Horas é 40 e Valor Hora é 40. Dito isso, vamos analisar o código:
+
+     Primeira observação: temos uma função! Como você sabe, professor? Observem a palavra-chave def definindo uma função
+     chamada calcular que recebe como parâmetro quantidadeDeHoras e valorHora. Pelo enunciado, nós já sabemos que esses
+     dois parâmetros correspondem, respectivamente, a 40 e 40. Na linha seguinte, podemos substituir como:
+
+
+---
+
+horas = float(40) #float() é uma função que converte variáveis em um ponto flutuante, logo significa que dizer que horas = 40.0
+taxa = float(40) #mesma coisa da linha anterior – retornará taxa = 40.0
+
+Agora vamos analisar o ponto principal! Temos uma estrutura de if-else:
+
+if horas <= 40:
+   salario = horas*taxa #Como horas = 40, salario = 40.0 * 40.0 = 1600.0
+
+
+Pronto! Não precisamos sequer avaliar o que há no else porque a condição já foi satisfeita. Na verdade, o mais correto é que
+houvesse uma opção 1600.0, mas vamos na mais correta (Letra E).
+
+
+---
+
+Estrutura de Repetição (While)
+                                                                                INCIDÊNCIA EM PROVA: ALTA
+
+Uma das principais características que consolidaram o sucesso na utilização dos computadores
+para a resolução de problemas foi a sua capacidade de repetir o processamento de um conjunto
+de operações para grandes quantidades de dados. Exemplos de conjuntos de tarefas que
+repetimos diversas vezes dentro de uma situação específica podem ser observados invariavelmente
+no nosso dia a dia.
+
+As estruturas de repetição nos fornecem um modo de repetir instruções até que determinado
+objetivo seja atingido, quando a repetição se encerra. Todas as estruturas de repetição têm em
+comum o fato de haver uma condição de controle, expressa através de uma expressão lógica, que
+é testada em cada ciclo para determinar se a repetição prossegue ou não. Em outras palavras, se
+você manda o computador repetir algo, você tem que dizer quando ele deve parar!
+
+Por exemplo: um sistema que vende ingressos para um show deve armazenar em alguma variável
+a quantidade de ingressos disponíveis. A cada ingresso vendido, esse valor deve ser decrementado
+e, quando o valor chegar a zero, a venda de ingressos deve ser interrompida uma vez que a carga
+de ingressos acabou. Há infinitas utilidades e é uma estrutura extremamente comum em
+qualquer algoritmo de qualquer linguagem de programação.
+
+As estruturas de repetição são basicamente duas: while e for. A diferença básica é que a estrutura
+while é iterada/repetida (em loop) baseada em uma expressão lógica (True ou False) e a estrutura
+for é iterada/repetida (em loop) baseada em coleções (ou objetos multivalorados). Calma, tudo
+ficará claro! A estrutura de repetição while avalia uma expressão lógica e só executa os comandos
+do bloco de instruções se essa expressão for considerada verdadeira.
+
+Após a execução dos comandos, a expressão lógica é novamente avaliada. Caso o resultado seja
+falso, o algoritmo sai da estrutura de repetição (chamada de loop) e segue para a próxima linha:
+
+while expressão-lógica:
+    bloco-de-instruções
+
+
+---
+
+Vamos imaginar um contexto em que um candidato precisa de 100 votos para ser eleito síndico
+de um condomínio de apartamentos. Vejamos como funciona:
+
+voto = 0
+
+while voto < 100:
+    print("Votos Insuficientes")
+    voto = voto + 1
+print("Habemus Síndico!")
+
+#Imprimirá “Votos Insuficientes” 100 vezes (0 a 99) e, por fim, imprimirá “Habemus Síndico!”
+
+Notem que eu inicializo a variável voto com valor 0. Em seguida, há uma expressão lógica que avalia
+se o valor armazenado na variável é menor que 100. Como inicialmente essa expressão é verdadeira,
+executa-se o bloco de instruções imprimindo uma mensagem de “Votos Insuficientes”e
+incrementando em uma unidade o valor da variável voto. Isso se repete diversas vezes até um
+momento em que a variável armazenará o valor 99. O que acontece nesse momento?
+
+Quando voto = 99, analisamos: 99<100? Sim, isso é verdadeiro! Imprime a mensagem de “Votos
+Insuficientes” e incrementamos a variável voto em uma unidade, logo voto = 100. Voltamos no loop
+e analisamos: 100>100? Não, isso é falso! Se é falso, imprime-se a mensagem “Habemus Síndico!”,
+saímos desse bloco de instruções e prosseguimos com o nosso código normalmente. A variável
+dentro do bloco de instruções sendo incrementada/decrementada é chamada de contador.
+
+Se não houver um contador ou alguma outra forma de escape do nosso bloco de instruções, o
+algoritmo ficará em repetição para sempre – isso é chamado de loop infinito. Vejam no exemplo
+apresentado abaixo que – como não há um escape do bloco de instrução – não existe uma condição
+de saída da estrutura de repetição. Logo, esse bloco de instruções continuará sendo repetido
+indefinidamente causando problemas de memória ao computador.
+
+voto = 0
+
+while voto < 100:
+    print("Eu nunca mais vou sair daqui! MUA-HA-HA-HA-HA")
+
+#Esse código imprimirá infinitamente “Eu nunca mais vou sair daqui! MUA-HA-HA-HA-HA”
+
+
+---
+
+Galera, existe uma outra forma de escapar do loop. Sabe como? Utilizando a declaração break! Essa
+declaração permite interromper um loop mesmo que a expressão lógica ainda seja verdadeira:
+
+contador = 0;
+
+while contador < 6:
+    print(contador)
+    if contador == 3:
+        break
+    contador = contador + 1
+
+#Esse código imprimirá 0 1 2 3
+
+Note que o while será executado incrementando o contador normalmente. No entanto, se em
+algum momento o contador for 3, ele interrompe o loop (break). Da mesma forma que existe um
+comando específico para parar, há também um comando específico para continuar! Como assim?
+Por vezes, você não quer que o restante do bloco de instruções seja executado dada determinada
+condição. Vamos ver um exemplo para ficar mais claro:
+
+contador = 0;
+
+while contador < 6:
+    contador = contador + 1
+    if contador == 3:
+        continue
+    print(contador)
+
+#Esse código imprimirá 1 2 4 5 6
+
+
+Notem que, quando contator = 3, o continue esquece tudo que há abaixo dele dentro do bloco de
+instrução e retorna para a expressão lógica do while, logo não imprime o número 3.
+
+
+---
+
+(Prefeitura de Teresina – 2016) Considere o código-fonte abaixo, criado na linguagem
+Python.
+
+def dados(n):
+   resultado = []
+   a, b = 0, 1
+   while a < n:
+     resultado.append(a)
+     a, b = b, a+b
+   return resultado
+op = dados(100)
+print op
+
+O valor final contido na posição de índice 6 de op é:
+
+a) 1.       b) 8.       c) 5.                                  d) 6.                e) 13.
+_______________________
+Comentários: inicialmente, podemos ver que existe uma função chamada dados que recebe n como parâmetro: def dados(n).
+Como eu sei que é uma função? Por causa do def! Em seguida, podemos ver que existe uma lista chamada resultado. Como eu sei
+que é uma lista? Porque vem entre colchetes! Em seguida são definidas duas variáveis: a = 0 e b = 1 (o programador poderia ter
+colocado cada definição em uma linha, mas decidiu colocar ambas em uma mesma linha). Então, temos um loop while e uma
+expressão lógica: enquanto a for menor que n, deve-se repetir duas instruções: (1) resultado.append(a), que insere o valor de a
+na lista resultado; (2) a recebe o valor e b, e b recebe o valor de a+b. Vamos ver como seria essa iteração:
+
+Pré-iteração: resultado = [ ]; a = 0; b = 1;
+1ª iteração: resultado = [0]; a = 1; b = 1; #note que a recebe o valor de b e depois b recebe o valor de a+b
+2ª iteração: resultado = [0, 1]; a = 1; b = 2; #note que a recebe o valor de b e depois b recebe o valor de a+b
+3ª iteração: resultado = [0, 1, 1]; a = 2; b = 3; #note que a recebe o valor de b e depois b recebe o valor de a+b
+4ª iteração: resultado = [0, 1, 1, 2]; a = 3; b = 5; #note que a recebe o valor de b e depois b recebe o valor de a+b
+5ª iteração: resultado = [0, 1, 1, 2, 3]; a = 5; b = 8; #note que a recebe o valor de b e depois b recebe o valor de a+b
+6ª iteração: resultado = [0, 1, 1, 2, 3, 5]; a = 8; b = 13; #note que a recebe o valor de b e depois b recebe o valor de a+b
+7ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8]; a = 13; b = 21; #note que a recebe o valor de b e depois b recebe o valor de a+b
+...
+
+Note que a penúltima linha de código é: op = dados(100). Em outras palavras, a função dados(n) deve ser executada com n =
+100, no entanto nós não precisamos fazer até chegar em 100 porque o enunciado pede o valor final contido na posição de índice
+6. Vejam a lista criada até a sétima iteração: o valor de resultado[6] é 8. Essa é uma questão bem bacana e representa a
+Sequência de Fibonacci! Alguém se lembra das aulas de matemática do segundo grau? Pois é! (Letra B).
+
+
+---
+
+Estrutura de Repetição (For)
+                                                                                            INCIDÊNCIA EM PROVA: média
+
+Na estrutura de repetição while, a iteração (loop) era realizada baseado em uma expressão lógica,
+que poderia ser verdadeira ou falsa. A estrutura de repetição for funciona de maneira um pouco
+diferente – a iteração é realizada baseado em uma coleção (ou objeto iterável). Logo, a iteração é
+realizada sobre itens de listas, tuplas, sets, dicionários ou – até mesmo – strings. Vamos ver a
+sua sintaxe para ficar um pouco mais claro...
+
+for variável-de-controle in variavel-colecao:
+    bloco-de-instruções
+
+
+Percebam que – em contraste com a estrutura while – não é necessário declarar uma variável de
+controle antecipadamente porque a própria estrutura necessita de uma variável de controle.
+
+listaFrutas = ["maçã", "carambola", "banana"]
+for x in listaFrutas:
+  print(x) #Imprimirá maçã carambola banana
+
+
+Essa estrutura percorre todos os elementos da lista. O interessante é que isso vale para outras
+coleções como tuplas e conjuntos – vejam alguns exemplos:
+
+TuplaFrutas = ("maçã", "carambola", "banana")
+for x in TuplaFrutas:
+  print(x) #Imprimirá maçã carambola banana
+
+SetFrutas = {"maçã", "carambola", "banana"}
+for x in SetFrutas:
+  print(x) #Imprimirá maçã carambola banana
+
+
+E o dicionário, Diego? Também funciona! No entanto, vocês devem se lembrar que o dicionário
+apresenta um conjunto de chave-valor, então você pode escolher apresentar a chave ou o valor:
+
+DicioFrutas = {"fruta1": "maçã", "fruta2": "carambola", "fruta3": "banana"}
+for x in DicioFrutas:
+  print(x) #Imprimirá fruta1 fruta2 fruta 3
+
+DicioFrutas = {"fruta1": "maçã", "fruta2": "carambola", "fruta3": "banana"}
+for x in DicioFrutas:
+  print(DicioFrutas[x]) #Imprimirá maçã carambola banana
+
+
+Por fim, essa estrutura de repetição também é capaz de iterar sobre uma string. Ora, a string é um
+conjunto de caracteres, logo é possível iterar sobre cada caractere. Vejam só:
+
+for x in "Estratégia Concursos":
+  print(x) #Imprimirá E s t r       a   t   é   g   i   a   C   o   n   c   u   r   s   o   s
+
+
+Note que ele imprimirá letra por letra! Galera, não vou entrar em detalhes porque nós já vimos isso
+no tópico anterior, mas essa estrutura de repetição também permite utilizar break e continue. É
+
+
+---
+
+importante mencionar também que essa estrutura também é utilizada frequentemente com a
+função range( ). Vocês se lembram o que essa função faz? Ela retorna uma sequência de números,
+começando do 0 (por padrão), incrementando por 1 (por padrão) e termina no número especificado.
+
+Ela pode ser utilizada em conjunto com a função for para iterar sobre um bloco de instruções
+por um número específico de vezes. Vamos ver como funciona...
+
+for x in range(6):
+  print(x) #Imprimirá 0 1 2 3 4 5
+
+
+Lembrem-se também que essa função pode ser um pouco mais complexa quando possui todos
+os seus três parâmetros: start, stop e step. Vejamos...
+
+for x in range(2, 20, 3):
+  print(x) #Imprimirá 2 5 8 11 14 17
+
+
+Note que o for itera sobre o conjunto de valores que se inicia em 2 (incluso) até 20 (não incluso),
+pulando de três em três unidades. Fechado?
+
+
+     (TJ/BA – 2015) Analise o trecho de programa, escrito em Pyhton na versão 2.7, mostrado
+     a seguir.
+
+     X=[ ]
+     for i in range(10,1,-1):
+        X.append(i)
+     print X[3:]
+
+     O trecho exibe:
+
+     a) [7, 6, 5]
+     b) [7]
+     c) []
+     d) [7, 6, 5, 4, 3, 2]
+     e) [7, 6, 5, 4, 3, 2, 1]
+     _______________________
+     Comentários: questão excelente para revisar vários conceitos vistos em aula:
+
+     Note que x possui colchetes vazios, logo é uma lista vazia. A linha seguinte apresenta um loop for que vai iterar sobre o
+     range(10,1,-1). O que isso significa? Significa que se trata de uma lista de valores que se inicia no 10 (incluso) e termina no 1 (não
+     incluso) por meio de passos de -1, portanto 10, 9, 8, 7, 6, 5, 4, 3, 2.
+
+     Na linha seguinte, temos X.append(i) – essa função é utilizada para adicionar um item ao final da lista X. Logo, a lista X será: X =
+     [10, 9, 8, 7, 6, 5, 4, 3, 2]. Por que sem o “1”? Porque quando usamos a função range, não incluímos o último valor. Por fim, há um
+     comando print X[3:]. Qual é o valor do índice 3 dessa lista? X[0] = 10; X[1] = 9; X[2] = 8; X[3] = 7. Opa... então vamos imprimir do
+     X[3] até o final, portanto será impresso ao final: [7, 6, 5, 4, 3, 2] (Letra D).
+
+
+---
+
+Orientação a Objetos
+
+O paradigma orientado a objetos é um estilo de programação que se baseia na ideia de objetos,
+que contêm dados (também conhecidos como atributos) e comportamentos (também
+conhecidos como métodos). Os objetos são criados a partir de classes, que funcionam como
+modelos ou plantas para os objetos. Na programação orientada a objetos, o foco está na
+representação dos elementos do mundo real como objetos e na interação entre esses objetos.
+
+Python é uma linguagem de programação orientada a objetos. Quase tudo em Python é um objeto,
+com suas propriedades e métodos. Uma classe é como um construtor de objeto ou um projeto
+para criar objetos. Para criar uma classe, usamos a palavra-chave class, seguida do nome da classe
+e, opcionalmente, dos nomes das classes pai entre parênteses. Dentro da classe, podemos definir
+atributos (variáveis associadas ao objeto) e métodos (funções que atuam no objeto).
+
+Classes e Objetos
+
+O código a seguir cria uma classe chamada MinhaClasse, com uma propriedade chamada x:
+
+class MinhaClasse:
+  x = 5
+
+
+Agora podemos usar a classe chamada MinhaClasse para criar objetos. O código a seguir cria um
+objeto chamado p1 e imprima o valor de x.
+
+p1 = MyClass()
+print(p1.x)
+
+
+Os exemplos acima são classes e objetos em sua forma mais simples, e não são realmente úteis em
+aplicações da vida real. Para entender o significado das classes, temos que entender a função
+__init__(). Todas as classes têm uma função chamada __init__(), que é sempre executada quando
+a classe está sendo iniciada. Utilize a função __init__() para atribuir valores a propriedades de
+objeto ou outro operações que são necessárias para fazer quando o objeto está sendo criado:
+
+class Pessoa:
+  def __init__(self, nome, idade):
+    self.nome = nome
+    self.idade = idade
+
+p1 = Pessoa("João", 36)
+
+print(p1.nome)
+print(p1.idade)
+
+
+A função __init__() é chamada automaticamente toda vez que a classe está sendo usada para criar
+um novo objeto. Objetos também podem conter métodos (como funções). Vejamos:
+
+
+---
+
+class Pessoa:
+  def __init__(self, nome, idade):
+    self.nome = nome
+    self.idade = idade
+
+  def minhafuncao(self):
+    print("Olá, meu nome é " + self.nome)
+
+p1 = Pessoa("João", 36)
+p1.minhafuncao()
+
+
+O parâmetro self é uma referência à própria instância (objeto) atual da classe e é usado para acessar
+as variáveis que pertencem à classe. Quando um método é chamado em uma instância de uma
+classe, o Python automaticamente passa essa referência como o primeiro argumento para o
+método, que por convenção é chamado de self. O uso de self é essencial para acessar atributos e
+métodos de uma instância da classe a partir de um método definido nela.
+
+Ele não precisa ser chamado de self, você pode chamá-lo como quiser, mas deve ser o primeiro
+parâmetro de qualquer função da classe:
+
+class Pessoa:
+  def __init__(flamengo, nome, idade):
+    flamengo.nome = nome
+    flamengo.idade = idade
+
+  def minhafuncao(flamengo):
+    print("Olá, meu nome é " + flamengo.nome)
+
+p1 = Pessoa("João", 36)
+p1.minhafuncao()
+
+
+Herança
+
+Herança é um mecanismo que permite criar uma nova classe a partir de uma classe existente,
+herdando seus atributos e métodos. A nova classe é chamada de classe derivada ou classe filha, e
+a classe existente é chamada de classe base ou classe mãe. Ao herdar de uma classe base, a classe
+filha pode estender ou modificar o comportamento da classe base, adicionando novos métodos ou
+sobrescrevendo os métodos existentes.
+
+Isso permite criar hierarquias de classes, onde as classes mais específicas herdam comportamentos
+comuns de classes mais gerais. Para herdar de uma classe em Python, basta criar uma nova classe
+e especificar a classe base entre parênteses após o nome da nova classe. Em suma: a herança nos
+permite definir uma classe que herda todos os métodos e propriedades de outra classe.
+Qualquer classe pode ser uma classe pai, então a sintaxe é a mesma de criar qualquer outra classe.
+
+No exemplo seguinte, vamos criar uma classe chamada Pessoa com duas propriedades
+(primeironome e segundonome) e com um método: imprimenome:
+
+class Pessoa:
+
+
+---
+
+  def __init__(self, pnome, unome):
+    self.primeironome = pnome
+    self.ultimonome = unome
+
+  def imprimenome(self):
+    print(self.primeironome, self.ultimonome)
+
+#Use a classe Pessoa para criar um objeto e depois execute o método imprimenome:
+
+x = Pessoa("João", "Dias")
+x.imprimenome()
+
+
+Para criar uma classe que herde a funcionalidade de outra classe, envie a classe pai como parâmetro
+ao criar a classe filha.
+
+class Aluno(Pessoa):
+  pass
+
+
+No exemplo anterior, foi criada uma classe denominada Aluno, que herdará as propriedades e
+métodos da classe Pessoa. O pass é utilizado quando você não quiser adicionar nenhuma outra
+propriedade ou método à classe. A partir de agora, a classe Aluno tem as mesmas propriedades e
+métodos da classe Pessoa. Já no exemplo seguinte, a classe Aluno foi utilizada para criar um objeto
+e, em seguida, executar o método imprimenome:
+
+x = Aluno("Alice", "Bruno")
+x.imprimenome()
+
+
+O método imprimenome foi definido na classe Pessoa, mas foi utilizado pela Aluno. Por que?
+Porque Aluno herda propriedades e métodos de Pessoa.
+
+Polimorfismo
+
+O polimorfismo é um dos conceitos mais importantes da programação orientada a objetos e
+permite que os programadores criem código mais flexível e reutilizável. Ele permite que um
+mesmo nome de método ou função possa ter diferentes implementações em diferentes classes.
+Logo, quando um objeto é criado a partir de uma classe que usa polimorfismo, esse objeto pode
+assumir diferentes formas e comportamentos, dependendo de qual classe foi usada para criá-lo.
+
+Em Python, o polimorfismo é implementado de várias formas, como herança e interfaces. Sabemos
+que herança é um mecanismo em que uma classe filha é criada a partir de uma classe pai. A classe
+filha herda os atributos e métodos da classe pai e pode implementar novos métodos ou modificar
+os métodos herdados. Com isso, podemos criar diferentes classes filhas que compartilham uma
+mesma interface comum, mas implementam de forma diferente seus próprios métodos.
+
+Essa é uma forma de polimorfismo em que objetos de diferentes classes podem ser usados de
+forma intercambiável em um programa, mesmo que implementem comportamentos
+diferentes para os mesmos métodos. Vamos usar um exemplo para ilustrar isso: suponha que
+
+
+---
+
+queremos criar uma classe Animal e duas classes filhas, Cachorro e Gato. Todas as três classes têm
+um método falar(), mas o comportamento desse método é diferente em cada classe.
+
+class Animal:
+    def __init__(self, nome):
+        self.nome = nome
+
+    def falar(self):
+        pass
+
+class Cachorro(Animal):
+    def falar(self):
+        return "Au au!"
+
+class Gato(Animal):
+    def falar(self):
+        return "Miau!"
+
+
+Na classe Animal, o método falar() é definido, mas observe que ele não implementado, pois
+não sabemos como um animal deve falar. Na classe Cachorro, o método falar() é implementado
+para retornar a string "Au au!", enquanto na classe Gato, o método falar() é implementado para
+retornar a string "Miau!". Agora podemos criar objetos de cada classe e chamar o método falar() em
+cada um deles:
+
+cachorro = Cachorro("Bolt")
+gato = Gato("Garfield")
+
+print(cachorro.falar()) # saída: "Au au!"
+print(gato.falar()) # saída: "Miau!"
+
+
+Observe que os objetos cachorro e gato têm comportamentos diferentes para o mesmo método
+falar(). Isso é possível porque as classes Cachorro e Gato herdam o método falar() da classe Animal,
+mas implementam de forma diferente esse método. Outra forma de implementar polimorfismo
+é por meio de interfaces. Não existe uma sintaxe específica para interfaces, mas podemos criar
+classes abstratas que definem um conjunto de métodos que outras classes devem implementar.
+
+O que é uma classe abstrata, Diego? É uma classe que não pode ser instanciada diretamente, ou seja,
+ela não pode ser usada para criar objetos diretamente. Em vez disso, a classe abstrata é usada como
+uma classe base para outras classes que estendem sua funcionalidade. Uma classe abstrata
+geralmente contém métodos abstratos, que são métodos que não são implementados em sua
+definição, mas são definidos com a palavra-chave "abstractmethod".
+
+Esses métodos abstratos devem ser implementados pelas classes derivadas que herdam da
+classe abstrata. Vamos criar um exemplo para ilustrar isso: suponha que queremos criar um
+programa que processe vários tipos de animais, independentemente de sua classe específica. Para
+isso, podemos criar uma interface que define um conjunto de métodos que todas as classes de
+animais devem implementar:
+
+from abc import ABC, abstractmethod
+
+
+---
+
+class Animal(ABC):
+    def __init__(self, nome):
+        self.nome = nome
+
+    @abstractmethod
+    def falar(self):
+        pass
+
+
+Neste exemplo, a classe Animal é definida como uma classe abstrata que contém o método
+abstrato falar(). Essa classe não pode ser instanciada diretamente, uma vez que é abstrata, mas
+pode ser usada como uma classe base para outras classes que implementam o método falar(). Por
+exemplo, podemos criar uma classe Cachorro que herda da classe Animal e implementa o método
+falar():
+
+class Cachorro(Animal):
+    def falar(self):
+        return "Au au!"
+
+
+Observe que a classe Cachorro precisa implementar o método falar(), pois ele é abstrato na classe
+Animal. Se tentarmos criar um objeto da classe Animal diretamente, receberemos um TypeError:
+
+a = Animal("Animal")
+# TypeError: Can't instantiate abstract class Animal with abstract methods falar
+
+
+Por que isso ocorre? Isso ocorre porque a classe Animal é uma classe abstrata e não pode ser
+instanciada diretamente. Bacana? Então vamos ver agora objetos iteráveis...
+
+Objetos Iteráveis
+
+Um iterador é simplesmente um objeto que contém um número contável de valores. Um iterador é
+um objeto que pode ser iterado, o que significa que você pode percorrer todos os valores.
+Tecnicamente, em Python, um iterador é um objeto que implementa o protocolo iterador, que
+consiste nos métodos __iter__() e __next__(). Listas, tuplas, dicionários e conjuntos são todos
+objetos iteráveis. Eles são contêineres iteráveis dos quais você pode obter um iterador.
+
+Todos esses objetos têm um método que é usado para obter um iterador: iter(). Vamos ver um
+exemplo para entender isso melhor:
+
+minhatupla = ("maça", "banana", "cereja")
+meuiterador = iter(minhatupla)
+print(next(meuiterador))
+print(next(meuiterador))
+print(next(meuiterador))
+
+
+O código acima cria uma tupla chamada minhatupla contendo três elementos: "maça", "banana" e
+"cereja". Em seguida, o código cria um iterador chamado meuiterador a partir dessa tupla usando
+a função iter(). A função iter() retorna um objeto iterável que pode ser usado para percorrer os
+
+
+---
+
+elementos da tupla. O laço for não é utilizado neste exemplo e, sim, a função next() para obter cada
+elemento da sequência um de cada vez, imprimindo cada elemento na saída padrão.
+
+A função next() é usada para obter o próximo item da sequência. No primeiro next(meuiterador),
+o elemento "maça" é retornado e impresso. No segundo next(meuiterador), o elemento "banana"
+é retornado e impresso. Finalmente, no terceiro next(meuiterador), o elemento "cereja" é
+retornado e impresso. Caso você chame next(meuiterador) novamente, será levantada a exceção
+StopIteration, pois todos os elementos da tupla já foram percorridos.
+
+Legal! Ocorre que essa é uma maneira bem pouco eficiente de iterar sobre a tupla minhatupla.
+Vamos fazer uma iteração utilizando um laço for:
+
+minhatupla = ("maça", "banana", "cereja")
+for x in minhatupla:
+    print(x)
+
+
+O laço for é uma estrutura de controle que permite percorrer os elementos de um objeto iterável,
+como uma lista, tupla, conjunto, dicionário ou um objeto personalizado que implemente os
+métodos __iter__() e __next__(). No exemplo acima, o objeto iterável é a tupla minhatupla. A cada
+iteração do laço, o valor de x é atualizado com o próximo elemento da tupla, até que todos os
+elementos tenham sido percorridos. Legal, mas vamos nos aprofundar mais...
+
+Para criar um objeto/classe como um iterador, você precisa implementar os métodos __iter__() e
+__next__() para o seu objeto. Em orientação a objetos, todas as classes têm uma função chamada
+__init__(), que permite que você faça algumas inicializações quando o objeto está sendo criado. O
+método __iter__() age de forma semelhante – você pode fazer operações como iincializações, mas
+deve sempre retornar o próprio objeto iterador.
+
+Já o método __next__() também permite que você faça e deve retornar o próximo item na
+sequência. Vejamos um código para entender isso melhor:
+
+class MeusNumeros:
+  def __iter__(self):
+    self.a = 1
+    return self
+
+  def __next__(self):
+    x = self.a
+    self.a += 1
+    return x
+
+MinhaClasse = MeusNumeros()
+MeuIterador = iter(MinhaClasse)
+
+print(next(MeuIterador))
+print(next(MeuIterador))
+print(next(MeuIterador))
+print(next(MeuIterador))
+print(next(MeuIterador))
+
+
+---
+
+Quando um método é chamado em uma instância, o self pode ser usado para se referir aos atributos
+da instância e modificar seu estado, bem como para acessar outros métodos. O código acima define
+uma classe chamada MeusNumeros, que implementa os métodos __iter__() e __next__(),
+tornando a instância da classe um iterador. O método __iter__() inicializa um atributo a com o valor
+1 e retorna a própria instância do objeto, permitindo que o iterador seja utilizado em um laço for.
+
+O método __next__() retorna o valor atual do atributo a, que é atualizado incrementando-se uma
+unidade. Logo, na primeira chamada de next(MeuIterador), o valor 1 é retornado, na segunda
+chamada é retornado o valor 2, e assim por diante, até que a chamada de next() atinja o valor 5,
+momento em que será levantada a exceção StopIteration – já falamos dessa exceção
+anteriormente.
+
+Ao final do código, é criada uma instância da classe MeusNumeros chamada MinhaClasse, que é
+usada para criar um iterador chamado MeuIterador usando a função iter(). Em seguida, são
+chamadas cinco vezes a função next() para obter os cinco primeiros elementos da sequência gerada
+pelo iterador, imprimindo cada valor na saída padrão. O resultado será a impressão dos números
+inteiros de 1 a 5.
+
+  Objeto iterador                                       descrição
+             Este método é usado para definir um objeto iterável personalizado. Um objeto iterável é um
+             objeto que pode ser iterado em um loop, como uma lista, tupla ou dicionário. Para criar um
+  __iter__()
+             objeto iterável personalizado, você precisa implementar o método __iter__() em sua classe e
+             retornar um objeto que suporte o método __next__().
+             Este método é usado para definir um objeto iterador personalizado. Um objeto iterador é um
+             objeto que retorna seus itens um de cada vez, quando é iterado em um loop. Para criar um
+  __next__()
+             objeto iterador personalizado, você precisa implementar o método __next__() em sua classe e
+             retornar o próximo valor do objeto iterável personalizado.
+
+
+Vejamos um exemplo de como utilizar os métodos __iter__() e __next__() para criar um objeto
+iterável e iterador personalizado:
+
+class MyRange:
+    def __init__(self, start, end):
+        self.start = start
+        self.end = end
+        self.current = start
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.current >= self.end:
+            raise StopIteration
+        result = self.current
+        self.current += 1
+        return result
+
+# Criando um objeto iterável personalizado
+
+
+---
+
+my_range = MyRange(0, 5)
+
+# Iterando no objeto iterável personalizado
+for i in my_range:
+    print(i)
+
+
+Neste exemplo, criamos uma classe MyRange que define um objeto iterável personalizado. O
+método __iter__() retorna o próprio objeto, já que ele é o iterador personalizado. O método
+__next__() retorna os próximos valores da sequência personalizada, até que atinja o limite
+estabelecido no construtor, quando levanta a exceção StopIteration. Finalmente, usamos um loop
+for para iterar pelo objeto my_range e imprimir seus valores.
+
+
+     (RFB – 2023) Analise o código Python a seguir.
+
+     class enigma:
+      def __iter__(self):
+          self.x = 128
+         return self
+      def __next__(self):
+         y = self.x
+         z = lambda a : a - int(a/2)
+         self.x = z(self.x)
+         return y
+     coisa = enigma()
+     xpto = iter(coisa)
+     for k in range(5):
+          print(next(xpto))
+
+     Assinale o quarto número exibido na execução desse código.
+
+     a) 4
+     b) 8
+     c) 16
+     d) 32
+     e) 64
+     _______________________
+     Comentários: a classe "enigma" é definida com dois métodos especiais em Python: "iter" e "next". Esses métodos são usados
+     para tornar a classe um iterador, que é uma estrutura de dados que permite que você percorra os elementos de uma sequência.
+
+     No método "iter", o valor inicial de "self.x" é definido como 128 e a função retorna a instância do objeto iterador, ou seja, "self".
+     No método "next", a variável "y" recebe o valor atual de "self.x", que é 128 na primeira iteração. A variável "z" é definida como
+     uma função lambda que divide o valor de entrada por 2 e subtrai a parte inteira do resultado. Então, "self.x" é atualizado para o
+     resultado da função "z" com "self.x" como entrada. Vejamos as iterações:
+
+     1ª iteração:
+
+     self.x = 128
+     z(self.x) = 64
+
+
+---
+
+y = self.x = 128
+Valor impresso: 128
+
+2ª iteração:
+
+self.x = 64
+z(self.x) = 32
+y = self.x = 64
+Valor impresso: 64
+
+3ª iteração:
+
+self.x = 32
+z(self.x) = 16
+y = self.x = 32
+Valor impresso: 32
+
+4ª iteração:
+
+self.x = 16
+z(self.x) = 8
+y = self.x = 16
+Valor impresso: 16 (Letra C).
+
+
+---
+
+Arquivos
+                                                                                           INCIDÊNCIA EM PROVA: baixíssima
+
+
+Pessoal, nós vimos diversos exemplos em nossa aula de manipulação de dados. No entanto, os
+dados ou foram inseridos diretamente no código-fonte ou foram inseridos pelo usuário. Ocorre que
+há outras maneiras de manipular dados no Python! Sabe qual? Por meio de arquivos! É muito útil,
+por exemplo, saber manipular um arquivo de planilha, um arquivo de imagem, um arquivo de áudio,
+um arquivo de texto, entre outros.
+
+Em nossa aula, vamos nos focar no principal formato de manipulação de arquivos, que são aqueles
+do tipo texto simples (conjunto de caracteres). Em Python, devemos abrir/criar (open) arquivos
+antes de usá-los e fechar (close) os arquivos depois que tivermos terminado de utilizá-los – sendo
+que depois de aberto um arquivo passa a ser considerado um objeto Python de maneira semelhante
+a outros dados (chamado de objeto file). Vamos começar aprendendo a abrir um arquivo:
+
+                Sintaxe: open(NomeDoArquivo, Modo) #Permite abrir/criar um arquivo
+
+
+Observação: NomeDoArquivo é uma string que indica o nome/caminho do arquivo no sistema de
+arquivos do sistema operacional; Modo indica a forma de abertura/uso do arquivo (é opcional).
+
+Vamos detalhar um pouco mais essa sintaxe. O comando open permite abrir ou criar um arquivo.
+Como assim, Diego? Isso dependerá basicamente do modo de uso, isto é, de parâmetros que
+indicam finalidades e características de manipulação do arquivo. Existem alguns modos de uso
+apresentados na tabela seguinte para indicar a leitura, escrita, adição e criação de arquivos, mas –
+antes se prosseguir – nós precisamos entender o conceito de truncagem. O que é isso, Diego?
+
+Quando dizemos que um arquivo foi truncado, significa que todo seu conteúdo foi apagado durante
+a abertura do arquivo. Em outras palavras, truncar é basicamente sobrescrever dados...
+
+ MODO
+          significado                                            DESCRIÇÃO
+ DE USO
+                        Esse parâmetro permite abrir um arquivo para leitura a partir de sua posição inicial sem que
+  ‘r’        READ
+                        o arquivo seja truncado e retorna um erro caso o arquivo não exista (é o modo default).
+                        Esse parâmetro permite abrir um arquivo para escrita a partir de sua posição inicial após o
+  ‘w’        WRITE
+                        arquivo ser truncado e, caso o arquivo não exista, ele é criado.
+                        Esse parâmetro permite abrir um arquivo para escrever/adicionar dados a partir de sua
+  ‘a’       APPEND
+                        posição final sem que o arquivo seja truncado e, caso o arquivo não exista, ele é criado.
+                        Esse parâmetro permite criar um arquivo especificado e, caso o arquivo exista, ele retorna
+  ‘x’       CREATE
+                        um erro.
+
+
+Acabou, professor? Não! Há ainda mais três modos de uso especiais que apresentaremos a seguir
+que adicionam funcionalidades (e, por isso, acompanham o sinal de adição). Vejamos...
+
+
+---
+
+ MODO
+          significado                                            DESCRIÇÃO
+ DE USO
+                        Esse parâmetro permite abrir um arquivo para leitura e escrita de dados a partir de sua
+  ‘r+’    READ/write
+                        posição inicial sem que o arquivo seja truncado e retorna um erro caso o arquivo não exista.
+                        Esse parâmetro permite abrir um arquivo para escrever/adicionar e ler dados a partir de sua
+  ‘a+’    APPEND/read
+                        posição final sem que o arquivo seja truncado e, caso o arquivo não exista, ele é criado.
+                        Esse parâmetro permite abrir um arquivo para escrita e leitura de dados a partir de sua
+  ‘w+’    WRITE/read
+                        posição inicial após o arquivo ser truncado e, caso o arquivo não exista, ele é criado.
+
+
+Eu montei uma tabelinha para facilitar o entendimento de tudo que vimos na tabelinha seguinte
+em relação à criação, leitura, escrita, truncagem e se é a partir do início ou fim. Vejamos...
+
+                                 resumo      ‘x’   ‘r’   ‘r+’   ‘w’     ‘w+’    ‘a’     ‘a+’
+                                    Criar    x                   x        x       x       x
+                                      Ler          x      x               x               x
+                                Escrever                  x      x        x       x       x
+                                 truncar                         x        x
+                        A partir do início         x      x      x        x
+                          A partir do fim                                         x       x
+
+Acabou, Diego? Ainda não... é possível também especificar se o arquivo deve ser tratado como texto
+ou binário conforme é apresentado na tabela seguinte:
+
+ MODO
+          significado                                            DESCRIÇÃO
+ DE USO
+                        Permite manipular o arquivo de texto simples – aqueles que contenham apenas caracteres
+  ‘t’        Text
+                        alfanuméricos sem formatação (é o default).
+                        Permite manipular o arquivo como um binário – aqueles restantes que tratam de imagens,
+  ‘b’       Binary
+                        vídeos, áudios, documentos, planilhas, etc.
+
+
+É possível também combinar esses modos de uso para manipular um determinado arquivo. Vamos
+ver alguns exemplos a seguir...
+
+open(‘Arquivo_1.txt’, ‘x’)          #Permite criar um novo arquivo chamado “Arquivo_1.txt”
+open(‘Arquivo_2.txt’, ‘w’)          #Permite abrir um arquivo chamado “Arquivo_2.txt” para escrita
+open(‘Arquivo_3.txt’, ‘a’)          #Permite abrir um arquivo chamado “Arquivo_3.txt” para adicionar
+open(‘Arquivo_4.txt’, ‘r’)          #Permite abrir um arquivo chamado “Arquivo_4.txt” para leitura
+
+
+É importante mencionar que é possível utilizar o comando open() sem especificar absolutamente
+nenhum modo de uso, conforme é mostrado a seguir:
+
+open(‘Arquivo_5.txt’)       #Permite abrir um arquivo chamado “Arquivo_5.txt” para leitura
+open(‘Arquivo_5.txt’, ‘rt’) #Permite abrir um arquivo chamado “Arquivo_5.txt” para leitura
+
+
+---
+
+Note que ambos os comandos apresentados acima executam exatamente a mesma função: eles
+abrem um arquivo chamado “Arquivo_5.txt” para leitura e o manipulam como um arquivo de texto.
+Por que não é necessário especificar os modos no primeiro comando? Porque o modo de leitura (r) e
+texto (t) são o padrão (default). Legal! Nós falamos bastante sobre os modos de utilização, mas
+chegou o momento de falar sobre o nome/caminho do arquivo.
+
+Nos exemplos anteriores, eu não especifiquei o caminho completo do diretório onde está localizado
+o arquivo de dados em nenhum momento. Nesse caso, o Python entenderá que o arquivo de dados
+está localizado no mesmo local do arquivo do programa em si. Professor, eu viajei agora! Pessoal,
+um arquivo é basicamente um contêiner para armazenar dados. Na imagem seguinte, temos dois
+arquivos de dados – mais especificamente dois arquivos de dados do tipo texto.
+
+Para facilitar o entendimento, vamos chamar o primeiro de Arquivo Python e o segundo de Arquivo
+de Dados. Note que o primeiro arquivo armazena textos no formato de códigos que permitem
+executar um algoritmo na linguagem Python e o segundo armazena textos simples. O código
+contido no primeiro arquivo permite ler os dados contidos no segundo arquivo. Agora nós temos
+um probleminha para resolver...
+
+Quando eu não especifico o caminho completo do arquivo de dados, como o programa saberá onde ele
+está localizado? E se no dispositivo de armazenamento existirem outros arquivos com o mesmo nome?
+Excelentes perguntas! Se você não especificar o caminho completo, o programa vai considerar que
+se trata do mesmo diretório onde se encontra o arquivo do próprio programa em si conforme é
+mostrado na imagem seguinte:
+
+Agora quando o arquivo de dados estiver localizado em um local diferente do programa em si
+(Arquivo Python), é necessário especificar seu caminho completo:
+
+
+---
+
+open(‘Arquivo_1.txt’, ‘w’)    #Exemplo 1: permite abrir “Arquivo_1” na pasta local do programa
+open(‘C:\Arquivo_1.txt’, ‘w’) #Exemplo 2: Permite abrir “Arquivo_1” na pasta “C:\”
+
+open(‘Arquivo_1.txt’, ‘w’)       #Exemplo 1: permite abrir “Arquivo_1” na pasta local do programa
+open(‘C:\Arquivo_1.txt’, ‘w’)    #Exemplo 2: Permite abrir “Arquivo_1” na pasta “C:\”
+
+
+No primeiro exemplo, eu não especifiquei o caminho completo, logo o programa procurará o
+arquivo no diretório atual do programa; no segundo exemplo, eu especifiquei o caminho completo,
+logo o programa procurará o arquivo nesse diretório especificado. Por fim, é importante mencionar
+que o comando open retorna um objeto manipulador de arquivos que geralmente é atribuído a uma
+variável – podendo ser iterado para realizar diversos tipos de operações.
+
+x = open(‘Arquivo_1.txt’, ‘w’)    #Retorna um objeto e atribui à variável x
+
+
+Lembrando também que todo arquivo aberto deve ser fechado. Para fechar um arquivo, a sintaxe
+é extremamente simples conforme é apresentado a seguir...
+
+                       Sintaxe: variavel.close() #Permite fechar um arquivo
+
+
+A seguir, abrimos um arquivo chamado “Arquivo_1.txt” para escrita e o atribuímos à variável “x”.
+Em seguida, fechamos o arquivo por meio dessa mesma variável...
+
+x = open(‘Arquivo_1.txt’, ‘w’)
+x.close()
+
+
+Agora vamos para uma parte mais prática! Eu gostaria de começar por meio da criação de um
+arquivo chamado “Flamengo.txt”. Como nós faríamos isso, professor? Poderia ser assim...
+
+x = open(‘Flamengo.txt’, ‘x’)
+
+
+O que tem dentro desse arquivo, professor? Nada, eu não escrevi nada dentro dele! E como faz para
+escrever algo dentro dele? Para fazer isso, utilizamos o comando write():
+
+x = open(‘Flamengo.txt’, ‘w’) #Primeiro temos que abrir o arquivo em modo de escrita
+x.write(‘Uma vez Flamengo, sempre Flamengo\n’)
+
+Agora nosso arquivo já terá uma linha de texto! Professor, o que é esse “\n” que você colocou no final
+da frase? É um código que indica uma quebra/pulo de linha. Vamos inserir mais uma...
+
+
+---
+
+x.write(‘Flamengo sempre eu hei de ser\n’)
+
+E agora vamos adicionar mais seis linhas:
+
+x.write(‘É o meu maior prazer\nVê-lo brilhar\nSeja na terra\nSeja no mar\nVencer, Vencer,
+Vencer\nUma vez Flamengo, Flamengo até morrer\n’)
+
+Agora podemos fechar nosso arquivo para evitar de dar problemas futuros. Alguém se lembra como
+era o comando? Vejamos...
+
+x.close()
+
+
+Nós vimos como escrever, agora falta ver como ler o conteúdo de um arquivo. Para tal, existem três
+opções de métodos: read(), readline() e readlines(). Vejamos...
+
+      MÉTODO                                              DESCRIÇÃO
+               Retorna o conteúdo do arquivo como uma única string.
+      read()
+
+               Retorna uma linha do texto a cada chamada na ordem em que aparecem no arquivo.
+  readline()
+
+               Retorna uma lista de valores de string do arquivo, sendo que cada string corresponde a uma linha
+ readlines()
+               do texto.
+
+
+O código seguinte utiliza o método read() para leitura do arquivo. Note que ele retornou todo o
+conteúdo como uma única string:
+
+y = open(‘Flamengo.txt’, ‘r’)
+print(y.read())
+y.close()
+
+
+---
+
+Já o código a seguir utiliza o método readline() para leitura do arquivo. Note que ele retornou as
+quatro primeiras linhas do texto, uma vez que o comando foi executado quatro vezes:
+
+y = open(‘Flamengo.txt’, ‘r’)
+print(y.readline())
+print(y.readline())
+print(y.readline())
+print(y.readline())
+y.close()
+
+Por fim, o código a seguir utiliza o método readlines() para leitura do arquivo. Note que ele
+retornou todo conteúdo na forma de uma lista de linhas separadas por vírgulas.
+
+Há ainda uma outra maneira de ler o conteúdo de um arquivo! Vocês se lembram que eu disse que o
+comando open retorna um objeto manipulador de arquivos iterável? Em outras palavras, ele pode ser
+iterado para realizar diversos tipos de operações. Dessa forma, nós podemos utilizar um laço for
+para realizar um loop sobre as linhas do texto e apresentá-las. Para tal, nós podemos utilizar o
+seguinte código:
+
+z = open(‘Flamengo.txt’, ‘r’)
+for linha in z:
+      print(linha)
+z.close()
+
+
+---
+
+(AL/RO – 2018) Assinale o código Python que cria um novo arquivo, contendo uma linha.
+
+a)
+
+b)
+
+
+c)
+
+d)
+
+e)
+_______________________
+Comentários: essa foi a única questão que eu já encontrei sobre o tema de manipulação de arquivos na linguagem Python!
+Parabéns para FGV! Nem precisamos perder muito tempo, não é? A única alternativa que traz corretamente a sintaxe utilizada
+pelo Python é a primeira. Abre um arquivo chamado “teste.txt” para escrita (“w”) e atribui à variável f. Em seguida, escreve por
+meio da função write() na variável f o conteúdo “Linha de teste” – lembrando que o \n indica uma quebra de linha. E, para
+finalizar, fecha o arquivo – como mandam as boas práticas (Letra A).
+
+
+---
+
+Eu tenho um desafio final para vocês!
+Quem aí gosta de Beatles? Se você
+gosta de Beatles, você deve
+conhecer uma música sensacional
+chamada “Hey Jude”! Agora que
+sabemos tudo sobre estruturas de
+seleção e repetição, que tal tentar um
+exemplo de código que imprime a letra
+simplificada dessa música? Liguem o
+som aí e vejam o fluxograma abaixo
+que representa a letra da música. O
+desafio será programar a letra da
+música dos Beatles!
+
+
+---
+
+01: estrofe = 0
+02:
+03: while estrofe <= 3:
+04:     estrofe = estrofe + 1
+05:     print("Hey Jude, don't")
+06:
+07:     if estrofe == 1:
+08:         print("make it bad")
+09:         print("take a sad song and make it better")
+10:     elif estrofe == 2:
+11:         print("be afraid")
+12:         print("you were made to go on and get her ")
+13:     else:
+14:         print("let me down")
+15:         print("you have found her, now go and get her")
+16:
+17:     print("remember to let her ")
+18:
+19:     # Testa se estrofe é par ou ímpar
+20:     if (estrofe % 2 == 1):
+21:         print("into your heart")
+22:     else:
+23:         print("under your skin")
+24:
+25:     print("then you ")
+26:
+27:     # Testa se estrofe é par ou ímpar
+28:     if(estrofe % 2 == 1):
+29:         print("can start")
+30:     else:
+31:         print("begin")
+32:
+33:     print("to make it better")
+34:
+35:     if(estrofe == 3):
+36:         print("better better better better BETTER WAAAAAAAAAAAA")
+37:
+38: while 1==1:
+39:     print("NA NA NA NANANA NAAAAAAA")
+40:     print("NANANA NAAAAAAA")
+41:     print("Hey Jude")
+
+A música começa inicializando a variável estrofe com o valor 0. Na Linha 03, temos uma estrutura
+de repetição while. A condição de execução é se a estrofe é menor que 3. Por que? Porque temos
+três estrofes na música simplificada apresentada no diagrama apresentado. A Linha 04
+incrementa o valor da variável estrofe em uma unidade, logo estrofe = 1. Na Linha 05, já
+começamos a cantar a canção dizendo "Hey Jude, don't".
+
+Na Linha 07, temos uma expressão lógica que avalia se estamos na primeira estrofe. Como essa
+condição é verdadeira, seguimos para a Linha 08 e 09 e já podemos cantar mais um pouquinho:
+"make it bad take a sad song and make it better" . Vejam que já avaliamos a condição da
+expressão lógica, portanto podemos pular para a Linha 17 e já podemos cantar mais um pouquinho:
+"remember to let her".
+
+
+---
+
+Na Linha 20, testamos se o valor da estrofe é par ou ímpar. Como fazemos isso? Por meio do
+operador de resto. Se o resto de uma divisão por 2 for 0, um número é par – caso contrário, é ímpar.
+Sabemos que estrofe = 1, logo 1 % 2 = 1. Professor, não entendi! Galera, vocês se lembram que em
+uma divisão nós temos o divisor, dividendo, quociente e resto? Então, divisor é 1, dividendo é 2,
+quociente é 0 e o resto é 1. Em outras palavras, o resto da divisão de 1 por 2 é 1.
+
+Se o resto é 1, então a estrofe é ímpar! Logo, podemos cantar mais uma parte: "into your heart"
+e já pulamos para a Linha 25: "then you". Avaliamos mais uma vez se o valor da estrofe é par ou
+ímpar e, como já sabemos que é ímpar, cantamos: "can start". Podemos ir, então, para a Linha
+33 e cantar: "to make it better". Vamos para a Linha 35, mas não executamos as instruções
+porque estrofe não é 3!
+
+Pronto, fomos até o fim na primeira passagem pela instrução while da Linha 03. Após isso,
+voltamos a essa linha e executamos tudo de novo, mas lembrem-se que – nessa segunda iteração –
+estrofe é 2. Já ajudei um bocado, agora o desafio é com vocês! Eu quero saber se vocês
+entenderam tudo e se conseguiram cantar a música direitinho seguindo esse algoritmo. Além disso,
+quero que me expliquem no fórum qual é o sentido daquele (1=1) na linha 38. Forte abraço ;)
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+                                                RESUMO
+
+                                                                                                Definições básicas
+
+           CONCEITOS                                           DESCRIÇÃO
+                       É um conjunto de regras ou normas simples e bem definidas para a realização ou emprego
+           Instrução de algo, indicando ao computador uma ação ou função elementar a ser executada.
+                    Um conjunto predeterminado e bem definido de passos destinados à solução de um
+           Algoritmo
+                    problema, com um número finito de etapas.
+                    Algoritmos podem ser representados por: linguagem natural, linguagem de máquina,
+      Representação
+                    linguagem de programação, pseudocódigo e fluxograma.
+
+                                                                                                Linguagem python
+
+                                                 O que é Python?
+Python é uma linguagem de programação de alto nível, interpretada, multiparadigma e case-sensitive sendo
+bastante utilizada para desenvolvimento web, criação de fluxos de trabalho, conexão com bancos de dados,
+resolução de problemas matemáticos, prototipação de software, entre outros.
+
+
+Principais CARACTERÍSTICAS                                         DESCRIÇÃO
+                             Trata-se de uma linguagem de alto nível porque é uma linguagem com nível de
+                             abstração bastante elevado, bem longe do código de máquina e mais próximo da
+                ALTO NÍVEL   linguagem humana. Em outras palavras, o Python está muito mais próximo à forma
+                             humana de pensar/escrever do que dos comandos entendidos por um processador.
+                             Trata-se de uma linguagem interpretada porque seu código-fonte é executado linha a
+                             linha por um interpretador (software que traduz uma linguagem em outra) e depois
+            INTERPRETADA     pelo sistema operacional, isto é, seu código -fonte não precisa ser totalmente
+                             transformado em código de máquina para somente depois ser executado.
+                             Trata-se de uma linguagem multiparadigma porque suporta mais de um paradigma
+                             de programação. No caso, eles são: imperativo, procedural, funcional e orientado a
+          MULTIPARADIGMA     objetos. Paradigmas são formas diferentes de resolver problemas – alguns utilizam
+                             funções, outros utilizam objetos, outros procedimentos e assim por diante.
+                             Trata-se de uma linguagem case-sensitive, isto é, capaz de diferenciar maiúsculas e
+                             minúsculas. Em outras palavras, isso significa que as variáveis nome, Nome e NOME
+            CASE SENSITIVE   são diferentes entre si, uma vez que possuem diferenças de caixa em sua grafia.
+
+                                             Outras CARACTERÍSTICAS
+Python permite utilizar ponto-e-vírgula (;) para delimitar comandos, mas de forma opcional – assim como em
+outras linguagens como JavaScript e Typescript.
+
+Python é distribuída sob uma licença própria (compatível com a GPL), que permite a distribuição – comercial ou
+não – tanto da linguagem quanto de aplicações desenvolvidas nela, em formato binário ou código fonte, bastando
+cumprir a exigência de manter o aviso de copyright.
+
+
+---
+
+Python permite que programas sejam compilados para um formato portável chamado de bytecode. Essa
+característica faz com que programas escritos nessa linguagem com uma biblioteca padrão sejam executadas da
+mesma forma em diversos sistemas operacionais que possuam um software interpretador de Python.
+Python possui uma interface com muitas bibliotecas e sistemas de janela, sendo extensível em C/C++. Além disso,
+pode ser utilizada como linguagem de extensão para aplicações que necessitam de uma interface programável
+(muito comum em aplicativos, jogos, processamento de textos, dados científicos e motores de busca).
+Python possui funcionalidades para expressões regulares; sockets; threads; data/tempo; analisadores XML;
+analisadores de arquivos de configuração; manipulação de arquivos e diretórios; persistência de dados; unidades
+de testes; bibliotecas clientes para os protocolos HTTP, FTP, IMAP, SMTP e NNTP.
+Python suporta o paradigma orientado a objetos com todos os seus componentes, tais como herança (simples ou
+múltipla), polimorfismo, sobrescrita, encapsulamento, abstração, reflexão, introspecção, etc! Não é necessário
+entender o que isso significa exatamente, apenas saber que ele suporta e que tudo em Python é um objeto.
+
+                                                                                          Cuidados com indentação
+
+                                                                                                Principais operadores
+
+   SÍMBOLO           Operadores Aritméticos       exemplo
+      +                       Soma                10 + 10 = 20.
+      -                    Subtração              20 - 20 = 0.
+      *                   Multiplicação           15 * 25 = 375.
+      /                      Divisão              25 / 4 = 6,25.
+     //                 Divisão com Piso          25 // 4 = 6 (6,25 arredondado para baixo) .
+     **                  Exponenciação            2 ** 5 = 32.
+     %                   Módulo/Resto             30 % 7 = 2 (resto da divisão).
+
+
+   SÍMBOLO          Operadores de atribuição      exemplo
+      =                Atribuição Simples         x = 10 é o mesmo que atribuir o valor 10 a x.
+     +=              Atribuição com Soma          x += 1 é o mesmo que x = x + 1, logo x = 10 + 1 = 11.
+     -=            Atribuição com Subtração       x -= 6 é o mesmo que x = x - 6, logo x = 11 – 6 = 5.
+     *=             Atribuição com Produto        x *= 2 é o mesmo que x = x*2, logo x = 5 * 2 = 10.
+     /=             Atribuição com Divisão        x /= 5 é o mesmo que x = x / 5, logo x = 10 / 5 = 2.
+
+
+   SÍMBOLO         Operadores de comparação       exemplo
+     ==                      Igual                x == y retorna Falso.
+     !=                    Diferente              x != y retorna Verdadeiro.
+
+
+---
+
+      >                    Maior que                x > y retorna Falso.
+       <                   Menor que                x < y retorna Verdadeiro.
+      >=                 Maior ou igual a           x >= y retorna Falso.
+      <=                 Menor ou igual a           x <= y retorna Verdadeiro.
+
+
+    SÍMBOLO             Operadores Lógicos          exemplo
+                   Retorna Verdadeiro se ambas
+      and                                           x == 10 and y > 20 retorna Falso.
+                   condições forem Verdadeiras
+                  Retorna Verdadeiro se uma das
+      or                                            x == 10 or y > 20 retorna Verdadeiro.
+                     condições for Verdadeira
+                    Inverte o resultado de uma
+      not                                           not(x == 10 or y > 20) retorna Falso.
+                        condição qualquer
+
+
+    SÍMBOLO          Operadores de associação       exemplo
+                     Retorna Verdadeiro se o        x = [“Flamengo”, “Vasco”]
+       in           conjunto de valores estiver     y = “Botafogo” in x
+                       presente no objeto           print(y) retornará Falso porque Botafogo não está na lista.
+                     Retorna Verdadeiro se o        x = [“Flamengo”, “Vasco”]
+     not in       conjunto de valores não estiver   y = “Flamengo” not in
+                       presente no objeto           print(y) retornará Falso porque Flamengo está na lista.
+
+                                                                                               Definições de função
+
+                                   Sintaxe: def NomeFunção(argumentos):
+
+                            Sintaxe: lambda lista_de_argumentos : expressão
+
+
+                                                                                                      comentários
+
+                                                    comentários
+ Seu objetivo é adicionar descrições em partes especificas do código, seja para documentá-lo, seja para descrevê-
+ lo, ou mesmo, para marcar que uma determinada linha, ou um conjunto de linhas, não devem ser executadas.
+
+# Comentário para documentar a função "Olá, Mundo!"
+print("Olá, Mundo!")
+
+’’’
+Comentário para documentar
+a função "Olá, Mundo!"
+com mais de uma linha
+e aspas simples
+’’’
+
+print("Olá, Mundo!")
+
+”””
+Comentário para documentar
+a função "Olá, Mundo!"
+
+
+---
+
+com mais de uma linha
+e aspas duplas
+”””
+
+print("Olá, Mundo!")
+
+
+                                                                                             declaração de variáveis
+
+                                           Regras de nomenclatura de variáveis
+ (1) Começar necessariamente com uma letra ou _ (underline); (2) Jamais devem começar com um número; (3)
+ Conter caracteres alfanuméricos e undelines (a-z, A-Z, 0-9 e _); (4) São Case-Sensitive, isto é, capazes de
+ diferenciar maiúscula de minúscula.
+
+
+                                NOMES VÁLIDOS DE VARIÁVEIS NOMES INVÁLIDOS DE VARIÁVEIS
+                                nomevariavel = "Diego"        2nomevariavel = "Diego"
+                               nome_variavel = "Diego"        nome-variavel = "Diego"
+                              _nome_variavel = "Diego"        nome variavel = "Diego"
+                                nomeVariavel = "Diego"        nome#variavel = "Diego"
+
+
+                                                                                                      Tipos de dados
+
+      CATEGORIA                   TIPO                   PYTHON                           Exemplo
+                                                                        x = True
+      BOOLEANO                  Booleano                  bool          x = False
+                                                                        x = 10
+                                 Inteiro                   int          x = -5
+                                                                        x = 10.7
+      numérico            Ponto Flutuante                 float         x = -2.8
+                                                                        x = 345j
+                               Complexo                 complex         x = 2-9j
+                                                                        x = 'texto'
+       textual                   Texto                     str          x = "texto"
+                                                                        x = [4, 8]
+                                  Lista                    list         x = list()
+                                                                        x = (5, 10)
+                                 Tupla                   tuple          x = tuple()
+  Coleção/sequência                                                     x = {2, 4}
+                                  Set                      set          x = set( )
+                                                                        x = {'nome': 'Diego', idade: 31}
+                               Dicionário              dictionary
+
+
+ TIPO DE COLEÇÃO   TRADUÇÃO                                           DESCRIÇÃO
+                              Trata-se de uma coleção de valores ordenados, mutáveis e indexáveis que pode
+      LIST            LISTA
+                              conter valores duplicados.
+                              Trata-se de uma coleção de valores ordenados, imutáveis e indexáveis que pode
+      TUPLE          TUPLA
+                              conter valores duplicados (também podem ser chamadas de sequências).
+                              Trata-se de uma coleção de valores desordenados, mutáveis e não indexáveis que
+       SET         CONJUNTO não pode conter valores duplicados.
+                              Trata-se de uma coleção de valores ordenados, mutáveis e indexáveis que não pode
+   DICTIONARY      DICIONÁRIO conter valores duplicados.
+
+
+---
+
+      Critério                List                Tuple                     Set                   Dictionary
+    Ordenação              Ordenada              Ordenada              Não ordenada                ordenada
+    Modificação             Mutável              Imutável                 Mutável                   mutável
+    Duplicatas       Permite duplicatas     Permite duplicatas     Não permite duplicatas    Não permite duplicatas
+     Indexação             Por inteiro          Por inteiro            Não indexada                Por string
+    delimitador       Entre colchetes [ ]   Entre parênteses ( )      Entre chaves { }          Entre chaves { }
+
+
+                                                                                  Estrutura de decisão (if-elif-else)
+
+if expressão-lógica1:
+    bloco-de-instruções1
+elif expressão-lógica2:
+    bloco-de-instruções2
+else:
+    bloco-de-instruções3
+
+                                                                                      Estrutura de repetição (while)
+
+while expressão-lógica:
+    bloco-de-instruções
+
+
+---
+
+                                                                                            Estrutura de repetição (for)
+
+for variável-de-controle in variavel-colecao
+    bloco-de-instruções
+
+
+        Alterações de fluxo                                              DESCRIÇÃO
+                                 Interrompe o loop completamente e vai para a linha seguinte ao término do loop.
+                         Break
+                                 Interrompe a iteração atual do loop e volta para o teste de condição do loop.
+                     continue
+
+
+                                                                                                                 Arquivos
+
+                 Sintaxe: open(NomeDoArquivo, Modo) #Permite abrir/criar um arquivo
+
+
+ MODO
+           significado                                              DESCRIÇÃO
+ DE USO
+                           Esse parâmetro permite abrir um arquivo para leitura a partir de sua posição inicial sem que
+  ‘r’         READ
+                           o arquivo seja truncado e retorna um erro caso o arquivo não exista (é o modo default).
+                           Esse parâmetro permite abrir um arquivo para escrita a partir de sua posição inicial após o
+  ‘w’         WRITE
+                           arquivo ser truncado e, caso o arquivo não exista, ele é criado.
+                           Esse parâmetro permite abrir um arquivo para escrever/adicionar dados a partir de sua
+  ‘a’        APPEND
+                           posição final sem que o arquivo seja truncado e, caso o arquivo não exista, ele é criado.
+                           Esse parâmetro permite criar um arquivo especificado e, caso o arquivo exista, ele retorna
+  ‘x’         CREATE
+                           um erro.
+
+
+ MODO
+           significado                                              DESCRIÇÃO
+ DE USO
+                           Esse parâmetro permite abrir um arquivo para leitura e escrita de dados a partir de sua
+ ‘r+’       READ/write
+                           posição inicial sem que o arquivo seja truncado e retorna um erro caso o arquivo não exista.
+                           Esse parâmetro permite abrir um arquivo para escrever/adicionar e ler dados a partir de sua
+ ‘a+’      APPEND/read
+                           posição final sem que o arquivo seja truncado e, caso o arquivo não exista, ele é criado.
+                           Esse parâmetro permite abrir um arquivo para escrita e leitura de dados a partir de sua
+ ‘w+’       WRITE/read
+                           posição inicial após o arquivo ser truncado e, caso o arquivo não exista, ele é criado.
+
+
+                                    resumo      ‘x’   ‘r’   ‘r+’    ‘w’      ‘w+’    ‘a’   ‘a+’
+                                       Criar    x                    x         x     x       x
+                                         Ler          x      x                 x             x
+                                   Escrever                  x       x         x     x       x
+                                    truncar                          x         x
+                           A partir do início         x      x       x         x
+                             A partir do fim                                         x       x
+
+
+---
+
+MODO
+         significado                                          DESCRIÇÃO
+DE USO
+                       Permite manipular o arquivo de texto simples – aqueles que contenham apenas caracteres
+ ‘t’        Text
+                       alfanuméricos sem formatação (é o default).
+                       Permite manipular o arquivo como um binário – aqueles restantes que tratam de imagens,
+ ‘b’        Binary
+                       vídeos, áudios, documentos, planilhas, etc.
+
+
+       MÉTODO                                              DESCRIÇÃO
+                Retorna o conteúdo do arquivo como uma única string.
+       read()
+
+                Retorna uma linha do texto a cada chamada na ordem em que aparecem no arquivo.
+ readline()
+
+                Retorna uma lista de valores de string do arquivo, sendo que cada string corresponde a uma linha
+readlines()
+                do texto.
+
+
+---
+
+---
+
+                     QUESTÕES COMENTADAS – CESPE
+
+1. (FGV/ TCU – 2022) Considere o código Python a seguir.
+
+   def xpto(S):
+       for k in range(0,len(S)):
+            if k%2 == 0:
+                  yield(S[k]);
+
+   S=[1,2,3,4,5,6]
+   for x in xpto(S[::-1]):
+       print (x)
+
+   A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
+
+   a) 6, 1
+   b) 5, 3, 1
+   c) 6, 4, 2
+   d) 1, 3, 5
+   e) 2, 4, 6
+
+Comentários:
+
+Note que foi definida uma função xpto, que receber uma lista S:
+
+       def xpto(S):
+
+Essa função percorre essa lista do seu início até o seu fim:
+
+       for k in range(0,len(S)):
+
+Para cada valor contido na lista, verifica-se se o resto da divisão por 2 é 0. Na prática, o que se está
+verificando é se o valor é par (dado que valores pares retornam resto zero quando divididos por 2):
+
+       if k%2 == 0:
+
+O yield é parte de tópicos avançadíssimos dentro de Python, sendo é utilizado para criar geradores
+– ele basicamente permite retornar uma série de valores (e, não, apenas um).
+
+       yield(S[k]);
+
+Agora que analisamos a definição da função, vamos para o código em si. Note que é definida uma
+lista S:
+
+
+---
+
+      S=[1,2,3,4,5,6]
+
+E o pulo do gato: para cada valor dessa lista, será chamada a função xpto, porém com os valores
+invertidos, dado que o parâmetro -1 indica que ela deve ser lida de forma invertida [6,5,4,3,2,1].
+
+      for x in xpto(S[::-1]):
+
+E para cada valor retornado da função, ele é impresso em tela:
+
+      print (x)
+
+Logo, a lista será percorrida de forma invertida e, à medida que os valores pares forem encontrados,
+eles serão impressos em tela: 6, 4, 2.
+
+                                                                                 Gabarito: Letra C
+
+2. (CESPE / TRT8 – 2022) Na linguagem de programação Python, as funções:
+
+   a) retornam somente objetos.
+   b) não aceitam parâmetros opcionais (com defaults).
+   c) não podem ter suas propriedades alteradas.
+   d) não aceitam doc strings.
+   e) aceitam que os parâmetros sejam passados com nome, não importando a ordem em que os
+   parâmetros foram passados.
+
+Comentários:
+
+(a) Correto, tudo é objeto em Python; (b) Errado, claro que aceitam parâmetros opcionais – há
+funções que não obrigam a utilização de parâmetros; (c) Errado, é claro que podem ter suas
+propriedades alteradas; (d) Errado, aceitam – sim – doc strings. Lembrando que doc strings são
+strings inseridas geralmente no início do código-fonte com o intuito de fornecer uma explicação
+sobre seu funcionamento; (e) Correto, as funções realmente aceitam que os parâmetros sejam
+passados com nome, sem importar a ordem.
+
+Ué, Diego! Então há duas alternativas corretas? Na minha visão, sim! O gabarito ainda é preliminar e
+o examinador considerou correta apenas a última alternativa, mas – para mim – não há erro no
+primeiro item. Funções retornam literais (que são objetos); retornam outras funções (que também
+são objetos); enfim... tudo é objeto, logo as funções retornam somente objetos.
+
+                                                                                  Gabarito: Letra E
+
+3. (IADES / ADASA – 2022) Na disciplina de ciência de dados, Python é uma das linguagens de
+   programação mais utilizadas. A esse respeito, é correto afirmar que a linguagem de
+   programação Python:
+
+
+---
+
+   a) mostra-se ideal para desenvolvimento rápido e criação de scripts em razão de sua natureza
+   compilada.
+
+   b) possui recursos para controle de fluxo, como if-else, switch-case, while e for em todas as suas
+   versões.
+
+   c) classifica-se como fracamente tipada.
+
+   d) foi desenvolvida com o intuito de substituir a linguagem de programação C por causa de sua
+   altíssima performance.
+
+   e) pode ser utilizada como uma linguagem de programação funcional.
+
+Comentários:
+
+(a) Errado, trata-se de uma linguagem de natureza interpretada e, não, compilada; (b) Errado,
+switch-case só passou a existir a partir da versão 3.10 – agora é brincadeira a banca cobrar esse tipo
+de coisa; (c) Errado, ela é considerada fortemente tipada; (d) Errado, o intuito não era substituir o C
+e C frequentemente tem performance mais alta que Python; (e) Correto, trata-se de uma linguagem
+multiparadigma, contemplando inclusive o paradigma funcional.
+
+                                                                                    Gabarito: Letra E
+
+4. (CESPE / PC-PB - 2022) Python é uma linguagem procedural que utiliza quatro tipos de dados
+   predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A respeito desses
+   tipos de dados, julgue os itens a seguir.
+
+   I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
+   II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.
+   III A lista é um tipo de dados variável que permite a alteração de seus elementos após a sua
+   criação.
+
+   Assinale a opção correta.
+
+   a) Apenas o item I está certo.
+   b) Todos os itens estão certos.
+   c) Apenas o item II está certo.
+   d) Apenas os itens I e III estão certos.
+   e) Apenas os itens II e III estão certos.
+
+Comentários:
+
+
+---
+
+(I) Correto. De fato, um conjunto (set) pode armazenar uma tupla, mas não pode armazenar uma
+lista, isso ocorre porque os conjuntos são mutáveis, mas não podem armazenar elementos
+mutáveis entre si; (II) Errado. Outra diferença é que uma tupla é imutável, enquanto uma lista é
+mutável; (III) Correto, a lista realmente permite a alteração de seus elementos após a sua criação.
+
+                                                                                     Gabarito: Letra D
+
+5. (CESPE / DPE-RO – 2021) Na linguagem Python, são consideradas sequências mutáveis as:
+
+   a) strings.
+   b) cadeias.
+   c) ranges.
+   d) tuplas.
+   e) listas.
+
+Comentários:
+
+(a) Errado, strings não são sequências; (b) Errado, cadeias são strings; (c) Errado, a função range é
+utilizada para retornar uma sequência de números; (d) Errado, tuplas são sequências imutáveis; (e)
+Correto, listas são sequências mutáveis.
+
+                                                                                     Gabarito: Letra E
+
+6. (CESPE / SERPRO – 2021) As tuplas, embora sejam semelhantes às listas, estão limitadas a, no
+   máximo, cinco níveis.
+
+Comentários:
+
+É possível incorporar uma tupla dentro da outra, permitindo a criação de hierarquias com tuplas. As
+tuplas são imutáveis, o que significa que não é possível alterá-las. Você pode criar uma tupla com o
+mesmo nome e modificá-la de algum modo, mas não pode modificar uma já existente. As listas são
+mutáveis, o que significa que é possível alterá-las. Assim, inicialmente uma tupla pode parecer uma
+desvantagem, mas a imutabilidade tem várias vantagens, como ser mais segura e rápida. Além
+disso, objetos imutáveis são mais fáceis de usar com vários processadores.
+
+Ex: Tupla = (1, 2, 3, (4, 5, 6, (7, 8, 9))) é aninhada em três níveis de profundidade. O primeiro nível
+consiste nos valores 1, 2, 3 e uma tupla. O segundo, nos valores 4, 5, 6 e ainda outra tupla. O terceiro
+nível consiste nos valores 7, 8 e 9. No entanto, não existe limitação de nenhuma delas em relação a
+quantidade máxima de níveis suportados.
+
+                                                                                     Gabarito: Errado
+
+
+---
+
+7. (CESPE / SERPRO – 2021) Listas são coleções alteráveis de qualquer tipo de objeto — como, por
+   exemplo, outras listas — capazes de gerar um efeito top-down sem limite de níveis.
+
+Comentários:
+
+Perfeito! Listas realmente são alteráveis e não possuem limites de níveis.
+
+                                                                              Gabarito: Correto
+
+8. (CESPE – SEED-PR / 2021) Em Python, quando mais de um operador aparece em uma
+   expressão, a ordem de avaliação depende das regras de precedência de cada linguagem. Assim,
+   ao programar em Python, além de observar essas regras, é preciso considerar, ainda, a forma
+   como a linguagem representa seus operadores, conforme demonstrado nos comandos a seguir.
+
+                                        x=7*3**2%4 print (x)
+
+   Assinale a opção que corresponde à saída que o compilador Python apresentará para os
+   comandos em questão:
+
+   a) 1
+   b) 3
+   c) 7
+   d) 15
+   e) 15.75
+
+Comentários:
+
+Quando uma expressão possui vários operadores, devemos obedecer a ordem de precedência:
+Parênteses, Exponenciação, Multiplicação/Módulo/Divisão, Adição/Subtração. Logo, vamos
+analisar os itens:
+
+x = 7*3**2%4
+x = 7*9%4
+x = 63%4
+x=3
+
+                                                                              Gabarito: Letra B
+
+9. (CESPE – SEED-PR / 2021) Considere o programa a seguir, na linguagem Python.
+
+   if 5 > 2
+   {
+   print("True!")
+
+
+---
+
+   }
+
+   A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte resultado.
+
+   True!
+
+Comentários:
+
+Opa... está faltando os dois-pontos após o critério da função condicional. Deveria ser:
+
+   if 5 > 2:
+        {
+        print("True!")
+        }
+
+Professor, não está errada a utilização de chaves? Não, elas são facultativas (e geralmente não são
+utilizadas).
+
+                                                                                  Gabarito: Errado
+
+10. (CESPE / Polícia Federal – 2021) O código Python a seguir apresenta como resultado “TRUE”.
+
+x = bool(-3)
+y = bool(“True”*x)
+z = bool(“False”)
+print(x and y and z)
+
+
+Comentários:
+
+A função bool() retorna sempre True, exceto ser o parâmetro de entrada for: False, 0 ou vazio. Como
+assim, Diego? Vejam só:
+
+bool(False) = False
+bool(0) = False
+bool() = False
+
+
+Em todos os outros casos, ele retornará True! Lembrem-se que False é diferente “False”: o primeiro
+é um booleano e o segundo é uma string. Logo...
+
+bool(False) = False
+bool(”False”) = True
+
+
+Dito isso, vejamos qual seria o resultado do código:
+
+
+---
+
+bool(-3) = True           #Não é nenhuma das exceções, logo retornará True
+bool(“True”*x) = True     #String é True, multiplicado por x (True) retornará True
+bool(“True”) = True       #String sempre retornará True
+print(x and y and z)      #x, y, z = True, logo x and y and z = True
+
+
+O gabarito preliminar veio como verdadeiro, porque realmente o resultado é True. No entanto, a
+banca mudou o entendimento no gabarito definitivo porque a palavra True veio entre aspas – o que
+seria uma string e, não, um booleano. Eu acho que as aspas deixaram a questão ambígua e, não,
+errada. No entanto, o gabarito definitivo foi errado...
+
+                                                                                Gabarito: Errado
+
+11. (CESPE – Polícia Federal / 2018) Considere o programa a seguir, na linguagem Python.
+
+   letras == [“P”, “F”]
+   for x = in letras
+      {
+            print (x)
+      }
+
+   A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte resultado:
+
+   PF
+
+Comentários:
+
+Essa questão nos dá três chances de acertar. Vejamos...
+
+Primeiro, a primeira linha apresenta um operador de comparação (==). A ideia não é comparar, mas
+– sim – atribuir valores à variável letras. Logo, o correto seria utilizar = em vez de ==;
+
+Segundo, a segunda linha tem um sinal de igual desnecessário e não tem os dois-pontos ao final da
+declaração for – lembrando que eles são obrigatórios;
+
+Terceiro, a terceira linha apresenta chaves para delimitar o bloco. Nós vimos insistentemente que
+a delimitação de blocos é feita por meio da indentação. Dessa forma, o código correto seria:
+
+letras = ["P","F"]
+for x in letras:
+    print (x)
+
+
+                                                                                Gabarito: Errado
+
+12. (CESPE / MPOG – 2013) Em Python, o comando int("1") cria um objeto do tipo int, que recebe 1
+    como parâmetro no seu construtor.
+
+
+---
+
+Comentários:
+
+Essa é uma função de casting! O que ela faz? Bem, ela converte variáveis do tipo inteiro, ponto
+flutuante ou string em um inteiro. No caso, ele está recebendo um número como string (por conta
+das aspas) e convertendo em um inteiro. Esse número serve de parâmetro para o seu construtor
+(que é um método que cria um objeto, mas vocês não precisam saber disso).
+
+                                                                                  Gabarito: Correto
+
+13. (CESPE / ECT – 2012) A linguagem Python e seu interpretador estão disponíveis para as mais
+    diversas plataformas. Para que seja usado em determinado sistema operacional não suportado,
+    é possível gerar o Python a partir do programa fonte utilizando um compilador C. Nesse caso, o
+    código fonte é traduzido para o formato bytecode, que é multiplataforma e pode ser distribuído
+    de forma independente.
+
+Comentários:
+
+Ele realmente é multiplataforma. Além disso, permite que programas sejam compilados para um
+formato portável chamado de bytecode. Essa característica faz com que programas escritos nessa
+linguagem com uma biblioteca padrão sejam executadas da mesma forma em diversos sistemas
+operacionais que possuam um software interpretador de Python.
+
+                                                                                  Gabarito: Correto
+
+14. (CESPE / SERPRO – 2008) Python é uma linguagem livre de alto nível, orientada a objetos e de
+    difícil leitura, pois não permite identação de linhas de código.
+
+Comentários:
+
+Ela realmente é de alto nível, orientada a objetos e de fácil leitura. Além disso, permite indentação
+de linhas de código.
+
+                                                                                   Gabarito: Errado
+
+
+---
+
+                       QUESTÕES COMENTADAS – FCC
+
+15. (FCC / TRT-MG – 2015) Considere o código fonte Python abaixo.
+
+   Para que seja exibido [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89] a lacuna "I" precisa ser preenchida
+   corretamente com:
+
+   a) resultado.add(a)
+       a, b = b, a+b
+   b) resultado.insert(a)
+       a, b = b, a+b
+   c) resultado.append(a)
+       a, b = b, a+b
+   d) resultado.add(a)
+       a, b = a, a+b
+   e) resultado.append(a)
+       a, b = a+b, b
+
+Comentários:
+
+Primeiro temos que saber que o correto a ser utilizado é o append, pois queremos inserir valores a
+cada iteração sem perder os anteriores. Então, ficamos entre a letra (c) e (e). Em (c), temos a, b =
+b, a+b equivale a a = b e b = a+b; e em (e), temos que a, b = a+b, b equivale a a = a+b e b = b. Vamos
+testar a letra (e)! Antes de entrar na estrutura de repetição while, nós temos que:
+
+a=0
+b=1
+
+Depois, temos que:
+
+a=a+b
+b=b
+
+Note que – se antes b = 1 e depois b = b – então b nunca vai mudar, b sempre será 1. Como antes a
+= 0 e depois a = a + b, então a sempre aumentará em uma unidade. Logo, resultado em uma
+
+
+---
+
+sequência [1, 2, 3, 4, 5, 6, 8, 9, ...]. Dessa forma, a resposta é (c)! Notem que ele se trata de uma
+Sequência de Fibonacci.
+
+1ª iteração: resultado = [0]; a = 1; b = 1;
+2ª iteração: resultado = [0, 1]; a = 1; b = 2;
+3ª iteração: resultado = [0, 1, 1]; a = 2; b = 3;
+4ª iteração: resultado = [0, 1, 1, 2]; a = 3; b = 5;
+5ª iteração: resultado = [0, 1, 1, 2, 3]; a = 5; b = 8;
+6ª iteração: resultado = [0, 1, 1, 2, 3, 5]; a = 8; b = 13;
+7ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8]; a = 13; b = 21;
+8ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13]; a = 21; b = 34;
+9ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21]; a = 34; b = 55;
+10ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]; a = 55; b = 89;
+11ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55]; a = 89; b = 144;
+12ª iteração: resultado = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]; a = 144; b = 233;
+
+
+                                                                                  Gabarito: Letra C
+
+16. (FCC / MPE-PE – 2012) Em Python, os métodos de lista permitem utilizar listas como pilhas,
+    onde o item adicionado por último é o primeiro a ser recuperado. Para adicionar um item ao
+    topo da pilha, e para recuperar um item do topo da pilha utilizam-se, respectivamente os
+    métodos:
+
+   a) append() e pop().
+   b) insert() e top().
+   c) addTop() e pop().
+   d) add() e get().
+   e) addItem() e top().
+
+Comentários:
+
+append( ) é utilizado para adicionar um elemento no final de uma lista ou no topo de uma pilha;
+pop( ) é utilizado para recuperar um item de uma lista ou do topo de uma pilha.
+
+                                                                                  Gabarito: Letra A
+
+17. (FCC / TRE-CE – 2012) Sobre Python é correto afirmar:
+
+   a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo compilador,
+   que cria um arquivo binário, executável diretamente pelo hardware.
+
+   b) É uma linguagem fortemente tipada, ou seja, é preciso declarar variáveis e seus tipos.
+
+   c) Suporta funcionalidades comuns na orientação a objetos: herança, herança múltipla,
+   polimorfismo, reflexão e introspecção.
+
+
+---
+
+   d) Uma lista em Python é um conjunto de valores acessados por um índice numérico, inteiro,
+   começando em 1. Assim como em outras linguagens, a lista pode armazenar apenas valores de
+   um mesmo tipo.
+
+   e) Uma String Python é uma sequência imutável, alocada estaticamente, com restrição de
+   tamanho.
+
+Comentários:
+
+(a) Errado, é uma linguagem interpretada; (b) Errado, ele realmente possui tipagem forte, mas não
+precisa declarar variáveis e seus tipos; (c) Correto, ele realmente suporta funcionalidades comuns
+da orientação a objetos como herança simples e múltipla, polimorfismo, reflexão e introspecção;
+(d) Errado, a lista pode armazenar valores de tipos diferentes e começa em zero; (e) Errado, ela não
+possui restrição de tamanho.
+
+                                                                                 Gabarito: Letra C
+
+
+---
+
+                       QUESTÕES COMENTADAS – FGV
+
+18. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+   class enigma:
+     def __iter__(self):
+        self.x = 128
+        return self
+     def __next__(self):
+           y = self.x
+           z = lambda a : a - int(a/2)
+           self.x = z(self.x)
+           return y
+   coisa = enigma()
+   xpto = iter(coisa)
+   for k in range(5):
+     print(next(xpto))
+
+   Assinale o quarto número exibido na execução desse código.
+
+   a) 4
+   b) 8
+   c) 16
+   d) 32
+   e) 64
+
+Comentários:
+
+A classe "enigma" é definida com dois métodos especiais em Python: "iter" e "next". Esses métodos
+são usados para tornar a classe um iterador, que é uma estrutura de dados que permite que você
+percorra os elementos de uma sequência.
+
+No método "iter", o valor inicial de "self.x" é definido como 128 e a função retorna a instância do
+objeto iterador, ou seja, "self". No método "next", a variável "y" recebe o valor atual de "self.x", que
+é 128 na primeira iteração. A variável "z" é definida como uma função lambda que divide o valor de
+entrada por 2 e subtrai a parte inteira do resultado. Então, "self.x" é atualizado para o resultado da
+função "z" com "self.x" como entrada. Vejamos as iterações:
+
+1ª iteração:
+
+self.x = 128
+z(self.x) = 64
+y = self.x = 128
+
+
+---
+
+Valor impresso: 128
+
+2ª iteração:
+
+self.x = 64
+z(self.x) = 32
+y = self.x = 64
+Valor impresso: 64
+
+3ª iteração:
+
+self.x = 32
+z(self.x) = 16
+y = self.x = 32
+Valor impresso: 32
+
+4ª iteração:
+
+self.x = 16
+z(self.x) = 8
+y = self.x = 16
+Valor impresso: 16
+
+                                                                               Gabarito: Letra C
+
+19. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+   L=[]
+   for x in range(10,1,-2):
+     L.append(x)
+   print (L[2:4])
+
+   Assinale a opção que indica os valores exibidos na execução desse código.
+
+   a) [4, 6]
+   b) [6, 2]
+   c) [6, 4]
+   d) [8, 4]
+   e) [8, 6, 4, 2]
+
+Comentários:
+
+O código em Python começa criando uma lista vazia chamada "L" através da seguinte linha de
+código:
+
+
+---
+
+   L=[]
+
+Em seguida, o código utiliza um loop "for" para preencher a lista com valores que começam em 10
+e decrementam de 2 em 2 até chegar a 2. A linha de código responsável por essa tarefa é:
+
+   for x in range(10, 1, -2):
+       L.append(x)
+
+Neste loop, a função range(10, 1, -2) gera uma sequência de números que começa em 10 e termina
+em 2 (excluindo o 2), com um passo de -2. Então, a variável "x" assume valores dessa sequência em
+cada iteração do loop, e o comando L.append(x) adiciona o valor atual de "x" na lista "L". Dessa
+forma, após a execução desse loop, a lista "L" ficará com os valores [10, 8, 6, 4, 2]. Por fim, o código
+exibe na tela os elementos da lista que estão nas posições 2 e 3 utilizando o seguinte comando:
+
+    print(L[2:4])
+
+A expressão "L[2:4]" é conhecida como slicing em Python e retorna um subconjunto da lista "L" que
+começa na posição 2 (incluindo) e termina na posição 4 (excluindo), ou seja, contém os elementos
+de índice 2 e 3 da lista original. Assim, a saída do programa é a lista [6, 4].
+
+                                                                                     Gabarito: Letra C
+
+20. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+   def xxx(a, b):
+     while b != 0:
+          a, b = b, a % b
+     return a
+   print (xxx(90,15))
+
+   Assinale o resultado exibido na execução desse código.
+
+   a) 1
+   b) 3
+   c) 6
+   d) 15
+   e) 75
+
+Comentários:
+
+O código Python apresentado define uma função chamada "xxx" que recebe dois parâmetros "a" e
+"b". Dentro da função, é executado um loop "while" que continua enquanto "b" for diferente de zero.
+Em cada iteração do loop, as variáveis "a" e "b" são atualizadas para "b" e "a % b", respectivamente,
+onde "% " representa o operador módulo, ou seja, o resto da divisão de "a" por "b".
+
+
+---
+
+O loop continua até que "b" seja igual a zero, e o último valor atribuído à variável "a" é retornado
+como resultado da função. No código em questão, a função "xxx" é chamada com os valores 90 e
+15 como argumentos, ou seja, a = 90 e b = 15. Nesse caso, o loop da função executará 2 iterações
+antes de b chegar a zero, como podemos ver abaixo:
+
+Iteração 1: a = 90, b = 15
+Iteração 2: a = 15, b = 90 % 15 = 0
+
+Na última iteração, "b" é igual a zero, então a função retorna o valor atual de "a", que é 15. Sendo
+assim, o resultado exibido na execução desse código é 15.
+
+                                                                                 Gabarito: Letra D
+
+21. (FGV / TCE-TO – 2022) Analise o código Python a seguir.
+
+   A saída exibida pela execução desse código é:
+
+   a) []
+   b) [2, 3, 5, 8]
+   c) [8, 5, 3, 2]
+   d) 1
+   e) 2
+
+Comentários:
+
+O código deve imprimir x[-4], isto é, o valor que está no índice -4 no array. Quando temos números
+negativos, percorremos o array no sentido inverso.
+
+Vejamos o array x no sentido normal:
+
+  ÍNDICE             0        1            2           3            4           5            6
+   VALOR             0        1            1           2            3           5            8
+
+Vejamos o array x no sentido inverso:
+
+  ÍNDICE             -1      -2           -3          -4           -5          -6           -7
+   VALOR              8      5            3           2            1           1            0
+
+Logo, x[-4] = 2.
+
+
+---
+
+                                                                              Gabarito: Letra E
+
+22. (FGV / CGU – 2022) Analise o código Python a seguir.
+
+   x = lambda a, b: a + [a[-1] + a[-2] + b]
+   y=[-1,0]
+   for i in range(7):
+      y = x(y, i)
+   print (y)
+
+   O resultado produzido pela execução desse código na IDLE Shell 3.9.9 é:
+
+   a) [-1, 0, -1, -1, -2, -3, -5, -8, -13]
+   b) [0, -1, 4, 9, 18, 33, 51, 84]
+   c) [-1, 0, -1, -2, -3, -5, -8, -13, -21]
+   d) [-1, 0, -1, 0, 1, 4, 9, 18, 33]
+   e) [-1, 0, -1, 4, 9, 18, 33, 51]
+
+Comentários:
+
+Vamos lá! Não se assustem com o lambda: elas são apenas pequenas funções anônimas
+extremamente úteis para deixar o código mais simples e legível. Note que ela ocupa somente uma
+linha, não possuem nome e são declaradas como variáveis. Perceba também que essa função
+recebe dois valores: a e b e retorna a + [a[-1] + a[-2] + b] – isso nada mais é que uma
+concatenação de a com [a-1] com a[-2] com b.
+
+Professor, mas como pode existir um índice negativo? Galera, o valor a[-1] significa apenas que
+percorreremos o array no sentido inverso (da direita para esquerda), logo ele retornará o último
+elemento – assim como a[-2] retornará o penúltimo elemento. Em seguida, temos que y = [-
+1,0]. Depois temos for i in range(7) – isso significa que percorreremos os sete valores de i
+variando de 0 a 6 = {0, 1, 2, 3, 4, 5, 6} e executaremos o código y = x(y, i), concatenando
+novos valores aos dois que já constam em y. Pronto, agora basta fazer as iterações:
+
+Iteração 1:
+y = x(y,0)  y=x([-1,0],0)
+= [-1,0] + 0+(-1)+0 = [-1,0,-1]
+
+Iteração 2:
+y = x(y,1)  y=x([-1,0,-1],1)
+= [-1,0,-1] + (-1)+0+1 = [-1,0,-1,0]
+
+Iteração 3:
+y = x(y,2)  y=x([-1,0,-1,0],2)
+= [-1,0,-1,0] + 0+(-1)+2 = [-1,0,-1,0,1]
+
+
+---
+
+Iteração 4:
+y = x(y,3)  y=x([-1,0,-1,0,1],3)
+= [-1,0,-1,0,1] + 1+0+3 = [-1,0,-1,0,1,4]
+
+Iteração 5:
+y = x(y,4)  y=x([-1,0,-1,0,1,4],4)
+= [-1,0,-1,0,1,4] + 4+1+4 = [-1,0,-1,0,1,4,9]
+
+Iteração 6:
+y = x(y,5)  y=x([-1,0,-1,0,1,4,9],5)
+= [-1,0,-1,0,1,4,9] + 9+4+5 = [-1,0,-1,0,1,4,9,18]
+
+Iteração 7:
+y = x(y,6)  y=x([-1,0,-1,0,1,4,9,18],6)
+= [-1,0,-1,0,1,4,9,18] + 18+9+6 = [-1,0,-1,0,1,4,9,18,33]
+
+                                                                            Gabarito: Letra D
+
+23. (FGV/ TCU – 2022) Considere o código Python a seguir.
+
+   def xpto(S):
+       for k in range(0,len(S)):
+            if k%2 == 0:
+                  yield(S[k]);
+
+   S=[1,2,3,4,5,6]
+   for x in xpto(S[::-1]):
+       print (x)
+
+   A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
+
+   a) 6, 1
+   b) 5, 3, 1
+   c) 6, 4, 2
+   d) 1, 3, 5
+   e) 2, 4, 6
+
+Comentários:
+
+Note que foi definida uma função xpto, que receber uma lista S:
+
+       def xpto(S):
+
+Essa função percorre essa lista do seu início até o seu fim:
+
+       for k in range(0,len(S)):
+
+
+---
+
+Para cada valor contido na lista, verifica-se se o resto da divisão por 2 é 0. Na prática, o que se está
+verificando é se o valor é par (dado que valores pares retornam resto zero quando divididos por 2):
+
+       if k%2 == 0:
+
+O yield é parte de tópicos avançadíssimos dentro de Python, sendo é utilizado para criar geradores
+– ele basicamente permite retornar uma série de valores (e, não, apenas um).
+
+       yield(S[k]);
+
+Agora que analisamos a definição da função, vamos para o código em si. Note que é definida uma
+lista S:
+
+       S=[1,2,3,4,5,6]
+
+E o pulo do gato: para cada valor dessa lista, será chamada a função xpto, porém com os valores
+invertidos, dado que o parâmetro -1 indica que ela deve ser lida de forma invertida [6,5,4,3,2,1].
+
+       for x in xpto(S[::-1]):
+
+E para cada valor retornado da função, ele é impresso em tela:
+
+       print (x)
+
+Logo, a lista será percorrida de forma invertida e, à medida que os valores pares forem encontrados,
+eles serão impressos em tela: 6, 4, 2.
+
+                                                                                     Gabarito: Letra C
+
+24. (FGV / FUNSAÚDE - 2021) Observe o código Python v2.7.
+
+   def F (a, b):
+                   while a != b:
+                        if a > b:
+                                a=a-b
+                        elif b > a:
+                                b -= a
+                   return a
+
+   Assinale o valor retornado para F (48,36).
+
+   a) 1
+   b) 12
+   c) 24
+
+
+---
+
+   d) 36
+   e) 48
+
+Comentários:
+
+Vamos lá! A função F(a,b), foi invocada com a = 48 e b = 36. Antes de entrarmos nas iterações, é
+bom apenas deixar claro que b -= a é o mesmo que b = b-a. Vamos agora para as iterações:
+
+48 != 36?
+
+Sim, logo vamos para a próxima linha:
+
+48>36? Sim, logo a = 48 – 36 = 12.
+
+12 != 36?
+
+Sim, logo vamos para a próxima linha:
+
+12 > 36? Não, então 36 > 12? Sim, logo b = 36 – 12 = 24.
+
+12 != 24?
+
+Sim, logo vamos para a próxima linha:
+
+12 > 24? Não, então 24 > 12? Sim, logo b = 24 – 12 = 12.
+
+12 != 12?
+
+Não, 12 = 12. Logo, retornamos a, que é = 12.
+
+                                                                              Gabarito: Letra B
+
+25. (FGV – ALE-RO / 2018) Analise o código Pyhton a seguir.
+
+for k in range(0, 4, -1):
+   print k
+
+Assinale a opção que indica o número de valores printados na execução desse código.
+
+    a) Zero.
+    b) Um.
+    c) Dois.
+    d) Quatro.
+
+
+---
+
+    e) Cinco.
+
+Comentários:
+
+A função range(0, 4, -1) retornará os valores iniciando zero, terminando em 4 (sem incluir o 4) e um
+passo de -1 em -1. No entanto, de -1 em -1, nunca chegaremos em 4, logo a função range não retorna
+nenhum valor!
+
+                                                                                 Gabarito: Letra A
+
+26. (FGV – CM/Caruaru – 2015) Analise o código Python a seguir.
+
+      L1=[10,20,30]
+      L2=[40,50]
+      L1.append(L2)
+      print L1
+
+   Assinale a opção que descreve corretamente o que acontece quando esse programa é executado
+   no Python 2.7:
+
+   a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
+   b) Exibe “[10, 20, 30, [40, 50]]”.
+   c) Exibe “[10, 20, 30, 40, 50]”.
+   d) Exibe “[10, 20, 30], [40, 50]”.
+   e) Exibe “[]”.
+
+Comentários:
+
+O comando append inclui o valor da variável L2 na posição final do vetor L1. Como o conteúdo da
+variável L2 é uma lista de tamanho 2 [40,50], ele que será incluído na 4ª posição de L1. Professor,
+porque a resposta não é letra C? Muito bem observado, padawan! O método append inclui a lista L2
+como se fosse só um elemento, isto é, a lista final tem 4 elementos ao invés de 5, pois L2 é tratado
+como se fosse uma coisa só!
+
+                                                                                 Gabarito: Letra B
+
+27. (FGV / TJ-BA – 2015) Analise o trecho de programa Python, na versão 2.7, apresentado a seguir.
+
+      L=[1,2,3,4,5,6,7,8]
+      print L[::-1]
+
+   Ao ser executado, o resultado exibido é:
+
+
+---
+
+   a) [1, 2, 3, 4, 5, 6, 7, 8]
+   b) [8]
+   c) [ ]
+   d) [8, 7, 6, 5, 4, 3, 2, 1]
+   e) [1]
+
+Comentários:
+
+O operador de acesso a itens em coleções (listas, sets, tuplas) usam três argumentos:
+
+                                         L[Start:Stop:Step]
+
+Start - primeira posição a ser acessada:
+
+Pode ser: (1) valor positivo - posição inicial de acesso (por exemplo, 0 é a primeira, 1 é a segunda);
+(2) valor negativo - posição a partir do final do array (por exemplo, -1 é a última posição, -2 é a
+penúltima); (3) não fornecido - primeira posição do array (posição 0).
+
+Stop - última posição a ser acessada:
+
+Pode ser: (1) valor positivo - posição de acesso (por exemplo, 0 é a primeira, 1 é a segunda); (2) valor
+negativo - posição a partir do final do array (por exemplo, -1 é a última posição, -2 é a penúltima);
+(3) não fornecido - última posição do array (posição -1).
+
+Step - valor do incremento no acesso:
+
+Pode ser: (1) número positivo - ordem direta de incremento em incremento; (2) número negativo -
+ordem inversa de incremento em incremento; (3) não fornecido - ordem de 1 em 1. Quando só step
+é fornecido e ele é negativo, ele acessa a coleção de forma invertida a partir do último elemento.
+
+Dessa forma, o acesso L[::-1] acessará da primeira até a última posição do array em ordem inversa,
+ou seja, [8, 7, 6, 5, 4, 3, 2, 1].
+
+                                                                                     Gabarito: Letra D
+
+28. (FGV / MPE-AL – 2014) Analise o código Python 2.7 a seguir.
+
+L = [10, 12, 14, 16]
+for k in range(4, -5, -1):
+print L[k]
+
+Esse programa causa:
+
+   a) erro de sintaxe.
+
+
+---
+
+   b) erro de execução.
+   c) a exibição de 4 valores, 16,14,12,10, nessa ordem.
+   d) a exibição de 8 valores, 16,14,12,10,16,14,12,10, nessa ordem.
+   e) a exibição do valor 16, somente.
+
+Comentários:
+
+A questão é fácil de responder porque ela possui erro de sintaxe! A sintaxe exige que o bloco for
+tenha um corpo, e o corpo precisa seguir o ":" ou estar dentro de um bloco indentado abaixo do
+"for". Perceba que não acontece nenhum dos dois casos na questão: não existe nada depois do ":",
+nem existe comando indentado abaixo do "for". E mesmo que estivesse corretamente indentado,
+ainda haveria um erro de execução porque o range(4, -5, -1) percorre de 4 a -4 em passos de -1 e não
+teria como imprimir L[4] porque esse valor sequer existe, L só vai de 0 a 3.
+
+Diego, então a questão tem duas respostas? Não, porque o erro de sintaxe vem sempre antes do erro
+de execução. Se houver algum erro de sintaxe, o programa nem é executado!
+
+                                                                                 Gabarito: Letra A
+
+
+---
+
+          QUESTÕES COMENTADAS – DIVERSAS BANCAS
+
+29. (QUADRIX – COREN-RS / 2018) No que se refere à linguagem de programação Python,
+    assinale a alternativa correta.
+
+   a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio framework e é
+   incompatível com frameworks de terceiros.
+
+   b) A Python utiliza a duck typing (tipagem dinâmica), que nada mais é do que definir um tipo
+   para a variável, com as operações que podem ser aplicadas, antes mesmo de ela ter sido
+   criada, com base em conhecimento prévio do programa. Esta tarefa é executada pelo
+   interpretador.
+
+   c) O caractere “/” marca o início de comentário. Qualquer texto depois do “/”será ignorado até
+   o fim da linha.
+
+   d) A Python permite que os conteúdos das variáveis sejam sempre alterados, não existindo,
+   dessa forma, tipos imutáveis.
+
+   e) Pode ser utilizada como linguagem principal no desenvolvimento de sistemas e também
+   pode ser utilizada como linguagem script em vários softwares.
+
+Comentários:
+
+(a) Errado, ela realmente é uma linguagem de alto nível e robusta, mas seu framework (coleção de
+pacotes e módulos de extensão) é totalmente compatível com frameworks de terceiros; (b) Errado,
+ela realmente utiliza Duck Typing, mas não é necessário definir um tipo para variável antes de ela
+ser criada – isso pode ser inferido pelo interpretador; (c) Errado, comentários são inicializados por
+meio do caractere “#” e, não, “/”; (d) Errado, tipos podem ser mutáveis ou imutáveis; (e) Correto,
+além de ser utilizado como linguagem principal no desenvolvimento de sistemas, o Python
+também é muito utilizado como linguagem script em vários softwares.
+
+                                                                                  Gabarito: Letra E
+
+30. (IESES / IFC-SC – 2015) Sobre listas em Python 3.1.5:
+
+   a) list.remove(a) remove o primeiro item da lista cujo valor é a.
+   b) list.pop(a) adiciona um item de valor a ao início da lista.
+   c) list.append(a) adiciona um item à lista cujo índice será a.
+   d) list.index(a) retorna o valor do item cujo índice é a.
+
+Comentários:
+
+
+---
+
+(a) Correto. E caso não exista o valor "a", retorna erro; (b) Errado, ele remove o item na posição "a"
+da lista ou – caso seja chamado sem argumento – remove o último item da lista; (c) Errado, ele
+adiciona o valor "a" na última posição da lista; (d) Errado, index retorna a posição da primeira
+ocorrência de "a" na lista.
+
+                                                                                     Gabarito: Letra A
+
+31. (IESES / IFC-SC – 2015) O conjunto correto de palavras reservadas para a construção de uma
+    estrutura de controle em Python 3.4.3 é:
+
+   a) “if”, “elsif” e “else”.
+   b) “if”, “else if” e “else”.
+   c) Somente “if”; o restante da estrutura de controle (“senão se” e “senão”) é realizado
+   simplesmente com indentação.
+   d) “if”, “elif” e “else”.
+
+Comentários:
+
+A estrutura correta completa é: if, elif e else.
+
+                                                                                     Gabarito: Letra D
+
+32. (UNIRIO / UNIRIO – 2014) Sobre o comando range para construção de listas na linguagem
+    Python, é CORRETO afirmar que:
+
+   a) range(4,6) gera a lista [4,5].
+   b) range(5) gera a lista [1,2,3,4,5].
+   c) range(4,6) gera a lista [4,5,6,7,8,9].
+   d) range(5,1) gera a lista [5].
+   e) range(5,1,-2) gera a lista [4,5].
+
+Comentários:
+
+(a) Correto, range(4,6) retorna a lista [4, 5] porque não inclui o valor de índice [6]; (b) Errado,
+range(5) retorna a lista [0, 1, 2, 3, 4]; (c) Errado, já vimos que range(4,6) retorna a lista [4, 5]; (d)
+Errado, range(5,1) retorna [ ] porque o step padrão é 1 e o stop é menor que o start; (e) Errado,
+range(5,1,-2) retorna [5, 3] porque o step é negativo.
+
+                                                                                     Gabarito: Letra A
+
+33. (PAQTCPB / UEPB – 2012) Considere o trecho do programa Python abaixo:
+
+
+---
+
+       def dobra (y):
+             x=y+y
+             return x
+
+       x=5
+       dobra(x)
+       dobra(x)
+       print x
+
+   O valor impresso ao executarmos o programa é:
+
+   a) 5
+   b) 10
+   c) 15
+   d) 25
+
+Comentários:
+
+Primeiro, uma observação: as variáveis possuem escopos diferentes. Como assim, Diego? Há duas
+ocorrências de “x” no código-fonte, mas uma está dentro do escopo local da função dobra( ) e o
+outro está fora (escopo global). Dito isso, se x = 5, temos que dobra(5). Logo, dentro do escopo
+dessa função, ele é recebido como y. Então, x = y + y = 5 + 5 = 10. Depois, chama-se a função dobra(x)
+novamente, mas – dentro desse escopo – x continua igual a 5.
+
+Logo, repetiremos o que acabamos de fazer: x = y + y = 5 + 5 = 10. Por fim, imprime-se x. Ora, o x
+impresso aqui tem escopo global e, não, local. Logo, ele terá valor = 5.
+
+                                                                                   Gabarito: Letra A
+
+34. (IFRN / IFRN – 2012) A linguagem Python possui a seguinte característica:
+
+   a) é uma linguagem compilada.
+   b) exige declaração de código.
+   c) a tupla é um tipo mutável.
+   d) é orientada a objetos.
+
+Comentários:
+
+(a) Errado, é uma linguagem interpretada; (b) Errado, não sei o que a questão quis dizer com
+declaração de código. Se for declaração de tipo, então não exige; (c) Errado, a tupla é equivalente a
+uma lista, porém imutável; (d) Correto, é realmente orientada a objetos.
+
+                                                                                   Gabarito: Letra D
+
+
+---
+
+35. (IFPI / IFPI – 2012) Com relação à linguagem de programação Python, é INCORRETA a
+    afirmação:
+
+   a) Disponibiliza o conceito de herança múltipla, ou seja, uma classe pode ter mais de uma classe
+   pai.
+
+   b) A sintaxe Python permite o uso de somente uma instrução por linha de código. Para que seja
+   possível colocar mais de uma, é necessário separá-las com um “;”, entretanto, essa prática é
+   desaconselhada, visto que sua utilização prejudica a legibilidade do código.
+
+   c) Os comentários são iniciados com um caractere “#”. Para fazer comentários com múltiplas
+   linhas, utilizam-se os caracteres “#”, para o início, e “#*” para o final .
+
+   d) Diferentemente de outras linguagens de programação que utilizam elementos léxicos para
+   definir os blocos de código, a própria endentação do código é usada, em Python, para essa
+   função.
+
+   e) Em Python, os nomes de variáveis, funções, módulos e classes são conhecidos como
+   identificadores. O identificador _quantidade é correto em Python.
+
+Comentários:
+
+(a) Correto, ele realmente possui herança múltipla, isto é, uma classe com mais de um pai; (b)
+Correto, Python deve ser bastante legível. É possível inserir ponto-e-vírgula para separar instruções
+em uma mesma linha, mas prejudica a visibilidade – o ideal mesmo é deixar somente uma instrução
+por linha; (c) Errado, para comentários de mais de uma linha, utiliza-se três aspas simples ou duplas;
+(d) Correto, a indentação delimita blocos de código; (e) Correto, esse é um identificador válido.
+
+                                                                                   Gabarito: Letra C
+
+36. (CETAP / AL-RR – 2010) Sobre a linguagem de programação PYTHON, marque a alternativa
+    INCORRETA.
+
+   a) Python suporta a maioria das técnicas da programação orientada a objetos.
+
+   b) Python suporta e faz uso constante de tratamento de exceções como uma forma de testar
+   condições de erro e outros eventos inesperados no programa.
+
+   c) As funções são definidas em Phyton utilizando a palavra chave def.
+
+   d) A separação de blocos de código em Phyton é feita utilizando a indentação de código.
+
+   e) O operador lógico de conjunção ("e", como em a e b) é &&.
+
+
+---
+
+Comentários:
+
+(a) Correto, ele realmente suporta a maioria das técnicas da programação orientada a objetos; (b)
+Correto, ele realmente suporta e faz uso constante de tratamento de exceções como uma forma de
+testar condições de erro e outros eventos inesperados no programa. Caso haja algum erro, o
+programa não é interrompido – o erro é tratado sem interromper o programa; (c) Correto, funções
+são definidas por meio da palavra-chave def; (d) Correto, a separação de blocos se dá por meio da
+indentação – ignorem o nome errado: é Python e, não, Phyton; (e) Errado, o operador lógico de
+conjunção é and e, não, &&.
+
+                                                                               Gabarito: Letra E
+
+37. (CESGRANRIO / SECAD/TO – 2004) Um programador de Python recebeu a tarefa de criar uma
+    função chamada calcular que recebe dois parâmetros. Para executar sua atividade, ele deve
+    utilizar a expressão:
+
+   a) def calcular (a,b):
+   b) function calcular (a,b):
+   c) import calcular (a,b):
+   d) procedure calcular (a,b):
+   e) sub calcular (a,b):
+
+Comentários:
+
+Uma função é definida por meio da palavra-chave def.
+
+                                                                               Gabarito: Letra A
+
+
+---
+
+                        LISTA DE QUESTÕES – CESPE
+
+1. (FGV/ TCU – 2022) Considere o código Python a seguir.
+
+   def xpto(S):
+       for k in range(0,len(S)):
+            if k%2 == 0:
+                  yield(S[k]);
+
+   S=[1,2,3,4,5,6]
+   for x in xpto(S[::-1]):
+       print (x)
+
+   A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
+
+   a) 6, 1
+   b) 5, 3, 1
+   c) 6, 4, 2
+   d) 1, 3, 5
+   e) 2, 4, 6
+
+2. (CESPE / TRT8 – 2022) Na linguagem de programação Python, as funções:
+
+   a) retornam somente objetos.
+   b) não aceitam parâmetros opcionais (com defaults).
+   c) não podem ter suas propriedades alteradas.
+   d) não aceitam doc strings.
+   e) aceitam que os parâmetros sejam passados com nome, não importando a ordem em que os
+   parâmetros foram passados.
+
+3. (IADES / ADASA – 2022) Na disciplina de ciência de dados, Python é uma das linguagens de
+   programação mais utilizadas. A esse respeito, é correto afirmar que a linguagem de
+   programação Python:
+
+   a) mostra-se ideal para desenvolvimento rápido e criação de scripts em razão de sua natureza
+   compilada.
+
+   b) possui recursos para controle de fluxo, como if-else, switch-case, while e for em todas as suas
+   versões.
+
+   c) classifica-se como fracamente tipada.
+
+   d) foi desenvolvida com o intuito de substituir a linguagem de programação C por causa de sua
+   altíssima performance.
+
+
+---
+
+   e) pode ser utilizada como uma linguagem de programação funcional.
+
+4. (CESPE / PC-PB - 2022) Python é uma linguagem procedural que utiliza quatro tipos de dados
+   predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A respeito desses
+   tipos de dados, julgue os itens a seguir.
+
+   I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
+   II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.
+   III A lista é um tipo de dados variável que permite a alteração de seus elementos após a sua
+   criação.
+
+   Assinale a opção correta.
+
+   a) Apenas o item I está certo.
+   b) Todos os itens estão certos.
+   c) Apenas o item II está certo.
+   d) Apenas os itens I e III estão certos.
+   e) Apenas os itens II e III estão certos.
+
+5. (CESPE / DPE-RO – 2021) Na linguagem Python, são consideradas sequências mutáveis as:
+
+   a) strings.
+   b) cadeias.
+   c) ranges.
+   d) tuplas.
+   e) listas.
+
+6. (CESPE / SERPRO – 2021) As tuplas, embora sejam semelhantes às listas, estão limitadas a, no
+   máximo, cinco níveis.
+
+7. (CESPE / SERPRO – 2021) Listas são coleções alteráveis de qualquer tipo de objeto — como, por
+   exemplo, outras listas — capazes de gerar um efeito top-down sem limite de níveis.
+
+8. (CESPE – SEED-PR / 2021) Em Python, quando mais de um operador aparece em uma
+   expressão, a ordem de avaliação depende das regras de precedência de cada linguagem. Assim,
+   ao programar em Python, além de observar essas regras, é preciso considerar, ainda, a forma
+   como a linguagem representa seus operadores, conforme demonstrado nos comandos a seguir.
+
+                                           x=7*3**2%4 print (x)
+
+   Assinale a opção que corresponde à saída que o compilador Python apresentará para os
+   comandos em questão:
+
+
+---
+
+   a) 1
+   b) 3
+   c) 7
+   d) 15
+   e) 15.75
+
+9. (CESPE – SEED-PR / 2021) Considere o programa a seguir, na linguagem Python.
+
+   if 5 > 2
+   {
+   print("True!")
+   }
+
+   A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte resultado.
+
+   True!
+
+10. (CESPE / Polícia Federal – 2021) O código Python a seguir apresenta como resultado “TRUE”.
+
+x = bool(-3)
+y = bool(“True”*x)
+z = bool(“False”)
+print(x and y and z)
+
+11. (CESPE – Polícia Federal / 2018) Considere o programa a seguir, na linguagem Python.
+
+   letras == [“P”, “F”]
+   for x = in letras
+      {
+            print (x)
+      }
+
+   A sintaxe do programa está correta e, quando executado, ele apresentará o seguinte resultado:
+
+   PF
+
+12. (CESPE / MPOG – 2013) Em Python, o comando int("1") cria um objeto do tipo int, que recebe 1
+    como parâmetro no seu construtor.
+
+13. (CESPE / ECT – 2012) A linguagem Python e seu interpretador estão disponíveis para as mais
+    diversas plataformas. Para que seja usado em determinado sistema operacional não suportado,
+    é possível gerar o Python a partir do programa fonte utilizando um compilador C. Nesse caso, o
+    código fonte é traduzido para o formato bytecode, que é multiplataforma e pode ser distribuído
+    de forma independente.
+
+
+---
+
+14. (CESPE / SERPRO – 2008) Python é uma linguagem livre de alto nível, orientada a objetos e de
+    difícil leitura, pois não permite identação de linhas de código.
+
+
+---
+
+                            LISTA DE QUESTÕES – FCC
+
+15. (FCC / TRT-MG – 2015) Considere o código fonte Python abaixo.
+
+   Para que seja exibido [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89] a lacuna "I" precisa ser preenchida
+   corretamente com:
+
+   a) resultado.add(a)
+       a, b = b, a+b
+   b) resultado.insert(a)
+       a, b = b, a+b
+   c) resultado.append(a)
+       a, b = b, a+b
+   d) resultado.add(a)
+       a, b = a, a+b
+   e) resultado.append(a)
+       a, b = a+b, b
+
+16. (FCC / MPE-PE – 2012) Em Python, os métodos de lista permitem utilizar listas como pilhas,
+    onde o item adicionado por último é o primeiro a ser recuperado. Para adicionar um item ao
+    topo da pilha, e para recuperar um item do topo da pilha utilizam-se, respectivamente os
+    métodos:
+
+   a) append() e pop().
+   b) insert() e top().
+   c) addTop() e pop().
+   d) add() e get().
+   e) addItem() e top().
+
+17. (FCC / TRE-CE – 2012) Sobre Python é correto afirmar:
+
+   a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo compilador,
+   que cria um arquivo binário, executável diretamente pelo hardware.
+
+   b) É uma linguagem fortemente tipada, ou seja, é preciso declarar variáveis e seus tipos.
+
+
+---
+
+c) Suporta funcionalidades comuns na orientação a objetos: herança, herança múltipla,
+polimorfismo, reflexão e introspecção.
+
+d) Uma lista em Python é um conjunto de valores acessados por um índice numérico, inteiro,
+começando em 1. Assim como em outras linguagens, a lista pode armazenar apenas valores de
+um mesmo tipo.
+
+e) Uma String Python é uma sequência imutável, alocada estaticamente, com restrição de
+tamanho.
+
+
+---
+
+                          LISTA DE QUESTÕES – FGV
+
+18. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+   class enigma:
+     def __iter__(self):
+        self.x = 128
+        return self
+     def __next__(self):
+           y = self.x
+           z = lambda a : a - int(a/2)
+           self.x = z(self.x)
+           return y
+   coisa = enigma()
+   xpto = iter(coisa)
+   for k in range(5):
+     print(next(xpto))
+
+   Assinale o quarto número exibido na execução desse código.
+
+   a) 4
+   b) 8
+   c) 16
+   d) 32
+   e) 64
+
+19. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+   L=[]
+   for x in range(10,1,-2):
+     L.append(x)
+   print (L[2:4])
+
+   Assinale a opção que indica os valores exibidos na execução desse código.
+
+   a) [4, 6]
+   b) [6, 2]
+   c) [6, 4]
+   d) [8, 4]
+   e) [8, 6, 4, 2]
+
+20. (FGV / Receita Federal - 2023) Analise o código Python a seguir.
+
+
+---
+
+   def xxx(a, b):
+     while b != 0:
+          a, b = b, a % b
+     return a
+   print (xxx(90,15))
+
+   Assinale o resultado exibido na execução desse código.
+
+   a) 1
+   )3
+   c) 6
+   d) 15
+   e) 75
+
+21. (FGV / TCE-TO – 2022) Analise o código Python a seguir.
+
+   A saída exibida pela execução desse código é:
+
+   a) []
+   b) [2, 3, 5, 8]
+   c) [8, 5, 3, 2]
+   d) 1
+   e) 2
+
+22. (FGV / CGU – 2022) Analise o código Python a seguir.
+
+   x = lambda a, b: a + [a[-1] + a[-2] + b]
+   y=[-1,0]
+   for i in range(7):
+      y = x(y, i)
+   print (y)
+
+   O resultado produzido pela execução desse código na IDLE Shell 3.9.9 é:
+
+   a) [-1, 0, -1, -1, -2, -3, -5, -8, -13]
+   b) [0, -1, 4, 9, 18, 33, 51, 84]
+   c) [-1, 0, -1, -2, -3, -5, -8, -13, -21]
+   d) [-1, 0, -1, 0, 1, 4, 9, 18, 33]
+   e) [-1, 0, -1, 4, 9, 18, 33, 51]
+
+23. (FGV/ TCU – 2022) Considere o código Python a seguir.
+
+
+---
+
+   def xpto(S):
+       for k in range(0,len(S)):
+            if k%2 == 0:
+                  yield(S[k]);
+
+   S=[1,2,3,4,5,6]
+   for x in xpto(S[::-1]):
+       print (x)
+
+   A execução desse código na IDLE Shell produz, na ordem e exclusivamente, os números:
+
+   a) 6, 1
+   b) 5, 3, 1
+   c) 6, 4, 2
+   d) 1, 3, 5
+   e) 2, 4, 6
+
+24. (FGV / FUNSAÚDE - 2021) Observe o código Python v2.7.
+
+   def F (a, b):
+                   while a != b:
+                        if a > b:
+                                a=a-b
+                        elif b > a:
+                                b -= a
+                   return a
+
+   Assinale o valor retornado para F (48,36).
+
+   a) 1
+   b) 12
+   c) 24
+   d) 36
+   e) 48
+
+25. (FGV – ALE-RO / 2018) Analise o código Pyhton a seguir.
+
+for k in range(0, 4, -1):
+   print k
+
+Assinale a opção que indica o número de valores printados na execução desse código.
+
+    a) Zero.
+    b) Um.
+
+
+---
+
+    c) Dois.
+    d) Quatro.
+    e) Cinco.
+
+26. (FGV – CM/Caruaru – 2015) Analise o código Python a seguir.
+
+       L1=[10,20,30]
+       L2=[40,50]
+       L1.append(L2)
+       print L1
+
+   Assinale a opção que descreve corretamente o que acontece quando esse programa é executado
+   no Python 2.7:
+
+   a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
+   b) Exibe “[10, 20, 30, [40, 50]]”.
+   c) Exibe “[10, 20, 30, 40, 50]”.
+   d) Exibe “[10, 20, 30], [40, 50]”.
+   e) Exibe “[]”.
+
+27. (FGV / TJ-BA – 2015) Analise o trecho de programa Python, na versão 2.7, apresentado a seguir.
+
+       L=[1,2,3,4,5,6,7,8]
+       print L[::-1]
+
+   Ao ser executado, o resultado exibido é:
+
+   a) [1, 2, 3, 4, 5, 6, 7, 8]
+   b) [8]
+   c) [ ]
+   d) [8, 7, 6, 5, 4, 3, 2, 1]
+   e) [1]
+
+28. (FGV / MPE-AL – 2014) Analise o código Python 2.7 a seguir.
+
+L = [10, 12, 14, 16]
+for k in range(4, -5, -1):
+print L[k]
+
+Esse programa causa:
+
+   a) erro de sintaxe.
+   b) erro de execução.
+   c) a exibição de 4 valores, 16,14,12,10, nessa ordem.
+
+
+---
+
+d) a exibição de 8 valores, 16,14,12,10,16,14,12,10, nessa ordem.
+e) a exibição do valor 16, somente.
+
+
+---
+
+               LISTA DE QUESTÕES – DIVERSAS BANCAS
+
+29. (QUADRIX – COREN-RS / 2018) No que se refere à linguagem de programação Python,
+    assinale a alternativa correta.
+
+   a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio framework e é
+   incompatível com frameworks de terceiros.
+
+   b) A Python utiliza a duck typing (tipagem dinâmica), que nada mais é do que definir um tipo
+   para a variável, com as operações que podem ser aplicadas, antes mesmo de ela ter sido
+   criada, com base em conhecimento prévio do programa. Esta tarefa é executada pelo
+   interpretador.
+
+   c) O caractere “/” marca o início de comentário. Qualquer texto depois do “/”será ignorado até
+   o fim da linha.
+
+   d) A Python permite que os conteúdos das variáveis sejam sempre alterados, não existindo,
+   dessa forma, tipos imutáveis.
+
+   e) Pode ser utilizada como linguagem principal no desenvolvimento de sistemas e também
+   pode ser utilizada como linguagem script em vários softwares.
+
+30. (IESES / IFC-SC – 2015) Sobre listas em Python 3.1.5:
+
+   a) list.remove(a) remove o primeiro item da lista cujo valor é a.
+   b) list.pop(a) adiciona um item de valor a ao início da lista.
+   c) list.append(a) adiciona um item à lista cujo índice será a.
+   d) list.index(a) retorna o valor do item cujo índice é a.
+
+31. (IESES / IFC-SC – 2015) O conjunto correto de palavras reservadas para a construção de uma
+    estrutura de controle em Python 3.4.3 é:
+
+   a) “if”, “elsif” e “else”.
+   b) “if”, “else if” e “else”.
+   c) Somente “if”; o restante da estrutura de controle (“senão se” e “senão”) é realizado
+   simplesmente com indentação.
+   d) “if”, “elif” e “else”.
+
+32. (UNIRIO / UNIRIO – 2014) Sobre o comando range para construção de listas na linguagem
+    Python, é CORRETO afirmar que:
+
+   a) range(4,6) gera a lista [4,5].
+
+
+---
+
+   b) range(5) gera a lista [1,2,3,4,5].
+   c) range(4,6) gera a lista [4,5,6,7,8,9].
+   d) range(5,1) gera a lista [5].
+   e) range(5,1,-2) gera a lista [4,5].
+
+33. (PAQTCPB / UEPB – 2012) Considere o trecho do programa Python abaixo:
+
+      def dobra (y):
+            x=y+y
+            return x
+
+      x=5
+      dobra(x)
+      dobra(x)
+      print x
+
+   O valor impresso ao executarmos o programa é:
+
+   a) 5
+   b) 10
+   c) 15
+   d) 25
+
+34. (IFRN / IFRN – 2012) A linguagem Python possui a seguinte característica:
+
+   a) é uma linguagem compilada.
+   b) exige declaração de código.
+   c) a tupla é um tipo mutável.
+   d) é orientada a objetos.
+
+35. (IFPI / IFPI – 2012) Com relação à linguagem de programação Python, é INCORRETA a
+    afirmação:
+
+   a) Disponibiliza o conceito de herança múltipla, ou seja, uma classe pode ter mais de uma classe
+   pai.
+
+   b) A sintaxe Python permite o uso de somente uma instrução por linha de código. Para que seja
+   possível colocar mais de uma, é necessário separá-las com um “;”, entretanto, essa prática é
+   desaconselhada, visto que sua utilização prejudica a legibilidade do código.
+
+   c) Os comentários são iniciados com um caractere “#”. Para fazer comentários com múltiplas
+   linhas, utilizam-se os caracteres “#”, para o início, e “#*” para o final .
+
+
+---
+
+   d) Diferentemente de outras linguagens de programação que utilizam elementos léxicos para
+   definir os blocos de código, a própria endentação do código é usada, em Python, para essa
+   função.
+
+   e) Em Python, os nomes de variáveis, funções, módulos e classes são conhecidos como
+   identificadores. O identificador _quantidade é correto em Python.
+
+36. (CETAP / AL-RR – 2010) Sobre a linguagem de programação PYTHON, marque a alternativa
+    INCORRETA.
+
+   a) Python suporta a maioria das técnicas da programação orientada a objetos.
+
+   b) Python suporta e faz uso constante de tratamento de exceções como uma forma de testar
+   condições de erro e outros eventos inesperados no programa.
+
+   c) As funções são definidas em Phyton utilizando a palavra chave def.
+
+   d) A separação de blocos de código em Phyton é feita utilizando a indentação de código.
+
+   e) O operador lógico de conjunção ("e", como em a e b) é &&.
+
+37. (CESGRANRIO / SECAD/TO – 2004) Um programador de Python recebeu a tarefa de criar uma
+    função chamada calcular que recebe dois parâmetros. Para executar sua atividade, ele deve
+    utilizar a expressão:
+
+   a) def calcular (a,b):
+   b) function calcular (a,b):
+   c) import calcular (a,b):
+   d) procedure calcular (a,b):
+   e) sub calcular (a,b):
+
+
+---
+
+                      GABARITO
+
+1.    LETRA C   14.   ERRADO     27.   LETRA D
+2.    LETRA E   15.   LETRA C    28.   LETRA A
+3.    LETRA E   16.   LETRA A    29.   LETRA E
+4.    LETRA D   17.   LETRA C    30.   LETRA A
+5.    LETRA E   18.   LETRA E    31.   LETRA D
+6.    ERRADO    19.   LETRA C    32.   LETRA A
+7.    CORRETO   20.   LETRA D    33.   LETRA A
+8.    LETRA B   21.   LETRA E    34.   LETRA D
+9.    ERRADO    22.   LETRA D    35.   LETRA C
+10.   ERRADO    23.   LETRA C    36.   LETRA E
+11.   ERRADO    24.   LETRA B    37.   LETRA A
+12.   CORRETO   25.   LETRA A
+13.   CORRETO   26.   LETRA B
+
+
+---

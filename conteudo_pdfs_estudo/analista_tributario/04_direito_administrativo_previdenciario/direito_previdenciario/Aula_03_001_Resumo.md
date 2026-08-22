@@ -1,0 +1,290 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 03_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '03'
+titulo_aula: ✓ A seguridade social será financiada por toda a sociedade.
+---
+
+# ✓ A seguridade social será financiada por toda a sociedade.
+
+RESUMO DA AULA
+
+✓ A seguridade social será financiada por toda a sociedade.
+
+
+✓ O financiamento ocorrerá de forma direta e indireta.
+
+✓ Forma direta: Financiamento da seguridade Social por meio de recolhimento de
+   contribuições sociais.
+
+✓ Forma indireta: Financiamento da Seguridade Social por meio de recursos
+   provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos
+   Municípios
+
+
+✓ As contribuições sociais previstas na CF/88 se dividem em:
+
+                o Contribuição social do empregador, da empresa e da entidade a ela
+                  equiparada, incidentes sobre:
+
+
+                      ▪     Folha de salários;
+                      ▪     Receita ou Faturamento;
+                      ▪     Lucro
+
+
+                o Contribuição social do trabalhador e dos demais segurados da
+                  previdência social;
+
+                o Contribuição social incidente sobre a receita de concursos de
+                  prognósticos e
+
+                o Contribuição social do importador de bens ou serviços do exterior, ou
+                  de quem a lei a ele equiparar.
+
+                          
+
+
+---
+
+✓ A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido
+  em lei, não poderá contratar com o Poder Público nem dele receber benefícios ou
+  incentivos fiscais ou creditícios.
+
+
+✓ A União poderá instituir Contribuições Sociais Residuais mediante lei complementar,
+  e desde que sejam não-cumulativas e não tenham fato gerador ou base de cálculo
+  próprios das contribuições discriminadas na Constituição.
+
+✓ Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou
+   estendido sem a correspondente fonte de custeio total.
+
+✓ As contribuições sociais destinadas ao financiamento da Seguridade Social só
+   poderão ser exigidas após decorridos noventa dias da data da publicação da lei que
+   as houver instituído ou modificado, não se lhes aplicando o princípio da
+   anterioridade.
+
+              o Trata-se de uma espécie de noventena, destinada às contribuições
+                 sociais de Seguridade Social, denominada pela maioria dos
+                 doutrinadores e bancas de concursos              como    anterioridade
+                 nonagesimal ou anterioridade mitigada.
+
+✓ São isentas (imunes) de contribuição para a seguridade social as entidades
+  beneficentes de assistência social que atendam às exigências estabelecidas em lei.
+
+
+✓ As contribuições sociais do empregador, empresa ou entidade equiparada poderão
+   ter alíquotas diferenciadas, em razão da atividade econômica, da utilização intensiva
+   de mão de obra, do porte da empresa ou da condição estrutural do mercado de
+   trabalho, sendo também autorizada a adoção de bases de cálculo diferenciadas
+   apenas no caso das contribuições sobre receita, faturamento e lucro.
+
+✓ Considera-se empresa: a firma individual ou sociedade que assume o risco de
+   atividade econômica urbana ou rural, com fins lucrativos ou não, bem como os
+   órgãos e entidades da administração pública direta, indireta e fundacional.
+
+✓ Equipara-se a empresa, para os efeitos previdenciários, o contribuinte individual em
+  relação a segurado que lhe presta serviço, bem como a cooperativa, a associação ou
+
+                      
+
+
+---
+
+   entidade de qualquer natureza ou finalidade, a missão diplomática e a repartição
+   consular de carreira estrangeiras.
+
+✓ Considera-se empregador doméstico - aquele que admite a seu serviço, mediante
+  remuneração, sem finalidade lucrativa, empregado doméstico.
+
+✓ As contribuições sociais são tributos da espécie “contribuições especiais”.
+
+✓ A base de cálculo utilizada para o cálculo da contribuição do segurado empregado,
+  empregado doméstico, trabalhador avulso, contribuinte individual e segurado
+   facultativo é seu salário de contribuição, e deverão respeitar os limites mínimo e
+   máximo.
+
+✓ A base de cálculo utilizada para o cálculo da contribuição do segurado especial é a
+  receita bruta da comercialização de sua produção rural.
+
+✓ A base de cálculo utilizada para o cálculo da contribuição das empresas é, em regra,
+   a remuneração paga ou creditada aos segurados a seu serviço, sem limites mínimos
+   ou máximos.
+
+✓ A base de cálculo utilizada para o cálculo da contribuição do empregador doméstico
+  é o valor do salário de contribuição do empregado doméstico a seu serviço.
+
+✓ A contribuição do segurado empregado, empregado doméstico e do trabalhador
+  avulso é calculada de forma progressiva, mediante a aplicação das alíquotas de 7,5%,
+   9%, 12% e 14%, incidindo cada um sobre a faixa de valores compreendida nos
+   respectivos limites, observados os limites mínimo e máximo do salário de
+   contribuição.
+
+✓ Para o contribuinte individual que trabalha por conta própria, sem relação de
+  trabalho com a empresa, temos 3 (três) formas de contribuição, conforme o caso,
+   senão vejamos:
+
+
+              •     A alíquota de contribuição do segurado contribuinte individual é de
+                    20% (vinte por cento) aplicada sobre o respectivo salário de
+                    contribuição. Neste caso, o segurado terá direito a se aposentar por
+                    tempo de contribuição.
+
+                       
+
+
+---
+
+              •    Caso o segurado contribuinte individual opte pela exclusão do
+                   direito ao benefício de aposentadoria por tempo de contribuição, a
+                   alíquota de contribuição incidente sobre o limite mínimo mensal do
+                   salário de contribuição será de 11%. Neste caso, a base de cálculo
+                   será o salário mínimo, e não o próprio salário de contribuição.
+
+              •   Caso o segurado contribuinte individual, enquadrado como
+                  Microempreendedor Individual - MEI, opte pela exclusão do direito ao
+                  benefício de aposentadoria por tempo de contribuição, a alíquota de
+                  contribuição incidente sobre o limite mínimo mensal do salário de
+                  contribuição será de 5%. Neste caso, a base de cálculo será o salário
+                  mínimo, e não o próprio salário de contribuição, e tal alíquota de 5%
+                  aplica-se apenas ao contribuinte individual considerado MEI.
+
+✓ Em relação ao contribuinte individual que presta serviços a empresas, ficará a
+  empresa obrigada a arrecadar a contribuição de 11% sobre o respectivo salário de
+   contribuição do segurado contribuinte individual a seu serviço, descontando-a da
+   respectiva remuneração.
+
+
+✓ Em relação ao contribuinte individual que presta serviços a empresas imunes, ficará
+  a empresa, ainda que imune das contribuições previdenciárias patronais a seu cargo,
+  obrigada a arrecadar a contribuição de 20% sobre o respectivo salário de
+  contribuição do segurado contribuinte individual a seu serviço, descontando-a da
+   respectiva remuneração.
+
+✓ A cooperativa de trabalho é obrigada a descontar 20% do valor da quota distribuída
+   ao cooperado por serviços por ele prestados, por seu intermédio.
+
+✓ A cooperativa de produção é obrigada a descontar 11% (onze por cento) da
+  remuneração paga ou creditada aos cooperados envolvidos na produção dos bens
+  ou serviços., respeitados os limites mínimo e máximo do salário de contribuição.
+
+✓ Para o segurado facultativo, temos três formas de contribuição, conforme o caso,
+  senão vejamos:
+
+                      
+
+
+---
+
+              •   A alíquota de contribuição do segurado facultativo é de 20% aplicada
+                  sobre o respectivo salário de contribuição. Neste caso, o segurado
+                  terá direito a se aposentar por tempo de contribuição.
+
+
+              •   Caso o segurado facultativo opte pela exclusão do direito ao
+                  benefício de aposentadoria por tempo de contribuição, a alíquota de
+                  contribuição incidente sobre o limite mínimo mensal do salário de
+                  contribuição será de 11%. Neste caso, a base de cálculo será o salário
+                  mínimo, e não o próprio salário de contribuição.
+
+              •   Caso o segurado facultativo, sem renda própria, que se dedique
+                  exclusivamente ao trabalho doméstico no âmbito de sua residência,
+                  desde que pertencente a família de baixa renda, opte pela exclusão
+                  do direito ao benefício de aposentadoria por tempo de contribuição,
+                  a alíquota de contribuição incidente sobre o limite mínimo mensal do
+                  salário de contribuição será de 5%. Neste caso, a base de cálculo será
+                  o salário mínimo, e não o próprio salário de contribuição. A alíquota
+                  de 5% aplica-se apenas ao segurado facultativo mencionado
+                  (popularmente conhecido como “dona-de-casa” ou “do lar”).
+
+                                           o Considera-se família de baixa renda, para o
+                                             fim mencionado, a família inscrita no
+                                             Cadastro único para Programas Sociais do
+                                               Governo Federal – CadÚnico e cuja renda
+                                               mensal familiar seja de até 2 salários
+                                               mínimos.
+
+
+✓ O segurado especial contribui por meio da aplicação de uma alíquota de 1,3% sobre
+  a receita bruta da comercialização de sua produção rural, sem direito a
+  aposentadoria por tempo de contribuição.
+
+
+✓ O segurado especial, além da contribuição obrigatória de 1,3% sobre a receita bruta
+  da comercialização de sua produção rural, poderá contribuir, facultativamente, como
+  se fosse um contribuinte individual ou facultativo, com uma alíquota de 20% sobre o
+   respectivo salário de contribuição, cujo valor será por ele declarado, desde que não
+   seja inferior a um salário mínimo mensal e nem superior ao limite máximo do salário
+   de contribuição. Neste caso, passará a ter direito a aposentadoria por tempo de
+
+                      
+
+
+---
+
+   contribuição e poderá receber, dependendo da base de cálculo declarada,
+   benefícios em valores superiores a um salário mínimo.
+
+✓ São contribuições a cargo da empresa, destinadas à Seguridade Social:
+
+              •    20% sobre o total das remunerações pagas, devidas ou creditadas a
+                   qualquer título, durante o mês, aos segurados empregados e
+                   trabalhadores avulsos que lhe prestem serviços.
+
+
+              •    1% ou 2% ou 3% para o financiamento do benefício de
+                   aposentadoria especial e daqueles concedidos em razão do
+                   grau de incidência de incapacidade laborativa decorrente dos
+                   riscos ambientais do trabalho - RAT, sobre o total das
+                   remunerações pagas ou creditadas, no decorrer do mês, aos
+                   segurados empregados e trabalhadores avulsos.
+
+              •    20% sobre o total das remunerações pagas ou creditadas a
+                   qualquer     título,   no    decorrer   do   mês,   aos   segurados
+                   contribuintes individuais que lhe prestem serviços.
+
+✓ Considera-se preponderante a atividade que ocupa, na empresa, o maior número de
+  segurados empregados e trabalhadores avulsos.
+
+
+✓ A contribuição para o financiamento do benefício de aposentadoria especial e
+   daqueles concedidos em razão do grau de incidência de incapacidade
+   laborativa decorrente dos riscos ambientais do trabalho - RAT terá suas
+   alíquotas reduzidas em até cinquenta por cento ou aumentadas em até cem por
+   cento, em razão do desempenho da empresa em relação à sua respectiva atividade,
+   aferido pelo Fator Acidentário de Prevenção – FAP.
+
+✓ O FAP consiste num multiplicador variável num intervalo contínuo de cinco décimos
+  (0,5000) a dois inteiros (2,0000), aplicado com quatro casas decimais, considerado o
+  critério de arredondamento na quarta casa decimal, a ser aplicado à respectiva
+   alíquota RAT.
+
+                      
+
+
+---
+
+✓ As alíquotas do RAT serão acrescidas de 12%, 9% ou 6%, conforme a atividade
+  exercida pelo segurado empregado e trabalhador avulso a serviço da empresa
+  permita a concessão de aposentadoria especial após 15, 20 ou 25 anos de
+   contribuição, respectivamente.
+
+✓ Serão acrescidos à contribuição patronal de 20%, incidentes sobre a remuneração
+  paga, devida ou creditada ao cooperado filiado, a ser recolhida pela própria
+  cooperativa de produção, um adicional de 12%, 9% ou 6%, conforme a atividade
+   exercida pelo segurado a serviço da empresa permita a concessão de aposentadoria
+   especial após 15, 20 ou 25 anos de contribuição, respectivamente.
+
+                     
+
+
+---

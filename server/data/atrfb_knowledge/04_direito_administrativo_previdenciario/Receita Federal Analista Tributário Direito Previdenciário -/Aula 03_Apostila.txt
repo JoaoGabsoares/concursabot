@@ -1,0 +1,620 @@
+                                                    Aula 02
+                          Receita Federal (Analista Tributário)
+                        Direito Previdenciário - Profª. Adriana
+                                                     Menezes
+
+
+
+                                                        Autor:
+                                            Adriana Menezes
+
+
+
+
+                                            27 de Março de 2023
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Adriana Menezes
+      Aula 02
+
+
+
+
+                                                                                     Índice
+1) Receita Federal - Aula 02 - TEORIA
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                                                                                     2
+                www.estrategiaconcursos.com.br                                                                                                                                           14
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+
+                    REGIME GERAL DE PREVIDÊNCIA SOCIAL
+A Constituição Federal de 1988 dispõe que a Previdência Social deve ser organizada sob a forma
+do regime geral de previdência social, trazendo as características desse regime.
+
+     Dispõe o caput do art. 201 da Constituição Federal:
+
+     A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter
+     contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e
+     atuarial, e atenderá, na forma da lei, a:
+     I – cobertura dos eventos de incapacidade temporário ou permanente para o trabalho e idade
+     avançada.
+     II – proteção à maternidade, especialmente à gestante.
+     III – proteção ao trabalhador em situação de desemprego involuntário.
+     IV – salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda;
+     V – pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes,
+     observado o disposto no § 2º.
+
+
+      São características do regime geral de previdência social:
+
+      • caráter contributivo: significa que há a compulsoriedade da contribuição para a
+Previdência Social. O segurado da Previdência Social deverá pagar contribuição para a
+manutenção do sistema previdenciário;
+
+      • filiação obrigatória: significa que aqueles que venham a exercer atividade remunerada, de
+forma lícita, serão obrigatoriamente filiados à Previdência Social;
+
+      • preservação do equilíbrio financeiro e atuarial: devem-se criar critérios de modo que o
+sistema previdenciário se mantenha equilibrado financeira e atuarialmente. Não se pode admitir
+que o sistema previdenciário seja criado sem a preocupação com o equilíbrio das contas no intuito
+de poder arcar com o pagamento dos benefícios;
+
+      • repartição simples: do ponto de vista financeiro, os recursos arrecadados pelo RGPS já vão
+sendo utilizados para pagar os benefícios ativos. Diferentemente do regime de capitalização, não
+há constituição de reservas do segurado para garantir, no futuro, o benefício contratado.
+
+O RGPS é administrado pelo INSS e tem como beneficiários os segurados e seus dependentes.
+
+
+   1. Princípios e objetivos
+
+Vamos tratar aqui dos princípios da Previdência Social presentes na Constituição Federal de 1988
+e, também, na Lei n. 8.213/91.
+
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes               3
+        www.estrategiaconcursos.com.br                                                                      14
+
+                                     https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+Alguns deles constam na CF/88 e na Lei.
+
+1.1. Da recomposição monetária
+
+Os salários de contribuição utilizados para o cálculo da renda mensal dos benefícios deverão ser
+corrigidos monetariamente, conforme dispõe o art. 201, § 3º da CF:
+
+     todos os salários de contribuição considerados para o cálculo de benefício serão devidamente
+     atualizados na forma da lei.
+
+O dispositivo constitucional deixa claro que, no momento em que for calculado o valor do benefício
+previdenciário, os salários de contribuição utilizados deverão ser corrigidos monetariamente,
+segundo os critérios da lei previdenciária. Registre-se, ainda, que a Lei nº 8.213/91 fez questão de
+pontuar esse princípio no seu art. 2º, inciso IV, in verbis:
+
+     A Previdência Social rege-se pelos seguintes princípios e objetivos:
+
+     (...) – cálculo dos benefícios considerando-se os salários de contribuição corrigidos monetariamente;
+
+Nesse caso, a Lei nº 8.213/91, em seu art. 29-B, dispõe que:
+
+     Os salários de contribuição considerados no cálculo do valor do benefício serão corrigidos mês a
+     mês de acordo com a variação integral do Índice Nacional de Preços ao Consumidor – INPC,
+     calculado pela Fundação Instituto Brasileiro de Geografia e Estatística – IBGE.
+
+
+1.2. Do valor mínimo
+
+O art. 201, §2º da Constituição Federal assegura que nenhum benefício que substitua o salário de
+contribuição ou o rendimento do trabalho do segurado terá valor inferior ao salário mínimo.
+
+A Lei nº 8.213/91, também, reza:
+
+     A Previdência Social rege-se pelos seguintes princípios e objetivos:
+
+     (...)
+
+     VI – valor da renda mensal dos benefícios substitutos do salário de contribuição ou do rendimento
+     do trabalho do segurado não inferior ao do salário-mínimo;
+
+Isso significa que os benefícios que substituem o rendimento do trabalho, como por exemplo, a
+aposentadoria, não poderão ter valores inferiores ao do salário mínimo.
+
+No entanto, há benefícios que não se prestam ao papel de serem substitutos do rendimento do
+trabalho e, portanto, não precisam cumprir essa regra constitucional. É o caso, por exemplo, do
+salário-família que é pago em valor bem inferior ao do salário mínimo.
+
+
+         Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes               4
+         www.estrategiaconcursos.com.br                                                                      14
+
+                                      https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+
+1.3. Da preservação do valor real dos benefícios
+
+O art. 201, §4º da CF assim dispõe:
+
+     É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor
+     real, conforme critérios definidos em lei.
+
+A Lei nº 8.213/91 em seu art.2º, inciso V, ainda dispõe:
+
+     A Previdência Social rege-se pelos seguintes princípios e objetivos:
+
+     (...)
+
+     V – irredutibilidade do valor dos benefícios de forma a preservar-lhes o poder aquisitivo.
+
+Assim, os benefícios previdenciários deverão sofrer reajustes legais de modo a preservar-lhes o
+valor real.
+
+Todavia, não se pode confundir tal princípio com a garantia de que o benefício deva ser fixado em
+números de salários mínimos.
+
+Nesse particular, cabe ressaltar que a concessão e os reajustamentos dos benefícios
+previdenciários concedidos não estão atrelados ao número de salários mínimos.
+
+O art. 7º, inciso IV, da Constituição Federal veda a vinculação do salário mínimo para qualquer fim.
+
+Ademais, o § 4º do art. 201 da CF deixa claro que o reajustamento dos benefícios será feito
+conforme critérios definidos em lei. Vale dizer, deixou o constituinte para o legislador ordinário o
+papel de definir os critérios de reajustamento dos benefícios previdenciários.
+
+Consoante dispõe o art. 41-A da Lei nº 8.213/91,
+
+     O valor dos benefícios em manutenção será reajustado, anualmente, na mesma data do reajuste do
+     salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último reajustamento,
+     com base no Índice Nacional de Preços ao Consumidor – INPC, apurado pela Fundação Instituto
+     Brasileiro de Geografia e Estatística – IBGE.
+
+
+1.4. Da universalidade de participação nos planos previdenciários
+
+A previdência social deverá permitir que todos dela participem como segurados, obedecidos os
+termos dispostos na Constituição Federal e na Lei de Benefícios.
+
+
+
+         Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes              5
+         www.estrategiaconcursos.com.br                                                                     14
+
+                                      https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+Este princípio vem sendo colocado em prática, por exemplo, nos programas de inclusão
+previdenciária em que pessoas de baixa renda poderão contribuir para a previdência social com
+alíquotas inferiores à praticada, em geral, retirando trabalhadores que vivem na informalidade.
+
+Poderão participar da Previdência aquelas pessoas que não estiverem exercendo atividade
+remunerada que a qualificaria como segurada obrigatória do RGPS, tampouco ocupando cargo
+público efetivo com amparo de regime próprio de previdência social. Trata-se, no caso, do
+segurado facultativo.
+
+1.5. Da uniformidade e equivalência dos benefícios e serviços às
+populações urbanas e rurais
+
+Vê-se que a Lei nº 8.213/91 veio repetir o que já dispôs a Constituição Federal.
+
+Este princípio ordena que as populações urbana e rural devem possuir os mesmos direitos a título
+de previdência social. Os segurados e dependentes urbanos e rurais devem ter o mesmo
+tratamento.
+
+Essa norma atende, também, ao preceito da isonomia, de modo que serão tratadas igualmente
+aquelas pessoas que se encontrarem em situações semelhantes e, desigualmente aquelas em
+situações desiguais.
+
+É interessante salientar que a Constituição Federal de 1988 igualou os direitos das populações
+urbanas e rurais, pela primeira vez. A partir de então, urbanos e rurais estão filiados ao Regime
+Geral de Previdência Social, não havendo mais um sistema de previdência urbana e outro rural.
+
+Apesar de existir a determinação da uniformidade e equivalência de tratamento em relação às
+populações urbana e rural, o próprio texto constitucional trouxe uma distinção com relação à
+aposentadoria por idade entre o trabalhador rural e o trabalhador urbano.
+
+Enquanto o trabalhador urbano precisa ter 65 anos de idade, se homem, ou 62 anos de idade, se
+mulher, para se aposentar voluntariamente, ao trabalhador rural lhe é exigida a idade de 60 anos,
+se homem, e 55 anos, se mulher para se aposentar por idade. Nesse caso, não há ofensa ao
+princípio ora estudado, uma vez que a própria Constituição assim determinou, preocupada, talvez,
+com a diferença do ponto de vista laboral em função da natural desigualdade material entre essas
+pessoas.
+
+Outras diferenciações que vierem a ser impostas para os benefícios e serviços dos trabalhadores
+rurais e urbanos poderão ser declaradas inconstitucionais se não estiverem previstas no corpo da
+Constituição Federal.
+
+1.6. Da seletividade e distributividade na prestação dos benefícios
+
+A Lei nº 8.213/91, em seu art. 2º, inciso III, veio repetir o que já dispôs a Constituição Federal.
+
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes         6
+        www.estrategiaconcursos.com.br                                                                14
+
+                                     https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+O princípio da seletividade propicia ao legislador estudar as carências sociais, priorizando-as em
+relação às demais, viabilizando a promoção da previdência social factível. Cobrem-se as
+necessidades mais essenciais e planeja-se, para o futuro, a cobertura das demais, visando alcançar
+a Previdência Social ideal.
+
+Ao eleger os benefícios e serviços mais fundamentais e necessários aos beneficiários, o legislador
+define os requisitos que devem ser preenchidos para a obtenção do benefício e aquele que se
+enquadrar nos requisitos da lei poderá ter a proteção social.
+
+O princípio da distributividade consagra que, após cada pessoa ter contribuído com o que podia,
+dá-se a cada um de acordo com suas necessidades. Justificam-se, com esse princípio, os benefícios
+de valor mínimo a fim de que possam garantir um mínimo de subsistência.
+
+
+
+
+                                 Como aplicação concreta do princípio da distributividade podem-
+se ser citados os benefícios previdenciários de salário-família e de auxílio-reclusão.
+
+O benefício previdenciário do salário-família é devido aos segurados de baixa renda - empregado,
+empregado doméstico e trabalhador avulso - que têm filhos ou equiparados menores de 14 anos
+ou inválidos.
+
+O auxílio-reclusão é benefício devido aos dependentes do segurado de baixa renda que for
+recolhido à prisão em regime fechado.
+
+1.7. Do caráter democrático e descentralizado da gestão administrativa,
+com a participação do governo e da comunidade, em especial de
+trabalhadores em atividade, empregadores e aposentados.
+
+O que merece um pouco mais de atenção do candidato é que a Lei nº 8.213/91 menciona o termo
+“trabalhadores em atividade” no grupo de pessoas que irão participar da gestão da Previdência
+Social, enquanto a Constituição Federal, com a nova redação que a emenda constitucional nº 20/98
+deu ao art. 194, parágrafo único, inciso VII, traz apenas o termo “trabalhadores” na gestão da
+seguridade social.
+
+Como exemplo, tem-se o Conselho Nacional de Previdência Social composto por 15 membros
+entre representantes do Governo e da sociedade civil.
+
+
+
+
+2. Conselho Nacional de Previdência Social
+
+
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   7
+        www.estrategiaconcursos.com.br                                                          14
+
+                                     https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+   O Conselho Nacional de Previdência Social (CNPS) é órgão de deliberação colegiada, que tem a
+competência, entre outras, de estabelecer diretrizes gerais e apreciar as decisões políticas aplicáveis
+à Previdência.
+   O Conselho Nacional de Previdência Social (CNPS), vinculado ao Ministério do Trabalho e
+Previdência, demonstra a aplicação concreta do princípio constitucional do caráter democrático e
+descentralizado na organização da seguridade social, previsto no art. 194, parágrafo único, inciso VII,
+da Constituição Federal, uma vez que se trata de órgão colegiado com participação de
+representantes do Governo e da sociedade (empregadores, trabalhadores e aposentados).
+   O Conselho Nacional de Previdência Social é composto por 15 membros entre representantes
+do Governo e da sociedade civil.
+   São estes:
+
+
+
+                                   06
+                            representante                                   –
+                            s do Governo;
+                 CNPS
+                 (15               09
+                                              –3     representantes      dos     aposentados    e   dos
+            MEMBROS) representante              pensionistas;
+                          s da
+                                              – 3 representantes dos trabalhadores em atividade; e
+                              sociedade
+                                              – 3 representantes dos empregadores.
+                                  civil:
+
+
+
+   É de se observar que o Governo não tem a maioria da composição do Conselho Nacional de
+Previdência Social, embora tenha 06 representantes no total. A sociedade civil detém a maioria
+dos membros do CNPS, com o total de 09 representantes.
+   Cabe registrar, também, que a Lei nº 8.213/91, ao trazer a composição do CNPS, avançou no que
+diz respeito à composição dos membros representantes da sociedade civil.
+   Enquanto a Constituição Federal dispôs que a seguridade social será organizada mediante gestão
+quadripartite, com representação dos empregadores, dos trabalhadores e dos aposentados nos
+órgãos colegiados, o CNPS conta com a representação de aposentados e pensionistas.
+   Os membros do CNPS e seus respectivos suplentes são nomeados pelo Presidente da República,
+tendo os representantes titulares da sociedade civil mandato de 02 (dois) anos, podendo ser
+reconduzidos, de imediato, uma única vez.
+
+
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes             8
+        www.estrategiaconcursos.com.br                                                                    14
+
+                                      https://t.me/KakashiAssinaturasBot
+  Adriana Menezes
+  Aula 02
+
+
+
+   Os representantes dos trabalhadores em atividade, dos aposentados, dos empregadores e seus
+respectivos suplentes serão indicados pelas centrais sindicais e confederações nacionais.
+   Aos membros do CNPS, enquanto representantes dos trabalhadores em atividade, titulares e
+suplentes, é assegurada a estabilidade no emprego, da nomeação até um ano após o término do
+mandato de representação, somente podendo ser demitidos por motivo de falta grave,
+regularmente comprovada através de processo judicial. As ausências ao trabalho desses
+representantes, decorrentes das atividades do Conselho, serão abonadas, computando-se como
+jornada efetivamente trabalhada para todos os fins e efeitos legais.
+   O Conselho Nacional de Previdência Social tem sua competência elencada no art. 4º da Lei nº
+8.213/91, a saber:
+     I – estabelecer diretrizes gerais e apreciar as decisões de políticas aplicáveis à Previdência Social;
+                                                         ==219a34==
+
+
+
+
+     II – participar, acompanhar e avaliar sistematicamente a gestão previdenciária;
+     III – apreciar e aprovar os planos e programas da Previdência Social;
+     IV – apreciar e aprovar as propostas orçamentárias da Previdência Social, antes de sua consolidação
+     na proposta orçamentária da Seguridade Social;
+     V – acompanhar e apreciar, através de relatórios gerenciais por ele definidos, a execução dos planos,
+     programas e orçamentos no âmbito da Previdência Social;
+     VI – acompanhar a aplicação da legislação pertinente à Previdência Social;
+     VII – apreciar a prestação de contas anual a ser remetida ao Tribunal de Contas da União, podendo,
+     se for necessário, contratar auditoria externa;
+     VIII – estabelecer os valores mínimos em litígio, acima dos quais será exigida a anuência prévia do
+     Procurador-Geral ou do Presidente do INSS para formalização de desistência ou transigência
+     judiciais;
+     IX – elaborar e aprovar seu regimento interno.
+
+
+
+   O CNPS reunir-se-á, ordinariamente, uma vez por mês, por convocação de seu Presidente, não
+podendo ser adiada a reunião por mais de 15 (quinze) dias se houver requerimento nesse sentido da
+maioria dos conselheiros. Poderá, ainda, ser convocada reunião extraordinária por seu Presidente ou
+a requerimento de um terço de seus membros, conforme dispuser o regimento interno do CNPS.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                 9
+        www.estrategiaconcursos.com.br                                                                        14
+
+                                     https://t.me/KakashiAssinaturasBot
+ Adriana Menezes
+ Aula 02
+
+
+
+
+                                              LEGISLAÇÃO
+
+Constituição Federal
+
+    Art. 201. A previdência social será organizada sob a forma do Regime Geral de Previdência Social,
+    de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio
+    financeiro e atuarial, e atenderá, na forma da lei, a: (Redação dada pela Emenda Constitucional nº
+    103/2019)
+
+    I – cobertura dos eventos de incapacidade temporária ou permanente para o trabalho e idade
+    avançada; (Redação dada pela Emenda Constitucional nº 103/2019)
+
+    II – proteção à maternidade, especialmente à gestante; (Redação dada pela Emenda Constitucional
+    nº 20, de 1998)
+
+    III – proteção ao trabalhador em situação de desemprego involuntário; (Redação dada pela Emenda
+    Constitucional nº 20, de 1998)
+
+    IV – salário-família e auxílio-reclusão para os dependentes dos segurados de baixa renda; (Redação
+    dada pela Emenda Constitucional nº 20, de 1998)
+
+    V – pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes,
+    observado o disposto no § 2º. (Redação dada pela Emenda Constitucional nº 20, de 1998)
+
+    § 1º É vedada a adoção de requisitos ou critérios diferenciados para concessão de benefícios,
+    ressalvada, nos termos de lei complementar, a possibilidade de previsão de idade e tempo de
+    contribuição distintos da regra geral para concessão de aposentadoria exclusivamente em favor dos
+    segurados:
+
+    I – com deficiência, previamente submetidos a avaliação biopsicossocial realizada por equipe
+    multiprofissional e interdisciplinar;
+
+    II – cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos
+    prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria
+    profissional ou ocupação. (Redação dada pela Emenda Constitucional nº 103, de 2019)
+
+    § 2º Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do
+    segurado terá valor mensal inferior ao salário mínimo. (Redação dada pela Emenda Constitucional nº
+    20, de 1998)
+
+    § 3º Todos os salários de contribuição considerados para o cálculo de benefício serão devidamente
+    atualizados, na forma da lei. (Redação dada pela Emenda Constitucional nº 20, de 1998)
+
+    § 4º É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o
+    valor real, conforme critérios definidos em lei. (Redação dada pela Emenda Constitucional nº 20, de
+    1998)
+
+
+       Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes               10
+       www.estrategiaconcursos.com.br                                                                      14
+
+                                    https://t.me/KakashiAssinaturasBot
+ Adriana Menezes
+ Aula 02
+
+
+
+    § 5º É vedada a filiação ao regime geral de previdência social, na qualidade de segurado facultativo,
+    de pessoa participante de regime próprio de previdência. (Redação dada pela Emenda
+    Constitucional nº 20, de 1998)
+
+
+Lei nº 8.213/91
+
+    Art. 1º A Previdência Social, mediante contribuição, tem por fim assegurar aos seus beneficiários
+    meios indispensáveis de manutenção, por motivo de incapacidade, desemprego involuntário, idade
+    avançada, tempo de serviço, encargos familiares e prisão ou morte daqueles de quem dependiam
+    economicamente.
+
+    Art. 2º A Previdência Social rege-se pelos seguintes princípios e objetivos:
+
+    I - universalidade de participação nos planos previdenciários;
+
+    II - uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais;
+
+    III - seletividade e distributividade na prestação dos benefícios;
+
+    IV - cálculo dos benefícios considerando-se os salários-de-contribuição corrigidos monetariamente;
+
+    V - irredutibilidade do valor dos benefícios de forma a preservar-lhes o poder aquisitivo;
+
+    VI - valor da renda mensal dos benefícios substitutos do salário-de-contribuição ou do rendimento
+    do trabalho do segurado não inferior ao do salário mínimo;
+
+    VII - previdência complementar facultativa, custeada por contribuição adicional;
+
+    VIII - caráter democrático e descentralizado da gestão administrativa, com a participação do governo
+    e da comunidade, em especial de trabalhadores em atividade, empregadores e aposentados.
+
+    Parágrafo único. A participação referida no inciso VIII deste artigo será efetivada a nível federal,
+    estadual e municipal.
+
+    Art. 3º Fica instituído o Conselho Nacional de Previdência Social–CNPS, órgão superior de
+    deliberação colegiada, que terá como membros:
+
+    I - seis representantes do Governo Federal;
+
+    II - nove representantes da sociedade civil, sendo:
+
+    a) três representantes dos aposentados e pensionistas;
+
+    b) três representantes dos trabalhadores em atividade;
+
+    c) três representantes dos empregadores.
+
+
+
+
+       Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                11
+       www.estrategiaconcursos.com.br                                                                       14
+
+                                    https://t.me/KakashiAssinaturasBot
+Adriana Menezes
+Aula 02
+
+
+
+   § 1º Os membros do CNPS e seus respectivos suplentes serão nomeados pelo Presidente da
+   República, tendo os representantes titulares da sociedade civil mandato de 2 (dois) anos, podendo
+   ser reconduzidos, de imediato, uma única vez.
+
+   § 2º Os representantes dos trabalhadores em atividade, dos aposentados, dos empregadores e seus
+   respectivos suplentes serão indicados pelas centrais sindicais e confederações nacionais.
+
+   § 3º O CNPS reunir-se-á, ordinariamente, uma vez por mês, por convocação de seu Presidente, não
+   podendo ser adiada a reunião por mais de 15 (quinze) dias se houver requerimento nesse sentido da
+   maioria dos conselheiros.
+
+   § 4º Poderá ser convocada reunião extraordinária por seu Presidente ou a requerimento de um terço
+   de seus membros, conforme dispuser o regimento interno do CNPS.
+
+   § 5º           (Revogado pela Lei nº 9.528, de 1997)
+
+   § 6º As ausências ao trabalho dos representantes dos trabalhadores em atividade, decorrentes das
+   atividades do Conselho, serão abonadas, computando-se como jornada efetivamente trabalhada
+   para todos os fins e efeitos legais.
+
+   § 7º Aos membros do CNPS, enquanto representantes dos trabalhadores em atividade, titulares e
+   suplentes, é assegurada a estabilidade no emprego, da nomeação até um ano após o término do
+   mandato de representação, somente podendo ser demitidos por motivo de falta grave,
+   regularmente comprovada através de processo judicial.
+
+   § 8º Competirá ao Ministério do Trabalho e da Previdência Social proporcionar ao CNPS os meios
+   necessários ao exercício de suas competências, para o que contará com uma Secretaria-Executiva do
+   Conselho Nacional de Previdência Social.
+
+   § 9º O CNPS deverá se instalar no prazo de 30 (trinta) dias a contar da publicação desta Lei.
+
+   Art. 4º Compete ao Conselho Nacional de Previdência Social–CNPS:
+
+   I - estabelecer diretrizes gerais e apreciar as decisões de políticas aplicáveis à Previdência Social;
+
+   II - participar, acompanhar e avaliar sistematicamente a gestão previdenciária;
+
+   III - apreciar e aprovar os planos e programas da Previdência Social;
+
+   IV - apreciar e aprovar as propostas orçamentárias da Previdência Social, antes de sua consolidação
+   na proposta orçamentária da Seguridade Social;
+
+   V - acompanhar e apreciar, através de relatórios gerenciais por ele definidos, a execução dos planos,
+   programas e orçamentos no âmbito da Previdência Social;
+
+   VI - acompanhar a aplicação da legislação pertinente à Previdência Social;
+
+   VII - apreciar a prestação de contas anual a ser remetida ao Tribunal de Contas da União, podendo,
+   se for necessário, contratar auditoria externa;
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                 12
+      www.estrategiaconcursos.com.br                                                                        14
+
+                                   https://t.me/KakashiAssinaturasBot
+Adriana Menezes
+Aula 02
+
+
+
+   VIII - estabelecer os valores mínimos em litígio, acima dos quais será exigida a anuência prévia do
+   Procurador-Geral ou do Presidente do INSS para formalização de desistência ou transigência
+   judiciais, conforme o disposto no art. 132;
+
+   IX - elaborar e aprovar seu regimento interno.
+
+   Parágrafo único. As decisões proferidas pelo CNPS deverão ser publicadas no Diário Oficial da União.
+
+   Art. 41-A. O valor dos benefícios em manutenção será reajustado, anualmente, na mesma data do
+   reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do último
+   reajustamento, com base no Índice Nacional de Preços ao Consumidor – INPC, apurado pela
+   Fundação Instituto Brasileiro de Geografia e Estatística – IBGE.
+
+   ...
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes            13
+         www.estrategiaconcursos.com.br                                                                   14
+
+                                      https://t.me/KakashiAssinaturasBot
+

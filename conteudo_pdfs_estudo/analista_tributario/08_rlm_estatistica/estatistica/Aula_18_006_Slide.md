@@ -1,0 +1,1345 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 18_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: ESTATÍSTICA PARA DESESPERADOS –
+---
+
+# ESTATÍSTICA PARA DESESPERADOS –
+
+ESTATÍSTICA PARA DESESPERADOS –
+   QUESTÕES EXCLUSIVAS FGV
+
+
+                                             Prof. Carlos Henrique
+
+        
+
+
+---
+
+MEDIDAS DE VARIABILIDADE OU
+DISPERSÃO – DESVIO-PADRÃO
+
+                                                  Prof. Carlos Henrique
+
+             
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     (FGV/IMBEL - 2021) Considere os números 1, 2, 3, 6, 8.
+     O desvio padrão dessa lista de números é, aproximadamente, igual a:
+     a) 1,7.
+     b) 2,1.
+     c) 2,6.
+     d) 3,0.
+     e) 3,4.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      FGV - Agente de Tributos Estaduais (SEFAZ BA)/Tecnologia da Informação/2022
+      Considere as duas listas de números a seguir.
+      Lista 1: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+      Lista 2: 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+      Sejam D1 e D2 os desvios padrão das Listas 1 e 2, respectivamente.
+      É correto concluir que
+      a) D2 = D1
+      b) D2 = D1+4
+      c) D2 = D1+2
+      d) D2 = 2D1
+      e) D2 = 2–√D1
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+MEDIDAS DE VARIABILIDADE OU
+DISPERSÃO – COEFICIENTE DE VARIAÇÃO
+(OU DISPERSÃO RELATIVA)
+
+                                                  Prof. Carlos Henrique
+
+             
+
+
+---
+
+      (FGV/PC AM - 2022) Suponha que um pesquisador tenha as seguintes informações de
+      uma amostra de dados:
+      ● Média = 5
+      ● Variância = 25
+      ● Soma dos desvios absolutos em relação à média = 10
+      ● Tamanho da amostra = 5
+
+      Assim, o coeficiente de variação dessa amostra em termos decimais será igual a:
+      a) 1.
+      b) 2.
+      c) √5.
+      d) 5.
+      e) 10.
+
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ASSIMETRIA E CURTOSE – ASSIMETRIA
+
+                                                  Prof. Carlos Henrique
+
+             
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+       (FGV/IMBEL - 2021) A distribuição de probabilidades do tempo de entrega de um
+       produto possui uma assimetria positiva. Desta forma, para essa distribuição espera-se
+       que haja a seguinte relação:
+       a) média > moda > mediana.
+       b) média > mediana > moda.
+       c) mediana > média > moda.
+       d) mediana > moda > média.
+       e) moda > média > mediana.
+
+Prof. Carlos Henrique
+                                    
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+PRINCÍPIO MULTIPLICATIVO OU
+PRINCÍPIO DA CONTAGEM
+                                                Prof. Carlos Henrique
+
+           
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     FGV - Assistente Administrativo (MPE GO)/2022
+     No código Morse, as “letras” são · e – (ponto e traço). Certa instrução é formada por
+     “símbolos” e cada símbolo é formado por uma sequência de duas, três ou quatro letras
+     do código Morse. Por exemplo, “– · –” e “– – ·” são símbolos diferentes.
+     O número de símbolos diferentes que essa instrução possui é
+     a) 18.
+     b) 20.
+     c) 24.
+     d) 26.
+     e) 28.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      FGV - Oficial Policial Militar (PM PB)/2021/CFO 2022
+      Cada vértice de um quadrado ABCD deverá ser pintado com uma cor. Há 5 cores
+      diferentes disponíveis para essa tarefa. A única restrição é que os vértices que
+      estejam em extremidades opostas de qualquer diagonal do quadrado (AC e BD) sejam
+      pintados com cores diferentes.
+      O número de maneiras diferentes de pintar os vértices desse quadrado é:
+      a) 18;
+      b) 60;
+      c) 120;
+      d) 240;
+      e) 400.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Médico (FunSaúde CE)/Alergia e Imunologia Pediátrica/2021
+    Eduardo deseja escrever as 4 letras da palavra RATO de modo que a letra A esteja à
+    esquerda da letra O. Por exemplo, uma das maneiras de escrevê-las respeitando a
+    restrição dada é ARTO. O número de maneiras distintas que Eduardo tem para satisfazer
+    o seu desejo é:
+    a) 24.
+    b) 18.
+    c) 16.
+    d) 12.
+    e) 8.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+FGV - Auxiliar Técnico Administrativo (IMBEL)/Almoxarife/2021
+Artur, Breno, Caio e Diogo fizeram uma fila nessa ordem para uma fotografia.
+Em seguida, o fotógrafo pediu que fizessem uma fila diferente para outra fotografia, de
+forma que apenas uma das quatro pessoas ficasse no seu lugar original.
+Indique o número de maneiras diferentes que a nova fila pode ser feita.
+a) 2.
+b) 4.
+c) 6.
+d) 8.
+e) 10
+
+Prof. Carlos Henrique
+                                
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+  FGV - Auxiliar Técnico Administrativo (IMBEL)/Almoxarife/2021
+  Uma empresa solicita a seus funcionários que cadastrem uma senha de 4 dígitos
+  (algarismos de 0 a 9) com a condição de que essa senha não contenha três dígitos iguais
+  juntos. O número de senhas possível é
+  a) 9760.
+  b) 9780.
+  c) 9800.
+  d) 9810.
+  e) 9820.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+PERMUTAÇÕES SIMPLES
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      FGV - Consultor do Tesouro Estadual (SEFAZ ES)/Ciências Econômicas/2022
+      Dois casais irão se sentar em 4 cadeiras consecutivas de uma fila de um cinema.
+      O número de maneiras de eles sentarem nas 4 cadeiras, de modo que cada casal se
+      sente junto, é igual a
+      a) 4.
+      b) 6.
+      c) 8.
+      d) 12.
+      e) 16.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     FGV - Técnico de Nível Superior (SSP AM)/2022
+     Os algarismos 1, 2, 3, 4, 5, devem formar um número de cinco algarismos de forma que
+     cada um desses algarismos apareça uma vez e que os algarismos pares não fiquem
+     juntos. Por exemplo, o número 34152 é um desses números.
+     A quantidade de números que cumprem essas condições é
+     a) 12.
+     b) 24.
+     c) 36.
+     d) 60.
+     e) 72
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      FGV - Aluno-Oficial (PM SP)/2021
+      Considere todos os anagramas da palavra BRASIL.
+      O número de anagramas que não têm as vogais juntas é
+      a) 720.
+      b) 600.
+      c) 480.
+      d) 240.
+      e) 120.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Assistente Administrativo da Fazenda Estadual (Sefaz AM)/2022
+    Um grupo formado por 2 homens e 3 mulheres formará uma fila. Essa fila deverá
+    começar por um homem ou terminar por um homem.
+    O número de filas distintas possíveis é:
+    a) 36.
+    b) 48.
+    c) 84.
+    d) 96.
+    e) 120.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Analista de Tecnologia da Informação (BANESTES)/Desenvolvimento de
+    Sistemas/2021
+    Considere a sequência dos 120 anagramas da palavra BANCO escritos em ordem
+    alfabética.
+    O anagrama CANBO ocupa a posição de número:
+    a) 50;
+    b) 51;
+    c) 52;
+    d) 53;
+    e) 54.
+
+Prof. Carlos Henrique
+                                
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+OUTRAS FORMAS DE PERMUTAÇÃO
+
+                                              Prof. Carlos Henrique
+
+         
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+        A coluna dos gols pode ter sido preenchida por Sílvio do seguinte número de
+        maneiras:
+        a) 5.
+        b) 7.
+        c) 9.
+        d) 11.
+        e) 13.
+
+Prof. Carlos Henrique
+                                    
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+FGV - Especialista em Saúde (SEMSA Manaus)/Analista de Banco de Dados/2022
+O número de maneiras diferentes de se escrever as 5 letras da sigla SEMSA sem que as
+vogais fiquem juntas é igual a
+a) 60.
+b) 48.
+c) 36.
+d) 24.
+e) 12.
+
+Prof. Carlos Henrique
+                                
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+   FGV - Técnico Federal de Finanças e Controle (CGU)/2022
+   O número de anagramas da palavra CONCURSO que começam por C ou terminam por O
+   é:
+   a) 1.260;
+   b) 1.440;
+   c) 4.320;
+   d) 5.040;
+   e) 10.080.
+
+Prof. Carlos Henrique
+                              
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+COMBINAÇÕES SIMPLES
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+   FGV - Auxiliar Policial de Necropsia (PC RJ)/2022
+   Do grupo dos 6 novos policiais de uma delegacia, 2 deles serão escolhidos para um
+   treinamento especial.
+   O número de pares diferentes de policiais que podem ser enviados para o treinamento
+   especial é:
+   a) 10;
+   b) 12;
+   c) 15;
+   d) 16;
+   e) 18.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     FGV - Técnico (FunSaúde CE)/Enfermagem Saúde do Trabalhador/2021
+     Em um setor de uma empresa trabalham 6 pessoas. Dessas pessoas, duas serão
+     escolhidas para trabalhar em um projeto novo.
+     Com essas pessoas, o número de pares diferentes que podem ser formados é
+     a) 10.
+     b) 12.
+     c) 13.
+     d) 14.
+     e) 15.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+   FGV - Analista de Pesquisa Energética (EPE)/Petróleo/Gás e Bioenergia/2022
+   Doze pessoas, representantes de torcidas organizadas, estão reunidas numa sala:
+   quatro flamenguistas, quatro tricolores e quatro vascaínos. Elas decidem formar um
+   grupo de trabalho composto por dois flamenguistas, dois tricolores e dois vascaínos.
+   O número de diferentes grupos que podem ser formados é igual a
+   a) 27.
+   b) 54.
+   c) 108.
+   d) 216.
+   e) 432.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Advogado (IMBEL)/2021
+    Considere as cinco letras da sigla IMBEL. Deseja-se arrumar essas cinco letras em
+    sequência, de modo que tanto as vogais quanto as consoantes apareçam na ordem
+    alfabética, isto é, as vogais na ordem E, I e as consoantes na ordem B, L, M. Por
+    exemplo, uma dessas arrumações é BELMI.
+    O número de arrumações diferentes é
+    a) 18.
+    b) 12.
+    c) 10.
+    d) 8.
+    e) 6.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Vestibular (FEMPAR)/Medicina/2021
+    Dado um grupo de 6 pessoas, é possível dividi-lo em 3 duplas ou em 2 trios. É correto
+    afirmar que há
+    a) 5 formas a mais de se fazerem trios do que de se fazerem duplas.
+    b) 5 formas a mais de se fazerem duplas do que de se fazerem trios.
+    c) 70 formas a mais de se fazerem trios do que de se fazerem duplas.
+    d) 70 formas a mais de se fazerem duplas do que de se fazerem trios.
+    e) exatamente a mesma quantidade de formas de se fazerem duplas e de se fazerem
+    trios.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - 2º Tenente Bombeiro Militar (CBM AM)/2022
+    A senha bancária de João possui quatro dígitos. Ele esqueceu a senha, mas lembra-se
+    que ela possui dois dígitos iguais e ímpares e mais dois dígitos pares e diferentes entre
+    si.
+    Lembrando que 0 (zero) é par, o número de senhas diferentes que cumprem essas
+    condições
+    a) 540.
+    b) 600.
+    c) 720.
+    d) 960.
+    e) 1200.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+FGV - Assistente Operacional (SSP AM)/2022
+Para o novo cartão de crédito, Renato precisa cadastrar uma senha de 4 dígitos de 0 a 9.
+Como nasceu em 1998 decidiu que sua senha terá dois “noves” em qualquer posição, mais
+dois dígitos diferentes de 9 e diferentes entre si. Por exemplo, 0959 e 2399 são senhas que
+Renato pode escolher.
+O número total de senhas que Renato poderá escolher
+a) é menor que 300.
+b) está entre 300 e 350.
+c) está entre 351 e 400.
+d) está entre 401 e 450.
+e) é maior que 451.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     FGV - Agente de Tributos Estaduais (SEFAZ BA)/Tecnologia da Informação/2022
+     Quatro pessoas deverão fazer um trabalho de pesquisa sobre certo tema. O trabalho
+     pode ser feito individualmente ou em dupla.
+     O número de modos diferentes que essas 4 pessoas podem se arrumar para fazer o
+     trabalho é
+     a) 6.
+     b) 8.
+     c) 9.
+     d) 10
+     e) 12.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+COMBINAÇÕES COMPLETAS OU
+COMBINAÇÕES COM REPETIÇÃO
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+       FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
+       Um restaurante oferece 7 sabores de pizza, sendo que cada pizza só pode ter 1 sabor,
+       isto é, o restaurante não permite a mistura de sabores dentro da mesma pizza.
+       Um grupo de amigos pretende pedir 4 pizzas.
+       O número possível de escolhas é:
+       a) 35;
+       b) 40;
+       c) 55;
+       d) 105;
+       e) 210.
+
+Prof. Carlos Henrique
+                                    
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Advogado (Pref Paulínia)/CREAS/2021
+    Eva tem 9 maçãs indistinguíveis e deseja distribuí-las a 3 amigos de forma que cada um
+    deles fique com, ao menos, 2 maçãs.
+    O número de maneiras distintas de Eva distribuir as maçãs é
+    a) 12.
+    b) 10.
+    c) 9.
+    d) 8.
+    e) 6.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      FGV - Professor (Pref Paulínia)/Educação Básica II/Matemática/2021
+      O número de anagramas da palavra PAULINIA que não têm duas consoantes juntas é
+      a) 3600.
+      b) 4800.
+      c) 6400.
+      d) 10800.
+      e) 14400.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+ANÁLISE COMBINATÓRIA –
+PARTIÇÕES
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+     FGV - Advogado (IMBEL)/2021
+     Três dados, um vermelho, um azul e um amarelo, são lançados. O número de
+     possibilidades de que a soma dos três números sorteados seja igual a 7 é
+     a) 15.
+     b) 14.
+     c) 13.
+     d) 12.
+     e) 10.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+   FGV - Professor (Pref Paulínia)/Educação Básica II/Matemática/2021
+   Dois dados comuns, um azul e outro vermelho, são lançados. Sejam:
+   x, o número de maneiras diferentes de se obter soma 3.
+   y, o número de maneiras diferentes de se obter soma 6.
+   z, o número de maneiras diferentes de se obter soma 9.
+   É correto afirmar que
+   a) x < y < z.
+   b) x = y = z.
+   c) x = y < z.
+   d) x < z < y.
+   e) z < y < x.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Auditor de Finanças e Controle do Tesouro Estadual (Sefaz AM)/2022
+    O número 10 pode ser escrito como uma soma de parcelas inteiras e maiores que
+    zero de diversas formas. Por exemplo, 8 + 2 e, também, 6 + 3 + 1.
+    O número de maneiras em que o número 10 pode ser representado como uma soma
+    de duas ou mais parcelas inteiras, maiores que zero e distintas, sem importar a
+    ordem das parcelas, é
+    a) 6.
+    b) 7.
+    c) 8.
+    d) 9.
+    e) 10.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---

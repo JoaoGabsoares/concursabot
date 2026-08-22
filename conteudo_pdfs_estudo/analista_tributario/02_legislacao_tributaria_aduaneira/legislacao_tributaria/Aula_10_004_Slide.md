@@ -1,0 +1,363 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 10_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 294.
+- Art. 295.
+- Art. 299.
+- Art. 300.
+- art. 12
+- art. 1º
+- art. 296
+- art. 2º
+---
+
+# IRPJ
+
+IRPJ
+OMISSÃO DE RECEITAS
+
+     
+
+
+---
+
+IRPJ – Omissão de Receitas
+    ❑ Em todos os regimes de apuração do IRPJ, o ponto de partida para a determinação
+      do imposto tem início nas receitas auferidas pela pessoa jurídica.
+
+    Lucro Real → Nesse regime de tributação, o IRPJ é calculado com base no lucro
+    líquido ajustado. Este, por sua vez, consiste no resultado contábil apurado pelo
+    confronto das receitas com as despesas.
+
+    Lucro Presumido e Arbitrado → Em ambos regimes, a base de cálculo do IRPJ, em
+    regra, é determinada com base na receita bruta auferida pela pessoa jurídica no
+    período de apuração.
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Omissão de Receitas
+  ❑ São hipóteses de omissão de receitas:
+
+  ❑ Saldo credor de caixa;
+
+Legislação Tributária
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Omissão de Receitas
+  ❑ São hipóteses de omissão de receitas:
+
+  ❑ Falta de escrituração de pagamentos;
+
+Legislação Tributária
+                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Omissão de Receitas
+  ❑ São hipóteses de omissão de receitas:
+
+  ❑ Manutenção no passivo de obrigações já pagas ou cuja exigibilidade não seja
+    comprovada;
+
+Legislação Tributária
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+
+    ❑ A manutenção no passivo de obrigações já pagas caracteriza-se passivo fictício.
+      Guarde isso!
+
+    ❑ Obs.: passivo fictício ocorre quando o passivo registrado na contabilidade é maior
+      do que as obrigações da pessoa jurídica.
+
+Legislação Tributária
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Omissão de Receitas
+  ❑ São hipóteses de omissão de receitas:
+
+  ❑ Suprimentos de caixa realizados por administradores ou sócios sem comprovação
+    da efetividade da entrega ou da origem dos recursos;
+
+  ❑ Art. 294. Provada a omissão de receita, por indícios na escrituração do contribuinte
+    ou por outro elemento de prova, a autoridade tributária poderá arbitrá-la com base
+    no valor dos recursos de caixa fornecidos à empresa por administradores, sócios da
+    sociedade não anônima, titular da empresa individual, ou por acionista controlador
+    da companhia, se a efetividade da entrega e a origem dos recursos não forem
+    comprovadamente demonstradas ( Decreto-Lei nº 1.598, de 1977, art. 12, § 3º ).
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Omissão de Receitas
+  ❑ São hipóteses de omissão de receitas:
+
+  ❑ Falta de emissão de nota fiscal
+
+  ❑ Art. 295. Caracteriza omissão de receita ou de rendimentos, incluídos os ganhos de
+    capital, a falta de emissão de nota fiscal, recibo ou documento equivalente, no
+    momento da efetivação das operações de venda de mercadorias, prestação de
+    serviços, operações de alienação de bens móveis, locação de bens móveis e imóveis
+    ou outras transações realizadas com bens ou serviços, e a sua emissão com valor
+    inferior ao da operação ( Lei nº 8.846, de 1994, art. 1º e art. 2º ).
+
+Legislação Tributária
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Arbitramento da receita por indícios de omissão:
+
+    ❑ Verificada a omissão de receita por meio de indícios, a autoridade tributária
+      poderá, para fins de determinação da base de cálculo sujeita à incidência do
+      imposto sobre a renda, arbitrar a receita do contribuinte, tomando por base as
+      receitas, apuradas em procedimento fiscal, correspondentes ao movimento diário
+      das vendas, da prestação de serviços e de outras operações (RIR, art. 296)
+
+Legislação Tributária
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Arbitramento da receita por indícios de omissão:
+
+    ❑ Para fins de arbitramento da receita mínima do mês, serão identificados
+      pela autoridade tributária os valores efetivos das receitas auferidas pelo
+      contribuinte em três dias alternados do referido mês, necessariamente
+      representativos das variações de funcionamento do estabelecimento ou
+      da atividade.
+
+    ❑ A renda mensal arbitrada corresponderá à multiplicação do valor
+      correspondente à média das receitas apuradas pelo número de dias de
+      funcionamento do estabelecimento naquele mês.
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Arbitramento da receita por indícios de omissão:
+
+    ❑ A diferença positiva entre a receita arbitrada e a receita escriturada no
+      mês será considerada na determinação da base de cálculo do imposto.
+
+
+    ❑ A arbitramento da receita não dispensa o contribuinte da emissão de
+      documentário fiscal e da escrituração a que estiver obrigado pela
+      legislação comercial e fiscal.
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Arbitramento da receita por indícios de omissão:
+
+    ❑ Fica facultado à autoridade tributária utilizar outros métodos de
+      determinação da receita quando constatado qualquer artifício utilizado
+      pelo contribuinte com vistas a frustrar a apuração da receita efetiva do
+      seu estabelecimento
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+    ❑ Levantamento quantitativo por espécie:
+
+    ❑ A omissão de receita poderá, também, ser determinada a partir de
+      levantamento por espécie de quantidade de matérias-primas e produtos
+      intermediários utilizados no processo produtivo da pessoa jurídica.
+
+    ❑ Para os fins do disposto neste artigo, será apurada a diferença, positiva ou
+      negativa, entre a soma das quantidades de produtos no início do período
+      com a quantidade de produtos fabricados com as matérias-primas e os
+      produtos intermediários utilizados e a soma das quantidades de produtos
+      cuja venda houver sido registrada na escrituração contábil da empresa
+      com as quantidades em estoque, no final do período de apuração,
+      constantes do livro de inventário.
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Levantamento quantitativo por espécie:
+
+    ❑ Considera-se receita omitida o valor resultante da multiplicação das
+      diferenças de quantidade de produtos ou de matérias-primas e produtos
+      intermediários pelos preços médios de venda ou de compra, conforme o
+      caso, em cada período de apuração abrangido pelo levantamento
+
+Legislação Tributária
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Levantamento quantitativo por espécie:
+
+    ❑ Os critérios de apuração de receita omitida aplicam-se, também, às
+      empresas comerciais, relativamente às mercadorias adquiridas para
+      revenda.
+
+Legislação Tributária
+                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                            
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Depósitos bancários:
+
+    ❑ Art. 299. Caracterizam-se também como omissão de receita os valores
+      creditados em conta de depósito ou de investimento mantida junto a
+      instituição financeira, em relação aos quais o titular, pessoa jurídica,
+      regularmente intimado, não comprove, por meio de documentação hábil e
+      idônea, a origem dos recursos utilizados nessas operações
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Depósitos bancários:
+
+    ❑ O valor omitido das receitas será considerado auferido ou recebido no
+      mês do crédito efetuado pela instituição financeira
+
+    ❑ Os valores cuja origem houver sido comprovada, que não houverem sido
+      computados na base de cálculo do imposto sobre a renda a que estiverem
+      sujeitos, serão submetidos às normas de tributação específicas, previstas
+      na legislação vigente à época em que auferidos ou recebidos
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Depósitos bancários:
+
+    ❑ Para fins de determinação da receita omitida, os créditos serão analisados
+      de forma individualizada, hipótese em que não serão considerados os
+      créditos decorrentes de transferência de outras contas da própria pessoa
+      jurídica
+
+    ❑ Quando provado que os valores creditados na conta de depósito ou de
+      investimento pertencem a terceiro, evidenciando a interposição de
+      pessoa, a determinação das receitas será efetuada em relação ao
+      terceiro, na condição de efetivo titular da conta de depósito ou de
+      investimento
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Omissão de Receitas
+
+    ❑ Tratamento Tributário da Omissão de Receitas:
+
+    ❑ Art. 300. Verificada a omissão de receita, a autoridade tributária
+      determinará o valor do imposto sobre a renda e o valor do adicional a
+      serem lançados de acordo com o regime de tributação a que estiver
+      submetida a pessoa jurídica no período de apuração a que corresponder a
+      omissão.
+
+Legislação Tributária
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---

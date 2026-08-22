@@ -1,0 +1,359 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 04_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: OBJETIVOS DOS ESTOQUES
+---
+
+# OBJETIVOS DOS ESTOQUES
+
+---
+
+---
+
+OBJETIVOS DOS ESTOQUES
+
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Estoques
+       A função lubrificante na minimização dos conflitos
+       ❑ Os estoques têm um papel chamado de "função lubrificante". Para quem ainda não ouviu falar
+         desse termo, é importante conhecer, pois é comumente cobrado em provas.
+
+       ❑ O chamado efeito lubrificante dos estoques é responsável por minimizar os conflitos entre as
+         áreas de vendas e de planejamento e programação da produção. A existência do estoque
+         permite que a empresa continue operando em situações nas quais, por exemplo, a área de vendas
+         comercializou mais do que o esperado ou, por qualquer razão, o planejamento da produção não
+         deu conta do volume necessário de material para que a produção continuasse a todo vapor.
+
+       ❑ Nesses casos o estoque supre essas lacunas no processo produtivo e permite que a organização
+         mantenha em funcionamento o seu processo produtivo.
+
+       ❑ Lembre-se ainda que a organização deve minimizar os seus investimentos em estoques pois ele
+         possui diversos custos atrelados a sua aquisição e manutenção, que aumentam de acordo com o
+         seu volume e custo financeiro.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       Finanças x Marketing & Vendas x Fábrica
+       ❑ Assim, quanto maior o estoque, maior será o comprometimento e a responsabilidade de cada um
+         dos departamentos envolvidos.
+
+       ❑ Nesse contexto, a área financeira estará sempre buscando minimizar os investimentos em
+         estoques, tendo esta ação como uma de suas metas prioritárias, muitas vezes se opondo aos
+         objetivos de outros departamentos como vendas, marketing e produção, que sempre optarão por
+         estoques mais altos com o intuito de garantir - com a máxima segurança possível - a continuidade
+         do processo produtivo.
+
+       ❑ Uma das maiores funções do processo de gestão de estoques portanto, será otimizar esse
+         investimento, maximizando o uso dos recursos financeiros e reduzindo as necessidades do capital
+         investido.
+
+       ❑ Veja a seguir alguns exemplos de conflitos típicos entre departamentos da organização quanto a
+         aquisição e manutenção de estoques.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       Finanças x Marketing & Vendas x Fábrica
+                    ESTOQUES ALTOS DE:        Departamento de Compras            Departamento Financeiro
+                    Matéria Prima             Ganhos de escala, descontos e      Capital imobilizado e sem
+                                              melhores condições comerciais      qualquer tipo de remuneração.
+                                              na aquisição.
+                    ESTOQUES ALTOS DE:        Departamento de Produção           Departamento Financeiro
+                    Matéria Prima             Minimização do risco de falta de   Maiores custos de armazenagem,
+                                              material para produção e           aumento       do     risco     de
+                                              produção de lotes maiores, com     obsolescência      e       perdas
+                                              custos menores por unidade.        financeiras.
+                    ESTOQUES ALTOS DE:        Departamento de Vendas             Departamento Financeiro
+                    Produto Acabado           Atendimento imediato ao cliente,   Imobilização do capital, aumento
+                                              entregas rápidas e cumprimento     de custos de armazenagem.
+                                              de prazos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       A busca pelo “meio termo” entre todas as áreas
+       ❑ O encontro desse "meio termo" entre todas as opções colocadas cabe justamente ao gestor de
+         estoques, ou seja, ao departamento de materiais, que deve ouvir os diferentes argumentos de
+         cada um dos interessados e tomar a melhor decisão com o intuito de atender a todas as
+         demandas explicitadas pelos atores do processo e levando em conta os objetivo estratégicos da
+         organização.
+
+       Observando a tabela anterior, entenda que uma das maiores funções do estoque é conciliar esses
+       objetivos conflitantes, sem prejudicar a atividade operacional da empresa, minimizando seus custos e
+       praticando a política de estoque da forma como foi previamente definida, levando em consideração
+       os ajustes necessários devido a eventuais variações do cenário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) A gestão adequada de estoques permite que a empresa
+     consiga atender a demanda do mercado e garante a disponibilidade do produto, evitando perdas
+     financeiras; é primordial que exista uma sincronização perfeita entre a oferta e a procura.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) A gestão adequada de estoques permite que a empresa
+     consiga atender a demanda do mercado e garante a disponibilidade do produto, evitando perdas
+     financeiras; é primordial que exista uma sincronização perfeita entre a oferta e a procura.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/ANATEL/Técnico Administrativo) Se, de um lado, a departamentalização facilita, para as
+     empresas, a execução das tarefas, por outro pode causar sérios conflitos interdepartamentais. Em
+     grande parte desses conflitos, os principais departamentos envolvidos são os de produção, vendas,
+     compras e finanças. Quando se fala em administração de materiais, é natural encontrar esse tipo de
+     conflito para ser resolvido, isso porque os departamentos têm diferentes interesses no que se refere aos
+     estoques de materiais. Pode-se dizer que os departamentos de compras, produção e vendas, cada qual
+     por seus motivos, têm interesses em manter altos estoques de materiais; já o departamento de finanças
+     quer os menores estoques possíveis.
+     Acerca do assunto abordado no texto anterior: O departamento de produção tende a manter sempre
+     alto o estoque de matéria-prima e, por conseguinte, o de material em processo, para permitir a
+     produção de lotes menores, otimizando os custos da empresa. A princípio, lotes menores significam
+     custos de fabricação mais baixos por unidade.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/ANATEL/Técnico Administrativo) Se, de um lado, a departamentalização facilita, para as
+     empresas, a execução das tarefas, por outro pode causar sérios conflitos interdepartamentais. Em
+     grande parte desses conflitos, os principais departamentos envolvidos são os de produção, vendas,
+     compras e finanças. Quando se fala em administração de materiais, é natural encontrar esse tipo de
+     conflito para ser resolvido, isso porque os departamentos têm diferentes interesses no que se refere aos
+     estoques de materiais. Pode-se dizer que os departamentos de compras, produção e vendas, cada qual
+     por seus motivos, têm interesses em manter altos estoques de materiais; já o departamento de finanças
+     quer os menores estoques possíveis.
+     Acerca do assunto abordado no texto anterior: O departamento de produção tende a manter sempre
+     alto o estoque de matéria-prima e, por conseguinte, o de material em processo, para permitir a
+     produção de lotes menores, otimizando os custos da empresa. A princípio, lotes menores significam
+     custos de fabricação mais baixos por unidade.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Políticas de Estoques
+       Leva em conta variáveis internas e externas
+       ❑ Dentro desse cenário, caberá ao gestor de estoques definir qual a política adotada. Para isso, ele
+         deverá levar em conta os desejos de compras, vendas e produção (geralmente de estoques mais
+         altos) e os da área financeira (geralmente estoques mais baixos).
+       ❑ Além disso será necessário observar todo um contexto mercadológico e mesmo de planejamento
+         interno como variação de preços de materiais devido à inflação (o que pode incentivar a compra
+         de maiores volumes de forma antecipada), riscos de escassez do material no mercado, previsíveis
+         variações de demanda, políticas pré estabelecidas pela empresa em relação ao giro de estoques
+         de matéria prima e materiais acabados, metas de entrega de produtos aos clientes, entre outras.
+       ❑ A definição de todas essas políticas internas e o mapeamento dessas variações de mercado é
+         fundamental para a determinação da política final de estoques e tudo isso será representado por
+         um grande indicador que é o Nível de Serviço buscado pela organização.
+
+                 O Nível de Serviço apontará qual o % de pedidos será satisfatoriamente atendido
+                 dentro do total de pedidos recebidos, seja por clientes internos ou externos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Políticas de Estoques
+       Relação com o Nível de Serviço
+
+                 É bom lembrar que, quanto maior o nível de serviço, maior o custo requerido para sua
+                 implantação pois, provavelmente, são requeridos maiores níveis de estoque e de
+                 emprego de outros recursos.
+                 Portanto, mais uma vez, o gestor de estoques e, sobretudo, a organização, terão que
+                 achar um "meio termo" entre o nível de atendimento de suas demandas e o impacto
+                 total que isso tem sobre a rentabilidade final.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Políticas de Estoques
+       Decisão complexa da organização
+       ❑ Segundo Gurgel e Francischini, por fim e em termos práticos, caberá ao administrador de
+         materiais levar em conta os interesses dos diferentes departamentos, as variações do mercado e
+         as políticas da empresa e, como política final, adotar estratégias de estoque de acordo com as
+         diferentes opções e objetivos abaixo:
+      Necessidade - comprar quando necessário, somente a quantidade necessária e não manter estoques do item.
+
+      Restrição - comprar um lote que atenda às necessidades da empresa durante determinado período, assumindo
+      determinado risco de falta do item.
+
+      Facilidade - manter estoques de matérias-primas suficientes para que a área de produção possa produzir qualquer
+      item em determinado período preestabelecido.
+
+      Adequação - manter estoques de produtos acabados suficientes para que determinada porcentagem de clientes seja
+      atendida imediatamente quando ocorrer o pedido.
+
+      Metas de Giro - manter determinado nível de estoque de matérias primas e de produtos acabados, que possibilite
+      alcançar a meta preestabelecida de estoque total.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Políticas de Estoques
+       Qual o tamanho do risco a correr/assumir?
+
+       ❑ Note que no slide anterior temos opções que variam entre menores estoques e maior
+         risco (possivelmente com redução de custos totais) e maiores estoques e menor risco
+         (possivelmente trazendo incremento de custos), além de considerar as metas
+         preestabelecidas pela empresa para o seu giro de produtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Assistente Administrativo/2021) O indicador que mede a eficácia do estoque
+     da empresa no atendimento às solicitações de clientes internos e externos é o:
+     a) giro de estoques
+     b) nível de serviços
+     c) nível de acurácia
+     d) redução de estoque
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Assistente Administrativo/2021) O indicador que mede a eficácia do estoque
+     da empresa no atendimento às solicitações de clientes internos e externos é o:
+     a) giro de estoques
+     b) nível de serviços
+     c) nível de acurácia
+     d) redução de estoque
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/TRT 10a Região/Analista Judiciário/2004) A administração de materiais pode ser entendida
+     como a responsável pelas atividades de compra, armazenamento e distribuição de material. Com
+     relação a esse assunto, julgue o item que se segue. Um aspecto importante da administração de
+     materiais é a política de estoques. A decisão quanto a manter altos ou baixos níveis de estoques pode
+     influenciar no nível de satisfação dos clientes.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CEBRASPE/TRT 10a Região/Analista Judiciário/2004) A administração de materiais pode ser entendida
+     como a responsável pelas atividades de compra, armazenamento e distribuição de material. Com
+     relação a esse assunto, julgue o item que se segue. Um aspecto importante da administração de
+     materiais é a política de estoques. A decisão quanto a manter altos ou baixos níveis de estoques pode
+     influenciar no nível de satisfação dos clientes.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

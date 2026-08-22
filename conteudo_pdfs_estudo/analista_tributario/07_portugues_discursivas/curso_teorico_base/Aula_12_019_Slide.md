@@ -1,0 +1,849 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 12_019_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: Reta Final TJ SP
+---
+
+# Reta Final TJ SP
+
+---
+
+Reta Final TJ SP
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+CADERNO 5
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+Crase
+                                     Profª. Adriana Figueiredo
+
+---
+
+                             CRASE
+                                                                     Agradeceu à amiga.
+        Fenômeno fonético
+                                                             Estava acostumado àquela situação.
+
+                                                                       Chego à noite.
+
+                                                           À medida que a vida passa, ficamos mais
+        Locuções femininas                                               maduros.
+CRASE
+                                                                 Vive às custas dos amigos.
+
+                                                                 Referi-me a/à minha amiga.
+
+         Crase facultativa                                           Referi-me a/à Ana.
+
+                                                                  Caminhou até a/à praça.
+                           Prof. Adriana Figueiredo
+                      
+
+
+---
+
+                  CRASE
+
+             Obedecia às ordens.
+CRASE NO
+              Obedecia a ordens.
+ PLURAL
+              Obedecia à ordens.
+
+                Prof. Adriana Figueiredo
+           
+
+
+---
+
+                                               CRASE
+
+
+    Não se usa acento grave no A                               Ex.: Estava disposto A LUTAR.
+                                                      Nenhum escritor da língua se iguala A CAMÕES.
+     antes de masculino, verbos,              É uma ideia que está longe de corresponder A UMA /QUALQUER
+       pronomes indefinidos.                                             realidade.
+
+OBSERVAÇÕES           Não se usa acento grave no A
+                                                                               Ex.: Estou aqui DESDE as oito horas.
+IMPORTANTES           após preposição ( exceto ATÉ)
+
+   Não se usa acento grave no A antes das
+                                                                               Ex.: Retornei A CASA cedo.
+   palavras CASA(= lar,moradia) e TERRA (=                                       Retornei À CASA MATERNA.
+       chão firme ) . Porém, se vierem                                       Os marinheiros desceram A TERRA.
+    determinadas e o termo regente exigir                               Os marinheiros desceram À TERRA DOS ANÕES.
+         preposição A,ocorrerá crase.
+                                             Prof. Adriana Figueiredo
+                                       
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+Complete com A,À,AS ou ÀS
+
+1.Estava habituada ____ insondável capacidade de assombro do marido.
+
+
+2.Quem recicla ajuda ____ diminuir a montanha de lixo.
+
+
+3.Esses são serviços essenciais ___ toda população.
+
+
+4.Respondemos ____ perguntas do questionário.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+5._____ dúvidas sobre a matéria ,ele responde por e-mail.
+
+
+6.Voltamos ____ casa.
+
+
+7.Voltamos ____ casa dos amigos.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+Use o acento grave no A das locuções abaixo, quando for o caso.
+
+1.Andava __ procura do amigo.
+
+
+2.Fez tudo __ toque de caixa.
+
+
+3.Saímos __ oito horas para jantar.
+
+
+4.A prova teve início após __ oito horas.
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+5.__ medida que caminhavam,todos iam ficando cansados, __ exceção de Paulo,que
+parecia ter fôlego de gato.
+
+
+6.A cor fica __ critério do cliente.
+
+
+7.Chegamos __ noite e saímos __ pressas.
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+VUNESP - CAU-SP - Analista III - Analista Técnico em Arquitetura e
+Urbanismo
+“Não se deve, contudo, passar um cheque em branco ______ prefeitura. É preciso
+que a proposta seja discutida ____ fundo pelos vereadores paulistanos e que
+cautelas extras sejam adicionadas ao projeto e _____ regulamentações posteriores.”
+
+Em atendimento à norma-padrão da língua, as lacunas presentes nesse parágrafo
+do texto devem ser preenchidas com:
+
+A) à … à … à
+B) à … a … às
+C) a … à … à
+D) a … a … às
+E) a … a … as
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Pindamonhangaba - SP - Fiscal de
+Rendas
+Vicente parece estar acostumado ____ solidão, condição em que vive desde ____
+morte de seu último familiar, com quem ele podia se dedicar ____ falar em sua
+língua nativa.
+
+Assinale a alternativa que, correta e respectivamente, completa as lacunas da frase,
+segundo a norma-padrão de emprego do acento indicativo de crase.
+
+A) a … a … a
+B) a … a … à
+C) a … à … à
+D) à … a … a
+E) à … a … à
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Agente de Ação Social
+
+A ficha caiu
+Em sua aventura pelo País das Maravilhas, Alice chega _____ casa da Lebre de
+Março, e senta-se, ________contragosto, ________ mesa com ________ anfitriã e o
+Chapeleiro para tomar um chá. Entediada com a conversa sem pé nem cabeça dos
+dois, pergunta: “Acho que vocês poderiam fazer coisa melhor com o tempo”. E,
+então, o Chapeleiro retruca: “Se você conhecesse o Tempo tão bem quanto eu,
+falaria dele com mais respeito”.
+
+(LLEDÓ, Maria Júlia. Como conciliar a rotina num século em que o tempo se tornou
+privilégio?. Revista E (Sesc Edições). 01.05.2023.)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Agente de Ação Social
+
+De acordo com a norma-padrão da língua, as lacunas do texto devem ser
+preenchidas, respectivamente, com:
+
+A) a ... à ... a ... a
+
+B) a ... à... a ... à
+
+C) à ... a ... à ... à
+
+D) à ... à ... a ... a
+
+E) à … a … à … a
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Araçatuba - SP - Professor de Ensino
+Básico
+Leia o trecho a seguir.
+Calvin dirigiu-se _____ professora e pôs-se _____ dizer o que achava da educação.
+Porém,_____________ solicitação da professora de que levantasse a mão quem não
+tivesse feito a lição, Calvin reagiu maldosamente.
+
+As lacunas devem ser preenchidas, correta e respectivamente, com:
+
+A) à ... a ... à.
+B) à ... à ... à.
+C) a ... a ... à.
+D) a ... à ... a.
+E) à... a ... a.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP - Prefeitura de Francisco Morato - SP – Arquiteto0
+Somos originários do cosmos, da natureza, da vida, mas, devido ____ própria
+humanidade e ____ nossa cultura, tornamo-nos estranhos ____ este cosmos, que
+nos parece secretamente íntimo. Nosso pensamento e nossa consciência fazem-nos
+conhecer o mundo físico e distanciam-nos dele. O próprio fato de considerar
+racional e cientificamente o universo separa-nos dele. Desenvolvemo-nos além do
+mundo físico e vivo. É neste “além” que tem lugar ____ plenitude da humanidade.
+                                                                        (Edgard Morin. Os sete saberes necessários à educação do futuro. Fragmento)
+
+Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto.
+
+A) a ... à ... a ... à
+B) à ... a ... à ... à
+C) a ... a ... à ... a
+D) à ... à ... a ... a
+E) à ... à ... a ... à
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2023 - TRF - 3ª REGIÃO - Analista Judiciário
+Minha empregada, Mme. Thérèse, que já ia se conformando em ser chamada de
+dona Teresa, caiu doente. Mandou-me um bilhete com a letra meio trêmula,
+falando em reumatismo. Dias depois apareceu, mas magra, mais pálida e menor;
+explicou-me que tudo fora consequência de uma corrente de ar. Que meu
+apartamento tem um courant d’air terrível, de tal modo que, __________ ,
+chegando em casa, nem teve coragem de tirar a roupa, caiu na cama. “Dói-me o
+corpo inteiro, senhor; o corpo inteiro.”
+       O mesmo caso, ajuntou, houve cerca de 15 anos atrás, quando trabalhava em
+um apartamento que tinha uma corrente de ar exatamente igual _____ essa de que
+hoje sou sublocatário. Fez uma pausa. Fungou. Contou o dinheiro que eu lhe
+entregava, agradeceu ______ dispensa do troco. Foi lá dentro apanhar umas pobres
+coisas que deixara. Entregou-me a chave, fez qualquer observação sobre o
+aquecedor _____ gás – e depois, no lugar de sair _____ rua, deixou-se ficar imóvel e
+calada, de pé, em minha frente.
+Profª Adriana Figueiredo
+                                                         (Rubem Braga, “Dona Teresa”. 200 crônicas escolhidas. Adaptado)
+                                  
+
+
+---
+
+VUNESP - 2023 - TRF - 3ª REGIÃO - Analista Judiciário
+
+Em conformidade com a norma-padrão, as lacunas do texto devem ser preenchidas,
+respectivamente, com:
+
+A) aquela tarde … à … à … à … a
+B) àquela tarde … a … a … a … à
+C) àquela tarde … à … à … a … a
+D) aquela tarde … a … a … à … à
+E) àquela tarde … à … a … a … à
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - TJM-SP - Escrevente Técnico Judiciário
+
+As duas frases elaboradas a partir do texto apresentam o sinal indicativo de crase
+corretamente empregado em:
+
+A) A gravidez não levará o namoro à se converter em união estável. / Para pessoas
+que estão juntas há tempos, um contrato pode oferecer segurança legal à elas.A
+gravidez não levará o namoro à se converter em união estável. / Para pessoas que
+estão juntas há tempos, um contrato pode oferecer segurança legal à elas.
+
+B) A Lei no 9.278 não atribui à todas as relações amorosas o caráter de união
+estável. / Há namorados que se dedicam à viver juntos, mas sem laços matrimoniais.
+
+C) A gravidez não levará a união duradoura entre namorados à condição de união
+estável. / O Contrato de Namoro pode dar legalidade à uma relação amorosa.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - TJM-SP - Escrevente Técnico Judiciário
+
+D) É possível adicionar novas cláusulas àquelas já estipuladas por lei. / As
+testemunhas devem declarar que os contratantes levam o compromisso à sério.
+
+E) A Justiça não pode agir completamente à revelia dos interesses dos contratantes.
+/ O casal pode impor exigências pessoais às cláusulas de um contrato.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Ponto de vista do autor
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+VUNESP - 2024 - SPTrans - Analista de Comunicação Pleno
+Destruição criativa 2.0
+
+  Não compro muito a ideia de que a inteligência artificial vai destruir o mundo.
+Digo-o não porque tenha conhecimento privilegiado do porvir, mas porque sei
+que, diante do novo, nossa tendência é sempre a de exagerar os perigos. Quem
+quiser uma confirmação empírica disso pode pegar nas coleções de jornais os
+artigos catastrofistas dos anos 1970 e 1980 que mencionavam o advento dos bebês
+de proveta, que hoje não despertam mais polêmica.
+  Daí não decorre que devamos tratar a inteligência artificial com ligeireza. É uma
+mudança tecnológica de enorme potencial e que terá impactos, em especial sobre o
+empreg o. Já vimos antes a chamada destruição criadora em ação. Mas, ao que tudo
+indica, desta vez, a aniquilação de postos de trabalho se dará em escala maior e
+atingirá também funções criativas ocupadas pelas elites intelectuais, que foram
+poupadas em viragens tecnológicas anteriores.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2024 - SPTrans - Analista de Comunicação Pleno
+   O quadro geral, porém, talvez não seja dos piores. Economistas de diferentes
+correntes anteviram um mundo em que as mudanças tecnológicas avançariam tanto
+que resolveriam o problema econômico da humanidade, isto é, as máquinas
+produziriam sozinhas e de graça tudo o que necessitamos, de comida a bens
+industrializados, passando por vários tipos de serviço. A dificuldade é que, como isso
+não vai acontecer da noite para o dia, devemos esperar uma transição complicada. E
+complicada não apenas em termos econômicos e sociais, mas também psicológicos.
+   Quando conhecemos uma pessoa, uma das primeiras perguntas que lhe dirigimos
+é “o que você faz?”. Vivemos em sociedades em que os indivíduos se definem em
+larga medida por sua profissão. Tirar isso deles pode provocar um vazio existencial.
+É até possível que, com o problema econômico resolvido, passemos a extrair
+transcendência de outras atividades. Imagine um mundo de artistas. Mas isso vai
+exigir uma revolução anímica.
+Profª Adriana Figueiredo   (SCHWARTSMAN, Hélio. Em: https://www1.folha.uol.com.br/colunas/ helioschwartsman/2023/09/destruicao-criativa-20.shtml.
+                                                          
+
+
+---
+
+VUNESP - 2024 - SPTrans - Analista de Comunicação Pleno
+Para explicar por que não acredita que a inteligência artificial destruirá o mundo, o
+autor recorre ao argumento de que
+
+
+A) teremos em breve muito mais recursos tecnológicos do que atualmente.
+
+B) tendemos a superestimar os efeitos negativos do que não conhecemos.
+
+C) a resolução de problemas econômicos está fora do alcance das máquinas.
+
+D) sempre haverá categorias de trabalho imunes ao avanço das máquinas.
+
+E) os efeitos positivos das novas tecnologias já superam os negativos.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2024 - APS - SP - Especialista Portuário - Técnico em
+Comunicação Social
+
+O mundo bizarro dos influencers
+
+  Apesar de deplorar uma cultura em que o fenômeno do influencer pode alçar
+nulidades à fama e à fortuna, tento controlar meu desdém. Afinal, controlar os
+gostos e os interesses de muitos milhões de pessoas ao mesmo tempo sem saber
+nada sobre elas individualmente nem sobre as circunstâncias de suas vidas é muita
+arrogância.
+  Com base em que, então, eu condeno o fenômeno da cultura influencer? Tenho
+alguma razão para fazer isso além de um gosto pessoal visceral?
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2024 - APS - SP - Especialista Portuário - Técnico em
+Comunicação Social
+  Talvez a existência de influenciadores de sucesso distorça e corrompa as
+ambições dos jovens. Isso desvia as pessoas de sonhos alcançáveis e úteis para
+sonhos de fama e riqueza fáceis, mas muito improváveis. Diz-se que para cada
+influenciador bem-sucedido existe um número desconhecido de pessoas tentando
+se tornar influenciadoras. Suas vidas são desperdiçadas na busca dessa utopia.
+  Fica a sensação de que existe diferença entre aqueles que fracassam em ambições
+dignas e aqueles que buscam a fama como influenciadores. Não é fácil decifrar o
+talento n ecessário para tentar ser um influenciador, além de um quê de
+descaramento e exibicionismo, o que, em todo caso, são características, não
+talentos. As reais habilidades necessárias para influenciadores de sucesso, retirados
+da obscuridade e alçados à fama, parecem ser modestas, para dizer o mínimo.
+
+                           (Theodore Dalrymple. Revista Oeste, ed. de 27.01.2023. Adaptado)
+Profª Adriana Figueiredo
+                                           
+
+
+---
+
+VUNESP - 2024 - APS - SP - Especialista Portuário - Técnico em
+Comunicação Social
+
+Na opinião do autor, a cultura influencer
+
+A) está em sua mira porque não é possível traçar o perfil dos influenciadores e dos
+seguidores, por compartilharem gostos.
+
+B) tem o condão de alimentar objetivos dificilmente alcançáveis, o que pode desviar
+os jovens seguidores de metas mais atingíveis.
+
+C) causa-lhe desdém pelo fato de que os influenciadores podem fazer as pessoas
+medíocres alcançarem fama.
+
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2024 - APS - SP - Especialista Portuário - Técnico em
+Comunicação Social
+
+D) propõe que os influenciadores transformem sua forma de exibição pública no
+sucesso que só os desavergonhados têm.
+
+E) repudia as críticas aos influenciadores, reconhecendo que são pessoas que
+cultivam a modéstia
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Enfermeiro
+     A memória dos que envelhecem (e que transmitem aos filhos, aos sobrinhos, aos
+netos, a lembrança dos pequenos fatos que tecem a vida de cada indivíduo e do grupo
+com que ele estabelece contatos, correlações, aproximações, antagonismos, afeições,
+repulsas e ódios) é o elemento básico na construção da tradição familiar. Esse folclore
+jorra e vai vivendo do contato do moço com o velho — porque só este sabe que
+existiu em determinada ocasião o indivíduo cujo conhecimento pessoal não valia
+nada, mas cuja evocação é uma esmagadora oportunidade poética. Só o velho sabe
+daquele vizinho de sua avó, há muita coisa mineral dos cemitérios, sem lembrança nos
+outros e sem rastro na terra — mas que ele pode suscitar de repente (como o mágico
+que abre a caixa dos mistérios) na cor dos bigodes, no corte do paletó, na morrinha do
+fumo, no ranger das botinas de elástico, no andar, no pigarro, no jeito — para o
+menino que está escutando e vai prolongar por mais cinquenta, mais sessenta anos a
+lembrança que lhe chega, não como coisa morta, mas viva qual flor olorosa e colorida,
+límpida e nítida e flagrante como um fato presente.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Enfermeiro
+
+    E com o evocado vem o mistério das associações trazendo a rua, as casas
+antigas, outros jardins, outros homens, fatos pretéritos, toda a camada da vida de
+que o vizinho era parte inseparável e que também renasce quando ele revive —
+porque um e outro são condições recíprocas. Costumes de avô, responsos de avó,
+receitas de comida, crenças, canções, superstições familiares duram e são passadas
+adiante nas palestras de depois do jantar; nas das tardes de calor, nas varandas que
+escurecem; nas dos dias de batizado, de casamento, de velório.
+
+                           (Pedro Nava. Baú de Ossos. São Paulo: Cia das Letras, 2012)
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Enfermeiro
+
+A partir da leitura do texto, é correto afirmar que o autor
+
+A) reconhece que certos conhecimentos quando são pessoais não valem nada e que,
+por isso, deve-se consultar outras pessoas, especialmente as de outras gerações.
+
+B) menciona situações como batizados, casamentos e velórios para mostrar que há
+uma religiosidade mais profunda nas pessoas de gerações anteriores.
+
+C) defende a transmissão das memórias dos mais velhos aos mais novos como modo
+de construção de conhecimento prático sobre o mundo.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+VUNESP - 2023 - Prefeitura de Campinas - SP - Enfermeiro
+
+D) compreende que há detalhes nas histórias do passado, como a rua, as casas
+antigas, entre outras coisas que fazem com que os mais velhos se sintam renascer.
+
+E) enxerga na evocação de certos fatos do passado algo de poético que pode ser
+mantido como tradição viva nas gerações vindouras.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+VUNESP - 2023 - PC-SP - Investigador de Polícia
+
+A igualação e a desigualdade
+
+  A ditadura da sociedade de consumo exerce um totalitarismo simétrico ao de sua
+irmã gêmea, a ditadura da organização desigual do mundo.
+   A maquinaria da igualação compulsiva atua contra a mais bela energia do
+gênero humano, que se reconhece em suas diferenças e através delas se vincula. O
+melhor que o mundo tem está nos muitos mundos que o mundo contém, as
+diferentes músicas da vida, suas dores e cores: as mil e uma maneiras de viver e de
+falar, crer e criar, comer, trabalhar, dançar, brincar, amar, sofrer e festejar que
+temos descoberto ao longo de milhares e milhares de anos.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2023 - PC-SP - Investigador de Polícia
+
+   A igualação, que nos uniformiza e nos apalerma, não pode ser medida. Não há
+computador capaz de registrar os crimes cotidianos que a indústria da cultura de
+massas comete contra o arco-íris humano e o humano direito à identidade. Mas
+seus demolidores progressos saltam aos olhos. O tempo vai se esvaziando de
+história e o espaço já não reconhece a assombrosa diversidade de suas partes.
+Através dos meios massivos de comunicação, os donos do mundo nos comunicam a
+obrigação que temos todos de nos contemplar num único espelho, que reflete os
+valores da cultura de consumo.
+    Quem não tem não é: quem não tem carro, não usa sapato de marca ou perfume
+importado está fingindo existir.
+
+
+                           (Eduardo Galeano, De pernas pro ar: a escola do mundo ao avesso)
+Profª Adriana Figueiredo
+                                           
+
+
+---
+
+VUNESP - 2023 - PC-SP - Investigador de Polícia
+
+É correto afirmar que o autor assume a tese de que, na sociedade de consumo,
+
+
+A) há uma estandardização que descaracteriza as individualidades.
+
+B) vive-se uma realidade projetada para preservar valores pessoais.
+
+C) existe uma desconstrução do sentido de vida social solidária.
+
+D) propaga-se a igualdade como forma de manter o senso de coletividade.
+
+E) propõe-se uma nova perspectiva de vida, fundada na fruição do momento.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2022 - CAU-SP - Analista III - Analista Técnico em Arquitetura
+e Urbanismo
+ Opção no ensino
+
+     Inexiste solução simples e rápida para o ensino básico público no Brasil, mas
+registraram-se nos últimos anos iniciativas meritórias em lugares tão diversos como
+Ceará, Espírito Santo, Goiás e Pernambuco, que apresentam boa evolução nas
+avaliações do MEC. E há espaço para experimentar mais.
+     Nesse contexto, é bem-vinda a proposta paulistana de autorizar o terceiro
+setor a gerir parte das escolas municipais. Um projeto de lei com esse teor tramita
+na Câmara Municipal.
+    Pela proposta, as organizações sociais (OSs) contratadas teriam liberdade para
+definir projeto pedagógico e metodologias de ensino nas unidades sob sua gestão.
+Ganhariam autonomia também para montar a equipe de profissionais.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+VUNESP - 2022 - CAU-SP - Analista III - Analista Técnico em Arquitetura
+e Urbanismo
+   A utilização de OSs não é exatamente uma novidade nos domínios paulistanos. Ela
+é realidade há vários anos na saúde; na educação, já vem sendo usada nas creches.
+      São, portanto, conhecidos os riscos e as vantagens do modelo de entidades
+privadas sem fins lucrativos. Os contratos precisam ser fiscalizados de perto, pois há
+registro de abusos. É também preciso ficar atento à qualidade dos profissionais
+contratados.
+      Não se trata, obviamente, de substituir a estrutura de escolas administradas
+diretamente pelo município, com professores concursados, pelo terceiro setor. É
+meritório, isso sim, introduzir um pouco de diversidade no ecossistema. A rede
+oficial, como está estruturada hoje, acumula problemas.
+      Exemplo gritante é o absenteísmo de professores. Entre faltas abonadas e
+licenças médicas, cerca de 10% dos docentes deixam de comparecer a cada dia. Não
+se conhecem taxas nem remotamente parecidas na iniciativa privada.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2022 - CAU-SP - Analista III - Analista Técnico em Arquitetura
+e Urbanismo
+   Não se deve, contudo, passar um cheque em branco ______ prefeitura. É preciso
+que a proposta seja discutida ____ fundo pelos vereadores paulistanos e que
+cautelas extras sejam adicionadas ao projeto e _____ regulamentações posteriores.
+
+                           (Editorial. https://www1.folha.uol.com.br/ opiniao/2022/06/opcao-no-ensino.shtml. 23.06.2022. Adaptado)
+
+
+No Editorial, é defendido o ponto de vista de que
+
+A) as organizações sociais podem ter papel importante na correção de problemas
+comumente encontrados na rede pública de ensino.
+
+B) a proposta paulistana de integrar o terceiro setor à administração do ensino não
+deveria se estender à contratação de pessoal.
+Profª Adriana Figueiredo
+                                                   
+
+
+---
+
+VUNESP - 2022 - CAU-SP - Analista III - Analista Técnico em Arquitetura
+e Urbanismo
+C) os resultados insatisfatórios da aprendizagem nas escolas municipais são
+consequência do quadro reduzido de profissionais.
+
+D) a gestão desastrosa de creches por entidades privadas justifica a recusa na
+contratação dessa parceria para escolas municipais.
+
+E) o alto custo com a fiscalização de contratos e dos serviços prestados inviabiliza a
+parceria proposta pelo município paulista.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2023 - Prefeitura de São Paulo - SP - Auditor Fiscal Tributário
+ Os rumos do Plano Diretor de SP
+
+     Desde 2020, a revisão do Plano Diretor de São Paulo divide urbanistas. Após a
+primeira votação na Câmara, há três semanas, a celeuma se espraiou pelo debate
+público paulistano. Isso é positivo. Cidadãos se responsabilizando por sua cidade
+são, por definição, a base de uma cidadania construtiva. Mas as emoções
+extremadas sugerem uma contaminação desastrosa das políticas urbanas pela
+política partidária.
+     O Plano vigente em São Paulo foi aprovado em 2014 para valer até 2029, com a
+meta de “reduzir as desigualdades socioterritoriais para garantir, em todos os
+distritos da cidade, o acesso a equipamentos sociais, a infraestrutura e a serviços
+urbanos”.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2023 - Prefeitura de São Paulo - SP - Auditor Fiscal Tributário
+     Como outras metrópoles nas Américas, o crescimento de São Paulo foi rápido,
+desordenado e orientado ao transporte individual. O resultado são as chamadas
+cidades 3D: distantes, desordenadas e desconectadas. Ao contrário da expansão
+típica dos EUA em subúrbios de classe média e baixa densidade, no Brasil prevaleceu
+a aglomeração de pessoas pobres nas periferias, de onde realizam longos
+deslocamentos em transportes públicos parcos e precários atrás de emprego,
+serviços e lazer no centro.
+    O Plano previu mais potencial construtivo e incentivos à construção para que
+espaços num raio de 600 metros das estações de metrô e numa margem de 300
+metros dos corredores de ônibus sejam mais densos, verticalizados e de uso misto.
+A revisão propõe ampliar essas áreas, respectivamente, para 800 e 450 metros.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+VUNESP - 2023 - Prefeitura de São Paulo - SP - Auditor Fiscal Tributário
+     Assim, a revisão segue a proposta de “adensamento inteligente”. Longe de fazer terra
+arrasada do Plano, ela o amplia. Pode-se divergir se essa ampliação é mais ou menos
+inteligente, mas é estranho os críticos denunciarem o “caos” e a “destruição” a serviço da
+“voracidade” das incorporadoras. Se há essa voracidade, ela reflete o desejo dos cidadãos de
+morarem, trabalharem e se divertirem próximos uns aos outros, anseio que é a essência da
+cidade. A de São Paulo continua crescendo em população e renda. Construtores procuram
+atender a essa demanda onde for permitido, e, quanto maior a oferta, menor será o custo
+para viver na cidade.
+    É legítimo questionar a ideia do Plano de concentrar as ofertas nos eixos de transporte e,
+também, a ideia da revisão de ampliar essa concentração. Mas parece exagero, politicamente
+motivado, prever o “caos” se elas forem aprovadas. Pode-se discutir se 100 metros a mais ou
+a menos farão alguma diferença, mas o Plano, no seu conjunto, busca aproximar as pessoas
+da infraestrutura, dos serviços urbanos e dos equipamentos sociais, de modo a cumprir sua
+promessa de “reduzir as desigualdades socioterritoriais”.
+
+Profª Adriana Figueiredo          (Opinião. https://www.estadao.com.br/opiniao, 26.06.2023. Adaptado)
+                                       
+
+
+---
+
+VUNESP - 2023 - Prefeitura de São Paulo - SP - Auditor Fiscal Tributário
+Um argumento utilizado no editorial para rebater o ponto de vista dos opositores da
+revisão do Plano Diretor de São Paulo é
+
+A) o crescimento da cidade, em população e renda.
+B) a diminuição das desigualdades socioterritoriais.
+C) a ânsia de lucros dos agentes construtores.
+D) a fragilidade da ideia de adensamento inteligente.
+E) o desejo de isolamento da maioria dos cidadãos.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+OBRIGADA!
+                                           Professora: Adriana Figueiredo
+
+      
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                    @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                 facebook.com/prof.adriana.figueiredo
+
+
+                   
+
+
+---
+
+---

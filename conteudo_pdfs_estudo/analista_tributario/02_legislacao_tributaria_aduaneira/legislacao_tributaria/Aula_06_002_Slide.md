@@ -1,0 +1,430 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 06_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: IRPF
+---
+
+# IRPF
+
+IRPF
+REND. ISENTOS/NÃO
+   TRIBUTÁVEIS
+      PARTE 2
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+                        ❑ os rendimentos provenientes de aposentadoria e pensão, de transferência
+                          para a reserva remunerada ou de reforma, pagos pela previdência social
+                          da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer
+                          pessoa jurídica de direito público interno, ou por entidade de previdência
+                          privada, a partir do mês em que o contribuinte completar 65 anos de
+                          idade, sem prejuízo da parcela isenta prevista na tabela de incidência
+                          mensal do imposto, até o valor da primeira faixa da tabela progressiva;
+
+    Observação: o contribuinte que auferir rendimentos de mais de uma fonte terá o
+    limite de isenção anual único e será considerado em relação à soma desses
+    rendimentos, para fins de apuração do imposto sobre a renda na declaração
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                             @ProfFabioDutra
+                                             
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ Exemplo:
+
+
+          Base de cálculo mensal em R$                   Alíquota %            Parcela a deduzir do imposto em R$
+
+                          Até 1.903,98                            -                            -
+
+                    De 1.903,99 até 2.826,65                    7,5                          142,80
+
+                    De 2.826,66 até 3.751,05                   15,0                          354,80
+
+                    De 3.751,06 até 4.664,68                   22,5                          636,13
+
+                        Acima de 4.664,68                      27,5                          869,36
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                                          @ProfFabioDutra
+                                               
+
+
+---
+
+  QUESTÃO INÉDITA
+      Maria tem 60 anos de idade, e, após sua aposentadoria, passa a receber proventos,
+      sendo uma parcela do seu rendimento isenta (até o valor da primeira faixa da
+      tabela progressiva mensal), sem prejuízo da parcela isenta prevista na tabela de
+      incidência mensal do IRPF.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada
+                                   
+                                                                                 @ProfFabioDutra
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os proventos de aposentadoria ou reforma motivadas por acidente em serviço
+              e aqueles percebidos pelos portadores de moléstia profissional, tuberculose
+              ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira,
+              hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de
+              Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia
+              grave, estados avançados de doença de Paget (osteíte deformante),
+              contaminação por radiação, síndrome de imunodeficiência adquirida e fibrose
+              cística (mucoviscidose), com base em conclusão da medicina especializada,
+              mesmo que a doença tenha sido contraída depois da aposentadoria ou
+              da reforma;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                       @ProfFabioDutra
+                                      
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os valores recebidos a título de pensão, quando o beneficiário desse
+              rendimento for portador de alguma das doenças citadas, exceto aquela
+              decorrente de moléstia profissional, com base em conclusão da medicina
+              especializada, mesmo que a doença tenha sido contraída após a concessão da
+              pensão;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                  @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ As isenções relativas às doenças mencionadas aplicam-se aos rendimentos
+    recebidos a partir:
+
+            ❑ do mês da concessão da aposentadoria, da reforma ou da pensão, quando a
+              doença for preexistente;
+
+            ❑ do mês da emissão do laudo pericial, emitido por serviço médico oficial da
+              União, dos Estados, do Distrito Federal ou dos Municípios, que reconhecer a
+              moléstia, se esta for contraída após a concessão da aposentadoria, da reforma
+              ou da pensão; ou
+
+            ❑ da data em que a doença foi contraída, quando identificada no laudo pericial;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                      @ProfFabioDutra
+                                      
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ as pensões e os proventos concedidos em decorrência de reforma ou de
+              falecimento de ex-combatente da Força Expedicionária Brasileira;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                            @ProfFabioDutra
+                                  
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ as importâncias recebidas por pessoa com deficiência mental a título de
+              pensão, pecúlio, montepio e auxílio, quando decorrentes de prestações do
+              regime de previdência social ou de entidades de previdência privada
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                @ProfFabioDutra
+                                    
+
+
+---
+
+  QUESTÃO INÉDITA
+      Os valores recebidos por deficiente mental a título de pensão, pecúlio, montepio e
+      auxílio, quando decorrentes de prestações do regime de previdência social ou de
+      entidades de previdência privada são isentos do imposto de renda.
+
+Legislação Tributária
+Prof. Fábio Dutra
+                        Gabarito: Correta                                         @ProfFabioDutra
+                                  
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ a pensão especial recebida em decorrência da deficiência física conhecida
+              como Síndrome da Talidomida, quando paga a seu portador;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                 @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ o pecúlio recebido pelos aposentados que tenham voltado a trabalhar até
+              15/04/1994 em atividade sujeita ao regime previdenciário, pago pelo INSS ao
+              segurado ou a seus dependentes, após a sua morte;
+
+    Observação: consiste na devolução em cota única das contribuições efetuadas para o
+    INSS pelo cidadão que permaneceu em atividade após ter se aposentado.
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os valores dos resgates na carteira dos FAPI, para mudança das aplicações
+              entre os Fundos instituídos pela Lei nº 9.477/1997, ou para aquisição de
+              renda junto às instituições privadas de previdência e às seguradoras que
+              operam com esse produto
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                 @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os rendimentos percebidos pelas pessoas físicas decorrentes de seguro-
+              desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-
+              acidente, pagos pela previdência oficial da União, dos Estados, do Distrito
+              Federal e dos Municípios e pelas entidades de previdência privada
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os seguros recebidos de entidades de previdência privada decorrentes de
+              morte ou de invalidez permanente do participante
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                               @ProfFabioDutra
+                                   
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+            ❑ os seguros recebidos de entidades de previdência privada decorrentes de
+              morte ou de invalidez permanente do participante;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                               @ProfFabioDutra
+                                   
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ a indenização por acidente de trabalho
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                          @ProfFabioDutra
+                                     
+
+
+---
+
+  QUESTÃO INÉDITA
+       A indenização por acidente de trabalho substitui a renda proveniente do trabalho,
+       sendo considerada, para fins do imposto de renda, rendimento tributável.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada
+                                   
+                                                                                  @ProfFabioDutra
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ o pagamento efetuado por pessoas jurídicas de direito público a servidores
+              públicos civis, a título de incentivo à adesão a programas de desligamento
+              voluntário
+
+   Observação: Esta isenção se estende às verbas indenizatórias pagas por pessoas jurídicas
+   referentes a programas de demissão voluntária.
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ a indenização e o aviso prévio pagos por despedida ou por rescisão de
+              contrato de trabalho, até o limite garantido pela lei trabalhista ou pelo dissídio
+              coletivo e pelas convenções trabalhistas homologados pela Justiça do
+              Trabalho, e o montante recebido a título de FGTS.
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                         @ProfFabioDutra
+                                       
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ a indenização destinada a reparar danos patrimoniais em decorrência de
+              rescisão de contrato;
+
+            ❑ a indenização em decorrência de desapropriação para fins de reforma agrária,
+              quando auferida pelo desapropriado;
+
+            ❑ a indenização a título          reparatório           paga   a   beneficiários   diretos    de
+              desaparecidos políticos;
+
+            ❑ a indenização reparatória paga a anistiados políticos;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                                    @ProfFabioDutra
+                                      
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ a indenização reparatória por danos físicos, invalidez ou morte, ou por bem
+              material danificado ou destruído, em decorrência de acidente, até o limite
+              estabelecido em condenação judicial, exceto na hipótese de pagamento de
+              prestações continuadas;
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+  QUESTÃO INÉDITA
+      A indenização por invalidez consistindo no pagamento de parcelas continuadas é
+      considerada isenta do imposto de renda das pessoas físicas.
+
+                        Gabarito: Errada
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Rendimentos Isentos/Não Tributáveis
+  ❑ Rendimentos de indenizações e assemelhados:
+
+            ❑ a indenização por dano moral concedida às pessoas com deficiência física
+              decorrente do uso da talidomida, que consistirá no pagamento de valor único
+              de R$ 50.000,00, multiplicado pelo número dos pontos indicadores da
+              natureza e do grau da dependência resultante da deformidade física
+
+Legislação Tributária
+Prof. Fábio Dutra
+                                                                                   @ProfFabioDutra
+                                    
+
+
+---
+
+Prof Fábio Dutra
+
+            @proffabiodutra                  Fábio Dutra   Fábio Dutra
+
+             
+
+
+---
+
+OBRIGADO
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+---

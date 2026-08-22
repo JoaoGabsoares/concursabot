@@ -1,0 +1,628 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 04_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+CONCEITOS DE ESTOQUES
+BANCAS DIVERSAS - X
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Questão Comentada
+     01. (IBADE/CRC RO/Assistente/2022) A gestão de estoques é a busca do equilíbrio entre a
+     oferta e a demanda ou consumo dos materiais. Esse equilíbrio deve ser aferido através de
+     pelo menos três indicadores de desempenho. A relação entre o consumo anual e o
+     estoque médio do produto, é denominada:
+     a) cobertura de estoque.
+     b) nível de serviço.
+     c) índice de ruptura de estoque.
+     d) rotatividade de estoque.
+     e) segurança de estoque.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Indicadores de Estoque
+       Giro ou Rotatividade
+       ❑ Indicadores de estoques são ferramentas gerenciais muito usadas e que permitem ao
+         gestor controlar os volumes e as performances dos estoques.
+       ❑ As mais conhecidas e cobradas em provas são o Giro de Estoques, a Cobertura de
+         Estoques e o Estoque Médio. Veja a seguir:
+       ❑ O Giro de Estoque (ou Rotatividade) é uma relação existente entre o consumo anual
+         e o estoque médio do produto. Pode ser calculado pela fórmula:
+
+               Giro de Estoque = Consumido no Período (saídas) / Estoque médio no período
+
+       ❑ Mede quantas vezes, em um determinado período, o estoque da empresa foi
+         movimentado ou removido, ou seja, quantas vezes ele "girou".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (IBADE/CRC RO/Assistente/2022) A gestão de estoques é a busca do equilíbrio entre a
+     oferta e a demanda ou consumo dos materiais. Esse equilíbrio deve ser aferido através de
+     pelo menos três indicadores de desempenho. A relação entre o consumo anual e o
+     estoque médio do produto, é denominada:
+     a) cobertura de estoque.
+     b) nível de serviço.
+     c) índice de ruptura de estoque.
+     d) rotatividade de estoque.
+     e) segurança de estoque.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre as normas especiais aplicáveis ao material que, por suas
+     características, requer condições especiais de estocagem, é correto afirmar que:
+     a) a estocagem de explosivos deverá acontecer sobre estrados em locais separados, trancados, com acesso restrito. Quando
+     situados em áreas descobertas, deverão ser delimitados e isolados completamente de outros setores de estocagem, com piso
+     convergente para canaleta e porta com abertura para fora, dotada de proteção inferior para impedir o acesso de vetores e
+     roedores.
+     b) a estocagem de material explosivo e inflamável deve ser sempre em áreas e instalações próprias, observando- se as normas
+     técnicas específicas.
+     c) os setores de estocagem de entorpecentes, psicotrópicos e demais medicamentos com severo controle devem ser secos,
+     ventilados e completamente isolados das demais áreas ou instalações destinadas à estocagem de outros materiais, com paredes
+     laterais e frontais, pisos, portas e tetos constituídos de material não combustível, com piso convergente para canaleta e porta com
+     abertura para fora, dotada de proteção inferior para impedir o acesso de vetores e roedores.
+     d) os locais de estocagem de entorpecentes, psicotrópicos e demais medicamentos com severo controle, quando situados em
+     áreas cobertas e fechadas, deverão ser bem arejados, com paredes laterais e frontais, pisos, portas e tetos constituídos de
+     material não combustível, sistema de drenagem com ralo sifonado provido de tampa que permita a vedação e piso convergente
+     para canaleta.
+     e) devem ser determinadas as quantidades máximas de material do estoque ativo para os recipientes de líquidos inflamáveis, com
+     paredes laterais e frontais, pisos, portas e tetos constituídos de material combustível, com porta com abertura para fora, dotada
+     de proteção inferior para impedir o acesso de vetores e roedores, limitando-se às necessidades de movimentação dos estoques
+     de reserva em locais adjacentes, a fim de facilitar as atividades de movimentação, inspeção e inventário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Princípios de Estocagem
+       Critérios de Armazenagem
+
+     ❑ Em relação ao armazenamento dos materiais, importante conhecermos os principais critérios de armazenagem.
+
+     ❑ De acordo com Viana (2010), a armazenagem pode ser simples ou complexa.
+
+     ✓     Armazenagem simples - materiais não necessitam de nenhum cuidado especial por parte do setor de
+           almoxarifado.
+
+     ✓     Armazenagem complexa - materiais apresentam fatores que exigem atenção especial dos profissionais
+           responsáveis pela atividade de almoxarifado. Ao longo da atividade de armazenamento ou de movimentação
+           esses materiais podem exigir equipamentos de segurança específicos, estruturas de prevenção de incêndios ou
+           outras providências especialmente voltadas a eles.
+
+     ❑ Os principais fatores que podem levar o material a uma armazenagem complexa são: fragilidade,
+       combustibilidade, volatização, oxidação, explosividade, intoxicação, radiação, corrosão, inflamabilidade e volumes,
+       pesos ou formas particulares.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre as normas especiais aplicáveis ao material que, por suas
+     características, requer condições especiais de estocagem, é correto afirmar que:
+     a) a estocagem de explosivos deverá acontecer sobre estrados em locais separados, trancados, com acesso restrito. Quando
+     situados em áreas descobertas, deverão ser delimitados e isolados completamente de outros setores de estocagem, com piso
+     convergente para canaleta e porta com abertura para fora, dotada de proteção inferior para impedir o acesso de vetores e
+     roedores.
+     b) a estocagem de material explosivo e inflamável deve ser sempre em áreas e instalações próprias, observando- se as normas
+     técnicas específicas.
+     c) os setores de estocagem de entorpecentes, psicotrópicos e demais medicamentos com severo controle devem ser secos,
+     ventilados e completamente isolados das demais áreas ou instalações destinadas à estocagem de outros materiais, com paredes
+     laterais e frontais, pisos, portas e tetos constituídos de material não combustível, com piso convergente para canaleta e porta com
+     abertura para fora, dotada de proteção inferior para impedir o acesso de vetores e roedores.
+     d) os locais de estocagem de entorpecentes, psicotrópicos e demais medicamentos com severo controle, quando situados em
+     áreas cobertas e fechadas, deverão ser bem arejados, com paredes laterais e frontais, pisos, portas e tetos constituídos de
+     material não combustível, sistema de drenagem com ralo sifonado provido de tampa que permita a vedação e piso convergente
+     para canaleta.
+     e) devem ser determinadas as quantidades máximas de material do estoque ativo para os recipientes de líquidos inflamáveis, com
+     paredes laterais e frontais, pisos, portas e tetos constituídos de material combustível, com porta com abertura para fora, dotada
+     de proteção inferior para impedir o acesso de vetores e roedores, limitando-se às necessidades de movimentação dos estoques
+     de reserva em locais adjacentes, a fim de facilitar as atividades de movimentação, inspeção e inventário.
+     GABARITO - B
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre as normas aplicáveis de forma genérica a
+     todo tipo de material, é correto afirmar que:
+     a) a concentração do material de mesma classificação deve ser realizada em locais separados e
+     diferentes, a fim de facilitar as atividades de movimentação, inspeção e inventário.
+     b) a organização dos estoques de material idêntico, deve ser feita de acordo com a data de
+     recebimento de cada um, permitindo-se que os itens com maior data de validade sejam fornecidos
+     prioritariamente (o primeiro a entrar é o primeiro a sair).
+     c) a estocagem de material deve ocorrer em contato com o piso e encostado nas paredes,
+     favorecendo a conservação.
+     d) a estocagem de materiais volumosos deve ocorrer nas partes inferiores das unidades de
+     estocagem, sobre estrados, porta-estrados, engradados e porta- engradados.
+     e) a uniformização do empilhamento do material, deve ser realizada observando-se que as pilhas
+     devem ser formadas sempre da frente para o fundo e da direita para a esquerda do setor de
+     estocagem, respeitando o limite máximo permitido e a data de validade dos materiais.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       As Leis da Movimentação
+       Importante conhecer!
+
+     ❑ Existem algumas "leis de movimentação" que valem a pena ser estudadas pois ajudarão você a
+       entender e resolver várias questões de prova. Além disso resumem bem o assunto. Vamos a elas:
+               - Obediência ao fluxo das operações: trajetória dos materiais deve seguir a sequência das operações, de preferência de
+               forma linear.
+               - Mínima distância: eliminação do zigue zague e redução de distâncias no fluxo dos materiais.
+               - Mínima manipulação: evitar a manipulação ao longo do processo, priorizando o transporte mecânico.
+               - Segurança e satisfação: selecionar equipamentos que ampliem a segurança e a satisfação dos envolvidos.
+               - Padronização: equipamentos padronizados possuem custos e manutenção inferiores aos especializados.
+               - Flexibilidade: equipamentos devem ser capazes de atuar com vários tipos de materiais e cargas.
+               - Máxima utilização do equipamento: equipamento deve estar ocupado o tempo todo.
+               - Máxima utilização da gravidade: sempre que possível priorizar o transporte por gravidade, usando para isso pequenas
+               elevações mecânicas.
+               - Máxima utilização do espaço disponível: utilizar sempre o espaço vertical.
+               - Método alternativo: quando falhar o plano A é necessário ter o plano B de movimentação já desenhado.
+               - Menor custo total: o custo total é que deve ser o decisor na escolha do equipamento e não custos intermediários
+               como o de aquisição, operacional ou de manutenção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                        
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre as normas aplicáveis de forma genérica a
+     todo tipo de material, é correto afirmar que:
+     a) a concentração do material de mesma classificação deve ser realizada em locais separados e
+     diferentes, a fim de facilitar as atividades de movimentação, inspeção e inventário.
+     b) a organização dos estoques de material idêntico, deve ser feita de acordo com a data de
+     recebimento de cada um, permitindo-se que os itens com maior data de validade sejam fornecidos
+     prioritariamente (o primeiro a entrar é o primeiro a sair).
+     c) a estocagem de material deve ocorrer em contato com o piso e encostado nas paredes,
+     favorecendo a conservação.
+     d) a estocagem de materiais volumosos deve ocorrer nas partes inferiores das unidades de
+     estocagem, sobre estrados, porta-estrados, engradados e porta- engradados.
+     e) a uniformização do empilhamento do material, deve ser realizada observando-se que as pilhas
+     devem ser formadas sempre da frente para o fundo e da direita para a esquerda do setor de
+     estocagem, respeitando o limite máximo permitido e a data de validade dos materiais.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Representa uma função de
+     Estoque:
+     a) receber e conferir os materiais adquiridos ou cedidos de acordo com o documento de
+     entrega.
+     b) amortecer variações no sistema resultante de diferentes taxas de produção e consumo
+     de produtos.
+     c) registrar em planilha própria as notas fiscais ou documentos de entrega da remessa
+     dos materiais recebidos.
+     d) garantir a movimentação e retiradas dos materiais visando a um atendimento ágil e
+     eficiente.
+     e) organizar e manter atualizado o registro do material existente.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       Efeito “lubrificante”
+
+       ❑ Por outro lado a área Financeira sempre vai recomendar estoques mais baixos. Porém, estoque menor do que o
+         necessário pode acabar e parar a produção ou a prestação do serviço, gerando impacto imediato na receita
+         (vendas) e, de novo, na lucratividade.
+       ❑ Veja que o gestor do processo deverá buscar sempre o ponto ótimo entre esses dois extremos e daí surge o
+         conceito do "efeito lubrificante" dos Estoques, ou seja, não permitir que os diferentes interesses entrem em
+         atrito.
+       ❑ No setor industrial o impacto é ainda mais dramático, visto que os materiais adquiridos costumam representar
+         cerca de 50% do custo do produto vendido, sendo seu componente de custo mais importante. Nos serviços, da
+         mesma forma, o impacto também é importante. Embora o impacto econômico possa ser menor em relação ao
+         custo do serviço prestado, sem o material de manutenção, reparo ou operação, a atividade prestada para!
+         Imagine o prejuízo!
+       ❑ Indo agora um pouco mais para as definições de Estoque, do ponto de vista tradicional podemos considerá-lo
+         como representativo de matérias-primas, produtos em fabricação (podem ser os materiais semiacabados ou
+         acabados / componentes), produtos acabados, materiais administrativos ou demais suprimentos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Representa uma função de
+     Estoque:
+     a) receber e conferir os materiais adquiridos ou cedidos de acordo com o documento de
+     entrega.
+     b) amortecer variações no sistema resultante de diferentes taxas de produção e consumo
+     de produtos.
+     c) registrar em planilha própria as notas fiscais ou documentos de entrega da remessa
+     dos materiais recebidos.
+     d) garantir a movimentação e retiradas dos materiais visando a um atendimento ágil e
+     eficiente.
+     e) organizar e manter atualizado o registro do material existente.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) O estoque muito útil em datas
+     comemorativas em relação ao qual, para atender a uma grande demanda, a empresa deve
+     se preparar com antecedência e tomar todas as medidas necessárias para não frustrar o
+     cliente naquele momento, é denominado:
+     a) inativo.
+     b) máximo.
+     c) mínimo.
+     d) isolador.
+     e) de antecipação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Estoques
+       Começando pelo Estoque de Segurança
+     ✓ ESTOQUE DE SEGURANÇA (OU MÍNIMO): Quantidade mínima possível capaz de suportar um tempo de ressuprimento (ou
+       tempo de reposição) superior ao programado ou um consumo desproporcional . Ligado ao Nível de Atendimento.
+
+     ✓     ESTOQUE REAL (ER): É a quantidade de material existente em estoque no almoxarifado da empresa.
+
+     ✓     ESTOQUE VIRTUAL (EV): É o estoque real acrescido das quantidades de encomendas em andamento, sejam os
+           fornecimentos em atraso, os dentro do prazo mas ainda não entregues e os entregues porém ainda em inspeção.
+
+     ✓     ESTOQUE DE ANTECIPAÇÃO: São criados antecipando-se uma demanda futura como, por exemplo, uma época de pico de
+           vendas (sazonalidade), um programa de promoções, férias coletivas ou ameaça de greve, etc.
+
+     ✓     ESTOQUE DE TAMANHO DO LOTE: Composto por itens comprados ou fabricados em quantidades maiores que o
+           necessário.
+
+     ✓     ESTOQUE DE TRANSPORTE: Existem pela necessidade de se transportar itens de um local ao outro, por exemplo, da fábrica
+           ao centro de distribuição ou mesmo a um cliente.
+
+     ✓     ESTOQUE HEDGE: Envolve produtos que possam sofrer bruscas variações de preço de acordo com a oferta e demanda
+           mundiais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) O estoque muito útil em datas
+     comemorativas em relação ao qual, para atender a uma grande demanda, a empresa deve
+     se preparar com antecedência e tomar todas as medidas necessárias para não frustrar o
+     cliente naquele momento, é denominado:
+     a) inativo.
+     b) máximo.
+     c) mínimo.
+     d) isolador.
+     e) de antecipação.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre o estoque de ciclo, é
+     correto afirmar que:
+     a) é mantido por terceiros, que podem ser distribuidores ou clientes. A guarda dos
+     produtos é transferida, mas a propriedade continua sendo da empresa.
+     b) também conhecido como ponto de ressuprimento, consiste na menor quantidade
+     possível de um produto armazenado.
+     c) seu objetivo é proteger as vendas e garantir a disponibilidade dos produtos mesmo
+     em situações pouco favoráveis, como alta nos preços e greve de fornecedores.
+     d) é utilizado para garantir que os níveis do estoque sejam coerentes com a demanda do
+     consumidor, que pode ser diferente ao longo do período.
+     e) visa reduzir o risco de o negócio perder vendas ou atrasar entregas em razão de
+     problemas inesperados, como um imprevisto durante a negociação com o fornecedor.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/Pref. Mun. Piracicaba-SP/Almoxarife/2022) Sobre o estoque de ciclo, é
+     correto afirmar que:
+     a) é mantido por terceiros, que podem ser distribuidores ou clientes. A guarda dos
+     produtos é transferida, mas a propriedade continua sendo da empresa.
+     b) também conhecido como ponto de ressuprimento, consiste na menor quantidade
+     possível de um produto armazenado.
+     c) seu objetivo é proteger as vendas e garantir a disponibilidade dos produtos mesmo
+     em situações pouco favoráveis, como alta nos preços e greve de fornecedores.
+     d) é utilizado para garantir que os níveis do estoque sejam coerentes com a demanda do
+     consumidor, que pode ser diferente ao longo do período.
+     e) visa reduzir o risco de o negócio perder vendas ou atrasar entregas em razão de
+     problemas inesperados, como um imprevisto durante a negociação com o fornecedor.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (QUADRIX/CRP 11/Assistente/2022) Quanto às noções de administração de materiais,
+     julgue o item. Nos estoques, os custos de carregamento são custos diretamente
+     proporcionais ao nível do estoque médio.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Custos dos Estoques
+       Custos de armazenamento proporcionais ao volume e tempo
+
+       ❑ Em relação aos custos de armazenamento, eles são proporcionais a quantidade e ao
+         tempo que um material permanece em estoque. Em linhas gerais podem ser
+         agrupados nas seguintes modalidades:
+       ✓ Custos de capital (juros e depreciação)
+       ✓ Custos com pessoal (salários, encargos sociais)
+       ✓ Custos com edificação (aluguéis, impostos, luz, conservação)
+       ✓ Custos de manutenção (deterioração, obsolescência, equipamento)
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (QUADRIX/CRP 11/Assistente/2022) Quanto às noções de administração de materiais,
+     julgue o item. Nos estoques, os custos de carregamento são custos diretamente
+     proporcionais ao nível do estoque médio.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (QUADRIX/CREMERO/Assistente/2022) Com relação às noções de administração de
+     materiais e almoxarifado, julgue o item. No sistema de estocagem horizontal, é
+     determinado um número de áreas de estocagem para cada tipo de material.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Localização de Materiais
+     ❑ Normalmente são usados dois critérios de localização de materiais:
+     ✓ Sistema de Estocagem Fixo: um número de áreas específicas é previamente
+       determinado e reservado para um tipo de material, admitindo-se apenas este
+       material no local designado. É um sistema que não permite o melhor aproveitamento
+       da área destinada à armazenagem, visto que não há hipótese do aproveitamento de
+       espaços disponíveis por materiais que não fazem parte do rol previsto para aquele
+       local.
+     ✓ Sistema de Estocagem Livre: não há local fixo de armazenagem, a não ser para
+       materiais de estocagem especial. Todos os materiais podem ocupar qualquer lugar
+       disponível, maximizando a utilização do espaço. Como inconveniente, é necessário
+       um rígido e eficiente sistema de controle com o objetivo de propiciar a rápida
+       localização do material buscado.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (QUADRIX/CREMERO/Assistente/2022) Com relação às noções de administração de
+     materiais e almoxarifado, julgue o item. No sistema de estocagem horizontal, é
+     determinado um número de áreas de estocagem para cada tipo de material.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CFFa/Técnico/2022) A respeito das noções de administração de materiais,
+     julgue o item. Na gestão de estoques, é necessário estabelecer um sistema de inventário
+     fixo que possibilite, a qualquer momento, a determinação do valor de cada item e o total
+     dos materiais em estoque.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CFFa/Técnico/2022) A respeito das noções de administração de materiais,
+     julgue o item. Na gestão de estoques, é necessário estabelecer um sistema de inventário
+     fixo que possibilite, a qualquer momento, a determinação do valor de cada item e o total
+     dos materiais em estoque.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+       Aqui a banca se refere a um sistema de inventário permanente (ou rotativo para alguns autores),
+       no qual os volumes e valores de estoques são continuamente acompanhados permitindo
+       sempre o fornecimento de informações atualizadas, ao contrário dos inventários gerais, por
+       exemplos, que medem volumes e valores apenas uma vez ao ano.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CFFa/Técnico/2022) A respeito das noções de administração de materiais,
+     julgue o item. É desnecessária a estocagem de todos os materiais em locais previamente
+     designados, uma vez que tal método não privilegia a eficiência da gestão de estoques.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Características de Estocagem
+       Marco Aurélio Dias
+       “Para efetuar um correto Controle de Estoques, é necessário preencher diversos requisitos, que podem variar em função do tipo de empresa e,
+       primordialmente, do tipo de linha de produção. Há, porém, dez características básicas que se adaptam em qualquer condição. São elas:
+       1.coordenação adequada e apropriada de todos os setores envolvidos na compra, recebimento, teste, aprovação, estocagem e pagamento a
+       fornecedores;
+       2.centralização das compras em um setor de Compras sob a direção e responsabilidade de um especialista, com rotinas de procedimento bem claras e
+       definidas;
+       3.utilização de cotações a fornecedores de maneira que possibilite a maior redução de preços possível na aquisição de suprimentos;
+       4.criação de um sistema interno de conferência, de forma que todas as operações envolvidas na compra e consumo de materiais sejam verificadas e
+       aprovadas por pessoas autorizadas e de nível adequado;
+       5.estocagem de todos os materiais em locais previamente designados, e sujeitos a supervisão direta;
+       6.estabelecer um sistema de inventário rotativo, que possibilite a qualquer momento a determinação do valor de cada item e o total dos materiais em
+       estoque;
+       7.determinação de limites (mínimos e máximos) para cada item do estoque;
+       8.elaboração de um sistema de controle de estoque, de maneira que os fornecimentos se realizem sob requisição dos setores, conforme as quantidades
+       pedidas e no tempo devido;
+       9.desenvolvimento de um sistema de controle que demonstre o custo de materiais em cada estágio, desde o almoxarifado de matéria-prima até o
+       almoxarifado de produtos acabados;
+       10.emissão regular de relatório de materiais comprados, entregues, saldos, itens obsoletos, devoluções a fornecedores e registro de toda e qualquer
+       informação que se faça necessária para uma correta avaliação do desempenho.”
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                            
+
+
+---
+
+       Questão Comentada
+     10. (QUADRIX/CFFa/Técnico/2022) A respeito das noções de administração de materiais,
+     julgue o item. É desnecessária a estocagem de todos os materiais em locais previamente
+     designados, uma vez que tal método não privilegia a eficiência da gestão de estoques.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

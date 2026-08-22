@@ -1,0 +1,120 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+TABELA-VERDADE DO “SE...ENTÃO...”
+
+
+
+                                            Prof. Brunno Lima
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se...então...”
+      Condicional ( → )
+
+                                                                             →
+                                                                V        V
+                         SE...ENTÃO...
+                                                                V        F
+                                                                F        V
+                                                                F        F
+
+
+TABELA-VERDADE DO “SE...ENTÃO...”
+Prof. Brunno Lima
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se...então...”
+       Exemplo:
+
+
+
+       A: Se Mariana nasceu em Belo Horizonte, então ela é mineira.
+
+
+
+
+TABELA-VERDADE DO “SE...ENTÃO...”
+Prof. Brunno Lima
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se...então...”
+         P             Q            P→Q                            Exemplos:
+         V             V                                   Nasceu em BH/ É mineira
+
+         V              F                               Nasceu em BH/ Não é mineira
+
+          F             V                                Não nasceu em BH/ É mineira
+
+          F             F                            Não nasceu em BH / Não é mineira
+
+
+
+TABELA-VERDADE DO “SE...ENTÃO...”
+Prof. Brunno Lima
+
+
+
+
+                                      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se...então...”
+       Exemplo:
+
+
+
+       B: Se o veículo que estiver trafegando na via for caminhão, então no próximo
+       cruzamento vire à direita.
+
+
+
+
+TABELA-VERDADE DO “SE...ENTÃO...”
+Prof. Brunno Lima
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “se...então...”
+       Exemplo:
+
+         P             Q            P→Q                            Exemplos:
+         V             V                                   É caminhão/ Virou à direita
+
+         V              F                                É caminhão/ Não virou à direita
+
+         F              V                                Não é caminhão/ Virou à direita
+
+         F              F                             Não é caminhão / Não virou à direita
+
+
+TABELA-VERDADE DO “SE...ENTÃO...”
+Prof. Brunno Lima
+
+
+
+
+                                      https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,620 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+ESTOQUES - II
+BANCAS DIVERSAS - III
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Questão Comentada
+     01. (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) O sistema de controle de
+     estoque que consiste em determinar os consumos previstos para o item desejado; fixar
+     o período de consumo previsto; calcular o ponto de pedido em função do tempo de
+     reposição do item pelo fornecedor; calcular os estoques mínimos e máximos; e calcular
+     os lotes de compra é denominado:
+     a) Sistema dos máximos – mínimos.
+     b) Sistema duas gavetas.
+     c) Sistema das revisões periódicas.
+     d) Sistema MRP.
+     e) Just in Time.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Sistemas de Reposição Contínua
+       Sistemas de “Máximos e Mínimos”
+       ❑ Sistema de máximos e mínimos (também chamado de sistema de quantidades fixas):
+         nessa metodologia o sistema de reposição é automático.
+       ❑ Tem-se um volume de estoques mais um estoque de segurança. Tão logo o nível de
+         segurança é atingido deve ser recebido um novo lote de material, evitando o
+         consumo do estoque mínimo (ou de segurança). A data correta de compra para que
+         se verifique essa situação é o ponto do pedido.
+       ❑ Esse volume de segurança serve como um colchão e suporta as demandas da
+         organização enquanto a nova remessa de material não é entregue.
+       ❑ Abrange os itens das classes A, B e C, é razoavelmente automatizado e permite a
+         utilização da metodologia do Lote Econômico de Compras.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) O sistema de controle de
+     estoque que consiste em determinar os consumos previstos para o item desejado; fixar
+     o período de consumo previsto; calcular o ponto de pedido em função do tempo de
+     reposição do item pelo fornecedor; calcular os estoques mínimos e máximos; e calcular
+     os lotes de compra é denominado:
+     a) Sistema dos máximos – mínimos.
+     b) Sistema duas gavetas.
+     c) Sistema das revisões periódicas.
+     d) Sistema MRP.
+     e) Just in Time.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO CONSULPLAN/CRQ 3 RJ/Profissional de Suporte Técnico/2020) A rotatividade de
+     estoques, também conhecida como giro de estoques, é um importante indicador que deve ser
+     acompanhado pelos gestores, a fim de monitorar a eficiência dos produtos estocados. Quanto maior
+     o índice de giro, mais rapidamente a empresa consegue promover a renovação de seus estoques,
+     através das vendas, recuperando o capital investido. Outro significado importante do índice de giro é
+     obtido através de sua transformação para dias, semanas ou meses. Supondo uma rotatividade de
+     4,35 giros/ano e sua correspondência para dias, semanas e meses, assinale a alternativa correta.
+     a) 4,35 giros corresponde, aproximadamente, a 67 dias.
+     b) 4,35 giros corresponde, aproximadamente, a 18 semanas.
+     c) 4,35 giros corresponde, aproximadamente, a 4 meses e 15 dias.
+     d) 4,35 giros corresponde, aproximadamente, a 2 meses e 23 dias.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO CONSULPLAN/CRQ 3 RJ/Profissional de Suporte Técnico/2020) A rotatividade de
+     estoques, também conhecida como giro de estoques, é um importante indicador que deve ser
+     acompanhado pelos gestores, a fim de monitorar a eficiência dos produtos estocados. Quanto maior
+     o índice de giro, mais rapidamente a empresa consegue promover a renovação de seus estoques,
+     através das vendas, recuperando o capital investido. Outro significado importante do índice de giro é
+     obtido através de sua transformação para dias, semanas ou meses. Supondo uma rotatividade de
+     4,35 giros/ano e sua correspondência para dias, semanas e meses, assinale a alternativa correta.
+     a) 4,35 giros corresponde, aproximadamente, a 67 dias.
+     b) 4,35 giros corresponde, aproximadamente, a 18 semanas.
+     c) 4,35 giros corresponde, aproximadamente, a 4 meses e 15 dias.
+     d) 4,35 giros corresponde, aproximadamente, a 2 meses e 23 dias.
+     GABARITO - D
+        Se um material gira 4,35 vezes ao ano, significa que o estoque
+        médio é capaz de cobrir 83,9 dias (365/4,35) do ano ou cerca
+        de 2 meses (60 dias) e 23 dias.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     03. (FCC/Pref. Mun. Recife-PE/Analista de Gestão Administrativa/2019) Entre os
+     indicadores de gestão de estoques que são utilizados de forma corrente nas
+     organizações insere-se o nível de serviço, que mede:
+     a) a relação entre o número de requisições atendidas em face das requisições efetuadas.
+     b) a rotatividade dos itens repostos e o custo médio de manutenção em estoque.
+     c) o custo relativo de cada item de material em relação ao total do estoque mantido.
+     d) o número de vezes que o estoque de determinado item de material é renovado.
+     e) o período em que o estoque médio será capaz de atender a demanda média.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Nível de Serviço
+       Fómula
+
+        O Nível de Serviço nada mais é do que o percentual de pedidos/requisições de
+        materiais que são atendidos de maneira satisfatória pela área de administração de
+        materiais.
+
+
+       ❑ A fórmula é bastante simples, veja abaixo:
+
+
+                   Nível de Serviço = Pedidos Atendidos Satisfatoriamente / Pedidos Totais
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (FCC/Pref. Mun. Recife-PE/Analista de Gestão Administrativa/2019) Entre os
+     indicadores de gestão de estoques que são utilizados de forma corrente nas
+     organizações insere-se o nível de serviço, que mede:
+     a) a relação entre o número de requisições atendidas em face das requisições efetuadas.
+     b) a rotatividade dos itens repostos e o custo médio de manutenção em estoque.
+     c) o custo relativo de cada item de material em relação ao total do estoque mantido.
+     d) o número de vezes que o estoque de determinado item de material é renovado.
+     e) o período em que o estoque médio será capaz de atender a demanda média.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (FCC/AFAP/Assistente Administrativo de Fomento/2019) Entre as metodologias
+     aplicáveis para a gestão de materiais nas organizações, aquela que classifica os materiais
+     de acordo com seu grau de importância, geralmente financeira, exercendo sobre tais
+     itens uma gestão mais refinada, denomina-se:
+     a) Curva ABC.
+     b) Diagrama de Ishikawa.
+     c) Ciclo PDCA.
+     d) Matriz SWOT.
+     e) Downsizing.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Classificação ABC
+       Conceitos e Definição
+
+       ❑ Após as ordenação com base em sua importância relativa em valor, as classes da
+         curva ABC mostram o seguinte:
+
+        Classe A - Grupo de itens mais importantes para a organização e que devem ser tratados com
+        atenção especial. Não representam mais do que 20% do total de itens com os quais a organização
+        trabalha e chegam a representar 80% em valor.
+        Classe B - Grupo de itens em situação intermediária entre as classes A e C. Geralmente inclui cerca
+        de 30% dos itens trabalhados pela organização e apenas 15% em valor.
+
+        Classe C - Grupo de itens menos importantes que justificam pouca atenção por parte da
+        administração. São os mais numerosos e geralmente representam algo em torno de 50% dos itens
+        totais do portfólio, mas tão somente cerca de 5% em valor.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+Classificação ABC
+❑ A curva ABC é um instrumento fundamental para o administrador. Permite identificar
+  aqueles itens que merecem foco e tratamento adequado em relação a sua
+  administração. A curva ABC é obtida por meio da ordenação dos itens conforme sua
+  importância relativa em valor.
+
+     Classe dos Materiais     % em Número de Itens (eixo x)       % em Importância (eixo y)
+              A                         20%                                80%
+              B                         30%                                15%
+              C                         50%                                 5%
+                             
+
+
+---
+
+       Questão Comentada
+     04. (FCC/AFAP/Assistente Administrativo de Fomento/2019) Entre as metodologias
+     aplicáveis para a gestão de materiais nas organizações, aquela que classifica os materiais
+     de acordo com seu grau de importância, geralmente financeira, exercendo sobre tais
+     itens uma gestão mais refinada, denomina-se:
+     a) Curva ABC.
+     b) Diagrama de Ishikawa.
+     c) Ciclo PDCA.
+     d) Matriz SWOT.
+     e) Downsizing.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à
+     administração de materiais, julgue o item. A disponibilidade imediata de materiais é uma
+     das influências internas na formação de estoques.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRESS SC/Assistente Administrativo Júnior/2019) Com relação à
+     administração de materiais, julgue o item. A disponibilidade imediata de materiais é uma
+     das influências internas na formação de estoques.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (ADM&TEC/Pref. Mun. Major Isidoro-AL/Agente Administrativo/2019) Leia as
+     afirmativas a seguir:
+     I. Ao adotar o conceito de estoque zero, o Agente Administrativo define as metas de
+     redução dos níveis de estoque para próximo do zero.
+     II. O Agente Administrativo, ao determinar o estoque disponível de um item na
+     organização, está se referindo à sua quantidade em estoque, livre para uso.
+     III. O direito fundamental de acesso à informação permite o desenvolvimento do
+     controle social da administração pública.
+     Marque a alternativa CORRETA:
+     a) Nenhuma afirmativa está correta.
+     b) Está correta a afirmativa I, apenas.
+     c) Estão corretas as afirmativas II e III, apenas.
+     d) Estão corretas as afirmativas I e III, apenas.
+     e) Todas as afirmativas estão corretas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoque “zero”: JIT e Kanban
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que
+         já tem demanda assegurada. É popularmente conhecido por aquele sistema em que a demanda
+         "puxa" a produção (ao contrário dos sistemas que vimos até agora, inclusive o MRP), ou seja, a
+         fábrica apenas se mobiliza, planeja e produz aquilo que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de
+         80, trazendo a meta do "estoque zero". O JIT é comumente associado a expressões (que
+         aparecem muito em provas!) como "produção sem estoques", "eliminação do desperdício",
+         "melhora contínua de processos", etc.
+
+       ❑ O Kanban também é um sistema japonês de gestão de estoques que consiste na utilização de
+         cartões pelos integrantes da linha de produção. É considerada uma ferramenta com a mesma
+         filosofia do sistema Just in Time portanto tem a velocidade do abastecimento também
+         influenciada pela demanda real de produção. Atenção pois não é um sinônimo do JIT, mas sim
+         um instrumento que utiliza como filosofia os conceitos do JIT.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (ADM&TEC/Pref. Mun. Major Isidoro-AL/Agente Administrativo/2019) Leia as
+     afirmativas a seguir:
+     I. Ao adotar o conceito de estoque zero, o Agente Administrativo define as metas de
+     redução dos níveis de estoque para próximo do zero.
+     II. O Agente Administrativo, ao determinar o estoque disponível de um item na
+     organização, está se referindo à sua quantidade em estoque, livre para uso.
+     III. O direito fundamental de acesso à informação permite o desenvolvimento do
+     controle social da administração pública.
+     Marque a alternativa CORRETA:
+     a) Nenhuma afirmativa está correta.
+     b) Está correta a afirmativa I, apenas.
+     c) Estão corretas as afirmativas II e III, apenas.
+     d) Estão corretas as afirmativas I e III, apenas.
+     e) Todas as afirmativas estão corretas.
+     GABARITO - E
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema
+     de reposição contínua para o estoque de resmas de papel. O montante anual
+     despendido com o material permite que as aquisições sejam efetuadas por compra
+     direta, e o custo de pedido é de R$ 80,00. O consumo mensal de resmas é, em média,
+     de 100 unidades, o estoque de segurança é de 40 unidades e o tempo de
+     ressuprimento é de nove dias corridos. Na situação descrita, o ponto de pedido é
+     (considere que um mês tem 30 dias):
+     a) 40 unidades;
+     b) 60 unidades;
+     c) 65 unidades;
+     d) 70 unidades;
+     e) 72 unidades.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/DPE RJ/Técnico Superior Especializado/2019) Uma organização adota sistema
+     de reposição contínua para o estoque de resmas de papel. O montante anual
+     despendido com o material permite que as aquisições sejam efetuadas por compra
+     direta, e o custo de pedido é de R$ 80,00. O consumo mensal de resmas é, em média,
+     de 100 unidades, o estoque de segurança é de 40 unidades e o tempo de
+     ressuprimento é de nove dias corridos. Na situação descrita, o ponto de pedido é
+     (considere que um mês tem 30 dias):
+     a) 40 unidades;
+     b) 60 unidades;
+                              Ponto Pedido = ES + TR x CM
+     c) 65 unidades;          Estoque de Segurança = 40 unidades
+     d) 70 unidades;          Consumo Médio = 100 unidades/mês ou 3,33/dia
+     e) 72 unidades.          Tempo de Reposição = 9 dias
+                              PP = 40 + 9 x 3,33 = 70
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes
+     a uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A,
+     situada na capital do estado, as mercadorias armazenadas permanecem por pouco
+     tempo no almoxarifado, por isso a quantidade do estoque é menor do que a da loja B.
+     Na loja B, que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. A
+     utilização do sistema just in time não constitui opção a ser considerada para a loja B
+     reduzir custos de armazenagem e atender às demandas dos clientes.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Just in Time
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que já tem demanda
+         assegurada. É popularmente conhecido por aquele sistema em que a demanda "puxa" a produção (ao contrário
+         dos sistemas que vimos até agora, inclusive o MRP), ou seja, a fábrica apenas se mobiliza, planeja e produz aquilo
+         que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de 80, trazendo a
+         meta do "estoque zero". O JIT é comumente associado a expressões (que aparecem muito em provas!) como
+         "produção sem estoques", "eliminação do desperdício", "melhora contínua de processos", etc.
+
+       ❑ Veja a seguir alguns dos principais objetivos do JIT:
+
+                    - minimização dos prazos de fabricação
+                    - manutenção de inventários mínimos
+                    - flexibilização da produção com redução do tempo de preparação de máquinas
+                    - redução ao mínimo do tamanho dos lotes
+                    - produção "puxada" e não empurrada
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes
+     a uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A,
+     situada na capital do estado, as mercadorias armazenadas permanecem por pouco
+     tempo no almoxarifado, por isso a quantidade do estoque é menor do que a da loja B.
+     Na loja B, que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. A
+     utilização do sistema just in time não constitui opção a ser considerada para a loja B
+     reduzir custos de armazenagem e atender às demandas dos clientes.
+     a) CERTO
+     b) ERRADO                           Neste caso a adoção do sistema just in time é sim uma opção, especialmente para
+                                         reduzir os custos de armazenagem, eliminando as perdas e requisitando materiais
+     GABARITO - ERRADA                   apenas quando necessário para atender à demanda.
+
+                                                Ao mesmo tempo o sistema JIT atua com precisão ao longo do processo, o que
+                                                ajudará a loja B a aumentar o nível de serviço junto aos seus principais clientes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes
+     a uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A,
+     situada na capital do estado, as mercadorias armazenadas permanecem por pouco
+     tempo no almoxarifado, por isso a quantidade do estoque é menor do que a da loja B.
+     Na loja B, que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. O
+     planejamento do dimensionamento dos estoques pode ser alterado pelo cálculo do
+     retorno do capital para o equilíbrio da capacidade de fornecimento das lojas com seu
+     lucro e sua liquidez.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes
+     a uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A,
+     situada na capital do estado, as mercadorias armazenadas permanecem por pouco
+     tempo no almoxarifado, por isso a quantidade do estoque é menor do que a da loja B.
+     Na loja B, que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. O
+     planejamento do dimensionamento dos estoques pode ser alterado pelo cálculo do
+     retorno do capital para o equilíbrio da capacidade de fornecimento das lojas com seu
+     lucro e sua liquidez.
+     a) CERTO                         O dimensionamento dos estoques é sem dúvida influenciado pelo cálculo do retorno do
+                                      capital.
+     b) ERRADO                        Quanto maior o retorno obtido em outras utilizações do capital que não o seu emprego
+     GABARITO - CORRETA               em estoques, maior será a pressão para a diminuição dos estoques e emprego do capital
+                                      em ações de maior remuneração, como a atividade produtiva ou mesmo o mercado
+                                             financeiro.
+                                             Tais decisões estão diretamente relacionadas as decisões referentes ao lucro e a liquidez
+Administração de Materiais para Concursos
+                                             da organização, conforme também trazido pelo enunciado.
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     10. (FCC/SEFAZ-BA/Auditor Fiscal - TI/2019) Considere que se pretenda aperfeiçoar a gestão dos estoques de
+     insumos de informática de um determinado órgão da Administração estadual, tendo o responsável por tal tarefa
+     proposto a aplicação do método conhecido como Kanban. O diretor da área, contudo, considerou tal aplicação
+     incompatível com o regime legal aplicável às aquisições de material no âmbito da Administração pública. Tal
+     conclusão tomou por base:
+     a) as dificuldades decorrentes da aplicação do conceito just in time, normalmente atrelado a tal método, dadas as
+     etapas e os prazos previstos no processo licitatório aplicável às aquisições públicas.
+     b) premissas equivocadas, visto que o referido método pressupõe a manutenção de estoques em nível máximo, o que
+     não se compatibiliza com os prazos e as etapas inafastáveis para as aquisições por órgãos públicos.
+     c) a inviabilidade de adotar a principal premissa do referido método, que é a utilização de insumos importados,
+     selecionados de acordo com critérios de excelência, o que encontra empecilhos na legislação pátria.
+     d) a obrigatoriedade de compras fracionadas, que é o cerne da referida metodologia para assegurar a não
+     perecibilidade dos insumos, o que não faz sentido para a aquisição de itens não perecíveis como a maioria dos insumos
+     de informática.
+     e) a obrigatoriedade da adoção da modalidade pregão eletrônico para aquisições e contratação de serviços de
+     informática, o que não se compatibiliza com o referido método de gestão de estoques que pressupõe a aquisição pelo
+     menor preço.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Estoque “zero”: JIT e Kanban
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que
+         já tem demanda assegurada. É popularmente conhecido por aquele sistema em que a demanda
+         "puxa" a produção (ao contrário dos sistemas que vimos até agora, inclusive o MRP), ou seja, a
+         fábrica apenas se mobiliza, planeja e produz aquilo que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de
+         80, trazendo a meta do "estoque zero". O JIT é comumente associado a expressões (que
+         aparecem muito em provas!) como "produção sem estoques", "eliminação do desperdício",
+         "melhora contínua de processos", etc.
+
+       ❑ O Kanban também é um sistema japonês de gestão de estoques que consiste na utilização de
+         cartões pelos integrantes da linha de produção. É considerada uma ferramenta com a mesma
+         filosofia do sistema Just in Time portanto tem a velocidade do abastecimento também
+         influenciada pela demanda real de produção. Atenção pois não é um sinônimo do JIT, mas sim
+         um instrumento que utiliza como filosofia os conceitos do JIT.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (FCC/SEFAZ-BA/Auditor Fiscal - TI/2019) Considere que se pretenda aperfeiçoar a gestão dos estoques de
+     insumos de informática de um determinado órgão da Administração estadual, tendo o responsável por tal tarefa
+     proposto a aplicação do método conhecido como Kanban. O diretor da área, contudo, considerou tal aplicação
+     incompatível com o regime legal aplicável às aquisições de material no âmbito da Administração pública. Tal
+     conclusão tomou por base:
+     a) as dificuldades decorrentes da aplicação do conceito just in time, normalmente atrelado a tal método, dadas as
+     etapas e os prazos previstos no processo licitatório aplicável às aquisições públicas.
+     b) premissas equivocadas, visto que o referido método pressupõe a manutenção de estoques em nível máximo, o que
+     não se compatibiliza com os prazos e as etapas inafastáveis para as aquisições por órgãos públicos.
+     c) a inviabilidade de adotar a principal premissa do referido método, que é a utilização de insumos importados,
+     selecionados de acordo com critérios de excelência, o que encontra empecilhos na legislação pátria.
+     d) a obrigatoriedade de compras fracionadas, que é o cerne da referida metodologia para assegurar a não
+     perecibilidade dos insumos, o que não faz sentido para a aquisição de itens não perecíveis como a maioria dos insumos
+     de informática.
+     e) a obrigatoriedade da adoção da modalidade pregão eletrônico para aquisições e contratação de serviços de
+     informática, o que não se compatibiliza com o referido método de gestão de estoques que pressupõe a aquisição pelo
+     menor preço.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

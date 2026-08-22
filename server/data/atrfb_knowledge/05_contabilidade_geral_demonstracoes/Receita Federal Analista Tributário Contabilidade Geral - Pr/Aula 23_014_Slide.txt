@@ -1,0 +1,589 @@
+   CPC 25 – PROVISÕES, PASSIVOS
+CONTINGENTES E ATIVOS CONTINGENTES
+          QUESTÕES FCC
+
+                                                 Prof. Gilmar Possati
+
+
+
+            https://t.me/KakashiAssinaturasBot
+(FCC/TRF4/2025)
+A tabela a seguir apresenta as informações sobre os processos a que a empresa Cenário
+Obscuro S.A. está respondendo:
+                                                                                     Valor estimado de perda em
+              Processo        Probabilidade de perda avaliada em 31/12/2018
+                                                                                        31/12/2018 (em reais)
+            Trabalhista 1                           Provável                                   1.200.000
+            Trabalhista 2                           Possível                                    800.000
+               Fiscal 1                             Possível                                   2.400.000
+               Fiscal 2                             Provável                                    900.000
+             Ambiental                              Remota                                     2.500.000
+
+
+Com base nessas informações, a empresa Cenário Obscuro S.A. reconheceu como Provisões,
+no Balanço Patrimonial de 31/12/2018, o valor, em reais, de
+a) 3.200.000.
+b) 7.800.000.
+c) 5.300.000.
+d) 5.700.000.
+e) 2.100.000.
+
+
+                                                                         @profgilmarpossati         @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PI/2025)
+Durante o ano de 2020 uma empresa passou a responder a quatro processos. As informações sobre
+as estimativas de desembolso e as probabilidades de perda para cada processo, em 31/12/2020, são
+apresentadas no quadro a seguir:
+                                                                             Probabilidade de
+                       Processo      Montante Estimado de Perda (R$)
+                                                                                  Perda
+                        Fiscal                      2.000.000                    Provável
+                     Trabalhista 1                  3.700.000                    Possível
+                      Ambiental                     2.300.000                    Possível
+                     Trabalhista 2                  1.600.000                    Remota
+
+O valor a ser evidenciado no Balanço Patrimonial em 31/12/2020, exclusivamente em relação aos
+processos apresentados, era
+a) 9.600.000
+b) 6.000.000
+c) 0
+d) 2.000.000
+e) 3.600.000
+
+
+                                                                             @profgilmarpossati   @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FCC/TRT2/2025)
+A tabela a seguir apresenta os processos a que uma empresa está respondendo, identificando a
+probabilidade de perda definida pela empresa para cada um e os valores estimados a serem
+desembolsados. A análise e os valores se referem a 31/12/2023:
+                                                 Montante Estimado
+                           Processo                                          Probabilidade Perda
+                                                       (R$)
+                         Processo Cível             7.400.000                     Provável
+                      Processo Trabalhista          4.000.000                     Possível
+                        Processo Fiscal 1           8.800.000                     Provável
+                        Processo Fiscal 2           4.600.000                     Possível
+                      Processo Ambiental            3.200.000                     Remota
+
+De acordo com o que estabelece o Pronunciamento Técnico CPC 25 — Provisões, Passivos
+Contingentes e Ativos Contingentes, o valor que deveria ser contabilizado pela empresa no passivo,
+no Balanço Patrimonial de 31/12/2023, era, em reais:
+a) 16.200.000.
+b) 11.800.000.
+c) 28.000.000.
+d) 8.600.000.
+e) 24.800.000.
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PI/2025)
+O quadro a seguir apresenta informações sobre os processos judiciais a que a empresa Problemas
+Gerais S.A. está respondendo. São apresentadas as informações sobre os processos que foram
+contabilizados no Balanço Patrimonial de 31/12/2022 e os valores atualizados para 31/12/2023,
+incluindo novos processos que foram impetrados neste ano, a probabilidade de perda identificada
+para cada processo e os valores estimados para estas perdas.
+                                   31/12/2022                                         31/12/2023
+                              Provisão reconhecida
+           Nº do Processo                                            Probabilidade de         Valor reestimado da
+                             no Balanço Patrimonial
+                                                                    perda considerada         perda esperada (R$)
+                                       (RS)
+                 1                  1.500.000                              Provável                1.200.000
+                 2                       -                                 Provável                 720.000
+                 3                       -                                 Possível                 480.000
+                 4                 900.000.00                              Possível                 540.000
+Com base nas informações apresentadas e exclusivamente em relação aos processos analisados, o
+saldo evidenciado no Balanço Patrimonial de 31/12/2023 da empresa Problemas Gerais S.A. foi
+a) R$ 1.920.000
+b) R$ 1.020.000
+c) R$ 3.120.000
+d) R$ 3.600.000
+e) R$ 2.940.000                                             @profgilmarpossati @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PI/2025)
+O quadro a seguir apresenta informações sobre os processos judiciais a que a empresa Problemas
+Gerais S.A. está respondendo. São apresentadas as informações sobre os processos que foram
+contabilizados no Balanço Patrimonial de 31/12/2022 e os valores atualizados para 31/12/2023,
+incluindo novos processos que foram impetrados neste ano, a probabilidade de perda identificada
+para cada processo e os valores estimados para estas perdas.
+                                   31/12/2022                                         31/12/2023
+                              Provisão reconhecida
+           Nº do Processo                                            Probabilidade de         Valor reestimado da
+                             no Balanço Patrimonial
+                                                                    perda considerada         perda esperada (R$)
+                                       (RS)
+                 1                  1.500.000                              Provável                1.200.000
+                 2                       -                                 Provável                 720.000
+                 3                       -                                 Possível                 480.000
+                 4                 900.000.00                              Possível                 540.000
+Com base nas informações apresentadas e exclusivamente em relação aos processos analisados, o
+impacto reconhecido no resultado de 2023 da empresa Problemas Gerais S.A. foi
+a) um ganho de R$ 180.000
+b) uma perda de R$ 180.000
+c) uma perda de R$ 720.000
+d) um ganho de R$ 480.000
+e) um ganho de R$ 900.000                                 @profgilmarpossati  @canalcontabilizando
+                                      https://t.me/KakashiAssinaturasBot
+Passo 1 – Identificar o valor da provisão no ano 2022
+Valor da provisão em 31/12/2022 = 2.400.000 (1.500.000 + 900.000)
+Passo 2 - Identificar o valor da provisão no ano 2023
+Valor da provisão em 31/12/2023 = 1.920.000*
+*Processos classificados como “prováveis” (1.200.000 + 720.000)
+Passo 3 – Confrontar os dois valores (ano 2022 versus ano 2023)
+Valor provisão 2022 = 2.400.000 (1.500.000 + 900.000)
+Valor provisão 2023 = 1.920.000 (1.200.000 + 720.000)
+                         Ano 2023 < Ano 2022 = ganho líquido (receita)
+                   Ganho líquido (receita) = 2.400.000 – 1.920.000→ 480.000
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+(FCC/CGM-SP/2025)
+A empresa Alfa S.A. planeja lançar um novo equipamento eletrônico no mercado durante o segundo
+semestre de 2025. Para atrair clientes e alcançar o volume de vendas projetado de 20.000 unidades,
+a empresa estuda oferecer aos consumidores garantia de 2 anos, a contar da data da aquisição,
+responsabilizando-se pelo reparo ou substituição de itens com defeito de fabricação. Sua
+experiência pregressa com produtos similares a fez estimar que 80% dos equipamentos vendidos
+não apresentarão defeitos no período coberto pela garantia; 15% apresentarão pequenos defeitos.
+que devem culminar em gastos com reparos de cerca de R$ 750.000; e 5% apresentarão grandes
+defeitos, cujos gastos com reparos são estimados em R$ 1.500.000. Com base nessas informações, a
+empresa Alfa S.A., em 31/12/2024,
+a) deve reconhecer uma provisão no valor de R$ 187.500 em seu Balanço Patrimonial.
+b) está dispensada, conforme norma atinente à matéria, de realizar reconhecimento ou divulgação.
+c) deve divulgar um passivo contingente no valor de R$ 2.250.000 em suas Notas Explicativas.
+d) deve reconhecer uma provisão no valor de R$ 2.250.000 em seu Balanço Patrimonial.
+e) deve divulgar um passivo contingente no valor de R$ 187.500 em suas Notas Explicativas.
+
+
+
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FCC/CGM-SP/2025)
+Em 31/12/2022, uma empresa estava respondendo a cinco ações, sendo duas ações trabalhistas,
+duas ações fiscais e uma ação ambiental. A tabela a seguir apresenta os valores estimados devidos
+nessa data e a avaliação da probabilidade de perda que foi obtida após análises efetuadas por uma
+consultaria jurídica externa e aprovada pela diretoria da empresa:
+            Processo                         Montante Estimado (R$)      Probabilidade Perda
+            Ação Trabalhista 1                    3.200.000                   Possível
+            Ação Trabalhista 2                    4.000.000                   Possível
+            Ação Fiscal 1                         8.800.000                   Provável
+            Ação Fiscal 2                         7.400.000                   Provável
+            Ação Ambiental                        4.600.000                   Remota
+
+O valor contabilizado pela empresa no passivo, no Balanço Patrimonial de 31/12/2022, de acordo
+com o que estabelece o Pronunciamento Técnico CPC 25 - Provisões, Passivos Contingentes a Ativos
+Contingentes, foi, em reais:
+a) 11.800.000.
+b) 16.200.000.
+c) 28.000.000.
+d) 7.200.000.
+e) 23.400.000.                                             @profgilmarpossati  @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FCC/SEPLAN-PI/2024)
+De acordo com a NBC TG 25 – Provisões, Passivos Contingentes e Ativos Contingentes, um ativo
+contingente passa a ser considerado um ativo de fato e deve ser reconhecido no Balanço Patrimonial
+de uma empresa, quando a entrada de benefícios econômicos futuros for considerada
+a) recebida.
+b) praticamente certa.
+c) possível.
+d) provável, mas não praticamente certa.
+e) remota.
+
+
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+(FCC/Pref. J. Guararapes/2024)
+O setor jurídico da empresa Só Sucesso S.A realiza o acompanhamento periódico dos processos judiciais em
+que a entidade figura como parte. Esses processos são classificados de acordo com a probabilidade de saída da
+entidade ou de entrada na entidade de benefícios econômicos futuros. A última revisão feita pelo setor jurídico,
+em 30/04/2021, evidenciou que a situação dos processos judiciais da empresa 36 Sucesso S.A. era a seguinte:
+                         Probabilidade de saída ou de          Papel da empresa Valor Estimado
+                            entrada de benefícios              Só Sucesso S.A no da Obrigação
+                             econômicos futuros                    processo         (em R$)
+                                   Remoto                             Ré          1.000.000
+                                   Provável                           Ré           400.000
+                                   Possível                         Autora         600.000
+Nesse caso, o processo judicial da empresa Só Sucesso S.A classificado como
+a) provável, em que a entidade figura como ré, deve ser divulgado apenas em Notas Explicativas até que a
+salda de benefícios econômicos seja tida como certa e ele possa ser reconhecido no Balanço Patrimonial,
+b) remoto, em que a entidade figura como ré, deve ser divulgado em Notas Explicativas pelo valor estimado da
+obrigação, em virtude de sua materialidade.
+c) possível, em que a entidade figura como autora, deve ser reconhecido no Balanço Patrimonial pelo valor
+estimado da obrigação, uma vez que a entrada de benefícios econômicos para a entidade é certa.
+d) provável, em que a entidade figura como ré, deve ser reconhecido no Balanço Patrimonial pelo valor
+estimado da obrigação, pois atende os requisitos para ser tratado como provisão,
+e) possível, por se tratar de ativo contingente, só pode ser divulgado nas Notas Explicativas da entidade, em
+virtude do princípio do conservadorismo contábil.                     @profgilmarpossati    @canalcontabilizando
+                                           https://t.me/KakashiAssinaturasBot
+(FCC/MPE-AM/2024)
+Em dezembro de 20X3, uma tradicional indústria chinesa do segmento automobilístico iniciou suas atividades
+no Brasil. Para se destacar no mercado nacional e ganhar à confiança de seus clientes, a diretoria da indústria
+decidiu que, nas vendas de seu primeiro modelo, cujo lançamento está previsto para 20 de janeiro de 20X4, a
+empresa concederá uma garantia aos seus clientes. Essa garantia abrange consertos - por reparo ou
+substituição de peças - de defeitos apresentados pelo veículo no prazo de cinco anos a contar da data da
+venda. A entidade estima que venderá 10.000 unidades de seu novo modelo em 20X4, a um preço unitário de
+R$ 80.000. Por experiências anteriores com modelos semelhantes, entende-se como provável que os clientes
+acionem a garantia no prazo concedido. A expectativa para o próximo ano é de que 80% dos veículos não
+apresentem defeitos, 15% tenham pequenos defeitos, cuja estimativa de gasto para reparação é de R$
+300.000, e que 5% tenham defeitos grandes, cuja estimativa de gasto para reparação é de R$ 1.000.000. Com
+base apenas nessas informações, a Indústria, em 31/12/20X3,
+a) não deve reconhecer provisão nem divulgar passivo contingente.
+b) deve reconhecer uma provisão em Balanço Patrimonial no valor de R$ 95.000.
+c) deve reconhecer uma provisão em Balanço Patrimonial no valor de R$ 50.000 e, adicionalmente, divulgar um
+passivo contingente em Notas Explicativas no valor de R$ 45.000.
+d) deve reconhecer uma provisão em Balanço Patrimonial no valor de R$ 1.300.000.
+e) deve divulgar um passivo contingente em Notas Explicativas no valor de R$ 1.300.000.
+
+
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+(FCC/TJ-BA/2024)
+A empresa Bello Colchão identificou, em dezembro de 20X8, os passivos contingentes apresentados a seguir:
+
+      Origem do passivo contingente           Valor estimado (Em R$)              Classificação dada pela área jurídica
+          Processos trabalhistas                      250.000                                   Provável
+           Processos tributários                      100.000                                    Possível
+            Processos judiciais                       187.000                                    Remoto
+
+
+Com base nessas informações, a empresa Bello Colchão é requerida a apresentar em seu Balanço Patrimonial
+de 31/12/20X8 e em suas notas explicativas, respectivamente, passivo contingente no valor, em reais, de
+a) 537.000 e zero
+b) 250.000 e 287.000
+c) 350.000 e 187.000
+d) 250.000 e 350.000
+e) 250.000 e zero
+
+
+
+
+                                                                             @profgilmarpossati       @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+(FCC/Pref. J. Guararapes/2024)
+O setor jurídico da empresa Abacaxi SA acompanha periodicamente os processos em que a entidade figura como
+parte. Um desses processos. aberto pela empresa Laranja S.A .. originou-se do suposto não cumprimento de cláusulas
+do contrato comercial estabelecido entre ambas as entidades. A seguir, apresenta-se o histórico do referido processo
+judicial:
+- 10/06/2020: Abertura do processo judicial pela empresa Laranja S.A., que exige uma indenização de R$ 600.000.00.
+em virtude das perdas comerciais sofridas. O setor jurídico da Abacaxi S.A. classificou como remota a chance de saída
+de recursos capazes de gerar benefícios econômicos da entidade.
+- 31/03/2023: O juiz responsável pelo processo deu causa ganha à empresa Laranja S.A. . No entanto, o valor da
+obrigação não pôde ser mensurado com suficiente confiabilidade. Por essa razão, designou-se perito contábil para a
+realização dos cálculos. O setor jurídico da Abacaxi S.A. passou a considerar possível a saída de recursos capazes de
+gerar beneficias econômicos da entidade.
+- 26/11/2023: O perito contábil estabeleceu que o valor que deveria ser pago, a título de indenização. à empresa
+Laranja S.A. era de R$ 1.156.000.00. Diante disso. o setor jurídico da empresa Abacaxi S.A. passou a classificar o
+processo como de provável salda de recursos capazes de gerar benefícios econômicos da entidade.
+Com base nessas informações, a área contábil da empresa Abacaxi S.A.
+a) reconheceu uma provisão no Balanço Patrimonial, em 26/11/2023, peto valor de RS 1.156.000.
+b) divulgou uma provisão em Notas Explicativas, em 31/03/2023, pelo valor de R$ 600.000, que era a melhor
+estimativa à época.
+c) reconheceu um passivo contingente no Balanço Patrimonial, em 26/11/2023, pelo valor de R$ 1.156.000.
+d) reconheceu uma provisão no Balanço Patrimonial, em 31/03/2023, ainda que sem valor definido.
+e) divulgou um passivo contingente em Notas Explicativas, em 10/06/2020, pelo valor de RS 600.000.
+                                                                                 @profgilmarpossati   @canalcontabilizando
+                                            https://t.me/KakashiAssinaturasBot
+(FCC/Copergás/2023)
+A empresa KLW S.A. está respondendo a diversos processos judiciais de natureza tributária, trabalhista e cível.
+As informações sobre esses processos, em 31/12/X1, são apresentadas a seguir:
+
+                                   Número do          Valor estimado           Probabilidade
+                                    Processo            (em reais)               de Perda
+                                       1                 500.000                  Possível
+                                       2                 120.000                 Provável
+                                       3                 200.000                 Provável
+                                       4                 100.000                  Possível
+                                       5                 250.000                  Remota
+
+O valor total que deve ser reconhecido no passivo, no Balanço Patrimonial de 31/12/X1 da empresa KLW S.A.,
+exclusivamente em relação aos processos citados é, em reais:
+a) Zero.
+b) 920.000.
+c) 1.170.000.
+d) 320.000.
+e) 600.000.
+
+
+
+
+                                                                                    @profgilmarpossati   @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+(FCC/TRT18/2023)
+O departamento jurídico da empresa Problemas Gerais S.A. apresentou, em 31/12/2020, as avaliações de
+diversos processos a que a empresa está respondendo, as quais constam no quadro a seguir:
+
+                                                           Montante              Probabilidade de
+                                 Processo
+                                                         Estimado (R$)                Perda
+                            Processo Cível                 1.480.000                 Provável
+                            Processo
+                                                             800.000                 Possível
+                            Trabalhista
+                            Processo Fiscal 1               1.760.000               Provável
+                            Processo Fiscal 2                920.000                Possível
+                            Processo
+                                                             640.000                 Remota
+                            Ambiental
+
+A diretoria da empresa acatou a avaliação apresentada pelo departamento jurídico e fez a contabilização com
+base nas informações constantes no quadro anterior, de acordo com o que estabelece o Pronunciamento
+Técnico CPC 25 − Provisões, Passivos Contingentes e Ativos Contingentes.
+O valor contabilizado no passivo, no Balanço Patrimonial de 31/12/2020, foi, em reais:
+a) 5.600.000
+b) 1.720.000
+c) 4.960.000
+d) 2.360.000
+e) 3.240.000                                                         @profgilmarpossati   @canalcontabilizando
+                                            https://t.me/KakashiAssinaturasBot
+(FCC/TRT22/2023)
+As informações constantes do quadro a seguir são referentes a diversos processos a que uma empresa está
+respondendo e foram obtidas para a preparação do Balanço Patrimonial de 31/12/2019. O Departamento
+Jurídico da empresa fez uma análise minuciosa e apresentou as estimativas de desembolso e as probabilidades
+de perda para cada caso:
+                                                     Montante Estimado de
+                    Tipo de Processo                                               Probabilidade de Perda
+                                                          perda (R$)
+                   Processo Fiscal                         400.000                         Provável
+                   Processo Trabalhista                    740.000                         Possível
+                   Processo Ambiental                      460.000                         Possível
+                   Processo Trabalhista                    320.000                         Remota
+O valor a ser contabilizado como provisão no passivo, em 31/12/2019, é, em reais:
+a) Zero.
+b) 400.000.
+c) 720.000.
+d) 1.200.000.
+e) 320.000.
+
+
+
+                                                                               @profgilmarpossati     @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-AP/2022)
+Uma empresa está respondendo a diversas ações e a assessoria jurídica da empresa apresentou as informações
+sobre a possibilidade de perda dos diversos processos e os prováveis valores com que a empresa terá que
+arcar. A tabela a seguir apresenta as informações, em 31/12/2019, referentes às várias ações e ainda não
+ocorreu qualquer audiência ou julgamento para os processos:
+
+                      Tipo de Processo                   Valor Estimado (R$)           Probabilidade Perda
+                Ação Fiscal relativa ao PIS                  2.000.000                      Provável
+                Ação Fiscal relativa à CSSL                  7.200.000                      Provável
+                Ação Fiscal relativa ao IRPJ                 4.800.000                      Remota
+                Ação sobre danos ambientais                  1.200.000                      Possível
+                Ações Trabalhistas                           4.800.000                      Provável
+
+Com base nas informações da tabela e sabendo que todos os valores estimados são confiáveis, o valor total
+que deveria ser evidenciado no passivo, no Balanço Patrimonial da empresa, em 31/12/2019, é, em reais,
+a) 0 (zero)
+b) 15.200.000
+c) 1.200.000
+d) 14.000.000
+e) 20.000.000
+
+
+                                                                               @profgilmarpossati     @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-AP/2022)
+A Cia. Devedora está respondendo a alguns processos judiciais e são conhecidas as informações apresentadas
+na tabela a seguir:
+                                                                                                   (Valores em reais)
+                                                                     Probabilidade de perda    Valor estimado da
+                                   Valor reconhecido no
+                Nº do Processo                                          considerada em              perda em
+                                  passivo em 31/12/2020
+                                                                          31/12/2021              31/12/2021
+                      1                  180.000                            Possível                 140.000
+                      2                   90.000                            Provável                 120.000
+                      3                     0                               Provável                 80.000
+                      4                     0                               Possível                 210.000
+
+Com base nestas informações, o impacto reconhecido na Demonstração do Resultado de 2021 e o valor
+contábil total apresentado no Balanço Patrimonial de 31/12/2021 da Cia. Devedora, decorrentes
+exclusivamente a estes processos, foram, respectivamente, em reais,
+a) 30.000 positivo e 200.000.
+b) 280.000 negativo e 550.000.
+c) 70.000 positivo e 200.000.
+d) 110.000 negativo e 200.000.
+e) 290.000 negativo e 550.000.
+
+                                                                                 @profgilmarpossati      @canalcontabilizando
+                                        https://t.me/KakashiAssinaturasBot
+Passo 1 – Identificar o valor da provisão no ano 2020
+Valor da provisão em 31/12/2020 = 270.000 (180.000 + 90.000)
+Passo 2 - Identificar o valor da provisão no ano 2021
+Valor da provisão em 31/12/2021 = 200.000*
+*Processos classificados como “prováveis” (120.000 + 80.000)
+Passo 3 – Confrontar os dois valores (ano 2020 versus ano 2021)
+Valor provisão 2020 = 270.000 (180.000 + 90.000)
+Valor provisão 2021 = 200.000 (120.000 + 80.000)
+                          Ano 2021 < Ano 2020 = ganho líquido (receita)
+                      Ganho líquido (receita) = 270.000 – 200.000→ 70.000
+
+
+
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+(FCC/TCE-GO/2022)
+A Cia. ABC está respondendo a diversos processos. A assessoria jurídica da empresa apresentou, em
+30/06/20X8, o seguinte relatório apontando os montantes e riscos vinculados a potenciais desembolsos para
+cada um dos processos:
+                                                                        Montante estimado
+                                         Natureza do                                         Probabilidade de
+                 Identificação                                                 de
+                                          processo                                                perda
+                                                                          desembolso
+                      Processo 1          Ambiental                        R$ 280.000            Possível
+                      Processo 2          Trabalhista                      R$ 350.000            Provável
+                      Processo 3          Trabalhista                      R$ 175.000            Remota
+                      Processo 4             Fiscal                        R$ 140.000            Provável
+
+O valor das provisões evidenciado no passivo, no Balanço Patrimonial de 30/06/20X8 da Cia. ABC, foi:
+a) R$ 945.000.
+b) R$ 280.000.
+c) R$ 455.000.
+d) R$ 490.000.
+e) R$ 770.000.
+
+
+
+                                                                                  @profgilmarpossati        @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PE/2022)
+A conta Provisões evidenciada no balanço patrimonial de uma empresa, em 31/12/2020, apresentava o saldo
+de R$ 1.950.000 com a seguinte composição:
+
+                                       Processo                                 Montante Estimado (R$)
+                                      Processo 1                                      900.000
+                                      Processo 2                                      600.000
+                                      Processo 3                                      450.000
+Para a elaboração do Balanço Patrimonial de 31/12/2021, a empresa obteve as seguintes novas avaliações
+sobre estes processos e sobre um novo processo a que a empresa está respondendo:
+                      Processo                     Montante Estimado (R$)                        Probabilidade Perda
+                     Processo 1                          750.000                                      Provável
+                     Processo 2                          660.000                                      Possível
+                     Processo 3                         1.500.000                                     Possível
+                  Processo 4 (novo)                     1.740.000                                     Provável
+ O valor total evidenciado na conta Provisões no Balanço Patrimonial de 31/12/2021 e a variação negativa no
+resultado de 2021 foram, respectivamente, em reais:
+a) 4.650.000 e 2.700.000
+b) 2.490.000 e 1.740.000
+c) 2.160.000 e 210.000
+d) 2.160.000 e 1.740.000
+e) 2.490.000 e 540.000                                              @profgilmarpossati   @canalcontabilizando
+                                           https://t.me/KakashiAssinaturasBot
+Passo 1 – Identificar o valor da provisão no ano 2020
+Valor da provisão em 31/12/2020 = 1.900.000 (900.000 + 600.000 + 450.000)
+Passo 2 - Identificar o valor da provisão no ano 2021
+Valor da provisão em 31/12/2021 = 2.490.000*
+*Processos classificados como “prováveis” (750.000 + 1.740.000)
+Passo 3 – Confrontar os dois valores (ano 2020 versus ano 2021)
+Valor provisão 2020 = 1.900.000 (180.000 + 90.000)
+Valor provisão 2021 = 200.000 (120.000 + 80.000)
+                                  Ano 2021 > Ano 2020 = despesa
+                  Variação negativa (despesa)= 2.490.000 – 1.900.000→ 590.000
+
+
+
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-PE/2022)
+A empresa Spitz S.A. possuía alguns processos judiciais em andamento, cujas informações são dadas a seguir.
+
+                              Provisão reconhecida          Probabilidade de     Valor reestimado da
+                  Número do
+                               em 31/12/20X0 (em           perda considerada    perda em 31/12/20X1
+                   processo
+                                     Reais)                  em 31/12/20X1            (em Reais)
+                      1             200.000                     Provável               170.000
+                      2                 -                       Provável                75.000
+                      3                 -                       Remoto                 130.000
+                      4                 -                       Provável                45.000
+                      5             100.000                     Possível               115.000
+
+O valor em Reais (R$) que a empresa Spitz S.A. deve reconhecer no resultado de 20X1 e no Balanço Patrimonial
+de 31/12/20X1 são, respectivamente:
+a) Resultado positivo de 105.000 e saldo de 405.000.
+b) Resultado negativo de 90.000 e saldo de 290.000.
+c) Resultado negativo de 105.000 e saldo de 405.000.
+d) Resultado negativo de 120.000 e saldo de 290.000.
+e) Resultado positivo de 10.000 e saldo de 290.000.
+
+
+
+                                                                               @profgilmarpossati      @canalcontabilizando
+                                          https://t.me/KakashiAssinaturasBot
+Passo 1 – Identificar o valor da provisão no ano 20X0
+Valor da provisão em 31/12/20X0 = 300.000 (200.000 + 100.000)
+Passo 2 - Identificar o valor da provisão no ano 20X1
+Valor da provisão em 31/12/20X1 = 290.000*
+*Processos classificados como “prováveis” (170.000 + 75.000 + 45.000)
+Passo 3 – Confrontar os dois valores (ano 20X0 versus ano 20X1)
+Valor provisão 20X0 = 300.000 (200.000 + 100.000)
+Valor provisão 20X1 = 290.000 (170.000 + 75.000 + 45.000)
+                  Ano 20X1 < Ano 20X0 = ganho líquido (receita)
+               Ganho líquido (receita) = 300.000 – 290.000→ 10.000
+
+
+
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+(FCC/SEFAZ-SC/2021)
+As informações sobre os processos judiciais que uma determinada empresa está respondendo são
+apresentadas na tabela a seguir:
+
+                                    31/12/2019                            31/12/2020
+                                     Provisão
+                       No do                               Probabilidade de Valor reestimado
+                                  reconhecida no
+                      Processo                                  perda               da
+                                      Balanço
+                                                             considerada    perda esperada
+                                    Patrimonial
+                         1          R$ 800.000                    Provável        R$ 680.000
+                         2          R$ 310.000                    Possível        R$ 230.000
+                         3               -                        Provável        R$ 150.000
+                         4               -                        Remota          R$ 210.000
+
+Com base nas informações acima, o impacto total reconhecido no resultado da empresa no ano de 2020,
+decorrente destes processos judiciais, foi
+a) uma perda de R$ 150.000.
+b) um ganho de R$ 280.000.
+c) um ganho de R$ 200.000.
+d) um ganho de R$ 120.000.
+e) uma perda de R$ 30.000.
+
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                     https://t.me/KakashiAssinaturasBot
+Passo 1 – Identificar o valor da provisão no ano 2019
+Valor da provisão em 31/12/2019 = 1.110.000 (800.000 + 310.000)
+Passo 2 - Identificar o valor da provisão no ano 2020
+Valor da provisão em 31/12/2020 = 830.000*
+*Processos classificados como “prováveis” (680.000 + 150.000)
+Passo 3 – Confrontar os dois valores (ano 2019 versus ano 2020)
+Valor provisão 2019 = 1.110.000 (800.000 + 310.000)
+Valor provisão 2020 = 830.000 (680.000 + 150.000)
+                Ano 20X1 < Ano 20X0 = ganho líquido (receita)
+           Ganho líquido (receita) = 1.110.000 – 830.000→ 280.000
+
+
+
+
+                                                                @profgilmarpossati   @canalcontabilizando
+                           https://t.me/KakashiAssinaturasBot
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+

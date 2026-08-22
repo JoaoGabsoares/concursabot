@@ -1,0 +1,2098 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 23_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '23'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 103
+- Art. 105.
+- Art. 49.
+- Art. 93.
+- "art.\n      37"
+- art. 131
+- art. 133
+- art. 169
+---
+
+# Passo Estratégico de Direito
+
+Aula 21
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Constitucional
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                           17 de Setembro de 2025
+
+---
+
+      Tulio Lages
+      Aula 21
+
+                                                                                     Índice
+1) Simulado - Defesa do Estado - ME
+
+
+2) Simulado - Funções Essenciais à Justiça - ME
+
+
+3) Simulado - Poder Judiciário - ME
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           40
+
+                                                             
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+                          SIMULADO – DEFESA DO ESTADO
+1) Sobre a disciplina constitucional da Defesa do Estado e das Instituições Democráticas, é incorreto
+afirmar:
+
+a) A decretação de estado de defesa requer prévia oitiva dos Conselhos da República e de Defesa Nacional
+e, posteriormente, aprovação do Congresso Nacional.
+
+b) O estado de defesa e o estado de sítio somente poderão ser decretados pelo Presidente da República.
+
+c) As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só podendo ser suspensas
+mediante o voto de dois terços dos membros da Casa respectiva, nos casos de atos praticados fora do recinto
+do Congresso Nacional, que sejam incompatíveis com a execução da medida.
+
+d) É da competência exclusiva do Congresso Nacional aprovar o estado de defesa e a intervenção federal,
+autorizar o estado de sítio, ou suspender qualquer uma dessas medidas
+
+e) O decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a
+serem abrangidas e indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem, dentre as quais
+incluem-se restrições aos direitos de reunião e de sigilo de correspondência, bancário e de comunicação
+telefônica.
+
+2) Sobre o estado de defesa e o estado de sítio, nos termos da Constituição Federal, pode-se afirmar que:
+
+a) O estado de sítio é medida excepcional, que tem o objetivo de restabelecer a ordem pública ou a paz social
+em lugares restritos e determinados.
+
+b) O estado de defesa tem caráter exclusivamente repressivo e possui como requisitos para sua decretação
+a grave instabilidade institucional ou calamidades de grandes proporções na natureza.
+
+c) Na vigência do estado de defesa, a prisão por crime contra o Estado pode ser determinada diretamente
+pelo executor da medida, sem que haja necessidade de autorização prévia do juiz competente.
+
+d) O Presidente da República pode solicitar ao Congresso Nacional autorização para decretar o estado de
+defesa nos casos de comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a
+ineficácia de medida tomada durante o estado de sítio.
+
+e) O estado de sítio é ato discricionário do Presidente da República, instaurado via decreto, que deve ser
+antecedido de prévia aprovação dos Conselhos da República e de Defesa Nacional, bem como do Congresso
+Nacional.
+
+3) Considerando as disposições constitucionais e a jurisprudência relacionada ao tema Forças Armadas, é
+correto afirmar que:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 3
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+a) ao militar é permitida a sindicalização e proibido o direito de fazer greve.
+
+b) o militar, enquanto em serviço ativo, pode estar filiado a partidos políticos.
+
+c) não caberá habeas corpus em relação a punições disciplinares militares.
+
+d) os homens, ainda que eclesiásticos, são sujeitos ao serviço militar obrigatório, sendo as mulheres isentas
+durante tempos de paz.
+
+e) o oficial só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível, por
+decisão de seu comandante superior apenas.
+
+4) É uma atribuição da Polícia Federal:
+
+a) prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem
+prejuízo da ação falimentar e de outros órgãos públicos nas respectivas áreas de competência.
+
+b) exercer o patrulhamento ostensivo das rodovias federais.
+
+c) exercer, juntamente com a Polícia Civil do Distrito Federal, as funções de polícia judiciária da União.
+
+d) apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses
+da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática
+tenha repercussão interestadual ou internacional e exija repressão uniforme.
+
+e) exercer as funções de polícia fluvial, aeroportuária e de fronteiras.
+
+5) Quanto ao capítulo Segurança Pública, previsto na Constituição Federal, é correto afirmar:
+
+a) A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu
+patrimônio nas vias públicas compreende a educação, arquitetura e fiscalização de trânsito, além de outras
+atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente.
+
+b) A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu
+patrimônio nas vias públicas, compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos
+respectivos órgãos ou entidades executivos e seus agentes de trânsito, estruturados em Carreira.
+
+c) A Constituição Estadual disciplinará a organização e o funcionamento dos órgãos responsáveis pela
+segurança pública, de maneira a garantir a eficiência de suas atividades.
+
+d) As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-
+se, juntamente com as polícias civis e as policiais penais estaduais e distrital, aos Secretários de Segurança
+Pública dos Estados, do Distrito Federal e dos Territórios.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   4
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+e) Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros
+civis e militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.
+
+6) Assinale a alternativa que não esteja de acordo com a Carta Magna de 1988:
+
+a) As polícias penais integram o rol de órgãos que compõem a segurança pública.
+
+b) A polícia federal é órgão permanente do sistema de segurança pública previsto constitucionalmente.
+
+c) Os Municípios deverão constituir guardas municipais destinadas à proteção de seus bens, serviços e
+instalações.
+
+d) A polícia federal é organizada e mantida pela União, e estruturada em carreira.
+
+e) O patrulhamento ostensivo das ferrovias federais cabe à polícia ferroviária federal.
+
+7) Assinale a alternativa correta, conforme o texto da Constituição Federal de 1988.
+
+a) As polícias federal, rodoviária federal, ferroviária federal, civis, militares e penais foram previstas
+expressamente no capítulo constitucional da segurança pública como órgãos permanentes.
+
+b) À polícia militar federal cabe a polícia ostensiva e a preservação da ordem pública federal.
+
+c) As polícias penais apuram infrações penais contra a ordem social.
+
+d) Aos bombeiros ferroviários incumbe a execução de atividades de defesa civil das ferrovias.
+
+e) A polícia penal é vinculada ao órgão administrador do sistema penal da unidade federativa a que pertence.
+
+8) Conforme a Constituição Federal de 1988, a segurança pública não:
+
+a) é dever do Estado
+
+b) é direito e responsabilidade de todos
+
+c) é exercida para a preservação da ordem pública
+
+d) é exercida para a garantia da lei e da ordem
+
+e) é exercida para a preservação da incolumidade das pessoas
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                5
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+                                                  GABARITO
+
+                      1. E              2. C                          3. C   4. D            5. B
+
+                      6. C              7. E                          8. D
+
+              SIMULADO COMENTADO – DEFESA DO ESTADO
+1) Sobre a disciplina constitucional da Defesa do Estado e das Instituições Democráticas, é incorreto
+afirmar:
+                                                         ==219a34==
+
+a) A decretação de estado de defesa requer prévia oitiva dos Conselhos da República e de Defesa Nacional
+e, posteriormente, aprovação do Congresso Nacional.
+
+b) O estado de defesa e o estado de sítio somente poderão ser decretados pelo Presidente da República.
+
+c) As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só podendo ser suspensas
+mediante o voto de dois terços dos membros da Casa respectiva, nos casos de atos praticados fora do recinto
+do Congresso Nacional, que sejam incompatíveis com a execução da medida.
+
+d) É da competência exclusiva do Congresso Nacional aprovar o estado de defesa e a intervenção federal,
+autorizar o estado de sítio, ou suspender qualquer uma dessas medidas
+
+e) O decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a
+serem abrangidas e indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem, dentre as quais
+incluem-se restrições aos direitos de reunião e de sigilo de correspondência, bancário e de comunicação
+telefônica.
+
+Comentários
+
+Letra A - correta. A assertiva está de acordo com o art. 136 da CF/88:
+
+      Art. 136. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa
+      Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais
+      restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente
+      instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
+
+      (...)
+
+      § 4º Decretado o estado de defesa ou sua prorrogação, o Presidente da República, dentro de vinte
+      e quatro horas, submeterá o ato com a respectiva justificação ao Congresso Nacional, que
+      decidirá por maioria absoluta.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 6
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+      § 5º Se o Congresso Nacional estiver em recesso, será convocado, extraordinariamente, no prazo
+      de cinco dias.
+
+      § 6º O Congresso Nacional apreciará o decreto dentro de dez dias contados de seu recebimento,
+      devendo continuar funcionando enquanto vigorar o estado de defesa.
+
+      § 7º Rejeitado o decreto, cessa imediatamente o estado de defesa.
+
+Letra B - correta. Nos termos do art. 84, inciso IX, da CF/88, decretar o estado de defesa e o estado de sítio
+são competências privativas do Presidente da República.
+
+      Art. 84. Compete privativamente ao Presidente da República:
+
+      (...)
+
+      IX - decretar o estado de defesa e o estado de sítio;
+
+Letra C - correta. A assertiva está de acordo com o art. 53, § 8º, da CF/88. Atenção ao quórum!
+
+      Art. 53, § 8º As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só
+      podendo ser suspensas mediante o voto de dois terços dos membros da Casa respectiva, nos casos
+      de atos praticados fora do recinto do Congresso Nacional, que sejam incompatíveis com a
+      execução da medida.
+
+Letra D - correta. De acordo com o art. 49, inciso IV, da CF/88, o Congresso Nacional aprova o estado de
+defesa e a intervenção federal (controle político imediato posterior) e autoriza o estado de sítio (controle
+político prévio).
+
+      Art. 49. É da competência exclusiva do Congresso Nacional:
+
+      (...)
+
+      IV - aprovar o estado de defesa e a intervenção federal, autorizar o estado de sítio, ou suspender
+      qualquer uma dessas medidas;
+
+Letra E - errada. Não há previsão de restrição de sigilo bancário. Vejamos o que diz o art. 136, § 1º, da CF/88:
+
+      Art. 136, § 1º O decreto que instituir o estado de defesa determinará o tempo de sua duração,
+      especificará as áreas a serem abrangidas e indicará, nos termos e limites da lei, as medidas
+      coercitivas a vigorarem, dentre as seguintes:
+
+      I - restrições aos direitos de:
+
+      a) reunião, ainda que exercida no seio das associações;
+
+      b) sigilo de correspondência;
+
+      c) sigilo de comunicação telegráfica e telefônica;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   7
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+      II - ocupação e uso temporário de bens e serviços públicos, na hipótese de calamidade pública,
+      respondendo a União pelos danos e custos decorrentes.
+
+Gabarito: Letra E.
+
+2) Sobre o estado de defesa e o estado de sítio, nos termos da Constituição Federal, pode-se afirmar que:
+
+a) O estado de sítio é medida excepcional, que tem o objetivo de restabelecer a ordem pública ou a paz social
+em lugares restritos e determinados.
+
+b) O estado de defesa tem caráter exclusivamente repressivo e possui como requisitos para sua decretação
+a grave instabilidade institucional ou calamidades de grandes proporções na natureza.
+
+c) Na vigência do estado de defesa, a prisão por crime contra o Estado pode ser determinada diretamente
+pelo executor da medida, sem que haja necessidade de autorização prévia do juiz competente.
+
+d) O Presidente da República pode solicitar ao Congresso Nacional autorização para decretar o estado de
+defesa nos casos de comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a
+ineficácia de medida tomada durante o estado de sítio.
+
+e) O estado de sítio é ato discricionário do Presidente da República, instaurado via decreto, que deve ser
+antecedido de prévia aprovação dos Conselhos da República e de Defesa Nacional, bem como do Congresso
+Nacional.
+
+Comentários
+
+Letra A - incorreta. De acordo com o art. 136 da CF/88, é o estado de defesa que tem por objetivo preservar
+ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social.
+
+      Art. 136. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa
+      Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais
+      restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente
+      instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
+
+Letra B - incorreta. O estado de defesa tem por objetivo preservar ou prontamente restabelecer a ordem
+pública ou a paz social em lugares restritos e determinados. Portanto, é preventivo quando busca evitar a
+crise e repressivo quando incide sobre crise já estabelecida. Seus requisitos são a grave e iminente
+instabilidade institucional e calamidades de grandes proporções na natureza.
+
+      Art. 136. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa
+      Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais
+      restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente
+      instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
+
+Letra C - correta. A prisão por crime contra o Estado pode ser determinada diretamente pelo executor da
+medida, sem que haja necessidade de autorização ou determinação prévia do juiz competente. Por outro
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 8
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+lado, este deve ser comunicado sobre a prisão, devendo ser obedecidos, ainda, as demais regras específicas
+sobre a prisão e detenção na vigência do Estado de Defesa previstas no § 3º, incisos I a III, do art. 136 da
+CF/88:
+
+      Art. 136, § 3º Na vigência do estado de defesa:
+
+      I - a prisão por crime contra o Estado, determinada pelo executor da medida, será por este
+      comunicada imediatamente ao juiz competente, que a relaxará, se não for legal, facultado ao
+      preso requerer exame de corpo de delito à autoridade policial;
+
+      II - a comunicação será acompanhada de declaração, pela autoridade, do estado físico e mental
+      do detido no momento de sua autuação;
+
+      III - a prisão ou detenção de qualquer pessoa não poderá ser superior a dez dias, salvo quando
+      autorizada pelo Poder Judiciário;
+
+Letra D - incorreta. De acordo com o art. 137, inciso I, da CF/88, o Presidente da República pode, ouvidos o
+Conselho da República e o Conselho de Defesa Nacional, solicitar ao Congresso Nacional autorização para
+decretar o estado de sítio, e não estado de defesa, nos casos de comoção grave de repercussão nacional ou
+ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa, e não
+durante o estado de sítio. A assertiva inverteu os conceitos.
+
+      Art. 137. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa
+      Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio nos casos
+      de:
+
+      I - comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de
+      medida tomada durante o estado de defesa;
+
+Letra e - incorreta. Para a decretação de estado de sítio, devem ser ouvidos, prévia e obrigatoriamente, os
+Conselhos da República e de Defesa Nacional, mas a manifestação deles não vincula a decisão do Chefe de
+Poder Executivo Federal. Ou seja, não se trata de autorização.
+
+Além disso, ao contrário do Estado de Defesa, no Estado de Sítio é necessária prévia autorização – aí sim –
+do Congresso Nacional para que a medida possa ser adotada ou prorrogada, ou seja, é necessá o controle
+político prévio realizado pelo CN, conforme o art. 137, parágrafo único, da CF/88.
+
+      Art. 137, Parágrafo único. O Presidente da República, ao solicitar autorização para decretar o
+      estado de sítio ou sua prorrogação, relatará os motivos determinantes do pedido, devendo o
+      Congresso Nacional decidir por maioria absoluta.
+
+Gabarito: Letra C.
+
+3) Considerando as disposições constitucionais e a jurisprudência relacionada ao tema Forças Armadas, é
+correto afirmar que:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                9
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+a) ao militar é permitida a sindicalização e proibido o direito de fazer greve.
+
+b) o militar, enquanto em serviço ativo, pode estar filiado a partidos políticos.
+
+c) não caberá habeas corpus em relação a punições disciplinares militares.
+
+d) os homens, ainda que eclesiásticos, são sujeitos ao serviço militar obrigatório, sendo as mulheres isentas
+durante tempos de paz.
+
+e) o oficial só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível, por
+decisão de seu comandante superior apenas.
+
+Comentários
+
+Letra A - incorreta. Os militares possuem diversas regras que os distinguem dos servidores públicos civis,
+dentre as quais a mais cobrada em prova é justamente a vedação ao direito de greve e à sindicalização.
+
+Uma vez que a assertiva afirma que os militares poderão se sindicalizar, contraria diretamente o art. 142, §
+3º, inciso IV, da CF/88:
+
+      Art. 142, § 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes,
+      além das que vierem a ser fixadas em lei, as seguintes disposições:
+
+      (...)
+
+      IV - ao militar são proibidas a sindicalização e a greve;
+
+Letra B - incorreta. De acordo com o art. 142 da CF/88, aos militares na ativa é vedada a filiação a partidos
+políticos, sendo esta uma possibilidade exclusiva dos inativos.
+
+      Art. 142, § 3º Os membros das Forças Armadas são denominados militares, aplicando-se lhes,
+      além das que vierem a ser fixadas em lei, as seguintes disposições:
+
+      (...)
+
+      V - o militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos;
+
+Letra C - correta. O habeas corpus é uma ação judicial que objetiva proteger o direito de liberdade de
+locomoção lesado ou ameaçado por ato abusivo de autoridade.
+
+Segundo o art. 146, § 2º, da CF/88, NÃO caberá habeas corpus em relação a punições disciplinares militares,
+o que torna a assertiva correta.
+
+      Art. 142, § 2º Não caberá habeas corpus em relação a punições disciplinares militares.
+
+Letra D - incorreta. O serviço militar realmente é obrigatório aos homens, contudo este não abrange os
+eclesiásticos nem as mulheres durante tempo de paz.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                10
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Sendo assim, é correto afirmar que as mulheres são isentas em tempos de paz, mas a questão erra ao
+desconsiderar a condição dos eclesiásticos.
+
+      Art. 143. O serviço militar é obrigatório nos termos da lei.
+
+      § 2º As mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz,
+      sujeitos, porém, a outros encargos que a lei lhes atribuir.
+
+Letra E - incorreta. A forma pela qual um oficial poderá perder o posto e a sua patente se julgado indigno do
+oficialato ou com ele incompatível é determinada pelo art. 142, § 3º, inciso VI, da CF/88. O principal ponto
+que você deverá gravar sobre esse inciso é que a competência para decidir vai depender do momento (paz
+ou guerra), o que torna a assertiva incorreta. Desta forma:
+
+    EM TEMPO DE PAZ: Decisão do tribunal militar.
+
+    EM TEMPO DE GUERRA: Decisão de Tribunal especial.
+
+      Art. 142, § 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes,
+      além das que vierem a ser fixadas em lei, as seguintes disposições:
+
+      (...)
+
+      VI - o oficial só perderá o posto e a patente se for julgado indigno do oficialato ou com ele
+      incompatível, por decisão de tribunal militar de caráter permanente, em tempo de paz, ou de
+      tribunal especial, em tempo de guerra;
+
+Gabarito: Letra C.
+
+4) É uma atribuição da Polícia Federal:
+
+a) prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o descaminho, sem
+prejuízo da ação falimentar e de outros órgãos públicos nas respectivas áreas de competência.
+
+b) exercer o patrulhamento ostensivo das rodovias federais.
+
+c) exercer, juntamente com a Polícia Civil do Distrito Federal, as funções de polícia judiciária da União.
+
+d) apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses
+da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática
+tenha repercussão interestadual ou internacional e exija repressão uniforme.
+
+e) exercer as funções de polícia fluvial, aeroportuária e de fronteiras.
+
+Comentários
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   11
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Letra A – incorreta. De acordo com o art. 144, inciso II, da CF/88, acima transcrito, o correto seria “sem
+prejuízo da ação fazendária” e não “ação falimentar”.
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a: (...)
+
+      II - prevenir e reprimir o tráfico ilícito de entorpecentes e drogas afins, o contrabando e o
+      descaminho, sem prejuízo da ação fazendária e de outros órgãos públicos nas respectivas áreas
+      de competência;
+
+Letra B – incorreta. De acordo com o art. 144, § 2º, da CF/88, tal atribuição cabe à Polícia Rodoviária Federal.
+
+      Art. 144, § 2º A polícia rodoviária federal, órgão permanente, organizado e mantido pela União
+      e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das rodovias
+      federais.
+
+Letra C – incorreta. Não há que se falar em exercício conjunto com a Polícia Civil do Distrito Federal, mas sim
+em exercício com exclusividade, conforme o art. 144, inciso IV, da CF/88:
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a: (...)
+
+      IV - exercer, com exclusividade, as funções de polícia judiciária da União.
+
+Letra D – correta. A assertiva está de acordo com o art. 144, inciso I, da CF/88.
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a:
+
+      I - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e
+      interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras
+      infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão
+      uniforme, segundo se dispuser em lei;
+
+Letra E – incorreta. O erro da questão está em afirmar que compete à Polícia Federal exercer a função de
+polícia fluvial, quando o art. 144, inciso III, da CF/88 fala em polícia marítima.
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a: (...)
+
+      III - exercer as funções de polícia marítima, aeroportuária e de fronteiras; (Redação dada pela
+      Emenda Constitucional nº 19, de 1998)
+
+Gabarito: Letra D.
+
+5) Quanto ao capítulo Segurança Pública, previsto na Constituição Federal, é correto afirmar:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   12
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+a) A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu
+patrimônio nas vias públicas compreende a educação, arquitetura e fiscalização de trânsito, além de outras
+atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente.
+
+b) A segurança viária, exercida para a preservação da ordem pública e da incolumidade das pessoas e do seu
+patrimônio nas vias públicas, compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos
+respectivos órgãos ou entidades executivos e seus agentes de trânsito, estruturados em Carreira.
+
+c) A Constituição Estadual disciplinará a organização e o funcionamento dos órgãos responsáveis pela
+segurança pública, de maneira a garantir a eficiência de suas atividades.
+
+d) As polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-
+se, juntamente com as polícias civis e as policiais penais estaduais e distrital, aos Secretários de Segurança
+Pública dos Estados, do Distrito Federal e dos Territórios.
+
+e) Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros
+civis e militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.
+
+Comentários
+
+Letra A – incorreta. O erro encontra-se no termo “arquitetura”. A Constituição Federal fala em “engenharia”,
+nos moldes do art. 144, § 10, inciso I, da CF/88:
+
+      Art. 144, § 10. A segurança viária, exercida para a preservação da ordem pública e da
+      incolumidade das pessoas e do seu patrimônio nas vias públicas:
+
+      I - compreende a educação, engenharia e fiscalização de trânsito, além de outras atividades
+      previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente; e
+
+Letra B – correta. A assertiva está de acordo com o art. 144, § 10, inciso II, da CF/88.
+
+      Art. 144, § 10. A segurança viária, exercida para a preservação da ordem pública e da
+      incolumidade das pessoas e do seu patrimônio nas vias públicas: (...)
+
+      II - compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos
+      ou entidades executivos e seus agentes de trânsito, estruturados em Carreira, na forma da lei.
+
+Letra C – incorreta. De acordo com o art. 144, § 7º, da CF/88, caberá à lei, e não à Constituição Estadual:
+
+      Art. 144, § 7º A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela
+      segurança pública, de maneira a garantir a eficiência de suas atividades.
+
+Letra D – incorreta. De acordo com o art. 144, § 6º, da CF/88, as polícias militares e corpos de bombeiros
+militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis e as polícias
+penais estaduais e distrital, aos Governadores.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                    13
+         www.estrategiaconcursos.com.br                                                                       40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+      Art. 144, § 6º As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva
+      do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e
+      distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
+
+Letra E – incorreta. O art. 144, § 5º, da CF/88, fala apenas em corpos de bombeiros militares. Embora existam
+também bombeiros civis, trata-se de atividade regulada em nível infraconstitucional, pela Lei 11.901/2009.
+
+      Art. 144, § 5º Às polícias militares cabem a polícia ostensiva e a preservação da ordem pública;
+      aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de
+      atividades de defesa civil.
+
+Gabarito: Letra B.
+
+6) Assinale a alternativa que não esteja de acordo com a Carta Magna de 1988:
+
+a) As polícias penais integram o rol de órgãos que compõem a segurança pública.
+
+b) A polícia federal é órgão permanente do sistema de segurança pública previsto constitucionalmente.
+
+c) Os Municípios deverão constituir guardas municipais destinadas à proteção de seus bens, serviços e
+instalações.
+
+d) A polícia federal é organizada e mantida pela União, e estruturada em carreira.
+
+e) O patrulhamento ostensivo das ferrovias federais cabe à polícia ferroviária federal.
+
+Comentários
+
+Letra A – correta. Conforme previsto no art. 144, VI, da CF/88:
+
+      Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida
+      para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através
+      dos seguintes órgãos:
+
+      I - polícia federal;
+
+      II - polícia rodoviária federal;
+
+      III - polícia ferroviária federal;
+
+      IV - polícias civis;
+
+      V - polícias militares e corpos de bombeiros militares.
+
+      VI - polícias penais federal, estaduais e distrital.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   14
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Letra B – correta. Conforme previsto no art. 144, § 1º, da CF/88:
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a: (...)
+
+Letra C – incorreta. A instituição da Guarda Municipal é uma faculdade do Município, não uma obrigação,
+conforme previsto no art. 144, § 8º, da CF/88. A palavra “deverão” torna o item incorreto.
+
+      Art. 144, § 8º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus
+      bens, serviços e instalações, conforme dispuser a lei.
+
+Letra D – correta. Conforme previsto no art. 144, § 1º, da CF/88:
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a: (...)
+
+Letra E – correta. Conforme previsto no art. 144, § 2º, da CF/88:
+
+      Art. 144, § § 3º A polícia ferroviária federal, órgão permanente, organizado e mantido pela União
+      e estruturado em carreira, destina-se, na forma da lei, ao patrulhamento ostensivo das ferrovias
+      federais.
+
+Gabarito: Letra C.
+
+7) Assinale a alternativa correta, conforme o texto da Constituição Federal de 1988.
+
+a) As polícias federal, rodoviária federal, ferroviária federal, civis, militares e penais foram previstas
+expressamente no capítulo constitucional da segurança pública como órgãos permanentes.
+
+b) À polícia militar federal cabe a polícia ostensiva e a preservação da ordem pública federal.
+
+c) As polícias penais apuram infrações penais contra a ordem social.
+
+d) Aos bombeiros ferroviários incumbe a execução de atividades de defesa civil das ferrovias.
+
+e) A polícia penal é vinculada ao órgão administrador do sistema penal da unidade federativa a que pertence.
+
+Comentários
+
+Letra A – incorreta. No art. 144 da CF/88 apenas as polícias federal, rodoviária federal e ferroviária federal
+foram previstas expressamente no capítulo constitucional da segurança pública como órgãos permanentes,
+silenciando sobre este ponto para as polícias civis, militares e penais.
+
+Letra B – incorreta. Não há menção a uma “polícia militar federal” na Constituição Federal.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 15
+         www.estrategiaconcursos.com.br                                                                    40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Letra C – incorreta. Apurar infrações penais contra a ordem social é competência da polícia federal, não da
+polícia penal, à qual cabe a segurança dos estabelecimentos penais, conforme art. 144, §§ 1º, inciso I e 5º-A
+da CF/88:
+
+      Art. 144, § 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido
+      pela União e estruturado em carreira, destina-se a:
+
+      I - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e
+      interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras
+      infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão
+      uniforme, segundo se dispuser em lei;
+
+      (...)
+
+      § 5º-A. Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade
+      federativa a que pertencem, cabe a segurança dos estabelecimentos penais.
+
+Letra D – incorreta. Não há menção a “bombeiros ferroviários” na Constituição Federal.
+
+Letra E– correta. Conforme previsto no art. 144, § 5º, da CF/88.
+
+      Art. 144, § 5º-A. Às polícias penais, vinculadas ao órgão administrador do sistema penal da
+      unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais.
+
+Gabarito: Letra E.
+
+8) Conforme a Constituição Federal de 1988, a segurança pública não:
+
+a) é dever do Estado
+
+b) é direito e responsabilidade de todos
+
+c) é exercida para a preservação da ordem pública
+
+d) é exercida para a garantia da lei e da ordem
+
+e) é exercida para a preservação da incolumidade das pessoas
+
+Comentários
+
+Todos os itens, com exceção do “d”, são características da segurança pública previstas no art. 144, caput, da
+CF/88.
+
+      Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida
+      para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através
+      dos seguintes órgãos: (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                16
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 21
+
+A garantia da lei e da ordem, com efeito, é atribuição das Forças Armadas, nos termos do art. 142, caput, da
+CF/88:
+
+         Art. 142. As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são
+         instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na
+         disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da
+         Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da
+         ordem.
+
+Gabarito: Letra D.
+
+...
+
+Forte abraço!
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               17
+            www.estrategiaconcursos.com.br                                                                  40
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 21
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Funções Essenciais à Justiça.
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1) A Constituição Federal de 1988 assegura ao Ministério Público autonomia funcional, administrativa e
+financeira. Analise os itens a seguir e depois assinale a alternativa correta:
+
+I – Cabe ao Ministério Público elaborar sua proposta orçamentária dentro dos limites estabelecidos na lei de
+diretrizes orçamentárias.
+
+II – Cabe ao Ministério Público propor ao Poder Legislativo a criação e extinção de seus cargos e serviços
+auxiliares, provendo-os por concurso público de provas e títulos.
+
+III - Cabe ao Ministério Público representar judicialmente as entidades públicas.
+
+IV - Cabe ao Ministério Público exercer o controle externo da atividade policial.
+
+Estão corretos os itens:
+
+a) I e II.
+
+b) I e IV.
+
+c) II e III.
+
+               Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                 18
+               www.estrategiaconcursos.com.br                                                                                                                    40
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+d) II e IV.
+
+e) III e IV.
+
+2) A destituição do Procurador-Geral da República depende de iniciativa do
+
+a) Presidente da República e de autorização da maioria absoluta do Congresso Nacional.
+
+b) Presidente da República e de autorização da maioria absoluta do Senado Federal.
+
+c) Presidente da República e de autorização da maioria absoluta da Câmara dos Deputados.
+
+d) Conselho Nacional do Ministério Público e de autorização da maioria simples do Congresso Nacional.
+
+e) Conselho Nacional do Ministério Público e de autorização da maioria absoluta do Congresso Nacional.
+
+3) O Conselho Nacional do Ministério Público possuí competências de controle administrativo e financeiro
+do Ministério Público, além de zelar pelo cumprimento dos deveres funcionais de seus membros.
+Considerando o que dispõe o texto constitucional, apresenta corretamente uma competência do CNMP:
+
+a) Compete ao CNMP elaborar relatório semestral, propondo as providências que julgar necessárias sobre a
+situação de cada unidade do Ministério Público no País e as atividades do Conselho.
+
+b) Compete ao CNMP rever, de ofício ou mediante provocação, os processos disciplinares de membros do
+Ministério Público da União ou dos Estados julgados há menos de um ano.
+
+c) Compete ao CNMP zelar pela autonomia funcional e administrativa do Ministério Público, podendo
+expedir atos gerais regulamentares, no âmbito de sua competência, vedada a recomendação de
+providências.
+
+d) Compete ao CNMP receber e conhecer das reclamações contra membros ou órgãos do Ministério Público
+da União ou dos Estados, exceto em relação aos seus serviços auxiliares, sem prejuízo da competência
+disciplinar e correicional da instituição.
+
+e) Compete ao CNMP apreciar, apenas mediante provocação, a legalidade dos atos administrativos
+praticados por membros ou órgãos do Ministério Público da União e dos Estados, oportunidade em que
+poderá desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato
+cumprimento da lei.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              19
+          www.estrategiaconcursos.com.br                                                                 40
+
+                                       
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+4) Considere as seguintes alternativas:
+
+I - A Advocacia-Geral da União é a instituição que representa a União, judicial e extrajudicialmente, cabendo-
+lhe, nos termos da lei ordinária que dispuser sobre sua organização e funcionamento, as atividades de
+consultoria e assessoramento jurídico do Poder Executivo.
+
+II - Os Procuradores dos Estados e do Distrito Federal não possuem direito à vitaliciedade, mas podem
+adquirir estabilidade após 3 anos de efetivo exercício.
+
+III - Cabe à FUNAI – Fundação Nacional do Índio defender judicialmente os interesses das populações
+indígenas.
+
+IV - O advogado é indispensável à administração da justiça, sendo absolutamente inviolável por seus atos e
+manifestações no exercício da profissão.
+
+V - Leis da União e dos Estados criarão ouvidorias do Ministério Público, competentes para receber
+reclamações e denúncias de qualquer interessado contra membros ou órgãos do Ministério Público, inclusive
+contra seus serviços auxiliares, representando diretamente ao Conselho Nacional do Ministério Público.
+
+Está correto o constante nos itens
+
+a) I e IV.
+
+b) II e III.
+
+c) I e V.
+
+d) III e IV.
+
+e) II e V.
+
+5) A Emenda Constitucional nº 80/2014 introduziu mudanças significativas em relação à Defensoria
+Pública. Assinale a alternativa correta, nos termos da Constituição:
+
+a) Aos Defensores Públicos é garantida remuneração mediante o pagamento de vencimentos acrescidos de
+honorários de sucumbência.
+
+b) O Defensor Público pode exercer a advocacia privada, ou seja, fora de suas atribuições institucionais.
+
+c) É garantida vitaliciedade no cargo após dois anos de efetivo exercício por parte do Defensor Público.
+
+d) Regem a Defensoria Pública os princípios da unidade, indivisibilidade e independência funcional.
+
+e) É garantida vitaliciedade no cargo após três anos de efetivo exercício por parte do Defensor Público.
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              20
+             www.estrategiaconcursos.com.br                                                                 40
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+                                                        GABARITO
+
+                            1. B              2. B              3. B              4. E             5. D
+
+                                        QUESTÕES COMENTADAS
+
+
+1) A Constituição Federal de 1988 assegura ao Ministério Público autonomia funcional, administrativa e
+financeira. Analise os itens a seguir e depois assinale a alternativa correta:
+
+I – Cabe ao Ministério Público elaborar sua proposta orçamentária dentro dos limites estabelecidos na lei de
+diretrizes orçamentárias.
+
+II – Cabe ao Ministério Público propor ao Poder Legislativo a criação e extinção de seus cargos e serviços
+auxiliares, provendo-os por concurso público de provas e títulos.
+
+III - Cabe ao Ministério Público representar judicialmente as entidades públicas.
+
+IV - Cabe ao Ministério Público exercer o controle externo da atividade policial.
+
+Estão corretos os itens:
+
+a) I e II.
+
+b) I e IV.
+
+c) II e III.
+
+d) II e IV.
+
+e) III e IV.
+
+Comentários
+
+Item I – certo. De acordo com o art. 127, § 3º, da CF/88, cabe ao Ministério Público elaborar sua própria
+proposta orçamentária, devendo ser observados os limites estabelecidos na LDO.
+
+        Art. 127, § 3º O Ministério Público elaborará sua proposta orçamentária dentro dos limites
+        estabelecidos na lei de diretrizes orçamentárias.
+
+               Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          21
+               www.estrategiaconcursos.com.br                                                             40
+
+                                            
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Item II – errado. De acordo com o art. 127, § 2º, da CF/88, o provimento de cargos no Ministério Público
+deve ser feito por concurso público de provas ou de provas e títulos, não sendo obrigatória a cobrança dos
+títulos nos certames.
+
+      Art. 127, § 2º Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo,
+      observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos
+      e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política
+      remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento.
+
+Item III – errado. Nos termos do art. 129, IX, da CF/88, é vedado ao Ministério Público a representação judicial
+de entidades públicas, função que deve ser exercida pelos respectivos órgãos de advocacia.
+
+      Art. 129. São funções institucionais do Ministério Público:
+
+      (...)
+
+      IX - exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade,
+      sendo-lhe vedada a representação judicial e a consultoria jurídica de entidades públicas.
+
+Item IV – certo. De acordo com o art. 129, inciso VII da CF/88, cabe ao Ministério Público exercer o controle
+externo da atividade policial, na forma que lei complementar dispuser.
+
+      Art. 129. São funções institucionais do Ministério Público:
+
+      (...)
+
+      VII - exercer o controle externo da atividade policial, na forma da lei complementar mencionada
+      no artigo anterior;
+
+Gabarito: Letra B.
+
+2) A destituição do Procurador-Geral da República depende de iniciativa do
+
+a) Presidente da República e de autorização da maioria absoluta do Congresso Nacional.
+
+b) Presidente da República e de autorização da maioria absoluta do Senado Federal.
+
+c) Presidente da República e de autorização da maioria absoluta da Câmara dos Deputados.
+
+d) Conselho Nacional do Ministério Público e de autorização da maioria simples do Congresso Nacional.
+
+e) Conselho Nacional do Ministério Público e de autorização da maioria absoluta do Congresso Nacional.
+
+Comentários
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   22
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+O Presidente da República é quem nomeia o Procurador-Geral da República, após aprovação da maioria
+absoluta do Senado Federal. O caminho inverso (destituição do cargo) exige o preenchimento desses
+mesmos requisitos: iniciativa do Presidente da República e aprovação a maioria absoluta do Senado Federal.
+Vejamos o teor do art. 128, §§ 1º e 2º, da CF/88:
+
+      Art. 128, § 1º O Ministério Público da União tem por chefe o Procurador-Geral da República,
+      nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco
+      anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal,
+      para mandato de dois anos, permitida a recondução.
+
+      § 2º A destituição do Procurador-Geral da República, por iniciativa do Presidente da República,
+      deverá ser precedida de autorização da maioria absoluta do Senado Federal.
+
+Gabarito: Letra B.
+
+3) O Conselho Nacional do Ministério Público possuí competências de controle administrativo e financeiro
+do Ministério Público, além de zelar pelo cumprimento dos deveres funcionais de seus membros.
+Considerando o que dispõe o texto constitucional, apresenta corretamente uma competência do CNMP:
+
+a) Compete ao CNMP elaborar relatório semestral, propondo as providências que julgar necessárias sobre a
+situação de cada unidade do Ministério Público no País e as atividades do Conselho.
+
+b) Compete ao CNMP rever, de ofício ou mediante provocação, os processos disciplinares de membros do
+Ministério Público da União ou dos Estados julgados há menos de um ano.
+
+c) Compete ao CNMP zelar pela autonomia funcional e administrativa do Ministério Público, podendo
+expedir atos gerais regulamentares, no âmbito de sua competência, vedada a recomendação de
+providências.
+
+d) Compete ao CNMP receber e conhecer das reclamações contra membros ou órgãos do Ministério Público
+da União ou dos Estados, exceto em relação aos seus serviços auxiliares, sem prejuízo da competência
+disciplinar e correicional da instituição.
+
+e) Compete ao CNMP apreciar, apenas mediante provocação, a legalidade dos atos administrativos
+praticados por membros ou órgãos do Ministério Público da União e dos Estados, oportunidade em que
+poderá desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato
+cumprimento da lei.
+
+Comentários
+
+Letra A – incorreta. O relatório do CNMP será anual, e não semestral como afirmado na assertiva. É por meio
+desse relatório que o CNMP propõe providências para atuação dos Ministérios Públicos de todo o país e os
+orienta sobre os rumos a serem seguidos. Este relatório encontra previsão no inciso V do §2º do art. 130-A
+da CF/88.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              23
+         www.estrategiaconcursos.com.br                                                                 40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+      Art. 130-A, § 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação
+      administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de
+      seus membros, cabendo-lhe: (...)
+
+      V — elaborar relatório anual, propondo as providências que julgar necessárias sobre a situação
+      do Ministério Público no País e as atividades do Conselho, o qual deve integrar a mensagem
+      prevista no art. 84, XI.
+
+Letra B – correta. A assertiva está de acordo com o art. 130-A, §2º, inciso IV da CF/88.
+
+      Art. 130-A, § 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação
+      administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de
+      seus membros, cabendo-lhe: (...)
+
+      IV — rever, de ofício ou mediante provocação, os processos disciplinares de membros do
+      Ministério Público da União ou dos Estados julgados há menos de um ano;
+
+Cabe destacar que é muito comum que as bancas examinadoras tentem confundir esse prazo: O CNMP só
+poderá rever de ofício ou mediante provocação os processos disciplinares julgados há menos de um ano.
+
+Letra C – incorreta. O CNMP poderá fazer tudo que foi mencionado na assertiva, inclusive a recomendação
+de providências a serem tomadas pelos Ministérios Públicos. Uma vez que a assertiva exclui as
+recomendações, temos sua incorreção.
+
+      Art. 130-A, § 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação
+      administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de
+      seus membros, cabendo-lhe:
+
+      I — zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos
+      regulamentares, no âmbito de sua competência, ou recomendar providências;
+
+Letra D – incorreta. O CNMP irá receber e conhecer as reclamações contra membros ou órgãos do Ministério
+Público da União ou dos Estados, INCLUSIVE em relação aos seus serviços auxiliares. Os serviços auxiliares
+não são uma exceção, como afirmado pela assertiva.
+
+      Art. 130-A, § 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação
+      administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de
+      seus membros, cabendo-lhe: (...)
+
+      III — receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da
+      União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência
+      disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso,
+      determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas, assegurada
+      ampla defesa;
+
+Letra E – incorreta. De acordo com o art. 130-A, § 2º, inciso II, da CF/88, a apreciação da legalidade dos atos
+administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados poderá ser
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  24
+         www.estrategiaconcursos.com.br                                                                     40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+revista mediante provocação ou de ofício pelo CNMP, oportunidade em que o órgão poderá desconstituí-
+los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei.
+
+        Art. 130-A, § 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação
+        administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de
+        seus membros, cabendo-lhe: (...)
+
+        II — zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade
+        dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos
+        Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências
+        necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas;
+
+Gabarito: Letra B.
+
+4) Considere as seguintes alternativas:
+
+I - A Advocacia-Geral da União é a instituição que representa a União, judicial e extrajudicialmente, cabendo-
+lhe, nos termos da lei ordinária que dispuser sobre sua organização e funcionamento, as atividades de
+consultoria e assessoramento jurídico do Poder Executivo.
+
+II - Os Procuradores dos Estados e do Distrito Federal não possuem direito à vitaliciedade, mas podem
+adquirir estabilidade após 3 anos de efetivo exercício.
+
+III - Cabe à FUNAI – Fundação Nacional do Índio defender judicialmente os interesses das populações
+indígenas.
+
+IV - O advogado é indispensável à administração da justiça, sendo absolutamente inviolável por seus atos e
+manifestações no exercício da profissão.
+
+V - Leis da União e dos Estados criarão ouvidorias do Ministério Público, competentes para receber
+reclamações e denúncias de qualquer interessado contra membros ou órgãos do Ministério Público, inclusive
+contra seus serviços auxiliares, representando diretamente ao Conselho Nacional do Ministério Público.
+
+Está correto o constante nos itens
+
+a) I e IV.
+
+b) II e III.
+
+c) I e V.
+
+d) III e IV.
+
+e) II e V.
+
+Comentários
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              25
+             www.estrategiaconcursos.com.br                                                                 40
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Item I – errado. Conforme o art. 131, caput, da CF/88, a lei que dispuser sobre a organização e o
+funcionamento da Advocacia-Geral da União deve ser complementar, não ordinária.
+
+      Art. 131. A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão
+      vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei
+      complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria
+      e assessoramento jurídico do Poder Executivo.
+
+Item II – certo. A CF/88 não estende a vitaliciedade aos Procuradores dos Estados e do DF, mas assegura a
+essa categoria o direito à estabilidade, mediante aprovação em avaliação de desempenho perante os órgãos
+próprios, e após relatório circunstanciado das respectivas corregedorias:
+
+      Art. 132 Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o
+      ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos
+      Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria
+                                                         ==219a34==
+
+      jurídica das respectivas unidades federadas.
+
+      Parágrafo único. Aos procuradores referidos neste artigo é assegurada estabilidade após três
+      anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após
+      relatório circunstanciado das corregedorias.
+
+Item III – errado. Conforme o art. 129, inciso V, da CF/88, cabe ao Ministério Público defender judicialmente
+os interesses das populações indígenas.
+
+      Art. 129. São funções institucionais do Ministério Público:
+
+      V - defender judicialmente os direitos e interesses das populações indígenas;
+
+Item IV – errado. Nos termos do art. 133 da CF/88, a inviolabilidade pelos atos e manifestações no exercício
+da profissão de advogado não é absoluta, devendo ser observados os limites impostos por lei.
+
+      Art. 133. O advogado é indispensável à administração da justiça, sendo inviolável por seus atos e
+      manifestações no exercício da profissão, nos limites da lei.
+
+Item V – certo. A assertiva está de acordo com o art. 130, § 5º, da CF/88:
+
+      Art. 130, § 5 Leis da União e dos Estados criarão ouvidorias do Ministério Público, competentes
+      para receber reclamações e denúncias de qualquer interessado contra membros ou órgãos do
+      Ministério Público, inclusive contra seus serviços auxiliares, representando diretamente ao
+      Conselho Nacional do Ministério Público.
+
+Gabarito: Letra E.
+
+5) A Emenda Constitucional nº 80/2014 introduziu mudanças significativas em relação à Defensoria
+Pública. Assinale a alternativa correta, nos termos da Constituição:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                26
+         www.estrategiaconcursos.com.br                                                                   40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+a) Aos Defensores Públicos é garantida remuneração mediante o pagamento de vencimentos acrescidos de
+honorários de sucumbência.
+
+b) O Defensor Público pode exercer a advocacia privada, ou seja, fora de suas atribuições institucionais.
+
+c) É garantida vitaliciedade no cargo após dois anos de efetivo exercício por parte do Defensor Público.
+
+d) Regem a Defensoria Pública os princípios da unidade, indivisibilidade e independência funcional.
+
+e) É garantida vitaliciedade no cargo após três anos de efetivo exercício por parte do Defensor Público.
+
+Comentários:
+
+Letra A - errada. De acordo com o art. 135 e art. 39, § 4º, ambos da CF/88, os Defensores Públicos são
+remunerados por subsídio.
+
+      Art. 39, § 4º O membro de Poder, o detentor de mandato eletivo, os Ministros de Estado e os
+      Secretários Estaduais e Municipais serão remunerados exclusivamente por subsídio fixado em
+      parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de
+      representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto no art.
+      37, X e XI.
+
+      Art. 135. Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo
+      serão remunerados na forma do art. 39, § 4º. [Nota: a Seção III originalmente englobava a
+      Defensoria Pública, que com a Emenda Constitucional nº 80, de 2014, passou à Seção IV. De toda
+      forma, a regra continua aplicável].
+
+Letra B - errada. Aos Defensores Públicos é vedado o exercício da advocacia fora das atribuições
+institucionais.
+
+      Art. 134, § 1º Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e
+      dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de
+      carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a
+      seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das
+      atribuições institucionais.
+
+Letras C - errada. A CF/88 não assegura a vitaliciedade aos Defensores Públicos.
+
+Letra D - correta. A assertiva está de acordo com o art. 134, § 4º, da CF/88.
+
+      Art. 134, § 4º São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a
+      independência funcional, aplicando-se também, no que couber, o disposto no art. 93 e no inciso
+      II do art. 96 desta Constituição Federal.
+
+Letras E - errada. A CF/88 não assegura a vitaliciedade aos Defensores Públicos.
+
+Gabarito: Letra D.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   27
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 21
+
+...
+Forte abraço!
+
+                                                   Túlio Lages
+
+                                          Face: www.facebook.com/proftuliolages
+
+                                          Insta: www.instagram.com/proftuliolages
+
+                                           YouTube: youtube.com/proftuliolages
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   28
+            www.estrategiaconcursos.com.br                                                      40
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               29
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+                                                 SIMULADO
+                                         PODER JUDICIÁRIO
+1) De acordo com a Constituição Federal de 1988, lei complementar, cuja iniciativa compete ao Supremo
+Tribunal Federal, disporá sobre o Estatuto da Magistratura. Sobre o tema, assinale a alternativa correta.
+
+a) A remoção de magistrado, por interesse público, fundar-se-á em decisão por voto da maioria simples do
+respectivo Tribunal, assegurada ampla defesa.
+
+b) O ingresso na carreira, mediante concurso público de provas e títulos, deve contar com a participação do
+Ministério Público em todas as fases.
+
+c) As decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo as disciplinares
+tomadas pelo voto da maioria relativa de seus membros.
+
+d) Na magistratura, é possível a delegação aos servidores da prática de atos de administração e de mero
+expediente sem caráter decisório.
+
+e) Na magistratura, a promoção, de entrância para entrância, por merecimento, pressupõe 3 anos de
+exercício na respectiva entrância.
+
+2) Nos termos da Constituição Federal de 1988, é vedado aos juízes:
+
+a) exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos cinco anos do afastamento
+do cargo por aposentadoria ou exoneração.
+
+b) receber, exceto de forma excepcional, custas ou participação em processo;
+
+c) receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou
+privadas, sendo vedada a estipulação de exceções por meio de lei.
+
+d) dedicar-se à atividade político-partidária.
+
+e) exercer um cargo de magistério.
+
+3) Sobre o Supremo Tribunal Federal, assinale a alternativa correta.
+
+a) Nas infrações penais comuns, compete ao Supremo Tribunal Federal processar e julgar o Presidente da
+República, o Vice-Presidente, os membros do Congresso Nacional, os membros dos Tribunais Superiores e o
+Procurador-Geral da República.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 30
+         www.estrategiaconcursos.com.br                                                                    40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+b) O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos de notável saber
+jurídico e reputação ilibada, nomeados pelo Presidente da República, depois de aprovada a escolha, em
+votação aberta, pela maioria absoluta do Senado Federal.
+
+c) Compete ao Supremo Tribunal Federal processar e julgar, originariamente, a ação declaratória de
+constitucionalidade de lei ou ato normativo federal ou estadual.
+
+d) Nas infrações penais comuns e nos crimes de responsabilidade, serão os Ministros de Estado processados
+e julgados perante o Supremo Tribunal Federal, exceto se, em ambos os casos, os crimes forem conexos com
+os praticados pelo Presidente ou o Vice-Presidente da República.
+
+e) Compete ao Supremo Tribunal Federal julgar o litígio entre Estado estrangeiro ou organismo internacional
+e a União, o Estado, o Distrito Federal ou o Território e o Município.
+
+4) Em relação ao Poder Judiciário, considere:
+
+I. O Conselho Nacional de Justiça compõe-se de 15 membros com mandato de 2 anos, admitida uma
+recondução.
+
+II. O Procurador-Geral da República deverá ser previamente ouvido nas ações de inconstitucionalidade e em
+todos os processos de competência do Supremo Tribunal Federal.
+
+III. Compete ao Superior Tribunal de Justiça processar e julgar os crimes contra a organização do trabalho.
+
+IV. O número de juízes na unidade jurisdicional será proporcional apenas à respectiva população.
+
+Está correto o que se afirma APENAS em
+
+A) I, II e III.
+
+B) I e II.
+
+C) II e III.
+
+D) I, III e IV.
+
+E) III e IV.
+
+5) Considere a seguinte situação hipotética: Adriano e Lucas, membro do Tribunal Regional Eleitoral da 5ª
+Região e Governador do Estado de Rondônia, respectivamente, praticaram crime comum. Conforme a
+Constituição Federal de 1988, em regra, a competência para processar e julgar, originariamente, Adriano
+e Lucas é do
+
+A) Tribunal Regional Federal da respectiva região.
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional            31
+             www.estrategiaconcursos.com.br                                                               40
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+B) Supremo Tribunal Federal.
+
+C) Superior Tribunal de Justiça.
+
+D) Superior Tribunal de Justiça e do Supremo Tribunal Federal, respectivamente.
+
+E) Supremo Tribunal Federal e do Superior Tribunal de Justiça, respectivamente.
+
+                             GABARITO – PODER JUDICIÁRIO
+
+                      1. D              2. D              3. A              4. B             5. C
+
+            QUESTÕES COMENTADAS – PODER JUDICIÁRIO
+1) De acordo com a Constituição Federal de 1988, lei complementar, cuja iniciativa compete ao Supremo
+Tribunal Federal, disporá sobre o Estatuto da Magistratura. Sobre o tema, assinale a alternativa correta.
+
+a) A remoção de magistrado, por interesse público, fundar-se-á em decisão por voto da maioria simples do
+respectivo Tribunal, assegurada ampla defesa.
+
+b) O ingresso na carreira, mediante concurso público de provas e títulos, deve contar com a participação do
+Ministério Público em todas as fases.
+
+c) As decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo as disciplinares
+tomadas pelo voto da maioria relativa de seus membros.
+
+d) Na magistratura, é possível a delegação aos servidores da prática de atos de administração e de mero
+expediente sem caráter decisório.
+
+e) Na magistratura, a promoção, de entrância para entrância, por merecimento, pressupõe 3 anos de
+exercício na respectiva entrância.
+
+Comentários
+
+Letra A - incorreta. A remoção de magistrado, por interesse público, depende do voto da maioria absoluta
+do respectivo Tribunal ou do Conselho Nacional de Justiça, conforme o art. 93, inciso VIII, da CF/88, não da
+maioria simples do respectivo Tribunal como afirma a assertiva, sendo assegurada a ampla defesa.
+
+      Art. 93, VIII - o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse
+      público, fundar-se-á em decisão por voto da maioria absoluta do respectivo tribunal ou do
+      Conselho Nacional de Justiça, assegurada ampla defesa;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               32
+         www.estrategiaconcursos.com.br                                                                  40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Letra B - incorreta. No concurso de provas e títulos para ingresso na carreira da magistratura, há participação
+da Ordem dos Advogados do Brasil em todas as fases, conforme o art. 93, inciso I, da CF/88, e não do
+Ministério Público como afirma a assertiva.
+
+      Art. 93, I - ingresso na carreira, cujo cargo inicial será o de juiz substituto, mediante concurso
+      público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as
+      fases, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e
+      obedecendo-se, nas nomeações, à ordem de classificação;
+
+Letra C - incorreta. As decisões administrativas disciplinares dos tribunais são tomadas pelo voto da maioria
+absoluta de seus membros, conforme o art. 93, inciso X, da CF/88, e não relativa, como afirma a assertiva.
+
+      Art. 93, X - as decisões administrativas dos tribunais serão motivadas e em sessão pública, sendo
+      as disciplinares tomadas pelo voto da maioria absoluta de seus membros;
+                                                         ==219a34==
+
+Letra D – correta. É o que prevê o art. 93, inciso XIV da CF/88:
+
+      Art. 93, XIV os servidores receberão delegação para a prática de atos de administração e atos de
+      mero expediente sem caráter decisório;
+
+Letra E - incorreta. A promoção, de entrância para entrância, por merecimento, pressupõe 2 anos de
+exercício na respectiva entrância, conforme o art. 93, inciso II, alínea b, da CF/88, e não 3 anos como afirma
+a assertiva.
+
+      Art. 93, II - promoção de entrância para entrância, alternadamente, por antiguidade e
+      merecimento, atendidas as seguintes normas:
+
+      (...)
+
+      b) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e
+      integrar o juiz a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais
+      requisitos quem aceite o lugar vago;
+
+Gabarito: Letra D.
+
+2) Nos termos da Constituição Federal de 1988, é vedado aos juízes:
+
+a) exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos cinco anos do afastamento
+do cargo por aposentadoria ou exoneração.
+
+b) receber, exceto de forma excepcional, custas ou participação em processo;
+
+c) receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou
+privadas, sendo vedada a estipulação de exceções por meio de lei.
+
+d) dedicar-se à atividade político-partidária.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  33
+         www.estrategiaconcursos.com.br                                                                     40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+e) exercer um cargo de magistério.
+
+Comentários
+
+Letra A – incorreta. O prazo de incompatibilidade é de três anos.
+
+      Art. 95, Parágrafo único: Aos juízes é vedado: (...)
+
+      V — exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do
+      afastamento do cargo por aposentadoria ou exoneração.
+
+Letra B – incorreta. O juiz jamais poderá receber custas ou participação em processo.
+
+      Art. 95, Parágrafo único: Aos juízes é vedado: (...)
+
+      II — receber, a qualquer título ou pretexto, custas ou participação em processo;
+
+Letra C – incorreta. É possível que haja exceções previstas em lei, neste caso.
+
+      Art. 95, Parágrafo único: Aos juízes é vedado: (....)
+
+      IV — receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades
+      públicas ou privadas, ressalvadas as exceções previstas em lei;
+
+Letra D – correta. Corresponde ao inciso III do parágrafo único do art. 95, da CF/88:
+
+      Art. 95, Parágrafo único: Aos juízes é vedado: (...)
+
+      III — dedicar-se à atividade político-partidária.
+
+Letra E – incorreta. Há permissão expressa para o exercício do magistério:
+
+      Art. 95, Parágrafo único: Aos juízes é vedado:
+
+      I — exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério;
+
+Gabarito: Letra D.
+
+3) Sobre o Supremo Tribunal Federal, assinale a alternativa correta.
+
+a) Nas infrações penais comuns, compete ao Supremo Tribunal Federal processar e julgar o Presidente da
+República, o Vice-Presidente, os membros do Congresso Nacional, os membros dos Tribunais Superiores e o
+Procurador-Geral da República.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   34
+         www.estrategiaconcursos.com.br                                                                      40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+b) O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos de notável saber
+jurídico e reputação ilibada, nomeados pelo Presidente da República, depois de aprovada a escolha, em
+votação aberta, pela maioria absoluta do Senado Federal.
+
+c) Compete ao Supremo Tribunal Federal processar e julgar, originariamente, a ação declaratória de
+constitucionalidade de lei ou ato normativo federal ou estadual.
+
+d) Nas infrações penais comuns e nos crimes de responsabilidade, serão os Ministros de Estado processados
+e julgados perante o Supremo Tribunal Federal, exceto se, em ambos os casos, os crimes forem conexos com
+os praticados pelo Presidente ou o Vice-Presidente da República.
+
+e) Compete ao Supremo Tribunal Federal julgar o litígio entre Estado estrangeiro ou organismo internacional
+e a União, o Estado, o Distrito Federal ou o Território e o Município.
+
+Comentários
+
+Letra A – correta. De acordo com o art. 102, inciso I, alíneas b e c, da CF/88, cabe ao STF processar e julgar,
+originariamente, nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do
+Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República. Os membros dos Tribunais
+Superiores, além das infrações penais comuns, também serão processados e julgados pelo STF nos crimes
+de responsabilidade.
+
+      Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição,
+      cabendo-lhe:
+
+      I - processar e julgar, originariamente:
+
+      (...)
+
+      b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do
+      Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;
+
+      c) nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado e os
+      Comandantes da Marinha, do Exército e da Aeronáutica, ressalvado o disposto no art. 52, I, os
+      membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão
+      diplomática de caráter permanente;
+
+Letra B – incorreta. De fato, segundo o parágrafo único do art. 101 da CF/88, a escolha deve ser aprovada
+pela maioria absoluta do Senado Federal. No entanto, nos termos do art. 52, inciso III, alínea a, da CF/88,
+essa votação é secreta, sendo pública somente a arguição que a precede:
+
+      Art. 52. Compete privativamente ao Senado Federal:
+
+      (...)
+
+      III - aprovar previamente, por voto secreto, após arguição pública, a escolha de:
+
+      a) Magistrados, nos casos estabelecidos nesta Constituição;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  35
+         www.estrategiaconcursos.com.br                                                                     40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+Letra C – incorreta. A ação direta de inconstitucionalidade pode ocorrer em face de lei ou ato normativo
+federal ou estadual. Porém, nos termos do art. 102, inciso I, alínea a, da CF/88, a ação declaratória de
+constitucionalidade pode ocorrer somente em face de lei ou ato normativo federal, mas não estadual, o que
+torna a assertiva incorreta.
+
+      Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição,
+      cabendo-lhe:
+
+      I - processar e julgar, originariamente:
+
+      a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação
+      declaratória de constitucionalidade de lei ou ato normativo federal;
+
+Letra D – incorreta. Nas infrações penais comuns, a competência para processar e julgar os Ministros de
+Estado será sempre do STF.
+
+Via de regra, nos crimes de responsabilidade, a competência também será do STF. Apenas nos casos de crime
+de responsabilidade conexos a atos praticados pelo Presidente ou o Vice-Presidente da República é que a
+competência se desloca para o Senado Federal, nos termos do art. 52, inciso I, da CF/88:
+
+      Art. 52. Compete privativamente ao Senado Federal:
+
+      I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de
+      responsabilidade, bem como os Ministros de Estado e os Comandantes da Marinha, do Exército
+      e da Aeronáutica nos crimes da mesma natureza conexos com aqueles;
+
+Letra E – incorreta. De acordo com o art. 102, inciso I, alínea e, da CF/88, cabe somente ao STF processar e
+julgar o litígio entre Estado estrangeiro ou organismo internacional e a União, o Estado, o Distrito Federal ou
+o Território.
+
+      Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição,
+      cabendo-lhe:
+
+      I - processar e julgar, originariamente:
+
+      (...)
+
+      e) o litígio entre Estado estrangeiro ou organismo internacional e a União, o Estado, o Distrito
+      Federal ou o Território;
+
+Por outro lado, as causas entre Estado estrangeiro ou organismo internacional e Município são julgadas pelos
+juízes federais.
+
+      Art. 109. Aos juízes federais compete processar e julgar:
+
+      (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  36
+         www.estrategiaconcursos.com.br                                                                     40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 21
+
+        II - as causas entre Estado estrangeiro ou organismo internacional e Município ou pessoa
+        domiciliada ou residente no País;
+
+Gabarito: Letra A.
+
+4) Em relação ao Poder Judiciário, considere:
+
+I. O Conselho Nacional de Justiça compõe-se de 15 membros com mandato de 2 anos, admitida uma
+recondução.
+
+II. O Procurador-Geral da República deverá ser previamente ouvido nas ações de inconstitucionalidade e em
+todos os processos de competência do Supremo Tribunal Federal.
+
+III. Compete ao Superior Tribunal de Justiça processar e julgar os crimes contra a organização do trabalho.
+
+IV. O número de juízes na unidade jurisdicional será proporcional apenas à respectiva população.
+
+Está correto o que se afirma APENAS em
+
+A) I, II e III.
+
+B) I e II.
+
+C) II e III.
+
+D) I, III e IV.
+
+E) III e IV.
+
+Comentários
+
+Item I – correto. O CNJ é composto por 15 membros com mandato de 2 anos, sendo permitida 1 recondução.
+
+        Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 quinze) membros com mandato de 2
+        dois) anos, admitida 1 uma) recondução, sendo:
+
+        (…)
+
+Item II – correto. Nas ações de inconstitucionalidade e nos processos de competência do STF, o PGR deve ser
+previamente ouvido, consoante o art. 103, § 1º, da CF/88.
+
+        Art. 103, § 1º O Procurador-Geral da República deverá ser previamente ouvido nas ações de
+        inconstitucionalidade e em todos os processos de competência do Supremo Tribunal Federal.
+
+Item III – incorreto. De acordo com o art. 109, inciso VI, da CF/88, a competência originária para processar e
+julgar os crimes contra a organização do trabalho é dos juízes federais, não do STJ.
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             37
+             www.estrategiaconcursos.com.br                                                                40
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 21
+
+      Art. 109. Aos juízes federais compete processar e julgar:
+
+      (...)
+
+      VI - os crimes contra a organização do trabalho e, nos casos determinados por lei, contra o
+      sistema financeiro e a ordem econômico-financeira;
+
+Item IV – incorreto. O erro desse item está em considerar apenas a população da unidade jurisdicional como
+critério de definição do número de juízes, uma vez que a efetiva demanda judicial também é parâmetro para
+determinação da quantidade de magistrados em cada localidade.
+
+      Art. 93. Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da
+      Magistratura, observados os seguintes princípios:
+
+      (...)
+
+      XIII - o número de juízes na unidade jurisdicional será proporcional à efetiva demanda judicial e à
+      respectiva população;
+
+Gabarito: Letra B.
+
+5) Considere a seguinte situação hipotética: Adriano e Lucas, membro do Tribunal Regional Eleitoral da 5ª
+Região e Governador do Estado de Rondônia, respectivamente, praticaram crime comum. Conforme a
+Constituição Federal de 1988, em regra, a competência para processar e julgar, originariamente, Adriano
+e Lucas é do
+
+A) Tribunal Regional Federal da respectiva região.
+
+B) Supremo Tribunal Federal.
+
+C) Superior Tribunal de Justiça.
+
+D) Superior Tribunal de Justiça e do Supremo Tribunal Federal, respectivamente.
+
+E) Supremo Tribunal Federal e do Superior Tribunal de Justiça, respectivamente.
+
+Comentários
+
+De acordo com o art. 105, inciso I, alínea a, da CF/88:
+
+      Art. 105. Compete ao Superior Tribunal de Justiça:
+
+      I - processar e julgar, originariamente:
+
+      a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de
+      responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal,
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  38
+         www.estrategiaconcursos.com.br                                                                     40
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 21
+
+         os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais
+         Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou
+         Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante
+         tribunais;
+
+Desta forma, a competência para processar e julgar membro do Tribunal Regional Eleitoral e Governador do
+Estado é, em ambos os casos, do STJ.
+
+Gabarito: Letra C.
+
+...
+
+
+Forte abraço!
+
+                                                   Túlio Lages
+
+                                          Face: www.facebook.com/proftuliolages
+
+                                          Insta: www.instagram.com/proftuliolages
+
+                                           YouTube: youtube.com/proftuliolages
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               39
+            www.estrategiaconcursos.com.br                                                                  40
+
+                                         
+
+
+---
+
+---

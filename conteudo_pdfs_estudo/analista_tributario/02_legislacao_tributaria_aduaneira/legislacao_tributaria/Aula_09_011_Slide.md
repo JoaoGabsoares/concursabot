@@ -1,0 +1,2543 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 09_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Espécies Tributárias
+artigos_citados:
+- 'art.
+
+  584'
+- art. 184
+- art. 186
+- art. 307
+- art. 334
+- art. 337
+- art. 398
+- art. 586
+---
+
+# Espécies Tributárias
+
+---
+
+---
+
+   Prof. Fábio Dutra
+
+                       @proffabiodutra.               Fábio Dutra.    ProfFabioDutraConcursos.
+
+Espécies Tributárias
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+---
+
+IRPJ – ISENÇÕES
+
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Isenções
+   ISENÇÕES DO IRPJ — VISÃO GERAL
+
+   Conceito de Isenção: a isenção constitui hipótese de exclusão do crédito tributário, de
+   modo que o crédito tributário nem mesmo chega a se constituir por meio do lançamento,
+   tratando-se de dispensa legal do pagamento de tributo, com nítida natureza de benefício
+   fiscal (CTN, art. 175, I).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Isenções
+   ISENÇÕES DO IRPJ — VISÃO GERAL
+
+   Rol de Isenções: o RIR dispõe acerca das isenções do IRPJ entre os arts. 184 a 192, sendo
+   elas:
+
+   ❑ Associações e fundações;
+   ❑ Programa Universidade para Todos;
+   ❑ Entidades de previdência complementar;
+   ❑ Empresas estrangeiras de transportes;
+   ❑ Associações de poupança e empréstimo;
+   ❑ Sociedades de investimento com participação de capital estrangeiro; e
+   ❑ Isenções específicas, como Itaipu e FGC (RIR, arts. 184 a 192).
+
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   ISENÇÕES DO IRPJ — VISÃO GERAL
+
+   Atenção: via de regra, as isenções acima independem de prévio reconhecimento por parte
+   da autoridade competente.
+
+   Exceção:
+
+   ❑ A exceção fica por conta das empresas estrangeiras de transportes (exigência para
+     transporte terrestre), cujo reconhecimento da isenção é efetuado pela RFB.
+
+   ❑ Nesta situação, alcançará os rendimentos obtidos a partir da existência da
+     reciprocidade de tratamento e não poderá originar, em qualquer hipótese, direito à
+     restituição de receita. (RIR, art. 192).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES E FUNDAÇÕES
+
+   Hipótese de Isenção: estão isentas do imposto as instituições de caráter filantrópico,
+   recreativo, cultural e científico e as associações civis que prestem os serviços para os quais
+   houverem sido instituídas e os coloquem à disposição do grupo de pessoas a que se
+   destinam, sem fins lucrativos (RIR, art. 184).
+
+   Atenção — Restrição da Isenção: essa isenção é restrita ao IRPJ, não abrangendo os
+   rendimentos e ganhos de capital auferidos em aplicações financeiras de renda fixa ou de
+   renda variável (RIR, art. 184).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                       @ProfFabioDutra
+                                    
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES E FUNDAÇÕES
+
+   Atenção — Exceções com Isenção Total: existem algumas entidades específicas que
+   possuem isenção até mesmo de rendimentos e ganhos de capital auferidos em aplicações
+   financeiras:
+
+   ❑ Academia Brasileira de Letras,
+   ❑ Associação Brasileira de Imprensa e
+   ❑ Instituto Histórico e Geográfico Brasileiro (RIR, art. 184, § 5º).
+
+
+Legislação Tributária
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                    
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES E FUNDAÇÕES
+
+   Requisitos da Isenção: a isenção das associações e fundações está condicionada ao
+   cumprimento dos requisitos do art. 181, § 3º, I a V, do RIR:
+   ❑ não remunerar, por qualquer forma, seus dirigentes pelos serviços prestados;
+   ❑ aplicar integralmente seus recursos na manutenção e desenvolvimento dos seus
+     objetivos sociais;
+   ❑ manter escrituração completa de suas receitas e despesas em livros revestidos das
+     formalidades que assegurem a respectiva exatidão;
+   ❑ conservar em boa ordem, pelo prazo de cinco anos, os documentos que comprovem a
+     origem de suas receitas e a efetivação de suas despesas; e
+   ❑ apresentar, anualmente, Declaração de Rendimentos (RIR, art. 184, c/c art. 181, § 3º, I
+     a V).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES E FUNDAÇÕES
+
+   Atenção — Suspensão do Benefício: as entidades que deixarem de cumprir tais requisitos
+   terão o benefício fiscal suspenso, seguindo o mesmo rito estabelecido para a suspensão da
+   imunidade (RIR, art. 184, c/c art. 183).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   SUSPENSÃO DA ISENÇÃO (RIR, ART. 183)
+
+   ❑ A Fiscalização expedirá notificação fiscal, na qual relatará os fatos que determinam a
+     suspensão do benefício, e
+   ❑ Indicará, inclusive, a data da ocorrência da infração;
+   ❑ Contra a notificação fiscal cabem alegações contrárias por parte da entidade imune, as
+     quais deverão ser feitas no prazo de 30 dias;
+   ❑ Caberá ao delegado ou ao inspetor da Secretaria da Receita Federal do Brasil decidir
+     sobre a procedência das alegações, expedindo o ato declaratório suspensivo do
+     benefício;
+   ❑ Efetivada a suspensão da imunidade, a entidade interessada poderá, no prazo de 30
+     dias, contado da data de ciência da suspensão, apresentar impugnação ao ato
+     declaratório, a qual será objeto de decisão pela Delegacia da Receita Federal do Brasil
+     de Julgamento competente.
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   PROGRAMA UNIVERSIDADE PARA TODOS — PROUNI
+
+
+   Hipótese de Isenção: a instituição privada de ensino superior, com fins lucrativos ou sem
+   fins lucrativos não beneficente, que aderir ao Programa Universidade para Todos —
+   Prouni, ficará isenta do imposto sobre a renda no período de vigência do termo de adesão
+   (RIR, art. 185; Lei 11.096/2005, art. 8º; Lei 11.128/2005, art. 1º).
+
+   Abrangência: essa isenção recairá sobre o lucro decorrente da realização de atividades de
+   ensino superior proveniente de cursos de graduação ou de cursos sequenciais de formação
+   específica.
+
+   Cálculo da Isenção: será calculada na proporção da ocupação efetiva das bolsas devidas
+   (RIR, art. 185).
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   PROGRAMA UNIVERSIDADE PARA TODOS — PROUNI
+
+
+   Atenção: para o gozo dessa isenção, a instituição de ensino deverá apurar o lucro da
+   exploração referente às atividades sobre as quais recaia a isenção, observado o disposto
+   na legislação do imposto sobre a renda (RIR, art. 185).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   PROGRAMA UNIVERSIDADE PARA TODOS — PROUNI
+
+   Atenção (atualização legislativa — Lei 14.350/2022): a adesão ao Prouni ocorre por
+   intermédio da mantenedora da instituição privada de ensino superior, e a isenção é
+   aplicada de acordo com as bolsas ofertadas e ocupadas durante o prazo de vigência do
+   termo de adesão (Lei 11.128/2005, art. 1º).
+
+   Condição de permanência: a mantenedora deve comprovar a quitação de tributos e
+   contribuições federais perante a Fazenda Nacional no prazo estabelecido pelo MEC para
+   emissão semestral do termo aditivo, sob pena de suspensão da participação no processo
+   seletivo seguinte do Prouni (Lei 11.128/2005, art. 1º, § 1º).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Isenções
+   ENTIDADES DE PREVIDÊNCIA COMPLEMENTAR
+
+   Hipótese de Isenção: ficam isentas do imposto sobre a renda as entidades fechadas de
+   previdência complementar e as entidades abertas de previdência complementar sem fins
+   lucrativos (RIR, art. 186; LC 109/2001).
+
+   Atenção: Abrange Entidades Fechadas e Abertas de Previdência complementar sem fins
+   lucrativos.
+
+Legislação Tributária
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Isenções
+   ENTIDADES DE PREVIDÊNCIA COMPLEMENTAR
+
+
+   Súmula STF 730: a imunidade tributária conferida a instituições de assistência social sem
+   fins lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas
+   de previdência social privada se não houver contribuição dos beneficiários. (Súmula STF
+   730).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                   
+
+
+---
+
+IRPJ – Isenções
+   EMPRESAS ESTRANGEIRAS DE TRANSPORTES
+
+   Navegação Marítima e Aérea: estão isentas do IRPJ as companhias estrangeiras de
+   navegação marítima e aérea se, no país de sua nacionalidade, as companhias brasileiras de
+   igual objetivo gozarem da mesma prerrogativa (RIR, art. 187).
+
+   Transporte Terrestre: essa isenção também alcança os rendimentos auferidos no tráfego
+   internacional por empresas estrangeiras de transporte terrestre, desde que, no país de sua
+   nacionalidade, tratamento idêntico seja dispensado às empresas brasileiras que tenham o
+   mesmo objeto (RIR, art. 187).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   EMPRESAS ESTRANGEIRAS DE TRANSPORTES
+
+   Atenção: a concessão da isenção para transporte depende de prévio reconhecimento por
+   parte da Receita Federal, alcançando apenas os rendimentos obtidos a partir da existência
+   de reciprocidade de tratamento, não podendo originar, em qualquer caso, direito à
+   restituição (RIR, art. 192, parágrafo único).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES DE POUPANÇA E EMPRÉSTIMO
+
+   Hipótese de Isenção: estão isentas do IRPJ as Associações de Poupança e Empréstimo,
+   devidamente autorizadas pelo órgão competente, constituídas sob a forma de sociedade
+   civil, tendo por objetivo propiciar ou facilitar a aquisição de casa própria aos associados,
+   captar, incentivar e disseminar a poupança, que atendam às normas estabelecidas pelo
+   Conselho Monetário Nacional (RIR, art. 188).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                   
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES DE POUPANÇA E EMPRÉSTIMO
+
+   Tributação das Aplicações Financeiras: no que concerne aos rendimentos e ganhos
+   líquidos auferidos em aplicações financeiras, tais associações pagarão o imposto devido
+   correspondente à alíquota de 15%, calculado sobre 28% do valor dos referidos
+   rendimentos e ganhos líquidos, e será considerado tributação definitiva (RIR, art. 861).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   ASSOCIAÇÕES DE POUPANÇA E EMPRÉSTIMO
+
+   Exemplo: uma associação de poupança e empréstimo aufere R$ 100.000,00 em
+   rendimentos de aplicações financeiras — a base de cálculo do IR será R$ 28.000,00 (28%),
+   sobre a qual incide a alíquota de 15%, resultando em R$ 4.200,00 de imposto devido (RIR,
+   art. 861).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Isenções
+   SOCIEDADES DE INVESTIMENTO COM CAPITAL ESTRANGEIRO
+
+   Hipótese de Isenção: as sociedades de investimento de cujo capital social participem
+   pessoas físicas ou jurídicas, residentes ou domiciliadas no exterior, farão jus à isenção do
+   IRPJ (RIR, art. 189).
+
+   Condições:
+   O gozo dessa isenção está condicionado ao cumprimento das normas e condições fixadas
+   pelo Conselho Monetário Nacional para regular o ingresso de recursos externos no País,
+   destinados à subscrição ou aquisição das ações de emissão das referidas sociedades,
+   relativas ao prazo mínimo de permanência do capital estrangeiro no País. (RIR, art. 189).
+
+
+   Observação: A base legal do inciso II do art. 189 foi revogada pela Lei nº 14.286, de 2021)
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                       @ProfFabioDutra
+                                    
+
+
+---
+
+IRPJ – Isenções
+   SOCIEDADES DE INVESTIMENTO COM CAPITAL ESTRANGEIRO
+
+   Atenção — Perda da Isenção: as sociedades de investimento que se enquadrarem no art.
+   189 deverão manter seus lucros ou suas reservas em contas específicas de acordo com as
+   normas do Conselho Monetário Nacional — caso tais normas sejam descumpridas, a
+   sociedade perderá o direito à isenção, ficando seus rendimentos sujeitos à tributação de
+   acordo com as normas aplicáveis às demais pessoas jurídicas
+
+   Havendo a perda da isenção, o Banco Central do Brasil proporá à Secretaria da Receita
+   Federal do Brasil do Ministério da Fazenda a constituição do crédito tributário. (RIR, art.
+   190).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                   
+
+
+---
+
+IRPJ – Isenções
+   ISENÇÕES ESPECÍFICAS
+
+   Entidade Binacional ITAIPU: é isenta do IRPJ a Entidade Binacional Itaipu (RIR, art. 191, I).
+
+   Fundo Garantidor de Crédito — FGC: é isento do IRPJ o Fundo Garantidor de Crédito —
+   FGC (RIR, art. 191, II).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                       @ProfFabioDutra
+                                    
+
+
+---
+
+---
+
+IRPJ – LUCRO REAL -
+ADIÇÕES, EXCLUSÕES E COMPENSAÇÕES
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Lucro Real
+DETERMINAÇÃO DO LUCRO REAL
+
+Conceito de Ajuste: o lucro real é o lucro líquido do período de apuração ajustado pelas
+adições, exclusões ou compensações prescritas ou autorizadas pelo Regulamento (RIR, art.
+258).
+
+Lógica dos Ajustes: os ajustes adequam o resultado contábil ao resultado aceito pelo Fisco,
+pois há despesas que reduzem o lucro contábil, mas não podem reduzir o lucro real (RIR,
+art. 258).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+ADIÇÕES AO LUCRO LÍQUIDO
+
+Valores Deduzidos Indevidamente: devem ser adicionados ao lucro líquido os custos,
+despesas, encargos, perdas, provisões, participações e quaisquer outros valores deduzidos
+na apuração do lucro líquido que, de acordo com o RIR, não sejam dedutíveis na
+determinação do lucro real (RIR, art. 260, I).
+
+Valores Não Computados: devem ser adicionados, ainda, os resultados, rendimentos,
+receitas e quaisquer outros valores não incluídos na apuração do lucro líquido que, de
+acordo com o RIR, devam ser computados na determinação do lucro real (RIR, art. 260, II).
+
+Atenção: o objetivo das adições é aumentar o lucro real.
+
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+ADIÇÕES AO LUCRO LÍQUIDO
+
+Diferimento entre Períodos: os valores que, por competirem a outro período de apuração,
+forem adicionados ao lucro líquido do período de apuração, ou dele excluídos, serão, no
+período competente, excluídos do lucro líquido ou a ele adicionados, respectivamente
+(RIR, art. 258, §2º).
+
+Exemplo: na venda a longo prazo de bem imóvel, o lucro é excluído no ano da venda e
+adicionado no ano do efetivo recebimento (RIR, art. 484).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+ADIÇÕES AO LUCRO LÍQUIDO
+
+Demais Adições: também devem ser adicionadas:
+
+❑ As quantias retiradas de lucros ou fundos ainda não tributados para aumento de capital
+  ou distribuição de interesses;
+
+❑ As perdas em operações de day-trade;
+
+❑ O valor da CSLL registrado como custo ou despesa operacional (RIR, art. 260, parágrafo
+  único, I, III, VIII).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+ADIÇÕES AO LUCRO LÍQUIDO
+
+Despesas Não Dedutíveis: também devem ser adicionadas:
+
+❑ As despesas com alimentação de sócios, acionistas e administradores, ressalvada a
+  aquisição de alimentos para utilização fora do estabelecimento;
+
+
+❑ As contribuições não compulsórias, as doações, como regra; e
+
+
+❑ As despesas com brindes (RIR, art. 260, parágrafo único, IV, V, VI, VII).
+
+
+Legislação Tributária
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+ADIÇÕES AO LUCRO LÍQUIDO
+
+Depreciação Excedente: deve ser adicionado:
+
+O valor correspondente à depreciação ou amortização constante da escrituração
+comercial, a partir do período em que o total da depreciação ou amortização acumulada,
+incluídas a contábil e a acelerada incentivada, atingir o custo de aquisição do bem (RIR,
+art. 260, parágrafo único, XII).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXCLUSÕES DO LUCRO LÍQUIDO
+
+Valores Dedutíveis Não Lançados: podem ser excluídos do lucro líquido os valores cuja
+dedução seja autorizada pelo RIR e que não tenham sido computados na apuração do lucro
+líquido do período de apuração (RIR, art. 261, I).
+
+
+Atenção: o objetivo das exclusões é diminuir o lucro real, ao contrário do que ocorre nas
+adições.
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXCLUSÕES DO LUCRO LÍQUIDO
+
+Valores Não Tributáveis: podem ser excluídos, ainda, os resultados, rendimentos, receitas
+e quaisquer outros valores incluídos na apuração do lucro líquido que, de acordo com o
+RIR, não sejam computados no lucro real (RIR, art. 261, II).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXCLUSÕES DO LUCRO LÍQUIDO
+
+Diferimento entre Períodos: aplica-se também às exclusões a regra segundo a qual os
+valores adicionados ao lucro líquido do período de apuração, ou dele excluídos, por
+competirem a outro período, serão, no período competente, excluídos do lucro líquido ou
+a ele adicionados, respectivamente (RIR, art. 258, §2º).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXCLUSÕES DO LUCRO LÍQUIDO
+
+Demais Exclusões: podem ser excluídos:
+
+❑ Os rendimentos e ganhos de capital nas transferências de imóveis desapropriados para
+  fins de reforma agrária, quando auferidos pelo desapropriado; e
+
+❑ As reversões dos saldos das provisões não dedutíveis (RIR, art. 261, parágrafo único, I,
+  V).
+
+❑ Exemplo: uma provisão para contingências, antes indedutível e adicionada, gera
+  exclusão quando revertida contabilmente em período posterior.
+
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Previsão Legal: pode ser excluído do lucro líquido do período de apuração o prejuízo fiscal
+apurado em períodos de apuração anteriores, limitada a compensação a 30% do lucro
+líquido ajustado pelas adições e exclusões previstas no RIR (RIR, art. 261, III).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Fórmula de Apuração: o lucro real é apurado pela seguinte sequência:
+
+❑ Lucro líquido + adições − exclusões = lucro líquido ajustado; e
+
+❑ Lucro líquido ajustado − compensações (limitadas a 30%) = lucro real (RIR, arts. 258 e
+  261, III).
+
+Atenção: o limite de 30% incide sobre o lucro líquido ajustado, e não sobre o montante do
+prejuízo fiscal, e o prazo para compensação é indeterminado.
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Condição: a compensação depende de a pessoa jurídica manter os livros e documentos
+exigidos pela legislação fiscal, comprobatórios do prejuízo fiscal utilizado para
+compensação (RIR, art. 261, III).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Prejuízo Compensável: o prejuízo compensável é o apurado na demonstração do lucro real
+e registrado no Lalur (RIR, art. 579).
+
+Flexibilidade: a compensação poderá ser total ou parcial, em um ou mais períodos de
+apuração, à opção do contribuinte, observado o limite estabelecido no art. 580 (RIR, art.
+579, §1º).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Independência das Esferas: a absorção, por meio de débito à conta de lucros acumulados,
+de reservas de lucros ou capital, ao capital social, ou à conta de sócios, de prejuízos
+apurados na escrituração comercial não prejudica o direito à compensação (RIR, art. 579,
+§2º).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO DE PREJUÍZOS FISCAIS
+
+Exemplo: Imagine que a empresa teve, em 2024, um prejuízo fiscal de R$ 100.000,00.
+Na contabilidade, esse prejuízo também apareceu como prejuízo acumulado.
+
+Depois, os sócios decidem “zerar” esse prejuízo contábil usando uma reserva de lucros ou de
+capital. Ficaria assim:
+
+Prejuízo acumulado contábil: R$ 100.000,00
+Reserva usada para absorver o prejuízo: R$ 100.000,00
+Prejuízo acumulado no balanço: R$ 0,00
+
+Contabilmente, o prejuízo desapareceu do patrimônio líquido. Mas isso não apaga o prejuízo
+fiscal: continua existindo e pode ser compensado no futuro.
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+RESTRIÇÕES À COMPENSAÇÃO
+
+Mudança de Controle e Ramo: a pessoa jurídica não poderá compensar seus próprios
+prejuízos fiscais se, entre a data da apuração e da compensação, houver ocorrido,
+cumulativamente, modificação de seu controle societário e do ramo de atividade (RIR, art.
+584).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RESTRIÇÕES À COMPENSAÇÃO
+
+Sucessão Empresarial: a pessoa jurídica sucessora por incorporação, fusão ou cisão não
+poderá compensar prejuízos fiscais da sucedida (RIR, art. 585, caput).
+
+Atenção: no caso de cisão parcial, a pessoa jurídica cindida poderá compensar os seus
+próprios prejuízos, proporcionalmente à parcela remanescente do patrimônio líquido (RIR,
+art. 585, parágrafo único).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RESTRIÇÕES À COMPENSAÇÃO
+
+Sociedade em Conta de Participação: o prejuízo fiscal apurado por Sociedade em Conta de
+Participação somente poderá ser compensado com o lucro real decorrente da mesma SCP
+(RIR, art. 586).
+
+Atenção: é vedada a compensação de prejuízos fiscais e lucros entre duas ou mais SCP ou
+entre estas e o sócio ostensivo (RIR, art. 586, parágrafo único).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+TIPOS DE PREJUÍZOS FISCAIS
+
+Prejuízo Fiscal Geral (Demais Atividades): é o prejuízo apurado na demonstração do lucro
+real e registrado no Lalur. Pode ser compensado com lucros reais futuros, observado o
+limite de 30% do lucro líquido ajustado (RIR, arts. 579 e 580).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+TIPOS DE PREJUÍZOS FISCAIS
+
+Prejuízo Fiscal Não Operacional: decorre da alienação de bens e direitos do ativo
+imobilizado, investimento e intangível. Sua compensação é mais restrita: somente poderá
+ser feita com lucros de mesma natureza, também observado o limite de 30% (RIR, art.
+581).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+TIPOS DE PREJUÍZOS FISCAIS
+
+Prejuízo da Atividade Rural: possui tratamento favorecido. O prejuízo apurado na
+exploração de atividade rural poderá ser compensado com resultado positivo da mesma
+atividade em períodos posteriores, sem aplicação do limite de 30% (RIR, art. 583).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                              
+
+
+---
+
+IRPJ – Lucro Real
+CONTROLE DE PREJUÍZOS FISCAIS
+
+Controle Individualizado: os prejuízos fiscais não operacionais devem ser controlados
+separadamente na Parte B do e-Lalur, porque sua compensação possui restrição própria.
+
+
+Restrição de Compensação: o prejuízo fiscal não operacional somente poderá ser
+compensado com lucros de mesma natureza, isto é, lucros não operacionais apurados em
+períodos posteriores, observado o limite de 30% (RIR, arts. 580 e 581).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+COMPENSAÇÃO NA ATIVIDADE RURAL
+
+Exceção ao Limite de 30%: o prejuízo apurado pela pessoa jurídica na exploração de
+atividade rural poderá ser compensado com o resultado positivo obtido na mesma
+atividade em períodos de apuração posteriores, desconsiderado o limite previsto no caput
+do art. 580 (RIR, art. 583).
+
+Restrição de Natureza Mantida: ainda que o limite de 30% não se aplique, o prejuízo rural
+deve ser compensado com resultado positivo da mesma atividade rural (RIR, art. 583).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXEMPLO NUMÉRICO: ADIÇÃO E EXCLUSÃO
+Cenário: a empresa Alfa vende um bem do ativo permanente no Ano 1, reconhecendo
+contabilmente o lucro da venda, mas recebe o valor integralmente apenas no Ano 2 (RIR,
+art. 484).
+
+Ano 1 — Lucro Líquido: o lucro líquido do período de apuração, apurado na DRE, é de R$
+100.000,00, incluindo o lucro de R$ 50.000,00 obtido na venda do bem.
+
+Ano 1 — Exclusão: como o preço da venda ainda não foi recebido, o valor de R$ 50.000,00
+é excluído do lucro líquido, para efeito de determinação do lucro real do Ano 1 (RIR, art.
+258, §2º).
+
+Ano 1 — Lucro Real: o lucro real do Ano 1 corresponde a R$ 50.000,00, resultado de R$
+100.000,00 de lucro líquido menos R$ 50.000,00 de exclusão.
+Legislação Tributária
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+
+Legislação Tributária
+Prof. Fábio Dutra                                            @ProfFabioDutra
+                        
+
+
+---
+
+IRPJ – Lucro Real
+EXEMPLO NUMÉRICO: ADIÇÃO E EXCLUSÃO
+
+Ano 2 — Lucro Líquido: o lucro líquido do período de apuração do Ano 2 é de R$ 80.000,00, sem
+qualquer novo registro relativo à venda do bem, já contabilizada no Ano 1.
+
+Ano 2 — Adição: com o recebimento integral do preço no Ano 2, o valor de R$ 50.000,00, antes
+excluído, é adicionado ao lucro líquido, para efeito de determinação do lucro real do Ano 2 (RIR,
+art. 258, §2º).
+
+Ano 2 — Lucro Real: o lucro real do Ano 2 corresponde a R$ 130.000,00, resultado de R$
+80.000,00 de lucro líquido mais R$ 50.000,00 de adição.
+
+Atenção: o mesmo valor de R$ 50.000,00 não é tributado duas vezes, apenas desloca-se do Ano
+1 para o Ano 2, respeitando o momento do efetivo recebimento (RIR, art. 258, §2º).
+
+Legislação Tributária
+Prof. Fábio Dutra                                                                        @ProfFabioDutra
+                                   
+
+
+---
+
+IRPJ – Lucro Real
+
+Legislação Tributária
+Prof. Fábio Dutra                                            @ProfFabioDutra
+                        
+
+
+---
+
+---
+
+IRPJ – LUCRO REAL – CUSTOS E
+DESPESAS - PARTE 1
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS DEDUTÍVEIS E INDEDUTÍVEIS
+
+Despesas Indedutíveis: há despesas contabilizadas na demonstração de resultado que
+reduzem o lucro contábil, mas que não são aceitas pelo Fisco para reduzir o lucro real,
+casos em que se promove o ajuste por adição.
+
+Despesas Dedutíveis: as despesas aceitas pela legislação tributária como dedutíveis do
+lucro real já foram subtraídas para se chegar ao lucro líquido, ponto de partida para a
+apuração do lucro real, não havendo ajuste a ser feito.
+
+Atenção: a análise da dedutibilidade das despesas passa por disposições gerais e por regras
+específicas previstas no RIR.
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+
+              
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS OPERACIONAIS
+
+Regra Geral: são dedutíveis as despesas operacionais usuais ou normais no tipo de
+transações, operações ou atividades da empresa (RIR, art. 311).
+
+
+Conceito Legal: consideram-se despesas operacionais aquelas não computadas nos custos,
+e que forem necessárias à atividade da empresa e à manutenção da respectiva fonte
+produtora (RIR, art. 311).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS OPERACIONAIS
+
+Despesas Necessárias: são necessárias as despesas pagas ou incorridas para a realização
+das transações ou operações exigidas pela atividade da empresa (RIR, art. 311).
+
+Atenção: as disposições acima aplicam-se também às gratificações pagas aos empregados,
+independentemente da designação que tiverem (RIR, art. 311, §3º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS OPERACIONAIS
+
+Extensão às Despesas: as disposições sobre dedutibilidade de rendimentos pagos a
+terceiros aplicam-se igualmente aos custos e às despesas operacionais (RIR, art. 312).
+
+Atenção: a exigência de comprovação e de individualização do beneficiário, prevista para
+rendimentos pagos a terceiros, estende-se, dessa forma, aos custos e às despesas
+operacionais (RIR, art. 312).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+APLICAÇÕES DE CAPITAL
+
+Vedação de Dedução: o custo de aquisição de bens do ativo não circulante imobilizado e
+intangível não poderá ser deduzido como despesa operacional (RIR, art. 313).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+APLICAÇÕES DE CAPITAL
+
+Exceção de Pequeno Valor: admite-se a dedução quando o bem adquirido tiver valor unitário
+não superior a R$ 1.200,00 (RIR, art. 313).
+
+OU
+
+Exceção de Vida Útil: admite-se a dedução, ainda, quando o bem adquirido tiver prazo de vida
+útil não superior a 1 ano (RIR, art. 313).
+
+Exemplo: a compra de uma calculadora de R$ 300,00 pode ser deduzida diretamente como
+despesa, sem necessidade de ativação e depreciação.
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+PAGAMENTOS A PESSOA FÍSICA VINCULADA
+
+Impugnação de Pagamentos: os pagamentos, de qualquer natureza, a titular, sócio ou
+dirigente da pessoa jurídica, ou a parente deles, poderão ser impugnados pela autoridade
+lançadora, se o contribuinte não provar a prestação efetiva dos serviços, no caso de
+compensação por trabalho assalariado, autônomo ou profissional (RIR, art. 314, I).
+
+Outros Rendimentos: nos demais casos, o contribuinte deve provar a origem e a
+efetividade da operação ou transação (RIR, art. 314, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PAGAMENTOS A PESSOA FÍSICA VINCULADA
+
+Atenção: não serão dedutíveis, como custos ou despesas operacionais, as gratificações ou
+participações no resultado atribuídas aos dirigentes ou administradores da pessoa jurídica
+(RIR, art. 315).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+BENEFICIÁRIO NÃO IDENTIFICADO
+
+Falta de Indicação da Causa: não são dedutíveis as importâncias declaradas como pagas ou
+creditadas a título de comissões, bonificações, gratificações ou semelhantes quando não
+for indicada a operação ou a causa que deu origem ao rendimento (RIR, art. 316, I).
+
+Falta de Individualização: também não são dedutíveis quando o comprovante do
+pagamento não individualizar o beneficiário do rendimento (RIR, art. 316, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+BENEFICIÁRIO NÃO IDENTIFICADO
+
+Tributação Exclusiva na Fonte: fica sujeito à incidência do imposto sobre a renda
+exclusivamente na fonte, à alíquota de 35%, todo pagamento efetuado pelas pessoas
+jurídicas a beneficiário não identificado, ressalvado o disposto em normas especiais (RIR,
+art. 730).
+
+
+Atenção! Esta regra também se aplica aos pagamentos efetuados ou aos recursos
+entregues a terceiros ou sócios, acionistas ou titular, contabilizados ou não, quando não
+for comprovada a operação ou a sua causa.
+
+Momento do Fato Gerador: considera-se vencido o imposto sobre a renda na fonte no dia do
+pagamento da referida importância, sendo diária a apuração do imposto (RIR, art. 730).
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+BENEFICIÁRIO NÃO IDENTIFICADO
+
+Exemplo: um pagamento sem nota fiscal e sem identificação do beneficiário sujeita a
+empresa ao IRRF de 35%, ainda que o valor já tenha sido contabilizado como despesa
+(despesa indedutível).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+IRPJ – LUCRO REAL – CUSTOS E
+DESPESAS - PARTE 2
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Conceito Legal: poderá ser computada, como custo ou encargo, em cada período de
+apuração, a importância correspondente à diminuição do valor dos bens móveis e imóveis
+do ativo resultante do desgaste pelo uso, ação da natureza e obsolescência normal (RIR,
+art. 317, caput).
+
+Momento da Dedução: a quota de depreciação é dedutível a partir da época em que o
+bem é instalado, posto em serviço ou em condições de produzir (RIR, art. 317, §§1º e 2º).
+
+Quota de Depreciação: a quota de depreciação dedutível na apuração do imposto será
+determinada mediante a aplicação da taxa anual de depreciação sobre o custo de
+aquisição do ativo (RIR, art. 319).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Taxa Anual: a taxa anual de depreciação diz respeito ao percentual fixado em função do
+prazo durante o qual se possa esperar utilização econômica do bem pelo contribuinte, na
+produção de seus rendimentos (RIR, art. 320, caput).
+
+Atenção: compete à Receita Federal publicar periodicamente o prazo de vida útil
+admissível, em condições normais ou médias, para cada espécie de bem, podendo o
+contribuinte computar taxa diferente, desde que faça a prova da adequação (RIR, art. 320,
+§1º).
+
+Exemplo: um bem com vida útil de 5 anos tem taxa anual de depreciação de 20% (100% ÷
+5).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Taxa Anual: a taxa anual de depreciação diz respeito ao percentual fixado em função do
+prazo durante o qual se possa esperar utilização econômica do bem pelo contribuinte, na
+produção de seus rendimentos (RIR, art. 320, caput).
+
+Atenção: compete à Receita Federal publicar periodicamente o prazo de vida útil
+admissível, em condições normais ou médias, para cada espécie de bem, podendo o
+contribuinte computar taxa diferente, desde que faça a prova da adequação (RIR, art. 320,
+§1º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Exemplos de Taxa Anual Constante da IN RFB 1881/2019:
+
+❑ Edificações – 4% (Prazo de vida útil: 25 anos);
+❑ Veículos Automóveis para Transporte de Mercadorias: 25% (Prazo de vida útil: 4 anos);
+❑ Outros Móveis para Escritório – 10% (Prazo de vida útil: 10 anos);
+❑ Automóveis de Passageiros – 20% (Prazo de vida útil: 5 anos);
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Bens Depreciáveis: somente será permitida depreciação de bens móveis e imóveis
+intrinsecamente relacionados com a produção ou comercialização dos bens e serviços (RIR,
+art. 305, §5º).
+
+Bens Admitidos: podem ser objeto de depreciação os edifícios e construções e os projetos
+florestais destinados à exploração dos respectivos frutos (RIR, art. 318, I, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Bens Não Depreciáveis: não será admitida quota de depreciação referente a:
+
+❑ terrenos, exceto em relação aos melhoramentos ou às construções;
+
+❑ prédios ou construções não alugados nem utilizados pelo proprietário na produção dos
+  seus rendimentos ou destinados à revenda;
+
+❑ bens que normalmente aumentam de valor com o tempo, como obras de arte ou
+  antiguidades; e
+
+❑ bens para os quais seja registrada quota de exaustão. (RIR, art. 318, par. único).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                      @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO
+
+Limite do Acumulado: em qualquer hipótese, o montante acumulado das quotas de
+depreciação não poderá ultrapassar o custo de aquisição do bem (RIR, art. 317, §3º).
+
+Bens Usados: a taxa anual de depreciação de bens usados será fixada tendo em vista o
+maior dos seguintes prazos:
+
+❑ A metade da vida útil admissível para o bem adquirido novo; ou
+❑ O restante da vida útil, considerada esta em relação à primeira instalação para
+  utilização do bem (RIR, art. 322, I, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA CONTÁBIL
+
+Coeficientes por Turno: em relação aos bens móveis, poderão ser adotados, em função do
+número de horas diárias de operação, os coeficientes de depreciação acelerada de:
+
+1,0 - para um turno de oito horas;
+1,5 para dois turnos de oito horas; e
+2,0 para três turnos de oito horas (RIR, art. 323, caput, I, II, III).
+
+Exemplo: uma máquina com vida útil de 5 anos e taxa anual de 20% passa a ter taxa de
+40% (20% x 2,0) se a indústria operar em três turnos de oito horas.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                     
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+Benefício Fiscal: a depreciação acelerada incentivada é benefício fiscal que tem por
+objetivo incentivar a implantação, renovação ou modernização de instalações e
+equipamentos, para determinadas indústrias ou atividades, não importando se a empresa
+funciona em um, dois ou três turnos (RIR, art. 324).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+Benefício Fiscal: As empresas que exerçam, simultaneamente, atividades comerciais e
+industriais poderão utilizar o benefício em relação aos bens destinados exclusivamente à
+atividade industrial. (RIR, art. 324).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+Atenção: por não representar despesa contabilizada na apuração do lucro líquido, a
+dedutibilidade da depreciação acelerada incentivada ocorre por meio de ajuste por
+exclusão.
+
+Atenção: a partir do período em que o valor da depreciação acumulada, contábil e
+acelerada, atingir o custo de aquisição do bem, o excedente de despesa contábil
+registrada deve ser ajustado por adição.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+No começo, a depreciação acelerada incentivada antecipa uma dedução fiscal por meio de
+exclusão no Lalur. Depois, quando a soma da depreciação normal + acelerada atinge o
+custo do bem, a depreciação contábil normal que continuar aparecendo na DRE precisa ser
+adicionada no Lalur, para evitar dedução acima do custo do bem.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+Contabilidade:
+Depreciação normal registrada na DRE: R$ 20.000,00
+Lucro líquido contábil:             R$ 300.000,00
+
+No Lalur:
+Exclusão — depreciação acelerada incentivada: R$ 30.000,00 (totalizando 50.000)
+Lucro real do Período: R$ 270.000,00
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+DEPRECIAÇÃO ACELERADA INCENTIVADA
+
+Atividade Rural: Os bens do ativo não circulante imobilizado, exceto a terra nua,
+adquiridos por pessoa jurídica que explore a atividade rural, de que trata o art. 51 , para
+uso nessa atividade, poderão ser depreciados integralmente no próprio ano de aquisição
+(RIR, art. 325).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Conceito Legal na Lei das S.A.: a amortização corresponde à perda do valor do capital
+aplicado na aquisição de direitos de propriedade industrial ou comercial e quaisquer
+outros com existência ou exercício de duração limitada, ou cujo objeto sejam bens de
+utilização por prazo legal ou contratualmente limitado (Lei nº 6.404/1976, art. 183, §2º,
+b).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Custo ou Encargo: Poderá ser computada como custo ou encargo, em cada período de
+apuração, a importância correspondente à recuperação do capital aplicado na aquisição de
+direitos cuja existência ou cujo exercício tenha duração limitada, ou de bens cuja
+utilização pelo contribuinte tenha o prazo legal ou contratualmente limitado (RIR, art.
+330).
+
+Limite do Acumulado: o montante acumulado das quotas de amortização não poderá
+ultrapassar o custo de aquisição do bem ou direito, ou o valor das despesas (RIR, art. 330).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Término Antes da Amortização: Se a existência ou o exercício do direito, ou a utilização do
+bem, terminar antes da amortização integral de seu custo, o saldo não amortizado
+constituirá encargo no período de apuração em que se extinguir o direito ou terminar a
+utilização do bem. (RIR, art. 330, §. 3º)
+
+
+Restrição da Amortização: Somente será permitida a amortização de bens e direitos
+intrinsecamente relacionados com a produção ou a comercialização dos bens e dos
+serviços. (RIR, art. 330, §. 4º)
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Direitos Amortizáveis: poderão ser amortizados:
+
+❑ patentes de invenção, fórmulas e processos de fabricação, direitos autorais, licenças,
+  autorizações ou concessões;
+
+❑ custo de aquisição, prorrogação ou modificação de contratos e direitos de qualquer
+  natureza, inclusive de exploração de fundos de comércio;
+
+❑ custos de construções ou benfeitorias em bens locados ou arrendados, ou em bens de
+  terceiros, quando não houver direito ao recebimento de seu valor; (RIR, art. 331)
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Direitos Amortizáveis: poderão ser amortizados:
+
+❑ o valor de direitos contratuais de exploração de florestas de que trata o art. 334; e
+
+❑ os demais direitos classificados no ativo não circulante intangível. (RIR, art. 331)
+
+
+Atenção: não será admitida amortização de bens, custos ou despesas para os quais seja
+registrada quota de exaustão (RIR, art. 331, parágrafo único).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                        @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Quota de Amortização: a quota de amortização dedutível em cada período de apuração
+será determinada pela aplicação da taxa anual de amortização sobre o valor original do
+capital aplicado (RIR, art. 332, caput).
+
+
+Taxa Anual: A taxa anual de amortização será estabelecida tendo em vista o número de
+anos restantes de existência do direito.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+AMORTIZAÇÃO
+
+Direitos de exploração de florestas: A quota anual de amortização do valor dos direitos
+contratuais de exploração de florestas terá como base de cálculo o valor do contrato e será
+calculada em função do prazo de sua duração (RIR, art. 334, caput).
+
+Atenção: não se aplica aos contratos de exploração firmados por prazo indeterminado
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO
+
+Conceito Legal: a exaustão corresponde à perda de valor, decorrente de sua exploração,
+de direitos cujo objeto sejam recursos minerais ou florestais, ou bens aplicados nessa
+exploração (Lei nº 6.404/1976, art. 183, §2º, c).
+
+Recursos Minerais: poderá ser computada como custo ou encargo, em cada período de
+apuração, a importância correspondente à diminuição do valor de recursos minerais,
+resultante da sua exploração (RIR, art. 336).
+
+Atenção: não é possível computar exaustão quando se trata de jazidas minerais
+inesgotáveis ou de exaurimento indeterminável, como as de água mineral.
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO
+
+Recursos Florestais: poderá ser computada como custo ou encargo, em cada período de
+apuração, a importância correspondente à diminuição do valor de recursos florestais,
+resultante de sua exploração (RIR, art. 337).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO
+
+Base de Cálculo Mineral: a quota de exaustão será determinada de acordo com os
+princípios de depreciação, com base no custo de aquisição ou prospecção dos recursos
+minerais explorados (RIR, art. 336).
+
+Atenção: O montante da quota de exaustão será determinado tendo em vista o volume da
+produção no período e a sua relação com a possança conhecida da mina ou em função do
+prazo de concessão
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO
+
+Base de Cálculo Florestal: no caso dos recursos florestais, a quota de exaustão terá como
+base de cálculo o valor das florestas.
+
+Atenção: Basicamente, analisa-se o percentual que o volume ou a quantidade de árvores
+extraídos no período representa em relação ao volume ou à quantidade que, no início do
+período, compunham a floresta (RIR, art. 337).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO
+
+Atenção: São vedadas as deduções de despesas de exaustão geradas por bem objeto de
+arrendamento mercantil pela arrendatária, na hipótese em que esta reconhecer
+contabilmente o encargo. (RIR, art. 337).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+EXAUSTÃO x AMORTIZAÇÃO
+
+Amortização dos direitos contratuais de exploração de florestas: a empresa pagou para
+ter o direito de explorar uma floresta por determinado prazo. Esse direito tem duração
+contratual limitada. Por isso, o custo desse direito é recuperado por amortização, ao longo
+do prazo do contrato. (RIR, art. 334)
+
+Exaustão dos recursos florestais: A empresa tem uma floresta destinada a corte, ou tem
+um direito de exploração por prazo indeterminado. Nesse caso, não faz sentido dividir o
+custo pelo prazo contratual, porque o foco não é o tempo do contrato. O foco é o quanto
+da floresta foi efetivamente explorado. (RIR, art. 337)
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+---
+
+---
+
+IRPJ – LUCRO REAL – CUSTOS E
+DESPESAS - PARTE 3
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS PRÉ-OPERACIONAIS OU PRÉ-INDUSTRIAIS
+
+❑ Não serão computadas, no período de apuração em que incorridas, as despesas (Lei nº
+  12.973, de 2014, art. 11, caput) :
+
+❑ I - de organização pré-operacionais ou pré-industriais, inclusive da fase inicial de
+  operação, quando a empresa houver utilizado apenas parcialmente o seu equipamento
+  ou as suas instalações; e
+
+❑ II - de expansão das atividades industriais.
+
+
+❑ A ideia é evitar que a empresa deduza de uma vez despesas ligadas à implantação ou
+  expansão da atividade.
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+DESPESAS PRÉ-OPERACIONAIS OU PRÉ-INDUSTRIAIS
+
+❑ As despesas poderão ser excluídas para fins de determinação do lucro real, em quotas
+  fixas mensais e no prazo mínimo de cinco anos, contado a partir (Lei nº 12.973, de 2014,
+  art. 11, parágrafo único) :
+
+❑ I - do início das operações ou da plena utilização das instalações, na hipótese prevista
+  no inciso I do caput ; e
+
+❑ II - do início das atividades das novas instalações, na hipótese prevista no inciso II do
+  caput .
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+Regra de Indedutibilidade: em razão da incerteza que envolve sua constituição, somente
+são dedutíveis as provisões expressamente autorizadas no RIR (RIR, art. 339).
+
+Exemplo: a provisão para devedores duvidosos, por não estar entre as hipóteses
+autorizadas, é indedutível na apuração do lucro real.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+
+Provisões Técnicas Compulsórias: são dedutíveis as provisões técnicas compulsórias das
+companhias de seguro e de capitalização, das entidades de previdência privada e das
+operadoras de planos de assistência à saúde, cuja constituição é exigida pela legislação
+especial a elas aplicável (RIR, art. 340).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+Estoque de Livros: é dedutível a provisão para perda de estoques, calculada no último dia
+de cada período de apuração, correspondente a 1/3 do valor do estoque existente naquela
+data, aplicável às pessoas jurídicas que exerçam as atividades de editor, distribuidor ou
+livreiro (RIR, art. 341).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+Férias e Décimo Terceiro: são dedutíveis as provisões para pagamento de férias e as
+provisões para pagamento de décimo terceiro salário (RIR, art. 342 e art. 343).
+
+
+Abrange: valor acrescido dos encargos sociais, cujo ônus cabe à pessoa jurídica.
+
+
+Atenção: excetuadas as provisões dedutíveis, as demais despesas contabilizadas a esse
+título são indedutíveis, devendo o ajuste ao lucro líquido ocorrer por meio de adição.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+Reversão de Provisão: na hipótese de reversão de provisão indedutível, a receita
+registrada na contabilidade não é tributável, pois tem como finalidade apenas anular uma
+despesa não dedutível, devendo ser promovida a exclusão no lucro líquido do período.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PROVISÕES
+
+Provisão para IR: também é indedutível a provisão para imposto sobre a renda, relativa ao
+imposto devido sobre o lucro real e sobre os lucros cuja tributação tenha sido diferida,
+referentes ao mesmo período de apuração (RIR, art. 344).
+
+Atenção: o lançamento a débito em conta de resultado da provisão para o imposto de
+renda não pode impactar a base de cálculo do próprio imposto (RIR, art. 344, parágrafo
+único).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Base Legal: a sistemática atual de dedução das perdas no recebimento de créditos é
+baseada no reconhecimento de perdas efetivas, e não apenas em estimativas, nos termos
+da Lei nº 9.430, de 1996, com as alterações da Lei nº 13.097, de 2015.
+
+Insolvência Declarada: poderão ser registrados como perda os créditos em relação aos
+quais tenha havido a declaração de insolvência do devedor, em sentença emanada do
+Poder Judiciário (Lei nº 9.430/1996, art. 9º, I).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Créditos Sem Garantia: poderão ser registrados como perda os créditos sem garantia, de
+valor até R$ 15.000,00 por operação, vencidos há mais de seis meses, independentemente
+de iniciados os procedimentos judiciais para o seu recebimento (Lei nº 9.430/1996, art.
+9º,§ 7º II, a).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Faixa Intermediária: poderão ser registrados como perda os créditos sem garantia, de
+valor acima de R$ 15.000,00 até R$ 100.000,00 por operação, vencidos há mais de um ano,
+independentemente de iniciados os procedimentos judiciais, mantida a cobrança
+administrativa (Lei nº 9.430/1996, art. 9º, II, b).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Créditos de Maior Valor: poderão ser registrados como perda os créditos sem garantia
+superiores a R$ 100.000,00, vencidos há mais de um ano, desde que iniciados e mantidos
+os procedimentos judiciais para o seu recebimento (Lei nº 9.430/1996, art. 9º, II, c).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Créditos com Garantia: poderão ser registrados como perda os créditos com garantia,
+vencidos há mais de dois anos, de valor até R$ 50.000,00, independentemente de
+procedimentos judiciais, ou superior a R$ 50.000,00, desde que iniciados e mantidos os
+procedimentos judiciais ou o arresto das garantias (Lei nº 9.430/1996, art. 9º, III, a, b).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                   @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Falência e Recuperação Judicial: poderão ser registrados como perda os créditos contra
+devedor declarado falido ou pessoa jurídica em concordata ou recuperação judicial,
+relativamente à parcela que exceder o valor que esta tenha se comprometido a pagar (Lei
+nº 9.430/1996, art. 9º, IV).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+PERDAS NO RECEBIMENTO DE CRÉDITOS
+
+Vedação por Vinculação: não será admitida a dedução de perda no recebimento de
+créditos com pessoa jurídica que seja controladora, controlada, coligada ou interligada,
+bem como com pessoa física que seja acionista controlador, sócio, titular ou administrador
+da pessoa jurídica credora, ou parente até o terceiro grau dessas pessoas físicas (Lei nº
+9.430/1996, art. 9º, §6º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+TRIBUTOS E MULTAS POR INFRAÇÕES
+
+Regra Geral: os tributos são dedutíveis, na determinação do lucro real, segundo o regime
+de competência (RIR, art. 352).
+
+Exigibilidade Suspensa: essa permissão não se aplica aos tributos e contribuições cuja
+exigibilidade esteja suspensa, nos termos dos incisos II a V do art. 151 da Lei nº 5.172, de
+1966, haja ou não depósito judicial (RIR, art. 352).
+
+Indedutibilidade da CSLL: a CSLL não é dedutível para efeito de determinação do lucro
+real, devendo ser adicionada ao lucro líquido (RIR, art. 352, §6º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+TRIBUTOS E MULTAS POR INFRAÇÕES
+
+Imposto de Renda Próprio: na determinação do lucro real, a pessoa jurídica não poderá
+deduzir como custo ou despesa o imposto de renda de que for sujeito passivo como
+contribuinte ou como responsável em substituição ao contribuinte (RIR, art. 352, §2º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+TRIBUTOS E MULTAS POR INFRAÇÕES
+
+IR sobre rendimentos pagos a terceiros: A dedutibilidade, como custo ou despesa, de
+rendimentos pagos ou creditados a terceiros abrange o imposto sobre os rendimentos que
+o contribuinte, como fonte pagadora, tiver o dever legal de reter e recolher, ainda que
+assuma o ônus do imposto (RIR, art. 352, §3º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+TRIBUTOS E MULTAS POR INFRAÇÕES
+
+    ❑ O IRPJ da própria empresa não é dedutível.
+
+    ❑ O IRRF de terceiros pode compor a despesa dedutível, se a empresa assumiu esse
+      ônus como fonte pagadora.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+TRIBUTOS E MULTAS POR INFRAÇÕES
+
+Multas por Infrações: não são dedutíveis como custo ou despesas operacionais as multas
+por infrações fiscais, salvo as de natureza compensatória e as impostas por infrações de
+que não resultem em falta ou insuficiência de pagamento de tributo (RIR, art. 352, §5º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+ALUGUÉIS
+
+Requisitos de Dedução: a dedução de despesas com aluguéis será admitida:
+
+❑ Quando necessárias para que o contribuinte mantenha a posse, uso ou fruição do bem
+  ou direito que produz o rendimento; e
+
+❑ Se o aluguel não constituir aplicação de capital na aquisição do bem ou direito, nem
+  distribuição disfarçada de lucros (RIR, art. 361, I, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+ALUGUÉIS
+
+Vedação a Vinculados: não são dedutíveis os aluguéis pagos a sócios ou dirigentes de
+empresas, e a seus parentes ou dependentes, em relação à parcela que exceder ao preço
+ou valor de mercado (RIR, art. 361. § 1º, I).
+
+Aplicação de Capital: não são dedutíveis , ainda, as importâncias pagas a terceiros para
+adquirir direitos de uso de um bem e os pagamentos para extensão ou modificação de
+contrato, que constituirão aplicação de capital amortizável durante o prazo do contrato
+(RIR, art. 361, § 1º, II).
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+REMUNERAÇÃO DE ADMINISTRADORES
+
+Regra de Dedutibilidade: serão dedutíveis na determinação do lucro real as remunerações
+dos sócios, diretores ou administradores, titular de empresa individual e conselheiros
+fiscais e consultivos (RIR, art. 368).
+
+Retiradas Indedutíveis: não serão dedutíveis as retiradas não debitadas em custos ou
+despesas operacionais, ou contas subsidiárias, e as que, mesmo escrituradas nessas contas,
+não correspondam à remuneração mensal fixa por prestação de serviços (RIR, art. 368, I).
+
+Diretores no Exterior: não serão dedutíveis, ainda, as percentagens e ordenados pagos a
+membros das diretorias das sociedades por ações, que não residam no País (RIR, art. 368,
+II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+REMUNERAÇÃO DE ADMINISTRADORES
+
+Remuneração Indireta: integram a remuneração dos beneficiários a contraprestação de
+arrendamento mercantil ou o aluguel de veículo utilizado no transporte de
+administradores, diretores, gerentes e seus assessores, e de imóvel cedido para uso dessas
+pessoas (RIR, art. 369, I).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+REMUNERAÇÃO DE ADMINISTRADORES
+
+Benefícios e Vantagens: integram, ainda, as despesas com benefícios e vantagens
+concedidos pela empresa a administradores, diretores, gerentes e seus assessores, tais
+como a aquisição de alimentos para utilização fora do estabelecimento e os pagamentos
+relativos a clubes e assemelhados (RIR, art. 369, II).
+
+Atenção: a remuneração indireta é dedutível da apuração do lucro real quando paga a
+beneficiários identificados e individualizados, sendo indedutível quando paga a
+beneficiários não identificados ou não individualizados.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+GRATIFICAÇÕES OU PARTICIPAÇÕES NO LUCRO
+
+Dirigentes e Administradores: não são dedutíveis as gratificações ou participações no
+resultado destinadas aos dirigentes ou administradores da pessoa jurídica (RIR, art. 315).
+
+Empregados: são dedutíveis as gratificações ou participações destinadas aos empregados
+(RIR, art. 371).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+PARTICIPAÇÕES ESTATUTÁRIAS
+
+Participações Dedutíveis: são dedutíveis as participações de debêntures e as participações
+de empregados (RIR, arts. 526 e 527).
+
+Participações Indedutíveis: são indedutíveis as participações de administradores e as
+participações de partes beneficiárias (RIR, arts. 526 e 527).
+
+Atenção: não são dedutíveis as participações no lucro atribuídas a técnicos estrangeiros,
+domiciliados ou residentes no exterior, para execução de serviços especializados, em
+caráter provisório (RIR, art. 527, parágrafo único).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+---
+
+---
+
+IRPJ – LUCRO REAL – CUSTOS E
+DESPESAS - PARTE 4
+
+                                               Prof. Fábio Dutra.
+
+          
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE BENS OU SERVIÇOS
+
+Efeito no Lucro: o custo de bens ou serviços é parcela redutora do lucro, de modo que,
+quanto maior o custo, menor será o lucro e, consequentemente, menor a base de cálculo
+do IRPJ.
+
+Fórmula do CMV: CMV = Estoque Inicial + Compras – Estoque Final
+
+Atenção: quanto menor o estoque final apurado, maior o CMV e menor o lucro tributável,
+razão pela qual o RIR estabelece regras rígidas sobre a avaliação de estoques e proíbe
+reduções artificiais.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE BENS OU SERVIÇOS
+
+Divisão do Tema: o RIR disciplina o tema em dois blocos, o custo de bens ou serviços,
+tratado nos arts. 301 a 303, e os critérios para avaliação de estoques, tratados nos arts.
+304 a 310.
+
+Exemplo: se o estoque final de R$ 80.000,00 for reduzido artificialmente para R$
+50.000,00, o CMV aumenta em R$ 30.000,00 e o lucro tributável cai na mesma proporção,
+sem que tenha ocorrido perda real.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE AQUISIÇÃO
+
+Base de Determinação: o custo das mercadorias revendidas e das matérias-primas
+utilizadas será determinado com base em registro permanente de estoques ou no valor
+dos estoques existentes, de acordo com o livro de inventário, ao fim do período de
+apuração (RIR, art. 301).
+
+Elementos do Custo: integram o custo de aquisição os gastos com transporte e seguro até
+o estabelecimento do contribuinte, e os tributos devidos na aquisição ou na importação
+(RIR, art. 301, §1º, I, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE AQUISIÇÃO
+
+Desembaraço Aduaneiro: os gastos com desembaraço aduaneiro integram o custo de
+aquisição (RIR, art. 301, §2º).
+
+Atenção: os impostos recuperáveis por meio de créditos na escrita fiscal não integram o
+custo de aquisição (RIR, art. 301, §3º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE PRODUÇÃO
+
+Elementos Obrigatórios: compõem obrigatoriamente o custo de produção o custo de
+aquisição das matérias-primas e outros bens ou serviços aplicados ou consumidos na
+produção, e o custo do pessoal aplicado na produção, inclusive de supervisão direta,
+manutenção e guarda das instalações (RIR, art. 302, I, II).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE PRODUÇÃO
+
+Demais Elementos: compõem, ainda, os custos de locação, manutenção e reparo e os
+encargos de depreciação dos bens aplicados na produção, os encargos de amortização
+diretamente relacionados com a produção, e os encargos de exaustão dos recursos
+naturais utilizados na produção (RIR, art. 302, III, IV, V).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE PRODUÇÃO
+
+
+Bens de Consumo Eventual: a aquisição de bens de consumo eventual, cujo valor não
+exceda a 5% do custo total dos produtos vendidos no período de apuração anterior,
+poderá ser registrada diretamente como custo (RIR, art. 302, §1º).
+
+
+Exemplo: panos industriais, pequenas ferramentas, cola de uso eventual e materiais
+auxiliares
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CUSTO DE PRODUÇÃO
+
+Vedação em Arrendamento: veda-se a inclusão no custo de produção dos encargos de
+depreciação, amortização e exaustão de bens objeto de arrendamento mercantil na pessoa
+jurídica arrendatária (RIR, art. 302, §2º).
+
+Ajuste por Adição: nessa hipótese, a empresa deve proceder ao ajuste no lucro líquido, por
+adição, no período em que o encargo for apropriado como custo de produção (RIR, art.
+302, §3º).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+QUEBRAS E PERDAS
+
+Perdas Razoáveis: as quebras e perdas razoáveis, de acordo com a natureza do bem e da
+atividade, ocorridas na fabricação, no transporte e no manuseio, integram o custo sem
+necessidade de comprovação adicional (RIR, art. 303, I).
+
+Perdas por Deterioração: as quebras ou perdas de estoque por deterioração,
+obsolescência ou riscos não cobertos por seguros só integram o custo se devidamente
+comprovadas por laudo de autoridade sanitária, de segurança, ou de autoridade fiscal,
+conforme o caso (RIR, art. 303, II, a, b, c).
+
+Atenção: Exige-se laudo de autoridade fiscal chamada a certificar a destruição de bens
+obsoletos, invendáveis ou danificados, quando não houver valor residual apurável.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+AVALIAÇÃO DE ESTOQUES
+
+Obrigação de Avaliar: ao final de cada período de apuração, a pessoa jurídica deverá
+promover o levantamento e a avaliação dos seus estoques (RIR, art. 304).
+
+Mercadorias e Matérias-Primas: as mercadorias destinadas à revenda, as matérias-primas
+e os bens em almoxarifado devem ser avaliados pelo custo de aquisição, determinado
+conforme o art. 301 (RIR, art. 305).
+
+Produtos em Fabricação: os produtos em fabricação e os produtos acabados devem ser
+avaliados pelo custo de produção, determinado conforme o art. 302 (RIR, art. 306, caput).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+AVALIAÇÃO DE ESTOQUES
+
+Sistema de Custo Integrado: o contribuinte que mantiver sistema de contabilidade de
+custo integrado e coordenado com o restante da escrituração pode utilizar os custos
+apurados para avaliação desses estoques (RIR, art. 306, §1º).
+
+Requisitos do Sistema: para ser considerado integrado e coordenado, o sistema deve ser
+apoiado em valores originados da própria escrituração, permitir a determinação contábil,
+ao fim de cada mês, do valor dos estoques, e permitir avaliar os estoques de acordo com
+os custos efetivamente incorridos (RIR, art. 306, §2º, I, II, IV).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CRITÉRIOS DE AVALIAÇÃO DE ESTOQUES
+
+Custo Médio: admite-se, para avaliação dos bens existentes no encerramento do período
+de apuração, o critério do custo médio (RIR, art. 307).
+
+Custo dos Bens Mais Recentes: admite-se, ainda, o critério do custo dos bens adquiridos
+ou produzidos mais recentemente (RIR, art. 307).
+
+Preço de Venda Menos Margem: admite-se, por fim, o critério do preço de venda
+subtraída a margem de lucro (RIR, art. 307).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+CRITÉRIOS SUBSTITUTIVOS
+
+Materiais em Processamento: se a escrituração não satisfizer as condições do sistema de
+custo integrado e coordenado, os materiais em processamento serão avaliados por uma
+1,5x o maior custo das matérias-primas adquiridas no período, ou em 80% do valor dos
+produtos acabados (RIR, art. 308, I).
+
+Produtos Acabados: os produtos acabados serão avaliados em 70% do maior preço de
+venda no período de apuração (RIR, art. 308, II).
+
+Atenção: para o cálculo dos produtos acabados com base no preço de venda, o valor deve
+ser determinado sem exclusão de qualquer parcela a título de ICMS (RIR, art. 308, §1º).
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+ATIVIDADE RURAL E VEDAÇÕES
+
+Avaliação Diferenciada: para as pessoas jurídicas que exploram atividades rurais, os
+estoques de produtos agrícolas, animais e extrativos poderão ser avaliados aos preços
+correntes de mercado, conforme as práticas usuais em cada tipo de atividade (RIR, art.
+309).
+
+Vedação de Reduções Globais: é proibida a redução global de valores inventariados, bem
+como a formação de reservas ou provisões em decorrência de desvalorização dos estoques
+(RIR, art. 310, I).
+
+Vedação de Depreciações Estimadas: é proibida, ainda, a dedução de valor por
+depreciações estimadas ou por meio de provisões para oscilação de preços (RIR, art. 310,
+II).
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RECEITAS E DESPESAS FINANCEIRAS
+
+Receitas Financeiras: juros, descontos, lucro em operações de reporte e rendimentos de
+aplicações financeiras de renda fixa ou variável integram o lucro operacional (RIR, art.
+397).
+
+Despesas Financeiras: os juros pagos ou incorridos pelo contribuinte são dedutíveis como
+custo ou despesa operacional (RIR, art. 398).
+
+Apropriação Pro Rata Temporis: os juros pagos antecipadamente, os descontos de títulos
+de crédito, a correção monetária prefixada e o deságio na colocação de debêntures devem
+ser apropriados pro rata temporis (RIR, art. 399).
+
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RECEITAS E DESPESAS FINANCEIRAS
+
+Vedação a Controladas: não são dedutíveis os juros pagos ou creditados a empresa
+controlada ou coligada, domiciliada no País ou no exterior, quando incidentes sobre valor
+equivalente a lucros não disponibilizados por controladas no exterior (RIR, art. 400).
+
+
+Esclarecendo: O art. 400 impede que a pessoa jurídica brasileira deduza juros pagos a
+empresa ligada sobre empréstimo correspondente a lucros mantidos, sem disponibilização,
+em controlada no exterior.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RECEITAS E DESPESAS FINANCEIRAS
+
+Arrendamento Mercantil: são indedutíveis as despesas financeiras incorridas pela
+arrendatária em contratos de arrendamento mercantil (RIR, art. 401).
+
+Contraprestação Integral: poderão ser computadas para fins de determinação do lucro
+real as contraprestações pagas ou creditadas por força de contrato de arrendamento
+mercantil, inclusive as despesas financeiras nelas consideradas (RIR, art. 366).
+
+Atenção: Desde que referentes a bens móveis ou imóveis intrinsecamente relacionados
+com a produção ou com a comercialização dos bens e dos serviços.
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+RECEITAS E DESPESAS FINANCEIRAS
+
+Capitalização de Juros: quando uma empresa contrai empréstimo para financiar a
+aquisição, construção ou produção de bens de longa maturação, os juros e encargos
+incorridos nesse período podem ser incorporados ao custo do próprio ativo (RIR, art. 402).
+
+Obs: Alternativamente, os juros e outros encargos poderão ser excluídos na apuração do
+lucro real quando incorridos e deverão ser adicionados quando o ativo for realizado,
+inclusive por meio de depreciação, amortização, exaustão, alienação ou baixa
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+RECEITAS E DESPESAS FINANCEIRAS
+
+Lucros e Dividendos: os lucros e dividendos pagos ou creditados a acionistas não são
+dedutíveis na apuração do lucro real, ainda que classificados contabilmente como despesa
+financeira (RIR, art. 403).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+VARIAÇÕES MONETÁRIAS
+
+Regra Geral: as variações monetárias são consideradas receitas ou despesas financeiras,
+conforme o caso (RIR, art. 404).
+
+Variações Ativas (Receitas): as variações ativas, decorrentes de índices ou coeficientes,
+devem ser incluídas no lucro operacional à medida que ocorrem (regime de competência)
+(RIR, art. 405).
+
+Variações Passivas (Despesas): autoriza-se a dedução das variações passivas e das perdas
+monetárias na realização de créditos (RIR, art. 406).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+IRPJ – Lucro Real
+VARIAÇÕES MONETÁRIAS
+
+Variações Cambiais: as variações cambiais dos direitos de crédito e das obrigações do
+contribuinte são reconhecidas, como regra geral, quando da liquidação da correspondente
+operação (regime de caixa é a regra aqui) (RIR, art. 407).
+
+Opção pelo Regime de Competência: faculta-se à empresa optar pelo regime de
+competência, opção que, uma vez feita em janeiro de cada ano, aplica-se a todo o ano, só
+podendo ser alterada em caso de elevada oscilação da taxa de câmbio (RIR, art. 407, §§1º,
+4º e 5º).
+
+Atenção: as variações cambiais sobre saldos de ajuste a valor presente não são
+computadas para fins de determinação do lucro real (RIR, art. 408).
+
+Legislação Tributária Federal
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+---
+
+OBRIGADO
+                                         Prof. Fábio Dutra.
+
+    
+
+
+---
+
+---

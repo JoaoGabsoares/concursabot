@@ -1,0 +1,329 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 02_002_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '02'
+titulo_aula: Filiação e Inscrição
+artigos_citados:
+- "artigo\n   14"
+- artigo 11
+- artigo 13
+- artigo 14
+---
+
+# Filiação e Inscrição
+
+Filiação e Inscrição
+               Segurados Obrigatórios
+        Empregado, Empregado Doméstico, Trabalhador Avulso,
+             Contribuinte Individual e Segurado Especial.
+
+
+                 Segurado Facultativo
+        Trabalhadores Excluídos do RGPS
+
+
+RESUMO DA AULA
+
+✓ Filiação: é o vínculo que se estabelece entre as pessoas que contribuem para
+  a Previdência Social e esta, do qual decorrem direitos e obrigações.
+
+
+✓ Em regra, para os segurados obrigatórios, a filiação será automática e
+  decorrerá do exercício de atividade laborativa remunerada.
+
+
+✓ para o segurado facultativo, a filiação apenas ocorrerá com a inscrição
+  formalizada (cadastro no banco de dados da Previdência Social) e o efetivo
+  recolhimento da primeira contribuição previdenciária.
+
+
+✓ A idade mínima para a filiação dos segurados obrigatórios será de 16 anos de
+  idade, salvo atividades insalubres, perigosas ou noturnas (cuja idade mínima é
+
+                                                                         1
+                                       8
+
+
+---
+
+   de 18 anos), ou excepcionalmente de 14 anos de idade, na condição de
+   aprendiz.
+
+
+✓ A idade mínima para a filiação como segurado facultativo, nos termos o artigo
+   14, da Lei 8.212/91, é de 14 anos de idade. Contudo, o artigo 11 do RPS prevê
+   a idade mínima de 16 anos de idade para a filiação como segurado facultativo.
+
+
+✓ Para efeito de prova, vale ressaltar que a doutrina majoritária e o próprio INSS
+   entendem que a idade mínima para a filiação do segurado facultativo é de 16
+   anos de idade. No entanto, se a questão de prova exigir literalmente o texto
+   da Lei 8.213/91 (artigo 13) ou da Lei 8.212/91 (artigo 14), as bancas
+   consideram correta a alternativa que traz 14 anos de idade.
+
+
+✓ Inscrição: é o cadastro do segurado ou do seu dependente no banco de dados
+   da previdência social.
+
+
+✓ considera-se inscrição do segurado, para os efeitos da Previdência Social, o
+   ato pelo qual o segurado é cadastrado no Regime Geral de Previdência Social
+   - RGPS, mediante comprovação dos dados pessoais e de outros elementos
+   necessários e úteis à sua caracterização.
+
+
+✓ Para o segurado obrigatório, a inscrição é o ato que formaliza a filiação,
+   cadastrando o segurado no banco de dados da Previdência Social.
+
+
+✓ Atualmente, a inscrição é feita no Cadastro Nacional de Informações Sociais -
+   CNIS, um sistema responsável pelo controle das informações de todos os
+   segurados e contribuintes da Previdência Social. A inscrição materializa a
+   filiação.
+
+
+✓ No caso do dependente, apenas ocorrerá a sua inscrição quando houver
+   requerimento administrativo de benefício previdenciário.
+
+                                                                              2
+                                                                              8
+                     
+
+
+---
+
+    ✓ Outrossim, todo aquele que exercer, concomitantemente, mais de uma
+      atividade remunerada sujeita ao RGPS, será obrigatoriamente inscrito em
+      relação a cada uma das atividades.
+
+
+    ✓ Havendo atividade remunerada, a filiação do segurado obrigatório será
+      automática e compulsória. Neste caso, não poderá o segurado inscrever-se e
+      filiar-se ao RGPS como segurado facultativo, pois a filiação compulsória
+      sempre se sobrepõe à facultativa.
+
+
+✓ Os beneficiários do Regime Geral de Previdência Social – RGPS poderão ser
+      os segurados ou seus dependentes. Assim sendo, dizemos que beneficiário é
+      gênero, do qual são espécies os segurados e os dependentes.
+
+
+✓ Segurado é o beneficiário filiado ao RGPS que efetivamente contribui para a
+      manutenção do regime, classificando-se como segurado obrigatório ou
+      segurado facultativo.
+
+
+✓     Dependente é o beneficiário que, mesmo sem recolher qualquer contribuição
+      nesta condição, beneficia-se pela contribuição feita pelo segurado, em razão
+      do seu vínculo com este.
+
+
+✓     Os segurados obrigatórios são aqueles que exercem alguma atividade
+      remunerada e, consequentemente, filiam-se obrigatoriamente ao RGPS por
+      imposição legal, independentemente de suas vontades.
+
+
+✓     Os segurados facultativos são aqueles que não exercem atividade remunerada
+      e ingressam no RGPS por mero ato volitivo, ou seja, por livre e espontânea
+      vontade.
+
+                                                                              3
+                                                                              8
+                       
+
+
+---
+
+✓   Há 5 espécies de segurados obrigatórios no Regime Geral de Previdência
+    Social – RGPS, conforme segue: Empregado; Empregado Doméstico;
+    Contribuinte Individual; Trabalhador Avulso e Segurado Especial.
+
+
+✓   O segurado empregado deve ser estudado e memorizado em todas as suas
+    espécies, pois é muito cobrado em provas de concursos;
+
+
+✓   Filia-se obrigatoriamente ao RGPS, na qualidade de empregado doméstico,
+    aquele que presta serviços de forma contínua, subordinada, onerosa e pessoal
+    e de finalidade não lucrativa à pessoa ou à família, no âmbito residencial
+    destas, por mais de 2 dias por semana, sendo vedada a contratação de menor
+    de 18 anos para desempenho de trabalho doméstico.
+
+
+✓   Considera-se trabalhador avulso aquele que, sindicalizado ou não, presta
+    serviço de natureza urbana ou rural, a diversas empresas, sem vínculo
+    empregatício, com a intermediação obrigatória do órgão gestor de mão-de-
+    obra ou do sindicato da categoria.
+
+
+✓   Considera-se segurado especial o pequeno produtor rural, o pescador
+    artesanal e o respectivo cônjuge ou companheiro, bem como filho maior de
+    dezesseis anos de idade ou a este equiparado, quando exerçam suas
+    atividades individualmente ou em regime de economia familiar, desde que
+    cumpram os demais requisitos previstos no Regulamento da Previdência
+    Social.
+
+
+✓   Na atividade agropecuária, o segurado especial deverá explorar área contínua
+    ou não de até quatro módulos fiscais.
+
+✓   No caso do seringueiro ou extrativista vegetal, não há limite na área de
+    exploração.
+
+                                                                            4
+                                                                            8
+                     
+
+
+---
+
+✓    Entende-se como regime de economia familiar a atividade em que o trabalho
+    dos membros da família é indispensável e é exercido em condições de mútua
+    dependência e colaboração, sem a utilização de empregados permanentes.
+
+✓   O grupo familiar poderá utilizar-se apenas de dois tipos de segurados
+    contratados e remunerados, sem que percam a condição de segurado
+    especial:
+
+    o Trabalhador rural contratado por pequeno prazo, para o exercício de
+      atividades de natureza temporária, por prazo não superior a dois meses
+      dentro do período de um ano.
+
+
+    o Trabalhador que presta serviço, em caráter eventual, a uma ou mais
+      empresas, sem relação de emprego, em épocas de safra, à razão de, no
+      máximo, 120 pessoas/dia dentro do ano civil.
+
+✓   Não descaracteriza a condição de segurado especial a exploração da atividade
+    turística da propriedade rural, inclusive com hospedagem, por não mais de
+    120 dias ao ano.
+
+
+✓   Considera-se pescador artesanal aquele que, individualmente ou em regime
+    de economia familiar, faz da pesca sua profissão habitual ou meio principal de
+    vida, desde que:
+     o   não utilize embarcação;
+     o   utilize embarcação de pequeno porte (arqueação bruta – AB igual ou
+         menor que 20).
+
+✓   A categoria de segurado contribuinte individual reúne as antigas categorias
+    de segurados empresário, autônomo e equiparado a autônomo, bem como os
+    segurados que deixaram de atender algum requisito para se enquadrar nas
+    demais categorias, sendo necessário estudar e memorizar todas as espécies
+    estudadas em aula.
+
+                                                                              5
+                                                                              8
+                       
+
+
+---
+
+✓   É segurado facultativo o maior de dezesseis anos de idade que se filiar ao
+    Regime Geral de Previdência Social, mediante contribuição, desde que não
+    esteja exercendo atividade remunerada que o enquadre como segurado
+    obrigatório do Regime Geral de Previdência Social – RGPS.
+
+✓   A filiação na qualidade de segurado facultativo representa ato volitivo, ou seja,
+    de vontade própria, gerando efeito somente a partir da inscrição e do primeiro
+    recolhimento.
+
+✓   O dirigente sindical mantém, durante o exercício do mandato eletivo, o
+    mesmo enquadramento no Regime Geral de Previdência Social - RGPS de
+    antes da investidura.
+
+✓   O aposentado pelo Regime Geral de Previdência Social-RGPS que estiver
+    exercendo ou que voltar a exercer atividade abrangida por este Regime é
+    segurado obrigatório em relação a essa atividade, ficando sujeito às
+    contribuições de que trata esta Lei, para fins de custeio da Seguridade Social.
+
+✓   Todo aquele que exercer, concomitantemente, mais de uma atividade
+    remunerada sujeita ao Regime Geral de Previdência Social é obrigatoriamente
+    filiado em relação a cada uma delas.
+
+✓   Conforme disposto na legislação previdenciária, são excluídos do Regime
+    Geral de Previdência Social – RGPS:
+
+
+    o O servidor civil ocupante de cargo efetivo ou o militar da União, Estado,
+      Distrito Federal ou Município, bem como o das respectivas autarquias e
+      fundações, desde que amparados por Regime Próprio de Previdência Social
+      (RPPS);
+
+                                                                                 6
+                                                                                 8
+                      
+
+
+---
+
+    o Trabalhadores brasileiros prestando serviço no exterior a organismos
+      internacionais oficiais, de que o Brasil seja membro efetivo, amparados por
+      regime próprio de previdência do organismo internacional;
+
+
+    o Trabalhadores brasileiros prestando serviço para a União, no exterior, no
+      âmbito de organismos internacionais oficiais, de que o Brasil seja membro
+      efetivo, amparados por regime próprio de previdência do organismo
+      internacional;
+
+
+    o Aquele que presta serviços a missões diplomáticas/repartições consulares
+      estrangeiras no Brasil, a seus membros e a órgãos a elas subordinados, bem
+      como estrangeiros prestando serviço no Brasil, amparados por regimes
+      previdenciários de países estrangeiros;
+
+
+    o Brasileiro na condição de auxiliar local de nacionalidade brasileira que
+      presta serviço a organismos oficiais brasileiros no exterior, quando
+      inexistente proibição de que se vincule à previdência do país em que esteja
+      domiciliado;
+
+
+    o Os militares, magistrados, ministros dos Tribunais de Contas, Conselheiros
+      dos Tribunais de Contas e membros do Ministério Público;
+
+
+✓   O militar ou servidor público ocupante de cargo efetivo ou o militar da União,
+    Estado, Distrito Federal ou Município, filiados a Regime Próprio de Previdência
+    Social – RPPS, estarão também excluídos do Regime Geral de Previdência
+    Social – RGPS, devendo permanecer vinculados ao regime previdenciário de
+    origem, nas seguintes situações:
+
+
+    o Quando cedido, com ou sem ônus para o cessionário, a órgão ou entidade
+      da administração direta ou indireta de outro ente federativo;
+
+
+    o Durante o afastamento do cargo efetivo para exercer mandato eletivo.
+
+                                                                               7
+                                                                               8
+                       
+
+
+---
+
+@profrubensmauricio
+
+
+Prof. Rubens Maurício
+
+
+t.me/previdenciariodiagramado
+
+                                           8
+                                           8
+      
+
+
+---

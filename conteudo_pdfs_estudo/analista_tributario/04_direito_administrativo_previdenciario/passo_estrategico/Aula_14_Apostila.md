@@ -1,0 +1,1738 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 14_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 1º
+- Art. 1º-C.
+- Art. 49.
+- Art. 53.
+- Art. 71.
+- Art. 7o
+- art. 5º
+- art. 7º
+sumulas_citadas:
+- Súmula 346
+- Súmula 473
+---
+
+# Passo Estratégico de Direito
+
+Aula 12
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                               21 de Maio de 2025
+
+---
+
+      Tulio Lages
+      Aula 12
+
+                                                                                     Índice
+1) Simulado - Controle da Administração - ME
+
+
+2) Simulado - Processo Administrativo - ME
+
+
+3) Simulado - Responsabilidade Civil do Estado - ME
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           37
+
+                                                             
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 12
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Controle da Administração Pública
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1) Quanto à classificação do controle da Administração Pública, é incorreto afirmar que:
+
+a) O controle da Administração Pública quanto à origem ou ao posicionamento do órgão que o efetua pode
+ser interno, externo e popular.
+
+b) O controle administrativo é aquele que decorre de funções administrativas do órgão, enquanto o controle
+judiciário é o controle que se subdivide em controle parlamentar direto e parlamentar indireto.
+
+c) O controle hierárquico resulta do escalonamento hierárquico dos órgãos administrativos, enquanto o
+controle finalístico é aquele que não possui fundamentação na hierarquia.
+
+d) Quanto ao momento, o controle pode ser classificado como prévio, concomitante ou posterior.
+
+e) Quanto ao aspecto da atividade administrativa controlada, o controle pode ser de legalidade ou de mérito.
+
+2) Analise os itens a seguir e assinale a alternativa que apresenta apenas os itens corretos:
+
+I - A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da
+administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                     3
+            www.estrategiaconcursos.com.br                                                                                                                       37
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 12
+
+e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de
+controle interno de cada Poder.
+
+II - O controle hierárquico se observa quando há o escalonamento vertical e horizontal de órgãos, situação
+em que os órgãos se encontram subordinados sem a necessidade de lei ou norma específica para outorgar
+a sua competência de controle.
+
+III - O controle finalístico é o controle exercido pela Administração direta sobre a indireta.
+
+IV - O controle finalístico é menos amplo que o controle hierárquico, pois depende de previsão legal que
+estabelecerá as hipóteses e os limites de atuação.
+
+a) Apenas um item está correto
+
+b) Apenas dois itens estão corretos
+
+c) Apenas três itens estão corretos
+
+d) Todos os itens estão corretos
+
+e) Nenhum item está correto
+
+3) De acordo com os seus conhecimentos, analise os itens a seguir e assinale a alternativa que contenha
+apenas os itens corretos:
+
+I - O controle exercido pela Administração Pública ocorre quando a própria Administração controla os seus
+atos.
+
+II - A base do controle administrativo é o exercício da autotutela.
+
+III - O controle administrativo alcança tanto a legalidade, permitindo a anulação dos atos inválidos, quanto o
+mérito, do qual se pode revogar os atos inconvenientes e inoportunos.
+
+IV - São instrumentos utilizados no controle administrativo a fiscalização hierárquica, o direito de petição, o
+processo administrativo, incluindo os recursos administrativos, e o instrumento da arbitragem.
+
+a) I e II
+
+b) I e III
+
+c) II e III
+
+d) II, III e IV
+
+e) I, II, III e IV
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              4
+              www.estrategiaconcursos.com.br                                                                37
+
+                                           
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+4) O controle legislativo é o controle exercido pelo Poder Legislativo sobre a Administração Pública. Esse
+controle ocorre em qualquer esfera de governo, seja federal, estadual, distrital ou municipal. De acordo
+com os seus conhecimentos, é incorreto afirmar que:
+
+a) O controle legislativo manifesta-se pelo controle político e pelo controle exercido pelo Tribunal de Contas.
+
+b) Um exemplo de controle parlamentar direto é a competência do Congresso Nacional de sustar os atos
+normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação
+legislativa.
+
+c) O controle legislativo se aplica estritamente à administração pública direta.
+
+d) O Tribunal de Contas tem a competência de julgar as contas dos administradores públicos, enquanto o
+Congresso Nacional tem a competência de julgar as contas do Presidente da República.
+
+e) É competência do Tribunal de Contas fiscalizar a aplicação de quaisquer recursos repassados pela União
+mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a
+Município.
+
+5) Quanto ao controle judicial dos atos da Administração pública, é incorreto afirmar que:
+
+a) É possível a apreciação judicial dos atos discricionários praticados pela Administração Pública.
+
+b) É lícito ao Poder Judiciário, em sede de controle de ato administrativo disciplinar, anular penalidade de
+demissão com fundamento na desproporcionalidade do ato.
+
+c) O controle judicial ocorre sempre mediante provocação e é, via de regra, uma forma de controle a
+posteriori.
+
+d) O Poder Judiciário exerce tão somente o controle da legalidade dos atos administrativos, podendo resultar
+na confirmação ou não da validade do ato.
+
+e) O Poder Judiciário, se entender pela violação a princípio da administração pública, poderá revogar o ato
+administrativo expedido por autoridade administrativa.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  5
+         www.estrategiaconcursos.com.br                                                                     37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                                                  GABARITO
+
+                      1. B              2. C                          3. E   4. C            5. E
+
+                                  QUESTÕES COMENTADAS
+1) Quanto à classificação do controle da Administração Pública, é incorreto afirmar que:
+
+a) O controle da Administração Pública quanto à origem ou ao posicionamento do órgão que o efetua pode
+ser interno, externo e popular.
+
+b) O controle administrativo é aquele que decorre de funções administrativas do órgão, enquanto o controle
+                                                         ==219a34==
+
+judiciário é o controle que se subdivide em controle parlamentar direto e parlamentar indireto.
+
+c) O controle hierárquico resulta do escalonamento hierárquico dos órgãos administrativos, enquanto o
+controle finalístico é aquele que não possui fundamentação na hierarquia.
+
+d) Quanto ao momento, o controle pode ser classificado como prévio, concomitante ou posterior.
+
+e) Quanto ao aspecto da atividade administrativa controlada, o controle pode ser de legalidade ou de mérito.
+
+Comentários:
+
+Letra A - correta. O controle da Administração Pública quanto à origem ou ao posicionamento do órgão que
+o efetua pode ser interno (realizado no âmbito da própria Administração ou por órgão do mesmo Poder que
+editou o ato controlado), externo (realizado por órgão independente ou de outro Poder do que efetuou o
+ato controlado) ou popular (efetuado pela sociedade civil ou pelos administrados em geral).
+
+Letra B - incorreta. É o controle legislativo (e não o controle judiciário) que se subdivide em parlamentar
+direto (exercido diretamente pelo Congresso Nacional) e parlamentar indireto (exercido pelo Tribunal de
+Contas da União). O controle judicial é o controle realizado pelo Poder Judiciário sobre a atuação da
+Administração Pública.
+
+Letra C - correta. De fato, o controle hierárquico, como o nome sugere, exsurge da relação de hierarquia
+(subordinação) entre o órgão controlador e o controlado, ao passo que o controle finalístico se dá sem
+relação de subordinação, mas de mera vinculação.
+
+Letra D - correta. Quanto ao momento, o controle pode ser classificado como prévio (controle preventivo
+realizado antes da prática do ato), concomitante (ocorre durante o processo de formação do ato controlado)
+ou posterior (também chamado de subsequente, é o controle que ocorre após a conclusão do ato).
+
+Letra E - correta. Quanto ao aspecto da atividade administrativa controlada, o controle pode ser de
+legalidade (ou legitimidade, é o controle que procura verificar a conformação do ato ou do procedimento
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                6
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+com as normas legais que o regem) ou de mérito (tem por objetivo comprovar a eficiência e os resultados
+do ato, além dos aspectos de conveniência e oportunidade).
+
+Gabarito: letra B
+
+2) Analise os itens a seguir e assinale a alternativa que apresenta apenas os itens corretos:
+
+I - A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da
+administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções
+e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de
+controle interno de cada Poder.
+
+II - O controle hierárquico se observa quando há o escalonamento vertical e horizontal de órgãos, situação
+em que os órgãos se encontram subordinados sem a necessidade de lei ou norma específica para outorgar
+a sua competência de controle.
+
+III - O controle finalístico é o controle exercido pela Administração direta sobre a indireta.
+
+IV - O controle finalístico é menos amplo que o controle hierárquico, pois depende de previsão legal que
+estabelecerá as hipóteses e os limites de atuação.
+
+a) Apenas um item está correto
+
+b) Apenas dois itens estão corretos
+
+c) Apenas três itens estão corretos
+
+d) Todos os itens estão corretos
+
+e) Nenhum item está correto
+
+Comentários:
+
+Item I - correto. O item está de acordo com o art. 70, caput, da Constituição da República.
+
+      Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e
+      das entidades da administração direta e indireta, quanto à legalidade, legitimidade,
+      economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso
+      Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
+
+Item II - incorreto. No controle hierárquico, observa-se apenas o escalonamento VERTICAL entre os órgãos
+(e não horizontal). De fato, nesse tipo de controle, há a subordinação sem a necessidade de lei ou norma
+específica para outorgar a competência de controle.
+
+Item III - correto. O controle finalístico é aquele em que não existe hierarquia, mas vinculação entre a
+Administração direta e indireta. Segundo Hely Lopes Meirelles, o controle finalístico é “o que a norma legal
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                7
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 12
+
+estabelece para as entidades autônomas, indicando a autoridade controladora, as faculdades a serem
+exercitadas e as finalidades objetivadas”.
+
+Item IV - correto. Como não há hierarquia na relação, o controle finalístico é bem menos amplo que o
+controle hierárquico. Vale dizer que, enquanto o controle hierárquico é amplo e independe de previsão legal,
+o controle finalístico depende de previsão legal, que estabelecerá as hipóteses e os limites de atuação.
+
+Gabarito: letra C
+
+3) De acordo com os seus conhecimentos, analise os itens a seguir e assinale a alternativa que contenha
+apenas os itens corretos:
+
+I - O controle exercido pela Administração Pública ocorre quando a própria Administração controla os seus
+atos.
+
+II - A base do controle administrativo é o exercício da autotutela.
+
+III - O controle administrativo alcança tanto a legalidade, permitindo a anulação dos atos inválidos, quanto o
+mérito, do qual se pode revogar os atos inconvenientes e inoportunos.
+
+IV - São instrumentos utilizados no controle administrativo a fiscalização hierárquica, o direito de petição, o
+processo administrativo, incluindo os recursos administrativos, e o instrumento da arbitragem.
+
+a) I e II
+
+b) I e III
+
+c) II e III
+
+d) II, III e IV
+
+e) I, II, III e IV
+
+Comentários:
+
+Item I - correto. O controle exercido pela Administração Pública, ou simplesmente controle administrativo,
+ocorre quando a própria Administração controla os seus atos. O controle administrativo, conforme Hely
+Lopes Meirelles, é "todo aquele que o Executivo e os órgãos de administração dos demais Poderes exercem
+sobre suas próprias atividades, visando a mantê-los dentro da lei, segundo as necessidades do serviço e as
+exigências técnicas e econômicas de sua realização, pelo que é um controle de legalidade e mérito".
+
+Item II - correto. O princípio da autotutela constitui base para o exercício do poder administrativo. Por meio
+de tal princípio a Administração realiza o controle sobre os seus próprios atos. Para tanto, vale ressaltar o
+art. 53 da Lei 9.784/1999, bem como as súmulas 473 e 346 do STF:
+
+              Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              8
+              www.estrategiaconcursos.com.br                                                                37
+
+                                           
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+      Art. 53. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade,
+      e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos
+      adquiridos.
+
+- Súmula 473:
+
+                                                    JURISPRUDÊNCIA
+  “A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não
+  se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos,
+  e ressalvada, em todos os casos, a apreciação judicial”.
+
+- Súmula 346:
+
+                                                 JURISPRUDÊNCIA
+  “A administração pública pode declarar a nulidade dos seus próprios atos”.
+
+Item III - correto. Conforme o art. 53 da Lei 9.784/1999, a Administração pode anular seus próprios atos,
+quando eivados de vícios que os tornam ilegais, ou revogá-los, por motivo de conveniência ou oportunidade.
+
+      Art. 53. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade,
+      e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos
+      adquiridos.
+
+Item IV - correto. O item está certo, já que são instrumentos utilizados no controle administrativo:
+
+       a) fiscalização hierárquica: é aquela exercida pelos órgãos superiores sobre os inferiores.
+
+       b) direito de petição: objetiva a defesa de direitos contra ilegalidade ou abuso de poder. Qualquer
+       pessoa pode peticionar perante uma autoridade administrativa e sobre isso obter uma resposta. No
+       caso de silêncio administrativo, o administrado poderá recorrer ao Poder Judiciário para obrigar a
+       autoridade a lhe fornecer a resposta.
+
+       c) processo administrativo: sucessão formal de atos intermediários ordenados de forma lógica, a qual
+       tem a finalidade de possibilitar que a Administração pratique um ato final ou tome uma decisão
+       administrativa final.
+
+       d) recursos administrativos: em sentido amplo, são todos os instrumentos hábeis direcionados a
+       propiciar à própria Administração o reexame de decisão interna.
+
+       e) arbitragem: forma de solução de conflitos em que as duas partes elegem uma terceira, o árbitro,
+       para julgar determinado litígio, sem necessidade do formalismo dos processos judiciais.
+
+Gabarito: letra E
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                           9
+         www.estrategiaconcursos.com.br                                                                             37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+4) O controle legislativo é o controle exercido pelo Poder Legislativo sobre a Administração Pública. Esse
+controle ocorre em qualquer esfera de governo, seja federal, estadual, distrital ou municipal. De acordo
+com os seus conhecimentos, é incorreto afirmar que:
+
+a) O controle legislativo manifesta-se pelo controle político e pelo controle exercido pelo Tribunal de Contas.
+
+b) Um exemplo de controle parlamentar direto é a competência do Congresso Nacional de sustar os atos
+normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação
+legislativa.
+
+c) O controle legislativo se aplica estritamente à administração pública direta.
+
+d) O Tribunal de Contas tem a competência de julgar as contas dos administradores públicos, enquanto o
+Congresso Nacional tem a competência de julgar as contas do Presidente da República.
+
+e) É competência do Tribunal de Contas fiscalizar a aplicação de quaisquer recursos repassados pela União
+mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a
+Município.
+
+Comentários:
+
+Letra A - correta. O controle legislativo pode ser feito de duas maneiras: pelo controle político (controle
+parlamentar direto – exercido diretamente pelo Congresso Nacional, por suas Casas, pelas Comissões
+parlamentares, ou pelos membros do Poder legislativo) e pelo controle exercido pelo Tribunal de Contas
+(controle parlamentar indireto ou controle técnico).
+
+Letra B - correta. São diversas as competências previstas para que o Congresso Nacional exerça o controle
+externo da Administração Pública. A maioria dessas competências estão disciplinadas no art. 49 da CF/88,
+mas podemos observar algumas hipóteses nos artigos 50, 70 e 71 da CF/88. A assertiva em questão trata do
+controle parlamentar direta, previsto no art. 49, inciso V, da CF/88, está transcrita abaixo:
+
+      Art. 49. É da competência exclusiva do Congresso Nacional:
+
+      (...)
+
+      V - sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos
+      limites de delegação legislativa;
+
+Letra C - incorreta. O controle legislativo alcança as entidades da administração direta e indireta de todos os
+entes (União, Estados, Municípios e DF), não só a administração pública direta.
+
+Letra D - correta. Já que algumas atividades de controle externo são exercidas unicamente pelo Legislativo,
+outras somente pelos Tribunais de Contas e, por fim, algumas são exercidas conjuntamente pelo Tribunal de
+Contas e pelo Congresso Nacional. Em síntese, podemos listar as seguintes competências:
+
+        a) julgar as contas dos administradores públicos: competência do Tribunal de Contas;
+
+        b) julgar as contas do Presidente da República: competência do Congresso Nacional;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  10
+         www.estrategiaconcursos.com.br                                                                     37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+        c) sustação de contratos: cabe ao TC determinar ao órgão que tome as medidas para o exato
+        cumprimento da Lei; se o órgão não cumprir, o TC informa o Congresso Nacional para que ele tome
+        as medidas necessárias para sustação; se o CN ou o Poder Executivo não tomarem as medidas
+        necessárias em até 90 (noventa) dias, o TC poderá decidir sobre a sustação.
+
+Letra E - correta. O item está de acordo com o art. 71, inciso VI, da Constituição Federal.
+
+      Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do
+      Tribunal de Contas da União, ao qual compete:
+
+      (...)
+
+      VI - fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio,
+      acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a Município;
+
+      (...)
+
+Gabarito: letra C
+
+5) Quanto ao controle judicial dos atos da Administração pública, é incorreto afirmar que:
+
+a) É possível a apreciação judicial dos atos discricionários praticados pela Administração Pública.
+
+b) É lícito ao Poder Judiciário, em sede de controle de ato administrativo disciplinar, anular penalidade de
+demissão com fundamento na desproporcionalidade do ato.
+
+c) O controle judicial ocorre sempre mediante provocação e é, via de regra, uma forma de controle a
+posteriori.
+
+d) O Poder Judiciário exerce tão somente o controle da legalidade dos atos administrativos, podendo resultar
+na confirmação ou não da validade do ato.
+
+e) O Poder Judiciário, se entender pela violação a princípio da administração pública, poderá revogar o ato
+administrativo expedido por autoridade administrativa.
+
+Comentários:
+
+Letra A - correta. O Poder Judiciário pode controlar inclusive atos discricionários, desde que não invada o
+mérito desses atos.
+
+Letra B - correta. O Poder Judiciário tem permissão para exercer o controle de legalidade dos atos
+administrativos, só lhe sendo vedado o controle de mérito do ato. A anulação de uma penalidade aplicada
+pelo administrador por parte do Poder Judiciário, decorrente de uma avaliação quanto à
+razoabilidade/proporcionalidade, é um controle de legalidade e, portanto, lícito àquele Poder.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               11
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 12
+
+Letra C - correta. O controle judicial é exercido pelos juízes e tribunais do Poder Judiciário, no exercício da
+função jurisdicional, e só ocorre mediante provocação, nunca de ofício. Em regra, é um controle a posteriori
+e incide sobre a legalidade dos atos administrativos (nunca sobre o mérito).
+
+Letra D - correta. O controle de legalidade consiste na verificação da conformidade do ato com o
+ordenamento jurídico. Pode ser realizado pela própria Administração, bem como pelos Poderes Judiciário e
+Legislativo (incluindo os Tribunais de Contas) sobre os atos da Administração, podendo resultar na
+confirmação da validade do ato ou em sua anulação.
+
+Já o controle de mérito é a verificação da oportunidade e conveniência da conduta administrativa. Pode ser
+realizado somente pela própria Administração, podendo resultar na confirmação da conduta ou na
+revogação do ato.
+
+Letra E - incorreta. O controle judicial pode resultar na anulação de um ato, nunca em sua revogação.
+
+Gabarito: letra E.
+
+...
+
+
+Forte abraço!
+
+                                                   Túlio Lages
+
+                                          Face: www.facebook.com/proftuliolages
+
+                                         Insta: www.instagram.com/proftuliolages
+
+                                           YouTube: youtube.com/proftuliolages
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               12
+            www.estrategiaconcursos.com.br                                                                  37
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               13
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 12
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Processo Administrativo Federal.
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1) De acordo com os preceitos estabelecidos na Lei n° 9.784/1999, assinale a alternativa correta.
+
+a) A Lei 9.784/1999 estabelece normas básicas sobre o processo administrativo no âmbito da Administração
+Federal direta, não se aplicando às autarquias federais e municipais.
+
+b) Os preceitos da Lei 9.784/1999 são aplicados nas funções típicas e atípicas dos órgãos dos Poderes
+Executivo, Legislativo e Judiciário da União.
+
+c) Segundo a Lei 9.784/1999, órgão é a unidade de atuação dotada de personalidade jurídica
+
+d) Segundo a Lei 9.784/1999, entidade é a unidade de atuação integrante da estrutura da Administração
+direta e da estrutura da Administração indireta.
+
+e) Uma das finalidades da Lei 9.784/1999 é a proteção dos direitos dos administrados e o melhor
+cumprimento dos fins da Administração.
+
+2) A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação,
+razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse
+público e eficiência. Conforme Lei n° 9.784/1999, nos processos administrativos serão observados, exceto:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                    14
+            www.estrategiaconcursos.com.br                                                                                                                       37
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+a) Atuação conforme a lei e o Direito, bem como seguindo os padrões éticos de probidade, decoro e boa-fé.
+
+b) indicação dos pressupostos de fato e de direito que determinarem a decisão, bem como divulgação oficial
+dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na Constituição.
+
+c) observância das formalidades essenciais à garantia dos direitos dos administrados.
+
+d) adoção de formas complexas, suficientes para propiciar adequado grau de certeza, segurança e respeito
+aos direitos dos administrados.
+
+e) garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à
+interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio.
+
+3) Não representa um direito do administrado perante a Administração presente na Lei nº 9.784/1999:
+
+a) Ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos
+e o cumprimento de suas obrigações.
+
+b) Ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado.
+
+c) Formular alegações e apresentar documentos após a decisão, os quais serão objeto de consideração pelo
+órgão competente.
+
+d) Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de
+lei.
+
+e) Ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas.
+
+4) Referente ao início do processo administrativo citado na Lei nº 9.784/1999, analise os itens a seguir e
+assinale a alternativa correta.
+
+I - O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+
+II - O requerimento inicial do interessado para início de processo administrativo deverá ser sempre
+formulado por escrito.
+
+III - É vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor
+recusar de imediato o requerimento eivado de falhas
+
+IV - Os órgãos e entidades administrativas deverão elaborar modelos ou formulários padronizados para
+todos os assuntos que possam ser submetidos a requerimento de processo administrativo.
+
+V - Mesmo quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos
+idênticos, deverão ser formulados requerimento individuais à administração.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 15
+         www.estrategiaconcursos.com.br                                                                    37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+a) Apenas uma alternativa está correta
+
+b) Apenas duas alternativas estão corretas
+
+c) Apenas três alternativas estão corretas
+
+d) Apenas quatro alternativas estão corretas
+
+e) Todas as alternativas estão corretas.
+
+5) Quanto à comunicação dos atos, assinale a única alternativa incorreta:
+
+a) O órgão competente perante o qual tramita o processo administrativo determinará a intimação do
+interessado para ciência de decisão ou a efetivação de diligências.
+
+b) A intimação pode ser efetuada por ciência no processo, por via postal com aviso de recebimento, por
+telegrama ou outro meio que assegure a certeza da ciência do interessado
+
+c) No caso de interessados indeterminados, desconhecidos ou com domicílio indefinido, a administração fica
+dispensada de efetuar a intimação.
+
+d) As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento
+do administrado supre sua falta ou irregularidade.
+
+e) Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição de
+deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de seu
+interesse.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                16
+         www.estrategiaconcursos.com.br                                                                   37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                                                  GABARITO
+
+                      1. E              2. D              3. C              4.A              5. C
+
+                                  QUESTÕES COMENTADAS
+1) De acordo com os preceitos estabelecidos na Lei n° 9.784/1999, assinale a alternativa correta.
+
+a) A Lei 9.784/1999 estabelece normas básicas sobre o processo administrativo no âmbito da Administração
+Federal direta, não se aplicando às autarquias federais e municipais.
+
+b) Os preceitos da Lei 9.784/1999 são aplicados nas funções típicas e atípicas dos órgãos dos Poderes
+Executivo, Legislativo e Judiciário da União.
+
+c) Segundo a Lei 9.784/1999, órgão é a unidade de atuação dotada de personalidade jurídica
+
+d) Segundo a Lei 9.784/1999, entidade é a unidade de atuação integrante da estrutura da Administração
+direta e da estrutura da Administração indireta.
+
+e) Uma das finalidades da Lei 9.784/1999 é a proteção dos direitos dos administrados e o melhor
+cumprimento dos fins da Administração.
+
+Comentários:
+
+Letra A - incorreta. De acordo com o art. 1º da Lei nº 9.784/1999, a lei é aplicada tanto para a Administração
+Federal direta quanto a indireta.
+
+      Art. 1o Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da
+      Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos
+      administrados e ao melhor cumprimento dos fins da Administração.
+
+Letra B - incorreta. A Lei 9.784/1999, em seu art. 1º, § 1º, estipula que seus preceitos serão aplicados aos
+Poderes Legislativo e Judiciário apenas quando no desempenho de função administrativa (função atípica aos
+dois poderes).
+
+      Art. 1°, § 1o Os preceitos desta Lei também se aplicam aos órgãos dos Poderes Legislativo e
+      Judiciário da União, quando no desempenho de função administrativa.
+
+Letra C e D - incorretas. Inverteu-se o significado de “órgão” e “entidade”:
+
+      Art. 1º, § 2º Para os fins desta Lei, consideram-se:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 17
+         www.estrategiaconcursos.com.br                                                                    37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+      I - órgão - a unidade de atuação integrante da estrutura da Administração direta e da estrutura
+      da Administração indireta;
+
+      II - entidade - a unidade de atuação dotada de personalidade jurídica;
+
+      III - autoridade - o servidor ou agente público dotado de poder de decisão.
+
+Letra E - correta. A assertiva está conforme o art. 1º da Lei 9.784/1999, a saber:
+
+      Art. 1o Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da
+      Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos
+      administrados e ao melhor cumprimento dos fins da Administração.
+
+Gabarito: Letra E
+
+2) A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação,
+razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse
+público e eficiência. Conforme Lei n° 9.784/1999, nos processos administrativos serão observados, exceto:
+
+a) Atuação conforme a lei e o Direito, bem como seguindo os padrões éticos de probidade, decoro e boa-fé.
+
+b) indicação dos pressupostos de fato e de direito que determinarem a decisão, bem como divulgação oficial
+dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na Constituição.
+
+c) observância das formalidades essenciais à garantia dos direitos dos administrados.
+
+d) adoção de formas complexas, suficientes para propiciar adequado grau de certeza, segurança e respeito
+aos direitos dos administrados.
+
+e) garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à
+interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio.
+
+Comentários:
+
+Letra A - correta. A assertiva está conforme o art. 2º, parágrafo único, incisos I e IV, da Lei nº 9.784/1999:
+
+      Art. 2°, parágrafo único. Nos processos administrativos serão observados, entre outros, os
+      critérios de:
+
+      I - atuação conforme a lei e o Direito; (...)
+
+      IV - atuação segundo padrões éticos de probidade, decoro e boa-fé;
+
+Letra B - correta. A assertiva está conforme o art. 2º, parágrafo único, incisos V e VII, da Lei nº 9.784/1999:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                       18
+         www.estrategiaconcursos.com.br                                                                          37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+      Art. 2°, parágrafo único. Nos processos administrativos serão observados, entre outros, os
+      critérios de: (...)
+
+      V - divulgação oficial dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na
+      Constituição; (...)
+
+      VII - indicação dos pressupostos de fato e de direito que determinarem a decisão;
+
+Letra C - correta. A assertiva está conforme o art. 2º, parágrafo único, inciso VIII, da Lei nº 9.784/1999:
+
+      Art. 2°, parágrafo único. Nos processos administrativos serão observados, entre outros, os
+      critérios de: (...)
+
+      VIII – observância das formalidades essenciais à garantia dos direitos dos administrados;
+
+Letra D - incorreta. De acordo com o art. 2º, parágrafo único, inciso IX, da Lei nº 9.784/1999, apesar de haver
+a necessidade de adequado grau de certeza, segurança e respeito aos direitos dos administrados, a forma a
+ser adotada deverá ser simples, e não complexa.
+
+      Art. 2°, parágrafo único. Nos processos administrativos serão observados, entre outros, os
+      critérios de: (...)
+
+      IX - adoção de formas simples, suficientes para propiciar adequado grau de certeza, segurança e
+      respeito aos direitos dos administrados;
+
+Letra E - correta. A assertiva está conforme o art. 2º, parágrafo único, inciso X, da Lei nº 9.784/1999:
+
+      Art. 2°, parágrafo único. Nos processos administrativos serão observados, entre outros, os
+      critérios de: (...)
+
+      X - garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de
+      provas e à interposição de recursos, nos processos de que possam resultar sanções e nas situações
+      de litígio;
+
+Gabarito: Letra D
+
+3) Não representa um direito do administrado perante a Administração presente na Lei nº 9.784/1999:
+
+a) Ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos
+e o cumprimento de suas obrigações.
+
+b) Ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado.
+
+c) Formular alegações e apresentar documentos após a decisão, os quais serão objeto de consideração pelo
+órgão competente.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    19
+         www.estrategiaconcursos.com.br                                                                       37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+d) Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de
+lei.
+
+e) Ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas.
+
+Comentários:
+
+Letra A – incorreta. O direito em questão é previsto no art. 3º, inciso I, da Lei nº 9.784/1999:
+
+      Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros
+      que lhe sejam assegurados:
+
+      I - ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de
+      seus direitos e o cumprimento de suas obrigações;
+
+Letra B – incorreta. O direito em questão é previsto no art. 3º, II, primeira parte, da Lei 9.784/1999:
+
+      Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros
+      que lhe sejam assegurados: (...)
+
+      II - ter ciência da tramitação dos processos administrativos em que tenha a condição de
+      interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as
+      decisões proferidas;
+
+Letra C – correta. De fato, consoante o art. 3º, inciso III, da Lei 9.784/1999, a formulação de alegações e a
+apresentação de documentos deverão ocorrer antes da decisão, e não após como consta na assertiva:
+
+      Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros
+      que lhe sejam assegurados: (...)
+
+      III - formular alegações e apresentar documentos antes da decisão, os quais serão objeto de
+      consideração pelo órgão competente;
+
+Letra D – incorreta. O direito em questão é previsto no art. 3º, IV, da Lei 9.784/1999:
+
+      Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros
+      que lhe sejam assegurados: (...)
+
+      IV - fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação,
+      por força de lei.
+
+Letra E – incorreta. O direito em questão é previsto no art. 3º, II, segunda parte, da Lei 9.784/1999:
+
+      Art. 3o O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros
+      que lhe sejam assegurados: (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                20
+         www.estrategiaconcursos.com.br                                                                   37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+      II - ter ciência da tramitação dos processos administrativos em que tenha a condição de
+      interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as
+      decisões proferidas;
+
+Gabarito: Letra C
+
+4) Referente ao início do processo administrativo citado na Lei nº 9.784/1999, analise os itens a seguir e
+assinale a alternativa correta.
+
+I - O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+
+II - O requerimento inicial do interessado para início de processo administrativo deverá ser sempre
+formulado por escrito.
+
+III - É vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor
+recusar de imediato o requerimento eivado de falhas
+
+IV - Os órgãos e entidades administrativas deverão elaborar modelos ou formulários padronizados para
+todos os assuntos que possam ser submetidos a requerimento de processo administrativo.
+
+V - Mesmo quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos
+idênticos, deverão ser formulados requerimento individuais à administração.
+
+a) Apenas uma alternativa está correta
+
+b) Apenas duas alternativas estão corretas
+
+c) Apenas três alternativas estão corretas
+
+d) Apenas quatro alternativas estão corretas
+
+e) Todas as alternativas estão corretas.
+
+Comentários:
+
+Item I - correto. A assertiva está conforme o art. 5º da Lei nº 9.784/1999.
+
+      Art. 5o O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+
+Item II - incorreto. O art. 6º da Lei nº 9.784/1999 reconhece a possibilidade de solicitação oral em alguns
+casos.
+
+      Art. 6o O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral,
+      deve ser formulado por escrito e conter os seguintes dados: (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               21
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+Item III - incorreto. A parte que cita a vedação de recusa imotivada de recebimento de documentos está
+correta. O erro do item está na conduta do servidor frente a eventuais falhas presente nos documentos: o
+servidor deverá orientar o interessado, e não recusar de imediato o requerimento, conforme o art. 6º,
+parágrafo único, da Lei 9.784/1999.
+
+      Art. 6º, parágrafo único. É vedada à Administração a recusa imotivada de recebimento de
+      documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais
+      falhas.
+
+Item IV - incorreto. De acordo com o art. 7º da Lei 9.784/1999, é dever dos órgãos e entidades administrativas
+elaborar modelos e formulários padronizados dos assuntos que importem pretensões equivalentes. Não é,
+portanto, dever da administração elaborar modelos para todos os assuntos, o que torna o item incorreto.
+
+      Art. 7o Os órgãos e entidades administrativas deverão elaborar modelos ou formulários
+      padronizados para assuntos que importem pretensões equivalentes.
+
+Item V - incorreto. De acordo com o art. 8º da Lei 9.784/1999, é possível a formulação de requerimento único
+quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamento idêntico (salvo
+preceito legal em contrário).
+
+      Art. 8o Quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos
+      idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário.
+
+Gabarito: Letra A
+
+5) Quanto à comunicação dos atos, assinale a única alternativa incorreta:
+
+a) O órgão competente perante o qual tramita o processo administrativo determinará a intimação do
+interessado para ciência de decisão ou a efetivação de diligências.
+
+b) A intimação pode ser efetuada por ciência no processo, por via postal com aviso de recebimento, por
+telegrama ou outro meio que assegure a certeza da ciência do interessado
+
+c) No caso de interessados indeterminados, desconhecidos ou com domicílio indefinido, a administração fica
+dispensada de efetuar a intimação.
+
+d) As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento
+do administrado supre sua falta ou irregularidade.
+
+e) Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição de
+deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de seu
+interesse.
+
+Comentários:
+
+Letra A - correta. A assertiva está conforme o art. 26 da Lei nº 9.784/1999:
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 22
+         www.estrategiaconcursos.com.br                                                                    37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 12
+
+         Art. 26. O órgão competente perante o qual tramita o processo administrativo determinará a
+         intimação do interessado para ciência de decisão ou a efetivação de diligências.
+
+Letra B - correta. A assertiva está conforme o art. 26, § 3º, da Lei nº 9.784/1999:
+
+         Art. 26, § 3o A intimação pode ser efetuada por ciência no processo, por via postal com aviso de
+         recebimento, por telegrama ou outro meio que assegure a certeza da ciência do interessado.
+
+Letra C - incorreta. Nos casos citados na assertiva e de acordo com o art. 26, § 4º, da Lei nº 9.784/1999, a
+intimação deverá ser efetuada por meio de publicação oficial.
+
+         Art. 26, § 4º No caso de interessados indeterminados, desconhecidos ou com domicílio indefinido,
+         a intimação deve ser efetuada por meio de publicação oficial.
+
+Letra D - correta. A assertiva está conforme o art. 26, § 5º, da Lei nº 9.784/1999:
+
+         Art. 26, § 5o As intimações serão nulas quando feitas sem observância das prescrições legais, mas
+         o comparecimento do administrado supre sua falta ou irregularidade.
+
+Letra E - correta. A assertiva está conforme o art. 28 da Lei nº 9.784/1999.
+
+         Art. 28. Devem ser objeto de intimação os atos do processo que resultem para o interessado em
+         imposição de deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos
+         de outra natureza, de seu interesse.
+
+Gabarito: Letra C
+
+...
+Forte abraço!
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                23
+            www.estrategiaconcursos.com.br                                                                   37
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                                                Túlio Lages
+
+
+                                                         ==219a34==
+
+                                       Face: www.facebook.com/proftuliolages
+
+                                      Insta: www.instagram.com/proftuliolages
+
+                                        YouTube: youtube.com/proftuliolages
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   24
+         www.estrategiaconcursos.com.br                                                      37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               25
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 12
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Responsabilidade Civil do Estado
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1) De acordo com os seus conhecimentos sobre a responsabilidade civil do Estado, é incorreto afirmar que:
+
+a) Podemos dizer que a responsabilidade civil é a obrigação de reparar os danos lesivos a terceiros, seja de
+natureza patrimonial ou moral.
+
+b) A responsabilidade do Estado pode ser contratual ou extracontratual.
+
+c) Conforme a teoria da não responsabilização do Estado, ocorrida durante o período dos regimes
+absolutistas, apesar de haver a reparação dos danos que os agentes do Estado causavam, o Estado não era
+responsabilizado justificando-se que ações injustas eram necessárias para garantir a ordem no país.
+
+d) Na teoria da responsabilidade com culpa comum, a responsabilidade estatal seria do tipo subjetiva.
+
+e) Na teoria do risco integral, a responsabilidade estatal seria do tipo objetiva, não podendo ser afastada em
+qualquer hipótese.
+
+2) Com relação às teorias de responsabilização, é correto afirmar que:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                    26
+            www.estrategiaconcursos.com.br                                                                                                                       37
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+a) Na teoria do risco administrativo, a responsabilidade estatal é do tipo objetiva, não havendo de se falar
+em excludentes de responsabilidade.
+
+b) A responsabilidade civil objetiva do Estado, conforme prevista na Constituição Federal, alcança todos os
+órgãos e entidades da Administração direta e indireta.
+
+c) Como regra, é possível a responsabilização civil estatal por atos legislativos.
+
+d) No caso de omissão do Estado, como regra, cabe ao pretenso lesado provar culpa do Poder Público.
+
+e) Na culpa exclusiva da vítima, a responsabilidade do Estado é parcialmente afastada.
+
+3) Sobre a responsabilização do Estado, é incorreto afirmar que:
+
+a) Quando ocorrer atividade legislativa dentro dos parâmetros normais, ainda que traga obrigações ou
+restrinja direitos, não há que se falar em dever do Estado em indenizar.
+
+b) A responsabilidade do Estado pode ser de natureza civil, penal ou administrativa.
+
+c) Pela teoria da culpa administrativa, a responsabilidade estatal seria do tipo subjetiva.
+
+d) A ação de reparação do dano deve ser movida pelo particular em desfavor da Administração, e não do
+agente público que causou o dano.
+
+e) Ao contrário das leis de efeitos abstratos, as leis de efeitos concretos aplicam-se a destinatários certos,
+atingindo diretamente a órbita individual de pessoas definidas, situação análoga aos atos administrativos.
+
+4) É correto afirmar, em relação à responsabilidade civil do Estado:
+
+a) Pela teoria da dupla garantia, adotada no Brasil, a ação de reparação de dano deve ser movida pelo
+particular em desfavor da Administração, e não do agente público que causou o dano, que poderá figurar
+com litisconsórcio passivo.
+
+b) Conforme previsto na Lei nº 9.494/97, a ação de reparação contra a Administração se sujeita ao prazo de
+prescrição de 3 (três) anos.
+
+c) As empresas estatais exploradoras de atividade econômica em sentido estrito também estão abrangidas
+pela responsabilidade objetiva do art. 37, § 6º, da CF.
+
+d) Somente haverá o direito de regresso do Estado caso se comprove o dolo específico na conduta do agente
+público.
+
+e) A ação regressiva pode ser exercida contra os herdeiros do agente público causador do dano, até o limite
+do patrimônio transferido.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 27
+         www.estrategiaconcursos.com.br                                                                    37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+5) De acordo com os seus conhecimentos sobre a responsabilidade do Estado, é correto afirmar que:
+
+a) O Estado não será civilmente responsável pelos danos causados por seus agentes sempre que estes
+estiverem amparados por causa excludente de ilicitude penal.
+
+b) Em razão do princípio da proteção da confiança, quando o dano for causado por funcionário público
+putativo, o Estado não responderá civilmente perante particulares de boa-fé.
+
+c) As empresas prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade,
+causarem a terceiros, assegurado o direito de regresso contra o responsável exclusivamente no caso de dolo.
+
+d) A responsabilidade civil do Estado por atos comissivos abrange os danos morais e materiais.
+
+e) É objetiva a responsabilidade do agente público em exercício que, por ato doloso, cause danos a terceiros.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                28
+         www.estrategiaconcursos.com.br                                                                   37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                                                  GABARITO
+
+                      1. C              2. D              3. B              4. E             5. D
+
+                                  QUESTÕES COMENTADAS
+1) De acordo com os seus conhecimentos sobre a responsabilidade civil do Estado, é incorreto afirmar que:
+
+a) Podemos dizer que a responsabilidade civil é a obrigação de reparar os danos lesivos a terceiros, seja de
+natureza patrimonial ou moral.
+
+b) A responsabilidade do Estado pode ser contratual ou extracontratual.
+
+c) Conforme a teoria da não responsabilização do Estado, ocorrida durante o período dos regimes
+absolutistas, apesar de haver a reparação dos danos que os agentes do Estado causavam, o Estado não era
+responsabilizado justificando-se que ações injustas eram necessárias para garantir a ordem no país.
+
+d) Na teoria da responsabilidade com culpa comum, a responsabilidade estatal seria do tipo subjetiva.
+
+e) Na teoria do risco integral, a responsabilidade estatal seria do tipo objetiva, não podendo ser afastada em
+qualquer hipótese.
+
+Comentários:
+
+Letra A - correta. Quando se fala em responsabilidade, quer-se dizer que alguém deverá responder por algo
+que fez ou deixou de fazer. A responsabilidade, no Direito, representa a possibilidade de alguém responder
+por algum dano que causou.
+
+Letra B - correta. Quando falamos de responsabilidade civil do Estado assumida por contrato, estamos
+falando de vínculo contratual que o Estado possui com terceiros (ex: contrato administrativo decorrente de
+licitação). Já a responsabilidade civil do Estado assumida de forma extracontratual decorre de uma obrigação
+jurídica que o Estado possui de reparar danos morais e patrimoniais causados a terceiros por seus agentes,
+ou seja, não há um contrato firmado entre o causador do dano e o terceiro lesado.
+
+Letra C - incorreta. Na teoria da não responsabilização do Estado (em períodos absolutistas), a autoridade
+do monarca era incontestável e, consequentemente, as ações do rei ou de seus auxiliares não eram passíveis
+de qualquer ônus (responsabilidade de reparar o dano causado). O ponto central desta teoria era de que o
+rei não cometia erros.
+
+Letra D - correta. Na teoria da responsabilidade com culpa comum, a responsabilidade estatal seria do tipo
+subjetiva e só alcançaria atos de gestão (não abrange atos de império), quando constatada culpa do agente
+público.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 29
+         www.estrategiaconcursos.com.br                                                                    37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+Letra E - correta. Na teoria do risco integral, a responsabilidade estatal seria do tipo objetiva e ocorre quando
+há nexo de causalidade entre a ação do agente público e o dano, não podendo ser afastada em qualquer
+hipótese (não incidência de excludentes de responsabilidade).
+
+Gabarito: letra C
+
+2) Com relação às teorias de responsabilização, é correto afirmar que:
+
+a) Na teoria do risco administrativo, a responsabilidade estatal é do tipo objetiva, não havendo de se falar
+em excludentes de responsabilidade.
+
+b) A responsabilidade civil objetiva do Estado, conforme prevista na Constituição Federal, alcança todos os
+órgãos e entidades da Administração direta e indireta.
+
+c) Como regra, é possível a responsabilização civil estatal por atos legislativos.
+
+d) No caso de omissão do Estado, como regra, cabe ao pretenso lesado provar culpa do Poder Público.
+
+e) Na culpa exclusiva da vítima, a responsabilidade do Estado é parcialmente afastada.
+
+Comentários:
+
+Letra A - incorreta. No risco administrativo, a responsabilidade do Estado pode ser afastada em determinadas
+situações, quando incidem excludentes de responsabilidade (culpa exclusiva ou concorrente da vítima, caso
+fortuito, força maior e fato exclusivo de terceiros).
+
+Letra B - incorreta. As empresas estatais exploradoras de atividade econômica não estão abrangidas pela
+responsabilidade objetiva do art. 37, § 6º, da CF/88 – sua responsabilidade é subjetiva, na modalidade culpa
+comum. Vejamos o teor do dispositivo mencionado:
+
+      Art. 37, § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços
+      públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros,
+      assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+
+Letra C - incorreta. Como regra, é incabível a responsabilização civil do Estado por atos legislativos.
+
+Letra D - correta. Já que, no caso de omissão do Estado, sua responsabilidade civil é subjetiva, na modalidade
+culpa administrativa, cabendo ao pretenso lesado provar culpa do Poder Público (não precisa ser de um
+agente público específico), em decorrência do serviço público que não funcione quando deveria funcionar,
+funcione atrasado ou funcione mal.
+
+Letra E - incorreta. Na culpa exclusiva da vítima, a responsabilidade do Estado é integralmente afastada e, na
+culpa concorrente da vítima, parcialmente afastada.
+
+Gabarito: letra D
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    30
+         www.estrategiaconcursos.com.br                                                                       37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+3) Sobre a responsabilização do Estado, é incorreto afirmar que:
+
+a) Quando ocorrer atividade legislativa dentro dos parâmetros normais, ainda que traga obrigações ou
+restrinja direitos, não há que se falar em dever do Estado em indenizar.
+
+b) A responsabilidade do Estado pode ser de natureza civil, penal ou administrativa.
+
+c) Pela teoria da culpa administrativa, a responsabilidade estatal seria do tipo subjetiva.
+
+d) A ação de reparação do dano deve ser movida pelo particular em desfavor da Administração, e não do
+agente público que causou o dano.
+
+e) Ao contrário das leis de efeitos abstratos, as leis de efeitos concretos aplicam-se a destinatários certos,
+atingindo diretamente a órbita individual de pessoas definidas, situação análoga aos atos administrativos.
+                                                         ==219a34==
+
+Comentários:
+
+Letra A - correta. As atividades rotineiras do legislativo que estão dentro das normas e parâmetros legais não
+geram responsabilidade do Estado em indenizar terceiro que seja prejudicado com a ação.
+
+Letra B - incorreta. A Responsabilidade do Estado (pessoa jurídica) é sempre civil. Por sua vez, a
+responsabilidade do agente público pode ser administrativa, penal e/ou civil.
+
+Letra C - correta. Na teoria da culpa administrativa, a responsabilidade estatal seria do tipo subjetiva e ocorre
+quando constatada culpa do Estado (não do agente público!) nos casos de falta ou má qualidade do serviço.
+Essa teoria é utilizada como subsídio para responsabilização estatal em caso de omissão.
+
+Letra D - correta. De fato, a ação de reparação do dano deve ser movida pelo particular em desfavor da
+Administração (pessoa jurídica), e não do agente público que causou o dano, que, regra geral, sequer pode
+figurar como litisconsórcio passivo1 - inaplicabilidade da denunciação à lide do agente, como regra.
+
+Letra E - correta. Uma lei de efeitos concretos é lei em sentido apenas formal, uma vez que segue o rito
+legislativo próprio, sendo editada pelo Poder Legislativo. Porém, não possui generalidade e abstração. Dessa
+forma, não pode ser considerada lei em sentido material. Assim, as leis de efeitos concretos aplicam-se a
+destinatários certos, atingindo diretamente a órbita individual de pessoas definidas, situação análoga aos
+atos administrativos.
+
+Gabarito: letra B.
+
+4) É correto afirmar, em relação à responsabilidade civil do Estado:
+
+1 STF – Re 344.133/PE.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    31
+         www.estrategiaconcursos.com.br                                                                       37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+a) Pela teoria da dupla garantia, adotada no Brasil, a ação de reparação de dano deve ser movida pelo
+particular em desfavor da Administração, e não do agente público que causou o dano, que poderá figurar
+com litisconsórcio passivo.
+
+b) Conforme previsto na Lei nº 9.494/97, a ação de reparação contra a Administração se sujeita ao prazo de
+prescrição de 3 (três) anos.
+
+c) As empresas estatais exploradoras de atividade econômica em sentido estrito também estão abrangidas
+pela responsabilidade objetiva do art. 37, § 6º, da CF.
+
+d) Somente haverá o direito de regresso do Estado caso se comprove o dolo específico na conduta do agente
+público.
+
+e) A ação regressiva pode ser exercida contra os herdeiros do agente público causador do dano, até o limite
+do patrimônio transferido.
+
+Comentários:
+
+Letra A - incorreta. De fato, pela teoria da dupla garantia, que impera entre nós, como regra, o polo passivo
+da ação de indenização movida pelo particular é constituído apenas pela pessoa jurídica (art. 37, § 6º, da
+CF/88), e não o agente público, que tampouco poderá figurar em conjunto com a pessoa jurídica na posição
+de litisconsorte.
+
+      Art. 37, § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços
+      públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros,
+      assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+
+Letra B - incorreta. Conforme previsto no art. 1º-C da Lei nº 9.494/97, a ação de reparação contra a
+Administração se sujeita ao prazo de prescrição de 5 (cinco) anos, e não de 3 (três) anos.
+
+      Art. 1º-C. Prescreverá em cinco anos o direito de obter indenização dos danos causados por
+      agentes de pessoas jurídicas de direito público e de pessoas jurídicas de direito privado
+      prestadoras de serviços públicos.
+
+Letra C - incorreta. Para o art. 37, § 6º, da CF/88, o que importa é que sejam pessoas jurídicas “prestadoras
+de serviços públicos”. Assim, as empresas estatais exploradoras de atividade econômica não estão
+abrangidas pela responsabilidade objetiva do citado dispositivo, o que torna a assertiva incorreta: sua
+responsabilidade é subjetiva, na modalidade culpa comum.
+
+Letra D - incorreta. Nos termos do art. 37, § 6º, da CF/88, o direito de regresso do Estado existe em caso de
+dolo ou culpa.
+
+      Art. 37, § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços
+      públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros,
+      assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+
+Letra E - correta. Por ser uma ação de natureza cível (indenizatória), a ação regressiva transmite-se aos
+sucessores (herdeiros) do agente causador do dano, os quais ficarão responsáveis por promover a reparação
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    32
+         www.estrategiaconcursos.com.br                                                                       37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+mesmo após a morte do agente. O limite até o qual os sucessores responderão é o valor do patrimônio
+transferido, como herança, pelo agente público falecido. Nesse sentido o art. 5º, inciso XLV, da Constituição:
+
+      Art. 5º, XLV - nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar
+      o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e
+      contra eles executadas, até o limite do valor do patrimônio transferido;
+
+GABARITO: letra E.
+
+5) De acordo com os seus conhecimentos sobre a responsabilidade do Estado, é correto afirmar que:
+
+a) O Estado não será civilmente responsável pelos danos causados por seus agentes sempre que estes
+estiverem amparados por causa excludente de ilicitude penal.
+
+b) Em razão do princípio da proteção da confiança, quando o dano for causado por funcionário público
+putativo, o Estado não responderá civilmente perante particulares de boa-fé.
+
+c) As empresas prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade,
+causarem a terceiros, assegurado o direito de regresso contra o responsável exclusivamente no caso de dolo.
+
+d) A responsabilidade civil do Estado por atos comissivos abrange os danos morais e materiais.
+
+e) É objetiva a responsabilidade do agente público em exercício que, por ato doloso, cause danos a terceiros.
+
+Comentários:
+
+Letra A - incorreta. Pode haver responsabilidade do Estado ainda por atos lícitos. Basta pensar na hipótese
+de requisição administrativa de bens, por exemplo, que, embora lícita, pode gerar o dever de indenizar, se
+houver dano (art. 5º, XXV, da Constituição).
+
+Letra B - incorreta. O agente putativo é aquele que desempenha uma atividade pública na presunção de que
+há legitimidade, embora não tenha havido a investidura dentro do procedimento legalmente exigido. Como
+exemplo, temos uma pessoa que pratica vários atos de administração tendo sido admitido sem aprovação
+em concurso público. O fato é que ato praticado por agente putativo é considerado válido perante terceiros
+de boa-fé, uma vez que, para o administrado, o ato tem aparência de ser legal. Logo, haverá responsabilidade
+civil do Estado, seja pelo ato do agente putativo ou pelo agente necessário, o que torna a assertiva incorreta.
+
+Letra C - incorreta. As empresas prestadoras de serviço público responderão pelos danos que seus agentes,
+nessa qualidade, causarem a terceiro, assegurado o direito de regresso contra o responsável nos casos de
+dolo ou culpa, de acordo com o art. 37, § 6º, da CF/88, e não exclusivamente no caso de dolo como afirma a
+assertiva.
+
+      Art. 37, § 6º As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços
+      públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros,
+      assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    33
+         www.estrategiaconcursos.com.br                                                                       37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 12
+
+Letra D - correta. A responsabilidade civil do Estado consiste no dever de compensar os danos materiais e
+morais sofridos por terceiros em virtude de ação ou omissão imputável ao Estado. Dessa forma, se um
+motorista da prefeitura, no exercício da função, proferir frases racistas contra um taxista e posteriormente
+bater com o veículo oficial que dirigia contra o veículo que o taxista usa para trabalhar, a indenização deverá
+cobrir o prejuízo material (como o custo de reparação do veículo), os meses em que o taxista ficar
+impossibilitado de trabalhar (lucros cessantes) e os danos morais sofridos pelo taxista.
+
+Letra E - incorreta. A responsabilidade dos agentes é do tipo subjetiva, ou seja, depende da comprovação de
+dolo ou culpa. A responsabilidade estatal, por sua vez, é do tipo objetiva, e independe da comprovação
+desses requisitos.
+
+Gabarito: letra D.
+
+...
+
+Forte abraço!
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               34
+            www.estrategiaconcursos.com.br                                                                  37
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                                                Túlio Lages
+
+                                       Face: www.facebook.com/proftuliolages
+
+                                      Insta: www.instagram.com/proftuliolages
+
+                                        YouTube: youtube.com/proftuliolages
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   35
+         www.estrategiaconcursos.com.br                                                      37
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 12
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               36
+         www.estrategiaconcursos.com.br                                                                  37
+
+                                      
+
+
+---
+
+---

@@ -1,0 +1,662 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 05_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: EMPRESAS
+artigos_citados:
+- Art. 4º
+- art. 109.
+- art. 150
+- art. 173
+- art. 173.
+- art. 37
+- art. 3º
+- art. 5º
+sumulas_citadas:
+- Súmula 556
+---
+
+# EMPRESAS
+
+EMPRESAS
+                 ESTATAIS
+
+Organização Admin.
+Prof. Antonio Daud
+                     
+
+
+---
+
+                                            Agenda
+
+        1) Introdução
+        2) Definições de Empresa Pública (EP) e Sociedade de Economia Mista (SEM)
+        3) Diferenças entre EP e SEM
+        4) Atividades desenvolvidas
+        5) Principais características
+
+Organização Admin.
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                INTRODUÇÃO
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                             Estatais: introdução
+
+        ❑ Espécies
+
+
+        ❑ Integram a Administração pública indireta
+        ❑ Personalidade jurídica de direito privado
+        ❑ Atividades na ordem econômica:
+
+Organização Admin.
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                   DEFINIÇÕES
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                           
+
+
+---
+
+                       empresa pública                                sociedade de economia mista
+
+
+                     personalidade de direito                                    personalidade de direito
+                             privado                                                     privado
+
+                     criação autorizada por lei                                  criação autorizada por lei
+
+                 capital social é integralmente                               ações com direito a voto
+                detido por ente federativo ou                               pertencem na maioria a ente
+                por entidade da administração                               federativo ou a entidade da
+                            indireta                                           administração indireta
+
+                                                                            forma de sociedade anônima
+Organização Admin.
+Prof. Antonio Daud
+                                            
+
+
+---
+
+                       Estatais: Empresa Pública
+
+  Lei 13.303/2016, art. 3º Empresa pública é a entidade dotada de personalidade jurídica de
+  direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social
+  é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos
+  Municípios.
+  Parágrafo único. Desde que a maioria do capital votante permaneça em propriedade da
+  União, do Estado, do Distrito Federal ou do Município, será admitida, no capital da
+  empresa pública, a participação de outras pessoas jurídicas de direito público interno, bem
+  como de entidades da administração indireta da União, dos Estados, do Distrito Federal e
+  dos Municípios.
+
+
+Organização Admin.
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                 Estatais: Sociedade de Economia Mista
+
+  Art. 4º Sociedade de economia mista é a entidade dotada de personalidade jurídica de
+  direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas
+  ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito
+  Federal, aos Municípios ou a entidade da administração indireta.
+
+Organização Admin.
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                                   Subsidiárias
+
+        ❑ Empresa criada por EP ou SEM
+        ❑ Maioria das ações com direito a voto pertença à EP ou SEM
+
+
+        ❑ Criação também depende de autorização em lei (autorização genérica)
+
+Organização Admin.
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                DIFERENÇAS ENTRE EP E SEM
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+Diferenças entre EP e SEM: composição do capital
+                       (1)
+Sociedade de Economia Mista: público + privado                Empresa Pública: capital 100% público
+    Lei 13.303/2016, art. 4º Sociedade de              Lei 13.303/2016, art. 3º, Empresa pública (..) cujo
+    economia mista (..) cujas ações com                capital social é integralmente detido pela União,
+    direito a voto pertençam em sua                    pelos Estados, pelo Distrito Federal ou pelos
+    maioria à União, aos Estados, ao                   Municípios
+    Distrito Federal, aos Municípios ou a              Parágrafo único. Desde que a maioria do capital
+    entidade da administração indireta.                votante permaneça em propriedade da União, do
+                                                       Estado, do Distrito Federal ou do Município, será
+                                                       admitida (..) a participação de outras pessoas
+                                                       jurídicas de direito público interno, bem como de
+                                                       entidades da administração indireta (..)
+
+                                                         EP: unipessoais vs pluripessoais
+ Organização Admin.
+ Prof. Antonio Daud
+                                    
+
+
+---
+
+        Diferenças entre EP e SEM: forma jurídica (2)
+
+Sociedade de Economia Mista: sempre S.A.                             Empresa Pública
+
+   Lei 13.303/2016, art. 5º A sociedade
+   de economia mista será constituída
+   sob a forma de sociedade anônima
+   e, ressalvado o disposto nesta Lei,
+   estará sujeita ao regime previsto na
+   Lei nº 6.404, de 15 de dezembro de
+   1976.
+
+ Organização Admin.
+ Prof. Antonio Daud
+                                
+
+
+---
+
+ Diferenças entre EP e SEM: juízo competente (3)
+
+         Sociedade de Economia Mista                       Empresa Pública Federal: justiça federal
+                                                       CF, art. 109. Aos juízes federais
+ STF - Súmula 556.                                     compete processar e julgar:
+ É competente a Justiça Comum para                     I - as causas em que a União, entidade
+ julgar as causas em que é parte                       autárquica ou empresa pública federal
+ sociedade de economia mista.                          forem interessadas na condição de
+                                                       autoras, rés, assistentes ou oponentes,
+                                                       exceto as de falência, as de acidentes
+                                                       de trabalho e as sujeitas à Justiça
+                                                       Eleitoral e à Justiça do Trabalho;
+
+
+Organização Admin.
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                       empresa pública                                 sociedade de economia mista
+
+
+                 qualquer das formas admitidas                                      sempre S/A
+
+                      integralmente público                                      capital social misto
+
+                     EP federal: justiça federal                                  justiça estadual
+
+
+Organização Admin.
+Prof. Antonio Daud
+                                            
+
+
+---
+
+Questão para fixação
+ O Governo do Estado pretende instituir uma entidade dedicada a prestar serviços
+ relacionados ao turismo no Estado e encaminha à Assembleia Legislativa o
+ respectivo projeto de lei autorizativa. Sabe-se que tal entidade terá capital social
+ dividido em quotas. O Governo estadual criará uma
+ a) sociedade de economia mista.
+ b) autarquia.
+ c) fundação de direito privado.
+ d) associação pública.
+ e) empresa pública.
+
+Organização Admin.
+Prof. Antonio Daud
+                               
+
+
+---
+
+                ATIVIDADES DESENVOLVIDAS
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                     Estatais: atividades desenvolvidas
+
+                             Exploração de atividade econômica
+                                                  (sentido estrito)
+    EP / SEM
+
+                                 Prestação de serviço público
+
+Organização Admin.
+Prof. Antonio Daud
+                               
+
+
+---
+
+        Estatais: exploração de atividade econômica
+
+        ❑ É situação excepcional:
+        CF, art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta
+        de atividade econômica pelo Estado só será permitida quando necessária aos
+        imperativos da segurança nacional ou a relevante interesse coletivo, conforme
+        definidos em lei.
+
+Organização Admin.
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Estatais: exploração de atividade econômica
+CF. art. 173, § 1º A lei estabelecerá o estatuto jurídico da empresa pública, da
+sociedade de economia mista e de suas subsidiárias que explorem atividade
+econômica de produção ou comercialização de bens ou de prestação de serviços,
+dispondo sobre:
+I - sua função social e formas de fiscalização pelo Estado e pela sociedade;
+II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos
+direitos e obrigações civis, comerciais, trabalhistas e tributários;
+III - licitação e contratação de obras, serviços, compras e alienações, observados os
+princípios da administração pública;
+IV - a constituição e o funcionamento dos conselhos de administração e fiscal, com a
+participação de acionistas minoritários;
+V - os mandatos, a avaliação de desempenho e a responsabilidade dos
+administradores.
+Organização Admin.
+Prof. Antonio Daud
+                               
+
+
+---
+
+                PRINCIPAIS CARACTERÍSTICAS
+
+Direito Administrativo
+Prof. Antonio Daud Jr
+                         
+
+
+---
+
+                                    Estatais: criação
+
+        ❑ Autorização: Lei específica
+        ❑ Efetiva existência: registro do seu ato constitutivo
+
+  ❑ Subsidiárias
+  CF, art. 37, XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das
+  entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa
+  privada;
+
+  ✓ STF: É dispensável a autorização legislativa, desde que haja previsão para esse fim na própria lei
+       que instituiu a empresa de economia mista matriz
+Organização Admin.
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                            Estatais: alienação
+
+
+   1 - A alienação do controle acionário de empresas públicas e sociedade de
+   economia mista matriz exige autorização legislativa e licitação.
+   2 - A exigência de autorização legislativa, todavia, não se aplica a alienação
+   do controle de suas subsidiárias e controladas. Nesse caso, a operação pode
+   ser realizada sem a necessidade de licitação, desde que siga procedimento
+   que observe os princípios da administração pública, respeitada, sempre, a
+   exigência de necessária competitividade.
+
+Organização Admin.
+Prof. Antonio Daud
+                                
+
+
+---
+
+              Alienação de     Autorização legislativa               Licitação
+
+                 EP ou SEM                   SIM                       SIM
+
+                 Subsidiária                NÃO                       NÃO
+
+Organização Admin.
+Prof. Antonio Daud
+                                
+
+
+---
+
+                        Estatais: regime jurídico
+
+        ❑ Regime jurídico híbrido
+
+Organização Admin.
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                    Estatais: Controle
+
+        ❑ Controle exercido pelo ente criador
+                ✓ Controle por vinculação: supervisão ministerial
+                ✓ Inexistência de subordinação
+                ✓ Lei 13.303: não pode suprimir ou reduzir autonomia conferida pela lei que
+                  autorizou a criação
+
+        ❑ “Controle Externo”: Legislativo e Tribunais de Contas
+
+        ❑ Controle Judicial
+                ✓ Mandado de Segurança contra ato de seus dirigentes:
+                     ✓ Apenas quando atuar como autoridade pública
+Organização Admin.
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                          Estatais: regime de pessoal
+  ❑ Regra:
+           - Empregados públicos
+           - regime CLT (regime próprio das empresas privadas – CF, art. 173, §1º, II)
+           - Concurso público
+
+
+  ❑ Estabilidade: não!
+           ✓ Correios: devem motivar o ato de dispensa de empregado (STF)
+
+
+  ❑ Conflitos: Justiça do Trabalho
+
+Organização Admin.
+Prof. Antonio Daud
+                                        
+
+
+---
+
+ Estatais: regime de pessoal – teto remuneratório
+
+
+                                     Dependentes                         Obediência ao teto
+                               (recebem recursos para custeio              remuneratório
+                 EP, SEM e               em geral)
+
+                subsidiárias
+                                                                     Remuneração dos empregados
+                                 Não dependentes
+                                                                        pode extrapolar o teto
+
+Organização Admin.
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                  Estatais: dirigentes
+
+        ❑ alguns têm previsão no estatuto da empresa
+                - relação de trabalho sui generis
+
+
+        ❑ STF: nomeação de dirigentes de empresas públicas ou sociedades de
+          economia mista não pode estar condicionada à aprovação legislativa
+          prévia
+
+Organização Admin.
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                             Estatais: licitações e contratos
+        ❑ Regra geral: submetidas ao mandamento constitucional da licitação
+
+
+                   Lei       • Regras próprias
+                 13.303
+
+
+                      Lei    • Regra: não se aplica
+                     8.666
+
+
+                   Lei       • Continua sendo aplicável
+                 10.520
+Organização Admin.
+Prof. Antonio Daud
+                                         
+
+
+---
+
+                              Estatais: falência
+
+        ❑ Não submetidas à falência – independentemente de sua atividade
+
+Organização Admin.
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                 Estatais: patrimônio
+
+        ❑ Patrimônio próprio
+        ❑ Bens privados
+        ❑ Regra: penhoráveis
+        ❑ Exceções:
+                ✓ Prestadora de serviço público
+                     ✓ Bens diretamente relacionados à prestação do serviço público →
+                       impenhoráveis
+                ✓ Prestadora de serviço público próprio do Estado – não concorrencial
+                     ✓ Todos os bens são impenhoráveis
+                     ✓ Sujeitas ao regime de precatórios
+Organização Admin.
+Prof. Antonio Daud
+                                      
+
+
+---
+
+Organização Admin.
+Prof. Antonio Daud
+                     
+
+
+---
+
+               Imunidade tributária e privilégios fiscais
+    ❑ CF, art. 173, §1º, II - a sujeição ao regime jurídico próprio das empresas
+      privadas, inclusive quanto aos direitos e obrigações civis, comerciais,
+      trabalhistas e tributários;
+
+
+    ❑ CF, art. 173, § 2º As empresas públicas e as sociedades de economia mista
+      não poderão gozar de privilégios fiscais não extensivos às do setor privado.
+
+
+    ❑ STF: I. - As empresas públicas prestadoras de serviço público distinguem-se
+      das que exercem atividade econômica. A Empresa Brasileira de Correios e
+      Telégrafos é prestadora de serviço público de prestação obrigatória e
+      exclusiva do Estado, motivo por que está abrangida pela imunidade
+      tributária recíproca: C.F., art. 150, VI, a.
+Organização Admin.
+Prof. Antonio Daud
+                               
+
+
+---
+
+                     Estatais: imunidade tributária recíproca
+
+
+                                                                          Não fazem jus à imunidade tributária
+                             atividade econômica
+                                                                          recíproca ou a privilégios fiscais não
+     EP e SEM                 em sentido estrito                               extensivos ao setor privado
+
+   atuando em                                                           Fazem jus à imunidade tributária recíproca
+                              serviços Públicos                          e a privilégios fiscais não extensivos ao
+                                                                                       setor privado
+
+Organização Admin.
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                           Responsabilidade civil das estatais
+
+                                  atividade econômica                   Regra: responsabilidade
+                EP e SEM           em sentido estrito                         SUBJETIVA
+
+              atuando em                                                Regra: responsabilidade
+                                   Serviços Públicos
+                                                                               OBJETIVA
+
+Organização Admin.
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Questão para fixação
+Com base em lei específica estadual, foi autorizada a instituição da empresa X, pessoa jurídica
+sob a forma de sociedade anônima, com controle acionário pertencente ao ente federativo
+estadual, para fins de exploração de determinada atividade econômica de interesse coletivo.
+Nessa situação hipotética,
+a) a pessoa federativa a que estará vinculada a empresa X será solidariamente responsável pela
+solvência dos débitos dessa empresa
+b) a empresa X deverá ser constituída como sociedade de economia mista, com personalidade
+jurídica de direito privado, pertencente à administração indireta, à qual é delegada a
+titularidade de atividade típica do Estado
+c) por se tratar de pessoa jurídica que exercerá atividade econômica, a empresa X submeter-se-
+á ao regime jurídico próprio das empresas privadas, salvo em relação a obrigações trabalhistas
+e tributárias
+d) a empresa X submeter-se-á ao controle do tribunal de contas no que concerne aos bens,
+valores e dinheiros públicos provenientes diretamente do ente público controlador.
+e) a empresa X não poderá realizar contratações e licitações em regime diverso daquele
+previsto para a administração direta
+ Organização Admin.
+ Prof. Antonio Daud
+                                   
+
+
+---
+
+Questão para fixação
+Assinale a opção que apresenta característica comum às sociedades de economia
+mista e às empresas públicas.
+a) Estão sujeitas ao regime de precatórios, como regra
+b) Não gozam de privilégios fiscais não extensíveis ao setor privado.
+c) Não precisam realizar procedimento licitatório, a fim de viabilizar a atuação no
+mercado competitivo
+d) São criadas por lei
+e) Não estão sujeitas à fiscalização dos tribunais de contas
+
+ Organização Admin.
+ Prof. Antonio Daud
+                              
+
+
+---
+
+                                                 Estatais
+     Características comuns                          EP vs. SEM                  prest. serviço público vs.
+• P.J. de direito privado              • Forma jurídica (S/A ou outras)          explor. ativ. econômica
+• criação autorizada em lei específica • Capital integralmente público ou     • Responsabilidade civil
+• Concurso público                       misto                                • Bens
+• Regime CLT*                          • Foro competente das estatais         • Privilégio fiscal
+• Não há estabilidade                    federais
+                                                                              • Imunidade tributária recíproca*
+• Teto constitucional se forem
+  “dependentes”
+• Sujeição ao controle externo dos
+  TCs
+
+ Organização Admin.
+ Prof. Antonio Daud
+                                         
+
+
+---
+
+                 OBRIGADO
+
+
+Organização Admin.
+Prof. Antonio Daud
+                      
+
+
+---
+
+Organização Admin.
+Prof. Antonio Daud
+                     
+
+
+---

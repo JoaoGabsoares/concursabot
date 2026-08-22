@@ -1,0 +1,174 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 03_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: 12/08/2020
+---
+
+# 12/08/2020
+
+12/08/2020
+
+     Prof Fábio Dutra
+
+53
+
+                               IPI
+                 RECOLHIMENTO
+
+54
+
+                         1
+
+
+---
+
+                                                                                 12/08/2020
+
+     IPI – Recolhimento
+       Fato Gerador: Instantâneo (saída dos produtos ou desembaraço aduaneiro)
+
+
+       Período de Apuração:
+
+       ❑ Saída dos Produtos – Apuração Mensal;
+       ❑ Desembaraço Aduaneiro – Apuração a cada importação.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+
+
+55
+
+     IPI – Recolhimento
+       Importância a Recolher:
+
+       ❑ Na Importação: valor resultante do cálculo do imposto (BC x Alíq.)
+
+
+       ❑ No depósito para fins comerciais, na venda ou na exposição à venda de
+         produtos trazidos do exterior e desembaraçados com a qualificação de
+         bagagem: valor dispensado (isento) ou diferença entre imposto pago na
+         importação e preço de venda (regime de importação comum).
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+
+
+56
+
+                                                       2
+
+
+---
+
+                                                                                                                                 12/08/2020
+
+     IPI – Recolhimento
+       Importância a Recolher:
+
+       ❑ Nas operações realizadas por firmas ou pessoas não sujeitas
+         habitualmente ao pagamento do imposto: a diferença entre o tributo
+         devido e o consignado no documento fiscal de aquisição do produto;
+
+
+       ❑ Nos demais casos (regra geral): a resultante do cálculo do imposto relativo
+         ao período de apuração a que se referir o recolhimento, deduzidos os
+         créditos do mesmo período;
+
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+
+
+57
+
+     IPI – Recolhimento
+       Prazos de Recolhimento:
+
+
+                                                   Antes da saída do produto da repartição que processar o despacho, nos casos
+                                                                                 de importação.
+                         PRAZO DE RECOLHIMENTO
+
+                                                   Até o 10º dia do mês subsequente ao de ocorrência do fato gerador, no caso
+                                                                     de cigarros (Código 2402.20.00 da TIPI).
+
+                                                   Até o 25º dia do mês subsequente ao de ocorrência do fato gerador, no caso
+                                                                             dos demais produtos.
+
+                                                  No ato do pedido de autorização da venda de produtos trazidos do exterior a
+                                                  título de bagagem, com ou sem isenção.
+
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+
+
+58
+
+                                                                                                       3
+
+
+---
+
+                                                                                    12/08/2020
+
+     QUESTÃO INÉDITA
+
+        A respeito do recolhimento do IPI, pode-se dizer que o período de apuração
+        do imposto incidente nas saídas dos produtos do estabelecimento industrial
+        ou equiparado a industrial é decendial.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada
+59
+
+     QUESTÃO INÉDITA
+
+        A respeito do recolhimento do IPI, pode-se dizer que o período de apuração
+        do imposto incidente nas saídas dos produtos do estabelecimento industrial
+        ou equiparado a industrial é mensal, inclusive em relação ao IPI incidente no
+        desembaraço aduaneiro.
+
+ Legislação Tributária
+ Prof. Fábio Dutra         Gabarito: Errada
+60
+
+                                                          4
+
+
+---
+
+                                                                                   12/08/2020
+
+     QUESTÃO INÉDITA
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada
+61
+
+     QUESTÃO INÉDITA
+
+        A respeito do recolhimento do IPI, pode-se dizer que o prazo de recolhimento
+        do IPI é até o décimo dia do mês subsequente ao de ocorrência dos fatos
+        geradores, nos casos dos cigarros (Código 2402.20.00 da TIPI).
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Correta
+62
+
+                                                         5
+
+
+---

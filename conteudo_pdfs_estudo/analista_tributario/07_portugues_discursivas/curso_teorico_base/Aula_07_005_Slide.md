@@ -1,0 +1,1173 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 07_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: ANAF
+---
+
+# ANAF
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRI
+
+ANAF
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+TEMAS ESPECIAIS DE
+   PORTUGUÊS
+                                         Profª. Adriana Figueiredo
+
+    
+
+
+---
+
+CADERNO 34
+                                     Profª. Adriana Figueiredo
+
+---
+
+ESTRUTURA E PROCESSOS
+   DE FORMAÇÃO DE
+       PALAVRAS                            Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+      PARTE 3
+                                     Profª. Adriana Figueiredo
+
+---
+
+DESINÊNCIAS: são elementos mórficos que indicam flexões gramaticais em nomes (gênero e
+número) e em verbos (modo, tempo, número e pessoa).
+
+
+NOMES:
+Desinência nominal de gênero: indica o gênero feminino.
+Ex.: meninA – professorA – bonitA
+
+
+Desinência nominal de número: indica o plural.
+Ex.: casaS – pedraS – meninoS
+
+                                
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+Diferencie nos vocábulos abaixo vogal temática, desinência de gênero e
+desinência de número:
+A) Gatas
+Vogal temática:
+Desinência de gênero:
+Desinência de número:
+
+B) Geladeira
+Vogal temática:
+Desinência de gênero:
+Desinência de número:
+
+                          
+
+
+---
+
+Diferencie nos vocábulos abaixo vogal temática, desinência de gênero e
+desinência de número:
+C) Mesas
+Vogal temática:
+Desinência de gênero:
+Desinência de número:
+
+D) Inocentes
+Vogal temática:
+Desinência de gênero:
+Desinência de número:
+
+                          
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+Avança SP - 2025 - Prefeitura de Caieiras - SP - Cirurgião Dentista - ESF
+
+Nas palavras apresentadas a seguir, foram destacados diferentes elementos mórficos. Identifique
+aquela cuja parte em destaque corresponde a um morfema de número.
+
+
+A) moça.
+
+
+B) livreiro.
+
+
+C) cachoeiras.
+
+
+D) inanimado.
+
+
+E) escrevente.
+                                
+
+
+---
+
+ADM&TEC - 2024 - Prefeitura de São Luís do Quitunde - AL - Professor de Língua
+Portuguesa
+O vocábulo empregado no texto que não apresenta desinência de gênero é:
+
+
+A) Brasileiros.
+
+
+B) Básico.
+
+
+C) Estudante.
+
+
+D) Públicas.
+
+                               
+
+
+---
+
+IDESG - 2024 - Câmara de Areal - RJ - Procurador
+
+O vocábulo do texto que não apresenta desinência de gênero é:
+
+
+A) Cientista.
+
+
+B) Extremo.
+
+
+C) Própria.
+
+
+D) Energética.
+
+                               
+
+
+---
+
+IBADE - 2024 - Prefeitura de Manaus - AM - Analista Municipal - Assistência
+Social
+O vocábulo que não apresenta desinência de gênero é:
+
+
+A) própria.
+
+
+B) verdadeiro.
+
+
+C) inseguro.
+
+
+D) complicada.
+
+
+E) colunista.
+
+
+                               
+
+
+---
+
+FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua
+Portuguesa
+Assinale a opção que apresenta o par de palavras em que o a final é identificado como desinência
+de gênero.
+
+
+A) fala / página.
+
+
+B) caixa / boca.
+
+
+C) larga / professora.
+
+
+D) bela / letra.
+
+
+E) multa / égua.
+                                
+
+
+---
+
+      PARTE 4
+                                     Profª. Adriana Figueiredo
+
+---
+
+DESINÊNCIAS: são elementos mórficos que indicam flexões gramaticais em nomes (gênero e
+número) e em verbos (modo, tempo, número e pessoa).
+
+
+VERBOS:
+Na conjugação dos verbos, a vogal temática é a vogal que define a conjugação do verbo:
+- Vogal temática A: 1ª conjugação (amar, cantar);
+- Vogal temática E: 2ª conjugação (beber, vender);
+- Vogal temática I: 3ª conjugação (partir, digerir).
+
+
+Observação: não existe 4ª conjugação. Por exemplo, pôr é um verbo de 2ª conjugação
+
+
+                                   
+
+
+---
+
+Desinência modo-temporal (DMT): indica o modo e o tempo do verbo.
+Ex.: cantáVAmos (pretérito perfeito do indicativo)
+
+
+Desinência número-pessoal (DNP): indica o número e a pessoa do verbo.
+Ex.: sabíaMOS (1ª pessoa do plural)
+Exemplo de análise da estrutura de um verbo:
+“Falarão”
+- Radical: -fal
+- Vogal temática: -a (1ª conjugação)
+- Desinência modo-temporal: -ra (futuro do presente do indicativo)
+- Desinência número-pessoal: -ão (3ª pessoa do plural)
+                                 
+
+
+---
+
+---
+
+---
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+Faça a análise da estrutura dos verbos abaixo:
+a) chegarias
+- Radical:
+- Vogal temática:
+- Desinência modo-temporal:
+-   Desinência número-pessoal:
+
+                                 
+
+
+---
+
+Faça a análise da estrutura dos verbos abaixo:
+b) comeremos
+- Radical:
+- Vogal temática:
+- Desinência modo-temporal:
+- Desinência número-pessoal:
+
+                               
+
+
+---
+
+Faça a análise da estrutura dos verbos abaixo:
+c) dormissem
+- Radical:
+- Vogal temática:
+- Desinência modo-temporal:
+- Desinência número-pessoal:
+
+                               
+
+
+---
+
+Faça a análise da estrutura dos verbos abaixo:
+d) cantávamos
+- Radical:
+- Vogal temática:
+- Desinência modo-temporal:
+- Desinência número-pessoal:
+
+                               
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+CESGRANRIO - SEDUC-TO - Professor - Língua Portuguesa
+
+Os infinitivos das formas verbais presentes nos versos
+“subi num bonde
+desci de um elétrico” (v. 3-4)
+
+
+A) apresentam a mesma vogal temática.
+
+
+B) diferem na conjugação em que se inserem.
+
+
+C) enunciam vozes verbais diferentes.
+
+                                 
+
+
+---
+
+CESGRANRIO - SEDUC-TO - Professor - Língua Portuguesa
+
+Os infinitivos das formas verbais presentes nos versos
+“subi num bonde
+desci de um elétrico” (v. 3-4)
+
+
+D) flexionam-se em modos verbais diversos.
+
+
+E) flexionam-se em tempos verbais diversos.
+
+                                 
+
+
+---
+
+IBADE - Prefeitura de Ibatiba - ES - Assistente Social
+
+Marque a alternativa incorreta quanto à classificação dos elementos mórficos destacados nas
+seguintes palavras do texto:
+
+
+A) global – AL - sufixo.
+
+
+B) pressionamos – MOS – desinência número-pessoal.
+
+
+C) humana – A – desinência de gênero.
+
+
+D) estamos - ESTA – radical.
+
+
+E) impedir – I – vogal temática verbal.
+                                  
+
+
+---
+
+UNIVIDA - Prefeitura de Floraí - PR - Contador
+
+Marque a alternativa incorreta quanto à classificação dos elementos mórficos destacados nas
+seguintes palavras empregadas no texto:
+A) Ambicioso – OSO - sufixo.
+
+
+B) Nascemos – MOS – desinência número-pessoal.
+
+
+C) Humana – A – desinência de gênero.
+
+
+D) Encerramos - ENCERRA – radical.
+
+
+E) Dizer – E – vogal temática verbal.
+                                  
+
+
+---
+
+IBPTEC - 2025 - Prefeitura de São Sebastião do Passé - BA - Agente de Trânsito e
+Transporte
+Qual dos verbos abaixo apresenta desinência modo-temporal?
+
+
+A) encontraremos
+
+
+B) usemos
+
+
+C) estamos
+
+
+D) mostramos
+
+
+E) devemos
+
+
+                              
+
+
+---
+
+FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua
+Portuguesa
+Assinale a opção que apresenta a palavra em que a letra a desempenha o papel de desinência
+modo-temporal.
+
+
+A) Alugar.
+
+
+B) Colava.
+
+
+C) Pretendia.
+
+
+D) Pronunciar.
+
+
+E) Competiria.
+                              
+
+
+---
+
+MISCELÂNEA CEBRASPE
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2025 - UNIVESP - Supervisor Pedagógico -
+Área de Atuação 8: Letras, Linguística e Áreas de Língua Portuguesa
+Texto associado
+Texto 8A2-I
+Nenhum homem é uma ilha, completa em si mesma; todo homem é um pedaço do continente,
+uma parte da terra firme. Se um torrão de terra for levado pelo mar, a Europa ficará menor, como
+se tivesse perdido um promontório, como se fosse o solar de teus amigos ou o teu próprio. A
+morte de cada homem diminui a mim, porque na humanidade me encontro envolvido. Por isso,
+não procures saber por quem os sinos dobram; eles dobram por ti.
+John Donne. Meditações. Tradução: Fabio Cyrino.
+São Paulo: Editora Landmark, 2012 (com adaptações).
+****
+
+                                
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2025 - UNIVESP - Supervisor Pedagógico - Área
+de Atuação 8: Letras, Linguística e Áreas de Língua Portuguesa
+O vocábulo “encontro” (terceiro período) é formado por um morfema lexical, encontr-, acrescido
+de uma vogal temática, -o.
+
+
+CERTO
+
+
+ERRADO
+
+                               
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2025 - UNIVESP - Supervisor Pedagógico - Área
+de Atuação 8: Letras, Linguística e Áreas de Língua Portuguesa
+Nenhum homem é uma ilha, completa em si mesma; todo homem é um pedaço do continente,
+uma parte da terra firme. Se um torrão de terra for levado pelo mar, a Europa ficará menor, como
+se tivesse perdido um promontório, como se fosse o solar de teus amigos ou o teu próprio. A
+morte de cada homem diminui a mim, porque na humanidade me encontro envolvido. Por isso,
+não procures saber por quem os sinos dobram; eles dobram por ti.
+
+
+                        John Donne. Meditações. Tradução: Fabio Cyrino. São Paulo: Editora Landmark, 2012 (com adaptações).
+
+No vocábulo “completa” (primeiro período), o morfema -a classifica-se como vogal temática.
+CERTO
+ERRADO
+
+                                  
+
+
+---
+
+CESPE - SEDUC-AM - Professor - Língua Portuguesa
+
+                             
+
+
+---
+
+CESPE - SEDUC-AM - Professor - Língua Portuguesa
+
+No vocábulo “zombavam” (L.24), além do radical zomb-, identificam-se o morfema temático de
+primeira conjugação a e o morfema modo-temporal -vam.
+
+
+(Certo)
+
+
+(Errado)
+
+                              
+
+
+---
+
+CADERNO 35
+                                     Profª. Adriana Figueiredo
+
+---
+
+PROCESSO DE FORMAÇÃO
+    DAS PALAVRAS
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+COMPOSIÇÃO
+
+É o processo em que uma nova palavra é formada pela união de dois ou mais radicais.
+
+
+Composição por justaposição: quando os elementos se unem sem alteração fonética.
+
+
+Ex.: guarda-chuva / passatempo / couve-de-bruxelas
+
+
+Composição por aglutinação: quando os elementos se unem com alteração fonética.
+
+
+Ex.: embora (= em + boa + hora) / aguardente (= água + ardente)
+
+
+                                
+
+
+---
+
+EXERCÍCIO DE FIXAÇÃO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+III) Identifique o tipo de composição na formação das palavras a seguir.
+a) pé-de-atleta
+
+b) passatempo
+
+c) planalto
+
+
+d) pernalta
+
+
+e) pontapé
+
+f) vinagre
+                               
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+SELECON - 2024 - SAD-MS - Assistente Social
+
+A palavra BEM-ESTAR é formada pelo processo morfológico de composição. Esse mesmo processo
+é atestado na palavra:
+
+
+A) girassol
+
+
+B) hipertensão
+
+
+C) reavaliação
+
+
+D) pré-história
+
+
+E) pós-graduação
+                              
+
+
+---
+
+SELECON - IF-RJ - Técnico de Laboratório/Informática
+
+A palavra “ferro-velho” é constituída originalmente de um substantivo e de um adjetivo. Essa
+palavra foi formada pelo processo de:
+
+
+A) derivação regressiva
+
+
+B) derivação parassintética
+
+
+C) derivação prefixal e sufixal
+
+
+D) composição por aglutinação
+
+
+E) composição por justaposição
+                                  
+
+
+---
+
+OBJETIVA - 2025 - Câmara de Progresso - RS - Auxiliar de Administração
+
+Em qual das alternativas a palavra sublinhada é uma palavra formada por aglutinação?
+
+
+A) O beija-flor voou rapidamente.
+
+
+B) Detesto o cheiro de aguardente.
+
+
+C) Ela estava insegura com decisão.
+
+
+D) O desagradável cheiro de peixe se espalhou pela casa.
+
+                                
+
+
+---
+
+DERIVAÇÃO
+                                     Profª. Adriana Figueiredo
+
+---
+
+DERIVAÇÃO
+
+É o processo em que uma nova palavra se forma a partir de uma palavra primitiva, geralmente por
+meio afixos (prefixo e/ou sufixo).
+
+
+a) Prefixal: pré-história, desleal , anteontem
+
+
+b) Sufixal: lealdade, felizmente, bondade
+
+
+c) Prefixal e sufixal: deslealdade, infelizmente
+
+
+d) Parassintética: entristecer, aterrorizar
+
+                                   
+
+
+---
+
+OBSERVAÇÕES IMPORTANTES
+
+1) Na derivação prefixal e sufixal, se o prefixo ou o sufixo for retirado, a palavra tem existência
+autônoma.
+
+
+Ex.: leal – desleal – lealdade - deslealdade.
+
+2) Na derivação parassintética (diferentemente da prefixal e sufixal), o prefixo e o sufixo devem
+ser agregados simultaneamente ao radical. Se um dos afixos for retirado, a palavra resultante não
+tem existência própria.
+
+
+Ex.: triste – entristecer – *tristecer – *entriste
+                                    
+
+
+---
+
+EXERCÍCIO DE FIXAÇÃO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+V) Identifique o tipo de derivação na formação das palavras abaixo. Utilize a
+seguinte convenção:
+(1) derivação prefixal
+(2) derivação sufixal
+(3) derivação prefixal e sufixal
+(4) derivação parassintética
+a) antiético ( )
+
+
+b) amizade ( )
+
+c) irrealidade ( )
+
+d) emudecer ( )
+
+
+                             
+
+
+---
+
+V) Identifique o tipo de derivação na formação das palavras abaixo. Utilize a
+seguinte convenção:
+(1) derivação prefixal
+(2) derivação sufixal
+(3) derivação prefixal e sufixal
+(4) derivação parassintética
+e) encarecer ( )
+
+
+f) desumanização ( )
+
+g) amanhecer ( )
+
+                             
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+Prefeitura de Bauru - SP - 2025 - Prefeitura de Bauru - SP - Especialista em Saúde
+- Fisioterapeuta
+Na frase do segundo parágrafo “Contudo, esse desconforto vai diminuindo conforme o portador
+de SFM dá continuidade ao seu treinamento.” As palavras em destaque são formadas
+RESPECTIVAMENTE pelo processo de:
+
+
+A) sufixação e aglutinação.
+
+
+B) sufixação e prefixação.
+
+
+C) prefixação e sufixação.
+
+
+D) parassíntese e prefixação.
+
+
+                                
+
+
+---
+
+Instituto Consulplan - 2025 - HEMOBRÁS - Assistente Industrial e de Gestão
+Corporativa – Assistente Administrativo
+O processo de formação de “poderoso” (8º§) só NÃO é o mesmo de:
+
+
+A) “embora” (3º§)
+
+
+B) “burrice” (14º§)
+
+
+C) “sutilezas” (10º§
+
+
+D) “literalmente” (5º§)
+
+                              
+
+
+---
+
+FUNDATEC - 2025 - Prefeitura de Nova Alvorada - RS - Enfermeiro
+
+Na palavra “reprodução”, identifica-se o seguinte processo de formação:
+
+
+A) Apenas prefixal.
+
+
+B) Apenas sufixal.
+
+
+C) Prefixal e sufixal.
+
+
+D) Composição por justaposição.
+
+
+E) Composição por aglutinação.
+
+
+                                  
+
+
+---
+
+SELECON - Câmara de Várzea Grande - MT - Analista Legislativo - Contador
+
+Há uma palavra formada por derivação sufixal e uma palavra formada por derivação
+parassintética, respectivamente, em:
+
+
+A) infelizmente e envelhecer
+
+
+B) felizmente e envelhecer
+
+
+C) infelizmente e velhice
+
+
+D) felizmente e velhice
+
+                               
+
+
+---
+
+INSTITUTO AOCP - 2025 - MPE-RS - Analista do Ministério Público - Direito
+
+Analise o seguinte excerto: “[...] afirmam que o estresse no trabalho impacta negativamente seu
+bem-estar mental.”. Assinale a alternativa em que os termos destacados tenham se formado,
+respectivamente, pelos mesmos processos de formação de palavras que aqueles dos termos
+destacados no excerto apresentado.
+
+
+A) “Não conseguir ter equilíbrio entre vida pessoal e profissional [...]; é mais complexo alcançar
+esse patamar quando todos estão hiperconectados [...]”.
+
+
+B) “Luciana Benedetto, psicóloga especialista em neuropsicologia e bem-estar da BurnUp [...]”.
+
+
+C) “[...] reforça que o desequilíbrio decorre de pressões como metas inatingíveis e longas
+jornadas.”.
+
+
+                                 
+
+
+---
+
+INSTITUTO AOCP - 2025 - MPE-RS - Analista do Ministério Público - Direito
+
+Analise o seguinte excerto: “[...] afirmam que o estresse no trabalho impacta negativamente seu
+bem-estar mental.”. Assinale a alternativa em que os termos destacados tenham se formado,
+respectivamente, pelos mesmos processos de formação de palavras que aqueles dos termos
+destacados no excerto apresentado.
+
+
+D) “Outra parte importante é desenvolver práticas de autocuidado, como atividade física,
+meditação e hobbies.”.
+
+
+E) “Criar rituais de desconexão ao final do dia e evitar responder mensagens fora do expediente
+são passos simples, mas poderosos”.
+
+                                
+
+
+---
+
+DERIVAÇÃO IMPRÓPRIA X
+DERIVAÇÃO REGRESSIVA
+                                           Profª. Adriana Figueiredo
+
+      
+
+
+---
+
+DERIVAÇÃO IMPRÓPRIA X DERIVAÇÃO REGRESSIVA
+
+Derivação regressiva: é o processo em que a nova palavra se forma por redução da palavra
+primitiva.
+
+
+Ex.: caça (de “caçar”) / troca (de “trocar”) / grito (de “gritar”)
+
+
+Derivação imprópria: é o processo em que a palavra muda apenas de classe gramatical. Não há
+mudança na forma.
+
+
+Ex.: um não / o sim / o jantar
+
+                                   
+
+
+---
+
+EXERCÍCIO DE FIXAÇÃO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+V) Na formação das palavras abaixo, identifique o tipo de derivação como
+imprópria ou regressiva.
+a) seu viver
+
+b) o talvez
+
+c) o corte
+
+
+d) a entrega
+
+e) o amanhã
+
+                           
+
+
+---
+
+VI) Aponte a mudança de classe das palavras abaixo que passaram pelo processo
+de derivação imprópria.
+a) o caminhar
+
+b) um porquê
+
+c) o amar
+
+
+d) um certamente
+
+e) o saber
+
+                             
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+INSTITUTO AOCP - Prefeitura de João Pessoa - PB - Técnico em Radiologia
+
+Inúmeros substantivos na Língua Portuguesa formam-se por derivação regressiva, ou seja,
+derivam-se de verbos. Sabendo disso, assinale a alternativa cujo vocábulo em destaque fora
+formado por esse processo.
+
+
+A) “O ser humano tende a buscar prazer em todas as suas vivências.”.
+
+
+B) “Essas relações sociais podem contribuir para que a prevenção do adoecimento mental
+aconteça, [...]”.
+
+
+C) “Essas relações sociais podem contribuir para que a prevenção do adoecimento mental
+aconteça, [...]”.
+
+                                
+
+
+---
+
+INSTITUTO AOCP - Prefeitura de João Pessoa - PB - Técnico em Radiologia
+
+Inúmeros substantivos na Língua Portuguesa formam-se por derivação regressiva, ou seja,
+derivam-se de verbos. Sabendo disso, assinale a alternativa cujo vocábulo em destaque fora
+formado por esse processo.
+
+
+D) “[...] essa relação, que é tão importante para o ser humano, pode ser fragilizada pela mudança
+abrupta da rotina [...]”.
+
+
+E) “[...] dividir o sofrimento e as preocupações por meio do diálogo é consideravelmente mais
+efetivo e saudável do que uma comunicação agressiva.”.
+
+                                
+
+
+---
+
+FCC - MANAUSPREV - Analista Previdenciário - Tecnologia da Informação
+
+As palavras podem mudar de classe gramatical sem sofrer modificação em sua forma. A este
+processo de enriquecimento vocabular pela mudança de classe das palavras dá-se o nome de
+derivação imprópria.
+                                                   (Celso Cunha. Gramática essencial, 2013. Adaptado.)
+
+
+Verifica-se um exemplo de derivação imprópria no seguinte trecho:
+A) A moça vivia confinada num salão (3° parágrafo).
+B) Sua beleza saiu do corpo (4° parágrafo).
+C) Não ousavam abranger o corpo inteiro (1° parágrafo).
+D) A moça já não podia sair à rua (2° parágrafo).
+E) Houve um engarrafamento monstro (2° parágrafo).
+                                 
+
+
+---
+
+QUADRIX – 2025 – SEDF - Professor de Educação Básica: Língua Portuguesa
+
+A palavra “pesquisa”, presente na oração “A pesquisa em sala de aula insere-se no campo da
+pesquisa social”; a palavra “avanço”, presente na oração “em que o avanço foi mais rápido e mais
+intenso”, e a palavra “registros”, presente oração “Há muitos registros de atividade científica entre
+os povos antigos”, são criadas pelo mesmo processo de formação de palavras.
+
+Certo
+
+
+Errado
+
+
+                                  
+
+
+---
+
+QUADRIX – CRB - 15° Região - Assistente Administrativo
+
+                             
+
+
+---
+
+QUADRIX – CRB - 15° Região - Assistente Administrativo
+
+O termo “perda” (linha 9) é uma forma verbal derivada de “perder”.
+
+Certo
+
+
+Errado
+
+                                
+
+
+---
+
+CESPE / CEBRASPE - SEE-PE - Professor - Língua Portuguesa
+
+[ÚLTIMO PARÁGRAFO]
+
+
+[...] Nesse sentido, as propostas já existentes seriam os primeiros passos nesse movimento, e não
+uma forma final a ser imposta a todos os falantes.
+
+
+A palavra “movimento” (último período do texto) constitui exemplo de palavra formada por
+derivação imprópria.
+
+Certo
+Errado
+                                
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                         @professoraadrianafigueiredo
+
+                youtube.com/user/professoraadrianaf
+
+                   facebook.com/prof.adriana.figueiredo
+
+             
+
+
+---
+
+---

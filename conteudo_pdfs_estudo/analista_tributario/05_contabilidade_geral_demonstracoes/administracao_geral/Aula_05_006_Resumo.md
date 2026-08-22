@@ -1,0 +1,286 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 05_006_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '05'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Contabilidade Geral e
+
+Avançada - Escrituração.       Trata-se de um material pensado para lhe ajudar em todo esse
+
+processo, visando, inclusive, uma economia de tempo de confecção de materiais, tempo que é
+
+o bem mais precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                                 
+
+
+---
+
+                       RESUMO DE CONTABILIDADE
+
+Escrituração
+
+  ● Os atos contábeis são acontecimentos que ocorrem na entidade e não
+
+    provocam alterações do patrimônio.
+
+
+  ● Os fatos contábeis, por sua vez, são os acontecimentos que provocam variações
+
+    no patrimônio da entidade.
+
+
+  ● Plano de contas: conjunto de todas as contas existentes dentro de uma
+
+    entidade para uniformizar os registros contábeis.
+
+                                                                                               2
+
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                              
+
+
+---
+
+   ● Método das partidas dobradas:
+
+         ❖ A soma dos débitos é sempre igual à soma dos créditos.
+
+         ❖ Um ou mais débitos numa ou mais contas deve corresponder a um ou
+
+            mais créditos de valor equivalente em uma ou mais contas.
+
+         ❖ O total do ativo será sempre igual à soma do passivo exigível com o
+
+            patrimônio líquido.
+
+
+   ● Contas retificadoras: têm saldo contrário ao normal. Se as contas do ativo
+
+      aumentam a débito, as retificadoras aumentam a crédito. Se as contas do ativo
+
+      diminuem a crédito, as retificadoras diminuem a débito.
+
+
+   ● Lançamentos:
+
+         ❖ A conta precedida da preposição “a” é a conta creditada. Assim, os dois
+
+            lançamentos acima são iguais, apenas escritos de forma diferente.
+
+         ❖ Quando no seu concurso aparecer a palavra diversos, saiba que há mais de
+
+            uma conta creditada ou debitada.
+
+       Lançamento                               Débito                                 Crédito
+
+         1ª Fórmula                                 1                                       1
+
+         2ª Fórmula                                 1                                       2
+
+         3ª Fórmula                                 2                                       1
+
+        4ª Fórmula                                  2                                       2
+Observação: Onde está escrito 2, deve ser entendido como 2 ou mais.
+
+É só ver a sequência de números e teremos: 11, 12, 21, 22. Em ordem crescente.
+
+
+                                                                                                 3
+
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                               
+
+
+---
+
+● Os fatos contábeis podem ser:
+
+        ❖ Fatos Permutativos: São aqueles que não alteram o valor do patrimônio
+
+          líquido, constituindo apenas permutações entre elementos patrimoniais.
+
+        ❖ Fatos Modificativos: São os que alteram o valor do patrimônio líquido.
+
+          Dividem-se em:
+
+          Fatos Modificativos Aumentativos: Aumentam o valor do PL
+
+          Fatos Modificativos Diminutivos: Diminuem o valor do PL
+
+        ❖ Fatos Mistos ou Compostos: Pode ser:
+
+          Fatos Mistos Aumentativos: São simultaneamente permutativos e
+
+          modificativos aumentativos.
+
+          Fatos     mistos      Diminutivos:         São     simultaneamente             permutativos       e
+
+          modificativos diminutivos.
+
+
+● Retificação de lançamento é o processo técnico de correção de registro
+
+  realizado com erro na escrituração contábil da entidade e pode ser feito por meio
+
+  de:
+
+        ❖ Estorno;
+
+        ❖ Transferência;
+
+        ❖ Complementação.
+
+
+● O livro diário é um livro que contém o registro de todo e cada lançamento em
+
+  ordem cronológica, fato que nos permite compreender a sequência de
+
+  acontecimentos ocorridos na empresa. Ele é obrigatório para a quase que
+
+                                                                                                        4
+
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                              
+
+
+---
+
+   totalidade dos empresários (ressalva-se o pequeno empresário previsto na LC
+
+   123/2006).
+
+
+● Formalidades do livro diário:
+
+      ❖ Extrínsecas (finalidade: dificultar adulteração):
+
+            ● Deve ser encadernado;
+
+            ● As folhas devem ser numeradas;
+
+            ● Deve ser autenticado pela Junta Comercial do Estado (empresas
+
+                mercantis) ou pelo Registro Civil de Pessoas Jurídicas (empresas
+
+                civis); e
+
+            ● Deve haver termo de abertura e termo de encerramento.
+
+      ❖ Intrínsecas (finalidade: resguardar a fidedignidade dos fatos ocorridos em
+
+         relação aos fatos registrados):
+
+            ● Seguir uma ordem cronológica;
+
+            ● Não deve haver rasuras, borrões, sinais, linhas em branco, entrelinhas,
+
+                folhas em branco, etc.; e
+
+            ● A escrituração deve ser feita em língua e moeda nacionais.
+
+
+● O livro razão é facultativo, principal (isto é, registram todos os fatos) e sistemático
+
+   (leva em conta principalmente a organização das informações).
+
+                                                                                              5
+
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                             
+
+
+---
+
+  ● Balancete de verificação:
+
+                                  Balancete de verificação
+
+Evidência
+
+Igualdade matemática dos débitos e créditos
+
+Não evidencia
+
+Estornos do período
+
+Classificação das contas
+
+Movimento individual das contas
+
+Lançamento do período
+
+                                                                                               6
+
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 01.
+
+
+                              
+
+
+---

@@ -1,0 +1,458 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_017_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: COMPRAS
+---
+
+# COMPRAS
+
+---
+
+---
+
+COMPRAS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - V
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (SELECON/EMGEPRON/Técnico/2021) Na gestão de compras, o prazo normal que
+     ocorre entre a emissão de ordens de compras e seu atendimento denomina-se:
+     a) ponto de pedido.
+     b) sinal de demanda.
+     c) controle periódico.
+     d) tempo de reposição.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (SELECON/EMGEPRON/Técnico/2021) Na gestão de compras, o prazo normal que
+     ocorre entre a emissão de ordens de compras e seu atendimento denomina-se:
+     a) ponto de pedido.
+     b) sinal de demanda.
+     c) controle periódico.
+     d) tempo de reposição.
+     GABARITO - D
+
+     Esse período é o que se costuma chamar de tempo de
+     reposição, medida fundamental para o cálculo correto do
+     ponto do pedido em sistemas de reposição contínua. É
+     iniciado no momento em que se efetua o pedido e se encerra
+     no momento em que o cliente recebe o que foi comprado.
+     Segundo Marco Aurélio Dias o tempo de reposição (também
+     conhecido por Lead Time) pode ser dividido em 3 partes:
+     emissão do pedido, preparação do pedido e transporte.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     02. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Gurgel e Francischini (2013) definem que as
+     compras podem ser centralizadas ou não. O tipo de empreendimento é que definirá a necessidade
+     de centralização. De modo geral, a centralização dos serviços de compras apresenta aspectos
+     positivos, apesar de, em certos tipos, ser mais aconselhável a aquisição descentralizada. Segundo os
+     autores, entre as vantagens da centralização das compras, estão:
+     I. O poder de negociação para melhoria dos níveis de preços obtidos dos fornecedores.
+     II. A análise do mercado com eficácia em virtude da especialização do pessoal que trabalha no
+     serviço de compras.
+     III. A economia de escala na aquisição centralizada, baixando os custos.
+     Quais estão corretas?
+     a) Apenas I e II.
+     b) Apenas I e III.
+     c) Apenas II e III.
+     d) I, II e III.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Centralização x Descentralização
+
+                             CENTRALIZAÇÃO                              DESCENTRALIZAÇÃO
+                Ganhos de escala                             Rapidez e flexibilidade no momento necessário
+                Processo conduzido por especialistas e com   Proximidade dos envolvidos da área de
+                estrutura mais enxuta (menos custos)         negócio
+                Maior controle sobre o processo e “visão do  Processo mais disperso, dificultando seu
+                todo” para o planejamento da atividade       controle e planejamento
+                Indicado para mercados e demandas estáveis   Indicado para mercados imprevisíveis e que
+                                                             exijam rápidas respostas dos fornecedores.
+                Processo padronizado e simplificado ao longo Dificuldade em padronizar as demandas e
+                de toda a cadeia, incluindo armazenagem e    práticas ao longo da cadeia nas diferentes
+                transportes                                  localidades
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     02. (FUNDATEC/Pref. Mun. Tramandaí-RS/Oficial/2021) Gurgel e Francischini (2013) definem que as
+     compras podem ser centralizadas ou não. O tipo de empreendimento é que definirá a necessidade
+     de centralização. De modo geral, a centralização dos serviços de compras apresenta aspectos
+     positivos, apesar de, em certos tipos, ser mais aconselhável a aquisição descentralizada. Segundo os
+     autores, entre as vantagens da centralização das compras, estão:
+     I. O poder de negociação para melhoria dos níveis de preços obtidos dos fornecedores.
+     II. A análise do mercado com eficácia em virtude da especialização do pessoal que trabalha no
+     serviço de compras.
+     III. A economia de escala na aquisição centralizada, baixando os custos.
+     Quais estão corretas?
+     a) Apenas I e II.
+     b) Apenas I e III.
+     c) Apenas II e III.
+     d) I, II e III.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (INSTITUTO AOCP/ITEP RN/Assistente/2021) Quais são os atributos essenciais de
+     uma gestão de compras eficiente?
+     a) Fornecedores, agilidade e segurança.
+     b) Planejamento, cronograma e controle.
+     c) Efetivo suprimento, quantidade e prazo.
+     d) Preço econômico, qualidade e celeridade.
+     e) Cliente interno, relacionamento e processo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (INSTITUTO AOCP/ITEP RN/Assistente/2021) Quais são os atributos essenciais de
+     uma gestão de compras eficiente?
+     a) Fornecedores, agilidade e segurança.
+     b) Planejamento, cronograma e controle.
+     c) Efetivo suprimento, quantidade e prazo.
+     d) Preço econômico, qualidade e celeridade.
+     e) Cliente interno, relacionamento e processo.
+     GABARITO - D
+
+        A questão se baseia em Fenili. Segundo o autor: "Podemos dizer que uma
+        aquisição é bem conduzida quando consegue um equilíbrio entre três atributos
+        que poucas vezes são compatíveis: celeridade (rapidez), qualidade e preço
+        econômico”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CREFITO 4/Almoxarife/2021) Julgue o item, relativos a almoxarifado e a
+     patrimônio. Cabe à área de compras de uma empresa realizar a elaboração das
+     estatísticas de consumo por materiais, bem como direcionar os centros de custos para a
+     previsão das compras.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CREFITO 4/Almoxarife/2021) Julgue o item, relativos a almoxarifado e a
+     patrimônio. Cabe à área de compras de uma empresa realizar a elaboração das
+     estatísticas de consumo por materiais, bem como direcionar os centros de custos para a
+     previsão das compras.
+     a) Certo
+                                         Essas não são atividades típicas da área de compras, mas sim das
+     b) Errado
+                                         áreas de previsão de demanda e financeira, respectivamente.
+     GABARITO - ERRADA
+                                                   De acordo com Tony Arnold (1999), são objetivos da função compras:
+
+                                                   •     Obter mercadorias e serviços na quantidade e com a
+                                                         qualidade necessárias.
+                                                   •     Obter mercadorias e serviços ao menor custo.
+                                                   •     Garantir o melhor serviço possível e pronta entrega por parte
+                                                         do fornecedor.
+                                                   •     Desenvolver e manter boas relações com os fornecedores e
+                                                         desenvolver fornecedores potenciais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRP 14 MS/Assessor Técnico/2021) Julgue o item. A gestão do estoque
+     envolve o atendimento das solicitações de compra de materiais destinadas aos diversos
+     órgãos que compõem uma empresa e, principalmente, das necessidades de reposição
+     dos estoques planejados de acordo com as quantidades e os prazos por ela fixados.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRP 14 MS/Assessor Técnico/2021) Julgue o item. A gestão do estoque
+     envolve o atendimento das solicitações de compra de materiais destinadas aos diversos
+     órgãos que compõem uma empresa e, principalmente, das necessidades de reposição
+     dos estoques planejados de acordo com as quantidades e os prazos por ela fixados.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+        O enunciado se refere a gestão de compras e não de estoques!
+        Cabe a área de compras atender as solicitações de compra de materiais destinadas aos
+        diversos órgãos que compõem uma empresa, assim como atender as necessidades de
+        reposição dos estoques planejados de acordo com as quantidades e os prazos por ela
+        fixados
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRMV AP/Agente Administrativo/2021) No que concerne à
+     administração de materiais, julgue o item. Na aquisição de materiais, a estratégia de
+     horizontalização tem como desvantagens o engessamento da organização e a
+     necessidade de maiores investimentos.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Verticalização x Horizontalização
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (QUADRIX/CRMV AP/Agente Administrativo/2021) No que concerne à
+     administração de materiais, julgue o item. Na aquisição de materiais, a estratégia de
+     horizontalização tem como desvantagens o engessamento da organização e a
+     necessidade de maiores investimentos.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/ALECE/Analista Legislativo/2021) No que concerne ao gerenciamento
+     de compras, assinale a opção correta.
+     a) A escolha do transportador é incumbência do comprador no sistema CIF.
+     b) A descentralização de compras facilita o controle de materiais e estoque.
+     c) O controle de qualidade realiza inspeção dos produtos acabados, não guardando
+     interface com a seção de compras.
+     d) A manutenção de estoques mínimos é atividade típica da seção de compras.
+     e) Um número mínimo de três cotações para encorajar novos competidores é realizado
+     no sistema de preço objetivo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CEBRASPE/ALECE/Analista Legislativo/2021) No que concerne ao gerenciamento
+     de compras, assinale a opção correta.
+     a) A escolha do transportador é incumbência do comprador no sistema CIF.
+     b) A descentralização de compras facilita o controle de materiais e estoque.
+     c) O controle de qualidade realiza inspeção dos produtos acabados, não guardando
+     interface com a seção de compras.
+     d) A manutenção de estoques mínimos é atividade típica da seção de compras.
+     e) Um número mínimo de três cotações para encorajar novos competidores é realizado
+     no sistema de preço objetivo.
+     GABARITO - D
+
+      Não só a área de compras, mas todos os atores do processo de gestão de
+      materiais devem se preocupar com a manutenção de estoques em níveis baixos,
+      minimizando a mobilização de recursos e os custos gerados pela manutenção
+      dos materiais e/ou produtos estocados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     08. (QUADRIX/CREFONO 5/Auxiliar Administrativo/2020) No que se refere à
+     importância da administração de materiais para uma organização, julgue o item. A
+     função de compras envolve o planejamento das compras, a seleção das empresas
+     supridoras, o acompanhamento do pedido e a inspeção do material adquirido.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (QUADRIX/CREFONO 5/Auxiliar Administrativo/2020) No que se refere à
+     importância da administração de materiais para uma organização, julgue o item. A
+     função de compras envolve o planejamento das compras, a seleção das empresas
+     supridoras, o acompanhamento do pedido e a inspeção do material adquirido.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ciclo de Compras
+       Inclui a entrega, recebimento e encerramento                                       Preparação:
+                                                                                            receber
+                                                                                          requisições
+
+                                                                                                                    Planejamento:
+                                                                Recebimento                                           condições
+                                                                      e                                                gerais e
+                                                                encerramento                                           possíveis
+                                                                                                                    fornecedores
+
+                                                           Controle de
+                                                                                                                             Seleção:
+                                                             entrega:
+                                                                                                                          Definição dos
+                                                           acompanha-
+                                                                                                                          fornecedores
+                                                              mento
+
+                                                                                                        Concorrência:
+                                                                           Contratação:
+                                                                                                        avaliação das
+                                                                           emissão dos
+                                                                                                         propostas e
+                                                                             pedidos
+                                                                                                         negociação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FCC/ALAP/Assistente Legislativo/2020) A atuação do departamento de compras
+     orienta-se por atitudes éticas e ações de pesquisa contínuas que envolvem atividades de
+     suprimentos e apoio, como, por exemplo:
+     a) Coleta e análise de preços.
+     b) Desenvolvimento de fornecedores.
+     c) Acompanhamento de pedido.
+     d) Solicitação de compras.
+     e) Diligenciamento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FCC/ALAP/Assistente Legislativo/2020) A atuação do departamento de compras
+     orienta-se por atitudes éticas e ações de pesquisa contínuas que envolvem atividades de
+     suprimentos e apoio, como, por exemplo:
+     a) Coleta e análise de preços.
+     b) Desenvolvimento de fornecedores.
+     c) Acompanhamento de pedido.
+     d) Solicitação de compras.
+     e) Diligenciamento.
+     GABARITO - B
+
+      O desenvolvimento de fornecedores é uma atividade típica do departamento de
+      compras, sobretudo em situações nas quais produções exclusivas ou muito
+      customizadas são requeridas. É tipicamente um processo ético e que cultiva a relação
+      ganha-ganha junto ao fornecedor escolhido.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,2843 @@
+                                                      Aula 05
+                          Receita Federal (Analista Tributário)
+                               Direito Tributário Jurisprudencial
+
+
+
+
+                                                           Autor:
+                                                    Fábio Dutra
+
+
+
+
+                                               06 de Maio de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Fábio Dutra
+      Aula 05
+
+
+
+
+                                                                                     Índice
+1) Exclusão do Crédito Tributário - Teoria
+..............................................................................................................................................................................................3
+
+2) Extinção do Crédito Tributário - Teoria
+..............................................................................................................................................................................................5
+
+3) Garantias e Privilégios Crédito Tributário - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            23
+
+4) Administração Tributária - Teoria
+..............................................................................................................................................................................................
+                                                                                                                                                                                            28
+
+5) Súmulas - Extinção do Crédito Tributário, Exclusão do Crédito Tributário, Garantias e Pr
+..............................................................................................................................................................................................
+                                                                                                                                                                                            34
+
+6) Questões Comentadas - Extinção do Crédito Tributário, Exclusão do Crédito Tributário, Garantias e Pr
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+7) Lista de Questões - Extinção do Crédito Tributário, Exclusão do Crédito Tributário, Garantias e Priv
+..............................................................................................................................................................................................
+                                                                                                                                                                                            48
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                                                                                                  2
+                www.estrategiaconcursos.com.br                                                                                                                                           55
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+                EXCLUSÃO DO CRÉDITO TRIBUTÁRIO
+No mesmo sentido do disposto no art. 178 do CTN, o STF já decidiu que as isenções concedidas sob
+determinadas condições não podem ser livremente revogadas:
+
+Súmula STF 544 - Isenções tributárias concedidas, sob condição onerosa, não podem ser livremente
+suprimidas.
+
+
+
+
+QUESTÃO INÉDITA
+As isenções tributárias, por caracterizarem atos de opção política do legislador, não podem ser livremente
+suprimidas.
+
+Comentário: Nem todas as isenções possuem suas extinções restritas, mas apenas aquelas que foram
+concedidas sob condição onerosa. Pela redação do CTN, em seu art. 178, a isenção pode ser revogada ou
+modificada por lei, salvo se for concedida por prazo certo e em função de determinadas condições.
+
+Gabarito: Errada
+
+
+
+
+Tributo sob reserva de lei complementar exige este diploma normativo tanto para a concessão da isenção
+como para a revogação desta.
+
+Havendo isenção individual, o interessado deve provar o preenchimento das condições estabelecidas na lei
+concessória. Considera-se, para a concessão da isenção, a lei vigente no momento em que o pedido ingressa
+para exame no órgão administrativo competente:
+
+"TRIBUTÁRIO. IPI. ISENÇÃO. CONCESSÃO. REQUISITOS. ART. 179 DO CTN.
+
+1. Considera-se, para fins de concessão de isenção, a lei vigente no momento em que pedido ingressa
+para exame no órgão administrativo competente. Se, nessa oportunidade, encontrarem-se atendidas
+os requisitos necessários à obtenção do benefício, terá o contribuinte o direito a este, ainda que a lei
+isentiva venha a ser revogada após a protocolização do pedido.
+
+2. Recurso especial improvido."
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           3
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+(STJ, REsp 511.061/MG, Segunda Turma, Rel. Min. João Otávio de Noronha, Julgamento em
+03/05/2007)
+
+
+
+
+                                                         ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial        4
+        www.estrategiaconcursos.com.br                                                  55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+                EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
+De acordo com o art. 141 do CTN, o crédito tributário regularmente constituído somente extingue nos casos
+previstos no próprio CTN (art. 156). Diante do exposto, surge a importante dúvida: o art. 156 é taxativo ou
+não?
+
+Ao julgar a Medida Cautelar na ADI 1.917, o Supremo Tribunal Federal considerou inconstitucional uma lei
+do Distrito Federal que permitia a dação em pagamento com bens móveis. Alegou-se, na ocasião, haver
+reserva de lei complementar para tratar de extinção do crédito tributário.
+
+Observação: Primeiramente, você deve se lembrar que comentamos que o CTN possui status de lei
+complementar, correto? Neste caso, é válido conferir o que estabelece o art. 146, III, “b”, da CF/88,
+ao reservar à lei complementar o estabelecimento de normas gerais acerca do crédito tributário.
+
+Ocorre que, depois desse julgamento, o STF apreciou um caso semelhante (ADI 2.405-MC), desta vez relativo
+a uma lei do Estado do Rio Grande do Sul, que previu o uso do instituto da dação em pagamento para
+extinção de créditos tributários, mediante a entrega de bens imóveis e móveis. Neste caso, o STF decidiu
+pela possibilidade de o Estado-membro estabelecer regras específicas de quitação de seus próprios créditos
+tributários, ou seja, foi favorável à dação em pagamento com bens móveis. O interessante é que existem
+alguns doutrinadores que também defendem esta linha!
+
+Algum tempo depois, no julgamento de mérito da ADI 1.917, que lei local de determinado ente federado não
+pode estabelecer a dação em pagamento de bens MÓVEIS, como forma de extinção do crédito tributário.
+
+Contudo, o argumento neste caso foi a ofensa ao princípio da licitação. Senão, vejamos:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUICIONALIDADE. OFENSA AO PRINCÍPIO DA LICITAÇÃO (CF, ART.
+37, XXI). I - Lei ordinária distrital - pagamento de débitos tributários por meio de dação em
+pagamento. II - Hipótese de criação de nova causa de extinção do crédito tributário. III - Ofensa ao
+princípio da licitação na aquisição de materiais pela administração pública. IV - Confirmação do
+julgamento cautelar em que se declarou a inconstitucionalidade da lei ordinária distrital 1.624/1997.
+
+(STF, ADI 1.917/DF, Plenário, Rel. Min. Ricardo Lewandowski, Julgamento em 26/04/2007)
+
+
+
+
+Se este assunto for cobrado em sua prova, analise toda a questão para verificar o que o examinador está
+considerando na questão!
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         5
+        www.estrategiaconcursos.com.br                                                                  55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+QUESTÃO INÉDITA
+O STF entendeu inconstitucional lei ordinária que permitia o pagamento de débitos tributários por meio da
+dação em pagamento com bens móveis, por ofender o princípio da licitação na aquisição de materiais pela
+administração pública.
+
+Comentário: No julgamento de mérito da ADI 1.917/DF, o STF asseverou que não é possível prever a dação
+em pagamento com bens móveis, sob pena de ofensa ao princípio da licitação.
+
+Gabarito: Correta
+
+Contudo, é de se ressaltar a decisão do STJ no sentido da possibilidade de se extinguir o crédito tributário
+por meio da confusão:
+
+TRIBUTARIO. IMPOSTO PREDIAL E TERRITORIAL URBANO. ESBULHO POSSESSORIO PRATICADO PELO
+PROPRIO MUNICIPIO QUE EXIGE O TRIBUTO.
+
+Os litígios possessórios entre particulares não afetam a obrigação de pagar o Imposto Predial e
+Territorial Urbano, resolvendo-se entre eles a indenização acaso devida a esse título; ja quem, sendo
+contribuinte só na condição de possuir, e esbulhado da posse pelo próprio município, não está
+obrigado a recolher o tributo até nela ser reintegrado por sentença judicial, à míngua do fato gerador
+previsto no art. 32/CTN, confundindo-se nesse caso o sujeito ativo e o sujeito passivo do imposto.
+Agravo Regimental improvido
+
+(STJ, AgRg no Ag 117.895/MG, Segunda Turma, Rel. Min. Ari Pargendler, Julgamento em 10/10/1996)
+
+O caso se refere a uma desapropriação indireta realizada pelo município, que é o próprio sujeito ativo do
+IPTU. Assim, o ente federado passou a estar na condição de possuidor (sujeito passivo) e sujeito ativo, o que
+levou o STJ a considerar extinto o crédito tributário, por caracterizar confusão.
+
+Observação: De acordo com o art. 381, do Código Civil, Extingue-se a obrigação, desde que na
+mesma pessoa se confundam as qualidades de credor e devedor. Foi esse o raciocínio utilizado pelo
+STJ na decisão acima.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          6
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+QUESTÃO INÉDITA
+O STJ, ao julgar um caso peculiar envolvendo esbulho possessório praticado por determinado município,
+considerou extinto o crédito tributário por meio da confusão.
+
+Comentário: Só devemos adotar essa possibilidade caso a questão seja bastante específica, semelhante à
+redação desta.
+
+Gabarito: Correta
+
+No tocante aos juros de mora previstos no art. 161, § 1º do CTN, o STJ entende que não é possível a aplicação
+cumulativa da SELIC com qualquer outro índice de correção monetária:
+
+"(...) A taxa SELIC é composta de taxa de juros e taxa de correção monetária, não podendo ser
+cumulada com qualquer outro índice de correção. (...)"
+
+(STJ, REsp 447.690/PR, Segunda Turma, Rel. Min Eliana Calmon, Julgamento em 05/06/2003)
+
+Ademais, a taxa SELIC também tem sido aceita no âmbito estadual, como demonstra o trecho da ementa a
+seguir:
+
+"(...) É cediço nesta Corte o entendimento de que é cabível a aplicação da Taxa SELIC, na hipótese de
+haver Lei estadual nesse sentido, vedada a cumulatividade com outro índice.
+
+3. Agravo regimental não provido."
+
+(STJ, AgRg no AREsp 362.763/PR, Segunda Turma, Rel. Min Campbell Marques, Julgamento em
+19/09/2013)
+
+Em se tratando de tributo pago indevidamente, no caso específico dos tributos indiretos, uma das hipóteses
+em que o CTN permite a restituição é quando o contribuinte de direito prova que não transferiu o encargo
+financeiro a terceiro (o contribuinte de fato). Nesse sentido é a Súmula 546 do STF:
+
+Súmula STF 546 - Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão,
+que o contribuinte "de jure" não recuperou do contribuinte "de facto" o "quantum" respectivo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           7
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+QUESTÃO INÉDITA
+Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão, que o contribuinte "de
+jure" não recuperou do contribuinte "de facto" o "quantum" respectivo.
+
+Comentário: O que está previsto em súmula, seja ela de autoria do STF ou STJ deve ser guardado ipsis litteris.
+As bancas costumam cobrar a literalidade das súmulas.
+
+Gabarito: Correta
+
+Há que se ressaltar que a jurisprudência do STJ é no sentido da impossibilidade, como regra, de o contribuinte
+de fato pleitear restituição de tributo indireto. Essa é a regra! “E a exceção, professor”? Refere-se ao ICMS
+sobre a demanda contratada e não utilizada (caso não se lembre, vimos isso na Aula 3, ao abordar a Súmula
+391 do STJ):
+
+"(...) Diante do que dispõe a legislação que disciplina as concessões de serviço público e da peculiar
+relação envolvendo o Estado-concedente, a concessionária e o consumidor, esse último tem
+legitimidade para propor ação declaratória c/c repetição de indébito na qual se busca afastar, no
+tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e
+não utilizada. (...)"
+
+(STJ, REsp 1.299.303/SC, Primeira Seção, Rel. Min Cesar Asfor Rocha, Julgamento em 08/08/2012)
+
+A respeito do tema, temos também as seguintes súmulas:
+
+Súmula STJ 188 - Os juros moratórios, na repetição do indébito tributário, são devidos a partir do
+trânsito em julgado da sentença.
+
+
+
+
+Súmula STJ 162 - Na repetição do indébito tributário, a correção monetária incide a partir do
+pagamento indevido.
+
+Esses são os conhecimentos que devemos levar para a prova. O candidato precisa memorizar as Súmulas 162
+e 188 do STJ.
+
+Destaque-se que, após a edição da Lei 9.250/1995, a jurisprudência entende ser aplicável a taxa SELIC desde
+o recolhimento indevido, não podendo ser cumulada com qualquer outro índice de juros ou atualização
+monetária. Ressaltamos ainda que a taxa de juros de mora incidente na repetição de indébito de tributos
+estaduais deve corresponder à utilizada para cobrança do tributo pago em atraso:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           8
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+Súmula STJ 523 - A taxa de juros de mora incidente na repetição de indébito de tributos estaduais deve
+corresponder à utilizada para cobrança do tributo pago em atraso, sendo legítima a incidência da taxa
+Selic, em ambas as hipóteses, quando prevista na legislação local, vedada sua cumulação com
+quaisquer outros índices.
+
+De acordo com o próprio Superior Tribunal de Justiça (REsp 879.844/MG), raciocínio diverso importaria
+tratamento anti-isonômico, porquanto a Fazenda restaria obrigada a reembolsar os contribuintes por esta
+taxa SELIC, ao passo que, no desembolso, os cidadãos exonerar-se-iam desse critério, gerando desequilíbrio
+nas receitas fazendárias.
+
+
+
+
+Se a questão cobrar restituição, citando a taxa SELIC, entenda que deve ser aplicada desde o recolhimento
+indevido, vedada qualquer cumulatividade com outros índices.
+
+Caso contrário, considere as Súmulas 162 e 188, ambas do STJ.
+
+Guarde, ainda, que a taxa de juros de mora na restituição dos tributos deve ser a mesma utilizada na
+cobrança do tributo pago em atraso.
+
+Em prova, é natural que a cobrança seja sobre literalidade das referidas súmulas. Contudo, devemos guardar
+também que ela se aplica desde a data do pagamento indevido:
+
+2. Aplica-se a taxa SELIC, a partir de 1º.1.1996, na atualização monetária do indébito tributário, não
+podendo ser cumulada, porém, com qualquer outro índice, seja de juros ou atualização monetária.
+
+3. Se os pagamentos foram efetuados após 1º.1.1996, o termo inicial para a incidência do acréscimo
+será o do pagamento indevido; no entanto, havendo pagamentos indevidos anteriores à data de
+vigência da Lei 9.250/95, a incidência da taxa SELIC terá como termo a quo a data de vigência do
+diploma legal em tela, ou seja, janeiro de 1996. Esse entendimento prevaleceu na Primeira Seção desta
+Corte por ocasião do julgamento dos EREsps 291.257/SC, 399.497/SC e 425.709/SC.
+
+(STJ, REsp 1.111.175/SP, Primeira Seção, Rel. Min Denise Arruda, Julgamento em 10/06/2009)
+
+Além disso, você também deve se atentar a outra jurisprudência, no sentido de que eventual declaração de
+inconstitucionalidade de tributo não influencia no prazo para pleitear a restituição do que foi pago
+indevidamente. Nesse sentido, vejamos a seguinte ementa:
+
+1. O prazo de prescrição quinquenal para pleitear a repetição tributária, nos tributos sujeitos ao
+lançamento de ofício, é contado da data em que se considera extinto o crédito tributário, qual seja, a
+data do efetivo pagamento do tributo, a teor do disposto no artigo 168, inciso I, c.c artigo 156, inciso I,
+do CTN.(...)
+
+2. A declaração de inconstitucionalidade da lei instituidora do tributo em controle concentrado, pelo
+STF, ou a Resolução do Senado (declaração de inconstitucionalidade em controle difuso) é despicienda
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              9
+        www.estrategiaconcursos.com.br                                                                        55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+para fins de contagem do prazo prescricional tanto em relação aos tributos sujeitos ao lançamento
+por homologação, quanto em relação aos tributos sujeitos ao lançamento de ofício.
+
+(STJ, REsp 1.110.578/SP, Primeira Seção, Rel. Min Luiz Fux, Julgamento em 12/05/2010)
+
+
+
+
+Relembremos o que foi dito na aula anterior a respeito da LC 118/05: no caso de tributos sujeitos a
+lançamento por homologação, o prazo também é contado a partir da data do pagamento, que neste caso é
+antecipado.
+
+
+
+
+QUESTÃO INÉDITA
+A declaração de inconstitucionalidade da lei instituidora do tributo em controle concentrado tem relevância
+para fins de contagem do prazo prescricional tanto em relação aos tributos sujeitos ao lançamento por
+homologação, quanto em relação aos tributos sujeitos ao lançamento de ofício.
+
+Comentário: Vimos que, a declaração de inconstitucionalidade da lei instituidora do tributo em controle
+concentrado, pelo STF, ou a Resolução do Senado (declaração de inconstitucionalidade em controle difuso)
+é irrelevante para fins de contagem do prazo prescricional tanto em relação aos tributos sujeitos ao
+lançamento por homologação, quanto em relação aos tributos sujeitos ao lançamento de ofício.
+
+Gabarito: Errada
+
+É interessante memorizar também que o prazo prescricional para pleitear a repetição do indébito pelo
+contribuinte não é interrompido com o pedido administrativo de compensação ou de restituição, conforme
+jurisprudência pacífica do STJ:
+
+Súmula STJ 625 - O pedido administrativo de compensação ou de restituição não interrompe o prazo
+prescricional para a ação de repetição de indébito tributário de que trata o art. 168 do CTN nem o da
+execução de título judicial contra a Fazenda Pública.
+
+Vamos falar agora sobre a compensação!
+
+A essência da compensação ocorre quando duas pessoas são devedoras e credoras uma da outra,
+simultaneamente. Por exemplo: Sebastião deve ao Município de Salvador R$ 250,00, e este deve a Sebastião
+R$ 100,00. As dívidas podem ser extintas até o montante em que se compensarem. No exemplo citado,
+Sebastião continuará devendo à Fazenda Municipal o valor de R$ 150,00.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        10
+        www.estrategiaconcursos.com.br                                                                  55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+No que concerne ao instituto da compensação, o STJ já decidiu que o mandado de segurança pode ser
+utilizado para declarar o direito do sujeito passivo á compensação:
+
+Súmula STJ 213 - O mandado de segurança constitui ação adequada para a declaração do direito à
+compensação tributária.
+
+Agora veja esta regra do CTN:
+
+        Art. 170-A. É vedada a compensação mediante o aproveitamento de tributo, objeto de
+        contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva
+        decisão judicial.
+
+A respeito do tema, a Segunda Turma do STJ já decidiu que o contribuinte possui o prazo de 5 anos (grave
+isso!) para iniciar a compensação, contados do trânsito em julgado da decisão judicial que reconheceu o
+direito ao crédito:
+
+     TRIBUTÁRIO. COMPENSAÇÃO. PRESCRIÇÃO. CINCO ANOS A CONTAR DO TRÂNSITO EM JULGADO
+     DA DECISÃO QUE RECONHECEU A EXISTÊNCIA DOS CRÉDITOS. CABÍVEL SOMENTE PARA O INÍCIO
+     DA COMPENSAÇÃO.
+
+     1. Os fundamentos do acórdão recorrido não foram infirmados nas razões do recurso especial,
+     aplicando-se, desse modo, a inteligência do verbete sumular 283/STF, a impedir o trânsito do
+     apelo.
+
+     2. A jurisprudência do STJ assenta que o prazo para realizar a compensação de valores
+     reconhecidos por meio de decisões judiciais transitadas em julgado, a teor do art. 165, III, c/c o
+     art. 168, I, do CTN, é de cinco anos. Portanto, dispõe a contribuinte de cinco anos para iniciar a
+     compensação, contados do trânsito em julgado da decisão judicial que reconheceu o direito ao
+     crédito.
+
+     3. "É correto dizer que o prazo do art. 168, caput, do CTN é para pleitear a compensação, e não
+     para realizá-la integralmente" (REsp 1.480.602/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA
+     TURMA, julgado em 16/10/2014, DJe 31/10/2014).
+
+     Agravo regimental improvido.
+
+     (AgRg no REsp 1.469.926/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em
+     07/04/2015, DJe 13/04/2015)
+
+Vale destacar que a Lei 12.016/2009 (que regula o mandado de segurança) previu em seu art. 7º, § 2º, que
+seria incabível a concessão de medida liminar em sede de mandado de segurança, com vistas a a
+compensação de créditos tributários. O STJ chegou também sumulou esse entendimento, constante da
+Súmula 212 (muito cobrada em provas anteriores), mas que atualmente não deve mais ser considerada como
+correta, em razão da ADI 4296, do STF.
+
+Explicamos melhor: o STF considerou inconstitucional o dispositivo da Lei 12.016/09, que impossibilitava a
+concessão de medida liminar em sede de mandado de segurança. E como a jurisprudência do STF em ação
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          11
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+direta de inconstitucionalidade possui efeitos vinculantes para as demais esferas do Poder Judiciário, o STJ
+cancelou a Súmula 212, pela incompatibilidade com a jurisprudência da Suprema Corte.
+
+
+
+
+        Fique atualizado para a sua prova:
+
+        A Súmula 212 do STJ foi cancelada, e eventual cobrança da assertiva a seguir na prova
+        deve ser considerada incorreta:
+
+        É errado dizer: A compensação de créditos tributários não pode ser deferida em ação
+        cautelar ou por medida liminar cautelar ou antecipatória. (Súmula STJ 212 Cancelada)
+
+O Judiciário também não pode convalidar compensação realizada unilateralmente pelo sujeito passivo,
+substituindo, assim, a homologação da autoridade administrativa:
+
+Súmula STJ 460 - É incabível o mandado de segurança para convalidar a compensação tributária
+realizada pelo contribuinte.
+
+Outra jurisprudência relevante do STJ acerca do tema compensação é a que envolve à discussão referente à
+possibilidade ou não de aplicação das regras da imputação do pagamento, previstas no Código Civil, à
+compensação tributária, de modo que a amortização da dívida da Fazenda perante o contribuinte, mediante
+compensação, seja realizada primeiro sobre os juros e, somente após, sobre o principal do crédito.
+
+O Código Civil, em seu art. 354, determina que, havendo capital e juros, o pagamento imputar-se-á primeiro
+nos juros vencidos, e depois no capital, salvo estipulação em contrário, ou se o credor passar a quitação por
+conta do capital. No Tema Repetitivo 381, o STJ fixou a tese de que a regra de imputação de pagamentos
+estabelecida no art. 354 do Código Civil não se aplica às hipóteses de compensação tributária.
+
+Portanto, não há nenhuma imposição no sentido de que a compensação tributária tenha que ser realizada
+primeiramente sobre os juros para depois abranger o valor principal do crédito.
+
+Por fim, vamos destacar um julgado do STJ (REsp n. 1.570.571/PB, DJe de 18/6/2021), no qual foi decidido
+ser incabível ao contribuinte que ingressa com um pedido de compensação e, antes mesmo do seu
+deferimento, entra com novo pedido de compensação.
+
+O caso em questão envolvia a Lei n. 9.430/96, que também trata de compensação na esfera federal. E,
+portanto, o STJ acrescentou que a norma “é clara ao asseverar que a compensação (de débito que já tenha
+sido objeto de compensação não homologada) será considerada como "não declarada" (art. 74, § 3º, inciso
+V, da Lei n. 9.430/96), e, portanto, impassível de novo pedido de compensação...”.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          12
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Relativamente à decadência e a prescrição, lembre-se de que são formas de extinção do crédito tributário,
+segundo o art. 156, V, do CTN.
+
+Assim, o pagamento de uma dívida prescrita ou decaída faz jus à repetição do indébito (possibilidade de
+pleitear a restituição), diferentemente do que ocorre no Direito Civil, em relação à prescrição:
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. IPTU. ARTIGOS 156, INCISO V, E 165,
+INCISO I, DO CTN. INTERPRETAÇÃO CONJUNTA. PAGAMENTO DE DÉBITO PRESCRITO. RESTITUIÇÃO
+DEVIDA.
+
+1. A partir de uma interpretação conjunta dos artigos 156, inciso V, (que considera a prescrição como
+uma das formas de extinção do crédito tributário) e 165, inciso I, (que trata a respeito da restituição de
+tributo) do CTN, há o direito do contribuinte à repetição do indébito, uma vez que o montante pago
+foi em razão de um crédito tributário prescrito, ou seja, inexistente.
+
+(STJ, REsp 646.328/RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, Julgamento em
+04/06/2009)
+
+Cumpre-nos ressaltar que a decadência e prescrição só podem ser reguladas por lei complementar, o que
+fez o STF considerar inconstitucionais o art. 5º do Decreto-lei 1.569/77 e os arts. 45 e 46 da Lei 8.212/91, por
+inconstitucionalidade formal (tais dispositivos são leis ordinárias):
+
+Súmula Vinculante 8 - São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei nº
+1.569/1977 e os artigos 45 e 46 da Lei nº 8.212/1991, que tratam de prescrição e decadência de crédito
+tributário.
+
+Observação: A Súmula Vinculante declara a inconstitucionalidade dos arts. 45 e 46 da Lei
+8.212/1991, os quais estabelecem prazos decadenciais e prescricionais distintos dos que constam
+no CTN. Ademais, o art. 5º do Decreto-lei n° 1.569/77 é inconstitucional no tocante à sua aplicação
+em matéria tributária, por estabelecer hipótese de suspensão de prescrição de créditos.
+
+
+
+
+Você precisa tem uma noção muito clara da distinção entre decadência e prescrição no Direito Tributário.
+
+Decadência → expiração do prazo para lançar o tributo.
+
+Prescrição → expiração do prazo para cobrar o tributo.
+
+A CF/88, em seu art. 146, III, “a”, prevê que tanto a decadência como prescrição devem ser disciplinadas em
+lei complementar que disponha sobre as normas gerais de Direito Tributário.
+
+No CTN, a decadência é disciplinada nos arts. 150, § 4º e 173. A prescrição, por seu turno, foi tratada no art.
+174, do CTN.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             13
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+A respeito da decadência, em tributos submetidos à sistemática do lançamento por homologação, vejamos
+os seguintes entendimentos do STJ:
+
+1. Nos tributos sujeitos a lançamento por homologação, considera-se constituído o crédito tributário
+no momento da declaração realizada pelo contribuinte.
+
+2. A declaração do contribuinte elide a necessidade da constituição formal do crédito tributário, sendo
+este exigível independentemente de qualquer procedimento administrativo, de forma que, não sendo
+o caso de homologação tácita, não se opera a incidência do instituto da decadência (CTN, art. 150, §
+4º), incidindo apenas prescrição nos termos delineados no art. 174 do CTN.
+
+(STJ, AgRg no Ag 884.833/SC, Segunda Turma, Rel. Min. João Otávio de Noronha, Julgamento em
+25/09/2007)
+
+Quanto a esta jurisprudência, vale frisar a já comentada Súmula 436, do STJ:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Ora, se o contribuinte declara, mas não faz pagamento, há a constituição do crédito tributário, e
+consequentemente tem-se por iniciado o curso do prazo prescricional.
+
+“Mas, quando exatamente inicia o prazo prescricional nesse caso, professor?” Vejamos:
+
+“(...)1. A Primeira Seção deste STJ no julgamento do REsp 1.120.295/SP, processado sob o rito do art.
+543-C do CPC, confirmou entendimento no sentido de que o termo inicial do prazo prescricional
+quinquenal para cobrança dos tributos sujeitos a lançamento por homologação é a data do
+vencimento da obrigação tributária, e, quando não houver pagamento, a data da entrega da
+declaração, sendo esta posterior.
+
+(...)”
+
+(STJ, AgRg no AREsp 349.146/SP, Primeira Turma, Rel. Min. Sérgio Kukina, Julgamento em 07/11/2013)
+
+Portanto, o termo inicial do prazo prescricional é a data do vencimento da obrigação tributária ou a data
+da entrega da declaração, caso esta entrega ocorra em momento posterior ao vencimento da referida
+obrigação.
+
+Caso não haja nenhuma declaração por parte do sujeito passivo (inexistindo também qualquer pagamento),
+aplica-se a regra geral do art. 173, I, do CTN:
+
+Súmula STJ 555 - Quando não houver declaração do débito, o prazo decadencial quinquenal para o
+Fisco constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN, nos casos
+em que a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da
+autoridade administrativa.
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          14
+         www.estrategiaconcursos.com.br                                                                    55
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+A regra da decadência aplicável ao lançamento por homologação está prevista no art. 150, § 4º do CTN (5
+anos contados do fato gerador). Para os demais tributos, aplica-se a regra geral do art. 173, I, da mesma
+norma (5 anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido
+efetuado).
+
+No entanto, como percebemos pelo exposto no último julgado, é possível que se aplique a regra geral (art.
+173, I) ao lançamento por homologação, tendo em vista que se nada foi declarado, não há nada para ser
+homologado.
+
+“E se o contribuinte declarar e pagar um valor a menor? Qual é o prazo para que a autoridade administrativa
+lance a diferença de ofício?” Tem-se entendido, prezado candidato, que, como houve declaração e
+pagamento, ainda que a menor, é aplicada a regra do lançamento por homologação, normalmente (5 anos
+contados do fato gerador).
+
+                                                         ==219a34==
+
+
+
+
+O STJ fixou uma tese muito importante no Tema Repetitivo 1048, em relação ao prazo decadencial
+envolvendo o imposto estadual ITCMD (incidente sobre heranças e doações):
+
+O Imposto de Transmissão Causa Mortis e Doação – ITCDM, referente a doação não oportunamente
+declarada pelo contribuinte ao fisco estadual, a contagem do prazo decadencial tem início no primeiro dia
+do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, observado o fato gerador, em
+conformidade com os arts. 144 e 173, I, ambos do CTN.
+
+Ou seja, se o contribuinte não declara, o prazo também é contado da mesma forma como aprendemos na
+Súmula 555: a partir do primeiro dia do ano seguinte ao do fato gerador.
+
+Esclarecendo a data do fato gerador no caso do ITCMD:
+
+Bens Imóveis → Será na efetiva transcrição realizada no registro imobiliário (artigo 1.245 do Código Civil).
+
+Bens móveis ou direitos → A transmissão da titularidade, que caracteriza a doação, se dará por tradição
+(artigo 1.267 do Código Civil), eventualmente objeto de registro administrativo.
+
+
+
+
+Corre prazo prescricional para a importância já declarada, e prazo decadencial para o que ainda não o foi.
+
+Em referência à prescrição, o STJ já decidiu que o art. 174 do CTN aplica-se às multas tributárias:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           15
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+"(...)A multa fiscal subsume-se aos prazos de prescrição estabelecidos pelo direito tributário,
+restando inaplicável o art. 114, I do Código Penal, pois a sua natureza jurídica não está ligada ao
+crime.(...)"
+
+(STJ, REsp 840.111/RJ, Primeira Turma, Rel. Min Luiz Fux, Julgamento em 02/06/2009)
+
+
+
+
+QUESTÃO INÉDITA
+A multa fiscal não se submete aos prazos prescricionais disciplinados no âmbito do Direito Tributário.
+
+Comentário: O STJ já decidiu que as multas fiscais estão submetidas aos prazos de prescrição previstos no
+CTN.
+
+Gabarito: Errada
+
+Faz-se necessário saber também que, constituído o crédito tributário por parte da autoridade competente,
+e notificado o contribuinte, tem este um prazo definido na legislação tributária para impugnar o lançamento.
+
+Na pendência desse processo administrativo, não corre o prazo decadencial (o crédito já foi constituído) nem
+o prazo prescricional, tudo de acordo com o seguinte entendimento do STJ:
+
+3. Somente a partir da data em que o contribuinte é notificado do resultado do recurso ou da sua
+revisão, tem início a contagem do prazo prescricional.
+
+(STJ, REsp 435.896/SP, Segunda Turma, Rel. Min Eliana Calmon, Julgamento em 05/06/2003)
+
+Esta jurisprudência tende a ser cobrada em provas, uma vez que já temos a Súmula 622 do STJ, esclarecendo
+o posicionamento da Corte a respeito do tema:
+
+Súmula STJ 622 - A notificação do auto de infração faz cessar a contagem da decadência para a
+constituição do crédito tributário; exaurida a instância administrativa com o decurso do prazo para a
+impugnação ou com a notificação de seu julgamento definitivo e esgotado o prazo concedido pela
+Administração para o pagamento voluntário, inicia-se o prazo prescricional para a cobrança judicial.
+
+     Perceba, então, que a constituição definitiva está relacionada ao fato de o lançamento não poder mais
+ser discutido. Afinal de contas, se o prazo prescricional é o prazo para a Fazenda promover a execução fiscal
+do sujeito passivo, não faz sentido algum executar algo que não se sabe ao certo se continuará existindo
+(a impugnação pode resultar na anulação do cancelamento).
+
+Nessa mesma linha, há um julgado bastante importante do STJ, acerca do IPVA (que, como sabemos, é um
+imposto lançado de ofício):
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          16
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+     EMENTA: TRIBUTÁRIO. RECURSO ESPECIAL REPETITIVO. IPVA. DECADÊNCIA. LANÇAMENTO DE
+     OFÍCIO. REGULARIDADE. PRESCRIÇÃO. PARÂMETROS.
+
+     1. O Imposto sobre a Propriedade de Veículos Automotores (IPVA) é lançado de ofício no início de
+     cada exercício (art. 142 do CTN) e constituído definitivamente com a cientificação do contribuinte
+     para o recolhimento da exação, a qual pode ser realizada por qualquer meio idôneo, como o envio
+     de carnê ou a publicação de calendário de pagamento, com instruções para a sua efetivação.
+
+     2. Reconhecida a regular constituição do crédito tributário, não há mais que falar em prazo
+     decadencial, mas sim em prescricional, cuja contagem deve se iniciar no dia seguinte à data do
+     vencimento para o pagamento da exação, porquanto antes desse momento o crédito não é
+     exigível do contribuinte.
+
+     3. Para o fim preconizado no art. 1.039 do CPC/2015, firma-se a seguinte tese: "A notificação do
+     contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito
+     tributário, iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data
+     estipulada para o vencimento da exação."
+
+     4. Recurso especial parcialmente provido. Julgamento proferido pelo rito dos recursos repetitivos
+     (art. 1.039 do CPC/2015).
+
+E é com base nesse julgamento que foi firmada a seguinte tese (Tema Repetitivo 903): A notificação do
+contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito tributário,
+iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data estipulada para o vencimento
+da exação.
+
+   Novamente, vale lembrar que o art. 146, III, b, da CF/88, determina que cabe à lei complementar definir
+normas gerais acerca da decadência e prescrição tributária. Portanto, somente outra lei complementar
+poderia alterar os prazos ou criar outras regras e restrições.
+
+
+
+
+        Estando o crédito tributário prescrito, ao fim do prazo quinquenal previsto no CTN, o que
+        ocorre se a Fazenda Pública ainda assim executar o sujeito passivo?
+
+        Neste caso, vale a Súmula 409 do STJ, cuja redação é a seguinte: “Em execução fiscal, a
+        prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, §
+        5º, do CPC).”
+
+        Veja que a prescrição será decretada de ofício pelo juiz, e isso pode se dar mesmo sem a
+        oitiva da Fazenda Pública, conforme demonstra a jurisprudência do STJ, na ementa do
+        julgamento do REsp 733.286-RS.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          17
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+         Vale observar que a Súmula 409 considera o antigo CPC. No Novo CPC (Lei 13.105/2015), o
+         dispositivo que embasa a decretação da prescrição é o art. 332, § 1º.
+
+Uma outra situação importante a se levantar em nossa aula é quando há responsabilidade de terceiros (CTN,
+art. 135, III e Súmula 435 do STJ), em que há o redirecionamento da execução fiscal para o administrador da
+empresa.
+
+A respeito desse tema, cabe investigar a prescrição para o redirecionamento da execução fiscal, conforme
+entendimento do STJ:
+
+
+
+
+     Tema Repetitivo 444 STJ:
+
+     (i) o prazo de redirecionamento da Execução Fiscal, fixado em cinco anos, contado da diligência
+     de citação da pessoa jurídica, é aplicável quando o referido ato ilícito, previsto no art. 135, III, do
+     CTN, for precedente a esse ato processual;
+
+     (ii) a citação positiva do sujeito passivo devedor original da obrigação tributária, por si só, não
+     provoca o início do prazo prescricional quando o ato de dissolução irregular for a ela subsequente,
+     uma vez que, em tal circunstância, inexistirá, na aludida data (da citação), pretensão contra os
+     sócios-gerentes (conforme decidido no REsp 1.101.728/SP, no rito do art. 543-C do CPC/1973, o
+     mero inadimplemento da exação não configura ilícito atribuível aos sujeitos de direito descritos
+     no art. 135 do CTN). O termo inicial do prazo prescricional para a cobrança do crédito dos sócios-
+     gerentes infratores, nesse contexto, é a data da prática de ato inequívoco indicador do intuito de
+     inviabilizar a satisfação do crédito tributário já em curso de cobrança executiva promovida contra
+     a empresa contribuinte, a ser demonstrado pelo Fisco, nos termos do art. 593 do CPC/1973 (art.
+     792 do novo CPC - fraude à execução), combinado com o art. 185 do CTN (presunção de fraude
+     contra a Fazenda Pública);
+
+     (...)
+
+Vamos simplificar o que você acabou de ler:
+
+(i) Se a dissolução irregular foi caracterizada antes da primeira tentativa de cobrança (a citação da empresa):
+O governo tem 5 anos, contados a partir dessa tentativa inicial (citação da empresa), para direcionar a
+cobrança aos sócios.
+
+(ii) Se a dissolução irregular foi caracterizada depois da citação: O prazo de 5 anos para cobrar dos sócios
+começa a correr a partir do momento em que ficou claro que a empresa agiu para escapar do pagamento
+(por exemplo, sumindo com bens ou encerrando as atividades sem avisar), não da data da citação. Ou seja,
+o governo precisa identificar a data em que houve um ato que mostre a intenção de fraudar a cobrança.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                               18
+        www.estrategiaconcursos.com.br                                                                         55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+QUESTÃO INÉDITA
+De acordo com a jurisprudência do STJ, estando suspensa a exigibilidade da exação, não há falar em curso
+do prazo de prescrição, uma vez que o efeito desse provimento é justamente o de inibir a adoção de qualquer
+medida de cobrança por parte da Fazenda.
+
+Comentário: A prazo prescricional se refere ao período que a Fazenda possui para adotar medidas de
+cobrança dos tributos devidos pelo sujeito passivo. Com a exigibilidade do crédito tributário suspensa, não
+há como promover a execução fiscal, não havendo sentido, portanto, em curso de prazo prescricional.
+
+Gabarito: Correta
+
+Dissemos nessa aula que o tratamento da prescrição e da decadência está sujeito a lei complementar (art.
+146, III, c, da CF/88). Sendo assim, quando a LEF (Lei 6.830/80) estipulou que, com a inscrição do valor em
+dívida, fica suspensa a prescrição, houve invasão a assuntos reservados à lei complementar:
+
+TRIBUTÁRIO – EXECUÇÃO FISCAL –PRESCRIÇÃO – ART. 2º, § 3º, DA LEI 6.830/80 (SUSPENSÃO POR 180
+DIAS) – NORMA APLICÁVEL SOMENTE ÀS DÍVIDAS NÃO TRIBUTÁRIAS – ART. 40 DA LEF: SUSPENSÃO.
+
+1. A norma contida no art. 2º, § 3º da Lei 6.830/80, segundo a qual a inscrição em dívida ativa suspende
+a prescrição por 180 (cento e oitenta) dias ou até a distribuição da execução fiscal, se anterior àquele
+prazo, aplica-se tão-somente às dívidas de natureza não-tributárias, porque a prescrição das dívidas
+tributárias regula-se por lei complementar, no caso o art. 174 do CTN.
+
+(STJ, REsp 881.607/MG, Segunda Turma, Rel Min. Eliana Calmon, Julgamento em 10/06/2008)
+
+Por falar na LEF, há ali mais uma previsão de suspensão do prazo prescricional. Trata-se dos casos em que,
+no curso da ação de execução fiscal, não for localizado o devedor ou encontrados bens sobre os quais possa
+recair a penhora (art. 40):
+
+        Art. 40 - O Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou
+        encontrados bens sobre os quais possa recair a penhora, e, nesses casos, não correrá o
+        prazo de prescrição.
+
+Desta forma, enquanto não localizado o devedor ou encontrados bens sobre os quais possa recair a penhora,
+admite-se a suspensão da execução fiscal, e a consequente suspensão da prescrição pelo prazo máximo de
+um ano. Se até então não for localizado o devedor ou encontrados bens penhoráveis, o juiz ordenará o
+arquivamento dos autos (LEF, art. 40, § 2º):
+
+        Art. 40:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           19
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+        (...)
+
+        § 2º - Decorrido o prazo máximo de 1 (um) ano, sem que seja localizado o devedor ou
+        encontrados bens penhoráveis, o Juiz ordenará o arquivamento dos autos.
+
+Findo o prazo de um ano, com o arquivamento dos autos, tem início o curso do prazo prescricional. Isso
+significa que, após o prazo de cinco anos (prescrição), o Juiz poderá, de ofício, reconhecer a prescrição
+intercorrente, e decretá-la de imediato, extinguindo o processo, com a extinção do crédito tributário.
+
+Nesse sentido, o STJ editou a seguinte súmula:
+
+     Súmula STJ 314 – Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo
+     por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
+
+É importante que o candidato esteja ciente de que o prazo prescricional, na realidade, se inicia com a
+constituição definitiva do crédito tributário. Não se esqueça, no entanto, de que, com a propositura de ação
+de execução fiscal, a prescrição se interrompe pelo despacho do juiz que ordenar a citação do executado
+(devedor). Portanto, o prazo prescricional retorna ao início.
+
+Quando o prazo quinquenal começa a ser novamente contado? Neste caso, é interessante seguir a
+supracitada Súmula 314 do STJ, ou seja, a partir da data em que se encerra o período de um ano de suspensão
+do processo.
+
+Vale destacar que esse é o entendimento do STF, julgado no Tema 390 de Repercussão Geral, cuja tese fixada
+foi a seguinte: É constitucional o art. 40 da Lei 6.830/1980 (Lei de Execução Fiscal – LEF), tendo natureza
+processual o prazo de um ano de suspensão da execução fiscal. Após o decurso desse prazo, inicia-se
+automaticamente a contagem do prazo prescricional tributário de cinco anos.
+
+
+
+
+        Preste atenção!!!
+
+        Veja que, no julgamento acima, é dito que após o decurso desse prazo, inicia-se
+        automaticamente a contagem do prazo prescricional.
+
+        Isso significa que o reinicio do prazo ocorrerá havendo ou não petição da Fazenda Pública
+        e havendo ou não pronunciamento judicial nesse sentido (Tema Repetitivo 569 do STJ):
+
+        Tese Firmada: Havendo ou não petição da Fazenda Pública e havendo ou não
+        pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se
+        automaticamente o prazo prescricional aplicável.
+
+Alguns poderiam pensar: professor, mas a Lei 6.830/1980 não seria ordinária? A prescrição não deve ser
+disciplinada por meio de lei complementar?
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         20
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Exatamente! Mas no caso em comento, o STF decidiu que a referida regra apenas prevê um “marco
+processual”:
+
+Nesse contexto, inexiste vício de inconstitucionalidade formal, pois o dispositivo impugnado, embora
+positivado mediante lei ordinária, não extrapola a norma constitucional a que atende. Ao estabelecer o termo
+inicial para a prescrição intercorrente, ele apenas prevê um marco processual para a contagem do prazo, sem
+que deixe de observar o prazo de cinco anos, estabelecido na Lei 5.172/1966 (Código Tributário Nacional -
+CTN). Em outras palavras, o legislador ordinário se limitou a transpor o modelo estabelecido no art. 174 do
+CTNn, adaptando-o às particularidades da prescrição observada no curso de uma execução fiscal. (STF, RE
+636.562/SC, relator Ministro Roberto Barroso, julgamento em 17.2.2023)
+
+
+
+
+         O prazo prescricional também pode ser citado na prova como “interregno preclusivo”.
+         Fique atento(a)!
+
+
+
+
+Por fim, não podemos deixar de citar uma regra constante do CTN! O legislador estabeleceu algumas
+situações que interrompem o prazo prescricional. Interromper significa que o prazo é integralmente
+devolvido, contado do “zero” novamente.
+
+    Vejamos, então, o que diz o art. 174 do CTN:
+
+         Art. 174 - (...):
+
+         Parágrafo único. A prescrição se interrompe:
+
+         I – pelo despacho do juiz que ordenar a citação em execução fiscal; (Redação dada pela Lcp
+         nº 118, de 2005)
+
+         II - pelo protesto judicial ou extrajudicial; (Redação dada pela Lei Complementar nº 208,
+         de 2024)
+
+         III - por qualquer ato judicial que constitua em mora o devedor;
+
+         IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento
+         do débito pelo devedor.
+
+São quatro hipóteses de interrupção do prazo prescricional. As hipóteses I e III tem relação com o Poder
+Judiciário, já as hipóteses dos incisos II e IV podem ocorrer tanto na esfera judicial como extrajudicialmente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            21
+        www.estrategiaconcursos.com.br                                                                      55
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 05
+
+
+
+
+      Observação: O inciso IV traz a única hipótese em que ocorre interrupção da prescrição por
+      iniciativa do devedor.
+
+
+
+
+      Se cair na prova uma questão afirmando a possibilidade de o prazo prescricional ser
+      interrompido por iniciativa do devedor, a assertiva estará correta!
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                    22
+      www.estrategiaconcursos.com.br                                                              55
+
+                                    https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+            GARANTIAS E PRIVILÉGIOS DO CRÉDITO
+                       TRIBUTÁRIO
+As garantias do crédito tributário configuram meios assecuratórios do Estado com vistas ao recebimento dos
+tributos. Nessa linha, o art. 183, do CTN, estabeleceu que que a enumeração das garantias atribuídas em seu
+texto ao crédito tributário não exclui outras que sejam expressamente previstas em lei, em função da
+natureza ou das características do tributo a que se refiram.
+
+
+
+
+As garantias atribuídas ao crédito tributário no CTN são exemplificativas (não são taxativas)!
+
+Isso não significa que o legislador pode estabelecer meios coercitivos para receber seus créditos a qualquer
+custo. Vejamos algumas súmulas que apontam verdadeiros limites ao exacerbado desejo de garantir o
+recebimento dos tributos por parte do Fisco:
+
+Súmula STF 70 - É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de
+tributo.
+
+
+
+
+Súmula STF 323 - É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de
+tributos.
+
+
+
+
+Súmula STF 547 - Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas,
+despache mercadorias nas alfândegas e exerça suas atividades profissionais.
+
+No que se refere à ordem dos créditos a serem pagos na falência, observe o que diz a súmula do STJ:
+
+Súmula STJ 307 - A restituição de adiantamento de contrato de câmbio, na falência, deve ser atendida
+antes de qualquer crédito.
+
+Observação: O Adiantamento sobre Contrato de Câmbio (ACC) é uma antecipação de recursos em
+moeda nacional (R$) ao exportador, por conta de uma exportação a ser realizada no futuro.
+
+Destaque-se também que o crédito tributário não se sujeita a concurso de credores, podendo o fisco ajuizar
+a ação de execução fiscal individualmente.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         23
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Trata-se, pois, de uma prerrogativa, que pode ser renunciada, caso haja opção pelo juízo universal
+(juntamente com os demais credores). Com efeito, a escolha do rito comum implica renúncia da execução
+privativa, não havendo garantia dúplice:
+
+"(...) 2. Os arts. 187 e 29 da Lei 6.830/80 não representam um óbice à habilitação de créditos tributários
+no concurso de credores da falência; tratam, na verdade, de uma prerrogativa da entidade pública
+em poder optar entre o pagamento do crédito pelo rito da execução fiscal ou mediante habilitação
+do crédito.
+
+3. Escolhendo um rito, ocorre a renúncia da utilização do outro, não se admitindo uma garantia
+dúplice. Precedentes."
+
+(STJ, REsp 1.103.405/MG, Segunda Turma, Rel. Min. Castro Meira, Julgamento em 02/04/2009)
+
+Ademais, o parágrafo único do art. 187 do CTN prevê o concurso de preferência entre as pessoas jurídicas
+de direito público:
+
+Art. 187 - (...):
+Parágrafo único. O concurso de preferência somente se verifica entre pessoas jurídicas de direito
+público, na seguinte ordem:
+I - União;
+II - Estados, Distrito Federal e Territórios, conjuntamente e pró rata;
+III - Municípios, conjuntamente e pró rata.
+
+Veja que o CTN estabelece uma prioridade do recebimento dos créditos em relação para a União, em
+detrimento dos demais entes tributantes. Este tema foi objeto de julgamento pela Suprema Corte, no âmbito
+da ADPF 357, no qual decidiu-se pela não recepção do parágrafo único do art. 187 do CTN. Isto é, não é
+mais considerado válido, assim como vários outros dispositivos deste Código.
+
+Nessa esteira, o STF também decidiu pela não recepção do art. 29, parágrafo único, da Lei 6.830/1980, e
+cancelou a Súmula 563, que dispunham sobre a matéria.
+
+De acordo com o STF:
+
+A autonomia dos entes federados e a isonomia que deve prevalecer entre eles, respeitadas as
+competências estabelecidas pela Constituição, é fundamento da Federação. O federalismo de
+cooperação e de equilíbrio posto na Constituição da República de 1988 não legitima distinções entre
+os entes federados por norma infraconstitucional. 3. A definição de hierarquia na cobrança judicial
+dos créditos da dívida pública da União aos Estados e Distrito Federal e esses aos Municípios descumpre
+o princípio federativo e contraria o inc. III do art. 19 da Constituição da República de 1988.
+(STF, ADPF 357, Plenário, Rel. Ministra Carmem Lúcia, Julgamento em 24/06/2021)
+
+Continuando...
+
+Com o intuito de fornecer maior proteção e garantia ao crédito tributário, o legislador do CTN estabeleceu
+um momento a partir do qual se considera fraude à execução fiscal a alienação de bens pelo devedor, quando
+este não mantiver outros bens suficientes para a quitação da obrigação tributária.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             24
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+    Vejamos o que diz o art. 185 do CTN:
+
+        Art. 185. Presume-se fraudulenta a alienação ou oneração de bens ou rendas, ou seu
+        começo, por sujeito passivo em débito para com a Fazenda Pública, por crédito tributário
+        regularmente inscrito como dívida ativa.(Redação dada pela Lcp nº 118, de 2005)
+
+        Parágrafo único. O disposto neste artigo não se aplica na hipótese de terem sido
+        reservados, pelo devedor, bens ou rendas suficientes ao total pagamento da dívida
+        inscrita. (Redação dada pela Lcp nº 118, de 2005)
+
+        Observação: Para o ajuizamento de uma ação de execução fiscal, é necessário que o crédito
+        tributário tenha sido inscrito em dívida ativa. Trata-se de tema que ainda será estudado
+        nesta aula.
+
+Com base no que foi visto no art. 185, o momento estabelecido pelo legislador como marco para a
+presunção de fraude à execução é o da inscrição do crédito tributário em dívida ativa. A inscrição em dívida
+ativa ocorre quando não há pagamento do crédito tributário dentro do prazo de vencimento. Portanto,
+ocorre em momento posterior ao do lançamento e, consequentemente, do fato gerador.
+
+Destaque-se que a presunção prevista no caput do art. 185 é puramente objetiva, ou seja, não se considera
+a intenção do devedor, mas unicamente a sua atuação no sentido de alienar seus bens sem deixar saldo
+suficiente para pagamento de crédito inscrito em dívida ativa.
+
+Em decorrência do exposto, também não se admite prova em contrário pelo sujeito passivo. Ou seja,
+constatada a situação prevista em lei, há presunção absoluta de alienação fraudulenta. Assim entende a
+doutrina dominante. Essa tese jurídica consta no Tema Repetitivo 290 do STJ: “...basta a efetivação da
+inscrição em dívida ativa para a configuração da figura da fraude.”
+
+
+
+
+        Entenda-se como momento de inscrição em dívida ativa aquele em que o sujeito passivo
+        tiver sido comunicado formalmente a respeito da inscrição.
+
+Antes de encerrarmos a abordagem jurisprudencial acerca das garantias e privilégios do crédito tributário,
+precisamos falar acerca da Súmula 560 do STJ, referente ao art. 185-A, do CTN, mas que, pela complexidade
+do assunto, faremos uma breve abordagem teórica sobre o processo de execução fiscal.
+
+O processo de execução fiscal nunca se inicia de ofício, sendo sempre desencadeado por uma petição
+inicial, formulada pelo autor da ação, que no nosso caso específico é a Fazenda Pública. Esta petição inicial
+será instruída com a Certidão da Dívida Ativa.
+
+Admitida a ação proposta pela Fazenda Pública, o despacho do juiz ordenará a citação do executado (sujeito
+passivo), para que este, no prazo de 05 dias, pague a dívida ou garanta a execução (efetuar depósito em
+dinheiro, oferecer fiança bancária, nomear bens à penhora, etc.)
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          25
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Assim, o devedor tem a opção de ele mesmo indicar os bens que ele prefere que sejam penhorados. Contudo,
+se não ocorrer o pagamento da dívida nem a garantia da execução, a penhora poderá recair em qualquer
+bem do executado, exceto os que a lei declare absolutamente impenhoráveis.
+
+Ocorrendo essa situação (omissão do executado), a Fazenda Pública poderia realizar diligências na busca de
+bens a serem penhorados, que seriam demonstradas diante do seguinte:
+
+I - pedido de acionamento do Bacen Jud e consequente determinação pelo magistrado e
+
+II - expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou
+Estadual de Trânsito - DENATRAN ou DETRAN.
+
+Observação:
+
+Acionamento do Bacen Jud → Trata-se da denominada penhora on-line, medida prevista no art.
+                                                         ==219a34==
+
+
+
+
+854, do NCPC: “para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o
+juiz, a requerimento do exequente, sem dar ciência prévia do ato ao executado, determinará às
+instituições financeiras, por meio de sistema eletrônico gerido pela autoridade supervisora do
+sistema financeiro nacional, que torne indisponíveis ativos financeiros existentes em nome do
+executado, limitando-se a indisponibilidade ao valor indicado na execução.”
+
+Expedição de ofícios (registros públicos e DENATRAN ou DETRAN) →Trata-se de um meio para
+verificar se existem bens móveis ou automóveis em nome do devedor, para que sejam indicados à
+penhora.
+
+Diante de todo o exposto, mostrando-se tais medidas infrutíferas, isto é, não tendo sido localizados os bens
+penhoráveis, o juiz poderá determinar a indisponibilidade dos bens e direitos do sujeito passivo, medida
+prevista no art. 185-A, do CTN:
+
+Art. 185-A. Na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à
+penhora no prazo legal e não forem encontrados bens penhoráveis, o juiz determinará a indisponibilidade de
+seus bens e direitos, comunicando a decisão, preferencialmente por meio eletrônico, aos órgãos e entidades
+que promovem registros de transferência de bens, especialmente ao registro público de imóveis e às
+autoridades supervisoras do mercado bancário e do mercado de capitais, a fim de que, no âmbito de suas
+atribuições, façam cumprir a ordem judicial. (Incluído pela Lcp nº 118, de 2005)
+
+Veja que, para que o juiz determine a indisponibilidade dos bens e direitos do executado, são necessários
+três requisitos:
+
+1) devedor (executado) devidamente citado;
+2) inexistência de pagamento ou apresentação de bens à penhora;
+3) exaurimento de diligências na busca pelos bens penhoráveis;
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           26
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+    Fábio Dutra
+    Aula 05
+
+
+
+Requisitos para indisponibilidade dos bens e direitos do executado:
+
+•    Não pagou;
+•    Não apresentou bens à penhora no prazo legal;
+•    Não foram encontrados bens penhoráveis.
+
+Mas qual seria então a jurisprudência do STJ sobre o tema?
+
+Essas diligências na busca pelos bens penhorados a que me refiro neste momento são exatamente aquelas
+já citadas acima, e encontram amparo na jurisprudência do STJ, sumulada nos seguintes termos:
+
+Súmula STJ 560 - A decretação da indisponibilidade de bens e direitos, na forma do art. 185-A do CTN,
+pressupõe o exaurimento das diligências na busca por bens penhoráveis, o qual fica caracterizado
+quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição de ofícios aos registros
+públicos do domicílio do executado, ao Denatran ou Detran.
+
+Veja que se trata de uma medida extrema, havendo certos requisitos a serem cumpridos, para que se torne
+cabível. Exatamente por esse motivo, o legislador traçou algumas limitações ao juiz da execução:
+
+• a indisponibilidade limitar-se-á ao valor total exigível, devendo o juiz determinar o imediato
+levantamento da indisponibilidade dos bens ou valores que excederem esse limite; (CTN, art. 185-A, § 1º)
+• os órgãos e entidades aos quais se fizer a comunicação enviarão imediatamente ao juízo a relação
+discriminada dos bens e direitos cuja indisponibilidade houverem promovido. (CTN, art. 185-A, § 2º)
+
+Uma observação importante é que, como o juiz determina a indisponibilidade dos bens ou direitos no valor
+da dívida ou até o esgotamento dos recursos, e considerando que são vários órgãos que recebem a ordem
+judicial, a medida pode resultar no bloqueio de valores muito superiores ao da dívida, cabendo ao juiz,
+então, proceder ao desbloqueio do valor excedente.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           27
+          www.estrategiaconcursos.com.br                                                                     55
+
+                                        https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+                       ADMINISTRAÇÃO TRIBUTÁRIA
+O CTN, ao tratar da Administração Tributária, inseriu nesse título os capítulos referentes à fiscalização, dívida
+ativa e certidões negativas.
+
+No que se refere às atividades de fiscalização, o STF assim já decidiu:
+
+Súmula STF 439 - Estão sujeitos à fiscalização tributária ou previdenciária quaisquer livros comerciais,
+limitado o exame aos pontos objeto da investigação.
+
+
+
+
+Até mesmo os livros não obrigatórios estão sujeitos à fiscalização, desde que, em qualquer caso, restrinja-
+se aos pontos objeto da investigação!
+
+
+
+
+QUESTÃO INÉDITA
+Somente estão sujeitos à fiscalização tributária os livros cuja escrituração é obrigatória pela legislação
+contábil ou fiscal.
+
+Comentário: Segundo a Súmula 439 do STF, todos os livros ficam sujeitos à fiscalização. O contribuinte não
+é obrigado a escriturar livros opcionais, mas se o fizer, estará submetido à fiscalização.
+
+Gabarito: Errada
+
+É de se ressaltar também o poder investigatório das CPIs, sendo competentes para quebrar o sigilo fiscal:
+
+CPI - ATO DE CONSTRANGIMENTO - FUNDAMENTAÇÃO. A fundamentação exigida das Comissões
+Parlamentares de Inquérito quanto à quebra de sigilo bancário, fiscal, telefônico e telemático não
+ganha contornos exaustivos equiparáveis à dos atos dos órgãos investidos do ofício judicante. Requer-
+se que constem da deliberação as razões pelas quais veio a ser determinada a medida.
+
+(STF, MS 24.749/DF, Plenário, Rel. Min Marco Aurélio, Julgamento em 29/09/2004)
+
+Outro ponto relevante é que durante os procedimentos de fiscalização, é possível que a autoridade
+administrativa constate a prática de atos do sujeito passivo que configurem crimes de ação pública. Nesse
+caso, é feita a representação fiscal para fins penais destinada ao Ministério Público, para que ofereça
+denúncia, sendo esta a peça inicial do processo penal.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                              28
+        www.estrategiaconcursos.com.br                                                                        55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Nos crimes contra a ordem tributária (Lei 8.137/1990, arts. 1º e 2º), crime de apropriação indébita
+previdenciária (Código Penal, art. 168-A) e crime de sonegação de contribuição previdenciária (Código
+Penal, art. 337-A), a configuração do crime está condicionada à existência do crédito tributário. Logo, se
+não há crédito tributário, não há crime.
+
+O grande problema é que, com o lançamento, o crédito tributário está constituído, mas não definitivamente
+constituído, pois pode ser impugnado pelo sujeito passivo. E se pode ser impugnado, pode, por conseguinte,
+ser alterado. Está lembrado?
+
+Sendo assim, só temos certeza da existência do crédito tributário, quando este estiver definitivamente
+constituído, isto é, depois de proferida a decisão final na esfera administrativa. Portanto, é, somente a partir
+de então, que pode ser formulada a representação fiscal para fins penais (RFFP), a ser encaminhada ao
+Ministério Público.
+
+Nessa linha, é válido citar o art. 83 da Lei 9.430/1996:
+
+Art. 83. A representação fiscal para fins penais relativa aos crimes contra a ordem tributária
+previstos nos arts. 1o e 2o da Lei no 8.137, de 27 de dezembro de 1990, e aos crimes contra a
+Previdência Social, previstos nos arts. 168-A e 337-A do Decreto-Lei no 2.848, de 7 de dezembro de
+1940 (Código Penal), será encaminhada ao Ministério Público depois de proferida a decisão final,
+na esfera administrativa, sobre a exigência fiscal do crédito tributário correspondente. (Redação
+dada pela Lei nº 12.350, de 2010)
+
+Demonstrando entendimento nessa mesma linha, o STF editou a seguinte súmula vinculante:
+
+Súmula Vinculante 24 – Não se tipifica crime material contra a ordem tributária, previsto no art. 1.º,
+incisos I a IV, da Lei n.º 8.137/90, antes do lançamento definitivo do tributo.
+
+Saiba que, após a constituição definitiva do crédito tributário, o MP pode oferecer a denúncia (propor a
+ação penal), independentemente do recebimento da RFFP. Assim, tomando conhecimento do crime, o MP
+pode oferecer a denúncia, mesmo que não tenha sido realizada qualquer representação fiscal.
+
+
+
+
+Somente com a constituição definitiva do crédito tributário é que se configuram os crimes acima estudados.
+
+O MP não depende de RFFP para oferecer a denúncia.
+
+Deve-se destacar também que, em casos excepcionais, o STF (HC 95.443/SC) permite a instauração de
+inquérito policial antes do encerramento do processo administrativo fiscal, quando for imprescindível para
+viabilizar a fiscalização. Vejamos um pouco mais sobre o caso concreto:
+
+HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. INSTAURAÇÃO DE INQUÉRITO POLICIAL
+ANTES DO ENCERRAMENTO DO PROCEDIMENTO ADMINISTRATIVO-FISCAL. POSSIBILIDADE QUANDO
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             29
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 05
+
+
+
+SE MOSTRAR IMPRESCINDÍVEL PARA VIABILIZAR A FISCALIZAÇÃO. ORDEM DENEGADA. 1. A questão
+posta no presente writ diz respeito à possibilidade de instauração de inquérito policial para apuração
+de crime contra a ordem tributária, antes do encerramento do procedimento administrativo-fiscal. 2.
+O tema relacionado à necessidade do prévio encerramento do procedimento administrativo-fiscal para
+configuração dos crimes contra a ordem tributária, previstos no art. 1°, da Lei n° 8.137/90, já foi objeto
+de aceso debate perante esta Corte, sendo o precedente mais conhecido o HC n° 81.611 (Min. Sepúlveda
+Pertence, Pleno, julg. 10.12.2003).
+
+(...)
+
+4. Entretanto, o caso concreto apresenta uma particularidade que afasta a aplicação dos precedentes
+mencionados. 5. Diante da recusa da empresa em fornecer documentos indispensáveis à fiscalização
+da Fazenda estadual, tornou-se necessária a instauração de inquérito policial para formalizar e
+instrumentalizar o pedido de quebra do sigilo bancário, diligência imprescindível para a conclusão da
+fiscalização e, conseqüentemente, para a apuração de eventual débito tributário. 6. Deste modo,
+                                                          ==219a34==
+
+
+
+
+entendo possível a instauração de inquérito policial para apuração de crime contra a ordem
+tributária, antes do encerramento do processo administrativo-fiscal, quando for imprescindível para
+viabilizar a fiscalização. 7. Ante o exposto, denego a ordem de habeas corpus.
+
+(STF, Segunda Turma, HC 95.443/SC, Rel. Min. Ellen Gracie, Julgamento 02/02/2010)
+
+Embora essa jurisprudência possa cair em prova, é preciso se lembrar de algo que já foi comentado nesta
+aula: não é necessária autorização judicial para que a autoridade fiscal tenha acesso aos dados protegidos
+por sigilo bancário, conforme previsão na LC 105/01.
+
+Além da RFFP, a Fazenda Pública também não está proibida de divulgar as informações relativas às inscrições
+na Dívida Ativa da Fazenda Pública, bem como em relação ao deferimento do parcelamento e da moratória.
+
+No que concerne à dívida ativa, tema abordado entre os arts. 201 e 204 do CTN, expomos as seguintes
+jurisprudências:
+
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. DÉBITO FISCAL DECLARADO E
+NÃO PAGO. AUTOLANCAMENTO. DESNECESSIDADE DE INSTAURAÇÃO DE PROCEDIMENTO
+ADMINISTRATIVO PARA COBRANÇA DO TRIBUTO.
+
+Em se tratando de autolançamento de débito fiscal declarado e não pago, desnecessária a
+instauração de procedimento administrativo para a inscrição da dívida e posterior cobrança. Agravo
+regimental improvido."
+
+(STF, AI-Agr. 144.609/SP, Segunda Turma, Rel. Min. Maurício Corrêa, Julgamento em 11/04/1995)
+
+Ou seja, a declaração de débito pelo sujeito passivo já é o suporte necessário para a inscrição em dívida ativa.
+
+Nessa mesma linha, acompanhe a seguinte decisão de lavra do STJ:
+
+"(...) 3. A falta de recolhimento, no devido prazo, do valor correspondente ao crédito tributário assim
+regularmente constituído acarreta, entre outras consequências, as de (a) autorizar a sua inscrição em
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            30
+         www.estrategiaconcursos.com.br                                                                      55
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+dívida ativa; (b)fixar o termo a quo do prazo de prescrição para a sua cobrança; (c)inibir a expedição
+de certidão negativa do débito; (d)afastar a possibilidade de denúncia espontânea."
+
+(STJ, AgR nos EAg 670.326/PR,Segunda Turma, Rel. Min. Teori Albino Zavascki, Julgamento em
+14/06/2006)
+
+Observação: O julgado acima se refere a tributos submetidos a lançamento por homologação. Ou
+seja, a apresentação da declaração pelo sujeito passivo, desacompanhada do respectivo pagamento
+acarreta as 4 consequências citadas pelo STJ, cuja memorização eu considero essencial para a
+prova!!!
+
+É interessante que o candidato conheça também a redação da Súmula 392 do STJ:
+
+Súmula STJ 392 - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da
+sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação
+do sujeito passivo da execução.
+
+Em se tratando de substituição de Certidão de Dívida Ativa (CDA), temos que:
+
+"TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SUBSTITUIÇÃO DA CDA.
+ERRO NO LANÇAMENTO. EXCLUSÃO DE TAXAS DE LIMPEZA. IMPOSSIBILIDADE. REGIME DOS RECURSOS
+REPETITIVOS (ART. 543-C DO CPC). RESP 1.045.472/BA. 1. O tema em questão já foi resolvido pela eg
+Primeira Seção do STJ, na sistemática do art. 543-C do CPC- recurso representativo da controvérsia -
+Recurso Especial 1.045.472/BA, ao proclamar o entendimento de que não cabe a substituição da CDA
+quando ocorre a modificação do próprio lançamento, pois altera o fundamento legal, não
+configurando mero erro formal ou material. (...)"
+
+(STJ, AgRg no AREsp 353.046/SP, Rel. Min. Eliana Calmon, Julgamento em 08/10/2013)
+
+No que se refere à presunção de certeza e liquidez da CDA, o STJ também já decidiu o seguinte:
+
+"TRIBUTÁRIO. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE VERACIDADE RELATIVA, QUE ADMITE
+PROVA EM CONTRÁRIO. IDENTIFICAÇÃO DAS MERCADORIAS IMPORTADAS. REEXAME DE ASPECTOS
+PROBATÓRIOS DA DEMANDA. SÚMULA 7 DO STJ. 1. A presunção de certeza e de liquidez que reveste
+a certidão de dívida ativa é relativa, ou juris tantum, o que significa que tal atributo pode deixar de
+ser reconhecido pelo magistrado, no exame de caso concreto, em virtude de consideração
+adequadamente fundamentada. (...)"
+
+(STJ, AgRg no AREsp 292.398/SP, Rel. Min. Eliana Calmon, Julgamento em 17/10/2013)
+
+Por fim, para finalizar o conteúdo jurisprudencial do nosso curso, vejamos alguns julgados a respeito das
+certidões negativas, tema tratado nos arts. 205 a 208 do Código Tributário Nacional:
+
+Fazendo um link com o que vimos, ao estudar a responsabilidade tributária, você precisa saber o seguinte:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          31
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 05
+
+
+
+
+"PROCESSO CIVIL E TRIBUTÁRIO - EMPRESA INADIMPLENTE PERANTE O FISCO - CERTIDÃO NEGATIVA -
+FORNECIMENTO AO SÓCIO NA QUALIDADE DE PESSOA FÍSICA - VIOLAÇÃO AO ART. 535 DO CPC -
+INEXISTÊNCIA.
+
+(...)
+
+2. A jurisprudência da Primeira Seção firmou-se no sentido de que não se admite a responsabilidade
+objetiva, mas subjetiva do sócio, não constituindo infração à lei o não-recolhimento de tributo, sendo
+necessária a prova de que agiu o mesmo dolosamente, com fraude ou excesso de poderes,
+excepcionando-se a hipótese de dissolução irregular da sociedade comercial. 3. Não se tratando de
+responsabilidade objetiva, tem o sócio, na qualidade de pessoa física, direito a certidão negativa de
+débito. 4. Recurso especial improvido."
+
+(STJ, REsp 439.198/ES, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 27/05/2003)
+
+Como estudamos, o não pagamento de tributos pela empresa não configura infração à lei. Portanto, não há
+responsabilidade do sócio sobre falta de pagamento pela empresa da qual participa, tendo direito à certidão
+negativa de débito, na qualidade de pessoa física.
+
+Frise-se que o indeferimento da Certidão Negativa de Débito não depende da haver inscrição em dívida ativa,
+em nome do contribuinte:
+
+"1. A inscrição em dívida ativa não é requisito para recusa à emissão de certidão negativa de débito,
+bastando, para tanto, a constituição definitiva do crédito tributário, regra que não se excepciona aos
+tributos sujeitos ao chamado lançamento por homologação, tal qual se dá na espécie. (...)"
+
+(STJ, REsp 1.131.051/SP, Segunda Turma, Rel. Min. Eliana Calmon, Julgamento em 06/10/2009)
+
+Nesse rumo, o STJ editou a Súmula 446:
+
+Súmula STJ 446 - Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de
+expedição de certidão negativa ou positiva com efeito de negativa.
+
+
+
+
+QUESTÃO INÉDITA
+Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de expedição de certidão
+negativa ou positiva com efeito de negativa.
+
+Comentário: Por se tratar de uma súmula mais recente, é possível a sua cobrança literal nas provas. Portanto,
+atenção!
+
+Gabarito: Correta
+
+
+
+         Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         32
+         www.estrategiaconcursos.com.br                                                                   55
+
+                                       https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Por fim, e não menos importante, é o entendimento de que não se pode negar a expedição de Certidão
+Negativa de Débito (CND) ante a presença de débito referente ao não pagamento de tributo declarado
+inconstitucional pelo STF:
+
+TRIBUTÁRIO - CND - FORNECIMENTO - DÉBITOS RELATIVOS A PIS E FINSOCIAL - DECLARAÇÃO DE
+INCONSTITUCIONALIDADE PELO SUPREMO TRIBUNAL FEDERAL.
+
+Não se pode negar a expedição de Certidão Negativa de Débito ante a presença de débito referente ao
+não pagamento de exação declarada inconstitucional pelo Colendo Supremo Tribunal Federal .
+
+Recurso improvido.
+
+(STJ, REsp 218.694/CE, Primeira Turma, Rel. Min. Garcia Vieira, Julgamento em 02/09/1999)
+
+Caro candidato, ao longo desse curso você deve ter observado a grande quantidade de conteúdo que você
+deve memorizar para a prova.
+
+É de se destacar que esse curso tem por objetivo trazer o que é mais importante, haja vista que estudar toda
+a jurisprudência torna-se uma tarefa praticamente impossível, sobretudo para quem ainda deve estudar
+várias outras disciplinas de alto nível de complexidade.
+
+Foi um grande prazer estar com você durante esses poucos encontros, que acredito terem sido de grande
+valia para o seu aprendizado. Obrigado pela confiança em nosso trabalho!
+
+Desejo que todos os seus sonhos se concretizem, e que você possa alcançar sua aprovação!
+
+Um grande abraço e bons estudos!
+
+Prof. Fábio Dutra
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         33
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+        SÚMULAS ABORDADAS DURANTE A AULA
+Súmula STF 546: A jurisprudência do STF, quanto à restituição de tributos indiretos, é que cabe restituição
+do tributo indevidamente pago se o contribuinte de direito comprovar que não recuperou do contribuinte
+de fato o valor correspondente ao pagamento indevido:
+
+Súmula STF 546 - Cabe a restituição do tributo pago indevidamente, quando reconhecido por decisão,
+que o contribuinte "de jure" não recuperou do contribuinte "de facto" o "quantum" respectivo.
+
+Súmula STJ 188: De acordo com o STJ, na restituição do indébito tributário, os juros moratórios são devidos
+somente a partir do trânsito em julgado da sentença:
+
+Súmula STJ 188 - Os juros moratórios, na repetição do indébito tributário, são devidos a partir do
+trânsito em julgado da sentença.
+
+Súmula STJ 162: No que se refere à correção monetária - atualização monetária em face da inflação -, a
+jurisprudência do STJ é que o valor da restituição deve ser corrigido desde a data do pagamento indevido:
+
+Súmula STJ 162 - Na repetição de indébito tributário, a correção monetária incide a partir do
+pagamento indevido.
+
+Súmula STJ 523: Esta súmula trata da equiparação da taxa de juros incidente na repetição do indébito com
+a taxa de juros utilizada para cobrança de tributo pago em atraso:
+
+Súmula STJ 523 - A taxa de juros de mora incidente na repetição de indébito de tributos estaduais deve
+corresponder à utilizada para cobrança do tributo pago em atraso, sendo legítima a incidência da taxa
+Selic, em ambas as hipóteses, quando prevista na legislação local, vedada sua cumulação com
+quaisquer outros índices.
+
+Súmula STJ 213: Não obstante a proibição da compensação com base em liminar em mandado de segurança,
+a jurisprudência do STJ é pacífica no sentido de que o mandado de segurança constitui ação adequada para
+declarar direito à compensação tributária:
+
+Súmula STJ 213 - O mandado de segurança constitui ação adequada para a declaração do direito à
+compensação tributária.
+
+Súmula STJ 436: De acordo com a jurisprudência do STJ, O reconhecimento da dívida pelo contribuinte,
+configurado pela entrega de declaração, constitui o crédito tributário, dispensada qualquer outra
+providência por parte do fisco:
+
+Súmula STJ 436 - A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o
+crédito tributário, dispensada qualquer outra providência por parte do fisco.
+
+Súmula STF 70: Nem todas as formas de garantia do crédito tributário são admitidas pelo STF:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         34
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+Súmula STF 70 - É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de
+tributo.
+
+Súmula STF 323: Nem todas as formas de garantia do crédito tributário são admitidas pelo STF:
+
+Súmula STF 323 - É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de
+tributos.
+
+Súmula STF 547: Nem todas as formas de garantia do crédito tributário são admitidas pelo STF:
+
+Súmula STF 547 - Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas,
+despache mercadorias nas alfândegas e exerça suas atividades profissionais.
+
+Súmula STJ 314: Na execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano.
+                                                         ==219a34==
+
+
+
+
+Findo tal prazo, com o arquivamento dos autos, tem início o curso do prazo prescricional. É a jurisprudência
+do STJ:
+
+Súmula STJ 314 – Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por
+um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.
+
+Súmula STJ 307: O STJ considerou como importância passível de restituição os valores adiantados pelos
+clientes da empresa falida para realização de contrato de câmbio:
+
+Súmula STJ 307 - A restituição de adiantamento de contrato de câmbio, na falência, deve ser atendida
+antes de qualquer crédito.
+
+Súmula STF 439: A jurisprudência do STF deixa claro que estão sujeitos à fiscalização quaisquer livros
+comerciais, mas o exame desses livros está limitado aos pontos objeto da investigação:
+
+Súmula STF 439 - Estão sujeitos a fiscalização tributária ou previdenciária quaisquer livros comerciais,
+limitado o exame aos pontos objeto da investigação.
+
+Súmula STF 323: De acordo com o STF, a autoridade fiscal não pode apreender as mercadorias do sujeito
+passivo como meio coercitivo para pagamento dos tributos:
+
+Súmula STF 323 - É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de
+tributos.
+
+Súmula Vinculante 24: De acordo com o STF, não se tipifica crime material contra a ordem tributária (nos
+casos em que a configuração do crime está condicionada à existência do crédito tributário), antes da
+constituição definitiva do crédito tributário:
+
+Súmula Vinculante 24 – Não se tipifica crime material contra a ordem tributária, previsto no art. 1.º,
+incisos I a IV, da Lei n.º 8.137/90, antes do lançamento definitivo do tributo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           35
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Súmula STJ 392: Só se admite substituição de CDA para corrigir erro material ou formal, relativos à inscrição
+e à certidão, mas não se estendendo ao lançamento propriamente dito, sendo vedada a modificação do
+sujeito passivo:
+
+Súmula STJ 392 - A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da
+sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação
+do sujeito passivo da execução.
+
+Súmula STJ 446: O STJ entende que é legítima a recusa de expedição de certidão negativa ou positiva com
+efeito de negativa:
+
+Súmula STJ 446 - Declarado e não pago o débito tributário pelo contribuinte, é legítima a recusa de
+expedição de certidão negativa ou positiva com efeito de negativa.
+
+Súmula STJ 560: O STJ entende que para decretar a indisponibilidade de bens e direitos do sujeito passivo
+em execução fiscal, deve restar comprovado o exaurimento das diligências na busca por bens penhoráveis,
+o qual fica caracterizado quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição
+de ofícios aos registros públicos do domicílio do executado, ao Denatran ou Detran:
+
+Súmula STJ 560 - A decretação da indisponibilidade de bens e direitos, na forma do art. 185-A do CTN,
+pressupõe o exaurimento das diligências na busca por bens penhoráveis, o qual fica caracterizado
+quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição de ofícios aos registros
+públicos do domicílio do executado, ao Denatran ou Detran.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             36
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1. FGV/Pref. Belo Horizonte-Auditor de Controle Interno/2024
+
+Acerca do conceito de prescrição em matéria tributária, assinale a afirmativa correta.
+
+a) A prescrição tributária fulmina o próprio crédito tributário.
+
+b) A prescrição tributária extingue o direito de ação para a cobrança do crédito tributário, mas não o próprio
+crédito tributário.
+
+c) O devedor, que pagou espontaneamente dívida tributária prescrita, não pode pedir a restituição do valor
+pago.
+
+d) A prescrição tributária atinge o direito de o Fisco constituir o crédito tributário pelo lançamento.
+
+Comentário: Preste muita atenção ao comentário desta questão!
+
+Letra A: Certa. De acordo com o art. 156, V, do CTN, a prescrição é causa de extinção do crédito tributário:
+"Extinguem o crédito tributário: V - a prescrição e a decadência". Portanto, a prescrição tributária
+efetivamente fulmina (extingue) o próprio crédito tributário, e não apenas o direito de ação.
+
+Letra B: Errada. Conforme estabelece o art. 156, V, do CTN, a prescrição não apenas extingue o direito de
+ação para cobrança, mas sim o próprio crédito tributário. Esta interpretação é confirmada pela jurisprudência
+do STJ, que entende que a prescrição tributária não está sujeita à renúncia, justamente por extinguir o
+próprio crédito e não apenas o direito de ação (AgInt no AREsp n. 1.156.016/SE).
+
+Letra C: Errada. De acordo com a jurisprudência do STJ supracitada, o pagamento de crédito tributário
+prescrito é inválido e deve ser restituído, uma vez que a prescrição tributária extingue o próprio direito ao
+crédito tributário, conforme art. 156, V do CTN. Portanto, o devedor que pagou espontaneamente dívida
+tributária prescrita tem direito à restituição do valor pago.
+
+Letra D: Errada. De acordo com o art. 173 do CTN, é a decadência, e não a prescrição, que atinge o direito
+de o Fisco constituir o crédito tributário pelo lançamento. O art. 173 estabelece que "o direito de a Fazenda
+Pública constituir o crédito tributário extingue-se após 5 (cinco) anos", tratando especificamente da
+decadência. A prescrição, por sua vez, atinge o crédito tributário já constituído.
+
+Gabarito: A
+
+2. FGV/Câmara dos Deputados-Consultor/2024
+
+A tentativa de criar uma nova modalidade de extinção de créditos tributários estaduais por meio de dação
+em pagamento em bens, à luz da jurisprudência do STF,
+
+a) viola o conceito de tributo de ser prestação pecuniária compulsória cujo pagamento deve se dar em
+moeda.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           37
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+b) é admissível apenas quanto a bens imóveis, desde que previsto em lei complementar estadual.
+
+c) seria incorreta por violar o Código Tributário Nacional, que apenas admite a dação em pagamento em
+bens imóveis.
+
+d) é passível de ser prevista apenas para bens móveis, desde que prevista em lei complementar estadual.
+
+e) pode abranger tanto bens móveis como imóveis, desde que prevista em lei estadual complementar ou
+ordinária.
+
+Comentário: Uma questão bem peculiar que requer a aplicação do que foi decidido pelo STF na ADI 2405,
+não há reserva de lei complementar para tratar de novas hipóteses de extinção de créditos tributários,
+podendo ser estabelecida por lei ordinária.
+
+Assim, a banca considerou que de acordo com o STF na ADI 2405, não há reserva de Lei Complementar
+Federal para tratar de novas hipóteses de extinção de créditos tributários, sendo possível que o Estado-
+Membro estabeleça regras específicas de quitação de seus próprios créditos tributários, seja por lei
+complementar ou ordinária, abrangendo tanto bens móveis quanto imóveis.
+
+Gabarito: E
+
+3. FGV/EPE-Advogado/2024
+
+A sociedade empresária TutoVenda falsifica um documento com o objetivo de pagar menos ICMS, sendo que
+a saída da mercadoria de seu estabelecimento ocorreu em 5 de abril de 2023 e o pagamento da nota fiscal,
+com o valor menor da operação, ocorreu em 15 de maio de 2023.
+
+Assinale a opção que indica o prazo do Fisco Estadual para a cobrança e quando ele terá início.
+
+a) O prazo será de 5 (cinco) anos / da saída da mercadoria do estabelecimento, por ter havido pagamento
+parcial.
+
+b) O prazo será de 5 (cinco) anos / do primeiro dia do exercício seguinte àquele em que o lançamento poderia
+ter sido efetuado por ter havido fraude, dolo ou simulação.
+
+c) O prazo será de 5 (cinco) anos / do pagamento da nota fiscal com valor menor, por ter havido pagamento
+parcial.
+
+d) O prazo será de 5 (cinco) anos / do primeiro dia do exercício seguinte àquele em que o lançamento poderia
+ter sido efetuado, por ter havido pagamento parcial.
+
+e) O prazo será de 10 (dez) anos / da ocorrência do fato gerador, por se tratar de lançamento por
+homologação.
+
+Comentário:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                         38
+        www.estrategiaconcursos.com.br                                                                   55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Letra A: Errada. De acordo com o art. 150, § 4º do CTN, em regra, nos tributos sujeitos a lançamento por
+homologação, o prazo é de 5 anos contados do fato gerador. Contudo, havendo fraude, como no caso em
+questão, não se aplica esta regra.
+
+Letra B: Certa. Conforme o art. 173, I, do CTN, havendo fraude, dolo ou simulação, o prazo será de 5 anos
+contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Este
+entendimento é corroborado pela jurisprudência do STJ no REsp n. 183.603/SP, que estabelece que somente
+quando não há pagamento antecipado, ou há prova de fraude, dolo ou simulação, aplica-se o disposto no
+art. 173, I, do CTN.
+
+Letra C: Errada. De acordo com o art. 173 do CTN, em casos de fraude, como na situação apresentada, o
+prazo não se conta do pagamento da nota fiscal, mas sim do primeiro dia do exercício seguinte àquele em
+que o lançamento poderia ter sido efetuado.
+
+Letra D: Errada. Conforme o art. 150, § 4º do CTN, o mero pagamento parcial não altera a regra de contagem
+do prazo. A alteração da regra ocorre pela existência de fraude, e não pelo pagamento parcial.
+
+Letra E: Errada. De acordo com o art. 150, § 4º c/c art. 173, I, do CTN, mesmo em casos de lançamento por
+homologação, o prazo será de 5 anos, e não 10 anos. A existência de fraude apenas altera o termo inicial da
+contagem, não o prazo em si.
+
+Gabarito: B
+
+4. FGV/ALESC-Analista Leg./2024
+
+Caio recebeu de Tício diversas obras de arte, com vultosos valores de mercado. No entanto, a doação não
+foi oportunamente declarada pelo contribuinte ao fisco estadual.
+
+ De acordo com a jurisprudência e legislação sobre o Imposto de Transmissão Causa Mortis e Doação
+(ITCDM), assinale a afirmativa correta.
+
+a) Não incide ITCMD sobre bens móveis, não sendo hipótese de incidência do imposto a doação de obras de
+arte.
+
+b) A constituição definitiva do crédito ocorreu no momento da tradição, fato gerador do ITCMD, cabendo
+ao fisco, no prazo prescricional de cinco anos da ocorrência do fato gerador, realizar a cobrança do crédito.
+
+c) A contagem do prazo decadencial de cinco anos tem início no momento da ocorrência do fato gerador
+que, na hipótese, se deu com a tradição.
+
+d) A contagem do prazo decadencial de cinco anos tem início no momento em que o fisco teve
+conhecimento da ocorrência do fato gerador.
+
+e) A contagem do prazo decadencial de cinco anos tem início no primeiro dia do exercício seguinte àquele
+em que ocorrida a efetiva tradição do bem móvel.
+
+Comentário:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          39
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 05
+
+
+
+Letra A: Errada. De acordo com o art. 155, I da Constituição Federal, o ITCMD incide sobre "transmissão
+causa mortis e doação, de quaisquer bens ou direitos", incluindo bens móveis como obras de arte.
+
+Letra B: Errada. De acordo com a Súmula 436 do STJ, a constituição do crédito tributário ocorre com a entrega
+da declaração pelo contribuinte. Como não houve declaração, trata-se de prazo decadencial e não
+prescricional.
+
+Letra C: Errada. Conforme a Súmula 555 do STJ, quando não houver declaração do débito, o prazo
+decadencial quinquenal conta-se exclusivamente na forma do art. 173, I do CTN, ou seja, do primeiro dia do
+exercício seguinte.
+
+Letra D: Errada. De acordo com o art. 173, I do CTN e Súmula 555 do STJ, o prazo decadencial não se inicia
+do conhecimento do fato gerador pelo fisco, mas sim do primeiro dia do exercício seguinte àquele em que o
+lançamento poderia ter sido efetuado.
+                                                               ==219a34==
+
+
+
+
+Letra E: Certa. Conforme estabelece o art. 173, I do CTN e a Súmula 555 do STJ, não havendo declaração do
+débito, o prazo decadencial de cinco anos conta-se do primeiro dia do exercício seguinte àquele em que o
+lançamento poderia ter sido efetuado.
+
+Gabarito: E
+
+5. CEBRASPE/Prof NU Jr (ITAIPU)/ITAIPU/Advogado/2024
+
+Acerca do crédito tributário, considerando a jurisprudência do STJ e o Código Tributário Nacional, julgue os
+itens a seguir.
+
+I No caso dos tributos sujeitos a lançamento por homologação, a entrega de declaração pelo contribuinte
+reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte
+do fisco.
+
+II O pagamento antecipado, quando o tributo é sujeito a lançamento por homologação, extingue o crédito
+tributário, sob condição resolutória da ulterior homologação do lançamento.
+
+III A notificação do auto de infração faz cessar a contagem da prescrição do crédito tributário.
+
+IV A confissão espontânea da dívida acompanhada do pedido de parcelamento restabelece o crédito
+tributário decaído ou prescrito, por se tratar de renúncia tácita a direito disponível.
+
+Estão certos apenas os itens
+
+a) I e II.
+
+b) I e III.
+
+c) I, II e IV.
+
+d) III e IV.
+
+
+
+              Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                    40
+              www.estrategiaconcursos.com.br                                                              55
+
+                                            https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 05
+
+
+
+e) II, III e IV.
+
+Comentário:
+
+Item I: Correto. O lançamento por homologação envolve a declaração e o pagamento antecipado do tributo
+pelo contribuinte, sem prévia análise da autoridade fiscal, conforme art. 150, do CTN. O crédito tributário é
+formalmente constituído pela declaração, independentemente da posterior homologação pelo fisco (Súmula
+436 do STJ).
+
+Item II: Correto. No lançamento por homologação, o pagamento antecipado pelo contribuinte extingue o
+crédito tributário, mas esta extinção está sujeita à condição resolutória de que o fisco homologue o
+lançamento, conforme art. 150, do CTN.
+
+Item III: Errado. A notificação do auto de infração faz cessar a decadência do crédito tributário, não a
+prescrição, com base no art. 173, do CTN.
+
+Item IV: Errado. A confissão espontânea da dívida, mesmo quando acompanhada de um pedido de
+parcelamento, não pode restabelecer créditos tributários que já tenham sido extintos pela decadência ou
+prescrição. Afinal, a extinção do crédito tributário leva a extinção da obrigação tributária, conforme art. 113,
+do CTN.
+
+Gabarito: A
+
+6. CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+de 1988 e na jurisprudência dos tribunais superiores.
+
+O pedido de parcelamento formalizado por João interrompeu o prazo prescricional relativo à cobrança do
+crédito tributário.
+
+Comentário: Conforme o art. 151, VI, do CTN, o parcelamento é uma das causas que suspendem a
+exigibilidade do crédito tributário. Adicionalmente, a Súmula nº 653 do STJ afirma que qualquer pedido de
+parcelamento, mesmo que indeferido, interrompe o prazo prescricional porque constitui uma confissão
+extrajudicial do débito.
+
+Gabarito: Certo
+
+
+
+
+           Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          41
+           www.estrategiaconcursos.com.br                                                                    55
+
+                                         https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+7. FGV/RFB-Analista Tributário/2023
+
+José, necessitando da expedição de uma certidão de regularidade fiscal, se deu conta de que tinha dois
+débitos de tributos diferentes inscritos em dívida ativa tributária contra si. Para poder emitir a certidão que
+atestasse sua regularidade fiscal, aderiu a programa de parcelamento de ambos os débitos tributários,
+pactuando o pagamento em 8 parcelas iguais e sucessivas para cada um dos tributos. Ao chegar na 3ª parcela
+paga, conversando com seu advogado, deu-se conta de que um dos débitos já havia sido alcançado pela
+decadência quando fora lançado pelo Fisco e, quanto ao outro, já havia sido alcançado pelo prazo
+prescricional.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+A) A adesão ao parcelamento configura confissão irretratável de dívida, razão pela qual não é devida a
+restituição nem dos valores pago que já haviam sido alcançados pela decadência, nem dos que já haviam
+sido alcançados pela prescrição.
+
+B) A adesão ao parcelamento configura renúncia tácita apenas ao curso do prazo prescricional, razão pela
+qual não é devida a restituição dos valores que já haviam sido alcançados pela prescrição, mas tão somente
+dos valores pago que já haviam sido alcançados pela decadência.
+
+C) A adesão ao parcelamento configura renúncia tácita apenas ao curso do prazo decadencial, razão pela
+qual não é devida a restituição dos valores que já haviam sido alcançados pela decadência, mas tão somente
+dos valores pago que já haviam sido alcançados pela prescrição.
+
+D) É devida apenas a restituição dos valores pago que já haviam sido alcançados pela decadência, mas não
+dos que já haviam sido alcançados pela prescrição, uma vez que a dívida tributária prescrita
+espontaneamente paga é irrepetível.
+
+E) É devida a restituição tanto dos valores pagos que já haviam sido alcançados pela decadência, como
+daqueles que já haviam sido alcançados pela prescrição.
+
+Comentário: Esta questão é extensa, mas a sua resolução é bem simples e direta, desde que o candidato
+conheça a jurisprudência sobre o tema. O STJ entende que tanto a decadência como a prescrição extinguem
+o crédito tributário.
+
+E daí o raciocínio de que, conforme art. 113, § 1º, do CTN, a extinção do crédito tributário extingue a própria
+obrigação tributária. Não havendo obrigação, o contribuinte, na realidade, efetuou pagamento indevido,
+sendo devida a restituição.
+
+Dessa forma, a única alternativa correta é a Letra E.
+
+Gabarito: Letra E
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                            42
+        www.estrategiaconcursos.com.br                                                                      55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+8. CEBRASPE/SEFAZ-SE-AUDITOR/2022
+
+Decretada a falência de certa empresa, observou-se que contra ela havia créditos trabalhistas e créditos
+tributários, os quais eram de titularidade da União e do respectivo estado, e multas tributárias, sem prejuízo
+dos créditos extraconcursais surgidos no decorrer do processo falimentar.
+
+Nessa situação hipotética, de acordo com o Código Tributário Nacional e a jurisprudência do STF,
+
+a) os créditos tributários possuem privilégio absoluto, prevalecendo, inclusive, sobre os créditos trabalhistas.
+
+b) não é possível a fixação de limites e condições para a preferência dos créditos decorrentes da legislação
+do trabalho, considerado o privilégio absoluto de que gozam tais valores.
+
+c) para os créditos tributários da União e do estado em questão, há concurso de preferência, com
+preponderância do ente central.
+
+d) na ordem de preferência, a multa tributária está logo atrás dos créditos quirografários e subordinados.
+
+e) os créditos tributários decorrentes de fatos geradores ocorridos após a decretação de falência serão
+considerados extraconcursais.
+
+Comentário:
+
+Alternativa A: Os créditos tributários não preferem aos créditos trabalhistas, conforme art. 186, do CTN.
+Errado.
+
+Alternativa B: Na falência, o CTN prevê a possibilidade de fixação de limites para os créditos trabalhistas.
+Errado.
+
+Alternativa C: De acordo com a jurisprudência do STF, o art. 187, par. Único, que prevê a preferência da
+União, não foi recepcionado pelo texto constitucional. Errado.
+
+Alternativa D: A multa tributária, na falência, prefere apenas aos créditos subordinados. Errado.
+
+Alternativa E: É exatamente o que estabelece o art. 188, do CTN: são extraconcursais os créditos tributários
+decorrentes de fatos geradores ocorridos no curso do processo de falência. Correto.
+
+Gabarito: E
+
+9. FGV/TJ-AP/2022
+
+João, em dezembro de 2021, possuidor com animus domini desde janeiro de 2018 de imóvel de propriedade
+de Maria, deseja dela comprar o referido bem. Ao emitir certidão de quitação de IPTU, percebe que há
+valores desse tributo, referentes aos anos de 2013 e 2014, que não foram pagos nem impugnados. Na
+escritura pública de compra e venda, Maria concede a João desconto no preço de aquisição, condicionado a
+que ele realize o pagamento da dívida de IPTU. João adere a parcelamento tributário da dívida e efetua o
+pagamento da 1ª parcela, levando a escritura pública a registro.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             43
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+À luz da literalidade do Código Tributário Nacional e do entendimento dominante do Superior Tribunal de
+Justiça, é correto afirmar que:
+
+A) João, na condição de possuidor com animus domini, não pode ser contribuinte de IPTU;
+
+B) o desconto no valor da compra e venda concedido por Maria impede João de discutir judicialmente tal
+dívida de IPTU;
+
+C) é possível cobrar de João essa dívida de IPTU, por ser ele o adquirente do imóvel;
+
+D) a cláusula do contrato de compra e venda que transfere a responsabilidade pelo pagamento da dívida de
+IPTU a João é oponível ao Fisco;
+
+E) o pagamento parcelado do tributo foi indevido, pois a dívida já se encontrava prescrita.
+
+Comentário: Segundo o entendimento do STJ, o prazo de cinco anos para prescrição de cobrança judicial de
+IPTU começa a correr no dia seguinte ao do vencimento. (REsp 1641011 e REsp 1658517).
+
+Feita essa ressalva vamos aos comentários.
+
+Alternativa A: Conforme art. 34 do CTN, João é contribuinte do IPTU.
+
+Art. 34. Contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor
+a qualquer título.
+
+Ademais, o IPTU é imposto que tem como contribuinte o proprietário ou o possuidor por direito real, que
+exerce a posse com animus definitivo, ou seja, animus domini. Alternativa errada.
+
+Alternativa B: Não há previsão legal estabelecendo esse impedimento. Alternativa errada.
+
+Alternativa C: Conforme o art. 130, do CTN, o IPTU se sub-roga na pessoa do adquirente. Confira.
+
+Art. 130. Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil
+ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais
+bens, ou a contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando
+conste do título a prova de sua quitação.
+
+Então qual o erro do item, perceba que a dívida se refere aos anos de 2013 e 2014 e que o adquirente os
+parcelou em dezembro de 2021 quando foi comprar o imóvel, além disso conforme o entendimento do STJ
+demonstrado na introdução, os créditos de 2013 e 2014 prescreveram em 2018 e 2019 respectivamente,
+logo estão prescritos e, consequentemente, o parcelamento é indevido e João tem direito à restituição do
+valor pago. Alternativa errada.
+
+Alternativa D: As convenções particulares não podem ser opostas ao Fisco.
+
+Art. 123. Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo
+pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do
+sujeito passivo das obrigações tributárias correspondentes.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           44
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Alternativa errada.
+
+Alternativa E: Conforme a explicação do item C, o parcelamento foi indevido, porque os créditos relativos a
+2013 e 2014 estão prescritos. Alternativa correta.
+
+Gabarito: Letra E
+
+10. FGV/TJ-SC/2021
+
+Um tabelião deixou de declarar e recolher, na modalidade de lançamento por homologação, ISS incidente
+sobre serviços notariais por ele prestados de abril a agosto de 2014. Em fevereiro de 2020, o Fisco do
+município X efetua o lançamento de ofício dos tributos não declarados nem pagos, notificando o tabelião
+para pagamento em trinta dias. O tabelião então adere a um parcelamento de tais débitos em seis
+prestações. Concluído o pagamento, é advertido por seu advogado de que este teria sido indevido, pois o
+crédito tributário parcelado já teria decaído.
+
+Diante desse cenário, na data da constituição do crédito tributário, o prazo decadencial:
+
+A) ainda não havia se completado, sendo tal pagamento devido;
+
+B) já havia se completado, mas não o prazo prescricional, sendo tal pagamento devido;
+
+C) já havia se completado, configurando hipótese de extinção do crédito tributário, sendo tal pagamento
+indevido;
+
+D) já havia se completado, mas o pagamento voluntário de dívida tributária alcançada pela decadência não
+permite a restituição;
+
+E) já havia se completado, mas a confissão da dívida pelo parcelamento operou uma novação do débito,
+sendo tal pagamento devido.
+
+Comentário: O ISS é imposto lançado por homologação, além disso o contribuinte não fez a declaração e
+nem pagou, consequentemente tal situação nos leva a contar o prazo decadencial conforme previsão do
+art. 173, I, do CTN.
+
+Súmula 555 do STJ: Quando não houver declaração do débito, o prazo decadencial quinquenal para o Fisco
+constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN, nos casos em que a
+legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade
+administrativa.
+
+Art. 173. O direito de a Fazenda Pública constituir o crédito tributário extingue-se após 5 (cinco) anos,
+contados:
+
+I - do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado;
+
+Portanto, o prazo decadencial no ISS incidente sobre serviços notariais prestados de abril a agosto de 2014
+tem início em janeiro de 2015, logo se deu a decadência em janeiro de 2020.
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                        45
+        www.estrategiaconcursos.com.br                                                                  55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+Feito esse contexto, já temos elementos suficiente para encontrar o nosso gabarito.
+
+Alternativa A: Prazo de início: 01/01/2015, após 05 anos, prazo final: 01/01/2020, portanto houve a
+decadência. Alternativa errada.
+
+Alternativa B: A prescrição é a perda do prazo para executar o crédito, como já houve a decadência não tem
+como constituir o crédito para caso não seja pago, seja executado. Alternativa errada.
+
+Alternativa C: Conforme nossa introdução, já houve a decadência que é uma forma de extinção do crédito
+e, portanto, o pagamento foi indevido, cabendo nessa hipótese o pedido de restituição, ou seja, repetição
+do indébito tributário. Alternativa correta.
+
+Alternativa D: Conforme o item anterior, cabe o pedido de restituição pelo pagamento indevido, pois já havia
+decaído o prazo de constituição do crédito. Alternativa errada.
+
+Alternativa E: O parcelamento não inova o débito, portanto o pagamento foi indevido. Alternativa errada.
+
+Gabarito: Letra C
+
+11. FGV/SEFIN-RO-Técnico Tributário/2018
+A empresa Delta possuía um débito tributário junto ao Estado Beta relativo à determinada exação lançada
+por homologação. Ocorre que o Supremo Tribunal Federal declarou inconstitucional o tributo que é objeto
+da dívida de Delta. Esta precisa obter uma certidão negativa, para poder concorrer a um procedimento
+licitatório.
+Nessas circunstâncias,
+a) a empresa não tem direito à certidão negativa, visto que a decisão do STF não retroage, e a dívida é
+anterior à declaração da inconstitucionalidade.
+b) tendo havido regular apuração do crédito fazendário, prevalece a presunção de liquidez e certeza em
+favor do Fisco.
+c) a empresa tem direito apenas à certidão positiva com efeito de negativa, havendo a suspensão da
+exigibilidade do tributo.
+d) a empresa tem direito à certidão negativa, porém deve fazer o depósito cautelar do tributo que foi lançado
+por homologação, até que a Fazenda interessada se manifeste.
+e) a empresa tem direito à certidão negativa até a fiscalização da regularidade do procedimento de
+lançamento pelo Fisco, apurando-se eventual débito tributário ainda remanescente.
+
+Comentário: Vimos que não se pode negar a expedição de Certidão Negativa de Débito (CND) ante a
+presença de débito referente ao não pagamento de tributo declarado inconstitucional pelo STF. Por essa
+razão, a empresa tem direito à certidão negativa até a fiscalização da regularidade do procedimento de
+lançamento pelo Fisco, apurando-se eventual débito tributário ainda remanescente.
+
+Gabarito: Letra E
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          46
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+12. FGV/Fiscal de Tributos-Niterói/2015
+
+Um contribuinte do Município, inconformado com a imposição de um auto de infração do ISS, decide discutir
+em juízo a incidência ou não do tributo, ingressa com a ação judicial que considera oportuna e efetua o
+depósito integral e em dinheiro do valor do crédito tributário em discussão. Nesse caso:
+
+a) o depósito judicial é condição inafastável para o regular processamento da ação;
+
+b) com a decisão definitiva do processo contrária ao contribuinte, a quantia depositada deverá ser convertida
+em renda da Fazenda, suspendendo a exigibilidade do crédito tributário;
+
+c) o depósito da quantia questionada, integral ou parcial, suspende a exigibilidade do crédito tributário;
+
+d) com a decisão definitiva do processo contrária ao contribuinte, a quantia depositada deverá ser convertida
+em renda da Fazenda, extinguindo o crédito tributário;
+
+e) o depósito judicial é desnecessário, pois o mero ajuizamento da ação suspende a exigibilidade do crédito
+tributário.
+
+Comentário:
+
+Alternativa A: O depósito do montante integral é facultativo, conforme jurisprudência do STF (Súmula
+Vinculante 28). Alternativa errada.
+
+Alternativa B: Na realidade, com a decisão definitiva em favor da União, o depósito integral é convertido em
+renda em favor da Fazenda, extinguindo o crédito tributário, com base no art. 156, VI, do CTN. Alternativa
+errada.
+
+Alternativa C: Apenas o depósito integral e em dinheiro suspende a exigibilidade do crédito tributário,
+conforme Súmula 112 do STJ. Alternativa errada.
+
+Alternativa D: Com a decisão definitiva no processo administrativo em favor da União, o depósito integral é
+convertido em renda em favor da Fazenda, extinguindo o crédito tributário, com base no art. 156, VI, do
+CTN. Alternativa correta.
+
+Alternativa E: O mero ajuizamento da ação não suspende a exigibilidade do crédito tributário, devendo o
+sujeito passivo realizar o depósito do montante integral, caso não consiga obter a concessão de medida
+liminar ou tutela antecipada. Alternativa errada.
+
+Gabarito: Letra D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             47
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+
+                                       LISTA DE QUESTÕES
+1. FGV/Pref. Belo Horizonte-Auditor de Controle Interno/2024
+
+Acerca do conceito de prescrição em matéria tributária, assinale a afirmativa correta.
+
+a) A prescrição tributária fulmina o próprio crédito tributário.
+
+b) A prescrição tributária extingue o direito de ação para a cobrança do crédito tributário, mas não o próprio
+crédito tributário.
+
+c) O devedor, que pagou espontaneamente dívida tributária prescrita, não pode pedir a restituição do valor
+pago.
+
+d) A prescrição tributária atinge o direito de o Fisco constituir o crédito tributário pelo lançamento.
+
+2. FGV/Câmara dos Deputados-Consultor/2024
+
+A tentativa de criar uma nova modalidade de extinção de créditos tributários estaduais por meio de dação
+em pagamento em bens, à luz da jurisprudência do STF,
+
+a) viola o conceito de tributo de ser prestação pecuniária compulsória cujo pagamento deve se dar em
+moeda.
+
+b) é admissível apenas quanto a bens imóveis, desde que previsto em lei complementar estadual.
+
+c) seria incorreta por violar o Código Tributário Nacional, que apenas admite a dação em pagamento em
+bens imóveis.
+
+d) é passível de ser prevista apenas para bens móveis, desde que prevista em lei complementar estadual.
+
+e) pode abranger tanto bens móveis como imóveis, desde que prevista em lei estadual complementar ou
+ordinária.
+
+3. FGV/EPE-Advogado/2024
+
+A sociedade empresária TutoVenda falsifica um documento com o objetivo de pagar menos ICMS, sendo que
+a saída da mercadoria de seu estabelecimento ocorreu em 5 de abril de 2023 e o pagamento da nota fiscal,
+com o valor menor da operação, ocorreu em 15 de maio de 2023.
+
+Assinale a opção que indica o prazo do Fisco Estadual para a cobrança e quando ele terá início.
+
+a) O prazo será de 5 (cinco) anos / da saída da mercadoria do estabelecimento, por ter havido pagamento
+parcial.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                           48
+        www.estrategiaconcursos.com.br                                                                     55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+b) O prazo será de 5 (cinco) anos / do primeiro dia do exercício seguinte àquele em que o lançamento poderia
+ter sido efetuado por ter havido fraude, dolo ou simulação.
+
+c) O prazo será de 5 (cinco) anos / do pagamento da nota fiscal com valor menor, por ter havido pagamento
+parcial.
+
+d) O prazo será de 5 (cinco) anos / do primeiro dia do exercício seguinte àquele em que o lançamento poderia
+ter sido efetuado, por ter havido pagamento parcial.
+
+e) O prazo será de 10 (dez) anos / da ocorrência do fato gerador, por se tratar de lançamento por
+homologação.
+
+4. FGV/ALESC-Analista Leg./2024
+
+Caio recebeu de Tício diversas obras de arte, com vultosos valores de mercado. No entanto, a doação não
+foi oportunamente declarada pelo contribuinte ao fisco estadual.
+
+ De acordo com a jurisprudência e legislação sobre o Imposto de Transmissão Causa Mortis e Doação
+(ITCDM), assinale a afirmativa correta.
+
+a) Não incide ITCMD sobre bens móveis, não sendo hipótese de incidência do imposto a doação de obras de
+arte.
+
+b) A constituição definitiva do crédito ocorreu no momento da tradição, fato gerador do ITCMD, cabendo
+ao fisco, no prazo prescricional de cinco anos da ocorrência do fato gerador, realizar a cobrança do crédito.
+
+c) A contagem do prazo decadencial de cinco anos tem início no momento da ocorrência do fato gerador
+que, na hipótese, se deu com a tradição.
+
+d) A contagem do prazo decadencial de cinco anos tem início no momento em que o fisco teve
+conhecimento da ocorrência do fato gerador.
+
+e) A contagem do prazo decadencial de cinco anos tem início no primeiro dia do exercício seguinte àquele
+em que ocorrida a efetiva tradição do bem móvel.
+
+5. CEBRASPE/Prof NU Jr (ITAIPU)/ITAIPU/Advogado/2024
+
+Acerca do crédito tributário, considerando a jurisprudência do STJ e o Código Tributário Nacional, julgue os
+itens a seguir.
+
+I No caso dos tributos sujeitos a lançamento por homologação, a entrega de declaração pelo contribuinte
+reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte
+do fisco.
+
+II O pagamento antecipado, quando o tributo é sujeito a lançamento por homologação, extingue o crédito
+tributário, sob condição resolutória da ulterior homologação do lançamento.
+
+III A notificação do auto de infração faz cessar a contagem da prescrição do crédito tributário.
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                          49
+        www.estrategiaconcursos.com.br                                                                    55
+
+                                      https://t.me/KakashiAssinaturasBot
+   Fábio Dutra
+   Aula 05
+
+
+
+IV A confissão espontânea da dívida acompanhada do pedido de parcelamento restabelece o crédito
+tributário decaído ou prescrito, por se tratar de renúncia tácita a direito disponível.
+
+Estão certos apenas os itens
+
+a) I e II.
+
+b) I e III.
+
+c) I, II e IV.
+
+d) III e IV.
+
+e) II, III e IV.
+
+6. CEBRASPE/Aud Est (CGE RJ)/CGE RJ/2024
+
+João, por não ter pagado o crédito tributário que devia, foi demandado pela fazenda pública, por meio de
+execução fiscal. Posteriormente, o contribuinte efetuou judicialmente o depósito integral, em dinheiro, do
+valor cobrado e impugnou a cobrança. No curso do processo, foi editada, pelo Poder Executivo, uma portaria
+que, embasada em determinada lei, permitiu o parcelamento dos créditos tributários relativos ao mesmo
+tributo cobrado de João, excetuando apenas os contribuintes que tivessem feito depósito judicial relativo
+aos valores dos créditos tributários cobrados. Por esse motivo, João formalizou pedido de parcelamento, o
+qual foi indeferido.
+
+A partir da situação hipotética apresentada, julgue o item seguinte com base no CTN, na Constituição Federal
+de 1988 e na jurisprudência dos tribunais superiores.
+
+O pedido de parcelamento formalizado por João interrompeu o prazo prescricional relativo à cobrança do
+crédito tributário.
+
+7. FGV/RFB-Analista Tributário/2023
+
+José, necessitando da expedição de uma certidão de regularidade fiscal, se deu conta de que tinha dois
+débitos de tributos diferentes inscritos em dívida ativa tributária contra si. Para poder emitir a certidão que
+atestasse sua regularidade fiscal, aderiu a programa de parcelamento de ambos os débitos tributários,
+pactuando o pagamento em 8 parcelas iguais e sucessivas para cada um dos tributos. Ao chegar na 3ª parcela
+paga, conversando com seu advogado, deu-se conta de que um dos débitos já havia sido alcançado pela
+decadência quando fora lançado pelo Fisco e, quanto ao outro, já havia sido alcançado pelo prazo
+prescricional.
+
+Diante desse cenário, assinale a afirmativa correta.
+
+A) A adesão ao parcelamento configura confissão irretratável de dívida, razão pela qual não é devida a
+restituição nem dos valores pago que já haviam sido alcançados pela decadência, nem dos que já haviam
+sido alcançados pela prescrição.
+
+
+
+
+              Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                      50
+              www.estrategiaconcursos.com.br                                                                55
+
+                                            https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+B) A adesão ao parcelamento configura renúncia tácita apenas ao curso do prazo prescricional, razão pela
+qual não é devida a restituição dos valores que já haviam sido alcançados pela prescrição, mas tão somente
+dos valores pago que já haviam sido alcançados pela decadência.
+
+C) A adesão ao parcelamento configura renúncia tácita apenas ao curso do prazo decadencial, razão pela
+qual não é devida a restituição dos valores que já haviam sido alcançados pela decadência, mas tão somente
+dos valores pago que já haviam sido alcançados pela prescrição.
+
+D) É devida apenas a restituição dos valores pago que já haviam sido alcançados pela decadência, mas não
+dos que já haviam sido alcançados pela prescrição, uma vez que a dívida tributária prescrita
+espontaneamente paga é irrepetível.
+
+E) É devida a restituição tanto dos valores pagos que já haviam sido alcançados pela decadência, como
+daqueles que já haviam sido alcançados pela prescrição.
+
+8. CEBRASPE/SEFAZ-SE-AUDITOR/2022
+
+Decretada a falência de certa empresa, observou-se que contra ela havia créditos trabalhistas e créditos
+tributários, os quais eram de titularidade da União e do respectivo estado, e multas tributárias, sem prejuízo
+dos créditos extraconcursais surgidos no decorrer do processo falimentar.
+
+Nessa situação hipotética, de acordo com o Código Tributário Nacional e a jurisprudência do STF,
+
+a) os créditos tributários possuem privilégio absoluto, prevalecendo, inclusive, sobre os créditos trabalhistas.
+
+b) não é possível a fixação de limites e condições para a preferência dos créditos decorrentes da legislação
+do trabalho, considerado o privilégio absoluto de que gozam tais valores.
+
+c) para os créditos tributários da União e do estado em questão, há concurso de preferência, com
+preponderância do ente central.
+
+d) na ordem de preferência, a multa tributária está logo atrás dos créditos quirografários e subordinados.
+
+e) os créditos tributários decorrentes de fatos geradores ocorridos após a decretação de falência serão
+considerados extraconcursais.
+
+9. FGV/TJ-AP/2022
+
+João, em dezembro de 2021, possuidor com animus domini desde janeiro de 2018 de imóvel de propriedade
+de Maria, deseja dela comprar o referido bem. Ao emitir certidão de quitação de IPTU, percebe que há
+valores desse tributo, referentes aos anos de 2013 e 2014, que não foram pagos nem impugnados. Na
+escritura pública de compra e venda, Maria concede a João desconto no preço de aquisição, condicionado a
+que ele realize o pagamento da dívida de IPTU. João adere a parcelamento tributário da dívida e efetua o
+pagamento da 1ª parcela, levando a escritura pública a registro.
+
+À luz da literalidade do Código Tributário Nacional e do entendimento dominante do Superior Tribunal de
+Justiça, é correto afirmar que:
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             51
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+A) João, na condição de possuidor com animus domini, não pode ser contribuinte de IPTU;
+
+B) o desconto no valor da compra e venda concedido por Maria impede João de discutir judicialmente tal
+dívida de IPTU;
+
+C) é possível cobrar de João essa dívida de IPTU, por ser ele o adquirente do imóvel;
+
+D) a cláusula do contrato de compra e venda que transfere a responsabilidade pelo pagamento da dívida de
+IPTU a João é oponível ao Fisco;
+
+E) o pagamento parcelado do tributo foi indevido, pois a dívida já se encontrava prescrita.
+
+Feita essa ressalva vamos aos comentários.
+
+10. FGV/TJ-SC/2021
+
+Um tabelião deixou de declarar e recolher, na modalidade de lançamento por homologação, ISS incidente
+sobre serviços notariais por ele prestados de abril a agosto de 2014. Em fevereiro de 2020, o Fisco do
+município X efetua o lançamento de ofício dos tributos não declarados nem pagos, notificando o tabelião
+para pagamento em trinta dias. O tabelião então adere a um parcelamento de tais débitos em seis
+prestações. Concluído o pagamento, é advertido por seu advogado de que este teria sido indevido, pois o
+crédito tributário parcelado já teria decaído.
+
+Diante desse cenário, na data da constituição do crédito tributário, o prazo decadencial:
+
+A) ainda não havia se completado, sendo tal pagamento devido;
+
+B) já havia se completado, mas não o prazo prescricional, sendo tal pagamento devido;
+
+C) já havia se completado, configurando hipótese de extinção do crédito tributário, sendo tal pagamento
+indevido;
+
+D) já havia se completado, mas o pagamento voluntário de dívida tributária alcançada pela decadência não
+permite a restituição;
+
+E) já havia se completado, mas a confissão da dívida pelo parcelamento operou uma novação do débito,
+sendo tal pagamento devido.
+
+11. FGV/SEFIN-RO-Técnico Tributário/2018
+
+A empresa Delta possuía um débito tributário junto ao Estado Beta relativo à determinada exação lançada
+por homologação. Ocorre que o Supremo Tribunal Federal declarou inconstitucional o tributo que é objeto
+da dívida de Delta. Esta precisa obter uma certidão negativa, para poder concorrer a um procedimento
+licitatório.
+
+Nessas circunstâncias,
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                     52
+        www.estrategiaconcursos.com.br                                                               55
+
+                                      https://t.me/KakashiAssinaturasBot
+  Fábio Dutra
+  Aula 05
+
+
+
+a) a empresa não tem direito à certidão negativa, visto que a decisão do STF não retroage, e a dívida é
+anterior à declaração da inconstitucionalidade.
+
+b) tendo havido regular apuração do crédito fazendário, prevalece a presunção de liquidez e certeza em
+favor do Fisco.
+
+c) a empresa tem direito apenas à certidão positiva com efeito de negativa, havendo a suspensão da
+exigibilidade do tributo.
+
+d) a empresa tem direito à certidão negativa, porém deve fazer o depósito cautelar do tributo que foi lançado
+por homologação, até que a Fazenda interessada se manifeste.
+
+e) a empresa tem direito à certidão negativa até a fiscalização da regularidade do procedimento de
+lançamento pelo Fisco, apurando-se eventual débito tributário ainda remanescente.
+                                                         ==219a34==
+
+
+
+
+12. FGV/Fiscal de Tributos-Niterói/2015
+
+Um contribuinte do Município, inconformado com a imposição de um auto de infração do ISS, decide discutir
+em juízo a incidência ou não do tributo, ingressa com a ação judicial que considera oportuna e efetua o
+depósito integral e em dinheiro do valor do crédito tributário em discussão. Nesse caso:
+
+a) o depósito judicial é condição inafastável para o regular processamento da ação;
+
+b) com a decisão definitiva do processo contrária ao contribuinte, a quantia depositada deverá ser convertida
+em renda da Fazenda, suspendendo a exigibilidade do crédito tributário;
+
+c) o depósito da quantia questionada, integral ou parcial, suspende a exigibilidade do crédito tributário;
+
+d) com a decisão definitiva do processo contrária ao contribuinte, a quantia depositada deverá ser convertida
+em renda da Fazenda, extinguindo o crédito tributário;
+
+e) o depósito judicial é desnecessário, pois o mero ajuizamento da ação suspende a exigibilidade do crédito
+tributário.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial                             53
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                      https://t.me/KakashiAssinaturasBot
+Fábio Dutra
+Aula 05
+
+
+
+
+                                                GABARITO
+ 1. A
+ 2. E
+ 3. B
+ 4. E
+ 5. A
+ 6. Certo
+ 7. E
+ 8. E
+ 9. E
+ 10. C
+ 11. E
+ 12. D
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Tributário Jurisprudencial   54
+      www.estrategiaconcursos.com.br                                             55
+
+                                    https://t.me/KakashiAssinaturasBot
+

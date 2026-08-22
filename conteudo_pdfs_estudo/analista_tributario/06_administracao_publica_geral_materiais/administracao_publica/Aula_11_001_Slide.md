@@ -1,0 +1,2032 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 11_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: POLÍTICAS PÚBLICAS
+---
+
+# POLÍTICAS PÚBLICAS
+
+---
+
+---
+
+POLÍTICAS PÚBLICAS
+
+
+                                        Prof. Stefan Fantini
+                                          @prof.stefan.fantini
+
+   
+
+
+---
+
+Políticas Públicas
+Conceito
+
+ As políticas públicas consistem em um conjunto de decisões, ações e atividades que o
+ governo desempenha para alcançar resultados que melhorem a vida dos cidadãos.
+
+
+ Ou seja, trata-se de um conjunto de ações, planos, metas e objetivos que o governo
+ traça, com o objetivo de alcançar o bem-estar social (bem comum).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE/CEBRASPE – MPC-PA – Analista - 2019)
+Atividades privadas podem ser consideradas políticas públicas, mesmo que não
+estejam apoiadas em decisões de governo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE/CEBRASPE – EBC – Analista)
+Decisões e análises acerca de políticas públicas implicam responder às seguintes
+perguntas: quem ganha o quê, por quê e que diferença faz.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Problema Público
+Conceito
+
+                Status quo                                             Situação Ideal
+                                   Problema Público                       Desejada
+             (Situação atual)                                        (Situação “melhor”)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Problema Público
+Características
+                           Problemas sem clara delimitação de fronteiras
+
+                              Problemas relacionados a bens públicos
+
+                             Problemas que envolvem escala e ações que
+                              precisam ser desenvolvidas em conjunto
+                           Problemas difíceis de serem resolvidos, ou que
+         Características              criam novos problemas
+         dos Problemas
+            Públicos       Problemas complexos do ponto de vista técnico
+
+                              Problemas que envolvem incerteza e risco
+
+                           Problemas marcados pelas chamadas “escolhas
+                                            trágicas”
+
+                           Problemas envolvendo redistribuição de riqueza
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Wicked Problems
+Características
+
+                                     Ausência de uma formulação definitiva
+
+
+                              Impossibilidade de adoção de uma solução definitiva
+
+
+                                       Inexistência de uma solução correta
+     Características dos
+      Wicked Problems
+                                 Impossibilidade de testar soluções previamente
+
+
+                                    Interligação a diversos outros problemas
+
+
+                           São problemas instáveis, sujeitos a múltiplas definições por
+                                          parte dos diferentes grupos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+                        (FGV – CGU – Auditor – 2022)
+Diversos autores apontam características comuns aos problemas públicos para
+facilitar o processo de identificação, podendo, assim, o analista de políticas
+categorizar e buscar soluções para novos desafios a partir de problemas anteriores
+de natureza semelhante. Entretanto, nem todos os problemas públicos
+compartilham características. No universo de problemas públicos contemporâneos
+merecem destaque os wicked problems, problemas desestruturados que desafiam
+continuamente os analistas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – CGU – Auditor – 2022)
+(...)
+Os wicked problems são singulares e diferenciam-se dos demais problemas públicos:
+a) pela dificuldade de serem resolvidos e pelo potencial para criar problemas;
+b) pela complexidade técnica e pelo alto grau de imprevisibilidade, incerteza e risco;
+c) pela interligação com vários outros problemas e por não possuírem uma solução
+correta ou definitiva;
+d) por não possuírem clara delimitação de fronteiras e por envolverem bens
+públicos;
+e) por envolverem soluções com escolhas trágicas, assim como a redistribuição de
+riquezas e recursos.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE/CEBRASPE – MPC-PA – Analista - 2019)
+Uma política pública é uma diretriz elaborada para enfrentar qualquer tipo de
+problema, seja individual, seja da coletividade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Abordagem Estatista x Abordagem Multicêntrica
+
+                           Abordagem Estatista
+                -o Estado detém a exclusividade (“monopólio”)
+                          para fazer políticas públicas.
+                O que irá determinar se uma política é considerada               Abordagem Multicêntrica
+                   “publica” é a personalidade jurídica do “ator
+                             principal” dessa política.            -organizações privadas, organização não governamentais e
+                                                                    organizações multilaterais, são, juntamente com os atores
+                                                                         governamentais, protagonistas na implantação e
+                                                                    implementação de políticas públicas. O que importa é a origem
+                                                                                  do “problema” a ser enfrentado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (CESPE – ABIN – Oficial de Inteligência – 2018)
+Para a abordagem estatista, o caráter público de uma política é definido pela
+personalidade jurídica de seus atores, enquanto, para a abordagem multicêntrica,
+atores não estatais podem ser protagonistas de políticas públicas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Atores
+
+                        Atores Governamentais
+                   agentes políticos, atores designados                  Atores Não Governamentais
+                    politicamente, burocratas e juízes.       Grupos de Interesse, Partidos Políticos, Meios de
+                                                              Comunicação, Grupos de Pressão, Destinatários
+                                                               (beneficiários) das políticas públicas, Think Tanks,
+                                                                   empresários, sociedade civil organizada,
+                                                                  Organizações do Terceiro Setor e outros
+                                                                                  Stakeholders.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+                        (CESPE – SEEFAZ-RS – Auditor do Estado - 2018)
+Vários atores participam e influenciam, direta ou indiretamente, o processo de
+formulação de políticas públicas, a exemplo de atores estatais ou públicos, entre os
+quais se incluem
+a) os burocratas e os designados politicamente.
+b) as organizações de terceiro setor e os meios de comunicação.
+c) os empresários e as sociedades civis organizadas.
+d) os grupos de interesse e os fornecedores.
+e) os políticos e os grupos de pressão.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Dimensões da Política
+
+                                                                         DImensão
+                                                                          ti
+                                                                        Ins tucional
+                                                Polity
+                                                                           ti
+                                                                        Ins tuições
+                                                                          Políticas
+
+                                                                         Dimensão
+                                                                           cs
+                                                                        Pro e sual
+                        Política              Politics
+                                                                            cs
+                                                                        Pro e so
+                                                                          Político
+
+
+                                                                         Dimensão
+                                                                          Material
+                                                Policy
+                                                                        Conteúdo
+                                                                        "concreto"
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                   
+
+
+---
+
+                        (CESPE – EBC – Analista)
+Em inglês, usam-se os termos polity, politics e policy para caracterizar as três
+dimensões da política. Eles se referem, respectivamente, às instituições políticas,
+aos processos políticos e aos conteúdos da política. Policy é adotado para designar
+as políticas públicas (public policy).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Demandas
+
+                                                                              Novos atores
+                                       Demandas
+                                        Novas
+                                                                             Novos problemas
+
+                                                                         Problemas não resolvidos
+                         Tipos de      Demandas
+                        Demandas      Recorrentes
+                                                                         Problemas mal resolvidos
+
+
+                                                                     "estados de coisas" (ou seja, os
+                                                                    políticos não a reconhecem como
+                                       Demandas                                “problemas”)
+                                       Reprimidas
+                                                                              não-decisões
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (IF-SP – IF-SP – Tecnólogo - 2018)
+De acordo com Dias e Matos (2012), as políticas públicas podem surgir de demandas
+sociais. As demandas sociais podem ser classificadas, segundo esses autores em:
+a) Demandas empreendedoras, demandas redundantes e demandas secundárias.
+b) Demandas inovadoras, demandas repetitivas e demandas oprimidas.
+c) Demandas originárias, demandas pretéritas e demandas das minorias.
+d) Demandas novas, demandas recorrentes e demandas reprimidas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IADES – CAU-BR - ADAPTADA)
+As demandas novas são aquelas que se originam de novos atores políticos ou de
+novos problemas demandados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (IADES – CAU-BR - ADAPTADA)
+As demandas recorrentes são aquelas que se fundam em problemas já resolvidos,
+mas que estão sempre voltando a aparecer no debate político e na agenda
+governamental.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CONSULPLAN – ITABAIANA – Analista)
+Marque V para as afirmativas verdadeiras e F para as falsas:
+( ) Podemos considerar que grande parte da atividade política dos governos se
+destina à tentativa de satisfazer as demandas que lhe são dirigidas pelos atores
+sociais ou aquelas formuladas pelos próprios agentes do sistema político, ao mesmo
+tempo que articulam os apoios necessários.
+( ) As demandas novas são aquelas que resultam do surgimento de novos atores
+políticos ou de novos problemas.
+( ) As demandas reprimidas são aquelas em que os políticos não vão atender aos
+atores sociais, não reconhecendo sua necessidade.
+( ) As demandas recorrentes são aquelas que expressam problemas não resolvidos
+ou mal resolvidos, que constam da agenda governamental.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CONSULPLAN – ITABAIANA – Analista)
+(...)
+A sequência está correta em:
+a) V, F, F, F
+b) F, V, V, F
+c) V, V, F, V
+d) V, V, V, V
+e) F, F, F, F
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Política Pública x Decisão Política
+ A política pública, normalmente, envolve mais do que uma decisão e requer diversas
+ ações estrategicamente selecionadas para implementar as decisões tomadas. A decisão
+ política por sua vez, corresponde a uma escolha dentre um leque de alternativas,
+ conforme a hierarquia das preferências dos atores envolvidos, expressando (em maior
+ ou menor grau) uma certa adequação entre os fins pretendidos e os meios disponíveis.
+ Portanto, pode-se dizer que uma política pública depende de decisões políticas (ou
+ seja, a política pública é resultado de decisões políticas); contudo, nem toda decisão
+ política chega a constituir uma política pública. (RUA)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+                        (FGV – SEPOG – Especialista - 2017)
+Com relação à distinção entre política pública e decisão política, analise as
+afirmativas a seguir.
+I. Uma política pública geralmente envolve mais de uma decisão e requer diversas
+ações estrategicamente selecionadas para implementar as decisões tomadas.
+II. A decisão política corresponde a uma escolha dentre as opções de alternativas
+conforme a hierarquia das preferências dos atores envolvidos, expressando uma
+adequação entre os fins pretendidos e os meios disponíveis.
+III. Embora uma política pública implique uma decisão política, nem toda decisão
+política chega a constituir uma política pública.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – SEPOG – Especialista - 2017)
+(...)
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Políticas Públicas
+Quanto aos Impactos Gerados
+
+
+                                       tem por objetivo regular a atuação e o comportamento de pessoas, grupos e
+                                   organizações. não buscam benefícios imediatos para um grupo ou outro, ou seja, os
+                  Regulatórias
+                                   “custos e benefícios” são divididos de forma igualitária entre os diversos grupos da
+                                                                        sociedade.
+
+
+                                   os benefícios são concentrados apenas para alguns grupos de atores da sociedade,
+  Quanto aos      Distributivas         enquanto os custos são “difusos” (são divididos) por toda a coletividade
+   Impactos                                 (contribuintes). Essas políticas, geralmente, causam pouco conflito.
+   (custos e
+  benefícios)
+  Gerados na                       tem por objetivo redistribuir rendas (ou seja, alterar o grau de “concentração” dos
+  Sociedades     Redistributivas     recursos). Os benefícios são concentrados em determinado grupo de atores da
+                                       sociedade, enquanto os custos são concentrados em outro grupo de pessoas.
+
+
+                                    são as políticas que definem as “regras do jogo”. São as políticas que definem as
+                  Constitutivas     competências, jurisdições, regras da disputa política e regras da elaboração de
+                                                                    políticas públicas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (FGV – FUNSAÚDE-CE – Analista Administrativo - 2021)
+Caso o poder público tenha o intuito de conceder benefícios sociais, mas sem criar
+uma situação conflituosa entre os diversos atores e grupos de interesse da
+sociedade, é recomendada a elaboração de uma política do tipo
+a) regulatória.
+b) constitutiva.
+c) redistributiva.
+d) distributiva.
+e) processual.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (ESAF – CGU – Analista de Finanças e Controle)
+Conforme Theodor Lowi, a política pública assume quatro formatos: políticas
+regulatórias, políticas distributivas, políticas redistributivas e políticas constitutivas.
+Esta classificação é feita segundo
+a) os impactos de custos e benefícios que os grupos de interesse esperam de uma
+política determinada.
+b) as crenças, valores e ideias das coalizões de defesa que integram cada subsistema
+de uma política pública.
+c) a escolha racional de tomadores de decisão e operadores das políticas públicas.
+d) eficiência da política pública.
+e) o ciclo da política pública.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+                        (CONSULPLAN – Câmara de Belo Horizonte – 2018)
+Baseado no critério de “impacto esperado na sociedade”, Lowi classifica quatro
+tipos de políticas públicas; assinale-as.
+a) Real; simbólica; política; e, sem sentido.
+b) Operatória; sala de reuniões; audiência; e, baixo calão.
+c) Regulatórias; distributivas; redistributivas; e, constitutivas.
+d) Majoritária; empreendedora; clientelista; e, grupo de interesse.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – SEPOG-RO – Especialista - 2017)
+Correlacione as tipologias listadas a seguir aos seus respectivos conceitos.
+1. Consistem na distribuição de recursos a determinados segmentos da sociedade
+ou a regiões especificas e, em geral, demandam controle social por meio de
+conselhos ou de outras formas de participação popular. Não implica em custos
+diretos (ou diretamente percebidos) para a parcela da sociedade não beneficiada.
+2. Destinam-se à definição das “regras do jogo” político, em termos de estrutura e
+modo de acesso ao poder, bem como as formas de negociação política.
+3. Tem o intuito de redistribuir renda e direitos, por meio do deslocamento de
+recursos das camadas mais privilegiadas financeiramente para as menos (ou
+economicamente ativas para inativas). Impõem perdas concretas para determinados
+grupos sociais e ganhos incertos para outros.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – SEPOG-RO – Especialista - 2017)
+Correlacione as tipologias listadas a seguir aos seus respectivos conceitos.
+(...)
+4. Normatizam o funcionamento de serviços públicos ou a oferta de recursos
+públicos. São concretizadas por meio de decretos, portarias, ordens e proibições. As
+normas produzidas podem tratar a comunidade de forma isonômica ou, por vezes,
+atender a interesses mais restritos.
+( ) Políticas Distributivas
+( ) Políticas Redistributivas
+( ) Políticas Constitutivas
+( ) Políticas Regulatórias
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – SEPOG-RO – Especialista - 2017)
+Correlacione as tipologias listadas a seguir aos seus respectivos conceitos.
+(...)
+Assinale a opção que mostra corretamente a correlação, de cima para baixo.
+a) 1, 2, 3 e 4.
+b) 1, 3, 2 e 4.
+c) 1, 4, 3 e 2.
+d) 1, 2, 4 e 3.
+e) 1, 3, 4 e 2.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Políticas Públicas
+Quanto ao papel nas relações sociais
+
+                                        visam definir regras e procedimentos que regulem comportamento dos atores para atender
+                      Regulatória         interesses gerais da sociedade. Não visam benefícios imediatos para qualquer grupo. Por
+                                                             exemplo: ordens, proibições, portarias, decretos, etc.
+
+   Quanto aos
+  impactos que
+  podem causar
+                                       visam distribuir benefícios individuais. Relacionadas à alocação de recursos. Costumam ser
+ aos beneficiários    Distributivas
+                                                                    instrumentalizadas pelo clientelismo
+ ou ao seu papel
+   nas relações
+      sociais
+
+                                       visam redistribuir recursos entre grupos sociais distintos. Buscando certa equidade, retiram
+                     Redistributivas
+                                                     recursos de um grupo para beneficiar outros, o que provoca conflitos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (CESPE – TCU – Auditor Federal de Controle Externo)
+Quanto aos seus impactos sobre as relações sociais, as políticas públicas podem ser
+classificadas como distributivas, redistributivas ou regulatórias.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (QUADRIX – CFP – Analista Técnico)
+Alocação de recursos; ordens, proibições, decretos e portarias; e divisão dos
+recursos em dois grupos distintos são características das políticas:
+a) Estratégica, normativa e distributiva.
+b) Concessão, legislativa e divisória.
+c) Distributiva, regulatória e redistributiva.
+d) Redistributiva, normativa e concessão.
+e) Distributiva, legislativa e concessão.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Tipos de Políticas Públicas
+Quanto à natureza ou grau de intervenção
+
+                         Estrutural         buscam interferir em relações estruturais como renda, emprego, propriedade, etc.
+
+ Quanto à natureza
+  ou ao grau de
+   intervenção
+                         Conjuntural
+                                          são políticas que tem por objetivo intervir sobre uma situação temporária e imediata.
+                        (Emergencial)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Tipos de Políticas Públicas
+Quanto à abrangência dos possíveis benefícios
+
+                    Universais                                   são para todos os cidadãos
+
+    Quanto à
+   abrangência                   são para um segmento específico da população, caracterizado por um fator determinado (idade,
+                   Segmentais
+  dos possíveis                                                 condição física, gênero etc.)
+    benefícios
+
+                  Fragmentadas           são destinadas a grupos sociais específicos dentro de determinado segmento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Tipos de Políticas Públicas
+Setorializada x Territorializada x Vertical x Horizontal
+
+
+                                                        Trata-se de uma delimitação temática. Ou seja, a delimitação das políticas
+                              Setorializadas
+                                                                              públicas ocorre por “temas”.
+
+                                                       Trata-se de uma delimitação geográfica. Ou seja, a delimitação das políticas
+                             Territorializadas
+                                                              públicas ocorre por “área geográfica” (circunscrição territorial).
+         Setorializada x
+        Territorializada x
+           Vertical x
+           Horizontal
+                                                         são políticas baseadas em estruturas organizacionais "hierarquizadas"
+                                Verticais              relativamente simples e, normalmente, conduzidas a partir de diretrizes mais
+                                                                                        amplas.
+
+                                                          Também chamadas de políticas públicas mutuamente integradas, as
+                                                           políticas horizontais são desenvolvidas entre partes de uma mesma
+                               Horizontais
+                                                        organização ou por organizações que se encontram em um mesmo “nível
+                                                                                       hierárquico”.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (Prefeitura do Rio de Janeiro – Consultor)
+O tipo de políticas públicas chamadas de mutuamente integradas e que são
+desenvolvidas entre partes de uma mesma organização ou por organizações
+situadas hierarquicamente em um mesmo âmbito, como por exemplo as políticas de
+combate ao tráfico de drogas no Mercosul, são as do tipo:
+a) verticais
+b) horizontais
+c) setorializadas
+d) territorializadas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – IPHAN – Analista - 2018)
+A fim de atender demandas sociais, a intersetorialidade requer capacidade de
+negociação e intermediação de conflitos para a resolução de um problema coletivo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Tipos de Políticas Públicas
+Sociais x Macroeconômicas x Administrativas x Específicas
+
+
+                                                       São as políticas que ganham mais destaque. Envolvem as políticas
+                               Sociais                 públicas relacionadas à educação, saúde, habitação, previdência
+                                                                               social, entre outras
+
+                                                         Tratam-se das políticas públicas que englobam assuntos fiscais,
+                          Macroeconômicas
+                                                                monetários, cambiais, industriais e comerciais
+       Sociais x
+   Macroeconômicas x
+    Administrativas x
+      Específicas
+                                                      São as políticas públicas que envolvem ações para a descentralização
+                           Administrativas
+                                                           da tomada de decisões, democracia e participação social
+
+                                                         Tratam-se das políticas públicas relacionadas ao meio ambiente,
+                        Específicas (Setoriais)       cultura, agrárias, direitos humanos, mulheres, negros, jovens, entre
+                                                                                       outras
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+                        (FCC – AL-AP – Auxiliar Legislativo - 2020)
+As políticas públicas dizem respeito ao conjunto de atividades que proporcionam
+sustentação para que o Estado, por meio da Administração pública, consolide um
+conjunto de objetivos relacionados ao desenvolvimento. Políticas Públicas inerentes
+à democracia e à participação social são consideradas do tipo:
+a) Específicas.
+b) Sociais.
+c) Macroeconômicas.
+d) Setoriais.
+e) Administrativas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+
+
+                           Secchi                 Souza                     Saraiva       Howlett e Ramesh
+
+
+                        Identificação do                                                  Construção da agenda
+                                           Definição de agenda       Formação da Agenda
+                           problema
+                                             Identificação de                             Formulação da política
+                   Formação da agenda                                      Elaboração
+                                               alternativas
+                        Formulação de                                Formulação (Tomada    Tomada de decisão
+                                           Avaliação das opções
+                         alternativas                                    de Decisão)
+                                                                                             Implementação
+                    Tomada de decisão      Seleção das opções           Implementação
+
+                                                                                                Avaliação
+                        Implementação        Implementação                  Execução
+                                                                                                    -
+                           Avaliação            Avaliação              Acompanhamento
+                           Extinção                  -                     Avaliação                -
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Ciclo de Políticas Públicas
+
+                                                   Construção da
+                                                      agenda
+
+                                                                           Formulação da
+                        Avaliação
+                                                                              política
+
+                                                                     Tomada de
+                               Implementação
+                                                                      decisão
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (FGV – Câmara de Aracajú-SE – Analista - 2021)
+O conceito de política pública modificou-se ao longo das últimas décadas.
+Atualmente considera-se que as políticas públicas têm uma natureza bastante
+complexa e controversa. O ciclo clássico de políticas públicas que englobava três
+etapas foi ampliado, no sentido de se compreender melhor seu processo.
+Considerando essa nova perspectiva, as fases e a respectiva ordem de
+desenvolvimento das políticas públicas são:
+a) agenda, formulação, estratégia, execução, implementação e monitoramento;
+b) formação da agenda, decisão de implementação, execução e monitoramento;
+c) agenda, elaboração, formulação, implementação, execução, acompanhamento e
+avaliação;
+d) formulação, execução, implementação, acompanhamento e avaliação;
+e) agenda, formulação, execução, monitoramento e avaliação.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – SEPOG-RO – Especialista – 2017)
+A literatura aponta as principais etapas ou fases para o processo de formulação de
+políticas públicas.
+1. Identificação do problema
+2. Construção da agenda
+3. Formulação de alternativas (políticas públicas)
+4. Tomada de decisão
+5. Implementação
+6. Avaliação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – SEPOG-RO – Especialista – 2017)
+(...)
+Assinale a opção que descreve como ficou conhecida essa dinâmica.
+a) Ciclo de políticas públicas.
+b) Manual de políticas públicas.
+c) Problema público.
+d) Diagnóstico situacional.
+e) Decisão política.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TRE-PI – Analista Judiciário – 2017)
+A partir da predefinição do problema, o processo ou ciclo de políticas públicas
+contempla os seguintes momentos: agenda, elaboração, formulação,
+implementação, execução, acompanhamento e avaliação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – ABIN – Oficial de Inteligência – 2018)
+A extinção é considerada a última fase do ciclo de políticas públicas porque trata da
+reflexão sobre os limites das políticas públicas, seu esgotamento e sua substituição
+por novas políticas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TCE-PE – Analista de Gestão – 2017)
+A última etapa do ciclo de políticas públicas é a avaliação, que consiste na
+mensuração de resultados e de impactos com o propósito de compará-los às metas
+originais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – MPC-PA – Analista Ministerial – 2019)
+O ciclo de políticas públicas é composto, em sua totalidade, apenas pelas etapas
+sequenciais de identificação do problema, construção da agenda, tomada de decisão
+e avaliação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Construção da agenda (Formação da Agenda)
+
+ Nessa fase, o que se busca é identificar os problemas públicos que podem ser solucionados
+ por meio das políticas públicas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de agenda (Coob)
+
+                     Agenda Política    conjunto de problemas ou temas que a comunidade política percebe como merecedor de
+                   (agenda sistêmica)                                   intervenção pública
+
+ Tipos de agenda
+      (Coob)
+                    Agenda Formal
+                        (agenda           agenda que elenca os problemas ou temas que o poder público já́ decidiu enfrentar.
+                     institucional)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de agenda (Kingdon)
+
+
+                      Agenda Não
+                                        agenda que contém uma lista de assuntos que são reconhecidos pela sociedade em geral como
+                     Governamental
+                                                                                “problemas”
+                   (agenda sistêmica)
+
+ Tipos de agenda       Agenda
+                                                      agenda que inclui os problemas que merecem atenção do governo.
+    (Kingdon)       Governamental
+
+                      Agenda de
+                    Decisão (agenda                        agenda que inclui a lista dos problemas a serem decididos.
+                       decisória)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Ciclo de Políticas Públicas
+Condições para que um problema “entre” na agenda
+
+                             Atenção
+
+     Condições para que
+        um problema       Resolutividade
+      “entre” na agenda
+
+                          Competência
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Ciclo de Políticas Públicas
+Teoria dos Fluxos Múltiplos
+
+                                   Fluxo dos         esse fluxo focaliza os problemas públicos. Os problemas
+                                   problemas          públicos entram na agenda quando se entende que deve
+                                                                 ser feito algo para solucioná-los.
+
+                                                    esse fluxo focaliza as soluções/alternativas. Um grupo de
+                   Teoria de                           especialistas (conhecidos como policy communities)
+                    Fluxos     Fluxos de soluções
+                   Múltiplos                        desenvolvem um conjunto de soluções e alternativas para
+                                                                        problemas públicos.
+
+
+                                                     esse fluxo focaliza a política propriamente dita. Tratam-
+                                                     se das negociações e barganhas que ocorrem entre os
+                                 Fluxo político           políticos. Dependendo desse “jogo de disputas”,
+                                                      determinados temas podem entrar na agenda, enquanto
+                                                                      outros temas ficam de fora.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Ciclo de Políticas Públicas
+Teoria dos Fluxos Múltiplos – Janelas de Oportunidade
+
+                                             Fluxo de
+                                             soluções
+
+                                               Janela de
+                                             Oportunidade
+
+                               Fluxo de                      Fluxo
+                              problemas                     Político
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+                        (ESAF – CGU – Analista – ADAPTADA)
+De acordo com a literatura em políticas públicas, agenda governamental consiste
+em um conjunto de temas que, em dado momento, são alvo de séria atenção tanto
+por parte das autoridades governamentais como de atores fora do governo mas
+estreitamente associadas às autoridades. Sobre a formação ou construção da
+agenda de políticas públicas, pode-se afirmar que depende de uma diferenciação
+entre o que é uma situação e o que é um problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (VUNESP – Prefeitura de São Paulo-SP – 2016)
+Observe a figura.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (VUNESP – Prefeitura de São Paulo-SP – 2016)
+A figura esquematiza algumas das ideias do modelo de John kingdon que interpreta
+a formação da agenda de políticas públicas, demonstrando que
+a) uma janela de oportunidade é a possibilidade de convergência dos três fluxos
+(problema, solução e condições políticas) que pode resultar na formação de agenda.
+b) o surgimento de uma política pública independe da confluência de problemas,
+soluções e condições políticas favoráveis.
+c) as condições políticas (fluxo da política) dependem da solução (fluxo de solução).
+d) janelas de oportunidades são situações frequentes e permanecem abertas por
+um longo tempo.
+e) a evidência de um problema público (fluxo dos problemas) é constante ao longo
+do tempo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Formulação das políticas públicas (Formulação de Alternativas)
+
+A etapa de formulação de políticas públicas envolve o estabelecimento de objetivos, bem
+como o desenvolvimento, seleção e especificação das alternativas consideradas mais
+convenientes para solucionar determinado problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Formulação das políticas públicas (Formulação de Alternativas)
+
+A etapa de formulação de políticas públicas envolve o estabelecimento de objetivos, bem
+como o desenvolvimento, seleção e especificação das alternativas consideradas mais
+convenientes para solucionar determinado problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Formulação das políticas públicas (Formulação de Alternativas)
+
+                                Diagnóstico do problema
+
+
+                                          Objetivo
+
+      Para o IPEA, a fase              Público-alvo
+     de caracterização das
+       políticas públicas
+     envolve as seguintes
+              fases:             Meios e Instrumentos
+
+
+                             Atores e Arranjo Institucional
+
+
+                                   Definição de Metas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Ciclo de Políticas Públicas
+Modelos de Formulação/Análise de Políticas Públicas
+
+
+                                                                enfatiza o papel do Estado na concepção e implementação das políticas
+                                                                                               públicas
+
+                        Institucional Clássica
+                                                               instituições governamentais são vistas como padrões estruturados de
+                                                                                        comportamento
+
+     Modelos de                                               instituições, além de estruturarem políticas, pautam o comportamento de
+  Formulação/Aná                                                                            atores sociais
+  lise de Políticas
+      Públicas          Neoinstitucionalista
+
+                                                                   atores políticos são dirigidos por deveres e papéis institucionais
+
+                             Processual
+                                                                                      foco no processo político
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Ciclo de Políticas Públicas
+Modelos de Formulação/Análise de Políticas Públicas
+
+                                                             políticas públicas podem ser vistas como resultado da articulação
+                                                         organizada de individuas ou organizações com interesses convergentes
+                        Grupos de Interesse
+
+                                                                              Grupo de interesse e Grupo de pressão
+
+                                                         política pública resulta do cumprimento eficiente de metas metodológica e
+     Modelos de                                                                    racionalmente predefinidas
+    Formulação/An
+       álise de              Racional
+       Políticas
+       Públicas                                             a racionalidade leva à elevação da eficiência na aplicação de recursos
+                                                                           para obtenção de resultados otimizados
+
+                                                           a política pública é resultado da manifestação do sistema político para
+                                                                 atender às necessidades e forças originadas na sociedade
+                             Sistêmica
+                                                              As demandas e forças externas são os inputs. O sistema político
+                                                             representa o meio de processamento de meios para atendê-las. E a
+                                                                        política pública, por fim, representa o output
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (CONSULPLAN – Câmara de Belo Horizonte-MG – 2018)
+A formulação de políticas públicas consiste, em linhas gerais, num processo de
+encontrar um conjunto de possíveis políticas para solução de determinado
+problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Tomada de decisões
+
+A tomada de decisões é a fase em que os agentes políticos escolhem (dentre as alternativas
+disponíveis) aquela alternativa que eles entendem ser a melhor solução para o problema.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Tomada de decisões                                    considera que o responsável por tomar as decisões possui informações completas e a
+                                                          capacidade plena para processá-las, sendo capaz, ainda, de compreender as
+                            Modelo Racional              consequências exatas de cada decisão. O objetivo é optar por políticas em que os
+                        (Racional-compreensivo)        ganhos (benefícios) superem os custos, e evitar aquelas políticas em que os custos
+                                                     sejam maiores do que os ganhos (benefícios). O foco está em buscar as alternativas mais
+                                                                                          eficientes.
+
+                                                      busca-se solucionar os problemas de maneira gradual. O modelo incremental leva em
+                                                        consideração os “custos” das decisões e também leva em consideração que nem
+                          Modelo Incremental         sempre se tem todas as informações disponíveis. Portanto, as decisões devem ser,
+                                                     muitas vezes, incrementais, de pequena escala, em processos de “ajustamento mútuo
+                                                                                     entre os parceiros”.
+       Modelos de
+       Tomada de
+        Decisão
+                                                       De acordo com esse modelo, existem 02 tipos de decisões, quais sejam: as decisões
+                                                                     ordinárias/incrementais (decisões do dia a dia) e decisões
+                            Mixed-scanning
+                                                     fundamentais/estruturantes (decisões estratégicas, que estabelecem os rumos básicos
+                           (Sondagem mista)
+                                                        das políticas públicas em geral). O mixed-scaning é um modelo misto que envolve
+                                                                    esses 02 tipos de decisões (incrementais e estruturantes).
+
+                                                     o ponto central desse modelo é que as soluções/alternativas procuram os problemas
+                        Garbage can (lata de lixo)
+                                                                                      (e não o contrário).
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (IBFC – Prefeitura de Cuiabá – 2019 - ADAPTADA)
+A tomada de decisão é a função de política pública em que se decide tomar um
+curso de ação (ou não ação) para tratar de um problema de políticas. Cientistas de
+políticas públicas usam uma variedade de modelos para capturar a dinâmica da
+tomada de decisão de políticas públicas. Acerca desse assunto, julgue a assertiva a
+seguir.
+O modelo de decisão “racional” analisa a tomada de decisão pública como um
+processo com restrição de tempo e informação, caracterizado por conflitos,
+negociações e compromisso entre os tomadores de decisão com interesses próprios
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CONSULPLAN – Câmara de Belo Horizonte-MG – 2018)
+Um modelo de construção de políticas públicas afirma que a compreensão do
+problema e das soluções é limitada, e as organizações operam em um sistema de
+tentativa e erro. Em síntese, o modelo defende que “soluções procuram por
+problemas”. Este importante conceito, trazido na década de 70 por Cohen, March e
+Olsen, denomina-se:
+a) garbage can (“lata de lixo”).
+b) policy makers (“decisores de política”).
+c) multiple streams (“múltiplas correntes”).
+d) advocacy coalition (“coalisão de defesa”).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Implementação
+
+  A implementação é a etapa em que a política pública é “retirada do papel”. Ou seja, é
+  nessa fase que os planos e as decisões são colocados em prática.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Modelos de Implementação de Políticas Públicas
+
+                            Modelo top-down (de cima para baixo):
+                            é caracterizado pela clara separação entre o momento da
+                            tomada de decisão (realizado pelos “agentes políticos”,
+                            tomadores de decisão) e o momento de implementação
+                            (realizado pela “burocracia”, executores).
+
+                                      Modelo bottom-up (de baixo para cima):
+                                      esse modelo é caracterizado pela maior liberdade dos
+                                      “burocratas” e de outros atores em auto-organizar e
+                                      modelar a implementação de políticas públicas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+Ciclo de Políticas Públicas
+Avaliação das políticas
+
+ “A avaliação é a fase do ciclo de políticas públicas em que o processo de implementação e o
+ desempenho da política pública são examinados com o intuito de conhecer melhor o
+ estado da política e o nível de redução do problema que a gerou. É o momento-chave para
+ a produção de feedback sobre as fases antecedentes.” (Secchi)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+                        (CESPE – EBC – Analista)
+Na avaliação de políticas públicas, são aceitos como métodos válidos tanto os
+quantitativos quanto os qualitativos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Avaliação x Monitoramento
+
+Trata-se de “um processo contínuo ao longo da implementação, realizado pelo próprio
+órgão responsável pela política pública. Tem como objetivo controlar a entrega de
+insumos, o calendário de trabalho e verificar se os produtos estão de acordo com as
+metas.”
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE/CEBRASPE – PGE-PE – Analista – 2019)
+A atividade de monitoramento constitui um processo contínuo que retroalimenta o
+ciclo de ajustes de uma política.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+                         Avaliação Ex
+                        ante (Avaliação      Trata-se de uma avaliação “inicial”, que ocorre antes da implementação.
+                         Diagnóstica /                          Busca-se identificar a situação.
+                        Controle Prévio)
+
+                            Avaliação In
+                        itinere (Avaliação
+         Quanto ao           Formativa /
+        momento de            Controle          Trata-se de uma avaliação que ocorre durante a implementação.
+         realização       Concomitante /
+                              Avaliação
+                           Intermediária)
+
+
+                         Avaliação Ex
+                        post (Avaliação
+                          Somativa /          Trata-se de uma avaliação “final”, que ocorre após da implementação.
+                           Controle
+                          Posterior)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (CESPE – TJ-PA – Analista Judiciário – 2020)
+Julgue o item a seguir, a respeito da tipologia da avaliação de políticas públicas.
+
+Avaliação ex post é uma avaliação concebida e realizada em conjunto com a fase de
+planejamento e com o processo de implementação, sendo efetivada quando a
+política, o programa ou o projeto se encontram em fase inicial.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE/CEBRASPE – CGE-CE – Auditor – 2019)
+O modelo de avaliação com foco específico na identificação e eliminação de erros de
+formulação e de desenho em políticas públicas, antes de sua implementação, é
+denominado avaliação
+a) ex-post.
+b) de processos.
+c) de custo-efetividade.
+d) de desempenho.
+e) ex-ante.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+                           Avaliação
+                           Somativa      Busca-se obter informações necessárias para basear a tomada de decisão referente à
+                         (avaliação de                      continuidade de um programa/política pública
+                           conteúdo)
+
+
+              Quanto à
+               função
+
+
+                                             busca-se obter informações para a melhoria do objetivo. É realizada durante o
+                          Avaliação
+                          Formativa      processo de implementação/execução do programa/política pública, com o objetivo de
+                                                       fornecer informações sobre o “andamento” do programa.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+                        (CESPE – TJ-PA – Analista Judiciário – 2020)
+Julgue o item a seguir, a respeito da tipologia da avaliação de políticas públicas.
+
+Avaliação de conteúdo — tipo de avaliação com foco nos resultados e impactos —
+destina-se a informar os gestores para que estes decidam se a política ou o
+programa devem continuar, ser interrompidos ou ser alterados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE/CEBRASPE – SLU-DF – Analista – 2019)
+A avaliação formativa afere os resultados obtidos pelo conjunto das ações
+desenvolvidas no âmbito de determinado programa.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+
+                                  avaliação realizada por indivíduos que possuem
+               Avaliação
+                              envolvimento direto ou indireto com o programa/política
+                Interna
+                                                       pública
+
+
+               Avaliação      Trata-se da avaliação realizada por indivíduos “de fora” da
+                Externa         instituição responsável pelo programa/política pública
+  Quanto ao
+   agente
+  avaliador
+                               Trata-se da avaliação realizada tanto por indivíduos “de
+               Avaliação
+                              dentro” da instituição responsável pelo programa/política
+                 Mista
+                               pública, quando por indivíduos “de fora” da instituição.
+
+
+                                 Trata-se de uma avaliação que envolve, no processo
+               Avaliação
+                               avaliativo, a integração dos usuários (beneficiários dos
+              Participativa
+                                     programas/políticas públicas) e dos gestores.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (AOCP – EBSERH – Assistente Social – 2017)
+“É realizada por pessoas que não integram o quadro da instituição agente do
+programa. Supostamente são especialistas com experiência e conhecimento de
+metodologia de avaliação”. O enunciado se refere à
+a) avaliação participativa.
+b) avaliação mista.
+c) avaliação interna.
+d) avaliação composta.
+e) avaliação externa.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+             Avaliação Conceitual    tem por objetivo analisar a concepção do programa/políticas pública no
+                   (Design)               que tange a sua racionalidade, coerência e consistência.
+
+
+                Avaliação do
+                                     tem por objetivo analisar a maneira pela qual o programa/políticas pública
+ Quanto ao      Processo de
+                                        é gerido e executado, medindo a capacidade de uma Entidade em
+ conteúdo     Implementação e
+                                    relação à concepção, à implementação, à monitorização e à avaliação.
+             Gestão do Programa
+
+
+                Avaliação de           tem por objetivo analisar o nível em que o programa/política pública
+                 Impactos e            alcança os objetivos ou atinge o valor de parâmetros ou critérios
+                 Resultados                            definidos e os custos disponíveis.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+
+                  Avaliação de   tem por objetivo analisar o grau de sucesso da política pública em relação ao alcance
+                     Metas                                 das metas (objetivos) propostas.
+
+   Quanto à       Avaliação de   tem por objetivo identificar os efeitos produzidos sobre os beneficiários da política
+  metodologia       Impacto                                               pública.
+
+                                 tem por objetivo investigar o alcance e “cobertura” de um programa/políticas pública, o
+                  Avaliação de
+                                     grau em que se está alcançando a população beneficiária e, principalmente, o
+                   Processos
+                                                    acompanhamento de seus processos internos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Avaliação
+
+  Avaliação    tem por objetivo examinar a conformidade dos atos do gestor com a lei ao conduzir a política
+   Jurídica                                  pública, o programa ou o projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (CESPE – TJ-PA – Analista Judiciário – 2020)
+Julgue o item a seguir, a respeito da tipologia da avaliação de políticas públicas.
+
+Avaliação jurídica consiste no exame da conformidade dos atos do gestor com a lei
+ao conduzir a política pública, o programa ou o projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas                                            Economicidade
+
+Critérios, Indicadores e Padrões                                       Produtividade
+
+
+                                                                    Eficiência econômica
+
+
+                          Critérios                               Eficiência administrativa
+
+
+                                                                          Eficácia
+
+
+                                                                          Equidade
+
+
+                                                                         Efetividade
+          Critérios,
+        Indicadores e
+           Padrões                                                  Indicadores de input
+
+                         Indicadores                                Indicadores de output
+
+                                                                  Indicadores de resultado
+
+
+                                                                     Padrões absolutos
+
+                           Padrões                                   Padrões históricos
+Prof. Stefan Fantini
+ @prof.stefan.fantini                                                  Padrões normativos
+                                      
+
+
+---
+
+                        (CESPE – TCU – Auditor Federal de Controle Externo)
+A avaliação de uma política pública compreende a definição de critérios, indicadores
+e padrões.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Desfechos
+
+
+                 Critérios            Indicadores                Padrões           Desfechos
+
+
+                   • Economicidade     • Indicadores de            • Padrões        • Continuação
+                                         input                       absolutos
+                   • Produtividade       (entradas no                               • Reestruturação
+                                         sistema)                  • Padrões          marginal
+                   • Eficiência
+                     econômica                                      históricos
+                                       • Indicadores de                             • Extinção
+                   • Eficiência          output                    • Padrões
+                     administrativa     (produtividade)              normativos
+                   • Eficácia          • Indicadores de
+                                         resultado
+                   • Equidade            (outcome)
+                   • Efetividade
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (AOCP – UFPB – Tecnólogo – Gestão Pública - 2019)
+São critérios para a fase de avaliação: Economicidade, Eficiência econômica,
+Eficiência administrativa, Eficácia, Efetividade e Equidade. Sobre esses critérios, é
+correto afirmar que
+a) Economicidade: trata da relação entre recursos e produtos (produtividade).
+b) Efetividade: atendimento e satisfação das necessidades e anseios do público-alvo.
+c) Eficácia: trata da conformidade da execução aos métodos estabelecidos.
+d) Eficiência Econômica: trata da utilização dos recursos (inputs).
+e) Equidade: atendimento do alcance das metas estabelecidas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FGV – TJ-GO – Analista Judiciário - 2014)
+A avaliação da política pública é o processo de julgamentos deliberados sobre a
+validade de propostas para a ação pública, bem como sobre o sucesso ou a falha de
+projetos colocados em prática. Fazem parte desse processo elementos, critérios,
+indicadores e também padrões, como os normativos, que são:
+a) as metas qualitativas ou quantitativas estabelecidas anteriormente à
+implementação da política pública;
+b) os valores ou descrições, já alcançados no passado, que facilitam a comparação
+por períodos e geram informações sobre declínios ou melhoras;
+c) são artifícios (proxies) que podem ser criados para medir input, output e
+resultado (outcome);
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TJ-GO – Analista Judiciário - 2014)
+(...)
+d) a visualização dos erros anteriores à tomada de decisão, a fim de detectar
+problemas mal formulados, objetivos mal traçados e otimismos exagerados;
+e) as metas qualitativas ou quantitativas estabelecidas com base em um standard
+ideal.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Controle Censitário x Controle por Amostragem
+
+                             Controle Censitário
+                        envolve a análise de todos os itens
+                              envolvidos no processo              Controle por Amostragem
+                                                               envolve a análise de apenas uma parte
+                                                               (de uma “amostra”) dos itens envolvidos
+                                                                          em um processo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (CESPE – SECONT-ES – Auditor do Estado)
+O censo é o oposto da técnica de amostragem e deve ser utilizado sempre que
+houver necessidade de alta precisão dos dados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Métodos Quantitativos x Métodos Qualitativos
+
+                            Métodos Quantitativos
+                                 (objetivos)
+                        São capazes de medir um resultado de          Métodos Qualitativos
+                                  forma objetiva                          (subjetivos)
+                                                                     são métodos mais subjetivos
+                                                                 (dependem do julgamento individual de
+                                                                            cada pessoa)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (CESPE – EBC – Analista)
+Na avaliação de políticas públicas, são aceitos como métodos válidos tanto os
+quantitativos quanto os qualitativos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Ciclo de Políticas Públicas
+Tipos de Análises
+
+                        Análise Custo-Benefício (ACB)
+                           -Custos e Resultados podem ser
+                         traduzidos em unidades monetárias
+                                                                       Análise Custo-Efetividade (ACE)
+                        -Utilizado, normalmente, para políticas
+                                      econômicas                     -Resultados não podem ser traduzidos em
+                                  -Análise quantitativa                          unidades monetárias
+                                                                        -Utilizado, normalmente, para políticas
+                                                                                         sociais.
+                                                                                   -Análise qualitativa
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                
+
+
+---
+
+                        (FMP – TCE-RS – Auditor Público Externo - ADAPTADA)
+O método de Análise Custo-Benefício compara os custos (monetários) com os
+benefícios econômicos do projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Ciclo de Políticas Públicas
+Métodos de Coleta de Dados
+
+                           Pesquisa documental
+
+                              Estudo de Caso
+
+                                 Pesquisa
+    Métodos de
+  Coleta de Dados
+                           Pesquisa Experimental
+
+                        Pesquisa Quase-Experimental
+
+                         Pesquisa Não-Experimental
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Ciclo de Políticas Públicas
+Técnicas de Coleta de Dados
+
+                            Questionários
+
+                              Entrevistas
+    Técnicas de
+  Coleta de Dados
+                          Observação Direta
+
+                        Uso de dados Existentes
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Ciclo de Políticas Públicas
+Métodos de Análise de Dados
+
+                        Tabulação de frequências
+    Métodos de
+    Análise de          Análise gráfica de dados
+      Dados
+                           Análise qualitativa
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                  
+
+
+---
+
+Processo de Políticas Públicas
+                  Fases                                                   A fase envolve:
+                              -Pensamento criativo sobre o problema.
+                              -Definição de objetivos.
+                Iniciação
+                              -Criação de opções.
+                              -Tentativas e exploração preliminar de conceitos, demandas e possibilidades.
+                              -Investigação de conceitos e de demandas.
+                              -Estimativas de impactos.
+                Estimação     -Exame normativo das consequências prováveis.
+                              -Delineamento de um programa.
+                              -Estabelecimento de critérios de desempenho esperado e de indicadores.
+                              -Debates sobre as possíveis opções.
+                              -Compromissos, negociações e ajustes de interesses.
+                              -Redução de incertezas sobre asopções.
+                 Seleção
+                              -Integração de elementos de decisão não racionais e de questões ideológicas.
+                              -Decisão entre as opções.
+                              -Atribuição de responsabilidades para a execução.
+                              -Desenvolvimento de regras, estruturas de regulação e linhas gerais para execução das decisões.
+                              -Mudança nas decisões para se ajustarem às restrições operacionais.
+              Implementação   -Transformação das decisões em termos operacionais.
+                              -Elaboração de um programa com objetivos e padrões de desempenho, incluindo cronogramas de operações.
+
+                              -Comparação entre o desempenho real e o desempenho esperado em termos dos critérios estabelecidos
+                Avaliação     previamente.
+                              -Atribuição de responsabilidades em relação às discrepâncias observadas no desempenho.
+                              -Determinação dos custos, das consequências e dos benefícios decorrentes das ações adotadas na política.
+                Conclusão     -Comparar o que foi necessário e o que foi requisitado.
+Prof. Stefan Fantini          -Especificar os problemas detectados no momento da conclusão.
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (CESPE/CEBRASPE – TJ-PA – Analista Judiciário – 2020)
+As políticas públicas são elementos fundamentais para a formação de programas de
+ação governamental. Esse processo pode ser sintetizado em seis fases, entre as
+quais se inclui a fase de seleção, a qual envolve a
+a) definição de objetivos.
+b) investigação de conceitos e demandas.
+c) definição das estimativas de impacto.
+d) transformação das decisões em termos operacionais.
+e) integração de elementos de decisão não racionais e ideológicos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Modelo Lógico
+
+  O modelo lógico consiste em uma “representação gráfica da teoria de funcionamento de
+  um programa, benefício, serviço ou política pública que retrata as relações entre os
+  componentes necessários a sua implementação e os efeitos esperados sobre a
+  população.” (Sousa)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Modelo Lógico
+Componentes                                          Referem-se aos recursos do setor público (orçamentários
+                                    Insumos           ou não) necessários para atingir os objetivos da política
+                                                                             pública.
+
+                                                       São as ações que combinam os recursos disponíveis
+                                   Processos          para produzir bens e serviços a fim de atacar as causas
+                                                                           do problema.
+
+                   Componentes                       São os bens ou serviços resultantes de um processo,
+                  (elementos) do   Produtos          ou seja, as entregas (outputs) que a política pública faz
+                  modelo lógico                       para atacar as causas do problema e gerar resultados.
+
+                                                     São mudanças incidentes sobre as causas do problema,
+                                   Resultados
+                                                           que decorrem de um ou mais produtos.
+
+                                                      Mudança de longo prazo no problema que a política
+                                                     busca enfrentar, alinhado aos objetivos da política. Ou
+                                   Impactos
+                                                     seja, tratam-se das contribuições da política pública para
+                                                                 determinadas mudanças sociais.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (CESPE/CEBRASPE – MPE-CE – Analista – 2020)
+Modelo lógico é uma metodologia de formulação de políticas públicas composta
+pelos seguintes elementos: insumos, atividades, produtos, resultados e impactos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+---
+
+---

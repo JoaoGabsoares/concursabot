@@ -1,0 +1,1847 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 19_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: Índice
+artigos_citados:
+- Art. 158.
+- art. 153
+- art. 159
+- art. 162
+- art. 167
+- art. 177
+- art. 198
+- art. 32
+---
+
+# Índice
+
+Índice
+1) Repartição de Receitas Tributárias
+
+
+2) Questões Comentadas - Repartição de Receitas Tributárias - FGV
+
+
+3) Lista de Questões - Repartição de Receitas Tributárias - FGV
+
+
+4) Resumo - Repartição de Receitas Tributárias
+
+                                                                                                                                                                                          2
+                                                                                                                                                                                         48
+
+
+---
+
+        REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS
+        Colega concurseiro(a), o tema repartição das receitas tributárias é cobrado de forma bastante
+tranquila em provas de concurso público. Se o candidato souber as características gerais e decorar as
+repartições (e os respectivos percentuais), acerta tudo!
+       Portanto, vamos dividir nosso estudo desta forma: primeiramente, veremos alguns conceitos gerais
+sobre o assunto e depois partiremos para as repartições das receitas propriamente ditas. Da forma como
+vamos esquematizar o assunto, tenho certeza de que não ficará difícil!
+       Vamos lá!
+
+Características Gerais
+        Na primeira aula do nosso curso, vimos que, segundo as lições de Luciano Amaro, o Direito
+Tributário abrange o conteúdo dos princípios e normas reguladoras da criação, fiscalização e arrecadação
+dos tributos.
+A repartição das receitas tributárias, por ocorrer em momento posterior à arrecadação, é considerada tema
+de estudo do Direito Financeiro. Contudo, como estamos tratando de repartição de “receita tributária”,
+vamos estudá-la!
+Sobre a repartição de tais recursos, o CTN assevera, no parágrafo único do art. 6º que, ainda que a receita
+dos tributos seja distribuída, no todo ou em parte, a outras pessoas não deixam de pertencer à
+competência daquela a quem a CF/88 a atribuiu. Assim, embora as receitas do ITR possam ser
+completamente destinadas aos Municípios, a competência tributária continua sendo da União.
+
+Nesse sentido, ensina o ilustre Paulo de Barros Carvalho:
+
+     “Não é porque a receita de certo tributo venha a ser distribuída a outras pessoas de direito público (ou privado) que a
+     exação deixa de pertencer à competência de quem a recebeu originariamente.” (CARVALHO, Paulo de Barros. Curso de
+     Direito Tributário. 21ª Ed., Saraiva, 2009, p.251)
+
+Durante o estudo dos impostos previstos na CF/88, pudemos observar que a competência tributária da
+União é muito mais ampla que a dos demais entes federativos. A União ficou responsável pela instituição
+de sete impostos, os Estados, por três, e os Municípios, também por três. Veja, assim, que a União foi mais
+“privilegiada” com recursos tributários do que os demais entes.
+        Nesse contexto, a repartição das receitas tributárias sempre ocorre de entes maiores para entes
+menores. Assim, a União não recebe nada dos demais entes, mas transfere parte de suas receitas para os
+Estados, DF e Municípios. Os Estados, por seu turno, embora não recebam nada dos Municípios, transferem
+a eles parte de suas receitas tributárias.
+       A ideia central da repartição das receitas tributárias é proteger a autonomia financeira dos entes
+federativos menores. A título de curiosidade, muitos municípios pequenos veem na repartição de receitas
+sua principal fonte de recursos, o que denota a importância desse mecanismo de distribuição para a
+sustentação da forma federativa de Estado.
+
+
+                                                                                                                         3
+                                                                                                                         44
+
+
+---
+
+         Outro detalhe a ser destacado é a não repartição das receitas tributárias do Distrito Federal. A
+razão é simples: se a repartição só ocorre para entes menores, e o DF não pode ser dividido em Município
+(CF, art. 32, caput), não há com quem repartir!
+
+        Ainda que em gozo de imunidade tributária, a pessoa jurídica não está dispensada de
+        cumprir obrigações acessórias e de se submeter à fiscalização tributária.
+
+       Destaque-se que a repartição pode ocorrer de duas maneiras: direta e indireta.
+       No primeiro caso, os recursos são recebidos diretamente da União ou dos Estados, sem a presença
+de qualquer intermediário.
+       No segundo, os recursos objeto de repartição são destinados a fundos especiais. A partir daí, o
+direcionamento aos entes federados ocorre com base em critérios estatuídos na própria Constituição
+Federal.
+
+Receitas Repartidas x Receitas não Repartidas
+       É muito importante conhecer os tributos cujas receitas são repartidas, e aqueles que não receberam
+previsão constitucional para repartição dos recursos.
+       Nós estudamos na aula inicial do nosso curso que os impostos são tributos cujo fato gerador é uma
+situação independente de qualquer atividade estatal específica, relativa ao contribuinte. São, portanto,
+tributos não vinculados.
+       Dessa forma, os impostos são a espécie tributária que mais se adequa ao mecanismo de
+repartição com outros entes federativos, já que os recursos arrecadados não são utilizados para custear
+nenhuma atividade estatal específica.
+       Nesse momento, é importante lembrar que, embora os impostos estejam sujeitos ao princípio da
+não afetação, a repartição constitucional das receitas tributárias constitui exceção a esse princípio.
+         Cumpre-nos ressaltar que, além dos impostos, a CIDE-Combustíveis também tem parte de sua
+arrecadação dividida com os Estados, Distrito Federal e Municípios (CF/ art. 159, III, c/c § 4º do mesmo
+artigo).
+       Uma pergunta útil no momento é: quais impostos têm suas receitas repartidas e quais não as têm?
+        Os impostos que possuem receitas repartidas são: IR, IOF sobre o ouro, Impostos Residuais, ITR,
+IPI, IPVA, ICMS. Veremos detalhadamente cada caso no próximo tópico.
+        O mais importante no momento é saber que os impostos municipais não são repartidos, porque,
+como vimos, os Municípios não repartem suas receitas tributárias. Logo, não há repartição de receitas do
+ITBI, IPTU e ISS.
+        Além disso, como vimos, o Distrito Federal, por não ser dividido em Municípios, não tem suas
+receitas tributárias repartidas. Como este ente federativo é competente para instituir, além dos impostos
+
+
+                                                                                                       4
+                                                                                                      44
+
+
+---
+
+municipais, os impostos estaduais, não há repartição da receitas destes (impostos estaduais) quando
+forem instituídos pelo DF.
+       Salientamos, ainda, que o ITCMD (imposto estadual) não possui previsão constitucional para
+repartição de receitas. No âmbito federal, também não há previsão para repartição do II, IE, IGF e IEG.
+
+         Vamos, então, verificar quais são os casos de repartição das receitas tributárias.
+
+Casos de Repartição Tributária na CF/88
+        A maneira mais didática e simplificada que encontramos para ensiná-lo todas as repartições
+tributárias previstas na CF/88 foi por meio de um quadro esquemático de autoria do professor Cláudio
+Borba, com algumas adaptações que julgamos necessárias para torná-lo mais didático:
+
+  Item                  União                          Estados e DF                       Municípios
+
+    1                    IRRF                             100%                                100%
+
+                                                                                                       5
+                                                                                                       44
+
+
+---
+
+2      IOF sobre ouro             30%                                  70%
+
+
+3    Impostos Residuais           20%
+
+
+4    CIDE-Combustíveis            29%                            25% (ou 7,25%)
+
+                           Cobrado p/ União                            50%
+5            ITR
+                          Cobrado p/ Município                        100%
+
+
+6                                                                      50%
+                                 IPVA
+
+
+7                                                                      25%
+                                 ICMS
+      IR (Excluído 1*)
+
+          + IPI + IS
+
+
+8                             21,5% - FPE                          22,5% - FPM
+
+9                             3% para as Regiões Norte, Nordeste e Centro-oeste
+
+                                                                    1% - FPM
+
+                                                                      (Julho)
+                                                                    1% - FPM
+10
+                                                                   (Setembro)
+                                                                    1% - FPM
+
+                                                                   (Dezembro)
+
+                                                                                  6
+                                                                                  44
+
+
+---
+
+   11                                                                                25% (ou 2,5%)
+                      IPI + IS                        10% FPEx
+                                            IBS (Imposto de Competência
+   12                                       Compartilhada entre E/DF/M)
+                                                                                          25%
+
+
+        Observação: Quanto ao item 10, há que se destacar que o montante entregue no mês de
+        dezembro de cada ano foi incluído pela EC 55/2007, o montante entregue no mês de
+        julho de cada ano constitui regra constitucional com o advento da EC 84/2014, e o
+        montante a ser entregue em setembro de cada ano foi instituído pela EC 112/2021.
+
+        As repartições relativas ao IBS e IS foram incluídas pela EC 132/2023 (Reforma Tributária).
+
+       Observe que há 11 formas de repartições tributárias previstas na atual Constituição Federal. As
+setas vermelhas representam o repasse de receitas, sendo que todas as que se iniciam na coluna da União
+representam as receitas repartidas por este ente federado. A seguir, explicaremos cada uma delas! Vamos
+lá!
+1. Item 1 - IRRF
+      Essa repartição tributária diz respeito ao montante de Imposto de Renda Retido na Fonte sobre os
+rendimentos pagos, a qualquer título, pelos Estados, DF e Municípios, inclusive suas autarquias e
+fundações que instituírem ou mantiverem.
+        Assim, quando determinado, Estado faz o pagamento dos salários a seus servidores, é natural que o
+ente fique responsável pela retenção do valor cabível a título de IRPF. Contudo, tais valores retidos não são
+recolhidos aos cofres públicos federais, já que cabem (100%) a cada ente que tenha feito a retenção.
+
+        Se o IRPF foi retido por autarquia ou fundação estadual, por exemplo, cabe ao referido
+        Estado 100% desse valor retido.
+
+Mas há que se destacar o posicionamento do STF, acerca da extensão do termo “rendimentos pagos”,
+previsto na CF/88 (Tema 1130), que abrange também pagamentos realizados a pessoas físicas ou jurídicas
+contratadas para a prestação de bens ou serviços:
+
+        Pertence ao Município, aos Estados e ao Distrito Federal a titularidade das receitas
+        arrecadadas a título de imposto de renda retido na fonte incidente sobre valores pagos
+        por eles, suas autarquias e fundações a pessoas físicas ou jurídicas contratadas para a
+        prestação de bens ou serviços, conforme disposto nos arts. 158, I, e 157, I, da Constituição
+        Federal. (STF, RE 1293453)
+
+
+                                                                                                           7
+                                                                                                          44
+
+
+---
+
+2. Item 2 – IOF sobre o Ouro
+        Essa repartição já havia sido vista, quando do estudo do IOF. Trata-se de disposição específica para o
+IOF incidente sobre o ouro, quando este é definido em lei como ativo financeiro ou instrumento cambial.
+       Nesse caso, cabe aos Estados 30% e aos Municípios 70%, totalizando 100% de repartição tributária.
+3. Item 3 – Impostos Residuais
+       Quando a União fizer uso de sua competência residual, ao instituir os denominados Impostos
+Residuais, 20% da arrecadação total de tais impostos deve ser repartida com os Estados e Distrito Federal.
+4. Item 4 – CIDE-Combustíveis
+      Trata-se do único caso em que outra espécie tributária, que não os impostos, é repartida com os
+demais entes federativos.
+        Do montante arrecadado com a CIDE-Combustíveis, 29% são destinados aos Estados e DF,
+distribuídos na forma da lei, observadas as destinações a que se referem as alíneas “c” e “d” do inciso II do
+§ 4º do art. 177, que trata da CIDE-Combustíveis no texto constitucional. Tais dispositivos mencionam a
+destinação para as seguintes finalidades:
+   ● ao financiamento de programas de infra-estrutura de transportes.
+   ● ao pagamento de subsídios a tarifas de transporte público coletivo de passageiros.
+Vale lembrar que 25% destes 29% são repassados aos Municípios com base nos mesmos critérios definidos
+em lei. Portanto, não estaria errado dizer que aos Municípios cabe 7,25% da CIDE-Combustíveis.
+
+        A participação dos Estados e DF na arrecadação da CIDE não é autoaplicável, dependendo
+        de regulamentação por lei.
+
+5. Item 5 - ITR
+        Essa forma de distribuição de receitas também já foi vista por nós quando estudamos o ITR. A CF/88
+faculta aos Municípios arrecadarem e fiscalizarem o ITR, sendo que, neste casos, os Municípios terão
+direito a 100% do ITR arrecadado em seus territórios.
+       Caso não façam tal opção, cabe a eles 50% do total do imposto cobrado pela União.
+6. Item 6 - IPVA
+       Aos Municípios, cabe a repartição de 50% da arrecadação do IPVA, referente aos veículos
+automotores licenciados em seus territórios, ou, em relação a veículos aquáticos e aéreos, cujos
+proprietários sejam domiciliados em seus territórios:
+
+        Art. 158.
+
+
+                                                                                                            8
+                                                                                                           44
+
+
+---
+
+        (...)
+        III - 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a
+        propriedade de veículos automotores licenciados em seus territórios e, em relação a
+        veículos aquáticos e aéreos, cujos proprietários sejam domiciliados em seus territórios;
+        (Redação dada pela Emenda Constitucional nº 132, de 2023)
+
+7. Item 7 - ICMS
+      O legislador constituinte estabeleceu que 25% do ICMS arrecadado devem ser destinados aos
+Municípios:
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        IV - 25% (vinte e cinco por cento): (Redação dada pela Emenda Constitucional nº 132, de
+        2023)
+        a) do produto da arrecadação do imposto do Estado sobre operações relativas à
+        circulação de mercadorias e sobre prestações de serviços de transporte interestadual e
+        intermunicipal e de comunicação;      (Incluído pela Emenda Constitucional nº 132, de
+        2023)
+        (...)
+
+        Tais recursos devem ser repartidos entre os Municípios de determinado Estado, seguindo as regras
+descritas no parágrafo único do art. 158:
+
+        I - 65%, no mínimo, na proporção do valor adicionado nas operações relativas à circulação
+        de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+        II - até 35%, de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a
+        distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de
+        melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível
+        socioeconômico dos educandos."
+
+Dessa forma, no mínimo 65% do montante de 25% (o que equivaleria a 16,25%) devem ser repartidos na
+proporção do valor adicionado (ou valor agregado) na operações de circulação de mercadorias e prestações
+de serviços realizadas nos respectivos territórios. Portanto, os Municípios que mais geraram arrecadação
+de ICMS receberão uma fatia proporcionalmente maior do ICMS repartido.
+
+        Conforme art. 161, I, da CF/88, cabe à lei complementar definir o conceito de valor
+        adicionado.
+        Atenção! Tome cuidado também, pois este percentual foi alterado com a EC 108/2020!
+        Antes da referida emenda constitucional, a divisão era 3/4 (75%) com base no valor
+
+
+                                                                                                      9
+                                                                                                     44
+
+
+---
+
+         adicionado e 1/4 (25%), com base em lei estadual. Sendo uma alteração, é comum cair
+         em provas! Fique atento!
+
+       O restante, ou seja, no máximo 35% do ICMS a ser repartido, será distribuído com base em critérios
+definidos em lei própria de cada Estado.
+Destaque-se que a nova redação do art. 158, par. único, da CF/88, ainda prevê a seguinte obrigatoriedade
+para a lei estadual que definir os 35%: a distribuição de, no mínimo, 10% com base em indicadores de
+melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico
+dos educandos.
+Então, vamos lá! Faça as contas comigo: se o Estado aufere R$ 1.000.000,00 de receita com o ICMS, deve
+repartir com todos os seus Municípios R$ 250.000,00. Mas quanto vai para o cofre de cada Município?
+    1) no mínimo 65% (R$ 162.500,00) deverá ser repartido com base em valor agregado;
+    2) no máximo 35% (R$ 87.500,00) deverá ser repartido com base no que dispuser a lei estadual;
+    2.1) Mas a lei estadual obrigatoriamente deverá estabelecer (dos 35%), 10% no mínimo, seguindo
+    indicadores relacionados ao ensino. Isso equivaleria a R$ 25.000,00;
+    2.2) Quanto aos 25% restantes (R$ 87.500,00 – R$ 25.000,00) = R$ 62.500,00), o critério de distribuição
+    poderá seguir ou não indicadores relacionados ao ensino.
+Deu pra entender o cálculo? É bem simples, não é mesmo?! Mas, sem preocupações, porque o que deve
+cair na sua prova é apenas o conhecimento dessa divisão em termos percentuais! Ok?
+8. Itens 8, 9 e 10 – IR + IPI + Imposto Seletivo (IS)
+       Veremos os três itens juntamente, para facilitar a compreensão de como funciona a arrecadação
+dos recursos destinados aos fundos especiais. Existem 4 fundos, três dos quais serão vistos nesse tópico (o
+outro será estudado no item 11).
+        A esses fundos são destinados 50% do IPI, do IR e do Imposto Seletivo (IS), excepcionados quanto
+a este o IRPF retido na fonte, que já foi transferido para os Estados, DF e Municípios, com base no Item 1.
+
+         Observação: A EC 132/2023 (Reforma Tributária) passou a prever um novo imposto de
+         competência da União, que é o imposto seletivo, incidente sobre produção, extração,
+         comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio
+         ambiente (CF, art. 153, VIII).
+
+         Apenas a arrecadação federal (e não nacional!) do IR é distribuída aos fundos.
+         Já no caso do IPI e do IS, considera-se a arrecadação nacional.
+
+                                                                                                        10
+                                                                                                        44
+
+
+---
+
+        Dos 50% destinados aos Fundos, 21,5% é destinado ao Fundo de Participação dos Estados e do
+Distrito Federal (FPE) e 22,5% é destinado ao Fundo de Participação dos Municípios (FPM).
+       Na realidade, cabe ao FPM 25,5%, sendo que 1% será entregue no primeiro decêndio do mês de
+julho de cada ano, 1% no primeiro decêndio do mês de setembro de cada ano e 1% no primeiro decêndio
+do mês de dezembro de cada ano a fim de proporcionar melhores condições financeiras aos Municípios, já
+que muitos deles têm o FPM como sua principal fonte de recursos.
+       Além disso, 3% é utilizado para aplicação em programas de financiamento ao setor produtivo das
+Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de
+acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a
+metade dos recursos destinados à Região, na forma que a lei estabelecer.
+
+É importante registrar o art. 91, do CTN, que trata do critério de distribuição do FPM aos Municípios:
+
+        Art. 91. Do Fundo de Participação dos Municípios a que se refere o art. 86, serão
+        atribuídos: (Redação dada pelo Ato Complementar nº 35, de 1967)
+        I - 10% (dez por cento) aos Municípios das Capitais dos Estados; (Redação dada pelo Ato
+        Complementar nº 35, de 1967)
+        II - 90% (noventa por cento) aos demais Municípios do País.        (Redação dada pelo Ato
+        Complementar nº 35, de 1967)
+
+Então, guarde esta informação:
+Municípios das Capitais dos Estados ฀ 10% do FPM;
+Demais Municípios ฀ 90% do FPM.
+
+
+9. Item 11- IPI e Imposto Seletivo – IS (FPEx)
+Com o advento da EC 42/03, vimos que todas as exportações de mercadorias e serviços ficaram imunes ao
+ICMS. Assim, foi necessário criar uma forma de compensação aos Estados e aos Municípios, pois tais entes
+foram afetados com a redução da arrecadação do ICMS.
+Portanto, 10% da arrecadação nacional do IPI e do IS é direcionado ao Fundo de Compensação de
+Exportações (FPEx), destinado aos Estados e ao Distrito Federal, proporcionalmente ao valor das
+respetivas exportações de produtos industrializados.
+É de se destacar, contudo, que cada Estado fica limitado a 20% do fundo, devendo o eventual excedente
+ser distribuído entre os demais participantes, mantido, em relação a esses, o critério de partilha nele
+estabelecido.
+Além disso, conforme previsão constitucional, aos Municípios cabe 25% dos 10% de IPI e IS (isto é, 2,5%)
+destinado aos Estados e DF.
+
+                                                                                                         11
+                                                                                                         44
+
+
+---
+
+Mas quais seriam os critérios para repartir entre os Municípios? Vejamos (CF, art. 159, § 3º):
+
+Para o IPI – é utilizado o mesmo critério do ICMS
+I - 65%, no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e
+nas prestações de serviços, realizadas em seus territórios;
+II - até 35%, de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a distribuição de, no
+mínimo, 10 pontos percentuais com base em indicadores de melhoria nos resultados de aprendizagem e de
+aumento da equidade, considerado o nível socioeconômico dos educandos.
+Para o Imposto Seletivo – é utilizado o mesmo critério do IBS
+I – 80% na proporção da população;
+II – 10% com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da equidade,
+considerado o nível socioeconômico dos educandos, de acordo com o que dispuser lei estadual;
+III – 5% com base em indicadores de preservação ambiental, de acordo com o que dispuser lei estadual;
+IV – 5% em montantes iguais para todos os Municípios do Estado.
+
+10. Item 12 – IBS (Imposto sobre Bens e Serviços)
+Em relação ao imposto previsto pela EC 132/2023 (Reforma Tributária), foi previsto o disposto a seguir:
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        IV - 25% (vinte e cinco por cento): (Redação dada pela Emenda Constitucional nº 132, de
+        2023)
+        (...)
+        b) do produto da arrecadação do imposto previsto no art. 156-A distribuída aos Estados.
+        (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+Veja que o percentual a ser repartido é o mesmo do ICMS! Mas os critérios de repartição entre os
+Municípios não são os mesmos! Vamos entender:
+
+        Art. 158. Pertencem aos Municípios:
+        (...)
+        § 2º As parcelas de receita pertencentes aos Municípios mencionadas no inciso IV, “b”,
+        serão creditadas conforme os seguintes critérios:
+
+
+                                                                                                          12
+                                                                                                          44
+
+
+---
+
+       I – 80% (oitenta por cento) na proporção da população;
+       II – 10% (dez por cento) com base em indicadores de melhoria nos resultados de
+       aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos
+       educandos, de acordo com o que dispuser lei estadual;
+       III – 5% (cinco por cento) com base em indicadores de preservação ambiental, de acordo
+       com o que dispuser lei estadual;
+       IV – 5% (cinco por cento) em montantes iguais para todos os Municípios do Estado.”
+
+Sabe-se que 25% do produto da arrecadação do imposto distribuída aos Estados será repartido com os
+Municípios. O § 2º, do art. 158, fixou os critérios para essa distribuição:
+     I – 80% na proporção da população;
+     II – 10% com base em indicadores de melhoria nos resultados de aprendizagem e de aumento da
+     equidade, considerado o nível socioeconômico dos educandos, de acordo com o que dispuser lei
+     estadual;
+     III – 5% com base em indicadores de preservação ambiental, de acordo com o que dispuser lei
+     estadual;
+     IV – 5% em montantes iguais para todos os Municípios do Estado.
+
+Fundo Nacional de Desenvolvimento Regional
+A EC 132/2023 previu a instituição do Fundo Nacional de Desenvolvimento Regional. Este fundo tem
+como objetivo de reduzir as desigualdades regionais e sociais. Veja:
+
+       Art. 159-A. Fica instituído o Fundo Nacional de Desenvolvimento Regional, com o objetivo
+       de reduzir as desigualdades regionais e sociais, nos termos do art. 3º, III, mediante a
+       entrega de recursos da União aos Estados e ao Distrito Federal para: (Incluído pela
+       Emenda Constitucional nº 132, de 2023)
+       I - realização de estudos, projetos e obras de infraestrutura; (Incluído pela Emenda
+       Constitucional nº 132, de 2023)
+       II - fomento a atividades produtivas com elevado potencial de geração de emprego e
+       renda, incluindo a concessão de subvenções econômicas e financeiras; e (Incluído pela
+       Emenda Constitucional nº 132, de 2023)
+       III - promoção de ações com vistas ao desenvolvimento científico e tecnológico e à
+       inovação. (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+                                                                                                  13
+                                                                                                  44
+
+
+---
+
+Esse objetivo (redução de desigualdades) será cumprido mediante a entrega de recursos da União aos
+Estados e ao Distrito Federal, para as seguintes finalidades:
+I – realização de estudos, projetos e obras de infraestrutura;
+II – fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a
+concessão de subvenções econômicas e financeiras; e
+III – promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação.
+Lembre-se dos objetivos fundamentais da República Federativa do Brasil:
+
+         Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+         (...)
+         III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+
+Agora vamos ler algumas regras mais específicas sobre o Fundo Nacional de Desenvolvimento Regional:
+
+         Art. 159-A.
+         (...)
+         § 1º É vedada a retenção ou qualquer restrição ao recebimento dos recursos de que trata
+         o caput.
+         § 2º Na aplicação dos recursos de que trata o caput, os Estados e o Distrito Federal
+         priorizarão projetos que prevejam ações de sustentabilidade ambiental e redução das
+         emissões de carbono.
+         § 3º Observado o disposto neste artigo, caberá aos Estados e ao Distrito Federal a decisão
+         quanto à aplicação dos recursos de que trata o caput.
+         § 4º Os recursos de que trata o caput serão entregues aos Estados e ao Distrito Federal de
+         acordo com coeficientes individuais de participação, calculados com base nos seguintes
+         indicadores e com os seguintes pesos:
+         I – população do Estado ou do Distrito Federal, com peso de 30% (trinta por cento);
+         II – coeficiente individual de participação do Estado ou do Distrito Federal nos recursos de
+         que trata o art. 159, I, “a”, da Constituição Federal, com peso de 70% (setenta por cento).
+          § 5º O Tribunal de Contas da União será o órgão responsável por regulamentar e calcular
+         os coeficientes individuais de participação de que trata o caput do § 4º.”
+
+Da mesma forma como a regra prevista no art. 160, da CF/88, o art. 159-A, § 1º vedou a retenção ou
+qualquer restrição ao recebimento dos recursos relativos ao Fundo Nacional de Desenvolvimento
+Regional.
+Em relação à aplicação desses recursos, o § 2º, previu que os Estados e o Distrito Federal priorizarão
+projetos que prevejam ações de sustentabilidade ambiental e redução das emissões de carbono, mas que a
+decisão quanto à aplicação caberá aos Estados e DF (§ 3º). Afinal, lembre-se de que há 3 finalidades para as
+quais tais recursos podem ser direcionados:
+I – realização de estudos, projetos e obras de infraestrutura;
+
+
+                                                                                                         14
+                                                                                                         44
+
+
+---
+
+II – fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a
+concessão de subvenções econômicas e financeiras; e
+III – promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação.
+A distribuição dos recursos aos Estados e ao Distrito Federal será de acordo com coeficientes individuais de
+participação a serem calculados considerando-se o seguinte:
+      I – população do Estado ou do Distrito Federal, com peso de 30%;
+      II – coeficiente individual de participação do Estado ou do Distrito Federal nos recursos do FPE, com
+      peso de 70%.
+
+Fundo Nacional de Desenvolvimento Regional: objetivo de reduzir as desigualdades regionais e sociais.
+Finalidades:
+I – realização de estudos, projetos e obras de infraestrutura;
+II – fomento a atividades produtivas com elevado potencial de geração de emprego e renda, incluindo a
+concessão de subvenções econômicas e financeiras; e
+III – promoção de ações com vistas ao desenvolvimento científico e tecnológico e à inovação.
+É vedada a retenção ou qualquer restrição ao recebimento dos recursos relativos ao Fundo Nacional de
+Desenvolvimento Regional.
+Os Estados e o Distrito Federal priorizarão projetos que prevejam ações de sustentabilidade ambiental e
+redução das emissões de carbono.
+
+Demais Regras sobre Repartição de Receitas
+
+       É importante ainda que o candidato tenha conhecimento de alguns assuntos que ficaram
+reservados à lei complementar:
+
+         Art. 161. Cabe à lei complementar:
+
+         I - definir valor adicionado para fins do disposto no art. 158, § 1º, I; (Redação dada pela
+         Emenda Constitucional nº 132, de 2023)
+
+                                                                                                         15
+                                                                                                         44
+
+
+---
+
+        II - estabelecer normas sobre a entrega dos recursos de que trata o art. 159,
+        especialmente sobre os critérios de rateio dos fundos previstos em seu inciso I (Itens 8, 9
+        e 10), objetivando promover o equilíbrio sócio-econômico entre Estados e entre
+        Municípios;
+
+        III - dispor sobre o acompanhamento, pelos beneficiários, do cálculo das quotas e da
+        liberação das participações previstas nos arts. 157, 158 e 159 (refere-se às repartições
+        em geral).
+
+        Parágrafo único. O Tribunal de Contas da União efetuará o cálculo das quotas referentes
+        aos fundos de participação a que alude o inciso II.
+
+        Observação: Em relação ao art. 161, I,a EC 132/2023 apenas alterou a redação do inciso I
+        do art. 161, para substituir “parágrafo único” por “§ 1º”.
+
+      É de se ressaltar que, como regra, é vedada a retenção ou qualquer restrição à entrega e ao
+emprego dos recursos distribuídos. Vejamos o que diz o art. 160 da CF/88:
+
+        Art. 160. É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos
+        atribuídos, nesta seção, aos Estados, ao Distrito Federal e aos Municípios, neles
+        compreendidos adicionais e acréscimos relativos a impostos.
+
+        § 1º: A vedação prevista neste artigo não impede a União e os Estados de condicionarem
+        a entrega de recursos:
+
+        I – ao pagamento de seus créditos, inclusive de suas autarquias;
+
+        II – ao cumprimento do disposto no art. 198, § 2º, incisos II e III (refere-se à aplicação
+        mínima de recursos em ações e serviços de saúde).
+
+        Ainda que em gozo de imunidade tributária, a pessoa jurídica não está dispensada de
+        cumprir obrigações acessórias e de se submeter à fiscalização tributária.
+
+A EC 113/2021 incluiu o § 2º ao art. 160, dispondo o seguinte:
+
+        Art. 160:
+        (...)
+        § 2º Os contratos, os acordos, os ajustes, os convênios, os parcelamentos ou as
+        renegociações de débitos de qualquer espécie, inclusive tributários, firmados pela União
+        com os entes federativos conterão cláusulas para autorizar a dedução dos valores
+        devidos dos montantes a serem repassados relacionados às respectivas cotas nos Fundos
+
+
+                                                                                                      16
+                                                                                                      44
+
+
+---
+
+          de Participação ou aos precatórios federais.     (Incluído pela Emenda Constitucional nº
+          113, de 2021)
+
+Isso significa que, havendo um acordo ou contrato entre a União e um Estado, por exemplo, para
+renegociação de débitos deste com aquela, a CF exige que contenha cláusulas que autorizem dedução dos
+valores        que a União repassa a título de repartição indireta de receitas (FPEs e FPMs), ou dedução
+de precatórios federais, que seriam dívidas da União com os demais entes, no caso em questão.
+Por último, o art. 162, da CF/88, previu a obrigatoriedade de divulgação por todos os entes federados
+(União, Estados, Distrito Federal e Municípios) dos montantes de cada um dos tributos arrecadados, os
+recursos recebidos, os valores de origem tributária entregues, e a entregar, e a expressão numérica dos
+critérios de rateio. O prazo para divulgação é até o último dia do mês subsequente ao da arrecadação,
+lembrando que os dados divulgados pela União serão discriminados por Estado e por Município; os dos
+Estados, por Município:
+
+          Art. 162. A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último
+          dia do mês subsequente ao da arrecadação, os montantes de cada um dos tributos
+          arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar
+          e a expressão numérica dos critérios de rateio.
+
+          Parágrafo único. Os dados divulgados pela União serão discriminados por Estado e por
+          Município; os dos Estados, por Município.
+
+(Questão Inédita/2024) A Constituição Federal estabelece que 25% do produto da arrecadação da
+Contribuição sobre Bens e Serviços (CBS) deve ser repartido com os Municípios.
+Comentário: Na verdade, apenas o IBS é repartido com os Municípios. A CBS constitui receita tributária da
+União, não entrando nas regras tradicionais de repartição de receitas tributárias.
+Gabarito: Errada
+(Fiscal de Rendas - Pref Marília/2023) Do produto da arrecadação do imposto do Estado sobre operações
+relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e
+intermunicipal de comunicação (ICMS), pertence ao Município o percentual de
+A) 22,5%.
+B) 25%.
+C) 27,5%.
+D) 30%.
+E) 50%.
+Comentário: Em relação ao ICMS, o percentual de receita a ser distribuída com os Municípios é de 25%.
+Vale lembrar que a EC 108/20 estabeleceu os seguintes critérios de distribuição:
+
+                                                                                                       17
+                                                                                                       44
+
+
+---
+
+I - 65%, no mínimo, na proporção do valor adicionado nas operações relativas à circulação de mercadorias e
+nas prestações de serviços, realizadas em seus territórios;
+II - até 35%, de acordo com o que dispuser lei estadual, observada, obrigatoriamente, a distribuição de, no
+mínimo, 10 (dez) pontos percentuais com base em indicadores de melhoria nos resultados de
+aprendizagem e de aumento da equidade, considerado o nível socioeconômico dos educandos.
+Gabarito: Letra B
+(SEFAZ-AM/2022) A repartição de receitas tributárias é um instituto presente no nosso ordenamento
+jurídico visando a auxiliar o financiamento das despesas dos entes federativos, principalmente em tributos
+que guardem relação com mais de um ente, por exemplo, União e Estados.
+Os Estados estão obrigados a repartir a arrecadação tributária dos seguintes tributos:
+A) IPVA, na proporção de 20% dos veículos licenciados no seu território e ICMS, na proporção de 50% do
+que for arrecadado.
+B) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 30% do
+que for arrecadado.
+C) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 25% do
+que for arrecadado.
+D) IPVA, na proporção de 30% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+E) IPVA, na proporção de 25% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+Comentário: Por força constitucional do art. 158, III e IV, os Estados devem repartir com os Municípios 50%
+do IPVA e 25% do ICMS. Confira a literalidade.
+Art. 158. Pertencem aos Municípios:
+(...)
+III - cinquenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade de veículos
+automotores licenciados em seus territórios;
+IV - vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de
+comunicação.
+Parágrafo único. As parcelas de receita pertencentes aos Municípios, mencionadas no inciso IV, serão
+creditadas conforme os seguintes critérios:
+I - 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas à
+circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+II - até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada,
+obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de
+melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico
+dos educandos.
+Feita essa revisão vamos aos comentários.
+Alternativa A: O IPVA é repartido em 50% e o ICMS em 25%. Alternativa errada.
+
+                                                                                                        18
+                                                                                                        44
+
+
+---
+
+Alternativa B: O item erra ao afirmar que o ICMS é repartido em 30%, o correto é 25%. Alternativa errada.
+Alternativa C: Perfeito, conforme nossa introdução. Alternativa correta.
+Alternativa D: O IPVA é repartido em 50% e o ICMS em 25%. Alternativa errada.
+Alternativa E: O item inverteu as porcentagens. Alternativa errada.
+Gabarito: Letra C
+(SEFAZ-ES/2022) O Estado Alfa reteve o produto da arrecadação do imposto da União sobre a renda e
+proventos de qualquer natureza, incidente na fonte (IRRF), sobre rendimentos pagos a seus servidores
+estaduais. Contudo, insurgiu-se contra o fato de que a União, ao fazer a entrega de recursos ao Fundo de
+Participação dos Estados e do Distrito Federal (FPE), excluiu do cálculo a parcela da arrecadação do IRRF
+pertencente a Estados, ao Distrito Federal e aos Municípios sobre rendimentos pagos, a qualquer título, por
+eles, suas autarquias e pelas fundações que instituírem e mantiverem.
+Diante desse cenário, analise as afirmativas a seguir:
+I. O Estado Alfa poderia reter para si o produto da arrecadação do IRRF sobre rendimentos pagos a seus
+servidores estaduais, sem transferi-los para a União.
+II. O Estado Alfa não tem razão em se insurgir contra a entrega de recursos ao FPE com exclusão da parcela
+da arrecadação do IRRF pertencente a Estados, ao Distrito Federal e aos Municípios sobre rendimentos
+pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem.
+III. O Estado Alfa deve entregar a seus Municípios parcela dos recursos a ele distribuídas pelo FPE.
+Está correto o que se afirma em
+A) I, apenas.
+B) I e II, apenas.
+C) I e III, apenas
+D) II e III, apenas.
+E) I, II e III.
+Comentário:
+Item I, o produto da arrecadação sobre os rendimentos pagos a seus próprios servidores já é retida na
+fonte, portanto não o Estado não tem que transferi-los para a União.
+Art. 157. Pertencem aos Estados e ao Distrito Federal:
+I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente
+na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que
+instituírem e mantiverem;
+Alternativa correta.
+Item II, o Estado não tem razão ao se insurgir, pois essa exclusão da base de cálculo é prevista
+constitucional, confira:
+Art. 159. A União entregará:
+I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos
+industrializados, 50% (cinquenta por cento), da seguinte forma:
+
+                                                                                                        19
+                                                                                                        44
+
+
+---
+
+a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
+b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+(...)
+§ 1º Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a
+parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados, ao
+Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
+Alternativa correta.
+Item III, o item erra ao afirmar que os Estados precisam entregar aos Municípios parcela do FPE, a parcela
+que eles precisam entregar é da arrecadação do IPI, essa parcela é repassada da União para os Estados, e
+estes repassam parcela aos seus Municípios, confira o texto constitucional.
+Art. 159. A União entregará:
+II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao
+Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+§ 3º Os Estados entregarão aos respectivos Municípios vinte e cinco por cento dos recursos que receberem
+nos termos do inciso II, observados os critérios estabelecidos no art. 158, parágrafo único, I e II.
+Alternativa errada.
+Consequentemente, temos como corretos os itens I e II, apenas.
+Gabarito: Letra B
+(SEFAZ-AL-Auditor Fiscal/2020) Pertencem aos municípios 25% do produto da arrecadação do IPVA sobre
+veículos licenciados em seus territórios.
+Comentário: O texto constitucional prevê a repartição de não apenas 25%, mas 50% do produto da
+arrecadação do IPVA sobre veículos licenciados em seus territórios.
+Gabarito: Errada
+(TCE-PA-Auditor de Controle Externo/2016) A Constituição Federal de 1988 adotou o modelo de
+federalismo cooperativo, de modo que a autonomia financeira dos entes federativos é assegurada pela
+atribuição de competências tributárias e participação nas receitas tributárias arrecadadas de tributos de
+competência de outros entes.
+Comentário: Realmente, ao adotar o modelo de federalismo cooperativo, a CF/88 distribuiu competências
+tributárias a todos os entes federados, para que instituam seus próprios tributos, além de também ter
+garantido participação nas receitas tributárias arrecadadas de tributos de competência de outros entes.
+Dessa forma, buscou-se assegurar a autonomia financeira dos entes federados.
+Gabarito: Correta
+(Pref. São Luiz-MA-Procurador/2016) Um Município brasileiro publicou matéria, no periódico local,
+esclarecendo aos munícipes de que a Secretaria Municipal de Finanças efetivamente fiscaliza e cobra o IPTU
+referente à totalidade dos imóveis localizados em seu território, e que, também, já há 6 anos, optou por
+fiscalizar e cobrar o ITR de todos os imóveis que se localizam nesse território, sem proporcionar qualquer
+redução deste último imposto, bem como sem promover qualquer forma de renúncia fiscal.
+O mesmo periódico, em matéria recentemente publicada, informou que o referido Município é um dos
+campeões de arrecadação do ICMS, do IPVA, do ITCD, do ISSQN, do IPTU e do ITBI em seu Estado.
+
+                                                                                                          20
+                                                                                                          44
+
+
+---
+
+Com base nas normas da Constituição Federal acerca da repartição de receitas tributárias, a esse Município
+pertencem
+a) 100% da receita do ITR, 50% da receita do ITCD e 25% da receita do ICMS.
+b) 90% da receita do ISSQN e 50% da receita do ITBI.
+c) 50% da receita do IPTU e 25% da receita do ITCD.
+d) 25% da receita do IPVA e 50% da receita do ITR.
+e) 50% da receita do IPVA e 25% da receita do ICMS.
+Comentário:
+Alternativa A: As receitas do ITCMD não são repartidas com os Municípios. Alternativa errada.
+Alternativa B: Os Municípios não repartem as suas receitas tributárias. Logo, não há que se falar em
+repartição a título de ISS e ITBI. Alternativa errada.
+                                                     ==95c==
+
+Alternativa C: Comentamos que as receitas do ITCMD não são repartidas com os Municípios. Ademais, os
+Municípios não repartem as suas receitas tributárias, não havendo repartição das receitas do ISS e ITBI.
+Alternativa errada.
+Alternativa D: Em relação ao IPVA, o Município faz jus a 50% da receita estadual, relativamente aos veículos
+licenciados em seu respectivo território. Quanto ao ITR, em se tratando de Município que tenha optado por
+arrecadar e fiscalizar o imposto, faz jus a 100% da receita desse imposto. Alternativa errada.
+Alternativa E: De fato, em relação ao IPVA, o Município faz jus a 50% da receita estadual, relativamente aos
+veículos licenciados em seu respectivo território. Quanto ao ICMS, os Municípios têm direito a 25%,
+seguindo os critérios de repartição definidos na CF/88. Alternativa correta.
+Gabarito: Letra E
+
+                                                                                                         21
+                                                                                                         44
+
+
+---
+
+22
+48
+
+
+---
+
+    QUESTÕES COMPLEMENTARES COMENTADAS
+
+Repartição das Receitas Tributárias
+1. FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+Nosso sistema tributário se caracteriza por cada ente federativo ter os impostos que são de sua
+competência, mas também porque temos uma repartição de receitas tributárias que se caracteriza por um
+ente repassar a outro percentuais daquele tributo por ele arrecadado.
+Sobre o Imposto sobre Produtos Industrializados (IPI) relativos à exportação destes, é correto afirmar que
+os Municípios
+a) têm direito a 10% (dez por cento) do valor arrecadado pela União Federal.
+b) não têm direito a nenhum percentual, cabendo 25% (vinte e cinco por cento) aos Estados
+proporcionalmente às exportações de produtos industrializados.
+c) têm direito a 2,5% (dois vírgula cinco por cento) do valor arrecadado pela União Federal.
+d) têm direito a 10% (dez por cento) do valor arrecadado pela União Federal e repassado aos Estados.
+e) têm direito a 20% (vinte por cento) do valor arrecadado pela União Federal e repassado aos Estados.
+Comentário:
+Alternativa A: Errada. Os Municípios não têm direito a 10% do valor arrecadado pela União Federal do IPI
+relativos à exportação.
+Alternativa B: Errada. Embora os Estados recebam 25% do IPI de exportação, os Municípios têm direito a
+uma parcela desta quantia.
+Alternativa C: Correta. Os Municípios têm direito a 2,5% do valor arrecadado pela União Federal do IPI de
+exportação, por meio dos Estados que repassam 25% dos 10% que recebem.
+Alternativa D: Errada. Os Municípios recebem uma parcela dos 10% do IPI de exportação destinados aos
+Estados, não o valor total.
+Alternativa E: Errada. A proporção de 20% mencionada não é aplicável; os Municípios recebem 2,5% por
+meio dos Estados.
+Gabarito: Letra C
+2. FGV/Cons Leg (CM SP)/CM SP/Contador/2024
+O nosso sistema tributário se caracteriza por cada ente ter os tributos de sua competência; entretanto, é
+possível a repartição de receitas tributárias.
+Dos tributos de competência dos Estados, estes repassam
+a) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ITCMD aos Municípios.
+
+                                                                                                         23
+                                                                                                         48
+
+
+---
+
+b) 50% (cinquenta por cento) da Contribuição de Iluminação Pública e 25% (vinte e cinco por cento) do
+ICMS aos Municípios.
+c) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ITR aos Municípios.
+d) 50% (cinquenta por cento) do ITCMD e 25% (vinte e cinco por cento) do ICMS aos Municípios.
+e) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ICMS aos Municípios.
+Comentário:
+Alternativa A: Errada. Não existe repasse de 50% do IPVA e 25% do ITCMD aos Municípios. O IPVA é
+repassado em 50%, mas não o ITCMD.
+Alternativa B: Errada. A Contribuição de Iluminação Pública não é um tributo estadual e não é repassada
+aos Municípios dessa forma.
+Alternativa C: Errada. O ITR é um imposto federal, não estadual, e não se enquadra nesta repartição.
+Alternativa D: Errada. O ITCMD não é repassado aos Municípios; trata-se de um imposto estadual não
+partilhado.
+Alternativa E: Correta. Os Estados repassam 50% do IPVA e 25% do ICMS aos Municípios, conforme previsto
+na Constituição Federal.
+Gabarito: Letra E
+3. FGV/TT (Pref SJC)/Pref SJC/2024
+A respeito do tema da repartição das receitas tributárias, de acordo com o previsto pelo Art. 159, inciso I,
+“a” da Constituição Federal de 1988, a União entregará vinte e um inteiros e cinco décimos por cento ao
+Fundo de Participação dos Estados e do Distrito Federal dos 50% do produto da arrecadação dos impostos
+sobre renda e proventos de qualquer natureza e sobre produtos industrializados.
+É vedada a vinculação dessa receita no caso de
+a) prestação de garantias para operações de crédito por antecipação de receita.
+b) aplicação de recursos para a atividade de administração tributária.
+c) aporte em programa governamental de caráter assistencial.
+d) destinação de recursos para o desenvolvimento do ensino.
+e) emprego de verbas para a área da saúde.
+Comentário:
+Alternativa A: Errada. Não é vedada a vinculação dessa receita para a prestação de garantias para
+operações de crédito por antecipação de receita, pois o art. 167, IV da CF permite essa exceção.
+Alternativa B: Errada. A aplicação desses recursos para a atividade de administração tributária é uma das
+exceções permitidas pela Constituição, conforme o art. 167, IV da CF.
+Alternativa C: Correta. Não há previsão constitucional que permita a vinculação dessa receita para
+programas governamentais de caráter assistencial que não estejam diretamente relacionados à saúde ou
+educação.
+
+
+                                                                                                         24
+                                                                                                         48
+
+
+---
+
+Alternativa D: Errada. A vinculação de receitas para o desenvolvimento do ensino é expressamente
+permitida pela Constituição, conforme o art. 212 da CF.
+Alternativa E: Errada. Similarmente, a vinculação de receitas para a saúde é permitida conforme o art. 198,
+§2º da CF.
+Gabarito: Letra C
+4. FGV/ACI (Pref BH)/Pref BH/Direito/2024
+Segundo o esquema constitucional de repartição de receitas tributárias em favor dos Municípios, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) Pertencem aos Municípios 65% do produto da arrecadação do imposto do Estado sobre a propriedade
+de veículos automotores licenciados em seus territórios.
+( ) Pertencem aos Municípios 50% do produto da arrecadação do imposto da União sobre renda e
+proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles,
+suas autarquias e pelas fundações que instituírem e mantiverem.
+( ) Pertencem aos Municípios 20% do produto da arrecadação dos impostos residuais da União.
+As afirmativas são, na ordem apresentada, respectivamente,
+a) V – F – V.
+b) V – V – F.
+c) F – V – V.
+d) F – F – F.
+Comentário:
+Item I: Errado. A Constituição Federal estabelece que pertencem aos Municípios 50% do produto da
+arrecadação do imposto do Estado sobre a propriedade de veículos automotores licenciados em seus
+territórios.
+Item II: Errado. Pertencem aos Municípios 100% do produto da arrecadação do imposto da União sobre
+renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título,
+por eles, suas autarquias e pelas fundações que instituírem e mantiverem.
+Item III: Errado. Não há previsão constitucional para que os Municípios recebam qualquer percentual do
+produto da arrecadação dos impostos residuais da União.
+Gabarito: D
+5. FGV/PGM-Niterói-Analista Processual/2023
+O Município de Niterói tem os impostos de sua competência definidos na Constituição da República de
+1988, mas também tem direito a percentuais de receitas de impostos da União, dos Estados e do Distrito
+Federal.
+Assim, o Município de Niterói tem direito a:
+A) 21,5%, através do Fundo de Participação dos Municípios, do imposto sobre renda e proventos de
+qualquer natureza;
+
+
+                                                                                                        25
+                                                                                                        48
+
+
+---
+
+B) 25% do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores
+licenciados em seu território;
+C) 26,5%, através do Fundo de Participação dos Municípios, do imposto sobre produtos industrializados;
+D) 50% do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de
+mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação;
+E) 70% do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores
+mobiliários, se for Município de origem do ouro como ativo financeiro.
+Comentário:
+Alternativa A: A participação do Município de Niterói, por meio do FPM, é de 25,5% do produto da
+arrecadação do IR e do IPI. Alternativa errada.
+Alternativa B: A participação do Município de Niterói é de 50% do IPVA em relação aos veículos licenciados
+em seu território. Alternativa errada.
+Alternativa C: A participação do Município de Niterói, por meio do FPM, é de 25,5% do produto da
+arrecadação do IR e do IPI. Alternativa errada.
+Alternativa D: A participação do Município de Niterói é de 25% do valor arrecadado a título de ICMS,
+respeitando os critérios estabelecidos na CF. Alternativa errada.
+Alternativa E: Realmente, a participação do Município de Niterói é de 70% do IOF sobre ouro ativo
+financeiro, se for Município de origem. Alternativa correta.
+Gabarito: Letra E
+6. FGV/SEF-MG-Auditor Fiscal/2023
+Assinale a opção que indica o percentual a que os Estados e o Distrito Federal terão direito a título de
+repartição das receitas tributárias oriundas da arrecadação do Imposto sobre Produtos Industrializados.
+A) 21,5% (vinte e um inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 20% (vinte por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+B) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 20% (vinte por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+C) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 10% (dez por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+D) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e nenhum percentual das respectivas exportações de produtos industrializados.
+E) 21,5% (vinte e um inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e do
+Distrito Federal e 10% (dez por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+
+                                                                                                         26
+                                                                                                         48
+
+
+---
+
+Comentário: A questão cobra o art. 159, I, “a”, e II, da CF. Os percentuais destinados aos Estados são os
+seguintes:
+- 21,5% destinados ao Fundo de Participação dos Estados e do Distrito Federal
+- 10% destinados aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações
+de produtos industrializados.
+Alternativa A: O percentual correto é 21,5% e 10%, proporcional às exportações. Alternativa errada.
+Alternativa B: O percentual correto é 21,5% e 10%, proporcional às exportações. Alternativa errada.
+Alternativa C: O percentual correto é 21,5% e 10%, proporcional às exportações. Alternativa errada.
+Alternativa D: O percentual correto é 21,5% e 10%, proporcional às exportações. Alternativa errada.
+Alternativa E: Esta afirmativa está de acordo com o art. 159, I, “a”, e II, da CF. Alternativa correta.
+Gabarito: Letra E
+7. FGV/SEFAZ-AM/2022
+A repartição de receitas tributárias é um instituto presente no nosso ordenamento jurídico visando a
+auxiliar o financiamento das despesas dos entes federativos, principalmente em tributos que guardem
+relação com mais de um ente, por exemplo, União e Estados.
+Os Estados estão obrigados a repartir a arrecadação tributária dos seguintes tributos:
+A) IPVA, na proporção de 20% dos veículos licenciados no seu território e ICMS, na proporção de 50% do
+que for arrecadado.
+B) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 30% do
+que for arrecadado.
+C) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 25% do
+que for arrecadado.
+D) IPVA, na proporção de 30% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+E) IPVA, na proporção de 25% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+Comentário: Por força constitucional do art. 158, III e IV, os Estados devem repartir com os Municípios 50%
+do IPVA e 25% do ICMS. Confira a literalidade (veja que houve alteração com a EC 132/2023 – Reforma
+Tributária):
+Art. 158. Pertencem aos Municípios:
+(...)
+III - 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a propriedade de
+veículos automotores licenciados em seus territórios e, em relação a veículos aquáticos e aéreos, cujos
+proprietários sejam domiciliados em seus territórios; (Redação dada pela Emenda Constitucional nº 132, de
+2023)
+
+                                                                                                          27
+                                                                                                          48
+
+
+---
+
+IV - vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e
+de comunicação.
+Parágrafo único. As parcelas de receita pertencentes aos Municípios, mencionadas no inciso IV, serão
+creditadas conforme os seguintes critérios:
+I - 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas
+à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+II - até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada,
+obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de
+melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico
+dos educandos.
+Feita essa revisão vamos aos comentários.
+                                                    ==8b9==
+
+Alternativa A: O IPVA é repartido em 50% e o ICMS em 25%. Alternativa errada.
+Alternativa B: O item erra ao afirmar que o ICMS é repartido em 30%, o correto é 25%. Alternativa errada.
+Alternativa C: Perfeito, conforme nossa introdução. Alternativa correta.
+Alternativa D: O IPVA é repartido em 50% e o ICMS em 25%. Alternativa errada.
+Alternativa E: O item inverteu as porcentagens. Alternativa errada.
+Gabarito: Letra C
+8. FGV/SEFAZ-ES/2022
+O Estado Alfa reteve o produto da arrecadação do imposto da União sobre a renda e proventos de qualquer
+natureza, incidente na fonte (IRRF), sobre rendimentos pagos a seus servidores estaduais. Contudo,
+insurgiu-se contra o fato de que a União, ao fazer a entrega de recursos ao Fundo de Participação dos
+Estados e do Distrito Federal (FPE), excluiu do cálculo a parcela da arrecadação do IRRF pertencente a
+Estados, ao Distrito Federal e aos Municípios sobre rendimentos pagos, a qualquer título, por eles, suas
+autarquias e pelas fundações que instituírem e mantiverem.
+Diante desse cenário, analise as afirmativas a seguir:
+I. O Estado Alfa poderia reter para si o produto da arrecadação do IRRF sobre rendimentos pagos a seus
+servidores estaduais, sem transferi-los para a União.
+II. O Estado Alfa não tem razão em se insurgir contra a entrega de recursos ao FPE com exclusão da parcela
+da arrecadação do IRRF pertencente a Estados, ao Distrito Federal e aos Municípios sobre rendimentos
+pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem.
+III. O Estado Alfa deve entregar a seus Municípios parcela dos recursos a ele distribuídas pelo FPE.
+Está correto o que se afirma em
+A) I, apenas.
+B) I e II, apenas.
+C) I e III, apenas
+
+
+                                                                                                        28
+                                                                                                        48
+
+
+---
+
+D) II e III, apenas.
+E) I, II e III.
+Comentário:
+Item I, o produto da arrecadação sobre os rendimentos pagos a seus próprios servidores já é retida na
+fonte, portanto não o Estado não tem que transferi-los para a União.
+Art. 157. Pertencem aos Estados e ao Distrito Federal:
+I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente
+na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que
+instituírem e mantiverem;
+Alternativa correta.
+Item II, o Estado não tem razão ao se insurgir, pois essa exclusão da base de cálculo é prevista
+constitucional, confira:
+Art. 159. A União entregará:
+I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre
+produtos industrializados, 50% (cinquenta por cento), da seguinte forma:
+a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
+b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+(...)
+§ 1º Para efeito de cálculo da entrega a ser efetuada de acordo com o previsto no inciso I, excluir-se-á a
+parcela da arrecadação do imposto de renda e proventos de qualquer natureza pertencente aos Estados,
+ao Distrito Federal e aos Municípios, nos termos do disposto nos arts. 157, I, e 158, I.
+Alternativa correta.
+Item III, o item erra ao afirmar que os Estados precisam entregar aos Municípios parcela do FPE, a parcela
+que eles precisam entregar é da arrecadação do IPI, essa parcela é repassada da União para os Estados, e
+estes repassam parcela aos seus Municípios, confira o texto constitucional.
+Art. 159. A União entregará:
+II - do produto da arrecadação do imposto sobre produtos industrializados e do imposto previsto no art.
+153, VIII, 10% (dez por cento) aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas
+exportações de produtos industrializados; (Redação dada pela Emenda Constitucional nº 132, de 2023)
+§ 3º Os Estados entregarão aos respectivos Municípios vinte e cinco por cento dos recursos que
+receberem nos termos do inciso II, observados os critérios estabelecidos no art. 158, parágrafo único, I e II.
+Alternativa errada.
+Consequentemente, temos como corretos os itens I e II, apenas.
+Gabarito: Letra B
+9. FGV/SEFAZ-AM/2022
+
+
+                                                                                                           29
+                                                                                                           48
+
+
+---
+
+O Imposto sobre a Renda é um tributo de arrecadação essencial para o Fisco, tanto pelo montante
+arrecadado como pela fiscalização decorrente dele.
+O produto da arrecadação do Imposto sobre a Renda será
+A) repartido pela União com os Estados e Distrito Federal no percentual de 22% (vinte e dois por cento).
+B) repartido pela União no percentual de 25,5% (vinte e cinco inteiros e cinco décimos por cento) com o
+Fundo de Participação dos Municípios.
+C) repartido pela União no percentual de 50% (cinquenta por cento) apenas com os Estados, o Distrito
+Federal e os municípios por meio de seus Fundos de Participação.
+D) repartido pela União com os Municípios no percentual de 50% (cinquenta por cento).
+E) Exclusivamente da União.
+Comentário: a Vamos revisar o art. 159 da Constituição Federal que trata das repartições de receitas do
+imposto sobre renda e proventos de qualquer natureza e que devem ser entregues pela União aos Estados,
+Distrito Federal e Municípios.
+Art. 159. A União entregará:
+I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre
+produtos industrializados, 50% (cinquenta por cento), da seguinte forma:
+a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
+b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
+c) três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte,
+Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os
+planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos
+destinados à Região, na forma que a lei estabelecer;
+d) um por cento ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do mês
+de dezembro de cada ano;
+e) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do
+mês de julho de cada ano;
+f) 1% (um por cento) ao Fundo de Participação dos Municípios, que será entregue no primeiro decêndio do
+mês de setembro de cada ano;
+Feita essa revisão vamos aos comentários.
+Alternativa A: Com Estados e Distrito Federal é no percentual de 22,5%. Alternativa errada.
+Alternativa B: Conforme art. 159, I, alíneas “b”, “d”, “e” e “f”, perceba que a soma das alíneas tem o
+resultado de 25,5%. Alternativa correta.
+Alternativa C: Não é repartido apenas por meio dos seus Fundos de Participação, há também os
+programas de financiamento ao setor produtivo previsto na alínea c do normativo constitucional.
+Alternativa errada.
+
+                                                                                                           30
+                                                                                                           48
+
+
+---
+
+Alternativa D: A repartição é para Estados, Distrito Federal e Municípios, ou seja, os 50% não são apenas
+para os Municípios. Alternativa errada.
+Alternativa E: A arrecadação é repartida, logo, não é exclusiva da União. Alternativa errada.
+Gabarito: Letra B
+10.FGV/SEFAZ-AM/2022
+O Governo Federal sempre que fala em reduzir as alíquotas do Imposto sobre Produtos Industrializados
+sofre críticas, especialmente de Estados e Municípios.
+Sobre a razão legal ou constitucional para estas críticas, assinale a afirmativa correta.
+A) A União não pode agir assim por se tratar de tributo dos Estados.
+B) Pela repartição de receitas tributárias, só os Estados têm razão em reclamar por perderem 25,5 % da
+arrecadação do IPI, que é destinado ao Fundo de Participação dos Estados e do Distrito Federal.
+C) O tributo é da União e não há razão legal ou constitucional para estas críticas.
+O Governo Federal sempre que fala em reduzir as alíquotas do Imposto sobre Produtos Industrializados
+sofre críticas, especialmente de Estados e Municípios.
+Sobre a razão legal ou constitucional para estas críticas, assinale a afirmativa correta.
+D) Pela repartição das receitas tributárias, o Fundo de Participação dos Estados perde 21,5 % e o dos
+Municípios 25,5% da arrecadação do IPI, tendo imediato efeito para ambos.
+E) Pela repartição de receitas tributárias, só os Municípios têm razão em reclamar por perderem 25,5 % da
+arrecadação do IPI, que é destinado ao Fundo de Participação dos Municípios.
+Comentário:
+Alternativa A: Por força do art. 153, IV, da CF, o IPI é de competência da União. Alternativa errada.
+Alternativa B: A entrega da União do IRRF + IPI é realizada nos seguintes percentuais:
+Aos Estados e Distrito Federal 21,5%, aos Municípios 25,5% e às regiões Norte, Nordeste e Centro-Oeste
+3%, o que totaliza 50%. Essa é a previsão do art. 159 da CF. Alternativa errada.
+Alternativa C: Quando a União reduz as alíquotas do IPI, a arrecadação repartida com Estados, Distrito
+Federal e Municípios também reduz, por isso essa crítica dos entes federativos. E toda essa repartição tem
+previsão constitucional conforme visto no item anterior. Alternativa errada.
+Alternativa D: Conforme explicação do item B, aos Estados e Distrito Federal cabe 21,5%, aos Municípios
+cabe 25,5% e às regiões Norte, Nordeste e Centro-Oeste cabe 3%, o que totaliza 50%. Alternativa correta.
+Alternativa E: Não apenas os Municípios, mas o Estados e Distrito Federal também são prejudicados, pois
+perdem arrecadação. Alternativa errada.
+Gabarito: Letra D
+11.FGV/PM-PB/2022
+O montante da arrecadação dos entes estaduais está sujeito às regras constitucionais de repartição das
+receitas tributárias.
+
+
+                                                                                                        31
+                                                                                                        48
+
+
+---
+
+De acordo com essas regras, os dois principais tributos de competência estadual – imposto sobre operações
+relativas à circulação de mercadorias e serviços (ICMS) e imposto sobre a propriedade de veículos
+automotores (IPVA) – são repartidos com os municípios do respectivo estado, de acordo com os seguintes
+percentuais, respectivamente:
+A) 25% e 25%;
+B) 25% e 50%;
+C) 25% e 75%;
+D) 50% e 25%;
+E) 50% e 50%.
+Comentário: Por força constitucional do art. 158, III e IV, os Estados devem repartir com os Municípios 50%
+do IPVA e 25% do ICMS. (veja que houve alteração com a EC 132/2023 – Reforma Tributária):
+Art. 158. Pertencem aos Municípios:
+(...)
+III - 50% (cinquenta por cento) do produto da arrecadação do imposto do Estado sobre a propriedade de
+veículos automotores licenciados em seus territórios e, em relação a veículos aquáticos e aéreos, cujos
+proprietários sejam domiciliados em seus territórios; (Redação dada pela Emenda Constitucional nº 132, de
+2023)
+IV - vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e
+de comunicação.
+Parágrafo único. As parcelas de receita pertencentes aos Municípios, mencionadas no inciso IV, serão
+creditadas conforme os seguintes critérios:
+I - 65% (sessenta e cinco por cento), no mínimo, na proporção do valor adicionado nas operações relativas
+à circulação de mercadorias e nas prestações de serviços, realizadas em seus territórios;
+II - até 35% (trinta e cinco por cento), de acordo com o que dispuser lei estadual, observada,
+obrigatoriamente, a distribuição de, no mínimo, 10 (dez) pontos percentuais com base em indicadores de
+melhoria nos resultados de aprendizagem e de aumento da equidade, considerado o nível socioeconômico
+dos educandos.
+Revisado o disposto constitucional vamos aos comentários das alternativas.
+Alternativa A: O IPVA é repartido em 50% com os municípios. Alternativa errada.
+Alternativa B: Conforme disposição expressa da Constituição Federal. Alternativa correta.
+Alternativa C: O IPVA é repartido em 50% com os municípios. Alternativa errada.
+Alternativa D: O ICMS é repartido em 25% e o IPVA em 50% com os municípios. Alternativa errada.
+Alternativa E: O ICMS é repartido em 25% com os municípios. Alternativa errada.
+Gabarito: Letra B
+12.FGV/TJ-SC/2021
+
+
+                                                                                                        32
+                                                                                                        48
+
+
+---
+
+A União concede isenção de IPI a um setor produtivo. Em virtude disso, vários Municípios ajuízam ações
+contra o ente federal, sob alegação de lesão de seus interesses, por diminuição da arrecadação do IPI, o que
+afetará a parcela arrecadada deste imposto a ser entregue ao Fundo de Participação dos Municípios (FPM).
+Diante desse cenário, é correto afirmar que:
+A) a vedação constitucional de isenção heterônoma proíbe tal concessão em detrimento dos Municípios;
+B) tal medida é inconstitucional, por violação da autonomia financeira dos Municípios;
+C) somente o FPM, fundo constitucional destinatário das verbas, e não os Municípios individualmente
+considerados, teria legitimidade para contestar a concessão de tal isenção;
+D) a União pode conceder tal benefício fiscal, desde que obedecidos os requisitos constitucionais e legais
+para concessão de isenções, em razão do livre exercício de sua competência tributária;
+E) a parcela do IPI entregue ao FPM constitui receita originária dos Municípios, configurando direito
+subjetivo de índole constitucional, razão pela qual tal concessão de isenção pela União é inconstitucional.
+Comentário: A entrega da União do IRRF + IPI é realizada nos seguintes percentuais:
+Aos Estados e Distrito Federal 21,5%, aos Municípios 25,5% e às regiões Norte, Nordeste e Centro-Oeste
+3%, o que totaliza 50%. Essa é a previsão do art. 159 da CF.
+Em que pese, realmente, quando a União isentar o IPI, reduzir a parcela entregue ao FPM, já temos uma
+tese de repercussão geral discutida pelo STF a haver essa possibilidade.
+Tema 653: É constitucional a concessão regular de incentivos, benefícios e isenções fiscais relativos ao
+Imposto de Renda e Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de
+Participação de Municípios e respectivas quotas devidas às Municipalidades.
+Feita essa introdução vamos aos comentários.
+Alternativa A: A isenção heterônoma é quando um ente federativo concede isenção em relação a um
+tributo que não possui competência para institui-lo. Exemplo, o Estado X conceder isenção sobre IPTU. Aqui
+na alternativa não há essa isenção, porque o IPI é de competência da União conforme normativo
+constitucional.
+Art. 153. Compete à União instituir impostos sobre:
+IV - produtos industrializados;
+Alternativa errada.
+Alternativa B: A medida é constitucional. Alternativa errada.
+Alternativa C: Não há essa restrição de apenas destinatário das verbas. Alternativa errada.
+Alternativa D: Conforme nossa introdução supracita. Alternativa correta.
+Alternativa E: A concessão abordada na questão é constitucional. Alternativa errada.
+Gabarito: Letra D
+13.FGV/Fiscal de Tributos-Niterói/2015
+Pertence aos Municípios:
+
+                                                                                                         33
+                                                                                                         48
+
+
+---
+
+a) cinquenta por cento do produto da arrecadação do imposto da União sobre renda e proventos de
+qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas
+autarquias e pelas fundações que instituírem e mantiverem;
+b) quarenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial
+rural, relativamente aos imóveis neles situados;
+c) cinquenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade de veículos
+automotores licenciados em seus territórios;
+d) trinta e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de
+comunicação;
+e) oitenta por cento do produto da arrecadação do imposto da União sobre renda e proventos de qualquer
+natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas
+fundações que instituírem e mantiverem.
+Comentário:
+Alternativa A: Cabe aos Municípios 100% desse imposto retido na fonte, e não 50% como mencionado na
+assertiva. Alternativa errada.
+Alternativa B: Cabe aos Municípios 50% do ITR relativo aos imóveis rurais situados em seus respectivos
+territórios. Alternativa errada.
+Alternativa C: Realmente, cabe aos Municípios 50% do IPVA relativo aos veículos automotores licenciados
+em seus respectivos territórios e, em relação a veículos aquáticos e aéreos, cujos proprietários sejam
+domiciliados em seus territórios (EC 132/2023). Alternativa correta.
+Alternativa D: Cabe aos Municípios 25% do ICMS, e não 35% como mencionado na assertiva. Alternativa
+errada.
+Alternativa E: Cabe aos Municípios 100% desse imposto retido na fonte, e não 80% como mencionado na
+assertiva. Alternativa errada.
+Gabarito: Letra C
+
+14.FGV/SEFAZ-RJ-Auditor Fiscal/2011
+A CRFB traça as linhas gerais para a repartição das receitas tributárias nos arts. 157 a 161. É correto afirmar
+que a Constituição determina que
+a) o produto da arrecadação do ITR seja dividido entre Estados e Municípios, relativamente aos imóveis
+neles situados, exceto se o Município fiscalizar e cobrar o referido imposto.
+b) a União entregue 50% (cinquenta por cento) do produto da arrecadação do IPI aos Estados e ao Distrito
+Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+c) seja vedada a retenção à entrega dos recursos atribuídos a partir das receitas tributárias aos Estados,
+Municípios e ao DF, exceto adicionais e acréscimos relativos a impostos.
+d) caiba à lei ordinária disciplinar os aspectos relativos à repartição de receitas tributárias.
+e) pertençam aos Municípios 25% (vinte e cinco por cento) do produto da arrecadação do ICMS do Estado
+sobre a circulação de mercadorias e sobre prestações de serviços de transporte interestadual e
+intermunicipal e de comunicação.
+
+                                                                                                            34
+                                                                                                            48
+
+
+---
+
+Comentário:
+Alternativa A: O produto da arrecadação do ITR é repartido apenas com os Municípios, na proporção de
+50%, ou 100% caso estes venham arrecadar e fiscalizar o referido imposto. Alternativa errada.
+Alternativa B: A CF/88 determina a entrega de 10% do produto da arrecadação do IPI aos Estados e ao
+Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+Alternativa errada.
+Alternativa C: Na verdade, o que o caput do art. 160, da CF/88, prescreve é que é vedada a retenção ou
+qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta seção, aos Estados, ao Distrito
+Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos. Alternativa
+errada.
+Alternativa D: O art. 161, da CF/88, estabelece os papéis da lei complementar no tocante à disciplina dos
+aspectos relativos à repartição de receitas tributárias. Alternativa errada.
+Alternativa E: De fato, 25% da receita do produto da arrecadação do ICMS dos Estados pertencem aos seus
+respectivos Municípios. Alternativa correta.
+Gabarito: Letra E
+
+                                                                                                      35
+                                                                                                      48
+
+
+---
+
+        LISTA DAS QUESTÕES COMPLEMENTARES
+Repartição das Receitas Tributárias
+1.     FGV/ATM (Pref SJC)/Pref SJC/Gestão Tributária/2024
+Nosso sistema tributário se caracteriza por cada ente federativo ter os impostos que são de sua
+competência, mas também porque temos uma repartição de receitas tributárias que se caracteriza por um
+ente repassar a outro percentuais daquele tributo por ele arrecadado.
+Sobre o Imposto sobre Produtos Industrializados (IPI) relativos à exportação destes, é correto afirmar que
+os Municípios
+a) têm direito a 10% (dez por cento) do valor arrecadado pela União Federal.
+b) não têm direito a nenhum percentual, cabendo 25% (vinte e cinco por cento) aos Estados
+proporcionalmente às exportações de produtos industrializados.
+c) têm direito a 2,5% (dois vírgula cinco por cento) do valor arrecadado pela União Federal.
+d) têm direito a 10% (dez por cento) do valor arrecadado pela União Federal e repassado aos Estados.
+e) têm direito a 20% (vinte por cento) do valor arrecadado pela União Federal e repassado aos Estados.
+2.     FGV/Cons Leg (CM SP)/CM SP/Contador/2024
+O nosso sistema tributário se caracteriza por cada ente ter os tributos de sua competência; entretanto, é
+possível a repartição de receitas tributárias.
+Dos tributos de competência dos Estados, estes repassam
+a) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ITCMD aos Municípios.
+b) 50% (cinquenta por cento) da Contribuição de Iluminação Pública e 25% (vinte e cinco por cento) do
+ICMS aos Municípios.
+c) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ITR aos Municípios.
+d) 50% (cinquenta por cento) do ITCMD e 25% (vinte e cinco por cento) do ICMS aos Municípios.
+e) 50% (cinquenta por cento) do IPVA e 25% (vinte e cinco por cento) do ICMS aos Municípios.
+3.     FGV/TT (Pref SJC)/Pref SJC/2024
+A respeito do tema da repartição das receitas tributárias, de acordo com o previsto pelo Art. 159, inciso I,
+“a” da Constituição Federal de 1988, a União entregará vinte e um inteiros e cinco décimos por cento ao
+Fundo de Participação dos Estados e do Distrito Federal dos 50% do produto da arrecadação dos impostos
+sobre renda e proventos de qualquer natureza e sobre produtos industrializados.
+É vedada a vinculação dessa receita no caso de
+a) prestação de garantias para operações de crédito por antecipação de receita.
+b) aplicação de recursos para a atividade de administração tributária.
+
+                                                                                                         36
+                                                                                                         48
+
+
+---
+
+c) aporte em programa governamental de caráter assistencial.
+d) destinação de recursos para o desenvolvimento do ensino.
+e) emprego de verbas para a área da saúde.
+4.      FGV/ACI (Pref BH)/Pref BH/Direito/2024
+Segundo o esquema constitucional de repartição de receitas tributárias em favor dos Municípios, analise as
+afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+( ) Pertencem aos Municípios 65% do produto da arrecadação do imposto do Estado sobre a propriedade
+de veículos automotores licenciados em seus territórios.
+( ) Pertencem aos Municípios 50% do produto da arrecadação do imposto da União sobre renda e
+proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles,
+suas autarquias e pelas fundações que instituírem e mantiverem.
+( ) Pertencem aos Municípios 20% do produto da arrecadação dos impostos residuais da União.
+As afirmativas são, na ordem apresentada, respectivamente,
+a) V – F – V.
+b) V – V – F.
+c) F – V – V.
+d) F – F – F.
+
+5.      FGV/PGM-Niterói-Analista Processual/2023
+
+O Município de Niterói tem os impostos de sua competência definidos na Constituição da República de
+1988, mas também tem direito a percentuais de receitas de impostos da União, dos Estados e do Distrito
+Federal.
+Assim, o Município de Niterói tem direito a:
+A) 21,5%, através do Fundo de Participação dos Municípios, do imposto sobre renda e proventos de
+qualquer natureza;
+B) 25% do produto da arrecadação do imposto do Estado sobre a propriedade de veículos automotores
+licenciados em seu território;
+C) 26,5%, através do Fundo de Participação dos Municípios, do imposto sobre produtos industrializados;
+D) 50% do produto da arrecadação do imposto do Estado sobre operações relativas à circulação de
+mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação;
+E) 70% do imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores
+mobiliários, se for Município de origem do ouro como ativo financeiro.
+
+6.      FGV/SEF-MG-Auditor Fiscal/2023
+
+                                                                                                         37
+                                                                                                         48
+
+
+---
+
+Assinale a opção que indica o percentual a que os Estados e o Distrito Federal terão direito a título de
+repartição das receitas tributárias oriundas da arrecadação do Imposto sobre Produtos Industrializados.
+A) 21,5% (vinte e um inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 20% (vinte por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+B) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 20% (vinte por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+C) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e 10% (dez por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+D) 22,5% (vinte e dois inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e
+do Distrito Federal e nenhum percentual das respectivas exportações de produtos industrializados.
+                                                    ==8b9==
+
+E) 21,5% (vinte e um inteiros e cinco décimos por cento) através do Fundo de Participação dos Estados e do
+Distrito Federal e 10% (dez por cento), proporcionalmente ao valor das respectivas exportações de
+produtos industrializados.
+7.     FGV/SEFAZ-AM/2022
+A repartição de receitas tributárias é um instituto presente no nosso ordenamento jurídico visando a
+auxiliar o financiamento das despesas dos entes federativos, principalmente em tributos que guardem
+relação com mais de um ente, por exemplo, União e Estados.
+Os Estados estão obrigados a repartir a arrecadação tributária dos seguintes tributos:
+A) IPVA, na proporção de 20% dos veículos licenciados no seu território e ICMS, na proporção de 50% do
+que for arrecadado.
+B) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 30% do
+que for arrecadado.
+C) IPVA, na proporção de 50% dos veículos licenciados no seu território, e ICMS, na proporção de 25% do
+que for arrecadado.
+D) IPVA, na proporção de 30% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+E) IPVA, na proporção de 25% dos veículos licenciados no seu território, e ICMS, na proporção de 50% do
+que for arrecadado.
+8.     FGV/SEFAZ-ES/2022
+O Estado Alfa reteve o produto da arrecadação do imposto da União sobre a renda e proventos de qualquer
+natureza, incidente na fonte (IRRF), sobre rendimentos pagos a seus servidores estaduais. Contudo,
+insurgiu-se contra o fato de que a União, ao fazer a entrega de recursos ao Fundo de Participação dos
+Estados e do Distrito Federal (FPE), excluiu do cálculo a parcela da arrecadação do IRRF pertencente a
+Estados, ao Distrito Federal e aos Municípios sobre rendimentos pagos, a qualquer título, por eles, suas
+autarquias e pelas fundações que instituírem e mantiverem.
+Diante desse cenário, analise as afirmativas a seguir:
+
+                                                                                                       38
+                                                                                                       48
+
+
+---
+
+I. O Estado Alfa poderia reter para si o produto da arrecadação do IRRF sobre rendimentos pagos a seus
+servidores estaduais, sem transferi-los para a União.
+II. O Estado Alfa não tem razão em se insurgir contra a entrega de recursos ao FPE com exclusão da parcela
+da arrecadação do IRRF pertencente a Estados, ao Distrito Federal e aos Municípios sobre rendimentos
+pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem.
+III. O Estado Alfa deve entregar a seus Municípios parcela dos recursos a ele distribuídas pelo FPE.
+Está correto o que se afirma em
+A) I, apenas.
+B) I e II, apenas.
+C) I e III, apenas
+D) II e III, apenas.
+E) I, II e III.
+9.        FGV/SEFAZ-AM/2022
+O Imposto sobre a Renda é um tributo de arrecadação essencial para o Fisco, tanto pelo montante
+arrecadado como pela fiscalização decorrente dele.
+O produto da arrecadação do Imposto sobre a Renda será
+A) repartido pela União com os Estados e Distrito Federal no percentual de 22% (vinte e dois por cento).
+B) repartido pela União no percentual de 25,5% (vinte e cinco inteiros e cinco décimos por cento) com o
+Fundo de Participação dos Municípios.
+C) repartido pela União no percentual de 50% (cinquenta por cento) apenas com os Estados, o Distrito
+Federal e os municípios por meio de seus Fundos de Participação.
+D) repartido pela União com os Municípios no percentual de 50% (cinquenta por cento).
+E) Exclusivamente da União.
+10.       FGV/SEFAZ-AM/2022
+O Governo Federal sempre que fala em reduzir as alíquotas do Imposto sobre Produtos Industrializados
+sofre críticas, especialmente de Estados e Municípios.
+Sobre a razão legal ou constitucional para estas críticas, assinale a afirmativa correta.
+A) A União não pode agir assim por se tratar de tributo dos Estados.
+B) Pela repartição de receitas tributárias, só os Estados têm razão em reclamar por perderem 25,5 % da
+arrecadação do IPI, que é destinado ao Fundo de Participação dos Estados e do Distrito Federal.
+C) O tributo é da União e não há razão legal ou constitucional para estas críticas.
+O Governo Federal sempre que fala em reduzir as alíquotas do Imposto sobre Produtos Industrializados
+sofre críticas, especialmente de Estados e Municípios.
+Sobre a razão legal ou constitucional para estas críticas, assinale a afirmativa correta.
+
+
+                                                                                                           39
+                                                                                                           48
+
+
+---
+
+D) Pela repartição das receitas tributárias, o Fundo de Participação dos Estados perde 21,5 % e o dos
+Municípios 25,5% da arrecadação do IPI, tendo imediato efeito para ambos.
+E) Pela repartição de receitas tributárias, só os Municípios têm razão em reclamar por perderem 25,5 % da
+arrecadação do IPI, que é destinado ao Fundo de Participação dos Municípios.
+11.    FGV/PM-PB/2022
+O montante da arrecadação dos entes estaduais está sujeito às regras constitucionais de repartição das
+receitas tributárias.
+De acordo com essas regras, os dois principais tributos de competência estadual – imposto sobre operações
+relativas à circulação de mercadorias e serviços (ICMS) e imposto sobre a propriedade de veículos
+automotores (IPVA) – são repartidos com os municípios do respectivo estado, de acordo com os seguintes
+percentuais, respectivamente:
+A) 25% e 25%;
+B) 25% e 50%;
+C) 25% e 75%;
+D) 50% e 25%;
+E) 50% e 50%.
+12.    FGV/TJ-SC/2021
+A União concede isenção de IPI a um setor produtivo. Em virtude disso, vários Municípios ajuízam ações
+contra o ente federal, sob alegação de lesão de seus interesses, por diminuição da arrecadação do IPI, o que
+afetará a parcela arrecadada deste imposto a ser entregue ao Fundo de Participação dos Municípios (FPM).
+Diante desse cenário, é correto afirmar que:
+A) a vedação constitucional de isenção heterônoma proíbe tal concessão em detrimento dos Municípios;
+B) tal medida é inconstitucional, por violação da autonomia financeira dos Municípios;
+C) somente o FPM, fundo constitucional destinatário das verbas, e não os Municípios individualmente
+considerados, teria legitimidade para contestar a concessão de tal isenção;
+D) a União pode conceder tal benefício fiscal, desde que obedecidos os requisitos constitucionais e legais
+para concessão de isenções, em razão do livre exercício de sua competência tributária;
+E) a parcela do IPI entregue ao FPM constitui receita originária dos Municípios, configurando direito
+subjetivo de índole constitucional, razão pela qual tal concessão de isenção pela União é inconstitucional.
+13.    FGV/Fiscal de Tributos-Niterói/2015
+Pertence aos Municípios:
+a) cinquenta por cento do produto da arrecadação do imposto da União sobre renda e proventos de
+qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas
+autarquias e pelas fundações que instituírem e mantiverem;
+b) quarenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial
+rural, relativamente aos imóveis neles situados;
+
+                                                                                                         40
+                                                                                                         48
+
+
+---
+
+c) cinquenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade de veículos
+automotores licenciados em seus territórios;
+d) trinta e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de
+comunicação;
+e) oitenta por cento do produto da arrecadação do imposto da União sobre renda e proventos de qualquer
+natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas
+fundações que instituírem e mantiverem.
+14.    FGV/SEFAZ-RJ-Auditor Fiscal/2011
+A CRFB traça as linhas gerais para a repartição das receitas tributárias nos arts. 157 a 161. É correto afirmar
+que a Constituição determina que
+a) o produto da arrecadação do ITR seja dividido entre Estados e Municípios, relativamente aos imóveis
+neles situados, exceto se o Município fiscalizar e cobrar o referido imposto.
+b) a União entregue 50% (cinquenta por cento) do produto da arrecadação do IPI aos Estados e ao Distrito
+Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
+c) seja vedada a retenção à entrega dos recursos atribuídos a partir das receitas tributárias aos Estados,
+Municípios e ao DF, exceto adicionais e acréscimos relativos a impostos.
+d) caiba à lei ordinária disciplinar os aspectos relativos à repartição de receitas tributárias.
+e) pertençam aos Municípios 25% (vinte e cinco por cento) do produto da arrecadação do ICMS do Estado
+sobre a circulação de mercadorias e sobre prestações de serviços de transporte interestadual e
+intermunicipal e de comunicação.
+
+                                                                                                            41
+                                                                                                            48
+
+
+---
+
+     GABARITO DAS QUESTÕES COMPLEMENTARES
+
+1.    C          6.    E       11.   B
+2.    E          7.    C       12.   D
+3.    C          8.    B       13.   C
+4.    D          9.    B       14.   E
+5.    E          10.   D
+
+                                            42
+                                            48
+
+
+---
+
+       RESUMO DOS ASSUNTOS MAIS IMPORTANTES
+
+IPTU
+
+                                 IMPOSTO SOBRE PROPRIEDADE TERRITORIAL URBANA
+    Competência: Município
+    Finalidade: Fiscal/Extrafiscal
+    Fato Gerador: Propriedade, domínio útil ou posse de imóvel por natureza ou acessão física
+    Base de Cálculo: Valor venal do imóvel
+
+                 Obs.: Constitui exceção ao princípio Anterioridade Nonagesimal
+    Alíquota: Reduzida/Majorada por lei
+    Contribuinte: Proprietário do imóvel, titular do seu domínio útil ou o seu possuidor
+    Lançamento: De ofício
+
+• Quanto à progressividade do IPTU, devemos lembrar que pode ocorrer tanto com base no valor do imóvel
+      (progressividade fiscal) quanto com base no tempo (progressividade extrafiscal):
+
+
+             Progressividade                                                           Com base no
+                                                  Após EC 29/00
+                  Fiscal                                                              valor do imóvel
+
+                                                   Desde 1988
+             Progressividade                                                               Com base no
+                                                (Promulgação da
+                Extrafiscal                                                                  tempo
+                                                     CF/88)
+
+•     O IPTU pode ter sua base de cálculo atualizada pelo Poder Executivo, conforme critérios estabelecidos
+      em lei municipal.
+
+•     O IPTU também pode ter alíquotas diferentes de acordo com a localização e o uso do imóvel.
+
+ITBI
+
+                                   IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS
+
+
+                                                                                                         43
+                                                                                                         48
+
+
+---
+
+    Competência: Município
+    Finalidade: Fiscal
+    Fato Gerador: Transmissão de bens imóveis, e direitos reais sobre imóveis, exceto os de garantia, bem como cessão
+    dos direito a sua aquisição.
+    Base de Cálculo: Valor venal do imóvel
+    Alíquota: Reduzida/Majorada por lei
+    Contribuinte: Qualquer uma das partes na operação tributada
+    Lançamento: Por declaração
+
+• A transmissão de bens imóveis decorrente de causa mortis ou inter vivos a titulo gratuito é tributada pelo
+      ITCMD, imposto estadual. Já a transmissão inter vivos a título oneroso é tributada pelo ITBI, imposto
+      municipal:
+
+
+                           Transmissão
+                                                                         ITCMD
+                           causa mortis
+
+                       Transmissão inter
+                                                                 Título Gratuito
+                            vivos
+
+                         Título Oneroso                                    ITBI
+
+•     O ITBI não incide sobre a transmissão de bens ou direitos incorporados ao patrimônio de pessoa
+      jurídica em realização de capital;
+
+•     O ITBI não incide sobre a transmissão de bens ou direitos decorrente de fusão, incorporação, cisão ou
+      extinção de pessoa jurídica, salvo se, nesses casos, a atividade preponderante do adquirente for a
+      compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil;
+
+•     O ITBI compete ao Município da situação do bem.
+
+ISS
+
+                                 IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA
+    Competência: Município
+    Finalidade: Fiscal
+
+
+                                                                                                                   44
+                                                                                                                   48
+
+
+---
+
+    Fato Gerador: Prestação de serviços previstos na LC 116/03
+    Base de Cálculo: Preço do serviço
+    Alíquota: Reduzida/Majorada por lei
+    Contribuinte: Prestador do serviço
+    Lançamento: Por homologação
+
+• Cabe à lei complementar, em relação ao ISS:
+
+      • fixar as suas alíquotas máximas e mínimas;
+      • excluir da sua incidência exportações de serviços para o exterior.
+      • regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e
+        revogados.
+
+•     O ISS incide também sobre o serviço proveniente do exterior do País ou cuja prestação se tenha iniciado
+      no exterior do País.
+
+•     O ISS não incide sobre as exportações de serviços para o exterior do País;
+
+•     Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar
+      serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional;
+
+•     Em regra, considera-se prestado o serviço e devido o imposto no local do estabelecimento prestador
+      ou, na falta do estabelecimento, no local do domicílio do prestador.
+
+•     A alíquota máxima do ISS é 5%;
+•     A alíquota mínima do ISS é 2%.
+
+                                                                                                          45
+                                                                                                          48
+
+
+---
+
+Repartição das Receitas Tributárias
+
+•   Podemos esquematizar as regras constitucionais acerca das repartições das receitas tributárias da
+    seguinte forma:
+
+    Item              União                               Estados e DF                         Municípios
+                      IRRF
+     1                                                       100%                                 100%
+
+                  IOF sobre ouro
+     2                                                        30%                                  70%
+
+                Impostos Residuais
+     3                                                        20%
+                                                ==8b9==
+
+                CIDE-Combustíveis                                                            25% (ou 7,25%)
+     4                                                        29%
+
+                                              Cobrado p/ União                                     50%
+     5                  ITR
+                                             Cobrado p/ Município                                 100%
+
+     6                                                                                             50%
+                                                             IPVA
+
+     7                                                                                             25%
+                                                             ICMS
+                 IR (Excluído 1*)
+     8                                                    21,5% - FPE                          22,5% - FPM
+                     + IPI + IS
+
+     9                                                    3% para as Regiões Norte, Nordeste e Centro-oeste
+
+                                                                                                1% - FPM
+
+                                                                                                 (Julho)
+                                                                                                1% - FPM
+    10
+                                                                                               (Setembro)
+                                                                                                1% - FPM
+
+                                                                                               (Dezembro)
+
+    11                                                                                        25% (ou 2,5%)
+                      IPI + IS                             10% FPEx
+                                         IBS (Imposto de Competência                               25%
+    12                                   Compartilhada entre E/DF/M)
+
+                                                                                                              46
+                                                                                                              48
+
+
+---
+
+•   Há que se ressaltar que alguns impostos não têm suas receitas repartidas com outros entes. São eles:
+             Impostos cujas Receitas NÃO
+
+                                             Todos os Impostos
+                                                                         Municípios
+                                                Municipais
+                   são Repartidas
+
+                                              Todos Impostos de
+                                             Competência do DF         Distrito Federal
+                                           (Estaduais e Municipais)
+
+
+                                                   ITCMD                   Estados
+
+                                               II, IE, IGF e IEG            União
+
+                                                                                                           47
+                                                                                                           48
+
+
+---

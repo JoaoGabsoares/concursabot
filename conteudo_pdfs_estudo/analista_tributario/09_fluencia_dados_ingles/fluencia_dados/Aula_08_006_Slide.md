@@ -1,0 +1,1912 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 08_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: INFORMÁTICA
+---
+
+# INFORMÁTICA
+
+---
+
+---
+
+INFORMÁTICA
+
+                       Profa. Emannuelle Gouveia
+                       @Emannuellegouveia
+
+---
+
+CURSO DE BANCO DE DADOS
+
+                             Prof. Emannuelle Gouveia
+                             @Emannuelle Gouveia
+
+
+          
+
+
+---
+
+                            MODELO LÓGICO
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+1- MODELO LÓGICO
+
+      Vamos agora “descer” mais um nível no processo de modelagem,
+  chegando a modelagem lógica que é menos abstrata e mais próxima da
+  modelagem física.
+      Temos diversas formas de representar o modelo lógico, conforme
+  podemos observar no quadro abaixo:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+        O Modelo de Dados trata da representação conceitual dos dados
+  ﬁsicamente armazenados e é capaz de representar dados por meio de uma
+  linguagem matemática, utilizando teoria de conjuntos e lógica de predicado
+  de primeira ordem.
+        Ele também introduziu técnicas de consultas simpliﬁcadas e uma maior
+  facilidade de interação com o BD.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+          2.1- Tabelas
+
+       O modelo relacional representa os dados como um conjunto de relações.
+       Graﬁcamente os elementos são dispostos em tabelas, formadas por
+  linhas e colunas, onde as tabelas devem representar elementos do mundo
+  real, as colunas indicam qualidades desses elementos e as linhas agrupam
+  valores que representam um fato do mundo real.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+       Na terminologia formal, a tabela é chamada de relação, as linhas são chamadas
+  de tuplas, as colunas são chamadas de atributos e o tipo do dado a ser armazenado é
+  chamado de domínio.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+2- MODELO RELACIONAL
+      Na prática, alguns conceitos são deduzidos sem muita rigidez, mas a
+  prova de concurso, devemos ressaltar alguns detalhes:
+
+ a) A ordenação das tuplas na relação: Uma relação é deﬁnida como um
+    conjunto de tuplas, ou seja, um conjunto de elementos não duplicados
+    que não possuem ordem entre si, podendo ser ordenadas de acordo com
+    a necessidade do usuário.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+       b) Ordem dos valores nas tuplas e uma deﬁnição alternativa de uma
+  relação: a ordenação dos atributos/colunas pode ser relevante dependendo
+  do nível de abstração. Existe uma divergência na literatura quanto a
+  ordenação dos componentes em uma tupla onde os principais autores
+  aﬁrmam que a ordem das colunas é signiﬁcativa, mesmo que aﬁrmem que “...
+  em um nível mais abstrato, a ordem dos atributos e seus valores não é tão
+  importante, desde que a correspondência entre atributos e valores seja
+  mantida” (Navathe)
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+       c) Valores e Null nas tuplas: Cada valor em uma tupla é um valor
+  atômico, ou seja, ele não é divisível em componentes dentro da estrutura
+  básica do modelo relacional, não sendo permitidos atributos compostos ou
+  multivalorados. Quando um campo não for preenchido por inexistência do
+  valor ou por desconhecimento, assumirá o valor NULL.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+       d) Interpretação de uma relação: O esquema de relação pode ser
+  interpretado como uma declaração ou um tipo de aﬁrmação (ou asserção),
+  onde cada tupla na relação pode então ser interpretada como um fato ou
+  uma instância em particular da aﬁrmação. Algumas relações podem
+  representar fatos sobre entidades e outras sobre relacionamentos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+          2.2- Álgebra Relacional
+
+       A álgebra relacional foi adotada por Codd como a base das linguagens
+  de consulta de banco de dados, sendo uma linguagem de consulta formal,
+  ou seja, uma coleção de operações de alto nível sobre relações ou conjuntos
+  cujo resultado seja uma nova relação ou conjunto.
+       As operações são: Seleção, Projeção, Produto Cartesiano, União,
+  Diferença, Junção e Intersecção. Sendo as cinco primeiras primitivas (não
+  podem ser obtidas a partir de outras) e as duas últimas derivadas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia                 
+
+
+---
+
+2- MODELO RELACIONAL
+      a) Seleção : Trata-se de uma operação unária que ﬁltra as linhas de uma
+  tabela que satisfazem um conjunto de condições ou predicados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+       b) Projeçao: Trata-se de uma operação unária que seleciona as colunas
+  especiﬁcadas de todas as linhas da relação, excluindo as linhas duplicadas do
+  resultado (chamadas de duplicatas). Em contraste com a operação de Seleção
+  – que seleciona as linhas que satisfazem uma condição –, a operação de
+  Projeção projeta as colunas especiﬁcadas na lista de atributos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+       c) Produto Cartesiano: Também chamado de Produto Cruzado ou Junção
+  Cruzada, trata-se de uma operação binária que produz um resultado que
+  combina as linhas de uma tabela com as linhas de outra tabela. Notem que o
+  resultado contempla todas as combinações das duas tabelas. Além disso, a
+  quantidade de colunas é igual à soma das colunas das tabelas e a quantidade
+  de linhas é igual ao produto da quantidade de linhas de cada tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+      d) Junção: É uma operação binária que produz um resultado que
+  combina as linhas de uma tabela com as linhas de outra tabela, onde as
+  colunas duplicadas são removidas
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+       e) União: É uma operação binária que produz como resultado uma nova
+  tabela que contém todas as linhas da primeira tabela seguidas de todas as
+  linhas da segunda tabela. A tabela resultante possui a mesma quantidade de
+  colunas que as tabelas originais, e tem um número de linhas que é – no
+  máximo – igual à soma das linhas de ambas as tabelas.
+        Essa operação só pode ser realizada se as tabelas possuírem a mesma
+  estrutura: mesma quantidade de colunas e as colunas devem possuir o
+  mesmo domínio.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+      f) Intersecção: É uma operação binária que produz como resultado uma
+  tabela que contém, sem repetições, todos os elementos que são comuns às
+  duas tabelas fornecidas como operandos. É importante ressaltar que a
+  mesma restrição que valia para a operação de União também vale para a
+  operação de Intersecção.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+       g) Diferença: É uma operação binária que produz como resultado uma
+  tabela que contém todas as linhas que existem na primeira tabela e não
+  existem na segunda tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+          Vale salientar que uma operação é dita comutativa quando a sua ordem
+      é indiferente. Das operações vistas, apenas a projeção e diferença não são
+      comutativas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+      01- (IFB – 2017) Segundo Elmasri (2011), na terminologia formal do modelo
+      relacional, uma linha, um cabeçalho de coluna e a tabela, são chamados,
+      respectivamente, de:
+
+      a) Registro, atributo, domínio
+      b) Tupla, atributo e relação
+      c) Registro, atributo e relação
+      d) Relação, domínio e registro
+      e) Relação, tupla e registro
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+  02- (TCE/PE – 2017) Em uma relação, os nomes das colunas são únicos, as linhas
+  são distintas entre si, e a ordem da disposição das linhas e colunas é irrelevante
+  para o banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+      03- (UFC – 2018) De acordo com a álgebra relacional, marque a opção que
+      contenha apenas operações fundamentais.
+
+      a) Divisão, seleção, diferença.
+      b) Agregação, projeção, união.
+      c) Junção natural, seleção, projeção.
+      d) Seleção, projeção, produto cartesiano.
+      e) Interseção, produto cartesiano, junção natural.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+      04. (CESPE / PC-PB - 2022) Na álgebra relacional, a operação que permite
+      combinar informações de duas relações quaisquer é:
+
+      a) o produto cartesiano.
+      b) a seleção.
+      c) a projeção.
+      d) a renomeação.
+      e) a união.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+2- MODELO RELACIONAL
+       2.3) View: Uma visão é um objeto que não armazena dados, ela é um
+  conjunto de dados agrupados e criados como resultado de uma consulta a
+  uma estrutura física (tabelas). Elas não fazem parte do esquema físico, é uma
+  espécie de “tabela virtual” computada ou coletada dinamicamente dos
+  dados no banco de dados todas as vezes em que o acesso àquela visão for
+  solicitado.
+                Sendo assim, alterações feitas em dados das tabelas, serão
+  automaticamente reﬂetidos nas visões
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+2- MODELO RELACIONAL
+  Suas principais vantagens são:
+
+   • Aumentar a segurança pois propicia uma visão limitada e controlada dos
+     dados
+   • Aumenta a performance porque utiliza uma consulta previamente
+     otimizada e evita a busca dessa junção de dados dinamicamente no BD.
+   • Pode restringir o acesso aos usuários
+   • Simpliﬁca a interação entre usuário ﬁnal e o banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+2- MODELO RELACIONAL
+  OBS: temos ainda a View Materializada que é armazenada de forma não
+  volátil. Tem um melhor desempenho visto que o seu resultado já ﬁca
+  armazenado no banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+      2.4) Indices: São referências associadas as chaves e são utilizados para
+  otimizar buscas, pois permite a localização mais rápida de um registro em
+  uma tabela, para isso, cria ponteiros para os dados armazenados em colunas
+  especíﬁcas. Seria a mesma idéia de usar o índice de um livro para facilitar o
+  acesso a uma parte de um livro.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+2- MODELO RELACIONAL
+     2.5) Chave : as chaves são muito importantes nos bancos relacionais.
+  Vamos agora conhecer os principais tipos:
+
+ a) Superchave: é um conjunto de uma ou mais colunas que, tomadas
+    coletivamente, permitem identiﬁcar de maneira unívoca uma linha de uma
+    tabela. Toda tabela possui pelo menos uma superchave padrão, que é o
+    conjunto de todas as colunas de uma tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+
+  b) Chave primária: conjunto de atributos mínimo que identiﬁca de forma
+  unívoca qualquer linha de uma tabela. Também chamada de superchave
+  mínima.
+  c) Chave Composta: é uma superchave mínima que possui mais de um
+  atributo.
+  d) Chave candidata: campo que também ser escolhido como chave primária
+  e) Chave Secundária: a chave candidata que não foi escolhida como primária
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+       f) Chave estrangeira: chave de uma tabela que se relacionam com a
+  chave de outra tabela ou até mesmo da própria tabela (auto relacionamento).
+  Deve satisfazer duas regras: as colunas que a compõem devem ter o mesmo
+  domínio que as colunas da chave candidata da tabela referenciada; o valor da
+  chave estrangeira em uma relação deve ocorrer também na tabela
+  referenciada ou ser nula.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+  OBS: AS restrições de chave e as restrições de integridade de entidade são
+  especiﬁcadas sobre relações individuais, já a restrição de integridade
+  referencial é é especiﬁcada entre duas tabelas e utilizada para manter a
+  consistência entre linhas nas duas tabelas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+2- MODELO RELACIONAL
+  OBS2: O Cespe entende que a chave estrangeira referencia a chave primária
+  e não a chave candidata de outra tabela ou da mesma tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  05. (CESPE / FUNPRESP-EXE - 2022) Seguindo uma visão relacional, além de
+  seus próprios atributos, a entidade ENDERECO deve possuir como chave
+  estrangeira a chave primária CODIGO da tabela PESSOA.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  06. (FGV / SEFAZ-BA – 2022) Com relação aos conceitos de banco de dados
+  relacionais, analise as aﬁrmativas a seguir.
+  I. Instância do banco se refere à supressão de detalhes da organização e do
+  armazenamento de dados, descartando para um melhor conhecimento
+  desses dados os recursos essenciais.
+  II. Modelo de dados se refere a uma coleção de conceitos que podem ser
+  utilizados para descrever a estrutura de um banco de dados, oferecendo os
+  meios necessários para alcançar essa abstração.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+         III. Abstração de dados refere aos conjuntos de dados e metadados e
+  usuários presentes no servidor de dados em um determinado instante. Está
+  correto o que se aﬁrma em:
+  a) I, somente.
+  b) II, somente.
+  c) III, somente.
+  d) I e II, somente.
+  e) I e III, somente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  07. (CESPE / FUNPRESP-EXE - 2022) View é uma visualização customizada de
+  uma ou mais tabelas, com seus dados armazenados ﬁsicamente e montada a
+  partir da execução de uma consulta.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  08. (CESPE / ISS-Aracaju – 2021) Em um banco de dados relacional, a
+  condição que garante que valores não possam se repetir dentro da mesma
+  coluna denomina-se:
+
+  a) Foregin key.
+  b) Cláusula unique.
+  c) Domain restriction.
+  d) Índice cluster.
+  e) Reference key.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  09. .(CESPE / APEX-BRASIL – 2021) Não pode ter valor nulo em uma tabela
+  do banco de dados um campo:
+
+  a) que seja chave estrangeira.
+  b) que tenha sido utilizado em um índice.
+  c) que seja chave primária.
+  d) que represente uma data de nascimento.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  10. (CESPE / TCE-RJ – 2021) Superchaves e chaves primárias são utilizadas para
+  diferenciar de maneira única as instâncias de uma entidade, assim como para
+  facilitar o processamento
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  11.CESPE / TCE-RJ – 2021) No modelo relacional de bancos de dados, os
+  elementos ﬁcam armazenados em tabelas bidimensionais simples, contendo
+  linhas (registros) e colunas (campos), e os elementos de um arquivo do banco
+  podem relacionar-se com diversos elementos de outros arquivos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  12.CESPE / Polícia Federal – 2021) Se uma tabela de banco de dados tiver
+  205 atributos, então isso signiﬁca que ela tem 205 registros.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+  2.6) Relacionamentos: é a relação entre as tabelas.
+
+  Podem ser:
+
+   • um-para-um (1:1);
+   • um-para-muitos (1:N);
+   • muitos-para-muitos (N:M).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+2- MODELO RELACIONAL
+
+       Relacionamento um-para-um (1:1): Quando uma linha de uma tabela
+  está associada com uma linha de outra tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+2- MODELO RELACIONAL
+      Relacionamento um-para-muitos : quando uma linha de uma tabela está
+  associada a diversas linhas de outra tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+2- MODELO RELACIONAL
+      Relacionamento Muitos-Para-Muitos : quando várias linhas de uma
+  tabela se associam a várias linhas de outra tabela.
+      Deve ser mapeado para uma tabela associativa.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  13 (QUADRIX – 2019) Em um modelo entidade-relacionamento (MER), diz-se
+  que, em um relacionamento 1..1 – um para um, cada entidade pode
+  referenciar múltiplas unidades daquele com o qual se relaciona.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  14. (UFVJM/MG – 2017) Em um relacionamento entre duas entidades, em
+  que a primeira pode se relacionar com vários registros na segunda, e a
+  segunda se relaciona com apenas uma na primeira, tem-se:
+  a) Relacionamento 1-1
+  b) Relacionamento 1-N
+  c) Relacionamento N-N
+  d) Relacionamento N-M
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  15     (SEFAZ/RS     –  2018)   No    mapeamento       de      um    modelo
+  entidade-relacionamento para um modelo relacional de banco de dados, o
+  tipo de relacionamento que implica a criação de uma terceira tabela para
+  onde serão transpostos as chaves primárias e os eventuais atributos das duas
+  tabelas originais é denominado:
+  a) relacionamento N:N.
+  b) relacionamento 1:1.
+  c) relacionamento 1:N.
+  ) autorrelacionamento 1:N.
+  e) relacionamento ternário.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+3- REGRAS DE CODD
+       Edgar F. Codd foi matemático britânico que formulou as bases para a
+  ideia de banco de dados, com a criação do modelo de banco de dados
+  relacional
+       Temos 13 Regras de Codd numeradas de 0 a 12. Elas deﬁnem o que é
+  necessário para que um Banco de Dados seja considerado relacional.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+3- REGRAS DE CODD
+     Regra 00- Regra Fundamental/Base
+         Para que um sistema que seja considerado como um SGBD Relacional,
+     ele deverá gerenciar bancos de dados exclusivamente através de suas
+     capacidades relacionais (tabelas, linhas, colunas, restrições, etc).
+         Não só o armazenamento, mas também o controle deve ser feito com os
+     fundamentos do modelo relacional (controle de permissão, catálogo de
+     metadados, controle de concorrência)
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 01- Regra da Informação
+       Todas as informações de um banco de dados relacional devem ser
+  representadas logicamente como dados dentro de colunas pertencentes a
+  registros de uma tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 02- Regra de Garantia de Acesso
+      Os dados devem ser acessíveis. Deve-se garantir que todos os valores de
+  uma tabela possam ser acessados por meio de uma combinação de nome de
+  tabela, valor de chave primária e nome de coluna.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 03- Regra do Tratamento Sistemático de Valores Nulos
+       Os valores nulos (que são diferentes da cadeia de caracteres vazia, do
+  valor zero ou de qualquer outro número) são suportados pelo SGBD
+  Relacional para representar informação ausente ou não aplicável e tratados
+  de uma maneira sistemática, independentemente do tipo de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+3- REGRAS DE CODD
+   Regra 04- Regra do Catálogo Online baseado no Modelo Relacional
+       A descrição do banco de dados está representada, no nível lógico, da
+   mesma maneira que os dados comuns, de forma que os usuários autorizados
+   possam aplicar a eles a mesma linguagem relacional de consulta utilizada
+   para consultar dados normais.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 05: Regra da Sublinguagem Ampla/Compreensiva de Dados
+       O Banco de Dados Relacional pode oferecer suporte a múltiplas
+  linguagens e meios de acesso. No entanto, deve existir pelo menos uma
+  linguagem declarativa bem deﬁnida com suporte às seguintes operações:
+  deﬁnição de dados;
+  deﬁnição de views;
+  manipulação de dados;
+  restrições de integridade;
+  autorização;
+  controle de transação.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 06 - Regra da Atualização por meio de Views
+       Toda view teoricamente atualizável deve ser também atualizável na
+  prática por meio do sistema.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 07- Regra da Inserção, Atualização e Exclusão de Alto Nível
+      A capacidade de gerenciar uma relação base ou uma relação derivada
+  com um só operando se aplica não somente à extração de dados, mas
+  também à inserção, atualização e remoção dos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+3- REGRAS DE CODD
+   Regra 08- Regra da Independência Física de Dados
+         Aplicações e recursos permanecem logicamente inalterados quando
+   ocorrem mudanças no método de acesso ou na forma de armazenamento
+   físico.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 09- Regra da Independência Lógica de Dados
+       Aplicações e recursos ad hoc (formas mais ﬂexíveis de pesquisar
+  informações sobre dados) não são afetados logicamente quando de
+  alterações de estruturas de tabela que preservem os valores originais da
+  tabela (alteração da ordem ou inserção de colunas).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 10- Regra da Independência de Integridade
+       As aplicações não são afetadas quando ocorrem mudanças nas regras de
+  restrições de integridade. Deve ser possível que todas as regras de
+  integridade sejam deﬁnidas na linguagem relacional e armazenadas no
+  catálogo de sistema e, não, no nível de aplicação.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 11- Regra da Independência de Distribuição
+      Aplicações não são logicamente afetadas quando ocorrem mudanças
+  geográﬁcas de dados, ou seja, os usuários ﬁnais não devem perceber o fato
+  de o banco de dados ser distribuído ou local.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+3- REGRAS DE CODD
+  Regra 12- Regra da Não-Transposição/Subversão
+      Se um sistema possui uma linguagem de baixo nível, essa linguagem não
+  pode ser usada para subverter as regras de integridades e as restrições
+  deﬁnidas no nível mais alto.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+3- REGRAS DE CODD
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  16. (CESPE / SEFAZ - RS – 2019) Uma das regras de Codd para o modelo
+  relacional consiste:
+  a) na independência de distribuição.
+  b) na presença de uma linguagem de programação no SGBD que promova
+  interface com o banco de dados, com a segurança e com a atualização dos
+  dados.
+  c) na subversão das regras de integridade ou restrições quando utilizada uma
+  linguagem de baixo nível.
+  d) no não tratamento das atualizações de visões de dados.
+  e) na dependência de dados físicos (mudança na memória e no método de
+  acesso).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  17. (FCC / TRF4 – 2019) Dentre as regras de Codd que caracterizam Bancos
+  de Dados Relacionais, a regra da Independência de Integridade estipula que
+  as várias formas de integridade relacional de banco de dados:
+  a) precisam ser deﬁnidas na linguagem relacional e armazenadas dentro do
+  catálogo do sistema ou dicionário de dados, e ser totalmente independentes
+  da lógica dos aplicativos.
+  b) podem ser representadas em tabelas relacionais especíﬁcas que se
+  relacionam com as tabelas de cada aplicativo. Quando um aplicativo mudar, a
+  regra de independência muda automaticamente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+    c) precisam ser deﬁnidas na linguagem de cada aplicativo e armazenadas
+    como tabelas relacionais dentro do banco de cada aplicativo, pois somente
+    desta forma, ao mudar o aplicativo, as regras de integridade mudarão
+    também, automaticamente.
+    d) podem ser deﬁnidas em linguagem natural ou em Shell script e
+    armazenadas no dicionário de dados ou dentro do catálogo do sistema;
+    contudo, não há como garantir que elas sejam totalmente independentes da
+    lógica dos aplicativos na totalidade das situações.
+    e) devem ser escritas em linguagem hierárquica ou de rede pois, desta forma,
+    tanto a hierarquia das tabelas quanto os links entre elas, como ocorre nos
+    bancos em rede, conduzirão às mudanças automáticas das integridades ao se
+    mudar algum aplicativo.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  18.(FGV / IBGE - 2017) Na década de 80, Edgar Frank Codd deﬁniu um
+  conjunto de regras para deﬁnir o que são bancos de dados relacionais. A
+  opção que NÃO faz parte dessas regras, é:
+  a) qualquer visualização que teoricamente possa ser atualizada deve ser
+  realizada através do próprio sistema;
+  b) aplicativos e recursos ad hoc não devem ser afetados logicamente quando
+  os métodos de acesso ou as estruturas de armazenamento físico forem
+  alterados;
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  c) restrições de integridade necessitam ser especiﬁcadas dentro dos
+  programas de aplicação, de modo que mudanças nessas restrições sejam
+  observadas por essas aplicações;
+  d) todas as informações no banco devem ser representadas logicamente
+  como valores de coluna em linhas dentro das tabelas;
+  e) os usuários ﬁnais e aplicativos não devem conhecer nem serem afetados
+  pela localização dos dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  19.(FCC / SEFAZ - SP - 2009) Considere a seguinte regra de Codd, aplicada
+  aos bancos de dados relacionais: A descrição do banco de dados é
+  representada no nível lógico da mesma forma que os dados ordinários,
+  permitindo que usuários autorizados utilizem a mesma linguagem relacional
+  aplicada aos dados regulares. O sentido dessa regra diz respeito à:
+  a) formação do catálogo.
+  b) manipulação, por meio de visões.
+  c) independência física.
+  d) independência lógica.
+  e) independência de distribuição.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  20.(FCC/ TRF – 4 REGIÃO(RS) - 2011) No contexto de banco de dados
+  relacional, das 12 regras deﬁnidas por Codd, aquela que determina que os
+  programas de aplicação e as operações interativas devem permanecer
+  logicamente inalteradas, quaisquer que sejam as trocas efetuadas nas
+  representações de armazenamento e métodos de acesso, chama-se
+  independência:
+  a) lógica dos dados.
+  b) física dos dados.
+  c) de acesso.
+  d) de integridade.
+  e) de distribuição.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  21.(SELECON / EMGEPRON - 2012) Considere:
+  I. Regra 1 - Todas as informações são representadas de forma explícita no
+  nível lógico e exatamente em apenas uma forma, por valores em tabelas.
+  II. Regra 2 - Cada um e qualquer valor atômico (datum) possui a garantia de
+  ser logicamente acessado pela combinação do nome da tabela, do valor da
+  chave primária e do nome da coluna.
+  III. Regra 3 - Valores nulos não devem ser utilizados de forma sistemática,
+  independente do tipo de dado ainda que para representar informações
+  inexistentes e informações inaplicáveis.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  Das regras de Codd para bancos de dados relacionais, está correto o que
+  consta em: a) I, apenas.
+  b) II, apenas.
+  c) I e II, apenas.
+  d) II e III, apenas.
+  e) I, II e III.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  22.(CESPE / ME – 2020) Chaves estrangeiras não podem ser nulas e cada
+  registro na tabela deve possuir uma, e somente uma, chave estrangeira.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  23.(CESPE / ME – 2020) Em um banco de dados relacional, a chave candidata
+  a primária é formada por um ou mais atributos que identiﬁcam uma única
+  tupla.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  24.(CESPE / ME – 2020) A restrição de integridade referencial exige que os
+  valores que aparecem nos atributos especiﬁcados de qualquer tupla na
+  relação referenciadora também apareçam nos atributos de pelo menos uma
+  tupla na relação referenciada.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  25.(CESPE / ME – 2020) Um banco de dados relacional organiza os dados em
+  tabelas e os vincula, com base em campos-chave, e essas relações permitem
+  recuperar e combinar dados de uma ou mais tabelas com uma única consulta.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  26.(CESPE / Polícia Federal – 2018) Situação hipotética: Ao analisar um
+  computador, Marcos encontrou inúmeros emails, vídeos e textos advindos,
+  em sua maioria, de comentários em redes sociais. Descobriu também que
+  havia relação entre vários vídeos e textos encontrados em um diretório
+  especíﬁco. Assertiva: Nessa situação, tendo como referência somente essas
+  informações, Marcos poderá inferir que se trata de um grande banco de
+  dados relacional, visto que um diretório é equivalente a uma tabela e cada
+  arquivo de texto é equivalente a uma tupla; além disso, como cada arquivo
+  possui um código único, poderá deduzir que esse código é a chave primária
+  que identiﬁca o arquivo de forma unívoca.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  27.(CESPE / FUB – 2018) Álgebra relacional é um conjunto de operações
+  sobre relações, sendo gerada dessas operações uma relação de saída.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  28.(CESPE / Polícia Federal – 2018)
+  CPF
+  NOME
+  DATA DE NASCIMENTO
+  NOME DO PAI
+  NOME DA MAE
+  TELEFONE
+  CEP
+  NUMERO
+  As informações anteriormente apresentadas correspondem aos campos de uma tabela
+  de um banco de dados, a qual é acessada por mais de um sistema de informação e
+  também por outras tabelas. Esses dados são utilizados para simples cadastros, desde a
+  consulta até sua alteração, e também para prevenção à fraude, por meio de veriﬁcação
+  dos dados da tabela e de outros dados em diferentes bases de dados ou outros meios
+  de informação.
+  A referida tabela faz parte de um banco de dados relacional.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+     29.(FGV / MPE-AL – 2018) Em um banco de dados relacional, um nome da
+     tabela, uma chave primária e um nome de coluna garantem o acesso a:
+
+     a) um dado.
+     b) um SGBD.
+     c) uma linguagem de consulta.
+     d) uma partição.
+     e) uma visão.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+    30.(FGV / AL-RO – 2018) No processo de otimização e processamento de
+    consultas em bancos de dados relacionais, a construção da query tree (ou
+    árvore de consulta) é feita com base nas operações da Álgebra Relacional.
+    Assinale a opção que indica as operações primitivas dessa álgebra, ou seja,
+    as operações que não podem ser expressas por combinações das demais
+    operações:
+
+    a) Diferença, Divisão, Projeção, Produto, Seleção.
+    b) Diferença, Projeção, Produto, Seleção, União.
+    c) Divisão, Interseção, Junção, Produto, Seleção, União.
+    d) Junção, Projeção, Produto, Seleção, União.
+    e) Junção, Produto, Projeção, Seleção, União.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+                            NORMALIZAÇÃO
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+      A normalização é um processo que busca reavaliar a modelagem de um
+  banco buscando eliminar, ou pelo menos minimizar, a redundância e alcançar
+  a melhoria de performance. Esse procedimento é feito a partir da
+  identiﬁcação de uma anomalia em uma tabela, decompondo-a em tabelas
+  mais bem estruturadas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+       Anomalias são problemas que ocorrem em bancos de dados mal projetados.
+  Existem basicamente três tipos de anomalias:
+  anomalia de inserção;
+  anomalia de exclusão e
+  anomalia de modificação.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  a) ANOMALIA DE INCLUSÃO: Não deve ser possível adicionar um dado em uma
+  tabela a não ser que outro dado esteja disponível. Por exemplo: não deve ser
+  permitido cadastrar um novo conteúdo na tabela Conteúdo sem que a disciplina
+  desse conteúdo esteja cadastrada na Tabela de Disciplinas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  b) ANOMALIA DE EXCLUSÃO: Ao excluir um registro do banco de dados, dados
+  referenciados em outra tabela devem ser excluídos. Por exemplo: se excluirmos um
+  aluno na Tabela de Alunos, as matrículas desse aluno também devem ser excluídas,
+  em cascata, na Tabela de Matrículas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+  c) ANOMALIA DE MODIFICAÇÃO: Ao alterar um dado em uma tabela,
+  dados em outras tabelas precisam ser alterados. Por exemplo: se o código
+  que identiﬁca um aluno for modiﬁcado, esse código deve ser modiﬁcado na
+  Tabela de Alunos e na Tabela de Matriculas para manter o relacionamento
+  correto entre alunos e suas matrículas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+        Em 1972, Edgar F. Codd criou o processo de normalização, que é
+  utilizado para se certiﬁcar que determinada tabela satisfaça um conjunto de
+  regras chamada Formas Normais (FN). Cada forma normal representa uma
+  condição mais forte que a sua precedente.
+        Na maioria dos casos, a terceira forma normal (3FN) é o mínimo
+  necessário para considerar que um banco de dados está normalizado.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+                            Formas Normais
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+      Primeira Forma Normal (1FN): Uma tabela está na 1FN se, e somente se,
+      todos os valores dos atributos forem atômicos (indivisíveis), ISTO É, NÃO
+      DEVEM EXISTIR ATRIBUTOS MULTIVALORADOS ou compostos
+
+           Para normalizar o banco, podemos converter os atributos não atômicos
+      em ouras tabelas ou em outros campos na mesma tabela evitando repetições
+      e campos com múltiplos valores. Ao reorganizar todos os campos
+      não-atômicos das tabelas de um banco de dados, podemos aﬁrmar que ela
+      atinge uma forma estrutural denominada de Primeira Forma Normal (1FN)1 .
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  Segunda Forma Normal (2FN): Uma tabela está na 2FN se, e somente se,
+  estiver na 1fn e cada atributo não-chave for dependente da chave primária
+  (ou candidata) inteira, isto é, não devem existir dependências parciais.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+      Dependência funcional total: ocorre quando todo atributo não-chave de
+  uma relação depende da chave primária como um todo e, não, somente de
+  parte dela;
+      Dependência funcional parcial: ocorre quando algum atributo não chave
+  de uma relação depende apenas de parte da chave primária e, não, dela
+  como um todo e somente ocorre quando temos uma chave primária
+  composta.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  Terceira Forma Normal (3FN): Uma tabela está na 3FN se, e somente se,
+  estiver na 2fn e cada atributo não-chave NÃO POSSUIR DEPENDÊNCIA
+  TRANSITIVA PARA CADA CHAVE CANDIDATA
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+      Dependência Funcional Transitiva. Essa dependência ocorre quando uma
+  coluna, além de depender da chave primária da tabela, depende de outra
+  coluna (ou conjunto de colunas) dessa tabela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  Forma Normal de Boyce-Codd (FNBC): Uma tabela está na FNBC se, e
+  somente se, estiver na 3fn e, para cada dependência x -> y NÃO TRIVIAL, X
+  deverá ser uma superchave, isto é, todo determinante é uma chave candidata
+
+       Ela é basicamente uma forma normal um pouco mais forte que a 3FN. É
+  importante saber que toda tabela que esteja na FNBC está na 3FN, mas nem
+  toda tabela na 3FN está na FNBC.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+      As demais formas normais são raríssimas tanto na prática do proﬁssional
+  de tecnologia da informação quanto nas questões de prova. Logo,
+  apresentaremos só as deﬁnições:
+
+  Quarta Forma Normal (4FN): Uma tabela está na 4FN se, e somente se,
+  estiver na 3fn e não existirem dependências multivaloradas
+
+  Quinta Forma Normal (5FN): Uma tabela está na 5FN se, e somente se,
+  estiver na 4fn e não existirem dependências de junções
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+    Axiomas de Armstrong: são as propriedades das dependências funcionais
+
+    a) Reﬂexividade Se Y ⊇ X, então X → Y : Exemplo: vamos supor o atributo X
+    = {CPF, NOME} e o atributo Y = NOME. Ora, NOME (Y) está contido em
+    {CPF, NOME} (X). Logo, podemos concluir que {CPF, NOME} (X) determina
+    NOME (Y).
+
+    b) Incremental/aditiva/expansibilidade Se X → Y, então XZ → YZ : Exemplo:
+    vamos supor os atributos X = CPF, Y = NOME e Z = IDADE. Sabendo que
+    CPF(X) determina NOME(Y), podemos concluir que {CPF, IDADE} determina
+    {NOME, IDADE}. Se os mesmos atributos são inseridos à esquerda e à direita,
+    a dependência funcional permanece igual2 .
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  c) Transitividade Se X → Y e Y → Z, então X → Z: Exemplo: vamos supor o
+  atributo X = CPF, o atributo Y = CEP e o atributo Z = ESTADO. Sabendo que
+  CPF(X) determina CEP(Y), e que CEP(Y) determina ESTADO(Z), podemos
+  concluir que CPF(X) determina ESTADO(Z). Similar à propriedade matemática
+  de transitividade.
+
+  d) Trivialidade/autodeterminação X → X : Exemplo: como o próprio nome
+  diz, essa é simplesmente a propriedade trivial de um atributo determinar-se a
+  si próprio. É evidente que CPF(X) determina CPF(X) – trata-se de do axioma
+  da autodeterminação.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+  e) Decomposição/separação Se X → YZ, então X → Y e X → Z: Exemplo:
+  vamos supor os atributos X = CPF, Y = NOME e Z = ESTADO_CIVIL. Se
+  CPF(X) determina {NOME, ESTADO_CIVIL}, podemos decompor essa
+  dependência funcional e aﬁrmar que CPF(X) determina NOME (Y) e CPF(X)
+  determina ESTADO_CIVIL(Z).
+
+  f) União/reunião/combinação Se X → Y e X → Z, então X → YZ: Exemplo:
+  vamos supor os atributos X = CPF, Y = NOME e Z = ESTADO_CIVIL. Se
+  CPF(X) determina NOME (Y) e CPF(X) determina ESTADO_CIVIL(Z), podemos
+  aﬁrmar que CPF(X) determina {NOME, ESTADO_CIVIL}.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  g) Composição Se X → Y e A → B, então XA → YB: Exemplo: vamos supor os
+  atributos X = CPF, Y = NOME, A = CEP e B = ESTADO. Se CPF(X) determina
+  NOME (Y) e CEP(A) determina ESTADO(B), podemos aﬁrmar que {CPF,CEP}
+  determina {NOME,ESTADO}.
+
+
+  h) Pseudo-transitividade Se X → Y e YZ → W, então XZ → W : Exemplo:
+  vamos supor os atributos X = CPF, Y = COD_SIAPE3 , Z = MES e W =
+  REMUNERACAO. Se CPF(X) determina COD_SIAPE(Y) e {COD_SIAPE,MES}
+  determina REMUNERACAO(W), podemos aﬁrmar que {CPF, MES} determina
+  REMUNERACAO.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  i) Acumulação Se X → Y, então XZ → Y: Exemplo: vamos supor os atributos X
+  = CPF, Y = NOME e Z = IDADE. Se CPF(X) determina NOME(Y), podemos
+  aﬁrmar que {CPF, IDADE} determina NOME. Na verdade, qualquer atributo
+  inserido à esquerda continua determinando o atributo da direita.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+    1. (FGV / SEFAZ-BA – 2022) Leia o fragmento a seguir. “Uma tabela está na
+    _____ se, e somente se, para cada _____, onde X e A são atributos simples ou
+    compostos, uma das duas condições precisam ser mantidas: ou o atributo X é
+    uma _____, ou o atributo A é uma chave candidata. Se o atributo A é membro
+    de uma chave candidata”. Assinale a opção cujos itens completam
+    corretamente as lacunas do fragmento acima.
+
+    a) forma normal boyce-codd – dependência multivalorada – chave primária.
+
+    b) forma normal boyce-codd – dependência funcional não trivial X ->-> A –
+    chave primária.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+    c) terceira forma normal – dependência funcional trivial X -> A – chave
+    candidata.
+
+    d) terceira forma normal – dependência funcional não trivial X -> A –
+    superchave.
+
+    e) quarta forma normal – dependência funcional trivial X ->-> A – chave
+    candidata.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  2. (CESPE / FUNPRESP-EXE - 2022) Colocar uma tabela na segunda forma
+  normal (2FN) signiﬁca que toda coluna não chave depende diretamente da
+  chave primária.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  Para a questão a seguir, considere uma tabela relacional R, com atributos W,
+  X, Y, Z, e o conjunto de dependências funcionais identiﬁcadas para esses
+  atributos.
+  X -> Y
+  X -> Z
+  Z -> X
+  Z -> W
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+      3. (FGV/ TCU – 2022) Analise o conjunto de dependências funcionais inferidas
+      abaixo a partir do conjunto de atributos e dependências funcionais presentes
+      na tabela R, como descrita anteriormente.
+
+      (1) X -> Y Z W
+      (2) X -> W
+      (3) X W -> Y W
+      (4) X Y Z W -> X Y
+      (5) Y -> Z
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+      À luz dos axiomas da teoria de projeto de bancos de dados aplicáveis nesse
+      caso, é correto concluir que, dentre essas dependências inferidas:
+
+      a) somente 2 é válida;
+      b) somente 1, 2 e 5 são válidas;
+      c) somente 1, 2, 3 e 4 são válidas;
+      d) somente 2, 3, 4 e 5 são válidas;
+      e) todas são válidas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+  4. (CESPE / Petrobrás - 2022) Uma tabela está na segunda forma normal (2FN)
+  se ela estiver na 1FN e se todos os seus atributos não chave forem
+  totalmente dependentes da chave primária.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  5. (CESPE / TELEBRÁS - 2021) Conforme os conceitos de modelagem e
+  normalização de dados, uma tabela estará na primeira forma normal (1FN) se
+  todos os seus atributos forem considerados como unidades indivisíveis.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  6. (CESPE / ISS-Aracaju – 2021) Na normalização de tabelas, ao eliminar as
+  dependências transitivas, chega-se à:
+
+  a) primeira forma normal(1FN).
+  b) quinta forma normal(5FN).
+  c) segunda forma normal(2FN).
+  d) terceira forma normal(3FN).
+  e) quarta forma normal(4FN).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  7. (CESPE / PCDF – 2021) De acordo com a primeira forma normal do modelo
+  relacional, atributos compostos por vários valores são representados
+  diretamente em um tupla e em suas relações nas tabelas do banco de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+  8. (CESPE / APEX-BRASIL – 2021) Uma tabela estará na segunda forma
+  normal se tiver atendido a todos os requisitos da primeira forma normal e se
+  não houver:
+  a) atributos que não sejam funcionalmente dependentes da chave primária da
+  relação.
+  b) dependências funcionais.
+  c) valores nulos nos campos de chave primária.
+  d) grupos de repetição.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+  9.(CESPE / ME – 2020) O processo de normalização de dados consiste em
+  encontrar informações que atinjam um plano de normalização com as
+  informações constantes nas tuplas adjacentes.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+  10.(COVEST / UFPE – 2019) Quais formas normais lidam com Dependência
+  Funcional Parcial e Dependência Funcional Transitiva, respectivamente?
+
+  a) 2ª e 3ª
+  b) 3ª e 2ª
+  c) 3ª e 4ª
+  d) 4ª e 3ª
+  e) 4ª e 5ª
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+OBRIGADA
+                             Prof. Emannuelle Gouveia
+                             @emannuellegouveia
+
+
+     
+
+
+---
+
+---

@@ -1,0 +1,548 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ADMINISTRAÇÃO DE RECURSOS
+---
+
+# ADMINISTRAÇÃO DE RECURSOS
+
+---
+
+---
+
+ADMINISTRAÇÃO DE RECURSOS
+MATERIAIS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - VIII
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. A qualidade de material
+     manipulado por vez e a frequência com que são realizadas as diversas movimentações
+     estão ligadas às variações que o material sofre durante o processo, ao seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. A qualidade de material
+     manipulado por vez e a frequência com que são realizadas as diversas movimentações
+     estão ligadas às variações que o material sofre durante o processo, ao seu grau de
+     especialização e às características dos produtos nas diversas fases.
+     A) Certo
+     B) Errado
+     GABARITO - ERRADA
+      A questão deveria se referir a quantidade (e não a qualidade) do material manipulado. Nessa questão a banca se
+      baseia literalmente em Marco Aurélio Dias. Vamos ao autor: “A quantidade de material manipulado por vez e a
+      frequência com que são realizadas as diversas movimentações estão ligadas às variações que o material sofre durante
+      o processo, ao seu grau de especialização e às características dos produtos nas diversas fases”.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. Não se associam à administração
+     de materiais os serviços a eles relacionados, como assistência técnica, seguros, distribuição
+     regionalizada e reposição automática.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. Não se associam à administração
+     de materiais os serviços a eles relacionados, como assistência técnica, seguros, distribuição
+     regionalizada e reposição automática.
+     A) Certo
+     B) Errado
+     GABARITO - ERRADA
+       Ao contrário, os serviços relacionados ao processo de pós venda estão sim relacionados à Administração de Materiais pois
+       complementam o pacote ofertado ao consumidor sob a perspectiva comercial/marketing. A distribuição, por exemplo, é parte
+       integrante e crítica do famoso "tripé" da Administração de Materiais, representando a saída do produto acabado rumo ao
+       cliente.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. As áreas e os itens a serem
+     inventariados deverão ser arrumados da melhor forma possível, agrupando-se os produtos
+     iguais e identificando-se todos os materiais com os seus respectivos cartões.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Inventários
+       Instrumento de controle para a verificação de saldos
+       ❑ Uma das maiores ferramentas de gestão dos estoques é o inventário. O controle efetuado pela realização dos
+         inventários permite o acompanhamento correto dos volumes de materiais estocados e está diretamente ligado
+         aos sistemas de reposição que acabamos de estudar.
+
+       ❑ De acordo com a Instrução Normativa 205/1988, vamos à definição de inventários:
+
+                 Inventário físico é o instrumento de controle para a verificação dos saldos de estoques nos almoxarifados e
+                 depósitos, e dos equipamentos e materiais permanentes, em uso no órgão ou entidade, que irá permitir,
+                 dentre outros:
+                 a) o ajuste dos dados escriturais de saldos e movimentações dos estoques com o saldo físico real nas
+                 instalações de armazenagem;
+                 b) a análise do desempenho das atividades do encarregado do almoxarifado através dos resultados obtidos
+                 no levantamento físico;
+                 c) o levantamento da situação dos materiais estocados no tocante ao saneamento dos estoques;
+                 d) o levantamento da situação dos equipamentos e materiais permanentes em uso e das suas necessidades
+                 de manutenção e reparos; e
+                 e) a constatação de que o bem móvel não é necessário naquela unidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CREMERO/Ass. Administrativo/2022) Com relação às noções de
+     administração de materiais e almoxarifado, julgue o item. As áreas e os itens a serem
+     inventariados deverão ser arrumados da melhor forma possível, agrupando-se os produtos
+     iguais e identificando-se todos os materiais com os seus respectivos cartões.
+     A) Certo
+     B) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CFFA/Ass. Administrativo/2022) A respeito das noções de administração de
+     materiais, julgue o item. O relatório de inspeção é uma descrição dos materiais recebidos,
+     isto é, de suas quantidades, seu fornecedor e seu número de pedido de compra, entre
+     outras informações oportunas.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CFFA/Ass. Administrativo/2022) A respeito das noções de administração de
+     materiais, julgue o item. O relatório de inspeção é uma descrição dos materiais recebidos,
+     isto é, de suas quantidades, seu fornecedor e seu número de pedido de compra, entre
+     outras informações oportunas.
+     A) Certo
+     B) Errado
+     GABARITO - ERRADA
+      Esse é um relatório de recebimento e não de inspeção.
+      O relatório de inspeção é um documento que descreve as atividades realizadas durante a inspeção, incluindo os resultados das
+      medições e testes efetuados nos materiais recebidos para garantir que eles estejam em conformidade com as especificações do pedido
+      de compra. Ele até pode conter informações sobre as quantidades recebidas, o fornecedor e o número do pedido de compra, mas
+      essas informações não são o foco principal do relatório, que tem como objetivo principal verificar a qualidade dos materiais recebidos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRM-SC/Ass. Administrativo/2022) Acerca das noções de administração de
+     materiais, julgue o item. A internalização ocupa-se da maneira como devem ser utilizados
+     os materiais, em suas diversas finalidades, e da padronização e da identificação do
+     material.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRM-SC/Ass. Administrativo/2022) Acerca das noções de administração de
+     materiais, julgue o item. A internalização ocupa-se da maneira como devem ser utilizados
+     os materiais, em suas diversas finalidades, e da padronização e da identificação do
+     material.
+     A) Certo
+     B) Errado
+     GABARITO - ERRADA
+      Essa é uma questão até mais relacionada à Administração Geral. A internalização é o contrário da terceirização, ou
+      seja, ocorre quando a organização opta por realizar internamente os serviços necessários em detrimento de terceirizá-
+      los, ou seja, buscar fornecedores externos para a sua realização. Áreas que passam por essa decisão podem ser o
+      RH/Depto. Pessoal, Contabilidade, Segurança, Manutenção e Limpeza e mesmo Marketing e Comunicação
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     06. (FUNDATEC/Câm. Mun. Bagé-RS/Agente Legislativo) Segundo Dias (2012), em relação
+     aos conceitos da Administração de Materiais, estabelecer sequencialmente as
+     tarefas/trabalhos a serem executados, de acordo com datas estipuladas para cada
+     tarefa/trabalho desta sequência, denomina-se:
+     A) Organograma.
+     B) Pentagrama.
+     C) Cronograma.
+     D) Fluxograma.
+     E) Diagrama.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FUNDATEC/Câm. Mun. Bagé-RS/Agente Legislativo) Segundo Dias (2012), em relação
+     aos conceitos da Administração de Materiais, estabelecer sequencialmente as
+     tarefas/trabalhos a serem executados, de acordo com datas estipuladas para cada
+     tarefa/trabalho desta sequência, denomina-se:
+     A) Organograma.
+     B) Pentagrama.
+     C) Cronograma.
+     D) Fluxograma.
+     E) Diagrama.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sobre administração de material e patrimônio,
+     assinale (V) para as afirmativas VERDADEIRAS e (F) para as FALSAS.
+     (     ) Patrimônio material é constituído por todos os bens móveis e imóveis pertencentes ao ente
+     público.
+     (    ) Esses bens vão desde as instalações físicas, passando pela mobília, aparelhos eletroeletrônicos,
+     equipamentos etc. (materiais permanentes) e chegando aos papéis, cartuchos de tinta para impressora,
+     itens de higiene e limpeza etc. (materiais de consumo).
+     (    ) O Just in Time é uma das principais Técnicas de Administração de Patrimônio. Trata-se de um
+     sistema que garante a quantidade exata, na hora certa, que atenda às necessidades de demanda com o
+     mínimo em estoque, buscando assim a eliminação de tudo que não agregue valor ao produto ou serviço
+     realizado.
+     Marque a opção que apresenta a sequência CORRETA.
+     A) F – F – F.
+     B) V – V – F.
+     C) F – V – F.
+     D) F – F – V.
+     E) V – V – V.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       “Estoque Zero” – JIT e Kanban
+       A demanda “puxa” a produção
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que
+         já tem demanda assegurada. É popularmente conhecido por aquele sistema em que a demanda
+         "puxa" a produção (ao contrário dos sistemas que vimos até agora, inclusive o MRP), ou seja, a
+         fábrica apenas se mobiliza, planeja e produz aquilo que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de
+         80, trazendo a meta do "estoque zero". O JIT é comumente associado a expressões (que
+         aparecem muito em provas!) como "produção sem estoques", "eliminação do desperdício",
+         "melhora contínua de processos", etc.
+
+       ❑ O Kanban também é um sistema japonês de gestão de estoques que consiste na utilização de
+         cartões pelos integrantes da linha de produção. É considerada uma ferramenta com a mesma
+         filosofia do sistema Just in Time portanto tem a velocidade do abastecimento também
+         influenciada pela demanda real de produção. Atenção pois não é um sinônimo do JIT, mas sim
+         um instrumento que utiliza como filosofia os conceitos do JIT.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sobre administração de material e patrimônio,
+     assinale (V) para as afirmativas VERDADEIRAS e (F) para as FALSAS.
+     (     ) Patrimônio material é constituído por todos os bens móveis e imóveis pertencentes ao ente
+     público.
+     (    ) Esses bens vão desde as instalações físicas, passando pela mobília, aparelhos eletroeletrônicos,
+     equipamentos etc. (materiais permanentes) e chegando aos papéis, cartuchos de tinta para impressora,
+     itens de higiene e limpeza etc. (materiais de consumo).
+     (    ) O Just in Time é uma das principais Técnicas de Administração de Patrimônio. Trata-se de um
+     sistema que garante a quantidade exata, na hora certa, que atenda às necessidades de demanda com o
+     mínimo em estoque, buscando assim a eliminação de tudo que não agregue valor ao produto ou serviço
+     realizado.
+     Marque a opção que apresenta a sequência CORRETA.
+     A) F – F – F.
+     B) V – V – F.
+     C) F – V – F.
+     D) F – F – V.
+     E) V – V – V.
+     GABARITO - B
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sabemos que a gestão de
+     materiais é um ramo específico da ciência da administração. Sobre as gestões, assinale (V)
+     para as afirmativas VERDADEIRAS e (F) para as FALSAS, sobre quais pertencem à gestão
+     de materiais.
+     ( ) Gestão de resíduos sólidos.
+     ( ) Gestão de estoque.
+     ( ) Gestão do tratamento d´água.
+     ( ) Gestão de compras.
+     Marque a opção que apresenta a sequência CORRETA.
+     A) F – F – F – F.
+     B) V – V – F – F.
+     C) F – V – F – V.
+     D) V – V – V – V.
+     E) F – F – V – V.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atribuições da área de Materiais
+       O famoso tripé: compras, estoques e distribuição
+       ❑ Note que, como sempre, em administração de materiais estamos falando na busca
+         da eficiência por meio da otimização de todos os processos e da redução de custos.
+
+
+                                                                             Gestão de
+                                                                             Estoques
+
+                                                                                 Atividades
+                                                                                 da área de
+                                                                                 materiais
+
+
+                                                                                              Gestão de
+                                                          Gestão de
+                                                          Compras                             Centros de
+                                                                                              Distribuição
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CETREDE/Pref. Mun. Frecheirinha-CE/Auxiliar/2021) Sabemos que a gestão de
+     materiais é um ramo específico da ciência da administração. Sobre as gestões, assinale (V)
+     para as afirmativas VERDADEIRAS e (F) para as FALSAS, sobre quais pertencem à gestão
+     de materiais.
+     ( ) Gestão de resíduos sólidos.
+     ( ) Gestão de estoque.
+     ( ) Gestão do tratamento d´água.
+     ( ) Gestão de compras.
+     Marque a opção que apresenta a sequência CORRETA.
+     A) F – F – F – F.
+     B) V – V – F – F.
+     C) F – V – F – V.
+     D) V – V – V – V.
+     E) F – F – V – V.
+     GABARITO - C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CRBM4PA/Agente Administrativo/2021) Em termos genéricos, a
+     administração consiste no processo de planejar, organizar, dirigir e controlar o uso de
+     recursos e competências, a fim de alcançar os objetivos organizacionais desejados.
+     Idalberto Chiavenato. Introdução à teoria geral da administração: uma
+     visão abrangente da moderna administração das organizações. 5.ª ed. São Paulo: Atlas,
+     2021, p. 10. Tendo o texto acima como referência inicial, julgue o item a seguir.
+     Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface
+     com diversos setores da organização e deve atuar de modo a conciliar interesses
+     conflitantes, harmonizando as necessidades desses setores para assegurar a
+     disponibilidade dos bens necessários para a operacionalização da produção.
+     A) Certo
+     B) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estoques
+       A busca pelo “meio termo” entre todas as áreas
+       ❑ O encontro desse "meio termo" entre todas as opções colocadas cabe justamente ao gestor de
+         estoques, ou seja, ao departamento de materiais, que deve ouvir os diferentes argumentos de
+         cada um dos interessados e tomar a melhor decisão com o intuito de atender a todas as
+         demandas explicitadas pelos atores do processo e levando em conta os objetivo estratégicos da
+         organização.
+
+       Observando a tabela anterior, entenda que uma das maiores funções do estoque é conciliar esses
+       objetivos conflitantes, sem prejudicar a atividade operacional da empresa, minimizando seus custos e
+       praticando a política de estoque da forma como foi previamente definida, levando em consideração
+       os ajustes necessários devido a eventuais variações do cenário.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (QUADRIX/CRBM4PA/Agente Administrativo/2021) Em termos genéricos, a
+     administração consiste no processo de planejar, organizar, dirigir e controlar o uso de
+     recursos e competências, a fim de alcançar os objetivos organizacionais desejados.
+     Idalberto Chiavenato. Introdução à teoria geral da administração: uma
+     visão abrangente da moderna administração das organizações. 5.ª ed. São Paulo: Atlas,
+     2021, p. 10. Tendo o texto acima como referência inicial, julgue o item a seguir.
+     Pela natureza de suas atividades, a área de gestão de recursos materiais possui interface
+     com diversos setores da organização e deve atuar de modo a conciliar interesses
+     conflitantes, harmonizando as necessidades desses setores para assegurar a
+     disponibilidade dos bens necessários para a operacionalização da produção.
+     A) Certo
+     B) Errado
+     GABARITO - CORRETA
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+     diferencia um recurso material de um recurso patrimonial?
+     A) O recurso patrimonial é de natureza permanente.
+     B) O recurso material é de natureza permanente.
+     C) O recurso patrimonial é um material de consumo.
+     D) O recurso material é um equipamento de produção.
+     E) O recurso patrimonial é bem de estoque.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recursos Patrimoniais
+       Principais conceitos e definições
+
+     ❑ A administração dos recursos patrimoniais trata de sequência parecida com a de recursos
+       materiais. Atua também ao longo de todo um ciclo constituindo nova cadeia de valor.
+
+     ❑ Tem início na identificação do fornecedor, passa pela compra e recebimento do bem e, daí para
+       frente, difere um pouco do que temos para a Administração de Materiais.
+
+     ❑ Ao invés de termos a transformação do material e expedição do produto acabado, temos na
+       administração patrimonial as etapas de conservação, manutenção e, dependendo do caso, a
+       alienação do bem patrimonial ao final de sua vida útil.
+
+       Perceba, porém, que, em essência, a maior diferença entre elas é que a administração de materiais
+       trata de materiais (caráter não permanente) enquanto a patrimonial trata de bens (caráter
+       permanente).
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     10. (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+     diferencia um recurso material de um recurso patrimonial?
+     A) O recurso patrimonial é de natureza permanente.
+     B) O recurso material é de natureza permanente.
+     C) O recurso patrimonial é um material de consumo.
+     D) O recurso material é um equipamento de produção.
+     E) O recurso patrimonial é bem de estoque.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

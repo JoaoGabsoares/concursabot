@@ -1,0 +1,342 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 08_024_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: FUNÇÕES SINTÁTICAS
+---
+
+# FUNÇÕES SINTÁTICAS
+
+---
+
+FUNÇÕES SINTÁTICAS
+                                          Profª. Adriana Figueiredo
+
+     
+
+
+---
+
+  PARTE II - Adjunto
+Adnominal e Predicativo
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+ Adjunto adnominal
+ O adjunto adnominal é o “termo que limita, individua a significação de um
+ substantivo.”
+ Ex.: Dois alunos; O / Um aluno; Aluno inteligente / de inteligência.
+      (num.)          (art.)                   (adj.)         (loc.adj.)
+
+ Meu aluno; Invasão dos mosquitos.
+ (pron.)                 (loc.adj.)
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Sublinhe os adjuntos adnominais
+
+ a) As minhas sugestões eram simples.
+
+
+ b) Coração sem amor é um campo minado.
+
+ c) O velho ranzinza arquejava cansado.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+Sublinhe os adjuntos adnominais
+
+ d) Chamou o amigo de ingrato.
+
+
+ e) As suas mãos tremiam de medo.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+ Predicativo
+
+ - Predicativo do sujeito
+ Termo que acrescenta alguma coisa ao sujeito mediante um verbo qualquer. Em
+ geral, é um atributo, uma característica, atribuído ao sujeito. É constituído por
+ substantivo, adjetivo, pronome ou numeral.
+ O mar virou sertão.
+ O homem estava preocupado.
+ Tu não és eu.
+ Nós somos cinco.
+
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+ - Predicativo do objeto
+ Termo que acrescenta alguma coisa ao objeto mediante um verbo qualquer. Em
+ geral, é um atributo, uma característica, atribuído ao objeto. O predicativo do
+ objeto, em geral, ocorre por extensão semântica do verbo, que, além do objeto,
+ pede um outro termo que complete o seu sentido.
+ Achei-o competente.
+ Julguei as suas perguntas tolas.
+ Chamaram o delegado de inquieto.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Distinga predicativo do sujeito do predicativo do objeto, destacando-
+os entre parênteses
+
+ a) Zeca parece alegre.
+
+ b) O rapaz chegou gravemente ferido ao hospital.
+
+ c) Chamaram o delegado de inquieto.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+Distinga predicativo do sujeito do predicativo do objeto, destacando-
+os entre parênteses
+
+ d) Consideramos o candidato apto.
+
+ e) O mar parecia traiçoeiro naquela manhã.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+ OBSERVAÇÕES IMPORTANTES
+
+ Adjunto adnominal X Predicativo do objeto
+ O adjunto adnominal é um termo acessório. Sua retirada não prejudica a essência
+ da informação.
+ A nova geração de leitores não tem opiniões fortes.
+ Nossas discussões intelectuais se tornaram silenciosas.
+
+
+ O predicativo do objeto é um termo integrante. Ocorre por exigência do valor
+ semântico do verbo, que além do complemento, necessita de outro termo que o
+ complete, sem o qual o sentido da frase fica prejudicado.
+ Achei esse menino inteligente.
+ O povo considerou os governantes incompetentes.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+ Uma maneira prática de se fazer essa distinção é retirar o adjetivo da frase e
+ observar se há ou não sentido. Se ficar faltando informação, é predicativo do
+ objeto, se não, adjunto adnominal.
+
+
+ O povo achou os governantes incompetentes. (O povo achou os governantes. Tem
+ sentido? Não. Então, incompetentes é predicativo do objeto).
+ Tinha um único vício: a mentira. (Tinha um vício: a mentira. Tem sentido? Sim.
+ Então é adjunto adnominal).
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Distinga adjunto adnominal de predicativo do objeto
+ a) Os candidatos resolveram uma questão difícil.
+
+ b) Os candidatos consideraram a prova difícil.
+
+
+ c) A pobre criança comeu aquela sopa horrorosa.
+
+
+ d) Acho aquela senhora muito simpática.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+Distinga CN de AA
+ e) Tinham certeza da vitória.
+
+ f) Era um homem de juízo.
+
+
+ g) A imaginação das agências é inesgotável.
+
+
+ h) Tinha necessidade da sua presença.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+ OBSERVAÇÕES IMPORTANTES
+
+ Complemento nominal x adjunto adnominal
+
+
+ Complemento nominal: sempre preposicionado. Completa um substantivo, um
+ adjetivo ou um advérbio. Quando completa um substantivo, a expressão
+ preposicionada tem valor semântico passivo.
+
+
+ Ex.: A reforma da praça foi elogiada. (subst.) (ideia passiva = a praça foi
+ reformada)
+ Este ano haverá treinamento de professores (subst.) (ideia passiva = os
+ professores serão treinados)
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+ Adjunto adnominal: aparecendo preposição, o valor semântico pode ser ativo, de
+ posse ou de tipo/especificação.
+
+
+ Ex.: Construção do arquiteto. (subst.) (ideia ativa = o arquiteto construiu)
+ A casa da Joana é bonita. (subst.) (ideia de posse – Joana possui a casa)
+ Ganhou uma pulseira de ouro (subst.) (ideia de tipo/especificação - material de
+ que é feita a pulseira)
+
+
+ Obs.: essa dúvida é mais frequente quando o termo preposicionado completa
+ substantivo abstrato (indica ação, sentimento, qualidade – protesto, viagem, amor,
+ tristeza, reforma, construção...) Nesse caso, se o termo preposicionado denotar
+ uma ideia ativa, será adjunto adnominal. Se trouxer ideia passiva, complemento
+ nominal.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Distinga CN de AA
+ a) Eles necessitavam de afeto.
+
+ b) Tinha grande amor à humanidade.
+
+
+ c) A felicidade dos candidatos contagiava o ambiente.
+
+
+ d) Na ausência do marido, a mulher responderá pela dívida.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+Distinga CN de AA
+ e) Tinham certeza da vitória.
+
+ f) Era um homem de juízo.
+
+
+ g) A imaginação das agências é inesgotável.
+
+
+ h) Tinha necessidade da sua presença.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                      @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/professoraadriana
+           f
+
+                facebook.com/prof.adriana.figueired
+                o
+               
+
+
+---
+
+---

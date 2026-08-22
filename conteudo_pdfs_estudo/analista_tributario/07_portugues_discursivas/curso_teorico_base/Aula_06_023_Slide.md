@@ -1,0 +1,1956 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 06_023_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: INSTAGRAM.COM/
+---
+
+# INSTAGRAM.COM/
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+INSTAGRAM.COM/
+PROFESSORAADRIANAFIGUEIREDO
+HTTPS://WWW.YOUTUBE.COM/USER/
+PROFESSORAADRIANAF                              Pr of ª . Adr i ana
+                                                    Fi guei r edo
+
+           
+
+
+---
+
+ Curso de Português em
+Questões para CGU e TCU -
+        Pós-Edital
+                                             Pr of ª . Adr i ana
+                                                 Fi guei r edo
+
+        
+
+
+---
+
+CONTEÚDO PROGRAMÁTICO
+
+Interpretação de texto: decodificação dos diversos tipos de mensagem.
+Compreensão de texto: observação dos processos que constroem os significados
+textuais. As características básicas da textualidade. As
+estruturas linguísticas no processo de construção de mensagens adequadas, com
+destaque para as várias classes de palavras.
+A pragmática na linguagem: o significado contextual.
+A semântica vocabular: antônimos, sinônimos, homônimos, parônimos e
+heterônimos.
+Os modos de organização discursiva: a descrição, a narração, a exposição
+informativa e a exposição argumentativa.
+A organização das frases nas situações comunicativas.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CONTEÚDO PROGRAMÁTICO
+
+A linguagem lógica e a figurada.
+Os diversos níveis de linguagem.
+Os tipos de discurso: direto, indireto e indireto livre.
+As funções da linguagem.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+As estruturas linguísticas no
+processo de construção de
+   mensagens adequadas
+                                              Pr of ª . Adr i ana
+                                                  Fi guei r edo
+
+         
+
+
+---
+
+Vozes Verbais
+                                      Pr of ª . Adr i ana
+                                          Fi guei r edo
+
+ 
+
+
+---
+
+          Identificação de vozes verbais
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+                                                           Todos compreenderam a
+               Ativa                                               questão.
+
+A
+                                                                    todos.
+     VOZES                               Analítica
+    VERBAIS                                                   O alerta foi dado.
+              Passiva
+
+                                                         Deu-se às poesias o nome de
+                                         Sintética            Primeiros Cantos
+
+
+                              Prof. Adriana Figueiredo
+                  
+
+
+---
+
+ VOZES
+          Reflexiva                                  Ele se cortou.
+VERBAIS
+
+                          Prof. Adriana Figueiredo
+              
+
+
+---
+
+                             PA                           Nunca se viram tantos suicídios.
+
+                            RECÍPROCO                            Os irmãos se abraçaram.
+
+
+OBSERVAÇÕES                                                    Pedi a ela que se afastasse da
+              SE             REFLEXIVO                                     cadeira.
+IMPORTANTES
+
+                               PIS                           Trabalha-se muito naquela seção.
+
+
+                               PIV                           Havia se esquecido do aniversário.
+
+                               Prof. Adriana Figueiredo
+                   
+
+
+---
+
+                                                VERBO PRINCIPAL           O aluno foi elogiado pelo
+                                                 NA VOZ PASSIVA                  professor.
+                PARTICÍPIO
+
+                                                                          Homem viajado é homem
+                                                     =ADJETIVO
+                                                                               experiente.
+OBSERVAÇÕES
+IMPORTANTES
+
+                                                             O aluno foi indulgente.
+              VERBO SER + PARTICÍPIO
+                         ≠
+                  SER + ADJETIVO
+                                                                 O aluno foi elogiado.
+                                 Prof. Adriana Figueiredo
+                     
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+01. FGV - 2018 - MPE-AL - Analista do Ministério Público - Administrador de
+Rede
+A frase a seguir que apresenta uma forma de voz passiva é:
+A) “Numa democracia, é livre a expressão”.
+
+B) “A greve atravessou vários sinais ao estrangular as vias de suprimento...”.
+
+C) “Em um regime de liberdades, há sempre o risco de excessos, a serem
+devidamente contidos”.
+
+D) “Sempre há, também, o oportunismo político-ideológico para se aproveitar da
+crise”.
+
+E) “...que mantêm o sistema produtivo funcionando”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+01. FGV - 2018 - MPE-AL - Analista do Ministério Público - Administrador de
+Rede
+A frase a seguir que apresenta uma forma de voz passiva é:
+A) “Numa democracia, é livre a expressão”.
+
+B) “A greve atravessou vários sinais ao estrangular as vias de suprimento...”.
+
+C) “Em um regime de liberdades, há sempre o risco de excessos, a serem
+devidamente contidos”.
+
+D) “Sempre há, também, o oportunismo político-ideológico para se aproveitar da
+crise”.
+
+E) “...que mantêm o sistema produtivo funcionando”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+02. FGV - 2019 - Prefeitura de Angra dos Reis - RJ - Monitor de Educação
+Especial
+
+Assinale a frase que está na voz passiva.
+
+A) Tudo acontece conforme a natureza.
+
+B) A natureza só é comandada se é obedecida.
+
+C) Nada pode nascer do nada.
+
+D) Os perfumes, as cores e os sons correspondem-se.
+
+E) A natureza faz o homem feliz e bom.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+02. FGV - 2019 - Prefeitura de Angra dos Reis - RJ - Monitor de Educação
+Especial
+
+Assinale a frase que está na voz passiva.
+
+A) Tudo acontece conforme a natureza.
+
+B) A natureza só é comandada se é obedecida.
+
+C) Nada pode nascer do nada.
+
+D) Os perfumes, as cores e os sons correspondem-se.
+
+E) A natureza faz o homem feliz e bom.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+03. FGV - 2019 - DPE-RJ - Técnico Superior Especializado - Administração de
+Empresas
+O pensamento abaixo em que há uma forma de voz passiva com a indicação do
+agente é:
+
+A) “A natureza só é comandada se é obedecida”;
+
+B) “Dada a causa, a natureza produz o efeito no modo mais breve em que pode ser
+produzido”;
+
+C) “O mundo será julgado pelas crianças. O espírito da infância julgará o mundo”;
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+03. FGV - 2019 - DPE-RJ - Técnico Superior Especializado - Administração de
+Empresas
+
+D) “Existe alguma religião cujos fiéis possam ser apontados como nitidamente mais
+amáveis e dignos de confiança do que os de qualquer outra?”;
+
+E) “A sabedoria não pode ser transmitida. A sabedoria que um sábio tenta transmitir
+soa mais como loucura”.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+03. FGV - 2019 - DPE-RJ - Técnico Superior Especializado - Administração de
+Empresas
+O pensamento abaixo em que há uma forma de voz passiva com a indicação do
+agente é:
+
+A) “A natureza só é comandada se é obedecida”;
+
+B) “Dada a causa, a natureza produz o efeito no modo mais breve em que pode ser
+produzido”;
+
+C) “O mundo será julgado pelas crianças. O espírito da infância julgará o mundo”;
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+04. FGV - 2018 - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+04. FGV - 2018 - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+A frase do texto que se apresenta na voz passiva é:
+
+A) “A resistência ao desmonte da cultura em cenário de crises graves não se dá por
+acaso”;
+
+B) “...a gestão pública do setor vem sofrendo...”;
+
+C) “...generalize-se a opinião...”;
+
+D) “...política públicas para a cultura não devem ser prioritárias”;
+
+E) “Combater essa generalização equivocada é urgente”.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+04. FGV - 2018 - Câmara de Salvador - BA - Analista Legislativo Municipal -
+Taquigrafia e Revisão
+A frase do texto que se apresenta na voz passiva é:
+
+A) “A resistência ao desmonte da cultura em cenário de crises graves não se dá por
+acaso”;
+
+B) “...a gestão pública do setor vem sofrendo...”;
+
+C) “...generalize-se a opinião...”;
+
+D) “...política públicas para a cultura não devem ser prioritárias”;
+
+E) “Combater essa generalização equivocada é urgente”.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+05. FGV - 2021 - FUNSAÚDE - CE - Analista de Patologia Clínica
+
+“Na Antiguidade cria-se que o temperamento das pessoas dependia das suas
+secreções, isto é, dos ‘humores’ segregados pelo organismo, entre os quais cada
+pessoa possuía um que era predominante. Desse modo, notava-se que aqueles em
+que predominava a ‘bílis negra’ (donde ‘humor negro’), que os gregos chamavam de
+melan kholé, ou melancolia ou de ‘humor melancólico’ eram propensos à
+depressão”. Roosevelt Nogueira, em Palavras, origens e curiosidades.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. FGV - 2021 - FUNSAÚDE - CE - Analista de Patologia Clínica
+
+Assinale a opção que apresenta a frase que está estruturada na voz passiva.
+
+A) “Na Antiguidade cria-se que o temperamento das pessoas dependia das suas
+secreções”.
+
+B) “isto é, dos humores segregados pelo organismo”.
+
+C) “cada pessoa possuía um que era predominante”.
+
+D) “que os gregos chamavam de melan kholé”.
+
+E) “eram propensos à depressão.”
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+05. FGV - 2021 - FUNSAÚDE - CE - Analista de Patologia Clínica
+
+Assinale a opção que apresenta a frase que está estruturada na voz passiva.
+
+A) “Na Antiguidade cria-se que o temperamento das pessoas dependia das suas
+secreções”.
+
+B) “isto é, dos humores segregados pelo organismo”.
+
+C) “cada pessoa possuía um que era predominante”.
+
+D) “que os gregos chamavam de melan kholé”.
+
+E) “eram propensos à depressão.”
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+06. FGV - 2021 - FUNSAÚDE - CE - Médico Alergista e Imunologia Pediátrica
+
+A frase abaixo que, ao contrário das demais, não apresenta uma estrutura na voz
+passiva:
+
+A) Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é
+capaz de suportar;
+
+B) Má é uma opinião que não pode ser mudada;
+
+C) Um problema está, de início, resolvido, se está bem colocado;
+
+D) Se você quiser ser uma ponte, precisa estar preparado para ser pisado;
+
+E) De erro em erro descobre-se a verdade inteira.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+06. FGV - 2021 - FUNSAÚDE - CE - Médico Alergista e Imunologia Pediátrica
+
+A frase abaixo que, ao contrário das demais, não apresenta uma estrutura na voz
+passiva:
+
+A) Avalia-se a inteligência de um indivíduo pela quantidade de incertezas que ele é
+capaz de suportar;
+
+B) Má é uma opinião que não pode ser mudada;
+
+C) Um problema está, de início, resolvido, se está bem colocado;
+
+D) Se você quiser ser uma ponte, precisa estar preparado para ser pisado;
+
+E) De erro em erro descobre-se a verdade inteira.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+07. FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+
+As frases podem aparecer expressas em duas vozes verbais: ativa e passiva; a frase
+abaixo que está integralmente na voz ativa é:
+
+A) “Aqueles que reprimem o desejo assim o fazem porque seu desejo é fraco o
+suficiente para ser reprimido”;
+
+B) “Tendo o mínimo de desejos, chega-se mais perto dos deuses”;
+
+C) “Cada um é atraído pelo próprio desejo”;
+
+D) “O mais difícil é redescobrir sempre o que já se sabe”;
+
+E) “Nada desejamos tanto como aquilo que não nos foi consentido”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+07. FGV - 2021 - Câmara de Aracaju - SE - Assistente Administrativo
+
+As frases podem aparecer expressas em duas vozes verbais: ativa e passiva; a frase
+abaixo que está integralmente na voz ativa é:
+
+A) “Aqueles que reprimem o desejo assim o fazem porque seu desejo é fraco o
+suficiente para ser reprimido”;
+
+B) “Tendo o mínimo de desejos, chega-se mais perto dos deuses”;
+
+C) “Cada um é atraído pelo próprio desejo”;
+
+D) “O mais difícil é redescobrir sempre o que já se sabe”;
+
+E) “Nada desejamos tanto como aquilo que não nos foi consentido”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+               Reescrita com vozes verbais
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+              VOZ ATIVA       Sujeito agente                      Tempo verbal       OBJETO
+                                                                                     DIRETO
+
+REESCRITURA
+ VOZ ATIVA
+   PARA
+  PASSIVA
+ ANALÍTICA
+                VOZ           Sujeito paciente                   SER + PARTICÍPIO   AGENTE DA
+               PASSIVA                                                               PASSIVA
+
+                 Voz ativa: Índios atacam engenheiro da Eletrobrás.
+                 Voz passiva: Engenheiro da Eletrobrás é atacado por índios.
+                                      Prof. Adriana Figueiredo
+                          
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+08. FGV - 2019 - DPE-RJ - Técnico Superior Especializado - Administração de
+Empresas
+O segmento do texto 3 em que a forma de apassivação é INADEQUADA é:
+
+A) “Um homem acorda gravemente ferido” / Um homem é acordado gravemente
+ferido;
+
+B) “para sentir sua falta” / para sua falta ser sentida;
+
+C) “para dar vazão” / para ser dada vazão”;
+
+D) “começar uma nova vida” / uma nova vida ser começada;
+
+E) "executar criminosos” / criminosos serem executados.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+08. FGV - 2019 - DPE-RJ - Técnico Superior Especializado - Administração de
+Empresas
+O segmento do texto 3 em que a forma de apassivação é INADEQUADA é:
+
+A) “Um homem acorda gravemente ferido” / Um homem é acordado gravemente
+ferido;
+
+B) “para sentir sua falta” / para sua falta ser sentida;
+
+C) “para dar vazão” / para ser dada vazão”;
+
+D) “começar uma nova vida” / uma nova vida ser começada;
+
+E) "executar criminosos” / criminosos serem executados.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+09. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+Todas as frases abaixo, retiradas do texto 4, foram passadas para a voz passiva; a
+frase em que essa passagem foi feita de forma adequada é:
+
+A) a empresa firma um contrato com a prefeitura / um contrato seja firmado com a
+prefeitura;
+
+B) para administrar a maior parte do sistema de transporte coletivo municipal; / para
+a maior parte do sistema de transporte coletivo municipal ser administrada;
+
+C) A saída mais comum é contratar empresas para desempenhar essa função. / A
+saída mais comum é que empresas sejam contratadas para desempenhar essa
+função;
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+09. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+
+D) dá liberdade aos municípios quanto a como ofertar esse serviço. / dá liberdade
+aos municípios a como esse serviço será ofertado;
+
+E) A prefeitura se responsabiliza diretamente pela gestão do sistema e desembolsa
+100% dos recursos para mantê-lo. / A prefeitura se responsabiliza diretamente pela
+gestão do sistema e 100% dos recursos para mantê-lo serão desembolsados por ela.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+09. FGV - 2021 - TCE-PI - Auditor de Controle Externo
+
+Todas as frases abaixo, retiradas do texto 4, foram passadas para a voz passiva; a
+frase em que essa passagem foi feita de forma adequada é:
+
+A) a empresa firma um contrato com a prefeitura / um contrato seja firmado com a
+prefeitura;
+
+B) para administrar a maior parte do sistema de transporte coletivo municipal; / para
+a maior parte do sistema de transporte coletivo municipal ser administrada;
+
+C) A saída mais comum é contratar empresas para desempenhar essa função. / A
+saída mais comum é que empresas sejam contratadas para desempenhar essa
+função;
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+10. FGV - MPE-RJ - Técnico do Ministério Público - Administrativa
+
+“O autor nos coloca a par de incríveis tecnologias, já disponíveis ou muito próximas
+disso, que terão grande impacto sobre a medicina. Já é possível, por exemplo,
+fotografar pintas suspeitas e enviar as imagens a um algoritmo que as analisa e diz
+com mais precisão do que um dermatologista se a mancha é inofensiva ou se pode
+ser um câncer, o que exige medidas adicionais”.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+10. FGV - MPE-RJ - Técnico do Ministério Público - Administrativa
+
+Esse segmento do texto 1 está realizado em voz ativa; a forma verbal passiva
+correspondente que é indicada de forma inadequada é:
+
+A) “o autor nos coloca a par” / somos colocados a par pelo autor;
+
+B) “que terão grande impacto” / grande impacto será tido;
+
+C) “fotografar pintas suspeitas” / pintas suspeitas serão fotografadas;
+
+D) “que as analisa” / em que elas são analisadas;
+
+E) “que exige medidas adicionais” / em que medidas adicionais são exigidas.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+10. FGV - MPE-RJ - Técnico do Ministério Público - Administrativa
+
+Esse segmento do texto 1 está realizado em voz ativa; a forma verbal passiva
+correspondente que é indicada de forma inadequada é:
+
+A) “o autor nos coloca a par” / somos colocados a par pelo autor;
+
+B) “que terão grande impacto” / grande impacto será tido;
+
+C) “fotografar pintas suspeitas” / pintas suspeitas serão fotografadas;
+
+D) “que as analisa” / em que elas são analisadas;
+
+E) “que exige medidas adicionais” / em que medidas adicionais são exigidas.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+                         VOZ          Sujeito paciente                                         AGENTE DA
+                        PASSIVA                                            SER + PARTICÍPIO     PASSIVA
+
+  REESCRITURA
+  VOZ PASSIVA
+   ANALÍTICA
+   PARA ATIVA
+                       VOZ ATIVA      Sujeito agente
+                                                                                                OBJETO
+                                      (quando não há                         Tempo verbal
+                                      agente da passiva,                                        DIRETO
+                                      o verbo fica na 3ª
+                                      pessoa do plural)
+
+
+Voz passiva: O aluno foi elogiado pela professora.                 Voz passiva: Os atletas serão homenageados.
+Voz ativa: A professora elogiou o aluno.                           Voz ativa: Homenagearão os atletas.
+
+                                                Prof. Adriana Figueiredo
+                                    
+
+
+---
+
+11. FGV - 2018 - AL-RO - Advogado
+“O levantamento foi feito pelo Sindicato das Mantenedoras de Ensino Superior
+(Semesp) com 99 instituições.”
+
+Essa frase do texto exemplifica a voz passiva; assinale a forma verbal correspondente
+à que está sublinhada, na voz ativa.
+A) fez-se.
+B) fazia.
+
+C) fazia-se.
+D) fizera.
+E) fez.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+11. FGV - 2018 - AL-RO - Advogado
+“O levantamento foi feito pelo Sindicato das Mantenedoras de Ensino Superior
+(Semesp) com 99 instituições.”
+
+Essa frase do texto exemplifica a voz passiva; assinale a forma verbal correspondente
+à que está sublinhada, na voz ativa.
+A) fez-se.
+B) fazia.
+
+C) fazia-se.
+D) fizera.
+E) fez.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+12. FGV - 2018 - TJ-AL - Analista Judiciário - Oficial de Justiça Avaliador
+
+“O flagrante de dois assessores trocando figurinhas durante uma sessão foi
+divulgado pelas redes sociais e a cena se espalhou”.
+
+O segmento “foi divulgado pelas redes sociais” do texto 2 é exemplo de voz passiva;
+se a mesma frase fosse colocada na voz ativa, a forma verbal adequada seria:
+A) divulgaram;
+B) divulgaram-se;
+C) divulgou-se;
+D) divulgam-se;
+E) divulga-se.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+12. FGV - 2018 - TJ-AL - Analista Judiciário - Oficial de Justiça Avaliador
+
+“O flagrante de dois assessores trocando figurinhas durante uma sessão foi
+divulgado pelas redes sociais e a cena se espalhou”.
+
+O segmento “foi divulgado pelas redes sociais” do texto 2 é exemplo de voz passiva;
+se a mesma frase fosse colocada na voz ativa, a forma verbal adequada seria:
+A) divulgaram;
+B) divulgaram-se;
+C) divulgou-se;
+D) divulgam-se;
+E) divulga-se.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+13. FGV - 2020 - IBGE - Coordenador Censitário Subárea - Reaplicação
+
+A frase “Foi observada a criação de uma nova empresa” está escrita na voz passiva
+com o verbo ser; se transformássemos essa frase para a voz ativa, a forma correta
+seria:
+
+A) Observou-se a criação de uma nova empresa;
+B) Observa-se a criação de uma nova empresa;
+C) Criou-se uma nova empresa;
+D) A criação de uma nova empresa foi observada;
+E) Observaram a criação de uma nova empresa.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+13. FGV - 2020 - IBGE - Coordenador Censitário Subárea - Reaplicação
+
+A frase “Foi observada a criação de uma nova empresa” está escrita na voz passiva
+com o verbo ser; se transformássemos essa frase para a voz ativa, a forma correta
+seria:
+
+A) Observou-se a criação de uma nova empresa;
+B) Observa-se a criação de uma nova empresa;
+C) Criou-se uma nova empresa;
+D) A criação de uma nova empresa foi observada;
+E) Observaram a criação de uma nova empresa.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+14. FGV - TJ-PI - Analista Judiciário -Escrivão Judicial
+“Também foram feitas ciclovias e campanhas de conscientização".
+
+A forma ativa dessa frase passiva é:
+
+A) fizeram ciclovias e também campanhas de conscientização;
+
+B) também fizeram ciclovias e campanhas de conscientização;
+
+C) também tinham feito ciclovias e campanhas de conscientização;
+
+D) também faziam ciclovias e campanhas de conscientização;
+
+E) ciclovias e campanhas de conscientização também eram feitas.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+14. FGV - TJ-PI - Analista Judiciário -Escrivão Judicial
+“Também foram feitas ciclovias e campanhas de conscientização".
+
+A forma ativa dessa frase passiva é:
+
+A) fizeram ciclovias e também campanhas de conscientização;
+
+B) também fizeram ciclovias e campanhas de conscientização;
+
+C) também tinham feito ciclovias e campanhas de conscientização;
+
+D) também faziam ciclovias e campanhas de conscientização;
+
+E) ciclovias e campanhas de conscientização também eram feitas.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+15. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+O primeiro parágrafo do texto 5 está na voz passiva com auxiliar: “No nordeste, a
+história do Bumba meu boi foi inspirada na lenda da Mãe Catirina e do Pai Francisco
+(Chico).” Dizem alguns estudiosos, porém, que, em se tratando de um sujeito
+representado por nome de coisa (a história do Bumba meu boi), mais adequada
+seria a passiva pronominal.
+
+Nesse caso, a nova forma adequada seria:
+
+A) No nordeste, inspiraram a história do Bumba meu boi na lenda da Mãe Catirina e
+do Pai Francisco (Chico);
+
+B) No nordeste, a história do Bumba meu boi teve sua inspiração na lenda da Mãe
+Catirina e do Pai Francisco (Chico);
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+15. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+C) Inspiraram-se, no nordeste, a história do Bumba meu boi na lenda da Mãe
+Catirina e do Pai Francisco (Chico);
+
+D) No nordeste, a história do Bumba meu boi inspirou-se na lenda da Mãe Catirina e
+do Pai Francisco (Chico);
+
+E) No nordeste, a história do Bumba meu boi é de inspiração na lenda da Mãe
+Catirina e do Pai Francisco (Chico).
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+15. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Área de
+Auditoria Governamental
+C) Inspiraram-se, no nordeste, a história do Bumba meu boi na lenda da Mãe
+Catirina e do Pai Francisco (Chico);
+
+D) No nordeste, a história do Bumba meu boi inspirou-se na lenda da Mãe Catirina e
+do Pai Francisco (Chico);
+
+E) No nordeste, a história do Bumba meu boi é de inspiração na lenda da Mãe
+Catirina e do Pai Francisco (Chico).
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+ 16. FGV - MEC - Administrador de Banco de Dados
+O segmento "...deixam de ser percebidas como revoluções" mostra uma forma de
+voz passiva com auxiliar (verbo ser); a frase a seguir em que a troca de voz passiva
+pronominal pela passiva com auxiliar não foi corretamente feita é:
+
+A) Os ministérios são organizados para se demitirem. / serem demitidos.
+
+B) Nada se deve imputar aos homens dementes e aos enamorados. / deve ser
+imputado.
+
+C) O diabo não é tão feio como se pinta. / é pintado.
+
+D) O louvor e a censura fazem-se com poucas palavras. / foram feitos.
+
+E) Para dar justificação à união dos sexos inventou-se o amor. / foi inventado.
+Profª Adriana Figueiredo        
+
+
+---
+
+ 16. FGV - MEC - Administrador de Banco de Dados
+O segmento "...deixam de ser percebidas como revoluções" mostra uma forma de
+voz passiva com auxiliar (verbo ser); a frase a seguir em que a troca de voz passiva
+pronominal pela passiva com auxiliar não foi corretamente feita é:
+
+A) Os ministérios são organizados para se demitirem. / serem demitidos.
+
+B) Nada se deve imputar aos homens dementes e aos enamorados. / deve ser
+imputado.
+
+C) O diabo não é tão feio como se pinta. / é pintado.
+
+D) O louvor e a censura fazem-se com poucas palavras. / foram feitos.
+
+E) Para dar justificação à união dos sexos inventou-se o amor. / foi inventado.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+ A semântica vocabular:
+ antônimos, sinônimos,
+homônimos, parônimos e
+      heterônimos                           Pr of ª . Adr i ana
+                                                Fi guei r edo
+
+       
+
+
+---
+
+01. FGV - MEC - Administrador de Banco de Dados
+“É a doença que torna a saúde agradável e boa, o mesmo faz a fome com a
+saciedade, e o cansaço, com o repouso”.
+
+Não há dúvida de que, nessa frase, há uma correspondência semântica entre
+doença/saúde, fome/saciedade e cansaço/repouso. A mesma correspondência não
+se estabelece adequadamente entre
+A) frio/calor.
+B) nervosismo/tranquilidade.
+C) medo/calma.
+D) sede/bebida.
+E) ignorância/estudo.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+01. FGV - MEC - Administrador de Banco de Dados
+“É a doença que torna a saúde agradável e boa, o mesmo faz a fome com a
+saciedade, e o cansaço, com o repouso”.
+
+Não há dúvida de que, nessa frase, há uma correspondência semântica entre
+doença/saúde, fome/saciedade e cansaço/repouso. A mesma correspondência não
+se estabelece adequadamente entre
+A) frio/calor.
+B) nervosismo/tranquilidade.
+C) medo/calma.
+D) sede/bebida.
+E) ignorância/estudo.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+02. FGV - 2021 - FUNSAÚDE - CE - Analista Administrativo – Administração
+
+“O homem é confinado nos limites estreitos do corpo, como numa prisão, mas a
+matemática o liberta e o faz maior do que todo o universo... É levado pela
+tempestade das paixões a um canto e a outro, sem nenhuma meta, mas a
+matemática lhe restitui a paz interior, resolvendo harmoniosamente os movimentos
+opostos da alma e reconduzindo-a, sob a orientação da razão, ao acordo e à
+harmonia.” Bertrand Russell.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+02. FGV - 2021 - FUNSAÚDE - CE - Analista Administrativo - Administração
+
+Assinale a opção que indica os vocábulos que não se relacionam semanticamente
+por semelhança ou oposição.
+
+A) Confinado / limites.
+
+B) Limites estreitos / prisão.
+
+C) Prisão / paixões.
+
+D) Movimentos opostos / acordo e harmonia.
+
+E) Tempestade das paixões / paz interior.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+02. FGV - 2021 - FUNSAÚDE - CE - Analista Administrativo - Administração
+
+Assinale a opção que indica os vocábulos que não se relacionam semanticamente
+por semelhança ou oposição.
+
+A) Confinado / limites.
+
+B) Limites estreitos / prisão.
+
+C) Prisão / paixões.
+
+D) Movimentos opostos / acordo e harmonia.
+
+E) Tempestade das paixões / paz interior.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+03. FGV - 2019 - Prefeitura de Angra dos Reis - RJ - Inspetor de Alunos
+“Os progressos obtidos por meio do ensino são lentos; já os obtidos por meio de
+exemplos são mais rápidos e eficazes.” Nessa frase, os termos “lentos” e “rápidos” se
+opõem quanto ao sentido (antônimos). Assinale a frase em que aparecem
+antônimos.
+
+A) Nem tudo que balança cai.
+
+B) As pitangas podem ser amarelas ou verdes.
+
+C) Os portugueses e os brasileiros se opuseram algumas vezes.
+
+D) Alguns progressos se transformam em retrocessos.
+
+E) Lemos nos livros e escrevemos nos cadernos.
+Profª Adriana Figueiredo       
+
+
+---
+
+03. FGV - 2019 - Prefeitura de Angra dos Reis - RJ - Inspetor de Alunos
+“Os progressos obtidos por meio do ensino são lentos; já os obtidos por meio de
+exemplos são mais rápidos e eficazes.” Nessa frase, os termos “lentos” e “rápidos” se
+opõem quanto ao sentido (antônimos). Assinale a frase em que aparecem
+antônimos.
+
+A) Nem tudo que balança cai.
+
+B) As pitangas podem ser amarelas ou verdes.
+
+C) Os portugueses e os brasileiros se opuseram algumas vezes.
+
+D) Alguns progressos se transformam em retrocessos.
+
+E) Lemos nos livros e escrevemos nos cadernos.
+Profª Adriana Figueiredo       
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+04. FGV - 2021 - IMBEL - Cargos de Nível Fundamental
+
+Assinale a opção em que o conteúdo do cartaz não se estrutura em antônimos.
+
+A) “Olhe sempre para o céu, mas não esqueça os buracos da terra.”
+
+B) “Deixe sempre pra trás o que não te leva pra frente.”
+
+C) “Altos estão os preços, baixos estão os salários.”
+
+D) “Não me traga verdades; me traga dúvidas.”
+
+E) “Diga-me de onde vem e para onde vai.”
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+04. FGV - 2021 - IMBEL - Cargos de Nível Fundamental
+
+Assinale a opção em que o conteúdo do cartaz não se estrutura em antônimos.
+
+A) “Olhe sempre para o céu, mas não esqueça os buracos da terra.”
+
+B) “Deixe sempre pra trás o que não te leva pra frente.”
+
+C) “Altos estão os preços, baixos estão os salários.”
+
+D) “Não me traga verdades; me traga dúvidas.”
+
+E) “Diga-me de onde vem e para onde vai.”
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+05. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu
+parônimo; a única das frases cuja forma de vocábulo sublinhado está correta é:
+
+A) O motorista infligiu como leis do trânsito;
+
+B) O prisioneiro dilatou os comparsas do assalto;
+
+C) Não há nada que desabone sua conduta imoral;
+
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+
+E) Os cumprimentos devem ser dados na entrada da festa.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+05. FGV - 2020 - TJ-RS - Oficial de Justiça
+
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu
+parônimo; a única das frases cuja forma de vocábulo sublinhado está correta é:
+
+A) O motorista infligiu como leis do trânsito;
+
+B) O prisioneiro dilatou os comparsas do assalto;
+
+C) Não há nada que desabone sua conduta imoral;
+
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+
+E) Os cumprimentos devem ser dados na entrada da festa.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+06. FGV - Prefeitura de Salvador - BA - Técnico de Nível Superior II - Direito
+“Tangencia a imoralidade, o crime, a perversão”. Nesse segmento não se pode
+confundir “imoralidade” com “amoralidade”, seu parônimo.
+Assinale a frase a seguir em que houve troca indevida entre parônimos.
+
+A) “O Ministério dilatou os prazos anteriormente fixados”.
+
+B) “A quantia vultosa impressionou os juízes do caso”.
+
+C) “O Governo pretende taxar as bebidas importadas”.
+
+D) “O Hospital pretendia oferecer um ambiente totalmente acético”.
+
+E) “Os policiais o prenderam com discrição”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - Prefeitura de Salvador - BA - Técnico de Nível Superior II - Direito
+“Tangencia a imoralidade, o crime, a perversão”. Nesse segmento não se pode
+confundir “imoralidade” com “amoralidade”, seu parônimo.
+Assinale a frase a seguir em que houve troca indevida entre parônimos.
+
+A) “O Ministério dilatou os prazos anteriormente fixados”.
+
+B) “A quantia vultosa impressionou os juízes do caso”.
+
+C) “O Governo pretende taxar as bebidas importadas”.
+
+D) “O Hospital pretendia oferecer um ambiente totalmente acético”.
+
+E) “Os policiais o prenderam com discrição”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+07. FGV - 2021 - Câmara de Aracaju - SE - Analista Administrativo
+
+Em todas as frases abaixo, retiradas de cartas de leitores de jornais diversos, os
+redatores procuraram evitar a repetição de palavras idênticas; a frase em que a
+estratégia empregada para isso foi a de utilização de hiperônimos (vocábulos de
+conteúdo semântico geral) é:
+
+A) A funcionária tinha o hábito de gritar com os cidadãos que procuravam a seção,
+por isso foi transferida;
+
+B) Logo depois de o tenente ter sido atropelado, a ambulância chegou e levou o
+militar para o hospital;
+
+C) Os índios têm direitos assegurados na nossa Constituição e, por isso mesmo, os
+direitos dos indígenas devem ser respeitados;
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - 2021 - Câmara de Aracaju - SE - Analista Administrativo
+
+D) Os estudantes brasileiros que participaram da feira obtiveram prêmios
+importantes, o que demonstra que não falta a nossos alunos competência;
+
+E) Os animais sofrem com a poluição e, por isso, a recomendação é que protejamos
+nossos cães e gatos.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - 2021 - Câmara de Aracaju - SE - Analista Administrativo
+
+Em todas as frases abaixo, retiradas de cartas de leitores de jornais diversos, os
+redatores procuraram evitar a repetição de palavras idênticas; a frase em que a
+estratégia empregada para isso foi a de utilização de hiperônimos (vocábulos de
+conteúdo semântico geral) é:
+
+A) A funcionária tinha o hábito de gritar com os cidadãos que procuravam a seção,
+por isso foi transferida;
+
+B) Logo depois de o tenente ter sido atropelado, a ambulância chegou e levou o
+militar para o hospital;
+
+C) Os índios têm direitos assegurados na nossa Constituição e, por isso mesmo, os
+direitos dos indígenas devem ser respeitados;
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+08. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+Texto 7
+
+Em 3 de novembro de 1957, a cadela Laika se tornava o primeiro animal da Terra a
+ser colocado em órbita. A bordo da nave soviética Sputnik2, ela morreu horas depois
+do lançamento, mas pôde entrar para a história da corrida espacial. O animal
+escolhido para ir ao espaço era uma vira-latas de 6Kg de nome kudriavka. Depois os
+soviéticos decidiram renomeá-la como Laika. Sua cabine tinha espaço para ela ficar
+deitada ou em pé. Comida e água eram providenciadas em forma de gelatina. Ela
+tinha uma proteção e eletrodos para monitorar seus sinais vitais. Os primeiros dados
+da telemetria mostraram que ela estava agitada, mas comia a ração. Apesar de toda
+a preparação, ela morreu devido a uma combinação de superaquecimento e pânico,
+deixando alguns cientistas tristes.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+
+O texto 7, inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+A) soviéticos / russos;
+B) gelatina / alimento;
+C) morrer / falecer;
+D) história / conhecimento;
+E) espaço / universo.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. FGV - Câmara Municipal do Recife-PE - Enfermeiro
+
+
+O texto 7, inicialmente, se refere a uma “cadela” e, mais tarde, se refere a ela como
+“animal”, estabelecendo uma relação de anáfora por meio de um hiperônimo. O
+mesmo aconteceria no seguinte par de palavras:
+
+A) soviéticos / russos;
+B) gelatina / alimento;
+C) morrer / falecer;
+D) história / conhecimento;
+E) espaço / universo.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+A pragmática na linguagem: o
+    significado contextual
+                                              Pr of ª . Adr i ana
+                                                  Fi guei r edo
+
+         
+
+
+---
+
+01. FGV - 2021 - PC-RJ - Perito Criminal - Engenharia Civil
+
+A palavra motorista designa um indivíduo na seguinte frase:
+
+A) Ser motorista de ônibus é um trabalho árduo;
+
+B) Meu pai é motorista desde os 20 anos;
+
+C) O motorista deve dar prioridade aos pedestres;
+
+D) O motorista chegou cedo, como todos os dias;
+
+E) José conseguiu a vaga de motorista na empresa.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+01. FGV - 2021 - PC-RJ - Perito Criminal - Engenharia Civil
+
+A palavra motorista designa um indivíduo na seguinte frase:
+
+A) Ser motorista de ônibus é um trabalho árduo;
+
+B) Meu pai é motorista desde os 20 anos;
+
+C) O motorista deve dar prioridade aos pedestres;
+
+D) O motorista chegou cedo, como todos os dias;
+
+E) José conseguiu a vaga de motorista na empresa.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+02. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+Imagine um país de grande número de imigrantes, que mandam dinheiro para seus
+países de origem. Numa campanha publicitária, que se refere ao trabalho dos
+Correios, aparecem frases diferentes com o verbo mandar, utilizando duplo
+significado desse verbo: comandar ou enviar.
+A frase em que só há um desses significados possíveis é:
+A) Não fico preocupado quando me mandam;
+B) Em minha casa quem manda é a minha mãe;
+C) Na família, só eu é que mando;
+D) O sargento manda e todos obedecem;
+E) Como eu, também meu pai mandava.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+02. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+Imagine um país de grande número de imigrantes, que mandam dinheiro para seus
+países de origem. Numa campanha publicitária, que se refere ao trabalho dos
+Correios, aparecem frases diferentes com o verbo mandar, utilizando duplo
+significado desse verbo: comandar ou enviar.
+A frase em que só há um desses significados possíveis é:
+A) Não fico preocupado quando me mandam;
+B) Em minha casa quem manda é a minha mãe;
+C) Na família, só eu é que mando;
+D) O sargento manda e todos obedecem;
+E) Como eu, também meu pai mandava.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+03. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+O dicionário de sinônimos de Antônio Houaiss mostra os seguintes para o verbo
+puxar: absorver, apertar, aproximar, ofegar, arrancar, destacar, bajular etc. Em todas
+as frases abaixo foi empregado o verbo puxar; aquela frase em que seria adequado o
+emprego de aproximar é:
+
+
+A) Esse material puxa a tinta;
+B) A música puxava os turistas para a praça;
+C) O convidado puxou a cadeira para sentar-se;
+D) O menino puxava o carrinho pela areia;
+E) Amendoim salgado puxa cerveja.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+03. FGV - 2021 - TJ-RO - Analista Judiciário - Administrador
+O dicionário de sinônimos de Antônio Houaiss mostra os seguintes para o verbo
+puxar: absorver, apertar, aproximar, ofegar, arrancar, destacar, bajular etc. Em todas
+as frases abaixo foi empregado o verbo puxar; aquela frase em que seria adequado o
+emprego de aproximar é:
+
+
+A) Esse material puxa a tinta;
+B) A música puxava os turistas para a praça;
+C) O convidado puxou a cadeira para sentar-se;
+D) O menino puxava o carrinho pela areia;
+E) Amendoim salgado puxa cerveja.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+04. FGV - 2021 - IMBEL - Cargos de Nível Fundamental - Reaplicação
+
+Todos os ditados a seguir mostram formas do verbo ter, que é amplamente
+empregado em lugar de outros verbos.
+
+Assinale a opção que apresenta o ditado em que se propõe um substituto adequado
+para esse verbo.
+A) Gato escaldado tem medo de água fria / possui.
+B) O cão tem quatro patas, mas não pode seguir quatro caminhos / dispõe de.
+C) Quem pouco semeia tem escassa colheita / recebe.
+D) Há o que finge ser rico e nada tem / demonstra.
+E) O que semeia justiça tem paga segura / adquire.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+04. FGV - 2021 - IMBEL - Cargos de Nível Fundamental - Reaplicação
+
+Todos os ditados a seguir mostram formas do verbo ter, que é amplamente
+empregado em lugar de outros verbos.
+
+Assinale a opção que apresenta o ditado em que se propõe um substituto adequado
+para esse verbo.
+A) Gato escaldado tem medo de água fria / possui.
+B) O cão tem quatro patas, mas não pode seguir quatro caminhos / dispõe de.
+C) Quem pouco semeia tem escassa colheita / recebe.
+D) Há o que finge ser rico e nada tem / demonstra.
+E) O que semeia justiça tem paga segura / adquire.
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+05. FGV - 2021 - PC-RJ - Perito Criminal - Engenharia Civil
+
+Todas as frases abaixo, retiradas de um dicionário de citações, mostram um mesmo
+vocábulo empregado duas vezes. A frase em que o vocábulo repetido mostra
+significados diferentes é:
+A) Sofre mais aquele que sempre espera do que aquele que nunca espera nada;
+B) É melhor ser pessimista do que otimista. O pessimista fica feliz quando acerta e
+quando erra;
+C) Cérebro: aparelho com que pensamos que pensamos;
+D) Não sou da altura que me veem, mas sim da altura que meus olhos podem ver;
+E) Agradar a si mesmo é orgulho, agradar aos outros, vaidade.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+05. FGV - 2021 - PC-RJ - Perito Criminal - Engenharia Civil
+
+Todas as frases abaixo, retiradas de um dicionário de citações, mostram um mesmo
+vocábulo empregado duas vezes. A frase em que o vocábulo repetido mostra
+significados diferentes é:
+A) Sofre mais aquele que sempre espera do que aquele que nunca espera nada;
+B) É melhor ser pessimista do que otimista. O pessimista fica feliz quando acerta e
+quando erra;
+C) Cérebro: aparelho com que pensamos que pensamos;
+D) Não sou da altura que me veem, mas sim da altura que meus olhos podem ver;
+E) Agradar a si mesmo é orgulho, agradar aos outros, vaidade.
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+06. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Tecnologia da
+Informação
+Em todas as frases abaixo há a repetição de um vocábulo; a frase em que esse
+vocábulo repetido mostra significados diferentes é:
+
+A) “O que tiveres de fazer, faze-o depressa”;
+
+B) “O ideal é não esperar pelo momento ideal”;
+
+C) “Não existem executivos bem-sucedidos. Há executados bem-sucedidos”;
+
+D) “A arte de agradar é a arte de enganar”;
+
+E) “Há pessoas que têm dinheiro e pessoas que são ricas”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+06. FGV - 2021 - TCE-AM - Auditor Técnico de Controle Externo - Tecnologia da
+Informação
+Em todas as frases abaixo há a repetição de um vocábulo; a frase em que esse
+vocábulo repetido mostra significados diferentes é:
+
+A) “O que tiveres de fazer, faze-o depressa”;
+
+B) “O ideal é não esperar pelo momento ideal”;
+
+C) “Não existem executivos bem-sucedidos. Há executados bem-sucedidos”;
+
+D) “A arte de agradar é a arte de enganar”;
+
+E) “Há pessoas que têm dinheiro e pessoas que são ricas”.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+07. FGV - 2021 - SEFAZ-ES - Auditor Fiscal da Receita Estadual - Tarde
+
+Assinale a frase que mostra em sua estruturação um jogo de palavras com sentidos
+diferentes de um mesmo termo.
+
+A) “Quem fica olhando o vento jamais semeará, quem fica olhando as nuvens jamais
+ceifará.”
+
+B) “Eu estaria disposto a entender a economia se me convencessem de que alguém
+entende.”
+
+C) “As fontes de todos os problemas são duas: barra de ouro e barra de saia.”
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - 2021 - SEFAZ-ES - Auditor Fiscal da Receita Estadual - Tarde
+
+D) “Há coisas mais importantes na vida do que ter algum dinheiro. Uma delas é ter
+muito dinheiro.”
+
+E) “Todo homem é sensível quando é espectador. Todo homem não é sensível
+quando está em ação.”
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+07. FGV - 2021 - SEFAZ-ES - Auditor Fiscal da Receita Estadual - Tarde
+
+Assinale a frase que mostra em sua estruturação um jogo de palavras com sentidos
+diferentes de um mesmo termo.
+
+A) “Quem fica olhando o vento jamais semeará, quem fica olhando as nuvens jamais
+ceifará.”
+
+B) “Eu estaria disposto a entender a economia se me convencessem de que alguém
+entende.”
+
+C) “As fontes de todos os problemas são duas: barra de ouro e barra de saia.”
+
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+08. FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+Em todas as frases abaixo, as palavras essenciais pertencem a um mesmo campo
+semântico; o campo semântico está bem identificado em:
+
+A) Odeio os movimentos que ultrapassam as linhas / atletismo;
+
+B) Falar sem pensar é disparar sem apontar / argumentação;
+
+C) Sê breve em teus raciocínios, porque a ninguém agrada seres longo / filosofia;
+
+D) Grandes ideias necessitam de asas e trem de pouso / balonismo;
+
+E) Falar é barato porque a oferta é maior do que a demanda / economia.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+08. FGV - 2021 - Câmara de Aracaju - SE - Técnico em Taquigrafia
+
+Em todas as frases abaixo, as palavras essenciais pertencem a um mesmo campo
+semântico; o campo semântico está bem identificado em:
+
+A) Odeio os movimentos que ultrapassam as linhas / atletismo;
+
+B) Falar sem pensar é disparar sem apontar / argumentação;
+
+C) Sê breve em teus raciocínios, porque a ninguém agrada seres longo / filosofia;
+
+D) Grandes ideias necessitam de asas e trem de pouso / balonismo;
+
+E) Falar é barato porque a oferta é maior do que a demanda / economia.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+09. FGV - 2021 - TCE-PI - Assistente de Administração
+Texto 3 – Machado de Assis e o fumo
+1. “Quando fumo, parece que aspiro a eternidade. Enlevo-me todo e mudo de ser.
+Divina invenção!”.
+
+Observemos, agora, a frase 1 (texto 3); o tom da frase está envolto em religiosidade.
+Os três vocábulos da frase que pertencem a esse campo semântico são:
+A) eternidade / enlevo-me / divina;
+B) aspiro / enlevo-me / mudo;
+C) ser / eternidade / divina;
+D) mudo / eternidade / aspiro;
+E) divina / aspiro / eternidade.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+09. FGV - 2021 - TCE-PI - Assistente de Administração
+Texto 3 – Machado de Assis e o fumo
+1. “Quando fumo, parece que aspiro a eternidade. Enlevo-me todo e mudo de ser.
+Divina invenção!”.
+
+Observemos, agora, a frase 1 (texto 3); o tom da frase está envolto em religiosidade.
+Os três vocábulos da frase que pertencem a esse campo semântico são:
+A) eternidade / enlevo-me / divina;
+B) aspiro / enlevo-me / mudo;
+C) ser / eternidade / divina;
+D) mudo / eternidade / aspiro;
+E) divina / aspiro / eternidade.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+           
+
+
+---
+
+OBRIGADA
+                                        Pr of ª . Adr i ana
+                                            Fi guei r edo
+
+   
+
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+INSTAGRAM.COM/
+PROFESSORAADRIANAFIGUEIREDO
+HTTPS://WWW.YOUTUBE.COM/USER/
+PROFESSORAADRIANAF                              Pr of ª . Adr i ana
+                                                    Fi guei r edo
+
+           
+
+
+---
+
+---

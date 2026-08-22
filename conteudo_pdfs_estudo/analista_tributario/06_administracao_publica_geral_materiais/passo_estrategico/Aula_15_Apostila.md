@@ -1,0 +1,823 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 15_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 14
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 14
+
+                                                 SIMULADO
+Considerações iniciais 
+Simulado 
+  Simulado - sem comentários 
+  Questão desafio – Sem comentário 
+  Gabarito do simulado 
+  Simulado - com comentários 
+  Questão desafio – Comentada 
+  Considerações Finais 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                                           1
+          www.estrategiaconcursos.com.br                                                                                          20
+                                          
+
+
+---
+
+ Abraão Pereira
+ Aula 14
+
+                                CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+Prontos para o nosso terceiro simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+                                                                                        Bom simulado!!!
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                2
+       www.estrategiaconcursos.com.br                                                               20
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Uma organização deseja reduzir custos no processo de preenchimento de uma vaga,
+priorizando candidatos já familiarizados com a cultura e os valores organizacionais. O
+método de recrutamento escolhido deve, ainda, minimizar o risco de choque cultural e
+desmotivação dos colaboradores. Sobre esse cenário, assinale a alternativa correta:
+a) O recrutamento externo é o mais indicado, pois atrai profissionais de outras empresas
+que podem oferecer novas ideias.
+b) O recrutamento interno atende melhor ao objetivo descrito, pois aproveita talentos já
+contratados pela organização.
+c) O recrutamento misto é necessário, pois permite avaliar candidatos internos e externos
+simultaneamente.
+d) O recrutamento externo garante maior renovação organizacional, mesmo que os custos
+sejam mais elevados.
+e) Nenhuma das alternativas apresenta a solução adequada para o problema descrito.
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Considere as desvantagens do recrutamento interno para uma empresa que busca
+inovação e diversificação. Qual das seguintes afirmações descreve corretamente um
+desafio inerente a esse tipo de recrutamento?
+a) A falta de alinhamento cultural entre os novos contratados e a organização.
+b) O custo elevado associado ao treinamento de novos talentos externos.
+c) A limitação na renovação de ideias e abordagens, restringindo a inovação.
+d) A necessidade de atrair profissionais altamente qualificados no mercado externo.
+e) A dificuldade em encontrar candidatos adequados entre os próprios funcionários.
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Um gerente deseja implementar um treinamento que desenvolva habilidades de liderança
+em longo prazo, promovendo maior capacidade estratégica entre os funcionários. Qual
+tipo de treinamento atende melhor a esse objetivo?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    3
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+a) Técnico-operacional.
+b) De integração.
+c) Gerencial.
+d) Comportamental.
+e) On-the-job.
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização pública, um gestor busca identificar lacunas nas competências dos
+colaboradores e propor ações corretivas para melhorar o alinhamento estratégico da
+equipe. Qual etapa do mapeamento de competências é realizada nesse momento?
+a) Definição das competências necessárias.
+b) Análise das competências reais.
+c) Identificação dos gaps de competências.
+d) Planejamento de ações corretivas.
+e) Implementação do plano estratégico.
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Um gestor opta pela avaliação de desempenho baseada no método 360°, visando a
+obtenção de feedback diversificado. Qual das seguintes características NÃO está associada
+a esse método?
+a) Envolve gestores, colegas e subordinados no processo de avaliação.
+b) É altamente dependente da sinceridade dos avaliadores.
+c) Baseia-se exclusivamente em feedback fornecido pelo gestor imediato.
+d) Exige treinamento adequado dos avaliadores para garantir qualidade.
+e) Fornece uma visão abrangente e multifacetada do desempenho.
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Uma organização decide implementar um sistema de avaliação de desempenho que
+priorize a análise do comportamento do colaborador em situações específicas que
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    4
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+impactaram diretamente os resultados organizacionais. Qual método seria o mais indicado
+para atender a esse objetivo?
+a) Avaliação por escala gráfica.
+b) Incidentes críticos.
+c) Avaliação por escolha forçada.
+d) Avaliação 360°.
+e) Avaliação por competências.
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está focada em melhorar a motivação das equipes por meio de práticas que
+promovam uma identidade comum e um comportamento integrado. Dentre as opções
+abaixo, qual seria a melhor estratégia para alcançar esse objetivo?
+a) Reduzir a frequência de avaliações formais para evitar sobrecarga.
+b) Implementar recompensas individuais para reforçar a competitividade interna.
+c) Excluir indicadores de trabalho em equipe dos critérios de desempenho.
+d) Promover a identidade comum e a confiança recíproca como valores essenciais.
+e) Substituir avaliações coletivas por comparações individuais de desempenho.
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+Durante a análise do desempenho organizacional, uma equipe de RH identifica que as
+competências necessárias para o sucesso estratégico da empresa não estão sendo
+plenamente atendidas pelos colaboradores. Qual das etapas a seguir descreve
+corretamente o momento de propor ações corretivas para esse problema?
+a) Definição das competências necessárias.
+b) Análise das competências reais dos colaboradores.
+c) Implementação do plano de desenvolvimento de competências.
+d) Identificação dos gaps de competências.
+e) Planejamento de metas de curto prazo.
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    5
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+Uma organização decide implementar uma estratégia de recrutamento simultâneo para
+ampliar suas opções e atrair candidatos com os melhores perfis internos e externos. Qual
+das seguintes abordagens melhor descreve essa estratégia?
+a) Priorizar exclusivamente o recrutamento interno para reduzir custos.
+b) Utilizar o recrutamento externo em busca de renovação cultural.
+c) Adotar o recrutamento misto em etapas distintas, priorizando fontes internas.
+d) Focar no recrutamento contingente para preencher vagas temporárias.
+e) Promover recrutamento misto simultâneo, combinando candidatos internos e externos.
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa implementou o método de Avaliação Participativa por Objetivos (APPO),
+mas percebeu que os colaboradores estão confusos sobre as metas definidas. Qual das
+ações a seguir é essencial para melhorar esse método?
+a) Garantir que as metas sejam claras e objetivas desde o planejamento.
+b) Eliminar a necessidade de acompanhamento contínuo para reduzir atritos.
+c) Substituir as metas individuais por avaliações gerais da equipe.
+d) Reduzir o foco no feedback regular para simplificar o processo.
+e) Implementar avaliações exclusivamente baseadas em resultados financeiros.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    6
+         www.estrategiaconcursos.com.br                                                   20
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+Questão desafio – Sem comentário
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma grande empresa multinacional do setor de tecnologia está enfrentando desafios
+significativos relacionados à gestão de pessoas. Recentemente, a área de Recursos
+Humanos identificou que os indicadores de desempenho apontam para uma queda
+generalizada na produtividade e motivação dos colaboradores. Após uma análise
+detalhada, os gestores detectaram que:
+   1. As metas individuais e de equipe não estavam claras, dificultando o alinhamento
+      estratégico.
+   2. O sistema de avaliação de desempenho usado era baseado em escalas gráficas, mas
+      estava sendo percebido como subjetivo e desatualizado.
+   3. A organização utilizava majoritariamente o recrutamento interno, o que resultou em
+      uma equipe com pouca diversidade de ideias e habilidades para inovação.
+   4. Apesar de realizar treinamentos técnicos frequentes, os programas gerenciais e
+      comportamentais eram escassos, resultando em líderes pouco capacitados para
+      motivar suas equipes.
+   5. Não havia um mapeamento formal das competências necessárias para os cargos
+      estratégicos, dificultando a identificação de lacunas e o planejamento de
+      treinamentos.
+Com base nesse cenário, responda às seguintes perguntas:
+a) Identifique quais problemas apresentados no caso estão relacionados à gestão do
+desempenho e proponha, com base no conteúdo estudado, duas ações práticas para
+solucioná-los.
+b) Explique como o mapeamento de competências poderia contribuir para resolver os
+desafios relacionados à liderança e ao recrutamento descritos no caso.
+c) Proponha um método de avaliação de desempenho mais adequado para substituir as
+escalas gráficas e justifique como ele abordaria as falhas identificadas.
+RESPOSTA:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    7
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 14
+
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    8
+       www.estrategiaconcursos.com.br                                                   20
+                                   
+
+
+---
+
+ Abraão Pereira
+ Aula 14
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  B                                      6                  B
+
+           2                  C                                      7                  D
+
+           3                  C                                      8                  D
+
+           4                  C                                      9                  E
+
+           5                  A                                     10                  A
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                 9
+       www.estrategiaconcursos.com.br                                                                20
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+Simulado - com comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Uma organização deseja reduzir custos no processo de preenchimento de uma vaga,
+priorizando candidatos já familiarizados com a cultura e os valores organizacionais. O
+método de recrutamento escolhido deve, ainda, minimizar o risco de choque cultural e
+desmotivação dos colaboradores. Sobre esse cenário, assinale a alternativa correta:
+a) O recrutamento externo é o mais indicado, pois atrai profissionais de outras empresas
+que podem oferecer novas ideias.
+b) O recrutamento interno atende melhor ao objetivo descrito, pois aproveita talentos já
+contratados pela organização.
+c) O recrutamento misto é necessário, pois permite avaliar candidatos internos e externos
+simultaneamente.
+d) O recrutamento externo garante maior renovação organizacional, mesmo que os custos
+sejam mais elevados.
+e) Nenhuma das alternativas apresenta a solução adequada para o problema descrito.
+Comentários:
+a) Incorreta, porque o recrutamento externo eleva custos e não atende à prioridade descrita.
+
+b) Correta, pois o recrutamento interno aproveita talentos existentes, reduzindo custos e
+promovendo alinhamento cultural.
+
+c) Incorreta, porque o recrutamento misto é mais complexo e não atende à necessidade de
+economia destacada.
+
+d) Incorreta, pois o foco no caso é minimizar custos, e o recrutamento externo os aumenta.
+
+e) Incorreta, porque a alternativa b apresenta a solução adequada.
+
+Gabarito: B
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Considere as desvantagens do recrutamento interno para uma empresa que busca
+inovação e diversificação. Qual das seguintes afirmações descreve corretamente um
+desafio inerente a esse tipo de recrutamento?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral         10
+        www.estrategiaconcursos.com.br                                                         20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+a) A falta de alinhamento cultural entre os novos contratados e a organização.
+b) O custo elevado associado ao treinamento de novos talentos externos.
+c) A limitação na renovação de ideias e abordagens, restringindo a inovação.
+d) A necessidade de atrair profissionais altamente qualificados no mercado externo.
+e) A dificuldade em encontrar candidatos adequados entre os próprios funcionários.
+Comentários:
+a) Incorreta, pois o recrutamento interno não enfrenta problemas de alinhamento cultural.
+
+b) Incorreta, já que custos elevados são mais associados ao recrutamento externo.
+
+c) Correta, pois reflete uma desvantagem inerente ao recrutamento interno: a limitação na
+renovação de ideias.
+
+d) Incorreta, pois essa dificuldade é característica do recrutamento externo.
+
+e) Incorreta, porque a dificuldade descrita é mais típica do recrutamento externo.
+
+Gabarito: C
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Um gerente deseja implementar um treinamento que desenvolva habilidades de liderança
+em longo prazo, promovendo maior capacidade estratégica entre os funcionários. Qual
+tipo de treinamento atende melhor a esse objetivo?
+a) Técnico-operacional.
+b) De integração.
+c) Gerencial.
+d) Comportamental.
+e) On-the-job.
+Comentários:
+a) Incorreta, pois o treinamento técnico-operacional é voltado para tarefas específicas, não para
+habilidades estratégicas.
+
+b) Incorreta, pois o treinamento de integração foca na adaptação à organização, e não no
+desenvolvimento de liderança.
+
+c) Correta, pois o treinamento gerencial é projetado para desenvolver competências estratégicas
+e de liderança.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       11
+        www.estrategiaconcursos.com.br                                                       20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+d) Incorreta, pois o treinamento comportamental é voltado para mudanças de atitudes e não
+necessariamente liderança estratégica.
+
+e) Incorreta, porque o treinamento on-the-job é mais voltado para aprendizado prático.
+
+Gabarito: C
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Em uma organização pública, um gestor busca identificar lacunas nas competências dos
+colaboradores e propor ações corretivas para melhorar o alinhamento estratégico da
+equipe. Qual etapa do mapeamento de competências é realizada nesse momento?
+a) Definição das competências necessárias.
+b) Análise das competências reais.
+c) Identificação dos gaps de competências.
+d) Planejamento de ações corretivas.
+e) Implementação do plano estratégico.
+Comentários:
+
+a) Incorreta, pois a definição de competências ocorre antes da identificação dos gaps.
+
+b) Incorreta, pois a análise das competências reais antecede a identificação das lacunas.
+
+c) Correta, pois identificar gaps é o processo de comparar competências necessárias e reais para
+propor ações corretivas.
+
+d) Incorreta, pois o planejamento de ações ocorre após a identificação dos gaps.
+
+e) Incorreta, pois a implementação ocorre ao final do processo.
+
+Gabarito: C
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Um gestor opta pela avaliação de desempenho baseada no método 360°, visando a
+obtenção de feedback diversificado. Qual das seguintes características NÃO está associada
+a esse método?
+a) Envolve gestores, colegas e subordinados no processo de avaliação.
+b) É altamente dependente da sinceridade dos avaliadores.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral      12
+        www.estrategiaconcursos.com.br                                                      20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+c) Baseia-se exclusivamente em feedback fornecido pelo gestor imediato.
+d) Exige treinamento adequado dos avaliadores para garantir qualidade.
+e) Fornece uma visão abrangente e multifacetada do desempenho.
+Comentários:
+
+a) Incorreta, pois o método 360° não se limita apenas a gestores, colegas e subordinados,
+podendo incluir clientes e outros stakeholders.
+
+b) Correta, já que a sinceridade dos avaliadores é fundamental para o sucesso do método.
+
+c) Correta, porque o método não se baseia exclusivamente no feedback do gestor imediato.
+
+d) Correta, pois o treinamento dos avaliadores é indispensável para garantir a qualidade do
+processo.
+
+e) Correta, já que o método oferece uma avaliação ampla e diversificada do desempenho.
+
+Gabarito: A
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Uma organização decide implementar um sistema de avaliação de desempenho que
+priorize a análise do comportamento do colaborador em situações específicas que
+impactaram diretamente os resultados organizacionais. Qual método seria o mais indicado
+para atender a esse objetivo?
+a) Avaliação por escala gráfica.
+b) Incidentes críticos.
+c) Avaliação por escolha forçada.
+d) Avaliação 360°.
+e) Avaliação por competências.
+Comentários:
+
+a) Incorreta, porque a avaliação por escala gráfica mede o desempenho geral com base em
+critérios predefinidos, sem foco em situações específicas.
+
+b) Correta, pois o método de incidentes críticos avalia comportamentos em eventos específicos,
+positivos ou negativos, que impactam diretamente o desempenho.
+
+c) Incorreta, já que a escolha forçada limita as opções de avaliação e não foca em situações críticas.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral            13
+        www.estrategiaconcursos.com.br                                                            20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+d) Incorreta, pois a avaliação 360° analisa múltiplas perspectivas, mas não é baseada em eventos
+específicos.
+
+e) Incorreta, já que a avaliação por competências foca no conjunto de conhecimentos, habilidades
+e atitudes, não em eventos críticos.
+
+Gabarito: B
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Uma empresa está focada em melhorar a motivação das equipes por meio de práticas que
+promovam uma identidade comum e um comportamento integrado. Dentre as opções
+abaixo, qual seria a melhor estratégia para alcançar esse objetivo?
+a) Reduzir a frequência de avaliações formais para evitar sobrecarga.
+b) Implementar recompensas individuais para reforçar a competitividade interna.
+c) Excluir indicadores de trabalho em equipe dos critérios de desempenho.
+d) Promover a identidade comum e a confiança recíproca como valores essenciais.
+e) Substituir avaliações coletivas por comparações individuais de desempenho.
+Comentários:
+
+a) Incorreta, pois reduzir avaliações pode enfraquecer o acompanhamento e o alinhamento
+organizacional.
+
+b) Incorreta, porque recompensas individuais podem aumentar a competição e reduzir a coesão
+da equipe.
+
+c) Incorreta, já que excluir indicadores de trabalho em equipe prejudica a integração.
+
+d) Correta, pois promover identidade comum e confiança recíproca fortalece o comportamento
+integrado e o espírito de equipe.
+
+e) Incorreta, porque comparações individuais podem gerar conflitos internos e enfraquecer o
+trabalho coletivo.
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral      14
+        www.estrategiaconcursos.com.br                                                      20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+Durante a análise do desempenho organizacional, uma equipe de RH identifica que as
+competências necessárias para o sucesso estratégico da empresa não estão sendo
+plenamente atendidas pelos colaboradores. Qual das etapas a seguir descreve
+corretamente o momento de propor ações corretivas para esse problema?
+a) Definição das competências necessárias.
+b) Análise das competências reais dos colaboradores.
+c) Implementação do plano de desenvolvimento de competências.
+d) Identificação dos gaps de competências.
+e) Planejamento de metas de curto prazo.
+Comentários:
+
+a) Incorreta, pois a definição de competências ocorre no início do processo, antes da
+análise dos gaps.
+
+b) Incorreta, porque a análise das competências reais avalia o que os colaboradores
+possuem, mas não propõe ações corretivas.
+
+c) Incorreta, pois a implementação ocorre somente após a identificação e planejamento.
+
+d) Correta, pois identificar os gaps é o momento exato em que se detectam as diferenças
+entre competências necessárias e reais, permitindo a proposição de ações corretivas.
+
+e) Incorreta, já que o planejamento de metas de curto prazo é apenas uma consequência
+do processo, e não a etapa que identifica lacunas.
+
+Gabarito: D
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+Uma organização decide implementar uma estratégia de recrutamento simultâneo para
+ampliar suas opções e atrair candidatos com os melhores perfis internos e externos. Qual
+das seguintes abordagens melhor descreve essa estratégia?
+a) Priorizar exclusivamente o recrutamento interno para reduzir custos.
+b) Utilizar o recrutamento externo em busca de renovação cultural.
+c) Adotar o recrutamento misto em etapas distintas, priorizando fontes internas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   15
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+d) Focar no recrutamento contingente para preencher vagas temporárias.
+e) Promover recrutamento misto simultâneo, combinando candidatos internos e externos.
+Comentários:
+
+a) Incorreta, pois priorizar apenas o recrutamento interno não atende ao objetivo de
+ampliar opções externas.
+
+b) Incorreta, porque focar apenas no recrutamento externo ignora talentos internos.
+
+c) Incorreta, já que priorizar etapas separadas não é uma abordagem simultânea.
+
+  d) Incorreta, pois recrutamento contingente refere-se a contratações temporárias, não
+simultâneas.                                            ==219a34==
+
+e) Correta, porque o recrutamento misto simultâneo combina talentos internos e externos,
+ampliando as opções e otimizando a busca pelo melhor perfil.
+
+Gabarito: E
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Uma empresa implementou o método de Avaliação Participativa por Objetivos (APPO),
+mas percebeu que os colaboradores estão confusos sobre as metas definidas. Qual das
+ações a seguir é essencial para melhorar esse método?
+a) Garantir que as metas sejam claras e objetivas desde o planejamento.
+b) Eliminar a necessidade de acompanhamento contínuo para reduzir atritos.
+c) Substituir as metas individuais por avaliações gerais da equipe.
+d) Reduzir o foco no feedback regular para simplificar o processo.
+e) Implementar avaliações exclusivamente baseadas em resultados financeiros.
+Comentários:
+a) Correta, pois a clareza e a objetividade das metas são fundamentais para o sucesso do
+APPO, alinhando expectativas e resultados.
+
+b) Incorreta, já que o acompanhamento contínuo é essencial para ajustar o progresso.
+
+c) Incorreta, pois as metas individuais são parte crucial do APPO e ajudam a direcionar
+esforços.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   16
+         www.estrategiaconcursos.com.br                                                   20
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+d) Incorreta, porque o feedback regular é uma etapa indispensável para manter o
+alinhamento e o engajamento.
+
+e) Incorreta, pois limitar-se a resultados financeiros enfraquece a avaliação de
+competências e comportamentos.
+
+Gabarito: A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   17
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+Questão desafio – Comentada
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma grande empresa multinacional do setor de tecnologia está enfrentando desafios
+significativos relacionados à gestão de pessoas. Recentemente, a área de Recursos
+Humanos identificou que os indicadores de desempenho apontam para uma queda
+generalizada na produtividade e motivação dos colaboradores. Após uma análise
+detalhada, os gestores detectaram que:
+   1. As metas individuais e de equipe não estavam claras, dificultando o alinhamento
+      estratégico.
+   2. O sistema de avaliação de desempenho usado era baseado em escalas gráficas, mas
+      estava sendo percebido como subjetivo e desatualizado.
+   3. A organização utilizava majoritariamente o recrutamento interno, o que resultou em
+      uma equipe com pouca diversidade de ideias e habilidades para inovação.
+   4. Apesar de realizar treinamentos técnicos frequentes, os programas gerenciais e
+      comportamentais eram escassos, resultando em líderes pouco capacitados para
+      motivar suas equipes.
+   5. Não havia um mapeamento formal das competências necessárias para os cargos
+      estratégicos, dificultando a identificação de lacunas e o planejamento de
+      treinamentos.
+Com base nesse cenário, responda às seguintes perguntas:
+a) Identifique quais problemas apresentados no caso estão relacionados à gestão do
+desempenho e proponha, com base no conteúdo estudado, duas ações práticas para
+solucioná-los.
+b) Explique como o mapeamento de competências poderia contribuir para resolver os
+desafios relacionados à liderança e ao recrutamento descritos no caso.
+c) Proponha um método de avaliação de desempenho mais adequado para substituir as
+escalas gráficas e justifique como ele abordaria as falhas identificadas.
+
+
+RESPOSTA:
+a) Identifique quais problemas apresentados no caso estão relacionados à gestão do
+desempenho e proponha, com base no conteúdo estudado, duas ações práticas para
+solucioná-los.
+Os problemas relacionados à gestão do desempenho incluem:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   18
+        www.estrategiaconcursos.com.br                                                   20
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 14
+
+   •   Metas individuais e de equipe pouco claras, prejudicando o alinhamento estratégico.
+
+   •   Percepção de subjetividade no sistema de avaliação, reduzindo a credibilidade do processo
+
+Ações práticas:
+
+   1. Definição clara de metas: Implementar o planejamento de metas SMART (específicas,
+      mensuráveis, alcançáveis, relevantes e temporais) para alinhar as expectativas individuais e
+      de equipe aos objetivos organizacionais.
+
+   2. Revisão do processo de feedback: Adotar feedback contínuo e estruturado para identificar
+       lacunas de desempenho e promover ajustes em tempo real, evitando que os problemas se
+       acumulem.
+
+b) Explique como o mapeamento de competências poderia contribuir para resolver os
+desafios relacionados à liderança e ao recrutamento descritos no caso.
+O mapeamento de competências ajudaria ao:
+
+   •   Resolver os desafios de liderança: Identificar as competências essenciais para cargos
+       gerenciais, como habilidades de comunicação, motivação e liderança situacional,
+       permitindo planejar programas de treinamento comportamental e gerencial direcionados.
+
+   •   Aprimorar o recrutamento: Determinar as competências específicas que estão faltando na
+       equipe e orientar o recrutamento externo para trazer talentos com habilidades
+       complementares e inovadoras.
+
+c) Proponha um método de avaliação de desempenho mais adequado para substituir as
+escalas gráficas e justifique como ele abordaria as falhas identificadas.
+Método sugerido: Avaliação 360°.
+
+Justificativa:
+
+   •   Este método é mais abrangente, pois envolve feedback de diversas fontes (gestores,
+       colegas, subordinados e até clientes), oferecendo uma visão multifacetada do desempenho.
+
+   •   A inclusão de diferentes perspectivas reduz a subjetividade percebida no método atual e
+       aumenta a credibilidade e a transparência do processo.
+
+   •   Além disso, permite identificar comportamentos e competências que impactam
+       diretamente o trabalho em equipe e o ambiente organizacional, aspectos críticos para
+       reverter a queda de motivação.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        19
+        www.estrategiaconcursos.com.br                                                        20
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 14
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Vamos nos preparando sempre para uma prova bastante difícil e as nossas questões
+tentaram, ao máximo, seguir o nível da banca organizadora.
+
+Grande Abraço a todos!!
+
+Prof. Abraão Pereira
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   20
+       www.estrategiaconcursos.com.br                                                   20
+                                   
+
+
+---
+
+---

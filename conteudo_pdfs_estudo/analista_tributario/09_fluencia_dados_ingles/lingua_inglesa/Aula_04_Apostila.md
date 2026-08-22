@@ -1,0 +1,8192 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 04_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Língua Inglesa
+---
+
+# Língua Inglesa
+
+Aula 03
+                          Receita Federal (Analista Tributário)
+                                               Língua Inglesa
+
+                                                        Autor:
+                                                   Ena Smith
+
+                                          09 de Outubro de 2025
+
+---
+
+      Ena Smith
+      Aula 03
+
+                                                                                     Índice
+1) Conjunções
+
+
+2) Verbos Frasais
+
+
+3) Verbos Auxiliares
+
+
+4) Verbos Modais
+
+
+5) Resumo A3 Teoria
+
+
+6) Questões Comentadas (A3) e Textos Traduzidos FGV
+
+
+7) Quadros de Vocabulários (A3) e Sinônimos FGV
+
+
+8) Lista de Questões (A3) FGV
+
+
+9) Resumo A3 FGV
+
+                Receita Federal (Analista Tributário) Língua Inglesa                                                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                          164
+
+                                                             
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                           CONJUNÇÕES
+
+As conjunções (conjunctions) são palavras que precisam juntar-se a outras. A principal função
+delas é conectar duas partes diferentes de uma frase, de uma lista, dois adjetivos, etc. Existem
+três tipos diferentes de conjunções, vamos começar pelas menores.
+
+                              1.1. Conjunções Coordenativas
+
+As conjunções coordenativas são conjunções pequenas e simples. Mas que têm um importante
+papel no texto e consequentemente na interpretação. São elas:
+
+ For (para), And (e), Nor (nem), But (mas), Or (ou), Yet (no entanto), So (então) =
+                            FAN BOYS (Para memorizar)
+
+As conjunções And (para listar itens ou ideias), But (para fazer um contraste entre ideias ou fatos)
+e Or (para discutir alternativas) são as principais e ligam duas orações independentes formando
+uma só. Orações independentes são aquelas que por si só já tem uma ideia completa, não
+precisam de outra oração. As conjunções coordenativas podem também conectar itens em uma
+lista, ou quaisquer outras palavras, deixando os dois lados iguais. Veja os exemplos abaixo:
+
+
+He already bought two dogs this month. Now he wants a cat.
+Ele já comprou dois cães esse mês. Agora ele quer um gato.
+
+
+He already bought two dogs this month and now he wants a cat.
+Ele já comprou dois cães esse mês e agora ele quer um gato.
+
+
+She had a bad headache yesterday. She still went to the meeting.
+Ela teve uma dor de cabeça ontem. Ela ainda foi para a reunião.
+
+
+She had a bad headache yesterday, but she still went to the meeting.
+Ela teve uma dor de cabeça ontem, mas ela ainda foi para a reunião.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      3
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+     Ena Smith
+     Aula 03
+
+We can order meat. We can order seafood.
+Podemos pedir carne. Podemos pedir frutos do mar.
+
+
+We can order meat, or we can order seafood.
+Podemos pedir carne, ou podemos pedir frutos do mar.
+
+                                  1.2. Conjunções Subordinadas
+
+
+As conjunções subordinadas estabelecem uma relação entre a oração subordinada (dependente)
+e o resto da sentença (oração). As orações dependentes são aquelas que não fazem sentido
+                                                           ==219a34==
+
+sozinhas. Elas são dependentes da oração principal. A conjunção subordinada será sempre a
+primeira palavra da oração dependente. Observe no quadro abaixo algumas das principais delas
+e as suas funções:
+
+Conjunções Subordinadas                         Tradução                     Função
+
+Although/though/even                            embora, apesar de            contraste    de      fatos
+though                                                                       surpreendentes
+
+As                                              como, à medida que, por razão ou tempo
+                                                que
+
+As if                                           como se                      comparação, concessão
+
+Because                                         por que                      mostra a razão
+
+If                                              se                           condicional
+
+Since                                            desde, já que               razão ou tempo
+
+When/whenever                                    quando                      indica tempo
+
+While                                            enquanto, embora            tempo ou contraste
+
+I can promise that a year from now, when I no longer hold this office, I’ll be right there with you
+as a citizen. (Barack Obama)
+
+           Receita Federal (Analista Tributário) Língua Inglesa                                       4
+           www.estrategiaconcursos.com.br                                                            164
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Prometo que daqui a um ano, quando eu não for mais presidente, estarei com vocês como um
+cidadão.
+
+
+Although they are multinational corporations, they don’t wield vast power.
+Apesar de elas serem corporações multinacionais, elas não exercem vasto poder.
+
+
+Because/ since / as they enjoy reading, they are always in the library.
+Visto que / já que /como eles gostam de ler, eles estão sempre na biblioteca.
+
+                                1.3. Conjunções Correlativas
+
+
+As conjunções correlativas são a combinação de algumas conjunções com outras palavras, elas
+andam em pares. Observe abaixo algumas das mais comuns:
+
+Conjuções Correlativas                                         Tradução
+
+Both ... and                                                   Ambos..e
+
+Either...or                                                    Ou (um) ...ou (outro)
+
+Neither...nor                                                  Nem (um) ...nem (outro)
+
+Not only ... but also* = As well as                            Não apenas...mas também = bem como
+
+Not...but                                                      Não...mas
+
+Both my mom and I clean the room carefully.
+Ambas minha mãe e eu limpamos o quarto com cuidado.
+
+
+I washed not only your car but also mine.
+Eu lavei não apenas o seu carro, mas também o meu.
+
+
+Not only* had I read the newspaper but also a book.
+Não apenas eu tinha lido o jornal mas também um livro.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                        5
+        www.estrategiaconcursos.com.br                                                              164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+* Quando expressões com uma palavra negativa como o Not only...but also e outras similares
+estiverem no início da frase, há inversão da posição do verbo.
+
+
+The student seeks to understand the meaning of the words as well as their interactions.
+O aluno procura entender o significado das palavras, bem como suas interações.
+
+
+Na frase acima a conjunção “as well as” é usada por que o autor da frase que destacar o que é
+citado primeiro. No caso, o aluno procura primeiro entender o significado das palavras (mais
+importante). E em adição a isso ele procura entender as interações que as palavras fazem.
+
+                 Alerta da Ena! A conjunção “and” (e) não substitui o “as well as”.
+
+The student seeks to understand the meaning of the words and their interactions.
+O aluno procura entender o significado das palavras e suas interações.
+
+
+No exemplo acima a interpretação é diferente. Visto que foi usada a conjunção “and” (e) ficou
+tudo no mesmo patamar. Não foi dado mais importância a “descobrir o significado das
+palavras”. Ambos, tanto o que vem antes do “and” como o que vem depois tem a mesma
+importância.
+
+Alerta da Ena! Cuidado! Nem sempre “as well as” indica adição. Quando usado como advérbio
+(irregular) ele é usado para fazer o comparativo de igualdade.
+
+Jonh can sing as well as Mary can.
+O João canta tão bem quanto a Maria.
+
+
+A habilidade de cantar do João é tão boa quanto a habilidade da Maria. Nesse tipo de caso não
+há nenhuma adição, mas sim comparação.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               6
+        www.estrategiaconcursos.com.br                                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                   Exercícios
+
+(Soldado Policial Militar da Polícia Militar do Distrito Federal – QPPMC - PM-DF - INSTITUTO
+AOCP – 2023)
+                                                       TEXT 1
+
+12 According to the Text 1 in ‘It’s as if I don’t exist’, ‘as if’ is expressing
+
+
+(A) contrast.
+(B) condition.
+(C) comparison.
+(D) purpose.
+(E) reason.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              7
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+12 According to the Text 1 in ‘It’s as if I don’t exist’, ‘as if’ is expressing
+12 De acordo com o Texto 1 em “É como se eu não existisse!”, “como se” está expressando
+
+
+(A) contrast. – contraste
+
+
+Errada. Um dos conectivos usados para indicar contraste é o But (Mas). Ex: I like chocolate, but I
+don't like coffee. (Eu gosto de chocolate, mas não gosto de café.)
+
+
+(B) condition. – condição
+
+
+Errada. Um dos conectivos usados para indicar condição é o If (Se). Ex: If you study hard, you will
+pass the exam. (Se você estudar muito, você vai passar no exame.)
+
+
+(C) comparison. – comparação
+
+
+Correta. A expressão 'as if' é usada para introduzir uma oração subordinada que faz uma
+comparação entre duas situações, uma real e outra imaginária. No texto 1, o homem diz 'It's as if
+I don't exist' (É como se eu não existisse!), comparando a sua situação real de ser ignorado pela
+mulher e por não tem seguidores no twitter com a situação imaginária de não existir. A
+expressão 'as if' pode ter outros significados, dependendo do contexto, mas no texto 1 ela
+indica uma comparação.
+
+
+(D) purpose. – propósito
+
+
+Errada. Um dos conectivos usados para indicar propósito é o In Order to (a fim de, para). Ex:
+She studied hard in order to pass the exam. (Ela estudou muito para passar no teste.)
+
+
+(E) reason. – razão
+
+
+Errada: Um dos conectivos em inglês usados para indicar razão é because. Ele é usado para
+introduzir uma oração que explica o motivo ou a causa de algo. Por exemplo: She didn't go to
+the party because she had a lot of homework. (Ela não foi à festa porque tinha muita lição de
+casa.)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     8
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+GABARITO: C
+
+
+Translation
+
+
+Man - Hi, I’m Dilbert.
+Homem - Oi, eu sou o Dilbert.
+
+
+Woman - How many twitters followers do you have?
+Mulher - Quantos seguidores no twitter você tem?
+
+
+Man - None.
+Homem - Nenhum.
+
+
+Woman - The world has judged you.
+Mulher - O mundo te julgou.
+
+
+Man - It’s as If I don’t exist!
+Homem - É como se eu não existisse!
+
+
+Dog - For a ghost, you do a good job of blocking the tv.
+Cachorro - Para um fantasma, você faz um bom trabalho de bloquear a tv.
+
+        Receita Federal (Analista Tributário) Língua Inglesa              9
+        www.estrategiaconcursos.com.br                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                      VERBOS FRASAIS
+      Um verbo frasal é um verbo seguido de uma palavra tal como in, on, out, up, away,
+off, down e outras. Essas palavras podem comportar-se como preposições ou como advérbios.
+Elas podem modificar um pouco ou completamente o significado do verbo principal. Observe
+como isso acontece nos exemplos abaixo:
+
+
+John and Mary broke up. He broke off their engagement yesterday. She broke down when
+he told her.
+João e Maria se separaram. Ele acabou o noivado deles ontem. Ela ficou arrasada quando
+ele terminou o relacionamento com ela.
+
+
+                                                     break
+                                                      off
+                              break                                       break
+                               up                                         down
+
+                                                     break
+
+Alguns verbos frasais podem se separar da partícula:
+
+
+Take off that black dress and put on your white skirt and the blue blouse.
+Tire o vestido preto e vista sua saia branca e a blusa azul.
+
+
+Take that black dress off and put your white shirt and the blue blouse on.
+Tire o vestido preto e vista a saia branca e a blusa azul.
+
+
+Can you drop me off there at 5 p.m. and pick me up at 7 p.m.?
+Você pode me deixar lá às 5 horas e me buscar/apanhar às 7 horas?
+
+
+She let the guy down.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                          10
+        www.estrategiaconcursos.com.br                                                164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Ela desiludiu o rapaz.
+
+
+Os verbos frasais podem ser intransitivos quando não existe objeto.
+
+
+The plane took off.
+O avião decolou.
+
+
+The bomb blew up.
+A bomba explodiu.
+                                                        ==219a34==
+
+Um pequeno número de verbos frasais seguem o padrão de um verbo seguido por uma partícula
+adverbial e uma preposição (ou duas preposições seguidas) e então um objeto.
+
+
+I read her book to find out about her life.
+Li o livro dela para descobrir sobre a vida dela.
+
+
+I am looking forward to the trip.
+Estou na expectativa da viagem.
+
+
+I’m looking for my glasses. I need them to look after my cat.
+Estou procurando por meus óculos. Preciso deles para cuidar do meu gato.
+
+
+                                                                     look
+                                                                     after
+                                                                               look
+                                              look for
+                                                                             forward
+
+                                                                     look
+
+Why do we put up with these banks? (The Tribune)
+Por que toleramos esses bancos?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           11
+        www.estrategiaconcursos.com.br                                                 164
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 03
+
+Verbos Frasais Parecidos                 Verbo Formal                       Significados
+
+Back up                                  support                            apoiar
+
+Back out                                 abandon; withdraw                  desistir, recuar, retirar-se
+
+Blow out                                 extinguish                         soprar, apagar
+
+Blow up                                  explode                            explodir, detonar
+
+Break in                                 interrupt                          interromper
+
+Break out                                escape                             fugir
+
+Call off                                 cancel                             cancelar
+
+Call out                                 order                              ordenar, mandar, determinar
+
+Come across                              encounter                          deparar-se,      encontrar      de
+                                                                            surpresa
+
+Come up with                             invent                             inventar,     sugerir,    planejar,
+                                                                            produzir
+
+Fill in                                  write; substitute                  preencher              formulários,
+                                                                            substituir
+
+Fill up                                  make full                          encher
+
+Find out                                 discover/locate                    descobrir, localizar
+
+Find against                             judge to be wrong                  decidir contra
+
+Get away                                 escape                             escapar, fugir, viajar por uns
+                                                                            dias de folga
+
+Get away with                            escape punishment                  conseguir fugir, livrar-se (da
+                                                                            culpa), safar-se de algo,
+                                                                            escapar de uma punição
+                                                                            quando se é culpado
+
+Get over                                 recover; forget                    restabelecer-se      de   uma
+                                                                            doença, sarar, curar; esquecer
+                                                                            no sentido de superar, deixar
+                                                                            pra lá e seguir em frente
+
+Get together                             meet                               encontrar-se, reunir-se
+
+          Receita Federal (Analista Tributário) Língua Inglesa                                               12
+          www.estrategiaconcursos.com.br                                                                    164
+
+                                       
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Get up                                  Stand; awake                       levantar-se; acordar;
+
+Go on                                   continue                           continuar, prosseguir
+
+Go out                                  go outdoors                        sair, passear
+
+Hold on                                 wait                               esperar um curto espaço de
+                                                                           tempo
+
+Hold back                               repress feelings                   reprimir sentimentos
+
+Let down                                delude                             desiludiu
+
+Let on                                  reveal, indicate                   deixar escapar, revelar
+
+Look into                               investigate                        investigar, examinar
+
+Look forward to                         await (sth) with excitement        esperar ansiosamente
+
+Put up with                             tolerate                           suportar, tolerar
+
+Put away                                put in correct place; save         guardar, arrumar; economizar
+
+Take over                               assume control                     dominar, assumir
+
+Take (sth) form (sb)                    confiscate                         confiscar
+
+Think over                              consider                           considerar, pensar a respeito
+
+Think ahead                             prepare for future                 preparar para o futuro
+
+Turn down                               decline, refuse                    recusar, rejeitar
+
+Turn away                               move away from                     afastar-se
+
+You pay a bribe and you get away with it. (latimes.com)
+Você paga um suborno e escapa impune disso.
+
+
+He gets along with his employees.
+Ele tem um bom relacionamento com os funcionários dele.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                              13
+         www.estrategiaconcursos.com.br                                                                164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                             MAPA MENTAL
+
+                   get away                                                get along
+                     with                                                    with
+
+
+                                                get
+                                        Uso do Verbo TO BE
+
+
+A seguir observe no quadro abaixo, um dos principais verbos frasais que escolhi em destaque
+para você, o verbo to be = ser ou estar:
+
+Verbo TO BE                                                    Tradução
+
+Be about / be around                                           estar nos arredores, na proximidade
+
+Be after                                                       estar atrás de alguém
+
+Be against                                                     ser ou estar contra
+
+Be at                                                          importunar alguém
+
+Be away                                                        estar ausente
+
+Be back -                                                      regressar
+
+Be down with                                                   estar de cama
+
+Be in                                                          estar em casa
+
+Be in for                                                      estar para ter algo desagradável
+
+Be in on                                                       estar envolvido em algo
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                         14
+        www.estrategiaconcursos.com.br                                                               164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Be in with                                                      estar em boas relações com alguém
+
+Be off                                                          ir-se embora, apodrecer, estar desligado
+
+Be on                                                           estar ligado, aceso ou em exibição
+
+Be on to                                                        suspeitar, desconfiar, saber de algo, falar com
+                                                                alguém para pedir algo
+
+Be out                                                          estar fora de casa
+
+Be out of                                                       não possuir
+
+Be over                                                         terminar
+
+Be up                                                           estar levantado da cama, acabar o tempo
+
+Be up for                                                       estar disponível para venda
+
+Be up to                                                        estar a querer, tramar, decidir
+
+We are against smoking.
+Nós somos contra o ato de fumar.
+
+
+The policemen are after the thief.
+Os policiais estão atrás do ladrão.
+
+
+She is away for a month.
+Ela está longe por um mês.
+
+
+When will the kids be back to school?
+Quando as crianças vão estar de volta à escola?
+
+
+The kids should be in this conversation.
+As crianças deveriam participar desta conversa.
+
+
+I am off work tomorrow.
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                               15
+         www.estrategiaconcursos.com.br                                                                     164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Não trabalho amanhã.
+
+
+The light is off but the TV is on.
+A luz está apagada mas a TV está ligada.
+
+
+The film is on right now at the cinema.
+O filme está em exibição agora no cinema.
+
+
+The bank manager is out of town;
+O gerente do banco não está na cidade.
+
+
+They are out of food.
+Eles não têm alimentos.
+
+
+I must be up before the night is over.
+Tenho que me acordar antes do amanhecer.
+
+
+Winter is over then our coats will be up for sale.
+O inverno acabou, então nossos agasalhos estarão à venda.
+
+
+It is up to you to choose pasta or salad.
+Cabe a você escolher se você come pasta ou salada.
+
+                                        Uso do Verbo TO DO
+
+
+O verbo "do" pode ser combinado com várias palavras como "in", "up", "over", e outras,
+alterando completamente seu sentido original, e formando Verbos Frasais.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                       16
+        www.estrategiaconcursos.com.br                                             164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Verbo Frasal                                                   Tradução
+
+Do away with                                                   eliminar, acabar com
+
+Do down                                                        criticar, rebaixar
+
+Do in                                                          esgotar, cansar extremamente, machucar
+
+Do out                                                         limpar, arrumar, decorar
+
+Do over                                                        fazer novamente, refazer
+
+Do up                                                          fechar ou arrumar algo
+
+Do without                                                     sobreviver sem algo, dispensar, passar sem
+
+Do away with something unnecessary in your life.
+Elimine algo desnecessário em sua vida.
+
+
+Do over a task you believe you can improve.
+Refaça uma tarefa que você acredita que pode melhorar.
+
+
+Do up your room to reflect your personality.
+Arrume seu quarto para refletir sua personalidade.
+
+
+The heavy lifting at work did him in, leaving him with a sore back for weeks.
+O trabalho pesado o machucou, deixando-o com dor nas costas por semanas.
+
+
+Sometimes it's healthier to do without sugar in your diet.
+Às vezes é mais saudável abster-se de açúcar na sua dieta.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                                17
+        www.estrategiaconcursos.com.br                                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                    Como esse assunto pode ser cobrado em uma prova?
+
+(BNDES-CESGRANRIO)
+01. In the excerpts “... by pitching in on other assignments ...” (lines 17-18) and “ask any
+questions that might come up right then and there” (lines 65-66), the verb phrases ‘pitching in’
+and ‘come up’ mean, respectively
+
+
+(A) contributing to – arise
+(B) putting up with – drop off
+(C) fighting off – disappear
+(D) getting rid of – be forgotten
+(E) moving away from – be eliminated
+
+
+Make yourself indispensable by pitching in on other assignments when possible. (lines 17-18)
+
+
+When assigned a new project, ask any questions that might come up right then and there. (lines
+65-66)
+
+
+Comentário:
+01. In the excerpts “... by pitching in on other assignments ...” (lines 17-18) and “ask any
+questions that might come up right then and there” (lines 65-66), the verb phrases ‘pitching in’
+and ‘come up’ mean, respectively
+01. Nos trechos "... por apresentar-se para outras atribuições ..." (linhas 17-18) e "faça todas as
+perguntas que possam surgir ali mesmo" (linhas 65-66), os verbos frasais “pitching in” e “come
+up” significam, respectivamente
+
+
+(A) contributing to – arise = contribuir - levantar
+
+
+Make yourself indispensable by pitching in/contributing to on other assignments when possible.
+Torne-se indispensável por se apresentar/contribuir para outras designações quando possível.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    18
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Pitching in = apresentar-se, fazer-se disponível, contribuir, ajudar com, dar = contributing to =
+contribuir para, participar em
+
+
+When assigned a new project, ask any questions that might come up/arise right then and
+there.
+Quando lhe for atribuído um novo projeto, faça todas as perguntas que possam
+surgir/aparecer ali mesmo.
+
+
+Come up = surgir, aparecer = arise = surgir, levantar, aumentar
+
+
+A opção apresenta respectivamente o significado dos verbos frasais “pitching in” e “come up”
+nos trechos apresentados. Essa é a correta.
+
+
+(B) putting up with – drop off = suportar – diminuir
+
+
+Os verbos frasais apresentados não têm o mesmo significado daqueles do texto. Errada.
+
+
+(C) fighting off – disappear = lutar – desaparecer
+
+
+O segundo verbal frasal da opção (desaparecer) tem significado oposto ao segundo verbo frasal
+(surgir) do texto. Opção errada.
+
+
+(D) getting rid of – be forgotten = livrar-se de – ser esquecido e (E) moving away from – be
+eliminated = afastar-se de – ser eliminado
+
+
+Os dois primeiros verbos frasais das opções acima têm significados opostos ao verbo “pitching
+in” do texto. Opções erradas.
+
+
+GABARITO: A
+
+
+(Prefeitura de Dona Inês - PB - Professor B - Nível - 1 (Licenciatura em Inglês) - CPCON – 2023)
+
+
+Is Technology Taking Over Classrooms?
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       19
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(Availablefrom:https://citedatthecrossroads.net/eng101f13/2013/10/27/is-technology-taking-
+over-classrooms/ AccessedonJuly8th,2023)
+
+
+2a QUESTÃO
+In Text III, the phrasal verb “to take over” means:
+
+
+a) to begin to have a particular quality.
+b) to get information about something or someone.
+c) to believe something to be the truth without even thinking about it.
+d) to get control of something.
+e) to take something or someone into consideration.
+
+
+Comentários:
+Is Technology Taking Over Classrooms?
+A Tecnologia Está Dominando as Salas de Aula?"
+
+
+From teacher to class
+Do professor para a classe de alunos
+
+
+Teacher: Isn’t this gr8 ☺ ? Txt me your homework. Tx.
+Professor: "Não é ótimo?" “Mande-me o seu dever de casa por mensagem" Obrigado.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 20
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+2a QUESTÃO
+In Text III, the phrasal verb “to take over” means:
+No Texto III, o verbo frasal “to take over” significa:
+
+
+a) to begin to have a particular quality. - começar a ter uma qualidade específica.
+
+
+Errada. O verbo frasal que tem como significado essa alternativa é o “take on”. Ex: "The sky
+took on a reddish hue at sunset" (O céu adquiriu uma tonalidade avermelhada ao pôr do sol).
+
+
+b) to get information about something or someone. - obter informações sobre algo ou alguém.
+
+
+Errada. O verbo frasal que tem como significado essa alternativa é o “take down”. Ex: "I need to
+take down your name and address" (Eu preciso anotar seu nome e endereço).
+
+
+c) to believe something to be the truth without even thinking about it. - acreditar em algo como
+verdade sem nem pensar sobre isso.
+
+
+Errada. O verbo frasal que tem como significado essa alternativa é o “take for granted”. Ex:
+"Don't take everything he says for granted" (Não aceite tudo o que ele diz como certo).
+
+
+d) to get control of something. - assumir o controle ou a posse de algo.
+
+
+Is Technology Taking Over Classrooms?
+A Tecnologia Está Assumindo o Controle das Salas de Aula?
+
+
+Correta. O verbo take over significa assumir o controle ou a posse de algo, ou substituir alguém
+ou algo em um determinado papel ou função. Na frase "Is Technology Taking Over
+Classrooms?", o verbo take over está sendo usado para questionar se a tecnologia está
+dominando as salas de aula, ou seja, se a tecnologia está se tornando mais importante, influente
+ou presente do que os outros elementos da educação, como os professores, os livros, os
+métodos tradicionais, etc. A frase também pode sugerir que a tecnologia está mudando a forma
+como as salas de aula funcionam, interagem e aprendem.
+
+
+e) to take something or someone into consideration. - levar algo ou alguém em consideração.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  21
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Errada. O verbo frasal que tem como significado essa alternativa é o “take into account”. Ex: We
+have to take your opinion into account" (Nós temos que levar em conta a sua opinião).
+
+
+GABARITO: D
+
+
+(Professor de Inglês – Prefeitura de Santana do Piauí – Instituto Vicente Nelson – 2023)
+03. Which of the following sentences are an examples of a phrasal verbs?
+
+
+I. Peter Russo called out to me from across the street.
+II. Look at that beautiful night!
+III. Let’s go over the math lesson.
+IV. How come she’s so upset.
+
+
+Which ones are correct?
+
+
+A Only I and II.
+B Only I, II and III.
+C Only II, III and IV.
+D Only I, III and IV.
+E Only II and IV.
+
+
+Comentários:
+(Professor de Inglês – Prefeitura de Santana do Piauí – Instituto Vicente Nelson – 2023)
+03. Which of the following sentences are examples of phrasal verbs?
+03. Quais das frases seguintes são exemplos de verbos frasais?
+
+
+I. Peter Russo called out to me from across the street.
+I. Peter Russo gritou para mim do outro lado da rua.
+
+
+Correta. O verbo frasal call out pode ter vários significados, dependendo do contexto. Alguns
+dos significados mais comuns são:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 22
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+• Call out to somebody: gritar ou chamar alguém para chamar a atenção ou se comunicar. Este
+é o exemplo da frase desta alternativa.
+• Call somebody out: criticar ou desafiar alguém publicamente por algo que fez ou disse. Ex:
+She called him out for lying. (Ela o criticou por mentir.)
+• Call out something: dizer ou ler algo em voz alta, especialmente para que todos possam ouvir.
+Ex: The teacher called out the names of the students. (O professor disse os nomes dos alunos em
+voz alta.)
+
+
+II. Look at that beautiful night!
+II. Olhe para essa noite linda!
+
+
+Correta. O verbo frasal look at pode ter vários significados, dependendo do contexto. Alguns
+dos significados mais comuns são:
+
+
+• Look at somebody/something: olhar para alguém ou algo com os olhos, especialmente com
+atenção ou interesse. Este é o caso do exemplo da frase.
+• Look at something: examinar ou analisar algo com cuidado ou detalhe. Ex: The company is
+looking at ways to reduce waste. (A empresa está examinando formas de reduzir o desperdício.)
+• Look at something: considerar ou avaliar algo de uma determinada maneira ou perspectiva.
+Ex: Looked at from that point of view, his decision is easier to understand. (Olhando por esse
+ponto de vista, a decisão dele é mais fácil de entender.)
+
+
+III. Let’s go over the math lesson.
+III. Vamos revisar a lição de matemática.
+
+
+Correta. O verbo frasal go over também pode ter vários significados, dependendo do
+contexto. Alguns dos significados mais comuns são:
+
+
+• Go over something: examinar ou revisar algo com cuidado e detalhe, estudar ou explicar algo
+novamente. Este é o exemplo dado nesta alternativa.
+• Go over (to…): mover-se de um lugar para outro, especialmente quando isso significa
+atravessar algo como uma sala, uma cidade ou uma ponte. Ex: We went over to Cedar Point and
+spent the day having fun. (Nós fomos para Cedar Point e passamos o dia nos divertindo.)
+• Go over (with somebody): ser recebido de uma maneira particular por alguém. Ex: Do you
+think my speech went over OK? (Você acha que o meu discurso foi bem recebido?)
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                23
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+IV. How come she’s so upset.
+IV. Como é que pode ela está assim tão chateada.
+
+
+How come (expressão que indica interjeição) – como assim, por que, como é que pode
+
+
+Errada. Não há nenhum verbo frasal nesta frase. Há uma interjeição e o verbo to be: she’s = she
+is (ela está).
+
+
+Which ones are correct?
+Quais delas são corretas?
+
+
+A Only I and II.
+B Only I, II and III. – Apenas I,II e III.
+C Only II, III and IV.
+D Only I, III and IV.
+E Only II and IV.
+
+
+GABARITO: B
+
+
+(Professor de Inglês - Prefeitura de Guamaré – RN - FUNCERN - 2024)
+04. Check the alternative that represents the right context for the use of the phrasal verb CALL
+OFF .
+
+
+A) I did not like the direction the conversation was going. So, I found the courage to call it off.
+B) We had been on the phone for a long time when he finally said he needed to call it off.
+C) She called me off when I told her I did not want to join her for dinner with her friends.
+D) The job interview was called off by the company secretary. According to her, the boss was
+sick.
+
+
+Comentários:
+(Professor de Inglês - Prefeitura de Guamaré – RN - FUNCERN - 2024)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                          24
+        www.estrategiaconcursos.com.br                                                                164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+04. Check the alternative that represents the right context for the use of the phrasal verb CALL
+OFF .
+04. Marque a alternativa que representa o contexto correto para o uso do phrasal verb CALL
+OFF.
+
+
+A) I did not like the direction the conversation was going. So, I found the courage to call it off.
+A) Não estava satisfeito com o rumo da conversa, então tomei coragem e decidi ??.
+
+
+Incorreta. O uso do phrasal verb "call off" não é indicado para esse contexto. O melhor seria
+usar “end it” (encerrá-la).
+B) We had been on the phone for a long time when he finally said he needed to call it off.
+B) Depois de uma longa conversa ao telefone, ele finalmente decidiu que era hora de ??? a
+ligação.
+
+
+Incorreta. A expressão "call it off" não é comumente usada para terminar uma ligação telefônica.
+Seria mais apropriado dizer "hang up" (encerrar a ligação) para esse contexto.
+
+
+C) She called me off when I told her I did not want to join her for dinner with her friends.
+C) Ela me ??? quando eu disse que não queria juntar-me a ela para um jantar com seus amigos.
+
+
+Incorreta. "Call off" não é usado para indicar que alguém foi dispensado de um convite. A
+expressão correta para isso seria dizer “She told me off” (Ela me tratou mal).
+
+
+D) The job interview was called off by the company secretary. According to her, the boss was
+sick.
+D) A entrevista de emprego foi cancelada pela secretária da empresa. Segundo ela, o chefe
+estava doente.
+
+
+Correta. "Call off"(cancelar) é frequentemente usado para cancelar eventos ou compromissos
+devido a circunstâncias imprevistas, como a doença de alguém. Seu sinônimo é “cancel”.
+
+
+GABARITO: D
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                          25
+        www.estrategiaconcursos.com.br                                                                164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                  VERBOS AUXILIARES
+
+      Os verbos auxiliares (auxiliary verbs), como o nome já diz, são aqueles que ajudam o
+verbo principal e sem mudar o sentido dele. São usados na formação de tempos verbais e
+também como verbos comuns. Quando expressam necessidade, obrigação ou possibilidade são
+chamados verbos modais (modal verbs ou helping verbs) e os estudaremos logo em
+seguida. Os auxiliares mais comuns são be (ser, estar), have (ter) e do (fazer).
+
+                              Uso dos Auxiliares DO e DOES
+
+
+        Em Português, a interrogativa é feita por apenas se acrescentar o ponto de interrogação
+no final da frase. Em inglês é diferente. Se coloca os auxiliares DO ou DOES no início da frase
+para todos os verbos com exceção do to be (ser, estar). Além disso usamos o DO ou DOES
+para frases negativas no presente simples, e para enfatizar algo. O Does é para a terceira
+pessoa do singular: (he) ele, (she) ela, (it) neutro. O Do é usado para todas as outras pessoas,
+eu (I), você(s) (you), nós (we) , eles/elas (they).
+
+
+DO / DOES: Uso na Interrogativa
+
+
+Na interrogativa os auxiliares Do e Does são posicionados antes da pessoa.
+
+
+Do you like music? – Yes, I do.
+Você gosta de música? – sim, eu gosto.
+
+
+What kinds of music does he like? - He quite likes classic, but he doesn't care for popular very
+much.
+Que tipos de música ele gosta? – Ele gosta muito de música clássica, mas não curte muito
+música popular.
+
+
+DO / DOES: Uso na Negativa
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 26
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Em Português, a negativa é feita apenas se acrescentando a palavra “não” antes do verbo. Em
+Inglês, é diferente. A negativa é feita por se colocar os auxiliares Do e Does seguidos da
+palavra not posicionados antes do verbo. Geralmente eles aparecem contraídos (do + not =
+don’t) e (does + not = doesn’t).
+
+
+We don’t see much peace in the world today.
+Nós não vemos muita paz no mundo hoje.
+
+
+She doesn't know that person.
+Ele não conhece aquela pessoa.
+
+
+DO / DOES: Uso Enfático
+
+
+Os Auxiliares DO ou DOES não são geralmente usados em frases afirmativas. Mas podem ser
+usados para enfatizar emoção ou contraste quando se expressa forte sentimento sobre
+algo. Esse é o uso enfático.
+
+
+He does love her.
+Ele realmente a ama! ou Ele a ama de verdade ou Ele a ama mesmo!
+
+
+You do look pretty in that new outfit! Quite stunning!
+Você está realmente linda nesta roupa nova! Muito deslumbrante!
+
+
+Are you all right? You do look a bit pale. Do please sit down.
+Você está bem? Você parece realmente pálido. Sente-se.
+
+                                         Uso do Auxiliar Did
+
+
+Não há flexão do auxiliar DID, o qual se refere a um tempo passado. Ele é o passado dos
+auxiliares DO e DOES e é usado para todas as pessoas na Interrogativa, Negativa e no uso
+enfático.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            27
+        www.estrategiaconcursos.com.br                                                  164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+DID: Uso na Interrogativa
+
+
+Em Português, a interrogativa no tempo verbal do passado simples é feita por apenas se
+acrescentar o ponto de interrogação no final da frase. Em Inglês é diferente. Se coloca o auxiliar
+DID no início da frase e o verbo volta para seu infinitivo.
+
+
+Did you visit your family last month? - Yes, I did. But she didn’t.
+Você visitou sua família no mês passado? – Sim, visitei. Mas ela não.
+
+
+DID: Uso na Negativa
+                                                        ==219a34==
+
+A negativa é feita por se colocar o auxiliar DID seguido da palavra NOT posicionado antes do
+verbo. Geralmente ele aparece contraído.
+
+
+They didn’t look back.
+Eles não olharam para trás.
+
+
+It didn't seem real.
+Não parecia real.
+
+
+DID: Uso Enfático
+
+
+I did call you last night.
+Eu liguei sim para você ontem a noite. / Eu realmente liguei para você ontem a noite.
+
+
+A frase acima é mais enfática do que dizer I called you last night ( Eu liguei para você ontem
+a noite). Veja que ao usar o auxiliar DID para enfatizar o verbo permanece no infinitivo, não vai
+para o passado visto que o DID já indica que se fala do passado.
+
+
+They did their homework yesterday.
+Eles fizeram o dever de casa deles ontem.
+
+
+Does she do her homework every day?
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   28
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Ela faz o dever de casa dela todo dia?
+
+
+We didn’t do our homework yesterday.
+Nós não fizemos nosso dever de casa ontem.
+
+                                       Uso do Auxiliar Have
+
+
+Na ordem da frase, o auxiliar sempre vem antes do principal. O verbo Have é usado como
+auxiliar para fazer vários tempos verbais, todos eles vemos em detalhes nos tópicos em que
+estudamos os verbos. Nessa aula veremos brevemente um deles, pois é só a título de exemplo,
+que é o tempo verbal Present Perfect (have + verbo principal no Particípio).
+
+
+I have read your new book. - Eu tenho lido seu novo livro.
+
+
+Have you invited Mary for Saturday? - Você convidou Mary para o Sábado?
+
+
+She has not delivered the documents on time. - Ela não despachou os documentos a tempo.
+
+
+The health department has recently decided that all high school students should be immunised
+against meningitis.
+O departamento de saúde decidiu recentemente que todos os alunos da escola de ensino médio
+devem ser imunizados contra a meningite.
+
+
+Cuidado para não confundir quando o have estiver sendo usado como principal, como nas
+frases abaixo. Nesse caso ele não é auxiliar e por isso precisa da ajuda de auxiliares para fazer
+interrogativa e negativa.
+
+
+Do you have a pen? - Você tem uma caneta?
+
+
+I don’t have a clue. - Eu não tenho ideia.
+
+
+He has a friend who comes from Taiwan. - Ele tem uma amiga que é de Taiwan.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  29
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                          A Contração Ain’t
+
+
+A contração ain't é uma forma informal e incorreta de negar os verbos to be, to have e to
+do. Ela pode significar “am not, is not, are not, have not, has not, do not, does not ou did not”.
+Por exemplo:
+
+
+They ain't happy (They aren’t happy) - Eles não estão felizes.
+
+
+He ain't got a clue (He does not have a clue) - Ele não tem ideia.
+
+
+Is she your girlfriend? No, she ain't (No, she isn’t). - Ela é sua namorada? - Não, ela não é.
+
+
+They ain't done nothing wrong (They have not done anything wrong) – Eles não fizeram nada de
+errado.
+
+
+Why ain’t you hungry? (Why aren’t you hungry?) – Por que você não está com fome?
+
+
+Ain't é considerada uma gíria e não é aceita na escrita formal ou acadêmica. Ela é mais usada na
+fala coloquial.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     30
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                      VERBOS MODAIS
+
+Os verbos modais (modal ou helping verbs) afetam o significado das sentenças. São verbos
+auxiliares que servem para exprimir uma atitude de um falante em relação à probabilidade ou
+possibilidade de um acontecimento, bem como um palpite ou dedução (um palpite baseado em
+evidência), para pedir permissão e assim por diante. Existem 9 verbos modais e três semi-
+modais:
+
+                                              Verbos Modais
+Afirmativo                                                     Negativo
+
+Can (poder)                                                    Cannot or can’t
+
+Could (poderia)                                                Could not or couldn’t
+
+May (poder)                                                    May not or mayn’t
+
+Might (poder, poderia)                                         Might not or mightn’t
+
+Must (dever, ter de, precisar)                                 Must not or mustn’t
+
+Shall (Futuro)                                                 Shall not or shan’t
+
+Should (deve, deveria)                                         Should not or shouldn’t
+
+Will (Futuro)                                                  Will not or won’t
+
+Would ( terminação ia )                                        Would not or wouldn’t
+
+Os Verbos Semi-modais são aqueles que as vezes se comportam como modais e as vezes como
+verbos comuns.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             31
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+        Verbos Semi- Modais Afirmativa                                            Negativa
+
+Dare (ousar)                                                   Dare not or daren’t
+
+Need (auxiliar só na negativa)                                 Need not or needn’t
+
+Ought to (deve, deveria)                                       Ought not to or oughtn’t to
+
+Used to (costumava)                                            Did not use to or didn’t use to
+
+    4.1. Uso do verbo modal Must expressando possibilidade:
+
+
+Suponhamos que você depois de acordar pela manhã, vai lá fora e vê a grama molhada. Então
+você diz:
+
+
+It must have rained last night.
+Deve ter chovido ontem à noite.
+
+
+Digamos que você está em casa e a campainha toca, você não vê quem está lá fora. Então você
+diz:
+
+
+That must be my neighbor.
+Deve ser meu vizinho.
+
+
+Isto significa que em sua dedução você está certo de que é o seu vizinho.
+
+
+No exemplo acima, o modal must expressa uma crença de certeza. Mas, embora para você
+pareça óbvio que seja seu vizinho, não é um fato que seja ele.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     32
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+       4.2. Uso do verbo modal Must expressando obrigação:
+
+
+Muitas vezes o verbo modal Must é usado para expressar uma obrigação que o falante acha
+que é necessária. Nesse caso ele é equivalente ao Have to mas apenas em frases afirmativas. A
+diferença é que o must sugere que o narrador é quem decidiu que algo é necessário, enquanto
+que o have to sugere que alguém impôs a decisão.
+
+
+Must = ter de, dever, precisar, ser necessário = have to = ter que
+
+
+I must keep active and strictly control my diet.
+Devo me manter ativo e controlar rigorosamente minha alimentação.
+
+
+We have to be there by 5 pm.
+Temos que estar lá por volta das 5 horas da tarde.
+
+
+Ao se referir a um tempo verbal no Passado, ao invés do must se usa o auxiliar have, ficando
+então “had to”.
+
+
+We had to read that book.
+Nós tivemos que ler aquele livro.
+
+
+Ao se referir a um tempo verbal no Futuro, ao invés do must se usa os auxiliares will have (terá
+que).
+
+
+We will have to read that book.
+Nós teremos que ler aquele livro.
+
+
+Em frases negativas o must e o have to não são equivalentes. O must (must + not = mustn’t)
+continua expressando uma obrigação, enquanto que o have to (do + not = don’t have to)
+passa a indicar algo que é opcional.
+
+
+We mustn’t let our spirit lose its sparkle.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 33
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Não devemos permitir que nosso ânimo deixe de borbulhar.
+
+
+You don’t have to pay the bill.
+Você não tem que pagar a conta.
+
+4.3. Uso dos modais May, Might e Could como possibilidade:
+
+
+Digamos que você está em casa e a campainha toca, você não vê quem está lá fora. Então você
+diz:
+
+
+That may /might/could be my neighbor.
+Pode/poderia ser meu vizinho.
+
+
+Você não está certo, mas é possível ou provável que seja seu vizinho. Estes três modais
+(may,might,could) expressam a dedução (deduction) de que algo tem 50% de chance de
+acontecer, ser verdade.
+
+4.4. Uso dos modais Can e Could demonstrando possibilidade:
+
+
+O verbo modal Can pode expressar possibilidade de modo geral. O Could é o passado do Can
+e mostra que algo poderia ser possível no passado.
+
+
+Cuidado! Nesses casos o CAN e o COULD NÃO são substituíveis um pelo outro.
+
+
+Atenção! O Can implica possibilidade absoluta, de modo específico. Mas o Could
+implica uma possibilidade que é condicional ou que está no Passado.
+
+
+That church can hold 500 people.
+Aquela igreja tem capacidade para 500 pessoas.
+
+
+That church could hold 1.000 people.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            34
+        www.estrategiaconcursos.com.br                                                  164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Aquela igreja poderia ter capacidade para 1.000 pessoas. (Se fosse feita uma reforma ou se
+tirassem os assentos e as pessoas ficassem em pé)
+
+
+Digamos que você está esperando uma carona de um amigo, então você ouve um barulho de
+carro lá fora, aí você diz:
+
+
+That can be my ride. (Presente)
+Deve/pode ser a minha carona.
+
+
+He could have given me a ride hours ago. (Passado)
+Ele poderia ter me dado uma carona horas atrás.
+                                                        ==219a34==
+
+4.5. Uso dos modais                             Can’t e Couldn’t para demonstrar
+Impossibilidade
+
+
+É usado o Can’t ou Cannot para mostrar que algo é impossível. Agora digamos que você só tem
+um vizinho: uma mulher que mora sozinha e é brasileira. Uma voz de homem, falando alemão,
+chama você lá fora. Então, você diz:
+
+
+That can’t be my neighbor.
+Não pode/deve ser minha vizinha.
+
+
+Você está certo(a) que não é sua vizinha. O uso do can’t be é quando a dedução (deduction)
+expressa 99% de chance de algo ser impossível.
+
+
+É usado o Couldn’t ou Could not para mostrar que algo é impossível no passado. Digamos que
+você já olhou pela janela e viu que não era sua vizinha, então você diz.
+
+
+I knew it couldn’t be my neighbor.
+Eu sabia que não poderia ser minha vizinha.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            35
+        www.estrategiaconcursos.com.br                                                  164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+4.6. Uso dos modais                               Can/Can’t e Could demonstrando
+permissão:
+
+
+Para pedir permissão (interrogativa) se usa o Can na linguagem informal e o Could quando se é
+mais formal e educado. O Can é usado também para dar permissão.
+
+
+Can/Could I use your pen for a minute?
+Posso/Poderia usar sua caneta por um minuto/instante?
+
+
+You can borrow my car if you like.
+Você pode pegar meu carro emprestado se quiser.
+
+
+Ao expressar permissão na negativa o Can’t indica algo que não é permitido.
+
+
+You can’t smoke here.
+Você não pode fumar aqui.
+
+      4.7. Uso dos modais Can/Can’t e Could demonstrando
+                           habilidade:
+
+
+O Can pode ser usado para falar sobre o talento de alguém ou sobre habilidades em geral. O
+Could é usado para se falar do tempo passado.
+
+
+She can run 10 miles.
+Ela pode correr 10 milhas.
+
+
+She could run 10 miles when she was younger.
+Ela podia correr 10 milhas quando era mais jovem.
+
+
+Cuidado! Nesses casos o CAN e o COULD NÃO são substituíveis um pelo outro.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              36
+        www.estrategiaconcursos.com.br                                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+She can sing several songs. But she can’t dance very well.
+Ela canta várias músicas. Mas não sabe dançar muito bem.
+
+
+She could sing several songs. But she couldn’t dance very well.
+Ela cantou / soube cantar muitas músicas. Mas ela não soube dançar /não dançou muito bem.
+
+
+They can play the guitar, but they can’t play the piano.
+Eles tocam violão, mas não tocam piano.
+
+   4.8. Uso dos modais Can e Could para pedidos e convites:
+
+
+O Could é usado de uma maneira educada para se fazer um pedido, dar uma instrução ou para
+se fazer um convite ou oferta. O Can é mais informal.
+
+
+Could/Can you close the door, please?
+Você poderia/pode fechar a porta, por favor?
+
+
+I can/could give you a ride to the mall.
+Eu posso/poderia lhe dar uma carona para ir até o shopping center.
+
+                            4.9. Uso dos Modais no Passado:
+
+
+Bem, agora veja o uso dos modais quando eles se referem a acontecimentos passados. Quando
+os modais são usados para falar sobre eventos passados, o modal é seguido pelo infinitivo
+perfeito, sem o to. O infinitivo perfeito é feito com have + o particípio passado do verbo
+principal. Observe abaixo:
+
+                                     Modal + have + past participle
+
+Suponhamos que você está voltando de uma tarde de compras e para em um posto de gasolina.
+Mas você não consegue encontrar sua carteira. Então você diz:
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                37
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+I must have left it in the last shop. I don't remember putting it in my pocket.
+Eu devo tê-la deixado na última loja. Eu não lembro de tê-la colocado no meu bolso.
+
+
+I can't have left it in the last store. I remember putting it in my pocket.
+Eu não posso tê-la deixado na última loja. Eu lembro de tê-la colocado em meu bolso.
+
+
+Someone might have stolen it.
+Alguém pode tê-la roubado.
+
+
+Somebody may have taken it.
+Alguém pode tê-la levado.
+
+Dica da Ena: Use o contexto para ajudá-lo a entender qual significado está sendo
+usado. Lembre-se que o 'Can' não é usado para falar sobre o passado, mas sim o
+'Could'.
+
+I could have dropped it.
+Eu posso ter deixado a carteira cair.
+
+Bizu da Ena: Lembre-se que, com uma referência no futuro ou no presente, o
+modal é seguido por um verbo base (a forma infinitiva do verbo principal sem o
+‘to’).
+
+               4.10. O Uso estranho do “Need” como auxiliar:
+
+
+O verbo to need (precisar, necessitar) é um verbo comum. Mas quando é usado como semi-
+modal, se torna estranho, pois seu uso é apenas na negativa e na interrogativa. Observe a
+diferença nos exemplos abaixo:
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           38
+        www.estrategiaconcursos.com.br                                                 164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+I didn't need to prepare all that food. They phoned to say they wouldn't be coming.
+Eu não precisei preparar toda aquela comida. Eles telefonaram para dizer que não viriam.
+
+
+I needn’t have prepared all that food. They phoned to say they wouldn’t be coming.
+Eu não precisava ter preparado toda aquela comida. Eles telefonaram para dizer que não viriam.
+
+
+Observe no último exemplo quando é usado como semi-modal, significa que cheguei a preparar
+a comida, embora não fosse necessário. Já no outro exemplo acima (verbo usual), eu não
+cheguei a preparar a comida. Veja agora o seu uso na interrogativa:
+
+
+Need we study every day?
+Precisamos estudar todos os dias?
+
+                4.11. Os importantíssimos Should e Ought to
+
+
+O verbo modal should tem significado semelhante ao semi-modal ought to. Nenhum outro
+modal é seguido do to, apenas o ought to. Por essa razão ele é considerado semi-modal, pois
+tem essa característica de verbo não modal mas comporta-se como modal. O should é bem mais
+usado, enquanto o ought to se restringe mais à linguagem formal.
+
+                                  Should = Ought to = deve, deveria
+
+O verbo modal should tem vários modos de utilização:
+
+
+4.11.1. Conselho ou sugestão, advertência:
+
+
+You should study every day.
+Você deveria estudar todos os dias.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                39
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+4.11.2. Forte probabilidade:
+
+
+That should be my neighbor.
+Deve ser meu vizinho.
+
+
+4.11.3. Necessidade lógica:
+
+
+The exam is very soon. I should be studying hard.
+O teste é muito em breve. Eu deveria estar estudando muito.
+
+
+4.11.4. Sugestões ou Explicações:
+
+
+Às vezes o should é usado com as pessoas I (eu) e We (nós) para pedir sugestões ou explicações:
+
+
+Why should I pay for it?
+Por que eu deveria pagar por isso?
+
+
+4.11.4. Eventos Passados:
+
+
+Para referir-se a eventos passados que não ocorreram ou podem não ocorrer. Usa-se o should
+have:
+
+
+I should have slept last night. Now I’m tired and sleepy.
+Eu deveria ter dormido na noite passada. Agora estou cansada e sonolenta.
+
+                                       4.12. O Uso do Would:
+
+
+Para pedidos formais:
+
+
+Would you help me, please?
+Podia ajudar-me, por favor?
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 40
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Em frases afirmativas como Futuro do Pretérito:
+
+
+He would buy a mansion if he had money.
+Ele compraria uma mansão se tivesse dinheiro.
+
+
+Pode aparecer abreviado. No exemplo abaixo, expressando um desejo:
+
+
+I’d like an orange juice, please.
+Gostaria de um suco de laranja, por favor.
+
+
+Em frases Negativas:
+
+
+He wouldn’t like to redecorate my house.
+Ele não gostaria de redecorar minha casa.
+
+
+Para expressar hábitos passados, nesse caso é sinônimo do Used to:
+
+
+When we were at school, we would study harder for the exams.
+Quando estávamos na escola, estudávamos com afinco para os testes.
+
+                                      4.13. O Uso do Used to:
+
+
+Como verbo semi modal, o Used to emprega-se somente na forma do passado. Não possui a
+forma do presente nem do infinitivo. Emprega-se used to para exprimir hábitos repetidos ou
+condições permanentes somente do passado, que já não se aplicam no presente.
+
+
+When we were at school, we used to study harder for the exams.
+Quando estávamos na escola, costumávamos estudar com afinco para os testes.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                           41
+        www.estrategiaconcursos.com.br                                                 164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                  4.14. O Uso do Will e Shall:
+
+
+Quanto ao uso dos modais will e shall nós os estudamos também quando vemos o tempo verbal
+Futuro pois essa é uma função deles, formar o Futuro. O will é usado em todas as pessoas e hoje
+em dia é a forma predominante. O shall é usado mais no Inglês britânico e apenas com as
+pessoas I e We. Veja os exemplos abaixo:
+
+
+I shall/will be ready at 8 o'clock.
+Eu estarei pronta às 8 horas em ponto.
+
+
+O Shall também é usado para fazer um convite ou oferecer-se para fazer algo de modo formal e
+educado:
+
+
+Shall we dance?
+Você gostaria de dançar?
+
+
+Em ambos os casos a forma contraída é ’ll.
+
+
+Tomorrow it’ll be cold and foggy with light showers in the east.
+"Amanhã vai ser frio e nebuloso com chuvas leves no leste."
+
+                                        4.15. O Uso do Dare:
+
+
+O Dare como um verbo normal significa “ousar, atrever-se, desafiar, ter coragem para fazer
+alguma coisa”. Quando é usado como auxiliar semi-modal , ele é empregado em frases
+negativas e interrogativas, é seguido por um verbo no infinitivo sem o to e na terceira pessoa do
+singular sem o s.
+
+
+Dare she tell him? She daren't say anything.
+Ela se atreve a contar a ele? Ela não se atreve a dizer nada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  42
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                 Como os verbos modais podem ser cobrados em provas?
+
+(Professor de Inglês - Prefeitura de Pitangueiras-SP - Instituto Consulplan – 2024)
+Questão 01.
+In the image below, the source of humor is built on the usage of English, as well as on its lexical
+wealth because.
+
+A) A creative pun on “contraction” is made.
+B) She cannot recall what she wants to say.
+C) Contractions should not be used in a row.
+D) The impending childbirth freaked him out.
+
+
+Comentário:
+Questão 01.
+In the image below, the source of humor is built on the usage of English, as well as on its lexical
+wealth because
+Na imagem abaixo, a fonte de humor é construída sobre o uso do inglês, bem como sobre sua
+riqueza lexical porque
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    43
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+A) A creative pun on “contraction” is made.
+A) É feito um trocadilho criativo com "contração".
+
+
+Correta. O cartum usa a palavra "contração" em dois sentidos diferentes: um gramatical e outro
+médico. Uma contração gramatical é uma forma reduzida de uma palavra ou grupo de palavras,
+em que as letras omitidas são substituídas por um apóstrofo ('). Por exemplo, "can't" é uma
+contração de "cannot". Uma contração médica é um movimento involuntário dos músculos do
+útero durante o trabalho de parto. O cartum brinca com essa ambiguidade, mostrando a mulher
+grávida que, ao mesmo tempo em que tem contrações físicas, usa contrações gramaticais.
+
+
+B) She cannot recall what she wants to say.
+B) Ela não consegue se lembrar do que quer dizer.
+
+
+Errada. A imagem não mostra que a mulher está com dificuldade de memória. Ela está apenas
+usando muitas contrações gramaticais, o que pode indicar nervosismo. Essa opção não explica o
+humor do cartum.
+
+
+C) Contractions should not be used in a row.
+C) Não se deve usar contrações seguidas.
+
+
+Errada. Não há uma regra que proíba o uso de contrações seguidas na língua inglesa. Embora o
+uso excessivo de contrações possa ser considerado inadequado ou impróprio em alguns
+contextos, como na escrita formal ou acadêmica, ele não é gramaticalmente incorreto. Essa
+opção não explica o humor da figura.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               44
+        www.estrategiaconcursos.com.br                                                     164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+D) The impending childbirth freaked him out.
+D) O parto iminente o deixou apavorado.
+
+
+Errada. Ele está apenas ansioso e confuso sobre o que fazer, o que é normal, já que a mulher
+está tendo contrações pré-parto. Essa opção não explica o humor do cartum.
+
+
+GABARITO: A
+
+
+Translation
+
+
+Woman – I can’t, I won’t, I couldn’t, I musn’t, I can’t, I won’t, I couldn’t, I ain’t…
+Mulher - Eu não posso, eu não vou, eu não podia, eu não devo, eu não posso, eu não vou, eu
+não podia, eu não sou...
+
+
+Man – What do I do, doc? The contractions are coming one after another!
+Homem - O que eu faço, doutor? As contrações estão vindo uma atrás da outra!
+
+
+(Analista Tecnológico - Banco do Brasil - FGV – 2023)
+The answers you get may sound plausible and even authoritative, but they might well be entirely
+wrong, as OpenAI warns.
+
+
+02. The modal verb in might well be at the end of the text indicates
+
+
+A request.
+B objection.
+C necessity.
+D obligation.
+E possibility.
+
+
+Comentário:
+The answers you get may sound plausible and even authoritative, but they might well be entirely
+wrong, as OpenAI warns.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                45
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+As respostas que você obtém podem parecer plausíveis e até mesmo autoritárias, mas podem
+estar completamente erradas, como alerta a OpenAI.
+
+
+02. The modal verb in might well be at the end of the text indicates
+02. O verbo modal em podem bem ser no final do texto indica
+
+
+A request. – pedido, solicitação, desejo
+B objection – objeção; oposição, discordância
+C necessity – necessidade; algo essencial, imprescindível
+D obligation – obrigação; algo imposto, exigido
+
+
+Observe pelos seus significados que as outras opções não correspondem ao sentido do verbo
+modal might. Erradas.
+
+
+E possibility - possibilidade
+
+
+Essa é a opção correta, pois o verbo modal might expressa a ideia de possibilidade, incerteza ou
+probabilidade de algo. Neste caso, ele indica que as respostas do ChatGPT podem ser plausíveis
+e autoritárias, mas também podem ser totalmente erradas, como a OpenAI adverte.
+
+
+GABARITO: E
+
+
+(BNDES/CESGRANRIO)
+03. In “You have to climb out the same way you climbed in: with new rituals” (lines 58-59) the
+modal that substitutes ‘have to’ without a change in meaning is
+
+
+(A) may
+(B) can
+(C) must
+(D) would
+(E) might
+
+          Receita Federal (Analista Tributário) Língua Inglesa                               46
+          www.estrategiaconcursos.com.br                                                     164
+
+                                       
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Comentários:
+03. In “You have to climb out the same way you climbed in: with new rituals” (lines 58-59) the
+modal that substitutes ‘have to’ without a change in meaning is
+03. Em "Você tem que sair da mesma forma que entrou: com novos rituais" (linhas 58-59) o
+modal que substitui 'tem que' sem uma mudança de significado é
+
+
+Opção A: may = pode e Opção E: might = poderia
+
+
+Os auxiliares modais may e might são usados para expressar a possibilidade de que algo possa
+acontecer. Tanto são usados no presente com no futuro e não são sinônimos do have. Portanto,
+erradas.
+
+
+Opção B: can = pode
+
+
+Expressa habilidade, possibilidade, pede permissão ou faz um pedido. Não cabe no lugar do
+have na frase, daria um outro sentido ao texto. Errada.
+
+
+Opção C: must = deve
+
+
+must = dever, precisar = have = ter que
+
+
+Ambos são usados para expressar obrigação ou necessidade de fazer alguma coisa. Eles podem
+ser usados como sinônimos no tempo presente, exceto que must sugere que é o narrador é que
+decidiu que algo é necessário, enquanto que o have sugere que alguém impôs a decisão. No
+contexto da questão, eles podem perfeitamente substituir um ao outro sem prejuízo para o
+texto. Esta é a opção correta.
+
+
+Opção D: would = sufixo ia
+
+
+O Would é muito conhecido junto ao like para fazer uma pergunta educadamente. Ex: Would
+you like a cup of coffee? (Você aceita uma xícara de café?). Quando é usado junto a outros
+verbos ele equivale ao futuro do Pretérito em Português. Portanto, se o substituíssemos pelo
+“have”, o texto sofreria severa alteração na sua compreensão. Errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               47
+        www.estrategiaconcursos.com.br                                                     164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+GABARITO: C
+
+
+(Transpetro - CESGRANRIO - 2023)
+04. In the section of paragraph 6 “the government should base it on a clear vision and
+roadmap”, the modal verb should indicates
+
+
+A a desirable action
+B a thoughtless action
+C an unpredictable action
+D an arbitrary action
+E a dynamic action
+
+
+Comentários:
+04. In the section of paragraph 6 “the government should base it on a clear vision and
+roadmap”, the modal verb should indicates
+04. Na seção do parágrafo 6 "o governo deve basear-se em uma visão clara e um plano de
+ação", o verbo modal should indica
+
+
+A a desirable action - uma ação desejável
+
+
+Correta. O verbo modal should na frase indica uma ação que é aconselhável, recomendável ou
+esperada.
+
+
+B a thoughtless action – uma ação impensada
+
+
+Errada. Uma ação impensada é uma ação impulsiva, imprudente ou irresponsável. Ex: You could
+run across this busy avenue. (Você poderia atravessar essa avenida movimentada correndo.)
+
+
+C an unpredictable action - uma ação imprevisível
+
+
+Errada. Uma ação imprevisível é uma ação que não se sabe se vai acontecer ou não, que
+depende de fatores incertos ou aleatórios. Ex: It might rain tomorrow. (Pode chover amanhã.)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             48
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+D an arbitrary action – uma ação arbitrária
+
+
+Errada. Uma ação arbitrária é uma ação que é feita sem critério, razão ou justiça, que depende
+apenas da vontade ou do capricho de alguém. Ex: He could fire anyone he didn't like (Ele podia
+demitir quem não gostasse).
+
+
+E a dynamic action – uma ação dinâmica
+
+Errada. Uma ação dinâmica é uma ação que é feita com energia, movimento ou mudança, que
+depende da força ou da habilidade de alguém. Ex: He can lift 100 kilos. (Ele pode levantar 100
+quilos.)
+
+GABARITO: A
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               49
+        www.estrategiaconcursos.com.br                                                     164
+
+                                     
+
+
+---
+
+     Ena Smith
+     Aula 03
+
+                                                     RESUMO
+
+      •   As conjunções And (para listar itens ou ideias), But (para fazer um contraste entre ideias
+          ou fatos) e Or (para discutir alternativas) são as principais e ligam duas orações
+          independentes formando uma só.
+      •   No quadro abaixo você é ajudado a memorizar as conjunções coordenativas:
+
+          •      For (para), And (e), Nor (nem), But (mas), Or (ou), Yet (no entanto), So
+                                  (então) = FAN BOYS (Para memorizar)
+
+
+Conjunções Subordinadas                         Tradução                          Função
+
+although/though/even though                     embora, apesar de                 contraste    de      fatos
+                                                                                  surpreendentes
+
+as                                              como, à medida que, por razão ou tempo
+                                                que
+
+because                                         por que                           mostra a razão
+
+if                                              se                                condicional
+
+since                                            desde, já que                    razão ou tempo
+
+when/whenever                                    quando                            indica tempo
+
+while                                            enquanto, embora                 tempo ou contraste
+
+Conjuções Correlativas                                            Tradução
+
+Both ... and                                                      Ambos..e
+
+Either...or                                                       Ou (um) ...ou (outro)
+
+Neither...nor                                                     Nem (um) ...nem (outro)
+
+Not only ... but also*                                            Não apenas...mas também
+
+Not...but                                                         Não...mas
+
+           Receita Federal (Analista Tributário) Língua Inglesa                                            50
+           www.estrategiaconcursos.com.br                                                                 164
+
+                                        
+
+
+---
+
+ Ena Smith
+ Aula 03
+
+  •   Um verbo frasal é um verbo seguido de uma palavra tal como in, on, out, up, away, off,
+      down e outras.
+  •   Os verbos auxiliares mais comuns são be (ser, estar), have (ter) e do (fazer).
+
+Let down = delude = desiludiu
+
+Look into = investigate = investigar, examinar
+
+Put up with = tolerate = suportar, tolerar
+
+Think over = consider = considerar, pensar a respeito
+
+Turn down = decline, refuse = recusar, rejeitar        ==219a34==
+
+  •   O Does é para a terceira pessoa do singular: (he) ele, (she) ela, (it) neutro. O Do é usado
+      para todas as outras pessoas, eu (I), você(s) (you), nós (we) , eles/elas (they).
+  •   Não há flexão do auxiliar DID, o qual se refere a um tempo passado. Ele é o passado dos
+      auxiliares DO e DOES e é usado para todas as pessoas na Interrogativa, Negativa e no
+      uso enfático.
+  •   Muitas vezes o verbo modal Must é usado para expressar obrigação que o falante acha
+      que é necessário. Nesse caso ele é equivalente ao Have to mas apenas em frases
+      afirmativas.
+  •   Memorize: Should = Ought to = deve, deveria
+  •   Para expressar hábitos passados, o auxiliar Would é sinônimo do Used to
+  •   O verbo modal Can expressa habilidade, possibilidade,              pede permissão ou faz um
+      pedido
+  •   Memorize o significado das palavras abaixo e seus sinônimos:
+  •   Pitching in = apresentar-se, fazer-se disponível, contribuir, ajudar com, dar = contributing
+      to = contribuir para, participar em
+  •   Come up = surgir, aparecer = arise = surgir, levantar, aumentar
+
+       Receita Federal (Analista Tributário) Língua Inglesa                                    51
+       www.estrategiaconcursos.com.br                                                          164
+
+                                    
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                 Verbos Modais
+
+Afirmativo                                                     Negativo
+
+Can (poder)                                                    Cannot or can’t
+
+Could (poderia)                                                Could not or couldn’t
+
+May (poder)                                                    May not or mayn’t
+
+Might (poder, poderia)                                         Might not or mightn’t
+
+Must (dever, ter de, precisar)                                 Must not or mustn’t
+
+Shall (Futuro)                                                 Shall not or shan’t
+
+Should (deve, deveria)                                         Should not or shouldn’t
+
+Will (Futuro)                                                  Will not or won’t
+
+Would ( terminação ia )                                        Would not or wouldn’t
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             52
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Dica: Leia primeiro as questões pois ganhará tempo, e quando for para o texto já vai procurar as
+palavras que foram citadas no enunciado. Agora vá para a página da Lista de Questões
+Apresentadas e tente resolver sozinho (a), só depois confira os gabaritos e os comentários das
+questões. Assim, você tirará mais proveito, pois perceberá onde tem que melhorar.
+
+                                                  TEXTO 1
+Analista Legislativo - Técnica Legislativa - Câmara dos Deputados - FGV - 2023
+
+
+Read the text and answer the five questions that follow it.
+
+
+                          Complex societies and the growth of the law
+
+
+Modern societies rely upon law as the primary mechanism to control their development and
+manage their conflicts. Through carefully designed rights and responsibilities, institutions and
+procedures, law can enable humans to engage in increasingly complex social and economic
+activities. Therefore, law plays an important role in understanding how societies change. To
+explore the interplay between law and society, we need to study how both co-evolve over time.
+This requires a firm quantitative grasp of the changes occurring in both domains. But while
+quantifying societal change has been the subject of tremendous research efforts in fields such as
+sociology, economics, or social physics for many years, much less work has been done to quantify
+legal change. In fact, legal scholars have traditionally regarded the law as hardly quantifiable, and
+although there is no dearth of empirical legal studies, it is only recently that researchers have
+begun to apply data science methods to law. To date, there have been relatively few quantitative
+works that explicitly address legal change, and almost no scholarship exists that analyses the
+time-evolving outputs of the legislative and executive branches of national governments at scale.
+Unlocking these data sources for the interdisciplinary scientific community will be crucial for
+understanding how law and society interact.
+
+
+Our work takes a step towards this goal. As a starting point, we hypothesise that an increasingly
+diverse and interconnected society might create increasingly diverse and interconnected rules.
+Lawmakers create, modify, and delete legal rules to achieve particular behavioural outcomes,
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      53
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+often in an effort to respond to perceived changes in societal needs. While earlier large-scale
+quantitative work focused on analysing an individual snapshot of laws enacted by national
+parliaments, collections of snapshots offer a window into the dynamic interaction between law
+and society. Such collections represent complete, time-evolving populations of statutes at the
+national level. Hence, no sampling is needed for their analysis, and all changes we observe are
+direct consequences of legislative activity. This feature makes collections of nation-level statutes
+particularly suitable for investigating temporal dynamics.
+
+
+To preserve the intended multidimensionality of legal document collections and explore how
+they change over time, legislative corpora should be modelled as dynamic document networks.
+In particular, since legal documents are carefully organised and interlinked, their structure
+provides a more direct window into their content and dynamics than their language: Networks
+honour the deliberate design decisions made by the document authors and circumvent some of
+the ambiguity problems that natural language-based approaches inherently face. In this paper,
+we therefore develop an informed data model for legislative corpora, capturing the richness of
+legislative data for exploration by social physics.
+Adapted from Katz, D.M., Coupette, C., Beckedorf, J. et al. Complex societies and the growth of
+the law. Sci Rep 10, 18737 (2020). Available at https://www.nature.com/articles/s41598-020-
+73623-x
+
+
+Comentários:
+01. Based on the text, mark the statements below as true (T) or false (F).
+
+
+( ) Diachronic studies are required for the study of the interaction between law and society.
+( ) The studies of legal change and those of societal change have had an equivalent number of
+quantitative approaches.
+( ) Legal scholars have traditionally applied data science methods to study the history of change.
+
+
+The statements are, respectively,
+
+
+(A) F – T – F.
+(B) T – F – F.
+(C) F – F – T.
+(D) F – T – T.
+(E) T – F – T.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     54
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+01. Based on the text, mark the statements below as true (T) or false (F).
+01. Baseado no texto, marque as afirmações abaixo como verdadeiras (V) ou falsas (F).
+
+
+(T) Diachronic studies are required for the study of the interaction between law and society.
+(V) Estudos diacrônicos são necessários para o estudo da interação entre o direito e a sociedade.
+
+
+Verdadeira. O texto afirma que "para explorar a interação entre o direito e a sociedade,
+precisamos estudar como ambos co-evoluem ao longo do tempo". Estudos diacrônicos são
+aqueles que analisam as mudanças de um fenômeno ao longo do tempo, em contraste com os
+estudos sincrônicos, que analisam um fenômeno em um determinado momento.
+
+
+(F) The studies of legal change and those of societal change have had an equivalent number of
+quantitative approaches.
+(F) Os estudos da mudança jurídica e da mudança social tiveram um número equivalente de
+abordagens quantitativas.
+
+
+Falsa. O texto afirma que "enquanto a quantificação da mudança social tem sido objeto de
+enormes esforços de pesquisa em campos como a sociologia, a economia ou a física social há
+muitos anos, muito menos trabalho tem sido feito para quantificar a mudança jurídica". Portanto,
+há uma diferença no número de abordagens quantitativas entre os estudos da mudança jurídica
+e da mudança social.
+
+
+(F) Legal scholars have traditionally applied data science methods to study the history of change.
+(F) Os estudiosos do direito têm tradicionalmente aplicado métodos de ciência de dados para
+estudar a história da mudança.
+
+
+Falsa. O texto afirma que "os estudiosos do direito têm tradicionalmente considerado o direito
+como dificilmente quantificável, e embora não faltem estudos jurídicos empíricos, é só
+recentemente que os pesquisadores começaram a aplicar métodos de ciência de dados ao
+direito". Portanto, os métodos de ciência de dados não são tradicionais na área do direito, mas
+sim recentes.
+
+
+The statements are, respectively,
+As afirmações são, respectivamente,
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    55
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) F – T – F.
+(B) T – F – F. - V – F – F.
+(C) F – F – T.
+(D) F – T – T.
+(E) T – F – T.
+
+
+GABARITO: B
+
+
+02. The word “dearth” in “there is no dearth of empirical legal studies” (1st paragraph) means
+
+
+(A) boundary.
+(B) deadlock.
+(C) shortage.
+(D) decease.
+(E) boom.
+
+02.The word “dearth” in “there is no dearth of empirical legal studies” (1st paragraph) means
+02.A palavra "falta" em "não haja falta de estudos jurídicos empíricos " (1º parágrafo) significa
+
+
+(A) boundary. - limite.
+
+
+Errada. Um dos sinônimos dessa palavra é limit (limite). Ex: You have to respect my personal
+boundaries. (Você tem que respeitar os meus limites pessoais.)
+
+
+(B) deadlock. - impasse.
+
+
+Errada. Um dos sinônimos dessa palavra é standstill (entrave, congelamento). Ex: The
+negotiations reached a deadlock and had to be suspended. (As negociações chegaram a um
+impasse e tiveram que ser suspensas.)
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                        56
+        www.estrategiaconcursos.com.br                                                              164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(C) shortage. - escassez.
+
+
+In fact, legal scholars have traditionally regarded the law as hardly quantifiable, and although
+there is no dearth/shortage of empirical legal studies, it is only recently that researchers have
+begun to apply data science methods to law.
+Na verdade, os estudiosos do direito têm tradicionalmente considerado o direito como
+dificilmente quantificável, e embora não haja falta/escassez de estudos jurídicos empíricos, é
+só recentemente que os pesquisadores começaram a aplicar métodos de ciência de dados ao
+direito.
+
+
+Dearth = shortage = escassez, falta, carência = lack, scarcity
+
+
+Correta. As palavras têm o mesmo significado e podem substituir uma à outra sem modificar o
+conteúdo do texto.
+
+
+(D) decease. - falecimento.
+
+
+Errada. Um dos sinônimos dessa palavra é death (morte). His decease was a great loss for his
+family and friends. (O seu falecimento foi uma grande perda para a sua família e amigos.)
+
+
+(E) boom. - expansão.
+
+
+Errada. Um dos sinônimos dessa palavra é growth (crescimento, desenvolvimento, expansão).
+Ex: The country experienced an economic boom in the last decade. (O país experimentou uma
+expansão econômica na última década.)
+
+
+GABARITO: C
+
+
+03. Analyse the assertions below based on the text:
+
+
+I. Lawmakers tend to be quite sensitive to social demands.
+II. Natural language-based approaches are liable to ambiguity.
+III. The authors state that they eschew large corpora in their study.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  57
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Choose the correct answer:
+
+
+(A) Only I is correct.
+(B) Only II is correct.
+(C) Only III is correct.
+(D) Only I and II are correct.
+(E) Only II and III are correct.
+
+
+03. Analyse the assertions below based on the text:
+03. Analise as afirmações abaixo com base no texto:
+
+
+I. Lawmakers tend to be quite sensitive to social demands.
+I. Os legisladores tendem a ser bastante sensíveis às demandas sociais.
+
+
+Verdadeira. O texto diz que: Os legisladores criam, modificam e eliminam regras jurídicas para
+alcançar resultados comportamentais específicos, muitas vezes num esforço para responder às
+mudanças percebidas nas necessidades sociais. Portanto, é correto dizer que eles tendem a ser
+bastante sensíveis às demandas sociais.
+
+
+II. Natural language-based approaches are liable to ambiguity.
+II. As abordagens baseadas em linguagem natural são passíveis de ambiguidade.
+
+
+Verdadeira. O texto afirma que as redes de documentos dinâmicos "contornam alguns dos
+problemas de ambiguidade que as abordagens baseadas em linguagem natural enfrentam
+inerentemente". Isso significa que as abordagens baseadas em linguagem natural são passíveis
+de ambiguidade, ou seja, podem gerar interpretações diferentes ou confusas do mesmo texto.
+
+
+III. The authors state that they eschew large corpora in their study.
+III. Os autores afirmam que evitam grandes corpora em seu estudo.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               58
+        www.estrategiaconcursos.com.br                                                     164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Falsa. Pelo contrário, no final do texto os autores afirmam que neste artigo, eles desenvolvem
+um modelo de dados informado para os corpora legislativos, capturando a riqueza dos dados
+legislativos para exploração pela física social.
+
+
+Choose the correct answer:
+Escolha a resposta correta:
+
+
+(A) Only I is correct. - Apenas I está correta.
+(B) Only II is correct. - Apenas II está correta.
+(C) Only III is correct. - Apenas III está correta.
+(D) Only I and II are correct. - Apenas I e II estão corretas.
+(E) Only II and III are correct. - Apenas II e III estão corretas.
+
+
+GABARITO: D
+
+
+04. The word “corpora” is in the plural as is
+
+
+(A) head lice.
+(B) awful vice.
+(C) back splice.
+(D) wooden lattice.
+(E) severe jaundice.
+
+
+04. The word “corpora” is in the plural as is
+04. A palavra "corpora" está no plural assim como
+
+
+(A) head lice. - piolhos.
+
+
+A palavra "corpora" é o plural de "corpus", que significa um conjunto de textos ou documentos.
+Assim como "corpora", a palavra "lice" é o plural de "louse", que significa um inseto parasita
+que vive no cabelo ou na pele. Ambas as palavras são exemplos de substantivos irregulares em
+inglês, que não seguem a regra geral de adicionar -s ou -es ao final do singular.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               59
+        www.estrategiaconcursos.com.br                                                     164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) awful vice. - vício terrível.
+
+
+Errada. O plural de vice é feito com o acréscimo do “s”. Ex: He had many vices, such as
+gambling, drinking, and smoking. (Ele tinha muitos vícios, como jogar, beber e fumar).
+
+
+(C) back splice. – emenda de extremidade ou junção.
+
+
+Errada. O plural de splice também é feito com o acréscimo do “s”. É uma junção entre duas
+partes de algo, como uma corda. Ex: He used splices to join the two ropes and make a longer
+one. (Ele usou emendas para unir as duas cordas e fazer uma mais longa.)
+
+
+(D) wooden lattice. - treliça de madeira.
+
+
+Errada. O plural de lattice também é feito com o acréscimo do “s”. Ex: The garden was
+surrounded by wooden lattices covered with vines. (O jardim era cercado por treliças de madeira
+cobertas de vinhas.)
+
+
+(E) severe jaundice. - icterícia grave.
+
+
+Errada. O plural de jaundice também é feito com o acréscimo do “s”. Ex: Some of the
+symptoms of liver diseases are jaundices, abdominal pain, and swelling. (Alguns dos sintomas das
+doenças hepáticas são icterícias, dor abdominal e inchaço.)
+
+
+GABARITO: A
+
+05. “Hence” in “Hence, no sampling is needed for their analysis” (1st paragraph) can be replaced
+without change in meaning by
+
+
+(A) Furthermore.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 60
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) Nonetheless.
+(C) Whereas.
+(D) Instead.
+(E) Thus.
+
+05. “Hence” in “Hence, no sampling is needed for their analysis” (1st paragraph) can be replaced
+without change in meaning by
+05. "Portanto" em "Portanto, não é necessária nenhuma amostragem para a sua análise" (1º
+parágrafo) pode ser substituído sem alteração de significado por
+
+
+(A) Furthermore. - Além disso.
+
+
+Errada. Um dos sinônimos dessa palavra é moreover (além do mais). Ela é usada para adicionar
+uma informação ou um argumento que reforça o que foi dito anteriormente. Ex: The project was
+challenging and rewarding. Moreover, it gave me the opportunity to learn new skills. (O projeto
+foi desafiador e gratificante. Além do mais, ele me deu a oportunidade de aprender novas
+habilidades).
+
+
+(B) Nonetheless. - No entanto.
+
+
+Errada. Um dos sinônimos dessa palavra é however (entretanto). Ela é usada para mostrar
+contraste entre duas frases. Ex: She was very tired, but she went to work nonetheless" or "She
+was very tired, however she went to work" (Ela estava muito cansada, porém foi trabalhar.)
+
+
+(C) Whereas. - Enquanto que.
+
+
+Errada. Um dos sinônimos dessa palavra em frases de contraste é while (enquanto). Whereas é
+uma conjunção que expressa contraste entre duas ideias. Ex: She loves reading novels,
+whereas/while he prefers comic books. (Ela adora ler romances, ao passo que ele prefere
+histórias em quadrinhos.)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 61
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) Instead. - Em vez disso.
+
+
+Errada. Um dos sinônimos dessa palavra é rather than (em vez de). Ex: I’ll have beer rather than
+wine with my dinner. (Vou querer cerveja em vez de vinho no jantar).
+
+
+(E) Thus. - Assim.
+
+
+Hence, no sampling is needed for their analysis, and all changes we observe are direct
+consequences of legislative activity.
+Assim, não é necessária nenhuma amostragem para a sua análise, e todas as mudanças que
+observamos são consequências diretas da atividade legislativa.
+
+
+Hence = Thus = assim, deste modo, desta maneira, por isso, logo
+
+
+Correta. A palavra "hence" é um advérbio que indica uma conclusão ou uma consequência
+lógica de algo anterior. Neste caso, o autor está dizendo que, como os dados são obtidos de
+forma contínua, não há necessidade de fazer amostragens para analisá-los. A palavra "thus" tem
+o mesmo sentido de "hence" e pode ser usada como um sinônimo.
+
+
+GABARITO: E
+
+
+Translation
+
+
+Complex societies and the growth of the law
+Sociedades complexas e o crescimento do direito
+
+
+Modern societies rely upon law as the primary mechanism to control their development and
+manage their conflicts. Through carefully designed rights and responsibilities, institutions and
+procedures, law can enable humans to engage in increasingly complex social and economic
+activities. Therefore, law plays an important role in understanding how societies change. To
+explore the interplay between law and society, we need to study how both co-evolve over time.
+This requires a firm quantitative grasp of the changes occurring in both domains. But while
+quantifying societal change has been the subject of tremendous research efforts in fields such as
+sociology, economics, or social physics for many years, much less work has been done to quantify
+legal change.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  62
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+As sociedades modernas dependem do direito como o principal mecanismo para controlar o seu
+desenvolvimento e gerir os seus conflitos. Através de direitos e responsabilidades
+cuidadosamente desenhados, instituições e procedimentos, o direito pode permitir aos humanos
+envolverem-se em atividades sociais e econômicas cada vez mais complexas. Portanto, o direito
+desempenha um papel importante na compreensão de como as sociedades mudam. Para
+explorar a interação entre o direito e a sociedade, precisamos estudar como ambos co-evoluem
+ao longo do tempo. Isso requer uma compreensão quantitativa firme das mudanças que ocorrem
+em ambos os domínios. Mas enquanto a quantificação da mudança social tem sido objeto de
+enormes esforços de pesquisa em campos como a sociologia, a economia ou a física social há
+muitos anos, muito menos trabalho tem sido feito para quantificar a mudança jurídica.
+
+
+In fact, legal scholars have traditionally regarded the law as hardly quantifiable, and although
+there is no dearth of empirical legal studies, it is only recently that researchers have begun to
+apply data science methods to law. To date, there have been relatively few quantitative works
+that explicitly address legal change, and almost no scholarship exists that analyses the time-
+evolving outputs of the legislative and executive branches of national governments at scale.
+Unlocking these data sources for the interdisciplinary scientific community will be crucial for
+understanding how law and society interact.
+
+
+Na verdade, os estudiosos do direito têm tradicionalmente considerado o direito como
+dificilmente quantificável, e embora não haja falta de estudos jurídicos empíricos, é só
+recentemente que os pesquisadores começaram a aplicar métodos de ciência de dados ao
+direito. Até à data, houve relativamente poucos trabalhos quantitativos que abordam
+explicitamente a mudança jurídica, e quase não existe nenhuma pesquisa que analise as saídas
+evolutivas no tempo dos ramos legislativo e executivo dos governos nacionais em escala.
+Desbloquear essas fontes de dados para a comunidade científica interdisciplinar será crucial para
+entender como o direito e a sociedade interagem.
+
+
+Our work takes a step towards this goal. As a starting point, we hypothesise that an increasingly
+diverse and interconnected society might create increasingly diverse and interconnected rules.
+Lawmakers create, modify, and delete legal rules to achieve particular behavioural outcomes,
+often in an effort to respond to perceived changes in societal needs. While earlier large-scale
+quantitative work focused on analysing an individual snapshot of laws enacted by national
+parliaments, collections of snapshots offer a window into the dynamic interaction between law
+and society. Such collections represent complete, time-evolving populations of statutes at the
+national level. Hence, no sampling is needed for their analysis, and all changes we observe are
+direct consequences of legislative activity. This feature makes collections of nation-level statutes
+particularly suitable for investigating temporal dynamics.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     63
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+O nosso trabalho dá um passo nessa direção. Como ponto de partida, hipotetizamos que uma
+sociedade cada vez mais diversa e interconectada possa criar regras cada vez mais diversas e
+interconectadas. Os legisladores criam, modificam e eliminam regras jurídicas para alcançar
+resultados comportamentais específicos, muitas vezes num esforço para responder às mudanças
+percebidas nas necessidades sociais. Enquanto trabalhos quantitativos anteriores em larga escala
+se concentraram em analisar um instantâneo individual das leis promulgadas pelos parlamentos
+nacionais, coleções de instantâneos oferecem uma janela para a interação dinâmica entre o
+direito e a sociedade. Tais coleções representam populações completas e evolutivas no tempo
+de estatutos ao nível nacional. Assim, não é necessária nenhuma amostragem para a sua análise,
+e todas as mudanças que observamos são consequências diretas da atividade legislativa. Esta
+característica torna as coleções de estatutos ao nível nacional particularmente adequadas para
+investigar a dinâmica temporal.
+
+
+To preserve the intended multidimensionality of legal document collections and explore how
+they change over time, legislative corpora should be modelled as dynamic document networks.
+In particular, since legal documents are carefully organised and interlinked, their structure
+provides a more direct window into their content and dynamics than their language: Networks
+honour the deliberate design decisions made by the document authors and circumvent some of
+the ambiguity problems that natural language-based approaches inherently face. In this paper,
+we therefore develop an informed data model for legislative corpora, capturing the richness of
+legislative data for exploration by social physics.
+
+
+Para preservar a multidimensionalidade pretendida das coleções de documentos jurídicos e
+explorar como elas mudam ao longo do tempo, os corpora legislativos devem ser modelados
+como redes de documentos dinâmicos. Em particular, uma vez que os documentos jurídicos são
+cuidadosamente organizados e interligados, a sua estrutura fornece uma janela mais direta para
+o seu conteúdo e dinâmica do que a sua linguagem: As redes honram as decisões de design
+deliberadas feitas pelos autores dos documentos e contornam alguns dos problemas de
+ambiguidade que as abordagens baseadas em linguagem natural enfrentam inerentemente.
+Neste artigo, desenvolvemos assim um modelo de dados informado para os corpora legislativos,
+capturando a riqueza dos dados legislativos para exploração pela física social.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 64
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                 TEXTO 2
+Oficial de Chancelaria (OFCHAN) – MRE – FGV
+
+
+                                      Use of language in diplomacy
+
+
+What language should one use when speaking to diplomats, or what language should diplomats
+use? Or, to be more precise, what language/languages should a (young) diplomat try to learn to
+be more successful in his profession?
+
+
+The term "language in diplomacy" obviously can be interpreted in several ways. First, as tongue
+("mother" tongue or an acquired one), the speech "used by one nation, tribe, or other similar
+large group of people"; in this sense we can say, for example, that French used to be the
+predominant diplomatic language in the first half of the 20th century. Second, as a special way of
+expressing the subtle needs of the diplomatic profession; in this way it can be said, for example,
+that the delegate of such-and-such a country spoke of the given subject in totally non-diplomatic
+language. Also, the term can refer to the particular form, style, manner or tone of expression;
+such as the minister formulated his conditions in unusually strong language. It may mean as well
+the verbal or non-verbal expression of thoughts or feelings: sending the gunships is a language
+that everybody understands.
+
+
+All of these meanings - and probably several others - can be utilised in both oral and written
+practice. In any of these senses, the use of language in diplomacy is of major importance, since
+language is not a simple tool, vehicle for transmission of thoughts, or instrument of
+communication, but very often the very essence of the diplomatic vocation, and that has been so
+from the early beginnings of our profession. That is why from early times the first envoys of the
+Egyptian pharaohs, Roman legates, mediaeval Dubrovnik consuls, etc., had to be educated and
+trained people, well-spoken and polyglots.
+
+
+Let us first look into different aspects of diplomatic language in its basic meaning - that of a
+tongue. Obviously, the first problem to solve is finding a common tongue. Diplomats only
+exceptionally find themselves in the situation to be able to communicate in one language,
+common to all participants. This may be done between, for example, Germans and Austrians, or
+Portuguese and Brazilians, or representatives of different Arab countries, or British and
+Americans, etc. Not only are such occasions rare, but very often there is a serious difference
+between the same language used in one country and another.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   65
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+There are several ways to overcome the problem of communication between people who speak
+different mother tongues. None of these ways is ideal. One solution, obviously, is that one of the
+interlocutors speaks the language of the other. Problems may arise: the knowledge of the
+language may not be adequate, one side is making a concession and the other has an immediate
+and significant advantage, there are possible political implications, it may be difficult to apply in
+multilateral diplomacy, etc. A second possibility is that both sides use a third, neutral, language.
+A potential problem may be that neither side possesses full linguistic knowledge and control,
+leading to possible bad misunderstandings. Nevertheless, this method is frequently applied in
+international practice because of its political advantages. A third formula, using interpreters, is
+also very widely used, particularly in multilateral diplomacy or for negotiations at a very high
+political level - not only for reasons of equity, but because politicians and statesmen often do not
+speak foreign languages. This method also has disadvantages: it is time consuming, costly, and
+sometimes inadequate or straightforwardly incorrect. [...] Finally, there is the possibility of using
+one international synthetic, artificial language, such as Esperanto; this solution would have many
+advantages, but unfortunately is not likely to be implemented soon, mostly because of the
+opposition of factors that dominate in the international political - and therefore also cultural and
+linguistic - scene.
+
+
+So, which language is the diplomatic one? The answer is not simple at all [...].
+
+
+Words are bricks from which sentences are made. Each sentence should be a wound-up thought.
+If one wants to be clear, and particularly when using a language which he does not master
+perfectly, it is better to use short, simple sentences. On the contrary, if one wishes to camouflage
+his thoughts or even not say anything specific, it can be well achieved by using a more
+complicated style, complex sentences, digressions, interrupting one's own flow of thought and
+introducing new topics. One may leave the impression of being a little confused, but the basic
+purpose of withholding the real answer can be accomplished.
+(adapted from http://www.diplomacy.edu/books/language_and_diplomacy/texts/pdf/nick.PDF)
+
+
+Comentários:
+11 In the second paragraph of Text III the author refers to different meanings the term
+“language” can carry. When he argues that “sending the gunships is a language that everybody
+understands”, he means that:
+
+
+(A) threatening language should not be used in diplomatic exchanges;
+(B) people understand the sentence because it is written in plain English;
+(C) the language of diplomacy is rather complex so it is better to act first;
+(D) one does not need to understand the language because this action speaks for itself;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      66
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) one must learn how to speak many languages to avoid misunderstandings and war.
+
+
+11 In the second paragraph of Text III the author refers to different meanings the term
+“language” can carry. When he argues that “sending the gunships is a language that everybody
+understands”, he means that:
+11 No segundo parágrafo do Texto III o autor refere-se a diferentes significados que o termo
+"linguagem" pode ter. Quando ele argumenta que "o envio dos helicópteros armados é uma
+linguagem que todos entendem", ele quer dizer que:
+
+
+(A) threatening language should not be used in diplomatic exchanges;
+(A) linguagem ameaçadora não deveria ser usada em intercâmbios diplomáticos;
+
+
+Não foi isso o que o autor quis dizer, e um helicóptero armado não é considerado uma
+linguagem, mas sim uma ação ameaçadora. Errada.
+
+
+(B) people understand the sentence because it is written in plain English;
+(B) as pessoas entendem a frase, porque está escrito em Inglês comum;
+
+
+Não é utilizado nem o Inglês simples e nem nenhuma outra linguagem no trecho citado. Opção
+errada.
+
+
+(C) the language of diplomacy is rather complex so it is better to act first;
+(C) a língua da diplomacia é bastante complexa, por isso é melhor agir em primeiro lugar;
+
+
+Esse não é o significado do segmento. Várias formas de comunicação são utilizadas pela
+diplomacia, não é usada ação em primeiro lugar. Errada.
+
+
+(D) one does not need to understand the language because this action speaks for itself;
+(D) alguém não precisa compreender a linguagem porque essa ação fala por si;
+
+
+It may mean as well the verbal or non-verbal expression of thoughts or feelings: sending the
+gunships is a language that everybody understands.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                67
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Pode significar também a expressão verbal ou não-verbal dos pensamentos ou sentimentos: o
+envio de helicópteros armados é uma linguagem que todos entendem.
+
+
+O argumento do autor indica que só em observar os helicópteros armados, as pessoas já
+entendem o que isso significa, sem se precisar usar nenhuma linguagem. Essa é a opção correta.
+
+
+(E) one must learn how to speak many languages to avoid misunderstandings and war.
+(E) deve-se aprender a falar muitas línguas, para evitar mal-entendidos e guerra.
+
+
+Não se trata de falar línguas diferentes, mas sim de empregar uma comunicação não falada,
+apenas se usa atitude, ação. Opção errada.
+
+
+GABARITO: D
+
+12 Mark the statements below as TRUE (T) or FALSE (F) according to points raised in Text III.
+
+
+( ) Diplomats are often in situations where a common language is spoken.
+( ) Using an interpreter as mediator is a flawless alternative for diplomatic meetings.
+( ) Despite the efforts to do away with problems in communication, the ideal solution has not
+been found yet.
+
+
+The correct sequence is:
+
+
+(A) F – T – T;
+(B) T – F – F;
+(C) T – T – F;
+(D) F – T – F;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    68
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) F – F – T.
+
+
+12 Mark the statements below as TRUE (T) or FALSE (F) according to points raised in Text III.
+12 Marque as declarações abaixo como VERDADEIRAS (V) ou FALSAS (F) de acordo com os
+pontos levantados no Texto III.
+
+
+(F) Diplomats are often in situations where a common language is spoken.
+(F) Os diplomatas estão sempre em situações onde uma língua comum é falada.
+
+
+Diplomats only exceptionally find themselves in the situation to be able to communicate in one
+language, common to all participants.
+Apenas em ocasiões excepcionais os diplomatas se encontram na situação de ser capaz de se
+comunicar em um idioma, comum a todos os participantes.
+
+
+Pelo contrário, são raras essas situações. Assertiva falsa.
+
+
+(F) Using an interpreter as mediator is a flawless alternative for diplomatic meetings.
+(F) Usar um intérprete como mediador é uma alternativa perfeita para reuniões diplomáticas.
+
+
+O texto diz que este método também tem desvantagens: é demorado, caro, e por vezes
+inadequados ou francamente errados. Assertiva falsa.
+
+
+(V) Despite the efforts to do away with problems in communication, the ideal solution has not
+been found yet.
+(V) Apesar dos esforços para acabar com problemas de comunicação, a solução ideal ainda não
+foi encontrada.
+
+
+There are several ways to overcome the problem of communication between people who speak
+different mother tongues. None of these ways is ideal.
+Existem várias maneiras de superar o problema da comunicação entre as pessoas que falam
+diferentes línguas maternas. Nenhuma dessas formas é a ideal.
+
+
+A assertiva concorda com o texto. Verdadeira.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    69
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+The correct sequence is:
+A sequência correta é:
+
+
+(A) F – T – T;
+(B) T – F – F;
+(C) T – T – F;
+(D) F – T – F;
+(E) F – F – T. = F – F - V
+
+
+GABARITO: E
+
+
+13 The sentence that offers a suggestion is:
+
+
+(A) “Each sentence should be a wound-up thought”;
+(B) “One may leave the impression of being a little confused”;
+(C) “A third formula, using interpreters, is also very widely used”;
+(D) “The term ‘language in diplomacy’ obviously can be interpreted in several ways”;
+(E) “it is time consuming, costly, and sometimes inadequate or straightforwardly incorrect”.
+
+13 The sentence that offers a suggestion is:
+13 A frase que oferece uma sugestão é:
+
+
+(A) “Each sentence should be a wound-up thought”;
+(A) “Cada sentença deve ser um pensamento concluído”;
+
+
+O verbo modal SHOULD é usado para expressar a ideia de que algo é aconselhável. No texto,
+ele sugere que cada frase deve indicar um pensamento concluído. Essa é a opção correta.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   70
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) “One may leave the impression of being a little confused”;
+(B) “Pode-se deixar a impressão de ser um pouco confuso”;
+
+
+O verbo auxiliar modal may na frase indica uma possibilidade, não uma sugestão. Opção errada.
+
+
+(C) “A third formula, using interpreters, is also very widely used”;
+(C) “Uma terceira fórmula, usar intérpretes, é também muito usada”;
+
+
+A frase não expressa nenhuma sugestão. Errada.
+
+
+(D) “The term ‘language in diplomacy’ obviously can be interpreted in several ways”;
+(D) “O termo ‘linguagem na diplomacia’ obviamente pode ser interpretado em muitas
+maneiras”;
+
+
+O verbo auxiliar modal can na frase indica uma possibilidade, não uma sugestão. Opção errada.
+
+
+(E) “it is time consuming, costly, and sometimes inadequate or straightforwardly incorrect”.
+(E) “leva muito tempo, é caro, e às vezes inadequado ou francamente incorreto”.
+
+
+Nenhuma sugestão é oferecida nessa frase. Errada.
+
+
+GABARITO: A
+
+
+14 The word that forms the plural in the same way as “fora” in “The United States and Brazil are
+also advancing human rights issues in bilateral and multilateral fora” is:
+
+
+(A) agenda;
+(B) nucleus;
+(C) formula;
+(D) criterion;
+(E) paralysis.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   71
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+14 The word that forms the plural in the same way as “fora” in “The United States and Brazil are
+also advancing human rights issues in bilateral and multilateral fora” is:
+14 A palavra que forma o plural da mesma forma como "fóruns" em "Os Estados Unidos e Brasil
+também estão avançando as questões dos direitos humanos em fóruns bilaterais e multilaterais"
+é:
+
+
+(A) agenda; = agenda
+
+
+O plural de agenda é agendas ou agendums. Não é feito da mesma forma que a palavra forum.
+Opção errada.
+
+
+(B) nucleus; = núcleo
+
+
+O plural de nucleus é nuclei ou nucleuses. Não é feito da mesma forma que a palavra forum.
+Opção errada.
+
+
+(C) formula; = fórmula
+
+
+O plural de formula é formulas ou formulae. Não é feito da mesma forma que a palavra forum.
+Opção errada.
+
+
+(D) criterion; = critério, padrão, regra
+
+
+O plural da palavra criterion é criteria ou criteríons. O plural da palavra forum é fora ou forums.
+Criterion é uma palavra de origem grega e forum é de origem do Latim. O plural de criterion é
+feito da mesma forma que a palavra forum. Ambos terminam com a letra a. Essa é a opção
+correta.
+
+
+(E) paralysis. = paralisia
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    72
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+O plural de paralysis é paralyses. Não é feito da mesma forma que a palavra forum. Opção
+errada.
+
+
+GABARITO: D
+
+
+15 In the passage “Second, as a special way of expressing the subtle needs of the diplomatic
+profession; in this way it can be said, for example, that the delegate of such-and-such a country
+spoke...” the expression “in this way” can be replaced, without change in meaning by:
+
+
+(A) hence;
+(B) though;
+(C) hereby;
+(D) hereafter;
+(E) thereabouts.
+
+
+15 In the passage “Second, as a special way of expressing the subtle needs of the diplomatic
+profession; in this way it can be said, for example, that the delegate of such-and-such a country
+spoke...” the expression “in this way” can be replaced, without change in meaning by:
+39 Na passagem "Em segundo lugar, como uma forma especial de expressar as necessidades
+sutis da profissão diplomática; desta forma pode-se dizer, por exemplo, que o representante de
+tal e tal país falou ... a expressão "desta forma" pode ser substituída, sem mudança de sentido
+por:
+
+
+(A) hence;= por isso
+
+
+“Second, as a special way of expressing the subtle needs of the diplomatic profession; in this
+way / hence it can be said, for example, that the delegate of such-and-such a country spoke...”
+"Segundo, como uma forma especial de expressar as necessidades sutis da profissão
+diplomática; desta forma / por isso pode-se dizer, por exemplo, que o representante de tal e tal
+país falou ...”
+
+
+O hence é usado em linguagem mais formal. Mas se substituirmos no texto não haverá nenhuma
+alteração na interpretação, pois são sinônimos. Essa é a opção correta.
+
+
+(B) though;= embora
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  73
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(C) hereby; = por meio deste
+(D) hereafter; = doravante
+(E) thereabouts. = por aí
+
+
+Qualquer uma das opções acima se substituídas pelo this way mudariam o sentido do texto,
+causando incoerência, pois não são sinônimos. Erradas.
+
+
+GABARITO: A
+
+16 Pronouns are words that take the place of a noun or a noun group. In the passage “The term
+‘language in diplomacy’ obviously can be interpreted in several ways. First, as tongue (‘mother’
+tongue or an acquired one), the speech ‘used by one nation, tribe, or other similar large group of
+people’,” the pronoun “one” is replacing:
+
+
+(A) nation;
+(B) mother;
+(C) speech;
+(D) tongue;
+(E) diplomacy.
+
+
+16 Pronouns are words that take the place of a noun or a noun group. In the passage “The term
+‘language in diplomacy’ obviously can be interpreted in several ways. First, as tongue (‘mother’
+tongue or an acquired one), the speech ‘used by one nation, tribe, or other similar large group of
+people’,” the pronoun “one” is replacing:
+16 Os pronomes são palavras que tomam o lugar de um substantivo ou de um grupo de
+substantivos. Na passagem "O termo ‘linguagem na diplomacia', obviamente, pode ser
+interpretado de várias maneiras. Primeiro, quando o idioma (idioma "materno" ou um (idioma)
+adquirido), a fala utilizada por uma nação, tribo, ou outro grande grupo similar de pessoas '," o
+pronome "um" está substituindo:
+
+
+(A) nation; = nação
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   74
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) mother; = mãe
+(C) speech; = fala, discurso
+(D) tongue; = língua
+(E) diplomacy. = diplomacia
+
+
+(‘mother’ tongue or an acquired one)
+(idioma materno ou um adquirido)
+
+
+(‘mother’ tongue or an acquired tongue)
+( idioma materno ou (idioma) adquirido)
+
+
+Cuidado ! Ele está se referindo ao ‘one’ dentro do parênteses, não ao ‘one’ da frase seguinte de
+one nation. Esse da frase seguinte não é pronome. É só você substituir o one por tongue. Veja
+como fica coerente. Para não repetir a palavra tongue, ele usou o pronome. Não tem lógica
+achar que se tem adquirido uma nação, ou mãe, ou discurso ou diplomacia, que são as palavras
+das outras opções.
+
+
+GABARITO: D
+
+
+Translation
+
+
+Use of language in diplomacy
+O uso da linguagem na diplomacia
+
+
+What language should one use when speaking to diplomats, or what language should diplomats
+use? Or, to be more precise, what language/languages should a (young) diplomat try to learn to
+be more successful in his profession?
+
+
+Que língua deve-se usar ao falar com diplomatas, ou que língua os diplomatas devem usar? Ou,
+para ser mais preciso, que língua / línguas deve um diplomata (jovem) tentar aprender para ser
+mais bem sucedido em sua profissão?
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 75
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+The term "language in diplomacy" obviously can be interpreted in several ways. First, as tongue
+("mother" tongue or an acquired one), the speech "used by one nation, tribe, or other similar
+large group of people"; in this sense we can say, for example, that French used to be the
+predominant diplomatic language in the first half of the 20th century.
+
+
+O termo "linguagem da diplomacia", obviamente, pode ser interpretado de várias maneiras.
+Primeiro, como idioma (idioma "materno" ou um adquirido), a fala "usada por uma nação, tribo,
+ou outro grande grupo similar de pessoas"; Neste sentido, podemos dizer, por exemplo, que o
+francês costumava ser a linguagem diplomática predominante na primeira metade do século 20.
+
+
+Second, as a special way of expressing the subtle needs of the diplomatic profession; in this way
+it can be said, for example, that the delegate of such-and-such a country spoke of the given
+subject in totally non-diplomatic language.
+
+
+Segundo, como uma forma especial de expressar as necessidades sutis da profissão diplomática;
+desta forma pode-se dizer, por exemplo, que o representante de tal e tal país falou sobre dado
+assunto em linguagem totalmente não-diplomática.
+
+
+Also, the term can refer to the particular form, style, manner or tone of expression; such as the
+minister formulated his conditions in unusually strong language. It may mean as well the verbal or
+non-verbal expression of thoughts or feelings: sending the gunships is a language that
+everybody understands.
+
+
+Além disso, o termo pode referir-se à forma particular, estilo, forma ou o tom de expressão; tais
+como o ministro formulou suas condições em linguagem incomumente forte. Pode significar
+também a expressão verbal ou não-verbal dos pensamentos ou sentimentos: o envio de
+helicópteros armados é uma linguagem que todos entendem.
+
+
+All of these meanings - and probably several others - can be utilised in both oral and written
+practice. In any of these senses, the use of language in diplomacy is of major importance, since
+language is not a simple tool, vehicle for transmission of thoughts, or instrument of
+communication, but very often the very essence of the diplomatic vocation, and that has been so
+from the early beginnings of our profession. That is why from early times the first envoys of the
+Egyptian pharaohs, Roman legates, mediaeval Dubrovnik consuls, etc., had to be educated and
+trained people, well-spoken and polyglots.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   76
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Todos estes significados - e, provavelmente, vários outros - podem ser utilizados tanto na prática
+oral como na escrita. Em qualquer um desses sentidos, o uso da linguagem na diplomacia é de
+grande importância, uma vez que a língua não é uma ferramenta simples, veículo de transmissão
+de pensamentos, ou instrumento de comunicação, mas, muitas vezes, a própria essência da
+vocação diplomática, e que tem sido assim desde os primórdios da nossa profissão. É por isso
+que desde os tempos primitivos os primeiros embaixadores dos faraós egípcios, legados
+romanos, cônsules Dubrovnik medievais, etc., tinham de ser pessoas bem educadas e instruídas,
+eloquentes e poliglotas.
+
+
+Let us first look into different aspects of diplomatic language in its basic meaning - that of a
+tongue. Obviously, the first problem to solve is finding a common tongue. Diplomats only
+exceptionally find themselves in the situation to be able to communicate in one language,
+common to all participants.
+
+
+Vamos primeiro olhar para diferentes aspectos da linguagem diplomática em seu significado
+básico - o de uma língua. Obviamente, o primeiro problema a resolver é encontrar uma língua
+comum. Apenas em ocasiões excepcionais os diplomatas se encontram na situação de ser capaz
+de se comunicar em um idioma comum a todos os participantes.
+
+
+This may be done between, for example, Germans and Austrians, or Portuguese and Brazilians,
+or representatives of different Arab countries, or British and Americans, etc. Not only are such
+occasions rare, but very often there is a serious difference between the same language used in
+one country and another.
+
+
+Isso pode ser feito entre, por exemplo, alemães e austríacos, ou portugueses e brasileiros, ou
+representantes de diferentes países árabes, ou britânicos e norte-americanos, etc. Não são
+apenas tais ocasiões raras, mas muitas vezes há uma diferença séria entre a mesma linguagem
+utilizada em um país e outro.
+
+
+There are several ways to overcome the problem of communication between people who speak
+different mother tongues. None of these ways is ideal. One solution, obviously, is that one of the
+interlocutors speaks the language of the other.
+
+
+Existem várias maneiras de superar o problema da comunicação entre as pessoas que falam
+diferentes línguas maternas. Nenhuma dessas formas é a ideal. Uma solução, obviamente, é
+quando um dos interlocutores fala a língua do outro.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   77
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Problems may arise: the knowledge of the language may not be adequate, one side is making a
+concession and the other has an immediate and significant advantage, there are possible political
+implications, it may be difficult to apply in multilateral diplomacy, etc.
+
+
+Podem surgir problemas: o conhecimento da língua pode não ser adequado, de um lado está
+fazendo uma concessão e o outro tem uma vantagem imediata e significativa, existem possíveis
+implicações políticas, isso pode ser difícil de aplicar na diplomacia multilateral, etc.
+
+
+A second possibility is that both sides use a third, neutral, language. A potential problem may be
+that neither side possesses full linguistic knowledge and control, leading to possible bad
+misunderstandings. Nevertheless, this method is frequently applied in international practice
+because of its political advantages.
+
+
+Uma segunda possibilidade é que ambos os lados usem uma terceira língua neutra. Um
+problema potencial pode ser que nenhum dos lados possui conhecimentos linguísticos e
+controle total, levando a possíveis mal-entendidos ruins. No entanto, este método é
+frequentemente aplicado na prática internacional por causa de suas vantagens políticas.
+
+
+A third formula, using interpreters, is also very widely used, particularly in multilateral diplomacy
+or for negotiations at a very high political level - not only for reasons of equity, but because
+politicians and statesmen often do not speak foreign languages. This method also has
+disadvantages: it is time consuming, costly, and sometimes inadequate or straightforwardly
+incorrect. [...]
+
+
+Uma terceira fórmula, usar intérpretes, é também muito utilizada, especialmente na diplomacia
+multilateral ou para as negociações de alto nível político - não só por razões de equidade, mas
+porque os políticos e estadistas muitas vezes não falam línguas estrangeiras. Este método
+também tem desvantagens: é demorado, caro, e por vezes inadequado ou francamente errado.
+[...]
+
+
+Finally, there is the possibility of using one international synthetic, artificial language, such as
+Esperanto; this solution would have many advantages, but unfortunately is not likely to be
+implemented soon, mostly because of the opposition of factors that dominate in the
+international political - and therefore also cultural and linguistic - scene. So, which language is
+the diplomatic one? The answer is not simple at all [...].
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      78
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Finalmente, existe a possibilidade de utilizar um sintética internacional, linguagem artificial, tal
+como esperanto; esta solução teria muitas vantagens, mas infelizmente não é susceptível de ser
+implementada em breve, principalmente por causa da oposição dos fatores que dominam na
+política internacional - cena - e, portanto, também cultural e linguística. Então, qual linguagem é
+a diplomática? A resposta não é simples de forma nenhuma [...].
+
+
+Words are bricks from which sentences are made. Each sentence should be a wound-up thought.
+If one wants to be clear, and particularly when using a language which he does not master
+perfectly, it is better to use short, simple sentences.
+
+
+As palavras são os tijolos a partir do qual as sentenças são feitas. Cada frase deve ser um
+pensamento concluído. Se alguém quiser ser claro, e especialmente quando se utiliza uma língua
+que não domina perfeitamente, é melhor usar frases curtas e simples.
+
+
+On the contrary, if one wishes to camouflage his thoughts or even not say anything specific, it
+can be well achieved by using a more complicated style, complex sentences, digressions,
+interrupting one's own flow of thought and introducing new topics. One may leave the
+impression of being a little confused, but the basic purpose of withholding the real answer can
+be accomplished.
+(Adapted from http://www.diplomacy.edu/books/language_and_diplomacy/texts/pdf/nick.PDF)
+
+
+Pelo contrário, se alguém deseja camuflar seus pensamentos ou até mesmo não dizer nada
+específico, isso pode ser bem alcançado por usar um estilo mais complicado, frases complexas,
+digressões, interrompendo o próprio fluxo de pensamento e de introdução de novos temas.
+Pode-se deixar a impressão de ser um pouco confuso, mas o objetivo básico de reter a
+verdadeira resposta pode ser realizado.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     79
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                 TEXTO 3
+Analista de Informática Legislativa - Senado Federal – FGV
+
+
+Read text I and answer questions 17 to 21.
+Leia o texto I e responda às questões 17 a 21.
+
+
+                                                       TEXT I
+
+
+                    Information governance – more than a guiding force?
+
+
+         Corporate attitudes to information governance are changing. The exponential growth of
+information that is created and cultivated within a business has in many ways become as much a
+liability as it has an asset.
+      Regulatory fines, internal fraud, and class action lawsuits, unexpected personal data leaks
+and loss can cost a business millions, and impact the corporate brand with a backlash of public
+opinion which can devastate a company for years and in some cases, such as that of Arthur
+Andersen, the damage can be irreversible.
+      In the corporate world these days the smoking gun is often found on a server and that is
+where the regulator has learned to look.
+       The two extreme policies of keeping everything, or alternatively keeping nothing, are in
+most industries now illegal and certainly out of date. While we may long for the days when a
+midnight e-mail from IT could kindly ask employees to clean up their network folders, stop using
+personal hard drives, or refrain from deleting germane files needed in a legal case, organisations
+are recognising that the potential damage from rogue (or uninformed) employees far outweighs
+reliance on principle alone.
+(www.ft.com)
+
+
+Comentários:
+17 The text states that the increase of information has
+
+
+(A) reached its peak.
+(B) had lasting qualities.
+(C) come to a standstill.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   80
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) had a double effect.
+(E) avoided negative issues.
+
+
+17 The text states that the increase of information has
+17 O texto declara que o aumento da informação tem
+
+
+(A) reached its peak. = alcançado seu pico
+
+
+O texto diz que o crescimento da informação tem se tornado tanto uma responsabilidade
+quanto um empreendimento. Observa-se que esse é um processo em andamento. Portanto, não
+se pode dizer que atingiu seu pico. Opção errada.
+
+
+(B) had lasting qualities. = tido qualidades duradouras
+
+
+Observa-se pelo que diz o texto que esse é um processo em andamento. Portanto, não se pode
+dizer que tem tido qualidades duradouras. Opção errada.
+
+
+(C) come to a standstill. = chegado a um impasse
+
+
+O texto não diz isso. Opção errada.
+
+
+(D) had a double effect. = tido um efeito duplo
+
+
+The exponential growth of information that is created and cultivated within a business has in
+many ways become as much a liability as it has an asset.
+O crescimento exponencial da informação que é criado e cultivado dentro de uma empresa tem,
+em muitos aspectos, tornado-se tanto uma responsabilidade quanto um empreendimento.
+
+
+O texto declara que o aumento da informação tem tornado-se tanto uma responsabilidade
+quanto um empreendimento. Este é um efeito duplo. Esta é a opção correta.
+
+
+(E) avoided negative issues. = evitado situações negativas
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              81
+        www.estrategiaconcursos.com.br                                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Regulatory fines, internal fraud, and class action lawsuits, unexpected personal data leaks and
+loss can cost a business millions, and impact the corporate brand with a backlash of public
+opinion which can devastate a company for years and in some cases, such as that of Arthur
+Andersen, the damage can be irreversible.
+Multas regulamentares, fraude interna e processos de ação de classe, o vazamento de dados
+pessoais inesperados e perda podem custar milhões para uma empresa, e impactam a marca
+corporativa com uma reação da opinião pública, que pode devastar uma empresa durante anos
+e, em alguns casos, como o de Arthur Andersen, o dano pode ser irreversível.
+
+
+Conforme o segmento do texto acima, muitas situações negativas têm acontecido por causa do
+aumento da informação. Portanto, elas não foram evitadas. Opção errada.
+
+
+GABARITO: D
+
+
+18 The underlined word in “a backlash of public opinion” (lines 7 and 8) implies a
+
+
+(A) negative reaction.
+(B) strong praise.
+(C) helpful tip.
+(D) weak support.
+(E) dubious approach.
+
+18 The underlined word in “a backlash of public opinion” (lines 7 and 8) implies a
+18 A palavra sublinhada em "uma reação da opinião pública" (linhas 7 e 8) implica uma
+
+
+(A) negative reaction. = reação negativa
+
+
+Backlash = uma reação negativa, forte, adversa, antagonista; resistência, retaliação, retrocesso
+= negative reaction = reação negativa
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 82
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+A opção expressa de forma correta o significado da palavra grifada. Essa é a opção correta.
+
+
+(B) strong praise. = forte elogio
+
+
+A opção expressa o oposto do significado da palavra grifada. Errada.
+
+
+(C) helpful tip. = dica útil
+
+
+Não tem nada a ver com dica, mas sim com reação. Errada.
+
+
+(D) weak support. = fraco apoio
+
+
+Nem se trata de apoio, mas sim de reação. Não é um movimento fraco, mas sim forte. Opção
+errada.
+
+
+(E) dubious approach. = dupla abordagem
+
+
+Não é uma abordagem, mas sim uma reação. Opção errada.
+
+
+GABARITO: A
+
+19 The expression the smoking gun in “the smoking gun is often found on a server” (lines 11 and
+12) is a metaphor for
+
+
+(A) backup.
+(B) bang.
+(C) tool.
+(D) vestige.
+(E) gadget.
+
+
+19 The expression the smoking gun in “the smoking gun is often found on a server” (lines 11
+and 12) is a metaphor for
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  83
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+19 A expressão a prova irrefutável em “a prova irrefutável é frequentemente encontrada
+em um servidor” (linhas 11 e 12) é uma metáfora para
+
+
+(A) backup. = cópia de segurança
+
+
+Segundo o texto, não é uma cópia de dados que é freqüentemente encontrada em um servidor.
+Opção errada.
+
+
+(B) bang. = tiro
+
+
+No sentido literal a expressão pode ser relacionada com tiro, mas não no sentido figurado, o
+qual é usado no texto. Errada.
+
+
+(C) tool. = ferramenta and (E) gadget. = dispositivo
+
+
+As opções trazem palavras que são sinônimas, e só por isso nenhuma delas poderia ser a
+resposta. No sentido literal a expressão smoking gun pode significar ferramenta, instrumento ou
+dispositivo, mas não no sentido figurado, o qual é usado no texto. Erradas.
+
+
+(D) vestige = vestígio
+
+
+In the corporate world these days the smoking gun is often found on a server and that is where
+the regulator has learned to look.
+No mundo corporativo nos dias de hoje a prova irrefutável é frequentemente encontrada em
+um servidor e é onde o regulador tem aprendido a procurar.
+
+
+Vestige = vestígio, traço visível, evidência, indicação = smoking gun = prova irrefutável
+(sentido figurado); arma fumacenta (sentido literal)
+
+
+A opção expressa corretamente o significado da metáfora usada no texto. Se trocarmos uma
+expressão pela outra, isso não altera a interpretação textual. Essa é a opção correta.
+
+
+GABARITO: D
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                84
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+20 In “refrain from deleting germane files” (line 19) germane qualifies these files as
+
+
+(A) unsuitable.
+(B) rewarding.
+(C) accurate.
+(D) genuine.
+(E) relevant.
+
+
+20 In “refrain from deleting germane files” (line 19) germane qualifies these files as
+20 Em "abster-se de excluir arquivos germane" (linha 19) germane qualifica esses arquivos
+como
+
+
+(A) unsuitable. = inadequado
+
+
+A opção expressa o oposto do significado da qualificação dos arquivos. Se trocarmos uma
+palavra pela outra, haverá alteração na interpretação textual para o sentido oposto.
+
+
+(B) rewarding. = recompensador
+
+
+O significado dessa opção nada tem a ver com aquele do texto. Errada.
+
+
+(C) accurate. = preciso
+
+
+A opção não expressa o correto significado da qualificação dos arquivos. Um arquivo pode ser
+importante mas não preciso, acurado. Errada.
+
+
+(D) genuine. = genuíno
+
+
+A opção não expressa o correto significado da qualificação dos arquivos. Um arquivo pode ser
+qualificado como importante mas não necessariamente genuíno, autêntico, original. Errada.
+
+
+(E) relevant. = relevante
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             85
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Germane = relevante, significante, apropriado, pertinente = relevant = relevante, importante
+
+
+A opção expressa corretamente a qualificação dos arquivos. Se trocarmos uma palavra pela
+outra, não haverá alteração na interpretação textual. Essa é a opção correta.
+
+
+GABARITO: E
+
+21 If a fact “outweighs” (line 21) another one, it is
+
+
+(A) less confusing.
+(B) more significant.
+(C) more accidental.
+(D) less transparent.
+(E) more deceiving.
+
+
+21 If a fact “outweighs” (line 21) another one, it is
+21 Se um fato "supera" (linha 21) outro, ele é
+
+
+(A) less confusing. = menos confuso
+(B) more significant. = mais significante
+(C) more accidental. = mais acidental
+(D) less transparent. = menos transparente
+(E) more deceiving. = mais enganador
+
+
+…organisations are recognising that the potential damage from rogue (or uninformed)
+employees far outweighs reliance on principle alone.
+...as organizações estão reconhecendo que os potenciais danos causados por empregados
+desonestos (ou desinformados) superam em muito apenas a dependência de princípio.
+
+
+Outweigh = superar, ultrapassar = more significant = mais significante
+
+        Receita Federal (Analista Tributário) Língua Inglesa                               86
+        www.estrategiaconcursos.com.br                                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Não se trata do fato ser menos confuso, mais acidental, menos transparente ou mais enganador.
+Trata-se de significância. Observe acima a definição do termo.
+
+
+GABARITO: B
+
+Translation
+
+
+Information governance – more than a guiding force?
+Governança da informação - mais do que uma força orientadora?
+
+
+Corporate attitudes to information governance are changing. The exponential growth of
+information that is created and cultivated within a business has in many ways become as much a
+liability as it has an asset.
+
+
+As atitudes corporativas para a governança da informação estão mudando. O crescimento
+exponencial da informação que é criado e cultivado dentro de uma empresa tem, em muitos
+aspectos, tornado-se tanto uma responsabilidade quanto um empreendimento.
+
+
+Regulatory fines, internal fraud, and class action lawsuits, unexpected personal data leaks and
+loss can cost a business millions, and impact the corporate brand with a backlash of public
+opinion which can devastate a company for years and in some cases, such as that of Arthur
+Andersen, the damage can be irreversible.
+
+
+Multas regulamentares, fraude interna e processos de ação de classe, o vazamento de dados
+pessoais inesperados e perda podem custar milhões para uma empresa, e impactam a marca
+corporativa com uma reação da opinião pública, que pode devastar uma empresa durante anos
+e, em alguns casos, como o de Arthur Andersen, o dano pode ser irreversível.
+
+
+In the corporate world these days the smoking gun is often found on a server and that is where
+the regulator has learned to look. The two extreme policies of keeping everything, or
+alternatively keeping nothing, are in most industries now illegal and certainly out of date.
+
+
+No mundo corporativo nos dias de hoje a prova irrefutável é frequentemente encontrada em um
+servidor e é onde o regulador tem aprendido a procurar. As duas políticas extremas de manter
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                87
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+tudo, ou, alternativamente, não manter nada, são na maioria das indústrias agora ilegais e
+certamente desatualizadas.
+
+
+While we may long for the days when a midnight e-mail from IT could kindly ask employees to
+clean up their network folders, stop using personal hard drives, or refrain from deleting germane
+files needed in a legal case, organisations are recognising that the potential damage from rogue
+(or uninformed) employees far outweighs reliance on principle alone.
+(www.ft.com)
+
+
+Embora possamos ansiar os dias em que um e-mail à meia-noite do departamento de TI poderia
+bondosamente solicitar funcionários para limpar suas pastas de rede, parar de usar discos rígidos
+pessoais, ou abster-se de excluir arquivos germane necessitados numa situação legal, as
+                                                        ==219a34==
+
+organizações estão reconhecendo que os potenciais danos causados por empregados
+desonestos (ou desinformados) supera em muito apenas a dependência de princípio.
+
+                                                 TEXTO 4
+Auditor Federal de Controle Externo - TCU - FGV - 2022
+
+
+                                Internal audit’s role in ESG reporting
+
+
+Conversations and focus on sustainability, typically grouped into environmental, social and
+governance (ESG) issues, are quickly evolving — from activist investor groups and inquisitive
+regulators pushing for change to governing bodies and C-suite executives struggling to
+understand and embrace the concept. At the forefront of this new risk area is pressure for
+organizations to make public commitments to sustainability and provide routine updates to ESG-
+related strategies, goals, and metrics that are accurate and relevant. However, ESG reporting is
+still immature, and there is not a lot of definitive guidance for organizations in this space. For
+example, there is no single standard for what should be reported.
+
+
+What is clear is that strong governance over ESG — as with effective governance overall —
+requires alignment among the principal players as outlined in The Internal Institute of Auditors
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   88
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(IIA) Three Lines Model. As with any risk area, internal audit should be well-positioned to support
+the governing body and management with objective assurance, insights, and advice on ESG
+matters.
+
+
+                                        Embarking on the ESG journey
+
+
+Efforts to mitigate the accelerating effects of climate change and address perceived historical
+social inequities are two powerful issues driving change globally. These movements have
+enhanced awareness of how all organizations impact, influence, and interact with society and the
+environment.
+
+
+They also have spurred organizations to better recognize and manage ESG risks (i.e., risks
+associated with how organizations operate in respect to their impact on the world around them).
+This broad risk category includes areas that are dynamic and often driven by factors that can be
+difficult to measure objectively.
+
+
+Still, there is growing urgency for organizations to understand and manage ESG risks, particularly
+as investors and regulators focus on organizations producing high-quality reporting on
+sustainability efforts. What’s more, that pressure is being reflected increasingly in executive
+performance as more organizations tie incentive compensation metrics to ESG goals.
+
+
+As ESG reporting becomes increasingly common, it should be treated with the same care as
+financial reporting. Organizations need to recognize that ESG reporting must be built on a
+strategically crafted system of internal controls and accurately reflect how an organization’s ESG
+efforts relate to each other, the organization’s finances, and value creation.
+
+
+Internal audit can and should play a significant role in an organization’s ESG journey. It can add
+value in an advisory capacity by helping to identify and establish a functional ESG control
+environment. It also can offer critical assurance support by providing an independent and
+objective review of the effectiveness of ESG risk assessments, responses, and controls.
+Source: Adapted from https://na.theiia.org/about-ia/PublicDocuments/White- Paper-Internal-
+Audits-Role-in-ESG-Reporting.pdf
+
+
+Comentários:
+22 Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    89
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+( ) One of the hurdles of ESG issues is that they have been restricted to a single group of experts.
+( ) There has been such a great demand for publicizing government efforts towards ESG that
+reports have become accurate and systematized.
+( ) Part of the internal auditor’s job is to be knowledgeable enough in the area of ESG so as to be
+able to provide solid guidance to those in charge of the administration.
+
+
+The statements are, respectively:
+
+
+(A) F – F – T;
+(B) T – F – F;
+(C) T– F – T;
+(D) F – T – F;
+(E) F – T – T.
+
+
+22 Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+22 Com base nas informações fornecidas pelo texto, marque as afirmativas abaixo como
+verdadeiras (V) ou falsas (F).
+
+
+(F) One of the hurdles of ESG issues is that they have been restricted to a single group of
+experts.
+(F) Um dos obstáculos das questões ESG é que elas têm sido restritas a um único grupo de
+especialistas.
+
+
+O texto diz que essas questões são focadas em grupos de investidores ativistas e reguladores
+curiosos que pressionam por mudanças a órgãos governamentais e executivos C-suite lutando
+para entender e adotar o conceito. Portanto, não se pode dizer que elas têm sido restritas a um
+único grupo de especialistas. Falsa.
+
+
+(F) There has been such a great demand for publicizing government efforts towards ESG that
+reports have become accurate and systematized.
+(F) A demanda por divulgação dos esforços governamentais em ESG tem sido tão grande que os
+relatórios se tornaram precisos e sistematizados.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     90
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Pelo contrário, os relatórios ESG ainda são imaturos e não há muitas orientações definitivas para
+as organizações nesse espaço. Por exemplo, não existe um padrão único para o que deve ser
+relatado. Falsa.
+
+
+(T) Part of the internal auditor’s job is to be knowledgeable enough in the area of ESG so as to
+be able to provide solid guidance to those in charge of the administration.
+(V) Faz parte do trabalho do auditor interno ter conhecimento suficiente na área de ESG para
+poder fornecer orientações sólidas aos responsáveis pela administração.
+
+
+As with any risk area, internal audit should be well-positioned to support the governing body and
+management with objective assurance, insights, and advice on ESG matters.
+Como em qualquer área de risco, a auditoria interna deve estar bem posicionada para apoiar o
+corpo diretivo e a administração com garantias objetivas, insights e conselhos sobre questões
+ESG.
+
+
+O segmento do texto acima deixa bem claro que a assertiva é verdadeira.
+
+
+The statements are, respectively:
+As afirmações são, respectivamente:
+
+
+(A) F – F – T; - F – F – V;
+(B) T – F – F; - V – F – F;
+(C) T– F – T; - V– F – V;
+(D) F – T – F; - F – V – F;
+(E) F – T – T. - F – V – V.
+
+
+GABARITO: A
+
+
+23 The sentence that best expresses the idea that parties involved in the administration should
+follow a similar orientation:
+
+
+(A) “Internal audit can and should play a significant role in an organization’s ESG journey”;
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    91
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) “[...] strong governance over ESG — as with effective governance overall — requires
+alignment among the principal players”;
+(C) “These movements have enhanced awareness of how all organizations impact, influence, and
+interact with society and the environment”;
+(D) “This broad risk category includes areas that are dynamic and often driven by factors that can
+be difficult to measure objectively”;
+(E) “[...] pressure is being reflected increasingly in executive performance”.
+
+
+23 The sentence that best expresses the idea that parties involved in the administration should
+follow a similar orientation:
+23 A frase que melhor expressa a ideia de que as partes envolvidas na administração devem
+seguir uma orientação semelhante:
+
+
+(A) “Internal audit can and should play a significant role in an organization’s ESG journey”; - “A
+auditoria interna pode e deve desempenhar um papel significativo na jornada ESG de uma
+organização”;
+
+
+A frase destaca apenas a auditoria interna sem mencionar que há outras partes envolvidas na
+administração. Errada.
+
+
+(B) “[...] strong governance over ESG — as with effective governance overall — requires
+alignment among the principal players”; - “[...] uma governança forte sobre ESG – assim como a
+governança efetiva em geral – requer alinhamento entre os principais colaboradores”;
+
+
+A palavra em destaque nessa frase é “alinhamento”, a qual expressa que todas as partes
+envolvidas na administração devem seguir uma orientação semelhante. Correta.
+
+
+(C) “These movements have enhanced awareness of how all organizations impact, influence, and
+interact with society and the environment”; - “Esses movimentos aumentaram a consciência de
+como todas as organizações impactam, influenciam e interagem com a sociedade e o meio
+ambiente”;
+
+
+Os movimentos aos quais a frase se refere são: mitigar os efeitos acelerados das mudanças
+climáticas e abordar as desigualdades sociais históricas percebidas. Errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   92
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) “This broad risk category includes areas that are dynamic and often driven by factors that can
+be difficult to measure objectively”; - “Esta ampla categoria de risco inclui áreas que são
+dinâmicas e muitas vezes impulsionadas por fatores que podem ser difíceis de medir
+objetivamente”;
+
+
+A frase fala sobre as áreas e não sobre as partes envolvidas na administração. Errada.
+
+
+(E) “[...] pressure is being reflected increasingly in executive performance”. - “[...] a pressão está
+se refletindo cada vez mais no desempenho dos executivos”.
+
+
+Essa frase fala de apenas um colaborador da administração, sem fazer menção de que há outras
+partes. Errada.
+
+
+GABARITO: B
+
+
+24 According to the text, “C-suite executives” (first paragraph), that is, those in top positions
+within a company, have been:
+
+
+(A) endeavoring to hold back innovation;
+(B) looking forward to better positions;
+(C) supporting less critical reports;
+(D) resisting sustainability issues;
+(E) trying to grasp the novelty.
+
+
+24 According to the text, “C-suite executives” (first paragraph), that is, those in top positions
+within a company, have been:
+24 De acordo com o texto, os “executivos C-suite” (primeiro parágrafo), ou seja, aqueles que
+ocupam os cargos mais altos de uma empresa, têm estado:
+
+
+(A) endeavoring to hold back innovation; - esforçando-se para conter a inovação;
+
+Errada. Esta alternativa significa que os executivos de alto nível dentro de uma empresa estão
+tentando impedir ou limitar o desenvolvimento de novas ideias, produtos ou processos. Isso
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       93
+        www.estrategiaconcursos.com.br                                                             164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+pode ser por medo, resistência ou falta de visão. Essa alternativa não corresponde ao texto, pois
+ele não diz que os executivos são contra a inovação, mas sim que eles têm dificuldade em
+entender e abraçar o conceito de sustentabilidade.
+
+(B) looking forward to better positions; - ansiando por melhores posições;
+
+Errada. Esta alternativa significa que os executivos de alto nível dentro de uma empresa estão
+procurando oportunidades de avançar ou melhorar suas carreiras, status ou salários. Isso pode
+ser por ambição, motivação ou insatisfação. Essa alternativa não corresponde ao texto, pois ele
+não diz que os executivos estão interessados em mudar de posição, mas sim que eles estão
+lutando para compreender e adotar as questões de sustentabilidade.
+
+(C) supporting less critical reports; - apoiando relatórios menos críticos;
+
+Errada. Esta alternativa significa que os executivos de alto nível dentro de uma empresa estão
+favorecendo ou incentivando a produção de relatórios que não são muito rigorosos, detalhados
+ou honestos. Isso pode ser por conveniência, desonestidade ou negligência. Essa alternativa não
+corresponde ao texto, pois ele não diz que os executivos são a favor de relatórios menos críticos,
+mas sim que eles estão sob pressão para fornecer atualizações precisas e relevantes sobre as
+estratégias, metas e métricas relacionadas à sustentabilidade.
+
+(D) resisting sustainability issues; - resistindo às questões de sustentabilidade;
+
+
+Errada. Esta alternativa significa que os executivos de alto nível dentro de uma empresa estão se
+opondo ou rejeitando as questões de sustentabilidade, que são os temas relacionados ao meio
+ambiente, à sociedade e à governança. Isso pode ser por ignorância, indiferença ou conflito de
+interesses. Essa alternativa não corresponde ao texto, pois ele não diz que os executivos são
+contra as questões de sustentabilidade, mas sim que eles estão tendo problemas para entender
+e aceitar o conceito.
+
+
+(E) trying to grasp the novelty. - tentando entender a novidade.
+
+
+Conversations and focus on sustainability, typically grouped into environmental, social and
+governance (ESG) issues, are quickly evolving — from activist investor groups and inquisitive
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   94
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+regulators pushing for change to governing bodies and C-suite executives struggling to
+understand and embrace the concept.
+As conversas e o foco na sustentabilidade, normalmente agrupados em questões ambientais,
+sociais e de governança (ESG), estão evoluindo rapidamente – de grupos de investidores
+ativistas e reguladores curiosos que pressionam por mudanças a órgãos governamentais e
+executivos C-suite lutando para entender e adotar o conceito.
+
+
+O segmento acima mostra que os “executivos C-suite” têm estado tentando entender a
+novidade, que é o conceito de ESG. Correta.
+
+
+GABARITO: E
+
+
+25 The excerpt “Efforts to mitigate the accelerating effects of climate change” (third paragraph)
+indicates that, if effective, the speed of climate change will be:
+
+
+(A) doubled;
+(B) resumed;
+(C) lessened;
+(D) loosened;
+(E) unleashed.
+
+25 The excerpt “Efforts to mitigate the accelerating effects of climate change” (third paragraph)
+indicates that, if effective, the speed of climate change will be:
+25 O trecho “Esforços para mitigar os efeitos aceleradores das mudanças climáticas” (terceiro
+parágrafo) indica que, se efetiva, a velocidade das mudanças climáticas será:
+
+
+(A) doubled; - dobrada;
+
+
+Errada. Um sinônimo dessa palavra é duplicated (duplicada). Ex: The report was accidentally
+duplicated when it was printed. ( O relatório foi duplicado acidentalmente quando foi impresso.)
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  95
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) resumed; - retomada;
+
+
+Errada. Um sinônimo dessa palavra é restarted (recomeçar). Ex: She resumed her work after a
+short break. (Ela retomou o trabalho depois de uma breve pausa).
+
+
+(C) lessened; - diminuída;
+
+
+mitigate= mitigar, diminuir mal feito, atenuar = lessen = diminuir, reduzir
+
+
+A palavra mitigate na frase indica que, se efetiva, a velocidade das mudanças climáticas será
+diminuída. Correta.
+
+
+(D) loosened; - afrouxada;
+
+
+Errada. Um sinônimo dessa palavra é untied (desamarrou). Ex: He loosened his tie and
+unbuttoned his shirt. (Ele afrouxou a gravata e desabotoou a camisa).
+
+
+(E) unleashed. – desencadeada;
+
+
+Errada. Um sinônimo dessa palavra é released (liberado). Ex: The storm unleashed its fury on
+the city. (A tempestade desencadeou sua fúria sobre a cidade).
+
+
+GABARITO: C
+
+
+26 The function of the extract “i.e., risks associated with how organizations operate in respect to
+their impact on the world around them” (fourth paragraph) is to:
+
+
+(A) indicate expected results;
+(B) add contrasting information;
+(C) anticipate possible outcomes;
+(D) clarify the previous statement;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    96
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) provide an alternative argument.
+26 The function of the extract “i.e., risks associated with how organizations operate in respect to
+their impact on the world around them” (fourth paragraph) is to:
+26 A função do extrato “ou seja, riscos associados à forma como as organizações operam em
+relação ao seu impacto no mundo ao seu redor” (quarto parágrafo) é:
+
+
+(A) indicate expected results; - indicar os resultados esperados;
+
+
+(B) add contrasting information; - adicionar informações contrastantes;
+
+
+(C) anticipate possible outcomes; - antecipar possíveis resultados;
+
+
+(D) clarify the previous statement; - esclarecer a afirmação anterior;
+
+
+They also have spurred organizations to better recognize and manage ESG risks (i.e., risks
+associated with how organizations operate in respect to their impact on the world around them).
+Eles também têm estimulado as organizações a reconhecer e gerenciar melhor os riscos ESG (ou
+seja, riscos associados à forma como as organizações operam em relação ao seu impacto no
+mundo ao seu redor).
+
+
+A abreviação i.e. que introduz a frase significa “ou seja, isto é, quer dizer”. Portanto, a função do
+extrato é esclarecer a afirmação anterior, os riscos ESG. Correta.
+
+
+(E) provide an alternative argument. - fornecer um argumento alternativo.
+
+
+GABARITO: D
+
+
+Translation
+
+
+                                     Internal audit’s role in ESG reporting
+                             O papel da auditoria interna no reporte de ESG
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      97
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Conversations and focus on sustainability, typically grouped into environmental, social and
+governance (ESG) issues, are quickly evolving — from activist investor groups and inquisitive
+regulators pushing for change to governing bodies and C-suite executives struggling to
+understand and embrace the concept.
+As conversas e o foco na sustentabilidade, normalmente agrupados em questões ambientais,
+sociais e de governança (ESG), estão evoluindo rapidamente – de grupos de investidores
+ativistas e reguladores curiosos que pressionam por mudanças a órgãos governamentais e
+executivos C-suite lutando para entender e adotar o conceito.
+
+
+At the forefront of this new risk area is pressure for organizations to make public commitments to
+sustainability and provide routine updates to ESG-related strategies, goals, and metrics that are
+accurate and relevant. However, ESG reporting is still immature, and there is not a lot of
+definitive guidance for organizations in this space. For example, there is no single standard for
+what should be reported.
+
+
+Na vanguarda dessa nova área de risco está a pressão para que as organizações assumam
+compromissos públicos com a sustentabilidade e forneçam atualizações rotineiras de estratégias,
+metas e métricas relacionadas a ESG que sejam precisas e relevantes. No entanto, os relatórios
+ESG ainda são imaturos e não há muitas orientações definitivas para as organizações nesse
+espaço. Por exemplo, não existe um padrão único para o que deve ser relatado.
+
+
+What is clear is that strong governance over ESG — as with effective governance overall —
+requires alignment among the principal players as outlined in The Internal Institute of Auditors
+(IIA) Three Lines Model. As with any risk area, internal audit should be well-positioned to support
+the governing body and management with objective assurance, insights, and advice on ESG
+matters.
+
+
+O que está claro é que uma governança forte sobre ESG – assim como a governança efetiva em
+geral – requer alinhamento entre os principais colaboradores, conforme descrito no Modelo de
+Três Linhas do Instituto Interno de Auditores (IIA). Como em qualquer área de risco, a auditoria
+interna deve estar bem posicionada para apoiar o corpo diretivo e a administração com garantias
+objetivas, insights e conselhos sobre questões ESG.
+
+
+                                        Embarking on the ESG journey
+                                          Embarcando na jornada ESG
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    98
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Efforts to mitigate the accelerating effects of climate change and address perceived historical
+social inequities are two powerful issues driving change globally. These movements have
+enhanced awareness of how all organizations impact, influence, and interact with society and the
+environment.
+
+
+Os esforços para mitigar os efeitos acelerados das mudanças climáticas e abordar as
+desigualdades sociais históricas percebidas são duas questões poderosas que impulsionam as
+mudanças globalmente. Esses movimentos aumentaram a conscientização de como todas as
+organizações impactam, influenciam e interagem com a sociedade e o meio ambiente.
+
+
+They also have spurred organizations to better recognize and manage ESG risks (i.e., risks
+associated with how organizations operate in respect to their impact on the world around them).
+This broad risk category includes areas that are dynamic and often driven by factors that can be
+difficult to measure objectively.
+
+
+Eles também têm estimulado as organizações a reconhecer e gerenciar melhor os riscos ESG (ou
+seja, riscos associados à forma como as organizações operam em relação ao seu impacto no
+mundo ao seu redor). Esta ampla categoria de risco inclui áreas que são dinâmicas e muitas
+vezes impulsionadas por fatores que podem ser difíceis de medir objetivamente.
+
+
+Still, there is growing urgency for organizations to understand and manage ESG risks, particularly
+as investors and regulators focus on organizations producing high-quality reporting on
+sustainability efforts. What’s more, that pressure is being reflected increasingly in executive
+performance as more organizations tie incentive compensation metrics to ESG goals.
+
+
+Ainda assim, há uma urgência crescente para que as organizações entendam e gerenciem os
+riscos ESG, principalmente porque os investidores e reguladores se concentram em
+organizações que produzem relatórios de alta qualidade sobre os esforços de sustentabilidade.
+Além disso, essa pressão está se refletindo cada vez mais no desempenho executivo à medida
+que mais organizações vinculam as métricas de remuneração de incentivo às metas ESG.
+
+
+As ESG reporting becomes increasingly common, it should be treated with the same care as
+financial reporting. Organizations need to recognize that ESG reporting must be built on a
+strategically crafted system of internal controls and accurately reflect how an organization’s ESG
+efforts relate to each other, the organization’s finances, and value creation.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   99
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+À medida que os relatórios ESG se tornam cada vez mais comuns, eles devem ser tratados com
+o mesmo cuidado que os relatórios financeiros. As organizações precisam reconhecer que os
+relatórios ESG devem ser construídos em um sistema estrategicamente elaborado de controles
+internos e refletir com precisão como os esforços ESG de uma organização se relacionam entre
+si, as finanças da organização e a criação de valor.
+
+
+Internal audit can and should play a significant role in an organization’s ESG journey. It can add
+value in an advisory capacity by helping to identify and establish a functional ESG control
+environment. It also can offer critical assurance support by providing an independent and
+objective review of the effectiveness of ESG risk assessments, responses, and controls.
+Source: Adapted from https://na.theiia.org/about-ia/PublicDocuments/White- Paper-Internal-
+Audits-Role-in-ESG-Reporting.pdf
+
+
+A auditoria interna pode e deve desempenhar um papel significativo na jornada ESG de uma
+organização. Ela pode agregar valor em uma capacidade consultiva, ajudando a identificar e
+estabelecer um ambiente de controle ESG funcional. Ele também pode oferecer suporte crítico
+de garantia, fornecendo uma revisão independente e objetiva da eficácia das avaliações,
+respostas e controles de risco ESG.
+
+                                                 TEXTO 5
+Analista Legislativo - Senado Federal - FGV - 2022
+
+
+Read Text I and answer the five questions that follow it.
+Leia o Texto I e responda as cinco questões seguintes.
+
+
+                                                        Text I
+
+
+                             Empowering the workforce of tomorrow:
+              The role of business in tackling the skills mismatch among youth
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   100
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+The future of work is changing fast. Technology, socio- economic trends, and developments and
+crises like COVID-19 are changing the world of work and the demand for skills at a pace and
+depth that poses serious challenges to people, business, and society. Young people and future
+generations, especially when they are from disadvantaged groups, are disproportionately
+affected by these disruptions.
+
+
+A key challenge to shaping a sustainable future of work is addressing the skills mismatch among
+youth. Despite young people around the world being more educated than ever before, hundreds
+of millions of individuals are coming of age and finding themselves unemployed and
+unemployable, lacking the right skills to take up the jobs available today and, even more, the
+skills that will be needed in the future. Neglecting the skills mismatch among youth can result in
+young people feeling disenfranchised and disillusioned about their prospects in the labor market,
+fueling social unrest, stunting economic growth and ultimately creating a more volatile operating
+environment for business.
+
+
+In contrast, by equipping youth with relevant skills, businesses can empower young people,
+support their access to employment opportunities and enable them to thrive personally,
+professionally and as active members of society. Investing in the skills of young people has an
+essential role to play in helping to realize the ambitions of the Sustainable Development Goals
+(SDGs) and the World Business Council for Sustainable Development’s (WBCSD) Vision2050,
+which aims to create a world where over 9 billion people live well and within planetary
+boundaries by mid-century.
+From:
+https://www.unicef.org/media/103176/file/Empowering%20the%20workforce%20of%20tomorro
+w.pdf
+
+
+Comentários:
+27 Based on Text I, mark the statements below as true (T) or false (F).
+
+
+( ) According to the text, the world of work is hardly being affected by current adversities.
+( ) Young people who have the opportunity to graduate are more prepared for the jobs of the
+future.
+( ) The problem of skills mismatch stretches beyond national borders.
+
+
+The statements are, respectively,
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    101
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) T – F – T.
+(B) F – F – T.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+27 Based on Text I, mark the statements below as true (T) or false (F).
+27 Com base no Texto I, marque as declarações abaixo como verdadeiras (V) ou falsas (F).
+
+
+(F) According to the text, the world of work is hardly being affected by current adversities.
+(F) Segundo o texto, o mundo do trabalho dificilmente está sendo afetado pelas adversidades
+atuais.
+
+
+Cuidado para não confundir!
+Hard (adjetivo) = dedicado, esforçado, empenhado
+Hard (advérbio) = duramente, muito
+Hardly = dificilmente, quase não = almost not, barely, slightly
+
+
+Pelo contrário, o futuro do trabalho está mudando rapidamente. A tecnologia, tendências
+socioeconômicas e desenvolvimentos e crises como o COVID-19 estão mudando o mundo do
+trabalho e a demanda por habilidades em um ritmo e profundidade que representam sérios
+desafios para pessoas, negócios e sociedade. Falsa.
+
+
+Alerta da Ena: Cuidado com essa palavra hardly! Teve aluno que perdeu essa questão nessa
+prova porque a traduziu como “muito/duramente”. Se a frase fosse “is severely/extremely being
+affected” (está severamente/duramente sendo afetado) ou sem advérbio, se fosse apenas “is
+being affected” aí sim, ela seria verdadeira.
+
+
+(F) Young people who have the opportunity to graduate are more prepared for the jobs of the
+future.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    102
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(F) Os jovens que têm oportunidade de se formar estão mais preparados para os empregos do
+futuro.
+
+
+O texto diz que apesar de os jovens em todo o mundo estarem mais instruídos do que nunca,
+centenas de milhões de indivíduos estão atingindo a maioridade e se encontram desempregados
+e sem qualificações, sem as habilidades certas para aceitar os empregos disponíveis hoje e,
+ainda mais, as habilidades que serão necessárias no futuro. Falsa.
+
+
+(V) The problem of skills mismatch stretches beyond national borders.
+(V) O problema da incompatibilidade de habilidades se estende além das fronteiras nacionais.
+
+
+Despite young people around the world being more educated than ever before, hundreds of
+millions of individuals are coming of age and finding themselves unemployed and unemployable,
+lacking the right skills to take up the jobs available today and, even more, the skills that will be
+needed in the future.
+Apesar de os jovens em todo o mundo estarem mais instruídos do que nunca, centenas de
+milhões de indivíduos estão atingindo a maioridade e se encontram desempregados e sem
+qualificações, sem as habilidades certas para aceitar os empregos disponíveis hoje e, ainda mais,
+as habilidades que serão necessárias no futuro.
+
+
+Around the world – em todo o mundo = beyond national borders - além das fronteiras nacionais.
+
+
+O segmento do texto acima deixa bem claro que a declaração é verdadeira.
+
+
+The statements are, respectively,
+As declarações são, respectivamente,
+
+
+(A) T – F – T. – V – F – V.
+(B) F – F – T. – F – F – V.
+(C) F – T – T. – F – V – V.
+(D) F – T – F. – F – V – F.
+(E) T – F – F. – V – F – F.
+
+
+GABARITO: B
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     103
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+28 In the title, “tackling” implies that this is an issue businesses should be
+
+
+(A) leaving out.
+(B) passing over.
+(C) dealing with.
+(D) disposing of.
+(E) shrinking from.
+
+
+28 In the title, “tackling” implies that this is an issue businesses should be
+28 No título, “combate” implica que esse é um problema que as empresas deveriam
+
+
+(A) leaving out. – deixar de lado
+(B) passing over. – não considerar
+(C) dealing with. - administrar
+
+
+The role of business in tackling the skills mismatch among youth
+O papel das empresas no combate à incompatibilidade de habilidades entre os jovens
+
+
+Tackle – atacar, abordar, combater = deal with – administrar, lidar com, enfrentar
+
+
+Observe acima que essa é a opção que transmite o mesmo significado da palavra usada no
+texto. Correta.
+
+
+(D) disposing of. - descartar
+(E) shrinking from. - reduzir
+
+
+Todas as outras opções apresentam verbos que expressam um significado negativo, o oposto do
+que é dito no texto. Erradas.
+
+
+GABARITO: C
+
+
+29 The phrase “skills mismatch” indicates that there is a(n)
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            104
+        www.estrategiaconcursos.com.br                                                  164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) liability.
+(B) dullness.
+(C) evenness.
+(D) imbalance.
+(E) swindling.
+
+
+29 The phrase “skills mismatch” indicates that there is a(n)
+29 A frase “incompatibilidade de habilidades” indica que existe um(a)
+(A) liability. - responsabilidade.
+
+
+Um sinônimo para essa palavra é responsibility (responsabilidade). Errada.
+
+
+(B) dullness. - monotonia.
+
+
+Um sinônimo para a palavra dullness é flatness (monotonia). Errada.
+
+
+(C) evenness. - uniformidade.
+
+
+Um sinônimo para essa palavra é uniformity (uniformidade). Errada.
+
+
+(D) imbalance. - desequilíbrio.
+
+
+The role of business in tackling the skills mismatch among youth
+O papel das empresas no combate à incompatibilidade de habilidades entre os jovens
+
+
+Mismatch = incompatibilidade, dissonância, disparidade, incongruência, desequilibrado =
+imbalance – desequilíbrio, assimetria, desproporção
+
+
+A frase “incompatibilidade de habilidades” indica que existe um desequilíbrio entre aqueles que
+estão na fase da juventude concernente às habilidades que eles possuem. Correta.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                               105
+         www.estrategiaconcursos.com.br                                                     164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) swindling. - fraude.
+
+
+Um dos sinônimos dessa palavra: cheating (falcatrua). Errada.
+
+
+GABARITO: D
+
+
+30 The extract “stunting economic growth” (2nd paragraph) implies
+
+
+(A) hindering.
+(B) spreading.
+(C) arousing.
+(D) boosting.
+(E) keeping.
+
+
+30 The extract “stunting economic growth” (2nd paragraph) implies
+30 O trecho “prejudicando o crescimento econômico” (2º parágrafo) implica
+
+
+(A) hindering. - impedimento.
+
+
+Neglecting the skills mismatch among youth can result in young people feeling disenfranchised
+and disillusioned about their prospects in the labor market, fueling social unrest, stunting
+economic growth and ultimately creating a more volatile operating environment for business.
+Negligenciar a incompatibilidade de habilidades entre os jovens pode fazer com que eles se
+sintam privados de direitos e desiludidos sobre suas perspectivas no mercado de trabalho,
+alimentando a instabilidade social, prejudicando o crescimento econômico e, por fim, criando
+um ambiente operacional mais volátil para os negócios.
+
+
+Hinder = impedir, obstruir, atrapalhar = stunt – prejudicar, atrofiar, tolher, dificultar
+
+
+O trecho do texto diz que o crescimento econômico pode ser atrapalhado/dificultado quando há
+uma negligência da incompatibilidade de habilidades entre os jovens.
+
+
+(B) spreading. - propagação.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                106
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(C) arousing. - estímulo.
+(D) boosting. - reforço.
+
+
+As três opções acima indicam exatamente o oposto do que diz o texto. Erradas.
+
+
+(E) keeping. - manutenção.
+
+
+A opção não condiz com a mensagem textual. Errada.
+
+
+GABARITO: A
+
+31 “Despite” in “Despite young people around the world being more educated” can be
+replaced without change in meaning by
+
+
+(A) since.
+(B) besides.
+(C) altogether.
+(D) throughout.
+(E) notwithstanding.
+
+
+31 “Despite” in “Despite young people around the world being more educated” can be
+replaced without change in meaning by
+31 “Apesar de” em “Apesar dos jovens de todo o mundo serem mais educados” pode ser
+substituído sem mudança de significado por
+
+
+(A) since. – desde, porque, uma vez que
+
+
+Um sinônimo para since é because (porque). Errada.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                    107
+        www.estrategiaconcursos.com.br                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) besides. – além disso, também, a não ser
+
+
+Um sinônimo para besides é also (também). Errada.
+
+
+(C) altogether. – no total, considerando tudo
+
+
+Um sinônimo para altogether é in total (no total). Errada.
+
+
+(D) throughout. – por todo (a), completamente
+
+
+Um sinônimo para throughout é completely (completamente). Errada.
+
+
+(E) notwithstanding. – apesar de
+
+
+Os conectivos Despite e Notwithstanding são sinônimos. Eles expressam contraste entre duas
+frases. Portanto, um pode ser substituído pelo outro sem mudança de significado. Correta.
+
+
+GABARITO: E
+
+
+Translation
+
+
+                                  Empowering the workforce of tomorrow:
+                                  Capacitando os trabalhadores do futuro:
+                   The role of business in tackling the skills mismatch among youth
+       O papel das empresas no combate à incompatibilidade de habilidades entre os jovens
+
+
+The future of work is changing fast. Technology, socio-economic trends, and developments and
+crises like COVID-19 are changing the world of work and the demand for skills at a pace and
+depth that poses serious challenges to people, business, and society. Young people and future
+generations, especially when they are from disadvantaged groups, are disproportionately
+affected by these disruptions.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                108
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+O futuro do trabalho está mudando rapidamente. A tecnologia, tendências socioeconômicas e
+desenvolvimentos e crises como o COVID-19 estão mudando o mundo do trabalho e a demanda
+por habilidades em um ritmo e profundidade que representam sérios desafios para pessoas,
+negócios e sociedade. Os jovens e as gerações futuras, especialmente quando pertencem a
+grupos desfavorecidos, são desproporcionalmente afetados por essas perturbações.
+
+
+A key challenge to shaping a sustainable future of work is addressing the skills mismatch among
+youth. Despite young people around the world being more educated than ever before, hundreds
+of millions of individuals are coming of age and finding themselves unemployed and
+unemployable, lacking the right skills to take up the jobs available today and, even more, the
+skills that will be needed in the future.
+
+
+Um dos principais desafios para moldar um futuro sustentável do trabalho é abordar a
+incompatibilidade de habilidades entre os jovens. Apesar de os jovens em todo o mundo
+estarem mais instruídos do que nunca, centenas de milhões de indivíduos estão atingindo a
+maioridade e se encontram desempregados e sem qualificações, sem as habilidades certas para
+aceitar os empregos disponíveis hoje e, ainda mais, as habilidades que serão necessárias no
+futuro.
+
+
+Neglecting the skills mismatch among youth can result in young people feeling disenfranchised
+and disillusioned about their prospects in the labor market, fueling social unrest, stunting
+economic growth and ultimately creating a more volatile operating environment for business.
+
+
+Negligenciar a incompatibilidade de habilidades entre os jovens pode fazer com que eles se
+sintam privados de direitos e desiludidos sobre suas perspectivas no mercado de trabalho,
+alimentando a instabilidade social, prejudicando o crescimento econômico e, por fim, criando
+um ambiente operacional mais volátil para os negócios.
+
+
+In contrast, by equipping youth with relevant skills, businesses can empower young people,
+support their access to employment opportunities and enable them to thrive personally,
+professionally and as active members of society. Investing in the skills of young people has an
+essential role to play in helping to realize the ambitions of the Sustainable Development Goals
+(SDGs) and the World Business Council for Sustainable Development’s (WBCSD) Vision2050,
+which aims to create a world where over 9 billion people live well and within planetary
+boundaries by mid-century.
+https://www.unicef.org/media/103176/file/Empowering%20the%20workforce%20of%20tomorro
+w.pdf
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                109
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Em contraste, ao equipar os jovens com habilidades relevantes, as empresas podem capacitar os
+jovens, apoiar seu acesso a oportunidades de emprego e permitir que eles prosperem pessoal,
+profissionalmente e como membros ativos da sociedade. O investimento nas habilidades dos
+jovens tem um papel essencial a desempenhar para ajudar a realizar as ambições dos Objetivos
+do Desenvolvimento Sustentável (ODS) e da Visão 2050 do Conselho Empresarial Mundial para o
+Desenvolvimento Sustentável (WBCSD), que visa criar um mundo onde mais de 9 bilhões de
+pessoas vivam bem e dentro dos limites planetários até a metade do século.
+
+                                                 TEXTO 6
+Contador – Analista Legislativo – Câmara dos Deputados - FGV - 2023
+
+
+                                        The Future Of Accounting:
+                    How Will Digital Transformation Impact Accountants?
+
+
+In business, as in life, change is the only true constant. From mitigating unprecedented business
+disruptors to adapting to new operational paradigms, professionals in all industries find
+themselves dealing with major changes — many of them driven by emerging technologies.
+
+
+Accounting is no exception. The profession has moved far beyond mere bookkeeping and
+payroll, and like its partner procurement, it’s taking an increasingly strategic role for forward-
+thinking businesses. While some pundits say accounting has a dim future in the digital world of
+tomorrow, technologies such as cloud-based data management, process automation and
+advanced analytics are actually poised to further elevate accountants in new and empowering
+ways.
+
+
+As far back as 2015, industry leaders were sounding the death knell for accountants, convinced
+emerging technologies — particularly automation — would end in death by digital for
+accountancy as we know it. And as recently as 2019, accountants surveyed by Robert Half on the
+impact of automation on their profession expressed concerns about being replaced, having
+fewer opportunities for creative problem-solving and an overdependence on tech in completing
+daily tasks.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   110
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 03
+
+Yet, the events between then and now, including the Covid- 19 pandemic, have instead shown
+that accountants, like other professionals, need to worry much more about adaptation than
+replacement.
+
+
+There's no question that digital transformation has radically changed the playing field. Big data
+has become a rich resource that needs to be tapped to compete effectively. But for businesses
+ready to leverage the potential of digital tools, this shift is an opportunity, not a threat.
+[...]
+Both the skill set and the job description for tomorrow's accountant will be greatly expanded,
+while still hewing to the core competencies of the profession. Supported by technology in a
+collaborative setting, accounting teams will be populated with both dedicated accounting
+professionals and subject matter experts from other areas of the business.
+
+
+Tomorrow's accountants may play an advisory role, welcoming business intelligence and
+procurement professionals and working to chart a strategic sourcing plan. They could leverage
+data management tools, including augmented reality, to humanize and contextualize spend data
+for the C-suite to make better decisions based on long-term value rather than return on
+investment alone.
+
+
+With more diverse skill sets and greater technical acumen, accountants can bring their own
+expertise to teams in other business units, providing crucial financial intelligence, refining
+budgets or ensuring compliance. [...]
+
+
+As a function, accounting may become less about refining one's skill set through certifications
+and more about core competencies that grow over time, with a focus on lifelong education and
+skill development required to take on a complex, ever-changing business environment.
+
+
+Automation and other data-driven technologies are poised to free accountants, not constrain
+them. Organizations that understand the potential and importance of these technologies — and
+invest in the tools and training required to help their accountants take full advantage — will be
+ahead of the curve. Tomorrow's accountants will play a more creative and strategic role in their
+companies. As a result, their businesses will not only enjoy more efficient workflows and reap
+more useful insights from their accounting processes, but help strengthen their own resiliency,
+agility and competitive footing.
+Adapted from: https://www.forbes.com/sites/forbestechcouncil/2021/05/19/the-           future-of-
+accounting-how-will-digital-transformation-impact- accountants/?sh=343b437853fb
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                 111
+         www.estrategiaconcursos.com.br                                                       164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Comentários:
+01. Based on the text, mark the statements below as true (T) or false (F).
+
+
+( ) It is clear that accountants will need to do away with earlier core competencies.
+( ) The impact of technology in accountancy tends to move more sluggishly than in areas like
+procurement.
+( ) There was some fear earlier that accountants’ work would soon be taken over by automation.
+
+
+The statements are, respectively,
+(A) T–F–F.
+(B) F–T–F.
+(C) F–F–T.
+(D) F–T–T.
+(E) T–T–F.
+
+
+01. Based on the text, mark the statements below as true (T) or false (F).
+01. Com base no texto, marque as afirmações abaixo como verdadeiras (V) ou falsas (F).
+
+
+(F) It is clear that accountants will need to do away with earlier core competencies.
+(F) Está claro que os contadores precisarão se livrar das competências essenciais anteriores.
+
+
+Essa afirmação é falsa porque o texto diz que futuramente os contadores manterão as
+competências essenciais da profissão, mas também expandirão seu conjunto de habilidades e
+descrição de trabalho. O texto diz: "Futuramente, tanto o conjunto de habilidades quanto a
+descrição do trabalho do contador serão bastante expandidos, mantendo-se fiéis às
+competências essenciais da profissão."
+
+
+(F) The impact of technology in accountancy tends to move more sluggishly than in areas like
+procurement.
+(F) O impacto da tecnologia na contabilidade tende a se mover mais lentamente do que em
+áreas como suprimentos.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    112
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Essa afirmação é falsa porque o texto sugere que a contabilidade é comparável ao setor análogo
+de suprimentos nesse aspecto. O texto diz: "A contabilidade não é exceção. A profissão foi
+muito além da mera contabilidade e folha de pagamento, e assim como o setor análogo de
+suprimentos, está assumindo um papel cada vez mais estratégico para os negócios voltados para
+o futuro." A expressão “assim como”(like) indica que as duas áreas estão no mesmo
+patamar.Portanto, não se pode dizer que o impacto da tecnologia na contabilidade tende a se
+mover mais lentamente do que em áreas como suprimentos.
+
+
+(T) There was some fear earlier that accountants’ work would soon be taken over by automation.
+(V) Houve algum medo anteriormente de que o trabalho dos contadores logo seria assumido
+pela automação.
+
+
+Essa afirmação é verdadeira porque o texto cita alguns exemplos de como os contadores
+expressaram preocupações sobre serem substituídos pela automação em 2015 e 2019. O texto
+diz: "Já em 2015, líderes do setor estavam decretando a sentença de morte para os contadores,
+convencidos de que as tecnologias emergentes - especialmente a automação - resultariam em
+morte por digital para a contabilidade como a conhecemos. E tão recentemente quanto 2019, os
+contadores pesquisados pela Robert Half sobre o impacto da automação em sua profissão
+expressaram preocupações sobre serem substituídos, terem menos oportunidades de resolver
+problemas criativamente e uma dependência excessiva da tecnologia na realização de tarefas
+diárias."
+
+
+The statements are, respectively,
+As afirmações são, respectivamente,
+
+
+(A) T–F–F. - V–F–F.
+(B) F–T–F. - F–V–F.
+(C) F–F–T. - F–F–V.
+(D) F–T–T. - F–V–V.
+(E) T–T–F. - V–V–F.
+
+
+GABARITO: C
+
+
+02.The sentence “some pundits say accounting has a dim future in the digital world of
+tomorrow” (2nd paragraph) implies these experts’ view is
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                113
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) quite thrilling.
+(B) rather buoyant.
+(C) utterly cheerful.
+(D) pretty despondent.
+(E) somewhat untroubled.
+
+
+02.The sentence “some pundits say accounting has a dim future in the digital world of
+tomorrow” (2nd paragraph) implies these experts’ view is
+02. A frase “alguns especialistas dizem que a contabilidade tem um futuro sombrio no mundo
+digital de amanhã” (2º parágrafo) implica que a visão desses especialistas é
+
+
+(A) quite thrilling. - bastante emocionante.
+
+
+Errada. A palavra thrilling significa emocionante, que causa emoção, interesse ou adrenalina.
+Um futuro sombrio não é emocionante, mas sim assustador, preocupante ou angustiante.
+
+
+(B) rather buoyant. - bastante animada.
+
+
+Errada. A palavra “buoyant” significa animado, que tem ânimo, alegria ou disposição. Um futuro
+sombrio não é animado, mas sim desanimado, triste ou desmotivado.
+
+
+(C) utterly cheerful. - totalmente alegre.
+
+
+Errada. A palavra cheerful significa alegre, que tem alegria, felicidade ou satisfação. Tem sentido
+oposto ao que o texto diz sobre a visão dos especialistas.
+
+
+(D) pretty despondent. - bastante desanimada, desesperançosa, pessimista.
+
+
+Correta. A palavra desponent significa desanimada, que não tem ânimo, esperança ou
+entusiasmo. Um futuro sombrio é desanimador, pois não oferece perspectivas positivas ou
+favoráveis. Portanto, a frase do texto implica que a visão dos especialistas é pessimista.
+
+
+(E) somewhat untroubled. - um tanto tranquila.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    114
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Errada. Uma visão tranquila quanto ao futuro é uma visão positiva, otimista, e não uma visão de
+um futuro sombrio.
+
+
+GABARITO: D
+
+
+03. Regarding the effects of technology, the outlook the text provides for accountancy is
+
+
+(A) bright.
+(B) dreary.
+(C) dismal.
+(D) narrow.
+(E) hopeless.
+
+
+03. Regarding the effects of technology, the outlook the text provides for accountancy is
+03. Em relação aos efeitos da tecnologia, a perspectiva que o texto fornece para a contabilidade
+é
+
+
+(A) bright. – promissora, brilhante, alegre, animada.
+(B) dreary. - sombria.
+(C) dismal. - desoladora.
+(D) narrow. - limitada.
+(E) hopeless. - desesperadora."
+
+
+Dica: Esse é o tipo de questão que nem precisa ir ao texto. Observe que quase
+todas as opções tem o mesmo significado, palavras negativas: sombria,
+desoladora, limitada e desesperadora. A única que difere de todas as outras é a
+resposta do gabarito: promissora.
+
+
+GABARITO: A
+
+
+04. The verb in “were sounding the death knell” can be replaced without change in meaning by
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 115
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) tautening.
+(B) tackling.
+(C) tending.
+(D) tuning.
+(E) tolling.
+
+
+04. The verb in “were sounding the death knell” can be replaced without change in meaning by
+04. O verbo em “estavam anunciando o fim” pode ser substituído sem mudança de significado
+por
+
+
+(A) tautening. – esticando-se
+(B) tackling. – atacando, abordando, derrubando, marcando (futebol)
+(C) tending. – cuidando, atendendo, tratando
+(D) tuning. - afinando (um instrumento) ou ajustando (uma frequência)
+
+
+Erradas. Nenhum dos verbos acima podem substituir o verbo sounding na frase. Eles mudariam
+o sentido do texto pois têm significados diferentes.
+
+
+Obs: O comando da questão deveria dizer “The mainly verb”(o verbo principal) e não apenas
+“verb” tendo em vista que há dois verbos na frase: o auxiliar were (estavam) e o principal
+sounding.
+
+
+(E) tolling. – soando, dobrando/tocando o sino
+
+
+As far back as 2015, industry leaders were sounding the death knell for accountants,
+convinced emerging technologies — particularly automation — would end in death by digital for
+accountancy as we know it.
+Já em 2015, líderes do setor estavam anunciando o fim da profissão dos contadores,
+convencidos de que as tecnologias emergentes - especialmente a automação - resultariam em
+morte pela transformação digital para a contabilidade como a conhecemos.
+
+
+Sounding the death knell (literal) =
+Sounding the death knell (expressão idiomática) = anunciando o fim ou a ruína de algo.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                              116
+        www.estrategiaconcursos.com.br                                                    164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+O verbo "tolling" significa "tocar (um sino) com batidas lentas e medidas" e é um sinônimo de
+"sounding" nesse contexto. Portanto, o verbo "tolling" pode substituir "sounding" sem mudar o
+significado da frase.
+
+
+GABARITO: E
+
+
+05. Accountants with “greater technical acumen” (7th paragraph) are considered to be
+
+
+(A) shy.
+(B) sharp.
+(C) shabby.
+(D) scornful.
+(E) short-sighted.
+
+
+05. Accountants with “greater technical acumen” (7th paragraph) are considered to be
+05. Contadores com “maior habilidade técnica” (parágrafo 7) são considerados
+
+
+(A) shy. - tímido ou envergonhado
+
+
+Errada. Alguns sinônimos desse adjetivo são: timid (tímido) ou wary (cauteloso).
+
+
+(B) sharp. – afiado, esperto, perspicaz
+
+
+acumen= rapidez intelectual, sagacidade, perspicácia
+
+
+Correta. A expressão "greater technical acumen" significa "maior habilidade técnica" e pode ser
+traduzida como "maior competência técnica" ou "maior capacidade técnica". Contadores com
+maior habilidade técnica são considerados mais inteligentes, perspicazes e alertas do que os
+outros. O adjetivo "sharp" significa "afiado" ou "agudo", mas também pode significar "esperto"
+ou "perspicaz" quando usado para descrever uma pessoa ou sua mente. Portanto, "sharp" é o
+adjetivo que melhor se encaixa no contexto da frase.
+
+
+(C) shabby. - esfarrapado ou desleixado
+
+
+           Receita Federal (Analista Tributário) Língua Inglesa                             117
+           www.estrategiaconcursos.com.br                                                   164
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Errada. Um sinônimo desse adjetivo é despicable (nojento, desprezível).
+
+
+(D) scornful. – desdenhoso, desprezador ou debochado
+
+
+Errada. Um sinônimo desse adjetivo é contemptuous (desdenhoso).
+
+
+(E) short-sighted. - míope ou imprudente, que não planeja as coisas
+
+
+Errada. Um sinônimo desse adjetivo é nearsighted (míope).
+
+
+GABARITO: B
+
+
+Translation
+
+
+The Future Of Accounting:
+O Futuro da Contabilidade:
+
+
+How Will Digital Transformation Impact Accountants?
+Como a Transformação Digital Impactará os Contadores?
+
+
+In business, as in life, change is the only true constant. From mitigating unprecedented business
+disruptors to adapting to new operational paradigms, professionals in all industries find
+themselves dealing with major changes — many of them driven by emerging technologies.
+
+
+Nos negócios, como na vida, a mudança é a única constante verdadeira. Desde mitigar os
+disruptores de negócios sem precedentes até se adaptar a novos paradigmas operacionais, os
+profissionais de todas as indústrias se veem lidando com grandes mudanças - muitas delas
+impulsionadas por tecnologias emergentes.
+
+
+Accounting is no exception. The profession has moved far beyond mere bookkeeping and
+payroll, and like its partner procurement, it’s taking an increasingly strategic role for forward-
+thinking businesses. While some pundits say accounting has a dim future in the digital world of
+tomorrow, technologies such as cloud-based data management, process automation and
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   118
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+advanced analytics are actually poised to further elevate accountants in new and empowering
+ways.
+
+
+A contabilidade não é exceção. A profissão foi muito além da mera contabilidade e folha de
+pagamento, e assim como no setor análogo de suprimentos, está assumindo um papel cada vez
+mais estratégico para os negócios voltados para o futuro. Enquanto alguns especialistas dizem
+que a contabilidade tem um futuro sombrio no mundo digital de amanhã, tecnologias como
+gerenciamento de dados baseado em nuvem, automação de processos e análises avançadas
+estão na verdade preparadas para elevar ainda mais os contadores de maneiras novas e
+capacitadoras.
+
+
+As far back as 2015, industry leaders were sounding the death knell for accountants, convinced
+emerging technologies — particularly automation — would end in death by digital for
+accountancy as we know it. And as recently as 2019, accountants surveyed by Robert Half on the
+impact of automation on their profession expressed concerns about being replaced, having
+fewer opportunities for creative problem-solving and an overdependence on tech in completing
+daily tasks.
+
+
+Já em 2015, líderes do setor estavam anunciando o fim da profissão dos contadores,
+convencidos de que as tecnologias emergentes - especialmente a automação - resultariam em
+morte pela transformação digital para a contabilidade como a conhecemos. E tão recentemente
+quanto 2019, os contadores pesquisados pela Robert Half sobre o impacto da automação em
+sua profissão expressaram preocupações sobre serem substituídos, terem menos oportunidades
+de resolver problemas criativamente e uma dependência excessiva da tecnologia na realização
+de tarefas diárias.
+
+
+Yet, the events between then and now, including the Covid- 19 pandemic, have instead shown
+that accountants, like other professionals, need to worry much more about adaptation than
+replacement.
+
+
+No entanto, os eventos que ocorreram nesse ínterim, incluindo a pandemia do Covid-19,
+mostraram em vez disso que os contadores, como outros profissionais, precisam se preocupar
+muito mais com a adaptação do que com a substituição.
+
+
+There's no question that digital transformation has radically changed the playing field. Big data
+has become a rich resource that needs to be tapped to compete effectively. But for businesses
+ready to leverage the potential of digital tools, this shift is an opportunity, not a threat.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  119
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+   Ena Smith
+   Aula 03
+
+[...]
+
+
+Não há dúvida de que a transformação digital mudou radicalmente o cenário. Big data se tornou
+um recurso rico que precisa ser aproveitado para competir efetivamente. Mas para as empresas
+prontas para aproveitar o potencial das ferramentas digitais, essa mudança é uma oportunidade,
+não uma ameaça.
+[...]
+
+
+Both the skill set and the job description for tomorrow's accountant will be greatly expanded,
+while still hewing to the core competencies of the profession. Supported by technology in a
+collaborative setting, accounting teams will be populated with both dedicated accounting
+professionals and subject matter experts from other areas of the business.
+
+
+Futuramente, tanto o conjunto de habilidades quanto a descrição do trabalho do contador serão
+bastante expandidos, mantendo-se fiéis às competências essenciais da profissão. Apoiadas pela
+tecnologia em um ambiente colaborativo, as equipes de contabilidade serão formadas por
+profissionais dedicados de contabilidade e especialistas em assuntos de outras áreas da
+empresa.
+
+
+Tomorrow's accountants may play an advisory role, welcoming business intelligence and
+procurement professionals and working to chart a strategic sourcing plan. They could leverage
+data management tools, including augmented reality, to humanize and contextualize spend data
+for the C-suite to make better decisions based on long-term value rather than return on
+investment alone.
+
+
+Futuramente, os contadores podem desempenhar um papel consultivo, acolhendo profissionais
+de inteligência de negócios e suprimentos e trabalhando para traçar um plano de gestão
+estratégica do sourcing. Eles poderiam aproveitar as ferramentas de gerenciamento de dados,
+incluindo realidade aumentada, para humanizar e contextualizar os dados de gastos para o C-
+suite tomar melhores decisões com base no valor de longo prazo, em vez do retorno sobre o
+investimento apenas.
+
+
+O C-Level ou C-Suite, é um termo informal usado para se referir coletivamente
+aos mais importantes executivos seniores de uma corporação.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                              120
+         www.estrategiaconcursos.com.br                                                    164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+With more diverse skill sets and greater technical acumen, accountants can bring their own
+expertise to teams in other business units, providing crucial financial intelligence, refining
+budgets or ensuring compliance. [...]
+
+
+Com conjuntos de habilidades mais diversos e maior acuidade técnica, os contadores podem
+trazer sua própria expertise para equipes em outras unidades de negócios, fornecendo
+inteligência financeira crucial, refinando orçamentos ou garantindo conformidade. [...]
+
+
+As a function, accounting may become less about refining one's skill set through certifications
+and more about core competencies that grow over time, with a focus on lifelong education and
+skill development required to take on a complex, ever-changing business environment.
+
+
+Como função, a contabilidade pode se tornar menos sobre refinar o conjunto de habilidades por
+meio de certificações e mais sobre competências essenciais que crescem ao longo do tempo,
+com foco na educação e no desenvolvimento de habilidades ao longo da vida, necessários para
+enfrentar um ambiente de negócios complexo e em constante mudança.
+
+
+Automation and other data-driven technologies are poised to free accountants, not constrain
+them. Organizations that understand the potential and importance of these technologies — and
+invest in the tools and training required to help their accountants take full advantage — will be
+ahead of the curve. Tomorrow's accountants will play a more creative and strategic role in their
+companies. As a result, their businesses will not only enjoy more efficient workflows and reap
+more useful insights from their accounting processes, but help strengthen their own resiliency,
+agility and competitive footing.
+Adapted from: https://www.forbes.com/sites/forbestechcouncil/2021/05/19/the-           future-of-
+accounting-how-will-digital-transformation-impact- accountants/?sh=343b437853fb
+
+
+A automação e outras tecnologias orientadas por dados estão prontas para libertar os
+contadores, não restringi-los. As organizações que entendem o potencial e a importância dessas
+tecnologias - e investem nas ferramentas e no treinamento necessários para ajudar seus
+contadores a aproveitar ao máximo - estarão à frente da curva. No Futuro, os contadores
+desempenharão um papel mais criativo e estratégico em suas empresas. Como resultado, seus
+negócios não apenas desfrutarão de fluxos de trabalho mais eficientes e obterão insights mais
+úteis de seus processos contábeis, mas ajudarão a fortalecer sua própria resiliência, agilidade e
+posição competitiva.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  121
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                 TEXTO 7
+Auditoria Governamental - CONTROLADORIA GERAL DO ESTADO DA PARAÍBA –
+CGE PB – FGV - 2024
+
+
+READ THE TEXT AND ANSWER QUESTIONS 01 TO 05:
+LEIA O TEXTO E RESPONDA ÀS QUESTÕES 01 A 05:
+
+
+Audit data analytics, machine learning, and full population testing
+
+
+Technologies are evolving at an unprecedented pace and pose significant challenges and
+opportunities to companies and related parties, including the accounting profession. In today’s
+business environment, it is inevitable for companies to react quickly to changing conditions and
+markets. Many companies are seeking better ways to utilize emerging technologies to transform
+how they conduct business. We live in an age of information explosion, with technologies
+capable of making revolutionary changes in various industries and reshaping business models. At
+present, many companies view data as one of their most valuable assets. They amass an
+unprecedented amount of data from their daily business operation and strive to harness the
+power of data through analytics. Emerging technologies like robotic process automation,
+machine learning, and data analytics also impact the accounting profession. It is important for the
+profession to understand the impacts, opportunities, and challenges of these technologies.
+
+Specifically, in audit and assurance areas, data analytics and machine learning will lead to many
+changes in the foreseeable future. Audit sampling is one such potential change. The use of
+sampling in audits has been criticized since it only provides a small snapshot of the entire
+population. To address this major issue, this study introduces the idea of applying audit data
+analytics and machine learning for full population testing through the concept of “audit-by-
+exception” and “exceptional exceptions.” In this way, the emphasis of audit work shifts from
+“transaction examination” to “exception examination” and prioritizes the exceptions based on
+different criteria. Consequently, auditors can assess the associated risk based on the entire
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    122
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+population of the transactions and thus enhance the effectiveness and efficiency of the audit
+process.
+Adapted from the introduction to a study published in:
+https://www.sciencedirect.com/science/article/pii/S240591882200006X
+
+
+Comentários:
+01. Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+
+
+( ) Many companies nowadays tend to overlook data gathering.
+( ) The accounting profession has managed to resist the impact of technology.
+( ) In the study mentioned by the text, full population testing is to be preferred to sampling.
+
+
+The statements are, respectively:
+
+
+(A) T; T; F;
+(B) T; F; T;
+(C) F; F, T;
+(D) F; T; T;
+(E) F; T; F.
+
+
+01. Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+01. Com base no texto, marque as afirmações abaixo como VERDADEIRAS (V) ou FALSAS (F):
+
+
+(F) Many companies nowadays tend to overlook data gathering.
+(F) Muitas empresas atualmente tendem a negligenciar a coleta de dados.
+
+
+Falsa. Pelo contrário, muitas empresas consideram os dados como um de seus ativos mais
+valiosos e se esforçam para aproveitar o poder dos dados por meio de análises. A coleta de
+dados é essencial para as empresas entenderem o seu mercado, os seus clientes, os seus
+concorrentes e as suas oportunidades.
+
+
+(F) The accounting profession has managed to resist the impact of technology.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      123
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(F) A profissão contábil conseguiu resistir ao impacto da tecnologia.
+
+
+Falsa. A tecnologia trouxe desafios e oportunidades significativos para a profissão contábil e os
+contadores precisam se adaptar às mudanças. Tecnologias emergentes como automação de
+processos robóticos, aprendizado de máquina e análise de dados também impactam a profissão
+contábil e exigem novas habilidades e competências dos profissionais.
+
+
+(V) In the study mentioned by the text, full population testing is to be preferred to sampling.
+(V) No estudo mencionado pelo texto, o teste de população completa é preferível à
+amostragem.
+
+
+Verdadeira. O texto afirma que o teste de população completa é mais eficiente e confiável do
+que a amostragem, pois permite obter resultados mais precisos e consistentes, além de reduzir
+os riscos de erros e fraudes. O teste de população completa também é facilitado pelas
+tecnologias de análise de dados, que permitem processar grandes volumes de dados de forma
+rápida e automatizada.
+
+
+The statements are, respectively:
+As afirmações são, respectivamente:
+
+
+(A) T; T; F; - V; V; F;
+(B) T; F; T; - V; F; V;
+(C) F; F, T; - F; F, V;
+(D) F; T; T; - F; V; V;
+(E) F; T; F. - F; V; F.
+
+
+GABARITO: C
+
+
+02 In “They amass” (1st paragraph), the pronoun refers to:
+
+
+(A) assets;
+(B) changes;
+(C) Industries;
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                     124
+         www.estrategiaconcursos.com.br                                                           164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) companies;
+(E) technologies.
+
+
+02 In “They amass” (1st paragraph), the pronoun refers to:
+02 Em "Eles acumulam" (1º parágrafo), o pronome se refere a:
+
+
+(A) assets; - ativos;
+
+
+Errada. Não tem lógica dizer que os ativos, ou seja, os dados acumulam eles mesmos.
+
+
+(B) changes; - mudanças;
+
+
+Errada. Não tem sentido dizer que as mudanças acumulam uma quantidade sem precedentes de
+dados de sua operação diária.
+
+
+(C) industries; - setores;
+
+
+Errada. A palavra industries (setores) não aparece na frase anterior ao pronome. Ela aparece na
+frase antes dela. Geralmente o pronome retoma o que foi citado exatamente antes.
+
+
+(D) companies; - empresas;
+
+
+At present, many companies view data as one of their most valuable assets. They amass an
+unprecedented amount of data from their daily business operation and strive to harness the
+power of data through analytics.
+Atualmente, muitas empresas consideram os dados como um de seus ativos mais valiosos.
+Elas acumulam uma quantidade sem precedentes de dados de sua operação diária e se
+esforçam para aproveitar o poder dos dados por meio de análises.
+
+
+Correta. O pronome They (Elas) se refere às empresas, que são o sujeito da frase anterior. Essa
+é uma questão típica de concursos. Não apenas da FGV, mas também de outras bancas.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                125
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Dica da Ena (1): É só fazer a pergunta ao verbo, assim: quem acumulam uma quantidade sem
+precedentes de dados? As empresas.
+
+
+Dica da Ena (2): Substitua o pronome pela palavra da opção, assim: As empresas (Elas)
+acumulam uma quantidade sem precedentes de dados de sua operação diária e se esforçam
+para aproveitar o poder dos dados por meio de análises.
+
+
+(E) technologies. - tecnologias.
+
+
+Errada. Seria ilógico e muito vago dizer que as tecnologias acumulam uma quantidade sem
+precedentes de dados de sua operação diária e se esforçam para aproveitar o poder dos dados
+por meio de análises.
+
+
+GABARITO: D
+
+
+03. In the sentence “Emerging technologies like robotic process automation” (1st paragraph),
+“like” expresses:
+
+
+(A) appreciation;
+(B) informality;
+(C) preference;
+(D) possibility;
+(E) similarity.
+
+
+03. In the sentence “Emerging technologies like robotic process automation” (1st paragraph),
+“like” expresses:
+03. Na frase "Tecnologias emergentes como automação de processos robóticos" (1º parágrafo),
+"como" expressa:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                             126
+        www.estrategiaconcursos.com.br                                                   164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) appreciation; - apreciação;
+
+
+Errada. Na frase do comando da questão o like não expressa apreciação, mas sim comparação.
+A frase não está dizendo que as tecnologias emergentes são apreciadas, mas sim que elas são
+exemplos de um tipo de tecnologia. Um exemplo de quando o like mostra apreciação é quando
+ele é usado como verbo para expressar uma opinião positiva sobre algo ou alguém. Nesse caso,
+like significa “gostar” ou “admirar”. Ex: I like your dress. It's very beautiful. (Eu gosto do seu
+vestido. É muito bonito.)
+
+
+(B) informality; - informalidade;
+
+
+Errada. Um exemplo de quando o like demonstra informalidade é quando ele é usado como um
+marcador discursivo, ou seja, uma palavra que não tem um significado específico, mas serve para
+dar ênfase ou fluência à fala. Nesse caso, like é equivalente a “tipo”, e pode ser usado para
+introduzir uma citação, uma explicação, uma pausa, ou um comentário, em contextos informais.
+Por exemplo: He was like, "I don't care." (Ele disse, tipo, "Eu não me importo.")
+
+
+(C) preference; - preferência;
+
+
+Errada. Um exemplo de quando o like indica preferência é quando ele é usado como verbo para
+expressar um desejo ou uma escolha por uma coisa em comparação com outra. Nesse caso, like
+significa “gostar mais de” ou “preferir”. Ex: They like winter best. (Eles preferem o inverno.)
+
+
+(D) possibility; - possibilidade;
+
+
+Errada. Uma das palavras em inglês mais usadas para indicar possibilidade é o verbo modal
+“may”. Ele indica que algo é possível, mas não certo. Ex: He may be late. (Ele pode estar
+atrasado.)
+
+
+(E) similarity. - semelhança.
+
+
+Emerging technologies like robotic process automation, machine learning, and data analytics
+also impact the accounting profession.
+Tecnologias emergentes como automação de processos robóticos, aprendizado de máquina e
+análise de dados também afetam a profissão contábil.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   127
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Correta. Nesse contexto em questão, o like (como) expressa semelhança, ou seja, comparação.
+A frase está dizendo que as tecnologias emergentes são semelhantes a automação de processos
+robóticos, ou seja, que elas são exemplos de um tipo de tecnologia.
+
+
+GABARITO: E
+
+
+04. A “foreseeable future” (2nd paragraph) is one that:
+
+
+(A) must be sudden;
+(B) can be predicted;
+(C) may be forgotten;
+(D) will be depressing;
+(E) should be avoided.
+
+
+04. A “foreseeable future” (2nd paragraph) is one that:
+04. Um "futuro previsível" (2º parágrafo) é aquele que:
+
+
+(A) must be sudden; - deve ser repentino;
+
+
+Errada. Não é lógico dizer que um futuro previsível tem que ser repentino.
+
+
+(B) can be predicted; - pode ser previsto;
+
+
+Fore (prefixo) = antes ou antecipadamente.
+See (verbo) = ver
+Fore + see = Foresee = antever, prever
+Able (sufixo) = capaz, que pode
+Foresee + sufixo able = Foreseeable = previsível, previsto, que pode ser previsto
+
+
+Correta. Pela explicação acima fica claro que um "futuro previsível" é aquele que pode ser
+previsto.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                            128
+        www.estrategiaconcursos.com.br                                                  164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Dica da Ena: Quando você encontrar uma palavra desconhecida, observe se ela
+tem prefixo ou sufixo, ou ambos, e remova-os. O que restar normalmente é uma
+palavra familiar. Com o seu conhecimento de sufixos, você vai conseguir entender
+o significado da palavra. Foi o que fizemos com a palavra Foreseeable (previsível).
+
+
+(C) may be forgotten; - pode ser esquecido;
+
+
+Errada. Um sinônimo de “forgotten” é “abandoned”, que significa “abandonado, que foi
+deixado sem cuidado ou atenção”. Ex: The forgotten house was covered with dust and cobwebs.
+(A casa esquecida estava coberta de poeira e teias de aranha.)
+
+
+(D) will be depressing; - será deprimente;
+
+
+Errada. Um sinônimo de depressing é “sad”, que significa “triste, ou seja, que expressa ou sente
+tristeza, infelicidade ou sofrimento”. Ex: This movie is very depressing. It makes me cry. (Este
+filme é muito deprimente. Ele me faz chorar.)
+
+
+(E) should be avoided. - deve ser evitado.
+
+
+Errada. Um sinônimo de “avoided” é “escaped”, que significa escapado, ou seja, que conseguiu
+sair ou se livrar de algo. Ex: He avoided the traffic by taking a shortcut. (Ele evitou o trânsito
+pegando um atalho.)
+
+
+GABARITO: B
+
+
+05. The verb form in “has been criticized” (2nd paragraph) is in the:
+
+
+(A) simple past, active voice;
+(B) simple past, passive voice;
+(C) present perfect, active voice;
+(D) present perfect, passive voice;
+(E) present continuous, passive voice.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   129
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+05. The verb form in “has been criticized” (2nd paragraph) is in the:
+05. A forma verbal em "has been criticized" (2º parágrafo) está no:
+
+
+(A) simple past, active voice; - passado simples, voz ativa;
+
+
+Errada. Esse tempo verbal tem a formação: sujeito + verbo no passado simples + complemento.
+Ex: She criticized the new policy publicly (Ela criticou a nova política publicamente). O verbo
+"criticou" está no passado simples, indicando uma ação concluída no passado.
+
+
+(B) simple past, passive voice; - passado simples, voz passiva;
+
+
+Errada. Esse tempo verbal tem a formação: sujeito + verbo "to be" no passado simples +
+particípio passado do verbo principal + agente da passiva (opcional). Ex: The new policy was
+criticized by many people (A nova política foi criticada por muitas pessoas). O verbo "foi
+criticada" indica que a ação foi recebida pelo sujeito.
+
+
+(C) present perfect, active voice; - presente perfeito, voz ativa;
+
+
+Errada. Esse tempo verbal tem a formação: sujeito + verbo auxiliar "have" no presente +
+particípio passado do verbo principal + complemento. Ex: They have criticized the decision since
+it was announced (Eles têm criticado a decisão desde que foi anunciada). O verbo "têm
+criticado" indica uma ação que começou no passado e continua até o presente ou cujos efeitos
+ainda são sentidos.
+
+
+(D) present perfect, passive voice; - presente perfeito, voz passiva;
+
+
+The use of sampling in audits has been criticized since it only provides a small snapshot of the
+entire population.
+O uso da amostragem em auditorias tem sido criticado, pois fornece apenas um pequeno
+retrato de toda a população.
+
+
+Correta. O tempo verbal "has been criticized" está no presente perfeito e na voz passiva. O
+verbo "has" é o auxiliar do presente perfeito, e "been" é o particípio passado do verbo "to be",
+que junto com o particípio passado "criticized" forma a voz passiva.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 130
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) present continuous, passive voice. - presente contínuo, voz passiva.
+
+
+Errada. Esse tempo verbal tem a formação: sujeito + verbo "to be" no presente contínuo +
+sendo + particípio passado do verbo principal + complemento. Ex: The movie is being criticized
+for its lack of originality (O filme está sendo criticado por sua falta de originalidade). O verbo
+"está sendo criticado" indica uma ação em progresso no presente na voz passiva.
+
+
+GABARITO: D
+
+
+Translation
+
+
+Audit data analytics, machine learning, and full population testing
+Análise de dados de auditoria, aprendizado de máquina, e teste de população
+completa.
+
+
+Technologies are evolving at an unprecedented pace and pose significant challenges and
+opportunities to companies and related parties, including the accounting profession. In today’s
+business environment, it is inevitable for companies to react quickly to changing conditions and
+markets. Many companies are seeking better ways to utilize emerging technologies to transform
+how they conduct business.
+
+
+As tecnologias estão mudando rapidamente e criando novos desafios e oportunidades para as
+empresas e seus stakeholders, incluindo os contadores. No cenário atual, as empresas precisam
+se adaptar às mudanças de mercado e de contexto. Por isso, muitas buscam usar as tecnologias
+emergentes para inovar na forma de fazer negócios.
+
+
+We live in an age of information explosion, with technologies capable of making revolutionary
+changes in various industries and reshaping business models. At present, many companies view
+data as one of their most valuable assets. They amass an unprecedented amount of data from
+their daily business operation and strive to harness the power of data through analytics.
+Emerging technologies like robotic process automation, machine learning, and data analytics
+also impact the accounting profession. It is important for the profession to understand the
+impacts, opportunities, and challenges of these technologies.
+
+
+Vivemos em uma era de explosão de informações, com tecnologias capazes de provocar
+mudanças revolucionárias em vários setores e transformar o mundo de negócios. Atualmente,
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   131
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+muitas empresas consideram os dados como um de seus ativos mais valiosos. Elas acumulam
+uma quantidade sem precedentes de dados de sua operação diária e se esforçam para
+aproveitar o poder dos dados por meio de análises. Tecnologias emergentes como automação
+de processos robóticos, aprendizado de máquina e análise de dados também afetam a profissão
+contábil. É importante que os contadores entendam os efeitos, as chances e os desafios dessas
+tecnologias.
+
+
+Specifically, in audit and assurance areas, data analytics and machine learning will lead to many
+changes in the foreseeable future. Audit sampling is one such potential change. The use of
+sampling in audits has been criticized since it only provides a small snapshot of the entire
+population.
+
+
+Especificamente, nas áreas de auditoria e garantia, a análise de dados e o aprendizado de
+máquina levarão a muitas mudanças no futuro previsível. A amostragem de auditoria é uma
+dessas possíveis mudanças. O uso da amostragem em auditorias tem sido criticado, pois fornece
+apenas um pequeno retrato de toda a população.
+
+
+To address this major issue, this study introduces the idea of applying audit data analytics and
+machine learning for full population testing through the concept of “audit-by-exception” and
+“exceptional exceptions.” In this way, the emphasis of audit work shifts from “transaction
+examination” to “exception examination” and prioritizes the exceptions based on different
+criteria. Consequently, auditors can assess the associated risk based on the entire population of
+the transactions and thus enhance the effectiveness and efficiency of the audit process.
+Adapted from the introduction to a study published in:
+https://www.sciencedirect.com/science/article/pii/S240591882200006X
+
+
+Para resolver esse problema importante, este estudo introduz a ideia de aplicar a análise de
+dados de auditoria e o aprendizado de máquina para o teste de população completa por meio
+do conceito de "auditoria por exceção" e "exceções excepcionais". Dessa forma, o foco do
+trabalho de auditoria muda de "exame de transações" para "exame de exceções" e prioriza as
+exceções com base em diferentes critérios. Consequentemente, os auditores podem avaliar o
+risco associado com base em toda a população das transações e, assim, melhorar a eficácia e a
+eficiência do processo de auditoria.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  132
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                                 TEXTO 8
+Professor de Educação Básica - Habilitação: Inglês - SEDUC-MT - FGV - 2025
+
+Comentários:
+01. The bolded parts in the extracts “we just have to do the best we can” (frame 2), and “I
+guess that makes sense” (frame 3) are examples of collocations – a combination of two or
+more words that often go together. Collocations with “make” and “do” are a difficulty Brazilian
+learners frequently face. The sentence with a correct collocation among the ones below is
+
+
+(A) I did a booking for a table for six people, but I’ll have to change it.
+(B) She’s just asking you to do an effort!
+(C) As soon as you start making research your knowledge on the subject will expand.
+(D) Anyway, she will know whether or not she has made the right choice.
+(E) If I were you, I’d look for another person to make business with.
+
+
+01. The bolded parts in the extracts “we just have to do the best we can” (frame 2), and “I
+guess that makes sense” (frame 3) are examples of collocations – a combination of two or
+more words that often go together. Collocations with “make” and “do” are a difficulty Brazilian
+learners frequently face. The sentence with a correct collocation among the ones below is
+01. As partes em negrito nos trechos “we just have to do the best we can” (quadro 2) e “I
+guess that makes sense” (quadro 3) são exemplos de colocações — uma combinação de duas
+ou mais palavras que costumam aparecer juntas. Colocações com “make” e “do” são uma
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                133
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+dificuldade que os alunos brasileiros frequentemente enfrentam. A sentença com uma colocação
+correta entre as abaixo é:
+
+
+(A) I did a booking for a table for six people, but I’ll have to change it.
+(A) Eu fiz uma reserva para uma mesa de seis pessoas, mas terei que mudá-la.
+
+
+Errada. A colocação correta é “make a booking”, e não “do a booking”. “Booking” combina
+com make (ex: make a booking, make a reservation). O correto: I made a booking for a table for
+six people.
+
+
+(B) She’s just asking you to do an effort!
+(B) Ela só está pedindo que você faça um esforço!
+
+
+Errada. A colocação correta é make an effort, não do an effort. Usamos make an effort para
+significar “fazer um esforço”. Correto: She’s just asking you to make an effort!
+
+
+(C) As soon as you start making research your knowledge on the subject will expand.
+(C) Assim que você começar a fazer pesquisa, seu conhecimento sobre o assunto vai se
+expandir.
+
+
+Errada. A colocação correta é “do research”, não “make research”. Em inglês dizemos do
+research (“fazer pesquisa”). Correto: As soon as you start doing research, your knowledge on the
+subject will expand.
+
+
+(D) Anyway, she will know whether or not she has made the right choice.
+(D) De qualquer forma, ela saberá se fez a escolha certa ou não.
+
+
+Certa. A colocação make the right choice é correta e natural em inglês. “Make a choice” significa
+“fazer uma escolha”, e “the right choice” = “a escolha certa”.
+
+
+(E) If I were you, I’d look for another person to make business with.
+(E) Se eu fosse você, procuraria outra pessoa com quem fazer negócios.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  134
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Errada. A colocação correta é do business (with someone), não make business. Correto: I’d look
+for another person to do business with.
+
+
+GABARITO: D
+
+
+02. The boy reports his mother’s words to the tiger using the expression “she says”. Read the
+following sentence and decide the most adequate reporting verb to fill in the blank with
+appropriate meaning and structure.
+After calling an emergency meeting to happen in the situation room, Mr. President
+_________________ the ministers that the state of affairs might become critical.
+
+
+(A) advised.
+(B) promised.
+(C) warned.
+(D) proclaimed.
+(E) remarked.
+
+
+02. The boy reports his mother’s words to the tiger using the expression “she says”. Read the
+following sentence and decide the most adequate reporting verb to fill in the blank with
+appropriate meaning and structure.
+After calling an emergency meeting to happen in the situation room, Mr. President
+_________________ the ministers that the state of affairs might become critical.
+02. O menino relata as palavras de sua mãe ao tigre usando a expressão “she says”. Leia a
+seguinte frase e decida qual é o verbo de relato (reporting verb) mais adequado para preencher
+a lacuna com o significado e a estrutura corretos:
+“Depois de convocar uma reunião de emergência para acontecer na sala de situação, o
+presidente ________ os ministros de que o estado das coisas poderia se tornar crítico.”
+
+
+(A) advised. - aconselhou
+
+
+Errada. O verbo advise (aconselhar) normalmente é seguido de objeto + infinitivo (advised the
+ministers to...) ou de uma oração com that, mas expressa conselho, não alerta. “Advised the
+ministers that the state of affairs might become critical” não é incorreto gramaticalmente, mas o
+sentido não é o mais adequado — o presidente não está “aconselhando”, está alertando sobre
+um perigo.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                  135
+        www.estrategiaconcursos.com.br                                                        164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(B) promised. - prometeu
+
+
+Errada. Promise indica um compromisso ou garantia, o que não se encaixa no contexto de
+“poder se tornar crítico”. Ele não está prometendo nada, está avisando sobre uma possibilidade
+preocupante.
+
+
+(C) warned. - alertou
+
+
+After calling an emergency meeting to happen in the situation room, Mr. President
+_________________ the ministers that the state of affairs might become critical.
+Depois de convocar uma reunião de emergência para acontecer na sala de situação, o
+presidente ________ os ministros de que o estado das coisas poderia se tornar crítico.
+
+
+Correta. Warn significa advertir, alertar alguém sobre algo perigoso ou negativo que pode
+acontecer — exatamente o sentido da frase. Estrutura correta: warned + object + that + clause
+
+
+(D) proclaimed. - anunciar oficialmente
+
+
+Errada. O tom da frase do enunciado da questão é de alerta, não de declaração solene.
+
+
+(E) remarked. – fez uma observação, comentou, observou.
+
+
+Errada. Remark expressa uma observação neutra, algo dito de forma casual, e não transmite a
+gravidade da mensagem.
+
+
+GABARITO: C
+
+
+03. The tiger’s words in the final frame are: “Don’t worry”. In a reporting situation, one would say
+that the tiger
+
+
+(A) told the boy not to worry.
+(B) said the boy to not to worry.
+(C) advised the boy didn’t worry.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     136
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) assured the boy to don’t worry.
+(E) answered the boy to don’t worry.
+
+
+03. The tiger’s words in the final frame are: “Don’t worry”. In a reporting situation, one would say
+that the tiger
+03. As palavras do tigre no último quadro são: “Don’t worry” (Não se preocupe). Em uma
+situação de discurso relatado (reported speech), diríamos que o tigre
+
+
+(A) told the boy not to worry.
+(A) disse ao menino para não se preocupar.
+
+
+Correta. O verbo “tell” é usado quando há um objeto direto (alguém) — ou seja, você diz algo a
+alguém. Estrutura: tell + someone + to + verb. Ex: She told me to wait. → Ela me disse para
+esperar.
+
+
+(B) said the boy to not to worry.
+(B) disse o menino para não se preocupar.
+
+
+Errada. O verbo “say” não é seguido por uma pessoa diretamente (sem “to”). Além disso, há
+um erro de estrutura: “to not to worry” tem duplo “to” — o correto seria apenas “not to worry.”
+
+
+(C) advised the boy didn’t worry.
+(C) aconselhou o menino não se preocupar.
+
+
+Errada. O verbo “advise” pode ser seguido por (someone) + to + verb, mas aqui falta o “to”.
+Correto seria: advised the boy not to worry. Além disso, “didn’t worry” está no passado simples,
+mas o correto seria “not to worry” (infinitivo).
+
+
+(D) assured the boy to don’t worry.
+(D) assegurou o menino para não se preocupar.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     137
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Errada. O verbo “assure” é seguido por (someone) + that + clause, não por “to + verb.” Além
+disso, “to don’t worry” está gramaticalmente incorreto — depois de “to” usamos o verbo no
+infinitivo sem “don’t”: deve ser “not to worry.”
+
+
+(E) answered the boy to don’t worry.
+(E) respondeu o menino para não se preocupar.
+
+
+Errada. O verbo “answer” não é usado para dar instruções — é usado para responder perguntas.
+Ex: He answered the boy’s question. Assim como antes, “to don’t worry” é incorreto — o certo é
+“not to worry.”
+
+
+GABARITO: A
+
+
+Translation
+
+
+Boy: Mom says death is as natural as birth, and it’s all part of the life cycle.
+Menino: Mamãe diz que a morte é tão natural quanto o nascimento, e que tudo faz parte do
+ciclo da vida.
+
+
+Boy: She says we don’t really understand it, but there are many things we don’t understand, and
+we just have to do the best we can with the knowledge we have.
+Menino: Ela diz que a gente não entende muito bem isso, mas há muitas coisas que não
+entendemos, e precisamos apenas fazer o melhor que pudermos com o conhecimento que
+temos.
+
+
+Boy: I guess that makes sense.
+Menino: Acho que isso faz sentido.
+
+
+Boy:…But don’t you go anywhere.
+Menino:...Mas não vá a lugar nenhum, tá?
+
+
+Tiger: Don’t worry.
+Tigre: Não se preocupe.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                138
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+ Ena Smith
+ Aula 03
+
+                                          VOCABULÁRIOS
+
+
+Vocabulário                                                     Tradução
+
+accomplish                                                      realizar, atingir
+
+act                                                             lei, decreto
+
+advantage                                                       vantagem, benefício
+
+allow                                                           permitir, autorizar
+
+bill                                                            projeto de lei
+
+bond                                                            vínculo, ligação
+
+curb                                                            parar, desacelerar
+
+damage                                                          estrago, prejuízo, dano; danificar
+
+environmental                                                   ambiental
+
+grow                                                            crescer, desenvolver
+
+improve                                                         melhorar, aumentar
+
+issue                                                           questão, problema, assunto
+
+management                                                      gestão, administração
+
+manager                                                         gestor, administrador
+
+outcome                                                         resultado, desfecho
+
+overcome                                                        vencer, superar
+
+schedule                                                        agenda, horário, programação
+
+skills                                                          habilidade, competência, aptidão
+
+struck                                                          atingiu, atingido
+
+trigger                                                         desencadear; gatilho
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                        139
+         www.estrategiaconcursos.com.br                                                              164
+
+                                      
+
+
+---
+
+   Ena Smith
+   Aula 03
+
+Vocabulário                                                            Sinônimos
+
+accomplish                                                             achieve
+
+act                                                                    law, statute
+
+advantage                                                              benefit
+
+allow                                                                  authorize
+
+bill                                                                   proposed legislation
+
+bond                                                                   union
+
+curb                                                                   stop
+                                                          ==219a34==
+
+damage                                                                 spoil, harm
+
+grow                                                                   go up, increase
+
+environmental                                                          of surroundings
+
+improve                                                                Increase, progress
+
+issue                                                                  question, problem, subject
+
+management                                                             supervision
+
+manager                                                                boss, supervisor
+
+outcome                                                                result
+
+overcome                                                               surpass
+
+schedule                                                               timetable
+
+skills                                                                 ability, expertise
+
+struck                                                                 hit, reached
+
+trigger                                                                prompt, provoke
+
+          Receita Federal (Analista Tributário) Língua Inglesa                                      140
+          www.estrategiaconcursos.com.br                                                            164
+
+                                       
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+                                   LISTA DE QUESTÕES
+Texto 1: Analista Legislativo - Técnica Legislativa - Câmara dos Deputados - FGV -
+2023
+
+
+Read the text and answer the five questions that follow it.
+
+
+                          Complex societies and the growth of the law
+
+
+        Modern societies rely upon law as the primary mechanism to control their development
+and manage their conflicts. Through carefully designed rights and responsibilities, institutions
+and procedures, law can enable humans to engage in increasingly complex social and economic
+activities. Therefore, law plays an important role in understanding how societies change. To
+explore the interplay between law and society, we need to study how both co-evolve over time.
+This requires a firm quantitative grasp of the changes occurring in both domains. But while
+quantifying societal change has been the subject of tremendous research efforts in fields such as
+sociology, economics, or social physics for many years, much less work has been done to quantify
+legal change. In fact, legal scholars have traditionally regarded the law as hardly quantifiable, and
+although there is no dearth of empirical legal studies, it is only recently that researchers have
+begun to apply data science methods to law. To date, there have been relatively few quantitative
+works that explicitly address legal change, and almost no scholarship exists that analyses the
+time-evolving outputs of the legislative and executive branches of national governments at scale.
+Unlocking these data sources for the interdisciplinary scientific community will be crucial for
+understanding how law and society interact.
+       Our work takes a step towards this goal. As a starting point, we hypothesise that an
+increasingly diverse and interconnected society might create increasingly diverse and
+interconnected rules. Lawmakers create, modify, and delete legal rules to achieve particular
+behavioural outcomes, often in an effort to respond to perceived changes in societal needs.
+While earlier large-scale quantitative work focused on analysing an individual snapshot of laws
+enacted by national parliaments, collections of snapshots offer a window into the dynamic
+interaction between law and society. Such collections represent complete, time-evolving
+populations of statutes at the national level. Hence, no sampling is needed for their analysis, and
+all changes we observe are direct consequences of legislative activity. This feature makes
+collections of nation-level statutes particularly suitable for investigating temporal dynamics.
+       To preserve the intended multidimensionality of legal document collections and explore
+how they change over time, legislative corpora should be modelled as dynamic document
+networks. In particular, since legal documents are carefully organised and interlinked, their
+structure provides a more direct window into their content and dynamics than their language:
+Networks honour the deliberate design decisions made by the document authors and circumvent
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      141
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+some of the ambiguity problems that natural language-based approaches inherently face. In this
+paper, we therefore develop an informed data model for legislative corpora, capturing the
+richness of legislative data for exploration by social physics.
+Adapted from Katz, D.M., Coupette, C., Beckedorf, J. et al. Complex societies and the growth of
+the law. Sci Rep 10, 18737 (2020). Available at https://www.nature.com/articles/s41598-020-
+73623-x
+
+
+01. Based on the text, mark the statements below as true (T) or false (F).
+
+
+( ) Diachronic studies are required for the study of the interaction between law and society.
+( ) The studies of legal change and those of societal change have had an equivalent number of
+quantitative approaches.
+( ) Legal scholars have traditionally applied data science methods to study the history of change.
+
+
+The statements are, respectively,
+
+
+(A) F – T – F.
+(B) T – F – F.
+(C) F – F – T.
+(D) F – T – T.
+(E) T – F – T.
+
+
+02. The word “dearth” in “there is no dearth of empirical legal studies” (1st paragraph) means
+
+
+(A) boundary.
+(B) deadlock.
+(C) shortage.
+(D) decease.
+(E) boom.
+
+
+03. Analyse the assertions below based on the text:
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     142
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+I. Lawmakers tend to be quite sensitive to social demands.
+II. Natural language-based approaches are liable to ambiguity.
+III. The authors state that they eschew large corpora in their study.
+
+
+Choose the correct answer:
+
+
+(A) Only I is correct.
+(B) Only II is correct.
+(C) Only III is correct.
+(D) Only I and II are correct.
+(E) Only II and III are correct.
+
+
+04. The word “corpora” is in the plural as is
+
+
+(A) head lice.
+(B) awful vice.
+(C) back splice.
+(D) wooden lattice.
+(E) severe jaundice.
+
+
+05. “Hence” in “Hence, no sampling is needed for their analysis” (1st paragraph) can be replaced
+without change in meaning by
+
+
+(A) Furthermore.
+(B) Nonetheless.
+(C) Whereas.
+(D) Instead.
+(E) Thus.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                 143
+        www.estrategiaconcursos.com.br                                                       164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Texto 2: Oficial de Chancelaria (OFCHAN) – MRE – FGV
+
+
+                                      Use of language in diplomacy
+
+
+What language should one use when speaking to diplomats, or what language should diplomats
+use? Or, to be more precise, what language/languages should a (young) diplomat try to learn to
+be more successful in his profession?
+
+
+The term "language in diplomacy" obviously can be interpreted in several ways. First, as tongue
+("mother" tongue or an acquired one), the speech "used by one nation, tribe, or other similar
+large group of people"; in this sense we can say, for example, that French used to be the
+predominant diplomatic language in the first half of the 20th century. Second, as a special way of
+expressing the subtle needs of the diplomatic profession; in this way it can be said, for example,
+that the delegate of such-and-such a country spoke of the given subject in totally non-diplomatic
+language. Also, the term can refer to the particular form, style, manner or tone of expression;
+such as the minister formulated his conditions in unusually strong language. It may mean as well
+the verbal or non-verbal expression of thoughts or feelings: sending the gunships is a language
+that everybody understands.
+
+
+All of these meanings - and probably several others - can be utilised in both oral and written
+practice. In any of these senses, the use of language in diplomacy is of major importance, since
+language is not a simple tool, vehicle for transmission of thoughts, or instrument of
+communication, but very often the very essence of the diplomatic vocation, and that has been so
+from the early beginnings of our profession. That is why from early times the first envoys of the
+Egyptian pharaohs, Roman legates, mediaeval Dubrovnik consuls, etc., had to be educated and
+trained people, well-spoken and polyglots.
+
+
+Let us first look into different aspects of diplomatic language in its basic meaning - that of a
+tongue. Obviously, the first problem to solve is finding a common tongue. Diplomats only
+exceptionally find themselves in the situation to be able to communicate in one language,
+common to all participants. This may be done between, for example, Germans and Austrians, or
+Portuguese and Brazilians, or representatives of different Arab countries, or British and
+Americans, etc. Not only are such occasions rare, but very often there is a serious difference
+between the same language used in one country and another.
+
+
+There are several ways to overcome the problem of communication between people who speak
+different mother tongues. None of these ways is ideal. One solution, obviously, is that one of the
+interlocutors speaks the language of the other. Problems may arise: the knowledge of the
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   144
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+language may not be adequate, one side is making a concession and the other has an immediate
+and significant advantage, there are possible political implications, it may be difficult to apply in
+multilateral diplomacy, etc. A second possibility is that both sides use a third, neutral, language.
+A potential problem may be that neither side possesses full linguistic knowledge and control,
+leading to possible bad misunderstandings. Nevertheless, this method is frequently applied in
+international practice because of its political advantages. A third formula, using interpreters, is
+also very widely used, particularly in multilateral diplomacy or for negotiations at a very high
+political level - not only for reasons of equity, but because politicians and statesmen often do not
+speak foreign languages. This method also has disadvantages: it is time consuming, costly, and
+sometimes inadequate or straightforwardly incorrect. [...] Finally, there is the possibility of using
+one international synthetic, artificial language, such as Esperanto; this solution would have many
+advantages, but unfortunately is not likely to be implemented soon, mostly because of the
+opposition of factors that dominate in the international political - and therefore also cultural and
+linguistic - scene.
+
+
+So, which language is the diplomatic one? The answer is not simple at all [...].
+
+
+Words are bricks from which sentences are made. Each sentence should be a wound-up thought.
+If one wants to be clear, and particularly when using a language which he does not master
+perfectly, it is better to use short, simple sentences. On the contrary, if one wishes to camouflage
+his thoughts or even not say anything specific, it can be well achieved by using a more
+complicated style, complex sentences, digressions, interrupting one's own flow of thought and
+introducing new topics. One may leave the impression of being a little confused, but the basic
+purpose of withholding the real answer can be accomplished.
+(adapted from http://www.diplomacy.edu/books/language_and_)
+
+
+11 In the second paragraph of Text III the author refers to different meanings the term
+“language” can carry. When he argues that “sending the gunships is a language that everybody
+understands”, he means that:
+
+
+(A) threatening language should not be used in diplomatic exchanges;
+(B) people understand the sentence because it is written in plain English;
+(C) the language of diplomacy is rather complex so it is better to act first;
+(D) one does not need to understand the language because this action speaks for itself;
+(E) one must learn how to speak many languages to avoid misunderstandings and war.
+
+
+12 Mark the statements below as TRUE (T) or FALSE (F) according to points raised in Text III.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      145
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+( ) Diplomats are often in situations where a common language is spoken.
+( ) Using an interpreter as mediator is a flawless alternative for diplomatic meetings.
+( ) Despite the efforts to do away with problems in communication, the ideal solution has not
+been found yet.
+
+
+The correct sequence is:
+
+
+(A) F – T – T;
+(B) T – F – F;
+(C) T – T – F;
+(D) F – T – F;
+(E) F – F – T.
+
+
+13 The sentence that offers a suggestion is:
+
+
+(A) “Each sentence should be a wound-up thought”;
+(B) “One may leave the impression of being a little confused”;
+(C) “A third formula, using interpreters, is also very widely used”;
+(D) “The term ‘language in diplomacy’ obviously can be interpreted in several ways”;
+(E) “it is time consuming, costly, and sometimes inadequate or straightforwardly incorrect”.
+
+
+14 The word that forms the plural in the same way as “fora” in “The United States and Brazil are
+also advancing human rights issues in bilateral and multilateral fora” is:
+
+
+(A) agenda;
+(B) nucleus;
+(C) formula;
+(D) criterion;
+(E) paralysis.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   146
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+15 In the passage “Second, as a special way of expressing the subtle needs of the diplomatic
+profession; in this way it can be said, for example, that the delegate of such-and-such a country
+spoke...” the expression “in this way” can be replaced, without change in meaning by:
+
+
+(A) hence;
+(B) though;
+(C) hereby;
+(D) hereafter;
+(E) thereabouts.
+
+
+16 Pronouns are words that take the place of a noun or a noun group. In the passage “The term
+‘language in diplomacy’ obviously can be interpreted in several ways. First, as tongue (‘mother’
+tongue or an acquired one), the speech ‘used by one nation, tribe, or other similar large group of
+people’,” the pronoun “one” is replacing:
+
+
+(A) nation;
+(B) mother;
+(C) speech;
+(D) tongue;
+(E) diplomacy.
+
+
+Texto 3: Analista de Informática Legislativa - Senado Federal – FGV
+
+
+Read the text and answer questions 17 to 21.
+
+
+                    Information governance – more than a guiding force?
+
+
+         Corporate attitudes to information governance are changing. The exponential growth of
+information that is created and cultivated within a business has in many ways become as much a
+liability as it has an asset.
+      Regulatory fines, internal fraud, and class action lawsuits, unexpected personal data leaks
+7and loss can cost a business millions, and impact the corporate brand with a backlash of public
+opinion which can devastate a company for years and in some cases, such as that of Arthur
+Andersen, the damage can be irreversible.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   147
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+11    In the corporate world these days the smoking gun is often found on a server and that is
+where the regulator has learned to look.
+      The two extreme policies of keeping everything, or alternatively keeping nothing, are in
+most industries now illegal and certainly out of date. While we may long for the days when a
+midnight e-mail from IT could kindly ask employees to clean up their network folders, stop using
+personal hard drives, or refrain from deleting germane files needed in a legal case,
+20 organisations are recognising that the potential damage from rogue (or uninformed)
+employees far outweighs reliance on principle alone.
+(www.ft.com/cms/s/0/0199be44-7e78-11dd-b1af-077b07658,                    s01=1.html   retrieved   on
+September 23rd, 2008)
+
+
+17 The text states that the increase of information has
+
+
+(A) reached its peak.
+(B) had lasting qualities.
+(C) come to a standstill.
+(D) had a double effect.
+(E) avoided negative issues.
+
+
+18 The underlined word in “a backlash of public opinion” (lines 7 and 8) implies a
+
+
+(A) negative reaction.
+(B) strong praise.
+(C) helpful tip.
+(D) weak support.
+(E) dubious approach.
+
+
+19 The expression the smoking gun in “the smoking gun is often found on a server” (lines 11 and
+12) is a metaphor for
+
+
+(A) backup.
+(B) bang.
+(C) tool.
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                       148
+        www.estrategiaconcursos.com.br                                                             164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(D) vestige.
+(E) gadget.
+
+
+20 In “refrain from deleting germane files” (line 19) germane qualifies these files as
+
+
+(A) unsuitable.
+(B) rewarding.
+(C) accurate.
+(D) genuine.
+(E) relevant.
+
+
+21 If a fact “outweighs” (line 21) another one, it is
+
+
+(A) less confusing.
+(B) more significant.
+(C) more accidental.
+(D) less transparent.
+(E) more deceiving.
+
+
+Texto 4: Auditor Federal de Controle Externo - TCU - FGV - 2022
+
+
+                                Internal audit’s role in ESG reporting
+
+
+Conversations and focus on sustainability, typically grouped into environmental, social and
+governance (ESG) issues, are quickly evolving — from activist investor groups and inquisitive
+regulators pushing for change to governing bodies and C-suite executives struggling to
+understand and embrace the concept. At the forefront of this new risk area is pressure for
+organizations to make public commitments to sustainability and provide routine updates to ESG-
+related strategies, goals, and metrics that are accurate and relevant. However, ESG reporting is
+still immature, and there is not a lot of definitive guidance for organizations in this space. For
+example, there is no single standard for what should be reported.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   149
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+What is clear is that strong governance over ESG — as with effective governance overall —
+requires alignment among the principal players as outlined in The Internal Institute of Auditors
+(IIA) Three Lines Model. As with any risk area, internal audit should be well-positioned to support
+the governing body and management with objective assurance, insights, and advice on ESG
+matters.
+
+
+                                        Embarking on the ESG journey
+
+
+Efforts to mitigate the accelerating effects of climate change and address perceived historical
+social inequities are two powerful issues driving change globally. These movements have
+enhanced awareness of how all organizations impact, influence, and interact with society and the
+environment.
+
+
+They also have spurred organizations to better recognize and manage ESG risks (i.e., risks
+associated with how organizations operate in respect to their impact on the world around them).
+This broad risk category includes areas that are dynamic and often driven by factors that can be
+difficult to measure objectively.
+
+
+Still, there is growing urgency for organizations to understand and manage ESG risks, particularly
+as investors and regulators focus on organizations producing high-quality reporting on
+sustainability efforts. What’s more, that pressure is being reflected increasingly in executive
+performance as more organizations tie incentive compensation metrics to ESG goals.
+
+
+As ESG reporting becomes increasingly common, it should be treated with the same care as
+financial reporting. Organizations need to recognize that ESG reporting must be built on a
+strategically crafted system of internal controls and accurately reflect how an organization’s ESG
+efforts relate to each other, the organization’s finances, and value creation.
+
+
+Internal audit can and should play a significant role in an organization’s ESG journey. It can add
+value in an advisory capacity by helping to identify and establish a functional ESG control
+environment. It also can offer critical assurance support by providing an independent and
+objective review of the effectiveness of ESG risk assessments, responses, and controls.
+Source: Adapted from https://na.theiia.org/about-ia/PublicDocuments/White- Paper-Internal-
+Audits-Role-in-ESG-Reporting.pdf
+22 Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    150
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+( ) One of the hurdles of ESG issues is that they have been restricted to a single group of experts.
+( ) There has been such a great demand for publicizing government efforts towards ESG that
+reports have become accurate and systematized.
+( ) Part of the internal auditor’s job is to be knowledgeable enough in the area of ESG so as to be
+able to provide solid guidance to those in charge of the administration.
+
+
+The statements are, respectively:
+
+
+(A) F – F – T;
+(B) T – F – F;
+(C) T– F – T;
+(D) F – T – F;
+(E) F – T – T.
+
+
+23 The sentence that best expresses the idea that parties involved in the administration should
+follow a similar orientation:
+
+
+(A) “Internal audit can and should play a significant role in an organization’s ESG journey”;
+(B) “[...] strong governance over ESG — as with effective governance overall — requires
+alignment among the principal players”;
+(C) “These movements have enhanced awareness of how all organizations impact, influence, and
+interact with society and the environment”;
+(D) “This broad risk category includes areas that are dynamic and often driven by factors that can
+be difficult to measure objectively”;
+(E) “[...] pressure is being reflected increasingly in executive performance”.
+
+
+24 According to the text, “C-suite executives” (first paragraph), that is, those in top positions
+within a company, have been:
+
+
+(A) endeavoring to hold back innovation;
+(B) looking forward to better positions;
+(C) supporting less critical reports;
+(D) resisting sustainability issues;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     151
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) trying to grasp the novelty.
+
+
+25 The excerpt “Efforts to mitigate the accelerating effects of climate change” (third paragraph)
+indicates that, if effective, the speed of climate change will be:
+
+
+(A) doubled;
+(B) resumed;
+(C) lessened;
+(D) loosened;
+(E) unleashed.
+
+
+26 The function of the extract “i.e., risks associated with how organizations operate in respect to
+their impact on the world around them” (fourth paragraph) is to:
+
+
+(A) indicate expected results;
+(B) add contrasting information;
+(C) anticipate possible outcomes;
+(D) clarify the previous statement;
+(E) provide an alternative argument.
+
+
+Texto 5: Analista Legislativo - Senado Federal - FGV - 2022
+
+
+Read Text I and answer the five questions that follow it.
+
+
+Text I
+                              Empowering the workforce of tomorrow:
+              The role of business in tackling the skills mismatch among youth
+
+
+The future of work is changing fast. Technology, socio- economic trends, and developments and
+crises like COVID-19 are changing the world of work and the demand for skills at a pace and
+depth that poses serious challenges to people, business, and society. Young people and future
+generations, especially when they are from disadvantaged groups, are disproportionately
+affected by these disruptions.
+
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                   152
+         www.estrategiaconcursos.com.br                                                         164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+A key challenge to shaping a sustainable future of work is addressing the skills mismatch among
+youth. Despite young people around the world being more educated than ever before, hundreds
+of millions of individuals are coming of age and finding themselves unemployed and
+unemployable, lacking the right skills to take up the jobs available today and, even more, the
+skills that will be needed in the future. Neglecting the skills mismatch among youth can result in
+young people feeling disenfranchised and disillusioned about their prospects in the labor market,
+fueling social unrest, stunting economic growth and ultimately creating a more volatile operating
+environment for business.
+
+
+In contrast, by equipping youth with relevant skills, businesses can empower young people,
+support their access to employment opportunities and enable them to thrive personally,
+professionally and as active members of society. Investing in the skills of young people has an
+essential role to play in helping to realize the ambitions of the Sustainable Development Goals
+(SDGs) and the World Business Council for Sustainable Development’s (WBCSD) Vision2050,
+which aims to create a world where over 9 billion people live well and within planetary
+boundaries by mid-century.
+From:
+https://www.unicef.org/media/103176/file/Empowering%20the%20workforce%20of%20tomorro
+w.pdf
+
+
+27 Based on Text I, mark the statements below as true (T) or false (F).
+
+
+( ) According to the text, the world of work is hardly being affected by current adversities.
+( ) Young people who have the opportunity to graduate are more prepared for the jobs of the
+future.
+( ) The problem of skills mismatch stretches beyond national borders.
+
+
+The statements are, respectively,
+
+
+(A) T – F – T.
+(B) F – F – T.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                    153
+        www.estrategiaconcursos.com.br                                                          164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+28 In the title, “tackling” implies that this is an issue businesses should be
+
+
+(A) leaving out.
+(B) passing over.
+(C) dealing with.
+(D) disposing of.
+(E) shrinking from.
+
+
+29 The phrase “skills mismatch” indicates that there is a(n)
+
+
+(A) liability.
+(A) dullness.
+(B) evenness.
+(C) imbalance.
+(D) swindling.
+
+
+30 The extract “stunting economic growth” (2nd paragraph) implies
+
+
+(A) hindering.
+(B) spreading.
+(C) arousing.
+(D) boosting.
+(E) keeping.
+
+
+31 “Despite” in “Despite young people around the world being more educated” can be
+replaced without change in meaning by
+(A) since.
+(B) besides.
+(C) altogether.
+(D) throughout.
+(E) notwithstanding.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                    154
+         www.estrategiaconcursos.com.br                                          164
+
+                                      
+
+
+---
+
+   Ena Smith
+   Aula 03
+
+Texto 6: Contador – Analista Legislativo – Câmara dos Deputados - FGV - 2023
+
+
+                                         The Future Of Accounting:
+                     How Will Digital Transformation Impact Accountants?
+
+
+In business, as in life, change is the only true constant. From mitigating unprecedented business
+disruptors to adapting to new operational paradigms, professionals in all industries find
+themselves dealing with major changes — many of them driven by emerging technologies.
+
+
+Accounting is no exception. The profession has moved far beyond mere bookkeeping and
+payroll, and like its partner procurement, it’s taking an increasingly strategic role for forward-
+thinking businesses. While some pundits say accounting has a dim future in the digital world of
+tomorrow, technologies such as cloud-based data management, process automation and
+advanced analytics are actually poised to further elevate accountants in new and empowering
+ways.
+
+
+As far back as 2015, industry leaders were sounding the death knell for accountants, convinced
+emerging technologies — particularly automation — would end in death by digital for
+accountancy as we know it. And as recently as 2019, accountants surveyed by Robert Half on the
+impact of automation on their profession expressed concerns about being replaced, having
+fewer opportunities for creative problem-solving and an overdependence on tech in completing
+daily tasks.
+
+
+Yet, the events between then and now, including the Covid- 19 pandemic, have instead shown
+that accountants, like other professionals, need to worry much more about adaptation than
+replacement.
+
+
+There's no question that digital transformation has radically changed the playing field. Big data
+has become a rich resource that needs to be tapped to compete effectively. But for businesses
+ready to leverage the potential of digital tools, this shift is an opportunity, not a threat.
+[...]
+
+
+Both the skill set and the job description for tomorrow's accountant will be greatly expanded,
+while still hewing to the core competencies of the profession. Supported by technology in a
+collaborative setting, accounting teams will be populated with both dedicated accounting
+professionals and subject matter experts from other areas of the business.
+
+         Receita Federal (Analista Tributário) Língua Inglesa                                  155
+         www.estrategiaconcursos.com.br                                                        164
+
+                                      
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Tomorrow's accountants may play an advisory role, welcoming business intelligence and
+procurement professionals and working to chart a strategic sourcing plan. They could leverage
+data management tools, including augmented reality, to humanize and contextualize spend data
+for the C-suite to make better decisions based on long-term value rather than return on
+investment alone.
+
+
+With more diverse skill sets and greater technical acumen, accountants can bring their own
+expertise to teams in other business units, providing crucial financial intelligence, refining
+budgets or ensuring compliance. [...]
+
+
+As a function, accounting may become less about refining one's skill set through certifications
+and more about core competencies that grow over time, with a focus on lifelong education and
+skill development required to take on a complex, ever-changing business environment.
+
+
+Automation and other data-driven technologies are poised to free accountants, not constrain
+them. Organizations that understand the potential and importance of these technologies — and
+invest in the tools and training required to help their accountants take full advantage — will be
+ahead of the curve. Tomorrow's accountants will play a more creative and strategic role in their
+companies. As a result, their businesses will not only enjoy more efficient workflows and reap
+more useful insights from their accounting processes, but help strengthen their own resiliency,
+agility and competitive footing.
+Adapted from: https://www.forbes.com/sites/forbestechcouncil/2021/05/19/the-            future-of-
+accounting-how-will-digital-transformation-impact-accountants
+
+
+01. Based on the text, mark the statements below as true (T) or false (F).
+
+
+( ) It is clear that accountants will need to do away with earlier core competencies.
+( ) The impact of technology in accountancy tends to move more sluggishly than in areas like
+procurement.
+( ) There was some fear earlier that accountants’ work would soon be taken over by automation.
+
+
+The statements are, respectively,
+
+
+(A) T–F–F.
+(B) F–T–F.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                   156
+        www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(C) F–F–T.
+(D) F–T–T.
+(E) T–T–F.
+
+
+02. The sentence “some pundits say accounting has a dim future in the digital world of
+tomorrow” (2nd paragraph) implies these experts’ view is
+
+
+(A) quite thrilling.
+(B) rather buoyant.
+(C) utterly cheerful.
+(D) pretty despondent.
+(E) somewhat untroubled.
+
+
+03. Regarding the effects of technology, the outlook the text provides for accountancy is
+
+
+(A) bright.
+(B) dreary.
+(C) dismal.
+(D) narrow.
+(E) hopeless.
+
+
+04. The verb in “were sounding the death knell” can be replaced without change in meaning by
+
+
+(A) tautening.
+(B) tackling.
+(C) tending.
+(D) tuning.
+(E) tolling.
+
+
+05. Accountants with “greater technical acumen” (7th paragraph) are considered to be
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                157
+        www.estrategiaconcursos.com.br                                                      164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(A) shy.
+(B) sharp.
+(C) shabby.
+(D) scornful.
+(E) short-sighted.
+
+
+Texto 7: Auditoria Governamental - CONTROLADORIA GERAL DO ESTADO DA
+PARAÍBA – CGE PB – FGV - 2024
+
+
+READ THE TEXT AND ANSWER QUESTIONS 01 TO 05:
+
+
+Audit data analytics, machine learning, and full population testing
+
+
+      Technologies are evolving at an unprecedented pace and pose significant challenges and
+opportunities to companies and related parties, including the accounting profession. In today’s
+business environment, it is inevitable for companies to react quickly to changing conditions and
+markets. Many companies are seeking better ways to utilize emerging technologies to transform
+how they conduct business. We live in an age of information explosion, with technologies
+capable of making revolutionary changes in various industries and reshaping business models. At
+present, many companies view data as one of their most valuable assets. They amass an
+unprecedented amount of data from their daily business operation and strive to harness the
+power of data through analytics. Emerging technologies like robotic process automation,
+machine learning, and data analytics also impact the accounting profession. It is important for the
+profession to understand the impacts, opportunities, and challenges of these technologies.
+
+      Specifically, in audit and assurance areas, data analytics and machine learning will lead to
+many changes in the foreseeable future. Audit sampling is one such potential change. The use of
+sampling in audits has been criticized since it only provides a small snapshot of the entire
+population. To address this major issue, this study introduces the idea of applying audit data
+analytics and machine learning for full population testing through the concept of “audit-by-
+exception” and “exceptional exceptions.” In this way, the emphasis of audit work shifts from
+“transaction examination” to “exception examination” and prioritizes the exceptions based on
+different criteria. Consequently, auditors can assess the associated risk based on the entire
+population of the transactions and thus enhance the effectiveness and efficiency of the audit
+process.
+
+           Receita Federal (Analista Tributário) Língua Inglesa                                 158
+           www.estrategiaconcursos.com.br                                                       164
+
+                                        
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+Adapted from the introduction to a study published in:
+https://www.sciencedirect.com/science/article/pii/S240591882200006X
+
+
+01. Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+
+
+( ) Many companies nowadays tend to overlook data gathering.
+( ) The accounting profession has managed to resist the impact of technology.
+( ) In the study mentioned by the text, full population testing is to be preferred to sampling.
+
+
+The statements are, respectively:
+
+
+(A) T; T; F;
+(B) T; F; T;
+(C) F; F, T;
+(D) F; T; T;
+(E) F; T; F.
+
+
+02 In “They amass” (1st paragraph), the pronoun refers to:
+
+
+(A) assets;
+(B) changes;
+(C) industries;
+(D) companies;
+(E) technologies.
+
+
+03 In the sentence “Emerging technologies like robotic process automation” (1st paragraph),
+“like” expresses:
+
+
+(A) appreciation;
+(B) informality;
+(C) preference;
+(D) possibility;
+
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                      159
+        www.estrategiaconcursos.com.br                                                            164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+(E) similarity.
+
+
+04 A “foreseeable future” (2nd paragraph) is one that:
+
+
+(A) must be sudden;
+(B) can be predicted;
+(C) may be forgotten;
+(D) will be depressing;
+(E) should be avoided.
+
+
+05 The verb form in “has been criticized” (2nd paragraph) is in the:
+
+
+(A) simple past, active voice;
+(B) simple past, passive voice;
+(C) present perfect, active voice;
+(D) present perfect, passive voice;
+(E) present continuous, passive voice.
+
+
+Texto 8: Professor de Educação Básica - Habilitação: Inglês - SEDUC-MT - FGV -
+2025
+
+        Receita Federal (Analista Tributário) Língua Inglesa               160
+        www.estrategiaconcursos.com.br                                     164
+
+                                     
+
+
+---
+
+  Ena Smith
+  Aula 03
+
+01. The bolded parts in the extracts “we just have to do the best we can” (frame 2), and “I
+guess that makes sense” (frame 3) are examples of collocations – a combination of two or
+more words that often go together. Collocations with “make” and “do” are a difficulty Brazilian
+learners frequently face. The sentence with a correct collocation among the ones below is
+
+
+(A) I did a booking for a table for six people, but I’ll have to change it.
+(B) She’s just asking you to do an effort!
+(C) As soon as you start making research your knowledge on the subject will expand.
+(D) Anyway, she will know whether or not she has made the right choice.
+(E) If I were you, I’d look for another person to make business with.
+                                                        ==219a34==
+
+02. The boy reports his mother’s words to the tiger using the expression “she says”. Read the
+following sentence and decide the most adequate reporting verb to fill in the blank with
+appropriate meaning and structure. After calling an emergency meeting to happen in the
+situation room, Mr. President _________________ the ministers that the state of affairs might
+become critical.
+
+
+(A) advised.
+(B) promised.
+(C) warned.
+(D) proclaimed.
+(E) remarked.
+
+
+03. The tiger’s words in the final frame are: “Don’t worry”. In a reporting situation, one would say
+that the tiger
+
+
+(A) told the boy not to worry.
+(B) said the boy to not to worry.
+(C) advised the boy didn’t worry.
+(D) assured the boy to don’t worry.
+(E) answered the boy to don’t worry.
+
+        Receita Federal (Analista Tributário) Língua Inglesa                                     161
+        www.estrategiaconcursos.com.br                                                           164
+
+                                     
+
+
+---
+
+Ena Smith
+Aula 03
+
+                                            GABARITOS
+                       Textos                                                 Gabaritos
+
+                       Texto 1                               01-B; 02-C; 03-D; 04-A; 05-E;
+
+                       Texto 2                               11-D; 12-E; 13-A; 14-D; 15-A; 16-D;
+
+                       Texto 3                               17-D; 18-A; 19-D; 20-E; 21-B;
+
+                       Texto 4                               22-A; 23-B; 24-E; 25-C; 26-D;
+
+                       Texto 5                               27-B; 28-C; 29-D; 30-A; 31-E;
+
+                       Texto 6                               01-C; 02-D; 03-A; 04-E; 05-B;
+
+                       Texto 7                               01-C; 02-D; 03-E; 04-B; 05-D;
+
+                       Texto 8                               01-D; 02-C; 03-A;
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                         162
+      www.estrategiaconcursos.com.br                                                               164
+
+                                   
+
+
+---
+
+Ena Smith
+Aula 03
+
+                                                 RESUMO
+            •   Memorize: Should = Ought to = deve, deveria
+            •   Para expressar hábitos passados, o auxiliar Would é sinônimo do Used to:
+            •   O assunto mais cobrado nas questões é Interpretação de Textos.
+            •   Outros assuntos importantes que foram abordados nas questões da aula de
+                hoje: verbos modais, conectivos, sinônimos, preposições e pronomes.
+            •   Dê atenção aos sinônimos: choose = escolher = pick out = escolher,
+                selecionar
+            •   Dê atenção aos sinônimos: Take into account = levar em conta, levar em
+                consideração = contemplate = considerar, planejar, propor, analisar,
+                                                      ==219a34==
+
+                almejar
+            •   Memorize os sinônimos: germane = relevante, significante, apropriado,
+                pertinente = relevant = relevante, importante
+            •   Dê atenção à expressão idiomática: smoking gun = prova irrefutável
+                (sentido figurado); arma fumacenta (sentido literal) = vestige = vestígio,
+                traço visível, evidência, indicação
+            •   Memorize os sinônimos: Backlash = uma reação negativa, forte, adversa,
+                antagonista; resistência, retaliação, retrocesso = negative reaction =
+                reação negativa
+            •   Memorize os sinônimos: Used to be = costumava ser; algo que ocorria no
+                passado ou era costumeiro mas não acontece mais no Presente momento =
+                was once = era, foi;
+            • Memorize os sinônimos: mitigate= mitigar, diminuir mal feito, atenuar =
+              lessen = diminuir, reduzir
+            •   Cuidado para não confundir!
+            •   Hard (adjetivo) = dedicado, esforçado, empenhado
+            •   Hard (advérbio) = duramente, muito
+            •   Hardly = dificilmente, quase não = almost not, barely, slightly
+            •   Marque as questões que não acertou para posterior revisão.
+            •   Vá montando um glossário pessoal com palavras novas que vai aprendendo
+                e faça revisões periódicas.
+
+      Receita Federal (Analista Tributário) Língua Inglesa                                   163
+      www.estrategiaconcursos.com.br                                                         164
+
+                                     
+
+
+---
+
+---

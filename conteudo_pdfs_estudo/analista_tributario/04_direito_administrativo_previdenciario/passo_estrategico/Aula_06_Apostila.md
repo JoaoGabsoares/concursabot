@@ -1,0 +1,2672 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- Art. 1º
+- Art. 9
+- art. 1
+- art. 15-B
+- art. 16
+- art. 2
+- art. 24
+- art. 7º
+---
+
+# Passo Estratégico de Direito
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                              26 de Junho de 2025
+
+---
+
+      Tulio Lages
+      Aula 04
+
+                                                                                     Índice
+1) Simulado - Entidades Paraestatais e Terceiro Setor - ME
+
+
+2) Simulado - Organização Administrativa - ME
+
+
+3) Simulado - Poderes Administrativos - ME
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           52
+
+                                                             
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 04
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Entidades Paraestatais e Terceiro Setor
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+
+                                                                  Organizações Sociais
+
+1) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa correta:
+
+a) As organizações sociais podem receber recursos públicos para administrar as suas unidades e são
+obrigadas a contratar funcionários mediante concurso público.
+
+b) As organizações sociais são obrigadas a seguir a Lei de licitações.
+
+c) As organizações sociais, apesar de comporem o Terceiro setor, podem possuir fins lucrativos.
+
+d) As organizações sociais, mesmo compondo o Terceiro setor, são pessoas jurídicas de direito privado, ou
+seja, são de iniciativa de particulares.
+
+e) As organizações sociais estão aptas a funcionarem mediante a termo de parceria para desempenhar
+serviço de natureza social.
+
+2) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa incorreta:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                     3
+            www.estrategiaconcursos.com.br                                                                                                                       52
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+a) Dentre as atividades fins, encontra-se as dirigidas a áreas de ensino, pesquisa científica, desenvolvimento
+tecnológico, proteção e preservação do meio ambiente, cultura e saúde.
+
+b) A qualificação da OS depende de duas etapas, ambas envolvendo um juízo discricionários das autoridades
+envolvidas
+
+c) Dentre os requisitos específicos para que entidades privadas habilitem-se à qualificação como OS está a
+previsão expressa de a entidade ter, como órgão de deliberação superior e de direção, um conselho de
+finanças e uma diretoria definidos nos termos do estatuto.
+
+d) As OS são obrigadas a publicar anualmente, no Diário Oficial da União, relatórios financeiros e relatório
+de execução do contrato de gestão.
+
+e) É proibido as OS distribuir bens ou parcelas do patrimônio líquido em qualquer hipótese.
+
+3) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa incorreta:
+
+a) O conselho de administração da OS deverá ser formado por representantes do Poder Público, membros
+de entidades da sociedade civil, membros eleitos entre os membros e associados, membros eleitos entre
+pessoas com notória capacidade profissional e idoneidade e membros indicados ou eleitos na forma do
+Estatuto.
+
+b) Os membros do conselho de administração não podem receber remuneração nem pagamentos de ajuda
+de custo para participação de reuniões.
+
+c) A diretoria é o órgão que efetivamente gerencia a organização social, conduzindo a realização de suas
+atividades. Dessa forma, os membros da diretoria podem ser remunerados, sendo atribuição do conselho de
+administração fixar o valor desta remuneração.
+
+d) O contrato de gestão é o instrumento firmado entre o Poder Público e a entidade qualificada como
+organização social que discriminará as atribuições, responsabilidades e obrigações das partes e deverá ser
+submetido, após aprovação pelo Conselho de Administração da entidade, ao Ministro de Estado ou
+autoridade supervisora da área correspondente à atividade fomentada.
+
+e) Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem conhecimento de
+qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública por organização
+social, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.
+
+4) Acerca dos seus conhecimentos sobre a qualificação de desqualificação das organizações sociais,
+assinale a alternativa incorreta:
+
+a) O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas aquelas cujas atividades
+sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação
+do meio ambiente, à cultura e à saúde.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  4
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+b) No caso de extinção da OS, deverá haver a previsão de incorporação integral do patrimônio, dos legados
+ou das doações que lhe foram destinados ao patrimônio de outra organização social qualificada no âmbito
+da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou dos
+Municípios, na proporção dos recursos e bens por estes alocados.
+
+c) Quando constatado o descumprimento das disposições contidas no contrato de gestão, o Poder Executivo
+poderá proceder à desqualificação da entidade como OS.
+
+d) A desqualificação de uma OS importa a reversão dos bens permitidos e dos valores entregues para a sua
+utilização sem prejuízo de outras sanções cabíveis.
+
+e) Toda desqualificação de OS será precedida de processo administrativo, assegurado o direito de ampla
+defesa, respondendo os dirigentes da organização social, individual e subsidiariamente, pelos danos ou
+prejuízos decorrentes de sua ação ou omissão.
+
+5) Acerca dos seus conhecimentos sobre organizações da sociedade civil de interesse público (Oscip),
+assinale a alternativa incorreta:
+
+a) Trata-se de pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se
+encontrem em funcionamento regular há, no mínimo, 3 (três) anos.
+
+b) As Oscip, mesmo depois de qualificadas como tal mediante celebração de termo de parceria, conservam
+personalidade jurídica de direito privado.
+
+c) A entidade que deixar de preencher os requisitos necessários à sua qualificação como Oscip será, imediata
+e automaticamente, descredenciada.
+
+d) É permitida a participação de servidores públicos na composição de conselho ou diretoria de Organização
+da Sociedade Civil de Interesse Público.
+
+e) O instrumento que estabelece o vínculo entre o poder público e as organizações da sociedade civil de
+interesse público é o termo de parceria.
+
+6) Em relação às entidades paraestatais e aquelas que atuam em regime de colaboração com o Estado, é
+correto afirmar que
+
+a) uma sociedade comercial poderia ser qualificada como organização da sociedade civil de interesse público
+se possuísse objetivo social na promoção da cultura, defesa e conservação do patrimônio histórico e artístico.
+
+b) O fomento às organizações sociais pode ocorrer por meio da destinação de recursos orçamentários, mas
+não pela de bens públicos.
+
+c) Termo de colaboração é o instrumento por meio do qual são formalizadas as parcerias estabelecidas pela
+administração pública com organizações da sociedade civil para a consecução de finalidades de interesse
+público e recíproco que não envolvam a transferência de recursos financeiros.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  5
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 04
+
+d) na Administração Pública federal, havendo absorção, por determinada organização social, de atividades e
+serviços de órgão extinto, pode ocorrer cessão de servidor dos quadros do órgão extinto à referida
+organização social, sendo que essa cessão não pode ser recusada pelo servidor público.
+
+e) as organizações da sociedade civil de interesse público, que celebram termo de parceria e recebem
+recursos públicos para o exercício de suas atividades, não podem remunerar os seus dirigentes.
+
+7) Acerca dos seus conhecimentos assinale a alternativa que menciona as atividades não passiveis de
+qualificação de Oscip:
+
+I - Organizações sociais
+
+II - Cooperativas
+
+III - Fundações públicas
+
+IV - Organizações partidárias
+
+V - Instituições religiosas
+
+a) II, III
+
+b) I, III, IV
+
+c) II, III, IV, V
+
+d) I, II, IV, V
+
+e) I, II, III, IV, V
+
+8) Acerca dos seus conhecimentos sobre organizações da sociedade civil de interesse público (Oscip),
+assinale a alternativa incorreta:
+
+a) Não constituem impedimento à qualificação como Oscip as operações destinadas a microcrédito
+realizadas com instituições financeiras na forma de atuação como mandatárias.
+
+b) No caso de dissolução da Oscip, deverá haver a previsão de incorporação integral do patrimônio, dos
+legados ou das doações que lhe foram destinados ao patrimônio de outra organização social qualificada no
+âmbito da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou
+dos Municípios, na proporção dos recursos e bens por estes alocados.
+
+c) O estatuto da Oscip deve prever que, na hipótese de perda de qualificação, o respectivo acervo patrimonial
+disponível, adquirido com recursos públicos durante o período em que perdurou aquela qualificação, será
+transferido a outra pessoa jurídica qualificada nos termos desta Lei, preferencialmente que tenha o mesmo
+objeto social;
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             6
+             www.estrategiaconcursos.com.br                                                               52
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+d) Qualquer cidadão, respeitadas as prerrogativas do Ministério Público, é parte legítima para requerer,
+judicial ou administrativamente, a perda da qualificação da Oscip, vedado o anonimato e desde que
+amparado por fundadas evidências de erro ou fraude.
+
+e) A Oscip é obrigada a prestar contas relativa à execução do Termo de Parceria perante o órgão da entidade
+estatal parceira refere-se à correta aplicação dos recursos públicos recebidos e ao adimplemento do objeto
+do Termo de Parceria.
+
+                                             Serviços Sociais Autônomos
+
+9) Acerca dos seus conhecimentos sobre os Serviços Sociais Autônomos, assinale a alternativa correta:
+
+a) Estão fora do âmbito de atuação do sistema de controle interno do Poder Executivo Federal, por disporem
+de orçamentos próprios, os serviços sociais autônomos considerados como entidades paraestatais.
+
+b) Integram a administração federal indireta, entre outras entidades, os serviços sociais autônomos e as
+organizações sociais.
+
+c) Os serviços sociais autônomos são pessoas jurídicas de direito público, sem finalidade de lucro, que atuam
+na realização de atividade de interesse público não exclusiva do Estado.
+
+d) São exemplos de entidades paraestatais os serviços sociais autônomos, como o Serviço Social da Indústria
+(SESI) e o Serviço Nacional de Aprendizagem Industrial (SENAI).
+
+e) Os serviços Sociais Autônomos são mantidos por recursos oriundos de contribuições instituídas no
+interesse de categorias profissionais ou de interesse no domínio econômico, de natureza tributária,
+conhecidas como contribuições fiscais.
+
+                                                  Entidades de apoio
+
+10) Acerca dos seus conhecimentos sobre Entidades de apoio, assinale a alternativa incorreta:
+
+a) São entidades paraestatais e, portanto, não integram a Administração Pública
+
+b) O vínculo do Poder Público com as entidades estatais é feito, em regra, por meio de convênio
+
+c) As entidades de apoio não têm fins lucrativos e são instituídas por iniciativa do poder público para a
+prestação, em caráter privado, de serviços sociais não exclusivos do Estado
+
+d) As Entidades de Apoio se submetem à fiscalização do Tribunal de Contas competente, quanto à parcela
+pública de recursos que administrem.
+
+e) As Entidades de Apoio atuam em nome próprio, sob forma de fundação, associação ou cooperativa, para
+a prestação, em caráter privado, de serviços sociais não exclusivos do Estado.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 7
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+11) Sobre as entidades do terceiro setor, assinale a opção correta.
+
+a) As organizações da sociedade civil de interesse público, assim qualificadas por ato vinculado ao
+cumprimento dos requisitos estabelecidos em lei devem realizar licitação nos termos dos procedimentos
+previstos da Lei de Licitações.
+
+b) Organização social é uma qualificação conferida à entidade privada instituída por particulares, sem fins
+lucrativos, que, por ato discricionário do Poder Público, recebe incentivos do Estado para desempenhar
+serviço público de natureza social, mediante celebração de termo de parceria.
+
+c) Embora não integrem a Administração Pública, os serviços sociais autônomos são entidades paraestatais
+e sua criação depende de autorização em lei, sendo vinculados ao Ministério em cuja área de competência
+atuam.
+
+d) O contrato de rateio é o instrumento por meio do qual deverão ser constituídas e reguladas, como
+condição de sua validade, as obrigações que um ente da Federação constituir para com outro ente da
+Federação ou para com consórcio público no âmbito de gestão associada em que haja a prestação de serviços
+públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou de bens necessários à
+continuidade dos serviços transferidos.
+
+e) As organizações religiosas que se dediquem a atividades de interesse público e de cunho social distintas
+das destinadas a fins exclusivamente religiosos podem ser discricionariamente qualificadas como
+organizações da sociedade civil por parte do Poder Público.
+
+12) Sobre os consórcios públicos e entidades do terceiro setor, assinale a opção incorreta.
+
+a) Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes e normas que
+regulam o Sistema Único de Saúde – SUS.
+
+b) A execução do contrato de gestão celebrado por organização social será fiscalizada pelo órgão ou entidade
+supervisora da área de atuação correspondente à atividade fomentada.
+
+c) Não são passíveis de qualificação como Organizações da Sociedade Civil de Interesse Público, as entidades
+e empresas que comercializam planos de saúde e assemelhados.
+
+d) Exceto nas hipóteses previstas em Lei, a celebração de termo de colaboração ou de fomento será
+precedida de chamamento público voltado a selecionar organizações da sociedade civil que tornem mais
+eficaz a execução do objeto.
+
+e) A organização da sociedade civil deve prestar contas à Administração Pública para fins de avaliação, não
+se sujeitando, portanto, ao controle do Tribunal de Contas, o que torna a gestão da parceria mais
+transparente e eficiente.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                8
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+13) Sobre os consórcios públicos, são cláusulas necessárias do protocolo de intenções, exceto:
+
+a) As que estabeleçam os critérios para, em assuntos de interesse comum, autorizar o consórcio público a
+representar os entes da Federação consorciados perante outras esferas de governo;
+
+b) As que estabeleçam o número, as formas de provimento e a remuneração dos empregados públicos, bem
+como os casos de contratação por tempo determinado para atender a necessidade temporária de
+excepcional interesse público;
+
+c) As que estabeleçam as normas de convocação e funcionamento da assembleia geral, inclusive para a
+elaboração, aprovação e modificação dos estatutos do consórcio público;
+
+d) As que estabeleçam a denominação, a finalidade, o prazo de duração, nunca superior a 15 (quinze) anos,
+e a sede do consórcio;
+
+e) As que estabeleçam o direito de qualquer dos contratantes, quando adimplente com suas obrigações, de
+exigir o pleno cumprimento das cláusulas do contrato de consórcio público.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             9
+         www.estrategiaconcursos.com.br                                                               52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                                                  GABARITO
+
+                       1. D             2. C              3. B              4. E             5. C
+
+                       6. D             7. E              8. B              9. D             10. C
+
+                       11. C           12. E             13. D
+
+                                  QUESTÕES COMENTADAS
+
+
+                                                 Organizações Sociais
+
+1) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa correta:
+
+a) As organizações sociais podem receber recursos públicos para administrar as suas unidades e são
+obrigadas a contratar funcionários mediante concurso público.
+
+b) As organizações sociais são obrigadas a seguir a Lei de licitações.
+
+c) As organizações sociais, apesar de comporem o Terceiro setor, podem possuir fins lucrativos.
+
+d) As organizações sociais, mesmo compondo o Terceiro setor, são pessoas jurídicas de direito privado, ou
+seja, são de iniciativa de particulares.
+
+e) As organizações sociais estão aptas a funcionarem mediante a termo de parceria para desempenhar
+serviço de natureza social.
+
+Comentários
+
+Letra A - incorreta. Conforme entendimento do STF (ADI 1923/DF), a seleção de pessoal pelas OS não é regida
+pelo princípio do concurso público (inc. II do art. 37 da CF), porém, a seleção deve ser conduzida de forma
+pública, objetiva e impessoal, com observância dos princípios do caput do art. 37 da CF, e nos termos do
+regulamento próprio a ser editado por cada entidade.
+
+Letra B - incorreta.
+
+As OS não se submetem à Lei 14.133/2021 em suas contratações, mas ao seu regulamento próprio.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              10
+         www.estrategiaconcursos.com.br                                                                 52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+     Aula 04
+
+Com efeito, o STF1 entende que as OS, “por integrarem o Terceiro Setor, não fazem parte do conceito
+constitucional de Administração Pública, razão pela qual não se submetem, em suas contratações com
+terceiros, ao dever de licitar, o que consistiria em quebra da lógica de flexibilidade do setor privado,
+finalidade por detrás de todo o marco regulatório instituído pela Lei” 9.637/98.
+
+Nada obstante, continua o STF, em razão de as OS receberem recursos públicos, bens públicos e servidores
+públicos, “seu regime jurídico tem de ser minimamente informado pela incidência do núcleo essencial dos
+princípios da Administração Pública (CF, art. 37, caput), dentre os quais se destaca o princípio da
+impessoalidade, de modo que suas contratações devem observar o disposto em regulamento próprio (Lei nº
+9.637/98, art. 4º, VIII), fixando regras objetivas e impessoais para o dispêndio de recursos públicos.
+
+Letra C - incorreta. As OS são conhecidas como entidades públicas não estatais. São públicas, porque prestam
+serviços públicos e administram patrimônio público, e não estatais, porque não integram nem a
+Administração Pública direta nem a indireta. Dentre os requisitos específicos para que as entidades privadas
+se habilitem à qualificação como OS está prevista no art. 2º, I, "b" da Lei 9.637/1998, finalidade não lucrativa,
+com a obrigatoriedade de investimento de seus excedentes financeiros no desenvolvimento das próprias
+atividades.
+
+        Art. 2°. São requisitos específicos para que as entidades privadas referidas no artigo anterior
+        habilitem-se à qualificação como organização social:
+
+        I - comprovar o registro de seu ato constitutivo, dispondo sobre: (...)
+
+        b) finalidade não lucrativa, com a obrigatoriedade de investimento de seus excedentes financeiros
+        no desenvolvimento das próprias atividades
+
+Letra D - correta. As organizações sociais não representam uma nova forma de pessoa jurídica, mas apenas
+uma qualificação outorgada pelo Poder Público às associações civis ou às fundações privadas.
+
+Letra E - incorreta. As organizações sociais não representam uma nova forma de pessoa jurídica, mas apenas
+uma qualificação outorgada pelo Poder Público às associações civis ou às fundações privadas. O erro da
+questão é a firmação de termo de parceria para seu funcionamento. O correto é o "contrato de gestão",
+entendido como o instrumento firmado entre o Poder Público e a entidade qualificada como organização
+social, com vistas à formação de parceria entre as partes para fomento e execução de atividades relativas às
+áreas de ensino, pesquisa científica, desenvolvimento tecnológico, proteção e preservação do meio
+ambiente, cultura e saúde.
+
+Gabarito: Letra D
+
+2) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa incorreta:
+
+1
+    STF – ADI 1.923.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  11
+           www.estrategiaconcursos.com.br                                                                     52
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+a) Dentre as atividades fins, encontra-se as dirigidas a áreas de ensino, pesquisa científica, desenvolvimento
+tecnológico, proteção e preservação do meio ambiente, cultura e saúde.
+
+b) A qualificação da OS depende de duas etapas, ambas envolvendo um juízo discricionários das autoridades
+envolvidas
+
+c) Dentre os requisitos específicos para que entidades privadas habilitem-se à qualificação como OS está a
+previsão expressa de a entidade ter, como órgão de deliberação superior e de direção, um conselho de
+finanças e uma diretoria definidos nos termos do estatuto.
+
+d) As OS são obrigadas a publicar anualmente, no Diário Oficial da União, relatórios financeiros e relatório
+de execução do contrato de gestão.
+
+e) É proibido as OS distribuir bens ou parcelas do patrimônio líquido em qualquer hipótese.
+
+Comentários
+
+Letra A - correta. A alternativa descreve exatamente as atividades que podem ser objeto da OS, conforme
+art. 1° da Lei 9.637/98:
+
+      Art. 1° O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas de direito
+      privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao
+      desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde,
+      atendidos aos requisitos previstos nesta Lei.
+
+Letra B - correta. O ato de qualificação, primeiramente deve ser aprovado pelos Ministros de Estado
+envolvidos que, por sua vez, enviarão proposta de qualificação ao Presidente da República, que poderá
+efetuar a qualificação. Mesmo a entidade preenchendo todos os requisitos, não é certo que será qualificada
+com OS, uma vez que o ato de qualificação depende de juízo discricionário da Administração, nos termos do
+art. 2º, II, da Lei 9.637/98:
+
+      Art. 2º. São requisitos específicos para que as entidades privadas referidas no artigo anterior
+      habilitem-se à qualificação como organização social: (...)
+
+      II - haver aprovação, quanto à conveniência e oportunidade de sua qualificação como
+      organização social, do Ministro ou titular de órgão supervisor ou regulador da área de atividade
+      correspondente ao seu objeto social e do Ministro de Estado da Administração Federal e Reforma
+      do Estado.
+
+Letra C - incorreta. Dentre os requisitos específicos para que entidades privadas habilitem-se à qualificação
+como OS está a previsão expressa de a entidade ter, como órgão de deliberação superior e de direção, um
+conselho de "ADMINISTRAÇÃO" e uma diretoria definidos nos termos do estatuto.
+
+Letra D - correta. Alternativa está conforme art. 2°, I, "f", da Lei 9.637/98:
+
+      Art. 2° São requisitos específicos para que as entidades privadas referidas no artigo anterior
+      habilitem-se à qualificação como organização social:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  12
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      I - comprovar o registro de seu ato constitutivo, dispondo sobre: (...)
+
+      f) obrigatoriedade de publicação anual, no Diário Oficial da União, dos relatórios financeiros e do
+      relatório de execução do contrato de gestão;
+
+Letra E - correta. Alternativa está conforme art. 2°, I, "h", da Lei 9.637/98:
+
+      Art. 2° São requisitos específicos para que as entidades privadas referidas no artigo anterior
+      habilitem-se à qualificação como organização social:
+
+      I - comprovar o registro de seu ato constitutivo, dispondo sobre: (...)
+
+      h) proibição de distribuição de bens ou de parcela do patrimônio líquido em qualquer hipótese,
+      inclusive em razão de desligamento, retirada ou falecimento de associado ou membro da
+      entidade;
+
+Gabarito: Letra C
+
+3) Acerca dos seus conhecimentos sobre organizações sociais, assinale a alternativa incorreta:
+
+a) O conselho de administração da OS deverá ser formado por representantes do Poder Público, membros
+de entidades da sociedade civil, membros eleitos entre os membros e associados, membros eleitos entre
+pessoas com notória capacidade profissional e idoneidade e membros indicados ou eleitos na forma do
+Estatuto.
+
+b) Os membros do conselho de administração não podem receber remuneração nem pagamentos de ajuda
+de custo para participação de reuniões.
+
+c) A diretoria é o órgão que efetivamente gerencia a organização social, conduzindo a realização de suas
+atividades. Dessa forma, os membros da diretoria podem ser remunerados, sendo atribuição do conselho de
+administração fixar o valor desta remuneração.
+
+d) O contrato de gestão é o instrumento firmado entre o Poder Público e a entidade qualificada como
+organização social que discriminará as atribuições, responsabilidades e obrigações das partes e deverá ser
+submetido, após aprovação pelo Conselho de Administração da entidade, ao Ministro de Estado ou
+autoridade supervisora da área correspondente à atividade fomentada.
+
+e) Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem conhecimento de
+qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública por organização
+social, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária.
+
+Comentários
+
+Letra A - correta. Conforme art. 3°, I, da Lei 9.637/98:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  13
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      Art. 3° O conselho de administração deve estar estruturado nos termos que dispuser o respectivo
+      estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes
+      critérios básicos:
+
+      I - ser composto por:
+
+      a) 20 a 40% (vinte a quarenta por cento) de membros natos representantes do Poder Público,
+      definidos pelo estatuto da entidade;
+
+      b) 20 a 30% (vinte a trinta por cento) de membros natos representantes de entidades da
+      sociedade civil, definidos pelo estatuto;
+
+      c) até 10% (dez por cento), no caso de associação civil, de membros eleitos dentre os membros
+      ou os associados;
+
+      d) 10 a 30% (dez a trinta por cento) de membros eleitos pelos demais integrantes do conselho,
+      dentre pessoas de notória capacidade profissional e reconhecida idoneidade moral;
+
+      e) até 10% (dez por cento) de membros indicados ou eleitos na forma estabelecida pelo estatuto;
+
+Letra B - incorreta. Conforme art. 3°, VII, da Lei 9.637/98 "(...) os conselheiros não devem receber
+remuneração pelos serviços que, nesta condição, prestarem à organização social, ressalvada a ajuda de custo
+por reunião da qual participem". O erro da questão é afirmar que a participação em reuniões é vedada o
+fornecimento de ajuda de custos.
+
+Letra C - correta. Os membros do conselho de administração não podem ser remunerados, enquanto os
+membros da diretoria podem. Conforme art. 4°, V, da Lei 9.637/98:
+
+      Art. 4° Para os fins de atendimento dos requisitos de qualificação, devem ser atribuições
+      privativas do Conselho de Administração, dentre outras: (...)
+
+      V - fixar a remuneração dos membros da diretoria;
+
+Letra D - correta. A alternativa descreve os requisitos presentes nos artigos 5° e 6° da Lei 9.637/98.
+
+      Art. 5° Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento firmado entre
+      o Poder Público e a entidade qualificada como organização social, com vistas à formação de
+      parceria entre as partes para fomento e execução de atividades relativas às áreas relacionadas
+      no art. 1º.
+
+      Art. 6° O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade supervisora
+      e a organização social, discriminará as atribuições, responsabilidades e obrigações do Poder
+      Público e da organização social.
+
+      Parágrafo único. O contrato de gestão deve ser submetido, após aprovação pelo Conselho de
+      Administração da entidade, ao Ministro de Estado ou autoridade supervisora da área
+      correspondente à atividade fomentada.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               14
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra E - correta. A alternativa descreve exatamente o art. 9° da Lei 9.637/98, a saber:
+
+      Art. 9° Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem
+      conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de
+      origem pública por organização social, dela darão ciência ao Tribunal de Contas da União, sob
+      pena de responsabilidade solidária.
+
+Gabarito: Letra B
+
+4) Acerca dos seus conhecimentos sobre a qualificação de desqualificação das organizações sociais,
+assinale a alternativa incorreta:
+
+a) O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas aquelas cujas atividades
+sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação
+do meio ambiente, à cultura e à saúde.
+
+b) No caso de extinção da OS, deverá haver a previsão de incorporação integral do patrimônio, dos legados
+ou das doações que lhe foram destinados ao patrimônio de outra organização social qualificada no âmbito
+da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou dos
+Municípios, na proporção dos recursos e bens por estes alocados.
+
+c) Quando constatado o descumprimento das disposições contidas no contrato de gestão, o Poder Executivo
+poderá proceder à desqualificação da entidade como OS.
+
+d) A desqualificação de uma OS importa a reversão dos bens permitidos e dos valores entregues para a sua
+utilização sem prejuízo de outras sanções cabíveis.
+
+e) Toda desqualificação de OS será precedida de processo administrativo, assegurado o direito de ampla
+defesa, respondendo os dirigentes da organização social, individual e subsidiariamente, pelos danos ou
+prejuízos decorrentes de sua ação ou omissão.
+
+Comentários
+
+Letra A - correta. Alternativa conforme o art. 1° da Lei 9.637/1998, a saber:
+
+      Art. 1° O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas de direito
+      privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao
+      desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde,
+      atendidos aos requisitos previstos nesta Lei.
+
+Letra B - correta. Tanto no caso de extinção quanto no caso de desqualificação da OS deverá haver a previsão
+de incorporação integral do patrimônio, legado ou doações que receberam à outra OS no âmbito da União,
+sendo necessário ser de mesma área de atuação, ou ao patrimônio dos entes federativos, na proporção dos
+recursos e bens repassados. A alternativa está conforme a alínea "i" do inciso I do art. 2° da Lei 9.637/98, a
+saber:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  15
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      Art. 2º, I, i) previsão de incorporação integral do patrimônio, dos legados ou das doações que lhe
+      foram destinados, bem como dos excedentes financeiros decorrentes de suas atividades, em caso
+      de extinção ou desqualificação, ao patrimônio de outra organização social qualificada no âmbito
+      da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal
+      ou dos Municípios, na proporção dos recursos e bens por estes alocados;
+
+Letra C - correta. Essa atuação de desqualificação está prevista no art. 16, caput, da Lei 9.637/1998, a saber:
+
+      Art. 16. O Poder Executivo poderá proceder à desqualificação da entidade como organização
+      social, quando constatado o descumprimento das disposições contidas no contrato de gestão.
+
+Letra D - correta - Conforme o art. 16, § 2°, da Lei 9.637/1998, a saber:
+
+      Art. 16, § 2° A desqualificação importará reversão dos bens permitidos e dos valores entregues à
+      utilização da organização social, sem prejuízo de outras sanções cabíveis.
+
+Letra E - incorreta. A responsabilidade dos dirigentes da OS frente a um processo administrativo de
+desqualificação é de forma individual e SOLIDÁRIA, conforme art. 16, § 1°, da Lei 9.637/1998, a saber:
+
+      Art. 16, § 1° A desqualificação será precedida de processo administrativo, assegurado o direito de
+      ampla defesa, respondendo os dirigentes da organização social, individual e solidariamente, pelos
+      danos ou prejuízos decorrentes de sua ação ou omissão.
+
+Gabarito: Letra E
+
+                              Organizações da Sociedade Civil de Interesse Público
+
+5) Acerca dos seus conhecimentos sobre organizações da sociedade civil de interesse público (Oscip),
+assinale a alternativa incorreta:
+
+a) Trata-se de pessoas jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se
+encontrem em funcionamento regular há, no mínimo, 3 (três) anos.
+
+b) As Oscip, mesmo depois de qualificadas como tal mediante celebração de termo de parceria, conservam
+personalidade jurídica de direito privado.
+
+c) A entidade que deixar de preencher os requisitos necessários à sua qualificação como Oscip será, imediata
+e automaticamente, descredenciada.
+
+d) É permitida a participação de servidores públicos na composição de conselho ou diretoria de Organização
+da Sociedade Civil de Interesse Público.
+
+e) O instrumento que estabelece o vínculo entre o poder público e as organizações da sociedade civil de
+interesse público é o termo de parceria.
+
+Comentários
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  16
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra A - correta. Conforme o art. 1°, caput, da Lei 9.790/1999, a saber:
+
+      Art. 1° Podem qualificar-se como Organizações da Sociedade Civil de Interesse Público as pessoas
+      jurídicas de direito privado sem fins lucrativos que tenham sido constituídas e se encontrem em
+      funcionamento regular há, no mínimo, 3 (três) anos, desde que os respectivos objetivos sociais e
+      normas estatutárias atendam aos requisitos instituídos por esta Lei.
+
+Letra B - correta. As Oscip são constituídas sob o regime jurídico de direito privado e sem o intuito de lucro.
+
+Letra C - incorreta. Para a desqualificação de uma Oscip, é necessário processo administrativo ou judicial no
+qual serão assegurados o contraditório e a ampla defesa (art. 7º da Lei 9790/99).
+
+      Art. 7° Perde-se a qualificação de Organização da Sociedade Civil de Interesse Público, a pedido
+      ou mediante decisão proferida em processo administrativo ou judicial, de iniciativa popular ou do
+      Ministério Público, no qual serão assegurados, ampla defesa e o devido contraditório.
+
+Letra D - correta. Conforme o paragrafo único do art. 4° da Lei 9.790/99, a saber:
+
+      Art. 4º, parágrafo único. É permitida a participação de servidores públicos na composição de
+      conselho ou diretoria de Organização da Sociedade Civil de Interesse Público.
+
+Letra E - correta. As Oscip celebram, com o Poder Público, termo de parceria (art. 9º da Lei 9.790/99).
+
+      Art. 9º Fica instituído o Termo de Parceria, assim considerado o instrumento passível de ser
+      firmado entre o Poder Público e as entidades qualificadas como Organizações da Sociedade Civil
+      de Interesse Público destinado à formação de vínculo de cooperação entre as partes, para o
+      fomento e a execução das atividades de interesse público previstas no art. 3º desta Lei.
+
+Gabarito: Letra C
+
+6) Em relação às entidades paraestatais e aquelas que atuam em regime de colaboração com o Estado, é
+correto afirmar que
+
+a) uma sociedade comercial poderia ser qualificada como organização da sociedade civil de interesse público
+se possuísse objetivo social na promoção da cultura, defesa e conservação do patrimônio histórico e artístico.
+
+b) O fomento às organizações sociais pode ocorrer por meio da destinação de recursos orçamentários, mas
+não pela de bens públicos.
+
+c) Termo de colaboração é o instrumento por meio do qual são formalizadas as parcerias estabelecidas pela
+administração pública com organizações da sociedade civil para a consecução de finalidades de interesse
+público e recíproco que não envolvam a transferência de recursos financeiros.
+
+d) na Administração Pública federal, havendo absorção, por determinada organização social, de atividades e
+serviços de órgão extinto, pode ocorrer cessão de servidor dos quadros do órgão extinto à referida
+organização social, sendo que essa cessão não pode ser recusada pelo servidor público.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  17
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+e) as organizações da sociedade civil de interesse público, que celebram termo de parceria e recebem
+recursos públicos para o exercício de suas atividades, não podem remunerar os seus dirigentes.
+
+Comentários
+
+Letra A - incorreta. As sociedades comerciais não podem ser qualificadas como Oscip, consoante art. 2º, I,
+da Lei 9.790/99.
+
+      Art. 2o Não são passíveis de qualificação como Organizações da Sociedade Civil de Interesse
+      Público, ainda que se dediquem de qualquer forma às atividades descritas no art. 3 o desta Lei:
+
+      I - as sociedades comerciais;
+
+Letra B - incorreta. O fomento às organizações sociais pode ocorrer por meio da destinação de recursos
+orçamentários e de bens públicos necessários ao cumprimento do contrato de gestão, bem como a cessão
+especial de servidor (arts. 12 a 14 da Lei 9.637/1998).
+
+      Art. 12. Às organizações sociais poderão ser destinados recursos orçamentários e bens públicos
+      necessários ao cumprimento do contrato de gestão.
+
+      § 1° São assegurados às organizações sociais os créditos previstos no orçamento e as respectivas
+      liberações financeiras, de acordo com o cronograma de desembolso previsto no contrato de
+      gestão.
+
+      § 2° Poderá ser adicionada aos créditos orçamentários destinados ao custeio do contrato de
+      gestão parcela de recursos para compensar desligamento de servidor cedido, desde que haja
+      justificativa expressa da necessidade pela organização social.
+
+      § 3° Os bens de que trata este artigo serão destinados às organizações sociais, dispensada
+      licitação, mediante permissão de uso, consoante cláusula expressa do contrato de gestão.
+
+      Art. 13. Os bens móveis públicos permitidos para uso poderão ser permutados por outros de igual
+      ou maior valor, condicionado a que os novos bens integrem o patrimônio da União.
+
+      Parágrafo único. A permuta de que trata este artigo dependerá de prévia avaliação do bem e
+      expressa autorização do Poder Público.
+
+      Art. 14. É facultado ao Poder Executivo a cessão especial de servidor para as organizações sociais,
+      com ônus para a origem.
+
+Letra C - incorreta. Esse é o acordo de cooperação, conforme art. 2º, VIII-A, da Lei 13.019/2014:
+
+      Art. 2º Para os fins desta Lei, considera-se: (...)
+
+      VIII-A - acordo de cooperação: instrumento por meio do qual são formalizadas as parcerias
+      estabelecidas pela administração pública com organizações da sociedade civil para a consecução
+      de finalidades de interesse público e recíproco que não envolvam a transferência de recursos
+      financeiros;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  18
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra D - correta. Vejamos o que dispõe o art. 22, inciso I, da Lei nº 9.637/1998:
+
+      Art. 22. As extinções e a absorção de atividades e serviços por organizações sociais de que trata
+      esta Lei observarão os seguintes preceitos:
+
+      I - os servidores integrantes dos quadros permanentes dos órgãos e das entidades extintos terão
+      garantidos todos os direitos e vantagens decorrentes do respectivo cargo ou emprego e
+      integrarão quadro em extinção nos órgãos ou nas entidades indicados no Anexo II, sendo
+      facultada aos órgãos e entidades supervisoras, ao seu critério exclusivo, a cessão de servidor,
+      irrecusável para este, com ônus para a origem, à organização social que vier a absorver as
+      correspondentes atividades, observados os §§ 1º e 2º do art. 14;
+
+Logo, as organizações sociais podem absorver atividades e serviços de órgão da Administração Pública que
+tenha sido extinto, além dos respectivos servidores públicos, que não podem se insurgir contra essa cessão.
+
+Letra E - incorreta. O impedimento de remuneração é aplicável somente aos conselheiros das OS, nos termos
+do art. 3º, inciso VII, da Lei nº 9.637/1998:
+
+      Art. 3º. O conselho de administração deve estar estruturado nos termos que dispuser o respectivo
+      estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes
+      critérios básicos: (...)
+
+      VII - os conselheiros não devem receber remuneração pelos serviços que, nesta condição,
+      prestarem à organização social, ressalvada a ajuda de custo por reunião da qual participem;
+
+Por outro lado, os dirigentes das Oscip podem ser remunerados pelo desempenho de suas atividades,
+conforme art. 4º, inciso VI, da Lei nº 9.790/1999:
+
+      Art. 4º. Atendido o disposto no art. 3º, exige-se ainda, para qualificarem-se como Organizações
+      da Sociedade Civil de Interesse Público, que as pessoas jurídicas interessadas sejam regidas por
+      estatutos cujas normas expressamente disponham sobre: (...)
+
+      VI - a possibilidade de se instituir remuneração para os dirigentes da entidade que atuem
+      efetivamente na gestão executiva e para aqueles que a ela prestam serviços específicos,
+      respeitados, em ambos os casos, os valores praticados pelo mercado, na região correspondente
+      a sua área de atuação;
+
+Gabarito: Letra D
+
+7) Acerca dos seus conhecimentos assinale a alternativa que menciona as atividades não passiveis de
+qualificação de Oscip:
+
+I - Organizações sociais
+
+II - Cooperativas
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                19
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 04
+
+III - Fundações públicas
+
+IV - Organizações partidárias
+
+V - Instituições religiosas
+
+a) II, III
+
+b) I, III, IV
+
+c) II, III, IV, V
+
+d) I, II, IV, V
+
+e) I, II, III, IV, V
+
+Comentários
+
+A questão exige o conhecimento do art. 2° da Lei 9.790/99, a saber:
+
+        Art. 2° Não são passíveis de qualificação como Organizações da Sociedade Civil de Interesse
+        Público, ainda que se dediquem de qualquer forma às atividades descritas no art. 3º desta Lei:
+
+        I - as sociedades comerciais;
+
+        II - os sindicatos, as associações de classe ou de representação de categoria profissional;
+
+        III - as instituições religiosas ou voltadas para a disseminação de credos, cultos, práticas e visões
+        devocionais e confessionais;
+
+        IV - as organizações partidárias e assemelhadas, inclusive suas fundações;
+
+        V - as entidades de benefício mútuo destinadas a proporcionar bens ou serviços a um círculo
+        restrito de associados ou sócios;
+
+        VI - as entidades e empresas que comercializam planos de saúde e assemelhados;
+
+        VII - as instituições hospitalares privadas não gratuitas e suas mantenedoras;
+
+        VIII - as escolas privadas dedicadas ao ensino formal não gratuito e suas mantenedoras;
+
+        IX - as organizações sociais;
+
+        X - as cooperativas;
+
+        XI - as fundações públicas;
+
+        XII - as fundações, sociedades civis ou associações de direito privado criadas por órgão público ou
+        por fundações públicas;
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  20
+             www.estrategiaconcursos.com.br                                                                     52
+
+                                          
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      XIII - as organizações creditícias que tenham quaisquer tipos de vinculação com o sistema
+      financeiro nacional a que se refere o art. 192 da Constituição Federal.
+
+Gabarito: Letra E
+
+8) Acerca dos seus conhecimentos sobre organizações da sociedade civil de interesse público (Oscip),
+assinale a alternativa incorreta:
+
+a) Não constituem impedimento à qualificação como Oscip as operações destinadas a microcrédito
+realizadas com instituições financeiras na forma de atuação como mandatárias.
+
+b) No caso de dissolução da Oscip, deverá haver a previsão de incorporação integral do patrimônio, dos
+legados ou das doações que lhe foram destinados ao patrimônio de outra organização social qualificada no
+âmbito da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou
+dos Municípios, na proporção dos recursos e bens por estes alocados.
+
+c) O estatuto da Oscip deve prever que, na hipótese de perda de qualificação, o respectivo acervo patrimonial
+disponível, adquirido com recursos públicos durante o período em que perdurou aquela qualificação, será
+transferido a outra pessoa jurídica qualificada nos termos desta Lei, preferencialmente que tenha o mesmo
+objeto social;
+
+d) Qualquer cidadão, respeitadas as prerrogativas do Ministério Público, é parte legítima para requerer,
+judicial ou administrativamente, a perda da qualificação da Oscip, vedado o anonimato e desde que
+amparado por fundadas evidências de erro ou fraude.
+
+e) A Oscip é obrigada a prestar contas relativa à execução do Termo de Parceria perante o órgão da entidade
+estatal parceira refere-se à correta aplicação dos recursos públicos recebidos e ao adimplemento do objeto
+do Termo de Parceria.
+
+Comentários
+
+Letra A - correta. Alternativa está conforme o paragrafo único do art. 2° da Lei 9.790/99, a saber:
+
+      Art. 2°, parágrafo único. Não constituem impedimento à qualificação como Organização da
+      Sociedade Civil de Interesse Público as operações destinadas a microcrédito realizadas com
+      instituições financeiras na forma de recebimento de repasses, venda de operações realizadas ou
+      atuação como mandatárias.
+
+Letra B - incorreta. A alternativa tratou das ações a serem tomadas no caso de extinção de OS. Para a
+dissolução de Oscip, deve ser seguido o art. 4°, IV, da Lei 9.790/99, a saber:
+
+      Art. 4° Atendido o disposto no art. 3°, exige-se ainda, para qualificarem-se como Organizações da
+      Sociedade Civil de Interesse Público, que as pessoas jurídicas interessadas sejam regidas por
+      estatutos cujas normas expressamente disponham sobre: (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                21
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      IV - a previsão de que, em caso de dissolução da entidade, o respectivo patrimônio líquido será
+      transferido a outra pessoa jurídica qualificada nos termos desta Lei, preferencialmente que tenha
+      o mesmo objeto social da extinta;
+
+Letra C - correta. Alternativa está conforme o art. 4°, V, da Lei 9.790/99, a saber:
+
+      Art. 4° Atendido o disposto no art. 3°, exige-se ainda, para qualificarem-se como Organizações da
+      Sociedade Civil de Interesse Público, que as pessoas jurídicas interessadas sejam regidas por
+      estatutos cujas normas expressamente disponham sobre: (...)
+
+      V - a previsão de que, na hipótese de a pessoa jurídica perder a qualificação instituída por esta
+      Lei, o respectivo acervo patrimonial disponível, adquirido com recursos públicos durante o período
+      em que perdurou aquela qualificação, será transferido a outra pessoa jurídica qualificada nos
+      termos desta Lei, preferencialmente que tenha o mesmo objeto social;
+
+Letra D - correta. Alternativa está conforme o art. 8° da Lei 9.790/99, a saber:
+
+      Art. 8° Vedado o anonimato, e desde que amparado por fundadas evidências de erro ou fraude,
+      qualquer cidadão, respeitadas as prerrogativas do Ministério Público, é parte legítima para
+      requerer, judicial ou administrativamente, a perda da qualificação instituída por esta Lei.
+
+Letra E - correta. Alternativa está conforme o art. 15-B da Lei 9.790/99, a saber:
+
+      Art. 15-B. A prestação de contas relativa à execução do Termo de Parceria perante o órgão da
+      entidade estatal parceira refere-se à correta aplicação dos recursos públicos recebidos e ao
+      adimplemento do objeto do Termo de Parceria, mediante a apresentação dos seguintes
+      documentos:
+
+      I - relatório anual de execução de atividades, contendo especificamente relatório sobre a
+      execução do objeto do Termo de Parceria, bem como comparativo entre as metas propostas e os
+      resultados alcançados;
+
+      II - demonstrativo integral da receita e despesa realizadas na execução;
+
+      III - extrato da execução física e financeira;
+
+      IV - demonstração de resultados do exercício;
+
+      V - balanço patrimonial;
+
+      VI - demonstração das origens e das aplicações de recursos;
+
+      VII - demonstração das mutações do patrimônio social;
+
+      VIII - notas explicativas das demonstrações contábeis, caso necessário;
+
+      IX - parecer e relatório de auditoria, se for o caso.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 22
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Gabarito: Letra B
+
+                                             Serviços Sociais Autônomos
+
+9) Acerca dos seus conhecimentos sobre os Serviços Sociais Autônomos, assinale a alternativa correta:
+
+a) Estão fora do âmbito de atuação do sistema de controle interno do Poder Executivo Federal, por disporem
+de orçamentos próprios, os serviços sociais autônomos considerados como entidades paraestatais.
+
+b) Integram a administração federal indireta, entre outras entidades, os serviços sociais autônomos e as
+organizações sociais.
+
+c) Os serviços sociais autônomos são pessoas jurídicas de direito público, sem finalidade de lucro, que atuam
+na realização de atividade de interesse público não exclusiva do Estado.
+
+d) São exemplos de entidades paraestatais os serviços sociais autônomos, como o Serviço Social da Indústria
+(SESI) e o Serviço Nacional de Aprendizagem Industrial (SENAI).
+
+e) Os serviços Sociais Autônomos são mantidos por recursos oriundos de contribuições instituídas no
+interesse de categorias profissionais ou de interesse no domínio econômico, de natureza tributária,
+conhecidas como contribuições fiscais.
+
+Comentários
+
+Letra A - incorreta. O erro da alternativa A é afirmar que os serviços sociais autônomos (entidades
+paraestatais) estão fora do âmbito de atuação do Sistema de Controle Interno do Executivo Federal. Segundo
+a IN 01/2001, estas entidades estão incluídas no âmbito de atuação.
+
+Letra B - incorreta. Os serviços sociais autônomos fazem parte do Terceiro Setor, sendo entidades não
+estatais sem fins lucrativos, que desenvolvem atividades de interesse público. Nesse universo de pessoas
+jurídicas de direito privado, destacam-se as entidades paraestatais. Etimologicamente, paraestatal é aquela
+que se coloca ao lado do Estado, mas não o integra.
+
+Letra C - incorreta. Os serviços sociais autônomos são pessoas jurídicas de direito privado, e não público.
+
+Letra D - correta. A alternativa cita corretamente exemplos de entidades paraestatais classificadas como
+serviços sociais autônomos. São outros exemplos de serviços sociais autônomos as famosas entidades do
+“Sistema S”, como: Serviço Social do Comércio – Sesc; Serviço Nacional de Aprendizagem do Comércio –
+Senac; Serviço Nacional de Aprendizagem Rural – Senar; Serviço Nacional de Aprendizagem do
+Cooperativismo – Sescoop; Serviço Social de Transporte – Sest; Serviço Nacional de Aprendizagem do
+Transporte – Senat; e Serviço Brasileiro de Apoio às Micro e Pequenas Empresas – Sebrae.
+
+Letra E - incorreta. Tais contribuições são contribuições parafiscais, e não fiscais. Essas contribuições são
+recolhidas compulsoriamente pelos destinatários previstos em lei e repassadas diretamente pela Receita
+Federal às entidades para custear as atividades desenvolvidas. Adicionalmente, essas entidades podem até
+chegar a receber recursos orçamentários.
+
+Gabarito: Letra D
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    23
+         www.estrategiaconcursos.com.br                                                                       52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                                                  Entidades de apoio
+
+10) Acerca dos seus conhecimentos sobre Entidades de apoio, assinale a alternativa incorreta:
+
+a) São entidades paraestatais e, portanto, não integram a Administração Pública
+
+b) O vínculo do Poder Público com as entidades estatais é feito, em regra, por meio de convênio
+
+c) As entidades de apoio não têm fins lucrativos e são instituídas por iniciativa do poder público para a
+prestação, em caráter privado, de serviços sociais não exclusivos do Estado
+
+d) As Entidades de Apoio se submetem à fiscalização do Tribunal de Contas competente, quanto à parcela
+pública de recursos que administrem.
+
+e) As Entidades de Apoio atuam em nome próprio, sob forma de fundação, associação ou cooperativa, para
+                                                         ==219a34==
+
+a prestação, em caráter privado, de serviços sociais não exclusivos do Estado.
+
+Comentários
+
+Letra A, B e E - corretas. Conforme entendimento de Maria Di Pietro, as entidades de apoio são:
+
+         [...] "as pessoas jurídicas de direito privado, sem fins lucrativos, instituídas por servidores
+         públicos, porém em nome próprio, sob a forma de fundação, associação ou cooperativa,
+         para a prestação, em caráter privado, de serviços sociais não exclusivos do Estado,
+         mantendo vínculo jurídico com entidades da administração direta ou indireta, em regra por
+         meio de convênio."
+
+Letra C - incorreta. As entidades de apoio são pessoas jurídicas de direito privado, criadas por servidores
+públicos para a prestação, em caráter privado, de serviços sociais não exclusivos do Estado, mantendo
+vínculo jurídico com entidades da Administração direta ou indireta, em regra por meio de convênio. A
+incorreção da alternativa está em afirmar que seja de iniciativa do Poder Público.
+
+Letra D - correta. Como as demais entidades do Terceiro Setor, as Entidades de Apoio se submetem à
+fiscalização do Tribunal de Contas competente, quanto à parcela pública de recursos que administrem.
+Entretanto, tais entidades também auferem recursos advindos de relações privadas. Quanto a estes, o
+Tribunal de Contas não tem competência fiscalizatória. Ressalta-se também que as Entidades de Apoio se
+submetem à fiscalização do Ministério Público (curadoria das Fundações), nos termos do Código Civil e do
+Código de Processo Civil, já que se trata de Fundações Privadas.
+
+Gabarito: Letra C
+
+11) Sobre as entidades do terceiro setor, assinale a opção correta.
+
+a) As organizações da sociedade civil de interesse público, assim qualificadas por ato vinculado ao
+cumprimento dos requisitos estabelecidos em lei devem realizar licitação nos termos dos procedimentos
+previstos da Lei de Licitações.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 24
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+b) Organização social é uma qualificação conferida à entidade privada instituída por particulares, sem fins
+lucrativos, que, por ato discricionário do Poder Público, recebe incentivos do Estado para desempenhar
+serviço público de natureza social, mediante celebração de termo de parceria.
+
+c) Embora não integrem a Administração Pública, os serviços sociais autônomos são entidades paraestatais
+e sua criação depende de autorização em lei, sendo vinculados ao Ministério em cuja área de competência
+atuam.
+
+d) O contrato de rateio é o instrumento por meio do qual deverão ser constituídas e reguladas, como
+condição de sua validade, as obrigações que um ente da Federação constituir para com outro ente da
+Federação ou para com consórcio público no âmbito de gestão associada em que haja a prestação de serviços
+públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou de bens necessários à
+continuidade dos serviços transferidos.
+
+e) As organizações religiosas que se dediquem a atividades de interesse público e de cunho social distintas
+das destinadas a fins exclusivamente religiosos podem ser discricionariamente qualificadas como
+organizações da sociedade civil por parte do Poder Público.
+
+Comentários
+
+Letra A - incorreta. A Oscip está desobrigada de realizar licitação nos termos dos procedimentos previstos na
+Lei Geral de Licitações para aplicarem os recursos públicos recebidos, mas suas contratações devem ser
+realizadas de forma pública, objetiva e impessoal, com observância dos princípios da Administração Pública
+e em consonância com o disposto em regulamento próprio, nos termos do art. 14 da Lei 9.790/1999:
+
+      Art. 14. A organização parceira fará publicar, no prazo máximo de trinta dias, contado da
+      assinatura do Termo de Parceria, regulamento próprio contendo os procedimentos que adotará
+      para a contratação de obras e serviços, bem como para compras com emprego de recursos
+      provenientes do Poder Público, observados os princípios estabelecidos no inciso I do art. 4º desta
+      Lei.
+
+Letra B - incorreta. O instrumento correto é o contrato de gestão (e não termo de parceria).
+
+Letra C - correta. A alternativa está certa apesar da redação confusa – esteja preparado para redações
+confusas na sua prova!
+
+Letra D - incorreta. A alternativa trocou o termo “contrato de rateio” por “contrato de programa” (art. 13,
+caput, da Lei 11.107/2005).
+
+      Art. 13. Deverão ser constituídas e reguladas por contrato de programa, como condição de sua
+      validade, as obrigações que um ente da Federação constituir para com outro ente da Federação
+      ou para com consórcio público no âmbito de gestão associada em que haja a prestação de
+      serviços públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou de bens
+      necessários à continuidade dos serviços transferidos.
+
+Letra E - incorreta. Basta que a entidade se enquadre em uma das espécies previstas no art. 2º, I, da Lei
+13.019/2014 para que seja considerada organização da sociedade civil, não sendo prevista uma qualificação
+formal a ser conferida pelo Poder Público.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 25
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      Art. 2º Para os fins desta Lei, considera-se:
+
+      I - organização da sociedade civil:
+
+      a) entidade privada sem fins lucrativos que não distribua entre os seus sócios ou associados,
+      conselheiros, diretores, empregados, doadores ou terceiros eventuais resultados, sobras,
+      excedentes operacionais, brutos ou líquidos, dividendos, isenções de qualquer natureza,
+      participações ou parcelas do seu patrimônio, auferidos mediante o exercício de suas atividades,
+      e que os aplique integralmente na consecução do respectivo objeto social, de forma imediata ou
+      por meio da constituição de fundo patrimonial ou fundo de reserva;
+
+      b) as sociedades cooperativas previstas na Lei nº 9.867, de 10 de novembro de 1999; as
+      integradas por pessoas em situação de risco ou vulnerabilidade pessoal ou social; as alcançadas
+      por programas e ações de combate à pobreza e de geração de trabalho e renda; as voltadas para
+      fomento, educação e capacitação de trabalhadores rurais ou capacitação de agentes de
+      assistência técnica e extensão rural; e as capacitadas para execução de atividades ou de projetos
+      de interesse público e de cunho social.
+
+      c) as organizações religiosas que se dediquem a atividades ou a projetos de interesse público e de
+      cunho social distintas das destinadas a fins exclusivamente religiosos;
+
+Gabarito: Letra C
+
+12) Sobre os consórcios públicos e entidades do terceiro setor, assinale a opção incorreta.
+
+a) Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes e normas que
+regulam o Sistema Único de Saúde – SUS.
+
+b) A execução do contrato de gestão celebrado por organização social será fiscalizada pelo órgão ou entidade
+supervisora da área de atuação correspondente à atividade fomentada.
+
+c) Não são passíveis de qualificação como Organizações da Sociedade Civil de Interesse Público, as entidades
+e empresas que comercializam planos de saúde e assemelhados.
+
+d) Exceto nas hipóteses previstas em Lei, a celebração de termo de colaboração ou de fomento será
+precedida de chamamento público voltado a selecionar organizações da sociedade civil que tornem mais
+eficaz a execução do objeto.
+
+e) A organização da sociedade civil deve prestar contas à Administração Pública para fins de avaliação, não
+se sujeitando, portanto, ao controle do Tribunal de Contas, o que torna a gestão da parceria mais
+transparente e eficiente.
+
+Comentários
+
+Letra A - correta. Literalidade do § 3º, art. 1º, da Lei 11.107/2005.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 26
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      Art. 1º, § 3º Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes
+      e normas que regulam o Sistema Único de Saúde – SUS.
+
+Letra B - correta. Literalidade do art. 8º, caput, da Lei 9.637/1998.
+
+      Art. 8º A execução do contrato de gestão celebrado por organização social será fiscalizada pelo
+      órgão ou entidade supervisora da área de atuação correspondente à atividade fomentada.
+
+Letra C - correta. Literalidade do inciso VI do art. 2º da Lei 9.790/1999.
+
+      Art. 2º Não são passíveis de qualificação como Organizações da Sociedade Civil de Interesse
+      Público, ainda que se dediquem de qualquer forma às atividades descritas no art. 3º desta Lei:
+      (...)
+
+      VI - as entidades e empresas que comercializam planos de saúde e assemelhados;
+
+Letra D - correta. Literalidade do caput do art. 24 da Lei 13.019/2014.
+
+      Art. 24. Exceto nas hipóteses previstas nesta Lei, a celebração de termo de colaboração ou de
+      fomento será precedida de chamamento público voltado a selecionar organizações da sociedade
+      civil que tornem mais eficaz a execução do objeto.
+
+Letra E - incorreta. Embora tenham que prestar contas de parceria à Administração Pública, as organização
+da sociedade civil se sujeitam também ao controle do Tribunal de Contas.
+
+Gabarito: Letra E
+
+13) Sobre os consórcios públicos, são cláusulas necessárias do protocolo de intenções, exceto:
+
+a) As que estabeleçam os critérios para, em assuntos de interesse comum, autorizar o consórcio público a
+representar os entes da Federação consorciados perante outras esferas de governo;
+
+b) As que estabeleçam o número, as formas de provimento e a remuneração dos empregados públicos, bem
+como os casos de contratação por tempo determinado para atender a necessidade temporária de
+excepcional interesse público;
+
+c) As que estabeleçam as normas de convocação e funcionamento da assembleia geral, inclusive para a
+elaboração, aprovação e modificação dos estatutos do consórcio público;
+
+d) As que estabeleçam a denominação, a finalidade, o prazo de duração, nunca superior a 15 (quinze) anos,
+e a sede do consórcio;
+
+e) As que estabeleçam o direito de qualquer dos contratantes, quando adimplente com suas obrigações, de
+exigir o pleno cumprimento das cláusulas do contrato de consórcio público.
+
+Comentários
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  27
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Vejamos o que diz o art. 4º da Lei 11.107/05:
+
+      Art. 4º São cláusulas necessárias do protocolo de intenções as que estabeleçam:
+
+      I – a denominação, a finalidade, o prazo de duração e a sede do consórcio;
+
+      II – a identificação dos entes da Federação consorciados;
+
+      III – a indicação da área de atuação do consórcio;
+
+      IV – a previsão de que o consórcio público é associação pública ou pessoa jurídica de direito
+      privado sem fins econômicos;
+
+      V – os critérios para, em assuntos de interesse comum, autorizar o consórcio público a representar
+      os entes da Federação consorciados perante outras esferas de governo;
+
+      VI – as normas de convocação e funcionamento da assembléia geral, inclusive para a elaboração,
+      aprovação e modificação dos estatutos do consórcio público;
+
+      VII – a previsão de que a assembléia geral é a instância máxima do consórcio público e o número
+      de votos para as suas deliberações;
+
+      VIII – a forma de eleição e a duração do mandato do representante legal do consórcio público
+      que, obrigatoriamente, deverá ser Chefe do Poder Executivo de ente da Federação consorciado;
+
+      IX – o número, as formas de provimento e a remuneração dos empregados públicos, bem como
+      os casos de contratação por tempo determinado para atender a necessidade temporária de
+      excepcional interesse público;
+
+      X – as condições para que o consórcio público celebre contrato de gestão ou termo de parceria;
+
+      XI – a autorização para a gestão associada de serviços públicos, explicitando:
+
+      a) as competências cujo exercício se transferiu ao consórcio público;
+
+      b) os serviços públicos objeto da gestão associada e a área em que serão prestados;
+
+      c) a autorização para licitar ou outorgar concessão, permissão ou autorização da prestação dos
+      serviços;
+
+      d) as condições a que deve obedecer o contrato de programa, no caso de a gestão associada
+      envolver também a prestação de serviços por órgão ou entidade de um dos entes da Federação
+      consorciados;
+
+      e) os critérios técnicos para cálculo do valor das tarifas e de outros preços públicos, bem como
+      para seu reajuste ou revisão; e
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 28
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 04
+
+         XII – o direito de qualquer dos contratantes, quando adimplente com suas obrigações, de exigir o
+         pleno cumprimento das cláusulas do contrato de consórcio público.
+
+Assim:
+
+Alternativa A: trata-se de cláusula necessária, conforme o art. 4º, V, acima transcrito.
+
+Alternativa B: trata-se de cláusula necessária, conforme o art. 4º, IX, acima transcrito.
+
+Alternativa C: trata-se de cláusula necessária, conforme o art. 4º, VI, acima transcrito.
+
+Alternativa D: embora a denominação, a finalidade, o prazo de duração e a sede do consórcio sejam cláusulas
+necessárias, conforme art. 4º, I, acima transcrito, não há limitação de prazo estipulado na lei.
+
+Alternativa E: trata-se de cláusula necessária, conforme o art. 4º, XII, acima transcrito.
+
+Gabarito: Letra D
+
+...
+
+Forte abraço!
+
+                                                   Túlio Lages
+
+                                          Face: www.facebook.com/proftuliolages
+
+                                         Insta: www.instagram.com/proftuliolages
+
+                                           YouTube: youtube.com/proftuliolages
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               29
+            www.estrategiaconcursos.com.br                                                                  52
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               30
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 04
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Organização Administrativa
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1) Sobre os processos de descentralização e desconcentração, assinale a opção incorreta.
+
+a) A centralização é o desempenho direto, por parte do Estado, das tarefas a ele incumbidas.
+
+b) Na descentralização política, há criação de uma entidade política para o exercício de competências
+próprias.
+
+c) A descentralização por colaboração, também chamada de descentralização “por serviços”, ocorre quando
+uma entidade política cria uma nova pessoa jurídica para colaborar com o Poder Público, que passa a deter
+a titularidade e a execução de determinado serviço público.
+
+d) Os processos de descentralização e desconcentração possuem fisionomia ampliativa.
+
+e) Os processos de centralização e de concentração importam a agregação de atribuições no Estado.
+
+2) Em relação à posição que os órgãos públicos ocupam na estrutura do Estado, eles podem ser
+classificados em
+
+a) independentes, autônomos, superiores e subalternos.
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                    31
+            www.estrategiaconcursos.com.br                                                                                                                       52
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+b) autônomos, superiores, colegiados e simples.
+
+c) independentes, singulares, colegiados e superiores.
+
+d) superiores, colegiados, autônomos e simples.
+
+e) superiores, inferiores, autônomos e dependentes.
+
+3) Sobre a Administração Indireta, marque a alternativa incorreta:
+
+a) A administração indireta é composta por entidades que possuem capacidade administrativa, política e
+legislativa.
+
+b) A administração Pública brasileira compreende dois grandes grupos de instituições formados pela
+                                                         ==219a34==
+
+Administração direta e Administração indireta.
+
+c) Todas as entidades criadas pela Administração Pública para prestação descentralizada dos serviços devem
+gozar de personalidade jurídica. Dessa forma, a personalidade jurídica é comum a todos os entes da
+administração indireta.
+
+d) Os entes da administração indireta sujeitam‐se ao controle, pela administração direta, da pessoa política
+à qual são vinculados.
+
+e) Segundo o princípio da reserva legal, todas as pessoas integrantes da administração indireta de qualquer
+dos Poderes demandam lei, seja para criá‐las, seja para autorizar sua criação.
+
+4) Sobre a Administração indireta, assinale a opção incorreta.
+
+a) A Administração indireta é constituída dos serviços atribuídos a pessoas jurídicas diversas da União, de
+direito público ou de direito privado, vinculadas a um órgão da administração direta, mas administrativa e
+financeiramente autônomas.
+
+b) A Administração indireta pode se vincular a outros Poderes que não o Executivo.
+
+c) As autarquias se submetem ao regime jurídico de direito público, exercem atividades típicas de Estado, se
+submetem ao regime de precatórios para pagamento de dívidas decorrentes de condenações judiciais e, ao
+contrário das empresas estatais, mesmo seus bens com destinação diversa de suas finalidades são
+alcançados pela imunidade constitucional tributária.
+
+d) O consórcio público com personalidade jurídica de direito público integra a administração indireta de
+todos os entes da Federação consorciados.
+
+e) A teoria do órgão, mais aceita atualmente, ao invés de considerar o Estado como representado pelos seus
+agentes, imputa-lhe os atos praticados por seus órgãos, por meio da manifestação de seus agentes.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               32
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+5) Sobre as fundações públicas, assinale a opção incorreta.
+
+a) As fundações públicas podem ter personalidade de direito público ou de direito privado. No primeiro
+caso, estão submetidas ao regime jurídico-administrativo. No segundo caso, estão submetidas ao regime de
+direito privado, embora contem, assim como as primeiras, com a imunidade tributária recíproca estabelecida
+constitucionalmente.
+
+b) As fundações públicas de direito privado possuem bens de natureza privada, embora possam se sujeitar a
+regras de direito público quando empregados diretamente na prestação de serviços públicos.
+
+c) As fundações públicas de direito público são instituídas por lei específica.
+
+d) As fundações públicas podem ser consideradas como um patrimônio, total ou parcialmente público,
+dotado de personalidade jurídica, de direito público ou privado, e destinado, por lei, ao desempenho de
+atividades do Estado na ordem social, com capacidade de autoadministração e mediante controle da
+Administração Pública, nos termos da lei.
+
+e) Lei complementar deverá definir as áreas de atuação das fundações públicas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             33
+         www.estrategiaconcursos.com.br                                                                52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                                                  GABARITO
+
+                      1. C              2. A              3. A              4. C             5. A
+
+                                  QUESTÕES COMENTADAS
+1) Sobre os processos de descentralização e desconcentração, assinale a opção incorreta.
+
+a) A centralização é o desempenho direto, por parte do Estado, das tarefas a ele incumbidas.
+
+b) Na descentralização política, há criação de uma entidade política para o exercício de competências
+próprias.
+
+c) A descentralização por colaboração, também chamada de descentralização “por serviços”, ocorre quando
+uma entidade política cria uma nova pessoa jurídica para colaborar com o Poder Público, que passa a deter
+a titularidade e a execução de determinado serviço público.
+
+d) Os processos de descentralização e desconcentração possuem fisionomia ampliativa.
+
+e) Os processos de centralização e de concentração importam a agregação de atribuições no Estado.
+
+Comentários
+
+Letra A - correta. Centralização é o desempenho direto, por parte do Estado, das tarefas a ele incumbidas,
+por intermédio de órgãos e agentes administrativos que compõem sua estrutura.
+
+Letra B - correta. Na descentralização política, há criação de uma entidade política para o exercício de
+competências próprias. Ex: Estados e Municípios, que são entidades políticas dotadas de competência
+legislativa própria conferida pela CF/88. Por outro lado, na descentralização administrativa, o poder central
+transfere parcela de suas atribuições a outra entidade – a chamada “entidade descentralizada”. (Note,
+contudo, que o termo oposto, “entidade centralizada”, não é comumente empregado, preferindo-se o termo
+“ente” – que corresponde à União, Estados, DF e Municípios –, de modo que rigorosamente se pode
+sustentar que todas as entidades públicas em sentido estrito são mesmo, na verdade, descentralizadas.)
+
+Letra C - incorreta. A descentralização por colaboração não se confunde com a descentralização por serviços.
+A primeira, também chamada de descentralização “por delegação”, ocorre quando, por meio de contrato ou
+ato unilateral – não é necessária a edição de lei formal –, o Estado transfere apenas a execução de
+determinado serviço público a uma pessoa jurídica de direito privado, previamente existente, conservando
+o Poder Público a titularidade do serviço. Por outro lado, a última, também chamada de descentralização
+“funcional” ou, ainda, “técnica”, ocorre quando uma entidade política (União, Estados, DF e Municípios),
+mediante lei (em sentido formal), cria ou autorização a criação uma nova pessoa jurídica (de direito público
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                34
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+ou privado, respectivamente) e a ela atribui a titularidade e a execução de determinado serviço público, o
+que lhe confere autonomia em relação à pessoa que a criou.
+
+Letra D - correta. Tanto o processo de descentralização como o de desconcentração possuem fisionomia
+ampliativa, pois importam na repartição de atribuições, com criação de novas entidades ou órgãos,
+respectivamente.
+
+Letra E - correta. A centralização ocorre quando o Estado retoma a execução direta do serviço, depois de ter
+transferido sua execução a outra pessoa. Por sua vez, na concentração, dois ou mais órgãos internos são
+agrupados em apenas um, que passa a ter natureza de órgão concentrador. Os processos de centralização e
+de concentração possuem em comum a fisionomia restritiva, pois importam na agregação de atribuições no
+Estado.
+
+Gabarito: Letra C
+
+2) Em relação à posição que os órgãos públicos ocupam na estrutura do Estado, eles podem ser
+classificados em
+
+a) independentes, autônomos, superiores e subalternos.
+
+b) autônomos, superiores, colegiados e simples.
+
+c) independentes, singulares, colegiados e superiores.
+
+d) superiores, colegiados, autônomos e simples.
+
+e) superiores, inferiores, autônomos e dependentes.
+
+Comentários
+
+A doutrina classifica os órgãos públicos, quanto à posição estatal, em independentes, autônomos, superiores
+e subalternos. A definição de cada um deles pode ser assim resumida:
+
+Órgãos independentes: são aqueles previstos diretamente na Constituição Federal, representando os três
+Poderes, nas esferas federal, estadual e distrital (ou dois Poderes, na municipal), não sendo subordinados
+hierarquicamente a agentes políticos. Exemplos: Presidência da República, Câmara dos Deputados, Senado
+Federal, STF, STJ e demais tribunais, bem como seus simétricos nas demais esferas da Federação. Incluem-
+se ainda o Ministério Público da União e dos Estados e os Tribunais de Contas da União, dos Estados, dos
+Municípios e Municipais (neste último caso apenas nas cidades de São Paulo e Rio de Janeiro, já que a
+Constituição vedou a criação de novos).
+
+Órgãos autônomos: são aqueles que se situam na cúpula da Administração, logo abaixo dos órgãos
+independentes, auxiliando-os diretamente. Possuem ampla autonomia administrativa, financeira e técnica,
+mas não independência. Caracterizam-se como órgãos diretivos. Ex: os Ministérios, as Secretarias de Estado
+etc.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               35
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Órgãos superiores: possuem atribuições de direção, controle e decisão, mas sempre estão sujeitos ao
+controle hierárquico de uma instância mais alta. Não têm nenhuma autonomia, seja administrativa seja
+financeira. Exemplo: Procuradorias, Coordenadorias, Gabinetes.
+
+Órgãos subalternos: são todos aqueles que exercem atribuições de mera execução, com reduzido poder
+decisório, estando sempre subordinados a vários níveis hierárquicos superiores. Exemplo: seções de
+expediente, de pessoal, de material etc.
+
+Gabarito: Letra A
+
+3) Sobre a Administração Indireta, marque a alternativa incorreta:
+
+a) A administração indireta é composta por entidades que possuem capacidade administrativa, política e
+legislativa.
+
+b) A administração Pública brasileira compreende dois grandes grupos de instituições formados pela
+Administração direta e Administração indireta.
+
+c) Todas as entidades criadas pela Administração Pública para prestação descentralizada dos serviços devem
+gozar de personalidade jurídica. Dessa forma, a personalidade jurídica é comum a todos os entes da
+administração indireta.
+
+d) Os entes da administração indireta sujeitam‐se ao controle, pela administração direta, da pessoa política
+à qual são vinculados.
+
+e) Segundo o princípio da reserva legal, todas as pessoas integrantes da administração indireta de qualquer
+dos Poderes demandam lei, seja para criá‐las, seja para autorizar sua criação.
+
+Comentários
+
+Letra A - incorreta. As entidades da Administração indireta são todas administrativas, portanto, não se
+confundem com as pessoas federadas, as quais possuem competência política e legislativa.
+
+Letra B - correta. O Estado pode desempenhar suas funções de forma direta/centralizada, sendo um conjunto
+de órgãos ou unidades desprovidas de personalidade jurídica, o que a doutrina denomina de administração
+direta. Em contrapartida, também pode desempenhar suas funções por meio de determinadas pessoas
+jurídicas diversas, isto é, por meio da administração indireta.
+
+Letra C - correta. As entidades administrativas (autarquias, fundações públicas e empresas públicas e
+sociedades de economia mista), possuem personalidade jurídica, podendo ser de direito público ou privado.
+
+Letra D - correta. O controle da Administração direta sobre a indireta é distinto, não correspondendo à
+relação de hierarquia ou subordinação típica. Nesse caso, a relação existente entre o órgão supervisor e a
+entidade supervisionada é de mera vinculação, nominada por parte da doutrina de supervisão ministerial,
+controle finalístico ou tutela administrativa.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               36
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra E - correta. Pode-se afirmar, assim, que a criação de entidades da Administração indireta é matéria de
+reserva legal conforme elenca o art. 37, inciso XIX, da Constituição Federal de 1988.
+
+      Art. 37, XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de
+      empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar,
+      neste último caso, definir as áreas de sua atuação;
+
+Gabarito: Letra A
+
+4) Sobre a Administração indireta, assinale a opção incorreta.
+
+a) A Administração indireta é constituída dos serviços atribuídos a pessoas jurídicas diversas da União, de
+direito público ou de direito privado, vinculadas a um órgão da administração direta, mas administrativa e
+financeiramente autônomas.
+
+b) A Administração indireta pode se vincular a outros Poderes que não o Executivo.
+
+c) As autarquias se submetem ao regime jurídico de direito público, exercem atividades típicas de Estado, se
+submetem ao regime de precatórios para pagamento de dívidas decorrentes de condenações judiciais e, ao
+contrário das empresas estatais, mesmo seus bens com destinação diversa de suas finalidades são
+alcançados pela imunidade constitucional tributária.
+
+d) O consórcio público com personalidade jurídica de direito público integra a administração indireta de
+todos os entes da Federação consorciados.
+
+e) A teoria do órgão, mais aceita atualmente, ao invés de considerar o Estado como representado pelos seus
+agentes, imputa-lhe os atos praticados por seus órgãos, por meio da manifestação de seus agentes.
+
+Comentários
+
+Letra A - correta. Perceba que na Administração indireta, embora haja um vínculo com a Administração
+Direta, há autonomia administrativa e financeira.
+
+Letra B - correta. Embora seja mais comum entidades descentralizadas vinculadas ao Poder Executivo, não
+há empecilho para que haja entidades da administração indireta vinculadas a órgãos dos demais Poderes.
+
+Letra C - incorreta. A imunidade tributária prevista na CF, art. 150, §2º, não alcança os bens ou serviços com
+destinação diversa das finalidades da autarquia, que estão sujeitos à incidência de impostos.
+
+      Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+      Estados, ao Distrito Federal e aos Municípios:
+
+      (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  37
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+      § 2º - A vedação do inciso VI, "a", é extensiva às autarquias e às fundações instituídas e mantidas
+      pelo Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados a suas
+      finalidades essenciais ou às delas decorrentes.
+
+Letra D - correta. Esse é o exato teor do art. 6º, § 1º, da Lei 11.107/2005.
+
+      Art. 6º O consórcio público adquirirá personalidade jurídica:
+
+      (...)
+
+      § 1º O consórcio público com personalidade jurídica de direito público integra a administração
+      indireta de todos os entes da Federação consorciados.
+
+Letra E - correta. Na teoria do órgão, a mais aceita atualmente, entende-se que a pessoa jurídica manifesta
+sua vontade por meio dos órgãos que a compõem. Estes, por sua vez, são compostos de agentes. Desse
+modo, quando os agentes atuam, ocorre a própria atuação estatal.
+
+Gabarito: Letra C
+
+5) Sobre as fundações públicas, assinale a opção incorreta.
+
+a) As fundações públicas podem ter personalidade de direito público ou de direito privado. No primeiro
+caso, estão submetidas ao regime jurídico-administrativo. No segundo caso, estão submetidas ao regime de
+direito privado, embora contem, assim como as primeiras, com a imunidade tributária recíproca estabelecida
+constitucionalmente.
+
+b) As fundações públicas de direito privado possuem bens de natureza privada, embora possam se sujeitar a
+regras de direito público quando empregados diretamente na prestação de serviços públicos.
+
+c) As fundações públicas de direito público são instituídas por lei específica.
+
+d) As fundações públicas podem ser consideradas como um patrimônio, total ou parcialmente público,
+dotado de personalidade jurídica, de direito público ou privado, e destinado, por lei, ao desempenho de
+atividades do Estado na ordem social, com capacidade de autoadministração e mediante controle da
+Administração Pública, nos termos da lei.
+
+e) Lei complementar deverá definir as áreas de atuação das fundações públicas.
+
+Comentários
+
+Letra A - incorreta. As fundações públicas de direito privado se submetem ao regime jurídico híbrido, se
+sujeitando em parte a normas de direito privado e, em outras, a normas de direito público. Prerrogativas e
+características que merecem destaque:
+
+          Não possuem prazo especial para contestar e recorrer;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  38
+         www.estrategiaconcursos.com.br                                                                     52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 04
+
+            Suas lides não estão sujeitas ao duplo grau obrigatório de jurisdição;
+
+            Não estão submetidos ao regime de precatórios para pagamento de dívidas decorrentes de
+            condenação judicial previsto na CF, art. 100;
+
+            Contam, também, com a imunidade tributária recíproca (CF, art. 150, inciso VI, alínea “a”
+            e § 2º).
+
+            Praticam, em regra, atos de direito privado;
+
+            Celebram, também, contratos administrativos, precedidos de licitação.
+
+Letra B - correta. As fundações públicas de direito privado possuem bens privados, conforme definição dada
+pelo art. 98 do Código Civil. Entretanto, os bens dessas entidades, quando empregados diretamente na
+prestação de serviços públicos, podem se sujeitar a regras de direito público (ou seja, possuir prerrogativas
+dos bens públicos, de forma equiparada).
+
+Letra C - correta. Considerando que essas fundações possuem natureza de autarquia, são instituídas por
+meio de lei específica, de acordo com o teor do art. 37, inciso XIX, da CF:
+
+         Art. 37, XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de
+         empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar,
+         neste último caso, definir as áreas de sua atuação;
+
+Letra D - correta. Sendo a definição de Di Pietro (2016, p. 542) para fundações instituídas pelo poder público.
+
+Letra E - correta. Nos termos do art. 37, inciso XIX, da CF/88.
+
+         Art. 37, XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de
+         empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar,
+         neste último caso, definir as áreas de sua atuação;
+
+Gabarito: Letra A
+
+...
+
+Forte abraço!
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                  39
+            www.estrategiaconcursos.com.br                                                                     52
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                                                Túlio Lages
+
+                                       Face: www.facebook.com/proftuliolages
+
+                                      Insta: www.instagram.com/proftuliolages
+
+                                        YouTube: youtube.com/proftuliolages
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   40
+         www.estrategiaconcursos.com.br                                                      52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               41
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+    Aula 04
+
+                                                                   SIMULADO
+Introdução 
+
+Questões Inéditas 
+
+Gabarito/Questões Comentadas 
+
+Referências Bibliográficas 
+
+                                                               INTRODUÇÃO
+Olá!
+Este simulado contempla questões inéditas sobre:
+Poderes e Deveres da Administração.
+Pronto para testar seu conhecimento?!
+
+
+                                                      QUESTÕES INÉDITAS
+1. Acerca dos poderes e deveres da Administração Pública, assinale o item incorreto:
+
+a) Podemos dizer que o regime jurídico administrativo permite que a Administração Pública fique em uma
+posição de superioridade na relação com os administrados, ao mesmo tempo em que limita a sua esfera de
+liberdade para atender aos direitos individuais e preservar o patrimônio público.
+
+b) Os poderes administrativos são irrenunciáveis.
+
+c) A omissão do agente, diante de situação que exige sua atuação, invariavelmente reflete na sua
+responsabilização nas esferas civil, administrativa e penal.
+
+d) Dentre os principais deveres administrativos, podemos citar o dever de eficiência, probidade e de prestar
+contas.
+
+e) Os poderes administrativos devem ser utilizados para a realização do fim público que justificou a
+competência atribuída ao agente, ou seja, todo poder se vincula ao fim público.
+
+2. A respeito do poder vinculado e do poder discricionário, assinale a alternativa incorreta:
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                    42
+            www.estrategiaconcursos.com.br                                                                                                                       52
+
+                                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+a) O poder vinculado, também conhecido como regrado, ocorre quando uma lei, ao outorgar determinada
+competência ao agente público, não deixa nenhuma margem de liberdade para o seu exercício.
+
+b) O poder vinculado, sinônimo de ato vinculado, prevê uma única solução possível para determinado fato.
+
+c) O poder discricionário remete a uma margem de liberdade na atuação do agente público, conforme seu
+juízo de conveniência e oportunidade.
+
+d) A discricionariedade no ordenamento jurídico deve obedecer tanto aos limites impostos em lei quanto os
+limites impostos em princípios administrativos.
+
+e) A discricionariedade ocorre tanto na edição de um ato como na sua revogação.
+
+3. A respeito do poder disciplinar no âmbito da Administração Pública, é correto afirmar que:
+
+a) é aplicável apenas em relação aos servidores públicos estatutários, não aos empregados públicos
+celetistas.
+
+b) o servidor público flagrado em conduta antijurídica deve ser penalizado imediatamente, sob pena de
+perpetuação do prejuízo à Administração Pública e aos administrados.
+
+c) se manifesta em relação aos particulares quando estes descumprem regras emanadas pelo respectivo
+ente estatal.
+
+d) é possível sua incidência sobre sujeitos que não sejam servidores públicos.
+
+e) o direito ao contraditório e à ampla defesa estabelecem que o servidor público somente poderá ser
+afastado de suas atividades após o devido processo legal.
+
+4. O poder regulamentar da Administração pública consiste:
+
+a) em editar normas complementares à lei, para a sua fiel execução.
+
+b) na faculdade de valer-se do juízo de conveniência e oportunidade para praticar ato, o qual não comporta
+controle pelo Poder Judiciário.
+
+c) na possibilidade de distribuir e escalonar as funções de seus órgãos, ordenar e rever a atuação de seus
+agentes, estabelecendo a relação de hierarquia.
+
+d) na faculdade de apurar infrações e aplicar penalidades aos servidores públicos e demais pessoas sujeitas
+à disciplina administrativa.
+
+e) em condicionar ou restringir a liberdade e a propriedade, com o objetivo de ajustá-los ao interesse geral
+da coletividade.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               43
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 04
+
+5. Considere as seguintes assertivas:
+
+I – Poder de polícia é aquele que permite à Administração Pública restringir a conduta dos indivíduos e o
+exercício de determinados direitos em favor do interesse público.
+
+II – O poder regulamentar autoriza os chefes do Executivo a expedir atos normativos como leis e decretos
+autônomos para o fiel cumprimento da legislação em vigência.
+
+III – O poder hierárquico pode ser conceituado como aquele em que a Administração Pública possui
+amparo para apurar infrações e aplicar penalidades quando constatada a prática de infrações em relação
+aos servidores e às demais pessoas que detêm vínculo genérico com a Administração.
+
+IV – É possível a incidência do poder disciplinar sobre sujeitos que não sejam servidores públicos.
+
+Está correto o que consta em:
+
+(A) I e III.
+
+(B) I e IV.
+
+(C) II e IV.
+
+(D) I, II e IV.
+
+(E) III e IV.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          44
+           www.estrategiaconcursos.com.br                                                             52
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                                                  GABARITO
+
+                      1. C              2. B              3. D              4. A             5. B
+
+                                  QUESTÕES COMENTADAS
+1. Acerca dos poderes e deveres da Administração Pública, assinale o item incorreto:
+
+a) Podemos dizer que o regime jurídico administrativo permite que a Administração Pública fique em uma
+posição de superioridade na relação com os administrados, ao mesmo tempo em que limita a sua esfera de
+liberdade para atender aos direitos individuais e preservar o patrimônio público.
+
+b) Os poderes administrativos são irrenunciáveis.
+
+c) A omissão do agente, diante de situação que exige sua atuação, invariavelmente reflete na sua
+responsabilização nas esferas civil, administrativa e penal.
+
+d) Dentre os principais deveres administrativos, podemos citar o dever de eficiência, probidade e de prestar
+contas.
+
+e) Os poderes administrativos devem ser utilizados para a realização do fim público que justificou a
+competência atribuída ao agente, ou seja, todo poder se vincula ao fim público.
+
+Comentários
+
+Letra A - correta. A assertiva aborda o conceito de prerrogativas e sujeições próprias da Administração
+Pública.
+
+Letra B - correta. Os poderes administrativos são irrenunciáveis e devem ser obrigatoriamente exercidos pela
+Administração Pública.
+
+Letra C - incorreta. A omissão do agente, diante de situação que exigem sua atuação, caracteriza abuso de
+poder, podendo ensejar responsabilidade civil da administração pública pelos danos que porventura
+decorram da omissão ilegal, além de poder refletir sua responsabilização nas esferas administrativas e penal.
+O erro da questão está na afirmação de que toda omissão do agente acarreta na sua responsabilização nas
+três esferas (civil, administrativa e penal). É importante sempre ter cuidado com generalizações. Não poucas
+vezes, elas induzem o candidato a erro.
+
+Letra D - correta. Segundo Hely Lopes Meirelles, os principais deveres do administrator público são: dever
+de eficiência, dever de probidade e o dever de prestar contas. O dever de eficiência denota a atuação
+administrativa com qualidade, celeridade, economicidade, controle e demais atuações que remetem a uma
+"boa administração". O dever de probidade denota a observância de padrões éticos de comportamento, ou
+seja, relaciona-se à moralidade administrativa. O dever de prestar contas pressupõe que a Administração
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                45
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Pública deve comprovar como foi feita a administração, gestão e aplicação de bens públicos, dando assim
+transparência na forma como os recursos pertencentes à sociedade são aplicados pelo Poder Público.
+
+Letra E - correta. Os poderes administrativos são instrumentos pelos quais os órgãos públicos cumprem os
+seus deveres funcionais, ou seja, não existe poder dissociado da função pública. Segundo José dos Santos
+Carvalho Filho, os poderes administrativos são "prerrogativas de direito público que a ordem jurídica confere
+aos agentes administrativos para o fim de permitir que o Estado alcance seus fins".
+
+Gabarito: Letra C
+
+2. A respeito do poder vinculado e do poder discricionário, assinale a alternativa incorreta:
+
+a) O poder vinculado, também conhecido como regrado, ocorre quando uma lei, ao outorgar determinada
+competência ao agente público, não deixa nenhuma margem de liberdade para o seu exercício.
+
+b) O poder vinculado, sinônimo de ato vinculado, prevê uma única solução possível para determinado fato.
+
+c) O poder discricionário remete a uma margem de liberdade na atuação do agente público, conforme seu
+juízo de conveniência e oportunidade.
+
+d) A discricionariedade no ordenamento jurídico deve obedecer tanto aos limites impostos em lei quanto os
+limites impostos em princípios administrativos.
+
+e) A discricionariedade ocorre tanto na edição de um ato como na sua revogação.
+
+Comentários
+
+Letra A - correta. A característica do poder vinculado é justamente a obrigação do agente público, ao se
+deparar com a situação prevista na lei, atuar exatamente na forma prevista desta lei. Por exemplo, se uma
+lei determinar que levar bebida alcoólica para dentro de uma escola é punível com multa de R$100,00, o
+agente público, ao se deparar com um cidadão, com bebida alcoólica, dentro de uma escola, o multará em
+R$100,00.
+
+Letra B - incorreta. Poder vinculado não é sinônimo de ato vinculado. O ato vinculado é uma manifestação
+do poder vinculado, que ocorre quando todos os elementos dos atos administrativos são vinculados. Isto é,
+quando a competência, a finalidade, a forma, o motivo e o objeto do ato administrativo forem inteiramente
+vinculados.
+
+Letra C - correto. No poder discricionário, o agente público possui alguma margem de liberdade de atuação,
+ou seja, o agente poderá usar o seu juízo de conveniência e oportunidade e decidirá com base no mérito
+administrativo. Por exemplo, se uma lei determinar que levar bebida alcoólica para dentro de uma escola é
+punível com multa de até R$ 500,00 reais, o agente público, ao se deparar com um cidadão com bebida
+alcoólica dentro de uma escola, o multará de acordo com seu juízo de razoabilidade e proporcionalidade,
+observado o limite e eventualmente os critérios de gradação da penalidade previstos em lei.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                46
+         www.estrategiaconcursos.com.br                                                                   52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra D - correto. A discricionariedade é limitada na lei (quando o próprio legislador define as margens de
+liberalidade para a prática do ato) e nos princípios (especialmente o da proporcionalidade, pelo qual há de
+observar o meio menos gravoso e suficiente para se alcançar o resultado pretendido).
+
+Letra E - correto. A revogação é o desfazimento de um ato válido por razões de conveniência e oportunidade.
+Por exemplo, na hipótese de uma prefeitura autorizar a venda de refresco na praça da cidade para hidratar
+os cidadãos nos dias mais quentes do ano (ato discricionário), mas que depois resolve revogar o ato por
+constatar que nos próximos dias haverá a chegada de uma frente fria. No caso apresentado, houve
+discricionariedade tanto para a edição do ato quanto para a sua revogação.
+
+Gabarito: Letra B
+
+3. A respeito do poder disciplinar no âmbito da Administração Pública, é correto afirmar que:
+                                                         ==219a34==
+
+a) é aplicável apenas em relação aos servidores públicos estatutários, não aos empregados públicos
+celetistas.
+
+b) o servidor público flagrado em conduta antijurídica deve ser penalizado imediatamente, sob pena de
+perpetuação do prejuízo à Administração Pública e aos administrados.
+
+c) se manifesta em relação aos particulares quando estes descumprem regras emanadas pelo respectivo
+ente estatal.
+
+d) é possível sua incidência sobre sujeitos que não sejam servidores públicos.
+
+e) o direito ao contraditório e à ampla defesa estabelecem que o servidor público somente poderá ser
+afastado de suas atividades após o devido processo legal.
+
+Comentários
+
+Letra A - incorreta. O poder disciplinar é aplicável tanto aos servidores públicos estatutários quanto aos
+empregados públicos celetistas. Na verdade, é aplicável a toda a administração pública.
+
+Letra B - incorreta. A aplicação de penalidades aos servidores públicos não dispensa a observação do
+contraditório, da ampla defesa e do devido processo legal.
+
+Letra C - incorreta. O poder disciplinar se manifesta apenas em relação àqueles que mantêm vínculo
+específico com a Administração Pública, não em relação àqueles que possuem vínculo genérico, como é o
+caso dos particulares, geralmente.
+
+Letra D - correta. O poder disciplinar é aplicável a todos aqueles que possuem vínculo específico com a
+Administração Pública, como os servidores públicos no exercício de suas atribuições funcionais e os
+particulares que possuam contrato ou convênio (em sentido amplo) com a entidade estatal. Observe que,
+no presente caso, está-se diante de um vínculo específico (e não genérico).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              47
+         www.estrategiaconcursos.com.br                                                                 52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+Letra E - incorreta. O servidor pode ser afastado preventivamente do seu cargo mesmo antes do
+encerramento do processo administrativo. Vide, por exemplo, no caso de servidores públicos federais, o art.
+147, caput, da Lei nº 8.112/1990:
+
+      Art. 147. Como medida cautelar e a fim de que o servidor não venha a influir na apuração da
+      irregularidade, a autoridade instauradora do processo disciplinar poderá determinar o seu
+      afastamento do exercício do cargo, pelo prazo de até 60 (sessenta) dias, sem prejuízo da
+      remuneração.
+
+Gabarito: Letra D
+
+4. O poder regulamentar da Administração pública consiste:
+
+a) em editar normas complementares à lei, para a sua fiel execução.
+
+b) na faculdade de valer-se do juízo de conveniência e oportunidade para praticar ato, o qual não comporta
+controle pelo Poder Judiciário.
+
+c) na possibilidade de distribuir e escalonar as funções de seus órgãos, ordenar e rever a atuação de seus
+agentes, estabelecendo a relação de hierarquia.
+
+d) na faculdade de apurar infrações e aplicar penalidades aos servidores públicos e demais pessoas sujeitas
+à disciplina administrativa.
+
+e) em condicionar ou restringir a liberdade e a propriedade, com o objetivo de ajustá-los ao interesse geral
+da coletividade.
+
+Comentários
+
+Letra A - correta. Poder regulamentar é a prerrogativa do chefe do Poder Executivo de editar privativamente
+certos atos administrativos normativos, sendo materializada mediante decretos e regulamentos de
+execução.
+
+Vejamos o que diz a professora Maria Sylvia Di Pietro sobre o tem:
+
+         É uma das formas pelas quais se expressa a função normativa do Poder Executivo. Pode ser
+         definido como o que cabe ao chefe do Poder Executivo da União, dos Estados e dos
+         Municípios, de editar normas complementares à lei, para fiel execução.
+
+Letra B - incorreta. Valer-se do juízo de conveniência e oportunidade para praticar ato é a descrição do poder
+discricionário. Contudo, importa destacar que pode haver, sim, controle do Poder Judiciário, o qual deve se
+restringir aos aspectos vinculados do ato, sem avaliar os critérios de conveniência e oportunidade,
+respeitando a discricionariedade administrativa nos limites legais.
+
+Letra C - incorreta. A assertiva trata, na verdade, do poder hierárquico.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 48
+         www.estrategiaconcursos.com.br                                                                    52
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+   Aula 04
+
+Letra D - incorreta. A assertiva se refere ao poder disciplinar.
+
+Letra E - incorreta. O texto aponta para o poder de polícia.
+
+Gabarito: Letra A
+
+5. Considere as seguintes assertivas:
+
+I – Poder de polícia é aquele que permite à Administração Pública restringir a conduta dos indivíduos e o
+exercício de determinados direitos em favor do interesse público.
+
+II – O poder regulamentar autoriza os chefes do Executivo a expedir atos normativos como leis e decretos
+autônomos para o fiel cumprimento da legislação em vigência.
+
+III – O poder hierárquico pode ser conceituado como aquele em que a Administração Pública possui
+amparo para apurar infrações e aplicar penalidades quando constatada a prática de infrações em relação
+aos servidores e às demais pessoas que detêm vínculo genérico com a Administração.
+
+IV – É possível a incidência do poder disciplinar sobre sujeitos que não sejam servidores públicos.
+
+Está correto o que consta em:
+
+(A) I e III.
+
+(B) I e IV.
+
+(C) II e IV.
+
+(D) I, II e IV.
+
+(E) III e IV.
+
+Comentários
+
+Item I – correto. O poder de polícia permite à Administração Pública restringir a atuação do indivíduo ou
+condicionar direitos ao cumprimento de determinados requisitos, com o objetivo de preservar, em regra, a
+supremacia do interesse público sobre o interesse particular.
+
+Item II - incorreto. O poder regulamentar é a prerrogativa do chefe do Poder Executivo de editar
+privativamente certos atos administrativos normativos, sendo materializada mediante decretos e
+regulamentos de execução e decretos autônomos – não entrando as “leis” nesse rol.
+
+Item III – incorreto. O poder hierárquico tem como finalidade a organização da Administração Pública, que
+pode distribuir e escalonar as funções dos seus órgãos, definindo os limites da competência de cada um dos
+agentes, ordenar, coordenar e controlar as atividades administrativas. Outrossim, o poder hierárquico se
+manifesta entre a Administração Pública e outra parte que possua vínculo específico, e não genérico, com
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           49
+           www.estrategiaconcursos.com.br                                                              52
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+      Aula 04
+
+ela. Por exemplo, empresas contratadas pelo ente público possuem vínculo específico, enquanto particulares
+possuem, em geral, vínculo genérico com a entidade estatal.
+
+Item IV – correto. O poder disciplinar é aplicável a todos aqueles que possuem vínculo específico com a
+Administração Pública, como os servidores públicos no exercício de suas atribuições funcionais e os
+particulares que possuam contrato com a entidade estatal.
+
+Gabarito: Letra B
+
+...
+
+Forte abraço!
+
+                                                   Túlio Lages
+
+                                          Face: www.facebook.com/proftuliolages
+
+                                         Insta: www.instagram.com/proftuliolages
+
+                                           YouTube: youtube.com/proftuliolages
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          50
+            www.estrategiaconcursos.com.br                                                             52
+
+                                         
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+    Tulio
+  Aula 04
+
+                            REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para concursos. 2.
+ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo               51
+         www.estrategiaconcursos.com.br                                                                  52
+
+                                      
+
+
+---
+
+---

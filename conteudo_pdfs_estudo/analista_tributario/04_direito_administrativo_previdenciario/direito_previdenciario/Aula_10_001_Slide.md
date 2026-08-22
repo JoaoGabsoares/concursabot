@@ -1,0 +1,517 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+---
+
+# ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+PRIMEIRAS MANIFESTAÇÕES DE MECANISMO PROTETIVO
+EM TERRITÓRIO NACIONAL
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                   Primeiras manifestações protetivas em território nacional
+
+Prof. Rubens Mauricio
+
+                                      
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+SEGURO DE ACIDENTE DO TRABALHO - SAT
+
+                    
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Seguro de acidentes do trabalho - SAT
+
+Prof. Rubens Mauricio
+
+                                 
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+LEI ELOY CHAVES   MARCO INICIAL DA PREVIDÊNCIA SOCIAL NO BRASIL
+
+                      
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                                Marco Inicial
+
+                                                              ´
+
+Prof. Rubens Mauricio
+
+                         
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                                  Importante
+
+                                                              ´
+
+Prof. Rubens Mauricio
+
+                         
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+CAIXAS DE APOSENTADORIAS E PENSÕES                       CAP´S
+
+                    
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                            Caixas de Aposentadorias e Pensões
+                                        CAP´s (1923)
+
+                        ´
+
+Prof. Rubens Mauricio
+
+                                    
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Caixas de Aposentadorias e Pensões
+                                    CAP´s (1923)
+
+                                                                     ´
+
+Prof. Rubens Mauricio
+
+                                
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+INSTITUTOS DE APOSENTADORIA E PENSÃO                      IAP´S
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Institutos de Aposentadoria e Pensão
+                                      IAP´s (1933)
+
+                                                                     ´
+
+                                 ´                  ´
+
+Prof. Rubens Mauricio
+
+                                
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Institutos de Aposentadoria e Pensão
+                                      IAP´s (1933)
+
+                         ´
+
+Prof. Rubens Mauricio
+
+                                
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+LEI ORGÂNICA DA PREVIDÊNCIA SOCIAL                        LOPS
+(UNIFORMIZAÇÃO E UNIFICAÇÃO)
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+             Uniformização e Unificação Lei Orgânica da Previdência Social
+                                     LOPS (1960)
+
+                                                                       ´
+
+Prof. Rubens Mauricio
+
+                                  
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+FUNRURAL
+
+           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                                  FUNRURAL
+
+Prof. Rubens Mauricio
+
+                         
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                                  PRORURAL
+
+Prof. Rubens Mauricio
+
+                         
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                                  FUNRURAL
+
+Prof. Rubens Mauricio
+
+                         
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL - INPS
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Instituto Nacional de Previdência Social
+                                       INPS (1967)
+
+                                  ´
+
+Prof. Rubens Mauricio
+
+                                  
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+SISTEMA NACIONAL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL - SINPAS
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Sistema Nacional de Previdência e Assistência Social
+                                  (lei nº 6.439/77) - SINPAS (1977)
+
+Prof. Rubens Mauricio
+
+                                        
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Sistema Nacional de Previdência e Assistência Social
+                                  (lei nº 6.439/77) - SINPAS (1977)
+
+Prof. Rubens Mauricio
+
+                                        
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Instituto Nacional do Seguro Social
+                                    INSS (1990)
+
+Prof. Rubens Mauricio
+
+                                
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+A PREVIDÊNCIA SOCIAL NAS CONSTITUIÇÕES
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1891
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1934
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1937
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1946
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Emenda Constitucional 11/1965
+
+Prof. Rubens Mauricio
+
+                             
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1967
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Emenda Constitucional 18/1981
+
+Prof. Rubens Mauricio
+
+                             
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Constituição Federal 1988
+
+Prof. Rubens Mauricio
+
+                           
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Emenda Constitucional 20/1998
+
+Prof. Rubens Mauricio
+
+                             
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Emenda Constitucional 41/2003
+
+Prof. Rubens Mauricio
+
+                             
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                        Emenda Constitucional 47/2005
+
+Prof. Rubens Mauricio
+
+                             
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+
+                   Emenda Constitucional 103/2019 (Reforma da Previdência)
+
+Prof. Rubens Mauricio
+
+                                     
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+SECRETARIA DA RECEITA PREVIDENCIÁRIA - SRP
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Secretaria da Receita Previdenciária
+                                     SRP (2005)
+
+Prof. Rubens Mauricio
+
+                                
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+SECRETARIA DA RECEITA FEDERAL DO BRASIL - RFB
+
+                     
+
+
+---
+
+        Origem e Evolução Legislativa da
+        Seguridade Social no Brasil
+                        Secretaria da Receita Federal do Brasil
+                                      RFB (2007)
+
+Prof. Rubens Mauricio
+
+                                  
+
+
+---
+
+Rubens Maurício
+  @profrubensmauricio
+  Previdenciário Diagramado
+
+      
+
+
+---

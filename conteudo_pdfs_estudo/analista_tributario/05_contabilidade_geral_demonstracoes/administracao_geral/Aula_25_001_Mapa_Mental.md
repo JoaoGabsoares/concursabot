@@ -1,0 +1,178 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 25_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '25'
+titulo_aula: ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+---
+
+# ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+
+                              CPC 31 - ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA
+
+
+CLASSIFICAÇÃO
+
+
+      •    Classifica-se um ativo não circulante como mantido para venda se o seu valor contábil vai ser recuperado, principalmente,
+           por meio da VENDA em vez do uso contínuo.
+
+
+      •    O ativo não circulante MANTIDO PARA VENDA é classificado separadamente no ATIVO CIRCULANTE.
+
+
+      •    O ativo/grupo de ativos mantido para venda deve estar disponível para venda IMEDIATA em suas condições atuais, sujeito
+           apenas aos termos que sejam habituais e costumeiros para venda de tais ativos.
+
+
+      •    A venda do ativo deve ser altamente provável, para isso
+
+                           o O nível hierárquico de gestão apropriado deve estar comprometido com o plano de venda do ativo.
+
+                           o Deve ter sido iniciado um programa firme para localizar um comprador e concluir o plano.
+
+                                                                                                                  CONTABILIDADE GERAL
+                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+    ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+
+                        CPC 31 - ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA
+
+
+CLASSIFICAÇÃO
+
+
+•    O ativo mantido para venda deve ser efetivamente colocado à venda por preço que seja razoável em relação ao seu valor justo
+     corrente.
+
+•    Espera-se que a venda se qualifique como concluída em até 1 ano a partir da data da classificação.
+
+                   o A extensão/prorrogação do período de 1 ano não impede que o ativo continue classificado como
+                     mantido para venda se:
+
+                                 O atraso for causado por acontecimentos ou circunstâncias fora do controle da entidade.
+
+                                 Há evidência suficiente de que a entidade continua comprometida com o seu plano de venda do
+                                  ativo.
+     •   As ações necessárias para concluir o plano devem indicar que é IMPROVÁVEL que possa haver alterações significativas
+         no plano ou que o plano possa ser abandonado.
+
+     •   O ativo não circulante (ou grupo de ativos) é classificado como mantido para distribuição aos sócios quando a
+         entidade está comprometida para distribuir esse ativo/grupo aos proprietários.
+
+      Seguem as mesmas regras dos ativos mantidos para venda.                                                 CONTABILIDADE GERAL
+                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+        ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+
+   MENSURAÇÃO                  • O ativo não circulante mantido para venda deve ser mensurado/contabilizado pelo MENOR
+                                 valor entre
+                                           o valor contábil (-) depreciação/amortização/perdas.
+                                           o valor justo (-) despesas de venda.
+
+
+DEPRECIAÇÃO/AMORTIZAÇÃO                         • Atenção: ativo mantido para venda NÃO deve ser depreciado/amortizado.
+
+ATIVO NÃO CIRCULANTE A SER     • A entidade não deve classificar como mantido para venda o ativo não circulante ou o
+         BAIXADO                 grupo de ativos destinado a ser baixado.
+
+
+                                       •     Ativos mantidos para venda estão sujeitos ao teste de recuperabilidade.
+
+                                       •     É reconhecida a perda por redução relativa a qualquer redução inicial ou posterior
+                                             do ativo mantido para venda.
+
+                                               o Atenção: é possível reconhecer o ganho para qualquer aumento posterior no
+RECONHECIMENTO DE PERDA POR                      valor justo menos as despesas de venda de um ativo, limitado à perda por
+REDUÇÃO AO VALOR RECUPERÁVEL                     redução ao valor recuperável acumulada.
+
+                                       •     O valor recuperável do ativo é o valor justo (-) despesas de venda.
+
+                                               o Não se utiliza o valor em uso, pois o ativo será recuperado apenas pela venda
+                                                 (e não pelo uso contínuo).
+                                                                                                             CONTABILIDADE GERAL
+                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+            ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+
+  RECLASSIFICAÇÃO DO ATIVO QUE DEIXA DE SER MANTIDO PARA VENDA
+
+
+• O ativo/grupo que deixa de ser classificado como mantido para venda/distribuição é reclassificado/mensurado pelo MENOR valor entre:
+
+
+    o   o valor contábil antes do ativo/grupo ser classificado como mantido para venda (-) depreciação/amortização.
+    o   O montante recuperável avaliado após a decisão de não vender/ distribuir.
+
+ OPERAÇÃO DESCONTINUADA
+
+
+• Operação descontinuada é um componente da entidade que foi baixado ou está classificado como mantido para venda e:
+
+    o   Representa uma importante linha separada de negócios ou área geográfica de operações.
+    o   É parte integrante de um único plano coordenado para venda de uma importante linha separada de negócios ou área geográfica
+        de operações ou
+    o   É uma controlada adquirida exclusivamente com o objetivo da revenda.
+
+                                                                                                                         CONTABILIDADE GERAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+          ATIVO NÃO CIRCULANTE MANTIDO PARA VENDA E OPERAÇÃO DESCONTINUADA
+
+
+     APRESENTAÇÃO
+
+              • O resultado das operações descontinuadas deve ser evidenciado em um montante único na DRE.
+
+                           o   O resultado é apresentado pelo montante líquido dos impostos.
+
+                           o Inclui ganhos/perdas (líquidos dos impostos) reconhecidos.
+
+                                       Na mensuração pelo valor justo (-) despesas de venda.
+                                       Na baixa de ativos/grupos mantidos para venda que constituam a operação descontinuada.
+
+
+              • Deve ser feita uma análise do montante único das operações descontinuadas nas notas explicativas ou na DRE.
+
+
+                           o   Se a análise for na DRE, deve ser apresentada em seção identificada e relacionada com as operações
+                               descontinuadas (separada das continuadas).
+                           o   Exceção à análise: controlada recém-adquirida que atendeu ao critério para ser classificada como mantida
+                               para venda.
+
+• Na DRE, o resultado das operações descontinuadas deve ser apresentado SEPARADAMENTE dos resultados
+  operacionais.
+
+
+                                                                                                                     CONTABILIDADE GERAL
+                                                                                  ESTRATÉGIA CONCURSOS
+
+
+---

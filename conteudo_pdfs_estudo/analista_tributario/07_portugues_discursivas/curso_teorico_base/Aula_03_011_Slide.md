@@ -1,0 +1,423 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 03_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: ANAF
+---
+
+# ANAF
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRI
+
+ANAF
+                                                 Profª. Adriana Figueiredo
+
+            
+
+
+---
+
+MISCELÂNEA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+FGV - 2025 - CPRM - Analista em Geociências - Administração
+
+ No trecho: “Por mais que os efeitos da mudança climática venham ficando cada dia
+ mais evidentes no planeta, enfrentar as suas causas tem-se mostrado uma tarefa
+ imensamente complexa.”, a locução conjuntiva em destaque poderia ser substituída,
+ sem alteração de sentido, por
+
+ A) porquanto.
+
+ B) conquanto.
+
+ C) dado que.
+
+ D) como.
+
+ E) à medida que.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Assistente Previdenciário
+
+ Entre os segmentos de cada opção abaixo há um conector. Assinale a frase em que o
+ sentido desse conector é corretamente expresso.
+
+ A) Ande com um caderninho na bolsa / e anote tudo – oposição.
+
+ B) Anote tudo o que gasta / para saber para onde está indo seu dinheiro – finalidade.
+
+ C) Deixe em casa cartões de crédito / e cheques – alternância.
+
+ D) Só compre pela internet ou por telefone / se for algo necessário – modo.
+
+ E) Estabeleça um limite em dinheiro / para carregar na carteira – lugar.
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+FGV - 2024 - Prefeitura de Macaé - RJ - Analista Previdenciário
+ Os elementos de coesão estão destacados em todas as frases a seguir. Assinale o
+ conector que tem seu valor semântico corretamente indicado.
+
+ A) Conforme o noticiário da noite, as reportagens do jornal paulista vão acrescentar
+ novas informações à discussão. / semelhança.
+
+ B) As mudanças meteorológicas modificarão o sistema de plantio, por conseguinte o
+ país poderá começar a produzir frutos diferentes. / explicação.
+
+ C) Todos os atletas participaram da competição, exceto os que já tinham sido eliminados
+ nas provas anteriores. / ressalva.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - Prefeitura de Macaé - RJ - Analista Previdenciário
+ Os elementos de coesão estão destacados em todas as frases a seguir. Assinale o
+ conector que tem seu valor semântico corretamente indicado.
+
+
+ D) A polícia chegou imediatamente, pegando os meliantes em flagrante delito.
+ / duração de tempo.
+
+ E) Os prêmios serão possivelmente pagos ainda esta semana. / afirmação.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV - 2024 - ADAB - Técnico em Fiscalização - Agropecuária
+ Em todas as frases abaixo, um determinado conector foi substituído por outro com o
+ mesmo significado.
+ Assinale a opção em que essa substituição foi feita corretamente.
+
+ A) Todos os ingressos do show foram vendidos, embora houvesse promessa de chuva /
+ ainda que.
+
+ B) À medida que o público chegava, os problemas foram surgindo / Assim que.
+
+ C) O estádio não ficou cheio pois os preços dos ingressos estavam altos / assim.
+
+ D) O prefeito deu início à festa assim que o presidente chegou / já que.
+
+ E) Havia muita gente na festa, no entanto o lucro foi pequeno / portanto.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+FGV - 2024 - TJ-SC - Analista Administrativo
+ Num texto argumentativo, é frequente a presença de argumentadores lógicos. A opção
+ em que o exemplo dado tem o valor de seu conector lógico corretamente indicado é:
+
+ A) Os acidentes de trânsito provocam a morte de muitas pessoas além de trazerem
+ grande prejuízo ao transporte de mercadorias, que fica paralisado por horas / conector
+ lógico que permite a comparação entre dois fatos;
+
+ B) Os adolescentes abandonam o lar materno quando crescem; do mesmo modo, os
+ pássaros deixam o ninho assim que aprendem a voar / conector lógico que permite
+ acrescentar um argumento novo;
+
+ C) Os produtos estrangeiros são bem-conceituados no mercado brasileiro; no entanto,
+ alguns produtos nacionais são bem superiores aos estrangeiros / conector lógico que
+ expressa a razão de um fato;
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - TJ-SC - Analista Administrativo
+ Num texto argumentativo, é frequente a presença de argumentadores lógicos. A opção
+ em que o exemplo dado tem o valor de seu conector lógico corretamente indicado é:
+
+ D) Ainda que as estradas estejam em mau estado de conservação, as pessoas ainda
+ mantêm o prazer de viajar nas férias / conector lógico que permite mostrar a
+ consequência, o ponto de chegada de uma ideia;
+
+ E) É muito arriscado que, nas viagens, os turistas contem somente com os cartões de
+ crédito como meios de pagamento, dado que a tecnologia pode trazer surpresas
+ desagradáveis / conector lógico que expressa a razão de um fato.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Assistente Social
+
+ PARÁGRAFOS 6-8
+
+      Aqui, nessa pelada inocente é que se pode sentir a pureza de uma bola. Afinal,
+ trata-se de uma bola profissional, um número cinco, cheia de carimbos ilustres: “Copa
+ Rio-Oficial”, “FIFA – Especial”. Uma bola assim, toda de branco, coberta de
+ condecorações por todos os gomos (gomos hexagonais!), jamais seria barrada em
+ recepção do Itamaraty.
+      No entanto, aí está ela, correndo para cima e para baixo, na maior farra do
+ mundo, disputada, maltratada até, pois, de quando em quando, acertam-lhe um bico,
+ ela sai zarolha, vendo estrelas, coitadinha.
+      Racha é assim mesmo: tem bico, mas tem também sem-pulo de craque como
+ aquele do Tona, que empatou a pelada e que lava a alma de qualquer bola. Uma
+ pintura.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Assistente Social
+
+ PARÁGRAFOS 9-11
+
+      Nova saída.
+      Entra na praça batendo palmas como quem enxota galinha no quintal. É um velho
+ com cara de guarda-livros que, sem pedir licença, invade o universo infantil de uma
+ pelada e vai expulsando todo mundo. Num instante, o campo está vazio, o mundo está
+ vazio. Não deu tempo nem de desfazer as traves feitas de camisas.
+      O espantalho-gente pega a bola, viva, ainda, tira do bolso um canivete e dá-lhe a
+ primeira espetada. No segundo golpe, a bola começa a sangrar.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+ FGV - 2024 - Prefeitura de Macaé - RJ - Assistente Social
+ Assinale a opção que apresenta o valor semântico do conector corretamente indicado.
+ A) Afinal, trata-se de uma bola profissional, uma número cinco, cheia de carimbos
+ ilustres: / conclusão.
+
+ B) No entanto, aí está ela, correndo para cima e para baixo, na maior farra do mundo
+ / justificativa.
+
+ C) ...disputada, maltratada até, pois, de quando em quando, acertam-lhe um bico, ela
+ sai zarolha, vendo estrelas, coitadinha / explicação.
+
+ D) Racha é assim mesmo: tem bico, mas tem também sem-pulo de craque como aquele
+ do Tona, que empatou a pelada / adição.
+
+ E) O espantalho-gente pega a bola, viva, ainda, tira do bolso um canivete e dá-lhe a
+ primeira espetada / tempo.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV - 2024 - TJ-MT - Técnico Judiciário
+ As      frases     abaixo      estão     divididas     em      dois      segmentos.
+ Assinale a frase em que a relação entre esses dois segmentos é, respectivamente, de
+ causa e consequência.
+
+ A) Todo mundo precisa crer em algo. / Creio que vou tomar uma cerveja.
+
+ B) Nem tudo o que se enfrenta pode ser modificado, / mas nada pode ser modificado
+ até que seja enfrentado.
+
+ C) O sábio busca a sabedoria; / o tolo a encontrou.
+
+ D) Mestre não é quem sempre ensina, / mas quem de repente aprende.
+
+ E) Sabedoria é saber o que fazer; / virtude é saber fazê-lo.
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+ FGV - 2025 - CNU - Bloco Temático 8: Intermediário
+ 9º parágrafo
+
+
+ A próxima Conferência do Clima da ONU (COP 30), marcada para ocorrer em Belém, traz
+ uma oportunidade histórica. Precisamos colocar a saúde climática no centro das
+ discussões. A crise ambiental também é uma crise de saúde e justiça social. E a ciência
+ tem muito a contribuir com soluções baseadas em dados e equidade.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+ FGV - 2025 - CNU - Bloco Temático 8: Intermediário
+ “Precisamos colocar a saúde climática no centro das discussões. A crise ambiental
+ também é uma crise de saúde e justiça social.” (Texto 1, 9º parágrafo)
+
+ A passagem acima é composta por dois períodos. É possível, no entanto, reescrevê-la
+ em um período único.
+ A alternativa em que essa reescritura preserva o sentido original é a seguinte:
+
+ A) Precisamos colocar a saúde climática no centro das discussões, pois a crise ambiental
+ também é uma crise de saúde e justiça social.
+
+ B) Precisamos colocar a saúde climática no centro das discussões, embora a crise
+ ambiental também seja uma crise de saúde e justiça social.
+
+ C) Precisamos colocar a saúde climática no centro das discussões; contudo, a crise
+ ambiental também é uma crise de saúde e justiça social.
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+ FGV - 2025 - CNU - Bloco Temático 8: Intermediário
+ “Precisamos colocar a saúde climática no centro das discussões. A crise ambiental
+ também é uma crise de saúde e justiça social.” (Texto 1, 9º parágrafo)
+
+ A passagem acima é composta por dois períodos. É possível, no entanto, reescrevê-la
+ em um período único.
+ A alternativa em que essa reescritura preserva o sentido original é a seguinte:
+
+
+ D) Precisamos colocar a saúde climática no centro das discussões, desde que a crise
+ ambiental também seja uma crise de saúde e justiça social.
+
+ E) Precisamos colocar a saúde climática no centro das discussões; consequentemente, a
+ crise ambiental também é uma crise de saúde e justiça social.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas
+As frases a seguir foram reescritas, com a substituição da oração sublinhada por outra,
+precedida do conector entre parênteses.
+Assinale a opção em que isso foi feito de forma adequada.
+
+A) Poucos espectadores puderam acompanhar o filme, que usava palavras
+desconhecidas nas falas. (uma vez que) / Poucos espectadores puderam acompanhar o
+filme, uma vez que se usavam palavras desconhecidas nas falas.
+
+B) Os empregados, que não podiam mais trabalhar naquele dia, foram dispensados.
+(como) / Os empregados foram dispensados, como não podiam mais trabalhar naquele
+dia.
+
+C) As pessoas não gostam muito de boxe, que é um esporte violento demais. (em
+consequência de) / As pessoas não gostam muito de boxe, em consequência de que ele é
+um     esporte violento demais.
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas
+As frases a seguir foram reescritas, com a substituição da oração sublinhada por outra,
+precedida do conector entre parênteses.
+Assinale a opção em que isso foi feito de forma adequada.
+
+D) O técnico, que estava aborrecido com a derrota, resolveu suspender o treinamento.
+(visto que) / O técnico, visto que estivesse aborrecido com a derrota, resolveu suspender
+o treinamento.
+
+E) Os alunos, que haviam estudado muito, fizeram as provas com perfeição. (em virtude
+de) / Em virtude de haviam estudado muito, os alunos fizeram as provas com perfeição.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2023 - TCE-SP - Agente da Fiscalização - TI
+Todas as frases abaixo foram reescritas de modo a ser incluído um conectivo adequado,
+com as modificações necessárias.
+A frase em que essa reescritura foi corretamente feita, é:
+
+A) Chovia muito. Resolvemos, no entanto, realizar o passeio pela trilha na mata mineira /
+Apesar de estar chovendo muito, resolvemos, no entanto, realizar o passeio pela trilha na
+mata mineira;
+
+B) O esclarecimento do advogado foi claro, mas o cliente ainda tinha dúvidas sobre o
+caso / Já que o esclarecimento do advogado foi claro, o cliente ainda tinha dúvidas sobre
+o caso;
+
+C) A maioria dos senadores era a favor do projeto, por isso ele foi aprovado / A despeito
+de a maioria dos senadores ser a favor do projeto, ele foi aprovado;
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2023 - TCE-SP - Agente da Fiscalização - TI
+Todas as frases abaixo foram reescritas de modo a ser incluído um conectivo adequado,
+com as modificações necessárias.
+A frase em que essa reescritura foi corretamente feita, é:
+
+D) Nossa loja não possuía estoque suficiente, não pode satisfazer, pois, o novo cliente /
+Conforme nossa loja não possuía estoque suficiente, não pôde satisfazer o novo cliente;
+
+E) Não foi possível compreender a resposta do ministro, de maneira que pedi que
+repetisse / Como não compreendi a resposta do ministro, pedi que repetisse.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+                     @professoraadrianafigueiredo
+
+              youtube.com/user/professoraadrianaf
+
+               facebook.com/prof.adriana.figueiredo
+
+
+                 
+
+
+---
+
+---

@@ -1,0 +1,869 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: 28/08/2020
+artigos_citados:
+- art. 33
+- art. 34
+- art. 3º
+---
+
+# 28/08/2020
+
+28/08/2020
+
+                                 IRPF
+                         REND. ISENTOS/NÃO
+                            TRIBUTÁVEIS
+                               PARTE 1
+
+
+80
+
+     IRPF – Fato Gerador
+        Fato gerador: aquisição de disponibilidade jurídica de renda e proventos de
+        qualquer natureza.
+
+        Renda → produto do capital, do trabalho ou da combinação de ambos;
+
+        Proventos de qualquer natureza → outros acréscimos patrimoniais distintos de
+        renda.
+
+ Legislação Tributária
+                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+81
+
+                                                               1
+
+
+---
+
+                                                                                            28/08/2020
+
+     IRPF – Fato Gerador
+     ❑ O IRPF incide sobre o rendimento bruto. (Lei 7.713/88, art. 3º)
+
+
+     ❑ Constituem rendimento bruto todo:
+
+             ❑ Produto do capital, do trabalho ou da combinação de ambos;
+
+             ❑ Os alimentos e as pensões percebidos em dinheiro;
+
+             ❑ Os proventos de qualquer natureza; e
+
+             ❑ Os acréscimos patrimoniais não correspondentes aos rendimentos declarados.
+               (RIR/18, art. 33)
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+82
+
+     IRPF – Fato Gerador
+     ❑ A tributação independe da denominação dos rendimentos, dos títulos ou dos
+       direitos, da localização, da condição jurídica ou da nacionalidade da fonte, da
+       origem dos bens produtores da renda e da forma de percepção das rendas ou dos
+       proventos, sendo suficiente, para a incidência do imposto sobre a renda, o
+       benefício do contribuinte por qualquer forma e a qualquer título (RIR/18,
+       art. 34)
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+83
+
+                                                                   2
+
+
+---
+
+                                                                                                28/08/2020
+
+     QUESTÃO INÉDITA
+         A tributação dos rendimentos da pessoa física depende da sua nacionalidade.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                              @ProfFabioDutra
+
+
+84
+
+     IRPF – Fato Gerador
+     ❑ Sem prejuízo do ajuste anual, se for o caso, os rendimentos serão tributados no
+       mês em que forem recebidos, considerado como tal aquele da entrega de recursos
+       pela fonte pagadora, inclusive por meio de depósito em instituição financeira em
+       favor do beneficiário. (RIR/18, art. 34, par. único)
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+85
+
+                                                                       3
+
+
+---
+
+                                                                                             28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ a alimentação, o transporte e os uniformes ou as vestimentas especiais de
+               trabalho, fornecidos gratuitamente pelo empregador a seus empregados, ou a
+               diferença entre o preço cobrado e o valor de mercado;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+86
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o auxílio-alimentação pago em pecúnia aos servidores públicos federais civis
+               ativos da administração pública federal direta, autárquica e fundacional;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+87
+
+                                                                    4
+
+
+---
+
+                                                                                             28/08/2020
+
+     QUESTÃO INÉDITA
+        João, servidor público federal, recebeu da Uniãio ao longo do ano-calendário 2019,
+        determinado valor a título de auxílio-alimentação. Este rendimento é considerado
+        tributável pela legislação do imposto de renda das pessoas físicas.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                           @ProfFabioDutra
+
+
+88
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o valor recebido de pessoa jurídica de direito público a título de auxílio-
+               moradia, não integrante da remuneração dos beneficiários, em substituição ao
+               direito de uso de imóvel funcional;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+89
+
+                                                                    5
+
+
+---
+
+                                                                                               28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o auxílio-transporte em pecúnia, pago pela União, destinado ao custeio parcial
+               das despesas realizadas com transporte coletivo municipal, intermunicipal ou
+               interestadual pelos militares, pelos servidores e pelos empregados públicos da
+               administração pública federal direta, autárquica e fundacional da União, nos
+               deslocamentos de suas residências para os locais de trabalho e vice-versa;
+
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+90
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ a indenização de transporte a servidor público da União que realizar despesas
+               com a utilização de meio próprio de locomoção para a execução de serviços
+               externos por força das atribuições do cargo;
+
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+91
+
+                                                                      6
+
+
+---
+
+                                                                                             28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ as diárias destinadas exclusivamente ao pagamento de despesas de
+               alimentação e pousada, por serviço eventual realizado em Município diferente
+               ao da sede de trabalho, inclusive no exterior;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+92
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o valor do salário-família;
+
+             ❑ o valor recebido a título de vale-cultura;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+93
+
+                                                                    7
+
+
+---
+
+                                                                                            28/08/2020
+
+     QUESTÃO INÉDITA
+        A quantia recebida a título de salário-família é isenta.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                         Gabarito: Correta                                         @ProfFabioDutra
+
+
+94
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ a ajuda de custo destinada a atender às despesas com transporte, frete e
+               locomoção do beneficiado e de seus familiares, na hipótese de remoção de um
+               Município para outro, sujeita à comprovação posterior pelo contribuinte;
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+95
+
+                                                                   8
+
+
+---
+
+                                                                                               28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ as contribuições empresariais para o Plano de Poupança e Investimento - PAIT
+
+     Observação: A instituição de planos de poupança e investimento (PAIT), destinados a
+     incentivar a formação voluntária, em benefício do trabalhador, de carteiras de títulos e
+     valores mobiliários foi autorizada no Decreto-lei 2.292/86.
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+96
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ as contribuições pagas pelos empregadores relativas a programas de
+               previdência privada em favor de seus empregados e de seus dirigentes;
+
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+97
+
+                                                                      9
+
+
+---
+
+                                                                                            28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ as contribuições pagas pelos empregadores relativas ao Fundo de
+               Aposentadoria Programada Individual - FAPI, destinadas a seus empregados e
+               seus administradores;
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+98
+
+ Rendimentos Isentos/Não Tributáveis
+     ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o incentivo pago em pecúnia ao servidor licenciado;
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+99
+
+                                                                   10
+
+
+---
+
+                                                                                                28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o montante dos depósitos, dos juros, da correção monetária e das quotas-
+               partes creditados em contas individuais pelo Programa de Integração Social -
+               PIS e pelo Programa de Formação do Patrimônio do Servidor Público – Pasep;
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+100
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o valor recebido a título de indenização pelo servidor público federal em
+               exercício de atividade nas delegacias e nos postos do Departamento de Polícia
+               Federal e do Departamento de Polícia Rodoviária Federal e em unidades da
+               Secretaria da Receita Federal do Brasil do Ministério da Fazenda, do Ministério
+               da Agricultura, Pecuária e Abastecimento e do Ministério do Trabalho situadas
+               em localidades estratégicas, vinculadas à prevenção, ao controle, à
+               fiscalização e à repressão dos delitos transfronteiriços;
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+101
+
+                                                                       11
+
+
+---
+
+                                                                                             28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos decorrentes do trabalho e assemelhados:
+
+             ❑ o valor dos serviços médicos, hospitalares e dentários mantidos, ressarcidos
+               ou pagos pelo empregador em benefício de seus empregados;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+102
+
+                                 IRPF
+                         REND. ISENTOS/NÃO
+                            TRIBUTÁVEIS
+                               PARTE 2
+
+
+103
+
+                                                                    12
+
+
+---
+
+                                                                                                             28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+                         ❑ os rendimentos provenientes de aposentadoria e pensão, de transferência
+                           para a reserva remunerada ou de reforma, pagos pela previdência social
+                           da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer
+                           pessoa jurídica de direito público interno, ou por entidade de previdência
+                           privada, a partir do mês em que o contribuinte completar 65 anos de
+                           idade, sem prejuízo da parcela isenta prevista na tabela de incidência
+                           mensal do imposto, até o valor da primeira faixa da tabela progressiva;
+
+      Observação: o contribuinte que auferir rendimentos de mais de uma fonte terá o
+      limite de isenção anual único e será considerado em relação à soma desses
+      rendimentos, para fins de apuração do imposto sobre a renda na declaração
+
+ Legislação Tributária
+                                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+104
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ Exemplo:
+
+
+           Base de cálculo mensal em R$                    Alíquota %    Parcela a deduzir do imposto em R$
+
+                              Até 1.903,98                      -                        -
+
+                         De 1.903,99 até 2.826,65              7,5                     142,80
+
+                         De 2.826,66 até 3.751,05              15,0                    354,80
+
+                         De 3.751,06 até 4.664,68              22,5                    636,13
+
+                           Acima de 4.664,68                   27,5                    869,36
+
+ Legislação Tributária
+                                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+105
+
+                                                                                    13
+
+
+---
+
+                                                                                                 28/08/2020
+
+      QUESTÃO INÉDITA
+        Maria tem 60 anos de idade, e, após sua aposentadoria, passa a receber proventos,
+        sendo uma parcela do seu rendimento isenta (até o valor da primeira faixa da
+        tabela progressiva mensal), sem prejuízo da parcela isenta prevista na tabela de
+        incidência mensal do IRPF.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                               @ProfFabioDutra
+
+
+106
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os proventos de aposentadoria ou reforma motivadas por acidente em serviço
+               e aqueles percebidos pelos portadores de moléstia profissional, tuberculose
+               ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira,
+               hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de
+               Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia
+               grave, estados avançados de doença de Paget (osteíte deformante),
+               contaminação por radiação, síndrome de imunodeficiência adquirida e fibrose
+               cística (mucoviscidose), com base em conclusão da medicina especializada,
+               mesmo que a doença tenha sido contraída depois da aposentadoria ou
+               da reforma;
+
+ Legislação Tributária
+                                                                                        @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+107
+
+                                                                        14
+
+
+---
+
+                                                                                                28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os valores recebidos a título de pensão, quando o beneficiário desse
+               rendimento for portador de alguma das doenças citadas, exceto aquela
+               decorrente de moléstia profissional, com base em conclusão da medicina
+               especializada, mesmo que a doença tenha sido contraída após a concessão da
+               pensão;
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+108
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ As isenções relativas às doenças mencionadas aplicam-se aos rendimentos
+        recebidos a partir:
+
+             ❑ do mês da concessão da aposentadoria, da reforma ou da pensão, quando a
+               doença for preexistente;
+
+             ❑ do mês da emissão do laudo pericial, emitido por serviço médico oficial da
+               União, dos Estados, do Distrito Federal ou dos Municípios, que reconhecer a
+               moléstia, se esta for contraída após a concessão da aposentadoria, da reforma
+               ou da pensão; ou
+
+             ❑ da data em que a doença foi contraída, quando identificada no laudo pericial;
+
+ Legislação Tributária
+                                                                                       @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+109
+
+                                                                       15
+
+
+---
+
+                                                                                          28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ as pensões e os proventos concedidos em decorrência de reforma ou de
+               falecimento de ex-combatente da Força Expedicionária Brasileira;
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+110
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ as importâncias recebidas por pessoa com deficiência mental a título de
+               pensão, pecúlio, montepio e auxílio, quando decorrentes de prestações do
+               regime de previdência social ou de entidades de previdência privada
+
+ Legislação Tributária
+                                                                                 @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+111
+
+                                                                 16
+
+
+---
+
+                                                                                             28/08/2020
+
+      QUESTÃO INÉDITA
+        Os valores recebidos por deficiente mental a título de pensão, pecúlio, montepio e
+        auxílio, quando decorrentes de prestações do regime de previdência social ou de
+        entidades de previdência privada são isentos do imposto de renda.
+
+ Legislação Tributária
+ Prof. Fábio Dutra
+                         Gabarito: Correta                                          @ProfFabioDutra
+
+
+112
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ a pensão especial recebida em decorrência da deficiência física conhecida
+               como Síndrome da Talidomida, quando paga a seu portador;
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+113
+
+                                                                    17
+
+
+---
+
+                                                                                             28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ o pecúlio recebido pelos aposentados que tenham voltado a trabalhar até
+               15/04/1994 em atividade sujeita ao regime previdenciário, pago pelo INSS ao
+               segurado ou a seus dependentes, após a sua morte;
+
+      Observação: consiste na devolução em cota única das contribuições efetuadas para o
+      INSS pelo cidadão que permaneceu em atividade após ter se aposentado.
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+114
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os valores dos resgates na carteira dos FAPI, para mudança das aplicações
+               entre os Fundos instituídos pela Lei nº 9.477/1997, ou para aquisição de
+               renda junto às instituições privadas de previdência e às seguradoras que
+               operam com esse produto
+
+ Legislação Tributária
+                                                                                    @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+115
+
+                                                                    18
+
+
+---
+
+                                                                                            28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os rendimentos percebidos pelas pessoas físicas decorrentes de seguro-
+               desemprego, auxílio-natalidade, auxílio-doença, auxílio-funeral e auxílio-
+               acidente, pagos pela previdência oficial da União, dos Estados, do Distrito
+               Federal e dos Municípios e pelas entidades de previdência privada
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+116
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os seguros recebidos de entidades de previdência privada decorrentes de
+               morte ou de invalidez permanente do participante
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+117
+
+                                                                   19
+
+
+---
+
+                                                                                         28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos pagos pelas previdências públicas e privadas:
+
+             ❑ os seguros recebidos de entidades de previdência privada decorrentes de
+               morte ou de invalidez permanente do participante;
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+118
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ a indenização por acidente de trabalho
+
+ Legislação Tributária
+                                                                                @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+119
+
+                                                                20
+
+
+---
+
+                                                                                               28/08/2020
+
+      QUESTÃO INÉDITA
+         A indenização por acidente de trabalho substitui a renda proveniente do trabalho,
+         sendo considerada, para fins do imposto de renda, rendimento tributável.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                             @ProfFabioDutra
+
+
+120
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ o pagamento efetuado por pessoas jurídicas de direito público a servidores
+               públicos civis, a título de incentivo à adesão a programas de desligamento
+               voluntário
+
+      Observação: Esta isenção se estende às verbas indenizatórias pagas por pessoas jurídicas
+      referentes a programas de demissão voluntária.
+ Legislação Tributária
+                                                                                      @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+121
+
+                                                                      21
+
+
+---
+
+                                                                                                        28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ a indenização e o aviso prévio pagos por despedida ou por rescisão de
+               contrato de trabalho, até o limite garantido pela lei trabalhista ou pelo dissídio
+               coletivo e pelas convenções trabalhistas homologados pela Justiça do
+               Trabalho, e o montante recebido a título de FGTS.
+
+ Legislação Tributária
+                                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+122
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ a indenização destinada a reparar danos patrimoniais em decorrência de
+               rescisão de contrato;
+
+             ❑ a indenização em decorrência de desapropriação para fins de reforma agrária,
+               quando auferida pelo desapropriado;
+
+             ❑ a indenização a título        reparatório    paga      a   beneficiários   diretos    de
+               desaparecidos políticos;
+
+             ❑ a indenização reparatória paga a anistiados políticos;
+
+ Legislação Tributária
+                                                                                               @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+123
+
+                                                                               22
+
+
+---
+
+                                                                                            28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ a indenização reparatória por danos físicos, invalidez ou morte, ou por bem
+               material danificado ou destruído, em decorrência de acidente, até o limite
+               estabelecido em condenação judicial, exceto na hipótese de pagamento de
+               prestações continuadas;
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+124
+
+      QUESTÃO INÉDITA
+        A indenização por invalidez consistindo no pagamento de parcelas continuadas é
+        considerada isenta do imposto de renda das pessoas físicas.
+
+ Legislação Tributária
+ Prof. Fábio Dutra       Gabarito: Errada                                          @ProfFabioDutra
+
+
+125
+
+                                                                   23
+
+
+---
+
+                                                                                            28/08/2020
+
+ Rendimentos Isentos/Não Tributáveis
+      ❑ Rendimentos de indenizações e assemelhados:
+
+             ❑ a indenização por dano moral concedida às pessoas com deficiência física
+               decorrente do uso da talidomida, que consistirá no pagamento de valor único
+               de R$ 50.000,00, multiplicado pelo número dos pontos indicadores da
+               natureza e do grau da dependência resultante da deformidade física
+
+ Legislação Tributária
+                                                                                   @ProfFabioDutra
+ Prof. Fábio Dutra
+
+
+126
+
+                                                                   24
+
+
+---

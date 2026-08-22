@@ -1,0 +1,275 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: ESTRATÉGIAS DE COMPRAS
+---
+
+# ESTRATÉGIAS DE COMPRAS
+
+---
+
+---
+
+ESTRATÉGIAS DE COMPRAS
+
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Estratégias de Compras
+       Verticalização x Horizontalização
+
+       ❑ Na verticalização, a empresa ganha independência em relação ao mercado. Nesse cenário dominará e
+         determinará qual a tecnologia de produção a ser adotada, tendo pleno controle sobre todo o processo de
+         produção, o que podemos chamar de o "coração" de toda a cadeia.
+
+       ❑ Além disso, a produção interna dá a organização a possibilidade de customizar ao máximo todo o material
+         utilizado no processo produtivo. Isso faz com que respostas a novas demandas de mercado possam ser atendidas
+         de maneira quase imediata.
+
+       ❑ Por outro lado, para que seja capaz de executar toda (ou o máximo possível) a produção internamente, a
+         organização deverá incorrer em custos significativos de máquinas, estruturas e empregados que, dependendo da
+         época e das características dos produtos fabricados, podem ficar ociosos ao longo de alguns períodos do ano,
+         gerando custos desnecessários.
+
+       ❑ Como tudo em gestão de materiais, a comparação entre a "liberdade" e o controle conferidos pela produção
+         interna devem ser continuamente comparados aos custos gerados, para que se chegue a uma conclusão do qual
+         estratégia é mais vantajosa para a organização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Verticalização x Horizontalização
+       ❑ Já a horizontalização, obviamente convive com os mesmos efeitos, porém invertidos.
+
+       ❑ Adotando essa linha de atuação a empresa se livra de custos estruturais e fixos adicionais, além de poder
+         dedicar-se 100% ao seu principal negócio, sem distrações com o desenvolvimento e manutenção de
+         outras linhas industrias, o que acaba conferindo mais foco e eficiência à organização.
+
+       ❑ Porém, ao mesmo tempo, nesse contexto passa a depender de fornecimento externo contínuo para que
+         possa executar suas atividades.
+
+       ❑ Tal situação força empresas que optam por essa estratégia a buscar parcerias e relações mais profundas
+         com parceiros comerciais no que diz respeito ao fornecimento, evitando ou minimizando o risco de
+         quebra no fornecimento ou mesmo o não atendimento de necessidades específicas de produção.
+
+       ❑ Justamente por isso precisam também encontrar fornecedores capazes de alterar seus processos
+         produtivos conforme a empresa necessite de mudanças nos materiais que costumava adquirir, em
+         funções de alterações nas demandas de consumidores, lançamentos ou atualizações de produtos já
+         existentes, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Verticalização x Horizontalização
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Centralização x Descentralização
+       ❑ Na estrutura centralizada, como as compras são feitas todas por meio de uma estrutura única, é possível
+         obter grandes ganhos de escala.
+       ❑ O ganho de escala acontece quando o volume de compra é grande a ponto de justificar descontos ou
+         melhores condições comerciais junto aos fornecedores, sejam eles no preço, na forma de pagamento,
+         nos prazos de entrega, no transporte ou mesmo na forma de volume adicional bonificado.
+       ❑ Outra vantagem é que, atuando de maneira centralizada a organização certamente terá seus maiores
+         especialistas cuidando do processo, diferentemente do que provavelmente ocorrerá na estrutura
+         dispersa que deverá envolver mais profissionais (em localizações distintas) e, portanto, possivelmente
+         menos especializados, na média.
+       ❑ O controle de todo o processo e a busca por oportunidades e ganhos de eficiência também é mais
+         viável no processo centralizado, pela diminuição da complexidade e visão do todo ao longo de todo o
+         tempo.
+       ❑ Tal composição também permite que a organização consiga padronizar sua ação em todo o território,
+         diminuindo a complexidade e reduzindo os custos ao longo de toda a cadeia e não só em compras, mas
+         também nas atividades de armazenagem, transportes, entre outras.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Centralização x Descentralização
+       ❑ O processo descentralizado é exatamente o oposto.
+       ❑ Como maior vantagem, o processo descentralizado apresenta maior agilidade e
+         flexibilidade para compras urgentes ou com características específicas.
+       ❑ Enquanto em um processo centralizado existem filas, procedimentos e processos de
+         controle mais rígidos e maior distância entre os profissionais ligados ao negócio e os
+         ligados as compras, no modelo descentralizado nada disso é verdade.
+       ❑ Nesse modelo os profissionais de compras geralmente atuam muito próximos das
+         áreas de negócio, as vezes até antecipando suas demandas de acordo com o
+         observado no dia a dia da atividade da empresa.
+       ❑ Veja que essa diferença é bastante significativa e já nos dá uma ideia de em qual
+         cenário uma ou outra estratégia deve ser aplicada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Centralização x Descentralização
+
+       ❑ Em cenários de demandas estáveis e com processos acurados de previsão, não é necessário pagar
+         por estratégias descentralizadas (sim, elas são mais caras pois envolvem mais gente e diferentes
+         locais de atuação) já que na maioria das vezes as compras são feitas de maneira previsível e
+         controlada e, de preferência, em poucos ou em um único fornecedor com o objetivo de
+         conquistas os ganhos de escala. Assim, a estratégia de centralização é a indicada.
+
+       ❑ Já em um cenário instável, difícil de ser previsto e no qual o fornecedor precisa ter muita
+         agilidade de resposta para pedidos em diferentes épocas e em diferentes regiões do país ou do
+         mundo, aí sim a estrutura descentralizada funciona muito melhor e acaba compensando seus
+         custos adicionais.
+
+       ❑ Portanto veja que, assim como no embate Verticalização x Horizontalização, na decisão entre as
+         estratégias de Centralização x Descentralização também é crítico entender qual o cenário no qual
+         a organização está inserida, para a tomada de decisão.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Estratégias de Compras
+       Centralização x Descentralização
+
+                              CENTRALIZAÇÃO                                   DESCENTRALIZAÇÃO
+                Ganhos de escala                                   Rapidez e flexibilidade no momento necessário
+                Processo conduzido por especialistas e com         Proximidade dos envolvidos da área de
+                estrutura mais enxuta (menos custos)               negócio
+                Maior controle sobre o processo e “visão do        Processo mais disperso, dificultando seu
+                todo” para o planejamento da atividade             controle e planejamento
+                Indicado para mercados e demandas estáveis         Indicado para mercados imprevisíveis e que
+                                                                   exijam rápidas respostas dos fornecedores.
+                Processo padronizado e simplificado ao longo       Dificuldade em padronizar as demandas e
+                de toda a cadeia, incluindo armazenagem e          práticas ao longo da cadeia nas diferentes
+                transportes                                        localidades
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREMERS/Assistente Básico/2020) No contexto da administração de materiais,
+     a função de compras é muito importante para a organização. Por meio das compras, são
+     adquiridos os bens e serviços necessários para a operação da instituição por um custo
+     minimizado, na qualidade certa e dentro do prazo requerido. O processo de compras
+     pode ser centralizado ou descentralizado. Sendo assim, assinale a alternativa que não
+     apresenta vantagem associada às compras centralizadas.
+     a) maior flexibilidade na gestão de compras
+     b) maior ganho de escala
+     c) maior controle dos processos de compra
+     d) eliminação ou diminuição de compras em duplicidade
+     e) especialização dos compradores
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREMERS/Assistente Básico/2020) No contexto da administração de materiais,
+     a função de compras é muito importante para a organização. Por meio das compras, são
+     adquiridos os bens e serviços necessários para a operação da instituição por um custo
+     minimizado, na qualidade certa e dentro do prazo requerido. O processo de compras
+     pode ser centralizado ou descentralizado. Sendo assim, assinale a alternativa que não
+     apresenta vantagem associada às compras centralizadas.
+     a) maior flexibilidade na gestão de compras
+     b) maior ganho de escala
+     c) maior controle dos processos de compra
+     d) eliminação ou diminuição de compras em duplicidade
+     e) especialização dos compradores
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/Secretaria Educação-SP/Gerente Escolar/2014) As opções a seguir apresentam
+     vantagens da centralização das compras de materiais e suprimentos para a Administração
+     Pública, à exceção de uma. Assinale-a.
+     a) Reduzir os custos de armazenagem.
+     b) Simplificar o transporte.
+     c) Facilitar o acesso à informação do estoque geral, em tempo real.
+     d) Flexibilizar compras em caráter de urgência.
+     e) Padronizar o processo de compra.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/Secretaria Educação-SP/Gerente Escolar/2014) As opções a seguir apresentam
+     vantagens da centralização das compras de materiais e suprimentos para a Administração
+     Pública, à exceção de uma. Assinale-a.
+     a) Reduzir os custos de armazenagem.
+     b) Simplificar o transporte.
+     c) Facilitar o acesso à informação do estoque geral, em tempo real.
+     d) Flexibilizar compras em caráter de urgência.
+     e) Padronizar o processo de compra.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

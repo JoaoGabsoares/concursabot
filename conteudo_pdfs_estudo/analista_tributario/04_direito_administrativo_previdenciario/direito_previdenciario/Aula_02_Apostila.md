@@ -1,0 +1,1923 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 02_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Menezes
+artigos_citados:
+- Art. 22.
+- Art. 85-A.
+- 'art.
+
+  194'
+- art. 167
+- art. 1º
+- art. 22
+- art. 24
+- art. 927
+sumulas_citadas:
+- súmula nº 340
+---
+
+# Menezes
+
+Aula 01
+                          Receita Federal (Analista Tributário)
+                        Direito Previdenciário - Profª. Adriana
+                                                     Menezes
+
+                                                        Autor:
+                                            Adriana Menezes
+
+                                            23 de Junho de 2025
+
+---
+
+      Adriana Menezes
+      Aula 01
+
+                                                                                     Índice
+1) Conteúdo, fontes e autonomia
+
+
+2) Aplicação das normas previdenciárias: hierarquia, vigência, interpretação e integração
+
+
+3) 3.1. Legislação Previdenciária - Conteudo - fonte - autonomia - QUESTÕES COMENTADAS - CEBRASPE.docx 23
+) 3.2. Legislação Previdenciária - aplicacao das normas - QUESTÕES COMENTADAS - CEBRASPE.docx
+
+
+5) Legislação Previdenciária - Questões Comentadas - FGV
+
+
+6) 3.1. Legislação Previdenciária - Conteudo - fonte- autonomia - QUESTÕES COMENTADAS - FCC.docx
+
+
+7) 3.2. Legislação Previdenciária - aplicacao das normas . QUESTÕES COMENTADAS - FCC.docx
+
+
+8) 3.1. Legislação Previdenciária - Conteudo - fonte - autonomia - LISTA QUESTÕES - CEBRASPE.docx
+
+
+9) 3.2. Legislação Previdenciária - aplicacao das normas - LISTA QUESTÕES - CEBRASPE.docx
+
+
+10) Legislação Previdenciária - Lista de Questões - FGV
+
+
+11) 3.1. Legislação Previdenciária - Conteudo - fonte- autonomia - LISTA QUESTÕES - FCC.docx
+
+
+12) 3.2. Legislação Previdenciária - aplicacao das normas . LISTA QUESTÕES - FCC.docx
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                                                                                     2
+                www.estrategiaconcursos.com.br                                                                                                                                           45
+
+                                                             
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+            LEGISLAÇÃO PREVIDENCIÁRIA: CONTEÚDO, FONTES E
+                             AUTONOMIA
+
+1. Conceito
+
+Entende-se como legislação previdenciária o conjunto de normas e atos administrativos
+referentes ao funcionamento do sistema securitário. Nesse conjunto estão as leis, as medidas
+provisórias, os decretos, os tratados internacionais e as normas complementares.
+Apesar da adjetivação previdenciária, esse complexo de normas jurídicas costuma tecer relações
+com toda a seguridade social, ou seja, previdência, assistência social e saúde.
+A Constituição Federal, em seu art. 22, inciso XXIII, outorga competência privativa à União para
+legislar sobre a Seguridade Social, elaborando as normas sobre o sistema securitário. Mas
+permite que lei complementar autorize os Estados e Distrito Federal a legislar sobre o tema.
+No entanto, em relação à Previdência Social a competência legislativa é concorrente, conforme
+preceitua o art. 24, XII, da Carta Magna.
+
+                          É da competência privativa da União legislar sobre inatividade e pensões
+das polícias militares e dos corpos de bombeiros militares. A outorga dessa competência deu-se
+com a alteração do inciso XXI do art. 22 da Constituição Federal, pela Emenda Constitucional nº
+103/2019:
+
+        Art. 22. Compete privativamente à União legislar sobre:
+
+        ...
+
+        XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação,
+        mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros
+        militares; (Redação dada pela Emenda Constitucional nº 103, de 2019)
+
+Pois bem.
+Vamos tecer comentários acerca das normas para que o leitor tenha uma noção, ainda que
+resumida, sobre o assunto:
+
+  a)​ Lei: é a fonte primária de obrigações e direitos. Ao Poder Legislativo cabe criar e disciplinar
+      o sistema de seguridade social trazido pela Constituição de 1988. Cabe à União, repita-se,
+      elaborar as leis sobre a organização da seguridade social.
+
+As leis, conforme dispõe o art. 59 da CF/88, podem ser ordinárias, complementares ou
+delegadas.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes      3
+        www.estrategiaconcursos.com.br                                                            45
+
+                                     
+
+
+---
+
+     Adriana Menezes
+     Aula 01
+
+       • Em relação ao seu aspecto formal, as leis ordinárias são aquelas que para serem
+aprovadas necessitam do quórum da maioria simples de votos dos membros presentes na casa
+legislativa no dia da votação.
+      • Já as leis complementares exigem um quórum privilegiado de aprovação pela maioria
+absoluta dos membros da casa legislativa, ou seja, a maioria do total dos membros integrantes
+da casa, sempre.
+         • Em relação ao aspecto material, ensina Lenza1 que:
+
+           as hipóteses de regulamentação da Constituição por meio de lei complementar
+           estão taxativamente previstas no Texto Maior. Sempre que o constituinte
+           originário quiser que determinada matéria seja regulamentada por lei
+           complementar, expressamente, assim o requererá.
+
+Às leis ordinárias cabem as matérias que não forem regulamentadas por lei complementar,
+decreto legislativo (matéria de competência exclusiva do Congresso Nacional) e resoluções
+(matéria de competência exclusiva do Senado e da Câmara dos Deputados). O campo material
+ocupado pelas leis ordinárias é residual.
+       • As leis delegadas são elaboradas pelo Presidente da República, com a autorização do
+Congresso Nacional. Haverá a solicitação ao Poder Legislativo, delimitando o assunto sobre o
+qual irá se legislar. O Congresso, então, aprova o pedido e especifica o conteúdo da delegação e
+os termos de seu exercício. É bom registrar que matérias que exigem a regulamentação por lei
+complementar não podem ser objeto de lei delegada.
+
+     b)​ Medida Provisória: ato editado pelo Poder Executivo – Presidente da República – com força
+         de lei. Para sua edição torna-se necessário que haja situação de relevância e urgência,
+         conforme previsto nos artigos 59 e 62, ambos da CF/88.
+
+Na área securitária é muito comum a utilização da medida provisória para tratar de assuntos que
+podem ser tratados por lei ordinária.
+
+               As matérias que exigem a regulamentação por lei complementar não poderão
+ser objeto de medida provisória, em face da vedação prevista no art. 62, § 1º, inciso III do Texto
+Maior.
+
+     c)​ Tratado internacional: acordo celebrado entre o Brasil e outro país, pelo Presidente da
+         República, com a aprovação do Congresso Nacional por meio da expedição de um decreto
+         legislativo.
+
+1
+.​        LENZA, Pedro. Direito Constitucional Esquematizado. 13a ed., São Paulo: Saraiva, 2009, p.417.
+
+           Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes          4
+           www.estrategiaconcursos.com.br                                                                 45
+
+                                        
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+Dispõe do art. 85-A da Lei nº 8.212/91:
+
+     Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou
+     organismo internacional e o Brasil sejam partes, e que versem sobre matéria
+     previdenciária, serão interpretados como lei especial.
+
+Significa que os tratados internacionais que versam sobre matéria previdenciária devem ser
+observados em relação à legislação previdenciária interna. Aplica-se o disposto no tratado
+internacional.
+
+  d)​ Decreto: é ato normativo expedido pelo Poder Executivo para regulamentar, “explicar” as
+      leis, conforme previsão do art. 84, IV, da CF/88.
+
+O decreto, no entanto, não poderá ultrapassar o alcance da lei que estiver regulamentando a
+ponto de inovar ou alterar o texto legal. É fonte secundária do Direito Previdenciário, uma vez
+que não poderá inovar no mundo jurídico, criando direitos e obrigações.
+Como exemplo de decreto relativo à matéria da seguridade social, temos o Decreto nº 3.048/99
+que regulamenta as Leis nº 8.212/91 e nº 8.213/91 que tratam, respectivamente, do plano de
+custeio da Seguridade Social e do Plano de Benefícios do Regime Geral de Previdência Social.
+
+  e)​ Normas complementares: são atos expedidos pelas autoridades administrativas,
+      pressupondo sempre a existência da lei ou de outro ato legislativo a que estejam
+      subordinados.
+
+Nesse grupo encontram-se as Portarias, as Instruções Normativas, as Circulares, etc. São,
+também, fontes secundárias do Direito Previdenciário.
+Como exemplo, pode ser citada a Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022,
+que disciplina as regras, procedimentos e rotinas necessárias à efetiva aplicação das normas de
+direito previdenciário.
+
+
+2. Autonomia do direito previdenciário
+
+Não obstante à denominação do ramo legal previdenciário, esse segmento trata não somente da
+previdência social, como também da saúde e da assistência social. Alguns autores preferem usar
+a terminologia de Direito da Seguridade Social ou Direito da Segurança Social.
+A autonomia do Direito Previdenciário ainda não é pacífica entre os doutrinadores.
+Alguns entendem que o surgimento do Direito Previdenciário se deu a partir da segmentação do
+Direito Administrativo, devido à organização estatal da proteção social, enquanto outros o
+consideram como evolução do Direito do Trabalho.
+Há, ainda, aqueles que consideram o Direito Previdenciário autônomo, desde o seu surgimento,
+já que desde épocas remotas os conceitos e princípios previdenciários são conhecidos, sendo
+alguns até anteriores ao próprio Direito do Trabalho.
+Fábio Zambitte Ibrahim defende a autonomia do Direito Previdenciário ao dizer que:
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   5
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+     Adriana Menezes
+     Aula 01
+
+           a autonomia do Direito Previdenciário é consequência do conjunto de princípios
+           jurídicos próprios deste ramo, além do complexo de normas aplicáveis a este
+           segmento. Pode-se, ainda, encontrar conceitos jurídicos exclusivos do Direito
+           Previdenciário, como por exemplo, salário de contribuição e salário de benefício,
+           estranhos a outros ramos do Direito.
+
+Comungamos com a posição do autor referido, uma vez que entendemos que o Direito
+Previdenciário surgiu antes mesmo do Direito do Trabalho e tem conceitos próprios, específicos
+em relação à matéria de que trata.
+
+
+3. Fontes da legislação previdenciária
+
+Qualquer fonte de Direito, inclusive na área securitária, decorre de uma estrutura de poder, a
+qual traz a necessária garantia de cumprimento de determinada norma imposta à sociedade.
+                                                            ==219a34==
+
+Ainda que seja esperado o cumprimento espontâneo da lei por parcela da população, a certeza
+da sanção pelo descumprimento deve existir.
+Segundo Fábio Zambitte Imbrahim2 “pode-se afirmar que temos, como fonte de Direito e, por
+consequência, da legislação previdenciária, as leis e a jurisprudência.”
+O Direito Previdenciário tem sua base assentada na Constituição Federal.
+São fontes do Direito Previdenciário: a Constituição Federal, a Emenda Constitucional, as Leis
+Complementares, Ordinárias e Delegadas, a Medida Provisória, o Decreto Legislativo, a
+Resolução do Senado Federal, os atos administrativos normativos e a jurisprudência dos Tribunais
+Superiores.
+A palavra lei, em seu sentido mais amplo, contempla a Constituição Federal, as leis ordinárias, as
+leis complementares, as leis delegadas, as medidas provisórias e os atos administrativos em geral
+(como as portarias, as instruções, etc.).
+Já em sentido estrito, o conceito de lei situa-se nos atos elaborados pelo Congresso Nacional,
+com o poder de criar as leis ordinárias e complementares e as medidas provisórias e leis
+delegadas, elaboradas pelo Poder Executivo.
+As leis ordinárias, complementares e delegadas e as medidas provisórias são consideradas fontes
+primárias do Direito Previdenciário. Elas poderão inovar no mundo jurídico, criando direitos e
+obrigações, desde que, é claro, respeitem a Constituição Federal.
+As fontes secundárias não poderão contemplar novos direitos e obrigações, mas apenas
+regulamentar as fontes primárias para o seu fiel cumprimento. Destacam-se, nesse caso, os
+decretos, as instruções normativas, as resoluções, as orientações internas e outras.
+Jurisprudência segundo o Professor Henrique Correia3 “é a decisão reiterada no mesmo sentido
+sobre a mesma matéria”. A jurisprudência, como geradora de norma jurídica individual em razão
+das decisões judiciais, é fonte de Direito, pois suas decisões são vinculantes para as partes.
+
+
+2
+.​        IBRAHIM, Fábio Zambitte. Curso de Direito Previdenciário. 14ed., Niterói: Impetus, 2009, p.150.
+3
+.​        CORREIA, Henrique. Direito do Trabalho. 5ª ed. Salvador: JusPodivm, 2013, 41.
+
+           Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes            6
+           www.estrategiaconcursos.com.br                                                                   45
+
+                                        
+
+
+---
+
+     Adriana Menezes
+     Aula 01
+
+As decisões reiteradas dos Tribunais pátrios formam a jurisprudência e são capazes, até mesmo,
+de modificar o conteúdo dos atos administrativos, adaptando-os às interpretações oriundas do
+Judiciário.
+Têm-se como vinculantes, as decisões do STF proferidas em controle concentrado de
+constitucionalidade e, desde a reforma constitucional por meio da Emenda nº 45/2005, as
+súmulas vinculantes do Pretório Excelso obrigam o Poder Judiciário e a Administração Pública
+direta e indireta, nas esferas federal, estadual e municipal a sua observância.
+O Novo Código de Processo Civil inovou ao impor o sistema de precedentes obrigatórios ao
+Poder Judiciário por meio do disposto no art. 927:
+
+        Os juízes e os tribunais observarão:
+
+        I – as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+
+        II – os enunciados de súmula vinculante;
+
+        III – os acórdãos em incidente de assunção de competência ou de resolução de demandas
+        repetitivas e em julgamento de recursos extraordinário e especial repetitivos;
+
+        IV – os enunciados das súmulas do Supremo Tribunal Federal em matéria constitucional e do
+        Superior Tribunal de Justiça em matéria infraconstitucional;
+
+        V – a orientação do plenário ou do órgão especial aos quais estiverem vinculados.
+
+Para Ivan Kertzman4
+
+           Fonte do Direito Previdenciário é todo fato social gerador de normas jurídicas
+           previdenciárias. Dividem-se em materiais e formais. As primeiras são fontes
+           potenciais do Direito, ou seja, fatores sociais, econômicos, políticos, etc. que
+           influem no surgimento de normas jurídicas.
+
+           Já as fontes formais são manifestações do Direito formadoras do próprio Direito
+           Previdenciário, podendo subdividir-se em estatais e não estatais.
+
+           (...)
+
+           As fontes formais estatais englobam a Constituição, leis complementares, leis
+           ordinárias, leis delegadas, medidas provisórias, decretos legislativos, resoluções
+           do Senado. Englobam, também, decretos regulamentares do poder executivo,
+           instruções ministeriais, circulares, portarias, ordens de serviço e normas
+           individuais.
+
+4
+.​        KERTZMAN, Ivan. Curso Prático de Direito Previdenciário. 14 ed., Salvador: JusPodivm, 2016, p.94.
+
+           Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes              7
+           www.estrategiaconcursos.com.br                                                                     45
+
+                                        
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+Os demais ramos do Direito são fontes, também, para o Direito Previdenciário e para o Direito
+Securitário. Podem ser citados o Direito Constitucional, o Direito Administrativo, o Direito do
+Trabalho. Na verdade, o Direito é único, sendo dividido, apenas, por questões de didática.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   8
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+ Adriana Menezes
+ Aula 01
+
+                                                LEGISLAÇÃO
+
+Constituição Federal
+
+    Art. 22. Compete privativamente à União legislar sobre:
+
+    (...)
+
+    XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização,
+    inatividades e pensões das polícias militares e dos corpos de bombeiros militares; (Redação dada
+    pela Emenda Constitucional nº 103, de 2019)
+
+    XXIII – seguridade social;
+
+    (...)
+
+    Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+
+    (...)
+
+    XII – previdência social, proteção e defesa da saúde;
+
+    (...)
+
+    Art. 59. O processo legislativo compreende a elaboração de:
+
+    I – emendas à Constituição;
+
+    II – leis complementares;
+
+    III – leis ordinárias;
+
+    IV – leis delegadas;
+
+    V – medidas provisórias;
+
+    VI – decretos legislativos;
+
+    VII – resoluções.
+
+    Parágrafo único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação
+    das leis.
+
+    Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas
+    provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.
+
+    § 1º É vedada a edição de medidas provisórias sobre matéria:
+
+    I – relativa a:
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes            9
+        www.estrategiaconcursos.com.br                                                                   45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+   a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;
+
+   b) direito penal, processual penal e processual civil;
+
+   c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus
+   membros;
+
+   d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares,
+   ressalvado o previsto no art. 167, § 3º;
+
+   II – que vise a detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo
+   financeiro;
+
+   III – reservada a lei complementar;
+
+   IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou
+   veto do Presidente da República.
+
+   § 2º Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos
+   arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido
+   convertida em lei até o último dia daquele em que foi editada.
+
+   § 3º As medidas provisórias, ressalvado o disposto nos §§ 11 e 12 perderão eficácia, desde a
+   edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável, nos termos do §
+   7º, uma vez por igual período, devendo o Congresso Nacional disciplinar, por decreto legislativo,
+   as relações jurídicas delas decorrentes.
+
+   § 4º O prazo a que se refere o § 3º contar-se-á da publicação da medida provisória,
+   suspendendo-se durante os períodos de recesso do Congresso Nacional.
+
+   § 5º A deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das medidas
+   provisórias dependerá de juízo prévio sobre o atendimento de seus pressupostos constitucionais.
+
+   § 6º Se a medida provisória não for apreciada em até quarenta e cinco dias contados de sua
+   publicação, entrará em regime de urgência, subsequentemente, em cada uma das Casas do
+   Congresso Nacional, ficando sobrestadas, até que se ultime a votação, todas as demais
+   deliberações legislativas da Casa em que estiver tramitando.
+
+   § 7º Prorrogar-se-á uma única vez por igual período a vigência de medida provisória que, no prazo
+   de sessenta dias, contado de sua publicação, não tiver a sua votação encerrada nas duas Casas do
+   Congresso Nacional.
+
+   § 8º As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
+
+   § 9º Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre
+   elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das
+   Casas do Congresso Nacional.
+
+   § 10. É vedada a reedição, na mesma sessão legislativa, de medida provisória que tenha sido
+   rejeitada ou que tenha perdido sua eficácia por decurso de prazo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                   10
+      www.estrategiaconcursos.com.br                                                                          45
+
+                                   
+
+
+---
+
+ Adriana Menezes
+ Aula 01
+
+    § 11. Não editado o decreto legislativo a que se refere o § 3º até sessenta dias após a rejeição ou
+    perda de eficácia de medida provisória, as relações jurídicas constituídas e decorrentes de atos
+    praticados durante sua vigência conservar-se-ão por ela regidas.
+
+    § 12. Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta
+    manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto.
+
+    Art. 84. Compete privativamente ao Presidente da República:
+
+    (...)
+
+    IV – sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para
+    sua fiel execução;
+
+    (...)
+
+
+Lei nº 8.212/91
+
+    Art. 85-A. Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou
+    organismo internacional e o Brasil sejam partes, e que versem sobre matéria previdenciária, serão
+    interpretados como lei especial.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes             11
+        www.estrategiaconcursos.com.br                                                                    45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+LEGISLAÇÃO PREVIDENCIÁRIA: SUA APLICAÇÃO, INTERPRETAÇÃO E
+                                                INTEGRAÇÃO
+
+
+1. Aplicação, vigência, interpretação e integração da legislação
+previdenciária
+1.1. Aplicação da lei previdenciária no tempo e no espaço
+Aplicar a lei significa reconhecer a subsunção de determinado caso concreto à situação genérica
+prevista em lei, ou seja, enquadrar determinado evento acontecido numa previsão legal que o
+preceda.
+
+        Maria, casada com João há 2 anos e segurada da Previdência Social Brasileira, na
+        qualidade de empregada, veio a óbito. Nesse caso, João tem direito à pensão por morte
+        de Maria, conforme dispõem os arts. 16, I e 74 da Lei nº 8.213/91.Nesse contexto, houve
+        um fato concreto (a morte de Maria) que ensejou a concessão do benefício da pensão
+        por morte. Foi aplicada a lei previdenciária para esse caso em concreto, concedendo a
+        pensão por morte ao seu marido.
+
+Em matéria previdenciária, aplica-se o princípio segundo o qual tempus regit actum: aplica-se a
+lei vigente na data da ocorrência do fato.
+Esse princípio é aplicado no entendimento sumulado pelo Superior Tribunal de Justiça (STJ) pela
+súmula nº 340: “a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente
+na data do óbito do segurado”.
+Assim, para os pensionistas que tiveram o óbito de seus segurados sob a égide de uma Lei X,
+deverão receber pensão nos termos dispostos pela Lei X. Caso venha, no futuro, uma Lei Y que
+traga melhores condições para a concessão da pensão por morte, essa nova Lei Y não poderá ser
+aplicada para casos cujos óbitos ocorreram antes dela.
+As normas previdenciárias são aplicadas a todos que vivem no território nacional, segundo o
+princípio da territorialidade.
+Há situações, todavia, que a proteção previdenciária brasileira atinge pessoas que estão fora do
+território nacional e estrangeiros que prestam serviços no Brasil. O princípio da
+extraterritorialidade é aplicado como exceção.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes     12
+        www.estrategiaconcursos.com.br                                                            45
+
+                                     
+
+
+---
+
+    Adriana Menezes
+    Aula 01
+
+É o caso, por exemplo, de brasileiros civis que trabalham para a União, no exterior, em
+organismos oficiais brasileiros ou internacionais dos quais o Brasil seja membro efetivo, ainda que
+lá domiciliado e contratado, salvo se estiverem segurados na forma da legislação vigente do país
+do domicílio. E, também, de estrangeiros que prestam serviços, no Brasil, a missão diplomática
+ou repartição consular de carreira estrangeira, com residência permanente no país.
+
+1.2. Vigência da lei previdenciária
+A vigência é a propriedade das regras jurídicas que estão prontas para propagar efeitos tão logo
+aconteçam no mundo fático os eventos que elas descrevem. A vigência é uma "característica da
+norma que indica o lapso de tempo no qual a conduta por esta prescrita é exigível. Em outras
+palavras, a vigência indica o período no qual as prescrições jurídicas têm efeito..."1
+A lei passa a estar em vigor quando completa todos os trâmites para a sua formação, estando,
+portanto, pronta e acabada, e, ainda, apta para irradiar seus efeitos. É a chamada aptidão da lei
+para surtir os efeitos que lhe são próprios.
+Em geral, a vigência da lei previdenciária não difere das demais leis que, salvo disposição em
+contrário, começam a vigorar em todo o país 45 dias depois de oficialmente publicadas,
+conforme dispõe o art. 1º da Lei de Introdução às Normas do Direito Brasileiro (LINDB).
+No entanto, com o advento da Lei Complementar nº 95/98, nasceu a exigência para que a data
+da vigência da lei fosse indicada expressamente, contemplando prazo razoável para que dela se
+tivesse amplo conhecimento, reservada a cláusula “entra em vigor na data de sua publicação”
+para as leis de pequena repercussão.
+Em outras palavras, segundo o comando previsto no art. 8º da Lei Complementar nº 95/98, a lei
+tem que trazer em seu texto, de modo expresso, quando é que entrará em vigor, quando
+começará a produzir seus efeitos.
+Exemplo:
+
+          ​      “Essa lei entrará em vigor 90 dias após a sua publicação”.
+
+Em regra, sendo vigente a lei, ela está apta a produzir seus efeitos, dotada, portanto, de eficácia.
+Quando nada disser a lei, entrará em vigor 45 dias após a sua publicação, salvo as exceções
+previstas.
+Há que se atentar, contudo, em relação à eficácia da lei da seguridade social, a exceção prevista
+no § 6º do art. 195 da Constituição Federal, que introduz o princípio da anterioridade mitigada
+ou do prazo nonagesimal ou da noventena, o qual retém a eficácia da nova lei que cria ou
+modifica a contribuição social.
+
+1
+ ​     . DIMOULIS, Dimitri. Manual de Introdução ao Estudo do Direito. 4. ed. rev., ampl. e atual. São Paulo:
+RT, 2011, p. 192.
+
+          Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes           13
+          www.estrategiaconcursos.com.br                                                                  45
+
+                                       
+
+
+---
+
+     Adriana Menezes
+     Aula 01
+
+Conforme o artigo mencionado, a cobrança da contribuição social da seguridade social, caso
+venha a ser instituída ou aumentada, somente terá eficácia após decorridos 90 dias da data da
+publicação da lei.
+Assim, vale dizer que, muito embora a lei possa entrar em vigor na data por ela estipulada, a
+eficácia da cobrança da contribuição aumentada ou criada para o financiamento da Seguridade
+Social somente poderá acontecer após 90 dias decorridos da publicação da lei que a instituiu ou
+aumentou.
+Não se pode cobrar uma contribuição de financiamento do sistema de Seguridade Social antes
+do prazo de 90 dias da publicação da lei que criou a contribuição ou causou-lhe um aumento.
+
+           Uma lei publicada em 30/01/2023 aumenta a alíquota da COFINS (contribuição
+           para o financiamento da seguridade social incidente sobre a receita). Esse
+           aumento somente passa a vigorar após 90 dias decorridos do dia 30/01/2023.
+
+           Antes, esse aumento não poderia ser cobrado dos contribuintes, por força do
+           que dispõe o § 6º do artigo 195 da Constituição Federal.
+
+1.3. Interpretação da norma previdenciária
+A interpretação da norma jurídica é a atividade mental desenvolvida pelo jurista, objetivando
+traçar uma ligação entre o texto normativo abstrato e o fato que se apresenta cru, à espera de
+uma roupagem produzida nos lindes da Ciência do Direito.
+Ao interpretar um texto normativo, o intérprete deve buscar, dentro das opções existentes no
+mesmo, aquela que seja a mais compatível com o caso concreto, não se limitando às situações
+previstas pelo legislador quando da elaboração do texto.
+De acordo com Hugo de Brito Machado2, “o intérprete não cria, não inova, limitando-se a
+considerar o mandamento legal em toda a sua plenitude, declarando-lhe o significado e o
+alcance”.
+De fato, deve-se lembrar de que a lei, devido a sua natural abstração, acaba por atingir e regular
+casos que sequer foram pensados pelo legislador.
+Os métodos de interpretação podem ser:
+a) quanto à origem:
+
+
+2
+.​        MACHADO, Hugo de Brito. Curso de Direito Tributário. 29 ed., São Paulo: Malheiros, 2008, p.
+
+           Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes        14
+           www.estrategiaconcursos.com.br                                                               45
+
+                                        
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+      1) interpretação legislativa, legal ou autêntica: ocorre quando o próprio Poder Legislativo
+elabora uma nova lei que interpretará a lei anterior. A lei posterior vem para interpretar a anterior.
+      2) interpretação jurisprudencial: é feita pelo Poder Judiciário no exercício da jurisdição,
+com o objetivo de aplicar as normas aos casos concretos, na solução das lides.
+      3) interpretação administrativa: é realizada pela Administração Pública no exercício da
+função administrativa.
+      4) interpretação doutrinária: feita pelos estudiosos da Ciência Jurídica em seus trabalhos
+doutrinários.
+b) quanto ao meio:
+       1) interpretação gramatical, literal ou filosófica: à luz do próprio texto da norma sob
+exame, busca-se o sentido da lei mediante a análise do significado das palavras utilizadas pelo
+legislador. Vai-se buscar o sentido da norma jurídica a partir do significado das palavras que estão
+no seu texto.
+       2) interpretação histórica ou genética: o intérprete deve examinar os elementos, as
+circunstâncias e as causas que implicaram na criação da lei. A análise que se faz é no sentido de
+saber o que levou aquela lei ser criada.
+       3) interpretação teleológica ou finalística: feita mediante a apuração da finalidade
+objetivada pela norma. A interpretação teleológica da lei se faz perguntando o que o legislador
+quis buscar, atingir com a sua criação; qual seria o seu objetivo a alcançar com a nova lei.
+      4) interpretação sistemática: a interpretação se faz partindo do entendimento de que
+todas as regras jurídicas devem ter, entre si, um nexo, pois são parte de um só sistema jurídico. A
+norma deve ser interpretada, considerando a sua existência dentro do ordenamento jurídico
+como um todo.
+Ao se utilizar do método de interpretação sistemático, o intérprete busca compatibilizar o texto
+legal a ser interpretado com as demais normas que compõem o ordenamento jurídico,
+visualizando a lei objeto de interpretação como parte de um todo.
+c) quanto à finalidade:
+      1) interpretação estrita: ocorre quando há concordância entre o significado das palavras
+com o que pretende o legislador.
+     2) interpretação restritiva: ocorre quando o texto é mais amplo do que a intenção da lei,
+devendo o intérprete restringir o seu alcance.
+       3) interpretação extensiva: ocorre quando o texto é mais restrito do que a intenção do
+legislador, devendo o intérprete expandir o alcance da lei.
+
+1.4. Integração da lei previdenciária
+A integração é o meio de que se vale o aplicador da lei para tornar o sistema jurídico inteiro, sem
+lacunas.
+É o que pode acontecer caso o intérprete verifique não existir uma regra jurídica que se amolde
+especificamente para o caso concreto. Há uma lacuna na norma que precisa ser preenchida.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes      15
+        www.estrategiaconcursos.com.br                                                             45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+A integração difere da interpretação na medida em que aquela não visa a mens legis, o
+significado de determinada norma, mas sim o preenchimento de lacunas do ordenamento
+jurídico, pois o juiz não pode deixar de resolver a lide proposta, alegando a inexistência de lei a
+respeito.
+Cabe ao aplicador do Direito utilizar-se de recursos integrativos, buscando a solução adequada
+para a lide.
+Como ferramentas de integração, temos a analogia, a equidade, os costumes e os princípios
+gerais do Direito.
+A analogia consiste na aplicação a um determinado caso, para o qual inexiste preceito expresso,
+de norma legal prevista para uma situação semelhante. Funda-se em que as razões que ditaram o
+comando legal para a situação regulada devem levar à aplicação de idêntico preceito ao caso
+semelhante. Deve-se procurar relação jurídica similar, para a qual exista regramento jurídico.
+A equidade atua como instrumento de realização concreta da justiça, em que a aplicação rígida e
+inflexível da regra legal escrita repugnaria ao sentimento de justiça da coletividade, que cabe ao
+aplicador da lei implementar. Esse deverá utilizar o senso de justiça para preencher a lacuna que
+se encontra na lei. Pela utilização da equidade corrige-se a insuficiência da norma decorrente da
+sua generalidade.
+Nesse sentido, no âmbito da previdência privada e no dos planos previdenciários públicos, o
+Superior Tribunal de Justiça invocou a analogia e a equidade como formas de integração de
+lacuna normativa, estendendo aos parceiros homoafetivos a condição de dependentes
+previdenciários.
+Os costumes são práticas reiteradas, de longa data, pela sociedade e aceitas como corretas. Têm
+força normativa, desde que não sejam contrários à lei.
+Os princípios gerais de Direito são aqueles que fornecem as principais diretrizes do ordenamento
+jurídico, responsáveis pela fundação de toda a construção jurídica. São os princípios básicos que
+orientam todos os ramos do Direito.
+Podem ser mencionados o princípio da igualdade perante a lei, o da ampla defesa, entre outros.
+
+2. Hierarquia das normas previdenciárias
+A hierarquia das normas é a ordem de graduação entre elas, de forma que a superior é
+fundamento de validade da inferior:
+      – normas constitucionais;
+      – leis complementares, ordinárias, delegadas, tratados internacionais, medidas provisórias,
+decretos legislativos e resoluções do Senado;
+      – decretos regulamentares;
+      – instruções normativas, portarias, ordens de serviços.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   16
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+     Adriana Menezes
+     Aula 01
+
+“É tecnicamente indevida a expressão hierarquia das leis, pois não existe hierarquia entre atos
+legais, mas sim entre normas jurídicas.”3 No caso de confronto entre duas normas, aplica-se a de
+hierarquia superior.
+Caso as normas estejam no mesmo patamar hierárquico, prevalecerá a norma especial em
+relação à norma geral. Os tratados, convenções e outros acordos internacionais de que Estado
+estrangeiro ou organismo internacional e o Brasil sejam partes e que versem sobre matéria
+previdenciária são interpretados como leis especiais.
+Também, pode ser aplicado o princípio in dúbio pro misero. No caso de haver conflito entre duas
+normas de mesma hierarquia, na dúvida, utiliza-se a lei mais benéfica. Havendo duas normas
+equivalentes que tratem da questão previdenciária, aplica-se a mais favorável ao beneficiário.
+
+                                                                    ==219a34==
+
+                                                   •​ ordinária: aprovação por maioria simples dos votos.
+
+                                                   •​ complementar: aprovação por maioria absoluta dos votos.
+                                     Leis
+
+                                                   •​ delegada: elaborada pelo Poder Executivo com autorização do Poder
+                                                      Legislativo.
+
+
+                                   Medida          •​ ato do Poder Executivo com força de lei. Não pode tratar de matéria reservada
+                                  Provisória          à lei complementar.
+
+
+                                  Tratados e​      •​ são interpretados como “lei especial”.
+                LEGISLAÇÃO       convenções
+                                internacionais
+
+           PREVIDENCIÁRIA
+                                   Decreto         •​ ato expedido pelo Poder Executivo. Regulamenta a lei.
+
+
+                                                   Expedidas pelas autoridades administrativas:
+
+                                                   •​ Portarias;
+                                   Normas​
+                                complementare      •​ Instruções normativas;
+                                      s
+                                                   •​ Resoluções;
+
+                                                   •​ Orientações, etc.
+
+
+                                                   •​ em sentido amplo: Constituição Federal, leis, medidas provisórias e atos
+                FONTES DA            Lei              administrativos em geral.
+                LEGISLAÇÃO
+               PREVIDENCIÁRIA                      •​ em sentido estrito: leis ordinárias, leis complementares, leis delegadas e
+
+
+3
+.​        IBRAHIM, Fábio Zambitte. Curso de Direito Previdenciário. 19a ed., Niterói: Impetus, 2014, p.153.
+
+           Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                                      17
+           www.estrategiaconcursos.com.br                                                                                             45
+
+                                               
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                                 medidas provisórias.
+
+
+                          Jurisprudência       •​ decisões judiciais reiteradas sobre a mesma matéria.
+
+
+                                               poderão inovar no mundo jurídico, criando direitos e obrigações, desde que, é
+                                               claro, respeitem a Constituição Federal. São consideradas fontes primárias: as leis
+                             Primárias
+                                               ordinárias, complementares e delegadas e as medidas provisórias, decreto
+                                               legislativo e resolução do Senado.
+
+
+                                               não poderão contemplar novos direitos e obrigações, mas apenas regulamentar
+                                               as fontes primárias para o seu fiel cumprimento. Destacam-se, nesse caso, os
+                            Secundárias
+                                               decretos regulamentares, as instruções normativas, as resoluções, as orientações
+                                               internas e outras.
+            FONTES
+
+
+                                               são fontes potenciais do Direito, ou seja, fatores sociais, econômicos, políticos,
+                             Materiais
+                                               etc. que influem no surgimento de normas jurídicas.
+
+
+                                               englobam a Constituição, leis complementares, leis ordinárias, leis delegadas,
+                                               medidas provisórias, decretos legislativos, resoluções do Senado, decretos
+                              Formais
+                                               regulamentares do poder executivo, instruções ministeriais, circulares, portarias,
+                                               ordens de serviço e normas individuais.
+
+
+                                               •​ autêntico ou legal;
+
+                                               •​ jurisprudencial;
+                             quanto à
+                             origem:
+                                               •​ administrativo;
+
+                                               •​ doutrinário.
+
+
+                                               •​ literal ou gramatical;
+
+           MÉTODOS DE
+                                               •​ histórico ou genético;
+          INTERPRETAÇÃO      quanto ao
+                               meio:
+                                               •​ teleológico ou finalístico;
+
+                                               •​ sistemático.
+
+
+                                               •​ estrita;
+
+                              quanto à
+                                               •​ restritiva;
+                             finalidade:
+
+                                               •​ extensiva.
+
+
+                          •​ analogia;
+
+                          •​ equidade;
+          MÉTODOS DE
+          INTEGRAÇÃO
+                          •​ costumes;
+
+                          •​ princípios gerais de Direito.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                                          18
+      www.estrategiaconcursos.com.br                                                                                                 45
+
+                                           
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   19
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+ Adriana Menezes
+ Aula 01
+
+                                                LEGISLAÇÃO
+Constituição Federal
+
+    Art. 22. Compete privativamente à União legislar sobre:
+
+    (...)
+
+    XXI - normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização,
+    inatividades e pensões das polícias militares e dos corpos de bombeiros militares; (Redação dada
+    pela Emenda Constitucional nº 103, de 2019)
+
+    XXIII – seguridade social;
+
+    (...)
+
+    Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+
+    (...)
+
+    XII – previdência social, proteção e defesa da saúde;
+
+    (...)
+
+    Art. 59. O processo legislativo compreende a elaboração de:
+
+    I – emendas à Constituição;
+
+    II – leis complementares;
+
+    III – leis ordinárias;
+
+    IV – leis delegadas;
+
+    V – medidas provisórias;
+
+    VI – decretos legislativos;
+
+    VII – resoluções.
+
+    Parágrafo único. Lei complementar disporá sobre a elaboração, redação, alteração e consolidação
+    das leis.
+
+    Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas
+    provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.
+
+    § 1º É vedada a edição de medidas provisórias sobre matéria:
+
+    I – relativa a:
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes            20
+        www.estrategiaconcursos.com.br                                                                   45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+   a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;
+
+   b) direito penal, processual penal e processual civil;
+
+   c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus
+   membros;
+
+   d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares,
+   ressalvado o previsto no art. 167, § 3º;
+
+   II – que vise a detenção ou sequestro de bens, de poupança popular ou qualquer outro ativo
+   financeiro;
+
+   III – reservada a lei complementar;
+
+   IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou
+   veto do Presidente da República.
+
+   § 2º Medida provisória que implique instituição ou majoração de impostos, exceto os previstos nos
+   arts. 153, I, II, IV, V, e 154, II, só produzirá efeitos no exercício financeiro seguinte se houver sido
+   convertida em lei até o último dia daquele em que foi editada.
+
+   § 3º As medidas provisórias, ressalvado o disposto nos §§ 11 e 12 perderão eficácia, desde a
+   edição, se não forem convertidas em lei no prazo de sessenta dias, prorrogável, nos termos do §
+   7º, uma vez por igual período, devendo o Congresso Nacional disciplinar, por decreto legislativo,
+   as relações jurídicas delas decorrentes.
+
+   § 4º O prazo a que se refere o § 3º contar-se-á da publicação da medida provisória,
+   suspendendo-se durante os períodos de recesso do Congresso Nacional.
+
+   § 5º A deliberação de cada uma das Casas do Congresso Nacional sobre o mérito das medidas
+   provisórias dependerá de juízo prévio sobre o atendimento de seus pressupostos constitucionais.
+
+   § 6º Se a medida provisória não for apreciada em até quarenta e cinco dias contados de sua
+   publicação, entrará em regime de urgência, subsequentemente, em cada uma das Casas do
+   Congresso Nacional, ficando sobrestadas, até que se ultime a votação, todas as demais
+   deliberações legislativas da Casa em que estiver tramitando.
+
+   § 7º Prorrogar-se-á uma única vez por igual período a vigência de medida provisória que, no prazo
+   de sessenta dias, contado de sua publicação, não tiver a sua votação encerrada nas duas Casas do
+   Congresso Nacional.
+
+   § 8º As medidas provisórias terão sua votação iniciada na Câmara dos Deputados.
+
+   § 9º Caberá à comissão mista de Deputados e Senadores examinar as medidas provisórias e sobre
+   elas emitir parecer, antes de serem apreciadas, em sessão separada, pelo plenário de cada uma das
+   Casas do Congresso Nacional.
+
+   § 10. É vedada a reedição, na mesma sessão legislativa, de medida provisória que tenha sido
+   rejeitada ou que tenha perdido sua eficácia por decurso de prazo.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes                   21
+      www.estrategiaconcursos.com.br                                                                          45
+
+                                   
+
+
+---
+
+ Adriana Menezes
+ Aula 01
+
+    § 11. Não editado o decreto legislativo a que se refere o § 3º até sessenta dias após a rejeição ou
+    perda de eficácia de medida provisória, as relações jurídicas constituídas e decorrentes de atos
+    praticados durante sua vigência conservar-se-ão por ela regidas.
+
+    § 12. Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta
+    manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto.
+
+    Art. 84. Compete privativamente ao Presidente da República:
+
+    (...)
+
+    IV – sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para
+    sua fiel execução;
+
+    (...)
+
+
+Lei nº 8.212/91
+
+    Art. 85-A. Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou
+    organismo internacional e o Brasil sejam partes, e que versem sobre matéria previdenciária, serão
+    interpretados como lei especial.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes             22
+        www.estrategiaconcursos.com.br                                                                    45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+LEGISLAÇÃO PREVIDENCIÁRIA: CONTEÚDO, FONTE, AUTONOMIA
+               QUESTÕES COMENTADAS
+                    CEBRASPE
+ 1.​ (CEBRASPE/INSS - Técnico do Seguro Social – 3º Curso de Formação/2025) Considerando
+     as regras gerais da seguridade social e o regime geral de previdência social (RGPS), julgue
+     os itens a seguir.
+     Os dispositivos constitucionais que tratam da seguridade social e suas disposições gerais,
+     da saúde, da previdência e da assistência social funcionam como fundamento de validade
+     para todo o ordenamento normativo direta ou indiretamente aplicado ao direito
+     previdenciário.
+     ( ) CERTO ( ) ERRADO
+     Comentário:
+     A Constituição Federal é a lei maior do nosso ordenamento jurídico. E ela que vai dar
+     validade às demais disposições normativas a respeito da seguridade social (saúde,
+     previdência e assistência social).
+
+
+     Gabarito: Certo
+
+
+ 2.​ (CEBRASPE/INSS/Técnico da Seguridade Social/Reaplicação Guarulhos/2022) - Suponha
+     que o Executivo federal tenha editado um decreto para regular matéria referente à
+     criação de um novo benefício previdenciário e ao aumento da contribuição para arcar com
+     o custeio do benefício criado. Nesse caso, tanto o segurado pode exigir a imediata
+     concessão do benefício instituído quanto a previdência pode exigir o imediato
+     pagamento da alíquota majorada.
+     ( ) CERTO ( ) ERRADO
+     Comentários:
+     Benefícios e vantagens previdenciárias devem ser criados por lei. Decreto não é ato
+     normativo para criar direitos e obrigações.
+     As contribuições sociais devem ser criadas por lei e sua modificação, também. Não cabe a
+     utilização do Decreto para criar tributos.
+     Gabarito: Errado
+
+
+ 3.​ (CEBRASPE/INSS/Técnico da Seguridade Social/Reaplicação Guarulhos/2022) - A
+     Constituição Federal é considerada uma fonte formal primária do direito previdenciário
+     brasileiro.
+     ( ) CERTO ( ) ERRADO
+     Comentários:
+     A Constituição Federal é a Lei Maior, fonte primária do Direito Previdenciário Brasileiro.
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes       23
+      www.estrategiaconcursos.com.br                                                              45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+     Gabarito: Certo
+
+
+ 4.​ (CEBRASPE/Técnico Administrativo/INSS/2016) – Lei complementar editada pela União
+     poderá autorizar os Estados e o DF a legislar sobre questões específicas relacionadas à
+     seguridade social.
+     ( ) CERTO ( ) ERRADO
+     Comentários:
+     Compete à União legislar privativamente sobre seguridade social. No entanto, lei
+     complementar editada pela União poderá autorizar os Estados e o DF legislar sobre
+     questões específicas relacionadas à seguridade social. É o que se depreende do disposto
+     no art. 22, inciso XXIII e parágrafo único, da Constituição Federal.
+     Gabarito: Certo                                   ==219a34==
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   24
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                 LEGISLAÇÃO PREVIDENCIÁRIA
+     APLICAÇÃO DAS NORMAS PREVIDENCIÁRIAS: HIERARQUIA;
+            VIGÊNCIA; INTERPRETAÇÃO; INTEGRAÇÃO.
+                   QUESTÕES COMENTADAS
+                         CEBRASPE
+1.​    (2022/CEBRASPE/INSS - Técnico do Seguro Social) - O princípio da territorialidade vige no
+âmbito do direito previdenciário, razão por que é vedada a aplicação da norma brasileira desse
+ramo do direito fora do território nacional.
+( ) CERTO ( ) ERRADO
+                                                         ==219a34==
+
+2.​    (2022/CEBRASPE/INSS/ Técnico do Seguro Social - Reaplicação Guarulhos) - Caso haja
+lacuna na legislação, o intérprete poderá valer-se de analogia, costumes e princípios gerais do
+direito como instrumentos integrativos para resolver questões referentes à matéria
+previdenciária.
+( ) CERTO ( ) ERRADO
+
+3.​     (2014/CEBRASPE/Câmara dos Deputados - Analista Legislativo) – Acerca da legislação
+previdenciária, especialmente no que se refere as suas fontes, autonomia, vigência e
+interpretação, julgue o item que se segue.
+– Ao se utilizar do método de interpretação teleológico o intérprete busca compatibilizar o texto
+legal a ser interpretado com as demais normas que compõem o ordenamento jurídico,
+visualizando a lei objeto de interpretação como parte de um todo.
+( ) CERTO ( ) ERRADO
+
+4.​    (2013/CEBRASPE/TRF 5ª Região - Juiz Federal Substituto) – No que concerne aos
+princípios, à eficácia e à interpretação das normas de seguridade social, assinale a opção correta.
+a) Embora não haja nas normas previdenciárias preceito equivalente ao previsto no CPC,
+segundo o qual o juiz somente se pode valer da equidade quando autorizado por lei, essa
+técnica tem sido utilizada na solução de conflitos que envolvam matéria previdenciária, como os
+casos de concessão de benefícios previdenciários nas relações homoafetivas.
+b) De acordo com o princípio do equilíbrio financeiro e atuarial, o poder público, na execução
+das políticas relativas à saúde e à assistência social, assim como à previdência social, deve
+atentar sempre para a relação entre custo e pagamento de benefícios, a fim de manter o sistema
+em condições superavitárias.
+c) Por adotar os princípios da seletividade e distributividade, o poder público pode averiguar a
+capacidade contributiva do indivíduo para fins de concessão dos benefícios e dos serviços da
+seguridade social.
+d) Como as normas previdenciárias aplicam-se somente às pessoas que vivem no território
+nacional, o brasileiro ou estrangeiro domiciliado e contratado no Brasil para trabalhar como
+empregado em sucursal ou agência de empresa nacional no exterior não pode ser segurado da
+previdência social.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   25
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+e) Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou
+organismo internacional e o Brasil sejam partes e que versem sobre matéria previdenciária são
+interpretadas como leis ordinárias gerais.
+
+5.​    (2011/CEBRASPE/TRF 5ª Região - Juiz Federal Substituto) – Em relação às fontes e
+princípios e à eficácia e interpretação das normas de seguridade, assinale a opção correta.
+a) Com base no princípio constitucional de irredutibilidade do valor dos benefícios, não se
+admite redução do valor nominal do benefício previdenciário pago em atraso, exceto na
+hipótese de índice negativo de correção para os períodos em que ocorra deflação.
+b) As fontes formais do direito previdenciário consistem nos fatores que interferem na produção
+de suas normas jurídicas, como, por exemplo, os fundamentos do surgimento e da manutenção
+dos seguros sociais e os costumes no âmbito das relações entre a autarquia previdenciária – no
+caso, o INSS – e o segurado.
+c) Havendo antinomia entre norma principiológica e norma infraconstitucional, a questão se
+resolve pela sobreposição da norma constitucional à legal, razão pela qual o STF declarou a
+inconstitucionalidade formal da Lei nº 9.876/1999, na parte que estendeu o salário-maternidade
+às contribuintes individuais, sob o argumento de que a CF somente prevê o benefício
+expressamente às empregadas urbanas, rurais e domésticas e às trabalhadoras avulsas.
+d) Diante de aparente antinomia entre normas principiológicas ou constitucionais, não é correto,
+segundo a doutrina dominante, falar-se em conflito, mas em momentâneo estado de tensão ou
+de mal-estar hermenêutico, cuja solução não se dá pela exclusão de uma norma do
+ordenamento jurídico, como ocorre com as regras em geral, mas pela ponderação entre os
+princípios, em cada caso concreto.
+e) A interpretação teleológica das normas previdenciárias consiste na análise da norma no
+contexto desse ramo do direito ou do ordenamento jurídico como um todo, e não,
+isoladamente. Busca-se, com isso, a integração da norma com os princípios.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   26
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                      QUESTÕES COMENTADAS
+                                 LEGISLAÇÃO PREVIDENCIÁRIA
+                                                        FGV
+1.​ (2023/FGV/JT (CSJT)/CSJT) A respeito dos princípios previdenciários, e considerando a
+    jurisprudência dominante nos Tribunais Superiores, é correto afirmar que:
+
+   a) o princípio da solidariedade norteia as regras dos sistemas públicos e privados de
+   previdência social no ordenamento jurídico pátrio, sob a égide de que os indivíduos têm
+   deveres sociais, independentemente de qualquer contraprestação;
+   b) a partir do princípio da universalidade de custeio da Previdência Social, justifica-se a
+   contribuição previdenciária do aposentado que permaneça em atividade ou que retorne à
+   atividade;
+   c) diante do caráter contributivo da Previdência Social, não se admite a percepção de
+   benefício sem a contribuição específica para o regime, mesmo quando a responsabilidade
+   pelo recolhimento tenha sido transmitida a pessoa diversa do próprio segurado;
+   d) o princípio da irredutibilidade do valor dos benefícios previdenciários garante o
+   reajustamento com vistas à preservação apenas do valor nominal obtido no momento de
+   sua concessão;
+   e) a partir do princípio da equivalência dos benefícios e serviços prestados às populações
+   urbanas e rurais, os requisitos para concessão de determinado benefício devem ser os
+   mesmos entre os trabalhadores urbanos e rurais.
+   Comentários:
+   Afirmativa A: Errada
+   Afirmativa B: Certa
+   Afirmativa C: Errada
+   Afirmativa D: Errada
+   Afirmativa E: Errada
+   Gabarito: B
+
+   2.​   (2023/FGV/FTE (SEFAZ MT)/SEFAZ MT) O Município Delta editou lei municipal
+   concedendo pensão especial não decorrente do regime geral de previdência social a
+   dependentes de prefeito e vice-prefeito falecidos no exercício do mandato.
+
+    De acordo com a jurisprudência do Supremo Tribunal Federal, a previsão é
+
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   27
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+   a) objeto de interpretação conforme à Constituição, pois foi firmado entendimento de que
+   apenas os dependentes do prefeito podem usufruir do benefício.
+   b) objeto de interpretação conforme à Constituição, pois foi firmado entendimento de que
+   apenas é constitucional tal pensão se houver autorização expressa na Constituição do
+   Estado, em paralelismo com o Executivo Estadual.
+   c) constitucional, porque o Município ostenta autonomia administrativa, orçamentária e
+   financeira, mas é imprescindível que haja indicação da fonte de custeio.
+   d) inconstitucional, por paralelismo com o nível federal, eis que a Constituição Federal
+   apenas garante tal benefício a Presidente da República que tenha exercido mandatos
+   eletivos diversos por, no mínimo, quinze anos.
+   e) inconstitucional, por se tratar de benefício incompatível com a sistemática previdenciária
+   constitucional e com os princípios republicano e da igualdade.
+   Comentários:
+   Afirmativa A: Errada
+   Afirmativa B: Errada
+   Afirmativa C: Errada
+   Afirmativa D: Errada
+   Afirmativa E: Certa
+   Gabarito: E
+
+   3.​    (2023/FGV/JT (CSJT)/CSJT) João laborava em uma propriedade rural, onde cultivam
+   uvas, posteriormente revendidas para vinícolas da região. Além de alimentar e cuidar dos
+   poucos animais do local, também auxiliava no plantio e na colheita das uvas, sempre que
+   necessário. João recebia dois salários mínimos por mês. Quando trabalhava nas parreiras,
+   recebia mais um salário mínimo. Após cinco anos trabalhando na informalidade, quando
+   mandado embora pelo novo dono da propriedade, ingressou com ação trabalhista,
+   postulando o reconhecimento da relação de emprego e o adimplemento de verbas
+   trabalhistas do período contratual. Mesmo sem juntar qualquer documento no processo, na
+   audiência designada pelo juízo, foi celebrado um acordo entre as partes, em que, ajustada
+   a anotação de três anos do contrato de trabalho na sua carteira profissional, além do
+   pagamento de R$30.000,00 a título de parcelas salariais e indenizatórias.
+
+   Com base no relato acima e considerando a jurisprudência dominante no Superior Tribunal
+   de Justiça, é correto afirmar, para efeito de futura concessão de aposentadoria por tempo
+   de contribuição, que:
+   a) a anotação do contrato de trabalho de três anos na CTPS permite o reconhecimento de
+   idêntico tempo de serviço rural, desde que efetuado o recolhimento das contribuições
+   previdenciárias incidentes sobre o valor pago no acordo trabalhista;
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   28
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+   b) a anotação do contrato de trabalho de três anos na CTPS permite o reconhecimento dos
+   cinco anos de serviço rural, desde que efetuado o recolhimento das contribuições
+   previdenciárias incidentes sobre as remunerações devidas ao longo do período contratual
+   registrado na CTPS;
+   c) a anotação do contrato de trabalho na CTPS permite o reconhecimento de idêntico
+   tempo de serviço rural, independentemente do recolhimento de contribuições
+   previdenciárias devidas;
+   d) a anotação do contrato de trabalho na CTPS, aliada à produção em ação própria de
+   prova oral relativa à parte do período contratual restante, permite o reconhecimento dos
+   cinco anos de serviço rural, independentemente do recolhimento das contribuições
+   previdenciárias;
+   e) a anotação do contrato de trabalho na CTPS, aliada a outros elementos probatórios
+   convincentes e contemporâneos aos fatos, permite o reconhecimento de até cinco anos de
+                                                       ==219a34==
+
+   serviço rural, sem prejuízo do adimplemento das contribuições previdenciárias devidas.
+   Comentários:
+   Afirmativa A: Errada
+   Afirmativa B: Errada
+   Afirmativa C: Errada
+   Afirmativa D: Errada
+   Afirmativa E: Certa
+   Gabarito: E
+
+   4.​     (2023/FGV/JT (CSJT)/CSJT) João ajuizou ação trabalhista contra a empresa em que
+   laborava, como vendedor externo, pleiteando a conversão da justa causa em despedida
+   imotivada e o pagamento de verbas trabalhistas. Por ocasião da sentença, houve a reversão
+   da justa causa para despedida imotivada, além da condenação ao pagamento das parcelas
+   salariais e indenizatórias.
+
+   Com base no relato acima, considerando a Lei nº 8.212/1991 e a jurisprudência dominante
+   no Superior Tribunal de Justiça, haverá a incidência de contribuição previdenciária na
+   seguinte parcela recebida pelo trabalhador:
+   a) aviso prévio indenizado;
+   b) terço constitucional de férias indenizadas;
+   c) horas extras;
+   d) diárias para viagens;
+   e) vale-transporte, na forma da legislação própria.
+   Comentários:
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   29
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+   Afirmativa A: Errada
+   Afirmativa B: Errada
+   Afirmativa C: Certa
+   Afirmativa D: Errada
+   Letra E: Errada
+   Gabarito: C
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   30
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                                    GABARITO
+
+ 1.​ B
+ 2.​ E
+ 3.​ E
+ 4.​ C
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   31
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                            LEGISLAÇÃO PREVIDENCIÁRIA
+                         – CONTEÚDO – FONTE - AUTONOMIA
+                              QUESTÕES COMENTADAS
+                         FUNDAÇÃO CARLOS CHAGAS - FCC
+
+1.​   (FCC/Técnico do Seguro Social/INSS/2012) – Em relação às fontes do direito
+previdenciário:
+a) o memorando é fonte primária.
+b) a orientação normativa é fonte primária.
+c) a instrução normativa é fonte secundária.
+d) a lei delegada é fonte secundária.
+e) a medida provisória é fonte secundária.
+Comentários:
+As leis ordinárias, complementares e delegadas e as medidas provisórias são consideradas fontes
+primárias do Direito Previdenciário. Elas poderão inovar no mundo jurídico, criando direitos e
+obrigações, desde que, é claro, respeitem a Constituição Federal.
+As fontes secundárias não poderão contemplar novos direitos e obrigações, mas apenas
+regulamentar as fontes primárias para o seu fiel cumprimento. Destacam-se, nesse caso, os
+decretos, as instruções normativas, as resoluções, as orientações internas e outras.
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   32
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                 LEGISLAÇÃO PREVIDENCIÁRIA
+     APLICAÇÃO DAS NORMAS PREVIDENCIÁRIAS: HIERARQUIA;
+            VIGÊNCIA; INTERPRETAÇÃO; INTEGRAÇÃO
+                   QUESTÕES COMENTADAS
+             FUNDAÇÃO CARLOS CHAGAS - FCC
+1.​       (2013/FCC/ TRT 5ª Região – Analista Judiciário – Área Judiciária) Considere as afirmações:
+I. No âmbito do Direito Previdenciário, as expressões “seguridade social” e “assistência social”
+são sinônimas puras, revelando sistemas idênticos, que são universalizados, contributivos e
+contam com a participação obrigatória da União, de empregadores e empregados.
+II. Em Direito Previdenciário, torna-se possível a solução de controvérsias mediante aplicação da
+equidade, de que é exemplo a concessão de salário-maternidade para o segurado homem que,
+em relação homoafetiva, adota criança.
+III. As normas internacionais entre organismos estrangeiros e o Brasil, tais como tratados,
+acordos ou convenções, quando versem sobre matéria previdenciária, devem ser interpretados
+como lei especial, nos termos do art. 85-A, da Lei nº 8212/1991.
+IV. Previdência Social engloba um conceito amplo, universal, sendo em verdade o gênero da qual
+são espécies a assistência social, a saúde e a seguridade social.
+Está correto o que se afirma APENAS em:
+a) I, II e III.
+b) II e IV.
+c) II e III.
+d) III e IV.
+e) I, III e IV.
+Comentários:
+A afirmativa I está incorreta. No âmbito do Direito Previdenciário, as expressões “seguridade
+social” e “assistência social” não são sinônimas puras. A seguridade social, segundo dispõe o art.
+194, caput, da Constituição Federal constitui um conjunto integrado de ações de iniciativa dos
+Poderes Públicos e da sociedade destinadas a assegurar os direitos à saúde, à previdência e à
+assistência social. Dos três subsistemas – saúde, previdência e assistência social – o único que é
+contributivo é a previdência social.
+A afirmativa II está correta. A equidade é uma das formas de integração da norma previdenciária.
+A sua utilização propiciou a concessão de salário-maternidade para o segurado homem que, em
+relação homoafetiva, adota criança.
+No entanto, com o advento da Lei nº 12.873/2013, já é possível que o segurado homem seja
+beneficiado com o salário-maternidade nos casos de adoção e guarda judicial para fins de
+adoção.
+A afirmativa III está correta. É transcrição pura do art. 85-A da Lei nº 8.212/91.
+A afirmativa IV está incorreta. Na verdade, é a seguridade social que se apresenta como gênero
+da qual são espécies a assistência social, a saúde e a previdência social.
+Gabarito: C. As afirmativas II e III estão corretas.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes    33
+        www.estrategiaconcursos.com.br                                                           45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+LEGISLAÇÃO PREVIDENCIÁRIA: CONTEÚDO, FONTE, AUTONOMIA
+                 LISTA DE QUESTÕES
+                    CEBRASPE
+ 1.​ (CEBRASPE/INSS - Técnico do Seguro Social – 3º Curso de Formação/2025) Considerando
+     as regras gerais da seguridade social e o regime geral de previdência social (RGPS), julgue
+     os itens a seguir.
+     Os dispositivos constitucionais que tratam da seguridade social e suas disposições gerais,
+     da saúde, da previdência e da assistência social funcionam como fundamento de validade
+     para todo o ordenamento normativo direta ou indiretamente aplicado ao direito
+     previdenciário.
+     ( ) CERTO ( ) ERRADO
+
+ 2.​ (CEBRASPE/INSS/Técnico da Seguridade Social/Reaplicação Guarulhos/2022) - Suponha
+     que o Executivo federal tenha editado um decreto para regular matéria referente à
+     criação de um novo benefício previdenciário e ao aumento da contribuição para arcar com
+     o custeio do benefício criado. Nesse caso, tanto o segurado pode exigir a imediata
+     concessão do benefício instituído quanto a previdência pode exigir o imediato
+     pagamento da alíquota majorada.
+     ( ) CERTO ( ) ERRADO
+
+ 3.​ (CEBRASPE/INSS/Técnico da Seguridade Social/Reaplicação Guarulhos/2022) - A
+     Constituição Federal é considerada uma fonte formal primária do direito previdenciário
+     brasileiro.
+     ( ) CERTO ( ) ERRADO
+
+
+ 4.​ (CEBRASPE/Técnico Administrativo/INSS/2016) – Lei complementar editada pela União
+     poderá autorizar os Estados e o DF a legislar sobre questões específicas relacionadas à
+     seguridade social.
+     ( ) CERTO ( ) ERRADO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   34
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                                GABARITO
+ 1.​ Certo
+ 2.​ Errado
+ 3.​ Certo
+ 4.​ Certo
+
+                                                       ==219a34==
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   35
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                 LEGISLAÇÃO PREVIDENCIÁRIA
+     APLICAÇÃO DAS NORMAS PREVIDENCIÁRIAS: HIERARQUIA;
+            VIGÊNCIA; INTERPRETAÇÃO; INTEGRAÇÃO.
+                      LISTA DE QUESTÕES
+                         CEBRASPE
+1.​    (2022/CEBRASPE/INSS - Técnico do Seguro Social) - O princípio da territorialidade vige no
+âmbito do direito previdenciário, razão por que é vedada a aplicação da norma brasileira desse
+ramo do direito fora do território nacional.
+( ) CERTO ( ) ERRADO
+                                                         ==219a34==
+
+2.​    (2022/CEBRASPE/INSS - Técnico do Seguro Social - Reaplicação Guarulhos) - Caso haja
+lacuna na legislação, o intérprete poderá valer-se de analogia, costumes e princípios gerais do
+direito como instrumentos integrativos para resolver questões referentes à matéria
+previdenciária.
+( ) CERTO ( ) ERRADO
+
+3.​     (2014/CEBRASPE/Câmara dos Depurados - Analista Legislativo) – Acerca da legislação
+previdenciária, especialmente no que se refere as suas fontes, autonomia, vigência e
+interpretação, julgue o item que se segue.
+– Ao se utilizar do método de interpretação teleológico o intérprete busca compatibilizar o texto
+legal a ser interpretado com as demais normas que compõem o ordenamento jurídico,
+visualizando a lei objeto de interpretação como parte de um todo.
+( ) CERTO ( ) ERRADO
+
+4.​    (2013/CEBRASPE/TRF 5ª Região - Juiz Federal Substituto) – No que concerne aos
+princípios, à eficácia e à interpretação das normas de seguridade social, assinale a opção correta.
+a) Embora não haja nas normas previdenciárias preceito equivalente ao previsto no CPC,
+segundo o qual o juiz somente se pode valer da equidade quando autorizado por lei, essa
+técnica tem sido utilizada na solução de conflitos que envolvam matéria previdenciária, como os
+casos de concessão de benefícios previdenciários nas relações homoafetivas.
+b) De acordo com o princípio do equilíbrio financeiro e atuarial, o poder público, na execução
+das políticas relativas à saúde e à assistência social, assim como à previdência social, deve
+atentar sempre para a relação entre custo e pagamento de benefícios, a fim de manter o sistema
+em condições superavitárias.
+c) Por adotar os princípios da seletividade e distributividade, o poder público pode averiguar a
+capacidade contributiva do indivíduo para fins de concessão dos benefícios e dos serviços da
+seguridade social.
+d) Como as normas previdenciárias aplicam-se somente às pessoas que vivem no território
+nacional, o brasileiro ou estrangeiro domiciliado e contratado no Brasil para trabalhar como
+empregado em sucursal ou agência de empresa nacional no exterior não pode ser segurado da
+previdência social.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   36
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+e) Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou
+organismo internacional e o Brasil sejam partes e que versem sobre matéria previdenciária são
+interpretadas como leis ordinárias gerais.
+
+5.​    (2011/CEBRASPE/TRF 5ª Região - Juiz Federal Substituto) – Em relação às fontes e
+princípios e à eficácia e interpretação das normas de seguridade, assinale a opção correta.
+a) Com base no princípio constitucional de irredutibilidade do valor dos benefícios, não se
+admite redução do valor nominal do benefício previdenciário pago em atraso, exceto na
+hipótese de índice negativo de correção para os períodos em que ocorra deflação.
+b) As fontes formais do direito previdenciário consistem nos fatores que interferem na produção
+de suas normas jurídicas, como, por exemplo, os fundamentos do surgimento e da manutenção
+dos seguros sociais e os costumes no âmbito das relações entre a autarquia previdenciária – no
+caso, o INSS – e o segurado.
+c) Havendo antinomia entre norma principiológica e norma infraconstitucional, a questão se
+resolve pela sobreposição da norma constitucional à legal, razão pela qual o STF declarou a
+inconstitucionalidade formal da Lei nº 9.876/1999, na parte que estendeu o salário-maternidade
+às contribuintes individuais, sob o argumento de que a CF somente prevê o benefício
+expressamente às empregadas urbanas, rurais e domésticas e às trabalhadoras avulsas.
+d) Diante de aparente antinomia entre normas principiológicas ou constitucionais, não é correto,
+segundo a doutrina dominante, falar-se em conflito, mas em momentâneo estado de tensão ou
+de mal-estar hermenêutico, cuja solução não se dá pela exclusão de uma norma do
+ordenamento jurídico, como ocorre com as regras em geral, mas pela ponderação entre os
+princípios, em cada caso concreto.
+e) A interpretação teleológica das normas previdenciárias consiste na análise da norma no
+contexto desse ramo do direito ou do ordenamento jurídico como um todo, e não,
+isoladamente. Busca-se, com isso, a integração da norma com os princípios.
+
+1. Errado
+2. Certo
+ 3. Errado
+4. A
+5. D
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   37
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                       LISTA DE QUESTÕES
+                              LEGISLAÇÃO PREVIDENCIÁRIA
+                                                     FGV
+
+          1.​ (2023/FGV/JT (CSJT)/CSJT) A respeito dos princípios previdenciários, e
+              considerando a jurisprudência dominante nos Tribunais Superiores, é correto
+              afirmar que:
+     a) o princípio da solidariedade norteia as regras dos sistemas públicos e privados
+     de previdência social no ordenamento jurídico pátrio, sob a égide de que os
+     indivíduos têm deveres sociais, independentemente de qualquer contraprestação;
+     b) a partir do princípio da universalidade de custeio da Previdência Social,
+     justifica-se a contribuição previdenciária do aposentado que permaneça em
+     atividade ou que retorne à atividade;
+     c) diante do caráter contributivo da Previdência Social, não se admite a percepção
+     de benefício sem a contribuição específica para o regime, mesmo quando a
+     responsabilidade pelo recolhimento tenha sido transmitida a pessoa diversa do
+     próprio segurado;
+     d) o princípio da irredutibilidade do valor dos benefícios previdenciários garante o
+     reajustamento com vistas à preservação apenas do valor nominal obtido no
+     momento de sua concessão;
+     e) a partir do princípio da equivalência dos benefícios e serviços prestados às
+     populações urbanas e rurais, os requisitos para concessão de determinado
+     benefício devem ser os mesmos entre os trabalhadores urbanos e rurais.
+
+
+          2.​ (2023/FGV/FTE (SEFAZ MT)/SEFAZ MT) O Município Delta editou lei
+              municipal concedendo pensão especial não decorrente do regime geral de
+              previdência social a dependentes de prefeito e vice-prefeito falecidos no
+              exercício do mandato.
+
+
+     De acordo com a jurisprudência do Supremo Tribunal Federal, a previsão é
+     a) objeto de interpretação conforme à Constituição, pois foi firmado entendimento
+     de que apenas os dependentes do prefeito podem usufruir do benefício.
+     b) objeto de interpretação conforme à Constituição, pois foi firmado entendimento
+     de que apenas é constitucional tal pensão se houver autorização expressa na
+     Constituição do Estado, em paralelismo com o Executivo Estadual.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   38
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+     c)    constitucional, porque o Município ostenta autonomia administrativa,
+     orçamentária e financeira, mas é imprescindível que haja indicação da fonte de
+     custeio.
+     d) inconstitucional, por paralelismo com o nível federal, eis que a Constituição
+     Federal apenas garante tal benefício a Presidente da República que tenha exercido
+     mandatos eletivos diversos por, no mínimo, quinze anos.
+     e) inconstitucional, por se tratar de benefício incompatível com a sistemática
+     previdenciária constitucional e com os princípios republicano e da igualdade.
+
+
+          3.​ (2023/FGV/JT (CSJT)/CSJT) João laborava em uma propriedade rural, onde
+              cultivam uvas, posteriormente revendidas para vinícolas da região. Além de
+              alimentar e cuidar dos poucos animais do local, também auxiliava no plantio
+              e na colheita das uvas, sempre que necessário. João recebia dois salários
+              mínimos por mês. Quando trabalhava nas parreiras, recebia mais um salário
+              mínimo. Após cinco anos trabalhando na informalidade, quando mandado
+              embora pelo novo dono da propriedade, ingressou com ação trabalhista,
+              postulando o reconhecimento da relação de emprego e o adimplemento de
+              verbas trabalhistas do período contratual. Mesmo sem juntar qualquer
+              documento no processo, na audiência designada pelo juízo, foi celebrado
+              um acordo entre as partes, em que, ajustada a anotação de três anos do
+              contrato de trabalho na sua carteira profissional, além do pagamento de R$
+              30.000,00 a título de parcelas salariais e indenizatórias.
+     Com base no relato acima e considerando a jurisprudência dominante no Superior
+     Tribunal de Justiça, é correto afirmar, para efeito de futura concessão de
+     aposentadoria por tempo de contribuição, que:
+     a) a anotação do contrato de trabalho de três anos na CTPS permite o
+     reconhecimento de idêntico tempo de serviço rural, desde que efetuado o
+     recolhimento das contribuições previdenciárias incidentes sobre o valor pago no
+     acordo trabalhista;
+     b) a anotação do contrato de trabalho de três anos na CTPS permite o
+     reconhecimento dos cinco anos de serviço rural, desde que efetuado o
+     recolhimento das contribuições previdenciárias incidentes sobre as remunerações
+     devidas ao longo do período contratual registrado na CTPS;
+     c) a anotação do contrato de trabalho na CTPS permite o reconhecimento de
+     idêntico tempo de serviço rural, independentemente do recolhimento de
+     contribuições previdenciárias devidas;
+     d) a anotação do contrato de trabalho na CTPS, aliada à produção em ação própria
+     de prova oral relativa à parte do período contratual restante, permite o
+     reconhecimento dos cinco anos de serviço rural, independentemente do
+     recolhimento das contribuições previdenciárias;
+     e) a anotação do contrato de trabalho na CTPS, aliada a outros elementos
+     probatórios convincentes e contemporâneos aos fatos, permite o reconhecimento
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   39
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+     de até cinco anos de serviço rural, sem prejuízo do adimplemento das contribuições
+     previdenciárias devidas.
+
+
+          4.​ (2023/FGV/JT (CSJT)/CSJT) João ajuizou ação trabalhista contra a empresa
+              em que laborava, como vendedor externo, pleiteando a conversão da justa
+              causa em despedida imotivada e o pagamento de verbas trabalhistas. Por
+              ocasião da sentença, houve a reversão da justa causa para despedida
+              imotivada, além da condenação ao pagamento das parcelas salariais e
+              indenizatórias.
+     Com base no relato acima, considerando a Lei nº 8.212/1991 e a jurisprudência
+     dominante no Superior Tribunal de Justiça, haverá a incidência de contribuição
+     previdenciária na seguinte parcela recebida pelo trabalhador:
+     a) aviso prévio indenizado;                       ==219a34==
+
+     b) terço constitucional de férias indenizadas;
+     c) horas extras;
+     d) diárias para viagens;
+
+     e) vale-transporte, na forma da legislação própria.
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   40
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+Adriana Menezes
+Aula 01
+
+                                                GABARITO
+
+ 1.​ B
+ 2.​ E
+ 3.​ E
+ 4.​ C
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   41
+      www.estrategiaconcursos.com.br                                                          45
+
+                                   
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                            LEGISLAÇÃO PREVIDENCIÁRIA
+                         – CONTEÚDO – FONTE - AUTONOMIA
+                                LISTA DE QUESTÕES
+                         FUNDAÇÃO CARLOS CHAGAS - FCC
+
+1.​   (FCC/Técnico do Seguro Social/INSS/2012) – Em relação às fontes do direito
+previdenciário:
+a) o memorando é fonte primária.
+b) a orientação normativa é fonte primária.
+c) a instrução normativa é fonte secundária.
+d) a lei delegada é fonte secundária.
+e) a medida provisória é fonte secundária.
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   42
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                                                  GABARITO
+1.​    C
+
+                                                         ==219a34==
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   43
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+  Adriana Menezes
+  Aula 01
+
+                 LEGISLAÇÃO PREVIDENCIÁRIA
+     APLICAÇÃO DAS NORMAS PREVIDENCIÁRIAS: HIERARQUIA;
+            VIGÊNCIA; INTERPRETAÇÃO; INTEGRAÇÃO
+                     LISTA DE QUESTÕES
+             FUNDAÇÃO CARLOS CHAGAS - FCC
+1.​       (2013/FCC/ TRT 5ª Região – Analista Judiciário – Área Judiciária) - Considere as
+afirmações:
+I. No âmbito do Direito Previdenciário, as expressões “seguridade social” e “assistência social”
+são sinônimas puras, revelando sistemas idênticos, que são universalizados, contributivos e
+contam com a participação obrigatória da União, de empregadores e empregados.
+                                                         ==219a34==
+
+II. Em Direito Previdenciário, torna-se possível a solução de controvérsias mediante aplicação da
+equidade, de que é exemplo a concessão de salário-maternidade para o segurado homem que,
+em relação homoafetiva, adota criança.
+III. As normas internacionais entre organismos estrangeiros e o Brasil, tais como tratados,
+acordos ou convenções, quando versem sobre matéria previdenciária, devem ser interpretados
+como lei especial, nos termos do art. 85-A, da Lei nº 8212/1991.
+IV. Previdência Social engloba um conceito amplo, universal, sendo em verdade o gênero da qual
+são espécies a assistência social, a saúde e a seguridade social.
+Está correto o que se afirma APENAS em:
+a) I, II e III.
+b) II e IV.
+c) II e III.
+d) III e IV.
+e) I, III e IV.
+
+               1. C
+
+        Receita Federal (Analista Tributário) Direito Previdenciário - Profª. Adriana Menezes   44
+        www.estrategiaconcursos.com.br                                                          45
+
+                                     
+
+
+---
+
+---

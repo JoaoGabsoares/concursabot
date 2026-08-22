@@ -1,0 +1,338 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 15_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: IMPOSTOS DOS ESTADOS
+artigos_citados:
+- Art. 155.
+- art. 155
+sumulas_citadas:
+- Súmula 112
+- Súmula 113
+- Súmula 114
+- Súmula 115
+- Súmula 331
+---
+
+# IMPOSTOS DOS ESTADOS
+
+IMPOSTOS DOS ESTADOS
+ITCMD
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+ITCMD
+
+Direito Tributário
+Prof. Fábio Dutra                                         @ProfFabioDutra
+                     
+
+
+---
+
+ITCMD
+  ❑ Majoração/Redução de Alíquotas → Apenas por meio de lei.
+
+  ❑ Instituição/Majoração:
+
+  ❑ Aplica-se o princípio da anterioridade anual;
+
+  ❑ Aplica-se o princípio da anterioridade nonagesimal;
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                  
+
+
+---
+
+ITCMD
+
+  ❑ Fato Gerador:
+
+  ❑ Transmissão de propriedade de quaisquer bens (móveis e imóveis), em
+    decorrência de:
+
+                     ❑ Falecimento do titular (causa mortis);
+
+                     ❑ Transmissão e cessão gratuita (doações).
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                         
+
+
+---
+
+ITCMD
+      ❑ As alíquotas máximas do ITCMD serão fixadas pelo Senado Federal.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+ITCMD
+      ❑ O ITCMD é devido:
+
+
+      ❑ Relativamente a bens imóveis e respectivos direitos, compete ao Estado da
+        situação do bem, ou ao Distrito Federal;
+
+
+      ❑ Relativamente a bens móveis, títulos e créditos, compete ao Estado onde era
+        domiciliado o de cujus, ou tiver domicílio o doador, ou ao Distrito Federal.
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                
+
+
+---
+
+ITCMD
+  ❑Antes da Reforma Tributária (bens móveis, títulos e créditos):
+
+  ❑Transmissão causa mortis → o imposto cabia ao Estado onde fosse
+   processado o inventário ou arrolamento.
+  ❑Doações → competia ao Estado onde tivesse domicílio o doador.
+
+  ❑Depois da Reforma Tributária:
+
+  ❑Transmissão causa mortis → o imposto cabe ao Estado onde era
+   domiciliado o de cujus.
+  ❑Doações → competia ao Estado onde tiver domicílio o doador.
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                           
+
+
+---
+
+---
+
+ITCMD
+
+      ❑O ITCMD terá competência para sua instituição regulada por lei
+       complementar:
+
+                     ❑se o doador tiver domicilio ou residência no exterior;
+
+                     ❑se o de cujus possuía bens, era residente ou domiciliado ou teve
+                      o seu inventário processado no exterior;
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                      
+
+
+---
+
+ITCMD
+
+      ❑ É vedado aos estados e ao Distrito Federal instituir o ITCMD nas hipóteses
+       referidas no art. 155, § 1º, III, da Constituição Federal sem a intervenção da lei
+       complementar exigida pelo referido dispositivo constitucional. (STF, Tema 825)
+
+                 ❑ Os casos de lei complementar devem ser associados às seguintes palavras-
+                   chave: exterior, doador e de cujus (falecido).
+                 ❑ Tenha cuidado com questões que mencionam donatário, em vez de
+                   doador!
+                 ❑ STF decidiu que os Estados não podem tributar tais situações sem que
+                   haja lei complementar sobre a matéria.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                      @ProfFabioDutra
+                                        
+
+
+---
+
+ITCMD
+                       Bens imóveis e                       Estado onde se
+                     respectivos direitos                  localiza o imóvel.
+
+
+                                                                                 Estado onde era
+                                                             Causa Mortis        domiciliado o de
+                                                                                      cujus
+                     Bens móveis, títulos
+                          e créditos
+                                                                                  Estado onde tiver
+                                                                 Doação
+                                                                                 domicílio o doador
+
+                     De cujus ou doador                    Definição em lei
+                         no exterior                       complementar
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                   @ProfFabioDutra
+                                            
+
+
+---
+
+ITCMD
+
+
+   ❑ 1: Identificar se é um bem imóvel ou bem móvel.
+
+   ❑ 2: Se for bem imóvel, a resposta é clara: localização do imóvel.
+
+   ❑ 3: Se for bem móvel, verificar se é uma doação ou se trata do falecimento do
+     titular:
+
+                ❑3.1 – Para doação: domicílio do DOADOR
+
+                ❑3.2 – Para falecimento, onde era DOMICILIADO O DE CUJUS
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                      
+
+
+---
+
+ITCMD
+    ❑ É legítima a incidência do imposto de transmissão causa mortis no
+      inventário por morte presumida. (STF, Súmula 331)
+
+    ❑ O imposto de transmissão "causa mortis" é devido pela alíquota vigente ao
+      tempo da abertura da sucessão. (STF, Súmula 112)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+ITCMD
+    ❑ Imposto de Transmissão Causa Mortis é calculado sobre o valor dos bens na
+      data da avaliação. (STF, Súmula 113)
+
+    ❑ O Imposto de Transmissão Causa Mortis não é exigível antes da
+      homologação do cálculo. (STF, Súmula 114)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+ITCMD
+    ❑ Sobre os honorários do advogado contratado pelo inventariante, com a
+      homologação do juiz, não incide o Imposto de Transmissão Causa Mortis.
+      (STF, Súmula 115)
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                             
+
+
+---
+
+ITCMD
+    Art. 155.
+    § 1º O imposto previsto no inciso I: (Redação dada pela Emenda Constitucional
+    nº 3, de 1993)
+    (...)
+    VI - será progressivo em razão do valor do quinhão, do legado ou da doação;
+    (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                               
+
+
+---
+
+ITCMD
+
+
+   ❑ O ITCMD será progressivo em razão do valor do quinhão, do legado ou da
+     doação.
+
+Direito Tributário
+Prof. Fábio Dutra                                                     @ProfFabioDutra
+                             
+
+
+---
+
+ITCMD
+    Art. 155.
+    § 1º O imposto previsto no inciso I: (Redação dada pela Emenda Constitucional
+    nº 3, de 1993)
+    (...)
+    V - não incidirá sobre as doações destinadas, no âmbito do Poder Executivo da
+    União, a projetos socioambientais ou destinados a mitigar os efeitos das
+    mudanças climáticas e às instituições federais de ensino. (Incluído pela
+    Emenda Constitucional nº 126, de 2022)
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                               
+
+
+---
+
+ITCMD
+     Art. 155.
+    § 1º O imposto previsto no inciso I: (Redação dada pela Emenda Constitucional
+    nº 3, de 1993)
+    (...)
+    VII - não incidirá sobre as transmissões e as doações para as instituições sem
+    fins lucrativos com finalidade de relevância pública e social, inclusive as
+    organizações assistenciais e beneficentes de entidades religiosas e institutos
+    científicos e tecnológicos, e por elas realizadas na consecução dos seus
+    objetivos sociais, observadas as condições estabelecidas em lei complementar.
+    (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                               
+
+
+---
+
+ITCMD
+
+   ❑ A imunidade do ITCMD desonera:
+
+   ❑ Doações a projetos socioambientais;
+   ❑ Doações a projetos destinados a mitigar os efeitos das mudanças climáticas;
+   ❑ Doações a às instituições federais de ensino.
+
+   ❑ Transmissões e as doações para:
+   ❑ As instituições sem fins lucrativos com finalidade de relevância pública e social,
+     inclusive as organizações assistenciais e beneficentes de entidades religiosas e
+     institutos científicos e tecnológicos, e por elas realizadas na consecução dos seus
+     objetivos sociais, observadas as condições estabelecidas em lei complementar.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                  @ProfFabioDutra
+                                 
+
+
+---
+
+---

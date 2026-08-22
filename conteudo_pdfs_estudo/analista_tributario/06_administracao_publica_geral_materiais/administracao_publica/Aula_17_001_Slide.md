@@ -1,0 +1,2172 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 17_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: GESTÃO DE PROJETOS
+---
+
+# GESTÃO DE PROJETOS
+
+---
+
+---
+
+GESTÃO DE PROJETOS
+
+                                             Prof. Stefan Fantini
+                                               @prof.stefan.fantini
+
+        
+
+
+---
+
+---
+
+Projeto
+Conceito
+
+                                                                           Criar Produtos,
+                                                            Início e Fim    Serviços ou
+                         Esforço
+         PROJETO                                            previamente     Resultados
+                        Temporário
+                                                             definidos        Únicos /
+                                                                            Exclusivos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                           
+
+
+---
+
+                                       são atividades temporárias, com início, meio e fim previamente definidos,
+                        Projetos      que têm por objetivo a produção de um serviço ou produto “unitário/único”,
+                                                        ou seja, um produto “novo/exclusivo”.
+   Projetos
+      x
+  Processos
+                                           são perenes (constantes). Trata-se de um conjunto de atividades
+                        Processos
+                                             rotineiras. Os processos possuem um ciclo de vida contínuo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (FGV – Câmara de Salvador – Analista Legislativo - 2018)
+Leia o fragmento a seguir.
+__________ é um esforço __________ empreendido para criar um produto, serviço
+ou resultado __________.
+A opção que completa corretamente as lacunas do fragmento acima é:
+a) Projeto – único – temporário;
+b) Processo – contínuo – exclusivo;
+c) Processo – temporário – repetitivo;
+d) Processo – operacional – eficaz;
+e) Projeto – temporário – exclusivo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Gestão de Projetos
+Conceito
+A gestão de projetos (ou gerenciamento de projetos) é “a aplicação de conhecimentos,
+habilidades, ferramentas e técnicas às atividades do projeto, a fim de atender aos seus
+requisitos”. De acordo com o Guia, “as atividades de gerenciamento têm como foco os
+meios de atingir os objetivos do projeto, como: efetivação de processos, planejamento,
+coordenação, medição e monitoramento dos trabalhos, entre outros”. O gerenciamento de
+projetos “permite que as organizações executem projetos de forma eficaz e eficiente”. (Guia
+PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Gestão de Projetos
+Gestão de Projetos x Gestão por Projetos
+
+                        Gestão DE
+  Gestão DE                                Trata-se do gerenciamento de projetos específicos da organização.
+                         Projetos
+   Projetos
+      x
+   Gestão
+     POR
+   Projetos
+                        Gestão POR
+                                                       Trata-se de um conceito muito mais abrangente.
+                         Projetos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Gestão de Projetos
+As duas Ondas da Gestão de Projetos
+
+             Primeira Onda: Foco no Projeto
+            - Foi voltada ao melhor uso de técnicas e
+              ferramentas para o gerenciamento dos
+                             projetos.
+                -Buscava-se o desenvolvimento e a
+                consolidação das boas práticas de                  Segunda Onda: Foco Organizacional
+                    gerenciamento de projetos                         -Integração das áreas do conhecimento
+           -O foco estava na eficiência (nos “meios”).             -Gestão de riscos e a gestão de portfólios.
+                                                             -Alinhamento estratégico dos projetos da organização.
+                                                                     -Modelos organizacionais de maturidade
+                                                                  -O foco estava na eficácia (nos “resultados”).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                        (CESPE – Câmara de Salvador – Analista - 2018)
+A partir dos anos 80 do século passado, a gestão de projetos cresceu no mundo,
+caracterizando a primeira onda dessa modalidade de gestão, em que as boas
+práticas de gerenciamento de projetos se consolidaram.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – Câmara de Salvador – Analista - 2018)
+A segunda onda da gestão de projetos é caracterizada pelo foco organizacional em
+que se preconizam os modelos organizacionais de maturidade e se observam
+tendências como alinhamento estratégico e portfólio de projetos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Operações
+Conceito
+As operações são “funções organizacionais que realizam a execução contínua de
+atividades que produzem o mesmo produto ou fornecem um serviço repetitivo. As
+operações são esforços permanentes que geram saídas repetitivas, com recursos
+designados a realizar basicamente o mesmo conjunto de atividades, de acordo com os
+padrões institucionalizados no ciclo de vida de um produto ou serviço.” (ENAP, 2013)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Portfólios x Programas x Projetos x Subprojetos
+                                                                   Portfólio
+    Conjunto de projetos, programas, portfólios subsidiários e operações (relacionados entre si, ou não) gerenciados em grupo para alcançar
+                                                            objetivos estratégicos
+
+                                                                  Programa
+    Grupo de projetos, programas subsidiários e atividades de programa (relacionados entre si), gerenciados de modo coordenado visando a
+                  obtenção de benefícios e controles que não estariam disponíveis se eles fossem gerenciados individualmente.
+
+                                                                    Projeto
+   Esforço temporário (conjunto de atividades que ocorrem apenas uma vez), empreendido com o objetivo de criar um produto, serviço ou resultado
+                                                       “unitário/único” (“novo/exclusivo”).
+
+                                                                 Subprojeto
+
+        Uma parte menor do projeto total, criada quando um projeto é subdividido em componentes ou partes mais facilmente gerenciáveis.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                    
+
+
+---
+
+Portfólios x Programas x Projetos x Subprojetos
+                                                                           OBJETIVOS ESTRATÉGICOS
+
+                                                                                   PORTFÓLIO ALPHA
+
+                         Programa A                               Programa B                                      Portfólio Alpha 1
+                                                                                                                    (subsidiário)
+
+                                      Programa A1
+                                      (subsidiário)                                                                             Programa C
+
+                   Projeto 1     Projeto 2     Projeto 3   Projeto 4   Projeto 5     Projeto 6   Projeto 7   Projeto 8     Projeto 9   Projeto 10   Operações
+
+            Subprojeto   Subprojeto
+               1.1          1.2
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                               
+
+
+---
+
+                        (IESES – BAHIAGÁS – Analista de Processos - 2016)
+Assinale a alternativa que apresenta o conceito de Portfólio:
+a) Instância da estrutura organizacional responsável por organizar os diversos
+projetos de uma empresa.
+b) Projetos, Programas, Subportfólios e Operações gerenciados como um grupo para
+atingir objetivos estratégicos.
+c) Projetos necessariamente interdependentes para viabilizar gestão das restrições
+ou conflitos de recursos.
+d) Conjunto de projetos bem sucedidos ou boas práticas realizados dentro do
+contexto de uma organização.
+e) Aplicação de boas práticas declaradas às atividades do projeto para garantir seu
+êxito.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (ESPP – COBRA-BB – Analista Administrativo)
+Um grupo de projetos relacionados gerenciados de modo coordenado para a
+obtenção de benefícios e controle que não estariam disponíveis se eles fossem
+gerenciados individualmente denomina-se:
+a) Planejamento.
+b) Programa.
+c) Gerenciamento.
+d) Coordenação.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK
+Conceito
+
+ O Guia PMBOK é um Guia do Conhecimento em Gerenciamento de Projetos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Guia PMBOK
+PMI x PMBOK x PMP x PMO
+
+                          • É o Instituo de Gerenciamento de Projetos
+                 PMI      • Responsável por elaborar o PMBOK
+                          • Responsável por conferir a certificação PMP
+
+
+                          • É o Guia do Conhecimento em Gerenciamento de Projetos.
+              PMBOK       • “Livro” que reúne as “boas práticas” em gerenciamento de projetos.
+                          • Não é uma metodologia e nem prescreve regras.
+
+
+                          • É a certificação conferida pelo PMI.
+                PMP       • Trata-se do profissional certificado pelo PMI em gerenciamento de
+                            projetos.
+
+
+                          • É o Escritório de Projetos da organização.
+                PMO       • Responsável por definir e manter a padronização do gerenciamento de
+                            projetos na organização
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+                        (CESGRANRIO – LIQUIGÁS – Profissional Júnior)
+Qual é a instituição internacional responsável pela elaboração do Guia do Conjunto
+de Conhecimentos em Gestão de Projetos (PMBOK Guide)?
+a) Project Management Professional (PMP)
+b) Project Management Institute (PMI)
+c) Project Management Academy (PMA)
+d) Office of Government Commerce (OGC)
+e) International Project Management Association (IPMA)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – FUNRPESP-EXE – Analista - 2016)
+Embora o guia PMBOK não seja considerado uma metodologia ou um modelo de
+gestão de projetos, ele descreve os processos de gerenciamento de projetos e suas
+melhores práticas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Ciclo de Vida dos Projetos (Fases dos Projetos)
+
+                                  2 – Organização e             3 – Execução do      4 – Encerramento do
+          1 – Início do Projeto
+                                     Preparação                Trabalho do Projeto         Projeto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+                        (CESPE – MPOG – Gestor)
+O ciclo de vida de um projeto tem uma estrutura genérica, utilizada na comunicação
+com a alta administração, e constitui-se de início, organização e preparação,
+execução do trabalho e encerramento do projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TRE-CE – Técnico Judiciário)
+De acordo com o estabelecido no PMBOK, NÃO é uma fase do ciclo de vida de um
+projeto
+a) o início.
+b) o encerramento.
+c) a organização e preparação.
+d) a execução.
+e) a integração.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Custos e Riscos associados ao Ciclo de Vida dos Projetos
+
+                                    Início do Projeto         Fase de Execução              Encerramento
+             Custos e Nível de
+                                         Baixos              Atinge o Valor Máximo   Começam a diminuir rapidamente
+            Utilização de Pessoal
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Custos e Riscos associados ao Ciclo de Vida dos Projetos
+                                     Início do Projeto                   Quanto mais o projeto se aproxima do final
+              Riscos Incertezas e
+                Influências das            Altos                                       Vai Diminuindo
+              Partes Interessadas
+              Custos da Mudança
+                                           Baixos                                     Vai Aumentando
+              e Correção de Erros
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+                        (FCC – TRE-PE – Analista Judiciário)
+O ciclo de vida de um projeto, de acordo com a metodologia PMBOK, possui 4 fases:
+início do projeto; organização e preparação; execução do trabalho; encerramento do
+projeto (entregas aceitas, arquivamento da documentação).
+Analise as figuras 1 e 2 e os itens I a IV abaixo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRE-PE – Analista Judiciário)
+(...)
+I. Os níveis de custo e de pessoal são baixos no início, atingem um valor máximo
+enquanto o projeto é executado e caem rapidamente, conforme o projeto é
+finalizado.
+II. A influência das partes interessadas, os riscos e as incertezas são menores
+durante o início do projeto, aumentando ao longo da vida deste.
+III. A capacidade de influenciar as características finais do produto do projeto, sem
+impacto significativo sobre os custos, é mais alta no início e torna-se cada vez menor
+conforme o projeto progride para o seu término.
+IV. Os custos das mudanças e correções de erros aumentam significativamente
+conforme o projeto se aproxima do término.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRE-PE – Analista Judiciário)
+(...)
+De acordo com os dados fornecidos, é correto o que consta APENAS em
+a) I, III e IV.
+b) I, II e IV.
+c) I e II.
+d) III e IV.
+e) II e III.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF2a Região – Analista Judiciário)
+São características do ciclo de vida do projeto:
+I. Início do projeto; organização e preparação; execução do trabalho do projeto e
+encerramento do projeto.
+II. Os níveis de custo e de pessoal são baixos no início, atingem um valor máximo na
+fase de exe- cução e caem na fase de finalização do projeto.
+III. A influência das partes interessadas, os riscos e as incertezas são maiores
+durante o início do projeto, reduzindo-se ao longo de sua vida.
+IV. Os custos das mudanças e correções de erros diminuem conforme o projeto se
+aproxima do término.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRF2a Região – Analista Judiciário)
+(...)
+É correto o que consta APENAS em
+a) I e II.
+b) II, III e IV.
+c) I, II e III.
+d) III e IV.
+e) I, III e IV.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Tipos de Ciclo de Vida de Projetos
+                                           o escopo, o prazo e o custo do projeto são determinados nas fases iniciais do ciclo
+                                                                           de vida do projeto.
+
+                                            Planos detalhados com base em requisitos e restrições conhecidas podem reduzir
+                 Ciclo de Vida Preditivo
+                                                                         riscos e custos
+
+                                            abordagem mais estável, rígida, onde as mudanças são complexas, há ênfase na
+                                                    previsibilidade e o produto é entregue inteiro ao final do projeto
+
+                                           o escopo detalhado do projeto é definido e aprovado antes do início de uma iteração
+ Tipos de                                                  (ou seja, antes do início de uma fase do projeto).
+ Ciclos de
+   Vida                 Ciclo de Vida            tem por objetivo facilitar a mudança e exige um contínuo e alto grau de
+                         Adaptativo                                envolvimento das partes interessadas.
+
+                                              abordagem mais flexível, com escopo variável, onde as mudanças são mais
+                                                 simples e ocorrem entregas constantes de incrementos ao produto.
+
+                                               trata-se de uma combinação de um ciclo de vida preditivo e um ciclo de vida
+                  Ciclo de Vida Híbrido
+                                                                             adaptativo.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Ciclo de Vida Iterativo x Ciclo de Vida Incremental
+
+                 Ciclos de Vida Iterativos
+               - O escopo do projeto geralmente é
+            determinado no início do ciclo de vida do
+                             Projeto.
+             - As estimativas de prazo e custos são,                   Ciclos de Vida Incrementais
+            normalmente, modificadas à medida em               -a entrega é produzida por meio de uma série
+           que a equipe do projeto compreende melhor            de iterações que, sucessivamente, adicionam
+                            o produto.                         funcionalidade em um prazo predeterminado.-
+                                                                - A entrega contém a capacidade necessária e
+                                                              suficiente para ser considerada completa somente
+                                                                             após a “iteração final”.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+                        (CESPE – EBSERH – Analista Administrativo - 2018)
+Segundo o guia PMBOK, ciclos de vida preditivos de projeto são também conhecidos
+como ciclos de vida adaptativos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (AOCP – UFPB – Psicólogo – 2019 - ADAPTADA)
+Os modelos de ciclo de vida adaptativos são aqueles totalmente dirigidos por planos
+ou instalações com soluções conhecidas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (AOCP – FUNPAPA – Administrador - 2018)
+Todos os projetos podem ser mapeados para a estrutura genérica de ciclo de vida
+que inclui o início do projeto, a organização e preparação, a execução do trabalho do
+projeto e o encerramento do projeto. Assinale a alternativa que apresenta o ciclo de
+vida conhecido como direcionado à mudança ou utilizador de métodos ágeis.
+a) Ciclo de vida preditivo.
+b) Ciclo de vida planejado.
+c) Ciclo de vida iterativo.
+d) Ciclo de vida incremental.
+e) Ciclo de vida adaptativo.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Ciclo de Vida de Projetos x Ciclo de Vida de Produtos
+
+ O Guia PMBOK define produto como “um artefato produzido, quantificável e que pode
+ ser um item final ou um item componente.” De acordo com o Guia, o Ciclo de Vida de
+ um Produto consiste em uma série de fases que representam toda a evolução de um
+ produto, desde a sua concepção à entrega, crescimento, maturidade e retirada do
+ mercado. Geralmente o ciclo de vida de um projeto está contido em um ou mais ciclos
+ de vida do produto. (Guia PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – TRT6a Região – Analista Judiciário - ADAPTADA)
+Geralmente o ciclo de vida de um projeto está contido em um ou mais ciclos de vida
+do produto. O ciclo de vida do produto consiste em fases do produto, geralmente
+sequenciais e não sobrepostas, determinadas pela necessidade de produção e
+controle da organização, sendo que a última fase do ciclo de vida de um produto é a
+entrega para o cliente final.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Áreas de Conhecimento em Gerenciamento de Projetos
+
+ Uma área de conhecimento é “um conjunto de processos associados com um tema
+ específico em gerenciamento de projetos” (Guia PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+ Guia PMBOK – 6ª Edição
+ Áreas de Conhecimento em Gerenciamento de Projetos
+
+                  1 – Integração do     inclui os processos e atividades para identificar, definir, combinar, unificar e coordenar os
+                        Projeto            vários processos e atividades de gerenciamento dentro dos Grupos de Processos de
+                                                       Gerenciamento do Projeto, para que um projeto tenha sucesso.
+
+
+                                           inclui os processos necessários para assegurar que o projeto inclui todo o trabalho
+                2 – Escopo do Projeto
+                                                  necessário, e apenas o necessário, para terminar o projeto com sucesso.
+
+
+  Áreas de
+Conhecimento     3 – Cronograma do
+                                           inclui os processos necessários para gerenciar o término dentro do prazo do projeto
+  do Guia              Projeto
+  PMBOK
+
+                                        inclui os processos envolvidos em planejamento, estimativas, orçamentos, financiamentos,
+                4 – Custos do Projeto     gerenciamento e controle dos custos, de modo que o projeto possa ser terminado dentro
+                                                                          do orçamento aprovado.
+
+
+                                        inclui os processos para incorporação da política de qualidade da organização com relação
+                  5 – Qualidade do
+                                          ao planejamento, gerenciamento e controle dos requisitos de qualidade do projeto e do
+                       Projeto
+                                                      produto para atender as expectativas das partes interessadas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+ Guia PMBOK – 6ª Edição
+ Áreas de Conhecimento em Gerenciamento de Projetos
+
+               6 – Recursos do Projeto    inclui os processos para identificar, adquirir e gerenciar os recursos necessários para a
+                                                                     conclusão bem-sucedida do projeto.
+
+
+                                            inclui os processos necessários para assegurar que as informações do projeto sejam
+                7 – Comunicações do
+                                           planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas, gerenciadas,
+                      Projeto
+                                                   controladas, monitoradas e dispostas de maneira oportuna e apropriada.
+
+  Áreas de
+Conhecimento                              inclui processos de condução de planejamento, identificação e análise de gerenciamento
+                8 – Riscos do Projeto       de risco, planejamento de resposta, implementação de resposta e monitoramento de
+  do Guia
+  PMBOK                                                                     risco em um projeto.
+
+
+                  9 – Aquisições do            inclui os processos necessários para comprar ou adquirir produtos, serviços ou
+                       Projeto                                      resultados externos à equipe do projeto.
+
+
+               10 – Partes Interessadas       inclui os processos necessários para identificar todas as pessoas ou organizações
+                  (Stakeholders) do             impactadas pelo projeto, analisando as suas expectativas e o impacto das partes
+                        Projeto            interessadas no projeto, e desenvolvendo estratégias de gerenciamento apropriadas para o
+                                              engajamento eficaz das partes interessadas nas decisões e execução do projeto.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+                                           São as características e funções que descrevem um produto, serviço ou
+                    Escopo do produto
+                                                                         resultado.
+
+
+   Escopo
+
+                                            Se refere ao trabalho que deve ser realizado para entregar um produto,
+                    Escopo do projeto           serviço ou resultado, com as características e funções que foram
+                                                previamente especificadas (especificadas no escopo do produto).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Stakeholders (Partes Interessadas)
+
+Segundo o Guia PMBOK, “uma parte interessada é um indivíduo, grupo ou organização
+que pode afetar, ser afetada ou sentir-se afetada por uma decisão, atividade ou
+resultado de um projeto.” (Guia PMBOK)
+                    Partes Interessadas Internas                                  Partes Interessadas Externas
+                              Patrocinador                                                     Clientes
+                           Gerente de recursos                                                 Usuários
+                          Gerente do programa                                         Fornecedores / Distribuidores
+                        Comitê diretivo de portfólio                                     Empresas Contratadas
+              Escritório de gerenciamento de projetos (EGP)                               Parceiros Comerciais
+                            Gerente do projeto                                                 Acionistas
+                        Gerentes de outros projetos                                       Agências reguladoras
+                           Gerentes Funcionais                                               Concorrentes
+                          Grupos Organizacionais                                                    -
+                     Membros da equipe do projeto                                                   -
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                 
+
+
+---
+
+                        (INAZ do Pará – CRF-PE – Analista - 2018)
+Uma das áreas do conhecimento no gerenciamento de projetos é a que se refere
+aos aspectos de unificação, consolidação, articulação e ações agregadoras que são
+necessárias para que um projeto tenha sucesso.
+A qual área de conhecimento no gerenciamento de projetos o conceito acima se
+refere?
+a) Comunicações.
+b) Recursos Humanos.
+c) Integração
+d) Qualidade.
+e) Escopo.
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – UNIPAMPA – Administrador)
+O patrocinador é, segundo o PMBOK, um personagem importante no início do
+projeto, não constituindo, todavia, um stakeholder.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Grupos de Processos de Gerenciamento de Projetos
+                                         processos realizados para definir um novo projeto ou uma nova fase de um projeto
+                    1 – Processos de
+                                         existente. O desenvolvimento do termo de abertura do projeto é um exemplo de um
+                        Iniciação
+                                                                        processo desse grupo.
+
+
+                                         processos realizados para definir o escopo do projeto, refinar os objetivos e definir as
+                    2 – Processos de   linhas de ação necessárias para alcançar os objetivos para os quais o projeto foi criado. Ou
+                      Planejamento     seja, os processos de planejamento são responsáveis por traçar os “planos de ação” para
+                                                              que os objetivos do projeto sejam alcançados.
+
+     Grupos de
+    Processos de                        processos realizados para concluir o trabalho definido no plano de gerenciamento do
+                    3 – Processos de
+   Gerenciamento                        projeto para satisfazer os requisitos do projeto. Ou seja, os processos de execução são
+                        Execução
+   de Projetos do                              responsáveis por “colocar em prática” tudo que foi anteriormente definido.
+    Guia PMBOK
+
+                                       processos realizados para acompanhar, analisar e controlar o progresso e desempenho
+                    4 – Processos de
+                                          do projeto; para identificar as áreas que exigem alterações no plano; bem como para
+                    Monitoramento e
+                                       iniciar as mudanças necessárias. Ou seja, são os processos responsáveis por monitorar e
+                         Controle
+                                                       controlar o projeto, bem como realizar as ações corretivas.
+
+
+                    5 – Processos de
+                                       processos realizados para concluir ou fechar formalmente um projeto, fase ou contrato.
+                      Encerramento
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Grupos de Processos de Gerenciamento de Projetos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Fases dos Projetos (Ciclo de Vida) x Grupos de Processos
+
+                             Fases dos Projetos                          Grupos de Processos de
+                        (Ciclo de Vida dos Projetos)                    Gerenciamento de Projetos
+
+                             1 – Início do Projeto                           Processos de Iniciação
+
+                         2 – Organização e Preparação                      Processos de Planejamento
+
+                                                                             Processos de Execução
+                    3 – Execução do Trabalho do Projeto
+                                                                   Processos de Monitoramento e Controle
+
+                         4 – Encerramento do Projeto                       Processos de Encerramento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                               
+
+
+---
+
+                        (AOCP – BRDE – Analista - ADAPTADA)
+Os 5 (cinco) grupos de processos de gerenciamento de projetos são: iniciação;
+planejamento; execução; monitoramento e controle; encerramento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (ESAF – CVM – Analista)
+Segundo o PMBOK, o Grupo de Processo do Gerenciamento de Projetos engloba:
+a) Planejamento. Programação. Execução. Especificação e Monitoramento.
+Encerramento.
+b) Iniciação. Execução. Monitoramento. Reengenharia. Relatório.
+c) Iniciação. Planejamento. Execução. Monitoramento e Controle. Encerramento.
+d) Iniciação. Especificação. Planejamento. Controle de Usuários. Realimentação.
+e) Concepção. Interação. Planejamento. Execução. Monitoramento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (IADES – TRE-PA – Analista Judiciário)
+O PMBOK é um livro do Project Management Institute (PMI), que apresenta um
+conjunto de práticas para gerenciamento de projetos. Assinale a alternativa que
+apresenta os grupos de processos do ciclo de vida e da organização de um projeto,
+segundo o PMBOK.
+a) Iniciação, planejamento, execução, monitoramento e controle, encerramento.
+b) Lançamento, crescimento, maturidade, declínio.
+c) Planejamento, análise de valor, gerenciamento de risco, cronograma.
+d) Gestão de integração, gestão de escopo, gestão de custos, gestão de riscos.
+e) Análise de viabilidade, codificação, integração, documentação, manutenção.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – STJ – Analista)
+No PMBOK 5, as categorias de grupos de processos de gerenciamento de projetos
+são as seguintes: grupo de processos de iniciação, de planejamento, de execução, de
+monitoramento e controle e de encerramento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (Quadrix – CFO-DF – Administrador - 2017)
+De acordo com a abordagem tradicional, a gestão de projetos deverá passar pelas
+etapas de iniciação, planejamento, execução, monitoramento ou controle e
+encerramento, embora, na prática, nem todos os projetos passem por todas essas
+etapas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FUNRIO – IF-PA – Analista - 2016)
+De acordo com o PMBOK, o ciclo de vida de um projeto divide-se nas fases de
+Iniciação, Planejamento, Execução, Monitoramento e Controle e Encerramento.
+Tomando-se como base esse referencial teórico, o processo de levantar ou coletar
+os requisitos de um projeto pertence a fase de
+a) encerramento.
+b) execução.
+c) iniciação.
+d) monitoramento e controle.
+e) planejamento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (NC-UFPE – ITAIPU – Profissional - 2017)
+Na Gestão de Projetos de TI, pode-se estruturar um projeto nas seguintes fases:
+Iniciação, Planejamento, Execução, Monitoramento e Controle e Encerramento. Na
+primeira fase do ciclo de vida de um projeto (...)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – FUB – Administrador - 2018)
+O gerenciamento de projetos inclui as etapas de iniciação, planejamento, execução,
+monitoramento, controle e encerramento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+ Guia PMBOK – 6ª Edição - 49 Processos do PMBOK (Áreas de Conhecimento x Grupos de Processos)
+                                                                                             Grupos de Processos de Gerenciamento de Projetos
+     Áreas de Conhecimento      Grupo de Processos                                                                                                   Grupo de Processos de        Grupo de Processos de
+                                                             Grupo de Processos de Planejamento               Grupo de Processos de Execução
+                                     de Iniciação                                                                                                  Monitoramento e Controle            Encerramento
+                                1 - Desenvolver o  2 - Desenvolver o Plano de Gerenciamento do Projeto      3 - Orientar e Gerenciar o Trabalho 5 - Monitorar e Controlar o     7 - Encerrar o Projeto ou
+         Gerenciamento da       Termo de Abertura                                                           do Projeto               4-         Trabalho do Projeto             Fase
+       Integração do Projeto    do Projeto                                                                  Gerenciar o Conhecimento do         6 - Realizar o Controle
+                                                                                                            Projeto                             Integrado de Mudanças
+                                                   8 - Planejar o Gerenciamento do Escopo                                                       12 - Validar o Escopo 13 -
+    Gerenciamento do Escopo                        9 - Coletar os Requisitos             10- Definir o                                          Controlar o Escopo
+           do Projeto                              Escopo                 11 - Criar a EAP
+                                                    14 - Planejar o Gerenciamento do Cronograma                                                  19 - Controlar o Cronograma
+                                                    15 - Definir as Atividades             16 - Sequenciar as
+        Gerenciamento do
+                                                    Atividades                17 - Estimar as Durações das
+      Cronograma do Projeto
+                                                    Atividades                                18 -
+                                                    Desenvolver o Cronograma
+                                                    20 - Planejar o Gerenciamento dos Custos                                                     23 - Controlar os Custos
+    Gerenciamento dos Custos
+                                                    21 - Estimar os Custos                    22 - Determinar
+           do Projeto
+                                                    o Orçamento
+        Gerenciamento da                            24 - Planejar o Gerenciamento da Qualidade                25 - Gerenciar a Qualidade         26 - Controlar a Qualidade
+       Qualidade do Projeto
+                                                    27 - Planejar o Gerenciamento dos Recursos               29 - Adquirir Recursos              32 - Controlar os Recursos
+   Gerenciamento dos Recursos
+                                                    28 - Estimar os Recursos das Atividades                  30 - Desenvolver a Equipe
+           do Projeto
+                                                                                                             31 - Gerenciar a Equipe
+       Gerenciamento das                            33 - Planejar o Gerenciamento das Comunicações           34 - Gerenciar as Comunicações      35 - Monitorar as
+     Comunicações        do                                                                                                                      Comunicações
+            Projeto
+                                                    36 - Planejar o Gerenciamento dos Riscos                    41 - Implementar Respostas aos   42 - Monitorar os Riscos
+                                                    37 - Identificar os Riscos                  38 - Realizar a Riscos
+    Gerenciamento dos Riscos                        Análise Qualitativa dos Riscos
+           do Projeto                               39 - Realizar a Análise Quantitativa dos Riscos
+                                                    40 - Planejar as Respostas aos Riscos
+
+       Gerenciamento das                           43 - Planejar o Gerenciamento das Aquisições              44 - Conduzir as Aquisições         45 - Controlar as Aquisições
+      Aquisições do Projeto
+Prof.   Stefandas
+    Gerenciamento   Fantini
+                       Partes 46 - Identificar as  47 - Planejar o Engajamento das Partes Interessadas       48 - Gerenciar o Engajamento das    49 - Monitorar o Engajamento
+                    do Projeto Partes Interessadas                                                           Partes Interessadas                 das Partes Interessadas
+  @prof.stefan.fantini
+  Interessadas
+                                                                          
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Criar a EAP (Estrutura Analítica do Projeto)
+  De acordo com o Guia PMBOK, criar a EAP é o “processo de decompor as entregas e o trabalho do
+  projeto em componentes menores e mais facilmente gerenciáveis. O principal benefício desse
+  processo é que ele fornece uma visão estruturada do que deve ser entregue.” (Guia PMBOK)
+
+  “A EAP organiza e define o escopo total do projeto e representa o trabalho especificado na atual
+  declaração do escopo do projeto aprovada. O trabalho planejado é contido dentro do nível mais baixo
+  de componentes da EAP, que são denominados pacotes de trabalho. Um pacote de trabalho pode ser
+  usado para agrupar as atividades onde o trabalho é agendado, estimado, monitorado e controlado.
+  No contexto da EAP, o trabalho se refere a produtos de trabalho ou entregas que são o resultado da
+  atividade e não a atividade propriamente dita.” (Guia PMBOK)
+
+  Entrega é “qualquer produto, resultado ou capacidade de realizar um serviço, que seja único e
+  verificável, produzido para concluir um processo, fase ou projeto. (Guia PMBOK)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Guia PMBOK – 6ª Edição
+Criar a EAP (Estrutura Analítica do Projeto)
+                                                          FESTANÇA de 18 anos
+
+                                                                           Comidas e Bebidas
+                   Salão Contratado      Convites Entregues                                       Contratação do DJ
+                                                                              Compradas
+
+                 Pagamento Realizado    Entrega dos Convites              Pagamento Realizado    Pagamento Realizado
+
+                   Fechamento do                                            Fechamento do           Fechamento do
+                      Contrato         Confecção dos Convites                  Contrato                Contrato
+
+                                         Compra de Materiais             Degustação de Comidas   Reunião com o DJ para
+                  Visitação do Local                                           e Bebidas          seleção das músicas
+                                       (papel, envelope, caneta)
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+                        (CESPE – TJ-PA – Analista Judiciária)
+Em conformidade com o PMBOK, guia de melhores práticas em gestão de projetos, a
+elaboração de termo de abertura de projeto (TAP) e a identificação de stakeholders
+(partes envolvidas) são atividades que pertencem ao grupo de processos intitulado
+a) planejamento.
+b) iniciação.
+c) monitoramento e controle.
+d) execução.
+e) encerramento.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Ciclo de Vida dos Projetos (Fases dos Projetos)
+
+     Viabilidade        Design    Construção                  Teste   Implantação   Encerramento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Ciclo de Vida dos Projetos (Fases dos Projetos)
+
+    Inicialização       Plano   Desenvolvimento               Teste   Implantação   Encerramento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Custos e Riscos associados ao Ciclo de Vida dos Projetos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Custos e Riscos associados ao Ciclo de Vida dos Projetos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                              
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Princípios do Gerenciamento de Projetos
+                                                      Seja um intendente diligente, mantenha uma conduta de respeito e
+                           Intendência
+                                                                                  cuidado
+                              Equipe                                Crie um ambiente de equipe colaborativa
+
+                        Partes Interessadas                      Engaje-se de fato com as partes interessadas
+
+                              Valor                                         Mantenha o foco no valor
+
+                         Visão Sistêmica                     Reconheça, avalie e reaja às interações com o sistema
+
+       Princípios do        Liderança                              Demonstre comportamentos de liderança
+      Gerenciamento
+        de Projetos          Tailoring                                Faça o tailoring com base no contexto
+
+                            Qualidade                           Promova qualidade em processos e resultados
+
+                          Complexidade                                     Navegue pela complexidade
+
+                              Risco                                         Otimize respostas a riscos
+                         Adaptabilidade e
+                                                                        Adote adaptabilidade e resiliência
+                           Resiliência
+
+Prof. Stefan Fantini    Change (Mudança)                   Aceite a mudança para alcançar o estado futuro previsto
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Tailoring
+ De acordo com o Guia, Tailoring é “adaptação deliberada da abordagem, da governança e
+ dos processos do gerenciamento de projetos para torná-los mais adequados a determinado
+ ambiente e ao trabalho a realizar”. (Guia PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Tailoring - Aspectos do projeto que podem ser submetidos ao tailoring
+
+                 seleção do ciclo de vida e a abordagem de desenvolvimento
+
+                                        processos
+  aspectos do
+  projeto que
+   podem ser                           engajamento
+  submetidos
+  ao tailoring
+                                       ferramentas
+
+                                    métodos e artefatos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Tailoring - Benefícios diretos e indiretos do Tailoring
+
+                                maior comprometimento dos membros da equipe do projeto
+  o tailoring gera benefícios
+  diretos e indiretos para as
+                                                   foco orientado ao cliente
+   organizações, dentre os
+      quais se destacam
+                                   maior eficiência na utilização dos recursos de projeto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Tailoring – 04 Etapas do Processo de Tailoring
+
+                                         01 - Selecionar a abordagem inicial
+
+                                        02 - Realizar o tailoring da organização
+   O processo de tailoring envolve 04
+               etapas
+                                          03 - Realizar o tailoring do projeto
+
+                                        04 - Implementar melhorias contínuas
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                            
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Domínios do Gerenciamento de Projetos
+
+ “Um domínio de desempenho do projeto é um grupo de atividades relacionadas, que são
+ críticas para a entrega eficaz dos resultados do projeto. Os domínios de desempenho de
+ projetos são áreas de foco interativas, inter-relacionadas e interdependentes que
+ trabalham em uníssono para alcançar os resultados desejados do projeto.” (Guia PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Domínios do Gerenciamento de Projetos
+
+                                    Partes interessadas
+
+                                            Equipe
+
+
+                        Abordagem de desenvolvimento e ciclo de vida
+
+
+                                        Planejamento
+       Domínios do
+     Gerenciamento de
+         Projetos
+                                    Trabalho do projeto
+
+
+                                           Entrega
+
+
+                                           Medição
+
+
+                                           Incerteza
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Abordagens de Desenvolvimento
+                                                      escopo, o cronograma, o custo, as necessidades de recursos e os riscos
+                                                      podem ser bem definidos nas fases iniciais do ciclo de vida do projeto, e são
+                                                                               relativamente estáveis
+                        Abordagem Preditiva
+                                                  também pode ser utilizada quando “houver um investimento significativo envolvido e
+                                                   um alto nível de risco que pode exigir revisões frequentes, mecanismos de controle
+                                                          de mudanças e replanejamento entre as fases de desenvolvimento”.
+                                                       uma visão clara é estabelecida no início do projeto, e os requisitos iniciais
+                                                    conhecidos são refinados, detalhados, alterados ou substituídos de acordo com o
+                                                             feedback do usuário, o ambiente ou eventos inesperados.
+
+                            Abordagem              Trata-se de um tipo de abordagem útil quando os requisitos estiverem sujeitos a um
+ Abordagens de              Adaptativa                 alto nível de incerteza e volatilidade, podendo mudar ao longo do projeto
+Desenvolvimento
+                                                    as abordagens adaptativas usam abordagens iterativas e incrementais e que as
+                                                               abordagens ágeis podem ser consideradas adaptativas
+
+
+                                                             se de uma combinação de abordagens adaptativas e preditivas
+
+
+                                                    “uma abordagem híbrida é mais adaptativa do que uma abordagem preditiva,
+                        Abordagem Híbrida
+                                                             mas menos do que uma abordagem puramente adaptativa.”
+
+                                                     utiliza, normalmente, uma abordagem de desenvolvimento iterativa (útil para
+                                                  esclarecer requisitos e investigar várias opções) ou incremental (para produzir uma
+Prof. Stefan Fantini                                                  entrega ao longo de uma série de iterações).
+ @prof.stefan.fantini
+                                              
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Princípios do Gerenciamento de Projetos x Domínios de Desempenho de Projetos
+ “os princípios do gerenciamento de projetos oferecem orientação para o comportamento
+ das pessoas envolvidas em projetos, pois influenciam e moldam os domínios de
+ desempenho para produzir os resultados pretendidos. Embora haja sobreposição
+ conceitual entre os princípios e os domínios de desempenho, os princípios orientam o
+ comportamento enquanto os domínios de desempenho apresentam amplas áreas de foco
+ para demonstrar este comportamento.” (Guia PMBOK)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Princípios do Gerenciamento de Projetos x Domínios de Desempenho de Projetos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                            
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Funções Associadas a Projetos
+
+                                   Fornecer supervisão e coordenação
+
+
+                                        Objetivos e feedbacks atuais
+
+
+                                               Facilitar e apoiar
+
+
+                            Realizar o Trabalho e contribuir com insights
+Funções associadas a
+      projetos
+                                          Aplicar a especialização
+
+
+                                 Fornecer orientação e insight comerciais
+
+
+                                     Fornecer recursos e orientações
+
+
+Prof. Stefan Fantini                        Manter a governança
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia PMBOK – 7ª Edição
+Equipes de Projeto de Alto Desempenho
+
+                           Comunicação aberta
+
+                        Compreensão compartilhada
+
+
+                        Propriedade compartilhada
+
+
+                                Confiança
+       Fatores que
+     contribuem para
+                              Colaboração
+      equipes de alto
+       desempenho
+                              Adaptabilidade
+
+
+                               Resiliência
+
+
+                               Capacitação
+
+
+                             Reconhecimento
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Restrições dos Projetos
+Conceito
+
+
+                                      Escopo
+
+                                     Qualidade
+
+                                    Cronograma
+
+ Restrições dos Projetos
+                                    Orçamento
+
+                                     Recursos
+
+                                       Risco
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                           
+
+
+---
+
+                        (INAZ do Pará – CRF-PE – Analista - 2018)
+Os projetos precisam ser executados de acordo com certas variáveis ou restrições. O
+que não consiste em uma restrição na gestão dos projetos?
+a) Cronograma.
+b) Fluxograma.
+c) Orçamento.
+d) Escopo.
+e) Qualidade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Gestão por Projetos e Estrutura Organizacional
+Estrutura Organizacional Funcional
+
+                                                             Diretoria
+                                                            (Indústria)
+
+                        Departamento de    Departamento de                Departamento   Departamento de
+                           Produção            Vendas                      Financeiro          RH
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Gestão por Projetos e Estrutura Organizacional
+Estrutura Organizacional Por Projetos (Estrutura Por Projetos)
+
+                                               Diretoria
+                                             (Construtora)
+
+                  Gerência do                              Gerência do   Gerência do
+                   Projeto A      Gerência do
+                                                            Projeto C     Projeto D
+                                Projeto B (Casa)
+                   (Prédio)                                  (Praça)      (Estrada)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Gestão por Projetos e Estrutura Organizacional
+Estrutura Organizacional Matricial
+
+                                                 Diretoria Geral
+
+                Departamento de       Departamento                 Departamento    Departamento de
+                    Projetos            Financeiro                    Jurídico    Recursos Humanos
+                  (por Projeto)        (Funcional)                  (Funcional)      (Funcional)
+
+
+                        Projeto A
+
+                        Projeto B
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                    
+
+
+---
+
+Gestão por Projetos e Estrutura Organizacional
+
+                                                             empo nte ral
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Gestão por Projetos e Estrutura Organizacional
+                                                                                         empo nte ral
+
+                                                                     erente uncional e
+                                                                    erente o rojeto
+                                                      uia
+                                                    iç o     izia
+
+                                                                     erente uncional e
+                                                                    erente o rojeto
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+                        (ESAF – ANAC – Analista Administrativo - 2016)
+As estruturas organizacionais variam de funcionais a projetizadas, com uma
+variedade de estruturas matriciais entre elas. A equipe administrativa de
+gerenciamento de projetos trabalha em tempo integral nas estruturas
+organizacionais
+a) Matriz Forte e Matriz Fraca.
+b) Matriz Balanceada e Matriz Forte.
+c) Matriz Balanceada e Projetizada.
+d) Projetizada e Matriz Fraca.
+e) Matriz Forte e Projetizada.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – Prefeitura de Teresina-PI – Analista - 2016)
+O PMBOK 5ª edição descreve a influência da estrutura organizacional das empresas
+nos projetos por elas desenvolvidos. Segundo o PMBOK 5ª edição, considerando um
+determinado projeto,
+a) a autoridade do gerente de projetos é baixa em uma empresa com estrutura
+matricial forte.
+b) o gerente de projetos atua em tempo parcial em uma empresa com estrutura
+voltada a projetos.
+c) há pouca disponibilidade de recursos em uma empresa com estrutura funcional.
+d) a autoridade do gerente de projetos é alta em uma empresa com estrutura
+matricial fraca.
+e) a disponibilidade de recursos é baixa em uma empresa com estrutura voltada a
+projetos.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Escritório de Gerenciamento de Projetos
+
+                                              Os EGPs de suporte desempenham um papel consultivo nos projetos. Este
+                                                          tipo de EGP atua como repósitorio de projetos.
+                        EGPs de suporte
+
+                                                        O nível de controle fornecido pelo EGP de suporte é baixo
+
+                                                 Os EGPs de controle fornecem suporte e exigem a conformidade por
+    Tipos de                                                           várias formas diferentes.
+  Escritório de
+ Gerenciamento          EGPs de controle
+   de Projetos
+     (EGPs)                                             O nível de controle exercido pelo EGP de controle é médio
+
+
+                                                  Os EGPs diretivos assumem o controle dos projetos através de um
+                                                 gerenciamento direto. O EGP Diretivo designa gerentes de projetos que
+                                                                      ficam subordinados ao EGP.
+                         EGPs Diretivos
+
+                                                           O nível de controle fornecido pelo EGP diretivo é alto
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Escritório de Gerenciamento de Projetos
+
+                              Promovem a entrega e as capacidades orientadas a
+                                                resultados
+
+      as 03 principais                Manter a perspectiva da “visão geral”
+  capacidades do EGP são:
+
+                            Aprimoramento contínuo, transferência de conhecimento e
+                                        gerenciamento de mudanças
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+                        (AOCP – FUNPAPA – Administrador - 2018)
+Assinale a alternativa que apresenta os tipos de estruturas de escritório de projetos
+que variam em função do seu grau de controle e influência nos projetos da
+organização.
+a) De suporte, de controle e diretivo.
+b) De iniciação, de implantação e de finalização.
+c) De recursos, de desenvolvimento e de políticas.
+d) De compartilhamento, de treinamento e de supervisão.
+e) Estratégico, operacional e de resultados.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – TCE-SC – Auditor - 2016)
+Os escritórios de projetos, os quais podem ser do tipo suporte, controle e diretivo,
+são estruturas organizacionais que padronizam os processos de governança
+relacionados ao projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Gerente de Projetos
+O “gerente de projeto”, é a pessoa designada para liderar a equipe responsável por alcançar
+os objetivos do projeto.
+
+                                      Habilidades de Gerenciamento de Projetos Técnico
+
+
+   03 “conjuntos de habilidades-
+       chave” (Triângulo de                       Habilidades de Liderança
+         Talentos do PMI)
+
+                                   Habilidades de Gerenciamento estratégico e de negócios:
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Gerenciamento dos Riscos do Projeto
+Risco
+
+ O risco pode ser definido como um evento futuro e incerto que, se ocorrer, poderá afetar o
+ projeto de forma positiva (oportunidade) ou de forma negativa (ameaça). Em outras
+ palavras, os riscos são eventos que não estavam previstos quando do planejamento inicial
+ do projeto e que, se ocorrerem, poderão provocar efeitos positivos ou negativos nos
+ objetivos de um projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Gerenciamento dos Riscos do Projeto
+Processos de Gerenciamento de Riscos
+
+                           Planejar o Gerenciamento dos Riscos
+
+
+                                     Identificar os Riscos
+
+
+                          Realizar a Análise Qualitativa dos Riscos
+
+      Processos de
+   gerenciamento dos      Realizar a análise Quantitativa dos riscos
+    riscos do projeto
+ (Guia PMBOK 6ª Edição)
+
+                             Planejar as Respostas aos Riscos
+
+
+                              Implementar Respostas a Riscos
+
+
+                                     Monitorar os Riscos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Gerenciamento dos Riscos do Projeto
+Tipos de Riscos
+
+               Risco individual   Trata-se de um evento ou condição incerta que, se ocorrer, provocará um
+                  do projeto         efeito positivo ou negativo em um ou mais objetivos do projeto.
+
+
+               Risco geral do      Trata-se do conjunto de riscos que afetam o projeto como um todo
+                  projeto                           (inclusive as partes interessadas).
+  Tipos de
+   Riscos
+                                  O risco que continua a existir mesmo após as respostas ao risco terem
+               Risco residual
+                                                          sido implementadas.
+
+
+                                  Um risco que surge como resultado direto da implementação de uma
+              Risco secundário
+                                                        resposta aos riscos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                           
+
+
+---
+
+Gerenciamento dos Riscos do Projeto
+Estratégias de Resposta aos Riscos
+                                                                Quando o risco é significativamente negativo. Tomar uma ação
+                                       Prevenir/Evitar        focada para reduzir o efeito negativo da incerteza sobre o projeto
+                                                                                          no seu todo.
+                                                              Consiste em envolver um terceiro. a equipe do projeto transfere o
+              Para Riscos Negativos      Transferir              impacto de uma ameaça para terceiros, juntamente com a
+                                                                            responsabilidade pela sua resposta.
+                                                              Alterar o nível de risco geral para otimizar as chances de alcançar
+                                           Mitigar             os objetivos do projeto. Consiste em reduzir a probabilidade de
+                                                                               ocorrência, ou impacto do risco.
+                                                                Quando o risco é significativamente positivo. Tomar uma ação
+                                          Explorar               focada para capturar o efeito positivo da incerteza sobre o
+Estratégias                                                                          projeto no seu todo.
+    de
+Respostas                                                       Consiste em envolver um terceiro. A responsabilidade poderá
+aos Riscos     Para Riscos Positivos   Compartilhar
+                                                                  ser compartilhada para colher os benefícios associados.
+
+                                                              Alterar o nível de risco geral para otimizar as chances de alcançar
+                                          Melhorar
+                                                                                     os objetivos do projeto.
+
+                                                               A equipe do projeto decide reconhecer a existência do risco e não
+                                          Aceitar
+                                                                                             agir.
+              Para Riscos Negativos
+                  e/ou Positivos                                   utilizada “quando a equipe do projeto ou o seu patrocinador
+Prof. Stefan Fantini                      Escalar             concorda que uma ameaça está fora do escopo do projeto ou que
+ @prof.stefan.fantini                                          a resposta proposta excede a autoridade do gerente do projeto.”
+                                         
+
+
+---
+
+                        (INAZ do Pará – DPE-PR – Administrador - 2017)
+No que concerne ao conceito de Gerenciamento de riscos, em relação aos processos de
+sua subdivisão, assinale a afirmativa correta.
+a) Planejar as respostas aos riscos é o processo de implementar planos de respostas aos
+riscos, acompanhar os riscos identificados, monitorar riscos residuais, identificar novos
+riscos e avaliar o processo da eficácia dos riscos.
+b) Controlar os riscos é o processo de desenvolvimento de opções e ações para aumentar
+as oportunidades e reduzir as ameaças aos objetivos dos projetos.
+c) Realizar a análise qualitativa dos riscos é o processo de implementação e resposta aos
+riscos através da combinação de sua probabilidade de ocorrência e impacto.
+d) Realizar a análise quantitativa dos riscos é o processo de analisar numericamente o
+efeito dos riscos identificados nos objetivos gerais do projeto.
+e) Planejar o gerenciamento dos riscos é o processo de como avaliar as atividades com o
+objetivo de identificar os riscos do projeto.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRT 12a Região – Analista - 2017 - ADAPTADA)
+Em relação às respostas aos riscos negativos, o gestor poderá mitigar os riscos, ao
+calcular a sua probabilidade e o seu impacto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRT 12a Região – Analista - 2017 - ADAPTADA)
+Em relação às respostas aos riscos negativos, o gestor poderá aceitar os riscos, que
+seria reconhecer o risco e optar por não agir.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – TRT 12a Região – Analista - 2017 - ADAPTADA)
+Em relação às respostas aos riscos negativos, o gestor poderá explorar os riscos, ao
+tentar reduzir a sua probabilidade.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+PERT e CPM
+
+O CPM (Critical Path Method), ou Método do Caminho Crítico, adota apenas uma única
+estimativa de duração para cada atividade do projeto. Ou seja, o CPM é determinístico em
+relação aos prazos. O método CPM tem por objetivo determinar a menor duração possível
+do projeto (estimar a duração mínima de um projeto).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+PERT e CPM
+
+A PERT (Program Evaluation Review Technique), ou Técnica de Avaliação e Revisão de
+Programas (ou Método da Estimativa de Três Pontos), é uma técnica utilizada para estimar
+a duração das atividades de um projeto, baseando-se em incertezas probabilísticas
+(distribuição de probabilidade do tipo Beta). Ou seja, a PERT é probabilista em relação aos
+prazos.
+
+                            pessimista
+
+
+ 03 estimativas distintas    realista
+
+
+                             otimista
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+Técnicas Utilizadas para Reduzir o Prazo dos Projetos
+
+                                 Compressão do Projeto (Project Crashing)
+  Técnicas Utilizadas para
+    Reduzir o Prazo dos
+         Projetos            Paralelismo de Atividades / Procedimento Acelerado
+                                                (Fast Tracking)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+Método de Kepner e Tregoe
+
+ Trata-se de um método paramétrico, utilizado para a priorização de projetos.
+
+                                          Must (deveres)
+   Dois tipos de critérios
+         de decisão
+                                         Wishes (desejos)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+Método ZOPP
+  O Método ZOPP (Método de Planejamento de Projetos Orientado por Objetivos) é
+  utilizado para o planejamento participativos de projetos.
+
+                                        Análise
+     Duas etapas
+                                    Planejamento
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+Gráfico de Gantt
+  O Gráfico de Gantt é utilizado para auxiliar o gestor na programação de projetos.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini   Fonte: Menezes (2018)
+                                                
+
+
+---
+
+Técnicas Utilizadas no Gerenciamento de Projetos
+Técnica de Análise do Valor Agregado
+  A Técnica do Valor Agregado (Earned Value Analysis – EVA) é utilizada para monitorar o
+  desempenho do projeto.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – TC-DF – Analista de Administração Pública)
+A organização interessada em adotar um modelo de gestão de projetos que
+fomente um enfoque participativo ao longo de todo o projeto poderá adotar o
+modelo ZOPP.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – ABIN – Oficial Técnico de Inteligência)
+Na aplicação do CPM, consideram-se tempos determinísticos; na da PERT, trabalha-
+se com tempos probabilísticos, com o emprego de três estimativas de tempo:
+otimista, pessimista e mais provável.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FGV – Prefeitura de Niterói - APPGG - 2018)
+Após obter com especialistas as estimativas temporais “otimista”, “pessimista” e
+“mais provável” para um projeto, o gerente de projetos, baseado nas interfaces e
+interações das várias etapas, chega ao valor ponderado.
+Assinale a opção que indica a ferramenta por ele utilizada.
+a) Diagrama de Gantt.
+b) Análise Pert.
+c) Técnica de Delphi.
+d) Método Waterfall.
+e) Técnica do Scrum.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESPE – Telebrás – Especialista em Gestão)
+A organização que adota o modelo ZOPP de gestão de projetos transforma os
+problemas em uma hierarquia de objetivos, buscando criar uma lógica de meios e
+fins.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (FCC – TRT 24a Região – Analista Judiciário - 2017)
+Uma das técnicas que podem ser usadas para estimar os custos de uma atividade no
+Gerenciamento dos Custos de um Projeto, segundo o guia PMBOK 5ª Edição é a
+Técnica de Revisão e Avaliação de Programa − PERT. Esta técnica usa três
+estimativas para definir o custo estimado (CE) de uma atividade: custo mais provável
+(CM), custo otimista (CO) e custo pessimista (CP). Para um Analista calcular o custo
+estimado de uma atividade usando PERT, deverá utilizar a fórmula:
+a) CE = (CO + 4CM + CP) / 6
+b) CE = (CO + 2CM + 3CP) / 5
+c) CE = 4(CO + CM) + CP
+d) CE = (CO + 2CM + CP)
+e) CE = (2CO + 4CM + 3CP) / 9
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (CESGRANRIO – Petrobrás – Analista - ADAPTADA)
+O gráfico de GANTT em gerência de projetos é usado para ilustrar o avanço das
+diferentes etapas de um projeto e para controlar o cronograma e a produção.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – DNOCS – Administrador)
+Pela dinâmica do método de Kepner e Tregoe, entre os critérios de seleção de
+priorização de projetos
+I. estão os "must", que estabelecem limites para as soluções alternativas apontadas.
+II. estão os wishes, que permitem diferenciar qualitativamente as alternativas
+participantes.
+III. está o ranking de projetos, que possibilita a verificação dos custos dos projetos e
+os benefícios financeiros, técnicos e operacionais.
+IV. está a tabela de pontuação amostral do projeto, que emprega fatores técnicos de
+mercado.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (FCC – DNOCS – Administrador)
+(...)
+É correto o que consta APENAS em
+a) I e II.
+b) I, II e III.
+c) II e IV.
+d) II e III.
+e) I, III e IV.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+Prince 2
+Princípios
+
+                        Justificação Contínua do Negócio
+
+                           Aprender com a Experiência
+
+                        Definir Papéis e Responsabilidades
+
+    07 princípios            Gerenciar por Estágios
+
+                              Gerenciar por Exceção
+
+                                Foco em Produtos
+
+                        Adaptar-se ao Ambiente do Projeto
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                      
+
+
+---
+
+Prince 2
+Temas
+
+                        Caso de Negócio (Business Case)
+
+
+                                   Organização
+
+
+                                    Qualidade
+
+
+        07 temas                      Planos
+
+
+                                       Risco
+
+
+                                     Mudança
+
+
+                                    Progresso
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                             
+
+
+---
+
+Prince 2                                     Starting Up a Project
+Processos (Ciclo de Vida)                    (Começar um Projeto)
+
+
+                                              Initiating a Project
+                                               (Iniciar o Projeto)
+
+
+                                              Directing a Project
+                                               (Dirigir o Projeto)
+
+
+           07 processos                     Controlling a Stage
+          (Ciclo de Vida)              (Controlar as Fases do Projeto)
+
+
+                                        Managing Product Delivery
+                                      (Gerenciar a Entregar do Produto)
+
+
+                                      Managing a Stage Boundary
+                               (Gerenciar os Limites dos Estágios do Projeto)
+
+
+                                               Closing a Project
+Prof. Stefan Fantini                          (Encerrar o Projeto)
+ @prof.stefan.fantini
+                            
+
+
+---
+
+                        (CESPE – Banco da Amazônia – Técnico Científico)
+O método de gestão de projetos denominado PRINCE2 tem como um de seus
+princípios o gerenciamento por exceção.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – EMAP – Analista Portuário - 2018)
+Entre os princípios do modelo de gestão de projeto PRINCE2 (PRojects IN Controlled
+Environments), destaca-se a identificação de lições aprendidas em projetos
+anteriores como forma de se aprender com a experiência.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+---
+
+---

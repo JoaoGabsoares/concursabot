@@ -1,0 +1,4665 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 04_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Estatística
+---
+
+# Estatística
+
+Aula 03
+                          Receita Federal (Analista Tributário)
+                                                   Estatística
+
+                                                        Autor:
+                                     Equipe Exatas Estratégia
+                                                  Concursos
+
+
+                                             23 de Maio de 2025
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 03
+
+                                                                                     Índice
+1) Moda para Dados Não-Agrupados.
+
+
+2) Moda para Dados Agrupados sem Intervalos de Classe.
+
+
+3) Moda para Dados Agrupados em Classes.
+
+
+4) Propriedades da Moda.
+
+
+5) Questões Comentadas - Moda para Dados não Agrupados - FGV
+
+
+6) Questões Comentadas - Moda para Dados Agrupados sem Intervalos de Classe - FGV
+
+
+7) Questões Comentadas - Moda para Dados Agrupados em Classes - FGV
+
+
+8) Aviso importante - Orientação de estudo
+
+
+9) Questões Comentadas - Moda para Dados não Agrupados - Inéditas
+
+
+10) Questões Comentadas - Moda para Dados Agrupados sem Intervalos de Classe - Inéditas
+
+
+11) Questões Comentadas - Moda para Dados Agrupados em Classes - Inéditas
+
+
+12) Questões Comentadas - Propriedades da Moda - Inéditas
+
+
+13) Lista de Questões - Moda para Dados não Agrupados - FGV
+
+
+14) Lista de Questões - Moda para Dados Agrupados sem Intervalos de Classe - FGV
+
+
+15) Lista de Questões - Moda para Dados Agrupados em Classes - FGV
+
+
+16) Lista de Questões - Moda para Dados não Agrupados - Inéditas
+
+
+17) Lista de Questões - Moda para Dados Agrupados sem Intervalos de Classe - Inéditas
+
+
+18) Lista de Questões - Moda para Dados Agrupados em Classes - Inéditas
+
+
+19) Lista de Questões - Propriedades da Moda - Inéditas
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                          106
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                      MODA
+Nessa aula, aprenderemos outra importante medida descritiva: a moda estatística. A moda é uma medida
+de posição e de tendência central que descreve o valor mais frequente de um conjunto de observações,
+ou seja, o valor de maior ocorrência dentre os valores observados.
+
+                                                                             Moda
+
+                  Moda referente ao tamanho mais frequente da população.
+
+
+Na estatística, o termo moda foi introduzido por Karl Pearson, em 1895, influenciado, muito provavelmente,
+pela forma com que as pessoas se referiam àquilo que estava em destaque, em evidência, com o significado
+de coisa mais frequente.
+
+A definição evidencia que um conjunto de valores pode possuir uma ou mais modas, ou não possuir
+nenhuma. Assim, dizemos que um conjunto é unimodal, bimodal, trimodal ou plurimodal, de acordo com
+o número de modas que apresenta. A ausência de uma moda caracteriza o conjunto como amodal.
+
+                                                  Conjunto amodal.
+
+
+Em geral, a moda é utilizada em distribuições nas quais o valor mais frequente é o mais importante da
+distribuição. A moda também é útil para a determinação da medida de posição de variáveis qualitativas
+nominais, ou seja, variáveis não-numéricas que não podem ser ordenadas.
+
+O cálculo da moda ocorre de diferentes formas, a depender de como os dados estão organizados. Nesse
+contexto, aprenderemos a calcular a moda para as seguintes situações:
+
+   •   dados não-agrupados;
+   •   dados agrupados sem intervalos de classe (ou por valores); e
+   •   dados agrupados em classes.
+
+        Receita Federal (Analista Tributário) Estatística                                               3
+        www.estrategiaconcursos.com.br                                                                 106
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 03
+
+(CESPE/IPHAN/2018) Define-se estatística descritiva como a etapa inicial da análise utilizada para
+descrever e resumir dados. Em relação às medidas descritivas, julgue o item a seguir.
+A moda é o valor que apresenta a maior frequência da variável entre os valores observados.
+
+
+Comentários:
+A moda pode ser definida como o valor (ou os valores) que mais se repete(m) em uma amostra ou conjunto.
+Ou seja, que aparece(m) com maior frequência. Uma amostra pode apresentar mais de uma moda, sendo
+classificada como plurimodal; ou apenas uma moda, recebendo a denominação de unimodal; ou ainda
+amodal, quando todos os valores das variáveis em estudo apresentarem uma mesma frequência.
+                                                              ==219a34==
+
+Gabarito: Certo.
+
+
+(FCC/Pref. Macapá/2018) A medida de tendência central que representa o valor com maior frequência na
+distribuição normal de uma amostra probabilística é a
+a) média amostral.
+b) variância.
+c) amplitude total.
+d) mediana.
+e) moda amostral.
+
+
+Comentários:
+Vamos analisar cada uma das alternativas:
+•    Alternativa A: Errada. A média é determinada pela soma dos valores de um determinado conjunto de
+     medidas, dividindo-se o resultado dessa soma pela quantidade dos valores que foram somados;
+•    Alternativa B: Errada. A variância é uma medida de dispersão que mostra o quão distantes os valores
+     estão da média. É definida como a média dos quadrados dos desvios de uma amostra com relação a sua
+     própria média;
+•    Alternativa C: Errada. A amplitude total é a diferença entre o maior e o menor valor observado em uma
+     amostra;
+•    Alternativa D: Errada. A mediana é o valor que divide uma amostra ou uma distribuição de probabilidade
+     em duas partes iguais. Em termos mais simples, a mediana é o valor situado no meio de um conjunto de
+     dados. Se houver um número par de observações, a mediana será definida como a média dos dois
+     valores do meio;
+•    Alternativa E: Correta. De fato, a moda é o valor que aparece com maior frequência no conjunto de
+     dados.
+Gabarito: E.
+
+          Receita Federal (Analista Tributário) Estatística                                              4
+          www.estrategiaconcursos.com.br                                                                106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Moda para dados não-agrupados.
+
+Para determinarmos a moda de um conjunto ordenado de valores não agrupados em classes, basta
+identificarmos o elemento (ou elementos) de maior frequência no conjunto. Diferentemente das outras
+medidas de tendência central, a moda nem sempre existirá em um conjunto de valores. Além disso, em
+certas situações, poderemos ter uma, duas, ou várias modas no mesmo conjunto.
+
+Com relação ao número de modas, o conjunto de pode ser classificado como:
+
+   •   amodal: quando todos os elementos apresentam a mesma frequência, isto é, quando todos
+       aparecem o mesmo número de vezes:
+
+                                                   {1, 2, 3, 5, 6, 8, 10}
+
+   •   unimodal: quando a frequência de um elemento é maior que as frequências dos demais elementos.
+       Assim, um único elemento se destaca entre os demais. Isto é, quando o conjunto tem uma única
+       moda. No conjunto a seguir, o elemento 2 repete-se cinco vezes, enquanto o elemento 3 aparece
+       duas vezes. Logo, 𝑀𝑜 = 2.
+
+
+                                               {2,
+                                                ⏟ 2, 2, 2, 2 ,      3,
+                                                                    ⏟  3     }
+                                                 5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 2 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+   •   bimodal: quando as frequências de dois elementos são iguais e maiores que as frequências dos
+       demais elementos. Isto é, quando o conjunto tem duas modas. No conjunto a seguir, os elementos
+       2 e 3 repetem-se cinco vezes, enquanto o elemento 4 aparece duas vezes. Logo, 𝑀𝑜 = 2 e 𝑀𝑜 = 3.
+
+
+                                       {2,
+                                        ⏟ 2, 2, 2, 2 , ⏟
+                                                       3, 3, 3, 3, 3 ,      4, 4
+                                                                            ⏟       }
+                                         5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 2 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+   •   multimodal ou plurimodal: quando as frequências de três ou mais elementos são iguais e maiores
+       que as frequências dos demais elementos. Isto é, quando o conjunto tem três ou mais modas. No
+       conjunto a seguir, os elementos 2, 3 e 4 repetem-se cinco vezes, enquanto o elemento 5 aparece
+       duas vezes. Logo, 𝑀𝑜 = 2, 𝑀𝑜 = 3 e 𝑀𝑜 = 4.
+
+
+                                {2,
+                                 ⏟ 2, 2, 2, 2 , ⏟
+                                                3, 3, 3, 3, 3 , ⏟
+                                                                4, 4, 4, 4, 4 ,    5, 5
+                                                                                   ⏟      }
+                                 5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 5 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠 2 𝑒𝑙𝑒𝑚𝑒𝑛𝑡𝑜𝑠
+
+        Receita Federal (Analista Tributário) Estatística                                          5
+        www.estrategiaconcursos.com.br                                                            106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+(CESPE/PF/2018)
+
+                                                                       DIA
+                                                            1     2      3         4    5
+                                 X (quantidade diária
+                                      de drogas             10    22     18    22      28
+                                 apreendidas, em kg)
+Tendo em vista que, diariamente, a Polícia Federal apreende uma quantidade X, em kg, de drogas em
+determinado aeroporto do Brasil, e considerando os dados hipotéticos da tabela precedente, que
+apresenta os valores observados da variável X em uma amostra aleatória de 5 dias de apreensões no citado
+aeroporto, julgue o item.
+A moda da distribuição dos valores X registrados na amostra foi igual a 22 kg.
+
+
+Comentários:
+A moda é o valor que mais se repete na amostra, isto é, o valor de maior frequência. A tabela mostra que
+nos dias 2 e 4 foram apreendidos 22kg de drogas. Logo, de acordo com a tabela, o valor 22 tem a maior
+frequência da distribuição de valores X (2), representando a moda da amostra.
+Gabarito: Certo.
+
+
+25. (CESPE/ANATEL/2004)
+                   MESES     FEV     MAR ABR MAI JUN               JUL       AGO SET OUT NOV
+
+                      N       100      70      70      60    50    100        50       50   30   20
+A tabela acima mostra os números mensais de reclamações (N) feitas por usuários de telefonia fixa,
+registradas em uma central de atendimento, entre os meses de fevereiro a novembro de 2003.
+Considerando esses dados, julgue o item que se segue.
+A moda dos números mensais de reclamações registradas é igual a 100.
+
+
+Comentários:
+Como vimos, a moda é representada pelo valor que mais se repete em uma amostra, isto é, pelo valor de
+maior frequência. O valor que aparece mais vezes na tabela é 50, nos meses de junho, agosto e setembro.
+Portanto, a moda do conjunto é igual a 50.
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                              6
+        www.estrategiaconcursos.com.br                                                                106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+    MODA PARA DADOS AGRUPADOS SEM INTERVALOS DE
+                                                     CLASSE
+
+Quando os dados estão agrupados por valores, isto é, quando não agrupados em intervalos de classe, o
+cálculo da moda também é realizado de maneira simples e rápida. Para tanto, devemos identificar o valor
+que apresenta a maior frequência absoluta. Vejamos um exemplo.
+
+Considere que o Estratégia Concursos tenha realizado um simulado, contendo 50 questões, com 100
+estudantes da área fiscal, obtendo a seguinte distribuição de acertos:
+
+                                        Nº de Acertos Frequência Absoluta
+                                            (𝑿𝒊 )            (𝒇𝒊 )
+                                               45                 8
+                                               46                12
+                                               47                28
+                                               48                32
+                                               49                17
+                                               50                 3
+
+Para calcular a moda dessa distribuição, devemos identificar o maior valor existente na coluna de
+frequências.
+
+                                        Nº de Acertos Frequência Absoluta
+                                            (𝑿𝒊 )            (𝒇𝒊 )
+                                              45                  8
+                                              46                 12
+                                              47                 28
+                                              48                 32
+                                              49                 17
+                                              50                  3
+
+        Receita Federal (Analista Tributário) Estatística                                            7
+        www.estrategiaconcursos.com.br                                                              106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Como podemos observar, o maior valor é 32. Logo, a moda da distribuição é o resultado de 48
+questões corretas, pois corresponde a maior frequência. Portanto, podemos concluir que a maior
+concentração dos participantes errou apenas duas questões:
+
+                                                                    𝑴𝒐 = 𝟒𝟖
+
+A moda para dados agrupados por valores também pode ser identificada de forma gráfica, vejamos:
+
+                                               32
+                              Freq. absoluta
+
+                                               24
+
+
+                                               16
+                                                                      ==219a34==
+
+                                                8
+
+
+                                                0
+                                                      45       46                   47       48         49        50
+                                                                                   Nº de questões
+
+
+Perceba que a maior barra do gráfico, referente à frequência 32, corresponde à moda da
+distribuição, isto é, um total de 48 questões corretas.
+
+(CESPE/Pref. São Cristóvão/2018) A tabela seguinte mostra a distribuição das idades dos 30 alunos da
+turma A do quinto ano de uma escola de ensino fundamental.
+
+                                               Idade (em anos)                           9    10    11       12   13   14
+                           Quantidade de estudantes                                      6    22    0        1     0   1
+
+A partir dessa tabela, julgue o item.
+A moda dessa distribuição é igual a 11 anos.
+
+
+Comentários:
+A moda de uma tabela de frequências é representada pelo valor com maior número de ocorrências. A tabela
+mostra que a maior parte dos alunos (22) possui 10 anos de idade. Portanto, esse é o valor da moda da
+distribuição.
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                                    8
+        www.estrategiaconcursos.com.br                                                                                      106
+
+                                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+(CESPE/IFF/2018) A distribuição das notas dos 20 alunos de uma sala de aula na prova de matemática está
+mostrada na tabela a seguir.
+
+                                   Nota do aluno               5,0    6,0         7,0   8,0   9,0
+
+                                 Número de alunos               3     3           1     7     6
+
+Nessa situação, a moda dessas notas é igual a
+a) 6,0.
+b) 6,5.
+c) 7,0.
+d) 7,5.
+e) 8,0.
+
+
+Comentários:
+A moda é representada pelo elemento de maior frequência em uma distribuição agrupada por valor. A tabela
+mostra que a maior parte dos alunos alcançou a nota 8,0 na prova de matemática. Logo, esse será o valor da
+moda da distribuição.
+Gabarito: E.
+
+
+(CESPE/TCE-PA/2016)
+                                             Número diário de         Frequência
+                                          denúncias registradas (X)    Relativa
+                                                       0                    0,3
+                                                       1                    0,1
+                                                       2                    0,2
+                                                       3                    0,1
+                                                       4                    0,3
+                                                     Total                  1,0
+
+A tabela precedente apresenta a distribuição de frequências relativas da variável X, que representa o
+número diário de denúncias registradas na ouvidoria de determinada instituição pública. A partir das
+informações dessa tabela, julgue o item seguinte.
+A moda da variável X é igual a 2.
+
+
+Comentários:
+A moda é indicada pelo(s) elemento(s) que mais se repete(m) em uma distribuição, isto é, os valores de
+maiores frequências. A tabela mostra que os valores 0 e 4 têm frequência relativa 0,3. Portanto, temos um
+conjunto bimodal (duas modas), representadas pelos valores 0 e 4.
+Gabarito: Errado.
+
+
+          Receita Federal (Analista Tributário) Estatística                                             9
+          www.estrategiaconcursos.com.br                                                               106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+             MODA PARA DADOS AGRUPADOS EM CLASSES
+Quando os dados estão agrupados em classes de mesma amplitude, a moda será o valor dominante da
+classe que apresenta a maior frequência, que é denominada classe modal. Como já vimos, a amplitude de
+classe é a diferença entre os limites superior e inferior de uma determinada classe. Assim, quando as
+amplitudes são todas iguais, a moda estará contida na classe de maior frequência. A seguir, veremos os
+principais métodos empregados no cálculo da moda de distribuições agrupadas por intervalos de classe:
+moda bruta, moda de Pearson, moda de Czuber e moda de King.
+
+Moda Bruta
+
+A maneira mais simples de calcular a moda é tomar o ponto médio da classe modal. Esse valor, ao qual
+denominamos de moda bruta, é determinado pela seguinte fórmula:
+
+                                                            𝒍𝒊𝒏𝒇 + 𝒍𝒔𝒖𝒑
+                                                 𝑴𝑶 =
+                                                                 𝟐
+
+em que 𝑙𝑖𝑛𝑓 é o limite inferior da classe modal; e 𝑙𝑠𝑢𝑝 é o limite superior da classe modal.
+
+Considere a distribuição de frequências apresentada a seguir, que descreve as faixas etárias de um
+grupo de 220 alunos do Estratégia Concursos:
+                                         Faixa etária (𝑿𝒊 ) Frequência (𝒇𝒊 )
+                                              𝟏𝟎 ⊢ 𝟐𝟎                30
+                                              𝟐𝟎 ⊢ 𝟑𝟎                50
+                                              𝟑𝟎 ⊢ 𝟒𝟎                70
+
+                                              𝟒𝟎 ⊢ 𝟓𝟎                60
+                                              𝟓𝟎 ⊢ 𝟔𝟎                10
+                                                Total               220
+
+Como todas as classes possuem a mesma amplitude, a classe modal é aquela com maior frequência
+simples. No caso, trata-se da terceira classe:
+
+        Receita Federal (Analista Tributário) Estatística                                          10
+        www.estrategiaconcursos.com.br                                                             106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                           30 ⊢ 40 (𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 70).
+
+Temos, então, as seguintes informações:
+
+    • limite inferior da classe modal: 𝑙𝑖𝑛𝑓 = 30; e
+    • limite superior da classe modal: 𝑙𝑠𝑢𝑝 = 40.
+
+Aplicando a fórmula da moda bruta, temos:
+
+                                                            𝑙𝑖𝑛𝑓 + 𝑙𝑠𝑢𝑝
+                                                 𝑀𝑂 =
+                                                                 2
+                                                       30 + 40
+                                               𝑀𝑂 =            = 35
+                                                          2
+
+Esse assunto raramente é explorado em provas de concursos públicos.
+
+(IBFC/INEP/2012) Os “pesos" de vinte atletas estão distribuídos de acordo com a tabela abaixo:
+
+                                                                 Frequência
+                                         Pesos (kg)
+                                                                    (𝒇𝒊 )
+                                           55 ⊢ 65                   10
+                                           65 ⊢ 75                    4
+
+                                           75 ⊢ 85                    4
+
+                                           85 ⊢ 95                    2
+                                             Total                   20
+
+Considerando a distribuição acima, assinale a alternativa que apresenta respectivamente os valores da
+média e da moda bruta:
+
+
+        Receita Federal (Analista Tributário) Estatística                                         11
+        www.estrategiaconcursos.com.br                                                            106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+a) 75kg e 65kg
+b) 69kg e 55kg
+c) 80kg e 55kg
+d) 69kg e 60kg
+e) 75kg e 60kg
+
+
+Comentários:
+A classe modal é a primeira, pois possui a maior frequência absoluta (10). A moda bruta corresponde ao
+ponto médio da primeira classe.
+
+
+                                                          55 + 65
+                                                 𝑀𝑂 =             = 60
+                                                             2
+
+
+O enunciado também pediu para calcularmos a média. Para tanto, precisamos dos pontos médios das
+classes. Além disso, devemos multiplicar cada ponto médio pela sua respectiva frequência, e somar todos os
+resultados:
+
+                                       Frequência           Pontos médios
+                       Pesos                                                  𝑷𝑴𝒊 × 𝒇𝒊
+                                          (𝒇𝒊 )                 (𝑷𝑴𝒊 )
+
+                     𝟓𝟓 ⊢ 𝟔𝟓                10                   60         60 × 10 = 600
+
+                     𝟔𝟓 ⊢ 𝟕𝟓                 4                   70         70 × 4 = 280
+
+                     𝟕𝟓 ⊢ 𝟖𝟓                 4                   80         80 × 4 = 320
+
+                     𝟖𝟓 ⊢ 𝟗𝟓                 2                   90         90 × 2 = 180
+                       Total                20                                  1.380
+
+
+Agora, vamos encontrar a média:
+                                                          ∑ 𝑃𝑀𝑖 × 𝑓𝑖
+                                                   𝑥̅ =
+                                                             ∑ 𝑓𝑖
+
+
+                                                          1.380
+                                                   𝑥̅ =         = 69
+                                                           20
+
+
+Portanto, os valores da média e da moda bruta são, respectivamente, 69 e 60.
+
+
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                                              12
+        www.estrategiaconcursos.com.br                                                                 106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Moda de Pearson
+
+O matemático Karl Pearson observou a existência de uma relação empírica que permite calcular a moda
+quando são conhecidas a média (𝒙 ̅) e a mediana (𝑴𝒅 ) de uma distribuição moderadamente assimétrica.
+Quando essas condições são satisfeitas, podemos aplicar a relação denominada de moda de Pearson:
+
+
+                                                                 ̅
+                                              𝑴𝒐 = 𝟑 × 𝑴 𝒅 − 𝟐 × 𝒙
+
+em que 𝑥̅ é a média 𝑀𝑑 é a mediana da distribuição.
+
+Considere a distribuição de frequências apresentada a seguir, que descreve as faixas etárias de um
+grupo de 220 alunos do Estratégia Concursos:
+
+                                            Faixa etária (𝑿𝒊 ) Frequência (𝒇𝒊 )
+                                               𝟏𝟎 ⊢ 𝟐𝟎               30
+                                               𝟐𝟎 ⊢ 𝟑𝟎               50
+                                               𝟑𝟎 ⊢ 𝟒𝟎               70
+
+                                               𝟒𝟎 ⊢ 𝟓𝟎               60
+
+                                               𝟓𝟎 ⊢ 𝟔𝟎               10
+                                                 Total               220
+
+Faremos uma nova tabela, incluindo as informações de pontos médios e frequência acumulada.
+
+                                                    Frequência          Frequência
+            Faixa etária    Pontos médios
+                                                                        acumulada       𝑷𝑴𝒊 × 𝒇𝒊
+                (𝑿𝒊 )           (𝑷𝑴𝒊 )                 (𝒇𝒊 )               (𝒇𝒂𝒄 )
+              𝟏𝟎 ⊢ 𝟐𝟎              15                    30                  30      15 × 30 = 450
+              𝟐𝟎 ⊢ 𝟑𝟎              25                    50                  80      25 × 50 = 1.250
+              𝟑𝟎 ⊢ 𝟒𝟎              35                    70                  150     35 × 70 = 2.450
+              𝟒𝟎 ⊢ 𝟓𝟎              45                    60                  210     45 × 60 = 2.700
+              𝟓𝟎 ⊢ 𝟔𝟎              55                    10                  220     55 × 10 = 550
+                Total                                    220                              7.400
+
+        Receita Federal (Analista Tributário) Estatística                                              13
+        www.estrategiaconcursos.com.br                                                                 106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Depois de construir a tabela, facilmente encontramos a média:
+                                                         ∑ 𝑃𝑀𝑖 × 𝑓𝑖
+                                                  𝑥̅ =
+                                                            ∑ 𝑓𝑖
+                                                        7.400
+                                                𝑥̅ =          ≅ 33,64
+                                                         220
+Vamos ao cálculo da mediana. Já sabemos que a mediana divide o conjunto ao meio e ocupa a
+posição central do conjunto. Portanto, a mediana ocupa a posição 110 e está no intervalo que vai de
+30 a 40, pois é o primeiro cuja frequência acumulada supera o valor de 110.
+Temos, então, as seguintes informações:
+    • limite inferior da classe mediana: 𝑙𝑖𝑛𝑓 = 30;
+    • amplitude da classe mediana: ℎ = 40 − 30 = 10;
+    • frequência acumulada anterior à classe mediana: 𝑓𝑎𝑐 𝑎𝑛𝑡 = 80;
+
+    • frequência absoluta da classe mediana: 𝑓𝑖 = 70; e
+    • somatório das frequências absolutas: ∑ 𝑓𝑖 = 220.
+Aplicando a fórmula da mediana, temos:
+                                                     ∑𝑓
+                                                    ( 𝑖 ) − 𝑓𝑎𝑐 𝑎𝑛𝑡
+                                                      2
+                                      𝑀𝑑 = 𝑙𝑖𝑛𝑓 + [                 ]×ℎ
+                                                          𝑓𝑖
+
+                                               220
+                                                    (
+                                                   ) − 80
+                                   𝑀𝑑 = 30 + [  2         ] × (40 − 30)
+                                                  70
+
+                                                    110 − 80
+                                         𝑀𝑑 = 30 + (         ) × 10
+                                                       70
+                                                       30
+                                            𝑀𝑑 = 30 + ( ) × 10
+                                                       70
+                                                     30
+                                          𝑀𝑑 = 30 + ( ) ≅ 34,28
+                                                      7
+Agora que conhecemos a média e a mediana, podemos aplicar a fórmula de Pearson:
+                                              𝑀𝑜 = 3 × 𝑀𝑑 − 2 × 𝑥̅ .
+                                   𝑀𝑜 = 3 × 34,28 − 2 × 33,64 = 35,56
+
+        Receita Federal (Analista Tributário) Estatística                                       14
+        www.estrategiaconcursos.com.br                                                          106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Esse assunto é pouco explorado em provas de concursos públicos.
+
+(FCC/Pref. Manaus/2019) Conforme um levantamento realizado em um órgão público e analisando a
+distribuição dos salários, em R$ 1.000,00, de todos os seus funcionários, obteve-se a tabela de frequências
+absolutas abaixo, com k sendo um número inteiro positivo.
+
+                                      Salários (s)           Número de funcionários
+
+                                      2<𝑠≤4                           2𝑘
+                                      4<𝑠≤6                           20
+                                      6<𝑠≤8                           50
+                                     8 < 𝑠 ≤ 10                       80
+                                     10 < 𝑠 ≤ 12                      8𝑘
+                                          Total                       𝟒𝟎𝒌
+Considere que a média aritmética (Me) foi calculada considerando que todos os valores incluídos num
+certo intervalo de classe são coincidentes com o ponto médio deste intervalo, que a mediana (Md) foi
+calculada pelo método da interpolação linear e que a moda (Mo) foi obtida pela relação de Pearson, ou
+seja, Mo = 3xMd − 2xMe. O valor encontrado para Mo, em R$ 1.000,00, foi igual a
+a) 1,76 k.
+b) 1,70 k.
+c) 1,64 k.
+d) 1,60 k.
+e) 1,82 k.
+
+
+Comentários:
+Vamos iniciar encontrando o número total de funcionários, calculando o valor de 𝑘:
+
+
+         Receita Federal (Analista Tributário) Estatística                                              15
+         www.estrategiaconcursos.com.br                                                                 106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                          2𝑘 + 20 + 50 + 80 + 8𝑘 = 40𝑘
+                                               150 = 40𝑘 − 8𝑘 − 2𝑘
+                                                     30𝑘 = 150
+                                                            𝑘=5
+Substituindo 𝑘 na tabela temos um total de 200 funcionários. Faremos uma nova tabela, incluindo as
+informações de pontos médios e frequência acumulada.
+
+                                                      Nº de
+                             Pontos médios                               Frequência
+              Salários                             funcionários                           𝑷𝑴𝒊 × 𝒇𝒊
+                                 (𝑷𝑴𝒊 )                                acumulada (𝒇𝒂𝒄 )
+                                                       (𝒇𝒊 )
+             2<𝑠≤4                    3                     10               10             30
+             4<𝑠≤6                    5                     20               30             100
+             6<𝑠≤8                    7                     50               80             350
+            8 < 𝑠 ≤ 10                9                     80               160            720
+            10 < 𝑠 ≤ 12              11                     40               200            440
+               Total                                      𝟐𝟎𝟎                              𝟏𝟔𝟒𝟎
+
+
+Agora, podemos calcular a média:
+                                                          1640
+                                                   𝑥̅ =        = 8,2
+                                                          200
+
+
+A mediana se encontra na posição:
+                                         ∑ 𝑓𝑖 200
+                                              =      = 100
+                                          2      2
+A classe mediana corresponde ao primeiro intervalo cuja frequência acumulada supera esse valor, logo, a
+classe mediana está no intervalo que vai de 8 a 10. Portanto, os seguintes dados serão empregados na
+fórmula do valor mediano:
+  •   limite inferior da classe é 𝑙𝑖𝑛𝑓 = 8;
+  •   frequência acumulada da classe anterior é 𝑓𝑎𝑐𝑎𝑛𝑡 = 80;
+  •   frequência da própria classe é 𝑓𝑖 = 80;
+  •   amplitude da classe é ℎ = 10 − 8 = 2.
+
+        Receita Federal (Analista Tributário) Estatística                                            16
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Para encontrar a mediana, utilizaremos a fórmula:
+                                                      ∑𝑓
+                                                     ( 𝑖 ) − 𝑓𝑎𝑐 𝑎𝑛𝑡
+                                                       2
+                                        𝑀𝑑 = 𝑙𝑖𝑛𝑓 + [                ]×ℎ
+                                                           𝑓𝑖
+
+                                                   200
+                                                  ( 2 ) − 80
+                                       𝑀𝑑 = 8 + [            ] × (10 − 8)
+                                                      80
+
+                                                    100 − 80
+                                        𝑀𝑑 = 8 + [           ] × (10 − 8)
+                                                       80
+                                                          20
+                                                𝑀𝑑 = 8 + [ ] × (2)
+                                                          80
+                                                   𝑀𝑑 = 8 + 0,5
+                                                       𝑀𝑑 = 8,5
+Calculando a moda:
+                                              𝑀𝑜 = 3 × 𝑀𝑑 − 2 × 𝑀𝑒
+                                              𝑀𝑜 = 3 × 8,5 − 2 × 8,2
+                                                       𝑀𝑜 = 9,1
+A resposta é dada em função de 𝑘, então dividimos esse valor por 5:
+                                                      9,1
+                                                          = 1,82
+                                                       5
+Logo, a resposta é 1,82𝑘
+Gabarito: E.
+
+
+(FCC/SEFAZ-BA/2019) Considere a distribuição dos salários, em R$ 1.000,00, dos funcionários lotados em
+uma repartição pública, representada abaixo pela tabela de frequências relativas acumuladas, sendo k a
+frequência relativa acumulada do 4º intervalo de classe.
+
+                                                            Frequência relativa
+                                Classes de salários
+                                                              acumulada (%)
+                                         𝟏⊣𝟑                          5
+                                         𝟑⊣𝟓                          15
+                                         𝟓⊣𝟕                          40
+                                         𝟕⊣𝟗                          𝑘
+                                        𝟗 ⊣ 𝟏𝟏                       100
+
+Sabe-se que a média aritmética (𝑴𝒆 ) foi calculada considerando que todos os valores incluídos num certo
+intervalo de classe são coincidentes com o ponto médio desse intervalo, que a mediana (𝑴𝒅 ) foi calculada
+
+
+        Receita Federal (Analista Tributário) Estatística                                             17
+        www.estrategiaconcursos.com.br                                                                106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+pelo método da interpolação linear e que a moda (𝑴𝒐 ) foi obtida pela relação de Pearson, ou seja, 𝑴𝒐 =
+𝟑 × 𝑴𝒅 – 𝟐 × 𝑴𝒆 . Dado que 𝑴𝒆 = 𝑹$ 𝟕. 𝟐𝟎𝟎, 𝟎𝟎, então 𝑴𝒐 é igual a
+a) R$ 7.350,00.
+b) R$ 8.500,00.
+c) R$ 7.700,00.
+d) R$ 8.100,00.
+e) R$ 7.400,00.
+
+
+Comentários:
+Para iniciar a resolução da questão, precisamos saber qual o valor de 𝑘 que representa a frequência
+acumulada da classe 7 a 9. Para isso, vamos calcular a frequência relativa de cada classe, e montar uma
+tabela, já calculando os pontos médios das classes e as devidas frequências relativas:
+
+                          Pontos             Frequência
+       Classes de                                                 Frequência simples
+                          médios               relativa                                 𝑷𝑴𝒊 × 𝒇𝒊
+        salários                                                        (𝒇𝒊 )
+                          (𝑷𝑴𝒊 )           acumulada (%)
+            1⊣3               2                      5                       =5           10
+            3⊣5               4                     15                15 − 5 = 10         40
+            5⊣7               6                     40               40 − 15 = 25         150
+            7⊣9               8                      K                     = 𝑘 − 40     8𝑘 − 320
+            9 ⊣ 11           10                    100                 = 100 − 𝑘       1000 − 10𝑘
+                                  Total                                      𝟏𝟎𝟎       𝟖𝟖𝟎 − 𝟐𝒌
+
+
+De acordo com o enunciado, a média vale 7.200. Logo, podemos calcular o valor de 𝑘:
+                                                         880 − 2𝑘
+                                                   7,2 =
+                                                           100
+                                                   7,2 = 880 − 2𝑘
+                                                  2𝑘 = 880 − 720
+                                                            160
+                                                         𝑘=
+                                                             2
+                                                         𝑘 = 80
+
+        Receita Federal (Analista Tributário) Estatística                                           18
+        www.estrategiaconcursos.com.br                                                              106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Reescrevendo a tabela anterior:
+
+Já temos as frequências acumuladas de todas as classes, então podemos determinar a mediana. Se a
+mediana divide o conjunto ao meio e ocupa a posição central do conjunto, então a mediana ocupa a posição
+50 e a classe mediana corresponde ao intervalo de 7 a 9.
+
+
+Portanto, os seguintes dados serão empregados na fórmula do valor mediano:
+  •    limite inferior da classe é 𝑙𝑖𝑛𝑓 = 7;
+  •    frequência acumulada da classe anterior é 𝑓𝑎𝑐𝑎𝑛𝑡 = 40;
+  •    frequência da própria classe é 𝑓𝑖 = 40;
+  •    amplitude da classe é ℎ = 9 − 7 = 2.
+
+
+Usando a fórmula da mediana, temos:
+                                                      ∑𝑓
+                                                     ( 𝑖 ) − 𝑓𝑎𝑐 𝑎𝑛𝑡
+                                                       2
+                                        𝑀𝑑 = 𝑙𝑖𝑛𝑓 + [                ]×ℎ
+                                                           𝑓𝑖
+
+                                                      100
+                                                     ( 2 ) − 40
+                                       𝑀𝑑 = 7 + [                 ] × (9 − 7)
+                                                            40
+
+                                                        50 − 40
+                                             𝑀𝑑 = 7 + [         ]×2
+                                                           40
+                                                           10
+                                                 𝑀𝑑 = 7 + [ ] × 2
+                                                           40
+                                                   𝑀𝑑 = 7 + 0,5
+                                                      𝑀𝑑 = 7,50
+
+        Receita Federal (Analista Tributário) Estatística                                            19
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Aplicando à fórmula dada no enunciado, temos:
+
+
+                                               𝑀𝑜 = 3 × 𝑀𝑑 − 2 × 𝑥̅
+                                              𝑀𝑜 = 3 × 7,5 − 2 × 7,2
+                                                       𝑀𝑜 = 8,1
+                                                     𝑀𝑜 = 8.100
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                  20
+        www.estrategiaconcursos.com.br                                     106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Moda de Czuber
+
+O matemático Emanuel Czuber elaborou um processo gráfico capaz de aproximar o cálculo da moda. Para
+determinar graficamente a moda, Czuber partiu de um histograma, utilizando os três retângulos
+correspondentes à classe modal e às classes adjacentes (anterior e posterior).
+
+A moda é o valor do limite inferior (𝑙𝑖𝑛𝑓 ) da classe modal acrescido de um valor 𝑥, isto é,
+
+
+                                                   𝑴𝒐 = 𝒍𝒊𝒏𝒇 + 𝒙
+
+Nesse caso, o valor de 𝑥 é determinado pela intersecção dos segmentos ̅̅̅̅
+                                                                        𝐴𝐵 (que une o limite superior da
+                                                                         ̅̅̅̅ (que une o limite inferior da
+classe que antecede a classe modal ao limite superior da classe modal) e 𝐶𝐷
+classe modal ao inferior da classe posterior).
+
+Reparem nos triângulos (I) e (II), indicados na figura a seguir:
+
+        Receita Federal (Analista Tributário) Estatística                                               21
+        www.estrategiaconcursos.com.br                                                                  106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Agora, usando as relações de semelhança entre triângulos e de proporcionalidade, sabemos que:
+
+                                                     𝛥1    𝛥2
+                                                        =
+                                                     𝑥    ℎ−𝑥
+
+Fazendo a multiplicação cruzada das frações, temos que:
+
+                                               𝛥1 × (ℎ − 𝑥) = 𝛥2 × 𝑥
+
+                                             𝛥1 × ℎ − 𝛥1 × 𝑥 = 𝛥2 × 𝑥
+
+                                             𝛥1 × ℎ = 𝛥2 × 𝑥 + 𝛥1 × 𝑥
+
+                                              𝛥1 × ℎ = (𝛥1 + 𝛥2 ) × 𝑥
+
+Portanto, descobrimos o valor de 𝑥:
+
+                                                          𝛥1
+                                                 𝑥=[            ]×ℎ
+                                                        𝛥1 + 𝛥2
+
+Como a moda é igual ao limite inferior da classe modal adicionado de 𝑥, temos que:
+
+                                                    𝑀𝑜 = 𝑙𝑖𝑛𝑓 + 𝑥
+
+Logo,
+
+                                                         𝜟𝟏
+                                          𝑴𝒐 = 𝒍𝒊𝒏𝒇 + [        ]×𝒉
+                                                       𝜟𝟏 + 𝜟𝟐
+
+Essa fórmula também costuma ser escrita da seguinte forma:
+
+
+                                                    𝒇𝑴𝒐 − 𝒇𝒂𝒏𝒕
+                            𝑴𝒐 = 𝒍𝒊 + [                                    ]×𝒉
+                                            (𝒇𝑴𝒐 − 𝒇𝒂𝒏𝒕 ) + (𝒇𝑴𝒐 − 𝒇𝒑𝒐𝒔𝒕 )
+
+Outros autores preferem o seguinte formato:
+
+
+                                                            𝒇𝑴𝒐 − 𝒇𝒂𝒏𝒕
+                               𝑴𝒐 = 𝒍𝒊 + [                                  ]×𝒉
+                                                𝟐 × 𝒇𝑴𝒐 − (𝒇𝒂𝒏𝒕 + 𝒇𝒑𝒐𝒔𝒕 )
+
+        Receita Federal (Analista Tributário) Estatística                                       22
+        www.estrategiaconcursos.com.br                                                          106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Perceba que a moda de Czuber considera a frequência da própria classe modal e não apenas as frequências
+das classes adjacentes.
+
+Quando a classe modal coincidir com a primeira ou com a última classe, devemos considerar que:
+𝑓𝑎𝑛𝑡 = 0 (𝑠𝑒 𝑓𝑜𝑟 𝑎 𝑝𝑟𝑖𝑚𝑒𝑖𝑟𝑎 𝑐𝑙𝑎𝑠𝑠𝑒);
+𝑓𝑝𝑜𝑠𝑡 = 0 (𝑠𝑒 𝑓𝑜𝑟 𝑎 ú𝑙𝑡𝑖𝑚𝑎 𝑐𝑙𝑎𝑠𝑠𝑒).
+
+Segundo a hipótese de Czuber, a moda divide o intervalo da classe modal em distâncias
+proporcionais às diferenças entre a frequência da classe modal e as frequências das classes
+adjacentes.
+
+Considere a distribuição de frequências apresentada a seguir, que descreve as faixas etárias de um
+grupo de 220 alunos do Estratégia Concursos:
+
+                                        Faixa etária (𝑿𝒊 ) Frequência (𝒇𝒊 )
+                                            𝟏𝟎 ⊢ 𝟐𝟎                 30
+                                            𝟐𝟎 ⊢ 𝟑𝟎                 50
+                                            𝟑𝟎 ⊢ 𝟒𝟎                 70
+
+                                            𝟒𝟎 ⊢ 𝟓𝟎                 60
+                                            𝟓𝟎 ⊢ 𝟔𝟎                 10
+                                               Total               220
+
+        Receita Federal (Analista Tributário) Estatística                                           23
+        www.estrategiaconcursos.com.br                                                              106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+A classe modal é aquela com maior frequência simples. No caso, trata-se da terceira classe:
+
+                                              30 ⊢ 40 (𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 70).
+
+Temos, então, as seguintes informações:
+
+       • limite inferior da classe modal: 𝑙𝑖𝑛𝑓 = 30;
+       • amplitude da classe modal: ℎ = 40 − 30 = 10;
+       • frequência da classe modal: 𝑓𝑀𝑜 = 70;
+       • frequência da classe anterior à classe modal: 𝑓𝑎𝑛𝑡 = 50; e
+       • frequência da classe posterior à classe modal: 𝑓𝑝𝑜𝑠𝑡 = 60.
+
+Aplicando a fórmula de Czuber, temos:
+
+                                                         𝑓𝑀𝑜 − 𝑓𝑎𝑛𝑡
+                                 𝑀𝑜 = 𝑙𝑖 + [                                   ]×ℎ
+                                                (𝑓𝑀𝑜 − 𝑓𝑎𝑛𝑡 ) + (𝑓𝑀𝑜 − 𝑓𝑝𝑜𝑠𝑡 )
+
+                                                     70 − 50
+                              𝑀𝑜 = 30 + [                           ] × (40 − 30)
+                                              (70 − 50) + (70 − 60)
+
+                                                         20
+                                            𝑀𝑜 = 30 + (        ) × 10
+                                                       20 + 10
+                                                     20
+                                          𝑀𝑜 = 30 + ( ) × 10 ≅ 36,66
+                                                     30
+
+(IBFC/EBSERH/2020) A tabela apresenta a distribuição de frequência da variável "tamanho, em metros, do
+novelo de lã a ser vendido numa loja".
+
+                     Classes      0⊢ 2,5 2,5⊢ 5,0 5,0⊢ 7,5 7,5⊢ 10,0 10,0⊢ 12,5 12,5⊢ 15
+                        𝑭𝒊           2          3             4      8        7      5
+De acordo com a tabela, a moda da distribuição, pelo método de Czuber, é igual a:
+a) 9,5
+b) 8,3
+c) 8
+
+          Receita Federal (Analista Tributário) Estatística                                        24
+          www.estrategiaconcursos.com.br                                                           106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+d) 9,75
+e) 9,25
+
+
+Comentários:
+A classe modal é a classe com maior frequência absoluta (7,5 a 10,0).
+A moda de Czuber é dada por:
+                                                              (𝑓𝑚𝑜 − 𝑓𝑎𝑛𝑡 )
+                                        𝑀𝑜 = 𝑙𝑖 + ℎ ×
+                                                          2𝑓𝑚𝑜 − (𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠𝑡 )
+Em que:
+   • 𝑙𝑖 = limite inferior da classe modal;
+   • ℎ = amplitude da classe modal;
+   • 𝑓𝑚𝑜 = frequência da classe modal;
+   • 𝑓𝑎𝑛𝑡 = frequência da classe anterior à classe modal;
+   • 𝑓𝑝𝑜𝑠𝑡 = frequência da classe posterior à classe modal.
+
+
+Aplicando a fórmula, temos:
+                                                               (8 − 4)
+                                          𝑀𝑜 = 7,5 + 2,5 ×
+                                                           2 × 8 − (4 + 7)
+                                                                  4
+                                              𝑀𝑜 = 7,5 + 2,5 ×
+                                                               16 − 11
+                                                                  4
+                                                 𝑀𝑜 = 7,5 + 2,5 ×
+                                                                  5
+                                                𝑀𝑜 = 7,5 + 2,5 × 0,8
+                                                      𝑀𝑜 = 7,5 + 2
+                                                         𝑀𝑜 = 9,5
+Gabarito: A.
+
+
+(FCC/SEPLA DR SP/2019) Instruções: Para responder à questão utilize as informações do histograma de
+frequências absolutas abaixo correspondente à distribuição dos preços unitários de venda de determinado
+componente eletrônico comercializado no mercado. Considere para as resoluções que os intervalos de
+classe são fechados à esquerda e abertos à direita.
+
+          Receita Federal (Analista Tributário) Estatística                                         25
+          www.estrategiaconcursos.com.br                                                            106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+O valor da moda da distribuição (Mo) obtida através da fórmula de Czuber:
+                                                               𝒇𝑴𝒐 − 𝒇𝒂𝒏𝒕
+                                      𝑴𝒐 = 𝒍𝒊 + 𝒉 ×
+                                                        𝟐 × 𝒇𝑴𝒐 − (𝒇𝒂𝒏𝒕 + 𝒇𝒑𝒐𝒔𝒕 )
+Em que:
+𝒍𝒊 = limite inferior da classe modal
+𝒉 = amplitude da classe modal
+𝒇𝑴𝒐 = frequência da classe modal
+𝒇𝒂𝒏𝒕 = frequência da classe anterior à classe modal
+𝒇𝒑𝒐𝒔𝒕 = frequência da classe posterior à classe modal
+
+
+é igual a
+a) R$ 4,60
+b) R$ 4,65
+c) R$ 4,70
+d) R$ 4,75
+e) R$ 5,00
+
+
+Comentários:
+
+
+Para iniciar a resolução da questão, vamos representar os dados em formato tabular:
+
+          Receita Federal (Analista Tributário) Estatística                           26
+          www.estrategiaconcursos.com.br                                              106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                   Ponto médio        Frequência Simples
+                                     Classe
+                                                       (𝑿)                   (𝒇)
+
+                                   𝟎<𝒔≤𝟐                    1                 10
+                                   𝟐<𝒔≤𝟒                    3                 20
+                                   𝟒<𝒔≤𝟔                    5                 25
+                                   𝟔<𝒔≤𝟖                    7                 20
+                                  𝟖 < 𝒔 ≤ 𝟏𝟎                9                 15
+                                 𝟏𝟎 < 𝒔 ≤ 𝟏𝟐                11                10
+
+A classe modal é aquela com maior frequência simples. No caso, trata-se da terceira classe:
+                                           4 < 𝑠 ≤ 6 (𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 25).
+Temos, então, as seguintes informações:
+  • limite inferior da classe modal: 𝑙𝑖𝑛𝑓 = 4;
+
+  • amplitude da classe modal: ℎ = 6 − 4 = 2;
+  • frequência da classe modal: 𝑓𝑀𝑜 = 25;
+  • frequência da classe anterior à classe modal: 𝑓𝑎𝑛𝑡 = 20; e
+  • frequência da classe posterior à classe modal: 𝑓𝑝𝑜𝑠𝑡 = 20.
+
+
+Reparem que tanto a frequência da classe anterior quanto a frequência da classe posterior são 20. Quando
+isso ocorre, a moda cai no ponto médio da classe modal. Logo, já podemos afirmar que a média é 5.
+
+
+Em todo caso, vamos aos cálculos. A fórmula de Czuber é a que segue:
+                                                     𝑓𝑀𝑜 − 𝑓𝑎𝑛𝑡
+                                 𝑀𝑜 = 𝑙𝑖 + [                               ]×ℎ
+                                            (𝑓𝑀𝑜 − 𝑓𝑎𝑛𝑡 ) + (𝑓𝑀𝑜 − 𝑓𝑝𝑜𝑠𝑡 )
+                                                         25 − 20
+                                    𝑀𝑜 = 4 + [                          ]×2
+                                                  (25 − 20) + (25 − 20)
+                                                                  5
+                                               𝑀𝑜 = 4 + [            ]×2
+                                                                 5+5
+                                                                  5
+                                              𝑀𝑜 = 4 + [            ]×2 = 5
+                                                                 10
+Gabarito: E.
+
+        Receita Federal (Analista Tributário) Estatística                                            27
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Moda de King
+
+O estatístico Wilford King também desenvolveu um processo gráfico capaz de determinar o valor da moda
+de forma aproximada. Para determinar graficamente a moda, King partiu de um histograma, utilizando
+apenas os dois retângulos correspondentes às classes adjacentes (anterior e posterior).
+
+A moda é o valor do limite inferior da classe modal acrescida de um valor 𝑥, isto é,
+
+
+                                                   𝑴𝒐 = 𝒍𝒊𝒏𝒇 + 𝒙
+
+Nesse caso, o valor de 𝑥 é determinado pela intersecção dos segmentos ̅̅̅̅𝐴𝐵 (que une o limite inferior da
+classe modal à projeção da frequência anterior na posição do limite superior da classe modal) e 𝐶𝐷 ̅̅̅̅ (que
+une a projeção da frequência posterior na posição do limite inferior ao limite superior da classe modal).
+
+A proposta de King também está baseada nos conceitos de semelhança entre os triângulos e
+proporcionalidade. Reparem nos triângulos (I) e (II), indicados na figura a seguir:
+
+        Receita Federal (Analista Tributário) Estatística                                                28
+        www.estrategiaconcursos.com.br                                                                  106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Usando as relações de semelhança entre triângulos e de proporcionalidade, concluímos que:
+
+                                                     𝑓𝑝𝑜𝑠   𝑓𝑎𝑛𝑡
+                                                          =
+                                                      𝑥     ℎ−𝑥
+
+Fazendo a multiplicação cruzada das frações, temos que:
+
+                                             𝑓𝑝𝑜𝑠 × (ℎ − 𝑥) = 𝑓𝑎𝑛𝑡 × 𝑥
+
+                                          𝑓𝑝𝑜𝑠 × ℎ − 𝑓𝑝𝑜𝑠 × 𝑥 = 𝑓𝑎𝑛𝑡 × 𝑥
+
+                                           𝑓𝑝𝑜𝑠 × ℎ = (𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠 ) × 𝑥
+
+Portanto, descobrimos o valor de 𝑥:
+
+                                                            𝑓𝑝𝑜𝑠
+                                               𝑥=                     ×ℎ
+                                                     (𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠 )
+
+Como a moda é igual ao limite inferior da classe modal adicionado de 𝑥, temos que:
+
+                                                    𝑀𝑜 = 𝑙𝑖𝑛𝑓 + 𝑥
+
+                                                          𝑓𝑝𝑜𝑠
+                                          𝑀𝑜 = 𝑙𝑖𝑛𝑓 + [            ]×ℎ
+                                                       𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠
+
+Os métodos de Czuber e King são similares sob vários aspectos, contudo, divergem no que diz
+respeito às frequências adotadas. O método de King baseia-se na influência que as frequências
+adjacentes exercem sobre a classe modal, enquanto o procedimento de Czuber leva em
+consideração não apenas as frequências das classes adjacentes, mas também a própria frequência
+da classe modal.
+
+        Receita Federal (Analista Tributário) Estatística                                   29
+        www.estrategiaconcursos.com.br                                                      106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Segundo a hipótese de King, a moda divide o intervalo da classe modal em distâncias inversamente
+proporcionais às frequências das classes adjacentes.
+
+Considere a distribuição de frequências apresentada a seguir, que descreve as faixas etárias de um
+grupo de 220 alunos do Estratégia Concursos:
+
+                                           Faixa etária (𝑿𝒊 ) Frequência (𝒇𝒊 )
+                                               𝟏𝟎 ⊢ 𝟐𝟎              30
+                                               𝟐𝟎 ⊢ 𝟑𝟎              50
+                                               𝟑𝟎 ⊢ 𝟒𝟎              70
+
+                                               𝟒𝟎 ⊢ 𝟓𝟎              60
+
+                                               𝟓𝟎 ⊢ 𝟔𝟎              10
+                                                 Total              220
+
+
+A classe modal é aquela com maior frequência simples. No caso, trata-se da terceira classe:
+
+                                            30 ⊢ 40 (𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 70).
+
+Temos, então, as seguintes informações:
+
+    • limite inferior da classe modal: 𝑙𝑖𝑛𝑓 = 30;
+    • amplitude da classe modal: ℎ = 40 − 30 = 10;
+    • frequência da classe anterior à classe modal: 𝑓𝑎𝑛𝑡 = 50; e
+    • frequência da classe posterior à classe modal: 𝑓𝑝𝑜𝑠𝑡 = 60.
+
+        Receita Federal (Analista Tributário) Estatística                                      30
+        www.estrategiaconcursos.com.br                                                         106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Aplicando a fórmula de King, temos:
+
+                                                                               𝑓𝑝𝑜𝑠
+                                              𝑀𝑜 = 𝑙𝑖𝑛𝑓 + [                             ]×ℎ
+                                                                            𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠
+
+                                                           60
+                                        𝑀𝑜 = 30 + [              ] × (40 − 30)
+                                                         50 + 60
+                                                                              60
+                                                𝑀𝑜 = 30 + (                       ) × 10
+                                                                              110
+                                                      6
+                                           𝑀𝑜 = 30 + ( ) × 10 ≅ 35,45
+                                                      11
+                                                               ==219a34==
+
+(IAUPE/PM-PE/2018 - ADAPTADA) A tabela seguinte mostra a distribuição dos salários de uma corporação.
+Analise-a e responda a questão.
+
+                 Salários (Mil R$) 3 Ⱶ 6          6Ⱶ9                       9 Ⱶ 12   12 Ⱶ 15   15 Ⱶ 18   18 Ⱶ 21
+                  Nº de militares        12         15                       20        10        5         3
+
+O salário modal, pelo método King, vale, em mil,
+a) R$ 9
+b) R$ 9,5
+c) R$ 10,2
+d) R$ 10,5
+e) R$ 12
+
+
+Comentários:
+A classe modal é a de maior frequência absoluta.
+A moda de King é dada por:
+                                                             𝑓𝑝𝑜𝑠𝑡
+                                               𝑀𝑜 = 𝑙𝑖 + [             ]×ℎ
+                                                          𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠𝑡
+
+           Receita Federal (Analista Tributário) Estatística                                                       31
+           www.estrategiaconcursos.com.br                                                                          106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Em que:
+    • 𝑙𝑖 = limite inferior da classe modal
+    • ℎ = amplitude da classe modal
+    • 𝑓𝑎𝑛𝑡 = frequência da classe anterior à classe modal
+    • 𝑓𝑝𝑜𝑠𝑡 = frequência da classe posterior à classe modal
+
+
+Aplicando a fórmula temos:
+                                                          10
+                                            𝑀𝑜 = 9 + [          ] × (12 − 9)
+                                                        15 + 10
+                                                              10
+                                                    𝑀𝑜 = 9 + [ ] × 3
+                                                              25
+                                                    𝑀𝑜 = 9 + 0,4 × 3
+                                                      𝑀𝑜 = 9 + 1,20
+                                                        𝑀𝑜 = 10,20
+Gabarito: C
+
+
+(FUNDATEC/SEFAZ-RS/2009) A tabela a seguir representa a distribuição de frequências da idade de uma
+amostra de moradores de um asilo. Utilize para resolver a questão.
+
+                                                         𝑿𝒊             𝒇𝒊
+
+                                                      70 ⊢ 74            7
+                                                      74 ⊢ 78           19
+                                                      78 ⊢ 82           13
+
+                                                      82 ⊢ 86           11
+
+                                                      86 ⊢ 90            6
+
+                                                      90 ⊢ 94            4
+                                                        Total           60
+
+O valor da moda pelo método de King é:
+a) 72,8.
+b) 76,6.
+c) 80,0.
+d) 76,0.
+e) 19,0.
+
+           Receita Federal (Analista Tributário) Estatística                                    32
+           www.estrategiaconcursos.com.br                                                       106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Comentários:
+A classe modal é aquela com maior frequência simples. No caso, trata-se da classe:
+                                            74 ⊢ 78 (𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 19).
+Temos, então, as seguintes informações:
+  • limite inferior da classe modal: 𝑙𝑖𝑛𝑓 = 74;
+  • amplitude da classe modal: ℎ = 4;
+  • frequência da classe anterior à classe modal: 𝑓𝑎𝑛𝑡 = 7; e
+  • frequência da classe posterior à classe modal: 𝑓𝑝𝑜𝑠𝑡 = 13.
+
+
+A fórmula da moda de King é a que segue:
+                                                         𝑓𝑝𝑜𝑠𝑡
+                                           𝑀𝑜 = 𝑙𝑖 + [             ]×ℎ
+                                                      𝑓𝑎𝑛𝑡 + 𝑓𝑝𝑜𝑠𝑡
+                                                           13
+                                               𝑀𝑜 = 74 +        ×4
+                                                         7 + 13
+                                                           13
+                                                 𝑀𝑜 = 74 +    ×4
+                                                           20
+                                                    𝑀𝑜 = 76,6
+Gabarito: B.
+
+        Receita Federal (Analista Tributário) Estatística                            33
+        www.estrategiaconcursos.com.br                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Moda para Distribuições com Amplitudes Não Constantes
+
+Para que possamos utilizar os métodos de Czuber e King, é necessário que as amplitudes de todas as classes
+sejam iguais. Se isso não acontecer, as fórmulas terão que sofrer uma pequena adaptação, no sentido de
+considerar a densidade de frequência de cada classe.
+
+Observe a distribuição de frequências apresentada a seguir, que descreve as faixas etárias de um grupo de
+255 funcionários de uma fábrica.
+
+
+                                              Faixa Etária Frequência
+
+                                               𝟏𝟎 ⊢ 𝟐𝟎           30
+
+                                               𝟐𝟎 ⊢ 𝟑𝟓           60
+                                               𝟑𝟓 ⊢ 𝟓𝟓          80
+                                               𝟓𝟓 ⊢ 𝟔𝟎           75
+                                               𝟔𝟎 ⊢ 𝟕𝟎           10
+
+Como podemos observar, a classe que apresenta a maior frequência é a terceira (𝑓𝑖 = 80). Contudo, não é
+razoável supor que essa seja a classe modal, pois nela as idades estão distribuídas no intervalo de 35 a 55
+anos, enquanto, na classe seguinte, em que há 75 funcionários, as idades estão distribuídas em um intervalo
+muito menor, de 55 a 60 anos.
+
+Portanto, quando a distribuição possuir classes com amplitudes diferentes, não conseguiremos identificar
+a classe modal analisando a frequência pura e simplesmente. Nessa situação, a classe modal será
+identificada com base na densidade de frequência, que resulta da divisão entre a frequência da classe e a
+sua amplitude.
+
+Dito isso, podemos computar as densidades de frequência para o nosso exemplo. Reparem que a quarta
+classe é que apresenta a maior densidade de frequência, sendo, portanto, a classe modal.
+
+
+                                                                                 𝒇
+                            Faixa Etária Frequência (𝒇)               𝒉     𝒅=
+                                                                                 𝒉
+                                                                            30
+                            𝟏𝟎 ⊢ 𝟐𝟎                30        𝟐0 − 10 = 10      =3
+                                                                            10
+                                                                            60
+                            𝟐𝟎 ⊢ 𝟑𝟓                60        𝟑𝟓 − 20 = 15      =4
+                                                                            15
+                                                                            80
+                            𝟑𝟓 ⊢ 𝟓𝟓               80         𝟓𝟓 − 35 = 20      =4
+                                                                            20
+                                                                            𝟕𝟓
+                            𝟓𝟓 ⊢ 𝟔𝟎                75         𝟔𝟎 − 𝟓𝟓 = 𝟓      = 𝟏𝟓
+                                                                             𝟓
+
+        Receita Federal (Analista Tributário) Estatística                                               34
+        www.estrategiaconcursos.com.br                                                                  106
+
+                                      
+
+
+---
+
+    Equipe Exatas Estratégia Concursos
+    Aula 03
+
+                                                                                  10
+                              𝟔𝟎 ⊢ 𝟕𝟎                10           𝟕𝟎 − 60 = 10       =1
+                                                                                  10
+
+A representação dos dados em um histograma com classes de larguras desiguais requer a transformação
+dos valores de frequência absoluta em densidade de frequência, pois a área de cada retângulo deve ser
+proporcional à frequência da classe respectiva. Vejamos:
+
+Agora, para calcular as modas de Czuber e de King, temos que substituir as frequências pelas suas respectivas
+densidades de frequências:
+
+
+                                                        𝒅𝒇𝑴𝒐 − 𝒅𝒇𝒂𝒏𝒕
+                    𝑴𝑪𝒛𝒖𝒃𝒆𝒓
+                     𝒐      = 𝒍𝒊𝒏𝒇 + [                                            ]×𝒉
+                                               (𝒅𝒇𝑴𝒐 − 𝒅𝒇𝒂𝒏𝒕 ) + (𝒅𝒇𝑴𝒐 − 𝒅𝒇𝒑𝒐𝒔𝒕 )
+
+e
+
+
+                                        𝑲𝒊𝒏𝒈                     𝒅𝒇𝒑𝒐𝒔
+                                     𝑴𝒐        = 𝒍𝒊𝒏𝒇 + [                   ] × 𝒉.
+                                                              𝒅𝒇𝒂𝒏𝒕 + 𝒅𝒇𝒑𝒐𝒔
+
+Em nosso exemplo, o valor da moda de Czuber é:
+
+                                                                15 − 4
+                                    𝑀𝑜𝐶𝑧𝑢𝑏𝑒𝑟 = 55 + [                         ]×5
+                                                          (15 − 4) + (15 − 1)
+
+                                                                   11
+                                            𝑀𝑜𝐶𝑧𝑢𝑏𝑒𝑟 = 55 + [            ]×5
+                                                                 11 + 14
+
+                                                                11
+                                          𝑀𝑜𝐶𝑧𝑢𝑏𝑒𝑟 = 55 + [        ] × 5 = 57,2
+                                                                25
+
+          Receita Federal (Analista Tributário) Estatística                                               35
+          www.estrategiaconcursos.com.br                                                                 106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Por sua vez, a moda de King assume o seguinte valor:
+
+                                               𝐾𝑖𝑛𝑔               1
+                                             𝑀𝑜       = 55 + [       ] × 5.
+                                                                 4+1
+
+                                              𝐾𝑖𝑛𝑔            1
+                                             𝑀𝑜       = 55 + [ ] × 5 = 56
+                                                              5
+
+(CESPE/PF/2004)
+
+      Classificação Mínimo          1°. Quartil      Mediana       Média      3°. Quartil Máximo Variância
+
+              A           20            25             27,5          30         32,5       50       49
+              B           18            23              32           33          42        52       100
+            A ou B         𝑥             𝑦              𝑧            31          𝑤         𝑢         𝑣
+
+De acordo com um levantamento estatístico, a média das idades de um grupo de presidiários é igual a 31
+anos de idade. Nesse levantamento, os presidiários foram classificados como A ou B, dependendo da sua
+condição psicossocial. Constatou-se que a média das idades dos presidiários classificados como A é menor
+que a média das idades dos presidiários classificados como B. A tabela acima apresenta algumas medidas
+estatísticas obtidas por meio desse levantamento.
+
+
+A partir das informações acima, julgue o item que se segue.
+A moda das idades dos presidiários classificados como A, segundo a fórmula de Czuber, está entre 25,5 e 26
+anos de idade.
+
+
+Comentários:
+Conhecendo os valores mínimo, máximo e os quartis, podemos determinar a distribuição de frequências.
+Isso ocorre porque os quartis separam o conjunto de dados em quatro partes iguais, cada uma com 25% das
+observações. Vejamos:
+
+        Receita Federal (Analista Tributário) Estatística                                                    36
+        www.estrategiaconcursos.com.br                                                                       106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                          Classe       Frequência Relativa (%)
+
+                                       20,0 - 25,0                 25
+                                       25,0 - 27,5                 25
+                                       27,5 - 32,5                 25
+                                       32,5 - 50,0                 25
+
+Reparem que as classes têm amplitudes diferentes. Por conta disso, o cálculo da moda deverá levar em
+consideração a densidade de frequência, que resulta da divisão entre a frequência simples (𝑓) e a ampiltude
+de classe (ℎ):
+
+                                                                  Amplitude de Densidade de
+                         Classe      Frequência Relativa (%)
+                                                                        Classe      Frequência
+
+                      20,0 - 25,0                25                       5             5
+                      25,0 - 27,5                25                      2,5           10
+                      27,5 - 32,5                25                       5             5
+                      32,5 - 50,0                25                     17,5         25/17,5
+
+Observem que todas as classes possuem a mesma frequência relativa simples. Assim, a classe modal será
+aquela com menor amplitude, pois isso vai resultar na maior densidade de frequência. Logo, a classe modal
+será a segunda.
+Sabendo disso, temos que a classe anterior será a primeira e a classe posterior será a terceira. Reparem que
+a densidade de frequência da classe anterior é igual à densidade de frequência da classe posterior. Quando
+isso ocorre, a moda ocupa a posição central da classe modal. Portanto:
+                                                 25 + 27,5
+                                                           = 26,25
+                                                     2
+De todo modo, vamos aplicar a fórmula de Czuber:
+                                                  𝑑𝑓𝑀𝑜 − 𝑑𝑓𝑎𝑛𝑡
+                              𝑀𝑜 = 𝑙𝑖 + [                                  ]×ℎ
+                                         (𝑑𝑓𝑀𝑜 − 𝑓𝑎𝑛𝑡 ) + (𝑑𝑓𝑀𝑜 − 𝑑𝑓𝑝𝑜𝑠𝑡 )
+                                                            10 − 5
+                                    𝑀𝑜 = 25,0 + [                         ] × 2,5
+                                                      (10 − 5) + (10 − 5)
+                                                               5
+                                            𝑀𝑜 = 25,0 + [         ] × 2,5
+                                                              5+5
+                                                             5
+                                        𝑀𝑜 = 25,0 + [          ] × 2,5 = 26,25
+                                                            10
+Gabarito: Errado.
+
+        Receita Federal (Analista Tributário) Estatística                                                37
+        www.estrategiaconcursos.com.br                                                                   106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                 PROPRIEDADES DA MODA
+A moda apresenta duas propriedades principais: a soma (ou subtração) de uma constante; e a multiplicação
+(ou divisão) por uma constante. Essas propriedades são parecidas com as que vimos em aulas anteriores,
+quando tratamos da média e da mediana.
+
+        1º Propriedade
+        • Somando-se (ou subtraindo-se) uma constante 𝒄 a todos os valores de uma variável, a
+          moda do conjunto fica aumentada (ou diminuída) dessa constante.
+
+                                                            ==219a34==
+
+Para explicar essa propriedade, vamos tomar como exemplo a sequência {𝒙𝒏 } = {3, 8, 8, 8, 10}, cuja
+moda é:
+
+                                                       𝑀𝑜 𝑥 = 8
+
+Se adicionarmos o número 5 a cada um dos termos da sequência, iremos obter uma nova lista {𝑦𝑛 } =
+{𝑥𝑛 + 5} = {8, 13, 13, 13, 15}, cuja moda é:
+
+                                                      𝑀𝑜 𝑦 = 13
+
+Veja que a adição do número 5 a cada um dos termos da sequência fez com que a moda também
+aumentasse em 5 unidades, indo de 8 para 13.
+
+        Receita Federal (Analista Tributário) Estatística                                            38
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+        2º Propriedade
+        • Multiplicando-se (ou dividindo-se) todos os valores de uma variável por uma constante
+          𝒄, a moda do conjunto fica multiplicada (ou dividida) por essa constante.
+
+Para explicar essa propriedade, vamos tomar como exemplo a sequência {𝒙𝒏 } = {3, 8, 8, 8, 10}, cuja
+moda é:
+
+                                                       𝑀𝑜 𝑥 = 8
+
+Se multiplicarmos cada um dos termos da sequência por 5, iremos obter uma nova lista {𝑦𝑛 } =
+{𝑥𝑛 × 5} = {15, 40, 40, 40, 50}, cuja moda é:
+
+                                                      𝑀𝑜 𝑦 = 40
+
+Veja que a multiplicação de cada um dos termos da sequência por 5 fez com que a moda também
+fosse multiplicada por 5, aumentando de 8 para 40.
+
+        Receita Federal (Analista Tributário) Estatística                                         39
+        www.estrategiaconcursos.com.br                                                            106
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+                               QUESTÕES COMENTADAS – FGV
+
+Moda para Dados não Agrupados
+
+1. (FGV/SEFAZ-MG/2023) Considere a amostra de idades a seguir:
+25, 18, 21, 21, 22, 22, 23, 23, 25, 26, 28, 29, 31, 30, 52, 28, 55, 18, 22, 20, 27.
+Em relação a essa amostra, avalie as afirmativas a seguir.
+I. A mediana é igual a 25.
+II. A média é maior do que a mediana.
+III. A moda é menor do que a mediana.
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III
+
+
+Comentários:
+Ordenando os dados da amostra, temos:
+                     18, 18, 20, 21, 21, 22, 22, 22, 23, 23, 25, 25, 26, 27, 28, 28, 29, 30, 31, 52, 55
+Como o número de elementos é ímpar, 𝑛 = 21, a mediana será representada pelo termo central da amostra,
+que ocupa a posição 𝑛⁄2 + 1. O termo central da amostra é:
+                 18, 18, 20, 21, 21, 22, 22, 22, 23, 23,        25
+                                                                ⏟         , 25, 26, 27, 28, 28, 29, 30, 31, 52, 55
+                                                           𝑡𝑒𝑟𝑚𝑜 𝑐𝑒𝑛𝑡𝑎𝑙
+
+Logo, o item I está correto, pois a mediana é igual a 25.
+A moda é o elemento que mais se repete no conjunto. No caso, a moda será o elemento de valor igual a 22:
+                   18,
+                   ⏟ 18 , 20, 21,
+                              ⏟ 21 , ⏟
+                                     𝟐𝟐, 𝟐𝟐, 𝟐𝟐 , 23,
+                                                  ⏟ 23 , 25,
+                                                         ⏟ 25 , 26, 27, 28,
+                                                                        ⏟ 28 , 29, 30, 31, 52, 55
+                      2𝑥          2𝑥         𝟑𝒙            2𝑥        2𝑥               2𝑥
+
+Portanto, o item III está correto, pois a moda é menor que a mediana.
+Como a mediana é maior que a moda, e como a distribuição é unimodal, teremos uma distribuição
+assimétrica à direita, logo, será válida a relação:
+                                               𝑀é𝑑𝑖𝑎 ≥ 𝑀𝑒𝑑𝑖𝑎𝑛𝑎 ≥ 𝑀𝑜𝑑𝑎
+
+            Receita Federal (Analista Tributário) Estatística                                                        40
+            www.estrategiaconcursos.com.br                                                                           106
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+Logo, podemos concluir que o item II também está correto sem calcular o valor exato da média, por meio da
+aplicação da fórmula.
+Gabarito: E.
+
+
+2. (FGV/MPE GO/2022) Considere a lista de números:
+                                               2, 1, 5, 3, 5, 8, 2, 7, x, 4, 6.
+Sabe-se que essa lista tem moda única igual a 2.
+A mediana dessa lista de números é
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+e) 6.
+
+
+Comentários:
+Inicialmente, precisamos ordenar os dados do conjunto:
+                                           1; 2; 2; 3; 4; 5; 5; 6; 7; 8; 𝑥
+Notem que os números 2 e 5 se repetem, tornado o conjunto bimodal. Porém, o enunciado nos diz que o
+conjunto possui uma única moda igual a 2. Portanto, para que a moda seja apenas 2, precisamos que o valor
+de 𝑥 seja 2.
+Agora, vamos analisar a mediana, que representa o termo central da amostra. Como temos 11 termos, a
+mediana será o 6º termo do conjunto. Reordenando os dados, temos:
+                                       1; ⏟
+                                          𝟐; 𝟐; 𝟐 ; 3;       ⏟
+                                                             𝟒     ; 5; 5; 6; 7; 8
+                                            𝑚𝑜𝑑𝑎         𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+Portanto, a mediana é igual a 4.
+Gabarito: C.
+
+
+3. (FGV/CBM AM/2022) Os resultados de certo experimento estão na lista abaixo:
+                                                   𝒙 𝟔 𝟖 𝟒 𝒙 𝟏𝟒 𝟔 𝒚 𝟔
+onde 𝒙 ≠ 𝒚. O número y é a única moda, e também é a mediana da lista.
+A média da lista é 8.
+A média dos três maiores números dessa lista é
+
+         Receita Federal (Analista Tributário) Estatística                                            41
+         www.estrategiaconcursos.com.br                                                               106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+a) 10.
+b) 10,5.
+c) 11.
+d) 11,5.
+e) 12.
+
+
+Comentários:
+Analisando as informações do enunciado, temos:
+    a) 𝑥 ≠ 𝑦;
+    b) Y é a única moda;
+    c) Y é a mediana;
+    d) a média é 8.
+Observando o conjunto, percebemos que a moda definida pelo número 6 que aparece 3 vezes. Portanto,
+como Y é a única moda, ele vale 6.
+Sabemos que a mediana é o termo central da amostra. No conjunto em questão, temos um total de 9 termos,
+portanto, a mediana ocupa a quinta posição. Considerando que a mediana vale 6 e que esse valor aparece 4
+vezes no conjunto e, ainda, que temos apenas um termo menor que esse valor, podemos concluir que os
+valores de 𝑥 estão depois da mediana. Vamos representar isso:
+                                                4666           𝐲
+                                                               ⏟        8 14 𝑥 𝑥
+                                                          𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+A próxima informação é de que a média vale 8. A partir dessa informação, podemos descobrir os valores de
+𝑥:
+                                                     𝑠𝑜𝑚𝑎
+                                              𝑥̅ =        ⟹ 𝑠𝑜𝑚𝑎 = 𝑛 × 𝑥̅
+                                                       𝑛
+                                    4 + 6 + 6 + 6 + 6 + 8 + 14 + 𝑥 + 𝑥 = 9 × 8
+                                                       50 + 2𝑥 = 72
+                                                       2𝑥 = 72 − 50
+                                                          2𝑥 = 22
+                                                                   22
+                                                           𝑥=
+                                                                    2
+                                                           𝑥 = 11
+Reordenando a lista, temos:
+                                          4; 6; 6; 6;      ⏟
+                                                           𝟔;       8; 𝟏𝟏; 𝟏𝟏; 14
+                                                        𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+Agora, podemos calcular a média dos três maiores números:
+
+
+           Receita Federal (Analista Tributário) Estatística                                         42
+           www.estrategiaconcursos.com.br                                                            106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                      11 + 11 + 14
+                                               𝑥̅ =                = 12
+                                                            3
+
+
+Gabarito: E.
+
+
+4. (FGV/SEFAZ AM/2022) Uma amostra de idades de usuários de determinado serviço forneceu os
+seguintes dados:
+23; 34; 30; 22; 34; 53; 34; 28; 30; 22
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+a) 93.
+b) 94.
+c) 95.
+d) 96.
+e) 97.
+
+
+Comentários:
+Primeiro, vamos ordenar os dados do conjunto para identificarmos a mediana e a moda do conjunto:
+                                22; 22; 23; 28;          30;
+                                                         ⏟ 30           ;⏟
+                                                                         𝟑𝟒; 𝟑𝟒; 𝟑𝟒 ; 53
+                                                      𝑡𝑒𝑟𝑚𝑜𝑠 𝑐𝑒𝑛𝑡𝑟𝑎𝑖𝑠       𝑚𝑜𝑑𝑎
+
+Sabemos que a moda é o termo que mais se repete no conjunto. Assim, temos o número 34, com três
+ocorrências, é a moda do conjunto:
+                                                         𝑀𝑜 = 34
+Por sua vez, a mediana é o termo central do conjunto de dados. Como a quantidade de termos é par, a
+mediana é dada pela média entre os dois termos centrais, ou seja, a média entre os termos nas posições 5 e
+6:
+                                                      30 + 30 60
+                                              𝑀𝑑 =           =   = 30
+                                                         2     2
+Portanto, a mediana do conjunto é igual a 30.
+Por fim, a média é dada pelo quociente entre a soma de todos os elementos e o número deles. Para o
+conjunto em questão, a média é:
+                          22 + 22 + 23 + 28 + 30 + 30 + 34 + 34 + 34 + 53 310
+                   𝑋̅ =                                                  =    = 31
+                                                10                         10
+Agora, somando os valores da média, moda e mediana:
+                                           𝑋̅ + 𝑀𝑜 + 𝑀𝑑 = 31 + 34 + 30
+
+
+         Receita Federal (Analista Tributário) Estatística                                             43
+         www.estrategiaconcursos.com.br                                                                106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                   𝑋̅ + 𝑀𝑜 + 𝑀𝑑 = 95
+Gabarito: C.
+
+
+5. (FGV/IMBEL/2021) Uma lista de 2021 números inteiros positivos tem uma única moda (estatística) que
+ocorre exatamente 15 vezes. O número mínimo de inteiros distintos que ocorre nessa lista é
+a) 141.
+b) 142.
+c) 143.
+d) 144.
+e) 145.
+
+
+Comentários:
+O enunciado informa que uma lista de 2021 números inteiros positivos tem moda única, que ocorre
+exatamente 15 vezes. Significa dizer que os demais termos do conjunto podem se repetir, porém, em
+frequência menor que a moda.
+A moda é o termo de maior frequência em um conjunto de dados. Se a moda se repete 15 vezes, os demais
+termos podem se repetir até o limite de 14 vezes. A questão pede o número mínimo de inteiros distintos da
+lista, ou seja, a menor quantidade de números inteiros diferentes.
+Para chegarmos à menor quantidade de números inteiros, é necessário que tenhamos a maior quantidade
+de repetições de termos inferiores à moda. Logo, se a moda tem 15 termos, então a maior quantidade de
+repetições imediatamente inferior a moda é 14.
+Subtraindo a quantidade de termos da moda, temos:
+                                                   2021 − 15 = 2006
+Restam, portanto, um total de 2.006 termos. Agora, vamos encontrar o menor número de termos distintos.
+Para isso, vamos considerar que os demais termos se repetem o máximo possível:
+
+Então, temos 143 termos com 14 repetições cada e uma sobra de 4 termos. Portanto, na lista com 2021
+termos, teremos a seguinte distribuição:
+
+          Receita Federal (Analista Tributário) Estatística                                           44
+          www.estrategiaconcursos.com.br                                                              106
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+    a) 1 termo que aparece 15 vezes (moda);
+    b) 143 termos que aparecem 14 vezes cada;
+    c) 1 termo que aparece 4 vezes.
+
+
+A soma desses termos é:
+                          (1 × 15) + (143 × 14) + (1 × 4) = 15 + 2002 + 4 = 2021
+
+
+Assim, o número mínimo de inteiros distintos para uma lista com essas regras é:
+                                                   1 + 143 + 1 = 145
+Gabarito: E.
+                                                              ==219a34==
+
+6. (FGV/ALE-RO/2018) Sejam x, y e z, respectivamente, a média, a mediana e a moda dos sete valores 9,
+10, 6, 5, 20, 9 e 4. É correto concluir que
+a) x < y < z .
+b) x < y = z
+c) x = y < z
+d) y < z = x
+e) x = y = z
+
+
+Comentários:
+A média é calculada pela soma dos valores dividida pela quantidade de valores:
+                                             9 + 10 + 6 + 5 + 20 + 9 + 4
+                                       𝑥=                                =9
+                                                          7
+Agora, para calcular a mediana, precisamos organizar os números em ordem crescente:
+                                              4, 5, 6,                     9,
+                                                                           ⏟    9, 10, 20
+                                                         𝑡𝑒𝑟𝑚𝑜 𝑐𝑒𝑛𝑡𝑟𝑎𝑙
+
+A mediana é o termo que ocupa a posição central. Portanto,
+                                                              𝑦=9
+A moda é o termo que aparece em maior frequência. O número que aparece mais vezes é o 9, portanto:
+                                                              𝑧=9
+Assim, concluímos que:
+                                                           𝑥=𝑦=𝑧
+
+          Receita Federal (Analista Tributário) Estatística                                          45
+          www.estrategiaconcursos.com.br                                                             106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Gabarito: E.
+
+        Receita Federal (Analista Tributário) Estatística                  46
+        www.estrategiaconcursos.com.br                                     106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                            QUESTÕES COMENTADAS – FGV
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+1. (FGV/IBGE/2016) Após a extração de uma amostra, as observações obtidas são tabuladas, gerando a
+seguinte distribuição de frequências:
+
+                                         Valor              3   5    9     13
+
+                                      Frequência            5   9    10    3
+
+Considerando que E(X) = Média de X, Mo(X) = Moda de X e Me(X) = Mediana de X, é correto afirmar que:
+a) E(X) = 7 e Mo(X) = 10;
+b) Me(X) = 5 e E(X) = 6,3;
+c) Mo(X) = 9 e Me(X) = 9;
+d) Me(X) = 9 e E(X) = 6,3;
+e) Mo(X) = 9 e E(X) = 7.
+
+
+Comentários:
+A moda é, por definição, o valor que aparece em maior frequência. Portanto, o valor que tem frequência
+máxima é 𝑀𝑜 (𝑋) = 9.
+O número total de termos é 5 + 9 + 10 + 3 = 27. Como o número de termos é ímpar, a mediana é o termo
+de ordem:
+                                                    (27 + 1)
+                                                             = 14.
+                                                       2
+Organizando os termos de forma ascendente, o 14º termo é o número 5. Reparem que o número 3 aparece
+5 vezes e o número 5 aparece 9 vezes. Portanto,
+                                                      𝑀𝑑 (𝑋) = 5.
+Agora, calcularemos o valor da média. Para tanto, multiplicaremos cada termo pela sua respectiva frequência
+e dividiremos o resultado pela soma das frequências.
+                                       3 × 5 + 5 × 9 + 9 × 10 + 13 × 3 189
+                             𝐸(𝑋) =                                   =    = 7.
+                                                      27                27
+Gabarito: E.
+
+        Receita Federal (Analista Tributário) Estatística                                               47
+        www.estrategiaconcursos.com.br                                                                  106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                          QUESTÕES COMENTADAS – FGV
+
+Moda para Dados Agrupados em Classes
+
+1. (FGV/IBGE/2017) A ideia de grupar as observações de uma população ou amostra constitui uma técnica
+bem antiga de condensar as informações e assim facilitar o seu tratamento. No passado essa técnica era
+empregada com sucesso, mas com a ressalva de que os resultados não eram tão precisos quanto aqueles
+obtidos com dados não grupados.
+Considere a distribuição expressa em classes de frequências:
+
+
+                                               Classes      Frequências
+
+
+                                              10 ⊢ 20           50
+
+                                              20 ⊢ 30           28
+
+                                              30 ⊢ 40           24
+
+                                                Total           102
+
+Mesmo sem dispor dos dados de forma desagregada, sobre as estatísticas exatas, é correto afirmar que:
+a) A moda não pertence à última classe;
+b) A média é superior a 28;
+c) A mediana é menor do que 23;
+d) A média é superior a 16;
+e) A moda é inferior a 20.
+
+
+Comentários:
+Vamos verificar todas as alternativas.
+Alternativa A: Errada. A tabela não nos mostra como os valores estão distribuídos nas classes, portanto, não
+podemos afirmar em que classe está a moda.
+Alternativa B: Errada. Podemos calcular a média com o pior cenário possível para julgar a alternativa.
+Supondo que todas as classes assumem os valores mínimos, a média fica:
+                                     10 × 50 + 20 × 28 + 30 × 24 1780
+                              𝑥̅ =                              =     ≅ 17,45
+                                                 102              102
+
+        Receita Federal (Analista Tributário) Estatística                                                48
+        www.estrategiaconcursos.com.br                                                                   106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Alternativa C: Errada. A tabela não nos mostra como os valores estão distribuídos nas classes, portanto, não
+podemos calcular qual o valor exato da mediana.
+Alternativa D: Correta. Verificamos na alternativa B que, assumindo o pior cenário, a média é sim superior a
+16.
+Alternativa E: Errada. A tabela não nos mostra como os valores estão distribuídos nas classes, portanto, não
+podemos afirmar em que classe está a moda ou qual seu valor exato.
+Gabarito: D.
+
+
+2. (FGV/MPE-BA/2017) A distribuição de frequências do número de apreensões de valores (em milhões
+R$) realizadas pela Polícia Federal, em determinado período, é conforme a seguir:
+                                                            ==219a34==
+
+                                             Intervalos
+                                                                         Frequências
+                                             de Classe
+
+                                               0 ⊢ 10                        47
+
+                                              10 ⊢ 20                        29
+
+                                              20 ⊢ 30                        13
+
+                                              30 ⊢ 40                        7
+
+                                              40 ⊢ 50                        3
+
+                                           Acima de 50                       1
+
+Assim sendo, é correto afirmar que:
+a) O último Decil está na penúltima classe;
+b) A mediana da distribuição está na 2ª classe;
+c) A média da distribuição está na 3ª classe;
+d) A moda exata da distribuição está na 1ª classe;
+e) A distribuição é assimétrica à esquerda.
+
+
+Comentários:
+Se somarmos todas as frequências teremos o total de dados da amostra, teremos:
+                                         47 + 29 + 13 + 7 + 3 + 1 = 100
+
+        Receita Federal (Analista Tributário) Estatística                                                49
+        www.estrategiaconcursos.com.br                                                                   106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Dividindo esse resultado em duas partes iguais, encontramos a posição da mediana:
+                                                          100
+                                                              = 50
+                                                           2
+Então, sabemos que a mediana está na posição 50. Calculando as frequências acumuladas, percebemos que
+a frequência 50 corresponde à 2ª classe.
+Gabarito: B.
+
+
+3. (FGV/DPE RJ/2014) Em um estudo realizado pela Defensoria Pública do Rio de Janeiro, com a finalidade
+de identificar o padrão de renda dos cidadãos assistidos, encontrou-se a seguinte distribuição de
+frequências para o período de 2009 a 2012:
+
+                                               Intervalos
+                                                              Frequências
+                                               de Classe
+
+                                                 5 ⊢ 15              5
+
+                                                15 ⊢ 25              8
+
+                                                25 ⊢ 35              9
+
+                                                35 ⊢ 45              3
+
+                                                  Total              25
+
+Nos intervalos de classe, as rendas estão expressas em reais por dia e as frequências em centenas de
+milhares de cidadãos. Adotando a hipótese de observações concentradas nos pontos médios das classes,
+a média, a mediana e a moda são, respectivamente, iguais a
+a) 24, 20 e 30.
+b) 25, 25 e 27.
+c) 26, 24 e 32.
+d) 25, 25 e 30.
+e) 26, 19 e 27
+
+
+Comentários:
+A questão pede a adoção de observações concentradas em pontos médios. Então, vamos montar uma tabela
+para os pontos médios e frequências:
+
+         Receita Federal (Analista Tributário) Estatística                                          50
+         www.estrategiaconcursos.com.br                                                             106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                   Intervalos     Ponto médio Frequência
+                                                         Freq. acumulada        𝑷𝑴𝒊 × 𝒇𝒊
+                    de Classe        (𝑷𝑴𝒊 )      (𝒇𝒊 )
+
+                     5 ⊢ 15              10            500.000       500.000    5.000.000
+
+                    15 ⊢ 25              20            800.000      1.300.000   16.000.000
+
+                    25 ⊢ 35              30            900.000      2.200.000   27.000.000
+
+                    35 ⊢ 45              40            300.000      2.500.000   12.000.000
+
+                              Totais                2.500.000                   60.000.000
+
+A moda é o valor que mais se repete na amostra, ou seja, o valor de maior frequência. No caso:
+                                                        𝑀𝑜 = 30
+A mediana é o valor que ocupa a posição central da amostra. Temos que o total das frequências acumuladas
+é 2.500.000, logo, o termo central está na posição 1.250.000. Então, a mediana está na segunda classe e vale
+20:
+                                                        𝑀𝑑 = 20
+Para calcular a média, multiplicamos cada valor por sua respectiva frequência. Desta forma, determinamos
+o somatório das observações. Em seguida, dividimos pelo número de dados. Já temos essa informação na
+tabela, agora dividimos os totais:
+                                                       60.000.000
+                                                𝑥̅ =              = 24
+                                                       2.500.000
+Gabarito: A.
+
+        Receita Federal (Analista Tributário) Estatística                                                51
+        www.estrategiaconcursos.com.br                                                                   106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                       AVISO IMPORTANTE!
+
+Olá, alunos (as)!
+
+Informamos que não temos mais questões da banca, referente ao assunto tratado na aula de hoje, em
+virtude de baixa cobrança deste tópico ao longo dos anos. No entanto, para complementar o estudo e deixar
+sua preparação em alto nível, preparamos um caderno de questões inéditas que servirá como treino e
+aprimoramento do conteúdo.
+
+Em caso de dúvidas, não deixe de nos chamar no Fórum de dúvidas!
+
+Bons estudos!
+
+Estratégia Concursos
+
+        Receita Federal (Analista Tributário) Estatística                                             52
+        www.estrategiaconcursos.com.br                                                                106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                   QUESTÕES COMENTADAS – INÉDITAS
+
+Moda para Dados não Agrupados
+
+1. (INÉDITA/2022) Considere o seguinte conjunto de números reais: 𝟐, 𝟕, 𝟏𝟏, 𝒚, 𝟖. Sabe-se que o conjunto
+é unimodal e que a média é igual à moda. O valor de x é:
+a) 8
+b) 2
+c) 7
+d) 6
+e) 11
+
+
+Comentários:
+Como o conjunto é unimodal, o valor de y deverá assumir um dos quatro valores existentes no conjunto.
+Assim, temos que:
+                                               2 + 7 + 11 + 𝑦 + 8 28 + 𝑦
+                                        𝑥̅ =                     =
+                                                        5           5
+
+Ora, se a média é igual a moda, precisamos verificar os quatro possíveis valores de Y:
+
+Para Y=2:
+
+                                               2 + 7 + 11 + 𝟐 + 8 30
+                                       𝑥̅ =                      =   =6
+                                                        5          5
+
+Não temos o valor 6 no conjunto, portanto, Y não pode ser 2.
+
+Para Y=7:
+
+                                               2 + 7 + 11 + 𝟕 + 8 35
+                                       𝑥̅ =                      =   =7
+                                                        5          5
+
+Temos o valor 7 no conjunto, logo, Y pode assumir o valor 7.
+
+Para Y=11:
+
+                                             2 + 7 + 11 + 𝟏𝟏 + 8 39
+                                      𝑥̅ =                      =   = 7,8
+                                                      5           5
+
+        Receita Federal (Analista Tributário) Estatística                                            53
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Não temos o valor 7,8 no conjunto, portanto, Y não pode ser 11.
+
+Para Y=8:
+
+                                                2 + 7 + 11 + 𝟖 + 8 36
+                                         𝑥̅ =                     =   = 7,2
+                                                         5          5
+
+Não temos o valor 7,2 no conjunto, portanto, Y não pode ser 8.
+
+Logo, Y só poderá assumir o valor 7 para que a média seja igual a moda. Vejamos:
+
+                                                           28 + 7 35
+                                                    𝑥̅ =         =   =7
+                                                             5     5
+
+Assim, o conjunto fica:
+                                                               ==219a34==
+
+                                                           2,7,11,7,8
+Gabarito: C.
+
+
+2. (INÉDITA/2022) A tabela abaixo mostra os valores em reais vendidos por cinquenta funcionários de uma
+empresa:
+
+                                        funcionários           Produtos vendidos em R$
+
+                                              20                            1.200
+
+                                              10                            5.000
+
+                                                5                           3.000
+
+                                              15                            1.000
+
+A moda dos valores vendidos em produtos é:
+a) 5.000
+b) 3.000
+c) 1.200
+d) 1.000
+e) 3.500
+
+
+Comentários:
+
+           Receita Federal (Analista Tributário) Estatística                                        54
+           www.estrategiaconcursos.com.br                                                           106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+A moda é o valor que mais se repete na amostra, isto é, é o valor de maior frequência. Na tabela apresentada,
+temos que 20 funcionários venderam 1.200 reais, logo, o valor que mais se repetiu nas vendas foi R$
+1.200,00.
+Assim, a moda dos valores vendidos em produtos é de R$ 1200.
+Gabarito: C.
+
+
+3. (INÉDITA/2022) Em uma competição de ginástica cinco equipes fizeram 80 pontos, três equipes fizeram
+78 pontos e 1 equipe fez 90 pontos. A moda dos pontos alcançados nessa competição foi:
+a) 80
+b) 5
+c) 90
+d) 78
+e) 3
+
+
+Comentários:
+A moda é o valor que mais se repete na amostra, isto é, o valor de maior frequência. Segundo o enunciado,
+cinco equipes fizeram 80 pontos, logo, a pontuação que mais apareceu na competição foi 80. Dessa forma,
+a moda é 80.
+Gabarito: A.
+
+
+4. (INÉDITA/2022) Um time de basquete tem 12 jogadores com alturas 1,87; 1,92; 1,95; 2,10; 1,95; 1,92;
+1,86; 1,95; 2,08; 1,95; 1,98; 1,84. A moda das alturas desses jogadores é:
+a) 2,10
+b) 1,95
+c) 1,92
+d) 1,87
+e) 1,98
+
+
+Comentários:
+A moda é o termo que mais se repete na amostra. A altura que mais se repete dentre os jogadores é 1,95,
+sendo este o valor que representa a moda.
+Gabarito: B.
+
+          Receita Federal (Analista Tributário) Estatística                                               55
+          www.estrategiaconcursos.com.br                                                                 106
+
+                                        
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+5. (INÉDITA/2022) Considere a lista de números:
+                                               5, 4, 8, 6, 8, 11, 5, 10, x, 7, 9.
+Sabendo que a moda dessa lista é igual a 5, o valor da mediana dessa lista de números é
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+
+Comentários:
+Inicialmente, precisamos ordenar os dados do conjunto:
+                                           4; 5; 5; 6; 7; 8; 8; 9; 10; 11; 𝑥
+Notem que os números 5 e 8 se repetem, tornado o conjunto bimodal. Porém, o enunciado nos diz que o
+conjunto possui uma única moda igual a 5. Portanto, para que a moda seja apenas 5, precisamos que o valor
+de 𝑥 seja 5.
+Agora, vamos analisar a mediana, que representa o termo central da amostra. Como temos 11 termos, a
+mediana será o 6º termo do conjunto. Reordenando os dados, temos:
+                                       4; ⏟
+                                          𝟓; 𝟓; 𝟓 ; 8;         ⏟
+                                                               𝟕    ; 8; 8; 9; 10; 11
+                                            𝑚𝑜𝑑𝑎          𝑚𝑒𝑑𝑖𝑎𝑛𝑎
+
+Portanto, a mediana é igual a 7.
+Gabarito: C.
+
+
+6. (INÉDITA/2022) Uma amostra de um experimento forneceu os seguintes dados:
+                                                   2; 5; 4; 1; 5; 6; 5; 3; 4; 1
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+a) 11,6.
+b) 12,1.
+c) 12,6
+d) 13,1
+e) 13,6
+
+           Receita Federal (Analista Tributário) Estatística                                          56
+           www.estrategiaconcursos.com.br                                                             106
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+Comentários:
+Primeiro, vamos ordenar os dados do conjunto para identificarmos a mediana e a moda do conjunto:
+                                       1; 1; 2; 3;            4;
+                                                              ⏟  4     ;⏟
+                                                                        𝟓; 𝟓; 𝟓 ; 6
+                                                     𝑡𝑒𝑟𝑚𝑜𝑠 𝑐𝑒𝑛𝑡𝑟𝑎𝑖𝑠     𝑚𝑜𝑑𝑎
+
+Sabemos que a moda é o termo que mais se repete no conjunto. Assim, temos o número 5, com três
+ocorrências, é a moda do conjunto:
+                                                          𝑀𝑜 = 5
+Por sua vez, a mediana é o termo central do conjunto de dados. Como a quantidade de termos é par, a
+mediana é dada pela média entre os dois termos centrais, ou seja, a média entre os termos nas posições 5 e
+6:
+                                                         4+4 8
+                                                  𝑀𝑑 =      = =4
+                                                          2  2
+Portanto, a mediana do conjunto é igual a 30.
+Por fim, a média é dada pelo quociente entre a soma de todos os elementos e o número deles. Para o
+conjunto em questão, a média é:
+                                   1 + 1 + 2 + 3 + 4 + 4 + 5 + 5 + 5 + 6 36
+                            𝑋̅ =                                        =    = 3,6
+                                                    10                    10
+Agora, somando os valores da média, moda e mediana:
+                                             𝑋̅ + 𝑀𝑜 + 𝑀𝑑 = 3,6 + 5 + 4
+                                                 𝑋̅ + 𝑀𝑜 + 𝑀𝑑 = 12,6
+Gabarito: C.
+
+
+7. (INÉDITA/2022) Sejam x, y e z, respectivamente, a média, a mediana e a moda dos sete valores 8, 7, 6,
+9, 13, 8 e 5. É correto concluir que
+a) x < y = z
+b) x < y < z .
+c) x = y < z
+d) x = y = z
+e) y < z = x
+
+
+Comentários:
+A média é calculada pela soma dos valores dividida pela quantidade de valores:
+                                             8 + 7 + 6 + 9 + 13 + 8 + 5
+                                        𝑥=                              =8
+                                                         7
+
+
+          Receita Federal (Analista Tributário) Estatística                                            57
+          www.estrategiaconcursos.com.br                                                               106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Agora, para calcular a mediana, precisamos organizar os números em ordem crescente:
+                                             5, 6, 7,        8,
+                                                             ⏟          8, 9, 13
+                                                        𝑡𝑒𝑟𝑚𝑜 𝑐𝑒𝑛𝑡𝑟𝑎𝑙
+
+A mediana é o termo que ocupa a posição central. Portanto,
+                                                            𝑦=8
+A moda é o termo que aparece em maior frequência. O número que aparece mais vezes é o 8, portanto:
+                                                            𝑧=8
+Assim, concluímos que:
+                                                         𝑥=𝑦=𝑧
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                                            58
+        www.estrategiaconcursos.com.br                                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                   QUESTÕES COMENTADAS – INÉDITAS
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+1. (INÉDITA/2022) Levando em consideração a seguinte distribuição de frequências:
+
+                                         Valor          1         3    5   7
+
+                                     Frequência             4     8    5   3
+
+Considerando que E(X) = Média de X, Mo(X) = Moda de X e Me(X) = Mediana de X, é correto
+afirmar que:
+a) Me(X) = 5 e E(X) = 3,7;
+b) Me(X) = 3 e E(X) = 3,7;
+c) E(X) = 3,7 e Mo(X) = 5;
+d) Mo(X) = 3 e E(X) = 5.
+e) Mo(X) = 3 e Me(X) = 5;
+
+
+Comentários:
+A moda é, por definição, o valor que aparece em maior frequência. Portanto, o valor que tem frequência
+máxima é 𝑀𝑜 (𝑋) = 3.
+O número total de termos é 4 + 8 + 5 + 3 = 20. Como o número de termos é par, a mediana será a média
+aritmética dos termos centrais. Organizando os termos de forma ascendente, os termos centrais ocupam
+a 10ª e a 11ª posições, as quais são representados pelo valor 3. Portanto,
+                                                                3+3
+                                                 𝑀𝑑 (𝑋) =           = 3.
+                                                                 2
+Agora, calcularemos o valor da média. Para tanto, multiplicaremos cada termo pela sua respectiva
+frequência e dividiremos o resultado pela soma das frequências.
+                                        4 × 1 + 8 × 3 + 5 × 5 + 3 × 7 74
+                              𝐸(𝑋) =                                 =    = 3,7.
+                                                     20                20
+Gabarito: B.
+
+
+2. (INÉDITA/2022) Os números de processos analisados pelos analistas de um órgão público,
+durante 10 meses, foram registrados mensalmente conforme a tabela abaixo.
+
+        Receita Federal (Analista Tributário) Estatística                                          59
+        www.estrategiaconcursos.com.br                                                             106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+            Mês                 I       II      III        IV       V         VI   VII   VIII   IX   X   Total
+
+ Número                de
+                                8       6        4          7        8        6    6      8     8    5    66
+ processos
+
+Nesse período, o valor da soma da média aritmética (número de processos) com a mediana é
+aproximadamente igual ao valor da moda multiplicado por
+a) 1,74
+b) 1,64
+c) 1,54
+d) 1,44
+e) 1,84
+
+
+Comentários:
+Primeiro, organizaremos os dados, agrupando-os por valor:
+
+                                                 Valor             Frequência
+
+                                                      4                  1
+
+                                                      5                  1
+
+                                                      6                  3
+
+                                                      7                  1
+
+                                                      8                  4
+
+                                                  Total                  10
+
+A maior frequência é 4, correspondente ao valor 8. Logo, a moda vale 8.
+                                                              𝑀𝑜 = 8
+
+
+A média é dada pelo total de observações (66) dividido por 10, já que são dez meses.
+                                                                 66
+                                                          𝑥̅ =      = 6,6
+                                                                 10
+
+
+Para a mediana, vamos calcular as frequências acumuladas:
+
+
+          Receita Federal (Analista Tributário) Estatística                                                    60
+          www.estrategiaconcursos.com.br                                                                       106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                                      Frequência
+                                  Valor       Frequência
+                                                                      acumulada
+
+                                     4               1                   =1
+
+                                     5               1                  =1+1=2
+
+                                     6               3                  =2+3=5
+
+                                     7               1                  =5+1=6
+
+                                     8               4                 =6+4=10
+
+Quando temos dados agrupados por valor, a mediana pode corresponder:
+   •    ao termo central, caso a quantidade de elementos na amostra seja ímpar;
+   •    à média dos dois termos centrais, caso a quantidade de elementos na amostra seja par.
+No nosso caso, são 10 termos (número par). Os dois termos centrais são o 5º e o 6º elementos, que
+valem, respectivamente, 5 e 6. Assim, a mediana fica:
+                                                            6+7
+                                                  𝑀𝑑 =          = 6,5
+                                                             2
+A soma da média com a mediana é:
+                                                   6,6 + 6,5 = 13,1
+
+
+Dividindo este valor pela moda, temos:
+                                                   13,1 ÷ 8 = 1,64
+Gabarito: B.
+
+
+3. (INÉDITA/2022) Em uma corrida automobilística, os 20 pilotos fizeram uma volta nos tempos
+(em segundos): 72; 76; 80; 68; e 78. A tabela abaixo mostra a distribuição:
+
+                                Tempo (s)                   72   76      80      68    78
+
+                              Nº de pilotos                 3    6         4       5   2
+
+Com base na distribuição, a moda do tempo feito por piloto é igual a
+a) 80
+b) 78
+c) 72
+
+
+        Receita Federal (Analista Tributário) Estatística                                       61
+        www.estrategiaconcursos.com.br                                                          106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+d) 68
+e) 76
+
+
+Comentários:
+A moda é o termo de maior frequência da amostra. Assim, na presente distribuição, o tempo no qual
+aparecem o maior número de pilotos (6) é de 76 segundos:
+                                                        𝑀𝑜 = 76
+Gabarito: E.
+
+
+4. (INÉDITA/2022) Em uma fábrica de calçados foram produzidos 400 sapatos com 5 pontuações
+diferentes, conforme a tabela abaixo:
+
+                                     Pontuações             Quantidade de sapatos
+
+                                           34                        80
+
+                                           35                        92
+
+                                           36                       100
+
+                                           37                        88
+
+                                           38                        40
+
+                                         Total                      400
+
+Podemos afirmar que a moda da distribuição é:
+a) 37
+b) 38
+c) 36
+d) 35
+e) 34
+
+
+Comentários:
+A moda é o valor que mais se repete na amostra. A maior quantidade de sapatos produzidos foi a de
+pontuação 36, portanto, esta tem a maior frequência. Logo, a moda é a pontuação 36.
+Gabarito: C.
+
+
+        Receita Federal (Analista Tributário) Estatística                                     62
+        www.estrategiaconcursos.com.br                                                        106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+5. (INÉDITA/2022) Uma sala de aula de um curso de inglês com 40 alunos tem a seguinte
+distribuição de idades conforme tabela a seguir:
+
+                                               Idades                    Nº de alunos
+
+                                                  20                          8
+
+                                                  26                          9
+
+                                                  28                          Y
+
+                                                  34                          5
+                                                            ==219a34==
+
+                                                  42                          6
+
+                                                Total                        40
+
+A moda de idades dos alunos da turma é igual a:
+a) 26
+b) 20
+c) 42
+d) 28
+e) 34
+
+
+Comentários:
+Sabemos que o total de alunos é 40, então:
+                                               8 + 9 + 𝑌 + 5 + 6 = 40
+                                                       28 + 𝑌 = 40
+                                                       𝑌 = 40 − 28
+                                                            𝑌 = 12
+Agora que já conhecemos o valor de Y, podemos determinar a moda. A distribuição fica:
+
+                                               Idades                    Nº de alunos
+
+                                                  20                          8
+
+                                                  26                          9
+
+        Receita Federal (Analista Tributário) Estatística                               63
+        www.estrategiaconcursos.com.br                                                  106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                   28               12
+
+                                                   34                5
+
+                                                   42                6
+
+                                                 Total              40
+
+A moda é o termo de maior frequência na amostra, portanto, é igual a 28.
+Gabarito: D.
+
+
+6. (INÉDITA/2022) Em determinado condomínio, a conta de água foi rateada conforme o
+consumo de cada apartamento. A tabela a seguir mostra a distribuição de consumo por grupos:
+
+                                       Consumo
+                                                    Nº de apartamentos
+                                      mensal em (L)
+
+                                             500                    20
+
+                                             750                    27
+
+                                             480                    13
+
+                                             525                    18
+
+                                             667                    22
+
+                                            Total                  100
+
+A moda do consumo de água desse condomínio é de:
+a) 480
+b) 500
+c) 525
+d) 667
+e) 750
+
+
+Comentários:
+A moda é o termo de maior frequência na amostra. Na tabela, 27 apartamentos consumiram um total de
+750 litros de água, sendo este o maior número. Portanto, a moda é igual a 750 litros.
+
+
+         Receita Federal (Analista Tributário) Estatística                                     64
+         www.estrategiaconcursos.com.br                                                        106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Gabarito: E.
+
+
+7. (INÉDITA/2022) Em uma competição de salto à distância os atletas foram agrupados de
+acordo com as distâncias alcançadas conforme a tabela abaixo:
+
+                                        Distância em (m)       Nº de Atletas
+
+                                                1,87                  5
+
+                                                1,92                 30
+
+                                                2,10                 50
+
+                                                2,16                 13
+
+                                                2,22                 22
+
+                                                Total               120
+
+A moda das distâncias saltadas é igual a:
+a) 2,22m
+b) 2,10m
+c) 2,16m
+d) 1,87m
+e) 1,92m
+
+
+Comentários:
+A moda é o termo que mais se repete na amostra, isto é, o valor de maior frequência. Na tabela, 50 atletas
+alcançaram a marca de 2,10m, logo, a moda da amostra é 2,10m.
+Gabarito: B.
+
+        Receita Federal (Analista Tributário) Estatística                                              65
+        www.estrategiaconcursos.com.br                                                                 106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                      QUESTÕES COMENTADAS – INÉDITAS
+Moda para Dados Agrupados em Classes
+1. (INÉDITA/2022) Uma empresa decidiu oferecer um curso de reciclagem para seus funcionários,
+ao todo foram 120 inscritos. A tabela a seguir mostra as faixas etárias de cada grupo:
+
+                                      Faixa etária (                nº de
+                                              𝑋𝑖)             funcionários
+
+
+                                           20⊢30                        30
+
+                                           30⊢40                        40
+
+                                           40⊢50                        30
+
+                                           50⊢60                        20
+
+                                            Total                       120
+
+Considerando a distribuição acima, assinale a alternativa que apresenta o valor da moda bruta:
+a) 40
+b) 35
+c) 30
+d) 45
+e) 50
+
+
+Comentários:
+Observando a tabela, percebemos que todas as classes possuem a mesma amplitude.
+Percebemos também que a classe modal é a segunda classe com maior frequência:
+30⊢40 (𝑓𝑟𝑒𝑞𝑢𝑒𝑛𝑐𝑖𝑎 40).
+Para o cálculo da moda bruta, temos que:
+                                                            𝑙𝑖𝑛𝑓+𝑙𝑠𝑢𝑝
+                                                     𝑀𝑂 =      2
+
+em que:
+𝑙𝑖𝑛𝑓 = 30 é o limite inferior da classe modal; e
+
+        Receita Federal (Analista Tributário) Estatística                                        66
+        www.estrategiaconcursos.com.br                                                       106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+𝑙𝑠𝑢𝑝 = 40 é o limite superior da classe modal.
+
+Então:
+                                                        30+40       70
+                                               𝑀𝑂 =       2
+                                                                =    2
+                                                                         = 35
+
+Logo, a moda bruta da distribuição é 35.
+Gabarito: B.
+
+
+2. (INÉDITA/2022) Um grupo de 20 amigos resolveu praticar atividade física. Como primeiro
+desafio, escolheram uma caminhada de até 8 quilômetros. A tabela a seguir mostra a distância
+percorrida em km por participante:
+
+                                             Distância
+                                                                         nº de
+                                            percorrida
+                                                                    pessoas
+                                            em Km (𝑋𝑖)
+
+
+                                                2⊢3, 5                    4
+
+                                                3, 5⊢5                    5
+
+                                                5⊢6, 5                    7
+
+                                                6, 5⊢8                    4
+
+                                                Total                     20
+
+Conforme a tabela, a moda da distribuição, pelo método de Czuber, é igual a:
+a) 5,4
+b) 6
+c) 5,6
+d) 6,5
+e) 7
+
+
+Comentários:
+A classe modal é a classe com maior frequência absoluta. Portanto, é a terceira classe, com
+frequência 7.
+
+         Receita Federal (Analista Tributário) Estatística                                67
+         www.estrategiaconcursos.com.br                                                  106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+A moda de Czuber é dada por:
+                                                                   (𝑓 −𝑓𝑎𝑛𝑡)
+                                           𝑀𝑜 = 𝑙𝑖 + ℎ × 2𝑓 −𝑚𝑜𝑓
+                                                                  𝑚𝑜 ( 𝑎𝑛𝑡
+                                                                          +𝑓𝑝𝑜𝑠𝑡)
+
+Em que:
+   ● 𝑙𝑖 = 𝑙𝑖𝑚𝑖𝑡𝑒 𝑖𝑛𝑓𝑒𝑟𝑖𝑜𝑟 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙;
+
+   ● ℎ = 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙 ;
+   ● 𝑓𝑚𝑜 = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙;
+
+   ● 𝑓𝑎𝑛𝑡 = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑎𝑛𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙;
+
+   ● 𝑓𝑝𝑜𝑠𝑡 = 𝑓𝑟𝑒𝑞𝑢ê𝑛𝑐𝑖𝑎 𝑑𝑎 𝑐𝑙𝑎𝑠𝑠𝑒 𝑝𝑜𝑠𝑡𝑒𝑟𝑖𝑜𝑟 à 𝑐𝑙𝑎𝑠𝑠𝑒 𝑚𝑜𝑑𝑎𝑙.
+
+Aplicando a fórmula, temos:
+                                            𝐶𝑧𝑢𝑏𝑒𝑟                        (7−5)
+                                          𝑀𝑜         = 5 + 1, 5× 2×7−(5+4)
+
+                                               𝐶𝑧𝑢𝑏𝑒𝑟                      2
+                                             𝑀𝑜         = 5 + 1, 5× 14−9
+
+                                                  𝐶𝑧𝑢𝑏𝑒𝑟                   2
+                                               𝑀𝑜           = 5 + 1, 5× 5
+
+                                                  𝐶𝑧𝑢𝑏𝑒𝑟
+                                               𝑀𝑜          = 5 + 1, 5×0, 4
+
+                                                     𝐶𝑧𝑢𝑏𝑒𝑟
+                                                  𝑀𝑜          = 5 + 0, 6
+
+                                                        𝐶𝑧𝑢𝑏𝑒𝑟
+                                                     𝑀𝑜          = 5, 6
+
+Gabarito: C.
+
+
+3. (INÉDITA/2022) Conforme distribuição dos salários em R$1.000,00 dos funcionários de uma
+empresa de transportes, obteve-se a tabela de distribuição de frequências absolutas, sendo Y
+um número inteiro positivo.
+
+                                                                     Nº de
+                                       Salários (𝑋𝑖)
+                                                                 funcionários
+
+                                          2 < 𝑥≤4                         40
+
+                                          4 < 𝑥≤6                         3Y
+
+        Receita Federal (Analista Tributário) Estatística                                 68
+        www.estrategiaconcursos.com.br                                                   106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                             6 < 𝑥≤8                      2Y
+
+                                            8 < 𝑥≤10                      10
+
+                                               Total                      100
+
+
+Sabe-se que a média aritmética (𝑥) foi obtida com base nos pontos médios de cada intervalo,
+que a mediana (𝑀𝑑) foi calculada utilizando a fórmula para o cálculo da mediana e que moda (𝑀𝑜
+) foi obtida pelo método de Pearson: 𝑀𝑜 = 3×𝑀𝑑 − 2×𝑥. Assim, o valor em R$ 1.000,00 obtido
+da moda foi igual a
+a) R$ 4.750,00
+b) R$ 3.500,00
+c) R$ 4.260,00
+d) R$ 3.980,00
+e) R$ 4.000,00
+
+
+Comentários:
+Primeiro, vamos encontrar o valor de 𝑌 a partir dos quantitativos informados na tabela:
+                                              40 + 3𝑌 + 2𝑌 + 10 = 100
+                                                       50 + 5𝑌 = 100
+                                                       5𝑌 = 100 − 50
+                                                                     50
+                                                           𝑌=        5
+
+                                                           𝑌 = 10
+Agora, vamos reescrever a tabela apresentada no enunciado e acrescentar os pontos médios e as
+frequências acumuladas.
+
+ Salários (𝑋𝑖         Pontos médios (            Nº de funcionários (           Frequência acumulada (
+                                                                                                         𝑃𝑀𝑖 × 𝑓𝑖
+       )                      𝑃𝑀𝑖)                             𝑓𝑖)                       𝑓𝑎𝑐)
+
+
+  2 < 𝑥≤4                       3                              40                        40                120
+
+  4 < 𝑥≤6                       5                              30                        70                150
+
+  6 < 𝑥≤8                       7                              20                        90                140
+
+           Receita Federal (Analista Tributário) Estatística                                                     69
+           www.estrategiaconcursos.com.br                                                                        106
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+  8 < 𝑥≤10                   9                              10                       100   90
+
+    Total                                                   100                            500
+
+Calculando a média:
+                                                             500
+                                                     𝑥 = 100 = 5
+
+A mediana se encontra na posição:
+
+                                                   ∑𝑓𝑖
+                                                             100
+                                                    2
+                                                         =    2
+                                                                       = 50
+
+A classe mediana corresponde ao primeiro intervalo, cuja frequência acumulada ultrapassa a
+posição de número 50. Logo, a classe mediana está no intervalo que vai de 4 a 6. Portanto, os
+seguintes dados serão empregados na fórmula do valor mediano:
+   ● limite inferior da classe é 𝑙𝑖𝑛𝑓 = 4;
+
+   ● frequência acumulada da classe anterior é 𝑓𝑎𝑐                           = 40;
+                                                                       𝑎𝑛𝑡
+
+
+   ● frequência da própria classe é 𝑓𝑖 = 30;
+
+   ● amplitude da classe é ℎ = 6 − 4 = 2.
+
+
+Para encontrar a mediana, utilizaremos a fórmula:
+
+                                                       ⎡ ⎛ ∑𝑓 ⎞    ⎤
+                                                                   𝑖
+
+                                                       ⎢ 2 −𝑓𝑎𝑐𝑎𝑛𝑡 ⎥
+                                                       ⎢           ⎥
+                                           𝑀𝑑 = 𝑙𝑖𝑛𝑓 + ⎢ ⎝ ⎠𝑓      ⎥× ℎ
+                                                       ⎢        𝑖
+                                                                   ⎥
+                                                       ⎢           ⎥
+                                                       ⎣           ⎦
+                                                          ( )−40
+                                              𝑀𝑑 = 4 + ⎡⎢ 2 30 ⎤⎥×2
+                                                                   100
+
+                                                        ⎣        ⎦
+                                                                   50−40
+                                                𝑀𝑑 = 4 + ⎡               ⎤×2
+                                                         ⎣           30 ⎦
+
+                                                                       10
+                                                  𝑀𝑑 = 4 + ⎡ 30 ⎤×2
+                                                           ⎣ ⎦
+                                                 𝑀𝑑 = 4 + 0, 33×2
+
+                                                   𝑀𝑑 = 4 + 0, 66
+
+
+        Receita Federal (Analista Tributário) Estatística                                        70
+        www.estrategiaconcursos.com.br                                                           106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                         𝑀𝑑 = 4, 66
+
+Calculando a moda, temos:
+                                                 𝑀𝑜 = 3×𝑀𝑑 − 2×𝑀𝑒
+
+                                                 𝑀𝑜 = 3×4, 66 − 2×5
+
+                                                    𝑀𝑜 = 13, 98 − 10
+
+                                                         𝑀𝑜 = 3, 98
+
+                                                        𝑀𝑜 = 3. 980
+
+Gabarito: D.
+
+
+4. (INÉDITA/2022) A tabela abaixo demonstra a distribuição de frequências do número de filhos
+por família dos moradores de um condomínio:
+
+                                             quantidade               nº de
+                                               de filhos         famílias
+
+                                                  0⊢2                  10
+
+                                                  2⊢4                  30
+
+                                                  4⊢6                  8
+
+                                                  6⊢8                  2
+
+                                                 Total                 50
+
+Pelo método de King, a moda da distribuição é igual a
+a) 3
+b) 4,5
+c) 2,5
+d) 2,88
+e) 3,88
+
+
+Comentários:
+
+          Receita Federal (Analista Tributário) Estatística                                71
+          www.estrategiaconcursos.com.br                                                  106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+A classe modal é obtida com base na maior frequência simples. Observando a tabela,
+percebemos que a classe de maior frequência é a segunda classe, de 2 a 4, com 30 famílias.
+A moda pelo método de King é dada por:
+                                                               𝑓𝑝𝑜𝑠𝑡
+                                              𝑀𝑜 = 𝑙𝑖𝑛𝑓 + ⎡⎢ 𝑓 +𝑓     ⎤× ℎ
+                                                                      ⎥
+                                                           ⎣ 𝑎𝑛𝑡 𝑝𝑜𝑠𝑡 ⎦
+Em que:
+   ● 𝑙𝑖𝑛𝑓 = 2: limite inferior da classe modal;
+
+   ● ℎ = 2: amplitude da classe modal;
+   ● 𝑓𝑎𝑛𝑡 = 10: frequência da classe anterior à classe modal;
+
+   ● 𝑓𝑝𝑜𝑠𝑡 = 8: frequência da classe posterior à classe modal.
+                                                             ==219a34==
+
+Então:
+                                                                          8
+                                                 𝑀𝑜 = 2 + ⎡ 10+8 ⎤×2
+                                                          ⎣      ⎦
+                                                                          8
+                                                   𝑀𝑜 = 2 + ⎡ 18 ⎤×2
+                                                            ⎣ ⎦
+                                                  𝑀𝑜 = 2 + 0, 44×2
+
+                                                    𝑀𝑜 = 2 + 0, 88
+
+                                                       𝑀𝑜 = 2, 88
+
+Gabarito: D.
+
+
+5. (INÉDITA/2022) Um time de vôlei decidiu fazer um teste para recrutar jogadores. Os
+candidatos foram divididos em grupos de acordo com a altura. A tabela de frequências a seguir
+demonstra a distribuição:
+
+                                                                              Nº de
+                                          Altura (cm)
+                                                                          candidatos
+
+                                            170⊢178                            6
+
+                                            178⊢185                            8
+
+                                            185⊢190                            10
+
+         Receita Federal (Analista Tributário) Estatística                                 72
+         www.estrategiaconcursos.com.br                                                   106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                           190⊢192                     9
+
+                                           192⊢197                    17
+
+                                             Total                    50
+
+Com base na distribuição apresentada, a moda pelo método de King é:
+a) 191,26 cm
+b) 194 cm
+c) 195,5 cm
+d) 197 cm
+e) 187,5 cm
+
+
+Comentários:
+Observe que as classes da distribuição possuem amplitudes (ℎ) diferentes, assim precisaremos
+incialmente calcular a densidade de frequência (𝑑) de cada classe:
+
+                                               Frequência (𝑓
+                           Altura(cm)                                   (ℎ)
+                                                                                             𝑓
+                                                                                     𝑑= ℎ
+                                                        )
+
+                                                        6                  8
+                                                                                        6
+                             170⊢178                                               𝑑 = 8 = 0, 75
+
+
+                                                        8                  7
+                                                                                        8
+                             178⊢185                                               𝑑 = 7 = 1, 14
+
+
+                                                       10                  5
+                                                                                        10
+                             185⊢190                                               𝑑=    5
+                                                                                             =2
+
+
+                                                        9                  2
+                                                                                        9
+                             190⊢192                                               𝑑 = 2 = 4, 5
+
+
+                                                       17                  5
+                                                                                        17
+                             192⊢197                                               𝑑=    5
+                                                                                             = 3, 4
+
+                               Total                   50
+
+A maior densidade de frequência encontrada é 4,5 e pertence à quarta classe.
+Agora, para calcular a moda de King, temos que substituir as frequências pelas respectivas
+densidades de frequências:
+                                            𝐾𝑖𝑛𝑔                  𝑑𝑓𝑝𝑜𝑠
+                                          𝑀𝑜       = 𝑙𝑖𝑛𝑓 + ⎡⎢ 𝑑𝑓 +𝑑𝑓       ⎤× ℎ
+                                                                            ⎥
+                                                             ⎣   𝑎𝑛𝑡    𝑝𝑜𝑠 ⎦
+
+
+        Receita Federal (Analista Tributário) Estatística                                             73
+        www.estrategiaconcursos.com.br                                                                106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                               𝐾𝑖𝑛𝑔                   3,4
+                                             𝑀𝑜       = 190 + ⎡ 2+3,4 ⎤×2
+                                                              ⎣       ⎦
+                                                  𝐾𝑖𝑛𝑔                3,4
+                                              𝑀𝑜         = 190 + ⎡ 5,4 ⎤×2
+                                                                 ⎣ ⎦
+                                                  𝐾𝑖𝑛𝑔
+                                              𝑀𝑜         = 190 + 0, 63×2
+
+                                                   𝐾𝑖𝑛𝑔
+                                                𝑀𝑜         = 190 + 1, 26
+
+                                                         𝐾𝑖𝑛𝑔
+                                                    𝑀𝑜          = 191, 26
+
+Gabarito: A.
+
+        Receita Federal (Analista Tributário) Estatística                    74
+        www.estrategiaconcursos.com.br                                       106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                      QUESTÕES COMENTADAS – INÉDITAS
+Propriedades da Moda
+1. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2,4,4,5,7)
+Se adicionarmos uma constante 3 a cada valor desse conjunto, a nova moda será:
+a) 4
+b) 5
+c) 7
+d) 8
+e) 2
+
+
+Comentários:
+Uma das propriedades da moda diz que se somarmos/se subtrairmos uma constante c a/de
+todos os valores de uma variável, a moda do conjunto fica aumentada (ou diminuída) dessa
+constante.
+Portanto, se somarmos uma constante 3 a cada valor do conjunto, teremos:
+                                                     (5, 7, 7, 8, 10)
+Logo, a nova moda será:
+                                                        𝑀𝑜 = 7
+
+Gabarito: C.
+
+
+2. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2,3,5,5,5,7,7,9)
+Se multiplicarmos uma constante 2 por cada elemento do conjunto, a nova moda será:
+a) 4
+b) 10
+c) 14
+d) 6
+e) 18
+
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Estatística                             75
+        www.estrategiaconcursos.com.br                                               106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+Uma das propriedades da moda diz que multiplicando-se (ou dividindo-se) todos os valores de
+um conjunto por uma constante 𝒄, a moda do conjunto fica multiplicada (ou dividida) por essa
+constante.
+Portanto, se multiplicarmos uma constante 2 por cada valor do conjunto, teremos:
+                                             (4, 6, 10, 10, 10, 14, 14, 18)
+Logo, a nova moda será:
+                                                        𝑀𝑜 = 10
+
+Gabarito: B.
+
+
+3. (INÉDITA/2022) Sobre propriedades da moda, julgue os itens a seguir:
+                                                            ==219a34==
+
+a) As somas ou subtrações de uma constante k a todos os valores de uma variável não altera a
+moda do conjunto.
+b) As multiplicações ou divisões de todos os valores de uma variável por uma constante k não
+altera a moda do conjunto.
+c) Multiplicando-se todos os valores de uma variável por uma constante k, a moda do conjunto
+fica multiplicada por essa constante.
+d) Somando-se uma constante k a todos os valores de uma variável, a moda do conjunto fica
+multiplicada dessa constante.
+e) Somas, subtrações, multiplicações ou divisões de constantes não alteram o valor da moda de
+um conjunto.
+
+
+Comentários:
+A moda apresenta duas propriedades principais: a soma (ou subtração) de uma constante; e a
+multiplicação (ou divisão) por uma constante.
+A 1ª propriedade diz que: somando-se (ou subtraindo-se) uma constante c a todos os valores de
+uma variável, a moda do conjunto fica aumentada (ou diminuída) dessa constante.
+A 2ª propriedade diz que: multiplicando-se (ou dividindo-se) todos os valores de uma variável por
+uma constante c, a moda do conjunto fica multiplicada (ou dividida) por essa constante.
+Gabarito: C.
+
+
+4. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2, 4, 6, 6, 6, 6, 8, 8). Se dividirmos
+cada elemento do conjunto por 2 e, em seguida, somarmos uma constante de valor igual a 3 a
+cada elemento, a nova moda passará a ser:
+a) 3
+
+
+        Receita Federal (Analista Tributário) Estatística                                       76
+        www.estrategiaconcursos.com.br                                                          106
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+b) 4
+c) 5
+d) 6
+e) 7
+
+
+Comentários:
+Se dividirmos cada valor do conjunto por uma constante de valor igual a 2, teremos como novo
+conjunto o seguinte:
+                                                    (2, 2, 3, 3, 3, 3, 4, 4)
+Agora, somando uma constante de valor igual a 3 a cada elemento do conjunto, vamos obter o
+conjunto:
+                                                    (5, 5, 6, 6, 6, 6, 7, 7)
+Portanto, a média do novo conjunto é igual a 6
+                                                             𝑀𝑜 = 6
+
+Gabarito: D.
+
+
+5. (INÉDITA/2022) Dado o seguinte conjunto de valores: (1, 2, 2, 3, 3, 3, 5, 5), considere:
+I - multiplicando-se cada elemento por 5, a moda do conjunto não se altera;
+II - dividindo-se cada elemento por 3, a moda do conjunto passa a ser 1;
+III - somando-se o valor 3 a cada elemento do conjunto, a moda passa a ser 6;
+Está correto o que consta apenas em
+a) I e II
+b) II e III
+c) I e III
+d) I
+e) II
+
+
+Comentários:
+A moda apresenta duas propriedades principais: a soma (ou subtração) de uma constante; e a
+multiplicação (ou divisão) por uma constante.
+A 1ª propriedade diz que: somando-se (ou subtraindo-se) uma constante c a todos os valores de
+uma variável, a moda do conjunto fica aumentada (ou diminuída) dessa constante.
+
+
+             Receita Federal (Analista Tributário) Estatística                                77
+             www.estrategiaconcursos.com.br                                                   106
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+A 2ª propriedade diz que: multiplicando-se (ou dividindo-se) todos os valores de uma variável por
+uma constante c, a moda do conjunto fica multiplicada (ou dividida) por essa constante.
+Portanto, estão corretos os itens II e III.
+Gabarito: B.
+
+        Receita Federal (Analista Tributário) Estatística                                     78
+        www.estrategiaconcursos.com.br                                                        106
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+                                    LISTA DE QUESTÕES – FGV
+
+Moda para Dados não Agrupados
+
+1. (FGV/SEFAZ-MG/2023) Considere a amostra de idades a seguir:
+25, 18, 21, 21, 22, 22, 23, 23, 25, 26, 28, 29, 31, 30, 52, 28, 55, 18, 22, 20, 27.
+Em relação a essa amostra, avalie as afirmativas a seguir.
+I. A mediana é igual a 25.
+II. A média é maior do que a mediana.
+III. A moda é menor do que a mediana.
+Está correto o que se afirma em
+a) I, apenas.
+b) I e II, apenas.
+c) I e III, apenas.
+d) II e III, apenas.
+e) I, II e III
+
+
+2. (FGV/MPE GO/2022) Considere a lista de números:
+                                                  2, 1, 5, 3, 5, 8, 2, 7, x, 4, 6.
+Sabe-se que essa lista tem moda única igual a 2.
+A mediana dessa lista de números é
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+e) 6.
+
+
+3. (FGV/CBM AM/2022) Os resultados de certo experimento estão na lista abaixo:
+                                                     𝒙 𝟔 𝟖 𝟒 𝒙 𝟏𝟒 𝟔 𝒚 𝟔
+onde 𝒙 ≠ 𝒚. O número y é a única moda, e também é a mediana da lista.
+A média da lista é 8.
+
+            Receita Federal (Analista Tributário) Estatística                         79
+            www.estrategiaconcursos.com.br                                            106
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+A média dos três maiores números dessa lista é
+a) 10.
+b) 10,5.
+c) 11.
+d) 11,5.
+e) 12.
+
+
+4. (FGV/SEFAZ AM/2022) Uma amostra de idades de usuários de determinado serviço forneceu os
+seguintes dados:
+23; 34; 30; 22; 34; 53; 34; 28; 30; 22
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+a) 93.
+b) 94.
+c) 95.
+d) 96.
+e) 97.
+
+
+5. (FGV/IMBEL/2021) Uma lista de 2021 números inteiros positivos tem uma única moda (estatística) que
+ocorre exatamente 15 vezes. O número mínimo de inteiros distintos que ocorre nessa lista é
+a) 141.
+b) 142.
+c) 143.
+d) 144.
+e) 145.
+
+
+6. (FGV/ALE-RO/2018) Sejam x, y e z, respectivamente, a média, a mediana e a moda dos sete valores 9,
+10, 6, 5, 20, 9 e 4. É correto concluir que
+a) x < y < z .
+b) x < y = z
+c) x = y < z
+d) y < z = x
+
+           Receita Federal (Analista Tributário) Estatística                                      80
+           www.estrategiaconcursos.com.br                                                         106
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+e) x = y = z
+
+                                                             ==219a34==
+
+         Receita Federal (Analista Tributário) Estatística                  81
+         www.estrategiaconcursos.com.br                                     106
+
+                                       
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                         GABARITO – FGV
+
+Moda para Dados não Agrupados
+
+  1. LETRA E                                  3. LETRA E                  5. LETRA E
+  2. LETRA C                                  4. LETRA C                  6. LETRA E
+
+       Receita Federal (Analista Tributário) Estatística                               82
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                LISTA DE QUESTÕES – FGV
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+1. (FGV/IBGE/2016) Após a extração de uma amostra, as observações obtidas são tabuladas, gerando a
+seguinte distribuição de frequências:
+
+                                         Valor              3            5   9    13
+
+                                      Frequência            5            9   10   3
+
+Considerando que E(X) = Média de X, Mo(X) = Moda de X e Me(X) = Mediana de X, é correto afirmar que:
+                                                            ==219a34==
+
+a) E(X) = 7 e Mo(X) = 10;
+b) Me(X) = 5 e E(X) = 6,3;
+c) Mo(X) = 9 e Me(X) = 9;
+d) Me(X) = 9 e E(X) = 6,3;
+e) Mo(X) = 9 e E(X) = 7.
+
+        Receita Federal (Analista Tributário) Estatística                                         83
+        www.estrategiaconcursos.com.br                                                           106
+
+                                      
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                         GABARITO – FGV
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+  1. LETRA E
+
+       Receita Federal (Analista Tributário) Estatística                  84
+       www.estrategiaconcursos.com.br                                     106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                LISTA DE QUESTÕES – FGV
+
+Moda para Dados Agrupados em Classes
+
+1. (FGV/IBGE/2017) A ideia de grupar as observações de uma população ou amostra constitui uma técnica
+bem antiga de condensar as informações e assim facilitar o seu tratamento. No passado essa técnica era
+empregada com sucesso, mas com a ressalva de que os resultados não eram tão precisos quanto aqueles
+obtidos com dados não grupados.
+Considere a distribuição expressa em classes de frequências:
+
+
+                                               Classes      Frequências
+
+
+                                              10 ⊢ 20           50
+
+                                              20 ⊢ 30           28
+
+                                              30 ⊢ 40           24
+
+                                                Total          102
+
+Mesmo sem dispor dos dados de forma desagregada, sobre as estatísticas exatas, é correto afirmar que:
+a) A moda não pertence à última classe;
+b) A média é superior a 28;
+c) A mediana é menor do que 23;
+d) A média é superior a 16;
+e) A moda é inferior a 20.
+
+
+2. (FGV/MPE-BA/2017) A distribuição de frequências do número de apreensões de valores (em milhões
+R$) realizadas pela Polícia Federal, em determinado período, é conforme a seguir:
+
+                                             Intervalos
+                                                              Frequências
+                                             de Classe
+
+                                               0 ⊢ 10                47
+
+                                              10 ⊢ 20                29
+
+        Receita Federal (Analista Tributário) Estatística                                          85
+        www.estrategiaconcursos.com.br                                                             106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                               20 ⊢ 30                13
+
+                                               30 ⊢ 40                7
+
+                                               40 ⊢ 50                3
+
+                                            Acima de 50               1
+
+Assim sendo, é correto afirmar que:
+a) O último Decil está na penúltima classe;
+b) A mediana da distribuição está na 2ª classe;
+c) A média da distribuição está na 3ª classe;
+d) A moda exata da distribuição está na 1ª classe;
+e) A distribuição é assimétrica à esquerda.
+
+
+3. (FGV/DPE RJ/2014) Em um estudo realizado pela Defensoria Pública do Rio de Janeiro, com a finalidade
+de identificar o padrão de renda dos cidadãos assistidos, encontrou-se a seguinte distribuição de
+frequências para o período de 2009 a 2012:
+
+                                               Intervalos
+                                                             Frequências
+                                               de Classe
+
+                                                 5 ⊢ 15           5
+
+                                                15 ⊢ 25           8
+
+                                                25 ⊢ 35           9
+
+                                                35 ⊢ 45           3
+
+                                                  Total          25
+
+Nos intervalos de classe, as rendas estão expressas em reais por dia e as frequências em centenas de
+milhares de cidadãos. Adotando a hipótese de observações concentradas nos pontos médios das classes,
+a média, a mediana e a moda são, respectivamente, iguais a
+a) 24, 20 e 30.
+b) 25, 25 e 27.
+c) 26, 24 e 32.
+
+
+         Receita Federal (Analista Tributário) Estatística                                          86
+         www.estrategiaconcursos.com.br                                                             106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+d) 25, 25 e 30.
+e) 26, 19 e 27
+
+                                                            ==219a34==
+
+        Receita Federal (Analista Tributário) Estatística                  87
+        www.estrategiaconcursos.com.br                                     106
+
+                                      
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                         GABARITO – FGV
+
+Moda para Dados Agrupados em Classes
+
+  1. LETRA D                                  2. LETRA B                  3. LETRA A
+
+       Receita Federal (Analista Tributário) Estatística                               88
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                            LISTA DE QUESTÕES – INÉDITAS
+
+Moda para Dados não Agrupados
+
+1. (INÉDITA/2022) Considere o seguinte conjunto de números reais: 𝟐, 𝟕, 𝟏𝟏, 𝒚, 𝟖. Sabe-se que o conjunto
+é unimodal e que a média é igual à moda. O valor de x é:
+a) 8
+b) 2
+c) 7
+d) 6
+e) 11
+
+
+2. (INÉDITA/2022) A tabela abaixo mostra os valores em reais vendidos por cinquenta funcionários de uma
+empresa:
+
+                                        funcionários           Produtos vendidos em R$
+
+                                              20                        1.200
+
+                                              10                        5.000
+
+                                               5                        3.000
+
+                                              15                        1.000
+
+A moda dos valores vendidos em produtos é:
+a) 5.000
+b) 3.000
+c) 1.200
+d) 1.000
+e) 3.500
+
+
+3. (INÉDITA/2022) Em uma competição de ginástica cinco equipes fizeram 80 pontos, três equipes fizeram
+78 pontos e 1 equipe fez 90 pontos. A moda dos pontos alcançados nessa competição foi:
+a) 80
+
+
+           Receita Federal (Analista Tributário) Estatística                                         89
+           www.estrategiaconcursos.com.br                                                            106
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+b) 5
+c) 90
+d) 78
+e) 3
+
+
+4. (INÉDITA/2022) Um time de basquete tem 12 jogadores com alturas 1,87; 1,92; 1,95; 2,10; 1,95; 1,92;
+1,86; 1,95; 2,08; 1,95; 1,98; 1,84. A moda das alturas desses jogadores é:
+a) 2,10
+b) 1,95
+c) 1,92
+d) 1,87
+e) 1,98
+
+
+5. (INÉDITA/2022) Considere a lista de números:
+                                               5, 4, 8, 6, 8, 11, 5, 10, x, 7, 9.
+Sabendo que a moda dessa lista é igual a 5, o valor da mediana dessa lista de números é
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+e) 10.
+
+
+6. (INÉDITA/2022) Uma amostra de um experimento forneceu os seguintes dados:
+                                                  2; 5; 4; 1; 5; 6; 5; 3; 4; 1
+A soma dos valores da média, da moda e da mediana desses dados é igual a
+a) 11,6.
+b) 12,1.
+c) 12,6
+d) 13,1
+e) 13,6
+
+           Receita Federal (Analista Tributário) Estatística                                       90
+           www.estrategiaconcursos.com.br                                                          106
+
+                                         
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+7. (INÉDITA/2022) Sejam x, y e z, respectivamente, a média, a mediana e a moda dos sete valores 8, 7, 6,
+9, 13, 8 e 5. É correto concluir que
+a) x < y = z
+b) x < y < z .
+c) x = y < z
+d) x = y = z
+e) y < z = x
+
+                                                              ==219a34==
+
+          Receita Federal (Analista Tributário) Estatística                                          91
+          www.estrategiaconcursos.com.br                                                             106
+
+                                        
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                  GABARITO – INÉDITAS
+
+Moda para Dados não Agrupados
+
+  1. LETRA C                                  4. LETRA B                  7. LETRA D
+  2. LETRA C                                  5. LETRA C
+  3. LETRA A                                  6. LETRA C
+
+       Receita Federal (Analista Tributário) Estatística                               92
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                            LISTA DE QUESTÕES – INÉDITAS
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+1. (INÉDITA/2022) Levando em consideração a seguinte distribuição de frequências:
+
+                                             Valor        1       3    5     7
+
+                                       Frequência             4   8    5     3
+
+Considerando que E(X) = Média de X, Mo(X) = Moda de X e Me(X) = Mediana de X, é correto
+afirmar que:
+a) Me(X) = 5 e E(X) = 3,7;
+b) Me(X) = 3 e E(X) = 3,7;
+c) E(X) = 3,7 e Mo(X) = 5;
+d) Mo(X) = 3 e E(X) = 5.
+e) Mo(X) = 3 e Me(X) = 5;
+
+
+2. (INÉDITA/2022) Os números de processos analisados pelos analistas de um órgão público,
+durante 10 meses, foram registrados mensalmente conforme a tabela abaixo.
+
+            Mês                 I       II      III      IV       V   VI     VII   VIII   IX   X   Total
+
+ Número                de
+                                8       6        4        7       8    6     6      8     8    5    66
+ processos
+
+Nesse período, o valor da soma da média aritmética (número de processos) com a mediana é
+aproximadamente igual ao valor da moda multiplicado por
+a) 1,74
+b) 1,64
+c) 1,54
+d) 1,44
+e) 1,84
+
+
+3. (INÉDITA/2022) Em uma corrida automobilística, os 20 pilotos fizeram uma volta nos tempos
+(em segundos): 72; 76; 80; 68; e 78. A tabela abaixo mostra a distribuição:
+
+
+          Receita Federal (Analista Tributário) Estatística                                              93
+          www.estrategiaconcursos.com.br                                                                 106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                Tempo (s)                   72    76         80   68   78
+
+                              Nº de pilotos                 3     6          4    5    2
+
+Com base na distribuição, a moda do tempo feito por piloto é igual a
+a) 80
+b) 78
+c) 72
+d) 68
+e) 76
+
+
+4. (INÉDITA/2022) Em uma fábrica de calçados foram produzidos 400 sapatos com 5 pontuações
+diferentes, conforme a tabela abaixo:
+
+                                     Pontuações             Quantidade de sapatos
+
+                                           34                          80
+
+                                           35                          92
+
+                                           36                          100
+
+                                           37                          88
+
+                                           38                          40
+
+                                         Total                         400
+
+Podemos afirmar que a moda da distribuição é:
+a) 37
+b) 38
+c) 36
+d) 35
+e) 34
+
+
+5. (INÉDITA/2022) Uma sala de aula de um curso de inglês com 40 alunos tem a seguinte
+distribuição de idades conforme tabela a seguir:
+
+        Receita Federal (Analista Tributário) Estatística                                   94
+        www.estrategiaconcursos.com.br                                                      106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                               Idades        Nº de alunos
+
+                                                  20                8
+
+                                                  26                9
+
+                                                  28                Y
+
+                                                  34                5
+
+                                                  42                6
+
+                                                Total              40
+
+A moda de idades dos alunos da turma é igual a:
+a) 26
+b) 20
+c) 42
+d) 28
+e) 34
+
+
+6. (INÉDITA/2022) Em determinado condomínio, a conta de água foi rateada conforme o
+consumo de cada apartamento. A tabela a seguir mostra a distribuição de consumo por grupos:
+
+                                      Consumo
+                                                   Nº de apartamentos
+                                     mensal em (L)
+
+                                            500                    20
+
+                                            750                    27
+
+                                            480                    13
+
+                                            525                    18
+
+                                            667                    22
+
+                                           Total                  100
+
+A moda do consumo de água desse condomínio é de:
+
+        Receita Federal (Analista Tributário) Estatística                               95
+        www.estrategiaconcursos.com.br                                                  106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+a) 480
+b) 500
+c) 525
+d) 667
+e) 750
+
+
+7. (INÉDITA/2022) Em uma competição de salto à distância os atletas foram agrupados de
+acordo com as distâncias alcançadas conforme a tabela abaixo:
+
+                                         Distância em (m)                 Nº de Atletas
+
+                                                 1,87                          5
+                                                             ==219a34==
+
+                                                 1,92                          30
+
+                                                 2,10                          50
+
+                                                 2,16                          13
+
+                                                 2,22                          22
+
+                                                 Total                        120
+
+A moda das distâncias saltadas é igual a:
+a) 2,22m
+b) 2,10m
+c) 2,16m
+d) 1,87m
+e) 1,92m
+
+         Receita Federal (Analista Tributário) Estatística                                96
+         www.estrategiaconcursos.com.br                                                   106
+
+                                       
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                  GABARITO – INÉDITAS
+
+Moda para Dados Agrupados sem Intervalos de Classe
+
+  1. LETRA B                                  4. LETRA C                  7. LETRA B
+  2. LETRA B                                  5. LETRA D
+  3. LETRA E                                  6. LETRA E
+
+       Receita Federal (Analista Tributário) Estatística                               97
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                           LISTA DE QUESTÕES – INÉDITAS
+Moda para Dados Agrupados em Classes
+1. (INÉDITA/2022) Uma empresa decidiu oferecer um curso de reciclagem para seus funcionários,
+ao todo foram 120 inscritos. A tabela a seguir mostra as faixas etárias de cada grupo:
+
+                                      Faixa etária (             nº de
+                                              𝑋𝑖)           funcionários
+
+
+                                           20⊢30                   30
+
+                                           30⊢40                   40
+
+                                           40⊢50                   30
+
+                                           50⊢60                   20
+
+                                            Total                 120
+
+Considerando a distribuição acima, assinale a alternativa que apresenta o valor da moda bruta:
+a) 40
+b) 35
+c) 30
+d) 45
+e) 50
+
+
+2. (INÉDITA/2022) Um grupo de 20 amigos resolveu praticar atividade física. Como primeiro
+desafio, escolheram uma caminhada de até 8 quilômetros. A tabela a seguir mostra a distância
+percorrida em km por participante:
+
+                                            Distância
+                                                                 nº de
+                                           percorrida
+                                                               pessoas
+                                           em Km (𝑋𝑖)
+
+
+                                               2⊢3, 5               4
+
+        Receita Federal (Analista Tributário) Estatística                                        98
+        www.estrategiaconcursos.com.br                                                       106
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                                3, 5⊢5                         5
+
+                                                5⊢6, 5                         7
+
+                                                6, 5⊢8                         4
+
+                                                Total                         20
+
+Conforme a tabela, a moda da distribuição, pelo método de Czuber, é igual a:
+a) 5,4
+b) 6
+c) 5,6
+                                                             ==219a34==
+
+d) 6,5
+e) 7
+
+
+3. (INÉDITA/2022) Conforme distribuição dos salários em R$1.000,00 dos funcionários de uma
+empresa de transportes, obteve-se a tabela de distribuição de frequências absolutas, sendo Y
+um número inteiro positivo.
+
+                                                                             Nº de
+                                        Salários (𝑋𝑖)
+                                                                          funcionários
+
+                                           2 < 𝑥≤4                            40
+
+                                           4 < 𝑥≤6                            3Y
+
+                                           6 < 𝑥≤8                            2Y
+
+                                          8 < 𝑥≤10                            10
+
+                                             Total                            100
+
+
+Sabe-se que a média aritmética (𝑥) foi obtida com base nos pontos médios de cada intervalo,
+que a mediana (𝑀𝑑) foi calculada utilizando a fórmula para o cálculo da mediana e que moda (𝑀𝑜
+) foi obtida pelo método de Pearson: 𝑀𝑜 = 3×𝑀𝑑 − 2×𝑥. Assim, o valor em R$ 1.000,00 obtido
+da moda foi igual a
+a) R$ 4.750,00
+b) R$ 3.500,00
+
+
+         Receita Federal (Analista Tributário) Estatística                                 99
+         www.estrategiaconcursos.com.br                                                    106
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+c) R$ 4.260,00
+d) R$ 3.980,00
+e) R$ 4.000,00
+
+
+4. (INÉDITA/2022) A tabela abaixo demonstra a distribuição de frequências do número de filhos
+por família dos moradores de um condomínio:
+
+                                             quantidade            nº de
+                                               de filhos         famílias
+
+                                                  0⊢2                10
+
+                                                  2⊢4                30
+
+                                                  4⊢6                8
+
+                                                  6⊢8                2
+
+                                                 Total               50
+
+Pelo método de King, a moda da distribuição é igual a
+a) 3
+b) 4,5
+c) 2,5
+d) 2,88
+e) 3,88
+
+
+5. (INÉDITA/2022) Um time de vôlei decidiu fazer um teste para recrutar jogadores. Os
+candidatos foram divididos em grupos de acordo com a altura. A tabela de frequências a seguir
+demonstra a distribuição:
+
+                                                                   Nº de
+                                           Altura (cm)
+                                                               candidatos
+
+                                             170⊢178                  6
+
+                                             178⊢185                  8
+
+          Receita Federal (Analista Tributário) Estatística                               100
+          www.estrategiaconcursos.com.br                                                  106
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                                           185⊢190                 10
+
+                                           190⊢192                  9
+
+                                           192⊢197                 17
+
+                                             Total                 50
+
+Com base na distribuição apresentada, a moda pelo método de King é:
+a) 191,26 cm
+b) 194 cm
+c) 195,5 cm
+d) 197 cm
+e) 187,5 cm
+
+        Receita Federal (Analista Tributário) Estatística                  101
+        www.estrategiaconcursos.com.br                                     106
+
+                                      
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                    GABARITO – INÉDITAS
+Moda para Dados Agrupados em Classes
+  1. LETRA B                                  3. LETRA D                  5. LETRA A
+  2. LETRA C                                  4. LETRA D
+
+       Receita Federal (Analista Tributário) Estatística                               102
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 03
+
+                           LISTA DE QUESTÕES – INÉDITAS
+Propriedades da Moda
+1. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2,4,4,5,7)
+Se adicionarmos uma constante 3 a cada valor desse conjunto, a nova moda será:
+a) 4
+b) 5
+c) 7
+d) 8
+e) 2
+
+
+2. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2,3,5,5,5,7,7,9)
+Se multiplicarmos uma constante 2 por cada elemento do conjunto, a nova moda será:
+a) 4
+b) 10
+c) 14
+d) 6
+e) 18
+
+
+3. (INÉDITA/2022) Sobre propriedades da moda, julgue os itens a seguir:
+a) As somas ou subtrações de uma constante k a todos os valores de uma variável não altera a
+moda do conjunto.
+b) As multiplicações ou divisões de todos os valores de uma variável por uma constante k não
+altera a moda do conjunto.
+c) Multiplicando-se todos os valores de uma variável por uma constante k, a moda do conjunto
+fica multiplicada por essa constante.
+d) Somando-se uma constante k a todos os valores de uma variável, a moda do conjunto fica
+multiplicada dessa constante.
+e) Somas, subtrações, multiplicações ou divisões de constantes não alteram o valor da moda de
+um conjunto.
+
+        Receita Federal (Analista Tributário) Estatística                                 103
+        www.estrategiaconcursos.com.br                                                    106
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 03
+
+4. (INÉDITA/2022) Considere o seguinte conjunto de valores: (2, 4, 6, 6, 6, 6, 8, 8). Se dividirmos
+cada elemento do conjunto por 2 e, em seguida, somarmos uma constante de valor igual a 3 a
+cada elemento, a nova moda passará a ser:
+a) 3
+b) 4
+c) 5
+d) 6
+e) 7
+
+
+5. (INÉDITA/2022) Dado o seguinte conjunto de valores: (1, 2, 2, 3, 3, 3, 5, 5), considere:
+                                                                 ==219a34==
+
+I - multiplicando-se cada elemento por 5, a moda do conjunto não se altera;
+II - dividindo-se cada elemento por 3, a moda do conjunto passa a ser 1;
+III - somando-se o valor 3 a cada elemento do conjunto, a moda passa a ser 6;
+Está correto o que consta apenas em
+a) I e II
+b) II e III
+c) I e III
+d) I
+e) II
+
+             Receita Federal (Analista Tributário) Estatística                                  104
+             www.estrategiaconcursos.com.br                                                     106
+
+                                           
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 03
+
+                                    GABARITO – INÉDITAS
+Propriedades da Moda
+  1. LETRA C                                  3. LETRA C                  5. LETRA B
+  2. LETRA B                                  4. LETRA D
+
+       Receita Federal (Analista Tributário) Estatística                               105
+       www.estrategiaconcursos.com.br                                                  106
+
+                                     
+
+
+---
+
+---

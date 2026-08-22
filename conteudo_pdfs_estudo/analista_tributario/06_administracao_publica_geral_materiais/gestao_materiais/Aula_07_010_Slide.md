@@ -1,0 +1,492 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+TRANSPORTES & DISTRIBUIÇÃO
+BANCAS DIVERSAS - III
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/FITO/Analista de Gestão/2020) A primeira etapa para realizar uma gestão
+       eficiente de frotas é caracterizada por:
+     a) controlar as rotas dos veículos e identificar (ou prever) os problemas que poderão
+     ocorrer e pensar em soluções prévias.
+     b) criar planilhas com os relatórios de gastos de combustíveis para cada veículo e os
+     custos de manutenção.
+     c) organizar a manutenção dos carros da frota de maneira que sempre haja opções
+     disponíveis para o transporte.
+     d) promover treinamentos constantes com os motoristas para que aprendam a dirigir de
+     maneira segura e econômica.
+     e) realizar um diagnóstico da frota, identificando a estrutura que existe no momento
+     inicial.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/FITO/Analista de Gestão/2020) A primeira etapa para realizar uma gestão
+       eficiente de frotas é caracterizada por:
+     a) controlar as rotas dos veículos e identificar (ou prever) os problemas que poderão
+     ocorrer e pensar em soluções prévias.
+     b) criar planilhas com os relatórios de gastos de combustíveis para cada veículo e os
+     custos de manutenção.
+     c) organizar a manutenção dos carros da frota de maneira que sempre haja opções
+     disponíveis para o transporte.
+     d) promover treinamentos constantes com os motoristas para que aprendam a dirigir de
+     maneira segura e econômica.
+     e) realizar um diagnóstico da frota, identificando a estrutura que existe no momento
+     inicial.
+     GABARITO - E                   Em relação as frotas, o início de um processo
+                                    de otimização se baseia na realização de um
+                                            diagnóstico que aponte sua real situação,
+                                            estrutura, pontos fortes e fracos para que, com
+                                            base nele, possa ser elaborado um plano de
+Administração de Materiais para Concursos
+                                            ação.
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/FITO/Analista de Gestão/2020) A realização de treinamentos com os
+       motoristas para mitigar riscos envolvendo a sua segurança e a de outros motoristas,
+       bem como para promover economias sensíveis de custo, pode ser prevista se a gestão
+       de frotas estiver acompanhando o indicador de:
+     a) tempo parado em decorrência de avarias e valor de pagamento de pedágios, por
+     veículo.
+     b) tempo parado em decorrência de avarias e taxa de indisponibilidade de cada veículo.
+     c) tempo parado em decorrência de avarias e ranking das peças substituídas com mais
+     frequência, por veículo.
+     d) quantidade de multas e quebra de veículo (práticas inadequadas), por motorista.
+     e) idade média da frota e desgaste de pneus de chuva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/FITO/Analista de Gestão/2020) A realização de treinamentos com os
+       motoristas para mitigar riscos envolvendo a sua segurança e a de outros motoristas,
+       bem como para promover economias sensíveis de custo, pode ser prevista se a gestão
+       de frotas estiver acompanhando o indicador de:
+     a) tempo parado em decorrência de avarias e valor de pagamento de pedágios, por
+     veículo.
+     b) tempo parado em decorrência de avarias e taxa de indisponibilidade de cada veículo.
+     c) tempo parado em decorrência de avarias e ranking das peças substituídas com mais
+     frequência, por veículo.
+     d) quantidade de multas e quebra de veículo (práticas inadequadas), por motorista.
+     e) idade média da frota e desgaste de pneus de chuva.
+     GABARITO - D
+                                            O acompanhamento da quantidade de multas e quebra de veículo
+                                            (práticas inadequadas), por motorista permite identificar os
+                                            motoristas que devem ser alvo de treinamento visando a
+                                            segurança de todo o sistema e a redução de custos relativa à
+                                            manutenção e conservação dos veículos. São, ambos, fatores que
+                                            indicam a performance presente e diretamente relacionada a ação
+                                            e decisões tomadas por cada um dos motoristas.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Questão Comentada
+     03. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O transporte tem um papel fundamental em
+     várias estratégias da logística, tornando necessária a geração de soluções que possibilitem a flexibilidade e a velocidade
+     na resposta ao cliente, ao menor custo e tempo possível, gerando assim maior competitividade para a empresa. A
+     respeito da importância de um sistema de transportes eficaz, tem-se as seguintes afirmações:
+     I. Com um sistema de transportes precariamente desenvolvido, a extensão do mercado fica limitada àquelas áreas
+     imediatamente próximas ao ponto da produção.
+     II. Mercados ampliados significam custos de produção mais baixos. Com o aumento do volume distribuído nesses
+     mercados, viabiliza-se uma utilização mais intensiva das instalações de produção, o que normalmente é acompanhado
+     pela especialização da força de trabalho.
+     III. À medida que o transporte aumenta em eficiência e passa a oferecer um desempenho cada vez melhor, a sociedade
+     sai beneficiada pela melhoria do seu padrão de vida.
+     Classifique com V as sentenças Verdadeiras e F as sentenças Falsas e em seguida, assinale a opção CORRETA que
+     representa a sequência desta questão:
+     a) F, V, F.
+     b) V, F, V.
+     c) F, F, F.
+     d) V, V, V.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     03. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O transporte tem um papel fundamental em
+     várias estratégias da logística, tornando necessária a geração de soluções que possibilitem a flexibilidade e a velocidade
+     na resposta ao cliente, ao menor custo e tempo possível, gerando assim maior competitividade para a empresa. A
+     respeito da importância de um sistema de transportes eficaz, tem-se as seguintes afirmações:
+     I. Com um sistema de transportes precariamente desenvolvido, a extensão do mercado fica limitada àquelas áreas
+     imediatamente próximas ao ponto da produção.
+     II. Mercados ampliados significam custos de produção mais baixos. Com o aumento do volume distribuído nesses
+     mercados, viabiliza-se uma utilização mais intensiva das instalações de produção, o que normalmente é acompanhado
+     pela especialização da força de trabalho.
+     III. À medida que o transporte aumenta em eficiência e passa a oferecer um desempenho cada vez melhor, a sociedade
+     sai beneficiada pela melhoria do seu padrão de vida.
+     Classifique com V as sentenças Verdadeiras e F as sentenças Falsas e em seguida, assinale a opção CORRETA que
+     representa a sequência desta questão:
+     a) F, V, F.
+     b) V, F, V.
+     c) F, F, F.
+     d) V, V, V.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     04. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O Transporte Dutoviário é normalmente
+        constituído e operado pelas grandes empresas petrolíferas e petroquímicas de cada país, principalmente pelo fato
+        destas deterem os processos industriais e comerciais das duas pontas do modal, que podem ser: exploração,
+         exportação, importação, refino e pontos de distribuição. Assim, muitas vezes há um único usuário desta infraestrutura.
+         A recente abertura deste mercado, em diversos países, faz com que a malha dutoviária passe a ser gerida como um
+         modal de transporte “comercial”, com tarifas específicas e exigências cada vez maiores. O leque de serviços e
+         capacidades do transporte dutoviário é ainda extremamente limitado. A respeito do modal dutoviário, assinale a
+         opção INCORRETA a seguir:
+     a) Os produtos cujo transporte por dutos é o mais viável são petróleo cru e seus derivados.
+     b) A movimentação dos produtos via dutos é muito rápida, não passando de três a quatro milhas por hora.
+     c) A capacidade dos dutos é baixa, levando-se em conta que um fluxo de três milhas/hora num duto de 12 polegadas
+     de diâmetro pode transportar 89 mil galões por hora.
+     d) Em relação ao tempo em trânsito, o serviço dutoviário é o mais confiável de todos os modais, já que são quase nulas
+     as interrupções causadoras de variabilidade desse tempo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Transporte Dutoviário
+     ❑ O transporte por meio de dutos ou tubos, só é indicado para certos materiais como,
+       por exemplo, o petróleo e o gás.
+     ❑ Principais características do transporte dutoviário:
+
+        •     Elevados investimentos iniciais.
+        •     Elevado custo de capital.
+        •     Baixos custos operacionais.
+        •     Indicado apenas para materiais específicos, ao contrário dos demais modais.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CONSULPAM/Pref. Mun. Viana-ES/Auditor de Controle Interno/2019) O Transporte Dutoviário é normalmente
+        constituído e operado pelas grandes empresas petrolíferas e petroquímicas de cada país, principalmente pelo fato
+        destas deterem os processos industriais e comerciais das duas pontas do modal, que podem ser: exploração,
+         exportação, importação, refino e pontos de distribuição. Assim, muitas vezes há um único usuário desta infraestrutura.
+         A recente abertura deste mercado, em diversos países, faz com que a malha dutoviária passe a ser gerida como um
+         modal de transporte “comercial”, com tarifas específicas e exigências cada vez maiores. O leque de serviços e
+         capacidades do transporte dutoviário é ainda extremamente limitado. A respeito do modal dutoviário, assinale a
+         opção INCORRETA a seguir:
+     a) Os produtos cujo transporte por dutos é o mais viável são petróleo cru e seus derivados.
+     b) A movimentação dos produtos via dutos é muito rápida, não passando de três a quatro milhas por hora.
+     c) A capacidade dos dutos é baixa, levando-se em conta que um fluxo de três milhas/hora num duto de 12 polegadas
+     de diâmetro pode transportar 89 mil galões por hora.
+     d) Em relação ao tempo em trânsito, o serviço dutoviário é o mais confiável de todos os modais, já que são quase nulas
+     as interrupções causadoras de variabilidade desse tempo.
+     GABARITO – B/C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/CM Mauá-SP/Almoxarife/2019) O tipo de carga unitária composto por uma
+       estrutura fabricada, regularmente, com fios de poliéster de grande resistência, que
+       suportam bastante peso e que são içados por guindaste e armazenados nos locais
+       apropriados, é:
+     a) o contêiner.
+     b) a pré-lingada.
+     c) o pallet.
+     d) a carga frigorífica ou também chamada de refrigerada.
+     e) a carga viva.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/CM Mauá-SP/Almoxarife/2019) O tipo de carga unitária composto por uma
+       estrutura fabricada, regularmente, com fios de poliéster de grande resistência, que
+       suportam bastante peso e que são içados por guindaste e armazenados nos locais
+       apropriados, é:
+     a) o contêiner.
+     b) a pré-lingada.
+     c) o pallet.
+     d) a carga frigorífica ou também chamada de refrigerada.
+     e) a carga viva.                                                            De acordo com Rodrigues a
+     GABARITO - B                                                                carga pré-lingada é
+                                                                                 composta por rede especial
+                                                                                 resistente, manufaturada
+                                                                                 com fios de
+                                                                                 poliéster, nylon ou similar,
+                                                                                 adequada para unitizar
+                                                                                 mercadorias ensacadas,
+                                                                                 empacotadas ou
+                                                                                 acondicionadas de outras
+                                                                                 formas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere os grupos de peças
+       de almoxarifado apresentados na tabela a seguir. O grupo que possui o menor Fator
+       Estiva Médio está representado na alternativa:
+     a) III.
+     b) II.
+     c) IV.
+     d) I.
+     e) V.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Fator de Estiva
+     ❑ O Fator de Estiva é um outro conceito relacionado aos custos da distribuição e que é
+       cobrado em prova com relativa frequência.
+
+                  Fator de Estiva é considerado o volume em metros cúbicos ocupados por
+                  uma tonelada métrica de mercadoria embalada para embarque.
+
+     ❑ Ou seja, é necessário saber a quantidade de mercadoria que pode ser colocada em
+       um metro cúbico pois isso impacta diretamente o cálculo do frete.
+     ❑ Como o fator de estiva costuma ser calculado em m3 por tonelada, quanto menor o
+       fator de estiva, melhor, pois mais mercadoria vai poder ser colocada no mesmo
+       espaço.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FCC/METRO SP/Oficial Logística Almoxarifado/2018) Considere os grupos de peças
+       de almoxarifado apresentados na tabela a seguir. O grupo que possui o menor Fator
+       Estiva Médio está representado na alternativa:
+     a) III.
+     b) II.
+     c) IV.
+     d) I.
+     e) V.
+     GABARITO - C
+
+                                            Nesse caso, vamos aos cálculos antes de buscar a alternativa correta. O Fator de Estiva é considerado o volume em metros
+                                            cúbicos ocupados por uma tonelada métrica de mercadoria embalada para embarque.
+                                            No exercício proposto, já temos os valores de estiva de cada um dos grupos e como não temos pesos ou volumes para
+                                            ponderar, assumimos que todos eles têm a mesma importância. Dessa forma basta encontrar a média simples de caga grupo:
+                                            Grupo I: (8+10+12)/3 = 10
+                                            Grupo II: (2+25+3)/3 = 10
+                                            Grupo III: (5+6+19)/3 = 10
+                                            Grupo IV: (20+2+5)/3 = 9
+                                            Grupo V: (28+2+3)/3 = 11
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                          
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) É um exemplo de decisão
+       operacional dentro da área de logística a definição do(da.):
+     a) nível de serviço a ser ofertado pela empresa.
+     b) rota de entrega.
+     c) renovação da frota.
+     d) escolha da forma de suprimento.
+     e) fixação dos parâmetros do LEC.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) É um exemplo de decisão
+       operacional dentro da área de logística a definição do(da.):
+     a) nível de serviço a ser ofertado pela empresa.
+     b) rota de entrega.
+     c) renovação da frota.
+     d) escolha da forma de suprimento.
+     e) fixação dos parâmetros do LEC.
+     GABARITO - B
+     Vejamos a definição de Ronald Ballou para Logística: “A logística empresarial trata
+     de todas atividades de movimentação e armazenagem, que facilitam o fluxo de
+     produtos desde o ponto de aquisição da matéria-prima até o ponto de consumo final,
+     assim como dos fluxos de informação que colocam os produtos em movimento, com
+     o propósito de providenciar níveis de serviço adequados aos clientes a um custo
+     razoável. ”
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                       
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) A distribuição física de materiais é
+       uma importante atividade realizada no donwstream de uma cadeia de suprimentos. Uma
+       das preocupações dessa atividade logística é minimizar o custo da carga por km rodado.
+       Nesse sentido, quanto maior for a capacidade de carga, menor tende a ser o custo por
+       km rodado. Todavia, nas zonas centrais das grandes cidades brasileiras, um veículo de
+       baixa capacidade de carga vem sendo cada vez mais utilizado: os chamados VUC
+       (Veículos Urbanos de Carga.) A adoção do VUC nem sempre minimiza o custo por km
+       rodado, porém a sua utilização se justifica:
+     a) por se tratar de um programa nacional da renovação da frota de veículos de carga.
+     b) por ser um veículo menor do que uma carreta.
+     c) por ser fabricado em território nacional.
+     d) pela menor emissão de gases do efeito estufa.
+     e) pelas restrições impostas pelas prefeituras à circulação de veículos de carga de alta
+     capacidade nas regiões centrais da cidade.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CESGRANRIO/TRANSPETRO/Técnico Júnior/2018) A distribuição física de materiais é
+       uma importante atividade realizada no donwstream de uma cadeia de suprimentos. Uma
+       das preocupações dessa atividade logística é minimizar o custo da carga por km rodado.
+       Nesse sentido, quanto maior for a capacidade de carga, menor tende a ser o custo por
+       km rodado. Todavia, nas zonas centrais das grandes cidades brasileiras, um veículo de
+       baixa capacidade de carga vem sendo cada vez mais utilizado: os chamados VUC
+       (Veículos Urbanos de Carga.) A adoção do VUC nem sempre minimiza o custo por km
+       rodado, porém a sua utilização se justifica:
+     a) por se tratar de um programa nacional da renovação da frota de veículos de carga.
+     b) por ser um veículo menor do que uma carreta.
+     c) por ser fabricado em território nacional.
+     d) pela menor emissão de gases do efeito estufa.
+     e) pelas restrições impostas pelas prefeituras à circulação de veículos de carga de alta
+     capacidade nas regiões centrais da cidade.
+     GABARITO - E
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CESGRANRIO/TRANSPETRO/Administrador Júnior/2018) Considere uma determinada
+       atividade logística que consiste na transferência de cargas de um veículo maior para
+       veículos de menor capacidade, sem que haja necessidade de armazenamento e que
+       ocorre em um local público (por exemplo, um posto de gasolina, um terreno vazio, às
+       margens de uma rodovia). Esta atividade logística é denominada:
+     a) cross-docking
+     b) transit point
+     c) fracionamento
+     d) transbordo
+     e) unitização
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CESGRANRIO/TRANSPETRO/Administrador Júnior/2018) Considere uma determinada
+       atividade logística que consiste na transferência de cargas de um veículo maior para
+       veículos de menor capacidade, sem que haja necessidade de armazenamento e que
+       ocorre em um local público (por exemplo, um posto de gasolina, um terreno vazio, às
+       margens de uma rodovia). Esta atividade logística é denominada:
+     a) cross-docking
+     b) transit point
+     c) fracionamento
+     d) transbordo
+     e) unitização
+     GABARITO - D
+
+      O transbordo é exatamente a transferência de carga de um meio de transporte a
+      outro, no caso do enunciado, de um veículo para outro.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+OBRIGADO
+                                          Prof. Ricardo Campanario
+
+     
+
+
+---
+
+---

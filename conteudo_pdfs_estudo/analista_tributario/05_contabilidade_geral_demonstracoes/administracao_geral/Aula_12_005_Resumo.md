@@ -1,0 +1,308 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 12_005_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '12'
+titulo_aula: RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+artigos_citados:
+- art. 176
+---
+
+# RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+● As demonstrações definem a base para apresentação das demonstrações
+
+   contábeis, com fins de comparabilidade.
+
+● Elas apresentam a situação patrimonial, financeira, de desempenho e os fluxos
+
+   de caixa da entidade.
+
+● A demonstração deve dizer que está em conformidade com as normas do CPC.
+
+● As demonstrações são elaboradas na pressuposição de que a entidade vai
+
+   continuar em operação no futuro.
+
+● Todas as demonstrações são feitas pelo regime de competência, exceto a DFC,
+
+   que é feita pelo regime de caixa.
+
+● O exercício social tem a duração de 1 ano. A data do término é fixada no estatuto.
+
+● As demonstrações contábeis são apresentadas no mínimo anualmente. Muitas
+
+   companhias que negociam suas ações no mercado de valores mobiliários trazem
+
+   informações trimestralmente.
+
+● Na constituição da companhia e na alteração do estatuto, o exercício social pode
+
+   durar mais ou menos.
+
+                                                                                             1
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                            
+
+
+---
+
+ ● Nestas hipóteses de exercício mais longo ou curto, deve ser justificada a razão e
+
+    salientar      que      não      comparáveis          os     montantes         apresentados       nessas
+
+    demonstrações, por conta dessa diferença.
+
+ ● Conjunto completo das demonstrações contábeis:
+
+                                Conjunto das demonstrações
+
+
+                                      CPC 26 x Lei 6.404/76
+
+
+        Demonstração                                      Lei 6.404                          CPC 26
+
+
+Balanço patrimonial                                             X                                 X
+
+Demonstração do resultado do                                    X                                 X
+exercício
+
+
+Demonstração do resultado                              Não fala nada                              X
+abrangente
+
+
+DLPA                                             Pode estar contida na                   Não fala nada
+                                                        DMPL
+
+
+DMPL                                               Não está no art. 176                           X
+
+
+Demonstração dos fluxos de                       Facultat.: Cia Fechada                           X
+caixa                                                  PL < 2 mi
+
+                                                                                                         2
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                                  
+
+
+---
+
+Notas explicativas (Parte                                     X                                 X
+integrante)
+
+
+Balanço patrimonial antigo em                        Não fala nada                              X
+caso de ajuste
+
+
+DVA                                                    Cia aberta                               X
+
+  ● As demonstrações contábeis devem ser identificadas claramente e distinguidas
+
+      de qualquer outra informação que porventura conste no mesmo documento
+
+      publicado.
+
+  ● Informações necessárias para as demonstrações contábeis:
+
+        ○ Nome da entidade, com qualquer alteração existente desde o último
+
+           exercício.
+
+        ○ Se a demonstração é individual ou de um grupo.
+
+        ○ Data de encerramento do período de reporte.
+
+        ○ Moeda de apresentação.
+
+        ○ Arredondamento utilizado.
+
+                                                                                                    3
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                               
+
+
+---
+
+● Estrutura do Balanço Patrimonial:
+
+                   Ativo                                                  Passivo
+
+
+   Caixa e equivalentes caixa                     Contas a pagar comerciais e outras
+
+
+   Clientes e outros recebíveis                   Provisões
+
+
+   Estoques                                       Obrigações financeiras
+
+
+   Ativo financeiros                              Obrigações - Tributação (CPC 32)
+
+
+   Disponíveis para venda                         Obrigações relacionadas a ativos
+                                                  mantidos para venda
+
+
+   Ativos biológicos                              Patrimônio Líquido
+
+
+   Investimentos avaliados pelo                   Participação de não controladores
+   MEP
+
+
+   Propriedade para investimento                  Capital integralizado
+
+
+   Imobilizado                                    Reservas
+
+
+   Intangível                                     Outras contas atribuíveis aos
+                                                  proprietários
+
+                                                                                             4
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                            
+
+
+---
+
+● Ativo é classificado no circulante quando:
+
+● O ativo não circulante deve ser subdividido em realizável a longo prazo,
+
+  investimentos, imobilizado e intangível.
+
+                                                                                             5
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                            
+
+
+---
+
+● Passivo é classificado no circulante quando:
+
+                                                                                             6
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                            
+
+
+---
+
+● Estrutura da DRE segundo o CPC 26:
+
+                 CPC 26 – Apresentação das Demonstrações Contábeis.
+
+
+   Receitas
+
+
+   (-) CMV
+
+
+   Lucro bruto
+
+
+   (-) Despesas
+
+
+   - Vendas
+
+
+   - Gerais e administrativas
+
+
+   - Outras despesas e receitas operacionais
+
+
+   - Resultado equivalência Patrimonial
+
+
+   Resultado antes Receitas e Despesas financeiras
+
+
+   Despesas e Receitas financeiras
+
+
+   Resultado antes tributos sobre o lucro
+
+
+   (-) Despesas tributos sobre o lucro
+
+
+   (=) Resultado das operações continuadas
+
+                                                                                               7
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                              
+
+
+---
+
+   +/- Resultado líquido das operações descontinuadas
+
+
+   Resultado líquido do período
+
+● Pontos importantes: início da receita líquida, separação das receitas e despesas
+
+  financeiras, resultado de operações descontinuadas, modelo não rígido de DRE.
+
+● Apresentação das despesas:
+
+     ○ No método da natureza da despesa, as despesas são agregadas na
+
+        demonstração do resultado de acordo com a sua natureza (por exemplo,
+
+        depreciações, compras de materiais, despesas com transporte, benefícios
+
+        aos empregados e despesas de publicidade), não sendo realocados entre
+
+        as várias funções dentro da entidade.
+
+● A segunda forma de análise é o método da função da despesa ou do “custo dos
+
+  produtos e serviços vendidos”, classificando-se as despesas de acordo com a sua
+
+  função como parte do custo dos produtos ou serviços vendidos ou, por exemplo,
+
+  das despesas de distribuição ou das atividades administrativas.
+
+                                                                                             8
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 34.
+
+                            
+
+
+---

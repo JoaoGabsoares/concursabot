@@ -1,0 +1,217 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_033_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: CESPE
+---
+
+# CESPE
+
+CESPE
+
+
+Profª Adriana Figueiredo
+                           
+                              09060917723 - Narcala Costa
+
+
+---
+
+14. CESPE - 2019 - MPC-PA - Conhecimentos Gerais - Cargos de Nível
+Superior
+Cada uma das opções a seguir apresenta uma proposta de reescrita para o seguinte
+trecho do texto CG1A1-I: “Qual é o motivo de a sustentabilidade ser tão importante
+para a economia?” (L. 24 e 25). Assinale a opção em que a proposta indicada
+mantém os sentidos e a correção gramatical do texto.
+
+A) Porque a sustentabilidade é tão importante para a economia?
+B) Por quê a sustentabilidade é tão importante para a economia?
+C) Porquê a sustentabilidade é tão importante para a economia?
+D) Por que a sustentabilidade é tão importante para a economia?
+E) Pra quê a sustentabilidade é tão importante para a economia?
+Profª Adriana Figueiredo
+                                  
+                                     09060917723 - Narcala Costa
+
+
+---
+
+15. CESPE - FUNPRESP-EXE - Conhecimentos Básicos
+
+Sem prejuízo para a correção gramatical do período, a expressão “por quê" (l.23)
+poderia ser substituída por o porquê.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+                                    09060917723 - Narcala Costa
+
+
+---
+
+16. CESPE / CEBRASPE - 2019 - TJ-AM - Analista Judiciário - Analista de
+Sistemas
+
+A correção gramatical do texto seria mantida se o vocábulo “porque” (ℓ.23) fosse
+substituído por por que.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                 
+                                    09060917723 - Narcala Costa
+
+
+---
+
+17. CESPE - 2018 - SEDUC-AL - Conhecimentos Básicos
+
+Sem prejuízo da correção gramatical do texto, a locução “Por que” poderia ser
+substituída por Porque no trecho “Por que falharam os programas de formação?”
+(l.16).
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                
+                                   09060917723 - Narcala Costa
+
+
+---
+
+18. CESPE - MME - Nível Médio - Conhecimentos Básicos - Todos os
+Cargos
+
+
+TÍTULO: Horário de verão — o que é e por que é adotado
+
+A correção gramatical do texto seria mantida caso se substituísse o trecho “por que
+é adotado” (título) por porque é adotado?.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo           QUESTÃO ADAPTADA
+                                  
+                                     09060917723 - Narcala Costa
+
+
+---
+
+19. CESPE - 2019 - Prefeitura de São Cristóvão - SE - Professor de
+Educação Básica - Matemática
+
+A correção gramatical do texto seria mantida caso a expressão “por que” (l.18)
+fosse substituída por porque.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                                
+                                   09060917723 - Narcala Costa
+
+
+---
+
+20. CESPE - 2021 - MPE-SC - Promotor de Justiça Substituto - Prova 2
+
+1º PARÁGRAFO: Quando falamos em direito, estamos falando inicialmente de um
+enorme conjunto de regras obrigatórias, o chamado direito positivo. Mas o
+vocábulo direito é usado também para o curso de Direito, a assim chamada “ciência
+do Direito”. Numa terceira acepção, a palavra designa os direitos de cada um de
+nós, chamados de direitos subjetivos, pois somos os sujeitos, os titulares, desses
+direitos.
+
+Seria mantida a correção gramatical do texto caso a conjunção “pois”, no último
+período do primeiro parágrafo, fosse substituída por por que.
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                                  
+                                     09060917723 - Narcala Costa
+
+
+---
+
+21. IDECAN - 2021 - IFCE - PROFESSOR DE ENSINO BÁSICO, TÉCNICO E
+TECNOLÓGICO
+Além disso, ela diz que exames de ressonância magnética feitos nessas pessoas
+indicam que seus cérebros são menores, o que pode explicar por que eles parecem
+ter um desempenho pior em tarefas cognitivas. (linhas 35 a 36)
+
+Reescrevendo-se segmentos do período acima, sem analisar alterações de sentido,
+assinale a alternativa em que NÃO se tenha mantido adequação à norma culta.
+
+A) Porque eles parecem ter um desempenho pior em tarefas cognitivas, seus
+cérebros são pequenos?
+
+B) Seus cérebros são pequenos, mas a ciência não consegue ainda explicar por quê
+porque os estudos são incipientes.
+Profª Adriana Figueiredo
+                                 
+                                    09060917723 - Narcala Costa
+
+
+---
+
+21. IDECAN - 2021 - IFCE - PROFESSOR DE ENSINO BÁSICO, TÉCNICO E
+TECNOLÓGICO
+
+C) Deve existir um porquê muito claro de existir cérebro de algumas pessoas menor
+do que o de outras.
+
+D) Seria necessário pesquisar muito para descobrir por quê, nesse contexto
+holandês, as pessoas nasceram com cérebro menor.
+
+Profª Adriana Figueiredo
+                                 
+                                    09060917723 - Narcala Costa
+
+
+---
+
+OBRIGADA!
+                                           Professora: Adriana Figueiredo
+
+      
+         09060917723 - Narcala Costa
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                    @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                 facebook.com/prof.adriana.figueiredo
+
+
+                   
+                      09060917723 - Narcala Costa
+
+
+---
+
+
+   09060917723 - Narcala Costa
+
+
+---

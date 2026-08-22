@@ -1,0 +1,128 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_021_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: REVISANDO POR QUESTÕES
+---
+
+# REVISANDO POR QUESTÕES
+
+---
+
+---
+
+REVISANDO POR QUESTÕES
+ DIREITO PREVIDENCIÁRIO
+
+
+                                           Prof. Adriana Menezes
+
+      
+
+
+---
+
+REGIME GERAL PREVIDÊNCIA SOCIAL
+DEPENDENTES DO RGPS - FCC
+
+
+                                               Prof. Adriana Menezes
+
+          
+
+
+---
+
+        4001716859
+        (FCC/TRF 3/TJ -Área Administrativa/2024) - Segundo a Lei nº8.213/1991,
+        são beneficiários do Regime Geral de Previdência Social, na condição de
+        dependentes do segurado: O cônjuge, a companheira, o companheiro e o
+        filho
+        A) emancipado, sob certas condições, menor de 21 anos ou inválido ou que
+        tenha deficiência intelectual ou mental ou deficiência grave; os pais; e o irmão
+        emancipado, sob certas condições, menor de 21 anos ou inválido ou que tenha
+        deficiência intelectual ou mental ou deficiência grave.
+        B) não emancipado, de qualquer condição, menor de 18 anos ou inválido ou
+        que tenha apenas deficiência intelectual ou deficiência grave; os pais; e o
+        irmão emancipado, de qualquer condição, menor de 21 anos ou inválido ou
+        que tenha apenas deficiência intelectual ou deficiência grave.
+
+Prof. Adriana Menezes               
+
+
+---
+
+        C) não emancipado, de qualquer condição, menor de 21 anos ou inválido ou
+        que tenha deficiência intelectual ou mental ou deficiência grave; os pais; e o
+        irmão não emancipado, de qualquer condição, menor de 21 anos ou inválido
+        ou que tenha deficiência intelectual ou mental ou deficiência grave.
+        D) emancipado, de qualquer condição, menor de 21 anos ou inválido ou que
+        tenha apenas deficiência mental ou deficiência grave; os pais; e o irmão
+        emancipado, de qualquer condição, menor de 21 anos ou inválido ou que
+        tenha apenas deficiência mental ou deficiência grave.
+        E) não emancipado, sob certas condições, menor de 24 anos ou inválido ou
+        que tenha deficiência intelectual ou mental ou deficiência grave; os país; e o
+        irmão não emancipado, sob certas condições, menor de 24 anos ou inválido ou
+        que tenha deficiência intelectual ou mental ou deficiência grave.
+
+
+Prof. Adriana Menezes              
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---
+
+        4001350419
+        (FCC/AL-AP - Advogado Legislativo – Procurador/2020) – No que tange
+        aos beneficiários, enquanto dependentes do segurado do Regime Geral
+        de Previdência Social, considere:
+        I. São beneficiários dependentes, entre outros, o cônjuge, a companheira,
+        o companheiro e o filho não emancipado, de qualquer condição, menor
+        de 21 anos ou inválido ou que tenha deficiência intelectual ou mental ou
+        deficiência grave.
+        II. A existência de dependente de qualquer das classes previstas em lei
+        não exclui do direito às prestações os das classes seguintes.
+        III. O enteado e o menor tutelado equiparam-se a filho mediante
+        declaração do segurado, independentemente de comprovação de
+        dependência econômica.
+
+Prof. Adriana Menezes            
+
+
+---
+
+        IV. As provas de união estável e de dependência econômica exigem início
+        de prova material contemporânea dos fatos, produzido em período não
+        superior a 24 meses anterior à data do óbito ou do recolhimento à prisão
+        do segurado, não admitida a prova exclusivamente testemunhal, exceto
+        na ocorrência de motivo de força maior ou caso fortuito, conforme
+        disposto no regulamento.
+        Está correto o que se afirma APENAS em
+        A) III e IV.
+        B) I, II e IV.
+        C) I e IV.
+        D) II e III.
+        E) I, II e III.
+
+Prof. Adriana Menezes            
+
+
+---
+
+Prof. Adriana Menezes   
+
+
+---

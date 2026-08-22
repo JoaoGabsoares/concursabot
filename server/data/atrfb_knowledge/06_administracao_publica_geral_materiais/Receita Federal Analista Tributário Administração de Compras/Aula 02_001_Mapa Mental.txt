@@ -1,0 +1,315 @@
+                                      CLASSIFICAÇÃO DE MATERIAIS: CONCEITOS E OBJETIVOS
+
+
+
+
+                                                                    Aglutinar materiais por características semelhantes (Viana)
+
+
+
+                                                             Agrupar segundo forma, dimensão, peso, tipo e uso (Marco Aurélio Dias)
+    Conceito central
+
+
+                                Ordenar por critérios adotados, sem causar
+                                                                                                Um produto não pode ser confundido com outro, mesmo havendo semelhanças
+                                    confusão nem alterar a qualidade
+
+
+
+
+                                                    Facilitar armazenagem, localização e distribuição dos materiais
+
+       Finalidade
+                             Base para a posterior codificação (números, letras
+                                                                                                Melhora o nível de serviço (atendimento de requisições)
+                                            ou outro método)
+
+
+
+
+                               Catalogar, simplificar, especificar, normalizar,
+                                                                                                            Sua ausência impede o controle eficiente dos estoques
+                                           padronizar e codificar
+Objetivos-lista (definição
+       alternativa)
+                                 Atenção: Três definições clássicas: agrupar por semelhança, agrupar por forma/dimensão/peso e ordenar sem confusão
+
+
+
+
+                                                                                                                                                    ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                 https://t.me/KakashiAssinaturasBot                                                           ESTRATÉGIA CONCURSOS
+                                               ATRIBUTOS DE UM SISTEMA DE CLASSIFICAÇÃO
+
+
+
+                                                        São três atributos principais (Viana)
+
+
+                                                       Abrangência, flexibilidade e praticidade
+
+
+
+
+               Abrangência                                              Flexibilidade                                                  Praticidade
+
+
+
+
+Inclui vasto número de tipos de materiais e         Proporciona visão global do estoque e o inter-
+                                                                                                                    Exige simplicidade: classificação simples e direta
+           variadas características                     relacionamento entre classificações
+
+
+
+
+   Considera peso, forma, dimensão, custos e            Sistema deve ser maleável e se adequar à                           Não deve exigir julgamentos subjetivos,
+              aspectos contábeis                             organização (e não o contrário)                                 complexos ou conceitos abstratos
+
+
+
+
+   Evita duplicidade ou confusão entre itens                                                          Atenção: Bancas podem trocar os atributos por termos falsos:
+                                                                                                   rigidez, durabilidade, precisão, complexidade ou normalização não
+                                                                                                                               são atributos
+
+
+
+
+                                                                                                                                              ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                              https://t.me/KakashiAssinaturasBot                                                        ESTRATÉGIA CONCURSOS
+                                                  PRINCÍPIOS BÁSICOS DA CLASSIFICAÇÃO
+
+
+
+
+                                                       São quatro princípios (Francischini e Gurgel)
+
+                                              Arbitrário, Arbitrário Fichado, Simbólico e dos Números de projeto
+
+
+
+
+Princípio dos Números de Projeto            Princípio Arbitrário                                        Princípio Simbólico        Princípio Arbitrário Fichado
+
+
+
+
+                                         Itens codificados de forma                                                              Codificação sequencial associada a
+Usa os números dos desenhos de                                                              Codificação numérica, mnemônica
+                                      sequencial, conforme entram no                                                              um arquivo com características
+  detalhamento dos projetos                                                                          ou alfanumérica
+                                                  estoque                                                                                    detalhadas
+
+
+
+
+ Cobre apenas partes e materiais de   Não permite identidade entre itens                          Não recomendável para séries
+        projetos específicos                 de mesma natureza                                     muito numerosas de itens
+
+
+
+
+                                                                                                                                          ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                   https://t.me/KakashiAssinaturasBot                                               ESTRATÉGIA CONCURSOS
+                                        TIPOS DE CLASSIFICAÇÃO: DEMANDA, CRITICIDADE E APLICAÇÃO
+
+
+                Tipo de Demanda                                                                                    Criticidade
+
+
+De estoque: consumo rotineiro, reposição automática,
+                                                                                                         Aplica-se a empresas industriais
+                sempre disponíveis
+
+
+
+De “não estoque": demanda irregular, comprados para              Peças de reposição que não podem parar sob pena de                         Não sujeitos ao controle de
+                    uso imediato                                                 paralisar a produção                                             obsolescência
+
+
+
+
+                                                                    Aplicação (muito cobrada)
+
+
+
+       Matéria-prima                                   Insumo inicial; produção interna é a verticalização
+
+
+     Em processamento                                      Em transformação na linha de produção
+
+
+       Semiacabados                                           Estágio intermediário, quase pronto
+
+
+  Acabados (componentes)                                    Peças prontas para anexar ao produto
+
+
+     Produtos acabados                                          Finalizados, prontos para venda
+
+
+
+
+                                                                                                                                                 ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                    https://t.me/KakashiAssinaturasBot                                                     ESTRATÉGIA CONCURSOS
+                                  TIPOS DE CLASSIFICAÇÃO: PERECIBILIDADE, PERICULOSIDADE E AQUISIÇÃO
+
+
+
+
+                                  Dificuldade de aquisição e              Periculosidade               Possibilidade de fazer ou
+      Perecibilidade                                                                                                                  Tipos de estocagem
+                                     mercado fornecedor                                                         comprar
+
+
+
+
+                                                                                                          Fazer internamente,
+   Perdem características          Considera só características
+                                                                  Perigosos e não perigosos               comprar, decidir por      Permanente (de estoque) e
+físicas ou químicas (tempo,           intrínsecas (fabricação
+                                                                                                            fazer/comprar e        Temporária (não de estoque)
+     umidade, oxidação)                 especial, escassez,
+                                                                                                             recondicionar
+                                    sazonalidade, monopólio)
+
+
+
+                                                                         Riscos de explosão,
+  Categorias: higroscópica,                                             incêndio e reação ao
+ volátil, instável, ação da luz         Mercado: nacional,               contato com outros
+        e da gravidade             estrangeiro ou em processo                 produtos
+                                        de nacionalização
+
+
+
+
+     Não perecíveis: não
+ exigem cuidados especiais
+
+
+
+
+                                                                                                                                    ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                  https://t.me/KakashiAssinaturasBot                                          ESTRATÉGIA CONCURSOS
+                                     CLASSIFICAÇÃO POR VALOR (ABC) E IMPORTÂNCIA OPERACIONAL (XYZ)
+
+
+
+
+                   Curva XYZ (importância operacional)                                                                         Curva ABC (valor do consumo)
+
+
+
+                                                                                                         Baseada no Princípio de Pareto        80% do valor concentrado em ~20% dos
+     Mede criticidade, não valor: material vital cuja falta para a produção
+                                                                                                            (Vilfredo Pareto, séc. XIX)                        itens
+
+
+
+
+              Classe X: criticidade baixa, substituível facilmente                                                  Classe A: 20% dos itens = 80% do valor (maior atenção)
+
+
+
+
+       Classe Y: criticidade média, substituível com relativa facilidade                                              Classe B: 30% dos itens = 15% do valor (intermediária)
+
+
+
+
+         Classe Z: criticidade máxima, imprescindível e insubstituível                                             Classe C: 50% dos itens = 5% do valor (menor importância)
+
+
+
+
+Atenção: XYZ analisa impacto da FALTA (não do excedente); ABC e XYZ não
+                      são mutuamente excludentes
+
+
+
+
+                                                                                                                                                               ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                           https://t.me/KakashiAssinaturasBot                                                            ESTRATÉGIA CONCURSOS
+                                                    ETAPAS DO PROCESSO DE CLASSIFICAÇÃO
+
+
+
+
+        Sequência de seis etapas                           CATALOGAÇÃO, SIMPLIFICAÇÃO, ESPECIFICAÇÃO, NORMALIZAÇÃO, PADRONIZAÇÃO E CODIFICAÇÃO
+
+
+
+
+                           ESPECIFICAÇÃO
+ CODIFICAÇÃO                                             CATALOGAÇÃO                            SIMPLIFICAÇÃO        PADRONIZAÇÃO                  NORMALIZAÇÃO
+                         (OU IDENTIFICAÇÃO)
+
+
+
+
+Atribui código que        Descrição minuciosa                                                                                                    Estabelece as normas
+                                                      Listagem completa de                  Reduzir a diversidade   Padrões idênticos de
+   representa as           do material: peso,                                                                                                    de utilização de cada
+                                                          100% dos itens                    de itens empregados     peso e formato; ligada
+  características           medida, forma e                                                                                                               item
+                                                      existentes no estoque                   para o mesmo fim         à simplificação
+    capturadas                 finalidade
+
+
+
+
+        Normalização (como usar) ≠ Especificação (descrever) ≠ Padronização (uniformizar)
+
+
+
+
+                                                                                                                                             ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                                     https://t.me/KakashiAssinaturasBot                                                ESTRATÉGIA CONCURSOS
+                            CODIFICAÇÃO DE MATERIAIS: SISTEMAS E CÓDIGOS DE BARRAS
+
+
+
+
+                             Representa o material por caracteres alfanuméricos,                          O Plano de Codificação é a chave de interpretação dos
+                                          alfabéticos ou numéricos                                                              códigos
+Codificação e Plano de
+     Codificação
+                                                           Características: expansivo, preciso, conciso, conveniente e simples
+
+
+
+                                                                      ALFABÉTICO: mnemônico, em desuso (ex.: A-C-H)
+
+
+                                                                 ALFANUMÉRICO: mescla letras e números (ex.: BT-6345)
+Sistemas de codificação
+
+                            NUMÉRICO (decimal/Dewey):                       FSC norte-americano: 11 dígitos + verificador; CSSF francês: 8
+                          o mais utilizado (ex.: 20-002-012)                                          dígitos
+
+
+
+
+                                            EAN-13/EAN-8: varejo; DUN-14: caixas e paletes (não identifica itens)
+
+  Códigos de barras
+
+                                       DATA MATRIX: 2D hospitalar; GS1-128: dados extras; QR Code: Quick Response
+
+
+
+
+                                                                                                                                             ADMINISTRAÇÃO DE MATERIAIS E DE PATRIMÔNIO
+
+                                                          https://t.me/KakashiAssinaturasBot                                                           ESTRATÉGIA CONCURSOS
+

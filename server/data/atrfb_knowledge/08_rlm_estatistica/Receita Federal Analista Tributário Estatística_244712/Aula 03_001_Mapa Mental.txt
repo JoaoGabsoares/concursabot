@@ -1,0 +1,112 @@
+                              MEDIANA
+
+            MEDIDAS SEPARATRIZES
+
+
+                                    A mediana é o elemento que ocupa a
+        PARA DADOS NÃO              posição central de uma série de observações
+                                    ordenada segundo suas grandezas.
+            AGRUPADOS
+
+
+
+
+                                           A mediana é um valor que dividirá a
+      PARA DADOS AGRUPADOS POR             distribuição de frequências em duas
+                VALORES                    partes contendo o mesmo número
+                                           de elementos.
+
+
+
+
+                          Para calcular a mediana de dados que
+ PARA DADOS               estão agrupados por intervalo de classes,              Conhecendo a classe
+AGRUPADOS EM              identificamos a classe mediana, que                    mediana, podemos
+                          corresponde à frequência acumulada                     aplicar a fórmula da
+INTERVALOS DE             imediatamente igual ou superior à metade               mediana:
+   CLASSE                 da frequência total, ou seja, metade da
+                          soma das frequências simples,   .
+
+                                                                                                        MEDIDAS SEPARATRIZES
+                                            https://t.me/KakashiAssinaturasBot                           ESTRATÉGIA CONCURSOS
+                                                                                                QUARTIS PARA DADOS AGRUPADOS EM CLASSES:
+                                  CONCEITO                                       • 1.ª etapa: determinar a posição do quartil, por meio da expressão:
+
+
+                                                                                 • 2.ª etapa: identificar a posição do quartil na coluna de frequências
+                                                                                     acumuladas, isto é, a frequência acumulada imediatamente igual
+                                                                                     ou superior à posição do quartil;
+                                                                                 • 3.ª    etapa: verificar as informações       referentes   à    classe
+                                                                                     correspondente a essa posição; e
+                                                                                 • 4.ª etapa: calcular o valor do quartil por meio da fórmula
+                                                                                     apresentada a seguir, que consiste em uma variação da fórmula
+                                                                                     da mediana para dados agrupados em classes:
+
+
+
+
+                             QUARTIS
+                                                                                                QUARTIS PARA DADOS AGRUPADOS POR VALORES:
+                                                                                 • 1.ª etapa: determinar a posição do quartil, por meio da expressão:
+               QUARTIS PARA DADOS NÃO AGRUPADOS:
+• 1.ª etapa: determinar a posição do quartil, por meio da expressão:
+                                                                                 • 2.ª etapa: identificar a posição do quartil na coluna de frequências
+                                                                                     acumuladas, isto é, a frequência acumulada imediatamente igual
+                                                                                     ou superior à posição do quartil;
+• 2.ª etapa: identificar a posição mais próxima do rol;
+• 3.ª etapa: verificar o valor que está ocupando essa posição.                   • 3.ª etapa: verificar o valor da variável que corresponde a essa
+                                                                                     posição.
+                                                                                                                                            QUARTIS
+                                                          https://t.me/KakashiAssinaturasBot                                          ESTRATÉGIA CONCURSOS
+                             CONCEITO
+                                                                                             PERCENTIS PARA DADOS AGRUPADOS POR VALORES:
+               Valores de uma série que a dividem em cem
+               partes iguais, isto é, cem partes contendo o                     • 1.ª etapa: determinar a posição do percentil, por meio da
+               mesmo número de elementos (1%).                                      expressão:
+
+
+
+                          PERCENTIS
+                                                                                • 2.ª etapa: identificar a posição do percentil na coluna de
+          QUARTIS PARA DADOS AGRUPADOS EM CLASSES:                                  frequências acumuladas, isto é, a frequência acumulada
+                                                                                    imediatamente igual ou superior à posição do percentil;
+• 1.ª etapa: determinar a posição do percentil, por meio da                     • 3.ª etapa: verificar o valor da variável que corresponde a essa
+  expressão:                                                                        posição.
+
+
+                                                                                               PERCENTIS PARA DADOS NÃO AGRUPADOS:
+• 2.ª etapa: identificar a posição do percentil na coluna de
+  frequências acumuladas, isto é, a frequência acumulada                        • 1.ª etapa: determinar a posição do percentil, por meio da
+  imediatamente igual ou superior à posição do percentil;                           expressão:
+• 3.ª  etapa: verificar as informações     referentes     à    classe
+  correspondente a essa posição; e
+• 4.ª etapa: calcular o valor do percentil por meio da fórmula
+  apresentada a seguir, que consiste em uma variação da fórmula
+  da mediana para dados agrupados em classes:                                   • 2.ª etapa: identificar a posição mais próxima do rol;
+                                                                                • 3.ª etapa: verificar o valor que está ocupando essa posição.
+
+
+                                                                                                                                         PERCENTIS
+                                                        https://t.me/KakashiAssinaturasBot                                           ESTRATÉGIA CONCURSOS
+                                                                         RESUME CINCO MEDIDAS DESCRITIVAS DE UM CONJUNTO DE DADOS:
+BOX PLOT (BOX-AND-WHISKER)                                                      •   o valor mínimo;
+
+                                                                                •   o primeiro quartil;
+
+                                                                                •   a mediana;
+ FERRAMENTA    GRÁFICA   UTILIZADA   NA   ANÁLISE                               •   o terceiro quartil;
+ EXPLORATÓRIA DE DADOS QUE PERMITE VISUALIZAR A
+ DISTRIBUIÇÃO DOS DADOS E OS VALORES DISCREPANTES
+                                                                                •   o valor máximo.
+ (OUTLIERS).
+                                                                                                          A    DISTÂNCIA    INTERQUARTÍLICA       (OU
+                                                                                                          AMPLITUDE      INTERQUARTÍLICA,     OU
+                                                                                                          INTERVALO INTERQUARTÍLICO) É CALCULADA
+                                                                                                          PELA FÓRMULA:
+
+
+
+
+                                                                                                                                          BOX PLOT
+                                           https://t.me/KakashiAssinaturasBot                                                        ESTRATÉGIA CONCURSOS
+

@@ -1,0 +1,1095 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 04_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Passo Estratégico de Raciocínio Lógico
+---
+
+# Passo Estratégico de Raciocínio Lógico
+
+Aula 03
+                          Receita Federal (Analista Tributário)
+                     Passo Estratégico de Raciocínio Lógico
+                                                   Matemático
+
+                                                        Autor:
+                                         Allan Maux Santana
+
+                                          07 de Outubro de 2025
+
+---
+
+      Allan Maux Santana
+      Aula 03
+
+                                                                                     Índice
+1) Simulado Estruturas Lógicas - RLM
+
+
+2) Simulado Raciocínio Lógico
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           29
+
+                                                             
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+                                     RACIOCÍNIO LÓGICO
+                                    QUESTÕES INÉDITAS
+
+Questões inéditas de Raciocínio Lógico 
+  Questões Propostas - Estruturas Lógicas 
+  Gabarito 
+  Questões Comentadas - Estruturas Lógicas 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                              3
+            Inserir aqui o nome do Curso
+          www.estrategiaconcursos.com.br                                                                                                      129
+             www.estrategiaconcursos.com.br                                                                                                   12
+                                       
+
+
+---
+
+   Allan
+Prof. TúlioMaux
+            LagesSantana
+Aula  00 03
+   Aula
+
+       QUESTÕES INÉDITAS DE RACIOCÍNIO LÓGICO
+
+Questões Propostas - Estruturas Lógicas
+
+Q.01 (Inédita/Passo Estratégico/2025)
+Considere a seguir proposição composta.
+“Tomou o suco e comeu o misto quente ou tomou sopa.”
+A negação lógica dessa sentença é:
+a) não tomou o suco e comeu o misto quente ou tomou a sopa.
+b) tomou o suco e não comeu o misto quente ou tomou a sopa.
+c) tomou o suco e não comeu o misto quente nem tomou a sopa.
+d) não tomou o suco ou comeu o misto quente ou tomou a sopa.
+e) não tomou o suco ou não comeu o misto quente nem tomou a sopa.
+Q.02 (Inédita/Passo Estratégico/2025)
+Assinale a alternativa que apresenta uma proposição logicamente equivalente a:
+Não é verdade que várias pessoas gostam de uvas ou outras preferem laranjas.
+a) várias pessoas não gostam de uvas e outras não preferem laranjas.
+b) várias pessoas não gostam de uvas ou outras não preferem laranjas.
+c) várias pessoas não gostam de usas ou outras preferem laranjas.
+d) várias pessoas não gostam de uvas e outras preferem laranjas.
+e) não é verdade que várias pessoas não gostam de uvas e outras preferem laranjas.
+Q.03 (Inédita/Passo Estratégico/2025)
+Considere a seguinte proposição é falsa:
+“Se a casa é grande, então o quintal é pequeno ou o jardim é grande”.
+É correto concluir que
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático    4
+            Inserir aqui o nome do Curso                                                            2
+          www.estrategiaconcursos.com.br                                                            29
+            www.estrategiaconcursos.com.br                                                          12
+                                      
+
+
+---
+
+   Allan
+Prof. TúlioMaux
+            LagesSantana
+Aula  00 03
+   Aula
+
+a) a casa é grande, o quintal não é pequeno, o jardim não é grande.
+b) a casa é grande, o quintal é pequeno, o jardim não é grande.
+c) a casa é grande, o quintal é pequeno, o jardim é grande.
+d) a casa não é grande, o quintal não é pequeno, o jardim não é grande.
+e) a casa não é grande, o quintal é pequeno, o jardim é grande.
+Q.04 (Inédita/Passo Estratégico/2025)
+A proposição “Se Manuel é casado, então Carlos é solteiro” é equivalente à
+a) Se Carlos é solteiro, então Manuel é casado.
+b) Se Carlos casado, então Manuel é solteiro.
+c) Se Carlos é solteiro, então Manuel solteiro.
+d) Se Manuel é casado, então Carlos é solteiro.
+e) Se Manuel solteiro, então Carlos é solteiro.
+Q.05 (Inédita/Passo Estratégico/2025)
+Analise a seguinte proposição: “Se Ana for aprovada em um concurso público em menos de
+um ano, então seus estudos foram eficientes ou o resultado foi eficaz.”
+A equivalência dessa proposição é
+a) Se Ana não for aprovada em um concurso em menos de um ano, estão seus estudos não
+foram eficientes e o resultado foi eficaz.
+b) se os estudos foram eficientes ou o resultado foi eficaz, então Ana foi aprovada em um
+concurso em menos de um ano.
+c) se os estudos foram eficientes e o resultado foi eficaz, então Ana foi aprovada em um
+concurso em menos de um ano.
+d) se os estudos não foram eficientes e o resultado não foi eficaz, então Ana não foi aprovada
+em um concurso em menos de um ano.
+e) se os estudos não foram eficientes ou o resultado não foi eficaz, então Ana não foi aprovada
+em um concurso em menos de um ano.
+Q.06 (Inédita/Passo Estratégico/2025)
+Se a sentença “Se a calça não é preta, então o cinto é branco” é falsa, é correto concluir que
+a) se o cinto não é branco, então a calça é preta.
+b) A calça não é preta e o cinto é branco.
+c) A calça é preta e o cinto não é branco.
+d) A calça não é preta e o cinto não é branco.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático    5
+            Inserir aqui o nome do Curso                                                            3
+          www.estrategiaconcursos.com.br                                                            29
+            www.estrategiaconcursos.com.br                                                          12
+                                      
+
+
+---
+
+   Allan
+Prof. TúlioMaux
+            LagesSantana
+Aula  00 03
+   Aula
+
+e) A calça é preta ou o cinto é azul.
+Q.07 (Inédita/Passo Estratégico/2025)
+Considere a afirmação: "Ou faço musculação ou faço natação". A negação dessa afirmação é:
+a) faço musculação se e somente se faço natação.
+b) faço musculação se e somente se não faço natação.
+c) se faço musculação, então faço natação.
+d) não faço musculação se e somente se faço natação.
+e) se não faço musculação, então não faço natação.
+
+Gabarito
+
+                           1         2          3          4           5         6          7
+
+                           E         A          A          B          D          D          A
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático    6
+            Inserir aqui o nome do Curso                                                            4
+          www.estrategiaconcursos.com.br                                                            29
+            www.estrategiaconcursos.com.br                                                          12
+                                      
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+
+ Questões Comentadas - Estruturas Lógicas
+
+ Q.01 (Inédita/Passo Estratégico/2025)
+ Considere a seguir proposição composta.
+ “Tomou o suco e comeu o misto quente ou tomou sopa.”
+ A negação lógica dessa sentença é:
+ a) não tomou o suco e comeu o misto quente ou tomou a sopa.
+ b) tomou o suco e não comeu o misto quente ou tomou a sopa.
+ c) tomou o suco e não comeu o misto quente nem tomou a sopa.
+ d) não tomou o suco ou comeu o misto quente ou tomou a sopa.
+ e) não tomou o suco ou não comeu o misto quente nem tomou a sopa.
+ Comentários:
+ Nessa questão, temos que negar a proposição dada, para tanto iremos utilizar as Leis de
+ Morgan. Da seguinte forma:
+                                          ~ (P ^ Q) = (~P) v (~Q)
+                                          ~ (P v Q) = (~P) ^ (~Q)
+ Agora basta negar a proposição dada:
+ “Tomou o suco e comeu o misto quente ou tomou sopa.”
+ “Não tomou o suco OU não comeu o misto quente NEM tomou a sopa”
+ “NEM” = E NÃO
+ Portanto, alternativa “E” resposta da questão.
+ Gabarito: E
+
+
+ Q.02 (Inédita/Passo Estratégico/2025)
+ Assinale a alternativa que apresenta uma proposição logicamente equivalente a:
+ Não é verdade que várias pessoas gostam de uvas ou outras preferem laranjas.
+ a) várias pessoas não gostam de uvas e outras não preferem laranjas.
+ b) várias pessoas não gostam de uvas ou outras não preferem laranjas.
+                                                                                                5
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       7
+      www.estrategiaconcursos.com.br                                                                29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+ c) várias pessoas não gostam de usas ou outras preferem laranjas.
+ d) várias pessoas não gostam de uvas e outras preferem laranjas.
+ e) não é verdade que várias pessoas não gostam de uvas e outras preferem laranjas.
+ Comentários:
+ Pessoal, nessa questão temos a expressão “Não é verdade que” e depois temos uma
+ disjunção (OU).
+ Não é verdade que [várias pessoas gostam de uvas ou outras prefere laranjas].
+ Desta forma, “Não é verdade que” serve para negar a disjunção. Como sabemos, a
+ negação de uma conjunção é da seguinte forma:       ==219a34==
+
+                                          P v Q = ~P ^ ~Q
+ Isto é, negamos as duas partes e trocamos a disjunção (OU) pela conjunção (E). Logo,
+ teremos a seguinte negação:
+
+          Várias pessoas não gostam de uvas e outras não preferem laranjas.
+ Portanto, alternativa “A” resposta da questão.
+ Gabarito: A
+
+
+ Q.03 (Inédita/Passo Estratégico/2025)
+ Considere a seguinte proposição é falsa:
+ “Se a casa é grande, então o quintal é pequeno ou o jardim é grande”.
+ É correto concluir que
+ a) a casa é grande, o quintal não é pequeno, o jardim não é grande.
+ b) a casa é grande, o quintal é pequeno, o jardim não é grande.
+ c) a casa é grande, o quintal é pequeno, o jardim é grande.
+ d) a casa não é grande, o quintal não é pequeno, o jardim não é grande.
+ e) a casa não é grande, o quintal é pequeno, o jardim é grande.
+ Comentários:
+ Pessoal, nessa questão é dada a seguinte condicional falsa.
+ “Se a casa é grande, então o quintal é pequeno ou o jardim é grande”.
+ Para uma condicional ser falsa temos os seguintes:
+
+                                                                                                6
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       8
+      www.estrategiaconcursos.com.br                                                                29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+ p → (q v r)
+ A condicional só será falsa se ocorrer o seguinte: V → F = F
+ (q v r) é uma disjunção que só será falsa se q e r forem falsas.
+ Logo,
+ p = a casa é grande = V
+ q = o quintal é pequeno = F
+ r = o jardim é grande = F
+ Desta forma, chamamos as seguintes conclusões:
+ - a casa é grande;
+ - o quintal não é pequeno;
+ - o jardim não é grande.
+ Portanto, alternativa “A” resposta da questão.
+ Gabarito: A
+
+
+ Q.04 (Inédita/Passo Estratégico/2025)
+ A proposição “Se Manuel é casado, então Carlos é solteiro” é equivalente à
+ a) Se Carlos é solteiro, então Manuel é casado.
+ b) Se Carlos casado, então Manuel é solteiro.
+ c) Se Carlos é solteiro, então Manuel solteiro.
+ d) Se Manuel é casado, então Carlos é solteiro.
+ e) Se Manuel solteiro, então Carlos é solteiro.
+ Comentários:
+ Pessoal, nessa questão é pedido a equivalência de uma condicional e podemos perceber
+ que todas as alternativas são apresentadas de forma condicional.
+ A proposição apresentada é a seguinte:
+ “Se Manuel é casado, então Carlos é solteiro”.
+ Logo, a equivalência será dada por:
+ P → Q = ~Q → ~ P
+ Onde,
+
+                                                                                                7
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       9
+      www.estrategiaconcursos.com.br                                                                29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+ P = Manuel é casado.
+ Q = Carlos é solteiro.
+ Logo, a equivalência será a seguinte:
+ “Se Carlos é casado, então Manuel solteiro”.
+ Portanto, alternativa “B” resposta da questão.
+ Gabarito: B
+
+
+ Q.05 (Inédita/Passo Estratégico/2025)
+ Analise a seguinte proposição: “Se Ana for aprovada em um concurso público em
+ menos de um ano, então seus estudos foram eficientes ou o resultado foi eficaz.”
+ A equivalência dessa proposição é
+ a) se Ana não for aprovada em um concurso em menos de um ano, estão seus estudos
+ não foram eficientes e o resultado foi eficaz.
+ b) se os estudos foram eficientes ou o resultado foi eficaz, então Ana foi aprovada em
+ um concurso em menos de um ano.
+ c) se os estudos foram eficientes e o resultado foi eficaz, então Ana foi aprovada em um
+ concurso em menos de um ano.
+ d) se os estudos não foram eficientes e o resultado não foi eficaz, então Ana não foi
+ aprovada em um concurso em menos de um ano.
+ e) se os estudos não foram eficientes ou o resultado não foi eficaz, então Ana não foi
+ aprovada em um concurso em menos de um ano.
+ Comentários:
+ Pessoal, nessa questão é pedido a equivalência de uma condicional e podemos perceber
+ que todas as alternativas são apresentadas de forma condicional.
+ A proposição apresentada é a seguinte:
+ “Se Ana for aprovada em um concurso público em menos de um ano, então seus
+ estudos foram eficientes ou o resultado foi eficaz.”
+ Logo, a equivalência será dada por:
+ P → (Q v R) = ~Q ^ ~R → ~ P
+ Onde,
+ P = Ana for aprovada em um concurso público em menos de um ano.
+
+                                                                                                8
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       10
+      www.estrategiaconcursos.com.br                                                                29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+ Q = seus estudos foram eficientes.
+ R = o resultado foi eficaz.
+ Logo, a equivalência será a seguinte:
+ “Se os estudos não foram eficientes e o resultado não foi eficaz, então Ana não foi
+ aprovada em um concurso em menos de um ano”.
+ Portanto, alternativa “D” resposta da questão.
+ Gabarito: D
+
+
+ Q.06 (Inédita/Passo Estratégico/2025)
+ Se a sentença “Se a calça não é preta, então o cinto é branco” é falsa, é correto concluir
+ que
+ a) Se o cinto não é branco, então a calça é preta.
+ b) A calça não é preta e o cinto é branco.
+ c) A calça é preta e o cinto não é branco.
+ d) A calça não é preta e o cinto não é branco..
+ e) A calça é preta ou a cinto é azul.
+ Comentários:
+ Primeiro iremos revisar a tabela verdade dos conectores. Conjunção (^), disjunção (v),
+ condicional (→), disjunção exclusiva (v) e bicondicional (↔).
+     • Conjunção: só será verdadeiro se as duas partes forem verdadeira (V ^ V =
+       V);
+     • Disjunção: só será falso se as duas partes forem falsas (F v F = F);
+     • Disjunção exclusiva: só será falsa se as duas partes possuírem valores lógicos
+       iguais (F v F = F; V v V = F);
+     • Condicional: só será falso de o antecedente for verdadeiro e consequente for
+       falso (V → F = F);
+     • Bicondicional: só será verdadeira se as duas partes possuírem valores lógicos
+       iguais (F ↔ F = V; V ↔ V= V).
+ Nessa questão é dada a seguinte condicional falsa.
+ “Se a calça não é preta, então o cinto é branco”.
+ Para uma condicional ser falsa temos os seguintes:
+
+                                                                                                9
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático       11
+      www.estrategiaconcursos.com.br                                                                29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+                                                    p→q
+ A condicional só será falsa se ocorrer o seguinte: V → F = F
+ Logo,
+     • p = a calça não é preta = V
+     • q = o cinto é branco = F
+ De posse dessa informação iremos analisar cada uma das alternativas.
+ Alternativa (a): Se a cinto não é branca, então a calça é preta.
+ Temos uma condicional.
+                                                    p→q
+                                                    V→F
+                                                       F
+ Logo, errada a alternativa.
+ Alternativa (b): A calça não é preta e a cinto é branco.
+ Temos uma conjunção.
+                                                     p∧q
+                                                     V∧ F
+                                                       F
+ Logo, errada a alternativa.
+ Alternativa (c): A calça é preta e a cinto não é branco.
+ Temos uma conjunção.
+                                                   ~p ∧ ~q
+                                                     F∧ V
+                                                       F
+ Logo, errada alternativa.
+ Alternativa (d): A calça não é preta e o cinto não é branco.
+ Temos uma disjunção.
+                                                     P∧ q
+                                                     V∧ V
+                                                       V
+
+                                                                                                10
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        12
+      www.estrategiaconcursos.com.br                                                                 29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+ Portanto, alternativa “D” resposta da questão.
+ Alternativa (e): A calça é preta ou a cinto é azul.
+ Temos uma disjunção.
+                                                    ~p v q
+                                                     FvF
+                                                       F
+ Logo, errada a alternativa.
+ Gabarito: D
+
+
+ Q.07 (Inédita/Passo Estratégico/2025)
+ Considere a afirmação: "Ou faço musculação ou faço natação". A negação dessa
+ afirmação é:
+ a) faço musculação se e somente se faço natação.
+ b) faço musculação se e somente se não faço natação.
+ c) se faço musculação, então faço natação.
+ d) não faço musculação se e somente se faço natação.
+ e) se não faço musculação, então não faço natação.
+ Comentários:
+ A proposição apresentada é a seguinte:
+ “Ou faço musculação ou faço natação”.
+ Onde,
+ P = faço musculação.
+ Q = faço natação.
+ Vejam que temos uma disjunção exclusiva e a sua negação é dada da seguinte forma:
+ ~(P v Q) = P ↔ Q
+ Logo,
+ “Faço musculação se e somente se faço natação”.
+ Portanto, na alternativa “A” resposta da questão.
+ Gabarito: A
+
+                                                                                                11
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático        13
+      www.estrategiaconcursos.com.br                                                                 29
+
+                                  
+
+
+---
+
+Allan Maux Santana
+Aula 03
+
+ Prof. Túlio Lages
+ Aula 00
+
+                                                                                     PROF. ALLAN MAUX
+
+                                                                                                   12
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático           14
+      www.estrategiaconcursos.com.br                                                                    29
+
+                                  
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+                                     RACIOCÍNIO LÓGICO
+                                                 SIMULADO 02
+
+Questões inéditas de Raciocínio Lógico 
+  Questões Propostas - Lógica De Argumentação 
+  Gabarito 
+  Questões Comentadas - Lógica De Argumentação 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático                                             15
+          www.estrategiaconcursos.com.br                                                                                                      29
+
+                                               
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+       QUESTÕES INÉDITAS DE RACIOCÍNIO LÓGICO
+
+Questões Propostas - Lógica De Argumentação
+
+Q.01 (Inédita/Passo Estratégico/2025)
+
+Considere as seguintes afirmações relacionada as compras feitas por Fernando durante certo
+
+dia:
+
+I - Comprou feijão ou comprou grão de bico.
+
+II - Comprou arroz ou não comprou feijão.
+
+III - Comprou farinha ou não comprou grão de bico.
+
+Sabe-se que certo dia, Fernando não comprou farinha.
+
+É correto afirmar que, nesse dia, Fernando:
+
+a) comprou grão de bico e feijão.
+
+b) não comprou grão de bico nem feijão.
+
+c) comprou feijão e não comprou arroz.
+
+d) comprou arroz e feijão.
+
+e) não comprou grão de bico nem arroz.
+
+Q.02 (Inédita/Passo Estratégico/2025)
+
+Considere as seguintes afirmações:
+
+I - Se receber um Pix, então vou ao supermercado ou não vou à feira livre.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   16
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+II - Fui à feira livre e recebi o Pix.
+
+Portanto, é incorreto afirmar que:
+
+a) Recebi o Pix ou fui à feira livre.
+
+b) Não fui ao supermercado.
+
+c) Fui à feira livre.
+
+d) Recebi o Pix e fui à feira livre.
+
+e) Fui ao supermercado.
+
+Q.03 (Inédita/Passo Estratégico/2025)
+
+A negação de “Nenhum fazendeiro canta” é:
+
+a) Pelo menos um fazendeiro canta.
+
+b) Algumas pessoas que cantam são fazendeiros.
+
+c) Todos os fazendeiros cantam.
+
+d) Todas as pessoas que cantam são fazendeiros.
+
+e) Todos os fazendeiros são seres humanos.
+
+Q.04 (Inédita/Passo Estratégico/2025)
+
+A afirmação que, do ponto de vista lógico, nega a afirmação “Todos os dados são quadrados
+
+e nenhum triângulo é reto” é:
+
+a) Nenhum dado é quadrado ou todos os triângulos são retos.
+
+b) Nenhum dado é quadrado e todos os triângulos não são retos.
+
+c) Há pelo menos um dado quadrado e pelo menos um triângulo é reto.
+
+d) Algum dado não é quadrado ou ao menos um triângulo é reto.
+
+e) Alguns dados não são quadrados e alguns triângulos não são retos.
+
+Q.05 (Inédita/Passo Estratégico/2025)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   17
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+A partir das afirmações:
+
+I. Todo médico tem muita experiência.
+
+II. Algumas pessoas que têm muita experiência são professores.
+
+É correto concluir que
+
+a) nenhum professor tem muita experiência.
+
+b) todo professor é médico.
+
+c) algum professor tem muita experiência.
+
+d) qualquer médico é professor.
+
+e) todos que tem muita experiência são médicos.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   18
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+ Allan Maux Santana
+ Aula 03
+
+Gabarito
+
+                                  1          2          3          4          5
+
+                                  D          B          A          D          C
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   19
+       www.estrategiaconcursos.com.br                                                            29
+
+                                   
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+Questões Comentadas - Lógica De Argumentação
+
+Q.01 (Inédita/Passo Estratégico/2025)
+Considere as seguintes afirmações relacionada as compras feitas por Fernando durante certo
+
+dia:
+
+I - Comprou feijão ou comprou grão de bico.
+
+II - Comprou arroz ou não comprou feijão.
+
+III - Comprou farinha ou não comprou grão de bico.
+
+Sabe-se que certo dia, Fernando não comprou farinha.
+
+É correto afirmar que, nesse dia, Fernando:
+
+a) comprou grão de bico e feijão.
+
+b) não comprou grão de bico nem feijão.
+
+c) comprou feijão e não comprou arroz.
+
+d) comprou arroz e feijão.
+
+e) não comprou grão de bico nem arroz.
+
+Comentários:
+Primeiro iremos revisar a tabela verdade dos conectores. Conjunção (^), disjunção (v), condicional
+(→), disjunção exclusiva (v) e bicondicional (↔).
+
+
+Conjunção: só será verdadeiro se as duas partes forem verdadeira (V ^ V = V);
+
+
+Disjunção: só será falso se as duas partes forem falsas (F v F = F);
+
+
+Disjunção exclusiva: só será falsa se as duas partes possuírem valores lógicos iguais (F v F = F; V v
+V = F);
+
+
+Condicional: só será falso de o antecedente for verdadeiro e consequente for falso (V → F = F);
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   20
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+Bicondicional: só será verdadeira se as duas partes possuírem valores lógicos iguais (F ↔ F = V;
+V ↔ V= V).
+
+
+Nessa questão temos certeza de que “Fernando não comprou farinha”. E iremos supor que todas
+as proposições são verdadeiras. Logo, para a proposição do item III ser verdadeira, “não comprou
+grão de bico” tem que ser verdadeira, pois para a conjunção ser verdadeira temos que ter pelo
+menos uma verdade. Logo,
+
+                            I - Comprou feijão ou Comprou grão de bico = V
+
+                              II - Comprou arroz ou não comprou feijão = V
+
+                        III - Comprou farinha ou não comprou grão de bico = V
+                                                F                          V
+
+Com isso, já sabemos o seguinte:
+Comprou farinha = F
+não comprou grão de bico = V
+Desta forma, podemos completar o restante das informações.
+Primeiro iremos completar a informação da proposição I.
+“comprou grão de bico” é falsa. Logo, para a disjunção se verdadeira “comprou feijão” tem que
+ser verdadeira. Logo,
+
+                            I - Comprou feijão ou comprou grão de bico = V
+                                                V                  F
+
+                            II - Comprou de arroz ou não comprou feijão = V
+
+                        III - Comprou farinha ou não comprou grão de bico = V
+                                                F                          V
+
+Por fim, iremos completar a proposição II.
+Já sabemos o seguinte até agora:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   21
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+    Allan Maux Santana
+    Aula 03
+
+Comprou farinha = F
+não comprou grão de bico = V
+Comprou feijão = V
+Para que a proposição II seja verdadeira, “comprou arroz” tem que ser verdadeira. Logo,
+
+                              I - Comprou feijão ou comprou grão de bico = V
+                                                  V                  F
+
+                                II - Comprou arroz ou não comprou feijão = V
+                                                      V                  F
+
+                          III - Comprou farinha ou não comprou grão de bico = V
+                                                  F                          V
+
+Conclusão:
+P - Comprou feijão = V
+Q - não comprou grão de bico = V
+R - Comprou arroz = V
+Comprou farinha = F
+Com essas conclusões iremos analisar cada uma das alternativas.
+Letra A – Errada. comprou grão de bico e feijão.
+Simbolicamente temos,
+~Q ^ P
+F^V
+F
+Letra B – Errada. não comprou grão de bico nem feijão.
+Simbolicamente temos,
+Q ^ ~P
+V^F
+F
+Letra C – Errada. comprou feijão e não comprou arroz.
+Simbolicamente temos,
+P ^ ~R
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   22
+          www.estrategiaconcursos.com.br                                                            29
+
+                                      
+
+
+---
+
+    Allan Maux Santana
+    Aula 03
+
+V^F
+F
+Letra D – Correta. comprou arroz e feijão.
+Simbolicamente temos,
+RvP
+VvV
+V
+Letra E – Errada. não comprou grão de bico nem arroz.
+Simbolicamente temos,
+~Q ^ ~R
+V^F
+F
+Gabarito: D
+Q.02 (Inédita/Passo Estratégico/2025)
+Considere as seguintes afirmações:
+I - Se receber um Pix, então vou ao supermercado ou não vou à feira livre.
+II - Fui à feira livre e recebi o Pix.
+Portanto, é incorreto afirmar que:
+a) Recebi o Pix ou fui à feira livre.
+b) Não fui ao supermercado.
+c) Fui à feira livre.
+d) Recebi o Pix e fui à feira livre.
+e) Fui ao supermercado.
+Comentários:
+Primeiro iremos revisar a tabela verdade dos conectores. Conjunção (^), disjunção (v), condicional
+(→), disjunção exclusiva (v) e bicondicional (↔).
+Conjunção: só será verdadeiro se as duas partes forem verdadeira (V ^ V = V);
+Disjunção: só será falso se as duas partes forem falsas (F v F = F);
+Disjunção exclusiva: só será falsa se as duas partes possuírem valores lógicos iguais (F v F = F; V v
+V = F);
+Condicional: só será falso de o antecedente for verdadeiro e consequente for falso (V → F = F);
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   23
+          www.estrategiaconcursos.com.br                                                            29
+
+                                      
+
+
+---
+
+    Allan Maux Santana
+    Aula 03
+
+Bicondicional: só será verdadeira se as duas partes possuírem valores lógicos iguais (F ↔ F = V;
+V ↔ V= V).
+Nessa questão temos que supor que as duas proposições são verdadeiras. Logo, iremos partir da
+proposição II. Para a conjunção ser verdadeira “Fui à feira livre” será verdadeira e “recebi o Pix”
+será verdadeira.
+
+                      II - Fui à feira livre e recebi o Pix = V
+                                V                   V
+
+Agora vamos para a proposição I. Temos uma condicional. Ela só não pode ser V→ F = F. Já
+sabemos que “recebi o Pix” é verdadeira e que “não vou à feira livre” é falsa. Logo, a segunda
+parte da proposição não pode ser falsa. Logo, “vou ao supermercado” tem de ser verdadeira.
+Logo,
+
+              I - Se receber um Pix, então vou ao supermercado ou não vou à feira livre. = V
+                            V                           V                        F
+
+Conclusão:
+P - recebi o Pix = V
+Q - vou ao supermercado = V
+R - Fui à feira livre = V
+Com essas conclusões iremos analisar cada uma das alternativas.
+Letra A – Correta. Recebi o Pix ou fui à feira livre.
+Simbolicamente temos,
+PvR
+VvV
+V
+Letra B – Errada. Não fui ao supermercado.
+Simbolicamente temos,
+~Q
+F
+Letra C – Correta. Fui à feira livre.
+Simbolicamente temos,
+R
+V
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   24
+          www.estrategiaconcursos.com.br                                                            29
+
+                                      
+
+
+---
+
+    Allan Maux Santana
+    Aula 03
+
+Letra D – Correta. Recebi o Pix e fui à feira livre.
+Simbolicamente temos,
+P^R
+V^V
+V
+Letra E – Correta. Fui ao supermercado.
+Simbolicamente temos,
+Q
+V
+Gabarito: B
+Q.03 (Inédita/Passo Estratégico/2025)
+A negação de “Nenhum fazendeiro canta” é:
+a) Pelo menos um fazendeiro canta.
+b) Algumas pessoas que cantam são fazendeiros.
+c) Todos os fazendeiros cantam.
+d) Todas as pessoas que cantam são fazendeiros.
+e) Todos os fazendeiros são seres humanos.
+Comentários:
+Negamos o “Nenhum … são” da seguinte forma:
+~(Nenhum) = Algum … = Pelo menos um ... = Ao menos um ... = No mínimo um ... = Existe ...
+A proposição a ser negada é a seguinte:
+“Nenhum fazendeiro canta”.
+A negação:
+“Pelo menos um fazendeiro canta”.
+Portanto, analisando as alternativas podemos dizer que a alternativa “A” é a correta.
+Gabarito: A
+Q.04 (Inédita/Passo Estratégico/2025)
+A afirmação que, do ponto de vista lógico, nega a afirmação “Todos os dados são quadrados
+e nenhum triângulo é reto” é:
+a) Nenhum dado é quadrado ou todos os triângulos são retos.
+b) Nenhum dado é quadrado e todos os triângulos não são retos.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   25
+          www.estrategiaconcursos.com.br                                                            29
+
+                                      
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+c) Há pelo menos um dado quadrado e pelo menos um triângulo é reto.
+d) Algum dado não é quadrado ou ao menos um triângulo é reto.
+e) Alguns dados não são quadrados e alguns triângulos não são retos.
+Comentários:
+A proposição a ser negada é a seguinte:
+“Todos os dados são quadrados e nenhum triângulo é reto”.
+Além disso, temos que negar uma conjunção.
+P = Todos os dados são quadrados
+Q = nenhum triângulo é reto
+A negação:
+~(P ^ Q) = ~P v ~Q
+
+
+Negamos o “todos … são” da seguinte forma:
+~(Todo ) = Algum … não = Pelo menos um … não = Existe … que não = Nem todos ... são
+Negamos o “Nenhum … são” da seguinte forma:
+~(Nenhum) = Algum … = Pelo menos um ... = Ao menos um ... = No mínimo um ... = Existe ...
+
+
+Portanto,
+“Algum dado não é quadrado ou ao menos um triângulo é reto”.
+Portanto, analisando as alternativas podemos dizer que a alternativa “D” é a correta.
+Gabarito: D
+Q.05 (Inédita/Passo Estratégico/2025)
+A partir das afirmações:
+I. Todo médico tem muita experiência.
+II. Algumas pessoas que têm muita experiência são professores.
+É correto concluir que
+a) nenhum professor tem muita experiência.
+b) todo professor é médico.
+c) algum professor tem muita experiência.
+d) qualquer médico é professor.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   26
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+e) todos que tem muita experiência são médicos.
+Comentários:
+Nessa questão iremos construir um diagrama lógico e a partir dele analisar cada alternativa.
+Vamos a primeira afirmação:
+I. Todo médico tem muita experiência.
+O diagrama dessa afirmação fica da seguinte forma:
+  Muita Experiência
+       Médico
+
+                                                       ==219a34==
+
+II. Algumas pessoas que têm muita experiencia são professores.
+  Muita Experiência    Professores
+
+Agora fazendo a junção das duas afirmações: Veja que temos 5 regiões.
+  Muita Experiência Professores
+
+       Médico
+
+
+       B     C        D      E
+  A
+
+Tendo como base esse diagrama final iremos analisar as alternativas.
+(a) nenhum professor tem muita experiência.
+Errada. Basta ver a região “D” do diagrama. Podemos ver que existe a possibilidade de um
+professor ter muita experiência.
+(b) todo professor é médico.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   27
+        www.estrategiaconcursos.com.br                                                            29
+
+                                     
+
+
+---
+
+  Allan Maux Santana
+  Aula 03
+
+Errado. Basta ver as regiões “D” e “E” para perceber que temos possibilidade do professor não
+ser médico.
+(c) algum professor tem muita experiência.
+Correta. Basta observar a região “D” do Diagrama para perceber que algum professor tem muita
+experiência.
+(d) qualquer médico é professor.
+Errada. Basta ver a região “B” para perceber que temos possibilidade do médico não ser professor.
+(e) todos que tem muita experiência são médicos.
+Errada. Temos as regiões “A” e “D” que não são médicos e tem muita experiência.
+
+
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Raciocínio Lógico Matemático   28
+        www.estrategiaconcursos.com.br                                                            29
+
+                                    
+
+
+---
+
+---

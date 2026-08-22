@@ -1,0 +1,101 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 12_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: Processo legislativo
+artigos_citados:
+- art. 65
+---
+
+# Processo legislativo
+
+Processo legislativo
+
+    
+
+
+---
+
+                               Informativo 1194/2025
+
+Projeto de iniciativa do chefe do Poder Executivo estadual: emenda parlamentar
+e aumento de despesa - ADI 7.145/MG
+
+
+Teses fixadas:
+
+“1. É inconstitucional dispositivo de lei decorrente de emenda parlamentar que trata de
+matéria reservada ao Chefe do Poder Executivo.
+2. É inconstitucional dispositivo de lei que importe em aumento de despesa sem que tenha
+sido realizada a estimativa de impacto orçamentário no processo legislativo.”
+
+                                
+
+
+---
+
+                              Informativo 1195/2025
+
+Hipóteses de reserva de lei complementar estadual não contidas no texto da
+Constituição Federal - ADI 7.436/SP
+
+É inconstitucional — pois configura óbice procedimental que restringe indevidamente o
+arranjo democrático-representativo desenhado pela Constituição Federal — norma de
+constituição estadual que prevê hipóteses de matérias reservadas à edição de lei
+complementar que não guardam simetria com o texto constitucional de 1988.
+
+                               
+
+
+---
+
+                                     Informativo 1186/2025
+Processo legislativo: apresentação de emenda constitutiva e necessidade de retorno à
+Casa iniciadora - ADI 6.085/DF
+
+
+É formalmente inconstitucional — por violação ao devido processo legislativo (CF/1988,
+art. 65) — dispositivo oriundo de emenda proposta pela Casa revisora a projeto de lei (PL)
+que altera o conteúdo original da proposição, mas que não retornou à Casa iniciadora
+para sua confirmação.
+ sdbsjbjjsbjam na
+ndndjkajanasbjka
+]
+jnddhsl
+sdbjsbkak
+nsakaaskjshkkaksahsk
+dsjdasjkakjakajsajjsjdj
+
+djsajsjsjjsjdkdshdkaSSJKAJHASKHDKADJSHJKSDKAJSSSADSJHSKSADHSDHJKSDHUSDHDHKKSJHSHUDSHDKUHDS
+                                   
+
+
+---
+
+                                    Informativo 1.182
+Norma que proíbe a incorporação de gratificação pelos servidores estaduais:
+modificação, via emenda parlamentar, ADPF 1.092/SE
+
+
+É constitucional lei estadual de iniciativa do Poder Executivo local que, durante sua
+tramitação, foi objeto de emendas legislativas que modificaram a natureza do projeto de lei
+ordinária para lei complementar, desde que essas emendas tenham pertinência temática e
+não impliquem em aumento de despesas.
+
+                                
+
+
+---
+
+                                     Estratégia
+                                     Concursos
+
+---

@@ -1,0 +1,1937 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 02_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- art. 100.
+- art. 150.
+- art. 169
+- art. 177
+- art. 21
+- art. 51.
+- art. 5º
+- art. 61
+sumulas_citadas:
+- súmula 97
+- súmula vinculante 27
+---
+
+# Passo Estratégico de Direito
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Administrativo
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             21 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 00
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Organização Administrativa - FGV
+
+
+2) Roteiro de Revisão - Organização Administrativa
+
+
+3) Aposta Estratégica - Organização Administrativa - FGV - Nível Superior
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           39
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 00
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                FGV
+               Desconcentração e Descentralização                                              20,36%
+              Administração Direta (órgãos públicos)                                           17,96%
+                           Características gerais das entidades da
+                                                                                                1,80%
+                                   Administração Indireta
+                           Características específicas: Autarquia,
+                                                        ==219a34==
+
+                                Fundação Pública, Agências                                     35,33%
+  Administração Indireta    Reguladoras e Agências Executivas
+                            Características específicas: Empresa
+                             Pública e Sociedade de Economia
+                                                                                               24,55%
+                          Mista. Lei das Estatais (exceto regras de
+                                    licitações e contratos)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                   3
+        www.estrategiaconcursos.com.br                                                                      39
+
+                                     
+
+
+---
+
+Tulio Lages
+Aula 00
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   4
+      www.estrategiaconcursos.com.br                                                      39
+
+                                   
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+         ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                       MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Para revisar e ficar bem preparado no assunto, você precisa, basicamente, compreender e
+memorizar os pontos a seguir:
+
+
+Organização administrativa
+
+Órgão x entidade
+
+- Órgão é a “unidade de atuação integrante da estrutura da Administração direta e da estrutura
+da Administração indireta”, nos termos do art. 1º, § 2º, inciso I da Lei 9.784/1999.
+O órgão não possui personalidade jurídica própria – é um elemento despersonalizado. São
+“centros de competência” constituídos na estrutura interna de determinada entidade política ou
+administrativa (ex: Ministérios do Poder Executivo Federal, Secretarias de Estado,
+departamentos ou seções de empresas públicas etc.).
+- Entidade é a “unidade de atuação dotada de personalidade jurídica”, nos termos do art. 1º, §
+2º, inciso II da Lei 9.784/1999.
+Uma entidade é uma pessoa jurídica, pública ou privada, abrangendo tanto as entidades
+políticas (que possuem autonomia política - capacidade de legislar e se auto-organizar – ou seja,
+são as pessoas políticas: União, Estados, Distrito Federal e Municípios), como as entidades
+administrativas (que não possuem autonomia política mas, somente, autonomia administrativa -
+ou seja, não podem legislar, limitando-se a executar as leis editadas pelas pessoas políticas. São
+entidades administrativas: as autarquias, as fundações públicas, as empresas públicas e as
+sociedades de economia mista).
+
+Entidade política x entidade administrativa
+
+- A entidade política possui autonomia política (capacidade de legislar, de inovar no direito, de
+se auto-organizar) e autonomia administrativa (capacidade de gerir seus próprios negócios),
+enquanto a entidade administrativa possui somente autonomia administrativa.
+
+Centralização x descentralização das atividades incumbidas ao Poder Público
+
+- Centralização é o desempenho direto, por parte do Estado, das tarefas a ele incumbidas, por
+intermédio de órgãos e agentes administrativos que compõem sua estrutura.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                 5
+         www.estrategiaconcursos.com.br                                                                   39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+- Descentralização é o desempenho indireto de tarefas incumbidas ao Poder Público, por
+intermédio de outras pessoas físicas ou jurídicas, sem relação de hierarquia ou subordinação
+entre o Estado e a entidade descentralizada.
+
+Descentralização política x administrativa
+
+- Na descentralização política, há criação de uma entidade política para o exercício de
+competências próprias. Ex: Estados e Municípios, que são entidades políticas dotadas de
+competência legislativa própria conferida pela CF.
+- Na descentralização administrativa, o poder central transfere parcela de suas atribuições a
+outra entidade – a chamada “entidade descentralizada”.
+
+Modalidades de descentralização administrativa
+
+- São três modalidades:
+   a) descentralização por serviços, funcional, técnica ou por outorga;
+   b) descentralização por colaboração ou delegação;
+   c) descentralização territorial ou geográfica.
+- Descentralização por serviços: é aquela que se verifica quando uma entidade política (União,
+Estados, DF e Municípios), mediante lei (em sentido formal), cria uma nova pessoa jurídica (de
+direito público ou privado) e a ela atribui a titularidade e a execução de determinado serviço
+público, o que lhe confere independência em relação à pessoa que a criou (o que não impede o
+exercício do controle de caráter finalístico por parte da entidade descentralizadora, com o
+objetivo de garantir que a entidade descentralizada não se desvie dos fins para os quais foi
+instituída. Tal controle é chamado de “tutela”.)
+A lei de criação da entidade descentralizada pode efetivamente criá-la ou simplesmente
+autorizar a sua criação e, como há transferência da titularidade do serviço, o ente
+descentralizador perde a disponibilidade sobre tal serviço, só podendo retomá-lo mediante nova
+lei, razão pela qual o prazo da outorga geralmente é indeterminado.
+Embora seja necessária lei para a criação da entidade, a definição de seu campo atuação pode
+ser feita por meio de instrumentos normativos infralegais.
+A descentralização por serviços é a que ocorre na criação das entidades da administração
+indireta: autarquias, empresas públicas, sociedades de economia mista, fundações públicas e
+consórcios públicos criados por entes federativos para a gestão associada de serviços públicos.
+- Descentralização por colaboração: é a que ocorre quando, por meio de contrato ou ato
+unilateral - não é necessária a edição de lei formal – o Estado transfere apenas a execução de
+determinado serviço público a uma pessoa jurídica de direito privado, previamente existente,
+conservando o Poder Público a titularidade do serviço – o que lhe possibilita exercitar um
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   6
+         www.estrategiaconcursos.com.br                                                      39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+controle mais amplo e rígido que na descentralização por serviço, bem como dispor do serviço
+de acordo com o interesse público, podendo alterar unilateralmente as condições de sua
+execução, aplicar sanções ou retomar a execução do serviço antes do prazo estabelecido.
+A descentralização por colaboração é a que ocorre nas concessões, permissões ou autorizações
+de serviços públicos.
+- Descentralização territorial: é a ocorre quando uma entidade local, geograficamente
+delimitada, dotada de personalidade jurídica própria, de direito público, possui capacidade
+administrativa genérica (ou seja, não regida pelo princípio da especialidade, como ocorre no
+caso das entidades da Administração Indireta) para exercer a totalidade ou a maior parte dos
+encargos públicos de interesse da coletividade – funções que normalmente são exercidas pelos
+Municípios, como distribuição de água, luz, gás, poder de polícia, proteção à saúde, educação.
+A descentralização territorial também compreende o exercício da capacidade legislativa, porém
+sem autonomia, porque subordinada às normas emanadas pelo poder central.
+A descentralização territorial é a que ocorre nos Estados unitários, como França e Portugal,
+constituídos por Departamentos, Regiões, Comunas etc.
+No Brasil, pode ocorrer atualmente na hipótese de vir a ser criado algum Território Federal, nos
+termos do art. 18, § 2º da CF/88:
+
+CF/88, art. 18, § 2º Os Territórios Federais integram a União, e sua criação, transformação em Estado ou
+reintegração ao Estado de origem serão reguladas em lei complementar.
+
+Perceba que, no Brasil, os territórios, embora possuam personalidade jurídica própria, não são
+dotados de autonomia política – não são entes federados, na verdade eles integram a União,
+consoante dispositivo transcrito acima.
+
+Desconcentração da atividade administrativa
+
+- É uma técnica administrativa de distribuição interna de atribuições, na qual a entidade (seja ela
+política ou administrativa) se desmembra em órgãos para melhorar sua organização estrutural
+com vistas a aprimorar o desempenho. Ela pode se dar em razão da matéria (ex: Ministério da
+Saúde, da Educação etc.), do grau ou da hierarquia (ex: ministérios, secretarias,
+superintendências, delegacias etc.) ou pelo critério territorial (ex: Superintendência da Receita
+Federal em São Paulo, no Rio Grande do Sul etc.).
+A atividade administrativa continua sendo exercida pela mesma pessoa jurídica, já que o órgão
+resultante da desconcentração é desprovido de personalidade jurídica própria (assim como
+qualquer órgão). Além disso, esse órgão resultante da desconcentração se subordina aos órgãos
+de maior hierarquia na estrutura organizacional. Por isso se diz que na desconcentração há
+relação de hierarquia entre os órgãos resultantes.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            7
+         www.estrategiaconcursos.com.br                                                              39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+- Tanto a descentralização quanto a desconcentração possuem fisionomia ampliativa, pois
+importam na repartição de atribuições.
+
+Centralização x concentração
+
+- A centralização ocorre quando o Estado retoma a execução direta do serviço, depois de ter
+transferido sua execução a outra pessoa. Por sua vez, na concentração, dois ou mais órgãos
+internos são agrupados em apenas um, que passa a ter natureza de órgão concentrador.
+- Os processos de centralização e de concentração possuem em comum a fisionomia restritiva,
+pois importam na agregação de atribuições no Estado.
+
+
+Administração Direta
+
+- É o conjunto de órgãos que integram as pessoas políticas do Estado (União, Estados, DF e
+Municípios), aos quais foi atribuída a competência para o exercício de atividades administrativas,
+de forma centralizada (princípio da centralização).
+
+Composição
+
+- Nos termos do art. 4º, inciso I do Decreto Lei 200/1967, a Administração Direta Federal é
+composta pelos “serviços integrados na estrutura administrativa da Presidência da República e
+dos Ministérios”.
+Essa previsão legal leva em conta somente o Poder Executivo, mas é importante destacar que
+compõem, ainda, a Administração Direta da União os órgãos dos demais Poderes e do
+Ministério Público pertencentes à esfera federal.
+Nas esferas estadual, distrital e municipal, deve ser observado a simetria com a esfera federal,
+lembrando, por outro lado, que nos Municípios não há Poder Judiciário nem Ministério Público
+próprios.
+
+Teorias que buscam explicar as relações do Estado com seus agentes
+
+São elas: teoria do mandato, teoria da representação e teoria do órgão.
+   a) Na teoria do mandato, entendeu-se que os agentes eram mandatários do Estado, mas a
+   ideia não vingou porque não explicava como o Estado poderia outorgar o mandato, já que
+   não possui vontade própria.
+   b) Na teoria da representação, entendia-se que os agentes eram representantes do Estado,
+   sendo equiparados à figura do tutor ou curador das pessoas incapazes.
+   A teoria foi criticada justamente por equiparar o Estado ao incapaz que, ao contrário daquele,
+   não possui capacidade para designar representante para si mesmo, bem como porque, da
+   mesma forma que a teoria do mandato, permitia ao mandatário ou ao representante
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo      8
+         www.estrategiaconcursos.com.br                                                        39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+   ultrapassar os poderes da representação sem que o Estado respondesse por esses atos
+   perante terceiros prejudicados.
+   c) Na teoria do órgão, que é a mais aceita atualmente, presume-se que a pessoa jurídica
+   manifesta sua vontade por meio dos órgãos que a compõem. Estes, por sua vez, são
+   compostos de agentes. Desse modo, quando os agentes agem, é como se o próprio Estado o
+   fizesse.
+   Nessa teoria, há substituição da ideia de representação pela de imputação, pois ao invés de
+   considerar que o Estado outorga a responsabilidade ao agente, passou-se a considerar que os
+   atos praticados por seus órgãos, por meio da manifestação de vontade de seus agentes, são
+   imputados ao Estado.
+Criação e extinção de órgãos públicos
+- Ocorrem por meio de lei em sentido formal.
+No âmbito do Poder Executivo, a iniciativa de lei cabe ao chefe desse Poder, consoante CF,/88
+art. 61, § 1º, inciso II, alínea “e”:
+
+CF/88, art. 61, § 1º São de iniciativa privativa do Presidente da República as leis que: (...)
+II - disponham sobre: (...)
+e) criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. 84,
+VI;
+
+No âmbito do Poder Judiciário, a iniciativa de lei cabe ao Supremo Tribunal Federal, aos
+Tribunais Superiores e aos Tribunais de Justiça, conforme o caso, nos termos da CF/88, art. 96,
+inciso II, alíneas “c” e “d”:
+
+CF/88, art. 96. Compete privativamente: (...)
+II - ao Supremo Tribunal Federal, aos Tribunais Superiores e aos Tribunais de Justiça propor ao Poder
+Legislativo respectivo, observado o disposto no art. 169: (...)
+c) a criação ou extinção dos tribunais inferiores;
+d) a alteração da organização e da divisão judiciárias;
+
+O Ministério Público possui a competência para dar início ao processo legislativo referente à
+própria organização administrativa, em razão, respectivamente, do previsto na CF/88, art. 127, §
+2º:
+
+CF/88, art. 127, 2º Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo,
+observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e
+serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política
+remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento.”
+
+O Tribunal de Contas também possui a competência para dar início ao processo legislativo
+referente a sua organização administrativa, em razão do disposto na CF/88, art. 73, caput:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            9
+         www.estrategiaconcursos.com.br                                                              39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+CF/88, art. 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito
+Federal, quadro próprio de pessoal e jurisdição em todo o território nacional, exercendo, no que couber,
+as atribuições previstas no art. 96.
+
+No âmbito do Poder Legislativo, o autor José dos Santos Carvalho Filho entende que a criação e
+a extinção de seus órgãos, bem como as normas sobre sua organização e funcionamento não
+dependem de lei, mas tão somente de atos administrativos praticados pelas respectivas Casas
+(CF/88, art. 51, IV e art. 52, XIII).
+
+CF/88, art. 51. Compete privativamente à Câmara dos Deputados: (...)
+IV – dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos,
+empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração,
+observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
+(...)
+Art. 52. Compete privativamente ao Senado Federal: (...)
+XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos
+cargos, empregos e funções de seus serviços, e a iniciativa de lei para fixação da respectiva remuneração,
+observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
+
+Entretanto, para fins de prova, é recomendável que seja adotado a regra geral de que os órgãos
+públicos necessitam de lei para serem criados. Somente se o examinador abordar de forma
+expressa o caso específico do Poder Legislativo, recomendamos ao candidato que considere o
+entendimento de José dos Santos Carvalho Filho.
+Capacidade processual dos órgãos públicos
+- Em regra, os órgãos públicos não possuem capacidade processual, porque não possuem
+personalidade jurídica – a capacidade, em regra, é da própria entidade a quem pertencem.
+Exceções:
+   a) a jurisprudência reconhece a capacidade processual de certos órgãos públicos autônomos e
+   independentes para a impetração de mandado de segurança na defesa de suas prerrogativas
+   e competências (só neste tipo de caso), quando violadas por ato de outro órgão.
+   b) o Código de Defesa do Consumidor, em seu artigo 82, inciso III, dispõe que são
+   legitimados para promover a liquidação e execução de indenização “as entidades e órgãos da
+   administração pública, direta ou indireta, ainda que sem personalidade jurídica,
+   especificamente destinados à defesa dos interesses e direitos protegidos por este Código”.
+Classificação dos órgãos públicos
+Quanto à estrutura:
+   a) Órgãos simples ou unitários: são aqueles que não possuem subdivisões em sua estrutura
+   interna (não há outros órgãos abaixo dele), desempenhando suas atribuições de forma
+   concentrada.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             10
+         www.estrategiaconcursos.com.br                                                                39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+   b) Órgãos compostos: reúnem em sua estrutura diversos órgãos menores, subordinados
+   hierarquicamente, como resultado da desconcentração.
+   CUIDADO! Os órgãos simples podem ser compostos por mais de um agente!
+Quanto à atuação funcional:
+   a) Órgãos singulares ou unipessoais: são aqueles cujas decisões dependem da atuação isolada
+   de um único agente, seu chefe e representante. Ex: Presidência da República, cujas decisões
+   são tomadas pelo Presidente.
+   b) Órgãos colegiados ou pluripessoais: são aqueles cuja atuação e decisões são tomadas pela
+   manifestação conjunta de seus membros. Ex: Congresso Nacional, Supremo Tribunal Federal.
+   CUIDADO! Os órgãos singulares podem ser compostos por mais de uma agente, embora suas
+   decisões sejam tomadas apenas por seu chefe!
+Quanto à posição estatal:
+   a) Órgãos independentes: são aqueles previstos diretamente na Constituição Federal,
+   representando os três Poderes, nas esferas federal, estadual e municipal, não sendo
+   subordinados hierarquicamente a agentes políticos. Exemplo: Presidência da República,
+   Câmara dos Deputados, Senado Federal, STF, STJ e demais tribunais, bem como seus
+   simétricos nas demais esferas da Federação. Incluem-se ainda o Ministério Público da União e
+   o do Estado e os Tribunais de Contas da União, dos Estados e dos Municípios.
+   b) Órgãos autônomos: são aqueles que se situam na cúpula da Administração, logo abaixo
+   dos órgãos independentes, auxiliando-os diretamente. Possuem ampla autonomia
+   administrativa, financeira e técnica, mas não independência. Caracterizam-se como órgãos
+   diretivos. Ex: os Ministérios, as Secretarias de Estado etc.
+   c) Órgãos superiores: possuem atribuições de direção, controle e decisão, mas sempre estão
+   sujeitos ao controle hierárquico de uma instância mais alta. Não têm nenhuma autonomia, seja
+   administrativa seja financeira. Exemplo: Procuradorias, Coordenadorias, Gabinetes.
+   d) Órgãos subalternos: são todos aqueles que exercem atribuições de mera execução, com
+   reduzido poder decisório, estando sempre subordinados a vários níveis hierárquicos
+   superiores. Exemplo: seções de expediente, de pessoal, de material etc.
+Órgãos burocráticos: aqueles que estão a cargo de uma só pessoa física ou de várias pessoas
+ordenadas numa estrutura hierárquica vertical (ex: uma Diretoria, em que existe um diretor e
+várias pessoas a ele ligadas). Fazem contraponto aos órgãos colegiados, que são formados por
+várias pessoas físicas ordenadas horizontalmente, ou seja, em uma relação de coordenação, e
+não de hierarquia.
+Órgãos ativos, consultivos ou de controle: possuem como função primordial, respectivamente, o
+desenvolvimento de uma administração ativa, de uma atividade consultiva ou de controle sobre
+outros órgãos.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   11
+         www.estrategiaconcursos.com.br                                                      39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+    Aula 00
+
+Administração Indireta
+
+- É o conjunto de pessoas jurídicas (desprovidas de autonomia política) que, vinculadas à
+Administração Direta, têm a competência para o exercício de atividades administrativas, de
+forma descentralizada.
+- Administração Pública descentraliza suas atividades para buscar eficiência no desempenho das
+atividades estatais, notadamente em razão da autonomia administrativa, gerencial e financeira,
+bem como da disponibilidade de pessoal especializado com que contam as entidades da
+Administração Indireta.
+
+Composição
+
+- De acordo com Hely Lopes Meireles, a administração indireta é constituída dos serviços
+atribuídos a pessoas jurídicas diversas da União, de direito público ou de direito privado,
+vinculadas a um órgão da Administração Direta, mas administrativa e financeiramente
+autônomas.
+- Previstos de maneira expressa na legislação, temos as seguintes entidades como componentes
+da Administração Indireta:
+    a) Autarquias (art. 4º do Decreto Lei 200/1967);
+    b) Empresas Públicas (art. 4º do Decreto Lei 200/1967);
+    c) Sociedades de Economia Mista (art. 4º do Decreto Lei 200/1967);
+    d) Fundações Públicas (art. 4º do Decreto Lei 200/1967);
+    e) Consórcios públicos de direito público, constituídos sob a forma de associações públicas
+    (art. 6º, § 1º da Lei 11.107/2005).
+
+Porém, as bancas vêm adotando o entendimento de Di Pietro sobre a composição da
+Administração Indireta, qual seja:
+
+          “Compõem a Administração Indireta, no direito positivo brasileiro, as autarquias,
+          as fundações instituídas pelo Poder Público, as sociedades de economia mista,
+          as empresas públicas, as subsidiárias dessas empresas e os consórcios
+          públicos.”1
+
+1
+  Di Pietro, Maria Sylvia Zanella. Direito Administrativo - 38ª Edição 2025 (Portuguese Edition) (p.465).
+(Function). Kindle Edition.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           12
+          www.estrategiaconcursos.com.br                                                              39
+
+                                       
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+Vale destacar que a autora considera tanto os consórcios públicos de direito público quanto os
+de direito privado como integrantes da Administração Indireta.
+
+- Embora sejam mais comuns entidades descentralizadas vinculadas ao Poder Executivo, não há
+empecilho para que haja entidades da administração indireta vinculadas a órgãos dos demais
+poderes.
+
+- Principais pontos em comum entre as entidades da Administração Indireta:
+
+As autarquias, fundações públicas, empresas públicas e sociedades de economia mista
+apresentam três pontos em comum: necessidade de lei específica para serem criadas,
+personalidade jurídica própria e patrimônio próprio.
+Além disso, se submetem ao princípio da especialização (devem ser instituídas para servir a uma
+finalidade específica).
+
+- Principais diferenças entre as entidades da Administração Indireta:
+
+   a) Finalidade para as quais são criadas: as autarquias são indicadas para o desempenho de
+   atividades típicas de Estado; as fundações públicas, para o desempenho de atividades de
+   utilidade pública; e as empresas públicas e sociedades de economia mista, para a exploração
+   de atividades econômicas.
+   b) Natureza jurídica das entidades: as autarquias são pessoas jurídicas de direito público; as
+   empresas públicas e sociedades de economia mista são pessoas jurídicas de direito privado; já
+   as fundações podem ser tanto de direito público quanto de direito privado.
+   c) Criação e instituição das entidades: nos termos do inciso XIX do art. 37 da CF, a criação de
+   autarquias (por serem pessoas de direito público) se dá mediante lei específica,
+   diferentemente do que ocorre para as sociedades de economia mista e empresas públicas
+   (por serem pessoas de direito privado), que necessitam de uma lei que autorize a sua
+   instituição, senão vejamos:
+
+CF/88, art. 37, XIX - somente por lei específica poderá ser criada autarquia e autorizada a instituição de
+empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste
+último caso, definir as áreas de sua atuação;
+
+   Assim, enquanto para as autarquias a lei específica já as institui diretamente, para as
+   sociedades de economia mista e empresas públicas a lei específica tem o papel de autorizar
+   sua instituição, devendo ainda outras providências serem tomadas para a criação da
+   personalidade jurídica, notadamente o registro no órgão competente.
+   Já com relação às fundações, se forem de direito público, sua criação e instituição obedece à
+   mesma regra das autarquias (lei específica, somente); se forem de direito privado, às mesmas
+   regras das sociedades de economia mista e empresas públicas (lei específica autorizadora +
+   registro no órgão competente).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             13
+         www.estrategiaconcursos.com.br                                                                39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+   Como na maioria das vezes as entidades a serem criadas comporão a Administração Indireta
+   do Poder Executivo, a lei específica de sua instituição ou autorização de sua instituição será de
+   iniciativa privativa do chefe do Poder Executivo, em razão do disposto na CF, art. 61, § 1º,
+   inciso II, alínea “e”:
+
+CF/88, art. 61, § 1º São de iniciativa privativa do Presidente da República as leis que: (...)
+II - disponham sobre: (...)
+e) criação e extinção de Ministérios e órgãos da administração pública, observado o disposto no art. 84,
+VI;
+
+   Entretanto, se a entidade a ser criada ou extinta excepcionalmente se vincular ao Poder
+   Legislativo ou Judiciário, a iniciativa de lei será do respectivo chefe de Poder.
+
+Supervisão ministerial
+
+- Supervisão ministerial, ou tutela administrativa, é o controle finalístico, sem subordinação,
+realizado pela administração direta sobre a indireta, caracterizando um vínculo que tem por
+objetivos principais a verificação dos resultados alcançados pelas entidades descentralizadas, a
+harmonização de suas atividades com a política e a programação do Governo, a eficiência de sua
+gestão e a manutenção de sua autonomia administrativa, operacional e financeira.
+
+- Aspectos sobre os quais se distribui a supervisão ministerial:
+
+   a) controle político, pelo qual os dirigentes das entidades da administração indireta são
+   escolhidos e nomeados pela autoridade competente da administração direta, razão por que
+   exercem eles função de confiança;
+   b) controle institucional, que obriga a entidade a caminhar sempre no sentido dos fins para os
+   quais foi criada;
+   c) controle administrativo, que permite a fiscalização dos agentes e das rotinas administrativas
+   da entidade;
+   d) controle financeiro, pelo qual são fiscalizados os setores financeiro e contábil da entidade.
+- Tutela ordinária x tutela extraordinária
+A tutela ordinária ocorre quando o controle sobre a entidade se dá nos estritos limites da lei.
+Logo, a tutela ordinária depende de lei para ser exercida.
+Por sua vez, a tutela extraordinária ocorre quando não há disposição legal para
+instrumentalização do controle, sendo possível somente em circunstâncias excepcionais de
+descalabro administrativo ou distorções de comportamento da autarquia, para coibir desmandos
+sérios.
+
+Autarquias
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           14
+         www.estrategiaconcursos.com.br                                                              39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+- Autarquia é pessoa jurídica de direito público, criada por lei, com capacidade de
+autoadministração, para o desempenho de serviço público descentralizado, mediante controle
+administrativo exercido nos termos da lei (Di Pietro).
+Já o Decreto-Lei 200/1967, em seu o art. 5º, conceitua autarquia nos seguintes termos:
+
+Decreto-Lei 200/1967, art. 5º, I - Autarquia - o serviço autônomo, criado por lei, com personalidade
+jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública, que
+requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada.
+
+- Criação e extinção das autarquias:
+
+A criação de autarquias depende apenas da edição de uma lei específica, consoante a CF/88,
+art. 37, inciso XIX:
+
+CF/88, art. 37, XIX – somente por lei específica poderá ser criada autarquia e autorizada a instituição de
+empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste
+último caso, definir as áreas de sua atuação;
+
+A extinção depende também apenas da edição de uma lei específica, em razão do princípio da
+simetria das formas jurídicas.
+
+- Início da personalidade jurídica das autarquias:
+
+Ocorre a partir da entrada em vigor da lei específica que cria a autarquia, salvo se esta lei criar
+outras exigências ou condições. Assim, a partir da entrada em vigor da lei específica de criação,
+as autarquias adquirem personalidade jurídica própria e tornam-se capazes de contrair direitos e
+obrigações.
+A lei de criação e extinção das autarquias deve ser da iniciativa privativa do chefe do Poder
+Executivo (CF/88, art. 61, § 1º, “e”).
+Logicamente, se a entidade a ser criada ou extinta se vincular ao Poder Legislativo ou Judiciário,
+a iniciativa da lei será do respectivo chefe de Poder.
+
+- Natureza jurídica das atividades desempenhadas pelas autarquias:
+
+Como regra, são atividades próprias e típicas de Estado, sem caráter econômico.
+
+- Regime jurídico das autarquias:
+
+Estão submetidas ao regime jurídico de direito público, em razão de possuírem personalidade
+de direito público. As autarquias possuem as prerrogativas e sujeições características do regime
+jurídico-administrativo, inerentes às pessoas jurídicas de direito público de natureza política
+(União, Estados, DF e Municípios).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             15
+         www.estrategiaconcursos.com.br                                                                39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+Em regra, os atos que praticam são atos administrativos, contando, portanto, com todos os seus
+atributos    - presunção de legitimidade ou veracidade, imperatividade, exigibilidade ou
+coercibilidade e autoexecutoriedade.
+Sobre o regime de contratação, as autarquias devem realizar licitação pública para efetuarem
+suas contratações, ressalvados os casos especificados na legislação, consoante art. 37, inciso XXI
+da CF/88:
+
+CF/88, art. 37, XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e
+alienações serão contratados mediante processo de licitação pública que assegure igualdade de
+condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas
+as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de
+qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.
+
+Além disso, os contratos celebrados pelas autarquias também são, em regra, contratos
+administrativos (alguns poucos podem ser de natureza eminentemente privada), sujeitos ao
+mesmo regime jurídico aplicável aos contratos celebrados pelos órgãos da administração direta.
+
+- Principais prerrogativas aplicáveis às autarquias:
+
+   a) prazos processuais em dobro, conforme art. 183, caput, do Código de Processo Civil:
+
+CF/88, art. 183. A União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e
+fundações de direito público gozarão de prazo em dobro para todas as suas manifestações processuais,
+cuja contagem terá início a partir da intimação pessoal.
+
+   b) prescrição quinquenal, pela qual as dívidas e direitos em favor de terceiros contra a
+   autarquia prescrevem em cinco anos;
+   c) impenhorabilidade, inalienabilidade e imprescritibilidade de seus bens;
+   d) regime de precatórios para pagamento de dívidas decorrentes de condenações judiciais,
+   conforme art. 100, caput, da CF/88:
+
+CF/88, art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e
+Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de
+apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de
+pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
+
+   e) Possibilidade de inscrição de seus créditos em dívida ativa e a sua respectiva cobrança por
+   meio de execução fiscal (Lei 6.830/1980);
+   f) imunidade tributária sobre o patrimônio, renda ou serviços vinculados a suas finalidades
+   essenciais ou às delas decorrentes, consoante CF, art. 150, § 2º:
+
+CF/88, art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos
+Estados, ao Distrito Federal e aos Municípios: (...)
+VI - instituir impostos sobre:
+a) patrimônio, renda ou serviços, uns dos outros; (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo          16
+         www.estrategiaconcursos.com.br                                                             39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+§ 2º A vedação do inciso VI, "a", é extensiva às autarquias e às fundações instituídas e mantidas pelo
+Poder Público, no que se refere ao patrimônio, à renda e aos serviços, vinculados a suas finalidades
+essenciais ou às delas decorrentes.
+
+   Pelo teor do dispositivo, nota-se que essa imunidade tributária não alcança os bens ou
+   serviços com destinação diversa das finalidades da autarquia, estando sujeitos, portanto, à
+   incidência de impostos;
+   g) não sujeição à falência, sendo o ente federado que a criou subsidiariamente responsável
+   pela insolvência da autarquia.
+
+- Classificação das autarquias:
+
+Quanto à capacidade administrativa:
+a) geográfica ou territorial, que conta com capacidade administrativa genérica (ex: Territórios
+Federais);
+b) de serviço ou institucional, que conta com capacidade administrativa específica, ou seja,
+limitada a determinado serviço que lhe é atribuído por lei (ex: todas as demais autarquias).
+Quanto à estrutura:
+a) fundacionais: corresponde à figura da fundação de direito público, ou seja, pessoa jurídica
+dotada de patrimônio vinculado a um fim que irá beneficiar pessoas indeterminadas, que não a
+integram como membros ou sócios (exemplo: Hospital das Clínicas, da Universidade de São
+Paulo)
+b) corporativas ou associativas: constituída por sujeitos unidos (ainda que compulsoriamente)
+para a consecução de um fim de interesse público, mas que diz respeito aos próprios associados,
+como ocorre com as entidades de fiscalização do exercício de profissões regulamentadas (CREA,
+CFC, CONFEA etc.).
+Quanto ao nível federativo: federais, estaduais, distritais e municipais, conforme instituídas pela
+União, pelos Estados, pelo DF e pelos Municípios, respectivamente, não sendo admissíveis
+autarquias interestaduais ou intermunicipais, ou seja, vinculadas simultaneamente a mais de uma
+entidade política, em razão de a gestão associada de serviços públicos dever ser promovida pela
+celebração de convênios ou por meio de consórcios públicos, nos termos do art. 241 da CF:
+
+CF/88, art. 241. A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os
+consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão
+associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e
+bens essenciais à continuidade dos serviços transferidos.
+
+- Entendimento do STF com relação à OAB:
+
+O STF (ADI 3.026/DF) entende que a OAB é um serviço independente não integrante da
+Administração Pública. Uma entidade ímpar, sui generis, que possui algumas características
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             17
+         www.estrategiaconcursos.com.br                                                                39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+típicas de uma autarquia (personalidade jurídica de direito público, desempenho de atividade
+típica de Estado - fiscalização do exercício da advocacia, exercendo poder de polícia e poder
+disciplinar) mas que não se confunde com um conselho fiscalizador de profissão regulamentada.
+
+- Autarquias em regime especial:
+
+São autarquias dotadas de independência ainda maior que as demais autarquias, em razão de a
+lei ter-lhes conferido prerrogativas específicas e não aplicáveis às autarquias em geral, como, por
+exemplo, o mandato fixo e a estabilidade relativa de seus dirigentes.
+
+- Natureza jurídica do patrimônio das autarquias:
+
+São bens públicos, de acordo com o art. 98 do Código Civil:
+
+Código Civil, Art. 98. São públicos os bens do domínio nacional pertencentes às pessoas jurídicas de
+direito público interno; todos os outros são particulares, seja qual for a pessoa a que pertencerem.
+
+Por serem públicos, os bens das autarquias gozam das proteções conferidas aos bens públicos
+em geral: impenhorabilidade, imprescritibilidade, restrições à alienação etc.
+
+- Regime de pessoal das autarquias:
+
+Regime estatutário ou celetista, conforme definido em lei (com o fim do regime jurídico único, é
+possível que um ente federativo admita seus agentes públicos tanto sob regime estatutário
+quanto sob regime celetista).
+
+                                     Extinção do Regime Jurídico Único (RJU)
+
+     A EC 19/1998 alterou o art. 39, caput, da CF/88, no sentido de extinguir o Regime Jurídico
+     Único. Porém, em 2007 o STF suspendeu cautelarmente a eficácia da nova redação,
+     voltando a vigorar a redação original que prevê o RJU, que é a seguinte (cuidado, essa
+     redação não é mais válida, conforme se verificará mais adiante):
+
+     “Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua
+     competência, regime jurídico único e planos de carreira para os servidores da administração pública
+     direta, das autarquias e das fundações públicas.”
+
+     No RJU, não há obrigatoriedade de que seja um regime jurídico estatutário, mas sim, único,
+     unificado.
+
+     Entretanto, em 2024, o STF2 revogou a referida medida cautelar, declarando a
+     constitucionalidade do dispositivo, passando a valer a partir de então (sem eficácia
+     retroativa) a redação prevista na EC 19/1998, qual seja (guarde a redação a seguir, que é a
+
+2
+    STF – ADI 2.135
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           18
+           www.estrategiaconcursos.com.br                                                              39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+   válida!):
+
+   “CF/88, art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de
+   política de administração e remuneração de pessoal, integrado por servidores designados pelos
+   respectivos Poderes.”
+
+   Portanto, atualmente encontra-se extinto o Regime Jurídico Único que era previsto no
+   caput do art. 39 da CF/88 antes da EC 19/1999.
+
+   Mesmo não existindo mais a necessidade de observância pelos entes públicos de um único
+   regime jurídico (RJU) para admitir seus servidores (ou o regime estatutário ou o celetista), as
+   regras de realização de concurso público para a admissão de servidores continuam válidas
+   (art. 37, II, da CF/88), qualquer que seja o regime jurídico aplicável (portanto, os entes
+   públicos deverão realizar concurso público para selecionar servidores, mesmo que optem
+   por contratá-los com base na CLT).
+
+- Nomeação dos dirigentes das autarquias:
+
+Os dirigentes das autarquias são nomeados pelo chefe do Poder Executivo, que detém tal
+competência por força do art. 84, inciso XXV da CF/88, reproduzido a seguir:
+
+CF/88, art. 84. Compete privativamente ao Presidente da República: (...)
+XXV - prover e extinguir os cargos públicos federais, na forma da lei;
+
+No caso de nomeação para ocupação do cargo de Presidente ou diretor do Banco Central do
+Brasil (lembrar que o Bacen é uma autarquia), a CF/88 exige prévia aprovação do Senado
+Federal, por voto secreto, após arguição pública (famosa “sabatina”) do nome escolhido pelo
+Presidente da República, conforme art. 52, inciso III, alínea “d” da CF/88:
+
+CF/88, art. 52. Compete privativamente ao Senado Federal: (...)
+III - aprovar previamente, por voto secreto, após argüição pública, a escolha de: (...)
+d) Presidente e diretores do banco central; (...)
+f) titulares de outros cargos que a lei determinar;
+
+Além disso, é possível que a exigência de aprovação prévia do futuro dirigente por parte do
+Senado decorra somente de lei, com fundamento no art. 52, inciso III, alínea “f” da CF/88,
+reproduzido também acima. Isso ocorre, por exemplo, para a nomeação dos dirigentes das
+agências reguladoras.
+Por outro lado, no âmbito dos Estados, “as Constituições estaduais não podem estabelecer
+regras que prevejam a submissão das nomeações de dirigentes de autarquias e fundações
+públicas à prévia aprovação da Assembleia Legislativa” (STF, ADI 6775).
+
+- Foro competente para o processamento e julgamento das causas que envolvem autarquias:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo        19
+         www.estrategiaconcursos.com.br                                                           39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+No caso das autarquias federais, as causas judiciais devem ser processadas e julgadas pela
+Justiça Federal. No caso das estaduais e municipais, na Justiça Estadual.
+Nos casos de litígios funcionais entre a autarquia e seu pessoal regido pelo regime jurídico
+estatutário (servidores públicos), a causa deve ser processada pela Justiça Federal (se for
+autarquia federal) ou pela Justiça Estadual (se for autarquia estadual ou municipal). Se o litígio
+for entre a autarquia e seu pessoal regido pelo regime trabalhista (empregados públicos), será
+processado e julgado pela Justiça do Trabalho (seja autarquia federal, estadual ou municipal).
+No caso em que a parte seja servidor público estatutário egresso do regime trabalhista por
+conta da instituição do regime jurídico único, a Justiça do Trabalho será competente para
+processar e julgar reclamação relativa a vantagens trabalhistas anteriores à instituição daquele
+regime, em razão do previsto na súmula 97 do STJ:
+
+                                                  JURISPRUDÊNCIA
+ Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a
+ vantagens trabalhistas anteriores à instituição do regime jurídico único.
+
+Por fim, nos casos em que a Anatel não seja litisconsorte passiva necessária, assistente, nem
+opoente, compete à Justiça estadual julgar causas entre consumidor e concessionária de serviço
+público de telefonia (súmula vinculante 27).
+- Territórios federais e autarquias territoriais:
+A doutrina costuma chamar os territórios federais de "autarquias territoriais", porque os aqueles
+possuem personalidade jurídica de direito público, assim como as autarquias.
+Porém, os territórios diferem das autarquias, uma vez que estas possuem capacidade
+administrativa específica, isto é, recebem da lei competência para atuar numa área determinada
+(princípio da especialidade); já os territórios possuem capacidade administrativa genérica, ou
+seja, podem atuar em diversas áreas para atender às várias necessidades da coletividade.
+
+Fundações públicas
+
+- O art. 5º, IV do Decreto-Lei 200/1967 conceitua fundação pública da seguinte forma:
+
+Decreto-Lei 200/1967, art. 5º, IV, Fundação Pública - a entidade dotada de personalidade jurídica de
+direito privado, sem fins lucrativos, criada em virtude de autorização legislativa, para o desenvolvimento
+de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia
+administrativa, patrimônio próprio gerido pelos respectivos órgãos de direção, e funcionamento custeado
+por recursos da União e de outras fontes.
+
+Para Maria Sylvia Di Pietro, fundação instituída pelo poder público é o “patrimônio, total ou
+parcialmente público, dotado de personalidade jurídica, de direito público ou privado, e
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo             20
+         www.estrategiaconcursos.com.br                                                                39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+destinado, por lei, ao desempenho de atividades do Estado na ordem social, com capacidade de
+autoadministração e mediante controle da Administração Pública, nos termos da lei3”.
+
+- Fundações públicas x privadas:
+
+Ambas possuem certo objetivo social, sem finalidade lucrativa. Entretanto, as fundações públicas
+são criadas pelo Estado, a partir de patrimônio público, enquanto as privadas são criadas por
+uma pessoa privada, a partir de patrimônio privado.
+
+- Fundações públicas de direito público:
+
+É possível a instituição, pelo poder público, de fundações públicas de direito público, consoante
+doutrina majoritária e entendimento do STF (RE 101.126/RJ), embora essa possibilidade não
+esteja expressa no texto constitucional.
+As fundações públicas de direito público são consideradas uma modalidade de autarquia e por
+isso são também denominadas de “fundações autárquicas” ou “autarquias fundacionais”.
+Não se confundem, por outro lado, com as autarquias: a fundação autárquica é um patrimônio
+personalizado, destinado a uma finalidade específica, de interesse social, enquanto a autarquia é
+um serviço público personificado.
+
+- Instituição e extinção das fundações públicas:
+
+Fundações públicas de direito público: instituição mediante lei específica, iniciando sua
+personalidade com a entrada em vigor dessa lei; extinção também mediante lei.
+Fundações públicas de direito privado: autorizada sua instituição por meio de lei, sendo
+necessário ainda o registro do ato constitutivo para a aquisição de personalidade jurídica;
+extinção mediante autorização legal.
+Precedente jurisprudencial importante:
+
+                                                    JURISPRUDÊNCIA
+    “A qualificação de uma fundação instituída pelo Estado como sujeita ao regime público ou privado
+    depende: I – do estatuto de sua criação ou autorização; II – das atividades por ela prestadas. As
+    atividades de conteúdo econômico e as passíveis de delegação, quando definidas como objetos de
+    dada fundação, ainda que essa seja instituída ou mantida pelo Poder Público, podem se submeter ao
+    regime jurídico de direito privado.”4.
+
+- Regime jurídico aplicável às fundações públicas:
+
+3
+    Di Pietro, 2016, p. 542.
+4 STF – RE 716378
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       21
+           www.estrategiaconcursos.com.br                                                          39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+Fundações públicas de direito público: regime jurídico-administrativo (o mesmo aplicável às
+autarquias). Prerrogativas e características que merecem destaque:
+   a) prazo especial para contestar e recorrer;
+   b) duplo grau obrigatório de jurisdição;
+   c) regime de precatórios para pagamento de dívidas decorrentes de condenação judicial
+   (CF/88, art. 100);
+   d) imunidade tributária recíproca (CF/88, art. 150, inciso VI, alínea “a” e § 2º);
+   e) praticam atos administrativos;
+   f) celebram contratos administrativos, precedidos de licitação.
+Fundações públicas de direito privado: regime jurídico híbrido, se sujeitando em parte a normas
+de direito privado e, em outras, a normas de direito público. Prerrogativas e características que
+merecem destaque:
+   a) não possuem prazo especial para contestar e recorrer;
+   b) suas lides não estão sujeitas ao duplo grau obrigatório de jurisdição;
+   c) não estão submetidos ao regime de precatórios para pagamento de dívidas decorrentes de
+   condenação judicial previsto na CF/88, art. 100;
+   d) contam, também, com a imunidade tributária recíproca (CF/88, art. 150, inciso VI, alínea “a”
+   e § 2º);
+   e) praticam, em regra, atos de direito privado;
+   f) celebram, também, contratos administrativos, precedidos de licitação.
+
+- Natureza dos bens do patrimônio das fundações públicas:
+
+Fundações públicas de direito público: bens públicos (contam, portanto, com as prerrogativas a
+eles inerentes).
+
+Fundações públicas de direito privado: bens privados. Entretanto, os bens dessas entidades,
+quando empregados diretamente na prestação de serviços públicos, podem se sujeitar a regras
+de direito público (ou seja, possuir prerrogativas dos bens públicos, de forma equiparada).
+
+- Regime de pessoal a que estão submetidas as fundações públicas:
+
+Fundações públicas de direito público: regime estatutário ou celetista, conforme definido em lei
+(com o fim do regime jurídico único, é possível que um ente federativo admita seus agentes
+públicos tanto sob regime estatutário quanto sob regime celetista).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo     22
+         www.estrategiaconcursos.com.br                                                        39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+    Aula 00
+
+Fundações públicas de direito privado: regime trabalhista comum (CLT)5.
+
+- Controle do Ministério Público sobre as fundações públicas:
+
+Embora o código civil imponha ao Ministério Público que vele6 pelas fundações (privadas), há
+divergência doutrinária quanto a necessidade do velamento das fundações públicas pelo
+parquet, uma vez que o controle finalístico já seria realizado via supervisão ministerial.
+Por sua vez, o STF já proferiu entendimento no sentido de que o Ministério Público Federal deve
+realizar o velamento das fundações federais de direito público (ADI 2.794). Nessa lógica, cabe ao
+Ministério Público o controle de todas as fundações, sejam privadas ou públicas (tanto de direito
+público, quanto de direito privada), sendo competente para velar pelas fundações estaduais e
+municipais o MP do estado-membro em que se encontrem, pelas fundações distritais ou MPDFT
+e, pelas fundações federais (independentemente da localização), o MPF.
+
+- Foro judicial competente para dirimir litígios em que seja parte uma fundação pública:
+
+Fundações públicas de direito público: se for federal – Justiça Federal; se for estadual ou
+municipal – Justiça Estadual (RE 215.741/SE).
+Fundações públicas de direito privado: a doutrina entende que sempre deve ser a Justiça
+Estadual. Já a jurisprudência entende que as federais têm foro na Justiça Federal (STJ, CC
+37.681/SC e CC 16.397/RJ).
+
+Empresas estatais (empresas públicas e sociedades de economia mista)
+
+- Empresa pública:
+Pessoa jurídica de direito privado, integrante da Administração Indireta, criada por autorização
+legal, sob qualquer forma jurídica adequada a sua natureza, com a finalidade de executar
+atividades de caráter econômico ou, em algumas situações, serviços públicos7.
+- Sociedade de economia mista:
+Pessoa jurídica de direito privado, integrante da Administração Indireta, criada por autorização
+legal, sob a forma de sociedade anônima, com controle acionário pertencente ao Poder Público,
+com a finalidade de executar atividades de caráter econômico ou, em algumas situações,
+serviços públicos8.
+
+- Instituição e extinção das empresas estatais:
+
+5
+  STF – ADI RE 716.378 e ADI 4247. Carvalho Filho, 2021.
+6
+  Velar = realizar controle finalístico
+7
+  Carvalho Filho, 2016, p. 525.
+8
+  Idem, ibidem.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   23
+          www.estrategiaconcursos.com.br                                                      39
+
+                                       
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+A instituição das estatais se dá por meio de autorização legal e posterior registro de comércio.
+Do mesmo modo, a extinção das estatais depende de lei autorizadora.
+Além disso, o STF entende que é suficiente autorização legal genérica para a desestatização de
+estatais pode ser genérica9.
+Convém apontar que "ao final do processo de desestatização, a sociedade de economia mista
+ou empresa pública não mais existirá: na privatização, porque o controle acionário deixou de ser
+do Estado; na extinção, porque se decretou o fim da pessoa jurídica", segundo voto da Relatora
+do feito, ao interpretar a Lei 9.491/1997, que trata de procedimentos relativos ao Programa
+Nacional de Desestatização.
+Perceba que a CF/88 exige expressamente autorização legislativa específica para a instituição
+das estatais, mas é silente quanto à forma legal a ser adotada na desestatização.
+
+- Empresa estatal subsidiária:
+
+Subsidiárias são empresas controladas pelas estatais, dotadas de personalidade jurídica própria
+e sua criação depende também de autorização legislativa, conforme art. 37, inciso XX da CF/88:
+CF/88, art. 37, XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das
+entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa
+privada;
+
+Aqui, é importante relembrar o conceito trazido pelo Decreto 8.945/2016:
+
+Decreto 8.945/2016, art. 2º, V - subsidiária - empresa estatal cuja maioria das ações com direito a voto
+pertença direta ou indiretamente a empresa pública ou a sociedade de economia mista;
+
+A criação de subsidiárias necessita de autorização legislativa, conforme o inciso XX do art. 37 da
+CF/88 (transcrito acima).
+Apesar do dispositivo falar em autorização legislativa “em cada caso”, o STF já proferiu
+entendimento de que “é dispensável a autorização legislativa para a criação de empresas
+subsidiárias, desde que haja previsão para esse fim na própria lei que instituiu a empresa de
+economia mista matriz, tendo em vista que a lei criadora é a própria medida autorizadora” (ADI
+1.649/DF. No mesmo sentido, ADI 1.491 MC).
+Ou seja, de acordo com o Supremo, a própria lei instituidora da entidade primária pode
+autorizar a criação de subsidiárias (no plural mesmo) com a previsão do seu objeto de atuação,
+não sendo necessária uma autorização legal específica para cada subsidiária a ser criada (ou seja,
+é possível dizer que a autorização para a criação de subsidiárias pode ser veiculada em lei
+genérica).
+
+9
+    STF – ADI 6241.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo         24
+           www.estrategiaconcursos.com.br                                                            39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+Ainda com base no dispositivo transcrito acima, convém relembrar que, assim como a criação de
+subsidiárias, a participação de entidades da administração indireta em empresa privada necessita
+de autorização legislativa.
+Por fim, o STF entende, também, que a venda de subsidiárias não exige autorização legislativa (e
+nem licitação), conforme precedente a seguir:
+
+                                                  JURISPRUDÊNCIA
+ A exigência de autorização legislativa não se aplica à venda do controle das subsidiárias e controladas
+ de empresas públicas e sociedades de economia mista, podendo a operação ser realizada sem
+ necessidade de licitação, desde que siga os princípios constitucionais da Administração Pública,
+ previstos no art. 37 da CF/88, respeitada a competitividade, sendo necessária, por outro lado,
+ autorização legislativa e processo licitatório para alienação das empresas-matrizes10.
+
+- Atividades desenvolvidas pelas empresas estatais:
+
+Predominantemente, exploração de atividades econômicas. Nada obstante, podem também
+prestar serviços públicos.
+A exploração de atividade econômica por parte do Estado está autorizada constitucionalmente
+nos seguintes termos:
+CF/88, art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade
+econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a
+relevante interesse coletivo, conforme definidos em lei.
+
+Com base no dispositivo, verificamos que o Estado só pode explorar diretamente atividade
+econômica em algumas situações específicas e excepcionais: quando estiver prevista na própria
+CF/88, quando for necessária aos imperativos da segurança nacional ou a relevante interesse
+coletivo.
+Como caso de previsão constitucional de exploração de atividade econômica por parte do
+Estado, há o § 1º do art. 177 que autoriza a União a contratar com empresas estatais (além das
+empresas privadas) a realização de algumas atividades sujeitas ao regime constitucional de
+monopólio, nos termos a seguir:
+CF/88, art. 177. Constituem monopólio da União:
+I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros hidrocarbonetos fluidos;
+II - a refinação do petróleo nacional ou estrangeiro;
+III - a importação e exportação dos produtos e derivados básicos resultantes das atividades previstas nos
+incisos anteriores;
+IV - o transporte marítimo do petróleo bruto de origem nacional ou de derivados básicos de petróleo
+produzidos no País, bem assim o transporte, por meio de conduto, de petróleo bruto, seus derivados e
+gás natural de qualquer origem;
+
+10 STF - ADI 5624
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            25
+         www.estrategiaconcursos.com.br                                                               39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a industrialização e o comércio de minérios
+e minerais nucleares e seus derivados, com exceção dos radioisótopos cuja produção, comercialização e
+utilização poderão ser autorizadas sob regime de permissão, conforme as alíneas b e c do inciso XXIII do
+caput do art. 21 desta Constituição Federal.
+§ 1º A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas
+nos incisos I a IV deste artigo observadas as condições estabelecidas em lei.
+
+Por outro lado, a possibilidade de o Estado prestar serviço público segundo princípios
+norteadores da atividade empresarial, visando ao lucro, está prevista constitucionalmente nos
+seguintes termos:
+CF/88, art. 175. Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou
+permissão, sempre através de licitação, a prestação de serviços públicos.
+
+Nessa última hipótese, o Estado pode também delegar a prestação, por meio de concessão ou
+permissão, sempre por meio de licitação.
+Destacamos que somente podem ser prestados por estatais os serviços públicos passíveis de
+delegação para a iniciativa privada, ou seja, devem ser excluídos aqueles serviços públicos
+próprios de Estado, que envolvam poder de império ou poder de polícia, como segurança
+pública, justiça e defesa da soberania nacional.
+
+- Regime jurídico das estatais:
+
+As estatais possuem personalidade jurídica de direito privado e regime jurídico híbrido.
+Caso sejam exploradoras de atividade econômica, se submetem precipuamente ao regime
+jurídico de direito privado e próprio das empresas privadas. Isso se dá porque o Estado, ao agir
+na condição de empresário, não pode obter vantagens em detrimento das empresas da iniciativa
+privada, para que não haja um desequilíbrio no mercado em que atuam. Isso pode ser
+confirmado pela regra contida no art. 173, § 1º, inciso II da CF/88:
+CF/88, art. 173. Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade
+econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a
+relevante interesse coletivo, conforme definidos em lei.
+§ 1º A lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas
+subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação
+de serviços, dispondo sobre:
+I - sua função social e formas de fiscalização pelo Estado e pela sociedade;
+II - a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e
+obrigações civis, comerciais, trabalhistas e tributários;
+III - licitação e contratação de obras, serviços, compras e alienações, observados os princípios da
+administração pública;
+IV - a constituição e o funcionamento dos conselhos de administração e fiscal, com a participação de
+acionistas minoritários;
+V - os mandatos, a avaliação de desempenho e a responsabilidade dos administradores.
+
+Apesar de tais previsões, essas estatais também se sujeitam, em menor escala, a algumas normas
+de direito público, como as seguintes regras constitucionais: necessidade de autorização legal
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo            26
+         www.estrategiaconcursos.com.br                                                               39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+para sua instituição (art. 37, inciso XIX); sujeição ao controle do Tribunal de Contas (art. 71) e do
+Poder Legislativo (art. 49, inciso X); exigência de concurso público para admissão de seus
+empregados (art. 37, inciso II) etc.
+Por outro lado, caso sejam prestadoras de serviço público, as estatais são regidas
+predominantemente pelo direito público (regime jurídico administrativo), em razão da
+titularidade do serviço ser do Estado (ou seja, aqui não há livre iniciativa). Em menor grau, essas
+estatais se sujeitam ao direito privado, até porque os serviços públicos desempenhados pelas
+estatais são considerados uma espécie de atividade de natureza econômica.
+É importante notar que a CF prevê, em seu art. 173, § 1º, a edição de um estatuto jurídico das
+estatais (e suas subsidiárias) que explorem atividade econômica. Esse estatuto foi recentemente
+instituído pela Lei 13.303/2016, que “dispõe sobre o estatuto jurídico da empresa pública, da
+sociedade de economia mista e de suas subsidiárias, abrangendo toda e qualquer empresa
+pública e sociedade de economia mista da União, dos Estados, do Distrito Federal e dos
+Municípios que explore atividade econômica de produção ou comercialização de bens ou de
+prestação de serviços, ainda que a atividade econômica esteja sujeita ao regime de monopólio
+da União ou seja de prestação de serviços públicos” (art. 1º).
+Logo, é importante destacar que o estatuto previsto na Lei 13.303/2016 abrange tanto as
+estatais que explorem atividade econômica, quanto as que prestem serviço público.
+
+- Natureza do patrimônio das estatais:
+
+Os bens das estatais são considerados bens privados (não gozam das prerrogativas inerentes aos
+bens públicos – impenhorabilidade, imprescritibilidade, alienabilidade condicionada etc.).
+Para a doutrina, especificamente no que diz respeito às estatais prestadoras de serviços
+públicos, a parcela de seus bens que estejam afetados diretamente à prestação dos serviços,
+embora permaneçam sendo considerados bens privados, contam com algumas proteções
+próprias dos bens públicos11.
+
+- Regime de pessoal a que estão submetidas as estatais:
+
+Regime trabalhista comum (celetista, regido pela CLT), de emprego público, com vínculo de
+natureza contratual, sem previsão de estabilidade, embora seja necessária a devida motivação
+para eventuais atos de demissão.
+O ingresso nos quadros das estatais deve, todavia, deve se dar por meio de concurso público,
+em razão de disposição expressa na CF, art. 37, inciso II:
+
+11
+  Inclusive nesse sentido o STF já decidiu que a Empresa Brasileira de Correios e Telégrafos, por ser empresa
+pública que presta serviço público, possuem impenhoráveis os bens diretamente afetos ao serviço público
+prestado (RE 220.906).
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo              27
+           www.estrategiaconcursos.com.br                                                                 39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+CF/88, art. 37, II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso
+público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou
+emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei
+de livre nomeação e exoneração;
+
+Com relação aos dirigentes das estatais, quando não oriundos do quadro de pessoal da própria
+entidade, não são classificados como empregados públicos celetistas (a eles não se aplicam as
+regras da CLT) e tampouco ocupam cargos em comissão no sentido previsto no dispositivo supra
+– a relação dos dirigentes com a estatal é regida pelo Direito Comercial.
+É importante mencionar que não cabe ao Poder Legislativo aprovar previamente o nome dos
+dirigentes das estatais como condição para que o chefe do Executivo possa nomeá-los12 -
+embora isso seja legítimo para a nomeação de dirigentes de autarquias e fundações.
+Por último, destacamos que é cabível mandado de segurança contra ato dos dirigentes de
+estatais quando praticados na qualidade de autoridade pública (como nas licitações e concursos
+públicos), mas é incabível nos atos de mera gestão econômica.
+
+- Falência e execução no âmbito das empresas estatais:
+
+O art. 2º, inciso I da lei 11.101/2005 (que trata da falência e da recuperação judicial)
+expressamente exclui as estatais (independentemente de seu campo de atribuição) do processo
+falimentar regido por tal diploma.
+
+- Forma jurídica das empresas estatais:
+
+Empresas públicas: qualquer configuração admitida no direito.
+Sociedades de Economia Mista: necessariamente sociedade anônima.
+
+- Composição do capital das estatais:
+
+Empresas públicas: capital totalmente público, mesmo que de entes federativos ou pessoas
+administrativas diferentes.
+Sociedades de Economia Mista: capital público e privado, de forma conjugada. A maioria do
+capital votante (ações com direito a voto) deve ser necessariamente público, o que confere à
+pessoa política ou administrativa o poder de controlar a sociedade de economia mista.
+
+- Foro judicial competente para dirimir litígios em que seja parte uma empresa estatal?
+
+Empresa pública federal: Justiça Federal (CF/88, art. 109, inciso I).
+Sociedade de economia mista federal: Justiça Estadual13. Se a União intervier na causa como
+assistente ou opoente, o foro passa a ser a Justiça Federal14.
+
+12
+     ADI 1.642/MG.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       28
+           www.estrategiaconcursos.com.br                                                          39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+     Aula 00
+
+Estatal estadual ou municipal: Justiça Estadual.
+Ações judiciais sobre relações trabalhistas envolvendo empregados de estatais (de qualquer
+esfera governamental): Justiça do Trabalho.
+
+Agências executivas
+
+- “Agência Executiva” é uma qualificação conferida pelo Poder Público a autarquias ou
+fundações públicas que firmem o contrato de gestão previsto no art. 37, § 8º da CF/88 e
+possuam um plano estratégico de reestruturação e de desenvolvimento institucional em
+andamento consoante inciso I do art. 51 da Lei 9.649/1998. Assim, uma agência executiva não é
+uma nova entidade administrativa.
+Nos termos da CF/88, com a celebração do contrato de gestão, essas entidades assumem o
+compromisso de cumprir determinadas metas de desempenho e, por outro lado, possuem sua
+autonomia gerencial, orçamentária e financeira ampliada. Vejamos o teor do dispositivo
+constitucional:
+CF/88, art. 37, § 8º A autonomia gerencial, orçamentária e financeira dos órgãos e entidades da
+administração direta e indireta poderá ser ampliada mediante contrato, a ser firmado entre seus
+administradores e o poder público, que tenha por objeto a fixação de metas de desempenho para o
+órgão ou entidade, cabendo à lei dispor sobre:
+I - o prazo de duração do contrato;
+II - os controles e critérios de avaliação de desempenho, direitos, obrigações e responsabilidade dos
+dirigentes;
+III - a remuneração do pessoal.
+
+Vejamos agora como a Lei 9.649/1998 regula o assunto:
+Lei 9.649/1998, art. 51. O Poder Executivo poderá qualificar como Agência Executiva a autarquia ou
+fundação que tenha cumprido os seguintes requisitos:
+I - ter um plano estratégico de reestruturação e de desenvolvimento institucional em andamento;
+II - ter celebrado Contrato de Gestão com o respectivo Ministério supervisor.
+§ 1º A qualificação como Agência Executiva será feita em ato do Presidente da República.
+§ 2º O Poder Executivo editará medidas de organização administrativa específicas para as Agências
+Executivas, visando assegurar a sua autonomia de gestão, bem como a disponibilidade de recursos
+orçamentários e financeiros para o cumprimento dos objetivos e metas definidos nos Contratos de
+Gestão.
+Art. 52. Os planos estratégicos de reestruturação e de desenvolvimento institucional definirão diretrizes,
+políticas e medidas voltadas para a racionalização de estruturas e do quadro de servidores, a revisão dos
+processos de trabalho, o desenvolvimento dos recursos humanos e o fortalecimento da identidade
+institucional da Agência Executiva.
+
+13
+   Súmula STF 556: ‘É competente a Justiça Comum para julgar as causas em que é parte sociedade de
+economia mista”.
+14
+   Súmula STF 517: “As sociedades de economia mista só têm foro na Justiça Federal, quando a União
+intervém como assistente ou opoente”.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           29
+           www.estrategiaconcursos.com.br                                                              39
+
+                                        
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+§ 1º Os Contratos de Gestão das Agências Executivas serão celebrados com periodicidade mínima de um
+ano e estabelecerão os objetivos, metas e respectivos indicadores de desempenho da entidade, bem
+como os recursos necessários e os critérios e instrumentos para a avaliação do seu cumprimento.
+§ 2º O Poder Executivo definirá os critérios e procedimentos para a elaboração e o acompanhamento dos
+Contratos de Gestão e dos programas estratégicos de reestruturação e de desenvolvimento institucional
+das Agências Executivas.
+
+Vale relembrar que a qualificação como “agência executiva” é uma faculdade (não uma
+obrigação) do Poder Público e é realizada mediante ato do Presidente da República; o contrato
+de gestão é firmado com o Ministério Supervisor da autarquia ou fundação pública e possuirá
+periodicidade mínima de um ano.
+
+- É possível a celebração do contrato de gestão previsto no art. 37, § 8º da CF/88 (transcrito
+mais acima) por órgãos da Administração Direta também (conforme a redação do próprio
+dispositivo).
+
+É importante mencionar que o contrato de gestão previsto no art. 37, § 8º da CF/88 também
+pode ser denominado de “contrato de desempenho”, como o fez a Lei 13.934/2019.
+
+- A Lei 14.133/2021, Nova Lei de Licitações, prevê que os valores dos limites de licitação
+dispensável previstos em seu art. 75, incisos I e II do caput serão duplicados nos casos de
+compras, obras e serviços contratados por autarquia ou fundação qualificadas como agências
+executivas na forma da lei.
+
+                                                                                              Valor aplicável às
+            Objeto da contratação                        Valor geral atualizado              agências executivas
+                                                                                              (2x o valor geral)
+Obras e serviços de engenharia ou de serviços
+  de manutenção de veículos automotores                      R$ 125.451,15                     R$ 250.903,50
+                  (art. 75, I)
+         Outros serviços e compras
+                                                              R$ 62.725,59                     R$ 125.451,18
+                  (art. 75, II)
+
+
+Segue o teor dos dispositivos mencionados:
+
+Lei 14.133/2021, art. 75. É dispensável a licitação:
+I - para contratação que envolva valores inferiores a R$ 125.451,15 (cento e vinte e cinco mil quatrocentos
+e cinquenta e um reais e quinze centavos), no caso de obras e serviços de engenharia ou de serviços de
+manutenção de veículos automotores; [valor atualizado conforme Decreto 12.343/2024]
+II - para contratação que envolva valores inferiores a R$ 62.725,59 (sessenta e dois mil setecentos e vinte
+e cinco reais e cinquenta e nove centavos), no caso de outros serviços e compras; [valor atualizado
+conforme Decreto 12.343/2024]
+(...)
+§ 2º Os valores referidos nos incisos I e II do caput deste artigo serão duplicados para compras, obras e
+serviços contratados por consórcio público ou por autarquia ou fundação qualificadas como agências
+executivas na forma da lei.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                         30
+         www.estrategiaconcursos.com.br                                                                            39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+Agências reguladoras
+
+- São autarquias altamente especializadas que exercem funções de regulação, controle e
+fiscalização de atividades econômicas ou da prestação de serviços públicos delegados a pessoas
+privadas.
+Geralmente adotam o formato de autarquia em regime especial, o que lhes confere maior
+autonomia se comparadas às demais autarquias.
+
+A natureza especial conferida à agência reguladora é caracterizada pela ausência de tutela ou de
+subordinação hierárquica, pela autonomia funcional, decisória, administrativa e financeira e pela
+investidura a termo de seus dirigentes e estabilidade durante os mandatos (mandato fixo, não
+podendo ser exonerados ad nutum – nas demais autarquias os dirigentes podem ser exonerados
+ad nutum pelo chefe do Poder Executivo), bem como pelas demais disposições constantes desta
+Lei ou de leis específicas voltadas à sua implementação (art. 3º, caput da Lei 13.848/2019).
+
+A autonomia administrativa da agência reguladora é caracterizada pelas seguintes competências
+(art. 3º, § 2º da Lei 13.848/2019):
+
+   a) solicitar diretamente ao Ministério da Economia:
+      a1) autorização para a realização de concursos públicos;
+      a2) provimento dos cargos autorizados em lei para seu quadro de pessoal, observada a
+      disponibilidade orçamentária;
+      a3) alterações no respectivo quadro de pessoal, fundamentadas em estudos de
+      dimensionamento, bem como alterações nos planos de carreira de seus servidores;
+   b) conceder diárias e passagens em deslocamentos nacionais e internacionais e autorizar
+   afastamentos do País a servidores da agência;
+   c) celebrar contratos administrativos e prorrogar contratos em vigor relativos a atividades de
+   custeio, independentemente do valor.
+Por serem autarquias, pertencem à Adm. Indireta.
+- Exercem função típica de Estado, de natureza administrativa, notadamente a regulação
+(intervenção indireta) e o exercício do poder de polícia.
+- Os regulamentos de natureza estritamente técnica expedidos pelas agências reguladoras são
+conhecidos como regulamentos delegados ou autorizados, porque podem complementar a lei,
+não se limitando apenas a dar fiel execução a ela. Mesmo assim, esses regulamentos dependem
+de prévia autorização legal para sua edição, bem como não podem criar obrigações novas, sem
+que haja previsão em lei.
+Essa possibilidade de se transferir do Poder Legislativo, mediante autorização legislativa, a
+função normativa de determinadas matérias específicas para as agências reguladoras (ou outra
+sede normativa), consiste no instituto da deslegalização.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo    31
+         www.estrategiaconcursos.com.br                                                       39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+- O processo de decisão da agência reguladora referente a regulação terá caráter colegiado (art.
+7º da Lei 13.848/2019).
+- Teoria da captura e autonomia das agências reguladoras:
+Um dos objetivos da autonomia conferida às agências reguladoras é diminuir o risco de captura
+da agência pelo governo instituidor ou pelos entes regulados, o que poderia comprometer a
+independência da agência.
+Alguns instrumentos para evitar o risco de captura:
+a) estabelecimento de quarentena (de seis meses) dos ex-dirigentes das agências reguladora,
+incorrendo na prática de crime de advocacia administrativa o ex-dirigente que violar tal
+impedimento (art. 8º da Lei 9.986/2000);
+b) mandato fixo dos dirigentes da agência (5 anos para as agências reguladoras federais), só
+havendo sua perda no caso de renúncia, condenação judicial transitada em julgado, processo
+administrativo disciplinar ou por infringência de alguma das vedações previstas no art. 8º da Lei
+9.986/2000 (art. 9º da Lei 9.986/2000).
+c) restrições quanto à indicação de membros para o Conselho Diretor ou a Diretoria Colegiada,
+sendo vedada a indicação (art. 8º-A da Lei 9.986/2000):
+   c1) de Ministro de Estado, Secretário de Estado, Secretário Municipal, dirigente estatutário de
+   partido político e titular de mandato no Poder Legislativo de qualquer ente da federação,
+   ainda que licenciados dos cargos (tal vedação estende-se também aos parentes
+   consanguíneos ou afins até o terceiro grau das pessoas mencionadas;
+   c2) de pessoa que tenha atuado, nos últimos 36 (trinta e seis) meses, como participante de
+   estrutura decisória de partido político ou em trabalho vinculado a organização, estruturação e
+   realização de campanha eleitoral;
+   c3) de pessoa que exerça cargo em organização sindical;
+   c4) de pessoa que tenha participação, direta ou indireta, em empresa ou entidade que atue
+   no setor sujeito à regulação exercida pela agência reguladora em que atuaria, ou que tenha
+   matéria ou ato submetido à apreciação dessa agência reguladora;
+   c5) de pessoa que se enquadre nas hipóteses de inelegibilidade previstas no inciso I do caput
+   do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990;
+   c6) de membro de conselho ou de diretoria de associação, regional ou nacional,
+   representativa de interesses patronais ou trabalhistas ligados às atividades reguladas pela
+   respectiva agência.
+d) vedações aos membros do Conselho Diretor ou da Diretoria Colegiada, quais sejam (art. 8º-B
+da Lei 9.986/2000):
+   d1) receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas;
+   d2) exercer qualquer outra atividade profissional, ressalvado o exercício do magistério,
+   havendo compatibilidade de horários;
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo       32
+         www.estrategiaconcursos.com.br                                                          39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+   d3) participar de sociedade simples ou empresária ou de empresa de qualquer espécie, na
+   forma de controlador, diretor, administrador, gerente, membro de conselho de administração
+   ou conselho fiscal, preposto ou mandatário;
+   d4) emitir parecer sobre matéria de sua especialização, ainda que em tese, ou atuar como
+   consultor de qualquer tipo de empresa;
+   d5) exercer atividade sindical;
+   d6) exercer atividade político-partidária;
+   d7) estar em situação de conflito de interesse, nos termos da Lei nº 12.813, de 16 de maio de
+   2013.
+
+- Procedimento de nomeação dos dirigentes da agências reguladoras:
+
+O Presidente da República realiza a nomeação do dirigente após este ter sido sabatinado pelo
+                                                         ==219a34==
+
+Senado Federal, conforme art. 5º, caput da Lei 9.986/2000, tendo também sido estabelecidos
+alguns requisitos para a ocupação do cargo, previstos nos incisos I e II do mesmo art. 5º (notar
+que devem ser atendidos um dos requisitos das alíneas “a”, “b” e “c” do inciso I e,
+cumulativamente, o inciso II):
+
+Lei 9.986/2000, art. 5º O Presidente, Diretor-Presidente ou Diretor-Geral (CD I) e os demais membros do
+Conselho Diretor ou da Diretoria Colegiada (CD II) serão brasileiros, indicados pelo Presidente da
+República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea “f” do inciso
+III do art. 52 da Constituição Federal, entre cidadãos de reputação ilibada e de notório conhecimento no
+campo de sua especialidade, devendo ser atendidos 1 (um) dos requisitos das alíneas “a”, “b” e “c” do
+inciso I e, cumulativamente, o inciso II:
+I - ter experiência profissional de, no mínimo:
+a) 10 (dez) anos, no setor público ou privado, no campo de atividade da agência reguladora ou em área a
+ela conexa, em função de direção superior; ou
+b) 4 (quatro) anos ocupando pelo menos um dos seguintes cargos:
+1. cargo de direção ou de chefia superior em empresa no campo de atividade da agência reguladora,
+entendendo-se como cargo de chefia superior aquele situado nos 2 (dois) níveis hierárquicos não
+estatutários mais altos da empresa;
+2. cargo em comissão ou função de confiança equivalente a DAS-4 ou superior, no setor público;
+3. cargo de docente ou de pesquisador no campo de atividade da agência reguladora ou em área
+conexa; ou
+c) 10 (dez) anos de experiência como profissional liberal no campo de atividade da agência reguladora ou
+em área conexa; e
+II - ter formação acadêmica compatível com o cargo para o qual foi indicado.
+
+Além disso, é importante relembrar que a exigência de aprovação pelo Senado Federal guarda
+consonância com a previsão constitucional que confere competência privativa a essa Casa
+Legislativa para aprovar o nome indicado pelo Presidente da República, mediante voto secreto e
+após ter sido realizada uma arguição pública (art. 52, inciso III, alínea “f” da CF/88).
+
+CF/88, art. 52. Compete privativamente ao Senado Federal: (...)
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo           33
+         www.estrategiaconcursos.com.br                                                              39
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 00
+
+III - aprovar previamente, por voto secreto, após argüição pública, a escolha de: (...)
+f) titulares de outros cargos que a lei determinar;
+
+Aprofundando um pouco o tema, por fim, destacamos, que o dispositivo constitucional supra
+abre margem para que outras leis estabeleçam a necessidade de prévia aprovação do Senado
+Federal para a escolha de titulares para a ocupação de outros cargos.
+
+- Controle sobre as agências reguladoras:
+
+As agências reguladoras submetem-se aos controles internos (ou seja, do próprio Poder
+Executivo) e externo (judicial e legislativo), como em regra se sujeitam as demais entidades da
+Administração Pública.
+
+Além disso, submetem-se à supervisão ministerial.
+
+- Desqualificação de uma agência reguladora:
+
+Não é possível a desqualificação de uma agência reguladora, ao contrário das agências
+executivas, que podem perder a qualificação.
+
+“Agência reguladora” não é uma qualificação formal, portanto não existe a figura de
+desqualificação de agência reguladora.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo   34
+         www.estrategiaconcursos.com.br                                                      39
+
+                                      
+
+
+---
+
+    Tulio Lages
+    Aula 00
+
+                                       APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o
+histórico de questões da banca em provas de nível semelhante à nossa, bem como as inovações no conteúdo, na legislação e nos
+entendimentos doutrinários e jurisprudenciais1.
+
+Dentro do assunto “Organização Administrativa”, “Administração Indireta” é/são o(s) ponto(s) que
+acreditamos que possui(em) mais chances de ser(em) cobrado(s) pela banca.
+
+Dessa forma, é importante entender as características de cada tipo de entidade da Administração Indireta.
+Os próximos esquemas podem ajudar na memorização.
+
+                                                                                                        Criadas por Lei
+                                                                        Fundações
+                                                                       Públicas de
+                                                                      Direito Público                     Natureza
+                                                                                                       Jurídica: Direito
+                                                                                                           Público
+      Fundações                      Atividades de
+       Públicas                     interesse social
+                                                                                                       Autorizadas por
+                                                                                                             Lei
+                                                                        Fundações
+                                                                       Públicas de
+                                                                      Direito Privado                     Natureza
+                                                                                                       Jurídica: Direito
+                                                                                                           Privado
+
+1
+  Vale deixar claro que nem sempre será possível realizar uma aposta estratégica para um determinado assunto,
+considerando que às vezes não é viável identificar os pontos mais prováveis de serem cobrados a partir de critérios objetivos
+ou minimamente razoáveis.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                               35
+          www.estrategiaconcursos.com.br                                                                                  39
+
+                                       
+
+
+---
+
+Tulio Lages
+Aula 00
+
+                                Criadas por Lei
+
+                                                                                           Impenhoráveis
+                               Natureza: Pessoa
+                                                                Patrimônio: Bens
+                                  Jurídica de
+                                                                    Públicos
+                                direito público
+                                                                                           Imprescritíveis
+                                 Exercício de
+                                atividade típica
+                                   de Estado
+                                                                                          Presidente: cargo
+                                                                                            em comissão
+  Autarquias                     Características                      Pessoal
+                                                                                          Servidores: cargo
+                                                                                           efetivo (regime
+                                                                                             estatutário)
+                                                                     Imudade
+                                                                     Tributária
+
+                                                                  Conselhos de
+                                                                                            Autarquias,
+                                                                   fiscalização
+                                                                                            exceto OAB
+                                                                   profissional
+
+                                                                                          mandato fixo dos
+                                                                                             membros
+                                                                      Agências
+                               Casos Especiais
+                                                                    reguladoras
+                                                                                             copetência
+                                                                                             regulatória
+
+
+                                                                                             qualificação
+                                                                                              concedida
+                                                                                          (mediante decreto)
+                                                                     Agências
+                                                                    Executivas
+                                                                                          plano estratégico
+                                                                                            + contrato de
+                                                                                               gestão
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                    36
+      www.estrategiaconcursos.com.br                                                                       39
+
+                                   
+
+
+---
+
+Tulio Lages
+Aula 00
+
+                                              Autorizadas por Lei
+
+                                               Natureza Jurídica:
+                                                Direito Privado.
+                                               *Regime Jurídico
+                                                   Híbrido
+                                                                                            Pessoal: Emprego
+                                                                                          Público CLT (concurso)
+                                           Exploração de atividade
+                                                      ==219a34==
+
+                                           econômica e prestação
+                                             de serviços públicos                          Bens: em regra privados
+                                                                                             Exceto: prestadora de
+                                                                                              serviço público (bens
+                                                                                          utilizados diret. no serviço)
+  Empresas Públicas                              Características
+
+                                                                                            Capital: Totalmente
+                                                                                                  Público
+
+                                                                                              Forma Jurídica:
+                                                                                              Qualquer forma
+
+
+                                                                                          EP Federal: Justiça Federal
+
+                                                Foro processual
+                                                                                          EP Estadual/DF/Municipal:
+                                                                                               Justiça Estadual
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                              37
+      www.estrategiaconcursos.com.br                                                                                 39
+
+                                   
+
+
+---
+
+Tulio Lages
+Aula 00
+
+                                              Autorizadas por Lei
+
+                                               Natureza Jurídica:
+                                                Direito Privado.
+                                               *Regime Jurídico
+                                                   Híbrido
+                                                                                            Pessoal: Emprego
+                                                                                          Público CLT (concurso)
+                                           Exploração de atividade
+                                           econômica e prestação
+                                             de serviços públicos                          Bens: em regra privados
+                                                                                             Exceto: prestadora de
+                                                                                              serviço público (bens
+                                                                                          utilizados diret. no serviço)
+   Sociedades de
+                                                 Características
+   Economia Mista
+                                                                                          Capital: Público + Privado.
+                                                                                            Maioria das ações com
+                                                                                           direito a voto pertence à
+                                                                                                 Administração
+
+
+                                                                                          Forma Jurídica: sempre
+                                                                                            sociedade anônima
+                                                                                                   (S/A)
+
+                                                                                              Em regra: justiça
+                                                Foro processual
+                                                                                                 estadual
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Administrativo                              38
+      www.estrategiaconcursos.com.br                                                                                 39
+
+                                   
+
+
+---
+
+---

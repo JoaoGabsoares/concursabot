@@ -1,0 +1,308 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 14_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '14'
+titulo_aula: 'APACHE HADOOP: CONCEITOS E VANTAGENS'
+---
+
+# APACHE HADOOP: CONCEITOS E VANTAGENS
+
+APACHE HADOOP: CONCEITOS E VANTAGENS
+
+                           Robusto, confiável, baixo custo, tolerante a falhas e
+                                         de alta disponibilidade                                  Cluster: grupo de máquinas interligadas por rede para tarefas intensivas
+
+    Apache Hadoop:
+framework open source,             Escrito em Java (multiplataforma)
+ escalável e distribuído                                                                                                                 HDFS (armazenamento)
+                           Não é só armazenamento: também é plataforma de
+                                       processamento de dados
+                                                                                                                                          YARN (gerenciamento)
+
+                                                                                                  Três componentes
+                                                                                                      principais                       MapReduce (processamento)
+                            Escalabilidade horizontal: adicionar mais nós ao
+                                         cluster em tempo real
+                                                                                                                            Atenção: Arquitetura em batch (Hadoop) = HDFS +
+                                                                                                                                     MapReduce e/ou Spark + YARN
+                            Flexibilidade: sem esquema definido; não precisa
+                                            limpar dados antes
+
+
+ Vantagens principais         Performance mesmo com grandes volumes                                                                         PILHA (CAMADAS) DO HADOOP
+
+                                                                                                                                           MapReduce / Spark - Processamento
+
+
+                           Baixo custo: roda em máquinas comuns; dificuldade                                                               YARN - Gerenciamento de recursos
+
+                                           é achar profissionais
+                                                                                                                                         HDFS - Armazenamento distribuído (base)
+
+                              Análises avançadas e grande ecossistema de
+                                               produtos
+
+                                                                                                                                                                   TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               HDFS: SISTEMA DE ARQUIVOS DISTRIBUÍDO
+
+                         Princípio Write-Once, Read-Many (WORM): grava                                                          Arquivo dividido em blocos de 128MB (padrão)
+    HDFS (Hadoop
+                                     uma vez, lê muitas vezes
+    Distributed File
+  System): armazena
+                                                                                                                                      Blocos replicados e distribuídos em nós de
+arquivos muito grandes                                                                                                                   racks diferentes (tolerância a falhas)
+                              Arquivos gravados NÃO podem ser alterados                     Divisão em blocos
+  de forma distribuída                       ou excluídos
+
+                                                                                                                                     Taxa de Replicação = 3: três cópias de cada
+                                                                                                                                           bloco (aumenta espaço usado)
+
+                          NameNode (nó mestre): gerencia metadados e
+                                    localização dos blocos
+                                                                                         Rack Awareness: nós
+                                   Árvore de diretórios gerenciada é o                    sabem em qual rack
+                                              namespace                                                                     Atenção: Cuidado com inversão: o correto é Write-
+                                                                                           está cada arquivo                 Once, Read-Many, e não write-many, read-once
+                                                                                        (acesso pelo rack mais
+  Nós da arquitetura     DataNode (nó escravo): armazena o conteúdo real                       próximo)
+   mestre/escravo                          dos blocos
+                                                                                                                      ARQUITETURA HDFS (MESTRE/ESCRAVO)
+
+                                                                                                                                                Rack 1                                 Rack 2
+                           SecondaryNameNode: pontos de checagem e
+                                                                                            Arquivo
+                                   recuperação do NameNode                                               NameNode (mestre)
+                                                                                                                                     DataNode            DataNode           DataNode            DataNode
+                                                                                                        metadados / namespace
+
+
+                            Cliente HDFS: lê e escreve dados no sistema                  blocos 128MB
+                                                                                                                                  Replicação = 3 cópias por bloco, distribuídas entre racks (Rack Awareness)
+
+                                                                                                                                                                             TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                           YARN: GERENCIADOR DE RECURSOS DO CLUSTER
+
+
+                                                         YARN (Yet Another Resource Negotiator):
+                                                                                                                                  Job: trabalho submetido ao YARN para
+         Componentes da arquitetura                    gerenciamento de recursos e agendamento de
+                                                                                                                                    processamento paralelo no cluster
+                                                                         tarefas
+
+                          Scheduler: agendador        É o centro arquitetônico do Hadoop; permite vários                     Características: escalabilidade, compatibilidade com
+                         puro; não monitora nem             motores (MapReduce, Spark, Storm, Tez)                                         Hadoop 1.0, multilocação
+ResourceManager:        reinicia tarefas que falham
+ gerente global de
+recursos (memória,                                         Aloca dinamicamente recursos e agenda o
+    CPU, disco)           ApplicationManager:                          processamento
+                           aceita a aplicação e
+                           negocia o primeiro
+                                container                                                         ARQUITETURA DO YARN (GERENCIAMENTO DE RECURSOS)
+
+
+                                                                                                                                                          NodeManager
+NodeManager: gerencia e monitora recursos (CPU,
+                                                                               ResourceManager
+      memória, disco, rede) em cada nó                 Client
+                                                                                                                                             Container                  App Master
+                                                                                     Scheduler
+                                                                                 (agenda recursos)
+                                                       Client
+                                                                                                                                                          NodeManager
+ApplicationMaster: coordena a execução de tarefas
+              (um por aplicação)                                               ApplicationManager
+                                                                                  (aceita jobs)                                              App Master                 Container
+
+Container: unidade isolada (sandbox) de alocação            Submissão de job (Client)
+                                                                                                                                                          NodeManager
+                  de recursos
+                                                            Requisição/alocação de recursos
+                                                                                                                                             Container                  Container
+                                                            Status do nó
+
+
+  Atenção: O NodeManager É responsável por
+ monitorar recursos (CPU, memória, disco, rede)
+
+
+                                                                                                                                                                 TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                       MAPREDUCE: PROCESSAMENTO DISTRIBUÍDO
+
+                                      COMPONENTES: JOBTRACKER (COORDENA JOBS) E TASKTRACKER (EXECUTA TASKS NOS NÓS)
+
+
+                                             Map Tasks                                                                          Reduce Tasks
+     Input                                                                                Shuffle & Combine                                                                Output
+   (entrada)                         Map()     Map()       Map()                          (agrupa por chave)              Reduce()        Reduce()                         (saída)
+
+                      <k1,v1>                                        <k2,v2>                                    <k2,v2>                                 <k3,v3>
+
+                                                                                                                                MapReduce: modelo de programação para
+               Etapas do processamento                                                    Limitações                            processar grandes volumes em paralelo e
+                                                                                                                                              distribuído
+
+     Map
+ (mapeamento):                                                     Não lida com fluxos contínuos em tempo real (é            Criado pelo Google (2004); aplica o princípio 'dividir
+                                Fórmula: Map(k1,v1) →                          projetado para batch)                                         para conquistar'
+decompõe dados
+                                    list(k2,v2)
+em pares chave-
+     valor
+
+
+                                                                   Sobrecarga de comunicação; modelo complexo;               Substitui escalabilidade vertical por escalabilidade
+Combine: etapa opcional que agrupa localmente,                      ruim para iterações e dados não estruturados                     horizontal (vários computadores)
+         reduzindo dados transferidos
+
+                                                                   Atenção: MapReduce usa algoritmo paralelo E
+Reduce (redução):                                                                 distribuído
+                            Ciclo: (Input) k1,v1 → map →
+    consolida
+                            k2,v2 → combine → k2,v2 →
+ resultados em
+                             reduce → k3,v3 (Output)
+  resposta final
+
+
+                                                                                                                                                                  TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                                 ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              HBASE E KUDU: ARMAZENAMENTO COLUNAR
+
+HBase: banco de dados NoSQL colunar, distribuído construído sobre o
+                                                                                                Kudu: mecanismo de armazenamento colunar otimizado para cargas OLAP
+                             HDFS
+
+                                                                                                          Armazenamento híbrido (colunas e linhas); consistência forte
+Acesso aleatório de leitura/escrita em tempo real; escala linearmente com nós
+
+
+                                                                                                  Suporte a transações ACID e         Ideal para modelos preditivos, relatórios e
+ Não é relacional e não oferece suporte a SQL; sem esquema, por famílias de                        operações em tempo real                        séries temporais
+                                   colunas
+
+
+                                                                                                   Integra seu catálogo com o         Arquitetura: tables/tablets, Master Server,
+                           Consistência eventual                                                      HMS (Hive Metastore)                  Tablet Server e Master Tablet
+
+                                      RegionServer: MemStore (memória),
+                                                                                                Atenção: HBase = consistência eventual; Kudu = consistência forte com ACID
+                                    StoreFiles (disco, imutáveis) e BlockCache
+
+  Tabelas distribuídas por
+     regiões, divididas
+automaticamente ao crescer
+                                      Compactação: Minor (mescla poucos
+                                     StoreFiles) e Major (combina tudo, exclui
+                                                    expirados)
+
+                                                                                                                                                             TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                            SQOOP, HIVE E IMPALA: INTEGRAÇÃO E CONSULTAS
+
+                                                  Usa MapReduce para importar/exportar (operação paralela e tolerante a falhas)
+   Sqoop (SQL to Hadoop):
+transfere dados entre Hadoop
+           e bancos
+                                 Suporta importação em lote e incremental; formatos texto,            Projeto desativado e movido para o Apache
+   relacionais/mainframes
+                                                     Avro e Parquet                                             Attic em junho de 2021
+
+                                                 HQL (Hive Query Language): linguagem SQL-like convertida em jobs MapReduce
+
+Hive: infraestrutura de Data                                 HMS (Hive Metastore): repositório central de metadados
+Warehouse construída sobre
+          o Hadoop
+                                                                                                       Componentes: Thrift/JDBC/ODBC Clients,
+                                 Dados compactados (gzip/bzip), particionados e ordenados               HiveServer2, Beeline, Driver, Compiler,
+                                                                                                                Optimizer, Metastore
+
+                                 Usa mesma sintaxe (Hive SQL), metadados e driver ODBC do              Não substitui o processamento em lote do
+Impala: banco analítico nativo                             Hive                                        MapReduce/Hive (ETL de longa duração)
+ com consultas SQL rápidas e
+         interativas
+                                          Atenção: Hive = consultas batch de longa duração; Impala = consultas rápidas em tempo real
+
+                                                                                                                                             TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                           OOZIE E KAFKA: ORQUESTRAÇÃO E STREAMING
+
+                                                                                                 Oozie: sistema agendador de fluxo de trabalho (workflow) para jobs do
+  Kafka: plataforma de streaming de eventos distribuída e open source
+                                                                                                                               Hadoop
+
+  Alto rendimento e baixa latência; produtores e consumidores desacoplados                               Escalável, confiável e extensível; aplicação Java em Servlet Container
+
+                                       Eventos NÃO são excluídos após o                                                                             Definições escritas em hPDL (linguagem
+                                   consumo; retenção configurável por tópico                                                                                          XML)
+                                                                                               Workflow = coleção de ações
+ Tópicos: organizam eventos;
+                                                                                               em um DAG (Direct Acyclic
+são particionados e replicados
+                                                                                                         Graph)
+                                    Servidores de armazenamento = brokers;                                                                           Nós de fluxo de controle (start, end, fail,
+                                          fator de replicação comum = 3                                                                                decision, fork, join) e nós de ação
+
+
+                                                                                                                           KAFKA - MODELO PUBLICAÇÃO / ASSINATURA (PUB-SUB)
+
+  Criptografia por SSL/TLS          Cinco APIs: Admin, Producer, Consumer,                                                                 Broker
+                                                                                                     Producer                                                                              Consumer
+     (mesma do HTTPS)                   Kafka Streams e Kafka Connect                                                                      Tópico
+                                                                                                                                   Partição 0 [ev][ev][ev] →
+
+                                                                                                     Producer                      Partição 1 [ev][ev][ev] →                               Consumer
+                                                                                                                 publish                                                  subscribe
+                                                                                                                                   Partição 2 [ev][ev][ev] →
+     Atenção: Diferente de mensageria tradicional, no Kafka os eventos
+                      permanecem após serem lidos                                                                   Produtores e consumidores DESACOPLADOS (eventos ficam retidos)
+                                                                                                                       após o consumo (retenção por tópico) - fator de replicação = 3
+
+                                                                                                                                                                                TECNOLOGIA DA INFORMAÇÃO
+
+                                                                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,142 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 09_027_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: QUESTÕES DE CONCURSO
+---
+
+# QUESTÕES DE CONCURSO
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+01. FGV - 2024 - TCE-GO - Analista de Controle Externo - Ciências
+Contábeis
+Assinale a opção em que ocorre paralelismo sintático.
+
+A) As palavras são a mágica da mente; comida, a do corpo, e a música é a mágica da
+alma.
+
+B) As coisas não acontecem simplesmente, elas são feitas para acontecer.
+
+C) Prefiro a mente aberta por um milagre do que a mente fechada por uma crença.
+
+D) Os dez mandamentos são bem conhecidos, bem compreendidos, mas mal
+vividos.
+
+E) Diga “sim” sempre que possível e “não” quando necessário.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+02. FGV - 2024 - Câmara de Fortaleza - CE - Analista de Revisão
+
+Assinale a frase em que ocorre paralelismo sintático.
+
+A) É prova de sabedoria saber reclamar o que lhe é devido e saber quando se calar.
+
+B) Ninguém sabe o que virá a seguir, mas todos fazem o que deve ser feito.
+
+C) O saber se aprende com os sábios de plantão; a sabedoria se aprende com o
+corriqueiro da vida.
+
+D) Você nunca saberá o que é suficiente até saber o que é mais do que suficiente.
+
+E) Tudo o que é sábio, é simples e claro
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+03. FGV - 2024 - Prefeitura de Caraguatatuba - SP - Procurador
+Assinale a opção que mostra a frase em que não ocorre paralelismo sintático como
+nas demais.
+
+A) Grandes mentes debatem sobre ideias, mentes medianas debatem sobre
+eventos, mentes pequenas debatem sobre pessoas.
+
+B) Um fofoqueiro é alguém que fala para você sobre os outros, um chato é alguém
+que fala para você sobre si mesmo e um brilhante conversador é aquele que fala
+para você sobre você.
+
+C) Cada homem possui três personalidades: a que exibe, a que tem e a imaginária.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+03. FGV - 2024 - Prefeitura de Caraguatatuba - SP - Procurador
+Assinale a opção que mostra a frase em que não ocorre paralelismo sintático como
+nas demais.
+
+D) Alguém mais lento que você é um idiota, alguém mais rápido do que você é um
+maníaco.
+
+E) Os homens amam com seus olhos e as mulheres amam com seus ouvidos.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+04. FGV - 2023 - SEE-MG - Analista Educacional (ANE) - Inspetor
+Escolar
+Assinale o segmento que está estruturado com perfeito paralelismo sintático.
+
+A) Boa comunicação é tão estimulante quanto café preto e tão difícil quanto dormir
+depois.
+
+B) Diga-me e eu esquecerei. Mostre-me e eu lembrarei. Envolva-me e eu
+aprenderei!
+
+C) Mulheres desconfiam demais dos homens no geral e não o suficiente no
+particular.
+
+D) Seja cortês com todos, sociável com muitos, íntimo de poucos, amigo de um e
+inimigo de nenhum.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+05. FGV - 2024 - TJ-SC - Analista Administrativo
+O texto machadiano abaixo que NÃO mostra uma quebra de paralelismo semântico
+é:
+
+A) Minha mãe era uma senhora fraca; temente às trovoadas e ao marido;
+
+B) O Vilaça levava nos olhos umas chispas de vinho e de volúpia;
+
+C) Viviam do amor e da bolsa do pai, inesgotáveis ambos;
+
+D) Vivia de lembranças e saudades por todo o ano;
+
+E) Marcela amou-me durante quinze dias e onze contos de réis.
+
+
+Profª Adriana Figueiredo
+                                 
+
+
+---

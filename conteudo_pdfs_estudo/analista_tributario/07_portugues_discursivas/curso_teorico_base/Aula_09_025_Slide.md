@@ -1,0 +1,698 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 09_025_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Palavra QUE
+---
+
+# Palavra QUE
+
+---
+
+Palavra QUE
+
+                                       Profª. Adriana
+                                         Figueiredo
+
+  
+
+
+---
+
+Classe de palavras
+
+
+               Prof. Adriana Figueiredo
+      
+
+
+---
+
+            PALAVRA “QUE”
+
+          CONJUNÇÃO                                  Ele diz que é valente.
+          INTEGRANTE
+
+   A
+PALAVRA
+ “QUE”                                             O caminho que fizeram é
+                                                          perigoso.
+          PRONOME
+          RELATIVO
+                                                   Queriam saber o que tinha
+                                                          acontecido.
+
+                       Prof. Adriana Figueiredo
+              
+
+
+---
+
+                   PALAVRA “QUE”
+
+   A       CONJUNÇÃO                            EXPLICATIVA: Vamos embora, que o
+PALAVRA   COORDENATIV                                    filme está chato.
+               A
+ “QUE”
+
+                                 Prof. Adriana Figueiredo
+                        
+
+
+---
+
+                  PALAVRA “QUE”
+
+                                                 CONSECUTIVA: Estudou tanto que
+                                                     teve dores de cabeça.
+
+                                               CAUSAL: Chegarei tarde, que tenho
+                                                        trabalho a fazer
+
+
+          CONJUNÇÃO                           COMPARATIVA: Ela é mais inteligente
+   A                                                   que o irmão.
+PALAVRA   ADVERBIAL
+ “QUE”
+                                                 CONCESSIVA: Que trouxesse o
+                                              presente mais caro, não o perdoaria.
+
+                                                FINAL: Emprestei-lhe o casaco, que
+                                                         não sentisse frio.
+
+                               Prof. Adriana Figueiredo
+                      
+
+
+---
+
+             PALAVRA “QUE”
+
+           ADVÉRBIO                                Que inteligente é Fernanda.
+
+           PRONOME
+                                                         Que felicidade!​
+   A      INDEFINIDO​
+PALAVRA
+ “QUE”
+                                                        Que horas são?
+            PRONOME
+          INTERROGATI
+               VO                                  Perguntou que horas eram.
+
+                       Prof. Adriana Figueiredo
+              
+
+
+---
+
+                PALAVRA “QUE”
+
+          PARTÍCULA                                    Quase que ele caiu.
+   A
+          EXPLETIVA
+PALAVRA                                        É o amor que nos faz fortes.
+ “QUE”
+
+                           Prof. Adriana Figueiredo
+                  
+
+
+---
+
+EXERCÍCIOS DE
+   FIXAÇÃO
+                                         Profª. Adriana
+                                           Figueiredo
+
+    
+
+
+---
+
+Identifique a classe gramatical das palavras
+sublinhadas abaixo:
+a) Acho que o celular se juntará ao cigarro como um divisor da
+Humanidade.
+
+b) O preconceito é doença que turva nosso olhar e entorta nossa
+alma.
+
+c) É no hipocampo que a memória e as emoções são processadas
+
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Identifique a classe gramatical das palavras
+sublinhadas abaixo:
+d) O autor fala menos sobre livros do que sobre oportunidades
+perdidas.
+
+e) A temperatura estava tão alta que os pássaros caíram do céu.
+
+f) No fim das contas, nós é que acabaremos discriminados.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+QUESTÕES DE
+ CONCURSO
+                                        Profª. Adriana
+                                          Figueiredo
+
+   
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2022 - PC-PB -
+Técnico em Perícia
+9º PERÍODO: Em segundo lugar, somos herdeiros da cultura
+patriarcal que instaurou a dominação do homem sobre a
+mulher e criou as instituições do patriarcado assentadas sobre
+mecanismos de violência como o Estado, as classes, o projeto da
+tecnociência, os processos de produção como objetivação da
+natureza e sua sistemática depredação.
+
+No trecho a seguir, do texto CG2A1, o termo “que” exerce a função
+de pronome relativo: “da cultura patriarcal que instaurou a
+dominação do homem sobre a mulher” (nono período).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2022 - PC-PB -
+Técnico em Perícia
+9º PERÍODO: Em segundo lugar, somos herdeiros da cultura
+patriarcal que instaurou a dominação do homem sobre a
+mulher e criou as instituições do patriarcado assentadas sobre
+mecanismos de violência como o Estado, as classes, o projeto da
+tecnociência, os processos de produção como objetivação da
+natureza e sua sistemática depredação.
+
+No trecho a seguir, do texto CG2A1, o termo “que” exerce a função
+de pronome relativo: “da cultura patriarcal que instaurou a
+dominação do homem sobre a mulher” (nono período).
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2022 - PC-PB -
+Técnico em Perícia
+5º PERÍODO: Sem detalhar a questão, diríamos que por detrás
+da violência funcionam poderosas estruturas.
+
+No trecho a seguir, do texto CG2A1, o termo “que” exerce a função
+de pronome relativo: “diríamos que por detrás da violência
+funcionam poderosas estruturas” (quinto período).
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2022 - PC-PB -
+Técnico em Perícia
+5º PERÍODO: Sem detalhar a questão, diríamos que por detrás
+da violência funcionam poderosas estruturas.
+
+No trecho a seguir, do texto CG2A1, o termo “que” exerce a função
+de pronome relativo: “diríamos que por detrás da violência
+funcionam poderosas estruturas” (quinto período).
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2024 - Prefeitura de Cachoeiro
+de Itapemirim - ES - Auditor Fiscal de Tributos
+Municipais
+5º PARÁGRAFO
+      Ele abriu um sorriso largo. Explicou que aprendera aquilo
+de ouvido. Muitas vezes lhe acontecera bater a campainha de uma
+casa e ser atendido por uma empregada ou outra pessoa qualquer,
+e ouvir uma voz que vinha lá de dentro perguntando quem era;
+e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém,
+não senhora, é o padeiro”. Assim ficara sabendo que não era
+ninguém...
+
+No quinto parágrafo, classifica-se como pronome relativo o
+vocábulo “que” em “Explicou que aprendera aquilo” (segundo
+período) e “ouvir uma voz que vinha lá de dentro” (terceiro
+período).
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2024 - Prefeitura de Cachoeiro
+de Itapemirim - ES - Auditor Fiscal de Tributos
+Municipais
+5º PARÁGRAFO
+      Ele abriu um sorriso largo. Explicou que aprendera aquilo
+de ouvido. Muitas vezes lhe acontecera bater a campainha de uma
+casa e ser atendido por uma empregada ou outra pessoa qualquer,
+e ouvir uma voz que vinha lá de dentro perguntando quem era;
+e ouvir a pessoa que o atendera dizer para dentro: “não é ninguém,
+não senhora, é o padeiro”. Assim ficara sabendo que não era
+ninguém...
+
+No quinto parágrafo, classifica-se como pronome relativo o
+vocábulo “que” em “Explicou que aprendera aquilo” (segundo
+período) e “ouvir uma voz que vinha lá de dentro” (terceiro
+período).
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2024 - CNJ - Técnico Judiciário
+1º PARÁGRAFO
+
+              O Estado não é uma ampliação do círculo familiar e, ainda menos,
+uma integração de certos agrupamentos, de certas vontades
+particularistas, de que a família é o melhor exemplo. Não existe, entre o
+círculo familiar e o Estado, uma gradação, mas antes uma descontinuidade
+e até uma oposição. A indistinção fundamental entre as duas formas é
+prejuízo romântico que teve os seus adeptos mais entusiastas durante o
+século XIX. De acordo com esses doutrinadores, o Estado e as suas
+instituições descenderiam em linha reta, e por simples evolução, da família.
+A verdade, bem outra, é que pertencem a ordens diferentes em essência.
+Só pela transgressão da ordem doméstica e familiar é que nasce o Estado e
+que o simples indivíduo se faz cidadão, contribuinte, eleitor, elegível,
+recrutável e responsável, ante as leis da Cidade. Há nesse fato um triunfo
+do geral sobre o particular, do intelectual sobre o material, do abstrato
+sobre       oFigueiredo
+Profª Adriana  corpóreo, e não uma depuração sucessiva, uma espiritualização de
+                               
+
+
+---
+
+CESPE / CEBRASPE - 2024 - CNJ - Técnico Judiciário
+
+No quinto período do primeiro parágrafo, o vocábulo “que”, em “é
+que pertencem”, é um pronome que retoma, por coesão, os termos
+“Estado” e “família”, mencionados no período imediatamente
+anterior.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2024 - CNJ - Técnico Judiciário
+
+No quinto período do primeiro parágrafo, o vocábulo “que”, em “é
+que pertencem”, é um pronome que retoma, por coesão, os termos
+“Estado” e “família”, mencionados no período imediatamente
+anterior.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2021 - SEED-PR -
+Professor
+
+3º ESTROFE
+
+Socorro, alguém me dê um coração,
+que esse já não bate nem apanha.
+Por favor, uma emoção pequena,
+qualquer coisa que se sinta,
+tem tantos sentimentos,
+deve ter algum que sirva.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2021 - SEED-PR -
+Professor
+
+
+No verso “que esse já não bate nem apanha”, na terceira estrofe do
+texto 5A2-I, o termo “que” introduz uma oração coordenada
+explicativa.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+(ADAPTADO) CESPE / CEBRASPE - 2021 - SEED-PR -
+Professor
+
+
+No verso “que esse já não bate nem apanha”, na terceira estrofe do
+texto 5A2-I, o termo “que” introduz uma oração coordenada
+explicativa.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE - FUB - Conhecimentos Básicos
+
+A palavra “que” (l.12) introduz no texto uma ideia de consequência.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE - FUB - Conhecimentos Básicos
+
+A palavra “que” (l.12) introduz no texto uma ideia de consequência.
+
+Certo
+Errado
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2021 - PC-DF - Agente de
+Polícia da Carreira de Polícia Civil do Distrito
+Federal
+
+No trecho “A ciência de nossos dias é uma tradição de
+conhecimento peculiar, visto que admite abertamente a ignorância
+coletiva” (terceiro parágrafo), o vocábulo “que” classifica-se como
+pronome e retoma “A ciência de nossos dias”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2021 - PC-DF - Agente de
+Polícia da Carreira de Polícia Civil do Distrito
+Federal
+
+No trecho “A ciência de nossos dias é uma tradição de
+conhecimento peculiar, visto que admite abertamente a ignorância
+coletiva” (terceiro parágrafo), o vocábulo “que” classifica-se como
+pronome e retoma “A ciência de nossos dias”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - TCE-RJ - Analista de
+Controle Externo
+2º PARÁGRAFO
+
+   Essas questões, das quais se percebe facilmente a importância
+na prática social, estão no centro de uma disciplina cujas raízes
+remontam à Antiguidade: a retórica. Para os antigos, a retórica era
+uma teoria da fala eficaz e também uma aprendizagem ao longo da
+qual os homens da cidade se iniciavam na arte de persuadir. Com o
+passar do tempo, entretanto, ela tornou-se, progressivamente, uma
+arte do bem dizer, reduzindo-se a um arsenal de figuras. Voltada
+para os ornamentos do discurso, a retórica chegou a se esquecer
+de sua vocação primeira: imprimir ao verbo a capacidade de
+provocar a convicção. É a esse objetivo que retornam, atualmente,
+as reflexões que se desenvolvem na era da democracia e da
+comunicação.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - TCE-RJ - Analista de
+Controle Externo
+
+No último período do segundo parágrafo, o vocábulo “que”, em
+suas duas ocorrências, tem a função coesiva de retomar a palavra
+que imediatamente o antecede — na primeira ocorrência, retoma
+“objetivo”, e na segunda, “reflexões”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - TCE-RJ - Analista de
+Controle Externo
+
+No último período do segundo parágrafo, o vocábulo “que”, em
+suas duas ocorrências, tem a função coesiva de retomar a palavra
+que imediatamente o antecede — na primeira ocorrência, retoma
+“objetivo”, e na segunda, “reflexões”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - PGE-RJ - Técnico
+Processual
+2º PARÁGRAFO
+
+  Foi com o retorno do exercício dos direitos civis e políticos que os
+conselhos como esferas públicas entraram em cena na
+institucionalidade democrática, como mecanismos institucionais de
+participação da sociedade civil organizada. A CF criou as condições
+jurídico-políticas para a criação e a funcionalidade de órgãos de
+natureza plurirrepresentativa, com função de controle social e de
+participação social na gestão da coisa pública. Os conselhos de
+políticas públicas e de direitos constituem, portanto, formas
+concretas de espaços institucionais de exercício da participação
+social.
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - PGE-RJ - Técnico
+Processual
+
+No início do primeiro período do segundo parágrafo, caso os
+vocábulos “Foi” e “que” fossem suprimidos, a correção e o sentido
+do texto seriam mantidos desde que o vocábulo “com”, no início da
+sentença, fosse grafado com inicial maiúscula e uma vírgula fosse
+empregada logo após “políticos”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+CESPE / CEBRASPE - 2022 - PGE-RJ - Técnico
+Processual
+
+No início do primeiro período do segundo parágrafo, caso os
+vocábulos “Foi” e “que” fossem suprimidos, a correção e o sentido
+do texto seriam mantidos desde que o vocábulo “com”, no início da
+sentença, fosse grafado com inicial maiúscula e uma vírgula fosse
+empregada logo após “políticos”.
+
+
+Certo
+Errado
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                    @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/
+           professoraadrianaf
+
+               facebook.com/prof.adriana.figueiredo
+
+
+                
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueire
+
+    
+
+
+---
+
+---

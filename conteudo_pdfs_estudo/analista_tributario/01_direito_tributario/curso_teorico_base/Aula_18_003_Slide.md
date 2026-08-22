@@ -1,0 +1,162 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 18_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: CONTRIBUIÇÃO SOBRE BENS E
+artigos_citados:
+- Art. 133.
+- Art. 156-A.
+- Art. 195.
+- art. 153
+- art. 156
+- art. 156-A
+- art. 195
+- art. 239
+---
+
+# CONTRIBUIÇÃO SOBRE BENS E
+
+CONTRIBUIÇÃO SOBRE BENS E
+SERVIÇOS - CBS
+BASE DE CÁLCULO, ALÍQUOTAS E
+SUJEITO PASSIVO
+                                               Prof. Fábio Dutra
+
+          
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+
+Direito Tributário
+Prof. Fábio Dutra                                         @ProfFabioDutra
+                     
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Base de Cálculo da CBS:
+
+            Art. 195.
+            (...)
+            § 17. A contribuição prevista no inciso V do caput não
+            integrará sua própria base de cálculo nem a dos
+            tributos previstos nos arts. 153, VIII, 156-A e 195, I, "b",
+            e IV, e da contribuição para o Programa de Integração
+            Social de que trata o art. 239.       (Incluído pela Emenda
+            Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Base de Cálculo da CBS:
+
+            Art. 133. Os tributos de que tratam os arts. 153, IV, 155, II,
+            156, III, e 195, I, "b", e IV, e a contribuição para o Programa de
+            Integração Social a que se refere o art. 239 não integrarão a
+            base de cálculo do imposto de que trata o art. 156-A e da
+            contribuição de que trata o art. 195, V, todos da Constituição
+            Federal. (Incluído pela Emenda Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                  
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Base de Cálculo da CBS:
+
+  CBS – Calculada por Fora:
+
+   Não compõe a própria base de cálculo.
+   Não compõe a base de cálculo do Imposto Seletivo, do
+    PIS/COFINS (faturamento e importação) e do IBS.
+
+  Regra do ADCT:
+
+  • O IPI (art. 153, IV), o ICMS (art. 155, II), o ISS (art. 156, III), as
+    atuais PIS/COFINS não integrarão a base do IBS nem da CBS.
+
+Direito Tributário
+Prof. Fábio Dutra                                                    @ProfFabioDutra
+                            
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Alíquotas da CBS:
+
+   CBS – Contribuição de competência da União.
+
+
+   A CBS surgiu para substituir as contribuições PIS/COFINS
+    (inclusive sobre importação).
+
+
+   A CBS poderá ter sua alíquota fixada por lei ordinária.
+
+   Resolução do Senado Federal fixará alíquota de referência
+    para o IBS/CBS, nos termos de lei complementar.
+Direito Tributário
+Prof. Fábio Dutra                                             @ProfFabioDutra
+                         
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Alíquotas da CBS:
+
+   A alíquota fixada para a CBS será a mesma para todas as
+    operações com bens materiais ou imateriais, inclusive direitos, ou
+    com serviços, ressalvadas as hipóteses previstas na CF/88 (regimes
+    específicos de tributação);
+
+Direito Tributário
+Prof. Fábio Dutra                                               @ProfFabioDutra
+                          
+
+
+---
+
+Contribuição sobre Bens e Serviços -
+CBS
+ Sujeito Passivo da CBS:
+
+   Art. 156-A.
+   § 3º Lei complementar poderá definir como sujeito passivo do imposto
+    a pessoa que concorrer para a realização, a execução ou o
+    pagamento da operação, ainda que residente ou domiciliada no
+    exterior.
+
+Direito Tributário
+Prof. Fábio Dutra                                                 @ProfFabioDutra
+                           
+
+
+---

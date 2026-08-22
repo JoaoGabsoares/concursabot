@@ -1,0 +1,457 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 08_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: ESTATÍSTICA
+---
+
+# ESTATÍSTICA
+
+---
+
+---
+
+ESTATÍSTICA
+
+                                      Prof. Jhoni Zini
+
+ 
+
+
+---
+
+COVARIÂNCIA
+
+
+                                                   Prof. Jhoni Zini
+
+              
+
+
+---
+
+        COVARIÂNCIA
+      Número que diz se há correlação linear entre duas variáveis.
+
+Estatística
+Prof. Jhoni Zini
+                                
+
+
+---
+
+        TIPOS DE CORRELAÇÃO ENTRE
+        VARIÁVEIS
+      POSITIVA
+
+      NEGATIVA
+
+      NULA
+
+Estatística
+Prof. Jhoni Zini
+                     
+
+
+---
+
+        ANÁLISE DE COVARIÂNCIA
+      Covariância positiva
+
+      Covariância negativa
+
+      Covariância nula
+
+Estatística
+Prof. Jhoni Zini
+                              
+
+
+---
+
+        CÁLCULO DA COVARIÂNCIA
+                                                        .
+
+Estatística
+Prof. Jhoni Zini
+                   
+
+
+---
+
+        CÁLCULO DA COVARIÂNCIA
+                   X   Y             X.Y
+
+       SOMA
+
+Estatística
+Prof. Jhoni Zini
+                           
+
+
+---
+
+        CÁLCULO DA COVARIÂNCIA
+                   X   Y           X.Y
+
+    SOMA
+
+Estatística
+Prof. Jhoni Zini
+                           
+
+
+---
+
+        PROPRIEDADES DA COVARIÂNCIA
+
+         COV(X;X) = VAR(X)
+
+                  . ; .      . .       ;
+
+Estatística
+Prof. Jhoni Zini
+                                    
+
+
+---
+
+        PROPRIEDADES DA COVARIÂNCIA
+
+Estatística
+Prof. Jhoni Zini
+                     
+
+
+---
+
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+    
+
+
+---
+
+CORRELAÇÃO
+
+
+                                                  Prof. Jhoni Zini
+
+             
+
+
+---
+
+        COEFICIENTE DE CORRELAÇÃO
+      Mede o grau de intensidade da relação entre variáveis.
+
+Estatística
+Prof. Jhoni Zini
+                               
+
+
+---
+
+        COEFICIENTE DE CORRELAÇÃO
+      Mede o grau de intensidade da relação entre variáveis.
+
+                   COEFICIENTE DE CORRELAÇÃO                                LEITURA
+                        PARA + OU PARA -
+                           0 ATÉ 0,19                                     MUITO FRACA
+                          0,20 ATÉ 0,39                                     FRACA
+                          0,40 ATÉ 0,69                                   MODERADA
+                          0,70 ATÉ 0,89                                     FORTE
+                           0,90 ATÉ 1                                     MUITO FORTE
+
+Estatística
+Prof. Jhoni Zini
+                                     
+
+
+---
+
+        COEFICIENTE DE CORRELAÇÃO
+                                        .
+
+Estatística
+Prof. Jhoni Zini
+                   
+
+
+---
+
+        COEFICIENTE DE CORRELAÇÃO
+                Média de X              25
+                Média de Y              18
+              Covariância (X,Y)         32
+               Variância de X           36
+               Variância de Y           49
+
+Estatística
+Prof. Jhoni Zini
+                                  
+
+
+---
+
+        QUESTÃO 1
+      A variável x tem média 4 e desvio padrão 2, enquanto a variável y tem
+      média 3 e desvio padrão 1. A covariância entre x e y é –1.
+
+
+      O coeficiente de correlação entre x e y é
+      A. 0,5.
+      B. –0,5.
+      C. 1.
+      D. –1.
+      E. –0,25.
+
+
+Estatística
+Prof. Jhoni Zini
+                                 
+
+
+---
+
+        QUESTÃO 2
+      Com relação ao coeficiente de correlação linear (r), é incorreto afirmar
+      que:
+      A. Se r for um número próximo de 1, então x e y têm forte correlação
+      linear
+      B. Se r = 0,2 , então x e y têm forte correlação linear
+      C. Se r for um número próximo de -1, então x e y têm forte correlação
+      linear
+      D. Se r for um número próximo de 0, então x e y têm fraca correlação
+      linear
+      E. Se r = - 0,8, então x e y têm forte correlação linear
+
+Estatística
+Prof. Jhoni Zini
+                                  
+
+
+---
+
+OBRIGADO
+                                         Prof. Jhoni Zini
+
+    
+
+
+---
+
+VARIÂNCIA DA SOMA E DA
+DIFERENÇA
+
+                                                 Prof. Jhoni Zini
+
+            
+
+
+---
+
+        PROPRIEDADES DA VARIÂNCIA
+                  .   .
+
+       
+
+Estatística
+Prof. Jhoni Zini
+                           
+
+
+---
+
+        PROPRIEDADES DA VARIÂNCIA
+        Sabendo que VAR(X) = 10, calcule:
+
+        a) VAR(3X)                     b) VAR(5X)                           c) VAR(X+2)
+
+Estatística
+Prof. Jhoni Zini
+                                       
+
+
+---
+
+        PROPRIEDADES DA VARIÂNCIA
+        Sabendo que VAR(X) = 4, calcule:
+
+        a) VAR(2X)                     b) VAR( X)                           c) VAR(5X+6)
+
+Estatística
+Prof. Jhoni Zini
+                                       
+
+
+---
+
+VARIÂNCIA DA SOMA E DA
+DIFERENÇA
+
+                                                 Prof. Jhoni Zini
+
+            
+
+
+---
+
+        VARIÂNCIA DA SOMA
+                                     2.
+
+Estatística
+Prof. Jhoni Zini
+                     
+
+
+---
+
+        VARIÂNCIA DA SOMA
+        VAR(X) = 4   VAR(Y) = 10      COV(XY) = 5, CALCULE VAR(X + Y)
+
+Estatística
+Prof. Jhoni Zini
+                              
+
+
+---
+
+        VARIÂNCIA DA SOMA
+                                                          2.
+
+Estatística
+Prof. Jhoni Zini
+                     
+
+
+---
+
+        VARIÂNCIA DA SOMA
+        VAR(X) = 4   VAR(Y) = 10      COV(XY) = 5, CALCULE VAR(2X + 3Y)
+
+Estatística
+Prof. Jhoni Zini
+                              
+
+
+---
+
+        VARIÂNCIA DA SOMA
+      Sejam X e Y duas variáveis aleatórias com as seguintes informações sobre as
+      variâncias:
+       (i) Var(X) = 4 (ii) Var(Y) = 9 (iii) Var(X+Y) = 9
+
+      Qual é o valor da covariância entre X e Y?
+
+Estatística
+Prof. Jhoni Zini
+                                 
+
+
+---
+
+        VARIÂNCIA DA DIFERENÇA
+                                    2.
+
+Estatística
+Prof. Jhoni Zini
+                    
+
+
+---
+
+        VARIÂNCIA DA SOMA
+        VAR(X) = 4   VAR(Y) = 10      COV(XY) = 5, CALCULE VAR(X - Y)
+
+Estatística
+Prof. Jhoni Zini
+                              
+
+
+---
+
+        VARIÂNCIA DA DIFERENÇA
+                                                         2.
+
+Estatística
+Prof. Jhoni Zini
+                    
+
+
+---
+
+        VARIÂNCIA DA SOMA
+        VAR(X) = 4   VAR(Y) = 10      COV(XY) = 5, CALCULE VAR(4X - 2Y)
+
+Estatística
+Prof. Jhoni Zini
+                              
+
+
+---
+
+        QUESTÃO 1
+        Sejam Y, X, variáveis aleatórias tais que E(X2) = 25, E(X) = 4, Var(Y) = 16,
+        Cov (X,Y) = 6.
+
+        Então a variância de X+Y é:
+        a. 25;
+        b. 37;
+        c. 55;
+        d. 108;
+        e. 217.
+
+Estatística
+Prof. Jhoni Zini
+                                    
+
+
+---
+
+        QUESTÃO 2
+                                   variável
+                 estatística        X Y
+              média amostral       25 27
+             variância amostral    16 9
+        Se as variáveis X e Y forem independentes, o desvio padrão da soma X + Y
+        será igual a:
+        a. 5
+        b. 7
+        c. 12
+        d. 15
+        e. 25
+
+
+Estatística
+Prof. Jhoni Zini
+                                 
+
+
+---
+
+        QUESTÃO 3
+        sejam X e Y variáveis aleatórias. Se Var(X) = 5, Var(Y) = 2 e Cov(X, Y) = 1,
+        então Var(3X – 2Y) é igual a:
+        A. 53.
+        B. 19.
+        C. 11.
+        D. 41.
+        E. 65.
+
+Estatística
+Prof. Jhoni Zini
+                                  
+
+
+---

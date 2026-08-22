@@ -1,0 +1,91 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 07_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '07'
+titulo_aula: CONCEITO
+---
+
+# CONCEITO
+
+CONCEITO
+
+    A probabilidade é a razão entre o número                                                       PROBABILIDADE DA UNIÃO
+    de casos favoráveis e o número total de
+    casos possíveis:                                                                         É igual à soma das probabilidades,
+                                                                                             menos a probabilidade da interseção:
+
+                                                               PROBABILIDADE
+
+                                                                                                    PROBABILIDADE DO EVENTO
+                                                                                                        COMPLEMENTAR
+• A probabilidade de obtermos CARA no lançamento de
+  uma moeda (com 2 resultados possíveis) é ½.
+                                                                                             É igual a 1 menos a probabilidade do
+• A probabilidade é sempre um valor entre 0 e 1.                                             evento:
+
+• A probabilidade de todos os eventos possíveis é igual a 1.
+
+                                                                                                                                PROBABILIDADE
+                                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+            PROBABILIDADE                                                                          EVENTOS
+             CONDICIONAL                                                                        INDEPENDENTES
+
+  Quando precisamos calcular a                                                        O resultado de um não influencia no
+  probabilidade de um evento B,                     PROBABILIDADE                     resultado   do   outro,   como    o
+sabendo que um outro evento A já                                                      lançamento de 2 dados.
+ocorreu (representamos como B|A).
+                                                                                      Para eventos independentes:
+É a razão entre a probabilidade da
+  interseção e a probabilidade do                                                     • A probabilidade condicional é igual
+evento que sabemos que ocorreu.                                                       à probabilidade não condicional:
+                                                        TEOREMA DA
+                                                                                                    P(D|C) = P(D)
+                                                       MULTIPLICAÇÃO
+                                                                                      • A probabilidade da interseção é
+                                                                                      igual ao produto das probabilidades
+                                               Reorganizando a fórmula da
+                                           probabilidade condicional, calculamos
+                                              a probabilidade da interseção:
+  A probabilidade condicional de
+ obtermos uma face par, sabendo
+que o resultado foi primo {2, 3 ou 5} é:                                           Não confunda eventos independentes
+                                                                                   com eventos mutuamente excludentes,
+                                                                                   como CARA e COROA. Para estes últimos, a
+                                                                                   probabilidade da interseção é nula.
+
+                                                                                                                 PROBABILIDADE
+                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                          PROBABILIDADE
+
+           TEOREMA DA PROBABILIDADE
+                    TOTAL                                                                                TEOREMA DE BAYES
+
+• Calcula a probabilidade de todo o evento, a partir                              • Quando invertemos os eventos da probabilidade
+  das probabilidades condicionais.                                                      condicional.
+
+• A probabilidade total de inadimplência pode ser                                 • Podemos calcular a probabilidade de o cliente ser
+  calculada   a   partir   das   probabilidades    de                                   do grupo A, sabendo que o cliente é inadimplente:
+  inadimplência por grupo:
+
+                                                                                                                                      PROBABILIDADE
+                                                                                                ESTRATÉGIA CONCURSOS
+
+
+---

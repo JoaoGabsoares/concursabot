@@ -1,0 +1,201 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 01_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '01'
+titulo_aula: 'Seguridade Social:'
+artigos_citados:
+- art. 194
+---
+
+# Seguridade Social:
+
+Seguridade Social:
+                      Conceituação. Organização e
+                       Princípios Constitucionais
+
+RESUMO DA AULA
+
+✓ Podemos dizer que a Seguridade Social é gênero, dos quais são espécies Saúde,
+   Assistência Social e Previdência Social.
+
+
+✓ As ações destinadas a assegurar os direitos relativos à Saúde, Assistência Social e
+   Previdência Social são ações integradas.
+
+
+✓ As ações destinadas a assegurar os direitos relativos à Saúde, Assistência Social e
+   Previdência Social são de iniciativa dos “Poderes Públicos” e da “Sociedade”.
+
+
+✓ Saúde se destina a todos. Tem caráter não contributivo.
+
+
+✓ Assistência Social se destina aos necessitados. Tem caráter não contributivo.
+
+
+✓ Previdência Social se destina apenas aos beneficiários (segurado + dependente). Tem
+   caráter contributivo e compulsório.
+
+
+✓ A Seguridade Social será organizada apenas pelo “Poder Público”.
+
+                                                                                   1
+                                                                                   4
+                            
+
+
+---
+
+✓ A Seguridade Social terá assegurado o caráter democrático e descentralizado da
+   administração, mediante gestão quadripartite (participação dos trabalhadores,
+   empregadores, aposentados e governo nos órgãos colegiados).
+
+
+✓ A Saúde é um direito de todos e possui caráter não-contributivo.
+
+
+✓ A Assistência Social será prestada apenas aos necessitados e possui caráter não-
+   contributivo.
+
+
+✓ A Previdência Social será destinada apenas aos segurados e seus dependentes e terá
+   caráter contributivo e de filiação obrigatória.
+
+
+✓ Devemos memorizar a literalidade de todos os objetivos (princípios constitucionais) da
+   Seguridade Social – art. 194, § único da CF/88, pois são frequentemente exigidos em
+   provas da banca.
+
+
+        ✓ Universalidade da Cobertura: a proteção social oferecida pela Seguridade
+            Social deve alcançar todos os riscos sociais (infortúnios), aos quais quaisquer
+            pessoas estão sujeitas, e que possam levá-las a uma condição de necessidade,
+            tais como: maternidade, velhice, doença, acidente, invalidez, reclusão e morte.
+
+
+        ✓ Universalidade do Atendimento: Visa tornar a Seguridade Social acessível a
+            todas as pessoas, sejam nacionais ou estrangeiras
+
+
+        ✓ Uniformidade: Refere-se à igualdade quanto aos eventos a serem cobertos
+            para as populações urbanas e rurais. Assim sendo, diante das mesmas
+            contingências (maternidade, morte, velhice, doença, etc.) a cobertura deverá
+            se entender tanto a trabalhadores urbanos como rurais.
+
+
+        ✓ Equivalência: Refere ao valor pecuniário dos benefícios ou qualidade da
+            prestação dos serviços, em relação às populações urbanas e rurais. Não quer
+            dizer que os valores têm que ser idênticos. Quer dizer que, se as pessoas
+
+
+                                                                                        2
+                                                                                        4
+                             
+
+
+---
+
+   estiverem na mesma condição, não poderá haver diferenciação, devendo tais
+   prestações ser, portanto, equivalentes.
+
+
+✓ Seletividade: Impõe ao legislador a delimitação do rol de prestações, devendo
+   definir, na lei orçamentária, onde aplicar os limitados recursos, dentro das
+   ilimitadas demandas da sociedade, levando-se em conta as prestações sociais
+   de maior relevância para o bem-estar, a justiça social e as possibilidades
+   econômico-financeiras do sistema.
+
+
+✓ Distributividade: Tem por objetivo diminuir as desigualdades sociais,
+   buscando melhor distribuição de renda, direcionando a atuação do sistema
+   protetivo às pessoas com maior necessidade.
+
+
+✓ Irredutibilidade do valor dos Benefícios:
+
+
+  Especificamente sobre benefícios da Previdência Social (ou previdenciários):
+     • Segundo a CF/88 e a legislação previdenciária: garantia da manutenção
+       do VALOR REAL;
+     • Segundo a jurisprudência (STF): garantia da manutenção do VALOR
+       REAL.
+     • Segundo a jurisprudência (STF): garantia da manutenção do VALOR
+       NOMINAL, em caso de deflação.
+
+  Genericamente sobre benefícios da Seguridade Social (sem especificar qual a
+  área da Seguridade Social):
+     • Segundo a CF/88: garantia da manutenção apenas do VALOR
+        NOMINAL;
+     • Segundo a jurisprudência (STF): garantia da manutenção apenas do
+        VALOR NOMINAL.
+
+  Especificamente sobre benefícios da Assistência Social ou da Saúde:
+     • Segundo a lei: garantia do VALOR NOMINAL;
+     • Segundo a jurisprudência: garantia do VALOR NOMINAL.
+
+✓ Equidade na Forma de Participação no Custeio: Tal princípio busca a
+  observância dos critérios de justiça e igualdade, e consiste em tratar
+
+
+                                                                            3
+                                                                            4
+                   
+
+
+---
+
+          igualmente os iguais e desigualmente os desiguais, na medida de suas
+          desigualdades. Estabelece, também, que a contribuição para o sistema será
+          determinada de acordo com a capacidade econômica de cada contribuinte.
+
+       ✓ Diversidade da Base de Financiamento, identificando-se, em rubricas
+         contábeis específicas para cada área, as receitas e as despesas vinculadas a
+         ações de saúde, previdência e assistência social, preservando o caráter
+         contributivo da previdência social: busca garantir a arrecadação de
+         contribuições, de modo que a base de financiamento da seguridade social seja
+         a mais variada possível, tendo diversas fontes de custeio. Dessa forma, haverá
+         maior segurança para o sistema.
+
+       ✓ Caráter democrático e descentralizado da administração, mediante gestão
+         quadripartite, com participação dos trabalhadores, dos empregadores, dos
+         aposentados e do governo nos órgãos colegiados: princípio assegura a
+         participação da sociedade na gestão da Seguridade Social, ou seja, deixa de
+         ser administrada exclusividade do Poder Público, e passa a ser compartilhada
+         com integrantes da sociedade civil, tendo, portanto, caráter democrático e
+         descentralizado, mediante gestão quadripartite, com participação dos
+         trabalhadores, empregadores, aposentados e do próprio governo, em órgãos
+         de deliberação colegiados.
+
+       ✓ Solidariedade: busca reduzir as desigualdades sociais, permitindo que alguns
+         contribuam mais para o sistema, enquanto outros contribuam menos, de
+         acordo com suas condições financeiras e demais características individuais
+         previstas em lei.
+
+✓ As contribuições sociais para a Seguridade Social só poderão ser exigidas após
+  decorridos noventa dias da data da publicação da lei que as houver instituído ou
+  modificado (aumentado), não se lhes aplicando o princípio da anterioridade do
+  exercício financeiro.
+
+             @profrubensmauricio
+
+
+             Prof. Rubens Maurício
+
+
+             t.me/previdenciariodiagramado
+
+                                                                                    4
+                                                                                    4
+                          
+
+
+---

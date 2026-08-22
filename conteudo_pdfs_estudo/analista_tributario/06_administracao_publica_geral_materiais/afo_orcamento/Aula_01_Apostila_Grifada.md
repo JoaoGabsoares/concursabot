@@ -1,0 +1,4052 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Sumário
+artigos_citados:
+- Art. 187.
+---
+
+# Sumário
+
+Sumário
+
+Introdução 
+
+Cronograma de Aulas 
+
+ADMINISTRAÇÃO FINANCEIRA DE CURTO PRAZO 
+
+   1 - Orçamentação 
+
+       1.1 – O Orçamento Empresarial 
+
+       1.2 – Os quatro orçamentos básicos da administração financeira 
+
+       1.3 – Diferenciação entre Orçamento Econômico e Financeiro 
+
+       1.4 – Execução e Controle do Orçamento 
+
+   2 - Modelos de Relatórios para Administração Financeira 
+
+       2.1 – Componentes da DRE para Orçamento Empresarial 
+
+       2.2 – Demonstrações Financeiras Projetadas 
+
+       2.3 – Resumo das principais rubricas contábeis utilizadas em finanças e administração financeira
+
+   3 - Administração Financeira de Curto Prazo 
+
+       3.1 – O capital de giro líquido (capital circulante líquido – CCL) 
+
+       3.2 – Definindo ciclo operacional e de caixa 
+
+       3.3 – Como calcular os diferentes ciclos de administração de caixa 
+
+       3.4 – Orçamento de caixa de curto prazo, uma visão prática 
+
+       3.5 – Modelos de Administração de Caixa 
+
+       3.6 – Capital de giro operacional e financeiro 
+
+       3.7 – Efeito Tesoura 
+
+       3.8 – Ponto de Equilíbrio 
+
+Fórmulas 
+
+Lista de Questões 
+
+
+                                                                                                                                                               1
+
+
+---
+
+Questões comentadas com gabarito 
+
+                                                          INTRODUÇÃO
+O presente curso procura cobrir as principais vertentes da Administração Financeira que costumam cair em
+concursos. É fundamental diferenciar Administração Financeira Privada Geral, da Administração Pública,
+são matérias inteiramente diferentes e, normalmente, tratadas até em partes diferentes dos concursos,
+ficando a parte pública mais no Direito Administrativo, e a parte privada com outras matérias gerais de
+administração.
+
+De forma resumida, administração financeira privada é o conjunto de atividades que tratam do controle,
+planejamento e análise das movimentações de recursos mensuráveis em dinheiro/ativos das empresas. As
+decisões de administração financeira buscam otimizar e racionalizar o uso dos recursos financeiros das
+empresas, ou seja, buscam tomar decisões que maximizem o lucro e objetivem o aumento patrimonial.
+
+Na administração financeira de longo prazo, o objetivo é quantificar os projetos em que a empresa quer
+entrar, sejam eles completamente novos (compra de outras empresas ou ativos) ou atualização de projetos
+e processos atuais (reforma de máquinas, melhoria nos processos, uso de softwares etc.).
+
+O administrador financeiro de longo prazo utiliza um orçamento empresarial de capital para mapear toda a
+expectativa futura a respeito do fluxo de caixa dos projetos de investimento (novos ou contínuos), de forma
+a trabalhar com um horizonte de razoável previsibilidade.
+
+A partir deste orçamento, que é considerado a melhor projeção possível sobre os fluxos de caixa que serão
+gerados pelos investimentos da empresa, o administrador de longo prazo precisará definir as FONTES DE
+FINANCIAMENTO dos projetos. Aliás, essa é a principal função financeira da empresa, otimizar a alocação
+de capital para que a empresa atinja e/ou maximize seus objetivos e metas.
+
+Alocar capital em um projeto de longo prazo significa definir quais as fontes de financiamento que
+maximizariam o VALOR PRESENTE deste fluxo de caixa previsto. Há 2 fontes básicas de capital, dívida
+(capital de terceiros) e equity (capital próprio). Algumas vezes tomar dívida barata pode maximizar o valor
+do projeto, em outros casos, se o custo de captação com terceiros for alto, pode ser melhor buscar capital
+próprio.
+
+Não é objetivo destas aulas de Administração Financeira ensinar os modelos de cálculo de valor presente
+de projetos com ou sem dívida, modelo CAPM, WACC etc., pois, normalmente, as bancas chamam essa
+parte de Finanças Privadas ou Corporativas. O administrador financeiro não é, via de regra, chamado a
+fazer valuation ou análise de preço de ativos e passivos. Para as aulas de Administração Financeira
+manteremos o foco na construção de orçamentos de curto prazo, gestão de fluxo de caixa, técnicas de
+projeção de vendas etc., que é algo mais dentro da realidade administrativa do dia-a-dia.
+
+A administração financeira engloba análise, planejamento financeiro, correta utilização de recursos
+financeiros, análise de crédito, análise do fluxo de caixa, acompanhamento dos prazos e projeções, custo
+
+
+                                                                                                                                            2
+
+
+---
+
+do crédito etc., sempre com foco em reduzir custos da operação financeira da empresa, ou maximizar seus
+ganhos financeiros.
+
+A grande decisão que fica nas mãos dos planejadores financeiros é a estrutura de capital da empresa, ou
+seja, como ela se financia, quanto de capital próprio, quanto de capital de terceiros.
+
+Na administração financeira de curto prazo, o objetivo é quantificar decisões que envolvem o uso de caixa
+e as necessidades de capital de giro. Ao contrário da Administração de longo prazo, o orçamento não é de
+capital e não envolve vários anos de projeção, mas sim de meses, semanas e até dias.
+
+É comum que as bancas misturem outros itens à Administração Financeira, como introdução à análise de
+demonstrações contábeis, análise por indicadores, ponto de equilíbrio e há até uma certa interseção com
+administração de estoques e de produção. Quando for necessário, trataremos dessas questões (o que não
+for matéria exclusiva de outro professor).
+
+                                                                                                       3
+
+
+---
+
+                                     CRONOGRAMA DE AULAS
+
+Sobre o Concurso para a Receita Federal
+
+O conteúdo está baseado no edital do concurso de 2022-2023.
+
+A parte que será abordada em nossas aulas é a seguinte:
+
+        Administração Geral: Administração Financeira. Indicadores de Desempenho. Tipo.
+        Variáveis. Princípios gerais de alavancagem operacional e financeira. Planejamento
+        financeiro de curto e longo prazo. Conceitos básicos de análise de balanços e
+        demonstrações financeiras.
+
+Estará dividida da seguinte forma:
+
+     AULAS                             TÓPICOS ABORDADOS                                     DATA
+      Aula 01             Conceitos de Administração Financeira de Curto Prazo               Ver site
+      Aula 02                  Princípios Básicos para Análise de Balanços                   Ver site
+      Aula 03             Conceitos de Administração Financeira de Longo Prazo               Ver site
+      Aula 04                                Exercícios Diversos Banca FGV                   Ver site
+      Aula 05                Exercícios Gerais (vários tipos, diversas bancas)               Ver site
+
+Essa é a distribuição dos assuntos ao longo do curso. Eventuais ajustes poderão ocorrer, especialmente por
+questões didáticas. De todo modo, sempre que houver alterações no cronograma acima, vocês serão
+previamente informados, justificando-se.
+
+IMPORTANTE!
+
+É comum haver interseção entre os conteúdos de Administração Financeira e Finanças e Contabilidade. A
+diferença fundamental está na abordagem.
+
+Enquanto em Contabilidade a análise de caixa se resume apenas ao cálculo em si, para Administração
+Financeira está sempre atrelada a algum processo decisório dentro da firma. Enquanto em Contabilidade o
+que conta mais é um conhecimento profundo dos CPCs e do mecanismo de contabilização, em
+Administração o foco é sempre gerencial e decisório.
+
+Enquanto em Finanças Corporativas o foco é mais no cálculo do valor justo de projetos de capital, na
+Administração Financeira o foco é em cálculos simples de alavancagem.
+
+Mãos à obra!
+
+                                                                                                        4
+
+
+---
+
+                                APRESENTAÇÃO PESSOAL
+Por fim, resta uma breve apresentação pessoal. Meu nome é Paulo Portinho. Tenho formação em
+engenharia mecânica pela PUC-RJ (1990 a 1995), mestrado em administração pelo IAG-PUC RJ (1996 a
+1998), MBA em Regulação do Mercado e Capitais (IBMEC) e Cursos de especialização avançado em IFRS
+(FIPECAFI).
+
+Atuei de 2003 a 2012 como executivo do Instituto Nacional de Investidores - INI, instituição fundada pelas
+maiores empresas brasileiras e pela Bovespa para ensinar os brasileiros a investir em ações de forma
+consciente.
+
+Desde 1999 atuo como professor universitário, tanto em graduação quanto em pós-graduação. Fiquei breve
+período afastado das instituições de ensino apenas para organizar eventos internacionais de investidores
+aqui no país, mas a atividade didática nunca parou, pois pelo INI ministrei várias centenas de palestras e
+cursos e treinei quase 2 centenas de multiplicadores na metodologia do instituto.
+
+Tenho 4 livros lançados, 3 deles ainda em catálogo e, graças à generosidade dos leitores, muito bem
+vendidos até hoje, apesar da idade (lançados em 2009 e 2010). São eles: “O Mercado de Ações em 25
+Episódios”, “Quanto Custa Ficar Rico”, ambos pela editora Campus-Elsevier e “Investimentos para Não
+Especuladores”, este mais recente (2014) pela editora Saraiva, onde apresento uma metodologia
+proprietária para seleção de carteira de ações.
+
+Atuei como articulista, fonte e entrevistado para vários veículos, como a revista Razão de Investir, revista
+Investmais, Jornal Corporativo, site acionista.com.br, infomoney, Programa Sem Censura, Programa Conta
+Corrente (Globo News), Folha de São Paulo, Jornal O Globo, entre outros.
+
+Minha história com concursos é breve e curiosa. Em 1995, após a faculdade, eu resolvi fazer a prova da
+ANPAD, para mestrado em Administração e da ANPEC, apesar de não ser economista, para mestrado em
+economia. Nesse momento, em pouco mais de 2 meses, consegui correr toda a matéria de Economia do
+programa. Isso me ajudou anos mais tarde a fazer o concurso do BACEN de 2001.
+
+O Brasil de 2001 era um país bem diferente. Tinha havido represamento de concursos, de forma que as
+relações candidato/vaga eram altíssimas, e pior, como havia poucos concursos, o nível da concorrência era
+bastante elevado dado o “estoque” de pessoas preparadas que não conseguiam passar nas poucas
+oportunidades disponíveis.
+
+
+                                                                                                          5
+
+
+---
+
+Nas provas não específicas, tipo português, matemática financeira, etc., acertei as questões apresentadas.
+Aliás, isso é fundamental para passar em concursos muito concorridos, pois candidatos muito preparados
+raramente erram questões simples. Para REALMENTE fazer diferença nas matérias específicas, é
+importante não perder pontos nas mais simples.
+
+Chegou a prova específica. Achei dificílima, muitas matérias e com elevado nível de complexidade nas
+questões. Lembro que saí da prova apostando que ninguém, e olha que, pela minha lembrança, eram 16.000
+candidatos, acertaria mais de 40 questões, das 50.
+
+Pois acertei, o maior número de acertos, ao menos das pessoas que passaram, foi de 36 questões.
+Impressionante!
+
+Por inexperiência em concursos, esqueci, ou não me atentei para a necessidade de apresentar meu diploma
+do mestrado. O que me tirou um ponto ou um ponto e meio. Sei que, em vez de passar abaixo da posição
+25, esse esquecimento me levou para a posição 33. Eram apenas 30 vagas.
+
+Mas, como houve desistências, fui chamado logo depois. Creio que a digitação do meu nome completo no
+Google, Paulo Roberto Portinho de Carvalho ainda traga a publicação.
+
+Não aceitei a convocação. Tinha muitas atividades no Rio, era professor universitário, consultor full time,
+músico profissional e, além de ganhar mais com essas atividades, seria pesaroso e caro sair do Rio de Janeiro
+naquele momento.
+
+Viajando agora para 2010, estava decidido a sair do Instituto Nacional de Investidores e empreender. Meu
+objetivo era obter os registros de analista profissional de investimentos e de agente autônomo de
+investimentos para atuar em alguma das dezenas de corretoras de valores que conhecia.
+
+Vi que a CVM estava com concurso aberto, tinha muitos amigos trabalhando na autarquia. Vi também que
+o edital trazia matéria muito próxima da prova da APIMEC, para Analista Profissional, e resolvi fazer a prova
+como forma de estudar.
+
+A maioria das matérias já estava em meu conhecimento, seja como professor da área de finanças, escritor
+e pela vivência no mercado de capitais. A escassez de tempo, pelo volume de trabalho e por estar com filha
+pequena em casa, não me permitiu uma preparação específica para a prova.
+
+Fiz a prova e, evidentemente, não esperava passar. Minha experiência com o BACEN indicava que era muito
+improvável passar sem grande preparação. Apesar da experiência com mercado e com a área financeira,
+como professor e escritor, realmente não estava esperando sucesso.
+
+Descobri que tinha passado de forma inusitada. Não estava acompanhando o desenrolar do concurso, e
+alguém comentou no meu blog (Blog do Portinho): “Parabéns por passar para Analista da CVM”. Fiquei
+assustadíssimo, pois achei que era alguém me criticando por algum texto que pudesse parecer indicação de
+ações, o que só é permitido a analistas profissionais. Isso era inadmissível no instituto em que eu trabalhava.
+
+Levei alguns minutos para entender o que estava, realmente, acontecendo.
+
+Daí veio o dilema de aceitar ou não, pois tinha bons relacionamentos na iniciativa privada, que queria usar
+assim que saísse do INI.
+
+                                                                                                             6
+
+
+---
+
+A deterioração do mercado de ações, a paternidade recente e o ótimo relacionamento que tinha com alguns
+servidores da CVM, ligados à área de educação do investidor, me fizeram decidir por tomar posse na CVM.
+No último dia...
+
+Hoje posso dizer que a decisão, do ponto de vista de evolução profissional, foi acertadíssima. Encontro-me
+cercado de gente de enorme capacidade profissional e intelectual. Atuamos realmente em defesa do
+mercado e dos minoritários, como nunca imaginei ser possível estando na iniciativa privada. Fazemos
+trabalhos de alto nível, que realmente acreditamos ser em benefício do mercado de capitais brasileiro.
+
+É um mundo diferente do que vivi na iniciativa privada, mas fascinante. Acredito que quem entra para
+autarquias, reguladores, no BACEN etc., vai se sentir fazendo parte de organismos de extrema importância
+para o desenvolvimento do país.
+
+                                                                                                        7
+
+
+---
+
+            ADMINISTRAÇÃO FINANCEIRA DE CURTO PRAZO
+
+1 - Orçamentação
+
+1.1 – O Orçamento Empresarial
+
+O orçamento é a peça básica de toda a administração financeira, pois representa a projeção de todos os
+fluxos futuros de recursos na empresa. Até as decisões financeiras erradas do passado apresentam sua
+“conta” no futuro, ou seja, se tomamos uma linha de crédito cara demais no passado, seus efeitos estarão
+representados no orçamento para o futuro. Não há nenhuma hipótese de trabalhar administração
+financeira, seja de curto ou de longo prazos, sem partir do orçamento empresarial ou de um orçamento de
+capital.
+
+Administrar é um processo dinâmico que consiste em tomar decisões a respeito de objetivos (estratégicos,
+táticos etc.) e recursos. O administrador está a todo tempo fazendo escolhas relativas a planejamento,
+organização, direção e controle.
+
+       Planejar significa tomar decisões sobre objetivos, globais ou localizados, indicando os caminhos e
+       os recursos para atingi-los. É um ato de modelar o futuro que a empresa deseja e os caminhos para
+       se atingir esse futuro.
+
+       Organização significa tomar decisões sobre a hierarquia, sobre a divisão de autoridades e
+       responsabilidades dentro do organismo empresarial.
+
+       Dirigir significa tomar decisões objetivas para obtenção e uso dos recursos necessários para atingir
+       os objetivos.
+
+       Controlar significa estabelecer padrões intermediários aos objetivos e garantir que sejam
+       cumpridos, de forma a contribuir para o objetivo final.
+
+O Método do Orçamento Empresarial baseia-se também, e principalmente, no ciclo PDCA (Plan, Do,
+Check, Act), também chamado de ciclo de Deming ou de Shewhart. O PDCA é uma abordagem
+empresarial que busca a melhoria contínua em processos, inclusive o orçamentário.
+
+                                                                                                         8
+
+
+---
+
+                                                    PDCA
+
+                                                               Check                       Act
+          Plan                         Do
+                                                            Verificar e               Reajustar se
+        Planejar                      Agir                   controlar                 necessário
+
+Significa planejar, que é organizar o futuro em planilhas e premissas, executar as ações necessárias para
+cumprir aquilo que se previu, verificar constantemente se as premissas e os objetivos estão sendo cumpridos
+e agir, caso se perceba discrepância entre o previsto (orçado) e o realizado.
+
+        Em essência o orçamento é uma peça de PLANEJAMENTO FINANCEIRO.
+
+Orçamento é uma descrição precisa dos efeitos das operações da empresa na sua contabilidade e nas suas
+finanças (fluxo de caixa e fluxo de investimentos).
+
+Falando de forma mais técnica, o planejamento financeiro de curto prazo diz respeito ao exercício social
+atual, no máximo o exercício social seguinte, caso estejamos trabalhando já com o exercício atual em
+andamento. Está relacionado mais com objetivos operacionais ou táticos, ou seja, subordinados à
+estratégia global da empresa. Costuma lidar com gestão de fluxo de caixa, de desembolsos, de
+investimentos, alocação de recursos de curto prazo etc.
+
+Já o planejamento financeiro de longo prazo diz respeito a períodos superiores a 2 anos, normalmente 5 a
+10 anos. Diz respeito a objetivos estratégicos e sua reavaliação costuma tomar mais tempo da
+administração. Este planejamento se ocupa das análises de viabilidade econômico-financeira de projetos
+de investimento, de unidades de negócios etc.
+
+Orçamento Empresarial - Definições
+
+O orçamento é uma expressão quantitativa de um plano de ação futuro, que expressa as premissas da
+administração para determinado período de tempo. Funciona como um guia para as operações e como base
+para avaliação de desempenho.
+
+O orçamento não é utilizado apenas para prever os desembolsos e entradas do futuro, mas também é
+importante para avaliar os gastos passados. É uma forma de integrar diversas áreas da empresa, pois o
+
+
+                                                                                                         9
+
+
+---
+
+orçamento reflete as estratégias da empresa que perpassam todas as suas áreas. Os orçamentos de cada
+área ajudarão a formar o orçamento global da empresa e precisam estar consistentes com este.
+
+O processo orçamentário força a empresa a: Identificar seus objetivos de longo prazo e suas metas a curto
+prazo e ser específica no estabelecimento de metas e na avaliação do desempenho relativo as elas;
+Reconhecer a necessidade de enxergar a empresa como um sistema de componentes que interagem e
+devem estar coordenados de forma organizada (através dos orçamentos e dos sistemas de planejamento
+centralizado); informar as metas da empresa a todos os seus colaboradores e administradores e envolvê-los
+no processo orçamentário e no atingimento dos objetivos; e se antecipar aos problemas e contingências,
+tratando-os antes de comprometer as metas traçadas.
+
+O sistema orçamentário é o conjunto dos vários orçamentos das várias áreas da empresa, interligados e
+operados de forma conectada (muitas vezes com softwares específicos para isso). Esse sistema se utiliza de
+técnicas e procedimentos contábeis/financeiros aplicados aos dados decorrentes de planos, políticas e
+metas para a obtenção da meta desejada. Esse sistema costuma gerar os relatórios financeiros e contábeis
+necessários para a boa gestão da empresa.
+
+Alguns autores consideram que Orçamento Empresarial é apenas a peça de curto prazo, que reflete, para o
+intervalo de 12 meses, o planejamento financeiro de longo prazo da Companhia. Enquanto os
+administradores planejam para 5 ou 10 anos, os gestores táticos precisam montar orçamentos anuais (às
+vezes detalhados por dia) condizentes com esses planos para os vários anos da estratégia prevista.
+
+O Orçamento Empresarial é um modelo de planejamento financeiro composto por relatórios específicos
+para cada categoria orçamentária, sendo interdependentes, mas intimamente conectados, que podem ser
+agrupados em dois grandes grupos: Orçamento Operacional e Orçamento Financeiro.
+
+        Os relatórios do Orçamento Operacional mais comuns são:
+
+                   Orçamento de vendas – é onde se projetam as premissas sobre as receitas da empresa
+               ou da unidade de negócios.
+                    Orçamento de produção (Materiais diretos, Mão de obra direta e Custos indiretos de
+               fabricação) – é onde se calculam os custos variáveis e fixos.
+                    Orçamento de despesas
+
+        Os relatórios do Orçamento Financeiro mais comuns são:
+
+                   Orçamento de despesas de capital – diz respeito aos investimentos e suas formas de
+               financiamento. É onde se trata o CAPEX (capital expenditure).
+                    Orçamento de caixa/capital de giro – diz respeito às necessidades de manutenção de
+               caixa/capital de giro para a empresa ou para a unidade de negócios.
+
+
+                                                                                                       10
+
+
+---
+
+                    Demonstrações financeiras projetadas.
+
+A forma mais apresentada na literatura é um pouco mais concisa e propõe a divisão em apenas 4
+orçamentos, que são os mais importantes mesmo, Receitas, Despesas, Caixa e Capital.
+
+                            • A previsão de receita é a base do
+      Receitas                          orçamento.
+
+                                 Custos               • A receita projetada gera
+                                                           previsão de custos
+                                 diretos                         diretos
+
+
+                                                                              •Despesas não
+                                                                               têm relação
+                                                        Despesas               direta com a
+                                                                                  receita
+
+Etapas para aprovação do Orçamento Empresarial
+
+O procedimento padrão, sempre a partir das definições estratégias, pode ser exemplificado como se segue:
+
+              1. Conselho de Administração/Presidência – Aprova o plano estratégico e define as
+                 políticas e as metas orçamentárias (normalmente mais gerais)
+              2. Direção das unidades de negócios – A partir do plano estratégico, traça metas
+                 detalhadas para a unidade.
+              3. Direção das unidades de negócios – Após definida a estratégia e as metas da unidade,
+                 sua execução é orçada e os dados são enviados para uma central que controla os
+                 orçamentos.
+              4. Central de Orçamentos – Consolida os orçamentos das várias áreas, organiza-os de
+                 forma a refletir um orçamento global para a empresa e faz simulações para verificar se os
+                 planos, com base nos orçamentos de cada área, serão atingidos a partir dos dados
+                 enviados.
+              5. Central de Orçamentos – Se a simulação mostrar que as definições das áreas NÃO vão
+                 ajudar no atingimento das metas estratégicas, a Central pode se decidir por criticar as
+                 metas estratégicas (retornar ao Conselho/Presidência) ou enviar às áreas para ajustes
+                 menores.
+
+
+                                                                                                       11
+
+
+---
+
+              6. Central de Orçamentos – Quando os orçamentos das áreas formarem um conjunto
+                 coerente e em linha com os objetivos estratégicos, pode-se propor, enfim, o orçamento
+                 anual para aprovação no Conselho/Presidência.
+              7. Central de Orçamentos e Direção das Unidades – Ambos ficarão responsáveis por
+                 cumprir e fiscalizar o cumprimento das metas e dos orçamentos, fazendo ajustes se
+                 necessário.
+
+                                                                                   Após metas
+                                                        Traçar metas
+                                Aprovar                                              orçar os
+        Ciclo                                            detalhadas
+                                o plano                                              custos e
+    Orçamentário                                           para as
+                              estratégico                                         enviar para
+                                                          unidades
+                                                                                    a Central
+
+   Consolidar as               Criticar as                Quando os
+    metas, gerar                 metas no                orçamentos               Fiscalizar o
+      orçamento               planejamento                das áreas                cumprimento
+      central e                 central e              estiverem ok,                das metas
+       simular                 refazer, se              gerar plano              orçamentárias
+      cenários.                necessário.                 central
+
+        O aluno está vendo que algumas áreas se repetem no procedimento padrão para
+        elaboração e aprovação do orçamento empresarial/financeiro, isso porque, de fato, os
+        procedimentos são diferentes e ocorrem de fato nessas áreas.
+
+Dentro das empresas a questão orçamentária é muito séria. Imagine uma Companhia gigante como a VALE
+S/A, por exemplo. Há dezenas de unidades que podem ter orçamentos próprios e autônomos. E se cada
+unidade propusesse um gasto exagerado no orçamento, para, se não conseguir cumprir ter folga para não
+estourar o orçamento? Certamente a central de orçamentos iria questionar, pois se todas as unidades
+fizessem isso, o orçamento seria irreal.
+
+É uma crítica constante aos orçamentos públicos essa questão de superestimar receitas e subestimar
+gastos, fazendo ajustes ao longo do ano para não descumprir as metas.
+
+No início de 2017, por força de determinação do TCU, a União precisou rever seu orçamento já no primeiro
+bimestre. As mudanças de premissas fizeram com que fosse previsto um rombo adicional de R$ 58 bilhões,
+para uma meta já muito ruim de R$ 139 bilhões de déficit primário. Ainda em março a equipe econômica
+precisou indicar o que faria para cobrir esse déficit acima da meta.
+
+
+                                                                                                     12
+
+
+---
+
+Em empresas privadas, o objetivo é chegar MUITO perto de acertar. É comum que orçamentos sejam
+estabelecidos PARA SEREM GASTOS, ou seja, se o gestor de uma unidade, marketing, por exemplo,
+requereu R$ 500 milhões e o valor foi aprovado, com base na justificativa apresentada, ele deve gastar
+aqueles R$ 500 milhões. Se gastar menos, pode ser porque fez menos e isso atrapalha os planos
+estratégicos. Se gastou menos, mas fazendo tudo o que se propôs, provavelmente seu orçamento do ano
+seguinte será menor (pois precisa de menos recursos para cumprir seus objetivos estratégicos e táticos).
+
+Tipos de orçamento
+
+Orçamento Estático
+
+       É baseado nos resultados de um único planejamento, uma única atividade, uma vez que é elaborado,
+       não muda, fica estático, parado, permanece sem alterações desde seu princípio. É um tipo de
+       orçamento não se ajusta a mudanças.
+
+       Aplica-se a funções administrativas básicas altamente previsíveis. Ou seja, como é fácil de prever,
+       não há porque apresentar mudanças. O orçamento de manutenção de impressoras, por exemplo,
+       pode ser fechado com exatidão (terceirizado).
+
+Orçamento Flexível
+
+       Tem origem na década de 70, na Alemanha por Kilger e Plaut (GPK), englobando dois princípios
+       básicos: controle e cálculo de custo por produto e a diversificação entre custos fixos e variáveis. É um
+       orçamento financeiro-contábil essencialmente.
+
+       Serve para que a empresa calcule com precisão sua capacidade produtiva e possa prever os custos
+       para os vários níveis de atividades. É eficaz apenas quando a empresa consegue calcular o que cada
+       empregado produz, e/ou o que cada equipamento produz etc. Outros parâmetros também podem
+       ser utilizados como produção/metro quadrado, produção/número de boxes (oficina) etc..
+
+       Aplica-se a empresas industriais, com relação clara entre produção e parâmetros produtivos dos
+       insumos (máquinas, homem-hora, eletricidade etc.).
+
+Orçamento Rolling ou Contínuo
+
+       Na verdade, diz respeito à técnica de contínua verificação e atualização do orçamento, avaliação de
+       todos os pontos, certos e errados, subdimensionados ou superdimensionados. Cobre um período de
+       12 meses, podendo ser subdividido em meses, bimestres, trimestres etc..
+
+       Esse orçamento é útil para empresas que produzem artigos com ciclo de vida bem curto, com pouca
+       previsibilidade, dessa forma evita-se “consertar” o orçamento em prazos dilatados (como anual).
+
+
+                                                                                                            13
+
+
+---
+
+Orçamento Beyond Budgeting
+
+      Foi criado por um grupo de empresas em 1998, quando renunciaram o orçamento tradicional e
+      apostaram na flexibilidade e descentralização dos setores e unidades de negócio.
+
+      Tem como objetivo promover um ambiente de trabalho favorável e mais livre (menos hierarquia).
+      Promove a autogestão a uma cultura organizacional focada em distribuição de responsabilidades,
+      buscando formatar uma cadeia de motivação, produtividade e melhor atendimento aos clientes.
+      Estimula a formação de líderes setorias. Os orçamentos individuais são dinâmicos, mas o orçamento
+      global é projetado a médio e longo prazo.
+
+      Sua maior aplicação se dá em empresas modernas e dinâmicas, em que há necessidade de tomada
+      de decisões em nível micro. Empresas industriais engessadas, com processos predefinidos e soluções
+      de engenharia de produção precisas NÃO poderiam usar esse modelo de orçamentação.
+
+Orçamento Ajustado
+
+      Refere-se apenas à técnica de, a partir do orçamento aprovado, para o ano atual ou anterior,
+      modifica-lo para se ajustar a novas condições, premissas ou estratégias.
+
+Orçamento Base Zero (OBZ)
+
+      Data da década de 1960, no Departamento de Agricultura dos Estados Unidos, porém sua
+      formalização e implementação ocorreu somente na década de 1970, com a implementação na
+      Divisão de Assessoria e Pesquisa da Texas Instruments.
+
+      É uma abordagem para planejamento e orçamentação que busca inverter a lógica tradicional de
+      orçamentação. Na orçamentação tradicional é utilizada uma abordagem incremental, na qual os
+      gestores setoriais ou das unidades orçamentárias (unidades de negócios) justificam apenas as
+      variações em relação aos anos anteriores, baseados na suposição de que o baseline dos está
+      implicitamente aprovado.
+
+      É como se o orçamento de marketing, por exemplo, não precisasse ser justificado novamente de
+      forma integral, apenas as mudanças deveriam ser justificadas.
+
+      No orçamento base zero, cada item do orçamento precisa ser explicitamente aprovado DE NOVO, a
+      cada orçamento, e não apenas as alterações em relação ao ano anterior.
+
+      Durante o processo orçamentação, nenhuma referência é feita ao nível de despesas do ano anterior.
+
+      O processo de orçamento base zero requer que a solicitação orçamentária seja revisada e avaliada
+      completamente, a partir de uma "base zero".
+
+                                                                                                     14
+
+
+---
+
+      O orçamento Base Zero é uma ferramenta essencial para o alinhamento das estratégias da empresa,
+      pois planeja e controla o financeiro da organização em um determinado período, tendo como base
+      o “papel em branco", permitindo uma rediscussão total do negócio quando dessa orçamentação,
+      relacionando cada gasto com seu respectivo resultado.
+
+      O orçamento deve possuir análise sobre as consequências da não execução de determinada função,
+      caminhos alternativos de ação, custos e benefícios, medidas de desempenho e tipos de alternativas.
+      Esse último abriga diferentes formas de realizar uma função, deferentes níveis de esforço para
+      produzir a mesma função (nível mínimo, corrente e de expansão).
+
+      O orçamento base zero relaciona os níveis de esforços de acordo com os percentuais de redução em
+      relação ao referencial que apresentado. Os níveis de esforços são alocados em um pacote de decisão
+      e deverão ser escolhidos conforme a função a ser executada, esse pacote será dividido em:
+
+              Esforço mínimo (esforço empregado é baixo, podendo não resultar em uma decisão
+               eficiente);
+              Esforço corrente (pode ser utilizado como um acréscimo do esforço mínimo);
+              Esforço de expansão (é o último esforço e é executado que procura enriquecer o nível
+               corrente, o qual detém o objetivo de permitir a execução de funções ou serviços adicionais
+               aos já existentes).
+
+1.2 – Os quatro orçamentos básicos da administração financeira
+
+Cada unidade de negócios instada a fazer seu orçamento precisará passar pelos quatro modelos básicos:
+
+Orçamento de receitas
+
+      É composto, principalmente, pela projeção do faturamento mês a mês ao longo do período orçado.
+      No caso de unidades que não geram receitas, a primeira linha do orçamento será composta pela
+      dotação (verba) orçamentária disponibilizada pela área responsável pelo cumprimento do
+      planejamento financeiro.
+
+      Alguns autores costumam segregar receitas operacionais de receitas não operacionais, tais como
+      juros recebidos, dividendos recebidos, ganhos de capital etc. Entendo que a divisão é importante,
+      principalmente em projetos de investimento, em que precisamos saber se a parte operacional do
+      negócio se paga ou não.
+
+                                                                                                        15
+
+
+---
+
+      O principal objetivo do orçamento das receitas é projetar o quanto a empresa poderá dispor durante
+      o período determinado. Normalmente as estruturas de despesas, custos, investimentos e
+      financiamentos precisam do orçamento de receitas para serem suportados, pois as entradas de caixa
+      é que vão suportar os desembolsos.
+
+Orçamento de despesas/custos
+
+      Este orçamento contempla uma parte variável e uma parte fixa. Normalmente a variável vai estar
+      ligada diretamente às Receitas.
+
+Orçamento de caixa
+
+      Em orçamentos mais detalhados, onde se busca fazer a gestão financeira de curtíssimo prazo,
+      costuma-se trabalhar com a estrutura de financiamento da empresa, com as diferenças entre seus
+      ativos e passivos circulantes. Será visto adiante.
+
+      Em orçamentos de projetos de investimento, costuma-se trabalhar apenas com a exigência de um
+      determinado patamar de caixa (chamado de capital de giro mínimo).
+
+Orçamento de Capital
+
+      Como já dito anteriormente diz respeito aos investimentos e suas fontes. Caso a empresa utilize o
+      próprio fluxo de caixa para reinvestir, ou se precisa de aportes de capital próprio ou de terceiros,
+      entrará no orçamento de capital.
+
+                                                                                                       16
+
+
+---
+
+       Na lei 6404/76, o Orçamento de Capital é uma justificativa que a empresa apresenta para o acionista
+       para reter lucros do exercício.
+
+                                                    Receitas
+
+
+                                             custos/despesas
+
+
+                                              caixa/resultado
+
+
+                                                investimento
+
+
+1.3 – Diferenciação entre Orçamento Econômico e Financeiro
+
+Os orçamentos tratados anteriormente fazem parte de outros dois grupos maiores, que se destacam como
+uma das principais ferramentas da administração financeira da empresa: o Orçamento Econômico e o
+Orçamento Financeiro.
+
+O primeiro obedece ao princípio da competência, essencialmente contábil, que reconhece as receitas,
+custos e despesas nas datas em que ocorram os atos e fatos econômicos, independente da sua realização.
+O segundo funciona no regime de CAIXA, reconhecendo as receitas, custos e despesas nas datas em que
+estão previstas as entradas ou saídas efetivas dos recursos.
+
+O Orçamento Econômico prevê a fixação de metas para os itens que compõem a DRE (Demonstração de
+Resultados do Exercício) contábil clássica. A questão central, como sempre, é o orçamento de vendas, pois
+é o ponto de partida de todo o processo orçamentário. A partir deste orçamento se projetam os outros:
+orçamento de produção, de matéria-prima, de mão-de-obra direta ou indireta, de custos indiretos de
+fabricação, de despesas administrativas e comerciais e de despesas financeiras.
+
+O Orçamento Financeiro trata mais da questão do planejamento do financiamento das operações da
+Empresa (fontes e uso de capital próprio e de terceiros). Discrimina as receitas por fontes de recursos e as
+despesas por categorias econômicas, além de fazer previsão das entradas e saídas de caixa para o período,
+isto é, transformando-se em orçamento de caixa. Conforme já visto anteriormente, seu objetivo é tomar
+decisões sobre os “estoques” de ativos e passivos, sobre a forma de financiar os furos ou excessos de
+                                                                                                         17
+
+
+---
+
+caixa/capital. Esse planejamento financeiro é composto do orçamento de contas a pagar, de contas a
+receber, de aplicações, de empréstimos e de caixa.
+
+1.4 – Execução e Controle do Orçamento
+
+Não faz sentido implantar um processo de planejamento orçamentário sem uma estrutura organizacional
+que permita o atingimento das metas propostas pela administração. Normalmente, em ambientes
+empresariais complexos, isso se obtém com sofisticados softwares de gestão integrados, como ERP, SAP
+etc.
+
+Independentemente da qualidade dos sistemas, o comprometimento dos colaboradores envolvidos com o
+controle e execução orçamentários será fundamental para a correta contabilização dos inputs neste
+sistema.
+
+Neste ponto temos mais uma questão a tratar que está mais ligada a orçamentos públicos, que são,
+essencialmente, orçamentos de despesas. Execução orçamentária, do ponto de vista do orçamento público,
+é a utilização dos créditos consignados no Orçamento Geral da União e nos créditos adicionais, visando à
+realização dos subprojetos e/ou subatividades atribuídos às unidades orçamentárias. Assim, a execução
+orçamentária trata da execução das receitas e despesas públicas.
+
+No orçamento empresarial, como existe objetivo de maximização do lucro, há flexibilidade para que os
+níveis gerenciais melhorem a execução orçamentária fazendo mais (ou o mesmo) com menos recursos,
+melhorando assim a produtividade, reduzindo custos e aumentando os lucros da empresa.
+
+Todos os níveis gerenciais devem dispor de mecanismos e softwares de apoio ao controle da execução dos
+seus orçamentos individuais, avaliando a proximidade ou o afastamento dos valores orçados, para
+manutenção ou correção dos rumos, em tempo suficiente para agir e fazer os ajustes necessários para
+cumprir o previsto, ou aumentar a produtividade.
+
+O controle do orçamento é um sistema de feedback (retroalimentação), que exige do gestor uma
+comparação contínua dos resultados e do desempenho econômico-financeiro do período com os objetivos
+estratégicos planejados e orçados. A função controle é essencial para a realização do planejamento de longo
+e curto prazo. É comum que as revisões orçamentárias tenham períodos predeterminados, por exemplo,
+bimestres ou trimestres. No caso de questões mais delicadas, como necessidade de capital de giro, é
+possível que as revisões ocorrem ainda de forma emergencial.
+
+Há várias formas de controle operacional, financeiro e técnico nas empresas, mas todas acabam se
+refletindo no orçamento, de forma que este elemento de controle e visualização é um dos mais efetivos. Se
+há problemas na produção, se há problemas na distribuição ou no marketing, se o projeto de produto falhou,
+ou se as projeções de vendas foram conservadoras demais e as vendas estão bem acima do previsto, tudo
+isto terá visibilidade imediata no orçamento.
+
+                                                                                                        18
+
+
+---
+
+A melhor forma de se manter um controle orçamentário efetivo e tempestivo é através da educação
+orçamentária dentro da empresa. É necessário que os colaboradores abracem os processos de previsão,
+elaboração e controle, de forma a criar e manter uma mentalidade apropriada à adoção, aperfeiçoamento
+e eficiente execução do sistema de gestão através de orçamentos.
+
+Um ponto organizacional importante é dividir as variações controláveis do orçamento das variações que
+não estão sob o controle do gestor, para que se possa apurar responsabilidades quando da avaliação de
+desempenho individual do gestor e evidenciar quais áreas da empresa necessitam de aprimoramento.
+
+As variáveis não controláveis são decorrentes de fatores sobre os quais a empresa e o gestor não possuem
+poder de decisão ou influência, tais como políticas governamentais, conjuntura econômica, câmbio, taxas
+de juros etc..
+
+As variáveis controláveis decorrem de decisões administrativas que podem ser modificadas, eliminadas e
+corrigidas pela administração da empresa ou pelos gestores das unidades de negócio com orçamento
+próprio.
+
+O acompanhamento orçamentário é um clássico processo de administração por exceção, pois os gestores
+atuam quando encontram variações operacionais e financeiras relevantes entre o que foi orçado e o que foi
+realizado O processo de gerenciamento financeiro, em termos de controle, está praticamente todo baseado
+no orçamento empresarial, que é a ferramenta de controle por excelência de todo o processo operacional
+da empresa, pois envolve todos os setores da companhia, todas as unidades de negócios e todos os
+processos. Tudo se reflete no Orçamento.
+
+                                                                                                      19
+
+
+---
+
+2 - Modelos de Relatórios para Administração Financeira
+
+        IMPORTANTE! Esta parte costuma ser comum tanto à administração financeira, quanto à
+        contabilidade e finanças. Caso encontre material semelhante em outras aulas e sinta que
+        já tem domínio sobe o tema, pode passar diretamente para a aplicação dos conceitos.
+        Porém, é recomendável a leitura, pois as abordagens costumam ser diferentes.
+
+Para a elaboração de orçamentos empresariais, que são entidades gerenciais, utilizaremos estruturas
+semelhantes às DREs (demonstrações de resultados), balanços patrimoniais e demonstrativos de fluxo de
+caixa.
+
+A principal diferença é que DREs e balanços patrimoniais (demonstrações financeiras obrigatórias)
+costumam contar uma história passada, e orçamentos empresariais são, via de regra, projeções sobre o
+futuro que se quer antever (mensais, trimestrais, anuais etc.).
+
+A DRE projetada vai consolidar os orçamentos projetados de receitas e de despesas e custos e tem por
+objetivo medir se a empresa terá condições de atingir a meta de resultado estipulada pela administração,
+demonstrar como a distribuição e alocação dos recursos provenientes das receitas estão se dividindo entre
+custos e despesas e avaliar se os resultados observados estão consistentes com as metas estipuladas, o que
+poderá gerar correções de rumo necessárias para a realização do plano estratégico. Esse relatório deverá
+cumprir papel importante no controle do desempenho dos diversos departamentos gestores (com
+orçamentos próprios).
+
+O formato da DRE é um pouco diferente do utilizado pela contabilidade porque, por motivos de informação
+gerencial, o orçamento precifica o custo das vendas pelo método do custeio variável em vez do método de
+custeio por absorção, como faz a contabilidade. Na verdade, o ideal para quem monta um orçamento
+empresarial coerente é identificar qualquer rubrica de custo que dependa diretamente (ou quase) do nível
+de produção, para que se possa, a posteriori, calcular o ponto de equilíbrio de vendas da empresa, por
+exemplo.
+
+IMPORTANTE!!!
+
+Nos Concursos onde se pede explicitamente análise de índices, múltiplos ou de demonstrações financeiras,
+as contas/rubricas a seguir descritas serão melhor detalhadas em aula específica sobre o tema. O foco do
+material a seguir não é contábil, mas financeiro e econômico.
+
+                                                                                                       20
+
+
+---
+
+2.1 – Componentes da DRE para Orçamento Empresarial
+
+Receita Líquida e Bruta.
+
+Aqui há dois caminhos a seguir, pode-se considerar os impostos diretos como CUSTOS, e inseri-los dentro
+dos custos variáveis, ou simplesmente considerar que NÃO SÃO haveres da empresa, mas do governo,
+portanto não entram no orçamento, iniciando-se este a partir da receita líquida.
+
+Apesar de ser comum em livros de contábeis excluir da Receita bruta apenas as devoluções, os descontos
+incondicionais e as bonificações, para encontrar a Receita Líquida (inserindo os impostos diretos nos custos
+variáveis), em finanças isso não é muito comum, pois, ao menos no Brasil, os impostos não estão na base
+da receita líquida. Vejamos o que diz a Lei 6.404/76 (Lei das SAs - LSA) a respeito da DRE:
+
+        “Art. 187. A demonstração do resultado do exercício discriminará:
+
+           I - a receita bruta das vendas e serviços, as deduções das vendas, os abatimentos e os impostos;
+
+           II - a receita líquida das vendas e serviços, o custo das mercadorias e serviços vendidos e o lucro
+       bruto;
+
+           III - as despesas com as vendas, as despesas financeiras, deduzidas das receitas, as despesas gerais
+       e administrativas, e outras despesas operacionais;
+
+           IV – o lucro ou prejuízo operacional, as outras receitas e as outras despesas; (Redação dada pela Lei
+       nº 11.941, de 2009)
+
+           V - o resultado do exercício antes do Imposto sobre a Renda e a provisão para o imposto;
+
+           VI – as participações de debêntures, empregados, administradores e partes beneficiárias, mesmo na
+       forma de instrumentos financeiros, e de instituições ou fundos de assistência ou previdência de
+       empregados, que não se caracterizem como despesa; (Redação dada pela Lei nº 11.941, de 2009)
+
+           VII - o lucro ou prejuízo líquido do exercício e o seu montante por ação do capital social.”
+
+Percebe-se que a lei, explicitamente, trata Receita Líquida como algo livre de impostos, deduções e
+abatimentos. Creio que a intenção do ente arrecadador tem sido, cada vez mais, evitar que sua parte de
+impostos diretos transite nas contas das Companhias. Além disso, parece razoável atribuir o fato gerador
+do imposto direto à venda e não ao custo.
+
+Outro ponto importante, nas demonstrações financeiras apresentadas pelas Companhias Abertas à CVM,
+instrumento para controle do mercado, a DRE já começa diretamente da Receita Líquida (DFP).
+
+                                                                                                              21
+
+
+---
+
+Dessa forma, ressalvando que há autores influentes que sugerem a inclusão dos impostos diretos nos custos
+variáveis, vamos assumir o conceito de Receita Líquida que está na lei, pois, pelos motivos acima
+descritos, entendemos que é, mesmo gerencialmente, uma estrutura informacional melhor.
+
+CMV, CSP e CPV.
+
+O custo variável das vendas é usado de forma a abranger os clássicos Custos dos Produtos Vendidos (em
+empresas industriais), os Custos das Mercadorias Vendidas (em empresas comerciais) e os Custos dos
+Serviços Prestados (em prestadoras de serviços).
+
+É importante notar que, apesar de haver custos (gastos ligados diretamente aos produtos vendidos) fixos,
+a recomendação é dividir custos variáveis e fixos. Perceba que a LSA trata o Lucro Bruto como o resultado
+da subtração do CMV da Receita Líquida, porém, em orçamentos, há uma entidade intermediária
+importante antes do lucro bruto que é a Margem de Contribuição.
+
+      Margem de Contribuição – Calculada pela diferença entre a Receita Líquida e o Custo das Vendas
+       (variáveis apenas). Os valores apresentados nesta rubrica representam o montante de recursos de
+       que a empresa poderá dispor para fazer face aos custos e gastos fixos. Já os custos fixos englobam
+       os custos fixos diretos e indiretos de operação.
+      Lucro Bruto – Conforme previsto na Lei, é a Receita Líquida menos os custos TOTAIS (variáveis e
+       fixos) ou, no modelo orçamentário, a Margem de Contribuição menos os custos fixos.
+      Lucro Operacional – Seria o Lucro Bruto menos as despesas (gastos não ligados à produção).
+
+Modelo padrão para DRE de Orçamento Empresarial:
+
+
+                   RESULTADOS XYZ S/A                       1T17      2T17      3T17      4T17
+                   Receita Bruta (R$ Milhões)               11.025    15.303    17.569    18.897
+                             Deduções e Impostos diretos    (551)     (765)     (878)     (945)
+                   Receita Líquida (R$ Milhões)             10.474    14.538    16.691    17.952
+                                  CMV (variáveis diretos)   (3.875)   (5.379)   (6.176)   (6.642)
+                   Margem de Contribuição                   6.598     9.159     10.515    11.310
+                                            Custos Fixos    (1.500)   (1.500)   (1.500)   (1.500)
+                   Lucro Bruto                              5.098     7.659     9.015     9.810
+                                  Despesas operacionais     (4.600)   (4.600)   (4.600)   (4.600)
+
+
+                                                                                                      22
+
+
+---
+
+                    Lucro Operacional                       498     3.059     4.415     5.210
+                                     Resultado Financeiro   231      331      (682)      289
+                    Lucro antes do IR - LAIR                729     3.390     3.733     5.499
+                                               IR e CSLL    (248)   (1.153)   (1.269)   (1.870)
+                    Lucro Líquido                           481     2.237     2.464     3.629
+
+2.2 – Demonstrações Financeiras Projetadas
+
+O Balanço Patrimonial projetado.
+
+O BP projetado é um relatório pouco utilizado em análise financeira, servindo apenas para que se tenha
+noção das estruturas de financiamento projetadas para o projeto ou para a empresa.
+
+Adiante trataremos de planejamento financeiro de curto prazo, onde teremos a possibilidade de trabalhar
+com as contas do balanço patrimonial para avaliar a saúde patrimonial da empresa.
+
+A Demonstração de Fluxo de Caixa Projetado
+
+Como normalmente o orçamento é projetado para espaços de curtíssimo prazo, meses ou até dias, o fluxo
+de caixa projetado serve a propósitos de gestão de caixa, tais como:
+
+                    Avaliar a capacidade de a empresa gerar, diretamente de suas operações, os recursos
+                necessários ao financiamento dessas operações;
+                     Avaliar se o lucro gerado está sendo retido em outras contas do Ativo;
+                   Avaliar se a dependência da empresa de financiamentos de curto prazo está
+                aumentando ou diminuindo;
+                     Avaliar a capacidade de oferecer garantias a empréstimos de curto prazo;
+                    Avaliar se a política de reposição de estoques está compatível com a evolução da
+                geração de caixa da empresa;
+                     Avaliar o impacto das políticas de financiamento aos clientes têm sobre o fluxo de
+                caixa;
+                     Avaliar o quanto a empresa poderá comprometer com imobilizações;
+                   Avaliar se a política de retirada dos acionistas e de distribuição de dividendos é
+                compatível com a capacidade de geração de caixa e com a estrutura de capital de giro da
+                empresa; etc.
+
+O fluxo de caixa final é proveniente de três fluxos de caixa, o fluxo das atividades operacionais, o fluxo das
+atividades de investimento e o fluxo das atividades de financiamento.
+
+                                                                                                           23
+
+
+---
+
+O fluxo das atividades operacionais é representado pelo lucro operacional da empresa calculado pelo
+regime de caixa. É importante colocar esse ponto, pois, ao fazermos um orçamento empresarial, as contas
+do ativo e do passivo circulante e as variações do capital de giro operacional vão impactar no caixa disponível
+ao acionista ou aos credores. Adiante faremos contas com essas rubricas.
+
+O fluxo das atividades operacionais é a soma da geração de caixa interna, que é o lucro líquido com o
+acréscimo das depreciações e amortizações projetadas e a variação da necessidade de capital de giro, que
+é calculada a partir da variação dos saldos das contas que compõem o Ativo Circulante Operacional (que
+exclui caixa e disponibilidades) e o Passivo Circulante Operacional (que exclui as operações financeiras não
+operacionais).
+
+Considerações sobre o EBITDA ou Lajida
+
+         Um indicador bastante usado em finanças e que não está previsto na LSA (apenas na
+         instrução 527 da CVM, já revogada), é o EBITDA, em inglês “Earnings Before Interests,
+         Taxas, Depreciation and Amortization”, ou em português, LAJIDA “Lucro antes dos Juros,
+         Imposto de Renda (incluindo Contribuição Social), Depreciação e Amortização”.
+
+         Antes de explicar esse importante indicador, vale explicar a natureza das despesas (ou
+         custos) de amortização e depreciação.
+
+         Os investimentos das Companhias em ativo imobilizado (máquinas, prédios etc.) e em
+         ativo intangível (softwares, sites etc.) sofrem perdas naturais de valor ao longo do tempo,
+         seja por desgaste dos bens físicos ou obsolescência dos bens imateriais.
+
+         A legislação permite à contabilidade das Companhias “estimar” essa perda de valor. Para
+         bens materiais as companhias podem aplicar uma depreciação anual (despesa ou custo
+         estimado de perda de valor) e para bens imateriais podem aplicar uma amortização anual.
+
+         Esses itens são considerados despesas ou custos, a depender de sua aplicação, se são
+         utilizados DIRETAMENTE na produção ou de forma indireta.
+
+         Ocorre que, apesar de reduzirem o lucro (e em consequência o imposto a pagar), não são
+         desembolsos de caixa.
+
+         O LAJIDA procura captar o fluxo de caixa total da Companhia ANTES da destinação aos
+         grupos de credores e acionistas. A partir do lucro líquido devemos “devolver” os gastos
+         com juros (credores), impostos (governo) e depreciação e amortização (que não são
+         desembolsos de caixa, de forma que estarão disponíveis à Companhia).
+
+                                                                                                            24
+
+
+---
+
+        A retirada dos impostos é óbvia, apesar de o governo não ser propriamente um credor,
+        não “financiar” a empresa, o imposto pago é irretratável, portanto não estaria disponível
+        para nenhuma destinação, nem para pagar credores, nem para dividendos aos acionistas.
+
+        O que “sobra” após essas devoluções é exatamente o quanto seria possível destinar a
+        todos os grupos que têm interesses na estrutura da companhia.
+
+Após o fluxo de caixa das atividades operacionais temos o fluxo das atividades de investimento, que é
+composto pela variação do CAPEX (capital expenditure), ou pelo fluxo de aquisições e baixas projetadas,
+mês a mês ao longo do período orçado, nas contas do Ativo Permanente (investimentos e imobilizado).
+
+Naturalmente essa movimentação nas atividades de investimento terá uma contrapartida no fluxo de caixa
+de financiamentos da empresa. O fluxo de atividades de financiamento representa os recursos que foram
+aportados pelos dois grandes stakeholders da empresa, os credores, sob a forma de novos empréstimos e
+pelos acionistas, sob a forma de aportes de capital (ou retiradas).
+
+        Em resumo, o fluxo de caixa FINAL, disponível ao acionista seria:
+
+  Saldo Final de Fluxo de Caixa = [Fluxo de Caixa Operacional] + [Fluxo de Caixa de Investimentos] +
+                     [Fluxo de Caixa de Financiamentos] + [Saldo Inicial de Caixa].
+
+2.3 – Resumo das principais rubricas contábeis utilizadas em finanças e administração
+financeira.
+
+DRE - Demonstrativo de resultados
+
+Receita Líquida - Primeira linha relevante para a montagem do orçamento, seja ele de longo ou de curto
+prazo. É, essencialmente, o resultado das vendas (menos as devoluções, os descontos incondicionais e as
+bonificações).
+
+Custos fixos são aqueles não relacionados diretamente com as vendas, ou seja, se aumentarmos ou
+diminuirmos as vendas em uma unidade, não mudam. PORÉM ainda são custos, pois estão diretamente
+relacionados com a produção.
+O lucro remanescente após retiramos os custos fixos da margem de contribuição é o lucro Bruto.
+As despesas operacionais são aquelas que não estão ligadas diretamente à produção, mas fazem parte da
+operação. São despesas administrativas, comerciais e demais despesas.
+
+
+                                                                                                       25
+
+
+---
+
+O lucro após as despesas operacionais é chamado de Lucro Operacional. Para algumas aplicações pode ser
+chamado de LAJIR – Lucro antes dos juros e imposto de renda.
+O lucro operacional traz a ideia de retorno do negócio próprio, sem elementos não operacionais. Após o
+lucro operacional podemos colocar despesas (ou receitas) não operacionais. São decorrentes de
+transações não incluídas nas atividades principais ou acessórias que constituam objeto da empresa.
+Podem ser resultaos financeiros ou de venda de ativo imobilizado, por exemplo. Normalmente aparecem
+como resultado final da subtração das despesas das receitas não operacionais.
+O lucro após a dedução dos elementos não operacionais é o LAIR – Lucro antes o Imposto de Renda.
+Perceba que saiu o “J”, indicando que normalmente tratamos os resultados não operacionais como
+resultados financeiros (isso em finanças).
+Ao final, tendo por base o LAIR, calculamos a provisão para imposto de renda.
+O lucro disponível ao final da DRE é o Lucro Líquido. Com alguns ajustes será esse lucro que estará
+disponível para distribuição aos acionistas.
+
+Balanço patrimonial
+                                       BALANÇO PATRIMONIAL
+                            ATIVO                                        PASSIVO
+        CIRCULANTE                                      CIRCULANTE
+        . Caixa e equivalentes                          . Contas a Pagar
+        . Contas a receber                              . Aluguéis a Pagar
+        . Despesas antecipadas                          . Empréstimos a Pagar
+                                                        . Impostos a Recolher
+        NÃO CIRCULANTE                                  NÃO CIRCULANTE
+        . Realizável a longo prazo                      . Exigível a longo prazo
+        . Investimentos
+        . Imobilizados                                  PATRIMÔNIO LÍQUIDO
+        . Intangível                                     . Capital Social
+                                                         . Reservas de Capital
+                                                         . Reservas de Lucros
+                                                         . Ajuste de Aval. Patrimonial
+                                                         . (-) Ações de Tesouraria
+                                                         . (-) Prejuízos Acumulados
+
+ATIVO
+
+Ativo circulante - representa as disponibilidades, os direitos realizáveis no curso do exercício social
+subsequente.
+
+Ativo não circulante ou realizável a longo prazo - os direitos realizáveis após o término do exercício
+seguinte, assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+controladas, diretores, acionistas ou participantes no lucro da companhia, que não constituírem negócios
+usuais na exploração do objeto da companhia.
+
+
+                                                                                                      26
+
+
+---
+
+Investimentos - as participações permanentes em outras sociedades e os direitos de qualquer natureza,
+não classificáveis no ativo circulante, e que não se destinem à manutenção da atividade da companhia ou
+da empresa.
+
+Imobilizado - os direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades
+da companhia ou da empresa ou exercidos com essa finalidade, inclusive os decorrentes de operações que
+transfiram à companhia os benefícios, riscos e controle desses bens.
+
+Intangível - os direitos que tenham por objeto bens incorpóreos destinados à manutenção da companhia
+ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido.
+
+PASSIVO
+
+Passivo circulante - obrigações da companhia, inclusive financiamentos para aquisição de direitos do ativo
+não circulante, exigíveis no curso do exercício social subsequente.
+
+Passivo não circulante exigível a longo prazo - obrigações da companhia exigíveis após o exercício social
+subsequente.
+
+PATRIMÔNIO LÍQUIDO
+
+Capital Social - discrimina o montante subscrito e, por dedução, a parcela ainda não realizada do capital.
+Essa parte é o que é integralizado pelos sócios da Companhia.
+
+As outras contas não são muito relevantes para os cursos de análise de balanços, finanças corporativas e
+administração financeira.
+
+Vale apenas comentar que as movimentações de receitas e lucros, ocorridas ao longo do ano, costumam
+fazer efeito nos resultados acumulados dentro do patrimônio líquido. Quando vendemos algo, ele sai do
+custo do estoque e vira caixa, e existe uma diferença que é a margem. Essas diferenças, em todos os
+produtos, vão se acumulando no Patrimônio Líquido. No passado, ficavam numa conta de lucros
+acumulados, porém a lei mudou e agora todo resultado precisa ser distribuído.
+
+                                                                                                       27
+
+
+---
+
+3 - Administração Financeira de Curto Prazo
+
+Nesta parte do curso trataremos das decisões de financiamento de CURTO prazo.
+
+Isto envolve, essencialmente, aprendermos a calcular os ciclos operacionais e de caixa, as políticas de
+financiamento de curto prazo e as fontes mais comuns para esse tipo de financiamento.
+
+Antes de continuarmos, vale um parêntese sobre a crise de 2008.
+
+Quando as autoridades americanas “deixaram” o Lehman Brothers quebrar, ninguém sabia ao certo quais
+seriam os efeitos.
+
+Na manhã seguinte à quebra, os mercados não amanheceram em polvorosa, não estavam desabando. O
+Secretário Henry Paulson foi dar uma entrevista logo cedo e chegou a afirmar que os mercados estavam
+calmos, porém, pouco tempo depois, antes de acabar a entrevista, as bolsas já estavam derretendo.
+
+Henry Paulson ainda não tinha se tocado do tamanho da crise até que recebe um telefonema do presidente
+da General Electric. Fica sem entender o motivo da ligação quando a secretária anuncia, mas atende assim
+mesmo, pois era muito atípico.
+
+Do outro lado da linha o presidente da GE pergunta a Paulson o que estava acontecendo com o mercado,
+pois a GE não conseguiu crédito em nenhum banco para financiar seu capital de giro. Aí Paulson entendeu
+o tamanho da crise.
+
+Isso demonstra que as empresas SEMPRE lançam mão de financiamentos de curto e curtíssimo prazo,
+mesmo que sejam grandes geradoras de caixa ou muito bem sucedidas.
+
+Até porque caixa também é estoque (de dinheiro) e manter o dinheiro aplicado a juro baixo, quando poderia
+estar financiando a produção e o negócio, pode representar uma lucratividade menor.
+
+Aliás, esse último parágrafo resume bem o que é gestão financeira de curto prazo, é gerir excedentes ou
+faltas (de caixa). Decidir qual o tamanho do “capital de giro líquido” (ativos circulantes menos passivos
+circulantes) se deve manter, decidir o quanto tomar emprestado, decidir o quanto conceder de crédito a
+clientes (contas a receber mudam o fluxo de caixa) etc.
+
+A principal diferença entre o financiamento de curto prazo e o de longo prazo é o tempo do fluxo de caixa
+estudado e analisado. Curto prazo significa 1 ano ou menos (em termos contábeis).
+
+3.1 – O capital de giro líquido (capital circulante líquido – CCL)
+
+Os ativos circulantes são aqueles dos quais se espera liquidez em até um ano, ou seja, que virem caixa em
+no máximo esse período. São compostos, principalmente, pelo próprio caixa (que é o mais líquido, pois JÁ
+é dinheiro disponível imediatamente), os investimentos em títulos ou fundos de curto prazo, estoques e
+contas a receber (dentro de um ano).
+
+                                                                                                      28
+
+
+---
+
+Os passivos circulantes são o análogo, porém para as obrigações que vencem em até um ano. São contas a
+pagar tais como fornecedores, financiamento de curto prazo, salários devidos etc.
+
+Aqui vale pontuar que alguns métodos dividem o capital de giro em financeiro e operacional, que exclui itens
+que não estão aplicados diretamente na produção (veremos adiante).
+
+O que é CAIXA?
+
+A fórmula do Capital Circulante Líquido é bem simples:
+
+                𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = 𝐴𝑡𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒
+
+Podemos reescreve a equação do balanço de outra forma:
+
+     𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 + 𝐴𝑡𝑖𝑣𝑜 𝐹𝑖𝑥𝑜 = 𝐷í𝑣𝑖𝑑𝑎 𝑑𝑒 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜 + 𝑃𝑎𝑡𝑟𝑖𝑚ô𝑛𝑖𝑜 𝐿í𝑞𝑢𝑖𝑑𝑜
+
+Perceba que essa equação é levemente diferente do equilíbrio do balanço patrimonial, pois a parte das
+dívidas de curto prazo está do lado esquerdo da equação, incorporada no CCL (Capital Circulante Líquido).
+
+      𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = (𝑐𝑎𝑖𝑥𝑎 + 𝑜𝑢𝑡𝑟𝑜𝑠 𝑎𝑡𝑖𝑣𝑜𝑠 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒𝑠 𝑂𝐴𝐶) − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+                 𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = 𝑎𝑡𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐴𝐶 − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+Substituindo na equação anterior teremos:
+
+           𝐶𝑎𝑖𝑥𝑎 = 𝐷í𝑣𝑖𝑑𝑎 𝑑𝑒 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜 + 𝑃𝐿(𝐸𝑞𝑢𝑖𝑡𝑦) + 𝑃𝐶 − 𝐴𝑡𝑖𝑣𝑜 𝐹𝑖𝑥𝑜 − 𝑂𝑢𝑡𝑟𝑜𝑠 𝐴𝐶
+
+Ou seja, o que acrescenta CAIXA é aumento na dívida de longo prazo ou no patrimônio líquido (o que é claro,
+pois se entrar dinheiro aportado pelos sócios, de lucro ou de dívida com terceiros, isso vai para o caixa), ou
+redução nos ativos fixos (venda de imóveis, por exemplo) ou nos outros ativos circulantes (contas a receber
+virando caixa, estoques vendidos à vista etc.).
+
+O que diminui caixa (e que está sob o controle da administração) é reduzir endividamento (pagar dívida
+reduz caixa) ou pagar dividendos (reduz o lucro acumulado durante o ano no PL, patrimônio líquido ou
+Equity).
+
+        É importante o aluno ter essa percepção sobre como as variações de um lado da equação
+        se refletem no outro lado da equação.
+
+
+                                                                                                           29
+
+
+---
+
+Geralmente em finanças, chamamos as atividades que aumentam o caixa são chamadas de FONTES de
+caixa, assim como o oposto, atividades que reduzem caixa, são consideradas USOS de caixa.
+
+3.2 – Definindo ciclo operacional e de caixa
+
+         Deste ponto em diante, a aula se torna mais prática. Pelo histórico de questões de
+         Administração Financeira, a maioria traz questões práticas, com necessidade de cálculo.
+
+Como já dito anteriormente, a gestão de capital de giro ou de fluxo de caixa envolve decisões a respeito da
+produção e de seu financiamento.
+
+         Questões como: Quanto de material comprar? Quanto de estoque manter? Pagar à vista
+         ou a prazo? Vender à vista ou a prazo? Antecipar recebíveis ou não? Qual a política de
+         cobrança?
+
+Vejamos um exemplo bem simples para entendermos as definições:
+
+  Dia                 Atividade                  Efeito no caixa
+   0    Compra de Material a prazo                    ZERO
+   60   Pagamento do material                           (10.000,00)
+   75   Venda a prazo                                 ZERO
+  120   Recebimento venda a prazo                        14.000,00
+
+O ciclo operacional (COp) mede quanto tempo um produto leva no ativo circulante até virar caixa. Ele
+começa como material, vira estoque de produtos acabados, vira contas a receber e, finalmente, CAIXA.
+
+A fórmula é bem simples:
+
+           𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+                        𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 75 𝑑𝑖𝑎𝑠 + 45 𝑑𝑖𝑎𝑠 = 120 𝑑𝑖𝑎𝑠
+
+Já o ciclo de caixa CCx leva em consideração os desembolsos e recebimentos. Nesse caso o primeiro
+desembolso ocorre no dia 60, e o primeiro recebimento no dia 120. Isso daria 60 dias de "furo" de caixa, ou
+seja, levamos 60 dias para cobrir o valor que pagamos.
+
+A fórmula é simples também:
+
+
+                                                                                                        30
+
+
+---
+
+             𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎 𝐶𝐶𝑥 = 𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 − 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟
+
+                            𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎 𝐶𝐶𝑥 = 120 𝑑𝑖𝑎𝑠 − 60 𝑑𝑖𝑎𝑠 = 60 𝑑𝑖𝑎𝑠
+
+        No exemplo anterior, a compra tem efeito de colocar o material no estoque, mas NÃO tem
+        efeito caixa imediato. Já o Pagamento que se dá em 60 dias, tem efeito de SAÍDA de caixa
+        de 10.000, porém não tem efeito no estoque. A Venda a prazo tem o efeito de SAÍDA do
+        estoque, mas não tem entrada de caixa. Já o movimento final, no dia 120, há ENTRADA
+        de caixa de 14.000. Veja no diagrama a seguir:
+
+                               PGTO do material
+
+
+               Período de Contas a pagar       Ciclo de caixa
+
+
+       0       15      30      45      60      75      90       105    120
+
+
+               Período de Estoque                      Período de
+                                                       Contas a Receber
+                                               Vende            Recebe Venda
+                               ciclo operacional
+
+Pelo que nos diz a figura acima, há um descasamento entre o fluxo de caixa da empresa. Ela precisa de
+dinheiro em 60 dias, mas só recebe em 120 dias.
+
+Isso pode ser suprido, considerando que os prazos não mudam, de várias formas, ou retendo liquidez
+(bancos e caixa) para pagar ou fazendo financiamento de curto prazo. No primeiro caso, ao segurar CAIXA,
+estamos deixando de remunerar o acionista (capital próprio, equity), pois esse valor, se proveniente de lucro,
+poderia ser distribuído como dividendo, no segundo caso estaríamos captando capital de terceiros.
+
+Outro parêntese é valido neste ponto. Perceba a equação:
+
+           𝐶𝑎𝑖𝑥𝑎 = 𝐷í𝑣𝑖𝑑𝑎 𝑑𝑒 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜 + 𝑃𝐿(𝐸𝑞𝑢𝑖𝑡𝑦) + 𝑃𝐶 − 𝐴𝑡𝑖𝑣𝑜 𝐹𝑖𝑥𝑜 − 𝑂𝑢𝑡𝑟𝑜𝑠 𝐴𝐶
+
+Nós dissemos que um APORTE de capital dos acionistas aumenta o caixa, mas o PL(Patrimônio Líquido ou
+Equity) não aumenta apenas dessa forma. O PL aumenta à medida que, durante o ano, a empresa vai
+
+
+                                                                                                           31
+
+
+---
+
+acumulando operações que dão lucro. Como já dito, o lucro é uma conta cumulativa ao longo do ano, não é
+um retrato momentâneo como as contas do balanço. Esse lucro fica acumulando no Patrimônio líquido,
+aumentando-o e, consequentemente aumentando o caixa. Ao final do ano, a Companhia decide o destino
+desse lucro, ou vira capital (reservas de lucro aumentando o capital social) ou vira reserva de lucros ou é
+distribuído como dividendo.
+
+As fontes de capital, caso não se mexa nos prazos (que são decisões importantes também), são as de
+sempre: capital próprio ou de terceiros.
+
+        Mas há muito, operacional e financeiramente falando, a fazer para gerir esse furo de caixa.
+
+A empresa poderia, por exemplo, negociar para pagar em 90 dias e só vender à vista. Nesse caso ela pagará
+um pouco mais de juros pelo alongamento do contas a pagar, e receberá um pouco menos pelo desconto
+que terá que dar para pagamento à vista. Porém receberá em 75 dias (quando vendeu, ver exemplo anterior)
+e pagará em 90, ficando com ciclo de caixa negativo em 15 dias.
+
+Poderia também reduzir o tempo para produzir. Dessa forma, talvez consiga ter o produto à venda ANTES
+e ele também seria vendido antes.
+
+Se a empresa pode fazer isso, o que a impede? As taxas de juros, os riscos de recebimento, a capacidade
+operacional, tecnologia disponível etc.
+
+        Isso tudo é gestão de capital de giro e de fluxo de caixa. Achar o mix perfeito entre essas
+        variáveis é a função do administrador de fluxo de caixa e capital de giro.
+
+
+Estrutura administrativa para gestão de fluxo de caixa
+
+Comumente empresas grandes, com muita complexidade em seus ciclos operacional e de caixa, têm alguns
+profissionais ou setores especializados nas principais decisões para a boa gestão de fluxo de caixa.
+
+      Gestor do caixa: É aquele que fica responsável pelas decisões que envolvem desembolsos e
+       recebimentos, necessidade de financiamento, investimento de curto prazo etc.
+      Gestor de crédito: É aquele que fica responsável pelo contas a receber, decide sobre crédito de
+       clientes e também sobre procedimentos de cobrança. Pode, eventualmente, ser responsável pela
+       criação e aplicação da política de crédito da empresa.
+      Gestor de compras: Busca garantir que não haverá falta nem excesso de material, sempre em
+       sintonia com o gestor do caixa.
+      Gestor operacional: Responsável pela gestão de tecnologia de produção, sempre em sintonia com o
+       setor de vendas da Companhia e com o gestor de caixa.
+      Controller: É o profissional que busca conciliar todos os valores relacionados ao contas a pagar e
+       receber. É normalmente um profissional de contabilidade ou auditoria.
+
+                                                                                                        32
+
+
+---
+
+Aspectos da política de financiamento de curto prazo.
+
+A política de financiamento de curto prazo diz respeito às decisões relativas ao tamanho dos ativos
+circulantes e à forma como são financiados.
+
+Uma política flexível ou expansionista buscará manter um capital de giro líquido alto, ou seja, fazer
+grandes investimentos em estoques e recebíveis, com pouco financiamento de terceiros.
+
+Uma política restritiva de financiamento de curto prazo buscará reduzir (ou negativar) o capital de giro
+líquido, mantendo poucos ativos circulantes e mais financiamento de curto prazo.
+
+Ambas as políticas têm seus próprios custos, taxas de juros de financiamento, taxas de juros praticadas pra
+clientes, prazos, etc.. A gestão de financiamento de curto prazo vai buscar equilibrar esses custos, de forma
+a minimizá-los e maximizar o retorno da empresa.
+
+Costuma-se pensar nessa gestão como uma análise de custos. Custos que sobem e custos que caem com o
+nível de investimento. Os custos que AUMENTAM com o nível de investimento (aumento dos ativos
+circulantes) são chamados de custos de carregamento (carrying costs), os custos que DIMINUEM com o
+aumento do nível de investimento são os custos de escassez ou de falta de produto (shortage costs).
+
+Em resumo, há custos relacionados a ter excesso de ativos circulantes e custos de ter falta de ativos
+circulantes. Os primeiros costumam estar associados com o custo de oportunidade, pois se há dinheiro em
+caixa, ele costuma estar aplicado em ativos de baixa rentabilidade (menor do que reinvestir na empresa e
+em estoques). O custo de FALTA de ativos pode ir desde a necessidade de tomar empréstimos de capital de
+giro (mais caros que os juros que recebemos) ou simplesmente ficar sem estoque e perder vendas, contratos
+e clientes.
+
+3.3 – Como calcular os diferentes ciclos de administração de caixa
+
+Os cálculos anteriores dizem respeito a um único produto e operações muito simples, mas na prática o que
+temos é algo bem mais complexo, milhares de produtos e milhões de operações.
+
+Naturalmente as contas não são feitas para CADA operação, mas sim com base nas demonstrações
+financeiras da empresa. Vejamos.
+
+
+                                                                                                          33
+
+
+---
+
+         Item de Balanço/DRE            Começo        Fim        Média      Variação
+Estoques                                   4.000        6.000      5.000        2.000
+Contas a Receber                           3.200        4.000      3.600          800
+Contas a Pagar                             1.500        2.000      1.750          500
+Receitas acumuladas no PERÍODO                        23.000
+Custo das merc. vendidas no PERÍODO                   16.400
+
+Os itens do balanço têm começo e fim, pois são retratos das contas patrimoniais da empresa. Os itens da
+demonstração de resultados (DRE) são cumulativos, por isso só temos seu valor ao final do período.
+
+As fórmulas a seguir vão nos permitir calcular os diferentes ciclos que tratamos no exemplo anterior, porém
+dessa vez extraindo os valores diretamente das rubricas do Balanço e da Demonstração de Resultados.
+
+        Todas as fórmulas de administração financeira podem cair na prova, e frequentemente
+        caem. Estão resumidas ao final do material. É importante não só decorá-las mas,
+        principalmente, saber seus significados.
+
+
+Giro dos estoques
+
+Mede quantas vezes o estoque médio é vendido no período.
+
+                                                𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+              𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                       𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                            16.400
+                          𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =             = 3,3 𝑣𝑒𝑧𝑒𝑠
+                                                            5.000
+
+Supondo que estejamos tratando do período de 1 ano, o período médio em que um produto fica no estoque
+(em todas as etapas) é o seguinte:
+
+                                      𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+      𝑃𝑒𝑟í𝑜𝑑𝑜 𝑀é𝑑𝑖𝑜 𝑛𝑜 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 =                                           = 𝐴𝑝𝑟𝑜𝑥 111 𝑑𝑖𝑎𝑠
+                                                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (3,3)
+
+Isso significa que o valor médio que temos em estoque é integralmente vendido a cada 111 dias.
+
+Giro dos recebíveis
+
+                                                                                                        34
+
+
+---
+
+Mede quantas vezes o contas a receber girou no período.
+
+                                                                     𝑉𝑒𝑛𝑑𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+       𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =
+                                                             𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑟𝑒𝑐𝑒𝑏𝑒𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                      23.000
+                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =               = 6,4 𝑣𝑒𝑧𝑒𝑠
+                                                                      3.600
+
+Supondo que estejamos tratando do período de 1 ano, o período médio em que se recebe CAIXA por uma
+venda é o seguinte:
+
+                                         𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+      𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑅𝑒𝑐𝑒𝑏𝑖𝑚𝑒𝑛𝑡𝑜 =                                            = 𝐴𝑝𝑟𝑜𝑥 57 𝑑𝑖𝑎𝑠
+                                             𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠 (6,4)
+
+Isso significa que o valor médio de nossas vendas a prazo é integralmente recebido a cada 57 dias.
+
+Dessa forma já conseguimos calcular o CICLO OPERACIONAL.
+
+           𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+                             𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 111 + 57 = 168 𝑑𝑖𝑎𝑠
+
+Giro das obrigações
+
+Aqui há considerações sobre a fórmula do giro dos recebíveis. Se no exercício houver informação sobre
+estoque final e inicial, temos que calcular as COMPRAS do ano. Se não houver, houver apenas o CMV,
+usamos o CMV como COMPRAS no ano.
+
+A conta é simples:
+
+      𝐶𝑜𝑚𝑝𝑟𝑎𝑠 = 𝐶𝑀𝑉 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐼𝑛𝑖𝑐𝑖𝑎𝑙 + 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐹𝑖𝑛𝑎𝑙 = 16.400 − 4.000 + 6.000 = 18.400
+
+Já a fórmula do giro agora fica:
+
+                                          𝐶𝑜𝑚𝑝𝑟𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜          18.400
+         (𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑜𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠) =                                    =        = 11,5 𝑣𝑒𝑧𝑒𝑠
+                                    𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑝𝑎𝑔𝑎𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜   1.750
+
+Supondo que estejamos tratando do período de 1 ano, o período médio em que se paga por uma compra é
+o seguinte:
+
+                                        𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+      𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑃𝑎𝑔𝑎𝑚𝑒𝑛𝑡𝑜 =                                             = 𝐴𝑝𝑟𝑜𝑥 31 𝑑𝑖𝑎𝑠
+                                           𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑂𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠 (11,5)
+
+Isso significa que o valor médio de nossas compras a prazo é integralmente pago a cada 31 dias.
+
+                                                                                                     35
+
+
+---
+
+Dessa forma já conseguimos calcular o CICLO DE CAIXA.
+
+            𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎 𝐶𝐶𝑥 = 𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 − 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟
+
+                         𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎 𝐶𝐶𝑥 = 168 𝑑𝑖𝑎𝑠 − 31 𝑑𝑖𝑎𝑠 = 137 𝑑𝑖𝑎𝑠
+
+O que se pode depreender das fórmulas apresentadas, é que o CICLO DE CAIXA depende dos estoques, e
+dos períodos do contas a receber e do contas a pagar. Dessa forma, o ciclo de caixa aumenta à medida que
+os períodos de estoque e de recebíveis ficam mais longos e diminui se a empresa puder diferir (adiar ou
+prorrogar) a quitação de obrigações com fornecedores e assim alongar as contas a pagar no período.
+
+A maioria das empresas costuma apresentar um ciclo de caixa positivo e, portanto, precisa financiar seus
+estoques e recebíveis (adiantamento de caixa). Quanto mais longo for o ciclo de caixa, maior a necessidade
+de financiamento.
+
+As mudanças no ciclo de caixa da empresa são monitoradas com frequência na gestão financeira de curto
+prazo. Se o ciclo está com tendência de alongamento pode indicar que a empresa está tendo problemas
+para cobrar seus recebíveis (atrasos e inadimplência) ou transformar seus estoques em vendas. Tais
+problemas podem ser mascarados, por exemplo, pelo aumento do ciclo de contas a pagar, o que não
+permitiria o aumento do ciclo de caixa, mas é também ruim, pois aumenta o custo com fornecedores e de
+carregamento, de forma que ambos os ciclos devem ser monitorados.
+
+A conexão entre o ciclo de caixa da empresa e sua rentabilidade pode ser facilmente depreendida do fato
+de que um dos determinantes básicos da rentabilidade e do crescimento de uma empresa é o seu giro do
+ativo total, quanto maior a razão entre VENDAS e ATIVO TOTAL MÉDIO, mais dinâmica é a operação da
+empresa e maior é o retorno contábil da empresa sobre os ativos, (ROA – return on assets) e retorno sobre
+o patrimônio líquido (ROE - return on equity). Dessa forma, com tudo o mais constante, quanto mais curto
+o ciclo de caixa, menor a necessidade de financiamento para estoques e recebíveis, maior. Como resultado,
+os ativos totais da empresa são menores e seu giro é maior.
+
+Para concursos que também solicitam princípios básicos de análise gerencial de demonstrações financeiras,
+essas questões são aprofundadas em outras aulas.
+
+3.4 – Orçamento de caixa de curto prazo, uma visão prática
+
+O fluxo de caixa é uma ferramenta de gestão simples também conhecida como orçamento de caixa.
+Consiste em ter todas as previsões de entradas e saídas de caixa alocadas em uma planilha ou em um
+software, para que o gestor possa saber de antemão quando haverá sobras de caixa, que deverão ser
+aplicadas, ou faltas, que deverão ser cobertas.
+
+Cada evento contábil gera lançamentos nessa planilha. Uma compra de mercadorias, mesmo se for paga à
+vista, reduzirá o caixa, portanto os “estoques” de disponibilidades previstos, todos, cairão.
+
+                                                                                                       36
+
+
+---
+
+Uma compra a prazo gerará uma previsão, para determinado dia no futuro, de uma saída de caixa, assim
+como uma venda a prazo gerará uma previsão de recebimento.
+
+A gestão de fluxo de caixa deve, na medida do possível, evitar descasamentos graves ou recorrentes nesse
+equilíbrio entre o caixa + aplicações de curto prazo, os recebimentos e as necessidades de desembolso.
+
+Todos sabemos que a taxa de juros com a qual os bancos remuneram o dinheiro de curtíssimo prazo
+que deixamos aplicado é bem pequena, às vezes incidindo até impostos que inviabilizam o retorno
+(IOF). Mas as taxas de financiamento de curto prazo costumam ser relevantes. Seria razoável estimar
+que elas serão, pelo menos, 80% maiores do que as taxas com as quais remuneramos nosso capital.
+
+Portanto, se a necessidade de financiamento fica crescente, ou seja, há descasamentos grandes, a empresa
+pode começar a gastar demais para se financiar, ter que começar a descontar duplicatas (antecipação de
+recebíveis, financiamento caríssimo) etc.
+
+Veja um exemplo simples de planilha de fluxo de caixa.
+
+
+                                 dia 00   dia 01     dia 02    dia 03     dia 04     dia 05
+    Saldo inicial de caixa                      200        200       200        200        200
+    Saldo inicial aplica                      1.200      1.072       533     (1.823)     5.853
+    Pgto fornecedores                          (450)      (950) (3.000)        (324)      (489)
+    Receb. Clientes                             322        411       644      8.000        -
+    Saldo dia                                  (128)      (539) (2.356)       7.676       (489)
+    Baixa aplicação                             128        539     2.356        -          489
+    Sobe aplicação                              -          -         -        7.676        -
+    Saldo final cx (mín=200)          200       200        200       200        200        200
+    aplicação/Linha de Crédito      1.200     1.072        533    (1.823)     5.853      5.364
+
+No dia 01, a empresa tem um “furo” de 128 reais, descasamento entre recebíveis (recebido) e exigíveis
+(exigido). Esse furo é coberto com o caixa disponível, mas como a empresa exige um caixa mínimo de 200
+reais, talvez para despesas emergenciais em dinheiro, essa caixa precisa ser REPOSTO com baixa de 128
+reais das aplicações (cujo saldo inicial era R$ 1.200).
+
+Nos dias 02 e 03 também há descasamento, de forma que, no dia 03, o caixa e a aplicação são insuficientes
+para arcar com a necessidade de caixa, portanto a empresa lança mão de sua linha de crédito, pegando
+emprestado, por 1 dia, R$ 1.823. Perceba que o caixa continua em 200, pois as necessidades operacionais
+da empresa exigem esse valor em disponibilidade imediata.
+
+No dia seguinte houve uma grande entrada de recebíveis. Caso houvesse, por exemplo, um limite máximo
+para as aplicações de curto prazo (talvez R$ 5.000), o excedente (R$ 853, por exemplo) seria destinado a
+aplicações de prazo mais longo, as quais não serão utilizadas para essa compensação diária. Em nosso
+
+
+                                                                                                      37
+
+
+---
+
+exemplo não há esse limite, portanto a empresa fica com R$ 5.853 em aplicações de curto prazo, para fazer
+frente a eventuais descasamentos entre recebíveis e exigíveis no futuro.
+
+Fontes de financiamento de curto prazo
+
+As instituições financeiras de relacionamento das empresas oferecem várias opções para esse
+financiamento de curto prazo.
+
+A mais comum delas é a linha de crédito. A linha de crédito é um valor predeterminado disponível para a
+empresa acessar. Ela pode ser fixa ou variável, o que é mais comum. No caso variável, pode ser algo como
+1,6% ao mês até o valor de R$ 50.000, 1,8% entre R$ 50.000 e R$ 100.000 e 2% acima de R$ 100.000, até o
+limite de R$ 200.000.
+
+Quando a empresa não precisa apenas daqueles valores diários de descasamento entre recebíveis e
+exigíveis, mas de um valor um pouco maior, por um prazo também um pouco maior (poucos meses), poderá
+lançar mão de notas promissórias, que são empréstimos de curto prazo, com promessa de pagamento de
+uma só vez em data futura.
+
+O desconto de duplicata é a modalidade em que a empresa toma dinheiro antecipado dando como garantia
+(lastro) valores a receber no futuro. Por exemplo, a empresa pode mandar 40 duplicatas para o banco, cada
+uma com um vencimento e cada cliente com sua característica e risco, o banco calcula o desconto e credita
+o valor na conta da empresa. Por exemplo, imagine que são R$ 40.000 em duplicatas, com prazo médio
+ponderado de 2 meses. O banco depositará, por hipótese, R$ 38.000. Quando for entrando o pagamento
+dos clientes, o banco quita o empréstimo. Se algum cliente não pagar, o banco cobrará da empresa emissora
+com base no direito de regresso.
+
+Pode-se lançar mão também de cartão de crédito para as compras da empresa. Nesse caso, o próprio cartão
+já concede prazo de alguns dias para pagamento. Caso a empresa não pague, poderá usar o crédito rotativo
+pagando menos do que o devido.
+
+3.5 – Modelos de Administração de Caixa
+
+        Os editais não costumam ser explícitos sobre a necessidade de estudar modelos de
+        administração de caixa, porém já houve exercícios desse tipo no passado, inclusive para a
+        banca do atual concurso.
+
+                                                                                                      38
+
+
+---
+
+O modelo mais simples é o do caixa mínimo operacional, que se calcula como se segue (ver fórmulas
+anteriores):
+
+                                                          360
+                               𝐺𝑖𝑟𝑜 𝑑𝑜 𝐶𝑎𝑖𝑥𝑎 =
+                                                 𝐷𝑖𝑎𝑠 𝑑𝑜 𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+
+                                𝑃𝑟𝑒𝑣𝑖𝑠ã𝑜 𝑑𝑒 𝑑𝑒𝑠𝑒𝑚𝑏𝑜𝑙𝑠𝑜 (𝑜𝑟ç𝑎𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝑓𝑙𝑢𝑥𝑜 𝑑𝑒 𝑐𝑎𝑖𝑥𝑎)
+             𝐶𝑎𝑖𝑥𝑎 𝑀í𝑛𝑖𝑚𝑜 =
+                                                   𝐺𝑖𝑟𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+
+O cálculo do CMO consiste em dividir os desembolsos totais previstos para um ano, pelo giro de caixa,
+gerando um valor que será o caixa mínimo operacional. Quando as entradas não forem suficientes para
+cobrir as saídas e manter o nível mínimo, recursos financeiros são retirados de uma reserva para
+manutenção do caixa.
+
+Imagine uma empresa com ciclo de caixa de 60 dias, isso significa que entre o pagamento ao fornecedor e
+o recebimento da mercadoria vendida, em média, leva 60 dias. Logo o giro do caixa (ele gira ao longo do
+ano) será de 6 vezes.
+
+Supondo que a empresa prevê desembolsos de R$ 1,8 milhão no ano, para, em média, a empresa não ter
+problemas de caixa (quando sobrar, acumula, quando faltar, utiliza o excedente), deveria manter (1,8/6) R$
+300 mil em caixa, no mínimo, pois essa será sua necessidade média.
+
+                                               𝑅$ 1,8 𝑚𝑖𝑙ℎã𝑜
+                             𝐶𝑎𝑖𝑥𝑎 𝑀í𝑛𝑖𝑚𝑜 =                  = 𝑅$ 300 𝑚𝑖𝑙
+                                                  6 𝑣𝑒𝑧𝑒𝑠
+
+Há modelos mais complexos, como o de Baumol que reproduz o que acontece com, por exemplo, um
+assalariado. O assalariado recebe o dinheiro no início do mês e faz pagamentos ao longo desse período.
+
+O método de Baumol utiliza o modelo de lote econômico. Seu pressuposto principal é que as entradas e
+saídas futuras do caixa são previstas com certeza. O método calcula qual a quantidade de recursos que deve
+ser alocada ao caixa, sendo que novos resgates de um título financeiro só acontecerão quando o saldo do
+caixa alcançar zero novamente
+
+O método se propõe a calcular COMO a empresa deve usar esse dinheiro que recebe de uma só vez no início
+do período. A fórmula que calcula em QUANTOS pagamentos a empresa deve gastar esse dinheiro é a
+seguinte:
+
+                                                                                                       39
+
+
+---
+
+                                                      0.5 × 𝑖 × 𝑅
+                                            𝑁=√
+                                                           𝑏
+
+      "i" é a taxa de juros que se RECEBE pela aplicação do dinheiro investido no início.
+      "R" é o valor recebido no início do período.
+      "b" o custo de cada transação em R$, ou seja, quanto custa cada transação (não é o VALOR a ser
+       pago, mas o custo de transação mesmo, da transação de RETIRADA do dinheiro da aplicação). Isso
+       pode envolver, por exemplo, IOF, custos com spread bancário (preço de venda e de compra dos
+       títulos), taxas, etc.
+
+Normalmente esse modelo funciona bem com projetos que recebem uma dotação orçamentária de
+início e tem que decidir como fazer o melhor desembolso, o menos custoso.
+
+Suponha que a empresa A receba, no início do período, R$ 200 milhões, que a taxa de juros seja de 1% ao
+mês e que o custo de movimentar esse dinheiro seja de 10.000 reais, teríamos:
+
+
+                                    0.5 × 0,01 × 200 𝑚𝑖𝑙ℎõ𝑒𝑠
+                             𝑁=√                             = 10 𝑣𝑒𝑧𝑒𝑠
+                                             10.000
+
+Isso significa que a empresa pegará os 200 milhões no início e manterá 1/10 em caixa, o resto aplicado. E a
+cada 1/10 do período, deverá retirar uma décima parte do valor inicial. Se forem 30 dias, a cada 3 dias a
+empresa baixará 20 milhões para uso em caixa e deixará o resto aplicado.
+
+O que o aluno tem que ter em mente é que esses cálculos levam em consideração os custos de transações
+financeiras. Normalmente, num investimento de curto prazo os resgates são automáticos e parece-nos que
+não há custos, porém essas linhas são MENOS rentáveis que os títulos, tais como CDB, RDB ou títulos
+prefixados do tesouro.
+
+Quando pensamos em nossas contas diárias, parece fazer pouco efeito uma mudança de 0,2 a 0,3% nas
+taxas de juros mensais, mas em bilhões de reais, há ganhos expressivos com a gestão de caixa.
+
+Um terceiro método, é o de Miller-Orr
+
+O método de Miller-Orr considera as variações aleatórias que ocorrem no fluxo de caixa e por isso calcula o
+intervalo com o saldo máximo e mínimo que deve-se manter o nível do caixa. Dentro desses limites, o
+tomador de decisão deve deixar o caixa oscilar aleatoriamente.
+
+                                                                                                        40
+
+
+---
+
+O modelo também sugere um nível ótimo do caixa, que é o nível a ser perseguido quando o nível do caixa
+está fora dos limites calculados. Se o nível do caixa ultrapassar o nível máximo, deve-se aplicar a diferença
+entre o nível do caixa e o nível ótimo em títulos negociáveis. Se o nível do caixa ultrapassar o nível mínimo,
+deve-se resgatar a diferença entre o nível do caixa e o nível ótimo.
+
+No gráfico acima, mostra-se como os níveis de caixa podem flutuar livremente entre os máximos e mínimos
+calculados. Esse cálculo transcende os objetivos do concurso, sendo mais comum questões teóricas sobre a
+gestão de caixa.
+
+3.6 – Capital de giro operacional e financeiro
+
+        A teoria sobre Administração Financeira de Curto Prazo não é muito grande, mas a
+        variação de exercícios pode ser enorme. É muito comum termos que usar a diferenciação
+        entre ativos e passivos financeiros e operacionais, principalmente para exercícios
+        envolvendo necessidade de capital de giro.
+
+                                                                                                           41
+
+
+---
+
+Vamos analisar os conceitos de ativo circulante operacional, ativo circulante financeiro, passivo circulante
+operacional, passivo circulante financeiro, passivo permanente e ativo permanente, do ponto de vista do
+Orçamento Empresarial e da Administração Financeira.
+
+Ativo circulante operacional ou ativo cíclico é aquele que guarda relação direta com a operação da
+Companhia, é diretamente influenciado pelo volume de vendas ou produção, sendo composto por
+estoques, contas a receber e outros ativos circulantes que tenham natureza relacionada à operação.
+
+O ativo circulante financeiro é aquele relacionado com itens de liquidez de curtíssimo prazo do ativo
+circulante, que não têm ligação com as operações da empresa, ainda que tenham vindo da própria
+operação, como caixa, bancos e aplicações financeiras.
+
+Entre os diversos autores, encontram-se diversos termos utilizados com o mesmo significado, como
+exemplo ativo circulante operacional em Assaf Neto e Silva (2002), ativo errático ou de curto prazo e ativo
+cíclico ou operacional em Vieira (2005), e ativo flutuante ou financeiro em Santos (2001), sendo que o
+mesmo ocorre com o passivo circulante financeiro/operacional.
+
+O passivo circulante operacional está representado pelos itens do passivo circulante relacionados ao ciclo
+operacional da companhia, tais como fornecedores, salários, encargos, impostos, taxas etc.. Já o passivo
+circulante financeiro corresponde aos itens que não têm vinculação direta com a parte operacional da
+companhia e são, entre outros, os empréstimos, financiamentos que não estão relacionados diretamente
+com o core business da empresa.
+
+O passivo permanente seria formado pelas contas do passivo exigível a longo prazo e patrimônio líquido e
+representa as fontes fixas de recursos, ou seja, aquelas das quais não se espera GIRO.
+
+Ativo permanente (ou fixo) é formado pelos recebíveis a longo prazo e pelo ativo fixo (imobilizado,
+intangível, aquele do qual não se espera giro).
+
+Necessidade de capital de giro
+
+Alguns autores, e algumas técnicas em finanças (como EVA, economic value added), costumam definir a
+NECESSIDADE DE CAPITAL DE GIRO como aquela que surge quando a atividade operacional da empresa
+gera um fluxo de saídas de caixa maior e mais rápido que o das entradas de caixa.
+
+Também chamada de necessidade de investimento em capital de giro – NIG, a NCG (necessidade de capital
+de giro, ou capital de giro operacional) é calculada SEM os ativos e passivos circulantes financeiros, da
+seguinte forma:
+
+                           𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+                                                                                                         42
+
+
+---
+
+Para empresas que não têm problemas com capital de giro de curto prazo, aquelas que recebem mais, e
+mais rápido do que pagam, a questão relevante é o equilíbrio entre ativos e passivos permanentes ou fixos,
+de forma que sua equação fica como se segue:
+
+                            𝐶𝐺 = 𝐴𝑡𝑖𝑣𝑜 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡𝑒 − 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑝𝑒𝑟𝑚𝑎𝑛𝑒𝑛𝑡𝑒
+
+         Vamos usar um exemplo real que caiu em provas anteriores, para mostrar como é possível
+         elaborar essas questões relacionadas a necessidade de capital de giro.
+
+
+FGV - Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+   a) o saldo em valores monetários de fornecedores é menor que o de clientes;
+   b) os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente
+      caixa;
+   c) o fluxo de caixa operacional é inferior ao financeiro;
+   d) o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de
+      fornecedores;
+   e) as aplicações de recursos são superiores às origens de recursos.
+Solução.
+
+                            𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+O item a está errado, pois faz inferência a apenas 2 itens da NCG; o item b está errado pois trata de itens não
+operacionais; o item c está errado pelo mesmo motivo; o item e está errado, pois origens e aplicações deveriam
+ser iguais.
+
+Uma outra forma de ver a necessidade de capital de giro é:
+
+                                                                                                            43
+
+
+---
+
+Perceba que quando recebo ANTES de pagar ao fornecedor, a necessidade de capital de giro fica NEGATIVA.
+Item d.
+
+        O quadro a seguir trata de todas as equações possíveis com os saldos, financeiro e
+        operacional, dos ativos e passivos circulantes. Fique atento ao saldo de tesouraria, que é a
+        diferença entre os ativos circulantes financeiros e os passivos circulantes financeiros.
+
+3.7 – Efeito Tesoura
+
+Na gestão de fluxo de caixa queremos evitar o Efeito Tesoura, que é o decréscimo ao longo do tempo do
+Saldo em Tesouraria. A figura anterior mostra com clareza o que pode ocorrer para que o Saldo em
+Tesouraria seja decrescente ou fique negativo (essa matéria também pode ser vista em Análise de
+Balanços).
+
+A figura abaixo mostra razoavelmente o que ocorre quando, ao longo do tempo, as necessidades de capital
+de giro (diferença entre o Ativo Circulante Operacional e o Passivo Circulante Operacional) crescem mais
+do que que o Capital Circulante Líquido (diferença entre Ativo Circulante e Passivo Circulante). Isso faz com
+que, eventualmente no futuro, o Saldo de Tesouraria fique negativo.
+
+                                                                                                          44
+
+
+---
+
+E por que isso acontece?
+
+Os principais motivos para o aparecimento do efeito tesoura são:
+
+      Aumento de vendas acima do esperado: se passamos a vender mais de forma inesperada, tendemos
+       a precisar de mais capital de giro, e isso pode aumentar a necessidade de uso de caixa, diminuindo o
+       saldo em tesouraria.
+      Flexibilização e aumento de prazos para clientes: isso também aumenta a necessidade de capital de
+       giro, pois precisamos investir mais e recebemos com defasagem maior.
+      Ampliação de estoques mal planejado: se os estoques aumentam muito, por exemplo, sem a
+       correspondência nas vendas, isso aumenta nossa necessidade de capital de giro para bancar o que
+       não vendemos.
+      Redução de prazo junto aos fornecedores: significa que precisamos pagar antes, o que vai pressionar
+       também o capital de giro.
+
+Naturalmente, para evitar o efeito tesoura, entre outros pontos, deve-se evitar as causas acima. Deve-se
+fazer o correto planejamento do crescimento de vendas, para evitar ter que lançar mão de capital de curto
+prazo em bancos, deve-se buscar reduzir os prazos de recebimento sem causar prejuízo na antecipação de
+recebíveis, deve-se evitar manter estoques acima do necessário para evitar custos de carregamento e de
+escassez, e deve-se buscar mais prazo junto aos fornecedores.
+
+A questão fundamental da má gestão de caixa é que, sempre que precisamos de caixa imediato, precisamos
+recorrer a bancos em empréstimos de curto prazo. E esses empréstimos costumam ser muito mais caros do
+que os de longo prazo. Por isso é importante que qualquer descasamento da necessidade de caixa seja
+planejado para, no futuro, passar a ser pago por financiamento de longo prazo, que é mais barato e é pago
+com mais prazo e espaçamento no tempo.
+
+2022 /Banca: CESPE / CEBRASPE / DPE-RO - Analista da Defensoria Pública - Contabilidade
+
+
+                                                                                                        45
+
+
+---
+
+O efeito tesoura necessariamente está presente quando:
+
+   A. o saldo em tesouraria cresce, mas é negativo.
+   B. existe crescente disponibilidade de capital de giro.
+   C. o saldo em tesouraria se apresenta crescentemente positivo ou, pelo menos, estável.
+   D. os ativos circulantes são sempre maiores que os passivos circulantes.
+   E. a necessidade de capital de giro supera a disponibilidade e cresce.
+
+A opção A está errada, pois o efeito tesoura não se refere a algo estático no tempo. Podemos ter um saldo
+em tesouraria momentâneo negativo e não necessariamente termos o efeito tesoura que é essa tendência
+ao longo do tempo de redução do saldo em tesouraria (ST). No caso, a opção está errada, pois fala em
+CRESCER o ST e no efeito ele REDUZ.
+
+A opção B está errada, pois a disponibilidade de capital de giro diminui com o efeito tesoura (ET)
+
+C está errada, pois o ST cai e não cresce no ET.
+
+D está errada, pois leva em consideração apenas os ativos circulantes e os passivos circulantes, porém
+precisamos também levar em consideração a variação dos ativos e passivos circulantes OPERACIONAIS,
+para calcular o saldo em Tesouraria.
+
+E está certa, como vimos no Gráfico, a NCG (necessidade de capital de giro) cresce, supera a disponibilidade
+e continua a crescer.
+
+3.8 – Ponto de Equilíbrio
+
+O ponto de equilíbrio normalmente está associado à administração da produção, mas como algumas bancas
+pedem essa matéria em finanças/administração financeira geral, ainda que raramente apareça de forma
+explícita no edital, vale uma breve revisão sobre o que ele significa.
+
+De forma muito simplificada, achar o ponto de equilíbrio é achar a quantidade que deve ser vendida para
+que haja equilíbrio entre a receita e os custos.
+
+Normalmente os custos estão associados apenas à produção, que é o custo da mercadoria vendida
+(associado diretamente com a produção, portanto variáveis com a quantidade produzida/vendida) e custos
+fixos, que não variam com a produção.
+
+                                     𝑅𝑒𝑐𝑒𝑖𝑡𝑎 = 𝑃𝑟𝑒ç𝑜 𝑥 𝑄𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒
+
+                           𝐶𝑢𝑠𝑡𝑜 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙 = 𝐶𝑀𝑉 𝑝𝑜𝑟 𝑢𝑛𝑖𝑑𝑎𝑑𝑒 𝑥 𝑄𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒
+
+                        𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜 = 𝑅𝑒𝑐𝑒𝑖𝑡𝑎 − 𝐶𝑢𝑠𝑡𝑜 𝑉𝑎𝑟𝑖á𝑣𝑒𝑙 − 𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+
+      𝑃𝑜𝑛𝑡𝑜 𝑑𝑒 𝑒𝑞𝑢𝑖𝑙í𝑏𝑟𝑖𝑜 é 𝑎 𝑞𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒 𝑣𝑒𝑛𝑑𝑖𝑑𝑎 𝑞𝑢𝑒 𝑡𝑜𝑟𝑛𝑎 𝑜 𝐿𝑢𝑐𝑟𝑜 𝐵𝑟𝑢𝑡𝑜 é 𝑍𝐸𝑅𝑂, 𝑝𝑜𝑟𝑡𝑎𝑛𝑡𝑜:
+
+                    𝑅𝑒𝑐𝑒𝑖𝑡𝑎 = 𝐶𝑢𝑠𝑡𝑜𝑠 𝑡𝑜𝑡𝑎𝑖𝑠 ∴ 𝑃𝑟𝑒ç𝑜 𝑥 𝑄 = 𝐶𝑀𝑉 𝑥 𝑄 + 𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+                                                                                                         46
+
+
+---
+
+                                                𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+                                  𝑄=
+                                       𝑃𝑟𝑒ç𝑜 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜 − 𝐶𝑀𝑉 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜
+
+Uma empresa apresenta as seguintes informações relevantes:
+
+      P: Preço de venda médio por unidade, igual a R$ 4,50;
+      V: Custo variável por unidade, igual a R$ 2,50;
+      F: Custos operacionais fixos, no valor de R$ 30.000,00.
+
+Considerando-se os dados apresentados, o ponto de equilíbrio, em unidades, é de?
+
+                                     𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜     30.000
+                              𝑄=                =             = 15.000
+                                    𝑃𝑟𝑒ç𝑜 − 𝐶𝑀𝑉   4,50 − 2,50
+
+É preciso ter atenção a um ponto. Normalmente o ponto de equilíbrio NÃO inclui despesas. Despesas são
+elementos não associados diretamente à produção, porém já vimos as bancas fazerem confusão com os
+conceitos e inserirem despesas na equação. Quando aconteceu isso, elas estavam no custo fixo.
+
+                                                                                                  47
+
+
+---
+
+                                             FÓRMULAS
+Capital Circulante Líquido   𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = 𝑎𝑡𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐴𝐶 − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+           (CCL)
+           Caixa             𝐶𝑎𝑖𝑥𝑎 = 𝐷í𝑣𝑖𝑑𝑎 𝑑𝑒 𝐿𝑜𝑛𝑔𝑜 𝑃𝑟𝑎𝑧𝑜 + 𝑃𝐿 + 𝑃𝐶 − 𝐴𝑡𝑖𝑣𝑜 𝐹𝑖𝑥𝑜 − 𝑂𝑢𝑡𝑟𝑜𝑠 𝐴𝐶
+ Ciclo Operacional (COp)         𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+   Ciclo de Caixa (CCx)          𝐶𝐶𝑥 = 𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 − 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟
+     Turnover (giro do                       𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                       𝐺𝐸 =
+      estoque) - GE                                 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+     Período Médio no                          𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                                       𝑃𝑀𝐸 =
+      Estoque (PME)                                        𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝐺𝐸)
+    Turnover (Contas a                                  𝑉𝑒𝑛𝑑𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                          𝐺𝑅 =
+     Receber) Giro do                           𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑟𝑒𝑐𝑒𝑏𝑒𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+      Recebível - GR
+      Prazo Médio de                           𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                                        𝑃𝑀𝑅 =
+   Recebimento (PMR)                                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠 (𝐺𝑅)
+Turnover Contas a Pagar                        𝐶𝑢𝑠𝑡𝑜𝑠 𝑑𝑎 𝑀𝑒𝑟𝑐 𝑉𝑒𝑛𝑑𝑖𝑑𝑎 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                          𝐺𝑂 =
+(giro das obrigações) GO                        𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑝𝑎𝑔𝑎𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+   Compras no período                𝐶𝑜𝑚𝑝𝑟𝑎𝑠 = 𝐶𝑀𝑉 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐼𝑛𝑖𝑐𝑖𝑎𝑙 + 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐹𝑖𝑛𝑎𝑙
+     Giro das compras                                         𝐶𝑜𝑚𝑝𝑟𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                                   (𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑐𝑜𝑚𝑝𝑟𝑎𝑠) =
+(quando houver dif entre                                𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑝𝑎𝑔𝑎𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+  estoque inicial e final)
+      Prazo Médio de                          𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+                                        𝑃𝑀𝑃 =
+    Pagamento (PMP)                                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑂𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠 (𝐺𝑂)
+       Giro do Caixa                                              360
+                                         𝐺𝑖𝑟𝑜 𝑑𝑜 𝐶𝑎𝑖𝑥𝑎 =
+                                                         𝐷𝑖𝑎𝑠 𝑑𝑜 𝐶𝑖𝑐𝑙𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+   Caixa Mínimo (CM)                 𝑃𝑟𝑒𝑣𝑖𝑠ã𝑜 𝑑𝑒 𝑑𝑒𝑠𝑒𝑚𝑏𝑜𝑙𝑠𝑜 (𝑜𝑟ç𝑎𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝑓𝑙𝑢𝑥𝑜 𝑑𝑒 𝑐𝑎𝑖𝑥𝑎)
+                                𝐶𝑀 =
+                                                        𝐺𝑖𝑟𝑜 𝑑𝑒 𝐶𝑎𝑖𝑥𝑎
+  Caixa de Baumol –
+                                                          0.5 × 𝑖 × 𝑅
+Número de pagamentos                                   𝑁=√
+                                                               𝑏
+Necessidade de Capital                 𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+        de Giro
+Quantidade no Ponto de                                      𝐶𝑢𝑠𝑡𝑜 𝐹𝑖𝑥𝑜
+                                              𝑄=
+       Equilíbrio                                  𝑃𝑟𝑒ç𝑜 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜 − 𝐶𝑀𝑉 𝑈𝑛𝑖𝑡á𝑟𝑖𝑜
+
+                                                                                                        48
+
+
+---
+
+                                         LISTA DE QUESTÕES
+As matérias de Administração Financeira estão se tornando mais comuns nos últimos anos em diversos
+concursos. Desde concursos para tribunais de contas até para órgãos de controle, consultoria e de
+arrecadação.
+
+Porém, infelizmente, o histórico de questões é muito pobre e bem confuso. O aluno que tiver acesso aos
+principais bancos de dados de questões, verá que quando se trata de Administração Financeira e
+Orçamento, quase a totalidade das questões diz respeito a AFO no setor público.
+
+Além disso, há três áreas que se confundem na hora de classificar as questões: Finanças Corporativas,
+Contabilidade (Análise econômica e financeira) e Administração Financeira e Orçamentária propriamente
+dita. Isso dificulta ainda mais os filtros, pois às vezes a questão é própria de Administração Financeira (como
+algumas questões de alavancagem e gestão de caixa) outras é mais adequada à contabilidade pura (CPCs,
+formas de contabilizar, interpretação de notas etc.).
+
+Diante dessa dificuldade, é necessário trazer questões de concursos mais antigos e de várias bancas para
+cobrir toda a matéria, além de propor questões inéditas, quando necessário para fixação dos temas. Além
+de fazer uma curadoria para filtrar as questões relevantes para os alunos.
+
+Os alunos que estiverem fazendo concurso que engloba Administração Financeira e Análise Financeira e
+Econômica (de balanços) DENTRO de Administração geral, verão muita interseção entre as matérias,
+porém isso é positivo, pois os estudos se reforçam e os exercícios são complementares.
+
+As questões a seguir misturam questões bem recentes, com uma miscelânea de questões anteriores a 2015,
+para cobrir toda a necessidade da matéria. Fique atento a aulas extras ou específicas para o seu concurso e
+sua banca.
+
+Seguem os enunciados sem resolução. No capítulo seguinte os resultados com os comentários.
+
+Questão 1) 2021 / Banca: UFR / UFR - Administrador
+
+NÃO é competência da função financeira na empresa:
+
+   A. Avaliar e escolher alternativas de aplicação de recursos.
+   B. Atividade burocrática de acompanhar assiduidade e preparar folhas de pagamento dos
+      trabalhadores.
+   C. Acompanhar e avaliar resultados financeiros da organização.
+   D. Destinação dos resultados: seleção de alternativas para aplicação dos resultados financeiros.
+
+                                                                                                            49
+
+
+---
+
+Questão 2) 2021 / Banca: UFR / UFR - Administrador
+
+Em relação às ferramentas financeiras que devemos utilizar na elaboração de um plano de negócio, leia o
+texto abaixo e assinale a alternativa correta. “Essa ferramenta nos informará quanto pelo menos a empresa
+deverá faturar para conseguir pagar todos os seus custos (fixos e variáveis).” (Salanek, 2012)
+
+   A. Trata-se dos orçamentos
+   B. Trata-se da margem de contribuição
+   C. Trata-se do ponto de equilíbrio
+   D. Trata-se da gestão dos custos e formação dos preços
+
+Questão 3) 2021 / Banca: SELECON / Câmara de Cuiabá - MT - Controlador Interno
+
+No processo operacional de planejamento e orçamento denominado Base Zero, o conceito envolvido na
+alternativa apresentada no pacote de decisão, que procura incrementar níveis acima do corrente, buscando
+favorecer a permissão para a execução de funções ou serviços adicionais aos existentes, está relacionado
+com:
+
+   A. os custos e benefícios
+   B. as medidas de desempenho
+   C. os rumos alternativos de ação
+   D. o nível de expansão de esforço
+
+Questão 4) 2018 / Banca: CESPE / CEBRASPE / SEFAZ-RS
+
+O fato de uma empresa ter poder de negociação com fornecedores para postergar ao máximo o pagamento
+de suas compras a prazo tem impacto direto no
+
+   A. ciclo econômico.
+   B. ciclo operacional.
+   C. ciclo financeiro
+   D. prazo médio de renovação de estoques.
+   E. prazo médio de recebimento de vendas
+
+Questão 5) 2019 / Banca: IBADE / DEPASA - AC - Administrador
+
+Em relação ao conceito de administração financeira pode-se afirmar que Administração Financeira é :
+
+   A. o conjunto de atividades visando gerir apenas as despesas de uma empresa ou organização.
+   B. o conjunto de atividades visando gerir as finanças de uma empresa ou organização.
+   C. o conjunto de atividades visando gerir as regras e valores de uma empresa ou organização.
+   D. o conjunto de atividades visando gerir as pessoas e estoques de uma empresa ou organização.
+   E. o conjunto de atividades visando gerir as contas e sistemas de TI de uma empresa ou organização.
+
+Questão 6) 2018 / Banca: NC-UFPR / COREN-PR
+
+                                                                                                      50
+
+
+---
+
+O orçamento constitui um documento formal que mensura os planos de curto prazo, normalmente um ano,
+de uma empresa para que ela possa alcançar seus objetivos, baseado nas estruturas empresariais já
+existentes ou em programação, decorrendo dos planos operacionais estipulados para cada uma dessas
+estruturas. Com base nos conceitos e tipos de orçamento, identifique como verdadeiras (V) ou falsas (F) as
+seguintes afirmativas:
+
+( ) O orçamento base zero é elaborado periodicamente a partir da rediscussão em cada período da
+necessidade ou não de cada gasto associado às atividades desempenhadas pela entidade.
+
+( ) O orçamento de tendências é elaborado a partir da observação de dados e desempenhos passados.
+
+( ) Dependendo de como a empresa avalia seu desempenho a partir dos orçamentos, estes podem ser
+estáticos ou flexíveis.
+
+( ) Orçamentos estáticos são ajustados periodicamente ao longo do período orçamentário para refletir
+modificações nos níveis de atividade da empresa.
+
+Assinale a alternativa que apresenta a sequência correta, de cima para baixo.
+
+Alternativas
+
+        A. V – V – V – F.
+        B. V – V – F – F.
+        C. F – F – F – V.
+        D. F – V – F – V.
+        E. V – F – V – F.
+
+Questão 7) 2021 / Banca: Quadrix / CRC-AP - Contador Fiscal
+
+O capital circulante líquido (CCL) é um indicador de liquidez que mede a capacidade da empresa de cumprir
+com seus compromissos de pagamento e de manter suas operações funcionando. O CCL é verificado pela
+diferença entre o ativo circulante (disponível, contas a receber, estoques e despesas pagas
+antecipadamente) e o passivo circulante (fornecedores, contas a pagar e outras exigibilidades do exercício
+seguinte) em um determinado momento. Acerca desse assunto, julgue os itens seguintes.
+
+   i.      Um aumento de capital em dinheiro não afetaria o CCL.
+  ii.      Vendas de permanentes recebíveis a curto prazo não afetariam o CCL.
+ iii.      O pagamento de fornecedores de matéria-prima não afetaria o CCL.
+ iv.       Um financiamento de longo prazo para a aquisição de uma loja não afetaria o CCL.
+  v.       A aquisição de um empréstimo bancário de curto prazo não afetaria o CCL.
+
+Assinale a alternativa correta.
+
+        A. Apenas o item III está certo.
+        B. Apenas o item IV está certo.
+        C. Apenas o item V está certo.
+        D. Apenas os itens I e IV estão certos.
+        E. Apenas os itens II e V estão certos.
+                                                                                                       51
+
+
+---
+
+Questão 8) 2019 / Banca: IF-PA / Tecnólogo - Gestão Financeira
+
+A administração do capital de giro trata dos ativos e passivos correntes a partir de um conjunto de regras
+que tem por objetivo a preservação da saúde financeira da empresa. Sobre a natureza e as definições da
+administração do capital de giro, é INCORRETO afirmar que:
+
+   A. os elementos de giro são identificados no ativo circulante e passivo circulante, ou seja, no curto
+      prazo.
+   B. o capital de giro líquido (CCL) reflete a folga financeira da empresa e representa o volume de recursos
+      de longo prazo que financia os ativos correntes.
+   C. uma boa administração do capital de giro envolve imprimir alta rotação (giro) ao circulante,
+      tornando mais dinâmico seu fluxo de operações.
+   D. o ciclo operacional representa o intervalo de tempo em que não ocorrem ingressos de recursos
+      financeiros na empresa, demandando-se capital para financiá-lo.
+   E. quanto menor a participação de recursos de longo prazo, menos arriscada se apresenta a política de
+      capital de giro da empresa.
+
+Em finanças, administração financeira e contabilidade, sempre que possível escreva a fórmula, vai facilitar
+a entender a dinâmica das perguntas.
+
+Questão 9) 2019 / Banca: CESPE / CEBRASPE / SEFAZ-RS - Auditor Fiscal da Receita Estadual - Bloco II
+
+Acerca do giro de estoques, assinale a opção correta.
+
+   A. Uma política de estoques mínimos favorece a obtenção de giros de estoques cada vez maiores.
+   B. Giro de estoques de cinco vezes significa que a empresa leva mais de oitenta dias para vender
+      integralmente o seu estoque uma vez.
+   C. A aquisição de estoques em grande quantidade para obter descontos comerciais tende a aumentar
+      o giro dos estoques.
+   D. Quanto maior for o giro de estoques, maior será o prazo médio de vendas da empresa.
+   E. O fato de o giro de estoques de uma empresa ser mais elevado que o de outras empresas do mesmo
+      setor pode indicar que essa empresa esteja mantendo bens obsoletos em estoque ou mantendo
+      estoque em nível desnecessariamente alto.
+
+Questão 10) 2018 / Banca: UFPR / UFPR - Contador
+
+A Companhia Alfa apresentou no período T0 Prazo Médio de Estocagem de 40 dias, Prazo Médio de
+Recebimento de Vendas de 70 dias e Prazo Médio de Pagamento a Fornecedores de 50 dias. Para o período
+T1, a empresa reduziu em 20% seu Prazo Médio de Estocagem e em 30% seu Prazo Médio de Recebimento
+de Vendas, bem como conseguiu ampliar em 12% seu Prazo Médio de Pagamento a Fornecedores.
+
+
+                                                                                                          52
+
+
+---
+
+Considerando essas informações, assinale a alternativa em que é apresentado o Ciclo de Caixa, em número
+de dias, da Companhia Alfa para o período T1.
+
+   A. 110.
+   B. 81.
+   C. 60.
+   D. 37.
+   E. 25.
+
+Questão 11) 2019 / Banca: IF-MS / Tecnólogo em Gestão Financeira
+
+O ciclo de caixa é o período em que acontece a movimentação financeira dentro do ciclo operacional.
+Quanto maior for o ciclo de caixa, maior será o investimento em capital de giro para dar sustentação às
+atividades operacionais. Considerando-se a possibilidade de menor investimento em capital de giro, quais
+são as estratégias utilizadas para a minimização do ciclo de caixa?
+
+   A. Quitar antecipadamente as contas a pagar e retardar o recebimento das duplicatas a receber.
+   B. Girar mais rapidamente os estoques e retardar o pagamento das duplicatas a pagar.
+   C. Girar mais rapidamente os estoques, receber mais tarde as duplicatas a receber e pagar
+      antecipadamente as duplicatas a pagar.
+   D. Girar mais rapidamente os estoques, receber antecipadamente as duplicatas a receber e retardar o
+      pagamento das duplicatas a pagar.
+   E. Girar mais lentamente os estoques, receber antecipadamente as duplicatas a receber e retardar o
+      pagamento das duplicatas a pagar.
+
+Questão 12) 2019 / Banca: IF-MS / Tecnólogo em Gestão Financeira
+
+O Planejamento financeiro serve como um norteador das atividades da organização, com a intenção de
+atingir seus objetivos de curto e longo prazo. O planejamento financeiro envolve o orçamento de caixa e a
+projeção dos demonstrativos financeiros. Com qual objetivo o gestor financeiro elabora o orçamento de
+caixa?
+
+   A. Para se ter conhecimento das necessidades operacionais da empresa e providências de captação de
+      recursos a longo prazo.
+   B. Para se ter conhecimento das necessidades financeiras da empresa e providências de captação de
+      recursos de curto e longo prazo.
+   C. Para se ter conhecimento dos déficits de caixa e providências de captação de recursos a curto prazo.
+   D. Para que se possa utilizá-lo como base para o desenvolvimento das demonstrações financeiras.
+   E. Para determinar excessos de caixa para investimento á longo prazo.
+
+        Questões diversas cobrindo toda a matéria (inéditas e de várias bancas e anos).
+
+Com relação à administração financeira e orçamentária nas empresas, julgue os itens a seguir.
+
+                                                                                                       53
+
+
+---
+
+Questão 13
+
+O orçamento estático, elaborado apenas para o nível planejado de atividade, é inadequado para a avaliação
+de eficiência do controle de custos. Se a atividade real for maior que a planejada, os custos variáveis devem
+ser superiores aos estimados; se for menor, devem ser inferiores.
+
+      Certo
+      Errado
+
+Questão 14
+Os custos indiretos fixos, para efeito de análise das variações entre os valores reais e os orçados, devem ser
+expressos e analisados em forma unitária ou horária, relacionando-os à variação de volume dentro da faixa
+relevante de atividade.
+
+      Certo
+      Errado
+
+Questão 15
+
+A gestão e a projeção do orçamento de caixa para períodos inferiores a um ano inserem-se no âmbito do
+planejamento financeiro de curto prazo.
+
+      Certo
+      Errado
+
+Questão 16
+
+Ao final de cada exercício social, uma empresa efetua análise das variações de seu orçamento planejado e
+o efetivamente realizado naquele ano. No último ano, a empresa apresentou o seguinte quadro
+comparativo:
+
+Analisando-se as variações de preço e de volume a partir do demonstrativo, conclui-se que a(o)
+
+
+                                                                                                           54
+
+
+---
+
+   A. variação do preço de venda foi desfavorável em R$ 2,00 por unidade.
+   B. variação do custo variável unitário foi favorável em R$ 5,00 por unidade.
+   C. variação dos custos fixos foram desfavoráveis em R$ 1.000,00 no total.
+   D. margem de contribuição unitária aumentou em R$ 3,00 por unidade.
+   E. volume de venda isoladamente aumentou o resultado em R$ 2.000,00.
+
+Questão 17
+
+Uma empresa industrial consegue obter um lucro operacional de R$ 200.000,00 mantendo uma produção
+de 10.000 unidades. Sabendo-se que sua margem de contribuição unitária é de ¼ do preço, qual o valor
+médio estimado, em reais, do custo variável unitário do produto?
+
+(A) R$ 20,00
+
+(B) R$ 40,00
+
+(C) R$ 50,00
+
+(D) R$ 60,00
+
+(E) R$ 80,00
+
+Questão 18) 2011 / Banca: Cesgranrio
+
+Considere as informações dos Balanços Patrimoniais e a Demonstração de Resultados da Empresa XisY
+publicados em 31 de março de 2011, em milhares de reais, para responder às questões de nos 59, 60 e 61.
+
+Balanço Patrimonial da Empresa XisY em 31 de dezembro de 2009 e 2010
+
+                                                                                                    55
+
+
+---
+
+Sabendo-se que 20% de todas as vendas são realizadas à vista e as demais a prazo, qual o ciclo operacional
+(aproximado), em dias, da empresa XisY?
+
+   A. 70
+   B. 81
+   C. 90
+   D. 101
+   E. 111
+
+Questão 19) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, qual é, aproximadamente, o ciclo de caixa da empresa XisY, em dias?
+
+   A. 38
+   B. 42
+   C. 48
+   D. 52
+
+                                                                                                       56
+
+
+---
+
+   E. 56
+
+Questão 20) 2011 / Banca: Cesgranrio
+
+O orçamento empresarial pode ser entendido como a expressão quantitativa de um plano de ação futuro
+da administração para um determinado período. O processo de orçamento empresarial pode utilizar-se de
+algumas abordagens, como, por exemplo, a “Beyond Budgeting”, que possui algumas características
+marcantes.
+
+Uma dessas características é
+
+   A. apresentar metas fixas para os gestores.
+   B. apresentar um processo decisório centralizado.
+   C. desestimular as equipes a assumirem riscos.
+   D. ser semelhante ao orçamento tradicional.
+   E. prover os recursos quando forem necessários.
+
+Questão 21) 2011 / Banca: Cesgranrio
+
+Alguns ativos e passivos circulantes do Balanço Patrimonial de uma empresa possuem características
+específicas que os identificam como sendo contas patrimoniais operacionais. O capital de giro operacional
+líquido de uma empresa não costuma ser constante, podendo variar, por exemplo, mensalmente.
+
+Quanto à variação mensal do capital de giro operacional líquido, sendo não nula, no mês em análise, ela
+sempre
+
+   A. implicará novos financiamentos.
+   B. implicará novos investimentos.
+   C. impactará o caixa da empresa.
+   D. resultará em um valor positivo.
+
+Questões 22 a 25
+
+Considerando os dados apresentados no quadro acima, referentes a uma empresa que tem um único
+produto em linha de produção, julgue os itens a seguir.
+
+                                                                                                      57
+
+
+---
+
+Aumentando a sua produção até o limite da capacidade instalada (500.000 unidades) e mantendo o preço
+atual, o lucro bruto da companhia seria elevado para um valor superior a R$ 520.000,00.
+
+      Certo
+      Errado
+
+Questão 22) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, caso as 200.000 unidades adicionais fossem vendidas a R$ 2,50, não haveria
+aumento do lucro bruto da companhia, em relação à situação inicial.
+
+      Certo
+      Errado
+
+Questão 23) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, o preço de venda de equilíbrio (lucro bruto igual a zero), utilizando a
+capacidade total, é igual a R$ 2,95.
+
+      Certo
+      Errado
+
+Questão 24) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, o ponto de equilíbrio, ao preço de venda de R$ 4,00, está entre 200.000 e
+220.000 unidades.
+
+      Certo
+      Errado
+
+Questão 25) 2011 / Banca: Cesgranrio
+
+Considerando os dados anteriores, caso recebesse proposta para colocação das 200.000 unidades que
+cabem na sua capacidade de produção, ao preço de R$ 2,65, a empresa não deveria aceitar, porque cairia o
+lucro bruto.
+
+      Certo
+      Errado
+
+Questão 26)
+
+Obtiveram-se da Cia. Mega S/A as seguintes informações, considerando o ano de 360 dias:
+
+                                                                                                      58
+
+
+---
+
+• Rotação de duplicatas a receber: 12 vezes
+
+• Rotação de fornecedores: 24 vezes
+
+• Rotação de estoques: 8 vezes
+
+Com base nesses dados, o ciclo de caixa da empresa, em dias, é de:
+
+   A. 44
+   B. 45
+   C. 60
+   D. 75
+   E. 90.
+
+Questão 27)
+
+A Cia. Progresso S/A, durante o período de planejamento orçamentário para o exercício de 2006, recolheu
+as seguintes informações do exercício de 2005, para poder projetar o custo total de mão-de-obra:
+
+• Total de horas de máquina utilizadas 60.000 HM
+
+• Custo total de mão-de-obra para R$ 250.000,00
+
+• Parte fixa do custo de mão-de-obra R$ 40.000,00
+
+Considerando-se que uma das premissas do orçamento é o aumento de vendas e, conseqüentemente, de
+produção, a empresa passará a consumir 80.000 horas de máquina.
+
+Com base nos dados acima, pode-se afirmar que o custo total, em reais, de mão-de-obra para 80.000 horas
+de máquina será de:
+
+   A. 260.000,00
+   B. 280.000,00
+   C. 290.000,00
+   D. 320.000,00
+   E. 350.000,00
+
+Questão 28)
+
+A Cia. Piratininga S/A trabalha com previsão orçamentária trimestral. Para o 1o trimestre de 2006, foram
+projetados os valores de vendas abaixo.
+
+                                                                                                     59
+
+
+---
+
+As vendas da empresa são feitas 60% à vista e 40% a prazo. As vendas a prazo são cobradas no mês seguinte
+ao das vendas e as duplicatas a receber no dia 31 de dezembro de 2005 só refletem a parcela a receber das
+vendas feitas em dezembro, no valor de R$ 40.000,00.
+
+As contas não recebidas são desprezíveis e devem ser desconsideradas.
+
+Em decorrência, a previsão de entrada de caixa proveniente das vendas, para o mês de janeiro de 2005, foi,
+em reais, de:
+
+   A. 36.000,00
+   B. 38.000,00
+   C. 44.000,00
+   D. 46.000,00
+   E. 50.000,00
+
+Questão 29)
+
+Os fluxos de caixa operacionais de uma empresa são as entradas e saídas relacionadas diretamente à
+produção e venda de seus produtos. Assim, fazem parte desse fluxo:
+
+   A. imposto de renda e salários a pagar.
+   B. vendas de ações e pagamentos de dividendos em dinheiro.
+   C. ativos imobilizados e participações societárias.
+   D. recompra de ações e duplicatas a receber.
+
+Questão 30)
+
+Dentre os princípios básicos do capital de giro, segundo Sanvicente (1995), destacam-se:
+
+   A. o problema da liquidez dos ativos correntes da empresa, em face da composição dos prazos de
+      vencimento de suas dívidas e o conflito entre liquidez e rentabilidade.
+   B. a concentração de esforços da empresa para manter sua liquidez, por meio da aplicação de recursos
+      em ativos correntes, que vão resultar em um aumento da rentabilidade dos investimentos e o
+      aumento do risco em relação ao porte operacional da empresa.
+   C. os dilemas enfrentados, nos casos de disponibilidades e estoques e na manutenção dos saldos
+      excessivos com custos mais baixos ou saldos insuficientes com custos maiores e a conciliação entre
+      rentabilidade e manutenção de saldos elevados.
+
+
+                                                                                                       60
+
+
+---
+
+   D. as atitudes da administração em relação à falta de fundos, que é uma questão de conciliação entre
+      o ganho (rentabilidade) e o aumento de saldos necessários para garantia quanto ao problema de
+      insuficiência de fundos.
+
+Questão 31)
+
+A necessidade da atuação do administrador financeiro ocorre porque, independentemente do segmento de
+atuação, em toda entidade, há um constante fluxo de recursos financeiros. Especificamente quanto a
+função gestão do caixa, o administrador financeiro deve
+
+   A. normatizar os critérios a serem seguidos para conceder prazo de pagamento aos clientes.
+   B. avaliar constantemente o fluxo de pagamentos e recebimentos que a empresa possui.
+   C. atuar de modo a otimizar o resultado do período.
+   D. adotar procedimentos que facultem planejar a necessidade, ou disponibilidade, de capital da
+      empresa ao longo de um período qualquer.
+
+Questão 32)
+
+Cabe ao administrador financeiro de uma empresa obter recursos requeridos para saldar as obrigações
+quando não há saldo de caixa suficiente ou para propiciar capital adicional para expandir os negócios. Esta
+atuação relaciona-se à função de:
+
+   A. administração da cobrança.
+   B. gestão de custos e preço.
+   C. captação de recursos.
+   D. decisão de investimento.
+
+Questão 33)
+
+Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a entrega
+na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após receber a
+matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+   A. endividamento de longo prazo na sua estrutura de capital
+   B. prazo médio de estocagem de matérias-primas
+   C. prazo médio de processamento das matérias-primas na fabricação dos produtos
+   D. tempo médio de transporte dos produtos até o comprador
+   E. adiantamentos pagos a alguns de seus fornecedores
+
+                                                                                                          61
+
+
+---
+
+Questão 34)
+
+Preencha as lacunas abaixo e, em seguida, assinale a alternativa correta.
+
+Os ativos circulantes, comumente chamados de _____, representam a proporção do investimento total da
+empresa que circula, de uma forma para outra, na condução normal das operações. Os balanços
+patrimoniais fornecem dados para cálculo da sua necessidade. Ela constitui-se no fundamento básico da(o)
+______ de uma empresa. Pela análise de seus elementos patrimoniais são identificados os prazos
+operacionais, o volume de recursos permanentes (longo prazo) que se encontra financiando o giro e as
+necessidades de investimento operacional. A(o) ______ é a diferença entre o Ativo Circulante Operacional
+e o Passivo Circulante Operacional, sendo que este último, à medida que vai sendo realizado, é substituído
+por outro ativo de mesma natureza, para manter o nível das atividades de operações.
+
+   A. elementos fundamentais para análise das demonstrações financeiras / Índices-padrão / análise
+      através de índices
+   B. fontes de financiamento / estrutura de capital / modelo de avaliação de empresas
+   C. fontes de numerário / planejamento financeiro / fonte de comprometimento de solvência da
+      empresa
+   D. exigências de financiamento resultantes do ciclo de conversão de caixa / técnica de análise / capital
+      de giro próprio
+   E. capital de giro / avaliação do equilíbrio financeiro / necessidade líquida de capital de giro
+
+Questão 35) 2011 / Banca: FGV / Engenheiro (IMBEL)/Controle de Qualidade/2021
+
+Relacione os modelos de administração de caixa às suas respectivas características.
+
+1. Modelo do caixa mínimo operacional.
+
+2. Modelo de Baumol.
+
+3. Model de Miller-Orr.
+
+( ) O modelo considera que o caixa é imprevisível e, assim, o fluxo líquido de caixa pode ser igual ao valor
+esperado ou algum valor superior ou inferior, previamente calculado e determinado.
+
+( ) O modelo supõe que as entradas e saídas de caixa podem ser previstas com precisão, ao mesmo tempo
+em que uma carteira de títulos negociáveis atua como um reservatório para suprir os saldos de caixa
+transacionais.
+
+( ) Nesse modelo, a falta de sincronização entre as entradas e saídas de recursos financeiros é financiada
+por uma reserva, que deve apresentar-se suficiente para processar pagamentos quando as entradas
+esperadas (recebimentos) não se realizarem.
+
+Assinale a opção que mostra a relação correta, segundo a ordem apresentada.
+
+                                                                                                         62
+
+
+---
+
+   A. 1 – 2 – 3.
+   B. 2 – 1 – 3.
+   C. 2 – 3 – 1.
+   D. 3 – 1 – 2.
+   E. 3 – 2 – 1.
+
+Questão 36) 2015 / Banca: FGV / Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+   A. o saldo em valores monetários de fornecedores é menor que o de clientes;
+   B. os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente
+      caixa;
+   C. o fluxo de caixa operacional é inferior ao financeiro;
+   D. o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de
+      fornecedores;
+   E. as aplicações de recursos são superiores às origens de recursos.
+
+Questão 37) 2015 / Banca: FGV / Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Observe o balanço patrimonial a seguir e responda a questão.
+
+                         ATIVO                 PASSIVO
+                         Circulante        200 Circulante                   180
+                         Disponível        10 Fornecedores                  110
+                         Clientes          90 Salários a pagar              20
+                         Estoques          100 Empréstimos                  50
+                         Não Circulante    500 Não Circulante               200
+                         Direitos de longo
+                                           150 Financiamentos               200
+                         prazo
+                                               PATRIMÔNIO
+                         Investimentos     50
+                                               LÍQUIDO
+                         Imobilizado       200 Capital Social               300
+                         Intangíveis       100 Reservas                     20
+                         TOTAIS            700 TOTAIS                       700
+
+O grau do passivo oneroso sobre o ativo e o valor da necessidade de capital de giro são, respectivamente,
+
+   A. 7% e ($40).
+   B. 25% e ($120).
+   C. 28% e $80.
+   D. 36% e $60.
+   E. 54% e $40.
+
+Questão 38) 2010 / Banca: FGV / Técnico de Fomento C (BADESC)/Economista
+
+                                                                                                        63
+
+
+---
+
+A empresa Bernoulli projeta a seguinte evolução patrimonial.
+
+                                             1º mês 2º mês 3º mês 4º mês 5º mês
+                   Ativo Circulante          154    210    255    300    455
+                   Realizável de Longo Prazo 874    988    988    988    654
+                   Imobilizado               214    214    314    314    355
+                   Passivo Circulante        154    215    333    452    544
+                   Exigível de Longo Prazo   988    1200 1354     1455   1455
+
+O diretor financeiro quer projetar a necessidade de capital de giro e confia nos dados acima. A máxima
+necessidade de capital de giro dessa empresa no período projetado é:
+
+   A. 0
+   B. 152
+   C. 214
+   D. 535
+   E. 890
+
+Questão 39) 2015 / Banca: FGV / Analista Estratégico de Projetos de Investimentos
+
+Um modelo que pode ser usado a fim de se projetar em fluxos de caixa livres para a empresa de um projeto
+é aquele no qual tais fluxos são subdivididos em três componentes, proporcionando a seguinte igualdade
+matemática: fluxo de caixa livre para a empresa = fluxo de caixa operacional (-) variação do capital de giro
+operacional líquido (-) gastos líquidos de capital. Sendo assim, os fluxos de caixa negativos que mais
+impactam negativamente o fluxo de caixa livre para a empresa são:
+
+   A. pagamentos de principal e investimentos de curto prazo;
+   B. amortização contábil e CAPEX;
+   C. depreciação do ativo imobilizado, investimentos de curto prazo;
+   D. depreciação do ativo imobilizado, CAPEX;
+   E. pagamentos do ciclo operacional, CAPEX.
+
+                                                                                                         64
+
+
+---
+
+                         QUESTÕES COMENTADAS COM GABARITO
+As respostas estão associadas ao número das questões do capítulo anterior, com comentários logo a seguir.
+Optamos por não negritar as respostas e deixá-las apenas no gabarito.
+
+Questão 1) 2021 / Banca: UFR / UFR - Administrador
+
+NÃO é competência da função financeira na empresa:
+
+   A. Avaliar e escolher alternativas de aplicação de recursos.
+   B. Atividade burocrática de acompanhar assiduidade e preparar folhas de pagamento dos
+      trabalhadores.
+   C. Acompanhar e avaliar resultados financeiros da organização.
+   D. Destinação dos resultados: seleção de alternativas para aplicação dos resultados financeiros.
+
+A opção A está correta, pois uma das principais funções de finanças e buscar alternativa para aplicação de
+recursos; a opção B está ERRADA, pois trata de gestão de pessoas e não de gestão financeira; a opção C está
+certa, pois acompanhar resultados financeiras faz parte da função financeira, bem como selecionar alternativas
+para aplicar os resultados financeiras (opção D).
+
+Questão 2) 2021 / Banca: UFR / UFR - Administrador
+
+Em relação às ferramentas financeiras que devemos utilizar na elaboração de um plano de negócio, leia o
+texto abaixo e assinale a alternativa correta. “Essa ferramenta nos informará quanto pelo menos a empresa
+deverá faturar para conseguir pagar todos os seus custos (fixos e variáveis).” (Salanek, 2012)
+
+   A. Trata-se dos orçamentos
+   B. Trata-se da margem de contribuição
+   C. Trata-se do ponto de equilíbrio
+   D. Trata-se da gestão dos custos e formação dos preços
+
+A opção A está errada, pois o orçamento não é feito para dizer QUANTO deve-se faturar para pagar custos fixos
+e variáveis, ele mostra tudo.
+
+A opção B está errada, pois a margem de contribuição é calculada pela diferença entre a Receita Líquida e o
+Custo das Vendas (variáveis apenas), ela é um "lucro", não é um mínimo que se deve faturar.
+
+A opção D está errada, pois a gestão de custos e formação de preços busca maximizar os lucros ou reduzir
+prejuízos.
+
+                                                                                                           65
+
+
+---
+
+A opção C está correta, pois o ponto de equilíbrio trata exatamente disso, do ponto em que cobrimos todos os
+custos fixos e variáveis. Há uma pequena imperfeição no gabarito, pois o ponto de equilíbrio normalmente é
+uma QUANTIDADE e não um faturamento. Mas por exclusão não há outra opção.
+
+Questão 3) 2021 / Banca: SELECON / Câmara de Cuiabá - MT - Controlador Interno
+
+No processo operacional de planejamento e orçamento denominado Base Zero, o conceito envolvido na
+alternativa apresentada no pacote de decisão, que procura incrementar níveis acima do corrente, buscando
+favorecer a permissão para a execução de funções ou serviços adicionais aos existentes, está relacionado
+com:
+
+   A. os custos e benefícios
+   B. as medidas de desempenho
+   C. os rumos alternativos de ação
+   D. o nível de expansão de esforço
+
+O orçamento Base Zero é uma ferramenta essencial para o alinhamento das estratégias da empresa, pois
+planeja e controla o financeiro da organização em um determinado período, tendo como base o “papel em
+branco", permitindo uma rediscussão total do negócio quando dessa orçamentação, relacionando cada gasto
+com seu respectivo resultado.
+
+O orçamento deve possuir análise sobre as consequências da não execução de determinada função, caminhos
+alternativos de ação, custos e benefícios, medidas de desempenho e tipos de alternativas. Esse último abriga
+diferentes formas de realizar uma função, deferentes níveis de esforço para produzir a mesma função (nível
+mínimo, corrente e de expansão).
+
+O orçamento base zero relaciona os níveis de esforços de acordo com os percentuais de redução em relação ao
+referencial que apresentado. Os níveis de esforços são alocados em um pacote de decisão e deverão ser
+escolhidos conforme a função a ser executada, esse pacote será dividido em:
+
+       Esforço mínimo (esforço empregado é baixo, podendo não resultar em uma decisão eficiente);
+       Esforço corrente (pode ser utilizado como um acréscimo do esforço mínimo);
+       Esforço de expansão (é o último esforço e é executado que procura enriquecer o nível corrente, o qual
+        detém o objetivo de permitir a execução de funções ou serviços adicionais aos já existentes).
+
+Portanto, letra D
+
+Questão 4) 2018 / Banca: CESPE / CEBRASPE / SEFAZ-RS
+
+O fato de uma empresa ter poder de negociação com fornecedores para postergar ao máximo o pagamento
+de suas compras a prazo tem impacto direto no
+
+   A. ciclo econômico.
+   B. ciclo operacional.
+   C. ciclo financeiro
+   D. prazo médio de renovação de estoques.
+   E. prazo médio de recebimento de vendas
+
+                                                                                                          66
+
+
+---
+
+O ciclo econômico trata do orçamento essencialmente contábil, em regime de competência. O ciclo operacional
+mede quanto tempo um produto leva no ativo circulante até virar caixa. Ele começa como material, vira estoque
+de produtos acabados, vira contas a receber e, finalmente, CAIXA. O prazo médio de renovação de estoques
+não está ligado ao pagamento do fornecedor, mas ao período em que o estoque se mantém, assim como o prazo
+de recebimento de vendas está ligado ao prazo que o consumidor paga.
+
+Sobra apenas o ciclo financeiro, que é exatamente o que se baseia em regime de CAIXA e não de competência.
+Se pudermos prorrogar o pagamento, maximizamos a geração de caixa no ciclo financeiro. Opção C.
+
+Questão 5) 2019 / Banca: IBADE / DEPASA - AC - Administrador
+
+Em relação ao conceito de administração financeira pode-se afirmar que Administração Financeira é :
+
+   A. o conjunto de atividades visando gerir apenas as despesas de uma empresa ou organização.
+   B. o conjunto de atividades visando gerir as finanças de uma empresa ou organização.
+   C. o conjunto de atividades visando gerir as regras e valores de uma empresa ou organização.
+   D. o conjunto de atividades visando gerir as pessoas e estoques de uma empresa ou organização.
+   E. o conjunto de atividades visando gerir as contas e sistemas de TI de uma empresa ou organização.
+
+Essa é uma questão bastante trivial, pois a única opção que trata de finanças diretamente é a B. As outras
+tratam de "gerir apenas despesas", gerir valores, gerir pessoas e gerir sistemas de TI, o que obviamente não é
+função financeira.
+
+Questão 6) 2018 / Banca: NC-UFPR / COREN-PR
+
+O orçamento constitui um documento formal que mensura os planos de curto prazo, normalmente um ano,
+de uma empresa para que ela possa alcançar seus objetivos, baseado nas estruturas empresariais já
+existentes ou em programação, decorrendo dos planos operacionais estipulados para cada uma dessas
+estruturas. Com base nos conceitos e tipos de orçamento, identifique como verdadeiras (V) ou falsas (F) as
+seguintes afirmativas:
+
+( ) O orçamento base zero é elaborado periodicamente a partir da rediscussão em cada período da
+necessidade ou não de cada gasto associado às atividades desempenhadas pela entidade.
+
+( ) O orçamento de tendências é elaborado a partir da observação de dados e desempenhos passados.
+
+( ) Dependendo de como a empresa avalia seu desempenho a partir dos orçamentos, estes podem ser
+estáticos ou flexíveis.
+
+( ) Orçamentos estáticos são ajustados periodicamente ao longo do período orçamentário para refletir
+modificações nos níveis de atividade da empresa.
+
+Assinale a alternativa que apresenta a sequência correta, de cima para baixo.
+
+Alternativas
+
+
+                                                                                                           67
+
+
+---
+
+        A. V – V – V – F.
+        B. V – V – F – F.
+        C. F – F – F – V.
+        D. F – V – F – V.
+        E. V – F – V – F.
+
+Primeira é verdadeira, pois o OBZ realmente rediscute as necessidades a cada período.
+
+A segunda é verdadeira, pois projetar por tendências significa partir de observação de dados passados.
+
+A terceira é verdadeira, pois se a empresa tem um desempenho muito maduro e com pouca oscilação, pode usar
+orçamento estático, porém precisará usar orçamento dinâmico se seu negócio for muito volátil.
+
+A última é falsa, pois orçamentos estáticos NÃO são ajustados periodicamente.
+
+Opção A.
+
+Questão 7) 2021 / Banca: Quadrix / CRC-AP - Contador Fiscal
+
+O capital circulante líquido (CCL) é um indicador de liquidez que mede a capacidade da empresa de cumprir
+com seus compromissos de pagamento e de manter suas operações funcionando. O CCL é verificado pela
+diferença entre o ativo circulante (disponível, contas a receber, estoques e despesas pagas
+antecipadamente) e o passivo circulante (fornecedores, contas a pagar e outras exigibilidades do exercício
+seguinte) em um determinado momento. Acerca desse assunto, julgue os itens seguintes.
+
+   i.      Um aumento de capital em dinheiro não afetaria o CCL.
+  ii.      Vendas de permanentes recebíveis a curto prazo não afetariam o CCL.
+ iii.      O pagamento de fornecedores de matéria-prima não afetaria o CCL.
+ iv.       Um financiamento de longo prazo para a aquisição de uma loja não afetaria o CCL.
+  v.       A aquisição de um empréstimo bancário de curto prazo não afetaria o CCL.
+
+Assinale a alternativa correta.
+
+        A. Apenas o item III está certo.
+        B. Apenas o item IV está certo.
+        C. Apenas o item V está certo.
+        D. Apenas os itens I e IV estão certos.
+        E. Apenas os itens II e V estão certos.
+
+Sempre é bom trabalhar com as fórmulas em vista.
+
+                     𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = 𝑎𝑡𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐴𝐶 − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+Um aumento de capital em dinheiro significa entrar caixa, porém a contrapartida é no patrimônio líquido, não
+no passivo circulante. Vai mexer no CCL.
+
+Vender ativos permanentes reduz o ativo imobilizado, se o pagamento for em recebíveis de menos de um não,
+afetará o ativo circulante, portanto afetará o CCL.
+
+                                                                                                         68
+
+
+---
+
+Pagar fornecedores de matéria prima afeta o CCL, porém não sabemos em quanto, pois se for pago com caixa
+ambos reduzirão na mesma proporção. Essa questão é controversa, vamos ver o resto.
+
+Financiamento de longo prazo para comprar ativo imobilizado nem mexe com o CCL e com nenhuma de suas
+rubricas (AC e PC). Esse com certeza está certo.
+
+Empréstimo bancário de curto prazo aumenta o PC e pode aumentar também o AC, mas não sabemos em que
+proporção.
+
+A resposta é que apenas o item IV está correto. Opção B
+
+Questão 8) 2019 / Banca: IF-PA / Tecnólogo - Gestão Financeira
+
+A administração do capital de giro trata dos ativos e passivos correntes a partir de um conjunto de regras
+que tem por objetivo a preservação da saúde financeira da empresa. Sobre a natureza e as definições da
+administração do capital de giro, é INCORRETO afirmar que:
+
+     A. os elementos de giro são identificados no ativo circulante e passivo circulante, ou seja, no curto
+        prazo.
+     B. o capital de giro líquido (CCL) reflete a folga financeira da empresa e representa o volume de recursos
+        de longo prazo que financia os ativos correntes.
+     C. uma boa administração do capital de giro envolve imprimir alta rotação (giro) ao circulante,
+        tornando mais dinâmico seu fluxo de operações.
+     D. o ciclo operacional representa o intervalo de tempo em que não ocorrem ingressos de recursos
+        financeiros na empresa, demandando-se capital para financiá-lo.
+     E. quanto menor a participação de recursos de longo prazo, menos arriscada se apresenta a política de
+        capital de giro da empresa.
+
+A) os elementos de giro são: estoques, caixa, pagamento a fornecedores, contas a receber. São elementos
+circulantes, de curto prazo.
+
+B)
+                  𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = 𝑎𝑡𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐴𝐶 − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+A variação do CCL está associada com mais ou menos recursos de longo prazo necessários para financiar os
+ativos correntes.
+
+C) normalmente quanto maior o giro, maior é a operação, menos estoques ficamos, menos contas a receber,
+mais transformação em caixa, etc.
+
+D)
+                       𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+O ciclo operacional é o tempo em que ficamos mesmo sem receber, é o período em que a mercadoria fica em
+estoque mais o período que levamos para receber o que vendemos.
+
+                                                                                                            69
+
+
+---
+
+E) essa está errada, pois recursos de longo prazo são mais baratos e levam mais tempo para serem pagos,
+portanto quanto MAIOR a participação deles, menos arriscada é a política de capital de giro (menor é a
+necessidade de financiamentos de curto prazo). Opção E é a resposta.
+
+Em finanças, administração financeira e contabilidade, sempre que possível escreva a fórmula, vai facilitar
+a entender a dinâmica das perguntas.
+
+Questão 9) 2019 / Banca: CESPE / CEBRASPE / SEFAZ-RS - Auditor Fiscal da Receita Estadual - Bloco II
+
+Acerca do giro de estoques, assinale a opção correta.
+
+     A. Uma política de estoques mínimos favorece a obtenção de giros de estoques cada vez maiores.
+     B. Giro de estoques de cinco vezes significa que a empresa leva mais de oitenta dias para vender
+        integralmente o seu estoque uma vez.
+     C. A aquisição de estoques em grande quantidade para obter descontos comerciais tende a aumentar
+        o giro dos estoques.
+     D. Quanto maior for o giro de estoques, maior será o prazo médio de vendas da empresa.
+     E. O fato de o giro de estoques de uma empresa ser mais elevado que o de outras empresas do mesmo
+        setor pode indicar que essa empresa esteja mantendo bens obsoletos em estoque ou mantendo
+        estoque em nível desnecessariamente alto.
+
+                                    custo dos produtos vendidos no período
+                             GE =
+                                           estoque médio no período
+
+A questão A está obviamente correta, o que podemos ver com facilidade pela fórmula (SEMPRE ESCREVA
+A FÓRMULA!!!!). Se os estoques são MENORES (denominador menor), o giro será obviamente maior.
+
+B)
+                               Número de dias no período (360 dias) 360
+                       PME =                                       =    = 72
+                                         Turnover (GE)               5
+
+Está errado, e 72 dias, que é menor que 80.
+
+C) Quanto maiores forem os estoques MENOR será o giro.
+
+D) O prazo médio de vendas está associado ao prazo médio de recebimento, vai depender mais do tempo
+em que fica no contas a receber.
+
+E) se o giro dos estoques é MAIOR, significa que ela vende mais rápido, é o contrário do que afirma o item.
+
+Opção A.
+
+                                                                                                         70
+
+
+---
+
+Questão 10) 2018 / Banca: UFPR / UFPR - Contador
+
+A Companhia Alfa apresentou no período T0 Prazo Médio de Estocagem de 40 dias, Prazo Médio de
+Recebimento de Vendas de 70 dias e Prazo Médio de Pagamento a Fornecedores de 50 dias. Para o período
+T1, a empresa reduziu em 20% seu Prazo Médio de Estocagem e em 30% seu Prazo Médio de Recebimento
+de Vendas, bem como conseguiu ampliar em 12% seu Prazo Médio de Pagamento a Fornecedores.
+Considerando essas informações, assinale a alternativa em que é apresentado o Ciclo de Caixa, em número
+de dias, da Companhia Alfa para o período T1.
+
+   A. 110.
+   B. 81.
+   C. 60.
+   D. 37.
+   E. 25.
+
+                     𝐶𝐶𝑥 = 𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 − 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟
+
+                     𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+Em To / Período em estoque = 40 dias / Período em contas a receber = 70 dias / período em constas a pagar = 50
+dias
+
+Em T1 / Período em estoque = 32 (40-20%) dias / Período em contas a receber = 49 dias (70-30%) / período em
+constas a pagar = 56 dias (50 + 12%)
+
+             𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟 = 32 + 49 = 81
+
+             𝐶𝐶𝑥 = 𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 − 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟 = 81 − 56 = 25
+
+Opção E.
+
+Questão 11) 2019 / Banca: IF-MS / Tecnólogo em Gestão Financeira
+
+O ciclo de caixa é o período em que acontece a movimentação financeira dentro do ciclo operacional.
+Quanto maior for o ciclo de caixa, maior será o investimento em capital de giro para dar sustentação às
+atividades operacionais. Considerando-se a possibilidade de menor investimento em capital de giro, quais
+são as estratégias utilizadas para a minimização do ciclo de caixa?
+
+   A. Quitar antecipadamente as contas a pagar e retardar o recebimento das duplicatas a receber.
+   B. Girar mais rapidamente os estoques e retardar o pagamento das duplicatas a pagar.
+   C. Girar mais rapidamente os estoques, receber mais tarde as duplicatas a receber e pagar
+      antecipadamente as duplicatas a pagar.
+   D. Girar mais rapidamente os estoques, receber antecipadamente as duplicatas a receber e retardar o
+      pagamento das duplicatas a pagar.
+   E. Girar mais lentamente os estoques, receber antecipadamente as duplicatas a receber e retardar o
+      pagamento das duplicatas a pagar.
+
+                                                                                                           71
+
+
+---
+
+A) Necessidade de capital e giro é o ciclo de caixa nesse diagrama. Obviamente se pagarmos o fornecedor antes
+e aumentarmos o prazo de recebimento dos clientes vamos AUMENTAR a necessidade de capital de giro.
+
+B) Essa poderia ser uma opção, pois aumentar o giro do estoque reduz o prazo de estocagem e adiar o
+pagamento das duplicatas também reduz o ciclo de caixa.
+
+C) Esse item está errado, pois atrasa o contas a receber e adianta o contas a pagar.
+
+D) Esse item é igual ao B, só que inclui do contas a receber. Está "mais certo" e mais completo que o B, portanto
+deve ser a opçõa.
+
+E) Girar mais lentamente os estoques aumenta o ciclo operacional e o de caixa.
+
+Questão 12) 2019 / Banca: IF-MS / Tecnólogo em Gestão Financeira
+
+O Planejamento financeiro serve como um norteador das atividades da organização, com a intenção de
+atingir seus objetivos de curto e longo prazo. O planejamento financeiro envolve o orçamento de caixa e a
+projeção dos demonstrativos financeiros. Com qual objetivo o gestor financeiro elabora o orçamento de
+caixa?
+
+   A. Para se ter conhecimento das necessidades operacionais da empresa e providências de captação de
+      recursos a longo prazo.
+   B. Para se ter conhecimento das necessidades financeiras da empresa e providências de captação de
+      recursos de curto e longo prazo.
+   C. Para se ter conhecimento dos déficits de caixa e providências de captação de recursos a curto prazo.
+   D. Para que se possa utilizá-lo como base para o desenvolvimento das demonstrações financeiras.
+   E. Para determinar excessos de caixa para investimento á longo prazo.
+
+A) se é orçamento de caixa não pode ser de longo prazo.
+
+B) idem.
+
+C) correta, deficiências de caixa e formas de cobri-la com captação de curto prazo.
+
+D) Orçamento de caixa não é usado para demonstrações financeiras, mas para gestão de caixa e gerencial.
+
+E) não faz sentido falar de longo prazo.
+
+
+                                                                                                              72
+
+
+---
+
+Opção C.
+
+        Questões diversas cobrindo toda a matéria (inéditas e de várias bancas e anos).
+
+Com relação à administração financeira e orçamentária nas empresas, julgue os itens a seguir.
+
+Questão 13
+
+O orçamento estático, elaborado apenas para o nível planejado de atividade, é inadequado para a avaliação
+de eficiência do controle de custos. Se a atividade real for maior que a planejada, os custos variáveis devem
+ser superiores aos estimados; se for menor, devem ser inferiores.
+
+      Certo
+      Errado
+
+Conforme vimos no material o orçamento estático é baseado nos resultados de um único planejamento, uma
+única atividade, uma vez que é elaborado, não muda, fica estático, parado, permanece sem alterações desde
+seu princípio. É um tipo de orçamento não se ajusta a mudanças.
+
+Aplica-se a funções administrativas básicas altamente previsíveis. Ou seja, como é fácil de prever, não há
+porque apresentar mudanças. O orçamento de manutenção de impressoras, por exemplo, pode ser fechado com
+exatidão (terceirizado).
+
+No caso da questão, se a atividade for maior do que a planejada, a receita será maior, portanto os custos
+variáveis também serão maiores (e vice-versa) e, como o orçamento é estático não permite ajuste portanto
+teremos estimativas erradas (para mais ou para menos). Resposta certa, o orçamento é inadequado.
+
+Questão 14
+Os custos indiretos fixos, para efeito de análise das variações entre os valores reais e os orçados, devem ser
+expressos e analisados em forma unitária ou horária, relacionando-os à variação de volume dentro da faixa
+relevante de atividade.
+
+      Certo
+      Errado
+
+Não faz sentido que custos FIXOS sejam relacionados a volumes de produção.
+
+Questão 15
+
+A gestão e a projeção do orçamento de caixa para períodos inferiores a um ano inserem-se no âmbito do
+planejamento financeiro de curto prazo.
+
+                                                                                                           73
+
+
+---
+
+      Certo
+      Errado
+
+Por definição, se está se referindo a períodos inferiores a um ano, é tratado como circulante. Certo.
+
+Questão 16
+
+Ao final de cada exercício social, uma empresa efetua análise das variações de seu orçamento planejado e
+o efetivamente realizado naquele ano. No último ano, a empresa apresentou o seguinte quadro
+comparativo:
+
+Analisando-se as variações de preço e de volume a partir do demonstrativo, conclui-se que a(o)
+
+(A) variação do preço de venda foi desfavorável em R$ 2,00 por unidade.
+
+(B) variação do custo variável unitário foi favorável em R$ 5,00 por unidade.
+
+(C) variação dos custos fixos foram desfavoráveis em R$ 1.000,00 no total.
+
+(D) margem de contribuição unitária aumentou em R$ 3,00 por unidade.
+
+(E) volume de venda isoladamente aumentou o resultado em R$ 2.000,00.
+
+A) está errada, pois o preço de venda efetivo foi de R$ 8,00 por unidade, contra R$ 7,00 previsto
+
+B) está errada, pois o custo foi o mesmo, R$ 5,00 por unidade (não houve variação).
+
+C) Está certa, pois o custo previsto era de 6.000, ficamos em 7.000, o que, do ponto de vista de custo, é
+DESFAVORÁVEL.
+
+D) A margem de contribuição subiu de R$ 2 para R$ 3.
+
+                                                                                                        74
+
+
+---
+
+E) o volume de venda não pode ter contribuído isoladamente para o aumento do resultado, pois o volume
+diminuiu. Quem contribuiu foi o aumento do preço.
+
+Opção C.
+
+Questão 17
+
+Uma empresa industrial consegue obter um lucro operacional de R$ 200.000,00 mantendo uma produção
+de 10.000 unidades. Sabendo-se que sua margem de contribuição unitária é de ¼ do preço, qual o valor
+médio estimado, em reais, do custo variável unitário do produto?
+
+(A) R$ 20,00
+
+(B) R$ 40,00
+
+(C) R$ 50,00
+
+(D) R$ 60,00
+
+(E) R$ 80,00
+
+Margem de contribuição = (Preço – CMV) x QTD.
+
+Margem% = (Preço – CMV)/Preço; 0,25xP = P – CMV; P = CMV/0,75.
+
+200.000 = 10.000x(CMV/0,75-CMV)
+
+20 = 0,33333xCMV
+
+CMV=60
+
+Opção D
+
+Questão 18) 2011 / Banca: Cesgranrio
+
+Considere as informações dos Balanços Patrimoniais e a Demonstração de Resultados da Empresa XisY
+publicados em 31 de março de 2011, em milhares de reais, para responder às questões de nos 59, 60 e 61.
+
+Balanço Patrimonial da Empresa XisY em 31 de dezembro de 2009 e 2010
+
+                                                                                                    75
+
+
+---
+
+Sabendo-se que 20% de todas as vendas são realizadas à vista e as demais a prazo, qual o ciclo operacional
+(aproximado), em dias, da empresa XisY?
+
+(A) 70
+
+                                                                                                       76
+
+
+---
+
+(B) 81
+
+(C) 90
+
+(D) 101
+
+(E) 111
+
+Essa questão é um pouco controversa, pois APARENTEMENTE a banca usou o período de 365 dias e não de 360
+para as contas. A aproximação fica muito distante quando usamos 360 e próxima quando usamos 365.
+
+Faremos, porém, com 360, que é o usual e não compromete o resultado (apesar de ser uma aproximação bem
+esticada).
+
+                                                𝑐𝑢𝑠𝑡𝑜 𝑑𝑜𝑠 𝑝𝑟𝑜𝑑𝑢𝑡𝑜𝑠 𝑣𝑒𝑛𝑑𝑖𝑑𝑜𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+                𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =
+                                                       𝑒𝑠𝑡𝑜𝑞𝑢𝑒 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                2.100
+                              𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (𝑔𝑖𝑟𝑜 𝑑𝑜 𝑒𝑠𝑡𝑜𝑞𝑢𝑒) =            = 8,4
+                                                                 250
+
+                                         𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+           𝑃𝑒𝑟í𝑜𝑑𝑜 𝑀é𝑑𝑖𝑜 𝑛𝑜 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 =                                         = 42,85 𝑑𝑖𝑎𝑠
+                                                   𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 (8,4)
+
+Para calcular o período do contas a receber, precisamos entender que há DOIS componentes das vendas, o
+componente a prazo, que aumenta o período do contas a receber, e o componente à vista, que tem contribuição
+ZERO para esse período.
+
+Como o enunciado diz que 80% das vendas são a prazo, temos que, dos 2.540 vendidos, 20% tem entrada
+IMEDIATA, ou seja, prazo ZERO, e 80% (R$ 2.032) contribuem para o período do contas a receber.
+
+                                                                     𝑉𝑒𝑛𝑑𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+          𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =
+                                                             𝑐𝑜𝑛𝑡𝑎𝑠 𝑎 𝑟𝑒𝑐𝑒𝑏𝑒𝑟 𝑚é𝑑𝑖𝑜 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜
+
+                                                                         2.032
+                    𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟(𝑔𝑖𝑟𝑜 𝑑𝑜 𝑟𝑒𝑐𝑒𝑏í𝑣𝑒𝑙) =             = 7,81
+                                                                          260
+
+                                           𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+          𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑅𝑒𝑐𝑒𝑏𝑖𝑚𝑒𝑛𝑡𝑜 =                                          = 46,07 𝑑𝑖𝑎𝑠
+                                               𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑅𝑒𝑐𝑒𝑏í𝑣𝑒𝑖𝑠 (7,81)
+
+             𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝑒𝑠𝑡𝑜𝑞𝑢𝑒 + 𝑃𝑒𝑟í𝑜𝑑𝑜 𝑒𝑚 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑅𝑒𝑐𝑒𝑏𝑒𝑟
+
+                      𝐶𝑖𝑐𝑙𝑜 𝑂𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 𝐶𝑂𝑝 = 42,85 + 46,07 = 88,92 𝑑𝑖𝑎𝑠 𝑎𝑝𝑟𝑜𝑥
+
+                                                                                                        77
+
+
+---
+
+Opção C (pois é a que mais se aproxima). A título de curiosidade, se usássemos 365 dias, a resposta seria 90,18,
+quase cravada a resposta apresentada pela banca.
+
+Questão 19) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, qual é, aproximadamente, o ciclo de caixa da empresa XisY, em dias?
+
+(A) 38
+
+(B) 42
+
+(C) 48
+
+(D) 52
+
+(E) 56
+
+Essa questão parece ter duas controvérsias. Primeiro, aparentemente a banca usou 365 dias em vez de 360,
+segundo parece que a banca usou CMV em vez e compras no período. A aproximação fica MUITO distante se
+usarmos compras e 360 dias, mas utilizaremos isso, pois é o usual e não compromete o resultado.
+
+                                                                       Compras no período
+           Turnover Contas a Pagar(giro das obrigações) =
+                                                                 contas a pagar médio no período
+
+         𝐶𝑜𝑚𝑝𝑟𝑎𝑠 = 𝐶𝑀𝑉 − 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐼𝑛𝑖𝑐𝑖𝑎𝑙 + 𝐸𝑠𝑡𝑜𝑞𝑢𝑒 𝐹𝑖𝑛𝑎𝑙 = 2.100 − 200 + 300 = 2.200
+
+                                                                               2.200
+                     𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝐶𝑜𝑛𝑡𝑎𝑠 𝑎 𝑃𝑎𝑔𝑎𝑟(𝑔𝑖𝑟𝑜 𝑑𝑎𝑠 𝑜𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠) =                  =8
+                                                                                275
+
+                                             𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑑𝑖𝑎𝑠 𝑛𝑜 𝑝𝑒𝑟í𝑜𝑑𝑜 (360 𝑑𝑖𝑎𝑠)
+          𝑃𝑟𝑎𝑧𝑜 𝑀é𝑑𝑖𝑜 𝑑𝑒 𝑃𝑎𝑔𝑎𝑚𝑒𝑛𝑡𝑜 =                                              = 45 𝑑𝑖𝑎𝑠
+                                                  𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 𝑂𝑏𝑟𝑖𝑔𝑎çõ𝑒𝑠 (8)
+
+O ciclo de caixa é o ciclo operacional (88,92), menos o prazo de pgto (45)=43,92
+
+A título de curiosidade, se usássemos 365 em vez de 360 e CMV em vez de compras no período, a resposta seria
+47,8 no prazo médio das obrigações e 42,38 (90,18-47,8), muito mais próximo ao que a banca apresentou.
+
+Opção B, pois é a que mais se aproxima.
+
+Questão 20) 2011 / Banca: Cesgranrio
+
+O orçamento empresarial pode ser entendido como a expressão quantitativa de um plano de ação futuro
+da administração para um determinado período. O processo de orçamento empresarial pode utilizar-se de
+
+
+                                                                                                             78
+
+
+---
+
+algumas abordagens, como, por exemplo, a “Beyond Budgeting”, que possui algumas características
+marcantes.
+
+Uma dessas características é
+
+(A) apresentar metas fixas para os gestores.
+
+(B) apresentar um processo decisório centralizado.
+
+(C) desestimular as equipes a assumirem riscos.
+
+(D) ser semelhante ao orçamento tradicional.
+
+(E) prover os recursos quando forem necessários.
+
+Como visto no material, o orçamento "Beyond Budgeting (BB)" tem como objetivo promover um ambiente de
+trabalho favorável e mais livre (menos hierarquia). Promove a autogestão a uma cultura organizacional focada
+em distribuição de responsabilidades, buscando formatar uma cadeia de motivação, produtividade e melhor
+atendimento aos clientes. Estimula a formação de líderes setoriais. Os orçamentos individuais são dinâmicos,
+mas o orçamento global é projetado a médio e longo prazo.
+
+Sua maior aplicação se dá em empresas modernas e dinâmicas, em que há necessidade de tomada de decisões
+em nível micro. Empresas industriais engessadas, com processos predefinidos e soluções de engenharia de
+produção precisas NÃO poderiam usar esse modelo de orçamentação.
+
+A opção A está errada, pois fala de um orçamento estático, a B está errada por tratar de um processo decisório
+centralizado, o contrário do BB, a C está errada por desestimular a assumir risco, no BB as pessoas são
+estimuladas, a D está errada, pois o BB não é um orçamento tradicional e rígido, a C está certa, pois pelo
+dinamismo, provê os recursos assim que se tornam necessários.
+
+Opção E.
+
+Questão 21) 2011 / Banca: Cesgranrio
+
+Alguns ativos e passivos circulantes do Balanço Patrimonial de uma empresa possuem características
+específicas que os identificam como sendo contas patrimoniais operacionais. O capital de giro operacional
+líquido de uma empresa não costuma ser constante, podendo variar, por exemplo, mensalmente.
+
+Quanto à variação mensal do capital de giro operacional líquido, sendo não nula, no mês em análise, ela
+sempre
+
+(A) implicará novos financiamentos.
+
+
+                                                                                                           79
+
+
+---
+
+(B) implicará novos investimentos.
+
+(C) impactará o caixa da empresa.
+
+(D) resultará em um valor positivo.
+
+(E) resultará em um valor negativo.
+
+𝐶𝑎𝑝𝑖𝑡𝑎𝑙 𝐶𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝐿í𝑞𝑢𝑖𝑑𝑜 = (𝑐𝑎𝑖𝑥𝑎 + 𝑜𝑢𝑡𝑟𝑜𝑠 𝑎𝑡𝑖𝑣𝑜𝑠 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒𝑠 𝑂𝐴𝐶) − 𝑝𝑎𝑠𝑠𝑖𝑣𝑜 𝑐𝑖𝑟𝑐𝑢𝑙𝑎𝑛𝑡𝑒 𝑃𝐶
+
+Não é possível afirmar que implicará em novos financiamentos (mais caixa) ou novos investimentos (menos
+caixa).
+
+Não é possível avaliar se haverá um valor positivo ou negativo.
+
+Mas se há variação do CCL, há variação no caixa.
+
+Um aumento nos financiamentos (passivo circulante) pode gerar caixa ou novos ativos circulantes. Num
+primeiro momento não muda o CCL.
+
+Uma redução nos financiamentos implica mudança no caixa, pois não se paga dívida com outros ativos
+normalmente. Uma redução nos outros ativos circulantes normalmente gera caixa, pois significa venda.
+
+De qualquer forma, os itens a, b, d e e, não são respostas possíveis.
+
+Opção C.
+
+Questões 22 a 25
+
+Considerando os dados apresentados no quadro acima, referentes a uma empresa que tem um único
+produto em linha de produção, julgue os itens a seguir.
+
+Aumentando a sua produção até o limite da capacidade instalada (500.000 unidades) e mantendo o preço
+atual, o lucro bruto da companhia seria elevado para um valor superior a R$ 520.000,00.
+
+      Certo
+      Errado
+
+Sim, irá para 525.000. Receita – CMV – Fixos
+
+
+                                                                                                    80
+
+
+---
+
+500.000x(4,00-2,35)-300.000 = 525.000
+
+Certo
+
+Questão 22) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, caso as 200.000 unidades adicionais fossem vendidas a R$ 2,50, não haveria
+aumento do lucro bruto da companhia, em relação à situação inicial.
+
+         Certo
+         Errado
+
+Com certeza haveria, pois ainda assim estaria vendendo acima dos 2,35. Perceba que estamos falando APENAS
+das unidades adicionais.
+
+Errado.
+
+Questão 23) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, o preço de venda de equilíbrio (lucro bruto igual a zero), utilizando a
+capacidade total, é igual a R$ 2,95.
+
+         Certo
+         Errado
+
+Para lucro bruto = zero teríamos:
+
+(preço – 2,35)x500.000=300.000; preço - 2,35 = 0,60, logo p = 2,95. Essa é uma matéria de administração da
+produção e de custos.
+
+Certo.
+
+Questão 24) 2011 / Banca: Cesgranrio
+
+Com base nos dados anteriores, o ponto de equilíbrio, ao preço de venda de R$ 4,00, está entre 200.000 e
+220.000 unidades.
+
+         Certo
+         Errado
+
+Ao preço de R$ 4,00 a margem de contribuição por produto é de R$ 1,65 ( R$ 4,00 – R$ 2,35).
+
+300.000/1,65 = 181 mil unidades.
+
+                                                                                                       81
+
+
+---
+
+Errado
+
+Questão 25) 2011 / Banca: Cesgranrio
+
+Considerando os dados anteriores, caso recebesse proposta para colocação das 200.000 unidades que
+cabem na sua capacidade de produção, ao preço de R$ 2,65, a empresa não deveria aceitar, porque cairia o
+lucro bruto.
+
+        Certo
+        Errado
+
+Mesmo lógica da anterior, como já vendemos 300.000 a R$ 4,00, os adicionais, se houver margem de
+contribuição unitária positiva, sempre farão o lucro bruto crescer, pois os custos fixos já estão pagos.
+
+Errado
+
+Questão 26)
+
+Obtiveram-se da Cia. Mega S/A as seguintes informações, considerando o ano de 360 dias:
+
+• Rotação de duplicatas a receber: 12 vezes
+
+• Rotação de fornecedores: 24 vezes
+
+• Rotação de estoques: 8 vezes
+
+Com base nesses dados, o ciclo de caixa da empresa, em dias, é de:
+
+   A. 44
+   B. 45
+   C. 60
+   D. 75
+   E. 90.
+
+Vamos trabalhar com o ano comercial de 360 dias.
+
+O prazo de realização dos estoques será 360/8= 45 dias.
+
+Prazo de pagamento a fornecedores = 360/24 = 15 dias
+
+Prazo de recebimento = 360/12=30 dias
+
+Ciclo de caixa = 45 + 30 – 15 = 60 dias.
+
+                                                                                                     82
+
+
+---
+
+Opção C
+
+Questão 27)
+
+A Cia. Progresso S/A, durante o período de planejamento orçamentário para o exercício de 2006, recolheu
+as seguintes informações do exercício de 2005, para poder projetar o custo total de mão-de-obra:
+
+• Total de horas de máquina utilizadas 60.000 HM
+
+• Custo total de mão-de-obra para R$ 250.000,00
+
+• Parte fixa do custo de mão-de-obra R$ 40.000,00
+
+Considerando-se que uma das premissas do orçamento é o aumento de vendas e, conseqüentemente, de
+produção, a empresa passará a consumir 80.000 horas de máquina.
+
+Com base nos dados acima, pode-se afirmar que o custo total, em reais, de mão-de-obra para 80.000 horas
+de máquina será de:
+
+   A. 260.000,00
+   B. 280.000,00
+   C. 290.000,00
+   D. 320.000,00
+   E. 350.000,00
+
+Primeiro precisamos descobrir a parte variável do custo de mão de obra, que é R$ 210.000 (R$ 250.000 – parte
+fixa R$ 40.000).
+
+O aumento proporcional na parte variável é de 80/60, que, multiplicado por 210.000 dará 280.000.
+
+Adicionamos a isso, novamente, o custo fixo e teremos R$ 320.000 (280.000 + 40.000).
+
+Opção D
+
+Questão 28)
+
+A Cia. Piratininga S/A trabalha com previsão orçamentária trimestral. Para o 1o trimestre de 2006, foram
+projetados os valores de vendas abaixo.
+
+                                                                                                         83
+
+
+---
+
+As vendas da empresa são feitas 60% à vista e 40% a prazo. As vendas a prazo são cobradas no mês seguinte
+ao das vendas e as duplicatas a receber no dia 31 de dezembro de 2005 só refletem a parcela a receber das
+vendas feitas em dezembro, no valor de R$ 40.000,00.
+
+As contas não recebidas são desprezíveis e devem ser desconsideradas.
+
+Em decorrência, a previsão de entrada de caixa proveniente das vendas, para o mês de janeiro de 2005, foi,
+em reais, de:
+
+   A. 36.000,00
+   B. 38.000,00
+   C. 44.000,00
+   D. 46.000,00
+   E. 50.000,00
+
+É uma questão confusa, pois não temos certeza se os R$ 40.000 são as vendas totais de dezembro ou a parcela
+vendida a prazo.
+
+Mas, se fizermos as duas opções, veremos que a banca considera que os 40.000 são o total de vendas em
+dezembro, portanto 40% disso será recebido em janeiro (vendas a prazo). Estamos falando de 16.000.
+
+Adicione-se isso a previsão de vendas à vista em janeiro, 60% de 50.000 = 30.000, teremos a resposta.
+
+Opção D
+
+Questão 29)
+
+Os fluxos de caixa operacionais de uma empresa são as entradas e saídas relacionadas diretamente à
+produção e venda de seus produtos. Assim, fazem parte desse fluxo:
+
+   A. imposto de renda e salários a pagar.
+   B. vendas de ações e pagamentos de dividendos em dinheiro.
+   C. ativos imobilizados e participações societárias.
+   D. recompra de ações e duplicatas a receber.
+
+A resposta da banca é razoavelmente controversa, pois o imposto de renda não deveria fazer parte do fluxo
+operacional, uma vez que depende de lucro tributável e de não haver prejuízos acumulados. A não ser que eles
+estejam do imposto de renda retido dos funcionários.
+
+Salários a pagar pode fazer parte, se estiverem relacionados à operação.
+
+                                                                                                         84
+
+
+---
+
+Ocorre que as outras opções não têm nenhuma relação com a operação da empresa. Vendas e recompras de
+ações, ativos imobilizados e participações societárias, além de pagamentos em dinheiro.
+
+Duplicatas a receber até tem a ver, mas recompra de ações não.
+
+Como o imposto de renda representa uma saída de caixa, a banca pode ter entendido que fazia parte do fluxo
+operacional.
+
+A única opção viável é A, apesar de estar fora dos padrões do ensino de finanças no Brasil e no mundo.
+
+Questão 30)
+
+Dentre os princípios básicos do capital de giro, segundo Sanvicente (1995), destacam-se:
+
+   A. o problema da liquidez dos ativos correntes da empresa, em face da composição dos prazos de
+      vencimento de suas dívidas e o conflito entre liquidez e rentabilidade.
+   B. a concentração de esforços da empresa para manter sua liquidez, por meio da aplicação de recursos
+      em ativos correntes, que vão resultar em um aumento da rentabilidade dos investimentos e o
+      aumento do risco em relação ao porte operacional da empresa.
+   C. os dilemas enfrentados, nos casos de disponibilidades e estoques e na manutenção dos saldos
+      excessivos com custos mais baixos ou saldos insuficientes com custos maiores e a conciliação entre
+      rentabilidade e manutenção de saldos elevados.
+   D. as atitudes da administração em relação à falta de fundos, que é uma questão de conciliação entre
+      o ganho (rentabilidade) e o aumento de saldos necessários para garantia quanto ao problema de
+      insuficiência de fundos.
+
+O Item B perde o sentido quando fala do aumento de risco em relação ao porte operacional da empresa. O porte
+operacional da empresa não é relevante para as estratégias de capital de giro. São as mesmas.
+
+O Item C confunde as coisas. Os dilemas estão errados. Saldos excessivos não têm custos mais baixos, ao
+contrário, tem custos mais altos, assim como saldos insuficientes não tem custos maiores, mas menores. O
+dilema é entre o saldo excessivo que GERA custo e o saldo insuficiente que gera perda de receita.
+
+No Item D temos outro problema. A atitude de administrar capital de giro não é conciliar rentabilidade e
+aumento de saldos, mas identificar o investimento mínimo necessário para a operação da empresa, uma vez
+que excesso de capital de giro pode significar perda para a empresa, pois sua atividade operacional, em tese, é
+a que remunera melhor seus ativos.
+
+O Item a traz questões comuns da gestão de capital de giro. A liquidez dos ativos correntes diz respeito a quando
+se tornarão caixa, o que deverá ser confrontado com os prazos de vencimento dos passivos, para evitar
+descasamento. E também é o caso de gerir o conflito entre liquidez e rentabilidade. Como já dissemos, um
+excesso de liquidez (estoques grandes demais, caixa grande demais etc.) deve trazer remuneração menor do
+
+                                                                                                              85
+
+
+---
+
+que a da operação. Dinheiro parado gera menos do que na operação. Por isso devemos deixar a liquidez no
+patamar ideal para não perder rentabilidade.
+
+Opção A
+
+Questão 31)
+
+A necessidade da atuação do administrador financeiro ocorre porque, independentemente do segmento de
+atuação, em toda entidade, há um constante fluxo de recursos financeiros. Especificamente quanto a
+função gestão do caixa, o administrador financeiro deve
+
+   A. normatizar os critérios a serem seguidos para conceder prazo de pagamento aos clientes.
+   B. avaliar constantemente o fluxo de pagamentos e recebimentos que a empresa possui.
+   C. atuar de modo a otimizar o resultado do período.
+   D. adotar procedimentos que facultem planejar a necessidade, ou disponibilidade, de capital da
+      empresa ao longo de um período qualquer.
+
+A normatização faz parte da política de crédito da empresa, mas não é função de gestor de caixa.
+
+A função do gestor de caixa é exatamente fazer o fluxo de pagamentos e recebimentos, item B.
+
+O resultado do período é fruto de políticas de vendas e de redução de custos.
+
+Buscar disponibilidade de recursos de longo prazo, por exemplo, não é função da gestão de caixa.
+
+Opção B
+
+Questão 32)
+
+Cabe ao administrador financeiro de uma empresa obter recursos requeridos para saldar as obrigações
+quando não há saldo de caixa suficiente ou para propiciar capital adicional para expandir os negócios. Esta
+atuação relaciona-se à função de:
+
+   A. administração da cobrança.
+   B. gestão de custos e preço.
+   C. captação de recursos.
+   D. decisão de investimento.
+
+Buscar saldo de curto prazo é gestão de caixa, buscar saldo para investimentos de longo prazo é gestão de
+capital, ambas são funções do administrador financeiro.
+
+                                                                                                        86
+
+
+---
+
+Obviamente a captação de recursos é a função relacionada à busca por esses saldos (de curto ou de longo
+prazos).
+
+Opção C
+
+Questão 33)
+
+Uma empresa vende produtos sob encomenda, com prazo médio de recebimento de 60 dias após a entrega
+na fábrica do comprador. A empresa paga a seus fornecedores com prazo médio de 30 dias após receber a
+matéria prima. Em consequência, sua necessidade de capital de giro é elevada.
+
+Para reduzi-la, a empresa poderia adotar várias providências, entre as quais NÃO se inclui a diminuição do(s)
+
+   A. endividamento de longo prazo na sua estrutura de capital
+   B. prazo médio de estocagem de matérias-primas
+   C. prazo médio de processamento das matérias-primas na fabricação dos produtos
+   D. tempo médio de transporte dos produtos até o comprador
+   E. adiantamentos pagos a alguns de seus fornecedores
+
+A diminuição do endividamento de longo prazo reduz caixa. A diminuição dos prazos médios de estocagem e de
+processamento (reduz o ciclo do estoque) reduz o ciclo de caixa, pois ele poderá vender MAIS rápido. A
+diminuição do tempo de transportes reduz o tempo para receber, melhorando a situação de caixa e a diminuição
+de adiantamentos pagos a fornecedores mantém MAIS caixa.
+
+Opção A
+
+Questão 34)
+
+Preencha as lacunas abaixo e, em seguida, assinale a alternativa correta.
+
+Os ativos circulantes, comumente chamados de _____, representam a proporção do investimento total da
+empresa que circula, de uma forma para outra, na condução normal das operações. Os balanços
+patrimoniais fornecem dados para cálculo da sua necessidade. Ela constitui-se no fundamento básico da(o)
+______ de uma empresa. Pela análise de seus elementos patrimoniais são identificados os prazos
+operacionais, o volume de recursos permanentes (longo prazo) que se encontra financiando o giro e as
+necessidades de investimento operacional. A(o) ______ é a diferença entre o Ativo Circulante Operacional
+e o Passivo Circulante Operacional, sendo que este último, à medida que vai sendo realizado, é substituído
+por outro ativo de mesma natureza, para manter o nível das atividades de operações.
+
+   A. elementos fundamentais para análise das demonstrações financeiras / Índices-padrão / análise
+      através de índices
+   B. fontes de financiamento / estrutura de capital / modelo de avaliação de empresas
+
+                                                                                                          87
+
+
+---
+
+   C. fontes de numerário / planejamento financeiro / fonte de comprometimento de solvência da
+      empresa
+   D. exigências de financiamento resultantes do ciclo de conversão de caixa / técnica de análise / capital
+      de giro próprio
+   E. capital de giro / avaliação do equilíbrio financeiro / necessidade líquida de capital de giro
+
+Opção E
+
+Questão 35) 2011 / Banca: FGV / Engenheiro (IMBEL)/Controle de Qualidade/2021
+
+Relacione os modelos de administração de caixa às suas respectivas características.
+
+1. Modelo do caixa mínimo operacional.
+
+2. Modelo de Baumol.
+
+3. Model de Miller-Orr.
+
+( ) O modelo considera que o caixa é imprevisível e, assim, o fluxo líquido de caixa pode ser igual ao valor
+esperado ou algum valor superior ou inferior, previamente calculado e determinado.
+
+( ) O modelo supõe que as entradas e saídas de caixa podem ser previstas com precisão, ao mesmo tempo
+em que uma carteira de títulos negociáveis atua como um reservatório para suprir os saldos de caixa
+transacionais.
+
+( ) Nesse modelo, a falta de sincronização entre as entradas e saídas de recursos financeiros é financiada
+por uma reserva, que deve apresentar-se suficiente para processar pagamentos quando as entradas
+esperadas (recebimentos) não se realizarem.
+
+Assinale a opção que mostra a relação correta, segundo a ordem apresentada.
+
+   A. 1 – 2 – 3.
+   B. 2 – 1 – 3.
+   C. 2 – 3 – 1.
+   D. 3 – 1 – 2.
+   E. 3 – 2 – 1.
+
+Questão escolhida para ampliar o repertório de definições sobre gestão de caixa.
+
+1. Método do caixa mínimo operacional (CMO)
+
+Uma das formas de estabelecer o montante de recursos que uma empresa deverá manter em caixa é através do
+Caixa Mínimo Operacional.
+
+                                                                                                         88
+
+
+---
+
+O cálculo do CMO consiste em dividir os desembolsos totais previstos para um ano, pelo giro de caixa, gerando
+um valor que será o caixa mínimo operacional. Quando as entradas não forem suficientes para cobrir as saídas
+e manter o nível mínimo, recursos financeiros são retirados de uma reserva para manutenção do caixa.
+
+Terceira opção, sem sincronização entre entradas e saídas, financia-se com uma reserva.
+
+2. Método de Baumol
+
+O método de Baumol utiliza o modelo de lote econômico. Seu pressuposto principal é que as entradas e saídas
+futuras do caixa são previstas com certeza. O método calcula qual a quantidade de recursos que deve ser
+alocada ao caixa, sendo que novos resgates de um título financeiro só acontecerão quando o saldo do caixa
+alcançar zero novamente.
+
+Segunda opção: Entradas e saídas podem ser previstas com precisão.
+
+3. Método de Miller-Orr
+
+O método de Miller-Orr considera as variações aleatórias que ocorrem no fluxo de caixa e por isso, calcula o
+intervalo com o saldo máximo e mínimo que deve-se manter o nível do caixa. Dentro desses limites, o tomador
+de decisão deve deixar o caixa oscilar aleatoriamente.
+
+O modelo também sugere um nível ótimo do caixa, que é o nível a ser perseguido quando o nível do caixa está
+fora dos limites calculados. Se o nível do caixa ultrapassar o nível máximo, deve-se aplicar a diferença entre o
+nível do caixa e o nível ótimo em títulos negociáveis. Se o nível do caixa ultrapassar o nível mínimo, deve-se
+resgatar a diferença entre o nível do caixa e o nível ótimo.
+
+Primeira opção: Movimentos aleatórios.
+
+Opção E
+
+Questão 36) 2015 / Banca: FGV / Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Uma empresa possui necessidade de capital de giro negativa quando:
+
+   A. o saldo em valores monetários de fornecedores é menor que o de clientes;
+   B. os empréstimos e financiamento de capital de giro são inferiores ao saldo de caixa e equivalente
+      caixa;
+   C. o fluxo de caixa operacional é inferior ao financeiro;
+   D. o tempo somado de estocagem e de recebimento de clientes é inferior ao de pagamento de
+      fornecedores;
+   E. as aplicações de recursos são superiores às origens de recursos.
+
+                            𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+O item a está errado, pois faz inferência a apenas 2 itens da NCG; o item b está errado pois trata de itens não
+operacionais; o item c está errado pelo mesmo motivo; o item e está errado, pois origens e aplicações deveriam
+ser iguais.
+
+                                                                                                             89
+
+
+---
+
+Uma outra forma de ver a necessidade de capital de giro é:
+
+Perceba que quando recebo ANTES de pagar ao fornecedor, a necessidade de capital de giro fica NEGATIVA.
+Item d.
+
+Opção D
+
+Questão 37) 2015 / Banca: FGV / Analista da Defensoria Pública (DPE RO)/Analista Contábil/2015
+
+Observe o balanço patrimonial a seguir e responda a questão.
+
+                         ATIVO                 PASSIVO
+                         Circulante        200 Circulante                180
+                         Disponível        10 Fornecedores               110
+                         Clientes          90 Salários a pagar           20
+                         Estoques          100 Empréstimos               50
+                         Não Circulante    500 Não Circulante            200
+                         Direitos de longo
+                                           150 Financiamentos            200
+                         prazo
+                                               PATRIMÔNIO
+                         Investimentos     50
+                                               LÍQUIDO
+                         Imobilizado       200 Capital Social            300
+                         Intangíveis       100 Reservas                  20
+
+                                                                                                    90
+
+
+---
+
+                         TOTAIS                    700 TOTAIS               700
+
+O grau do passivo oneroso sobre o ativo e o valor da necessidade de capital de giro são, respectivamente,
+
+   A. 7% e ($40).
+   B. 25% e ($120).
+   C. 28% e $80.
+   D. 36% e $60.
+   E. 54% e $40.
+
+Passivo oneroso é o que gera despesas com juros.
+
+Temos, no caso, empréstimos (200) e financiamento (50) no numerador e o ativo (700) no denominador.
+
+                                                                      250
+                          𝐺𝑟𝑎𝑢 𝑑𝑒 𝑃𝑎𝑠𝑠𝑖𝑣𝑜 𝑂𝑛𝑒𝑟𝑜𝑠𝑜 𝑠𝑜𝑏𝑟𝑒 𝐴𝑡𝑖𝑣𝑜 =           = 36%
+                                                                      700
+
+                           𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+NCG = Ativo circulante operacional - Passivo circulante operacional
+
+AC = Clientes + Estoque = 190
+
+PC = Fornecedores e Salários = 130
+
+                                     𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 190 − 130 = 60
+
+Opção D
+
+Questão 38) 2010 / Banca: FGV / Técnico de Fomento C (BADESC)/Economista
+
+A empresa Bernoulli projeta a seguinte evolução patrimonial.
+
+                                             1º mês 2º mês 3º mês 4º mês 5º mês
+                   Ativo Circulante          154    210    255    300    455
+                   Realizável de Longo Prazo 874    988    988    988    654
+                   Imobilizado               214    214    314    314    355
+                   Passivo Circulante        154    215    333    452    544
+                   Exigível de Longo Prazo   988    1200 1354     1455   1455
+
+O diretor financeiro quer projetar a necessidade de capital de giro e confia nos dados acima. A máxima
+necessidade de capital de giro dessa empresa no período projetado é:
+
+   A. 0
+   B. 152
+
+                                                                                                        91
+
+
+---
+
+   C. 214
+   D. 535
+   E. 890
+
+                           𝑁𝐶𝐺 𝑜𝑢 𝑁𝐼𝐺 = 𝐴𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙 − 𝑃𝐶 𝑜𝑝𝑒𝑟𝑎𝑐𝑖𝑜𝑛𝑎𝑙
+
+Como não temos como diferenciar circulante operacional do total, usamos ativo e passivo circulante.
+
+A questão é simples, basta fazer a conta ACO – PCO para cada ano. O maior valor é ano 4, (300 – 452).
+
+Essa questão, porém, traz algo um pouco controverso. Quando a NCG é negativa, significa que precisamos de
+cobertura externa para bancar o capital de giro operacional (ativos menores do que passivos).
+
+Alguns alunos poderiam entender que a máxima da medida NCG é ZERO (primeiro ano e opção a), porém o
+entendimento da fórmula é que a maior necessidade é quando esse número está mais negativo.
+
+Opção B
+
+Questão 39) 2015 / Banca: FGV / Analista Estratégico de Projetos de Investimentos
+
+Um modelo que pode ser usado a fim de se projetar em fluxos de caixa livres para a empresa de um projeto
+é aquele no qual tais fluxos são subdivididos em três componentes, proporcionando a seguinte igualdade
+matemática: fluxo de caixa livre para a empresa = fluxo de caixa operacional (-) variação do capital de giro
+operacional líquido (-) gastos líquidos de capital. Sendo assim, os fluxos de caixa negativos que mais
+impactam negativamente o fluxo de caixa livre para a empresa são:
+
+   A. pagamentos de principal e investimentos de curto prazo;
+   B. amortização contábil e CAPEX;
+   C. depreciação do ativo imobilizado, investimentos de curto prazo;
+   D. depreciação do ativo imobilizado, CAPEX;
+   E. pagamentos do ciclo operacional, CAPEX.
+
+Como a questão fala dos que mais impactam, sabemos que os pagamentos do ciclo operacional são,
+normalmente, os maiores, que representam as compras que fazemos de mercadorias etc., e o CAPEX costuma
+ser grande também, pois representa os investimentos de capital, que costuma ser maiores do que os de curto
+prazo.
+
+Opção E
+
+                                                                                                         92
+
+
+---

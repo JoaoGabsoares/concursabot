@@ -1,0 +1,473 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+TRANSPORTES & DISTRIBUIÇÃO
+BANCAS DIVERSAS - IV
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Questão Comentada
+     01. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. As condições da infraestrutura da malha de transportes são
+       irrelevantes na escolha da modalidade de transporte, pois os custos são determinantes.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. As condições da infraestrutura da malha de transportes são
+       irrelevantes na escolha da modalidade de transporte, pois os custos são determinantes.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. É recomendável a adoção de transportes intermodais,
+       sempre que os custos forem menos onerosos para a empresa e não houver redução
+       significativa do prazo de validade de produtos perecíveis.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. É recomendável a adoção de transportes intermodais,
+       sempre que os custos forem menos onerosos para a empresa e não houver redução
+       significativa do prazo de validade de produtos perecíveis.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+     O uso conjugado de diferentes modais é indicado sempre que possa haver redução
+     de custos ou outro tipo de melhoria logística significativa ao longo do processo que
+     venha a compensar sua adoção.
+
+     A não redução de prazos de validade de produtos perecíveis é obviamente
+     importante pois de nada adiantaria optar por uma alternativa multimodal mais
+     barato caso os produtos tivessem seus prazos de validade desrespeitados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. Na definição da estrutura de distribuição interna de
+       materiais, a formação de cargas coletivas com diferenciados produtos favorece a
+       organização do sistema de armazenagem.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Unitização da Carga
+
+        Carga constituída de embalagens de transporte, arranjadas ou acondicionadas de
+        modo que possibilite o seu manuseio, transporte e armazenagem por meios
+        mecânicos, como uma unidade.
+        A unitização da carga permite a maximização da utilização dos equipamentos de
+        transporte, paleteiras e empilhadeiras.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. Na definição da estrutura de distribuição interna de
+       materiais, a formação de cargas coletivas com diferenciados produtos favorece a
+       organização do sistema de armazenagem.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. Melhoria na circulação das mercadorias dentro do ambiente
+       e maior disponibilidade dos produtos em cada região são condições almejadas na
+       definição das estruturas para a distribuição de materiais.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CEBRASPE/EBSERH/Analista Administrativo/2018) Julgue o item seguinte, relacionado
+       à distribuição de materiais. Melhoria na circulação das mercadorias dentro do ambiente
+       e maior disponibilidade dos produtos em cada região são condições almejadas na
+       definição das estruturas para a distribuição de materiais.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+     Essa questão tem relação direta com a afirmação de Marco Aurélio Dias de que a distribuição é
+     melhorada com a racionalização dos sistemas de manuseio no que diz respeito a:
+     •    Melhoria na circulação: com a criação de corredores bem definidos, endereçamento fácil,
+          equipamentos eficientes;
+     •    Localização estratégica de almoxarifado: com a aplicação de sistemas de manuseio torna-se
+          viável a criação de pontos de armazenagem próximos aos consumidores;
+     •    Melhoria dos serviços ao usuário: o consumidor pode adquirir as mercadorias com custo
+          menor, em melhor estado, de maneira mais célere estando as mercadorias próximas aos
+          centros de consumidores;
+     •    Maior disponibilidade: da mesma forma, haverá mais disponibilidade dos produtos na região.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/IFF/Professor de Ensino Básico, Técnico e Tecnológico/2018) Apesar de o
+       Brasil ainda apresentar rodovias em estado de conservação ruim — o que aumenta os
+       custos com manutenção dos veículos — e uma frota antiga sujeita a roubo de cargas, o
+       transporte rodoviário, quando comparado às modalidades de transporte marítimo,
+       aéreo e ferroviário, apresenta como vantagem:
+     a) ser mais rápido, sem necessidade de uso de embalagens mais reforçadas.
+     b) ser mais adequado para longas distâncias e transportar grandes quantidades de carga.
+     c) carregar qualquer tipo carga com menores custos.
+     d) ser mais competitivo para longas distâncias.
+     e) apresentar mais simplicidade de funcionamento e agilidade no acesso às cargas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Rodoviário
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     05. (CEBRASPE/IFF/Professor de Ensino Básico, Técnico e Tecnológico/2018) Apesar de o
+       Brasil ainda apresentar rodovias em estado de conservação ruim — o que aumenta os
+       custos com manutenção dos veículos — e uma frota antiga sujeita a roubo de cargas, o
+       transporte rodoviário, quando comparado às modalidades de transporte marítimo,
+       aéreo e ferroviário, apresenta como vantagem:
+     a) ser mais rápido, sem necessidade de uso de embalagens mais reforçadas.
+     b) ser mais adequado para longas distâncias e transportar grandes quantidades de carga.
+     c) carregar qualquer tipo carga com menores custos.
+     d) ser mais competitivo para longas distâncias.
+     e) apresentar mais simplicidade de funcionamento e agilidade no acesso às cargas.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CESGRANRIO/LIQUIGÁS/Profissional/2018) Uma empresa de refrigeradores de ar
+       precisa decidir o número de intermediários que irá utilizar em seu canal de distribuição.
+       Para tomar essa decisão, os gestores resolveram manter grande controle sobre o nível e
+       a produção dos serviços oferecidos pelas empresas varejistas, assim como maior
+       dedicação, capacitação e habilidade nas vendas. Nesse contexto, verifica-se que a
+       decisão envolverá uma distribuição:
+     a) direta.
+     b) exclusiva.
+     c) intensiva.
+     d) seletiva.
+     e) territorial.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CESGRANRIO/LIQUIGÁS/Profissional/2018) Uma empresa de refrigeradores de ar
+       precisa decidir o número de intermediários que irá utilizar em seu canal de distribuição.
+       Para tomar essa decisão, os gestores resolveram manter grande controle sobre o nível e
+       a produção dos serviços oferecidos pelas empresas varejistas, assim como maior
+       dedicação, capacitação e habilidade nas vendas. Nesse contexto, verifica-se que a
+       decisão envolverá uma distribuição:
+     a) direta.
+     b) exclusiva.
+                                                 No sistema de distribuição exclusiva o próprio fabricante escolhe seus
+     c) intensiva.                               revendedores, autorizando-os a distribuir de forma exclusiva os produtos
+     d) seletiva.                                e controlando grande parte das atividades desses revendedores.
+     e) territorial.                             Neste caso, o fabricante deve vender por meio de um ou de poucos
+     GABARITO - B                                intermediários.
+                                                 Nesse sistema, quando se fala em varejo, os intermediários podem ser
+                                                 representantes comerciais, que levam o produto aos pontos de venda,
+                                                 ou redes de lojas que tenham a exclusividade na distribuição do
+                                                 produto.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/ALERO/Assistente Legislativo/2018) Uma fabricante de cimento planeja instalar um armazém para distribuição
+     de seu produto em uma determinada região, de forma a reduzir seus custos de transporte. Para tomar essa decisão de
+     investimento foram levantados os seguintes dados:
+     • Tamanho do carregamento médio para cliente: 250kg;
+     • Frete fábrica-cliente para carga de 250kg: R$42,00;
+     • Frete fábrica-armazém para carga consolidada de 10 toneladas: R$808,00;
+     • Tarifa de entrega armazém-cliente para carga de 50kg: R$0,76;
+     • Custo de operação do armazém por tonelada: R$56,00.
+     Com base nos dados apresentados e desconsiderando o investimento de instalação do armazém, assinale a opção que
+     indica o efeito no custo total de transporte dessa empresa, caso se decida por instalar o armazém.
+     a) Aumento de aproximadamente 25% no custo de transporte do carregamento médio para cliente.
+     b) Aumento de aproximadamente 10% no custo de transporte do carregamento médio para cliente.
+     c) Indiferente, uma vez que ambos os custos são equivalentes.
+     d) Redução de aproximadamente 10% no custo de transporte do carregamento médio para cliente.
+     e) Redução de aproximadamente 25% no custo de transporte do carregamento médio para cliente.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     07. (FGV/ALERO/Assistente Legislativo/2018) Uma fabricante de cimento planeja instalar um armazém para distribuição
+     de seu produto em uma determinada região, de forma a reduzir seus custos de transporte. Para tomar essa decisão de
+     investimento foram levantados os seguintes dados:
+     • Tamanho do carregamento médio para cliente: 250kg;
+     • Frete fábrica-cliente para carga de 250kg: R$42,00;
+     • Frete fábrica-armazém para carga consolidada de 10 toneladas: R$808,00;
+     • Tarifa de entrega armazém-cliente para carga de 50kg: R$0,76;
+     • Custo de operação do armazém por tonelada: R$56,00.
+     Com base nos dados apresentados e desconsiderando o investimento de instalação do armazém, assinale a opção que
+     indica o efeito no custo total de transporte dessa empresa, caso se decida por instalar o armazém.
+     a) Aumento de aproximadamente 25% no custo de transporte do carregamento médio para cliente.
+     b) Aumento de aproximadamente 10% no custo de transporte do carregamento médio para cliente.
+     c) Indiferente, uma vez que ambos os custos são equivalentes.
+     d) Redução de aproximadamente 10% no custo de transporte do carregamento médio para cliente.
+     e) Redução de aproximadamente 25% no custo de transporte do carregamento médio para cliente.
+     GABARITO - D
+                                            Caso decida por transportar o produto diretamente da fábrica até o cliente, o frete para 250kg seria de $42,00.
+                                            Em comparação, o frete da fábrica até o armazém para carga de 10 toneladas seria de $808,00. Fazendo a
+                                            conversão teríamos o frete de $20,2 para 250kg.
+                                            Além disso deveríamos acrescentar a tarifa de entrega, de $0,76 a cada 50kg, ou $3,80 para 250kg.
+                                            Por fim, necessário adicionar o custo de operação do armazém, de $56,00 por tonelada, ou $14,00 para 250kg.
+                                            Dessa forma, com a implantação do armazém, o custo para o envio ao cliente dos mesmos 250kg cai dos atuais
+                                            $42,00 para $38,00 ($20,20+$3,80+$14,00), resultando em $4,00 de redução ou 9,5%.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         
+
+
+---
+
+       Questão Comentada
+     08. (FGV/ALERO/Assistente Legislativo/2018) A tecnologia da informação aplicada às operações de
+        transporte é fundamental na gerência e supervisão dessas atividades. Uma parte integrante desse
+        esforço de aliar dados e gerência no setor de transportes são os sistemas de gerenciamento de
+        transportes (TMS). Dentre os diversos módulos que constituem este tipo de ferramenta, o de
+        roteirização é o mais frequente. Assinale a opção que apresenta a finalidade da roteirização.
+     a) Prover o caminho geográfico que o veículo de carga percorrerá do embarque até a entrega.
+     b) Traçar o melhor caminho para o operador de armazém chegar à localização da carga no estoque,
+     aumentando a eficiência do embarque de cargas.
+     c) Gerenciar geograficamente o processamento de pedidos de clientes.
+     d) Permitir a localização de fornecedores dentro da área de atuação da planta de manufatura para
+     reabastecimento.
+     e) Permitir que o cliente acesse a localização de sua encomenda em tempo real.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Roteirização e TMS
+     ❑ A ferramenta de roteirização é responsável por fornecer à organização dados para a escolha do
+       melhor trajeto (origem/destino) para entrega do produto. É claramente uma forma de buscar a
+       redução de custo ao longo da cadeia logística.
+
+     ❑ Existem vários modelos de softwares de roteadores disponíveis no mercado para executar esse
+       trabalho de otimização. São instrumentos muito úteis no estudo de localização de depósitos, no
+       controle de custos operacionais e no planejamento de ampliação ou renovação da frota.
+
+     ❑ Seu maior objetivo, porém, é a definição de itinerários capazes de reduzir ao mínimo o tempo total
+       do percurso da frota e o número de veículos envolvidos na operação.
+
+     ❑ Um sistema costumeiramente cobrado em provas e que você precisa conhecer é o TMS
+       (Transportation Management System ou Sistema de Gerenciamento de Transporte).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (FGV/ALERO/Assistente Legislativo/2018) A tecnologia da informação aplicada às operações de
+        transporte é fundamental na gerência e supervisão dessas atividades. Uma parte integrante desse
+        esforço de aliar dados e gerência no setor de transportes são os sistemas de gerenciamento de
+        transportes (TMS). Dentre os diversos módulos que constituem este tipo de ferramenta, o de
+        roteirização é o mais frequente. Assinale a opção que apresenta a finalidade da roteirização.
+     a) Prover o caminho geográfico que o veículo de carga percorrerá do embarque até a entrega.
+     b) Traçar o melhor caminho para o operador de armazém chegar à localização da carga no estoque,
+     aumentando a eficiência do embarque de cargas.
+     c) Gerenciar geograficamente o processamento de pedidos de clientes.
+     d) Permitir a localização de fornecedores dentro da área de atuação da planta de manufatura para
+     reabastecimento.
+     e) Permitir que o cliente acesse a localização de sua encomenda em tempo real.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FGV/ALERO/Assistente Legislativo/2018) A gestão de transportes nas empresas usa
+       sistemas computacionais complexos que realizam diversas funções, como a auditoria no
+       pagamento de fretes e o planejamento de transporte, dentre outras. De acordo com o
+       Sistema de Gerenciamento de Transporte, assinale a opção que indica um parâmetro na
+       gestão de frotas.
+     a) O uso de combustíveis e lubrificantes.
+     b) O cadastro de transportadoras e rotas.
+     c) As distâncias percorridas pelo modal.
+     d) O custo de frete por modal.
+     e) As tabelas de fretes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FGV/ALERO/Assistente Legislativo/2018) A gestão de transportes nas empresas usa
+       sistemas computacionais complexos que realizam diversas funções, como a auditoria no
+       pagamento de fretes e o planejamento de transporte, dentre outras. De acordo com o
+       Sistema de Gerenciamento de Transporte, assinale a opção que indica um parâmetro na
+       gestão de frotas.
+     a) O uso de combustíveis e lubrificantes.
+     b) O cadastro de transportadoras e rotas.
+     c) As distâncias percorridas pelo modal.
+     d) O custo de frete por modal.
+     e) As tabelas de fretes.
+     GABARITO - A
+
+      O controle do uso de combustíveis e lubrificantes é uma das
+      atividades e parâmetro utilizado pelo gestor de frotas, assim
+      como checagens elétricas e mecânicas, checagem de pneus, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,492 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 09_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 344.
+- "art.\n           315"
+- art. 340
+- art. 341
+- art. 342
+- art. 343
+- art. 368
+- art. 371
+---
+
+# IRPJ
+
+IRPJ
+LUCRO REAL
+  PARTE 4
+
+                                     Prof. Fábio Dutra
+
+---
+
+IRPJ – Lucro Real
+    ❑ Provisões:
+
+    ❑ REGRA: Provisões são indedutíveis;
+
+    ❑ EXCEÇÕES: Apenas as provisões expressamente autorizadas no RIR/2018.
+
+Legislação Tributária
+                                                                       @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Provisões Dedutíveis:
+
+    •      Provisões técnicas compulsórias → Provisões técnicas das companhias de
+           seguro e de capitalização, das entidades de previdência privada e das
+           operadoras de planos de assistência à saúde, cuja constituição é exigida
+           pela legislação especial a elas aplicável; (RIR, art. 340)
+
+Legislação Tributária
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Provisões Dedutíveis:
+
+
+    •      Provisão para perda de estoques de livros → Provisões para perda de
+           estoques, calculada no último dia de cada período de apuração,
+           correspondente a um terço do valor do estoque existente naquela data,
+           aplicável às pessoas jurídicas que exerçam as atividades de editor,
+           distribuidor ou livreiro; (RIR, art. 341)
+
+    •      Remuneração de férias → Provisões para pagamento de férias; (RIR, art. 342)
+
+    •      Décimo terceiro salário → Provisões para pagamento de 13°; (RIR, art. 343)
+
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+QUESTÃO INÉDITA
+       São dedutíveis as provisões para pagamento de férias e décimo
+       terceiro.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+QUESTÃO INÉDITA
+       A legislação do IRPJ admite, como regra, a dedução de despesas com
+       provisões, para fins de apuração do lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Provisões:
+
+
+    •      Art. 344. É obrigatória, em cada período de apuração, a constituição de provisão
+           para imposto sobre a renda, relativa ao imposto devido sobre o lucro real e sobre os
+           lucros cuja tributação tenha sido diferida, referentes ao mesmo período de apuração.
+
+    •      Parágrafo único. A provisão a que se refere este artigo não é dedutível para fins de
+           apuração do lucro real. (RIR, art. 344)
+
+Legislação Tributária
+                                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                                      
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Qual é o ajuste a ser realizado em relação às provisões indedutíveis?
+
+    ❑ Exemplo: Provisão para Devedores Duvidosos
+
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                
+
+
+---
+
+QUESTÃO INÉDITA
+       As provisões para devedores duvidosos são dedutíveis, na apuração do lucro
+       real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Perdas no Recebimento de Créditos:
+
+    ❑ Provisões: indedutíveis;
+
+    ❑ Perdas Efetivas: dedutíveis, atendidas as condições.
+
+Legislação Tributária
+                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Perdas no Recebimento de Créditos:
+
+    I - em relação aos quais tenha havido a declaração de insolvência do devedor,
+    em sentença emanada do Poder Judiciário;
+    II - sem garantia, de valor:
+    a) até R$ 15.000,00, por operação, vencidos há mais de seis meses,
+    independentemente de iniciados os procedimentos judiciais para o seu
+    recebimento;
+    b) acima de R$ 15.000,00 até R$ 100.000,00, por operação, vencidos há mais de
+    um ano, independentemente de iniciados os procedimentos judiciais para o seu
+    recebimento, mantida a cobrança administrativa; e
+    c) superior a R$ 100.000,00, vencidos há mais de um ano, desde que iniciados e
+    mantidos os procedimentos judiciais para o seu recebimento;
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Perdas no Recebimento de Créditos:
+
+    III - com garantia, vencidos há mais de dois anos, de valor:
+    a) até R$ 50.000,00, independentemente de iniciados os procedimentos
+    judiciais para o seu recebimento ou o arresto das garantias; e
+    b) superior a R$ 50.000,00, desde que iniciados e mantidos os procedimentos
+    judiciais para o seu recebimento ou o arresto das garantias; e
+
+Legislação Tributária
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+QUESTÃO INÉDITA
+       São dedutíveis para fins de apuração do lucro real as perdas no
+       recebimento de créditos em relação aos quais tenha havido a
+       declaração de insolvência do devedor, em sentença emanada do
+       Poder Judiciário.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Perdas no Recebimento de Créditos:
+
+    IV - contra devedor declarado falido ou pessoa jurídica em concordata ou
+    recuperação judicial, relativamente à parcela que exceder o valor que esta
+    tenha se comprometido a pagar, observado o disposto no § 5o.
+
+
+               Observação: O § 5°, citado acima, prevê que a parcela do crédito
+               cujo compromisso de pagar não houver sido honrado pela pessoa
+               jurídica em concordata ou recuperação judicial poderá, também, ser
+               deduzida como perda
+
+Legislação Tributária
+                                                                                @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Tributos e Multas por Infrações Fiscais:
+
+    ❑ Os impostos e as contribuições são dedutíveis, para fins de determinação do
+      lucro real, segundo o regime de competência.
+
+    ❑ Não são dedutíveis os impostos e as contribuições cuja exigibilidade esteja
+      suspensa nos termos estabelecidos no inciso II ao inciso V do CTN,
+      independentemente de haver ou não depósito judicial.
+
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Tributos e Multas por Infrações Fiscais:
+
+    ❑ Na determinação do lucro real, a pessoa jurídica não poderá deduzir como
+      custo ou despesa o imposto sobre a renda de que for sujeito passivo como
+      contribuinte ou como responsável em substituição ao contribuinte.
+
+    ❑ O valor da CSLL não poderá ser deduzido para fins de determinação do lucro
+      real
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+QUESTÃO INÉDITA
+       O valor da CSLL poderá ser deduzido para fins de determinação do
+       lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Tributos e Multas por Infrações Fiscais:
+
+    ❑ Não são dedutíveis como custo ou despesas operacionais as multas por
+      infrações fiscais, exceto as de natureza compensatória e as impostas por
+      infrações de que não resultem falta ou insuficiência de pagamento de
+      tributo.
+
+Legislação Tributária
+                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+QUESTÃO INÉDITA
+       Não são dedutíveis, para fins de apuração do lucro real, como custo ou
+       despesas operacionais as multas por infrações fiscais, salvo as de natureza
+       compensatória e as impostas por infrações de que não resultem em falta ou
+       insuficiência de pagamento de tributo.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Aluguéis:
+
+    ❑ A dedução de despesas com aluguéis será admitida:
+
+    ❑ I - quando necessárias para que o contribuinte mantenha a posse, uso ou
+      fruição do bem ou direito que produz o rendimento; e
+
+    ❑ II - se o aluguel não constituir aplicação de capital na aquisição do bem ou
+      direito, nem distribuição disfarçada de lucros.
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Aluguéis:
+
+    ❑ Não são dedutíveis:
+
+    ❑ I - os aluguéis pagos a sócios ou dirigentes de empresas, e a seus parentes
+      ou dependentes, em relação à parcela que exceder ao preço ou valor de
+      mercado;
+
+    ❑ II - as importâncias pagas a terceiros para adquirir os direitos de uso de um
+      bem ou direito e os pagamentos para extensão ou modificação de contrato,
+      que constituirão aplicação de capital amortizável durante o prazo do
+      contrato.
+
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Remuneração de Administradores:
+
+    ❑ Serão dedutíveis, para fins de determinação do lucro real, as remunerações de
+      sócios, diretores ou administradores, titulares de empresa individual e conselheiros
+      fiscais e consultivos. (RIR, art. 368)
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Remuneração de Administradores:
+
+    ❑ Não são dedutíveis:
+
+    I - as retiradas não debitadas em custos ou despesas operacionais, ou contas
+    subsidiárias, e as que, mesmo escrituradas nessas contas, não correspondam à
+    remuneração mensal fixa por prestação de serviços;
+
+    II - as percentagens e ordenados pagos a membros das diretorias das
+    sociedades por ações, que não residam no País.
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Remuneração Indireta a Administradores e Terceiros:
+
+    ❑ Não são dedutíveis:
+
+    I - a contraprestação de arrendamento mercantil ou o aluguel ou, quando for o
+    caso, os respectivos encargos de depreciação:
+    a) de veículo utilizado no transporte de administradores, diretores, gerentes e
+    seus assessores ou de terceiros em relação à pessoa jurídica;
+    b) de imóvel cedido para uso de qualquer pessoa dentre as referidas na alínea
+    precedente;
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Remuneração Indireta a Administradores e Terceiros:
+
+    ❑ Não são dedutíveis:
+    II - as despesas com benefícios e vantagens concedidos pela empresa a
+    administradores, diretores, gerentes e seus assessores, pagas diretamente ou
+    através da contratação de terceiros, tais como:
+    a) a aquisição de alimentos ou quaisquer outros bens para utilização pelo
+    beneficiário fora do estabelecimento da empresa;
+    b) os pagamentos relativos a clubes e assemelhados;
+    c) o salário e respectivos encargos sociais de empregados postos à disposição
+    ou cedidos, pela empresa, a administradores, diretores, gerentes e seus
+    assessores ou de terceiros;
+    d) a conservação, o custeio e a manutenção dos bens referidos no inciso I.
+Legislação Tributária
+                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Gratificações ou Participações sobre o Lucro:
+
+    •      Não são dedutíveis as gratificações ou participações no resultado,
+           destinadas aos dirigentes ou administradores da pessoa jurídica (RIR, art.
+           315);
+
+
+    •      São dedutíveis as gratificações ou participações destinadas aos empregados
+           (RIR, art. 371).
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Participações Estatutárias:
+
+    •      Participações de Debêntures                  → Dedutível
+
+    •      Participações de Empregados                   → Dedutível
+
+    •      Participações de Administradores;             → Indedutível
+
+    •      Participações de Partes Beneficiárias;→ Indedutível
+
+Legislação Tributária
+                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Memorize:
+
+    Gratificações ou Participações no Lucro: Dedutíveis para empregados e
+    indedutíveis para administradores.
+
+    Participações Estatutárias: Dedutíveis para empregados e indedutíveis para
+    administradores.
+
+Legislação Tributária
+                                                                        @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---

@@ -1,0 +1,553 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+LOGÍSTICA E GESTÃO DE
+CONTRATOS
+BANCAS DIVERSAS - IV
+                                             Prof. Ricardo Campanario
+
+        
+
+
+---
+
+       Questão Comentada
+     01. (FGV/ALERO/Assistente Legislativo/2018) Um gerente de logística de uma empresa de
+     comercialização de eletrônicos deseja aumentar a eficiência de sua cadeia de suprimentos e, para
+     tanto, solicita a realização de um estudo para determinar a taxa de giro do estoque (TGE) nos últimos
+     anos de operação. O resultado desse estudo indicou que a TGE atual é de 12 vezes por ano e que,
+     de acordo com a composição de custos de estoque da empresa, uma TGE de 24 vezes por ano
+     minimizaria o custo total do lote de compra. Considerando que o número de unidades vendidas no
+     ano permaneça constante, o gerente deveria:
+     a) aumentar em duas vezes o estoque médio anual da empresa.
+     b) reduzir à metade o estoque médio anual da empresa.
+     c) aumentar em quatro vezes o estoque médio anual da empresa.
+     d) reduzir a um quarto o estoque médio anual da empresa.
+     e) aumentar em oito vezes o estoque médio anual da empresa.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (FGV/ALERO/Assistente Legislativo/2018) Um gerente de logística de uma empresa de
+     comercialização de eletrônicos deseja aumentar a eficiência de sua cadeia de suprimentos e, para
+     tanto, solicita a realização de um estudo para determinar a taxa de giro do estoque (TGE) nos últimos
+     anos de operação. O resultado desse estudo indicou que a TGE atual é de 12 vezes por ano e que,
+     de acordo com a composição de custos de estoque da empresa, uma TGE de 24 vezes por ano
+     minimizaria o custo total do lote de compra. Considerando que o número de unidades vendidas no
+     ano permaneça constante, o gerente deveria:
+     a) aumentar em duas vezes o estoque médio anual da empresa.
+     b) reduzir à metade o estoque médio anual da empresa.
+     c) aumentar em quatro vezes o estoque médio anual da empresa.
+     d) reduzir a um quarto o estoque médio anual da empresa.
+     e) aumentar em oito vezes o estoque médio anual da empresa.
+     GABARITO - B
+                                            O giro de estoque, em linhas gerais, é calculado dividindo-se o volume movimentado
+                                            pelo estoque médio do período.
+
+                                            Giro de Estoque = Consumido no Período (saídas) / Estoque médio no período
+                                            Dessa forma, se a intenção é duplicar o giro, só há duas alternativas: reduzir o estoque
+                                            médio pela metade ou duplicar o volume consumido (saídas). Como o enunciado diz
+                                            que o volume vendido permanece estável, o único caminho possível é reduzir o estoque
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                    médio do período pela metade.
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CESGRANRIO/PETROBRAS/Técnico/2018) A logística é uma das áreas dentro de
+     uma organização. A acuracidade das informações oriundas da utilização de Sistemas de
+     Gestão Integrados gera um impacto em indicador logístico. Um desses impactos é:
+     a) reduzir índice de avarias.
+     b) aumentar o lead time do pedido.
+     c) acrescer o nível médio do estoque.
+     d) majorar a acuracidade de inventário.
+     e) melhorar a gestão visual da frota.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CESGRANRIO/PETROBRAS/Técnico/2018) A logística é uma das áreas dentro de
+     uma organização. A acuracidade das informações oriundas da utilização de Sistemas de
+     Gestão Integrados gera um impacto em indicador logístico. Um desses impactos é:
+     a) reduzir índice de avarias.
+     b) aumentar o lead time do pedido.
+     c) acrescer o nível médio do estoque.
+     d) majorar a acuracidade de inventário.
+     e) melhorar a gestão visual da frota.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (CESGRANRIO/PETROBRAS/Técnico/2018) A vida de um produto, do ponto de vista
+     logístico, não termina quando da realização da entrega ao cliente. Os produtos tornam-
+     se obsoletos, danificam-se ou estragam e são levados aos seus pontos de origem para
+     troca, conserto ou descarte. Esse processo denomina-se:
+     a) Logística reversa
+     b) Cross Docking
+     c) Processamento de pedidos
+     d) Customer Relationship Management
+     e) Just in Time
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Cadeias de Suprimento
+       Cadeia ou Logística Reversa
+
+     ❑ A cadeia reversa, também chamada de logística reversa, justamente inverte o sentido que estávamos
+       observando até agora. Diz respeito ao fluxo contrário, ou seja, dos clientes até o produtor. Esse
+       termo em geral é usado para descrever o processo de "trazer de volta" os produtos após o final de
+       suas "vidas úteis", ou mesmo nos casos de recall, reparos ou reutilização. Também chamada de "a
+       montante" (também raro, mas fique atento).
+
+     ❑ A logística reversa define o envio do produto desde o seu local de consumo até o ponto adequado
+       da cadeia de suprimento para que seja dado o tratamento adequado aos resíduos (descarte correto
+       ou reciclagem, evitando danos ambientais como vimos em logística sustentável) ou para que algum
+       valor seja gerado novamente ao produto, como nos casos de remanufatura (vasilhames que são
+       lavados e reutilizados, por exemplo).
+
+     ❑ Dessa forma a logística reversa está diretamente ligada à reciclagem ou ao reaproveitamento de
+       materiais. Outras movimentações ao longo da cadeia que também dependem da logística reversa
+       são as devoluções (por danos, estoques sazonais e/ou em consignação, recalls, excesso de estoque,
+       etc.).
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Cross Docking
+   O cross docking é um método de distribuição, no qual
+   a mercadoria recebida num armazém ou centro de
+   distribuição, não é estocada, mas sim preparada para
+   o carregamento e distribuição ou expedição a fim de
+   ser entregue ao cliente ou consumidor
+   imediatamente, ou, pelo menos, o mais rapidamente
+   possível.
+   No cross docking, quando alguém compra
+   determinado produto em um site, ele é enviado a um
+   centro de distribuição ou armazém que, por meio de
+   um sistema organizado de redistribuição, o envia para
+   o cliente.
+   Em suma, o cross-docking é a transferência das
+   mercadorias entregues, do ponto de recebimento,
+   diretamente para o ponto de entrega, com tempo de
+   estocagem limitado ou, se possível, nulo.
+   Trabalha com múltiplos fornecedores, que atendem
+   clientes comuns, sendo essa a maior diferença entre o
+   cross docking e o transit point, que geralmente é um
+   “CD sem estoque”, servindo a uma única
+   organização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                           
+
+
+---
+
+       Questão Comentada
+     03. (CESGRANRIO/PETROBRAS/Técnico/2018) A vida de um produto, do ponto de vista
+     logístico, não termina quando da realização da entrega ao cliente. Os produtos tornam-
+     se obsoletos, danificam-se ou estragam e são levados aos seus pontos de origem para
+     troca, conserto ou descarte. Esse processo denomina-se:
+     a) Logística reversa
+     b) Cross Docking
+     c) Processamento de pedidos
+     d) Customer Relationship Management
+     e) Just in Time
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CESGRANRIO/PETROBRAS/Técnico/2018) A avaliação das atividades logísticas
+     (primária e de apoio) é uma das principais atribuições do gestor logístico. A
+     armazenagem, sendo uma dessas atividades, tem como principal característica a:
+     a) determinação do espaço e a localização do estoque.
+     b) consolidação de fretes e o roteiro de transporte.
+     c) ação de coleta e a manipulação de informações.
+     d) avaliação do tempo total que um cliente pode levar para receber um produto.
+     e) classificação dos itens em critérios ou classes, levando em consideração seus custos e
+     quantidades.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CESGRANRIO/PETROBRAS/Técnico/2018) A avaliação das atividades logísticas
+     (primária e de apoio) é uma das principais atribuições do gestor logístico. A
+     armazenagem, sendo uma dessas atividades, tem como principal característica a:
+     a) determinação do espaço e a localização do estoque.
+     b) consolidação de fretes e o roteiro de transporte.
+     c) ação de coleta e a manipulação de informações.
+     d) avaliação do tempo total que um cliente pode levar para receber um produto.
+     e) classificação dos itens em critérios ou classes, levando em consideração seus custos e
+     quantidades.
+     GABARITO - A
+     Segundo Ronald Ballou a atividade de armazenagem (tida como "de apoio")
+     “refere-se à administração do espaço necessário para manter estoques. Envolve
+     problemas como localização, dimensionamento da área, arranjo físico, recuperação
+     do estoque, projeto de docas ou baias de atracação e configuração do armazém".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     05. (CESGRANRIO/PETROBRAS/Técnico/2018) Um dos canais de distribuição de grande
+     relevância em nosso país tem como principal função armazenar, vender e oferecer
+     assistência técnica em determinada região. Sua atuação é exclusivamente voltada para
+     outras empresas que comercializam os produtos dos fabricantes. Esse canal é
+     denominado:
+     a) agentes.
+     b) varejistas.
+     c) atacadistas.
+     d) distribuidores.
+     e) operadores logísticos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Canais de Distribuição
+         De acordo com a doutrina temos como principais estruturas físicas de canais de distribuição:
+
+         •     Varejistas: Intermediários comuns na rotina de compra dos consumidores. Vendem produtos e serviços diretamente aos clientes. Alguns
+               exemplos são os supermercados, bares, restaurantes, papelarias, lojas de roupa, etc. Os valores dos produtos nos varejistas costumam ser
+               mais caros, pois normalmente compram dos atacadistas. Em contrapartida, o público tem mais opções de meios de pagamento e locais de
+               atendimento.
+
+         •     Atacadistas: Menos comum aos consumidores finais pois geralmente não vendem produtos em volumes pequenos ou individuais. Seu foco
+               são os varejistas. Para o varejo, eles comercializam os produtos por um preço reduzido, visto que negociam diretamente com os fabricantes.
+               Atualmente, é possível encontrar diversos negócios híbridos, que mesclam varejo e atacado, como os hipermercados, os chamados
+               "atacarejos". Os exemplos mais usuais de atacado são: atacadistas de roupas que vendem para lojas, atacadistas de produtos e peças de
+               informática, etc.
+
+         •     Distribuidores: Os distribuidores armazenam, vendem e oferecem assistência técnica para atacadistas e varejistas de uma determinada região.
+               A atuação deles é exclusivamente voltada para outras empresas que comercializam os produtos dos fabricantes. Os exemplos mais vistos são
+               as distribuidoras de bebida. Elas transportam cervejas, vinhos, refrigerantes, garrafas de água e outras mercadorias diretamente dos
+               fabricantes para os seus armazéns. Dali, negociam e distribuem os produtos para os bares, boates, restaurantes, agentes e mercados de sua
+               região.
+
+         •     Agentes: Esse grupo é composto pelos representantes de venda e corretores. São pessoas autorizadas a revender seus produtos, mediante
+               pagamento de comissão, para outras empresas e clientes finais. É o caso dos corretores imobiliários e dos revendedores de roupas, por
+               exemplo. A entrega dos produtos pode ser feita pessoalmente pelo agente ou ele pode remeter o pedido ao distribuidor — o fabricante,
+               assim, é o responsável pelo envio até o cliente, podendo ser feito por Correios ou transportadora contratada. Alguns exemplos clássicos são
+               linhas de cosméticos, como Avon e Natura, que trabalham tanto com varejistas quanto com revendedores autorizados.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                          
+
+
+---
+
+       Questão Comentada
+     05. (CESGRANRIO/PETROBRAS/Técnico/2018) Um dos canais de distribuição de grande
+     relevância em nosso país tem como principal função armazenar, vender e oferecer
+     assistência técnica em determinada região. Sua atuação é exclusivamente voltada para
+     outras empresas que comercializam os produtos dos fabricantes. Esse canal é
+     denominado:
+     a) agentes.
+     b) varejistas.
+     c) atacadistas.
+     d) distribuidores.
+     e) operadores logísticos.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CESGRANRIO/PETROBRAS/Técnico/2018) São possíveis destinos/aplicações dos
+     materiais que são coletados e transportados pelos canais de logística reversa,
+     à EXCEÇÃO de:
+     a) mercado secundário.
+     b) sustentabilidade.
+     c) remanufatura.
+     d) reciclagem.
+     e) disposição final correta.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (CESGRANRIO/PETROBRAS/Técnico/2018) São possíveis destinos/aplicações dos
+     materiais que são coletados e transportados pelos canais de logística reversa,
+     à EXCEÇÃO de:
+     a) mercado secundário.
+     b) sustentabilidade.
+     c) remanufatura.
+     d) reciclagem.
+     e) disposição final correta.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/PETROBRAS/Técnico/2018) Um assunto que emerge junto com a 4ª
+     Revolução Industrial é a logística 4.0. Um dos viabilizadores para o surgimento da
+     logística 4.0 é o(a):
+     a) RFID.
+     b) Código de barras.
+     c) Condomínio logístico.
+     d) Aumento da eficiência no consumo de combustíveis.
+     e) Internet das coisas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (CESGRANRIO/PETROBRAS/Técnico/2018) Um assunto que emerge junto com a 4ª
+     Revolução Industrial é a logística 4.0. Um dos viabilizadores para o surgimento da
+     logística 4.0 é o(a):
+     a) RFID.
+     b) Código de barras.
+     c) Condomínio logístico.
+     d) Aumento da eficiência no consumo de combustíveis.
+     e) Internet das coisas.   A indústria 4.0, também chamada de Quarta Revolução Industrial, é marcada pela era da informação digital. A
+     GABARITO - E              tecnologia da informação se torna parte integral dos processos industriais, e decisões são tomadas de forma
+                                             automática a partir do uso de um grande conjunto de dados armazenados, o chamado "Big Data". Para que a
+                                             Indústria 4.0 se torne factível, é necessária a adoção de uma infraestrutura tecnológica formada por sistemas
+                                             físicos e virtuais, com apoio de Big Data, Analytics, robôs automatizados, simulações, manufatura avançada,
+                                             realidade aumentada e da internet das coisas.
+
+                                             A Internet das Coisas (IoT) é a capacidade de os objetos obterem informações sobre o seu ambiente e se
+                                             comunicarem uns com os outros de maneira imediata. As principais aplicações da Internet das Coisas na logística
+                                             são:
+
+                                             •     Gestão automatizada do estoque;
+                                             •     Veículos autônomos;
+                                             •     Rastreio de veículos e cargas;
+Administração de Materiais para Concursos    •     Monitoramento por vídeo e sensores.
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+       Questão Comentada
+     08.     (CESGRANRIO/PETROBRAS/Técnico/2018)                                 São   áreas   funcionais   da
+     logística, EXCETO:
+     a) transporte
+     b) armazenagem
+     c) estoque
+     d) unitização de materiais
+     e) projeto de rede
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Unitização da Carga
+
+        Carga constituída de embalagens de transporte, arranjadas ou acondicionadas de
+        modo que possibilite o seu manuseio, transporte e armazenagem por meios
+        mecânicos, como uma unidade.
+        A unitização da carga permite a maximização da utilização dos equipamentos de
+        transporte, paleteiras e empilhadeiras.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08.     (CESGRANRIO/PETROBRAS/Técnico/2018)                                 São   áreas   funcionais   da
+     logística, EXCETO:
+     a) transporte
+     b) armazenagem
+     c) estoque
+     d) unitização de materiais
+     e) projeto de rede
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FAEPESUL/Pref. Mun. Sanguão-SC/Inspetor de Patrimônio/2018) Sobre logística de distribuição,
+     assinale a alternativa incorreta.
+     a) A logística de distribuição coordena o fluxo de mercadorias nos pontos de vendas dos mais
+     variados bens e serviços.
+     b) A logística de distribuição é uma ferramentas que proveem a disponibilidade de produtos onde e
+     quando são necessários.
+     c) O gerenciamento logístico na gestão da distribuição dos produtos não deve priorizar o uso das
+     instalações, coordenando apenas o fluxo de mercadorias.
+     d) O gerenciamento logístico na gestão da distribuição dos produtos deve priorizar o uso das
+     instalações, para que não haja interrupção no atendimento para o cliente e agregue valor aos
+     negócios da empresa.
+     e) Os Centros de Distribuição podem viabilizar de forma competitiva o fluxo de mercadorias vinda dos
+     fabricantes, tornando possível o atendimento em todos os níveis existentes.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (FAEPESUL/Pref. Mun. Sanguão-SC/Inspetor de Patrimônio/2018) Sobre logística de distribuição,
+     assinale a alternativa incorreta.
+     a) A logística de distribuição coordena o fluxo de mercadorias nos pontos de vendas dos mais
+     variados bens e serviços.
+     b) A logística de distribuição é uma ferramentas que proveem a disponibilidade de produtos onde e
+     quando são necessários.
+     c) O gerenciamento logístico na gestão da distribuição dos produtos não deve priorizar o uso das
+     instalações, coordenando apenas o fluxo de mercadorias.
+     d) O gerenciamento logístico na gestão da distribuição dos produtos deve priorizar o uso das
+     instalações, para que não haja interrupção no atendimento para o cliente e agregue valor aos
+     negócios da empresa.
+     e) Os Centros de Distribuição podem viabilizar de forma competitiva o fluxo de mercadorias vinda dos
+     fabricantes, tornando possível o atendimento em todos os níveis existentes.
+     GABARITO - C
+                                            O gerenciamento de toda a cadeia logística deve sim se preocupar não só com o fluxo de
+                                            mercadorias, mas também com o uso das instalações disponibilizadas ao longo da cadeia como
+                                            centros de distribuição, pontos de consolidação e fracionamento, depósitos de terceiros, etc. A
+                                            gestão de todos esses pontos é fundamental para se obter o melhor processo de distribuição
+                                            (prazos, roteiros, etc) ao melhor custo e atendendo o cliente dentro dos níveis de atendimento
+Administração de Materiais para Concursos   determinados.
+Prof. Ricardo Campanario
+                                                  
+
+
+---
+
+       Questão Comentada
+     10. (FAURGS/UFRGS/Engenheiro/2018) Das alternativas abaixo, qual NÃO representa
+     um componente de um sistema logístico típico?
+     a) Processamento de pedidos.
+     b) Manuseio de produtos devolvidos.
+     c) Controle de estoque.
+     d) Transporte.
+     e) Definição de layout de processo produtivo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (FAURGS/UFRGS/Engenheiro/2018) Das alternativas abaixo, qual NÃO representa
+     um componente de um sistema logístico típico?
+     a) Processamento de pedidos.
+     b) Manuseio de produtos devolvidos.
+     c) Controle de estoque.
+     d) Transporte.
+     e) Definição de layout de processo produtivo.
+     GABARITO - E
+
+
+       Definido de maneira simples, o layout nada mais é do que “o arranjo de homens, máquinas e materiais”, podendo
+       ser definido tecnicamente como:
+
+       A integração do fluxo típico de materiais, da operação dos equipamentos de movimentação, combinado com as
+       características que conferem maior produtividade ao elemento humano; isto para que a armazenagem de
+       determinado produto se processe dentro do padrão máximo de economia e rendimento.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

@@ -1,0 +1,138 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 21_003_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '21'
+titulo_aula: RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+---
+
+# RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+RESUMO DE CONTABILIDADE GERAL E AVANÇADA
+
+CPC 94 (R1) - Ativo Intangível
+
+
+   ● Ativo intangível é um ativo não monetário, identificável, e sem substância
+
+      física.
+
+   ● Três são as condições para que os itens acima sejam considerados ativos
+
+      intangíveis, a saber:
+
+Assim,     um   item      será     intangível        quando        atenda        esses      três   requisitos
+
+cumulativamente: seja identificável; seja controlável; seja gerador de benefícios
+
+futuros.
+
+                                                                                                       1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 17.
+
+                                 
+
+
+---
+
+● Um intangível será reconhecido se, cumulativamente, atender aos seguintes
+
+  critérios:
+
+     ○ Atender ao conceito de intangível, ou seja, ser não monetário identificável
+
+         sem substância física;
+
+     ○ Ser identificável, controlável e gerar benefícios futuros.
+
+● Um ativo intangível deve ser reconhecido inicialmente ao custo.
+
+● O ágio derivado da expectativa de rentabilidade futura (goodwill) gerado
+
+  internamente não deve ser reconhecido como ativo.
+
+● Um ativo intangível deve ser reconhecido apenas se:
+
+     ○ For provável que os benefícios econômicos futuros esperados atribuíveis ao
+
+         ativo serão gerados em favor da entidade; e
+
+     ○ O custo do ativo possa ser mensurado com segurança.
+
+● Pesquisa é a investigação original e planejada realizada com a expectativa de
+
+  adquirir novo conhecimento e entendimento científico ou técnico. Os gastos
+
+  com pesquisa devem ser reconhecidos como despesa quando incorridos.
+
+● Um ativo intangível resultante de desenvolvimento deve ser reconhecido
+
+  somente se a entidade puder demonstrar todos os aspectos a seguir
+
+  enumerados:
+
+     ○ Viabilidade técnica para concluir o ativo intangível de forma que ele seja
+
+         disponibilizado para uso ou venda;
+
+     ○ Intenção de concluir o ativo intangível e de usá-lo ou vendê-lo;
+
+                                                                                                 2
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 17.
+
+                                
+
+
+---
+
+     ○ Capacidade para usar ou vender o ativo intangível;
+
+     ○ Forma como o ativo intangível deve gerar benefícios econômicos futuros.
+
+     ○ Disponibilidade de recursos técnicos, financeiros e outros recursos
+
+        adequados para concluir seu desenvolvimento e usar ou vender o ativo
+
+        intangível; e
+
+     ○ Capacidade de mensurar com segurança os gastos atribuíveis ao ativo
+
+        intangível durante seu desenvolvimento.
+
+● O custo de ativo intangível gerado internamente inclui todos os gastos
+
+  diretamente atribuíveis, necessários à criação, produção e preparação do ativo
+
+  para ser capaz de funcionar da forma pretendida pela administração.
+
+● Após o seu reconhecimento inicial, um ativo intangível deve ser apresentado ao
+
+  custo, menos a eventual amortização acumulada e a perda acumulada com
+
+  Redução ao Valor Recuperável de Ativos.
+
+● A contabilização de ativo intangível baseia-se na sua vida útil. Um ativo
+
+  intangível com vida útil definida deve ser amortizado, enquanto a de um ativo
+
+  intangível com vida útil indefinida não deve ser amortizado.
+
+                                                                                             3
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 17.
+
+                            
+
+
+---

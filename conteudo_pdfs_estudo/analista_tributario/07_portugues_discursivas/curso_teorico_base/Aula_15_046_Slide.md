@@ -1,0 +1,713 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_046_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: ANAF
+---
+
+# ANAF
+
+---
+
+---
+
+FACEBOOK.COM/PROF.ADRIANA.FIGUEIREDO
+
+INSTAGRAM.COM/PROFESSORAADRIANAFIGUEIREDO
+
+HTTPS://WWW.YOUTUBE.COM/USER/PROFESSORAADRI
+
+ANAF
+                                                 Profª. Adriana Figueiredo
+
+            
+
+
+---
+
+RETA FINAL TJ RJ
+                                         Profª. Adriana Figueiredo
+
+    
+
+
+---
+
+CONTEÚDO PROGRAMÁTICO – TJ RJ – ASSUNTOS JÁ MINISTRADOS
+ 1 Compreensão e interpretação de textos de gêneros variados.
+ 2 Reconhecimento de tipos e gêneros textuais.
+ 3 Domínio da ortografia oficial. 3.1 Emprego das letras. 3.2 Emprego da acentuação
+ gráfica.
+ 4 Domínio dos mecanismos de coesão textual. 4.1 Emprego de elementos de
+ referenciação, substituição e repetição, de conectores e outros elementos de
+ sequenciação textual. 4.2 Emprego/correlação de tempos e modos verbais.
+ 5 Domínio da estrutura morfossintática do período. 5.1 Relações de coordenação entre
+ orações e entre termos da oração. 5.2 Relações de subordinação entre orações e entre
+ termos da oração. 5.3 Emprego dos sinais de pontuação. 5.4 Concordância verbal e
+ nominal. 5.5 Emprego do sinal indicativo de crase. 5.6 Colocação dos pronomes átonos.
+ 6 Reescritura de frases e parágrafos do texto. 6.1 Substituição de palavras ou de trechos
+ de texto. 6.2 Retextualização de diferentes gêneros e níveis de formalidade.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+CONTEÚDO PROGRAMÁTICO – TJ RJ – ASSUNTOS DE HOJE
+ 1 Compreensão e interpretação de textos de gêneros variados.
+ 2 Reconhecimento de tipos e gêneros textuais.
+ 3 Domínio da ortografia oficial. 3.1 Emprego das letras. 3.2 Emprego da acentuação
+ gráfica.
+ 4 Domínio dos mecanismos de coesão textual. 4.1 Emprego de elementos de
+ referenciação, substituição e repetição, de conectores e outros elementos de
+ sequenciação textual. 4.2 Emprego/correlação de tempos e modos verbais.
+ 5 Domínio da estrutura morfossintática do período. 5.1 Relações de coordenação entre
+ orações e entre termos da oração. 5.2 Relações de subordinação entre orações e entre
+ termos da oração. 5.3 Emprego dos sinais de pontuação. 5.4 Concordância verbal e
+ nominal. 5.5 Emprego do sinal indicativo de crase. 5.6 Colocação dos pronomes átonos.
+ 6 Reescritura de frases e parágrafos do texto. 6.1 Substituição de palavras ou de trechos
+ de texto. 6.2 Retextualização de diferentes gêneros e níveis de formalidade.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+FALÁCIAS
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+                 GENERALIZAÇÃO EXCESSIVA
+                                                                              Aquele alemão fala muito alto. Isso deve ser uma
+                    Concluir a partir de uma
+                                                                                   característica de todos daquele país.
+                     evidência insuficiente
+
+                 SIMPLIFICAÇÃO EXAGERADA
+                 Utilizar uma simplificação em vez                               O mundo vive esta crise moral por falta de
+                  de buscar uma resposta mais                                                espiritualidade.
+                        complexa e adequada
+   FALÁCIAS
+ARGUMENTATIVAS
+
+
+                                                                              O índice de depressão aumentou entre os jovens,
+                        FUGA DO TEMA                                           dessa forma os pais devem ficar atentos ao uso
+                 Fugir da questão em discussão                                        de drogas e às más companhias.
+
+                                                  Prof. Adriana Figueiredo
+                                         
+
+
+---
+
+                  ARGUMENTO AUTORITÁRIO                                          Como o governador já informou sobre o
+                 Usar de um depoimento que se                               problema, e como o secretariado é muito capaz,
+                 julga inatacável pela autoridade                             todos devemos aguardar o bom resultado do
+                             do autor                                                          projeto.
+
+   FALÁCIAS
+ARGUMENTATIVAS
+
+
+                      FALSA ANALOGIA                                         Se um advogado pode consultar documentos
+                 Comparar elementos diferentes                               durante um julgamento, estudantes também
+                  em algum aspecto para essa                                 deveriam poder consultar livros durante uma
+                           analogia                                                           prova.
+
+                                                Prof. Adriana Figueiredo
+                                       
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+FGV - 2025 - AgSUS - Auxiliar de Gestão
+ Observe a seguinte frase argumentativa.
+
+ “Se todas as crianças acreditassem em Papai Noel, seu crescimento seria bem feliz.”
+
+ O problema desse raciocínio está em uma:
+ A) generalização excessiva.
+
+ B) criação de um estereótipo.
+
+ C) relação causa e efeito defeituosa.
+
+ D) simplificação exagerada.
+
+ E) falsa analogia.
+
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+FGV - 2025 - AgSUS - Auxiliar de Gestão
+ Observe a seguinte frase argumentativa.
+
+ “Se todas as crianças acreditassem em Papai Noel, seu crescimento seria bem feliz.”
+
+ O problema desse raciocínio está em uma:
+ A) generalização excessiva.
+
+ B) criação de um estereótipo.
+
+ C) relação causa e efeito defeituosa.
+
+ D) simplificação exagerada.
+
+ E) falsa analogia.
+
+Profª Adriana Figueiredo
+                                         
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2024 - EPE - Advogado
+ Observe o seguinte texto argumentativo:
+
+ Culpar o Banco Mundial pela pobreza é como culpar a Cruz Vermelha pelas duas guerras mundiais.
+
+ Nesse caso, o argumento utilizado apela para
+
+ A) a redução do problema para uma causa única.
+ B) uma simplificação exagerada.
+ C) uma comparação absurda.
+ D) a autoridade do enunciador.
+ E) uma opinião pessoal apoiada em exemplo.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2024 - EPE - Advogado
+ Observe o seguinte texto argumentativo:
+
+ Culpar o Banco Mundial pela pobreza é como culpar a Cruz Vermelha pelas duas guerras mundiais.
+
+ Nesse caso, o argumento utilizado apela para
+
+ A) a redução do problema para uma causa única.
+ B) uma simplificação exagerada.
+ C) uma comparação absurda.
+ D) a autoridade do enunciador.
+ E) uma opinião pessoal apoiada em exemplo.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2025 - MPE-RJ - Analista do Ministério Público - Área
+Administrativa
+ Um advogado, no tribunal, defendia seu cliente, acusado de roubo, com as seguintes palavras:
+
+ “Senhores jurados, este homem, aqui sentado está sendo julgado por roubo, mas vejam: ele é pai de
+ três filhos, trabalhador responsável, filho carinhoso e diretor de uma organização solidária.”
+
+ Nesse caso, o advogado está empregando uma falácia argumentativa, que é
+
+ A) produzir uma generalização excessiva, que produz uma conclusão inadequada.
+
+ B) abandonar a questão principal e tomar um argumento desimportante, fruto de descuido ou de
+ deliberada fuga de assunto
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2025 - MPE-RJ - Analista do Ministério Público - Área
+Administrativa
+ Um advogado, no tribunal, defendia seu cliente, acusado de roubo, com as seguintes palavras:
+
+ “Senhores jurados, este homem, aqui sentado está sendo julgado por roubo, mas vejam: ele é pai de
+ três filhos, trabalhador responsável, filho carinhoso e diretor de uma organização solidária.”
+
+ Nesse caso, o advogado está empregando uma falácia argumentativa, que é
+
+ C) criar um estereótipo, abandonando as diferenças individuais.
+
+ D) apresentar uma estrutura em que a relação de causa e efeito mostra defeitos.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2025 - MPE-RJ - Analista do Ministério Público - Área
+Administrativa
+ Um advogado, no tribunal, defendia seu cliente, acusado de roubo, com as seguintes palavras:
+
+ “Senhores jurados, este homem, aqui sentado está sendo julgado por roubo, mas vejam: ele é pai de
+ três filhos, trabalhador responsável, filho carinhoso e diretor de uma organização solidária.”
+
+ Nesse caso, o advogado está empregando uma falácia argumentativa, que é
+
+ E) estabelecer uma falsa analogia em que os elementos comparados são diferentes em algum ponto
+ essencial.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2025 - MPE-RJ - Analista do Ministério Público - Área
+Administrativa
+ Um advogado, no tribunal, defendia seu cliente, acusado de roubo, com as seguintes palavras:
+
+ “Senhores jurados, este homem, aqui sentado está sendo julgado por roubo, mas vejam: ele é pai de
+ três filhos, trabalhador responsável, filho carinhoso e diretor de uma organização solidária.”
+
+ Nesse caso, o advogado está empregando uma falácia argumentativa, que é
+
+ A) produzir uma generalização excessiva, que produz uma conclusão inadequada.
+
+ B) abandonar a questão principal e tomar um argumento desimportante, fruto de descuido ou de
+ deliberada fuga de assunto
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2025 - PGM - RJ - Analista de Procuradoria - Especialidade Direito
+ Todos os argumentos estão acompanhados da justificativa de sua inadequação.
+
+ Assinale a frase em que a indicação de inadequação está correta.
+
+ A) Eu sou Gary Cooper, um grande ator de cinema e sempre comprei carros Chevrolet; faça como eu.
+ / Confusão entre ideia e autor.
+
+ B) Os meteorologistas sempre cometem erros na previsão do tempo. Hoje, disseram que ia chover e
+ veja o sol brilhante que está fazendo. / Fuga do assunto.
+
+ C) Defendo a ideia de um aumento do imposto de renda para os ganhos de capital, pois a injustiça
+ social está grande. / Generalização excessiva.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2025 - PGM - RJ - Analista de Procuradoria - Especialidade Direito
+ Todos os argumentos estão acompanhados da justificativa de sua inadequação.
+
+ Assinale a frase em que a indicação de inadequação está correta.
+
+ D) O potencial agrícola de nosso país sempre foi mal explorado pela ausência de escolas
+ especializadas. / Estatísticas tendenciosas.
+
+ E) O jogador deve ser inocente em relação à punição tomada, pois é muito cuidadoso com a chuteira
+ e a bola. / Simplificação exagerada.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+FGV - 2025 - PGM - RJ - Analista de Procuradoria - Especialidade Direito
+ Todos os argumentos estão acompanhados da justificativa de sua inadequação.
+
+ Assinale a frase em que a indicação de inadequação está correta.
+
+ A) Eu sou Gary Cooper, um grande ator de cinema e sempre comprei carros Chevrolet; faça como eu.
+ / Confusão entre ideia e autor.
+
+ B) Os meteorologistas sempre cometem erros na previsão do tempo. Hoje, disseram que ia chover e
+ veja o sol brilhante que está fazendo. / Fuga do assunto.
+
+ C) Defendo a ideia de um aumento do imposto de renda para os ganhos de capital, pois a injustiça
+ social está grande. / Generalização excessiva.
+
+Profª Adriana Figueiredo
+                                        
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FALÁCIAS ARGUMENTATIVAS
+                                             Profª. Adriana Figueiredo
+
+        
+
+
+---
+
+                         AD HOMINEM                                            O Sr. Campos está sendo acusado de lavar
+                 Atacar a pessoa em vez do seu                              dinheiro. É óbvio que não podemos levar em conta
+                          ponto de vista                                        o que fala uma pessoa com esse caráter.
+
+                   CAUSA E CONSEQUÊNCIA
+                          DEFEITUOSA                                        Vestiram a camisa azul e ganharam o jogo. Logo,
+   FALÁCIAS        Afirmar que a causa de certo                                    a camisa azul foi o motivo da vitória.
+ARGUMENTATIVAS   fato é uma, quando, na verdade,
+                              não é
+
+
+                         ESTEREÓTIPO
+                     Atribuir características
+                                                                             O Brasil não vai para frente porque as pessoas
+                 supostamente apresentadas por
+                                                                              estão sempre fazendo festa e não gostam de
+                   um grupo sem considerar as
+                                                                                                trabalhar
+                  especificidades dos indivíduos
+
+
+                                                Prof. Adriana Figueiredo
+                                       
+
+
+---
+
+                      CÍRCULO VICIOSO
+                    (ou argumento circular)                         Automobilismo é um esporte inseguro e arriscado
+   FALÁCIAS
+                 Fundamentar o argumento com                              logo, o automobilismo é perigoso.
+ARGUMENTATIVAS       a repetição do próprio
+                          argumento.
+
+                                              Prof. Adriana Figueiredo
+                                     
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+FGV - 2022 - TCE-TO - Auditor de Controle Externo
+ A frase abaixo que mostra um raciocínio falso, classificado como círculo vicioso, é:
+ A) Ayrton Senna foi, sem dúvida, o melhor corredor brasileiro de todos os tempos, pois
+ nenhum outro conseguiu igualar-se a ele;
+
+ B) Todos os nossos problemas desapareceriam se aumentássemos o tamanho da casa
+ onde moramos;
+
+ C) Não é conveniente para a Prefeitura cancelar esse próximo feriado, pois os cariocas
+ gostam muito de praia;
+
+ D) Não acredito que você esteja lembrando-me esses fatos; a mim, que sou historiador;
+
+ E) Estatísticas mostram que mais de 80% dos eleitores preferem votar em pessoas mais
+ velhas, o que favorece os idosos nas próximas eleições.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2022 - TCE-TO - Auditor de Controle Externo
+ A frase abaixo que mostra um raciocínio falso, classificado como círculo vicioso, é:
+ A) Ayrton Senna foi, sem dúvida, o melhor corredor brasileiro de todos os tempos, pois
+ nenhum outro conseguiu igualar-se a ele;
+
+ B) Todos os nossos problemas desapareceriam se aumentássemos o tamanho da casa
+ onde moramos;
+
+ C) Não é conveniente para a Prefeitura cancelar esse próximo feriado, pois os cariocas
+ gostam muito de praia;
+
+ D) Não acredito que você esteja lembrando-me esses fatos; a mim, que sou historiador;
+
+ E) Estatísticas mostram que mais de 80% dos eleitores preferem votar em pessoas mais
+ velhas, o que favorece os idosos nas próximas eleições.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2024 - TJ-SC - Analista Administrativo
+ Em todas as opções abaixo são citadas falácias argumentativas, seguidas de um exemplo
+ correspondente. A opção em que o exemplo NÃO exemplifica a falácia anterior é:
+
+ A) generalização excessiva: “O ouro, o cobre, o ferro, o alumínio, a prata conduzem bem
+ o calor; logo os metais são bons condutores de calor e de eletricidade”;
+
+ B) estereótipos: “Os ingleses não possuem senso de humor”;
+
+ C) falácia causa/efeito: “Minha irmã visitou o zoológico no sábado à tarde e à noite teve
+ febre; os zoológicos são locais sem higiene”;
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+FGV - 2024 - TJ-SC - Analista Administrativo
+ Em todas as opções abaixo são citadas falácias argumentativas, seguidas de um exemplo
+ correspondente. A opção em que o exemplo NÃO exemplifica a falácia anterior é:
+
+ D) falsa analogia: “As crianças nas escolas são como animais assustados e é necessário
+ acompanhá-las sempre para que não machuquem umas às outras”;
+
+ E) ataques pessoais: “O prefeito pretende construir uma nova escola, mas é preciso
+ esperar porque ouvi dizer que ele bate na mulher”.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - TJ-SC - Analista Administrativo
+ Em todas as opções abaixo são citadas falácias argumentativas, seguidas de um exemplo
+ correspondente. A opção em que o exemplo NÃO exemplifica a falácia anterior é:
+
+ A) generalização excessiva: “O ouro, o cobre, o ferro, o alumínio, a prata conduzem bem
+ o calor; logo os metais são bons condutores de calor e de eletricidade”;
+
+ B) estereótipos: “Os ingleses não possuem senso de humor”;
+
+ C) falácia causa/efeito: “Minha irmã visitou o zoológico no sábado à tarde e à noite teve
+ febre; os zoológicos são locais sem higiene”;
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2024 - TJ-RJ - Mediador Judiciário
+ Assinale a frase abaixo que apresenta uma falácia argumentativa caracterizada
+ adequadamente.
+
+ A) Pessoas ricas são espertas / afirmação que se prende a uma generalização excessiva.
+
+ B) Presidente X: Se eu disser a vocês quem são os meus conselheiros políticos, todos
+ vocês irão conhecê-los / ausência de relação lógica entre as frases.
+
+ C) Bernardo Fialho, do Partido Comunista, é um racista, então você nunca deve votar
+ num comunista / falsa analogia.
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - TJ-RJ - Mediador Judiciário
+ Assinale a frase abaixo que apresenta uma falácia argumentativa caracterizada
+ adequadamente.
+
+ D) Se os jovens realmente amam seus estados de origem, eles não devem emigrar para
+ outras partes dos Estados Unidos / apelo à emoção.
+
+ E) A Alemanha venceu a Primeira Guerra Mundial; certamente ela também vencerá a
+ próxima / falsa relação de causa e consequência.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+FGV - 2024 - TJ-RJ - Mediador Judiciário
+ Assinale a frase abaixo que apresenta uma falácia argumentativa caracterizada
+ adequadamente.
+
+ D) Se os jovens realmente amam seus estados de origem, eles não devem emigrar para
+ outras partes dos Estados Unidos / apelo à emoção.
+
+ E) A Alemanha venceu a Primeira Guerra Mundial; certamente ela também vencerá a
+ próxima / falsa relação de causa e consequência.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+FGV - 2024 - CVM - Inspetor CVM - Perfil 2 - Mercado de Capitais -
+Manhã
+ Em todos os textos abaixo ocorre a presença de uma falácia argumentativa, que é
+ corretamente identificada na seguinte opção:
+
+ A) O motorista do carro de luxo que colidiu com o carro do aplicativo e causou a morte
+ do motorista não merece ser preso, tendo sido sempre um ótimo filho e excelente
+ funcionário da empresa para a qual trabalha. / Estabelece-se uma relação deficiente
+ entre causa e efeito;
+
+ B) Mostram as estatísticas comparativas entre os anos de 2010 e 2024 que o nível de
+ desemprego diminuiu consideravelmente, o que mostra o acerto das medidas do
+ Ministro do Trabalho. / Cria-se um estereótipo de uma estatística, sempre vista como
+ meio de enganar o próximo;
+
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - CVM - Inspetor CVM - Perfil 2 - Mercado de Capitais -
+Manhã
+ Em todos os textos abaixo ocorre a presença de uma falácia argumentativa, que é
+ corretamente identificada na seguinte opção:
+
+ C) Se todos os políticos fossem cultos, nosso Congresso seria mais confiável. / Ocorre
+ aqui um argumento autoritário, fundamentado no valor da cultura;
+
+ D) Os professores são como deuses no Olimpo, já que a bondade e a cultura são suas
+ marcas. / É estabelecida uma falsa analogia, em que os elementos comparados são
+ diferentes em algum ponto;
+
+ E) Se todos os estudantes lessem bons livros, sua situação escolar seria certamente bem
+ melhor. / Ocorre uma generalização excessiva, que produz uma conclusão a partir de
+ uma evidência insuficiente.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+FGV - 2024 - CVM - Inspetor CVM - Perfil 2 - Mercado de Capitais -
+Manhã
+ Em todos os textos abaixo ocorre a presença de uma falácia argumentativa, que é
+ corretamente identificada na seguinte opção:
+
+ C) Se todos os políticos fossem cultos, nosso Congresso seria mais confiável. / Ocorre
+ aqui um argumento autoritário, fundamentado no valor da cultura;
+
+ D) Os professores são como deuses no Olimpo, já que a bondade e a cultura são suas
+ marcas. / É estabelecida uma falsa analogia, em que os elementos comparados são
+ diferentes em algum ponto;
+
+ E) Se todos os estudantes lessem bons livros, sua situação escolar seria certamente bem
+ melhor. / Ocorre uma generalização excessiva, que produz uma conclusão a partir de
+ uma evidência insuficiente.
+Profª Adriana Figueiredo
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+OBRIGADA!
+                                          Professora: Adriana Figueiredo
+
+     
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                     @professoraadrianafigueiredo
+
+              youtube.com/user/professoraadrianaf
+
+                facebook.com/prof.adriana.figueiredo
+
+
+                 
+
+
+---
+
+---

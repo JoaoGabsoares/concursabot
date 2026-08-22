@@ -1,0 +1,2870 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 11_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Passo Estratégico de Português
+artigos_citados:
+- Art. 5º
+---
+
+# Passo Estratégico de Português
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+1 - Apresentação 
+2 - Análise Estatística 
+3 – Frase, oração e período 
+  3.1 – Tipos de frases 
+  3.1.1 - Frases expositivas 
+  3.1.2 - Frases Imperativas
+  3.1.3 - Frases Optativas 
+  3.1.4 - Frases Exclamativas
+  3.1.5 - Frases Interrogativas 
+  3.2 - Oração 
+  3.3 - Período 
+  3.3.1 - período simples 
+  3.3.2 - período composto 
+4 - Tipos de discurso 
+  4.1 - Discurso Direto
+  4.2 - Discurso Indireto 
+  4.3 - Mudando do discurso direto para o indireto 
+  4.3 – Discurso Indireto Livre 
+5- Relação de Coordenação e Subordinação das orações 
+  5.1 – Período composto por coordenação 
+  5.2 – Período composto por subordinação 
+6 - Pontuação 
+  6.1 - Vírgula 
+  6.1.1 - Emprego da vírgula em relações sintáticas intraoracionais 
+  6.1.2 - Emprego da vírgula em relações sintáticas interoracionais 
+  6.2 – O ponto e vírgula 
+  6.3 – Os dois-pontos 
+  6.4 – As reticências 
+  6.5 – As aspas 
+  6.6 – O travessão 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                               1
+          www.estrategiaconcursos.com.br                                                                                                                     59
+                                               
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+7 - Aposta estratégica 
+8 - Questões-chave de revisão 
+9 – Lista de questões comentadas 
+10- Revisão estratégica 
+  10.1 Perguntas 
+  10.2 - Perguntas e respostas 
+
+1 - APRESENTAÇÃO
+Olá, servidores.
+Na aula de hoje, abordaremos: frase, oração e período; tipos de discurso; relação de coordenação
+e subordinação das orações e pontuação.
+A sintaxe é um dos assuntos mais amplos na Língua Portuguesa. Nesta aula, revisaremos a parte que
+trata da relação de coordenação e subordinação das orações. Para tanto, é fundamental que os
+Termos da Oração, assunto abordado em aula anterior, tenha sido bem estudado ou que você o
+reveja antes de iniciar esta aula.
+Por sua vez, o uso correto da pontuação é fundamental para compreender e elaborar frases, orações
+e períodos. Uma vez que a função dos sinais de pontuação é organizar ideias e conferir sentido à
+mensagem do texto, é muito importante que você aproveite ao máximo este material.
+
+
+Boa aula a todos!
+
+Prof. Carlos Roberto
+                                                        #amoraovernáculo
+
+       “Toda mente é um cofre. Não existem mentes impenetráveis, apenas chaves erradas”.
+                                         Augusto Cury
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                           2
+          www.estrategiaconcursos.com.br                                                                                                                 59
+                                              
+
+
+---
+
+    Carlos Roberto Correa
+    Aula 08
+
+2 - ANÁLISE ESTATÍSTICA
+                       Percentual de incidência em concursos similares (FGV)
+                               Interpretação de textos.                              34,98%
+              Classes de palavras; Formação e estrutura das palavras.                14,43%
+                                       Linguagem.                                     3,96%
+                            Ortografia, Acentuação e Crase.                           3,27%
+                                   Tipologia Textual.                                 3,11%
+                                       Pontuação.                                     2,90%
+                                Colocação pronominal.                                 2,61%
+                                  Termos da oração.                                   2,14%
+                  Concordância verbal, nominal e vozes verbais.                       1,92%
+               Relação de coordenação e subordinação das orações.                     1,35%
+                            Palavras “se”, “que” e “como”.                            1,19%
+                              Regência nominal e verbal.                              1,06%
+
+3 – FRASE, ORAÇÃO E PERÍODO
+Você se recorda da distinção dos conceitos de frase, oração e período? Saber essa distinção é muito
+importante para iniciarmos a aula de hoje. Então, vamos relembrar!
+
+De acordo com Ferreira1, FRASE é “toda unidade linguística (com ou sem verbo) por meio da qual
+transmitimos, pela fala ou pela escrita, as nossas ideias”. Logo, a frase é uma unidade capaz de
+formar um processo de comunicação, uma vez que possui sentido.
+
+1
+    FERREIRA, Mauro. “Aprender e praticar gramática”. 4ª edição, São Paulo, FTD, 2014, p, 439.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                        3
+          www.estrategiaconcursos.com.br                                                              59
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Exemplo:
+
+  Parabéns pela aprovação!
+● é frase, pois transmite uma ideia, mas não é oração (não tem verbo);
+● não é período, pois não é formado por oração.
+
+Outros exemplos:
+
+  Socorro!
+(é frase, mas não é oração – não tem verbo)
+
+  Acudam!
+(é frase e oração – pois é formada por um verbo)
+
+  Ela se emocionou com a aprovação e desmaiou.
+(frase e período – formado por mais de uma oração)
+
+3.1 – TIPOS DE FRASES
+
+Quando nos referimos ao sentido que demonstram, as frases podem ser classificadas em:
+expositivas, imperativas, optativas, exclamativas e interrogativas.
+
+3.1.1 - FRASES EXPOSITIVAS
+
+As frases expositivas são aquelas que demonstram uma opinião ou juízo de valor.
+Exemplo:
+
+  A banca examinadora demonstra não ter preocupação
+  com a qualidade técnica dos avaliadores.
+
+
+3.1.2 - FRASES IMPERATIVAS
+
+As frases imperativas são aquelas que demonstram uma ordem ou determinação.
+Exemplo:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português            4
+        www.estrategiaconcursos.com.br                                                  59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  Largue minha mão!
+
+
+3.1.3 - FRASES OPTATIVAS
+
+As frases optativas demonstram uma vontade ou desejo.
+Exemplos:
+
+  Tomara que chova!
+  Deus proteja seus pensamentos.
+
+
+3.1.4 - FRASES EXCLAMATIVAS
+
+As frases exclamativas são aquelas que demonstram uma surpresa ou admiração.
+Exemplos:
+
+  Não acredito que fez a prova sem estudar.
+  Que horror!
+
+
+3.1.5 - FRASES INTERROGATIVAS
+
+As frases interrogativas são marcadas por demonstrar uma dúvida ou indagação.
+Exemplos:
+
+  Você fez a prova sem estudar?
+  Por que fez isso?
+
+
+3.2 - ORAÇÃO
+
+
+A ORAÇÃO é a frase (ou parte da frase, pois nem sempre terá sentido completo) formada por um
+verbo ou uma locução verbal. O verbo é sempre a principal palavra da oração.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                   5
+        www.estrategiaconcursos.com.br                                                         59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Exemplo:
+
+  Você fez um excelente trabalho.
+
+● é frase e também oração (por causa do verbo);
+● é um período simples (formado por apenas uma oração).
+
+3.3 - PERÍODO
+
+Por sua vez, o PERÍODO “é a frase formada por oração(ões). Pode ser simples (se formado só por
+uma oração) ou composto (se formado por mais de uma oração)”.
+Exemplo:
+
+  Se ainda não ficou bom, você pode treinar até o dia da
+  prova.
+
+● é frase, pois transmite uma ideia;
+● é um período composto (formado por mais de uma oração).
+
+3.3.1 - PERÍODO SIMPLES
+
+É o tipo de período formado por apenas uma oração, também conhecida como oração absoluta. No
+período simples há um único verbo ou locução verbal.
+Exemplos:
+
+  Haverá de alcançar seus objetivos!
+  Eu não estudei tanto à toa.
+
+
+3.3.2 - PERÍODO COMPOSTO
+
+É o tipo de período formado por mais de uma oração.
+Exemplos:
+
+  Eu estudei muito tempo para conseguir passar nesse
+  concurso.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                     6
+        www.estrategiaconcursos.com.br                                                           59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  Hoje posso comprar coisas que são vendidas nas lojas que
+  gosto.
+
+4 - TIPOS DE DISCURSO
+
+4.1 - DISCURSO DIRETO
+
+No discurso direto, o narrador faz uma pausa na sua narração, a fim de transcrever fielmente a fala
+do personagem, com o escopo de conferir autenticidade ao texto, distanciando o leitor do encargo
+daquilo que é dito. Observe as principais características presentes no discurso direto:
+
+   a) Uso dos verbos: falar, responder, perguntar, declarar, etc.;
+   b) Uso dos sinais de pontuação: travessão, exclamação, interrogação, dois pontos, aspas;
+
+Uso do discurso no meio do texto.
+Exemplos:
+
+  A mãe afirmou:
+  – Você precisa ganhar dinheiro logo para morar sozinho!
+  O filho perguntou:
+  – Mãe, como conseguirei morar sozinho antes de passar em
+  um concurso?
+
+
+4.2 - DISCURSO INDIRETO
+
+No discurso indireto há a interferência do narrador na fala da personagem. Aqui, não há as próprias
+palavras da personagem. Possui como principais características:
+
+a) Discurso narrado em 3ª pessoa:
+
+Geralmente não utiliza verbos de elocução, tais como: falar, responder, perguntar, indagar, declarar.
+Todavia, quando ocorre, não há utilização do travessão, pois geralmente as orações são
+subordinadas. Por essa razão, as conjunções são utilizadas no discurso indireto.
+Exemplos:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            7
+        www.estrategiaconcursos.com.br                                                                  59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  A mãe afirmou que o filho precisa ganhar dinheiro rápido,
+  para morar sozinho.
+  O filho perguntou à mãe como conseguiria morar sozinho
+  antes de passar em um concurso.
+
+b) O narrador é intermediário das palavras e sentimentos das personagens:
+
+  Muito nervosa, a mãe disse ao filho que ele precisava
+  trabalhar para pagar suas próprias contas.
+
+
+4.3 - MUDANDO DO DISCURSO DIRETO PARA O INDIRETO
+
+              DISCURSO DIRETO                                            DISCURSO INDIRETO
+ Vou estudar bem o conteúdo desta Ele disse que vai estudar bem o conteúdo desta
+ aula.                            aula. (sujeito na 3ª pessoa)
+ (sujeito na 1ª pessoa)
+                                                     Ele disse que não tinha estudado o suficiente na
+ Não estudei o suficiente na aula
+                                                     aula passada. (pretérito mais que perfeito)
+ passada. (pretérito perfeito)
+
+
+ Sou o candidato mais bem preparado                  Ele disse que era o candidato mais bem
+ para o concurso. (presente)                         preparado para o concurso. (pretérito imperfeito)
+
+                                   Pediu que preparassem                              uma    festa   para
+ Prepare uma festa para comemorar!
+                                   comemorar. (modo subjuntivo)
+ (modo imperativo)
+
+                                        Ele perguntou-me o que faria assim que sair o
+ O que fará assim que sair o resultado?
+                                        resultado. (futuro de pretérito)
+ (futuro do presente)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                8
+        www.estrategiaconcursos.com.br                                                                      59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+4.3 – DISCURSO INDIRETO LIVRE
+
+No discurso indireto livre, as formas direta e indireta se misturam, na medida em que o narrador
+utiliza a fala ou as ideias do personagem em sua própria fala.
+Dessa forma, como não há clara diferenciação entre a mudança do discurso, fica difícil delinear as
+falas dos personagens e do narrador, habitualmente diferenciadas por verbos de elocução, sinais de
+pontuação ou conjunções.
+Exemplo:
+
+  Ela estudou as matérias mais difíceis com antecedência.
+  Não estava segura, mas percebi que tinha chances de
+  aprovação. Certamente não esperava o grau de dificuldade
+  que encontrou no dia da prova.
+
+
+5- RELAÇÃO DE COORDENAÇÃO E SUBORDINAÇÃO DAS
+ORAÇÕES
+
+Como já foi explicado, os períodos se dividem em simples (constituído por uma única oração) e
+composto (constituído por duas ou mais orações). Por sua vez, o assunto Coordenação e
+Subordinação entre Orações pode ser assim dividido:
+
+
+                                   Período composto por              Período composto por
+                                        coordenação                      subordinação
+
+                                                    Período composto por
+                                                        subordinação
+                                                         substantiva
+
+
+                                                 Período composto
+                                                 por subordinação
+                                                      adjetiva
+
+
+                                            Período composto por
+                                           subordinação adverbial
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                         9
+        www.estrategiaconcursos.com.br                                                               59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+5.1 – PERÍODO COMPOSTO POR COORDENAÇÃO
+
+Nos períodos compostos por coordenação encontramos orações independentes e sintaticamente
+equivalentes.
+
+Exemplo:
+O sinal toca, o examinador distribui as provas e minhas mãos começam a suar.
+
+  ORAÇÃO 1                        ORAÇÃO 2                                     ORAÇÃO 3
+
+O período exemplificado é composto por três orações independentes, que não possuem relação de
+dependência entre si.
+
+As duas primeiras orações do exemplo são do tipo assindética (ligadas umas às outras apenas por
+sinais de pontuação), e a terceira oração é sindética (introduzida sempre por uma conjunção).
+
+Portanto, as duas primeiras orações são coordenadas assindéticas e a terceira é coordenada
+sindética.
+
+                                                 Tipos de orações
+                                              coordenadas sindéticas
+
+              Aditivas          Adversativas         Alternativas         Conclusivas     Explicativas
+
+a) Orações Coordenadas Sindéticas Aditivas
+
+Nas orações coordenadas sindéticas aditivas há implícito o conceito de soma ou de sequência de
+ações. Tal sequência de ações, neste tipo de oração, é marcado pela presença de conjunções
+aditivas.
+
+        Exemplos de conjunções aditivas: e; nem= e não; não só... como também; não só... mas
+        também; não só... mas ainda; não só...bem como.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             10
+        www.estrategiaconcursos.com.br                                                                   59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Exemplos:
+
+  Compareci ao local designado e apresentei a documentação
+  solicitada.
+  Não compareci ao local                                      designado        nem   levei   a
+  documentação solicitada.
+  Não só compareci ao local designado, como também levei a
+  documentação solicitada.
+  Não só compareci ao local designado, mas também levei a
+  documentação solicitada.
+  Não só compareci ao local designado, mas ainda levei a
+  documentação solicitada.
+  Não só compareci ao local designado, bem como levei a
+  documentação solicitada.
+
+
+b) Orações Coordenadas Sindéticas Adversativas
+
+Nas orações coordenadas sindéticas há clara intenção de oposição ou de contraste, o que se
+demonstra pela utilização de conjunções adversativas
+
+        Exemplos de conjunções adversativas: mas, porém, todavia, contudo, no entanto,
+        entretanto, não obstante.
+Exemplos:
+
+  Compareci ao local designado, mas não apresentei a documentação solicitada.
+  Compareci ao local designado, porém não apresentei a documentação solicitada.
+  Compareci ao local designado, todavia não apresentei a documentação solicitada.
+  Compareci ao local designado, contudo não apresentei a documentação solicitada.
+  Compareci ao local designado, no entanto não apresentei a documentação solicitada.
+  Compareci ao local designado, entretanto não apresentei a documentação solicitada.
+  Compareci ao local designado, não obstante não apresentei a documentação solicitada.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                     11
+        www.estrategiaconcursos.com.br                                                           59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+                          A adversidade também pode ocorrer com a presença da conjunção “e”.
+                          Ex.: Ela é inteligente, e ele sempre tira boas notas. (e=mas)
+                          Por outro lado, a conjunção “mas” pode aparecer com valor aditivo.
+                          Ex.: Ela é inteligente, mas principalmente preguiçosa.
+
+
+c) Orações Coordenadas Sindéticas Alternativas
+
+Nas orações coordenadas sindéticas alternativas, há a ideia de escolha ou alternância. A conjunção
+alternativa típica é “ou”, única que pode aparecer apenas na última oração coordenada. As outras
+conjunções alternativas aparecem repetidas.
+
+        Exemplos de conjunções alternativas: ou, ou... ou, ora... ora, já... já, quer... quer, seja... seja,
+        talvez... talvez.
+Exemplos:
+
+  Ande rápido ou chegará atrasado.
+  Ou não prestei atenção ou ele não disse nada sobre isso.
+  Os alunos ora estudam ora se dispersam.
+
+d) Orações Coordenadas Sindéticas Conclusivas
+
+As orações coordenadas sindéticas conclusivas são aquelas em que acontece conclusão ou
+consequência de algo mencionado na oração anterior.
+
+  Exemplos de conjunções conclusivas: logo, pois (depois do verbo), portanto,
+  por conseguinte, por isso, assim.
+Exemplos:
+
+  Não andei rápido, logo chegarei atrasado.
+  Não presta atenção em nada. É, pois, muito desatento.
+  Não andei rápido, portanto chegarei atrasado.
+  Não andei rápido, por conseguinte chegarei atrasado.
+  Não andei rápido, por isso chegarei atrasado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               12
+        www.estrategiaconcursos.com.br                                                                         59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  Não andei rápido, assim chegarei atrasado.
+
+
+e) Orações Coordenadas Sindéticas Explicativas
+
+Orações coordenadas sindéticas explicativas são aquelas que apresentam explicação para uma
+ordem ou suposição feita na oração anterior.
+
+        Exemplos de conjunções explicativas: que, porque, pois (antes do verbo), porquanto.
+
+
+Exemplos:
+
+  Corra, que já estão fechando os portões!
+  Corra, porque já estão fechando os portões!
+  Corra, pois já estão fechando os portões!
+  Corra, porquanto já estão fechando os portões!
+
+                      LISTA COM AS PRINCIPAIS CONJUNÇÕES COORDENATIVAS
+
+Aditivas                                             e, nem, mas também, mas ainda, como também,
+                                                     bem como;
+Adversativas                                         mas, porém, todavia, contudo, entretanto, no
+                                                     entanto, não obstante;
+Alternativas                                         ou, ou...ou, ora...ora, quer...quer, seja...seja;
+Conclusivas                                          assim, logo, portanto, senão, por isso, por
+                                                     conseguinte, pois (após o verbo)
+Explicativas                                         porque, que, porquanto, pois (antes do verbo)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             13
+        www.estrategiaconcursos.com.br                                                                   59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+5.2 – PERÍODO COMPOSTO POR SUBORDINAÇÃO
+
+No período composto por subordinação, há uma oração principal e uma ou mais orações
+subordinadas, dependentes da principal.
+
+                                            Tipos de orações
+                                              subordinadas
+
+                             Substantivas           Adjetivas              Adverbiais
+
+
+a) ORAÇÕES SUBORDINADAS SUBSTANTIVAS
+
+As orações subordinadas substantivas têm função própria de substantivo (sujeito, predicativo,
+objeto direto, objeto indireto, complemento nominal, aposto e agente da passiva).
+
+Tais orações podem ser desenvolvidas ou reduzidas. Quando desenvolvidas, normalmente
+aparecem ligadas à oração principal por meio de conjunção integrante (que, se) ou por meio de
+advérbios relativos (qual, quem, onde, por que, como, quando).
+
+Conforme a função que exerce no período, as orações subordinadas substantivas desenvolvidas
+podem ser assim classificadas:
+
+                                               Classificações das
+                                             orações subordinadas
+                                                SUBSTANTIVAS
+
+
+                      Objetivas       Objetivas         Completiva                                  Agente da
+      Subjetivas                                                        Predicativa     Apositiva
+                       Diretas        Indiretas          Nominal                                     Passiva
+
+a.1) Orações Subordinadas Substantivas Subjetivas
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    14
+        www.estrategiaconcursos.com.br                                                                          59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Têm função de sujeito da oração principal e se organizam da seguinte forma:
+
+ Verbo transitivo direto ou transitivo
+ indireto na 3ª pessoa do singular junto a Espera-se que ele tenha um bom desempenho.
+ pronome apassivador (voz passiva Viu-se que ele estudou.
+ sintética)
+                                                     Está comprovado           que   ele   teve   um   bom
+ Verbo na voz passiva analítica.
+                                                     desempenho.
+ Verbos de          ligação      seguidos       de
+                                                     Era possível que ele tivesse sido aprovado.
+ predicativo.
+ Verbos seguidos de que ou se na 3ª
+                                    Convém que todos estudem.
+ pessoa do singular.
+
+
+a.2) Orações Subordinadas Substantivas Objetivas Diretas
+
+Têm função de objeto direto do verbo da oração principal.
+
+  Eu acredito que ele irá.
+  Disfarçava que era inteligente.
+  Não disse se estudará para o próximo concurso.
+  Adivinhei quem passou na última prova.
+
+
+a.3) Orações Subordinadas Substantivas Objetivas Indiretas
+
+Têm função de objeto indireto do verbo da oração principal.
+
+  Lembre-se de que eu sempre torci por você.
+  Meu pai insiste em minha educação.
+
+a.4) Orações Subordinadas Substantivas Completivas Nominais:
+
+Possuem função de complemento nominal da oração principal. Não há consenso entre a
+possibilidade de retirar ou não a preposição, sem que haja alteração sintática ou semântica.
+
+Para Celso Cunha e Cintra e outros gramáticos, a omissão de preposição não causa prejuízo à oração.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 15
+        www.estrategiaconcursos.com.br                                                                       59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Porém, para outros gramáticos, como Napoleão Mendes, a ausência da preposição altera a sintaxe
+e o sentido da oração. Importante ressaltar que, nas últimas provas, tem-se entendido que a
+preposição é obrigatória.
+
+  Tenho a impressão de que eles não voltarão hoje.
+  Ela ignorou a ordem de que ele deveria visitar os filhos.
+
+
+a.5) Orações Subordinadas Substantivas Predicativas:
+
+Possuem função de predicativo do sujeito da oração principal. Na maioria das vezes, ocorre com o
+uso do verbo “ser”.
+
+  Meu sonho era que ele passasse na prova.
+  Nosso desejo é que chegue logo esse dia.
+
+                                                           Importante!
+               O verbo “ser” seguido de “que” pode ser só uma expressão expletiva, ou seja, que
+               denote realce. Observe os exemplos:
+               Eles é que são inteligentes. (Eles são inteligentes).
+               Eles é que sabem tudo. (Eles sabem tudo).
+
+a.6) Orações Subordinadas Substantivas Apositivas:
+
+Exercem a função de aposto da oração principal.
+
+  Nosso desejo um só: que você passe na prova.
+  Aquela notícia, que nascera o príncipe, foi uma comoção
+  no Reino Unido.
+
+a.7) Orações Subordinadas Substantivas Agentes da Passiva:
+
+Exercem a função de agente da passiva. São orações sempre iniciadas pelas preposições: “por” ou
+“de”.
+
+  Este material foi elaborado por quem torce pelo seu sucesso.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      16
+        www.estrategiaconcursos.com.br                                                             59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+                                                   Importante!
+1) São chamadas de justapostas as orações que não apresentam conectivos, tais como as orações
+substantivas nas quais não se utilizam conjunções integrantes, mas, sim, advérbios relativos
+(quem, qual, onde, por que, como, quando).
+Não sei quem levou o casaco. (oração subordinada objetiva direta)
+Nunca entendi qual era o problema dele. (oração subordinada objetiva direta)
+                                                       ==219a34==
+
+Quem estudou ontem foi ele. (oração subordinada subjetiva)
+
+2) Após alguns verbos que exprimem ordem ou desejo, a conjunção “que” pode ser suprimida.
+Imagino teria passado na prova.
+Queria Deus eu tivesse passado.
+
+b) ORAÇÕES SUBORDINADAS ADJETIVAS
+
+As orações subordinadas adjetivas têm a função análoga a um adjetivo (adjunto adnominal). Podem
+surgir introduzidas por um pronome relativo (que, cujo, o qual etc.) ou sem pronome relativo.
+
+  Essa foi uma parábola muito bonita.
+Conforme a função que exercem no período, as orações subordinadas adjetivas podem ser assim
+classificadas:
+
+                                          Classificações das orações
+                                          subordinadas ADJETIVAS
+
+                               Restritivas            Explicativas             Reduzidas
+
+
+b.1) Orações Subordinadas Adjetivas Restritivas
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                  17
+        www.estrategiaconcursos.com.br                                                            59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+São aquelas que limitam, restringem um ser ou um grupo. Nunca são colocadas entre vírgulas.
+
+  Os alunos                 que         tiveram             maior              rendimento   foram
+  agraciados.
+Como se pode perceber, no exemplo acima, a oração subordinada adjetiva restringe a palavra
+“alunos”, ou seja, estamos falando de um grupo especial de alunos que foram agraciados.
+
+b.2) Orações Subordinadas Adjetivas Explicativas
+
+São as que distinguem o ser ou o conjunto a que se referem. Explicam algum termo da oração
+principal. Estão sempre entre vírgulas.
+
+  Ana, que é excelente aluna, ganhou a medalha de honra ao
+  mérito.
+Nesse exemplo, ser uma excelente aluna é a característica necessária para que Ana tenha ganhado
+a medalha de honra ao mérito. Por isso, trata-se de uma oração subordinada adjetiva explicativa.
+
+b.3) Orações Subordinadas Adjetivas Reduzidas
+
+As orações subordinadas adjetivas reduzidas podem apresentar o verbo no infinitivo, no gerúndio
+ou no particípio.
+
+  Vi o homem correr.
+   (Vi o homem que corria.)
+  O homem, correndo rapidamente, fugiu do local.
+  (O homem, que corria rapidamente, fugiu do local.)
+  Pesquisei a legislação sobre o assunto, mas só achei um
+  projeto de lei vetado pelo Governador.
+  (Pesquisei a legislação sobre o assunto, mas só achei um
+  projeto de lei que foi vetado pelo Governador.)
+
+
+c) ORAÇÕES SUBORDINADAS ADVERBIAIS
+
+As orações subordinadas adverbiais são as que têm função equivalente a um advérbio e, por
+conjunções adverbiais, são introduzidas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        18
+        www.estrategiaconcursos.com.br                                                              59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Dessa forma, elas apontam a circunstância (tempo, modo, causa, condição, etc.) em que ocorre a
+ação verbal da oração principal.
+
+  Quando passei na prova, senti uma das maiores alegrias da
+  vida.
+  Ao parir meu filho, senti uma mistura de dor e alegria
+  inexplicáveis.
+De acordo com a função que exerce no período, a oração subordinada adverbial pode ser assim
+classificada:
+
+
+                                                       Causal
+
+
+                                  Temporal                              Consecutiva
+
+                 Proporcional                                                    Comparativa
+                                                   Oração
+                                                 subordinada
+                                                 ADVERBIAL
+
+                          Final                                               Condicional
+
+                                        Conformativa            Concessiva
+
+c.1) Oração Subordinada Adverbial Causal: indica a causa do fato expresso na oração principal.
+
+  A menina ficou triste porque o pai foi embora. (Oração
+  Subordinada Adverbial Causal)
+Logo, não ter mais a presença do pai foi a causa da tristeza da menina.
+
+c.2) Oração Subordinada Adverbial Consecutiva: indica a consequência do fato da oração principal.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                     19
+        www.estrategiaconcursos.com.br                                                              59
+                                         
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  O aluno estudou tanto que ficou                                                    louco.   (Oração
+  Subordinada Adverbial Consecutiva)
+Logo, ter ficado louco foi uma consequência do fato de o aluno ter estudado tanto.
+
+c.3) Oração Subordinada Adverbial Comparativa: indica relação de comparação entre os fatos
+expressos nas orações.
+
+Principal conjunção subordinativa comparativa: “como”.
+
+  Ele estuda como um cientista. (Oração Subordinada
+  Adverbial Comparativa)
+c.4) Oração Subordinada Adverbial Condicional: indica condição sob a qual se realiza a oração
+principal.
+
+  Se chover, faremos boa colheita. (Oração Subordinada
+  Adverbial Condicional)
+c.5) Oração Subordinada Adverbial Concessiva: transparece uma situação contrária ao que foi dito
+na oração principal.
+
+  Farei a prova mesmo que ele                                                  não    faça.   (Oração
+  Subordinada Adverbial Concessiva)
+  Ainda que chovesse, vesti o biquíni. (Oração Subordinada
+  Adverbial Concessiva)
+c.6) Oração Subordinada Adverbial Conformativa: indica adequação ou conformidade com a oração
+principal.
+
+Principais conjunções subordinativas conformativas: conforme, consoante e segundo.
+
+  Ele operou a menina conforme tinha prometido. (Oração
+  Subordinada Adverbial Conformativa)
+c.7) Oração Subordinada Adverbial Final: indica a finalidade para a qual se destina a oração
+principal.
+
+Principais conjunções subordinativas finais: a fim de que, que, para que, porque (= para que) etc.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                            20
+        www.estrategiaconcursos.com.br                                                                  59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+  Batalhou bastante para que pudesse fazer essa viagem.
+  (Oração Subordinada Adverbial Final)
+
+
+c.8) Oração Subordinada Adverbial Proporcional: indica fatos direta ou inversamente
+proporcionais.
+
+Principais conjunções subordinativas proporcionais: à proporção que, à medida que, ao passo que
+etc.
+
+  À medida que crescia, ficava mais                                            bela.   (Oração
+  Subordinada Adverbial Proporcional)
+c.9) Oração Subordinada Adverbial Temporal: indica em que tempo ocorreu o fato da oração
+principal.
+
+Principal conjunção subordinativa temporal: quando.
+
+  Quando lembrei de você, já tinham cantado os parabéns.
+  (Oração Subordinada Adverbial Temporal)
+
+6 - PONTUAÇÃO
+
+6.1 - VÍRGULA
+
+A ordenação dos termos na estrutura de uma oração define a presença ou ausência da vírgula.
+Vamos explicar isso melhor!
+
+Caso a oração esteja na ordem direta, não há a presença de vírgula entre seus termos essenciais:
+sujeito, verbo e complemento.
+Exemplo:
+
+Ele passará no próximo concurso do Tribunal de Contas da
+União.
+
+
+Por sua vez, o uso da vírgula, tanto no meio da oração quanto entre orações, possui muitas funções,
+e a estruturação semântica do seu texto está diretamente relacionada ao domínio de sua utilização.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      21
+        www.estrategiaconcursos.com.br                                                                59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Vejamos, então, as principais regras de como usá-la:
+
+6.1.1 - EMPREGO DA VÍRGULA EM RELAÇÕES SINTÁTICAS INTRAORACIONAIS
+
+a) Para isolar adjuntos adverbiais deslocados: é o termo da oração que indica uma circunstância.
+O adjunto adverbial é o termo que modifica o sentido de um verbo, de um adjetivo ou de
+um advérbio. As principais circunstâncias são as de tempo, lugar, causa, modo, meio, afirmação,
+negação, dúvida, intensidade, finalidade, condição, assunto, preço, etc.
+
+
+Os adjuntos adverbiais estarão deslocados quando estiverem no início ou no meio do período. Para
+saber se a vírgula é obrigatória ou não, basta verificar se o termo adverbial é de curta ou de longa
+extensão.
+Em alguns casos, a vírgula não será obrigatória, pois, às vezes, ela tira a linearidade, eliminando,
+assim, a clareza da frase.
+O parágrafo anterior pode servir-nos de exemplo para o que acabamos de ler: a não obrigatoriedade
+da vírgula. Vamos reescrevê-lo:
+Em alguns casos a vírgula não será obrigatória, pois às vezes ela tira a linearidade, eliminando
+assim a clareza da frase.
+
+Vejamos alguns exemplos de adjuntos adverbiais separados por vírgula:
+
+                                                                     Vírgulas obrigatórias
+
+Adj. Adv. tempo deslocado (de longa extensão)
+
+No segundo semestre de 2018, haverá, segundo especialistas, redução do ritmo inflacionário.
+                                                                Adj. Adv. conformidade deslocado
+                       Vírgula obrigatória.                           (de longa extensão)
+
+Em 2017, houve transformações no país.
+                            Vírgula opcional
+
+Recentemente, o processo democrático sofreu ataques.
+
+                                 Vírgula opcional
+
+À noite, haverá sessão extra no Senado Federal.
+                  Vírgula opcional
+
+Depois de vários debates em plenário, decidiram afastar o senador.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                     22
+          www.estrategiaconcursos.com.br                                                               59
+                                                
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+                                                                 Vírgula obrigatória
+
+
+Entre os princípios da Administração Pública, está a eficiência.
+
+                                                                                   Vírgula obrigatória
+
+
+Nas ruas, brasileiras lutam por interesses coletivos.
+
+                   Vírgula obrigatória para evitar ambiguidade
+
+
+Nas ruas brasileiras, lutam por interesses coletivos.
+
+                                     Vírgula obrigatória para evitar ambiguidade
+
+                              Adj. Adv. tempo.
+                                                            VTD
+Parlamentares, após diversas manifestações da população, aprovaram, aproximadamente, dez projetos.
+
+     Sujeito                                                                                                       OD
+                             Vírgulas obrigatórias                                     Vírgulas optativas
+
+Deve-se prestar atenção, também, para não separar o complemento do verbo. Nesse caso, a vírgula
+é proibida. Vejamos:
+
+                                                     OI
+        VTDI
+Comunicamos, a todos os servidores deste órgão, todas as mudanças.
+                                                                                                    OD
+                        Vírgulas proibidas (não separa o verbo dos complementos)
+
+                             Vírgulas obrigatórias
+                                                                                                    Partícula Apassivadora
+                                                                           VTD
+No Brasil, após duas décadas de muita luta, criaram-se leis favoráveis à mulher.
+Adj. Adv. lugar                 Adj. Adv. tempo.                                                         Sujeito paciente
+
+No Brasil – país de fortes desigualdades sociais –, investe-se pouco em educação.
+                                Aposto explicativo
+                                                                                       Vírgula obrigatória.
+
+b) Para isolar os objetos pleonásticos: Haverá objeto pleonástico quando um verbo possuir dois
+complementos que se referem a um elemento só.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Português                                              23
+           www.estrategiaconcursos.com.br                                                                                    59
+                                           
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Os meus amigos, sempre os respeito.
+Aos devedores, perdoe-lhes as dívidas.
+
+
+c) Para isolar o aposto explicativo: já falamos do aposto em aula anterior, mas vale a pena
+relembrarmos.
+Londrina, a terceira cidade do Sul do Brasil, é aprazibilíssima.
+
+d) Para isolar o vocativo:
+Parabéns, Brasília.
+Deus o abençoe, João.
+e) Para isolar predicativo do sujeito deslocado, quando o verbo não for de ligação:
+
+Os jovens, revoltados, retiraram-se do recinto.
+
+f) Para separar elementos coordenados: elementos coordenados são enumerações de termos que
+exercem a mesma função sintática.
+
+As crianças, os pais, os professores e os diretores irão ao passeio cultural.
+
+g) Para indicar a elipse do verbo: elipse é a omissão de um verbo já escrito anteriormente.
+
+Ela prefere estudar contabilidade; o namorado, direito. (o namorado prefere estudar
+matérias de direito)
+h) Para separar, nas datas, o lugar:
+Brasília, 22 de setembro de 2019.
+
+i) Para isolar conjunção coordenativa intercalada: as conjunções coordenativas que nos
+interessam para essa regra são porém, contudo, no entanto, entretanto, todavia, logo, portanto,
+por conseguinte, então.
+Os professores ensinaram toda a matéria. Os alunos, por conseguinte, sentiram-se
+confiantes na prova.
+O aluno está bem preparado; tem, portanto, condições de ser aprovado no concurso.
+
+j) Para isolar as expressões explicativas:
+Todos os cidadãos deveriam conhecer os princípios constitucionais que regem a
+Administração Pública, quais sejam: legalidade, impessoalidade, moralidade, publicidade
+e eficiência.
+
+
+6.1.2 - EMPREGO DA VÍRGULA EM RELAÇÕES SINTÁTICAS INTERORACIONAIS
+
+a) Período composto por coordenação: as orações coordenadas devem sempre ser separadas por
+vírgula. Orações coordenadas são as que indicam adição (e, nem, mas também), alternância (ou, ou
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                   24
+        www.estrategiaconcursos.com.br                                                             59
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+... ou, ora ... ora), adversidade (mas, porém, contudo...), conclusão (logo, portanto...) e explicação
+(porque, pois).
+
+
+b) Período composto por subordinação:
+Orações Subordinadas Substantivas: não se separam por vírgula. As orações subordinadas
+substantivas são as que exercem a função de sujeito, objeto direto, objeto indireto, predicativo do
+sujeito, complemento nominal.
+Exceção: as orações subordinadas substantivas apositivas podem ser separadas por vírgulas.
+
+                                                         Isto
+
+
+É importante que ressaltem a importância das boas ações.
+Oração principal
+                                    Conjunção integrante
+
+                                  O. Subordinada Substantiva Subjetiva Desenvolvida (Sujeito Oracional)
+
+                                                      Isto
+
+É importante ressaltar o valor das boas ações.
+Oração principal
+
+
+                           O. Subordinada Substantiva Subjetiva Reduzida de Infinitivo.
+
+
+                                                                  Isto
+
+  Sujeito          VTD
+Todos afirmam haver solução para a corrupção no Brasil.
+
+                                  Oração Subordinada Substantiva Objetiva Direta reduzida de Infinitivo.
+
+
+                                                         Isto
+
+  VTD
+Sabe-se que existem milhões de brasileiros desamparados.
+
+                    Partícula Apassivadora
+
+                                     O. Subordinada Substantiva Subjetiva Desenvolvida
+
+                                                       Isto
+
+Não há dúvida sobre sermos persistentes.
+
+
+                          O. Subordinada Substantiva Completiva Nominal Reduzida de Infinitivo
+                    VTI
+O projeto visa a resgatar valores humanos.
+
+
+            Receita Federal (Analista Tributário) Passo Estratégico de Português                           25
+            www.estrategiaconcursos.com.br                                                                 59
+                                                
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+              Oração Subordinada Substantiva Objetiva Indireta Reduzida de Infinitivo.
+
+Os alunos tinham um grande objetivo: passar no concurso público. EXCEÇÃO!!!
+
+                                             O. S.S. Apositiva Reduzida de Infinitivo (reitera objetivo)
+
+Os alunos tinham um grande objetivo, passar no concurso público.
+
+                                            O. S.S. Apositiva Reduzida de Infinitivo (reitera objetivo)
+
+
+Os alunos tinham um grande objetivo – passar no concurso público.
+
+                                                O. S.S. Apositiva Reduzida de Infinitivo (reitera objetivo
+
+                                                     MUITO IMPORTANTE!
+                      Basta considerar as funções sintáticas exercidas pelas orações subordinadas
+                      substantivas para fazer a pontuação dos períodos compostos.
+                      Não se separam por vírgula da oração principal as orações subjetivas, objetivas
+                      diretas, objetivas indiretas, completivas nominais e predicativas, haja vista que
+                      sujeitos, complementos nominais e verbais não são separados por vírgulas dos
+                      termos a que se ligam. Mesma coisa cabe nos predicados nominais, aos
+                      predicativos.
+                      Por sua vez, a oração subordinada substantiva apositiva deve ser separada da
+                      oração principal por virgula ou dois pontos, tal como ocorre com o aposto.
+
+b.1) Oração Subordinada Adjetiva: só a explicativa é separada por vírgula; a restritiva não!
+As orações subordinadas adjetivas são as iniciadas por um pronome relativo.
+
+                                                           Vírgula proibida.
+
+
+Deve-se punir o administrador que desvia dinheiro público.
+
+                                                                 O.S. Adjetiva Restritiva.
+
+                                                               o qual
+
+                                                                                        Vírgula obrigatória.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   26
+        www.estrategiaconcursos.com.br                                                                         59
+                                         
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+A Lei Maria da Penha atingirá as mulheres brasileiras, que merecem tratamento digno.
+
+                                                                                         O.S. Adjetiva Explicativa.
+
+                                                                                         As quais
+
+                                                         Vírgula obrigatória.
+
+
+A regra consta da Lei 8.666/1993, que prevê modalidades de licitação.
+                                                                          O.S. Adjetiva Explicativa.
+                                                             a qual
+
+b.2) Oração Subordinada Adverbial: deve ser separada por vírgula quando estiver no início ou no
+meio do período. Se estiver ao final, a vírgula será opcional.
+                                                 Vírgula opcional
+
+
+O juiz não condenou os réus, embora houvesse provas contra eles.
+                                                                   O.S.Adverbial Concessiva
+
+                                                                   Vírgula obrigatória
+
+
+Embora houvesse provas contra eles, o juiz não condenou os réus.
+              O.S.Adverbial Concessiva
+
+                                               Vírgula opcional
+     (consequência, efeito, corolário)                (causa, razão, motivo)
+
+Não se concretizou a meta, porque houve má gestão.
+
+                                              O.S.Adverbial Causal Desenvolvida.
+
+                                             Vírgula obrigatória
+
+Porque houve má gestão, não se concretizou a meta.
+  O.S.Adverbial Causal Desenvolvida.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                          27
+        www.estrategiaconcursos.com.br                                                                                59
+                                         
+
+
+---
+
+    Carlos Roberto Correa
+    Aula 08
+
+6.2 – O PONTO E VÍRGULA
+
+Na escrita, o ponto e vírgula denota uma pausa um pouco mais longa que a vírgula e um pouco mais
+breve que o ponto.
+
+A sistematização da utilização do ponto e vírgula ocorre apenas em três casos:
+
+a) entre itens de lei, de portarias, de decretos, de regimentos, etc.;
+b) entre orações coordenadas que já apresentam vírgulas; e
+c) entre orações coordenadas longas.
+
+a) entre itens de lei, de portarias, de decretos, de regimentos, etc.:
+Art. 5º Os cargos em comissão, destinados exclusivamente às atribuições de direção, chefia
+e assessoramento, são de livre nomeação e exoneração pela autoridade competente.
+§ 1º Para os fins desta Lei Complementar, considera-se cargo em comissão:
+I – de direção: aquele cujo desempenho envolva atribuições da administração superior;
+II – de chefia: aquele cujo desempenho envolva relação direta e imediata de subordinação;
+III – de assessoramento: aquele cujas atribuições sejam para auxiliar:
+a) os detentores de mandato eletivo;
+b) os ocupantes de cargos vitalícios;
+c) os ocupantes de cargos de direção ou de chefia.2
+
+
+b) entre orações coordenadas que já apresentam vírgulas:
+Lágrimas, dedicação, privações, as dificuldades passaram como um filme em sua cabeça; e
+a felicidade estampada em seu rosto ao receber a notícia da aprovação.
+
+c) entre orações coordenadas longas.
+Os fatos são inequívocos quando se fala em aumento do aquecimento global; e demonstram
+a necessidade de que algo deve ser feito com urgência.
+
+As orações coordenadas são separadas por vírgulas. Em particular, as coordenadas adversativas e
+conclusivas podem ser separadas por ponto e vírgula, mesmo quando são curtas.
+Tal uso permite intensificar a oposição ou conclusão existentes.
+Exemplos:
+As ideias são muito ambiciosas; todavia, jamais desistirei de sonhar.
+O resultado demorou muito para sair; por isso continuei estudando para outros concursos.
+
+2
+    Lei Complementar nº 840, de 23 de dezembro de 2011.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                    28
+          www.estrategiaconcursos.com.br                                                           59
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+6.3 – OS DOIS-PONTOS
+
+A utilização dos “dois pontos” ocorre principalmente nas seguintes situações:
+
+a) antes de uma enumeração;
+b) antes do início da fala;
+c) iniciar conclusão ou esclarecimento do que já foi referido; e
+d) antes de uma citação.
+
+Seguem exemplos para cada uma das situações mencionadas.
+a) antes de uma enumeração:
+Os motivos do aquecimento global são evidentes: poluição, desmatamento e intensificação
+do efeito estufa.
+
+b) antes do início da fala:
+E ela concluiu:
+- Não me procure mais.
+c) iniciar conclusão ou esclarecimento do que já foi referido:
+Minha avó foi a mulher mais guerreira que conheci: criou dezoito filhos, cuidava da
+fazenda e ainda conseguiu escrever três livros maravilhosos.
+
+d) antes de uma citação
+Assim disse Jesus: “Deixai vir a mim as crianças, pois delas é o reino do Céu”.
+
+6.4 – AS RETICÊNCIAS
+
+As reticências são utilizadas para demonstrar uma interrupção na sequência habitual da oração.
+Dentre as principais aplicações das reticências, servem para:
+
+
+a) marcar a exclusão de trecho de um texto;
+b) demonstrar dúvida, surpresa ou indecisão; e
+c) indicar a interrupção de fala em um diálogo.
+a) marcar a exclusão de trecho de um texto:
+
+Art. 5º Os cargos em comissão, destinados exclusivamente às atribuições de direção, chefia
+e assessoramento, são de livre nomeação e exoneração pela autoridade competente.
+(...)
+III – de assessoramento: aquele cujas atribuições sejam para auxiliar:
+a) os detentores de mandato eletivo;
+b) os ocupantes de cargos vitalícios;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                 29
+        www.estrategiaconcursos.com.br                                                           59
+                                    
+
+
+---
+
+    Carlos Roberto Correa
+    Aula 08
+
+c) os ocupantes de cargos de direção ou de chefia.3
+
+b) demonstrar dúvida, surpresa ou indecisão:
+Tão longe...tão calado... não tinha a menor noção do que ele imaginava.
+
+c) indicar a interrupção de fala em um diálogo:
+- Por que você não conversa comigo?
+- Tenho meus motivos...
+- Se conseguisse se expressar melhor, não seria tão rancoroso.
+
+
+6.5 – AS ASPAS
+
+As aspas possuem empregos variados em diferentes tipos de textos. Seguem abaixo os casos nos
+quais mais frequentemente encontramos o uso das aspas.
+
+
+a) destacar palavras estrangeiras, gírias, neologismos, etc;
+b) dar sentido irônico a palavra ou expressão;
+c) delimitar transcrição literal de uma fala ou trecho de texto; e
+d) destacar títulos de obras.
+
+
+a) destacar palavras estrangeiras, gírias, neologismos, etc.:
+O “impostômetro”, criado em 2005, estima o valor total de impostos, taxas, contribuições e
+multas que a população brasileira paga para a União, os estados e os municípios.
+
+b) dar sentido irônico a palavra ou expressão:
+Sempre foi um “modelo” de educação: desrespeitava os mais velhos, fugia da escola e
+agredia as outras crianças na rua.
+
+c) delimitar transcrição literal de uma fala ou trecho de texto:
+“A pior filosofia é a do choramingas que se deita à margem do rio para o fim de lastimar
+o curso incessante das águas”. (Machado de Assis, em Memórias Póstumas de Brás Cubas)
+
+d) destacar títulos de obras:
+Em “Memórias Póstumas de Brás Cubas”, Machado de Assis afirmou que a pior filosofia é
+a do choramingas.
+
+
+Regras para a pontuação quando houver aspas:
+
+3
+    Lei Complementar nº 840, de 23 de dezembro de 2011.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português             30
+          www.estrategiaconcursos.com.br                                                       59
+                                      
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Se a frase começa e termina com aspas, o ponto deve ficar dentro das aspas.
+Exemplo:
+“A pior filosofia é a do choramingas que se deita à margem do rio para o fim de lastimar
+o curso incessante das águas.” (Machado de Assis)
+
+Se a frase não está integralmente dentro das aspas, a pontuação deve ficar fora das aspas. Exemplo:
+Concordo com Machado de Assis, que dizia, sabiamente: “A pior filosofia é a do choramingas
+que se deita à margem do rio para o fim de lastimar o curso incessante das águas”.
+
+6.6 – O TRAVESSÃO
+
+
+a) iniciar fala de personagem no discurso direto;
+b) destacar palavras ou frases explicativas; e
+c) separar orações intercaladas no texto.
+
+
+Apesar das aspas e do travessão possuírem o mesmo objetivo, é mais usual a utilização de travessões
+em diálogos, haja vista conferirem maior fluidez ao texto.
+a) iniciar fala de personagem no discurso direto:
+A mãe já estava nervosa quando gritou:
+
+– Pare de agir como seu pai!
+b) destacar palavras ou frases explicativas:
+– Não estou agindo como meu pai! – respondeu o menino. E começou a chorar, assustado
+com o tom de voz da mãe que jamais ouvira.
+
+                      LISTA COM AS PRINCIPAIS CONJUNÇÕES SUBORDINATIVAS
+
+ Integrantes                                         que, se
+
+ Causais                                             porque, visto que, pois que, como, já que
+ Consecutivas                                        tão...que, tal...que, de modo que
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      31
+        www.estrategiaconcursos.com.br                                                                59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+ Comparativas                                        como, (mais) que, (menos) que, assim como, tanto
+                                                     (tão) quanto
+ Condicionais                                        se, caso, uma vez que, desde que, salvo se, sem que
+ Conformativas                                       conforme, segundo, consoante, como;
+ Finais                                              para que, a fim de que, de sorte que, de forma que
+ Concessivas                                         embora, ainda que, se bem que, conquanto, mesmo
+                                                     que
+ Proporcionais                                       à medida que, à proporção que, quanto
+                                                     mais...menos
+ Temporais                                           quando, mal, logo que, assim que, sempre que,
+                                                     depois que
+
+7 - APOSTA ESTRATÉGICA
+Sempre há questões tanto sobre o assunto coordenação quanto sobre subordinação. No geral, são
+questões feitas com base em orações retiradas de um texto e é solicitado que se classifique as tais orações.
+Para se sair bem nessas questões, o candidato precisa conhecer bem o conceito de oração e de período,
+além de saber interpretar a relação existente entre uma oração e outra dentro do contexto apresentado.
+As mais cobradas, na área das orações subordinadas, são as substantivas (que oferecem um grau um pouco
+maior de dificuldade para serem identificadas) e as adverbiais. Podem ocorrer questões sobre orações
+subordinadas adjetivas reduzidas também, portanto temos que ficar atentos!
+No que respeita à pontuação, ATENÇÃO sempre cai vírgula! Sendo assim, é extremamente importante
+estudar e dominar esse assunto. Também podemos esperar questões sobre parênteses, aspas e travessões.
+
+8 - QUESTÕES-CHAVE DE REVISÃO
+                                       Orações adjetivas reduzidas
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+Na tentativa de dar concisão, muitas orações adjetivas podem ser substituídas por adjetivos; a opção abaixo
+em que essa substituição foi corretamente realizada é:
+a) Não há bem que sempre dure / efêmero;
+b) Nem tudo que reluz é ouro / iluminado;
+c) Fatos que se repetem são cansativos / frequentes;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  32
+        www.estrategiaconcursos.com.br                                                                         59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+d) Sentimentos que duram pouco trazem dor / passageiros;
+e) Muitas moedas que são guardadas perdem valor / resguardadas.
+
+                                               Orações reduzidas
+Questão 02
+FGV - Contador (SEFIN RO)/2018
+
+
+Do que as pessoas têm medo?
+A geração pós-1980 e início de 1990 só conhece os tempos militares pelos livros de História e pelas séries da
+TV. Para a maioria dela, as palavras “democracia” e “liberdade” têm sentido diferente daquele para quem
+conheceu a falta desses direitos e as consequências de brigar por eles. Se hoje é possível existir redes sociais;
+se é possível que pessoas se organizem em grupos ou movimentos e digam ou escrevam o que querem e o
+que pensam, devem-se essas prerrogativas a quem no passado combateu as arbitrariedades de uma
+ditadura violenta, a custo muito alto.
+A liberdade não é um benefício seletivo. Não existe numa sociedade quando alguns indivíduos têm mais
+liberdade que outros, ou quando a de uns se sobrepõe à de outros.
+É fundamental para a evolução das sociedades compreender que o status quo das culturas está sempre se
+modificando, e que todas as modificações relacionadas aos costumes de cada época precisaram quebrar
+paradigmas que pareciam imutáveis. Foi assim com a conquista do voto da mulher, com a trajetória até o
+divórcio e para que a “desquitada” deixasse de ser discriminada. Foi assim, também, com outros costumes:
+o comprimento das saias, a introdução do biquíni, a inclusão racial, as famílias constituídas por união
+estável, o primeiro beijo na TV e tantas outras mudanças que precisaram vencer os movimentos
+conservadores até conseguirem se estabelecer. Hoje, ninguém se importa em ver um casal se beijando
+numa novela (desde que o casal seja formado por um homem e uma mulher). Há pouco mais de 60 anos, o
+primeiro beijo na TV, comportado, um encostar de lábios, foi um escândalo para a época.
+A questão do momento é se existe limite para a expressão da arte.
+                                                              Simone Kamenetz, O Globo, 18/10/2017. (Adaptado)
+
+
+Um dos conselhos para uma boa escrita é que as frases de um texto tenham a mesma organização sintática
+numa enumeração.
+No fragmento “Se hoje é possível existir redes sociais; se é possível que pessoas se organizem em grupos...”,
+para que as duas frases tenham a mesma organização, a mudança adequada seria:
+a) a primeira frase deveria ser “Se é possível que existam redes sociais”.
+b) a primeira frase deveria ser “Se é possível a existência de redes sociais”.
+c) a segunda frase deveria ser “se é possível a organização de pessoas em grupos”.
+d) a segunda frase deveria ser “se é possível que pessoas sejam organizadas em grupos”.
+e) a segunda frase deveria ser “se é possível pessoas organizando-se em grupos”.
+
+                                                Oração reduzida
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                   33
+         www.estrategiaconcursos.com.br                                                                             59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Questão 03
+FGV - Auxiliar Judiciário (TJ AM)
+
+
+Carrocinha de pipoca
+Eu sei que a coisa é séria. Se o Kim Jong‐Um disparar mesmo os foguetes que está ameaçando disparar
+contra bases americanas na Ásia, teremos uma guerra nuclear com dimensões e consequências
+imprevisíveis. Mas lendo sobre o perigo iminente não pude deixar de pensar na história do homem que foi
+atropelado por uma carrocinha de pipoca. Era um homem cauteloso, que olhava para os dois lados antes de
+atravessar a rua e só atravessava no sinal, e que dificilmente um carro pegaria. Mas que um dia não viu que
+vinha uma carrocinha de pipoca, e paft. Já no ambulatório do hospital, onde lhe deram uns pontos no braço,
+o homem disse que tinha sido atropelado por um motoboy. Em casa, contou que tinha sido atropelado por
+um carro e só por sorte escapara da morte. Naquela noite, para os amigos que souberam do acidente e
+foram visitá‐lo, especificou: tinha sido atropelado por um BMW. No dia seguinte disse aos colegas de
+trabalho que tinha sido atropelado por um caminhão e que não sofrera mais que um corte no braço, por
+milagre. E quando um dos colegas de trabalho comentou que tinha visto o acidente e vira o homem ser
+atropelado por uma carrocinha de pipoca, gritou: “Calúnia!”
+Por que me lembrei do homem que tinha vergonha de ter sido atropelado por uma carrocinha de pipoca?
+Desde o fim da Guerra Fria a possibilidade de um confronto nuclear entre duas potências, os Estados Unidos
+e a Rússia, diminuiu, mas os estoques de armas nucleares continuaram e sua proliferação também. Israel se
+segura para não usar seus foguetes para destruir as bombas nucleares que o Irã está ou não está
+construindo, Índia e Paquistão vivem comparando seus respectivos arsenais nucleares como guris
+comparam seus pipis, a França e a Inglaterra têm a bomba... Enfim, ainda se vive num frágil equilíbrio de
+terror possível, exigindo de todos os nucleares um cuidado extremo, um cuidado de atravessar a rua sem
+serem atropelados pelo imprevisto. E aí aparece o Kim Jong‐Um empurrando uma carrocinha de pipoca em
+alta velocidade...
+                                                                  (Luiz Fernando Veríssimo, O Globo, 11/04/2013)
+
+
+“Enfim, ainda se vive num frágil equilíbrio de terror possível, exigindo de todos os nucleares um cuidado
+extremo”.
+
+A forma de gerúndio – exigindo – equivale sintática e semanticamente a
+a) por exigir.
+b) quando exige.
+c) embora exija.
+d) para exigir.
+e) que exige.
+
+                                       Subordinação e coordenação
+Questão 04
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                  34
+         www.estrategiaconcursos.com.br                                                                            59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+FGV - Consultor Legislativo Especial (ALEMA)/Direito Constitucional
+
+
+Cobrar responsabilidade
+No início do mês, um assaltante matou um jovem em São Paulo com um tiro na cabeça, mesmo depois de
+a vítima ter lhe passado o celular. Identificado por câmeras do sistema de segurança do prédio do rapaz, o
+criminoso foi localizado pela polícia, mas – apesar de todos os registros que não deixam dúvidas sobre a
+autoria do assassinato – não ficará um dia preso. Menor de idade, foi “apreendido” e levado a um centro de
+recolhimento. O máximo de punição a que está sujeito é submeter‐se, por três anos, à aplicação de medidas
+“socioeducativas”.
+Não é um caso isolado na crônica de crimes cometidos por menores de idade no país. Mas houve, nesse
+episódio de São Paulo, uma circunstância que o transformou em mais um exemplo emblemático do
+equivocado abrigo legal que o Estatuto da Criança e do Adolescente confere a criminosos que estão longe
+de poderem justificar suas ações com o argumento da imaturidade: ao disparar friamente contra o
+estudante paulista, a assaltante estava a três dias de completar 18 anos. Pela selvageria do assassinato, o
+caso remete à barbárie de que foi vítima, no Rio, o menino João Hélio, em 2007. Também nesse episódio,
+um dos bandidos que participaram do martírio do garoto estava a pouco tempo de atingir a maioridade.
+Nos dois casos, convencionou‐se, ao anteparo do ECA, que a diferença de alguns dias – ou, ainda que o
+fosse, de alguns meses – teria modificado os padrões de discernimento dos assassinos. Eles não saberiam o
+que estavam fazendo. É um tipo de interpretação que anaboliza espertezas da criminalidade, como o
+emprego de menores em ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto
+a jovens criminosos para afrontar a lei.
+O raciocínio, nesses casos, é tão cristalino quanto perverso: colocam‐se jovens, muitos dos quais mal
+entraram na adolescência, na linha de frente de ações criminosas porque, protegidos pelo ECA, e diante da
+generalizada ruína administrativa dos órgãos encarregados de aplicar as medidas socioeducativas, na
+prática eles são inimputáveis. Tornam‐se, assim, personagens de vestibulares para a entrada em definitivo,
+sem chances de recuperação, numa vida de crimes.
+É dever do Estado (em atendimento a um direito inalienável) prover crianças e adolescentes com cuidados,
+segurança, oportunidades, inclusive de recuperação diante de deslizes sociais. Neste sentido, o ECA
+mantém dispositivos importantes, que asseguram proteção a uma parcela da população em geral incapaz
+de discernir entre o certo e o errado à luz das regras sociais. Mas, se estes são aspectos consideráveis, por
+outro lado é condenável o viés paternalista de uma lei orgânica que mais contempla direitos do que cobra
+obrigações daqueles a quem pretende proteger.
+O país precisa rever o ECA, principalmente no que tange ao limite de idade para efeitos de responsabilidade
+criminal. É uma atitude que implica coragem (de enfrentar tabus que não se sustentam no confronto com a
+realidade) e o abandono da hipocrisia (que tem cercado esse imprescindível debate).
+                                                                                       (O Globo, 22/04/2013)
+
+
+Assinale a alternativa cuja oração sublinhada exemplifica o processo de coordenação.
+a) “É dever do Estado (em atendimento a um direito inalienável) prover crianças e adolescentes com cuidados,
+segurança, oportunidades, inclusive de recuperação diante de deslizes sociais”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                35
+        www.estrategiaconcursos.com.br                                                                          59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+b) “Neste sentido, o ECA mantém dispositivos importantes, que asseguram proteção a uma parcela da
+população em geral incapaz de discernir entre o certo e o errado à luz das regras sociais”.
+c) “Mas, se estes são aspectos consideráveis, por outro lado é condenável o viés paternalista de uma lei orgânica
+que mais contempla direitos do que cobra obrigações daqueles a quem pretende proteger”.
+d) “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+e) “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+
+                                    Subordinação – oração adverbial
+Questão 05
+FGV - Analista (DPE MT)/Advogado/2015
+
+Assim que pisa em solo estrangeiro, todo turista logo é descoberto. Suas roupas, seus gestos, e,
+principalmente, sua fala e sotaque revelam. Só poucos minutos de convivência com os nativos e o
+estrangeiro é abordado e questionado: “De onde vem? Onde nasceu? O que veio fazer aqui?”.
+Essa recepção é tão usual que qualquer curso de línguas inclui em suas primeiras aulas um treino de
+perguntas e respostas dessa conversa entre estrangeiros chegando a um país e os locais.
+Nós, brasileiros, conhecemos bem esta história. O brasileiro que viaja ao exterior está acostumado a ouvir:
+“É brasileiro? Gosto muito dos brasileiros! Vejo um brasileiro e lembro do samba, do Carnaval, e do futebol. Que
+coisa linda!”.
+Com orgulho, o brasileiro sorri e confirma: “Sim, sou brasileiro!”. E esse diálogo abre as portas lá fora,
+rendendo diversas perguntas sobre futebol, carnaval e samba, e abrindo chance para bons relacionamentos
+com os locais.
+Por outro lado, esta mesma conversa no exterior é tão repetida que incomoda muitos de nós. Entre os
+turistas que se sentem assim, é consenso que a visão do Brasil pelo estrangeiro como o país do Carnaval,
+samba e futebol é muito pequena (e até ofensiva) para um país grande e diverso.
+O fato é que, agradando ou incomodando, sabemos que a identidade do brasileiro é inevitavelmente ligada
+a esta trinca. E isto não é tão mau assim. Se os estrangeiros tocam neste assunto é porque pensam em um
+mar de emoções positivas. Felicidade, descontração, relaxamento, enfim, tudo o que um ser humano sonha
+de bom para a vida.
+Não é para menos que, ao nos conhecer, muitos se abrem em um grande sorriso, e procuram prolongar ao
+máximo a conversa com um brasileiro na tentativa de se manter alegres. Nossa identidade é invejada e
+desejada por qualquer estrangeiro!
+                                                                               (Comportamento, julho de 2014)
+
+
+As frases de um texto são organizadas em relações semânticas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                       36
+        www.estrategiaconcursos.com.br                                                                              59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+No caso da frase “Assim que pisa em solo estrangeiro, todo turista logo é descoberto.”, as duas orações que
+compõem o período apresentam a seguinte relação:
+a) localização espacial / causa da oração anterior.
+b) localização temporal / consequência.
+c) afirmação / explicação.
+d) situação temporal / ação posterior.
+e) situação espacial / ação anterior.
+
+                                 Subordinação - Orações substantivas
+Questão 06
+FGV - Analista Judiciário (TRE PA)/Judiciária
+
+
+Financiamento de campanhas eleitorais: aspectos éticos
+Além dos aspectos legais, as empresas que decidirem participar do processo eleitoral devem buscar
+procedimentos éticos na tomada de decisões relacionadas ao financiamento de candidatos e partidos
+políticos.
+Tradicionalmente, os controladores das empresas são os responsáveis pela decisão de como os recursos
+devem ser distribuídos entre candidatos e partidos. Os sócios e colaboradores dificilmente são consultados,
+e muitas vezes o apoio reflete mais as posições pessoais dos controladores do que os valores e princípios
+das empresas.
+A consulta aos sócios e colaboradores sobre candidatos e partidos que a empresa deve apoiar não implica,
+necessariamente, transformar a decisão desse apoio em algo coletivo. O simples fato de consultá-los ajuda
+a criar um ambiente socialmente responsável nas empresas. É certo que a separação dos valores e princípios
+pessoais dos controladores dos valores e princípios das empresas e, mais ainda, a transformação dessa
+dissociação em um novo critério para a tomada de decisões sobre aspectos tão sensíveis como o apoio a
+determinado partido ou candidato ainda é uma atitude difícil para grande parte dos empresários. Também
+é certo, por outro lado, que, ao aumentarem a transparência do processo de tomada de decisões, as
+empresas adquirem o respeito das pessoas e comunidades que são impactadas por suas atividades e são
+gratificadas com o reconhecimento e engajamento dos seus colaboradores e a preferência dos
+consumidores, em consonância com o conceito de responsabilidade social, o qual, é sempre bom lembrar,
+está se tornando cada vez mais fator de sucesso empresarial e abrindo novas perspectivas para a construção
+de um mundo economicamente mais próspero e socialmente mais justo.
+Outra iniciativa que pode ter grande impacto junto aos colaboradores, parceiros e sócios das empresas é a
+promoção de debates sobre o processo eleitoral e o funcionamento e atribuições das instâncias de poder
+em jogo nas eleições (Presidência da República, Senado, Câmara Federal e Assembleias Legislativas). As
+empresas podem convidar candidatos, cientistas políticos, jornalistas e administradores públicos para a
+discussão de ideias, propostas e conceitos. Também podem incentivar debates políticos dentro da empresa,
+bem como trazer matérias sobre o tema em publicações internas. É importante desmistificar a ideia de que
+política é uma sujeira só e sem utilidade. Essa é uma forma de contribuir para aumentar a consciência
+política e a qualidade do voto dentro de toda a cadeia produtiva, entre os parceiros e colaboradores. Esse
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              37
+        www.estrategiaconcursos.com.br                                                                        59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+procedimento ajuda a criar na sociedade ambiente ético e transparente, acentuando a democracia nas
+relações sociais e políticas.
+Além de consultar sócios, parceiros e colaboradores e de realizar debates, as empresas podem também
+promover campanhas de esclarecimento junto a seus colaboradores. Um conceito útil para ser adotado é o
+do voto consciente.
+Infelizmente, ainda hoje assistimos no Brasil a fenômenos que há muito deveriam ter sido excluídos da vida
+política nacional, como a compra de votos e a atitude de diversos candidatos, durante as campanhas
+eleitorais, de “doar” cestas básicas e toda a sorte de brindes em troca da promessa de voto dos eleitores. O
+conceito de voto consciente é justamente o contraponto dessas práticas, visando estabelecer critérios
+racionais que façam do voto um instrumento de cidadania. Voto consciente é aquele em que o cidadão
+pesquisa o passado dos candidatos, avalia suas histórias de vida e analisa se as promessas e programas
+eleitorais são coerentes com as práticas dos candidatos e de seus partidos.
+               (Instituto Ethos. A Responsabilidade Social das Empresas no Processo Eleitoral. Disponível em:
+                                                                    <www.ethos.org.br>. Com adaptações.)
+
+É importante desmistificar a ideia de que política é uma sujeira só e sem utilidade.
+
+Em relação ao período acima, analise as afirmativas a seguir:
+
+I. É possível deslocar o vocábulo só para antes do verbo sem provocar alteração de sentido.
+
+II. Há uma oração subjetiva.
+
+III. Há uma oração completiva nominal.
+Assinale
+a) se apenas as afirmativas II e III estiverem corretas.
+b) se nenhuma afirmativa estiver correta.
+c) se todas as afirmativas estiverem corretas.
+d) se apenas as afirmativas I e II estiverem corretas.
+e) se apenas as afirmativas I e III estiverem corretas.
+
+                                    Subordinação – oração adverbial
+Questão 07
+FGV - Fiscal da Receita Estadual (AP)
+
+
+O jeitinho brasileiro e o homem cordial
+ O jeitinho caracteriza-se como ferramenta típica de indivíduos de pouca influência social. Em nada se
+relaciona com um sentimento revolucionário, pois aqui não há o ânimo de se mudar o status quo. O que se
+busca é obter um rápido favor para si, às escondidas e sem chamar a atenção; por isso, o jeitinho pode ser
+também definido como "molejo", "jogo de cintura", habilidade de se "dar bem" em uma situação "apertada".
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                38
+        www.estrategiaconcursos.com.br                                                                          59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Sérgio Buarque de Holanda, em O Homem Cordial, fala sobre o brasileiro e uma característica presente no
+seu modo de ser: a cordialidade. Porém, cordial, ao contrário do que muitas pessoas pensam, vem da
+palavra latina cor, cordis, que significa coração. Portanto, o homem cordial não é uma pessoa gentil, mas
+aquele que age movido pela emoção no lugar da razão, não vê distinção entre o privado e o público, detesta
+formalidades, põe de lado a ética e a civilidade.
+Em termos antropológicos, o jeitinho pode ser atribuído a um suposto caráter emocional do brasileiro,
+descrito como "o homem cordial" pelo antropólogo. No livro Raízes do Brasil, esse autor afirma que o
+indivíduo brasileiro teria desenvolvido uma histórica propensão à informalidade. Deve-se isso ao fato de as
+instituições brasileiras terem sido concebidas de forma coercitiva e unilateral, não havendo diálogo entre
+governantes e governados, mas apenas a imposição de uma lei e de uma ordem consideradas artificiais,
+quando não inconvenientes aos interesses das elites políticas e econômicas de então. Daí a grande
+tendência fratricida observada na época do Brasil Império, que é bem ilustrada pelos episódios conhecidos
+como Guerra dos Farrapos e Confederação do Equador.
+Na vida cotidiana, tornava-se comum ignorar as leis em favor das amizades. Desmoralizadas, incapazes de
+se impor, as leis não tinham tanto valor quanto, por exemplo, a palavra de um "bom" amigo. Além disso, o
+fato de afastar as leis e seus castigos típicos era uma prova de boa-vontade e um gesto de confiança, o que
+favorecia boas relações de comércio e tráfico de influência. De acordo com testemunhos de comerciantes
+holandeses, era impossível fazer negócio com um brasileiro antes de fazer amizade com ele. Um adágio da
+época dizia que "aos inimigos, as leis; aos amigos, tudo". A informalidade era - e ainda é - uma forma de se
+preservar o indivíduo.
+Sérgio Buarque avisa, no entanto, que esta "cordialidade" não deve ser entendida como caráter pacífico. O
+brasileiro é capaz de guerrear e até mesmo destruir; no entanto, suas razões animosas serão sempre
+cordiais, ou seja, emocionais.
+                                                                        (In: www.wikipedia.org - com adaptações.)
+Deve-se isso ao fato de as instituições brasileiras terem sido concebidas de forma coercitiva e unilateral, não
+havendo diálogo entre governantes e governados, mas apenas a imposição de uma lei e de uma ordem
+consideradas artificiais, quando não inconvenientes aos interesses das elites políticas e econômicas de então.
+
+A respeito do uso do vocábulo quando no fragmento acima, pode-se afirmar que se trata de uma conjunção:
+a) subordinativa com valor semântico de condição.
+b) coordenativa com valor semântico de tempo.
+c) coordenativa com valor semântico de finalidade.
+d) subordinativa com valor semântico de concessão.
+e) coordenativa com valor semântico de explicação.
+
+                                                     Vírgulas
+Questão 08
+FGV - Técnico Superior Jurídico (DPE RJ)/2019
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                      39
+        www.estrategiaconcursos.com.br                                                                              59
+                                    
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+“Pensar mal amiúde significa tornar mau. Na vida das nações (1) não menos que na dos indivíduos (2) os
+primeiros momentos de uma trajetória imprimem (3) no que está nascendo (4) traços de teimosa
+permanência”.
+      (Eduardo Giannetti, O Elogio do Vira-Lata e outros ensaios. 1ª. ed. São Paulo: Companhia das Letras,
+                                                                                              2018. p. 13)
+Nesse segmento inicial de um texto, poderiam ser usadas vírgulas nas posições dos seguintes números:
+a) apenas em (1) e (2);
+b) apenas em (2) e (4);
+c) apenas em (3) e (4);
+d) apenas em (1), (2) e (4);
+e) em (1), (2), (3) e (4).
+
+                                                    Parênteses
+Questão 09
+FGV - Analista de Comunicação (BANESTES)/2018
+
+
+Em artigo publicado no jornal carioca O Globo, 19/3/2018, com o nome Erros do passado, o articulista Paulo
+Guedes escreve o seguinte: “Os regimes trabalhista e previdenciário brasileiros são politicamente
+anacrônicos, economicamente desastrosos e socialmente perversos. Arquitetados de início em sistemas
+políticos fechados (na Alemanha imperial de Bismarck e na Itália fascista de Mussolini), e desde então
+cultivados por obsoletos programas socialdemocratas, são hoje armas de destruição em massa de
+empregos locais em meio à competição global. Reduzem a competitividade das empresas, fabricam
+desigualdades sociais, dissipam em consumo corrente a poupança compulsória dos encargos recolhidos,
+derrubam o crescimento da economia e solapam o valor futuro das aposentadorias”.
+                                                                                               (adaptado)
+No texto, os termos inseridos nos parênteses – na Alemanha imperial de Bismarck e na Itália fascista de
+Mussolini – têm a finalidade textual de:
+a) enumerar os sistemas políticos fechados do passado;
+b) destacar os sistemas onde se originaram os regimes trabalhista e previdenciário;
+c) criticar o atraso político de alguns sistemas da História;
+d) condenar nossos regimes trabalhista e previdenciário por serem muito antigos;
+e) exemplificar alguns dos nossos erros do passado.
+
+                                              Travessão (aposto)
+Questão 10
+FGV - Técnico de Nível Médio (Pref. Salvador)/Operacional/2017
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                            40
+         www.estrategiaconcursos.com.br                                                                      59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Por que sentimos calafrios e desconforto ao ouvir certos sons agudos – como unhas arranhando um
+quadro-negro?
+Esta é uma reação instintiva para protegermos nossa audição. A cóclea (parte interna do ouvido) tem uma
+membrana que vibra de acordo com as frequências sonoras que ali chegam. A parte mais próxima ao
+exterior está ligada à audição de sons agudos; a região mediana é responsável pela audição de sons de
+frequência média; e a porção mais final, por sons graves. As células da parte inicial, mais delicadas e frágeis,
+são facilmente destruídas – razão por que, ao envelhecermos, perdemos a capacidade de ouvir sons agudos.
+Quando frequências muito agudas chegam a essa parte da membrana, as células podem ser danificadas,
+pois, quanto mais alta a frequência, mais energia tem seu movimento ondulatório. Isso, em parte, explica
+nossa aversão a determinados sons agudos, mas não a todos. Afinal, geralmente não sentimos calafrios ou
+uma sensação ruim ao ouvirmos uma música com notas agudas.
+Aí podemos acrescentar outro fator. Uma nota de violão tem um número limitado e pequeno de frequências
+– formando um som mais “limpo”. Já no espectro de som proveniente de unhas arranhando um quadro-
+negro (ou de atrito entre isopores ou entre duas bexigas de ar) há um número infinito delas. Assim, as células
+vibram de acordo com muitas frequências e aquelas presentes na parte inicial da cóclea, por serem mais
+frágeis, são lesadas com mais facilidade. Daí a sensação de aversão a esses sons agudos e “crus”.
+                                                                            Ronald Ranvaud, Ciência Hoje, nº 282.
+
+
+No título do texto, o segmento após o travessão é uma
+a) explicação de um termo anterior.
+b) exemplificação de “sons agudos”.
+c) comparação de “sons agudos” com “unhas arranhando um quadro-negro”.
+d) conclusão feita a partir da parte inicial do texto.
+e) uma finalidade da produção de sons agudos.
+
+                                      Subordinação - Oração reduzida
+Questão 11
+FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+
+“Os policiais militares são os primeiros a chegar ao local do crime, para isolar a área e preservar as provas.”
+Se transformarmos as orações reduzidas sublinhadas em orações desenvolvidas, a forma adequada será:
+A. para que isolem a área e preservem as provas;
+B. para o isolamento da área e preservação das provas;
+C. para isolarem a área e preservarem as provas;
+D. para que isolassem a área e preservassem as provas;
+E. para que isolem a área e para preservação das provas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                   41
+         www.estrategiaconcursos.com.br                                                                             59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+                                                    Pontuação
+Questão 12
+FGV - 2022 - MPE-BA - Estagiário de Direito - Edital nº 01
+
+
+Se colocarmos todas as vírgulas necessárias na frase “Não me importo de me atribuírem todos os pecados
+do mundo mas por favor não digam que eu seria capaz de comer pizza de soja.”, a forma correta será:
+A. “Não me importo de me atribuírem todos os pecados do mundo, mas, por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+B. “Não me importo de me atribuírem todos os pecados do mundo, mas por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+C. “Não me importo de me atribuírem todos os pecados do mundo mas por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+D. “Não me importo de me atribuírem todos os pecados do mundo, mas por favor, não digam, que eu seria
+capaz de comer pizza de soja.”;
+E. “Não me importo, de me atribuírem todos os pecados do mundo, mas por favor, não digam que eu seria
+capaz de comer pizza de soja".
+
+9 – LISTA DE QUESTÕES COMENTADAS
+                                       Orações adjetivas reduzidas
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+Na tentativa de dar concisão, muitas orações adjetivas podem ser substituídas por adjetivos; a opção abaixo
+em que essa substituição foi corretamente realizada é:
+a) Não há bem que sempre dure / efêmero;
+b) Nem tudo que reluz é ouro / iluminado;
+c) Fatos que se repetem são cansativos / frequentes;
+d) Sentimentos que duram pouco trazem dor / passageiros;
+e) Muitas moedas que são guardadas perdem valor / resguardadas.
+Comentário:
+A - Não há bem que sempre dure / efêmero;
+Incorreta – o termo “efêmero” nomeia característica do que dura pouco, portanto ele não pode substituir a
+oração “que sempre dure”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                42
+        www.estrategiaconcursos.com.br                                                                        59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+B - Nem tudo que reluz é ouro / iluminado;
+Incorreta – “que reluz” significa algo brilhante, reluzente, ou seja, que possui luz própria, já “iluminado” é
+algo que recebe a luz, ou seja, que não possui luz própria.
+C - Fatos que se repetem são cansativos / frequentes;
+Incorreta – algo que se repete é algo repetitivo e algo frequente é algo que que acontece sempre. Apesar de
+serem bem próximos os significados, “frequentes” não substitui “que se repetem” mantendo o mesmo
+sentido.
+D - Sentimentos que duram pouco trazem dor / passageiros;
+CORRETA – algo que dura pouco é algo passageiro.
+E - Muitas moedas que são guardadas perdem valor / resguardadas.
+Incorreta – resguardar é proteger, sentido bem diferente de “guardadas”, que tem sentido de conservadas.
+Gabarito: D
+
+                                              Orações reduzidas
+Questão 02
+FGV - Contador (SEFIN RO)/2018
+
+
+Do que as pessoas têm medo?
+A geração pós-1980 e início de 1990 só conhece os tempos militares pelos livros de História e pelas séries da
+TV. Para a maioria dela, as palavras “democracia” e “liberdade” têm sentido diferente daquele para quem
+conheceu a falta desses direitos e as consequências de brigar por eles. Se hoje é possível existir redes sociais;
+se é possível que pessoas se organizem em grupos ou movimentos e digam ou escrevam o que querem e o
+que pensam, devem-se essas prerrogativas a quem no passado combateu as arbitrariedades de uma
+ditadura violenta, a custo muito alto.
+A liberdade não é um benefício seletivo. Não existe numa sociedade quando alguns indivíduos têm mais
+liberdade que outros, ou quando a de uns se sobrepõe à de outros.
+É fundamental para a evolução das sociedades compreender que o status quo das culturas está sempre se
+modificando, e que todas as modificações relacionadas aos costumes de cada época precisaram quebrar
+paradigmas que pareciam imutáveis. Foi assim com a conquista do voto da mulher, com a trajetória até o
+divórcio e para que a “desquitada” deixasse de ser discriminada. Foi assim, também, com outros costumes:
+o comprimento das saias, a introdução do biquíni, a inclusão racial, as famílias constituídas por união
+estável, o primeiro beijo na TV e tantas outras mudanças que precisaram vencer os movimentos
+conservadores até conseguirem se estabelecer. Hoje, ninguém se importa em ver um casal se beijando
+numa novela (desde que o casal seja formado por um homem e uma mulher). Há pouco mais de 60 anos, o
+primeiro beijo na TV, comportado, um encostar de lábios, foi um escândalo para a época.
+A questão do momento é se existe limite para a expressão da arte.
+                                                             Simone Kamenetz, O Globo, 18/10/2017. (Adaptado)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    43
+        www.estrategiaconcursos.com.br                                                                              59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Um dos conselhos para uma boa escrita é que as frases de um texto tenham a mesma organização sintática
+numa enumeração.
+No fragmento “Se hoje é possível existir redes sociais; se é possível que pessoas se organizem em grupos...”,
+para que as duas frases tenham a mesma organização, a mudança adequada seria:
+a) a primeira frase deveria ser “Se é possível que existam redes sociais”.
+b) a primeira frase deveria ser “Se é possível a existência de redes sociais”.
+c) a segunda frase deveria ser “se é possível a organização de pessoas em grupos”.
+d) a segunda frase deveria ser “se é possível que pessoas sejam organizadas em grupos”.
+e) a segunda frase deveria ser “se é possível pessoas organizando-se em grupos”.
+Comentário:
+A questão solicita que haja um paralelismo sintático nas orações: “Se hoje é possível existir redes sociais; se é
+possível que pessoas se organizem em grupos...”. A primeira está montada com oração subordinada substantiva
+subjetiva reduzida de infinitivo: “existir redes sociais”; já na segunda, a oração subordinada substantiva
+subjetiva está desenvolvida: “que pessoas se organizem em grupos”.
+As orações reduzidas possuem o verbo em uma das formas nominais (infinitivo, particípio ou gerúndio) e não
+têm pronome relativo ou preposição ligando as orações.
+As orações desenvolvidas têm o verbo conjugado e concordando com o sujeito, também têm pronome ou
+preposição ligando as orações.
+Temos como opções de organização as seguintes:
+A primeira sendo montada com oração desenvolvida no lugar de reduzida, em que teríamos: Se é possível que
+existam redes sociais.
+A segunda sendo montada com oração reduzida, que ficaria: se é possível pessoas se organizarem em grupos.
+Dentre as alternativas, a letra A apresenta a opção de colocar a primeira oração em forma desenvolvida
+corretamente. Nas demais opções, temos:
+B - a primeira frase deveria ser “Se é possível a existência de redes sociais”.
+Incorreta – apesar de a frase estar coerente, a transformação do verbo “existir” em substantivo não ocorre
+na segunda oração, portanto, a organização das duas não seria a mesma.
+C - a segunda frase deveria ser “se é possível a organização de pessoas em grupos”.
+Incorreta – a organização das frases não seria a mesma porque o verbo “organizem” foi transformado em
+substantivo.
+D - a segunda frase deveria ser “se é possível que pessoas sejam organizadas em grupos”.
+Incorreta – a inclusão da forma verbal “sejam” caracterizando voz passiva não estaria de acordo com a
+primeira frase.
+E - a segunda frase deveria ser “se é possível pessoas organizando-se em grupos”.
+Incorreta – foi inserido pronome recíproco “se”, elemento que não consta na primeira oração.
+Gabarito: A
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                   44
+         www.estrategiaconcursos.com.br                                                                             59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+                                                Oração reduzida
+Questão 03
+FGV - Auxiliar Judiciário (TJ AM)
+
+
+Carrocinha de pipoca
+Eu sei que a coisa é séria. Se o Kim Jong‐Um disparar mesmo os foguetes que está ameaçando disparar
+contra bases americanas na Ásia, teremos uma guerra nuclear com dimensões e consequências
+imprevisíveis. Mas lendo sobre o perigo iminente não pude deixar de pensar na história do homem que foi
+atropelado por uma carrocinha de pipoca. Era um homem cauteloso, que olhava para os dois lados antes de
+atravessar a rua e só atravessava no sinal, e que dificilmente um carro pegaria. Mas que um dia não viu que
+vinha uma carrocinha de pipoca, e paft. Já no ambulatório do hospital, onde lhe deram uns pontos no braço,
+o homem disse que tinha sido atropelado por um motoboy. Em casa, contou que tinha sido atropelado por
+um carro e só por sorte escapara da morte. Naquela noite, para os amigos que souberam do acidente e
+foram visitá‐lo, especificou: tinha sido atropelado por um BMW. No dia seguinte disse aos colegas de
+trabalho que tinha sido atropelado por um caminhão e que não sofrera mais que um corte no braço, por
+milagre. E quando um dos colegas de trabalho comentou que tinha visto o acidente e vira o homem ser
+atropelado por uma carrocinha de pipoca, gritou: “Calúnia!”
+Por que me lembrei do homem que tinha vergonha de ter sido atropelado por uma carrocinha de pipoca?
+Desde o fim da Guerra Fria a possibilidade de um confronto nuclear entre duas potências, os Estados Unidos
+e a Rússia, diminuiu, mas os estoques de armas nucleares continuaram e sua proliferação também. Israel se
+segura para não usar seus foguetes para destruir as bombas nucleares que o Irã está ou não está
+construindo, Índia e Paquistão vivem comparando seus respectivos arsenais nucleares como guris
+comparam seus pipis, a França e a Inglaterra têm a bomba... Enfim, ainda se vive num frágil equilíbrio de
+terror possível, exigindo de todos os nucleares um cuidado extremo, um cuidado de atravessar a rua sem
+serem atropelados pelo imprevisto. E aí aparece o Kim Jong‐Um empurrando uma carrocinha de pipoca em
+alta velocidade...
+                                                                  (Luiz Fernando Veríssimo, O Globo, 11/04/2013)
+
+
+“Enfim, ainda se vive num frágil equilíbrio de terror possível, exigindo de todos os nucleares um cuidado
+extremo”.
+
+A forma de gerúndio – exigindo – equivale sintática e semanticamente a
+a) por exigir.
+b) quando exige.
+c) embora exija.
+d) para exigir.
+e) que exige.
+Comentário:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                  45
+         www.estrategiaconcursos.com.br                                                                            59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+O trecho que inicia por “exigindo” é uma oração subordinada adjetiva explicativa reduzida de gerúndio. Sua
+forma desenvolvia terá o pronome relativo ‘que’ ou ‘o qual’, já que está se referindo a “frágil equilíbrio de
+terror possível”, seguido do verbo conjugado no presente do indicativo ‘exige’, obedecendo ao paralelismo
+com o verbo na oração anterior “vive”. Temos, portanto, a construção “que exige”, que consta na alternativa
+E.
+Gabarito: E
+
+                                      Subordinação e coordenação
+Questão 04
+FGV - Consultor Legislativo Especial (ALEMA)/Direito Constitucional
+
+
+Cobrar responsabilidade
+No início do mês, um assaltante matou um jovem em São Paulo com um tiro na cabeça, mesmo depois de
+a vítima ter lhe passado o celular. Identificado por câmeras do sistema de segurança do prédio do rapaz, o
+criminoso foi localizado pela polícia, mas – apesar de todos os registros que não deixam dúvidas sobre a
+autoria do assassinato – não ficará um dia preso. Menor de idade, foi “apreendido” e levado a um centro de
+recolhimento. O máximo de punição a que está sujeito é submeter‐se, por três anos, à aplicação de medidas
+“socioeducativas”.
+Não é um caso isolado na crônica de crimes cometidos por menores de idade no país. Mas houve, nesse
+episódio de São Paulo, uma circunstância que o transformou em mais um exemplo emblemático do
+equivocado abrigo legal que o Estatuto da Criança e do Adolescente confere a criminosos que estão longe
+de poderem justificar suas ações com o argumento da imaturidade: ao disparar friamente contra o
+estudante paulista, a assaltante estava a três dias de completar 18 anos. Pela selvageria do assassinato, o
+caso remete à barbárie de que foi vítima, no Rio, o menino João Hélio, em 2007. Também nesse episódio,
+um dos bandidos que participaram do martírio do garoto estava a pouco tempo de atingir a maioridade.
+Nos dois casos, convencionou‐se, ao anteparo do ECA, que a diferença de alguns dias – ou, ainda que o
+fosse, de alguns meses – teria modificado os padrões de discernimento dos assassinos. Eles não saberiam o
+que estavam fazendo. É um tipo de interpretação que anaboliza espertezas da criminalidade, como o
+emprego de menores em ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto
+a jovens criminosos para afrontar a lei.
+O raciocínio, nesses casos, é tão cristalino quanto perverso: colocam‐se jovens, muitos dos quais mal
+entraram na adolescência, na linha de frente de ações criminosas porque, protegidos pelo ECA, e diante da
+generalizada ruína administrativa dos órgãos encarregados de aplicar as medidas socioeducativas, na
+prática eles são inimputáveis. Tornam‐se, assim, personagens de vestibulares para a entrada em definitivo,
+sem chances de recuperação, numa vida de crimes.
+É dever do Estado (em atendimento a um direito inalienável) prover crianças e adolescentes com cuidados,
+segurança, oportunidades, inclusive de recuperação diante de deslizes sociais. Neste sentido, o ECA
+mantém dispositivos importantes, que asseguram proteção a uma parcela da população em geral incapaz
+de discernir entre o certo e o errado à luz das regras sociais. Mas, se estes são aspectos consideráveis, por
+outro lado é condenável o viés paternalista de uma lei orgânica que mais contempla direitos do que cobra
+obrigações daqueles a quem pretende proteger.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                46
+        www.estrategiaconcursos.com.br                                                                          59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+O país precisa rever o ECA, principalmente no que tange ao limite de idade para efeitos de responsabilidade
+criminal. É uma atitude que implica coragem (de enfrentar tabus que não se sustentam no confronto com a
+realidade) e o abandono da hipocrisia (que tem cercado esse imprescindível debate).
+                                                                                          (O Globo, 22/04/2013)
+
+
+Assinale a alternativa cuja oração sublinhada exemplifica o processo de coordenação.
+a) “É dever do Estado (em atendimento a um direito inalienável) prover crianças e adolescentes com cuidados,
+segurança, oportunidades, inclusive de recuperação diante de deslizes sociais”.
+b) “Neste sentido, o ECA mantém dispositivos importantes, que asseguram proteção a uma parcela da
+população em geral incapaz de discernir entre o certo e o errado à luz das regras sociais”.
+c) “Mas, se estes são aspectos consideráveis, por outro lado é condenável o viés paternalista de uma lei orgânica
+que mais contempla direitos do que cobra obrigações daqueles a quem pretende proteger”.
+d) “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+e) “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+Comentário:
+Analisando as alternativas, temos:
+A - “É dever do Estado (em atendimento a um direito inalienável) prover crianças e adolescentes com cuidados,
+segurança, oportunidades, inclusive de recuperação diante de deslizes sociais”.
+Incorreta – a relação entre as orações aqui é de subordinação, pois a oração sublinhada é subordinada
+substantiva subjetiva.
+B - “Neste sentido, o ECA mantém dispositivos importantes, que asseguram proteção a uma parcela da
+população em geral incapaz de discernir entre o certo e o errado à luz das regras sociais”.
+Incorreta – a oração sublinhada é subordinada adjetiva explicativa em relação à anterior.
+C - “Mas, se estes são aspectos consideráveis, por outro lado é condenável o viés paternalista de uma lei
+orgânica que mais contempla direitos do que cobra obrigações daqueles a quem pretende proteger”.
+Incorreta – o trecho sublinhado é uma oração subordinada adverbial condicional.
+D - “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+Incorreta – trata-se de uma oração subordinada adjetiva restritiva.
+E - “É um tipo de interpretação que anaboliza espertezas da criminalidade, como o emprego de menores em
+ações – inclusive armadas – de quadrilhas organizadas, ou serve de salvo‐conduto a jovens criminosos para
+afrontar a lei”.
+CORRETA – a oração iniciada pela conjunção “ou” é coordenada sindética alternativa.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    47
+        www.estrategiaconcursos.com.br                                                                              59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Gabarito: E
+
+                                    Subordinação – oração adverbial
+Questão 05
+FGV - Analista (DPE MT)/Advogado/2015
+
+Assim que pisa em solo estrangeiro, todo turista logo é descoberto. Suas roupas, seus gestos, e,
+principalmente, sua fala e sotaque revelam. Só poucos minutos de convivência com os nativos e o
+estrangeiro é abordado e questionado: “De onde vem? Onde nasceu? O que veio fazer aqui?”.
+Essa recepção é tão usual que qualquer curso de línguas inclui em suas primeiras aulas um treino de
+perguntas e respostas dessa conversa entre estrangeiros chegando a um país e os locais.
+Nós, brasileiros, conhecemos bem esta história. O brasileiro que viaja ao exterior está acostumado a ouvir:
+“É brasileiro? Gosto muito dos brasileiros! Vejo um brasileiro e lembro do samba, do Carnaval, e do futebol. Que
+coisa linda!”.
+Com orgulho, o brasileiro sorri e confirma: “Sim, sou brasileiro!”. E esse diálogo abre as portas lá fora,
+rendendo diversas perguntas sobre futebol, carnaval e samba, e abrindo chance para bons relacionamentos
+com os locais.
+Por outro lado, esta mesma conversa no exterior é tão repetida que incomoda muitos de nós. Entre os
+turistas que se sentem assim, é consenso que a visão do Brasil pelo estrangeiro como o país do Carnaval,
+samba e futebol é muito pequena (e até ofensiva) para um país grande e diverso.
+O fato é que, agradando ou incomodando, sabemos que a identidade do brasileiro é inevitavelmente ligada
+a esta trinca. E isto não é tão mau assim. Se os estrangeiros tocam neste assunto é porque pensam em um
+mar de emoções positivas. Felicidade, descontração, relaxamento, enfim, tudo o que um ser humano sonha
+de bom para a vida.
+Não é para menos que, ao nos conhecer, muitos se abrem em um grande sorriso, e procuram prolongar ao
+máximo a conversa com um brasileiro na tentativa de se manter alegres. Nossa identidade é invejada e
+desejada por qualquer estrangeiro!
+                                                                               (Comportamento, julho de 2014)
+
+
+As frases de um texto são organizadas em relações semânticas.
+No caso da frase “Assim que pisa em solo estrangeiro, todo turista logo é descoberto.”, as duas orações que
+compõem o período apresentam a seguinte relação:
+a) localização espacial / causa da oração anterior.
+b) localização temporal / consequência.
+c) afirmação / explicação.
+d) situação temporal / ação posterior.
+e) situação espacial / ação anterior.
+Comentário:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                       48
+        www.estrategiaconcursos.com.br                                                                             59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Analisando sintaticamente as orações do período, temos:
+“Assim que pisa em solo estrangeiro” – essa é uma oração subordinada adverbial em cuja expressão “Assim
+que” expressa ideia de tempo, podendo, inclusive, ser substituída por ‘quando’.
+“todo turista logo é descoberto” – essa é a oração principal em relação à primeira e expressa uma ação
+posterior a ela.
+Temos, então, relação de temporalidade e ação posterior. A opção correta é a letra D, portanto.
+Gabarito: D
+
+                                 Subordinação - Orações substantivas
+Questão 06
+FGV - Analista Judiciário (TRE PA)/Judiciária
+
+
+Financiamento de campanhas eleitorais: aspectos éticos
+Além dos aspectos legais, as empresas que decidirem participar do processo eleitoral devem buscar
+procedimentos éticos na tomada de decisões relacionadas ao financiamento de candidatos e partidos
+políticos.
+Tradicionalmente, os controladores das empresas são os responsáveis pela decisão de como os recursos
+devem ser distribuídos entre candidatos e partidos. Os sócios e colaboradores dificilmente são consultados,
+e muitas vezes o apoio reflete mais as posições pessoais dos controladores do que os valores e princípios
+das empresas.
+A consulta aos sócios e colaboradores sobre candidatos e partidos que a empresa deve apoiar não implica,
+necessariamente, transformar a decisão desse apoio em algo coletivo. O simples fato de consultá-los ajuda
+a criar um ambiente socialmente responsável nas empresas. É certo que a separação dos valores e princípios
+pessoais dos controladores dos valores e princípios das empresas e, mais ainda, a transformação dessa
+dissociação em um novo critério para a tomada de decisões sobre aspectos tão sensíveis como o apoio a
+determinado partido ou candidato ainda é uma atitude difícil para grande parte dos empresários. Também
+é certo, por outro lado, que, ao aumentarem a transparência do processo de tomada de decisões, as
+empresas adquirem o respeito das pessoas e comunidades que são impactadas por suas atividades e são
+gratificadas com o reconhecimento e engajamento dos seus colaboradores e a preferência dos
+consumidores, em consonância com o conceito de responsabilidade social, o qual, é sempre bom lembrar,
+está se tornando cada vez mais fator de sucesso empresarial e abrindo novas perspectivas para a construção
+de um mundo economicamente mais próspero e socialmente mais justo.
+Outra iniciativa que pode ter grande impacto junto aos colaboradores, parceiros e sócios das empresas é a
+promoção de debates sobre o processo eleitoral e o funcionamento e atribuições das instâncias de poder
+em jogo nas eleições (Presidência da República, Senado, Câmara Federal e Assembleias Legislativas). As
+empresas podem convidar candidatos, cientistas políticos, jornalistas e administradores públicos para a
+discussão de ideias, propostas e conceitos. Também podem incentivar debates políticos dentro da empresa,
+bem como trazer matérias sobre o tema em publicações internas. É importante desmistificar a ideia de que
+política é uma sujeira só e sem utilidade. Essa é uma forma de contribuir para aumentar a consciência
+política e a qualidade do voto dentro de toda a cadeia produtiva, entre os parceiros e colaboradores. Esse
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              49
+        www.estrategiaconcursos.com.br                                                                        59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+procedimento ajuda a criar na sociedade ambiente ético e transparente, acentuando a democracia nas
+relações sociais e políticas.
+Além de consultar sócios, parceiros e colaboradores e de realizar debates, as empresas podem também
+promover campanhas de esclarecimento junto a seus colaboradores. Um conceito útil para ser adotado é o
+do voto consciente.
+Infelizmente, ainda hoje assistimos no Brasil a fenômenos que há muito deveriam ter sido excluídos da vida
+política nacional, como a compra de votos e a atitude de diversos candidatos, durante as campanhas
+eleitorais, de “doar” cestas básicas e toda a sorte de brindes em troca da promessa de voto dos eleitores. O
+conceito de voto consciente é justamente o contraponto dessas práticas, visando estabelecer critérios
+racionais que façam do voto um instrumento de cidadania. Voto consciente é aquele em que o cidadão
+pesquisa o passado dos candidatos, avalia suas histórias de vida e analisa se as promessas e programas
+eleitorais são coerentes com as práticas dos candidatos e de seus partidos.
+               (Instituto Ethos. A Responsabilidade Social das Empresas no Processo Eleitoral. Disponível em:
+                                                                    <www.ethos.org.br>. Com adaptações.)
+
+É importante desmistificar a ideia de que política é uma sujeira só e sem utilidade.
+
+Em relação ao período acima, analise as afirmativas a seguir:
+
+I. É possível deslocar o vocábulo só para antes do verbo sem provocar alteração de sentido.
+
+II. Há uma oração subjetiva.
+
+III. Há uma oração completiva nominal.
+Assinale
+a) se apenas as afirmativas II e III estiverem corretas.
+b) se nenhuma afirmativa estiver correta.
+c) se todas as afirmativas estiverem corretas.
+d) se apenas as afirmativas I e II estiverem corretas.
+e) se apenas as afirmativas I e III estiverem corretas.
+Comentário:
+Analisando as afirmativas, temos:
+I. É possível deslocar o vocábulo só para antes do verbo sem provocar alteração de sentido.
+Incorreta - Com o deslocamento proposto, já que temos dois verbos, teríamos as seguintes frases:
+É importante desmistificar a ideia de que política só é uma sujeira e sem utilidade.
+É importante só desmistificar a ideia de que política é uma sujeira e sem utilidade.
+Na frase original, o termo “só” funciona como um advérbio de intensidade (sujeira demais). Já antes do verbo
+“é”, o advérbio tem sentido de somente: a política somente é uma sujeira. E antes do verbo “desmistificar” tem
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 50
+        www.estrategiaconcursos.com.br                                                                           59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+o mesmo sentido de apenas: É importante apenas desmistificar a ideia... Concluímos, então que os
+deslocamentos são possíveis, mas o sentido da frase original seria alterado.
+II. Há uma oração subjetiva.
+Correta – a oração subordinada substantiva subjetiva é “desmistificar a ideia de que política é uma sujeira
+só e sem utilidade”, que é o sujeito de “É importante”.
+III. Há uma oração completiva nominal.
+Correta – “que política é uma sujeira só e sem utilidade” é uma oração subordinada substantiva completiva
+nominal da palavra “ideia”.
+Estão corretas, portanto, as afirmativas II e III.
+Gabarito: A
+
+                                     Subordinação – oração adverbial
+Questão 07
+FGV - Fiscal da Receita Estadual (AP)
+
+
+O jeitinho brasileiro e o homem cordial
+ O jeitinho caracteriza-se como ferramenta típica de indivíduos de pouca influência social. Em nada se
+relaciona com um sentimento revolucionário, pois aqui não há o ânimo de se mudar o status quo. O que se
+busca é obter um rápido favor para si, às escondidas e sem chamar a atenção; por isso, o jeitinho pode ser
+também definido como "molejo", "jogo de cintura", habilidade de se "dar bem" em uma situação "apertada".
+Sérgio Buarque de Holanda, em O Homem Cordial, fala sobre o brasileiro e uma característica presente no
+seu modo de ser: a cordialidade. Porém, cordial, ao contrário do que muitas pessoas pensam, vem da
+palavra latina cor, cordis, que significa coração. Portanto, o homem cordial não é uma pessoa gentil, mas
+aquele que age movido pela emoção no lugar da razão, não vê distinção entre o privado e o público, detesta
+formalidades, põe de lado a ética e a civilidade.
+Em termos antropológicos, o jeitinho pode ser atribuído a um suposto caráter emocional do brasileiro,
+descrito como "o homem cordial" pelo antropólogo. No livro Raízes do Brasil, esse autor afirma que o
+indivíduo brasileiro teria desenvolvido uma histórica propensão à informalidade. Deve-se isso ao fato de as
+instituições brasileiras terem sido concebidas de forma coercitiva e unilateral, não havendo diálogo entre
+governantes e governados, mas apenas a imposição de uma lei e de uma ordem consideradas artificiais,
+quando não inconvenientes aos interesses das elites políticas e econômicas de então. Daí a grande
+tendência fratricida observada na época do Brasil Império, que é bem ilustrada pelos episódios conhecidos
+como Guerra dos Farrapos e Confederação do Equador.
+Na vida cotidiana, tornava-se comum ignorar as leis em favor das amizades. Desmoralizadas, incapazes de
+se impor, as leis não tinham tanto valor quanto, por exemplo, a palavra de um "bom" amigo. Além disso, o
+fato de afastar as leis e seus castigos típicos era uma prova de boa-vontade e um gesto de confiança, o que
+favorecia boas relações de comércio e tráfico de influência. De acordo com testemunhos de comerciantes
+holandeses, era impossível fazer negócio com um brasileiro antes de fazer amizade com ele. Um adágio da
+época dizia que "aos inimigos, as leis; aos amigos, tudo". A informalidade era - e ainda é - uma forma de se
+preservar o indivíduo.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                 51
+         www.estrategiaconcursos.com.br                                                                        59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Sérgio Buarque avisa, no entanto, que esta "cordialidade" não deve ser entendida como caráter pacífico. O
+brasileiro é capaz de guerrear e até mesmo destruir; no entanto, suas razões animosas serão sempre
+cordiais, ou seja, emocionais.
+                                                                         (In: www.wikipedia.org - com adaptações.)
+Deve-se isso ao fato de as instituições brasileiras terem sido concebidas de forma coercitiva e unilateral, não
+havendo diálogo entre governantes e governados, mas apenas a imposição de uma lei e de uma ordem
+consideradas artificiais, quando não inconvenientes aos interesses das elites políticas e econômicas de então.
+
+A respeito do uso do vocábulo quando no fragmento acima, pode-se afirmar que se trata de uma conjunção:
+a) subordinativa com valor semântico de condição.
+b) coordenativa com valor semântico de tempo.
+c) coordenativa com valor semântico de finalidade.
+d) subordinativa com valor semântico de concessão.
+e) coordenativa com valor semântico de explicação.
+Comentário:
+A conjunção subordinativa adverbial “quando”, no geral, encerra ideia de tempo, mas, no contexto “apenas
+a imposição de uma lei e de uma ordem consideradas artificiais, quando não inconvenientes aos interesses das
+elites políticas e econômicas de então”, ela está funcionando como advérbio de condição. Se fizermos uma
+reorganização nas orações e a substituição dessa conjunção por uma usualmente empregada como
+condicional, conseguimos perceber melhor essa relação: (as instituições brasileiras,) se não (são)
+inconvenientes aos interesses das elites políticas e econômicas de então, (são) apenas a imposição de uma lei e
+de uma ordem consideradas artificiais.
+Gabarito: A
+
+                                                      Vírgulas
+Questão 08
+FGV - Técnico Superior Jurídico (DPE RJ)/2019
+
+
+“Pensar mal amiúde significa tornar mau. Na vida das nações (1) não menos que na dos indivíduos (2) os
+primeiros momentos de uma trajetória imprimem (3) no que está nascendo (4) traços de teimosa
+permanência”.
+      (Eduardo Giannetti, O Elogio do Vira-Lata e outros ensaios. 1ª. ed. São Paulo: Companhia das Letras,
+                                                                                              2018. p. 13)
+Nesse segmento inicial de um texto, poderiam ser usadas vírgulas nas posições dos seguintes números:
+a) apenas em (1) e (2);
+b) apenas em (2) e (4);
+c) apenas em (3) e (4);
+d) apenas em (1), (2) e (4);
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                     52
+         www.estrategiaconcursos.com.br                                                                              59
+                                     
+
+
+---
+
+   Carlos Roberto Correa
+   Aula 08
+
+e) em (1), (2), (3) e (4).
+Comentário:
+Analisando as posições sugeridas para as vírgulas, temos:
+Caso 1: “Na vida das nações (1) não menos que na dos indivíduos” – aqui a vírgula estaria correta por estar
+isolando adjunto adverbial antecipado à oração principal.
+Caso 2: “Na vida das nações (1) não menos que na dos indivíduos (2) os primeiros momentos de uma
+trajetória imprimem” – nesse caso, a vírgula também seria correta porque o trecho sublinhado é um aposto.
+Caso 3 e 4: “os primeiros momentos de uma trajetória imprimem (3) no que está nascendo (4) traços de
+teimosa permanência” – a inserção de vírgulas nas posições 3 e 4 estaria correta porque as tais estariam
+isolando um adjunto adverbial intercalado na oração principal.
+Sendo assim, podemos concluir que todas as vírgulas sugeridas estariam corretas.
+Gabarito: E
+
+                                                    Parênteses
+Questão 09
+FGV - Analista de Comunicação (BANESTES)/2018
+
+
+Em artigo publicado no jornal carioca O Globo, 19/3/2018, com o nome Erros do passado, o articulista Paulo
+Guedes escreve o seguinte: “Os regimes trabalhista e previdenciário brasileiros são politicamente
+anacrônicos, economicamente desastrosos e socialmente perversos. Arquitetados de início em sistemas
+políticos fechados (na Alemanha imperial de Bismarck e na Itália fascista de Mussolini), e desde então
+cultivados por obsoletos programas socialdemocratas, são hoje armas de destruição em massa de
+empregos locais em meio à competição global. Reduzem a competitividade das empresas, fabricam
+desigualdades sociais, dissipam em consumo corrente a poupança compulsória dos encargos recolhidos,
+derrubam o crescimento da economia e solapam o valor futuro das aposentadorias”.
+                                                                                                 (adaptado)
+No texto, os termos inseridos nos parênteses – na Alemanha imperial de Bismarck e na Itália fascista de
+Mussolini – têm a finalidade textual de:
+a) enumerar os sistemas políticos fechados do passado;
+b) destacar os sistemas onde se originaram os regimes trabalhista e previdenciário;
+c) criticar o atraso político de alguns sistemas da História;
+d) condenar nossos regimes trabalhista e previdenciário por serem muito antigos;
+e) exemplificar alguns dos nossos erros do passado.
+Comentário:
+No trecho: “Os regimes trabalhista e previdenciário brasileiros são politicamente anacrônicos (...).
+Arquitetados de início em sistemas políticos fechados (na Alemanha imperial de Bismarck e na Itália fascista
+de Mussolini), e desde então cultivados por obsoletos programas socialdemocratas, são hoje armas de
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                              53
+         www.estrategiaconcursos.com.br                                                                        59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+destruição em massa...”, o fragmento destacado no texto especifica a expressão “sistemas políticos
+fechados”, que, por sua vez, são a origem dos regimes trabalhista e previdenciário no Brasil.
+Observando as alternativas, temos:
+A - enumerar os sistemas políticos fechados do passado;
+Incorreta – se não houvesse uma resposta mais completa, essa poderia ser marcada, mas a resposta da
+alternativa B está mais completa.
+B - destacar os sistemas onde se originaram os regimes trabalhista e previdenciário;
+CORRETA – essa alternativa dá uma resposta aprofundada no contexto, pois, como vimos, as informações
+entre parênteses são a especificação dos sistemas fechados que deram origem aos citados regimes.
+C - criticar o atraso político de alguns sistemas da História;
+Incorreta – nesse trecho não observamos crítica. Mas há sim, mais adiante no texto, friso: não no fragmento
+em análise, uma crítica a programas socialdemocratas.
+D - condenar nossos regimes trabalhista e previdenciário por serem muito antigos;
+Incorreta – essa informação também não ocorre nesse trecho do texto.
+E - exemplificar alguns dos nossos erros do passado.
+Incorreta – outra informação que não tem respaldo no trecho em análise.
+Gabarito: B
+
+                                             Travessão (aposto)
+Questão 10
+FGV - Técnico de Nível Médio (Pref. Salvador)/Operacional/2017
+
+
+Por que sentimos calafrios e desconforto ao ouvir certos sons agudos – como unhas arranhando um
+quadro-negro?
+Esta é uma reação instintiva para protegermos nossa audição. A cóclea (parte interna do ouvido) tem uma
+membrana que vibra de acordo com as frequências sonoras que ali chegam. A parte mais próxima ao
+exterior está ligada à audição de sons agudos; a região mediana é responsável pela audição de sons de
+frequência média; e a porção mais final, por sons graves. As células da parte inicial, mais delicadas e frágeis,
+são facilmente destruídas – razão por que, ao envelhecermos, perdemos a capacidade de ouvir sons agudos.
+Quando frequências muito agudas chegam a essa parte da membrana, as células podem ser danificadas,
+pois, quanto mais alta a frequência, mais energia tem seu movimento ondulatório. Isso, em parte, explica
+nossa aversão a determinados sons agudos, mas não a todos. Afinal, geralmente não sentimos calafrios ou
+uma sensação ruim ao ouvirmos uma música com notas agudas.
+Aí podemos acrescentar outro fator. Uma nota de violão tem um número limitado e pequeno de frequências
+– formando um som mais “limpo”. Já no espectro de som proveniente de unhas arranhando um quadro-
+negro (ou de atrito entre isopores ou entre duas bexigas de ar) há um número infinito delas. Assim, as células
+vibram de acordo com muitas frequências e aquelas presentes na parte inicial da cóclea, por serem mais
+frágeis, são lesadas com mais facilidade. Daí a sensação de aversão a esses sons agudos e “crus”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   54
+        www.estrategiaconcursos.com.br                                                                             59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+                                                                            Ronald Ranvaud, Ciência Hoje, nº 282.
+
+
+No título do texto, o segmento após o travessão é uma
+a) explicação de um termo anterior.
+b) exemplificação de “sons agudos”.
+c) comparação de “sons agudos” com “unhas arranhando um quadro-negro”.
+d) conclusão feita a partir da parte inicial do texto.
+e) uma finalidade da produção de sons agudos.
+Comentário:
+No título: “Por que sentimos calafrios e desconforto ao ouvir certos sons agudos – como unhas arranhando
+um quadro-negro?”, o trecho que ocorre após o sinal de travessão é um aposto, que está exemplificando a
+expressão “sons agudos”, conforme consta na alternativa B.
+Gabarito: B
+
+                                      Subordinação - Oração reduzida
+Questão 11
+FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+
+“Os policiais militares são os primeiros a chegar ao local do crime, para isolar a área e preservar as provas.”
+Se transformarmos as orações reduzidas sublinhadas em orações desenvolvidas, a forma adequada será:
+A. para que isolem a área e preservem as provas;
+B. para o isolamento da área e preservação das provas;
+C. para isolarem a área e preservarem as provas;
+D. para que isolassem a área e preservassem as provas;
+E. para que isolem a área e para preservação das provas.
+Comentário: A diferença primeira entre a forma de oração reduzida e sua contraparte desenvolvida é a
+presença de verbo em forma conjugada e conjunção a introduzir a oração. E a questão pede exatamente a
+transposição da reduzida em desenvolvida.
+Temos, então, duas orações reduzidas de infinitivo que podem ser classificadas como orações subordinadas
+adverbiais finais (a preposição "para" indicativa de finalidade nos mostra o sentido da oração) e
+desenvolvidas com o uso da conjunção adverbial final "para que", acompanhada dos verbos "isolar" e
+"preservar" devidamente conjugados e em concordância com o sujeito "os policiais militares".
+
+
+Opta-se por forma de presente do subjuntivo na conjugação verbal, estabelecendo correlação com os
+verbos da passagem anterior:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                   55
+         www.estrategiaconcursos.com.br                                                                             59
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+“Os policiais militares são os primeiros a chegar ao local do crime, para que isolem a área e preservem as
+provas.”
+Nas demais assertivas:
+B) para o isolamento da área e preservação das provas;
+Incorreta. A forma "isolamento" não é verbo e não desenvolve a oração;
+C) para que isolassem a área e preservassem as provas;
+Incorreta. Consoante exposto, não há correlação verbal no uso de forma de futuro do pretérito;
+D) para que isolassem a área e preservassem as provas;
+Incorreta. Consoante exposto, não há correlação verbal no uso de forma de futuro do pretérito;
+E) para que isolem a área e para preservação das provas.
+Incorreta. A forma "preservação" não é verbo e não desenvolve a oração;
+Gabarito: A
+
+
+                                                    Pontuação
+Questão 12
+FGV - 2022 - MPE-BA - Estagiário de Direito - Edital nº 01
+
+
+Se colocarmos todas as vírgulas necessárias na frase “Não me importo de me atribuírem todos os pecados
+do mundo mas por favor não digam que eu seria capaz de comer pizza de soja.”, a forma correta será:
+A. “Não me importo de me atribuírem todos os pecados do mundo, mas, por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+B. “Não me importo de me atribuírem todos os pecados do mundo, mas por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+C. “Não me importo de me atribuírem todos os pecados do mundo mas por favor, não digam que eu seria
+capaz de comer pizza de soja.”;
+D. “Não me importo de me atribuírem todos os pecados do mundo, mas por favor, não digam, que eu seria
+capaz de comer pizza de soja.”;
+E. “Não me importo, de me atribuírem todos os pecados do mundo, mas por favor, não digam que eu seria
+capaz de comer pizza de soja".
+Comentário: se observarmos com atenção a letra A, vamos ver que é a única que traz vírgula antes de depois
+do "mas". Só há um caso em que isso acontece: quando houver uma intercalação de uma palavra.
+A- Não me importo de me atribuírem todos os pecados do mundo, mas, por favor, não digam que eu seria
+capaz de comer pizza de soja.”
+Nesse caso, o POR FAVOR é uma intercalação.
+Gabarito: A
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 56
+        www.estrategiaconcursos.com.br                                                                       59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+10- REVISÃO ESTRATÉGICA
+
+10.1 PERGUNTAS
+
+1. Diferencie oração e período.
+2. Qual é a característica de um período composto por coordenação?
+3. Diferencie orações coordenadas assindéticas e orações coordenadas sindéticas.
+4. Especifique as diferentes relações que podem existir entre orações coordenadas sindéticas.
+5. Cite as principais conjunções que anunciam orações coordenadas.
+6. Diferencie oração principal de oração subordinada.
+7. Quais são os tipos de oração subordinada existentes?
+8. Cite os principais tipos de pontuação existentes.
+9. Dentre os elementos de pontuação, um dos mais empregados em textos de língua portuguesa é a
+vírgula. Cite pelo menos 5 funções da vírgula em orações.
+10. Quais são os casos em que a vírgula é empregada entre orações?
+
+10.2 - PERGUNTAS E RESPOSTAS
+
+1. Diferencie oração e período.
+Orações são enunciados que possuem verbo, os quais podem ter sentido completo ou não. Um período é
+um conjunto formado por uma oração (período simples) ou por mais de uma (período composto).
+
+
+2. Qual é a característica de um período composto por coordenação?
+Um período composto por coordenação possui orações sintaticamente independentes, mas equivalentes
+entre si.
+
+
+3. Diferencie orações coordenadas assindéticas e orações coordenadas sindéticas.
+Orações coordenadas assindéticas não possuem elemento de ligação entre si, ou seja, não há conjunção
+interligando-as umas às outras. Já as orações sindéticas são interligadas por conjunções.
+
+
+4. Especifique as diferentes relações que podem existir entre orações coordenadas sindéticas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                           57
+        www.estrategiaconcursos.com.br                                                                 59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+As orações coordenadas sindéticas podem ser: aditivas, adversativas, alternativas, conclusivas e
+explicativas.
+
+
+5. Cite as principais conjunções que anunciam orações coordenadas.
+
+ Aditivas          e, nem, mas também, mas ainda, como também, bem como
+
+ Adversativas      mas, porém, todavia, contudo, entretanto, no entanto, não
+                   obstante
+
+ Alternativas      ou, ou...ou, ora...ora, quer...quer, seja...seja
+
+ Conclusivas       assim, logo, portanto, senão, por isso, por conseguinte, pois
+                   (após o verbo)
+ Explicativas      porque, que, porquanto, pois (antes do verbo)
+
+6. Diferencie oração principal de oração subordinada.
+A oração principal não tem sentido sem um complemento, já a oração subordinada é o complemento da
+oração principal, tem o sentido subordinado ao da oração principal.
+
+
+7. Quais são os tipos de oração subordinada existentes?
+As subdivisões das orações subordinadas são substantivas, adjetivas e adverbiais.
+
+
+8. Cite os principais tipos de pontuação existentes.
+Vírgula, ponto final, dois pontos, ponto e vírgula, ponto de interrogação, ponto de exclamação, travessão,
+reticências, parênteses e aspas.
+
+
+9. Dentre os elementos de pontuação, um dos mais empregados em textos de língua portuguesa é a
+vírgula. Cite pelo menos 5 funções da vírgula em orações.
+A vírgula dentro das orações, entre outras funções, pode ser empregada para isolar vocativo; para isolar
+aposto explicativo; para separar elementos coordenados; para marcar a elipse de um verbo; para isolar
+adjuntos adverbiais deslocados na oração principal.
+
+
+10. Quais são os casos em que a vírgula é empregada entre orações?
+A vírgula também deve ser empregada para separar orações coordenadas; para isolar a oração subordinada
+substantiva apositiva; para isolar a oração adjetiva explicativa; para isolar as orações adverbiais quando
+intercaladas na oração principal ou antecipadas a ela.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 58
+        www.estrategiaconcursos.com.br                                                                       59
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 08
+
+Servidores, chegamos ao final de mais uma aula. Façam uma boa revisão dos conceitos vistos hoje para
+gabaritarem as provas de Língua Portuguesa.
+Na próxima aula, continuremos avançando gradativamente, de modo a visitar cada tópico cobrado pela
+banca examinadora. Estejam atentos aos percentuais estatísticos de cobrança para direcionarem seus
+estudos, ok?
+Forte abraço!
+
+Prof. Carlos Roberto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                       59
+        www.estrategiaconcursos.com.br                                                                 59
+                                    
+
+
+---
+
+---

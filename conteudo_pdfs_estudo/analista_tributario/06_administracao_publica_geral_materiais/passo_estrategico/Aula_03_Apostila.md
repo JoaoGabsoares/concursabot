@@ -1,0 +1,1377 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 03_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 02
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 02
+
+                                                 SIMULADO
+Considerações iniciais 
+Simulado 
+  Simulado - sem comentários 
+  Questão desafio – Sem comentário 
+  Gabarito do simulado 
+  Simulado - com comentários 
+  Questão desafio – Comentada 
+  Considerações Finais 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                                           1
+          www.estrategiaconcursos.com.br                                                                                          31
+                                          
+
+
+---
+
+ Abraão Pereira
+ Aula 02
+
+                                CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+Prontos para o nosso primeiro simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+                                                                                        Bom simulado!!!
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                2
+       www.estrategiaconcursos.com.br                                                               31
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+1. (Administração Geral / Passo Estratégico / 2024)
+O sucesso de uma organização depende, em grande parte, do equilíbrio entre as diversas
+funções do processo administrativo. Uma dessas funções, em particular, é frequentemente
+mencionada como a base sobre a qual todas as outras se constroem, sendo responsável
+por traçar os caminhos que a organização deverá seguir para atingir seus objetivos, tanto
+a curto quanto a longo prazo. Ela se caracteriza pela antecipação de possíveis cenários
+futuros e pela alocação de estratégias voltadas para o aproveitamento de oportunidades e
+mitigação de riscos, enquanto estabelece as diretrizes que guiarão as decisões
+organizacionais. Em um cenário empresarial competitivo, essa função é crucial para definir
+"o que deve ser feito" e "como deve ser feito", criando os fundamentos para que a
+organização possa responder adequadamente às mudanças ambientais e às pressões do
+mercado.
+Com base na descrição acima, assinale a alternativa que identifica corretamente essa
+função e uma de suas principais características:
+a) Planejamento – Foco em determinar os recursos e as estruturas necessárias para a
+execução das tarefas, organizando os fluxos de trabalho e distribuindo as
+responsabilidades entre os setores e colaboradores da empresa.
+b) Organização – Responsável por definir os objetivos a serem alcançados pela empresa e
+por desenvolver as estratégias que orientarão a execução das atividades, bem como por
+prever as ameaças e oportunidades do ambiente externo.
+c) Direção – Relacionada à motivação e ao comando dos funcionários, assegurando que as
+atividades sejam realizadas de forma eficaz, de acordo com os planos estabelecidos pela
+gestão superior.
+d) Controle – Focado no acompanhamento e na medição dos resultados das ações
+implementadas, assegurando que as atividades estão sendo conduzidas de acordo com os
+padrões preestabelecidos e que os objetivos organizacionais estão sendo atingidos.
+e) Planejamento – Envolve a formulação dos objetivos da organização e o desenvolvimento
+de estratégias que antecipem cenários futuros, a fim de garantir que a empresa esteja
+preparada para enfrentar desafios e aproveitar oportunidades de forma eficaz.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    3
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+2. (Administração Geral / Passo Estratégico / 2024)
+A Teoria Clássica da Administração, desenvolvida por Henri Fayol, apresentou uma série
+de princípios fundamentais que influenciaram a gestão das organizações até os dias atuais.
+Um desses princípios sugere que cada funcionário deve receber ordens de um único
+supervisor, garantindo uma linha clara de autoridade e evitando confusões que possam
+ocorrer quando diferentes superiores emitem instruções conflitantes. Esse princípio reflete
+a necessidade de uma estrutura hierárquica bem definida e é considerado essencial para a
+eficiência organizacional.
+Com base na descrição acima, assinale a alternativa que identifica corretamente o princípio
+descrito e uma das suas características principais.
+a) Princípio da Disciplina – Refere-se à obediência e ao cumprimento rigoroso das normas
+estabelecidas pela organização, garantindo que todos os colaboradores sigam um padrão
+de comportamento.
+b) Princípio da Unidade de Comando – Estabelece que cada colaborador deve estar
+subordinado a um único chefe, evitando confusão e assegurando uma linha clara de
+autoridade.
+c) Princípio da Centralização – Refere-se à concentração do poder de decisão no topo da
+hierarquia, com os níveis inferiores tendo pouca autonomia para tomar decisões
+importantes.
+d) Princípio da Cadeia Escalar – Estabelece uma linha clara de autoridade que liga todos
+os níveis da organização, desde os mais altos até os mais baixos, com base no respeito à
+hierarquia.
+e) Princípio da Subordinação dos Interesses Individuais aos Interesses Gerais – Define que
+os interesses da organização devem prevalecer sobre os interesses pessoais dos
+colaboradores.
+
+
+3. (Administração Geral / Passo Estratégico / 2024)
+A Teoria das Relações Humanas, desenvolvida a partir das experiências de Hawthorne,
+introduziu uma perspectiva inovadora para a administração, focando na importância dos
+aspectos sociais e emocionais dentro das organizações. Essa teoria enfatiza a necessidade
+de compreender as interações entre os colaboradores e reconhece a existência de grupos
+informais que influenciam diretamente o comportamento dos trabalhadores. Um dos
+principais legados dessa teoria é a importância atribuída à motivação não financeira e ao
+ambiente social para o aumento da produtividade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    4
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Com base nisso, assinale a alternativa que melhor descreve um dos aspectos centrais da
+Teoria das Relações Humanas:
+a) A motivação dos colaboradores deve ser exclusivamente financeira, pois os incentivos
+materiais são a única forma de garantir produtividade.
+b) Os grupos informais formados dentro da organização podem influenciar
+significativamente o comportamento dos colaboradores, afetando a produtividade e a
+satisfação no trabalho.
+c) A estrutura organizacional rígida e hierárquica é essencial para garantir a eficiência e a
+eficácia dentro das organizações.
+d) A principal função dos gerentes, segundo a Teoria das Relações Humanas, é garantir
+que todos os procedimentos operacionais sejam seguidos à risca.
+e) O foco principal da Teoria das Relações Humanas é otimizar os processos e eliminar
+desperdícios através de uma divisão do trabalho mais eficiente.
+
+
+4. (Administração Geral / Passo Estratégico / 2024)
+A Teoria da Burocracia, desenvolvida por Max Weber, é caracterizada por uma estrutura
+organizacional rígida, regida por normas e regulamentos impessoais, além de uma clara
+divisão de trabalho e hierarquia. Essa teoria foi desenvolvida como uma resposta às
+limitações das abordagens anteriores e visava criar um sistema mais racional e eficiente. No
+entanto, um dos problemas frequentemente identificados na prática burocrática é o
+excesso de formalismo, que pode levar a ineficiências operacionais, dificultando a inovação
+e a flexibilidade organizacional.
+Diante dessa perspectiva, assinale a alternativa que melhor descreve uma das críticas às
+disfunções da burocracia:
+a) A burocracia promove a inovação e a flexibilidade dentro da organização, permitindo
+que os funcionários tenham mais autonomia para tomar decisões.
+b) O excesso de formalismo e a rigidez nos procedimentos burocráticos podem levar à
+perda de foco nos resultados e à resistência a mudanças.
+c) A principal disfunção da burocracia é a falta de regras claras e a ausência de hierarquia
+formal, o que dificulta o controle das operações.
+d) A burocracia é amplamente criticada por sua informalidade e pela ausência de normas,
+o que gera desorganização interna e conflitos de autoridade.
+e) O foco da burocracia está na eliminação dos grupos informais, que são considerados
+prejudiciais para a eficiência organizacional.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     5
+        www.estrategiaconcursos.com.br                                                    31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+5. (Administração Geral / Passo Estratégico / 2024)
+A Teoria dos Sistemas oferece uma visão mais integrada e global da organização,
+considerando-a como um sistema aberto que interage continuamente com o ambiente
+externo. Essa teoria reconhece que as organizações são compostas por vários subsistemas
+interdependentes e que o sucesso organizacional depende do equilíbrio e da interação
+eficaz entre esses subsistemas. A teoria também destaca a importância da retroalimentação
+(feedback), que permite que a organização faça ajustes contínuos em suas operações com
+base nas informações recebidas.
+Com base nisso, qual das alternativas a seguir descreve corretamente um dos componentes
+essenciais de um sistema organizacional, segundo a Teoria dos Sistemas?
+a) Entradas (inputs) – São os resultados finais da organização, como produtos ou serviços,
+que são entregues ao ambiente externo após o processamento.
+b) Saídas (outputs) – São os recursos que entram no sistema, como materiais, informações
+e energia, e que serão transformados para produzir os resultados desejados.
+c) Processamento – Refere-se ao mecanismo interno pelo qual os inputs são transformados
+em outputs, convertendo recursos em produtos ou serviços.
+d) Retroalimentação (feedback) – Trata-se do conjunto de diretrizes e regras que guiam o
+comportamento dos funcionários dentro da organização, assegurando que eles sigam os
+procedimentos operacionais.
+e) Ambiente – Refere-se ao espaço físico onde os colaboradores realizam suas atividades
+diárias, garantindo que as condições de trabalho sejam adequadas.
+
+
+6. (Administração Geral / Passo Estratégico / 2024)
+Henry Mintzberg, ao estudar o comportamento dos administradores, identificou que suas
+atividades podem ser agrupadas em três grandes categorias de papéis: interpessoais,
+informacionais e decisórios. Dentro dessas categorias, cada papel gerencial se traduz em
+ações concretas que o administrador deve desempenhar para garantir o bom
+funcionamento da organização. Por outro lado, Robert Katz destacou três habilidades
+essenciais para um administrador de sucesso: habilidades técnicas, habilidades humanas e
+habilidades conceituais. Essas habilidades são demandadas em diferentes proporções,
+dependendo do nível hierárquico em que o administrador atua.
+Diante dessa perspectiva, assinale a alternativa que relaciona corretamente um dos papéis
+gerenciais identificados por Mintzberg e uma das habilidades destacadas por Katz,
+explicando sua aplicação em um nível gerencial específico.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    6
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+a) Papel de liderança (interpessoal) e habilidades conceituais – São fundamentais para os
+administradores de nível estratégico, pois envolvem a capacidade de motivar diretamente
+os subordinados e de formular estratégias de longo prazo.
+b) Papel de porta-voz (informacional) e habilidades técnicas – Essenciais no nível
+operacional, onde o administrador precisa repassar informações para as equipes e dominar
+processos técnicos específicos de sua área de atuação.
+c) Papel de empreendedor (decisório) e habilidades conceituais – Cruciais para os
+administradores de nível estratégico, que identificam novas oportunidades e tomam
+decisões importantes sobre o futuro da organização com base em uma visão ampla e
+abstrata.
+d) Papel de elemento de ligação (interpessoal) e habilidades técnicas – Importantes no nível
+tático, onde o administrador coordena as atividades entre diferentes setores e implementa
+soluções técnicas diretamente nas operações.
+e) Papel de solucionador de conflitos (decisório) e habilidades humanas – Predominam no
+nível operacional, pois os administradores desse nível são responsáveis por resolver
+disputas menores entre funcionários de chão de fábrica e garantir a execução eficiente das
+tarefas.
+
+
+7. (Administração Geral / Passo Estratégico / 2024)
+No contexto da administração moderna, o planejamento é dividido em diferentes níveis,
+cada um com características, escopo e horizontes temporais distintos. O planejamento
+estratégico, o planejamento tático e o planejamento operacional são três níveis essenciais
+que se inter-relacionam dentro das organizações para garantir o alcance dos objetivos
+organizacionais. Cada um desses níveis desempenha um papel específico no processo de
+administração.
+Com base nessas informações, assinale a alternativa que descreve corretamente as
+principais características do planejamento operacional:
+a) Planejamento operacional foca no longo prazo da organização e envolve a definição de
+objetivos amplos que afetarão todas as áreas da empresa, considerando tanto fatores
+internos quanto externos, como concorrência e mudanças no mercado.
+b) Planejamento operacional é responsável por desdobrar as estratégias definidas no nível
+estratégico em planos específicos e ações práticas aplicáveis a áreas específicas da
+organização, com foco no médio prazo e na eficiência operacional.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    7
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+c) Planejamento operacional envolve a implementação de políticas e procedimentos
+necessários para a execução das atividades diárias da organização, sendo orientado para
+o curto prazo e voltado para a otimização de recursos e processos internos.
+d) Planejamento operacional é caracterizado pela análise e formulação de metas de longo
+prazo da organização, sendo sua principal preocupação garantir a flexibilidade da empresa
+diante das mudanças no ambiente externo.
+e) Planejamento operacional é focado na elaboração de planos detalhados que permitam
+à organização antecipar-se a futuros desafios e oportunidades, sendo caracterizado pela
+criação de cenários alternativos e adaptáveis.
+
+
+8. (Administração Geral / Passo Estratégico / 2024)
+A Administração por Objetivos (APO) é uma abordagem de gestão desenvolvida para
+alinhar as metas organizacionais com os objetivos individuais dos colaboradores. Essa
+técnica foi criada como uma resposta à necessidade de maior envolvimento dos
+funcionários no processo de tomada de decisão e no acompanhamento do desempenho.
+Uma das suas principais características é a participação ativa de todos os níveis da
+organização no estabelecimento das metas.
+Com base nessa abordagem, assinale a alternativa que descreve corretamente uma das
+desvantagens da Administração por Objetivos (APO):
+a) A Administração por Objetivos aumenta o foco nos resultados de curto prazo, podendo
+negligenciar o desenvolvimento de estratégias de longo prazo.
+b) A Administração por Objetivos desestimula a participação dos funcionários no processo
+de definição de metas, já que os objetivos são impostos pela alta administração.
+c) A Administração por Objetivos prioriza a padronização de processos em detrimento da
+inovação e da flexibilidade dentro da organização.
+d) A Administração por Objetivos é eficaz apenas em ambientes altamente hierárquicos,
+sendo inadequada para empresas que adotam uma estrutura organizacional mais
+horizontal.
+e) A Administração por Objetivos não permite a avaliação de desempenho dos
+colaboradores, uma vez que as metas são estabelecidas de forma genérica e coletiva.
+
+
+9. (Administração Geral / Passo Estratégico / 2024)
+A Matriz SWOT é uma ferramenta amplamente utilizada no planejamento estratégico para
+avaliar a posição de uma organização no mercado. Ela permite que os gestores
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    8
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+identifiquem os pontos fortes e fracos da organização, bem como as oportunidades e
+ameaças presentes no ambiente externo. A matriz é representada graficamente e facilita o
+desenvolvimento de estratégias adequadas para alavancar as forças e aproveitar as
+oportunidades, enquanto minimiza as fraquezas e enfrenta as ameaças.
+Com base nisso, assinale a alternativa que melhor representa a combinação de forças
+internas e ameaças externas no contexto da Matriz SWOT:
+a) A combinação de forças internas e ameaças externas caracteriza um cenário de
+vulnerabilidade, no qual a organização deve usar seus pontos fortes para mitigar os
+impactos das ameaças.
+b) A combinação de forças internas e ameaças externas resulta em uma situação de
+alavancagem, onde a organização aproveita as oportunidades externas com base nos seus
+pontos fortes.
+c) A combinação de forças internas e ameaças externas reflete um cenário de problemas,
+no qual a organização enfrenta dificuldades tanto internas quanto externas.
+d) A combinação de forças internas e ameaças externas não é relevante para o
+planejamento estratégico, pois as ameaças externas são inevitáveis e não podem ser
+influenciadas pela organização.
+e) A combinação de forças internas e ameaças externas leva a uma situação de limitação,
+onde a organização é impedida de crescer devido à falta de recursos internos.
+
+
+10.    (Administração Geral / Passo Estratégico / 2024)
+O Balanced Scorecard (BSC) é uma ferramenta de gestão estratégica que permite às
+organizações monitorar o desempenho em múltiplas dimensões. Ele foi desenvolvido por
+Robert Kaplan e David Norton e ajuda a traduzir a visão e a estratégia de uma empresa em
+objetivos mensuráveis, distribuídos em quatro perspectivas. Cada perspectiva aborda um
+aspecto diferente do desempenho organizacional e é interligada às demais, promovendo
+uma visão equilibrada do sucesso da organização.
+Assinale a alternativa que corretamente descreve a Perspectiva dos Processos Internos do
+Balanced Scorecard:
+a) A Perspectiva dos Processos Internos foca na captação e retenção de clientes, avaliando
+a satisfação do consumidor e a qualidade dos produtos ou serviços oferecidos pela
+organização.
+b) A Perspectiva dos Processos Internos mede o desempenho financeiro da organização,
+avaliando indicadores como lucro, retorno sobre o investimento e fluxo de caixa.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    9
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+c) A Perspectiva dos Processos Internos se concentra no desenvolvimento do capital
+humano, infraestrutura tecnológica e cultura organizacional para garantir o crescimento
+futuro.
+d) A Perspectiva dos Processos Internos busca identificar os processos internos críticos para
+a excelência operacional, incluindo inovação, qualidade e produtividade dos processos
+organizacionais.
+e) A Perspectiva dos Processos Internos tem como principal objetivo definir os valores e a
+missão da empresa, garantindo que todos os colaboradores estejam alinhados com a visão
+da organização.
+
+
+11.    (Administração Geral / Passo Estratégico / 2024)
+O planejamento baseado em cenários é uma técnica que ajuda as organizações a se
+prepararem para um futuro incerto, desenvolvendo diferentes projeções de possíveis
+acontecimentos. Essa abordagem permite que os gestores criem planos flexíveis, ajustáveis
+às condições do ambiente, sem a necessidade de prever o futuro com precisão. Assim, o
+planejamento baseado em cenários possibilita uma resposta mais eficiente às mudanças,
+ao antecipar diferentes alternativas de ação.
+Qual das alternativas abaixo descreve corretamente uma das etapas do processo de
+planejamento baseado em cenários?
+a) A identificação de tendências é usada para definir um único futuro previsível, eliminando
+a incerteza no processo de planejamento.
+b) A construção de cenários envolve a criação de múltiplas alternativas de futuros possíveis,
+considerando fatores que podem influenciar significativamente o ambiente organizacional.
+c) A implementação dos cenários foca exclusivamente no monitoramento dos indicadores
+financeiros, que são os únicos fatores relevantes para a adaptação da empresa ao futuro.
+d) A construção de cenários concentra-se na análise do ambiente interno da organização,
+sem levar em consideração as forças externas que podem impactar o negócio.
+e) A previsão dos resultados financeiros é a etapa mais importante do planejamento
+baseado em cenários, pois garante que a organização será lucrativa em qualquer futuro.
+
+
+12.    (Administração Geral / Passo Estratégico / 2024)
+As organizações desenvolvem diferentes níveis de planejamento para gerenciar suas
+atividades de forma eficiente. Os planejamentos estratégico, tático e operacional têm
+escopos e horizontes temporais variados, sendo cada um responsável por uma parte do
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   10
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+processo de administração. Enquanto o planejamento estratégico lida com objetivos de
+longo prazo e envolve toda a organização, o planejamento tático e operacional têm
+finalidades mais específicas e horizontes temporais mais curtos.
+Com base nisso, assinale a alternativa que melhor descreve o planejamento tático:
+a) Planejamento tático abrange a organização como um todo, sendo responsável pela
+definição dos grandes objetivos de longo prazo que guiarão o futuro da empresa.
+b) Planejamento tático está voltado para a execução das atividades diárias da organização,
+concentrando-se no curto prazo e na utilização eficiente dos recursos.
+c) Planejamento tático é implementado pelos gerentes de nível intermediário e traduz as
+diretrizes estratégicas em planos mais detalhados aplicáveis a cada departamento ou
+unidade da organização.
+d) Planejamento tático é realizado pela alta administração e busca prever cenários futuros
+para que a organização possa se adaptar às mudanças do ambiente externo.
+e) Planejamento tático se concentra na análise dos processos internos críticos para a
+operação diária da empresa, garantindo a eficiência nas atividades rotineiras.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   11
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Questão desafio – Sem comentário
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma empresa de médio porte está passando por um processo de reestruturação
+estratégica. Como parte desse processo, ela está revisando seu Planejamento Estratégico,
+Tático e Operacional, além de implementar a Administração por Objetivos (APO) para
+alinhar as metas dos departamentos com os objetivos globais da empresa. A organização
+também está interessada em utilizar o Balanced Scorecard (BSC) para melhorar o
+monitoramento de suas atividades e garantir que todas as áreas estejam colaborando para
+alcançar os resultados esperados. No entanto, a empresa enfrenta alguns desafios, como
+a necessidade de maior integração entre seus departamentos e a adaptação às rápidas
+mudanças no mercado.
+Com base nesse cenário, responda às seguintes perguntas:
+   1. Como a Administração por Objetivos (APO) pode ajudar a empresa a garantir que
+      todos os departamentos estejam alinhados com os objetivos globais da organização?
+      Descreva o processo de implementação da APO.
+   2. Explique como o Balanced Scorecard (BSC) pode ser utilizado para monitorar a
+      performance da empresa de maneira mais abrangente, considerando as quatro
+      perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento).
+      Como essa ferramenta pode auxiliar a empresa a melhorar a integração entre seus
+      departamentos?
+   3. Sabendo que a empresa opera em um ambiente de mercado volátil, como a
+      abordagem de Planejamento Baseado em Cenários pode ser aplicada para ajudá-la
+      a se preparar para possíveis mudanças e garantir maior flexibilidade em suas
+      estratégias?
+
+
+RESPOSTA:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   12
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 02
+
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   13
+       www.estrategiaconcursos.com.br                                                   31
+                                   
+
+
+---
+
+ Abraão Pereira
+ Aula 02
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  E                                      7                  C
+
+           2                  B                                      8                  A
+
+           3                  B                                      9                  A
+
+           4                  B                                     10                  D
+
+           5                  C                                     11                  B
+
+           6                  C                                     12                  C
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                14
+       www.estrategiaconcursos.com.br                                                                31
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Simulado - com comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+O sucesso de uma organização depende, em grande parte, do equilíbrio entre as diversas
+funções do processo administrativo. Uma dessas funções, em particular, é frequentemente
+mencionada como a base sobre a qual todas as outras se constroem, sendo responsável
+por traçar os caminhos que a organização deverá seguir para atingir seus objetivos, tanto
+a curto quanto a longo prazo. Ela se caracteriza pela antecipação de possíveis cenários
+futuros e pela alocação de estratégias voltadas para o aproveitamento de oportunidades e
+mitigação de riscos, enquanto estabelece as diretrizes que guiarão as decisões
+                                                       ==219a34==
+
+organizacionais. Em um cenário empresarial competitivo, essa função é crucial para definir
+"o que deve ser feito" e "como deve ser feito", criando os fundamentos para que a
+organização possa responder adequadamente às mudanças ambientais e às pressões do
+mercado.
+Com base na descrição acima, assinale a alternativa que identifica corretamente essa
+função e uma de suas principais características:
+a) Planejamento – Foco em determinar os recursos e as estruturas necessárias para a
+execução das tarefas, organizando os fluxos de trabalho e distribuindo as
+responsabilidades entre os setores e colaboradores da empresa.
+b) Organização – Responsável por definir os objetivos a serem alcançados pela empresa e
+por desenvolver as estratégias que orientarão a execução das atividades, bem como por
+prever as ameaças e oportunidades do ambiente externo.
+c) Direção – Relacionada à motivação e ao comando dos funcionários, assegurando que as
+atividades sejam realizadas de forma eficaz, de acordo com os planos estabelecidos pela
+gestão superior.
+d) Controle – Focado no acompanhamento e na medição dos resultados das ações
+implementadas, assegurando que as atividades estão sendo conduzidas de acordo com os
+padrões preestabelecidos e que os objetivos organizacionais estão sendo atingidos.
+e) Planejamento – Envolve a formulação dos objetivos da organização e o desenvolvimento
+de estratégias que antecipem cenários futuros, a fim de garantir que a empresa esteja
+preparada para enfrentar desafios e aproveitar oportunidades de forma eficaz.
+Comentários:
+a) Planejamento: Incorreta. Esta descrição refere-se, na verdade, à função de organização, que
+se preocupa com a alocação de recursos e a estruturação das atividades e tarefas.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       15
+        www.estrategiaconcursos.com.br                                                       31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+b) Organização: Incorreta. A função de organização é responsável pela alocação de recursos e
+pela definição de como o trabalho será distribuído entre os membros da equipe, e não pela
+formulação de estratégias e previsão de cenários.
+
+c) Direção: Incorreta. A função de direção foca na liderança e na gestão das pessoas, utilizando a
+motivação e o comando para garantir que as atividades sejam realizadas de acordo com os planos,
+mas não está envolvida diretamente na formulação dos objetivos estratégicos.
+
+d) Controle: Incorreta. A função de controle está relacionada ao monitoramento e ajuste das
+atividades em andamento, garantindo que os objetivos definidos estejam sendo atingidos de
+acordo com os parâmetros estabelecidos, mas não é a responsável pela definição de objetivos e
+estratégias.
+
+e) Planejamento: Correta. O planejamento é a função administrativa responsável por estabelecer
+os objetivos da organização e por desenvolver as estratégias para alcançá-los, além de antecipar
+cenários e preparar a organização para lidar com os desafios e oportunidades.
+
+Gabarito: E
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+A Teoria Clássica da Administração, desenvolvida por Henri Fayol, apresentou uma série
+de princípios fundamentais que influenciaram a gestão das organizações até os dias atuais.
+Um desses princípios sugere que cada funcionário deve receber ordens de um único
+supervisor, garantindo uma linha clara de autoridade e evitando confusões que possam
+ocorrer quando diferentes superiores emitem instruções conflitantes. Esse princípio reflete
+a necessidade de uma estrutura hierárquica bem definida e é considerado essencial para a
+eficiência organizacional.
+Com base na descrição acima, assinale a alternativa que identifica corretamente o princípio
+descrito e uma das suas características principais.
+a) Princípio da Disciplina – Refere-se à obediência e ao cumprimento rigoroso das normas
+estabelecidas pela organização, garantindo que todos os colaboradores sigam um padrão
+de comportamento.
+b) Princípio da Unidade de Comando – Estabelece que cada colaborador deve estar
+subordinado a um único chefe, evitando confusão e assegurando uma linha clara de
+autoridade.
+c) Princípio da Centralização – Refere-se à concentração do poder de decisão no topo da
+hierarquia, com os níveis inferiores tendo pouca autonomia para tomar decisões
+importantes.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        16
+        www.estrategiaconcursos.com.br                                                        31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+d) Princípio da Cadeia Escalar – Estabelece uma linha clara de autoridade que liga todos
+os níveis da organização, desde os mais altos até os mais baixos, com base no respeito à
+hierarquia.
+e) Princípio da Subordinação dos Interesses Individuais aos Interesses Gerais – Define que
+os interesses da organização devem prevalecer sobre os interesses pessoais dos
+colaboradores.
+Comentários:
+a) Disciplina: Incorreta. Disciplina trata da obediência às regras e normas, mas não se refere à
+relação de comando entre chefe e subordinado.
+
+b) Unidade de Comando: Correta. Este princípio sugere que cada funcionário deve responder a
+um único superior para evitar confusão e conflitos na cadeia de comando.
+
+c) Centralização: Incorreta. Centralização trata da concentração do poder decisório, mas não está
+diretamente ligada à relação entre chefe e subordinado.
+
+d) Cadeia Escalar: Incorreta. Cadeia Escalar refere-se à hierarquia e à linha de autoridade, mas não
+estabelece diretamente que um funcionário só pode ter um único chefe.
+
+e) Subordinação dos Interesses Individuais aos Interesses Gerais: Incorreta. Este princípio se refere
+ao alinhamento dos interesses dos colaboradores com os da organização, não ao comando.
+
+Gabarito: B
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+A Teoria das Relações Humanas, desenvolvida a partir das experiências de Hawthorne,
+introduziu uma perspectiva inovadora para a administração, focando na importância dos
+aspectos sociais e emocionais dentro das organizações. Essa teoria enfatiza a necessidade
+de compreender as interações entre os colaboradores e reconhece a existência de grupos
+informais que influenciam diretamente o comportamento dos trabalhadores. Um dos
+principais legados dessa teoria é a importância atribuída à motivação não financeira e ao
+ambiente social para o aumento da produtividade.
+Com base nisso, assinale a alternativa que melhor descreve um dos aspectos centrais da
+Teoria das Relações Humanas:
+a) A motivação dos colaboradores deve ser exclusivamente financeira, pois os incentivos
+materiais são a única forma de garantir produtividade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral           17
+        www.estrategiaconcursos.com.br                                                           31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+b) Os grupos informais formados dentro da organização podem influenciar
+significativamente o comportamento dos colaboradores, afetando a produtividade e a
+satisfação no trabalho.
+c) A estrutura organizacional rígida e hierárquica é essencial para garantir a eficiência e a
+eficácia dentro das organizações.
+d) A principal função dos gerentes, segundo a Teoria das Relações Humanas, é garantir
+que todos os procedimentos operacionais sejam seguidos à risca.
+e) O foco principal da Teoria das Relações Humanas é otimizar os processos e eliminar
+desperdícios através de uma divisão do trabalho mais eficiente.
+Comentários:
+a) Incorreta. A Teoria das Relações Humanas valoriza tanto os aspectos sociais quanto os
+emocionais, não limitando a motivação aos incentivos financeiros.
+
+b) Correta. A teoria enfatiza a importância dos grupos informais e como eles podem influenciar
+positivamente ou negativamente a dinâmica da organização.
+
+c) Incorreta. A Teoria das Relações Humanas desafia a rigidez organizacional, focando nas relações
+humanas e no bem-estar dos colaboradores.
+
+d) Incorreta. O foco da teoria está nas relações sociais, não na supervisão estrita dos
+procedimentos operacionais.
+
+e) Incorreta. Esse é um princípio da Administração Científica, e não da Teoria das Relações
+Humanas.
+
+Gabarito: B
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+A Teoria da Burocracia, desenvolvida por Max Weber, é caracterizada por uma estrutura
+organizacional rígida, regida por normas e regulamentos impessoais, além de uma clara
+divisão de trabalho e hierarquia. Essa teoria foi desenvolvida como uma resposta às
+limitações das abordagens anteriores e visava criar um sistema mais racional e eficiente. No
+entanto, um dos problemas frequentemente identificados na prática burocrática é o
+excesso de formalismo, que pode levar a ineficiências operacionais, dificultando a inovação
+e a flexibilidade organizacional.
+Diante dessa perspectiva, assinale a alternativa que melhor descreve uma das críticas às
+disfunções da burocracia:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        18
+        www.estrategiaconcursos.com.br                                                        31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+a) A burocracia promove a inovação e a flexibilidade dentro da organização, permitindo
+que os funcionários tenham mais autonomia para tomar decisões.
+b) O excesso de formalismo e a rigidez nos procedimentos burocráticos podem levar à
+perda de foco nos resultados e à resistência a mudanças.
+c) A principal disfunção da burocracia é a falta de regras claras e a ausência de hierarquia
+formal, o que dificulta o controle das operações.
+d) A burocracia é amplamente criticada por sua informalidade e pela ausência de normas,
+o que gera desorganização interna e conflitos de autoridade.
+e) O foco da burocracia está na eliminação dos grupos informais, que são considerados
+prejudiciais para a eficiência organizacional.
+Comentários:
+
+a) Incorreta. A burocracia é criticada por sua rigidez, que muitas vezes impede a inovação.
+
+b) Correta. Uma das principais críticas à burocracia é o excesso de formalismo, que pode levar a
+ineficiências e dificultar a adaptação a novas situações.
+
+c) Incorreta. A burocracia é, na verdade, caracterizada por regras e procedimentos muito bem
+definidos.
+
+d) Incorreta. A burocracia é conhecida por sua formalidade, não pela ausência de normas.
+
+e) Incorreta. Embora a burocracia se concentre na formalidade, a crítica principal não é contra os
+grupos informais, mas sim contra a rigidez dos processos.
+
+Gabarito: B
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+A Teoria dos Sistemas oferece uma visão mais integrada e global da organização,
+considerando-a como um sistema aberto que interage continuamente com o ambiente
+externo. Essa teoria reconhece que as organizações são compostas por vários subsistemas
+interdependentes e que o sucesso organizacional depende do equilíbrio e da interação
+eficaz entre esses subsistemas. A teoria também destaca a importância da retroalimentação
+(feedback), que permite que a organização faça ajustes contínuos em suas operações com
+base nas informações recebidas.
+Com base nisso, qual das alternativas a seguir descreve corretamente um dos componentes
+essenciais de um sistema organizacional, segundo a Teoria dos Sistemas?
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        19
+        www.estrategiaconcursos.com.br                                                        31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+a) Entradas (inputs) – São os resultados finais da organização, como produtos ou serviços,
+que são entregues ao ambiente externo após o processamento.
+b) Saídas (outputs) – São os recursos que entram no sistema, como materiais, informações
+e energia, e que serão transformados para produzir os resultados desejados.
+c) Processamento – Refere-se ao mecanismo interno pelo qual os inputs são transformados
+em outputs, convertendo recursos em produtos ou serviços.
+d) Retroalimentação (feedback) – Trata-se do conjunto de diretrizes e regras que guiam o
+comportamento dos funcionários dentro da organização, assegurando que eles sigam os
+procedimentos operacionais.
+e) Ambiente – Refere-se ao espaço físico onde os colaboradores realizam suas atividades
+diárias, garantindo que as condições de trabalho sejam adequadas.
+Comentários:
+
+a) Incorreta. Entradas são os recursos que entram no sistema, não os resultados finais.
+
+b) Incorreta. Saídas são os produtos ou serviços finais gerados pelo sistema, não os recursos que
+entram.
+
+c) Correta. O processamento é o mecanismo interno que transforma os inputs em outputs.
+
+d) Incorreta. Retroalimentação refere-se ao feedback, e não a diretrizes e regras.
+
+e) Incorreta. O ambiente é o contexto externo ao sistema, que interage com ele de diversas
+maneiras.
+
+Gabarito: C
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Henry Mintzberg, ao estudar o comportamento dos administradores, identificou que suas
+atividades podem ser agrupadas em três grandes categorias de papéis: interpessoais,
+informacionais e decisórios. Dentro dessas categorias, cada papel gerencial se traduz em
+ações concretas que o administrador deve desempenhar para garantir o bom
+funcionamento da organização. Por outro lado, Robert Katz destacou três habilidades
+essenciais para um administrador de sucesso: habilidades técnicas, habilidades humanas e
+habilidades conceituais. Essas habilidades são demandadas em diferentes proporções,
+dependendo do nível hierárquico em que o administrador atua.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       20
+        www.estrategiaconcursos.com.br                                                       31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Diante dessa perspectiva, assinale a alternativa que relaciona corretamente um dos papéis
+gerenciais identificados por Mintzberg e uma das habilidades destacadas por Katz,
+explicando sua aplicação em um nível gerencial específico.
+a) Papel de liderança (interpessoal) e habilidades conceituais – São fundamentais para os
+administradores de nível estratégico, pois envolvem a capacidade de motivar diretamente
+os subordinados e de formular estratégias de longo prazo.
+b) Papel de porta-voz (informacional) e habilidades técnicas – Essenciais no nível
+operacional, onde o administrador precisa repassar informações para as equipes e dominar
+processos técnicos específicos de sua área de atuação.
+c) Papel de empreendedor (decisório) e habilidades conceituais – Cruciais para os
+administradores de nível estratégico, que identificam novas oportunidades e tomam
+decisões importantes sobre o futuro da organização com base em uma visão ampla e
+abstrata.
+d) Papel de elemento de ligação (interpessoal) e habilidades técnicas – Importantes no nível
+tático, onde o administrador coordena as atividades entre diferentes setores e implementa
+soluções técnicas diretamente nas operações.
+e) Papel de solucionador de conflitos (decisório) e habilidades humanas – Predominam no
+nível operacional, pois os administradores desse nível são responsáveis por resolver
+disputas menores entre funcionários de chão de fábrica e garantir a execução eficiente das
+tarefas.
+Comentários:
+
+a) Papel de liderança e habilidades conceituais: Incorreta. A liderança está mais relacionada às
+habilidades humanas, que envolvem a motivação e o relacionamento com as pessoas, enquanto
+as habilidades conceituais são mais relevantes para a formulação de estratégias no nível
+estratégico.
+
+b) Papel de porta-voz e habilidades técnicas: Incorreta. O papel de porta-voz é mais relacionado
+às habilidades de comunicação e não exige necessariamente o domínio de processos técnicos
+específicos. Ele é mais comum no nível estratégico.
+
+c) Papel de empreendedor e habilidades conceituais: Correta. O papel de empreendedor envolve
+a tomada de decisões importantes e a identificação de novas oportunidades, sendo especialmente
+relevante para os administradores de nível estratégico que precisam de habilidades conceituais
+para lidar com ideias complexas e abstratas.
+
+d) Papel de elemento de ligação e habilidades técnicas: Incorreta. O papel de elemento de ligação
+é mais relacionado às habilidades humanas, pois envolve a manutenção de contatos e a construção
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       21
+        www.estrategiaconcursos.com.br                                                       31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+de relacionamentos dentro e fora da organização, enquanto as habilidades técnicas são mais
+necessárias no nível operacional.
+
+e) Papel de solucionador de conflitos e habilidades humanas: Incorreta. Embora o papel de
+solucionador de conflitos exija habilidades humanas, ele não se limita ao nível operacional. Esse
+papel também pode ser encontrado em níveis mais altos da organização, especialmente onde
+decisões mais complexas são necessárias para resolver disputas estratégicas.
+
+Gabarito: C
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+No contexto da administração moderna, o planejamento é dividido em diferentes níveis,
+cada um com características, escopo e horizontes temporais distintos. O planejamento
+estratégico, o planejamento tático e o planejamento operacional são três níveis essenciais
+que se inter-relacionam dentro das organizações para garantir o alcance dos objetivos
+organizacionais. Cada um desses níveis desempenha um papel específico no processo de
+administração.
+Com base nessas informações, assinale a alternativa que descreve corretamente as
+principais características do planejamento operacional:
+a) Planejamento operacional foca no longo prazo da organização e envolve a definição de
+objetivos amplos que afetarão todas as áreas da empresa, considerando tanto fatores
+internos quanto externos, como concorrência e mudanças no mercado.
+b) Planejamento operacional é responsável por desdobrar as estratégias definidas no nível
+estratégico em planos específicos e ações práticas aplicáveis a áreas específicas da
+organização, com foco no médio prazo e na eficiência operacional.
+c) Planejamento operacional envolve a implementação de políticas e procedimentos
+necessários para a execução das atividades diárias da organização, sendo orientado para
+o curto prazo e voltado para a otimização de recursos e processos internos.
+d) Planejamento operacional é caracterizado pela análise e formulação de metas de longo
+prazo da organização, sendo sua principal preocupação garantir a flexibilidade da empresa
+diante das mudanças no ambiente externo.
+e) Planejamento operacional é focado na elaboração de planos detalhados que permitam
+à organização antecipar-se a futuros desafios e oportunidades, sendo caracterizado pela
+criação de cenários alternativos e adaptáveis.
+Comentários:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       22
+        www.estrategiaconcursos.com.br                                                       31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+a) Planejamento estratégico: Incorreta. Esta alternativa descreve o planejamento estratégico, que
+é voltado para o longo prazo e para a definição de objetivos amplos que impactam toda a
+organização.
+
+b) Planejamento tático: Incorreta. Esta alternativa descreve o planejamento tático, que traduz as
+estratégias definidas no planejamento estratégico em ações mais específicas aplicáveis aos
+departamentos ou áreas da organização.
+
+c) Planejamento operacional: Correta. O planejamento operacional é voltado para o curto prazo e
+trata da execução das atividades diárias, focando na otimização de processos e recursos para
+garantir a eficiência nas operações cotidianas da empresa.
+
+d) Planejamento estratégico: Incorreta. Esta alternativa descreve o planejamento estratégico, que
+tem como principal objetivo a adaptação da organização a longo prazo às mudanças no ambiente
+externo.
+
+e) Planejamento baseado em cenários: Incorreta. Esta alternativa descreve o planejamento
+baseado em cenários, que envolve a criação de múltiplos cenários futuros para que a organização
+esteja preparada para lidar com diferentes situações.
+
+Gabarito: C
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+A Administração por Objetivos (APO) é uma abordagem de gestão desenvolvida para
+alinhar as metas organizacionais com os objetivos individuais dos colaboradores. Essa
+técnica foi criada como uma resposta à necessidade de maior envolvimento dos
+funcionários no processo de tomada de decisão e no acompanhamento do desempenho.
+Uma das suas principais características é a participação ativa de todos os níveis da
+organização no estabelecimento das metas.
+Com base nessa abordagem, assinale a alternativa que descreve corretamente uma das
+desvantagens da Administração por Objetivos (APO):
+a) A Administração por Objetivos aumenta o foco nos resultados de curto prazo, podendo
+negligenciar o desenvolvimento de estratégias de longo prazo.
+b) A Administração por Objetivos desestimula a participação dos funcionários no processo
+de definição de metas, já que os objetivos são impostos pela alta administração.
+c) A Administração por Objetivos prioriza a padronização de processos em detrimento da
+inovação e da flexibilidade dentro da organização.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       23
+        www.estrategiaconcursos.com.br                                                       31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+d) A Administração por Objetivos é eficaz apenas em ambientes altamente hierárquicos,
+sendo inadequada para empresas que adotam uma estrutura organizacional mais
+horizontal.
+e) A Administração por Objetivos não permite a avaliação de desempenho dos
+colaboradores, uma vez que as metas são estabelecidas de forma genérica e coletiva.
+Comentários:
+
+a) Correta. Uma crítica comum à APO é que o foco excessivo nos resultados de curto prazo
+pode prejudicar a atenção ao desenvolvimento de estratégias de longo prazo.
+
+b) Incorreta. A APO incentiva a participação dos funcionários no processo de definição de
+metas, o que aumenta o comprometimento e a motivação.
+
+c) Incorreta. A APO não prioriza a padronização de processos; seu foco está nos resultados
+e na eficácia, e não na padronização.
+
+d) Incorreta. A APO pode ser aplicada tanto em estruturas hierárquicas quanto em
+estruturas horizontais, pois envolve a definição conjunta de metas em todos os níveis.
+
+e) Incorreta. A APO permite uma avaliação de desempenho baseada no cumprimento de
+metas específicas, que são estabelecidas de maneira clara e mensurável.
+
+Gabarito: A
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+A Matriz SWOT é uma ferramenta amplamente utilizada no planejamento estratégico para
+avaliar a posição de uma organização no mercado. Ela permite que os gestores
+identifiquem os pontos fortes e fracos da organização, bem como as oportunidades e
+ameaças presentes no ambiente externo. A matriz é representada graficamente e facilita o
+desenvolvimento de estratégias adequadas para alavancar as forças e aproveitar as
+oportunidades, enquanto minimiza as fraquezas e enfrenta as ameaças.
+Com base nisso, assinale a alternativa que melhor representa a combinação de forças
+internas e ameaças externas no contexto da Matriz SWOT:
+a) A combinação de forças internas e ameaças externas caracteriza um cenário de
+vulnerabilidade, no qual a organização deve usar seus pontos fortes para mitigar os
+impactos das ameaças.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   24
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+b) A combinação de forças internas e ameaças externas resulta em uma situação de
+alavancagem, onde a organização aproveita as oportunidades externas com base nos seus
+pontos fortes.
+c) A combinação de forças internas e ameaças externas reflete um cenário de problemas,
+no qual a organização enfrenta dificuldades tanto internas quanto externas.
+d) A combinação de forças internas e ameaças externas não é relevante para o
+planejamento estratégico, pois as ameaças externas são inevitáveis e não podem ser
+influenciadas pela organização.
+e) A combinação de forças internas e ameaças externas leva a uma situação de limitação,
+onde a organização é impedida de crescer devido à falta de recursos internos.
+Comentários:
+
+a) Correta. A combinação de forças e ameaças na Matriz SWOT resulta em uma situação
+de vulnerabilidade, onde a organização precisa utilizar suas forças para enfrentar as
+ameaças externas.
+
+b) Incorreta. Alavancagem ocorre quando há uma combinação de forças internas e
+oportunidades externas, não ameaças.
+
+c) Incorreta. O cenário de problemas envolve fraquezas internas e ameaças externas, não
+forças.
+
+d) Incorreta. As ameaças externas são importantes no planejamento estratégico, e a
+organização pode influenciar a forma como reage a elas.
+
+e) Incorreta. A combinação de forças e ameaças não leva a uma situação de limitação, pois
+as forças podem ser usadas para enfrentar as ameaças.
+
+Gabarito: A
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+O Balanced Scorecard (BSC) é uma ferramenta de gestão estratégica que permite às
+organizações monitorar o desempenho em múltiplas dimensões. Ele foi desenvolvido por
+Robert Kaplan e David Norton e ajuda a traduzir a visão e a estratégia de uma empresa em
+objetivos mensuráveis, distribuídos em quatro perspectivas. Cada perspectiva aborda um
+aspecto diferente do desempenho organizacional e é interligada às demais, promovendo
+uma visão equilibrada do sucesso da organização.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   25
+         www.estrategiaconcursos.com.br                                                   31
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Assinale a alternativa que corretamente descreve a Perspectiva dos Processos Internos do
+Balanced Scorecard:
+a) A Perspectiva dos Processos Internos foca na captação e retenção de clientes, avaliando
+a satisfação do consumidor e a qualidade dos produtos ou serviços oferecidos pela
+organização.
+b) A Perspectiva dos Processos Internos mede o desempenho financeiro da organização,
+avaliando indicadores como lucro, retorno sobre o investimento e fluxo de caixa.
+c) A Perspectiva dos Processos Internos se concentra no desenvolvimento do capital
+humano, infraestrutura tecnológica e cultura organizacional para garantir o crescimento
+futuro.
+d) A Perspectiva dos Processos Internos busca identificar os processos internos críticos para
+a excelência operacional, incluindo inovação, qualidade e produtividade dos processos
+organizacionais.
+e) A Perspectiva dos Processos Internos tem como principal objetivo definir os valores e a
+missão da empresa, garantindo que todos os colaboradores estejam alinhados com a visão
+da organização.
+Comentários:
+a) Incorreta. A captação e retenção de clientes estão relacionadas à Perspectiva do Cliente,
+não à dos Processos Internos.
+
+b) Incorreta. A Perspectiva Financeira mede indicadores financeiros, como lucro e retorno
+sobre o investimento.
+
+c) Incorreta. A Perspectiva do Aprendizado e Crescimento é que se concentra no
+desenvolvimento do capital humano e na infraestrutura.
+
+d) Correta. A Perspectiva dos Processos Internos foca na excelência operacional,
+identificando processos críticos, inovação e produtividade.
+
+e) Incorreta. A definição de valores e missão está mais ligada à visão estratégica da
+empresa, não aos processos internos.
+
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   26
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+   11.          (Administração Geral / Passo Estratégico / 2024)
+O planejamento baseado em cenários é uma técnica que ajuda as organizações a se
+prepararem para um futuro incerto, desenvolvendo diferentes projeções de possíveis
+acontecimentos. Essa abordagem permite que os gestores criem planos flexíveis, ajustáveis
+às condições do ambiente, sem a necessidade de prever o futuro com precisão. Assim, o
+planejamento baseado em cenários possibilita uma resposta mais eficiente às mudanças,
+ao antecipar diferentes alternativas de ação.
+Qual das alternativas abaixo descreve corretamente uma das etapas do processo de
+planejamento baseado em cenários?
+a) A identificação de tendências é usada para definir um único futuro previsível, eliminando
+a incerteza no processo de planejamento.
+b) A construção de cenários envolve a criação de múltiplas alternativas de futuros possíveis,
+considerando fatores que podem influenciar significativamente o ambiente organizacional.
+c) A implementação dos cenários foca exclusivamente no monitoramento dos indicadores
+financeiros, que são os únicos fatores relevantes para a adaptação da empresa ao futuro.
+d) A construção de cenários concentra-se na análise do ambiente interno da organização,
+sem levar em consideração as forças externas que podem impactar o negócio.
+e) A previsão dos resultados financeiros é a etapa mais importante do planejamento
+baseado em cenários, pois garante que a organização será lucrativa em qualquer futuro.
+Comentários:
+a) Incorreta. O planejamento baseado em cenários não busca definir um único futuro
+previsível, mas sim desenvolver alternativas diante da incerteza.
+b) Correta. A construção de cenários considera múltiplos futuros possíveis, levando em
+conta diferentes fatores que podem afetar a organização.
+c) Incorreta. O planejamento baseado em cenários não se limita a indicadores financeiros;
+ele envolve uma análise ampla de fatores internos e externos.
+d) Incorreta. A construção de cenários considera tanto o ambiente interno quanto o
+externo.
+e) Incorreta. O foco do planejamento baseado em cenários não é apenas prever resultados
+financeiros, mas preparar a organização para diferentes realidades futuras.
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   27
+         www.estrategiaconcursos.com.br                                                   31
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+   12.          (Administração Geral / Passo Estratégico / 2024)
+As organizações desenvolvem diferentes níveis de planejamento para gerenciar suas
+atividades de forma eficiente. Os planejamentos estratégico, tático e operacional têm
+escopos e horizontes temporais variados, sendo cada um responsável por uma parte do
+processo de administração. Enquanto o planejamento estratégico lida com objetivos de
+longo prazo e envolve toda a organização, o planejamento tático e operacional têm
+finalidades mais específicas e horizontes temporais mais curtos.
+Com base nisso, assinale a alternativa que melhor descreve o planejamento tático:
+a) Planejamento tático abrange a organização como um todo, sendo responsável pela
+definição dos grandes objetivos de longo prazo que guiarão o futuro da empresa.
+b) Planejamento tático está voltado para a execução das atividades diárias da organização,
+concentrando-se no curto prazo e na utilização eficiente dos recursos.
+c) Planejamento tático é implementado pelos gerentes de nível intermediário e traduz as
+diretrizes estratégicas em planos mais detalhados aplicáveis a cada departamento ou
+unidade da organização.
+d) Planejamento tático é realizado pela alta administração e busca prever cenários futuros
+para que a organização possa se adaptar às mudanças do ambiente externo.
+e) Planejamento tático se concentra na análise dos processos internos críticos para a
+operação diária da empresa, garantindo a eficiência nas atividades rotineiras.
+Comentários:
+a) Incorreta. O planejamento estratégico, e não o tático, abrange toda a organização e
+define os grandes objetivos de longo prazo.
+b) Incorreta. O planejamento operacional, e não o tático, se concentra na execução das
+atividades diárias e na utilização eficiente dos recursos.
+c) Correta. O planejamento tático é implementado por gerentes de nível intermediário e
+traduz as estratégias em planos aplicáveis a departamentos específicos.
+d) Incorreta. O planejamento estratégico, e não o tático, é responsável pela adaptação da
+organização a cenários futuros.
+e) Incorreta. A análise dos processos internos está mais associada ao planejamento
+operacional, não ao tático.
+
+Gabarito: C
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   28
+         www.estrategiaconcursos.com.br                                                   31
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Questão desafio – Comentada
+
+(Administração Geral / Passo Estratégico / 2024)
+Uma empresa de médio porte está passando por um processo de reestruturação
+estratégica. Como parte desse processo, ela está revisando seu Planejamento Estratégico,
+Tático e Operacional, além de implementar a Administração por Objetivos (APO) para
+alinhar as metas dos departamentos com os objetivos globais da empresa. A organização
+também está interessada em utilizar o Balanced Scorecard (BSC) para melhorar o
+monitoramento de suas atividades e garantir que todas as áreas estejam colaborando para
+alcançar os resultados esperados. No entanto, a empresa enfrenta alguns desafios, como
+a necessidade de maior integração entre seus departamentos e a adaptação às rápidas
+mudanças no mercado.
+Com base nesse cenário, responda às seguintes perguntas:
+   1. Como a Administração por Objetivos (APO) pode ajudar a empresa a garantir que
+      todos os departamentos estejam alinhados com os objetivos globais da organização?
+      Descreva o processo de implementação da APO.
+   2. Explique como o Balanced Scorecard (BSC) pode ser utilizado para monitorar a
+      performance da empresa de maneira mais abrangente, considerando as quatro
+      perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento).
+      Como essa ferramenta pode auxiliar a empresa a melhorar a integração entre seus
+      departamentos?
+   3. Sabendo que a empresa opera em um ambiente de mercado volátil, como a
+      abordagem de Planejamento Baseado em Cenários pode ser aplicada para ajudá-la
+      a se preparar para possíveis mudanças e garantir maior flexibilidade em suas
+      estratégias?
+
+
+RESPOSTA:
+
+
+1. Como a Administração por Objetivos (APO) pode ajudar a empresa a garantir que todos
+os departamentos estejam alinhados com os objetivos globais da organização? Descreva o
+processo de implementação da APO.
+A APO é uma abordagem de gestão que envolve a participação dos colaboradores na definição
+de metas, alinhando os objetivos de cada departamento com os objetivos globais da empresa. O
+processo de implementação da APO começa com a definição dos objetivos estratégicos pela alta
+administração.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   29
+        www.estrategiaconcursos.com.br                                                   31
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 02
+
+Em seguida, esses objetivos são desdobrados em metas específicas para cada departamento. Os
+gerentes e colaboradores trabalham juntos para definir essas metas, garantindo que elas estejam
+alinhadas com os objetivos da empresa.
+
+A avaliação do desempenho é feita regularmente, com base nos resultados alcançados em relação
+às metas estabelecidas. Isso ajuda a garantir que todos os departamentos estejam trabalhando de
+forma coordenada para atingir os mesmos objetivos globais.
+
+2. Explique como o Balanced Scorecard (BSC) pode ser utilizado para monitorar a
+performance da empresa de maneira mais abrangente, considerando as quatro
+perspectivas (Financeira, Cliente, Processos Internos e Aprendizado e Crescimento). Como
+essa ferramenta pode auxiliar a empresa a melhorar a integração entre seus
+departamentos?
+O Balanced Scorecard (BSC) oferece uma visão ampla do desempenho da empresa, dividida em
+quatro perspectivas: Financeira, Cliente, Processos Internos e Aprendizado e Crescimento.
+
+Na Perspectiva Financeira, a empresa monitora indicadores como lucratividade e retorno sobre o
+investimento.
+
+Na Perspectiva do Cliente, a satisfação e retenção dos clientes são avaliadas.
+
+A Perspectiva dos Processos Internos foca na eficiência operacional, enquanto a Perspectiva do
+Aprendizado e Crescimento analisa a inovação e o desenvolvimento dos colaboradores.
+
+O BSC ajuda a empresa a melhorar a integração entre os departamentos, pois cada perspectiva
+está interligada.
+
+Ao monitorar indicadores em todas essas áreas, a empresa pode identificar pontos de melhoria e
+garantir que todos os departamentos estão contribuindo para os resultados organizacionais de
+maneira coordenada.
+
+3. Sabendo que a empresa opera em um ambiente de mercado volátil, como a abordagem
+de Planejamento Baseado em Cenários pode ser aplicada para ajudá-la a se preparar para
+possíveis mudanças e garantir maior flexibilidade em suas estratégias?
+O Planejamento Baseado em Cenários é uma abordagem que permite à empresa preparar-se para
+diferentes futuros possíveis, desenvolvendo estratégias para lidar com diversas situações.
+
+Em um mercado volátil, essa abordagem ajuda a empresa a antecipar mudanças e criar planos
+para diferentes cenários, como crises econômicas, novos concorrentes ou mudanças regulatórias.
+
+Com base na análise de variáveis internas e externas, a empresa pode construir cenários positivos,
+neutros e negativos, ajustando suas estratégias para se manter flexível diante de incertezas. Isso
+garante maior resiliência e capacidade de adaptação a mudanças no ambiente de negócios.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral        30
+        www.estrategiaconcursos.com.br                                                        31
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 02
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Vamos nos preparando sempre para uma prova bastante difícil e as nossas questões
+tentaram, ao máximo, seguir o nível da banca organizadora.
+
+Grande Abraço a todos!!
+
+Prof. Abraão Pereira
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   31
+       www.estrategiaconcursos.com.br                                                   31
+                                   
+
+
+---
+
+---

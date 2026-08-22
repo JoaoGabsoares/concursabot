@@ -1,0 +1,765 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 20_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '20'
+titulo_aula: LEI DE ACESSO À INFORMAÇÃO
+artigos_citados:
+- Art. 8º-A.
+- Art. 8º-B..
+- art. 24.
+- art. 35
+- art. 3º
+- art. 5º
+- art. 7º
+- art. 9º
+---
+
+# LEI DE ACESSO À INFORMAÇÃO
+
+LEI DE ACESSO À INFORMAÇÃO
+        LEI 12.527/2011
+
+                                              Prof. Antonio Daud
+
+         
+
+
+---
+
+       Agenda
+   ❑ Noções gerais
+   ❑ Procedimento para acesso à informação
+   ❑ Restrições de acesso: sigilo e dados pessoais
+   ❑ Infrações à LAI e responsabilidades dos agentes públicos
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                             
+
+
+---
+
+NOÇÕES GERAIS
+
+                                              Prof. Antonio Daud
+
+         
+
+
+---
+
+  Contexto de surgimento da LAI
+❑ Princípio da Publicidade
+❑ Regulamentação de dispositivos constitucionais:
+CF, art. 5º, XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse
+particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de
+responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do
+Estado;
+CF, art. 37, § 3º A lei disciplinará as formas de participação do usuário na administração pública direta e
+indireta, regulando especialmente: (..)
+II - o acesso dos usuários a registros administrativos e a informações sobre atos de governo, observado
+o disposto no art. 5º, X e XXXIII;
+CF, art. 216. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados
+individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes
+grupos formadores da sociedade brasileira, nos quais se incluem: (..) IV - as obras, objetos, documentos,
+edificações e demais espaços destinados às manifestações artístico-culturais;
+§ 2º
+Lei     Cabem
+    de Acesso        à administração pública, na forma da lei, a gestão da documentação governamental e as
+              à Informação
+Prof. Antonio Daud
+providências para franquear sua consulta            a quantos dela necessitem.
+                                             
+
+
+---
+
+       LAI – alcance (arts. 1º e 2º)
+       ❑ Norma nacional
+               - Normas gerais
+
+       ❑ Todos os Poderes
+       ❑ Administração Direta
+       ❑ Administração Indireta
+       ❑ Entidades controladas pelo poder público
+       ❑ Entidades privadas sem fins lucrativos, desde que:
+               - recebam recursos públicos
+
+               - transparência restrita à parcela de recursos e sua destinação
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                        
+
+
+---
+
+    LAI – alcance (arts. 8º-A e 8º-B - Lei 15.141/2025)
+    Art. 8º-A. As entidades com personalidade jurídica de direito privado, constituídas sob a
+    forma de serviço social autônomo, que sejam destinatárias de contribuições ou de
+    recursos públicos federais decorrentes de contrato de gestão deverão divulgar as
+    seguintes informações relativas aos respectivos empregados:
+    I - o plano de cargos e salários, inclusive com a divulgação dos critérios para a evolução
+    na carreira e para a fixação da política salarial;
+    II - o quantitativo total de empregados da entidade, discriminado por cargo e por faixas
+    salariais, acompanhado do nome do empregado e do cargo por ele ocupado;
+    III - lista, discriminada por faixas salariais, das parcelas remuneratórias e indenizatórias,
+    ainda que eventuais, incluídos os auxílios, as ajudas de custo, as gratificações, os jetons
+    e quaisquer outras vantagens pecuniárias, que os empregados possam receber em
+    virtude de condições específicas; e
+        IV - o quantitativo de funções gratificadas, os critérios para sua ocupação e o rol dos
+        empregados
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                           que ocupam cada espécie de função gratificada.
+                                   
+
+
+---
+
+       LAI – alcance (arts. 8º-A e 8º-B - Lei 15.141/2025)
+     Art. 8º-B.. Os conselhos de fiscalização profissional devem divulgar, de forma nominal e
+     individualizada, lista das parcelas remuneratórias e indenizatórias, ainda que eventuais,
+     incluídos os auxílios, as ajudas de custo, as gratificações, os jetons e quaisquer outras
+     vantagens pecuniárias, que os empregados possam receber em virtude de condições
+     específicas.
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                    
+
+
+---
+
+   Definições (art. 4º)
+                             dados, processados ou não, que podem ser utilizados
+              informação    para produção e transmissão de conhecimento, contidos
+                                        em qualquer meio, suporte ou formato
+                            unidade de registro de informações, qualquer que seja o
+             documento
+                                                         suporte ou formato
+                           aquela submetida temporariamente à restrição de acesso
+      informação sigilosa     público em razão de sua imprescindibilidade para a
+                                           segurança da sociedade e do Estado
+                               aquela relacionada à pessoa natural identificada ou
+      informação pessoal
+                                                                identificável
+                              conjunto de ações referentes à produção, recepção,
+                            classificação, utilização, acesso, reprodução, transporte,
+          tratamento da
+                           transmissão, distribuição, arquivamento, armazenamento,
+              informação
+                                eliminação, avaliação, destinação ou controle da
+Lei de Acesso à Informação
+Prof. Antonio Daud                                               informação
+                                   
+
+
+---
+
+       Definições (art. 4º)
+                                qualidade da informação que pode ser conhecida e
+         disponibilidade        utilizada por indivíduos, equipamentos ou sistemas
+                                autorizados
+                                qualidade da informação que tenha sido produzida,
+          autenticidade         expedida, recebida ou modificada por determinado
+                                indivíduo, equipamento ou sistema
+                                qualidade da informação não modificada, inclusive quanto
+            integridade
+                                à origem, trânsito e destino
+                                qualidade da informação coletada na fonte, com o
+          primariedade
+                                máximo de detalhamento possível, sem modificações
+
+
+                  Transparência ativa vs. passiva
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                       
+
+
+---
+
+           Diretrizes (art. 3º)
+
+                          publicidade é a regra geral; sigilo é exceção
+ diretrizes do acesso à
+
+                                                                                   independentemente de
+                            divulgação de informações de interesse                      solicitações
+                                            público
+       informação
+
+                                                                                    (transparência ativa)
+                            utilização de recursos de tecnologia da
+                                           informação
+
+                             fomento da cultura de transparência
+
+                              desenvolvimento do controle social
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                              
+
+
+---
+
+  Transparência ativa (art. 8º,§§2º a 4º)
+       ❑ Obrigatória divulgação em portais oficiais na internet
+       ❑ Exceção: municípios com até 10.000 habitantes
+
+
+       ❑ Requisitos dos portais: ferramenta de pesquisa, relatório em
+         formato aberto, dados atualizados, íntegros e autênticos,
+         acessibilidade p/ PCD...
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                               
+
+
+---
+
+  Transparência ativa (art. 8º, §1º)
+                                   competências e estrutura
+                                         organizacional
+                             endereços e telefones das respectivas
+                                            unidades
+                              horários de atendimento ao público
+                             repasses ou transferências de recursos
+                                           financeiros
+transparência ativa                         despesas
+        (no mínimo)                                                       inclusive editais
+                                   procedimentos licitatórios
+                                                                            e resultados
+                                 todos os contratos celebrados
+                             dados gerais para o acompanhamento
+                             de programas, ações, projetos e obras
+                             respostas a perguntas mais frequentes
+Lei de Acesso à Informação               da sociedade
+Prof. Antonio Daud
+                                     
+
+
+---
+
+  Divulgação da remuneração dos
+  agentes públicos nominalmente
+
+     ❑ Lei não torna obrigatória
+     ❑ Regulamentos diversos (Decreto 7.724/2011, CNMP, Judiciário ...)
+     ❑ STF:
+              É legítima a publicação, inclusive em sítio eletrônico mantido pela administração
+              pública, dos nomes dos seus servidores e do valor dos correspondentes
+              vencimentos e vantagens pecuniárias.
+              ARE 652.777, rel. min. Teori Zavascki, 23/4/2015, tema 483
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                                
+
+
+---
+
+                         Acesso à informação (art. 7º)
+                                                                                      procedimentos para a consecução de
+                                                                                                       acesso
+                                            orientação sobre                           local onde poderá ser encontrada ou
+ acesso à informação – direitos
+
+                                                                                           obtida a informação almejada
+                                                                                        produzidos ou acumulados por seus
+                                         informação contida em                                         órgãos
+                                          registros/documentos                        recolhidos ou não a arquivos públicos
+                             (1/2)
+
+                                        informação produzida ou
+                                     custodiada por pessoa física ou
+                                     entidade privada decorrente de                mesmo que esse vínculo já tenha cessado
+                                      qualquer vínculo com órgãos
+                                                públicos                                  primária
+                                                                                          íntegra
+                                               informação
+                                                                                         autêntica
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                                                                         atualizada
+                                                            
+
+
+---
+
+ acesso à informação – direitos
+                                     informação sobre atividades                inclusive as relativas à sua política,
+                                        exercidas pelos órgãos                        organização e serviços
+                                                                             administração do patrimônio público
+                                      informação pertinente à                      utilização de recursos públicos
+                             (2/2)
+
+                                                                              licitação e contratos administrativos
+                                                                                programas, projetos e ações dos
+                                                                                         órgãos públicos
+                                        informação relativa a                  resultado de inspeções, auditorias,
+                                                                                 prestações e tomadas de contas
+
+não compreende informações sobre: projetos de pesquisa e desenvolvimento
+científicos/tecnológicos cujo sigilo seja imprescindível à segurança da sociedade
+e do Estado (art. 7º, §1º)
+                                                       
+
+
+---
+
+      Acesso à informação (art. 9º)
+                                                                        atender e orientar o público
+                                                                            quanto ao acesso a
+                                                                               informações
+                                                                        informar sobre a tramitação
+                             serviço de informações                       de documentos nas suas
+                             ao cidadão (SIC), para:                        respectivas unidades
+           acesso à          audiências ou consultas                    protocolizar documentos e
+        informação -                públicas                            requerimentos de acesso a
+        instrumentos                                                           informações
+                             incentivo à participação
+                               popular ou a outras
+                              formas de divulgação
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                   
+
+
+---
+
+               gestão transparente da                    propiciando amplo acesso
+                    informação                               e sua divulgação
+
+                                                             garantindo-se sua
+   acesso à                                                   disponibilidade,
+               proteção da informação                         autenticidade e
+informação -
+entes devem                                                     integridade
+  assegurar
+                                                            sua disponibilidade,
+               proteção da informação                    autenticidade, integridade
+               sigilosa e da informação
+                  pessoal, observada                      e eventual restrição de
+                                                                  acesso
+
+
+                    
+
+
+---
+
+                                                                                         todos Poderes
+                             administração direta e INdireta
+                                                                                     todos entes federativos
+
+                              entidades controladas pelo
+                                                                                     direta ou indiretamente
+                                    poder público
+           alcance da LAI
+
+                              entidades privadas sem fins
+                                                                                   apenas recursos recebidos e
+                                lucrativos que recebam
+                                                                                           destinação
+                                   recursos públicos
+                                                                               divulgar plano de cargos/salários,
+                                 Sistema S (serv. sociais                       quantitativo de empregados e
+                                      autônomos)                                funções e lista de parcelas por
+                                                                                         faixas salariais
+
+                                                                              divulgar parcelas remuneratórias e
+                               Conselhos de fiscalização
+                                                                             indenizatórias de seus empregados
+                                     profissional
+Lei de Acesso à Informação                                                      (lista nominal e individualizada)
+Prof. Antonio Daud
+                                              
+
+
+---
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                             
+
+
+---
+
+PROCEDIMENTO DE ACESSO À
+      INFORMAÇÃO
+
+
+                                          Prof. Antonio Daud
+
+     
+
+
+---
+
+Pedido de Acesso à Informação (art. 10)
+ ❑ Qualquer interessado
+ ❑ Pedido:
+    - identificação do requerente
+    - especificação da informação
+    - motivação?
+
+
+ ❑ Resposta (se não for possível conceder o acesso imediato) :
+    - prazo: 20 + 10
+
+                          
+
+
+---
+
+                              Prazo = 20 + 10
+
+
+                                                                       data, local e modo para obter a
+  Resposta (arts. 11-12)
+
+
+                               Deferimento
+                                                                                  informação
+
+                                                                   Recusa: razões de fato ou de direito
+                                                                             (total ou parcial)
+                               Indeferimento                                            Fornecer inteiro teor da
+                                                                                         decisão que indeferir
+
+                                Extravio?                         não possui a informação: indicar, se
+                                                                 souber, quem possui (ou encaminhar a
+                                                                             quem possui)
+
+                           Regra=serviço gratuito                 Exceção: reprodução de documentos
+
+Lei de Acesso à Informação
+Prof. Antonio Daud                             
+
+
+---
+
+       Recurso (arts.15-20)
+       ❑ Prazo = 10 dias (contados da ciência da decisão)
+       ❑ Dirigido à autoridade hierarquicamente superior à que havia
+         decidido
+               - 5 dias p/ manifestar
+       ❑ Outros recursos hierárquicos
+
+
+       ❑ Executivo Federal: recurso à CGU + recurso à CMRI
+       ❑ Judiciário e MP: regulamento próprio + ciência ao CNJ/CNMP
+       ❑ Aplicação subsidiária da Lei 9.784/1999
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                    
+
+
+---
+
+CMRI (Comissão Mista de Reavaliação de Informações)
+❑ decidirá, no âmbito da administração pública federal, sobre o tratamento e a classificação
+  de informações sigilosas
+❑ Competência para (art. 35, §1º):
+I - requisitar da autoridade que classificar informação como ultrassecreta e secreta
+esclarecimento (..);
+II - rever a classificação de informações ultrassecretas ou secretas, de ofício ou mediante
+provocação (..); e
+III - prorrogar o prazo de sigilo de informação classificada como ultrassecreta, sempre por prazo
+determinado, enquanto o seu acesso ou divulgação puder ocasionar ameaça externa à
+soberania nacional ou à integridade do território nacional ou grave risco às relações
+internacionais do País, observado o prazo previsto no § 1º do art. 24. [1 única renovação]
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                             
+
+
+---
+
+RESTRIÇÕES AO ACESSO
+
+                                               Prof. Antonio Daud
+
+          
+
+
+---
+
+                      aquela submetida temporariamente à restrição de acesso
+informação sigilosa     público em razão de sua imprescindibilidade para a
+                               segurança da sociedade e do Estado
+                        aquela relacionada à pessoa natural identificada ou
+informação pessoal
+                                           identificável
+
+                           
+
+
+---
+
+       Restrições de acesso
+
+
+                                 Regra:
+  informação gerada          transparência
+                                                                  segurança da sociedade
+  ou custodiada pela
+                                                                       e do Estado
+     Administração
+                              Exceções
+                                                                  intimidade ou interesse
+                                                                           social
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                             
+
+
+---
+
+       Classificação da informação
+
+
+                             ultrassecreto                        25 anos
+
+grau de sigilo -                                                            da produção da
+                               secreto                            15 anos
+prazos máximos                                                                informação
+
+                              reservado                            5 anos
+
+
+Obs 1: possível vincular a determinado evento futuro mais próximo
+Obs 2: risco ao PR e família (e vice): “reservado” até o término do mandato + reeleição
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Classificação - competências
+                                                              Presidente da República + Vice
+                                                     Ministros de Estado (e autoridades com
+                             ultrassecreto                   mesmas prerrogativas)
+                               (25 anos)            Comandantes da Marinha, do Exército e da
+                                                                   Aeronáutica
+                                                       Chefes de Missões Diplomáticas e
+                                                      Consulares permanentes no exterior
+competência p/
+classificar o grau                                            autoridades mencionadas acima
+                               secreto
+    de sigilo
+                              (15 anos)              titulares de autarquias, fundações públicas
+                                                                      ou estatais
+                                                              autoridades mencionadas acima
+                              reservado
+                                                         autoridades que exerçam funções de
+                               (5 anos)                 direção, comando ou chefia, nível DAS
+Lei de Acesso à Informação
+Prof. Antonio Daud                                                101.5, ou superior
+                                       
+
+
+---
+
+Classificação - formalidades
+       ❑ Ato que classificar:
+               - ato formal e motivado
+               - mesmo grau de sigilo da informação classificada
+
+
+       ❑ Admite reavaliação
+               - de ofício ou mediante provocação
+               - própria autoridade ou superior
+       ❑ Divulgação em relatório anual
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                   
+
+
+---
+
+ Classificação – hipóteses de sigilo
+                                               pôr em risco a defesa e a soberania nacionais
+                                              pôr em risco a integridade do território nacional
+
+                             prejudicar/pôr em risco a condução de negociações/relações internacionais do País
+       hipóteses de sigilo
+
+                             informações que tenham sido fornecidas em caráter sigiloso por outros Estados e
+                                                       organismos internacionais
+
+                                         pôr em risco a vida, a segurança ou a saúde da população
+
+                              oferecer elevado risco à estabilidade financeira, econômica ou monetária do País
+
+
+                               prejudicar/causar risco a planos ou operações estratégicos das Forças Armadas
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                                    
+
+
+---
+
+ Classificação – hipóteses de sigilo
+                                                            projetos de pesquisa e desenvolvimento científico
+                                                                            ou tecnológico
+                           prejudicar/causar risco a
+                                                             sistemas, bens, instalações ou áreas de interesse
+                                                                           estratégico nacional
+    hipóteses de sigilo
+
+                                                                                        instituições
+                           pôr em risco a segurança
+                                      de                    altas autoridades nacionais ou estrangeiras e seus
+                                                                                familiares
+
+                                                                                        inteligência
+
+                          comprometer atividades de               investigação/fiscalização em andamento,
+                                                              relacionadas com a prevenção ou repressão de
+Lei de Acesso à Informação
+                                                                                  infrações
+Prof. Antonio Daud
+                                                   
+
+
+---
+
+   Informação Pessoal
+❑ Independe de classificação de sigilo
+❑ Prazo máximo de 100 anos
+❑ Regra: inacessível
+❑ Exceções:
+   - previsão legal
+   - consentimento da pessoa a que se referir
+
+❑ Consentimento dispensado para:
+   - questões médicas
+   - estatísticas/pesquisas (anonimizado)
+   - ordem judicial, dir. humanos, inter. público e geral preponderante
+                                
+
+
+---
+
+---
+
+---
+
+RESPONSABILIDADES DOS
+      AGENTES
+
+
+                                           Prof. Antonio Daud
+
+      
+
+
+---
+
+                                    recusar-se a fornecer informação legalmente
+                                                       requerida
+        condutas ilícitas (1/2)
+
+                                    retardar deliberadamente o fornecimento de
+                                                      informação
+                                  fornecer intencionalmente informação incorreta,
+                                                incompleta ou imprecisa                  (bem como subtrair,
+                                   utilizar indevidamente informação a que tenha          destruir, inutilizar,
+                                    acesso em razão do exercício das atribuições         desfigurar, alterar ou
+                                                       de cargo                            ocultar, total ou
+                                        agir com dolo ou má-fé na análise das               parcialmente)
+                                         solicitações de acesso à informação
+
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                                    
+
+
+---
+
+                                                                                           obter proveito
+                                 acessar, divulgar ou permitir a divulgação
+                                                                                        pessoal ou de terceiro
+                                 indevida de informação sigilosa / pessoal
+     condutas ilícitas (2/2)
+
+                                                                                        para fins de ocultação
+                                       impor sigilo à informação para
+                                                                                            de ato ilegal
+                                 ocultar da revisão de autoridade superior               cometido por si ou
+                               competente informação sigilosa para beneficiar                por outrem
+                                              a si ou a outrem
+                                destruir/subtrair documentos concernentes a
+                                 possíveis violações de direitos humanos por
+                                         parte de agentes do Estado
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                                   
+
+
+---
+
+       Sanções
+❑ Agentes Públicos
+        - civis: no mínimo, com suspensão (Lei 8.112)
+        - militares: infração média ou grave (exceto se for crime/contravenção)
+❑ Particulares com vínculo especial
+I - advertência;
+II - multa;
+III - rescisão do vínculo com o poder público;
+IV - suspensão p/ licitar e contratar – max. 2 anos
+V - declaração de inidoneidade (autor. Máxima / não cumulável com multa)
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Dano causado por divulgação indevida
+     ❑ Responsabilidade objetiva do ente público
+     ❑ Regresso contra responsável (dolo/culpa)
+
+Lei de Acesso à Informação
+Prof. Antonio Daud
+                             
+
+
+---
+
+---
+
+OBRIGADO
+                                         Prof. Antonio Daud
+
+    
+
+
+---

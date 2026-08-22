@@ -1,0 +1,209 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 06_004_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: 'PASSIVO: OBRIGAÇÃO PRESENTE DA ENTIDADE, DERIVADA DE EVENTOS JÁ'
+---
+
+# PASSIVO: OBRIGAÇÃO PRESENTE DA ENTIDADE, DERIVADA DE EVENTOS JÁ
+
+PASSIVO: OBRIGAÇÃO PRESENTE DA ENTIDADE, DERIVADA DE EVENTOS JÁ
+PASSIVO (CAPITAL DE TERCEIROS)                                     OCORRIDOS, CUJA LIQUIDAÇÃO SE ESPERA QUE RESULTE EM SAÍDA DE RECURSOS
+                                                                   DA ENTIDADE CAPAZES DE GERAR BENEFÍCIOS ECONÔMICOS.
+
+                         • OBRIGAÇÃO PRESENTE.
+          DEFINIÇÃO      • TRANSFERIR UM RECURSO ECONÔMICO.
+                         • RESULTA DE EVENTOS PASSADOS.
+
+
+                         CPC 26: QUANDO O PASSIVO ATENDER QUALQUER UM DOS CRITÉRIOS:
+                               ❑ ESPERA-SE QUE SEJA LIQUIDADO DURANTE O CICLO OPERACIONAL.
+                               ❑ ESTÁ MANTIDO ESSENCIALMENTE PARA SER NEGOCIADO.
+                               ❑ DEVE SER LIQUIDADO EM ATÉ 12 MESES APÓS A DATA DO BALANÇO.
+          CIRCULANTE           ❑ OBRIGAÇÃO QUE A ENTIDADE NÃO TEM DIREITO INCONDICIONAL DE DIFERIR A LIQUIDAÇÃO DURANTE
+                                 PELO MENOS 12 MESES.
+
+                                                                       OBRIGAÇÃO QUE A ENTIDADE NÃO PODE POSTERGAR PARA ALÉM DE 12 MESES.
+
+                         LEI 6.404/1976: OBRIGAÇÕES QUE VENCEREM DENTRO DO EXERCÍCIO SEGUINTE.
+
+
+                         • OBRIGAÇÃO COM LIQUIDAÇÃO SUPERIOR AO CICLO OPERACIONAL.
+                         • OBRIGAÇÃO COM LIQUIDAÇÃO SUPERIOR A 12 MESES.
+                         • EMPRÉSTIMO EM QUE A ENTIDADE TEM EXPECTATIVA E PODER DISCRICIONÁRIO PARA REFINANCIAR POR PELO
+        NÃO CIRCULANTE     MENOS 12 MESES APÓS A DATA DO BALANÇO.
+                         • IMPOSTO DIFERIDO.
+                         • RECEITA DIFERIDA.
+                         • POR EXCLUSÃO, AS OBRIGAÇÕES NÃO CLASSIFICADAS NO CIRCULANTE.
+
+
+                                                                                                                      CONTABILIDADE GERAL
+                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+PASSIVO (CAPITAL DE TERCEIROS)                                                          CLASSIFICAÇÃO COM BASE NO CICLO OPERACIONAL
+                                                                                    QUANDO O CICLO OPERACIONAL TIVER DURAÇÃO MAIOR QUE O EXERCÍCIO
+                                                                                    SOCIAL, A CLASSIFICAÇÃO NO CIRCULANTE OU LONGO PRAZO TERÁ POR BASE O
+                                                                                    PRAZO DO CICLO.
+           AVALIAÇÃO (MENSURAÇÃO)
+
+  OBRIGAÇÕES, ENCARGOS E RISCOS, INCLUSIVE O IMPOSTO DE RENDA.
+    DEVEM SER COMPUTADOS PELO VALOR ATUALIZADO ATÉ                                  ❑ EXEMPLO: SE O CICLO FOR DE 24 MESES E O EXERCÍCIO DE 12 MESES, ENTÃO
+    A DATA DO BALANÇO.                                                                AS OBRIGAÇÕES COM VENCIMENTO EM ATÉ 24 MESES DEVEM SER
+                                                                                      CLASSIFICADAS NO CIRCULANTE.
+                                                                                    ❑ ATENÇÃO: O PRAZO DO CICLO É CONSIDERADO APENAS PARA FINS DE
+  OBRIGAÇÕES EM MOEDA ESTRANGEIRA (COM PARIDADE CAMBIAL).                             CLASSIFICAÇÃO, PORTANTO, O PRAZO DO EXERCÍCIO SOCIAL CONTINUA SENDO
+                                                                                      DE 1 ANO.
+    DEVEM SER CONVERTIDAS EM MOEDA NACIONAL À TAXA
+    DE CÂMBIO EM VIGOR NA DATA DO BALANÇO.
+
+  AJUSTE A VALOR PRESENTE (AVP).
+
+    • O PASSIVO NÃO CIRCULANTE DEVE SER AJUSTADO A
+      VALOR PRESENTE.
+    • O PASSIVO CIRCULANTE É AJUSTADO A VALOR
+       PRESENTE SOMENTE      QUANDO    HOUVER   EFEITO
+       RELEVANTE.
+
+                                                                                                                                      CONTABILIDADE GERAL
+                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+PROVISÕES, PASSIVOS CONTINGENTES E PASSIVO
+                 CONTINGENTES
+                                                                                   PASSIVO (CAPITAL DE TERCEIROS)
+
+                                   CONCEITO: É UM PASSIVO DE PRAZO OU DE VALOR INCERTOS.
+             PROVISÃO                                                              • OBRIGAÇÃO PRESENTE COMO RESULTADO DE EVENTO PASSADO.
+                                   CRITÉRIOS DE RECONHECIMENTO:                    • PROVÁVEL SAÍDA DE RECURSOS PARA LIQUIDAR A OBRIGAÇÃO.
+                                                                                   • ESTIMATIVA CONFIÁVEL DO VALOR DA OBRIGAÇÃO.
+
+       PASSIVO CONTINGENTE         OBRIGAÇÃO POSSÍVEL QUE RESULTA DE EVENTOS PASSADOS E CUJA EXISTÊNCIA SERÁ CONFIRMADA APENAS PELA
+                                   OCORRÊNCIA OU NÃO DE UM OU MAIS EVENTOS FUTUROS INCERTOS NÃO TOTALMENTE SOB CONTROLE DA ENTIDADE.
+     RECONHECIMENTO            E
+     DIVULGAÇÃO: A PROBABILIDADE   OBRIGAÇÃO QUE NÃO É RECONHECIDA PORQUE.
+     DE   SAÍDA DE RECURSOS                   • NÃO É PROVÁVEL QUE UMA SAÍDA DE RECURSOS ECONÔMICOS PARA LIQUIDAR A OBRIGAÇÃO.
+     ASSOCIADA      AO   PASSIVO              • O VALOR DA OBRIGAÇÃO NÃO PODE SER MENSURADO COM SUFICIENTE CONFIABILIDADE.
+     CONTINGENTE É:
+                                   ATENÇÃO: A ENTIDADE NÃO DEVE RECONHECER UM PASSIVO CONTINGENTE.
+
+                                   ATIVO CONTINGENTE: É UM ATIVO POSSÍVEL QUE RESULTA DE EVENTOS PASSADOS E CUJA EXISTÊNCIA SERÁ
+     • REMOTA: NÃO DIVULGA
+                                   CONFIRMADA APENAS PELA OCORRÊNCIA OU NÃO DE UM OU MAIS EVENTOS FUTUROS INCERTOS NÃO TOTALMENTE
+       NEM RECONHECE.
+                                   SOB CONTROLE DA ENTIDADE.
+     • POSSÍVEL: DIVULGA, MAS
+       NÃO RECONHECE.              ATENÇÃO: A ENTIDADE NÃO DEVE RECONHECER UM ATIVO CONTINGENTE.
+     • PROVÁVEL:     RECONHECE
+                                   RECONHECIMENTO E DIVULGAÇÃO: A PROBABILIDADE DE ENTRADA DE BENEFÍCIOS ECONÔMICOS ASSOCIADA AO
+       UMA PROVISÃO.
+                                   ATIVO CONTINGENTE.
+
+                                    • NÃO É PROVÁVEL: NÃO DIVULGA NEM RECONHECE.
+         ATIVO CONTINGENTE          • É PROVÁVEL: DIVULGA, MAS NÃO RECONHECE.
+                                    • É PRATICAMENTE CERTA:      NÃO É ATIVO CONTINGENTE (É ATIVO!)
+                                                                 RECONHECE E DIVULGA                                      CONTABILIDADE GERAL
+                                                                                       ESTRATÉGIA CONCURSOS
+
+
+---
+
+                           DEBÊNTURES                                                                 PASSIVO (CAPITAL DE TERCEIROS)
+
+                                      • LEI 6.404/1976: SÃO TÍTULOS QUE CONFEREM A SEUS TITULARES (DEBENTURISTAS) O DIREITO DE CRÉDITO CONTRA A
+                                        COMPANHIA EMITENTE.
+                CONCEITOS             • LEI 6.404/1976: PODEM ASSEGURAR JUROS, FIXOS OU VARIÁVEIS, PARTICIPAÇÃO NO LUCRO E PRÊMIO DE REEMBOLSO.
+                                      • FORMA DE CAPTAÇÃO DE RECURSOS DE MÉDIO A LONGO PRAZO PARA FINANCIAR AS ATIVIDADES DA COMPANHIA.
+
+                                                                     CLASSIFICA NO PASSIVO NO MOMENTO DA CAPTAÇÃO E APROPRIA AO RESULTADO DURANTE O
+              GASTOS COM COLOCAÇÃO NO MERCADO                        PRAZO DE VIGÊNCIA DA DEBÊNTURE.
+
+
+                                                  JUROS: RECONHECE CONFORME O TRANSCURSO DO TEMPO.
+                                                  • D - DESPESA FINANCEIRA (RESULTADO).
+                JUROS E PARTICIPAÇÕES             • C - JUROS E PARTICIPAÇÕES (PASSIVO CIRCULANTE OU NÃO CIRCULANTE).
+
+                                                  PARTICIPAÇÕES: RECONHECE CONFORME A PARTICIPAÇÃO NOS LUCROS.
+                                                  • D - PARTICIPAÇÕES E CONTRIBUIÇÕES (DESPESA).
+                                                  • C - JUROS E PARTICIPAÇÕES (PASSIVO CIRCULANTE OU NÃO CIRCULANTE).
+
+              EMISSÃO DE DEBÊNTURES COM PRÊMIO/DESÁGIO                                  PRÊMIO: CAPTAÇÃO DE DEBÊNTURE COM VALOR ACIMA DO NOMINAL.
+
+LANÇAMENTO DE APROPRIAÇÃO DO PRÊMIO PELO TRANSCURSO DO TEMPO                                  LANÇAMENTO DE CAPTAÇÃO DE DEBÊNTURE COM PRÊMIO
+• D - PRÊMIO A AMORTIZAR (PASSIVO).                                                           • D - CAIXA (ATIVO).
+  C - DESPESA FINANCEIRA (RESULTADO).                                                           C - DEBÊNTURE (PASSIVO).
+• LANÇAMENTO ATÍPICO: CREDITA-SE DESPESA PARA REDUZIR A DESPESA FINANCEIRA.                     C - PRÊMIO A AMORTIZAR (PASSIVO).
+                                                                                                                                                CONTABILIDADE GERAL
+                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---
+
+                          DEBÊNTURES                                                          PASSIVO (CAPITAL DE TERCEIROS)
+
+
+             EMISSÃO DE DEBÊNTURES COM PRÊMIO/DESÁGIO                           DESÁGIO: CAPTAÇÃO DE DEBÊNTURE COM VALOR ABAIXO DO NOMINAL.
+
+LANÇAMENTO DE CAPTAÇÃO DE DEBÊNTURE COM DESÁGIO                                       LANÇAMENTO DE APROPRIAÇÃO DO DESÁGIO PELO TRANSCURSO DO TEMPO
+• D - CAIXA (ATIVO).                                                                  • D - DESPESA FINANCEIRA (RESULTADO) .
+  D - DESÁGIO A APROPRIAR (RETIFICADORA DO PASSIVO).                                    C - DESÁGIO A APROPRIAR (RETIFICADORA DO PASSIVO).
+  C - DEBÊNTURE (PASSIVO).
+
+• D - DESPESA DE SALÁRIOS (DESPESA)
+  C - SALÁRIOS A PAGAR (PASSIVO)
+                                                       RECONHECIMENTO DE SALÁRIOS                                      FOLHA DE PAGAMENTO
+
+• D - SALÁRIOS A PAGAR (PASSIVO)
+• C - CAIXA (ATIVO)
+                                                          PAGAMENTO DOS SALÁRIOS
+
+
+• D - DESPESA DE SALÁRIOS (DESPESA)                RECONHECIMENTO E PAGAMENTO DE
+• C - CAIXA (ATIVO)                                      SALÁRIOS SIMULTANEAMENTE
+
+
+• D - DESPESA DE SALÁRIOS (RESULTADO).
+  C - INSS RETIDO A RECOLHER (PASSIVO).
+                                                   RECONHECIMENTO DE SALÁRIOS COM
+  C - SALÁRIOS A PAGAR (PASSIVO).
+                                                        RETENÇÃO DE ENCARGO SOCIAL
+• O ENCARGO RETIDO NÃO É DESPESA DA EMPRESA,
+  É ENCARGO DO TRABALHADOR.
+                                                                                                                                      CONTABILIDADE GERAL
+                                                                                                   ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                PASSIVO (CAPITAL DE TERCEIROS)
+
+    RECOLHIMENTO (PAGAMENTO) DO ENCARGO RETIDO                                         FOLHA DE PAGAMENTO
+• D - INSS RETIDO A RECOLHER (PASSIVO)
+  C - CAIXA (ATIVO)
+
+                     PROVISÃO DE FÉRIAS E 13º SALÁRIO
+• D - DESPESAS ADMINISTRATIVAS (DESPESA).
+  C - PROVISÃO DE FÉRIAS (PASSIVO).
+• D - DESPESAS ADMINISTRATIVAS (DESPESA).
+  C - PROVISÃO 13 º SALÁRIO (PASSIVO).
+• DEVE SER PROVISIONADO 1/12 A CADA MÊS, PARA OBSERVAR O REGIME DE COMPETÊNCIA.
+
+                                                                                                        CONTABILIDADE GERAL
+                                                                     ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,490 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 12_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: GESTÃO POR PROCESSOS
+---
+
+# GESTÃO POR PROCESSOS
+
+---
+
+---
+
+GESTÃO POR PROCESSOS
+
+                                            Prof. Stefan Fantini
+                                              @prof.stefan.fantini
+
+       
+
+
+---
+
+---
+
+Processo
+Conceito
+Processo é um conjunto de atividades inter-relacionadas, sequencialmente e logicamente
+estruturadas e encadeadas, por meio das quais as entradas/inputs (insumos) são
+transformadas (processamento) em saídas/outputs (produtos / serviços).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                 Atividades principais
+                                         são aquelas relacionadas ao “caminho” completo que um produto percorre,
+                     (ou primarias)
+Cadeia de
+  Valor
+                 Atividades de apoio
+                                                       são aquelas que dão suporte às atividades primárias
+                  (ou secundárias)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                         
+
+
+---
+
+Processo
+Estrutura
+
+                                  Processamento
+      Entradas (inputs)             (processo de               Saídas (outputs)
+                                  transformação)
+
+                                Retroalimentação
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                          
+
+
+---
+
+Processo
+Estrutura
+
+  ENTRADAS                                       PROCESSAMENTO                                           SAÍDAS
+
+    Insumos
+                                                Colocar o                                   Retirar do   Produto
+  água, farinha,   Preparar a   Abrir a                           Colocar o    Colocar no
+                                                Molho de                                     Forno e
+  sal, molho de      massa      massa                              Queijo        Forno                   PIZZA
+                                                 Tomate                                     Embalar
+ tomate, queijo
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                          
+
+
+---
+
+Gestão DE Processos x Gestão POR Processos
+
+                        Gestão DE
+  Gestão DE                               Trata-se do gerenciamento de processos específicos da organização
+                        Processos
+  Processos
+      x
+   Gestão
+     POR
+  Processos
+                        Gestão POR
+                                                       Trata-se de um conceito muito mais abrangente.
+                        Processos
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                     
+
+
+---
+
+Origem da Gestão por Processos
+
+                                                                  Diretor Geral
+                                                                   da Pizzaria
+
+             Gerente de            Gerente de                       Gerente                    Gerente de             Gerente de
+             Produção               Compras                        Comercial                   Marketing              Operações
+
+             Supervisor                                            Supervisor
+                                  Supervisor de                                               Supervisor de          Supervisor de
+                de                  Compras                           de                       Marketing               Entregas
+             Montagem                                             Atendimento
+
+            Pizzaiolos e                                                                                 Designer
+                           Compras de       Compras de                                 Criação de                    Entregadores
+            Ajudantes de    Insumos        Equipamentos   Telefonistas      Garçons    Conteúdo
+                                                                                                         Gráfico e
+                                                                                                                      e Motoboys
+              Cozinha                                                                                    Produção
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                  
+
+
+---
+
+Origem da Gestão por Processos
+
+                                                             Clientes
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                        
+
+
+---
+
+Origem da Gestão por Processos
+
+                                                            Diretor Geral
+                                                             da Pizzaria
+
+                                                                                                                                  Clientes
+
+      Gerente de             Gerente de                       Gerente                      Gerente de             Gerente de
+       Produção               Compras                        Comercial                     Marketing              Operações
+
+     Supervisor de          Supervisor de                   Supervisor de                  Supervisor de          Supervisor de
+      Montagem                Compras                       Atendimento                     Marketing               Entregas
+
+      Pizzaiolos e                                                                                    Designer
+                     Compras de      Compras de                                    Criação de                     Entregadores
+     Ajudantes de                                  Telefonistas          Garçons                      Gráfico e
+                      Insumos       Equipamentos                                   Conteúdo                        e Motoboys
+        Cozinha                                                                                       Produção
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                                      
+
+
+---
+
+ Gestão Funcional x Gestão por Processos
+       Características Analisadas                    Gestão Funcional                                      Gestão por Processos
+                                                                                             Times de processos envolvendo diferentes perfis e
+     Alocação de pessoas             Agrupadas junto aos seus pares em áreas funcionais
+                                                                                                                 habilidades
+                                                                                             Fortalece a individualidade dando autoridade para
+     Autonomia operacional          Tarefas executadas sob rígida supervisão hierárquica      tomada de decisões. A supervisão hierárquica é
+                                                                                                                flexibilizada.
+     Avaliação de desempenho          Centrada no desempenho funcional do indivíduo           Centrada nos resultados do processo de negócio
+
+     Cadeia de comando               Forte supervisão de níveis hierárquicos superpostos        Fundamentada na negociação e colaboração
+                                              Voltada ao ajuste da função que                    Dirigida às múltiplas competências da
+     Capacitação dos indivíduos
+                                               desempenham/especialização                            multifuncionalidade requerida
+     Escala de valores da              Metas exclusivas de áreas geram desconfiança e        Comunicação e transparência no trabalho gerando
+     organização                                   competição entre elas                              clima de colaboração mútua
+     Estrutura organizacional       Estrutura hierárquica, departamentalização/vertical     Fundamentada em equipes de processos/horizontal
+                                    Foco no desempenho de trabalhos fragmentados das        Visão integrada do processo de forma a manter uma
+     Medidas de desempenho
+                                                    áreas funcionais                                linha de agregação constante de valor
+                                                                                                       Bastante diversificado, voltado ao
+     Natureza do trabalho           Repetitivo e com escopo bastante restrito/mecanicista
+                                                                                                      conhecimento/evolutivo-adaptativo
+     Organização do trabalho         Em procedimentos de áreas funcionais/mais linear       Por meio de processos multifuncionais/mais sistêmico
+                                     Pouco direcionado, maior concentração no âmbito        Forte incentivo por meio de processos colaborativos
+     Relacionamento externo
+                                                         interno                                                de parcerias
+Prof. Stefan Fantini                                                                            Integração e “orquestração” dos sistemas de
+    Utilização da tecnologia        Sistemas de informação com foco em áreas funcionais
+ @prof.stefan.fantini                                                                                           informação
+                                                     
+
+
+---
+
+Guia BPM CBOK
+Conceito
+
+O Guia BPM CBOK é um “corpo comum de conhecimento” sobre gerenciamento de
+processos de negócio. Em outras palavras, é um guia de “boas práticas”, que foi produzido
+com o objetivo de auxiliar os profissionais de BPM (profissionais de Gerenciamento de
+Processos de Negócio).
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+Guia BPM CBOK
+Gerenciamento de Processos de Negócio Business Process Management - BPM
+ “Gerenciamento de Processos de Negócio (BPM – Business Process Management) é uma
+ disciplina gerencial que integra estratégias e objetivos de uma organização com
+ expectativas e necessidades de clientes, por meio do foco em processos ponta a ponta.
+ BPM engloba estratégias, objetivos, cultura, estruturas organizacionais, papéis, políticas,
+ métodos e tecnologias para analisar, desenhar, implementar, gerenciar desempenho,
+ transformar e estabelecer a governança de processos.” (Guia BPM CBOK, versão 3.0)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+Guia BPM CBOK
+Gerenciamento de Processos de Negócio Business Process Management - BPM
+
+ “Gerenciamento de Processos de Negócio Business Process Management - BPM) é uma
+ abordagem de gerenciamento disciplinada para identificar, projetar, executar, documentar,
+ medir, monitorar e controlar processos de negócio, tanto automatizados como não
+ automatizados, para alcançar resultados consistentes e direcionados, alinhados aos
+ objetivos estratégicos da organização. O BPM envolve a definição deliberada, colaborativa
+ e, cada vez mais assistida, por tecnologia, melhoria, inovação e gerenciamento de processos
+ de negócio de ponta a ponta que direcionam resultados de negócio, criam valor para os
+ clientes e permitem que uma organização atinja seus objetivos de negócio com mais
+ agilidade.” (Guia BPM CBOK, versão 4.0)
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                 
+
+
+---
+
+ Guia BPM CBOK
+ Áreas de Conhecimento do Guia BPM CBOK (Versão 3.0)
+                         1 – Gerenciamento de Processos de
+                                      Negócio
+
+                            2 – Modelagem de Processos
+
+
+                             3 – Análise de Processos
+
+
+                             4 – Desenho de Processos
+    Áreas de
+Conhecimento do         5 – Gerenciamento de Desempenho de
+Guia BPM CBOK                        Processos
+  (versão 3.0)
+                          6 – Transformação de Processos
+
+                        7 – Organização do Gerenciamento de
+                                     Processos
+
+                         8 – Gerenciamento Corporativo de
+                                    Processos
+
+Prof. Stefan Fantini    9 – Tecnologias de Gerenciamento de
+                                  Processos (BPM)
+ @prof.stefan.fantini
+                                        
+
+
+---
+
+Guia BPM CBOK
+Áreas de Conhecimento do Guia BPM CBOK (Versão 4.0)
+                        1 – Gerenciamento de Processos de
+                                     Negócio
+
+                           2 – Modelagem de Processos
+
+
+                            3 – Análise de Processos
+
+
+                            4 – Desenho de Processos
+        Áreas de
+     Conhecimento
+                         5 – Medição do Desempenho de
+      do Guia BPM
+                                   Processos
+     CBOK (versão
+          4.0)          6 – Transformação de Processos de
+                                     Negócio
+
+                         7 – Tecnologia e Transformação
+
+                          8 – Organização e Cultura de
+                          Gerenciamento de Processos
+
+Prof. Stefan Fantini    9 – Gerenciamento Corporativo de
+ @prof.stefan.fantini           Processos (EPM)
+                                      
+
+
+---
+
+Guia BPM CBOK
+Áreas de Conhecimento do Guia BPM CBOK (Versão 3.0 x Versão 4.0)
+
+
+                  Áreas de Conhecimento BPM CBOK 3.0                        Áreas de Conhecimento BPM CBOK 4.0
+
+                  Gerenciamento de Processos de Negócio                     Gerenciamento de Processos de Negócio
+                         Modelagem de Processos                                    Modelagem de Processos
+                           Análise de Processos                                      Análise de Processos
+                          Desenho de Processos                                      Desenho de Processos
+
+               Gerenciamento de Desempenho de Processos                     Medição do Desempenho de Processos
+
+                        Transformação de Processos                          Transformação de Processos de Negócio
+
+               Organização do Gerenciamento de Processos                          Tecnologia e Transformação
+
+                 Gerenciamento Corporativo de Processos             Organização e Cultura de Gerenciamento de Processos
+
+             Tecnologias de Gerenciamento de Processos (BPM)           Gerenciamento Corporativo de Processos (EPM)
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+Guia BPM CBOK
+Conceitos Importantes
+
+                                         BPM é uma disciplina gerencial
+
+                        BPM não é uma prescrição de estrutura de trabalho, metodologia ou
+                                           conjunto de ferramentas
+
+                                      BPM é uma capacidade básica interna
+
+           Conceitos                 BPM visa entregar valor para o cliente
+          Importantes
+           Guia BPM     BPM trata o trabalho ponta a ponta e a orquestração das atividades
+            CBOK                         ao longo das funções de negócio
+                          BPM trata O QUE, ONDE, QUANDO, POR QUE, COMO e POR
+                                         QUEM o trabalho é realizado
+                           Os meios pelos quais os processos de negócio são definidos e
+                         representados devem ser adequados à finalidade e aptos para uso
+                        Processos de negócio devem ser gerenciados em um ciclo contínuo
+                              para manter sua integridade e permitir a transformação
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                       
+
+
+---
+
+Guia BPM CBOK
+Conceitos Importantes
+
+
+                                       BPM requer investimento nas capacidades de negócio
+
+
+                           As capacidades são desenvolvidas ao longo de uma curva de maturidade em
+                                                          processos
+
+
+                                A implementação de BPM requer novos papéis e responsabilidades
+   Conceitos
+Importantes Guia
+  BPM CBOK              A tecnologia desempenha papel de apoio e não de liderança na implementação de
+                                                           BPM
+
+                        Implementação de BPM é uma decisão estratégica e requer patrocínio da liderança
+                                                        executiva
+
+                        Processos de negócio intensivos em conhecimento devem ser identificados e tratados
+                                                         adequadamente
+
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                             
+
+
+---
+
+                        (CESPE – STM – Analista Judiciário - 2018)
+Caracterizada por ser uma estrutura de gestão verticalizada, a gestão por processos
+foca as funções específicas de cada departamento de uma organização e sua
+participação nas tarefas.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                                
+
+
+---
+
+                        (UFSM – UFSM – Administrador - 2015)
+O Common Body of Knowledge - Guide to the Bussiness Process Manangement
+(BPM CBOK) define nove áreas de conhecimento essenciais para a execução
+adequada das ações de gestão por processos. A adoção dessas áreas do
+conhecimento de forma excelente propicia melhorias tangíveis e objetivas na gestão
+de uma organização.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFSM – UFSM – Administrador - 2015)
+(...)
+Assinale a alternativa que completa corretamente a sequência dessas nove áreas de
+conhecimento na figura.
+a) 1) Definição de Processos de Negócio; 3) Modelagem da Estrutura
+Organizacional;5) Gerenciamento do Padrão Desempenho; 7) Organização do
+Padrão em Processos; 9) Informatização do Gerenciamento de Processos.
+b) 1) Planejamento dos Processos; 3) Alinhamento do Desenho de Cargos; 5)
+Gerenciamento do desenho de Processos; 7) Organização de Gerenciamento de
+Processos; 9) Execução de Processos de Negócio.
+c) 1) Gerenciamento de Processos de Negócio; 3) Análise de Processos; 5)
+Gerenciamento do Desempenho de Processos; 7) Organização de Gerenciamento de
+Processos; 9) Tecnologias de Gerenciamento de Processos de Negócio.
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (UFSM – UFSM – Administrador - 2015)
+(...)
+d)1) Definição de Processos Corporativos; 3) Modelagem de Cargos; 5) Análise e
+Organização de Cargos e Processos ; 7) Definição dos Gestores e Participantes de
+cada Processo; 9) Tecnologias de Gerenciamento de Processos de Negócio.
+e) 1) Gerenciamento de Processos de Negócio; 3) Modelagem da Estrutura
+Organizacional; 5) Alinhamento da Estrutura Organizacional com os Processos; 7)
+Definição dos Gestores e Participantes de cada Processo; 9) Execução de Processos
+de Negócio.
+
+Prof. Stefan Fantini
+ @prof.stefan.fantini
+                               
+
+
+---
+
+                        (CESPE – ANATEL – Analista Administrativo - 2012)
+O CBOK é uma metodologia de gerenciamento de processo de negócio adequada
+para as organizações que adotam a gestão por processos.
+
+Prof. Stefan Fantin

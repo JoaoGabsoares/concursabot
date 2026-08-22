@@ -1,0 +1,109 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 04_005_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: ATOS ADMINISTRATIVOS – EXTINÇÃO DOS ATOS ADMINISTRATIVOS & CONVALIDAÇÃO
+---
+
+# ATOS ADMINISTRATIVOS – EXTINÇÃO DOS ATOS ADMINISTRATIVOS & CONVALIDAÇÃO
+
+Prof. Antonio Daud Jr
+
+ATOS ADMINISTRATIVOS – EXTINÇÃO DOS ATOS ADMINISTRATIVOS & CONVALIDAÇÃO
+
+                                              ANULAÇÃO                 O ato praticado é inválido
+
+                                                                  O ato é válido, mas inconveniente ou
+                                              REVOGAÇÃO
+                                                                               inoportuno
+                Desfazimento dos
+                                                                 Beneficiário do ato deixa de cumprir os
+                      atos                    CASSAÇÃO
+                                                                         requisitos necessários
+                 administrativos
+                                                                  Surgimento de novo ato com efeitos
+                                         CONTRAPOSIÇÃO
+                                                                   contrapostos a outro já praticado
+                                                                  superveniência de norma jurídica que
+                                              CADUCIDADE         torna inadmissível situação anterior, na
+                                                                         qual o ato foi praticado
+
+     Anulação                                     Revogação                    Convalidação
+
+
+          Atos ilegais                                                                                      condição:
+                                                                                  Atos ilegais, com      ausência de lesão
+       (vício sanável ou                              Atos válidos
+                                                                                    vício sanável          ao interesse
+           insanável)                                                                                     público e a 3os
+
+       Atos vinculados                                                             Atos vinculados
+                                                          Atos
+              ou                                                                          ou
+                                                     discricionários
+       discricionários                                                             discricionários
+
+
+                            exceto: efeitos                                           Efeitos
+           Efeitos                                     Efeitos não
+                             já produzidos                                          retroativos
+         retroativos                                   retroativos
+                           sobre 3os de boa                                        (corrige o ato
+          (ex tunc)                                     (ex nunc)
+                                   fé                                             desde a origem)
+
+
+             pela
+                             pelo Poder
+        Administração                                 apenas pela                   Apenas pela
+                            Judiciário, se
+         (de ofício ou                               Administração                 Administração
+                             provocado
+          provocada)
+
+                                                          É ato                         É ato
+       É ato vinculado
+                                                      discricionário                discricionário
+
+             Direito Administrativo – Resumo da aula
+             www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+Prof. Antonio Daud Jr
+
+                                                                  quanto à                  exceto
+                                        COMPETÊNCIA                                      competência
+                                                                   pessoa
+                     VÍCIO                                                                 exclusiva
+                    SANÁVEL
+                                            FORMA                                       exceto se forma
+                                                                                         exigida em lei
+
+                                                                      pela própria autoridade que
+                                                 Ratificação                 praticou o ato
+                                                                        por outro autoridade (em
+                        Convalidação            Confirmação                 geral, hierarquicamente
+                                                                                    superior)
+                                                                      pelo particular afetado pelo
+                                                Saneamento                        ato
+
+             Direito Administrativo – Resumo da aula
+             www.estrategiaconcursos.com.br
+
+                                       
+
+
+---

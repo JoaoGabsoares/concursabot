@@ -1,0 +1,306 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_023_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ADMINISTRAÇÃO DE RECURSOS MATERIAIS
+---
+
+# ADMINISTRAÇÃO DE RECURSOS MATERIAIS
+
+---
+
+---
+
+ADMINISTRAÇÃO DE RECURSOS MATERIAIS
+QUESTÕES COMENTADAS
+FGV - II
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+4002247330
+
+      (FGV/TRT-24/Analista Judiciário/Área Administrativa - Sem especialidade/2025) A
+      classificação sistemática de materiais no âmbito da Gestão de Materiais e Patrimônio
+      garante a organização, otimiza o controle e facilita a tomada de decisões estratégicas para
+      o uso adequado de recursos.
+       Assinale a opção que apresenta corretamente os materiais que estão sendo processados
+      ao longo das diversas seções que compõem o processo produtivo.
+
+      A)               Matérias-primas.
+      B)               Materiais em vias.
+      C)               Produtos acabados.
+      D)               Materiais componentes.
+      E)               Materiais semiacabados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Conhecendo os principais tipos antes de aprofundar
+       ❑    Outra importante padronização no que diz respeito à classificação de materiais é a adoção de classificações com base em
+            tipos pré-definidos ou "quebras" comumente adotadas pelas organização. Vamos conhecer as principais e mais cobradas
+            em provas de concurso:
+
+       ❑    Em linhas gerais os principais tipos de classificação são os seguintes:
+       •      Tipo de Demanda
+       •      Criticidade
+       •      Aplicação
+       •      Perecibilidade
+       •      Periculosidade
+       •      Possibilidade de fazer ou comprar
+       •      Tipos de estocagem
+       •      Dificuldade de aquisição
+       •      Mercado fornecedor
+       •      Valor do consumo ou ABC
+       •      Importância Operacional ou XYZ
+       •      Permanentes ou de Consumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                         ricardocampanario
+                                                     
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                ricardocampanario
+                                            
+
+
+---
+
+4002247330
+
+      (FGV/TRT-24/Analista Judiciário/Área Administrativa - Sem especialidade/2025) A
+      classificação sistemática de materiais no âmbito da Gestão de Materiais e Patrimônio
+      garante a organização, otimiza o controle e facilita a tomada de decisões estratégicas para
+      o uso adequado de recursos.
+       Assinale a opção que apresenta corretamente os materiais que estão sendo processados
+      ao longo das diversas seções que compõem o processo produtivo.
+
+      A)               Matérias-primas.
+      B)               Materiais em vias.
+      C)               Produtos acabados.
+      D)               Materiais componentes.
+      E)               Materiais semiacabados.
+
+      Gabarito: B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+4001888714
+
+      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023) Recursos materiais
+      referem-se aos elementos utilizados por uma organização em suas atividades diárias, na
+      fabricação de seu produto final ou na realização de sua missão institucional.
+      A respeito das operações que ocorrem na administração dos recursos materiais de uma
+      organização, assinale a opção que indica a operação inicial.
+      A)        Identificação do fornecedor.
+      B)        Transporte interno do bem.
+      C)        Acondicionamento do bem.
+      D)        Aquisição do bem.
+      E)        Recebimento do bem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+       Atribuições da área de Materiais
+       O famoso tripé: compras, estoques e distribuição
+       ❑ Note que, como sempre, em administração de materiais estamos falando na busca
+         da eficiência por meio da otimização de todos os processos e da redução de custos.
+
+
+                                                                                    Gestão de
+                                                                                    Estoques
+
+                                                                                        Atividades
+                                                                                        da área de
+                                                                                        materiais
+
+
+                                                                                                     Gestão de
+                                                                 Gestão de
+                                                                 Compras                             Centros de
+                                                                                                     Distribuição
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                    ricardocampanario
+                                                   
+
+
+---
+
+       Cadeia Produtiva ou de Valor
+       Compra, transformação e distribuição
+
+       ❑ Para que todo esse ciclo funcione - lembre-se da definição de Idalberto Chiavenato que vimos em
+         exercício anterior - os materiais devem ser adquiridos e disponibilizados no momento certo, na
+         quantidade necessária e no local onde serão utilizados, tudo isso com o menor custo. Lembre-se
+         que, neste processo, estamos sempre buscando a maior eficiência possível.
+
+       ❑ Importante lembrar também que é muito comum, ao falarmos de gestão de materiais, nos
+         referirmos ao setor secundário, ou seja, a indústria de transformação.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                                ricardocampanario
+                                            
+
+
+---
+
+4001888714
+
+      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023) Recursos materiais
+      referem-se aos elementos utilizados por uma organização em suas atividades diárias, na
+      fabricação de seu produto final ou na realização de sua missão institucional.
+      A respeito das operações que ocorrem na administração dos recursos materiais de uma
+      organização, assinale a opção que indica a operação inicial.
+      A)        Identificação do fornecedor.
+      B)        Transporte interno do bem.
+      C)        Acondicionamento do bem.
+      D)        Aquisição do bem.
+      E)        Recebimento do bem.
+
+      Gabarito: A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+4001888722
+
+      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023) Os bens são
+      frequentemente considerados “recursos”, porque podem gerar produtos e serviços e,
+      consequentemente, criar riqueza.
+      A disciplina que lida com a preservação, manutenção ou alienação de um bem, é a
+      Administração de Recursos
+      A)        Humanos.
+      B)        Patrimoniais.
+      C)        Tecnológicos.
+      D)        de Capital.
+      E)        Materiais.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+       Recursos Patrimoniais
+       Principais conceitos e definições
+     ❑ Ao invés de termos a transformação do material e expedição do produto acabado, temos na
+       administração patrimonial as etapas de conservação, manutenção e, dependendo do caso, a
+       alienação do bem patrimonial ao final de sua vida útil.
+
+       Perceba, porém, que, em essência, a maior diferença entre elas é que a administração de materiais
+       trata de materiais (caráter não permanente) enquanto a patrimonial trata de bens (caráter
+       permanente).
+
+
+     ❑ Segundo Martins e Alt, patrimônio é o "conjunto de bens, valores, direitos e obrigações de uma
+       pessoa física ou jurídica que possa ser avaliado monetariamente e que seja utilizado na realização
+       de seus objetivos sociais".
+
+     ❑ Dessa forma, a administração de patrimônio está relacionada com a gestão dos direitos e
+       obrigações da organização.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario                                 ricardocampanario
+                                             
+
+
+---
+
+       Controle Patrimonial
+       Principais aspectos levados em conta
+     ❑ Já vimos que o controle dos bens tem início no momento de sua aquisição, porém continua
+       acontecendo ao longo das demais etapas da gestão patrimonial como no que diz respeito às suas
+       movimentações nas modalidades transferência e cessão, decisões de baixa e alienação e nas
+       demais ações de administração e manutenção dos bens patrimoniais.
+
+     ❑ O foco do controle interno está no acompanhamento e registro das adições e das retiradas.
+
+     ❑ Para a execução de um controle apropriado e efetivo, devem existir instruções escritas sobre a
+       política que governa a distribuição dos custos atribuídos às contas do ativo imobilizado e às de
+       manutenção e reparo.
+
+       ✓      as classes e unidades de bens.
+       ✓      os custos a serem incluídos.
+       ✓      as importâncias mínimas a serem capitalizadas.
+       ✓      os métodos de depreciação e retirada.
+
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario                                    ricardocampanario
+                                                
+
+
+---
+
+4001888722
+
+      (FGV/Técnico em Patrimônio e Material/Câmara dos Deputados/2023) Os bens são
+      frequentemente considerados “recursos”, porque podem gerar produtos e serviços e,
+      consequentemente, criar riqueza.
+      A disciplina que lida com a preservação, manutenção ou alienação de um bem, é a
+      Administração de Recursos
+      A)        Humanos.
+      B)        Patrimoniais.
+      C)        Tecnológicos.
+      D)        de Capital.
+      E)        Materiais.
+
+      Gabarito: B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario                              ricardocampanario
+                                            
+
+
+---
+
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+        ricardocampanario
+                   
+
+
+---
+
+---

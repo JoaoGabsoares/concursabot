@@ -1,0 +1,351 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ARRECADAÇÃO E RECOLHIMENTO
+artigos_citados:
+- Art. 216
+- Art. 217
+- Art. 219
+- art. 218
+---
+
+# ARRECADAÇÃO E RECOLHIMENTO
+
+ARRECADAÇÃO E RECOLHIMENTO
+CONTRIBUIÇÃO DOS SEGURADOS E DAS EMPRESAS
+
+                                                     Prof. Rubens Mauricio
+
+                
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, I, “a” do
+
+                                          Obrigações da empresa
+                Decreto 3.048/99
+
+                               arrecadar a                          segurados empregados
+                               contribuição                            trabalhadores avulsos
+                                dos seus                            contribuintes individuais
+
+                                      descontando da respectiva remuneração
+
+                                                                           e          recolher o
+                                                                                       produto
+                                                                                     arrecadado
+
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+        Arrecadação e Recolhimento
+
+               Art. 216, I, “a” e “b”
+
+                                           Obrigações da empresa
+               do Decreto 3.048/99
+
+                                 recolher a                          segurados empregados
+                                contribuição
+                               a seu cargo,                             trabalhadores avulsos
+                            incidente sobre as
+                            remunerações dos                         contribuintes individuais
+
+Prof. Rubens Mauricio
+                                                 
+
+
+---
+
+        Arrecadação e Recolhimento
+              Art. 219 do
+            Decreto 3.048/99
+                                       Obrigações da empresa
+
+                  A empresa contratante de serviços executados mediante cessão ou
+                  empreitada de mão de obra, inclusive no regime de trabalho temporário
+
+                        deverá reter                   do valor bruto da nota fiscal,
+                         e recolher                        fatura ou recibo de
+                           11%                            prestação de serviços
+
+                  As empresas prestadoras que recolhem suas contribuições previdenciárias
+                  sobre a receita bruta (com desoneração da folha de pagamento), caso
+                  prestem serviços sujeitos à retenção, nos termos da lei, deverão sofrer
+                  uma retenção de apenas 3,5% do valor bruto da nota fiscal ou fatura de
+                  prestação de serviços (e não de 11%).
+Prof. Rubens Mauricio
+                                           
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, I, “c” do
+
+                                               Obrigações da empresa
+                Decreto 3.048/99
+
+                                        recolher as contribuições a cargo da empresa,
+                                           provenientes do faturamento e do lucro
+
+                                      COFINS                         CSLL                  PIS/PASEP
+
+Prof. Rubens Mauricio
+                                                      
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                 Art. 216, III, do
+
+                                                Obrigações da empresa
+                Decreto 3.048/99
+
+                                                                                               adquirente
+                                       a empresa
+                                                                                              consumidora
+                                      cooperativa                                             consignatária
+                                     são obrigadas a arrecadar e recolher a contribuição incidente
+                                             sobre a comercialização da produção rural do
+
+
+                               produtor rural pessoa física                                   segurado especial
+
+Prof. Rubens Mauricio
+                                                         
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, VII, do
+                Decreto 3.048/99
+                                           Obrigações da empresa
+
+                                                        é obrigado a recolher contribuição
+                             o produtor rural             incidente sobre a receita bruta
+                             pessoa jurídica              proveniente de comercialização
+                                                               de sua produção rural
+
+Prof. Rubens Mauricio
+                                                
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, IX, do
+                Decreto 3.048/99
+                                         Obrigações da empresa
+
+                             a empresa que remunera                             é obrigada a recolher a
+                              empregado licenciado
+                             para exercer mandato de
+                                                                               contribuição deste, bem
+                                 dirigente sindical                           como a parcela a seu cargo
+
+Prof. Rubens Mauricio
+                                                 
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, XI, do
+
+                                           Obrigações da empresa
+                Decreto 3.048/99
+
+                                  a entidade sindical que
+                                remunera dirigente sindical                             é obrigada a recolher
+                               que mantém a qualidade de:                               a contribuição destes,
+                                                                                         bem como a parcela
+                                   contribuinte individual                                   a seu cargo
+
+Prof. Rubens Mauricio
+                                                   
+
+
+---
+
+        Arrecadação e Recolhimento
+
+
+              Art. 216, I, “a” e “b”
+              do Decreto 3.048/99
+                                              Empregado
+                                       Quem arrecada e recolhe?
+
+                                           empresa ou equiparada
+
+Prof. Rubens Mauricio
+                                           
+
+
+---
+
+        Arrecadação e Recolhimento
+
+
+               Art. 217, § 2º e art. 218
+                do Decreto 3.048/99
+                                                Trabalhador avulso
+                                              Quem arrecada e recolhe?
+                               trabalhador
+                                  avulso         órgão gestor de mão-de-obra (OGMO)
+                                 portuário
+                               trabalhador
+                                  avulso                empresa tomadora do serviço
+                              não portuário
+
+Prof. Rubens Mauricio
+                                                  
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                Art. 216, VIII, do
+                Decreto 3.048/99
+                                     Empregado doméstico
+                                     Quem arrecada e recolhe?
+
+                                           empregador doméstico
+                                          junto com a parcela a seu cargo
+
+Prof. Rubens Mauricio
+                                         
+
+
+---
+
+        Arrecadação e Recolhimento
+
+                 Art. 216, II, do
+                Decreto 3.048/99
+                                     Segurado facultativo
+                                    Quem arrecada e recolhe?
+
+                                       o próprio segurado facultativo
+
+Prof. Rubens Mauricio
+                                        
+
+
+---
+
+        Arrecadação e Recolhimento
+
+
+               Art. 216, I, “a”, do
+                Decreto 3.048/99
+                                          Contribuinte individual
+                                         Quem arrecada e recolhe?
+
+                             quem arrecada e recolhe é
+                               a empresa contratante,                               se o C.I. presta
+                              inclusive se optante pelo                              serviço para
+                                 simples nacional ou                                   empresa
+                                sendo empresa imune
+
+Prof. Rubens Mauricio
+                                               
+
+
+---
+
+        Arrecadação e Recolhimento
+                Art. 216, II, do
+               Decreto 3.048/99        Contribuinte individual
+                                      Quem arrecada e recolhe?
+
+                                   o próprio segurado contribuinte individual
+
+                                                                                Se o CI presta serviço para:
+                                   Se o CI presta
+                                                                                      - pessoa física
+                                    serviço por
+                                                                                         - outro CI
+                                   conta própria
+                                                                               - produtor rural pessoa física
+
+                                     Se o CI presta serviço para missão diplomática
+                                     ou repartição consular de carreira estrangeira
+
+                                   ou quando tratar-se de brasileiro civil que trabalha
+                                    no exterior para organismo oficial internacional
+                                         do qual o brasil seja membro efetivo
+Prof. Rubens Mauricio
+                                               
+
+
+---
+
+        Arrecadação e Recolhimento
+
+             Art. 216, III, do
+            Decreto 3.048/99
+
+                          Segurado Especial e Produtor Rural Pessoa Física
+                                     Quem arrecada e recolhe?
+                                         o adquirente da produção rural
+
+                                                       se for pessoa jurídica
+
+                                        se for pessoa física, não produtor rural,
+                                         que adquira a produção para venda,
+                                               no varejo, a pessoas físicas
+
+
+Prof. Rubens Mauricio
+                                            
+
+
+---
+
+        Arrecadação e Recolhimento
+
+            Art. 216, IV, do
+           Decreto 3.048/99
+
+                        Segurado Especial e Produtor Rural Pessoa Física
+                                  Quem arrecada e recolhe?
+                                      o próprio segurado, se vender para
+
+                                           adquirente domiciliado no exterior
+
+                                    diretamente, no varejo, a consumidor pessoa física
+
+                                                   produtor rural pessoa física
+
+                                                     outro segurado especial
+
+Prof. Rubens Mauricio
+                                           
+
+
+---

@@ -1,0 +1,907 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 19_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: INTERVENÇÃO DO ESTADO
+artigos_citados:
+- Art. 216
+- art. 182
+- art. 184.
+- art. 186.
+- art. 243.
+- art. 35.
+- art. 519.
+- art. 5º
+---
+
+# INTERVENÇÃO DO ESTADO
+
+---
+
+---
+
+INTERVENÇÃO DO ESTADO
+    NA PROPRIEDADE
+                                           Prof. Antonio Daud
+
+      
+
+
+---
+
+NOÇÕES GERAIS
+
+                                              Prof. Antonio Daud
+
+         
+
+
+---
+
+       Direito de propriedade
+       ❑ Noções gerais: usar, gozar, dispor e reaver (CCB, art. 1.228)
+       ❑ Evolução
+                 - antes: direito absoluto
+                 - do sentido individual para o social
+       ❑ Supremacia do interesse público sobre o privado
+       ❑ Função social da propriedade
+       ❑ Poder de polícia
+
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                      
+
+
+---
+
+       Modalidades de Intervenção
+                                                                                        servidão
+
+                                                                                    requisição
+                                                                                  administrativa
+                                                                                        ocupação
+                                                 restritiva
+                                                                                       temporária
+                                   modalidades
+
+                                                                                   limitações
+                                                                                 administrativas
+
+                                                                                   tombamento
+
+                                                 supressiva                      desapropriação
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                                  
+
+
+---
+
+    Intervenção do Estado na Constituição
+❑ Função social: regra geral
+Art. 5º, XXIII - a propriedade atenderá a sua função social;
+❑ Propriedade urbana
+Art. 182, § 2º A propriedade urbana cumpre sua função social quando atende às exigências
+fundamentais de ordenação da cidade expressas no plano diretor.
+
+❑ Propriedade rural
+CF, art. 186. A função social é cumprida quando a propriedade rural atende,
+simultaneamente, segundo critérios e graus de exigência estabelecidos em lei, aos
+seguintes requisitos:
+I - aproveitamento racional e adequado;
+II - utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+III - observância das disposições que regulam as relações de trabalho;
+IV - exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
+                                  
+
+
+---
+
+       Intervenção do Estado na Constituição
+
+Art. 5º, XXIV - a lei estabelecerá o procedimento para desapropriação por
+necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia
+indenização em dinheiro, ressalvados os casos previstos nesta Constituição;
+(..)
+XXV - no caso de iminente perigo público, a autoridade competente poderá usar
+de propriedade particular, assegurada ao proprietário indenização ulterior, se
+houver dano [requisição administrativa];
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                                   --
+
+
+---
+
+DESAPROPRIAÇÃO
+
+                                              Prof. Antonio Daud
+
+         
+
+
+---
+
+                                           necessidade pública
+modalidades
+
+                                              utilidade pública
+                                                                                                    ordinária
+
+                                               interesse social                              urbanística – CF, art. 182
+
+                                                                                           reforma agrária – CF, art. 184
+
+                                                                  culturas ilegais de
+                                                                 plantas psicotrópicas
+                                Confiscatória
+                                     (CF, art. 243)
+                                                                      exploração de
+                                                                     trabalho escravo
+  Interv. do Estado na propriedade
+  Prof. Antonio Daud
+                                                      
+
+
+---
+
+       A) Necessidade ou utilidade pública
+       ❑ DL 3365/1941: dispor sobre desapropriações por utilidade pública
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       C) Interesse Social
+       ❑ função social da propriedade
+       ❑ Espécies:
+                 - desapropriação para fins de reforma agrária
+                 - desapropriação urbanística
+                 - desapropriação ordinária
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                     
+
+
+---
+
+       C.1) desapropriação para fins de reforma agrária
+       CF, art. 184. Compete à União desapropriar por interesse social, para
+       fins de reforma agrária, o imóvel rural que não esteja cumprindo sua
+       função social, mediante prévia e justa indenização em títulos da dívida
+       agrária, com cláusula de preservação do valor real, resgatáveis no
+       prazo de até vinte anos, a partir do segundo ano de sua emissão, e
+       cuja utilização será definida em lei.
+
+
+       ❑ Leis 8.629/1993 e 4.504/1964 (Estatuto da Terra)
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+   C.2) desapropriação urbanística
+CF, art. 182, § 2º A propriedade urbana cumpre sua função social quando atende
+às exigências fundamentais de ordenação da cidade expressas no plano diretor.
+§ 1º O plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades
+com mais de vinte mil habitantes, é o instrumento básico da política de
+desenvolvimento e de expansão urbana.
+CF, art. 182, § 3º As desapropriações de imóveis urbanos serão feitas com prévia
+e justa indenização em dinheiro.
+
+                             
+
+
+---
+
+  C.2) desapropriação urbanística especial
+
+CF, art. 182, § 4º É facultado ao Poder Público municipal, mediante lei específica
+para área incluída no plano diretor, exigir, nos termos da lei federal, do
+proprietário do solo urbano não edificado, subutilizado ou não utilizado, que
+promova seu adequado aproveitamento, sob pena, sucessivamente, de:
+I - parcelamento ou edificação compulsórios;
+II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo;
+III - desapropriação com pagamento mediante títulos da dívida pública de emissão
+previamente aprovada pelo Senado Federal, com prazo de resgate de até dez
+anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da
+indenização e os juros legais.
+
+                             
+
+
+---
+
+C.2) desapropriação urbanística com pgto. mediante títulos
+
+                            existência de plano diretor (p/ todos M)
+
+
+                                   imóvel estar subutilizado
+         Requisitos
+
+                                        proprietário descumprir de
+                                        parcelamento, edificação ou
+                                          utilização compulsórios
+                       após:
+                                     passados 5 anos consecutivos com
+                                             IPTU progressivo
+
+                      ao final, desapropriação do imóvel com pgto. em
+                             títulos       da dívida pública (não agrária)
+                              
+
+
+---
+
+       C.3) desapropriação por interesse social ordinária
+       ❑ “vala comum”
+       ❑ Lei 4.132/1962: “define os casos de desapropriação por interesse
+         social e dispõe sobre sua aplicação”.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       D) Confiscatória
+       ❑ Características:
+                 - o proprietário não recebe qualquer indenização
+           - os bens expropriados já têm destino determinado: reforma
+       agrária e programas de habitação popular
+           - não há necessidade de expedição de decreto desapropriatório
+       prévio
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+       D) Confiscatória
+       CF, art. 243. As propriedades rurais e urbanas de qualquer região do
+       País onde forem localizadas culturas ilegais de plantas psicotrópicas ou
+       a exploração de trabalho escravo na forma da lei serão expropriadas e
+       destinadas à reforma agrária e a programas de habitação popular, sem
+       qualquer indenização ao proprietário e sem prejuízo de outras sanções
+       previstas em lei, observado, no que couber, o disposto no art. 5º.
+       Parágrafo único. Todo e qualquer bem de valor econômico apreendido
+       em decorrência do tráfico ilícito de entorpecentes e drogas afins e da
+       exploração de trabalho escravo será confiscado e reverterá a fundo
+       especial com destinação específica, na forma da lei.
+
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                   por utilidade                                  competência da
+                                     pública             reforma                         União
+                                       por                agrária                 títulos da dívida
+                                   necessidade                                           agrária
+                                     pública                                         competência dos
+                                    interesse                                         municípios e DF
+                                      social                                          títulos da dívida
+                                                          urbanístic                       pública
+desapropriação                                                                     desatendimento do
+                                                              a
+                                                          ordinária                     plano diretor
+                                                                                              parcelamento/utilizaçã
+                                                                                  somente         o compulsória
+                                                                                    após      IPTU progressivo por 5
+                                                                                                      anos
+                                                          cultivo ilegal de plantas psicotrópicas
+                                   confiscatória              ou explor. de trabalho escravo
+Interv. do Estado na propriedade                                            sem indenização
+Prof. Antonio Daud
+                                             
+
+
+---
+
+       Bens suscetíveis de desapropriação
+       ❑ Regra: todo bem imóvel/móvel, corpóreo/incorpóreo, público/privado
+       ❑ Exeções: moeda corrente do País; direitos personalíssimos, como a
+         liberdade, a honra e a cidadania; margens dos rios navegáveis;
+         desapropriação de pessoas jurídicas
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+      Desapropriação de bens públicos
+                                        1) pelo ente federativo com território mais
+                                      abrangente sobre bens do ente com território
+     Desapropriação                                 menos abrangente
+     de bens públicos
+                                        2) seja editada lei pelo ente federativo (e não
+                                                                    apenas decreto)
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       A União tem permissão para desapropriar bens de domínio dos estados e dos
+       municípios mediante declaração de utilidade pública e autorização legislativa.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Indenização
+❑ Justa, englobando:
+    - valor atual do bem expropriado
+    - danos emergentes + lucros cessantes
+    - juros moratórias e compensatórios
+    - a atualização monetária
+    - os honorários advocatícios e as despesas judiciais incorridas pelo
+proprietário
+
+❑ Regra: dinheiro
+❑ Reforma agrária: títulos da dívida agrária; 20 anos; a partir do 2º
+  ano;
+    - benfeitorias: em dinheiro
+
+❑ Urbanística: títulos da 
+                           dívida pública; emissão aprovada SF; 10 anos
+
+
+---
+
+         Desapropriação: competência
+                                                             privativa da União
+                                    legislativa                                                lei complementar
+                                                                 delegável aos
+                                                                  Estados/DF                        questões
+                                                                                                   específicas
+                                                                regra: União, Estados, DF e Municípios
+  competências                     declaratória               desapropriação p/ reforma agrária: União
+
+                                                           desapropriação urbanística: Municípios e DF
+                                                                                   entes federativos
+                                   executória                                    administração indireta
+Interv. do Estado na propriedade                                     delegatários de serviços públicos
+Prof. Antonio Daud
+                                            
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       A edição de um decreto de declaração de utilidade pública por um determinado
+       Estado da Federação, é de competência exclusiva do Chefe do Poder Executivo, tem
+       natureza de ato administrativo de efeitos concretos e, se for o caso, pode ser
+       revogado ou anulado pela autoridade que o editou.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       Fases do procedimento de desapropriação
+
+
+                                          declaratória
+           fases do
+       procedimento de                                                  administrativa
+        desapropriação
+                                           executória
+                                                                           judicial
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Fases do procedimento: declaração
+❑ Regra: decreto (ou ato legislativo de efeitos concretos)
+    - decreto de efeitos concretos
+    - ato discricionário
+    - finalidade que será dada ao bem
+
+❑ Efeitos:
+   - autorização para que autoridades administrativas adentrem nos bens
+imóveis declarados
+    - início do cômputo do prazo para caducidade do ato
+    - indicação do estado do bem, a fim de que seja fixado o valor da
+indenização futura      
+
+
+---
+
+Fases do procedimento: declaração
+❑ Regra: decreto (ou ato legislativo de efeitos concretos)
+    - decreto de efeitos concretos
+    - ato discricionário
+    - finalidade que será dada ao bem
+
+❑ Efeitos:
+   - autorização para que autoridades administrativas adentrem nos bens
+imóveis declarados
+    - início do cômputo do prazo para caducidade do ato
+    - indicação do estado do bem, a fim de que seja fixado o valor da
+indenização futura      
+
+
+---
+
+       Fases do procedimento: executória
+       ❑ Via administrativa: se houver consenso quanto ao valor fixado pela
+         Administração
+       ❑ Via judicial: inexistência de consenso ou indefinição quanto ao
+         proprietário
+       ❑ Ação de desapropriação (Decreto-Lei 3.365/1941)
+                 - proposta pelo ente expropriante
+                 - proprietário é citado
+                 - proprietário oferece contestação (quanto ao mérito, apenas discussão do valor)
+                 - juiz delibera sobre valor da indenização
+                 - imissão provisória na posse: (i) urgência e (ii) depósito prévio (120 dias)
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                            
+
+
+---
+
+       Tredestinação
+       ❑ Desvio de finalidade na desapropriação
+
+
+       ❑ Tredestinação lícita: outra finalidade pública
+       ❑ Tredestinação ilícita: finalidade particular
+                 - retrocessão
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       Retrocessão
+     CCB, art. 519. Se a coisa expropriada para fins de necessidade ou utilidade
+     pública, ou por interesse social, não tiver o destino para que se desapropriou, ou
+     não for utilizada em obras ou serviços públicos, caberá ao expropriado direito de
+     preferência, pelo preço atual da coisa.
+
+
+    ❑ Tredestinação ilícita ou ausência de destinação
+    ❑ Preferência p/ aquisição: antigo proprietário
+    ❑ Valor atual do bem
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Desapropriação Indireta (apossamento admin.)
+       ❑ Estado se apropria do bem sem realizar o procedimento legal
+       ❑ Particular não adota providências tempestivamente
+       ❑ Fato administrativo
+       ❑ Indenização por perdas e danos
+
+       Decreto-Lei 3.365/1941, art. 35. Os bens expropriados, uma vez incorporados
+       à Fazenda Pública, não podem ser objeto de reivindicação, ainda que fundada
+       em nulidade do processo de desapropriação. Qualquer ação, julgada
+       procedente, resolver-se-á em perdas e danos.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       O poder público municipal apossou-se de imóvel de particular para a construção de
+       uma quadra poliesportiva de uso comunitário. O prefeito do município ordenou a
+       derrubada de uma cerca e o imediato início das obras, sem qualquer notificação
+       prévia ao proprietário.
+       Considerando-se o modo como os fatos ocorreram, é correto afirmar que houve, na
+       situação descrita,
+       a) apossamento administrativo, caso em que cabe a revisão imediata pelo Poder
+       Judiciário
+       b) ocupação temporária, caso em que cabe ao particular proprietário indenização
+       pelos eventuais danos comprovados
+       c) requisição administrativa, caso em que o particular proprietário pode discutir a
+       intervenção estatal em juízo
+       d) desapropriação indireta, caso em que resta ao particular proprietário do imóvel
+       pleitear perdas e danos.
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       No que tange à desapropriação, é correto afirmar:
+       a) A desapropriação por utilidade pública é aquela que decorre de um imperativo
+       irremovível e indispensável, pressupondo-se que sem ela não se pode iniciar, alcançar
+       ou continuar o interesse público
+       b) A desapropriação por necessidade pública é aquela que se revela necessária para
+       alcançar uma posição conveniente e vantajosa para a Administração Pública
+       c) Tredestinação ou tresdestinação é a modificação legítima realizada no decorrer do
+       procedimento expropriatório, viabilizada pela supremacia do interesse público, que
+       possibilita a alteração de uma desapropriação por utilidade pública em
+       desapropriação por necessidade pública e vice-versa, caracterizando mero desvio de
+       finalidade genérico
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       d) O desvio de finalidade genérico possibilita a retrocessão, consequência que não
+       ocorre no desvio de finalidade específico, caso em que poderá ser convalidado o
+       desvio, ressalvados alguns casos previstos em lei, como a desapropriação destinada à
+       implantação de parcelamento popular, destinado às classes de menor renda.
+       e) Para viabilizar o interesse público na esfera de competência material de todos os
+       entes federativos, a Constituição Federal outorgou competência legislativa
+       concorrente para a União, os Estados e os Municípios
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                                            --
+
+
+---
+
+---
+
+---
+
+---
+
+INTERVENÇÕES RESTRITIVAS
+
+                                               Prof. Antonio Daud
+
+          
+
+
+---
+
+                                                                                        servidão
+
+                                                                                    requisição
+                                                                                  administrativa
+                                                                                        ocupação
+                                                 restritiva
+                                   modalidades                                         temporária
+                                                                                   limitações
+                                                                                 administrativas
+
+                                                                                   tombamento
+
+                                                 supressiva                      desapropriação
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                                  
+
+
+---
+
+1) LIMITAÇÕES ADMINISTRATIVAS
+❑ Intervenção de caráter geral
+     - Poder público impõe obrigações a todos os particulares naquela condição
+
+❑ Exercício do poder de polícia
+❑ Obrigações de
+     - deixar de fazer algo (obrigações negativas) ou
+     - fazer algo (obrigações positivas)
+
+❑ Generalidade
+❑ Gratuidade (regra)
+- STJ: cabível indenização se (i) ficar demonstrado o prejuízo e (ii) a limitação for imposta
+após a aquisição do bem pelo particular.
+                               
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Para preservar área de proteção ambiental permanente, uma lei municipal
+       determinou recuo obrigatório de construção em propriedades situadas em
+       localidade de certo município.
+       Nessa situação hipotética, ocorre restrição ao direito de propriedade denominada
+       a) servidão administrativa.
+       b) tombamento.
+       c) apossamento administrativo.
+       d) desapropriação por utilidade pública.
+       e) limitação administrativa.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       2) SERVIDÃO ADMINISTRATIVA
+       ❑ Não é ato de caráter geral
+       ❑ Direito de o poder público utilizar de imóvel para viabilizar a
+         execução de obras e serviços de interesse coletivo
+       ❑ Perda da exclusividade
+       ❑ Perpetuidade (regra)
+       ❑ Não cabe indenização, exceto se houver dano (prévia)
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       2) SERVIDÃO ADMINISTRATIVA
+                                                                            1º imóvel é declarado como sendo
+                                                                            de utilidade publica
+                                     por acordo
+                                                                            2º é celebrado acordo entre o
+                                                                            proprietário e o poder público
+   instituição da
+      servidão                                                              1º imóvel é decarado como sendo
+                                                                            de utilidade publica
+                                   sentença judicial                        2º não houve acordo. Então, o
+                                                                            poder      público   ajuiza ação
+                                                                            pleiteando o reconhecimento
+                                                                            judicial da servidão
+                   Extinção?
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                       
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Se, na instalação de uma passagem de fios com a finalidade de distribuição de
+       energia elétrica para a população local, apresentar-se como uma necessidade pública
+       a utilização de parte de um terreno privado, caberá, sobre essa propriedade privada,
+       a intervenção estatal na modalidade
+       a) servidão civil.
+       b) desapropriação.
+       c) servidão administrativa.
+       d) tombamento.
+       e) requisição.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       3) TOMBAMENTO
+       ❑ proteção do patrimônio cultural brasileiro
+       Art. 216, § 1º O Poder Público, com a colaboração da comunidade, promoverá e protegerá o
+       patrimônio cultural brasileiro, por meio de inventários, registros, vigilância, tombamento e
+       desapropriação, e de outras formas de acautelamento e preservação.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                      
+
+
+---
+
+       3) TOMBAMENTO
+       ❑ Qto. à manifestação de vontade:
+                                                                          há consentimento do proprietário
+                                   voluntário
+                                                                                      do bem
+       tombamento
+                                                                           há resistência ou inconformismo
+                                   compulsório
+                                                                               por parte do proprietário
+
+
+       ❑ Qto. à eficácia:                                                    enquanto está em curso o
+                                     provisório
+                                                                              processo administrativo
+               tombamento                                                    após concluído o processo
+                                                                                  administrativo;
+                                     definitivo
+Interv. do Estado na propriedade                                           inscrição do bem no “livro do
+Prof. Antonio Daud
+                                                    tombo”
+
+
+---
+
+       3) TOMBAMENTO
+❑ Instituição: processo administrativo, com contraditório e ampla defesa
+❑ Indenização:
+         - regra: não devida
+     - salvo se as condições impostas para a conservação do bem acarretam despesas
+extraordinárias para o proprietário
+
+
+❑ STJ: O ato de tombamento geral não precisa individualizar os bens
+  abarcados pelo tombo, pois as restrições impostas pelo Decreto-Lei n.
+  25/1937 se estendem à totalidade dos imóveis pertencentes à área
+  tombada
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       4) REQUISIÇÃO ADMINISTRATIVA
+       ❑ perigo público iminente
+       CF, art. 5º, XXV - no caso de iminente perigo público, a autoridade competente poderá usar de
+       propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;
+
+       ❑ Indenização:
+                 - apenas se causar dano
+                 - posterior
+
+       ❑ Ato autoexecutório
+       ❑ Transitória
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                           
+
+
+---
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Requisição é o instrumento correto a ser usado no caso de a polícia ter de ocupar as
+       instalações de determinado estabelecimento no curso de operação policial.
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+       5) OCUPAÇÃO TEMPORÁRIA
+       ❑ poder público utiliza bens imóveis particulares, transitoriamente,
+        como meio de apoio à execução de obras e serviços públicos
+
+
+       ❑ Indenização: apenas se houver prejuízo (regra)
+       ❑ Ato autoexecutório
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                   
+
+
+---
+
+       QUESTÃO PARA FIXAÇÃO
+       Com o intuito de dar apoio logístico à obra de construção de um hospital municipal,
+       o prefeito de determinada cidade exarou ato declaratório informando a necessidade
+       de utilização, por tempo determinado, de um imóvel particular vizinho à obra, o qual
+       serviria como estacionamento para as máquinas e como local de armazenamento de
+       materiais.
+       Nessa situação hipotética, a modalidade de intervenção do ente público na
+       propriedade denomina-se
+       a) ocupação temporária.
+       b) desapropriação.
+       c) requisição administrativa.
+       d) servidão administrativa.
+       e) limitação administrativa.
+
+
+Interv. do Estado na propriedade
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                         Bens
+  Limitações      Obrigações
+                                    móveis ou Não cabe                     -         definitivas
+administrativas gerais impostas
+                                        imóveis
+                     obras e
+   Servidão       serviços de            Bens               Quando       Não é
+                                                                                      definitiva
+Administrativa     interesse            imóveis             couber   autoexecutória.
+                     coletivo
+                  patrimônio             Bens
+                                                          Não cabe
+ Tombamento          cultural       móveis ou                              -          definitivo
+                                                             (regra)
+                   brasileiro           imóveis
+                                         Bens               Quando
+  Requisição     Perigo público       móveis e              couber,        É
+                                                                                     transitória
+adminsitrativa      iminente           imóveis;                será  autoexecutória
+                                       serviços             ulterior
+                     Apoio à
+  Ocupação       execução de             Bens               Quando         É
+                                                                                     transitória
+  temporária         obras e            imóveis             couber   autoexecutória
+                    serviços 
+
+
+---
+
+OBRIGADO
+                                         Prof. Antonio Daud
+
+    
+
+
+---
+
+---

@@ -1,0 +1,413 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: QUESTÕES CESPE/CEBRASPE
+---
+
+# QUESTÕES CESPE/CEBRASPE
+
+QUESTÕES CESPE/CEBRASPE
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA
+SEGURIDADE SOCIAL NO BRASIL
+
+
+                                                      Prof. Rubens Mauricio
+
+                 
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE / CEBRASPE - 2022 - INSS - Técnico do Seguro Social - (GEX Guarulhos).
+
+        Acerca das fontes de legislação previdenciária, de sua organização e evolução
+        histórica, julgue o item que se segue.
+
+        A Constituição outorgada por Getúlio Vargas em 1937, conhecida como
+        Constituição Polaca, é considerada o marco do direito previdenciário brasileiro,
+        pois foi ela que consolidou a legislação previdenciária no Brasil.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2018 - STJ - Analista Judiciário - Oficial de Justiça Avaliador Federal .
+
+        Com relação à organização e aos princípios do sistema de seguridade social
+        brasileiro, julgue o item a seguir.
+
+        Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores
+        buscaram a proteção social que aquela legislação garantiu, o que provocou a
+        expansão dos direitos protetivos pelo país.
+
+                                                                                        (   ) CERTO
+                                                                            Gabarito:
+Prof. Rubens Mauricio
+                                                                                        (   ) ERRADO
+                                       
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2018 - STJ - Analista Judiciário - Judiciária.
+
+        Tendo como referência a doutrina e a jurisprudência a respeito da organização
+        e dos princípios do sistema de seguridade social brasileiro, julgue o item a
+        seguir.
+
+        O período de implantação da seguridade social foi marcado, entre outros, pelo
+        advento da Lei Eloy Chaves, que instituiu as caixas de aposentadorias e
+        pensões exclusivamente para ferroviários.
+
+                                                                                        (   ) CERTO
+                                                                            Gabarito:
+Prof. Rubens Mauricio
+                                                                                        (   ) ERRADO
+                                       
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2017 - DPU - Defensor Público Federal.
+
+        Acerca da seguridade social no Brasil, de sua evolução histórica e de seus
+        princípios, julgue o item a seguir.
+
+        A Lei Eloy Chaves, de 1923, foi um marco na legislação previdenciária no Brasil,
+        pois unificou os diversos institutos de aposentadoria e criou o INPS.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2016 - PGE-AM - Procurador do Estado.
+
+        A respeito do surgimento e da evolução da seguridade social, julgue o item a
+        seguir.
+
+        No Brasil, iniciou-se o regime próprio de previdência dos servidores públicos
+        com o advento da Lei Eloy Chaves, em 1923, que determinou a criação das
+        caixas de aposentadorias e pensões para os ferroviários.
+
+                                                                                     (   ) CERTO
+                                                                         Gabarito:
+Prof. Rubens Mauricio
+                                                                                     (   ) ERRADO
+                                    
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2016 - INSS - Técnico do Seguro Social.
+
+        No que se refere à seguridade social no Brasil, julgue o item seguinte.
+
+        A Lei Eloy Chaves, que criou em cada uma das empresas de estradas de ferro
+        existentes no país uma caixa de aposentadoria e pensões para os respectivos
+        empregados, foi o primeiro ato normativo a tratar de seguridade social no
+        Brasil.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2014 - Câmara dos Deputados - Analista Legislativo - Consultor
+        Legislativo Área XXI.
+
+        Com relação à evolução histórica e à organização institucional da previdência
+        social, julgue o item a seguir.
+
+        Embora a Lei Eloy Chaves, de 1923, seja considerada, na doutrina majoritária, o
+        marco da previdência social no Brasil, apenas em 1960, com a aprovação da Lei
+        Orgânica da Previdência Social, houve a uniformização do regramento de
+        concessão dos benefícios pelos diversos institutos de aposentadoria e pensão
+        então existentes.
+
+
+                                                                                      (   ) CERTO
+                                                                          Gabarito:
+Prof. Rubens Mauricio
+                                                                                      (   ) ERRADO
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2014 - Câmara dos Deputados - Analista Legislativo - Consultor
+        Legislativo Área XXI.
+
+        Com relação à evolução histórica e à organização institucional da previdência
+        social, julgue o item a seguir.
+
+        A Constituição Federal de 1934 inovou a ordem constitucional brasileira no
+        que se refere à fonte do custeio previdenciário, que passou a ser tríplice,
+        provinda de contribuições do Estado, do trabalhador e do empregador.
+
+                                                                                     (   ) CERTO
+                                                                         Gabarito:
+Prof. Rubens Mauricio
+                                                                                     (   ) ERRADO
+                                    
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2014 - TC-DF - Auditor de Controle Externo.
+
+        Com relação à origem e à evolução legislativa da Seguridade Social no Brasil,
+        julgue o item abaixo.
+
+        O seguro-desemprego veio previsto pela primeira vez na CF/1988.
+
+                                                                                      (   ) CERTO
+                                                                          Gabarito:
+Prof. Rubens Mauricio
+                                                                                      (   ) ERRADO
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2013 - TRT - 8ª Região (PA e AP) - Analista Judiciário - Área
+        Administrativa.
+        Acerca da evolução histórica do direito previdenciário brasileiro, assinale a
+        opção correta.
+        a) Ocorreram inúmeras modificações na organização administrativa
+        previdenciária brasileira ao longo de seu desenvolvimento, tais como a
+        transformação do Fundo de Assistência e Previdência do Trabalhador Rural em
+        INPS e, em seguida, mediante a CF, a transformação deste em INSS.
+        b) O ordenamento jurídico brasileiro coexistiu com inúmeros regimes
+        previdenciários específicos até a edição do Decreto-lei n.º 72/1966, mediante o
+        qual foram unificados os institutos de aposentadorias e centralizada a
+        organização previdenciária no INPS.
+
+Prof. Rubens Mauricio
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        c) O Decreto Legislativo n.º 4.682/1923, também conhecido como Lei Eloy
+        Chaves, é considerado um marco do direito previdenciário brasileiro, devido ao
+        fato de, por meio dele, ter sido criado o Ministério da Previdência e Assistência
+        Social.
+        d) Ao longo de décadas, o Estado brasileiro deixou de concedeu diversos
+        direitos sociais a seus cidadãos, tendo sido instituídos benefícios
+        previdenciários ao trabalhador apenas com a promulgação da CF.
+        e) A Constituição Federal de 1934 é considerada retrocedente quanto à
+        proteção ao trabalhador, haja vista terem sido dela excluídos os benefícios de
+        proteção à maternidade e os provenientes de acidente de trabalho.
+
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2012 - DPE-ES - Defensor Público.
+
+        No tocante à seguridade social, julgue os itens subsequentes.
+
+        A publicação, em 1954, do Decreto n.º 35.448, que aprovou o Regulamento
+        Geral dos Institutos de Aposentadorias e Pensões, é considerada, pela doutrina
+        majoritária, o marco inicial da previdência social brasileira.
+
+                                                                                      (   ) CERTO
+                                                                          Gabarito:
+Prof. Rubens Mauricio
+                                                                                      (   ) ERRADO
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2013 - SEGER-ES - Analista Executivo - Direito.
+
+        Acerca do conceito, da origem e da evolução legislativa da seguridade social
+        brasileira, podemos afirmar:
+
+        A Constituição de 1934 foi a primeira a dispor sobre aposentadoria,
+        instituindo-a para os funcionários públicos em caso de invalidez no serviço.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2013 - SEGER-ES - Analista Executivo - Direito.
+
+        Acerca do conceito, da origem e da evolução legislativa da seguridade social
+        brasileira, podemos afirmar:
+
+        A Constituição de 1937 foi a primeira a prever a forma tripartite de custeio da
+        previdência, realizada com contribuições do Estado, do empregado e do
+        empregador.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2013 - SEGER-ES - Analista Executivo - Direito.
+
+        Acerca do conceito, da origem e da evolução legislativa da seguridade social
+        brasileira, podemos afirmar:
+
+        Apesar de não ser a primeira norma a tratar de seguridade social, a Lei Eloy
+        Chaves (Decreto Legislativo n. o 4.682/1923) é considerada pela doutrina
+        majoritária o marco inicial da previdência social brasileira.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2010 - DETRAN-ES - Advogado.
+
+        A respeito da evolução legislativa, da organização e dos princípios
+        constitucionais da seguridade social, julgue os itens seguintes.
+
+        A Lei n.º 3.807/1960, conhecida como Lei Orgânica da Previdência Social,
+        notabilizou-se por ter uniformizado a legislação previdenciária dos diversos
+        institutos de aposentadoria e pensão.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2010 - TRT - 21ª Região (RN) - Analista Judiciário - Área Administrativa .
+
+        Em relação à história da previdência no Brasil, julgue os itens que
+        se seguem.
+
+        Com a criação do Instituto Nacional do Seguro Social, foram unificados, nesse
+        instituto, todos os órgãos estaduais de previdência social.
+
+                                                                                        (   ) CERTO
+                                                                            Gabarito:
+Prof. Rubens Mauricio
+                                                                                        (   ) ERRADO
+                                       
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2010 - TCE-BA - Procurador.
+
+        Julgue os próximos itens, a respeito da seguridade social.
+
+        Na evolução da previdência social brasileira, o modelo dos institutos de
+        aposentadoria e pensão, que abrangiam determinadas categorias profissionais,
+        foi posteriormente substituído pelo modelo das caixas de aposentadoria e
+        pensão, que eram criadas na estrutura de cada empresa.
+
+                                                                                       (   ) CERTO
+                                                                           Gabarito:
+Prof. Rubens Mauricio
+                                                                                       (   ) ERRADO
+                                      
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - 2010 - DPU - Defensor Público Federal.
+
+        Em relação aos institutos de direito previdenciário, julgue os itens que se
+        seguem.
+
+        A Lei Eloy Chaves (Decreto Legislativo n.º 4.682/1923), considerada o marco da
+        Previdência Social no Brasil, criou as caixas de aposentadoria e pensões das
+        empresas de estradas de ferro, sendo esse sistema mantido e administrado
+        pelo Estado.
+
+                                                                                      (   ) CERTO
+                                                                          Gabarito:
+Prof. Rubens Mauricio
+                                                                                      (   ) ERRADO
+                                     
+
+
+---
+
+        Questões CESPE/CEBRASPE
+        CESPE - Técnico do Seguro Social – INSS - 2008.
+
+        Em relação ao Instituto Nacional do Seguro Social, a seu histórico e estrutura,
+        julgue o item a seguir.
+
+        A fusão da Secretaria da Receita Federal com a Secretaria da Receita
+        Previdenciária centralizou em apenas um órgão a arrecadação da maioria dos
+        tributos federais. Contudo, a fiscalização e a arrecadação das contribuições
+        sociais destinadas aos chamados terceiros - SESC, SENAC, SESI, SENAI e
+        outros - permanecem a cargo do INSS.
+
+                                                                                      (   ) CERTO
+                                                                          Gabarito:
+Prof. Rubens Mauricio
+                                                                                      (   ) ERRADO
+                                     
+
+
+---

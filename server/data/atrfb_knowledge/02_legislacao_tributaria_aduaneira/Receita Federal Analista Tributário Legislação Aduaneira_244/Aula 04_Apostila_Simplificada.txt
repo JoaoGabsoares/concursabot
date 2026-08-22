@@ -1,0 +1,2633 @@
+                                                     Aula 03
+                          Receita Federal (Analista Tributário)
+                                         Legislação Aduaneira
+
+
+
+
+                                                         Autor:
+                                     Áulus Dias Warzeé Mattos
+
+
+
+
+                                          08 de Novembro de 2024
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Áulus Dias Warzeé Mattos
+      Aula 03
+
+
+
+
+                                                                                     Índice
+1) Controle Aduaneiro
+..............................................................................................................................................................................................3
+
+
+
+
+                Receita Federal (Analista Tributário) Legislação Aduaneira                                                                                                                2
+                www.estrategiaconcursos.com.br                                                                                                                                           50
+
+                                                             https://t.me/KakashiAssinaturasBot
+   Áulus Dias Warzeé Mattos
+   Aula 03
+
+
+
+
+Sumário
+
+1 - Controle Aduaneiro .................................................................................................................... 3
+
+2 - Procedimentos Gerais de Importação ........................................................................................ 4
+
+   2.1 - Despacho Aduaneiro de Importação ................................................................................... 4
+
+   2.2 - Modalidades de Despacho Aduaneiro de Importação ........................................................ 6
+
+      2.2.1 - Despacho para consumo ............................................................................................... 6
+
+      2.2.2 - Despacho para admissão ............................................................................................... 7
+
+      2.2.3 - Despacho para internação ............................................................................................. 7
+
+   2.3 - Documentos instrutivos do Despacho de Importação ......................................................... 7
+
+   2.4 - Licenciamento das Importações ........................................................................................... 8
+
+   2.5 - Fases do Despacho Aduaneiro de Importação .................................................................... 9
+
+      2.5.1 - Registro da DI ................................................................................................................ 9
+
+      2.5.2 - Seleção para Conferência Aduaneira .......................................................................... 11
+
+      2.5.3 - Conferência Aduaneira ................................................................................................ 12
+
+      2.5.4 - Desembaraço Aduaneiro ............................................................................................. 15
+
+   2.6 - Cancelamento de Declaração de Importação .................................................................... 16
+
+   2.7 - Espécies de Declaração de Importação ............................................................................. 17
+
+   2.8 - Operador Econômico Autorizado ...................................................................................... 18
+
+   2.9 - Lançamento dos tributos incidentes sobre a importação .................................................. 19
+
+   2.10 - Lançamento de ofício ....................................................................................................... 19
+
+   2.11 - Acréscimos legais ............................................................................................................. 20
+
+
+
+
+                                                                                                                                             1
+                                                                                                                                           47
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                       3
+           www.estrategiaconcursos.com.br                                                                                                  50
+
+                                             https://t.me/KakashiAssinaturasBot
+   Áulus Dias Warzeé Mattos
+   Aula 03
+
+
+
+
+   2.12 - Prescrição e decadência ................................................................................................... 21
+
+   2.13 - Importação por conta e ordem e importação por encomenda ....................................... 23
+
+      2.13.1 - Importação por conta e ordem .................................................................................. 23
+
+      2.13.2 - Importação por encomenda ...................................................................................... 24
+
+3 - Procedimentos Gerais de Exportação ...................................................................................... 25
+
+   3.1 - Despacho Aduaneiro de Exportação ................................................................................. 25
+
+      3.1.1 - Generalidades .............................................................................................................. 25
+
+      3.1.2 - Fases do despacho Aduaneiro de Exportação ............................................................ 26
+
+   3.2 - Despacho Fracionado ........................................................................................................ 29
+
+   3.3 - Situações Especiais de Despacho ...................................................................................... 29
+
+   3.4 - Cancelamento de Declaração de Exportação .................................................................... 30
+
+4 - Revisão Aduaneira .................................................................................................................... 30
+
+Lista de Questões .......................................................................................................................... 31
+
+   2 - Procedimentos Gerais de Importação................................................................................... 31
+
+   3 - Procedimentos Gerais de Exportação................................................................................... 36
+
+Gabarito ......................................................................................................................................... 36
+
+Questões Comentadas ................................................................................................................ 112
+
+   2 - Procedimentos Gerais de Importação................................................................................. 112
+
+   3 - Procedimentos Gerais de Exportação................................................................................... 48
+
+
+
+
+                                                                                                                                                   2
+                                                                                                                                                 47
+
+           Receita Federal (Analista Tributário) Legislação Aduaneira                                                                             4
+           www.estrategiaconcursos.com.br                                                                                                        50
+
+                                               https://t.me/KakashiAssinaturasBot
+    Áulus Dias Warzeé Mattos
+    Aula 03
+
+
+
+
+1 - CONTROLE ADUANEIRO
+O controle aduaneiro é competência da Secretaria Especial da Receita Federal do Brasil. No
+exercício dessa atividade, a RFB tem por objetivo realizar o controle de tudo o que entra e sai do
+território aduaneiro, tutelando bens jurídicos importantes para o Estado, como a segurança
+nacional e a saúde de pessoas e animais.
+
+O controle aduaneiro não tem finalidade arrecadatória, mas sim extrafiscal. Seu objeto central é a
+segurança da sociedade como um todo. De toda sorte, é claro que, ao fiscalizar o cumprimento
+das normas de importação e exportação, a RFB também verifica se o recolhimento tributário foi
+regularmente efetuado.
+
+A RFB desempenha suas atividades de controle aduaneiro, essencialmente, na circulação
+transfronteiriça de mercadorias e veículos. No entanto, o controle aduaneiro também poderá ser
+exercido a posteriori.1
+
+Os principais documentos do controle aduaneiro são a Declaração de Importação (DI)2 e a
+Declaração Única de Exportação (DU-E)3, utilizados, respectivamente, no despacho aduaneiro de
+importação e despacho aduaneiro de exportação.
+
+O comércio exterior é atividade estratégica para os Estados. Nesse sentido, o grau de abertura
+comercial está diretamente ligado à estratégia de desenvolvimento adotada pelo país.
+
+Nesse ambiente competitivo, fraudes no comércio exterior podem trazer vantagens indevidas a
+algumas empresas. É nesse contexto que é possível afirmar que o controle aduaneiro exercido
+pela RFB também visa a impedir a concorrência desleal e, por conseguinte, oferecer proteção à
+indústria doméstica.
+
+
+
+
+1
+ O controle aduaneiro a posteriori são as atividades de fiscalização aduaneira depois que a mercadoria entrou no país. São as
+chamadas operações de “zona secundária”. Mais à frente entenderemos o que significa o termo “zona secundária”.
+
+2
+ Em setembro de 2018, foi criada, no âmbito do Portal Único de Comércio Exterior, a DUIMP (Declaração Única de Importação),
+com o objetivo de substituir a Declaração de Importação. Entretanto, o processo de implementação da DUIMP ainda está em
+andamento.
+
+3
+ Em setembro de 2018, com o desligamento do SISCOMEX Exportação Web e do NOVOEX, a utilização da Declaração Única de
+Exportação (DU-E) passou a ser obrigatória. Todo o processo de exportação passou a ser realizado com base na Declaração Única
+de Exportação (DU-E), que substituiu as DEs (Declarações de Exportação) e os REs (Registros de Exportação).
+
+
+                                                                                                                           3
+                                                                                                                          47
+
+          Receita Federal (Analista Tributário) Legislação Aduaneira                                                      5
+          www.estrategiaconcursos.com.br                                                                                  50
+
+                                       https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+(Questão Inédita) O controle aduaneiro exercido sobre as operações de comércio exterior, a cargo
+da Secretaria Especial da Receita Federal do Brasil, tem por finalidade precípua assegurar a devida
+arrecadação dos tributos pertinentes, a fim de prover os recursos necessários para financiar as
+atividades do Estado.
+
+Comentários
+
+O exercício do controle aduaneiro sobre as operações de comércio exterior tem finalidade
+precipuamente extrafiscal. É claro que, ao fiscalizar o cumprimento das normas de importação e
+exportação, a RFB também verifica se o recolhimento tributário foi regularmente efetuado, mas a
+arrecadação tributária é apenas finalidade subsidiária do controle aduaneiro.
+
+Gabarito: errada
+
+
+2 - PROCEDIMENTOS GERAIS DE IMPORTAÇÃO
+
+2.1 - Despacho Aduaneiro de Importação
+
+O despacho de importação é regulamentado pela IN SRF nº 680/2006 e, ainda, por dispositivos
+do Regulamento Aduaneiro.
+
+Entende-se por despacho de importação o procedimento fiscal mediante o qual é verificada a
+exatidão dos dados declarados pelo importador em relação à mercadoria importada, aos
+documentos apresentados e à legislação específica. Trata-se de procedimento mediante o qual
+se processa o desembaraço aduaneiro de uma mercadoria importada.
+
+Segundo o art. 543 do R/A, toda mercadoria procedente do exterior, importada a título definitivo
+ou não, sujeita ou não ao pagamento do imposto de importação, deverá ser submetida a despacho
+de importação, que será realizado com base em declaração apresentada à unidade aduaneira sob
+cujo controle estiver a mercadoria. Trata-se de manifestação do princípio da universalidade do
+controle aduaneiro, que impede que as mercadorias que entrem no País escapem ao controle pela
+Aduana.
+
+
+
+
+                                                                                                 4
+                                                                                                47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               6
+        www.estrategiaconcursos.com.br                                                          50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Como é possível verificar a partir do exame do art. 543, do R/A, submetem-se ao despacho de
+importação as mercadorias que ingressem no país em caráter definitivo (mercadorias que tenham
+sido compradas por uma empresa brasileiro) ou em caráter temporário (como, por exemplo,
+automóveis que ingressem no Brasil para participarem de uma exposição, regressando,
+posteriormente, ao exterior).
+
+Conforme já se sabe, o controle aduaneiro tem natureza eminentemente extrafiscal, não tendo
+como objetivo direto a arrecadação tributária. Em razão disso é que o art. 543, do R/A, já
+mencionado, determina que as mercadorias que ingressem no país, estejam ou não sujeitas ao
+pagamento do imposto de importação, submetem-se ao despacho de importação.
+
+Também se submetem ao despacho aduaneiro de importação:
+
+            a) as mercadorias que, após terem sido submetidas a despacho aduaneiro de
+               exportação, retornem ao país. Ex: uma mercadoria é exportada em caráter
+               temporário ou a título definitivo e, posteriormente, volta para o Brasil. No
+               retorno, ela se submeterá ao despacho de importação;
+
+            b) as mercadorias que, após terem sido submetidas a despacho aduaneiro de
+               exportação, permaneçam no País, em caráter definitivo ou temporário, nos
+               termos da legislação específica. Ex: é realizada uma exportação ficta, isto
+               é, a mercadoria se submete a despacho de exportação, mas não sai do
+               território aduaneiro. Caso seja decidido, posteriormente, que ela será
+               nacionalizada, procede-se ao despacho de importação;
+
+            c) mercadorias de origem estrangeira que ingressaram temporariamente no
+               país e que, posteriormente, são transferidas para outro regime aduaneiro
+               especial ou mesmo nacionalizadas (despachadas para consumo). Ex: uma
+               mercadoria estrangeira entra no Brasil ao amparo do regime de admissão
+               temporária. Se o importador decidir nacionalizá-la, isto é, adquiri-la a título
+               definitivo, ela se submeterá a despacho de importação.
+
+A entrada no País de mala diplomática, assim considerada a que contenha tão-somente
+documentos diplomáticos e objetos destinados a uso oficial, por outro lado, está dispensada de
+despacho de importação. Destaque-se que a mala diplomática deverá conter sinais exteriores
+visíveis que indiquem seu caráter e ser entregue a pessoa formalmente credenciada pela missão
+
+
+
+
+                                                                                                  5
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               7
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+     Áulus Dias Warzeé Mattos
+     Aula 03
+
+
+
+
+diplomática. A mala consular também é dispensada do despacho de importação. 4 Trata-se do que
+se chama inviolabilidade absoluta da mala diplomática / consular.
+
+No entanto, essa inviolabilidade absoluta não se estende ao restante da bagagem dos agentes
+diplomáticos e consulares.
+
+O despacho de importação é processado com base em declaração e, em regra, é realizado no
+SISCOMEX. Há, entretanto, despachos de importação realizados fora do SISCOMEX, o que
+depende da natureza do importador, da operação e da mercadoria que está sendo importada. 5
+Destaque-se que o despacho de importação pode ser realizado em zona primária (portos,
+aeroportos e pontos de fronteira alfandegados) ou em zona secundária (portos secos).
+
+Atualmente, o despacho de importação é processado com base na Declaração de Importação (DI)
+registrada no SISCOMEX ou com base na Declaração Única de Importação (DUIMP), registrada no
+Portal Único de Comércio Exterior.
+
+O registro da DI ou da DUIMP no SISCOMEX materializa o início do despacho aduaneiro. Ao ser
+registrada no SISCOMEX, a DI ou a DUIMP recebem um número, ou seja, ocorre a numeração do
+despacho.
+
+A Declaração de Importação (DI) consiste na prestação de informações de natureza comercial e
+fiscal pelo importador, sendo um documento instrutivo do despacho. Registre-se que, em
+determinadas situações, o despacho aduaneiro pode ser realizado com base em Declaração
+Simplificada de Importação (DSI) (por exemplo no caso de importação por pessoa física, em
+quantidade e frequência que não caracteriza destinação comercial, e cujo valor não ultrapasse US$
+3.000,00, nos termos do artigo 3º, inciso I, da IN SRF nº 611/06).
+
+
+2.2 - Modalidades de Despacho Aduaneiro de Importação
+
+2.2.1 - Despacho para consumo
+
+O despacho para consumo é aplicável às mercadorias nacionalizadas, isto é, importadas a título
+definitivo. Diz-se que as mercadorias importadas em caráter definitivo são incorporadas à
+economia nacional.
+
+
+
+
+4
+ A dispensa do despacho de importação de malas diplomáticas e malas consulares é regra que decorre da Convenção de Viena
+sobre Relações Diplomáticas (1961) e Convenção de Viena sobre Relações Consulares (1963).
+
+5
+    Mais à frente, estudaremos as situações que o despacho de importação é feito fora do SISCOMEX.
+
+
+                                                                                                                      6
+                                                                                                                     47
+
+            Receita Federal (Analista Tributário) Legislação Aduaneira                                               8
+            www.estrategiaconcursos.com.br                                                                           50
+
+                                         https://t.me/KakashiAssinaturasBot
+    Áulus Dias Warzeé Mattos
+    Aula 03
+
+
+
+
+Também se submetem a despacho para consumo:
+
+              a) as mercadorias importadas ao amparo do regime aduaneiro especial de
+                 drawback;
+
+              b) mercadorias que ingressem na ZFM, Amazônia Ocidental, Áreas de Livre
+                 Comércio e Zonas de Processamento de Exportação sem o benefício de
+                 isenção tributária;
+
+              c) mercadorias constantes de remessa postal internacional ou de bagagem de
+                 viajantes às quais seja aplicado o regime de importação comum;
+
+              d) mercadorias admitidas em regime aduaneiro especial ou aplicado em áreas
+                 especiais que venham a ser nacionalizadas.
+
+2.2.2 - Despacho para admissão
+
+O despacho para admissão é aplicável às mercadorias importadas ao amparo de regimes
+aduaneiros especiais e regimes aduaneiros aplicados em áreas especiais, quando, nessa última
+hipótese, receberem isenção tributária.
+
+2.2.3 - Despacho para internação
+
+O despacho para internação é aplicável às mercadorias que saem da Zona Franca de Manaus ou
+Áreas de Livre Comércio com destino ao restante do território nacional. O despacho de internação
+é importante porque, nesse momento, é feito o recolhimento dos tributos que receberam
+benefícios fiscais ao ingressarem nessas áreas.
+
+
+2.3 - Documentos instrutivos do Despacho de Importação
+
+A Declaração de Importação (DI) é o documento base do despacho de importação, devendo
+conter a identificação do importador e a identificação, a classificação, o valor aduaneiro e a origem
+da mercadoria.6
+
+A RFB poderá exigir, ainda, na declaração de importação, outras informações, inclusive as
+destinadas a estatísticas de comércio exterior. A RFB também possui competência para
+estabelecer diferentes tipos de apresentação da declaração de importação, apropriados à
+
+
+
+6
+  Em setembro de 2018, foi criada a Duimp (Declaração Única de Importação), que ainda é de utilização facultativa. A Duimp é
+registrada no Portal Único de Comércio Exterior.
+
+
+                                                                                                                          7
+                                                                                                                         47
+
+          Receita Federal (Analista Tributário) Legislação Aduaneira                                                     9
+          www.estrategiaconcursos.com.br                                                                                 50
+
+                                       https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+natureza dos despachos, ou a situações específicas em relação à mercadoria ou a seu tratamento
+tributário.
+
+O art. 18 da IN SRF nº 680/2006 relaciona os documentos instrutivos da Declaração de Importação
+(DI).
+
+O inciso I menciona o conhecimento de carga, também chamado conhecimento de transporte, é
+um documento que materializa o contrato de frete internacional. Ele é emitido pelo transportador
+assim que é celebrado o contrato de frete e constitui prova de posse ou de propriedade da
+mercadoria. A cada conhecimento de carga corresponde uma única declaração de importação,
+salvo algumas exceções estabelecidas pela RFB.
+
+O inciso II trata da fatura comercial, que é o documento comprobatório da transação comercial,
+sintetizando o contrato de compra e venda celebrado entre o exportador e o importador.
+
+O inciso III menciona o romaneio de carga, também conhecido como packing list, documento que
+descreve o conteúdo e as características específicas de cada volume (peso, dimensões, tipo). O
+romaneio de carga não é aplicável às cargas que não são compostas por vários volumes (ex:
+granéis) e às cargas que se autoidentificam (ex: automóveis).
+
+O inciso IV, por último, menciona outros documentos, exigidos exclusivamente em decorrência de
+acordos internacionais ou de legislação específica. Aqui podemos citar os certificados de origem,
+que deverão ser apresentados com o objetivo de que determinadas mercadorias possam usufruir
+de tratamento tributário diferenciado em razão da origem.
+
+
+2.4 - Licenciamento das Importações
+
+Antes de passarmos para o estudo das fases do despacho aduaneiro de importação, procedimento
+que é iniciado com o registro da DI, precisamos falar brevemente sobre o licenciamento das
+operações de importação. Trata-se de etapa prévia, inserida no âmbito do controle administrativo
+exercido sobre o comércio exterior.
+
+O sistema administrativo das importações brasileiras compreende três modalidades de operações:
+
+   a) importações dispensadas de licenciamento;
+
+   b) importações sujeitas a licenciamento automático;
+
+   c) importações sujeitas a licenciamento não automático.
+
+
+
+
+                                                                                               8
+                                                                                              47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            10
+        www.estrategiaconcursos.com.br                                                        50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+A regra é que as importações brasileiras estejam dispensadas de licenciamento. Sem embargo, os
+artigos 20 e 21 da Portaria SECEX nº 249/2023 relacionam os casos de importações sujeitas a
+licenciamento automático e não automático.
+
+As importações dispensadas de licenciamento não se sujeitam a esse controle administrativo
+prévio. Nas importações sujeitas a licenciamento automático e não automático, por outro lado, o
+importador deve obter a licença necessária antes do registro da DI. Em alguns casos de
+licenciamento não automático, excepcionalmente, a licença deve ser obtida antes mesmo do
+embarque da mercadoria no exterior (restrição de embarque).
+
+
+2.5 - Fases do Despacho Aduaneiro de Importação
+
+2.5.1 - Registro da DI
+
+A Declaração de Importação (DI) consiste em documento por meio do qual o importador presta
+informações à autoridade aduaneira, dando início ao despacho aduaneiro de importação. Trata-
+se do documento base do despacho aduaneiro, devendo conter a identificação do importador, a
+identificação, a classificação, o valor aduaneiro e a origem da mercadoria.
+
+O registro da DI é um momento importante por diversos motivos. O registro da DI é o momento
+em que se considera ocorrido o fato gerador do imposto de importação. É também no exato
+momento do registro da DI que os tributos incidentes sobre a importação são debitados da conta
+corrente do importador.
+
+Ademais, o registro da DI tem o condão de excluir a espontaneidade do sujeito passivo. Assim,
+depois de registrada a DI, não há que se falar mais em denúncia espontânea.
+
+A IN SRF nº 680/2006 prevê alguns limites para o registro de uma Declaração de Importação. O
+art. 4º, § 1º, dispõe que não será admitido agrupar, em uma mesma DI, mercadoria que proceda
+do exterior e mercadoria que já esteja no País submetida a algum regime aduaneiro especial.
+
+É possível, no entanto, que seja formulada uma única DI para o despacho de mercadorias que,
+procedendo diretamente do exterior, tenham uma parte destinada a consumo e outra a ser
+submetida ao regime aduaneiro especial de admissão temporária ou a ser reimportada.
+
+O registro da DI no SISCOMEX somente será efetivado após o cumprimento dos requisitos
+elencados no art. 15 da IN SRF nº 680/2006, quais sejam:
+
+            a) Verificação da regularidade cadastral do importador;
+
+
+
+
+                                                                                             9
+                                                                                            47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                          11
+        www.estrategiaconcursos.com.br                                                      50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+            b) Após o licenciamento de importação (quando exigível) e a verificação do
+               atendimento às normas cambiais;
+
+            c) Após a chegada da carga (em regra, o registro da DI somente é efetivado
+               após a confirmação, no SISCOMEX, da disponibilidade da carga);
+
+            d) Confirmação pelo banco da aceitação do débito relativo aos tributos,
+               contribuições e direitos devidos, inclusive da Taxa de Utilização do
+               Siscomex;
+
+            e) Não ter sido constatada qualquer irregularidade impeditiva do registro;
+
+            f) A carga deverá estar em condições de vinculação no sistema de controle
+               de carga da Receita Federal aplicável ao modal de transporte.
+
+Destaque-se que, em algumas situações, não é necessário que seja confirmada a presença de
+carga, isto é, que a mercadoria seja descarregada na unidade da RFB de despacho. Isso é o que
+ocorre nas hipóteses em que a IN SRF nº 680/2006 autoriza o registro antecipado da DI. É o que
+conhecemos por despacho antecipado, em que o despacho é iniciado (pelo registro da DI) antes
+da chegada da carga no país. Trata-se de situações especiais, em que se exige maior celeridade
+nos procedimentos de importação.
+
+Importa ressaltar, no entanto, que, no caso de registro antecipado da DI, o desembaraço
+aduaneiro será realizado somente depois da complementação ou retificação dos dados da
+declaração no SISCOMEX, após a descarga na unidade de despacho, e do pagamento de eventual
+diferença de crédito tributário relativo à declaração.
+
+O importador pode requerer, ainda, previamente ao registro da DI, a verificação das mercadorias
+efetivamente recebidas do exterior, para dirimir dúvidas quanto ao tratamento tributário ou
+aduaneiro, inclusive no que se refere à sua perfeita identificação com vistas à classificação fiscal e
+à descrição detalhada.
+
+A verificação por parte do importador, antes do registro da DI, não dispensa a verificação física
+pela autoridade aduaneira, por ocasião do despacho de importação.
+
+O despacho de importação deve ser iniciado em:
+
+            a) até noventa dias contados da descarga na zona primária;
+
+            b) até noventa dias, contados do recebimento do aviso de chegada da
+               remessa postal;
+
+
+
+                                                                                                   10
+                                                                                                   47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 12
+        www.estrategiaconcursos.com.br                                                             50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+            c) até sessenta dias da data da notificação do proprietário da mercadoria
+               proveniente de naufrágio e outros acidentes;
+
+            d) até quarenta e cinco dias após esgotar-se o prazo de permanência em
+               regime especial de entreposto aduaneiro (nós estudaremos o regime
+               especial de entreposto aduaneiro futuramente, mas o prazo de
+               permanência, nesse caso, a princípio, é de um ano, prorrogável por mais
+               um ano, podendo, excepcionalmente, chegar a três anos);
+
+            e) até quarenta e cinco dias após esgotar-se o prazo de permanência da
+               mercadoria em recinto alfandegado de zona secundária (o prazo de
+               permanência em recinto alfandegado de zona secundária é de setenta e
+               cinco dias contados da data de entrada da mercadoria no recinto); e
+
+            f) até quarenta e cinco dias da chegada ao país, no caso de mercadoria trazida
+               do exterior como bagagem, acompanhada ou desacompanhada;
+
+            g) até trinta dias da ciência quanto à relevação da pena de perdimento
+               aplicada (a pena de perdimento já aplicada pode ser relevada nas
+               circunstâncias previstas pelo artigo 736 e 737 do R/A);
+
+            h) até trinta dias da ciência quanto ao reconhecimento do direito de iniciar o
+               despacho (entre o momento em que a mercadoria é considerada
+               abandonada e a efetiva aplicação da pena de perdimento em processo
+               administrativo formalizado para esse fim o importador pode solicitar que
+               lhe seja reconhecido o direito de iniciar o despacho, nos termos do artigo
+               643 do R/A);
+
+Se o importador não fizer o registro da DI dentro dos prazos acima mencionados, as mercadorias
+serão consideradas abandonadas e terá início o processo para aplicação da pena de perdimento.
+
+2.5.2 - Seleção para Conferência Aduaneira
+
+Após o registro da DI, esta é submetida a uma análise fiscal e, com base em critérios
+parametrizados no SISCOMEX, é direcionada para 1 (um) entre 4 (quatro) canais de conferência
+disponíveis. Os canais para os quais a DI poderá ser direcionada são os seguintes:
+
+            a) Canal Verde: a mercadoria é desembaraçada automaticamente;
+
+            b) Canal Amarelo: a autoridade aduaneira realizará apenas o exame
+               documental da importação;
+
+
+
+                                                                                             11
+                                                                                             47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           13
+        www.estrategiaconcursos.com.br                                                       50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+            c) Canal Vermelho: a autoridade aduaneira realizará, além do exame
+               documental, a verificação física da mercadoria;
+
+            d) Canal Cinza: a autoridade aduaneira promoverá a apuração de elementos
+               indiciários de fraude, além, é claro, de realizar o exame documental e a
+               verificação física.
+
+Nos termos do artigo 49 da IN SRF nº 680/06, a seleção da declaração para quaisquer dos canais
+de conferência aduaneira não impede que o chefe do setor responsável pelo despacho, a qualquer
+tempo, determine que se proceda à ação fiscal pertinente, se tiver conhecimento de fato ou da
+existência de indícios que requeiram a necessidade de verificação da mercadoria, ou de aplicação
+de procedimento de fiscalização de combate às fraudes aduaneiras.
+
+As DIs direcionadas para o canal verde, conforme vimos, são automaticamente desembaraçadas.
+Já as DIs direcionadas para os outros canais (amarelo, vermelho e cinza) serão objeto da
+conferência aduaneira. As DIs selecionadas para conferência aduaneira serão distribuídas para
+Auditor-Fiscal RFB, que será o responsável pelo despacho.
+
+2.5.3 - Conferência Aduaneira
+
+Segundo o art. 564 do R/A, a conferência aduaneira na importação tem por finalidade identificar
+o importador, verificar a mercadoria e a correção das informações relativas a sua natureza,
+classificação fiscal, quantificação e valor, e confirmar o cumprimento de todas as obrigações, fiscais
+e outras, exigíveis em razão da importação.
+
+A conferência aduaneira será iniciada após o registro da Declaração de Importação (DI) e da
+vinculação do dossiê eletrônico, que reúne todos os documentos instrutivos do despacho de
+importação.
+
+A conferência aduaneira pode ser realizada em zona primária ou zona secundária. A conferência
+aduaneira em zona secundária poderá ocorrer em recintos alfandegados (portos secos), no
+estabelecimento do importador (em ato de fiscalização ou como complementação da conferência
+iniciada na zona primária) ou, excepcionalmente, em outros locais, mediante prévia anuência da
+autoridade aduaneira.
+
+Segundo o art. 566, do Regulamento Aduaneiro, a verificação da mercadoria, no curso da
+conferência aduaneira ou em outra ocasião, será realizada por Auditor-Fiscal da RFB, ou, sob a sua
+supervisão, por Analista-Tributário, na presença do viajante, do importador ou de seus
+representantes. Na hipótese de mercadoria depositada em recinto alfandegado, a verificação
+poderá ser realizada na presença do depositário ou de seus prepostos, dispensada a exigência da
+presença do importador.
+
+
+                                                                                                   12
+                                                                                                   47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                 14
+        www.estrategiaconcursos.com.br                                                             50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+A verificação da mercadoria, no despacho de importação, será realizada mediante agendamento,
+que será realizado em conformidade com as regras gerais estabelecidas pelo chefe da unidade da
+Receita Federal responsável pelo despacho. O depositário das mercadorias será informado sobre
+o agendamento das verificações, devendo providenciar com antecedência o posicionamento das
+correspondentes mercadorias para a realização da verificação física.
+
+A verificação da mercadoria deve ocorrer na presença do importador ou de seu representante, na
+data e horário previstos (art. 31, §1º, da IN SRF nº 680/2006). É possível, ainda, que o importador
+ou representante opte por acompanhar a verificação da mercadoria de forma remota (art. 31, §1º-
+A, da IN SRF nº 680/2006), hipótese em que fica dispensado o comparecimento pessoal.
+
+Por outro lado, caso simplesmente não compareçam o importador ou seu representante, a
+verificação poderá ser realizada na presença do depositário ou de seu preposto, que, nessa
+situação, representará o importador.
+
+Os elementos indiciários de fraude serão apurados no curso de conferência aduaneira das
+declarações de importação selecionadas para o canal cinza. O prazo para a apuração dos
+elementos indiciários de fraude no curso de conferência aduaneira será de 16 (dezesseis) dias,
+contado da data da distribuição da DI para o Auditor-Fiscal da Receita Federal do Brasil
+responsável pelo despacho aduaneiro.
+
+Quando houver a necessidade de retenção de mercadoria, deverá ser instaurado o Procedimento
+de Fiscalização de Combate às Fraudes Aduaneiras. Vale destacar que a retenção da mercadoria
+antes do seu desembaraço interrompe o despacho aduaneiro de importação.
+
+No curso do despacho aduaneiro, a fiscalização aduaneira poderá impor, ainda, exigências ao
+importador, as quais serão formalizadas diretamente pelo SISCOMEX. O despacho é, então,
+interrompido para o atendimento da exigência pelo importador
+
+Registre-se que, nos termos do artigo 48, §1º, da IN SRF nº 680/06, a mercadoria objeto de
+exigência fiscal de qualquer natureza, formulada no curso do despacho aduaneiro na forma do
+caput do art. 42, somente será desembaraçada após o respectivo cumprimento.
+
+Nos termos do art. 570, § 1º, do R/A, caracterizam a interrupção do curso do despacho, entre
+outras ocorrências:
+
+            a) a não-apresentação de documentos exigidos pela autoridade aduaneira,
+               desde que indispensáveis ao prosseguimento do despacho; e
+
+            b) o não-comparecimento do importador para assistir à verificação da
+               mercadoria, quando sua presença for obrigatória. Recorde-se que, quando
+
+
+                                                                                                13
+                                                                                                47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              15
+        www.estrategiaconcursos.com.br                                                          50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+                a mercadoria estiver armazenada em recinto alfandegado, a presença do
+                importador pode ser dispensada.
+
+Uma vez interrompido o despacho, inicia-se a contagem do prazo de 60 dias para caracterização
+do abandono da mercadoria. O abandono da mercadoria dará ensejo ao início do processo para
+a aplicação da pena de perdimento.
+
+Se a exigência referir-se a crédito tributário ou direito comercial, o importador poderá efetuar o
+pagamento correspondente, independentemente de formalização de processo administrativo
+fiscal. Entretanto, havendo manifestação de inconformidade por parte do importador, o crédito
+tributário ou direito comercial deve ser constituído mediante lançamento em auto de infração, que
+será lavrado em até 8 (oito) dias.
+
+Nesse caso, o desembaraço fica condicionado ao pagamento integral do crédito tributário, não
+sendo suficiente sequer o parcelamento. Ainda assim, o importador pode requerer ao chefe da
+Unidade da RFB o desembaraço das mercadorias, mas, para isso, deve impugnar o auto de
+infração e apresentar garantia sob a forma de depósito em dinheiro, fiança bancária ou seguro
+aduaneiro no valor do montante exigido.
+
+Em certos casos, será necessário que o importador proceda à retificação da Declaração de
+Importação. Destaque-se que a retificação de DI poderá ocorrer até mesmo após o desembaraço
+aduaneiro de importação (de ofício ou por iniciativa do próprio importador).
+
+É importante destacar, aqui, que muitos importadores reclamavam o direito de desembaraçar as
+mercadorias importadas independentemente do cumprimento das exigências fiscais –
+notadamente quando o que estava sendo cobrado era o recolhimento de diferença de tributos –
+com base na Súmula 323 do STF que estabelece que é inadmissível a apreensão de mercadorias
+como meio coercitivo para pagamento de tributos.
+
+Entretanto, por ocasião do julgamento do Recurso Extraordinário 1.005.563/PR, o Supremo
+Tribunal Federal firmou o entendimento de que a Súmula 323/STF não se aplica ao despacho
+aduaneiro.
+
+2.5.3.1 - Caso especial–Bagagem dos integrantes de missões diplomáticas e de repartições
+consulares
+
+A mala diplomática e a mala consular gozam de inviolabilidade absoluta; elas não se submetem
+ao despacho de importação.
+
+O tratamento aplicável à bagagem dos integrantes de missões diplomáticas e repartições
+consulares, no entanto, é diferente. Não há, aqui, inviolabilidade absoluta, mas tão somente
+
+
+                                                                                               14
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             16
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+inviolabilidade relativa. A bagagem dos integrantes das missões diplomáticas e consulares está,
+sim, sujeita a despacho de importação. No entanto, em regra, não se submeterá à verificação física
+por ocasião do despacho.
+
+Digo em regra porque há exceções previstas no art. 567, do R/A. Assim, havendo fundadas razões
+para supor que a bagagem desses agentes contenha bens de importação proibida ou destinados
+a usos diversos aos previstos em normas internacionais, a autoridade aduaneira poderá proceder
+à verificação física. Tal verificação ocorrerá na presença do interessado ou de seu representante
+formalmente autorizado.
+
+2.5.4 - Desembaraço Aduaneiro
+
+O desembaraço aduaneiro é o ato pelo qual é registrada a conclusão da conferência aduaneira.
+Trata-se do ato final do despacho aduaneiro de importação. Após o desembaraço aduaneiro,
+poderá ser emitido pelo importador o comprovante de importação, mediante transação específica
+do SISCOMEX.
+
+A entrega da mercadoria ao importador, após o desembaraço aduaneiro, fica, ainda, condicionada
+à comprovação do pagamento do AFRMM (Adicional ao Frete para Renovação da Marinha
+Mercante) e do ICMS, conforme preveem o art. 575 e 576 do R/A.
+
+A verificação da regularidade do pagamento ou exoneração do AFRMM é realizada mediante
+consulta eletrônica do SISCOMEX ao Mercante (sistema de controle da arrecadação do AFRMM).
+No caso do ICMS, o importador deverá apresentar declaração por meio de transação própria do
+SISCOMEX.
+
+Vale ressaltar que o artigo 47 da IN SRF nº 680/06 traz algumas hipóteses excepcionais em que se
+admite a entrega da mercadoria antes da conclusão da conferência aduaneira, mediante
+requerimento do importador.
+
+O importador pode obter, também, mediante requerimento e após a autorização do Auditor-
+Fiscal responsável pelo despacho, a entrega da mercadoria antes da conclusão da conferência
+aduaneira, enquanto perdurar a Emergência em Saúde Pública de Importância Nacional (ESPIN)
+declarada pelo Ministério da Saúde, quando se tratar de produto:
+
+   a) relacionado no Anexo II da IN SRF nº 680/06 (por exemplo, dipirona, omeprazol e
+      lorazepam);
+
+   b) destinado ao combate da COVID-19, nas hipóteses de importação de bens de capital e de
+      matérias-primas em geral, casos em que o importador fica autorizado a utilizar
+
+
+
+                                                                                               15
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             17
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+       economicamente as mercadorias importadas antes mesmo da conclusão da conferência
+       aduaneira.
+
+Poderá, ainda, ser registrada a conclusão da conferência aduaneira por meio do desembaraço,
+quando o procedimento depender unicamente do resultado de análise laboratorial. Nesse caso,
+o importador deve assinar um Termo de Entrega de Mercadoria Objeto de Ação Fiscal, pelo qual
+será informado que a importação se encontra sob procedimento fiscal de revisão interna,
+
+Essa hipótese não se aplica, contudo, se houver indícios de que se trate de mercadoria sujeita a
+restrição ou proibição de permanência ou consumo no País, ou de mercadoria cujo tratamento
+administrativo aplicável exija novo licenciamento, até que a licença seja deferida.
+
+
+2.6 - Cancelamento de Declaração de Importação
+
+Segundo o art. 577 do R/A, a autoridade aduaneira poderá cancelar declaração de importação já
+registrada, de ofício ou a pedido do importador, observadas as condições estabelecidas em ato
+normativo da Secretaria da Receita Federal do Brasil.
+
+A IN SRF nº 680/2006 detalha mais as hipóteses em que poderá ser autorizado o cancelamento
+de DI, o qual depende de requerimento fundamentado do importador e de autorização do chefe
+do setor responsável pelo despacho aduaneiro. Destaque-se que o cancelamento da DI fica
+condicionado à apresentação da mercadoria para despacho ou devolução para o exterior, à
+exceção dos casos previstos nos incisos I, II e VII do art. 63 da IN SRF nº 680/2006 (que são
+situações em que a mercadoria não ingressou no País ou houve duplicação de DI!)
+
+Destaque-se que a competência para autorizar o cancelamento da DI será do chefe da Unidade
+da RFB quando se tratar de cancelamento a ser realizado depois do desembaraço aduaneiro de
+mercadoria submetida a canal amarelo, vermelho ou cinza de conferência aduaneira.
+
+O chefe da Unidade pode, ainda, autorizar o cancelamento da DI em hipótese não prevista no
+artigo 63 da IN SRF nº 680/06, com base em proposta justificada que evidencie a necessidade e a
+conveniência do cancelamento. Trata-se, neste caso, de competência indelegável.
+
+O cancelamento de Declaração de Importação não será autorizado, contudo, quando: i) houver
+indícios de infração aduaneira, enquanto não for concluída a respectiva apuração; ii) se tratar de
+mercadoria objeto de pena de perdimento.
+
+O cancelamento de Declaração de Importação não exime o importador da responsabilidade por
+eventuais infrações. Assim, mesmo havendo o cancelamento de DI, o importador irá responder
+por eventuais infrações por ele cometidas.
+
+
+
+                                                                                               16
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             18
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+2.7 - Espécies de Declaração de Importação
+
+Segundo o art. 578, do Regulamento Aduaneiro, a Receita Federal do Brasil poderá estabelecer
+procedimentos para simplificação do despacho de importação, os quais poderão ser suspensos
+ou extintos por conveniência administrativa.
+
+Com base nesse comando é que foram criadas outras espécies de Declarações de Importação.
+Com efeito, o despacho de importação poderá ser realizado com base em Declaração formulada
+pelo importador diretamente no SISCOMEX ou, então, por meio de Declaração fora do
+SISCOMEX.
+
+No SISCOMEX, podem ser registrados dois tipos de Declaração: i) a Declaração de Importação
+(DI) e; ii) a Declaração Simplificada de Importação (DSI).
+
+Há diversos tipos de Declaração de Importação, que serão utilizadas conforme a operação que
+está sendo realizada. Se a mercadoria estiver sendo importada a título definitivo, será registrada
+uma DI para consumo. Se a mercadoria estiver ingressando no regime de admissão temporária,
+será registrada uma DI para admissão.
+
+A Declaração Simplificada de Importação (DSI) Eletrônica poderá ser utilizada nos casos previstos
+no art. 3º da IN SRF nº 611/06 (exemplo: despacho aduaneiro de bens importados por pessoa
+física, com ou sem cobertura cambial, em quantidade e frequência que não caracterize destinação
+comercial, cujo valor não ultrapasse US$ 3,000.00 (três mil dólares dos Estados Unidos da América)
+ou o equivalente em outra moeda).
+
+Quanto aos casos em que o despacho de importação é feito sem registro no SISCOMEX, podemos
+citar as seguintes situações:
+
+            a) DSI-Formulário: As hipóteses de utilização da DSI-Formulário estão
+               relacionadas no art. 4º da IN SRF nº 611/2006. Destaco as seguintes
+               hipóteses (entre outras): importações de amostras sem valor comercial;
+               bens importados por pessoa física, sem finalidade comercial, de valor não
+               superior a US$ 500,00 (quinhentos dólares dos Estados Unidos da América);
+               órgãos e tecidos humanos para transplante; animais de vida doméstica, sem
+               cobertura cambial e sem finalidade comercial; medicamentos, sob
+               prescrição médica, importados por pessoa física;
+
+            b) DIR (Declaração de Importação de Remessa): O despacho de importação
+               de remessa internacional não é feito no SISCOMEX Importação, mas por
+               meio do Sistema REMESSA, por solicitação da empresa de courier ou da
+
+
+                                                                                               17
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             19
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+                Empresa Brasileira de Correios e Telégrafos – ECT no caso de bens contidos
+                em remessa internacional importados por pessoa física ou jurídica em
+                caráter definitivo e cujo valor total não ultrapasse US$ 3.000,00 (três mil
+                dólares dos Estados Unidos da América), e observada a disciplina
+                estabelecida pelos artigos 37 a 39 da IN RFB nº 1.737/17;
+
+            c) NTS (Nota de Tributação Simplificada): Aplica-se ao despacho aduaneiro
+               de remessa postais internacionais destinadas a pessoas físicas ou jurídicas,
+               até US$ 500,00 (quinhentos dólares dos Estados Unidos da América);
+
+            d) Urna Funerária: Segundo o art. 548, do R/A, o despacho de importação de
+               urna funerária será realizado em caráter prioritário e mediante rito sumário,
+               logo após a sua descarga, com base no respectivo conhecimento de carga
+               ou em documento de efeito equivalente.
+
+
+2.8 - Operador Econômico Autorizado
+
+Segundo a IN RFB nº 1.985/2020, entende-se por Operador Econômico Autorizado (OEA) o
+interveniente em operação de comércio exterior envolvido na movimentação internacional de
+mercadorias a qualquer título que demonstre atendimento aos requisitos e critérios exigidos pelo
+Programa OEA e seja devidamente certificado.
+
+São passíveis de certificação: i) o importador; ii) exportador; iii) o transportador; iv) o agente de
+carga; v) o depositário de mercadoria sob controle aduaneiro em recinto alfandegado; vi) o
+depositário em Recinto Especial para Despacho Aduaneiro de Exportação (Redex); vii) o operador
+portuário; e viii) o operador aeroportuário.
+
+O programa OEA possibilita a certificação do interveniente em duas modalidades:
+
+   a) OEA-Segurança (OEA-S), com base em critérios de segurança aplicados à cadeia logística
+      do fluxo das operações de comércio exterior (segurança da carga, controle de acesso físico,
+      treinamento e conscientização sobre ameaças, segurança física das instalações, gestão de
+      parceiros comerciais);
+
+   b) OEA-Conformidade (OEA-C), com base em critérios de cumprimento das obrigações
+      tributárias e aduaneiras (descrição completa das mercadorias, classificação fiscal das
+      mercadorias, operações indiretas, base de cálculo dos tributos, origem das mercadorias,
+      imunidades, benefícios fiscais e suspensões, qualificação profissional, controle cambial). A
+      modalidade OEA-Conformidade possui, ainda, dois níveis, diferenciados quanto aos
+      critérios exigidos e benefícios concedidos (OEA-C Nível 1 e OEA-C Nível 2).
+
+
+                                                                                                  18
+                                                                                                  47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                20
+        www.estrategiaconcursos.com.br                                                            50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Os benefícios concedidos em razão da certificação do interveniente como Operador Econômico
+Autorizado estão relacionados nos artigos 10, 11, 12 e 13 da IN RFB nº 1.985/20. Por exemplo,
+uma empresa habilitada como OEA na modalidade Segurança (OEA-S) não precisará apresentar
+garantia no regime de trânsito aduaneiro e apenas um pequeno percentual de suas cargas será
+selecionada para conferência aduaneira na exportação.
+
+A certificação no programa OEA é concedida em caráter precário (ou seja, revogável a qualquer
+tempo), com prazo de validade indeterminado. Para que sua certificação como OEA seja
+conservada, o interveniente deve manter o atendimento aos requisitos e critérios necessários para
+a obtenção da certificação.
+
+A participação no programa OEA tem, de toda sorte, caráter facultativo, ou seja, os intervenientes
+não são obrigados a aderir. Nesse mesmo sentido, a não adesão por parte dos intervenientes não
+implica impedimento ou limitação na atuação do interveniente em operações regulares de
+comércio exterior.
+
+
+2.9 - Lançamento dos tributos incidentes sobre a importação
+
+Na definição do art. 142 do Código Tributário Nacional (CTN), o lançamento é o procedimento
+administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente,
+determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo
+e, sendo caso, propor a aplicação da penalidade cabível.
+
+Trata-se de atividade administrativa de natureza vinculada e obrigatória, sob pena de
+responsabilidade funcional. No que tange aos tributos federais, compete privativamente ao
+Auditor Fiscal RFB a constituição, mediante lançamento, do crédito tributário.
+
+Na importação, os tributos de competência da União, são, em regra, objeto de lançamento por
+homologação, notadamente com base na Declaração de Importação (DI) e por ocasião do registro
+desta.
+
+
+2.10 - Lançamento de ofício
+
+O lançamento de ofício será efetuado pela autoridade aduaneira em diversas situações. Um bom
+exemplo é o caso da apuração de extravio de mercadoria importada. Se for constatado que uma
+mercadoria foi extraviada, a autoridade aduaneira procederá ao lançamento de ofício dos tributos,
+
+
+
+
+                                                                                                  19
+                                                                                                  47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                21
+        www.estrategiaconcursos.com.br                                                            50
+
+                                     https://t.me/KakashiAssinaturasBot
+     Áulus Dias Warzeé Mattos
+     Aula 03
+
+
+
+
+formalizado por meio de auto de infração, com vistas a cobrar o crédito do depositário ou do
+transportador7.
+
+Outro exemplo é o lançamento complementar de tributos apurados pelo Auditor-Fiscal, para além
+dos recolhidos por ocasião do registro da DI, seja no curso do despacho, seja em momento
+posterior ao desembaraço em sede de revisão aduaneira.
+
+Em termos gerais, sempre que for apurada infração às normas aduaneiras que implique exigência
+de tributo ou aplicação de penalidade pecuniária, o Auditor-Fiscal da RFB deve efetuar o
+correspondente lançamento para fins de constituição do crédito tributário, conforme esclarece o
+artigo 744 do Regulamento Aduaneiro. Percebam que, nesse caso, como a iniciativa do
+lançamento é da autoridade aduaneira, diz-se que o lançamento é efetuado de ofício.
+
+É importante destacar que o lançamento de ofício pode ter por objeto a constituição de crédito
+referente exclusivamente a multa, ou mesmo unicamente crédito referente a juros de mora.
+
+Quando a Procuradoria-Geral da Fazenda Nacional já estabeleceu que não haverá mais
+contestação sobre determinado tema na esfera judicial, o Auditor-Fiscal da RFB não deve
+promover lançamento de ofício de crédito baseado em entendimento contrário ao já pacificado
+em favor do contribuinte. Isso é o que estabelece o artigo 19-A da Lei nº 10.522/02.
+
+
+2.11 - Acréscimos legais
+
+Quando o tributo não é pago no prazo previsto pela legislação, o valor devido deve ser acrescido,
+a princípio, de multa de mora, conforme estabelece o artigo 746, do Regulamento Aduaneiro. A
+multa de mora é calculada à taxa de 0,33% por dia de atraso, limitada, porém, ao percentual
+máximo de 20%.
+
+Quando há lançamento de ofício do crédito, no entanto, aplica-se, em regra, a multa de ofício,
+calculada à taxa de 75% sobre a totalidade ou diferença do tributo lançado.
+
+O percentual da multa de ofício pode ser ainda duplicado, ou seja, pode ser de 150%, caso tenha
+ocorrido fraude, conluio ou sonegação na operação.
+
+A multa de ofício, seja a de 75%, seja a de 150%, pode ser aumentada, ainda, em 50%, caso o
+sujeito passivo não atenda, no prazo marcado, intimação expedida para a prestação de
+
+
+
+
+7
+    O transportador e o depositário são responsáveis pelo imposto de importação.
+
+
+
+
+                                                                                              20
+                                                                                              47
+
+            Receita Federal (Analista Tributário) Legislação Aduaneira                        22
+            www.estrategiaconcursos.com.br                                                    50
+
+                                          https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+esclarecimentos, para a apresentação de documentação técnica ou para a apresentação de
+arquivos de sistemas.
+
+É importante anotar, também, que a aplicação da multa de ofício afasta a aplicação da multa de
+mora. A multa de mora não incide sobre o débito oriundo de multa de ofício, tampouco pode ser
+aplicada quando o valor do imposto já tenha servido de base para a aplicação da multa decorrente
+de lançamento de ofício.
+
+Além da multa de mora, ou da multa ofício, o não pagamento do crédito tributário no prazo
+estipulado enseja o acréscimo, ainda, dos juros de mora. Para fatos geradores ocorridos desde o
+dia 1º de janeiro de 1997, os juros de mora são calculados com base na taxa referencial do Sistema
+Especial de Liquidação e Custódia – SELIC.
+
+Mais especificamente, os juros de mora são calculados com a aplicação da taxa SELIC a partir do
+primeiro dia do mês subsequente ao vencimento do prazo até o mês anterior ao do pagamento,
+e mais um por cento no mês do efetivo pagamento do débito.
+
+Nos termos do artigo 750, do Regulamento Aduaneiro, a regra é que o crédito não integralmente
+pago no vencimento será acrescido de juros de mora, seja qual for o motivo determinante da falta,
+sem prejuízo da imposição das penalidades cabíveis e da aplicação de quaisquer medidas de
+garantia previstas na lei tributária.
+
+Existe, contudo, uma exceção: caso o sujeito passivo tenha formalizado um processo de consulta
+sobre a interpretação da legislação tributária ou sobre a classificação fiscal de mercadoria, dentro
+do prazo legal para pagamento do crédito, enquanto estiver pendente a consulta, não correrão
+juros de mora sobre o valor principal.
+
+Por último, nós já mencionamos que é possível que o lançamento de ofício seja formalizado apenas
+para constituir o crédito referente a multa ou a juros de mora. Pois bem. Caso a multa e/ou os
+juros constituídos isoladamente não sejam pagos no prazo, esse crédito deve também ser
+acrescido dos juros de mora.
+
+
+2.12 - Prescrição e decadência
+
+A regra é que o direito de exigir o tributo se extingue no prazo de cinco anos, contados do
+primeiro dia do exercício seguinte àquele em que poderia ter sido originalmente lançado o crédito
+(artigo 752, inciso I, do Regulamento Aduaneiro).
+
+Imaginem, no entanto, que o lançamento do tributo tenha sido formalizado, mas, após
+impugnação apresentada pelo sujeito passivo, a Delegacia Regional de Julgamento da RFB decida
+
+
+                                                                                                 21
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               23
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+anular o lançamento por vício formal (ou seja, vício de forma, que não tenha relação com os
+aspectos materiais do lançamento).
+
+Nesse caso, a partir do momento em que se tornar definitiva essa decisão anulatória, começará a
+ser contado um novo prazo de cinco anos para que seja formalizado outro lançamento.
+
+Caso o lançamento de ofício se refira à diferença apurada pela autoridade aduaneira em adição a
+um recolhimento já efetuado por ocasião do registro da DI, o termo inicial do prazo decadencial
+é diferente. Isso porque há um lançamento por homologação pendente de apreciação. Nesse
+caso, o prazo decadencial é de cinco anos, contados da data do pagamento efetuado, conforme
+artigo 752, §2º, do Regulamento Aduaneiro.
+
+O direito de pleitear a restituição de tributo recolhido, por outro lado, extingue-se em cinco anos
+contados (i) da data do pagamento indevido ou (ii) da data em que se tornar definitiva a decisão
+administrativa ou passar em julgado a decisão judicial que tenha reformado, anulado, revogado
+ou rescindido a decisão condenatória.
+
+É importante conhecer, ainda, a figura do “lançamento de ofício para prevenir a decadência”.
+Suponham que antes mesmo de ser formalizado o lançamento de ofício, o sujeito passivo recorre
+ao Poder Judiciário defendendo a tese de que a cobrança do tributo não é devida, e que o juízo
+competente conceda uma tutela provisória ao contribuinte impedindo a Fazenda de cobrar o
+crédito sob debate.
+
+Nesse cenário, apesar de não poderem ser adotadas medidas concretas orientadas para cobrar a
+satisfação do crédito, por força da decisão judicial, o Auditor-Fiscal permanece com o dever de
+lançar o tributo, para impedir que o direito de constituir o crédito seja fulminado pela decadência.
+A constituição desse crédito que não pode ser cobrado é formalizada pelo lançamento de ofício
+para prevenir a decadência.
+
+Convém acrescentar que, nessa hipótese, o deferimento da tutela provisória interrompe a
+incidência da multa de mora, desde a concessão da medida, até trinta dias após a data da
+publicação da decisão judicial que considerar devido o tributo.
+
+Anotem, no mais, que o direito de impor penalidade por infrações à legislação aduaneira se
+extingue também em cinco anos, contados, porém, da data em que foi praticada a infração (artigo
+753 do Regulamento Aduaneiro).
+
+Pois bem. Uma vez constituído o crédito tributário pelo lançamento, dentro do prazo decadencial,
+começa a correr o prazo prescricional para que seja cobrado o pagamento desse crédito. Com
+efeito, caso não seja promovida tempestivamente a cobrança da dívida já lançada, a prescrição
+incide como forma de extinção do crédito tributário.
+
+
+                                                                                                 22
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               24
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Nesse sentido, nos termos do artigo 755 do Regulamento Aduaneiro, o direito de ação para
+cobrança do crédito tributário prescreve em cinco anos, contados da data de sua constituição
+definitiva.
+
+De acordo com o artigo 756 do Regulamento aduaneiro, no entanto, o prazo de prescrição não
+corre (i) enquanto o processo de cobrança depender de exigência a ser satisfeita pela contribuinte
+e (ii) até que a autoridade aduaneira seja diretamente informada da revogação de ordem ou
+decisão judicial que porventura haja suspendido, anulado ou modificado a exigência, inclusive no
+caso de sobrestamento do processo.
+
+Por outro lado, se um pedido de restituição de tributo for negado na esfera administrativa, é de
+dois anos o prazo prescricional para que seja distribuída a ação judicial buscando a anulação dessa
+decisão denegatória.
+
+
+2.13 - Importação por conta e ordem e importação por
+encomenda
+
+Esses dois tipos de importação indireta são muito importantes. De início, é importante destacar
+que essas duas operações de importação estão relacionadas à evolução das práticas do comércio
+internacional, em que as empresas buscam concentrar seus esforços na sua atividade principal,
+terceirizando as atividades de despacho aduaneiro. Essa é uma característica em comum da
+importação por conta e ordem e da importação por encomenda. Nessas operações, não é o
+destinatário da carga que registra a operação.
+
+Vale destacar, sem embargo, que em ambas as situações (importação por conta e ordem e
+importação por encomenda), as pessoas jurídicas importadoras (que registram a declaração de
+importação) devem estar habilitadas no SISCOMEX. Além disso, também precisarão ter a referida
+habilitação o encomendante e o adquirente.
+
+2.13.1 - Importação por conta e ordem
+
+Nos termos da IN SRF nº 1.861/2018, considera-se operação de importação por conta e ordem
+de terceiro, aquela em que a pessoa jurídica importadora é contratada para promover, em seu
+nome, o despacho aduaneiro de importação de mercadoria de procedência estrangeira, adquirida
+no exterior por outra pessoa, física ou jurídica.
+
+Na importação por conta e ordem, é o adquirente que realiza a compra da mercadoria perante o
+exportador e, portanto, é também o adquirente que deve possuir capacidade econômica para
+efetuar a transação.
+
+
+
+                                                                                                23
+                                                                                                47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              25
+        www.estrategiaconcursos.com.br                                                          50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Lembrem-se que o adquirente de mercadoria de procedência estrangeira, no caso de importação
+realizada por sua conta e ordem, por intermédio de pessoa jurídica importadora, é indicado como
+responsável solidário pelo pagamento do Imposto de Importação, nos termos do artigo 106, inciso
+III, do R/A. O contribuinte, por outro lado, no contexto dessa operação, é o importador (artigo
+104, inciso I, do R/A).
+
+Ainda acerca da importação por conta e ordem, vale destacar que o importador (empresa
+contratada) é tão-somente o consignatário da mercadoria. A fatura comercial, por sua vez, deve
+identificar o adquirente da mercadoria, refletindo a transação efetivamente realizada com o
+vendedor ou transmitente das mercadorias.
+
+2.13.2 - Importação por encomenda
+
+Na importação por encomenda, por outro lado, uma pessoa jurídica adquire mercadorias no
+exterior com seus próprios recursos, fazendo, ainda, o despacho aduaneiro de importação. No
+entanto, o objetivo é revender as mercadorias a um encomendante predeterminado, em virtude
+de um contrato previamente celebrado.
+
+Nos termos da IN RFB nº 1.861/2018, considera-se operação de importação por encomenda
+aquela em que a pessoa jurídica importadora é contratada para promover, em seu nome e com
+recursos próprios, o despacho aduaneiro de importação de mercadoria de procedência
+estrangeira por ela adquirida no exterior para revenda a encomendante predeterminado.
+
+Na importação por encomenda, é a própria importadora que realiza a compra da mercadoria
+perante o exportador, com o objetivo de revender o bem para um encomentante predeterminado,
+pelo que tanto o encomendante quanto a importadora devem possuir capacidade econômica para
+efetuar a transação.
+
+Lembrem-se que o encomendante predeterminado que adquire mercadoria de procedência
+estrangeira de pessoa jurídica importador, é indicado como responsável solidário pelo pagamento
+do Imposto de Importação, nos termos do artigo 106, inciso IV, do R/A. O contribuinte, por outro
+lado, no contexto dessa operação, é o importador (artigo 104, inciso I, do R/A).
+
+Convém registrar, por fim, que o pagamento ao fornecedor estrangeiro pela aquisição da
+mercadoria importada deve ser realizado exclusivamente pelo importador. Consideram-se
+recursos próprios do importador, no entanto, os valores recebidos do encomendante
+predeterminado a título de pagamento, total ou parcial, da obrigação, ainda que ocorrido antes
+da realização da operação de importação ou da efetivação da transação comercial de compra e
+venda.
+
+
+
+
+                                                                                             24
+                                                                                             47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                           26
+        www.estrategiaconcursos.com.br                                                       50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+(AFRFB – 2014-adaptada) A fim de determinar o tipo e a amplitude do controle a ser efetuado na
+conferência aduaneira, a legislação determina que serão adotados canais de seleção. Pelo canal
+de conferência cinza, será realizado o exame documental, a verificação da mercadoria e a
+apuração de elementos indiciários de fraude.
+
+Comentários
+
+Há quatro canais de seleção para os quais uma DI pode ser direcionada: canal verde, canal
+amarelo, canal vermelho e canal cinza. No canal cinza, haverá exame documental, verificação física
+e apuração de elementos indiciários de fraude.
+
+Gabarito: certa
+
+
+3 - PROCEDIMENTOS GERAIS DE EXPORTAÇÃO
+
+3.1 - Despacho Aduaneiro de Exportação
+
+3.1.1 - Generalidades
+
+O despacho aduaneiro de exportação é processado, atualmente, com base em Declaração Única
+de Exportação (DU-E).
+
+Importa salientar que a utilização da DU-E tornou-se obrigatória a partir de outubro de 2018,
+substituindo, assim, a Declaração de Exportação (DE), a Declaração Simplificada de Exportação
+(DSE), e o Registro de Exportação (RE), que eram utilizados nas operações de exportação até esse
+momento.
+
+Entende-se por despacho de exportação o procedimento fiscal mediante o qual é verificada a
+exatidão dos dados declarados pelo exportador em relação à mercadoria, aos documentos
+apresentados e à legislação específica, com vistas a seu desembaraço aduaneiro e a sua saída para
+o exterior.
+
+São objeto de despacho de exportação as mercadorias nacionais ou nacionalizadas destinadas ao
+exterior, seja a título definitivo ou não. Também sofrem despacho de exportação as mercadorias
+
+
+
+                                                                                               25
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             27
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+    Áulus Dias Warzeé Mattos
+    Aula 03
+
+
+
+
+que entram no país em caráter temporário e depois retornam ao exterior, isto é, mercadorias que
+são reexportadas.8
+
+A mercadoria a ser devolvida ao exterior antes de ser submetida a despacho de importação, por
+outro lado, pode ser dispensada do despacho de exportação, conforme disposto em ato
+normativo editado pela RFB. Seria o caso, por exemplo, da mercadoria que chega ao Brasil por
+erro inequívoco de expedição e, então, é redestinada ou devolvida para o exterior. 9
+
+A mala diplomática e a mala consular também são dispensadas do despacho de exportação.
+
+3.1.2 - Fases do despacho Aduaneiro de Exportação
+
+3.1.2.1 - Registro da Declaração Única de Exportação (DU-E)
+
+O despacho aduaneiro de exportação será processado por meio de Declaração Única de
+Exportação (DU-E), registrada no Portal Único de Comércio Exterior – PUCOMEX. A DU-E é um
+documento eletrônico que contém informações de natureza aduaneira, administrativa, comercial,
+financeira, tributária, fiscal e logística, que caracterizam a operação de exportação dos bens por
+ela amparados e definem o enquadramento dessa operação.
+
+A DU-E consistirá na prestação de informações necessárias ao controle da operação de
+exportação, de acordo com: i) a forma de exportação escolhida pelo exportador; ii) os bens
+integrantes da DU-E; e iii) as circunstâncias da operação.
+
+Com base nas próprias informações prestadas na DU-E, aliás, é que será verificado o tratamento
+administrativo aplicável à operação e a necessidade de intervenção por parte de outro órgão ou
+agência da Administração Pública federal (órgão anuente) na operação pretendida.
+
+A DU-E terá como base a nota fiscal que amparar a operação de exportação, exceto quando for
+dispensada a emissão desse documento pela legislação. Cabe destacar que a DU-E poderá ser
+instruída com uma ou mais notas fiscais, desde que se refiram operações de exportação para um
+mesmo importador. Todavia, uma nota fiscal de exportação somente poderá instruir uma única
+DU-E.
+
+
+
+
+8
+  Reexportação é uma operação comercial que fica caracterizada pelo retorno ao exterior de um bem que ingressou no país a título
+temporário. Por analogia, podemos conceituar reimportação como a operação comercial em que um bem exportado
+temporariamente retorna ao país.
+9
+  Quando tratamos do imposto de importação, mencionei que essa era uma hipótese de não-incidência desse imposto.
+
+
+                                                                                                                            26
+                                                                                                                             47
+
+          Receita Federal (Analista Tributário) Legislação Aduaneira                                                         28
+          www.estrategiaconcursos.com.br                                                                                     50
+
+                                        https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Nas exportações por via terrestre, fluvial ou lacustre, a DU-E também será instruída com a via
+original do conhecimento de carga e do manifesto internacional de carga. Por outro lado, nas
+exportações por via marítima ou aérea, esses documentos serão dispensados.
+
+O despacho de exportação poderá ser realizado:
+
+       a) recintos aduaneiros de zona primária ou secundária;
+
+       b) locais situados na zona primária, sob a responsabilidade de um operador portuário, de
+          um transportador internacional ou da Secretaria da Receita Federal do Brasil (RFB);
+
+       c) qualquer local no território aduaneiro autorizado pela fiscalização aduaneira ou em
+          legislação específica, sob a responsabilidade do exportador.
+
+3.1.2.2 - Apresentação da Carga para Despacho
+
+O registro da DU-E implicará sua vinculação aos bens nela indicados e a uma Referência Única de
+Carga (RUC). A RUC é o identificador único e irrepetível que servirá de base para o controle da
+armazenagem e movimentação de cargas para exportação. A custódia e a movimentação de
+cargas para exportação por meio de DU-E serão controladas por meio do módulo Controle de
+Carga e Trânsito (CCT)
+
+Depois de a DU-E ser registrada, o Portal Único de Comércio Exterior verifica se as notas fiscais
+vinculadas àquela declaração foram recepcionadas pelo depositário no local indicado para
+despacho. O registro da recepção da carga no CCT permitirá que a DU-E seja apresentada para
+despacho e, na sequência, submetida à análise de risco.
+
+A apresentação da carga para despacho marca o início do procedimento fiscal e o fim da
+espontaneidade para o declarante ou o exportador retificar ou cancelar a DU-E sem que a
+retificação ou o cancelamento tenha que ser autorizado pela fiscalização aduaneira.
+
+Vale destacar que o prévio registro da DU-E é condição para que a carga possa ser apresentada
+para despacho.
+
+3.1.2.3 - Parametrização da DU-E
+
+Depois da apresentação da carga para despacho, a DU-E é submetida à análise de risco,
+submetendo-se à parametrização pelo sistema, a fim de que seja determinado o nível de
+conferência aduaneira.
+
+
+
+
+                                                                                              27
+                                                                                              47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            29
+        www.estrategiaconcursos.com.br                                                        50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+A Declaração Única de Exportação (DU-E) pode ser direcionada para três canais de conferência
+diferentes:
+
+            a) Canal verde: desembaraço de exportação é automático, sem qualquer
+               exame físico ou documental.
+
+            b) Canal laranja: será realizado o exame documental.
+
+            c) Canal vermelho: será realizado o exame documental e a verificação física da
+               mercadoria.
+
+Não é porque a DU-E foi direcionada para o canal verde ou laranja que ela não poderá ser
+redirecionada, pela autoridade aduaneira, para o canal vermelho. Sempre é possível que a
+autoridade aduaneira, discricionariamente, decida agravar o nível da conferência aduaneira.
+
+Quando a DU-E for direcionada para o canal laranja ou vermelho, os documentos instrutivos do
+despacho deverão ser disponibilizados à Receita Federal (RFB) ou a outros órgãos e ou agências
+da Administração Pública Federal, conforme o caso. Quando a DU-E for para o canal verde, não
+haverá recepção de documentos.
+
+3.1.2.4 - Conferência aduaneira
+
+Segundo o art. 589, do R/A, a conferência aduaneira na exportação tem por finalidade identificar
+o exportador, verificar a mercadoria e a correção das informações relativas à sua natureza,
+classificação fiscal, quantificação e preço, e confirmar o cumprimento de todas as obrigações,
+fiscais e outras, exigíveis em razão da exportação.
+
+As declarações selecionadas para conferência aduaneira, isto é, aquelas que forem direcionadas
+para o canal laranja ou vermelho, serão distribuídas aos Auditores-Fiscais da RFB.
+
+A verificação da mercadoria, no curso da conferência aduaneira ou em qualquer outra ocasião,
+será realizada por Auditor-Fiscal da Receita Federal do Brasil, ou sob a sua supervisão, por
+Analista-Tributário, na presença do viajante, do exportador ou de seus representantes. É possível
+também que o acompanhamento da verificação da mercadoria pelo exportador ou por seu
+representante seja realizado de forma remota.
+
+Na hipótese de mercadoria depositada em recinto alfandegado, a verificação poderá ser realizada
+na presença do depositário ou de seus prepostos, dispensada a exigência da presença do
+exportador.
+
+
+
+
+                                                                                              28
+                                                                                              47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            30
+        www.estrategiaconcursos.com.br                                                        50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+3.1.2.5 - Desembaraço e Averbação
+
+Segundo o art. 591, do R/A, desembaraço aduaneiro na exportação é o ato pelo qual é registrada
+a conclusão da conferência aduaneira e autorizado o embarque ou a transposição de fronteira da
+mercadoria.
+
+Nos termos do artigo 80, da IN RFB nº 1.702/17, com exceção dos casos especiais de despacho
+com embarque antecipado e de despacho posterior à saída dos bens para o exterior, o embarque
+ou a transposição de fronteira de bens destinados a exportação somente poderá ocorrer após o
+seu desembaraço e, quando for o caso, depois de concluído o trânsito aduaneiro, e deverá ser
+realizado sob controle aduaneiro.
+
+O ato final do despacho de exportação é a averbação, que consiste na confirmação, pela
+fiscalização aduaneira, do embarque ou da transposição de fronteira da mercadoria. Após a
+averbação, é emitido o comprovante de exportação.
+
+Nesse sentido, em conformidade com o disposto no artigo 92, da IN RFB nº 1.702/17, somente
+serão considerados exportados, para fins fiscais e de controle cambial, os bens cujo embarque ou
+transposição de fronteira estiver averbado.
+
+
+3.2 - Despacho Fracionado
+
+Há certas mercadorias que, em razão de seu volume ou peso, não podem ser transportadas em
+um único veículo. Assim, as mercadorias serão divididas em diversos lotes para fins de conferência
+aduaneira e transposição da fronteira. O exportador vai, aos poucos, apresentando as mercadorias
+à autoridade aduaneira. Daí falarmos em despacho fracionado.
+
+Nesse caso, haverá uma única DU-E, mas que ampara todos os lotes em questão.
+
+
+3.3 - Situações Especiais de Despacho
+
+Despacho com embarque antecipado – o embarque antecipado de bens objeto de DU-E ainda
+não desembaraçada pode ser autorizado nas hipóteses excepcionais relacionadas no artigo 96, da
+IN RFB nº 1.702/17. Nesses casos, a DU-E deve ser instruída com a programação do embarque.
+
+Despacho posterior à saída dos bens para o exterior – o registro da DU-E pode ser efetuado após
+o embarque da mercadoria ou sua saída do território nacional nas hipóteses excepcionais
+relacionadas no artigo 102, da IN RFB nº 1.702/17.
+
+
+
+
+                                                                                               29
+                                                                                               47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             31
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+     Áulus Dias Warzeé Mattos
+     Aula 03
+
+
+
+
+Exportação de produtos que devam permanecer no País - o registro de DU-E para a exportação
+de bens que devam permanecer no País será admitido no despacho aduaneiro de produtos
+nacionais em caso de exportação ficta e a serem admitidos no regime aduaneiro especial de
+Depósito Alfandegado Certificado.
+
+
+3.4 - Cancelamento de Declaração de Exportação
+
+Segundo o art. 594, do R/A, a autoridade aduaneira poderá cancelar declaração de exportação10
+já registrada, de ofício ou a pedido do exportador. O cancelamento da declaração não exime o
+exportador da responsabilidade por eventuais infrações.
+
+De acordo com o art. 69 da IN SRF nº 1.702/2017, a Declaração Única de Exportação (DU-E)
+poderá ser cancelada: i) automaticamente; ii) pelo declarante ou exportador ou; iii) pela
+fiscalização aduaneira.
+
+O cancelamento automático ocorrerá quando decorrer o prazo de 15 dias do registro da DU-E
+sem que a correspondente apresentação de carga para despacho seja registrada.
+
+O cancelamento pela fiscalização aduaneira, por sua vez, será feito de ofício ou a pedido formal
+do exportador.
+
+Por fim, o cancelamento pelo declarante ou exportador acontecerá quando ocorrer a desistência
+da exportação ou quando for constatado erro insuscetível de correção no sistema ou não for
+possível o atendimento de exigência formulada no curso da conferência aduaneira.
+
+
+                                     4 - REVISÃO ADUANEIRA
+Nos termos do art. 638 do R/A, revisão aduaneira é o ato pelo qual é apurada, após o
+desembaraço aduaneiro, a regularidade do pagamento dos impostos e dos demais gravames
+devidos à Fazenda Nacional, da aplicação de benefício fiscal e da exatidão das informações
+prestadas pelo importador na declaração de importação, ou pelo exportador na declaração de
+exportação.
+
+Lembrem-se que o operador faz o recolhimento tributário com base nas informações que ele
+mesmo apresentou, cabendo à RFB homologar ou não o lançamento.
+
+
+
+
+10
+     O Regulamento Aduaneiro ainda não faz menção à DU-E, mas apenas, genericamente, à “declaração de exportação”.
+
+
+                                                                                                                     30
+                                                                                                                     47
+
+            Receita Federal (Analista Tributário) Legislação Aduaneira                                               32
+            www.estrategiaconcursos.com.br                                                                           50
+
+                                         https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+O prazo para homologação é de cinco anos contados da data da ocorrência do fato gerador.
+Findo esse prazo sem a manifestação da Receita Federal, considera-se que ocorreu homologação
+tácita. Durante esse prazo de 5 (cinco) anos, no entanto, o Fisco poderá analisar a regularidade da
+operação já desembaraçada e, se for o caso, formalizar lançamento complementar de tributos.
+
+É possível, também, que haja imposição de penalidades em decorrência da análise de regularidade
+da operação promovida em sede de revisão aduaneira. Nesse caso, o prazo previsto para a
+extinção do direito de impor penalidades é também de cinco anos, porém contados da data da
+infração (artigo 753, do R/A).
+
+
+
+
+(Questão Inédita) A revisão aduaneira deve estar concluída no prazo de cinco anos contados do
+desembaraço da DI.
+
+Comentários
+
+Nos termos do artigo 638, §2º, do R/A, a revisão aduaneira deve estar concluída no prazo de cinco
+anos contados da data do registro da DI.
+
+Gabarito: errada
+
+
+                                      LISTA DE QUESTÕES
+
+2 - Procedimentos Gerais de Importação
+
+1. (ATRFB - 2023) Acerca do despacho Aduaneiro de mercadoria importada, é correto afirmar
+   que
+
+   (A) toda mercadoria procedente do exterior, importada a título definitivo ou não, sujeita ou
+   não ao pagamento do Imposto de Importação, deverá ser submetida a despacho de
+   importação.
+
+   (B) não se consideram estrangeiras as mercadorias nacionais ou nacionalizadas, reimportadas,
+   ressalvadas as que forem enviadas em consignação e que não encontrem comprador.
+
+
+
+                                                                                                  31
+                                                                                                  47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                33
+        www.estrategiaconcursos.com.br                                                            50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  (C) o despacho Aduaneiro de Importação só pode ser realizado na chamada zona primária,
+  que compreende o interior dos portos, dos aeroportos e os pontos de fronteira
+  alfandegados.
+
+  (D) as informações prestadas pelo importador em sua declaração não surtem efeitos fiscais
+  nos casos de interrupção do despacho de importação e de abandono da mercadoria pelo
+  consignatário.
+
+  (E) entre outras exigências, a declaração de importação será instruída com a via original do
+  conhecimento de carga, não se admitindo como comprovante da importação qualquer outro
+  documento.
+
+2. (AFRFB – 2014) Segundo o Regulamento Aduaneiro, são dois os documentos que devem
+   obrigatoriamente instruir a declaração de importação: a via original do conhecimento de carga
+   ou documento de efeito equivalente e a via original da fatura comercial, assinada pelo
+   exportador. Não poderão ser exigidos outros documentos instrutivos em razão de que tal
+   exigência ofenderia o princípio da legalidade estrita.
+
+3. (Analista Tributário RFB – 2012) O despacho aduaneiro de importação poderá ser efetuado
+   apenas em zona primária.
+
+4. (Analista Tributário RFB – 2012) A conferência aduaneira na importação poderá ser realizada
+   na zona primária ou na zona secundária.
+
+5. (Analista Tributário RFB – 2012) A verificação de mercadoria, na conferência aduaneira ou em
+   outra ocasião, será realizada por Auditor-Fiscal da Receita Federal do Brasil ou, sob a sua
+   supervisão, por Analista-Tributário, na presença do viajante, do importador, do exportador ou
+   de seus representantes, podendo ser adotados critérios de seleção e amostragem, de
+   conformidade com o estabelecido pela Secretaria da Receita Federal do Brasil. Na hipótese
+   de mercadoria depositada em recinto alfandegado, a verificação deverá ser realizada na
+   presença do importador ou do exportador.
+
+6. (AFRFB-2010-Curso de Formação) Na importação por conta e ordem, é correto afirmar que o:
+
+  a) adquirente está dispensado da obrigatoriedade de habilitação no SISCOMEX quando
+  contrata os serviços do importador por conta e ordem para realizar operação de comércio
+  exterior.
+
+
+
+
+                                                                                                 32
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               34
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  b) adquirente deve ser pessoa jurídica que controla, direta ou indiretamente, o importador,
+  e, em caso de indícios de fraude, ambos estão sujeitos à aplicação de procedimentos
+  especiais de controle aduaneiro.
+
+  c) importador é pessoa interposta, ficando caracterizado como “laranja”, uma vez que não
+  dispõe de capacidade econômica para o pagamento da importação.
+
+  d) adquirente é contribuinte dos tributos incidentes sobre a importação, uma vez que o
+  importador não tem capacidade econômica para o pagamento da importação.
+
+  e) importador atua como mero mandatário do adquirente, sendo que este último pactua a
+  compra internacional e dispõe de capacidade econômica para o pagamento da importação.
+
+7. (AFRFB-2010-Curso de Formação) Sobre os documentos instrutivos da declaração de
+   importação, é correto afirmar que:
+
+  a) A fatura comercial pode substituir o conhecimento de carga, na via aérea, se contiver a
+  descrição detalhada da mercadoria.
+
+  b) O ingresso da mercadoria no território aduaneiro considera-se ocorrido na data de
+  emissão do conhecimento de carga.
+
+  c) Dispensa-se a apresentação do conhecimento de carga nos despachos de importação de
+  mercadorias transportadas por via terrestre no MERCOSUL.
+
+  d) O romaneio de carga é documento obrigatório na instrução de declaração de importação
+  ou de exportação de granéis.
+
+  e) Para instrução da declaração de mercadorias que gozem benefício em razão da origem,
+  pode ser solicitada a comprovação por certificado de origem ou outro meio julgado idôneo.
+
+8. (AFRFB-2010 - Curso de Formação) A empresa HAPPY END LTDA. comprou de um fornecedor
+   britânico 20 (vinte) urnas funerárias, no valor total de US$ 8,000.00 (oito mil dólares norte-
+   americanos), para utilização na prestação de seus serviços. A mercadoria foi enviada por via
+   marítima, por meio de transportadora internacional. Quando da chegada ao Brasil, a referida
+   carga deve ser submetida a despacho mediante:
+
+  a) Declaração de Remessas Expressas - Importação - DRE - I.
+
+  b) Declaração Simplificada de Importação - DSI.
+
+  c) Rito Sumário.
+
+                                                                                                33
+                                                                                                47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              35
+        www.estrategiaconcursos.com.br                                                          50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  d) Declaração de Importação - DI.
+
+  e) Nota de Tributação Simplificada - NTS.
+
+9. (AFRF-2002.1) Estão dispensadas de despacho aduaneiro de importação:
+
+  a) mercadorias que tendo sido exportadas em regime de consignação retornem ao País.
+
+  b) mercadorias que tendo sido exportadas são devolvidas ao País para efeitos de reparo ou
+  restauração.
+
+  c) mercadorias que tendo sido exportadas são devolvidas ao País por motivo de guerra ou
+  calamidade pública.
+
+  d) malas diplomáticas, sempre que contenham sinais exteriores visíveis que indiquem seu
+  caráter e que sejam entregues a pessoa formalmente credenciada por Missão Diplomática.
+
+  e) mercadorias que tendo sido exportadas são devolvidas ao País por fatores alheios à
+  vontade do exportador, devidamente comprovados por laudo pericial firmado por
+  autoridade competente.
+
+10. (AFRF-2002.1) Despacho aduaneiro de importação é o procedimento fiscal mediante o qual se
+    processa:
+
+  a) o desembaraço aduaneiro de mercadoria procedente do exterior e entrada no território
+  aduaneiro a título definitivo.
+
+  b) o desembaraço aduaneiro de mercadoria procedente do exterior, quando esta é destinada
+  ao consumo interno.
+
+  c) a conferência-documental aduaneira de mercadoria procedente do exterior e que tenha
+  entrado no território aduaneiro a título definitivo ou temporário.
+
+  d) a conferência-documental aduaneira de mercadoria procedente do exterior e que tenha
+  entrado no território aduaneiro a titulo temporário.
+
+  e) o desembaraço aduaneiro de mercadoria procedente do exterior, seja ela importada a
+  título definitivo ou temporário.
+
+11. (AFRF-2003) Assinale a opção correta.
+
+
+
+
+                                                                                              34
+                                                                                              47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            36
+        www.estrategiaconcursos.com.br                                                        50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  a) O importador pode verificar as mercadorias recebidas do exterior, previamente ao início
+  da conferência aduaneira, para dirimir dúvidas quanto à sua perfeita identificação, na
+  presença da autoridade aduaneira e do representante do depositário.
+
+  b) A verificação da mercadoria compreende o exame documental e a conferência física e será
+  realizada por Auditor-Fiscal ou por Técnico da Receita Federal, sob supervisão do AFRF.
+
+  c) A conferência aduaneira é feita de acordo com a seleção da declaração de importação
+  para os canais verde (desembaraço automático) ou vermelho (verificação pela fiscalização),
+  sendo feito exame de valor no canal cinza.
+
+  d) Havendo indícios de fraude na importação, o despacho será interrompido e a declaração
+  encaminhada ao setor incumbido das consultas e registros no RADAR (Ambiente de Registro
+  e Rastreamento da Atuação dos Intervenientes Aduaneiros).
+
+  e) A verificação prévia da mercadoria efetuada a pedido do importador, realizada sob
+  acompanhamento da fiscalização aduaneira, não dispensa a verificação física por ocasião do
+  despacho aduaneiro.
+
+12. (AFRF-2003) A fiscalização aduaneira recebe denúncia de que a bagagem de integrante de
+    missão diplomática contém 23 kg de cocaína. No caso, deve tomar uma das seguintes
+    providências:
+
+  a) reter os volumes e encaminhá-los à Polícia Federal, comunicando a ocorrência à
+  Administração Central, para informação ao Ministério das Relações Exteriores.
+
+  b) liberar os volumes, pois a Convenção de Viena sobre Relações Diplomáticas impede sua
+  verificação, comunicando os fatos à Administração Central para informação ao Ministério das
+  Relações Exteriores e à Polícia Federal.
+
+  c) verificar os volumes na presença do agente diplomático ou do seu representante
+  autorizado, apreendendo os bens de importação proibida e liberando os demais, salvo se o
+  viajante identificar-se como correio diplomático e o volume estiver identificado como mala
+  diplomática.
+
+  d) apreender os volumes, para aplicação da pena de perdimento aos bens de importação
+  proibida, requisitando a representante do Ministério das Relações Exteriores a separação dos
+  demais bens, para entrega ao diplomata.
+
+
+
+
+                                                                                                 35
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               37
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+     Áulus Dias Warzeé Mattos
+     Aula 03
+
+
+
+
+      e) verificar os volumes na presença de representante do Ministério das Relações Exteriores e
+      do agente diplomático ou do seu representante legal, lavrando Termo de Constatação Fiscal
+      (TCF), a ser encaminhado ao governo estrangeiro.
+
+
+3 - Procedimentos Gerais de Exportação
+
+13. (AFRF-2000) O ato final do despacho aduaneiro de importação (1) e do despacho aduaneiro
+    de exportação (2) consiste, respectivamente:
+
+      a) no recebimento da mercadoria pelo importador (1) e na entrega da carga a empresa
+      transportadora (2)
+
+      b) na autorização para entrega (1) e na autorização para embarque (2)
+
+      c) na conferência aduaneira (1) e na verificação física da mercadoria (2)
+
+      d) no desembaraço aduaneiro (1) e na averbação de embarque ou de transposição de
+      fronteira (2)
+
+      e) na autorização para saída dos armazéns alfandegados, recolhidas as tarifas de
+      armazenagem e capatazia (1) e na disponibilização da carga ao agente transportador (2)
+
+
+
+
+GABARITO
+
+
+
+
+           1. A                          4. C                              7. Letra E   10. Letra E
+           2. E                          5. E                              8. Letra D   11. Letra E
+           3. E                          6. Letra E                        9. Letra D   12. Letra C
+
+
+                                                                                                      36
+                                                                                                      47
+
+              Receita Federal (Analista Tributário) Legislação Aduaneira                              38
+              www.estrategiaconcursos.com.br                                                          50
+
+                                           https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+   13. Letra D
+
+
+
+
+                                 QUESTÕES COMENTADAS
+
+2 - Procedimentos Gerais de Importação
+
+1. (ATRFB - 2023) Acerca do despacho Aduaneiro de mercadoria importada, é correto afirmar
+   que
+
+  (A) toda mercadoria procedente do exterior, importada a título definitivo ou não, sujeita ou
+  não ao pagamento do Imposto de Importação, deverá ser submetida a despacho de
+  importação.
+
+  (B) não se consideram estrangeiras as mercadorias nacionais ou nacionalizadas, reimportadas,
+  ressalvadas as que forem enviadas em consignação e que não encontrem comprador.
+
+
+
+
+                                                                                            112
+                                                                                                 47
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               39
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+   (C) o despacho Aduaneiro de Importação só pode ser realizado na chamada zona primária,
+   que compreende o interior dos portos, dos aeroportos e os pontos de fronteira
+   alfandegados.
+
+   (D) as informações prestadas pelo importador em sua declaração não surtem efeitos fiscais
+   nos casos de interrupção do despacho de importação e de abandono da mercadoria pelo
+   consignatário.
+
+   (E) entre outras exigências, a declaração de importação será instruída com a via original do
+   conhecimento de carga, não se admitindo como comprovante da importação qualquer outro
+   documento.
+
+Comentários
+
+Letra A: certa. Esse é o teor do artigo 543, do Regulamento Aduaneiro, segundo o qual toda
+mercadoria procedente do exterior, importada a título definitivo ou não, sujeita ou não ao
+pagamento do imposto de importação, deverá ser submetida a despacho de importação, que será
+realizado com base em declaração apresentada à unidade aduaneira sob cujo controle estiver a
+mercadoria.
+
+Letra B: errada. Não são consideradas estrangeiras as mercadorias enviadas em consignação e
+não vendidas no prazo autorizado, conforme artigo 70, inciso I, do Regulamento Aduaneiro.
+
+Letra C: errada. O despacho aduaneiro de importação também pode ser realizado em recintos
+alfandegados de zona secundária, como nos portos secos, por exemplo, conforme indica o artigo
+11, caput, do Regulamento Aduaneiro.
+
+Letra D: errada. Nos termos do artigo 549, do Regulamento Aduaneiro, as declarações do
+importador subsistem para quaisquer efeitos fiscais, ainda que o despacho de importação seja
+interrompido e a mercadoria abandonada.
+
+Letra E: errada. De acordo com o artigo 553, inciso I, do Regulamento Aduaneiro, a declaração de
+importação deve ser instruída com a via original do conhecimento de carga ou documento de
+efeito equivalente.
+
+Gabarito: letra A.
+
+2. (AFRFB – 2014) Segundo o Regulamento Aduaneiro, são dois os documentos que devem
+   obrigatoriamente instruir a declaração de importação: a via original do conhecimento de
+
+                                                                                                  40
+                                                                                                  47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                                40
+        www.estrategiaconcursos.com.br                                                            50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  carga ou documento de efeito equivalente e a via original da fatura comercial, assinada pelo
+  exportador. Não poderão ser exigidos outros documentos instrutivos em razão de que tal
+  exigência ofenderia o princípio da legalidade estrita.
+
+Comentários
+
+De acordo com o Regulamento Aduaneiro, o conhecimento de carga e a fatura comercial devem,
+realmente, instruir a Declaração de Importação (DI). Porém, a par deles, é também documento
+instrutivo da DI o comprovante de pagamento de tributos, se exigível. Além disso, podem ser
+exigidos outros documentos instrutivos em decorrência de acordos internacionais ou por força de
+lei, de regulamento ou de outro ato normativo. Questão incorreta.
+
+Gabarito: errada
+
+3. (Analista Tributário RFB – 2012) O despacho aduaneiro de importação poderá ser efetuado
+   apenas em zona primária.
+
+Comentários
+
+O despacho aduaneiro de importação poderá ser efetuado em zona primária ou em zona
+secundária.
+
+Gabarito: errada
+
+4. (Analista Tributário RFB – 2012) A conferência aduaneira na importação poderá ser realizada
+   na zona primária ou na zona secundária.
+
+Comentários
+
+De fato, a conferência aduaneira poderá ser realizada na zona primária ou na zona secundária.
+
+Gabarito: certa
+
+5. (Analista Tributário RFB – 2012) A verificação de mercadoria, na conferência aduaneira ou em
+   outra ocasião, será realizada por Auditor-Fiscal da Receita Federal do Brasil ou, sob a sua
+   supervisão, por Analista-Tributário, na presença do viajante, do importador, do exportador ou
+   de seus representantes, podendo ser adotados critérios de seleção e amostragem, de
+   conformidade com o estabelecido pela Secretaria da Receita Federal do Brasil. Na hipótese
+
+
+
+                                                                                                 41
+                                                                                                 47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               41
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+   de mercadoria depositada em recinto alfandegado, a verificação deverá ser realizada na
+   presença do importador ou do exportador.
+
+Comentários
+
+Na hipótese de mercadoria depositada em recinto alfandegado, é dispensada a presença do
+importador na verificação, podendo esta ser realizada na presença do depositário ou de seus
+prepostos.
+
+Gabarito: errada
+
+6. (AFRFB-2010-Curso de Formação) Na importação por conta e ordem, é correto afirmar que o:
+
+  a) adquirente está dispensado da obrigatoriedade de habilitação no SISCOMEX quando
+  contrata os serviços do importador por conta e ordem para realizar operação de comércio
+  exterior.
+
+  b) adquirente deve ser pessoa jurídica que controla, direta ou indiretamente, o importador,
+  e, em caso de indícios de fraude, ambos estão sujeitos à aplicação de procedimentos
+  especiais de controle aduaneiro.
+
+  c) importador é pessoa interposta, ficando caracterizado como “laranja”, uma vez que não
+  dispõe de capacidade econômica para o pagamento da importação.
+
+  d) adquirente é contribuinte dos tributos incidentes sobre a importação, uma vez que o
+  importador não tem capacidade econômica para o pagamento da importação.
+
+  e) importador atua como mero mandatário do adquirente, sendo que este último pactua a
+  compra internacional e dispõe de capacidade econômica para o pagamento da importação.
+
+Comentários
+
+Letra A: errada. O adquirente também precisa ser habilitado no SISCOMEX.
+
+Letra B: errada. Não é necessário que o adquirente controle o importador.
+
+Letra C: errada. Dizer que o importador seria uma pessoa interposta, um “laranja”, pressupõe a
+irregularidade da operação. A importação por conta e ordem é perfeitamente legal.
+
+
+
+                                                                                                42
+                                                                                                47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                              42
+        www.estrategiaconcursos.com.br                                                          50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Letra D: errada. O adquirente é responsável solidário pelo pagamento do Imposto de Importação
+(não contribuinte), nos termos do artigo 106, inciso III, do R/A.
+
+Letra E: correta. De fato, na importação por conta e ordem, o importador é apenas mandatário
+do adquirente. O adquirente é quem pactua a compra internacional e possui capacidade
+econômica para fazer o pagamento da importação.
+
+Gabarito: letra E
+
+7. (AFRFB-2010-Curso de Formação) Sobre os documentos instrutivos da declaração de
+   importação, é correto afirmar que:
+
+  a) A fatura comercial pode substituir o conhecimento de carga, na via aérea, se contiver a
+  descrição detalhada da mercadoria.
+
+  b) O ingresso da mercadoria no território aduaneiro considera-se ocorrido na data de
+  emissão do conhecimento de carga.
+
+  c) Dispensa-se a apresentação do conhecimento de carga nos despachos de importação de
+  mercadorias transportadas por via terrestre no MERCOSUL.
+
+  d) O romaneio de carga é documento obrigatório na instrução de declaração de importação
+  ou de exportação de granéis.
+
+  e) Para instrução da declaração de mercadorias que gozem benefício em razão da origem,
+  pode ser solicitada a comprovação por certificado de origem ou outro meio julgado idôneo.
+
+Comentários
+
+Letra A: errada. O conhecimento de carga aéreo é que poderá substituir a fatura comercial, desde
+que nele constem as indicações de quantidade, espécie e valor das mercadorias que lhe
+correspondam.
+
+Letra B: errada. O ingresso da mercadoria no território aduaneiro considera-se ocorrido na data
+de registro da D.I.
+
+Letra C: errada. Não há dispensa de apresentação do conhecimento de carga nos despachos de
+importação de mercadorias transportadas por via terrestre no MERCOSUL.
+
+
+
+                                                                                               43
+                                                                                               47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             43
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+Letra D: errada. O romaneio de carga não é aplicável na importação e exportação de granéis, uma
+vez que esse tipo de carga não é composta por vários volumes.
+
+Letra E: correta. Se houver tratamento preferencial em razão da origem, pode ser exigido, para
+instruir a declaração de importação, o certificado de origem, ou outro documento considerado
+idôneo.
+
+Gabarito: letra E
+
+8. (AFRFB-2010 - Curso de Formação) A empresa HAPPY END LTDA. comprou de um fornecedor
+   britânico 20 (vinte) urnas funerárias, no valor total de US$ 8,000.00 (oito mil dólares norte-
+   americanos), para utilização na prestação de seus serviços. A mercadoria foi enviada por via
+   marítima, por meio de transportadora internacional. Quando da chegada ao Brasil, a referida
+   carga deve ser submetida a despacho mediante:
+
+  a) Declaração de Remessas Expressas - Importação - DRE - I.
+
+  b) Declaração Simplificada de Importação - DSI.
+
+  c) Rito Sumário.
+
+  d) Declaração de Importação - DI.
+
+  e) Nota de Tributação Simplificada - NTS.
+
+Comentários
+
+Pegadinha! Muita gente marcou que urna funerária se submete a despacho de importação por rito
+sumário! 😊 No entanto, perceba, caro aluno, que as “urnas funerárias” mencionadas pela questão
+não contêm restos mortais, tratando-se de simples mercadorias. Portanto, elas seguem os trâmites
+comuns de importação. O despacho será efetuado com base em D.I. A resposta é a letra D.
+
+Gabarito: letra D
+
+9. (AFRF-2002.1) Estão dispensadas de despacho aduaneiro de importação:
+
+  a) mercadorias que tendo sido exportadas em regime de consignação retornem ao País.
+
+
+
+
+                                                                                              44
+                                                                                              47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                            44
+        www.estrategiaconcursos.com.br                                                        50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  b) mercadorias que tendo sido exportadas são devolvidas ao País para efeitos de reparo ou
+  restauração.
+
+  c) mercadorias que tendo sido exportadas são devolvidas ao País por motivo de guerra ou
+  calamidade pública.
+
+  d) malas diplomáticas, sempre que contenham sinais exteriores visíveis que indiquem seu
+  caráter e que sejam entregues a pessoa formalmente credenciada por Missão Diplomática.
+
+  e) mercadorias que tendo sido exportadas são devolvidas ao País por fatores alheios à
+  vontade do exportador, devidamente comprovados por laudo pericial firmado por
+  autoridade competente.
+
+Comentários                                            ==219a34==
+
+
+
+
+Letra A: errada. Mercadorias exportadas em consignação, caso retornem ao Brasil por não terem
+sido vendidas no prazo, são consideradas não-estrangeiras para fins de incidência do Imposto de
+Importação. Entretanto, elas se submetem a despacho de importação.
+
+Letra B: errada. Mercadorias que, após exportadas, retornem ao País por motivo de defeito
+técnico, para reparo ou substituição, são consideradas não-estrangeiras para fins de incidência do
+Imposto de Importação. Entretanto, elas se submetem ao despacho de importação.
+
+Letra C: errada. Mercadorias que tenham sido exportadas e que retornem ao País por motivo de
+guerra ou calamidade são consideradas não-estrangeiras para fins de incidência do Imposto de
+Importação. Entretanto, elas se submetem a despacho de importação.
+
+Letra D: correta. As malas diplomáticas e consulares são dispensadas do despacho de importação.
+
+Letra E: errada. Mercadorias que tenham sido exportadas e que retornem ao País por fatores
+alheios à vontade do exportador são consideradas não-estrangeiras para fins de incidência do
+Imposto de Importação. Entretanto, elas se submetem a despacho de importação.
+
+Gabarito: letra D
+
+10. (AFRF-2002.1) Despacho aduaneiro de importação é o procedimento fiscal mediante o qual se
+    processa:
+
+
+
+
+                                                                                               45
+                                                                                               47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             45
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  a) o desembaraço aduaneiro de mercadoria procedente do exterior e entrada no território
+  aduaneiro a título definitivo.
+
+  b) o desembaraço aduaneiro de mercadoria procedente do exterior, quando esta é destinada
+  ao consumo interno.
+
+  c) a conferência-documental aduaneira de mercadoria procedente do exterior e que tenha
+  entrado no território aduaneiro a título definitivo ou temporário.
+
+  d) a conferência-documental aduaneira de mercadoria procedente do exterior e que tenha
+  entrado no território aduaneiro a titulo temporário.
+
+  e) o desembaraço aduaneiro de mercadoria procedente do exterior, seja ela importada a
+  título definitivo ou temporário.
+
+Comentários
+
+O despacho aduaneiro tem como objetivo o desembaraço aduaneiro de mercadoria procedente
+do exterior. Ele se aplica tanto às mercadorias importadas a título definitivo quanto àquelas que
+entram no País em caráter temporário. Logo, a resposta é a letra E.
+
+Gabarito: letra E
+
+11. (AFRF-2003) Assinale a opção correta.
+
+  a) O importador pode verificar as mercadorias recebidas do exterior, previamente ao início
+  da conferência aduaneira, para dirimir dúvidas quanto à sua perfeita identificação, na
+  presença da autoridade aduaneira e do representante do depositário.
+
+  b) A verificação da mercadoria compreende o exame documental e a conferência física e será
+  realizada por Auditor-Fiscal ou por Técnico da Receita Federal, sob supervisão do AFRF.
+
+  c) A conferência aduaneira é feita de acordo com a seleção da declaração de importação
+  para os canais verde (desembaraço automático) ou vermelho (verificação pela fiscalização),
+  sendo feito exame de valor no canal cinza.
+
+  d) Havendo indícios de fraude na importação, o despacho será interrompido e a declaração
+  encaminhada ao setor incumbido das consultas e registros no RADAR (Ambiente de Registro
+  e Rastreamento da Atuação dos Intervenientes Aduaneiros).
+
+
+                                                                                               46
+                                                                                               47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                             46
+        www.estrategiaconcursos.com.br                                                         50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  e) A verificação prévia da mercadoria efetuada a pedido do importador, realizada sob
+  acompanhamento da fiscalização aduaneira, não dispensa a verificação física por ocasião do
+  despacho aduaneiro.
+
+Comentários
+
+Letra A: errada. De fato, o importador poderá verificar a mercadoria recebida do exterior
+previamente à conferência aduaneira. No entanto, o acompanhamento pela autoridade aduaneira
+não é obrigatório. O acompanhamento poderá ser feito por qualquer servidor. Além disso, a
+legislação não traz qualquer previsão acerca da necessidade de que o representante do
+depositário acompanhe essa verificação.
+
+Letra B: errada. Na conferência aduaneira, poderá haver exame documental, conferência física e
+apuração de elementos indiciários de fraude.
+
+Letra C: errada. Os canais para os quais as Declarações de Importação pode ser direcionadas são:
+canal verde (desembaraço automático), canal amarelo (exame documental), canal vermelho
+(exame documental e verificação física) e canal cinza (apuração de elementos indiciários de fraude).
+
+Letra D: errada. Havendo indícios de fraude, a DI será encaminhada para o canal cinza. O RADAR
+é um sistema da RFB que disponibiliza, em tempo real, informações de natureza aduaneira,
+contábil e fiscal que permitem à fiscalização aduaneira obter uma visão geral dos agentes que
+operam no comércio exterior.
+
+Letra E: correta. De fato, é permitido que o importador verifique a mercadoria anteriormente ao
+despacho aduaneiro. Todavia, isso não dispensa a ulterior verificação pela Receita Federal, por
+ocasião do despacho aduaneiro.
+
+Gabarito: letra E
+
+12. (AFRF-2003) A fiscalização aduaneira recebe denúncia de que a bagagem de integrante de
+    missão diplomática contém 23 kg de cocaína. No caso, deve tomar uma das seguintes
+    providências:
+
+  a) reter os volumes e encaminhá-los à Polícia Federal, comunicando a ocorrência à
+  Administração Central, para informação ao Ministério das Relações Exteriores.
+
+
+
+
+                                                                                                 47
+                                                                                                 47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               47
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  b) liberar os volumes, pois a Convenção de Viena sobre Relações Diplomáticas impede sua
+  verificação, comunicando os fatos à Administração Central para informação ao Ministério das
+  Relações Exteriores e à Polícia Federal.
+
+  c) verificar os volumes na presença do agente diplomático ou do seu representante
+  autorizado, apreendendo os bens de importação proibida e liberando os demais, salvo se o
+  viajante identificar-se como correio diplomático e o volume estiver identificado como mala
+  diplomática.
+
+  d) apreender os volumes, para aplicação da pena de perdimento aos bens de importação
+  proibida, requisitando a representante do Ministério das Relações Exteriores a separação dos
+  demais bens, para entrega ao diplomata.
+
+  e) verificar os volumes na presença de representante do Ministério das Relações Exteriores e
+  do agente diplomático ou do seu representante legal, lavrando Termo de Constatação Fiscal
+  (TCF), a ser encaminhado ao governo estrangeiro.
+
+Comentários
+
+Olha só que questão maldosa! Perceba, caro amigo, que ela não está fazendo referência à “mala
+diplomática”, mas sim à bagagem de integrante de missão diplomática. A mala diplomática é
+inviolável, mas a bagagem de integrante de missão diplomática se submete a controle aduaneiro.
+
+Assim, verificamos que a resposta correta é a letra C. A fiscalização aduaneira poderá verificar a
+bagagem de integrante de missão diplomática, a não ser que o viajante esteja identificado como
+correio diplomático e o volume esteja identificado como mala diplomática. Estes possuem
+inviolabilidade absoluta, não podendo ser objeto de controle aduaneiro.
+
+Gabarito: letra C
+
+
+3 - Procedimentos Gerais de Exportação
+
+13. (AFRF-2000) O ato final do despacho aduaneiro de importação (1) e do despacho aduaneiro
+    de exportação (2) consiste, respectivamente:
+
+  a) no recebimento da mercadoria pelo importador (1) e na entrega da carga a empresa
+  transportadora (2)
+
+
+
+                                                                                                 48
+                                                                                                 47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                               48
+        www.estrategiaconcursos.com.br                                                           50
+
+                                     https://t.me/KakashiAssinaturasBot
+  Áulus Dias Warzeé Mattos
+  Aula 03
+
+
+
+
+  b) na autorização para entrega (1) e na autorização para embarque (2)
+
+  c) na conferência aduaneira (1) e na verificação física da mercadoria (2)
+
+  d) no desembaraço aduaneiro (1) e na averbação de embarque ou de transposição de
+  fronteira (2)
+
+  e) na autorização para saída dos armazéns alfandegados, recolhidas as tarifas de
+  armazenagem e capatazia (1) e na disponibilização da carga ao agente transportador (2)
+
+Comentários
+
+Questão interessante! 😊 O ato final do despacho de importação é o desembaraço aduaneiro. Por
+sua vez, o ato final do despacho de exportação é a averbação do embarque ou de transposição
+de fronteira. O desembaraço aduaneiro de exportação representa apenas a autorização para o
+embarque ou para a transposição da fronteira. A resposta é a letra D.
+
+Gabarito: letra D
+
+
+
+
+                                                                                           49
+                                                                                           47
+
+
+
+
+        Receita Federal (Analista Tributário) Legislação Aduaneira                         49
+        www.estrategiaconcursos.com.br                                                     50
+
+                                     https://t.me/KakashiAssinaturasBot
+

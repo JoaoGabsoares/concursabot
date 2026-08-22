@@ -1,0 +1,122 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 16_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '16'
+titulo_aula: SISTEMA CONSTITUCIONAL DE CRISES
+artigos_citados:
+- art. 136
+---
+
+# SISTEMA CONSTITUCIONAL DE CRISES
+
+SISTEMA CONSTITUCIONAL DE CRISES
+1) O sistema constitucional de crises, conforme regulado pela CF/88, prevê a existência de 2 (dois) regimes
+jurídicos distintos: i) o estado de defesa e; ii) o estado de sítio. O estado de sítio e o estado de defesa
+deverão obedecer aos princípios da proporcionalidade, temporariedade e necessidade.
+
+2) Estado de Defesa: É decretado pelo Presidente da República, após ouvidos o Conselho da República e o
+Conselho de Defesa Nacional.
+
+2.1) Pressupostos:
+
+O estado de defesa visa preservar ou prontamente restabelecer, em locais restritos e determinados, a
+ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por
+calamidades de grandes proporções na natureza (art. 136, caput).
+
+2.2) Decretação do Estado de defesa:
+
+Decretado o estado de defesa, o Presidente submeterá o ato dentro de 24 horas ao Congresso Nacional,
+que decidirá por maioria absoluta. O Congresso Nacional apreciará o decreto dentro de 10 (dez) dias
+contados do seu recebimento. Se o Congresso Nacional estiver em recesso, será convocado,
+extraordinariamente, no prazo de 5 (cinco) dias. Caso o Congresso Nacional rejeite o decreto, cessará
+imediatamente o estado de defesa.
+
+       (*) Observe que a manifestação do Congresso Nacional é posterior à decretação do estado de
+       defesa. Não há que se falar, portanto, que o Congresso autoriza o estado de defesa. Ao contrário, o
+       Congresso Nacional aprova o estado de defesa.
+
+2.3) Formalidades do decreto:
+
+a) O decreto que instituir o estado de defesa determinará o seu tempo de duração, que não será superior a
+30 dias, podendo ser prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua
+decretação.
+
+b) O decreto que irá especificar as áreas a serem abrangidas pelo estado de defesa, que se limita a locais
+restritos e determinados.
+
+c) O decreto irá indicar as medidas coercitivas a vigorarem, dentre as seguintes:
+
+       - restrições aos direitos de: i) reunião, ainda que exercida no seio das associações; ii) sigilo de
+       correspondência e; iii) sigilo de comunicação telegráfica e telefônica;
+
+       - ocupação e uso temporário de bens e serviços públicos, na hipótese de calamidade pública,
+       respondendo a União pelos danos e custos decorrentes.
+
+2.4) Na vigência do estado de defesa, a prisão por crime contra o Estado pode ser determinada pelo
+executor da medida. A CF/88 veda a incomunicabilidade do preso na vigência do estado de defesa.
+
+                                  
+
+
+---
+
+(*) Na vigência do estado de defesa, a prisão ou detenção de qualquer pessoa não poderá ser superior a
+dez dias, salvo quando autorizada pelo Poder Judiciário.
+
+3) Estado de Sítio: É decretado pelo Presidente da República, após autorização do Congresso Nacional. O
+Presidente também deverá ouvir previamente o Conselho da República e o Conselho de Defesa Nacional.
+
+3.1) Pressupostos:
+
+O estado de sítio é medida mais gravosa do que o estado de defesa, sendo decretado nos seguintes casos:
+
+       a) comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de
+       medida tomada durante o estado de defesa (“estado de sítio simples”).
+
+       b) declaração de estado de guerra ou resposta a agressão armada estrangeira (“estado de sítio
+       qualificado”).
+
+3.2) Decretação do estado de sítio:
+
+O Presidente da República, ao solicitar autorização para decretar o estado de sítio ou sua prorrogação,
+relatará os motivos determinantes do pedido, devendo o Congresso Nacional decidir por maioria absoluta.
+
+Caso seja solicitada autorização para decretar o estado de sítio durante o recesso parlamentar, o
+Presidente do Senado Federal, de imediato, convocará extraordinariamente o Congresso Nacional para se
+reunir dentro de 5 (cinco) dias, a fim de apreciar o ato.
+
+       (*) Após publicado o decreto do estado de sítio, o Presidente da República designará o executor das
+       medidas específicas e as áreas abrangidas.
+
+3.3) Formalidades do decreto:
+
+a) O decreto que instituir o estado de sítio deverá indicar o seu tempo de duração.
+
+       (*) O “estado de sítio simples” não poderá ser decretado por mais de 30 dias, nem prorrogado, de
+       cada vez, por prazo superior a 30 dias. São admitidas sucessivas prorrogações, mas cada uma delas
+       deverá ter no máximo 30 dias.
+
+       (*) O “estado de sítio qualificado”, por sua vez, poderá ser decretado por todo o tempo que
+       perdurar a guerra ou a agressão armada estrangeira.
+
+b) O decreto que instituir o estado de sítio irá estabelecer as normas necessárias à sua execução.
+
+c) O decreto que instituir o estado de sítio irá estabelecer quais garantias constitucionais que ficarão
+suspensas.
+
+       (*) No estado de sítio, um número bem mais extenso de medidas coercitivas poderão ser adotadas.
+       Como exemplo, citamos as seguintes: obrigação de permanência em localidade determinada, busca
+       e apreensão domiciliar e requisição de bens.
+
+                                  
+
+
+---

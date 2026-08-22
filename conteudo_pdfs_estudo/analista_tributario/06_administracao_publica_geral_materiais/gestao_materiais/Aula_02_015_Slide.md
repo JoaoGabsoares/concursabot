@@ -1,0 +1,591 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: CLASSIFICAÇÃO DE MATERIAIS
+artigos_citados:
+- Art. 3º
+---
+
+# CLASSIFICAÇÃO DE MATERIAIS
+
+---
+
+---
+
+CLASSIFICAÇÃO DE MATERIAIS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - VII
+
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (CEBRASPE/ICMBIO/2022) Acerca da administração de material e patrimônio, julgue o
+     próximo item. Material permanente antieconômico é o que apresenta manutenção onerosa
+     ou rendimento precário, em virtude de uso prolongado, desgaste prematuro ou
+     obsolescência.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Decreto 9.373/2018
+       Bens Inservíveis
+
+                 Art. 3º Para que seja considerado inservível, o bem será classificado como:
+
+                 I - ocioso - bem móvel que se encontra em perfeitas condições de uso, mas não é aproveitado;
+
+                 II - recuperável - bem móvel que não se encontra em condições de uso e cujo custo da
+                 recuperação seja de até cinquenta por cento do seu valor de mercado ou cuja análise de custo
+                 e benefício demonstre ser justificável a sua recuperação;
+
+                 III - antieconômico - bem móvel cuja manutenção seja onerosa ou cujo rendimento seja
+                 precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo; ou
+
+                 IV - irrecuperável - bem móvel que não pode ser utilizado para o fim a que se destina devido à
+                 perda de suas características ou em razão de ser o seu custo de recuperação mais de cinquenta
+                 por cento do seu valor de mercado ou de a análise do seu custo e benefício demonstrar ser
+                 injustificável a sua recuperação.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     01. (CEBRASPE/ICMBIO/2022) Acerca da administração de material e patrimônio, julgue o
+     próximo item. Material permanente antieconômico é o que apresenta manutenção onerosa
+     ou rendimento precário, em virtude de uso prolongado, desgaste prematuro ou
+     obsolescência.
+     C) Certo
+     E) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CEBRASPE/ICMBIO/2022) Acerca da administração de material e patrimônio, julgue o
+     próximo item. Na classificação de materiais, o atributo da flexibilidade refere-se à
+     necessidade de tal classificação ser direta e simples.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atributos para a Classificação
+       Resumo Geral!
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Atributos para a Classificação
+       Flexibilidade
+
+       ❑ A flexibilidade deve proporcionar uma visão global do estoque e, especialmente, o inter-
+         relacionamento entre as diversas classificações.
+
+       ❑ Dessa forma a classificação deve ser sempre maleável e adaptável, podendo se adequar à
+         realidade da organização e facilitando a comunicação entre os diferentes tipos adotados.
+
+       ❑ O importante é que o sistema de classificação se adeque as necessidades da organização e não o
+         contrário. Caso a organização decida alterar os itens com os quais costumeiramente trabalha, a
+         classificação deve se adaptar à mudança e não ser um empecilho a ela, por exemplo, fazendo
+         com que a mudança não seja adotada pois geraria problemas no sistema de classificação.
+
+       ❑ Somente dessa forma o sistema de classificação estará sempre atualizado, facilitando a
+         comunicação e a integração entre os diferentes tipos de classificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (CEBRASPE/ICMBIO/2022) Acerca da administração de material e patrimônio, julgue o
+     próximo item. Na classificação de materiais, o atributo da flexibilidade refere-se à
+     necessidade de tal classificação ser direta e simples.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Na classificação de materiais quanto ao estado de apresentação, consideram-se
+     como inservíveis os materiais que não possuem condições de uso, visto que sua
+     recuperação é inviável.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Decreto 9.373/2018
+       Bens Inservíveis
+
+                 Art. 3º Para que seja considerado inservível, o bem será classificado como:
+
+                 I - ocioso - bem móvel que se encontra em perfeitas condições de uso, mas não é aproveitado;
+
+                 II - recuperável - bem móvel que não se encontra em condições de uso e cujo custo da
+                 recuperação seja de até cinquenta por cento do seu valor de mercado ou cuja análise de custo
+                 e benefício demonstre ser justificável a sua recuperação;
+
+                 III - antieconômico - bem móvel cuja manutenção seja onerosa ou cujo rendimento seja
+                 precário, em virtude de uso prolongado, desgaste prematuro ou obsoletismo; ou
+
+                 IV - irrecuperável - bem móvel que não pode ser utilizado para o fim a que se destina devido à
+                 perda de suas características ou em razão de ser o seu custo de recuperação mais de cinquenta
+                 por cento do seu valor de mercado ou de a análise do seu custo e benefício demonstrar ser
+                 injustificável a sua recuperação.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Na classificação de materiais quanto ao estado de apresentação, consideram-se
+     como inservíveis os materiais que não possuem condições de uso, visto que sua
+     recuperação é inviável.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. No que se refere à classificação de materiais quanto à importância operacional
+     (XYZ), a classificação X abrange materiais de elevada criticidade para o processo
+     produtivo; já os materiais cuja falta não implica a interrupção da produção na organização
+     compõem a classe Z.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Importância Operacional ou XYZ
+       ❑ Note que aqui não estamos mais falando de valores mas sim da importância do material para o
+         processo produtivo da empresa, ou seja, sem o material crítico, a produção ou a operação da
+         empresa, para!
+       ❑ São geralmente materiais vitais para equipamentos produtivos, que servem de reposição para um
+         equipamento ou grupo de equipamentos e que devem permanecer estocados até a sua
+         utilização, compensando o prejuízo potencialmente gerado pela sua falta.
+       ❑ Veja abaixo as classificações adotadas quanto a esse quesito:
+       ✓ Classe X - Materiais de aplicação não importante. Criticidade baixa. Falta não acarreta paralisação
+         do processo. Podem ser facilmente adquiridos ou substituídos por materiais similares da própria
+         organização.
+       ✓ Classe Y - Criticidade média. São importantes para o processo porém podem ser substituídos por
+         outros com relativa facilidade, mesmo não possuindo similares na empresa.
+       ✓ Classe Z - Criticidade máxima. Imprescindíveis ao processo e não podem ser substituídos por
+         similares. Sua falta provoca a paralisação da produção e/ou fases operativas da organização.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. No que se refere à classificação de materiais quanto à importância operacional
+     (XYZ), a classificação X abrange materiais de elevada criticidade para o processo
+     produtivo; já os materiais cuja falta não implica a interrupção da produção na organização
+     compõem a classe Z.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Os sistemas de classificação ABC e XYZ são importantes métodos para a adequada
+     gestão de estoques, cabendo ao administrador, considerando-se a especificidade dos
+     materiais a serem geridos, a análise e a seleção do sistema de classificação mais indicado,
+     uma vez que ambos são mutuamente excludentes.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Valor de Consumo ou Método ABC
+
+       ❑ Esse princípio da concentração da importância em setores que acolhem poucos itens (ou cidadãos
+         ou qualquer outra unidade a ser considerada) forma a base do Princípio de Pareto e foi adaptado
+         ao processo de controle de estoques, batizado como Curva ABC.
+
+       ❑ Note na figura abaixo que, de acordo com o Princípio de Pareto, 80% do valor dos estoques e de
+         todo o esforço empregado ao longo da cadeia (eixo Y) está concentrado em apenas cerca de 20%
+         dos itens (eixo X), formando a área A no gráfico.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (QUADRIX/CRP-10/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Os sistemas de classificação ABC e XYZ são importantes métodos para a adequada
+     gestão de estoques, cabendo ao administrador, considerando-se a especificidade dos
+     materiais a serem geridos, a análise e a seleção do sistema de classificação mais indicado,
+     uma vez que ambos são mutuamente excludentes.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (FGV/SEMSA-Manaus/2022) Uma das principais atribuições do gestor de materiais é a
+     classificação. Assinale a opção que apresenta algumas etapas da classificação.
+     A) Simplificação, normalização e desnivelamento.
+     B) Normatização, catalogação e generalização.
+     C) Especificação, anotação e descrição.
+     D) Catalogação, especificação e codificação.
+     E) Generalização, simplificação e discriminação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Etapas da Classificação
+       Resumo Geral!
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     06. (FGV/SEMSA-Manaus/2022) Uma das principais atribuições do gestor de materiais é a
+     classificação. Assinale a opção que apresenta algumas etapas da classificação.
+     A) Simplificação, normalização e desnivelamento.
+     B) Normatização, catalogação e generalização.
+     C) Especificação, anotação e descrição.
+     D) Catalogação, especificação e codificação.
+     E) Generalização, simplificação e discriminação.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (QUADRIX/CRF-GO/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Ao longo do processo produtivo, os materiais sofrem modificações e, de acordo
+     com seu estágio de processamento, passam a integrar diferentes classes de materiais,
+     entre as quais está a dos materiais acabados, que correspondem às peças isoladas, já
+     prontas, que serão componentes do produto acabado.
+     C) Certo
+     E) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Classificação
+       Aplicação em Resumo
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (QUADRIX/CRF-GO/2022) Acerca dos conceitos fundamentais de administração, julgue
+     o item. Ao longo do processo produtivo, os materiais sofrem modificações e, de acordo
+     com seu estágio de processamento, passam a integrar diferentes classes de materiais,
+     entre as quais está a dos materiais acabados, que correspondem às peças isoladas, já
+     prontas, que serão componentes do produto acabado.
+     C) Certo
+     E) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (INSTITUTO MAIS/Pró Sangue/2022) A classificação de materiais no almoxarifado deve
+     obedecer a determinados atributos. São eles:
+     A) Abrangência, Flexibilidade e Preço.
+     B) Qualidade, Preço e Abrangência.
+     C) Abrangência, Flexibilidade e Praticidade.
+     D) Catalogação, Simplificação e Identificação.
+     E) Normalização, Padronização e Codificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atributos para a Classificação
+       Resumo Geral!
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Questão Comentada
+     08. (INSTITUTO MAIS/Pró Sangue/2022) A classificação de materiais no almoxarifado deve
+     obedecer a determinados atributos. São eles:
+     A) Abrangência, Flexibilidade e Preço.
+     B) Qualidade, Preço e Abrangência.
+     C) Abrangência, Flexibilidade e Praticidade.
+     D) Catalogação, Simplificação e Identificação.
+     E) Normalização, Padronização e Codificação.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (INSTITUTO MAIS/Pró Sangue/2022) A representação de todas as informações do
+     produto por meio de número e/ou letras a fim de se obter um registro que informe sobre
+     seu histórico, por exemplo, data de aquisição, preço inicial, localização, vida útil esperada,
+     previsão de sua substituição, é denominada:
+     A) codificação.
+     B) especificação.
+     C) normalização.
+     D) catalogação.
+     E) simplificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Etapas da Classificação
+       Resumo Geral!
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     09. (INSTITUTO MAIS/Pró Sangue/2022) A representação de todas as informações do
+     produto por meio de número e/ou letras a fim de se obter um registro que informe sobre
+     seu histórico, por exemplo, data de aquisição, preço inicial, localização, vida útil esperada,
+     previsão de sua substituição, é denominada:
+     A) codificação.
+     B) especificação.
+     C) normalização.
+     D) catalogação.
+     E) simplificação.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (DIRENS Aeronáutica/Pró Sangue/2022) Como se dividem os bens materiais?
+     A) Materiais e imateriais.
+     B) Flexíveis e inflexíveis.
+     C) Visíveis e invisíveis.
+     D) Imóveis e móveis.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Classificação dos Bens Patrimoniais
+       Móveis x Imóveis
+
+       ❑ Temos ainda a classificação quanto a mobilidade e aí os bens podem ser
+         considerados móveis ou imóveis:
+
+
+                                             MÓVEIS                                             IMÓVEIS
+
+                     Podem ser deslocados sem alteração de sua                   Não podem ser deslocados ou, ao serem,
+                    forma física. Exs: móveis, utensílios, máquinas                perdem sua forma física original. Exs:
+                                       e veículos.                                  prédios, pontes, terrenos e jazidas.
+
+Administração de Patrimônio para Concursos
+Prof. Ricardo Campanario
+                                                      
+
+
+---
+
+       Questão Comentada
+     10. (DIRENS Aeronáutica/Pró Sangue/2022) Como se dividem os bens materiais?
+     A) Materiais e imateriais.
+     B) Flexíveis e inflexíveis.
+     C) Visíveis e invisíveis.
+     D) Imóveis e móveis.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

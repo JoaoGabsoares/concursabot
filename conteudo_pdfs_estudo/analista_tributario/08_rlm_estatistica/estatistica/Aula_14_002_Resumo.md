@@ -1,0 +1,340 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 14_002_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '14'
+titulo_aula: SÉRIES TEMPORAIS
+---
+
+# SÉRIES TEMPORAIS
+
+RESUMO DA AULA
+
+SÉRIES TEMPORAIS
+
+                                                  Uma série temporal é um
+                                                  conjunto de observações
+                                                    ordenadas no tempo
+
+
+  Um processo estocástico é um                 A série temporal é contínua se as
+ processo controlado pelas leis da             observações      são     obtidas     A série temporal é discreta se o
+ probabilidade, que pode ser visto             continuamente        em      um         intervalo de observações
+  como um conjunto de todas as                 determinado intervalo de tempo       pertence a um conjunto discreto
+ possíveis trajetórias que se pode             [0,T]
+     observar de uma variável
+
+
+                                                  Uma série temporal é dita
+    O objetivo da análise de séries              estacionária quando ela se           As séries costumam ser não-
+  temporais é descobrir os padrões             desenvolve aleatoriamente em         estacionárias, isto é, apresentar
+ de comportamento (crescimento e               torno de uma média constante,       uma tendência de crescimento ou
+ mudança) nas variáveis estudadas                 exibindo comportamento           decrescimento ao longo do tempo
+                                                estatístico similar ao longo do
+                                                             tempo.
+
+2. MODELO CLÁSSICO
+
+                         tendência               A tendência descreve um movimento suave (a longo
+                         secular (T)             prazo) dos dados, para cima ou para baixo.
+
+
+                                                  As variações sazonais referem-se às mudanças que
+                         variação                 ocorrem devido às forças rítmicas que atuam de forma
+                        sazonal (S)               regular e periódica. Essas forças geralmente seguem um
+                                                  padrão semelhante ano após ano.
+   Séries
+ temporais
+                                                   As variações cíclicas são oscilações de longo prazo em
+                      variação cíclica
+                                                   torno de uma linha de tendência. Esses ciclos podem ou
+                            (C)
+                                                   não ser periódicos
+
+
+                          variação
+                                                    As variações aleatórias são flutuações resultantes de
+                        irregular ou
+                                                    forças imprevistas e imprevisíveis.
+                        aleatória (I)
+
+                                        
+
+
+---
+
+Modelos Aditivo e Multiplicativo
+
+        Item                                 Definição                             Símbolos e Fórmulas
+
+                          considera uma série temporal como o
+                           resultado da soma das componentes
+                               individuais, isto é, a soma da
+    O modelo                componente de tendência (𝑻𝒕 ), da                      𝒁𝒕 = 𝑻𝒕 + 𝑪𝒕 + 𝑺𝒕 + 𝑰𝒕
+     aditivo             componente cíclica (𝑪𝒕 ), da componente
+                          sazonal (𝑺𝒕 ) e da componente irregular
+                                              (𝑰𝒕 ).
+
+                            considera uma série temporal como
+                         resultado do produto das componentes
+    O modelo                  individuais, isto é, o produto da
+                           tendência, da componente cíclica, da                    𝒁𝒕 = 𝑻𝒕 × 𝑪𝒕 × 𝑺𝒕 × 𝑰𝒕
+   multiplicativo
+                          componente sazonal e da componente
+                                          irregular.
+
+TENDÊNCIA
+
+                                                                  1.   Empregamos modelos de regressão para
+    Há dois métodos gerais para isolar a tendência                     estimar a linha de tendência.
+                                                                  2.   Usamos médias móveis para eliminar os
+                                                                       outros componentes.
+
+
+Regressão Linear
+
+Substituindo a escala (𝒙) da variável independente por uma escala de tempo (𝒕):
+
+                                                     𝒁𝒕 = 𝒂 + 𝒃 × 𝒕
+As equações para 𝒂 e 𝒃 são expressas pelas seguintes fórmulas:
+
+                                                      𝒏 ∑ 𝒕𝒁 − ∑ 𝒕 ∑ 𝒁
+                                             𝒃=
+                                                      𝒏 ∑ 𝒕𝟐 − (∑ 𝒕)𝟐
+
+
+                                                ∑𝒁 − 𝒃∑𝒕
+                                          𝒂=              ̅ − 𝒃𝒕̅
+                                                         =𝒁
+                                                   𝒏
+
+                                     
+
+
+---
+
+Médias Móveis
+
+Uma média móvel é a média aritmética das últimas 𝒌 observações 𝒁𝒕 :
+
+                                   ∑𝒌𝒊=𝒕−𝒌 𝒁𝒕
+                           𝑴𝑴 =
+                                       𝒌
+
+SUAVIZAÇÃO EXPONENCIAL
+
+A equação de suavização exponencial é:
+
+                  ̅ 𝒕 = 𝜶 × 𝒁𝒕 + (𝟏 − 𝜶) × 𝒁
+                  𝒁                        ̅ 𝒕−𝟏 ,      ̅ 𝟎 = 𝒁𝟏 ,
+                                                        𝒁            𝒕 = 𝟏, ⋯ , 𝑵,
+
+                              
+
+
+---
+
+OPERADORES
+
+Translação para o Passado
+
+  O operador de translação para o passado (𝑩) desloca o índice de tempo para trás (retarda)
+           em uma unidade. A letra 𝑩 vem do inglês "backward shift operator".
+
+                 Definição                                        Símbolos e Fórmulas
+
+  o operador de translação para o passado                          𝑩𝒁(𝒕) = 𝒁(𝒕 − 𝟏)
+     a uma variável no tempo 𝑡, definida
+                  como 𝑍𝑡                                             𝑩𝒁𝒕 = 𝒁𝒕−𝟏
+
+  Translação para o passado para mais de
+               um período                                            𝑩𝒏 𝒁𝒕 = 𝒁𝒕−𝒏
+
+Translação para o Futuro
+
+  O operador de translação para o futuro (𝑭) desloca o índice de tempo para frente em uma
+                 unidade. A letra 𝑭 vem do inglês "forward shift operator".
+
+                Definição                                         Símbolos e Fórmulas
+
+ o operador de translação para o futuro a                          𝑭𝒁(𝒕) = 𝒁(𝒕 + 𝟏)
+ uma variável no tempo 𝑡, definida como
+                   𝑍𝑡                                                 𝑭𝒁𝒕 = 𝒁𝒕+𝟏
+
+  Translação para o futuro para mais de
+              um período                                             𝑭𝒏 𝒁𝒕 = 𝒁𝒕+𝒏
+
+                             
+
+
+---
+
+Diferença
+
+                                Definição                                     Símbolos e Fórmulas
+
+ O operador de diferença (∇) retorna a diferença entre dois
+  valores consecutivos da série temporal. Alguns autores
+empregam a letra grega Δ (delta) em vez do símbolo ∇ (nabla                     ∇𝒁𝒕 = 𝒁𝒕 − 𝒁𝒕−𝟏
+                         ou del).
+
+  podemos escrever o operador de diferença da seguinte
+                        forma:                                                     ∇=𝟏−𝑩
+
+
+      o operador de diferença de ordem 𝑛 é definido como:                        ∇𝒏 = (𝟏 − 𝑩)𝒏
+
+ESTACIONARIEDADE
+
+              Gráfico                                             Definição
+
+
+  10
+                                   Uma série temporal é estacionária quando ela se desenvolve no
+      5                             tempo, de modo aleatório, ao redor de uma média constante,
+                                        refletindo, assim, alguma forma de equilíbrio estável.
+      0
+          0 1 2 3 4 5 6 7 8 9
+
+ 10                                Uma série temporal é não-estacionária quando apresenta uma
+                                   mudança de nível e/ou inclinação, no gráfico temos uma série
+  5
+                                 temporal com tendência de crescimento linear, apontada pela reta
+  0                                                      na cor vermelha.
+      0 1 2 3 4 5 6 7 8 9
+
+                                   
+
+
+---
+
+FUNÇÕES DE AUTOCOVARIÂNCIA E AUTOCORRELAÇÃO
+
+      Função de autocovariância (FACV)
+
+      • Descreve a covariância entre duas variáveis 𝒁𝒕𝟏 e 𝒁𝒕𝟐 do processo em dois instantes,
+        sendo representada por 𝜸(𝒕𝟏 , 𝒕𝟐 ).
+      • 𝜸 𝒕𝟏 , 𝒕𝟐 = 𝑪𝒐𝒗 𝒁𝒕𝟏 , 𝒁𝒕𝟐 = 𝑬 𝒁𝒕𝟏 − 𝑬 𝒁𝒕𝟏 × 𝒁𝒕𝟐 − 𝑬 𝒁𝒕𝟐
+      • A funcão de autocovariância para processos estacionários é função apenas do tempo de
+        atraso (𝒍𝒂𝒈)𝝉.
+      • 𝜸 𝝉 = 𝑪𝒐𝒗 𝒁𝒕+𝝉 , 𝒁𝒕 = 𝑪𝒐𝒗 𝒁𝒕 , 𝒁𝟎 .
+
+
+      Função de autocorrelação
+      • É uma função somente de 𝝉.
+               𝜸(𝝉)
+      • 𝝆 𝝉 = 𝜸(𝟎)
+
+MODELOS ARIMA
+
+Os modelos autorregressivos integrados de médias móveis (ARIMA, do inglês autoregressive
+integrated moving average) podem ser ajustados aos dados de uma série temporal para que
+possamos entender melhor os dados dessa série ou para prever seus valores futuros.
+
+Modelos Autorregressivos (AR)
+
+Modelo Autorregressivo de Ordem 1:
+
+                                     𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+Modelo Autorregressivo de Ordem 2:
+
+                              𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝝓𝟐 𝒁𝒕−𝟐 + 𝜺𝒕
+Após aplicar o operador ou polinômio autorregressivo estacionário de ordem p representado
+por 𝝓(𝑩):
+
+                                      𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜺𝒕
+
+                              
+
+
+---
+
+                        Modelo Autorregressivo de Ordem 1 - AR(1)
+
+                                  𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕
+
+Modelos de Médias Móveis (MA)
+
+                      Modelo de Médias Móveis de Ordem 1 - MA(1)
+
+                                   𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+                      Modelo de Médias Móveis de Ordem 2 - MA(2)
+
+                             𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐
+                      Modelo de Médias Móveis de Ordem q - MA(q)
+
+                     𝒁𝒕 = 𝝁 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏 − 𝜽𝟐 𝜺𝒕−𝟐 − ⋯ − 𝜽𝒒 𝜺𝒕−𝒒
+
+Modelos Autorregressivos de Médias Móveis (ARMA)
+
+O modelo ARMA é basicamente a mistura dos processos Autorregressivos AR(p) e Médias Móveis
+MA(q).
+
+
+                              𝝓(𝑩) × 𝒁𝒕 = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+
+             Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+
+                            𝒁𝒕 = 𝜹 + 𝝓𝟏 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝜽𝟏 𝜺𝒕−𝟏
+
+                            
+
+
+---
+
+Modelos Autorregressivos Integrados de Médias Móveis (ARIMA)
+
+Os modelos ARIMA (do inglês auto-regressive integrated moving average) são modelos
+estatísticos lineares que correspondem à classe mais geral de modelos para análise de séries
+temporais. Eles são ditos autorregressivos, integrados e de médias móveis.
+
+
+                                            𝜵𝒅 𝒁𝒕 × 𝝓(𝑩) = 𝜹 + 𝜽(𝑩) × 𝜺𝒕
+
+
+Identificação do Modelo pela Função de Autocorrelação
+
+                                   Modelo Autorregressivo de Ordem 1 - AR(1)
+
+                    (a) 𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏                                     (b) 𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏
+
+                            ρ(τ)                                                     ρ(τ)
+                1                                                           2
+
+                                                                            0
+
+            -1                                                              -2
+
+   Modelo de Médias Móveis de Ordem 1 -                        Modelo de Médias Móveis de Ordem 2 -
+                  MA(1)                                                       MA(2)
+
+                    𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏                           𝒁𝒕 = 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏 − 𝟎, 𝟕 × 𝜺𝒕−𝟐
+
+                            ρ(τ)                                                     ρ(τ)
+           1                                                                 1
+
+
+           -1                                                               -1
+
+                    Modelo Autorregressivo de Médias Móveis de Ordem 1 - ARMA(1,1)
+
+      𝒁𝒕 = 𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏                         𝒁𝒕 = −𝟎, 𝟗 × 𝒁𝒕−𝟏 + 𝜺𝒕 − 𝟎, 𝟖 × 𝜺𝒕−𝟏
+
+                           ρ(τ)                                                     ρ(τ)
+         1,000                                                          1,000
+
+        -1,000                                                          -1,000
+
+                                       
+
+
+---

@@ -1,0 +1,1867 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 05_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Passo Estratégico de Português
+---
+
+# Passo Estratégico de Português
+
+Aula 04
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+   Carlos Roberto Correa
+   Aula 04
+
+1 - Apresentação 
+2 - Análise Estatística 
+3 – Concordância 
+  3.1 – Concordância nominal 
+  3.2 – Concordância verbal 
+4 – Vozes Verbais
+  4.1 – Voz ativa
+  4.2 – Voz passiva 
+  4.3 – Voz reflexiva 
+5 – Aposta estratégica 
+6 - Questões-chave de revisão 
+7 – Lista de questões comentadas 
+8 – Revisão estratégica 
+  8.1 Perguntas 
+  8.2 Perguntas e respostas 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Português                                                                            1
+          www.estrategiaconcursos.com.br                                                                                                                  39
+                                               
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+1 - APRESENTAÇÃO
+Olá, servidores.
+Hoje, iniciaremos mais uma jornada rumo à sua aprovação. Estamos falando da sintaxe de
+concordância e vozes verbais.
+Os nomes e os verbos são flexionados em uma relação de dependência. Esses termos, classificados
+como dependentes, devem se relacionar harmoniosamente com as palavras das quais dependem,
+alterando suas terminações e obedecendo a algumas regras.
+São exatamente essas regras que precisamos revisar nesta aula para que vocês cheguem seguros à
+prova e tirem a nota máxima!
+
+
+Vamos lá!
+
+
+Prof. Carlos Roberto
+
+
+                                            #amoraovernáculo
+
+
+                “A vida sem luta é um mar morto no centro do organismo universal”.
+                                       (Machado de Assis)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                      2
+        www.estrategiaconcursos.com.br                                                            39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+2 - ANÁLISE ESTATÍSTICA
+                     Percentual de incidência em concursos similares (FGV)
+                             Interpretação de textos.                          34,98%
+            Classes de palavras; Formação e estrutura das palavras.            14,43%
+                                     Linguagem.                                 3,96%
+                          Ortografia, Acentuação e Crase.                       3,27%
+                                 Tipologia Textual.                             3,11%
+                                     Pontuação.                                 2,90%
+                              Colocação pronominal.                             2,61%
+                                Termos da oração.                               2,14%
+                Concordância verbal, nominal e vozes verbais.                   1,92%
+             Relação de coordenação e subordinação das orações.                 1,35%
+                          Palavras “se”, “que” e “como”.                        1,19%
+                            Regência nominal e verbal.                          1,06%
+
+3 – CONCORDÂNCIA
+Concordância é o princípio sintático segundo o qual as palavras dependentes se combinam, nas suas
+flexões, com as palavras de que dependem. Essa combinação formal é denominada de flexão, e
+ocorre quanto ao gênero e número (nos nomes), e pessoa e número (nos verbos). Logo, a
+concordância pode ser verbal ou nominal.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        3
+        www.estrategiaconcursos.com.br                                                              39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+                                                                       Gênero    Masculino/Feminino
+
+                                      Nominal
+
+                                                                       Número      Singular/Plural
+
+    Sintaxe de
+   concordância
+                                                                                 Primeira/Segunda/
+                                                                        Pessoa
+                                                                                        Terceira.
+                                       Verbal
+
+                                                                       Número      Singular/Plural.
+
+3.1 – CONCORDÂNCIA NOMINAL
+
+A despeito de não haver tanta cobrança de concordância nominal em concursos públicos, se a
+compararmos com a concordância verbal, temos de estudá-la, pois, eventualmente, suas regras são
+exigidas do candidato.
+Em regra, artigo, adjetivo, pronome adjetivo e numeral concordam com o substantivo em gênero
+e número. Entretanto, há situações de concordância que fogem à regra geral e precisam ser
+consideradas separadamente. Logo, estudaremos dois grupos: a regra geral e os casos particulares
+(exceções).
+
+
+                                                    Regra Geral
+    i.      Adjetivo anteposto a dois ou mais substantivos de gênero e número diferentes deve
+            concordar com o mais próximo.
+
+     Antigos livros e canetas estavam naquela estante.
+     Antigas canetas e livros estavam naquela estante.
+
+
+   ii.      Adjetivo posposto a dois ou mais substantivos permite duas concordâncias:
+
+            i.   O adjetivo concorda com o substantivo mais próximo.
+
+     Compramos livros e apostilas novas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                         4
+         www.estrategiaconcursos.com.br                                                               39
+                                     
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+          ii.   Pluraliza-se o adjetivo para que ele concorde com os substantivos de mesmo gênero.
+
+   Mães e filhas unidas reivindicavam seus direitos.
+   Livros e cadernos usados foram doados ao orfanato.
+
+
+      iii.      Se o gênero dos substantivos for diferente, prevalece o masculino plural.
+
+   Livros e canetas usados foram doados ao orfanato.
+
+
+      iv.       O adjetivo concorda somente com o último substantivo se eles forem sinônimos.
+
+   Enfrentaram adversidades e problemas complicados.
+   Enfrentaram problemas e adversidades complicadas.
+
+
+                                             Casos Particulares
+ a) Quando dois ou mais adjetivos se referem a um substantivo, há duas concordâncias
+    possíveis no caso de o substantivo ser determinado pelo artigo.
+
+          i.    O substantivo permanece no singular e coloca-se o artigo antes do último adjetivo.
+
+   Gosto de estudar a língua inglesa e a portuguesa.
+
+
+          ii.   O substantivo vai para o plural e omite-se o artigo antes do adjetivo.
+
+   Gosto de estudar as línguas inglesa e portuguesa.
+
+
+ b) Quando o sujeito for composto, há duas concordâncias possíveis.
+
+          i.    O adjetivo posposto aos substantivos vai para o plural (em caso de gêneros diferentes,
+                permanece o masculino plural).
+
+   A aluna e o professor estavam tranquilos.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                               5
+      www.estrategiaconcursos.com.br                                                                     39
+                                  
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+          ii.   Com o adjetivo anteposto aos substantivos, a concordância pode ser feita de duas
+                formas:
+                   ➢ O adjetivo vai para o plural (prevalece o masculino plural no caso de
+                      substantivos de gêneros diferentes).
+
+   Após a prova, estavam exaustos a aluna e o professor.
+
+                   ➢ O adjetivo concorda com o substantivo mais próximo.
+
+   Após a prova, estava exausta a aluna e o professor.
+
+ c) A concordância do adjetivo com o núcleo do objeto:
+
+          i.    Ocorre em gênero e número se esse objeto for representado por um único
+                substantivo.
+
+   Os alunos consideraram a prova cansativa.
+
+
+          ii.   O adjetivo é flexionado em número e gênero dos substantivos se o núcleo do objeto
+                for composto de dois ou mais substantivos do mesmo gênero.
+
+   Os alunos encontraram questões e pegadinhas maliciosas na prova.
+
+      iii.
+                O adjetivo é permanece no gênero masculino plural se o objeto possuir dois núcleos
+                representados por substantivos de gêneros distintos.
+
+   Os alunos encontraram questões e textos extensos na prova.
+
+
+      iv.       O adjetivo anteposto a dois ou mais núcleos do objeto pode concordar com o núcleo
+                mais próximo.
+
+   O servidor achou maravilhoso o cargo e a repartição.
+   O servidor achou maravilhosa a repartição e o cargo.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                           6
+      www.estrategiaconcursos.com.br                                                                 39
+                                  
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+          v.    Se houver substantivos de gêneros distintos, pode-se pluralizar o adjetivo no gênero
+                masculino.
+
+   O servidor achou maravilhosos o cargo e a repartição.
+   O servidor achou maravilhosos a repartição e o cargo.
+
+
+ d) No particípio, os adjetivos concordam em gênero e número com os substantivos a que se
+    referem. Em relação a substantivos de gêneros distintos, prevalece o masculino no plural.
+
+   Foi divulgado o edital do concurso.
+
+   Realizadas as provas, restava aguardar os novos servidores.
+   Alunos e alunas decididos têm mais chance de êxito na prova.
+
+
+ e) O pronome concorda:
+
+          i.    com o substantivo a que se refere em gênero e número.
+
+   Nenhuma dificuldade trazia-lhe aflição.
+   Certas lições nos fazem crescer.
+   Procurou o professor para sanar suas dúvidas, mas não o encontrou.
+
+
+          ii.   Com relação a pronomes indefinidos neutros (nada, muito, algo), permanecem no
+                masculino singular os adjetivos regidos da preposição de que se referem a eles ou
+                concordam com o sujeito por atração.
+
+   Aquela bela cidade tinha algo de perigoso.
+   A multidão não tinha nada de agitado.
+
+   As alunas daquele curso não tinham nada de bobas.
+
+
+      iii.      Quanto aos pronomes um...outro, prevalece o masculino no caso de substantivos
+                diferentes.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                             7
+      www.estrategiaconcursos.com.br                                                                   39
+                                  
+
+
+---
+
+ Carlos Roberto Correa
+ Aula 04
+
+      Professor e aluna devem ajudar um ao outro.
+
+
+  f) Verbo “SER” + adjetivo:
+       i. Se o substantivo não estiver acompanhado de nenhum modificador, o adjetivo ficará
+           no masculino singular.
+
+      Fé é bom para a vida.
+
+
+           ii.   Se o substantivo for modificado por um artigo ou qualquer outro determinativo, o
+                 adjetivo concordará com o substantivo.
+
+      A fé é boa para a vida.
+
+
+  g) A Palavra “Só”:
+
+i.     Equivalente a “sozinho” – concorda com o nome a que se refere.
+
+      Carlos estudou só.
+      Carlos e Roberto estudaram sós.
+
+
+ii.    Equivalente a “somente” ou “apenas” – tem função adverbial, sendo, portanto, invariável.
+
+      Eles só querem passar no concurso e ser felizes.
+
+
+  h) Quanto às palavras anexo, obrigado, mesmo, próprio, incluso, quite, leso, concordam com
+     o substantivo a que se referem em gênero e número se forem empregadas como adjetivo.
+
+      Seguem anexos os documentos necessários para tomar posse no cargo público.
+      - Muito obrigada, agradeceu a aula.
+
+      Eles mesmos elaborarão o planejamento de estudo.
+
+      Ela própria adotará medidas responsáveis.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                        8
+        www.estrategiaconcursos.com.br                                                              39
+                                    
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+   Estão inclusos todos os materiais necessários para sua preparação.
+
+   Nós estamos quites com o cronograma.
+
+   O ministro considerou a assinatura do acordo um crime de lesa-pátria.
+    Obs.: mesmo é um termo invariável se classificado como advérbio (sentido de realmente, defato).
+
+   Eles desistiram mesmo de viajar para permanecerem focados no concurso.
+
+
+ i) Quanto às palavras muito, pouco, bastante, meio, caro, barato, longe: podem aparecer
+    como advérbios ou adjetivos. Como advérbios, são invariáveis; como adjetivos, concordam
+    com o nome a que se referem.
+
+   Aquela aluna estudava muito todos os dias. (advérbio)
+
+   Ele lia muitos livros de direito. (pronome adjetivo)
+   Sentiu-se pouco confortável no dia da prova. (advérbio)
+
+   Tinha poucas alternativas para escolher o melhor caminho. (pronome adjetivo)
+
+   Há bastantes candidatos para fazer a prova. (pronome adjetivo)
+
+   Estudou bastante na fase pós-edital. (advérbio)
+   Ela estava meio estranha nos últimos dias. (advérbio)
+
+   Ele comeu meia porção de lasanha. (numeral adjetivo)
+
+   Comprei uma bolsa cara para a minha esposa. (adjetivo)
+
+   A bicicleta que sempre sonhei custa caro. (advérbio)
+   Os livros mais baratos podem ser os melhores. (adjetivo)
+   Os cursinhos poderiam cobrar mais barato. (advérbio)
+
+   Avistamos montanhas longes. (adjetivo)
+
+   Não imaginava que as montanhas estivessem tão longe. (advérbio)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                            9
+      www.estrategiaconcursos.com.br                                                                  39
+                                  
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+ j) As palavras alerta e menos são invariáveis, pois funcionam como advérbio.
+
+   Os policiais estavam alerta.
+   Havia menos servidoras que servidores no órgão público.
+
+
+ k) O adjetivo possível aparece como termo variável ou invariável ao concordar com o artigo que
+    o antecede.
+
+   Queria morar o mais perto possível da biblioteca.
+   Estudou nas melhores escolas possíveis.
+
+
+ l) Expressões formadas por um verbo mais um adjetivo (É proibido, É necessário, É bom, É
+ preciso, É permitido):
+
+
+   i.      Ficam invariáveis se o substantivo a que se referem possuir sentido genérico (não
+           precedido de artigo).
+
+   É proibido crianças neste ambiente.
+
+   Durante a prova, é necessário atenção.
+
+
+   ii.     Quando o sujeito dessas expressões estiver determinado por artigos, pronomes ou
+           adjetivos, tanto o verbo como o adjetivo concordam com ele.
+
+   É proibida a entrada de crianças.
+
+   A educação é necessária.
+
+ m) A Concordância estilística ideológica (silepse) ocorre em virtude da ideia subentendida e não
+    por meio das palavras expressas no texto.
+
+   Os intelectuais somos vaidosos. (estilística)
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                   10
+         www.estrategiaconcursos.com.br                                                             39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+     Os intelectuais são vaidosos. (formal)
+
+     Brasileiros e latino-americanos fazemos a crítica ao sistema. (estilística)
+
+     Brasileiros e latino-americanos fazem a crítica ao sistema. (formal)
+
+3.2 – CONCORDÂNCIA VERBAL
+
+Primeiramente, veremos as regras gerais de concordância verbal para, em seguida, visitarmos os
+casos especiais.
+
+
+                                                      Regra Geral
+
+
+Como regra geral, o verbo concorda com o sujeito em número e pessoa.
+
+
+     i.      Sujeito simples anteposto ao verbo.
+
+     Os alunos estavam tranquilos durante a prova.
+
+
+    ii.      Sujeito simples posposto ao verbo.
+
+     Não faltarão oportunidades nos próximos anos.
+
+
+    iii.     Sujeito composto anteposto ao verbo:
+
+     A resistência e a falta alimentam a violência.
+     Obs.: o verbo também poderá vir no singular quando o sujeito composto anteposto possui núcleos sinônimos
+     no singular.
+
+
+     Trabalho e atividade produzem bens de consumo.
+
+     Trabalho e atividade produz bens de consumo.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Português                                 11
+           www.estrategiaconcursos.com.br                                                                       39
+                                       
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+  iv.     Sujeito composto posposto ao verbo – o verbo poderá concordar no plural ou com o
+          substantivo mais próximo.
+
+   Vêm ocorrendo a transformação da sociedade e a consolidação de valores.
+   Vem ocorrendo a transformação da sociedade e a consolidação de valores.
+
+   Chegaram o prefeito, o senador e o deputado.
+
+   Chegou o prefeito, o senador e o deputado.
+
+
+  v.      Sujeito composto de pessoas diferentes – o verbo vai para o plural, de acordo com a
+          regra de prevalência, ou seja:
+               a) A 1ª pessoa prevalece sobre a 2ª e a 3ª.
+
+   Meus amigos e eu (nós – 1ª pessoa) faremos uma excelente prova.
+
+
+               b) A 2ª pessoa prevalece sobre a 3ª.
+
+   Tu e ele (vós – 2ª pessoa) estudais muito.
+   Obs.: não é incomum, mesmo com a regra de prevalência, encontrar o verbo na 3ª pessoa do plural. Nesse
+   caso, há prevalência da 3ª pessoa sobre a 2ª.
+
+
+   Tu e ele estudam muito.
+
+
+                                               Casos Particulares
+
+
+             i.    Sujeito formado por substantivo coletivo – o verbo concorda com o sujeito coletivo
+                   no singular e no plural.
+
+   A plateia aplaudiu os novos aprovados.
+
+                   ➢ Caso o verbo esteja seguido de adjunto adnominal plural, poderá ser flexionado
+                     no plural.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                12
+        www.estrategiaconcursos.com.br                                                                      39
+                                    
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+   A plateia de servidores aplaudiram os novos aprovados.
+
+
+          ii.    Sujeito formado por núcleos partitivos – o verbo se mantém no singular
+                 (concordância lógico-formal) ou é flexionado no plural (concordância estilística).
+
+   A maioria dos policiais ficou insatisfeita e evidenciou revolta.
+   (concordância lógico-formal)
+
+   A maioria dos policiais ficaram insatisfeitos e evidenciaram revolta.
+
+   (concordância estilística)
+
+
+          iii.   Sujeito formado por pronome de tratamento – o verbo permanece na 3ª pessoa.
+
+   Vossa Excelência um dia será o nosso Presidente da República.
+
+
+          iv.    Sujeito formado por núcleos percentuais e fracionários – o verbo pode ser
+                 flexionado para concordar com o núcleo ou com seu adjunto adnominal.
+
+   Portanto, 55% da população estão no mercado informal.
+   Portanto, 55% da população está no mercado informal.
+   Portanto, 0,98% da população está no mercado informal.
+   Portanto, 1,36% da população está no mercado informal.
+
+   1/3 dos estudantes crê na aprovação.
+
+   1/3 dos estudantes creem na aprovação.
+
+           v.    Sujeito formado por núcleos quantitativos – o verbo será flexionado para
+                 concordar com o núcleo.
+
+   Uma tonelada de drogas foi apreendida na fronteira.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                        13
+      www.estrategiaconcursos.com.br                                                                  39
+                                  
+
+
+---
+
+Carlos Roberto Correa
+Aula 04
+
+   Uma tonelada de drogas foram apreendidas na fronteira. (errado)
+
+   Foi atingido 1,5 bilhão de pessoas.
+
+   Foram atingidos 1,5 bilhão de pessoas. (errado)
+   Os milhares de pessoas buscavam a paz social.
+
+   As milhares de pessoas buscavam a paz social. (errado)
+
+
+          vi.    Sujeito formado por expressões denotativas – o verbo permanece na 3ª pessoa do
+                 singular ou do plural, de acordo com o numeral ou substantivo que segue essas
+                 expressões.
+
+   Cerca de 800 habitantes receberão o benefício.
+   Mais de um americano morreu após os conflitos.
+
+
+          vii.   Concordância com o verbo ser.
+     a) Pode concordar com o predicativo do sujeito quando o sujeito for os pronomes isto, isso,
+        aquilo, tudo.
+
+   Tudo eram experiências adquiridas.
+
+   Isso são lições da vida.
+
+   Aquilo seriam desejos ambiciosos.
+
+                 ➢ Também é possível a concordância do verbo com o sujeito-pronome no
+                   singular.
+
+   Nem tudo é flores na vida de um estudante dedicado.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Português                         14
+      www.estrategiaconcursos.com.br                                                               39
+                                  
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+4 – VOZES VERBAIS
+As vozes do verbo caracterizam as diferentes atuações do sujeito da oração, as quais podem ser: voz
+ativa, passiva e reflexiva.
+
+4.1 – VOZ ATIVA
+
+Na voz ativa, o sujeito é agente da ação expressa pelo verbo.
+
+       Os alunos (pratica a ação) resolveram todas as questões da prova.
+       O professor (pratica a ação) lecionou um conteúdo importante.
+
+4.2 – VOZ PASSIVA
+
+Na voz passiva, o sujeito é paciente, ou seja, sofre a ação expressa pelo verbo.
+  i.    Voz passiva analítica – formada por um verbo auxiliar (ser), seguido pelo particípio do verbo
+        principal.
+
+       As questões da prova (recebe a ação) foram respondidas pelos alunos.
+
+ ii.    Voz passiva sintética – formada a partir do verbo principal, conjugado na 3ª pessoa (singular
+        ou plural), seguido da partícula apassivadora “se”.
+
+       Alugam-se casas.
+       Vende-se este livro.
+
+4.3 – VOZ REFLEXIVA
+
+Na voz reflexiva, o sujeito é, ao mesmo tempo, agente e paciente da ação expressa pelo verbo.
+
+       O montanhista (pratica e recebe a ação) feriu-se gravemente.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                       15
+         www.estrategiaconcursos.com.br                                                                 39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+     Os atletas (pratica e recebe a ação) abraçaram-se para comemorar o título.
+
+5 – APOSTA ESTRATÉGICA
+Quando o assunto for concordância, tanto a nominal quanto a verbal são bem cotadas nas provas. Mas
+apostamos na cobrança da concordância nominal com um adjetivo posposto ou anteposto para mais de um
+substantivo. Veja na página 4.
+É corriqueiro também aparecerem questões de concordância nominal com mais de um adjetivo relacionado
+a apenas um substantivo. Veja isso na página 5.
+Quanto à concordância verbal, estude com carinho as situações de sujeito composto posposto e anteposto
+ao verbo. Outro assunto da concordância verbal em que podemos apostar é como se dá a concordância com
+o verbo ser. Um resumo:
+
+            ➢ Pode concordar com o predicativo do sujeito quando o sujeito for os pronomes isto, isso,
+              aquilo, tudo.
+            ➢ Também é possível a concordância do verbo com o sujeito-pronome no singular.
+
+Certamente, no que diz respeito ao assunto vozes do verbo, o que tem maior potencial de ser cobrado é a
+transposição da voz ativa para a passiva. Talvez possa aparecer uma questão com uma determinada oração
+na voz ativa e as alternativas sejam possíveis estruturas da mesma oração na voz passiva ou vice-versa:
+oração na passiva com alternativas na ativa.
+
+     Precisamos lembrar aí que:
+
+     - a transposição só é possível com verbo transitivo direto ou bitransitivo;
+
+     - o sujeito da oração na voz ativa passa a ser o agente da passiva;
+
+     - o objeto direto passa a ser o sujeito da passiva;
+
+     - quando o sujeito da voz ativa for indeterminado, não haverá agente na passiva. (Atingiram-
+     me. (voz ativa) > Fui atingido. (voz passiva)).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             16
+        www.estrategiaconcursos.com.br                                                                    39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+6 - QUESTÕES-CHAVE DE REVISÃO
+                                           Concordância nominal
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+“Em linhas gerais a arquitetura brasileira sempre conservou a boa tradição da arquitetura portuguesa. De
+Portugal, desde o descobrimento do Brasil, vieram para aqui os fundamentos típicos da arquitetura colonial.
+Não se verificou, todavia, uma transplantação integral de gosto e de estilo, porque as novas condições de
+vida em clima e terras diferentes impuseram adaptações e mesmo improvisações que acabariam por dar à
+do Brasil uma feição um tanto diferente da arquitetura genuinamente portuguesa ou de feição portuguesa.
+E como arquitetura portuguesa, nesse caso, cumpre reconhecer a de característica ou de estilo barroco”.
+(Luís Jardim, Arquitetura brasileira. Cultura, SP: 1952)
+
+
+No texto há uma série de adjetivos que se referem a substantivos e com eles concordam; a opção em que
+essa relação de concordância está errada é:
+a) integral / transplantação;
+b) novas / condições;
+c) terras / diferentes;
+d) diferente / feição;
+e) barroco / característica ou estilo.
+
+                                            Concordância verbal
+Questão 02
+FGV - Contador (SEFIN RO)/2018
+
+
+Texto – Do que as pessoas têm medo?
+
+
+A geração pós-1980 e início de 1990 só conhece os tempos militares pelos livros de História e pelas séries da
+TV. Para a maioria dela, as palavras “democracia” e “liberdade” têm sentido diferente daquele para quem
+conheceu a falta desses direitos e as consequências de brigar por eles. Se hoje é possível existir redes sociais;
+se é possível que pessoas se organizem em grupos ou movimentos e digam ou escrevam o que querem e o
+que pensam, devem-se essas prerrogativas a quem no passado combateu as arbitrariedades de uma
+ditadura violenta, a custo muito alto.
+A liberdade não é um benefício seletivo. Não existe numa sociedade quando alguns indivíduos têm mais
+liberdade que outros, ou quando a de uns se sobrepõe à de outros.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                   17
+         www.estrategiaconcursos.com.br                                                                             39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+É fundamental para a evolução das sociedades compreender que o status quo das culturas está sempre se
+modificando, e que todas as modificações relacionadas aos costumes de cada época precisaram quebrar
+paradigmas que pareciam imutáveis. Foi assim com a conquista do voto da mulher, com a trajetória até o
+divórcio e para que a “desquitada” deixasse de ser discriminada. Foi assim, também, com outros costumes:
+o comprimento das saias, a introdução do biquíni, a inclusão racial, as famílias constituídas por união
+estável, o primeiro beijo na TV e tantas outras mudanças que precisaram vencer os movimentos
+conservadores até conseguirem se estabelecer. Hoje, ninguém se importa em ver um casal se beijando
+numa novela (desde que o casal seja formado por um homem e uma mulher). Há pouco mais de 60 anos, o
+primeiro beijo na TV, comportado, um encostar de lábios, foi um escândalo para a época.
+A questão do momento é se existe limite para a expressão da arte.
+Simone Kamenetz, O Globo, 18/10/2017. (Adaptado)
+
+
+Apesar de bem escrito, o primeiro parágrafo do texto apresenta uma incorreção, segundo a norma padrão.
+
+Assinale a opção que a apresenta.
+a) O segmento “Para a maioria dela” deveria ser substituído por “Para a maioria delas”.
+b) O segmento “têm sentido diferente” deveria ser substituído por “têm sentidos diferentes”.
+c) O segmento “a falta desses direitos” deveria ser substituído por “a falta desse direito”.
+d) O segmento “É possível existir” deveria ser substituído por “É possível existirem”.
+e) O segmento “devem-se essas prerrogativas” deveria ser substituído por “deve-se essas prerrogativas”.
+
+                                           Concordância verbal
+Questão 03
+FGV - Analista Judiciário (TJ AL)/Oficial de Justiça Avaliador/2018
+
+
+Texto - A Copa do Mundo da Rússia só começa no dia 22 de junho, mas a febre dos álbuns com os jogadores
+das seleções já se espalhou e chegou até ao plenário de uma assembleia legislativa brasileira. O flagrante
+de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a cena se
+espalhou.
+No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados, mas a direção da casa esclareceu tratarem-se de assessores. “Votação
+importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao salário superior a
+25 mil reais, estão trocando e colando figurinha da Copa do Mundo em meio à votação. Se eu falasse,
+ninguém acreditaria”, diz o post.
+Outro post com mais de 40 mil compartilhamentos traz um vídeo mostrando que a troca ocorreu enquanto
+uma deputada discursava sobre uma proposta.
+A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão da quarta feira e
+esclareceu que elas mostram dois “assessores de deputados” trocando figurinhas durante a sessão. “O
+comportamento não é justificável. Os gabinetes dos deputados aos quais os assessores pertencem, já foram
+informados, e cabe aos parlamentares decidir como proceder”. (adaptado)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              18
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+O segmento do texto em que há um erro gramatical na forma verbal sublinhada é:
+a) “No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados,...”;
+b) “...mas a direção da casa esclareceu tratarem-se de assessores”;
+c) “Votação importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao
+salário superior a 25 mil reais...”;
+d) “...estão trocando e colando figurinha da Copa do Mundo em meio à votação”;
+e) “Se eu falasse, ninguém acreditaria”, diz o post.
+
+                               Concordância verbal (porcentagem)
+Questão 04
+FGV - Advogado (ALERO)/2018
+
+
+Dado Preocupante
+
+
+No primeiro semestre deste ano, 80 mil alunos deixaram de ingressar em faculdades particulares de todo o
+país, o que representa uma queda de 5% em relação ao mesmo período de 2017. Desde 2015, a fuga de
+ingressantes é de 20%. Juntos, Rio, Minas e Espírito Santo tiveram redução de 25,7% no número de calouros.
+O levantamento foi feito pelo Sindicato das Mantenedoras de Ensino Superior (Semesp) com 99
+instituições. Desemprego, queda de renda, crise econômica, redução dos programas de financiamento
+estudantil são as razões apontadas pelo Semesp para a diminuição de matrículas. No Rio, a violência agrava
+o problema, porque desestimula quem estuda à noite. (adaptado)
+O Globo, 24/07/2018
+
+
+Assinale a frase a seguir em que a concordância verbal com porcentagens está incorreta.
+a) 25,7% do total de calouros se matricularam.
+b) 30% da imprensa mostraram esse mesmo dado.
+c) 1,7% do jornal se ocuparam dessa notícia.
+d) 5,8% do público leitor comentou os dados fornecidos.
+e) 1,3% dos leitores se interessaram pela notícia.
+
+                                          Concordância nominal
+Questão 05
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                19
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Em todas as frases a seguir foram sublinhados o adjetivo e o termo substantivo a que ele se refere e com
+que concorda; assinale a frase em que essa referência está indicada corretamente.
+a) “Ser marido é um trabalho de tempo integral.”
+b) “A cachaça de Minas é das mais saborosas do país.”
+c) “Os maridos das mulheres de que gostamos são sempre uns imbecis.”
+d) “É preciso realmente que um homem morra para que outros possam apurar o seu justo valor.”
+e) “Há quem esteja disposto a morrer para fazer com que morram os seus inimigos.”
+
+                                                Vozes verbais
+Questão 06
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Uma revista de Educação mostrava o seguinte segmento:
+
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular, obrigando os alunos a decorar fórmulas matemáticas, afluentes de rios ou a
+morfologia dos insetos para ter depois seus conhecimentos testados e avaliados por notas que não
+diferenciam as vocações ou interesses individuais. É uma avaliação cruel, que prioriza a inteligência da
+decoreba ao invés da inteligência criativa”.
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular...”; esse segmento mostra uma forma de voz passiva - “são direcionados” - sem
+que haja menção do agente dessa ação.
+
+O pensamento abaixo em que há uma forma de voz passiva com a indicação do agente é:
+a) “A natureza só é comandada se é obedecida”;
+b) “Dada a causa, a natureza produz o efeito no modo mais breve em que pode ser produzido”;
+c) “O mundo será julgado pelas crianças. O espírito da infância julgará o mundo”;
+d) “Existe alguma religião cujos fiéis possam ser apontados como nitidamente mais amáveis e dignos de
+confiança do que os de qualquer outra?”;
+e) “A sabedoria não pode ser transmitida. A sabedoria que um sábio tenta transmitir soa mais como
+loucura”.
+
+                                                Vozes verbais
+Questão 07
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Um texto de divulgação de um novo romance diz o seguinte:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               20
+        www.estrategiaconcursos.com.br                                                                        39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+“Um homem acorda gravemente ferido no meio de um lixão. Ao que parece, tentaram matá-lo, mas ele não
+se recorda dos fatos que o levaram até ali. Muito menos de seu passado recente. Seria dado como
+desaparecido, se houvesse alguém para sentir sua falta. Essa dolorosa ausência imperceptível é a brecha
+para dar vazão à sua revolta com o mundo contemporâneo e começar uma nova vida. Entre seus planos:
+executar criminosos intocados pela Justiça e escrever um best-seller. Mas uma paixão verdadeira e
+arrebatadora coloca tudo em xeque”.
+
+(Época, 14/01/2019, p. 37)
+
+
+O segmento do texto em que a forma de apassivação é INADEQUADA é:
+a) “Um homem acorda gravemente ferido” / Um homem é acordado gravemente ferido;
+b) “para sentir sua falta” / para sua falta ser sentida;
+c) “para dar vazão” / para ser dada vazão”;
+d) “começar uma nova vida” / uma nova vida ser começada;
+e) "executar criminosos” / criminosos serem executados.
+
+                                                 Vozes verbais
+Questão 09
+FGV - Analista Judiciário (TJ AL)/Oficial de Justiça Avaliador/2018
+
+
+Texto - A Copa do Mundo da Rússia só começa no dia 22 de junho, mas a febre dos álbuns com os jogadores
+das seleções já se espalhou e chegou até ao plenário de uma assembleia legislativa brasileira. O flagrante
+de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a cena se
+espalhou.
+No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados, mas a direção da casa esclareceu tratarem-se de assessores. “Votação
+importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao salário superior a
+25 mil reais, estão trocando e colando figurinha da Copa do Mundo em meio à votação. Se eu falasse,
+ninguém acreditaria”, diz o post.
+Outro post com mais de 40 mil compartilhamentos traz um vídeo mostrando que a troca ocorreu enquanto
+uma deputada discursava sobre uma proposta.
+A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão da quarta feira e
+esclareceu que elas mostram dois “assessores de deputados” trocando figurinhas durante a sessão. “O
+comportamento não é justificável. Os gabinetes dos deputados aos quais os assessores pertencem, já foram
+informados, e cabe aos parlamentares decidir como proceder”. (adaptado)
+
+
+“O flagrante de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a
+cena se espalhou”.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                              21
+         www.estrategiaconcursos.com.br                                                                        39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+O segmento “foi divulgado pelas redes sociais” do texto é exemplo de voz passiva; se a mesma frase fosse
+colocada na voz ativa, a forma verbal adequada seria:
+a) divulgaram;
+b) divulgaram-se;
+c) divulgou-se;
+d) divulgam-se;
+e) divulga-se.
+
+                                                Vozes verbais
+Questão 09
+FGV - Recenseador (IBGE)/2017
+
+
+ANIMAIS, NOSSOS IRMÃOS
+
+“Desde o início da vida no planeta Terra, muitas são as espécies animais que foram extintas por vários
+motivos.
+
+Atualmente, quando se mencionam ‘espécies em extinção’, afloram as várias atividades humanas que as
+provocaram, ou estão provocando.
+
+Dentre essas ações, as principais talvez sejam:
+
+I) a caça predatória de animais de grande porte e de alguns animais menores; todos esses animais, de uma
+forma ou de outra, rendem expressivos lucros;
+
+II) a descuidada aplicação dos chamados ‘defensivos agrícolas’ ou agrotóxicos, desestabilizando
+completamente o ecossistema;
+
+III) as grandes tragédias provocadas também pela incúria humana como os incêndios florestais e
+derramamento de petróleo cru nos mares;
+
+IV) o desmatamento de grandes áreas, fator de cruel desalojamento dos habitats de incontáveis espécies
+animais”.
+(Eurípedes Kuhl)
+
+A frase abaixo (texto 4) que mostra uma voz verbal diferente das demais é:
+a) “...desestabilizando completamente o ecossistema”;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               22
+        www.estrategiaconcursos.com.br                                                                     39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+b) “...afloram as várias atividades humanas que as provocaram, ou estão provocando”;
+c) “Dentre essas ações, as principais talvez sejam...”;
+d) “... todos esses animais, de uma forma ou de outra, rendem expressivos lucros”;
+e) “Atualmente, quando se mencionam ‘espécies em extinção’...”.
+
+                                Concordância verbal (verbo haver)
+Questão 10
+FGV - Auxiliar (Pref. Salvador)/Desenvolvimento Infantil/2017
+
+
+Diz a lenda que, na Bahia, em meados da década de 60 do século passado, havia um menino que, além de
+muito levado, era também muito mentiroso, e que, certo dia, após aprontar muito na sala de aula, foi
+colocado de castigo no porão da escola por sua professora.
+Depois de certo tempo, o menino começou a gritar desesperadamente que havia uma cobra com ele, mas,
+como ele era muito mentiroso, ninguém levou a sério. Dizem que seria uma enorme sucuri, que devorou o
+garoto depois de matá-lo por esmagamento; há versões que dizem até que, quando a professora entrou no
+porão, ainda pôde ver o pé do menino desaparecendo na boca da cobra.
+A partir dessa trágica data, o fantasma do menino passou a assombrar os porões de diversas escolas.
+
+
+Se colocarmos a frase “havia um menino” no plural, a forma correta será
+a) “haviam uns meninos”.
+b) “haviam meninos”.
+c) “haviam os meninos”.
+d) “havia os meninos”.
+e) “havia uns meninos”.
+
+
+Questão 11
+FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+
+“Os policiais militares são os primeiros a chegar ao local do crime, para isolar a área e preservar as provas”;
+nesse segmento do texto 2, as formas verbais “isolar” e “preservar” poderiam também aparecer no plural
+“isolarem” e “preservarem”.
+
+
+A frase abaixo em que há dupla possibilidade de concordância do termo destacado é:
+A. Quem inventou o trabalho não tinha o que fazer;
+B. Só quem é superficial conhece a si mesmo;
+C. Uma descoberta consiste em ver o que todo mundo já viu e pensar o que ninguém pensou;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  23
+        www.estrategiaconcursos.com.br                                                                            39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+D. A família é um conjunto de pessoas que se defendem em bloco e se atacam em particular;
+E. Originalidade é a arte de esconder suas fontes.
+
+7 – LISTA DE QUESTÕES COMENTADAS
+                                           Concordância nominal
+Questão 01
+FGV - Técnico Médio da Defensoria (DPE RJ)/2019
+
+
+“Em linhas gerais a arquitetura brasileira sempre conservou a boa tradição da arquitetura portuguesa. De
+Portugal, desde o descobrimento do Brasil, vieram para aqui os fundamentos típicos da arquitetura colonial.
+Não se verificou, todavia, uma transplantação integral de gosto e de estilo, porque as novas condições de
+vida em clima e terras diferentes impuseram adaptações e mesmo improvisações que acabariam por dar à
+do Brasil uma feição um tanto diferente da arquitetura genuinamente portuguesa ou de feição portuguesa.
+E como arquitetura portuguesa, nesse caso, cumpre reconhecer a de característica ou de estilo barroco”.
+(Luís Jardim, Arquitetura brasileira. Cultura, SP: 1952)
+
+
+No texto há uma série de adjetivos que se referem a substantivos e com eles concordam; a opção em que
+essa relação de concordância está errada é:
+a) integral / transplantação;
+b) novas / condições;
+c) terras / diferentes;
+d) diferente / feição;
+e) barroco / característica ou estilo.
+Comentário:
+Analisando cada alternativa no seu contexto correspondente em busca da concordância nominal incorreta,
+temos:
+A - integral / transplantação
+Em “Não se verificou, todavia, uma transplantação integral...”, a concordância entre o nome
+“transplantação” e o adjetivo “integral” está correta.
+B - novas / condições
+No fragmento “...porque as novas condições de vida...”, o adjetivo “novas” está concordando corretamente
+com “condições”.
+C - terras / diferentes
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                              24
+         www.estrategiaconcursos.com.br                                                                       39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Visto que o enunciado da questão solicita a alternativa em que a relação de concordância não está correta,
+concluímos que a letra C é o gabarito. Isso porque, apesar de a concordância entre “diferentes” e “terras”
+estar correta, o adjetivo não concorda somente com “terras”, no trecho “...novas condições de vida em clima
+e terras diferentes...”, o adjetivo “diferentes” está grafado no plural para concordar com dois referentes:
+”clima” e “terras”.
+D - diferente / feição
+No trecho “...dar à do Brasil uma feição um tanto diferente...”, notamos que a relação de concordância entre
+“diferente” e “feição” é correta.
+E – barroco / característica ou estilo
+No excerto “E como arquitetura portuguesa, nesse caso, cumpre reconhecer a de característica ou de estilo
+barroco”, o termo “barroco” concorda com dois elementos: “característica” e “estilo”. Diferentemente do
+que ocorreu na alternativa C, em que o elemento entre os dois referentes nominais do adjetivo “diferentes”
+é o “e”, que expressa ideia de adição, situação em que a concordância deve ser feita obrigatoriamente com
+os dois substantivos, aqui o elemento que liga os referentes no contexto é “ou”, que expressa alternância.
+Isso significa que “barroco” concorda alternadamente com “característica” e com “estilo”. A dúvida surge
+porque a primeira ideia é de que ele deveria estar no plural, mas, quando se tem um adjetivo posposto se
+referindo a mais de um substantivo, tal adjetivo pode concordar tanto com todos eles, sendo grafado no
+masculino plural se houver substantivos de gêneros diferentes, ou com apenas o mais próximo, como
+ocorreu nesse caso.
+Gabarito: C
+
+                                           Concordância verbal
+Questão 02
+FGV - Contador (SEFIN RO)/2018
+
+
+Texto – Do que as pessoas têm medo?
+
+
+A geração pós-1980 e início de 1990 só conhece os tempos militares pelos livros de História e pelas séries da
+TV. Para a maioria dela, as palavras “democracia” e “liberdade” têm sentido diferente daquele para quem
+conheceu a falta desses direitos e as consequências de brigar por eles. Se hoje é possível existir redes sociais;
+se é possível que pessoas se organizem em grupos ou movimentos e digam ou escrevam o que querem e o
+que pensam, devem-se essas prerrogativas a quem no passado combateu as arbitrariedades de uma
+ditadura violenta, a custo muito alto.
+A liberdade não é um benefício seletivo. Não existe numa sociedade quando alguns indivíduos têm mais
+liberdade que outros, ou quando a de uns se sobrepõe à de outros.
+É fundamental para a evolução das sociedades compreender que o status quo das culturas está sempre se
+modificando, e que todas as modificações relacionadas aos costumes de cada época precisaram quebrar
+paradigmas que pareciam imutáveis. Foi assim com a conquista do voto da mulher, com a trajetória até o
+divórcio e para que a “desquitada” deixasse de ser discriminada. Foi assim, também, com outros costumes:
+o comprimento das saias, a introdução do biquíni, a inclusão racial, as famílias constituídas por união
+estável, o primeiro beijo na TV e tantas outras mudanças que precisaram vencer os movimentos
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                    25
+        www.estrategiaconcursos.com.br                                                                              39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+conservadores até conseguirem se estabelecer. Hoje, ninguém se importa em ver um casal se beijando
+numa novela (desde que o casal seja formado por um homem e uma mulher). Há pouco mais de 60 anos, o
+primeiro beijo na TV, comportado, um encostar de lábios, foi um escândalo para a época.
+A questão do momento é se existe limite para a expressão da arte.
+Simone Kamenetz, O Globo, 18/10/2017. (Adaptado)
+
+
+Apesar de bem escrito, o primeiro parágrafo do texto apresenta uma incorreção, segundo a norma padrão.
+
+Assinale a opção que a apresenta.
+a) O segmento “Para a maioria dela” deveria ser substituído por “Para a maioria delas”.
+b) O segmento “têm sentido diferente” deveria ser substituído por “têm sentidos diferentes”.
+c) O segmento “a falta desses direitos” deveria ser substituído por “a falta desse direito”.
+d) O segmento “É possível existir” deveria ser substituído por “É possível existirem”.
+e) O segmento “devem-se essas prerrogativas” deveria ser substituído por “deve-se essas prerrogativas”.
+Comentário:
+Analisando cada alternativa e seu contexto em busca da que apresenta erro na concordância, temos:
+A - O segmento “Para a maioria dela” deveria ser substituído por “Para a maioria delas”.
+Incorreta – no trecho “A geração pós-1980 e início de 1990 só conhece os tempos militares pelos livros de
+História e pelas séries da TV. Para a maioria dela...”, o pronome “dela” está retomando e concordando com
+“geração”, que consta na frase anterior, portanto, não deve ser grafado no plural.
+B - O segmento “têm sentido diferente” deveria ser substituído por “têm sentidos diferentes”.
+Incorreta – em “as palavras ‘democracia’ e ‘liberdade’ têm sentido diferente daquele para quem conheceu a
+falta desses direitos e as consequências de brigar por eles”, o fragmento analisado está correto. Caso tal
+segmento fosse grafado no plural, o termo “daquele”, que retoma “sentido”, também teria que ser grafado
+no plural. Por conta disso, o segmento grafado no plural no contexto do texto é inadequado.
+C - O segmento “a falta desses direitos” deveria ser substituído por “a falta desse direito”.
+Incorreta – em “as palavras ‘democracia’ e ‘liberdade’ têm sentido diferente daquele para quem conheceu a
+falta desses direitos”, a expressão “desses direito” está grafada corretamente no plural porque retoma os
+dois direitos citados anteriormente no período: “democracia” e “liberdade”.
+D - O segmento “É possível existir” deveria ser substituído por “É possível existirem”.
+CORRETA – o segmento “É possível existir” deveria sim estar grafado com o verbo no plural porque, no
+excerto “Se hoje é possível existir redes sociais”, ele deveria concordar com “redes sociais”, que é o seu
+sujeito.
+Para entendermos isso melhor, precisamos perceber que o trecho “existir redes sociais” é uma oração
+reduzida de infinitivo que é o sujeito de “é possível”. Quando a transformamos em oração desenvolvida
+visualizamos melhor que faltou que o verbo concordasse com o sujeito: Se hoje é possível que existam redes
+sociais.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                 26
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+E - O segmento “devem-se essas prerrogativas” deveria ser substituído por “deve-se essas prerrogativas”.
+Incorreta – no excerto “...se é possível que pessoas se organizem em grupos ou movimentos e digam ou
+escrevam o que querem e o que pensam, devem-se essas prerrogativas a quem no passado combateu as
+arbitrariedades de uma ditadura violenta, a custo muito alto”, comprovamos que o verbo “devem-se” está
+grafado no plural para concordar com o seu sujeito: “essas prerrogativas”, já que não observamos relação
+de concordância entre ele e outro elemento no contexto. Portanto, se tal verbo for grafado no singular,
+haverá incorreção
+Gabarito: D
+
+
+                                           Concordância verbal
+Questão 03
+FGV - Analista Judiciário (TJ AL)/Oficial de Justiça Avaliador/2018
+
+
+Texto - A Copa do Mundo da Rússia só começa no dia 22 de junho, mas a febre dos álbuns com os jogadores
+das seleções já se espalhou e chegou até ao plenário de uma assembleia legislativa brasileira. O flagrante
+de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a cena se
+espalhou.
+No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados, mas a direção da casa esclareceu tratarem-se de assessores. “Votação
+importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao salário superior a
+25 mil reais, estão trocando e colando figurinha da Copa do Mundo em meio à votação. Se eu falasse,
+ninguém acreditaria”, diz o post.
+Outro post com mais de 40 mil compartilhamentos traz um vídeo mostrando que a troca ocorreu enquanto
+uma deputada discursava sobre uma proposta.
+A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão da quarta feira e
+esclareceu que elas mostram dois “assessores de deputados” trocando figurinhas durante a sessão. “O
+comportamento não é justificável. Os gabinetes dos deputados aos quais os assessores pertencem, já foram
+informados, e cabe aos parlamentares decidir como proceder”. (adaptado)
+
+
+O segmento do texto em que há um erro gramatical na forma verbal sublinhada é:
+a) “No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados,...”;
+b) “...mas a direção da casa esclareceu tratarem-se de assessores”;
+c) “Votação importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao
+salário superior a 25 mil reais...”;
+d) “...estão trocando e colando figurinha da Copa do Mundo em meio à votação”;
+e) “Se eu falasse, ninguém acreditaria”, diz o post.
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                27
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+A - incorreta - não há erro gramatical, a concordância de “seriam” é feita corretamente com o termo
+“assessores”, que consta no parágrafo anterior, no trecho: “O flagrante de dois assessores trocando
+figurinhas...”
+B – CORRETA – no fragmento analisado, o verbo “tratarem-se” deveria ser grafado no singular trata-se
+porque, no contexto, ele é impessoal, ou seja, não tem sujeito. O termo “de assessores” é o objeto indireto
+do verbo. Quando um verbo transitivo indireto é acompanhado de partícula “se”, temos um caso de sujeito
+indeterminado. Sendo assim, há erro gramatical de concordância no trecho analisado.
+C – incorreta – não há erro gramatical, o verbo “estarem” está concordando corretamente com “deputados”.
+D – incorreta – no trecho: “...os deputados ao invés de estarem trabalhando e fazendo jus ao salário superior
+a 25 mil reais, estão trocando e colando figurinha da Copa do Mundo em meio à votação”, o verbo “estão”
+concorda corretamente com “deputados”.
+E – incorreta – o verbo “acreditaria” está correto, pois concorda com “ninguém”.
+Gabarito: B
+
+
+                               Concordância verbal (porcentagem)
+Questão 04
+FGV - Advogado (ALERO)/2018
+
+
+Dado Preocupante
+
+
+No primeiro semestre deste ano, 80 mil alunos deixaram de ingressar em faculdades particulares de todo o
+país, o que representa uma queda de 5% em relação ao mesmo período de 2017. Desde 2015, a fuga de
+ingressantes é de 20%. Juntos, Rio, Minas e Espírito Santo tiveram redução de 25,7% no número de calouros.
+O levantamento foi feito pelo Sindicato das Mantenedoras de Ensino Superior (Semesp) com 99
+instituições. Desemprego, queda de renda, crise econômica, redução dos programas de financiamento
+estudantil são as razões apontadas pelo Semesp para a diminuição de matrículas. No Rio, a violência agrava
+o problema, porque desestimula quem estuda à noite. (adaptado)
+O Globo, 24/07/2018
+
+
+Assinale a frase a seguir em que a concordância verbal com porcentagens está incorreta.
+a) 25,7% do total de calouros se matricularam.
+b) 30% da imprensa mostraram esse mesmo dado.
+c) 1,7% do jornal se ocuparam dessa notícia.
+d) 5,8% do público leitor comentou os dados fornecidos.
+e) 1,3% dos leitores se interessaram pela notícia.
+Comentário:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                28
+        www.estrategiaconcursos.com.br                                                                          39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Para lembrar, a concordância com porcentagem pode ocorrer de duas maneiras:
+- com o numeral
+- com o complemento do numeral
+Agora vejamos as alternativas em busca da concordância verbal incorreta:
+A - 25,7% do total de calouros se matricularam.
+O verbo “matricularam” está concordando corretamente com o numeral.
+B - 30% da imprensa mostraram esse mesmo dado.
+O verbo “mostraram” está também concordando corretamente com o numeral.
+C - 1,7% do jornal se ocuparam dessa notícia.
+INCORRETA – o verbo “ocuparam” deveria estar grafado no singular para concordar com o numeral, que no
+caso é 1, ou com o substantivo “jornal”.
+D - 5,8% do público leitor comentou os dados fornecidos.
+Aqui o verbo “comentou” está concordando com o substantivo “público”.
+E - 1,3% dos leitores se interessaram pela notícia.
+O verbo “interessaram” está concordando corretamente com o substantivo “leitores”.
+Gabarito: C
+
+
+                                          Concordância nominal
+Questão 05
+FGV - Analista Legislativo (ALERO)/Redação e Revisão/2018
+
+
+Em todas as frases a seguir foram sublinhados o adjetivo e o termo substantivo a que ele se refere e com
+que concorda; assinale a frase em que essa referência está indicada corretamente.
+a) “Ser marido é um trabalho de tempo integral.”
+b) “A cachaça de Minas é das mais saborosas do país.”
+c) “Os maridos das mulheres de que gostamos são sempre uns imbecis.”
+d) “É preciso realmente que um homem morra para que outros possam apurar o seu justo valor.”
+e) “Há quem esteja disposto a morrer para fazer com que morram os seus inimigos.”
+Comentário:
+Buscamos entre as alternativas aquela em que a concordância nominal está correta. Vejamos então:
+A - “Ser marido é um trabalho de tempo integral.”
+Incorreta – o termo “integral” concorda com “tempo” e não com “trabalho”.
+B - “A cachaça de Minas é das mais saborosas do país.”
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               29
+        www.estrategiaconcursos.com.br                                                                     39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Incorreta - adjetivo “saborosas” concorda com a expressão “das mais” e não com “cachaça”.
+C - “Os maridos das mulheres de que gostamos são sempre uns imbecis.”
+Incorreta – “imbecis” concorda com “maridos” e não com “mulheres”.
+D - “É preciso realmente que um homem morra para que outros possam apurar o seu justo valor.”
+Incorreta – o adjetivo “justo” está concordando com “valor” e não com “homem”.
+E - “Há quem esteja disposto a morrer para fazer com que morram os seus inimigos.”
+CORRETA – o termo “disposto” está grafado no singular concordando corretamente com “quem”, que é o
+seu sujeito.
+Gabarito: E
+
+
+                                                Vozes verbais
+Questão 06
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Uma revista de Educação mostrava o seguinte segmento:
+
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular, obrigando os alunos a decorar fórmulas matemáticas, afluentes de rios ou a
+morfologia dos insetos para ter depois seus conhecimentos testados e avaliados por notas que não
+diferenciam as vocações ou interesses individuais. É uma avaliação cruel, que prioriza a inteligência da
+decoreba ao invés da inteligência criativa”.
+“Os modelos pedagógicos de nossas escolas ainda são muito mais direcionados ao ensino teórico para
+passar no funil do vestibular...”; esse segmento mostra uma forma de voz passiva - “são direcionados” - sem
+que haja menção do agente dessa ação.
+
+O pensamento abaixo em que há uma forma de voz passiva com a indicação do agente é:
+a) “A natureza só é comandada se é obedecida”;
+b) “Dada a causa, a natureza produz o efeito no modo mais breve em que pode ser produzido”;
+c) “O mundo será julgado pelas crianças. O espírito da infância julgará o mundo”;
+d) “Existe alguma religião cujos fiéis possam ser apontados como nitidamente mais amáveis e dignos de
+confiança do que os de qualquer outra?”;
+e) “A sabedoria não pode ser transmitida. A sabedoria que um sábio tenta transmitir soa mais como
+loucura”.
+Comentário:
+Só lembrando, a voz passiva ocorre de duas maneiras:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              30
+        www.estrategiaconcursos.com.br                                                                        39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+- com o verbo na terceira pessoa, no tempo verbal do contexto, acompanhado da partícula apassivadora,
+caracterizando a voz passiva sintética.
+- com locução verbal formada por verbo auxiliar ser, no tempo verbal do contexto, mais verbo transitivo no
+particípio, o que caracteriza a voz passiva analítica.
+Com a voz passiva analítica é mais comum aparecer o agente da passiva, que é quem pratica a ação indicada
+pelo verbo, o que não ocorre na voz passiva sintética.
+Vejamos as alternativas:
+A - “A natureza só é comandada se é obedecida”
+Opção incorreta - Nesse segmento observamos que há voz passiva analítica, mas não há o agente da
+passiva. O verbo obedecer assim como desobedecer são exceções à regra de que a voz passiva somente
+ocorre com verbos transitivos diretos ou bitransitivo, ambos são transitivos indiretos, mas aceitam a
+apassivação.
+B - “Dada a causa, a natureza produz o efeito no modo mais breve em que pode ser produzido”
+Opção incorreta – no final da frase, observamos uma estrutura em voz passiva “pode ser produzido”, mas
+também não está explícito o agente da passiva. O outro verbo da frase “produz” está na voz ativa.
+C - “O mundo será julgado pelas crianças. O espírito da infância julgará o mundo”
+OPÇÃO CORRETA – a primeira frase está na voz passiva com a formação verbal “será julgado” e possui o
+agente da passiva “pelas crianças”. Na oração seguinte, o verbo está na voz ativa.
+D - “Existe alguma religião cujos fiéis possam ser apontados como nitidamente mais amáveis e dignos de
+confiança do que os de qualquer outra?”
+Opção incorreta – a estrutura “possam ser apontados” está na voz passiva, mas também não está
+especificado, no contexto, quem apontaria.
+E - “A sabedoria não pode ser transmitida. A sabedoria que um sábio tenta transmitir soa mais como
+loucura”
+Opção incorreta – na primeira oração, a locução “pode ser transmitida” está na voz passiva, mas sem o
+agente.
+Devemos ser cuidadosos, porém, com essa alternativa porque o sentido da segunda oração é parecido com
+o da primeira e nela aparece uma expressão que poderia ser considerada como o agente da passiva: “um
+sábio”. Alguém desatento poderia fazer uma junção mental das duas frases e marcar essa alternativa como
+correta indevidamente.
+Gabarito: C
+
+
+                                                Vozes verbais
+Questão 07
+FGV - Técnico Superior Especializado (DPE RJ)/Administração de Empresas/2019
+
+
+Um texto de divulgação de um novo romance diz o seguinte:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             31
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+“Um homem acorda gravemente ferido no meio de um lixão. Ao que parece, tentaram matá-lo, mas ele não
+se recorda dos fatos que o levaram até ali. Muito menos de seu passado recente. Seria dado como
+desaparecido, se houvesse alguém para sentir sua falta. Essa dolorosa ausência imperceptível é a brecha
+para dar vazão à sua revolta com o mundo contemporâneo e começar uma nova vida. Entre seus planos:
+executar criminosos intocados pela Justiça e escrever um best-seller. Mas uma paixão verdadeira e
+arrebatadora coloca tudo em xeque”.
+
+(Época, 14/01/2019, p. 37)
+
+
+O segmento do texto em que a forma de apassivação é INADEQUADA é:
+a) “Um homem acorda gravemente ferido” / Um homem é acordado gravemente ferido;
+                                                        ==219a34==
+
+b) “para sentir sua falta” / para sua falta ser sentida;
+c) “para dar vazão” / para ser dada vazão”;
+d) “começar uma nova vida” / uma nova vida ser começada;
+e) "executar criminosos” / criminosos serem executados.
+Comentário:
+Vale lembrar que o objeto direto do verbo na voz ativa será o sujeito do verbo na voz passiva.
+Vejamos as alternativas:
+A - “Um homem acorda gravemente ferido” / Um homem é acordado gravemente ferido
+INADEQUADA – Atenção ao enunciado! Aqui a segunda oração está na voz passiva, porém ela não é a
+apassivação da primeira, uma vez que o sujeito de ambas é o mesmo. Não há como apassivar a primeira
+oração porque o verbo “acorda” é intransitivo.
+B - “para sentir sua falta” / para sua falta ser sentida
+Correta – verbo “sentir” é transitivo direto e o objeto “sua falta” é o sujeito da oração na voz passiva.
+C - “para dar vazão” / para ser dada vazão”
+Correta – verbo “dar” é bitransitivo e o seu objeto direto “vazão” é o sujeito da oração na voz passiva.
+D - “começar uma nova vida” / uma nova vida ser começada
+Correta – verbo “começar” é transitivo direto e o objeto “uma nova vida” é o sujeito da oração na voz passiva.
+E - "executar criminosos” / criminosos serem executados.
+Correta – verbo “executar” é transitivo direto e o objeto “criminosos” é o sujeito da oração na voz passiva.
+Gabarito: A
+
+
+                                                 Vozes verbais
+Questão 09
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Português                                    32
+         www.estrategiaconcursos.com.br                                                                          39
+                                     
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+FGV - Analista Judiciário (TJ AL)/Oficial de Justiça Avaliador/2018
+
+
+Texto - A Copa do Mundo da Rússia só começa no dia 22 de junho, mas a febre dos álbuns com os jogadores
+das seleções já se espalhou e chegou até ao plenário de uma assembleia legislativa brasileira. O flagrante
+de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a cena se
+espalhou.
+No post, que teve mais de 16 mil compartilhamentos e 26 mil curtidas no Twitter, o internauta chega a
+especular que seriam deputados, mas a direção da casa esclareceu tratarem-se de assessores. “Votação
+importante hoje (19/02) e os deputados ao invés de estarem trabalhando e fazendo jus ao salário superior a
+25 mil reais, estão trocando e colando figurinha da Copa do Mundo em meio à votação. Se eu falasse,
+ninguém acreditaria”, diz o post.
+Outro post com mais de 40 mil compartilhamentos traz um vídeo mostrando que a troca ocorreu enquanto
+uma deputada discursava sobre uma proposta.
+A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão da quarta feira e
+esclareceu que elas mostram dois “assessores de deputados” trocando figurinhas durante a sessão. “O
+comportamento não é justificável. Os gabinetes dos deputados aos quais os assessores pertencem, já foram
+informados, e cabe aos parlamentares decidir como proceder”. (adaptado)
+
+
+“O flagrante de dois assessores trocando figurinhas durante uma sessão foi divulgado pelas redes sociais e a
+cena se espalhou”.
+
+
+O segmento “foi divulgado pelas redes sociais” do texto é exemplo de voz passiva; se a mesma frase fosse
+colocada na voz ativa, a forma verbal adequada seria:
+a) divulgaram;
+b) divulgaram-se;
+c) divulgou-se;
+d) divulgam-se;
+e) divulga-se.
+Comentário:
+O enunciado da questão solicita que passemos o fragmento de texto da voz passiva para ativa, o que ocorre
+pegando o sujeito e o agente da passiva e passando-os, respectivamente, a objeto direto e sujeito do verbo
+na ativa.
+Em “foi divulgado pelas redes sociais”, temos:
+- foi divulgado = locução verbal na voz passiva (no tempo pretérito).
+- pelas redes sociais = agente da passiva (será o sujeito)
+- no fragmento não há o sujeito do verbo, mas no contexto o encontramos: “O flagrante de dois assessores
+(...) uma sessão” (será o objeto direto)
+Então a oração da voz ativa é: As redes sociais divulgaram o flagrante de dois assessores (...) uma sessão”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                   33
+        www.estrategiaconcursos.com.br                                                                         39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+A alternativa que contém o verbo correto é a letra A.
+Gabarito: A
+
+                                                Vozes verbais
+Questão 09
+FGV - Recenseador (IBGE)/2017
+
+
+ANIMAIS, NOSSOS IRMÃOS
+
+“Desde o início da vida no planeta Terra, muitas são as espécies animais que foram extintas por vários
+motivos.
+
+Atualmente, quando se mencionam ‘espécies em extinção’, afloram as várias atividades humanas que as
+provocaram, ou estão provocando.
+
+Dentre essas ações, as principais talvez sejam:
+
+I) a caça predatória de animais de grande porte e de alguns animais menores; todos esses animais, de uma
+forma ou de outra, rendem expressivos lucros;
+
+II) a descuidada aplicação dos chamados ‘defensivos agrícolas’ ou agrotóxicos, desestabilizando
+completamente o ecossistema;
+
+III) as grandes tragédias provocadas também pela incúria humana como os incêndios florestais e
+derramamento de petróleo cru nos mares;
+
+IV) o desmatamento de grandes áreas, fator de cruel desalojamento dos habitats de incontáveis espécies
+animais”.
+(Eurípedes Kuhl)
+
+A frase abaixo (texto 4) que mostra uma voz verbal diferente das demais é:
+a) “...desestabilizando completamente o ecossistema”;
+b) “...afloram as várias atividades humanas que as provocaram, ou estão provocando”;
+c) “Dentre essas ações, as principais talvez sejam...”;
+d) “... todos esses animais, de uma forma ou de outra, rendem expressivos lucros”;
+e) “Atualmente, quando se mencionam ‘espécies em extinção’...”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                             34
+        www.estrategiaconcursos.com.br                                                                     39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Comentário:
+As vozes do verbo podem ser: ativa, passiva e reflexiva.
+Vamos analisar as alternativas procurando aquela que apresenta voz verbal diferente das demais:
+A - “...desestabilizando completamente o ecossistema”
+O verbo “desestabilizando” está grafado no gerúndio e está na voz ativa.
+B - “...afloram as várias atividades humanas que as provocaram, ou estão provocando”
+As formas verbais “provocaram” e “estão provocando” estão grafadas em tempos verbais diferentes
+(pretérito e presente contínuo), mas estão na voz ativa.
+C - “Dentre essas ações, as principais talvez sejam...”
+O verbo “sejam” também está na voz ativa.
+D - “... todos esses animais, de uma forma ou de outra, rendem expressivos lucros”
+A forma verbal “rendem”, assim como as demais até aqui, está na voz ativa.
+E - “Atualmente, quando se mencionam ‘espécies em extinção’...”.
+CORRETA – aqui verificamos que a expressão verbal “se mencionam” está na voz passiva sintética, cujo
+sujeito é “espécies em extinção”.
+Gabarito: E
+
+
+                                Concordância verbal (verbo haver)
+Questão 10
+FGV - Auxiliar (Pref. Salvador)/Desenvolvimento Infantil/2017
+
+
+Diz a lenda que, na Bahia, em meados da década de 60 do século passado, havia um menino que, além de
+muito levado, era também muito mentiroso, e que, certo dia, após aprontar muito na sala de aula, foi
+colocado de castigo no porão da escola por sua professora.
+Depois de certo tempo, o menino começou a gritar desesperadamente que havia uma cobra com ele, mas,
+como ele era muito mentiroso, ninguém levou a sério. Dizem que seria uma enorme sucuri, que devorou o
+garoto depois de matá-lo por esmagamento; há versões que dizem até que, quando a professora entrou no
+porão, ainda pôde ver o pé do menino desaparecendo na boca da cobra.
+A partir dessa trágica data, o fantasma do menino passou a assombrar os porões de diversas escolas.
+
+
+Se colocarmos a frase “havia um menino” no plural, a forma correta será
+a) “haviam uns meninos”.
+b) “haviam meninos”.
+c) “haviam os meninos”.
+d) “havia os meninos”.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                          35
+        www.estrategiaconcursos.com.br                                                                  39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+e) “havia uns meninos”.
+Comentário:
+As opções “haviam uns meninos”; “haviam meninos” e “haviam os meninos” (letras A, B e C,
+respectivamente) estão incorretas porque sabemos que o verbo haver, nesse contexto em que tem sentido
+de existir: existia um menino, é impessoal, não tem sujeito, portanto é grafado na terceira pessoa do
+singular: “havia”. A expressão “um menino” é o objeto direto do referido verbo.
+Quanto às alternativa D e E: “havia os meninos” e “havia uns meninos”. A primeira está incorreta porque o
+artigo “os” é definido, enquanto que o empregado no trecho do enunciado é indefinido “um”. Sendo assim,
+a opção E é a correta porque todos os termos estão grafados corretamente no plural.
+Gabarito: E
+
+
+Questão 11
+FGV - 2022 - PC-RJ - Investigador Policial de 3ª Classe
+
+
+“Os policiais militares são os primeiros a chegar ao local do crime, para isolar a área e preservar as provas”;
+nesse segmento do texto 2, as formas verbais “isolar” e “preservar” poderiam também aparecer no plural
+“isolarem” e “preservarem”.
+
+
+A frase abaixo em que há dupla possibilidade de concordância do termo destacado é:
+A. Quem inventou o trabalho não tinha o que fazer;
+B. Só quem é superficial conhece a si mesmo;
+C. Uma descoberta consiste em ver o que todo mundo já viu e pensar o que ninguém pensou;
+D. A família é um conjunto de pessoas que se defendem em bloco e se atacam em particular;
+E. Originalidade é a arte de esconder suas fontes.
+Comentário: a questão pede a indicação da construção cujo verbo destacado admita dupla concordância:
+A) Quem inventou o trabalho não tinha o que fazer;
+Incorreta. A concordância verbal deve ser com o pronome "quem", portanto, permanece obrigatoriamente
+o verbo em forma singular;
+B) Só quem é superficial conhece a si mesmo;
+Incorreta. O pronome "quem" atua como sujeito (aquele que), inexistindo possibilidade de concordância
+plural;
+C) Uma descoberta consiste em ver o que todo mundo já viu e pensar o que ninguém pensou;
+Incorreta. O sujeito da forma verbal "viu" é a construção "todo mundo", expressão coletiva singular que não
+admite concordância plural. A forma singular não poderá ser substituída sem alteração do sujeito;
+D) A família é um conjunto de pessoas que se defendem em bloco e se atacam em particular;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                  36
+        www.estrategiaconcursos.com.br                                                                            39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Correta. O sujeito da forma verbal "defendem" é a construção "um conjunto de pessoas", podendo a
+concordância ocorrer no singular com o núcleo do sujeito "conjunto" ou no plural com o adjunto adnominal
+"de pessoas".
+E) Originalidade é a arte de esconder suas fontes.
+Incorreta. O verbo "esconder" atua como parte do complemento nominal de "arte", não possuindo sujeito
+(é simples indicação de ação impessoal). Não há possibilidade, por ausência de sujeito, de pluralização do
+verbo.
+Gabarito: D
+
+8 – REVISÃO ESTRATÉGICA
+
+8.1 PERGUNTAS
+
+1. Conceitue concordância.
+2. Como se dá a concordância nominal?
+3. Cite 3 casos especiais que são exceções de concordância nominal.
+4. Como se dá a concordância verbal?
+5. Como funciona a concordância verbal em caso de o sujeito ser composto por pessoas diferentes?
+6. Em caso de sujeito composto posposto ao verbo, como funcionaria a concordância?
+7. Dentro dos casos especiais de concordância verbal, como funciona a concordância do verbo com o
+sujeito formado por substantivo coletivo, por núcleo fracionário ou percentual ou por núcleo partitivo?
+8. Com o verbo “ser”, como se dá a concordância?
+9. As vozes verbais são: voz ativa, voz passiva e voz reflexiva. Qual a diferença entre a voz passiva e a
+voz ativa?
+10. Qual é a diferença entre voz passiva e voz reflexiva?
+
+8.2 PERGUNTAS E RESPOSTAS
+
+1. Conceitue concordância.
+Concordância é o princípio sintático segundo o qual as palavras dependentes se combinam, nas suas flexões,
+com as palavras de que dependem. Ocorre quanto ao gênero e número (nos nomes), e pessoa e número
+(nos verbos).
+
+
+2. Como se dá a concordância nominal?
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                37
+        www.estrategiaconcursos.com.br                                                                       39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Com algumas exceções, artigo, adjetivo, pronome adjetivo e numeral concordam com o substantivo em
+gênero e número.
+
+
+3. Cite 3 casos especiais que são exceções de concordância nominal.
+- Quando dois ou mais adjetivos se referem a um substantivo, há duas concordâncias possíveis: o
+substantivo permanece no singular e coloca-se o artigo antes do último adjetivo; o substantivo vai para o
+plural e omite-se o artigo antes do adjetivo.
+- Quando o sujeito for composto e o adjetivo estiver posposto aos substantivos, o adjetivo vai para o plural
+(em caso de gêneros diferentes, permanece o masculino plural); mas se o adjetivo estiver anteposto aos
+substantivos, a concordância pode ser feita com o adjetivo no plural ou com o adjetivo concordando com o
+substantivo mais próximo.
+- Na concordância com a palavra “só”, se ela equivaler a “sozinho”, concordará com o nome a que se refere;
+se ela equivaler a “somente” ou “apenas”, terá função adverbial e será, portanto, invariável.
+
+
+4. Como se dá a concordância verbal?
+Em regra, o verbo concorda com o sujeito em número e pessoa.
+
+
+5. Como funciona a concordância verbal em caso de o sujeito ser composto por pessoas diferentes?
+Há uma ordem de prevalência: a 1ª pessoa prevalece sobre a 2ª e a 3ª e a 2ª pessoa prevalece sobre a 3ª.
+
+
+6. Em caso de sujeito composto posposto ao verbo, como funcionaria a concordância?
+O verbo poderá concordar no plural ou com o substantivo mais próximo a ele.
+
+
+7. Dentro dos casos especiais de concordância verbal, como funciona a concordância do verbo com o
+sujeito formado por substantivo coletivo, por núcleo fracionário ou percentual ou por núcleo partitivo?
+Nesses casos o verbo poderá concordar tanto com o termo coletivo, fracionário ou percentual (com o
+numeral) ou partitivo quanto com o adjunto adnominal que o acompanhar, permanecendo no singular ou
+indo para o plural.
+
+
+8. Com o verbo “ser”, como se dá a concordância?
+O verbo ser concordará com o predicativo do sujeito quando o sujeito for os pronomes isto, isso, aquilo,
+tudo. E é possível, também, a concordância do verbo com o sujeito-pronome no singular.
+
+
+9. As vozes verbais são: voz ativa, voz passiva e voz reflexiva. Qual a diferença entre a voz passiva e a
+voz ativa?
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                38
+        www.estrategiaconcursos.com.br                                                                         39
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Aula 04
+
+Na voz ativa o sujeito é o agente da ação expressa pelo verbo, já na voz passiva o sujeito é paciente, ou seja,
+ele sofre a ação expressa pelo verbo.
+
+
+10. Qual é a diferença entre voz passiva e voz reflexiva?
+Em ambas se emprega a partícula “se”, porém, na voz passiva, o sujeito é paciente da ação expressa pelo
+verbo enquanto que, na voz reflexiva, ele pratica e sofre a ação expressa pelo verbo, ou seja, ele é agente e
+paciente ao mesmo tempo da referida ação.
+
+
+Servidores, chegamos ao final de mais uma aula. Façam uma boa revisão dos conceitos vistos hoje
+para gabaritarem as provas de Língua Portuguesa.
+Na próxima aula, continuaremos avançando gradativamente, de modo a visitar cada tópico cobrado
+pelas bancas examinadoras. Estejam atentos aos percentuais estatísticos de cobrança para
+direcionarem seus estudos, ok?
+Forte abraço!
+
+
+Prof. Carlos Roberto
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                      39
+        www.estrategiaconcursos.com.br                                                                            39
+                                    
+
+
+---
+
+---

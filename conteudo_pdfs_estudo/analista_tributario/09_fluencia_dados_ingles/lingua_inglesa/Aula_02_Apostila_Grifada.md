@@ -1,0 +1,5735 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 02_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1)  Formação de Frases
+
+
+)  Substantivos                                                                                                                                                                              6
+
+3)  Artigos                                                                                                                                                                                 15
+)  Pronomes                                                                                                                                                                                22
+..............................................................................................................................................................................................
+
+)  Preposições                                                                                                                                                                             41
+
+6)  Resumo A1                                                                                                                                                                               52
+..............................................................................................................................................................................................
+
+)  Questões Comentadas (A1) e Textos Traduzidos FGV                                                                                                                                        55
+
+8)  Quadros de Vocabulários (A1) e Sinônimos FGV                                                                                                                                          120
+)  Lista de Questões (A1) FGV                                                                                                                                                            123
+..............................................................................................................................................................................................
+
+)   Resumo (A1) FGV                                                                                                                                                                     141
+
+
+---
+
+                        FORMAÇÃO DE FRASES
+
+Por que é importante estudar a Formação das Frases? A razão é que, a partir do momento que
+você entende como as frases são formadas, vai ficar mais fácil para você entender a ideia
+principal delas, e consequentemente interpretar corretamente o texto.
+
+
+Na Língua Inglesa as frases são formadas de diferentes tipos de palavras e cada tipo tem uma
+função específica na frase. Essas palavras são os substantivos (nouns), pronomes (pronouns),
+verbos (verbs), adjetivos (adjectives), advérbios (adverbs), preposições (prepositions), artigos
+(articles) e conjunções (conjunctions). A estrutura mais básica é a frase simples (the simple
+sentence). É uma frase que tem apenas uma oração independente (independent clause),
+também chamada de oração principal (main clause), contém um sujeito e um verbo (S + V) e às
+vezes um complemento, e expressa um pensamento completo.
+
+
+The sun goes down.
+O sol se põe.
+
+
+Sujeito – The sun
+Verbo – goes down
+
+
+As outras estruturas de frases são compostas do sujeito, verbo e um objeto direto ou indireto
+(ou ambos) ou um complemento do sujeito. A Sigla SVO indica que a frase é formada por
+sujeito + verbo + objeto, e SVC significa sujeito + verbo + complemento do sujeito ou
+complemento adverbial, ou outros.
+
+
+He gave the box to the woman.
+Ele deu a caixa para a mulher.
+
+
+Sujeito – He
+Verbo – gave (o que?)
+Objeto direto – the box (para quem?)
+Objeto indireto – to the woman
+
+
+---
+
+My students are friendly.
+Meus alunos são amigáveis.
+
+
+Sujeito – My students (They)
+Verbo TO BE (ser, estar) – are
+Complemento do sujeito – friendly
+
+                            Às vezes a frase é escrita na ordem indireta.
+
+At noon during the summer my grandma wants BBQ for lunch.
+Ao meio-dia durante o verão minha avó quer churrasco para o almoço.
+
+
+Complemento adverbial - at noon during the summer
+Sujeito – my grandma
+Verbo – wants
+Objeto direto – BBQ (barbecue ou barbeque)
+Complemento – for lunch
+
+
+Quando existe mais de uma oração independente em uma frase temos então a oração
+composta (the compound sentence). Para combiná-las em uma só frase são usadas as
+conjunções For-And-Nor-But-Or-Yet-So.
+
+
+The sun begins to descend and the temperature goes down.
+O sol começa a se pôr e a temperatura baixa.
+
+
+He gave the box to the girl, but she didn’t open it.
+Ele deu a caixa para a garota, mas ela não a abriu.
+
+
+My grandma wants BBQ, so my grandpa is hosting a cookout.
+Minha avó quer churrasco, então meu avô está fazendo um churrasco ao ar livre.
+
+
+---
+
+Quando não for usada uma conjunção para unir as duas frases simples, pode ser usado o ponto
+e vírgula.
+
+He works downtown in a school; his wife works in an office nearby.
+Ele trabalha no centro da cidade em uma escola; a esposa dele trabalha em um escritório
+próximo.
+
+
+1. Em perguntas com determinados verbos, inverte-se as posições do verbo e
+sujeito. Observe: “Are you Brazilian?” (Você é brasileiro?). Note que sujeito e verbo estão
+invertidos em inglês. Moral da história: em perguntas, pode haver inversão de posições.
+Entretanto, quando você for ler, você vai rapidamente perceber que você precisa inverter a
+tradução das palavras e isso não causará nenhum problema, ou seja, você vai entender
+perfeitamente o que está escrito.
+
+
+2. A forma negativa de alguns verbos. Observe: “No, I’m not Brazilian” (Não, eu
+não sou brasileiro). Veja que em inglês se escreve “am not” e em português “não sou”.
+Perceba que se traduzirmos na sequência, a parte “am not” seria traduzida como “sou
+não”. Moral da história: com alguns verbos, a negativa se forma com a adição da palavra
+“not” APÓS o verbo (em português, o “não” vem ANTES do verbo).
+
+
+3. Substantivos acompanhados de adjetivos. Observe a sentença: “I am an American
+lawyer” (Eu sou um advogado americano). Nesse caso, trata-se de um substantivo
+acompanhado de um adjetivo. Quando isso acontecer, o adjetivo sempre vem antes do
+substantivo. Moral da história: A regra é simples: adjetivo vem antes do substantivo.
+
+
+4. Caso genitivo (‘s). É aquele famoso ’s que vemos em nomes de lojas. Observe: “John’s
+computer is obsolete” (O computador do João é obsoleto). Essa estrutura de ‘s não existe em
+português. Sendo assim, quando você se deparar com uma frase como essa, lembre-se que
+você deve traduzir de trás para frente.
+
+
+Resumindo: estas são as 4 ocasiões de inversões que você poderá encontrar em sua prova. De
+maneira geral, as sentenças em Inglês obedecem a sequência “SUJEITO + VERBO +
+COMPLEMENTO”.
+
+
+---
+
+                                SUBSTANTIVOS
+       Um substantivo (noun) é uma palavra usada para nomear uma pessoa, animal, lugar,
+coisa, ideia abstrata. Assim como no Português, os substantivos na Língua Inglesa podem ser
+afetados por outros componentes da frase. Um substantivo em uma frase pode exercer
+diferentes funções como sujeito, objeto direto, objeto indireto, complemento do sujeito ou
+objeto, um aposto, um adjetivo ou um advérbio. Vai depender do contexto em que ele se
+encontra.
+
+                2.1. Substantivos Simples e Compostos
+
+
+Quando um substantivo é formado de apenas uma palavra, ele é chamado de substantivo
+simples (one-word noun).
+
+
+The sun rises above the horizon.
+O sol surge no horizonte.
+
+
+Quando o substantivo é composto de duas palavras é chamado de substantivo composto
+(compound noun). Podem ser dois substantivos, um substantivo + adjetivo ou um
+substantivo + advérbio.
+
+
+‘From sunrise to sunset’ may mean all day long.
+‘Do nascente ao poente’ pode significar o dia todo.
+
+
+Alguns substantivos compostos são formados de palavras simples e contém hífen. Não há
+regras para indicar quando os substantivos compostos são escritos juntos ou separados.
+
+
+My mother-in-law and sister-in-law like ice cream.
+Minha sogra e minha cunhada gostam de sorvete.
+
+
+---
+
+               MAPA MENTAL
+
+Substantivos
+
+
+   Simples
+
+      government, student,
+      money, house, pencil
+
+
+Substantivos
+
+
+   Compostos
+
+
+      sunrise, mother-in-law, ice-
+      cream, greenhouse, haircut
+
+
+---
+
+                  2.2. Substantivos Contáveis e Incontáveis
+
+
+Um substantivo contável (countable noun) se refere a coisas que existem em unidades
+individuais distintas. É expresso com o acréscimo de um s no final da palavra.
+
+
+I bought two bottles of Italian wine.
+Comprei duas garrafas de vinho italiano. (Garrafas de vinho podem ser contadas.)
+
+
+Um substantivo incontável (uncountable noun) geralmente não é expresso com o acréscimo
+de um s no final da palavra, ou seja, não tem a forma do plural.
+
+
+The wine spilled on my dress.
+O vinho caiu no meu vestido. (quantos vinhos? Vinho não pode ser contado)
+
+
+In short (Resumindo):
+A maioria dos substantivos incontáveis são:
+
+
+•   líquidos (milk ( leite), water (água))
+•   ideias abstratas (advice (conselho), motivation (motivação))
+•   pó e grãos (rice (arroz), wheat (trigo), sand (areia))
+•   substantivos de massa (furniture (mobília), hair (cabelo), transportation (transporte))
+•   fenômenos naturais (snow (neve), rain (chuva), weather (clima))
+•   estados de ser (stress, childhood (infância))
+•   gás (oxygen, air, etc)
+•   Sentimentos (anger (raiva), happiness (felicidade), etc)
+
+
+---
+
+                 MAPA MENTAL
+
+Substantivos
+Contáveis (Contable
+Nouns)
+
+      garrafas, mesas,
+      casas, livros,
+      canetas, etc
+
+Substantivos Incontáveis
+(Uncontable Nouns)
+
+      líquidos em geral, comidas
+      e bebidas em geral,
+      sentimentos, coisas
+      cotidianas, matérias
+      primas, tempo livre
+
+
+---
+
+                         2.3. Plural dos Substantivos
+
+
+O Plural dos substantivos é formado de diferentes formas. Na maioria dos substantivos faz-se o
+plural por acrescentar apenas um “S” à palavra.
+
+
+She read four books in two months.
+Ela leu quatro livros em dois meses.
+
+
+Quando o substantivo terminar em CH, SH, S, SS, X ou Z, é acrescentado “ES” para fazer seu
+Plural.
+
+
+They have a class in the church.
+Eles têm uma aula na igreja.
+
+
+They have classes in the churches.
+Eles têm aulas nas igrejas.
+
+
+O “ES” também é usado para fazer o plural dos substantivos abaixo que terminam com “O”.
+Mas NÃO há regra para a terminação em “O”. Apenas tente memorizar o quadro abaixo:
+
+Substantivo                        Plural                          Tradução
+
+cargo                              cargoes                         carga
+
+echo                               echoes                          eco
+
+hero                               heroes                          herói, heroína
+
+mosquito                           mosquitoes                      mosquito, pernilongo
+
+potato                             potatoes                        batata
+
+tomato                             tomatoes                        tomate
+
+
+---
+
+A melhor maneira de aprender a formar o plural dos substantivos é memorizá-los por meio da
+prática e exposição à eles por meio de questões e tradução de textos.Tenha em mente que
+para a maioria dos substantivos que terminam com “O” é acrescentado apenas o “S”:
+
+Substantivo                        Plural                            Tradução
+
+auto                               autos                             automóvel
+
+Eskimo                             Eskimos                           Esquimó
+
+kilo                               kilos                             quilo
+
+photo                              photos                            foto
+
+piano                              pianos                            piano
+
+radio                              radios                            rádio
+
+solo                               solos                             solo
+
+studio                             studios                           estúdio
+
+Exceção: A palavra volcano (vulcão) admite os dois plurais: volcanos ou volcanoes.
+
+
+Quando o substantivo terminar em consoante + Y, é deletado o Y e acrescentado “IES”.
+
+
+The duties (duty) of a manager are important.
+Os deveres de um gestor são importantes.
+
+
+Em alguns substantivos que terminam em F ou FE, é deletado o “F” ou “FE” e
+acrescentado VES.
+
+
+Why do leaves (leaf) fall off trees?
+Por que as folhas das árvores caem?
+
+
+Alguns substantivos têm o plural irregular. Não há regra para esse tipo de plural.
+
+
+---
+
+The woman gave the mouse to the child.
+A mulher deu o rato para a criança.
+
+
+The women gave the mice to the children.
+As mulheres deram os ratos para as crianças.
+
+             2.4. Gêneros dos Substantivos (Nouns Gender)
+
+
+Na Língua Inglesa, diferente do Português, alguns substantivos têm o mesmo formato para o
+masculino e feminino. Outros são variáveis de acordo com o gênero. Observe abaixo alguns
+deles:
+
+Substantivo                                    Tradução
+
+accountant                                     contador(a)
+
+actor / actress                                ator/atriz
+
+boy / girl                                     menino, rapaz /menina, moça
+
+brother / sister                               irmão / irmã
+
+emperor / empress                              imperador / imperatriz
+
+engineer                                       engenheiro (a)
+
+father / mother                                pai / mãe
+
+grandfather / grandmother                      avô / avó
+
+husband / wife                                 marido / esposa
+
+janitor                                        zelador(a)
+
+king / queen                                   rei / rainha
+
+lawyer                                         advogado(a)
+
+man / woman                                    homem/mulher
+
+
+---
+
+nephew / niece                                 sobrinho (a)
+
+nurse                                          enfermeiro (a)
+
+policeman / policewoman                        policial masculino / feminino
+
+prince / princess                              príncipe / princess
+
+son / daughter                                 filho / filha
+
+student                                        aluno (a)
+
+teacher                                        professor (a)
+
+uncle / aunt                                   tio / tia
+
+waiter / waitress                              garçon / garçonete
+
+          2.5. Substantivo que indica Posse (the genitive)
+
+
+No caso possessivo, um substantivo muda sua forma de mostrar que ele possui ou está
+intimamente relacionado a outra coisa. Normalmente, os substantivos tornam-se possessivos
+por adição de uma combinação de um apóstrofo e a letra "s". O caso possessivo de um
+substantivo singular que termina em "s" é formado adicionando-se apenas um apóstrofo.
+
+
+The Queen’s palaces are in Britain.
+Os palácios da rainha estão na Inglaterra.
+
+
+Atenção! Ao mudar a posição do apóstrofo, o substantivo vai para o plural.
+
+
+The Queens’ palaces are in Britain.
+Os palácios das rainhas estão na Inglaterra.
+
+
+Se o dono da posse for um nome próprio e terminar em s pode-se colocar apenas o apóstrofo
+ou ‘s. O uso desse último deixa a frase mais clara.
+
+
+---
+
+That is James’ house.
+Aquela é a casa do James.
+
+
+Se estiver no final da frase fica implícito, para não ter que repetir novamente o substantivo.
+
+
+The blue house is James’s (house).
+A casa azul é (a casa) do James.
+
+
+Se dois elementos tiverem posse do mesmo objeto, o apóstrofo é colocado apenas no último
+nome.
+
+
+That is James and Mary’s house.
+Aquela é a casa do James e da Mary.
+
+                                 MAPA MENTAL
+
+   Examples:
+
+   • Ena’s students
+                                                     Genitive Case
+   • Tom’s friends
+Lembre-se:
+   • Charles’s boss
+   • Bob and Mary’s children
+                                                                     ò
+   • Bob’s and Mary’s children
+   •
+                                                                    ‘s
+
+
+---
+
+                                          ARTIGOS
+
+O que é um artigo? Basicamente, um artigo é um adjetivo. Assim como os adjetivos, os artigos
+modificam os substantivos. E por isso, geralmente os artigos são usados antes de substantivos.
+Os artigos (articles) em Inglês são três: o Definido (The = o, a, os, as) e os Indefinidos
+(A=um, uma) e (AN=um, uma).
+
+                            3.1. O Artigo Definido The
+
+
+Usa o artigo definido The para se referir a coisas específicas, quando nos referimos a algo que
+já foi mencionado antes. Pode ser antes de palavras no singular ou plural. Portanto, o ouvinte
+já sabe de que estamos falando.
+
+
+Mary – Where are you going? (Para onde você vai?)
+John – I am going to the meeting. (Vou para a reunião)
+
+
+Foi usado the em the meeting pois a pessoa que pergunta já sabe a que reunião o
+interlocutor se refere. Sabe que ele fala de uma reunião específica.
+
+
+O The também sinaliza que o substantivo é definido, que se refere a um determinado membro
+de um grupo ou de algo ou alguém específico.
+
+
+The thief who stole her purse ran away.
+O ladrão que roubou a bolsa dela fugiu.
+
+
+I was grateful to the fireman who saved my dog.
+Fiquei grato ao bombeiro que salvou meu cachorro.
+
+
+Também usamos the antes dos nomes de 1% dos países. Geralmente são os países que tem a
+palavra United no nome ou que são compostos de ilhas pequenas. Ex: The United States of
+America (Os Estados Unidos da América), The United Kingdom (O Reino Unido), The
+Philippines (As Filipinas).
+
+
+---
+
+Usa-se o the antes de nomes de rios, oceanos e mares. Ex: the Nile, the Pacific (o Nilo, o
+pacífico). Antes de pontos no globo. Ex: the Equator (o Equador), the North Pole (o Polo
+Norte). Antes de áreas geográficas. Ex: the Middle East (o Oriente Médio). E antes de
+desertos, florestas, golfos e penínsulas. Ex: the Sahara, the Black Forest (o Saara, a Floresta
+Negra).
+
+                    3.2. O Artigo Indefinido A (um, uma)
+
+
+Usa-se o artigo indefinido A para referir-se a algo em geral, algo que os seus ouvintes não
+conhecem ou não foi mencionado antes. Ele é usado antes de substantivos no singular, antes
+de palavras que começam com uma consoante e/ou que têm som de consoante.
+
+
+Importante! A escolha do artigo é baseada na qualidade fonética (som) em Inglês da
+primeira letra de uma palavra, não na representação ortográfica (escrita) da letra ou no som da
+letra em outra língua. Se a primeira letra fizer um som do tipo vogal (em Inglês), você usa "an";
+se a primeira letra produzir um som do tipo consoante (em Inglês), você usa "a".
+
+
+Mary – Where are you going? (Para onde você vai?)
+John – I am going to a meeting. (Vou para uma reunião)
+
+
+Foi usado “a” em “a meeting” (e não the) pois a pessoa que pergunta não sabe a que
+reunião o interlocutor se refere. O artigo “a” transmite uma ideia abrangente, geral. E a
+palavra seguinte começa com consoante. Ex: a cat (um gato), a big city (uma cidade grande), a
+library (uma biblioteca), a classroom (uma sala de aula).
+
+
+Quando "u" faz o mesmo som que "y" em "you" ou então “a” é usado. O som "y" inicial da
+palavra unicorn ("unicórnio") é um som semivocálico foneticamente, que possui propriedades
+consonantais; consequentemente, é tratada como uma consoante, exigindo "a". Agora, veja
+alguns exemplos de palavras que começam com letra que têm som de consoante “y” e por
+isso são antecedidas pelo artigo “a”. Ex: a European – se pronuncia 'yer-o-pi-an’
+(Europeu/Europeia), e assim também são pronunciados: a eulogy (discurso fúnebre, tributo), a
+urologista (urologista), a union (união, sindicato), a United front ( uma frente unida), a used
+book (um livro usado), a U.S. flag (uma bandeira dos Estados Unidos), a user
+pronúncia=(yo͞o′zər) (um usuário).
+
+
+---
+
+Lembre-se! Estamos falando dos sons das letras, ou seja, fonética na Lingua Inglesa, não na
+Portuguesa. E a letra “w” tem som de consoante na Língua Inglesa na maioria dos casos. Ela é
+uma vogal apenas nos grupos de duas letras <aw>, <ew> e <ow>. Em qualquer outro lugar
+<w> é uma consoante. Exemplos: a window (uma janela), a week (uma semana), a way (um
+caminho, um modo), a writer (um(a) escritor(a)), a woman (uma mulher). Da mesma forma, o “a”
+é usado quando o "o" faz o mesmo som que "w" em "won". Ex: a one-time charge (uma
+cobrança única). A pronúncia de one é (wŭn).
+
+                   3.3. O Artigo Indefinido AN (um, uma)
+
+
+Usa-se o artigo indefinido AN para referir-se a algo em geral, algo que os seus ouvintes não
+conhecem ou não foi mencionado antes. Ele é usado antes de substantivos no singular,
+contáveis que começam com vogal. Exs: an Indian (um(a) índio/a), an uprising (uma revolta),
+an island (uma ilha), an accountant (um contador/contabilista).
+
+
+Exemplos que são exceções: an heir (herdeiro/a), an honest (honesto/a), an hour (hora) e an
+honor (honra), an honorable (honroso/a) que iniciam com h mudo.
+
+
+Mary - What is that? (O que é isso?)
+John – This is an invitation. (É um convite.)
+
+
+Foi usado an em an invitation (e não the) pois a pessoa que pergunta não sabe a que
+convite o interlocutor se refere. O artigo an transmite uma ideia abrangente, geral. E a palavra
+seguinte começa com vogal.
+
+                                        EXERCÍCIOS
+Complete com “A” ou “AN”. Fique atento!
+
+
+a) UMA empresa      ____ company
+b) UMA banana       ____ banana
+c) UMA estratégia ____ strategy
+d) UMA recessão     ____ recession
+e) UMA faculdade ____ college
+
+
+---
+
+f) UM disco voador ____ UFO
+g) UM relatório    ____ report
+h) UM economista ____ economist
+i) UMA vantagem    ____ advantage
+j) UM advogado     ____ attorney
+k) UM homem honesto      ____ honest man
+l) UMA emergência ____ emergency
+m) UMA queda       ____ drop
+n) UMA oferta      ____ offer
+
+
+GABARITO:
+a) A company
+b) A banana
+c) A strategy
+d) A recession
+e) A college
+f) A UFO (começa com som de consoante “y”)
+g) A report
+h) AN economista
+i) AN advantage
+j) AN attorney
+k) AN honest man
+l) AN emergency
+m) A drop
+n) AN offer
+
+                    3.4. Plural dos Artigos Indefinidos
+
+
+Para expressar o plural dos artigos indefinidos A, AN (um, uma), usa-se o adjetivo
+(determinante): some (uns, umas, alguns, algumas) ou zero article (não se usa artigo).
+
+
+---
+
+They visited some distant areas.
+Eles visitaram algumas áreas distantes.
+
+                3.5. The Zero Article (Omissão Do Artigo)
+
+
+O artigo zero acontece quando os substantivos dispensam o uso do artigo definido the e
+indefinidos a (n). Alguns exemplos quando não se usa artigo são:
+
+
+3.5.1. Dias de semana
+
+
+Sunday is a fascinating.
+O Domingo é um dia fascinante.
+
+
+3.5.2. Nomes de pessoas, maioria dos países e territórios, cidades, estados, ruas
+
+
+Mary traveled to Rio.
+A Maria viajou para o Rio.
+
+
+Exceção: the Netherlands , the Dominican Republic, the Philippines, the United States
+(Holanda, República Dominicana, Filipinas, Estados Unidos) e nomes de família: The Smiths.
+
+
+3.5.2. Nomes de lagos e baías
+
+
+I’m going to visit Lake Erie.
+Vou conhecer o lago Erie.
+
+
+Exceção: grupos de lagos: The Great Lakes (Os Grandes Lagos)
+
+
+3.5.3. Nomes de montanhas
+
+
+---
+
+Mount Everest is Earth's highest mountain above sea level.
+O Monte Everest é a montanha mais alta da Terra acima do nível do mar.
+
+
+Exceção: cadeias de montanhas como os Andes (the Andes) ou as Montanhas Rochosas (the
+Rockies) ou nomes incomuns como the Matterhorn.
+
+
+3.5.4. Nomes de continentes e ilhas
+
+
+Asia is the largest of the world's continents.
+A Ásia é o maior dos continentes do mundo.
+
+
+Exceção: cadeias de ilhas como the Aleutians, the Hebrides, or the Canary Islands (as Aleutas,
+as Hébridas ou as Ilhas Canárias).
+
+
+3.5.5. Pronomes possessivos
+
+
+My parents live in Brazil.
+Os meus pais moram no Brasil.
+
+                                         EXERCÍCIOS
+
+
+Coloque “a / an” ou “the” onde for necessário. Traduza as frases.
+
+
+a) Last night my father bought ___ magazine because he wanted to read ___ interesting article
+about ___ new investments in Brazil.
+b) We’ll buy ___ big company in ____ Europe. There’s ____ big warehouse, but ______ parking
+lot is small.
+c) ___ my boss will probably have problems with some new employees.
+d) ___ Brazil exports different kinds of goods.
+e) ____ convention was interesting, but a little tiring.
+f) It’s _____ very expensive project.
+
+
+---
+
+g) Accounting is _____ system that enables companies to record all _____ money that comes in
+and goes out.
+h) My cousin intends to be a manager. He intends to manage _____ department in a big
+multinational company.
+i) That document is _____ important contract.
+j) Do you prefer to analyze _____ data on the computer screen?
+k) Will he have time to analyze _____ proposal that we sent him last week?
+l) I have _____ appointment with Mr. Johnson. My name is Emmett, Richard Emmett.
+
+
+Gabarito:
+a) A/ an / the
+b) A / - / a / the
+c) –
+d) –
+e) The
+f) A
+g) A / the
+h) A
+i) An
+j) The
+k) The
+l) An
+
+
+---
+
+                                     PRONOMES
+                               4.1. Pronomes Pessoais
+
+
+Os Pronomes Pessoais (Personal Pronouns) são divididos em Pronomes sujeito (Subject
+Pronouns), que são equivalentes aos pronomes do caso reto em Português e Pronomes Objeto
+(Object Pronouns) equivalentes ao caso oblíquo. São palavras pequenas que você pode usar
+para substituir uma pessoa ou coisa, quando você já falou sobre eles, ou seja, usamos os
+pronomes pessoais quando não é necessário repetir nomes ou frases nominais aos quais eles
+se referem. Por exemplo:
+
+
+John loves Mary. He (John) is always buying her gifts.
+John ama Mary. Ele (John) está sempre comprando presentes para ela.
+
+
+Globalization is both a cause and a result of the modern information revolution. It
+(globalization) is driven by dramatic improvements in telecommunications.
+A globalização é tanto a causa como o resultado da moderna revolução da informação. Ela
+(globalização) é impulsionada por surpreendentes melhoras nas telecomunicações.
+
+
+Os Pronomes Pessoais no Singular são: I, he, she, it, you e no Plural são We, You e They.
+
+             Pronome Sujeito                                      Pronome Objeto
+
+                    I (eu)                       me (me, mim)
+
+                   He (ele)                      him (lhe, o, a ele)
+
+                  She (ela)                      her (lhe, a, a ela)
+
+                 It (neutro)                     it (lhe, o, a)
+
+                     You                         you (lhe, o, a, te, ti, a você)
+
+                  We (nós)                       us (nos)
+
+                     You                         you (vos, lhes, vocês)
+
+
+---
+
+              They (eles, elas)                   them (lhes, os, as)
+
+Os pronomes pessoais no singular são usados para substituir um elemento e os pronomes no
+plural substituem mais de um elemento: pessoa ou coisa. Observe no quadro acima que o You
+pode ser usado para substituir tanto uma pessoa como mais de uma pois ele serve para
+ambos: singular e plural. O It é o pronome pessoal que nós usamos ao invés de she/her ou
+he/him quando nos referimos a coisas antes que a pessoas, no singular. Compare os seguintes
+exemplos de pronomes sujeitos e objetos:
+
+
+You have a great mom. She is nice and a hard worker. You should take care of her.
+Você tem uma mãe excelente. Ela é ótima e trabalhadora. Você deveria cuidar dela.
+
+
+João is a good teacher. He teaches in the High school. I have known him since I was twelve.
+João é um bom professor. Ele ensina na escola de ensino médio. Eu o conheço desde que eu
+tinha doze anos.
+
+
+This ring is over a hundred years old. It used to belong to my mother. I gave it to my daughter
+when she was twelve years old.
+Este anel tem mais de cem anos. Ele pertencia a minha mãe. Eu o dei à minha filha quando ela
+tinha doze anos.
+
+
+O pronome pessoal it é usado também quando não tem nenhuma pergunta ou nome o
+precedendo. Nós usamos it como um sujeito vazio quando nos referimos a clima, temperatura,
+tempo, distâncias ou circunstâncias atuais. Observe os exemplos seguintes:
+
+
+It’s necessary to uphold the law.
+É necessário que se cumpra/obedeça a lei.
+
+
+It's just awful. It's the weekend again and it's been raining since early morning.
+É simplesmente horrível. É fim de semana de novo e tem chovido desde manhã cedo.
+
+
+Cuidado! Não confunda It’s com Its, o primeiro é a contração do pronome pessoal sujeito It +
+is (verbo to be na terceira pessoa do singular) e o segundo, Its é o pronome possessivo da
+pessoa It, o qual será visto mais na frente nesta aula.
+
+
+---
+
+Traduza as seguintes frases, perceba a utilização do pronome “it”
+
+                                         EXERCÍCIOS
+
+
+a) It will be a hard task. ____________________________________________-
+b) It will be easy to understand the e-mail_________________________________
+c) It won’t be explained today. _________________________________
+d) It would be necessary. _________________________________
+e) It would be broken. _________________________________
+f) It wouldn’t be right to do this. _________________________________
+
+g) It would be defined by the director. ______________________________
+
+
+Gabarito:
+a) It will be a hard task. (Será uma tarefa dura.)
+b) It will be easy to understand the e-mail.(Será fácil (de) entender o e-mail.)
+c) It won’t be explained today. (Não será explicado hoje.)
+d) It would be necessary. (Seria necessário.)
+e) It would be broken. (Seria/estaria quebrado.)
+f) It wouldn’t be right to do this. (Não seria correto fazer isto.)
+g) It would be defined by the director. (Seria/estaria definido pelo diretor.)
+
+
+Os pronomes pessoais they e them também são usados como pronomes neutros quanto ao
+gênero, quando não sabemos se o sujeito é masculino ou feminino, e podem referir-se a
+ambos: coisas e pessoas.
+
+
+Where are my T-shirts? ~ They're on the top shelf. ~ I can't find them.
+Onde estão minhas camisetas? ~ Elas estão na prateleira de cima.~ Eu não consigo encontrá-
+las.
+
+
+If they call from the insurance company, tell them I am on my way.
+
+
+---
+
+Se ligarem da seguradora, diga a ele (ela) que estou a caminho.
+
+                                       EXERCÍCIOS
+
+
+1. Escolha o pronome correto para preencher as lacunas.
+
+
+a) Some companies will import raw material. They will import _________ (them; it) from
+Switzerland and Italy.
+b) The buyer intends to buy components as soon as possible because the assembly line has to
+work 24 hours a day. _________ (they; he) intends to buy ________ (it; them) from a local
+supplier.
+c) Last week John Cowhand, our accountant, decided to check some data. _______(he; she)
+wanted to check_______(it; them) on the computer screen.
+d) The manager would like to change some procedures. He would like to change_________ (it;
+them) because new equipment and machines will be imported next semester.
+e) Entrepreneurs need to analyze the economic scenario every day because_______ (he; they)
+need to make difficult decisions.
+f) The directors of the departments need to speak English fluently. They need to speak________
+(it; them) fluently because they will travel abroad every month.
+g) Auditors work long hours in order to (a fim de; com o intuito de) check problems.
+_________ (he; they) also write reports about________ (they; them).
+
+
+GABARITO:
+a) It (raw material = matéria prima: é uma palavra no singular)
+b) He (buyer = comprador) – them (components = componentes)
+c) He (accountant = contador) – them (data = dados)
+d) Them (procedures = procedimentos)
+e) They (entrepreneur = empresários)
+f) It (English)
+g) They (auditors)
+
+
+---
+
+                          4.2. PRONOMES REFLEXIVOS
+
+
+Enquanto os Pronomes Pessoais são usados para expressar o sujeito os Pronomes
+Reflexivos (Reflexive Pronouns) são usados para indicar que a ação reflexiva recai sobre o
+próprio sujeito. Nesse caso, o pronome vem logo após o verbo e concorda com o sujeito.
+
+
+Estes pronomes se caracterizam pelas terminações self (no singular) e selves (no plural). Para
+cada Pronome Pessoal (Personal Pronoun) existe um Pronome Reflexivo (Reflexive Pronoun).
+Na tabela abaixo estão indicados os Pronomes Pessoais (Personal Pronouns) e os Pronomes
+Reflexivos (Reflexive Pronouns) aos quais eles se referem.
+
+
+              Pronome Reflexivo                               Tradução
+
+               He (ele)- himself                      A si, a ele mesmo, -se
+
+                 I (eu)– myself                       A mim mesmo, -me
+
+          It (ele, ela /neutro)- itself               A si mesmo (a), -se
+
+               She (ela) - herself                    A si, a ela mesma, -se
+
+       They (eles, elas)– themselves                  A eles mesmos (as), a si
+
+             We (nós)- ourselves                      A nós mesmos (as), nos
+
+           You (tu, você)– yourself                   A ti, a você mesmo, -te, -se
+
+        You (vós, vocês)- yourselves                  A vós, vocês mesmos (as), -vos,-se
+
+
+When Mary cut her hand, she hurt herself.
+Onde her=pronome obliquo, she=pronome sujeito e herself=pronome reflexivo
+Quando Mary cortou a mão dela, ela machucou a si mesma (se machucou).
+
+
+Some minutes after the train left the station, it stopped by itself.
+Onde it=pronome sujeito e itself=reflexivo
+Alguns minutos depois que o trem deixou a estação, ele parou por si só.
+
+
+---
+
+Enjoy yourselves!
+Divirtam-se!
+
+
+Help yourself!
+Sirva-se!
+
+                          4.3. PRONOMES POSSESSIVOS
+
+
+Enquanto os pronomes pessoais indicam o sujeito, os possessivos indicam posse (meu, seu,
+teu, dele, etc). Em inglês, existem duas formas de pronome possessivo, uma para os pronomes
+adjetivos possessivos (possessive adjectives pronouns) e outra para os pronomes
+substantivos possessivos (possessive pronouns). Os pronomes substantivos possessivos e os
+adjetivos possessivos mostram a quem o elemento pertence. Observe na tabela abaixo na
+primeira coluna estão os adjetivos possessivos (que acompanham os substantivos); na segunda,
+os pronomes possessivos (que retomam os substantivos).
+
+            Possessive Adjectives                         Possessive Pronouns
+
+                      I – my                               mine (meu, minha)
+
+                    you - your                         yours (teu, tua, seu, sua)
+
+                     He - his                                his (seu, dele)
+
+                     She – her                               hers (seu, dela)
+
+                      It – its                           its (dele, dela/neutro)
+
+                     We – our                                  ours (nosso)
+
+                    You – your                              yours (de vocês)
+
+                    They - their                          theirs (deles, delas)
+
+My wallet is the black one.
+Minha carteira é a preta.
+
+
+---
+
+The black wallet is mine.
+A carteira preta é minha.
+Onde, my é o pronome adjetivo e mine o possessivo.
+
+
+It is Mike’s car. It’s his.
+Esse é o carro do Mike. É dele.
+
+
+Is this book mine, or is it yours?
+Esse livro é meu, ou é teu?
+
+
+It’s the children’s room. It’s theirs.
+Esse é o quarto das crianças. É delas.
+
+                                         EXERCÍCIOS
+
+
+Escolha o pronome correto para preencher as lacunas.
+
+
+a)     ______ (Your / Yours) car is blue, but _______ (my / mine) is black.
+b) She kissed _______ (her / hers) father and I kissed _______ (my / mine) mother.
+c) _____ (My / mine) book is old, on the other hand ______ (your / yours) is brand-new.
+d) _______ (our / ours) course is the best on the market. On the other hand, _______ (their /
+theirs) is the worst.
+e) These are ______ (our / ours) books.
+f) This is _____ (your / yours) computer. _______ (my / mine) is at the office.
+g) I have ______ (my / mine) house and you have ______ (your / yours).
+h) The cities and ________ (their / theirs) inhabitants face several problems with the heavy
+storm.
+i) ______ (my / mine) neighbor is a nice person, but ______ (her / hers) is very noisy and
+impolite.
+
+
+GABARITO:
+
+
+---
+
+a) Your car is blue, but mine is black.
+b) She kissed her father and I kissed my mother.
+c) My book is old, on the other hand yours is brand-new.
+d) Our course is the best on the market. On the other hand, theirs is the worst.
+e) These are our books.
+f) This is your computer. Mine is at the office.
+g) I have my house and you have yours.
+h) The cities and their inhabitants face several problems with the heavy.
+i) My neighbor is a nice person, but hers is very noisy and impolite.
+
+                     4.4. PRONOMES DEMONSTRATIVOS
+
+
+Os Pronomes Demonstrativos (Demonstrative pronouns/adjectives ) servem para apontar,
+indicar e mostrar alguma coisa, lugar, pessoa ou objeto. Esses pronomes podem atuar como
+adjetivos, antes do substantivo, ou como pronomes substantivos. Observe mais
+detalhadamente os Pronomes Demonstrativos (Demonstrative Pronouns) listados abaixo:
+
+
+Pronome Demonstrativo Singular                      Pronome Demonstrativo Plural
+
+That – aquele(a), aquilo, esse(a), isso             Those – aqueles, aquelas, esses(as)
+
+This – este, esta, isto                             These – estes, estas
+
+4.4.1. This (Este, Esta, Isto)
+
+
+This is my city. (Demonstrative pronoun)
+Esta é o minha cidade. (Pronome demonstrativo substantive pois está antes do verbo is)
+
+
+This city is beautiful. (Demonstrative adjective)
+Esta cidade é linda. (pronome demonstrativo adjetivo pois está antes do substantivo city)
+
+
+---
+
+4.4.2. That (Aquele, aquela, aquilo)
+
+That is a good question.
+Essa é uma boa pergunta.
+
+
+That question was already answered.
+Essa pergunta já foi respondida.
+
+
+4.4.3. These (Estes, estas)
+
+
+These are our technologies.
+Estas são nossas tecnologias.
+
+
+“These technologies are helping to overcome the barriers of physical distance.”
+“Estas tecnologias estão ajudando a vencer as barreiras da distância física.”
+
+4.4.4. Those (Aqueles, aquelas)
+
+Those are American actors.
+Aqueles são atores americanos.
+
+
+Those actors are very famous.
+Aqueles atores são muito famosos.
+
+                     4.5. PRONOMES INTERROGATIVOS
+
+
+Os Pronomes Interrogativos substituem substantivos em perguntas.
+
+
+Who is running for president? (The New York Times)
+
+
+---
+
+Quem está se candidatando para presidente?
+
+
+Whose money is it?
+De quem é esse dinheiro?
+
+
+Para perguntas em que a resposta é abrangente se usa What (Que, O que):
+
+
+What can investors expect from Brazil’s economy? (Forbes)
+O que os investidores podem esperar da economia do Brasil?
+
+
+Para perguntas com respostas restristas onde se escolhe uma opção se usa Which(Que, Qual):
+
+
+Which app is more secure: Telegram or Whatsapp? (Forbes)
+Que/Qual aplicativo é mais seguro: Telegram ou Whatsapp?
+
+                                        EXERCÍCIOS
+
+Traduza as seguintes sentenças.
+
+
+a) What is your name?
+b) Which is your name: Lucas or Michael?
+c) Where is Brazil? It is in South America.
+d) Who can speak English well in your family?
+e) When is your wedding anniversary?
+f) How much is a Mercedes?
+g) How many people study English with Ena and Roberto?
+h) Why do you study English? Because I love languages.
+i) What kind of car do you prefer: big cars or small cars?
+j) How long do you intend to study English today?
+
+
+GABARITO:
+
+
+---
+
+a) Qual o seu nome?
+b) Qual o seu nome: Lucas ou Michael?
+c) Onde fica o Brasil? Fica na América do Sul.
+d) Quem fala inglês bem na sua família?
+e) Quando é seu aniversário de casamento?
+f) Quanto é uma Mercedes?
+g) Quantas pessoas estudam Inglês com a Ena e o Roberto?
+h) Por que você estuda inglês? Porque eu amo idiomas.
+i) Que tipo de carro você prefere: carros grandes ou carros pequenos?
+j) Quanto tempo você pretende estudar inglês hoje?
+
+                          4.6. PRONOMES RELATIVOS
+
+
+       Os pronomes relativos introduzem orações relativas, que são um tipo de oração
+dependente. As orações relativas modificam uma palavra, frase, ou ideia da oração principal. A
+palavra, frase ou ideia modificada é chamada de antecedente. Os principais pronomes relativos
+são that, who, whom, whose e which. O who é usado apenas para se referir a pessoas. O
+whose é usado para expressar possessão. O which é usado apenas para coisas, situações,
+objetos e animais e o that pode ser é usado para ambos: pessoas e coisas. O whom é mais
+formal que o who e este mais formal que o that.
+
+
+The car that Jairus bought is expensive.
+O carro que o Jairo comprou é caro.
+
+
+The salesman who/that helped me gave me good advice.
+O vendedor que me ajudou me deu boa orientação.
+
+
+Se depois do who vier um pronome, ele pode ser substituído pelo whom, that ou nada.
+
+
+Jarius is the man who/whom/that we met last week.
+
+
+---
+
+Jairo é o homem que/o qual conhecemos semana passada.
+
+
+Jarius is the man we met last week.
+Jairo é o homem que conhecemos semana passada.
+
+
+We have done so at the request of the author, a senior official in the Trump administration
+whose identity is known to us and whose job would be jeopardized by its
+disclosure. (nytimes.com)
+Fizemos isso a pedido do autor, um alto funcionário da administração Trump cuja identidade é
+conhecida por nós e cujo trabalho seria comprometido por sua divulgação.
+
+
+The painting, which he admired, was sold.
+O quadro, que/o qual ele admirou, foi vendido.
+
+
+Depois de preposições só se usa whom e nesse caso ele não pode ser substituído pelo that.
+
+
+He visited the local people, most of whom were illiterate.
+Ele visitou as pessoas na localidade, a maioria das quais eram analfabetas.
+
+                                        EXERCÍCIOS
+
+
+Traduza as a seguintes frases.
+
+
+a) The tool that I bought was broken.
+b) The woman who killed my neighbor was arrested yesterday.
+c) The problem that you solved, helped the company develop the project in Argentina.
+d) A person who collects taxes is called a tax collector.
+e) My mother, who is 61 years old, works as a pediatrician.
+f) The email, which I sent her, was about the new investments in the plant in Argentina.
+g) In my point of view, the computer that you bought is not suitable.
+
+
+---
+
+h) Paul is the boy who was fired last week.
+i) My blue bike, which is nearly ten years old, still runs well.
+
+
+GABARITO:
+a) A ferramenta que eu comprei estava quebrada.
+b) A mulher que matou meu vizinho foi presa ontem.
+c) O problema que você resolveu ajudou a empresa a desenvolver o projeto na Argentina.
+d) Uma pessoa que cobra impostos é chamada de cobrador de impostos.
+e) Minha mãe, que tem 61 anos de idade, trabalha com pediatra.
+f) O email que eu enviei a ela era sobre os novos investimentos na planta/fábrica na
+Argentina.
+g) Em meu ponto de vista, o computador que você comprou não é adequado.
+h) Paul é o garoto que foi demitido semana passada.
+i) Minha bicicleta azul, que tem quase dez anos, ainda funciona bem.
+
+                         4.7. PRONOMES INDEFINIDOS
+
+
+Os Pronomes Indefinidos (Indefinite Pronouns) podem ser substantivos quando os
+substituem, ou adjetivos, quando qualificam os substantivos. Veja nos quadros abaixo os
+Pronomes Indefinidos existentes na Língua Inglesa:
+
+
+4.7.1. Pronomes Indefinidos Pessoais:
+
+Pronomes Indefinidos Pessoais                        Tradução
+
+anyone - anybody                                     alguém, qualquer pessoa
+
+everyone - everybody                                 todos, todo o mundo
+
+no one – none - nobody                               ninguém, nenhum (a)
+
+somebody – someone                                   alguém
+
+
+---
+
+Somebody/someone refuses to permit ANVISA investigators access to records.
+Alguém se recusa a permitir que os investigadores da ANVISA tenham acesso aos registros.
+
+
+Everybody/everyone is in the bank.
+Todos estão no banco.
+
+
+4.7.2. Pronomes Indefinidos Impessoais:
+
+Pronomes Indefinidos Impessoais                  Tradução
+
+anything                                         qualquer coisa, nada, tudo
+
+everything                                       tudo
+
+nothing - none                                   nada, nenhum (a)
+
+something                                        alguma coisa, algo
+
+Swipe a card at this ATM, and you get something                  more valuable than cash.
+(www.takepart.com)
+Passe um cartão nesse caixa eletrônico, e você terá algo mais valioso que dinheiro.
+
+
+They do anything to keep lower their prices.
+Eles fazem tudo / qualquer coisa para manter os preços deles baixos.
+
+
+4.7.3. Pronomes Indefinidos de Lugares:
+
+Pronomes Indefinidos de lugares                  Tradução
+
+anywhere                                         qualquer lugar (interrogativa); nenhum lugar
+
+
+---
+
+                                               (negativa)
+
+everywhere                                     em todo lugar
+
+somewhere                                      em algum lugar
+
+As a Food Technologist for the past 20 years, I could work somewhere regarding Food Health
+and Safety.
+Como um tecnólogo do alimento durante os últimos 20 anos, eu poderia trabalhar em algum
+lugar relacionado a Saúde e Segurança Alimentar.
+
+
+We couldn’t find our keys anywhere.
+Não achamos nossas chaves em lugar nenhum.
+
+4.7.3. Pronomes Indefinidos em Massa:
+
+Pronomes Indefinidos                           Tradução
+
+all                                            Todos (as)
+
+any                                            algum(s)(a),nenhum(s)(a), qualquer
+
+none                                           nenhum(a)
+
+some                                           algum(s)(a),algo, um (s)(a), um pouco de
+
+Indefinidos em massa - Expressam algo em grande quantidade ou que não têm plural.
+
+
+Some e Any: São usados quando não se pode ou não se precisa especificar a quantidade
+exata de algo.
+
+
+---
+
+Some e seus compostos são usados em frases afirmativas. Some também pode ser usado em
+frases interrogativas quando se trata de um oferecimento ou pedido ou quando se espera uma
+resposta positiva.
+
+
+We expected some rain this weekend again and really it's been raining since early morning.
+Esperávamos um pouco de chuva neste fim de semana de novo e realmente tem chovido
+desde cedo da manhã.
+
+
+SmartBooks will run some variant of an ARM processor, with Qualcomm being a heavy favorite.
+(TCE/SP- FCC)
+Os Smartbooks vão executar alguma variante do processador ARM, com o Qualcomm sendo
+um forte favorito.
+
+
+Do you need some help?
+Você precisa de alguma ajuda?
+
+
+ANY é usado: 1. Em frases negativas significa “nenhum(a)”. 2. Em afirmativas significa
+“qualquer”. 3. Em interrogativas na sua maioria
+
+
+Negativas: Quando na frase já existe um auxiliar negativo (DON’T, DOESN’T, DIDN’T) ou com
+o verbo To Be: AM NOT, ISN’T ou AREN’T
+
+
+There aren’t any mistakes.
+Não há nenhum erro.
+
+
+I do not have any doubt.
+Não tenho nenhuma dúvida.
+
+
+Afirmativas: Nas frases afirmativas, o ANY é usado quando:
+
+
+a) aparecer após a palavra if;
+b) significar qualquer;
+
+
+---
+
+c) houver palavra de sentido negativo na frase como seldom (raramente), never (nunca), rarely
+(raramente), without (sem), etc.
+
+
+The New York Times has won 108 Pulitzer Prizes, more than any other news organization.
+A New York Times ganhou 108 prêmios Pulitzer, mais do que qualquer outra organização de
+notícias.
+
+
+Pests are any plant or animal whose activities interfere with human health, convenience,
+comfort, or profits.
+Pragas são qualquer planta ou animal cujas atividades interferem na saúde humana,
+comodidade, conforto, ou lucros.
+
+
+Are there any tellers working now?
+Há (alguns) caixas de banco trabalhando agora?
+
+
+4.7.4. Quanto à concordância verbal:
+
+             Singular                Plural                   Singular e Plural
+
+             Everybody (todos/as)    Both (ambos)             Most (maioria/mais)
+
+             Everyone (todos/as)     Several         (vários, All (todo/a/tudo)
+                                     muitos)
+
+             Everything (tudo)       Few        (pouco/a; None     (nenhum/a;
+                                     poucos/as)           ninguém)
+
+             Somebody (alguém)       Many (muitos/as)         Any          (algum/a;
+                                                              nenhum/a;      todo/a;
+                                                              qualquer)
+
+             Anybody (alguém)        Others         (outro/a; Some (algum/a; um
+                                     outros/as)               pouco de)
+
+             Nobody (ninguém)
+
+             Each (todo/a; cada)
+
+
+---
+
+             Every (todo/a; cada)
+
+             Much (muito/a)
+
+Everything in banking is about handling data.
+Tudo no setor bancário é sobre manipulação de dados.
+
+
+Both banks have thousands of customers.
+Ambos os bancos têm milhares de clientes.
+
+
+Most of the book is interesting.
+A maior parte do livro é interessante.
+
+
+Most of the managers were in the bank.
+A maioria dos gerentes estava(m) no banco.
+
+                                     EXERCÍCIOS
+
+
+Traduza as seguintes sentenças. A tradução será a mesma para as duas, ou seja, em inglês é
+possível, nestes casos, dizer a mesma coisa de duas formas diferentes, é só não colocar duas
+negativas na mesma oração.
+
+a) He has no money in his pocket.
+  He doesn’t have any money in his pocket.
+
+
+b) She talks to nobody at work.
+  She doesn’t talk to anybody at work.
+
+
+c) There is nothing in the box.
+
+
+---
+
+  There isn’t anything in the box.
+
+
+d) She’s going nowhere today.
+   She isn’t going anywhere today.
+
+
+e) I have no business in Europe.
+ I don’t have any business in Europe.
+
+
+f) They are reading nothing.
+ They aren’t reading anything.
+
+
+g) The teacher will repeat no word.
+ The teacher won’t repeat any word.
+
+
+h) He wouldn’t see anybody at the convention.
+  He would see nobody at the convention.
+
+
+Gabarito:
+
+
+a) Não tenho (nenhum) dinheiro no meu bolso.
+b) Ela não conversa com ninguém no trabalho.
+c) Não há nada na caixa.
+d) Ela não vai a lugar nenhum hoje.
+e) Não tenho (nenhum) negócio na Europa.
+f) Eles (as) não estão lendo nada.
+g) O professor não repetirá nenhuma palavra.
+h) Ele não veria ninguém na convenção.
+i) A (o) secretária (o) não sabe falar nenhum idioma estrangeiro.
+
+
+---
+
+                                    PREPOSIÇÕES
+
+      A Preposição (Preposition) é a palavra que mostra o relacionamento entre um
+substantivo ou pronome e outras palavras em uma sentença. Vamos começar esclarecendo
+com uma dúvida que permeia as mentes de muitos de vocês sobre o uso do TO e do FOR,
+que são preposições que causam confusão, vou dar algumas dicas que vocês devem ficar
+atentos ao uso deles. Quando usar um ou outro.
+
+                             5.1. PREPOSIÇÕES FOR e TO
+
+FOR:
+
+
+1. Para indicar finalidade:
+
+
+What is this box for?
+Para que serve essa caixa?
+
+
+2. Objetivo de uma ação quando for seguido de um substantivo:
+
+
+He came over for dinner. (FOR + substantivo)
+Ele veio aqui para jantar.
+
+
+3. Tempo:
+
+
+I have studied English for five hours.
+Eu tenho estudado Inglês por cinco horas.
+
+
+4. Favor ou benefício:
+
+
+He fixed dinner for me.
+Ele preparou o jantar para mim.
+
+
+---
+
+TO:
+
+
+1.Para indicar transferência de alguém.
+
+
+They are going to the library. (transferência do corpo de um lugar a outro)
+Eles (as) estão indo para a biblioteca.
+
+
+2.Transferência de algo.
+
+
+She gave the book to me. ( o livro é trocado da mão dela para minha mão)
+Ela me deu o livro. (Ela deu o livro para mim).
+
+
+3.Troca de algo.
+
+
+He is going to talk to you. (troca de informações)
+Ele está indo falar com você.
+
+
+4. Objetivo de uma ação quando for seguido de um verbo:
+
+
+He came over to have dinner. (TO + verbo)
+Ele veio aqui para jantar.
+
+
+Agora compare os dois juntos:
+
+
+I sent a letter to him. (eu enviei uma carta para ele, é de mim para ele, troca da minha mão
+para a dele)
+Eu enviei uma carta para ele.
+
+
+I sent a letter for him. (ele escreveu uma carta para alguém mas não pode ir no correio enviá-la,
+então eu fui e enviei a carta para ele = benefício)
+Eu enviei uma carta para ele.
+
+
+---
+
+                     5.2. PREPOSIÇÕES ABOVE e OVER
+
+
+Outra dúvida que permeia as mentes de muitos alunos é sobre quando se usa o ABOVE e o
+OVER. Alguns alunos iniciantes chegam até a confundir o OVER como preposição com o
+OVER como Prefixo. Vamos começar esclarecendo a diferença. Quando o “over” está no início
+de uma palavra isso indica que ele se juntou a ela como Prefixo para formar uma nova palavra.
+Exs: overtime (hora extra, prorrogação), overdose (dose excessiva). Esse assunto é estudado
+aqui no curso no tópico “Prefixos “(aula 02).
+
+
+Mas nesse tópico aqui vamos focar em Preposições. Tanto o “over” como o “above” indicam
+que algo está em uma posição mais elevada que outra coisa. Sendo que “above” é acima em
+qualquer direção e “over” é diretamente acima.
+
+
+The painting is above/over the couch.
+O quadro está acima do sofá.
+
+
+The temperature is above/over 20 degrees.
+A temperatura está acima dos 20 graus.
+
+
+No entanto, em muitos casos o “above” e o “over” são usados de formas diferentes. Vejamos:
+
+
+ABOVE:
+
+
+1. Para indicar que algo está em um nível superior:
+
+
+Their mansion is 700 meters above sea level.
+A mansão deles fica a 700 metros acima do nível do mar.
+
+
+2. Quando algo está em um nível mais alto que outro em um ponto ou escala:
+
+
+His name is above mine in the waiting list.
+O nome dele está acima do meu na lista de espera.
+
+
+---
+
+3. Quando não há contato físico de uma coisa com outra:
+
+
+The crib mobile is above the baby.
+O móbile do berço está acima do bebê.
+
+
+4. Indica que não há movimento de um local ou posição para outra:
+
+
+The helicopter hovered above the stadium.
+O helicóptero pairou sobre o estádio.
+
+
+5. Quando se referir a temperaturas em relação ao zero ou à média:
+
+
+The temperature at noon was 10°C above zero.
+A temperatura ao meio-dia era 10°C acima de zero.
+
+
+The forecast for the weekend is above average for this time of year.
+A previsão para o fim de semana está acima da média para esta época do ano.
+
+
+6. Quando usada de modo figurado significando better than (melhor do que):
+
+
+She thinks she is above the law.
+Ela acha que está acima da lei.
+
+
+OVER:
+
+
+1. Quando algo toca outra coisa ou serve de cobertura:
+
+
+The mom put a sheet over the baby.
+A mãe colocou um lençol sobre o bebê.
+
+
+Pour some cream over the apple pie.
+
+
+---
+
+Ponha um pouco de creme sobre a torta de maçã.
+
+
+2. Indica movimento de um local ou posição para outra:
+
+
+That small plane flies over the mountains every week.
+Aquele pequeno avião sobrevoa as montanhas toda semana.
+
+
+3. Quando indica números ou tempo e é sinônimo de more than (mais do que):
+
+
+Over 60% of voters approve.
+Mais de 60% dos eleitores aprovam.
+
+
+At birth, a baby elephant can weigh over 100kg.
+Ao nascer, um bebê elefante pode pesar mais de 100 kg.
+
+
+We had been waiting for over two hours.
+Estávamos esperando há mais de duas horas.
+
+
+Quanto às outras preposições, para que fique mais esclarecido para você, eu as separei em
+três grupos:
+
+
+a) Lugar
+b) Movimento
+c) Variações
+
+
+Veja nos quadros abaixo um resumo das principais preposições:
+
+
+---
+
+                             5.3. PREPOSIÇÕES DE LUGAR
+
+at the back - atrás (no fundo)              in -              dentro
+
+at the front - à frente                     at     -          em, no, a
+
+above - acima                               on          -     em cima
+
+across       -      através de              behind      -     atrás
+
+in front of -       em frente de            below/beneath - abaixo de, debaixo de
+
+in the middle of - no meio de               beside - ao lado de, junto de, ao pé de
+
+next to     - junto a                       between - no meio de (entre dois)
+
+amid - entre (se fazer parte de um grupo)   out -      fora
+
+among - entre os (fazendo parte de um by - perto de, junto a, ao lado de, ao pé de
+grupo)
+
+around - ao redor                           over - sobre, em cima de, por cima de
+
+down        -      abaixo                   inside - dentro de
+
+away from - longe de                        into - dentro
+
+for       - para                            near - perto
+
+off       - fora                            outside - do lado de fora
+
+under     - em baixo de                     up - acima
+
+on the left - à esquerda                    on the right - à direita
+
+underneath - debaixo de, por baixo de, within - dentro de
+sob
+
+
+---
+
+            5.4. PREPOSIÇÕES DE MOVIMENTO
+
+across                     através de, de través
+
+along                      ao longo de
+
+around                     em volta
+
+away from                  para longe de
+
+down                       para baixo
+
+from                       de (origem)
+
+in                         para dentro
+
+into                       para dentro de
+
+off                        afastamento
+
+onto                       para cima de
+
+out of                     para fora de
+
+over                       por cima de
+
+past                       em frente, junto
+
+round                      em volta de
+
+through                    através de
+
+towards                    em direção a
+
+up                         para cima
+
+to                         para
+
+
+---
+
+Variações: O que chamei de “variações” refere-se ao modo variado como usamos o ON, AT e
+IN nas preposições de lugares, pois isto implica em como vemos os objetos quanto à altura,
+largura, profundidade, área; quando se refere a um tempo específico, a movimento, etc.
+Observe os exemplos abaixo:
+
+I am new in this city.
+Eu sou novo nesta cidade.
+
+
+Since its creation in 1930, the Bank for International Settlements (BIS) acts as a cooperation
+agent for the central banks. (www.bcb.gov.br)
+Desde a sua criação em 1930, o Banco de Compensações Internacionais (BIS) atua como um
+agente de cooperação para os Bancos Centrais.
+
+
+Do you have free time on Sundays?
+Você tem tempo livre nos Domingos?
+
+
+The Copom unanimously decided, at this moment, to maintain the Selic rate at 11.00 percent,
+without bias. (www.bcb.gov.br)
+O Copom decidiu, por unanimidade, neste momento, manter a taxa Selic em 11 por cento,
+sem viés.
+
+
+What time are you leaving for São Paulo? ~~ I will leave at 3 p.m.
+Que horas você parte para São Paulo?~~ Eu vou partir às 3 horas da tarde.
+
+
+Observe no último exemplo acima que at é usado ao falarmos de tempo, na resposta. Usa-se
+também o at nas expressões: at the weekend (no final de semana), at Christmas (no natal), at
+Easter (na Páscoa), at night (à noite).
+
+
+O uso do at night acontece quando refere-se a uma noite qualquer e in the night refere-se a
+uma noite específica, observe a diferença nos exemplos abaixo:
+
+
+I usually watch movies at night.
+Eu usualmente assisto filmes à noite.
+
+
+---
+
+I watched a movie in the night that you traveled to Recife.
+Eu assisti um filme na noite em que você viajou para Recife.
+
+
+Observe a seguir o uso do at quando se refere a um lugar específico:
+
+
+He is an environment adviser at the Brazilian office of the Inter-American Development Bank
+(IDB).
+Ele é um consultor ambiental na filial brasileira do Banco de Desenvolvimento Interamericano
+(BID).
+
+
+He failed to stop at the traffic lights and went through the light on red.
+Ele não conseguiu parar no semáforo e atravessou a luz vermelha.
+
+
+I was waiting for at least half an hour at the station, but no train came.
+Eu estava esperando por pelo menos meia hora na estação, mas nenhum trem veio.
+
+
+Veja a seguir exemplos com as preposições lugar e movimento:
+
+
+Several local volunteer associations have created “time banks” that exchange services among
+people.
+Várias associações voluntárias criaram “bancos de tempo”, que trocam serviços entre as
+pessoas.
+
+
+This credit card was issued by a bank.
+Esse cartão de crédito foi emitido por um banco.
+
+
+This independent bank holds monetary sovereignty over the participating governments.
+Esse banco independente é soberano em questões financeiras sobre os governos
+participantes.
+
+
+Para tempos como “sábado de manhã” (Saturday morning) ou “domingo à tarde” (Sunday
+evening), nós usamos on para referir-se a partes do dia:
+
+
+---
+
+You can’t borrow my car on Saturday afternoon.
+Você não pode pegar emprestado meu carro no sábado à tarde.
+
+
+We are arriving in New York City on the 15th of November.
+Nós chegaremos em Nova Iorque em 15 de novembro.
+
+
+Para falar de séculos, estações, meses, semanas e para frases de tempo, usamos in :
+
+
+We are arriving in New York in the spring.
+Nós chegaremos em Nova Iorque na Primavera.
+
+
+Brazil first won the World Cup in 1958 and then again in 1962, but in 1966 it was England's
+turn.
+O Brasil ganhou primeiro a Copa do Mundo em 1958 e então novamente em 1962, mas em
+1966 foi a vez da Inglaterra.
+
+
+Observe as duas expressões in time (antes do tempo determinado) e on time (exatamente
+no tempo determinado), veja a diferença nos exemplos a seguir:
+
+
+The 4.30 train is always on time, but yesterday it was late.
+O trem das 4.30 está sempre no horário, mas ontem chegou tarde.
+
+
+Our friends couldn’t arrive in time for the beginning of the concert.
+Nossos amigos não puderam chegar a tempo para o início do concerto.
+
+
+As preposições Despite (apesar de) e In Spite of (apesar de) também são muito importantes
+e sempre estão presentes em provas. São preposições sinônimas que expressam contraste
+entre duas frases. NÃO há diferença entre elas.
+
+
+Despite doing awful in College she got a good job.
+Apesar de ir mal na faculdade, ela conseguiu um bom emprego.
+
+
+---
+
+In spite of doing awful in College she got a good job.
+Apesar de ir mal na faculdade, ela conseguiu um bom emprego.
+
+
+Despite/Spite of increases in data transparency, there is still very little transparency on
+ethical survey implementation and management.
+Apesar dos aumentos na transparência dos dados, ainda há muito pouca transparência na
+implementação e gerenciamento de pesquisas éticas.
+
+
+Exceção: Quando aparecer In spite of oneself (contra a vontade, involuntariamente) se
+trata de uma expressão idiomática. Sempre analise o contexto.
+
+
+I laughed when I listened to her, in spite of myself!
+Eu dei risada quando a ouvi, contra a minha vontade/involuntariamente.
+
+
+Segue abaixo mais exemplos de preposições que são mais usadas em textos e questões:
+
+about                                           em torno de, cerca de, sobre, por volta de
+
+according to                                    de acordo com, na opinião de
+
+ahead of                                        à frente de, adiante de, na dianteira
+
+during                                          durante
+
+next to                                         ao lado de, perto de
+
+past                                            após, depois, além de
+
+throughout                                      por todo, por, por todo tempo
+
+
+---
+
+                                     RESUMO
+
+    •    A maioria das frases em Inglês são formadas assim: Sujeito + Verbo +
+         Complemento
+    •    Em perguntas com determinados verbos, inverte-se as posições do verbo e
+         sujeito.
+    •    Essa inversão também acontece quando há forma negativa de alguns
+         verbos, substantivos acompanhados de adjetivos e caso genitivo (‘s).
+    •    Quando um substantivo é incontável ele não vai para o plural. Ex: wine.
+    •    Alguns substantivos não tem flexão de gênero. Ex: lawyer (advogado/a).
+    •    O adjetivo vem antes do substantivo.
+
+                 Pronome Sujeito                              Pronome Objeto
+
+                      I (eu)                 me (me, mim)
+
+                     He (ele)                him (lhe, o, a ele)
+
+                    She (ela)                her (lhe, a, a ela)
+
+                    It (neutro)              it (lhe, o, a)
+
+                       You                   you (lhe, o, a, te, ti, a você)
+
+                    We (nós)                 us (nos)
+
+                       You                   you (vos, lhes, vocês)
+
+                 They (eles, elas)           them (lhes, os, as)
+
+•       ANY é usado: 1. Em frases negativas significa “nenhum(a)”. 2. Em afirmativas
+        significa “qualquer”. 3. Em interrogativas na sua maioria
+
+
+•       As preposições Despite (apesar de) e Spite of (apesar de) também são
+        muito importantes e sempre estão presentes em provas.
+
+
+---
+
+               Pronome Reflexivo                                  Tradução
+
+                He (ele)- himself           A si, a ele mesmo, -se
+
+                  I (eu)– myself            A mim mesmo, -me
+
+           It (ele, ela /neutro)- itself    A si mesmo (a), -se
+
+                She (ela) - herself         A si, a ela mesma, -se
+
+         They (eles, elas)– themselves      A eles mesmos (as), a si
+
+               We (nós)- ourselves          A nós mesmos (as), nos
+
+            You (tu, você)– yourself        A ti, a você mesmo, -te, -se
+
+          You (vós, vocês)- yourselves      A vós, vocês mesmos (as), -vos,-se
+
+•
+
+             Possessive Adjectives                    Possessive Pronouns
+
+                     I – my                            mine (meu, minha)
+
+                   you - your                       yours (teu, tua, seu, sua)
+
+                    He - his                             his (seu, dele)
+
+                   She – her                             hers (seu, dela)
+
+                     It – its                        its (dele, dela/neutro)
+
+                    We – our                              ours (nosso)
+
+                   You – your                           yours (de vocês)
+
+                  They - their                         theirs (deles, delas)
+
+      Pronome Demonstrativo Singular             Pronome Demonstrativo Plural
+
+That – aquele, aquela, aquilo              Those – aqueles, aquelas
+
+This – este, esta, isto                    These – estes, estas
+
+
+---
+
+Pronomes Indefinidos Pessoais     Tradução
+
+anyone - anybody                  alguém, qualquer pessoa
+
+everyone - everybody              todos, todo o mundo
+
+no one – none - nobody            ninguém, nenhum (a)
+
+somebody – someone                alguém
+
+
+Pronomes Indefinidos Impessoais   Tradução
+
+anything                          qualquer coisa, nada, tudo
+
+everything                        tudo
+
+nothing - none                    nada, nenhum (a)
+
+something                         alguma coisa, algo
+
+
+Pronomes Indefinidos de lugares   Tradução
+
+anywhere                          qualquer lugar (interrogativa); nenhum
+                                  lugar (negativa)
+
+everywhere                        em todo lugar
+
+somewhere                         em algum lugar
+
+about                             em torno de, cerca de, sobre, por volta
+                                  de
+
+according to                      de acordo com, na opinião de
+
+ahead of                          à frente de, adiante de, na dianteira
+
+during                            durante
+
+next to                           ao lado de, perto de
+
+past                              após, depois, além de
+
+
+---
+
+Dica da Ena: Procure conferir o gabarito somente depois de resolver as questões,
+pois assim será mais proveitoso. Vá então agora para a Lista de Questões no final
+da aula e comece por lá. Sucesso!
+
+                                       TEXTO 1
+Oficial de Chancelaria – MRE – FGV
+
+
+READ TEXT I AND ANSWER QUESTIONS 01 TO 10.
+LEIA O TEXTO E RESPONDA AS QUESTÕES 01 A 10.
+
+
+                How music is the real language of political diplomacy
+
+
+         Forget guns and bombs, it is the power of melody that has changed the world
+
+
+Marie Zawisza
+
+
+---
+
+Celebrated cellist Mstislav Rostropovich plays in front of the Berlin wall on 11 November 1989.
+Photograph: AP
+
+
+An old man plays his cello at the foot of a crumbling wall. The notes of the sarabande of Bach’s
+Suite No 2 rise in the cold air, praising God for the “miracle” of the fall of the Berlin Wall, as
+Mstislav Rostropovich later put it. The photograph is seen around the world. The date is 11
+November 1989, and the Russian virtuoso is marching to the beat of history.
+
+
+Publicity stunt or political act? No doubt a bit of both – and proof, in any case, that music can
+have a political dimension. Yo-Yo Ma showed as much in September when the cellist opened the
+new season of the Philharmonie de Paris with the Boston Symphony Orchestra. As a “messenger
+of peace” for the United Nations, the Chinese American is the founder of Silk Road Project, which
+trains young musicians from a variety of cultures to listen to and improvise with each other and
+develop a common repertoire. “In this way, musicians create a dialogue and arrive at common
+policies,” says analyst Frédéric Ramel, a professor at the Institut d’Études Politiques in Paris. By
+having music take the place of speeches and peace talks, the hope is that it will succeed where
+diplomacy has failed. […]
+
+
+Curiously, the study of the role of music in international relations is still in its infancy. “Historians
+must have long seen it as something fanciful, because history has long been dominated by
+interpretations that stress economic, social and political factors,” says Anaïs Fléchet, a lecturer in
+contemporary history at the Université de Versailles-St-Quentin and co-editor of a book about
+music and globalisation.
+
+
+“As for musicologists,” she adds, “until quite recently they were more interested in analysing
+musical scores than the actual context in which these were produced and how they were
+received.” In the 1990s came a cultural shift. Scholars were no longer interested solely in “hard
+power” – that is, in the balance of powers and in geopolitics – but also in “soft power”, where
+political issues are resolved by mutual support rather than force.
+
+
+---
+
+Gilberto Gil sings while then UN secretary general Kofi Annan plays percussion at a September
+2003 concert at the UN headquarters honouring those killed by a bomb at a UN office in
+Baghdad a month earlier. Photograph: Zuma/Alamy
+
+
+Since then, every embassy has a cultural attaché. The US engages in “audio diplomacy” by
+financing hip-hop festivals in the Middle East. China promotes opera in neighbouring states to
+project an image of harmony. Brazil has invested in culture to assert itself as a leader in Latin
+America, notably by establishing close collaboration between its ministries of foreign affairs and
+culture; musician Gilberto Gil was culture minister during Luiz Inácio Lula da Silva᾽s presidency
+from 2003 to 2008. He was involved in France’s Year of Brazil. As Fléchet recalls, “the free
+concert he gave on 13 July, 2005 at the Place de la Bastille was the pinnacle. That day, he sang La
+Marseillaise in the presence of presidents Lula and Jacques Chirac.” Two years earlier, in
+September 2003, Gil sang at the UN in honour of the victims of the 19 August bombing of the
+UN headquartes in Baghdad. He was delivering a message of peace, criticising the war on Iraq by
+the US: “There is no point in preaching security without giving a thought to respecting others,”
+he told his audience. Closing the concert, he invited then UN secretary general Kofi Annan on
+stage for a surprise appearance as a percussionist. “This highly symbolic image, which highlighted
+the conviction that culture can play a role in bringing people together, shows how music can
+become a political language,” Fléchet says.
+(Adapted from http://www.theguardian.com/music/2015/oct/31/music-language-human-rights-
+political-diplomacy)
+
+
+Comentários:
+01 Text I focuses on how music may function in international affairs and offers some arguments.
+In this respect, analyse the following statements:
+
+
+I. The study of the role music plays in diplomacy is now full-fledged.
+II. For many years, historians have considered music evidence-based practice.
+III. Only a short time ago, musicologists started to move away from the sheet to the setting.
+IV. Musicians may promote contexts where dialogue can be established.
+
+
+Choose the correct answer:
+
+
+(A) only I is correct;
+(B) only II is correct;
+(C) only III is correct;
+
+
+---
+
+(D) both II and IV are correct;
+(E) both III and IV are correct.
+
+
+01 Text I focuses on how music may function in international affairs and offers some arguments.
+In this respect, analyse the following statements:
+01 O Texto I se concentra em como a música pode funcionar em assuntos internacionais e
+oferece alguns argumentos. A este respeito, analise as seguintes declarações:
+
+
+I. The study of the role music plays in diplomacy is now full-fledged.
+I. O estudo do papel que a música desempenha na diplomacia está agora completo.
+
+
+Full-fledged = completo, desenvolvido, maduro, experiente, total.
+
+
+O texto diz que o estudo do papel da música nas relações internacionais ainda está em sua
+infância. Portanto, não se pode dizer que está completo. Errada.
+
+
+II. For many years historians have considered music evidence-based practice.
+II. Por muitos anos, os historiadores têm considerado a música uma prática baseada em
+evidências.
+
+
+O texto diz que os historiadores devem ter visto por muito tempo a música como uma prática de
+algo romanceado, já que a história tem sido dominada por interpretações que enfatizam os
+fatores econômicos, sociais e políticos. Então não se pode dizer que eles tem considerado a
+música uma prática baseada em evidências. Errada.
+
+
+III. Only a short time ago, musicologists started to move away from the sheet to the setting.
+III. Só há pouco tempo, os musicólogos começaram a mudar-se da partitura para o cenário.
+
+
+“As for musicologists,” she adds, “until quite recently they were more interested in analysing
+musical scores than the actual context in which these were produced and how they were
+received.”
+"Quanto aos musicólogos", acrescenta ela, "até muito recentemente eles estavam mais
+interessados em analisar partituras musicais do que o real contexto em que estas foram
+produzidas e como elas foram recebidas."
+
+
+---
+
+until quite recently = até muito recentemente = only a short time ago = só há pouco
+tempo
+
+musical scores = partituras musicais = sheet = partituras
+
+context = contexto = setting = cenário
+
+Observe que a assertiva está de acordo com o texto usando sinônimos de palavras. Correta.
+
+IV. Musicians may promote contexts where dialogue can be established.
+IV. Os músicos podem promover contextos em que o diálogo possa ser estabelecido.
+
+Gilberto Gil sings while then UN secretary general Kofi Annan plays percussion at a September
+2003 concert at the UN headquarters honouring those killed by a bomb at a UN office in
+Baghdad a month earlier. Photograph: Zuma/Alamy
+Gilberto Gil canta enquanto o então secretário-geral da ONU, Kofi Annan toca percussão em um
+concerto em Setembro de 2003 na sede da ONU em homenagem aos mortos por uma bomba
+em um escritório da ONU em Bagdá no mês anterior. Fotografia: Zuma / Alamy
+
+Além do exemplo acima, o texto mostra outros exemplos dos EUA e China de como os músicos
+podem promover contextos em que o diálogo pode ser estabelecido. Correta.
+
+Choose the correct answer:
+Escolha a resposta correta:
+
+
+(A) only I is correct; = apenas I é correta;
+(B) only II is correct; = apenas II é correta;
+(C) only III is correct; = apenas III é correta;
+(D) both II and IV are correct; = ambas II e IV são corretas;
+(E) both III and IV are correct. = ambas III e IV são corretas;
+
+GABARITO: E
+
+02 The reasoning implied in the sentence “By having music take the place of speeches and peace
+talks, the hope is that it will succeed where diplomacy has failed” is that:
+
+
+(A) musicians may deliver peace talks at United Nation conferences;
+
+
+---
+
+(B) diplomats may help musicians convey effective messages of peace;
+(C) diplomatic speeches need not succeed in promoting peace between the nations;
+(D) music should have the power to supplant diplomatic efforts when these do not work;
+(E) musicologists should help diplomats write their speeches when peace is threatened.
+
+
+02 The reasoning implied in the sentence “By having music take the place of speeches and peace
+talks, the hope is that it will succeed where diplomacy has failed” is that:
+02 O raciocínio implícito na frase "Por a música ter tomado o lugar de discursos e negociações
+de paz, a esperança é que ela vai ter sucesso onde a diplomacia tem falhado" é que:
+
+
+(A) musicians may deliver peace talks at United Nation conferences;
+(A) os músicos podem discursar sobre negociações de paz em conferências nas Nações Unidas;
+
+
+Nada a ver. O raciocínio é que a música e não o músico substitua discursos em certas ocasiões.
+Opção errada.
+
+
+(B) diplomats may help musicians convey effective messages of peace;
+(B) os diplomatas podem ajudar os músicos a transmitir mensagens de paz eficazes;
+
+
+Pelo contrário, não se trata dos diplomatas ajudarem os músicos, e sim dos músicos ajudarem os
+diplomatas. Errada.
+
+
+(C) diplomatic speeches need not succeed in promoting peace between the nations;
+(C) discursos diplomáticos não precisam ter sucesso na promoção da paz entre as nações;
+
+Essa opção é até um contra-senso. Nem precisa ir ao texto, pois com o conhecimento de mundo
+que você tem, sabe-se que um dos objetivos da diplomacia é promover a paz e não a guerra.
+Errada.
+
+(D) music should have the power to supplant diplomatic efforts when these do not work;
+(D) a música deve ter o poder de suplantar esforços diplomáticos quando estes não funcionam;
+
+“By having music take the place of speeches and peace talks, the hope is that it will succeed
+where diplomacy has failed”
+"Por a música ter tomado o lugar de discursos e negociações de paz, a esperança é que ela vai
+ter sucesso onde a diplomacia tem falhado"
+
+
+---
+
+Supplant = suplantar, substituir = succeed = suceder-se bem
+
+Diplomatic efforts = esforços diplomáticos = diplomacy = diplomacia
+
+Do not work = não funcionam = has failed = tem falhado, fracassado
+
+A opção expressa o correto raciocínio implícito na frase do texto ao usar sinônimos de palavras.
+Essa é a opção correta.
+
+(E) musicologists should help diplomats write their speeches when peace is threatened.
+(E) os musicólogos devem ajudar os diplomatas a escrever seus discursos quando a paz está
+ameaçada.
+
+Nada a ver. Este não é o raciocíno das entrelinhas da frase. Os músicos compõe música, poesia,
+não discursos diplomáticos. Errada.
+
+
+GABARITO: D
+
+03 The function of the second photograph in Text I is to:
+
+
+(A) exemplify how politicians have many skills other than diplomacy;
+(B) support the argument that music may work beyond entertainment;
+(C) inform the readers that there was a bomb at a UN office in Baghdad;
+(D) illustrate how Gilberto Gil and Kofi Annan could do an impromptu show;
+(E) demonstrate that politicians can also be skilled enough to perform in public.
+
+
+03 The function of the second photograph in Text I is to:
+03 A função da segunda fotografia do Texto I é:
+
+
+(A) exemplify how politicians have many skills other than diplomacy;
+(A) exemplificar como os políticos têm muitas outras competências além da diplomacia;
+
+
+A fotografia mostra que a música pode ter uma dimensão política. Mas isso não indica que ela
+quer destacar as diferentes habilidades dos políticos. Errada.
+
+
+---
+
+(B) support the argument that music may work beyond entertainment;
+(B) respaldar o argumento de que a música pode servir para mais do que entretenimento;
+
+
+“In this way, musicians create a dialogue and arrive at common policies,” says analyst Frédéric
+Ramel, a professor at the Institut d’Études Politiques in Paris. By having music take the place of
+speeches and peace talks, the hope is that it will succeed where diplomacy has failed. […]
+"Desta forma, os músicos criam um diálogo e chegam a políticas comuns", diz o analista Frédéric
+Ramel, professor do Institut d'Études Politiques de Paris. Por a música ter tomado o lugar de
+discursos e negociações de paz, a esperança é que ela vai ter sucesso onde a diplomacia tem
+falhado. [...]
+
+
+A fotografia mostra que a música, além de entretenimento, pode ser bem sucedida em atingir o
+objetivo que a diplomacia não conseguiu. Isso é embasado também pelo texto, no segmento
+acima. Essa é a opção correta.
+
+
+(C) inform the readers that there was a bomb at a UN office in Baghdad;
+(C) informar aos leitores que havia uma bomba em um escritório da ONU em Bagdá;
+
+
+A foto nada tem a ver com informar leitores sobre a bomba que explodiu em Bagdá. Esse
+assunto é abordado em um parágrafo do texto e por outro motivo. Errada.
+
+
+(D) illustrate how Gilberto Gil and Kofi Annan could do an impromptu show;
+(D) ilustram como Gilberto Gil e Kofi Annan poderiam fazer um show de improviso;
+
+
+A função da fotografia no texto não é mostrar as habilidades musicais de Gilberto Gil e Kofi
+Annan. Opção errada.
+
+
+(E) demonstrate that politicians can also be skilled enough to perform in public.
+(E) demonstram que os políticos também podem ser hábeis o suficiente para ter sucesso em
+público.
+
+
+A função da fotografia no texto não é demostrar as habilidades dos políticos em público. Opção
+errada.
+
+
+---
+
+GABARITO: B
+
+
+04 The word that is closer in meaning to “stunt” in the question “Publicity stunt or political act?”
+is:
+
+
+(A) tip;
+(B) event;
+(C) brand;
+(D) story;
+(E) poster.
+
+
+04 The word that is closer in meaning to “stunt” in the question “Publicity stunt or political act?”
+is:
+04 A palavra que tem o significado mais próximo de “golpe” na pergunta “Golpe publicitário ou
+ato político?”
+
+
+(A) tip;= dica, gorjeta
+(B) event; = evento, acontecimento
+(C) brand; = marca, estilo
+(D) story;= história
+(E) poster = pôster, cartaz
+
+
+Stunt = truque, golpe publicitário, ato, execução, façanha, proeza, algo feito para se chamar
+atenção
+
+
+Event = evento, episódio, fato, ocorrência
+
+
+Preste atenção ao enunciado, ele não pediu exatamente um sinônimo da palavra, mas sim aquela
+que tem um significado mais próximo. A pergunta se refere ao contexto anterior. O texto fala de
+uma foto que percorreu o mundo em 1989 de um violoncelista tocando junto ao caído muro de
+Berlin, para celebrar a sua queda. Não se trata de um pôster ou cartaz, é uma foto. Não faz
+sentido também que se pergunte se foi uma dica, uma marca ou história publicitária. Pode-se
+dizer, porém, evento ou golpe/truque publicitário.
+
+
+---
+
+GABARITO: B
+
+05 The underlined word in “until quite recently they were more interested in analysing musical
+scores than the actual context in which these were produced and how they were received” is a
+synonym of:
+
+
+(A) acute;
+(B) trusted;
+(C) genuine;
+(D) assumed;
+(E) unrealistic.
+
+
+05 The underlined word in “until quite recently they were more interested in analysing musical
+scores than the actual context in which these were produced and how they were received” is a
+synonym of:
+05 A palavra sublinhada em "até muito recentemente eles estavam mais interessados em analisar
+partituras musicais do que o real contexto em que estas foram produzidas e como elas foram
+recebidas" é sinônimo de:
+
+
+(A) acute; = agudo
+
+
+A palavra nada tem a ver com o significado daquela do texto. Errada.
+
+
+(B) trusted; = confiado
+
+
+Algo em que se confia, não necessariamente é algo real, genuíno. Errada.
+
+
+(C) genuine; = genuíno
+
+
+Genuine = genuíno,real, autêntico, verdadeiro = actual = verdadeiro, real
+
+
+---
+
+Se substituirmos uma palavra pela outra não haverá nenhuma alteração na compreensão textual,
+pois são sinônimas. Essa é a opção correta.
+
+
+(D) assumed; = presumido e (E) unrealistic. = irrealísta
+
+Ambas as opções expressam algo que é duvidoso e incerto. As palavras não são sinônimas
+daquela do texto. Erradas.
+
+GABARITO: C
+
+06 In the sentence “Gilberto Gil sings while then UN secretary general Kofi Annan plays”, the
+word “then” means:
+
+
+(A) late;
+(B) former;
+(C) recent;
+(D) deceased;
+(E) reinstated.
+
+
+06 In the sentence “Gilberto Gil sings while then UN secretary general Kofi Annan plays”, the
+word “then” means:
+06 Na frase “Gilberto Gil canta enquanto o então secretário geral Kofi Annan plays”, a palavra
+“então” significa:
+
+
+(A) late; = último
+
+
+late = morto = deceased = falecido
+late = recente, último = recent = recente, novo, último
+late = prévio, antigo, atrasado
+
+Observe que a palavra tem vários significados, mas nenhum deles é sinônimo da palavra do texto.
+Ela é sinônimo de outras opções, o que descarta a possibilidade de que seja a correta. Errada.
+
+(B) former; = ex
+
+
+---
+
+Gilberto Gil sings while then / former UN secretary general Kofi Annan plays.
+Gilberto Gil canta enquanto o então / ex secretário geral Kofi Annan plays.
+
+former = ex, prévio, anterior, precedente = then = naquele tempo, dias, ocasião, momento;
+então, mais tarde, também, além disso;
+
+Se substituirmos essa palavra por aquela do texto não altera em nada pois são sinônimas. Essa é
+a opção correta.
+
+(C) recent; = recente
+
+recent = recente, novo, último = late = recente, último
+
+Ela é sinônimo de outra opção, o que descarta a possibilidade de que seja a correta. Além disso
+não tem o mesmo significado de then no texto. Errada.
+
+(D) deceased; = falecido
+
+deceased = falecido = late = morto
+
+Além da palavra não ser sinônima daquela do texto, tem o mesmo significado de uma das outras
+opções e só por isso não poderia ser a resposta. Errada.
+
+(E) reinstated. = reintegrado
+
+Não significa “reintegrado”, se substituíssimos essa palavra por aquela do texto mudaria a sua
+compreensão. Errada.
+
+
+GABARITO: B
+
+07 “All words belong to categories called word classes (or parts of speech) according to the part
+they play in a sentence”
+(http://www.oxforddictionaries.com/words/word-classes-or-parts-of- speech).
+
+
+The underlined word in the sentence “history has long been dominated by interpretations that
+stress economic, social and political factors” belongs to the same class as the underlined word in:
+
+
+(A) “at the foot of a crumbling wall”;
+
+
+---
+
+(B) “In the 1990s came a cultural shift”;
+(C) “There is no point in preaching security”;
+(D) “China promotes opera in neighbouring states”;
+(E) “political issues are resolved by mutual support”.
+
+
+07 “All words belong to categories called word classes (or parts of speech) according to the part
+they play in a sentence”
+(http://www.oxforddictionaries.com/words/word-classes-or-parts-of- speech).
+07 "Todas as palavras pertencem às categorias denominadas classes de palavras (ou partes do
+discurso) de acordo com o papel que desempenham em uma frase"
+(Http://www.oxforddictionaries.com/words/word-classes-or-parts-of- fala).
+
+
+The underlined word in the sentence “history has long been dominated by interpretations that
+stress economic, social and political factors” belongs to the same class as the underlined word in:
+A palavra sublinhada na frase "a história tem sido dominada por interpretações que enfatizam os
+fatores econômicos, sociais e políticos" pertence à mesma classe que a palavra sublinhada em:
+
+
+(A) “at the foot of a crumbling wall”;
+(A) "ao pé de um muro em ruínas";
+
+
+A palavra da opção é um adjetivo. Aquela grifada é verbo. Portanto não pertencem à mesma
+classe de palavras. Errada.
+
+
+(B) “In the 1990s came a cultural shift”;
+(B) "Na década de 1990 veio uma mudança cultural";
+
+
+A palavra da opção é um substantivo. Aquela grifada é verbo. Portanto não pertencem à mesma
+classe de palavras. Errada.
+
+
+(C) “There is no point in preaching security”;
+(C) "Não há nenhum ponto em pregar segurança".
+
+
+In preaching ( preposição + verbo com terminação ING) = em pregar
+
+
+---
+
+Stress = enfatizar, ressaltar, estressar (verbo)
+
+
+Após uma preposição, o verbo vem sempre na forma com sufixo ING. A classe de palavra da
+opção é a mesma da palavra grifada. Ambos são verbos. Essa é a opção correta.
+
+
+(D) “China promotes opera in neighbouring states”;
+(D) "A China promove ópera em estados vizinhos";
+
+
+A palavra da opção é um adjetivo. Aquela grifada é verbo. Portanto não pertencem à mesma
+classe de palavras. Errada.
+
+
+(E) “political issues are resolved by mutual support”.
+(E) "questões políticas são resolvidas pelo apoio mútuo".
+
+
+A palavra da opção é um substantivo. Aquela grifada é verbo. Portanto não pertencem à mesma
+classe de palavras. Errada.
+
+
+GABARITO: C
+
+08 The underlined part of the sentence “He was involved in France’s Year of Brazil” is an answer
+to the question:
+
+
+(A) Whose year was it?
+(B) How was he involved?
+(C) When was he involved?
+(D) Where was he involved?
+(E) What was he involved in?
+
+
+08 The underlined part of the sentence “He was involved in France’s Year of Brazil” is an answer
+to the question:
+08 A parte grifada da frase “Ele estava envolvido no Ano do Brasil na França é uma resposta para
+a pergunta:
+
+
+---
+
+(A) Whose year was it? = De quem era aquele ano?
+
+A resposta à pergunta feita com o whose (de quem) teria como resposta um nome de uma
+pessoa ou pessoas. Opção errada.
+
+(B) How was he involved? = Como ele estava envolvido?
+
+A resposta à pergunta feita com o how (como) teria como resposta a função ou papel dele.
+Opção errada.
+
+(C) When was he involved? = Quando ele estava envolvido?
+
+A resposta à pergunta feita com o when (quando) teria como resposta uma data ou um tempo,
+momento especificado. Opção errada.
+
+(D) Where was he involved? = Onde ele estava envolvido?
+
+A resposta à pergunta feita com o where (onde) teria como resposta o nome de um lugar ou
+localidade. Opção errada.
+
+(E) What was he involved in? = Em que ele estava envolvido?
+
+A resposta a essa pergunta pede um objeto, pois o verbo involved in pede um objeto. Quem está
+envolvido, está envolvido em alguma coisa. E a resposta é que ele estava envolvido no evento
+Ano do Brasil na França. Essa é a opção correta.
+
+
+GABARITO: E
+
+
+09 The expression “rather than” in “political issues are resolved by mutual support rather than
+force” can be replaced without change in meaning by:
+
+
+(A) in spite of;
+(B) instead of;
+(C) regardless of;
+(D) in defiance of;
+(E) irrespective of.
+
+
+---
+
+09 The expression “rather than” in “political issues are resolved by mutual support rather than
+force” can be replaced without change in meaning by:
+09 A expressão “ao invés de” em ““questões políticas são resolvidas pelo apoio mútuo ao invés
+da força” pode ser substituída sem mudança no significado por:
+
+(A) in spite of; = apesar de e (D) in defiance of; = apesar de
+
+Os conectivos de ambas opções são sinônimos e só por isso nenhuma delas poderia ser o
+gabarito. Além do que não são sinônimos da expressão pedida no enunciado. Erradas.
+
+(B) instead of; = ao invés de
+
+
+“political issues are resolved by mutual support rather than force”.
+“questões políticas são resolvidas pelo apoio mútuo ao invés da força”.
+
+
+Rather than = ao invés de = instead of = ao invés de
+
+
+Tanto faz usarmos um como outro, não altera a compreensão textual, pois são sinônimos. Essa é
+a opção correta.
+
+
+(C) regardless of; = independente de e (E) irrespective of. = sem considerar
+
+
+Os conectivos de ambas opções são sinônimos e só por isso nenhuma delas poderia ser o
+gabarito. Além do que não são sinônimos da expressão pedida no enunciado. Erradas.
+
+
+GABARITO: B
+
+10 The correct form of reporting the sentence “‘…musicians create a dialogue and arrive at
+common policies,’ says analyst Frédéric Ramel” is:
+
+
+(A) Analyst Frédéric Ramel said that musicians created a dialogue and arrived at common policies;
+
+
+---
+
+(B) Analyst Frédéric Ramel says that musicians created a dialogue and would arrive at common
+policies;
+(C) Analyst Frédéric Ramel would say that musicians created a dialogue and would arrive at
+common policies;
+(D) Analyst Frédéric Ramel had said that musicians had created a dialogue and arrived at common
+policies;
+(E) Analyst Frédéric Ramel has said that musicians are creating a dialogue and arriving at common
+policies.
+
+
+10 The correct form of reporting the sentence “‘…musicians create a dialogue and arrive at
+common policies,’ says analyst Frédéric Ramel” is:
+10 A correta forma de reportar a frase “…músicos criam uma diálogo e chegam a políticas
+comuns”, diz o analista Frédéric Ramel é:
+
+
+(A) Analyst Frédéric Ramel said that musicians created a dialogue and arrived at common policies;
+(A) o analista Frédéric Ramel disse que os músicos criaram um diálogo e chegaram a políticas
+comuns.
+
+
+Essa é uma questão que explora o assunto Discurso Direto e Indireto, um dos tópicos que vemos
+na Teoria Gramatical do curso. A frase do enunciado está no Discurso Direto ele quer que você
+escolha a opção que apresenta o Discurso Indireto dessa frase. Os verbos devem ter o mesmo
+tempo verbal. Os verbos said, created e arrived estão no Passado Simples, pois a frase do
+DD está no Presente Simples. Essa é a opção correta.
+
+
+(B) Analyst Frédéric Ramel says that musicians created a dialogue and would arrive at common
+policies;
+(B) o analista Frédéric Ramel diz que os músicos criaram um diálogo e chegariam a políticas
+comuns.
+
+
+O verbo says está no Presente Simples, created está no Passado Simples e would arrive está
+no Futuro do Pretérito (condicional). Opção errada.
+
+
+(C) Analyst Frédéric Ramel would say that musicians created a dialogue and would arrive at
+common policies;
+(C) o analista Frédéric Ramel diria que os músicos criaram um diálogo e chegariam a políticas
+comuns.
+
+
+---
+
+Os verbos would say e would arrive estão no Futuro do Pretérito (condicional) e created
+está no Passado Simples. Opção errada.
+
+
+(D) Analyst Frédéric Ramel had said that musicians had created a dialogue and arrived at common
+policies;
+(D) o analista Frédéric Ramel disse que os músicos tinham criado um diálogo e chegaram a
+políticas comuns.
+
+
+Os verbos had said e had created estão no tempo verbal Present Perfect e created está no
+Passado Simples. Opção errada.
+
+
+(E) Analyst Frédéric Ramel has said that musicians are creating a dialogue and arriving at common
+policies.
+(E) o analista Frédéric Ramel disse que os músicos estão criando um diálogo e chegando a
+políticas comuns.
+
+
+Os verbos had said está no tempo verbal Present Perfect, e are creating e arriving no
+Gerúndio. Opção errada.
+
+
+GABARITO: A
+
+Translation
+
+
+How music is the real language of political diplomacy
+Como a música é a verdadeira linguagem da diplomacia política
+
+
+Forget guns and bombs, it is the power of melody that has changed the world
+Esqueça armas e bombas, é o poder da melodia que tem mudado o mundo
+
+
+Celebrated cellist Mstislav Rostropovich plays in front of the Berlin wall on 11 November 1989.
+Photograph: AP
+Célebre violoncellista Mstislav Rostropovich toca em frente ao muro de Berlin em 11 de
+Novembro de 1989. Fotografia: AP
+
+
+---
+
+An old man plays his cello at the foot of a crumbling wall. The notes of the sarabande of Bach’s
+Suite No 2 rise in the cold air, praising God for the “miracle” of the fall of the Berlin Wall, as
+Mstislav Rostropovich later put it. The photograph is seen around the world. The date is 11
+November 1989, and the Russian virtuoso is marching to the beat of history.
+
+Um homem idoso toca seu violoncelo ao pé de um muro em ruínas. As notas da sarabanda da
+suíte n ° 2 de Bach ascende no ar frio, louvando a Deus pelo "milagre" da queda do Muro de
+Berlim, como se expressou mais tarde Mstislav Rostropovich. A fotografia é vista em todo o
+mundo. A data é 11 de novembro de 1989, e o virtuoso russo está marchando para o itinerário da
+história.
+
+Publicity stunt or political act? No doubt a bit of both – and proof, in any case, that music can
+have a political dimension. Yo-Yo Ma showed as much in September when the cellist opened the
+new season of the Philharmonie de Paris with the Boston Symphony Orchestra. As a “messenger
+of peace” for the United Nations, the Chinese American is the founder of Silk Road Project, which
+trains young musicians from a variety of cultures to listen to and improvise with each other and
+develop a common repertoire.
+
+Golpe de publicidade ou ato político? Sem dúvida, um pouco de ambos - e prova, em qualquer
+caso, que a música pode ter uma dimensão política. Yo-Yo Ma mostrou quase o mesmo em
+setembro, quando o violoncelista abriu a nova temporada da Philharmonie de Paris com a
+Orquestra Sinfônica de Boston. Como um "mensageiro da paz" para as Nações Unidas, o
+americano chinês é o fundador do Projeto Rota da Seda, que capacita jovens músicos de uma
+variedade de culturas para ouvir e improvisar uns com os outros e desenvolver um repertório
+comum.
+
+“In this way, musicians create a dialogue and arrive at common policies,” says analyst Frédéric
+Ramel, a professor at the Institut d’Études Politiques in Paris. By having music take the place of
+speeches and peace talks, the hope is that it will succeed where diplomacy has failed. […]
+
+"Desta forma, os músicos criam um diálogo e chegam a políticas comuns", diz o analista Frédéric
+Ramel, professor do Institut d'Études Politiques de Paris. Por a música ter tomado o lugar de
+discursos e negociações de paz, a esperança é que ela vai ter sucesso onde a diplomacia tem
+falhado. [...]
+
+Curiously, the study of the role of music in international relations is still in its infancy. “Historians
+must have long seen it as something fanciful, because history has long been dominated by
+interpretations that stress economic, social and political factors,” says Anaïs Fléchet, a lecturer in
+contemporary history at the Université de Versailles-St-Quentin and co-editor of a book about
+music and globalisation.
+
+
+---
+
+Curiosamente, o estudo do papel da música nas relações internacionais ainda está em sua
+infância. "Os historiadores devem ter visto isso por muito tempo como algo romanceado, já que
+a história tem sido dominada por interpretações que enfatizam os fatores econômicos, sociais e
+políticos", diz Anaïs Flechet, professora de história contemporânea na Universidade de Versailles-
+Saint-Quentin e co-editora de um livro sobre música e globalização.
+
+“As for musicologists,” she adds, “until quite recently they were more interested in analysing
+musical scores than the actual context in which these were produced and how they were
+received.” In the 1990s came a cultural shift. Scholars were no longer interested solely in “hard
+power” – that is, in the balance of powers and in geopolitics – but also in “soft power”, where
+political issues are resolved by mutual support rather than force.
+
+"Quanto aos musicólogos", acrescenta ela, "até muito recentemente eles estavam mais
+interessados em analisar partituras musicais do que o real contexto em que estas foram
+produzidas e como elas foram recebidas." Na década de 1990 veio uma mudança cultural. Os
+estudiosos já não estavam interessados apenas em "autoritarismo" - ou seja, no equilíbrio de
+poderes e na geopolítica - mas também em "poder de persuasão", onde as questões políticas
+são resolvidas pelo apoio mútuo ao invés da força.
+
+Gilberto Gil sings while then UN secretary general Kofi Annan plays percussion at a September
+2003 concert at the UN headquarters honouring those killed by a bomb at a UN office in
+Baghdad a month earlier. Photograph: Zuma/Alamy
+
+Gilberto Gil canta enquanto o então secretário-geral da ONU, Kofi Annan toca percussão em um
+concerto em Setembro de 2003 na sede da ONU em homenagem aos mortos por uma bomba
+em um escritório da ONU em Bagdá no mês anterior. Fotografia: Zuma / Alamy
+
+
+Since then, every embassy has a cultural attaché. The US engages in “audio diplomacy” by
+financing hip-hop festivals in the Middle East. China promotes opera in neighbouring states to
+project an image of harmony. Brazil has invested in culture to assert itself as a leader in Latin
+America, notably by establishing close collaboration between its ministries of foreign affairs and
+culture; musician Gilberto Gil was culture minister during Luiz Inácio Lula da Silva᾽s presidency
+from 2003 to 2008.
+
+Desde então, cada embaixada tem um adido cultural. Os EUA se envolvem em "diplomacia de
+áudio" através do financiamento de festivais de hip-hop no Oriente Médio. A China promove
+ópera em estados vizinhos para projetar uma imagem de harmonia. O Brasil tem investido na
+cultura por afirmar-se como um líder na América Latina, especialmente através do
+estabelecimento de uma estreita colaboração entre os seus ministérios das Relações Exteriores e
+da cultura; o músico Gilberto Gil foi ministro da Cultura durante a presidência de Luiz Inácio Lula
+da Silva de 2003 a 2008.
+
+
+---
+
+He was involved in France’s Year of Brazil. As Fléchet recalls, “the free concert he gave on 13
+July, 2005 at the Place de la Bastille was the pinnacle. That day, he sang La Marseillaise in the
+presence of presidents Lula and Jacques Chirac.” Two years earlier, in September 2003, Gil sang
+at the UN in honour of the victims of the 19 August bombing of the UN headquarter in Baghdad.
+
+Ele estava envolvido em Ano do Brasil na França. Como Flechet recorda, "o concerto gratuito
+que deu em 13 de Julho de 2005, na Place de la Bastille foi o auge. Naquele dia, ele cantou La
+Marseillaise na presença dos presidentes Lula e Jacques Chirac. "Dois anos antes, em setembro
+de 2003, Gil cantou na ONU, em honra das vítimas do bombardeio à sede da ONU em Bagdá em
+19 de Agosto.
+
+
+He was delivering a message of peace, criticising the war on Iraq by the US: “There is no point in
+preaching security without giving a thought to respecting others,” he told his audience. Closing
+the concert, he invited then UN secretary general Kofi Annan on stage for a surprise appearance
+as a percussionist. “This highly symbolic image, which highlighted the conviction that culture can
+play a role in bringing people together, shows how music can become a political language,”
+Fléchet says.
+
+(Adapted from http://www.theguardian.com/music/2015/oct/31/music-language-human-rights-
+political-diplomacy)
+
+Ele estava mandando uma mensagem de paz, criticando a guerra no Iraque pelos Estados
+Unidos: "Não há nenhum ponto em pregar segurança sem pensar em respeitar outros", ele disse
+à sua audiência. Fechando o concerto, ele convidou o então secretário-geral da ONU, Kofi Annan
+ao palco para uma aparição surpresa como percussionista. "Esta imagem altamente simbólica,
+que destacou a convicção de que a cultura pode desempenhar um papel na aproximação das
+pessoas, mostra como a música pode se tornar uma linguagem política", diz Flechet.
+
+
+---
+
+                                         TEXTO 2
+AFRFB – Receita Federal – FGV - 2023
+
+
+                               Adding ethics to public finance
+
+
+Evolutionary moral psychologists point the way to garnering broader support for fiscal policies
+
+
+       Policy decisions on taxation and public expenditures intrinsically reflect moral choices. How
+much of your hard-earned money is it fair for the state to collect through taxes? Should the rich
+pay more? Should the state provide basic public services such as education and health care for
+free to all citizens? And so on.
+       Economists and public finance practitioners have traditionally focused on economic
+efficiency. When considering distributional issues, they have generally steered clear of moral
+considerations, perhaps fearing these could be seen as subjective. However, recent work by
+evolutionary moral psychologists suggests that policies can be better designed and muster
+broader support if policymakers consider the full range of moral perspectives on public finance. A
+few pioneering empirical applications of this approach in the field of economics have shown
+promise.
+       For the most part, economists have customarily analyzed redistribution in a way that
+requires users to provide their own preferences with regard to inequality: Tell economists how
+much you care about inequality, and they can tell you how much redistribution is appropriate
+through the tax and benefit system. People (or families or households) have usually been
+considered as individuals, and the only relevant characteristics for these exercises have been their
+incomes, wealth, or spending potential.
+       There are two — understandable but not fully satisfactory — reasons for this approach.
+First, economists often wish to be viewed as objective social scientists. Second, most public
+finance scholars have been educated in a tradition steeped in values of societies that are WEIRD
+(Western, Educated, Industrialized, Rich, and Democratic). In this context, individuals are at the
+center of the analysis, and morality is fundamentally about the golden rule — treat other people
+the way that you would want them to treat you, regardless of who those people are. These are
+crucial but ultimately insufficient perspectives on how humans make moral choices.
+
+        Evolutionary moral psychologists during the past couple of decades have shown that, faced
+with a moral dilemma, humans decide quickly what seems right or wrong based on instinct and
+later justify their decision through more deliberate reasoning. Based on evidence presented by
+these researchers, our instincts in the moral domain evolved as a way of fostering cooperation
+within a group, to help ensure survival. This modern perspective harks back to two moral
+
+
+---
+
+philosophers of the Scottish Enlightenment — David Hume and Adam Smith — who noted that
+sentiments are integral to people’s views on right and wrong. But most later philosophers in the
+Western tradition sought to base morality on reason alone.
+
+       Moral psychologists have recently shown that many people draw on moral perspectives
+that go well beyond the golden rule. Community, authority, divinity, purity, loyalty, and sanctity
+are important considerations not only in many non-Western countries, but also among politically
+influential segments of the population in advanced economies, as emphasized by proponents of
+moral foundations theory.
+      Regardless of whether one agrees with those broader moral perspectives, familiarity with
+them makes it easier to understand the underlying motivations for various groups’ positions in
+debates on public policies. Such understanding may help in the design of policies that can muster
+support from a wide range of groups with differing moral values.
+Adapted from: https://www.imf.org/en/Publications/fandd/issues/2022/03/Adding-          ethics-to-
+public-finance-Mauro
+
+
+Comentários:
+11 Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. The planning of fiscal strategies is impervious to moral considerations.
+II. Traditional public finance education based on the golden rule is wanting as regards moral
+choices.
+III. Since the 18th century, philosophers have been on the same page as regards moral dilemmas.
+
+
+The statements are, respectively,
+
+
+(A) T–F–T.
+(B) F–F–T.
+(C) F–T–F.
+(D) F–T–T.
+(E) T–F–F.
+
+
+11 Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+11 Com base no texto, marque as afirmações abaixo como VERDADEIRAS (V) ou FALSAS (F).
+
+
+---
+
+I. The planning of fiscal strategies is impervious to moral considerations.
+I. O planejamento de estratégias fiscais é imune a considerações morais.
+
+
+Pelo contrário, o texto diz que as decisões políticas sobre tributação e gastos públicos, ou seja, o
+planejamento de refletem intrinsecamente escolhas morais. Falsa.
+
+
+II. Traditional public finance education based on the golden rule is wanting as regards moral
+choices.
+II. A educação tradicional em finanças públicas baseada na regra de ouro é deficiente no que diz
+respeito às escolhas morais.
+
+
+In this context, individuals are at the center of the analysis, and morality is fundamentally about
+the golden rule — treat other people the way that you would want them to treat you, regardless
+of who those people are. These are crucial but ultimately insufficient perspectives on how humans
+make moral choices.
+Nesse contexto, os indivíduos estão no centro da análise, e a moralidade é fundamentalmente
+sobre a regra de ouro – trate as outras pessoas da maneira que você gostaria que elas o
+tratassem, independentemente de quem sejam essas pessoas. Essas são perspectivas cruciais,
+mas insuficientes quanto a como os humanos fazem escolhas morais.
+
+
+Wanting = carente, deficiente, destituído, desprovido = insufficient = insuficiente
+
+
+O texto diz que a educação tradicional em finanças públicas baseada na regra de ouro não é
+suficiente quanto a como os humanos fazem escolhas morais. Verdadeira.
+
+
+III. Since the 18th century, philosophers have been on the same page as regards moral dilemmas.
+III. Desde o século 18, os filosofos têm estado em sintonia no que diz respeito aos dilemas
+morais.
+
+
+O texto menciona dois filósofos morais do Iluminismo escocês – David Hume e Adam Smith – que
+observaram que os sentimentos são parte integrante das opiniões das pessoas sobre o certo e o
+errado. Mas a maioria dos filósofos posteriores da tradição ocidental procurou basear a
+moralidade apenas na razão. Portanto, não se pode dizer que os filosofos têm a mesma opinião,
+ou seja, estão de acordo no que diz respeito aos dilemas morais. Falsa.
+
+
+---
+
+The statements are, respectively,
+As declarações são, respectivamente,
+
+
+(A) T–F–T. – V – F - V
+(B) F–F–T. – F – F - V
+(C) F–T–F. – F – V – F (Correta)
+(D) F–T–T. – F – V - V
+(E) T–F–F. – V – F - F
+
+
+GABARITO: C
+
+12 In the subtitle, “garnering” comes from the notion of
+
+
+(A) storing grains.
+(B) renting garrets.
+(C) making garlands.
+(D) lapidating garnets.
+(E) charging garrisons.
+
+
+12 In the subtitle, “garnering” comes from the notion of
+12 No subtítulo, “garnering” vem da noção de
+
+
+(A) storing grains. - armazenar grãos.
+
+
+Evolutionary moral psychologists point the way to garnering broader support for fiscal policies
+Psicólogos da moral evolucionista apontam o caminho para reunir mais apoio para políticas fiscais
+
+
+---
+
+garner = reunir ou armazenar em um celeiro ou outro lugar de armazenamento; conseguir e
+manter (acumular) coisas abstratas como apoio, reputação, aprovação = gather = juntar, angariar,
+coletar, acumular, recolher, reunir = store = obter e guardar para depois, armazenar; =collect,
+assemble, muster;
+
+
+store (subst.)= loja (lugar que se estoca, guarda coisas que estão à venda); suprimento, estoque,
+provisões;
+
+
+Essa questão NÃO pede que você procure nas opções o que diz o texto, e sim o mesmo sentido
+da palavra garnering. Sempre falo nas minhas aulas que você preste atenção ao título do texto e
+ao seu subtítulo (se houver) pois eles resumem a principal mensagem do texto. Este fala na
+necessidade de se reunir o apoio de uma ampla gama de grupos com diferentes valores morais
+para ajudar na elaboração de políticas fiscais. O acúmulo desse apoio é comparado à noção de se
+acumular/juntar/guardar/estocar grãos quer seja num celeiro, numa despensa de sua casa, no
+freezer, para que quando você precisar você tenha esse produto/bem à sua disposição. Correta.
+
+
+(B) renting garrets. - alugar sótãos.
+(C) making garlands. - fazer guirlandas.
+(D) lapidating garnets. – lapidar granadas (tipo de pedra).
+(E) charging garrisons. – comandar tropas em um posto ou base militar.
+
+
+A expressão to garnering broader support (reunir mais apoio) não vem da noção de nenhuma
+dessas frases citadas nas opções B a E. Erradas.
+
+
+GABARITO: A
+
+
+13 The adjective in “is it fair for the state to collect through taxes” (1st paragraph) is equivalent in
+meaning to
+
+
+(A) bewildering.
+(B) befuddling.
+(C) bemusing.
+(D) beguiling.
+(E) befitting.
+
+
+---
+
+13 The adjective in “is it fair for the state to collect through taxes” (1st paragraph) is equivalent in
+meaning to
+13 O adjetivo em “é justo que o estado arrecade por meio de impostos” (parágrafo 1º) é
+equivalente em sentido a
+
+
+(A) bewildering. – desconcertante, desorientador, confuso.
+(B) befuddling. – confuso, desconcertante.
+(C) bemusing. – desconcertante, intrigante.
+(D) beguiling. – sedutor, charmoso.
+
+
+As opções acima não são sinônimas do adjetivo fair e as letras A, B e C são sinônimas entre si.
+Portanto, nenhuma das três poderia ser a resposta. Erradas.
+
+
+(E) befitting. – conveniente, adequado, apropriado.
+
+
+befitting – conveniente, adequado, apropriado = fair = justo
+
+
+Em primeiro lugar você precisa identificar que palavra é o adjetivo na frase do enunciado.
+Vejamos uma a uma: is (é, está verbo na 3a pess. do singular do Presente); it (pronome neutro:
+ele/ela/isso na 3a pess. do singular); fair (adjetivo); for (preposição); the (artigo); state
+(substantivo); to (preposição); collect (verbo); through (através de=preposição); taxes
+(substantivo); Identificando que o adjetivo da frase é o “fair” era só procurar o sinônimo dele.
+Essa é a correta.
+
+
+GABARITO: E
+
+
+---
+
+      Dica da Ena: Vá por mim, continuo enfatizando que na disciplina de Língua Inglesa,
+      mais importante do que se preocupar com a banca que vai elaborar a prova ou com a
+      fonte do texto, estude vocabulário! Isto é: o significado das palavras e seus
+      sinônimos em Inglês. Se você tiver uma boa bagagem de vocabulário resolverá prova
+      de qualquer banca e com texto de qualquer fonte. Por isso, sempre ponho quadros de
+      vocabulários e sinônimos nas minhas aulas, e/ou glossários e destaco palavras nos
+      meus comentários. Não falo por intuição, mas por experiência em concursos.
+
+14 The underlined expression in “regardless of who those people are” (4th paragraph) can be
+replaced without change in meaning by
+
+
+(A) alike.
+(B) despite.
+(C) whereas.
+(D) however.
+(E) concerning.
+
+14 The underlined expression in “regardless of who those people are” (4th paragraph) can be
+replaced without change in meaning by
+14 A expressão sublinhada em “independente de quem sejam essas pessoas” (4º parágrafo)
+pode ser substituída sem alteração de sentido por
+
+
+(A) alike. – igual, muito parecido, semelhante
+
+
+Uma expressão que pode substituir o alike é “in the same manner” (da mesma maneira). Errada.
+
+
+(B) despite. – apesar de
+
+
+“…treat other people the way that you would want them to treat you, regardless of who those
+people are. “
+
+
+---
+
+“…trate as outras pessoas da maneira que você                   gostaria   que   elas   o   tratassem,
+independentemente de quem sejam essas pessoas. “
+
+
+regard = considerar + sufixo less (sem/menos) = regardless = sem considerar, sem levar em
+conta, apesar de, independentemente
+regardless of = independentemente de, apesar de, não obstante, sem levar em consideração,
+sem se importar com = despite = apesar de
+
+
+O texto ao mencionar a Regra de Ouro diz que não se deve levar em conta quem sejam essas
+pessoas, ou seja, apesar de quem sejam as pessoas deve se tratá-las da maneira que você
+gostaria que elas o tratassem. Ambas as expressões indicam concessão. Portanto, uma pode
+substituir a outra sem alteração de sentido. Correta.
+
+
+(C) whereas. – enquanto, ao passo que
+
+
+Esse conectivo expressa contraste e pode ser substituído pelo “while” (enquanto). Errada.
+
+
+(D) however. – no entanto, entretanto, porém
+
+
+Esse conectivo expressa contraste e pode ser substituído por: but (mas), nevertheless (porém,
+todavia, contudo) dentre outros. Errada.
+
+
+(E) concerning. – a respeito de, considerando
+
+
+Essa palavra deixaria o texto com sentido oposto. Ela é antônimo do regardless of (sem
+considerar). Um de seus sinônimos é regarding (considerando). Errada.
+
+
+GABARITO: B
+
+
+15 When it is stated that “tradition [is] steeped in values of societies” (4th paragraph) it is implied
+that these values have been
+
+
+(A) imbued.
+
+
+---
+
+(B) shunned.
+(C) debased.
+(D) withheld.
+(E) overestimated.
+
+15 When it is stated that “tradition [is] steeped in values of societies” (4th paragraph) it is implied
+that these values have been
+15 Quando se afirma que “a tradição [está] imersa nos valores das sociedades” (4º parágrafo),
+fica implícito que esses valores têm sido
+
+
+(A) imbued. – imbuídos
+
+
+Second, most public finance scholars have been educated in a tradition steeped in values of
+societies that are WEIRD (Western, Educated, Industrialized, Rich, and Democratic).
+Em segundo lugar, a maioria dos estudiosos de finanças públicas foi educada em uma tradição
+que está imersa nos valores das sociedades que são ocidentais, educadas, industrializadas, ricas e
+democráticas.
+
+
+imbue = imbuir, impregnar = steep = impregnar, ficar imerso
+
+
+A afirmação do texto deixa implícito que esses valores estão imbuídos/imersos nas sociedades
+citadas. Correta.
+
+
+(B) shunned. - rejeitados
+(C) debased. - corrompidos
+(D) withheld. - negados
+(E) overestimated. - superestimados
+
+
+Nenhuma das opções acima apresenta uma palavra que expresse corretamente o que pede o
+comando da questão. Erradas.
+
+
+GABARITO: A
+
+
+---
+
+Translation
+                              Adding ethics to public finance
+                          Adicionando ética às finanças públicas
+
+
+Evolutionary moral psychologists point the way to garnering broader support for fiscal policies
+Psicólogos da moral evolucionista apontam o caminho para reunir mais apoio para políticas fiscais
+
+
+Policy decisions on taxation and public expenditures intrinsically reflect moral choices. How much
+of your hard-earned money is it fair for the state to collect through taxes? Should the rich pay
+more? Should the state provide basic public services such as education and health care for free to
+all citizens? And so on.
+
+
+As decisões políticas sobre tributação e gastos públicos refletem intrinsecamente escolhas
+morais. Quanto do seu dinheiro suado é justo que o estado faça arrecadação por meio de
+impostos? Os ricos devem pagar mais? O Estado deve fornecer serviços públicos básicos, como
+educação e saúde, gratuitamente a todos os cidadãos? E assim por diante.
+
+
+Economists and public finance practitioners have traditionally focused on economic efficiency.
+When considering distributional issues, they have generally steered clear of moral considerations,
+perhaps fearing these could be seen as subjective. However, recent work by evolutionary moral
+psychologists suggests that policies can be better designed and muster broader support if
+policymakers consider the full range of moral perspectives on public finance. A few pioneering
+empirical applications of this approach in the field of economics have shown promise.
+
+
+Economistas e profissionais de finanças públicas tradicionalmente se concentram na eficiência
+econômica. Ao considerar questões distributivas, eles geralmente evitam considerações morais,
+talvez temendo que possam ser vistas como subjetivas. No entanto, trabalhos recentes de
+psicólogos da moral evolucionista sugerem que as políticas podem ser melhor projetadas e reunir
+um apoio mais amplo se os elaboradores de políticas considerarem toda a gama de perspectivas
+morais sobre as finanças públicas. Algumas aplicações empíricas pioneiras dessa abordagem no
+campo da economia têm se mostrado promissoras.
+
+
+---
+
+For the most part, economists have customarily analyzed redistribution in a way that requires
+users to provide their own preferences with regard to inequality: Tell economists how much you
+care about inequality, and they can tell you how much redistribution is appropriate through the
+tax and benefit system. People (or families or households) have usually been considered as
+individuals, and the only relevant characteristics for these exercises have been their incomes,
+wealth, or spending potential.
+
+
+Na maioria das vezes, os economistas costumam analisar a redistribuição de uma forma que exige
+que os usuários forneçam suas próprias preferências com relação à desigualdade: diga aos
+economistas o quanto você se preocupa com a desigualdade e eles podem dizer o quanto a
+redistribuição é apropriada por meio do imposto e sistema de benefícios. Pessoas (ou famílias ou
+domicílios) geralmente são consideradas como indivíduos, e as únicas características relevantes
+para esses exercícios são suas rendas, riqueza ou potencial de gasto.
+
+
+There are two — understandable but not fully satisfactory — reasons for this approach. First,
+economists often wish to be viewed as objective social scientists. Second, most public finance
+scholars have been educated in a tradition steeped in values of societies that are WEIRD
+(Western, Educated, Industrialized, Rich, and Democratic). In this context, individuals are at the
+center of the analysis, and morality is fundamentally about the golden rule — treat other people
+the way that you would want them to treat you, regardless of who those people are. These are
+crucial but ultimately insufficient perspectives on how humans make moral choices.
+
+
+Há duas razões — compreensíveis, mas não totalmente satisfatórias — para essa abordagem.
+Primeiro, os economistas muitas vezes desejam ser vistos como cientistas sociais objetivos. Em
+segundo lugar, a maioria dos estudiosos de finanças públicas foi educada em uma tradição
+impregnada de valores de sociedades que são ocidentais, educadas, industrializadas, ricas e
+democráticas. Nesse contexto, os indivíduos estão no centro da análise, e a moralidade é
+fundamentalmente sobre a regra de ouro – trate as outras pessoas da maneira que você gostaria
+que elas o tratassem, independentemente de quem sejam essas pessoas. Essas são perspectivas
+cruciais, mas insuficientes sobre como os humanos fazem escolhas morais.
+
+
+Evolutionary moral psychologists during the past couple of decades have shown that, faced with a
+moral dilemma, humans decide quickly what seems right or wrong based on instinct and later
+justify their decision through more deliberate reasoning. Based on evidence presented by these
+researchers, our instincts in the moral domain evolved as a way of fostering cooperation within a
+group, to help ensure survival. This modern perspective harks back to two moral philosophers of
+the Scottish Enlightenment — David Hume and Adam Smith — who noted that sentiments are
+integral to people’s views on right and wrong. But most later philosophers in the Western
+tradition sought to base morality on reason alone.
+
+
+---
+
+Os psicólogos da moral evolucionista das últimas duas décadas mostraram que, diante de um
+dilema moral, os humanos decidem rapidamente o que parece certo ou errado com base no
+instinto e depois justificam sua decisão por meio de um raciocínio mais deliberado. Com base nas
+evidências apresentadas por esses pesquisadores, nossos instintos no domínio moral evoluíram
+como uma forma de promover a cooperação dentro de um grupo, para ajudar a garantir a
+sobrevivência. Essa perspectiva moderna remonta a dois filósofos morais do Iluminismo escocês –
+David Hume e Adam Smith – que observaram que os sentimentos são parte integrante das
+opiniões das pessoas sobre o certo e o errado. Mas a maioria dos filósofos posteriores da
+tradição ocidental procurou basear a moralidade apenas na razão.
+
+
+Moral psychologists have recently shown that many people draw on moral perspectives that go
+well beyond the golden rule. Community, authority, divinity, purity, loyalty, and sanctity are
+important considerations not only in many non-Western countries, but also among politically
+influential segments of the population in advanced economies, as emphasized by proponents of
+moral foundations theory.
+
+
+Psicólogos que adotam a abordagem da psicologia moral mostraram recentemente que muitas
+pessoas se baseiam em perspectivas morais que vão muito além da regra de ouro. Comunidade,
+autoridade, divindade, pureza, lealdade e santidade são considerações importantes não apenas
+em muitos países não ocidentais, mas também entre segmentos politicamente influentes da
+população em economias avançadas, conforme enfatizado pelos proponentes da teoria dos
+fundamentos morais.
+
+
+Regardless of whether one agrees with those broader moral perspectives, familiarity with them
+makes it easier to understand the underlying motivations for various groups’ positions in debates
+on public policies. Such understanding may help in the design of policies that can muster support
+from a wide range of groups with differing moral values.
+Adapted     from:   https://www.imf.org/en/Publications/fandd/issues/2022/03/Adding-ethics-to-
+public-finance-Mauro
+
+
+Independentemente de concordar ou não com essas perspectivas morais mais amplas, a
+familiaridade com elas facilita a compreensão das motivações subjacentes às posições de vários
+grupos nos debates sobre políticas públicas. Tal compreensão pode ajudar na elaboração de
+políticas que possam reunir o apoio de uma ampla gama de grupos com diferentes valores
+morais.
+
+
+---
+
+                                         TEXTO 3
+AFRFB – Receita Federal – FGV - 2023
+
+
+                                             Text II
+
+
+                How trade can become a gateway to climate resilience
+
+
+Most people don't think about climate change when they lift a café latte to their lips or nibble on
+a square of chocolate — but this could soon change.
+
+
+Based on current trajectories, around a quarter of Brazil’s coffee farms and 37% of Indonesia’s are
+likely to be lost to climate change. Swathes of Ghana and Côte d’Ivoire — where most of the
+world’s chocolate is sourced — will become too hot to grow cocoa by 2050.
+
+
+Climate-related droughts and deadly heatwaves across the world have coincided with severe
+storms, cyclones, hurricanes, and, of course, a pandemic. As a consequence of these shocks,
+millions of people have been left without homes, and a growing number of people now face
+starvation and a total collapse of livelihoods as growing and exporting staple crops becomes
+untenable.
+
+
+We must immediately rethink the shape of our economies, agricultural systems and consumption
+patterns. Our priority is to manufacture climate resilience in global economies and societies —
+and we must do it quickly.
+
+
+Trade can kickstart the emergence of climate-resilient economies, especially in the poorest
+countries. Trade has a multiplier effect on economies by driving production growth and fostering
+the expansion of export industries. By shifting focus to production and exports that increase
+climate resilience, there is potential to exponentially increase the land surface and trade
+processes prepared to withstand the climate crisis.
+
+
+---
+
+Adapted from: https://www.weforum.org/agenda/2022/07/trade-can-be-a- gateway-to-climate-
+resilience
+
+
+Comentários:
+16 The aim of the text is to offer
+
+
+(A) both an alert and a scolding.
+(B) a query and a dismissal.
+(C) a pledge and a grievance.
+(D) a warning and a way out.
+(E) a disclaimer and a solution.
+
+     Dica da Ena: Essa é uma questão típica de concurso. Não apenas da FGV, mas
+     também de outras bancas. Pergunta qual o objetivo do texto ou algo relacionado com
+     ele. Sempre observe o título do texto e o subtítulo (se houver). Eles resumem o seu
+     principal objetivo assim como uma manchete de jornal.
+
+16 The aim of the text is to offer
+16 O objetivo do texto é oferecer
+
+
+(A) both an alert and a scolding. - um alerta e uma repreensão.
+
+
+O texto tem como objetivo trazer um alerta, mas não uma repreensão. Errada.
+
+
+(B) a query and a dismissal. – uma pesquisa e uma rejeição.
+
+
+Nenhum dos dois são apontados pelo objetivo do texto. Errada.
+
+
+(C) a pledge and a grievance. - uma promessa e uma reclamação.
+
+
+Nenhum dos dois são apontados pelo objetivo do texto. Errada.
+
+
+---
+
+(D) a warning and a way out. - um aviso e uma saída.
+
+
+As a consequence of these shocks, millions of people have been left without homes, and a
+growing number of people now face starvation and a total collapse of livelihoods as growing and
+exporting staple crops becomes untenable.
+Como consequência desses choques, milhões de pessoas ficaram sem casa, e um número
+crescente de pessoas agora enfrenta a fome e um colapso total dos meios de subsistência, à
+medida que o cultivo e a exportação de alimentos básicos se tornam insustentáveis.
+
+
+                 How trade can become a gateway to climate resilience
+           Como o comércio pode vir a ser o sucesso da resiliência climática
+
+
+Desde o início do texto e principalmente no segmento acima o texto deixa claro que um dos seus
+objetivos é dá um aviso ou alerta. E o próprio título do texto já mostra que seu objetivo também
+é trazer uma solução ou saída para o problema. Só em analisar o título do texto você já
+descartaria as opções B, C e E pois nenhuma delas fala de alerta ou aviso. Essa é a opção correta.
+
+
+(E) a disclaimer and a solution. – uma ressalva e uma solução.
+
+
+Não há nenhuma ressalva ou isenção de responsabilidade que é destacada como objetivo do
+texto. No entanto, é apontada uma solução. Mas, para a opção está correta ambas as palavras
+tinham que está de acordo com o texto. Errada.
+
+
+GABARITO: D
+
+
+17 The position of the writer is that the situation described
+
+
+(A) could be shrugged off.
+(B) will not offer any harm.
+(C) ought to shift promptly.
+(D) should be taken lightly.
+(E) needs to be overlooked.
+
+
+---
+
+17 The position of the writer is that the situation described
+17 A posição do escritor é que a situação descrita
+
+
+(A) could be shrugged off. - poderia ser ignorada.
+
+
+(B) will not offer any harm. - não oferecerá nenhum dano.
+
+
+(C) ought to shift promptly. - deve mudar prontamente.
+
+
+(D) should be taken lightly. – não deve ser levada a sério.
+
+
+(E) needs to be overlooked. - deve ser ignorada.
+
+
+Esse é um tipo de questão que nem se precisava ir ao texto. Dica da Ena: Observe que a maior
+parte das opções diz praticamente a mesma coisa: que a situação descrita não é preocupante. A
+única que difere das outras é a letra C. O texto deixa claro que o assunto da mudança climática
+está em pauta como algo que se precisa fazer algo a respeito a nível emergencial.
+
+
+GABARITO: C
+
+18 The adjective in “the poorest countries” (5th paragraph) is in the same form as
+
+
+(A) All nations should be more attentive to the homeless.
+(B) Ghana will be having a fine chocolate harvest in 2050.
+(C) Brazil is one amongst many coffee-producing countries.
+(D) It is hard to point out the most comfortable places on Earth.
+(E) Hopefully by 2050 there will be fewer climate-related issues.
+
+
+---
+
+18 The adjective in “the poorest countries” (5th paragraph) is in the same form as
+18 O adjetivo em “os países mais pobres” (5º parágrafo) está na mesma forma que
+
+
+(A) All nations should be more attentive to the homeless. - Todas as nações deveriam estar mais
+atentas aos desabrigados.
+
+
+Attentive (adjetivo básico) = atencioso, atento >> more attentive (adjetivo comparativo)= mais
+atencioso/atento
+
+
+Não há um adjetivo no grau superlativo na frase da opção, assim como há no enunciado da
+questão. Os adjetivos estão em formas/graus diferentes. Errada.
+
+
+(B) Ghana will be having a fine chocolate harvest in 2050. - Gana terá uma ótima colheita de
+chocolate em 2050.
+
+
+O adjetivo da frase do enunciado é fine (ótima) e ele está na sua forma básica. A palavra harvest
+(colheita) é um substantivo, e não adjetivo. Essa palavra foi colocada de propósito na frase para
+confundir o candidato, pois tem terminação EST. Errada.
+
+
+(C) Brazil is one amongst many coffee-producing countries. - O Brasil está entre muitos países
+produtores de café.
+
+
+O adjetivo many está na sua forma básica. Portanto, ele não está na mesma forma ou grau
+daquele do enunciado, que é um superlativo. Errada.
+
+
+(D) It is hard to point out the most comfortable places on Earth. - É difícil apontar os lugares mais
+confortáveis da Terra.
+
+
+Poor (adjetivo básico) = pobre e poorest (superlativo) = o mais pobre
+Comfortable (adjetivo básico) = confortável e most comfortable (superlativo) = o mais
+confortável
+
+
+Esse é outro tipo de questão que nem precisava ir ao texto. O comando da questão é bem claro
+quanto a que forma do adjetivo da frase do texto é igual ao de uma das frases das opções. No
+
+
+---
+
+tópico “Adjetivos” (aula 02) vemos que geralmente o adjetivo em Inglês vem antes do
+substantivo. Os graus dos Adjetivos também estão em detalhes lá na parte teoria. Vemos que
+quando o adjetivo está no grau Superlativo, se a palavra for curta há a terminação EST no final. Se
+o adjetivo base for uma palavra longa se coloca o “most” antes dele. Portanto, nesse pequeno
+segmento de duas palavras, “countries” é o substantivo e “poorest” é o adjetivo no grau
+Superlativo. Essa é a opção que também tem um adjetivo no grau superlativo: most comfortable.
+Essa é a correta.
+
+
+(E) Hopefully by 2050 there will be fewer climate-related issues. - Esperançosamente, até 2050,
+haverá menos problemas relacionados ao clima.
+
+
+O fewer é o adjetivo comparativo de few usado com substantivos contáveis. Portanto, ele não
+está na mesma forma ou grau daquele do enunciado, que é um superlativo. Errada.
+
+
+GABARITO: D
+
+
+Translation
+
+
+                How trade can become a gateway to climate resilience
+    Como o comércio pode vir a ser o início do sucesso da resiliência climática
+
+
+Most people don't think about climate change when they lift a café latte to their lips or nibble on
+a square of chocolate — but this could soon change.
+
+
+A maioria das pessoas não pensa nas mudanças climáticas quando leva um café com leite aos
+lábios ou mordisca um pedaço de chocolate – mas isso pode mudar em breve.
+
+
+Based on current trajectories, around a quarter of Brazil’s coffee farms and 37% of Indonesia’s are
+likely to be lost to climate change. Swathes of Ghana and Côte d’Ivoire — where most of the
+world’s chocolate is sourced — will become too hot to grow cocoa by 2050.
+
+
+Com base nas trajetórias atuais, cerca de um quarto das fazendas de café do Brasil e 37%
+daquelas da Indonésia provavelmente serão perdidas pelas mudanças climáticas. Faixas de Gana
+e Costa do Marfim – de onde vem a maior parte do chocolate do mundo – ficarão muito quentes
+para o cultivo de cacau até 2050.
+
+
+---
+
+Climate-related droughts and deadly heatwaves across the world have coincided with severe
+storms, cyclones, hurricanes, and, of course, a pandemic. As a consequence of these shocks,
+millions of people have been left without homes, and a growing number of people now face
+starvation and a total collapse of livelihoods as growing and exporting staple crops becomes
+untenable.
+
+
+Secas relacionadas ao clima e ondas de calor mortais em todo o mundo coincidiram com fortes
+tempestades, ciclones, furacões e, é claro, uma pandemia. Como consequência desses choques,
+milhões de pessoas ficaram sem casa, e um número crescente de pessoas agora enfrenta a fome
+e um colapso total dos meios de subsistência, à medida que o cultivo e a exportação de
+alimentos básicos se tornam insustentáveis.
+
+
+We must immediately rethink the shape of our economies, agricultural systems and consumption
+patterns. Our priority is to manufacture climate resilience in global economies and societies —
+and we must do it quickly.
+
+
+Devemos repensar imediatamente como reformar nossos sistemas econômicos, agrícolas e
+padrões de consumo. Nossa prioridade é fabricar resiliência climática nas economias e
+sociedades globais – e devemos fazê-lo rapidamente.
+
+
+Trade can kickstart the emergence of climate-resilient economies, especially in the poorest
+countries. Trade has a multiplier effect on economies by driving production growth and fostering
+the expansion of export industries. By shifting focus to production and exports that increase
+climate resilience, there is potential to exponentially increase the land surface and trade
+processes prepared to withstand the climate crisis.
+Adapted from: https://www.weforum.org/agenda/2022/07/trade-can-be-a- gateway-to-climate-
+resilience
+
+
+O comércio pode impulsionar o surgimento de economias resilientes ao clima, especialmente nos
+países mais pobres. O comércio tem um efeito multiplicador nas economias, impulsionando o
+crescimento da produção e promovendo a expansão das indústrias de exportação. Ao mudar o
+foco para a produção e exportação que aumentam a resiliência climática, há potencial para
+aumentar exponencialmente a superfície terrestre e os processos comerciais preparados para
+resistir à crise climática.
+Adaptado de: https://www.weforum.org/agenda/2022/07/trade-can-be-a-gateway
+
+
+---
+
+                                        TEXTO 4
+Agente de Políticas Públicas e Gestão Governamental - Prefeitura de Santo André
+- SP - FGV - 2022
+
+
+                      Global Perspectives of Public Administration
+
+From a global perspective, public administration still raises passionate debates. Many of us
+presume to know the virtues of a globalized world, where commerce flourishes without barriers,
+cultures intertwine with each other, communication and technologies connect distant places to
+local villages and even to one’s living room. We probably agree that globalization creates a sense
+of togetherness, a feeling that events on one side of the world concern people living on the other
+side and that democracy and good governance are globalized aspirations to which people of all
+nations are prime subscribers. We soon realize however that globalization carries within it an
+insatiable spirit of competition and greed. The idea that the fittest, the strongest ultimately
+destroys the weakest, is straight from the jungle. The notion that globalization facilitates the
+overhauling of established norms and values, for better or for worse, is very much practicable.
+
+
+---
+
+What are public administrators to do when globalization seems to threaten the very customs and
+values that glue their society together? [...]
+
+
+The notion that public administration is a global phenomenon, subject to universal principles of
+moralities and values is tantalizing but questionable. A particular form of governance seems to
+work well for societies with common cores principles and traditional heritage, while another form
+of practice seems to facilitate better the development and aspirations of citizens in other corners
+of the world. Public administrators are first and foremost responsible for the management of their
+constituent’s affairs. They should dedicate their time and energy to respond to the aspirations
+and desiderata of their people and within the established boundaries of their societies. Public
+administrators seem to be more effective when they are inspired by concrete societal goals and
+objectives rather than when they are driven by a subjective sense of universal morality and
+goodness toward mankind. Too often, we have witnessed senseless wars and targeted killings in
+the name of subjective greater goods and selfish interests. [...]
+
+
+Nevertheless, the world is interconnected and public administrators have to deal with internal as
+well as external issues outside of their national borders. International laws and regulations require
+that countries’ citizens behave in a certain manner toward fellow neighbors that certain principles
+of coexistence such as respect for diversity and basic understanding of human rights and dignity
+are undeniable. Public administrators in a globalized world have to focus on these ideas and
+create structures that essentially characterize these viewpoints.
+(Adapted from https://patimes.org/global-perspectives-public-administration/ Retrieved June
+28th, 2022.)
+
+
+Comentários:
+19. Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+
+
+( ) Globalization has both pleasant and objectionable consequences.
+( ) Viewed globally, forms of administration are alike.
+( ) Public administrators must be aware of national and international laws.
+
+
+The statements are, respectively,
+
+
+(A) F – F – T.
+(B) T – F – F.
+
+
+---
+
+(C) T – F – T.
+(D) F – T – F.
+(E) T – T – F.
+
+
+19. Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+19. Com base nas informações fornecidas pelo texto, marque as afirmações abaixo como
+verdadeiras (V) ou falsas (F).
+
+
+(T) Globalization has both pleasant and objectionable consequences. – (V) A globalização tem
+consequências tanto agradáveis como censuráveis.
+
+
+O texto diz que a globalização cria uma sensação de união, mas ao mesmo tempo traz em si um
+espírito insaciável de competição e ganância. Verdadeira.
+
+
+(F) Viewed globally, forms of administration are alike. – (F) Vistas globalmente, as formas de
+administração são aplicadas igualmente.
+
+
+Segundo o texto, uma forma particular de governança parece funcionar bem para sociedades
+com princípios de núcleos comuns e herança tradicional, ao passo que outra forma de prática
+parece facilitar melhor o desenvolvimento e as aspirações dos cidadãos em outros lugares do
+mundo. Portanto, não se pode dizer que de uma perspectiva global, as formas de administração
+ocorrem do mesmo modo. Falsa.
+
+
+(T) Public administrators must be aware of national and international laws. – (V) Os
+administradores públicos devem estar atentos às leis nacionais e internacionais.
+
+
+Devido a globalização, os administradores públicos precisam lidar com questões internas e
+externas fora de suas fronteiras nacionais. Correta.
+
+
+The statements are, respectively,
+As afirmações são, respectivamente,
+
+
+(A) F – F – T. = F – F - V
+
+
+---
+
+(B) T – F – F. = V – F - F
+(C) T – F – T. = V – F - V
+(D) F – T – F. = F – V - F
+(E) T – T – F. = V – V - F
+
+
+GABARITO: C
+
+
+20. In the first paragraph, the author
+
+
+(A) discusses an idealized concept.
+(B) criticizes an evolutionary perspective.
+(C) complains about today’s public administrations.
+(D) celebrates the competition of a globalized world.
+(E) provides steps towards becoming a global administrator.
+
+
+20. In the first paragraph, the author
+20. No primeiro parágrafo, o autor
+
+
+(A) discusses an idealized concept. - discute um conceito idealizado.
+
+
+Ao falar sobre a globalização, há algumas expressões-chave no primeiro parágrafo, tais como:
+“De uma perspectiva global”, “Muitos de nós presumem”, “Provavelmente concordamos que”,
+“logo percebemos que a globalização”. O autor indica claramente que está discuntindo um
+conceito idealizado. Correta.
+
+
+(B) criticizes an evolutionary perspective. - critica uma perspectiva evolutiva.
+
+
+Não há esse tipo de crítica no parágrafo. Errada.
+
+
+(C) complains about today’s public administrations. - queixa-se das administrações públicas de
+hoje.
+
+
+---
+
+Não há esse tipo de reclamação no parágrafo. Errada.
+
+
+(D) celebrates the competition of a globalized world. - celebra a competição de um mundo
+globalizado.
+
+
+Não há esse tipo de celebração. Pelo contrário, o parágrafo menciona que a globalização traz em
+si um espírito insaciável de competição e ganância. Errada.
+
+
+(E) provides steps towards becoming a global administrator. - fornece etapas para se tornar um
+administrador global.
+
+
+O primeiro parágrafo não diz isso. Errada.
+
+
+GABARITO: A
+
+21. The word ”threaten” in ”when globalization seems to threaten the very customs and values
+that glue their society together” (2nd paragraph) can be replaced, without change of meaning, by
+
+
+(A) glorify.
+(B) destroy.
+(C) support.
+(D) menace.
+(E) acknowledge.
+
+
+21. The word ”threaten” in ”when globalization seems to threaten the very customs and values
+that glue their society together” (2nd paragraph) can be replaced, without change of meaning, by
+21. A palavra "ameaçar" em "quando a globalização parece ameaçar os próprios costumes e
+valores que unem sua sociedade" (parágrafo 2) pode ser substituída, sem mudança de
+significado, por
+
+
+---
+
+(A) glorify. - glorificar.
+
+
+Um sinônimo para a palavra glorify é exalt. Errada.
+
+
+(B) destroy. - destruir.
+
+
+Um sinônimo para a palavra destroy é demolish. Errada.
+
+
+(C) support. - apoiar.
+
+
+Um sinônimo para a palavra support é help. Errada.
+
+
+(D) menace. – ameaçar.
+
+
+Threaten = menace = ameaçar
+
+
+As palavras podem substituir uma à outra sem mudança de significado pois são sinônimas.
+Correta.
+
+
+(E) acknowledge. - reconhecer.
+
+
+Um sinônimo para a palavra acknowledge é admit. Errada.
+
+
+GABARITO: D
+
+
+22. The author concludes that public administrators
+
+
+(A) must overlook human rights.
+(B) disregard domestic regulations.
+(C) avoid much social engagement.
+(D) prevent issues regarding diversity.
+
+
+---
+
+(E) take into account internal and foreign affairs.
+
+
+22. The author concludes that public administrators
+22. O autor conclui que os administradores públicos
+
+
+(A) must overlook human rights. - devem ignorar os direitos humanos.
+
+
+Pelo contrário, eles devem lidar com questões que dizem respeito à diversidade e a compreensão
+básica dos direitos humanos e da dignidade. Errada.
+
+
+(B) disregard domestic regulations. - desrespeitam os regulamentos nacionais.
+
+
+Pelo contrário, eles devem respeitar questões internas (nacionais/domésticas) e externas
+(internacionais). Errada.
+
+
+(C) avoid much social engagement. - evitam muito engajamento social.
+
+
+Pelo contrário, o autor destaca que eles têm muito engajamento tanto com questões nacionais
+como internacionais. Errada.
+
+
+(D) prevent issues regarding diversity. - previnem questões relativas à diversidade.
+
+
+As questões como o respeito à diversidade e a compreensão básica dos direitos humanos e da
+dignidade estão incluídas nas ações dos administradores públicos. Errada.
+
+
+(E) take into account internal and foreign affairs. - levam em conta os assuntos internos e
+externos.
+
+
+O autor conclui dizendo que o mundo está interconectado e os administradores públicos
+precisam lidar com questões internas e externas fora de suas fronteiras nacionais.Os
+administradores públicos em um mundo globalizado têm que se concentrar nessas ideias e criar
+estruturas que caracterizem essencialmente esses pontos de vista. Correta.
+
+
+---
+
+GABARITO: E
+
+23. In the last paragraph, the word “Nevertheless” indicates that the author will offer a (n)
+
+
+(A) contrast.
+(B) summary.
+(C) condition.
+(D) illustration.
+(E) alternative.
+
+
+23. In the last paragraph, the word “Nevertheless” indicates that the author will offer a (n)
+23. No último parágrafo, a palavra “No entanto” indica que o autor vai propor um (a)
+
+
+(A) contrast. – contraste
+
+
+Nevertheless, the world is interconnected and public administrators have to deal with internal
+as well as external issues outside of their national borders.
+No entanto, o mundo está interconectado e os administradores públicos precisam lidar com
+questões internas e externas fora de suas fronteiras nacionais.
+
+
+O conectivo nevertheless (porém, todavia, contudo) introduz um contraste entre o que foi
+mencionado antes e o que vem depois. Correta.
+
+
+(B) summary. – sumário
+
+
+Um dos conectivos usados para sumário é In short (resumindo). Errada.
+
+
+(C) condition. – condição
+
+
+---
+
+O conectivo mais comum usado para condição é o if (se). Errada.
+
+
+(D) illustration. – ilustração
+
+
+A expressão mais comum usada para ilustrar ou explicar algo é For example (Por exemplo).
+Errada.
+
+
+(E) alternative. - alternativa
+
+
+O conectivo mais comum usado para condição é o or (ou). Errada.
+
+
+GABARITO: A
+
+
+Translation
+
+
+                          Global Perspectives of Public Administration
+                        Perspectivas Globais da Administração Pública
+
+
+From a global perspective, public administration still raises passionate debates. Many of us
+presume to know the virtues of a globalized world, where commerce flourishes without barriers,
+cultures intertwine with each other, communication and technologies connect distant places to
+local villages and even to one’s living room.
+
+
+De uma perspectiva global, a administração pública ainda provoca debates acalorados. Muitos de
+nós presumem conhecer as virtudes de um mundo globalizado, onde o comércio floresce sem
+barreiras, as culturas se entrelaçam, a comunicação e as tecnologias conectam lugares distantes a
+cidadezinhas locais e até mesmo à própria sala de estar.
+
+
+We probably agree that globalization creates a sense of togetherness, a feeling that events on
+one side of the world concern people living on the other side and that democracy and good
+governance are globalized aspirations to which people of all nations are prime subscribers.
+
+
+Provavelmente concordamos que a globalização cria uma sensação de união, um sentimento de
+que os eventos de um lado do mundo dizem respeito às pessoas que vivem do outro lado e que
+
+
+---
+
+a democracia e a boa governança são aspirações globalizadas das quais pessoas de todas as
+nações são nobres seguidores.
+
+
+We soon realize however that globalization carries within it an insatiable spirit of competition and
+greed. The idea that the fittest, the strongest ultimately destroys the weakest, is straight from the
+jungle. The notion that globalization facilitates the overhauling of established norms and values,
+for better or for worse, is very much practicable.
+
+
+No entanto, logo percebemos que a globalização traz em si um espírito insaciável de competição
+e ganância. A ideia de que o mais apto, o mais forte, acaba por destruir o mais fraco, vem direto
+da selva. A noção de que a globalização facilita a reformulação de normas e valores
+estabelecidos, para melhor ou para pior, é muito praticável.
+
+
+What are public administrators to do when globalization seems to threaten the very customs and
+values that glue their society together? [...]
+O que os administradores públicos devem fazer quando a globalização parece ameaçar os
+próprios costumes e valores que unem sua sociedade? [...]
+
+
+The notion that public administration is a global phenomenon, subject to universal principles of
+moralities and values is tantalizing but questionable. A particular form of governance seems to
+work well for societies with common cores principles and traditional heritage, while another form
+of practice seems to facilitate better the development and aspirations of citizens in other corners
+of the world.
+
+
+A noção de que a administração pública é um fenômeno global, sujeita a princípios universais de
+moralidades e valores é tentadora, mas questionável. Uma forma particular de governança parece
+funcionar bem para sociedades com princípios de núcleos comuns e herança tradicional, ao passo
+que outra forma de prática parece facilitar melhor o desenvolvimento e as aspirações dos
+cidadãos em outros lugares do mundo.
+
+
+Public administrators are first and foremost responsible for the management of their constituent’s
+affairs. They should dedicate their time and energy to respond to the aspirations and desiderata
+of their people and within the established boundaries of their societies.
+
+
+Os administradores públicos são os principais responsáveis pela gestão dos assuntos de seus
+constituintes. Eles devem dedicar seu tempo e energia para responder às aspirações e
+necessidades de seu povo e dentro dos limites estabelecidos de suas sociedades.
+
+
+---
+
+Public administrators seem to be more effective when they are inspired by concrete societal goals
+and objectives rather than when they are driven by a subjective sense of universal morality and
+goodness toward mankind. Too often, we have witnessed senseless wars and targeted killings in
+the name of subjective greater goods and selfish interests. [...]
+
+
+Os administradores públicos parecem ser mais eficazes quando são inspirados por metas e
+objetivos sociais concretos do que quando são movidos por um senso subjetivo de moralidade
+universal e bondade para com a humanidade. Muitas vezes, testemunhamos guerras sem sentido
+e assassinatos direcionados em nome de maiores bens subjetivos e interesses egoístas. [...]
+
+
+Nevertheless, the world is interconnected and public administrators have to deal with internal as
+well as external issues outside of their national borders. International laws and regulations require
+that countries’ citizens behave in a certain manner toward fellow neighbors that certain principles
+of coexistence such as respect for diversity and basic understanding of human rights and dignity
+are undeniable. Public administrators in a globalized world have to focus on these ideas and
+create structures that essentially characterize these viewpoints.
+(Adapted from https://patimes.org/global-perspectives-public-administration/ Retrieved June
+28th, 2022.)
+
+
+No entanto, o mundo está interconectado e os administradores públicos precisam lidar com
+questões internas e externas fora de suas fronteiras nacionais. As leis e regulamentos
+internacionais exigem que os cidadãos dos países se comportem de uma certa maneira em
+relação aos vizinhos, sendo inegáveis certos princípios de coexistência, como o respeito à
+diversidade e a compreensão básica dos direitos humanos e da dignidade. Os administradores
+públicos em um mundo globalizado têm que se concentrar nessas ideias e criar estruturas que
+caracterizem essencialmente esses pontos de vista.
+
+
+---
+
+                                         TEXTO 5
+ATRFB – Receita Federal – FGV - 2023
+
+
+Text I
+
+
+                                        Trust and audit
+
+
+       Trust is what auditors sell. They review the accuracy, adequacy or propriety of other
+people’s work. Financial statement audits are prepared for the owners of a company and
+presented publically to provide assurance to the market and the wider public. Public service
+audits are presented to governing bodies and, in some cases, directly to parliament.
+      It is the independent scepticism of the auditor that allows shareholders and the public to
+be confident that they are being given a true and fair account of the organisation in question. The
+auditor’s signature pledges his or her reputational capital so that the audited body’s public
+statements can be trusted. [...]
+       Given the fundamental importance of trust, should auditors not then feel immensely
+valuable in the context of declining trust? Not so. Among our interviewees, a consensus emerged
+that the audit profession is under-producing trust at a critical time. One aspect of the problem is
+the quietness of audit: it is a profession that literally goes about its work behind the scenes. The
+face and processes of the auditor are rarely seen in the organisations they scrutinise, and
+relatively rarely in the outside world. Yet, if we listen to the mounting evidence of the importance
+of social capital, we know that frequent and reliable contacts between groups are important to
+strengthening and expanding trust.
+      So what can be done? Our research suggests that more frequent dialogue with audit
+committees and a more ambitious outward facing role for the sector’s leadership would be
+welcome. But we think more is needed. Audit for the 21st century should be understood and
+designed as primarily a confidence building process within the audited organisation and across its
+stakeholders. If the audit is a way of ensuring the client’s accountability, much more needs to be
+done to make the audit itself exemplary in its openness and inclusiveness.
+      Instead of an audit report being a trust-producing product, the audit process could
+become a trust-producing practice in which the auditor uses his or her position as a trusted
+intermediary to broker rigorous learning across all dimensions of the organisation and its
+stakeholders. The views of investors, staff, suppliers and customers could routinely be considered,
+as could questions from the general public; online technologies offer numerous opportunities to
+inform, involve and invite.
+
+
+---
+
+      From being a service that consists almost exclusively of external investigation by a
+warranted professional, auditing needs to become more co-productive, with the auditor’s role
+expanding to include that of an expert convenor who is willing to share the tools of enquiry. Audit
+could move from ‘black box’ to ‘glass box’.
+        But the profession will still struggle to secure trust unless it can stake a stronger claim to
+supporting improvement. Does it increase the economic, social or environmental value of the
+organisations it reviews? It is one thing to believe in the accuracy of a financial statement audit,
+but it is another thing to believe in its utility.
+Adapted from: https://auditfutures.net/pdf/AuditFutures-RSA- EnlighteningProfessions.pdf
+
+
+Comentários:
+24. Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. In auditing, taking heed of what other parties have to say needs to be downplayed.
+II. Auditors are generally unobtrusive when carrying out their jobs.
+III. Trust is obtained when auditors eschew straightforward statements.
+
+
+The statements are, respectively,
+
+
+(A) F – T – F.
+(B) F – F – T.
+(C) T – F – T.
+(D) F – T – T.
+(E) T – F – F.
+
+24. Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+24. Com base no Texto I, marque as afirmações abaixo como VERDADEIRAS (V) ou FALSAS (F).
+
+
+I. In auditing, taking heed of what other parties have to say needs to be downplayed.
+I. Na auditoria, prestar atenção ao que as outras partes têm a dizer precisa ser subestimado.
+
+
+---
+
+Pelo contrário, no decorrer de todo o texto é mencionado de diversas formas que contatos
+frequentes e confiáveis entre grupos são importantes para fortalecer e expandir a confiança na
+auditoria. Portanto, não é correto dizer que isso deve ser subestimado ou ser visto como algo de
+mínima importância. Falsa.
+
+
+II. Auditors are generally unobtrusive when carrying out their jobs.
+II. Os auditores geralmente são discretos ao realizar seus trabalhos.
+
+
+Obtrusive = indiscreto, inoportuno, intruso, conspícuo
+Un (prefixo de negação) + obtrusive = Unobtrusive = discreto, reservado, quieto, calado = quiet
+
+
+O texto diz que os auditores são reservados (quiet) quando se fala da quietude (quietness) da
+auditoria. Em várias partes do texto é dito de dferentes formas que os auditores literalmente
+fazem seu trabalho nos bastidores. A face e os processos do auditor raramente são vistos nas
+organizações que examinam e relativamente raramente no mundo exterior. Verdadeira.
+
+
+III. Trust is obtained when auditors eschew straightforward statements.
+III. A confiança é conquistada quando os auditores evitam demonstrativos financeiros honestos.
+
+
+Pelo contrário, o texto mostra claramente que a confiança é conquistada quando os auditores
+apresentam demonstrativos financeiros diretos, sem rodeios, transparentes. Falsa.
+
+
+The statements are, respectively,
+As declarações são, respectivamente,
+
+
+(A) F – T – F. – F- V - F
+(B) F – F – T. – F – F - V
+(C) T – F – T. – V – F - V
+(D) F – T – T. – F – V - V
+(E) T – F – F. – V – F - F
+
+
+GABARITO: A
+
+
+---
+
+25. Text I suggests auditors should invest
+
+
+(A) in more dynamic surveys.
+(B) unfounded records.
+(C) provisional auditing.
+(D) constant interactions.
+(E) user-friendly programs.
+
+
+25. Text I suggests auditors should invest
+25. O texto I sugere que os auditores deveriam investir
+
+
+(A) in more dynamic surveys. - em levantamentos mais dinâmicos.
+
+
+O texto não diz que haja falta de dinamismo nas pesquisas e muito menos que os auditores
+devam investor nisto. Errada.
+
+
+(B) unfounded records. - registros improcedentes.
+
+
+Pelo contrário, os registros precisam ser bem fundamentados. Errada.
+
+
+(C) provisional auditing. - auditoria provisória.
+
+
+Uma auditoria provisória avalia as políticas e procedimentos internos dos negócios de uma
+empresa juntamente com os serviços que ela pretende fornecer. Ela é para empresas que
+pretendem fornecer suporte de alto risco, mas ainda não estão envolvidas com nenhum
+participante. O texto nem sequer menciona esse tipo de auditoria. Errada.
+
+
+(D) constant interactions. - interações constantes.
+
+
+Yet, if we listen to the mounting evidence of the importance of social capital, we know that
+frequent and reliable contacts between groups are important to strengthening and expanding
+trust.
+
+
+---
+
+No entanto, se ouvirmos as crescentes evidências da importância do capital social, saberemos
+que contatos frequentes e confiáveis entre grupos são importantes para fortalecer e expandir a
+confiança.
+
+
+Our research suggests that more frequent dialogue with audit committees and a more ambitious
+outward facing role for the sector’s leadership would be welcome.
+Nossa pesquisa sugere que um diálogo mais frequente com os comitês de auditoria e um papel
+externo mais ambicioso para a liderança do setor seriam bem-vindos.
+
+
+É deixado bem claro que em todo o texto é sugerido que os auditores devam investir em
+interações constantes. Copiei apenas dois desses segmentos acima para que o meu comentário
+não fique muito longo ☺. Essa é a opção correta.
+
+
+(E) user-friendly programs. - programas fáceis de usar.
+
+
+O texto não fala sobre a parte de TI usada pelos auditores. Errada.
+
+
+GABARITO: D
+
+
+26. The opposite of quietness (3rd paragraph) is
+
+
+(A) deafness.
+(B) loudness.
+(C) kindliness.
+(D) dampness.
+(E) shrewdness.
+
+
+26. The opposite of quietness (3rd paragraph) is
+26. O oposto de quietude (3º parágrafo) é
+
+
+(A) deafness. - surdez.
+
+
+Essa palavra não expressa o sentido oposto de quietude. Errada.
+
+
+---
+
+(B) loudness. – sonoridade, barulho, ruído
+
+
+quietness = quietude, calma, paz, sossego, silêncio, tranquilidade, serenidade
+
+
+Mais um tipo de questão que não precisa ir ao texto. A palavra loudness é o oposto de quietness.
+Essa é a opção correta.
+
+
+(C) kindliness. - gentileza.
+
+
+Um dos opostos dessa palavra é hardheartedness (dureza de coração). Errada.
+
+
+(D) dampness. - umidade.
+
+
+Um dos opostos dessa palavra é dryness (aridez). Errada.
+
+
+(E) shrewdness. - astúcia.
+
+
+Um dos opostos dessa palavra é inability (inaptidão). Errada.
+
+
+GABARITO: B
+
+27. “Unless” in “unless it can stake a stronger claim to supporting improvement” (7th paragraph)
+introduces a (n)
+
+
+(A) plea.
+(B) averral.
+(C) account.
+(D) foresight.
+
+
+---
+
+(E) condition.
+
+
+27. “Unless” in “unless it can stake a stronger claim to supporting improvement” (7th paragraph)
+introduces a (n)
+27. “A menos que” em “a menos que possa fazer uma reivindicação mais forte para apoiar a
+melhoria” (7º parágrafo) introduz um (a)
+
+
+(A) plea. - apelo
+
+
+Uma das palavras usadas para fazer um apelo é Please (por favor).
+
+
+(B) averral. – afirmação
+
+
+Os conectivos indeed (de fato) e certainly (certamente) são alguns daqueles usados para fazer
+uma afirmação. Errada.
+
+
+(C) account. – explicação
+
+
+O Because (Por que) é um dos conectivos usados para se dá uma explicação. Errada.
+
+
+(D) foresight. – previsão
+
+
+Fazer previções ou predições é falar sobre algo que vai acontecer no Futuro. Para este tempo
+verbal se usa o auxiliar “will”. Errada.
+
+
+(E) condition. – condição
+
+
+O conectivo unless (a não ser que, a menos que, salvo se) introduz uma condição. Essa é a opção
+correta.
+
+
+GABARITO: E
+
+
+---
+
+Translation
+
+
+                                         Trust and audit
+                                     Confiança e auditoria
+
+
+Trust is what auditors sell. They review the accuracy, adequacy or propriety of other people’s
+work. Financial statement audits are prepared for the owners of a company and presented
+publically to provide assurance to the market and the wider public. Public service audits are
+presented to governing bodies and, in some cases, directly to parliament.
+
+
+Confiança é o que os auditores vendem. Eles analisam a precisão, adequação ou propriedade do
+trabalho de outras pessoas. As auditorias das demonstrações financeiras são preparadas para os
+proprietários de uma empresa e apresentadas publicamente para fornecer garantia ao mercado e
+ao público em geral. As auditorias do serviço público são apresentadas aos órgãos
+governamentais e, em alguns casos, diretamente ao parlamento.
+
+
+It is the independent scepticism of the auditor that allows shareholders and the public to be
+confident that they are being given a true and fair account of the organisation in question. The
+auditor’s signature pledges his or her reputational capital so that the audited body’s public
+statements can be trusted. [...]
+
+
+É o ceticismo independente do auditor que permite que os acionistas e o público tenham certeza
+de que estão recebendo um relato verdadeiro e justo da organização em questão. A assinatura
+do auditor garante seu capital reputacional para que as declarações públicas do órgão auditado
+sejam confiáveis. [...]
+
+
+Given the fundamental importance of trust, should auditors not then feel immensely valuable in
+the context of declining trust? Not so. Among our interviewees, a consensus emerged that the
+audit profession is under-producing trust at a critical time. One aspect of the problem is the
+quietness of audit: it is a profession that literally goes about its work behind the scenes. The face
+and processes of the auditor are rarely seen in the organisations they scrutinise, and relatively
+rarely in the outside world. Yet, if we listen to the mounting evidence of the importance of social
+capital, we know that frequent and reliable contacts between groups are important to
+strengthening and expanding trust.
+
+
+Dada a importância fundamental da confiança, os auditores não deveriam se sentir imensamente
+valiosos no contexto de declínio da confiança? Não é verdade. Entre nossos entrevistados, surgiu
+
+
+---
+
+um consenso de que a profissão de auditoria está gerando menos confiança em um momento
+crítico. Um aspecto do problema é a tranqüilidade da auditoria: é uma profissão que literalmente
+faz seu trabalho nos bastidores. A face e os processos do auditor raramente são vistos nas
+organizações que examinam e relativamente raramente no mundo exterior. No entanto, se
+ouvirmos as crescentes evidências da importância do capital social, saberemos que contatos
+frequentes e confiáveis entre grupos são importantes para fortalecer e expandir a confiança.
+
+
+So what can be done? Our research suggests that more frequent dialogue with audit committees
+and a more ambitious outward facing role for the sector’s leadership would be welcome. But we
+think more is needed. Audit for the 21st century should be understood and designed as primarily
+a confidence building process within the audited organisation and across its stakeholders. If the
+audit is a way of ensuring the client’s accountability, much more needs to be done to make the
+audit itself exemplary in its openness and inclusiveness.
+
+
+Então, o que pode ser feito? Nossa pesquisa sugere que um diálogo mais frequente com os
+comitês de auditoria e um papel externo mais ambicioso para a liderança do setor seriam bem-
+vindos. Mas achamos que é necessário mais. A auditoria para o século 21 deve ser entendida e
+projetada principalmente como um processo de construção de confiança dentro da organização
+auditada e entre suas partes interessadas. Se a auditoria é uma forma de garantir a
+responsabilidade do cliente, muito mais precisa ser feito para tornar a própria auditoria exemplar
+em sua abertura e inclusão.
+
+
+Instead of an audit report being a trust-producing product, the audit process could become a
+trust-producing practice in which the auditor uses his or her position as a trusted intermediary to
+broker rigorous learning across all dimensions of the organisation and its stakeholders. The views
+of investors, staff, suppliers and customers could routinely be considered, as could questions from
+the general public; online technologies offer numerous opportunities to inform, involve and invite.
+
+
+Em vez de um relatório de auditoria ser um produto gerador de confiança, o processo de
+auditoria pode se tornar uma prática geradora de confiança, na qual o auditor usa sua posição
+como intermediário confiável para intermediar o aprendizado rigoroso em todas as dimensões da
+organização e de seus acionistas. As opiniões dos investidores, funcionários, fornecedores e
+clientes poderiam ser consideradas rotineiramente, assim como as perguntas do público em
+geral; as tecnologias online oferecem inúmeras oportunidades para informar, envolver e convidar.
+
+
+From being a service that consists almost exclusively of external investigation by a warranted
+professional, auditing needs to become more co-productive, with the auditor’s role expanding to
+include that of an expert convenor who is willing to share the tools of enquiry. Audit could move
+from ‘black box’ to ‘glass box’.
+
+
+---
+
+De um serviço que consiste quase exclusivamente em investigação externa por um profissional
+qualificado, a auditoria precisa se tornar mais coprodutiva, com o papel do auditor se expandindo
+para incluir o de um convocador especialista que está disposto a compartilhar as ferramentas de
+investigação. A auditoria pode passar de “caixa preta” para “caixa de vidro”.
+
+
+But the profession will still struggle to secure trust unless it can stake a stronger claim to
+supporting improvement. Does it increase the economic, social or environmental value of the
+organisations it reviews? It is one thing to believe in the accuracy of a financial statement audit,
+but it is another thing to believe in its utility.
+Adapted from: https://auditfutures.net/pdf/AuditFutures-RSA- EnlighteningProfessions.pdf
+
+
+Mas a profissão ainda lutará para garantir a confiança, a menos que possa reivindicar com mais
+força o apoio à melhoria. Isso aumenta o valor econômico, social ou ambiental das organizações
+que avalia? Uma coisa é acreditar na precisão de uma auditoria de demonstrações financeiras,
+mas outra coisa é acreditar em sua utilidade.
+
+                                         TEXTO 6
+Advogado – Senado Federal – FGV - 2022
+
+
+Read Text II and answer the two questions that follow it.
+Leia o Texto II e responda as duas questões seguintes.
+
+
+Text II
+
+
+---
+
+From: https://www.glasbergen.com/ngg_tag/legal-department/
+
+
+28. The gist of this cartoon depends on the reader
+
+
+(A) sighting the arrow.
+(B) mastering the rules.
+(C) understanding the pun.
+(D) handling the hardware.
+(E) noticing the straight faces.
+
+
+28. The gist of this cartoon depends on the reader
+28. A essência desse cartum depende do leitor
+
+
+(A) sighting the arrow. - mirar a flecha.
+
+
+Mirar a flecha do cursor não é o bastante para se ter a essência da mensagem que o cartum
+apresenta. Errada.
+
+
+(B) mastering the rules. - dominar as regras.
+
+
+---
+
+O leitor não precisa ser perito em leis (como o departamento jurídico é) para obter a essência
+desse cartum. Errada.
+
+
+(C) understanding the pun. - entender o trocadilho.
+
+
+O cursor do computador é uma flecha com suas pontas afiadas. A preocupação mais comum ao
+usar lâminas ou bordas afiadas é uma lesão, como um corte (laceração, punção) ou uma
+amputação. Quando o departamento jurídico diz que se deve remover todos os cursores dos
+computadores pois eles têm muitas pontas afiadas, isso indica que o departamento tem uma
+preocupação exagerada (e cômica) em diminuir, mitigar, prevenir quaisquer motivos que causem
+prejuízo ou dano à empresa. Subentende-se que esse é um problema pertinente pois é dito
+“outro memorando”. Portanto, a essência desse cartum depende do leitor entender o trocadilho
+de palavras que forma a piada.
+
+
+(D) handling the hardware. - manusear o hardware.
+
+
+A essência do cartum nada tem a ver com sabe lidar com o hardware do computador. Errada.
+
+
+(E) noticing the straight faces. – perceber os rostos sérios.
+
+
+Os rostos sérios dos personagens do cartum indicam que eles acham difícil de cumprir o que o
+departamento jurídico pede em seu memorando. Errada.
+
+
+GABARITO: C
+
+
+29. The character’s speech reveals that the legal department
+
+
+(A) has praised the quality of the software.
+(B) sent at least one memorandum before.
+(C) scoffed at the scope of current cursors.
+(D) been demanding highly skilled employees.
+(E) considered computers a shrewd investment.
+
+
+---
+
+29. The character’s speech reveals that the legal department
+29. A fala da personagem revela que o departamento jurídico
+
+
+(A) has praised the quality of the software. - elogiou a qualidade do software.
+
+
+Não há nada no texto que expresse nenhum tipo de elogio. Errada.
+
+
+(B) sent at least one memorandum before. - enviou pelo menos um memorando antes.
+
+
+O texto diz: “Outro (another) memorando” do nosso departamento jurídico. Logicamente se
+estão recebemento um “outro” é por que houve pelo menos um antes desse memo. Essa é a
+correta.
+
+
+(C) scoffed at the scope of current cursors. - zombou do escopo dos cursores atuais.
+
+
+A fala do personagem não expressa nenhum tipo de ridicularização quanto ao que um cursor
+pode fazer. Errada.
+
+
+(D) been demanding highly skilled employees. - vem exigindo funcionários altamente
+qualificados.
+
+
+O texto não se refere à qualificação de funcionários. Errada.
+
+
+(E) considered computers a shrewd investment. - considerou os computadores um investimento
+astuto.
+
+
+Nada é dito na fala do personagem sobre investimentos em computadores. Apenas é
+mencionado o cursor que faz parte do computador. Errada.
+
+
+GABARITO: B
+
+
+---
+
+Translation
+
+
+“Another memo from our Legal department. Cursors have too many sharp edges and must be
+removed from all of our computers.”
+
+
+“Outro memorando do nosso departamento jurídico. Os cursores têm muitas pontas afiadas e
+precisam ser removidos de todos os nossos computadores.”
+
+    Lembrete: Por favor, ao fazer perguntas no fórum ou expressar a avaliação discursiva
+    do curso, indique claramente a que professor ou tipo de aula você se refere. Se for às
+    aulas escritas (PDFs) é comigo: Profa. Ena Smith. Indique por gentileza em que
+    questão, página e/ou aula está a sua dúvida. Os vídeos, slides, simulados estão a cargo
+    de outro professor. Assim, poderemos saber com clareza quem deve responder sua
+    pergunta no fórum e para quem se dirige o feedback do material. Agradeço sua
+    cooperação e compreensão.
+
+
+---
+
+                          VOCABULÁRIOS
+Vocabulário                     Tradução
+
+accuracy                        exatidão, precisão, acurácia
+
+avoid                           evitar, abster-se de
+
+bill                            projeto de lei
+
+border                          fronteira
+
+burgle                          arrombar, assaltar
+
+catch (passado: caught)         capturar, prender
+
+challenge                       desafio
+
+change                          mudar, trocar, substituir
+
+courtroom                       sala de audiências do tribunal
+
+dangerous                       perigoso
+
+expenditure                     gasto, despesa, dispêndio
+
+figures                         números, dados
+
+garner                          reunir, juntar, estocar, acumular
+
+gateway                         porta de entrada, início de
+
+human rights                    direitos humanos
+
+lawyer                          advogado
+
+look for                        procurar
+
+matter                          assunto, questão
+
+
+---
+
+ NGO           ONG
+
+ raise         aumentar, elevar, levantar, provocar, incitar
+
+ reach         alcançar, atingir
+
+ request       solicitação, pedido
+
+ rescue        resgate, resgatar, salvar
+
+ scout         espiar, observar
+
+ seize         confiscar, apoderar-se
+
+ seizure       captura
+
+ trade         comércio, trocar, negociar
+
+ trust         confiança; confiar
+
+Vocabulário   Sinônimo
+
+accuracy      correctness
+
+avoid         stay away, eschew
+
+bill          proposed legislation
+
+border        frontier line
+
+burgle        break in, rob, steal from
+
+catch         capture, grab, arrest
+
+challenge     something difficult
+
+change        alter, transform
+
+courtroom     court
+
+
+---
+
+dangerous      risky, hazardous
+
+expenditure    spending
+
+figures        number, calculation
+
+garner         gather, store
+
+gateway        entrance
+
+human rights   basic rights
+
+lawyer         attorney
+
+look for       seek
+
+matter         subject
+
+NGO            non-governmental organization
+
+raise          increase, promote
+
+reach          achieve
+
+request        solicitation
+
+rescue         save from danger
+
+scout          spy out, observe
+
+seize          grab, take by force
+
+seizure        capture, arrest
+
+trade          commerce, exchange
+
+trust          confidence; rely on
+
+
+---
+
+                           LISTA         DE      QUESTÕES
+Texto 1: Oficial de Chancelaria – MRE – FGV
+
+
+                 How music is the real language of political diplomacy
+
+
+         Forget guns and bombs, it is the power of melody that has changed the world
+
+
+Marie Zawisza
+
+Celebrated cellist Mstislav Rostropovich plays in front of the Berlin wall on 11 November 1989.
+Photograph: AP
+
+
+An old man plays his cello at the foot of a crumbling wall. The notes of the sarabande of Bach’s
+Suite No 2 rise in the cold air, praising God for the “miracle” of the fall of the Berlin Wall, as
+Mstislav Rostropovich later put it. The photograph is seen around the world. The date is 11
+November 1989, and the Russian virtuoso is marching to the beat of history.
+
+
+---
+
+Publicity stunt or political act? No doubt a bit of both – and proof, in any case, that music can
+have a political dimension. Yo-Yo Ma showed as much in September when the cellist opened the
+new season of the Philharmonie de Paris with the Boston Symphony Orchestra. As a “messenger
+of peace” for the United Nations, the Chinese American is the founder of Silk Road Project, which
+trains young musicians from a variety of cultures to listen to and improvise with each other and
+develop a common repertoire. “In this way, musicians create a dialogue and arrive at common
+policies,” says analyst Frédéric Ramel, a professor at the Institut d’Études Politiques in Paris. By
+having music take the place of speeches and peace talks, the hope is that it will succeed where
+diplomacy has failed. […]
+
+
+Curiously, the study of the role of music in international relations is still in its infancy. “Historians
+must have long seen it as something fanciful, because history has long been dominated by
+interpretations that stress economic, social and political factors,” says Anaïs Fléchet, a lecturer in
+contemporary history at the Université de Versailles-St-Quentin and co-editor of a book about
+music and globalisation.
+
+
+“As for musicologists,” she adds, “until quite recently they were more interested in analysing
+musical scores than the actual context in which these were produced and how they were
+received.” In the 1990s came a cultural shift. Scholars were no longer interested solely in “hard
+power” – that is, in the balance of powers and in geopolitics – but also in “soft power”, where
+political issues are resolved by mutual support rather than force.
+
+Gilberto Gil sings while then UN secretary general Kofi Annan plays percussion at a September
+2003 concert at the UN headquarters honouring those killed by a bomb at a UN office in
+Baghdad a month earlier. Photograph: Zuma/Alamy
+
+
+Since then, every embassy has a cultural attaché. The US engages in “audio diplomacy” by
+financing hip-hop festivals in the Middle East. China promotes opera in neighbouring states to
+project an image of harmony. Brazil has invested in culture to assert itself as a leader in Latin
+
+
+---
+
+America, notably by establishing close collaboration between its ministries of foreign affairs and
+culture; musician Gilberto Gil was culture minister during Luiz Inácio Lula da Silva᾽s presidency
+from 2003 to 2008. He was involved in France’s Year of Brazil. As Fléchet recalls, “the free
+concert he gave on 13 July, 2005 at the Place de la Bastille was the pinnacle. That day, he sang La
+Marseillaise in the presence of presidents Lula and Jacques Chirac.” Two years earlier, in
+September 2003, Gil sang at the UN in honour of the victims of the 19 August bombing of the
+UN headquarters in Baghdad. He was delivering a message of peace, criticising the war on Iraq
+by the US: “There is no point in preaching security without giving a thought to respecting
+others,” he told his audience. Closing the concert, he invited then UN secretary general Kofi
+Annan on stage for a surprise appearance as a percussionist. “This highly symbolic image, which
+highlighted the conviction that culture can play a role in bringing people together, shows how
+music can become a political language,” Fléchet says.
+(Adapted from http://www.theguardian.com/music/2015/oct/31/music-language-human-rights-
+political-diplomacy)
+
+
+01 Text I focuses on how music may function in international affairs and offers some arguments. In
+this respect, analyse the following statements:
+
+
+I. The study of the role music plays in diplomacy is now full-fledged.
+II. For many years historians have considered music evidence-based practice.
+III. Only a short time ago, musicologists started to move away from the sheet to the setting.
+IV. Musicians may promote contexts where dialogue can be established.
+
+
+Choose the correct answer:
+
+
+(A) only I is correct;
+(B) only II is correct;
+(C) only III is correct;
+(D) both II and IV are correct;
+(E) both III and IV are correct.
+
+
+02 The reasoning implied in the sentence “By having music take the place of speeches and peace
+talks, the hope is that it will succeed where diplomacy has failed” is that:
+
+
+(A) musicians may deliver peace talks at United Nation conferences;
+
+
+---
+
+(B) diplomats may help musicians convey effective messages of peace;
+(C) diplomatic speeches need not succeed in promoting peace between the nations;
+(D) music should have the power to supplant diplomatic efforts when these do not work;
+(E) musicologists should help diplomats write their speeches when peace is threatened.
+
+
+03 The function of the second photograph in Text I is to:
+
+
+(A) exemplify how politicians have many skills other than diplomacy;
+(B) support the argument that music may work beyond entertainment;
+(C) inform the readers that there was a bomb at a UN office in Baghdad;
+(D) illustrate how Gilberto Gil and Kofi Annan could do an impromptu show;
+(E) demonstrate that politicians can also be skilled enough to perform in public.
+
+
+04 The word that is closer in meaning to “stunt” in the question “Publicity stunt or political act?”
+is:
+
+
+(A) tip;
+(B) event;
+(C) brand;
+(D) story;
+(E) poster.
+
+
+05 The underlined word in “until quite recently they were more interested in analysing musical
+scores than the actual context in which these were produced and how they were received” is a
+synonym of:
+
+
+(A) acute;
+(B) trusted;
+(C) genuine;
+(D) assumed;
+(E) unrealistic.
+
+
+---
+
+06 In the sentence “Gilberto Gil sings while then UN secretary general Kofi Annan plays”, the
+word “then” means:
+
+
+(A) late;
+(B) former;
+(C) recent;
+(D) deceased;
+(E) reinstated.
+
+
+07 “All words belong to categories called word classes (or parts of speech) according to the part
+they play in a sentence”
+(http://www.oxforddictionaries.com/words/word-classes-or-parts-of- speech).
+
+
+The underlined word in the sentence “history has long been dominated by interpretations that
+stress economic, social and political factors” belongs to the same class as the underlined word in:
+
+
+(A) “at the foot of a crumbling wall”;
+(B) “In the 1990s came a cultural shift”;
+(C) “There is no point in preaching security”;
+(D) “China promotes opera in neighbouring states”;
+(E) “political issues are resolved by mutual support”.
+
+
+08 The underlined part of the sentence “He was involved in France’s Year of Brazil” is an answer
+to the question:
+
+
+(A) Whose year was it?
+(B) How was he involved?
+(C) When was he involved?
+(D) Where was he involved?
+(E) What was he involved in?
+
+
+---
+
+09 The expression “rather than” in “political issues are resolved by mutual support rather than
+force” can be replaced without change in meaning by:
+
+
+(A) in spite of;
+(B) instead of;
+(C) regardless of;
+(D) in defiance of;
+(E) irrespective of.
+
+
+10 The correct form of reporting the sentence “‘…musicians create a dialogue and arrive
+atcommon policies,’ says analyst Frédéric Ramel” is:
+
+
+(A) Analyst Frédéric Ramel said that musicians created a dialogue and arrived at common policies;
+(B) Analyst Frédéric Ramel says that musicians created a dialogue and would arrive at common
+policies;
+(C) Analyst Frédéric Ramel would say that musicians created a dialogue and would arrive at
+common policies;
+(D) Analyst Frédéric Ramel had said that musicians had created a dialogue and arrived at common
+policies;
+(E) Analyst Frédéric Ramel has said that musicians are creating a dialogue and arriving at common
+policies.
+
+
+Texto 2: AFRFB – Receita Federal – FGV - 2023
+
+
+                               Adding ethics to public finance
+
+
+Evolutionary moral psychologists point the way to garnering broader support for fiscal policies
+
+
+       Policy decisions on taxation and public expenditures intrinsically reflect moral choices. How
+much of your hard-earned money is it fair for the state to collect through taxes? Should the rich
+pay more? Should the state provide basic public services such as education and health care for
+free to all citizens? And so on.
+       Economists and public finance practitioners have traditionally focused on economic
+efficiency. When considering distributional issues, they have generally steered clear of moral
+
+
+---
+
+considerations, perhaps fearing these could be seen as subjective. However, recent work by
+evolutionary moral psychologists suggests that policies can be better designed and muster
+broader support if policymakers consider the full range of moral perspectives on public finance. A
+few pioneering empirical applications of this approach in the field of economics have shown
+promise.
+       For the most part, economists have customarily analyzed redistribution in a way that
+requires users to provide their own preferences with regard to inequality: Tell economists how
+much you care about inequality, and they can tell you how much redistribution is appropriate
+through the tax and benefit system. People (or families or households) have usually been
+considered as individuals, and the only relevant characteristics for these exercises have been their
+incomes, wealth, or spending potential.
+       There are two — understandable but not fully satisfactory — reasons for this approach.
+First, economists often wish to be viewed as objective social scientists. Second, most public
+finance scholars have been educated in a tradition steeped in values of societies that are WEIRD
+(Western, Educated, Industrialized, Rich, and Democratic). In this context, individuals are at the
+center of the analysis, and morality is fundamentally about the golden rule — treat other people
+the way that you would want them to treat you, regardless of who those people are. These are
+crucial but ultimately insufficient perspectives on how humans make moral choices.
+
+        Evolutionary moral psychologists during the past couple of decades have shown that, faced
+with a moral dilemma, humans decide quickly what seems right or wrong based on instinct and
+later justify their decision through more deliberate reasoning. Based on evidence presented by
+these researchers, our instincts in the moral domain evolved as a way of fostering cooperation
+within a group, to help ensure survival. This modern perspective harks back to two moral
+philosophers of the Scottish Enlightenment — David Hume and Adam Smith — who noted that
+sentiments are integral to people’s views on right and wrong. But most later philosophers in the
+Western tradition sought to base morality on reason alone.
+
+       Moral psychologists have recently shown that many people draw on moral perspectives
+that go well beyond the golden rule. Community, authority, divinity, purity, loyalty, and sanctity
+are important considerations not only in many non-Western countries, but also among politically
+influential segments of the population in advanced economies, as emphasized by proponents of
+moral foundations theory.
+      Regardless of whether one agrees with those broader moral perspectives, familiarity with
+them makes it easier to understand the underlying motivations for various groups’ positions in
+debates on public policies. Such understanding may help in the design of policies that can muster
+support from a wide range of groups with differing moral values.
+Adapted from: https://www.imf.org/en/Publications/fandd/issues/2022/03/Adding-            ethics-to-
+public-finance-Mauro
+
+
+---
+
+11 Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. The planning of fiscal strategies is impervious to moral considerations.
+II. Traditional public finance education based on the golden rule is wanting as regards moral
+choices.
+III. Since the 18th century, philosophers have been on the same page as regards moral dilemmas.
+
+
+The statements are, respectively,
+
+
+(A) T–F–T.
+(B) F–F–T.
+(C) F–T–F.
+(D) F–T–T.
+(E) T–F–F.
+12 In the subtitle, “garnering” comes from the notion of
+
+
+(A) storing grains.
+(B) renting garrets.
+(C) making garlands.
+(D) lapidating garnets.
+(E) charging garrisons.
+
+
+13 The adjective in “is it fair for the state to collect through taxes” (1st paragraph) is equivalent in
+meaning to
+
+
+(A) bewildering.
+(B) befuddling.
+(C) bemusing.
+(D) beguiling.
+(E) befitting.
+
+14 The underlined expression in “regardless of who those people are” (4th paragraph) can be
+replaced without change in meaning by
+
+
+---
+
+(A) alike.
+(B) despite.
+(C) whereas.
+(D) however.
+(E) concerning.
+
+
+15 When it is stated that “tradition [is] steeped in values of societies” (4th paragraph) it is implied
+that these values have been
+
+
+(A) imbued.
+(B) shunned.
+(C) debased.
+(D) withheld.
+(E) overestimated.
+
+
+Texto 3: AFRFB – Receita Federal – FGV - 2023
+
+
+                                               Text II
+
+
+                  How trade can become a gateway to climate resilience
+
+
+Most people don't think about climate change when they lift a café latte to their lips or nibble on
+a square of chocolate — but this could soon change.
+
+
+Based on current trajectories, around a quarter of Brazil’s coffee farms and 37% of Indonesia’s are
+likely to be lost to climate change. Swathes of Ghana and Côte d’Ivoire — where most of the
+world’s chocolate is sourced — will become too hot to grow cocoa by 2050.
+
+
+Climate-related droughts and deadly heatwaves across the world have coincided with severe
+storms, cyclones, hurricanes, and, of course, a pandemic. As a consequence of these shocks,
+millions of people have been left without homes, and a growing number of people now face
+
+
+---
+
+starvation and a total collapse of livelihoods as growing and exporting staple crops becomes
+untenable.
+
+
+We must immediately rethink the shape of our economies, agricultural systems and consumption
+patterns. Our priority is to manufacture climate resilience in global economies and societies —
+and we must do it quickly.
+
+
+Trade can kickstart the emergence of climate-resilient economies, especially in the poorest
+countries. Trade has a multiplier effect on economies by driving production growth and fostering
+the expansion of export industries. By shifting focus to production and exports that increase
+climate resilience, there is potential to exponentially increase the land surface and trade
+processes prepared to withstand the climate crisis.
+Adapted from: https://www.weforum.org/agenda/2022/07/trade-can-be-a- gateway-to-climate-
+resilience
+
+
+16 The aim of the text is to offer
+
+
+(A) both an alert and a scolding.
+(B) a query and a dismissal.
+(C) a pledge and a grievance.
+(D) a warning and a way out.
+(E) a disclaimer and a solution.
+
+
+17 The position of the writer is that the situation described
+
+
+(A) could be shrugged off.
+(B) will not offer any harm.
+(C) ought to shift promptly.
+(D) should be taken lightly.
+(E) needs to be overlooked.
+
+
+18 The adjective in “the poorest countries” (5th paragraph) is in the same form as
+
+
+---
+
+(A) All nations should be more attentive to the homeless.
+(B) Ghana will be having a fine chocolate harvest in 2050.
+(C) Brazil is one amongst many coffee-producing countries.
+(D) It is hard to point out the most comfortable places on Earth.
+(E) Hopefully by 2050 there will be fewer climate-related issues.
+
+
+Texto 4: Agente de Políticas Públicas e Gestão Governamental - Prefeitura de
+Santo André - SP - FGV - 2022
+
+
+                       Global Perspectives of Public Administration
+
+From a global perspective, public administration still raises passionate debates. Many of us
+presume to know the virtues of a globalized world, where commerce flourishes without barriers,
+cultures intertwine with each other, communication and technologies connect distant places to
+local villages and even to one’s living room. We probably agree that globalization creates a sense
+of togetherness, a feeling that events on one side of the world concern people living on the other
+side and that democracy and good governance are globalized aspirations to which people of all
+nations are prime subscribers. We soon realize however that globalization carries within it an
+insatiable spirit of competition and greed. The idea that the fittest, the strongest ultimately
+destroys the weakest, is straight from the jungle. The notion that globalization facilitates the
+overhauling of established norms and values, for better or for worse, is very much practicable.
+
+
+What are public administrators to do when globalization seems to threaten the very customs and
+values that glue their society together? [...]
+
+
+---
+
+The notion that public administration is a global phenomenon, subject to universal principles of
+moralities and values is tantalizing but questionable. A particular form of governance seems to
+work well for societies with common cores principles and traditional heritage, while another form
+of practice seems to facilitate better the development and aspirations of citizens in other corners
+of the world. Public administrators are first and foremost responsible for the management of their
+constituent’s affairs. They should dedicate their time and energy to respond to the aspirations
+and desiderata of their people and within the established boundaries of their societies. Public
+administrators seem to be more effective when they are inspired by concrete societal goals and
+objectives rather than when they are driven by a subjective sense of universal morality and
+goodness toward mankind. Too often, we have witnessed senseless wars and targeted killings in
+the name of subjective greater goods and selfish interests. [...]
+
+
+Nevertheless, the world is interconnected and public administrators have to deal with internal as
+well as external issues outside of their national borders. International laws and regulations require
+that countries’ citizens behave in a certain manner toward fellow neighbors that certain principles
+of coexistence such as respect for diversity and basic understanding of human rights and dignity
+are undeniable. Public administrators in a globalized world have to focus on these ideas and
+create structures that essentially characterize these viewpoints.
+(Adapted from https://patimes.org/global-perspectives-public-administration/ Retrieved June
+28th, 2022.)
+
+
+19.. Based on the information provided by the text, mark the statements below as true (T) or false
+(F).
+
+
+( ) Globalization has both pleasant and objectionable consequences.
+( ) Viewed globally, forms of administration are alike.
+( ) Public administrators must be aware of national and international laws.
+
+
+The statements are, respectively,
+
+
+(A) F – F – T.
+(B) T – F – F.
+(C) T – F – T.
+(D) F – T – F.
+(E) T – T – F.
+
+
+---
+
+20. In the first paragraph, the author
+
+
+(A) discusses an idealized concept.
+(B) criticizes an evolutionary perspective.
+(C) complains about today’s public administrations.
+(D) celebrates the competition of a globalized world.
+(E) provides steps towards becoming a global administrator.
+
+
+21. The word ”threaten” in ”when globalization seems to threaten the very customs and values
+that glue their society together” (2nd paragraph) can be replaced, without change of meaning, by
+
+
+(A) glorify.
+(B) destroy.
+(C) support.
+(D) menace.
+(E) acknowledge.
+
+
+22. The author concludes that public administrators
+
+
+(A) must overlook human rights.
+(B) disregard domestic regulations.
+(C) avoid much social engagement.
+(D) prevent issues regarding diversity.
+(E) take into account internal and foreign affairs.
+
+
+23. In the last paragraph, the word “Nevertheless” indicates that the author will offer a(n)
+
+
+(A) contrast.
+(B) summary.
+(C) condition.
+
+
+---
+
+(D) illustration.
+(E) alternative.
+
+
+Texto 5: ATRFB – Receita Federal – FGV - 2023
+
+
+Text I
+
+
+                                        Trust and audit
+
+
+       Trust is what auditors sell. They review the accuracy, adequacy or propriety of other
+people’s work. Financial statement audits are prepared for the owners of a company and
+presented publically to provide assurance to the market and the wider public. Public service
+audits are presented to governing bodies and, in some cases, directly to parliament.
+      It is the independent scepticism of the auditor that allows shareholders and the public to
+be confident that they are being given a true and fair account of the organisation in question. The
+auditor’s signature pledges his or her reputational capital so that the audited body’s public
+statements can be trusted. [...]
+       Given the fundamental importance of trust, should auditors not then feel immensely
+valuable in the context of declining trust? Not so. Among our interviewees, a consensus emerged
+that the audit profession is under-producing trust at a critical time. One aspect of the problem is
+the quietness of audit: it is a profession that literally goes about its work behind the scenes. The
+face and processes of the auditor are rarely seen in the organisations they scrutinise, and
+relatively rarely in the outside world. Yet, if we listen to the mounting evidence of the importance
+of social capital, we know that frequent and reliable contacts between groups are important to
+strengthening and expanding trust.
+      So what can be done? Our research suggests that more frequent dialogue with audit
+committees and a more ambitious outward facing role for the sector’s leadership would be
+welcome. But we think more is needed. Audit for the 21st century should be understood and
+designed as primarily a confidence building process within the audited organisation and across its
+stakeholders. If the audit is a way of ensuring the client’s accountability, much more needs to be
+done to make the audit itself exemplary in its openness and inclusiveness.
+      Instead of an audit report being a trust-producing product, the audit process could
+become a trust-producing practice in which the auditor uses his or her position as a trusted
+intermediary to broker rigorous learning across all dimensions of the organisation and its
+stakeholders. The views of investors, staff, suppliers and customers could routinely be considered,
+as could questions from the general public; online technologies offer numerous opportunities to
+inform, involve and invite.
+
+
+---
+
+      From being a service that consists almost exclusively of external investigation by a
+warranted professional, auditing needs to become more co-productive, with the auditor’s role
+expanding to include that of an expert convenor who is willing to share the tools of enquiry. Audit
+could move from ‘black box’ to ‘glass box’.
+        But the profession will still struggle to secure trust unless it can stake a stronger claim to
+supporting improvement. Does it increase the economic, social or environmental value of the
+organisations it reviews? It is one thing to believe in the accuracy of a financial statement audit,
+but it is another thing to believe in its utility.
+Adapted from: https://auditfutures.net/pdf/AuditFutures-RSA- EnlighteningProfessions.pdf
+
+
+24. Based on Text I, mark the statements below as TRUE (T) or FALSE (F).
+
+
+I. In auditing, taking heed of what other parties have to say needs to be downplayed.
+II. Auditors are generally unobtrusive when carrying out their jobs.
+III. Trust is obtained when auditors eschew straightforward statements.
+
+
+The statements are, respectively,
+
+
+(A) F – T – F.
+(B) F – F – T.
+(C) T – F – T.
+(D) F – T – T.
+(E) T – F – F.
+
+
+25. Text I suggests auditors should invest
+
+
+(A) in more dynamic surveys.
+(B) unfounded records.
+(C) provisional auditing.
+(D) constant interactions.
+(E) user-friendly programs.
+26. The opposite of quietness (3rd paragraph) is
+
+
+---
+
+(A) deafness.
+(B) loudness.
+(C) kindliness.
+(D) dampness.
+(E) shrewdness.
+
+
+27. “Unless” in “unless it can stake a stronger claim to supporting improvement” (7th paragraph)
+introduces a (n)
+
+
+(A) plea.
+(B) averral.
+(C) account.
+(D) foresight.
+(E) condition.
+
+
+Texto 6: Advogado – Senado Federal – FGV – 2022
+
+
+Advogado – Senado Federal – FGV - 2022
+
+
+Read Text II and answer the two questions that follow it.
+
+
+Text II
+
+
+---
+
+From: https://www.glasbergen.com/ngg_tag/legal-department/
+
+
+28. The gist of this cartoon depends on the reader
+
+
+(A) sighting the arrow.
+(B) mastering the rules.
+(C) understanding the pun.
+(D) handling the hardware.
+(E) noticing the straight faces.
+
+
+29. The character’s speech reveals that the legal department
+
+
+(A) has praised the quality of the software.
+(B) sent at least one memorandum before.
+(C) scoffed at the scope of current cursors.
+(D) been demanding highly skilled employees.
+(E) considered computers a shrewd investment.
+
+
+---
+
+          GABARITO
+Textos                            Gabaritos
+
+Texto 1       01-E; 02-D; 03-B; 04-B; 05-C; 06-B; 07-C; 08-E;
+              09-B; 10-A;
+
+Texto 2       11-C; 12-A; 13-E; 14-B; 15-A;
+
+Texto 3       16-D; 17-C; 18-D;
+
+Texto 4       19-C; 20-A; 21-D; 22-E; 23-A;
+
+Texto 5       24-A; 25-D; 26-B; 27-E;
+
+Texto 6       28-C; 29-B;
+
+
+---
+
+                                       RESUMO
+•     Memorize os significados das palavras abaixo e seus sinônimos:
+•      Full-fledged = completo, desenvolvido, maduro, experiente, total.
+•     Stunt = truque, golpe publicitário, ato, execução, façanha, proeza, algo feito para se
+chamar atenção
+•     Do not work = não funcionam = has failed = tem falhado, fracassado
+•     genuine = genuíno,real, autêntico, verdadeiro = actual = verdadeiro, real
+•   former = ex, prévio, anterior, precedente = then = naquele tempo, dias, ocasião,
+momento; então, mais tarde, também, além disso;
+•    until quite recently = até muito recentemente = only a short time ago = só há
+pouco tempo
+•     Do away with = eliminar, acabar, desfazer-se de algo = getting rid of it = livrar-se de;
+•     Obtrusive = indiscreto, inoportuno, intruso, conspícuo
+•      Un (prefixo de negação) + obtrusive = Unobtrusive = discreto, reservado, quieto,
+calado = quiet
+•      quietness = quietude, calma, paz, sossego, silêncio, tranquilidade, serenidade
+•     Cuidado com os significados: late = morto = deceased = falecido; late = recente, último
+= recent = recente, novo, último; late = prévio, antigo, atrasado
+• Dê atenção aos conectivos sinônimos: Rather than = ao invés de = instead of = ao invés de
+• O conectivo nevertheless (porém, todavia, contudo) introduz um contraste entre o que foi
+mencionado antes e o que vem depois.
+•     O que mais foi cobrado pela FGV na aula de hoje foi Interpretação Textual e Sinônimos.
+Esses assuntos são vistos em todos as aulas.
+•      Nessa aula 100% dos textos tiveram assuntos com vocabulário pertinente ou ao cargo
+ou a instituição do concurso e/ou de atualidades. Portanto, ao revisar escolha os textos que têm
+o vocabulário pertinente à sua área, pois é assim que a FGV elabora as provas. Ex: fiscal,
+financeiro, econômico, área de TI, saúde, administrativo, etc. + Atualidades.
+
+
+---

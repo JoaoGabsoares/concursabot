@@ -1,0 +1,287 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ATRIBUTOS PARA A CLASSIFICAÇÃO
+
+
+                                               Prof. Ricardo Campanario
+
+
+
+
+          https://t.me/KakashiAssinaturasBot
+       Atributos para a Classificação
+       Leve para a prova esses 3 atributos!
+
+       ❑ Os materiais não podem ser classificados usando-se para isso sistemas que não
+         tenham qualquer tipo de padronização. Dessa forma definiu-se que um sistema
+         eficiente de classificação deve possuir e aplicar ao menos três atributos principais:
+         abrangência, flexibilidade e praticidade.
+
+
+
+
+       ❑ Vamos entender cada um deles. É importante que você saiba listá-los, identificá-los e
+         diferenciá-los no dia da prova.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Atributos para a Classificação
+       Abrangência
+
+
+       ❑ A abrangência deve permitir que a classificação possa incluir um vasto número de
+         diferentes tipos de materiais, englobando uma grande variedade de características
+         como peso, forma, dimensão, custos, aspectos contábeis, etc.
+       ❑ Deve tratar da maior gama possível de características.
+       ❑ Isso permite que o sistema seja abrangente o suficiente para representar todos os
+         tipos de materiais em suas mais variadas dimensões, conseguindo diferenciá-los um a
+         um e evitando qualquer tipo de duplicidade ou confusão.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Atributos para a Classificação
+       Flexibilidade
+
+       ❑ A flexibilidade deve proporcionar uma visão global do estoque e, especialmente, o inter-
+         relacionamento entre as diversas classificações.
+
+       ❑ Dessa forma a classificação deve ser sempre maleável e adaptável, podendo se adequar à
+         realidade da organização e facilitando a comunicação entre os diferentes tipos adotados.
+
+       ❑ O importante é que o sistema de classificação se adeque as necessidades da organização e não o
+         contrário. Caso a organização decida alterar os itens com os quais costumeiramente trabalha, a
+         classificação deve se adaptar à mudança e não ser um empecilho a ela, por exemplo, fazendo
+         com que a mudança não seja adotada pois geraria problemas no sistema de classificação.
+
+       ❑ Somente dessa forma o sistema de classificação estará sempre atualizado, facilitando a
+         comunicação e a integração entre os diferentes tipos de classificação.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Atributos para a Classificação
+       Praticidade
+
+       ❑ Por último, a praticidade exige simplicidade da classificação.
+       ❑ Não deve exigir do classificador julgamentos subjetivos ou complexos, tarefas
+         complicadas e conceitos abstratos.
+       ❑ Deve ser simples e direta.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Atributos para a Classificação
+       Resumo Geral!
+
+
+
+
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+
+
+
+                                            Abrangência            Flexibilidade           Praticidade
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CRESS23-RO/Técnico Administrativo/2021) Os dados advindos da classificação de materiais
+     servem de informação gerencial ao administrador de materiais, que se torna capaz de voltar sua
+     atenção a determinada(s) categoria(s) de material(is), ao invés de tentar, em vão, lidar com uma
+     infinidade de itens de materiais. Sem uma classificação de materiais bem definida, seria quase
+     impossível ao gestor de materiais administrar seus estoques. Assim, criar uma classificação de materiais
+     que promova uma gestão mais pontual do processo sustenta uma administração mais ampla do material
+     junto ao estoque. Nesse pensamento, utilizar-se dos atributos da gestão de materiais permite uma
+     condução mais assertiva da gestão na estocagem. Logo, é correto afirmar que os atributos de um
+     sistema de classificação são
+     a) abrangência, praticidade e normalização.
+     b) codificação, abrangência e flexibilidade.
+     c) simplicidade, padronização e abrangência.
+     d) praticidade, identificação e abrangência.
+     e) praticidade, flexibilidade e abrangência.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (QUADRIX/CRESS23-RO/Técnico Administrativo/2021) Os dados advindos da classificação de materiais
+     servem de informação gerencial ao administrador de materiais, que se torna capaz de voltar sua
+     atenção a determinada(s) categoria(s) de material(is), ao invés de tentar, em vão, lidar com uma
+     infinidade de itens de materiais. Sem uma classificação de materiais bem definida, seria quase
+     impossível ao gestor de materiais administrar seus estoques. Assim, criar uma classificação de materiais
+     que promova uma gestão mais pontual do processo sustenta uma administração mais ampla do material
+     junto ao estoque. Nesse pensamento, utilizar-se dos atributos da gestão de materiais permite uma
+     condução mais assertiva da gestão na estocagem. Logo, é correto afirmar que os atributos de um
+     sistema de classificação são
+     a) abrangência, praticidade e normalização.
+     b) codificação, abrangência e flexibilidade.
+     c) simplicidade, padronização e abrangência.
+     d) praticidade, identificação e abrangência.
+     e) praticidade, flexibilidade e abrangência.
+     GABARITO - E
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (GUALIMP/Pref. Mun. Conceição de Macabú-RJ/Almoxarife/2020) Um sistema de classificação de
+     materiais deve possuir determinadas qualidades (ou atributos) que o torne satisfatório. O atributo que
+     permite interfaces entre os diversos tipos de classificação, de modo a obter uma visão ampla da gestão
+     de estoques é denominado:
+     a) Flexibilidade
+     b) Abrangência
+     c) Praticidade
+     d) Catalogado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (GUALIMP/Pref. Mun. Conceição de Macabú-RJ/Almoxarife/2020) Um sistema de classificação de
+     materiais deve possuir determinadas qualidades (ou atributos) que o torne satisfatório. O atributo que
+     permite interfaces entre os diversos tipos de classificação, de modo a obter uma visão ampla da gestão
+     de estoques é denominado:
+     a) Flexibilidade
+     b) Abrangência
+     c) Praticidade
+     d) Catalogado
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FCC/ALAP/Assistente Legislativo/2020) Em gerenciamento de estoques, os principais atributos da
+     classificação de materiais são
+     a) Abrangência; Flexibilidade e Praticidade.
+     b) Exiguidade; Rigidez e Complexidade.
+     c) Peculiaridade; Austeridade e Adereçamento.
+     d) Propriedade; Singularidade e Originalidade.
+     e) Tamanho; Quantidade e Aplicabilidade.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FCC/ALAP/Assistente Legislativo/2020) Em gerenciamento de estoques, os principais atributos da
+     classificação de materiais são
+     a) Abrangência; Flexibilidade e Praticidade.
+     b) Exiguidade; Rigidez e Complexidade.
+     c) Peculiaridade; Austeridade e Adereçamento.
+     d) Propriedade; Singularidade e Originalidade.
+     e) Tamanho; Quantidade e Aplicabilidade.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (INAZ-PA/CORE-PR/Auxiliar Administrativo/2019) Na gestão de material e controle de
+     estoques e almoxarifado, um sistema de classificação deve possuir determinadas
+     qualidades (ou atributos) que o torne satisfatório. Sabendo que estas qualidades se
+     representam em três aspectos no sistema de classificação, que resposta apresenta um
+     destes atributos?
+     a) Abrangência.
+     b) Periodicidade.
+     c) Diversidade.
+     d) Durabilidade.
+     e) Resistência.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (INAZ-PA/CORE-PR/Auxiliar Administrativo/2019) Na gestão de material e controle de
+     estoques e almoxarifado, um sistema de classificação deve possuir determinadas
+     qualidades (ou atributos) que o torne satisfatório. Sabendo que estas qualidades se
+     representam em três aspectos no sistema de classificação, que resposta apresenta um
+     destes atributos?
+     a) Abrangência.
+     b) Periodicidade.
+     c) Diversidade.
+     d) Durabilidade.
+     e) Resistência.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Um bom sistema de
+     classificação deve possuir os seguintes atributos:
+     a) simplicidade, precisão e abrangência;
+     b) abrangência, flexibilidade e praticidade;
+     c) praticidade, durabilidade e precisão;
+     d) durabilidade, simplicidade e precisão;
+     e) precisão, praticidade e maneabilidade.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) Um bom sistema de
+     classificação deve possuir os seguintes atributos:
+     a) simplicidade, precisão e abrangência;
+     b) abrangência, flexibilidade e praticidade;
+     c) praticidade, durabilidade e precisão;
+     d) durabilidade, simplicidade e precisão;
+     e) precisão, praticidade e maneabilidade.
+     GABARITO - B
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

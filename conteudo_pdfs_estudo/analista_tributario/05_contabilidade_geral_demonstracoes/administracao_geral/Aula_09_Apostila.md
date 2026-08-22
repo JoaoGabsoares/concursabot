@@ -1,0 +1,2535 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Possati
+artigos_citados:
+- Art. 194.
+- Art. 195-A.
+- Art. 202
+- Art. 204.
+- Art. 205.
+- art. 198
+- art. 248
+- artigo 195-A
+---
+
+# Possati
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                            29 de Março de 2025
+
+---
+
+      Gilmar Possati
+      Aula 08
+
+                                                                                     Índice
+1) Dividendos e Reservas - Teoria
+
+
+2) Dividendos e Reservas - Questões Comentadas - FGV
+
+
+3) Dividendos e Reservas - Questões Comentadas - Multibancas
+
+
+4) Dividendos e Reservas - Lista de Questões - FGV
+
+
+5) Dividendos e Reservas - Lista de Questões - Multibancas
+
+
+6) Dividendos e Reservas - Resumo
+
+                Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           54
+
+                                                             
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+                                         APRESENTAÇÃO
+Pessoal, a ideia da aula de hoje é complementar o que já estudamos sobre reservas e dividendos na aula
+sobre o balanço patrimonial. Vamos estudar alguns detalhes e resolver mais questões sobre o tema.
+
+TRANSFERÊNCIA                        DO LUCRO LÍQUIDO PARA RESERVAS,
+FORMA              DE       CÁLCULO,                 UTILIZAÇÃO                    E       REVERSÃO     DE
+RESERVAS.
+Aspectos Introdutórios
+Pessoal, basicamente nós temos duas formas de destinação do resultado do exercício: constituição de
+reservas e distribuição de dividendos e juros sobre o capital próprio.
+Esta aula tem o objetivo de detalhar um pouco mais essas formas de destinação do lucro, pois as questões
+costumam exigir alguns cálculos sobre a constituição de reservas e também a contabilização dos dividendos.
+Vamos, então, iniciar nosso estudo pelo detalhamento da transferência do lucro líquido para reservas.
+Já estudamos em nosso curso, as características básicas das reservas. Na oportunidade, vimos que existem
+dois tipos de reservas: reservas de lucros e reservas de capital. Pois bem... obviamente que agora iremos nos
+concentrar nas reservas de lucros, pois elas é que são constituídas como forma de destinação do resultado
+do exercício. Avante!
+
+Reservas de Lucros
+As reservas de lucros são extraídas do lucro líquido do exercício. Possuem o objetivo de preservar o
+patrimônio líquido. Segundo a Lei n. 6.404/76 (art. 182, §4º), serão classificadas como reservas de lucros as
+contas constituídas pela apropriação de lucros da companhia.
+As reservas de lucros previstas na Lei n. 6.404/76 são as seguintes:
+- Reserva Legal;
+- Reservas Estatutárias;
+- Reservas para Contingências;
+- Reserva de Incentivos Fiscais;
+- Reserva de Retenção de Lucros (de Lucros para Expansão/Orçamentária/de investimentos);
+- Reserva de Lucros a Realizar;
+- Reserva Especial de Dividendo Obrigatório Não Distribuído;
+- Reserva Específica de Prêmio de Debêntures.
+Antes de estudarmos cada uma, devemos saber os limites. Segundo a Lei n. 6.404/76,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   3
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+       Art. 199. O saldo das reservas de lucros, exceto as para contingências, de incentivos fiscais e de lucros a realizar, não
+       poderá ultrapassar o capital social. Atingindo esse limite, a assembleia deliberará sobre aplicação do excesso na
+       integralização ou no aumento do capital social ou na distribuição de dividendos.
+
+A Lei n. 12.973/2014 (art. 31, §4º) incluiu entre as reservas acima a reserva específica de prêmio de
+debêntures (ou seja, não será computada para fins do cálculo do limite das reservas de lucros).
+Portanto, temos:
+
+Reserva Legal + Estatutária + Retenção de Lucros (Orçamentária) + Especial de Dividendo Obrigatório Não
+Distribuído ≤ Capital Social
+Mnemônico: LEÕEs ≤ Capital Social
+Exceção: Reservas para Contingências, de incentivos fiscais, de lucros a realizar e Reserva Específica de
+Prêmio de Debêntures podem ultrapassar o capital social.
+
+Caso o referido somatório ultrapasse o Capital Social, caberá à assembleia deliberar sobre a aplicação do
+excedente, que poderá ser utilizado para integralização ou aumento de capital, desde que com a devida
+fundamentação, ou distribuído como dividendos.
+
+Reserva Legal
+Segundo a Lei n. 6.404/76,
+       Art. 193. Do lucro líquido do exercício, 5% (cinco por cento) serão aplicados, antes de qualquer outra destinação, na
+       constituição da reserva legal, que não excederá de 20% (vinte por cento) do capital social.
+       § 1º A companhia poderá deixar de constituir a reserva legal no exercício em que o saldo dessa reserva, acrescido do
+       montante das reservas de capital de que trata o § 1º do artigo 182, exceder de 30% (trinta por cento) do capital social.
+       § 2º A reserva legal tem por fim assegurar a integridade do capital social e somente poderá ser utilizada para compensar
+       prejuízos ou aumentar o capital.
+
+Reserva Legal (antes de qualquer destinação)
+   ▪    5% do Lucro Líquido do Exercício;
+   ▪    Limitada a 20% do capital social;
+   ▪    A entidade poderá deixar de destinar recursos à reserva legal se o somatório desta reserva com as
+        reservas de capital exceder o montante de 30% do capital social (limite facultativo);
+   ▪    A reserva legal é a única reserva de lucro que possui constituição obrigatória para a empresa.
+   ▪    Finalidade: assegurar a integridade do capital social.
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                   4
+          www.estrategiaconcursos.com.br                                                                                     54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+   ▪    Forma de Utilização: somente poderá ser utilizada para compensar prejuízos ou aumentar o capital
+        social.
+
+Contabilização da Reserva Legal
+Pessoal, basicamente você deve saber os seguintes lançamentos:
+Constituição da Reserva Legal
+
+       D – Lucros Acumulados
+       C – Reserva Legal
+
+Vale destacar que se houver prejuízo acumulado, devemos deduzir da base de cálculo da reserva legal.
+Exemplo:                                                  ==219a34==
+
+Lucro Líquido do Exercício                       10.000,00
+(-) Prejuízos Acumulados                         (5.000,00)
+(=) Base de cálculo da Reserva Legal             5.000,00
+                                                    X 5%
+(=) Reserva Legal do Exercício                   250,00
+Vale destacar, ainda, que a constituição da reserva legal ocorre após a transferência do resultado para a
+conta Lucros/Prejuízos Acumulados. Logo, se houver prejuízo acumulado, nesse momento da transferência,
+eles serão compensados, antes da constituição da reserva legal.
+Portanto, tome nota!
+
+A constituição da reserva legal deve ter como base de cálculo o lucro líquido do exercício, após a dedução
+dos prejuízos acumulados, se houver!
+
+(MPU) A Cia. Viva Bem apresentou, no exercício findo em 31/12/2005, lucro líquido do exercício no valor
+de R$ 220.000,00. No Balanço Patrimonial de 31/12/2004, o seu capital social integralizado e a reserva
+legal montavam a, respectivamente, R$ 700.000,00 e R$ 140.000,00. Em 2005, houve um aumento de
+capital da companhia, totalmente integralizado pelos acionistas, no valor de R$ 50.000,00. De acordo com
+a legislação comercial, a companhia deve constituir acréscimo da reserva legal, relativo ao exercício findo
+em 2005, no valor, em R$, de
+a) 22.000,00
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                5
+         www.estrategiaconcursos.com.br                                                                 54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+b) 15.500,00
+c) 12.500,00
+d) 11.000,00
+e) 10.000,00
+Comentários
+Questão interessante para visualizarmos como funciona a sistemática de limites acima estudada.
+Sabemos que devemos constituir a reserva legal aplicando 5% sobre o lucro líquido. Assim, temos:
+220.000,00 (lucro líquido)
+(x) 5%
+(=) 11.000,00
+No entanto, temos que verificar o limite de 20% do capital social.
+750.000,00 (capital social)
+(x) 20%
+(=) 150.000,00
+Como a questão informa que havia um saldo de reserva legal no valor de 140.000,00, o máximo que podemos
+constituir será 10.000,00, para não ultrapassar o limite de 20% do capital social.
+Gabarito: E
+
+Reserva Estatutária
+Segundo a Lei n. 6.404/76,
+      Art. 194. O estatuto poderá criar reservas desde que, para cada uma:
+      I - indique, de modo preciso e completo, a sua finalidade;
+      II - fixe os critérios para determinar a parcela anual dos lucros líquidos que serão destinados à sua constituição; e
+      III - estabeleça o limite máximo da reserva.
+As Reservas Estatutárias não podem restringir o pagamento do dividendo obrigatório, nos termos do art. 198
+da Lei 6.404/76. Logo, os valores das reservas estatutárias não podem ser deduzidos do lucro líquido do
+exercício no cálculo do dividendo mínimo obrigatório.
+A contabilização da constituição das reservas segue o padrão:
+
+      D – Lucros Acumulados
+      C – Reservas Estatutárias
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                    6
+          www.estrategiaconcursos.com.br                                                                                      54
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Reserva para Contingências
+Segundo a Lei n. 6.404/76,
+       Art. 195. A assembleia-geral poderá, por proposta dos órgãos da administração, destinar parte do lucro líquido à formação
+       de reserva com a finalidade de compensar, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+       cujo valor possa ser estimado.
+       § 1º A proposta dos órgãos da administração deverá indicar a causa da perda prevista e justificar, com as razões de
+       prudência que a recomendem, a constituição da reserva.
+       § 2º A reserva será revertida no exercício em que deixarem de existir as razões que justificaram a sua constituição ou em
+       que ocorrer a perda.
+Observe que a finalidade da reserva para contingências é preservar o capital social de possíveis contingências
+ocorridas, compensando, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+cujo valor possa ser estimado.
+Segundo o Manual de Contabilidade Societária – FIPECAFI (USP) o objetivo da constituição dessa reserva é
+segregar uma parcela de lucros, inclusive com a finalidade de não distribuí-la como dividendo,
+correspondente a prováveis perdas extraordinárias futuras, que acarretarão diminuição dos lucros (ou até o
+surgimento de prejuízos) em exercícios futuros.
+Referido Manual esclarece que, em geral, as reservas para contingências são constituídas para fazer frente
+a perdas cíclicas, que se repetem no tempo e que, portanto, são previsíveis. Estas perdas podem decorrer,
+dentre outros:
+   ▪    de fenômenos climáticos ou naturais que interrompem as atividades da empresa em determinados
+        momentos;
+   ▪    da prestação de serviços com duração limitada, passando por períodos de alta lucratividade até
+        outros de pouca lucratividade ou até mesmo prejuízos - sazonalidade;
+   ▪    de paralisações extraordinárias de longa duração, decorrentes da substituição de equipamentos
+        obsoletos, cuja substituição seja bastante penosa.
+Um ponto importante que devemos saber é a diferença entre reserva para contingências e provisões.
+Nesse sentido, o Manual FIPECAFI ensina que a Provisão destina-se a dar cobertura a perdas ou despesas já
+incorridas, mas ainda não desembolsadas e que, dentro do regime de competência, devem ser lançadas no
+Resultado, na constituição dessa Provisão.
+A Reserva para Contingências é, por outro lado, uma expectativa de perdas ou prejuízos ainda não
+incorridos; por ser possível antevê-los e por precaução e prudência empresariais, segrega-se uma parte dos
+lucros já existentes, não os distribuindo para suportar financeiramente o período em que o prejuízo ocorrer
+efetivamente. Na data em que tal prejuízo ocorrer, será reconhecido contabilmente como despesa, dentro
+do regime de competência.
+Vale destacar que a constituição da reserva para contingências é facultativa.
+A constituição da reserva envolve o registro padrão:
+
+       D – Lucros Acumulados
+       C – Reserva para Contingências
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                    7
+          www.estrategiaconcursos.com.br                                                                                      54
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Vale destacar que o valor da constituição da reserva para contingências é deduzido do lucro líquido,
+quando do cálculo do dividendo mínimo obrigatório e adicionado quando da sua reversão.
+Aliás, por falar em reversão, impende anotar que a reserva para contingências deve ser revertida no exercício
+em que deixarem de existir as razões que justifiquem a sua constituição ou em que ocorrer a perda. O
+lançamento é o seguinte:
+
+      D – Reservas para Contingências
+      C – Lucros/Prejuízos Acumulados
+
+
+Reserva de Incentivos Fiscais
+A reserva de incentivos fiscais foi criada pela Lei n. 11.638/07, adicionando o seguinte artigo à Lei n. 6.404/76:
+      Art. 195-A. A assembleia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos
+      fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá
+      ser excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art. 202 desta Lei). (Incluído pela Lei n.
+      11.638,de 2007)
+
+Vimos que as doações e subvenções governamentais eram registradas à conta de reserva de capital. Porém,
+após as alterações na Lei 6.404/76, as doações e subvenções recebidas pela companhia deverão transitar
+pelo resultado como receitas.
+Sendo assim, o valor do lucro líquido recebido com doações e subvenções governamentais poderão
+constituir reserva de incentivos fiscais.
+O objetivo dessa reserva, segundo o Manual FIPECAFI, é evitar que as empresas sejam prejudicadas, do
+ponto de vista tributário, por conta da nova forma de registro contábil das doações e subvenções, fazendo
+isso da seguinte forma: permitindo que a entidade registre, em cada exercício em que reconhecer esse tipo
+de receita, a transferência da conta de Lucros Acumulados para a conta de Reserva de Incentivos Fiscais o
+exato valor de tal receita, de forma a não distribuir esse valor como lucros ou dividendos aos sócios.
+Destaca-se que o valor relativo à reserva de incentivos fiscais pode ser excluído da base de cálculo do
+dividendo obrigatório.
+Os registros contábeis relacionados a esse tipo de reserva são os seguintes:
+Pelo recebimento de doações e subvenções governamentais
+
+      D – Caixa (se a doação for em moeda) ou Bem doado
+      C – Receita a Apropriar de doações
+
+Nesse sentido, após a apuração do resultado e sua transferência para a conta Lucros/Prejuízos Acumulados,
+a companhia poderá destinar para a reserva de incentivos fiscais a parcela do lucro líquido decorrente de
+doações ou subvenções governamentais para investimentos por meio do seguinte lançamento:
+
+      D – Lucros/Prejuízos Acumulados
+      C – Reserva de Incentivos Fiscais
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                   8
+         www.estrategiaconcursos.com.br                                                                                     54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Reserva de Retenção de Lucros
+Para atender a projeto de investimento, a companhia poderá reter parte dos lucros do exercício, a fim de
+constituir a reserva de retenção de lucros, também denominada de reserva de lucros para expansão,
+conforme estabelece o art. 196 da Lei n. 6.404/76,
+     Art. 196. A assembleia-geral poderá, por proposta dos órgãos da administração, deliberar reter parcela do lucro líquido do
+     exercício prevista em orçamento de capital por ela previamente aprovado.
+     § 1º O orçamento, submetido pelos órgãos da administração com a justificação da retenção de lucros proposta, deverá
+     compreender todas as fontes de recursos e aplicações de capital, fixo ou circulante, e poderá ter a duração de até 5 (cinco)
+     exercícios, salvo no caso de execução, por prazo maior, de projeto de investimento.
+     § 2º O orçamento poderá ser aprovado pela assembleia-geral ordinária que deliberar sobre o balanço do exercício e revisado
+     anualmente, quando tiver duração superior a um exercício social. (Redação dada pela Lei n. 10.303, de 2001)
+
+Observe que a finalidade desta reserva é reter parte dos lucros para aplicação em projeto de investimento.
+Destaca-se que essa reserva não pode ser constituída em detrimento do pagamento do dividendo mínimo
+obrigatório.
+Conforme os investimentos forem sendo executados, a reserva de retenção de lucros deverá ser revertida
+para a conta Lucros/Prejuízos Acumulados por meio do seguinte lançamento:
+
+     D – Reserva de Retenção de Lucros
+     C – Lucros/Prejuízos Acumulados
+
+Vale destacar que o valor revertido (diferentemente da reserva para contingências) não deve ser considerado
+no cálculo do dividendo mínimo obrigatório.
+
+Reserva de Lucros a Realizar
+Segundo a Lei n. 6.404/76,
+     Art. 197. No exercício em que o montante do dividendo obrigatório, calculado nos termos do estatuto ou do art. 202,
+     ultrapassar a parcela realizada do lucro líquido do exercício, a assembleia-geral poderá, por proposta dos órgãos de
+     administração, destinar o excesso à constituição de reserva de lucros a realizar. (Redação dada pela Lei n. 10.303, de 2001)
+     § 1º Para os efeitos deste artigo, considera-se realizada a parcela do lucro líquido do exercício que exceder da soma dos
+     seguintes valores: (Redação dada pela Lei n. 10.303, de 2001)
+     I - o resultado líquido positivo da equivalência patrimonial (art. 248); e (Incluído pela Lei n. 10.303, de 2001)
+     II – o lucro, rendimento ou ganho líquidos em operações ou contabilização de ativo e passivo pelo valor de mercado, cujo
+     prazo de realização financeira ocorra após o término do exercício social seguinte. (Redação dada pela Lei n. 11.638,de 2007)
+     § 2º A reserva de lucros a realizar somente poderá ser utilizada para pagamento do dividendo obrigatório e, para efeito
+     do inciso III do art. 202, serão considerados como integrantes da reserva os lucros a realizar de cada exercício que forem os
+     primeiros a serem realizados em dinheiro. (Incluído pela Lei n. 10.303, de 2001)
+
+A reserva de lucros a realizar é constituída como uma destinação dos lucros do exercício, sendo optativa
+(facultativa) sua constituição.
+A Reserva de Lucros a Realizar poderá ser constituída quando não existirem lucros realizados suficientes para
+o pagamento do dividendo obrigatório. Esta reserva somente poderá ser utilizada para pagamento do
+dividendo mínimo obrigatório.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                       9
+        www.estrategiaconcursos.com.br                                                                                        54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Segundo o Manual FIPECAFI, seu objetivo é não distribuir dividendos obrigatórios sobre a parcela de lucros
+ainda não realizada financeiramente (apesar de contábil e economicamente realizada) pela companhia,
+quando tais dividendos excederem a parcela financeiramente realizada do lucro líquido do exercício.
+À medida que os lucros a realizar forem sendo recebidos, a reserva deverá ser proporcionalmente revertida,
+conforme registro abaixo:
+
+     D – Reserva de Lucros a Realizar
+     C – Lucros/Prejuízos Acumulados
+
+Na sequência da aula vamos ver um “exemplo real de exigência” envolvendo essa reserva e a distribuição de
+dividendos.
+
+Reserva Especial de Dividendo Obrigatório Não Distribuído
+Segundo o Manual FIPECAFI, a companhia deverá constituir essa Reserva de Lucros quando tiver dividendo
+obrigatório a distribuir, mas sem condições financeiras para seu pagamento, situação em que se utilizará
+do expediente previsto nos §§ 4º e 5º do art. 202 da Lei das Sociedades por Ações. Vejamos esses
+dispositivos:
+     § 4º O dividendo previsto neste artigo não será obrigatório no exercício social em que os órgãos da administração
+     informarem à assembleia-geral ordinária ser ele incompatível com a situação financeira da companhia. O conselho fiscal,
+     se em funcionamento, deverá dar parecer sobre essa informação e, na companhia aberta, seus administradores
+     encaminharão à Comissão de Valores Mobiliários, dentro de 5 (cinco) dias da realização da assembleia-geral, exposição
+     justificativa da informação transmitida à assembleia.
+     § 5º Os lucros que deixarem de ser distribuídos nos termos do § 4º serão registrados como reserva especial e, se não
+     absorvidos por prejuízos em exercícios subsequentes, deverão ser pagos como dividendo assim que o permitir a situação
+     financeira da companhia.
+
+Nesse caso, o dividendo deixa de ser pago naquele exercício e, para tanto, já no balanço, dever-se-á apurar
+o valor do dividendo obrigatório e apropriá-lo para essa reserva especial de lucros a débito de Lucros
+Acumulados.
+Tais dividendos serão pagos aos acionistas no futuro, assim que a situação financeira o permitir, desde que
+não tenham sido absorvidos por prejuízos dos exercícios seguintes.
+O lançamento de constituição segue o padrão:
+
+     D – Lucros Acumulados
+     C – Reserva Especial para Dividendos Obrigatórios Não Distribuídos
+
+Observe que tanto a reserva de lucros a realizar como a especial de dividendo obrigatório não distribuído
+estão relacionadas à distribuição do dividendo. Veja a diferença:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                 10
+        www.estrategiaconcursos.com.br                                                                                   54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Reserva de Lucros a Realizar → a entidade não consegue quitar o valor integral do dividendo, considerando
+a parte ainda não realizada do lucro. Porém, efetua o pagamento da parte possível e constitui a reserva pelo
+valor da parte que falta pagar de dividendos.
+Reserva Especial de Dividendo Obrigatório Não Distribuído → a entidade não consegue quitar nenhuma
+parte do dividendo (considerando a frágil situação financeira da companhia) e a reserva é constituída pelo
+valor integral do dividendo mínimo obrigatório.
+
+
+Reserva Específica de Prêmio de Debêntures
+As debêntures são títulos de créditos emitidos por Sociedades Anônimas, registrados no passivo circulante
+ou no não circulante, para captação de recursos que dão direito à participação nos lucros, rendem juros,
+correção monetária e em alguns casos podem ser convertidas em ações, ou seja, o credor pode tornar-se
+acionista da empresa.
+Quando a empresa emite debêntures com ágio, dizemos que ocorre emissão “acima do par”, mais conhecido
+como prêmios na emissão de debêntures.
+Segundo a legislação, a pessoa jurídica contabilizará os prêmios na emissão de debêntures no Passivo Não
+Circulante na conta “prêmios de debêntures a amortizar” e deverá reconhecer o valor do prêmio na emissão
+de debêntures em conta do resultado do exercício pelo regime de competência e poderá destinar o valor
+referente à parcela do lucro líquido do exercício decorrente do prêmio na emissão de debêntures na
+constituição da reserva de lucros específica.
+A legislação estabelece, ainda, que para fins do limite de que trata o artigo 199 da Lei n. 6.404/76, a reserva
+de lucros específica terá o mesmo tratamento dado à reserva de incentivo fiscal, prevista no artigo 195-A da
+Lei n. 6.404/76.
+A empresa poderá destinar para a Reserva de Lucros Específica a parcela do lucro líquido decorrente da
+receita apropriada da conta dos prêmios de debêntures a apropriar, que poderá ser excluída da base de
+cálculo dos dividendos obrigatórios.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    11
+        www.estrategiaconcursos.com.br                                                                      54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+                            TRATAMENTO DOS DIVIDENDOS
+
+Conceito
+Dividendo é uma forma de remuneração atribuída ao acionista tendo em vista o seu capital aplicado na
+entidade.
+
+Dividendo Mínimo Obrigatório
+O dividendo mínimo obrigatório está previsto no Art. 202 da Lei n. 6.404/76, senão vejamos:
+     Art. 202. Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros
+     estabelecida no estatuto ou, se este for omisso, a importância determinada de acordo com as seguintes normas [...]
+
+Observe que a regra é a distribuição do dividendo com base em percentual fixo no estatuto. No
+entanto, se o estatuto for omisso, devemos observar os detalhes abaixo estudados.
+Cálculo do dividendo em caso de omissão do estatuto
+Segundo a Lei n. 6.404/76,
+     Art. 202. Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros
+     estabelecida no estatuto ou, se este for omisso, a importância determinada de acordo com as seguintes normas:
+     I - metade do lucro líquido do exercício diminuído ou acrescido dos seguintes valores:
+     a) importância destinada à constituição da reserva legal (art. 193); e
+     b) importância destinada à formação da reserva para contingências (art. 195) e reversão da mesma reserva formada em
+     exercícios anteriores;
+
+Assim, caso o estatuto seja omisso, a Lei nº 6.404/76 determina que deve ser aplicado o percentual de 50%
+sobre o lucro líquido ajustado.
+
+  Lucro Líquido Ajustado (LLA) = Lucro Líquido do Exercício – Reserva Legal – Reserva para
+  Contingências + Reversão de Reserva para Contingências – Reserva de Incentivos Fiscais
+  (facultativo) – Reserva Específica de Prêmio na Emissão de Debêntures (facultativo).
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                  12
+        www.estrategiaconcursos.com.br                                                                                    54
+
+                                       
+
+
+---
+
+   Gilmar Possati
+   Aula 08
+
+Dividendos x reservas de lucros a realizar
+Segundo a Lei n. 6.404/76,
+       Art. 202
+       [...]
+       II - o pagamento do dividendo determinado nos termos do inciso I poderá ser limitado ao montante do lucro líquido do
+       exercício que tiver sido realizado, desde que a diferença seja registrada como reserva de lucros a realizar (art. 197);
+       III - os lucros registrados na reserva de lucros a realizar, quando realizados e se não tiverem sido absorvidos por prejuízos
+       em exercícios subsequentes, deverão ser acrescidos ao primeiro dividendo declarado após a realização.
+
+Esses dispositivos apenas reforçam o fato de que o pagamento do dividendo pode ser limitado,
+desde que a diferença seja registrada como reserva de lucros a realizar. No entanto, assim que os
+lucros forem realizados devem ser distribuídos juntamente com o próximo pagamento de dividendo
+mínimo obrigatório.
+
+Alteração do estatuto omisso sobre o cálculo dos dividendos
+Segundo a Lei n. 6.404/76,
+       § 2º Quando o estatuto for omisso e a assembléia-geral deliberar alterá-lo para introduzir norma sobre a matéria, o
+       dividendo obrigatório não poderá ser inferior a 25% (vinte e cinco por cento) do lucro líquido ajustado nos termos do inciso
+       I deste artigo.
+
+Essa regra é importante! Basicamente, devemos entender o seguinte:
+Quando a sociedade é constituída ela pode definir no estatuto um percentual que será distribuído
+como dividendo. Assim, por exemplo, ela pode definir que será distribuído 15% como dividendo
+mínimo obrigatório. No entanto, caso esse estatuto não estabeleça inicialmente esse percentual
+(estatuto omisso) todas as distribuições serão computadas na base de 50% do lucro líquido ajustado.
+No entanto, se essa sociedade resolver posteriormente definir um percentual, entramos na regra
+desse dispositivo acima, ou seja, nesse caso a sociedade não pode estabelecer um percentual menor
+que 25%, considerando-se os ajustes (25% sobre o lucro líquido ajustado).
+
+(TRT2) Considere as informações abaixo, extraídas da contabilidade da Cia. Carandiru, relativas ao
+exercício findo em 31/12/2007.
+Lucro líquido do exercício .000,00
+Resultado positivo na equivalência patrimonial .000,00
+Acréscimo à reserva legal .000,00
+Reversão de reservas para contingências .000,00
+Lucro com realização financeira a ocorrer em 2009 .000,00
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                      13
+           www.estrategiaconcursos.com.br                                                                                        54
+
+                                           
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+O estatuto da companhia é omisso com relação ao pagamento de dividendos. De acordo com o disposto nos
+artigos 197 e 202 da Lei das Sociedades por Ações, ela poderá constituir, nesse exercício, reserva de lucros a
+realizar no valor, em R$, de
+a) 40.000,00.
+b) 36.000,00.
+c) 30.000,00.
+d) 24.000,00.
+e) 18.000,00.
+Comentários
+Agora que já estudamos as reservas e o que você precisa saber sobre dividendos, vamos aproveitar essa
+questão para verificar na prática como esses detalhes são explorados em prova. Geralmente, as questões
+que envolvem cálculos referentes à Reserva de Lucros a Realizar envolvem também a contabilização dos
+dividendos, pois um assunto está ligado ao outro e nada mais coerente que seja exigido de forma conjunta.
+Revisando...
+Geralmente, o dividendo é fixado no estatuto. No entanto, caso o estatuto seja omisso, a Lei n. 6.404/76
+determina que deve ser aplicado o percentual de 50% sobre o lucro líquido ajustado.
+Lembre-se que o LLA é obtido da seguinte forma:
+Lucro Líquido Ajustado (LLA) = Lucro Líquido do Exercício – Reserva Legal – Reserva para Contingências +
+Reversão de Reserva para Contingências – Reserva de Incentivos Fiscais (facultativo) – Reserva Específica
+de Prêmio na Emissão de Debêntures (facultativo).
+Bem... veja que no caso em tela o estatuto é omisso, ou seja, devemos aplicar o percentual de 50% sobre a
+base de cálculo do dividendo (lucro líquido ajustado). Assim, temos:
+LLA = 520.000,00 – 26.000,00 + 14.000,00 = 508.000,00
+Portanto, temos como dividendo a ser distribuído o valor de 254.000,00, correspondente a 50% do LLA
+(508.000).
+Conforme estudamos, consideram-se lucros não realizados os resultados positivos na equivalência
+patrimonial e as receitas auferidas para recebimento a longo prazo. Assim, temos:
+Lucro Realizado = lucro líquido do exercício – resultado positivo na equivalência patrimonial – lucro com
+realização financeira de longo prazo.
+Lucro Realizado = 520.000,00 – 270.000,00 – 20.000,00 = 230.000,00
+Logo, de acordo com a Lei n. 6.404/76, a companhia poderá constituir Reserva de Lucros a Realizar no valor
+de R$ 24.000,00, correspondente à diferença entre o dividendo a ser distribuído (254.000,00) e o lucro
+realizado (230.000,00).
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   14
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Retenção dos dividendos
+Segundo a Lei n. 6.404/76,
+      § 3º A assembléia-geral pode, desde que não haja oposição de qualquer acionista presente, deliberar a distribuição de
+      dividendo inferior ao obrigatório, nos termos deste artigo, ou a retenção de todo o lucro líquido, nas seguintes sociedades:
+      I - companhias abertas exclusivamente para a captação de recursos por debêntures não conversíveis em ações;
+      II - companhias fechadas, exceto nas controladas por companhias abertas que não se enquadrem na condição prevista no
+      inciso I.
+
+Previsão da Reserva Especial para Dividendos Obrigatórios Não Distribuídos
+Segundo a Lei n. 6.404/76,
+      § 4º O dividendo previsto neste artigo não será obrigatório no exercício social em que os órgãos da administração
+      informarem à assembléia-geral ordinária ser ele incompatível com a situação financeira da companhia. O conselho fiscal,
+      se em funcionamento, deverá dar parecer sobre essa informação e, na companhia aberta, seus administradores
+      encaminharão à Comissão de Valores Mobiliários, dentro de 5 (cinco) dias da realização da assembléia-geral, exposição
+      justificativa da informação transmitida à assembléia.
+
+Nos termos da ICPC 08, trata-se de uma discricionariedade conferida por lei aos administradores
+com vistas a evitar o comprometimento da gestão de caixa e equivalente de caixa da entidade,
+desde que observadas outras condicionantes legais. A parcela dos lucros não distribuída deve ser
+destinada à constituição de reserva especial, conforme dispositivo abaixo:
+      § 5º Os lucros que deixarem de ser distribuídos nos termos do § 4º serão registrados como reserva especial e, se não
+      absorvidos por prejuízos em exercícios subsequentes, deverão ser pagos como dividendo assim que o permitir a situação
+      financeira da companhia.
+
+Destinação do Lucro Remanescente
+Segundo a Lei n. 6.404/76,
+      § 6º Os lucros não destinados nos termos dos arts. 193 a 197 deverão ser distribuídos como dividendos.
+
+
+  ✓   Reserva Legal (art. 193);
+  ✓   Reservas Estatutárias (art. 194);
+  ✓   Reservas para Contingências (art. 195);
+  ✓   Reserva de Incentivos Fiscais (art. 195-A);
+  ✓   Reserva de Retenção de Lucros (art. 196);
+  ✓   Reserva de Lucros a Realizar (art. 197);
+
+
+Esse dispositivo veda a retenção de lucros para os quais não haja destinação específica. Logo, é
+vedado manter na conta Lucros Acumulados os lucros sem destinação específica. Nesse sentido,
+após a constituição das reservas de lucros e a distribuição do dividendo mínimo obrigatório, se
+houver lucro remanescente, deverá ser distribuído como dividendo complementar (dividendos
+propostos adicionais), conforme estudaremos na sequência.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                      15
+         www.estrategiaconcursos.com.br                                                                                        54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Dividendos Intermediários
+Segundo a Lei n. 6.404/76,
+     Art. 204. A companhia que, por força de lei ou de disposição estatutária, levantar balanço semestral, poderá declarar, por
+     deliberação dos órgãos de administração, se autorizados pelo estatuto, dividendo à conta do lucro apurado nesse balanço.
+     § 1º A companhia poderá, nos termos de disposição estatutária, levantar balanço e distribuir dividendos em períodos
+     menores, desde que o total dos dividendos pagos em cada semestre do exercício social não exceda o montante das reservas
+     de capital de que trata o § 1º do artigo 182.
+     § 2º O estatuto poderá autorizar os órgãos de administração a declarar dividendos intermediários, à conta de lucros
+     acumulados ou de reservas de lucros existentes no último balanço anual ou semestral.
+
+Os dividendos intermediários são também conhecidos como dividendos antecipados. O lançamento
+dos dividendos antecipados é o seguinte:
+
+     D – Dividendos Intermediários/Antecipados (conta redutora do PL)
+     C – Caixa
+
+
+Pagamento de Dividendos
+Segundo a Lei n. 6.404/76,
+     Art. 205. A companhia pagará o dividendo de ações nominativas à pessoa que, na data do ato de declaração do dividendo,
+     estiver inscrita como proprietária ou usufrutuária da ação.
+     § 1º Os dividendos poderão ser pagos por cheque nominativo remetido por via postal para o endereço comunicado pelo
+     acionista à companhia, ou mediante crédito em conta-corrente bancária aberta em nome do acionista.
+     § 2º Os dividendos das ações em custódia bancária ou em depósito nos termos dos artigos 41 e 43 serão pagos pela
+     companhia à instituição financeira depositária, que será responsável pela sua entrega aos titulares das ações depositadas.
+     § 3º O dividendo deverá ser pago, salvo deliberação em contrário da assembléia-geral, no prazo de 60 (sessenta) dias da
+     data em que for declarado e, em qualquer caso, dentro do exercício social.
+
+Dividendos Propostos (adicionais)
+Os dividendos propostos a serem pagos, fundamentados em obrigação estatutária (dividendo mínimo
+obrigatório) atendem a definição de passivo e, portanto, devem ficar registrados no Passivo Circulante.
+Os dividendos propostos pela administração, excedentes ao mínimo obrigatório, não atendem à definição
+de passivo. Tais dividendos devem ser contabilizados ou não, a depender da situação.
+Assim, se a empresa fechar as demonstrações financeiras em 31.12.XX e declarar dividendo adicional nos
+meses subsequentes (janeiro, por exemplo), esses dividendos não serão contabilizados nas demonstrações
+encerradas em 31.12.XX. Nesse caso, serão divulgados em notas explicativas.
+De outro modo, se os dividendos adicionais forem declarados antes da data de fechamento das
+demonstrações, haverá o atendimento aos requisitos de obrigação presente, devendo ser evidenciados nas
+demonstrações financeiras da companhia.
+A respeito do assunto vale destacar o disposto na Interpretação Técnica ICPC 08 – Contabilização da Proposta
+de Pagamento de Dividendos:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                    16
+        www.estrategiaconcursos.com.br                                                                                      54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+     “A parcela do dividendo que se caracterize efetivamente como obrigação presente deve figurar
+     no passivo da entidade. Mas a parcela que exceder ao previsto legal ou estatutariamente deve
+     ser mantida no patrimônio líquido, em conta específica, do tipo “dividendo adicional
+     proposto”, até a deliberação definitiva que vier a ser tomada pelos sócios. Afinal, esse
+     dividendo adicional não se caracteriza como obrigação presente na data do balanço, já que a
+     assembleia dos sócios ou outro órgão competente poderá, não havendo qualquer restrição
+     estatutária ou contratual, deliberar ou não pelo seu pagamento ou por pagamento por valor
+     diferente do proposto”.
+     “(...) qualquer declaração de dividendo adicional ao previsto legal ou estatutariamente ou
+     outra forma de distribuição de resultado que ocorrer após a data do balanço e antes da data
+     da autorização de emissão dessas demonstrações não gerará registro no passivo da entidade
+     na data do balanço, por também não representar qualquer obrigação presente nessa data”.
+
+Em suma, devemos saber o seguinte:
+
+Dividendos obrigatórios: são contabilizados no Passivo, na data do fechamento das demonstrações
+financeiras.
+Dividendos adicionais:
+i) Declarados após o período contábil: não são contabilizados, devendo ser divulgados em Nota Explicativa.
+ii) Declarados antes do período contábil: são contabilizados no Patrimônio Líquido, até a aprovação pela
+assembleia, momento em que são transferidos para o Passivo.
+
+(FCC) Em conformidade com a ICPC-08, os dividendos
+a) declarados, após o período contábil e antes da aprovação pela assembléia dessas demonstrações, devem
+ser reconhecidos no passivo como dividendos a pagar.
+b) que forem declarados pela assembléia geral, ou declarados e pagos, de acordo com as formalidades
+previstas no estatuto social, quando não pagos não devem figurar no passivo da entidade como uma
+obrigação.
+c) mínimos obrigatórios devem ser registrados como uma obrigação, na data do encerramento do exercício
+social a que se referem as demonstrações contábeis.
+d) adicionais ao mínimo obrigatório devem ser todos contabilizados no passivo.
+e) decorrentes de distribuição de resultado, após a data do balanço e antes da data da autorização de
+emissão dessas demonstrações, não gerará registro no passivo da entidade na data do balanço.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               17
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Comentários
+a. Errada. Conforme vimos, os dividendos declarados após o período contábil não são contabilizados.
+b. Errada. Os dividendos que forem declarados pela assembleia geral ou outro órgão competente, ou
+declarados e pagos, de acordo com as formalidades previstas no estatuto social ou equivalente, antes da
+data base das demonstrações contábeis, atendem aos requisitos de obrigação presente e, portanto, se não
+pagos devem figurar no passivo da entidade como uma obrigação.
+c. Certa. Conforme vimos, os dividendos mínimos obrigatórios devem ser registrados no passivo.
+d. Errada. Os dividendos adicionais ao mínimo obrigatório são contabilizados no Patrimônio Líquido até sua
+aprovação pela assembleia.
+e. Errada. Os dividendos adicionais declarados após o fechamento das demonstrações financeiras não são
+contabilizados. Todavia, o dividendo mínimo obrigatório é contabilizado no passivo.
+Gabarito: C
+Como sei que essa “enxurrada” de dispositivos pode ter prejudicado seu entendimento, resolvemos facilitar
+a sua vida, por meio do resumo abaixo. Se você souber o que está no resumo e fixar o conhecimento por
+meio das questões selecionadas na sequência, estará pronto(a) para enfrentar as questões de prova.
+
+Regra: Distribuição de Dividendos Obrigatórios
+Percentual é definido em Estatuto.
+Estatuto Omisso: percentual deve ser 50%.
+Exceções:
+a) O dividendo obrigatório pode deixar de ser distribuído ou pode ser distribuído por valor inferior ao
+determinado no estatuto social da entidade, quando não houver lucro realizado em montante suficiente (art.
+202, II).
+b) Quando o dividendo obrigatório, devido por força do estatuto social ou da própria lei, excede o montante
+do lucro líquido do exercício realizado financeiramente, pode a parcela não distribuída ser destinada à
+constituição da reserva de lucros a realizar.
+c) A lei societária ainda prevê que o dividendo obrigatório pode deixar de ser distribuído quando os órgãos
+da administração informarem à Assembleia Geral Ordinária ser ele incompatível com a situação financeira
+da companhia (art. 202, § 4º).
+d) O dividendo obrigatório pode também deixar de ser distribuído, ou pode ser distribuído por um valor
+inferior ao determinado no estatuto social da entidade ou na lei, por decisão soberana e unânime da
+Assembleia Geral de Acionistas (art. 202, § 3º).
+Além do dividendo obrigatório, existe a possibilidade de o estatuto de uma sociedade por ações prever o
+pagamento de dividendo intermediário (antecipados).
+O dividendo deverá ser pago, salvo deliberação em contrário da assembléia-geral, no prazo de 60 (sessenta)
+dias da data em que for declarado e, em qualquer caso, dentro do exercício social
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                18
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+                 QUESTÕES - RESERVAS E DIVIDENDOS - FGV
+1. (FGV/Perito/PC-AM/2022) Assinale a opção que indica a contabilização da contrapartida do lançamento
+da reversão da reserva de lucros a realizar constituída em anos anteriores, quando os lucros nela contidos
+forem realizados financeiramente.
+a) Dividendos a pagar.
+b) Lucros acumulados.
+c) Reserva de lucros.
+d) Ações em Tesouraria.
+e) Reserva de Ágio.
+Comentários
+Segundo o art. 202 da Lei n. 6.404/76, os lucros registrados na reserva de lucros a realizar, quando realizados
+e se não tiverem sido absorvidos por prejuízos em exercícios subsequentes, deverão ser acrescidos ao
+primeiro dividendo declarado após a realização. Nesse sentido, à medida que esses valores forem sendo
+realizados financeiramente, a parcela realizada da reserva de lucros a realizar será transferida para a conta
+lucros acumulados e posteriormente para a conta dividendos a pagar. Essa é a orientação da doutrina
+(Manual Fipecafi).
+Gabarito: B
+2. (FGV/Assistente/SEFAZ-AM/2022) Assinale a opção que indica a reserva constituída no patrimônio
+líquido de uma sociedade empresária com o objetivo de segregar uma parcela de lucros, correspondente a
+prováveis perdas extraordinárias futuras, que deverão diminuir o resultado em exercícios futuros.
+a) Legal.
+b) Estatutárias.
+c) Para contingências.
+d) De lucros a realizar.
+e) De lucros para expansão.
+Comentários
+Segundo o Manual Fipecafi, o objetivo da constituição da reserva para contingências é segregar uma parcela
+de lucros, inclusive com a finalidade de não distribuí-la como dividendo, correspondente a prováveis perdas
+extraordinárias futuras, que acarretarão diminuição dos lucros (ou até o surgimento de prejuízos) em
+exercícios futuros.
+Referido Manual esclarece que, em geral, as reservas para contingências são constituídas para fazer frente
+a perdas cíclicas, que se repetem no tempo e que, portanto, são previsíveis.
+Gabarito: C
+3. (FGV/Perito/PC-AM/2022) Em 05/01/X1, uma entidade declarou dividendos referentes ao período
+contábil de X0 aos detentores de instrumentos de patrimônio, em um montante superior ao valor
+obrigatório. A parcela excedente ao montante obrigatório deve ser reconhecida como
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                19
+            www.estrategiaconcursos.com.br                                                                  54
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+a) passivo circulante.
+b) passivo não circulante.
+c) patrimônio líquido.
+d) redutor do patrimônio líquido.
+e) sem reconhecimento no balanço patrimonial.
+Comentários
+O dividendo adicional ao obrigatório deverá ser contabilizado em conta específica dentro do Patrimônio
+Líquido (“Dividendo Adicional Proposto”), conforme determina a Interpretação ICPC 08 – Contabilização da
+Proposta de Pagamento de Dividendos. Esse valor é mantido no patrimônio líquido até sua aprovação pela
+Assembleia Geral, momento no qual é transferido para o passivo (dividendos a pagar).
+Gabarito: C
+4. (FGV/Contador/SEMSA Manaus/2022) Uma sociedade empresária apresentava o seguinte balanço
+patrimonial em 31/12/X0:
+
+No ano de X1 a sociedade empresária reconheceu os seguintes eventos:
+   ▪   Receita líquida de vendas:        R$80.000;
+   ▪   Custo das mercadorias vendidas: R$20.000;
+   ▪   Despesas operacionais:            R$10.000;
+   ▪   Receita financeira:               R$15.000;
+   ▪   Imposto de renda e contribuição social sobre o lucro: 20% do lucro antes do imposto de renda e
+       contribuição social.
+Além disso, de acordo com o estatuto da sociedade empresária, ela deve distribuir dividendos mínimos
+obrigatórios de 25% do lucro líquido ajustado. Todas as receitas são tributáveis e as despesas dedutíveis.
+Assinale a opção que indica o valor dos dividendos distribuídos pela sociedade empresária em 31/12/X1.
+a) R$12.350.
+b) R$12.500.
+c) R$12.850.
+d) R$15.438.
+e) R$16.250.
+Comentários
+Vamos resolver a questão por passos.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 20
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Passo 1 – cálculo do lucro líquido
+Receita líquida de vendas                         80.000,00
+(-) CMV                                           (20.000,00)
+(-) Despesas operacionais                         (10.000,00)
+(+) Receita financeira                             15.000,00
+(=) Lucro antes IR                                65.000,00
+(-) IR/CSLL 20%                                   (13.000,00)
+(=) Lucro Líquido                                 52.000,00
+Passo 2 – cálculo da reserva legal
+A dica é sempre verificar primeiro o limite legal (20% do capital social).
+Limite da reserva legal = 30.000,00 x 20% = 6.000,00
+Reserva legal = 5% do lucro líquido = 5% x 52.000,00 = 2.600,00
+Como já havia um saldo de 4.000,00, o máximo a ser constituído é 2.000,00.
+Passo 3 – cálculo do dividendo
+Dividendos = 25% do lucro líquido ajustado
+Dividendos = 25% x (52.000,00 – 2.000,00) = 12.500,00
+Gabarito: B
+5. (FGV/Técnico/FunSaúde-CE/2021) No Patrimônio Líquido, os valores recebidos por uma entidade para
+reforço de capital e que não transitam pelo Resultado como receitas, são contabilizados como
+a) Capital Social.
+b) Reservas de Capital.
+c) Ajustes de Avaliação Patrimonial.
+d) Reservas de Lucros.
+e) Reservas de incorporação.
+Comentários
+Segundo o Manual Fipecafi, as reservas de capital são constituídas de valores recebidos pela companhia e
+que não transitam pelo resultado como receitas, por se referirem a valores destinados a reforço de seu
+capital, sem terem como contrapartidas qualquer esforço da empresa em termos de entrega de bens ou de
+prestação de serviços. Constam como tais reservas o ágio na emissão de ações, a alienação de partes
+beneficiárias e de bônus de subscrição. Essas são transações de capital com os sócios.
+Gabarito: B
+6. (FGV/Técnico Tributário/SEFIN-RO/2018) Em 31/12/2015, a Cia. WWW apresentava o seguinte balanço
+patrimonial:
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati           21
+          www.estrategiaconcursos.com.br                                                             54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+No ano de 2016, a sociedade empresária auferiu receitas e incorreu em despesas, gerando um lucro líquido
+de R$ 160.000.
+Dado que a Cia. WWW distribuiu dividendos mínimos obrigatórios de 25% do lucro líquido ajustado, assinale
+a opção que indica o valor dos dividendos a pagar, em 31/12/2016.
+a) R$ 30.000.
+b) R$ 33.750.
+c) R$ 38.000.
+d) R$ 38.750.
+e) R$ 40.000.
+Comentários
+Questão clássica que envolve cálculo de dividendos. Basicamente, nesse tipo de questão devemos seguir
+uma trilogia de cálculo, conforme demonstrado abaixo.
+Antes de calcularmos o Lucro Líquido Ajustado (LLAj), vamos verificar o valor a ser constituído para a reserva
+legal, pois esse valor entra no cálculo do LLAj.
+1) Cálculo da Reserva Legal
+Limite = 150.000,00 x 20% = 30.000,00
+(-) valor já constituído                 (25.000,00)
+(=) valor máximo                         5.000,00
+Lucro Líquido = 160.000,00 x 5% = 8.000,00 (ultrapassa o limite!)
+Logo, o valor a ser constituído para a reserva legal será de 5.000,00!
+2) Cálculo do Lucro líquido Ajustado
+Lucro Líquido do Exercício                                160.000,00
+(-) Reserva Legal                                         (5.000,00)
+(=) Lucro Líquido Ajustado                                155.000,00
+3) Cálculo do Dividendo
+Dividendos a pagar = 25% x Lucro Líquido Ajustado
+Dividendos a pagar = 25% x 155.000,00 = 38.750,00
+Gabarito: D
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  22
+         www.estrategiaconcursos.com.br                                                                    54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+7. (FGV/Assistente Legislativo/AL-RO/2018) Uma entidade brasileira de capital fechado, especializada em
+pesquisas, atinge resultados positivos apenas em anos de eleição para presidente, portanto, de quatro em
+quatro anos.
+Em 2018, a direção da entidade deseja separar uma parte de seu lucro para compensar as perdas nos
+exercícios seguintes e propõe à assembleia a não distribuição de dividendos sobre os resultados de 2018.
+Assinale a opção que indica o procedimento contábil proposto para a assembleia.
+a) Constituição de reserva de capital.
+b) Constituição de reserva para contingências.
+c) Constituição de provisão para contingências.
+d) Constituição de passivo contingente.
+e) Constituição de ativo contingente.
+Comentários
+Nesse caso, a empresa deverá constituir reservas para contingências, conforme previsão contida no seguinte
+disposto da Lei 6.404/76:
+
+      Art. 195. A assembléia-geral poderá, por proposta dos órgãos da administração, destinar parte
+      do lucro líquido à formação de reserva com a finalidade de compensar, em exercício futuro, a
+      diminuição do lucro decorrente de perda julgada provável, cujo valor possa ser estimado.
+
+Gabarito: B
+8. (FGV/Assistente/AL-RO/2018) Em 2017, uma entidade recebeu subvenções governamentais no valor de
+R$ 100.000,00.
+Assinale a opção que indica a classificação do valor no balanço patrimonial da entidade, em 31/12/2017,
+considerando que a entidade não pretende distribuir o valor como dividendos.
+a) Capital social.
+b) Reserva de capital.
+c) Reserva de lucros.
+d) Reserva legal.
+e) Resultado de exercícios futuros.
+Comentários
+Segundo a Lei 6.404/76,
+
+      Art. 195-A. A assembléia geral poderá, por proposta dos órgãos de administração, destinar para
+      a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções
+      governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo
+      obrigatório
+
+Ainda, nos termos do CPC 07,
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              23
+         www.estrategiaconcursos.com.br                                                                54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+      15B. Há situações em que é necessário que o valor da subvenção governamental não seja
+      distribuído ou de qualquer forma repassado aos sócios ou acionistas, fazendo-se necessária a
+      retenção, após trânsito pela demonstração do resultado, em conta apropriada de patrimônio
+      líquido, para comprovação do atendimento dessa condição. Nessas situações, tal valor, após
+      ter sido reconhecido na demonstração do resultado, pode ser creditado à reserva própria
+      (reserva de incentivos fiscais), a partir da conta de lucros ou prejuízos acumulados.
+
+Logo, considerando que a entidade não pretende distribuir o valor como dividendos, ela deve classificar o
+valor como reserva de incentivos fiscais, dentro das reservas de lucros.
+Gabarito: C
+9. (FGV/Auditor/MPE-AL/2018) Assinale a opção que indica, no patrimônio líquido de uma sociedade
+empresária, o item que faz parte da reserva de lucro.
+                                                          ==219a34==
+
+a) O ágio na emissão de ações.
+b) A reserva especial de ágio na incorporação.
+c) A reserva de incentivos fiscais.
+d) A alienação de bônus de subscrição.
+e) A alienação de partes beneficiárias.
+Comentários
+Com exceção da opção “C”, gabarito da questão, as demais opções são reservas de capital. Interessante
+destacar a “reserva especial de ágio na incorporação”, a qual representa uma reserva de capital prevista pela
+normatização da Comissão de Valores Mobiliários – CVM (Instrução CVM 319/1999). Segundo essa Instrução,
+se houver ágio em uma transação de incorporação de uma sociedade controladora por sua controlada, esse
+ágio deverá ser registrado como ativo no balanço da incorporadora, tendo como contrapartida essa reserva
+especial de capital.
+Gabarito: C
+10. (FGV/Analista/CM Caruaru-PE/2015) Assinale a opção que indica a conta que representa um exemplo
+de reserva de lucros.
+a) Ágio na emissão de ações.
+b) Alienação de bônus de subscrição.
+c) Alienação de partes beneficiárias.
+d) Reserva especial de ágio na incorporação.
+e) Reserva de incentivos fiscais.
+Comentários
+Questão praticamente igual a anterior. Apenas para reforçar o conhecimento, além de indicar que as
+questões podem repetir.
+Gabarito: E
+11. (FGV/Auditor/MPE-AL/2018) Assinale a opção que indica o objetivo da constituição da reserva de
+contingências.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 24
+         www.estrategiaconcursos.com.br                                                                   54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+a) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou prejuízo,
+decorrentes de fatos extraordinários futuros.
+b) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou prejuízo,
+decorrentes de perdas de causas na justiça.
+c) Garantir o financiamento da expansão da entidade, que irá trazer lucros futuros.
+d) Evitar que a empresa apure prejuízo em um período contábil específico.
+e) Equalizar a distribuição de dividendos quando há existência de ativos contingentes não reconhecidos.
+Comentários
+Segundo a Lei n. 6.404/76,
+        Art. 195. A assembleia-geral poderá, por proposta dos órgãos da administração, destinar parte do lucro líquido à formação
+        de reserva com a finalidade de compensar, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+        cujo valor possa ser estimado.
+        § 1º A proposta dos órgãos da administração deverá indicar a causa da perda prevista e justificar, com as razões de
+        prudência que a recomendem, a constituição da reserva.
+        § 2º A reserva será revertida no exercício em que deixarem de existir as razões que justificaram a sua constituição ou em
+        que ocorrer a perda.
+
+Observe que a finalidade da reserva para contingências é preservar o capital social de possíveis contingências
+ocorridas, compensando, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+cujo valor possa ser estimado.
+Segundo o Manual de Contabilidade Societária – FIPECAFI (USP) o objetivo da constituição dessa reserva é
+segregar uma parcela de lucros, inclusive com a finalidade de não a distribuir como dividendo,
+correspondente a prováveis perdas extraordinárias futuras, que acarretarão diminuição dos lucros (ou até o
+surgimento de prejuízos) em exercícios futuros.
+Referido Manual esclarece que, em geral, as reservas para contingências são constituídas para fazer frente
+a perdas cíclicas, que se repetem no tempo e que, portanto, são previsíveis. Estas perdas podem decorrer,
+dentre outros:
+    ▪    de fenômenos climáticos ou naturais que interrompem as atividades da empresa em determinados
+         momentos;
+    ▪    da prestação de serviços com duração limitada, passando por períodos de alta lucratividade até
+         outros de pouca lucratividade ou até mesmo prejuízos - sazonalidade;
+    ▪    de paralisações extraordinárias de longa duração, decorrentes da substituição de equipamentos
+         obsoletos, cuja substituição seja bastante penosa.
+Gabarito: A
+12. (FGV/Contador/DPE-MT/2015) Assinale a opção que indica o item do Patrimônio Líquido em que os
+incentivos fiscais decorrentes de doações ou subvenções governamentais para investimentos devem ser
+evidenciados.
+a) Capital Social.
+b) Outros resultados abrangentes.
+c) Ações em Tesouraria.
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                    25
+           www.estrategiaconcursos.com.br                                                                                      54
+
+                                          
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+d) Reserva de capital.
+e) Reserva de lucros.
+Comentários
+Segundo a Lei 6.404/76,
+
+     Art. 195-A. A assembléia geral poderá, por proposta dos órgãos de administração, destinar para
+     a reserva de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções
+     governamentais para investimentos, que poderá ser excluída da base de cálculo do dividendo
+     obrigatório
+
+Ainda, nos termos do CPC 07,
+
+     15B. Há situações em que é necessário que o valor da subvenção governamental não seja
+     distribuído ou de qualquer forma repassado aos sócios ou acionistas, fazendo-se necessária a
+     retenção, após trânsito pela demonstração do resultado, em conta apropriada de patrimônio
+     líquido, para comprovação do atendimento dessa condição. Nessas situações, tal valor, após
+     ter sido reconhecido na demonstração do resultado, pode ser creditado à reserva própria
+     (reserva de incentivos fiscais), a partir da conta de lucros ou prejuízos acumulados.
+
+Destaca-se que a reserva de incentivos fiscais é uma das reservas de lucros previstas pela legislação.
+Gabarito: E
+13. (FGV/Contador/SEDUC-AM/2014) Uma entidade recebeu no ano de 2013, subvenções governamentais
+para investimentos no valor de R$ 50.000,00. Em 31/12/2013, a correta evidenciação desse valor é na conta
+a) Reserva de Lucros.
+b) Reserva de Capital.
+c) Reserva Legal.
+d) Reserva Especial para Dividendo Obrigatório não Distribuído.
+e) Reserva Especial de Ágio.
+Comentários
+As subvenções governamentais para investimentos devem ser classificadas como Reserva de Incentivos
+Fiscais, que é uma Reserva de Lucros.
+Gabarito: A
+14. (FGV/Contador/SEDUC-AM/2014) A Cia K S.A. declarou em 31/12/2013 dividendos no total de R$
+55.000. Deste montante, R$ 40.000 representavam o valor do dividendo mínimo obrigatório e o restante era
+adicional a esse montante.
+Os valores no balanço patrimonial da Cia K S.A. são reconhecidos da seguinte forma:
+a) R$ 55.000,00 no Passivo Circulante.
+b) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Passivo não Circulante.
+c) R$ 55.000,00 no Patrimônio Líquido.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 26
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+d) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Patrimônio Líquido.
+e) R$ 40.000,00 no Patrimônio Líquido e R$ 15.000,00 no Passivo Circulante.
+Comentários
+Vamos inserir novamente nosso quadro esquemático:
+Dividendos obrigatórios: são contabilizados no Passivo, na data do fechamento das demonstrações
+financeiras.
+Dividendos adicionais:
+(i) Declarados após o período contábil: não são contabilizados, devendo ser divulgados em Nota
+Explicativa.
+(ii) Declarados antes do período contábil: são contabilizados no Patrimônio Líquido, até a aprovação pela
+assembleia, momento em que são transferidos para o Passivo.
+Veja que o conhecimento desse quadro é suficiente para “matarmos” a questão. O dividendo obrigatório é
+classificado no passivo circulante e o restante, como foi declarado antes do período contábil deverá ser
+contabilizado no PL.
+Gabarito: D
+15. (FGV/Contador/SUSAM/2014) Devido ao risco de falta de energia elétrica no futuro, a direção da Cia. J
+S.A., de capital fechado, resolveu propor à assembleia a não distribuição de dividendos sobre os resultados
+de 2013.
+O procedimento contábil a ser efetuado é denominado
+a) constituição de provisão para contingências.
+b) constituição de reserva para contingências
+c) constituição de passivo derivado da apropriação por competência.
+d) evidenciação em nota explicativa.
+e) constituição de reserva de capital.
+Comentários
+Nesse caso, a empresa deverá constituir reservas para contingências, conforme previsão contida no seguinte
+disposto da Lei 6.404/76:
+
+      Art. 195. A assembléia-geral poderá, por proposta dos órgãos da administração, destinar parte
+      do lucro líquido à formação de reserva com a finalidade de compensar, em exercício futuro, a
+      diminuição do lucro decorrente de perda julgada provável, cujo valor possa ser estimado.
+
+
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                27
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+    QUESTÕES - RESERVAS E DIVIDENDOS – MULTIBANCAS
+1. (AOCP/Auditor Fiscal/ISS-Betim/2020) Em 31/12/2017, a Empresa Betim S.A. apresentava as seguintes
+informações acerca da composição e da estrutura registradas e evidenciadas no seu Balanço Patrimonial
+por meio do Patrimônio Líquido (PL) da empresa: Capital Social no valor de R$ 300.000,00; Reserva Legal
+no valor de R$ 50.000,00; Reserva Estatutária no valor de R$ 50.000,00; e Ações em Tesouraria no valor de
+R$ 10.000,00. Em 2018, essa empresa apurou um Lucro Líquido no Exercício (LLE) no valor de R$
+300.000,00.
+
+Da Política de Destinação do Lucro Líquido do Exercício, registrados em seu Estatuto Social, tem-se:
+
+• Reserva legal, correspondente ao estabelecido na legislação societária.
+
+• Reserva estatutária, corresponde a 10% do lucro líquido, conforme estabelecido na legislação societária e
+no estatuto social da empresa.
+
+• Dividendos obrigatórios correspondente a 30% do lucro líquido do exercício, deduzido da reserva legal, nos
+termos estabelecido na legislação societária e no estatuto social da empresa.
+
+É importante frisar que os saldos remanescentes serão tratados conforme estabelecido em legislação
+societária. Desse modo, com base nessas informações, o Balanço Patrimonial em 31/12/2018 dessa empresa
+apresentará um valor no Patrimônio Líquido de
+
+a) R$ 430.000,00.
+
+b) R$ 435.000,00.
+
+c) R$ 550.000,00.
+
+d) R$ 590.000,00.
+
+e) R$ 603.000,00.
+
+Comentários
+
+Nesse tipo de questão em que o examinador pede o saldo final do PL, precisamos inicialmente verificar o
+valor do saldo inicial do PL. Em um segundo momento, vamos efetuar as distribuições dos lucros (reservas e
+dividendos). Por fim, calculamos o saldo do PL final. Assim, temos:
+
+PL Inicial
+
+Capital Social                   300.000
+
+(+) Reserva Legal               50.000
+
+(+) Reserva Estatutária         50.000
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                28
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                      
+
+
+---
+
+   Gilmar Possati
+   Aula 08
+
+(-) Ações em Tesouraria           (10.000)
+
+(=) PL inicial                    390.000
+
+Distribuições
+
+Lucro líquido apurado = 300.000,00
+
+Limite Reserva Legal (20% do CS) = 300.000,00 x 20% = 60.000,00
+
+Como já temos 50.000,00 constituídos, o máximo a ser constituído é de 10.000,00.
+
+a) Reserva Legal = 300.000,00 x 5% = 15.000,00 (mas, vimos que o limite é de 10.000,00, logo esse é o valor
+que será constituído);
+
+b) Reserva Estatutária = 300.000,00 x 10% = 30.000,00
+
+c) Dividendos = 30% do Lucro Líquido Ajustado
+
+LLAj = 300.000,00 – 10.000,00 = 290.000,00 x 30% = 87.000,00
+
+PL Final
+
+PL Inicial                390.000,00
+
+(+) Lucro Líquido         300.000,00
+
+(-) Dividendos            (87.000,00)
+
+(=) PL Final              603.000,00
+
+Gabarito: E
+
+2. (FEPESE/Técnico de Nível Superior/Contador/CIASC/2017) Em 31/12/2015, o Patrimônio Líquido da
+Empresa Four Seasons apresentava a seguinte composição, em reais:
+
+Capital subscrito                 1.000.000
+
+Capital a integralizar            (300.000)
+
+Reserva legal                     140.000
+
+Reserva estatutária               50.000
+
+Total do Patrimônio Líquido 890.000
+
+Durante o exercício de 2016 foram integralizados R$ 100.000 ao capital social da Empresa Four Seasons, em
+dinheiro, e o lucro líquido apurado pela companhia em 31/12/2016 foi de R$ 500.000.
+
+
+           Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             29
+           www.estrategiaconcursos.com.br                                                               54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Considerando que não houve constituição de reserva para contingências nem de reserva de lucros a realizar
+neste exercício, e que o estatuto da companhia é omisso quanto aos dividendos obrigatórios, seus acionistas
+terão direito a receber como dividendo obrigatório relativo ao exercício de 2016 a importância de:
+
+a) R$118.750.
+
+b) R$120.000.
+
+c) R$237.500.
+
+d) R$240.000.
+
+e) R$250.000.
+
+Comentários
+
+Aplicando a trilogia de cálculo, temos:
+
+1) Cálculo da Reserva Legal
+
+Limite = 800.000,00* x 20% 160.000,00
+
+(-) valor já constituído        (140.000,00)
+
+(=) valor máximo                20.000,00
+
+*1.000.000,00 (capital subscrito) – 300.000,00 (a integralizar) + 100.000,00 (integralizado)
+
+Lucro Líquido = 500.000,00 x 5% = 25.000,00 (ultrapassa o limite!)
+
+Logo, o valor a ser constituído para a reserva legal será de 20.000,00!
+
+2) Cálculo do Lucro líquido Ajustado
+
+Lucro Líquido do Exercício                                500.000,00
+
+(-) Reserva Legal                                         (20.000,00)
+
+(=) Lucro Líquido Ajustado                                480.000,00
+
+3) Cálculo do Dividendo
+
+Quando o estatuto é omisso aplicamos o percentual de 50%! Assim, temos:
+
+Dividendos a pagar = 50% x Lucro Líquido Ajustado
+
+Dividendos a pagar = 50% x 480.000,00 = 240.000,00
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               30
+         www.estrategiaconcursos.com.br                                                                 54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Gabarito: D
+
+3. (CS UFG/Auditor de Tributos do Município de Goiânia/2016) As reservas estatutárias são constituídas
+por determinação do estatuto da empresa, como destinação de uma parcela dos lucros do exercício. Para
+cada reserva estatutária, a empresa, em seu estatuto, deverá:
+
+a) definir as partes beneficiárias e os bônus de subscrição que poderão ser alienados.
+
+b) segregar uma parcela de lucros com o objetivo de não distribuí-lo como dividendos.
+
+c) fixar os critérios para determinar a parcela anual do lucro líquido a ser utilizada.
+
+d) estabelecer o lucro, rendimentos ou ganhos líquidos em operações financeiras.
+
+Comentários
+
+Segundo a Lei n. 6.404/76,
+
+      Art. 194. O estatuto poderá criar reservas desde que, para cada uma:
+
+      I - indique, de modo preciso e completo, a sua finalidade;
+
+      II - fixe os critérios para determinar a parcela anual dos lucros líquidos que serão destinados à sua constituição; e
+
+      III - estabeleça o limite máximo da reserva.
+
+ Gabarito: C
+
+4. (FUNRIO/Técnico/Contabilidade/CM Nova Iguaçu/2016) A Reserva de Lucros constituída com a
+finalidade de compensar, em exercício futuro, a diminuição de lucro decorrente de perda julgada provável,
+cujo valor possa ser estimado, é a Reserva
+
+a) de Contingências.
+
+b) de Lucros a Realizar.
+
+c) Estatutária.
+
+d) Legal.
+
+Comentários
+
+A questão refere-se à reserva de contingências. Segundo a Lei n. 6.404/76,
+
+      Art. 195. A assembleia-geral poderá, por proposta dos órgãos da administração, destinar parte do lucro líquido à formação
+      de reserva com a finalidade de compensar, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+      cujo valor possa ser estimado.
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                  31
+            www.estrategiaconcursos.com.br                                                                                    54
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+      § 1º A proposta dos órgãos da administração deverá indicar a causa da perda prevista e justificar, com as razões de
+      prudência que a recomendem, a constituição da reserva.
+
+      § 2º A reserva será revertida no exercício em que deixarem de existir as razões que justificaram a sua constituição ou em
+      que ocorrer a perda.
+
+Observe que a finalidade da reserva para contingências é preservar o capital social de possíveis contingências
+ocorridas, compensando, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+cujo valor possa ser estimado.
+
+Gabarito: A
+
+5. (IESES/Analista de Processos Organizacionais/Ciências Contábeis/BAHIAGÁS/2016) A empresa Azul S.A.
+apurou em 31 de dezembro de 2015 um Lucro Líquido de R$ 700.000,00. Os saldos das contas, Capital Social
+e Reserva Legal em 31 de dezembro de 2014, eram de R$ 1.750.000,00 e R$ 345.000,00, respectivamente.
+Observando o artigo 193 da Lei 6.404/76, calcule o valor da destinação do Lucro Líquido para a Reserva Legal
+em 31 de dezembro de 2015?
+
+a) R$ 70.000,00.
+
+b) R$ 10.500,00.
+
+c) R$ 15.000,00
+
+d) R$ 5.000,00.
+
+e) R$ 35.000,00.
+
+Comentários
+
+Pessoal, vamos começar a praticar a inteligência ao resolver questões sobre cálculo da reserva legal!
+
+Minha dica é sempre iniciar pelo cálculo do limite e confrontar com o valor já constituído. A diferença será o
+nosso gabarito!
+
+Limite = 1.750.000,00 x 20% = 350.000,00
+
+Valor já constituído = 345.000,00
+
+Logo, a diferença (5.000,00) é o máximo a ser constituído de reserva legal! Simples assim.
+
+Essa é a técnica quando a questão não falar em limite facultativo. Veja como ficaria o cálculo do limite
+facultativo nesse caso:
+
+Limite facultativo (saldo da reserva legal + reservas de capital = até 30% do capital social)
+
+Limite facultativo = 350.000,00 + 0 (não foi informado valor para as reservas de capital) = 350.000,00
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                   32
+         www.estrategiaconcursos.com.br                                                                                     54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+30% do capital social = 525.000,00
+
+Logo, o valor está dentro dos 30% e, portanto, mesmo que a entidade tivesse a política de usar esse limite
+facultativo poderia constituir a reserva legal no valor de R$ 5.000,00.
+
+Gabarito: D
+
+6. (UFMT/Analista Judiciário/Ciências Contábeis/TJ-MT/2016) “O saldo das reservas de lucros, exceto as
+para________________, ______________ e ___________________não poderá ultrapassar o capital social.
+Atingindo esse limite, a assembleia deliberará sobre aplicação do excesso na integralização ou no aumento
+do capital social ou na distribuição de dividendos”. Marque a alternativa que completa correta e
+respectivamente as lacunas do texto acima extraído da Lei n.º 6.404/1976.
+
+a) reserva legal, de contingência e reserva estatutária.
+
+b) contingências, de incentivos fiscais e de lucros a realizar.
+
+c) contingência, reserva de lucros a realizar e reserva estatutária.
+
+d) reserva legal, reserva de lucros a realizar e incentivos fiscais.
+
+Comentários
+
+Trata-se de exigência literal do art. 199, da Lei n. 6.404/76:
+
+      Art. 199. O saldo das reservas de lucros, exceto as para contingências, de incentivos fiscais e de lucros a realizar, não
+      poderá ultrapassar o capital social. Atingindo esse limite, a assembleia deliberará sobre aplicação do excesso na
+      integralização ou no aumento do capital social ou na distribuição de dividendos.
+
+A Lei n. 12.973/2014 (art. 31, §4º) incluiu entre as reservas acima a reserva específica de prêmio de
+debêntures (ou seja, não será computada para fins do cálculo do limite das reservas de lucros).
+
+Portanto, temos:
+
+Reserva Legal + Estatutária + Retenção de Lucros (Orçamentária) + Especial de Dividendo Obrigatório Não
+Distribuído ≤ Capital Social
+
+Mnemônico: LEÕEs ≤ Capital Social
+
+Exceção: Reservas para Contingências, de incentivos fiscais, de lucros a realizar e Reserva Específica de
+Prêmio de Debêntures podem ultrapassar o capital social.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                   33
+         www.estrategiaconcursos.com.br                                                                                     54
+
+                                       
+
+
+---
+
+   Gilmar Possati
+   Aula 08
+
+Gabarito: B
+
+7. (SMA-RJ/Fiscal de Transportes Urbanos/SMTR-RJ/2016) No final do exercício foram obtidas as seguintes
+informações de uma sociedade anônima:
+
+Capital Social.000,00
+
+Lucro Líquido antes das participações.000,00
+
+Prejuízos Acumulados.000,00
+
+Sabendo-se que o estatuto da sociedade previa a participação dos administradores e dos empregados de
+10% do lucro, o valor apropriado como Reserva Legal correspondeu a:
+                                                                  ==219a34==
+
+a) R$ 2.240,00
+
+b) R$ 2.268,00
+
+c) R$ 3.640,00
+
+d) R$ 3.668,00
+
+Comentários
+
+Pessoal, o cálculo das participações nós estudamos na aula sobre a Demonstração do Resultado do Exercício.
+As participações, assim como o prejuízo acumulado, afetam a base de cálculo da reserva legal. Assim,
+efetuando o cálculo, temos:
+
+Lucro Líquido                                  84.000,00
+
+(-) Prejuízo Acumulado                         (28.000,00)
+
+(=) Base de Cálculo Empregados                 56.000,00
+
+(-) Participação Empregados (10%) (5.600,00)
+
+(=) Base de Cálculo Administradores 50.400,00
+
+(-) Participação Administradores (10%) (5.040,00)
+
+(=) Lucro Líquido após participações 45.360,00
+
+Total das participações = 10.640,00
+
+Agora, podemos efetuar o cálculo da reserva legal:
+
+Lucro Líquido               84.000,00
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             34
+          www.estrategiaconcursos.com.br                                                               54
+
+                                            
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+(-) Prejuízos acumulados        (28.000,00)
+
+(-) Participações               (10.640,00)
+
+(=) Base de cálculo RL 45.360,00
+
+(X) 5%
+
+(=) Reserva Legal               2.268,00
+
+Limite = 400.000,00 x 20% = 80.000,00
+
+Logo, como o limite é de 80.000,00, a constituição entidade poderá constituir tranquilamente os R$ 2.268,00.
+
+Gabarito: B
+
+8. (FBC/Exame de Suficiência CFC/Bacharel/2016.1) Uma Sociedade Empresária apresentou, em
+31.12.2015, antes da apuração do resultado do exercício, o seguinte Patrimônio Líquido:
+
+Contas                                                            Saldos
+
+Capital Subscrito                                                 R$30.000,00
+
+Reserva de Capital – Ágio na Emissão de Ações                     R$3.000,00
+
+Reserva Legal                                                     R$5.838,00
+
+Reserva Estatutária                                               R$930,00
+
+O Lucro Líquido apurado em 31.12.2015 foi de R$8.300,00.
+
+Nesse caso, de acordo com a Lei n. 6.404/76 e alterações posteriores, o valor a ser destinado no período,
+obrigatoriamente, para Reserva Legal é de:
+
+a) R$162,00.
+
+b) R$415,00.
+
+c) R$2.300,00.
+
+d) R$2.462,00.
+
+Comentários
+
+Mais uma questão que dá para resolver em segundos, aplicando a nossa dica:
+
+Limite = 30.000,00 x 20% = 6.000,00
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                35
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Valor já constituído = 5.838,00,00
+
+Logo, a diferença (162,00) é o máximo a ser constituído de reserva legal!
+
+Só um detalhe... sempre dê uma olhada no valor do lucro líquido e aplique 5% (dá para fazer de cabeça).
+Nesse caso, o LL foi 8.300,00, logo 5% será 415,00. Sempre terá esse valor nas respostas! Mas como
+geralmente ele ultrapassa o limite, o gabarito é mesmo os 162,00.
+
+Gabarito: A
+
+9. (FUNDEP/Auditor Fiscal da Receita Municipal/Uberaba/2016) A Lei n. 6.404/76 apresenta uma série de
+disposições sobre as contas de reservas a serem apresentadas no Patrimônio Líquido das empresas de
+capital aberto. Sobre essas disposições, assinale a alternativa CORRETA.
+
+a) Do lucro líquido do exercício, 5% (cinco por cento) devem ser aplicados, antes de qualquer outra
+destinação, na constituição da reserva legal, que não deve exceder a 20% (vinte por cento) do total do
+Patrimônio Líquido.
+
+b) Ao propor a destinação de parte do lucro líquido à formação de reserva com contingências, deve-se indicar
+a causa da perda prevista e justificar as razões de prudência que recomendem a constituição da referida
+reserva.
+
+c) O estatuto pode criar reservas desde que para cada uma indique, de modo preciso e completo, a sua
+finalidade, assim como estabeleça o limite mínimo da reserva.
+
+d) A assembleia geral não pode, por proposta dos órgãos de administração, destinar para a reserva de
+incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para
+investimentos.
+
+Comentários
+
+Vamos analisar as opções.
+
+a. Errado. Segundo a Lei n. 6.404/76,
+
+     Art. 193. Do lucro líquido do exercício, 5% (cinco por cento) serão aplicados, antes de qualquer outra destinação, na
+     constituição da reserva legal, que não excederá de 20% (vinte por cento) do capital social.
+
+b. Certo. Segundo a Lei n. 6.404/76,
+
+     Art. 195. A assembleia-geral poderá, por proposta dos órgãos da administração, destinar parte do lucro líquido à formação
+     de reserva com a finalidade de compensar, em exercício futuro, a diminuição do lucro decorrente de perda julgada provável,
+     cujo valor possa ser estimado.
+
+     § 1º A proposta dos órgãos da administração deverá indicar a causa da perda prevista e justificar, com as razões de
+     prudência que a recomendem, a constituição da reserva.
+
+c. Errado. Segundo a Lei n. 6.404/76,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                    36
+        www.estrategiaconcursos.com.br                                                                                      54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+     Art. 194. O estatuto poderá criar reservas desde que, para cada uma:
+
+     I - indique, de modo preciso e completo, a sua finalidade;
+
+     II - fixe os critérios para determinar a parcela anual dos lucros líquidos que serão destinados à sua constituição; e
+
+     III - estabeleça o limite máximo da reserva.
+
+d. Errado. Segundo a Lei nº 6.404/76,
+
+     Art. 195-A. A assembleia geral poderá, por proposta dos órgãos de administração, destinar para a reserva de incentivos
+     fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para investimentos, que poderá ser
+     excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art. 202 desta Lei). (Incluído pela Lei nº 11.638,de
+     2007)
+
+Gabarito: B
+
+10. (FUNDEP/Analista/Contabilista/Uberaba/2016) Analise a situação hipotética a seguir.
+
+No estatuto da Cia. Fossil S.A., é definido que do Lucro Líquido do período será constituída uma Reserva
+Estatutária de 20% após a constituição da Reserva Legal. Em 2014 a Cia. Fossil S.A. obteve R$ 3.000,00 de
+Lucro Líquido.
+
+Nesse contexto, qual foi o valor creditado na rubrica de Reserva Estatutária?
+
+a) R$ 520,00.
+
+b) R$ 540,00.
+
+c) R$ 600,00.
+
+d) R$ 570,00.
+
+Comentários
+
+Efetuando os cálculos, temos:
+
+Reserva Legal = 3.000,00 x 5% = 150,00
+
+Reserva Estatutária = (Lucro Líquido – Reserva Legal) x 20%
+
+Reserva Estatutária = (3.000,00 – 150,00) x 20% → 570,00
+
+Gabarito: D
+
+11. (IESES/Analista/Ciências Contábeis/BAHIAGÁS/2016) Sobre dividendos, analise as sentenças a seguir
+e assinale a alternativa INCORRETA.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                        37
+        www.estrategiaconcursos.com.br                                                                                          54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+a) Quando o estatuto for omisso e a assembleia geral deliberar alterá-lo para introduzir norma sobre a
+matéria, o dividendo obrigatório não poderá ser inferior a 25% (vinte e cinco por cento) do lucro líquido
+ajustado.
+
+b) A companhia pagará o dividendo de ações nominativas à pessoa que, na data do ato de declaração do
+dividendo, estiver inscrita como proprietária ou usufrutuária da ação. Os dividendos só poderão ser pagos
+quando a companhia dispor de recursos financeiros para paga-los sem prejuízo de caixa, independente de
+prazo.
+
+c) Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros
+estabelecida no estatuto.
+
+d) Os dividendos obrigatórios deixaram de ser obrigatórios no exercício social em que os órgãos da
+administração informarem à assembleia geral ordinária ser ele incompatível com a situação financeira da
+companhia. O conselho fiscal, se em funcionamento, deverá dar parecer sobre essa informação e, na
+companhia aberta, seus administradores encaminharão à Comissão de Valores Mobiliários, dentro de 5
+(cinco) dias da realização da assembleia geral, exposição justificativa da informação transmitida à
+assembleia.
+
+e) O estatuto poderá estabelecer o dividendo como porcentagem do lucro ou do capital social, ou fixar outros
+critérios para determiná-lo, desde que sejam regulados com precisão e minúcia e não sujeitem os acionistas
+minoritários ao arbítrio dos órgãos de administração ou da maioria.
+
+Comentários
+
+Vamos analisar as opções.
+
+a. Certo. Segundo a Lei n. 6.404/76,
+
+     Art. 202, § 2º Quando o estatuto for omisso e a assembléia-geral deliberar alterá-lo para introduzir norma sobre a matéria,
+     o dividendo obrigatório não poderá ser inferior a 25% (vinte e cinco por cento) do lucro líquido ajustado nos termos do inciso
+     I deste artigo.
+
+b. Errado. Segundo a Lei n. 6.404/76,
+
+     Art. 205. A companhia pagará o dividendo de ações nominativas à pessoa que, na data do ato de declaração do dividendo,
+     estiver inscrita como proprietária ou usufrutuária da ação.
+
+     [...]
+
+     § 3º O dividendo deverá ser pago, salvo deliberação em contrário da assembléia-geral, no prazo de 60 (sessenta) dias da
+     data em que for declarado e, em qualquer caso, dentro do exercício social.
+
+c. Certo. Segundo a Lei n. 6.404/76,
+
+     Art. 202. Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros
+     estabelecida no estatuto ou, se este for omisso, a importância determinada de acordo com as seguintes normas [...]
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                      38
+         www.estrategiaconcursos.com.br                                                                                        54
+
+                                        
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+d. Certo. Segundo a Lei n. 6.404/76,
+
+     Art. 202. § 4º O dividendo previsto neste artigo não será obrigatório no exercício social em que os órgãos da administração
+     informarem à assembleia-geral ordinária ser ele incompatível com a situação financeira da companhia. O conselho fiscal,
+     se em funcionamento, deverá dar parecer sobre essa informação e, na companhia aberta, seus administradores
+     encaminharão à Comissão de Valores Mobiliários, dentro de 5 (cinco) dias da realização da assembleia-geral, exposição
+     justificativa da informação transmitida à assembleia.
+
+e. Certo. Segundo a Lei n. 6.404/76,
+
+     Art. 202. § 1º O estatuto poderá estabelecer o dividendo como porcentagem do lucro ou do capital social, ou fixar outros
+     critérios para determiná-lo, desde que sejam regulados com precisão e minúcia e não sujeitem os acionistas minoritários ao
+     arbítrio dos órgãos de administração ou da maioria.
+
+Gabarito: B
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                     39
+        www.estrategiaconcursos.com.br                                                                                       54
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+   LISTA DAS QUESTÕES - RESERVAS E DIVIDENDOS - FGV
+1. (FGV/Perito/PC-AM/2022) Assinale a opção que indica a contabilização da contrapartida do lançamento
+da reversão da reserva de lucros a realizar constituída em anos anteriores, quando os lucros nela contidos
+forem realizados financeiramente.
+a) Dividendos a pagar.
+b) Lucros acumulados.
+c) Reserva de lucros.
+d) Ações em Tesouraria.
+e) Reserva de Ágio.
+2. (FGV/Assistente/SEFAZ-AM/2022) Assinale a opção que indica a reserva constituída no patrimônio
+líquido de uma sociedade empresária com o objetivo de segregar uma parcela de lucros, correspondente a
+prováveis perdas extraordinárias futuras, que deverão diminuir o resultado em exercícios futuros.
+a) Legal.
+b) Estatutárias.
+c) Para contingências.
+d) De lucros a realizar.
+e) De lucros para expansão.
+3. (FGV/Perito/PC-AM/2022) Em 05/01/X1, uma entidade declarou dividendos referentes ao período
+contábil de X0 aos detentores de instrumentos de patrimônio, em um montante superior ao valor
+obrigatório. A parcela excedente ao montante obrigatório deve ser reconhecida como
+a) passivo circulante.
+b) passivo não circulante.
+c) patrimônio líquido.
+d) redutor do patrimônio líquido.
+e) sem reconhecimento no balanço patrimonial.
+4. (FGV/Contador/SEMSA Manaus/2022) Uma sociedade empresária apresentava o seguinte balanço
+patrimonial em 31/12/X0:
+
+No ano de X1 a sociedade empresária reconheceu os seguintes eventos:
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati           40
+            www.estrategiaconcursos.com.br                                                             54
+
+                                         
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+    ▪   Receita líquida de vendas:        R$80.000;
+    ▪   Custo das mercadorias vendidas: R$20.000;
+    ▪   Despesas operacionais:            R$10.000;
+    ▪   Receita financeira:               R$15.000;
+    ▪   Imposto de renda e contribuição social sobre o lucro: 20% do lucro antes do imposto de renda e
+        contribuição social.
+Além disso, de acordo com o estatuto da sociedade empresária, ela deve distribuir dividendos mínimos
+obrigatórios de 25% do lucro líquido ajustado. Todas as receitas são tributáveis e as despesas dedutíveis.
+Assinale a opção que indica o valor dos dividendos distribuídos pela sociedade empresária em 31/12/X1.
+a) R$12.350.
+b) R$12.500.
+c) R$12.850.
+d) R$15.438.
+e) R$16.250.
+5. (FGV/Técnico/FunSaúde-CE/2021) No Patrimônio Líquido, os valores recebidos por uma entidade para
+reforço de capital e que não transitam pelo Resultado como receitas, são contabilizados como
+a) Capital Social.
+b) Reservas de Capital.
+c) Ajustes de Avaliação Patrimonial.
+d) Reservas de Lucros.
+e) Reservas de incorporação.
+6. (FGV/Técnico Tributário/SEFIN-RO/2018) Em 31/12/2015, a Cia. WWW apresentava o seguinte balanço
+patrimonial:
+
+No ano de 2016, a sociedade empresária auferiu receitas e incorreu em despesas, gerando um lucro líquido
+de R$ 160.000.
+Dado que a Cia. WWW distribuiu dividendos mínimos obrigatórios de 25% do lucro líquido ajustado, assinale
+a opção que indica o valor dos dividendos a pagar, em 31/12/2016.
+a) R$ 30.000.
+b) R$ 33.750.
+c) R$ 38.000.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                41
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+d) R$ 38.750.
+e) R$ 40.000.
+7. (FGV/Assistente Legislativo/AL-RO/2018) Uma entidade brasileira de capital fechado, especializada em
+pesquisas, atinge resultados positivos apenas em anos de eleição para presidente, portanto, de quatro em
+quatro anos.
+Em 2018, a direção da entidade deseja separar uma parte de seu lucro para compensar as perdas nos
+exercícios seguintes e propõe à assembleia a não distribuição de dividendos sobre os resultados de 2018.
+Assinale a opção que indica o procedimento contábil proposto para a assembleia.
+a) Constituição de reserva de capital.
+b) Constituição de reserva para contingências.
+c) Constituição de provisão para contingências.
+d) Constituição de passivo contingente.
+e) Constituição de ativo contingente.
+8. (FGV/Assistente/AL-RO/2018) Em 2017, uma entidade recebeu subvenções governamentais no valor de
+R$ 100.000,00.
+Assinale a opção que indica a classificação do valor no balanço patrimonial da entidade, em 31/12/2017,
+considerando que a entidade não pretende distribuir o valor como dividendos.
+a) Capital social.
+b) Reserva de capital.
+c) Reserva de lucros.
+d) Reserva legal.
+e) Resultado de exercícios futuros.
+9. (FGV/Auditor/MPE-AL/2018) Assinale a opção que indica, no patrimônio líquido de uma sociedade
+empresária, o item que faz parte da reserva de lucro.
+a) O ágio na emissão de ações.
+b) A reserva especial de ágio na incorporação.
+c) A reserva de incentivos fiscais.
+d) A alienação de bônus de subscrição.
+e) A alienação de partes beneficiárias.
+10. (FGV/Analista/CM Caruaru-PE/2015) Assinale a opção que indica a conta que representa um exemplo
+de reserva de lucros.
+a) Ágio na emissão de ações.
+b) Alienação de bônus de subscrição.
+c) Alienação de partes beneficiárias.
+d) Reserva especial de ágio na incorporação.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati            42
+         www.estrategiaconcursos.com.br                                                              54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+e) Reserva de incentivos fiscais.
+11. (FGV/Auditor/MPE-AL/2018) Assinale a opção que indica o objetivo da constituição da reserva de
+contingências.
+a) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou prejuízo,
+decorrentes de fatos extraordinários futuros.
+b) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou prejuízo,
+decorrentes de perdas de causas na justiça.
+c) Garantir o financiamento da expansão da entidade, que irá trazer lucros futuros.
+d) Evitar que a empresa apure prejuízo em um período contábil específico.
+e) Equalizar a distribuição de dividendos quando há existência de ativos contingentes não reconhecidos.
+12. (FGV/Contador/DPE-MT/2015) Assinale a opção que indica o item do Patrimônio Líquido em que os
+                                                          ==219a34==
+
+incentivos fiscais decorrentes de doações ou subvenções governamentais para investimentos devem ser
+evidenciados.
+a) Capital Social.
+b) Outros resultados abrangentes.
+c) Ações em Tesouraria.
+d) Reserva de capital.
+e) Reserva de lucros.
+13. (FGV/Contador/SEDUC-AM/2014) Uma entidade recebeu no ano de 2013, subvenções governamentais
+para investimentos no valor de R$ 50.000,00. Em 31/12/2013, a correta evidenciação desse valor é na conta
+a) Reserva de Lucros.
+b) Reserva de Capital.
+c) Reserva Legal.
+d) Reserva Especial para Dividendo Obrigatório não Distribuído.
+e) Reserva Especial de Ágio.
+14. (FGV/Contador/SEDUC-AM/2014) A Cia K S.A. declarou em 31/12/2013 dividendos no total de R$
+55.000. Deste montante, R$ 40.000 representavam o valor do dividendo mínimo obrigatório e o restante era
+adicional a esse montante.
+Os valores no balanço patrimonial da Cia K S.A. são reconhecidos da seguinte forma:
+a) R$ 55.000,00 no Passivo Circulante.
+b) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Passivo não Circulante.
+c) R$ 55.000,00 no Patrimônio Líquido.
+d) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Patrimônio Líquido.
+e) R$ 40.000,00 no Patrimônio Líquido e R$ 15.000,00 no Passivo Circulante.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 43
+         www.estrategiaconcursos.com.br                                                                   54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+15. (FGV/Contador/SUSAM/2014) Devido ao risco de falta de energia elétrica no futuro, a direção da Cia. J
+S.A., de capital fechado, resolveu propor à assembleia a não distribuição de dividendos sobre os resultados
+de 2013.
+O procedimento contábil a ser efetuado é denominado
+a) constituição de provisão para contingências.
+b) constituição de reserva para contingências
+c) constituição de passivo derivado da apropriação por competência.
+d) evidenciação em nota explicativa.
+e) constituição de reserva de capital.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                44
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 08
+
+                                               GABARITO
+
+                     1.       2.         3.       4.       5.        6.        7.        8.
+
+                     B        C          C        B        B         D         B         C
+
+                     9.        10.       11.      12.       13.      14.       15.
+
+                     C        E          A        E        A         D         B
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati        45
+      www.estrategiaconcursos.com.br                                                          54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+            LISTA DE QUESTÕES - RESERVAS E DIVIDENDOS –
+                           MULTIBANCAS
+1. (AOCP/Auditor Fiscal/ISS-Betim/2020) Em 31/12/2017, a Empresa Betim S.A. apresentava as seguintes
+informações acerca da composição e da estrutura registradas e evidenciadas no seu Balanço Patrimonial
+por meio do Patrimônio Líquido (PL) da empresa: Capital Social no valor de R$ 300.000,00; Reserva Legal
+no valor de R$ 50.000,00; Reserva Estatutária no valor de R$ 50.000,00; e Ações em Tesouraria no valor de
+R$ 10.000,00. Em 2018, essa empresa apurou um Lucro Líquido no Exercício (LLE) no valor de R$
+300.000,00.
+
+Da Política de Destinação do Lucro Líquido do Exercício, registrados em seu Estatuto Social, tem-se:
+
+• Reserva legal, correspondente ao estabelecido na legislação societária.
+
+• Reserva estatutária, corresponde a 10% do lucro líquido, conforme estabelecido na legislação societária e
+no estatuto social da empresa.
+
+• Dividendos obrigatórios correspondente a 30% do lucro líquido do exercício, deduzido da reserva legal, nos
+termos estabelecido na legislação societária e no estatuto social da empresa.
+
+É importante frisar que os saldos remanescentes serão tratados conforme estabelecido em legislação
+societária. Desse modo, com base nessas informações, o Balanço Patrimonial em 31/12/2018 dessa empresa
+apresentará um valor no Patrimônio Líquido de
+
+a) R$ 430.000,00.
+
+b) R$ 435.000,00.
+
+c) R$ 550.000,00.
+
+d) R$ 590.000,00.
+
+e) R$ 603.000,00.
+
+2. (FEPESE/Técnico de Nível Superior/Contador/CIASC/2017) Em 31/12/2015, o Patrimônio Líquido da
+Empresa Four Seasons apresentava a seguinte composição, em reais:
+
+Capital subscrito               1.000.000
+
+Capital a integralizar          (300.000)
+
+Reserva legal                   140.000
+
+Reserva estatutária             50.000
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                46
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Total do Patrimônio Líquido 890.000
+
+Durante o exercício de 2016 foram integralizados R$ 100.000 ao capital social da Empresa Four Seasons, em
+dinheiro, e o lucro líquido apurado pela companhia em 31/12/2016 foi de R$ 500.000.
+
+Considerando que não houve constituição de reserva para contingências nem de reserva de lucros a realizar
+neste exercício, e que o estatuto da companhia é omisso quanto aos dividendos obrigatórios, seus acionistas
+terão direito a receber como dividendo obrigatório relativo ao exercício de 2016 a importância de:
+
+a) R$118.750.
+
+b) R$120.000.
+
+c) R$237.500.
+
+d) R$240.000.
+
+e) R$250.000.
+
+3. (CS UFG/Auditor de Tributos do Município de Goiânia/2016) As reservas estatutárias são constituídas
+por determinação do estatuto da empresa, como destinação de uma parcela dos lucros do exercício. Para
+cada reserva estatutária, a empresa, em seu estatuto, deverá:
+
+a) definir as partes beneficiárias e os bônus de subscrição que poderão ser alienados.
+
+b) segregar uma parcela de lucros com o objetivo de não distribuí-lo como dividendos.
+
+c) fixar os critérios para determinar a parcela anual do lucro líquido a ser utilizada.
+
+d) estabelecer o lucro, rendimentos ou ganhos líquidos em operações financeiras.
+
+4. (FUNRIO/Técnico/Contabilidade/CM Nova Iguaçu/2016) A Reserva de Lucros constituída com a
+finalidade de compensar, em exercício futuro, a diminuição de lucro decorrente de perda julgada provável,
+cujo valor possa ser estimado, é a Reserva
+
+a) de Contingências.
+
+b) de Lucros a Realizar.
+
+c) Estatutária.
+
+d) Legal.
+
+5. (IESES/Analista de Processos Organizacionais/Ciências Contábeis/BAHIAGÁS/2016) A empresa Azul S.A.
+apurou em 31 de dezembro de 2015 um Lucro Líquido de R$ 700.000,00. Os saldos das contas, Capital Social
+e Reserva Legal em 31 de dezembro de 2014, eram de R$ 1.750.000,00 e R$ 345.000,00, respectivamente.
+Observando o artigo 193 da Lei 6.404/76, calcule o valor da destinação do Lucro Líquido para a Reserva Legal
+em 31 de dezembro de 2015?
+
+
+            Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             47
+            www.estrategiaconcursos.com.br                                                               54
+
+                                         
+
+
+---
+
+   Gilmar Possati
+   Aula 08
+
+a) R$ 70.000,00.
+
+b) R$ 10.500,00.
+
+c) R$ 15.000,00
+
+d) R$ 5.000,00.
+
+e) R$ 35.000,00.
+
+6. (UFMT/Analista Judiciário/Ciências Contábeis/TJ-MT/2016) “O saldo das reservas de lucros, exceto as
+para________________, ______________ e ___________________não poderá ultrapassar o capital social.
+Atingindo esse limite, a assembleia deliberará sobre aplicação do excesso na integralização ou no aumento
+do capital social ou na distribuição de dividendos”. Marque a alternativa que completa correta e
+respectivamente as lacunas do texto acima extraído da Lei n.º 6.404/1976.
+
+a) reserva legal, de contingência e reserva estatutária.
+
+b) contingências, de incentivos fiscais e de lucros a realizar.
+
+c) contingência, reserva de lucros a realizar e reserva estatutária.
+
+d) reserva legal, reserva de lucros a realizar e incentivos fiscais.
+
+7. (SMA-RJ/Fiscal de Transportes Urbanos/SMTR-RJ/2016) No final do exercício foram obtidas as seguintes
+informações de uma sociedade anônima:
+
+Capital Social.000,00
+
+Lucro Líquido antes das participações.000,00
+
+Prejuízos Acumulados.000,00
+
+Sabendo-se que o estatuto da sociedade previa a participação dos administradores e dos empregados de
+10% do lucro, o valor apropriado como Reserva Legal correspondeu a:
+
+a) R$ 2.240,00
+
+b) R$ 2.268,00
+
+c) R$ 3.640,00
+
+d) R$ 3.668,00
+
+8. (FBC/Exame de Suficiência CFC/Bacharel/2016.1) Uma Sociedade Empresária apresentou, em
+31.12.2015, antes da apuração do resultado do exercício, o seguinte Patrimônio Líquido:
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati            48
+          www.estrategiaconcursos.com.br                                                              54
+
+                                            
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Contas                                                                 Saldos
+
+Capital Subscrito                                                      R$30.000,00
+
+Reserva de Capital – Ágio na Emissão de Ações                          R$3.000,00
+
+Reserva Legal                                                          R$5.838,00
+
+Reserva Estatutária                                                    R$930,00
+
+O Lucro Líquido apurado em 31.12.2015 foi de R$8.300,00.
+
+Nesse caso, de acordo com a Lei n. 6.404/76 e alterações posteriores, o valor a ser destinado no período,
+obrigatoriamente, para Reserva Legal é de:
+                                                          ==219a34==
+
+a) R$162,00.
+
+b) R$415,00.
+
+c) R$2.300,00.
+
+d) R$2.462,00.
+
+9. (FUNDEP/Auditor Fiscal da Receita Municipal/Uberaba/2016) A Lei n. 6.404/76 apresenta uma série de
+disposições sobre as contas de reservas a serem apresentadas no Patrimônio Líquido das empresas de
+capital aberto. Sobre essas disposições, assinale a alternativa CORRETA.
+
+a) Do lucro líquido do exercício, 5% (cinco por cento) devem ser aplicados, antes de qualquer outra
+destinação, na constituição da reserva legal, que não deve exceder a 20% (vinte por cento) do total do
+Patrimônio Líquido.
+
+b) Ao propor a destinação de parte do lucro líquido à formação de reserva com contingências, deve-se indicar
+a causa da perda prevista e justificar as razões de prudência que recomendem a constituição da referida
+reserva.
+
+c) O estatuto pode criar reservas desde que para cada uma indique, de modo preciso e completo, a sua
+finalidade, assim como estabeleça o limite mínimo da reserva.
+
+d) A assembleia geral não pode, por proposta dos órgãos de administração, destinar para a reserva de
+incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para
+investimentos.
+
+10. (FUNDEP/Analista/Contabilista/Uberaba/2016) Analise a situação hipotética a seguir.
+
+No estatuto da Cia. Fossil S.A., é definido que do Lucro Líquido do período será constituída uma Reserva
+Estatutária de 20% após a constituição da Reserva Legal. Em 2014 a Cia. Fossil S.A. obteve R$ 3.000,00 de
+Lucro Líquido.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                49
+         www.estrategiaconcursos.com.br                                                                  54
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+Nesse contexto, qual foi o valor creditado na rubrica de Reserva Estatutária?
+
+a) R$ 520,00.
+
+b) R$ 540,00.
+
+c) R$ 600,00.
+
+d) R$ 570,00.
+
+11. (IESES/Analista/Ciências Contábeis/BAHIAGÁS/2016) Sobre dividendos, analise as sentenças a seguir
+e assinale a alternativa INCORRETA.
+
+a) Quando o estatuto for omisso e a assembleia geral deliberar alterá-lo para introduzir norma sobre a
+matéria, o dividendo obrigatório não poderá ser inferior a 25% (vinte e cinco por cento) do lucro líquido
+ajustado.
+
+b) A companhia pagará o dividendo de ações nominativas à pessoa que, na data do ato de declaração do
+dividendo, estiver inscrita como proprietária ou usufrutuária da ação. Os dividendos só poderão ser pagos
+quando a companhia dispor de recursos financeiros para paga-los sem prejuízo de caixa, independente de
+prazo.
+
+c) Os acionistas têm direito de receber como dividendo obrigatório, em cada exercício, a parcela dos lucros
+estabelecida no estatuto.
+
+d) Os dividendos obrigatórios deixaram de ser obrigatórios no exercício social em que os órgãos da
+administração informarem à assembleia geral ordinária ser ele incompatível com a situação financeira da
+companhia. O conselho fiscal, se em funcionamento, deverá dar parecer sobre essa informação e, na
+companhia aberta, seus administradores encaminharão à Comissão de Valores Mobiliários, dentro de 5
+(cinco) dias da realização da assembleia geral, exposição justificativa da informação transmitida à
+assembleia.
+
+e) O estatuto poderá estabelecer o dividendo como porcentagem do lucro ou do capital social, ou fixar outros
+critérios para determiná-lo, desde que sejam regulados com precisão e minúcia e não sujeitem os acionistas
+minoritários ao arbítrio dos órgãos de administração ou da maioria.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 50
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 08
+
+                                               GABARITO
+                                                        1 E
+                                                        2 D
+                                                        3 C
+                                                        4 A
+                                                        5 D
+                                                        6 B
+                                                        7 B
+                                                        8 A
+                                                        9 B
+                                                       10 D
+                                                       11 B
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati   51
+      www.estrategiaconcursos.com.br                                                     54
+
+                                   
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+                      RESERVAS E DIVIDENDOS - RESUMO
+                                               RESERVAS DE LUCROS
+Extraídas do lucro líquido do exercício. Possuem o objetivo de preservar o patrimônio líquido.
+→Reserva Legal (antes de qualquer destinação)
+(i) 5% do Lucro Líquido do Exercício;
+(ii) Limitada a 20% do capital social;
+(iii) A entidade poderá deixar de destinar recursos à reserva legal se o somatório desta reserva com as
+reservas de capital exceder o montante de 30% do capital social (limite facultativo);
+(iv) A reserva legal é a única reserva de lucro que possui constituição obrigatória para a empresa;
+                                                         ==219a34==
+
+(v) somente poderá ser utilizada para compensar prejuízos ou aumentar o capital social.
+→ Reserva Estatutária;                                   → Reserva de Retenção de Lucros;
+→ Reserva para Contingências;                            → Reserva de Lucros a Realizar;
+→ Reserva de Incentivos Fiscais;                         → Reserva Específica de Prêmio de Debêntures.
+→ Reserva Especial de Dividendo Obrigatório Não Distribuído.
+                                                     DIVIDENDOS
+→ Dividendos obrigatórios: são contabilizados no Passivo, na data do fechamento das demonstrações
+financeiras.
+→ Dividendos adicionais:
+(i) Declarados após o período contábil: não são contabilizados, devendo ser divulgados em Nota
+Explicativa.
+(ii) Declarados antes do período contábil: são contabilizados no Patrimônio Líquido, até a aprovação pela
+assembleia, momento em que são transferidos para o Passivo.
+Lucro Líquido Ajustado (LLA) = Lucro Líquido do Exercício – Reserva Legal – Reserva para
+Contingências + Reversão de Reserva para Contingências – Reserva de Incentivos Fiscais
+(facultativo) – Reserva Específica de Prêmio na Emissão de Debêntures (facultativo).
+Regra: Distribuição de Dividendos Obrigatórios
+Percentual é definido em Estatuto.
+Estatuto Omisso = percentual deve ser 50%.
+Exceções:
+a) O dividendo obrigatório pode deixar de ser distribuído ou pode ser distribuído por valor inferior ao
+determinado no estatuto social da entidade, quando não houver lucro realizado em montante suficiente (art.
+202, II).
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 52
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 08
+
+b) Quando o dividendo obrigatório, devido por força do estatuto social ou da própria lei, excede o montante
+do lucro líquido do exercício realizado financeiramente, pode a parcela não distribuída ser destinada à
+constituição da reserva de lucros a realizar.
+c) A lei societária ainda prevê que o dividendo obrigatório pode deixar de ser distribuído quando os órgãos
+da administração informarem à Assembleia Geral Ordinária ser ele incompatível com a situação financeira
+da companhia (art. 202, § 4º).
+d) O dividendo obrigatório pode também deixar de ser distribuído, ou pode ser distribuído por um valor
+inferior ao determinado no estatuto social da entidade ou na lei, por decisão soberana e unânime da
+Assembleia Geral de Acionistas (art. 202, § 3º).
+Além do dividendo obrigatório, existe a possibilidade de o estatuto de uma sociedade por ações prever o
+pagamento de dividendo intermediário (antecipados).
+O dividendo deverá ser pago, salvo deliberação em contrário da assembléia-geral, no prazo de 60 (sessenta)
+dias da data em que for declarado e, em qualquer caso, dentro do exercício social.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                53
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                     
+
+
+---
+
+---

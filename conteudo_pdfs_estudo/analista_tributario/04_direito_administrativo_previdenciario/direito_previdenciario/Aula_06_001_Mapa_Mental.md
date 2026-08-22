@@ -1,0 +1,267 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 06_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '06'
+titulo_aula: ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+---
+
+# ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+
+ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+                    E DAS EMPRESAS
+
+                                   ARRECADAR A        CONTRIBUIÇÃO DOS SEUS SEGURADOS EMPREGADOS, TRABALHADORES AVULSOS,
+                                   CONTRIBUINTES INDIVIDUAIS. DESCONTANDO DA RESPECTIVA REMUNERAÇÃO E RECOLHER O PRODUTO
+                                   ARRECADADO.
+ OBRIGAÇÕES DA EMPRESA
+                                   RECOLHER A CONTRIBUIÇÃO A SEU CARGO, INCIDENTE SOBRE AS REMUNERAÇÕES DOS SEGURADOS
+                                   EMPREGADOS, TRABALHADORES AVULSOS, CONTRIBUINTES INDIVIDUAIS.
+
+                                   EMPRESA CONTRATANTE DE SERVIÇOS EXECUTADOS MEDIANTE CESSÃO OU EMPREITADA DE MÃO DE
+ RECOLHER AS CONTRIBUIÇÕES A       OBRA, INCLUSIVE NO REGIME DE TRABALHO TEMPORÁRIO DEVERÁ RETER E RECOLHER 11% DO VALOR
+     CARGO DA EMPRESA,             BRUTO DA NOTA FISCAL, FATURA OU RECIBO DE PRESTAÇÃO DE SERVIÇOS.
+PROVENIENTES DO FATURAMENTO
+         E DO LUCRO.
+                                   AS EMPRESAS PRESTADORAS QUE RECOLHEM SUAS CONTRIBUIÇÕES PREVIDENCIÁRIAS SOBRE A RECEITA
+                                   BRUTA (COM DESONERAÇÃO DA FOLHA DE PAGAMENTO), CASO PRESTEM SERVIÇOS SUJEITOS À
+                                   RETENÇÃO, NOS TERMOS DA LEI, DEVERÃO SOFRER UMA RETENÇÃO DE APENAS 3,5% DO VALOR BRUTO
+                                   DA NOTA FISCAL OU FATURA DE PRESTAÇÃO DE SERVIÇOS (E NÃO DE 11%).
+COFINS      CSLL       PIS/PASEP
+
+                                                                                                        DIREITO PREVIDENCIÁRIO
+                                                                    ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+                    E DAS EMPRESAS
+
+                        A EMPRESA E COOPERATIVA (ADQUIRENTE, CONSUMIDORA, CONSIGNATÁRIA), SÃO OBRIGADAS A
+                        ARRECADAS E RECOLHER A CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL
+                        DO PRODUTOR RURAL PESSOA FÍSICA E DO SEGURADO ESPECIAL.
+
+
+                        O PRODUTOR RURAL PESSOA JURÍDICA É OBRIGADO A RECOLHER CONTRIBUIÇÃO INCIDENTE SOBRE A
+                        RECEITA BRUTA PROVENIENTE DE COMERCIALIZAÇÃO DE SUA PRODUÇÃO RURAL.
+
+OBRIGAÇÕES DA EMPRESA
+                        A EMPRESA QUE REMUNERA EMPREGADO LICENCIADO PARA EXERCER MANDATO DE DIRIGENTE SINDICAL
+                        É OBRIGADA A RECOLHER A CONTRIBUIÇÃO DESTE, BEM COMO A PARCELA A SEU CARGO.
+
+
+                        A ENTIDADE SINDICAL QUE REMUNERA DIRIGENTE SINDICAL QUE MANTÉM A QUALIDADE DE
+                        CONTRIBUINTE INDIVIDUAL É OBRIGADA A RECOLHER A CONTRIBUIÇÃO DESTES, BEM COMO A
+                        PARCELA A SEU CARGO.
+
+                                                                                             DIREITO PREVIDENCIÁRIO
+                                                         ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+                    E DAS EMPRESAS
+
+
+     EMPREGADO                  QUEM ARRECADA E RECOLHE?       EMPRESA OU EQUIPARADA
+
+                                                            TRABALHADOR AVULSO PORTUÁRIO:
+
+
+                                                            ÓRGÃO GESTOR DE MÃO-DE-OBRA
+ TRABALHADOR AVULSO             QUEM ARRECADA E RECOLHE?             (OGMO)
+
+                                                              TRABALHADOR AVULSO NÃO
+                                                                     PORTUÁRIO:
+
+
+                                                            EMPRESA TOMADORA DO SERVIÇO
+
+
+                                                            EMPREGADOR DOMÉSTICO JUNTO
+ EMPREGADO DOMÉSTICO            QUEM ARRECADA E RECOLHE?      COM A PARCELA A SEU CARGO
+
+                                                                         DIREITO PREVIDENCIÁRIO
+                                     ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+                    E DAS EMPRESAS
+
+
+ SEGURADO FACULTATIVO                                     QUEM ARRECADA E RECOLHE?                    O PRÓPRIO SEGURADO FACULTATIVO
+
+                                                                                                       QUEM ARRECADA E RECOLHE É A
+                                                                                                     EMPRESA CONTRATANTE, INCLUSIVE SE
+ CONTRIBUINTE INDIVIDUAL                                  QUEM ARRECADA E RECOLHE?                   OPTANTE PELO SIMPLES NACIONAL OU
+                                                                                                          SENDO EMPRESA IMUNE.
+
+
+                                                                                                        SE O C.I. PRESTA SERVIÇO PARA
+                                                                                                                   EMPRESA.
+               SE O CI PRESTA SERVIÇO PARA:
+            ▪ PESSOA FÍSICA;                                         O PRÓPRIO SEGURADO             SE O CI PRESTA SERVIÇO POR CONTA
+            ▪ OUTRO CONTRIB. INDIVIDUAL;                          CONTRIBUINTE INDIVIDUAL                        PRÓPRIA.
+            ▪ PRODUTOR RURAL PESSOA FÍSICA;
+
+
+                              SE O CI PRESTA SERVIÇO PARA MISSÃO DIPLOMÁTICA OU REPARTIÇÃO CONSULAR DE CARREIRA
+                              ESTRANGEIRA OU QUANDO TRATAR-SE DE BRASILEIRO CIVIL QUE TRABALHA NO EXTERIOR PARA
+                                    ORGANISMO OFICIAL INTERNACIONAL DO QUAL O BRASIL SEJA MEMBRO EFETIVO.
+                                                                                                                    DIREITO PREVIDENCIÁRIO
+                                                                                ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+ARRECADAÇÃO E RECOLHIMENTO CONTRIBUIÇÃO DOS SEGURADOS
+                    E DAS EMPRESAS
+
+                                                                                       SE FOR PESSOA JURÍDICA.
+
+
+   SEGURADO ESPECIAL E
+  PRODUTOR RURAL PESSOA                         QUEM ARRECADA E RECOLHE?           O ADQUIRENTE DA PRODUÇÃO RURAL
+         FÍSICA
+
+                                                                                       SE FOR PESSOA FÍSICA, NÃO
+                                                                                    PRODUTOR RURAL, QUE ADQUIRA A
+                                                                                   PRODUÇÃO PARA VENDA, NO VAREJO,
+ADQUIRENTE DOMICILIADO NO EXTERIOR.                                                       A PESSOAS FÍSICAS.
+
+
+                                                  O PRÓPRIO SEGURADO, SE VENDER
+                                                                                      OUTRO SEGURADO ESPECIAL.
+                                                              PARA:
+
+DIRETAMENTE, NO VAREJO, A CONSUMIDOR
+           PESSOA FÍSICA.
+
+                                                   PRODUTOR RURAL PESSOA FÍSICA.
+
+                                                                                                 DIREITO PREVIDENCIÁRIO
+                                                             ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                                         PRAZO DE RECOLHIMENTO
+
+
+ PRAZO DE RECOLHIMENTO DAS
+                                                                                              EXISTEM 5 DATAS DE VENCIMENTO.
+CONTRIBUIÇÕES PREVIDENCIÁRIAS
+
+                                                                           2                   1              1               2               VÁRIAS
+                                                               CONTRIBUIÇÕES              CONTRIBUIÇÃO   CONTRIBUIÇÃO CONTRIBUIÇÕES       CONTRIBUIÇÕES
+
+CONTRIBUIÇÃO DO SEGURADO FACULTATIVO.
+                                                                                                                         ATÉ DIA ”07”
+                                                                 ATÉ DIA ”15”                ATÉ DIA     EM ATÉ 2 DIAS     DO MÊS         ATÉ DIA ”20” DO
+                                                              DO MÊS SEGUINTE             20/DEZEMBRO        ÚTEIS       SEGUINTE (LEI     MÊS SEGUINTE
+CONTRIBUIÇÃO DO SEGURADO CONTRIBUINTE                                                                                    14.438/22)
+INDIVIDUAL (QUANDO ELE MESMO RECOLHE).
+
+                            OBS: SE O VENCIMENTO CAIR EM DIA NÃO ÚTIL, PRORROGA PARA O DIA ÚTIL SEGUINTE.
+
+                                                                                                                                    DIREITO PREVIDENCIÁRIO
+                                                                                                ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                                            PRAZO DE RECOLHIMENTO
+
+
+    PRAZO DE RECOLHIMENTO DAS
+                                                                                                  EXISTEM 5 DATAS DE VENCIMENTO.
+   CONTRIBUIÇÕES PREVIDENCIÁRIAS
+
+                                                                                                   1              1               2               VÁRIAS
+                                                                                              CONTRIBUIÇÃO   CONTRIBUIÇÃO CONTRIBUIÇÕES       CONTRIBUIÇÕES
+
+REFERENTE AO 13º SALÁRIO (CALCULADO E RECOLHIDO EM SEPARADO)
+                                                                                                                             ATÉ DIA ”07”
+                                                                                                 ATÉ DIA     EM ATÉ 2 DIAS     DO MÊS         ATÉ DIA ”20” DO
+                                                                                              20/DEZEMBRO        ÚTEIS       SEGUINTE (LEI     MÊS SEGUINTE
+QUANDO O 13º SALÁRIO É PAGO PROPORCIONALMENTE, EM CASO DE                                                                    14.438/22)
+RESCISÃO DE CONTRATO DE TRABALHO, DEVERÁ SER PAGA A
+CONTRIBUIÇÃO ATÉ O DIA 20 DO MÊS SEGUINTE O DA RESCISÃO.
+
+                                                  OBS: SE O VENCIMENTO CAIR EM DIA NÃO ÚTIL, ANTECIPA PARA O DIA ÚTIL ANTERIOR.
+
+                                                                                                                                        DIREITO PREVIDENCIÁRIO
+                                                                                                    ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                                            PRAZO DE RECOLHIMENTO
+
+   PRAZO DE RECOLHIMENTO DAS
+                                                                                                      EXISTEM 5 DATAS DE VENCIMENTO.
+  CONTRIBUIÇÕES PREVIDENCIÁRIAS
+
+                                                                              1                                                                         VÁRIAS
+                                                                   CONTRIBUIÇÃO                                                                   CONTRIBUIÇÕES
+
+A CONTRIBUIÇÃO DE 5% INCIDENTE SOBRE A RECEITA                     EM ATÉ 2 DIAS                                                                  ATÉ DIA ”20” DO
+BRUTA DECORRENTE DOS ESPETÁCULOS DESPORTIVOS.                              ÚTEIS                                       2                           MÊS SEGUINTE
+                                                                                                                CONTRIBUIÇÕES
+
+
+         SEGURADO ESPECIAL (QUANDO ELE PRÓPRIO RECOLHE)                                                           ATÉ DIA ”07”
+                                                                                                                    DO MÊS
+TANTO SUA COTA INCIDENTE SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO                                                 SEGUINTE (LEI
+DE SUA PRODUÇÃO RURAL, COMO A PARTE ARRECADADA DOS                                                                14.438/22)
+TRABALHADORES A SEU SERVIÇO.
+
+
+                     EMPREGADOR DOMÉSTICO
+   (JUNTO COM A COTA DESCONTADA DO EMPREGADO DOMÉSTICO A SEU
+                            SERVIÇO)                                                       OBS: SE O VENCIMENTO CAIR EM DIA NÃO ÚTIL, ANTECIPA PARA O
+                                                                                                              DIA ÚTIL ANTERIOR.
+
+
+                                                                                                                                            DIREITO PREVIDENCIÁRIO
+                                                                                                        ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---
+
+                                            PRAZO DE RECOLHIMENTO
+
+
+    PRAZO DE RECOLHIMENTO DAS
+                                                                                              EXISTEM 5 DATAS DE VENCIMENTO.
+   CONTRIBUIÇÕES PREVIDENCIÁRIAS
+
+                                                                                                            VÁRIAS
+                                                                                                        CONTRIBUIÇÕES
+         RECOLHIMENTO TRIMESTRAL
+AS CONTRIBUIÇÕES QUE PODEM SER PAGAS ATÉ O DIA
+15, QUANDO SÃO RECOLHIDAS SOBRE 1 SALÁRIO                                                               ATÉ DIA ”20” DO
+MÍNIMO,      PODERÃO      SER      RECOLHIDAS    AS DEMAIS CONTRIBUIÇÕES
+                                                                                                         MÊS SEGUINTE
+TRIMESTRALMENTE.
+
+                                                                                   OBS: SE O VENCIMENTO CAIR EM DIA NÃO ÚTIL, ANTECIPA PARA O
+                                                                                                      DIA ÚTIL ANTERIOR.
+
+                                                                                                                                    DIREITO PREVIDENCIÁRIO
+                                                                                                ESTRATÉGIA CARREIRA JURÍDICA
+
+
+---

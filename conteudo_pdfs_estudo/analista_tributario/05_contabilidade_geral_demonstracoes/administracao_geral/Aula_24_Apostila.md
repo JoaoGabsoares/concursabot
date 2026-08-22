@@ -1,0 +1,1783 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 24_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '24'
+titulo_aula: Possati
+---
+
+# Possati
+
+Aula 23
+                          Receita Federal (Analista Tributário)
+                             Contabilidade Geral - Prof. Gilmar
+                                                       Possati
+
+                                                        Autor:
+                                               Gilmar Possati
+
+                                          24 de Outubro de 2024
+
+---
+
+      Gilmar Possati
+      Aula 23
+
+                                                                                     Índice
+1) CPC 28 - Propriedade para Investimento - Teoria
+
+
+2) Questões Comentadas - CPC 28 - FGV
+
+
+3) Lista de Questões - CPC 28 - FGV
+
+                Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                                                                          2
+                www.estrategiaconcursos.com.br                                                                                                                                           39
+
+                                                             
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+            CPC 28 – PROPRIEDADES PARA INVESTIMENTOS
+Aspectos Introdutórios
+O CPC 28 estabelece o tratamento contábil de propriedades para investimento e respectivos requisitos de
+divulgação.
+Mas, afinal qual a definição de Propriedade para Investimento?
+Segundo o CPC 28, propriedade para investimento é a propriedade (terreno ou edifício – ou parte de edifício
+– ou ambos) mantida (pelo proprietário ou pelo arrendatário em arrendamento financeiro) para auferir
+aluguel ou para valorização do capital ou para ambas, e não para:
+a) uso na produção ou fornecimento de bens ou serviços ou para finalidades administrativas; ou
+b) venda no curso ordinário do negócio.
+Veja que propriedade para investimento é somente terreno ou edifício, ou ambos, para alugar ou
+simplesmente para valorizar. Logo, uma máquina ou qualquer outro ativo que não seja terreno ou edifício
+não pode ser considerado como uma propriedade para investimento.
+Observe, ainda, que se a intenção da entidade é vender o terreno ou o edifício no curso normal dos negócios
+estamos diante de uma empresa imobiliária e, portanto, nesse caso não devemos classificar como
+investimento.
+Propriedades para investimento x propriedades ocupadas
+Segundo o CPC 28, as propriedades para investimento são mantidas para obter rendas ou para valorização
+do capital ou para ambas, e por isso classificadas no subgrupo Investimentos, dentro do Ativo Não
+Circulante. Por isso, uma propriedade para investimento gera fluxos de caixa altamente independentes dos
+outros ativos mantidos pela entidade. Isso distingue as propriedades para investimento de propriedades
+ocupadas pelos proprietários. A produção ou fornecimento de bens ou serviços (ou o uso de propriedades
+para finalidades administrativas) gera fluxos de caixa que são atribuíveis não apenas às propriedades, mas
+também a outros ativos usados no processo de produção ou de fornecimento.
+Veja como essa classificação da propriedade para investimento já foi explorada em prova!
+(CRO-SP/2015) As propriedades para investimento são mantidas pelo proprietário ou arrendatário para
+obtenção de rendas ou para valorização do capital ou para ambas, e por isso serão classificadas
+a) no ativo permanente.
+b) no grupo de investimentos, dentro do realizável a longo prazo.
+c) no subgrupo do imobilizado, dentro do ativo não circulante.
+d) no subgrupo investimentos, dentro do ativo não circulante.
+e) no subgrupo investimentos, dentro do ativo circulante.
+Comentários
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 3
+        www.estrategiaconcursos.com.br                                                                  39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Questão bem tranquila, não é mesmo? Conforme acabamos de estudar, as propriedades para investimento
+são mantidas para obter rendas ou para valorização do capital ou para ambas, e por isso classificadas no
+subgrupo Investimentos, dentro do Ativo Não Circulante.
+Gabarito: D
+O CPC 28 nos fornece os seguintes exemplos de propriedades para investimento:
+
+                                 Exemplos de propriedades para investimento
+     Terrenos mantidos para valorização de capital a longo prazo e não para venda a curto prazo no
+     curso ordinário dos negócios;
+     Terrenos mantidos para futuro uso correntemente indeterminado (se a entidade não tiver
+     determinado que usará o terreno como propriedade ocupada pelo proprietário ou para venda a
+     curto prazo no curso ordinário do negócio, o terreno é considerado como mantido para
+     valorização do capital);
+     Edifício que seja propriedade da entidade (ou mantido pela entidade em arrendamento
+     financeiro) e que seja arrendado sob um ou mais arrendamentos operacionais;
+     Edifício que esteja desocupado, mas mantido para ser arrendado sob um ou mais arrendamentos
+     operacionais;
+     Propriedade que esteja sendo construída ou desenvolvida para futura utilização como
+     propriedade para investimento.
+
+O CPC destaca também itens que não são propriedades para investimento:
+
+                      Exemplos de itens que não são propriedades para investimento
+     Propriedade destinada à venda no decurso ordinário das atividades ou em vias de construção ou
+     desenvolvimento para tal venda, como, por exemplo, propriedade adquirida exclusivamente com
+     vista à alienação subsequente no futuro próximo ou para desenvolvimento e revenda;
+     Propriedade ocupada pelo proprietário, incluindo (entre outras coisas) propriedade mantida para
+     uso futuro como propriedade ocupada pelo proprietário, propriedade mantida para
+     desenvolvimento futuro e uso subsequente como propriedade ocupada pelo proprietário,
+     propriedade ocupada por empregados (paguem ou não aluguéis a taxas de mercado) e
+     propriedade ocupada pelo proprietário no aguardo de alienação;
+     Propriedade que é arrendada a outra entidade sob arrendamento financeiro.
+
+É claro que esses exemplos são explorados em prova. Vamos ver exemplos de questões que já exigiram isso.
+(Exame CFC) De acordo com a NBC TG 28 (R3) – PROPRIEDADE PARA INVESTIMENTO, NÃO é exemplo de
+propriedade para investimento:
+a) propriedade arrendada a outra entidade sob arrendamento financeiro.
+b) terreno mantido para futuro uso correntemente indeterminado.
+c) terreno mantido para valorização de capital a longo prazo.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               4
+        www.estrategiaconcursos.com.br                                                                 39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+d) propriedade que esteja sendo construída ou desenvolvida para futura utilização como
+propriedade para investimento.
+Comentários
+De todas as opções, apenas a opção “A” descreve um ativo que não deve ser classificado como propriedade
+para investimento, conforme vimos no quadro anterior. O arrendamento mercantil em essência se trata de
+uma venda a prazo. Logo, não se enquadra no conceito de propriedade para investimento.
+Gabarito: A
+(Exame CFC) Marque a opção que apresenta o exemplo de propriedade para investimento, segundo a NBC
+TG 28 - Propriedade para Investimento.
+a) Propriedade ocupada pelo proprietário no aguardo de alienação.
+b) Propriedade que é arrendada a outra entidade sob arrendamento financeiro.
+c) Terrenos destinados à venda no decurso ordinário das atividades ou em vias de construção ou
+desenvolvimento para tal venda.
+d) Terrenos mantidos para valorização de capital a longo prazo, e não para venda a curto prazo, no curso
+ordinário dos negócios.
+Comentários
+Vamos analisar as opções.
+a. Errada. Se a propriedade está ocupada, ou seja, está em uso e aguardando ser alienada (vendida) não se
+enquadra no conceito de propriedade para investimento.
+b. Errada. Trata-se de um exemplo disposto no CPC 28 de item que não é propriedade para investimento.
+Perceba que o arrendamento mercantil em essência se trata de uma venda a prazo. Logo, não se enquadra
+no conceito de propriedade para investimento.
+c. Errada. Pessoal, se o terreno é destinado à venda, não se enquadra no conceito de propriedade para
+investimento.
+d. Certo. Esse é o primeiro exemplo descrito no CPC 28.
+Gabarito: D
+(Receita Federal) A empresa Venus S.A., fabricante de peças para automóveis, adquiriu um terreno para
+aproveitar a valorização que o mercado aquecido está permitindo. A Venus também aluga o prédio lateral
+de sua fábrica para a Holding do Grupo ocupar com as suas atividades administrativas. Dessa forma, esses
+eventos devem ser contabilizados, respectivamente, como
+a) propriedades para investimento e arrendamento mercantil.
+b) imobilizado e imobilizado.
+c) propriedade para investimento e propriedade para investimento.
+d) investimento e propriedade para investimento.
+e) propriedade para investimento e imobilizado.
+Comentários
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               5
+        www.estrategiaconcursos.com.br                                                                39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+O terreno adquirido para valorização se enquadra no conceito de propriedade para investimento. Já o
+aluguel do prédio da fábrica para ocupação (uso) com atividades administrativas da holding não se enquadra
+no conceito de propriedade para investimento e, portanto, esse prédio deve ser classificado no ativo
+imobilizado.
+Gabarito: E
+(TRF1) Denomina-se propriedade para investimento
+a) o bem destinado à venda no decurso ordinário das atividades, ou em vias de construção ou
+desenvolvimento para tal venda.
+b) a propriedade adquirida exclusivamente com vista à alienação subsequente, no futuro próximo, ou para
+desenvolvimento e revenda.
+c) o bem em construção ou desenvolvimento por conta de terceiros.
+d) a propriedade que é arrendada a outra entidade sob arrendamento financeiro.
+e) o bem mantido para valorização de capital a longo prazo e não para venda a curto prazo no curso ordinário
+dos negócios.
+Comentários
+Vamos analisar as opções.
+a. Errada. Trata-se do conceito de estoque e não de propriedade para investimento.
+b. Errada. Mais uma opção que se refere a estoques.
+c. Errada. Também se refere a estoques.
+d. Errada. O arrendamento mercantil financeiro em essência se trata de uma venda a prazo. Logo, não se
+enquadra no conceito de propriedade para investimento.
+e. Certo. Trata-se do correto conceito previsto no CPC 28.
+Gabarito: E
+Pessoal, uma dúvida bem recorrente nos fóruns de dúvidas dos nossos cursos é quanto aos imóveis para
+aluguel.
+Os imóveis para aluguel podem ser classificados tanto no imobilizado como em investimentos, a depender
+da finalidade desse aluguel. Será classificado no imobilizado (aplicação do CPC 27) quando o aluguel estiver
+relacionado às atividades fins da empresa (veja exemplo de questão exigida nesse sentido abaixo). Caso o
+aluguel não esteja relacionado com as atividades da empresa classificamos como investimentos
+(propriedade para investimento, aplicação do CPC 28).
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  6
+        www.estrategiaconcursos.com.br                                                                   39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Veja como o assunto já foi explorado!
+(ISS-Recife) Uma entidade adquiriu 10 apartamentos, em um prédio ao lado de sua fábrica, por R$
+500.000,00 cada. Esses apartamentos são alugados para funcionários da entidade que são originalmente,
+de fora do estado. No balanço Patrimonial dessa entidade, os apartamentos devem ser evidenciados no
+subgrupo.
+a) Ativo circulante
+b) ativo realizável a longo prazo
+c) investimentos
+d) Imobilizado;
+e) Patrimônio líquido
+Comentários
+Nesse caso, como o aluguel é para funcionários que trabalham na empresa, devem ser classificados como
+ativo imobilizado. Veja que os funcionários são de fora do Estado e, portanto, trata-se de uma política da
+empresa necessária para o desenrolar das suas atividades, ou seja, os apartamentos são bens corpóreos
+destinados à manutenção das atividades da companhia ou exercidos com essa finalidade. Logo, devem ser
+classificados no imobilizado e não em investimentos.
+Gabarito: D
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                7
+        www.estrategiaconcursos.com.br                                                                 39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Reconhecimento
+Segundo o CPC 28, a propriedade para investimento deve ser reconhecida como ativo quando, e apenas
+quando:
+a) for provável que os benefícios econômicos futuros associados à propriedade para investimento fluirão
+para a entidade; e
+b) o custo da propriedade para investimento possa ser mensurado confiavelmente.
+Observe que esses são os mesmos requisitos exigidos para qualquer ativo. A norma apenas reforça o critério
+geral.
+O CPC 28 destaca que a entidade não reconhece no valor contábil da propriedade para investimento os
+custos de serviços diários da propriedade. Pelo contrário, esses custos são reconhecidos na demonstração
+do resultado quando incorridos. Os custos de serviços diários são basicamente os custos da mão-de-obra e
+                                                         ==219a34==
+
+dos bens consumíveis, e podem incluir o custo de pequenas peças. A finalidade dessas despesas é muitas
+vezes descrita como sendo para "reparo e manutenção” da propriedade.
+
+Mensuração no Reconhecimento
+Segundo o CPC 28, a propriedade para investimento deve ser inicialmente mensurada pelo seu custo. Os
+custos de transação devem ser incluídos na mensuração inicial.
+O CPC 28 destaca que o custo de uma propriedade para investimento comprada compreende o seu preço
+de compra e qualquer dispêndio diretamente atribuível. Os dispêndios diretamente atribuíveis incluem, por
+exemplo, as remunerações profissionais de serviços legais, impostos de transferência de propriedade e
+outros custos de transação.
+Além disso, o pronunciamento informa que o custo de uma propriedade para investimento não é
+aumentado por:
+a) custos de início de atividades (start-up) (a não ser que sejam necessários para trazer a propriedade à
+condição necessária para que seja capaz de funcionar da forma pretendida pela administração);
+b) perdas operacionais incorridas antes de a propriedade para investimento ter atingido o nível de ocupação
+previsto; ou
+c) quantidades anormais de material, mão-de-obra ou outros recursos consumidos incorridos na construção
+ou desenvolvimento da propriedade.
+O CPC 28 destaca, ainda, que se o pagamento de uma propriedade para investimento for a prazo, o seu custo
+é o equivalente ao valor à vista. A diferença entre esta quantia e os pagamentos totais é reconhecida como
+despesa financeira durante o período do crédito.
+(MPU) Julgue o item que se segue acerca de evidência e contabilização de operações típicas de entidades
+comerciais.
+A propriedade para investimento deve ser mensurada, inicialmente, pelo valor médio de mercado, que é seu
+valor justo na ocasião.
+Comentários
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 8
+        www.estrategiaconcursos.com.br                                                                  39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Segundo o CPC 28, a propriedade para investimento deve ser inicialmente mensurada pelo seu custo. Os
+custos de transação devem ser incluídos na mensuração inicial.
+Gabarito: Errado
+
+Mensuração após Reconhecimento
+Política Contábil
+Segundo o CPC 28, a entidade deve escolher como sua política contábil ou o método do valor justo ou o
+método do custo e deve aplicar essa política a todas as suas propriedades para investimento.
+O CPC 28 destaca que quando um interesse em propriedade mantido por arrendatário em arrendamento
+operacional for classificado como propriedade para investimento, o método do valor justo deve ser aplicado.
+Logo, nesse caso a entidade não possui escolha.
+Método do Valor Justo
+Segundo o CPC 28, após o reconhecimento inicial, a entidade que escolhe o método do valor justo deve
+mensurar todas as suas propriedades para investimento pelo valor justo, exceto quando o valor justo da
+propriedade para investimento não é mensurável com confiabilidade em base contínua.
+Ademais, o CPC 28 informa que o ganho ou a perda proveniente de alteração no valor justo de propriedade
+para investimento deve ser reconhecido no resultado do período em que ocorra.
+O CPC 28 destaca que ao determinar o valor justo da propriedade para investimento, a entidade não conta
+duplamente ativos ou passivos que estejam reconhecidos como ativos ou passivos separados. A norma nos
+fornece os seguintes exemplos para ilustrar essa situação:
+a) equipamento, tal como elevador ou ar-condicionado, é muitas vezes uma parte integrante de edifício e
+está geralmente incluído no valor justo da propriedade para investimento, não sendo reconhecido
+separadamente como ativo imobilizado;
+b) se o escritório for arrendado mobiliado, o valor justo do escritório inclui geralmente o valor justo da
+mobília, porque o lucro das rendas se relaciona com o escritório mobiliado. Quando a mobília for incluída no
+valor justo da propriedade para investimento, a entidade não reconhece a mobília como ativo separado;
+c) o valor justo da propriedade para investimento exclui o lucro do arrendamento operacional acrescido ou
+pago antecipadamente, porque a entidade o reconhece como passivo ou ativo separado;
+d) o valor justo da propriedade para investimento mantida em arrendamento reflete os fluxos de caixa
+esperados (incluindo a receita contingente que se espera que se torne pagável). Em conformidade, se a
+avaliação obtida para a propriedade for líquida de todos os pagamentos que se espera que sejam feitos, será
+necessário voltar a adicionar qualquer passivo de arrendamento reconhecido para atingir o valor contábil da
+propriedade para investimento, utilizando o método do valor justo.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  9
+        www.estrategiaconcursos.com.br                                                                   39
+
+                                     
+
+
+---
+
+    Gilmar Possati
+    Aula 23
+
+Incapacidade de determinar confiavelmente o valor justo
+Pessoal, a regra é que a entidade possa mensurar com confiabilidade o valor justo da propriedade para
+investimento. No entanto, existem casos excepcionais1 em que há clara evidência de que o valor justo da
+propriedade para investimento não é mensurável com confiabilidade em base contínua2. Assim, o CPC 28
+estabelece duas opções:
+a) Se a entidade concluir que o valor justo de propriedade para investimento em construção não é
+mensurável com confiabilidade, mas for esperado que o valor justo da propriedade seja mensurável com
+confiabilidade quando a construção for concluída, a propriedade para investimento em construção deve ser
+mensurada ao custo até que seu valor justo se torne confiavelmente mensurável ou a construção seja
+concluída (o que ocorrer primeiro).
+b) Se a entidade concluir que o valor justo de propriedade para investimento (outra que não uma
+propriedade para investimento em construção) não é confiavelmente mensurável, a entidade deve mensurar
+essa propriedade para investimento usando o método do custo do CPC 27 – Ativo Imobilizado. O valor
+residual da propriedade para investimento deve ser assumido como sendo zero. A entidade deve aplicar CPC
+27 até a alienação da propriedade para investimento.
+Ainda nesse ponto, o CPC 28 traz três alertas:
+
+       Uma vez que a entidade se torne capaz de mensurar confiavelmente o valor justo de um
+       investimento para propriedade em construção que tenha sido previamente avaliada ao custo,
+       deve mensurar essa propriedade pelo valor justo. Assim que a construção estiver completada,
+       presume-se que o valor justo possa ser mensurado confiavelmente. Se esse não for o caso, a
+       propriedade será contabilizada pelo método do custo de acordo com o CPC 27 – Ativo
+       Imobilizado.
+       A presunção de que o valor justo de investimento para propriedade em construção possa ser
+       mensurado confiavelmente pode ser refutada somente no reconhecimento inicial. A entidade
+       que tenha mensurado um item de investimento para propriedade em construção ao valor justo
+       não pode concluir que o valor justo do investimento para propriedade quando completado não
+       possa ser mensurado confiavelmente.
+       Nos casos excepcionais em que a entidade seja compelida a mensurar uma propriedade para
+       investimento usando o método do custo de acordo com o CPC 27, ela mensura todas as suas
+       outras propriedades para investimento pelo valor justo, inclusive as propriedades para
+       investimento em construção. Nesses casos, embora a entidade possa usar o método do custo
+       para uma propriedade para investimento, a entidade deve continuar a contabilizar cada uma
+       das propriedades restantes usando o método do valor justo.
+
+1
+  Quando a entidade adquire pela primeira vez uma propriedade para investimento (ou quando a
+propriedade existente se torne pela primeira vez propriedade para investimento na sequência da
+conclusão da construção ou do desenvolvimento, ou após a alteração de uso).
+2
+ Isso ocorre, segundo o CPC 28, quando, e apenas quando, o mercado de propriedades comparáveis está inativo (por exemplo, há
+poucas transações recentes, preços cotados não são atuais ou preços de transação observadas indicam que o vendedor foi forçado
+a vender) e quando não estão disponíveis mensurações alternativas confiáveis de valor justo (por exemplo, com base em projeções
+de fluxos de caixa descontados).
+
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                                  10
+          www.estrategiaconcursos.com.br                                                                                    39
+
+                                        
+
+
+---
+
+   Gilmar Possati
+   Aula 23
+
+Método do Custo
+Segundo o CPC 28, após o reconhecimento inicial, a entidade que escolher o método do custo deve obedecer
+os requisitos do CPC 27 para esse método, exceto para as propriedades que satisfaçam os critérios de
+classificação como mantidas para venda (ou que estejam incluídas em grupo para alienação que esteja
+classificado como mantido para venda) de acordo com o CPC 31 – Ativo Não Circulante Mantido para Venda
+e Operação Descontinuada. As propriedades para investimento que satisfaçam os critérios de classificação
+como mantidas para venda (ou que estejam incluídas em um grupo para alienação que esteja classificado
+como mantido para venda) devem ser mensuradas de acordo com esse Pronunciamento.
+(Exame CFC) De acordo com a NBC TG 28 (R1) Propriedade para Investimento, julgue os itens abaixo como
+Verdadeiros (V) ou Falsos (F) e, em seguida, assinale a opção CORRETA.
+I. No reconhecimento inicial, a propriedade para investimento deve ser mensurada pelo seu custo, que inclui
+os custos de transação.
+II. As propriedades para investimento avaliadas pelo método do custo e não classificadas como mantidas
+para a venda estão sujeitas a cálculo e registro contábil de Depreciação Acumulada, de acordo com os
+requisitos da NBC TG 27 (R1) Ativo Imobilizado.
+III. Se a entidade tiver previamente mensurado a propriedade para investimento pelo valor justo, ela poderá
+passar a mensurar tal propriedade pelo método do custo, caso os preços do mercado se tornem menos
+prontamente disponíveis.
+A sequência CORRETA é:
+a) V, V, F.
+b) F, V, F.
+c) F, F, V.
+d) V, F, V.
+Comentários
+Vamos analisar as assertivas.
+I – Verdadeiro. Segundo o CPC 28, a propriedade para investimento deve ser inicialmente mensurada pelo
+seu custo. Os custos de transação devem ser incluídos na mensuração inicial.
+O CPC 28 destaca que o custo de uma propriedade para investimento comprada compreende o seu preço
+de compra e qualquer dispêndio diretamente atribuível. Os dispêndios diretamente atribuíveis incluem, por
+exemplo, as remunerações profissionais de serviços legais, impostos de transferência de propriedade e
+outros custos de transação.
+II – Verdadeiro. Segundo o CPC 28, após o reconhecimento inicial, a entidade que escolher o método do
+custo deve obedecer os requisitos do CPC 27 para esse método (incluindo o cálculo e registro contábil de
+Depreciação Acumulada, conforme estudaremos na sequência do curso), exceto para as propriedades que
+satisfaçam os critérios de classificação como mantidas para venda, as quais devem obedecer os requisitos
+do CPC 31.
+III – Falso. Segundo o CPC 28, após o reconhecimento inicial, a entidade que escolhe o método do valor
+justo deve mensurar todas as suas propriedades para investimento pelo valor justo, exceto quando o valor
+justo da propriedade para investimento não é mensurável com confiabilidade em base contínua.
+
+
+          Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati              11
+          www.estrategiaconcursos.com.br                                                                39
+
+                                       
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Gabarito: A
+
+Transferência
+Pessoal, uma propriedade que hoje é classificada como propriedade para investimento pode deixar de ter as
+características necessárias para esse enquadramento. Ou, ainda, uma propriedade que seja “normal”
+(ocupada pelo proprietário) pode vir a ser classificada como propriedade para investimento. Assim, surge o
+que o CPC 28 denomina de “transferência”.
+Nos termos do CPC 28, a entidade deve transferir a propriedade para, ou de, propriedade para investimento
+quando, e apenas quando, houver alteração de uso.
+A alteração de uso ocorre quando a propriedade atende, ou deixa de atender, a definição de propriedade
+para investimento e há evidência da alteração de uso.
+Apenas a alteração nas intenções da administração para o uso da propriedade não fornece evidência da
+alteração no uso.
+Exemplos de evidência da alteração na utilização incluem:
+a) início de ocupação pelo proprietário, ou de desenvolvimento com vista à ocupação pelo proprietário, para
+transferência de propriedade para investimento para propriedade ocupada pelo proprietário;
+b) início de desenvolvimento com objetivo de venda, para transferência de propriedade para investimento
+para estoque;
+c) fim de ocupação pelo proprietário, para transferência de propriedade ocupada pelo proprietário para
+propriedade para investimento;
+d) começo de arrendamento operacional para outra entidade, para transferência de estoques para
+propriedade para investimento.
+Essas transferências acabam impactando os aspectos de reconhecimento e mensuração daquelas
+propriedades que estão avaliadas pelo método do valor justo.
+Quando a entidade usar o método do custo, as transferências entre propriedades para investimento,
+propriedades ocupadas pelo proprietário e estoque não alteram o valor contábil da propriedade transferida
+e não alteram o custo dessa propriedade para finalidades de mensuração ou divulgação.
+Assim, vamos estudar as regras estabelecidas pelo CPC 28 para as propriedades avaliadas ao valor justo que
+sofrem transferência:
+a) Para a transferência de propriedade para investimento escriturada pelo valor justo para propriedade
+ocupada pelo proprietário ou para estoque, o custo considerado da propriedade para subsequente
+contabilização de acordo com o CPC 27 ou o CPC 16 deve ser o seu valor justo à data da alteração de uso.
+b) Se o imóvel ocupado pelo proprietário se tornar propriedade para investimento que seja escriturada pelo
+valor justo, a entidade deve aplicar o CPC 27 até a data da alteração de uso. A entidade deve tratar qualquer
+diferença nessa data entre o valor contábil do imóvel de acordo com o CPC 27 e o seu valor justo conforme
+o item a seguir (“c”).
+c) Até a data em que o imóvel ocupado pelo proprietário se torne propriedade para investimento escriturada
+pelo valor justo, a entidade deprecia a propriedade e reconhece quaisquer perdas por redução no valor
+recuperável (impairment) que tenham ocorrido. A entidade trata qualquer diferença nessa data entre o valor
+contábil da propriedade de acordo com o CPC 27 e o seu valor justo da seguinte forma:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  12
+        www.estrategiaconcursos.com.br                                                                    39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+(a) qualquer diminuição resultante no valor contábil da propriedade é reconhecida no resultado (despesa).
+Porém, até o ponto em que a quantia esteja incluída em reavaliação anteriormente procedida nessa
+propriedade, a diminuição é debitada contra esse excedente de reavaliação
+Observação: Como a Lei das SAs não permite reavaliação essa ressalva do CPC 28 não tem aplicabilidade
+prática.
+(b) qualquer aumento resultante no valor contábil é tratado como se segue:
+     (i) até o ponto em que o aumento reverta perda anterior por impairment dessa propriedade, o
+     aumento é reconhecido no resultado (receita). A quantia reconhecida no resultado não pode exceder
+     a quantia necessária para repor o valor contábil para o valor contábil que teria sido determinado
+     (líquido de depreciação) caso nenhuma perda por impairment tivesse sido reconhecida;
+     (ii) qualquer parte remanescente do aumento é creditada diretamente no patrimônio líquido, em
+     ajustes de avaliação patrimonial, como parte dos outros resultados abrangentes. Na alienação
+     subsequente da propriedade para investimento, eventual excedente de reavaliação incluído no
+     patrimônio líquido deve ser transferido para lucros ou prejuízos acumulados, e a transferência do saldo
+     remanescente excedente de avaliação também se faz diretamente para lucros ou prejuízos
+     acumulados, e não por via da demonstração do resultado.
+Vamos ver um exemplo com números para facilitar nosso entendimento:
+Valor Contábil                                  1.000,00
+Perda por impairment reconhecida                100,00
+Valor Justo                                     1.200,00
+Nesse caso, temos uma diferença de 200 “pila” entre o valor contábil e o valor justo.
+Assim, até o limite da perda devemos reconhecer uma receita, ou seja, 100,00. O restante (100,00) deve ser
+reconhecido no PL, na conta ajuste de avaliação patrimonial.
+d) Para uma transferência de estoque para propriedade para investimento que seja escriturada pelo valor
+justo, qualquer diferença entre o valor justo da propriedade nessa data e o seu valor contábil anterior deve
+ser reconhecida no resultado (receita ou despesa).
+e) O tratamento de transferência de estoque para propriedade para investimento que é escriturada pelo
+valor justo é consistente com o tratamento de venda de estoque.
+f) Quando a entidade concluir a construção ou o desenvolvimento de propriedade para investimento de
+construção própria que será escriturada pelo valor justo, qualquer diferença entre o valor justo da
+propriedade nessa data e o seu valor contábil anterior deve ser reconhecida no resultado (receita ou
+despesa).
+Vamos ver como esses detalhes já foram exigidos em prova.
+(ALBA) Uma empresa tinha em 31/12/2013 três terrenos:
+• O terreno A, destinado à venda, estava contabilizado a R$200.000,00 no Ativo Circulante.
+• O terreno B, destinado ao uso, estava contabilizado a R$100.000,00 no Ativo Imobilizado.
+• O terreno C, destinado ao uso, estava contabilizado a R$400.000,00 no Ativo Imobilizado.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 13
+        www.estrategiaconcursos.com.br                                                                   39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Em janeiro de 2014, esta empresa realizou uma reestruturação, transferindo os três terrenos para a conta
+Propriedades para Investimento, com o objetivo de valorizar o capital. Aplicando o valor justo, a empresa
+constatou que os valores dos terrenos A, B e C eram, respectivamente, R$ 250.000,00, R$ 200.000,00 e R$
+300.000,00.
+A contrapartida do reconhecimento do valor justo dos terrenos A, B e C deve ser reconhecida,
+respectivamente, em
+a) resultado, resultado e resultado.
+b) ajustes de avaliação patrimonial, resultado e resultado.
+c) resultado, ajustes de avaliação patrimonial e ajustes de avaliação patrimonial.
+d) ajustes de avaliação patrimonial, ajustes de avaliação patrimonial e ajustes de avaliação patrimonial.
+e) resultado, ajustes de avaliação patrimonial e resultado.
+Comentários
+Olha que questão interessante. Ela trata justamente desses requisitos previstos pelo CPC 28 quando ocorre
+transferência e há diferença entre o valor contábil e o valor justo.
+A questão nos fornece informações sobre três terrenos:
+         Terreno          Destinação               Valor Contábil            Valor Justo     Diferença
+            A           Venda (estoque)             200.000,00               250.000,00       aumento
+            B                Uso                    100.000,00               200.000,00       aumento
+            C                Uso                    400.000,00               300.000,00    diminuição
+Assim, o tratamento a ser dado a cada um desses terrenos é o seguinte:
+Terreno A: por se tratar de um terreno destinado à venda, ou seja, enquadrado como uma transferência de
+estoque para propriedade de investimento, devemos aplicar a seguinte regra acima estudada:
+d) Para uma transferência de estoque para propriedade para investimento que seja escriturada pelo valor
+justo, qualquer diferença entre o valor justo da propriedade nessa data e o seu valor contábil anterior deve
+ser reconhecida no resultado (receita ou despesa).
+Logo, a diferença será reconhecida no resultado. Nesse caso, seria uma receita, pois o valor justo está maior
+que o valor contábil.
+Terrenos B e C: por se tratarem de terrenos destinados ao uso, ou seja, enquadrados como uma transferência
+de um imóvel ocupado pelo proprietário para propriedade para investimento, devemos aplicar a seguinte
+regra acima estudada:
+(a) qualquer diminuição resultante no valor contábil da propriedade é reconhecida no resultado (despesa).
+Porém, até o ponto em que a quantia esteja incluída em reavaliação anteriormente procedida nessa
+propriedade, a diminuição é debitada contra esse excedente de reavaliação
+Observação: Como a Lei das SAs não permite reavaliação essa ressalva do CPC 28 não tem aplicabilidade
+prática.
+(b) qualquer aumento resultante no valor contábil é tratado como se segue:
+     (i) até o ponto em que o aumento reverta perda anterior por impairment dessa propriedade, o aumento
+     é reconhecido no resultado (receita). A quantia reconhecida no resultado não pode exceder a quantia
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    14
+        www.estrategiaconcursos.com.br                                                                      39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+     necessária para repor o valor contábil para o valor contábil que teria sido determinado (líquido de
+     depreciação) caso nenhuma perda por impairment tivesse sido reconhecida;
+     (ii) qualquer parte remanescente do aumento é creditada diretamente no patrimônio líquido, em
+     ajustes de avaliação patrimonial, como parte dos outros resultados abrangentes.
+Observe que para o terreno B tivemos um aumento. Logo, como não há informações quanto a perdas
+anteriormente reconhecidas, esse aumento deve ser creditado diretamente no PL, em ajustes de avaliação
+patrimonial, aplicação do item (ii) acima.
+Já para o terreno C tivemos uma diminuição e, portanto, devemos reconhecer a diferença no resultado como
+uma despesa.
+Resumindo, temos:
+Terreno A: Resultado
+Terreno B: AAP
+Terreno C: Resultado
+Gabarito: E
+Galera, para facilitar nosso estudo vamos ver um esqueminha rápido para resolver questões sobre esse
+assunto?
+
+ Contabilização das diferenças entre o valor contábil e o valor justo nos processos de transferências de
+                             imóveis para propriedade para investimento
+
+                                                          Até o ponto em que o
+                                                         aumento reverta perda              RESULTADO
+                                                         anterior por impairment             (Receita)
+
+                                          Aumento
+                                          (VC < VJ)
+
+                                                         Parte remanescente do              AJUSTE DE
+    Imóvel ocupado pelo
+                                                                aumento                     AVALIAÇÃO
+        proprietário
+                                                                                           PATRIMONIAL
+     (destinado ao uso)
+                                                                                               (PL)
+                                           Diminuição                 RESULTADO
+                                            (VC > VJ)                  (Despesa)
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 15
+        www.estrategiaconcursos.com.br                                                                   39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+                                             Aumento                   RESULTADO
+                                             (VC < VJ)                  (Receita)
+
+         Estoque
+(imóvel destinado à venda)
+
+VC = Valor Contábil                         Diminuição                RESULTADO
+                                             (VC > VJ)                 (Despesa)
+VJ = Valor Justo
+
+Alienação
+
+Segundo o CPC 28, a propriedade para investimento deve ser baixada (eliminada do balanço patrimonial) na
+alienação ou quando a propriedade para investimento for permanentemente retirada de uso e nenhum
+benefício econômico for esperado da sua alienação.
+O CPC 28 informa que a alienação de propriedade para investimento pode ser alcançada pela venda ou pela
+celebração de arrendamento financeiro.
+O CPC 28 destaca que os ganhos ou perdas provenientes da retirada ou alienação de propriedades para
+investimento devem ser determinados como a diferença entre os valores líquidos da alienação e o valor
+contábil do ativo e devem ser reconhecidos no resultado no período da retirada ou da alienação.
+No que se refere ao valor da contrapartida da alienação de propriedade para investimento, o CPC 28
+estabelece que deve ser estabelecido de acordo com os requisitos para determinar o preço de transação
+previstos no CPC 47. As alterações subsequentes no valor estimado da contrapartida, incluído no ganho ou
+na perda, devem ser contabilizadas de acordo com os requisitos para alterações no preço de transação no
+CPC 47.
+
+Divulgação
+Nos termos do CPC 28, a entidade deve divulgar:
+a) se aplica o método do valor justo ou o método do custo;
+b) caso aplique o método do valor justo, se, e em que circunstâncias os interesses em propriedade mantidos
+em arrendamentos operacionais são classificados e contabilizados como propriedade para investimento;
+c) quando a classificação for difícil, os critérios que usa para distinguir propriedades para investimento de
+propriedades ocupadas pelo proprietário e de propriedades mantidas para venda no curso ordinário dos
+negócios;
+d) a extensão até a qual o valor justo da propriedade para investimento (tal como mensurado ou divulgado
+nas demonstrações contábeis) se baseia em avaliação de avaliador independente que possua qualificação
+profissional reconhecida e relevante e que tenha experiência recente no local e na categoria da propriedade
+para investimento que está sendo avaliada. Se não tiver havido tal avaliação, esse fato deve ser divulgado;
+e) as quantias reconhecidas no resultado para:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  16
+        www.estrategiaconcursos.com.br                                                                    39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+(i) lucros de rendas de propriedade para investimento;
+(ii) gastos operacionais diretos (incluindo reparos e manutenção) provenientes de propriedades para
+investimento que tenham gerado rendas durante o período;
+(iii) gastos operacionais diretos (incluindo reparos e manutenção) provenientes de propriedades para
+investimento que não tenham gerado rendas durante o período; e
+(iv) a alteração cumulativa no valor justo reconhecido nos resultados com a venda de propriedade para
+investimento de um conjunto de ativos em que se usa o método do custo para um conjunto em que se usa
+o método do valor justo.
+f) a existência e quantias de restrições sobre a capacidade de realização de propriedades para investimento
+ou a remessa de lucros e recebimentos de alienação;
+g) obrigações contratuais para comprar, construir ou desenvolver propriedades para investimento ou para
+reparos, manutenção ou aumentos.
+Além das divulgações exigidas anteriormente, o CPC 28 informa que a entidade que aplique o método do
+valor justo deve divulgar a conciliação entre os valores contábeis da propriedade para investimento no início
+e no fim do período.
+Já a entidade que aplique o método do custo, deve divulgar:
+a) os métodos de depreciação usados;
+b) as vidas úteis ou as taxas de depreciação usadas;
+c) o valor contábil bruto e a depreciação acumulada (agregada com as perdas por impairment acumuladas)
+no início e no fim do período;
+d) a conciliação do valor contábil da propriedade para investimento no início e no fim do período.
+e) o valor justo das propriedades para investimento. Nos casos excepcionais, quando a entidade não puder
+mensurar o valor justo da propriedade para investimento com confiabilidade, ela deve divulgar:
+(i) descrição da propriedade para investimento;
+(ii) explanação da razão pela qual o valor justo não pode ser determinado com confiabilidade; e
+(iii) se possível, o intervalo de estimativas dentro do qual seja altamente provável que o valor justo venha a
+recair.
+Pessoal, não encontrei exigências sobre esses detalhes sobre divulgação previstos no CPC 28. Uma leitura
+atenta creio que seja suficiente para enfrentar alguma exigência.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   17
+        www.estrategiaconcursos.com.br                                                                     39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+               QUESTÕES COMENTADAS – CPC 28 – FGV
+1. (FGV/Analista/CM Fortaleza/2024) Uma sociedade empresária presta serviços contábeis. Em 2022, ela
+percebeu que estavam construindo um shopping ao lado de seu escritório e constatou que a área iria se
+valorizar. Deste modo, adquiriu um terreno na região e iniciou a construção de um prédio, que destinaria a
+aluguel para terceiros, quando pronto. Assinale a opção que indica, respectivamente, a classificação do
+terreno, ainda em construção, e do prédio construído no balanço patrimonial da sociedade empresária.
+a) Imobilizado e circulante.
+b) Imobilizado e Imobilizado.
+c) Imobilizado e Propriedade para Investimento.
+d) Propriedade para Investimento e Imobilizado.
+e) Propriedade para Investimento e Propriedade para Investimento.
+Comentários
+Tanto o terreno quanto o prédio concluído são classificados como propriedades para investimento. Segundo
+o CPC 28,
+8. O que se segue são exemplos de propriedades para investimento:
+(a) terrenos mantidos para valorização de capital a longo prazo e não para venda a curto prazo no curso
+ordinário dos negócios; (...)
+(e) propriedade que esteja sendo construída ou desenvolvida para futura utilização como propriedade para
+investimento.
+Gabarito: E
+2. (FGV/Analista/CVM/2024) Uma empresa S.A. possui uma propriedade classificada como propriedade
+para investimento. Em 31 de outubro de 2024, a empresa altera a intenção de uso e decide utilizar a
+propriedade como sede administrativa devido a uma expansão de seus negócios. Em 31 de dezembro de
+2024, a empresa inicia a reforma para uso próprio; nesse momento, os construtores estão no local realizando
+os trabalhos de reforma com vista à ocupação pela empresa. Em 31 de março de 2025, a reforma é encerrada
+e, em 30 de abril, a sede da empresa e seus funcionários começam a utilizar a propriedade. Em 30 de junho
+de 2025, a empresa reclassifica, para a divulgação trimestral, a propriedade para investimento como
+imobilizado. Considerando as informações apresentadas e os preceitos do CPC 28, o inspetor da CVM
+identificou que a empresa deveria ter reclassificado a propriedade em:
+a) 31 de outubro de 2024;
+b) 31 de dezembro de 2024;
+c) 31 de março de 2025;
+d) 30 de abril de 2025;
+e) 30 de junho de 2025.
+Comentários
+Segundo o CPC 28,
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                18
+        www.estrategiaconcursos.com.br                                                                  39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+57. A entidade deve transferir a propriedade para, ou de, propriedade para investimento quando, e apenas
+quando, houver alteração de uso. A alteração de uso ocorre quando a propriedade atende, ou deixa de
+atender, a definição de propriedade para investimento e há evidência da alteração de uso. Apenas a
+alteração nas intenções da administração para o uso da propriedade não fornece evidência da alteração
+no uso. Exemplos de evidência da alteração na utilização incluem:
+(a) início de ocupação pelo proprietário, ou de desenvolvimento com vista à ocupação pelo proprietário,
+para transferência de propriedade para investimento para propriedade ocupada pelo proprietário;
+(b) início de desenvolvimento com objetivo de venda, para transferência de propriedade para investimento
+para estoque;
+(c) fim de ocupação pelo proprietário, para transferência de propriedade ocupada pelo proprietário para
+propriedade para investimento; e
+(d) começo de arrendamento operacional para outra entidade, para transferência de estoques para
+propriedade para investimento;
+Observe que em 31/12/2024, a empresa inicia a reforma para uso próprio, com os construtores no local
+realizando os trabalhos de reforma com vista à ocupação pela empresa. Temos, assim, a configuração do
+“início de desenvolvimento com vista à ocupação pelo proprietário”. Logo, a empresa deveria ter
+reclassificado a propriedade nessa data.
+Gabarito: B
+3. (FGV/Auditor/STN/2024) Em 31/12/2021, a Cia Estrela adquiriu um terreno por R$200.000. O uso do
+terreno, naquele momento, era indeterminado. A empresa escolheu mensurar o terreno pelo valor justo.
+Em 31/12/2022 e em 31/12/2023, os valores justos do terreno eram, respectivamente, de R$190.000 e de
+R$220.000. Assinale a opção que indica a contrapartida do reconhecimento do ganho decorrente da
+alteração no valor justo em 31/12/2023.
+a) Resultado: R$10.000.
+b) Resultado: R$30.000.
+c) Ajuste de Avaliação Patrimonial: R$20.000.
+d) Ajuste de Avaliação Patrimonial: R$30.000.
+e) Resultado: R$10.000 e Ajuste de Avaliação Patrimonial: R$20.000.
+Comentários
+Como o uso do terreno era indeterminado, caracteriza-se como um propriedade para investimento. Segundo
+o CPC 28, após o reconhecimento inicial, a entidade que escolhe o método do valor justo deve mensurar, em
+regra, todas as suas propriedades para investimento pelo valor justo. Além disso, o CPC 28 determina que o
+ganho ou a perda proveniente de alteração no valor justo de propriedade para investimento deve ser
+reconhecido no resultado do período em que ocorra.
+Ao final de 2022 temos uma desvalorização de 10.000,00 (200 – 190). Assim, temos o seguinte lançamento:
+    D – Perda c/ variação a valor justo (despesa)
+    C – Propriedade para Investimento (terreno) ... 10.000,00
+Ao final de 2023 houve uma valorização de 30.000,00 (220-190). Logo, há o seguinte registro:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               19
+        www.estrategiaconcursos.com.br                                                                 39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+    D - Propriedade para Investimento (terreno)
+    C - Ganho c/ variação a valor justo (receita) ... 30.000,00
+Gabarito: B
+4. (FGV/Auditor/CGE-PB/2024) A companhia pode ter imóveis que sejam mantidos para fins de locação ou
+arrendamento ou para fins de valorização da propriedade, tendo em vista uma futura venda a terceiros, ou
+ambos os objetivos. A propriedade (terreno ou edifício) pode ser mantida pelo proprietário ou pelo
+arrendatário para auferir aluguel ou para valorização do capital ou para ambos. Dessa forma, a empresa
+pode escolher mensurar como política contábil de suas propriedades para investimento o método do valor:
+a) justo ou método do custo e deve aplicar a política de custo para os edifícios e valor justo para os terrenos;
+b) justo ou método do custo e deve aplicar a política escolhida a todas as suas propriedades para
+investimento;
+c) em uso e método do custo corrente e deve aplicar a política de valor em uso para os edifícios e custo
+corrente para os terrenos;
+d) de cumprimento ou método do custo e deve aplicar a política de custo para os edifícios e valor de
+cumprimento para os terrenos;
+e) de mercado ou método do custo corrente e deve aplicar a política escolhida a todas as suas propriedades
+para investimento.
+Comentários
+Segundo o CPC 28,
+20. A propriedade para investimento deve ser inicialmente mensurada pelo seu custo. Os custos de transação
+devem ser incluídos na mensuração inicial.
+32A. A entidade pode:
+(a) escolher o método do valor justo ou o método do custo para todas as propriedades para investimento que
+suportem passivos que pagam retorno diretamente associado ao valor justo de, ou aos retornos de ativos
+especificados incluindo essa propriedade para investimento; e
+(b) escolher o método do valor justo ou o método do custo para todas as restantes propriedades para
+investimento, independentemente da escolha feita na alínea (a).
+Gabarito: B
+5. (FGV/Analista/TJ-AP/2024) Uma empresa S/A, cujo objeto social é a administração, exploração e/ou
+controle da atividade de estacionamento de veículos, possui um terreno. Contudo, não definiu ainda se irá
+utilizá-lo como propriedade ocupada pelo proprietário ou para venda no curto prazo no curso ordinário do
+negócio. Com base nas informações apresentadas, o terreno deve ser considerado no ativo não circulante
+como:
+a) intangível;
+b) imobilizado;
+c) investimento;
+d) propriedade para investimento;
+e) ativo não circulante mantido para venda.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    20
+         www.estrategiaconcursos.com.br                                                                      39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Comentários
+Entre os exemplos de propriedades para investimentos, o CPC 28 descreve o seguinte:
+   ▪  terrenos mantidos para futuro uso correntemente indeterminado (se a entidade não tiver
+      determinado que usará o terreno como propriedade ocupada pelo proprietário ou para venda a curto
+      prazo no curso ordinário do negócio, o terreno é considerado como mantido para valorização do
+      capital);
+Observe que o caso apresentado pela questão se enquadra exatamente nesse exemplo.
+Gabarito: D
+6. (FGV/Analista/ALETO/2024) Uma sociedade empresária presta serviços de consultoria jurídica. Em
+02/01/2024, ela adquiriu 3 terrenos vizinhos, mas de tamanhos diferentes, pelos seguintes custos e com os
+seguintes objetivos:
+Terreno A: R$30.000; construção de estacionamento para que os funcionários estacionem seus carros.
+Terreno B: R$40.000; valorização de capital a longo prazo.
+Terreno C: R$50.000; construção da nova sede da empresa.
+Assinale a opção que indica os montantes adicionados a cada grupo do balanço patrimonial da sociedade
+empresária, com a compra dos terrenos.
+a) Investimentos: R$40.000; Imobilizado: R$80.000.
+b) Investimentos: R$70.000; Imobilizado: R$50.000.
+c) Realizável a Longo Prazo: R$40.000; Imobilizado: R$80.000.
+d) Realizável a Longo Prazo: R$40.000; Investimentos: R$80.000.
+e) Realizável a Longo Prazo: R$40.000; Investimentos: R$30.000; Imobilizado: R$50.000.
+Comentários
+Vamos classificar cada um dos terrenos:
+Terreno A: R$30.000; construção de estacionamento para que os funcionários estacionem seus carros.
+Como os funcionários irão usar o estacionamento, classificamos como ativo imobilizado.
+Terreno B: R$40.000; valorização de capital a longo prazo.
+Como o objetivo é valorização de capital, o terreno deve ser classificado como propriedade para
+investimento.
+Terreno C: R$50.000; construção da nova sede da empresa.
+Nesse caso, classificamos como ativo imobilizado, pois a finalidade é para uso/ocupação pela empresa em
+suas atividades.
+Assim, temos um montante de R$ 80mil para o imobilizado e R$ 40mil como investimentos.
+Gabarito: A
+7. (FGV/Auditor/SEFAZ-MG/2023) Uma instituição de ensino adquiriu, em 01/01/X0, um prédio para alugar
+a terceiros por R$500.000. A vida útil do prédio foi estimada em 50 anos. Após o reconhecimento inicial, a
+instituição de ensino escolheu mensurar o prédio pelo método do valor justo, com acréscimo reconhecido
+anualmente na Demonstração do Resultado. Na data, este era de R$600.000. Em 31/12/X1, a instituição
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               21
+        www.estrategiaconcursos.com.br                                                                 39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+decidiu que iria utilizar o prédio em seus negócios, passando a contabilizá-lo como ativo imobilizado. Na
+data, o valor justo do prédio era de R$700.000. Assinale a opção que indica o valor contábil do prédio no
+balanço patrimonial da instituição de ensino, em 31/12/X1.
+a) R$480.000.
+b) R$500.000.
+c) R$576.000.
+d) R$600.000.
+e) R$700.000.
+Comentários
+Trata-se de uma situação em que há transferência de propriedade para investimento para propriedade
+ocupada. Segundo o CPC 28,
+60. Para a transferência de propriedade para investimento contabilizada pelo valor justo para propriedade
+ocupada pelo proprietário ou para estoque, o custo considerado da propriedade para subsequente
+contabilização, de acordo com o CPC 27, o CPC 06 ou o CPC 16, deve ser o seu valor justo na data da alteração
+de uso.
+Logo, o valor contábil do prédio no balanço patrimonial da instituição de ensino, em 31/12/X1, será de R$
+700.000.
+Gabarito: E
+8. (FGV/Analista/Receita Federal/2023) Uma entidade tinha seu modelo de negócios estruturado para a
+venda de terrenos. Em 01/01/X0, o seu estoque era de R$270.000, tendo a seguinte composição:
+   •   Terreno A: R$120.000
+   •   Terreno B: R$150.000.
+Em 31/01/X0, teve início um processo de melhorias na região onde os terrenos estão localizados. Por isso, a
+entidade decidiu retirar os terrenos de venda e mantê-los para valorização de capital a longo prazo, definindo
+mensurá-los pelo valor justo.
+Na data, o valor justo do Terreno A era de R$160.000 e o do Terreno B, de R$140.000.
+Assinale a opção que indica o efeito da mudança da intenção da administração nas demonstrações contábeis
+da entidade.
+a) Demonstração do Resultado do Exercício: +R$30.000.
+b) Demonstração das Mutações do Patrimônio Líquido: +R$30.000.
+c) Demonstração de Outros Resultados Abrangentes: +R$30.000.
+d) Demonstração do Resultado do Exercício: +R$40.000; Demonstração das Mutações do Patrimônio Líquido:
+–R$10.000.
+e) Demonstração das Mutações do Patrimônio Líquido: +R$40.000; Demonstração do Resultado do Exercício:
+–R$10.000.
+Comentários
+Trata-se de uma situação em que há transferência de estoque para propriedade para investimento. Segundo
+o CPC 28,
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   22
+        www.estrategiaconcursos.com.br                                                                     39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+63. Para uma transferência de estoque para propriedade para investimento que seja escriturada pelo valor
+justo, qualquer diferença entre o valor justo da propriedade nessa data e o seu valor contábil anterior deve
+ser reconhecida no resultado.
+Assim, temos:
+Terreno A: 160.000 (VJ) – 120.000 (VC) = 40.000 (receita)
+Terreno B: 140.000 (VJ) – 150.000 (VC) = -10.000 (despesa)
+Gabarito: A
+9. (FGV/Analista/Receita Federal/2023) Uma sociedade empresária apresentava os seguintes ativos em seu
+Balanço Patrimonial, em 31/12/X0:
+   • Caixa: R$200.000;
+   • Terreno mantido para futuro uso correntemente indeterminado: R$70.000;
+   • Edifício arrendado para terceiros sob arrendamento operacional: R$120.000;
+   • Edifício desocupado, mantido para ser arrendado para terceiros sob arrendamento operacional:
+       R$140.000;
+   • Propriedade em construção para futura utilização como propriedade para investimento: R$150.000.
+Assinale a opção que indica o saldo da conta Propriedade para Investimento no Balanço Patrimonial da
+sociedade empresária na data.
+a) R$150.000.
+b) R$220.000.
+c) R$260.000.
+d) R$410.000.
+e) R$480.000.
+Comentários
+Segundo o CPC 28,
+8. O que se segue são exemplos de propriedades para investimento:
+(a) terrenos mantidos para valorização de capital a longo prazo e não para venda a curto prazo no curso
+ordinário dos negócios;
+(b) terrenos mantidos para futuro uso correntemente indeterminado (se a entidade não tiver determinado
+que usará o terreno como propriedade ocupada pelo proprietário ou para venda a curto prazo no curso
+ordinário do negócio, o terreno é considerado como mantido para valorização do capital);
+(c) edifício que seja propriedade da entidade (ou ativo de direito de uso relativo a edifício mantido pela
+entidade) e que seja arrendado sob um ou mais arrendamentos operacionais;
+(d) edifício que esteja desocupado, mas mantido para ser arrendado sob um ou mais arrendamentos
+operacionais;
+(e) propriedade que esteja sendo construída ou desenvolvida para futura utilização como propriedade para
+investimento.
+Vamos efetuar a classificação:
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 23
+        www.estrategiaconcursos.com.br                                                                   39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+  • Caixa: R$200.000 (ativo circulante)
+  • Terreno mantido para futuro uso correntemente indeterminado: R$70.000 (PPI)
+  • Edifício arrendado para terceiros sob arrendamento operacional: R$120.000 (PPI)
+  • Edifício desocupado, mantido para ser arrendado para terceiros sob arrendamento operacional:
+  R$140.000 (PPI)
+  • Propriedade em construção para futura utilização como propriedade para investimento: R$150.000
+  (PPI)
+PPI = 70.000 + 120.000 + 140.000 + 150.000 = 480.000
+Gabarito: E
+10. (FGV/Analista/Pref. RJ/2023) A administração de uma empresa S/A apresentou em suas demonstrações
+financeiras individuais um ativo classificado como propriedade para investimento e mensurado a valor justo.
+Ainda, esse mesmo ativo foi classificado como imobilizado nas demonstrações financeiras consolidadas e
+mensurado, também, a valor justo. Nesse caso, considerando somente as informações apresentadas e os
+preceitos das Normas (Pronunciamentos, Orientações e Interpretações) emitidas pelo CPC, é correto afirmar
+que:
+a) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, a
+empresa deveria ter reconhecido o ativo como propriedade para investimento em ambos os balanços;
+b) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, a
+empresa aplicou o critério de mensuração a valor justo para o mesmo ativo nas demonstrações financeiras e
+consolidadas;
+c) esse procedimento proporciona o devido alinhamento entre os requerimentos normativos disciplinados nas
+Normas (Pronunciamentos, Orientações e Interpretações) emitidas pelo CPC;
+d) as propriedades para investimento devem ser avaliadas ao valor justo e a reavaliação do valor justo deve
+ser incorporada ao ativo imobilizado com efeitos no resultado e no patrimônio líquido consolidado;
+e) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, o
+critério de custo deveria ter sido utilizado para as propriedades para investimento e para o imobilizado.
+Comentários
+A questão exige conhecimento de uma situação bem específica sobre propriedade arrendada para
+controladora/controlada. O CPC 28 traz o seguinte:
+15. Em alguns casos, a entidade possui propriedade que está arrendada e ocupada por sua controladora ou
+por outra controlada. A propriedade não se qualifica como propriedade para investimento nas
+demonstrações contábeis consolidadas, porque a propriedade está ocupada pelo proprietário sob a
+perspectiva do grupo. Porém, da perspectiva da entidade que a possui, tal propriedade é propriedade para
+investimento se satisfizer a definição do item 5. Por isso, o arrendador trata a propriedade como propriedade
+para investimento nas suas demonstrações contábeis individuais.
+Assim, temos que no balanço individual (arrendador/controladora) pode ser classificada como propriedade
+para investimento (caso atenda à definição). Já no balanço consolidado, não é propriedade para investimento,
+pois sob a perspectiva do grupo caracteriza-se como uma propriedade ocupada.
+Logo, no caso da questão, nas demonstrações consolidadas deve ser classificado como imobilizado (o qual
+deve ser mensurado ao custo, pois a legislação não prevê possibilidade de ser valor justo). Além disso, pela
+questão da paridade, a propriedade para investimento (demonstração individual) também deverá ser
+mensurada ao custo.
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                  24
+        www.estrategiaconcursos.com.br                                                                    39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Gabarito: E
+11. (FGV/Fiscal/Pref. RJ/2023) Uma empresa de estacionamento aluga vagas específicas no seu terreno.
+Todas as vagas do estacionamento são alugadas por meio de um contrato padrão. Pelo contrato, o cliente
+obtém o direito exclusivo de estacionar em uma vaga específica durante todo o período do contrato. A
+empresa não pode alterar o espaço designado ao cliente. A vaga no estacionamento atribuída é identificada
+por um número pintado no chão e os custos de manutenção não são significativos. Nesse caso, considerando-
+se as informações apresentadas, o estacionamento deve ser contabilizado como:
+a) imobilizado;
+b) propriedade para investimento;
+c) estoque;
+d) ativo circulante mantido para venda;
+e) intangível.                                            ==219a34==
+
+Comentários
+Essa questão, em tese, permite duas conclusões: classificação como imobilizado, por se tratar de uma
+empresa de estacionamento e classificação como propriedade para investimento, conforme justificativa
+apresentada pela banca após os recursos:
+
+Em suma, seguindo o entendimento da banca em uma eventual nova questão nesse sentido, temos no caso
+de uma empresa de estacionamento (locadora) que:
+a) aluguel por hora (estacionamento rotativo, sem direito exclusivo a uma vaga específica) das vagas de
+estacionamento: vagas classificadas como imobilizado (trata-se de uma prestação de serviço, a empresa usa
+essas vagas nas suas atividades finalísticas: serviço de estacionamento);
+b) o aluguel de vaga específica (direito exclusivo), comumente conhecido como “vaga mensalista”: vagas
+classificadas como propriedade para investimento.
+Gabarito: B
+12. (FGV/Analista/Câmara dos Deputados/2023) A Cia. Bela tem como atividade exclusiva a venda de
+roupas. Ela possuía uma loja própria em um shopping, onde mantinha as suas atividades. Em 31/12/2021, a
+Cia. Bela adquiriu uma nova loja por R$100.000, para pagamento em 3 anos. Caso o pagamento tivesse sido
+à vista, o valor pago seria de R$80.000. No momento da compra, esta loja foi alugada a terceiros. Após o
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             25
+         www.estrategiaconcursos.com.br                                                               39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+reconhecimento inicial, a Cia. Bela optou por mensurar a nova loja ao valor justo, que era de R$120.000. Em
+31/12/2022, o valor justo da loja era de R$130.000. Na data, a sociedade empresária decidiu utilizar esta
+loja também para a venda de roupas, ampliando os seus negócios. Na data, a sociedade empresária estimava
+utilizar a loja por 25 anos. Assinale a opção que indica o valor da loja no balanço patrimonial da Cia. Bela
+em 01/01/2023.
+a) R$130.000.
+b) R$124.000.
+c) R$120.000.
+d) R$100.000.
+e) R$80.000.
+Comentários
+A questão ilustra um contexto de transferência de propriedade para investimento contabilizada pelo valor
+justo para propriedade ocupada pelo proprietário. Nesse caso, usa-se o valor justo na data da alteração de
+uso, conforme previsto no CPC 28:
+60. Para a transferência de propriedade para investimento contabilizada pelo valor justo para propriedade ocupada
+pelo proprietário ou para estoque, o custo considerado da propriedade para subsequente contabilização, de acordo
+com o CPC 27, o CPC 06 ou o CPC 16, deve ser o seu valor justo na data da alteração de uso.
+Gabarito: A
+13. (FGV/Investigador/PC-AM/2022) Uma entidade adquiriu um terreno por R$ 200.000. A entidade ainda
+não determinou como irá utilizar o terreno. Em seu balanço patrimonial, o terreno deve ser contabilizado como
+a) ativo circulante.
+b) ativo imobilizado.
+c) ativo intangível.
+d) propriedade para Investimento.
+e) ativo realizável a longo prazo.
+Comentários
+Entre os exemplos de propriedades para investimentos, o CPC 28 descreve o seguinte:
+    ▪ terrenos mantidos para futuro uso correntemente indeterminado (se a entidade não tiver
+      determinado que usará o terreno como propriedade ocupada pelo proprietário ou para venda a curto
+      prazo no curso ordinário do negócio, o terreno é considerado como mantido para valorização do
+      capital);
+Observe que o caso apresentado pela questão se enquadra exatamente nesse exemplo.
+Gabarito: D
+14. (FGV/Auditor/SEFAZ-AM/2022) Uma sociedade empresária que presta serviços de auditoria possui um
+terreno que é mantido para valorização de capital a longo prazo. Em relação à mensuração do terreno no
+balanço patrimonial da sociedade empresária, ela deve
+a) usar o método do custo.
+b) usar o método do valor justo.
+c) usar o método do custo de reposição
+d) escolher entre o método do valor justo e o método do custo.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                     26
+         www.estrategiaconcursos.com.br                                                                       39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+e) escolher entre o método do valor justo e o método do valor presente.
+Comentários
+Como o terreno é mantido para valorização de capital, se caracteriza como uma propriedade para
+investimento. Lembre-se que no reconhecimento inicial mensuramos ao custo. Porém, após o reconhecimento
+inicial, a entidade pode optar entre o método do valor justo e o método do custo.
+A questão se insere em um contexto de mensuração subsequente, pois é informado que a empresa “possui um
+terreno”.
+Gabarito: D
+15. (FGV/Auditor/MPE-GO/2022) Uma sociedade empresária possuía um imóvel que alugava a outra pessoa
+jurídica. Nesse imóvel funcionava uma escola. A sociedade empresária prestava serviços de apoio à escola,
+sendo responsável pela administração, definição do material didático, orientação pedagógica e alimentação.
+Assinale a opção que indica a contabilização do imóvel no balanço patrimonial da sociedade empresária,
+considerando as características da negociação.
+a) Ativo circulante.
+b) Ativo realizável a longo prazo.
+c) Propriedade para investimento.
+d) Ativo Imobilizado.
+e) Patrimônio Líquido.
+Comentários
+A questão explora um contexto no qual há prestação de serviços de apoio. Nesse caso, temos a aplicação dos
+itens a seguir do CPC 28:
+11. Em alguns casos, a entidade proporciona serviços de apoio aos ocupantes da propriedade que ela mantenha.
+A entidade trata tal propriedade como propriedade para investimento se os serviços forem insignificantes em
+relação ao acordo como um todo. Um exemplo é quando o proprietário de edifício de escritórios proporciona
+serviços de segurança e de manutenção aos arrendatários que ocupam o edifício.
+12. Em outros casos, os serviços prestados são significativos. Por exemplo, se a entidade possui e administra um
+hotel, os serviços proporcionados aos hóspedes são significativos para o acordo como um todo. Por isso, o hotel
+administrado pelo proprietário é propriedade ocupada pelo proprietário e não propriedade para investimento
+Observe que temos nesse caso verificar se os serviços são significativos ou não.
+No caso da questão, observe que a entidade era responsável por diversos serviços (administração, definição
+do material didático, orientação pedagógica e alimentação), todos relacionados à atividade fim de uma
+escola. Logo, esses serviços são considerados relevantes e, portanto, devemos classificar a propriedade como
+ocupada (imobilizado).
+Gabarito: D
+16. (FGV/Analista/Senado/2022) Uma instituição de ensino adquiriu dois terrenos, para serem utilizados para
+aluguel a terceiros, por R$80.000 e por R$100.000 respectivamente. Os terrenos são mensurados a valor
+justo, com efeito nas Demonstrações Contábeis. No ano seguinte, avaliou-se que cada terreno tinha valor justo
+de R$90.000. O ganho e a perda proveniente da alteração no valor justo dos terrenos devem ser
+apresentados, respectivamente, na(s) seguinte(s) demonstração(ões) contábil(eis):
+a) Demonstração do Resultado do Exercício e Demonstração do Resultado do Exercício.
+b) Demonstrações das Mutações do Patrimônio Líquido e Demonstrações das Mutações do Patrimônio Líquido.
+c) Demonstração dos Resultados Abrangentes e Demonstração dos Resultados Abrangentes.
+d) Demonstração do Resultado do Exercício e Demonstração dos Resultados Abrangentes.
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    27
+         www.estrategiaconcursos.com.br                                                                      39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+e) Demonstrações das Mutações do Patrimônio Líquido e Demonstração do Resultado do Exercício.
+Comentários
+Como os terrenos são alugados a terceiros, são classificados como propriedades para investimento. Segundo
+o CPC 28,
+35. O ganho ou a perda proveniente de alteração no valor justo de propriedade para investimento deve ser
+reconhecido no resultado do período em que ocorra.
+Logo, nesse caso temos a evidenciação na demonstração do resultado do exercício.
+Gabarito: A
+17. (FGV/Contador/CM Aracaju/2022) Conceitualmente, propriedade para investimento se refere à uma
+propriedade (terreno ou edificação – ou parte da edificação – ou ambos) mantida pela entidade para auferir
+receitas de aluguel ou para valorização do capital, ou para ambas. No Balanço Patrimonial, esse item deve
+ser apresentado no subgrupo:
+a) ativo imobilizado;
+b) ativo realizável a longo prazo;
+c) ajustes de avaliação patrimonial;
+d) investimentos;
+e) outros resultados abrangentes.
+Comentários
+Segundo o CPC 28, as propriedades para investimento são mantidas para obter rendas ou para valorização
+do capital ou para ambas, e por isso classificadas no subgrupo Investimentos, dentro do Ativo Não
+Circulante.
+Gabarito: D
+18. (FGV/Auditor/MPE-AL/2018) Uma entidade possuía, em 31/12/2016, dois terrenos, que estavam
+contabilizados em seu ativo imobilizado, por R$ 600.000 e R$ 850.000.
+Em 2017 a entidade transferiu os dois terrenos para a conta Propriedade para Investimento, pois a intenção
+passou a ser valorização do capital.
+Na data da transferência, o valor justo de cada um dos terrenos era de R$ 700.000.
+Assinale a opção que indica o efeito da contrapartida do reconhecimento do valor justo dos dois terrenos.
+a) Diminuição de R$ 50.000 em ajustes de avaliação patrimonial.
+b) Aumento de R$ 50.000 em resultado do exercício.
+c) Diminuição de R$ 50.000 em resultado do exercício.
+d) Aumento de R$ 100.000 em ajustes de avaliação patrimonial e diminuição de R$ 150.000 no resultado do
+exercício.
+e) Diminuição de R$ 150.000 em ajustes de avaliação patrimonial e aumento de R$ 100.000 no resultado do
+exercício.
+Comentários
+Observe que os terrenos estavam classificados no ativo imobilizado (destinados ao uso), ou seja, devemos
+enquadrar o caso como uma transferência de um imóvel ocupado pelo proprietário para propriedade para
+investimento. Nesse sentido, devemos aplicar a seguinte regra:
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    28
+        www.estrategiaconcursos.com.br                                                                      39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+(a) qualquer diminuição resultante no valor contábil da propriedade é reconhecida no resultado (despesa). Porém,
+até o ponto em que a quantia esteja incluída em reavaliação anteriormente procedida nessa propriedade, a
+diminuição é debitada contra esse excedente de reavaliação
+(b) qualquer aumento resultante no valor contábil é tratado como se segue:
+      (i) até o ponto em que o aumento reverta perda anterior por impairment dessa propriedade, o aumento é
+      reconhecido no resultado (receita). A quantia reconhecida no resultado não pode exceder a quantia
+      necessária para repor o valor contábil para o valor contábil que teria sido determinado (líquido de
+      depreciação) caso nenhuma perda por impairment tivesse sido reconhecida;
+      (ii) qualquer parte remanescente do aumento é creditada diretamente no patrimônio líquido, em ajustes de
+      avaliação patrimonial, como parte dos outros resultados abrangentes.
+Observe que para o terreno 1 (R$ 600 mil) tivemos um aumento de R$ 100 mil. Logo, como não há informações
+quanto a perdas anteriormente reconhecidas, esse aumento deve ser creditado diretamente no PL, em ajustes
+de avaliação patrimonial, aplicação do item (ii) acima. O lançamento fica:
+      D – Propriedade p/ Investimentos (AÑC Investimentos) ... 700.000,00
+      C – Terrenos (AÑC Imobilizado) ... 600.000,00
+      C – Ajuste de Avaliação Patrimonial (PL) ... 100.000,00
+Já para o terreno 2 (R$ 850 mil) tivemos uma diminuição de R$ 150 mil e, portanto, devemos reconhecer a
+diferença no resultado como uma despesa. O lançamento fica:
+      D – Propriedade p/ Investimentos (AÑC Investimentos) ... 700.000,00
+      D – Perdas c/ variação a valor justo* (despesa) ... 150.000,00
+      C – Terrenos (AÑC Imobilizado) ... 850.000,00
+* a nomenclatura vai variar, o importante é saber que se trata de uma despesa.
+Gabarito: D
+19. (FGV/Consultor/AL-RO/2018) Em 02/01/2017, uma entidade adquiriu dois terrenos, um por R$100.000
+e outro por R$120.000. Os terrenos foram contabilizados como Propriedade para Investimento, uma vez que
+foram inicialmente mantidos para valorização do capital, e mensurados pelo valor justo, que era
+respectivamente de R$160.000 e de R$200.000.
+Em 31/12/2017, o valor justo de cada terreno era de R$180.000 e R$210.000.
+Com o intuito de utilizar o primeiro terreno em seus negócios e de colocar o segundo a venda, a entidade
+passou a contabilizá-los como propriedade ocupada pelo proprietário e como estoque.
+Assinale a opção que indica o valor de cada terreno no ativo da entidade, em 31/12/2017, após a
+transferência.
+a) R$100.000 e R$120.000.
+b) R$160.000 e R$200.000.
+c) R$180.000 e R$210.000.
+d) R$100.000 e R$210.000.
+e) R$180.000 e R$120.000.
+Comentários
+Questão sobre transferência de propriedades para investimento.
+Terreno 1: valor contábil R$ 100 mil / valor justo R$ 180 mil (aumento de R$ 80 mil)
+Transferência de propriedade para investimento → propriedade ocupada (uso)
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                     29
+        www.estrategiaconcursos.com.br                                                                       39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+Terreno 2: valor contábil R$ 120 mil / valor justo R$ 210 mil (aumento de R$ 90 mil)
+Transferência de propriedade para investimento para estoque
+Nessa questão nem precisamos entrar no mérito da contabilização da diferença entre o valor contábil e o
+valor justo. Bastaria saber que ambos após a transferência devem ser mensurados ao valor justo, nos termos
+do item 60 do CPC 28:
+60. Para a transferência de propriedade para investimento escriturada pelo valor justo para propriedade ocupada
+pelo proprietário ou para estoque, o custo considerado da propriedade para subsequente contabilização de acordo
+com o Pronunciamento Técnico CPC 27 ou o CPC 16 deve ser o seu valor justo à data da alteração de uso.
+Gabarito: C
+20. (FGV/Analista/CODEBA/2016) Em 2015, uma entidade possuía um terreno que era mantido para
+valorização e venda futura.
+Assinale a opção que contém a classificação correta do terreno no balanço patrimonial da entidade.
+a) Ativo Circulante.
+b) Ativo Realizável a Longo Prazo.
+c) Propriedade para Investimentos.
+d) Ativo Imobilizado.
+e) Ativo Intangível.
+Comentários
+Se o terreno era mantido para valorização, há enquadramento como Propriedade para Investimento,
+conforme conceito que estudamos acima.
+Gabarito: C
+
+21. (FGV/Analista/CM Caruaru/2015) Com relação à elaboração do balanço patrimonial, assinale a
+afirmativa correta.
+a) O gado destinado à venda em um frigorífico deve ser contabilizado como ativo biológico.
+b) O saldo de dividendos a ser distribuído, referente ao ano anterior, deve ser contabilizado como ativo
+circulante.
+c) Ganhos na justiça considerados possíveis devem ser contabilizados como ativo circulante.
+d) Imóveis destinados à locação devem ser contabilizados como propriedades para investimento.
+e) As ações em tesouraria devem ser adicionadas ao capital social no patrimônio líquido.
+Comentários
+a. Errado. Ativo biológico é um animal e/ou uma planta viva! Gado em frigorífico é classificado como estoque!
+b. Errado. Dividendos a serem distribuídos são classificados no passivo circulante.
+c. Errado. Ganhos na justiça considerados possíveis não devem ser contabilizados! Em regra, esses ganhos
+possíveis são tratados como ativos contingentes, conforme CPC 25.
+d. Certo. A assertiva está incompleta, mas no conjunto da obra, ou seja, analisando as demais opções esta é a
+“mais correta. De fato, imóveis destinados à locação podem ser classificados como propriedades para
+investimento.
+e. Errado. As ações em tesouraria devem ser deduzidas do capital social no PL. Trata-se de uma conta redutora
+do PL.
+Gabarito: D
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   30
+         www.estrategiaconcursos.com.br                                                                     39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+                   LISTA DAS QUESTÕES – CPC 28 – FGV
+1. (FGV/Analista/CM Fortaleza/2024) Uma sociedade empresária presta serviços contábeis. Em 2022, ela
+percebeu que estavam construindo um shopping ao lado de seu escritório e constatou que a área iria se
+valorizar. Deste modo, adquiriu um terreno na região e iniciou a construção de um prédio, que destinaria a
+aluguel para terceiros, quando pronto. Assinale a opção que indica, respectivamente, a classificação do
+terreno, ainda em construção, e do prédio construído no balanço patrimonial da sociedade empresária.
+a) Imobilizado e circulante.
+b) Imobilizado e Imobilizado.
+c) Imobilizado e Propriedade para Investimento.
+d) Propriedade para Investimento e Imobilizado.
+e) Propriedade para Investimento e Propriedade para Investimento.
+2. (FGV/Analista/CVM/2024) Uma empresa S.A. possui uma propriedade classificada como propriedade
+para investimento. Em 31 de outubro de 2024, a empresa altera a intenção de uso e decide utilizar a
+propriedade como sede administrativa devido a uma expansão de seus negócios. Em 31 de dezembro de
+2024, a empresa inicia a reforma para uso próprio; nesse momento, os construtores estão no local realizando
+os trabalhos de reforma com vista à ocupação pela empresa. Em 31 de março de 2025, a reforma é encerrada
+e, em 30 de abril, a sede da empresa e seus funcionários começam a utilizar a propriedade. Em 30 de junho
+de 2025, a empresa reclassifica, para a divulgação trimestral, a propriedade para investimento como
+imobilizado. Considerando as informações apresentadas e os preceitos do CPC 28, o inspetor da CVM
+identificou que a empresa deveria ter reclassificado a propriedade em:
+a) 31 de outubro de 2024;
+b) 31 de dezembro de 2024;
+c) 31 de março de 2025;
+d) 30 de abril de 2025;
+e) 30 de junho de 2025.
+3. (FGV/Auditor/STN/2024) Em 31/12/2021, a Cia Estrela adquiriu um terreno por R$200.000. O uso do
+terreno, naquele momento, era indeterminado. A empresa escolheu mensurar o terreno pelo valor justo.
+Em 31/12/2022 e em 31/12/2023, os valores justos do terreno eram, respectivamente, de R$190.000 e de
+R$220.000. Assinale a opção que indica a contrapartida do reconhecimento do ganho decorrente da
+alteração no valor justo em 31/12/2023.
+a) Resultado: R$10.000.
+b) Resultado: R$30.000.
+c) Ajuste de Avaliação Patrimonial: R$20.000.
+d) Ajuste de Avaliação Patrimonial: R$30.000.
+e) Resultado: R$10.000 e Ajuste de Avaliação Patrimonial: R$20.000.
+4. (FGV/Auditor/CGE-PB/2024) A companhia pode ter imóveis que sejam mantidos para fins de locação ou
+arrendamento ou para fins de valorização da propriedade, tendo em vista uma futura venda a terceiros, ou
+ambos os objetivos. A propriedade (terreno ou edifício) pode ser mantida pelo proprietário ou pelo
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                31
+        www.estrategiaconcursos.com.br                                                                  39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+arrendatário para auferir aluguel ou para valorização do capital ou para ambos. Dessa forma, a empresa
+pode escolher mensurar como política contábil de suas propriedades para investimento o método do valor:
+a) justo ou método do custo e deve aplicar a política de custo para os edifícios e valor justo para os terrenos;
+b) justo ou método do custo e deve aplicar a política escolhida a todas as suas propriedades para
+investimento;
+c) em uso e método do custo corrente e deve aplicar a política de valor em uso para os edifícios e custo
+corrente para os terrenos;
+d) de cumprimento ou método do custo e deve aplicar a política de custo para os edifícios e valor de
+cumprimento para os terrenos;
+e) de mercado ou método do custo corrente e deve aplicar a política escolhida a todas as suas propriedades
+para investimento.
+5. (FGV/Analista/TJ-AP/2024) Uma empresa S/A, cujo objeto social é a administração, exploração e/ou
+controle da atividade de estacionamento de veículos, possui um terreno. Contudo, não definiu ainda se irá
+utilizá-lo como propriedade ocupada pelo proprietário ou para venda no curto prazo no curso ordinário do
+negócio. Com base nas informações apresentadas, o terreno deve ser considerado no ativo não circulante
+como:
+a) intangível;
+b) imobilizado;
+c) investimento;
+d) propriedade para investimento;
+e) ativo não circulante mantido para venda.
+6. (FGV/Analista/ALETO/2024) Uma sociedade empresária presta serviços de consultoria jurídica. Em
+02/01/2024, ela adquiriu 3 terrenos vizinhos, mas de tamanhos diferentes, pelos seguintes custos e com os
+seguintes objetivos:
+Terreno A: R$30.000; construção de estacionamento para que os funcionários estacionem seus carros.
+Terreno B: R$40.000; valorização de capital a longo prazo.
+Terreno C: R$50.000; construção da nova sede da empresa.
+Assinale a opção que indica os montantes adicionados a cada grupo do balanço patrimonial da sociedade
+empresária, com a compra dos terrenos.
+a) Investimentos: R$40.000; Imobilizado: R$80.000.
+b) Investimentos: R$70.000; Imobilizado: R$50.000.
+c) Realizável a Longo Prazo: R$40.000; Imobilizado: R$80.000.
+d) Realizável a Longo Prazo: R$40.000; Investimentos: R$80.000.
+e) Realizável a Longo Prazo: R$40.000; Investimentos: R$30.000; Imobilizado: R$50.000.
+7. (FGV/Auditor/SEFAZ-MG/2023) Uma instituição de ensino adquiriu, em 01/01/X0, um prédio para alugar
+a terceiros por R$500.000. A vida útil do prédio foi estimada em 50 anos. Após o reconhecimento inicial, a
+instituição de ensino escolheu mensurar o prédio pelo método do valor justo, com acréscimo reconhecido
+anualmente na Demonstração do Resultado. Na data, este era de R$600.000. Em 31/12/X1, a instituição
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                    32
+         www.estrategiaconcursos.com.br                                                                      39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+decidiu que iria utilizar o prédio em seus negócios, passando a contabilizá-lo como ativo imobilizado. Na
+data, o valor justo do prédio era de R$700.000. Assinale a opção que indica o valor contábil do prédio no
+balanço patrimonial da instituição de ensino, em 31/12/X1.
+a) R$480.000.
+b) R$500.000.
+c) R$576.000.
+d) R$600.000.
+e) R$700.000.
+8. (FGV/Analista/Receita Federal/2023) Uma entidade tinha seu modelo de negócios estruturado para a
+venda de terrenos. Em 01/01/X0, o seu estoque era de R$270.000, tendo a seguinte composição:
+   •   Terreno A: R$120.000
+   •   Terreno B: R$150.000.
+Em 31/01/X0, teve início um processo de melhorias na região onde os terrenos estão localizados. Por isso, a
+entidade decidiu retirar os terrenos de venda e mantê-los para valorização de capital a longo prazo, definindo
+mensurá-los pelo valor justo.
+Na data, o valor justo do Terreno A era de R$160.000 e o do Terreno B, de R$140.000.
+Assinale a opção que indica o efeito da mudança da intenção da administração nas demonstrações contábeis
+da entidade.
+a) Demonstração do Resultado do Exercício: +R$30.000.
+b) Demonstração das Mutações do Patrimônio Líquido: +R$30.000.
+c) Demonstração de Outros Resultados Abrangentes: +R$30.000.
+d) Demonstração do Resultado do Exercício: +R$40.000; Demonstração das Mutações do Patrimônio Líquido:
+–R$10.000.
+e) Demonstração das Mutações do Patrimônio Líquido: +R$40.000; Demonstração do Resultado do Exercício:
+–R$10.000.
+9. (FGV/Analista/Receita Federal/2023) Uma sociedade empresária apresentava os seguintes ativos em seu
+Balanço Patrimonial, em 31/12/X0:
+   • Caixa: R$200.000;
+   • Terreno mantido para futuro uso correntemente indeterminado: R$70.000;
+   • Edifício arrendado para terceiros sob arrendamento operacional: R$120.000;
+   • Edifício desocupado, mantido para ser arrendado para terceiros sob arrendamento operacional:
+       R$140.000;
+   • Propriedade em construção para futura utilização como propriedade para investimento: R$150.000.
+Assinale a opção que indica o saldo da conta Propriedade para Investimento no Balanço Patrimonial da
+sociedade empresária na data.
+a) R$150.000.
+b) R$220.000.
+
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   33
+        www.estrategiaconcursos.com.br                                                                     39
+
+                                     
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+c) R$260.000.
+d) R$410.000.
+e) R$480.000.
+10. (FGV/Analista/Pref. RJ/2023) A administração de uma empresa S/A apresentou em suas demonstrações
+financeiras individuais um ativo classificado como propriedade para investimento e mensurado a valor justo.
+Ainda, esse mesmo ativo foi classificado como imobilizado nas demonstrações financeiras consolidadas e
+mensurado, também, a valor justo. Nesse caso, considerando somente as informações apresentadas e os
+preceitos das Normas (Pronunciamentos, Orientações e Interpretações) emitidas pelo CPC, é correto afirmar
+que:
+a) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, a
+empresa deveria ter reconhecido o ativo como propriedade para investimento em ambos os balanços;
+b) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, a
+empresa aplicou o critério de mensuração a valor justo para o mesmo ativo nas demonstrações financeiras e
+consolidadas;
+c) esse procedimento proporciona o devido alinhamento entre os requerimentos normativos disciplinados nas
+Normas (Pronunciamentos, Orientações e Interpretações) emitidas pelo CPC;
+d) as propriedades para investimento devem ser avaliadas ao valor justo e a reavaliação do valor justo deve
+ser incorporada ao ativo imobilizado com efeitos no resultado e no patrimônio líquido consolidado;
+e) em razão da obrigatória paridade de patrimônios líquidos entre o balanço individual e consolidado, o
+critério de custo deveria ter sido utilizado para as propriedades para investimento e para o imobilizado.
+11. (FGV/Fiscal/Pref. RJ/2023) Uma empresa de estacionamento aluga vagas específicas no seu terreno.
+Todas as vagas do estacionamento são alugadas por meio de um contrato padrão. Pelo contrato, o cliente
+obtém o direito exclusivo de estacionar em uma vaga específica durante todo o período do contrato. A
+empresa não pode alterar o espaço designado ao cliente. A vaga no estacionamento atribuída é identificada
+por um número pintado no chão e os custos de manutenção não são significativos. Nesse caso, considerando-
+se as informações apresentadas, o estacionamento deve ser contabilizado como:
+a) imobilizado;
+b) propriedade para investimento;
+c) estoque;
+d) ativo circulante mantido para venda;
+e) intangível.
+12. (FGV/Analista/Câmara dos Deputados/2023) A Cia. Bela tem como atividade exclusiva a venda de
+roupas. Ela possuía uma loja própria em um shopping, onde mantinha as suas atividades. Em 31/12/2021, a
+Cia. Bela adquiriu uma nova loja por R$100.000, para pagamento em 3 anos. Caso o pagamento tivesse sido
+à vista, o valor pago seria de R$80.000. No momento da compra, esta loja foi alugada a terceiros. Após o
+reconhecimento inicial, a Cia. Bela optou por mensurar a nova loja ao valor justo, que era de R$120.000. Em
+31/12/2022, o valor justo da loja era de R$130.000. Na data, a sociedade empresária decidiu utilizar esta
+loja também para a venda de roupas, ampliando os seus negócios. Na data, a sociedade empresária estimava
+utilizar a loja por 25 anos. Assinale a opção que indica o valor da loja no balanço patrimonial da Cia. Bela
+em 01/01/2023.
+a) R$130.000.
+b) R$124.000.
+c) R$120.000.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                34
+         www.estrategiaconcursos.com.br                                                                  39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+d) R$100.000.
+e) R$80.000.
+13. (FGV/Investigador/PC-AM/2022) Uma entidade adquiriu um terreno por R$ 200.000. A entidade ainda
+não determinou como irá utilizar o terreno. Em seu balanço patrimonial, o terreno deve ser contabilizado como
+a) ativo circulante.
+b) ativo imobilizado.
+c) ativo intangível.
+d) propriedade para Investimento.
+e) ativo realizável a longo prazo.
+14. (FGV/Auditor/SEFAZ-AM/2022) Uma sociedade empresária que presta serviços de auditoria possui um
+terreno que é mantido para valorização de capital a longo prazo. Em relação à mensuração do terreno no
+balanço patrimonial da sociedade empresária, ela deve
+a) usar o método do custo.
+b) usar o método do valor justo.
+c) usar o método do custo de reposição
+d) escolher entre o método do valor justo e o método do custo.
+e) escolher entre o método do valor justo e o método do valor presente.
+15. (FGV/Auditor/MPE-GO/2022) Uma sociedade empresária possuía um imóvel que alugava a outra pessoa
+jurídica. Nesse imóvel funcionava uma escola. A sociedade empresária prestava serviços de apoio à escola,
+sendo responsável pela administração, definição do material didático, orientação pedagógica e alimentação.
+Assinale a opção que indica a contabilização do imóvel no balanço patrimonial da sociedade empresária,
+considerando as características da negociação.
+a) Ativo circulante.
+b) Ativo realizável a longo prazo.
+c) Propriedade para investimento.
+d) Ativo Imobilizado.
+e) Patrimônio Líquido.
+16. (FGV/Analista/Senado/2022) Uma instituição de ensino adquiriu dois terrenos, para serem utilizados para
+aluguel a terceiros, por R$80.000 e por R$100.000 respectivamente. Os terrenos são mensurados a valor
+justo, com efeito nas Demonstrações Contábeis. No ano seguinte, avaliou-se que cada terreno tinha valor justo
+de R$90.000. O ganho e a perda proveniente da alteração no valor justo dos terrenos devem ser
+apresentados, respectivamente, na(s) seguinte(s) demonstração(ões) contábil(eis):
+a) Demonstração do Resultado do Exercício e Demonstração do Resultado do Exercício.
+b) Demonstrações das Mutações do Patrimônio Líquido e Demonstrações das Mutações do Patrimônio Líquido.
+c) Demonstração dos Resultados Abrangentes e Demonstração dos Resultados Abrangentes.
+d) Demonstração do Resultado do Exercício e Demonstração dos Resultados Abrangentes.
+e) Demonstrações das Mutações do Patrimônio Líquido e Demonstração do Resultado do Exercício.
+17. (FGV/Contador/CM Aracaju/2022) Conceitualmente, propriedade para investimento se refere à uma
+propriedade (terreno ou edificação – ou parte da edificação – ou ambos) mantida pela entidade para auferir
+receitas de aluguel ou para valorização do capital, ou para ambas. No Balanço Patrimonial, esse item deve
+ser apresentado no subgrupo:
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                 35
+         www.estrategiaconcursos.com.br                                                                   39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+a) ativo imobilizado;
+b) ativo realizável a longo prazo;
+c) ajustes de avaliação patrimonial;
+d) investimentos;
+e) outros resultados abrangentes.
+18. (FGV/Auditor/MPE-AL/2018) Uma entidade possuía, em 31/12/2016, dois terrenos, que estavam
+contabilizados em seu ativo imobilizado, por R$ 600.000 e R$ 850.000.
+Em 2017 a entidade transferiu os dois terrenos para a conta Propriedade para Investimento, pois a intenção
+passou a ser valorização do capital.
+Na data da transferência, o valor justo de cada um dos terrenos era de R$ 700.000.
+Assinale a opção que indica o efeito da contrapartida do reconhecimento do valor justo dos dois terrenos.
+a) Diminuição de R$ 50.000 em ajustes de avaliação patrimonial.
+b) Aumento de R$ 50.000 em resultado do exercício.
+c) Diminuição de R$ 50.000 em resultado do exercício.
+d) Aumento de R$ 100.000 em ajustes de avaliação patrimonial e diminuição de R$ 150.000 no resultado do
+exercício.
+e) Diminuição de R$ 150.000 em ajustes de avaliação patrimonial e aumento de R$ 100.000 no resultado do
+exercício.
+19. (FGV/Consultor/AL-RO/2018) Em 02/01/2017, uma entidade adquiriu dois terrenos, um por R$100.000
+e outro por R$120.000. Os terrenos foram contabilizados como Propriedade para Investimento, uma vez que
+foram inicialmente mantidos para valorização do capital, e mensurados pelo valor justo, que era
+respectivamente de R$160.000 e de R$200.000.
+Em 31/12/2017, o valor justo de cada terreno era de R$180.000 e R$210.000.
+Com o intuito de utilizar o primeiro terreno em seus negócios e de colocar o segundo a venda, a entidade
+passou a contabiliza-los como propriedade ocupada pelo proprietário e como estoque.
+Assinale a opção que indica o valor de cada terreno no ativo da entidade, em 31/12/2017, após a
+transferência.
+a) R$100.000 e R$120.000.
+b) R$160.000 e R$200.000.
+c) R$180.000 e R$210.000.
+d) R$100.000 e R$210.000.
+e) R$180.000 e R$120.000.
+20. (FGV/Analista/CODEBA/2016) Em 2015, uma entidade possuía um terreno que era mantido para
+valorização e venda futura.
+Assinale a opção que contém a classificação correta do terreno no balanço patrimonial da entidade.
+a) Ativo Circulante.
+b) Ativo Realizável a Longo Prazo.
+c) Propriedade para Investimentos.
+d) Ativo Imobilizado.
+e) Ativo Intangível.
+
+
+         Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati                   36
+         www.estrategiaconcursos.com.br                                                                     39
+
+                                      
+
+
+---
+
+  Gilmar Possati
+  Aula 23
+
+21. (FGV/Analista/CM Caruaru/2015) Com relação à elaboração do balanço patrimonial, assinale a
+afirmativa correta.
+a) O gado destinado à venda em um frigorífico deve ser contabilizado como ativo biológico.
+b) O saldo de dividendos a ser distribuído, referente ao ano anterior, deve ser contabilizado como ativo
+circulante.
+c) Ganhos na justiça considerados possíveis devem ser contabilizados como ativo circulante.
+d) Imóveis destinados à locação devem ser contabilizados como propriedades para investimento.
+e) As ações em tesouraria devem ser adicionadas ao capital social no patrimônio líquido.
+
+                                                         ==219a34==
+
+        Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati             37
+        www.estrategiaconcursos.com.br                                                               39
+
+                                     
+
+
+---
+
+Gilmar Possati
+Aula 23
+
+                                               GABARITO
+
+
+          1.       2.       3.       4.       5.       6.       7.       8.       9.     10.   11.
+          E        B        B        B        D        A        E        A        E      E     B
+          12.      13.      14.      15.      16.      17.      18.      19.      20.    21.
+          A        D        D        D        A        D        D        C        C      D
+
+      Receita Federal (Analista Tributário) Contabilidade Geral - Prof. Gilmar Possati               38
+      www.estrategiaconcursos.com.br                                                                 39
+
+                                   
+
+
+---
+
+---

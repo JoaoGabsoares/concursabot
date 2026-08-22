@@ -1,0 +1,467 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 08_016_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: LOGÍSTICA E SUPPLY CHAIN
+---
+
+# LOGÍSTICA E SUPPLY CHAIN
+
+---
+
+---
+
+LOGÍSTICA E SUPPLY CHAIN
+MANAGEMENT
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - IX
+                                                Prof. Ricardo Campanario
+
+           
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) A
+     logística é composta de vários processos que tranquilamente podem ser alvos de um
+     estudo completamente à parte, tamanha é a complexidade de cada um. Qual é o
+     processo logístico que tem, em sua maior complexidade, a escolha do local da
+     instalação e seu controle eficiente?
+     a) Sistemas de informação.
+     b) Distribuição física.
+     c) Roteirização.
+     d) Transporte.
+     e) Estocagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atribuições da área de Materiais
+       O famoso tripé: compras, estoques e distribuição
+       ❑ Note que, como sempre, em administração de materiais estamos falando na busca
+         da eficiência por meio da otimização de todos os processos e da redução de custos.
+
+
+                                                                             Gestão de
+                                                                             Estoques
+
+                                                                             Atividades
+                                                                             da área de
+                                                                             materiais
+
+
+                                                                                          Gestão de
+                                                          Gestão de
+                                                          Compras                         Centros de
+                                                                                          Distribuição
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) A
+     logística é composta de vários processos que tranquilamente podem ser alvos de um
+     estudo completamente à parte, tamanha é a complexidade de cada um. Qual é o
+     processo logístico que tem, em sua maior complexidade, a escolha do local da
+     instalação e seu controle eficiente?
+     a) Sistemas de informação.
+     b) Distribuição física.
+     c) Roteirização.
+     d) Transporte.
+     e) Estocagem.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) A
+     logística é uma ferramenta importante e o profissional de logística empresarial estuda
+     como prover, de forma eficiente, a lucratividade. Assinale a alternativa que apresenta
+     algumas das atividades que envolvem estudos logísticos para prover a lucratividade.
+     a) Controle de transporte de embalagens e planejamento de controle da produção.
+     b) Racionalização dos gastos operacionais e minimização do emprego de pessoas.
+     c) Implementação de robótica industrial e limitação de volumes de compras.
+     d) Definição de composto de produtos e Articulação de mídias sociais.
+     e) Planejamento do composto de marketing e definição dos meios de comunicação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (INSTITUTO AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) A
+     logística é uma ferramenta importante e o profissional de logística empresarial estuda
+     como prover, de forma eficiente, a lucratividade. Assinale a alternativa que apresenta
+     algumas das atividades que envolvem estudos logísticos para prover a lucratividade.
+     a) Controle de transporte de embalagens e planejamento de controle da produção.
+     b) Racionalização dos gastos operacionais e minimização do emprego de pessoas.
+     c) Implementação de robótica industrial e limitação de volumes de compras.
+     d) Definição de composto de produtos e Articulação de mídias sociais.
+     e) Planejamento do composto de marketing e definição dos meios de comunicação.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (SELECON/EMGEPRON/Técnico/2021) Para a logística, é possível fazer
+     armazenagem inteligente e eficiente, tornando a empresa mais competitiva. Atingir esse
+     objetivo se torna mais fácil por meio da aplicação de algumas ações importantes, o que
+     facilita a rotina do almoxarife. Entre essas ações, destaca-se:
+     a) fazer inventários sem interromper a operação do armazém/almoxarifado.
+     b) elaborar mapas de entrega para atendimento apenas para clientes internos.
+     c) implantar indicadores de desempenho definidos pela organização.
+     d) utilizar as metodologias de controle Curva ABC, Kanban e KPI, o que não interfere no
+     processo de melhoria da organização.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (SELECON/EMGEPRON/Técnico/2021) Para a logística, é possível fazer
+     armazenagem inteligente e eficiente, tornando a empresa mais competitiva. Atingir esse
+     objetivo se torna mais fácil por meio da aplicação de algumas ações importantes, o que
+     facilita a rotina do almoxarife. Entre essas ações, destaca-se:
+     a) fazer inventários sem interromper a operação do armazém/almoxarifado.
+     b) elaborar mapas de entrega para atendimento apenas para clientes internos.
+     c) implantar indicadores de desempenho definidos pela organização.
+     d) utilizar as metodologias de controle Curva ABC, Kanban e KPI, o que não interfere no
+     processo de melhoria da organização.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CEV URCA/Pref. Mun. Crato-CE/Analista/2021) A área da logística responsável pelo
+     retorno de materiais já utilizados no pós-consumo, por seus canais de distribuição, para
+     reaproveitamento (reutilização, redução e reciclagem) ou descarte ambientalmente
+     adequado é conhecida como:
+     a) Logística Organizacional.
+     b) Logística Reversa.
+     c) Logística de Manufatura.
+     d) Logística de Zoneamento.
+     e) Logística de Abastecimento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Pós Consumo x Pós Venda
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (CEV URCA/Pref. Mun. Crato-CE/Analista/2021) A área da logística responsável pelo
+     retorno de materiais já utilizados no pós-consumo, por seus canais de distribuição, para
+     reaproveitamento (reutilização, redução e reciclagem) ou descarte ambientalmente
+     adequado é conhecida como:
+     a) Logística Organizacional.
+     b) Logística Reversa.
+     c) Logística de Manufatura.
+     d) Logística de Zoneamento.
+     e) Logística de Abastecimento.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FGV/FUN SAÚDE CE/Analista/2021) A logística pode ser entendida como um conjunto de ações
+     desenvolvidas com a finalidade de entregar os produtos certos, no local planejado e no tempo
+     combinado. Considerando o contexto de logística, analise as afirmativas a seguir.
+     I. Transportes e manutenção de estoques são exemplos de atividades primárias.
+     II. Obtenção, programação do produto e processamento de pedidos fazem parte das atividades de
+     apoio.
+     III. Armazenagem e manutenção de informações relacionam-se ao mesmo tipo de atividade primária.
+     Está correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) I e II, apenas.
+     d) I e III, apenas.
+     e) II e III, apenas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+Atividades Logísticas
+Primárias e de Apoio
+❑ Note que, embora o autor use terminologia específica, as três
+  atividades que ele rotula como atividades primárias:
+  processamento de pedidos, manutenção de estoques e
+  transporte, estão diretamente ligadas aos três grandes grupos
+  de atividades que estudamos em administração de materiais.
+
+                                       
+
+
+---
+
+       Questão Comentada
+     05. (FGV/FUN SAÚDE CE/Analista/2021) A logística pode ser entendida como um conjunto de ações
+     desenvolvidas com a finalidade de entregar os produtos certos, no local planejado e no tempo
+     combinado. Considerando o contexto de logística, analise as afirmativas a seguir.
+     I. Transportes e manutenção de estoques são exemplos de atividades primárias.
+     II. Obtenção, programação do produto e processamento de pedidos fazem parte das atividades de
+     apoio.
+     III. Armazenagem e manutenção de informações relacionam-se ao mesmo tipo de atividade primária.
+     Está correto o que se afirma em:
+     a) I, apenas.
+     b) II, apenas.
+     c) I e II, apenas.
+     d) I e III, apenas.
+     e) II e III, apenas.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (INSTITUTO AOCP/SANESUL/Administrador/2021) Assinale a alternativa que apresenta um
+     elemento que demonstra a importância da logística.
+     a) O planejamento do fluxo de pessoas nas organizações, que possibilita melhorar de forma objetiva o
+     dispêndio de recursos organizacionais, mesmo que ocorram alguns desperdícios eventuais.
+     b) A busca pela qualidade, que pode ser um dos objetivos da logística na medida em que o emprego
+     de matérias-primas estratégicas onerosas assegura a continuidade da organização no mercado.
+     c) A organização de empresas, que deve priorizar a qualidade de vida e eficiência com a
+     operacionalidade empresarial, visando à manutenção de determinada região geográfica e territorial.
+     d) A utilização de processos licitatórios no setor público, com preferência na aquisição dos materiais e
+     equipamentos pelo menor custo, favorecendo o desenvolvimento de medidas benéficas à população.
+     e) A utilização eficiente dos conceitos de logística que proporcionam melhora no fluxo de transporte e
+     infraestrutura de cidades, proporcionando, também, ganhos para a economia e no dia a dia da
+     população.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (INSTITUTO AOCP/SANESUL/Administrador/2021) Assinale a alternativa que apresenta um
+     elemento que demonstra a importância da logística.
+     a) O planejamento do fluxo de pessoas nas organizações, que possibilita melhorar de forma objetiva o
+     dispêndio de recursos organizacionais, mesmo que ocorram alguns desperdícios eventuais.
+     b) A busca pela qualidade, que pode ser um dos objetivos da logística na medida em que o emprego
+     de matérias-primas estratégicas onerosas assegura a continuidade da organização no mercado.
+     c) A organização de empresas, que deve priorizar a qualidade de vida e eficiência com a
+     operacionalidade empresarial, visando à manutenção de determinada região geográfica e territorial.
+     d) A utilização de processos licitatórios no setor público, com preferência na aquisição dos materiais e
+     equipamentos pelo menor custo, favorecendo o desenvolvimento de medidas benéficas à população.
+     e) A utilização eficiente dos conceitos de logística que proporcionam melhora no fluxo de transporte e
+     infraestrutura de cidades, proporcionando, também, ganhos para a economia e no dia a dia da
+     população.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/EsFCEx/Curso de Formação/2021) O triângulo do planejamento da
+     logística envolve avaliação das estratégias de estoque, estratégias de transporte e
+     estratégias de localização para satisfazer os objetivos do serviço ao cliente. Uma
+     atividade principal da estratégia de localização se refere a:
+     a) fundamentos da escolha do meio de transporte a partir dos fundamentos de
+     estocagem.
+     b) processos de planejamento da rede.
+     c) fundamentos de compra.
+     d) decisões de compras e de programação dos suprimentos.
+     e) processamento de pedidos e sistemas de informação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/EsFCEx/Curso de Formação/2021) O triângulo do planejamento da
+     logística envolve avaliação das estratégias de estoque, estratégias de transporte e
+     estratégias de localização para satisfazer os objetivos do serviço ao cliente. Uma
+     atividade principal da estratégia de localização se refere a:
+     a) fundamentos da escolha do meio de transporte a partir dos fundamentos de
+     estocagem.
+     b) processos de planejamento da rede.
+     c) fundamentos de compra.
+     d) decisões de compras e de programação dos suprimentos.
+     e) processamento de pedidos e sistemas de informação.
+     GABARITO - B
+                                             Uma rede de logística eficiente não se resume a quantidade de armazéns e CDs
+                                             disponíveis. Mas sim a uma combinação de outros fatores, tais como:
+                                             •    localização estratégica dos pontos de distribuição;
+                                             •    capacidade operacional dessas estruturas;
+                                             •    capacidade tecnológica;
+                                             •    demandas de cada região;
+                                             •    integração com o centro de distribuição principal ou fábrica.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/EsFCEx/Curso de Formação/2021) Quando o embarcador se dispõe a
+     aceitar a possibilidade de uma demora maior do que o padrão normal da entrega em
+     comparação com o serviço regular, em troca de uma redução das tarifas, desde que
+     assegurado que a entrega será feita dentro de um determinado prazo máximo, esta
+     modalidade tarifária é conhecida como:
+     a) sobre valor limitado.
+     b) contratada.
+     c) por cubagem.
+     d) diferida.
+     e) frete geral.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/EsFCEx/Curso de Formação/2021) Quando o embarcador se dispõe a
+     aceitar a possibilidade de uma demora maior do que o padrão normal da entrega em
+     comparação com o serviço regular, em troca de uma redução das tarifas, desde que
+     assegurado que a entrega será feita dentro de um determinado prazo máximo, esta
+     modalidade tarifária é conhecida como:
+     a) sobre valor limitado.
+     b) contratada.                   Tarifas Diferidas ocorrem quando o usuário aceita a possibilidade de um prazo
+     c) por cubagem.                  maior de entrega que o habitual. Para o transportador, essa prática otimiza a
+                                      disponibilidade dos espaços em seus veículos de carga. Os transportadores
+     d) diferida.                     fazem uso deste tipo de frete para otimizar a disponibilização dos espaços. O
+     e) frete geral.                  serviço diferido é utilizado mais frequentemente pelos transportes aéreo e
+                                      aquaviário.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (MARINHA/MARINHA/Oficial/2021) Novaes (2015) dividiu o processo de evolução
+     da Logística em quatro fases. Assinale a opção que refere-se a uma característica da
+     quarta fase, a qual corresponde ao moderno Gerenciamento da Cadeia de Suprimentos
+     (SCM).
+     a) A cadeia de suprimento é comparada a um duto flexível, adaptável às condições
+     externas e uma busca, aparentemente utópica, do estoque zero.
+     b) Integração plena, estratégica e flexível ao longo da cadeia de suprimento, com ênfase
+     absoluta na satisfação do consumidor final.
+     c) O estoque é o elemento-chave no balanceamento da cadeia de suprimento.
+     d) Subsistemas otimizados separadamente, com estoques servindo de pulmão ao longo
+     da cadeia de suprimentos.
+     e) Integração entre os elementos da cadeia de suprimento, formando um duto rígido,
+     com otimização dois a dois.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (MARINHA/MARINHA/Oficial/2021) Novaes (2015) dividiu o processo de evolução
+     da Logística em quatro fases. Assinale a opção que refere-se a uma característica da
+     quarta fase, a qual corresponde ao moderno Gerenciamento da Cadeia de Suprimentos
+     (SCM).
+     a) A cadeia de suprimento é comparada a um duto flexível, adaptável às condições
+     externas e uma busca, aparentemente utópica, do estoque zero.
+     b) Integração plena, estratégica e flexível ao longo da cadeia de suprimento, com ênfase
+     absoluta na satisfação do consumidor final.
+     c) O estoque é o elemento-chave no balanceamento da cadeia de suprimento.
+     d) Subsistemas otimizados separadamente, com estoques servindo de pulmão ao longo
+     da cadeia de suprimentos.
+     e) Integração entre os elementos da cadeia de suprimento, formando um duto rígido,
+     com otimização dois a dois. De acordo com Novaes (2021),
+     GABARITO - B                  “Na quarta fase da Logística ocorre um salto qualitativo da maior importância: as empresas da cadeia de
+                                   suprimento passam a tratar a questão logística de forma estratégica, ou seja, em lugar de otimizar
+                                                 pontualmente as operações, focalizando os procedimentos logísticos como meros geradores de custo, as
+                                                 empresas participantes da cadeia de suprimento passaram a buscar soluções novas, usando a Logística para
+Administração de Materiais para Concursos        ganhar competitividade e para induzir novos negócios”.
+Prof. Ricardo Campanario
+                                                    
+
+
+---
+
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+       ricardocampanario
+                   
+
+
+---
+
+---

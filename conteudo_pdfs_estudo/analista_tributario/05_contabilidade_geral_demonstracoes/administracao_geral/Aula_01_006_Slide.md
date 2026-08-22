@@ -1,0 +1,1279 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 01_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: EMENTA
+artigos_citados:
+- Art. 189.
+- Art. 200.
+- 'artigo
+
+  189'
+---
+
+# EMENTA
+
+EMENTA
+NOÇÕES DE CONTABILIDADE
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+ASPECTOS INTRODUTÓRIOS
+ QUESTÕES CEBRASPE
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+(CEBRASPE/PC-PB/2022)
+Segundo a teoria contábil contemporânea, a contabilidade é mais adequadamente classificada como
+uma
+a) metodologia.
+b) técnica.
+c) arte.
+d) prática.
+e) ciência.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/PC-PB/2022)
+As ciências contábeis são uma ciência social pertencente à área de conhecimento das ciências humanas.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Com relação a conceitos, objetivos e finalidade da contabilidade, julgue os próximos itens.
+I. O principal objetivo da contabilidade inclui fornecer informação útil ao usuário, para a tomada de
+decisão.
+II. Não é finalidade da contabilidade controlar o patrimônio da instituição, pois isso cabe aos sistemas
+de inventário.
+III. A contabilidade tem a responsabilidade de criar o sistema gerencial para apuração de custos.
+IV. A principal função da contabilidade é apurar os tributos federais, estaduais e municipais.
+Assinale a opção correta.
+a) Nenhum item está certo.
+b) Apenas o item I está certo.
+c) Apenas os itens II e III estão certos.
+d) Apenas os itens II e IV estão certos.
+e) Apenas os itens I, III e IV estão certos.
+                                                                             @profgilmarpossati   @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/PC-PB/2022)
+A contabilidade tem por objeto
+a) o registro dos eventos que afetam o patrimônio.
+b) o sistema de contas.
+c) a divulgação de informações úteis ao usuário.
+d) as entidades contábeis em geral.
+e) o patrimônio das entidades.
+
+                                                                           @profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PC-PB/2022)
+A situação patrimonial de uma entidade em dado momento é relatada
+a) pelo balanço patrimonial.
+b) pela demonstração de resultado do exercício.
+c) pela demonstração dos fluxos de caixa.
+d) pelo ativo.
+e) pelo patrimônio líquido.
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    
+
+
+---
+
+(CEBRASPE/FUB/2022)
+O patrimônio de uma entidade é representado, nas demonstrações contábeis, apenas pelos grupos do
+ativo, haja vista os grupos do passivo, que representam o patrimônio de terceiros.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CEBRASPE/FUB/2022)
+A contabilidade tem por finalidade prover seus usuários com informações úteis para as tomadas de
+decisão de natureza econômica, financeira e social.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CEBRASPE/ANP/2022)
+Sob a ótica da ciência contábil, sem patrimônio não existe entidade contábil.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/ANP/2022)
+Fornecer informações úteis que subsidiem o processo de tomada de decisões econômicas é um dos
+principais objetivos da contabilidade.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/PC-SE/2021)
+Contabilidade é a ciência que estuda, interpreta e registra as variações expressas na equação
+fundamental do patrimônio, as quais afetam a situação líquida patrimonial.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/MJ-SP/2021)
+O objeto da ciência contábil é o registro dos atos e fatos que modificam a situação patrimonial das
+entidades.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/MJ-SP/2021)
+A situação patrimonial líquida de uma entidade é expressa pelo conjunto de seus bens, seus direitos e
+suas obrigações.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/PC-MA/2018)
+De acordo com Max Weber, a moderna organização racional da empresa capitalista foi viabilizada pela
+contabilidade racional. Esse pensamento foi corroborado, na ciência contábil, por Vicenzo Masi, que
+identificou como objeto da contabilidade
+a) as contas.
+b) a azienda.
+c) os réditos.
+d) o patrimônio.
+e) o lucro.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/EBSERH/2018)
+O principal objetivo da contabilidade é fornecer informações úteis sobre o patrimônio da entidade para
+finalidades diversas, entre as quais, planejamento, controle e auxílio no processo decisório.
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    
+
+
+---
+
+(CEBRASPE/EBSERH/2018)
+O objeto de estudo da contabilidade são as entidades econômico-administrativas, o que inclui as
+instituições com fins sociais.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/EBSERH/2018)
+A análise de balanços não é considerada uma técnica contábil, tendo em vista que foi formulada e
+desenvolvida no âmbito da administração financeira.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CEBRASPE/Polícia Federal/2018)
+Considerando que a contabilidade é a ciência que estuda os fenômenos patrimoniais sob o aspecto da
+finalidade organizacional, julgue o item a seguir, no que se refere a conceitos, objetivos e finalidades da
+contabilidade.
+Sob a ótica citada, o objeto da contabilidade é o patrimônio do ente contábil específico.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/Polícia Federal/2018)
+A contabilidade integra o rol das ciências exatas por estar dedicada à mensuração da riqueza do ente
+contábil.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/STM/2011)
+O objeto da contabilidade é o patrimônio, constituído pelo conjunto de bens, direitos e obrigações
+próprios de determinado ente.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CEBRASPE/MPU/2010)
+O patrimônio não é objeto de estudo exclusivo da contabilidade, haja vista que ciências como a
+administração e a economia também se interessam pelo patrimônio, mas é a única que restringe o
+estudo do patrimônio a seus aspectos quantitativos.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/FUB/2011)
+A finalidade da contabilidade é assegurar o controle do patrimônio administrativo, devendo o
+administrador apoiar-se nos dados por meio dela obtidos para tomar decisões que envolvam bens,
+direitos e obrigações da empresa, bem como para apurar os resultados positivos (lucros) ou negativos
+(prejuízos).
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(CEBRASPE/MPU/2010)
+O patrimônio não é objeto de estudo exclusivo da contabilidade, haja vista que ciências como a
+administração e a economia também se interessam pelo patrimônio, mas é a única que restringe o
+estudo do patrimônio a seus aspectos quantitativos.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CEBRASPE/SECGE-PE/2010)
+Julgue os itens a seguir, relativos a contabilidade.
+I A contabilidade é uma ciência exata.
+II A contabilidade tem funções administrativas e econômicas.
+III O principal campo de aplicação da contabilidade são as aziendas.
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item III está certo.
+c) Apenas os itens I e II estão certos.
+d) Apenas os itens I e III estão certos.
+e) Apenas os itens II e III estão certos.
+
+
+                                                                                @profgilmarpossati   @canalcontabilizando
+                                           
+
+
+---
+
+       DRE
+QUESTÕES CEBRASPE
+
+                                         Prof. Gilmar Possati
+
+    
+
+
+---
+
+  Aspectos
+Introdutórios
+
+
+  
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+A respeito das contas de receitas e despesas, assinale a opção correta.
+a) Receitas representam o reconhecimento de um passivo, com o aumento de obrigações a serem
+cumpridas para com os clientes.
+b) Despesa representa a entrada de elementos no ativo, sob a forma de dinheiro ou de direitos a
+receber.
+c) As contas de receitas e despesas, denominadas contas patrimoniais, são encerradas no final do
+período, para a apuração do resultado.
+d) As contas de despesas são de natureza credora e as contas de receita são de natureza devedora.
+e) As contas de receitas e de despesas são contas de resultado, também denominadas de contas
+temporárias, pois seus saldos são encerrados para apurar o resultado da entidade.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+A demonstração do resultado do exercício (DRE) deve apresentar o conjunto de receitas e
+despesas, realizadas ou não, que tenham provocado impacto sobre o patrimônio líquido
+durante o exercício contábil.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/FUB/2014)
+Com base nas disposições da Lei n. 6.404/1976 e suas alterações, julgue o próximo item,
+relativo à DRE.
+
+O objetivo da DRE é evidenciar o desempenho da entidade. Essa demonstração é uma
+representação estruturada do total das receitas deduzidas as despesas e também
+abrange os ganhos e as perdas do período.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/FUB/2014)
+Com base nas disposições da Lei n.º 6.404/1976 e suas alterações, julgue o próximo item,
+relativo à DRE.
+
+De acordo com o regime de competência, a confrontação das receitas com as despesas
+deve ser realizada considerando as entradas e as saídas de caixa no período.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/SEFAZ-ES/2010)
+Julgue o item a seguir, acerca da forma de apresentação da demonstração do resultado
+do exercício pelas companhias.
+
+Na determinação do resultado do exercício, os valores das receitas e dos rendimentos
+ganhos no período somente serão computados quando forem realizados.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+(CESPE/TCU/2015)
+O custo das mercadorias vendidas é mensurado e apresentado de forma a demonstrar ao
+usuário, na DRE, o custo dos produtos acabados e o custo dos produtos em elaboração.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+Deduções
+da Receita
+
+
+ 
+
+
+---
+
+(CESPE/MPU/2010)
+
+  Considerando as informações acima, extraídas da demonstração do resultado ao final
+  do exercício social de determinada empresa comercial, julgue o item subsequente.
+  As deduções da receita (vendas canceladas, abatimentos e impostos incidentes sobre
+  vendas) são inferiores a R$ 200.000,00.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/SUFRAMA/2014)
+Com relação ao reconhecimento, à mensuração e à apresentação das contas patrimoniais
+e de resultado, julgue o item que se segue.
+
+Na DRE de uma empresa comercial, para a apuração do lucro bruto operacional, as
+deduções das vendas e o custo das mercadorias vendidas são subtraídos diretamente da
+receita bruta de vendas.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+ Descontos Condicionais
+           X
+Descontos Incondicionais
+
+        
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+No que se refere a receitas e despesas, julgue o item subsequente.
+
+
+Descontos condicionais concedidos na venda de produtos e serviços configuram despesa financeira e
+devem ser contabilizados no momento do recebimento.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+O pagamento antecipado a fornecedores em troca de desconto financeiro é uma situação em que a
+empresa obtém receitas financeiras.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CESPE/ANAC/2012)
+
+Com relação aos demonstrativos que devem ser elaborados no final do exercício
+financeiro, julgue o item a seguir.
+
+Suponha que determinada empresa ofereça um desconto de 6% sobre o valor das vendas
+realizadas a crédito caso seus clientes paguem suas parcelas com até dez dias de
+antecipação em relação ao vencimento. Nessa situação, ao elaborar a demonstração do
+resultado do exercício, a empresa deve deduzir o valor dos descontos concedidos da
+receita bruta.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+Receita
+Líquida
+
+---
+
+(CEBRASPE/FUB/2022)
+
+A partir dessas informações, julgue o item a seguir.
+
+
+O valor das compras líquidas é de R$ 52.500.
+
+                                                                            @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+
+A partir dessas informações, julgue o item a seguir.
+
+
+O custo das mercadorias vendidas é de R$ 58.370.
+
+                                                                            @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+
+A partir dessas informações, julgue o item a seguir.
+
+
+O valor da receita líquida de vendas é R$ 95.750.
+
+                                                                            @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+
+A partir dessas informações, julgue o item a seguir.
+
+
+É de R$ 37.380 o valor do lucro bruto.
+
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                         
+
+
+---
+
+(CESPE/SEFAZ-ES/2010)
+Julgue o item a seguir, acerca da forma de apresentação da demonstração do resultado
+do exercício pelas companhias.
+
+O valor da receita líquida é apurado deduzindo-se do valor da receita bruta das vendas e
+serviços os valores das deduções das vendas, dos abatimentos e dos impostos.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/ANAC/2012)
+A receita líquida é calculada pela subtração das despesas operacionais na receita bruta.
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+(CESPE/FUB/2014)
+Com base nas disposições da Lei n. 6.404/1976 e suas alterações, julgue o próximo item,
+relativo à DRE.
+
+Considere que a empresa Core S.A. tenha gerado, no período, receita bruta de vendas de
+R$ 1.500, despesa de salários de R$ 100, despesa de depreciação de R$ 50, custo das
+mercadorias vendidas de R$ 675, despesa de ICMS de R$ 200, despesa de COFINS de R$
+50 e vendas canceladas de R$ 100. Nessa situação hipotética, o valor da apuração da
+receita líquida dessa empresa, no período, será superior a R$ 1.100.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+    Lucro
+    Bruto
+
+---
+
+(CEBRASPE/PGE-RJ/2022)
+Situação hipotética: Determinada entidade comercial desembolsou R$ 1.050 na aquisição de
+mercadorias para revenda. Os tributos não recuperáveis incidentes na compra somaram R$ 100 e houve
+um desconto incondicional de R$ 50 concedido pelo fornecedor. Essas mesmas mercadorias foram
+revendidas por R$ 1.500. A alíquota de ICMS, tanto na compra quanto na venda, foi de 12%.
+Assertiva: Nessa situação, o lucro bruto apurado na operação foi de R$ 390.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CESPE/TCU/2015)
+Situação hipotética: As seguintes informações constam da demonstração do resultado do
+exercício da empresa XYZ S.A. referente ao exercício de 2014.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+Assertiva: De acordo com esses dados, ao final do exercício de 2014, o lucro bruto
+apurado pela companhia foi superior a R$ 1.000.000,00 e o resultado anterior aos
+tributos sobre o lucro correspondeu a um prejuízo superior a R$ 200.000,00.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+Receita Operacional Bruta                          4.196.300,00
+
+(-) devoluções e cancelamento de vendas    (76.300,00)
+
+(-) desconto de abatimentos de vendas              (7.300,00)
+
+(-) impostos sobre vendas                          (479.300,00)
+
+(=) Receita Operacional Líquida                    3.633.400,00
+
+(-) Custo do Produto Vendido               (2.678.380,00)
+
+(=) Resultado Operacional Bruto                    955.020,00
+
+(-) Despesas Comerciais                            (150.340,00)
+
+(-) Despesas Administrativas               (209.190,00)
+
+(-) Despesas Financeiras                           (921.580,00)
+
+(+) Receitas Financeiras                           144.300,00
+
+(=) Resultado Operacional Líquido          (181.790)
+
+(+) Outras Receitas                                0,00
+
+(-) Outras Despesas                                0,00
+(=) Resultado antes do IR e CSLL                   (181.790)
+                                                                             @profgilmarpossati   @canalcontabilizando
+                                        
+
+
+---
+
+(CESPE/TJ-SE/2014)
+Considerando-se os dados apresentados na tabela abaixo, relativos a uma empresa
+comercial, é correto afirmar que a demonstração do resultado do período apresentará
+lucro bruto superior a R$ 300.000,00.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+Faturamento                           543.200
+(-) IPI no faturamento                (27.000)
+(=) Receita Operacional Bruta         516.200
+(-) Devolução de vendas         (10.800)
+(-) ICMS s/ vendas              (43.400)
+(-) Abatimento de vendas        (5.500)
+(=) Receita Operacional Líquida 456.500
+(-) CMV*                              (131.500)
+(=) Lucro Bruto                       325.000
+* Cálculo do CMV
+CMV = Estoque Inicial + Compras Líquidas – Estoque Final
+CMV = 32.000 + (100.000 + 20.000 - 14.000) - 6.500
+CMV = 131.500
+
+                                                                               @profgilmarpossati   @canalcontabilizando
+                                          
+
+
+---
+
+(CESPE/SEFAZ-ES/2010)
+Julgue o item a seguir, acerca da forma de apresentação da demonstração do resultado
+do exercício pelas companhias.
+
+O valor do lucro bruto é determinado por meio da dedução do valor do custo das
+mercadorias e serviços do valor da receita líquida do período.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+(CESPE/FUB/2014)
+Com base nas disposições da Lei n. 6.404/1976 e suas alterações, julgue o próximo item,
+relativo à DRE.
+
+O lucro bruto é o resultado da receita bruta das vendas deduzidas as devoluções, os
+cancelamentos, os abatimentos, os impostos sobre vendas e o custo das mercadorias
+vendidas.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/MEC/2014)
+
+Lucro bruto é a diferença entre a receita de vendas líquida e o custo dos produtos e
+mercadorias vendidos e(ou) dos serviços prestados. Lucro líquido operacional é o valor
+do lucro antes de computados os resultados não operacionais e as despesas financeiras.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/PF/2014)
+O lucro bruto evidenciado na demonstração do resultado do exercício, representado pela
+diferença entre a receita líquida de vendas e o custo das mercadorias vendidas, é um
+exemplo da aplicação da simultaneidade da confrontação de receitas e de despesas
+correlatas, a qual se constitui como um pressuposto do princípio da competência.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+A partir da tabela abaixo, julgue os itens que se seguem, com base na legislação
+societária e nos critérios de elaboração da DRE.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/SUFRAMA/2014)
+O lucro bruto da empresa é superior a R$ 750 milhões.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/SUFRAMA/2014)
+Considere que a tributação sobre o lucro represente 40% do lucro contábil da empresa.
+Nesse caso, o valor do tributo será superior a R$ 190 milhões.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+Receita de Vendas                                     1.879,40
+(-) Tributos sobre Vendas                             (300,00)
+(=) Receita Líquida                                   1.579,40
+(-) CMV                                               (820,00)
+(=) Resultado Bruto                                   759,40
+(-) Despesas Operacionais
+Despesas Com Vendas                           (180,00)
+Despesas Administrativas                            (125,00)
+Despesas Financeiras                          (124,50)
+(+) Receitas Operacionais
+Receitas Financeiras                                  93,00
+(+/-) Outras Receitas/Despesas
+Ganhos de Capital                                     5,00
+Receita Equivalência Patrimonial              35,00
+(=) Resultado Antes do IR/CSLL                     462,90
+(-) Tributação sobre o Lucro (40%)            185,16
+(=) Resultado Antes das Participações         277,74
+(-) Participações                                  0,00
+(=) Lucro Líquido do Exercício                277,74
+                                                               @profgilmarpossati   @canalcontabilizando
+                         
+
+
+---
+
+(CESPE/TCU/2013)
+Em relação à apuração de resultados, controle de estoque e custo das vendas, julgue o
+próximo item.
+
+Determinada empresa comercial levantou, ao final do mês, os saldos contábeis
+apresentados a seguir, cujos valores estão em reais. Nesse caso, o custo da mercadoria
+vendida no mês é superior a R$ 4.300 e o lucro bruto é inferior a R$ 3.000.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+                                     @profgilmarpossati   @canalcontabilizando
+
+---
+
+Despesas Operacionais e
+      Financeiras
+
+
+       
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+No que se refere a receitas e despesas, julgue o item subsequente.
+
+
+Devolução de mercadorias vendidas em exercício anterior deve ser registrada como despesa
+operacional.
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/FUB/2022)
+A variação cambial correspondente ao ajuste do saldo em moeda nacional à nova taxa de câmbio
+deverá ser lançada, em resultado do exercício, no grupo de despesas e receitas financeiras, no período
+posterior subsequente ao que surgirem.
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    
+
+
+---
+
+(CESPE/DPU/2016)
+Os juros pagos a titular, sócios ou acionistas, a título de remuneração do capital próprio,
+poderão ser deduzidos na demonstração do resultado do exercício, sendo seu cálculo
+realizado sobre as contas do patrimônio líquido ajustado e limitado à variação, pro rata
+dia, da taxa de juros de longo prazo (TJLP).
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Segundo o Manual FIPECAFI,
+A TJLP representa, parcialmente, a correção monetária do capital próprio, sendo este um fator
+positivo, mas a possibilidade de pagá-lo aos sócios pode representar, na verdade, uma devolução do
+próprio capital.
+A contabilização desses JCP como Despesas Financeiras, implica graves prejuízos à comparabilidade
+das demonstrações contábeis, já que, como esses juros são facultativos, algumas empresas os
+contabilizam e outras não. Além disso, a comparabilidade fica ainda mais prejudicada com a
+limitação de seu valor à metade do lucro do período ajustado ou à metade dos saldos iniciais de
+Reservas de Lucros, fazendo com que algumas empresas não possam considerá-los em sua
+integralidade.
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Outras Receitas
+Outras Despesas
+
+
+    
+
+
+---
+
+(CESPE/MPU/2013)
+
+Se uma empresa vender um ativo imobilizado, ela deverá reconhecer seu resultado —
+ganho ou perda — como resultado não operacional.
+
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            
+
+
+---
+
+Provisão para o Imposto de
+          Renda
+
+
+         
+
+
+---
+
+(CESPE/TRE-ES/2011)
+
+Em relação ao encerramento do exercício social e às normas legais aplicáveis à
+contabilidade, julgue o próximo item.
+
+Se determinada empresa apresentou lucro no final do exercício, a provisão para o
+imposto de renda somente deverá ser constituída após o pagamento das participações
+estatutárias.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+Participações
+ Estatutárias
+
+
+  
+
+
+---
+
+(CEBRASPE/SEFAZ-SE/2022)
+A legislação societária estabelece que as participações de terceiros no lucro das sociedades por ações
+sejam determinadas sucessivamente, seguindo uma determinada ordem, de modo que alguns
+beneficiários tenham a sua participação calculada com base nos lucros que remanescerem depois de
+deduzida a participação anteriormente calculada para outros beneficiários. Nesse sentido, considerando
+o disposto na legislação societária, entre os beneficiários apresentados nas opções a seguir, aquele que
+detém a prioridade no cálculo do valor da sua participação no lucro gerado por uma sociedade por
+ações é
+a) o administrador.
+b) a parte beneficiária.
+c) o fundo de assistência ou previdência de empregados.
+d) o acionista minoritário.
+e) o empregado.
+
+
+                                                                          @profgilmarpossati   @canalcontabilizando
+                                     
+
+
+---
+
+(CEBRASPE/DP-DF/2022)
+A parcela do lucro que caberá aos detentores das partes beneficiárias, calculada com base no lucro que
+remanescer após as deduções das participações estatutárias de empregados e administradores, deve
+ter o seu registro a débito da conta prejuízos acumulados.
+
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    
+
+
+---
+
+(CESPE/TCM-BA/2018)
+Conforme o disposto na Lei n. 6.404/1976, a participação de empregados no resultado
+líquido da empresa será efetivada se houver
+
+a) saldo positivo após a dedução de prejuízos e imposto sobre a renda.
+b) constituição de reserva de lucros anterior à referida participação.
+c) proposta de distribuição de resultado líquido do exercício.
+d) constituição de reserva de legal anteriormente à referida participação.
+e) constituição de reserva para contingências anteriormente à referida participação.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/TCM-BA/2018)
+A empresa Catex S.A., quando da finalização de seu resultado ao final do ano,
+apresentava lucro de R$ 288.500, antes do imposto sobre a renda, o qual seria de R$
+43.275. Na empresa, há acordo de participação nos resultados para empregados e
+diretores nos percentuais de 10% e 5%, respectivamente.
+Nessa situação hipotética, considerando-se o disposto na Lei n. 6.404/1976, o valor total
+a ser distribuído aos diretores é igual a
+
+a) R$ 11.035,13.
+b) R$ 14.425,00.
+c) R$ 12.261,25.
+d) R$ 24.522,50.
+e) R$ 28.850,00.
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/ABIN/2018)
+De acordo com dispositivos da Lei n. 6.404/1976 e de legislação complementar, julgue o
+item a seguir.
+
+Para fins de apuração da base de cálculo das participações estatutárias, o prejuízo
+acumulado e a provisão para o imposto de renda são deduzidos do resultado do
+exercício. Obrigatoriamente, a absorção do prejuízo deverá obedecer à seguinte ordem:
+lucros acumulados, reserva legal e reserva de lucros.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+Art. 189. Do resultado do exercício serão deduzidos, antes de qualquer participação, os prejuízos
+acumulados e a provisão para o Imposto sobre a Renda.
+Parágrafo único. O prejuízo do exercício será obrigatoriamente absorvido pelos lucros acumulados,
+pelas reservas de lucros e pela reserva legal, nessa ordem.
+Art. 200. As reservas de capital somente poderão ser utilizadas para:
+I - absorção de prejuízos que ultrapassarem os lucros acumulados e as reservas de lucros (artigo
+189, parágrafo único);
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CESPE/TRE-ES/2011)
+Em relação ao encerramento do exercício social e às normas legais aplicáveis à
+contabilidade, julgue o próximo item.
+
+A demonstração do resultado do exercício não abrange a forma como o lucro
+eventualmente apurado será distribuído, mas inclui as participações de debêntures,
+empregados, administradores e partes beneficiárias.
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+(CESPE/ABIN/2010)
+Em relação às demonstrações contábeis, julgue o item com base na Lei nº 6.404/1976 e
+suas alterações.
+
+A demonstração do resultado do exercício deve discriminar, entre outros itens, as
+participações de debêntures, empregados, administradores e partes beneficiárias,
+mesmo na forma de instrumentos financeiros, e de instituições ou fundos de assistência
+ou previdência de empregados, que não se caracterizem como despesa.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/Polícia Federal/2014)
+
+Os prejuízos acumulados e a provisão para o imposto sobre a renda constituída no
+exercício devem ser deduzidos do resultado do exercício para fins de cálculo das
+participações estatutárias de empregados.
+
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            
+
+
+---
+
+(CESPE/PREVIC/2011)
+A elaboração dos demonstrativos contábeis obedece a regras estabelecidas nas normas
+legais e técnicas. Acerca desse assunto, julgue o item subsequente.
+
+Quando há previsão no estatuto de determinada companhia para a participação dos
+empregados no lucro apurado, essa participação deve ser paga obrigatoriamente antes
+das parcelas relativas a administradores e partes beneficiárias.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/MPU/2010)
+O estatuto social de determinada empresa define que administradores, debenturistas,
+empregados e partes beneficiárias têm direito, cada um, a 10% do lucro do exercício. Em
+determinado exercício, o lucro da empresa, após os descontos de imposto de renda e
+contribuição social, foi de R$ 485.000,00, e o prejuízo acumulado, de R$ 155.000,00.
+
+Considerando a situação hipotética acima apresentada, é correto afirmar que o valor da
+participação dos administradores é R$ 26.730,00.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+Lucro Antes das Participações                               485.000,00
+(-) Prejuízo Acumulado                              (155.000,00)
+(=) Base de Cálculo dos Debenturistas               330.000,00
+(-) Participação dos debenturistas (10%)            (33.000,00)
+(=) Base de Cálculo dos Empregados                          297.000,00
+(-) Participação dos Empregados (10%)               (29.700,00)
+(=) Base de Cálculo dos Administradores             267.300,00
+(-) Participação dos Administradores (10%)                  (26.730,00)
+(=) Base de Cálculo das Partes Beneficiárias        240.570,00
+(-) Participação das Partes Beneficiárias (10%) (24.057,00)
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(CESPE/FUB/2014)
+Com base nas disposições da Lei n.º 6.404/1976 e suas alterações, julgue o próximo item,
+relativo à DRE.
+
+Se uma entidade distribuir lucros aos empregados e administradores, antes de apurar o
+lucro líquido do exercício, será necessário deduzir as participações de empregados e
+administradores, sucessivamente e nessa ordem.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/MPU/2010)
+O estatuto social de determinada empresa define que administradores, debenturistas,
+empregados e partes beneficiárias têm direito, cada um, a 10% do lucro do exercício. Em
+determinado exercício, o lucro da empresa, após os descontos de imposto de renda e
+contribuição social, foi de R$ 485.000,00, e o prejuízo acumulado, de R$ 155.000,00.
+
+Considerando a situação hipotética acima apresentada, é correto afirmar que o valor da
+participação dos debenturistas é R$ 33.000,00.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+ Questões que exigem
+conhecimento dos CPCs
+
+
+       
+
+
+---
+
+(CEBRASPE/POLC-AL/2023)
+Havendo resultado de operações descontinuadas a reconhecer na demonstração do resultado do
+exercício, isso deve ser feito de forma detalhada, evidenciando os ganhos e as perdas envolvidas.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CESPE/STM/2018)
+Tendo como referência a legislação societária e os pronunciamentos do Comitê de
+Pronunciamentos Contábeis, julgue o item a seguir, relativo à elaboração de
+demonstrações contábeis.
+
+Na demonstração de resultado, apesar de a legislação societária induzir a apresentação
+da despesa por função, ela também poderá ser apresentada de acordo com a sua
+natureza.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/ABIN/2018)
+De acordo com as normas contidas nas legislações de contabilidade aplicáveis às
+demonstrações contábeis, julgue o item que se segue.
+
+Na demonstração de resultado do exercício (DRE), as despesas devem ser
+subclassificadas. A escolha da classificação dos gastos pela função da despesa ou pelos
+gastos por natureza está baseada na capacidade de o método proporcionar informação
+mais confiável e mais relevante à entidade, cumpridas as determinações legais.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(CESPE/MPU/2013)
+A respeito da demonstração do resultado do exercício (DRE), conforme normatização
+contábil em vigor, julgue os seguintes itens.
+
+As sociedades anônimas de capital aberto devem iniciar a apresentação da DRE pela
+receita líquida.
+
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            
+
+
+---
+
+(CESPE/FUB/2014)
+De acordo com os pronunciamentos técnicos do CPC, julgue o item seguinte, relativo à
+apresentação das demonstrações contábeis.
+
+A demonstração do resultado do exercício (DRE) inicia-se pela receita líquida de vendas e
+não apresenta a receita bruta e as deduções da receita.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(CESPE/ANTAQ/2014)
+A elaboração da demonstração do resultado do exercício pelo método funcional não
+exime a empresa da divulgação adicional de informações das despesas segundo sua
+natureza.
+
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            
+
+
+---
+
+(CESPE/TRE-ES/2011)
+Acerca de demonstração do resultado do exercício, julgue o item a seguir.
+
+Entre as circunstâncias que possibilitam a exclusão de determinados itens dos resultados
+líquidos do período, incluem-se a correção de erros e o efeito de alterações nas políticas
+contábeis.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+89. Alguns Pronunciamentos Técnicos, Interpretações e Orientações do CPC especificam
+circunstâncias em que determinados itens podem ser excluídos dos resultados líquidos do período.
+O Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de
+Erro trata de duas dessas circunstâncias, a saber: a correção de erros e o efeito de alterações nas
+políticas contábeis. Outros Pronunciamentos Técnicos, Interpretações e Orientações do CPC
+requerem ou permitem que outros resultados abrangentes que se enquadram na definição de
+receitas e despesas da Estrutura Conceitual para Elaboração e Divulgação de Relatório Contábil-
+Financeiro sejam excluídos do resultado líquido.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(CESPE/CADE/2014)
+Mesmo que a empresa sofra efeitos de várias atividades, transações e outros eventos
+que se distingam em termos de frequência, potencial de ganho ou perda e
+previsibilidade, a divulgação dos componentes do desempenho não ocorrerá na
+demonstração do resultado do exercício (DRE), visto que a sua estrutura não permite
+alteração das nomenclaturas e da ordem prevista em pronunciamento técnico próprio.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+ Instagram: @profgilmarpossati
+ Telegram: @canalcontabilizando
+ Canal You Tube: Contabilizando
+
+---

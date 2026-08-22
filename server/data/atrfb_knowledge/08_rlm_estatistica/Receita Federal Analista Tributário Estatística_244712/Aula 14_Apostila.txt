@@ -1,0 +1,573 @@
+                                                    Aula 13
+                          Receita Federal (Analista Tributário)
+                                                    Estatística
+
+
+
+
+                                                         Autor:
+                                     Equipe Exatas Estratégia
+                                                   Concursos
+
+
+                                           24 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Exatas Estratégia Concursos
+      Aula 13
+
+
+
+
+                                                                                     Índice
+1) Séries Temporais.
+..............................................................................................................................................................................................3
+
+2) Modelo Clássico.
+..............................................................................................................................................................................................6
+
+3) Tendência.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            15
+
+4) Suavização Exponencial.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            27
+
+5) Operadores.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+6) Estacionariedade.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            35
+
+7) Funções de Autocovariância e Autocorrelação.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            36
+
+8) Modelos Arima.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            38
+
+9) Questões Comentadas - Modelo Clássico - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            73
+
+10) Questões Comentadas - Tendência - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            74
+
+11) Questões Comentadas - Funções de Autocovariância e Autocorrelação - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            76
+
+12) Questões Comentadas - Modelos ARIMA - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            78
+
+13) Aviso importante - Orientação de estudo
+..............................................................................................................................................................................................
+                                                                                                                                                                                            94
+
+14) Questões Comentadas - Modelo Clássico - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            95
+
+15) Questões Comentadas - Tendência - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            99
+
+16) Questões Comentadas - Suavização Exponencial - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          104
+
+17) Questões Comentadas - Modelos ARIMA - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          105
+
+18) Lista de Questões - Modelo Clássico - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                          114
+
+19) Lista de Questões - Tendência - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                          116
+
+20) Lista de Questões - Funções de Autocovariância e Autocorrelação - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                          118
+
+21) Lista de Questões - Modelos ARIMA - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                          120
+
+22) Lista de Questões - Modelo Clássico - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          127
+
+23) Lista de Questões - Tendência - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          130
+
+24) Lista de Questões - Suavização Exponencial - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          134
+
+25) Lista de Questões - Modelos ARIMA - Inéditas
+..............................................................................................................................................................................................
+                                                                                                                                                                                          136
+
+
+
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                          141
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+
+                                         SÉRIES TEMPORAIS
+Uma série temporal é um conjunto de observações ordenadas no tempo, como os índices diários da bolsa
+de valores; os valores mensais de temperatura de uma cidade; a precipitação atmosférica mensal de uma
+cidade; o registro de marés em um porto; etc.
+Vamos supor que estivéssemos medindo a temperatura do ar ao longo do dia, durante vários instantes 𝑡,
+com 𝑡 variando de 0 a 24 horas. Em certo dia, obtivemos o seguinte gráfico:
+
+                                                       Temperatura
+                   28
+                   26
+                   24
+                   22
+                   20
+                   18
+                   16
+                   14
+                   12
+                   10
+                        0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+                                                               seg
+
+
+Nos outros dias da semana, foram obtidos outros gráficos, como os indicados a seguir:
+
+                                                       Temperatura
+                   30
+                   28
+                   26
+                   24
+                   22
+                   20
+                   18
+                   16
+                   14
+                   12
+                   10
+                        0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+                                      seg        ter        quarta   quinta   sexta
+
+
+Um processo estocástico é um processo controlado pelas leis da probabilidade, que pode ser visto como
+um conjunto de todas as possíveis trajetórias que se pode observar de uma variável. Uma série temporal
+é uma trajetória ou parte de uma trajetória, dentre as muitas que podem ter sido observadas.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                           3
+        www.estrategiaconcursos.com.br                                                             141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+Portanto, cada linha nos fornece uma possível trajetória da variável temperatura ao longo do dia. Cada
+trajetória é uma sucessão de valores ordenados no tempo, chamada de série temporal. Assim, a
+temperatura no instante t é designada pela variável 𝑍(𝑡).
+A série temporal é contínua se as observações são obtidas continuamente em um determinado intervalo
+de tempo [0,T]. Por outro lado, a série temporal é discreta se o intervalo de observações pertence a um
+conjunto discreto, ou seja, as observações são realizadas em intervalos de tempo específicos.
+Nos exemplos iniciais, temos 3 casos de séries temporais discretas (índices diários da bolsa de valores,
+temperatura e precipitação atmosférica mensal) e 1 caso de série temporal contínua (o registro de marés
+em um porto).
+A periodicidade das observações pode ser diária, semanal, mensal, trimestral, anual e decenal,
+dependendo do caso em estudo. Determinadas variáveis, porém, por serem mais voláteis, podem exigir
+períodos mais curtos, como a hora ou o minuto.              ==219a34==
+
+
+
+
+O objetivo da análise de séries temporais é descobrir os padrões de comportamento (crescimento e
+mudança) nas variáveis estudadas, buscando entender o relacionamento histórico entre as observações,
+para fins de previsibilidade de valores futuros da série em consideração.
+Uma série temporal é dita estacionária quando ela se desenvolve aleatoriamente em torno de uma média
+constante, exibindo comportamento estatístico similar ao longo do tempo. Além disso, apresenta sempre a
+mesma distribuição de probabilidades no tempo (mesma média, variância, etc).
+Na prática, contudo, as séries costumam ser não estacionárias, isto é, apresentar uma tendência de
+crescimento ou decrescimento ao longo do tempo. Em geral, as séries econômicas apresentam tendências.
+Por exemplo, quando a série se desenvolve em torno de uma reta, dizemos que há uma tendência linear.
+Por fim, algumas séries não estacionárias podem apresentar comportamento explosivo. Os modelos ARIMA
+são capazes de descrever séries estacionárias e não estacionárias que apresentem um comportamento não
+explosivo.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                             4
+        www.estrategiaconcursos.com.br                                                               141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+
+(IADES/SEAP-DF/2014) Uma série temporal é qualquer conjunto de observações ordenadas no tempo.
+Acerca das séries temporais, assinale a alternativa correta.
+a) As séries temporais não podem ser contínuas nem discretas.
+b) Os modelos utilizados para descrever séries temporais não são controlados por fatores probabilísticos.
+c) Os modelos utilizados para descrever séries temporais são processos estocásticos, isto é, processos
+controlados por leis probabilísticas.
+d) Um conjunto de observações ordenadas no tempo não é uma série temporal.
+e) Um conjunto de índices diários da bolsa de valores não é um exemplo de série temporal.
+
+
+Comentários:
+Vamos analisar cada alternativa:
+Alternativa A: Incorreta. Não há nenhuma restrição quanto ao tipo de dado, podendo ser discreto ou
+contínuo. Por exemplo, a série temporal da produção mensal de painéis solares no Brasil será constituída
+por dados discretos. Por outro lado, a série temporal da variação das alturas das marés será constituída por
+dados contínuos.
+Alternativa B: Incorreta. Um processo estocástico é uma família de variáveis aleatórias representando a
+evolução de um sistema de valores com o tempo, ou seja, uma série temporal. É a contraparte probabilística
+de um processo determinístico. Ao invés de um processo que possui um único modo de evoluir, em um
+processo estocástico há uma indeterminação: mesmo que se conheça a condição inicial, existem várias, por
+vezes infinitas, direções nas quais o processo pode evoluir.
+Alternativa C: Correta. De fato, os modelos utilizados para descrever séries temporais são processos
+estocásticos, isto é, processos controlados por leis probabilísticas.
+Alternativa D: Incorreta. É exatamente o contrário - um conjunto de observações ordenadas no tempo é uma
+série temporal.
+Alternativa D: Incorreta. Uma série temporal é um conjunto de observações ordenadas no tempo. Os preços
+das ações são observações de valores negociados de forma sequencial em determinado período (dias, horas,
+minutos). Portanto, esses dados podem ser vistos como uma série temporal.
+Gabarito: C.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   5
+        www.estrategiaconcursos.com.br                                                                  141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+
+                                        MODELO CLÁSSICO
+As séries temporais podem ser decompostas em quatro componentes: tendência secular (T), variação
+sazonal (S), variação cíclica (C), variação irregular ou aleatória (I). Esses quatro componentes serão
+detalhados nas subseções seguintes.
+
+
+
+Tendência
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. As
+tendências podem estar relacionadas com fatos tais como variações de população, modificações nas
+preferências dos consumidores, maior ênfase em energia sustentável, etc.
+A tendência diz respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem
+por um longo período. Por exemplo, a série temporal do consumo de eletricidade no Brasil apresenta uma
+tendência ascendente ou crescente.
+
+
+
+
+A tendência pode ser linear ou não. Caso não seja linear, podemos escolher outro tipo de função
+(exponencial, logarítmica, quadrática) que melhor se adapte à representação gráfica da série temporal.
+
+
+
+Variação Sazonal
+As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de forma
+regular e periódica. Essas forças geralmente seguem um padrão semelhante ano após ano. Dessa forma, as
+variações sazonais são variações cíclicas a prazo relativamente curto (um ano ou menos).
+Quando registramos dados semanais, mensais ou trimestrais, podemos ver e calcular as variações sazonais.
+Contudo, quando uma série temporal consiste apenas em dados baseados em valores anuais, não somos
+capazes de identificar variações sazonais.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                             6
+        www.estrategiaconcursos.com.br                                                               141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+Essas variações podem ser devidas a estações do ano, época, condições climáticas, feriados, hábitos,
+costumes ou tradições. Por exemplo, a venda de sorvetes aumenta no verão; a venda de livros didáticos
+cresce no primeiro bimestre; a venda de roupas de frio cresce no inverno; etc.
+
+
+
+Variação Cíclica
+As variações cíclicas são oscilações de longo prazo em torno de uma linha de tendência. Esses ciclos podem
+ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes após intervalos de tempo iguais.
+Essas variações possuem duração maior que um ano e não mostram o tipo de regularidade observada no
+caso de variações sazonais.
+Um exemplo de variação cíclica ocorre nos chamados ciclos de negócios, representando intervalos de
+prosperidade, recessão, depressão e recuperação. Essas fases seguem umas às outras com regularidade
+constante e o período entre dois picos de prosperidade é chamado de ciclo completo. Os períodos usuais de
+um ciclo de negócios podem variar entre 5 a 11 anos.
+Na fase de prosperidade, os negócios prosperam, os preços sobem e os lucros se multiplicam. Isso causa
+aumento da atividade econômica, dificuldades de transporte, aumento dos salários, deficiência de mão-de-
+obra, altas taxas de juros e escassez de dinheiro no mercado, levando à recessão. O ponto em que a atividade
+econômica atinge seu ápice é denominado de pico.
+Na fase de depressão, há pessimismo no comércio e nas indústrias. A atividade econômica diminui e o
+desemprego se espalha. Isso causa a ociosidade de dinheiro, a disponibilidade de dinheiro a juros baixos e o
+aumento na demanda por bens e serviços, caracterizando a situação de recuperação econômica. O ponto
+em que a atividade econômica atinge seu nível mais baixo é denominado de vale.
+A maioria das séries econômicas e de negócios relacionadas a renda, investimento, salários e produção
+mostra essa tendência.
+
+
+
+Variação Irregular (ou aleatória)
+As variações aleatórias são flutuações resultantes de forças imprevistas e imprevisíveis. Essas forças são
+causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido. As variações irregulares podem ser resultantes de enchentes, guerras, pandemias,
+terremotos, conflitos políticos, etc.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 7
+        www.estrategiaconcursos.com.br                                                                   141
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Exatas Estratégia Concursos
+     Aula 13
+
+
+
+O gráfico a seguir ilustra a interação das 4 (quatro) componentes de uma série temporal:
+
+
+
+
+                                    Variação Sazonal
+
+
+
+                                                                              Tendência Secular
+
+
+
+
+           Variação Irregular                              Variação Cíclica
+
+
+
+ 0             1      2         3         4            5       6         7         8         9    10   11   12
+
+
+
+
+(IBADE/IPERON/2017) Considerando uma série temporal, é correto afirmar que a tendência indica:
+a) comportamento sazonal a curto prazo.
+b) ciclos de altas e quedas periódicas de valores a curto prazo.
+c) comportamento independente dos dados a longo, curto e médio prazo.
+d) comportamento a longo prazo.
+e) somente se há um outlier conhecido como ponto influente.
+
+
+Comentários:
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. Ela diz
+respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um longo
+período.
+Gabarito: D.
+
+
+
+
+           Receita Federal (Analista Tributário) Estatística                                                     8
+           www.estrategiaconcursos.com.br                                                                    141
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+(UEPA/FAPESPA/2014) Definem-se séries temporais como um conjunto cronológico de observações.
+Então, considere a seguinte situação: uma indústria está selecionando pessoas para trabalhar na área de
+controle de qualidade por meio de currículo e entrevistas. Durante a entrevista o responsável pelo setor
+faz a seguinte pergunta ao candidato ao emprego: “Quais os elementos que compõem o modelo clássico
+de séries temporais?”. A alternativa correta desta indagação é:
+a) regularização exponencial, variação cíclicas, variações sazonais e variações irregulares.
+b) tendência, variações aditivas, médias móveis, variações regulares.
+c) variações multiplicativas, variações irregulares, tendência e variações sazonais.
+d) tendência cíclica, variações aditivas, variações sazonais e variações irregulares.
+e) tendência, variações cíclicas, variações sazonais e variações irregulares.
+
+
+Comentários:
+Uma série temporal é um conjunto de observações ordenadas no tempo. As séries temporais podem ser
+decompostas em quatro componentes: tendência secular (T), variação sazonal (S), variação cíclica (C),
+variação irregular ou aleatória (I).
+A tendência descreve um movimento suave (a longo prazo) dos dados, para cima ou para baixo. Ela diz
+respeito ao comportamento geral dos dados de aumentarem, diminuírem ou estagnarem por um longo
+período.
+As variações sazonais referem-se às mudanças que ocorrem devido às forças rítmicas que atuam de forma
+regular e periódica. Dessa forma, as variações sazonais são variações cíclicas a prazo relativamente curto (um
+ano ou menos).
+As variações cíclicas são oscilações de longo prazo em torno de uma linha de tendência. Esses ciclos podem
+ou não ser periódicos, ou seja, podem ou não seguir padrões semelhantes após intervalos de tempo iguais.
+As variações aleatórias são flutuações (ruídos) resultantes de forças imprevistas e imprevisíveis. Essas forças
+são causadas por ocorrências raras, operam de maneira absolutamente aleatória ou errática, e não têm
+nenhum padrão definido.
+Gabarito: E.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   9
+        www.estrategiaconcursos.com.br                                                                     141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+
+Modelos Aditivo e Multiplicativo
+O modelo aditivo considera uma série temporal como o resultado da soma das componentes individuais,
+isto é, a soma da componente de tendência (𝑻𝒕 ), da componente cíclica (𝑪𝒕 ), da componente sazonal (𝑺𝒕 )
+e da componente irregular (𝑰𝒕 ). Assim, o modelo aditivo tem a forma:
+
+
+                                             𝒁𝒕 = 𝑻𝒕 + 𝑪𝒕 + 𝑺𝒕 + 𝑰𝒕
+
+
+O modelo aditivo pressupõe que os componentes não interagem entre si e são independentes. Esse
+comportamento, no entanto, não é o que observamos na prática. Muitas vezes, um movimento do
+componente sazonal pode influenciar a tendência, fazendo com que o modelo aditivo se torne inadequado.
+
+O modelo aditivo deve ser empregado quando a série temporal não apresentar uma modificação
+significativa na amplitude com o incremento do nível ao longo do tempo, ou seja, a decomposição pode
+ser feita pelo método aditivo se as magnitudes das flutuações sazonais não variam com nível da série ao
+longo do tempo.
+
+
+
+
+Finalmente, no modelo aditivo, todas as componentes são expressas em suas unidades originais. As
+componentes 𝐶𝑡 , 𝑆𝑡 e 𝐼𝑡 representam desvios em torno da tendência 𝑇𝑡 .
+
+
+O modelo multiplicativo considera uma série temporal como resultado do produto das componentes
+individuais, isto é, o produto da tendência, da componente cíclica, da componente sazonal e da
+componente irregular. Assim, o modelo multiplicativo tem a forma:
+
+
+                                             𝒁𝒕 = 𝑻𝒕 × 𝑪𝒕 × 𝑺𝒕 × 𝑰𝒕
+
+
+O modelo multiplicativo pressupõe que os componentes interagem entre si e não são independentes.
+Como dissemos anteriormente, na prática, o que se visualiza é exatamente esse comportamento. Por isso, o
+modelo multiplicativo é mais empregado que o modelo aditivo.
+
+
+        Receita Federal (Analista Tributário) Estatística                                             10
+        www.estrategiaconcursos.com.br                                                                141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+A decomposição pode ser feita pelo método multiplicativo se as magnitudes das flutuações sazonais
+variam com nível da série ao longo do tempo, isto é, se a série temporal apresenta um comportamento
+sazonal estatisticamente significativo, conforme mostra a figura a seguir:
+
+
+
+
+No modelo multiplicativo, apenas a tendência T é expressa na unidade original (p. ex., 10t). As demais
+componentes C, S e I são expressas em porcentagens da tendência.
+
+
+
+
+(FUNDATEC/Pref. de Porto Alegre/2020) Qual método de previsão de Séries Temporais deve ser utilizado
+quando temos tendência e sazonalidade presentes nos dados?
+a) Decomposição.
+b) Média Móvel.
+c) Alisamento exponencial simples.
+d) Alisamento exponencial duplo.
+e) Análise de tendência com regressão linear.
+
+
+Comentários:
+A decomposição da série permite identificar quais componentes estão atuando no conjunto, possibilitando
+a obtenção de equações para realizar previsões para períodos futuros da série.
+As séries temporais podem ser decompostas em quatro componentes: tendência secular (T), variação
+sazonal (S), variação cíclica (C), variação irregular ou aleatória (I). Temos dois modelos de decomposição: o
+aditivo e o multiplicativo.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                 11
+        www.estrategiaconcursos.com.br                                                                   141
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 13
+
+
+
+O modelo aditivo considera uma série temporal como o resultado da soma das componentes individuais,
+isto é, a soma da componente de tendência (𝑇𝑡 ), da componente cíclica (𝐶𝑡 ), da componente sazonal (𝑆𝑡 ) e
+da componente irregular (𝐼𝑡 ). Assim, o modelo aditivo tem a forma:
+                                                   𝑍𝑡 = 𝑇𝑡 + 𝐶𝑡 + 𝑆𝑡 + 𝐼𝑡
+O modelo multiplicativo considera uma série temporal como resultado do produto das componentes
+individuais, isto é, o produto da tendência, da componente cíclica, da componente sazonal e da componente
+irregular. Assim, o modelo multiplicativo tem a forma:
+                                                   𝑍𝑡 = 𝑇𝑡 × 𝐶𝑡 × 𝑆𝑡 × 𝐼𝑡
+Gabarito: A.
+
+
+(FCC/Pref Manaus/2019) Analisando as vendas trimestrais realizadas pela empresa Gama no período de
+2016 a 2018, obteve-se a equação da tendência utilizando o método dos mínimos quadrados com base
+nestas 12 observações, ou seja, 𝑿𝒕 = 𝟏𝟎 + 𝟏, 𝟓𝒕, em que X corresponde às vendas trimestrais (em
+milhões de reais) e 𝒕 = 𝟏 representa o primeiro trimestre de 2016, 𝒕 = 𝟐 representa o segundo trimestre
+de 2016 e assim por diante.
+
+                                    Trimestre      1º          2º        3º    4º
+
+                                     Índices
+                                                   0,5         0,3       1,2   1,0
+                                    Sazonais
+
+
+A previsão das vendas para o segundo trimestre de 2020, levando em conta o movimento sazonal do
+pe

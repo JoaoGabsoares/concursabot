@@ -1,0 +1,2720 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 01_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Índice
+artigos_citados:
+- Art. 15.
+- art. 1
+- art. 153
+- art. 16
+- art. 2º
+- art. 4º
+- art. 54
+- art. 5º
+---
+
+# Índice
+
+Índice
+1)  Apresentação - Legislação Tributária Federal
+
+
+)  Conceitos Básicos sobre o IPI                                                                                                                                                             5
+
+3)  Princípios Constitucionais Tributários Aplicáveis ao IPI
+
+
+4)  Imunidades Aplicáveis ao IPI                                                                                                                                                            13
+..............................................................................................................................................................................................
+
+)  Industrialização                                                                                                                                                                        19
+
+6)  Incidência do IPI                                                                                                                                                                       28
+..............................................................................................................................................................................................
+
+)  Classificação de Produtos                                                                                                                                                               30
+
+8)  Redução e Majoração                                                                                                                                                                     41
+)  Questões Comentadas - IPI - Parte I                                                                                                                                                     43
+..............................................................................................................................................................................................
+
+)   Lista de Questões - IPI - Parte I                                                                                                                                                     57
+
+
+---
+
+                APRESENTAÇÃO DO PROFESSOR E
+                CONSIDERAÇÕES SOBRE O CURSO
+Olá, meu amigo(a)! Seja bem-vindo(a) ao nosso curso!
+
+É com enorme prazer e satisfação que lanço mais um curso aqui no Estratégia Concursos, dessa
+vez direcionado ao mais famoso concurso da área fiscal nesse País: Receita Federal do Brasil!!
+
+Tornar-se um servidor público da RFB não é uma tarefa fácil. Muitos candidatos não conseguem
+lograr êxito no concurso por não estarem bem preparados. Afinal, temos uma concorrência
+absurda, por ser um concurso muito aguardado.
+
+A banca examinadora do último concurso foi a Fundação Getúlio Vargas (FGV), uma banca
+bastante temida pelo nível de dificuldade de suas provas. Então, como temos um desafio pela
+frente, vou apresentar a você como será nosso curso de Legislação Tributária Federal (LTF) para
+este concurso da RFB!
+
+Por falar em curso completo, eu tenho uma ótima notícia: nosso curso conterá videoaulas! Isso
+mesmo! Além de se preparar com o material em PDF, você poderá assistir as videoaulas que eu
+mesmo estou preparando com muita dedicação!
+
+Este curso está atualizadíssimo, contando com todas as alterações relevantes na legislação
+tributária federal ocorridas nos últimos anos!
+
+Agora, permita-me fazer uma breve apresentação pessoal: meu nome é Fábio Dutra. Sou Auditor-
+Fiscal da Receita Federal do Brasil. Sou também pós-graduado em Direito Tributário. Fui
+aprovado no concurso de Auditor-Fiscal da Receita Federal do Brasil de 2012, tendo alcançado a
+28ª posição nesse certame extremamente difícil. Sou também coautor de um livro sobre provas
+discursivas.
+
+Na Receita Federal, já atuei tanto na área aduaneira, como na área de tributos internos. Já
+trabalhei em fronteira, mas hoje trabalho na região sudeste do Brasil. A verdade, meus amigos, é
+que já tive muitas experiências nesse cargo do qual muito me orgulho!
+
+No Estratégia Concursos, já escrevi centenas de materiais em PDF, já gravei milhares de
+videoaulas, já participei de inúmeras revisões de véspera, correções de gabaritos, recursos,
+discursivas, muita coisa mesmo. Mas o que eu gostaria de enfatizar aqui é que eu já conheci
+centenas de alunos que foram aprovados nos mais diversos concursos Brasil afora. E a sua hora
+está chegando!
+
+                                                                                             1
+                                                                                             2
+
+
+---
+
+Destaco que o índice de aprovação dos meus cursos aqui no Estratégia Concursos é muito
+próximo de 100%, sendo que em alguns deles alcançamos a aprovação unânime dos alunos.
+Portanto, tenha certeza de que você está adquirindo um material de excelente qualidade!
+
+Em paralelo aos cursos, você pode acompanhar a minha rotina diária e muitas dicas de estudos no
+meu Instagram (bora lá?!): @proffabiodutra
+
+Estamos juntos até a aprovação!
+
+Prof. Fábio Dutra
+
+                                                                                            2
+                                                                                            2
+
+
+---
+
+                   CONCEITOS BÁSICOS SOBRE O IPI
+O Imposto sobre Produtos Industrializados (IPI) é um tributo muito conhecido pelo seu caráter extrafiscal,
+cujo objetivo precípuo é intervir na economia. Sendo assim, embora a União arrecade um volume
+significativo de recursos com esse imposto, a sua principal finalidade é intervir no comportamento dos
+agentes econômicos.
+
+Certamente, você já ouviu alguma notícia sobe a redução do IPI no setor automotivo, como forma de
+estimular o consumo de veículos. Tal redução aquece o mercado, e as pessoas acabam consumindo mais.
+Isso ocorre ao menos em tese.
+
+Nessa linha, para cada produto é aplicada uma alíquota. Diante da infinidade de produtos existentes, foi
+criada uma tabela, denominada Tabela de Incidência do Imposto sobre Produtos Industrializados – TIPI -,
+que tem por objetivo relacionar os mais diversos produtos à sua respectiva alíquota. Cada produto possui
+um código específico.
+
+A TIPI é imensa, sendo muito difícil definir com precisão em que código determinado produto deve ser
+classificado. Para isso, existem regras de classificação fiscal de mercadorias, a fim de tornar este processo
+mais objetivo.
+
+Outro aspecto importante sobre o IPI diz respeito ao fato de ser tributo indireto, ou seja, a pessoa que
+efetua o recolhimento do IPI não é a que realmente arca com o ônus financeiro da incidência tributária,
+tendo em vista que o imposto é embutido no preço de venda, transferindo o ônus para o adquirente. Sendo
+assim, em uma cadeia de produção, por exemplo, quem acaba sofrendo o encargo do tributo é o
+consumidor final, que obviamente não tem para quem transmitir o imposto pago.
+
+Cabe destacar que o IPI é um imposto de competência privativa da União, conforme prevê o art. 153, IV, da
+CF/88. Foi instituído pela Lei 4.502/1964, havendo inúmeras alterações legislativas posteriores, que foram
+consolidadas no Regulamento do IPI (Decreto 7.212/2010), que será o centro das nossas aulas.
+
+Não podemos ignorar também a relevância do Código Tributário Nacional (Lei 5.172/1966) para o nosso
+estudo, já que esta lei foi recepcionada com status de lei complementar, cumprindo a função de estabelecer
+as normas gerais em matéria tributária, em obediência ao disposto no art. 146, III, da CF/88 (recomendo
+que você leia este dispositivo).
+
+Sendo tributo de competência da União, o IPI é arrecadado e administrado pela Receita Federal. Dessa
+forma, há diversos atos normativos infralegais referentes ao IPI que foram editados pela RFB. São as
+denominadas Instruções Normativas da RFB. Algumas delas serão estudadas no decorrer do nosso curso.
+
+O que eu quero que fique claro para você neste tópico são apenas as características básicas do IPI, bem como
+as normas que serão utilizadas como base para o nosso estudo.
+
+Prezado concurseiro(a), diferentemente de algumas disciplinas estudadas para o concurso da RFB, como
+Auditor-Fiscal, provavelmente você irá conviver com a Legislação Tributária Federal todos os dias. Portanto,
+não há hora melhor para começar a criar intimidade com a matéria, já que ela tem se tornado o grande
+diferencial no concurso da RFB!
+
+
+---
+
+      LIMITAÇÕES CONSTITUCIONAIS AO PODER DE
+                    TRIBUTAR
+Conforme você já deve ter estudado em Direito Constitucional, para a formação de um Estado são
+necessários três elementos: território, povo e governo soberano.
+
+Perceba que é dessa soberania que surge o poder de tributar do Estado. O Estado existe para a consecução
+do bem comum, e é para isso que ele é dotado de poderes que o colocam em condições de superioridade
+em relação aos contribuintes. Afinal de contas, se não houvesse certa coação, ninguém se sentiria obrigado
+em contribuir.
+
+Assim, a União recebeu a competência tributária para instituir o IPI. Contudo, precisamos entender que o
+exercício dessa competência não é ilimitado, pois se o fosse, a vontade arrecadatória estatal poderia ser
+desmedida a ponto de prejudicar a vida financeira dos cidadãos. Muito lógico, não?!
+
+Com base no exposto, a CF/88 impõe limitações ao poder de tributar, por meio de princípios e de
+imunidades tributárias.Vejamos, a partir de agora, aqueles que são aplicáveis ao IPI.
+
+
+Princípios Constitucionais Tributários
+
+Os princípios constitucionais tributários, ao lado das imunidades tributárias, são verdadeiras limitações
+constitucionais ao poder de tributar. Portanto, se por um lado compete à União instituir e cobrar o IPI, por
+outro, deve respeitar as limitações impostas pela própria Constituição Federal.
+
+Vamos ver cada um deles a seguir.
+
+Princípio da Legalidade
+
+        O princípio da legalidade (art. 150, I, da CF/88) prevê a necessidade de que uma lei seja editada para
+instituir ou aumentar um tributo. Trata-se, na verdade, de uma forma de representação popular. Afinal de
+contas, as leis são editadas pelo Congresso Nacional, onde estão aqueles que representam a vontade do
+povo. Portanto, não é a Constituição Federal que institui os tributos, mas sim o legislador ordinário. A CF/88
+apenas confere a competência tributária para a instituição do tributo.
+
+No que se refere à instituição do IPI, não há exceções, ou seja, deve haver lei que institua o referido imposto.
+No entanto, em relação à majoração ou redução de alíquotas, o legislador constituinte previu a
+possibilidade de serem alteradas pelo próprio Poder Executivo, desde que atendidas as condições e os
+limites estabelecidos em lei (CF, art. 153, § 1º).
+
+         Observação: A alteração das alíquotas é efetuada mediante decreto do Presidente da
+         República. A título de exemplo, o Decreto 8.070/2013, publicado no dia 15/08/2013,
+         reduziu a zero a alíquota do produto “outros açúcares de cana”.
+
+
+---
+
+         Fique atento com as “pegadinhas” de prova: somente as alíquotas podem ser alteradas
+         pelo Poder Executivo.
+
+         A base de cálculo deve ser alterada mediante lei.
+
+Destaque-se que os limites e condições citados no dispositivo constitucional foram estabelecidos pelo
+Decreto-Lei 1.199/1971, em seu art. 4º. Não se preocupe, pois iremos estudar esse assunto com mais
+detalhes em momento oportuno. Por ora, basta saber que cabe à lei definir os limites e condições para a
+alteração de alíquotas.
+
+Princípio da Anterioridade
+
+De acordo com o que foi previsto no art. 150, III, b, da CF/88, é vedado a qualquer dos entes federativos
+(União, Estados, DF e Municípios) cobrar tributos “no mesmo exercício financeiro em que haja sido
+publicada a lei que os instituiu ou aumentou”.
+
+Isso significa que, como regra, se uma lei institui um tributo, o ente federado que a editou só poderá cobrá-
+lo no ano seguinte ao que foi publicada a lei instituidora.
+
+O objetivo da vedação é assegurar que o contribuinte não seja surpreendido com a cobrança de um tributo
+novo ou mesmo de majoração de tributo já existente.
+
+No entanto, o legislador constituinte optou por excepcionar o IPI do princípio da anterioridade, como
+demonstra o § 1º, do art. 150, da CF/88. Sendo assim, a instituição ou majoração de IPI pode ser exigida no
+próprio exercício financeiro que tenha sido publicada a lei que o instituiu ou aumentou.
+
+         Observação: Lembre-se de que a majoração pode ser promovida por decreto do Poder
+         Executivo.
+
+“Mas professor, o IPI já foi instituído. A “instituição” não se aplica a esse imposto, correto?”
+
+Na verdade, embora já tenha sido instituído, o legislador pode não ter feito uso de toda a competência
+tributária que lhe foi atribuída. É possível, portanto, instituir um novo fato gerador para o IPI, desde que
+respeitadas as diretrizes estabelecidas no CTN. Com base nisso, ao ampliar a incidência do IPI, a cobrança
+já pode ser feita no mesmo exercício financeiro da publicação da lei.
+
+
+---
+
+         Observação: De acordo com o art. 146, III, a, da CF/88, cabe à lei complementar estabelecer
+         as normas gerais em matéria tributária. Quanto aos impostos definidos na CF/88 – e o IPI
+         é um deles -, cabe à lei complementar definir os seus fatos geradores, bases de cálculo e
+         contribuintes.
+
+         A lei que exerce esse papel é o Código Tributário Nacional. Portanto, respeitados os
+         contornos sobre os fatos geradores do IPI estipuladas no CTN, é possível criar nova
+         incidência para o referido imposto.
+
+Princípio da Noventena
+
+Embora o IPI não esteja sujeito ao princípio da anterioridade do exercício financeiro, fica sujeito ao princípio
+da noventena – também denominado anterioridade nonagesimal, a partir da Emenda Constitucional
+42/2003.
+
+Sendo assim, ainda que as majorações ou novas incidências possam ser cobradas dentro do mesmo exercício
+financeiro da publicação da lei (ou do decreto, para majorações), não podem antes de decorridos 90 dias da
+data da lei ou do decreto.
+
+         Imposto sobre Produtos Industrializados
+
+         Anterioridade → Excepcionado
+
+         Noventena → Incluído
+
+Deve-se destacar que a redução de alíquotas produz efeitos imediatamente, não se aplicando o princípio da
+noventena. A razão disso é que o objetivo do princípio é proteger o contribuinte contra o agravamento
+repentino da carga tributária a que está sujeito, a fim de que tenha condições de se preparar o aumento.
+Se há redução, não faz sentido aguardar qualquer prazo, tendo em vista que a alteração beneficia o
+contribuinte.
+
+Princípio da Seletividade
+
+Como típico tributo real, incidindo sobre “coisas”, o IPI desconsidera as características pessoais dos
+contribuintes. Assim, por exemplo, um trabalhador que ganha salário mínimo arca com o mesmo valor de IPI
+do que um bem sucedido empresário, ao adquirir uma garrafa de refrigerante no supermercado.
+
+Não há dúvidas de que o referido trabalhador dispôs de uma parcela significativa da sua remuneração para
+pagar o IPI embutido no valor do refrigerante, ao passo que este imposto consumiu uma parcela
+infinitamente menor dos rendimentos do empresário. Trata-se, pois, de distorções geradas pelos tributos
+reais.
+
+
+---
+
+Diante dessa situação, o princípio da seletividade tem por objetivo fazer com que os produtos supérfluos,
+normalmente adquiridos por aqueles que possuem maior capacidade contributiva, recebam tributação mais
+pesada do que aqueles cujo consumo é feito por toda a população, inclusive por aqueles de menor
+capacidade financeira. Desde a edição do CTN, em 1966, já havia previsão do princípio da seletividade:
+
+         Art. 48. O imposto é seletivo em função da essencialidade dos produtos.
+
+No que se refere à chancela constitucional desse princípio, deve-se destacar que desde a Emenda
+Constitucional 18/1965 já havia essa previsão. Atualmente, art. 153, § 3º, I, da CF/88, continua
+estabelecendo que o IPI deve ser seletivo, em função da essencialidade do produto.
+
+A melhor saída, portanto, seria isentar os produtos essenciais ou aplicar-lhes uma alíquota inferior àquela
+aplicável aos produtos supérfluos. Desse modo, retornando ao nosso exemplo, ao final de uma compra no
+supermercado, o empresário teria pago proporcionalmente mais imposto do que o trabalhador.
+
+Lembre-se também de que o princípio da seletividade é uma diretriz para que a incidência do IPI seja
+graduada conforme a capacidade contributiva de cada um.
+
+          A seletividade está relacionada à capacidade contributiva.
+
+Outro aspecto relevante é que, de acordo com Bottalo1, “a extrafiscalidade manifesta-se no IPI através do
+princípio da seletividade, que enseja a utilização deste imposto como instrumento de ordenação político-
+social (...)”. Nessa linha, a incidência do IPI pode chegar a 300%, como é o caso dos cigarros, por se tratar de
+produtos nocivos à saúde.
+
+Princípio da Não Cumulatividade
+
+Em uma cadeia de produção e distribuição de mercadorias, até que estas cheguem às mãos dos
+consumidores, é natural que haja diversas incidências de IPI, sobretudo quando se trata de produtos mais
+complexos.
+
+Ao comprar um bolo no supermercado, por exemplo, certamente houve incidência de IPI sobre as matérias
+primas, sobre a industrialização do próprio bolo e até mesmo da embalagem deste.
+
+1
+    BOTTALO, Eduardo Domingos. IPI – Princípios e Estrutura. São Paulo: Dialética. 2009. Pág. 65.
+
+
+---
+
+Se não houvesse um mecanismo de compensação dos valores recolhidos a título de IPI nas etapas anteriores,
+haveria verdadeira incidência cumulativa do imposto, gerando o denominado “efeito cascata”.
+
+No entanto, desde a instituição do IPI, pela Lei 4.502/1964, já havia previsão de mecanismo de compensação
+dos valores recolhidos em etapas anteriores. No CTN, também há previsão da incidência não cumulativa do
+IPI.
+
+Vejamos o que diz o art. 153, § 3º, II, da CF/88:
+
+       § 3º - O imposto previsto no inciso IV (IPI):
+
+       II - será não-cumulativo, compensando-se o que for devido em cada operação com o montante
+       cobrado nas anteriores;
+
+         Observação: Tanto a seletividade quanto a não cumulatividade já eram previstas antes da
+         Constituição Federal de 1988.
+
+Para tornar a explicação desse princípio mais clara, vamos imaginar uma cadeia produtiva de fabricação de
+motos, com os elementos inseridos no esquema a seguir:
+
+                           1                        2
+
+Veja que ocorre a circulação de mercadorias em dois momentos, havendo, por conseguinte, duas incidências
+de IPI. Não há incidência na venda ao consumidor, pois a concessionária não efetuou qualquer
+industrialização. Não se preocupe, o conceito de industrialização ainda será visto nesta aula.
+
+Digamos que a indústria de peças venda seus produtos pelo preço de R$ 1.500,00 à indústria de motos, que,
+por sua vez, revende a moto à concessionária por R$ 2.500,00. A venda da concessionária não nos interessa
+neste momento, pois não há incidência de IPI. Suponhamos, ainda, que a alíquota de IPI seja de 10% em
+todos os casos.
+
+Vejamos como seria a incidência cumulativa do IPI:
+
+                                     INCIDÊNCIA CUMULATIVA
+        INCIDÊNCIA                 ALÍQUOTA             PREÇO DE VENDA        IMPOSTO DEVIDO
+       Incidência 1                   10%                R$ 1.500,00              R$ 150,00
+       Incidência 2                   10%                R$ 2.500,00              R$ 250,00
+                                                                   TOTAL:         R$ 400,00
+
+Perceba que no total foi recolhido R$ 400,00 de IPI, pois nada do que foi pago nas etapas anteriores pôde
+ser compensado.
+
+
+---
+
+Bom, vejamos, então, como funciona a incidência não cumulativa:
+
+                                 INCIDÊNCIA NÃO CUMULATIVA
+       INCIDÊNCIA                 ALÍQUOTA              PREÇO DE VENDA          IMPOSTO DEVIDO
+       Incidência 1                 10%                   R$ 1.500,00              R$ 150,00
+       Incidência 2                 10%                   R$ 2.500,00           250 – 150 = R$
+                                                                                    100,00
+                                                                    TOTAL:         R$ 250,00
+
+Percebe-se que o que foi tributado na etapa anterior pôde ser compensado na etapa seguinte da cadeia,
+produzindo, ao final, o mesmo imposto que incidiria caso houvesse apenas uma única etapa (a última), pois
+R$ 2.500,00 x 10% = 250,00. Entendido?
+
+Então, quando a indústria de motos, por exemplo, adquire as peças, ela tem o direito de se creditar do valor
+que já foi pago de IPI pela indústria de peças. No momento da venda à concessionária, ela deve debitar o
+valor total, recolhendo apenas a diferença. Esse é o mecanismo de débitos e créditos.
+
+Com a aquisição de produtos tributados pelo IPI, a empresa registra um crédito em livro fiscal. Com a venda
+dos produtos industrializados, há o registro de um débito. No final do período de apuração, confronta-se
+débitos e créditos, recolhendo o tributo devido, que é representa o saldo de débitos.
+
+Por outro lado, caso se verifique saldo credor (quando o volume de compras, por exemplo, supera o volume
+de vendas), é permitido transferir para os períodos de apuração subsequentes, conforme demonstra o par.
+único do art. 49, do CTN:
+
+       Art. 49: (...)
+
+       Parágrafo único. O saldo verificado, em determinado período, em favor do contribuinte transfere-se
+       para o período ou períodos seguintes.
+
+        Observação: O tema “créditos” será estudado detalhadamente em momento mais
+        apropriado.
+
+Com base no que foi exposto neste tópico, é possível perceber que quem acaba por assumir o encargo
+financeiro do imposto incidente sobre toda a cadeia é o consumidor final, já que a concessionária, no
+exemplo fornecido, acaba por embutir o que foi pago de IPI no valor da moto.
+
+Portanto, podemos observar como funciona o IPI, por ser um tributo indireto. Veja que quem sofre o ônus
+tributário não é a mesma pessoa que efetua o recolhimento do imposto.
+
+
+---
+
+         Nunca se esqueça:
+
+         O IPI deve ser seletivo;
+
+         O IPI deve ser não cumulativo.
+
+Demais Princípios Constitucionais Aplicáveis ao IPI
+
+Este tópico tem por objetivo lembrá-lo dos demais princípios constitucionais que, além de serem aplicáveis
+ao IPI, também são aplicáveis a todos os demais tributos.
+
+São eles:
+
+•   Princípio da isonomia;
+•   Princípio do não confisco;
+•   Princípio da irretroatividade.
+
+Você já deve ter estudado ou ainda vai estudar tais princípios em direito tributário. Portanto, não cabe a nós
+esmiuçar os detalhes de cada um.
+
+
+---
+
+Imunidades Tributárias – Conceitos Básicos
+
+Ao lado dos princípios constitucionais, as imunidades também constituem limitações ao poder de tributar,
+constituindo verdadeiras exonerações tributárias.
+
+No tópico seguinte, vamos estudar todas as imunidades tributárias que geram a não incidência do IPI. Antes,
+porém, é importante que você tenha em mente a diferença entre os conceitos de imunidade e não
+incidência. A não incidência pode ocorrer de três modos distintos, a saber:
+
+• A pessoa política não faz uso da competência tributária que lhe foi conferida. Podemos dizer que seria o
+   caso de um tributo instituído “pela metade”, em que o ente não prevê todas as hipóteses de incidência
+   capazes de gerar a tributação;
+
+Exemplo: A União optou por não tributar as moedas, embora isso pudesse ser feito, por se tratar de um
+inegável produto industrializado.
+
+• A pessoa política não possui competência tributária para determinar certas situações fáticas como
+   hipótese de incidência. Esta hipótese se refere a situações que fogem do raio de incidência daquele
+   tributo;
+
+Exemplo: Não incide IPI sobre o petróleo bruto, pois o IPI só pode incidir sobre produtos industrializados,
+ou seja, que passaram por algum processo de industrialização.
+
+• A pessoa política é “barrada” pela CF/88. Ou seja, há certo dispositivo constitucional que inibe a
+   possibilidade de o ente prever aquela situação como hipótese de incidência do tributo.
+
+Exemplo: Não incide IPI sobre o ouro definido em lei como ativo financeiro.
+
+Todas as três situações acima se referem à não incidência tributária . Contudo, a última pode ser considerada
+como hipótese de não incidência constitucionalmente qualificada. Por tal motivo, é denominada
+IMUNIDADE.
+
+O interessante nesse momento é notar que nem sempre a não incidência é caracterizada como imunidade,
+mas apenas quando encontrar guarida no texto constitucional.
+
+É importante ressaltar que há imunidades absolutas (incondicionadas), isto é, independentes do
+cumprimento de qualquer condição, como também há imunidades condicionadas ao cumprimento de
+determinado requisito. A título de exemplo, a imunidade dos livros é absoluta, mas a do papel possui uma
+condição, que é a destinação deste à impressão dos livros, jornais e periódicos.
+
+
+---
+
+A propósito, dispõe o § 4º, do art. 18, do Regulamento do IPI (RIPI) que, se a imunidade estiver condicionada
+à destinação do produto, e a este for dado destino diverso, ficará o responsável pelo fato sujeito ao
+pagamento do imposto e da penalidade cabível, como se a imunidade não existisse.
+
+Nós vamos estudar que, normalmente, quando a imunidade é condicionada, exigem-se obrigações
+acessórias, com o objetivo de assegurar o cumprimento das condições.
+
+Por falar em obrigações acessórias, destaque-se que, mesmo se o produto for imune, subsiste a obrigação
+acessória de emitir nota fiscal, nos termos do art. 407, do RIPI. E isso vale para qualquer imunidade. Ok?
+
+As Imunidades sobre o IPI
+
+Inicialmente, vamos ver o que o RIPI estabeleceu como imunidade sobre o IPI:
+
+       Art. 18. São imunes da incidência do imposto:
+
+       I - os livros, jornais, periódicos e o papel destinado à sua impressão (Constituição Federal, art. 150,
+       inciso VI, alínea “d”);
+
+       II - os produtos industrializados destinados ao exterior (Constituição Federal, art. 153, § 3º, inciso
+       III);
+
+       III - o ouro, quando definido em lei como ativo financeiro ou instrumento cambial (Constituição
+       Federal, art. 153, § 5º); e
+
+       IV - a energia elétrica, derivados de petróleo, combustíveis e minerais do País (Constituição Federal,
+       art. 155, § 3o).
+
+        Observação: Antes que você questione a possibilidade de um decreto dispor sobre
+        imunidade tributária, observe que todos esses dispositivos foram elaborados com base na
+        CF/88.
+
+A imunidade dos livros, jornais e periódicos é absoluta, ou seja, sempre estarão imunes, independentemente
+de quaisquer condições. No que se refere ao papel, não ocorre o mesmo. Este só estará imune se estiver
+destinado à impressão dos livros, dos jornais ou dos periódicos.
+
+Acerca dessa imunidade, o § 1º, do art. 18, do RIPI, estabelece que a Receita Federal pode estabelecer
+obrigações acessórias específicas a serem observadas pelas firmas que realizarem operação com o papel
+imune.
+
+Na prática, tais obrigações consistem na exigência de um registro especial, bem como a apresentação de
+uma declaração específica (DIF-Papel Imune). Tal exigência é feita com base na IN RFB 1817/2018. O tema
+será melhor estudado posteriormente.
+
+Cumpre-nos ressaltar que cessará a imunidade do papel destinado à impressão de livros, jornais e periódicos
+quando este for consumido ou utilizado em finalidade diversa, ou encontrado em poder de pessoa que
+
+
+---
+
+não seja fabricante, importador, ou seus estabelecimentos distribuidores, bem como que não sejam
+empresas jornalísticas ou editoras.
+
+Também são imunes os produtos industrializados destinados ao exterior. O objetivo é estimular a
+exportação, além de tornar o produto nacional mais atrativo no mercado internacional. Esta imunidade será
+abordada em tópico específico, por conter maior riqueza em detalhes.
+
+No que se refere ao ouro, é necessário distinguir o ouro mercadoria do ouro ativo financeiro. O ouro vendido
+em forma de anéis ou pulseiras, por exemplo, é o ouro mercadoria, sobre ele incidindo IPI normalmente. No
+entanto, quando o ouro é definido em lei como ativo financeiro ou instrumento cambial, somente incide o
+IOF, havendo imunidade sobre todos os demais impostos (inclusive o IPI).
+
+Cabe destacar também que a energia elétrica, os derivados do petróleo, os combustíveis e os minerais do
+País são imunes ao IPI, tendo em vista que o legislador constituinte definiu que sobre tais produtos só há
+incidência dos seguintes impostos: ICMS, II e IE. Portanto, trata-se de mais uma imunidade do IPI.
+
+Sobre o tema, o art. 18, § 3º, do RIPI, estabelece que são derivados do petróleo os produtos decorrentes da
+transformação do petróleo, por meio de conjunto de processos genericamente denominado refino ou
+refinação, classificados quimicamente como hidrocarbonetos.
+
+        Observação: Nada impede que incidam outras espécies tributárias. A imunidade diz
+        respeito aos demais impostos.
+
+Imunidade do IPI na Exportação
+
+A imunidade do IPI sobre a exportação de produtos industrializados está prevista no art. 153, § 3º, III. Veja
+que se trata de uma situação sensível, já que os produtos poderiam sair do estabelecimento industrial
+cobertos por essa imunidade, e, na prática, permanecerem no território nacional, gozando ilicitamente da
+imunidade.
+
+Com base nisso, o art. 18, § 2º, do RIPI, estabelece que a destinação do produto ao exterior será comprovada
+com a sua saída do território nacional.
+
+Ademais, o art. 18, § 1º, do RIPI, também previu a possibilidade de a Receita Federal estabelecer obrigações
+acessórias específicas, para a comprovação da saída dos produtos do território nacional, inclusive quanto ao
+trânsito, dentro do território nacional, do produto a ser exportado.
+
+Existe, ainda, os casos de exportação por conta e ordem, isto é, uma empresa fabrica o produto e encaminha
+a uma outra empresa, para enviar seu produto aos destinatários no exterior.
+
+O art. 19-A, do RIPI, prevê que, em tais situações, considera-se, para efeitos fiscais, que a mercadoria foi
+exportada pelo produtor ou revendedor contratante da exportação por conta e ordem. É como se a
+mercadoria já saísse do produto para o exterior, com a imunidade do IPI.
+
+Mas isso só será possível se a exportação da mercadoria ocorrer no prazo de 30 dias, contado da data da
+contratação da pessoa jurídica exportadora por conta e ordem.
+
+
+---
+
+         Observação: Considera-se data da exportação a data da apresentação da declaração de
+         exportação pela pessoa jurídica exportadora por conta e ordem.
+
+Todavia, o art. 19 dispõe que há situações em que se considera efetivada a exportação sem que tenha
+ocorrido sua saída do território brasileiro. Tal hipótese só será permitida, produzindo todos os efeitos fiscais
+e cambiais, quando o pagamento for efetivado em moeda nacional ou estrangeira de livre conversibilidade
+e a venda for realizada para:
+
+       I - empresa sediada no exterior, para ser utilizado exclusivamente nas atividades de pesquisa ou
+       lavra de jazidas de petróleo e de gás natural, ainda que a utilização se faça por terceiro sediado no
+       País;
+
+       II - empresa sediada no exterior, para ser totalmente incorporado a produto final exportado para o
+       Brasil; e
+
+       III - órgão ou entidade de governo estrangeiro ou organismo internacional de que o Brasil seja
+       membro, para ser entregue, no País, à ordem do comprador.
+
+Também encontra-se alcançado pela imunidade, o produto exportado sem saída do território nacional, para
+ser:
+
+       I - totalmente incorporado a bem que se encontre no País, de propriedade do comprador estrangeiro,
+       inclusive em regime de admissão temporária sob a responsabilidade de terceiro;
+
+       II - entregue a órgão da administração direta, autárquica ou fundacional da União, dos Estados, do
+       Distrito Federal ou dos Municípios, em cumprimento de contrato decorrente de licitação
+       internacional;
+
+       III - entregue, em consignação, a empresa nacional autorizada a operar o regime de Loja Franca;
+
+       IV – entregue no País:
+
+       a) a subsidiária ou coligada, para distribuição sob a forma de brinde a fornecedores e clientes;
+
+       b) a terceiro, em substituição de produto anteriormente exportado e que tenha se mostrado, após o
+       despacho aduaneiro de importação, defeituoso ou imprestável para o fim a que se destinava;
+
+       c) a missão diplomática, repartição consular de caráter permanente ou organismo internacional de
+       que a República Federativa do Brasil seja membro, ou a seu integrante, estrangeiro;
+
+       d) para ser incorporado a plataforma destinada à pesquisa e à lavra de jazidas de petróleo e gás
+       natural em construção ou conversão contratada por empresa sediada no exterior, ou a seus
+       módulos;
+
+
+---
+
+       e) para ser incorporado a produto do setor aeronáutico industrializado no território nacional, na
+       hipótese de industrialização por encomenda de empresa estrangeira do bem a ser incorporado;
+
+       f) em regime de admissão temporária, por conta do comprador estrangeiro, sob a responsabilidade
+       de terceiro, no caso de aeronaves; ou
+
+       g) a órgão do Ministério da Defesa, para ser incorporado a produto de interesse da defesa nacional
+       em construção ou fabricação no território nacional, em decorrência de acordo internacional firmado
+       pela República Federativa do Brasil.
+
+        Observação: Acostume-se com o ritmo de curso de Legislação Tributária, pois exige-se boa
+        capacidade de memorização. A melhor saída, como sempre, é tentar fazer associações.
+        Neste caso, embora não tenha sido efetuada a saída do produto, há alguma relação com o
+        estrangeiro.
+
+Nesses casos em que a exportação ocorre sem a saída do produto do território nacional, se o pagamento for
+a prazo ou a prestação, os efeitos fiscais e cambiais, quando reconhecidos pela legislação vigente, serão
+produzidos no momento da contratação, sob condição resolutória, aperfeiçoando-se pelo recebimento
+integral em moeda nacional ou estrangeira de livre conversibilidade (RIPI, art. 19, § 2º).
+
+Entendeu? Eu imagino que não. Então, vamos simplificar:
+
+O que o dispositivo quis dizer é que as operações de exportação sem saída do produto do território nacional,
+quando forem realizadas a prazo ou parceladas, consideram-se ocorridos os efeitos fiscais e cambiais desde
+o momento da contratação. Quando o pagamento ocorrer por completo, aperfeiçoa-se a operação, isto é, a
+operação é confirmada. Por outro lado, se não houver o pagamento, extinguem-se seus efeitos desde o
+momento em que foram realizadas.
+
+Imunidades Subjetivas
+
+No art. 150, VI, alíneas “a”, “b” e “c”, o constituinte imunizou as seguintes pessoas, respectivamente:
+
+• A União, os Estados o Distrito Federal e os Municípios, sendo esta extensiva às autarquias e às fundações
+  instituídas e mantidas pelo Poder Público (denominada imunidade recíproca);
+• Os templos de qualquer culto (denominada imunidade religiosa);
+• Os partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições
+  de educação e de assistência social, sem fins lucrativos;
+
+Destaque-se que a imunidade diz respeito apenas ao patrimônio, renda e serviços dessas pessoas. Portanto,
+a princípio, não haveria imunidade sobre o IPI, tendo em vista que esse imposto incide sobre a
+industrialização.
+
+Ademais, quem adquire produtos industrializados não é contribuinte de direito, e sim contribuinte de fato,
+não havendo relação jurídica direta com o ente tributante.
+
+
+---
+
+        Observação: Lembre-se de que o contribuinte de direito é aquele eleito pela lei como
+        devedor legal do tributo. No entanto, no caso de tributos indiretos como o IPI, quem acaba
+        assumindo o ônus do imposto é o contribuinte de fato, pessoa que não foi indicada pela lei
+        para recolher o tributo, embora seja quem sofra os seus efeitos.
+
+No entanto, o que você deve ter em mente é que tanto a imunidade recíproca como aquela aplicável aos
+partidos políticos, entidades sindicais e instituições de educação e assistência social gozam de imunidade
+sobre o IPI e II, quando importam mercadorias do exterior. Esse tem sido o posicionamento atual do STF.
+
+A justificativa é que quanto a entidade importa os produtos do exterior, ocorre a identidade entre a figura
+do contribuinte de direito e do contribuinte de fato, ou seja, quem adquire a mercadoria é a mesma pessoa
+responsável pelo recolhimento da obrigação tributária.
+
+Por outro lado, se a aquisição ocorre no mercado interno, o entendimento básico é o de que não há
+imunidade, pois esta não alcança o contribuinte de fato.
+
+        Observação: O IPI também incide sobre a importação de produtos industrializados.
+        Veremos isso mais à frente. Por ora, a título de curiosidade, recomendo a leitura do art. 46
+        do CTN.
+
+No que se refere aos templos de qualquer culto, não há jurisprudência relevante do STF sobre a imunidade
+do IPI. Boa parte da doutrina defende a imunidade do IPI sobre as operações das entidades religiosas, desde
+que relacionadas com suas finalidades essenciais.
+
+Colega concurseiro(a), estamos estudando aqui neste curso apenas a jurisprudência básica sobre o tema.
+Como se trata de Legislação Tributária, a tendência é a banca se apegar aos conceitos literais das normas.
+Caso você tenha adquirido o meu curso teórico de Direito Tributário ou mesmo o curso de jurisprudência,
+você terá todos os detalhes necessários para enfrentar esse tema, sob a ótica do Direito Tributário.
+
+
+---
+
+                                   INDUSTRIALIZAÇÃO
+O IPI, por óbvio, incide apenas sobre produtos industrializados. Isso é o que determina o texto constitucional,
+ao prever esse imposto de competência da União. Mas como definimos quais produtos são industrializados
+e quais não o são? Ora, para isso é necessário saber o que é industrialização.
+
+Pela redação do par. único, do art. 46, do CTN, “considera-se industrializado o produto que tenha sido
+submetido a qualquer operação que lhe modifique a natureza ou a finalidade, ou o aperfeiçoe para o
+consumo”.
+
+Parece que ficou um pouco mais claro: produto industrializado é aquele que se submete a uma operação
+que lhe modifique a natureza ou finalidade, ou o aperfeiçoe para o consumo. A essa operação denominamos
+industrialização.
+
+O CTN, como lei de normas gerais em matéria tributária, ajuda-nos a esclarecer melhor o conceito de produto
+industrializado. Mas ainda está muito vago. Vamos ver as disposições específicas sobre este conceito, que
+foram consolidadas no RIPI.
+
+Em primeiro lugar, foi definido no art. 3º que produto industrializado é aquele resultante de qualquer
+operação de industrialização, definida no próprio RIPI, ainda que esta industrialização seja incompleta,
+parcial ou intermediária. Sem dúvida alguma, isso torna o conceito de industrialização bem mais amplo, já
+que não se exige um processo completo de industrialização.
+
+Ademais, ficou estabelecido no par. único do art. 4º, do RIPI, que a caracterização da operação como
+industrialização independe do processo utilizado para obtenção do produto, bem como a localização e as
+condições das instalações e dos equipamentos empregados no processo. Ou seja, não importa o modo
+como é feito, mas sim o que foi feito.
+
+Esquematizando:
+
+
+             Ainda que incompleta, parcial ou intermediária
+
+                                                                              PRODUTO
+                          INDUSTRIALIZAÇÃO
+                                                                           INDUSTRIALIZADO
+
+           Independe da localização e condições de instalações
+                            e equipamentos
+
+
+---
+
+Mas o que vem a ser industrialização, nos termos do RIPI? O caput do seu art. 4º estabelece que
+industrialização é qualquer operação que modifique a natureza, o funcionamento, o acabamento, a
+apresentação ou a finalidade do produto, ou o aperfeiçoe para consumo.
+
+O RIPI ainda cita as seguintes operações que se enquadram no conceito de industrialização: transformação,
+beneficiamento, montagem, acondicionamento ou reacondicionamento e renovação ou
+recondicionamento.
+
+A título de curiosidade, vale destacar as lições de José Eduardo Soares de Melo1, para quem “não tem caráter
+taxativo o critério legal especificado, podendo ser consideradas outras modalidades de industrialização,
+devido ao desenvolvimento industrial, criando novos métodos e meios operacionais e alterando o conceito
+de produto industrializado”.
+
+É evidente que com o desenvolvimento tecnológico e industrial outras modalidades de industrialização
+possam surgir, e é exatamente isso que o referido autor defende. Para fins de prova, até o momento, é
+necessário apenas conhecer as operações citadas expressamente no RIPI, lembrando que, se a questão citar
+o entendimento doutrinário, você pode considerá-la correta.
+
+Façamos, pois, uma breve explicação sobre cada uma das citadas operações.
+
+1. Transformação
+
+A transformação é a operação de industrialização exercida sobre matérias-primas ou produtos
+intermediários, que importa na obtenção de uma espécie nova.
+
+A fabricação de picolés, por exemplo, é uma típica operação de transformação, tendo em vista que surge um
+novo produto, a partir da mistura dos ingredientes que o compõem.
+
+2. Beneficiamento
+
+O beneficiamento é a operação de industrialização que importa em modificar, aperfeiçoar, ou, de qualquer
+forma, alterar o funcionamento, a utilização, o acabamento ou a aparência do produto.
+
+A alteração na aparência não se confunde com a mera colocação ou substituição de embalagem, pois esta
+é a operação de acondicionamento ou reacondicionamento, a ser estudada logo adiante.
+
+1
+    MELO, José Eduardo Soares de. IPI – Teoria e Prática. São Paulo: Malheiros. 2009. Pág. 77.
+
+
+---
+
+Portanto, não se obtém uma espécie nova, mas sim o mesmo produto, com algumas características alteradas
+(aparência, acabamento, funcionamento etc.).Como exemplo, podemos citar a refinação de açúcar.
+
+3. Montagem
+
+A montagem é a operação que consiste na reunião de produtos, peças ou partes e de que resulte um novo
+produto ou unidade autônoma, ainda que sob a mesma classificação fiscal.
+
+O importante é que as partes e peças reunidas não mantenham suas características individuais, dando
+origem a um produto novo, com classificação fiscal própria, ainda que seja a mesma classificação de alguma
+das partes que o compõem.
+
+        Observação: Isso é possível, pois a classificação fiscal segue regras específicas (as quais
+        veremos neste curso), podendo vir acontecer de o produto industrializado ter a mesma
+        classificação de uma de suas partes.
+
+Como exemplo dessa operação de industrialização, podemos citar a montagem de peças que resulta em um
+telefone celular.
+
+4. Acondicionamento ou reacondicionamento
+
+A operação de acondicionamento é aquela consistente na alteração da apresentação do produto, pela
+colocação de embalagem, com o objetivo de alcançar o consumidor final. Como exemplo, podemos citar o
+engarrafamento de vinho ou mesmo o engarrafamento de água mineral em garrafinhas de 500 ml.
+
+A operação de reacondicionamento consiste na substituição da embalagem original, com o mesmo
+objetivo de tornar o produto pronto para o consumo. A título de exemplo, a substituição da embalagem de
+25 kg de farinha de trigo, por embalagens plásticas de 1 kg.
+
+Deve-se tomar cuidado, pois nem sempre a colocação ou substituição de embalagem consiste em operação
+de industrialização. Quando esta se destinar apenas ao transporte da mercadoria, não haverá qualquer
+operação de industrialização.
+
+Imagine que uma empresa fabricante de salgadinhos envie sacos de 10 kg ao seu distribuidor, para que este
+embale tais produtos em saquinhos de 50g, destinados aos estabelecimentos varejistas.
+
+Pergunta-se: houve industrialização por parte do distribuidor? É evidente que sim.
+
+Suponha, agora, que o distribuidor, a fim de facilitar o transporte dos saquinhos de 50g, coloque-os em
+caixas. Ao chegar nos supermercados, as caixas são abertas e descartadas.
+
+Pergunta-se: Houve industrialização? Não, pois o objetivo foi unicamente transportar os produtos.
+
+Nesse contexto, percebe-se que há dois tipos de acondicionamento:
+
+Acondicionamento para transporte → Quando se destinar precipuamente a este fim. Não se considera
+industrialização.
+
+
+---
+
+Acondicionamento para apresentação → Quando não se enquadrar como acondicionamento para
+transporte. Considera-se industrialização.
+
+Embora o conceito de acondicionamento para apresentação tenha sido definido de modo residual (quando
+não tiver sido destinado ao transporte), preste atenção, pois não se considera embalagem nos casos em
+que a natureza do acondicionamento e as características do rótulo atendam, apenas, a exigências técnicas
+ou outras constantes de leis e de atos administrativos. Como exemplo, podemos citar alguns produtos
+destinados a laboratórios médicos.
+
+Destaque-se que para ser considerado acondicionamento para transporte, devem ser respeitados,
+cumulativamente, os seguintes requisitos:
+
+• Ser feito em caixas, caixotes, engradados, barricas, latas, tambores, sacos, embrulhos e semelhantes,
+  sem acabamento e rotulagem de função promocional e que não objetive valorizar o produto em razão
+  da qualidade do material nele empregado, da perfeição do seu acabamento ou da sua utilidade adicional;
+  e
+• Ter capacidade acima de 20 kg ou superior àquela em que o produto é comumente vendido, no varejo,
+  aos consumidores.
+
+        Observação: Como o acondicionamento para transporte não é considerado
+        industrialização, as restrições foram estabelecidas para evitar que haja o enquadramento
+        indevido.
+
+Por fim, deve ser acrescentado o acondicionamento do produto, ou a sua forma de apresentação, será
+irrelevante quando a incidência do IPI estiver condicionada ao peso de sua unidade.
+
+5. Renovação ou recondicionamento
+
+A renovação ou recondicionamento é a operação de industrialização exercida sobre o produto usado ou
+parte remanescente de produto deteriorado ou inutilizado, renovando-o ou restaurando-o para utilização.
+
+O reparo de um motor que deixou de funcionar, mediante a substituição de peças desgastadas, é um típico
+exemplo de operação de renovação ou recondicionamento.
+
+
+Exclusões do Conceito de Industrialização
+
+Nós estudamos no tópico anterior que para incidir IPI o produto deve ser industrializado, ou seja, deve ter
+passado por algum processo de industrialização. Naquele momento, vimos o que se considera
+industrialização. Neste, vamos ver exatamente o contrário: as operações que não são consideradas
+industrialização.
+
+        Observação: Se não há industrialização, não existe estabelecimento industrial e nem
+        mesmo contribuinte do IPI.
+
+
+---
+
+A seguir, vamos trazer todas as hipóteses previstas no RIPI como exclusão do conceito de industrialização,
+prevendo a maioria das pegadinhas que a banca pode preparar para você na prova. Tente sempre visualizar
+uma situação concreta, para facilitar a memorização. Tudo bem? Vamos lá!
+
+Não se considera industrialização:
+
+I - o preparo de produtos alimentares, não acondicionados em embalagem de apresentação:
+
+a) na residência do preparador ou em restaurantes, bares, sorveterias, confeitarias, padarias, quitandas e
+semelhantes, desde que os produtos se destinem a venda direta a consumidor; ou
+
+b) em cozinhas industriais, quando destinados a venda direta a pessoas jurídicas e a outras entidades, para
+consumo de seus funcionários, empregados ou dirigentes;
+
+Veja que, em qualquer caso, os produtos alimentares não podem ser acondicionados em embalagens de
+apresentação, pois configura industrialização por acondicionamento, é claro.
+
+Ademais, perceba que tanto na alínea “a” como na “b”, o produto alimentar deve ser vendido diretamente,
+seja ao consumidor ou a pessoas jurídicas, para consumo de seus funcionários. Com isso, podemos concluir
+que não pode haver revenda.
+
+II - o preparo de refrigerantes, à base de extrato concentrado, por meio de máquinas, automáticas ou não,
+em restaurantes, bares e estabelecimentos similares, para venda direta a consumidor;
+
+                                 Trata-se do post mix, aquela conhecida máquina de refrigerantes do fast
+                                 food. Não se esqueça da restrição de que a venda deve ser feita
+                                 diretamente ao consumidor. Portanto, nada de revenda, ok?
+
+III - a confecção ou preparo de produto de artesanato;
+
+        Observação: Produto de artesanato é o proveniente de trabalho manual realizado por
+        pessoa natural, nas seguintes condições:
+
+
+---
+
+        a) quando o trabalho não contar com o auxílio ou a participação de terceiros assalariados;
+        e
+
+        b) quando o produto for vendido a consumidor, diretamente ou por intermédio de
+        entidade de que o artesão faça parte ou seja assistido;
+
+IV - a confecção de vestuário, por encomenda direta do consumidor ou usuário, em oficina ou na residência
+do confeccionador;
+
+Novamente, a confecção do vestuário, para ser excluída do conceito de industrialização, deve ser feita por
+meio de encomenda direta do consumidor, podendo ser realizada tanto em oficina quanto na residência do
+confeccionador.
+
+V - o preparo de produto, por encomenda direta do consumidor ou usuário, na residência do preparador
+ou em oficina, desde que, em qualquer caso, seja preponderante o trabalho profissional;
+
+Trata-se de caso muito semelhante à confecção do vestuário, desta feita abrangendo um leque muito maior
+de produtos, já que não se fez qualquer restrição quanto ao tipo de produto.
+
+Destaque-se apenas o fato de que, neste caso específico, é necessário que haja a preponderância do trabalho
+profissional.
+
+        Observação: Para compreender melhor os incisos IV e V, entenda o seguinte:
+
+        a) oficina é o estabelecimento que empregar, no máximo, cinco operários e, quando utilizar
+        força motriz não dispuser de potência superior a cinco quilowatts; e
+
+        b) trabalho preponderante é o que contribuir no preparo do produto, para formação de
+        seu valor, a título de mão de obra, no mínimo com sessenta por cento (60%).
+
+VI - a manipulação em farmácia, para venda direta a consumidor, de medicamentos oficinais e magistrais,
+mediante receita médica;
+
+Trata-se da venda de medicamentos manipulados, desde que seja feita diretamente ao consumidor,
+mediante receita médica. Preste atenção neste último detalhe, pois pode se tornar uma excelente pegadinha
+na prova.
+
+VII - a moagem de café torrado, realizada por estabelecimento comercial varejista como atividade
+acessória;
+
+A moagem de café torrado só é excluída se for realizada por estabelecimento comercial varejista como
+atividade acessória. Se esta for a sua atividade principal, a operação será considerada industrialização.
+
+VIII - a operação efetuada fora do estabelecimento industrial, consistente na reunião de produtos, peças
+ou partes e de que resulte:
+
+
+---
+
+a) edificação (casas, edifícios, pontes, hangares, galpões e semelhantes, e suas coberturas);
+
+b) instalação de oleodutos, usinas hidrelétricas, torres de refrigeração, estações e centrais telefônicas ou
+outros sistemas de telecomunicação e telefonia, estações, usinas e redes de distribuição de energia
+elétrica e semelhantes; ou
+
+c) fixação de unidades ou complexos industriais ao solo;
+
+        Observação: Não se exclui, entretanto, a incidência do imposto sobre os produtos, partes
+        ou peças que forem utilizados em tais operações.
+
+IX - a montagem de óculos, mediante receita médica;
+
+Novamente, a banca pode preparar uma pegadinha, tendo em vista a necessidade de apresentação de
+receita médica. Fique de olho!
+
+        Observação: A fabricação de partes e peças dos óculos é considerada operação de
+        industrialização.
+
+X - o acondicionamento de produtos classificados nos Capítulos 16 a 22 da TIPI, adquiridos de terceiros, em
+embalagens confeccionadas sob a forma de cestas de natal e semelhantes;
+
+        Observação: Os produtos a que se refere o inciso X são os seguintes: 16 - Preparações de
+        carne, de peixes ou de crustáceos, de moluscos ou de outros invertebrados aquáticos.
+
+        17 - Açúcares e produtos de confeitaria.
+
+        18 - Cacau e suas preparações.
+
+        19 - Preparações à base de cereais, farinhas, amidos, féculas ou leite; produtos de
+        pastelaria.
+
+        20 - Preparações de produtos hortícolas, de frutas ou de outras partes de plantas.
+
+        21 - Preparações alimentícias diversas.
+
+        22 - Bebidas, líquidos alcoólicos e vinagres.
+
+        Você não precisa decorar tudo, mas apenas ter noção que são produtos alimentícios e
+        bebidas.
+
+Vale destacar que, nesse caso, o acondicionado dos referidos produtos, para não ser considerado operação
+de industrialização, deve ser feito com produtos adquiridos de terceiros.
+
+
+---
+
+Se você vir na prova “cesta de natal”, lembre-se de que os produtos devem ser adquiridos de terceiros.
+
+XI - o conserto, a restauração e o recondicionamento de produtos usados, nos casos em que se destinem
+ao uso da própria empresa executora ou quando essas operações sejam executadas por encomenda de
+terceiros não estabelecidos com o comércio de tais produtos, bem como o preparo, pelo consertador,
+restaurador ou recondicionador, de partes ou peças empregadas exclusiva e especificamente naquelas
+operações;
+
+Se não fosse a regra acima, tais operações seriam industrialização, por se tratar de renovação ou
+recondicionamento. Para que não o sejam, é necessário que se destinem:
+
+• Uso da própria empresa executora do conserto.
+• Encomenda de terceiros não estabelecidos com o comércio de tais produtos.
+
+Veja que para o conserto, a restauração e o recondicionamento de produtos usados não ser caracterizado
+como industrialização é necessário que não haja comércio do produto, seja pela empresa executora ou pelo
+encomendante.
+
+Quando o RIPI estabelece que o terceiro não pode ser “estabelecido com o comércio de tais produtos” quis
+dizer que, quando você leva um produto do seu uso para consertar, essa operação não é tributada pelo
+IPI!
+
+XII - o reparo de produtos com defeito de fabricação, inclusive mediante substituição de partes e peças,
+quando a operação for executada gratuitamente, ainda que por concessionários ou representantes, em
+virtude de garantia dada pelo fabricante;
+
+O reparo de produtos com defeito de fabricação, se a prestação for gratuita, ainda que em virtude de garantia
+dada pelo fabricante, não há operação de industrialização.
+
+
+---
+
+XIII - a restauração de sacos usados, executada por processo rudimentar, ainda que com emprego de
+máquinas de costura;
+
+XIV - a mistura de tintas entre si, ou com concentrados de pigmentos, sob encomenda do consumidor ou
+usuário, realizada em estabelecimento comercial varejista, efetuada por máquina automática ou manual,
+desde que fabricante e varejista não sejam empresas interdependentes, controladora, controlada ou
+coligadas; e
+
+A operação de mistura de tintas, para não ser considerada industrialização, deve ser feita sob encomenda
+do consumidor (não se trata de produção em série), realizada em estabelecimento comercial varejista
+(normalmente, em uma loja de tintas), e, como característica mais relevante, não pode haver relação de
+interdependência entre a fabricante e o varejista.
+
+Isso é bastante óbvio, pois, caso contrário, os fabricantes iriam terceirizar sua produção para as lojas, a fim
+de evitar a incidência do IPI.
+
+XV - a operação de que resultem os produtos relacionados na Subposição 2401.20 da TIPI (tabaco
+destalado), quando exercida por produtor rural pessoa física.
+
+Esse trecho da aula deveria ser extremamente “chato” de estudar. Se não o foi, eu consegui cumprir o meu
+objetivo. Vamos partir para a resolução de questões!
+
+
+---
+
+                                   INCIDÊNCIA DO IPI
+O IPI incide sobre produtos industrializados nacionais ou estrangeiros. Portanto, se determinada empresa
+realiza operações de industrialização, terá de pagar IPI. Da mesma forma, se essa empresa realizar
+importação de produtos industrializados estrangeiros, também pagará IPI. Isso será detalhadamente visto,
+quando estudarmos o fato gerador do IPI.
+
+Por ora, nossos olhos devem estar voltados ao campo de incidência do IPI. Sejam os produtos industrializados
+nacionais ou estrangeiros, deve-se obedecer as especificações contidas na TIPI, que é a tabela que contém
+todas as alíquotas aplicáveis ao imposto.
+
+Com efeito, o RIPI, em seu art. 2º, par. único, estabelece que o campo de incidência do imposto abrange
+todos os produtos com alíquota, ainda que zero, relacionados na TIPI, observadas as disposições contidas
+nas respectivas notas complementares, excluídos aqueles a que corresponde a notação “NT” (não
+tributado).
+
+Dessa forma, até mesmo os produtos isentos estão no campo de incidência do IPI. Você deve se lembrar
+que a isenção constitui causa de exclusão do crédito tributário, ou seja, o fato gerador ocorre, embora o
+crédito seja excluindo, não chegando a ser cobrado do contribuinte.
+
+Os produtos que receberam a notação NT (não tributado) na TIPI são aqueles que estão fora do campo de
+incidência do IPI. Ora, se estão fora do campo de incidência, isso quer dizer que não há incidência, correto?
+Imagino que você deve ter se lembrado desse conceito, ao estudar as imunidades tributárias.
+
+Fazendo uma rápida revisão, nós havíamos visto que a não incidência pode ocorrer de três modos distintos.
+Vamos ver como isso se aplica ao IPI:
+
+➔ A não incidência pode ocorrer quando a pessoa política não exerce por completo a competência
+  tributária que lhe foi conferida. Por exemplo, as moedas não são tributadas, mesmo se tratando de
+  produtos industrializados.
+➔ Não há incidência quando os produtos não são industrializados. A União não tem competência para
+  tributar com o IPI produtos que não são industrializados, como as orquídeas, por exemplo.
+➔ Não há incidência do IPI quando os produtos são objeto de imunidade, como é o caso dos livros, jornais
+  e periódicos, por exemplo.
+
+        Observação: A TIPI não foi construída apenas para o IPI, por isso há produtos que nem
+        mesmo são industrializados nessa tabela. Na realidade, a TIPI é baseada na NCM, um
+        sistema de codificação de mercadorias que será explicado no próximo tópico.
+
+Todos os produtos que se encontrem em alguma dessas três situações recebem a notação NT na TIPI.
+Contudo, o campo de incidência do IPI também possui outra limitação: os produtos que resultam de
+operações excluídas do conceito de industrialização.
+
+Por exemplo, os refrigerantes são produtos que receberam alíquota positiva na TIPI, sendo claramente
+tributados, quando sujeitos à industrialização. Contudo, o preparo de refrigerantes em máquinas post mix
+
+
+---
+
+em restaurantes é operação excluída do conceito de industrialização (RIPI, a RT. 5º, II). Logo, não há
+incidência de IPI.
+
+Dentro do campo de incidência: produtos com alíquotas positivas, zero, ou mesmo isentos.
+
+Fora do campo de incidência: produtos com notação NT e os que resultarem de operações excluídas do
+conceito de industrialização.
+
+
+---
+
+                     CLASSIFICAÇÃO DE PRODUTOS
+Esse tema já foi objeto de cobrança na prova para AFRFB, em 2012. Devido à profundidade da questão
+cobrada, tornou-se necessário fazermos uma abordagem mais detalhada do assunto.
+
+Antes de entendermos as disposições do RIPI sobre este assunto, é necessário compreender melhor o que
+vem a ser a classificação fiscal dos produtos.
+
+Por ora, é importante ter conhecimento de que a TIPI é baseada na NCM (Nomenclatura Comum do
+Mercosul), sendo esta baseada no Sistema Harmonizado – SH. Então, para entendermos como funciona a
+TIPI, antes deve ser estudado o SH.
+
+
+O Sistema Harmonizado de Designação e Codificação de
+Mercadorias (SH)
+
+Diante da celebração de acordos comerciais internacionais, os países definem quais serão as alíquotas de
+imposto de importação aplicáveis a cada produto que ingressa em seus respectivos territórios. Com o
+objetivo de simplificar as negociações, foi criado um sistema de codificação, para que toda e qualquer
+mercadoria existente possa ser nele classificada. Trata-se do Sistema Harmonizado de Designação e
+Codificação de Mercadorias (SH).
+
+O SH é uma lista enorme, que associa a descrição de uma mercadoria – ou um grupo de mercadorias – a um
+código numérico único de 6 dígitos. Dessa forma, sempre que um importador quiser trazer maçã para o
+Brasil, terá que achar o código referente a essa fruta dentro da lista do SH. Perceba, então, que o objetivo
+do SH é buscar a padronização.
+
+
+A Estrutura do SH
+
+Como foi dito, o SH é uma Nomenclatura que associa códigos numéricos a determinados tipos de produtos.
+Como a lista é imensa, resolveram dividi-lo para facilitar a busca. Por isso, existem as seções, os capítulos,
+e, em alguns destes, os subcapítulos. Um detalhe importante é que os códigos foram colocados em ordem,
+de acordo com a intervenção humana na criação do produto.
+
+O SH possui 99 capítulos, mas apenas 96 deles foram utilizados. Quais não foram utilizados? O 77 foi
+reservado para utilização futura, o 98 e o 99 foram guardados para que as partes contratantes criem outros
+códigos para utilização entre elas. Além disso, os capítulos foram enquadrados em 21 seções.
+
+Vamos exemplificar para que fique mais claro para você: a seção II engloba os produtos do reino vegetal.
+Dentro dela estão os capítulos 6 ao 14. Dentro do capítulo 10 estão os cereais. Temos nesse capítulo diversos
+códigos que representam a classificação propriamente dita dos produtos que se encaixam nas respectivas
+definições.
+
+
+---
+
+Também dissemos anteriormente que os códigos numéricos do SH possuem 6 dígitos. Os dois primeiros
+representam o número do capítulo dentro do qual estão localizados. Então, os cereais, que estão
+enquadrados no capítulo 10, iniciam-se pelo código 10.
+
+O terceiro e quarto dígito representam a posição que a mercadoria possui dentro de cada capítulo.
+Utilizando o exemplo dos cereais, temos que a posição 10.06 se refere ao arroz.
+
+Entretanto, temos que guardar que, quando se pergunta a posição de um produto, quer-se saber os quatro
+primeiros dígitos, ou seja, o capítulo e a posição dentro dele. Vamos lá, qual a posição do Arroz? 1006. Ok?
+Mais um exemplo: o milho está na posição 05, dentro do capítulo 10. Qual a posição do milho? 1005.
+
+Se a Nomenclatura do SH é composta por 6 dígitos e só definimos os 4 primeiros, quem são os outros 2?
+Trata-se da subposição de primeiro nível – ou subposição simples– e a subposição de segundo nível – ou
+subposição composta.
+
+Mas para que servem essas subposições? Servem para desdobrar ainda mais as posições dentro do SH. Um
+detalhe importante é que nem sempre as posições são desdobradas. Para identificar isso, basta olhar para
+o quinto dígito. Se ele estiver zerado, é porque não há subposições, seja de primeiro ou de segundo nível.
+Caso haja outro algarismo no quinto dígito, certamente haverá divisão em subposição, pelo menos em
+primeiro nível. Ficou claro?!
+
+Vamos utilizar o exemplo do nosso arroz. Existe arroz com casca e sem casca Então é para isso que as
+subposições existem. Então, temos que o código 1006.10 se refere ao arroz com casca, e o código 1006.20,
+ao arroz descascado. Veja, o quinto dígito está diferente de zero. Logo, haverá divisão em subposições. Mas
+e o sexto dígito, porque ficou zerado?
+
+Eu imaginei que você me perguntaria isso, por isso vou explicar agora. Toda vez que o sexto dígito estiver
+zerado, significa que não há desdobramento em subposição composta. É o mesmo raciocínio! Simples!
+Significa que não houve necessidade de criar outras espécies no interior daquele código.
+
+Perceba que há uma certa hierarquia: em primeiro lugar, localizamos o capítulo (1º e 2º dígitos), depois a
+posição (3º e 4º dígitos) e, por fim, as subposições simples e compostas (5º e 6º dígitos), se houver. Como
+estamos falando de uma sequência, não há possibilidade de termos o 5º dígito zerado e o sexto com algum
+número diferente de zero, pois a subposição simples não foi desdobrada.
+
+Lembre-se de que o SH é uma base para muitas outras nomenclaturas, inclusive para a Nomenclatura
+Comum do Mercosul (NCM), que será estudada a seguir.
+
+
+A Nomenclatura Comum do Mercosul (NCM)
+
+Conforme comentamos no início dessa aula, a Convenção que criou o SH permitiu que as partes contratantes
+detalhassem melhor a lista, de acordo com suas conveniências. Ou seja, poderiam ser criados outros dígitos
+– além dos 6 já existentes – para se adequar aos interesses econômicos dos países.
+
+Com o surgimento do MERCOSUL, passou a vigorar, em 1994, dentro desse bloco econômico, a
+Nomenclatura Comum do MERCOSUL (NCM). A diferença básica entre o SH e a NCM é que esta possui 8
+
+
+---
+
+dígitos (2 a mais do que o SH). Tais dígitos representam o item e o subitem, e foram estabelecidos para
+detalhar melhor os produtos relacionados no SH.
+
+Sendo assim, a estrutura da NCM é a seguinte:
+
+                                            NCM
+
+
+     1º         2º           3º        4º             5º       6º             7º       8º
+
+     CAPÍTULO                POSIÇÃO               SUBPOSIÇÕES            ITEM/SUBITEM
+
+          Observação: A TIPI é baseada na NCM, muito se assemelhando a esta. É interessante que
+          você baixe a TIPI, que se encontra no anexo do Decreto 10.923/2021.
+
+Vistos tais conceitos, é hora de aprendermos as regras para realizar a classificação das mercadorias. Tais
+regras são denominadas Regras Gerais de Interpretação. Estas têm por função localizar os seis primeiros
+dígitos. Quanto aos dois últimos, utilizaremos as Regras Gerais Complementares.
+
+Vamos lá!
+
+
+Regras Gerais de Interpretação
+
+Com o intuito de auxiliar a classificação das mercadorias, segundo a lista do SH, os criadores elaboraram 6
+regras que vão direcionar toda e qualquer mercadoria para um único código. Perceba, claramente, a
+racionalidade do Sistema Harmonizado.
+
+          Regra Geral de Interpretação nº 1: Os títulos das Seções, Capítulos e Subcapítulos têm
+          apenas valor indicativo. Para os efeitos legais, a classificação é determinada pelos textos
+          das posições e das Notas de Seção e de Capítulo e, desde que não sejam contrárias aos
+          textos das referidas posições e Notas, pelas Regras seguintes.
+
+Nós vimos que no SH há seções, capítulos e subcapítulos. Mas, agora, o que importa é que o texto contido
+nos títulos desses três itens possui apenas valor indicativo. Isso significa que eles não podem determinar a
+classificação de uma mercadoria, mas apenas orientar o intérprete na direção a seguir.
+
+
+---
+
+Sendo assim, o que importa para a classificação são os textos das posições (são os 4 primeiros dígitos), das
+notas de seção e de capítulo. No SH, logo abaixo das seções, há algumas observações, que são as notas de
+seções. O mesmo ocorre com relação aos capítulos – logo abaixo do número do capítulo, há algumas
+observações, que são chamadas de notas de capítulo.
+
+Essa regra é simples e autoexplicativa. Não há segredos. Destaque-se que as regras seguintes só podem ser
+observadas se não forem contrárias aos textos das referidas posições e notas de capítulo e de seção. Vamos
+para a segunda regra, que foi dividida em duas partes.
+
+        Regra Geral de Interpretação nº 2-A: Qualquer referência a um artigo em determinada
+        posição abrange esse artigo mesmo incompleto ou inacabado, desde que apresente, no
+        estado em que se encontra, as características essenciais do artigo completo ou acabado.
+        Abrange igualmente o artigo completo ou acabado, ou como tal considerado nos termos
+        das disposições precedentes, mesmo que se apresente desmontado ou por montar.
+
+Vejamos um exemplo para entender a regra 2-A: você precisa classificar um armário de cozinha de madeira.
+Fica fácil concluir que o código correto é o 9403.40, cuja descrição é: “Móveis de madeira, do tipo utilizado
+em cozinhas”. Correto? Acontece que esse nosso armário está sem os puxadores das portas. E aí, continua
+sendo um móvel? Claro! Está de acordo com a regra 2-A, pois preserva a característica essencial do produto
+completo.
+
+Por outro lado, se tivéssemos apenas um pedaço de madeira, sem acabamento, não poderíamos dizer que
+possui a característica essencial do produto, não podendo, portanto, ser classificado como o foi o armário
+de cozinha.
+
+Na segunda parte da regra, é dito que um código também pode ser usado quando estiver desmontado. No
+nosso exemplo, se o armário de cozinha estiver desmontado, com todas as peças, aguardando apenas a
+instalação, não há dúvidas que a regra 2-A será aplicada ao caso. Passemos para a regra 2-B.
+
+        Regra Geral de Interpretação nº 2-B: Qualquer referência a uma matéria em determinada
+        posição diz respeito a essa matéria, quer em estado puro, quer misturada ou associada a
+        outras matérias. Da mesma forma, qualquer referência a obras de uma matéria
+        determinada abrange as obras constituídas inteira ou parcialmente por essa matéria. A
+        classificação destes produtos misturados ou artigos compostos efetua-se conforme os
+        princípios enunciados na Regra 3.
+
+Essa regra, em outras palavras, diz que se o código se refere a um artefato de madeira, ali podem ser
+classificados os artefatos produzidos apenas com madeira, mas também com madeira misturada ou
+composta com outros materiais. Se um produto, por exemplo, possui plástico e ferro, classificaríamos como
+plástico ou como ferro?
+
+Veja que a regra 2-B não nos elucida essa dúvida, apenas remete tais situações para a leitura da regra 3, que,
+por sua vez, possui 3 partes. Vamos a elas:
+
+
+---
+
+        Regra Geral de Interpretação nº 3: Quando pareça que a mercadoria pode classificar-se
+        em duas ou mais posições por aplicação da Regra 2 b) ou por qualquer outra razão, a
+        classificação deve efetuar-se da forma seguinte:
+
+        3-A)A posição mais específica prevalece sobre as mais genéricas. Todavia, quando duas ou
+        mais posições se refiram, cada uma delas, a apenas uma parte das matérias constitutivas
+        de um produto misturado ou de um artigo composto, ou a apenas um dos componentes
+        de sortidos acondicionados para venda a retalho, tais posições devem considerar-se, em
+        relação a esses produtos ou artigos, como igualmente específicas, ainda que uma delas
+        apresente uma descrição mais precisa ou completa da mercadoria.
+
+Vamos analisar ponto a ponto dessa regra. Em primeiro lugar, foi estabelecido que, quando estivermos em
+dúvida se um produto será classificado como sendo de um material ou de outro (plástico ou ferro, por
+exemplo), devemos analisar se algum dos códigos é mais específico do que o outro.
+
+O que quer dizer específico? Ser específico é dar uma definição mais próxima possível do produto. Por outro
+lado, ser genérico, é não entrar em detalhes sobre o produto. Em diversas ocasiões, o SH afirma
+simplesmente “outros”, a fim de alcançar tudo o que não foi ali esmiuçado. Isso é ser genérico.
+
+Outro detalhe na regra é que, quando houver um produto composto por 3 matérias (plástico, madeira e
+ferro), e cada uma delas for responsável por uma parte do produto inteiro, todas elas serão consideradas
+igualmente específicas.
+
+Vamos explicar agora o que são os componentes sortidos acondicionados para venda a retalho. Isso ocorre,
+por exemplo, quando está sendo importado um kit de material escolar, que possui um lápis, uma caneta e
+um caderno. Veja que cada item dentro da embalagem terá um código diferente do outro. Nesse caso,
+também teremos que partir para a próxima regra. Entendido?
+
+        Regra Geral de Interpretação nº 3-B: Os produtos misturados, as obras compostas de
+        matérias diferentes ou constituídas pela reunião de artigos diferentes e as mercadorias
+        apresentadas em sortidos acondicionados para venda a retalho, cuja classificação não se
+        possa efetuar pela aplicação da Regra 3 a), classificam-se pela matéria ou artigo que lhes
+        confira a característica essencial, quando for possível realizar esta determinação.
+
+Essa regra é simples de entender. Basta verificar se é possível dizer se uma mercadoria tem como
+característica essencial o ferro ou a madeira, por exemplo. É uma análise física mesmo... O mesmo raciocínio
+se aplica ao kit de material escolar do nosso exemplo anterior. Mas e se não for possível tal constatação?
+Ora, vamos para a próxima regra.
+
+        Regra Geral de Interpretação nº 3-C: Nos casos em que as Regras 3 a) e 3 b) não permitam
+        efetuar a classificação, a mercadoria classifica-se na posição situada em último lugar na
+        ordem numérica, dentre as suscetíveis de validamente se tomarem em consideração.
+
+Essa regra busca dar um fim às dúvidas. Veja que ela diz que se não tiver sido possível classificar o produto
+pelas regras 3-A e 3-B, escolha a posição situada em último lugar na ordem numérica, entre aqueles que
+estavam para ser escolhidos. Essa regra matará quase tudo, concorda?
+
+
+---
+
+Se a questão disser que devemos escolher o código com maior alíquota, ela estará claramente errada.
+Cuidado! O que importa é a ordem das posições.
+
+        Observação: Existe uma maneira de guardar a sequência das regras que compõem a RG3.
+        Veja: esPecífico, eSsencial, e a última posição. O “P” vem antes do “S”, que, por sua vez,
+        antecede à última regra.
+
+Vamos estudar a RGI nº 4:
+
+        Regra Geral de Interpretação nº 4: As mercadorias que não possam ser classificadas por
+        aplicação das Regras acima enunciadas classificam-se na posição correspondente aos
+        artigos mais semelhantes.
+
+Outra regra autoexplicativa! Tudo o que você precisa é guardar o texto da regra, o que não é difícil, se você
+pensar que, se até agora não houve uma solução para a classificação correta, deve-se partir para aqueles
+artigos semelhantes.
+
+Nas próximas duas regras, estudaremos alguns detalhes sobre as embalagens das mercadorias.
+
+        Regra Geral de Interpretação nº 5: Além das disposições precedentes, as mercadorias
+        abaixo mencionadas estão sujeitas às Regras seguintes:
+
+        5-A)Os estojos para câmeras fotográficas, para instrumentos musicais, para armas, para
+        instrumentos de desenho, para jóias e receptáculos semelhantes, especialmente
+        fabricados para conterem um artigo determinado ou um sortido, e suscetíveis de um uso
+        prolongado, quando apresentados com os artigos a que se destinam, classificam-se com
+        estes últimos, desde que sejam do tipo normalmente vendido com tais artigos. Esta Regra,
+        todavia, não diz respeito aos receptáculos que confiram ao conjunto a sua característica
+        essencial.
+
+As regras 5-A e 5-B se referem às embalagens dos produtos nelas contidos. A intenção da regra é informar
+se as embalagens serão classificadas no mesmo ou diferente código da mercadoria que elas acondicionam.
+
+Antes de passarmos ao texto dessa regra, precisamos ter em mente que existem 3 tipos de embalagens: de
+uso único, de uso repetido e de uso prolongado. A primeira são aquelas latinhas de refrigerantes, que são
+descartadas após o único uso. A segunda são aquelas em que o produto acaba, e a embalagem é novamente
+utilizada para o acondicionamento de novo produto. Cite-se, como exemplo, o botijão de gás.
+
+
+---
+
+Por fim, as embalagens de uso prolongado são aquelas que acompanham o produto durante a sua vida útil.
+Perceba a diferença entre uma caixa de papelão (geralmente descartada logo após o uso) e uma caixa de um
+instrumento musical (guitarra).
+
+O que temos que entender da regra 5-A é que ela diz que as embalagens de uso prolongado serão
+classificadas junto com os produtos que acondicionam, desde que sejam do tipo normalmente vendidos
+com esses produtos, não tenham a característica essencial (não podem, obviamente, valer mais do que o
+produto em si), e que sejam apresentadas juntamente com o produto a que se destina.
+
+Não faria sentido classificar a caixa de uma guitarra como um instrumento musical se ela for de ouro. Neste
+caso, a embalagem torna-se característica essencial do conjunto. Também não há razões para se classificar
+uma importação de 10 caixas de guitarra como 10 guitarras, se elas estiverem sendo importadas
+separadamente.
+
+        Regra Geral de Interpretação nº 5-B: Sem prejuízo do disposto na Regra 5 a), as
+        embalagens que contenham mercadorias classificam-se com estas últimas quando sejam
+        do tipo normalmente utilizado para o seu acondicionamento. Todavia, esta disposição não
+        é obrigatória quando as embalagens sejam claramente suscetíveis de utilização repetida.
+
+A primeira parte dessa regra refere-se às embalagens de uso único. É o caso, como havíamos dito, das
+latinhas de refrigerante. Classificam-se junto com a mercadoria.
+
+Na segunda parte, existe uma informação muito importante, que diz que a obrigatoriedade de classificar a
+embalagem junto com a mercadoria não ocorre quando aquela é suscetível de utilização repetida.
+
+Mas o que a RGI 5-B quis dizer com não ser obrigatória? Significa que há uma margem de discricionariedade
+para as partes, ou seja, elas podem ou não ser classificadas juntamente com a mercadoria. Mais adiante,
+nós veremos como isso foi definido no âmbito do Mercosul.
+
+        Regra Geral de Interpretação nº 6: A classificação de mercadorias nas subposições de uma
+        mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e das
+        Notas de subposição respectivas, bem como, mutatis mutandis, pelas Regras precedentes,
+        entendendo-se que apenas são comparáveis subposições do mesmo nível. Na acepção da
+        presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições
+        em contrário.
+
+Essa regra não se refere à classificação propriamente dita. Ela apenas orienta que, após classificar a
+posição do produto (é o que fizemos até agora), o próximo passo é seguir novamente as regras para
+a classificação da subposição simples e a composta.
+
+Então, após definirmos a posição da mercadorias, deveríamos voltar à regra 1 e ir seguindo até
+classificar a subposição simples. Logo depois, faríamos o mesmo para a subposição composta,
+lembrando que apenas são comparáveis as subposições de mesmo nível. Ou seja, há uma hierarquia
+na definição do código: primeiro se define o quinto dígito, para depois definir o sexto.
+
+
+---
+
+Ao usar as regras anteriores para definir as subposições, devemos adaptar o texto delas, isto é, onde
+estiver escrito posição, trocamos para subposição. Esse é o significado de “mutatis mutandis”.
+
+Regras Gerais Complementares
+
+Nós vimos que a NCM tem por objetivo principal ampliar os dígitos do SH. Por esse motivo, foi necessário
+estabelecer outra regra que orientasse o classificador, no que se refere ao item e subitem (7º e 8º dígitos).
+Com isso, foi criada a Regra Geral Complementar seguinte:
+
+        Regra Geral Complementar 1: As Regras Gerais para Interpretação do Sistema
+        Harmonizado se aplicarão, mutatis mutandis, para determinar dentro de cada posição ou
+        subposição, o item aplicável e, dentro deste último, o subitem correspondente,
+        entendendo-se que apenas são comparáveis desdobramentos regionais (itens e subitens)
+        do mesmo nível.
+
+Observe que essa regra consiste praticamente em “copiar e colar” a RGI 6 do SH. A RGI 6 auxilia a encontrar
+a subposição simples e composta. No que se refere à NCM, precisamos de uma direção para classificar o item
+e o subitem de forma correta. Como fazer? Basta seguir as regras do SH.
+
+Existe, ainda, outra regra criada, juntamente com a NCM. Você deve se lembrar de quando falamos que a
+embalagem de utilização repetida não é obrigada a seguir a classificação da mercadoria que ela está
+acondicionando. Recomendo que você volte e releia a regra 5-B com atenção.
+
+Vamos ver, então, o que foi decidido sobre a permissão da RGI 5-B:
+
+        Regra Geral Complementar 2: As embalagens que contenham mercadorias e que sejam
+        claramente suscetíveis de utilização repetida, mencionadas na Regra 5 b), seguirão seu
+        próprio regime de classificação sempre que estejam submetidas aos regimes aduaneiros
+        especiais de admissão temporária ou de exportação temporária. Caso contrário, seguirão
+        o regime de classificação das mercadorias.
+
+Repare que há mais uma condição: as embalagens de utilização repetida e que estiverem submetidas aos
+regimes aduaneiros especiais de admissão temporária ou de exportação temporária seguirão o seu próprio
+regime. Caso contrário, serão classificadas juntamente com as mercadorias.
+
+O botijão de gás que entrar no regime comum de importação ficará sujeito ao mesmo regime do gás. Por
+quê? Ele é de utilização repetida, mas não está submetido a nenhum dos dois regimes aduaneiros especiais
+expressamente ditos na regra.
+
+Veja o resumo:
+
+
+---
+
+        Observação: Veja que há dois retângulos. O retângulo superior representa as Regras Gerais
+        de Interpretação do SH (RGI), e o inferior, as Regras Gerais Complementares da NCM (RGC).
+
+As Notas Complementares e as NESH
+
+O que vem a ser Notas Complementares (NC)? A palavra “notas” já foi estudada, e sabemos, pela RGI-1, que
+elas podem ser de seção ou de capítulo e ajudam a definir a classificação da mercadoria. Sabemos também
+que a palavra complementares está relacionada às Regras Gerais Complementares.
+
+Dessa forma, fica fácil inferir que a diferença entre essas Notas Complementares e as demais já estudadas é
+que as NCs auxiliam a classificação do item e subitem, presentes na NCM. Assim, se a RGC-1 define a
+classificação dos itens e subitens, as Notas Complementares trabalharão como auxiliadoras nessa
+classificação.
+
+Faz-se necessário saber também que as Notas Explicativas do Sistema Harmonizado de Designação e
+Codificação de Mercadorias (NESH) são explicações ao texto de cada posição, com objetivo de tornar mais
+claro o alcance dos termos utilizados em cada uma delas. Vale ressaltar que a NESH apenas auxilia na
+classificação, sendo, por isso mesmo, de valor subsidiário.
+
+
+---
+
+A NESH possui valor subsidiário (não há caráter jurídico), apenas auxiliando na classificação. Lembre-se
+daquelas mercadorias complexas, que estão previstas dentro do SH.
+
+As Disposições do RIPI sobre a TIPI
+
+Com base em todo o exposto até este momento, creio que não restará dúvidas sobre o que o RIPI
+estabeleceu sobre a TIPI. Nós havíamos dito que a TIPI foi elaborada com base na NCM, correto?
+Corroborando tal explicação, vejamos o que preceitua o art. 15 do RIPI:
+
+       Art. 15. Os produtos estão distribuídos na TIPI por Seções, Capítulos, Subcapítulos, Posições,
+       Subposições, Itens e Subitens.
+
+Ora, da mesma forma que a NCM, a TIPI foi distribuída por seções, capítulos, subcapítulos, posições,
+subposições e até mesmo (o que não consta no SH, mas apenas na NCM) itens e subitens.
+
+Com efeito, para classificar os produtos na NCM, é necessário utilizar as RGIs e RGCs, além de contar com o
+auxílio das Notas Complementares. Seguindo à risca esse entendimento, assim estabelece o art. 16 do RIPI:
+
+       Art. 16. Far-se-á a classificação de conformidade com as Regras Gerais para Interpretação - RGI,
+       Regras Gerais Complementares - RGC e Notas Complementares - NC, todas da Nomenclatura Comum
+       do MERCOSUL - NCM, integrantes do seu texto.
+
+No que se refere às NESH, há que se observar que constituem elementos subsidiários de caráter fundamental
+na interpretação e classificação das mercadorias:
+
+       Art. 17. As Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de
+       Mercadorias - NESH, do Conselho de Cooperação Aduaneira na versão luso-brasileira, efetuada pelo
+       Grupo Binacional Brasil/Portugal, e suas alterações aprovadas pela Secretaria da Receita Federal do
+       Brasil, constituem elementos subsidiários de caráter fundamental para a correta interpretação do
+       conteúdo das Posições e Subposições, bem como das Notas de Seção, Capítulo, Posições e de
+       Subposições da Nomenclatura do Sistema Harmonizado.
+
+Por fim, cabe destacar que a TIPI pode receber desdobramentos, além daqueles previstos na NCM (itens e
+subitens). Trata-se das exceções, representadas pela sigla (Ex), e acompanhadas da numeração sequencial
+em relação a um mesmo código NCM, com o objetivo de diferenciar alíquotas dentro de um mesmo código
+NCM.
+
+Vamos ver um exemplo prático. Se você observar na TIPI, a NCM 2402.20.00 representa os cigarros que
+contenham tabaco. Esta NCM recebeu a tributação de 300% de IPI. No entanto, há uma exceção, ou melhor,
+um desdobramento, representado pelo código Ex 01, que são os tabacos feitos à mão. Estes possuem a
+tributação de apenas 30%.
+
+Sendo assim, com as exceções, é possível desdobrar além do que já foi permitido com a inclusão dos itens e
+subitens (7º e 8º dígitos) da NCM.
+
+
+---
+
+Por fim, devemos fazer pequena transcrição do Decreto 10.923/2021, responsável por aprovar a Tabela de
+Incidência do Imposto sobre Produtos Industrializados – TIPI:
+
+     Art. 4º Fica a Secretaria Especial da Receita Federal do Brasil do Ministério da Economia autorizada a
+     adequar a TIPI sempre que não implicar alteração de alíquota, em decorrência de alterações
+     promovidas na NCM pelo Comitê-Executivo de Gestão da Câmara de Comércio Exterior - Camex do
+     Ministério da Economia.
+
+Isso significa que a RFB pode adequar a TIPI às alterações da NCM promovidas pela CAMEX. Contudo, tal
+alteração somente é possível se não houver alteração de alíquota.
+
+
+---
+
+                    REDUÇÃO E MAJORAÇÃO DO IPI
+Inicialmente, é necessário abordarmos, de forma bem sucinta, o que a CF/88 dispõe sobre o princípio da
+legalidade, no que se refere ao IPI:
+
+Princípio da Legalidade: O art. 153, § 1º, da CF/88, assevera que é facultado ao Poder Executivo, atendidas
+as condições e os limites estabelecidos em lei, alterar as alíquotas do IPI.
+
+No RIPI, encontramos os limites para as alterações de alíquotas por meio de ato do Poder Executivo:
+
+       Art. 69. O Poder Executivo, quando se tornar necessário para atingir os objetivos da política
+       econômica governamental, mantida a seletividade em função da essencialidade do produto, ou,
+       ainda, para corrigir distorções, poderá reduzir alíquotas do imposto até zero ou majorá-las até trinta
+       unidades percentuais.
+
+       Parágrafo único. Para efeito do disposto neste artigo, as alíquotas básicas são as constantes da TIPI,
+       aprovada pelo Decreto no 4.070, de 28 de dezembro de 2001.
+
+Para melhor entendimento do assunto, vejamos o que diz o art. 4º do Decreto-Lei 1.199/71, que
+regulamentou o art. 69 do RIPI:
+
+       Art 4º O Poder Executivo, em relação ao Impôsto sôbre Produtos Industrializados, quando se torne
+       necessário atingir os objetivos da política econômica governamental, mantida a seletividade em
+       função da essencialidade do produto, ou, ainda, para corrigir distorções, fica autorizado:
+
+       I - a reduzir alíquotas até 0 (zero);
+
+       II - a majorar alíquotas, acrescentando até 30 (trinta) unidades ao percentual de incidência fixado
+       na lei;
+
+Veja, portanto, que é possível reduzir as alíquotas do IPI a zero, ou majorá-las em até 30%. Alterações acima
+desse percentual requerem ato do Poder Legislativo.
+
+Vale ressaltar que, como prevê o par. único, do art. 69, do RIPI, os parâmetros de majoração bem como a
+redução são feitos com base nas alíquotas básicas, que são aquelas constantes da TIPI.
+
+Assim, por exemplo, se determinado produto possui alíquota básica de 15% na TIPI, pode sofrer redução a
+zero ou ser majorado até 45%, resultando em majoração no limite de 30%. Alterações superiores a esse
+limite requerem autorização do Poder Legislativo.
+
+
+Reduções e Majorações Específicas
+
+Caro concurseiro, conhecendo o nível de detalhamento a que as provas de concurso tem chegado, eu não
+duvido que na próxima prova possam ser cobradas as disposições específicas do RIPI sobre a redução e
+majoração do IPI.
+
+
+---
+
+Vamos ver nesse curso pelo menos alguns conceitos básicos, tendo em vista que decorar tudo é tarefa
+praticamente impossível. O que vamos estudar neste tópico está previsto nos arts. 70 a 80 do RIPI.
+
+Em primeiro lugar, asseguram-se reduções do IPI referentes aos bens de procedência estrangeira desde
+que satisfeitos os requisitos e condições exigidos para a concessão do benefício análogo, relativo ao
+Imposto de Importação, na forma da legislação específica.
+
+A título de complementação, a base legal do RIPI, isto é, a Lei 8.032/1990, estabelece que as isenções e
+reduções do Imposto de Importação ficam limitadas às hipóteses ali elencadas, como, por exemplo,
+importações realizadas pela União, pelos Estados, pelo Distrito Federal, pelos Territórios, pelos Municípios
+assim como suas respectivas autarquias.
+
+Fico estabelecido também que o Poder Executivo poderá fixar, para o IPI incidente sobre os produtos
+classificados nos Códigos 71.13, 71.14, 71.16 e 71.17 da TIPI (artefatos de joalheria, ouriversaria, pérolas e
+bijuterias), alíquotas correspondentes às mínimas estabelecidas para o ICMS, nos termos do inciso VI do §
+2o do art. 155 da Constituição. Tais alíquotas, quando assim fixadas, serão uniformes em todo o território
+nacional.
+
+Também está previsto que haverá redução de 50% do IPI incidente sobre equipamentos, máquinas,
+aparelhos e instrumentos, bem como os acessórios sobressalentes e ferramentas que acompanhem esses
+bens, quando estiverem destinados à pesquisa e ao desenvolvimento tecnológico
+
+Com base na LC 123/2006, e respectivas alterações posteriores, foi permitido à União reduzir a zero a
+alíquota do IPI incidente na aquisição ou na importação de equipamentos, máquinas, aparelhos,
+instrumentos, acessórios sobressalentes e ferramentas que os acompanhem, na forma definida em
+regulamento específico, quando adquiridos, ou importados, diretamente por microempresas ou empresas
+de pequeno porte para incorporação ao seu ativo imobilizado.
+
+
+---
+
+                          QUESTÕES COMENTADAS
+1.ESAF/AFRFB/2012
+Há isenção de IPI sobre hidrocarbonetos, assim entendidos os derivados do petróleo, resultantes da sua
+transformação, mediante processos genericamente denominados refino ou refinação.
+
+Comentário: Na verdade, trata-se de imunidade, e não de isenção.
+
+Gabarito: Errada
+
+Além das citadas imunidades, não podemos desprezar que o texto constitucional também imuniza algumas
+entidades, fazendo com que não haja incidência do IPI sobre algumas operações. São as denominadas
+imunidades subjetivas.
+
+2.QUESTÃO INÉDITA
+É possível que determinado produto destinado ao exterior seja imune de IPI, ainda que não ocorra a efetiva
+saída deste do território nacional.
+Gabarito: Correta
+
+3.ESAF/ISS-RJ/2010
+A imunidade tributária recíproca aplica-se às operações de importação de bens realizadas por municípios,
+quando o ente público for o importador do bem (identidade entre o ‘contribuinte de direito’ e o ‘contribuinte
+de fato’.
+Gabarito: Correta
+
+4.ESAF/TRF/2003
+O IPI, de acordo com a Constituição Federal, deve atender a dois princípios:
+a) não-cumulatividade e progressividade, em função de o produto ser considerado supérfluo.
+b) diferenciação de alíquotas, em função dos títulos dos capítulos e posição, e a não-cumulatividade.
+c) não-cumulatividade e superficialidade.
+d) seletividade, em função da essencialidade do produto, e a cumulatividade.
+e) seletividade, em função da essencialidade do produto, e a não-cumulatividade.
+
+Comentário: De acordo com o que está previsto no art. 153, § 3º, I e II, da CF/88, o IPI deve atender tanto
+ao princípio da seletividade, como o princípio da não cumulatividade. O primeiro preconiza que o imposto
+deve ser graduado conforme a essencialidade do produto; o segundo caracteriza-se pela compensação do
+imposto devido em cada operação com o que já foi cobrado nas etapas anteriores, evitando-se, assim, a
+tributação em cascata. Sendo assim, a alternativa correta é a Letra E.
+
+Gabarito: Letra E
+
+5.ESAF/ISS-Natal/2001
+
+
+---
+
+Indique, nas opções abaixo, o imposto que deverá, obrigatoriamente, ter as características de seletividade,
+em função da essencialidade e de não-cumulatividade.
+a) Imposto sobre a renda e proventos.
+b) Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação.
+c) Imposto sobre a propriedade de veículos automotores.
+d) Imposto sobre produtos industrializados.
+e) Imposto sobre transmissão causa mortis e doação.
+
+Comentário: Conforme vimos nos comentários da questão anterior, o único imposto que deve
+obrigatoriamente observar ambos os princípios (seletividade e não cumulatividade) é o IPI. Questão bastante
+simples para quem conhece o art. 153, § 3º da Constituição. Apenas a título de curiosidade, o ICMS também
+deve ser sempre não cumulativo, mas pode ou não obedecer ao princípio da seletividade, conforme prevê o
+art. 155, § 2º, I e III. Sendo assim, a Letra D é a resposta da questão.
+
+Gabarito: Letra D
+
+6.ESAF/AFRF/2005
+O Imposto sobre Produtos Industrializados (IPI), de competência da União,
+a) terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, mediante
+ato do Poder Executivo.
+b) poderá incidir sobre produtos industrializados destinados ao exterior.
+c) poderá ser seletivo, em função da essencialidade do produto.
+d) constitui exceção ao princípio da legalidade, eis que é facultado ao Poder Executivo, atendidas as
+condições e os limites da lei, alterar suas alíquotas.
+e) poderá ser não-cumulativo, compensando-se o que for devido em cada operação com o montante
+cobrado nas anteriores.
+
+Comentário:
+
+Alternativa A: O erro da assertiva está em mencionar ato do Poder Executivo (ato infralegal). Conforme a
+CF/88, o IPI terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, na
+forma da lei. Item errado.
+
+Alternativa B: A questão contraria o dispositivo constitucional, ao dizer que o IPI pode incidir sobre produtos
+industrializados destinados ao exterior. Na realidade, trata-se de uma imunidade, que impede a tributação
+do referido imposto sobre operações destinadas ao exterior. Item errado.
+
+Alternativa C: O IPI “deve” ser seletivo, e não apenas “pode”. Grave isso e lembre-se da diferença entre o
+tratamento da seletividade do IPI e do ICMS (este pode ser seletivo ou não). Item errado.
+
+Alternativa D: De acordo com o § 1º, do art. 153, da CF/88, é facultado ao Poder Executivo, atendidas as
+condições e os limites estabelecidos em lei, alterar as alíquotas do IPI. Item correto.
+
+
+---
+
+Alternativa E: Da mesma forma que o ICMS, o IPI “deve” ser não cumulativo. Item errado.
+
+Gabarito: Letra D
+
+7.ESAF/TRF/2002
+Constituição Federal, artigo 153, § 3º - O imposto previsto no inciso IV: (Imposto Sobre Produtos
+Industrializados)
+I - será seletivo, em função da essencialidade do produto;
+II - ...................................
+Em face do enunciado, assinale a opção correta.
+a) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo generalizado. Quanto
+mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e higiênico das
+classes mais numerosas, tanto menores devem ser.
+b) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão direta da imprescindibilidade das mercadorias de consumo generalizado. Quanto
+menos sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e higiênico das
+classes mais numerosas, tanto menores devem ser.
+c) Seletividade quer dizer discriminação ou sistema de alíquotas homogêneas por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão direta da imprescindibilidade das mercadorias de consumo supérfluo. Quanto mais
+sejam elas necessárias à alimentação, ao estuário, à moradia, ao tratamento médico e higiênico das classes
+mais numerosas, tanto maiores devem ser.
+d) Seletividade quer dizer não-discriminação ou sistema de alíquotas homogêneas por espécies de
+mercadorias. Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe
+que estabeleça as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo
+generalizado. Quanto mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento
+médico e higiênico das classes mais numerosas, tanto menores devem ser.
+e) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador constitucional, recomendando-lhe que
+estabeleça as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo supérfluo.
+Quanto mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e
+higiênico das classes menos numerosas, tanto menores devem ser.
+DICA DE PROVA: Quando você se deparar com questões grandes, preste muita atenção, pois costumam ser
+as mais simples, já que o examinador não teria paciência o suficiente para elaborar 5 assertivas com vários
+defeitos em cada uma.
+
+Comentário: Perceba que todas as alternativas tratam da seletividade, correto? Nesse momento, você deve
+se lembra do seguinte conceito: seletividade diz respeito à essencialidade do produto, de modo que quanto
+mais essencial for o produto, menor será a alíquota e vice-versa. Ok? Vamos lá:
+
+
+---
+
+Seletividade se relaciona com as diferentes alíquotas a depender da essencialidade do produto. Portanto, é
+um sistema de alíquotas diferenciais (eliminamos as alternativas C e D). Além disso, o dispositivo
+constitucional foi endereçado ao legislador ordinário. Nesse sentido, descartamos também a alternativa E.
+
+Por fim, como comentamos, quanto mais essencial for o produto, menor será a alíquota praticada. Com isso,
+percebemos que há uma razão inversa da imprescindibilidade. Eliminamos, assim, a letra B, chegando ao
+gabarito A. Nada de desespero com questões grandes a partir de agora, tudo bem?
+
+Gabarito: Letra A
+
+8.ESAF/PFN/1998
+Inexiste vedação constitucional à incidência do Imposto sobre Produtos Industrializados, nas operações
+relativas a
+a) derivados de petróleo.
+b) cinescópios.
+c) minerais do País.
+d) combustíveis.
+e) energia elétrica.
+
+Comentário: De acordo com o art. 155, § 3º, da CF/88, com exceção do II, IE e ICMS, nenhum outro imposto
+(e não tributo) poderá incidir sobre energia elétrica (eliminamos a letra E), serviços de telecomunicações,
+derivados de petróleo (eliminamos a letra A), combustíveis (eliminamos a letra D) e minerais do País
+(eliminamos a letra C). A resposta, portanto, é a Letra B.
+
+Gabarito: B
+
+9.ESAF/ATRFB/2009
+“A redução do Imposto sobre Produtos Industrializados − IPI para geladeiras, fogões, máquinas de lavar e
+tanquinhos, produtos da linha branca, que encerraria no próximo dia 31, foi prorrogada por mais três meses.
+A partir de 10 de novembro entra em vigor uma nova tabela cujas alíquotas passam a ser estabelecidas
+com base na eﬁciência energética dos produtos, de acordo com a classiﬁcação do Programa Brasileiro de
+Etiquetagem, coordenado pelo Inmetro.
+O anúncio foi feito nesta quinta-feira pelo ministro da Fazenda Guido Mantega. “Nós estamos desonerando
+mais os produtos que consomem menos energia”, explicou. A medida vale até 31 de janeiro de 2010.
+Segundo ele, as geladeiras, que antes do IPI baixo tinham uma alíquota de 15%, e recuou para 5%, poderão
+manter essa mesma alíquota reduzida, mas somente para os produtos da chamada classe “A”, ou seja, com
+menor consumo de energia. As geladeiras da classe “B” passarão a ter uma alíquota de 10% e o restante
+voltará a ter um IPI de 15%.”
+(Extraído do site www.fazenda.gov.br, notícia de 29.10.2009).
+Na notícia acima, identiﬁcamos um importante aspecto do IPI – Imposto sobre Produtos Industrializados.
+Assinale, entre as opções que se seguem, aquela que explica e justiﬁca tal aspecto, isto é, somente aquele
+que a notícia mencionada destacou.
+
+
+---
+
+a) Por meio da seletividade, pode-se tributar com alíquotas diferenciadas produtos de acordo com o seu grau
+de essencialidade.
+b) A notícia demonstra a aplicabilidade do princípio constitucional da capacidade tributária, pois estabelece
+alíquotas diferenciadas para as diversas categorias de geladeiras existentes no mercado.
+c) O IPI constitui uma exceção à regra geral da legalidade, já que o Poder Executivo pode, a qualquer
+momento, baixar ou restabelecer as suas alíquotas.
+d) A não-cumulatividade, outra característica do IPI, visa impedir que as incidências sucessivas nas diversas
+operações da cadeia econômica de um produto impliquem um ônus tributário muito elevado, decorrente da
+múltipla tributação da mesma base econômica.
+e) A extraﬁscalidade consiste na possibilidade de, por meio de alíquotas diferenciadas, estimular-se
+determinado comportamento por parte da indústria e, consequentemente, dos consumidores.
+
+Comentário: Trata-se de questão retirada da prova de Direito Tributário do concurso de Analista Tributário
+da Receita Federal do Brasil, realizado em 2009. No entanto, como se trata de IPI, não vamos deixar de
+aproveitar a oportunidade de comentá-la em nosso curso.
+
+Não confunda o princípio da seletividade com o da extrafiscalidade. No caso em análise, não se está
+reduzindo a alíquota para produtos essenciais, mas sim para produtos que atenderem aos objetivos do
+governo, que é a redução de consumo energético. Nesse sentido, a única alternativa que justifica o
+enunciado dessa questão é a Letra E, que corresponde ao princípio da extrafiscalidade.
+
+Gabarito: Letra E
+
+10.ESAF/AFRFB/2014
+São imunes da incidência do Imposto sobre Produtos Industrializados, exceto:
+a) o ouro, quando definido em lei como ativo financeiro ou instrumento cambial.
+b) os livros, jornais e periódicos e o papel destinado à sua impressão.
+c) os produtos industrializados destinados ao exterior.
+d) as aeronaves de uso militar vendidas à União.
+e) a energia elétrica, derivados do petróleo, combustíveis e minerais do País.
+
+Comentário:
+
+Alternativa A: São imunes, de acordo com o art. 18, III, do RIPI. Item correto.
+
+Alternativa B: São imunes, de acordo com o art. 18, I, do RIPI. Item correto.
+
+Alternativa C: São imunes, de acordo com o art. 18, II, do RIPI. Item correto.
+
+Alternativa D: Não há imunidade, mas sim isenção, como será visto em aula posterior, sobre as aeronaves
+de uso militar vendidas à União (RIPI, art. 54, VI). Item errado.
+
+Alternativa E: São imunes, de acordo com o art. 18, IV, do RIPI. Item correto.
+
+
+---
+
+Gabarito: Letra D
+
+11.QUESTÃO INÉDITA
+A Constituição Federal de 1988 instituiu o imposto sobre produtos industrializados, em seu art. 153, IV.
+
+Comentário: O citado dispositivo apenas conferiu competência tributária à União, para que esta, mediante
+lei, institua o tributo. Portanto, a questão está errada.
+
+Gabarito: Errada
+
+12.QUESTÃO INÉDITA
+A alteração da base de cálculo do imposto sobre produtos industrializados pode ser promovida por meio de
+decreto do Poder Executivo.
+
+Comentário: Somente constitui exceção ao princípio da legalidade a alteração das alíquotas do imposto,
+desde que atendidas as condições e os limites estabelecidos em lei.
+
+Gabarito: Errada
+
+13.QUESTÃO INÉDITA
+Por constituir importante fonte de receita para a União, o legislador do IPI deve respeitar todos os princípios
+constitucionais tributários, em todas as suas formas.
+
+Comentário: Sabemos que há algumas exceções, a exemplo do princípio da anterioridade. Portanto, a
+questão está errada.
+
+Gabarito: Errada
+
+14.QUESTÃO INÉDITA
+Não se considera industrialização, o preparo de produtos alimentares, não acondicionados em embalagem
+de apresentação, desde que a operação seja realizada na residência do preparador.
+
+Comentário: O preparo não precisa ser na residência, podendo ser, por exemplo, feito em bares.
+
+Gabarito: Errada
+
+15.ESAF/AFRFB/2012
+A mistura de tintas entre si, ou com concentrados de pigmentos, sob encomenda do consumidor ou usuário,
+realizada em estabelecimento comercial varejista, efetuada por máquina automática ou manual, não se
+caracteriza como industrialização, desde que fabricante e varejista não sejam empresas interdependentes,
+controladora, controlada ou coligadas.
+Gabarito: Correta
+
+16.ESAF/ATRFB/2012
+
+
+---
+
+Para fins da incidência do Imposto sobre Produtos Industrializados, a industrialização é caracterizada como
+qualquer operação que modifique a natureza, o funcionamento, o acabamento, a apresentação ou a
+finalidade do produto.
+
+Comentário: De acordo com o previsto no caput do art. 4º, do RIPI, caracteriza industrialização qualquer
+operação que modifique a natureza, o funcionamento, o acabamento, a apresentação ou a finalidade do
+produto, ou o aperfeiçoe para consumo.
+
+Gabarito: Correta
+
+17.ESAF/ATRFB/2012
+O aperfeiçoamento para consumo é considerado como industrialização, para fins da incidência do Imposto
+sobre Produtos Industrializados, dependendo do processo utilizado para obtenção do produto e da
+localização e condições das instalações ou equipamentos empregados.
+
+Comentário: Nunca se esqueça de que são irrelevantes, para caracterizar a operação como industrialização,
+o processo utilizado para obtenção do produto e a localização e condições das instalações ou equipamentos
+empregados. Isso é o que prevê o par. único, do art. 4º, do RIPI.
+
+Gabarito: Errada
+
+18.ESAF/ATRFB/2012
+A alteração da apresentação do produto pela colocação de embalagem, ainda que em substituição da
+original, salvo quando a embalagem colocada se destine apenas ao transporte da mercadoria, é
+caracterizado como industrialização para fins da incidência do Imposto sobre Produtos Industrializados.
+
+Comentário: Caracteriza-se como operação de industrialização o acondicionamento ou
+reacondicionamento, sendo caracterizado por alterar a apresentação do produto, pela colocação da
+embalagem, ainda que em substituição da original, salvo quando a embalagem colocada se destine apenas
+ao transporte da mercadoria (RIPI, art. 4º, IV).
+
+Gabarito: Correta
+
+19.ESAF/TTN/1998
+Caracteriza-se produto industrializado:
+a) produto do reino vegetal, in natura
+b) produto alimentar preparado em estabelecimento comercial, exposto à venda, não acondicionado em
+embalagem de apresentação
+c) produto isento do imposto e que tenha sido parcialmente industrializado
+d) óculos montados mediante receita médica
+e) água mineral natural
+
+Comentário:
+
+
+---
+
+Alternativa A: Produto in natura é aquele que não passou por nenhum processo de industrialização, não
+podendo, por óbvio, ser considerado como produto industrializado. Item errado.
+
+Alternativa B: Produto excluído do conceito de industrialização pelo RIPI (art. 5º, I). Item errado.
+
+Alternativa C: Se o produto sofreu industrialização, ainda que parcial, é considerado industrializado, nos
+termos do art. 1°, do RIPI. Item correto.
+
+Alternativa D: A montagem de óculos, mediante receita médica, também está excluída do conceito de
+industrialização (art. 5º, IX). Item errado.
+
+Alternativa E: Também é produto in natura, não podendo ser considerado produto industrializado. Item
+errado.
+
+Gabarito: Letra C
+
+20.ESAF/TRF/2000
+Não se considera industrialização a operação
+a) Definida como tal, mas que esteja incompleta, ou seja parcial ou intermediária.
+b) Que, exercida sobre matéria-prima ou produto intermediário, importe na obtenção de espécie nova.
+c) que apenas modifique, aperfeiçoe ou altere o funcionamento, a utilização, o acabamento ou a aparência
+do produto.
+d) que altere a apresentação do produto, pela colocação da embalagem, quando esta se destine apenas ao
+transporte da mercadoria.
+e) que consista na reunião de produtos, peças ou partes e de que resulte um novo produto ou unidade
+autônoma, sob a mesma classificação fiscal.
+DICA DE PROVA: Ao iniciar a leitura da questão, tenha muita atenção com as palavras negativas, pois elas
+são as verdadeiras pegadinhas, que derrubam muitos candidatos preparados, porém desatentos.
+
+Comentário: A questão solicita o que não é considerado industrialização. Pela análise das alternativas, a
+única que não corresponde ao processo de industrialização estudado na aula é a colocação de embalagem,
+com a única finalidade de transportar as mercadorias. Sendo assim, a alternativa correta é a Letra D.
+
+Gabarito: Letra D
+
+21.QUESTÃO INÉDITA
+Considera-se industrialização, nos termos do Regulamento do IPI – RIPI - o preparo de refrigerantes, à base
+de extrato concentrado, por meio de máquinas, automáticas ou não, em restaurantes, bares e
+estabelecimentos similares, para venda direta ao consumidor.
+
+Comentário: Se as máquinas de refrigerantes forem utilizadas em bares, restaurantes e estabelecimentos
+similares, para venda direto ao consumidor, não há que se falar em operação de industrialização. Portanto,
+a questão está errada.
+
+
+---
+
+Gabarito: Errada
+
+22.QUESTÃO INÉDITA
+Não se considera industrialização o preparo de produto, por encomenda direta do consumidor ou usuário,
+na residência do preparador ou em oficina, desde que, em qualquer caso, seja preponderante o trabalho
+profissional, sendo considerado assim o trabalho em que contribuir no preparo do produto, para formação
+de seu valor, a título de mão de obra, no mínimo com cinquenta por cento.
+
+Comentário: A primeira parte da questão está correta. No entanto, o conceito de trabalho preponderante
+exige 60% do valor do produto, a título de mão de obra, e não 50%, como foi dito. Trata-se de questão
+bastante difícil.
+
+Gabarito: Errada
+
+23.QUESTÃO INÉDITA
+A manipulação em farmácia, para venda direta a consumidor, de medicamentos oficinais e magistrais,
+mediante receita médica, não é considerada operação de industrialização.
+
+Comentário: Realmente, a manipulação de medicamentos em farmácia, mediante receita médica, para
+venda direta a consumidor, não é considerada operação de industrialização.
+
+Gabarito: Correta
+
+24.QUESTÃO INÉDITA
+O art. 4º, do Decreto 7.212/2010, denominado Regulamento do IPI, prevê cinco modalidades de
+industrialização, sendo todas elas citadas logo a seguir. Associe cada operação de industrialização (letras) à
+sua respectiva descrição (números), e, ao final, identifique a alternativa que contém a sequência correta:
+1 - Exercida sobre matérias-primas ou produtos intermediários, importe na obtenção de espécie nova;
+2 - A que importe em modificar, aperfeiçoar ou, de qualquer forma, alterar o funcionamento, a utilização, o
+acabamento ou a aparência do produto;
+3 - A que consista na reunião de produtos, peças ou partes e de que resulte um novo produto ou unidade
+autônoma, ainda que sob a mesma classificação fiscal;
+4 - A que importe em alterar a apresentação do produto, pela colocação da embalagem, ainda que em
+substituição da original, salvo quando a embalagem colocada se destine apenas ao transporte da mercadoria;
+5 - A que, exercida sobre produto usado ou parte remanescente de produto deteriorado ou inutilizado,
+renove ou restaure o produto para utilização.
+A - Beneficiamento
+B - Acondicionamento ou Reacondicionamento
+C - Transformação
+D - Renovação ou Recondicionamento
+E – Montagem
+a) 1A; 2B; 3C; 4D; 5E.
+
+
+---
+
+b) 1C; 2D; 3B; 4E; 5A.
+c) 1B; 2D; 3C; 4A; 5E.
+d) 1C; 2A; 3E; 4B; 5D.
+e) 1E; 2C; 3A; 4B; 5D.
+
+Comentário: Trata-se de questão extremamente literal, no estilo que as bancas gostam de elaborar. Sendo
+assim, transcrevo a seguir o art. 4º do RIPI:
+
+       Art. 4o Caracteriza industrialização qualquer operação que modifique a natureza, o funcionamento,
+       o acabamento, a apresentação ou a finalidade do produto, ou o aperfeiçoe para consumo, tal como:
+
+       I - a que, exercida sobre matérias-primas ou produtos intermediários, importe na obtenção de espécie
+       nova (transformação);
+
+       II - a que importe em modificar, aperfeiçoar ou, de qualquer forma, alterar o funcionamento, a
+       utilização, o acabamento ou a aparência do produto (beneficiamento);
+
+       III - a que consista na reunião de produtos, peças ou partes e de que resulte um novo produto ou
+       unidade autônoma, ainda que sob a mesma classificação fiscal (montagem);
+
+       IV - a que importe em alterar a apresentação do produto, pela colocação da embalagem, ainda que
+       em substituição da original, salvo quando a embalagem colocada se destine apenas ao transporte da
+       mercadoria (acondicionamento ou reacondicionamento); ou
+
+       V - a que, exercida sobre produto usado ou parte remanescente de produto deteriorado ou inutilizado,
+       renove ou restaure o produto para utilização (renovação ou recondicionamento).
+
+Do modo como a questão foi elaborada, creio que não há qualquer dúvida de que a associação correta é: 1C;
+2A; 3E; 4B; 5D. Portanto, a alternativa correta é a Letra D.
+
+Gabarito: Letra D
+
+25.ESAF/AFRF/2002
+Assinale a resposta correta.
+(i) O imposto sobre produtos industrializados (IPI) incide sobre produtos industrializados estrangeiros?
+(ii) O campo de incidência do IPI abrange os produtos com alíquota zero?
+a) (i) Sim, porque para efeito de IPI não há distinção em relação à procedência dos bens. (ii) Não, porque
+alíquota zero equivale à ausência de alíquota.
+b) (i) Sim, porque se o produto é industrializado esse imposto substitui o de importação. (ii) Sim, porque
+alíquota zero não impede que o produto siga o regime geral do imposto.
+c) (i) Sim. A lei assim o diz. (ii) Sim, porque a lei determina que seu campo de incidência abrange todos os
+produtos com alíquota.
+
+
+---
+
+d) (i) Não, porque haveria bis in idem, já que sobre eles incide o imposto de importação. (ii) Sim, porque o
+campo de incidência desse imposto abrange todos os produtos
+industrializados.
+e) (i) Não, porque o IPI não é um tributo aduaneiro. (ii) Não, porque o campo de incidência advém da
+Constituição e esta não previu a hipótese.
+
+Comentário:
+
+Item I: De acordo com o caput do art. 2º do RIPI, o IPI incide sobre produtos estrangeiros. Por quê? Ora, a lei
+assim o diz. Veremos mais à frente que um dos fatos geradores do IPI é o desembaraço aduaneiro de produto
+de procedência estrangeira. Item correto.
+
+Item II: Conforme o parágrafo único do art. 2º do Decreto 7.212/2010, o campo de incidência do IPI abrange
+todos os produtos com alíquota, ainda que zero. Item correto.
+
+Gabarito: Letra C
+
+26.ESAF/AFRF/2005
+O campo de incidência do Imposto sobre Produtos Industrializados abrange:
+a) todos os produtos relacionados na TIPI.
+b) todos os produtos relacionados na TIPI, com alíquota, mesmo os com alíquota zero.
+c) todos os produtos, exceto aqueles a que corresponde a notação “Zero”.
+d) todos os produtos com alíquota.
+e) todos os produtos, mesmo os com alíquota zero ou com a notação NT, ainda que não relacionados na TIPI.
+
+Comentário: De acordo com o que estudamos no parágrafo único do art. 2º do RIPI, o campo de incidência
+do IPI abrange todos os produtos com alíquota, ainda que zero, relacionados na TIPI, com exceção daqueles
+que tiverem a notação “NT”. A resposta da questão, portanto, é a Letra B.
+
+Gabarito: Letra B
+
+27.ESAF/TRF/2002-2
+A notação NT (não-tributado) aposta diante do código TIPI, constante da Tabela de Incidência do IPI, implica
+considerar-se que o produto está:
+a) imune.
+b) isento.
+c) sujeito a pauta de valores.
+d) fora do campo de incidência.
+e) sujeito à tributação pelo preço da operação.
+
+
+---
+
+Comentário: A resposta da questão se resume a um exercício de lógica: nem todos os produtos com notação
+NT são imunes, mas todos eles estão fora do campo de incidência do IPI. Sendo assim, a resposta é a Letra
+D.
+
+Gabarito: Letra D
+
+Observe a tabela abaixo:
+
+                            Produto             Alíquota Básica         Alíquota Alterada
+                           Situação 1                10%                      40%
+                           Situação 2                15%                      50%
+                           Situação 3                50%                       0%
+
+A tabela acima apresenta 3 situações em que há alterações na alíquota do IPI de um certo produto
+industrializado, por meio de ato do Poder Executivo.
+
+Levando em consideração as disposições do RIPI acerca da redução e majoração do IPI, e considerando os
+princípios da legalidade e da noventena, julgue as questões a seguir.
+
+28.ESAF/AFRFB/2012
+De acordo com as regras gerais para interpretação de classificação de produtos na Tabela de Incidência do
+Imposto sobre Produtos Industrializados (TIPI), a classificação de um produto, quando misturado ou
+composto de mais de uma matéria, efetuar-se-á, alternadamente, por uma das seguintes regras: a) na
+posição em que tiver descrição mais específica; b) na posição da matéria ou artigo que lhe conferir caráter
+essencial; c) na posição que der lugar a aplicação da alíquota mais elevada; d) na posição situada em último
+lugar na ordem numérica, entre as suscetíveis de validamente se tomarem em consideração.
+
+Comentário: O erro da questão foi inserir uma regra (Letra C) inexistente dentre as RGIs, pois não há
+nenhuma regra que mencione a aplicação de alíquota mais elevada. Além disso, a classificação utiliza as
+regras de forma sequencial, e não alternada.
+
+Gabarito: Errada
+
+29.ESAF/AFRFB/2012
+As Notas Complementares (NC) da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI),
+nesta incluídas por Decreto do Executivo, constituem elementos subsidiários de caráter fundamental para a
+correta interpretação do conteúdo das Posições e Subposições da classificação dos produtos, mas não
+constituem instrumento hábil para interferir na tributação prevista na TIPI.
+
+Comentário: Nós estudamos que a classificação dos produtos na TIPI é feita com base nas RGI, RGC, mas
+também se utiliza das Notas Complementares, conforme está previsto no art. 16 do RIPI. O que a banca quis
+confundir foi dizer que as NC constituem elementos subsidiários, o que na realidade é o papel das NESH (art.
+17). Estas são informações adicionais para direcionar melhor a classificação de mercadorias, tornando esta
+tarefa um pouco menos complexa.
+
+Gabarito: Errada
+
+
+---
+
+30.ESAF/AFRFB/2012
+A Secretaria da Receita Federal do Brasil (RFB) é autorizada a adequar a Tabela de Incidência do Imposto
+sobre Produtos Industrializados (TIPI), em decorrência de alterações promovidas na Nomeclatura Comum do
+Mercosul (NCM) pela Câmara de Comércio Exterior (CAMEX), caso as alterações promovidas pela CAMEX
+impliquem necessidade de adequação de alíquotas na TIPI pela RFB.
+
+Comentário: Essa questão é um pouco mais difícil, pois não foi retirada do RIPI, mas sim do Decreto
+10.923/2021, que é o decreto responsável por aprovar a TIPI. De acordo com o art. 4º desse decreto, a RFB
+somente pode adequar a TIPI, quando não implicar alteração de alíquota. Portanto, a assertiva proposta pela
+ESAF está errada.
+
+Gabarito: Errada
+
+Observe a tabela abaixo:
+
+                            Produto            Alíquota Básica         Alíquota Alterada
+                           Situação 1               10%                      40%
+                           Situação 2               15%                      50%
+                           Situação 3               50%                       0%
+
+A tabela acima apresenta 3 situações em que há alterações na alíquota do IPI de um certo produto
+industrializado, por meio de ato do Poder Executivo.
+
+Levando em consideração as disposições do RIPI acerca da redução e majoração do IPI, e considerando os
+princípios da legalidade e da noventena, julgue as questões a seguir.
+
+31.QUESTÃO INÉDITA
+Em qualquer situação relacionada na tabela, há que se observar o princípio constitucional da noventena.
+
+Comentário: Na Situação 3 não é necessário observar o princípio da noventena, tendo em vista que esse só
+é aplicável em caso de instituição ou majoração de tributos, e no caso houve redução.
+
+Gabarito: Errada
+
+32.QUESTÃO INÉDITA
+A Situação 2 é possível, tendo em vista que as alíquotas do IPI podem ser majoradas livremente pelo Poder
+Executivo.
+
+Comentário: Como vimos, o Poder Executivo só pode majorar em até 30% o percentual (alíquota) fixado em
+lei (que é a TIPI).
+
+Gabarito: Errada
+
+
+---
+
+33.QUESTÃO INÉDITA
+A observância do princípio da legalidade é obrigatória em qualquer das situações acima apresentadas.
+
+Comentário: A observância do princípio da legalidade só é imprescindível na Situação 2, tendo em vista que
+a alíquota seria majorada em mais de 30%, que é o permitido por lei.
+
+Gabarito: Errada
+
+34.QUESTÃO INÉDITA
+A redução prevista na Situação 3 é permitida, não necessitando observar os princípios da legalidade e
+noventena.
+
+Comentário: Exatamente! Não é necessário observar nem o princípio da noventena, nem o da legalidade,
+pois não há surpresa negativa para o contribuinte.
+
+Gabarito: Correta
+
+35.QUESTÃO INÉDITA
+A alteração prevista na Situação 1 não necessita observar o princípio da noventena, mas está adstrita ao
+princípio da legalidade.
+
+Comentário: Na realidade, o correto seria inverter os princípios para que o item se tornasse correto: não
+necessita observar o princípio da legalidade, mas está adstrita ao princípio da noventena.
+
+Gabarito: Errada
+
+     Nossa aula inicial e demonstrativa finaliza aqui. Nas próximas aulas, teremos grandes aventuras no
+mundo da Legislação Tributária.
+
+       Espero que tenha gostado da aula e que venha fazer parte da nossa turma! Será um prazer fazer parte
+da sua trajetória como concurseiro.
+
+       Um abraço e até a próxima aula!
+
+
+---
+
+               LISTA DAS QUESTÕES COMENTADAS
+1.ESAF/AFRFB/2012
+Há isenção de IPI sobre hidrocarbonetos, assim entendidos os derivados do petróleo, resultantes da sua
+transformação, mediante processos genericamente denominados refino ou refinação.
+
+
+2.QUESTÃO INÉDITA
+É possível que determinado produto destinado ao exterior seja imune de IPI, ainda que não ocorra a efetiva
+saída deste do território nacional.
+
+
+3.ESAF/ISS-RJ/2010
+A imunidade tributária recíproca aplica-se às operações de importação de bens realizadas por municípios,
+quando o ente público for o importador do bem (identidade entre o ‘contribuinte de direito’ e o ‘contribuinte
+de fato’.
+
+4.ESAF/TRF/2003
+O IPI, de acordo com a Constituição Federal, deve atender a dois princípios:
+a) não-cumulatividade e progressividade, em função de o produto ser considerado supérfluo.
+b) diferenciação de alíquotas, em função dos títulos dos capítulos e posição, e a não-cumulatividade.
+c) não-cumulatividade e superficialidade.
+d) seletividade, em função da essencialidade do produto, e a cumulatividade.
+e) seletividade, em função da essencialidade do produto, e a não-cumulatividade.
+
+5.ESAF/ISS-Natal/2001
+Indique, nas opções abaixo, o imposto que deverá, obrigatoriamente, ter as características de seletividade,
+em função da essencialidade e de não-cumulatividade.
+a) Imposto sobre a renda e proventos.
+b) Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação.
+c) Imposto sobre a propriedade de veículos automotores.
+d) Imposto sobre produtos industrializados.
+e) Imposto sobre transmissão causa mortis e doação.
+
+
+---
+
+6.ESAF/AFRF/2005
+O Imposto sobre Produtos Industrializados (IPI), de competência da União,
+a) terá reduzido seu impacto sobre a aquisição de bens de capital pelo contribuinte do imposto, mediante
+ato do Poder Executivo.
+b) poderá incidir sobre produtos industrializados destinados ao exterior.
+c) poderá ser seletivo, em função da essencialidade do produto.
+d) constitui exceção ao princípio da legalidade, eis que é facultado ao Poder Executivo, atendidas as
+condições e os limites da lei, alterar suas alíquotas.
+e) poderá ser não-cumulativo, compensando-se o que for devido em cada operação com o montante
+cobrado nas anteriores.
+
+
+7.ESAF/TRF/2002
+Constituição Federal, artigo 153, § 3º - O imposto previsto no inciso IV: (Imposto Sobre Produtos
+Industrializados)
+I - será seletivo, em função da essencialidade do produto;
+II - ...................................
+Em face do enunciado, assinale a opção correta.
+a) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo generalizado. Quanto
+mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e higiênico das
+classes mais numerosas, tanto menores devem ser.
+b) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão direta da imprescindibilidade das mercadorias de consumo generalizado. Quanto
+menos sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e higiênico das
+classes mais numerosas, tanto menores devem ser.
+c) Seletividade quer dizer discriminação ou sistema de alíquotas homogêneas por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe que estabeleça
+as alíquotas em razão direta da imprescindibilidade das mercadorias de consumo supérfluo. Quanto mais
+sejam elas necessárias à alimentação, ao estuário, à moradia, ao tratamento médico e higiênico das classes
+mais numerosas, tanto maiores devem ser.
+
+
+d) Seletividade quer dizer não-discriminação ou sistema de alíquotas homogêneas por espécies de
+mercadorias. Trata-se de dispositivo programático endereçado ao legislador ordinário, recomendando-lhe
+que estabeleça as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo
+generalizado. Quanto mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento
+médico e higiênico das classes mais numerosas, tanto menores devem ser.
+e) Seletividade quer dizer discriminação ou sistema de alíquotas diferenciais por espécies de mercadorias.
+Trata-se de dispositivo programático endereçado ao legislador constitucional, recomendando-lhe que
+
+
+---
+
+estabeleça as alíquotas em razão inversa da imprescindibilidade das mercadorias de consumo supérfluo.
+Quanto mais sejam elas necessárias à alimentação, ao vestuário, à moradia, ao tratamento médico e
+higiênico das classes menos numerosas, tanto menores devem ser.
+
+
+8.ESAF/PFN/1998
+Inexiste vedação constitucional à incidência do Imposto sobre Produtos Industrializados, nas operações
+relativas a
+a) derivados de petróleo.
+b) cinescópios.
+c) minerais do País.
+d) combustíveis.
+e) energia elétrica.
+
+
+9.ESAF/ATRFB/2009
+“A redução do Imposto sobre Produtos Industrializados − IPI para geladeiras, fogões, máquinas de lavar e
+tanquinhos, produtos da linha branca, que encerraria no próximo dia 31, foi prorrogada por mais três meses.
+A partir de 10 de novembro entra em vigor uma nova tabela cujas alíquotas passam a ser estabelecidas
+com base na eﬁciência energética dos produtos, de acordo com a classiﬁcação do Programa Brasileiro de
+Etiquetagem, coordenado pelo Inmetro.
+O anúncio foi feito nesta quinta-feira pelo ministro da Fazenda Guido Mantega. “Nós estamos desonerando
+mais os produtos que consomem menos energia”, explicou. A medida vale até 31 de janeiro de 2010.
+Segundo ele, as geladeiras, que antes do IPI baixo tinham uma alíquota de 15%, e recuou para 5%, poderão
+manter essa mesma alíquota reduzida, mas somente para os produtos da chamada classe “A”, ou seja, com
+menor consumo de energia. As geladeiras da classe “B” passarão a ter uma alíquota de 10% e o restante
+voltará a ter um IPI de 15%.”
+(Extraído do site www.fazenda.gov.br, notícia de 29.10.2009).
+
+
+Na notícia acima, identiﬁcamos um importante aspecto do IPI – Imposto sobre Produtos Industrializados.
+Assinale, entre as opções que se seguem, aquela que explica e justiﬁca tal aspecto, isto é, somente aquele
+que a notícia mencionada destacou.
+a) Por meio da seletividade, pode-se tributar com alíquotas diferenciadas produtos de acordo com o seu grau
+de essencialidade.
+b) A notícia demonstra a aplicabilidade do princípio constitucional da capacidade tributária, pois estabelece
+alíquotas diferenciadas para as diversas categorias de geladeiras existentes no mercado.
+c) O IPI constitui uma exceção à regra geral da legalidade, já que o Poder Executivo pode, a qualquer
+momento, baixar ou restabelecer as suas alíquotas.
+d) A não-cumulatividade, outra característica do IPI, visa impedir que as incidências sucessivas nas diversas
+operações da cadeia econômica de um produto impliquem um ônus tributário muito elevado, decorrente da
+múltipla tributação da mesma base econômica.
+
+
+---
+
+e) A extraﬁscalidade consiste na possibilidade de, por meio de alíquotas diferenciadas, estimular-se
+determinado comportamento por parte da indústria e, consequentemente, dos consumidores.
+
+
+10.ESAF/AFRFB/2014
+São imunes da incidência do Imposto sobre Produtos Industrializados, exceto:
+a) o ouro, quando definido em lei como ativo financeiro ou instrumento cambial.
+b) os livros, jornais e periódicos e o papel destinado à sua impressão.
+c) os produtos industrializados destinados ao exterior.
+d) as aeronaves de uso militar vendidas à União.
+e) a energia elétrica, derivados do petróleo, combustíveis e minerais do País.
+
+
+11.QUESTÃO INÉDITA
+A Constituição Federal de 1988 instituiu o imposto sobre produtos industrializados, em seu art. 153, IV.
+
+
+12.QUESTÃO INÉDITA
+A alteração da base de cálculo do imposto sobre produtos industrializados pode ser promovida por meio de
+decreto do Poder Executivo.
+
+
+13.QUESTÃO INÉDITA
+Por constituir importante fonte de receita para a União, o legislador do IPI deve respeitar todos os princípios
+constitucionais tributários, em todas as suas formas.
+14.QUESTÃO INÉDITA
+Não se considera industrialização, o preparo de produtos alimentares, não acondicionados em embalagem
+de apresentação, desde que a operação seja realizada na residência do preparador.
+
+
+15.ESAF/AFRFB/2012
+A mistura de tintas entre si, ou com concentrados de pigmentos, sob encomenda do consumidor ou usuário,
+realizada em estabelecimento comercial varejista, efetuada por máquina automática ou manual, não se
+caracteriza como industrialização, desde que fabricante e varejista não sejam empresas interdependentes,
+controladora, controlada ou coligadas.
+
+
+16.ESAF/ATRFB/2012
+Para fins da incidência do Imposto sobre Produtos Industrializados, a industrialização é caracterizada como
+qualquer operação que modifique a natureza, o funcionamento, o acabamento, a apresentação ou a
+finalidade do produto.
+
+
+---
+
+17.ESAF/ATRFB/2012
+O aperfeiçoamento para consumo é considerado como industrialização, para fins da incidência do Imposto
+sobre Produtos Industrializados, dependendo do processo utilizado para obtenção do produto e da
+localização e condições das instalações ou equipamentos empregados.
+
+
+18.ESAF/ATRFB/2012
+A alteração da apresentação do produto pela colocação de embalagem, ainda que em substituição da
+original, salvo quando a embalagem colocada se destine apenas ao transporte da mercadoria, é
+caracterizado como industrialização para fins da incidência do Imposto sobre Produtos Industrializados.
+
+
+19.ESAF/TTN/1998
+Caracteriza-se produto industrializado:
+a) produto do reino vegetal, in natura
+b) produto alimentar preparado em estabelecimento comercial, exposto à venda, não acondicionado em
+embalagem de apresentação
+c) produto isento do imposto e que tenha sido parcialmente industrializado
+d) óculos montados mediante receita médica
+e) água mineral natural
+
+
+20.ESAF/TRF/2000
+Não se considera industrialização a operação
+a) Definida como tal, mas que esteja incompleta, ou seja parcial ou intermediária.
+b) Que, exercida sobre matéria-prima ou produto intermediário, importe na obtenção de espécie nova.
+c) que apenas modifique, aperfeiçoe ou altere o funcionamento, a utilização, o acabamento ou a aparência
+do produto.
+d) que altere a apresentação do produto, pela colocação da embalagem, quando esta se destine apenas ao
+transporte da mercadoria.
+e) que consista na reunião de produtos, peças ou partes e de que resulte um novo produto ou unidade
+autônoma, sob a mesma classificação fiscal.
+
+
+21.QUESTÃO INÉDITA
+Considera-se industrialização, nos termos do Regulamento do IPI – RIPI - o preparo de refrigerantes, à base
+de extrato concentrado, por meio de máquinas, automáticas ou não, em restaurantes, bares e
+estabelecimentos similares, para venda direta ao consumidor.
+
+
+---
+
+22.QUESTÃO INÉDITA
+Não se considera industrialização o preparo de produto, por encomenda direta do consumidor ou usuário,
+na residência do preparador ou em oficina, desde que, em qualquer caso, seja preponderante o trabalho
+profissional, sendo considerado assim o trabalho em que contribuir no preparo do produto, para formação
+de seu valor, a título de mão de obra, no mínimo com cinquenta por cento.
+
+
+23.QUESTÃO INÉDITA
+A manipulação em farmácia, para venda direta a consumidor, de medicamentos oficinais e magistrais,
+mediante receita médica, não é considerada operação de industrialização.
+
+24.QUESTÃO INÉDITA
+O art. 4º, do Decreto 7.212/2010, denominado Regulamento do IPI, prevê cinco modalidades de
+industrialização, sendo todas elas citadas logo a seguir. Associe cada operação de industrialização (letras) à
+sua respectiva descrição (números), e, ao final, identifique a alternativa que contém a sequência correta:
+1 - Exercida sobre matérias-primas ou produtos intermediários, importe na obtenção de espécie nova;
+2 - A que importe em modificar, aperfeiçoar ou, de qualquer forma, alterar o funcionamento, a utilização, o
+acabamento ou a aparência do produto;
+3 - A que consista na reunião de produtos, peças ou partes e de que resulte um novo produto ou unidade
+autônoma, ainda que sob a mesma classificação fiscal;
+4 - A que importe em alterar a apresentação do produto, pela colocação da embalagem, ainda que em
+substituição da original, salvo quando a embalagem colocada se destine apenas ao transporte da mercadoria;
+5 - A que, exercida sobre produto usado ou parte remanescente de produto deteriorado ou inutilizado,
+renove ou restaure o produto para utilização.
+A - Beneficiamento
+B - Acondicionamento ou Reacondicionamento
+C - Transformação
+D - Renovação ou Recondicionamento
+E – Montagem
+a) 1A; 2B; 3C; 4D; 5E.
+b) 1C; 2D; 3B; 4E; 5A.
+c) 1B; 2D; 3C; 4A; 5E.
+d) 1C; 2A; 3E; 4B; 5D.
+e) 1E; 2C; 3A; 4B; 5D.
+
+
+25.ESAF/AFRF/2002
+Assinale a resposta correta.
+
+
+---
+
+(i) O imposto sobre produtos industrializados (IPI) incide sobre produtos industrializados estrangeiros?
+(ii) O campo de incidência do IPI abrange os produtos com alíquota zero?
+a) (i) Sim, porque para efeito de IPI não há distinção em relação à procedência dos bens. (ii) Não, porque
+alíquota zero equivale à ausência de alíquota.
+b) (i) Sim, porque se o produto é industrializado esse imposto substitui o de importação. (ii) Sim, porque
+alíquota zero não impede que o produto siga o regime geral do imposto.
+c) (i) Sim. A lei assim o diz. (ii) Sim, porque a lei determina que seu campo de incidência abrange todos os
+produtos com alíquota.
+d) (i) Não, porque haveria bis in idem, já que sobre eles incide o imposto de importação. (ii) Sim, porque o
+campo de incidência desse imposto abrange todos os produtos
+industrializados.
+e) (i) Não, porque o IPI não é um tributo aduaneiro. (ii) Não, porque o campo de incidência advém da
+Constituição e esta não previu a hipótese.
+
+
+26.ESAF/AFRF/2005
+O campo de incidência do Imposto sobre Produtos Industrializados abrange:
+a) todos os produtos relacionados na TIPI.
+b) todos os produtos relacionados na TIPI, com alíquota, mesmo os com alíquota zero.
+c) todos os produtos, exceto aqueles a que corresponde a notação “Zero”.
+d) todos os produtos com alíquota.
+e) todos os produtos, mesmo os com alíquota zero ou com a notação NT, ainda que não relacionados na TIPI.
+
+
+27.ESAF/TRF/2002-2
+A notação NT (não-tributado) aposta diante do código TIPI, constante da Tabela de Incidência do IPI, implica
+considerar-se que o produto está:
+a) imune.
+b) isento.
+c) sujeito a pauta de valores.
+d) fora do campo de incidência.
+e) sujeito à tributação pelo preço da operação.
+
+Observe a tabela abaixo:
+
+                            Produto               Alíquota Básica        Alíquota Alterada
+                           Situação 1                  10%                     40%
+                           Situação 2                  15%                     50%
+
+
+---
+
+                           Situação 3                50%                        0%
+
+A tabela acima apresenta 3 situações em que há alterações na alíquota do IPI de um certo produto
+industrializado, por meio de ato do Poder Executivo.
+
+Levando em consideração as disposições do RIPI acerca da redução e majoração do IPI, e considerando os
+princípios da legalidade e da noventena, julgue as questões a seguir.
+
+28.ESAF/AFRFB/2012
+De acordo com as regras gerais para interpretação de classificação de produtos na Tabela de Incidência do
+Imposto sobre Produtos Industrializados (TIPI), a classificação de um produto, quando misturado ou
+composto de mais de uma matéria, efetuar-se-á, alternadamente, por uma das seguintes regras: a) na
+posição em que tiver descrição mais específica; b) na posição da matéria ou artigo que lhe conferir caráter
+essencial; c) na posição que der lugar a aplicação da alíquota mais elevada; d) na posição situada em último
+lugar na ordem numérica, entre as suscetíveis de validamente se tomarem em consideração.
+
+
+29.ESAF/AFRFB/2012
+As Notas Complementares (NC) da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI),
+nesta incluídas por Decreto do Executivo, constituem elementos subsidiários de caráter fundamental para a
+correta interpretação do conteúdo das Posições e Subposições da classificação dos produtos, mas não
+constituem instrumento hábil para interferir na tributação prevista na TIPI.
+
+
+30.ESAF/AFRFB/2012
+A Secretaria da Receita Federal do Brasil (RFB) é autorizada a adequar a Tabela de Incidência do Imposto
+sobre Produtos Industrializados (TIPI), em decorrência de alterações promovidas na Nomeclatura Comum do
+Mercosul (NCM) pela Câmara de Comércio Exterior (CAMEX), caso as alterações promovidas pela CAMEX
+impliquem necessidade de adequação de alíquotas na TIPI pela RFB.
+
+Observe a tabela abaixo:
+
+                            Produto             Alíquota Básica         Alíquota Alterada
+                           Situação 1                10%                      40%
+                           Situação 2                15%                      50%
+                           Situação 3                50%                       0%
+
+A tabela acima apresenta 3 situações em que há alterações na alíquota do IPI de um certo produto
+industrializado, por meio de ato do Poder Executivo.
+
+Levando em consideração as disposições do RIPI acerca da redução e majoração do IPI, e considerando os
+princípios da legalidade e da noventena, julgue as questões a seguir.
+
+31.QUESTÃO INÉDITA
+
+
+---
+
+Em qualquer situação relacionada na tabela, há que se observar o princípio constitucional da noventena.
+
+
+32.QUESTÃO INÉDITA
+A Situação 2 é possível, tendo em vista que as alíquotas do IPI podem ser majoradas livremente pelo Poder
+Executivo.
+
+
+33.QUESTÃO INÉDITA
+A observância do princípio da legalidade é obrigatória em qualquer das situações acima apresentadas.
+
+34.QUESTÃO INÉDITA
+A redução prevista na Situação 3 é permitida, não necessitando observar os princípios da legalidade e
+noventena.
+
+
+35.QUESTÃO INÉDITA
+A alteração prevista na Situação 1 não necessita observar o princípio da noventena, mas está adstrita ao
+princípio da legalidade.
+
+
+---
+
+       GABARITO DAS QUESTÕES COMENTADAS
+
+1.E              12.E          24.D
+2.C              13.E          25.C
+                 14.E          26.B
+3.C
+                 15.C          27.D
+4.E
+                 16.C          28.E
+5.D
+                 17.E          29.E
+6.D
+                 18.C          30.E
+7.A
+                 19.C          31.E
+8.B
+                 20.D          32.E
+9.E
+                 21.E          33.E
+10.D
+                 22.E          34.C
+11.E
+                 23.C          35.E
+
+
+---
+
+---

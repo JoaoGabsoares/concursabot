@@ -1,0 +1,263 @@
+CPC 00 – ESTRUTURA CONCEITUAL
+        QUESTÕES FCC
+
+                                              Prof. Gilmar Possati
+
+
+
+         https://t.me/KakashiAssinaturasBot
+(FCC/TRT11/2024)
+De acordo com o CPC 00 (R2) — Estrutura Conceitual para Relatório Financeiro, a informação
+financeira útil precisa apresentar certas características qualitativas, divididas em fundamentais
+e de melhoria. Sobre este assunto, analise as assertivas a seguir.
+I. Comparabilidade refere-se ao uso dos mesmos métodos para os mesmos itens, seja de
+período a período na entidade que reporta ou em um único período para diferentes
+entidades.
+II. Representação fidedigna significa que diferentes observadores bem-informados e
+independentes podem chegar ao consenso quanto a informação.
+III. Compreensibilidade é alcançada quando se consegue classificar, caracterizar e apresentar
+informações de modo claro e conciso.
+Está correto o que se afirma em
+a) II e III, apenas.
+b) I, II e III.
+c) I, apenas.
+d) III, apenas.
+e) I e II, apenas.
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    https://t.me/KakashiAssinaturasBot
+(FCC/Pref. J. Guararapes/2024)
+De acordo com a NBC TG 00 — Estrutura Conceitual, os elementos reconhecidos nas
+demonstrações contábeis devem ser quantificados em termos monetários através de uma
+base de mensuração. Descreve uma base de mensuração prevista pela Estrutura Conceitual:
+a) O custo corrente de ativo compreende a contraprestação que seria paga na data de
+mensuração, sem considerar os custos de transação que seriam incorridos nessa data, por
+ativo idêntico.
+b) O custo histórico de ativo compreende a contraprestação paga para adquirir ou criar um
+ativo mais ágio por expectativa de rentabilidade futura.
+c) O valor justo é o preço que seria recebido pela venda de ativo ou que seria pago pela
+transferência de passivo em transação extraordinária entre participantes de mercado
+imperfeito na data da mensuração.
+d) O valor em uso é o valor presente dos fluxos de caixa, ou outros benefícios econômicos,
+que a entidade espera obter do uso do ativo, sem considerar sua alienação final.
+e) O valor de cumprimento é o valor presente do caixa, ou de outros recursos econômicos,
+que a entidade espera ser obrigada a transferir para cumprir a obrigação.
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+(FCC/Bahiagás/2024)
+Com base nas características qualitativas das demonstrações contábeis, a tempestividade
+define-se como:
+a) Qualidade que torna as informações claras e prontamente entendidas pelos usuários.
+b) Disponibilidade das informações aos usuários a tempo de influenciá-los em suas decisões.
+c) Transações e eventos agregados em classes de acordo com a sua natureza ou função.
+d) Característica que permite analisar a evolução da empresa ao longo do tempo.
+e) Utilidade das informações em relação às necessidades dos usuários.
+
+
+
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+(FCC/Copergás/2023)
+Considere as seguintes definições dos elementos das demonstrações contábeis, constantes no
+Pronunciamento Técnico CPC 00 – Estrutura Conceitual para Relatório Financeiro:
+I. Obrigação presente da entidade de transferir um recurso econômico como resultado de eventos
+passados.
+II. Aumentos nos ativos, ou redução nos passivos, que resultam em aumento no patrimônio líquido, exceto
+aqueles referentes a contribuições de detentores de direitos sobre o patrimônio.
+III. Recurso econômico presente controlado pela entidade como resultado de eventos passados.
+IV. Redução nos ativos, ou aumentos nos passivos, que resultam em reduções no patrimônio líquido, exceto
+aqueles referentes a distribuições aos detentores de direitos sobre o patrimônio.
+V. Participação residual nos ativos da entidade após a dedução de todos os seus passivos.
+As definições I, II, III, IV e V correspondem, respectivamente, a:
+a) Patrimônio Líquido − Receita − Ativo − Despesa − Passivo.
+b) Passivo − Receita − Ativo − Despesa − Patrimônio Líquido.
+c) Passivo − Despesa − Ativo − Receita − Patrimônio Líquido.
+d) Patrimônio Líquido − Despesa − Receita − Ativo − Passivo.
+e) Passivo − Receita − Despesa − Ativo − Patrimônio Líquido.
+
+
+
+                                                                            @profgilmarpossati   @canalcontabilizando
+                                       https://t.me/KakashiAssinaturasBot
+Passivo é uma obrigação presente da entidade de transferir um recurso econômico como
+resultado de eventos passados.
+Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos
+no patrimônio líquido, exceto aqueles referentes a contribuições de detentores de
+direitos sobre o patrimônio.
+Ativo é um recurso econômico presente controlado pela entidade como resultado de
+eventos passados.
+Despesas são reduções nos ativos, ou aumentos nos passivos, que resultam em reduções
+no patrimônio líquido, exceto aqueles referentes a distribuições aos detentores de
+direitos sobre o patrimônio.
+Patrimônio líquido é a participação residual nos ativos da entidade após a dedução de
+todos os seus passivos
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                https://t.me/KakashiAssinaturasBot
+(FCC/Copergás/2023)
+Com base no Pronunciamento Técnico CPC 00 – Estrutura Conceitual para Relatório Financeiro, é
+INCORRETO afirmar:
+a) Para as informações financeiras serem úteis, elas devem ser relevantes e representar fidedignamente
+aquilo que pretendem representar.
+b) O objetivo das demonstrações contábeis é fornecer informações financeiras sobre a entidade que
+reporta a informação que sejam úteis na tomada de decisões dos investidores referente à oferta de
+recursos à entidade, mas apenas dos investidores existentes e não dos potenciais.
+c) As informações financeiras se tornam mais úteis se foram comparáveis, verificáveis, tempestivas e
+compreensíveis.
+d) Comparabilidade é a característica qualitativa da informação contábil que permite aos usuários identificar
+e compreender similaridades e diferenças entre itens, sendo diferente de uniformidade.
+e) Para representar fidedignamente o evento econômico, a informação financeira deve ser completa, neutra
+e isenta de erros.
+
+
+
+
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+2.4 Se informações financeiras devem ser úteis, elas devem ser relevantes e representar
+fidedignamente aquilo que pretendem representar. A utilidade das informações
+financeiras é aumentada se forem comparáveis, verificáveis, tempestivas e
+compreensíveis.
+
+1.2 O objetivo do relatório financeiro para fins gerais é fornecer informações financeiras
+sobre a entidade que reporta que sejam úteis para investidores, credores por
+empréstimos e outros credores, existentes e potenciais, na tomada de decisões referente
+à oferta de recursos à entidade. Essas decisões envolvem decisões sobre:
+(a) comprar, vender ou manter instrumento de patrimônio e de dívida;
+(b) conceder ou liquidar empréstimos ou outras formas de crédito; ou
+(c) exercer direitos de votar ou de outro modo influenciar os atos da administração que
+afetam o uso dos recursos econômicos da entidade.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  https://t.me/KakashiAssinaturasBot
+2.25 Comparabilidade é a característica qualitativa que permite aos usuários identificar e
+compreender similaridades e diferenças entre itens. Diferentemente das outras
+características qualitativas, a comparabilidade não se refere a um único item. A
+comparação exige, no mínimo, dois itens.
+
+
+13 Para ser representação perfeitamente fidedigna, a representação tem três
+características. Ela é completa, neutra e isenta de erros. Obviamente, a perfeição nunca
+ou raramente é atingida. O objetivo é maximizar essas qualidades tanto quanto possível.
+
+
+
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+(FCC/TJ-BA/2023)
+A Estrutura Conceitual para Relatório Financeiro (CPC “00”, R2) estabelece as características qualitativas de
+informações financeiras úteis. No que diz respeito às características qualitativas fundamentais, as
+informações financeiras devem:
+I. Ser relevantes, ou seja, capazes de fazer diferença nas decisões tomadas pelos usuários, ainda que alguns
+usuários optem por não tirar vantagem delas.
+ II. Representar de forma fidedigna a essência dos fenômenos, o que implica que a informação financeira
+seja completa, neutra e isenta de erros.
+ III. Ter materialidade, o que significa que sua omissão, distorção ou obscuridade pode influenciar
+razoavelmente as decisões tomadas pelos principais usuários de relatórios financeiros com base neles.
+ IV. Ter comparabilidade, isto é, permitir aos usuários identificar e compreender similaridades e diferenças
+entre itens.
+ Está correto o que se afirma APENAS em
+a) I, II e III.
+b) I, III e IV.
+c) I e II.
+d) I e III.
+e) II e IV.
+
+                                                                              @profgilmarpossati   @canalcontabilizando
+                                         https://t.me/KakashiAssinaturasBot
+2.6 Informações financeiras relevantes são capazes de fazer diferença nas decisões
+tomadas pelos usuários. Informações podem ser capazes de fazer diferença em uma
+decisão ainda que alguns usuários optem por não tirar vantagem delas ou já tenham
+conhecimento delas a partir de outras fontes.
+2.12 Relatórios financeiros representam fenômenos econômicos em palavras e números.
+Para serem úteis, informações financeiras não devem apenas representar fenômenos
+relevantes, mas também representar de forma fidedigna a essência dos fenômenos que
+pretendem representar. Em muitas circunstâncias, a essência de fenômeno econômico e
+sua forma legal são as mesmas. Se não forem as mesmas, fornecer informações apenas
+sobre a forma legal não representaria fidedignamente o fenômeno econômico.
+2.13 Para ser representação perfeitamente fidedigna, a representação tem três
+características. Ela é completa, neutra e isenta de erros. Obviamente, a perfeição nunca ou
+raramente é atingida. O objetivo é maximizar essas qualidades tanto quanto possível.
+
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 https://t.me/KakashiAssinaturasBot
+2.11 A informação é material se a sua omissão, distorção ou obscuridade puder
+influenciar, razoavelmente, as decisões que os principais usuários de relatórios
+financeiros para fins gerais (ver item 1.5) tomam com base nesses relatórios, que
+fornecem informações financeiras sobre entidade específica que reporta. Em
+outras palavras, materialidade é um aspecto de relevância específico da
+entidade com base na natureza ou magnitude, ou ambas, dos itens aos quais as
+informações se referem no contexto do relatório financeiro da entidade
+individual. Consequentemente, não se pode especificar um limite quantitativo
+uniforme para materialidade ou predeterminar o que pode ser material em uma
+situação específica.
+
+
+
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              https://t.me/KakashiAssinaturasBot
+(FCC/TRT4/2022)
+A Estrutura conceitual para relatório financeiro (R2) relativa às normas internacionais de
+contabilidade aplicadas no Brasil (“CPC 00”) descreve as características qualitativas de
+informações financeiras úteis contidas nas demonstrações contábeis.
+Referente a essas características, é correto afirmar:
+a) Características fundamentais são comparabilidade e tempestividade.
+b) Características de melhoria incluem relevância e representação fidedigna.
+c) A capacidade de verificação refere-se às informações que permitam aos usuários identificar
+e compreender similaridades e diferenças entre itens de entidades diferentes.
+d) Classificar, caracterizar e apresentar informações de modo claro e conciso está relacionado
+diretamente ao conceito de informação relevante.
+e) Para que haja representação fidedigna de fenômeno econômico, a representação precisa
+ser, o máximo possível, completa, neutra e isenta de erros.
+
+
+
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FCC/TRT5/2022)
+Com base nas características qualitativas das informações contábeis, previstas no
+Pronunciamento Técnico CPC 00 (R2), é correto afirmar que:
+a) São características qualitativas fundamentais a representação fidedigna e a materialidade,
+as quais têm como propósito aumentar a relevância das informações contábeis.
+b) A comparabilidade é uma característica qualitativa de melhoria das informações contábeis,
+sendo um conceito sinônimo para uniformidade.
+c) Para serem úteis, as informações contábeis devem ser relevantes e representar
+fidedignamente o evento (características fundamentais). A utilidade da informação contábil
+aumenta se a informação também for comparável, verificável, tempestiva e compreensível
+(características de melhoria).
+d) Para que sejam úteis, as informações contábeis devem ser relevantes e comparáveis
+(características fundamentais). A utilidade da informação contábil aumenta se a informação
+também representar fidedignamente o evento, for verificável, tempestiva e compreensível
+(características de melhoria).
+e) As características qualitativas de melhoria, por si só, podem fazer com que as informações
+contábeis se tornem úteis caso essas informações sejam irrelevantes.
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   https://t.me/KakashiAssinaturasBot
+(FCC/ALAP/2020)
+São características qualitativas da informação contábil-financeira, segundo a Estrutura
+Conceitual (CPC 00):
+a) prudência, tempestividade, capacidade de verificação e conservadorismo.
+b) representação fidedigna, prudência, subjetividade e comparabilidade.
+c) relevância, representação fidedigna, comparabilidade e compreensibilidade.
+d) mensurabilidade, competência, caixa e capacidade de verificação.
+e) tempestividade, materialidade, objetividade e usabilidade.
+
+
+
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                https://t.me/KakashiAssinaturasBot
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+

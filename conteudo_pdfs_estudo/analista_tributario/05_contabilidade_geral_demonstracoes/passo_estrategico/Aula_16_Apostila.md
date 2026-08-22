@@ -1,0 +1,1346 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 16_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: Passo Estratégico de Contabilidade
+artigos_citados:
+- Art. 186.
+- Art. 187
+- Art. 193.
+- Art. 202.
+- art. 186.
+- art. 193
+- art. 195
+- artigo 186
+---
+
+# Passo Estratégico de Contabilidade
+
+Aula 15
+                          Receita Federal (Analista Tributário)
+                           Passo Estratégico de Contabilidade
+                                                         Geral
+
+                                                        Autor:
+                             Filipe Magalhães, Júlio Cardozo
+
+                                             19 de Maio de 2023
+
+---
+
+      Filipe Magalhães, Júlio Cardozo
+      Aula 15
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - DLPA e DMPL - FGV
+
+
+2) Roteiro de Revisão - DLPA e DMPL
+
+
+3) Apostas Estratégicas - DLPA e DMPL
+
+
+4) Questões Comentadas - DLPA e DMPL - FGV
+
+
+5) Questionário de Revisão - DLPA e DMPL
+
+
+6) Lista de Questões - DLPA e DMPL - FGV
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                                                            2
+                www.estrategiaconcursos.com.br                                                                                                                                           28
+
+                                                             
+
+
+---
+
+  Filipe Magalhães, Júlio Cardozo
+  Aula 15
+
+                                          APRESENTAÇÃO
+Olá! No relatório de hoje falaremos de duas demonstrações contábeis importantes: Demonstração das
+Mutações do Patrimônio Líquido e Demonstração dos Lucros ou Prejuízos Acumulados. Aproveitem.
+
+
+                        Faça contato conosco pelas redes
+                                    sociais!
+
+                                          @profjuliocardozo
+                                          @filipemagalhaes30
+
+                                     ANÁLISE ESTATÍSTICA
+
+O que é mais cobrado dentro do assunto?
+
+Com base nisso, fizemos o seguinte levantamento sobre como esses temas são cobrados pela banca:
+
+                                        Tema                     % cobrança - FGV
+                  Funcionamento das contas de Patrimônio Líquido     48,00%
+                  Estrutura e função da DMPL (CPC 26 e LSA)          28,00%
+                  Artigos da Lei 6404/76                             16,00%
+                  Estrutura e função da DLPA                          8,00%
+                  Total                                              100,00%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            3
+        www.estrategiaconcursos.com.br                                                            28
+
+                                     
+
+
+---
+
+  Filipe Magalhães, Júlio Cardozo
+  Aula 15
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                     MERECEM DESTAQUE
+
+DLPA E DMPL: OBRIGATORIEDADE E APRESENTAÇÃO
+
+A demonstração das mutações do patrimônio líquido é a demonstração que evidencia, como o próprio
+nome sugere, as modificações neste grupo patrimonial.
+
+A demonstração de lucros ou prejuízos acumulados demonstra as movimentações da conta lucros ou
+prejuízos acumulados, passando desde o saldo do início do período (se for prejuízo) até a recepção do
+lucro (que vem da DRE) e sua distribuição.
+
+O primeiro ponto a destacar é que a demonstração das mutações do patrimônio líquido (DMPL)
+não é obrigatória segundo a Lei das Sociedades por Ações.
+
+✓ DEMONSTRAÇÃO DE LUCROS OU PREJUÍZOS ACUMULADOS
+
+A DLPA demonstra o dividendo por ação do capital social. Distinga-se da Demonstração do
+Resultado do Exercício (DRE) que demonstra o lucro ou prejuízo por ação do capital.
+
+
+                                    DRE                                      DLPA
+
+                              Lucro por ação                        Dividendos por ação
+
+
+Atenção! Cabe lembrar que as companhias não podem mais reter lucros acumulados de maneira
+injustificada. Sendo assim, todo o valor encontrado deverá ser destinado para dividendos, aumento do
+capital ou constituição de reservas de lucros.
+
+A distribuição do resultado do exercício, evidenciada na DLPA, de acordo com o artigo 186 da Lei
+6.404/76 seguirá basicamente a seguinte estrutura:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             4
+        www.estrategiaconcursos.com.br                                                            28
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+                    Estrutura - Demonstração dos lucros ou prejuízos acumulados
+                    Saldo do início do exercício (só se for prejuízo acumulado)
+                    (+/-) Ajustes de exercícios anteriores
+                    (+) Reversão de reservas de lucros do período
+                    (+) Lucro líquido do exercício
+                    (-) Transferência para reservas de lucros
+                    a) Reserva Legal
+                    b) Reserva Estatutária
+                    c) Reservas para contingências
+                    d) Reserva de retenção de lucros
+                    e) Reserva de lucros a realizar
+                    f) Reserva de incentivos fiscais
+                    g) Reserva Especial de dividendo obrigatório não distribuído
+                    h) Reserva específica de prêmio na emissão de debêntures
+                                                         ==219a34==
+
+                    (-) Dividendos propostos
+                    (-) Parcela dos lucros incorporada ao capital social
+                    (-) Dividendos intermediários
+                    Saldo no fim do período
+
+Ainda de acordo com a Lei 6404/76:
+
+         Demonstração de Lucros ou Prejuízos Acumulados
+
+         Art. 186. § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o
+         montante do dividendo por ação do capital social e poderá ser incluída na
+         demonstração das mutações do patrimônio líquido, se elaborada e publicada
+         pela companhia.
+
+A Demonstração das Mutações do Patrimônio Líquido (DMPL) é mais completa que a DLPAA Lei
+6404/76 permite que a DLPA seja incluída na DMPL.
+
+Com a publicação do CPC 26 – Apresentação das demonstrações contábeis, podemos entender que a
+DMPL passa a fazer parte do conjunto completo de demonstrações contábeis, passando a ser obrigatória
+para praticamente todas as empresas e substituindo, de forma definitiva, a DLPA (este é o entendimento
+esposado pelo FIPECAFI – Livro Manual de Contabilidade Societária, 2010).
+
+COMO ELABORAR A DMPL?
+
+A DMPL evidencia a variação de todas as contas do patrimônio líquido. Para elaborá-la você deve, nas
+linhas evidenciar os fatos que ocorreram no exercício social e, nas colunas, as diversas contas
+que compõem o patrimônio líquido. Querem ver na prática?
+
+O CPC 26 apresenta um modelo de apresentação da DMPL:
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             5
+         www.estrategiaconcursos.com.br                                                            28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+                                                     Reservas de
+                                                       C apital,                                      Patrim ônio
+                                                                             Lucros ou     O utros                  Patrim ônio dos Patrim ônio
+                                      C apitalSocial   O pções     Reserva                            Liquido dos
+                                                                             prejuízos   Resultados                       N ão        Líquido
+                                      Integralizado O utorgadas e de Lucros                            sócios da
+                                                                            acum ulados A brangentes                 controladores C onsolidado
+                                                      ações em                                       controladora
+                                                      tesouraria
+  Saldo Inicial                          1000           80         300          0          270          1650             158           1808
+  Aum ento de capital                    500            -50        -100                                  350              32            382
+  D ividendos                                                                 -162                      -162            -13,2         -175,2
+  Transação de capitalcom os sócios      1500           30         200        -162         270           188            18,8          206,8
+  Lucro Líquido do Período                                                     250                       250              22            272
+  Ajustes Instrum entos Financeiros                                                        -60           -60                            -60
+  Ajustes de Conversão do Período                                                          260           260                            260
+  O utros Resultado Abrangentes                                                                          200             0              200
+  Resultado Abrangente Total                                                                             450             22             472
+  Constituição de Reserva                                          140        -140
+  Realização da Reserva Realização                                             52          -52
+  Saldos Finais                          1500           30         340          0          418          2288           198,8         2486,8
+
+
+Percebam que a DLPA acaba se tornando apenas uma coluna da DMPL. Segundo o CPC 26:
+
+         107. A entidade deve apresentar, na demonstração das mutações do patrimônio líquido
+         ou nas notas explicativas, o montante de dividendos reconhecidos como distribuição
+         aos proprietários durante o período e o respectivo montante dos dividendos por ação.
+
+Muitas questões exigem dos candidatos diferenciar quais fatos contábeis geram alteração ou não no
+total do Patrimônio Líquido. Precisamos ter isso em mente:
+
+         Itens que afetam o patrimônio total:
+
+         Acréscimo pelo lucro ou redução pelo prejuízo líquido do exercício.
+
+         Redução por dividendos.
+
+         Acréscimo por subscrição e integralização de capital.
+
+         Acréscimo pelo recebimento de valor que exceda o valor nominal das
+         ações integralizadas ou o preço de emissão das ações sem valor nominal.
+
+         Redução por ações próprias adquiridas ou acréscimo por sua venda.
+
+         Redução por gastos na emissão de ações.
+
+         Itens que não afetam o total do patrimônio:
+
+         Aumento de capital com utilização de lucros e reservas.
+
+         Apropriações do lucro líquido do exercício, por meio da conta de Lucros Acumulados,
+         para a formação de reservas de Lucros;
+
+         Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos Acumulados.
+
+         Compensação de prejuízos com Reservas etc.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral                                                           6
+         www.estrategiaconcursos.com.br                                                                                                           28
+
+                                         
+
+
+---
+
+  Filipe Magalhães, Júlio Cardozo
+  Aula 15
+
+                                    APOSTA ESTRATÉGICA
+Dentro da nossa aposta para a cobrança de DLPA e DMPL na sua prova, queremos destacar:
+
+        Art. 186. A demonstração de lucros ou prejuízos acumulados discriminará:
+
+        I - o saldo do início do período, os ajustes de exercícios anteriores e a correção
+        monetária do saldo inicial;
+
+        II - as reversões de reservas e o lucro líquido do exercício;
+
+        III - as transferências para reservas, os dividendos, a parcela dos lucros
+        incorporada ao capital e o saldo ao fim do período.
+                                                        ==219a34==
+
+        § 1º Como ajustes de exercícios anteriores serão considerados apenas os
+        decorrentes de efeitos da mudança de critério contábil, ou da retificação de erro
+        imputável a determinado exercício anterior, e que não possam ser atribuídos a fatos
+        subsequentes.
+
+        § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o
+        montante do dividendo por ação do capital social e poderá ser incluída na
+        demonstração das mutações do patrimônio líquido, se elaborada e publicada pela
+        companhia.
+
+Precisamos saber a literalidade desse artigo, bem como, especialmente, o que seriam os ajustes de
+exercícios anteriores que são lançados na DLPA. As bancas gostam de fazer confusão com isso!
+
+Outro ponto importante é o funcionamento das contas de Patrimônio Líquido, especialmente a
+constituição e reversões de reservas de lucros. Precisamos estar bem treinados nisso!
+
+Vejam com atenção os fatos que alteram ou não o total do Patrimônio Líquido, tudo bem?
+
+        Itens que afetam o patrimônio total:
+
+        Acréscimo pelo lucro ou redução pelo prejuízo líquido do exercício.
+
+        Redução por dividendos.
+
+        Acréscimo por subscrição e integralização de capital.
+
+        Acréscimo pelo recebimento de valor que exceda o valor nominal das ações
+        integralizadas ou o preço de emissão das ações sem valor nominal.
+
+        Redução por ações próprias adquiridas ou acréscimo por sua venda.
+
+        Redução por gastos na emissão de ações.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral         7
+        www.estrategiaconcursos.com.br                                                        28
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+         Itens que não afetam o total do patrimônio:
+
+         Aumento de capital com utilização de lucros e reservas.
+
+         Apropriações do lucro líquido do exercício, por meio da conta de Lucros Acumulados,
+         para a formação de reservas de Lucros;
+
+         Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos Acumulados.
+
+         Compensação de prejuízos com Reservas etc.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral        8
+         www.estrategiaconcursos.com.br                                                        28
+
+                                      
+
+
+---
+
+   Filipe Magalhães, Júlio Cardozo
+   Aula 15
+
+                                  QUESTÕES ESTRATÉGICAS
+Funcionamento das contas de Patrimônio Líquido
+
+1. (FGV/MPE GO/Analista Contábil/2022) Assinale a opção que indica uma transação que
+   diminui o valor do Patrimônio Líquido de uma entidade.
+ a) Compensação de prejuízo com reservas.
+ b) Pagamento ou crédito de juros sobre o capital próprio.
+ c) Transferência do saldo de outros resultados abrangentes para a conta lucros acumulados.
+ d) Reversão de reservas de capital para apropriação ao capital social.
+ e) Apropriação do lucro líquido do exercício para a formação de reservas.
+
+Comentários:
+
+Muitas questões exigem dos candidatos diferenciar quais fatos contábeis geram alteração ou não no
+total do Patrimônio Líquido. Precisamos ter isto em mente:
+
+         Itens que afetam o patrimônio total:
+
+         Acréscimo pelo lucro ou redução pelo prejuízo líquido do exercício.
+
+         Redução por dividendos.
+
+         Acréscimo por subscrição e integralização de capital.
+
+         Acréscimo pelo recebimento de valor que exceda o valor nominal das ações
+         integralizadas ou o preço de emissão das ações sem valor nominal.
+
+         Redução por ações próprias adquiridas ou acréscimo por sua venda.
+
+         Redução por gastos na emissão de ações.
+
+         Itens que não afetam o total do patrimônio:
+
+         Aumento de capital com utilização de lucros e reservas.
+
+         Apropriações do lucro líquido do exercício, por meio da conta de Lucros Acumulados,
+         para a formação de reservas de Lucros;
+
+         Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos Acumulados.
+
+         Compensação de prejuízos com Reservas etc.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             9
+         www.estrategiaconcursos.com.br                                                             28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+Nosso gabarito é a assertiva B, pois pagamento ou crédito de juros sobre o capital próprio é
+contabilizado da seguinte forma:
+D - Lucros Acumulados (redução do PL)
+C - Juros Sobre o Capital Próprio a Pagar (Passivo) ou Bancos.
+
+Esse lançamento reduz o total do patrimônio líquido, por sua vez, todos os outros são apenas
+permutações entre contas desse grupo, sem alterar o saldo total. Nosso gabarito é letra B.
+
+Gabarito: B.
+
+Funcionamento das contas de Patrimônio Líquido
+
+2. (FGV/IMBEL/Analista Contábil/2021) Em relação à Demonstração das Mutações do
+   Patrimônio Líquido, assinale a opção que indica um fato que não afeta o patrimônio total de
+   uma entidade.
+(A) Aumento de capital com a utilização de reservas.
+(B) Redução de capital por gastos na emissão de ações.
+(C) Aumento de capital por ajustes de exercícios anteriores.
+(D) Aumento de capital por subscrição e integralização de capital.
+(E) Redução de capital por reconhecimento de juros sobre o capital próprio.
+
+Comentários:
+
+Muitas questões de prova exigem dos candidatos diferenciar quais fatos contábeis geram alteração ou
+não no total do Patrimônio Líquido. Precisamos ter isso em mente:
+
+         Itens que afetam o patrimônio total:
+
+         Acréscimo pelo lucro ou redução pelo prejuízo líquido do exercício.
+
+         Redução por dividendos.
+
+         Acréscimo por subscrição e integralização de capital.
+
+         Acréscimo pelo recebimento de valor que exceda o valor nominal das ações
+         integralizadas ou o preço de emissão das ações sem valor nominal.
+
+         Redução por ações próprias adquiridas ou acréscimo por sua venda.
+
+         Redução por gastos na emissão de ações.
+
+         Itens que não afetam o total do patrimônio:
+
+         Aumento de capital com utilização de lucros e reservas.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral         10
+         www.estrategiaconcursos.com.br                                                         28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+         Apropriações do lucro líquido do exercício, por meio da conta de Lucros Acumulados,
+         para a formação de reservas de Lucros;
+
+         Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos Acumulados.
+
+         Compensação de prejuízos com Reservas etc.
+
+Nosso gabarito é a alternativa A, pois aumento de capital com a utilização de reservas NÃO altera o total
+do Patrimônio Líquido da empresa.
+
+Veja a contabilização:
+
+D - Reserva
+C - Capital Social
+
+Ambas são contas do Patrimônio Líquido, portanto, o total do grupo não se altera.
+
+Gabarito: A.
+
+Estrutura e função da DMPL (CPC 26 e LSA)
+
+3. (FGV/IMBEL/Supervisor Contábil/2021) De acordo com o Pronunciamento Técnico CPC 26
+   (R1) - Apresentação das Demonstrações Contábeis, os efeitos da aplicação retrospectiva ou da
+   reapresentação retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC
+   23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro, devem ser
+   apresentadas
+(A) no Balanço Patrimonial.
+(B) na Demonstração do Resultado do Exercício.
+(C) na Demonstração das Mutações do Patrimônio Líquido.
+(D) na Demonstração do Resultado Abrangente.
+(E) na Demonstração do Valor Adicionado.
+
+Comentários:
+
+De acordo com o CPC 23, quando a entidade aplicar a nova política contábil retrospectivamente, ela
+deve aplicar a nova política contábil à informação comparativa para períodos anteriores tão antigos
+quanto for praticável.
+
+A aplicação retrospectiva a um período anterior pode ser considerada não praticável se não for
+praticável determinar o efeito cumulativo nos montantes dos balanços de abertura e de encerramento
+desse período.
+
+O valor do ajuste resultante, relacionado com períodos anteriores aos apresentados nas demonstrações
+contábeis, é registrado no saldo de abertura de cada componente do patrimônio líquido afetado do
+período anterior mais antigo apresentado.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral               11
+         www.estrategiaconcursos.com.br                                                               28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+Geralmente, o ajuste é registrado em Lucros ou Prejuízos Acumulados.
+
+Contudo, o ajuste pode ser feito em outro componente do patrimônio líquido (por exemplo, para
+cumprir um Pronunciamento, Interpretação ou Orientação específico).
+
+Qualquer outra informação sobre períodos anteriores, tal como resumos históricos de dados
+financeiros, é também ajustada para períodos tão antigos quanto for praticável.
+
+Nosso gabarito é, portanto, a Demonstração das Mutações do Patrimônio Líquido, mas também poderia
+ser a DLPA - Demonstração dos Lucros ou Prejuízos Acumulados.
+
+Gabarito: C.
+
+Artigos da Lei 6404/76
+
+4. (FGV/Técnico de Nível Médio/AL BA/2014) Demonstração de lucros ou prejuízos acumulados
+   (DLPA) De acordo com a Lei das Sociedades por Ações, a Demonstração de Lucros ou Prejuízos
+   Acumulados deve ser incluída
+a) na Demonstração do Resultado do Exercício.
+b) no Balanço Patrimonial.
+c) na Demonstração de Origens e Aplicações de Recursos.
+d) na Demonstração dos Resultados Abrangentes.
+e) na Demonstração das Mutações do Patrimônio Líquido.
+
+Comentários:
+
+Segundo a Lei das Sociedades por Ações (Lei 6404/76):
+
+         Art. 186. A demonstração de lucros ou prejuízos acumulados discriminará:
+
+         I - o saldo do início do período, os ajustes de exercícios anteriores e a correção
+         monetária do saldo inicial;
+
+         II - as reversões de reservas e o lucro líquido do exercício;
+
+         III - as transferências para reservas, os dividendos, a parcela dos lucros incorporada ao
+         capital e o saldo ao fim do período.
+
+         § 1º Como ajustes de exercícios anteriores serão considerados apenas os decorrentes
+         de efeitos da mudança de critério contábil, ou da retificação de erro imputável a
+         determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes.
+
+         § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do
+         dividendo por ação do capital social e poderá ser incluída na demonstração das
+         mutações do patrimônio líquido, se elaborada e publicada pela companhia.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              12
+         www.estrategiaconcursos.com.br                                                              28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+A banca mencionou, nesta questão, que a Demonstração de Lucros ou Prejuízos Acumulados (DLPA)
+deve ser incluída.
+
+Segundo a Lei das SAs, a DLPA pode ser incluída na demonstração das Mutações do Patrimônio Líquido
+(DMPL).
+
+A questão está errada. Mas, como a única demonstração que se relaciona com a DLPA é a Demonstração
+das Mutações do Patrimônio Líquido, o melhor é “entender” a falha da banca e anotar a alternativa E.
+
+Gabarito: E.
+
+Artigos da Lei 6404/76
+
+5. (FGV/Analista de Controle Interno/Recife/2014) Em relação à Demonstração dos Lucros ou
+   Prejuízos Acumulados, assinale a afirmativa correta.
+a) Pode ser evidenciada como parte do Balanço Patrimonial.
+b) Tornou-se obrigatória pela Lei nº 11.638/07.
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de critério
+contábil ou de estimativa.
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem.
+e) Deve indicar o montante do dividendo por ação do capital social.
+
+Comentários:
+
+a) Pode ser evidenciada como parte do Balanço Patrimonial. Errado. A Demonstração dos Lucros
+ou Prejuízos Acumulados (DLPA) pode ser evidenciada como parte da Demonstração das Mutações do
+Patrimônio Líquido (DMPL), e não do Balanço Patrimonial.
+
+b) Tornou-se obrigatória pela Lei nº 11.638/07. Errado. A DLPA é obrigatória desde o início da Lei
+6404, de 1976.
+
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de
+critério contábil ou de estimativa. Errado. Conforme a lei 6404/76:
+
+         Art. 186. A demonstração de lucros ou prejuízos acumulados discriminará (...).
+
+         § 1º Como ajustes de exercícios anteriores serão considerados apenas os decorrentes
+         de efeitos da mudança de critério contábil, ou da retificação de erro imputável a
+         determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes.
+
+Portanto, as mudanças de estimativas contábeis não entram na DLPA.
+
+Lembramos que as mudanças de critérios contábeis (atualmente chamada de “mudança de políticas
+contábeis”) incluem alterações gerais, que afetam a uma classe de itens da contabilidade. Exemplo:
+alterar o critério de avaliação de estoque de PEPS para Custo Médio.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          13
+         www.estrategiaconcursos.com.br                                                          28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+Já as estimativas contábeis são mais restritas, e se aplicam a apenas um item. Exemplo: alterar a
+estimativa de vida útil de uma máquina de 8 anos para 9 anos.
+
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem. Errado.
+Os ajustes de exercícios anteriores não afetam o resultado do exercício em curso. Só afetam a conta
+Lucros Acumulados, no PL.
+
+e) Deve indicar o montante do dividendo por ação do capital social. Certo. Conforme a lei 6404/76:
+
+         Art. 187, § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar
+         o montante do dividendo por ação do capital social e poderá ser incluída na
+         demonstração das mutações do patrimônio líquido, se elaborada e publicada pela
+         companhia.
+
+Gabarito: E.
+
+Estrutura e função da DMPL (CPC 26 e LSA)
+
+6. (FGV/Analista Contábil/DPE MT/2015) As contas integrantes do patrimônio líquido,
+   evidenciadas na demonstração das mutações do patrimônio líquido, podem sofrer variações
+   por itens que afetam o patrimônio total e por itens que não o afetam.
+Assinale a opção que apresenta um item que afeta o patrimônio total.
+a) Aumento de capital com utilização de lucros.
+b) Compensação de prejuízos com reservas.
+c) Ajuste de avaliação patrimonial.
+d) Reversão de reserva patrimonial para a conta de Prejuízos Acumulados.
+e) Apropriação do lucro líquido do exercício por meio da conta de Lucros para formação de Reserva
+para Contingências.
+
+Comentários:
+
+O Patrimônio total é o Ativo (lembramos que Patrimônio Líquido = Ativo menos Passivo Exigível).
+
+Vamos analisar as alternativas:
+
+a) Aumento de capital com utilização de lucros. Errado. Após o encerramento do exercício, a
+empresa transfere o Lucro Líquido do Exercício para a conta Lucro Acumulados.
+
+No caso de aumento de capital com utilização de lucros, a contabilização é a seguinte:
+
+D – Lucros Acumulados (PL)
+C – Capital Social (PL).
+
+Não há efeito no patrimônio total.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           14
+         www.estrategiaconcursos.com.br                                                           28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+b) Compensação de prejuízos com reservas. Errado. A empresa debita Reservas, no PL, e credita
+prejuízos acumulados, também no PL. Não há alteração no Patrimônio Total.
+
+c) Ajuste de avaliação patrimonial. Certo. O Ajuste de Avaliação Patrimonial corresponde a alterações
+nos ativos que ainda não podem ir para o Resultado. Como exemplo, podemos citar o Ajuste a Valor
+Justo para as aplicações em título disponível para venda futura.
+
+A contabilização do Ajuste de Avaliação Patrimonial é a seguinte:
+
+D – Ativo
+C – Ajuste de Avaliação Patrimonial (PL)
+
+d) Reversão de reserva patrimonial para a conta de Prejuízos Acumulados. Errado. Movimentação
+entre contas do Patrimônio Líquido. Sem efeito sobre o patrimônio total.
+
+e) Apropriação do lucro líquido do exercício por meio da conta de Lucros para formação de
+Reserva para Contingências. Errado. Movimentação entre contas do Patrimônio Líquido. Sem efeito
+sobre o patrimônio total.
+
+Gabarito: C.
+
+Artigos da Lei 6404/76
+
+7. (FGV/Analista de Controle Interno/Recife/2014) Em relação à Demonstração dos Lucros ou
+   Prejuízos Acumulados, assinale a afirmativa correta.
+a) Pode ser evidenciada como parte do Balanço Patrimonial.
+b) Tornou-se obrigatória pela Lei nº 11.638/07.
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de critério
+contábil ou de estimativa.
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem.
+e) Deve indicar o montante do dividendo por ação do capital social.
+
+Comentários:
+
+Vamos ver o que diz a Lei 6.404/76 sobre a DLPA?
+
+         Demonstração de Lucros ou Prejuízos Acumulados
+
+         Art. 186. A demonstração de lucros ou prejuízos acumulados discriminará:
+
+         I - o saldo do início do período, os ajustes de exercícios anteriores e a correção
+         monetária do saldo inicial;
+
+         II - as reversões de reservas e o lucro líquido do exercício;
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral           15
+         www.estrategiaconcursos.com.br                                                           28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+   Aula 15
+
+         III - as transferências para reservas, os dividendos, a parcela dos lucros incorporada ao
+         capital e o saldo ao fim do período.
+
+         § 1º Como ajustes de exercícios anteriores serão considerados apenas os decorrentes
+         de efeitos da mudança de critério contábil, ou da retificação de erro imputável a
+         determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes.
+
+         § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do
+         dividendo por ação do capital social e poderá ser incluída na demonstração das
+         mutações do patrimônio líquido, se elaborada e publicada pela companhia.
+
+a) Pode ser evidenciada como parte do Balanço Patrimonial.
+
+ Incorreto. Pode ser incluída na DMPL.
+                                                         ==219a34==
+
+b) Tornou-se obrigatória pela Lei nº 11.638/07.
+
+ Incorreto. Ela já era obrigatória.
+
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de
+critério contábil ou de estimativa.
+
+Item incorreto. As mudanças de estimativas têm efeitos prospectivos.
+
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem.
+
+Item incorreto. O resultado do exercício é apurado na DRE. A DLPA é uma demonstração posterior ao
+resultado do exercício.
+
+e) Deve indicar o montante do dividendo por ação do capital social.
+
+ Item correto. Este é o nosso gabarito.
+
+Gabarito: E.
+
+Funcionamento das contas de Patrimônio Líquido
+
+8. (FGV/TCM SP/Contador/2015) Em 31/12/2013, o patrimônio líquido da Cia. Alfa apresentava
+   a seguinte composição, em reais:
+                     Capital subscrito                                        1.000.000
+                     Capital a integralizar                                  (300.000)
+                     Reserva legal                                              140.000
+                     Reserva estatutária                                        50.000
+                     Total do patrimônio Líquido                                890.000
+Durante o exercício de 2014 foram integralizados R$ 100.000 ao capital social da Cia. Alfa, em dinheiro,
+e o lucro líquido apurado pela companhia em 31/12/2014 foi de R$ 500.000. Considerando que não
+houve constituição de reserva para contingências nem de reserva de lucros a realizar neste exercício, e
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              16
+         www.estrategiaconcursos.com.br                                                              28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+que o estatuto da companhia é omisso quanto aos dividendos obrigatórios, seus acionistas terão direito
+a receber como dividendo obrigatório relativo ao exercício de 2014 a importância de:
+(A) R$118.750;
+(B) R$120.000;
+(C) R$125.000;
+(D) R$237.500;
+(E) R$240.000.
+
+Comentários:
+
+Vamos inicial com a contabilização da integralização do Capital:
+
+D – Caixa/bancos (Ativo)                                         100.000
+C – Capital a integralizar (Retificadora do PL)                  100.000
+
+Após a integralização, o Capital Integralizado fica assim:
+
+                                         Capital subscrito      1.000.000
+                                         Capital a integralizar (200.000)
+                                         Capital Integralizado 800.000
+
+Vejamos agora a Reserva Legal. Conforme a Lei 6404/76:
+
+         Reserva Legal
+
+         Art. 193. Do lucro líquido do exercício, 5% (cinco por cento) serão aplicados, antes de
+         qualquer outra destinação, na constituição da reserva legal, que não excederá de 20%
+         (vinte por cento) do capital social.
+
+         § 1º A companhia poderá deixar de constituir a reserva legal no exercício em que o
+         saldo dessa reserva, acrescido do montante das reservas de capital de que trata o § 1º
+         do artigo 182, exceder de 30% (trinta por cento) do capital social.
+
+         § 2º A reserva legal tem por fim assegurar a integridade do capital social e somente
+         poderá ser utilizada para compensar prejuízos ou aumentar o capital.
+
+Portanto:
+
+5% do lucro do Exercício serão destinados à Reserva Legal: Lucro $500.000 x 5% = $25.000
+
+A Reserva Legal tem dois limites:
+
+Limite obrigatório: quando atinge 20% do Capital Social.
+
+Limite Facultativo ou opcional: quando, somada às Reservas de Capital, atingir 30% do Capital Social.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            17
+         www.estrategiaconcursos.com.br                                                            28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+As Reservas de Capital são as seguintes:
+
+a) Prêmio (ágio) na emissão de ações; e
+
+b) o produto da alienação de partes beneficiárias e bônus de subscrição.
+
+Como não aparecem nessa questão, não há necessidade de verificar o limite opcional. Vejamos agora o
+limite obrigatório da Reserva Legal.
+
+Capital integralizado: $800.000 x 20% = $ 160.000
+
+O limite obrigatório da Reserva Legal é de $ 160.000. Como tal reserva já apresenta saldo de $ 140.000,
+ficamos assim:
+
+A empresa poderia constituir a reserva legal no valor de $ 25.000 (5% do Lucro Líquido), mas, devido
+ao limite obrigatório, irá constituir apenas $20.000 (160.000 – 140.000 = 20.000).
+
+A questão pede o valor dos dividendos obrigatórios. Quando o estatuto for omisso, a empresa deve
+pagar como dividendos obrigatórios 50% do Lucro Líquido Ajustado:
+
+Segundo a Lei 6404/76:
+
+         Art. 202. Os acionistas têm direito de receber como dividendo obrigatório, em cada
+         exercício, a parcela dos lucros estabelecida no estatuto ou, se este for omisso, a
+         importância determinada de acordo com as seguintes normas:
+
+         I - metade do lucro líquido do exercício diminuído ou acrescido dos seguintes valores:
+
+         a) importância destinada à constituição da reserva legal (art. 193); e
+
+         b) importância destinada à formação da reserva para contingências (art. 195) e
+         reversão da mesma reserva formada em exercícios anteriores;
+
+Lucro Líquido                                            $500.000
+(-) Reserva Legal                                        ($ 20.000)
+Base para dividendos (Lucro Ajustado):                   $480.000
+Percentual                                                  x 50%
+Dividendos Obrigatórios                                  $ 240.000
+
+O restante do Lucro Líquido deverá ser usado para constituir reservas de lucro ou para distribuição de
+dividendos adicionais. A empresa não pode manter Lucros Acumulados sem destinação.
+
+Gabarito: E
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             18
+         www.estrategiaconcursos.com.br                                                             28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+Funcionamento das contas de Patrimônio Líquido
+
+9. (FGV/CODEBA/Gestão Portuária/2016) Uma sociedade empresária observou um aumento de
+   R$ 100.000 em seu patrimônio líquido entre 01/01/2015 e 31/12/2015.
+ Assinale a opção que apresenta uma possível causa para esse aumento.
+a) Aumento do capital social com reservas.
+b) Aumento do capital social com ativo imobilizado.
+c) Aumento do capital social com reserva de lucros.
+d) Reversão de reserva de capital para a conta de lucros acumulados.
+e) Compensação de prejuízo com reserva.
+
+Comentários:
+
+Vamos analisar cada um dos fatos contábeis apresentados e verificarmos qual deles gera aumento no
+Patrimônio Líquido:
+
+a) Aumento do capital social com reservas. Errado, o aumento do capital social com reservas altera o
+Patrimônio Líquido apenas qualitativamente e não quantitativamente.
+
+b) Aumento do capital social com ativo imobilizado. Correto, se houver integralização de capital com
+um veículo, avaliado em R$ 100.000, haverá aumento do Patrimônio Líquido nesse mesmo valor.
+
+c) Aumento do capital social com reserva de lucros. Errado, como já mencionamos anteriormente,
+aumento do capital social com Reservas, sejam Reservas de Capital ou de Capital, não gera aumento no
+Patrimônio Líquido.
+
+d) Reversão de reserva de capital para a conta de lucros acumulados. Errado, vejamos com seria, por
+exemplo, a contabilização dessa reversão:
+
+D – Prêmio na emissão de ações (Reserva de Capital)
+C – Lucros Acumulados                                                            100.000
+
+Não há aumento no Patrimônio Líquido com esse lançamento.
+
+e) Compensação de prejuízo com reserva. Errado, a contabilização desse fato seria:
+
+D – Prêmio na emissão de ações (Reserva de Capital)
+C – Prejuízos Acumulados                                                         100.000
+
+Também não há aumento no Patrimônio Líquido com esse lançamento.
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          19
+         www.estrategiaconcursos.com.br                                                          28
+
+                                      
+
+
+---
+
+ Filipe Magalhães, Júlio Cardozo
+ Aula 15
+
+        QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+
+Perguntas
+
+1.  O que é evidenciado na Demonstração das Mutações do Patrimônio Líquido?
+2.  O que é evidenciado na Demonstração dos Lucros ou Prejuízos Acumulados?
+3.  A DMPL é obrigatória pela Lei 6404/76?
+4.  É correto afirmarmos que a DPLA é elaborada após a apuração do resultado do exercício?
+5.  De acordo com a Lei 6404/76, art. 186, o que será discriminado na DLPA?
+6.  Quais são ajustes de exercícios anteriores são evidenciados na DLPL?
+7.  Cite as Reservas de Lucros?
+8.  Em caso de omissão do         estatuto da empresa, qual o mínimo deve ser destinado aos
+    acionistas na forma de dividendos?
+9. Na elaboração da DMPL, cite 6 fatos contábeis que afetam o Patrimônio Líquido da empresa.
+10. Cite 4 fatos contábeis que não afetam o total do patrimônio líquido.
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral    20
+       www.estrategiaconcursos.com.br                                                    28
+
+                                    
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+Perguntas com respostas
+
+ 1. O que é evidenciado na Demonstração das Mutações do Patrimônio Líquido?
+
+ A demonstração das mutações do patrimônio líquido é a demonstração que evidencia, como o próprio
+ nome sugere, as modificações neste grupo patrimonial.
+
+ 2. O que é evidenciado na Demonstração dos Lucros ou Prejuízos Acumulados?
+
+ A demonstração de lucros ou prejuízos acumulados demonstra as movimentações da conta lucros ou
+ prejuízos acumulados, passando desde o saldo do início do período (se for prejuízo) até a recepção do
+ lucro (que vem da DRE) e sua distribuição. Além disso, a DLPA demonstra o dividendo por ação do
+ capital social.
+
+ 3. A DMPL é obrigatória pela Lei 6404/76?
+
+Não, segundo a lei das SA, é obrigatória a demonstração dos lucros ou prejuízos acumulados
+(DLPA). Todavia, a DMPL faz parte do conjunto completo de demonstrações contábeis de CPC 26.
+
+ 4. É correto afirmarmos que a DPLA é elaborada após a apuração do resultado do exercício?
+
+Sim, podemos inferir que a demonstração de lucros ou prejuízos acumulados é elaborada
+posteriormente à demonstração do resultado do exercício, pois, na demonstração de resultados
+lançamos receitas/despesa para encontrar lucro/prejuízo. Posteriormente, transferimos este valor
+encontrado para o balanço patrimonial, para a conta lucros ou prejuízos acumulados, onde haverá a
+distribuição, caso seja lucro ou a absorção deste valor, caso seja prejuízo.
+
+ 5. De acordo com a Lei 6404/76, art. 186, o que será discriminado na DLPA?
+
+ O art. 186. A demonstração de lucros ou prejuízos acumulados discriminará:
+
+ I - o saldo do início do período, os ajustes de exercícios anteriores e a correção monetária do saldo
+ inicial;
+
+ II - as reversões de reservas e o lucro líquido do exercício;
+
+ III - as transferências para reservas, os dividendos, a parcela dos lucros incorporada ao capital e o
+ saldo ao fim do período.
+
+ 6. Quais são ajustes de exercícios anteriores são evidenciados na DLPL?
+
+Apenas os decorrentes de efeitos da mudança de critério contábil, ou da retificação de erro imputável a
+determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral             21
+         www.estrategiaconcursos.com.br                                                             28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+ 7. Cite as Reservas de Lucros?
+
+                      Reserva legal
+                      Reservas estatutárias
+                      Reservas para contingências
+                      Reservas de incentivos fiscais
+                      Reservas de retenção de lucros
+                      Reserva de lucros a realizar
+                      Reserva especial para dividendos obrigatórios não distribuídos
+                      Reserva de prêmio na emissão de debêntures
+
+ 8. Em caso de omissão do        estatuto da empresa, qual o mínimo deve ser destinado aos
+    acionistas na forma de dividendos?
+
+ Caso seja omisso, a base de cálculo é a seguinte:       ==219a34==
+
+         Base de cálculo para estatuto omisso:
+
+         Lucro líquido do exercício
+
+         - Reserva legal
+
+         - Reserva para contingências
+
+         + Reversão da reserva de contingências
+
+         - Reserva de incentivos fiscais (facultativamente)
+
+         - Reserva esp. emissão de debêntures (facultativamente)
+
+         Lucro líquido ajustado x 50% = dividendo devido
+
+ 9. Na elaboração da DMPL, cite 6 fatos contábeis que afetam o Patrimônio Líquido da empresa.
+
+         Acréscimo pelo lucro ou redução pelo prejuízo líquido do exercício.
+
+         Redução por dividendos.
+
+         Acréscimo por subscrição e integralização de capital.
+
+         Acréscimo pelo recebimento de valor que exceda o valor nominal das ações
+         integralizadas ou o preço de emissão das ações sem valor nominal.
+
+         Redução por ações próprias adquiridas ou acréscimo por sua venda.
+
+         Redução por gastos na emissão de ações.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral         22
+         www.estrategiaconcursos.com.br                                                         28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+ 10. Cite 4 fatos contábeis que não afetam o total do patrimônio líquido:
+
+         Aumento de capital com utilização de lucros e reservas.
+
+         Apropriações do lucro líquido do exercício, por meio da conta de Lucros Acumulados,
+         para a formação de reservas de Lucros;
+
+         Reversões de reservas patrimoniais para a conta de Lucros ou Prejuízos Acumulados.
+
+         Compensação de prejuízos com reservas.
+
+Pessoal, encerramos aqui a nossa aula de hoje. Espero que vocês tenham gostado da nossa abordagem
+e do conteúdo apresentado. Com certeza essas informações irão te auxiliar na sua jornada de estudos!
+
+Grande abraço e bons estudos!
+
+      “Se enxerguei mais longe, foi porque me apoiei sobre os ombros de gigantes..”
+
+                                                 (Isaac Newton)
+
+                                           Julio Cardozo
+                                    https://www.facebook.com/profjuliocardozo/
+
+                                    Insta: www.instagram.com/profjuliocardozo
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral          23
+         www.estrategiaconcursos.com.br                                                          28
+
+                                      
+
+
+---
+
+   Filipe Magalhães, Júlio Cardozo
+   Aula 15
+
+                        LISTA DE QUESTÕES ESTRATÉGICAS
+
+1. (FGV/MPE GO/Analista Contábil/2022) Assinale a opção que indica uma transação que
+   diminui o valor do Patrimônio Líquido de uma entidade.
+ a) Compensação de prejuízo com reservas.
+ b) Pagamento ou crédito de juros sobre o capital próprio.
+ c) Transferência do saldo de outros resultados abrangentes para a conta lucros acumulados.
+ d) Reversão de reservas de capital para apropriação ao capital social.
+ e) Apropriação do lucro líquido do exercício para a formação de reservas.
+
+2. (FGV/IMBEL/Analista Contábil/2021) Em relação à Demonstração das Mutações do
+   Patrimônio Líquido, assinale a opção que indica um fato que não afeta o patrimônio total de
+   uma entidade.
+(A) Aumento de capital com a utilização de reservas.
+(B) Redução de capital por gastos na emissão de ações.
+(C) Aumento de capital por ajustes de exercícios anteriores.
+(D) Aumento de capital por subscrição e integralização de capital.
+(E) Redução de capital por reconhecimento de juros sobre o capital próprio.
+
+3. (FGV/IMBEL/Supervisor Contábil/2021) De acordo com o Pronunciamento Técnico CPC 26
+   (R1) - Apresentação das Demonstrações Contábeis, os efeitos da aplicação retrospectiva ou da
+   reapresentação retrospectiva, reconhecidos de acordo com o Pronunciamento Técnico CPC
+   23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro, devem ser
+   apresentadas
+(A) no Balanço Patrimonial.
+(B) na Demonstração do Resultado do Exercício.
+(C) na Demonstração das Mutações do Patrimônio Líquido.
+(D) na Demonstração do Resultado Abrangente.
+(E) na Demonstração do Valor Adicionado.
+
+4. (FGV/Técnico de Nível Médio/AL BA/2014) Demonstração de lucros ou prejuízos acumulados
+   (DLPA) De acordo com a Lei das Sociedades por Ações, a Demonstração de Lucros ou Prejuízos
+   Acumulados deve ser incluída
+a) na Demonstração do Resultado do Exercício.
+b) no Balanço Patrimonial.
+c) na Demonstração de Origens e Aplicações de Recursos.
+d) na Demonstração dos Resultados Abrangentes.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral       24
+         www.estrategiaconcursos.com.br                                                       28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+e) na Demonstração das Mutações do Patrimônio Líquido.
+
+5. (FGV/Analista de Controle Interno/Recife/2014) Em relação à Demonstração dos Lucros ou
+   Prejuízos Acumulados, assinale a afirmativa correta.
+a) Pode ser evidenciada como parte do Balanço Patrimonial.
+b) Tornou-se obrigatória pela Lei nº 11.638/07.
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de critério
+contábil ou de estimativa.
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem.
+e) Deve indicar o montante do dividendo por ação do capital social.
+
+6. (FGV/Analista Contábil/DPE MT/2015) As contas integrantes do patrimônio líquido,
+   evidenciadas na demonstração das mutações do patrimônio líquido, podem sofrer variações
+   por itens que afetam o patrimônio total e por itens que não o afetam.
+Assinale a opção que apresenta um item que afeta o patrimônio total.
+a) Aumento de capital com utilização de lucros.
+b) Compensação de prejuízos com reservas.
+c) Ajuste de avaliação patrimonial.
+d) Reversão de reserva patrimonial para a conta de Prejuízos Acumulados.
+e) Apropriação do lucro líquido do exercício por meio da conta de Lucros para formação de Reserva
+para Contingências.
+
+7. (FGV/Analista de Controle Interno/Recife/2014) Em relação à Demonstração dos Lucros ou
+   Prejuízos Acumulados, assinale a afirmativa correta.
+a) Pode ser evidenciada como parte do Balanço Patrimonial.
+b) Tornou-se obrigatória pela Lei nº 11.638/07.
+c) Considera como ajustes de exercícios anteriores os decorrentes de efeitos da mudança de critério
+contábil ou de estimativa.
+d) Os ajustes evidenciados trazem mudanças no resultado do exercício a que se referem.
+e) Deve indicar o montante do dividendo por ação do capital social.
+
+8. (FGV/TCM SP/Contador/2015) Em 31/12/2013, o patrimônio líquido da Cia. Alfa apresentava
+   a seguinte composição, em reais:
+                                    Capital subscrito            1.000.000
+                                    Capital a integralizar      (300.000)
+                                    Reserva legal                  140.000
+                                    Reserva estatutária            50.000
+                                    Total do patrimônio Líquido    890.000
+Durante o exercício de 2014 foram integralizados R$ 100.000 ao capital social da Cia. Alfa, em dinheiro,
+e o lucro líquido apurado pela companhia em 31/12/2014 foi de R$ 500.000. Considerando que não
+houve constituição de reserva para contingências nem de reserva de lucros a realizar neste exercício, e
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral              25
+         www.estrategiaconcursos.com.br                                                              28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+que o estatuto da companhia é omisso quanto aos dividendos obrigatórios, seus acionistas terão direito
+a receber como dividendo obrigatório relativo ao exercício de 2014 a importância de:
+(A) R$118.750;
+(B) R$120.000;
+(C) R$125.000;
+(D) R$237.500;
+(E) R$240.000.
+
+9. (FGV/CODEBA/Gestão Portuária/2016) Uma sociedade empresária observou um aumento de
+   R$ 100.000 em seu patrimônio líquido entre 01/01/2015 e 31/12/2015.
+ Assinale a opção que apresenta uma possível causa para esse aumento.
+a) Aumento do capital social com reservas.               ==219a34==
+
+b) Aumento do capital social com ativo imobilizado.
+c) Aumento do capital social com reserva de lucros.
+d) Reversão de reserva de capital para a conta de lucros acumulados.
+e) Compensação de prejuízo com reserva.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral            26
+         www.estrategiaconcursos.com.br                                                            28
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Magalhães, Júlio Cardozo
+   Filipe
+  Aula 15
+
+                                                 GABARITO
+
+                                                Questão      Gabarito
+                                                   1            B
+                                                   2            A
+                                                   3            C
+                                                   4            E
+                                                   5            E
+                                                   6            C
+                                                   7            E
+                                                   8            E
+                                                   9            B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Contabilidade Geral   27
+         www.estrategiaconcursos.com.br                                                   28
+
+                                      
+
+
+---
+
+---

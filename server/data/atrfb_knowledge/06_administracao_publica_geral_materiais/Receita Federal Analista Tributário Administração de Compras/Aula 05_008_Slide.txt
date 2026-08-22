@@ -1,0 +1,492 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+ESTOQUES - II
+BANCAS DIVERSAS - II
+                                               Prof. Ricardo Campanario
+
+
+
+
+          https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes a
+     uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A, situada
+     na capital do estado, as mercadorias armazenadas permanecem por pouco tempo no
+     almoxarifado, por isso a quantidade do estoque é menor do que a da loja B. Na loja B,
+     que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. Ao
+     adotar o sistema de reposições periódicas, o proprietário da loja B deverá calcular o
+     ponto de pedido de cada item para providências de reabastecimento.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Sistemas de Reposição de Estoque
+       Reposição Contínua e Periódica
+       ❑ A principal característica do sistema de reposição contínua é que o estoque é reposto quando um
+         nível pré-determinado de estoque é atingido. É um sistema de gatilho que dispara ao se chegar a
+         um mínimo estipulado. Ele ainda se divide em dois métodos: sistema de "duas gavetas" e de
+         máximos e mínimos.
+
+       ✓ Sistema de "duas gavetas" ou de reposição por quantidade: pode ser considerado os sistema
+         mais simples de reposição de estoques e, por isso, é recomendado para os itens da Classe C.
+
+       ✓ Sistema de máximos e mínimos (também chamado de sistema de quantidades fixas): nessa
+         metodologia o sistema de reposição é automático.
+
+       ❑ No sistema de revisão periódica teoricamente não há preocupação com o estoque mínimo para a
+         definição do momento da compra e por isso ele também é conhecido como sistema de estoque
+         máximo. Nesse sistema o material é reposto periodicamente em ciclos iguais de tempos e na
+         quantidade que será demandada no período seguinte.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PGE PE/Assistente de Procuradoria/2019) As lojas A e B, pertencentes a
+     uma mesma rede, estão localizadas em cidades de um mesmo estado. Na loja A, situada
+     na capital do estado, as mercadorias armazenadas permanecem por pouco tempo no
+     almoxarifado, por isso a quantidade do estoque é menor do que a da loja B. Na loja B,
+     que fica no interior, são crescentes as reclamações de clientes sobre a falta de
+     mercadorias, razão pela qual o proprietário planeja aumentar o nível de serviço. As duas
+     lojas possuem o mesmo volume e perfil de vendas. Considerando essas informações e
+     os múltiplos aspectos relacionados à gestão de estoques, julgue o item a seguir. Ao
+     adotar o sistema de reposições periódicas, o proprietário da loja B deverá calcular o
+     ponto de pedido de cada item para providências de reabastecimento.
+     a) CERTO
+     b) ERRADO                    Na verdade o responsável pelo abastecimento da loja B deve adotar sistema de
+                                  reposição contínua e não periódica visto que tem tido muito problema com o
+     GABARITO - ERRADA            atendimento das demandas e o consequente nível de serviços.
+
+                                            Dessa forma, ao adotar modelo de reposição contínua, aí sim ele deverá se preocupar
+                                            com o ponto do pedido, visto que no sistema de reposição periódica o ponto do
+                                            pedido é fixado por períodos temporais e independe dos níveis de estoque.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Arujá-SP/Controlador de Patrimônio/2019) Os estoques
+     mínimos e máximos são usados:
+     a) para determinar o valor do estoque físico e contábil.
+     b) pelas dificuldades de armazenar e produzir produtos.
+     c) pelas dificuldades de determinação do consumo e pelas variações do tempo de
+     reposição.
+     d) para controlar itens sazonais e as variações do orçamento.
+     e) pelas dificuldades de estocagem e do tempo de reposição.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Arujá-SP/Controlador de Patrimônio/2019) Os estoques
+     mínimos e máximos são usados:
+     a) para determinar o valor do estoque físico e contábil.
+     b) pelas dificuldades de armazenar e produzir produtos.
+     c) pelas dificuldades de determinação do consumo e pelas variações do tempo de
+     reposição.
+     d) para controlar itens sazonais e as variações do orçamento.
+     e) pelas dificuldades de estocagem e do tempo de reposição.
+     GABARITO - C
+
+     Estoques mínimos ou de segurança são estoques de caráter adicional, consumidos
+     em situações imprevisíveis como atrasos no tempo de reposição ou aumento
+     repentino e não previsto da demanda.
+
+     Os estoques máximos, por sua vez, limitam a quantidade máxima de um material
+     que deve ser acumulada e, geralmente, é calculado pela soma do estoque de
+     segurança ao volume indicado pelo Lote de Compra.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FUNDEP/ARISB MG/Assistente Administrativo/2019) Analise a afirmativa a seguir.
+     Corresponde à soma do estoque mínimo com o lote de compra no dia do seu
+     recebimento e determina o tamanho do espaço que o item irá ocupar no armazém ou
+     almoxarifado no ato do seu recebimento. Essa afirmativa descreve o conceito de:
+     a) arranjo físico.
+     b) giro de estoque.
+     c) estoque máximo.
+     d) movimentação de materiais.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FUNDEP/ARISB MG/Assistente Administrativo/2019) Analise a afirmativa a seguir.
+     Corresponde à soma do estoque mínimo com o lote de compra no dia do seu
+     recebimento e determina o tamanho do espaço que o item irá ocupar no armazém ou
+     almoxarifado no ato do seu recebimento. Essa afirmativa descreve o conceito de:
+     a) arranjo físico.
+     b) giro de estoque.
+     c) estoque máximo.
+     d) movimentação de materiais.
+     GABARITO - C
+
+      Essa é a definição clássica de estoque máximo, ou seja, o
+      estoque de segurança/mínimo somado ao lote de compras.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEFETMINAS/IFNMG/Assistente/2019) O sistema de controle de estoques,
+     também conhecido como sistema de quantidades fixas (DIAS, 2011), que consiste na
+     determinação dos consumos previstos para o item desejado, denomina-se Sistema:
+     a) de Gaveta.
+     b) Just-in-Time.
+     c) Duas Gavetas.
+     d) dos Máximos-Mínimos.
+     e) das Revisões Periódicas.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Sistemas de Reposição Contínua
+       Sistemas de “Máximos e Mínimos”
+       ❑ Sistema de máximos e mínimos (também chamado de sistema de quantidades fixas):
+         nessa metodologia o sistema de reposição é automático.
+       ❑ Tem-se um volume de estoques mais um estoque de segurança. Tão logo o nível de
+         segurança é atingido deve ser recebido um novo lote de material, evitando o
+         consumo do estoque mínimo (ou de segurança). A data correta de compra para que
+         se verifique essa situação é o ponto do pedido.
+       ❑ Esse volume de segurança serve como um colchão e suporta as demandas da
+         organização enquanto a nova remessa de material não é entregue.
+       ❑ Abrange os itens das classes A, B e C, é razoavelmente automatizado e permite a
+         utilização da metodologia do Lote Econômico de Compras.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (CEFETMINAS/IFNMG/Assistente/2019) O sistema de controle de estoques,
+     também conhecido como sistema de quantidades fixas (DIAS, 2011), que consiste na
+     determinação dos consumos previstos para o item desejado, denomina-se Sistema:
+     a) de Gaveta.
+     b) Just-in-Time.
+     c) Duas Gavetas.
+     d) dos Máximos-Mínimos.
+     e) das Revisões Periódicas.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) Em uma empresa hipotética da
+     área de metalurgia, o Sr. Roberto, gerente industrial da unidade, deseja saber qual foi a
+     rotatividade do seu estoque no ano de 2018. Desse modo, foram levantadas as
+     seguintes informações do respectivo ano:
+     • Vendas anuais de R$ 3.250.000,00;
+     • Lucro anual de R$ 100.000,00;
+     • Tendo em seus estoques (matéria-prima, peças auxiliares, itens de manutenção, WIP
+     e produtos acabados) um investimento de R$ 200.000,00.
+     Assim, é possível concluir que a rotatividade do seu estoque, no ano 2018, foi de:
+     a) 82,50.
+     b) 16,25.
+     c) 2,03.
+     d) 8,25.
+     e) 21,67.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) Em uma empresa hipotética da
+     área de metalurgia, o Sr. Roberto, gerente industrial da unidade, deseja saber qual foi a
+     rotatividade do seu estoque no ano de 2018. Desse modo, foram levantadas as
+     seguintes informações do respectivo ano:
+     • Vendas anuais de R$ 3.250.000,00;
+     • Lucro anual de R$ 100.000,00;
+     • Tendo em seus estoques (matéria-prima, peças auxiliares, itens de manutenção, WIP
+     e produtos acabados) um investimento de R$ 200.000,00.
+     Assim, é possível concluir que a rotatividade do seu estoque, no ano 2018, foi de:
+     a) 82,50.
+                                 O giro ou rotatividade dos estoques é calculado dividindo-se o consumo total do período
+     b) 16,25.                   pelo estoque médio do mesmo período. Neste caso temos:
+     c) 2,03.                    Vendas anuais (ou consumo total) = $3.250.000
+                                 Estoque Médio = $200.000
+     d) 8,25.                    Note que não se usa o lucro para o cálculo do giro do produto.
+     e) 21,67.                   Giro de estoques = consumo/estoque médio
+     GABARITO - B                Giro de estoques = $3.250.000/$200.000 = 16,25, ou seja, o estoque médio girou 16,25
+                                            vezes ao longo do ano.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O modelo de controle de
+     estoque por ponto de pedido consiste em estabelecer uma quantidade de itens em
+     estoque, chamada ponto de pedido ou de reposição, que, quando atingida, dá partida
+     ao processo de reposição do item. Um Analista Censitário do IBGE precisa encontrar o
+     ponto de pedido de um item que possui consumo mensal de 100 unidades, o tempo de
+     ressuprimento é de 1 mês e o estoque de segurança igual a 3 meses de consumo. Esse
+     ponto de pedido é:
+     a) 399.
+     b) 103.
+     c) 300.
+     d) 100.
+     e) 400.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O modelo de controle de
+     estoque por ponto de pedido consiste em estabelecer uma quantidade de itens em
+     estoque, chamada ponto de pedido ou de reposição, que, quando atingida, dá partida
+     ao processo de reposição do item. Um Analista Censitário do IBGE precisa encontrar o
+     ponto de pedido de um item que possui consumo mensal de 100 unidades, o tempo de
+     ressuprimento é de 1 mês e o estoque de segurança igual a 3 meses de consumo. Esse
+     ponto de pedido é:
+     a) 399.                Questão típica de cálculo do ponto do pedido. Vamos a
+     b) 103.                fórmula:
+     c) 300.                Ponto do Pedido = Consumo x Tempo de Reposição +
+     d) 100.                Estoque Mínimo ou de Segurança
+
+     e) 400.                Lembrando que o estoque de segurança corresponde ao
+                            consumo de 3 meses. Se o consumo mensal é de 100
+     GABARITO - E           unidades, o estoque mínimo será de 300.
+
+                                            Ponto do Pedido = 100 x 1 + 300
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) Levando em consideração um
+     investimento médio em estoque de 10 mil reais e um valor de vendas anuais ao custo de
+     estoque de 250 mil reais, qual o número médio de giros do estoque de uma
+     determinada fornecedora do IBGE?
+     a) 75.
+     b) 25.
+     c) 24.
+     d) 26.
+     e) 35.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) Levando em consideração um
+     investimento médio em estoque de 10 mil reais e um valor de vendas anuais ao custo de
+     estoque de 250 mil reais, qual o número médio de giros do estoque de uma
+     determinada fornecedora do IBGE?
+     a) 75.
+                         O giro ou rotatividade dos estoques é calculado dividindo-se o consumo
+     b) 25.              total do período pelo estoque médio do mesmo período. Neste caso
+     c) 24.              temos:
+     d) 26.              Vendas anuais (ou consumo total) = $250.000
+     e) 35.              Estoque Médio = $10.000
+     GABARITO - B
+                                            Giro de estoques = consumo/estoque médio
+
+                                            Giro de estoques = $250.000/$10.000 = 25, ou seja, o estoque médio
+                                            girou 25 vezes ao longo do ano.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (FDC/SEHAC/Comprador/2019) A medição do desempenho de materiais pode ser
+     realizada por uma grande quantidade de índices, neste sentido, o lead time, é utilizado
+     para medir o(a):
+     a) giro de estoque;
+     b) estoque em processo;
+     c) produto acabado em estoque;
+     d) tempo de duração de um processo;
+     e) eficiência das entregas aos clientes.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (FDC/SEHAC/Comprador/2019) A medição do desempenho de materiais pode ser
+     realizada por uma grande quantidade de índices, neste sentido, o lead time, é utilizado
+     para medir o(a):
+     a) giro de estoque;
+     b) estoque em processo;                               Lead Time é a tradução para o inglês do Tempo de
+     c) produto acabado em estoque;                        Reposição, ou o tempo entre a realização do pedido e a
+                                                           entrega no comprador. Note como desta forma estamos
+     d) tempo de duração de um processo;                   falando exatamente da eficiência das entregas realizadas aos
+                                                           clientes, usando a unidade tempo.
+     e) eficiência das entregas aos clientes.              Esse intervalo de tempo é composto por três grandes
+                                                           atividades que você precisa conhecer:
+     GABARITO - E                                                       1. Emissão do Pedido: tempo
+                                                                                     percorrido desde a emissão do
+                                                                                     pedido até ele chegar ao fornecedor.
+                                                                                     2. Preparação do Pedido: tempo
+                                                                                     percorrido para a fabricação e
+                                                                                     separação dos produtos, emissão do
+                                                                                     faturamento e preparação para que
+                                                                                     fiquem em condições de serem
+                                                                                     transportados até o cliente que os
+                                                                                     adquiriu.
+                                                                                     3. Transporte: tempo percorrido da
+                                                                                     saída    do    fornecedor    até  o
+                                                                                     recebimento pela empresa de todos
+                                                                                     os materiais adquiridos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Mogi das Cruzes-SP/Administrador Hospitalar/2019) Dentre os métodos de
+     controle de estoque, assinale a alternativa que descreve os dois mais comuns.
+     a) Método das quantidades variáveis, para serviços de saúde que trabalham com demandas
+     desconhecidas; e método das revisões periódicas, adequado para clínicas especializadas e
+     procedimentos padronizados.
+     b) Método das quantidades automaticamente calculadas, para hospitais de pequeno porte; e método
+     logarítmico, ideal para órteses, próteses e materiais especiais, cuja demanda pode variar de acordo
+     com a requisição médica.
+     c) Método das quantidades fixas, para serviços de saúde que trabalham com demandas relativamente
+     regulares; e método das revisões periódicas, adequado para itens de grande valor e que podem ser
+     descontinuados ou substituídos.
+     d) Método das quantidades calculadas pela estatística das pequenas amostras, para clínicas e hospitais
+     de pequeno porte; e método do histórico de uso, adequado aos serviços de saúde cuja demanda vem
+     em maior parte da emergência.
+     e) Método ABC para incluir todos os itens necessários ao funcionamento do serviço de saúde
+     considerado; e método das pequenas amostras, que descentraliza o controle da utilização para as
+     unidades usuárias ou satélites, facilitando a gestão do material.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Sistemas de Reposição de Estoque
+       Reposição Contínua e Periódica
+       ❑ A principal característica do sistema de reposição contínua é que o estoque é reposto quando um
+         nível pré-determinado de estoque é atingido. É um sistema de gatilho que dispara ao se chegar a
+         um mínimo estipulado. Ele ainda se divide em dois métodos: sistema de "duas gavetas" e de
+         máximos e mínimos.
+
+       ✓ Sistema de "duas gavetas" ou de reposição por quantidade: pode ser considerado os sistema
+         mais simples de reposição de estoques e, por isso, é recomendado para os itens da Classe C.
+
+       ✓ Sistema de máximos e mínimos (também chamado de sistema de quantidades fixas): nessa
+         metodologia o sistema de reposição é automático.
+
+       ❑ No sistema de revisão periódica teoricamente não há preocupação com o estoque mínimo para a
+         definição do momento da compra e por isso ele também é conhecido como sistema de estoque
+         máximo. Nesse sistema o material é reposto periodicamente em ciclos iguais de tempos e na
+         quantidade que será demandada no período seguinte.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Mogi das Cruzes-SP/Administrador Hospitalar/2019) Dentre os métodos de
+     controle de estoque, assinale a alternativa que descreve os dois mais comuns.
+     a) Método das quantidades variáveis, para serviços de saúde que trabalham com demandas
+     desconhecidas; e método das revisões periódicas, adequado para clínicas especializadas e
+     procedimentos padronizados.
+     b) Método das quantidades automaticamente calculadas, para hospitais de pequeno porte; e método
+     logarítmico, ideal para órteses, próteses e materiais especiais, cuja demanda pode variar de acordo
+     com a requisição médica.
+     c) Método das quantidades fixas, para serviços de saúde que trabalham com demandas relativamente
+     regulares; e método das revisões periódicas, adequado para itens de grande valor e que podem ser
+     descontinuados ou substituídos.
+     d) Método das quantidades calculadas pela estatística das pequenas amostras, para clínicas e hospitais
+     de pequeno porte; e método do histórico de uso, adequado aos serviços de saúde cuja demanda vem
+     em maior parte da emergência.
+     e) Método ABC para incluir todos os itens necessários ao funcionamento do serviço de saúde
+     considerado; e método das pequenas amostras, que descentraliza o controle da utilização para as
+     unidades usuárias ou satélites, facilitando a gestão do material.
+     GABARITO - C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (INSTITUTO AOCP/CM Cabo de Santo Agostinho-PE/Auxiliar/2019) Qual é a
+     classificação de materiais que se baseia no princípio de Pareto ou 80-20, que classifica
+     os materiais de acordo com o seu valor?
+     a) Curva ABC.
+     b) Ponto de pedido.
+     c) Estoque de segurança.
+     d) Lote econômico de compra.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+Classificação ABC
+❑ A curva ABC é um instrumento fundamental para o administrador. Permite identificar
+  aqueles itens que merecem foco e tratamento adequado em relação a sua
+  administração. A curva ABC é obtida por meio da ordenação dos itens conforme sua
+  importância relativa em valor.
+
+
+
+
+     Classe dos Materiais     % em Número de Itens (eixo x)       % em Importância (eixo y)
+              A                         20%                                80%
+              B                         30%                                15%
+              C                         50%                                 5%
+                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (INSTITUTO AOCP/CM Cabo de Santo Agostinho-PE/Auxiliar/2019) Qual é a
+     classificação de materiais que se baseia no princípio de Pareto ou 80-20, que classifica
+     os materiais de acordo com o seu valor?
+     a) Curva ABC.
+     b) Ponto de pedido.
+     c) Estoque de segurança.
+     d) Lote econômico de compra.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

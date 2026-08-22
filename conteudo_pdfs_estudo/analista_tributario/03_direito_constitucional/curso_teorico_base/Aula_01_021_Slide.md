@@ -1,0 +1,220 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 01_021_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 11.
+- Art. 226
+- Art. 3º.
+- Art. 57
+- Art. 5º
+- Art. 60
+- Art. 60.
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                          Profª. Nelma Fontana
+
+     
+
+
+---
+
+   Professora Nelma
+        Fontana
+
+                @nelmafontan
+                a
+
+---
+
+Poder Constituinte
+
+   
+
+
+---
+
+Poder Constituinte Derivado Reformador
+
+1) Fase introdutória: Iniciativa
+
+Art. 60. A Constituição poderá ser emendada mediante proposta:
+I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado
+Federal;
+II - do Presidente da República;
+III - de mais da metade das Assembleias Legislativas das unidades da Federação,
+manifestando-se, cada uma delas, pela maioria relativa de seus membros.
+
+                               
+
+
+---
+
+2) Fase constitutiva: deliberação legislativa
+
+Art. 60, § 2º A proposta será discutida e votada em cada Casa do Congresso
+Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três
+quintos dos votos dos respectivos membros.
+
+             Casa Iniciadora                                        Casa Revisora
+
+                               
+
+
+---
+
+Irrepetibilidade
+
+Art. 60, § 5º A matéria constante de proposta de emenda rejeitada ou havida por
+prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa.
+
+                            
+
+
+---
+
+3) Fase complementar: promulgação e publicação
+
+Art. 60, § 3º A emenda à Constituição será promulgada pelas Mesas da Câmara
+dos Deputados e do Senado Federal, com o respectivo número de ordem.
+
+                           
+
+
+---
+
+4) Limitação material: cláusulas pétreas
+
+Art. 60, § 4º Não será objeto de deliberação a proposta de emenda tendente a
+abolir:
+I - a forma federativa de Estado;
+II - o voto direto, secreto, universal e periódico;
+III - a separação dos Poderes;
+IV - os direitos e garantias individuais.
+§ 5º A matéria constante de proposta de emenda rejeitada ou havida por
+prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa.
+
+                             
+
+
+---
+
+---
+
+5) Limitação circunstancial
+
+§ 1º A Constituição não poderá ser emendada na vigência de intervenção federal,
+de estado de defesa ou de estado de sítio.
+
+                              
+
+
+---
+
+6) Limitação formal
+
+7) Limitação temporal
+
+
+Cuidado!
+ADCT, Art. 3º. A revisão constitucional será realizada após cinco anos, contados da
+promulgação da Constituição, pelo voto da maioria absoluta dos membros do
+Congresso Nacional, em sessão unicameral.
+
+
+                              
+
+
+---
+
+8) Limitação implícita
+
+                         
+
+
+---
+
+Poder Constituinte Derivado Revisor
+
+
+ADCT, Art. 3º. A revisão constitucional será realizada após cinco anos, contados da
+promulgação da Constituição, pelo voto da maioria absoluta dos membros do
+Congresso Nacional, em sessão unicameral.
+
+                              
+
+
+---
+
+Poder Constituinte Derivado Decorrente
+
+
+ADCT, Art. 11. Cada Assembleia Legislativa, com poderes constituintes, elaborará a
+Constituição do Estado, no prazo de um ano, contado da promulgação da
+Constituição Federal, obedecidos os princípios desta.
+Parágrafo único. Promulgada a Constituição do Estado, caberá à Câmara
+Municipal, no prazo de seis meses, votar a Lei Orgânica respectiva, em dois turnos
+de discussão e votação, respeitado o disposto na Constituição Federal e na
+Constituição Estadual.
+
+                             
+
+
+---
+
+---
+
+---
+
+Poder Constituinte Difuso
+
+Art. 5º, LXVII - não haverá prisão civil por dívida, salvo a do responsável pelo
+inadimplemento voluntário e inescusável de obrigação alimentícia e a do
+depositário infiel.
+
+                             
+
+
+---
+
+Art. 226, § 3º Para efeito da proteção do Estado, é reconhecida a união estável
+entre o homem e a mulher como entidade familiar, devendo a lei facilitar sua
+conversão em casamento.
+
+Art. 57, § 4º Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de
+1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e
+eleição das respectivas Mesas, para mandato de 2 (dois) anos, vedada a
+recondução para o mesmo cargo na eleição imediatamente subsequente.
+
+                             
+
+
+---
+
+Poder Constituinte Supranacional
+
+                            
+
+
+---
+
+GRATA!
+                                          Profª.: Nelma Fontana
+
+     
+
+
+---

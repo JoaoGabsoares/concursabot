@@ -1,0 +1,392 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: ESTOCAGEM / ARMAZENAGEM - II
+---
+
+# ESTOCAGEM / ARMAZENAGEM - II
+
+---
+
+---
+
+ESTOCAGEM / ARMAZENAGEM - II
+
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Princípios de Estocagem
+       Técnicas de Armazenamento
+    ❑ A dimensão e as características de materiais e produtos podem exigir desde a instalação de uma
+      simples prateleira até complexos sistemas de armações, caixas e gavetas. Vamos conhecer as
+      técnicas de armazenamento mais utilizadas:
+
+                Carga Unitária (ou unitizada): esta já estudamos. É a mais cobrada em provas e você precisa memorizar. É a carga
+                constituída de embalagens de transporte que acondicionam quantidades variadas de material como se fossem
+                uma só unidade, facilitando seu manuseio, transporte e o próprio armazenamento. Em resumo é a técnica que
+                permite reunir inúmeros itens em uma única embalagem ou volume.
+                Caixas ou gavetas: técnica utilizada para materiais de pequenas dimensões, de escritório, em processamento,
+                semi acabados ou acabados. Os tamanhos das caixas e gavetas devem variar em função dos materiais que serão
+                armazenados.
+                Prateleiras: Servem para a armazenagem de materiais diversos ou mesmo para o apoio de caixas e gavetas. É o
+                meio de estocagem mais simples e econômico e também deve variar conforme a atividade e a natureza do
+                material estocado.
+                Racks: Devem acomodar peças longas e estreitas como tubos, barras, tiras, etc.
+                Empilhamento: Aproveita o espaço vertical. Caixas ou pallets (estrados que possibilitam o empilhamento das
+                cargas) são empilhados uns sobre os outros.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Princípios de Estocagem
+       Técnicas de Armazenamento
+     ❑ Em relação à fabricação, temos três classificações de estocagem que também são
+       importantes de conhecer:
+                  Estocagem de matéria prima - dependendo do material ele pode ser armazenado ao
+                  tempo (área externa) ou internamente (caso mais comum). A estocagem de matéria
+                  prima pode ainda ser centralizada        (facilita o planejamento e controle) ou
+                  descentralizada (junto ao ponto de utilização, inventários visuais e mais rápidos e
+                  menos atrasos ou enganos nas entregas).
+                  Estocagem intermediária - também pode ser centralizada ou descentralizada. Trata-se
+                  de estocar os materiais transformados ou processados que ainda entram em etapas
+                  seguintes da produção, antes de se tornarem materiais acabados.
+                  Estocagem de produtos acabados - visa atender o usuário, seja a entrega imediata
+                  ou encomenda sob pedido. No primeiro caso a armazenagem é próxima a área de
+                  expedição enquanto quando sob encomenda esse aspecto não é relevante.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Conservação de Materiais
+     ❑ Um dos maiores problemas dos almoxarifados é o da conservação, que é justamente
+       um de seus maiores objetivos.
+     ❑ Temperatura e umidade, por exemplo, caso não devidamente controladas, são
+       fatores que desencadeiam inúmeros problemas, mas não os únicos.
+     ❑ Em mais um exemplo, produtos metálicos (ou com componentes metálicos) se não
+       forem adequadamente protegidos são afetados pela corrosão durante as fases de
+       transporte e armazenamento, até mesmo antes de sua utilização. Estes danos podem
+       tornar o produto inadequado ao uso, causando indesejável prejuízo.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Conservação de Materiais
+     ❑ Tome nota de alguns eventos que podem originar transformações e/ou alterações
+       nos materiais, resultando em sua inutilização:
+
+        •     Combustão espontânea: produtos químicos que, por sua natureza, podem inflamar e
+              entrar em combustão.
+
+        •     Compressão ou achatamento: deformações causadas pelo mau armazenamento.
+
+        •     Decomposição: alteração de matérias ou matérias primas devido a fenômenos
+              específicos.
+        •     Empenamento: deformação das linhas originais do material.
+
+        •     Outros: evaporação, excesso de calor e luz, explosão, oxidação, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Mitigação dos riscos
+     ❑ Nesse contexto alguns procedimento próprios para a mitigação dos riscos devem ser
+       adotados, como:
+
+        •     inclusão de necessidades de proteção e embalagem nas especificações de compras.
+
+        •     inspeção da proteção/embalagem no recebimento.
+
+        •     adoção de critérios cuidadosos e específicos de armazenamento.
+        •     verificação das condições de proteção.
+
+        •     adoção de critérios para preservação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Símbolos Convencionais
+     ❑ Ainda nesta direção e, independentemente do critério ou seleção do método de armazenamento, é importante
+       conhecermos também as indicações contidas nas embalagens (símbolos convencionais) que indicam os cuidados a
+       serem seguidos ao longo das atividades de manuseio, transporte e armazenagem de acordo com a carga contida
+       e exatamente com o objetivo de conservá-las intactas e aptas para o uso e/ou emprego imediato no processo
+       produtivo ou de prestação de serviços:
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Critérios de Armazenagem
+     ❑ Em relação ao armazenamento dos materiais, importante conhecermos os principais critérios de
+       armazenagem.
+
+     ❑ De acordo com Viana (2010), a armazenagem pode ser simples ou complexa.
+     ✓ Armazenagem simples - materiais não necessitam de nenhum cuidado especial por parte do setor
+       de almoxarifado.
+
+     ✓ Armazenagem complexa - materiais apresentam fatores que exigem atenção especial dos
+       profissionais responsáveis pela atividade de almoxarifado. Ao longo da atividade de
+       armazenamento ou de movimentação esses materiais podem exigir equipamentos de segurança
+       específicos, estruturas de prevenção de incêndios ou outras providências especialmente voltadas
+       a eles.
+
+     ❑ Os principais fatores que podem levar o material a uma armazenagem complexa são: fragilidade,
+       combustibilidade, volatização, oxidação, explosividade, intoxicação, radiação, corrosão,
+       inflamabilidade e volumes, pesos ou formas particulares.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Critérios de Armazenagem
+     ❑ Identificada a necessidade da armazenagem complexa, deverá ser definido o critério de
+       guarda desses materiais. Os principais são os seguintes:
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CORE-PR/Fiscal Junior/2021) A armazenagem por acomodabilidade
+     possibilita um maior aproveitamento do espaço físico, mas demanda maior
+     controle por parte do gestor de almoxarifado.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CORE-PR/Fiscal Junior/2021) A armazenagem por acomodabilidade
+     possibilita um maior aproveitamento do espaço físico, mas demanda maior
+     controle por parte do gestor de almoxarifado.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Localização de Materiais
+     ❑ Normalmente são usados dois critérios de localização de materiais:
+     ✓ Sistema de Estocagem Fixo: um número de áreas específicas é previamente
+       determinado e reservado para um tipo de material, admitindo-se apenas este
+       material no local designado. É um sistema que não permite o melhor aproveitamento
+       da área destinada à armazenagem, visto que não há hipótese do aproveitamento de
+       espaços disponíveis por materiais que não fazem parte do rol previsto para aquele
+       local.
+     ✓ Sistema de Estocagem Livre: não há local fixo de armazenagem, a não ser para
+       materiais de estocagem especial. Todos os materiais podem ocupar qualquer lugar
+       disponível, maximizando a utilização do espaço. Como inconveniente, é necessário
+       um rígido e eficiente sistema de controle com o objetivo de propiciar a rápida
+       localização do material buscado.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Picking
+     ❑ O Picking é exatamente o processo de recolhimento do material no almoxarifado
+       sempre que o mesmo material é requerido por um cliente, seja ele interno ou
+       externo.
+     ❑ O picking geralmente é planejado levando-se em conta o número de pessoas
+       envolvidas, o número de itens manipulados de uma só vez e o processo de separação
+       de pedidos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Princípios de Estocagem
+       Picking – principais tipos
+     ❑ Os principais tipos de picking, que você deve levar para a prova são os seguintes:
+
+                Picking Discreto: um único operador inicia e finaliza o processo e apenas um único produto é coletado por
+                vez. Baixo índice de erro e baixa complexidade. Baixa produtividade em função do deslocamento do
+                operador.
+
+                Picking por Zona: a área de armazenagem é dividida em zonas e cada operador é responsável por
+                determinada zona. Nesse cenário cada operador coleta os itens da "sua zona" e remete a outra área para
+                consolidação. Geralmente mais de um operador está envolvido no processo. Reduz o deslocamento dos
+                operadores.
+
+                Picking por Lote: pedidos são acumulados e juntam-se às quantidades totais de cada produto. A partir daí o
+                operador vai até a área de estocagem para coletar a soma dos pedidos (mais de um produto por vez).
+                Aumenta a produtividade no deslocamento do operador. Aumenta o risco de erro pela sua complexidade.
+
+                Picking por Onda: semelhante ao modelo Discreto. Cada operador é responsável pelo picking de um tipo
+                de produto por vez. Pode também ser combinado com os modelos de separação por zona e por lote.
+                Trabalha com um número diferenciado de agendamentos de pedidos por turno.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) A armazenagem é o subprocedimento
+     mais longo e envolve a guarda dos materiais, a preservação, a separação, a
+     liberação para a entrega e a venda de inservíveis.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) A armazenagem é o subprocedimento
+     mais longo e envolve a guarda dos materiais, a preservação, a separação, a
+     liberação para a entrega e a venda de inservíveis.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Os estrados para acondicionamento de cargas são chamados
+     de
+     a) embalagens.
+     b) roletes.
+     c) esteiras.
+     d) paletes.
+     e) pórticos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Os estrados para acondicionamento de cargas são chamados
+     de
+     a) embalagens.
+     b) roletes.
+     c) esteiras.
+     d) paletes.
+     e) pórticos.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Arujá-SP/Almoxarife/2015) O armazenamento tipo drive-thru permite rotatividade
+     a) FIFO, porém diminui a área de estocagem.
+     b) LIFO, aumentando a área de estocagem.
+     c) FIFO, sem alteração da área de estocagem.
+     d) LIFO, sem alteração da área de estocagem.
+     e) FIFO, porém aumenta a área de estocagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Arujá-SP/Almoxarife/2015) O armazenamento tipo drive-thru permite rotatividade
+     a) FIFO, porém diminui a área de estocagem.
+     b) LIFO, aumentando a área de estocagem.
+     c) FIFO, sem alteração da área de estocagem.
+     d) LIFO, sem alteração da área de estocagem.
+     e) FIFO, porém aumenta a área de estocagem.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

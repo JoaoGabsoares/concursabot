@@ -1,0 +1,502 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 08_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 08
+titulo_aula: Língua Espanhola
+---
+
+# Língua Espanhola
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+                                      FGV
+
+                                                               Prof. Adolfo Sá (vídeos)
+
+                                                                       @adolfo.sa.
+                                                                       9
+                                                               Prof. Ena Smith (pdfs)
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+There are still many unknowns with respect to how blockchain will
+impact the audit and assurance profession, including the speed with
+which it will do so. Blockchain is already impacting Certified Public
+Accountant (CPA) auditors of those organizations using blockchain to
+record transactions and the rate of adoption is expected to continue to
+increase. However, in the immediate future, blockchain technology will
+not replace financial reporting and financial statement auditing.
+Financial statements reflect management assertions, including
+estimates, many of which cannot be easily summarized or calculated in
+a blockchain.
+Furthermore, the process of an independent audit of financial
+statements enhances the trust that is crucial for the effective
+functioning of the capital markets system. Any erosion of this trust may
+damage an entity’s reputation, stock price and shareholder value, and
+can result in fines, penalties, or loss of assets. Users of financial
+statements expect CPA auditors to perform an independent audit of the
+financial statements using their professional skepticism. CPA auditors
+conclude whether they have           obtained reasonable assurance that the
+                            
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+That said, CPA auditors need to monitor developments in blockchain
+technology—it will impact clients’ information technology systems. CPA
+auditors will need to be conversant with the basics of blockchain
+technology and work with experts to audit the complex technical risks
+associated with blockchain.
+
+
+In addition, CPA auditors should be aware of opportunities to leverage
+their clients' adoption of blockchain technology to improve data
+gathering during the audit. They should also consider whether
+blockchain technology will allow them to create automated audit
+routines. The auditing profession must embrace and "lean in" to the
+opportunities and challenges from widespread blockchain adoption.
+CPA auditors and assurance providers are encouraged to monitor
+developments in blockchain technology because they have an
+opportunity to evolve, learn, and capitalize on their already proven
+ability to adapt to the needs of a rapidly changing business world.
+(Adapted                        from
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+18. Based on the text, mark the statements below as True (T) or False
+(F).
+ ( ) The effects of blockchain technology in auditing nowadays are quite
+clear.
+( ) It will be necessary for CPA auditors to acquaint themselves with the
+fundamentals of blockchain and to team up with specialists to gauge
+technical hazards.
+( ) The interest in blockchain technology is already dwindling.
+ The statements are, respectively
+ (A) F – T – F.
+(B) T– F – T.
+(C) F – F – T.
+(D) F – T – T.
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+18. Based on the text, mark the statements below as True (T) or
+False (F).
+(F) The effects of blockchain technology in auditing nowadays
+are quite clear. –
+(F) Os efeitos da tecnologia blockchain na auditoria hoje em dia
+são bastante claros.
+
+There are still many unknowns with respect to how blockchain
+will impact the audit and assurance profession, including the
+speed with which it will do so.
+
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+18. Based on the text, mark the statements below as True (T) or
+False (F).
+(V) It will be necessary for CPA auditors to acquaint themselves
+with the fundamentals of blockchain and to team up with
+specialists to gauge technical hazards. –
+(V) Será necessário que os auditores CPA se familiarizem com
+os fundamentos do blockchain e se unam a especialistas para
+avaliar os riscos técnicos.
+
+
+That said, CPA auditors need to monitor developments in
+blockchain technology—it will impact clients’ information
+technology systems. CPA auditors will need to be conversant
+with the basics of blockchain technology and work with experts
+to audit the complex technical risks associated with blockchain.
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+18. Based on the text, mark the statements below as True (T) or False (F).
+(F) The interest in blockchain technology is already dwindling. –
+(F) O interesse pela tecnologia blockchain já está diminuindo.
+There are still many unknowns with respect to how blockchain will impact the
+audit and assurance profession, including the speed with which it will do so.
+Blockchain is already impacting Certified Public Accountant (CPA) auditors of
+those organizations using blockchain to record transactions and the rate of
+adoption is expected to continue to increase.
+[…]
+In addition, CPA auditors should be aware of opportunities to leverage their
+clients' adoption of blockchain technology to improve data gathering during the
+audit. They should also consider whether blockchain technology will allow them
+to create automated audit routines. The auditing profession must embrace and
+"lean in" to the opportunities and challenges from widespread blockchain
+adoption. CPA auditors and assurance providers are encouraged to monitor
+developments in blockchain technology because they have an opportunity to
+evolve, learn, and capitalize on their already proven ability to adapt to the needs
+                               
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+18. Based on the text, mark the statements below as True (T) or False
+(F).
+ ( ) The effects of blockchain technology in auditing nowadays are quite
+clear.
+( ) It will be necessary for CPA auditors to acquaint themselves with the
+fundamentals of blockchain and to team up with specialists to gauge
+technical hazards.
+( ) The interest in blockchain technology is already dwindling.
+ The statements are, respectively
+ (A) F – T – F.
+(B) T– F – T.
+(C) F – F – T.
+(D) F – T – T.
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+19. As regards the author’s opinion, analyse the assertions below.
+ I. Auditors should try to keep abreast of the latest developments in
+technology.
+II. CPA auditors’ skepticism is an asset to the profession.
+III. Those involved in auditing seems to be rather refractory to change.
+ (A) Only I is correct.
+(B) Only III is correct.
+(C) Only both I and II are correct.
+(D) Only both I and III are correct.
+(E) All three assertions are correct.
+
+                            
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+19. As regards the author’s opinion, analyse the assertions
+below.
+I. Auditors should try to keep abreast of the latest developments
+in technology.
+I. Os auditores deveriam tentar se manter informados sobre os
+   últimos desenvolvimentos em tecnologia.
+
+
+That said, CPA auditors need to monitor developments in
+blockchain technology—it will impact clients’ information
+technology systems. CPA auditors will need to be conversant
+with the basics of blockchain technology and work with experts
+to audit the complex technical risks associated with blockchain.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+19. As regards the author’s opinion, analyse the assertions
+below.
+II. CPA auditors’ skepticism is an asset to the profession.
+II. O ceticismo dos auditores CPA é um trunfo para a profissão.
+
+
+Furthermore, the process of an independent audit of financial
+statements enhances the trust that is crucial for the effective
+functioning of the capital markets system. Any erosion of this
+trust may damage an entity’s reputation, stock price and
+shareholder value, and can result in fines, penalties, or loss of
+assets. Users of financial statements expect CPA auditors to
+perform an independent audit of the financial statements using
+their professional skepticism. CPA auditors conclude whether
+they have obtained reasonable assurance that the financial
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+19. As regards the author’s opinion, analyse the assertions below.
+III. Those involved in auditing seems to be rather refractory to change.
+III. Os envolvidos na auditoria parecem ser bastante refratários à
+mudança.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+19. As regards the author’s opinion, analyse the assertions below.
+ I. Auditors should try to keep abreast of the latest developments in
+technology.
+II. CPA auditors’ skepticism is an asset to the profession.
+III. Those involved in auditing seems to be rather refractory to change.
+ (A) Only I is correct.
+(B) Only III is correct.
+(C) Only both I and II are correct.
+(D) Only both I and III are correct.
+(E) All three assertions are correct.
+
+                            
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+20. The word “unlikely” in “A blockchain is unlikely to replace
+these judgments” (2nd paragraph) implies
+
+
+(A) deceitfulness.
+(B) improbability.
+(C) anticipation.
+(D) preference.
+(E) dislike.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+20. The word “unlikely” in “A blockchain is unlikely to replace
+these judgments” (2nd paragraph) implies
+
+
+(A) deceitfulness.
+(B) improbability.
+(C) anticipation.
+(D) preference.
+(E) dislike.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+21. “Furthermore” in “Furthermore, the process of an
+independent audit of financial statements enhances the trust”
+(2nd paragraph) can be replaced without change of meaning by
+
+
+(A) Hence.
+(B) However.
+(C) Therefore.
+(D) Moreover.
+(E) Conversely.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+21. “Furthermore” in “Furthermore, the process of an
+independent audit of financial statements enhances the trust”
+(2nd paragraph) can be replaced without change of meaning by
+
+
+(A) Hence.
+(B) However.
+(C) Therefore.
+(D) Moreover.
+(E) Conversely.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+22. The first sentence of the last paragraph offers a (n)
+
+
+(A) abridgement.
+(B) suggestion.
+(C) complaint.
+(D) objection.
+(E) grievance.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+22. The first sentence of the last paragraph offers a (n)
+
+
+(A) abridgement.
+(B) suggestion.
+(C) complaint.
+(D) objection.
+(E) grievance.
+
+
+In addition, CPA auditors should be aware of
+opportunities to leverage their clients' adoption of
+blockchain technology to improve data gathering
+during the audit.   
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+22. The first sentence of the last paragraph offers a (n)
+
+
+(A) abridgement.
+(B) suggestion.
+(C) complaint.
+(D) objection.
+(E) grievance.
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+23. When the author argues that “the process of an
+independent audit of financial statements enhances the trust
+that is crucial for the effective functioning of the capital markets
+system” (2nd paragraph), he implies this trust is
+
+
+(A) curtailed.
+(B) breached.
+(C) betrayed.
+(D) relinquished.
+(E) strengthened.
+
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+23. When the author argues that “the process of an
+independent audit of financial statements enhances the trust
+that is crucial for the effective functioning of the capital markets
+system” (2nd paragraph), he implies this trust is
+
+
+(A) curtailed.
+(B) breached.
+(C) betrayed.
+(D) relinquished.
+(E) strengthened.
+
+
+                           
+
+
+---
+
+Auditor Fiscal da Receita Estadual – Tecnologia da Informação –
+SEFAZ-MG – FGV - 2023
+23. When the author argues that “the process of an
+independent audit of financial statements enhances the trust
+that is crucial for the effective functioning of the capital markets
+system” (2nd paragraph), he implies this trust is
+
+
+(A) curtailed.
+(B) breached.
+(C) betrayed.
+(D) relinquished.
+(E) strengthened.
+
+
+                           
+
+
+---
+
+                                     @adolfo.sa.
+                                     9
+
+---

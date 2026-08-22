@@ -1,0 +1,218 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 13_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: QUESTÕES ESTRATÉGICAS
+artigos_citados:
+- Art. 116
+- Art. 325
+- Art. 325.
+- Art. 448
+- Art. 448.
+- art. 116
+- 'artigo
+
+  116'
+- artigo 146
+---
+
+# QUESTÕES ESTRATÉGICAS
+
+QUESTÕES ESTRATÉGICAS
+
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto. A ideia, aqui, não
+é que você fixe o conteúdo por meio de uma bateria extensa de questões, mas que você faça uma
+boa revisão global do assunto a partir de, relativamente, poucas questões.
+
+Como não há muitas questões recentes e relevantes da FGV sobre o assunto, complementamos
+com bancas similares e questões inéditas pertinentes:
+
+1. (Inédita) O ganho proveniente de compra vantajosa será computado na determinação do Lucro
+Real no período de apuração a que se refere a aquisição do investimento, conforme o regime de
+competência.
+
+Comentários:
+
+ERRADA.
+O ganho decorrente de compra vantajosa não é tributado no momento da aquisição do
+investimento. A tributação ocorre apenas no período de apuração da alienação ou da baixa do
+investimento, quando efetivamente realizado o ganho.
+
+Gabarito: ERRADA.
+
+2. (Inédita) A parcela do ajuste do valor do investimento em controlada, direta ou indireta,
+domiciliada no exterior equivalente aos lucros por ela auferidos antes do imposto sobre a renda,
+excetuando a variação cambial, deverá ser computada na determinação do lucro real.
+
+Comentários:
+
+CERTA.
+A legislação determina que os lucros auferidos por controladas no exterior integrem a apuração
+
+
+---
+
+do lucro real da controladora domiciliada no Brasil, antes do imposto sobre a renda e excluída a
+variação cambial.
+
+Art. 448, caput, RIR/2018:
+
+Art. 448. Os lucros auferidos por controlada, direta ou indireta, domiciliada no exterior, antes do
+imposto sobre a renda, excetuada a variação cambial, serão computados na determinação do
+lucro real da pessoa jurídica controladora domiciliada no País.
+
+Gabarito: CERTA.
+
+3. (Inédita) Os bens do ativo permanente imobilizado, exceto a terra nua, adquiridos por pessoa
+jurídica que explore a atividade rural, para uso nessa atividade, poderão ser depreciados
+integralmente no próprio ano de aquisição.
+
+Comentários:
+
+CERTA.
+A legislação do imposto de renda permite tratamento favorecido à atividade rural, autorizando a
+depreciação integral no próprio ano de aquisição dos bens do ativo imobilizado utilizados nessa
+atividade, excetuada a terra nua.
+
+Art. 325, RIR/2018:
+
+Art. 325. Os bens do ativo imobilizado, exceto a terra nua, adquiridos por pessoa jurídica que
+explore a atividade rural, para uso nessa atividade, poderão ser depreciados integralmente no
+próprio ano de aquisição.
+
+Gabarito: CERTA.
+
+4. (Inédita) Em relação à tributação dos lucros auferidos no exterior, à opção da pessoa jurídica, o
+imposto sobre a renda devido decorrente do resultado considerado na apuração da pessoa jurídica
+domiciliada no Brasil poderá ser pago na proporção dos lucros distribuídos nos anos subsequentes
+ao encerramento do período de apuração a que corresponder, observada, além de outros
+requisitos, a distribuição mínima de 12,5% no primeiro ano subsequente ao período de apuração.
+
+Comentários:
+
+                                                                                                  2
+
+
+---
+
+CERTA.
+A legislação autoriza, mediante opção, o pagamento proporcional do imposto de renda e da CSLL
+conforme a efetiva distribuição dos lucros nos anos subsequentes, desde que observada a
+distribuição mínima anual e a obrigatoriedade de distribuição do saldo remanescente até o oitavo
+ano subsequente ao período de apuração.
+
+Gabarito: CERTA.
+
+5. (FGV/2009/Fiscal de Rendas ICMS RJ) A Lei Complementar desempenha papel de grande
+relevância em matéria tributária. Conforme se infere do artigo 146 da CF, cabe à lei complementar
+regulamentar a denominada cláusula geral antielisiva inserida no CTN (parágrafo único do artigo
+116).
+
+Comentários:
+
+ERRADA.
+O parágrafo único do art. 116 do CTN delega à lei ordinária, e não à lei complementar, a
+regulamentação da cláusula geral antielisiva.
+
+Art. 116, parágrafo único, CTN:
+
+Parágrafo único. A autoridade administrativa poderá desconsiderar atos ou negócios jurídicos
+praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo ou a natureza
+dos elementos constitutivos da obrigação tributária, observados os procedimentos a serem
+estabelecidos em lei ordinária.
+
+Gabarito: ERRADA.
+
+6. (IPAD/2008/Fiscal de Tributos Município de Barreiros PE) Tem-se a elisão fiscal quando o
+contribuinte utiliza-se de meios ilícitos para fugir da tributação.
+
+Comentários:
+
+ERRADA.
+A elisão fiscal caracteriza-se pela utilização de meios lícitos para reduzir ou evitar a incidência
+tributária. O uso de meios ilícitos configura evasão fiscal.
+
+Gabarito: ERRADA.
+
+                                                                                                 3
+
+
+---
+
+7. (ESAF/2014/AFRFB) A dedução dos custos e encargos relativos a bens importados de pessoa
+jurídica domiciliada no exterior para fins de determinação do lucro real está limitada a montante
+que não exceda o preço determinado pela aplicação de um dos métodos previstos em lei para
+determinação dos preços de transferência, sob pena de o excedente ser adicionado ao lucro
+líquido, para determinação do lucro real da pessoa jurídica domiciliada no Brasil.
+
+Comentários:
+
+ERRADA.
+As regras de preços de transferência não se aplicam indistintamente a todas as importações. Elas
+incidem apenas nas operações com partes vinculadas ou quando o fornecedor estiver domiciliado
+em país com tributação favorecida ou regime fiscal privilegiado.
+
+Gabarito: ERRADA.
+
+8. (ESAF/2012/AFRFB – Adaptada) A pessoa jurídica que tiver parte ou todo o seu patrimônio
+absorvido em virtude de incorporação, fusão ou cisão deverá levantar balanço específico para esse
+fim.
+
+Comentários:
+
+CERTA.
+A legislação exige a elaboração de balanço específico na data do evento societário ou, no máximo,
+até trinta dias antes, para fins de apuração dos resultados e efeitos tributários.
+
+Gabarito: CERTA.
+
+9. (ESAF/2012/AFRFB) As sociedades coligadas e controladas, com sede no exterior, que tenham
+as respectivas pessoas jurídicas controladoras residentes ou domiciliadas no Brasil, não são sujeitos
+passivos do Imposto de Renda sobre Pessoas Jurídicas (IRPJ).
+
+Comentários:
+
+CERTA.
+As sociedades com sede no exterior não são sujeitas passivas do IRPJ brasileiro. O sujeito passivo
+é a pessoa jurídica domiciliada no Brasil que detenha a participação societária.
+
+Gabarito: CERTA.
+
+                                                                                                   4
+
+
+---
+
+10. (ESAF/2012/AFRFB) As disposições legais relativas aos Preços de Transferência se aplicam,
+também, às operações realizadas entre pessoas jurídicas ou físicas domiciliadas no Brasil e pessoas
+jurídicas ou físicas residentes ou domiciliadas em país que não tribute a renda ou que a tribute
+abaixo de percentual legalmente previsto pela lei brasileira ou cuja lei não permita acesso a
+informações relativas à composição societária, titularidade de bens ou direitos ou às operações
+econômicas realizadas, casos para os quais a aplicação das regras de preços de transferência
+prescinde da existência de vínculo entre as partes contratantes.
+
+Comentários:
+
+CERTA.
+A legislação de preços de transferência aplica-se às operações com países ou dependências com
+tributação favorecida ou regime fiscal privilegiado, independentemente da existência de vínculo
+entre as partes.
+
+Gabarito: CERTA.
+
+                                                                                                 5
+
+
+---

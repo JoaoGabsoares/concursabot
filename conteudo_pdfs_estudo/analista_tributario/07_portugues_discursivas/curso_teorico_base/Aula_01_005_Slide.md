@@ -1,0 +1,1765 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 01_005_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: NOMES COMPOSTOS
+---
+
+# NOMES COMPOSTOS
+
+NOMES COMPOSTOS
+                                         Profª. Adriana Figueiredo
+
+    
+
+
+---
+
+            Emprega-se o hífen nos compostos representados por         Ex.: decreto-lei, primeiro-ministro, alto-
+                - substantivos, adjetivos, numerais e verbos;           relevo, porta-aviões, tico-tico, grão-
+                       - elementos repetidos; reduções;                 mestre, belo-horizontino, erva-doce,
+              - gentílicos derivados de topônimos compostos;                 couve-flor, bem-me-quer...
+                       - espécies botânicas, zoológicas.
+
+
+                            OBSERVAÇÕES                                 Ex.: girassol, madressilva, pontapé,
+             Compostos que perderam a noção de composição:                   paraquedas, paraquedista,
+                      escreve-se junto, sem hífen.                                 mandachuva.
+  HÍFEN
+ Nomes
+                                                                        Ex.: café com leite, sala de jantar, pé
+Compostos                                                                de chinelo, disse me disse, bumba
+                                                                         meu boi, dia a dia, comum de dois,
+                                                                                   ponto e vírgula...
+                              OBSERVAÇÕES
+            Em geral, nas locuções de qualquer tipo não se usa o
+            hífen, exceto em alguns casos que o uso já legitimou.
+                                                                        Mas (consagrados pelo uso): água-
+                                                                         de-colônia, cor-de-rosa, à queima-
+                                                                       roupa, pé-de-meia, dois-pontos, mais-
+                                                                                   que-perfeito...
+
+                                            Prof. Adriana Figueiredo
+
+                                  
+
+
+---
+
+Mantra:
+
+
+                     IGUAIS SE REPELEM, DIFERENTES SE ATRAEM.
+
+Profª Adriana Figueiredo
+
+                                    
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+II) Marque a forma correta.
+ a) decreto lei / decreto-lei
+
+ b) norte-americano / norte americano / norteamericano
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+II) Marque a forma correta.
+ c) dia a dia / dia-a-dia
+
+ d) cor-de-rosa / cor de rosa
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+II) Marque a forma correta.
+ e) manda-chuva / mandachuva
+
+ f) afrobrasileiro / afro-brasileiro
+
+Profª Adriana Figueiredo
+
+                                       
+
+
+---
+
+II) Marque a forma correta.
+ g) afro-descendente / afrodescendente
+
+ h) porta retrato / porta-retrato / portarretrato
+
+Profª Adriana Figueiredo
+
+                                  
+
+
+---
+
+II) Marque a forma correta.
+ i) microorganismo / micro-organismo
+
+ j) mão-de-obra / mão de obra
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+QUESTÕES DE CONCURSO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+SELECON
+                                     Profª. Adriana Figueiredo
+
+---
+
+SELECON     2024     Prefeitura de Campo Novo do Parecis - MT -
+Professor de Inglês
+De acordo com a ortografia padrão vigente, a palavra VIDEOCONFERÊNCIA é
+grafada sem hífen. Também é grafada sem hífen a palavra:
+
+ A) teleeducação
+
+ B) audiodescrição
+
+ C) eletrohidráulico
+
+ D) aerohidroterapia
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+SELECON     2024     Prefeitura de Campo Novo do Parecis - MT -
+Professor de Inglês
+De acordo com a ortografia padrão vigente, a palavra VIDEOCONFERÊNCIA é
+grafada sem hífen. Também é grafada sem hífen a palavra:
+
+ A) teleeducação
+
+ B) audiodescrição
+
+ C) eletrohidráulico
+
+ D) aerohidroterapia
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+SELECON 2024 CEFET-RJ - Administrador
+ A palavra LATINO-AMERICANO é um adjetivo composto, formado por duas partes
+ ligadas por hífen. De acordo com a ortografia oficial, também é ligada por hífen a
+ palavra:
+ A) afro-descendente
+
+ B) micro-bactéria
+
+ C) afro-brasileiro
+
+ D) micro-análise
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+SELECON 2024 CEFET-RJ - Administrador
+ A palavra LATINO-AMERICANO é um adjetivo composto, formado por duas partes
+ ligadas por hífen. De acordo com a ortografia oficial, também é ligada por hífen a
+ palavra:
+ A) afro-descendente
+
+ B) micro-bactéria
+
+ C) afro-brasileiro
+
+ D) micro-análise
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+SELECON 2024 Câmara de Rondonópolis - MT - Analista Legislativo -
+Redação e Revisão Legislativa
+      ainda temos uma longa caminhada para aprimorar os textos que circulam
+nas organizações, especialmente as mensagens rotineiras, que constroem ou
+corroem, dia a dia, a confiança e o engajamento nas             . No texto, a
+expressão     a     foi grafada sem hífen. Isso ocorreu porque:
+ A) as grafias             a   e   -a-        são opcionais
+
+ B) nunca se emprega hífen nas palavras integradas por artigo definido feminino
+
+ C) houve um erro de revisão no texto, considerando que a grafia correta é dia-a-dia
+
+ D) essa é a grafia correta após o Novo Acordo Ortográfico da Língua Portuguesa
+Profª Adriana Figueiredo
+
+                                     
+
+
+---
+
+SELECON 2024 Câmara de Rondonópolis - MT - Analista Legislativo -
+Redação e Revisão Legislativa
+      ainda temos uma longa caminhada para aprimorar os textos que circulam
+nas organizações, especialmente as mensagens rotineiras, que constroem ou
+corroem, dia a dia, a confiança e o engajamento nas             . No texto, a
+expressão     a     foi grafada sem hífen. Isso ocorreu porque:
+ A) as grafias             a   e   -a-        são opcionais
+
+ B) nunca se emprega hífen nas palavras integradas por artigo definido feminino
+
+ C) houve um erro de revisão no texto, considerando que a grafia correta é dia-a-dia
+
+ D) essa é a grafia correta após o Novo Acordo Ortográfico da Língua Portuguesa
+Profª Adriana Figueiredo
+
+                                     
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+SELECON       Prefeitura de Primavera do Leste - MT - Agente
+Administrativo
+No texto, a palavra              foi grafada sem hífen, pois:
+
+ A) nesses casos, é opcional o uso de hífen
+
+ B) o texto ainda está seguindo regras antigas de ortografia
+
+ C) essa é a nova grafia, segundo o Novo Acordo Ortográfico
+
+ D) houve erro de revisão do texto, considerando que o correto é infanto-juvenil
+
+
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+SELECON       Prefeitura de Primavera do Leste - MT - Agente
+Administrativo
+No texto, a palavra              foi grafada sem hífen, pois:
+
+ A) nesses casos, é opcional o uso de hífen
+
+ B) o texto ainda está seguindo regras antigas de ortografia
+
+ C) essa é a nova grafia, segundo o Novo Acordo Ortográfico
+
+ D) houve erro de revisão do texto, considerando que o correto é infanto-juvenil
+
+
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Prefeitura de Além Paraíba - MG -
+Auxiliar de Serviços Gerais
+ A palavra      -           (13º§) é grafada com hífen, assim como:
+
+ A) Dia-a-dia.
+
+ B) Pão-duro.
+
+ C) Cara-de-pau.
+
+ D) Fim-de-semana.
+
+
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Prefeitura de Além Paraíba - MG -
+Auxiliar de Serviços Gerais
+ A palavra      -           (13º§) é grafada com hífen, assim como:
+
+ A) Dia-a-dia.
+
+ B) Pão-duro.
+
+ C) Cara-de-pau.
+
+ D) Fim-de-semana.
+
+
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN         2025 Prefeitura de Carangola - MG -
+Auxiliar de Consultório Dentário
+ Assim como a palavra       -     em          é aquilo que a gente deixa ocupar
+ todos os nossos espaços, enquanto for bem-vindo, [... (4º§), está grafada
+ corretamente com o emprego do hífen a seguinte palavra:
+ A) Arco-íris.
+
+ B) Pão-de-ló.
+
+ C) Mão-de-obra.
+
+ D) Pé-de-moleque.
+
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+INSTITUTO CONSULPLAN         2025 Prefeitura de Carangola - MG -
+Auxiliar de Consultório Dentário
+ Assim como a palavra       -     em          é aquilo que a gente deixa ocupar
+ todos os nossos espaços, enquanto for bem-vindo, [... (4º§), está grafada
+ corretamente com o emprego do hífen a seguinte palavra:
+ A) Arco-íris.
+
+ B) Pão-de-ló.
+
+ C) Mão-de-obra.
+
+ D) Pé-de-moleque.
+
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN              2024      Prefeitura de Cacoal - RO -
+Borracheiro
+ No trecho         existe amor minúsculo, principalmente quando se trata de amor-
+ próprio. (3º§), encontramos uma palavra que é grafada utilizando o hífen.
+ Assinale, a seguir, a alternativa correta que possui essa pontuação.
+ A) Dia-a-dia.
+
+ B) Bem-estar.
+
+ C) Lua-de-mel.
+
+ D) Mão-de-obra.
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+INSTITUTO CONSULPLAN              2024      Prefeitura de Cacoal - RO -
+Borracheiro
+ No trecho         existe amor minúsculo, principalmente quando se trata de amor-
+ próprio. (3º§), encontramos uma palavra que é grafada utilizando o hífen.
+ Assinale, a seguir, a alternativa correta que possui essa pontuação.
+ A) Dia-a-dia.
+
+ B) Bem-estar.
+
+ C) Lua-de-mel.
+
+ D) Mão-de-obra.
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Prefeitura de Nova Iguaçu - RJ -
+Auxiliar de Serviços de Secretaria III
+ No trecho         que você pintou o apartamento, ganhou um porta-retratos [...
+ (3º§), temos o emprego do hífen unindo os termos. Assinale, a seguir, a palavra
+ que está corretamente grafada com este sinal gráfico.
+ A) má-fé.
+
+ B) dia-a-dia.
+
+ C) mão-de-obra.
+
+ D) passo-a-passo.
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Prefeitura de Nova Iguaçu - RJ -
+Auxiliar de Serviços de Secretaria III
+ No trecho         que você pintou o apartamento, ganhou um porta-retratos [...
+ (3º§), temos o emprego do hífen unindo os termos. Assinale, a seguir, a palavra
+ que está corretamente grafada com este sinal gráfico.
+ A) má-fé.
+
+ B) dia-a-dia.
+
+ C) mão-de-obra.
+
+ D) passo-a-passo.
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+CESGRANRIO 2024 - CNU - Bloco 8 - Nível Intermediário - manhã
+No trecho do parágrafo 4       fenômenos sociais recentes, como o movimento
+antivacinas a palavra destacada em negrito é formada pelo prefixo anti e o
+substantivo         sem emprego do hífen, segundo o Novo Acordo Ortográfico.
+
+ De acordo com as regras de emprego do hífen, esse sinal gráfico foi utilizado
+ corretamente, em todas as palavras, de acordo com a norma-padrão da língua
+ portuguesa, em:
+
+
+ A) anti-concepcional, contra-ataque, pré-escolar
+
+ B) anti-inflamatório, auto-hipnose, micro-ondas
+
+ C) anti-social, semi-aberto, sem-terra
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+CESGRANRIO 2024 - CNU - Bloco 8 - Nível Intermediário - manhã
+No trecho do parágrafo 4       fenômenos sociais recentes, como o movimento
+antivacinas a palavra destacada em negrito é formada pelo prefixo anti e o
+substantivo         sem emprego do hífen, segundo o Novo Acordo Ortográfico.
+
+ De acordo com as regras de emprego do hífen, esse sinal gráfico foi utilizado
+ corretamente, em todas as palavras, de acordo com a norma-padrão da língua
+ portuguesa, em:
+
+
+ D) extra-oficial, auto-conhecimento, anti-caspa
+
+ E) pré-história, inter-racial, anti-depressivo
+
+Profª Adriana Figueiredo
+
+                                   
+
+
+---
+
+CESGRANRIO 2024 - CNU - Bloco 8 - Nível Intermediário - manhã
+No trecho do parágrafo 4       fenômenos sociais recentes, como o movimento
+antivacinas a palavra destacada em negrito é formada pelo prefixo anti e o
+substantivo         sem emprego do hífen, segundo o Novo Acordo Ortográfico.
+
+ De acordo com as regras de emprego do hífen, esse sinal gráfico foi utilizado
+ corretamente, em todas as palavras, de acordo com a norma-padrão da língua
+ portuguesa, em:
+
+
+ A) anti-concepcional, contra-ataque, pré-escolar
+
+ B) anti-inflamatório, auto-hipnose, micro-ondas
+
+ C) anti-social, semi-aberto, sem-terra
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO Banco do Brasil - Escriturário - Agente Comercial - Prova A
+ O grupo de palavras que atende às exigências relativas ao emprego ou não do
+ hífen, segundo o Vocabulário Ortográfico da Língua Portuguesa, é
+ A) extra-escolar / médico-cirurgião
+
+ B) bem-educado / vagalume
+
+ C) portarretratos / dia a dia
+
+ D) arco-íris / contra-regra
+
+ E) subutilizar / sub-reitor
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+CESGRANRIO Banco do Brasil - Escriturário - Agente Comercial - Prova A
+ O grupo de palavras que atende às exigências relativas ao emprego ou não do
+ hífen, segundo o Vocabulário Ortográfico da Língua Portuguesa, é
+ A) extra-escolar / médico-cirurgião
+
+ B) bem-educado / vagalume
+
+ C) portarretratos / dia a dia
+
+ D) arco-íris / contra-regra
+
+ E) subutilizar / sub-reitor
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO Petrobras - Geofísico Júnior - Geologia
+No Texto I, o termo destacado em      últimas décadas, os advogados do livre-
+comércio pareciam em vantagem (L 8-9) apresenta hífen de acordo com as regras
+ortográficas da Língua Portuguesa.
+
+ É necessário o emprego do hífen ao combinarmos os seguintes elementos:
+
+ A) aero + espacial
+ B) auto + defesa
+ C) extra + conjugal
+ D) lugar + comum
+ E) micro + cirurgia
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+CESGRANRIO Petrobras - Geofísico Júnior - Geologia
+No Texto I, o termo destacado em      últimas décadas, os advogados do livre-
+comércio pareciam em vantagem (L 8-9) apresenta hífen de acordo com as regras
+ortográficas da Língua Portuguesa.
+
+ É necessário o emprego do hífen ao combinarmos os seguintes elementos:
+
+ A) aero + espacial
+ B) auto + defesa
+ C) extra + conjugal
+ D) lugar + comum
+ E) micro + cirurgia
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO UNIRIO - Assistente em Administração
+Assim como ocorre com a palavra quebra-mar . 5 do Texto III), emprega-se
+obrigatoriamente o hífen, de acordo com o sistema ortográfico vigente, em
+A) casa-comercial
+
+ B) linha-de-passe
+
+ C) peixe-espada
+
+ D) pedra-fundamental
+
+ E) sala-de-jantar
+Profª Adriana Figueiredo
+
+                            
+
+
+---
+
+CESGRANRIO UNIRIO - Assistente em Administração
+Assim como ocorre com a palavra quebra-mar . 5 do Texto III), emprega-se
+obrigatoriamente o hífen, de acordo com o sistema ortográfico vigente, em
+A) casa-comercial
+
+ B) linha-de-passe
+
+ C) peixe-espada
+
+ D) pedra-fundamental
+
+ E) sala-de-jantar
+Profª Adriana Figueiredo
+
+                            
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO Petrobras - Técnico de Enfermagem do Trabalho Júnior
+No trecho      é possível através de aerogeradores, geradores elétricos associados
+ao eixo de cata-ventos     . 38-40), a palavra destacada apresenta hífen porque o
+primeiro elemento é uma forma verbal.
+
+ O grupo em que todas as palavras apresentam hífen pelo mesmo motivo é
+ A) porta-retrato, quebra-mar, bate-estacas
+
+ B) semi-interno, super-revista, conta-gotas
+
+ C) guarda-chuva, primeiro-ministro, decreto-lei
+
+
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+CESGRANRIO Petrobras - Técnico de Enfermagem do Trabalho Júnior
+No trecho      é possível através de aerogeradores, geradores elétricos associados
+ao eixo de cata-ventos     . 38-40), a palavra destacada apresenta hífen porque o
+primeiro elemento é uma forma verbal.
+
+ O grupo em que todas as palavras apresentam hífen pelo mesmo motivo é
+ D) caça-níqueis, hiper-requintado, auto-observação
+
+ E) bem-visto, sem-vergonha, finca-pé
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+CESGRANRIO Petrobras - Técnico de Enfermagem do Trabalho Júnior
+No trecho      é possível através de aerogeradores, geradores elétricos associados
+ao eixo de cata-ventos     . 38-40), a palavra destacada apresenta hífen porque o
+primeiro elemento é uma forma verbal.
+
+ O grupo em que todas as palavras apresentam hífen pelo mesmo motivo é
+ A) porta-retrato, quebra-mar, bate-estacas
+
+ B) semi-interno, super-revista, conta-gotas
+
+ C) guarda-chuva, primeiro-ministro, decreto-lei
+
+
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+         FGV
+                                     Profª. Adriana Figueiredo
+
+---
+
+FGV MPE-AL - Técnico do Ministério Público - Geral
+   crise não trouxe apenas danos sociais e econômicos ; se juntarmos os adjetivos
+ sublinhados em um só vocábulo, a forma adequada será
+ A) sociais-econômicos.
+
+ B) social-econômicos.
+
+ C) sociais-econômico.
+
+ D) socioeconômicos.
+
+ E) socioseconômicos.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+FGV MPE-AL - Técnico do Ministério Público - Geral
+   crise não trouxe apenas danos sociais e econômicos ; se juntarmos os adjetivos
+ sublinhados em um só vocábulo, a forma adequada será
+ A) sociais-econômicos.
+
+ B) social-econômicos.
+
+ C) sociais-econômico.
+
+ D) socioeconômicos.
+
+ E) socioseconômicos.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+FGV    MPE-AL - Câmara de Salvador - BA - Analista Legislativo
+Municipal - Taquigrafia e Revisão
+ A palavra          -            aparece grafada com hífen pela mesma razão
+ semântica do seguinte vocábulo abaixo:
+
+
+ A) segunda-feira;
+
+ B) tenente-coronel;
+
+ C) inter-relacionamento;
+
+ D) cara-de-pau;
+
+ E) político-econômico.
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+FGV    MPE-AL - Câmara de Salvador - BA - Analista Legislativo
+Municipal - Taquigrafia e Revisão
+ A palavra          -            aparece grafada com hífen pela mesma razão
+ semântica do seguinte vocábulo abaixo:
+
+
+ A) segunda-feira;
+
+ B) tenente-coronel;
+
+ C) inter-relacionamento;
+
+ D) cara-de-pau;
+
+ E) político-econômico.
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+FGV ALERJ - Especialista Legislativo - Registro de Debates
+ Com as novas regras gráficas, a duplicação RR/SS só deve ocorrer no seguinte
+ vocábulo:
+ A) portarretrato;
+
+ B) correligionário;
+
+ C) mestressala;
+
+ D) superrápido;
+
+ E) hiperreacionário.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+FGV ALERJ - Especialista Legislativo - Registro de Debates
+ Com as novas regras gráficas, a duplicação RR/SS só deve ocorrer no seguinte
+ vocábulo:
+ A) portarretrato;
+
+ B) correligionário;
+
+ C) mestressala;
+
+ D) superrápido;
+
+ E) hiperreacionário.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CEBRASPE
+                                      Profª. Adriana Figueiredo
+
+ 
+
+
+---
+
+CESPE/CEBRASPE SEED-PR - Professor - Língua Portuguesa
+Assinale a opção em que a palavra apresentada está de acordo com a atual
+ortografia oficial da língua portuguesa.
+ A) seminternato
+
+ B) hiperssensibilidade
+
+ C) contra-regra
+
+ D) mão-de-obra
+
+ E) autoanálise
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESPE/CEBRASPE SEED-PR - Professor - Língua Portuguesa
+Assinale a opção em que a palavra apresentada está de acordo com a atual
+ortografia oficial da língua portuguesa.
+ A) seminternato
+
+ B) hiperssensibilidade
+
+ C) contra-regra
+
+ D) mão-de-obra
+
+ E) autoanálise
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESPE/CEBRASPE     2024      Prefeitura de Camaçari - BA - Agente
+Comunitário de Saúde
+ O emprego do hífen na palavra      -      no final do texto CG1A1, justifica-se
+ pela mesma regra que determina o emprego do hífen em
+
+
+ A) mal-humorado.
+
+ B) super-ricos.
+
+ C) sem-teto.
+
+ D) auto-organização.
+
+ E) cana-de-açúcar.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+CESPE/CEBRASPE     2024      Prefeitura de Camaçari - BA - Agente
+Comunitário de Saúde
+ O emprego do hífen na palavra      -      no final do texto CG1A1, justifica-se
+ pela mesma regra que determina o emprego do hífen em
+
+
+ A) mal-humorado.
+
+ B) super-ricos.
+
+ C) sem-teto.
+
+ D) auto-organização.
+
+ E) cana-de-açúcar.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESPE/CEBRASPE DPE-DF - Analista de Apoio à Assistência Judiciária -
+Redes
+ Conforme as regras oficiais de grafia,                            poderia ser grafado
+ alternativamente como Co-existem.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+CESPE/CEBRASPE DPE-DF - Analista de Apoio à Assistência Judiciária -
+Redes
+ Conforme as regras oficiais de grafia,                            poderia ser grafado
+ alternativamente como Co-existem.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                              
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESPE/CEBRASPE MPE-SC - Promotor de Justiça Substituto - Prova 2
+
+ O termo                  (primeiro parágrafo) também pode ser corretamente
+ grafado como pré-rogativa.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+CESPE/CEBRASPE MPE-SC - Promotor de Justiça Substituto - Prova 2
+
+ O termo                  (primeiro parágrafo) também pode ser corretamente
+ grafado como pré-rogativa.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESPE/CEBRASPE             MPE-SC - Promotor de Justiça Substituto (fase
+vespertina)
+ No último período do primeiro parágrafo, o emprego do hífen em              -
+ é facultativo, razão por que estaria igualmente correta a grafia eticojurídicos.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                                    
+
+
+---
+
+CESPE/CEBRASPE             MPE-SC - Promotor de Justiça Substituto (fase
+vespertina)
+ No último período do primeiro parágrafo, o emprego do hífen em              -
+ é facultativo, razão por que estaria igualmente correta a grafia eticojurídicos.
+
+ Certo
+
+ Errado
+
+Profª Adriana Figueiredo
+
+                                    
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+MISCELÂNEA
+                                       Profª. Adriana Figueiredo
+
+  
+
+
+---
+
+COSEAC UFF - Técnico em Contabilidade
+Considerando, mais uma vez, o Novo Acordo Ortográfico vigente, em amarelo-
+limão, o hífen é utilizado porque
+ A) o segundo elemento da composição inicia com                       .
+
+ B) o prefixo amarelo exige hífen.
+
+ C) os elementos constituem uma unidade sintagmática e semântica.
+
+ D) o primeiro elemento da composição termina com vogal.
+
+ E) a palavra composta designa uma espécie.
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+COSEAC UFF - Técnico em Contabilidade
+Considerando, mais uma vez, o Novo Acordo Ortográfico vigente, em amarelo-
+limão, o hífen é utilizado porque
+ A) o segundo elemento da composição inicia com                       .
+
+ B) o prefixo amarelo exige hífen.
+
+ C) os elementos constituem uma unidade sintagmática e semântica.
+
+ D) o primeiro elemento da composição termina com vogal.
+
+ E) a palavra composta designa uma espécie.
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+IBFC MGS - Técnico Contábil
+ De acordo com as regras de ortografa, atribua valores Verdadeiro (V) ou Falso (F)
+ para as afirmações a seguir.
+
+ ( ) A palavra pega-pega é escrita com hífen, pois é composta por dois vocábulos
+ semelhantes.
+ ( ) Girassol deve ser escrito sem o hífen, pois o primeiro elemento é verbo e o
+ segundo substantivo.
+ ( ) Usa-se hífen em palavras que apresentam elementos de ligação como cara-de-
+ pau.
+ ( ) Não se usa hífen se o prefixo terminar com a mesma letra com que se inicia a
+ outra palavra. Ex: anti inflacionário.
+
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+IBFC MGS - Técnico Contábil
+ Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+ A) V, V, F, F
+
+ B) V, F, F, F
+
+ C) F, F, V, V
+
+ D) V, F, V, V
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+IBFC MGS - Técnico Contábil
+ Assinale a alternativa que apresenta a sequência correta de cima para baixo.
+
+ A) V, V, F, F
+
+ B) V, F, F, F
+
+ C) F, F, V, V
+
+ D) V, F, V, V
+
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Formiga - MG - Auxiliar de
+Biblioteca
+ O prefixo        (3º§) deve ser hifenizado quando vier acompanhado de qual
+ destas palavras?
+
+ A) Amigo.
+
+ B) Mulher.
+
+ C) Homem.
+
+ D) Exigente.
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Formiga - MG - Auxiliar de
+Biblioteca
+ O prefixo        (3º§) deve ser hifenizado quando vier acompanhado de qual
+ destas palavras?
+
+ A) Amigo.
+
+ B) Mulher.
+
+ C) Homem.
+
+ D) Exigente.
+Profª Adriana Figueiredo
+
+                             
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Orlândia - SP - Guarda Civil
+Municipal
+ Em        mania de se autoconhecer. Chega de se autoconhecer. Você é o que é,
+ um imperfeito bem-intencionado e que muda de opinião sem a menor culpa.
+ (13º§), a palavra       -                é composta e está separada por hífen.
+ Marque a alternativa cuja palavra assinalada foi escrita INCORRETAMENTE.
+ A) Isso que você está fazendo é anti-higiênico.
+
+ B) Aquela loja de autopeças sempre vende mais barato.
+
+ C) O desenvolvimento aero-espacial fez o país sair da crise.
+
+ D) Uma bactéria super-resistente foi descoberta no laboratório.
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+INSTITUTO CONSULPLAN Prefeitura de Orlândia - SP - Guarda Civil
+Municipal
+ Em        mania de se autoconhecer. Chega de se autoconhecer. Você é o que é,
+ um imperfeito bem-intencionado e que muda de opinião sem a menor culpa.
+ (13º§), a palavra       -                é composta e está separada por hífen.
+ Marque a alternativa cuja palavra assinalada foi escrita INCORRETAMENTE.
+ A) Isso que você está fazendo é anti-higiênico.
+
+ B) Aquela loja de autopeças sempre vende mais barato.
+
+ C) O desenvolvimento aero-espacial fez o país sair da crise.
+
+ D) Uma bactéria super-resistente foi descoberta no laboratório.
+Profª Adriana Figueiredo
+
+                                 
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Câmara de Cotia - SP - Assistente de
+Serviço de Pessoal
+ O emprego do hífen em         -de-       (7º§) se justifica por ser uma palavra que
+ nomeia uma espécie vegetal. Conforme as demais regras ortográficas, assinale a
+ alternativa em que o hífen está corretamente empregado.
+
+
+ A) Dia-a-dia.
+
+ B) Cor-de-rosa.
+
+ C) Mão-de-obra.
+
+ D) Contra-indicação.
+
+ E) Auto-regulamentação.
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+INSTITUTO CONSULPLAN 2024 Câmara de Cotia - SP - Assistente de
+Serviço de Pessoal
+ O emprego do hífen em         -de-       (7º§) se justifica por ser uma palavra que
+ nomeia uma espécie vegetal. Conforme as demais regras ortográficas, assinale a
+ alternativa em que o hífen está corretamente empregado.
+
+
+ A) Dia-a-dia.
+
+ B) Cor-de-rosa.
+
+ C) Mão-de-obra.
+
+ D) Contra-indicação.
+
+ E) Auto-regulamentação.
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+VUNESP Prefeitura de Pindamonhangaba - SP - Assistente Social
+ Assinale a alternativa em que a flexão do substantivo composto no plural é feita da
+ mesma forma que ocorre com a palavra         -de-      .
+ A) beija-flor
+
+ B) estrela-do-mar
+
+ C) segunda-feira
+
+ D) cirurgião-dentista
+
+ E) bem-me-quer
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+VUNESP Prefeitura de Pindamonhangaba - SP - Assistente Social
+ Assinale a alternativa em que a flexão do substantivo composto no plural é feita da
+ mesma forma que ocorre com a palavra         -de-      .
+ A) beija-flor
+
+ B) estrela-do-mar
+
+ C) segunda-feira
+
+ D) cirurgião-dentista
+
+ E) bem-me-quer
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+VUNESP DPE-SP - Oficial de Defensoria
+ Assim como                -   estão corretamente grafados com hífen os termos:
+
+ A) infra-estrutura; para-quedas; sul-africano.
+
+ B) recém-nascido; manda-chuva; médico-cirurgião.
+
+ C) bem-aventurado; arco-íris; decreto-lei.
+
+ D) ultra-romântico; ponta-pé; guarda-noturno.
+
+ E) guarda-sol; fim-de-semana; anti-depressivo.
+Profª Adriana Figueiredo
+
+                                   
+
+
+---
+
+VUNESP DPE-SP - Oficial de Defensoria
+ Assim como                -   estão corretamente grafados com hífen os termos:
+
+ A) infra-estrutura; para-quedas; sul-africano.
+
+ B) recém-nascido; manda-chuva; médico-cirurgião.
+
+ C) bem-aventurado; arco-íris; decreto-lei.
+
+ D) ultra-romântico; ponta-pé; guarda-noturno.
+
+ E) guarda-sol; fim-de-semana; anti-depressivo.
+Profª Adriana Figueiredo
+
+                                   
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+FCC TRF - 2ª REGIÃO - Analista Judiciário - Taquigrafia
+ Consideradas as prescrições do Acordo Ortográfico da Língua Portuguesa, em vigor
+ desde janeiro de 2009, a palavra em que o hífen foi empregado de modo
+ INCORRETO é:
+
+
+ A) anti-higiênico.
+
+ B) hiper-realista.
+
+ C) aquém-fronteiras.
+
+ D) bem-visto.
+
+ E) anti-semita.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+FCC TRF - 2ª REGIÃO - Analista Judiciário - Taquigrafia
+ Consideradas as prescrições do Acordo Ortográfico da Língua Portuguesa, em vigor
+ desde janeiro de 2009, a palavra em que o hífen foi empregado de modo
+ INCORRETO é:
+
+
+ A) anti-higiênico.
+
+ B) hiper-realista.
+
+ C) aquém-fronteiras.
+
+ D) bem-visto.
+
+ E) anti-semita.
+Profª Adriana Figueiredo
+
+                               
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO LIQUIGÁS - Conferente I
+ No Texto II, a autora criou a palavra                           -   (l. 17) e empregou nela
+ corretamente o hífen.
+
+ Usando uma estratégia criativa semelhante, será necessário usar esse sinal gráfico
+ em
+
+ A) pseudo-viajante
+ B) super-viajante
+ C) ex-viajante
+ D) anti-viajante
+ E) neo-viajante
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+CESGRANRIO LIQUIGÁS - Conferente I
+ No Texto II, a autora criou a palavra                           -   (l. 17) e empregou nela
+ corretamente o hífen.
+
+ Usando uma estratégia criativa semelhante, será necessário usar esse sinal gráfico
+ em
+
+ A) pseudo-viajante
+ B) super-viajante
+ C) ex-viajante
+ D) anti-viajante
+ E) neo-viajante
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+CESGRANRIO       BNDES - Nível Superior - Conhecimentos Básicos -
+Todos os Cargos
+No trecho do Texto II       exigências de infraestrutura e de serviços públicos. (L.
+4-5), a palavra destacada não apresenta o emprego do hífen, segundo as regras
+ortográficas da Língua Portuguesa.
+
+ Da mesma forma, o hífen não deve ser empregado na combinação dos seguintes
+ elementos:
+ A) mal + educado
+ B) supra + atmosférico
+ C) anti + higiênico
+ D) anti + aéreo
+ E) vice + reitor
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+CESGRANRIO       BNDES - Nível Superior - Conhecimentos Básicos -
+Todos os Cargos
+No trecho do Texto II       exigências de infraestrutura e de serviços públicos. (L.
+4-5), a palavra destacada não apresenta o emprego do hífen, segundo as regras
+ortográficas da Língua Portuguesa.
+
+ Da mesma forma, o hífen não deve ser empregado na combinação dos seguintes
+ elementos:
+ A) mal + educado
+ B) supra + atmosférico
+ C) anti + higiênico
+ D) anti + aéreo
+ E) vice + reitor
+Profª Adriana Figueiredo
+
+                                
+
+
+---
+
+#ANOTAAÍ
+
+Profª Adriana Figueiredo
+
+                           
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+Professora: Adriana
+Figueiredo
+                     @professoraadrianafigueiredo
+
+           https://www.youtube.com/user/professoraadriana
+           f
+
+                facebook.com/prof.adriana.figueired
+                o
+
+               
+
+
+---
+
+---

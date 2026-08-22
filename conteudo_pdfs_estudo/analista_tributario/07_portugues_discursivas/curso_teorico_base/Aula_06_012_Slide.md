@@ -1,0 +1,234 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 06_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Transpondo-se para a voz ativa a frase A ciência é definida por interesses
+---
+
+# Transpondo-se para a voz ativa a frase A ciência é definida por interesses
+
+46. FCC - 2019 - RIOPRETOPREV - Analista Previdenciário
+
+Transpondo-se para a voz ativa a frase A ciência é definida por interesses
+econômicos, a forma verbal ficará:
+
+
+A) seria definida.
+
+B) tem sido definida.
+
+C) define-se.
+
+D) definem.
+
+E) definirá.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+47. FCC - 2019 - SABESP
+Os produtos alimentícios são sistematicamente adulterados por comerciantes
+inescrupulosos.
+
+Ao se transpor a frase acima para a voz ativa, a forma verbal resultante será
+
+A) adulteram.
+B) adulteravam.
+C) adulteraram.
+D) adulterariam.
+E) adulterarão.
+
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+48. FGV - Prefeitura de Osasco - SP - Professor
+
+“A França foi ocupada pelos alemães."
+Essa frase do texto, se colocada na voz ativa, terá a seguinte forma:
+
+
+A) os alemães ocuparão a França.
+
+B) os alemães ocuparam a França.
+
+C) ocupou-se a França pelos alemães.
+
+D) os alemães ocupavam a França.
+
+E) ocupar-se-á a França pelos alemães.
+Profª Adriana Figueiredo
+                              
+
+
+---
+
+49. FGV - 2018 - AL-RO - Advogado
+“O levantamento foi feito pelo Sindicato das Mantenedoras de Ensino Superior
+(Semesp) com 99 instituições.”
+
+Essa frase do texto exemplifica a voz passiva; assinale a forma verbal
+correspondente à que está sublinhada, na voz ativa.
+
+A) fez-se.
+B) fazia.
+C) fazia-se.
+D) fizera.
+E) fez.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+50. AOCP - INES - Enfermeiro
+
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+50. AOCP - INES - Enfermeiro
+Assinale a alternativa em que está adequada a passagem da voz passiva para a voz
+ativa da construção “tivessem sido acatadas" (6.§)
+
+
+A) tinham acatado.
+
+B) estivesse acatado.
+
+C) tinha sido acatado.
+
+D) tivessem acatado.
+
+E) estivesse sido acatado.
+Profª Adriana Figueiredo
+                               
+
+
+---
+
+51. FCC - DPE-RS - Técnico
+
+Se não for atendido em minha reivindicação levarei a questão a juízo. (4°
+parágrafo)
+
+A voz ativa correspondente da forma verbal destacada é:
+
+A) atende
+B) se atendesse
+C) me atenderem
+D) ser atendida
+E) se atende
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+52. FCC - 2018 - SABESP
+
+Foi sancionada a Lei das Águas, na qual são destacados importantes fundamentos.
+
+Ao transpor essa frase para a voz ativa, obtém-se esta versão correta e adequada:
+
+
+A) Sancionou-se a Lei das Águas, dando-se destaque a importantes fundamentos.
+
+B) Ao ser sancionada, a Lei das Águas teve como destaques, importantes
+fundamentos.
+
+C) Destacou-se a importância de fundamentos na Lei das Águas, a qual se
+sancionou.
+
+Profª Adriana Figueiredo
+                             
+
+
+---
+
+52. FCC - 2018 - SABESP
+
+
+D) Sancionaram a Lei das Águas, em que ganham destaque importantes
+fundamentos.
+
+E) Houve a sanção da Lei das Águas, em cuja sofreram destaque importantes
+fundamentos.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+53. VUNESP - Prefeitura de São Paulo - SP - Analista de Políticas
+Públicas e Gestão Governamental
+
+Na voz ativa, a passagem – Charges, montagens e até samba [...] foram criados
+para chamar a atenção sobre o tema. – assume a seguinte redação:
+
+
+A) Para chamar a atenção sobre o tema, criaram charges, montagens e até samba.
+
+B) Criaram-se charges, montagens e até samba para chamar a atenção sobre o
+tema.
+
+C) A atenção sobre o tema foi chamada com a criação de charges, montagens e até
+samba.
+Profª Adriana Figueiredo
+                            
+
+
+---
+
+53. VUNESP - Prefeitura de São Paulo - SP - Analista de Políticas
+Públicas e Gestão Governamental
+
+
+D) Criou-se charges, montagens e até samba para chamar-se a atenção sobre o
+tema.
+
+E) A chamada de atenção sobre o tema fez-se com criação de charges, montagens
+e até samba.
+
+Profª Adriana Figueiredo
+                           
+
+
+---
+
+54. FGV - 2020 - IBGE - Coordenador Censitário Subárea
+
+A frase “Foi observada a criação de uma nova empresa” está escrita na voz passiva
+com o verbo ser; se transformássemos essa frase para a voz ativa, a forma correta
+seria:
+
+A) Observou-se a criação de uma nova empresa;
+
+B) Observa-se a criação de uma nova empresa;
+
+C) Criou-se uma nova empresa;
+
+D) A criação de uma nova empresa foi observada;
+
+E) Observaram a criação de uma nova empresa.
+Profª Adriana Figueiredo
+                             
+
+
+---

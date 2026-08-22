@@ -1,0 +1,1244 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 07_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Contabilidade
+artigos_citados:
+- Art. 183.
+---
+
+# Contabilidade
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+  Começando do Zero
+  Receita Federal 2022
+PREPARAÇÃO COMPLETA
+                                           Prof. Silvio Sande
+
+      
+
+
+---
+
+            ExercÍcios de Operações com
+            duplicatas.
+
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   13. (IADES/CRF/RO/2019)
+Na contabilidade brasileira, em decorrência do processo de convergência para as
+normas internacionais, passou a prevalecer o princípio da essência sob a forma, isto é, o
+registro deve ter base na realidade econômica da transação, independentemente da
+forma jurídica. Com base nessa informação, as duplicatas descontadas classificam-se
+ a) no passivo.
+ b) no ativo circulante.
+ c) nas contas de compensação.
+ d) nas contas de resultado.
+ e) na conta redutora do ativo circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ 14. (FGV/SEFIN-RO/ 2018)
+Uma sociedade empresária varejista vende um produto por R$ 100.000, emitindo
+uma duplicata com prazo de 30 dias.
+Por necessitar de recursos, a empresa desconta a duplicata em uma instituição
+financeira, recebendo R$ 98.000.
+
+Assinale a opção que indica o procedimento correto da empresa em relação ao
+desconto da duplicata.
+a) Baixar a duplicata de seu ativo por R$ 100.000.
+b) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma despesa de
+R$2.000.
+c) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma perda de
+R$2.000.
+d) Manter a duplicata em seu ativo por R$ 100.000.
+e) Manter a duplicata em seu ativo por R$ 98.000 e reconhecer uma despesa de R$
+2.000.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   15. (Instituto AOCP/ITEP/ 2019)
+Uma empresa que possui Duplicatas a Receber registradas em seu Ativo Circulante
+realiza um desconto de duplicatas em um determinado montante.
+
+Considerando que a operação de desconto foi realizada com duplicatas que tinham
+vencimentos futuros (120 dias), o valor dos juros descontados a serem reconhecidos
+no ato da operação devem ser contabilizados como
+
+a) despesas financeiras no Resultado.
+b) conta redutora das duplicatas descontadas no Ativo.
+c) conta redutora das Receitas, no Resultado.
+d) despesa antecipada, no Ativo Circulante.
+e) conta redutora das duplicatas descontadas no Passivo.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ 16. (FGV/MPE-AL/2018)
+Em 10/01/2018, uma entidade realizou uma venda por R$ 120, para recebimento
+em 60 dias. Na data, a entidade efetuou a operação de desconto bancário por R$
+100.
+
+Assinale a opção que indica a correta contabilização da operação na data do
+desconto.
+
+  a)
+D – Caixa: 100;
+D - Despesa operacional: 20;
+C - Duplicatas descontadas: 120.
+  b)
+D – Caixa: 100;
+D - Despesa financeira: 20;
+C Silvio
+      - Duplicatas
+Contabilidade
+Prof.      Sande   descontadas: 120.
+                                 
+
+
+---
+
+.
+c)
+D – Caixa: 100;
+D - Despesa financeira a apropriar: 20;
+C - Duplicatas descontadas: 120.
+d)
+D – Clientes: 100;
+D - Redutora da Receita: 20;
+C – Receita: 120.
+e)
+D – Clientes: 100;
+C – Receita: 100.
+
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   17. (CEPERJ/ 2018)
+A Companhia Comercial S.A., no mês de março, realizou, junto ao Banco Alvorada,
+desconto de duplicatas no montante de R$ 5.000,00. Em 15 de junho, data de
+vencimento do título, recebeu aviso do banco de que o cliente havia efetuado o
+pagamento.
+  Para registro dessa operação, foi feito, na contabilidade da Companhia, o seguinte
+lançamento contábil:
+
+ a) Banco c/Movimento a Duplicatas Descontadas 5.000,00
+b) Duplicatas Descontadas a Bancos c/Movimento 5.000,00
+c) Duplicatas a Receber a Duplicatas Descontadas 5.000,00
+d) Duplicatas Descontadas a Duplicatas a Receber 5.000,00
+e) Bancos C/Movimento a Duplicatas a Receber 5.000,00
+
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   18. (FGV/CODEBA/2016)
+Assinale a opção que apresenta um evento em que não se deve baixar a conta de
+duplicatas a receber.
+
+  a) Devolução de mercadorias.
+  b) Descontos comerciais concedidos.
+  c) Abatimentos concedidos.
+  d) Reconhecimento de perdas.
+  e) Desconto de duplicatas.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   19. (CESPE/SUFRAMA/ 2014)
+Julgue o item subsequente, relativo à contabilização de operações contábeis
+diversas.
+
+O desconto de uma duplicata em banco, além de gerar um débito em caixa ou
+equivalentes de caixa e um crédito em duplicatas descontadas, gera um débito em
+despesas do período na demonstração do resultado do exercício (DRE) relativo aos
+juros pagos na data da liberação do crédito.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   20. (FUNDATEC/ 2012)
+As duplicatas são títulos emitidos pelas empresas nas operações de venda de
+mercadorias a prazo. Uma operação que a empresa pode realizar é o desconto de
+duplicata. Nesse sentido, assinale a alternativa INCORRETA quanto a essa
+operação.
+
+a) Implica a transferência da posse e da propriedade do título para o banco, sendo
+que o endosso de uma duplicata não exime a empresa de responsabilidade de
+pagar o título, na eventualidade de não ser liquidada pelo devedor.
+
+b) O saldo da conta de duplicatas descontadas ou títulos descontados reflete a
+parcela daquelas duplicatas descontadas pela empresa.
+
+ c) Quando uma duplicata descontada é liquidada pelo devedor junto ao banco,
+este envia uma comunicação de tal fato à empresa.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ d) Com a implantação das novas normas de contabilidade, para representar a
+essência econômica da operação, essa conta de títulos descontados deve aparecer
+normalmente no passivo juntamente com as demais dívidas.
+
+ e) Com a aplicação das Normas Internacionais de Contabilidade, o critério que
+predominará para classificação no registro do desconto de duplicatas é como conta
+retificadora do ativo.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   21. (ESAF/ATRFB/ 2000)
+Se uma empresa mantém todas as duplicatas de sua emissão em determinado
+banco, em operação de desconto, os seus clientes serão creditados quando a(o)
+
+
+  a) duplicata for descontada no banco
+  b) duplicata for enviada ao banco para desconto
+  c) banco acusar o recebimento da duplicata
+  d) banco emitir o aviso de crédito
+  e) cliente pagar a duplicata no banco
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   22. (FADESP/MPE-PA/ 2012)
+O agrupamento de contas representativas dos clientes, abaixo destacado, possui
+somente uma conta cujo saldo é de natureza devedora. Assinale-a.
+
+  a) Serviços executados a faturar.
+
+  b) Ajuste a valor presente.
+
+  c) Faturamento para entrega futura.
+
+  d) Perdas estimadas em créditos de liquidação duvidosa.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   23. (FGV/ALERO/ 2018)
+Em 10/04/2018, uma loja realizou uma venda no valor de R$ 20.000, quando houve
+o faturamento. As mercadorias vendidas foram entregues no mês de maio.
+
+Assinale a opção que indica os lançamentos corretos feitos na loja, no mês de abril.
+A) D- contas a receber C- receita: 20.000,00
+B) D- contas a receber C- receita a apropriar: 20.000,00
+C) D- contas a receber C- faturamento para entrega futura: 20.000,00
+D) D- faturamento para entrega futura C- receita: 20.000,00
+E) D- faturamento para entrega futura C- receita a apropriar: 20.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   24. (IBFC/PCRJ/ 2013)
+Pode-se afirmar em relação aos faturamentos antecipados, por conta de futuros
+fornecimentos, que o procedimento contábil correto deve considerar que esses
+eventos:
+ a) Geram direitos, por isso devem ser contabilizados no Contas a Receber.
+ b) Geram direitos, e por isso são contabilizados em Conta Redutora.
+ c) Não geram direitos, e por isso não devem ser contabilizados.
+ d) Não geram direitos, e por isso são contabilizados em Conta Redutora.
+ e) Geram direitos contratuais, mas não geram qualquer contabilização.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+  25. (IBFC/PC-RJ/2013)
+O Balancete de 31/7/2012 da empresa Alfa, apresentava os seguintes saldos de
+contas:
+
+ Pode-se afirmar que o total do Ativo Circulante a ser evidenciado no Balanço
+ Patrimonial nessa data é de:
+   a) $ 76.000,00.
+   b) $ 80.000,00.
+   c) $ 82.000,00.
+   d) $ 77.000,00.
+   e)Silvio$Sande79.000,00.
+Contabilidade
+Prof.
+                           
+
+
+---
+
+   26. (S UFG - ATM/Pref GYN/2016)
+Considere a seguinte composição do patrimônio da empresa Beta Ltda. para
+responder à questão.
+
+O valor em R$ correspondente aos créditos com terceiros é:
+a) 44.000,00
+b) 41.800,00
+c) 30.000,00
+d) 14.000,00
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   27. (CETPS/UFPA/ 2019)
+Uma determinada entidade apresentou os seguintes elementos patrimoniais e
+respectivos saldos:
+Notas Promissórias emitidas pela entidade = R$ 1.200,00
+Notas Promissórias emitidas por terceiros = R$ 2.100,00
+Duplicatas emitidas pela entidade = R$ 3.100,00
+Duplicatas aceitas pela entidade = R$ 1.300,00
+Com base nesse elenco de contas, é correto afirmar que essa entidade apresenta
+
+a) Débitos no valor de R$ 3.300,00
+b) Créditos no valor de R$ 4.300,00
+c) Débitos no valor de R$ 3.400,00
+d) Créditos no valor de R$ 4.400,00
+e) Débitos no valor de R$ 2.500,00
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   28. (ESAF/ATRFB/ 2002)
+Observe o seguinte lançamento, constante do Diário da Firma Violetas - ME, do qual foi,
+cuidadosa e didaticamente, suprimido o histórico para fins de concurso.
+Duplicatas Descontadas a Diversos valor que se registra em decorrência .........., a saber:
+a Bancos c/ Movimento .................................... R$ 1.300,00
+a Duplicatas a Receber .................................... R$ 2.700,00 R$ 4.000,00
+
+O histórico suprimido no lançamento supra descrito deverá descrever a
+a) quitação de desconto bancário, com devolução de duplicatas não recebidas.
+b) quitação de desconto bancário, com liquidação de duplicatas recebidas.
+c) contratação de desconto bancário, com entrega de duplicatas, recebendo parte do
+dinheiro em conta corrente.
+d) quitação de desconto bancário, com devolução de duplicatas não recebidas e
+liquidação de duplicatas recebidas.
+e) quitação de desconto bancário, com liquidação de duplicatas recebidas e devolução
+de duplicatas não recebidas.
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   29. (ESAF/AFRFB/2000)
+A firma Duplititus opera com vendas a prazo alternando a cobrança em carteira e
+em bancos, mediante desconto de duplicatas. Em primeiro de abril mantinha as
+duplicatas de sua emissão nos 03, 05 e 08 em carteira de cobrança e as de nos 04,
+06 e 07, descontadas no banco. Cada uma dessas letras tinha valor de face de R$
+60,00, exceto a no 07, cujo valor era R$ 70,00.
+
+Durante o mês de abril ocorreram os seguintes fatos:
+- vendas a prazo com emissão das duplicatas nos 09, 10 e 11 (3x50): R$ 150,00
+- vendas a vista mediante notas fiscais: R$ 200,00
+- desconto bancário das duplicatas nos 09 e 10; R$ 100,00
+- recebimento em carteira das duplicatas nos 03 e 05; R$ 120,00
+- devolução pelo banco da duplicata no 04, sem cobrar; R$ 60,00
+- recebimento pelo banco da duplicata no 07.R$ 70,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+Com essas informações podemos concluir que, após a contabilização, o saldo final
+das contas Duplicatas a Receber e Duplicatas Descontadas será, respectivamente,
+de:
+
+a) R$ 160,00 e R$ 330,00
+ b) R$ 330,00 e R$ 160,00
+ c) R$ 140,00 e R$ 160,00
+ d) R$ 200,00 e R$ 220,00
+ e) R$ 330,00 e R$ 220,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   30. (CEPREJ/RIO PREVIDÊNCIA/ 2014)
+Em 01/09/2013, o saldo da conta Duplicatas a Receber de uma determinada
+empresa comercial era de R$ 108.000,00. Durante o mês, foram registradas as
+seguintes operações:
+
+ - venda de mercadorias no montante de R$ 1.170.000,00, sendo que 60% foram
+realizadas à vista;
+ - recebimento de clientes de vendas realizadas nos meses anteriores no valor de R$
+92.000,00;
+ - desconto de duplicatas no Banco Comercial no montante de R$ 240.000,00;
+ - quitação pelos clientes das duplicatas descontadas anteriormente nas datas de
+vencimento, no montante de R$ 190.000,00;
+ - devolução do Banco das duplicatas descontadas anteriormente, não quitadas
+pelos clientes.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+Com esses dados, pode-se afirmar que o saldo da conta Duplicatas a Receber, em
+30/09/2013 era de:
+
+  a) R$ 336.000,00
+
+  b) R$ 294.000,00
+
+  c) R$ 386.000,00
+
+  d) R$ 244.000,00
+
+  e) R$ 528.000,00
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   31. (CEPREJ/RIO PREVIDÊNCIA/ 2014)
+No mês de janeiro de 2011, determinada empresa registrou os seguintes fatos:
+
+Vendas à vista ...................................................................... R$ 350.000,00
+Vendas a prazo ................................................................... R$ 700.000,00
+Recebimento de duplicata ...................................................... R$ 140.000,00
+Duplicata descontada devolvida pelo banco por não recebimento.... R$ 52.500,00
+Desconto de duplicata em banco ............................................ R$ 437.500,00
+Aviso de recebimento de duplicata descontada pelo banco ..............R$ 262.500,00
+
+Contabilidade
+Prof. Silvio Sande
+                                    
+
+
+---
+
+Sabendo-se que o saldo inicial das contas Duplicatas a Receber e Duplicatas
+Descontadas era respectivamente de R$ 175.000,00 e R$ 105.000,00, pode-se
+afirmar que o saldo final dessas contas era respectivamente de:
+ a) R$ 245.000,00 e R$ 105.000,00
+ b) R$ 420.000,00 e R$ 280.000,00
+ c) R$ 472.500,00 e R$ 227.500,00
+ d) R$ 507.500,00 e R$ 280.000,00
+ e) R$ 735.000,00 e R$ 542.500,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   32. (CEBRASPE/FUB/ 2018)
+Julgue o item seguinte, relativo a conceitos básicos da contabilidade.
+
+A retenção ou não de riscos significativos é que determina o tratamento contábil
+distinto dado a um desconto de duplicata em um banco e em uma empresa de
+factoring.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   33. (CEBRASPE/MCOM/ 2013)
+Com relação aos componentes patrimoniais, suas variações e sua representação
+contábil, julgue o item seguinte.
+
+ O tratamento contábil diferenciado dado a uma duplicata descontada em uma
+empresa de factoring, em relação a uma duplicata descontada em banco, justifica-
+se em função da questão da transferência de riscos e benefícios.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+            Perdas Esperadas com crédito de
+            Liquidação duvidosa.
+
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   Critérios de Avaliação
+ Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes
+ critérios:
+
+ I - as aplicações em instrumentos financeiros, inclusive derivativos, e em direitos
+ e títulos de créditos, classificados no ativo circulante ou no realizável a longo
+ prazo:
+
+ a) pelo seu valor justo, quando se tratar de aplicações destinadas à negociação ou
+ disponíveis para venda; e
+ b) pelo valor de custo de aquisição ou valor de emissão, atualizado conforme
+ disposições legais ou contratuais, ajustado ao valor provável de realização, quando
+ este for inferior, no caso das demais aplicações e os direitos e títulos de crédito;
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Perdas Esperadas com Créditos de Liquidação Duvidosa
+   PECLD
+ A conta perdas esperadas com créditos de liquidação duvidosa é retificadora da
+ conta clientes/duplicatas a receber.
+
+ Um ativo representa o potencial de geração de caixa, logo qualquer ativo que tiver
+ com um valor maior que espera que gere de benefícios deve ser reduzido a esse
+ valor.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e constitui PECLD de 3%.
+
+Situação 1 - Ficou sem receber exatamente o valor esperado;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e constitui PECLD de 3%.
+
+Situação 1 - Ficou sem receber R$ 5.000;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e PECLD de 3%.
+
+Situação 1 - Ficou sem receber R$ 2.000;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+No exercício seguinte a empresa terminou o exercício com duplicatas a Receber no
+valor de R$ 120.000 e deve constituir uma PECLD no valor de R$ 8.000
+
+                     Complementação                                        Reversão
+
+Contabilidade
+Prof. Silvio Sande
+                                      
+
+
+---
+
+   Recuperação de Créditos baixados
+Um Cliente que estava inadimplente e consequentemente a empresa deu
+baixa nas duplicatas a receber correspondentes ao mesmo, melhorou de
+situação e compareceu a empresa para quitar uma duplicata no valor de R$
+1.000.
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+                        Exercícios
+            Perdas Esperadas com crédito de
+            Liquidação duvidosa.
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   01. (FGV/PERITO/PC-AM/2022)
+No ano de X0, uma entidade reconheceu receita de vendas de R$600.000. Do valor,
+20% é previsto ser recebido no primeiro trimestre de X1. A entidade estima perdas
+com créditos de liquidação duvidosa de 4%.
+
+Em janeiro de X1, a entidade decidiu realizar apenas vendas à vista. No mês, ela
+recebeu R$116.000 de seus antigos clientes.
+  Assinale a opção que indica a contabilização referente à inadimplência na
+Demonstração do Resultado do Exercício da entidade, em 31/01/X1.
+
+a) Reconhecimento de dedução da receita de R$4.000.
+b) Reconhecimento de despesa operacional de R$R$4.000.
+c) Reconhecimento de receita operacional de R$800.
+d) Reconhecimento de receita de vendas de R$800.
+e) Reconhecimento de reversão das perdas estimadas de R$800.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   02. (FGV/IMBEL/2021)
+Uma empresa atacadista apresentava R$ 100.000 em estoques em 02/01/X0. No
+mês, todo o estoque foi vendido por R$ 300.000, sendo que 20% do valor foi
+recebido no momento da venda e, o restante, deverá ser recebido em 90 dias. A
+empresa estima inadimplência de 3%. Assinale a opção que indica, na
+Demonstração do Resultado do Exercício, em 31/01/X0, a contabilização e o valor
+da conta da despesa com perdas estimadas com crédito de liquidação duvidosa.
+
+a) Redutora de vendas - R$ 9.000.
+b) Redutora de vendas - R$ 7.200.
+c) Despesa operacional - R$ 9.000.
+d) Despesa operacional - R$ 7.200.
+e) Despesa financeira - R$ 9.000.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   03. (FCM/CEFETMINAS/2021)
+É correto afirmar que uma determinada empresa, ao reconhecer perda estimada
+com crédito de liquidação duvidosa,
+
+  a) aumenta o ativo circulante e reduz o patrimônio líquido.
+
+  b) reduz o caixa e equivalente de caixa e diminui o patrimônio líquido.
+
+  c) reduz o caixa e equivalente de caixa e aumenta o patrimônio líquido.
+
+  d) reduz o ativo circulante, porém sem afetar o caixa e equivalente de caixa.
+
+ e) aumenta o lucro antes das receitas e despesas financeiras, porém sem afetar o
+caixa e equivalente de caixa.
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   04. (CESGRANRIO/TRANSPETRO/2018)
+A Comercial Q informou que, analisada a situação da carteira de Duplicatas a
+Receber e sua experiência de inadimplência, realizou as provisões consideradas
+necessárias, resultando no saldo da conta Perdas Estimadas em Créditos de
+Liquidação Duvidosa (Ativo), no Balanço de 31/dez/2016, de R$ 150.000,00.
+
+Informou, ainda, que, em 2/fev/2017, uma Duplicata a Receber de R$200.000,00,
+depois de esgotadas todas as tentativas necessárias e indispensáveis para o seu
+recebimento, foi considerada incobrável.
+
+Em decorrência, em 2/fev/2017, a Comercial Q fez o registro contábil da baixa
+dessa duplicata considerada incobrável, como segue:
+a) D: Perdas no Recebimento de Créditos (Resultado) 150.000,00
+  C: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 150.000,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+  b) D: Duplicatas a Receber (Ativo) 150.000,00
+    D: Perdas no Recebimento de Crédito (Resultado) 50.000,00
+    C: Crédito de Clientes a Recuperar (Ativo) 200.000,00
+
+  c) D: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 150.000,00
+     D: Perdas no Recebimento de Créditos (Resultado) 50.000,00
+     C: Duplicatas a Receber (Ativo) 200.000,00
+
+  d) D: Perdas no Recebimento de Créditos (Resultado) 200.000,00
+    C: Duplicatas a Receber (Ativo) 200.000,00
+
+  e) D: Perdas no Recebimento de Créditos (Resultado) 200.000,00
+     C: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 200.000,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   05. (QUADRIX/CRO-MT/2018)
+Com base em conceitos e aplicações da Contabilidade Geral, julgue o item.
+
+Na hipótese de recuperação de um crédito considerado como incobrável em
+exercício já encerrado, o lançamento indicado será o seguinte. D Caixa (Bancos) C
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   06. (FGV/ALBA/ 2014)
+O responsável pela contabilidade de uma empresa incorreu em um erro no
+reconhecimento da provisão para créditos de liquidação duvidosa, não
+reconhecendo o percentual estimado para a inadimplência na conta Clientes.
+
+Antes que qualquer ajuste de regularização seja efetuado, esse erro gera, no
+patrimônio da empresa, o seguinte efeito:
+
+a) subavaliação do ativo e do patrimônio líquido.
+b) subavaliação do passivo e superavaliação do patrimônio líquido.
+c) subavaliação do ativo e do passivo.
+d) superavaliação do ativo e do patrimônio líquido.
+e) superavaliação do ativo e do passivo.
+
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   07. (CEBRASPE/TRE-MS/ 2013)
+No mês de outubro, determinada empresa efetuou um lançamento contábil
+mediante o qual debitou a conta provisão para crédito de liquidação provisória
+(ativo) e creditou duplicatas a receber (ativo).
+
+Na situação acima descrita, o lançamento contábil decorreu
+
+a) da reversão da provisão de crédito de liquidação duvidosa constituída
+anteriormente.
+b) do recebimento de duplicatas que haviam sido consideradas incobráveis no
+exercício anterior.
+c) da constituição de provisão para crédito de liquidação duvidosa referente a
+vendas realizadas a prazo no mês.
+d) da baixa de duplicatas consideradas incobráveis.
+e) do reconhecimento de despesa com possíveis perdas de valores a receber.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   08. (CEBRASPE/SESA-ES/2011)
+Julgue o item seguinte, relativo a fatos contábeis e respectivas variações
+patrimoniais, a contas patrimoniais e de resultados e a teorias, funções e estrutura
+das contas.
+
+Suponha que determinada empresa utilize duas contas para registrar as perdas com
+vendas a prazo: provisão para crédito de liquidação duvidosa e perdas incorridas.
+Nesse caso, se a empresa baixar um título considerado incobrável e houver saldo na
+conta retificadora do ativo, não é necessário fazer nenhum lançamento em conta de
+resultado.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   09. (CEBRASPE/TRE-AM/2010)
+Em setembro de X9 a empresa Xandô recebeu R$ 800,00 de um cliente que havia
+sido considerado incobrável no exercício anterior (X8). Considerando que existia
+saldo de R$ 2.000,00 na conta Provisão para Crédito de Liquidação Duvidosa (PDD),
+no momento do recebimento, a empresa deve
+
+  a) debitar PDD e creditar Reversão de PDD.
+  b) debitar Caixa e creditar Recuperação de Crédito.
+  c) debitar Caixa e creditar PDD.
+  d) debitar Caixa e creditar Reversão da despesa com PDD.
+  e) debitar PDD e creditar Recuperação de crédito.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   10. (CEBRASPE/FUNPRESP/2022)
+Tendo em vista que os usuários das demonstrações contábeis precisam de
+informações tanto sobre a posição financeira da entidade quanto de seu
+desempenho financeiro, julgue o item a seguir.
+
+Ao se contabilizar a provisão para créditos de liquidação duvidosa, aumenta o valor
+das despesas da demonstração do resultado do exercício.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   11. (CEBRASPE/APF/PF/2021)
+Considere que determinada empresa possua, entre seus ativos, alguns recebíveis
+oriundos de vendas a prazo, cujo recebimento não é considerado líquido e certo.
+Diante dessa situação hipotética, julgue o item a seguir.
+
+O procedimento contábil indicado para o caso é avaliar tais recebíveis pelo seu
+valor líquido de realização, efetuando-se os ajustes contábeis necessários para que
+o valor do patrimônio da empresa passe a refletir as perdas estimadas relacionadas
+aos recebíveis cuja liquidação tenha caráter duvidoso.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   12. (CEBRASPE/APF/PF/2021)
+Considere que determinada empresa possua, entre seus ativos, alguns recebíveis
+oriundos de vendas a prazo, cujo recebimento não é considerado líquido e certo.
+Diante dessa situação hipotética, julgue o item a seguir.
+
+As perdas estimadas relacionadas a recebíveis de liquidação duvidosa devem ser
+reconhecidas como despesas, em contrapartida à própria conta de ativo que
+representa esses recebíveis.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   13 (CEBRASPE/PC-DF/2021)
+No que se refere ao registro contábil e aos seus reflexos nos componentes da
+demonstração do resultado e do balanço patrimonial das empresas, julgue o item a
+seguir.
+
+A provisão para crédito de liquidação duvidosa de curto prazo é responsável pela
+evidenciação da expectativa da empresa em receber de seus clientes. A reversão do
+valor registrado na conta de provisão proporcionará um aumento no resultado do
+exercício e um aumento no saldo do ativo circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   14. (FCC/TRT11/ 2017)
+Em 31/12/2015, a empresa ATP S.A. possuía R$ 520.000,00 em duplicatas a receber
+de clientes e saldo na conta Estimativa de Perdas com Créditos de Liquidação
+Duvidosa (EPCLD) no valor de R$ 20.800,00. Em fevereiro de 2016, o cliente Ônix,
+que devia R$ 22.000,00, se tornou incobrável. Ao registrar este evento na
+contabilidade, a empresa ATP S.A.
+
+a) debitou o valor de R$ 22.000,00 na conta patrimonial Duplicatas a Receber.
+b) debitou o valor de R$ 20.800,00 na conta patrimonial EPCLD.
+c) debitou o valor de R$ 1.200,00 na conta patrimonial Ajuste de Avaliação
+Patrimonial.
+d) creditou o valor de R$ 1.200,00 na conta de resultado Perda com Clientes.
+e) creditou o valor de R$ 20.800,00 na conta de resultado Reversão de EPCLD.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   15. (FCC/DPE-RS/Contabilidade/2017)
+A empresa Só Luxo S.A. possuía R$ 100.000,00 na conta de Clientes e uma
+estimativa de perda com créditos de liquidação duvidosa (EPCLD) no valor de
+R$ 10.000,00 no Balanço Patrimonial de 31/12/2016. Em março de 2017, o
+cliente A, que devia R$ 9.000,00, se tornou incobrável.
+Ao registrar este evento na contabilidade, a empresa Só Luxo S.A.
+a) reconheceu uma Perda com Clientes, no resultado, no valor de R$ 9.000,00.
+b) diminuiu em R$ 9.000,00 o total do Ativo.
+c) aumentou em R$ 9.000,00 o Passivo.
+d) diminuiu em R$ 1.000,00 o Patrimônio Líquido.
+e) diminuiu o saldo da EPCLD em R$ 9.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   16. (FCC/ARTE-SP/ 2017)
+A empresa Só Luxo S.A. possuía R$ 100.000,00 na conta de Clientes e uma
+estimativa de perda com créditos de liquidação duvidosa (EPCLD) no valor de R$
+10.000,00 no Balanço Patrimonial de 31/12/2016. Em março de 2017, o cliente A,
+que devia R$ 9.000,00, se tornou incobrável. Ao registrar este evento na
+contabilidade, a empresa Só Luxo S.A.
+ a) reconheceu uma Perda com Clientes, no resultado, no valor de R$ 9.000,00.
+ b) diminuiu em R$ 9.000,00 o total do Ativo.
+ c) aumentou em R$ 9.000,00 o Passivo.
+ d) diminuiu em R$ 1.000,00 o Patrimônio Líquido.
+ e) diminuiu o saldo da EPCLD em R$ 9.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   17. (FCC/TRE-RO/ 2013)
+Considere os seguintes dados contábeis da Cia. DZB:
+
+Duplicatas a Receber em 31/12/2012 ............................. R$ 200.000,00
+Provisão para Crédito de Liquidação Duvidosa (PCLD) em 31/12/2012 .. R$ 4.000,00
+
+Em janeiro de 2013, um cliente considerado incobrável em outubro de 2012 pagou
+uma duplicata no valor de R$ 3.000,00. O lançamento contábil referente ao
+pagamento do cliente gerou um
+a) débito em PCLD.
+b) crédito em PCLD.
+c) crédito em Duplicatas a Receber.
+d) crédito em Receita de Vendas.
+e) crédito em Outras Receitas Operacionais.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   18. (FCC/SEFAZ-PI/ 2015)
+A Cia. Vende a Prazo S.A. apresentava em seu Balanço Patrimonial de 31/12/2013
+os seguintes saldos relativos às suas vendas a prazo:
+
+− Duplicatas a Receber de Clientes: R$ 500.000,00
+− Estimativa para Perdas com Créditos de Liquidação Duvidosa (EPCLD): R$
+25.000,00
+
+Em fevereiro de 2014, a Cia. Vende a Prazo S.A. foi informada de que um
+importante cliente não tinha condições de saldar a sua dívida no valor de R$
+20.000,00 que foi considerada incobrável.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+Ao reconhecer este evento, a Cia. Vende a Prazo S.A.
+
+  a) reduziu o saldo total do Ativo.
+
+  b) reconheceu uma Perda com Clientes no resultado do período.
+
+  c) creditou a conta EPCLD e debitou o Resultado do período.
+
+  d) reduziu o Patrimônio Líquido.
+
+  e) reduziu o saldo de Duplicatas a Receber de Clientes.
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   19. (FCC/SEFAZ-SC/2018)
+A empresa Solaris possuía as seguintes contas com os respectivos saldos em
+31/12/2017: Duplicatas a Receber de Clientes: R$ 600.000,00; Estimativa de Perdas
+com Créditos de Liquidação Duvidosa: R$ 10.000,00; Caixa e Equivalentes de Caixa:
+R$ 110.000,00; Contas a Pagar: R$ 150.000,00 e Patrimônio Líquido: R$ 550.000,00.
+No entanto, antes do encerramento do período, a empresa realizou as seguintes
+transações em 31/12/2017:
+
+− Desconto de uma duplicata de R$ 150.000,00, 30 dias antes do vencimento, com
+taxa de desconto comercial de 7% ao mês.
+− Reconhecimento da estimativa de perdas com créditos de liquidação duvidosa. A
+empresa possui conhecimento de que 5% dos seus clientes nunca pagam suas
+dívidas.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   Ao elaborar o balanço patrimonial de 31/12/2017, o total do ativo e o valor do
+   passivo (capital de terceiros) da empresa Solaris eram, respectivamente, em reais,
+
+    a) 819.500,00 e 289.500,00.
+
+    b) 680.000,00 e 150.000,00.
+
+    c) 819.500,00 e 269.500,00.
+
+    d) 809.500,00 e 289.500,00.
+
+    e) 809.500,00 e 300.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                                  
+
+
+---
+
+   20. (IBFC/MGS/2015)
+Uma sociedade empresária apresentou os seguintes saldos no Ativo Circulante em
+30/09/X4:
+
+Contas a receber                                         R$ 180.000,00
+(-) Provisão para Devedores Duvidosos                      R$ 15.000,00
+
+Em 10/X4, foi recebido o valor de R$ 164.000,00, proveniente do saldo existente
+em 30/09/X4, e a diferença foi considerada incobrável, sendo que não existe
+possibilidades de recebimento deste valor.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+Com relação aos efeitos desta movimentação, pode-se afirmar que:
+ a) Deverá ser reconhecida, adicionalmente, uma perda complementar no valor de
+R$ 16.000,00.
+b) Deverá ser reconhecido um desconto financeiro no valor de R$ 16.000,00.
+c) Deverá ser reconhecido um abatimento no valor de R$ 1.000,00.
+ d) Deverá ser reconhecida, adicionalmente, uma perda complementar no valor de
+R$ 1.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   21. (FCC/TCE-RS/2014)
+A empresa Egito & Lima S.A. estima as perdas com créditos de liquidação duvidosa
+com base no saldo a receber das vendas realizadas a prazo. Nos últimos cinco anos,
+o percentual aplicado sobre o saldo a receber foi de 8%.
+
+Os saldos de algumas contas em 31/12/2012 eram os seguintes:
+− Disponível: R$ 20.000,00
+− Clientes: R$ 200.000,00
+− Estimativa de Perdas com Créditos de Liquidação Duvidosa (EPCLD): R$
+16.000,00
+− Estoques: R$ 950.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ Durante o exercício de 2013, ocorreram os seguintes eventos:
+
+ − A Dinamarca Ltda. decretou falência e sua dívida de R$ 40.000,00 teve de ser
+ considerada incobrável.
+ − O valor de R$ 24.000,00 devido por um cliente, que havia sido considerado
+ incobrável há mais de três anos, foi recebido durante o ano.
+ − Por um grave problema financeiro, a Suécia Ltda. teve de ser considerada incobrável.
+ Sua dívida era de R$ 10.000,00.
+ − As vendas totais em 2013 foram de R$ 400.000,00, das quais, 20% foram realizadas a
+ prazo e o custo das mercadorias vendidas foi de R$ 150.000,00.
+ − O saldo remanescente da conta Clientes existente em 31/12/2012 não foi recebido
+ durante o ano.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ Após essas operações, o saldo da conta EPCLD no balanço patrimonial de 2013
+ será, em reais,
+
+   a) 2.400,00
+
+   b) 20.320,00
+
+   c) 52.400,00
+
+   d) 34.000,00
+
+   e) 18.400,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+---

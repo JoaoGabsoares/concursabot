@@ -1,0 +1,1660 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 06_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: RETA FINAL – CAMARA DOS
+---
+
+# RETA FINAL – CAMARA DOS
+
+---
+
+---
+
+RETA FINAL – CAMARA DOS
+       DEPUTADOS
+                                           Prof. Adolfo Sá (vídeos)
+
+                                                    @adolfo.sa.9
+
+                                           Prof. Ena Smith (pdfs)
+
+
+      
+
+
+---
+
+TEXTS
+
+
+                                             Prof. Adolfo Sá
+
+        
+
+
+---
+
+Inglês – Adolfo Sá
+                      Innovation is the new key to survival
+                                               [...]
+At its most basic, innovation presents an optimal strategy for controlling costs.
+Companies that have invested in such technologies as remote mining,
+autonomous equipment and driverless trucks and trains have reduced expenses
+by orders of magnitude, while simultaneously driving up productivity.
+
+
+Yet, gazing towards the horizon, it is rapidly becoming clear that innovation can do
+much more than reduce capital intensity. Approached strategically, it also has the
+power to reduce people and energy intensity, while increasing mining intensity.
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Capturing the learnings
+ The key is to think of innovation as much more than research and development
+(R&D) around particular processes or technologies. Companies can, in fact,
+innovate in multiple ways, such as leveraging supplier knowledge around specific
+operational challenges, redefining their participation in the energy value chain or
+finding new ways to engage and partner with major stakeholders and
+constituencies.
+  To reap these rewards, however, mining companies must overcome their
+traditionally conservative tendencies. In many cases, miners struggle to adopt
+technologies proven to work at other mining companies, let alone those from
+other industries. As a result, innovation becomes less of a technology problem and
+more of an adoption problem.
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Capturing the learnings
+ The key is to think of innovation as much more than research and development
+(R&D) around particular processes or technologies. Companies can, in fact,
+innovate in multiple ways, such as leveraging supplier knowledge around specific
+operational challenges, redefining their participation in the energy value chain or
+finding new ways to engage and partner with major stakeholders and
+constituencies.
+  To reap these rewards, however, mining companies must overcome their
+traditionally conservative tendencies. In many cases, miners struggle to adopt
+technologies proven to work at other mining companies, let alone those from
+other industries. As a result, innovation becomes less of a technology problem and
+more of an adoption problem.
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+By breaking this mindset, mining companies can free themselves to adapt practical
+applications that already exist in other industries and apply them to fit their
+current needs. For instance, the tunnel boring machines used by civil engineers
+to excavate the Chunnel can vastly reduce miners’ reliance on explosives. Until
+recently, those machines were too large to apply in a mining setting. Some
+innovators, however, are now incorporating the underlying technology to build
+smaller machines—effectively adapting mature solutions from other industries to
+realize more rapid results.
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Re-imagining the future
+ At the same time, innovation mandates companies to think in entirely new ways.
+Traditionally, for instance, miners have focused on extracting higher grades and achieving
+faster throughput by optimizing the pit, schedule, product mix and logistics. A truly
+innovative mindset, however, will see them adopt an entirely new design paradigm that
+leverages new information, mining and energy technologies to maximize value. [...]
+ Approached in this way, innovation can drive more than cost reduction. It can help mining
+companies mitigate and manage risks, strengthen business models and foster more
+effective community and government relations. It can help mining services companies
+enhance their value to the industry by developing new products and services. Longer-term,
+it can even position organizations to move the needle on such endemic issues as corporate
+social responsibility, environmental performance and sustainability.
+(http://www2.deloitte.com/content/dam/Deloitte/ru/Documents/energyresources/ru_er_
+tracking_the_trends_2015_eng.pdf)
+
+                                
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+01 When companies invest in “remote mining, autonomous equipment and
+driverless trucks and trains” (l. 3-4), it is clear that their goal is to:
+
+
+(A) downsize the pay roll;
+(B) decrease the speed of extraction;
+(C) learn more technological strategies;
+(D) buy machines which require man-power;
+(E) spend more in equipment maintenance.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+01 When companies invest in “remote mining, autonomous equipment and
+driverless trucks and trains” (l. 3-4), it is clear that their goal is to:
+
+
+(A) downsize the pay roll;
+(B) decrease the speed of extraction;
+(C) learn more technological strategies;
+(D) buy machines which require man-power;
+(E) spend more in equipment maintenance.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+02 The fragment “To reap these rewards” (l. 17) means to:
+
+
+(A) maintain old practices;
+(B) get unexpected results;
+(C) achieve desired benefits;
+(D) offer better job conditions;
+(E) win international competitions.
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+02 The fragment “To reap these rewards” (l. 17) means to:
+
+
+(A) maintain old practices;
+(B) get unexpected results;
+(C) achieve desired benefits;
+(D) offer better job conditions;
+(E) win international competitions.
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+
+
+(A) cut in;
+(B) cut off;
+(C) cut out;
+(D) cut loose;
+(E) cut back on.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+
+
+(A) cut in;= fechar, interromper, dividir, incluir
+(B) cut off;= interromper, cortar, desligar, isolar (algo/alguém)
+(C) cut out;= cortar, parar de fazer algo
+(D) cut loose;= separar, desligar, soltar-se, libertar-se, liberar-se
+(E) cut back on.= reduzir, diminuir, economizar por reduzir
+
+                                
+
+
+---
+
+Inglês – Adolfo Sá
+03 The verb “reduce” in “reduce capital intensity” (l. 7) has the same meaning as:
+
+
+(A) cut in;
+(B) cut off;
+(C) cut out;
+(D) cut loose;
+(E) cut back on.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+
+
+(A) current needs;
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+(A) current needs;
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+By breaking this mindset, mining companies can free themselves to adapt
+practical applications that already exist in other industries and apply them to fit
+their current needs.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+(A) current needs;
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+By breaking this mindset, mining companies can free themselves to adapt
+practical applications that already exist in other industries and apply them to fit
+their current needs.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+04 The word “them” in “apply them to fit” (l. 25) refers to:
+
+
+(A) current needs;
+(B) other industries;
+(C) mining companies;
+(D) practical applications;
+(E) tunnel boring machines.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+05 “For instance” in “Traditionally, for instance, miners have focused on
+extracting” (l. 34-35) is used to:
+
+
+(A) justify;
+(B) explain;
+(C) exemplify;
+(D) enumerate;
+(E) summarize.
+
+                          
+
+
+---
+
+Inglês – Adolfo Sá
+05 “For instance” in “Traditionally, for instance, miners have focused on
+extracting” (l. 34-35) is used to:
+
+
+(A) justify;
+(B) explain;
+(C) exemplify;
+(D) enumerate;
+(E) summarize.
+
+                          
+
+
+---
+
+TEXTS
+
+
+                                             Prof. Adolfo Sá
+
+        
+
+
+---
+
+Inglês – Adolfo Sá
+                 Governance Challenges for the Internet of Things
+
+
+           Virgilio A.F. Almeida -Federal University of Minas Gerais, Brazil
+                  Danilo Doneda - Rio de Janeiro State University
+                  Marília Monteiro - Public Law Institute of Brasília
+                  Published by the IEEE Computer Society © 2015
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+The future will be rich with sensors capable of collecting vast amounts of
+information. The Internet will be almost fused with the physical world, as the
+Internet of Things (IoT) becomes a reality. Although it’s just beginning, experts
+estimate that by the end of 2015 there will be around 25 billion “things”
+connected to the global Internet. By 2025, the estimated number of connected
+devices should reach 100 billion. These estimates include smartphones, vehicles,
+appliances, and industrial equipment. Privacy, security, and safety fears grow as
+the IoT creates conditions for increasing surveillance by governments and
+corporations. So the question is: Will the IoT be good for the many, or the mighty
+few?
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+While technological aspects of the IoT have been extensively published in the
+technical literature, few studies have addressed the IoT’s social and political
+impacts. Two studies have shed light on challenges for the future with the IoT. In
+2013, the European Commission (EC) published a study focusing on relevant
+aspects for possible IoT governance regimes. The EC report identified many
+challenges for IoT governance — namely privacy, security, ethics, and competition.
+In 2015, the US Federal Trade Commission (FTC) published the FTC Staff Report
+The Internet of Things: Privacy and Security in a Connected World. Although the
+report emphasizes the various benefits that the IoT will bring to consumers and
+citizens, it acknowledges that there are many risks associated with deploying IoT-
+based applications, especially in the realm of privacy and security.
+[...]
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+The nature of privacy and security problems frequently associated with the IoT
+indicates that further research, analysis, and discussion are needed to identify
+possible solutions. First, the introduction of security and privacy elements in the
+very design of sensors, implementing Privacy by Design, must be taken into
+account for outcomes such as the homologation process of sensors by competent
+authorities. Even if the privacy governance of IoT can oversee the control centers
+for collected data, we must develop concrete means to set limits on the amount
+or nature of the personal data collected.
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Other critical issues regard notification and consent. If, from one side, it’s true that several
+sensors are already collecting as much personal data as possible, something must be done
+to increase citizens’ awareness of these data collection processes. Citizens must have
+means to take measures to protect their rights whenever necessary. If future scenarios
+indicate the inadequacy of a mere notice-and-consent approach, alternatives must be
+presented so that the individual’s autonomy isn’t eroded.
+ As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus. Privacy and ethics aren’t natural aspects to be
+considered in technology’s agenda. However, these features are essential to build the
+necessary trust in an IoT ecosystem, making it compatible with human rights and ensuring
+that it’s drafted at the measure, and not at the expense, of people.
+(Source: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Retrieved on
+January 23rd, 2018)
+
+                                  
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+09. Mark the statements below as true (T) or false (F) according to the text :
+
+( ) There are already many studies on the social and political effects of the IoT.
+( ) Research studies on security and privacy still need to be carried out.
+( ) The report from the US Federal Trade Commission supported the unrestricted
+use of the IoT.
+
+(A) F – T – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) T – F – F.
+
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+09. Mark the statements below as true (T) or false (F) according to the text :
+(F ) There are already many studies on the social and political effects of the IoT.
+While technological aspects of the IoT have been extensively published in the
+technical literature, few studies have addressed the IoT’s social and political
+impacts.
+( T) Research studies on security and privacy still need to be carried out.
+( F) The report from the US Federal Trade Commission supported the unrestricted
+use of the IoT.
+In 2015, the US Federal Trade Commission (FTC) published the FTC Staff Report
+The Internet of Things: Privacy and Security in a Connected World. Although the
+report emphasizes the various benefits that the IoT will bring to consumers and
+citizens, it acknowledges that there are many risks associated with deploying IoT-
+based applications, especially in the realm of privacy and security.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+09. Mark the statements below as true (T) or false (F) according to the text :
+
+( ) There are already many studies on the social and political effects of the IoT.
+( ) Research studies on security and privacy still need to be carried out.
+( ) The report from the US Federal Trade Commission supported the unrestricted
+use of the IoT.
+
+(A) F – T – F.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – F – T.
+(E) T – F – F.
+
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+10. The first paragraph opens and ends, in this order, with
+
+
+(a) a query and a solution.
+(b) a forecast and a doubt.
+(c) a prediction and a realization.
+(d) a contradiction and a problem.
+(e) an objection and an explanation.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+The future will be rich with sensors capable of collecting vast amounts of
+information. The Internet will be almost fused with the physical world, as the
+Internet of Things (IoT) becomes a reality. Although it’s just beginning, experts
+estimate that by the end of 2015 there will be around 25 billion “things”
+connected to the global Internet. By 2025, the estimated number of connected
+devices should reach 100 billion. These estimates include smartphones, vehicles,
+appliances, and industrial equipment. Privacy, security, and safety fears grow as
+the IoT creates conditions for increasing surveillance by governments and
+corporations. So the question is: Will the IoT be good for the many, or the mighty
+few?
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+10. The first paragraph opens and ends, in this order, with
+
+
+(a) a query and a solution.
+(b) a forecast and a doubt.
+(c) a prediction and a realization.
+(d) a contradiction and a problem.
+(e) an objection and an explanation.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+11. The word “several” in “it’s true that several sensors are already collecting as
+much personal data as possible” (fourth paragraph) is a synonym for
+
+
+(a) few.
+(b) precise.
+(c) sensitive.
+(d) important.
+(e) numerous.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+11. The word “several” in “it’s true that several sensors are already collecting as
+much personal data as possible” (fourth paragraph) is a synonym for
+
+
+(a) few.
+(b) precise.
+(c) sensitive.
+(d) important.
+(e) numerous.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+12. The word “However” in “However, these features are essential to build the
+necessary trust in an IoT ecosystem,” (fourth paragraph) is a synonym for
+
+
+a) Moreover.
+b) Thus.
+c) In conclusion.
+d) Nevertheless.
+e) Therefore.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+12. The word “However” in “However, these features are essential to build the
+necessary trust in an IoT ecosystem,” (fourth paragraph) is a synonym for
+
+
+a) Moreover.
+b) Thus.
+c) In conclusion.
+d) Nevertheless.
+e) Therefore.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+13. The text concludes that, if the IoT ecosystem is to be trusted, it should focus on
+the needs of
+
+
+(a) citizens.
+(b) specialists.
+(c) authorities.
+(d) corporations.
+(e) governments.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+Other critical issues regard notification and consent. If, from one side, it’s true that several
+sensors are already collecting as much personal data as possible, something must be done
+to increase citizens’ awareness of these data collection processes. Citizens must have
+means to take measures to protect their rights whenever necessary. If future scenarios
+indicate the inadequacy of a mere notice-and-consent approach, alternatives must be
+presented so that the individual’s autonomy isn’t eroded.
+ As with other technologies that aim to change human life, the IoT must be in all respects
+designed with people as its central focus. Privacy and ethics aren’t natural aspects to be
+considered in technology’s agenda. However, these features are essential to build the
+necessary trust in an IoT ecosystem, making it compatible with human rights and ensuring
+that it’s drafted at the measure, and not at the expense, of people.
+(Source: https://cyber.harvard.edu/~valmeida/pdf/IoT-governance.pdf Retrieved on
+January 23rd, 2018)
+
+                                  
+
+
+---
+
+Inglês – Adolfo Sá
+13. The text concludes that, if the IoT ecosystem is to be trusted, it should focus on
+the needs of
+
+
+(a) citizens.
+(b) specialists.
+(c) authorities.
+(d) corporations.
+(e) governments.
+
+                              
+
+
+---
+
+CONJUNCTIONS
+
+
+                                            Prof. Adolfo Sá
+
+       
+
+
+---
+
+                AND = ADDITION
+
+• besides
+• Furthermore
+• moreover
+
+                 
+
+
+---
+
+                 AND = ADDITION
+
+• This house is on the best street in the neighborhood;
+  furthermore, it has easy access to the highway.
+• His report was poorly written and, moreover, it had no
+  real substance.
+• I don't have time to go to the party tonight. Besides,
+  I'm not feeling well.
+
+
+                    
+
+
+---
+
+     BUT = OPPOSITION / CONTRAST
+
+He wanted to go to the beach, but it started raining.
+
+                 
+
+
+---
+
+          BUT = OPPOSITION / CONTRAST
+
+•   but
+•   however
+•   nevertheless
+•   Nonetheless
+•   Yet (início de oração)
+
+                      
+
+
+---
+
+        BUT = OPPOSITION / CONTRAST
+
+• My salary is really low, nevertheless I find the work
+  incredibly rewarding.
+• They planned to go on a vacation; however, their flight
+  got canceled.
+• She studied for hours, yet she couldn't grasp the
+  concept.
+
+
+                    
+
+
+---
+
+                SO = CONCLUSION
+
+•   So
+•   hence
+•   therefore
+•   thus
+
+                  
+
+
+---
+
+                 SO = CONCLUSION
+
+• The roads were covered in ice; hence it was not safe to
+  drive.
+• He was the tallest one there and thus the one they
+  asked to hang the ornaments at the top of the tree.
+• The power was out to the whole office building,
+  and therefore they could not get any work done.
+
+
+                    
+
+
+---
+
+              CONCESSION
+
+Although it was raining, he went to the beach.
+
+              
+
+
+---
+
+  Although it was raining, he went to the beach.
+
+He wanted to go to the beach, but it started raining.
+
+
+                 
+
+
+---
+
+                       CONCESSION
+                                                          OPOSIÇÃO FRACA
+                                                    QUEBRA NA EXPECTATIVA
+
+•   though
+•   although
+•   even though
+•   while
+•   despite / in spite of
+                       
+
+
+---
+
+                  CONCESSION
+• Although she was far away, she could see that he was
+  watching her.
+• Although she was exhausted, sleep didn't come.
+• There were so many people to talk. He was quiet,
+  though.
+
+                    
+
+
+---
+
+                       CONCESSION
+•   He appeared relaxed, despite the danger.
+•   I passed all of my exams despite the fact that I never
+    studied.
+•   In spite of being late, he arrived in time.
+•   While I thought it was going to rain after lunch, it
+    didn't.
+
+                      
+
+
+---
+
+                     REASON
+•   because
+•   since
+•   why
+•   due to
+•   as
+
+              
+
+
+---
+
+                       REASON
+• Due to the bad weather, the match was cancelled.
+• She decided to stay home since she was feeling tired.
+• Since / because / As I had an invitation card, I was
+  allowed to get in.
+
+                    
+
+
+---
+
+                      CONDITION
+•   if
+•   only if
+•   unless
+•   provided that
+•   assuming that
+
+                    
+
+
+---
+
+                        CONDITION
+• If it rains, we will bring umbrellas.
+• We won't go to the park unless it stops raining.
+• We'll be there at about 7.30, provided that / assuming
+  that there's a suitable train.
+
+                    
+
+
+---
+
+                              TIME
+ She was in a bad car accident when she was young.
+ We can’t play loud music after everyone has gone to bed
+ Brush your teeth before you go to bed.
+ I’ll wait for you until the bus comes.
+ I’ll call you once I arrive
+ Whenever you need me, you just have to call me.
+ We always have an ice cream as soon as we get to the
+  beach.
+                    
+
+
+---
+
+                          TIME
+• I haven't seen her since last year.
+• I was listening to music while my mother was cooking
+  dinner.
+• He worked on the project as long as he could, but
+  eventually, he had to take a break.
+
+                    
+
+
+---
+
+•   I haven't seen her since last year.
+•   I was listening to music while my mother was cooking dinner.
+•   He worked on the project as long as he could, but eventually, he
+    had to take a break.
+
+                                 X
+• Since he was sick, he didn’t go to school.
+• While she has talent, she lacks the necessary experience for the
+   role.
+• You can borrow my car as long as you return it by tomorrow.
+
+                        
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+          Here’s why we’ll never be able to build a brain in a computer
+ It’s easy to equate brains and computers – they’re both thinking machines, after
+all. But the comparison doesn’t really stand up to closer inspection, as Dr. Lisa
+Feldman Barrett reveals.
+People often describe the brain as a computer, as if neurons are like hardware and
+the mind is software. But this metaphor is deeply flawed.
+ A computer is built from static parts, whereas your brain constantly rewires itself
+as you age and learn. A computer stores information in files that are retrieved
+exactly, but brains don’t store information in any literal sense. Your memory is a
+constant construction of electrical pulses and swirling chemicals, and the same
+remembrance can be reassembled in different ways at different times.
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Brains also do something critical that computers today can’t. A computer can be
+trained with thousands of photographs to recognise a dandelion as a plant with
+green leaves and yellow petals. You, however, can look at a dandelion and
+understand that in different situations it belongs to different categories. A
+dandelion in your vegetable garden is a weed, but in a bouquet from your child it’s
+a delightful flower. A dandelion in a salad is food, but people also consume
+dandelions as herbal medicine.
+
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+In other words, your brain effortlessly categorises objects by their function, not
+just their physical form. Some scientists believe that this incredible ability of the
+brain, called ad-hoc category construction, may be fundamental to the way brains
+work.
+
+
+Also, unlike a computer, your brain isn’t a bunch of parts in an empty case. Your
+brain inhabits a body, a complex web of systems that include over 600 muscles in
+motion, internal organs, a heart that pumps 7,500 litres of blood per day, and
+dozens of hormones and other chemicals, all of which must be coordinated,
+continually, to digest food, excrete waste, provide energy and fight illness.[...]
+
+                              
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+If we want a computer that thinks, feels, sees or acts like us, it must regulate a
+body – or something like a body – with a complex collection of systems that it
+must keep in balance to continue operating, and with sensations to keep that
+regulation in check. Today’s computers don’t work this way, but perhaps some
+engineers can come up with something that’s enough like a body to provide this
+necessary ingredient.
+ For now, ‘brain as computer’ remains just a metaphor. Metaphors can be
+wonderful for explaining complex topics in simple terms, but they fail when
+people treat the metaphor as an explanation. Metaphors provide the illusion of
+knowledge.
+(Adapted from https://www.sciencefocus.com/future-technology/can- we-build-
+brain-computer/ Published: 24th October, 2021, retrieved on February 9th, 2022)
+                             
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+24 The title of the text implies that the author will:
+
+
+(A) report an event;
+(B) provide some advice;
+(C) support an argument;
+(D) give a few instructions;
+(E) complain about a proposal.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+24 The title of the text implies that the author will:
+    Here’s why we’ll never be able to build a brain in a computer
+(A) report an event;
+(B) provide some advice;
+(C) support an argument;
+(D) give a few instructions;
+(E) complain about a proposal.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+24 The title of the text implies that the author will:
+
+
+(A) report an event;
+(B) provide some advice;
+(C) support an argument;
+(D) give a few instructions;
+(E) complain about a proposal.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+25 Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+ ( ) Unlike a computer, it is hard for our brain to classify objects according to a
+specific purpose.
+( ) The author rules out the possibility that computers may emulate the human
+brain someday.
+( ) The brain adapts as one both matures and becomes more knowledgeable.
+
+The statements are, respectively:
+ (A) F – T – T;
+(B) T – F – F;
+(C) F – T – F;
+(D) F – F – T;
+(E) T – T – F.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+25 Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+ ( ) Unlike a computer, it is hard for our brain to classify objects according to a
+specific purpose.
+( ) The author rules out the possibility that computers may emulate the human
+brain someday.
+( ) The brain adapts as one both matures and becomes more knowledgeable.
+
+The statements are, respectively:
+ (A) F – T – T;
+(B) T – F – F;
+(C) F – T – F;
+(D) F – F – T;
+(E) T – T – F.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+26 According to the author, explaining the brain as a computer is:
+
+
+(A) inaccurate;
+(B) impartial;
+(C) faultless;
+(D) reliable;
+(E) precise.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+26 According to the author, explaining the brain as a computer is:
+ (A) inaccurate;
+(B) impartial;
+(C) faultless;
+(D) reliable;
+(E) precise.
+It’s easy to equate brains and computers – they’re both thinking machines, after all. But
+the comparison doesn’t really stand up to closer inspection, as Dr. Lisa Feldman Barrett
+reveals. People often describe the brain as a computer, as if neurons are like hardware
+and the mind is software. But this metaphor is deeply flawed.
+[...]
+For now, ‘brain as computer’ remains just a metaphor. Metaphors can be wonderful for
+explaining complex topics in simple terms, but they fail when people treat the metaphor
+as an explanation. Metaphors provide the illusion of knowledge.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+26 According to the author, explaining the brain as a computer is:
+
+
+(A) inaccurate;
+(B) impartial;
+(C) faultless;
+(D) reliable;
+(E) precise.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+27 “Whereas” in “A computer is built from static parts, whereas your brain
+constantly rewires itself as you age and learn” introduces a (n):
+
+
+(A) cause;
+(B) contrast;
+(C) condition;
+(D) illustration;
+(E) explanation.
+
+                          
+
+
+---
+
+Inglês – Adolfo Sá
+27 “Whereas” in “A computer is built from static parts, whereas your brain
+constantly rewires itself as you age and learn” introduces a (n):
+
+
+(A) cause;
+(B) contrast;
+(C) condition;
+(D) illustration;
+(E) explanation.
+
+                          
+
+
+---
+
+Inglês – Adolfo Sá
+28 The passage in which the verb phrase indicates a necessity is:
+
+
+(A) “this incredible ability of the brain [...] may be fundamental”;
+(B) “some engineers can come up with something”;
+(C) “computers don’t work this way”;
+(D) “brains don’t store information”;
+(E) “it must regulate a body”.
+
+                                 
+
+
+---
+
+Inglês – Adolfo Sá
+28 The passage in which the verb phrase indicates a necessity is:
+
+
+(A) “this incredible ability of the brain [...] may be fundamental”;
+(B) “some engineers can come up with something”;
+(C) “computers don’t work this way”;
+(D) “brains don’t store information”;
+(E) “it must regulate a body”.
+
+                               
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+How does a lawyer snatch defeat from the jaws of victory? The answer may surprise some
+lawyers, according to research company Research One.
+ In 7 years of providing specialist legal research, writing, and analysis services to lawyers
+worldwide, multi-award winning research company Research One has compiled the best
+information there is on why some lawyers lose “unlosable” cases, cases where everything
+points 9 to a good outcome — law, history, policy, and basic fairness — yet the court still
+decides the other way. CEO, Troy Simpson, says the commonest mistake lawyers make is to
+raise every argument imaginable. “The fear of losing a case compels lawyers to raise every
+argument conceivable. It may seem counter-intuitive, and might contradict what you’re
+taught in law school, but raising a mishmash of legal theories in fact creates an even bigger
+risk for a lawyer. Unless you find the real point of the case and toss out the arguments that
+have no legs, then you risk diverting the court’s attention and you dilute the strength of
+your ‘real’ argument”, Simpson says.
+
+
+                                 
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+Forgetting to look outside your area of expertise is also high on the list of ways to lose the
+unlosable case. “No lawyer can master every area of law, so lawyers compartmentalize the
+law and focus on 1 or 2 areas of expertise. But the law can’t be so neatly contained, which
+means you may miss a winning argument if it’s outside your experience”, Simpson says...
+ Several deeper problems affect lawyers’ success rates, according to Research One. The first
+problem is lawyers’ shortage of time: “You may have no time to think through your
+argument properly, but deadlines push you on. So you paper over the gaps in logic and
+end-up presenting nonsense”. Second, too many lawyers work in noisy and busy
+environments, poorly suited to the work of lawyers: “It’s hard to think in the hustle and
+bustle of big cities. The work of a good thinker is quiet and unhurried.” The third problem is
+a lack of objectivity: “When you’re anxious for a particular result, you may sometimes not
+look as objectively at a legal problem or legal argument as you should”, Simpson says.
+
+                                 
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+To confront these and other problems, lawyers around the common law world are
+finding their way to a new resource that aims to reduce the risk of making
+potentially costly and embarrassing mistakes. The resource is Win More Cases:
+The Lawyer’s Toolkit, a groundbreaking 200-page step-by-step guide on solving
+legal problems persuasively in writing.
+(http://www.research- one.com.au/Portals/0/PressRelease_HardCopy_7.pdf)
+
+                           
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+01 The research company mentioned says that three main problems affect
+lawyers’ success, one of which is
+
+
+(A) lofty offices.
+(B) unfit conditions.
+(C) unlucky circumstances.
+(D) unsafe surroundings.
+(E) embarrassing spots.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+Forgetting to look outside your area of expertise is also high on the list of ways to lose the
+unlosable case. “No lawyer can master every area of law, so lawyers compartmentalize the
+law and focus on 1 or 2 areas of expertise. But the law can’t be so neatly contained, which
+means you may miss a winning argument if it’s outside your experience”, Simpson says...
+ Several deeper problems affect lawyers’ success rates, according to Research One. The first
+problem is lawyers’ shortage of time: “You may have no time to think through your
+argument properly, but deadlines push you on. So you paper over the gaps in logic and
+end-up presenting nonsense”. Second, too many lawyers work in noisy and busy
+environments, poorly suited to the work of lawyers: “It’s hard to think in the hustle and
+bustle of big cities. The work of a good thinker is quiet and unhurried.” The third problem is
+a lack of objectivity: “When you’re anxious for a particular result, you may sometimes not
+look as objectively at a legal problem or legal argument as you should”, Simpson says.
+
+                                 
+
+
+---
+
+Inglês – Adolfo Sá
+01 The research company mentioned says that three main problems affect
+lawyers’ success, one of which is
+
+
+(A) lofty offices.
+(B) unfit conditions.
+(C) unlucky circumstances.
+(D) unsafe surroundings.
+(E) embarrassing spots.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+03 In “yet the court still decide the other way” (lines 9 and 10) yet can be replaced
+by
+
+
+(A) Moreover
+(B) hitherto.
+(C) until.
+(D) however.
+(E) henceforth.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+03 In “yet the court still decide the other way” (lines 9 and 10) yet can be replaced
+by
+
+
+(A) moreover. – além disso
+(B) hitherto. – até agora
+(C) until. – até
+(D) however. – entretanto
+(E) henceforth. – daqui por diante
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+03 In “yet the court still decide the other way” (lines 9 and 10) yet can be replaced
+by
+
+
+(A) Moreover
+(B) hitherto.
+(C) until.
+(D)however.
+(E) henceforth.
+
+                              
+
+
+---
+
+Inglês – Adolfo Sá
+04 When the text informs that the court may decide “the other way” (line10), this
+means the decision may be
+
+
+(A) fair.
+(B) favorable.
+(C) unchanged.
+(D) unexpected.
+(E) unbiased.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+04 When the text informs that the court may decide “the other way” (line10), this
+means the decision may be
+
+
+(A) fair.
+(B) favorable.
+(C) unchanged.
+(D)unexpected.
+(E) unbiased.
+
+                             
+
+
+---
+
+TEXTOS
+
+
+                                              Prof. Adolfo Sá
+
+         
+
+
+---
+
+Inglês – Adolfo Sá
+                     In Europe, Weber still rules
+                               Statecrafting
+                                                          Steven Van de Walle
+
+                     
+
+
+---
+
+Inglês – Adolfo Sá
+After 30 years of public administration reform in European countries inspired by New
+Public Management ideas, traditional Weberian administration still is the main
+organizing principle. This is the picture that emerges from a large-scale survey among
+the entire population of top civil servants in 18 European countries. The findings have
+now been published in our book — Public Administration Reforms in Europe: The View
+from the Top.
+True, many tools and management practices associated with the NPM such as staff
+performance talks or management by objectives have become very common. Across all
+countries, the almost 7000 top civil servants we surveyed list achieving results and
+ensuring an efficient use of resources among the most important roles they have. They
+are also in agreement that, compared to five years ago, the public sector has made
+major progress in terms of efficiency and service quality — two main objectives of the
+NPM.
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+There are ‘NPM champions’ — countries that have gone further than others in
+reforming the Weberian state. Think the UK or the Netherlands, where public
+employment is increasingly normalised, and delivery contracted out. But even there,
+the structures of traditional public administration remain firmly in place.
+Some elements of the NPM are still mainly absent from current management practice
+in European countries. Internal steering by contract is not very common, and
+performance related pay is very rare despite the popularity in reform talk. The weak
+presence of flexible employment also shows that the Weberian model still dominates.
+Despite attempts to normalize public employment in some countries, civil servants still
+enjoy a unique statute. We also observed this during the fiscal crisis, where outright
+firing permanent civil servants or cutting salaries has been relatively rare.
+
+                               
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+For civil servants, referring issues upwards in the hierarchy is still the dominant response in
+situations when responsibilities or interests conflict with that of other organisations.
+European top civil servants consider the impartial implementation of laws and rules as one
+of their dominant roles, and largely prefer state provision of services over market provision,
+with the exception of the British, Danish, and Dutch.
+There are clear country differences, with management ‘champions’ such as the UK, Estonia,
+Norway and the Netherlands, and more legalistic and traditional public administrations
+such as in Austria, France, Germany, Hungary and Spain. The adoption of newer reform
+ideas suggest that the Weberian state may now be in decline. Yet some of the other
+findings of the survey, reported above, show that Weberianism’s main ideas are still deeply
+embedded in European countries.
+(Source: https://statecrafting.net/in-europe-weber-still-rules- a851866dbf02. Retrieved on
+January 21st, 2018)
+
+                                  
+
+
+---
+
+---
+
+Inglês – Adolfo Sá
+22. Text I compares New Public Management and Weberian administration. In this
+respect, analyse the following statements.
+I. The findings reported are not very telling as the sample is rather small.
+II. Some countries have made more progress than others in implementing NPM.
+III. The British, Danish, and Dutch showed a preference towards market provision.
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+22. Text I compares New Public Management and Weberian administration. In this
+respect, analyse the following statements.
+I. The findings reported are not very telling as the sample is rather small.
+II. Some countries have made more progress than others in implementing NPM.
+III. The British, Danish, and Dutch showed a preference towards market provision.
+Choose the correct answer:
+(A) only I is correct.
+(B) only II is correct.
+(C) only III is correct.
+(D) both I and II are correct.
+(E) both II and III are correct.
+
+                             
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+( ) Weberian ideals now belong to the past and are only used for historical
+interest.
+( ) Employment flexibility is one of the tenets of the New Public Management.
+
+The correct sequence is:
+(A) F – F – T.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( F ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+Some elements of the NPM are still mainly absent from current management
+practice in European countries. Internal steering by contract is not very common,
+and performance related pay is very rare despite the popularity in reform talk.
+( F ) Weberian ideals now belong to the past and are only used for historical interest.
+Yet some of the other findings of the survey, reported above, show that
+Weberianism’s main ideas are still deeply embedded in European countries.
+( T ) Employment flexibility is one of the tenets of the New Public Management.
+The weak presence of flexible employment also shows that the Weberian model
+still dominates.
+
+                               
+
+
+---
+
+Inglês – Adolfo Sá
+23. Mark the statements below as true (T) or false (F) according to Text I.
+( ) Internal steering by contract and performance related pay are two main ideas
+that come from Weber.
+( ) Weberian ideals now belong to the past and are only used for historical
+interest.
+( ) Employment flexibility is one of the tenets of the New Public Management.
+
+The correct sequence is:
+(A) F – F – T.
+(B) T – T – F.
+(C) F – T – T.
+(D) F – T – F.
+(E) T – F – F.
+
+                            
+
+
+---
+
+Inglês – Adolfo Sá
+24. The word “Despite” in the sentence “Despite attempts to normalize public
+employment in some countries” indicates
+
+
+(A) illustrative.
+(B) unexpected.
+(C) irrelevant.
+(D) universal.
+(E) private.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+24. The word “Despite” in the sentence “Despite attempts to normalize public
+employment in some countries” indicates
+
+
+(A) illustrative.
+(B) unexpected.
+(C) irrelevant.
+(D) universal.
+(E) private.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+25. The word “True” in “True, many tools and management practices associated
+with the NPM” has the same function as
+
+
+(A) meanwhile.
+(B) however.
+(C) indeed.
+(D) so far.
+(E) still.
+
+                           
+
+
+---
+
+Inglês – Adolfo Sá
+25. The word “True” in “True, many tools and management practices associated
+with the NPM” has the same function as
+
+
+(A) meanwhile.
+(B) however.
+(C) indeed.
+(D) so far.
+(E) still.
+
+                           
+
+
+---
+
+                                     @adolfo.sa.9
+
+---

@@ -1,0 +1,2036 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 17_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: Passo Estratégico de Direito Tributário
+artigos_citados:
+- Art. 177.
+- Artigo 152
+- Artigo 153
+- Artigo 155-A
+- Artigo 175
+- Artigo 178
+- Artigo 181
+- "artigo\n                        155."
+sumulas_citadas:
+- Súmula Vinculante 21
+- Súmula Vinculante 28
+---
+
+# Passo Estratégico de Direito Tributário
+
+Aula 16
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+                                              19 de Maio de 2023
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    SUSPENSÃO E EXCLUSÃO DO
+    CRÉDITO TRIBUTÁRIO
+
+
+    1. Palavras do Professor 
+    2. Análise Estatística 
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+    3. Roteiro de Revisão e Pontos que merecem Destaque 
+    4. Aposta Estratégica 
+    5. Questões Estratégicas 
+          QUESTÕES FGV
+    6. Questionário de Revisão 
+    7. Questões de Aula 
+          QUESTÕES FGV
+          GABARITO 
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre Suspensão da Exigibilidade do
+                           Crédito Tributário e Exclusão do Crédito Tributário.
+
+                           Vamos ver as hipóteses de Suspenção e de Exclusão do
+                           crédito Tributário, assim como suas características e
+    restrições, sempre mirando o que tem sido cobrado em prova.
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     2
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    2. ANÁLISE ESTATÍSTICA
+
+    Com base na análise estatística das questões de Concursos da Área Fiscal dos
+    últimos anos, temos o seguinte resultado para o(s) assunto(s) que serão
+    tratados neste relatório:
+
+                              Assunto do Edital                                       FGV
+
+              Suspensão da Exigibilidade do Crédito
+                           Tributário                                                 5,09%
+
+                              Assunto do Edital                                       FGV
+
+                     Exclusão do Crédito Tributário                                   4,58%
+
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos da Área Fiscal, que o assunto “Suspensão da Exigibilidade do
+    Crédito Tributário” possui importância Intermediária a Alta, tendo aparecido
+    em mais de 5% das questões da Banca.
+
+    Já o assunto “Exclusão do Crédito Tributário” possui importância
+    Intermediária a Alta, tendo aparecido em pouco mais de 4,5% das questões
+    da Banca.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           3
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                    % de Cobrança                                  Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+                                          Tópico                                           FGV
+          Isenção                                                                        26,09%
+
+          Parcelamento                                                                   21,74%
+
+          Anistia                                                                        13,04%
+
+          Moratória                                                                      17,39%
+
+          Depósito do Montante Integral                                                    8,68%
+
+          Concessão de Medida Liminar em Mandado de
+                                                                                           8,68%
+          Segurança
+
+          Demais tópicos de Suspensão e Exclusão                                           4,38%
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                4
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.
+
+    1. Suspendem a exigibilidade do Crédito Tributário:
+
+          ▪ MOratória;
+
+          ▪ DEpósito do seu montante integral;
+
+          ▪ REclamações e os REcursos, nos termos das leis reguladoras do
+             processo tributário administrativo;
+
+          ▪ COncessão de medida liminar em mandado de segurança.
+
+          ▪ COncessão de medida liminar ou de tutela antecipada, em outras
+             espécies de ação judicial;
+
+          ▪ PArcelamento.
+
+    Memorize: “MO DE RE RE CO CO PA”
+
+    2.      A Suspensão da exigibilidade do crédito não implica dispensa de
+    cumprimento das obrigações acessórias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    3. Caso a Suspensão ocorra antes do Lançamento, ainda assim é permitida a
+    constituição do crédito através do Lançamento, porém não pode ser feita a
+    Exigibilidade.
+
+    Caso a Suspensão seja feita após o Lançamento, a Exigibilidade se Suspende.
+
+    4. A Moratória consiste na dilatação do prazo para cumprimento da obrigação
+    (tanto para o pagamento do tributo, como da penalidade).
+
+    5. E a Moratória também pode ser concedida em caráter Individual, por
+    despacho da autoridade administrativa, desde que autorizada por LEI. (Precisa
+    de despacho da autoridade administrativa!!!)
+
+    6. A Moratória pode ser concedida em caráter Geral
+
+          ▪ pela pessoa a jurídica de direito público competente para instituir o
+             tributo a que se refira, ou
+
+          ▪ pela União, quanto a tributos de competência dos Estados, do Distrito
+             Federal       ou     dos     Municípios         (Moratória        Heterônoma),   quando
+             simultaneamente concedida quanto aos tributos de competência
+             federal e s obrigações de direito privado.
+
+    7. A Moratória concedida em caráter geral ocorre quando a lei generaliza os
+    sujeitos passivos que serão beneficiados, e desta forma, não há necessidade
+    de comprovação, nem despacho individual por parte da autoridade
+    administrativa.
+
+    8. A lei concessiva de moratória pode circunscrever expressamente a sua
+    aplicabilidade à determinada região do território da pessoa jurídica de direito
+    público que a expedir, ou a determinada classe ou categoria de sujeitos
+    passivos.
+
+    9. Salvo disposição de lei em contrário, a Moratória somente abrange os
+    créditos definitivamente constituídos à data da lei ou do despacho que a
+    conceder, ou cujo lançamento já tenha sido iniciado àquela data por ato
+    regularmente notificado ao sujeito passivo.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                    6
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    10. A Moratória não aproveita aos casos de dolo, fraude ou simulação do
+    sujeito passivo ou do terceiro em benefício daquele.
+
+    11.     Na concessão da Moratória em caráter individual, podem ser exigidas
+    garantidas do sujeito passivo.
+
+    12. A concessão de Moratória em caráter individual não gera direito adquirido
+    e será revogada de ofício, sempre que se apure que o beneficiado não
+    satisfazia ou deixou de satisfazer as condições ou não cumprira ou deixou de
+    cumprir os requisitos para a concessão do favor, cobrando-se o crédito
+    acrescido de juros de mora:
+
+          ▪ com imposição da penalidade cabível, nos casos de dolo ou simulação
+             do beneficiado, ou de terceiro em benefício daquele;
+          ▪ sem imposição de penalidade, nos demais casos.
+
+    13. A concessão de Moratória em caráter Geral gera direito adquirido.
+
+    14. Havendo dolo ou simulação, o tempo decorrido entre a concessão da
+    moratória e sua revogação não é contado para fins de prescrição.
+
+    Já se não houver dolo ou simulação, a revogação da moratória só pode ocorrer
+    antes de terminar o prazo prescricional.
+
+    15. O Parcelamento só pode ser concedido com base em Lei Específica.
+
+    16. Salvo disposição de lei em contrário, o Parcelamento do crédito tributário
+    não exclui a incidência de juros e multas.
+
+    17. Lei específica disporá sobre as condições de parcelamento dos créditos
+    tributários do devedor em recuperação judicial.
+
+    A inexistência da lei específica sobre o parcelamento do devedor em
+    recuperação judicial importa na aplicação das leis gerais de parcelamento do
+    ente da Federação ao devedor, não podendo, neste caso, ser o prazo de
+    parcelamento inferior ao concedido pela lei federal específica.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   7
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    18. As REclamações e os Recursos, que são hipóteses de Suspensão da
+    Exigibilidade do Crédito tributário, também aparecem em prova com o nome
+    Impugnação.
+
+    19. A suspensão do crédito tributária, no caso de Impugnação administrativa,
+    é temporária, ocorrendo apenas durante a análise do litígio.
+
+    Com a decisão administrativa final favorável ao sujeito passivo, o crédito
+    tributário se considera extinto. Já se a decisão for desfavorável ao sujeito
+    passivo, o crédito volta a se tornar exigível, incluindo-se os encargos
+    moratórios porventura devidos.
+
+    20. Súmula Vinculante 21 – “É inconstitucional a exigência de depósito ou
+    arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+    administrativo”.
+
+    21. Súmula STJ 373 – “É ilegítima a exigência de depósito prévio para
+    admissibilidade de recurso administrativo”.
+
+    Mas o sujeito passivo, caso deseje, pode efetuar o depósito do montante
+    integral na Via Administrativa, com o fim de evitar a fluência de juros de mora.
+
+    22. Na COncessão de medida liminar em mandado de segurança, a
+    exigibilidade do crédito tributário fica suspensa até a decisão.
+
+    Caso a decisão judicial final seja a favor do contribuinte, o crédito tributário
+    fica extinto.
+
+    Caso a decisão judicial final seja a contrária ao contribuinte, o crédito volta a
+    ser exigível.
+
+    23. Segundo o STJ (RMS 3.881/SP), caso o juiz condicione a concessão da
+    medida liminar à realização do deposito, está, na verdade, indeferindo a
+    medida liminar.
+
+    24. Em relação às tutelas, tanto a cautelar, como a antecipada, ocasionam a
+    suspensão da exigibilidade do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     8
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    25. Cuidado em prova: O simples ajuizamento de ação judicial contestando o
+    Lançamento, não suspende a exigibilidade do crédito.
+
+    26. Com o Depósito do Montante Integral, é impedida a fluência dos juros de
+    mora.
+    Assim, caso o crédito volte a ser exigível (na hipótese de a decisão judicial ser
+    contrária ao sujeito passivo), o valor depositado se converte em renda, e é
+    extinto o crédito tributário.
+    27. Súmula Vinculante 28 – “É inconstitucional a exigência de depósito prévio
+    como requisito de admissibilidade de ação judicial na qual se pretenda discutir
+    a exigibilidade de crédito tributário”.
+
+    28. Súmula STJ 112 – “O Depósito somente suspende a exigibilidade do
+    crédito tributário se for INTEGRAL e em dinheiro”.
+
+    29. Segundo o STJ (REsp 767.328/RS), “Em relação aos tributos lançados por
+    homologação, o depósito judicial em dinheiro, efetuado pelo contribuinte com
+    o intuito de suspender a exigibilidade do crédito tributário, equivale ao
+    recolhimento da exação, cuja conversão em renda fica condicionada à
+    improcedência da demanda. Na hipótese, não transcorre o prazo decadencial,
+    já que houve constituição do crédito tributário por lançamento tácito”.
+
+    30. Segundo o STJ (REsp 901.052/SP), “no caso de extinção do processo
+    judicial sem resolução do mérito, o depósito deve ser repassado aos cofres
+    públicos, ante o insucesso da pretensão, a menos que se cuide de tributo
+    claramente indevido, como no caso de declaração de inconstitucionalidade
+    com efeito vinculante, ou ainda, por não ser a Fazenda Pública litigante o
+    titular do crédito.”
+
+    31. A Exclusão do Crédito Tributário pode se dar pela:
+
+          ▪ Isenção;
+
+          ▪ Anistia.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     9
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    32. A exclusão do crédito tributário tem a função de impedir a sua
+    constituição.
+
+    33. A exclusão do crédito tributário não dispensa o cumprimento das
+    obrigações acessórias.
+
+    34. Se a obrigação excluída se referir a um Tributo, temos um caso de isenção.
+
+    Já se a obrigação excluída se referir a uma multa, temos a anistia.
+
+    35. Tanto a isenção como a anistia só podem ser concedidas mediante Lei
+    específica.
+
+    36. Isenção é uma dispensa legal do pagamento de tributo devido, sendo
+    considerada uma decisão política.
+
+    37. A Isenção pode ser restrita a determinada região do território da entidade
+    tributante, em função de condições a ela peculiares.
+
+    38. Em relação à União, a isenção pode ser restrita a determinada região do
+    País, desde que tenha como objetivo a promoção do equilíbrio do
+    desenvolvimento socioeconômico entre as diferentes regiões do País.
+
+    39. Salvo disposição de lei em contrário, a isenção não é extensiva:
+
+    I - às taxas e às Contribuições de Melhoria;
+
+    II - aos tributos instituídos posteriormente à sua concessão.
+
+    Se existir lei em contrário, é plenamente possível uma isenção de taxa e/ou
+    Contribuição de Melhoria.
+
+    40. A isenção concedida em caráter Individual deve ser efetivada pelo
+    despacho da autoridade.
+
+    41. A isenção concedida em caráter Geral não necessita de despacho da
+    autoridade.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   10
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    42. Não estando satisfeitos os requisitos ou as condições, a isenção é
+    revogada, ficando o sujeito passivo obrigado a pagar o crédito tributário
+    acrescido de juros de mora.
+
+    43. A isenção, salvo se concedida por prazo certo e em função de
+    determinadas condições, pode ser revogada ou modificada por lei, a qualquer
+    tempo.
+
+    44. Já as isenções onerosas (concedida por prazo certo e em função de
+    determinadas condições) geram direito adquirido.
+
+    45. Súmula STF 544 – “Isenções tributárias concedidas, sob condição onerosa,
+    não podem ser livremente suprimidas”.
+
+    46. A Anistia abrange exclusivamente as infrações cometidas anteriormente à
+    vigência da lei que a concede, não se aplicando:
+
+          ▪ Aos atos qualificados em lei como crimes ou contravenções e aos que,
+             mesmo sem essa qualificação, sejam praticados com dolo, fraude ou
+             simulação pelo sujeito passivo ou por terceiro em benefício daquele;
+          ▪ Salvo disposição em contrário, às infrações resultantes de conluio entre
+             duas ou mais pessoas naturais ou jurídicas.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    11
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    47. A anistia pode ser concedida:
+
+          ▪ em caráter geral;
+
+
+          ▪ limitadamente:
+                 o às infrações da legislação relativa a determinado tributo;
+
+                 o às       infrações       punidas       com       penalidades       pecuniárias   até
+                     determinado montante, conjugadas ou não com penalidades de
+                     outra natureza;
+
+                 o a determinada região do território da entidade tributante, em
+                     função de condições a ela peculiares;
+
+                 o sob condição do pagamento de tributo no prazo fixado pela lei
+                     que a conceder, ou cuja fixação seja atribuída pela mesma lei à
+                     autoridade administrativa.
+
+    48. Na anistia concedida individualmente, o perdão é concedido por meio de
+    despacho da autoridade administrativa, devendo o interessado comprovar
+    que preenche as condições legais.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       12
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+                                                Constituição Federal:
+
+
+                        Artigo 150 § 6º:
+                        § 6º Qualquer subsídio ou isenção, redução de base de cálculo,
+                        concessão de crédito presumido, anistia ou remissão, relativos
+                        a impostos, taxas ou contribuições, só poderá ser concedido
+                        mediante lei específica, federal, estadual ou municipal, que
+                        regule exclusivamente as matérias acima enumeradas ou o
+                        correspondente tributo ou contribuição, sem prejuízo do
+                        disposto no art. 155, § 2.º, XII, g.
+
+                                                           CTN:
+
+
+                        Artigo 151:
+                        Art. 151. Suspendem a exigibilidade do crédito tributário:
+                        I - moratória;
+                        II - o depósito do seu montante integral;
+                        III - as reclamações e os recursos, nos termos das leis
+                        reguladoras do processo tributário administrativo;
+                        IV - a concessão de medida liminar em mandado de segurança.
+                        V – a concessão de medida liminar ou de tutela antecipada, em
+                        outras espécies de ação judicial;
+                        VI – o parcelamento.
+                        Parágrafo único. O disposto neste artigo não dispensa o
+                        cumprimento das obrigações assessórios dependentes da
+                        obrigação principal cujo crédito seja suspenso, ou dela
+                        consequentes.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      13
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Artigo 152:
+                        Art. 152. A moratória somente pode ser concedida:
+
+                        I - em caráter geral:
+
+                        a) pela pessoa jurídica de direito público competente para
+                        instituir o tributo a que se refira;
+
+                        b) pela União, quanto a tributos de competência dos Estados,
+                        do    Distrito  Federal     ou   dos   Municípios,    quando
+                        simultaneamente concedida quanto aos tributos de
+                        competência federal e às obrigações de direito privado;
+
+                        II - em caráter individual, por despacho da autoridade
+                        administrativa, desde que autorizada por lei nas condições do
+                        inciso anterior.
+
+                        Parágrafo único. A lei concessiva de moratória pode
+                        circunscrever expressamente a sua aplicabilidade à
+                        determinada região do território da pessoa jurídica de direito
+                        público que a expedir, ou a determinada classe ou categoria de
+                        sujeitos passivos.
+
+                        Artigo 153:
+                        Art. 153. A lei que conceda moratória em caráter geral ou
+                        autorize sua concessão em caráter individual especificará, sem
+                        prejuízo de outros requisitos:
+
+                        I - o prazo de duração do favor;
+
+                        II - as condições da concessão do favor em caráter individual;
+
+                        III - sendo caso:
+
+                        a) os tributos a que se aplica;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      14
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        b) o número de prestações e seus vencimentos, dentro do prazo
+                        a que se refere o inciso I, podendo atribuir a fixação de uns e
+                        de outros à autoridade administrativa, para cada caso de
+                        concessão em caráter individual;
+
+                        c) as garantias que devem ser fornecidas pelo beneficiado no
+                        caso de concessão em caráter individual.
+
+                        Artigo 154:
+                        Art. 154. Salvo disposição de lei em contrário, a moratória
+                        somente abrange os créditos definitivamente constituídos à
+                        data da lei ou do despacho que a conceder, ou cujo lançamento
+                        já tenha sido iniciado àquela data por ato regularmente
+                        notificado ao sujeito passivo.
+
+                        Parágrafo único. A moratória não aproveita aos casos de dolo,
+                        fraude ou simulação do sujeito passivo ou do terceiro em
+                        benefício daquele.
+
+                        Artigo 155:
+                        Art. 155. A concessão da moratória em caráter individual não
+                        gera direito adquirido e será revogado de ofício, sempre que se
+                        apure que o beneficiado não satisfazia ou deixou de satisfazer
+                        as condições ou não cumprira ou deixou de cumprir os
+                        requisitos para a concessão do favor, cobrando-se o crédito
+                        acrescido de juros de mora:
+
+                        I - com imposição da penalidade cabível, nos casos de dolo ou
+                        simulação do beneficiado, ou de terceiro em benefício daquele;
+
+                        II - sem imposição de penalidade, nos demais casos.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       15
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Parágrafo único. No caso do inciso I deste artigo, o tempo
+                        decorrido entre a concessão da moratória e sua revogação não
+                        se computa para efeito da prescrição do direito à cobrança do
+                        crédito; no caso do inciso II deste artigo, a revogação só pode
+                        ocorrer antes de prescrito o referido direito.
+
+                        Artigo 155-A:
+                        Art. 155-A. O parcelamento será concedido na forma e
+                        condição estabelecidas em lei específica
+
+                        § 1o Salvo disposição de lei em contrário, o parcelamento do
+                        crédito tributário não exclui a incidência de juros e multas.
+
+                        § 2o Aplicam-se, subsidiariamente, ao parcelamento as
+                        disposições desta Lei, relativas à moratória
+
+                        § 3o Lei específica disporá sobre as condições de parcelamento
+                        dos créditos tributários do devedor em recuperação judicial
+
+                         § 4o A inexistência da lei específica a que se refere o § 3o deste
+                        artigo importa na aplicação das leis gerais de parcelamento do
+                        ente da Federação ao devedor em recuperação judicial, não
+                        podendo, neste caso, ser o prazo de parcelamento inferior ao
+                        concedido pela lei federal específica.
+
+                        Artigo 175:
+                        Art. 175. Excluem o crédito tributário:
+
+                        I - a isenção;
+
+                        II - a anistia.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Parágrafo único. A exclusão do crédito tributário não dispensa
+                        o cumprimento das obrigações acessórias dependentes da
+                        obrigação principal cujo crédito seja excluído, ou dela
+                        consequente.
+
+                        Artigo 176:
+                        Art. 176. A isenção, ainda quando prevista em contrato, é
+                        sempre decorrente de lei que especifique as condições e
+                        requisitos exigidos para a sua concessão, os tributos a que se
+                        aplica e, sendo caso, o prazo de sua duração.
+
+                        Parágrafo único. A isenção pode ser restrita a determinada
+                        região do território da entidade tributante, em função de
+                        condições a ela peculiares.
+
+                        Artigo 177:
+                        Art. 177. Salvo disposição de lei em contrário, a isenção não é
+                        extensiva:
+
+                        I - às taxas e às contribuições de melhoria;
+
+                        II - aos tributos instituídos posteriormente à sua concessão.
+
+                        Artigo 178:
+                        Art. 178. A isenção, salvo se concedida por prazo certo e em
+                        função de determinadas condições, pode ser revogada ou
+                        modificada por lei, a qualquer tempo, observado o disposto no
+                        inciso III do art. 104.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       17
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Artigo 179:
+                        Art. 179. A isenção, quando não concedida em caráter geral, é
+                        efetivada, em cada caso, por despacho da autoridade
+                        administrativa, em requerimento com o qual o interessado faça
+                        prova do preenchimento das condições e do cumprimento dos
+                        requisitos previstos em lei ou contrato para sua concessão.
+
+                        § 1º Tratando-se de tributo lançado por período certo de
+                        tempo, o despacho referido neste artigo será renovado antes
+                        da expiração de cada período, cessando automaticamente os
+                        seus efeitos a partir do primeiro dia do período para o qual o
+                        interessado         deixar      de      promover         a    continuidade   do
+                        reconhecimento da isenção.
+
+                        § 2º O despacho referido neste artigo não gera direito
+                        adquirido, aplicando-se, quando cabível, o disposto no artigo
+                        155.
+
+                        Artigo 180:
+                        Art. 180. A anistia abrange exclusivamente as infrações
+                        cometidas anteriormente à vigência da lei que a concede, não
+                        se aplicando:
+
+                        I - aos atos qualificados em lei como crimes ou contravenções e
+                        aos que, mesmo sem essa qualificação, sejam praticados com
+                        dolo, fraude ou simulação pelo sujeito passivo ou por terceiro
+                        em benefício daquele;
+
+                        II - salvo disposição em contrário, às infrações resultantes de
+                        conluio entre duas ou mais pessoas naturais ou jurídicas.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       18
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Artigo 181:
+                        Art. 181. A anistia pode ser concedida:
+
+                        I - em caráter geral;
+
+                        II - limitadamente:
+
+                        a) às infrações da legislação relativa a determinado tributo;
+
+                        b) às infrações punidas com penalidades pecuniárias até
+                        determinado montante, conjugadas ou não com penalidades
+                        de outra natureza;
+
+                        c) a determinada região do território da entidade tributante, em
+                        função de condições a ela peculiares;
+
+                        d) sob condição do pagamento de tributo no prazo fixado pela
+                        lei que a conceder, ou cuja fixação seja atribuída pela mesma
+                        lei à autoridade administrativa.
+
+                        Artigo 182:
+                        Art. 182. A anistia, quando não concedida em caráter geral, é
+                        efetivada, em cada caso, por despacho da autoridade
+                        administrativa, em requerimento com a qual o interessado faça
+                        prova do preenchimento das condições e do cumprimento dos
+                        requisitos previstos em lei para sua concessão.
+
+                        Parágrafo único. O despacho referido neste artigo não gera
+                        direito adquirido, aplicando-se, quando cabível, o disposto no
+                        artigo 155.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        19
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                                                      Súmulas STJ:
+
+                        Súmula STJ 373
+                        É ilegítima a exigência de depósito prévio para admissibilidade
+                        de recurso administrativo.
+                        Súmula STJ 112
+                        O depósito somente suspende a exigibilidade do crédito
+                        tributário se for integral e em dinheiro.
+
+                                                      Súmulas STF:
+
+                        Súmula STF 544
+                        Isenções tributárias concedidas, sob condição onerosa, não
+                        podem ser livremente suprimidas.
+
+                                           Súmulas Vinculantes do STF:
+
+                        Súmula Vinculante 21
+                        É inconstitucional a exigência de depósito ou arrolamento
+                        prévios de dinheiro ou bens para admissibilidade de recurso
+                        administrativo.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       20
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                        Súmula Vinculante 28
+                        É inconstitucional a exigência de depósito prévio como
+                        requisito de admissibilidade de ação judicial na qual se
+                        pretenda discutir a exigibilidade de crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   21
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    4. APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+    Vamos ao conteúdo da nossa aposta?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   22
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    Nesta seção, apresentamos e comentamos uma amostra de questões objetivas
+    selecionadas estrategicamente: são questões com nível de dificuldade
+    semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+    abordam os principais pontos do assunto.
+
+    A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa
+    de questões, mas que você faça uma boa revisão global do assunto a partir
+    de, relativamente, poucas questões.
+
+    QUESTÕES FGV
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) As opções a
+    seguir apresentam os efeitos da concessão de liminar em mandado de
+    segurança com a finalidade de suspender a exigibilidade do crédito tributário,
+    à exceção de uma. Assinale-a.
+
+    (A) Impedir a propositura de execução fiscal.
+
+    (B) Afastar a situação de inadimplência, possibilitando a expedição de certidão
+    positiva com efeitos de negativa.
+
+    (C) Suspender o curso do prazo prescricional.
+
+    (D) Impedir o lançamento do crédito.
+
+    (E) Suspender a inscrição no CADIN (Cadastro Informativo de Créditos Não
+    Quitados de Órgãos e Entidades Federais).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   23
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Comentários: A questão quer saber qual das alternativas NÃO representa um
+    dos efeitos causados pela suspensão do crédito tributário (representada aqui
+    pela concessão de liminar em mandado de segurança). Vejamos:
+
+                        Art. 151. Suspendem A EXIGIBILIDADE do crédito tributário:
+
+                        IV - a concessão de medida liminar em mandado de segurança.
+
+    Alternativa A (Correta): “Impedir a propositura de execução fiscal.”
+
+    A execução fiscal tem por objetivo satisfazer o crédito tributário. Conforme o
+    Art. 151 do CTN acima citado, a suspensão do crédito tributário impede sua
+    exigibilidade. Logo, é um dos efeitos da concessão de liminar em mandado de
+    segurança.
+
+    Alternativa B (Correta): “Afastar a situação de inadimplência, possibilitando a
+    expedição de certidão positiva com efeitos de negativa.”
+
+    A lógica é: Se a Administração Tributária não pode exigir o crédito tributário,
+    não tem como “dizer” que o contribuinte está inadimplente. Por este motivo,
+    se o crédito tributário está suspenso, e o contribuinte solicitar, deverá ser
+    expedida uma certidão positiva com efeitos de negativa.
+
+                        Art. 206. Tem os mesmos efeitos previstos no artigo anterior
+                        (artigo que prevê a certidão negativa) a certidão de que conste
+                        a existência de créditos não vencidos, em curso de cobrança
+                        executiva em que tenha sido efetivada a penhora, ou cuja
+                        exigibilidade esteja suspensa.
+
+    Logo, é um dos efeitos da concessão de liminar em mandado de segurança.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       24
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Alternativa C (Correta): “Suspender o curso do prazo prescricional.”
+
+    Se o crédito tributário está suspenso, a Administração Tributária não pode
+    exigi-lo, mas também não pode ser prejudicada pela prescrição. A suspensão
+    do crédito tributário também suspende sua prescrição (entendimento da
+    maior parte da doutrina). Logo, é um dos efeitos da concessão de liminar em
+    mandado de segurança.
+
+    Alternativa D (Incorreta): “Impedir o lançamento do crédito.”
+
+    Este é o nosso gabarito. Veja que o que se impede na suspensão é a
+    exigibilidade e não o lançamento do crédito tributário. A Administração
+    Tributária DEVE realizar o lançamento para que não seja atingida pela
+    decadência do crédito tributário. Logo, impedir o lançamento NÃO É um dos
+    efeitos da concessão de liminar em mandado de segurança.
+
+    Alternativa E (Correta): “Suspender a inscrição no CADIN (Cadastro
+    Informativo de Créditos Não Quitados de Órgãos e Entidades Federais).”
+
+    Você não precisava conhecer a Lei Federal 10.522/02 (que trata do CADIN)
+    para responder esta questão, haja vista que já encontramos nosso gabarito.
+    Contudo, esta alternativa também é um dos efeitos da suspensão do crédito
+    tributário segundo a referida lei. Vejam:
+
+                        Art. 7º Será suspenso o registro no Cadin quando o devedor
+                        comprove que:
+
+                        II - esteja suspensa a exigibilidade do crédito objeto do registro,
+                        nos termos da lei.
+
+    Gabarito: D
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           25
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Caio,
+    visando à suspensão de exigibilidade de crédito objeto de auto de infração,
+    ajuizou ação anulatória e realizou o depósito do montante integral.
+
+    As opções a seguir também apresentam hipóteses de suspensão de
+    exigibilidade do crédito, à exceção de uma. Assinale-a.
+
+    (A) Moratória.
+
+    (B) Impugnação ao auto de infração.
+
+    (C) Anistia fiscal.
+
+    (D) Parcelamento do crédito.
+
+    (E) Concessão de medida liminar em mandado de segurança.
+
+    Comentários: A questão quer saber quais das alternativas NÃO representa
+    uma hipótese de suspensão do crédito tributário. Encontramos as hipóteses
+    de suspensão do crédito tributário no CTN:
+
+                        Art. 151. Suspendem a exigibilidade do crédito tributário:
+
+                        I - moratória;
+
+                        II - o depósito do seu montante integral;
+
+                        III - as reclamações e os recursos, nos termos das leis
+                        reguladoras do processo tributário ADMINISTRATIVO;
+
+                        IV - a concessão de medida liminar em mandado de segurança;
+
+                        V – a concessão de medida liminar ou de tutela antecipada, em
+                        outras espécies de ação judicial;
+
+                        VI – o parcelamento.
+
+                        Parágrafo único. O disposto neste artigo não dispensa o
+                        cumprimento das obrigações assessórios dependentes da
+                        obrigação principal cujo crédito seja suspenso, ou dela
+                        consequentes.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     26
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Alternativa A (Incorreta): “Moratória.”
+
+    Está prevista no Art. 151 do CTN.
+
+
+    Alternativa B (Incorreta): “Impugnação ao auto de infração.”
+
+    Está prevista no Art. 151 do CTN. Impugnar significa contestar/opor-se, ou
+    seja, reclamar/impetrar recurso.
+
+
+    Alternativa C (Correta): “Anistia fiscal.”
+
+    A anistia é uma das hipóteses de exclusão do crédito tributário. A outra
+    hipótese é a isenção.
+
+
+    Alternativa D (Incorreta): “Parcelamento do crédito.”
+
+    Está prevista no Art. 151 do CTN.
+
+
+    Alternativa E (Incorreta): “Concessão de medida liminar em mandado de
+    segurança.”
+
+    Está prevista no Art. 151 do CTN.
+
+    Gabarito: C
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) A concessão de medida liminar
+    em mandado de segurança que ataca o lançamento tributário é causa de:
+
+    (A) decadência do direito de lançar o crédito tributário;
+
+    (B) exclusão do crédito tributário;
+
+    (C) moratória do crédito tributário;
+
+    (D) suspensão da exigibilidade do crédito tributário;
+
+    (E) extinção do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   27
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Comentários: Acabamos de ver na questão anterior que a concessão de
+    medida liminar em mandado de segurança é causa de Suspensão da
+    exigibilidade do crédito tributário. Fiquem atentos que a concessão de
+    mandado de segurança não causa o mesmo efeito. Devemos ter a concessão
+    de MEDIDA LIMINAR deste remédio constitucional.
+
+    Gabarito: D
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) No que se refere à obrigação e
+    crédito tributários, e considerando o disposto no Código Tributário Nacional,
+    analise as afirmativas a seguir:
+
+    I. Lei específica deve tratar das formas e condições para a concessão de
+    parcelamento.
+
+    II. A concessão de liminar em ação cautelar ou de moratória suspende a
+    exigibilidade de crédito tributário e são causas de dispensa do cumprimento
+    das obrigações acessórias correspondentes à obrigação principal cujo crédito
+    seja suspenso.
+
+    III. Não emitir nota fiscal em operações de venda de livros não é suficiente para
+    que esta obrigação acessória se transforme em obrigação principal com
+    relação à penalidade pecuniária.
+
+
+    Está correto somente o que se afirma em:
+
+    (A) I;                                             (D) I e III;
+
+    (B) II;                                            (E) II e III.
+
+    (C) III;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     28
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Comentários:
+
+    Assertiva I (Correta): “Lei específica deve tratar das formas e condições para a
+    concessão de parcelamento.”
+
+    Segundo o CTN:
+
+                        Art. 155-A. O parcelamento será concedido na forma e
+                        condição estabelecidas em lei específica.
+
+    Assertiva II (Incorreta): “A concessão de liminar em ação cautelar ou de
+    moratória suspende a exigibilidade de crédito tributário e são causas de
+    dispensa do cumprimento das obrigações acessórias correspondentes à
+    obrigação principal cujo crédito seja suspenso.”
+
+    Segundo o CTN:
+
+                        Art. 151. Suspendem a exigibilidade do crédito tributário:
+
+                        I - moratória;
+
+                        V – a concessão de medida liminar ou de tutela antecipada, em
+                        outras espécies de ação judicial;
+
+    Liminar em ação cautelar se enquadra em outras espécies de ação judicial.
+
+    Já o parágrafo único do Art.151 afirma que as hipóteses de Suspensão do
+    Crédito Tributário não dispensam o cumprimento das obrigações assessórios
+    dependentes da obrigação principal:
+
+                        Parágrafo único. O disposto neste artigo (que versa sobre a
+                        suspensão do crédito tributário) não dispensa o cumprimento
+                        das obrigações assessórios dependentes da obrigação principal
+                        cujo crédito seja suspenso, ou dela consequentes.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     29
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Assertiva III (Incorreta): “Não emitir nota fiscal em operações de venda de
+    livros não é suficiente para que esta obrigação acessória se transforme em
+    obrigação principal com relação à penalidade pecuniária.”
+
+
+    Emitir nota fiscal é uma obrigação acessória. Logo a sua inobservância,
+    segundo o CTN, “converte-se” em obrigação principal.
+
+                        Art. 113. A obrigação tributária é principal ou acessória.
+
+                        §3º A obrigação acessória, pelo simples fato da sua
+                        inobservância,            converte-se          em        obrigação   principal
+                        relativamente à penalidade pecuniária.
+
+
+    Gabarito: A
+
+    5-) (FGV - Fiscal de Tributos - Niterói/2015) Um contribuinte do Município,
+    inconformado com a imposição de um auto de infração do ISS, decide discutir
+    em juízo a incidência ou não do tributo, ingressa com a ação judicial que
+    considera oportuna e efetua o depósito integral e em dinheiro do valor do
+    crédito tributário em discussão. Nesse caso:
+
+    (A) o depósito judicial é condição inafastável para o regular processamento da
+    ação;
+
+    (B) com a decisão definitiva do processo contrária ao contribuinte, a quantia
+    depositada deverá ser convertida em renda da Fazenda, suspendendo a
+    exigibilidade do crédito tributário;
+
+    (C) o depósito da quantia questionada, integral ou parcial, suspende a
+    exigibilidade do crédito tributário;
+
+    (D) com a decisão definitiva do processo contrária ao contribuinte, a quantia
+    depositada deverá ser convertida em renda da Fazenda, extinguindo o crédito
+    tributário;
+
+    (E) o depósito judicial é desnecessário, pois o mero ajuizamento da ação
+    suspende a exigibilidade do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                      30
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Comentários: Questão interessante. Um contribuinte, decide discutir em juízo
+    a incidência ou não do tributo, ingressa com a ação judicial e efetua o depósito
+    integral e em dinheiro do valor do crédito tributário em discussão.
+
+    Vejam que ele poderia discutir o crédito tributário na via Administrativa (que
+    por si só já suspenderia o crédito tributário). Contudo ele decidiu ir direto pela
+    via judicial. Por esta via, a impugnação do crédito tributário (ajuizamento da
+    ação) NÃO SUSPENDE sua exigibilidade.
+
+    O que seria necessário então? O depósito do montante integral em dinheiro
+    do crédito exigido pela Fazenda.
+
+    Realizando tal depósito, não será cobrado mais absolutamente nenhum valor
+    do sujeito passivo a título de juros ou multa de mora. Julgado improcedente
+    a ação do contribuinte, a conversão em renda do valor depositado extingue
+    definitiva e integralmente o crédito.
+
+    Alternativa A (Incorreta): “o depósito judicial é condição inafastável para o
+    regular processamento da ação;”
+
+                        Súmula Vinculante 28: É inconstitucional a exigência de
+                        depósito prévio como requisito de admissibilidade de ação
+                        judicial na qual se pretenda discutir a exigibilidade de crédito
+                        tributário.
+
+    Alternativa B (Incorreta): “com a decisão definitiva do processo contrária ao
+    contribuinte, a quantia depositada deverá ser convertida em renda da
+    Fazenda, suspendendo a exigibilidade do crédito tributário;”
+
+    Com a conversão do deposito em renda, extinto estará o crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        31
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Alternativa C (Incorreta): “o depósito da quantia questionada, integral ou
+    parcial, suspende a exigibilidade do crédito tributário;”
+
+    Somente suspende a exigibilidade o depósito integral em dinheiro. Se for
+    parcial não suspenderá.
+
+
+    Alternativa D (Correta): “com a decisão definitiva do processo contrária ao
+    contribuinte, a quantia depositada deverá ser convertida em renda da
+    Fazenda, extinguindo o crédito tributário;”
+
+    Perfeito! Está de acordo com o que explicamos acima.
+
+
+    Alternativa E (Incorreta): “o depósito judicial é desnecessário, pois o mero
+    ajuizamento da ação suspende a exigibilidade do crédito tributário”.
+
+    Vimos que o ajuizamento da ação (via judicial) NÃO SUSPENDE o crédito
+    tributário.
+
+
+    Gabarito: D
+
+    6-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) As alternativas
+    a seguir apresentam modalidades de suspensão da exigibilidade do crédito
+    tributário, à exceção de uma.
+
+    Assinale-a.
+
+    (A) A moratória.
+
+    (B) As reclamações e os recursos, consoante a legislação que regula o processo
+    administrativo.
+
+    (C) A liminar em mandado de segurança.
+
+    (D) A compensação.
+
+    (E) O parcelamento.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   32
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Comentários: A questão quer saber quais das alternativas NÃO representa
+    uma hipótese de suspensão do crédito tributário. Encontramos as hipóteses
+    de suspensão do crédito tributário no CTN:
+
+                        Art. 151. Suspendem a exigibilidade do crédito tributário:
+
+                        I - moratória;
+
+                        II - o depósito do seu montante integral;
+
+                        III - as reclamações e os recursos, nos termos das leis
+                        reguladoras do processo tributário ADMINISTRATIVO;
+
+                        IV - a concessão de medida liminar em mandado de segurança;
+
+                        V – a concessão de medida liminar ou de tutela antecipada, em
+                        outras espécies de ação judicial;
+
+                        VI – o parcelamento.
+
+                        Parágrafo único. O disposto neste artigo não dispensa o
+                        cumprimento das obrigações assessórios dependentes da
+                        obrigação principal cujo crédito seja suspenso, ou dela
+                        consequentes.
+
+    Assim, chegamos à Alternativa D como resposta, pois a compensação é
+    hipótese de extinção de Crédito Tributário, e não de suspensão.
+
+
+    Gabarito: D
+
+    7-) (FGV - Agente Fazendário - Niterói/2015) João, 75 anos, proprietário de
+    imóvel, recebeu uma carta da municipalidade com a comunicação de que,
+    mesmo tendo ocorrido o fato gerador do IPTU, não haveria necessidade de
+    realização do pagamento, uma vez que fora aprovada no ano anterior uma lei
+    que isentava os moradores com idade acima de 70 anos. Nesse caso, a lei
+    estabeleceu uma:
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     33
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    (A) imunidade;
+
+    (B) suspensão;
+
+    (C) exclusão;
+
+    (D) compensação;
+
+    (E) remissão.
+
+    Comentários: Vejam que a questão diz que fora aprovada no ano anterior uma
+    lei que isentava os moradores com idade acima de 70 anos.
+
+    Sabemos que imunidade não pode ser, pois imunidade é hipótese de não
+    incidência constitucionalmente qualificada. Vejamos então as hipóteses de
+    Suspensão, Exclusão e Extinção:
+
+    Suspensão:
+
+    Moratória; Depósito do seu montante integral; Reclamações e os Recursos,
+    nos termos das leis reguladoras do processo tributário administrativo;
+    Concessão de medida liminar em mandado de segurança; Concessão de
+    medida liminar ou de tutela antecipada, em outras espécies de ação judicial;
+    Parcelamento.
+
+    MO-DE-RE-RE-CO-CO-PA.
+
+    Exclusão:
+
+    Isenção e Anistia.
+
+    Extinção:
+
+    Pagamento; Compensação; Remissão; Conversão de depósito em renda;
+    Transação; Prescrição e a Decadência; Pagamento antecipado e a
+    homologação do lançamento; Consignação em pagamento; Decisão
+    administrativa irreformável; Dação em pagamento em bens imóveis, na forma
+    e condições estabelecidas em lei.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   34
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Podemos ver, portanto, que, no caso da questão, a lei que isenta os moradores
+    com idade acima de 70 anos institui uma exclusão do crédito tributário.
+
+    Gabarito: C
+
+
+    8-) (FGV - Fiscal Tributário - Osasco/2014) São modalidades de exclusão do
+    crédito tributário:
+
+    (A) o pagamento e a anistia;                               (D) a isenção e a anistia;
+
+    (B) a isenção e o pagamento;                               (E) a prescrição e a decadência.
+
+    (C) o parcelamento e o pagamento;
+
+    Comentários: Conforme vimos na questão anterior, as únicas hipóteses de
+    exclusão do crédito tributário são a isenção e a anistia.
+
+    Alternativa A (Incorreta): “o pagamento e a anistia;”
+
+    Pagamento é causa de extinção e anistia é causa de exclusão.
+
+
+    Alternativa B (Incorreta): “a isenção e o pagamento;”
+
+    Isenção é causa de exclusão e pagamento de extinção.
+
+
+    Alternativa C (Incorreta): “o parcelamento e o pagamento;”
+
+    Parcelamento é causa de suspensão e pagamento de extinção.
+
+
+    Alternativa D (Correta): “a isenção e a anistia;”
+
+    GABARITO. As duas são causas de exclusão.
+
+
+    Alternativa E (Incorreta): “a prescrição e a decadência.”
+
+    Prescrição e decadência são causas de extinção.
+
+
+    Gabarito: D
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário               35
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    6. QUESTIONÁRIO DE REVISÃO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+                                  Questionário – Somente perguntas
+
+    1-) Quais são as modalidades de Suspensão da exigibilidade do Crédito
+    Tributário?
+
+
+    2-) A Suspensão e/ou exclusão do crédito dispensam o Sujeito Passivo de
+    cumprimento das obrigações acessórias?
+
+
+    3-) A Suspensão da exigibilidade do Crédito Tributário proíbe a constituição
+    do crédito tributário através do Lançamento?
+
+
+    4-) Pode um decreto conceder uma Moratória? E parcelamento?
+
+
+    5-) É possível a concessão de Moratória para créditos constituídos
+    anteriormente à data da lei ou do despacho que a conceder?
+
+
+    6-) A concessão de Moratória gera direito adquirido?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   36
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    7-) O Parcelamento exclui a incidência de juros e multa?
+
+
+    8-) É legítima a exigência de depósito prévio para admissibilidade de recurso
+    administrativo?
+
+
+    9-) Quais efeitos do Mandado de Segurança sobre o crédito tributário
+    impugnado?
+
+
+    10-) O depósito parcial da quantia discutida suspende a exigibilidade do
+    crédito tributário?
+
+
+    11-) Qual a diferença entre Isenção e Anistia?
+
+
+    12-) Uma isenção pode ser extensível às Taxas?
+
+
+    13-) As isenções podem ser revogadas a qualquer tempo?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   37
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                                Questionário – Perguntas e Respostas
+
+    1-) Quais são as modalidades de Suspensão da exigibilidade do Crédito
+    Tributário?
+    Resposta: Suspendem a exigibilidade do Crédito Tributário:
+
+          ▪ MOratória;
+
+          ▪ o DEpósito do seu montante integral;
+
+          ▪ as REclamações e os REcursos, nos termos das leis reguladoras do
+             processo tributário administrativo;
+
+          ▪ a COncessão de medida liminar em mandado de segurança.
+
+          ▪ a COncessão de medida liminar ou de tutela antecipada, em outras
+             espécies de ação judicial;
+
+          ▪ o PArcelamento.
+
+    Memorize: “MO DE RE RE CO CO PA”
+
+    2-) A Suspensão e/ou exclusão do crédito dispensam o Sujeito Passivo de
+    cumprimento das obrigações acessórias?
+    Resposta: Não! Tanto os casos de Suspensão, como os casos de Exclusão não
+    dispensam o cumprimento das obrigações acessórias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   38
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    3-) A Suspensão da exigibilidade do Crédito Tributário proíbe a constituição
+    do crédito tributário através do Lançamento?
+    Resposta: Não. Caso a Suspensão ocorra antes do Lançamento, ainda assim é
+    permitida a constituição do crédito através do Lançamento (para evitar a
+    decadência), porém não pode ser feita a Exigibilidade.
+
+    4-) Pode um decreto conceder uma Moratória? E parcelamento?
+    Resposta: Não. Apenas LEI pode conceder a Moratória e o Parcelamento.
+
+    5-) É possível a concessão de Moratória para créditos constituídos
+    anteriormente à data da lei ou do despacho que a conceder?
+    Resposta: É possível, desde que haja previsão na Lei que conceder a moratória.
+    A regra é que a Moratória somente abrange os créditos definitivamente
+    constituídos à data da lei ou do despacho que a conceder, ou cujo lançamento
+    já tenha sido iniciado àquela data por ato regularmente notificado ao sujeito
+    passivo.
+
+    Veja o que afirma o Art. 154 do CTN:
+
+                        Art. 154. Salvo disposição de lei em contrário, a Moratória
+                        somente abrange os créditos definitivamente constituídos à
+                        data da lei ou do despacho que a conceder, ou cujo lançamento
+                        já tenha sido iniciado àquela data por ato regularmente
+                        notificado ao sujeito passivo.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     39
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    6-) A concessão de Moratória gera direito adquirido?
+    Resposta: A Moratória concedida em caráter individual não gera direito
+    adquirido e será revogada de ofício, sempre que se apure que o beneficiado
+    não satisfazia ou deixou de satisfazer as condições ou não cumprira ou deixou
+    de cumprir os requisitos para a concessão do favor, cobrando-se o crédito
+    acrescido de juros de mora:
+
+          ▪ com imposição da penalidade cabível, nos casos de dolo ou simulação
+             do beneficiado, ou de terceiro em benefício daquele;
+          ▪ sem imposição de penalidade, nos demais casos.
+
+    Já a Moratória concedida em caráter Geral, gera direito adquirido.
+
+    7-) O Parcelamento exclui a incidência de juros e multa?
+    Resposta: Via de regra, o Parcelamento do crédito tributário não exclui a
+    incidência de juros e multas.
+
+    Porém se existir uma LEI em contrário, os juros e multas podem ser excluídos.
+
+                        Art. 155-A § 1o Salvo disposição de lei em contrário, o
+                        Parcelamento do crédito tributário Não exclui a incidência de
+                        juros e multas.
+
+    8-) É legítima a exigência de depósito prévio para admissibilidade de recurso
+    administrativo?
+    Resposta: Súmula STJ 373 – “É ilegítima a exigência de depósito prévio para
+    admissibilidade de recurso administrativo”.
+
+    Na mesma linha tem a Súmula Vinculante 21 do STF:
+
+    Súmula Vinculante 21 – “É inconstitucional a exigência de depósito ou
+    arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+    administrativo”.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     40
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    9-) Quais efeitos do Mandado de Segurança sobre o crédito tributário
+    impugnado?
+    Resposta: O Simples Ajuizamento do Mandado de Segurança não apresenta
+    nenhum efeito sobre o crédito tributário impugnado. O que gera a Suspensão
+    da exigibilidade do Crédito Tributário é a Concessão de medida liminar em
+    mandado de segurança.
+
+    10-) O depósito parcial da quantia discutida suspende a exigibilidade do
+    crédito tributário?
+    Resposta: Não. Apenas o depósito integral e em dinheiro.
+
+    Súmula STJ 112 – “O Depósito somente suspende a exigibilidade do crédito
+    tributário se for INTEGRAL e em dinheiro”.
+
+    11-) Qual a diferença entre Isenção e Anistia?
+    Resposta: Se a obrigação excluída se referir a um Tributo, temos um caso de
+    Isenção.
+
+    Já se a obrigação excluída se referir a uma multa, temos a Anistia.
+
+    12-) Uma isenção pode ser extensível às Taxas?
+    Resposta: Como regra não, porém se existir disposição em lei em contrário, é
+    permitida a isenção de Taxa.
+
+                        Art. 177. Salvo disposição de lei em contrário, a isenção não é
+                        extensiva:
+
+                        I - às taxas e às contribuições de melhoria;
+
+                        II - aos tributos instituídos posteriormente à sua concessão.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       41
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    13-) As isenções podem ser revogadas a qualquer tempo?
+    As isenções, salvo se concedidas por prazo certo e em função de determinadas
+    condições, podem ser revogadas ou modificadas por lei, a qualquer tempo.
+
+    Já as isenções onerosas (concedida por prazo certo e em função de
+    determinadas condições) geram direito adquirido.
+
+    Nesta linha vem a Súmula STF 544 – “Isenções tributárias concedidas, sob
+    condição onerosa, não podem ser livremente suprimidas”.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    7. QUESTÕES DE AULA
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Análise de Questões”:
+
+
+    QUESTÕES FGV
+
+    1-) (FGV - Auditor Fiscal de Tributos Estaduais - SEFIN RO/2018) As opções a
+    seguir apresentam os efeitos da concessão de liminar em mandado de
+    segurança com a finalidade de suspender a exigibilidade do crédito tributário,
+    à exceção de uma. Assinale-a.
+
+    (A) Impedir a propositura de execução fiscal.
+
+    (B) Afastar a situação de inadimplência, possibilitando a expedição de certidão
+    positiva com efeitos de negativa.
+
+    (C) Suspender o curso do prazo prescricional.
+
+    (D) Impedir o lançamento do crédito.
+
+    (E) Suspender a inscrição no CADIN (Cadastro Informativo de Créditos Não
+    Quitados de Órgãos e Entidades Federais).
+
+    2-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) Caio,
+    visando à suspensão de exigibilidade de crédito objeto de auto de infração,
+    ajuizou ação anulatória e realizou o depósito do montante integral.
+
+    As opções a seguir também apresentam hipóteses de suspensão de
+    exigibilidade do crédito, à exceção de uma. Assinale-a.
+
+    (A) Moratória.
+
+    (B) Impugnação ao auto de infração.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   43
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    (C) Anistia fiscal.
+
+    (D) Parcelamento do crédito.
+
+    (E) Concessão de medida liminar em mandado de segurança.
+
+    3-) (FGV - Agente Fazendário - Niterói/2015) A concessão de medida liminar
+    em mandado de segurança que ataca o lançamento tributário é causa de:
+
+    (A) decadência do direito de lançar o crédito tributário;
+
+    (B) exclusão do crédito tributário;
+
+    (C) moratória do crédito tributário;
+
+    (D) suspensão da exigibilidade do crédito tributário;
+
+    (E) extinção do crédito tributário.
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) No que se refere à obrigação e
+    crédito tributários, e considerando o disposto no Código Tributário Nacional,
+    analise as afirmativas a seguir:
+
+    I. Lei específica deve tratar das formas e condições para a concessão de
+    parcelamento.
+
+    II. A concessão de liminar em ação cautelar ou de moratória suspende a
+    exigibilidade de crédito tributário e são causas de dispensa do cumprimento
+    das obrigações acessórias correspondentes à obrigação principal cujo crédito
+    seja suspenso.
+
+    III. Não emitir nota fiscal em operações de venda de livros não é suficiente para
+    que esta obrigação acessória se transforme em obrigação principal com
+    relação à penalidade pecuniária.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     44
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    Está correto somente o que se afirma em:
+
+    (A) I;                                             (D) I e III;
+
+    (B) II;                                            (E) II e III.
+
+    (C) III;
+
+    5-) (FGV - Fiscal de Tributos - Niterói/2015) Um contribuinte do Município,
+    inconformado com a imposição de um auto de infração do ISS, decide discutir
+    em juízo a incidência ou não do tributo, ingressa com a ação judicial que
+    considera oportuna e efetua o depósito integral e em dinheiro do valor do
+    crédito tributário em discussão. Nesse caso:
+
+    (A) o depósito judicial é condição inafastável para o regular processamento da
+    ação;
+
+    (B) com a decisão definitiva do processo contrária ao contribuinte, a quantia
+    depositada deverá ser convertida em renda da Fazenda, suspendendo a
+    exigibilidade do crédito tributário;
+
+    (C) o depósito da quantia questionada, integral ou parcial, suspende a
+    exigibilidade do crédito tributário;
+
+    (D) com a decisão definitiva do processo contrária ao contribuinte, a quantia
+    depositada deverá ser convertida em renda da Fazenda, extinguindo o crédito
+    tributário;
+
+    (E) o depósito judicial é desnecessário, pois o mero ajuizamento da ação
+    suspende a exigibilidade do crédito tributário.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   45
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    6-) (FGV - Auditor Fiscal da Receita Estadual - SEFAZ RJ/2010) As alternativas
+    a seguir apresentam modalidades de suspensão da exigibilidade do crédito
+    tributário, à exceção de uma.
+
+    Assinale-a.
+
+    (A) A moratória.
+
+    (B) As reclamações e os recursos, consoante a legislação que regula o processo
+    administrativo.
+                                                       ==219a34==
+
+    (C) A liminar em mandado de segurança.
+
+    (D) A compensação.
+
+    (E) O parcelamento.
+
+    7-) (FGV - Agente Fazendário - Niterói/2015) João, 75 anos, proprietário de
+    imóvel, recebeu uma carta da municipalidade com a comunicação de que,
+    mesmo tendo ocorrido o fato gerador do IPTU, não haveria necessidade de
+    realização do pagamento, uma vez que fora aprovada no ano anterior uma lei
+    que isentava os moradores com idade acima de 70 anos. Nesse caso, a lei
+    estabeleceu uma:
+
+    (A) imunidade;
+
+    (B) suspensão;
+
+    (C) exclusão;
+
+    (D) compensação;
+
+    (E) remissão.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   46
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    8-) (FGV - Fiscal Tributário - Osasco/2014) São modalidades de exclusão do
+    crédito tributário:
+
+    (A) o pagamento e a anistia;
+
+    (B) a isenção e o pagamento;
+
+    (C) o parcelamento e o pagamento;
+
+    (D) a isenção e a anistia;
+
+    (E) a prescrição e a decadência.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   47
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+    GABARITO
+
+          1-D                  2-C                  3-D                   4-A         5-D
+          6-D                  7-C                  8-D
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         48
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 16
+
+                           Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+                                No estudo de hoje vimos os principais pontos sobre
+    Suspensão da Exigibilidade do Crédito Tributário e Exclusão do Crédito
+    Tributário.
+
+                     Um grande abraço e que Deus os abençoe.
+
+                                        Até a próxima aula!!!
+
+                               @profFernandoM                           Professor Fernando Mauricio
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                   49
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+---

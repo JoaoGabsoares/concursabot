@@ -1,0 +1,810 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 06_006_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '06'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+artigos_citados:
+- "art.\n\n         20"
+- art. 118
+- art. 143
+- art. 20
+- art. 35
+- art. 36
+- art. 39
+- art. 6o
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Legislação Tributária - IRPF -
+
+Parte II. Trata-se de um material pensado para lhe ajudar em todo esse processo, visando,
+
+inclusive, uma economia de tempo de confecção de materiais, tempo que é o bem mais
+
+precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                                 
+
+
+---
+
+              RESUMO DE LEGISLAÇÃO TRIBUTÁRIA
+
+Fato Gerador do IRPF – Rendimento Bruto
+
+  ● Constituem rendimento bruto todo o produto do capital, do trabalho ou da
+
+    combinação de ambos, os alimentos e pensões percebidos em dinheiro, os
+
+    proventos de qualquer natureza, assim também entendidos os acréscimos
+
+    patrimoniais não correspondentes aos rendimentos declarados.
+
+                                                                                              2
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                             
+
+
+---
+
+ ● Acréscimo patrimonial representa a variação positiva da situação patrimonial de
+
+   uma pessoa em um determinado período de tempo.
+
+Fato Gerador do IRPF – Rendimentos Isentos ou não
+Tributáveis
+
+ ● Rendimentos Originários do Trabalho e Assemelhados
+
+      ○ Isenções específicas para rendimentos decorrentes do trabalho:
+
+                                                                                              3
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                             
+
+
+---
+
+     ➢ Servidores diplomáticos de governos estrangeiros: Há isenção (art.
+
+         20, I, c/c art. 20, § 2º, ambos do RIR/2018). Isso ocorre por força da
+
+         Convenção de Viena sobre Relações Diplomáticas.
+
+     ➢ Servidores de organismos internacionais: O Brasil tem que fazer
+
+         parte do organismo internacional (e) ter assumido compromisso em
+
+         tratado ou convênio de conceder isenção.
+
+     ➢ Servidor não brasileiro de embaixada, consulado e repartições
+
+         oficiais de outros países no Brasil: deve haver reciprocidade no país
+
+         de nacionalidade do servidor. Ou seja, os brasileiros que exercerem
+
+         naquele país as mesmas funções devem receber isenção.
+
+     ➢ Residentes e domiciliados no Brasil que prestem serviços a
+
+         embaixadas, repartições consulares, missões diplomáticas ou
+
+         técnicas ou a organismos internacionais de que o Brasil faça
+
+         parte: Não há isenção (art. 47, V, c/c art. 118, III, ambos do RIR/2018).
+
+○ São isentos ou não tributáveis:
+
+     ➢ A alimentação, o transporte e os uniformes ou vestimentas
+
+         especiais de trabalho, fornecidos gratuitamente pelo empregador a
+
+         seus empregados, ou a diferença entre o preço cobrado e o valor de
+
+         mercado.
+
+                                                                                       4
+
+     **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                      
+
+
+---
+
+          ➢ o auxílio-alimentação e o auxílio transporte pago em pecúnia aos
+
+              servidores públicos federais ativos da Administração Pública Federal
+
+              direta, autárquica e fundacional.
+
+          ➢ o valor do salário-família.
+
+          ➢ contribuições empresariais ao Plano de Poupança e Investimento -
+
+              PAIT.
+
+          ➢ contribuições pagas pelos empregadores relativas a programas de
+
+              previdência privada em favor de seus empregados e dirigentes.
+
+          ➢ o valor recebido a título de vale-cultura.
+
+● Rendimentos Pagos por Previdências
+
+     ○ São isentos ou não tributáveis:
+
+          ➢ Parcela isenta para rendimentos provenientes de aposentadoria e
+
+              pensão, de transferência para a reserva remunerada ou de reforma,
+
+              pagos pela previdência social da União, dos Estados, do Distrito
+
+              Federal e dos Municípios, por qualquer pessoa jurídica de direito
+
+              público interno, ou por entidade de previdência privada, a partir do
+
+              mês em que o contribuinte completar sessenta e cinco anos de
+
+              idade, sem prejuízo da parcela isenta prevista na tabela de incidência
+
+                                                                                            5
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+              mensal do imposto, até o valor da primeira faixa da tabela
+
+              progressiva mensal.
+
+          ➢ Os rendimentos percebidos pelas pessoas físicas decorrentes de
+
+              seguro-desemprego, auxílio - natalidade, auxílio - doença, auxílio
+
+              - funeral e auxílio - acidente.
+
+          ➢ Os      seguros       recebidos       de     entidades        de    previdência   privada
+
+              decorrentes de morte ou invalidez permanente do participante.
+
+● Rendimentos Decorrentes de Indenizações e Assemelhados
+
+     ○ São isentos ou não tributáveis:
+
+          ➢ A indenização por acidente de trabalho.
+
+          ➢ O pagamento efetuado por pessoas jurídicas de direito público a
+
+              servidores públicos civis, a título de incentivo à adesão a programas
+
+              de desligamento voluntário.
+
+          ➢ A indenização em virtude de desapropriação para fins de reforma
+
+              agrária, quando auferida pelo desapropriado.
+
+                                                                                                 6
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+● Rendimentos de Participações Societárias
+
+     ○ São isentos ou não tributáveis:
+
+
+           ➢ Os lucros ou os dividendos calculados com base nos resultados
+
+               apurados a partir do mês de janeiro de 1996
+
+
+           ➢ os valores efetivamente pagos ou distribuídos ao titular ou ao sócio
+
+               de ME ou EPP optante pelo Simples Nacional, exceto aqueles que
+
+               corresponderem a pro labore, aluguéis ou serviços prestados.
+
+● Rendimentos Obtidos no Mercado Financeiro e Assemelhados
+
+     ○ São isentos ou não tributáveis:
+
+           ➢ Os rendimentos auferidos em contas de depósitos de poupança.
+
+           ➢ Os      rendimentos          distribuídos       pelos     fundos       de       investimento
+
+               imobiliários cujas quotas sejam admitidas à negociação exclusiva
+
+               em bolsas de valores ou em mercado de balcão organizado.
+
+           ➢ A remuneração produzida pela Cédula de Produto Rural (CPR);
+
+           ➢ O acréscimo patrimonial decorrente da variação cambial de
+
+               depósitos mantidos em instituições financeiras no exterior.
+
+                                                                                                      7
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                            
+
+
+---
+
+● Rendimentos Obtidos na Alienação de Bens e Direitos
+
+     ○ Fica isento do imposto de renda o ganho de capital auferido na alienação
+
+        de bens e direitos de pequeno valor, cujo preço unitário de alienação, no
+
+        mês em que esta se realizar, seja igual ou inferior a:
+
+           ➢ R$ 20.000,00, no caso de alienação de ações negociadas no
+
+               mercado de balcão;
+
+           ➢ R$ 35.000,00, nos demais casos (RIR, art. 35, VI, a).
+
+     ○ Fica isento do imposto de renda o ganho de capital auferido na alienação
+
+        do único imóvel que o titular possua, cujo valor de alienação seja de até
+
+        R$ 440.000,00, desde que não tenha sido realizada qualquer outra
+
+        alienação nos últimos cinco anos (RIR, art. 35, VI, b). Condições:
+
+           ➢ Possuir apenas o imóvel que está sendo alienado;
+
+           ➢ O valor da alienação deve ser de até R$ 440.000,00;
+
+           ➢ Não ter alienado outro imóvel nos últimos 05 anos.
+
+     ○ Fica isento do imposto de renda o ganho de capital auferido por pessoa
+
+        física residente no País na venda de imóveis residenciais, desde que o
+
+        alienante, no prazo de 180 dias contado da celebração do contrato,
+
+        aplique o produto da venda na aquisição de imóveis residenciais
+
+        localizados no País (RIR, art. 35, VI, c). Condições:
+
+           ➢ O contribuinte deve ser residente no Brasil;
+
+           ➢ O imóvel vendido deve ser residencial;
+
+                                                                                             8
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                            
+
+
+---
+
+          ➢ Deve adquirir outro imóvel residencial no País com o produto da
+
+              venda, dentro de 180 dias contados da celebração do contrato de
+
+              venda.
+
+● Demais Rendimentos Isentos ou Não Tributáveis
+
+     ○ Bolsas de Estudo: as bolsas de estudo e de pesquisa caracterizadas
+
+        como doação. Condições:
+
+          ➢ Devem ser recebidas exclusivamente para proceder a estudos ou
+
+              pesquisas;
+
+          ➢ Os resultados dessas atividades não podem representar vantagem
+
+              para o doador;
+
+          ➢ Desde que não podem caracterizar contraprestação de serviços.
+
+     ○ São isentos os rendimentos das seguintes bolsas de estudo:
+
+          ➢ Bolsas recebidas no Programa Mais Médicos;
+
+          ➢ Bolsas recebidas no âmbito do Programa de Bolsas para a
+
+              Educação pelo Trabalho;
+
+          ➢ Bolsas recebidas pelos médicos-residentes;
+
+          ➢ Bolsas recebidas pelos servidores das redes públicas de educação
+
+              profissional, científica e tecnológica que participem das atividades do
+
+                                                                                            9
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+                 Programa Nacional de Acesso ao Ensino Técnico e ao Emprego
+
+                 (Pronatec).
+
+       ○ São isentos:
+
+              ➢ O valor dos bens adquiridos por doação ou herança;
+
+              ➢ A indenização recebida por liquidação de sinistro, furto ou roubo,
+
+                 relativo ao objeto segurado.
+
+              ➢ O prêmio em dinheiro obtido em loterias até o limite do valor da 1ª
+
+                 (primeira) faixa da tabela de incidência mensal do IRPF.
+
+Fato Gerador do IRPF – Rendimentos Tributáveis                                                      -
+Rendimentos Originários do Trabalho e Assemelhados
+
+ ● São tributáveis as férias. (RIR, art. 36, II)
+
+
+ ● É tributável a licença especial ou licença-prêmio. (RIR, art. 36, III)
+
+
+ ● Haverá dispensa de retenção de IRRF e tributação na DAA:
+
+       ○ Férias não gozadas por necessidade do serviço, pagas a servidor público
+
+          em pecúnia;
+
+       ○ Férias e licença-prêmio não gozadas por necessidade do serviço, pagas
+
+          em pecúnia, na hipótese de o empregado não ser servidor público;
+
+                                                                                               10
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                              
+
+
+---
+
+     ○ Férias proporcionais convertidas em pecúnia;
+
+     ○ Abono pecuniário de férias;
+
+     ○ Férias em dobro ao empregado na rescisão contratual;
+
+     ○ Adicional de 1/3 previsto na CF/88, quando agregado a pagamento de
+
+        férias - simples ou proporcionais - vencidas e não gozadas, convertidas em
+
+        pecúnia, em razão de rescisão do contrato de trabalho.
+
+● São tributáveis:
+
+     ○ As     gratificações,      participações,        interesses, percentagens, prêmios e
+
+        quotas-partes de multas ou receitas.
+
+     ○ As comissões e corretagens.
+
+     ○ A parcela que exceder à parcela isenta dos rendimentos provenientes de
+
+        aposentadoria e pensão, transferência para a reserva remunerada ou
+
+        reforma, para os que tiverem 65 anos de idade ou mais.
+
+● Rendimentos do Trabalho Não Assalariado e Assemelhados
+
+     ○ São tributáveis os rendimentos do trabalho não assalariado, tais como:
+
+            ➢ Honorários do livre exercício das profissões de médico, engenheiro,
+
+                advogado, dentista, veterinário, professor, economista, contador,
+
+                                                                                              11
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                             
+
+
+---
+
+         jornalista, pintor, escritor, escultor e de outras que lhes possam ser
+
+         assemelhadas;
+
+     ➢ Remuneração proveniente de profissões, ocupações e prestação de
+
+         serviços não-comerciais;
+
+     ➢ Remuneração dos agentes, representantes e outras pessoas sem
+
+         vínculo empregatício que, tomando parte em atos de comércio, não
+
+         os pratiquem por conta própria;
+
+     ➢ Emolumentos e custas dos serventuários da Justiça, como
+
+         tabeliães, notários, oficiais públicos e outros, quando não forem
+
+         remunerados exclusivamente pelos cofres públicos;
+
+     ➢ Corretagens e comissões dos corretores, leiloeiros e despachantes,
+
+         seus prepostos e adjuntos;
+
+○ São tributáveis:
+
+     ➢ 10% dos rendimentos de transporte de carga e serviços com trator,
+
+         máquina de terraplenagem, colheitadeira e assemelhados.
+
+     ➢ 60% dos rendimentos de transporte de passageiros. (RIR, art. 39)
+
+     ➢ 10% dos rendimentos auferidos pelos garimpeiros na venda a
+
+         empresas legalmente habilitadas de metais preciosos, pedras
+
+         preciosas e semipreciosas por eles extraídos é oferecido à tributação.
+
+                                                                                       12
+
+     **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                      
+
+
+---
+
+● Rendimentos de Aluguel
+
+     ○ São tributáveis:
+
+          ➢ Aforamento,             locação        ou       sublocação,         arrendamento          ou
+
+              subarrendamento, direito de uso ou passagem de terrenos, seus
+
+              acrescidos       e    benfeitorias,       inclusive     construções           de   qualquer
+
+              natureza;
+
+          ➢ Locação ou sublocação, arrendamento ou subarrendamento de
+
+              pastos naturais ou artificiais, ou campos de invernada;
+
+          ➢ Direito de uso ou aproveitamento de águas privadas ou de força
+
+              hidráulica;
+
+          ➢ Direito de uso ou exploração de películas cinematográficas ou de
+
+              videoteipe;
+
+          ➢ Direito de uso ou exploração de outros bens móveis de qualquer
+
+              natureza;
+
+          ➢ Direito de exploração de conjuntos industriais.
+
+     ○ Não entrarão no cômputo do rendimento bruto, no caso específico de
+
+       aluguel de bens imóveis:
+
+          ➢ O valor dos impostos, taxas e emolumentos incidentes sobre o
+
+              bem que produzir o rendimento;
+
+          ➢ O aluguel pago pela locação de imóvel sublocado;
+
+          ➢ As despesas pagas para cobrança ou recebimento do rendimento;
+
+                                                                                                     13
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+             ➢ As despesas de condomínio.
+
+● Rendimentos de Royalties
+
+     ○ São tributáveis na declaração os rendimentos decorrentes de uso,
+
+        fruição ou exploração de direitos, tais como:
+
+             ➢ De colher ou extrair recursos vegetais, inclusive florestais;
+
+             ➢ De pesquisar e extrair recursos minerais;
+
+             ➢ De uso ou exploração de invenções, processos e fórmulas de
+
+                 fabricação e de marcas de indústria e comércio;
+
+             ➢ Autorais, salvo quando percebidos pelo autor ou criador do bem ou
+
+                 da obra.
+
+● Rendimentos de Pensão Judicial
+
+     ○ São tributáveis os valores percebidos, em dinheiro, a título de alimentos
+
+        ou     pensões,        em      cumprimento           de     decisão       judicial      ou   acordo
+
+        homologado            judicialmente,          inclusive      a     prestação       de    alimentos
+
+        provisionais.
+
+                                                                                                       14
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                              
+
+
+---
+
+● Rendimentos Recebidos Acumuladamente
+
+    ○ RRA Relativos a Anos-calendário Anteriores ao do Recebimento:
+
+         ➢ Tributação com base na tabela progressiva;
+
+         ➢ Tributação ocorre exclusivamente na fonte, podendo optar por
+
+             incluir no ajuste anual (opção irretratável);
+
+         ➢ A tributação ocorre no mês do recebimento ou do crédito,
+
+             separadamente dos demais rendimentos recebidos no mês;
+
+         ➢ O imposto sobre a renda será retido pela pessoa física ou jurídica
+
+             obrigada ao pagamento ou pela instituição financeira depositária
+
+             do crédito;
+
+    ○ RRA Relativos ao Ano-calendário do Recebimento:
+
+         ➢ Serão tributados no mês do recebimento ou crédito, sobre o total
+
+             dos rendimentos, diminuídos do valor das despesas com ação
+
+             judicial necessárias ao seu recebimento, inclusive de advogados, se
+
+             tiverem sido pagas pelo contribuinte, sem indenização.
+
+         ➢ Estão sujeitos à tributação na fonte como antecipação e ao ajuste
+
+             anual (não se aplica, neste caso, a tributação exclusiva na fonte,
+
+             exceto se referente ao décimo terceiro salário).
+
+                                                                                           15
+
+         **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                          
+
+
+---
+
+● Rendimentos da Atividade Rural
+
+     ○ Resultado da atividade rural: Considera-se resultado da atividade rural a
+
+        diferença entre o valor da receita bruta recebida e o das despesas de
+
+        custeio e de investimentos pagos no ano-calendário, correspondentes a
+
+        todos os imóveis da pessoa física, independentemente de localização.
+
+     ○ Apuração mediante escrituração de Livro Caixa
+
+     ○ Receita bruta da atividade rural: é constituída pelo montante das vendas
+
+        dos produtos oriundos das atividades definidas como rurais, exploradas
+
+        pelo próprio produtor-vendedor
+
+     ○ Despesas de custeio e os investimentos: são aqueles necessários à
+
+        percepção dos rendimentos e à manutenção da fonte produtora,
+
+        relacionados com a natureza da atividade exercida.
+
+     ○ Compensação de prejuízos anteriores: permite-se a compensação do
+
+        resultado positivo com prejuízos apurados em anos-calendário anteriores.
+
+     ○ Resultado Presumido: à opção do contribuinte, o resultado da atividade
+
+        rural limitar-se-á a 20% da receita bruta do ano-calendário.
+
+     ○ No resultado presumido, o contribuinte perderá o direito à compensação
+
+        dos prejuízos correspondentes aos anos-calendário anteriores ao da opção.
+
+                                                                                            16
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+● Outros Rendimentos Tributáveis
+
+     ○ São tributáveis:
+
+          ➢ As importâncias com que for beneficiado o devedor, nos casos de
+
+              perdão ou cancelamento de dívida em troca de serviços prestados.
+
+          ➢ Os lucros do comércio e da indústria, auferidos por todo aquele que
+
+              não     exercer,     habitualmente,          a    profissão de comerciante ou
+
+              industrial.
+
+          ➢ Os rendimentos recebidos na forma de bens ou direitos, avaliados
+
+              em dinheiro, pelo valor que tiverem na data da percepção.
+
+          ➢ As importâncias recebidas a título de juros e indenizações por
+
+              lucros cessantes.
+
+          ➢ Os rendimentos derivados de atividades ou transações ilícitas ou
+
+              percebidos com infração à lei, independentemente das sanções
+
+              cabíveis.
+
+          ➢ O salário-educação.
+
+                                                                                            17
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                           
+
+
+---
+
+Resumo – Dispensa de Retenção
+
+I - Programa de Demissão Voluntária (PDV)
+
+II - Abono Assiduidade e Ausências Permitidas ao Trabalho para Trato de Interesse
+Particular (APIP)
+
+III - adesão a Planos de Aposentadoria Incentivada (PAI)
+
+IV - complementação de aposentadoria e resgate correspondente às contribuições
+efetuadas exclusivamente pelo beneficiário no período de 01/01/1989 a 31/12/1995, até
+o limite do imposto pago sobre as contribuições desse período, por força da isenção
+concedida no inciso VII do art. 6o da Lei no 7.713/1988, na redação anterior a que lhe
+foi dada pela Lei no 9.250/1995
+
+V - férias não gozadas por necessidade do serviço, pagas a servidor público em
+pecúnia
+
+VI - licença-prêmio não gozada por necessidade do serviço, paga a servidor público
+em pecúnia
+
+VII - férias e licença-prêmio não gozadas por necessidade do serviço, pagas em
+pecúnia, na hipótese de o empregado não ser servidor público
+
+VIII - férias proporcionais convertidas em pecúnia
+
+IX - abono pecuniário de férias de que trata o art. 143 da CLT
+
+X - férias em dobro ao empregado na rescisão contratual
+
+XI - adicional de 1/3 (um terço) previsto CF/88, quando agregado a pagamento de
+férias -simples ou proporcionais - vencidas e não gozadas, convertidas em pecúnia,
+em razão de rescisão do contrato de trabalho
+
+XII - auxílio-condução, quando pago a oficiais de justiça para recompor as perdas
+experimentadas em razão da utilização de veículo próprio para o exercício da função
+pública
+
+XIII - parcela indenizatória devida aos parlamentares em face de convocação para
+sessão legislativa extraordinária
+
+                                                                                                18
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                               
+
+
+---
+
+XIV - verbas recebidas a título de auxílio-creche e auxílio pré-escolar pelos
+trabalhadores até o limite de 5 anos de idade de seus filhos
+
+XV - verbas recebidas a título de reembolso-babá
+
+XVI - verbas recebidas a título de dano moral
+
+XVII - valores recebidos a título de aposentadoria, reforma ou pensão, quando o
+beneficiário for portador do gênero patológico “cegueira”, seja ela binocular ou
+monocular, desde que devidamente caracterizada por definição médica
+
+                                                                                                19
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 06.
+
+                               
+
+
+---

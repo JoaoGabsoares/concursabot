@@ -1,0 +1,110 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 13_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Passo Estratégico de Legislação
+---
+
+# Passo Estratégico de Legislação
+
+Aula Extra
+                          Receita Federal (Analista Tributário)
+                               Passo Estratégico de Legislação
+                                                    Aduaneira
+
+                                                        Autor:
+                             Raphael Rabelo Parreira, Bruno
+                                                      Bezerra
+
+
+                                         17 de Setembro de 2025
+
+---
+
+  Raphael Rabelo Parreira, Bruno Bezerra
+  Aula Extra
+
+                                       ANÁLISE ESTATÍSTICA
+Caso algum dos tópicos possua um “*” significa que, a despeito da estatística apontada, esse
+tópico deve ser encarado como muito importante para sua prova, já que este possui uma ligação
+muito forte com o concurso em questão.
+Foram analisadas aproximadamente 80 questões, abrangendo provas da FGV de 2015-2025 e
+concursos de Auditor-Fiscal e Analista-Tributário da RFB realizados anteriormente.
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos no
+nosso curso – quanto maior o percentual de cobrança de um dado assunto, maior sua
+importância:
+
+                                                                                             Grau de
+                                                                                          incidência em
+                                            Assunto
+                                                                                            concursos
+                                                                                             similares
+
+
+  Impostos, Taxas e Contribuições na Importação e na Exportação – Imposto de
+                                                                                             25,1%
+                                  Importação
+
+
+  Imposto de Exportação; IPI vinculado à Importação; PIS/COFINS-Importação;
+                                                                                             16,1%
+                                     CIDE
+
+
+                  Normas Especiais; Representação Fiscal; FUNDAF                             12,8%
+
+
+                Jurisdição Aduaneira; Controle Aduaneiro de Veículos                         12,0%
+
+
+    Regimes Aduaneiros Especiais – parte 1 (Trânsito Aduaneiro até Termo de
+                                                                                             10,0%
+                             Responsabilidade)
+
+
+         Regimes Aduaneiros Especiais – parte 2 (Entreposto até Zonas de
+                                                                                              9,8%
+                        Processamento de Exportação)
+
+
+                           Infrações e Penalidades Aduaneiras                                 7,5%
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+        www.estrategiaconcursos.com.br
+
+                                     
+
+
+---
+
+Raphael Rabelo Parreira, Bruno Bezerra
+Aula Extra
+
+     Controle Aduaneiro de Mercadorias; Crédito Tributário (lançamento,
+                                                                                        6,7%
+                   acréscimos, decadência e prescrição)
+
+
+                     Processo Fiscal e Controle Administrativo                          <1%
+
+                                                     ==219a34==
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Legislação Aduaneira
+      www.estrategiaconcursos.com.br
+                                                                                               2
+                                   
+
+
+---
+
+---

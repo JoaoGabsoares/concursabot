@@ -1,0 +1,3239 @@
+                                                                                     Índice
+1)  Regimes de Tributação - Aspectos Gerais
+..............................................................................................................................................................................................3
+
+..............................................................................................................................................................................................
+2)  Regime de Retenção do IRPF                                                                                                                                                                6
+
+3)  Regime De Tributação Anual                                                                                                                                                              11
+..............................................................................................................................................................................................
+
+4)  Regime De Tributação Exclusiva Na Fonte                                                                                                                                                 39
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+5)  Regime De Tributação Definitiva                                                                                                                                                         43
+
+6)  Sistemas de Bases Correntes, Lançamentos e Entrega da DIRPF                                                                                                                             45
+..............................................................................................................................................................................................
+
+..............................................................................................................................................................................................
+7)  Questões Comentadas - IRPF - Parte III                                                                                                                                                  56
+
+8)  Lista de Questões - IRPF - Parte III - Multibancas                                                                                                                                      71
+..............................................................................................................................................................................................
+TABELAS E INFORMAÇÕES RELEVANTES SOBRE O
+                  IRPF
+Tabela Progressiva para o cálculo mensal do Imposto sobre a Renda da Pessoa Física a partir do mês de abril
+do ano-calendário 2015 (válida para o exercício 2020):
+
+        Base de cálculo mensal em R$          Alíquota %       Parcela a deduzir do imposto em R$
+     Até 1.903,98                                  -                             -
+     De 1.903,99 até 2.826,65                     7,5                        142,80
+     De 2.826,66 até 3.751,05                    15,0                        354,80
+     De 3.751,06 até 4.664,68                    22,5                        636,13
+     Acima de 4.664,68                           27,5                        869,36
+
+Tabela Progressiva para o cálculo anual do Imposto sobre a Renda da Pessoa Física para a partir do exercício
+2017, ano-calendário 2016 (válida para o exercício 2020):
+
+         Base de cálculo anual em R$          Alíquota %       Parcela a deduzir do imposto em R$
+     Até 22.847,76                                 -                             -
+     De 22.847,77 até 33.919,80                   7,5                       1.713,58
+     De 33.919,81 até 45.012,60                  15,0                       4.257,57
+     De 45.012,61 até 55.976,16                  22,5                       7.633,51
+     Acima de 55.976,16                          27,5                       10.432,32
+
+Limite anual de dedução no desconto simplificado: R$ 16.754,34
+
+Limite anual dedutível individual de despesas com instrução: R$ 3.561,50
+
+Valor anual dedutível para cada dependente: R$ 2.275.08
+
+Parcela isenta mensal correspondente à parcela isenta dos rendimentos de aposentadoria e pensão dos
+contribuintes que possuem 65 anos de idade ou mais: R$ 1.903,98
+
+
+
+
+        Obsevação 1: valores referentes válidos para o exercício 2020.
+
+        Observação 2: Não é obrigatório memorizar esses valores. Portanto, você não precisa se
+        preocupar se forem alterados no exercício de 2020
+               REGIMES DE TRIBUTAÇÃO DO IRPF
+Na aula de hoje, estudaremos os três regimes de tributação do IRPF. São eles: regime de tributação anual,
+regime de tributação exclusiva na fonte e regime de tributação definitiva.
+
+
+
+
+Por ora, memorize que o regime de tributação anual é a regra geral!
+
+
+
+
+O regime de tributação anual é aquele em que o imposto incide anualmente sobre os diversos rendimentos
+auferidos durante o ano-calendário. Durante esse período (anual), o contribuinte está sujeito a
+antecipações mensais, cuja responsabilidade pelo recolhimento pode recair sobre ele próprio ou sobre a
+fonte pagadora, a depender da natureza dos rendimentos.
+
+Após o término desse período, o contribuinte fica obrigado a apresentar uma Declaração de Ajuste Anual
+(também denominada DIRPF), onde basicamente será apurado o valor do imposto devido, descontadas as
+antecipações efetuadas no transcorrer do ano calendário.
+
+        Observação: Como exemplo, podemos citar os rendimentos decorrentes do trabalho
+        assalariado.
+
+Destaque-se que não estão submetidos à antecipação mensal, nem mesmo à apuração anual os rendimentos
+que estiverem submetidos ao regime de tributação exclusiva na fonte bem como ao regime de tributação
+definitiva.
+
+O regime de tributação exclusiva na fonte se caracteriza pelo fato de o contribuinte ter sua obrigação de
+pagar o IRPF totalmente excluída, cabendo a fonte pagadora a retenção do imposto e o posterior
+recolhimento.
+
+Além disso, como foi dito no parágrafo anterior, a retenção exclusiva na fonte não constitui antecipação
+mensal, pois os rendimentos submetidos a esse regime de tributação não integram a base de cálculo do
+regime de tributação anual. Dessa forma, a tributação se resolve no momento em que há o recolhimento
+por parte da fonte pagadora.
+
+        Observação: Como exemplo, temos o décimo terceiro salário. Embora seja decorrente do
+        trabalho, a legislação tributária o define como sujeito ao regime de tributação exclusiva na
+        fonte.
+No que concerne ao regime de tributação definitiva, a obrigação de efetuar o recolhimento do imposto
+devido recai sobre o próprio contribuinte. Tal como ocorre com o regime de tributação exclusiva, os
+rendimentos submetidos a esse regime de tributação não integram a base de cálculo do regime de tributação
+anual, razão pela qual o IRPF pago com base nesse regime não constitui antecipação mensal.
+
+        Observação: Como exemplo, citamos os ganhos de capital na alienação de bens e direitos.
+
+        Destacamos que no regime de tributação definitiva há antecipações específicas, que não
+        se confundem com a antecipação mensal do imposto apurado anualmente.
+
+        Não se preocupe, pois ainda nesta aula suas dúvidas sobre este assunto serão sanadas.
+        Vamos explicar detalhadamente tudo o que for importante e relevante para a boa
+        compreensão da matéria!
+
+Observe que o regime de tributação exclusiva na fonte e o regime de tributação definitiva se assemelham
+pelo fato de os rendimentos que a eles estão sujeitos não integrarem a base de cálculo do regime de
+tributação anual. Por conseguinte, também não constituem antecipação mensal do imposto anual.
+
+Embora semelhantes, possuem uma distinção fundamental: a retenção do imposto na fonte. No regime de
+tributação exclusiva na fonte, é a própria fonte pagadora que deve promover a retenção do imposto e o
+posterior recolhimento, ao passo que no regime de tributação definitiva o recolhimento compete ao próprio
+contribuinte.
+
+De qualquer modo, todos os rendimentos e ganhos de capital, seja qual for o regime de tributação a que
+estiverem sujeitos, devem ser informados na DIRPF, já que explicam a variação que o patrimônio do
+contribuinte sofreu durante o ano-calendário.
+
+Tudo isso que foi comentado até o momento deve ficar muito claro, para compreender o que estudaremos
+durante essa aula! Preste bastante atenção!
+
+Antes de estudarmos minuciosamente os regimes de tributação do IRPF, precisamos preparar ainda mais
+nossa base de conhecimento, para não enfrentar qualquer dificuldade!
+
+Sendo assim, vamos ver como ocorrem as retenções na fonte.
+                   REGIMES DE RETENÇÃO DO IRPF
+O IRPF nem sempre é recolhido pelo próprio contribuinte do imposto. Muitas vezes, a legislação tributária
+determina que a fonte pagadora deve efetuar o recolhimento, com base no que prevê o art. 45, par. único,
+do CTN:
+
+       Parágrafo único. A lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a
+       condição de responsável pelo imposto cuja retenção e recolhimento lhe caibam.
+
+Na prática, a retenção na fonte ocorre em dois regimes distintos: regime de retenção por antecipação e
+regime de retenção exclusiva. Vamos ver como isso funciona!
+
+
+
+
+Prezado candidato: é muito importante que você saiba que regime de tributação não se confunde com
+regime de retenção!
+
+Trata-se de uma premissa básica para compreender o IRPF!
+
+
+
+
+O regime de retenção por antecipação é aplicável basicamente ao regime de tributação anual, em que a
+fonte retém mensalmente o IRPF, com base na aplicação da tabela progressiva mensal (inserida no início da
+aula). Ao final do período, cabe ao contribuinte realizar o ajuste anual, hipótese em que irá apurar o imposto
+devido. Nesse momento, podem ocorrer duas situações:
+
+    As antecipações serem inferiores ao imposto devido  Neste caso, o contribuinte terá que recolher
+     o saldo restante.
+    As antecipações serem superiores ao imposto devido  Neste caso, o contribuinte fará jus à
+     restituição do que foi pago a maior.
+
+        Observação: Nós veremos que as antecipações do imposto calculado segundo o regime
+        de tributação anual não ocorrem apenas por meio de retenção na fonte. Há outras formas
+        de antecipar o imposto, as quais serão vistas em momento oportuno.
+
+Destaque-se que o regime de retenção por antecipação também é eventualmente aplicável ao regime de
+tributação definitiva. Ou seja, nesse regime de tributação, pode ocorrer de a fonte ficar encarregada do
+recolhimento do imposto, a título de antecipação.
+“Peraí, professor! Você havia dito lá em cima que a distinção básica entre o regime de tributação exclusiva
+na fonte e o regime de tributação definitiva era a basicamente que naquele havia retenção na fonte, e neste
+não havia. Correto?”
+
+Sim, eu concordo com você! Mas se você fizer uma nova leitura naquele tópico, verá que eu mencionei que
+no regime de tributação definitiva há antecipações específicas. Isso se dá por meio de retenção na fonte
+(IRRF). A regra geral desse regime de tributação de fato consiste no recolhimento do imposto pelo próprio
+contribuinte. Contudo, excepcionalmente, há retenções na fonte!
+
+É o caso das operações de Day-Trade realizadas em bolsas de valores, que foram regulamentadas pela
+Receita Federal, por meio da IN RFB 1.585/2015. O rendimento decorrente dessa operação submete-se à
+tributação em períodos mensais (característico da tributação definitiva). Contudo, a legislação nomeia como
+responsável pela retenção e recolhimento antecipado a instituição intermediadora da referida operação.
+
+        Observação: Day-Trade é a operação ou a conjugação de operações iniciadas e encerradas
+        em um mesmo dia, com o mesmo ativo, em uma mesma instituição intermediadora, em
+        que a quantidade negociada tenha sido liquidada, total ou parcialmente (IN RFB
+        1.585/2015, art. 65, § 1°, I).
+
+O mais interessante disso tudo é que se você parar para pensar no assunto, chegará à conclusão de que nos
+três regimes de tributação há retenção na fonte.
+
+Veja bem: no regime de tributação anual, a retenção na fonte ocorre por antecipação do imposto devido
+anualmente; No regime de tributação definitiva, a retenção também ocorre por antecipação, mas não do
+imposto anual, e sim do imposto que é devido mensalmente, conforme as regras atinentes a esse regime;
+Por fim, no tocante ao regime de tributação exclusiva na fonte, como o próprio nome diz, a retenção é feita
+exclusivamente na fonte, estando o contribuinte dispensado de qualquer recolhimento. Neste caso, não há
+qualquer antecipação.
+
+        Observação: A retenção exclusiva na fonte não constitui antecipação, pois corresponde ao
+        próprio imposto devido. Assim, não há qualquer ajuste, dedução ou compensação a
+        posteriori.
+
+Esquematizando:
+
+
+          Reg. de Tributação Anual                           Retenção Por Antecipação
+
+
+        Reg. de Tributação Definitiva                        Retenção Por Antecipação
+
+
+    Reg. de Tributação Exclusiva na Fonte                   Retenção Exclusiva na Fonte
+    Após efetuar a retenção e o recolhimento do imposto, a fonte pagadora deve ainda identificar quem são
+os contribuintes que tiveram o imposto retido. Isso ocorre porque normalmente a fonte pagadora realiza
+pagamentos a diversas pessoas, como é o caso de médias e grandes empresas, por exemplo.
+
+
+
+
+        Observação: O recolhimento ocorre por meio de DARF, o que faz surgir a necessidade de
+        identificação daqueles que sofreram a retenção do imposto.
+
+Essa identificação é feita por meio da apresentação da DIRF – Declaração do Imposto de Renda Retido na
+Fonte. Atualmente, a DIRF é apresentada eletronicamente, por meio de um programa gerador, que se
+encontra disponível no site da Receita Federal. A DIRF deve ser apresentada até o último dia do mês de
+fevereiro do ano seguinte àquele em que ocorreu a retenção.
+
+Cabe ressaltar que a DIRF não se confunde com a DIRPF (ou Declaração de Ajuste Anual - DAA). Aquela é
+apresentada pela fonte pagadora, e esta, pelo próprio contribuinte. Veja, pois, que a fiscalização da RFB pode
+cruzar os dados de tais declarações para verificar se há ou não inconsistências entre elas.
+
+
+1 – A Falta de Retenção e a Responsabilidade Tributária
+
+É interessante observar que pode acontecer de a fonte pagadora não efetuar a retenção, ou mesmo efetuar
+a retenção e não recolher o imposto. Se isso ocorrer, como fica a responsabilidade do contribuinte sobre o
+que deixou de ser pago? Vamos analisar isso neste tópico.
+
+O CTN prevê em seu art. 128 a seguinte regra a respeito da responsabilidade tributária:
+
+       Art. 128. Sem prejuízo do disposto neste capítulo, a lei pode atribuir de modo expresso a
+       responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva
+       obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter supletivo
+       do cumprimento total ou parcial da referida obrigação.
+
+Veja, portanto, que a lei pode atribuir a responsabilidade pelo recolhimento do tributo a terceira pessoa,
+excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter supletivo. Isso significa que
+pode haver situações em que, se o responsável não cumprir com a obrigação tributária, o contribuinte é
+chamado ao cumprimento desta.
+
+Isso é o que ocorre com o IRPF. A fonte pagadora é a terceira pessoa vinculada ao fato gerador do imposto
+de renda, a quem a lei atribui a responsabilidade de reter e recolher o tributo.
+
+No caso do regime de retenção exclusiva na fonte, a responsabilidade é apenas da fonte pagadora. Isso
+significa que, mesmo que não haja retenção do IRPF por parte desta, o contribuinte não fica obrigado a
+recolher o tributo. Contudo, em se tratando do regime de retenção por antecipação, o contribuinte pode
+ser chamado a responder supletivamente, caso não ocorra a retenção na fonte.
+Como medida de desestímulo a essa prática, ou seja, para que a fonte pagadora não adote a prática de
+“empurrar” a responsabilidade para o contribuinte, ela é multada pela RFB.
+
+
+
+Cabe destacar que, havendo a devida retenção, sem que seja efetuado o recolhimento à Fazenda Nacional,
+a fonte pagadora enquadra-se no crime de apropriação indébita previsto no art. 11, da Lei 4.357/1964.
+Nesse caso, o contribuinte não se torna responsável pelo imposto que deixou de ser recolhido, podendo
+lançar o imposto retido como dedução no ajuste anual.
+
+Para ilustrar e facilitar a compreensão do que acabamos de estudar, vamos ver algumas situações
+hipotéticas:
+
+     Situação 1  O Sr. Tributino trabalha em uma empresa durante todo o ano de 2015. A fonte
+     pagadora não retém o IRPF devido pelo contribuinte durante o ano. O que o Sr. Tributino deve
+     fazer, ao apresentar a DIRPF em 2016?
+
+     Resposta: Deve declarar todos os rendimentos recebidos da referida empresa, sem deduzir
+     qualquer parcela a título de imposto pago antecipadamente, já que não houve retenção e o
+     rendimento está sujeito ao regime de retenção por antecipação.
+
+
+
+
+     Situação 2  O Sr. Tributino trabalha em uma empresa durante todo o ano de 2015. Ao receber
+     seu 13° salário, nota que não houve retenção exclusiva na fonte. O que o Sr. Tributino deve fazer,
+     ao apresentar a DIRPF em 2016?
+
+     Resposta: Como veremos, o 13° salário sofre incidência do IRPF, cujo recolhimento é efetuado
+     pela fonte pagadora, mediante retenção exclusiva. Sendo assim, a responsabilidade não é
+     transferida ao contribuinte, que não estará obrigado a arcar com o imposto que deixou de ser
+     pago.
+
+
+
+
+     Situação 3  O Sr. Tributino trabalha em uma empresa durante todo o ano de 2015. A fonte
+     pagadora retém o IRPF devido pelo contribuinte durante o ano, mas não efetua o recolhimento.
+     O que o Sr. Tributino deve fazer, ao apresentar a DIRPF em 2016?
+
+     Resposta: Deve declarar todos os rendimentos recebidos da referida empresa, deduzindo o
+     imposto retido.
+        Observação: O que foi estudado acima toma como base no Parecer Normativo N°
+        001/2002, da Coordenação-Geral de Tributação (RFB).
+
+A partir de agora, iremos estudar detalhadamente como funciona cada um dos regimes de tributação citados
+acima.
+                   REGIME DE TRIBUTAÇÃO ANUAL
+Havíamos dito que o regime de tributação anual é a regra geral. Vejamos, então, porque fizemos tal
+afirmação1:
+
+        Art. 72. A base de cálculo do imposto, na DAA (Declaração de Ajuste Anual), é a diferença entre as
+        somas:
+
+        I - de todos os rendimentos recebidos durante o ano-calendário, exceto os isentos, os não
+        tributáveis, os tributados exclusivamente na fonte e os sujeitos à tributação definitiva;
+
+        (...)
+
+          Observação: O RIR/2018 trata da base de cálculo anual no art. 76, fazendo referência ao
+          “imposto devido no ano-calendário”, o que quer dizer o mesmo, ok?
+
+Assim sendo, todos os rendimentos recebidos durante o ano-calendário, como regra, integram a base de
+cálculo do imposto devido anualmente, salvo os isentos, os não tributáveis, bem como os que estiverem
+sujeitos aos outros regimes de tributação, quais sejam o de tributação definitiva e exclusiva na fonte.
+
+Salientamos que o resultado positivo da atividade rural, apurado de acordo com a Lei nº 8.023/1990, integra
+a base de cálculo do imposto na declaração de rendimentos.
+
+
+
+
+O resultado positivo da atividade rural integra a base de cálculo do IRPF anual!
+
+
+
+
+Como se pode perceber, diversos são os rendimentos sujeitos ao regime de tributação anual. Tais
+rendimentos são auferidos durante todo o ano-calendário, mas o fato gerador nesse regime de tributação
+somente se aperfeiçoa apenas no dia 31/12 de cada ano.
+
+Como se trata de tributo sujeito ao lançamento por homologação, cabe ao contribuinte apurar o imposto a
+pagar ou a restituir, mediante apresentação da DIRPF (Declaração do Imposto de Renda da Pessoa Física),
+também denominada DAA (Declaração de Ajuste Anual).
+
+
+
+
+1
+    IN RFB 1.500/2014, art. 72, e Lei 9.250/1995, art. 8°, I.
+Dissemos que pode haver imposto a pagar ou a restituir, porque há algumas regras específicas para o ajuste
+anual, que podem resultar em imposto maior (a pagar) ou menor (a restituir) do que aquele que já foi
+antecipado.
+
+Vamos prosseguir!
+
+
+
+
+1 – Antecipações do Imposto Devido no Regime de Tributação
+Anual
+
+As antecipações do imposto anual se resumem assim:
+
+            1.   Retenções na Fonte;
+            2.   Recolhimentos Mensais Obrigatórios;
+            3.   Recolhimentos Complementares Facultativos;
+            4.   Imposto Pago no Exterior;
+            5.   Outras Antecipações;
+
+Nós iremos iniciar o estudo desse regime de tributação seguindo a ordem cronológica de como se dá a
+tributação. Certamente isso facilitará a compreensão do assunto. Portanto, como as antecipações
+obviamente ocorrem em momento anterior à apuração anual, é por elas que vamos começar! Combinados?
+
+Vamos lá!
+
+1.1 – Retenção na Fonte
+
+De início, precisamos saber quais são os rendimentos tributáveis pelo regime anual que sofrem retenção na
+fonte. Em síntese, estão sujeitos à incidência na fonte os rendimentos do trabalho assalariado pagos por
+pessoa física ou jurídica e os demais rendimentos pagos por pessoa jurídica a pessoa física. Evidentemente,
+os rendimentos tributados pelo regime de tributação definitiva e exclusiva na fonte não estão entre eles.
+
+
+
+
+    Considera-se fonte pagadora a PF ou PJ que pagar ou creditar tais rendimentos.
+    Os rendimentos tributados pelo regime de tributação definitiva e exclusiva na fonte não são
+     antecipações.
+
+
+
+Dessa forma, podemos esquematizar assim:
+
+                                                                       Pagos por PJ ou por PF
+      Rendimentos do Trabalho Assalariado
+      Demais Rendimentos (Reg. Tribut. Anual)                               Pagos por PJ a PF
+
+
+
+
+  Rendimentos Tributáveis pelos regimes:
+                                                                      Não são antecipações do IRPF
+                                                                          devido anualmente.
+      Tributação Definitiva;
+      Tributação Exclusiva na Fonte.
+
+
+
+Destaque-se que, de acordo com o que estabelece o art. 65, § 1°, da IN RFB 1.500/2014, o imposto mensal
+retido na fonte é calculado sobre os rendimentos efetivamente recebidos em cada mês.
+
+Logo abaixo, vou exemplificar dos rendimentos submetidos à retenção na fonte, tal como consta no art. 22,
+da IN RFB 1.500/2014:
+
+         I- rendimentos de trabalho sem vínculo empregatício, proventos de aposentadoria, de
+         reserva e de reforma e pensões civis e militares;
+
+         II - complementação de aposentadoria ou de pensão recebida de entidade de previdência
+         complementar;
+
+         III - resgate de valores acumulados relativos a planos de caráter previdenciário
+         estruturados na modalidade de benefício definido;
+
+         IV - rendimentos de empreitadas de obras exclusivamente de lavor;
+
+         V - 10%, no mínimo, dos rendimentos decorrentes do transporte de carga e serviços com
+         trator, máquina de terraplenagem, colheitadeira e assemelhados, e 60%, no mínimo, dos
+         rendimentos decorrentes do transporte de passageiros;
+
+         VI - rendimentos de aluguéis, royalties e arrendamento de bens ou direitos;
+
+         VII - rendimentos pagos aos titulares, sócios, dirigentes, administradores e conselheiros de
+         pessoas jurídicas, a título de remuneração mensal por prestação de serviços, de
+         gratificação ou participação no resultado;
+
+         VIII - gratificações e participações pagas aos empregados ou quaisquer outros
+         beneficiários, exceto participação dos trabalhadores nos lucros e resultados das empresas
+         de que trata o art. 17;
+
+         IX - despesas ou encargos, cujo ônus seja do empregado, pagos pelo empregador em favor
+         daquele, tais como aluguel, contribuição previdenciária, imposto sobre a renda e seguro
+         de vida;
+
+         X - juros e indenizações por lucros cessantes, decorrentes de sentença judicial;
+        XI - salário-educação;
+
+        XII - multas e vantagens por rescisão de contrato;
+
+        XIII - rendimentos efetivamente pagos a sócios ou titular de microempresa ou de empresa
+        de pequeno porte optantes pelo Simples Nacional, correspondentes a pró-labore, aluguéis
+        ou serviços prestados;
+
+        XIV - salários indiretos concedidos pelas empresas e pagos a administradores, diretores,
+        gerentes e seus assessores, como benefícios e vantagens adicionais decorrentes de cargos,
+        funções ou empregos, quando identificado o beneficiário;
+
+        XV - 10%, no mínimo, dos rendimentos recebidos pelos garimpeiros na venda, a empresas
+        legalmente habilitadas, de metais preciosos, pedras preciosas e semipreciosas;
+
+        XVI - valor do resgate de partes beneficiárias ou de fundador e de outros títulos
+        semelhantes, bem como rendimentos provenientes desses títulos;
+
+        XVII - lucros efetivamente pagos a sócios, acionistas ou titular de empresa individual,
+        tributados pelo regime do lucro presumido, e escriturados no livro Caixa ou nos livros de
+        escrituração contábil, que ultrapassarem o valor do lucro presumido deduzido dos
+        impostos e contribuições correspondentes ou o valor do lucro contábil e dos lucros
+        acumulados ou reservas de lucros de períodos-base anteriores.
+
+
+
+
+        Observação: Não se preocupe em decorar tudo isso agora. O objetivo é apenas mostrar
+        que boa parte dos rendimentos que se submetem à tributação anual sofrem retenção na
+        fonte. Veja que grifamos os principais.
+
+        O estudo da tributação na fonte será realizado de forma mais aprofundada na Aula 10,
+        capítulo 4.
+
+
+
+
+Antes da alteração da IN RFB 1500/14, pela IN RFB 1558/15, no inciso XI também constava o auxílio-creche,
+que foi retirado, por conta do disposto no art. 19, da Lei 10.522/02, com redação dada pela Lei Lei 11.033/04,
+que prevê a possibilidade de a Procuradoria-Geral da Fazenda Nacional (órgão responsável pela cobrança
+judicial da dívida tributária relativa aos tributos federais) não contestar, a não interpor recurso ou a desistir
+do que tenha sido interposto nos casos que se refiram a jurisprudência pacífica dos tribunais superiores.
+
+O auxílio-creche vem sendo pacificamente definido como verba indenizatória pelo STJ, razão pela qual,
+com base no supracitado dispositivo, foi alterada a IN RFB 1500/14, para dispensar a retenção do IRRF sobre
+os valores recebidos a título de auxílio-creche e auxílio pré-escolar pelos trabalhadores até o limite de 5
+(cinco) anos de idade de seus filhos bem como verbas recebidas a título de reembolso-babá. (IN RFB
+1500/14, art. 62)
+
+
+
+Ainda sobre as retenções, é importante conhecer a forma como são calculadas. Para isso, é essencial
+conhecer a base de cálculo do imposto mensal, que é determinada mediante a dedução das seguintes
+parcelas do rendimento tributável:
+
+I - as importâncias pagas em dinheiro a título de pensão alimentícia em face das normas do direito de família,
+quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo
+homologado judicialmente, ou de escritura pública;
+
+II – o valor mensal fixado por dependente de R$ 189,59, a partir do ano-calendário de 2015;
+
+III - as contribuições para a Previdência Social da União, dos estados, do Distrito Federal e dos municípios
+(Previdência Oficial);
+
+IV - as contribuições para as entidades de previdência complementar domiciliadas no Brasil e as
+contribuições para os Fapi, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios
+complementares assemelhados aos da Previdência Social, no caso de trabalhador com vínculo empregatício
+ou de administradores;
+
+         Observação: Quando a fonte pagadora não for responsável pelo desconto dessas
+         contribuições, os valores pagos a esse título podem ser considerados para fins de dedução
+         da base de cálculo sujeita ao imposto mensal, desde que haja anuência da fonte pagadora
+         e que o beneficiário lhe forneça o original do comprovante de pagamento. (IN RFB
+         1.500/2014, art. 52, § 1°)
+
+V - as contribuições para as entidades fechadas de previdência complementar de natureza pública de que
+trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear
+benefícios complementares assemelhados aos da Previdência Social; e
+
+         Observação: Trata-se do regime de previdência complementar dos servidores públicos
+         titulares de cargo efetivo, a exemplo do que ocorre na esfera federal com a FUNPRESP.
+
+         Até a edição da IN RFB 1.500/2014, a redação da Lei 9.250/1995 previa expressamente
+         apenas as contribuições feitas à FUNPRESP. Como o § 15, do art. 40, da CF/88, é extensível
+         a todas as esferas da federação, o art. 84 da Lei 13.043/2014, de 13 de Novembro de 2014,
+         alterou algo que já era bastante óbvio estendo a dedução às contribuições destinadas aos
+         regimes de previdência complementar porventura instituídos nos Estados, DF e Municípios.
+        No nosso curso, denominaremos tais contribuições, doravante, como “contribuições para
+        o regime de previdência complementar dos servidores públicos titulares de cargo
+        efetivo”.
+
+VI - a quantia, correspondente à parcela isenta dos rendimentos provenientes de aposentadoria e pensão,
+transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos estados,
+do Distrito Federal e dos municípios, por qualquer pessoa jurídica de direito público interno ou por entidade
+de previdência complementar, a partir do mês em que o contribuinte completar 65 anos de idade, até o
+valor mensal de R$ 1.903,98, válido a partir do mês de abril do ano-calendário 2015.
+
+Em suma, temos o seguinte:
+
+
+
+    BASE DE CÁLCULO MENSAL           =       Rendimento Tributável        -          Deduções
+
+
+
+ *Pensão Alimentícia
+
+ *Valor Fixo por Dependente
+
+ *Contribuições para Previdência Oficial
+
+ *Contribuições para Previdência Complementar e para os FAPI
+
+ Contribuições para o Regime de Previdência Complementar dos         Servidores
+ Públicos Titulares de Cargo Efetivo
+
+ *Parcela Isenta da Aposentadoria e Pensão (65 anos ou mais)
+
+
+
+
+Na base de cálculo mensal, não se permite dedução de despesas médicas e com instrução, pois a legislação
+só permite a dedução de tais despesas na apuração anual do imposto (DIRPF).
+
+
+
+Encontrada a base de cálculo mensal do imposto a ser retido na fonte, o próximo passo é aplicar a tabela
+progressiva mensal (e não anual), inserida no início da aula e também logo a seguir:
+
+         Base de cálculo mensal em R$         Alíquota %         Parcela a deduzir do imposto em R$
+     Até 1.903,98                                  -                                -
+     De 1.903,99 até 2.826,65                     7,5                             142,80
+     De 2.826,66 até 3.751,05                    15,0                             354,80
+     De 3.751,06 até 4.664,68                    22,5                             636,13
+     Acima de 4.664,68                            27,5                         869,36
+
+O imposto apurado segundo as regras explicadas acima deve ser retido dos rendimentos pagos aos
+contribuintes, cabendo à fonte pagadora promover o recolhimento deste valor até o último dia útil do 2º
+decêndio do mês subsequente ao mês de ocorrência dos fatos geradores, conforme art. 105, I, da IN RFB
+1500/2014.
+
+Devemos também ressaltar que a fonte pagadora também está obrigada a identificar os beneficiários do
+imposto antecipado, por meio da apresentação da DIRF. Essa declaração, conforme já foi estudado nesta
+aula, deve ser apresentada até o último dia do mês de fevereiro do ano seguinte àquele em que ocorreu a
+retenção.
+
+
+
+1.2 – Recolhimento Mensal Obrigatório
+
+Comumente denominado “carnê-leão”, o recolhimento mensal obrigatório é aquele em que a obrigação de
+antecipar o imposto anual recai sobre o próprio contribuinte.
+
+
+
+
+O carnê-leão é mais uma das formas de antecipação do IRPF, apurado segundo o regime de tributação anual.
+
+
+
+Em alguns casos, não é a fonte pagadora que deve efetuar o recolhimento antecipado, mas sim o beneficiário
+do rendimento. Vejamos quais são essas situações (IN RFB 1.500/2014, art. 53):
+
+I - rendimentos de outras pessoas físicas que não tenham sido tributados na fonte no País, tais como
+decorrentes de arrendamento, subarrendamento, locação e sublocação de móveis ou imóveis, e os
+decorrentes do trabalho não assalariado, assim compreendidas todas as espécies de remuneração por
+serviços ou trabalhos prestados sem vínculo empregatício;
+
+        Observação: Estão incluídos nesta hipótese os rendimentos decorrentes da prestação de
+        serviços de transporte de carga e de serviços com trator, máquina de terraplenagem,
+        colheitadeira e assemelhados, bem como o serviço de transporte de passageiros.
+
+II - rendimentos ou quaisquer outros valores de fontes do exterior, tais como trabalho assalariado ou não
+assalariado, uso, exploração ou ocupação de bens móveis ou imóveis, transferidos ou não para o Brasil, lucros
+e dividendos;
+
+III - emolumentos e custas dos serventuários da Justiça, como tabeliães, notários, oficiais públicos e outros,
+independentemente de a fonte pagadora ser pessoa física ou jurídica, exceto quando forem remunerados
+exclusivamente pelos cofres públicos (erário);
+IV - importância paga em dinheiro, a título de pensão alimentícia em face das normas do Direito de Família,
+quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, acordo
+homologado judicialmente, ou de separação consensual ou divórcio consensual realizado por escritura
+pública;
+
+        Observação: Não confunda essa hipótese de recolhimento mensal obrigatório, que cabe a
+        quem recebe o rendimento, com a dedução da base de cálculo da retenção na fonte, que
+        é permitida a quem arca com essa despesa.
+
+
+
+
+V - rendimentos em função de prestação de serviços a embaixadas, repartições consulares, missões
+diplomáticas ou técnicas ou a organismos internacionais de que o Brasil faça parte.
+
+A sistemática de apuração do imposto a recolher é muito semelhante ao cálculo feito pela fonte pagadora,
+estudado no tópico anterior. Ou seja, o contribuinte deve subtrair do rendimento tributável as deduções
+permitidas pela legislação, encontrando assim a base de cálculo, que deve ser submetida à tabela
+progressiva mensal para encontrar o valor do IRPF.
+
+Chamamos a sua atenção para um detalhe muito importante: as deduções permitidas na determinação da
+base de cálculo do IRPF a ser recolhido por meio do carnê-leão não são as mesmas estudadas no tópico
+anterior. Acompanhe as deduções permitidas:
+
+   1. As importâncias pagas em dinheiro a título de pensão alimentícia em face das normas do direito de
+       família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais,
+       de acordo homologado judicialmente, ou de escritura pública;
+   2. O valor mensal fixado por dependente de R$ 189,59, para o ano-calendário de 2015;
+   3. As contribuições para a Previdência Social da União, dos estados, do Distrito Federal e dos municípios
+       (Previdência Oficial);
+   4. As contribuições para as entidades de previdência complementar domiciliadas no Brasil e as
+       contribuições para os Fapi, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios
+       complementares assemelhados aos da Previdência Social, no caso de trabalhador com vínculo
+       empregatício ou de administradores;
+   5. As contribuições para o regime de previdência complementar dos            servidores públicos titulares
+       de cargo efetivo; e
+
+         Observação: As deduções acima podem ser utilizadas somente quando não tiverem sido
+         deduzidas de outros rendimentos auferidos no mês, sujeitos à tributação na fonte. Trata-
+         se de regra que impede a dupla dedução das mesmas despesas.
+
+   6. Despesas escrituradas em Livro Caixa.
+
+A fim de esclarecer quais são as despesas escrituradas em Livro Caixa, transcrevemos abaixo o art. 104, da
+IN RFB 1.500/2014:
+      Art. 104. O contribuinte que receber rendimentos do trabalho não assalariado, inclusive os titulares
+      dos serviços notariais e de registro e os leiloeiros, poderão deduzir, da receita decorrente do exercício
+      da respectiva atividade:
+
+      I - a remuneração paga a terceiros, desde que com vínculo empregatício, e os respectivos encargos
+      trabalhistas e previdenciários;
+
+      II - os emolumentos pagos a terceiros, assim considerados os valores referentes à retribuição pela
+      execução, pelos serventuários públicos, de atos cartorários, judiciais e extrajudiciais;
+
+      III - as despesas de custeio pagas, necessárias à percepção da receita e à manutenção da fonte
+      produtora.
+
+      Todavia, não são dedutíveis as seguintes despesas:
+
+             I - a quotas de depreciação de instalações, máquinas e equipamentos, bem como a despesas
+             de arrendamento (leasing);
+
+             II - a despesas de locomoção e transporte, salvo, no caso de representante comercial
+             autônomo, quando o ônus tenha sido deste;
+
+             III - em relação aos rendimentos da prestação de serviços de transporte em veículo próprio,
+             locado, arrendado ou adquirido com reserva de domínio ou alienação fiduciária;
+
+             IV - ao rendimento bruto percebido por garimpeiros na venda, a empresas legalmente
+             habilitadas, de metais preciosos, pedras preciosas e semipreciosas por eles extraídos.
+
+
+
+
+As despesas escrituradas em Livro Caixa devem sempre estar relacionadas aos rendimentos do trabalho
+não assalariado.
+
+
+
+
+        Observação: As deduções escrituradas no Livro Caixa não poderão exceder a receita
+        mensal da respectiva atividade, sendo permitido o cômputo do excesso de deduções nos
+        meses seguintes até dezembro, não podendo haver transposição para o ano seguinte.
+        (RIR, art. 76, caput e § 1°).
+
+Em suma, temos o seguinte:
+          CARNÊ-LEÃO                 =        Rendimento Tributável      -        Deduções
+
+
+     Pensão Alimentícia
+
+     Valor Fixo por Dependente
+
+     Contribuições para Previdência Oficial
+
+     Contribuições para Previdência Complementar e para os FAPI
+
+     Contribuições para o Regime de Previdência Complementar dos Servidores
+     Públicos Titulares de Cargo Efetivo
+
+     Despesas Escrituradas em Livro Caixa
+
+
+
+
+A distinção em relação aos rendimentos retidos em fonte ocorre apenas em relação à exclusão da parcela
+isenta, e a inclusão das despesas escrituradas em livro caixa.
+
+
+
+
+Após a determinação da base de cálculo do IRPF a ser recolhido a título de antecipação do imposto anual,
+por meio do carnê-leão, deve-se aplicar a tabela progressiva mensal, para saber exatamente o valor do
+imposto devido. Esse valor deve ser recolhido até o último dia útil do mês subsequente àquele em que os
+rendimentos ou ganhos forem recebidos.
+
+Por fim, salientamos que o contribuinte que estiver sujeito ao recolhimento pelo carnê-leão, e não o fizer,
+sujeita-se a uma multa fixada pela Lei 9.430/1996 de 50% do valor do pagamento que deixou de ser
+efetuado, ainda que na DIRPF não tenha apurado imposto a pagar.
+
+1.3 – Recolhimento Complementar Facultativo
+
+Além das antecipações estudadas anteriormente, a legislação tributária federal faculta ao contribuinte
+antecipar o imposto devido na DAA mediante o recolhimento complementar do imposto. Esse
+recolhimento facultativo também é denominado “mensalão”. Se o contribuinte assim optar, o recolhimento
+deve ser efetuado, no curso do ano-calendário, até o último dia útil do mês de dezembro.
+Essa previsão existe para os contribuintes que recebem rendimentos de diversas fontes pagadoras. Em cada
+uma delas, o contribuinte ser enquadrado nas alíquotas menores da tabela progressiva mensal. Contudo, na
+apuração anual, todos os rendimentos serão somados e tributados com base na tabela progressiva anual,
+hipótese em que o contribuinte será enquadrado em alíquotas mais altas da tabela, resultando em saldo de
+imposto a pagar. É justamente esse imposto que pode ser antecipado no decorrer do ano-calendário.
+
+A título de exemplo, se o Sr. Tributino trabalha em duas empresas, recebendo de cada uma delas R$ 1.500,00,
+não haverá qualquer retenção na fonte (na dúvida, consulte a tabela progressiva mensal no início da aula).
+Contudo, ao realizar o ajuste, deverá oferecer à tributação os rendimentos auferidos em ambas empresas,
+que resultará em R$ 36.000,00 (1.500 x 2 x 12 meses). Dessa forma, deverá recolher de uma só vez o valor
+de R$ 1.201.74 (36.000 x 15% - 4.198,26). O mensalão é normalmente aplicável a situações semelhantes a
+essa.
+
+O cálculo dessa antecipação deve utilizar as mesmas deduções permitidas no ajuste anual (que ainda serão
+estudadas nesta aula), aplicando a tabela progressiva anual. O valor do imposto a ser recolhido é o que
+resultar da diferença entre o que foi calculado acima e as antecipações já efetuadas no decorrer do ano-
+calendário (retenções na fonte, carnê-leão, outras parcelas de mensalão e imposto pago no exterior).
+
+
+
+Acrescentamos, ainda, que o recolhimento complementar pode ser retido, mensalmente, por uma das
+fontes pagadoras, pessoa jurídica, desde que haja concordância, por escrito, da pessoa física beneficiária.
+
+Neste caso, o imposto retido pela fonte pagadora somente poderá ser compensado na DAA, se o
+contribuinte possuir comprovante de retenção emitido em seu nome pela fonte pagadora dos
+rendimentos, observados forma, prazo e condições estabelecidos pela Secretaria da Receita Federal do
+Brasil.
+
+1.4 – Imposto Pago no Exterior
+
+Com o objetivo de evitar a dupla tributação dos rendimentos provenientes de fontes situadas no exterior, a
+legislação permite que o contribuinte deduza, a título de antecipação, o imposto que foi pago no exterior,
+desde que respeitadas, cumulativamente, as seguintes condições (RIR/2018, art. 115):
+
+          Haja acordo, tratado ou convenção para evitar a dupla tributação entre o Brasil e o país de origem
+           dos rendimentos ou haja reciprocidade de tratamento;
+          O valor do imposto pago no país de origem não pode ter sido restituído ou compensado no
+           exterior.
+
+Por conseguinte, o imposto pago referente aos rendimentos recebidos de fontes situadas em países que não
+tenham acordo ou não permitam a reciprocidade de tratamento não pode ser compensado.
+
+Destaque-se que o imposto pago em moeda estrangeira deve ser convertido em reais, da forma como consta
+no art. 65, § 2°, II, da IN RFB 1.500/2014:
+
+       Os rendimentos em moeda estrangeira e o imposto pago no exterior são convertidos em dólar dos
+       Estados Unidos da América, pelo valor fixado pela autoridade monetária do país de origem dos
+       rendimentos na data do recebimento ou pagamento e, em seguida, em reais mediante utilização do
+       valor do dólar fixado para compra pelo Banco Central do Brasil para o último dia útil da 1ª
+       (primeira) quinzena do mês anterior ao do recebimento do rendimento.
+
+O detalhe mais importante é que a compensação a ser feita com o IRPF devido anualmente não pode exceder
+a diferença entre o valor do imposto calculado antes e depois da inclusão dos rendimentos produzidos no
+exterior. Parece difícil de entender, mas não é!
+
+Assim, se o imposto pago sobre um rendimento “x” no exterior for de R$ 1.000,00, a dedução máxima
+permitida seria o valor de IRPF acrescido ao montante de imposto devido, ao incluirmos o rendimento “x”
+no cálculo do imposto anual.
+
+Portanto, se essa inclusão gerasse um acréscimo de IRPF de R$ 1.200, seria possível deduzirmos todo o
+imposto pago no exterior. Contudo, se a referida inclusão gerasse um acréscimo de IRPF de R$ 800,00, este
+seria o limite máximo de dedução do imposto pago no exterior.
+
+Não entendeu? Ok! Sem problemas! Vou repetir com mais calma! 
+
+Vamos lá! Você acabou pagando R$ 1.000,00 de IR lá no exterior e também auferiu outros rendimentos no
+Brasil, que se sujeitarão ao IR do Brasil. Correto? Para você deduzir os R$ 1.000,00 que pagou lá no exterior,
+é necessário analisar o seguinte:
+
+   1. Verificar o IR devido aqui no Brasil, considerando apenas o rendimento recebido aqui no País;
+   2. Somar a renda sua auferida no Brasil com a renda auferida no exterior (foi esta renda que te gerou o
+      imposto de R$ 1.000,00) e verificar qual seria o valor do IR devido se toda a renda fosse auferida no
+      Brasil;
+   3. Analisar se a diferença do imposto calculado entre o item 2 e o item 1 foi superior, igual ou inferior a
+      R$ 1.000,00.
+
+Se a diferença obtida for maior ou igual do que R$ 1.000,00, significa que você poderá deduzir todo o imposto
+pago no exterior. Porém, se a diferença obtida for inferior (R$ 800,00, por exemplo), você somente poderá
+deduzir este montante relativamente ao imposto pago no exterior.
+
+
+
+1.5 – Outras Antecipações
+
+De acordo com o art. 80, XI e XII, da IN RFB 1.500/2014, do imposto devido podem ser deduzidos:
+
+          O valor do IRRF incidente sobre ganhos líquidos;
+
+          O valor do imposto retido na fonte sobre os rendimentos recebidos acumuladamente.
+
+São valores relativos ao IR que se referem a outros regimes de tributação, mas que podem, atendidas as
+regras previstas na legislação tributária, ser levados ao ajuste anual, ou seja, ao regime de tributação anual.
+Vamos entender melhor!
+O primeiro caso se refere aos ganhos líquidos auferidos nas operações realizadas em bolsas de valores, de
+mercadorias, de futuros e assemelhadas, nos mercados de liquidação futura fora de bolsas e na alienação de
+ouro, ativo financeiro.
+
+Tais ganhos estão sujeitos ao regime de tributação definitiva, em que o contribuinte fica obrigado a apurar
+e recolher o imposto mensalmente, sobre os ganhos que obteve em tais operações. Veja, então, que o
+imposto é apurado mensalmente, mas se refere a diversas operações. Em cada uma dessas operações, a
+legislação tributária determina que haja retenção do imposto na fonte, à alíquota de 0,005%.
+
+Dessa forma, quando da apuração mensal do imposto (trata-se do regime de tributação definitiva!), o
+contribuinte vai poder deduzir o valor retido na fonte à alíquota de 0,005%. Pode acontecer, todavia, de o
+valor retido em fonte ser superior ao imposto a pagar na apuração mensal, situação em que o contribuinte
+poderia acabar ficando no prejuízo.
+
+Pensando nisso, o legislador permitiu que, havendo saldo remanescente retido em fonte, esse valor pode
+ser compensado na declaração de ajuste, como antecipação, depois de:
+
+       I - deduzido do imposto sobre ganhos líquidos apurados no mês;
+
+       II - compensado com o imposto incidente sobre ganhos líquidos apurados nos meses subsequentes;
+
+       III - compensado com o imposto devido sobre o ganho de capital na alienação de ações.
+
+Veja, então, que o imposto relativo ao regime de tributação definitiva acabou sendo compensado com o
+imposto anual. Entendido? Vamos ao segundo caso!
+
+O que nós precisamos saber sobre a dedução do imposto retido na fonte sobre os rendimentos recebidos
+acumuladamente é que, a partir de 11 de março de 2015, submetidos à incidência do imposto sobre a renda
+com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento,
+serão tributados exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais
+rendimentos recebidos no mês. Dessa forma, percebemos que, a princípio, tais rendimentos estão sujeitos
+ao regime de tributação exclusiva na fonte.
+
+Contudo, a própria legislação tributária admite que o contribuinte faça opção irretratável por incluir o
+somatório dos RRAs na base de cálculo do imposto anual, na DIRPF do ano-calendário do recebimento. Com
+isso, os RRAs que seriam calculados em separado entram no montante de rendimentos geral que irá sofrer
+a incidência do IRPF. Contudo, como já foi recolhido na fonte imposto, esse valor pago será considerado
+como antecipação do imposto anual.
+
+Portanto, veja que a inclusão do RRAs não obrigará o contribuinte a pagar novamente todo imposto já
+retido na fonte, relativo a tais rendimentos, já que o que já foi pago será considerado como antecipação, ou
+seja, abatido do valor a pagar pelo contribuinte, ao fim da apuração do imposto anual.
+
+Veja, então, que o imposto relativo ao regime de tributação exclusiva na fonte acabou sendo compensado
+com o imposto anual. 
+
+Podemos prosseguir!
+2 – Apuração do IRPF no Ajuste Anual
+
+Havíamos dito que, no regime de tributação anual, o fato gerador do IRPF considera-se ocorrido apenas no
+dia 31 de dezembro de cada ano. A DIRPF, no entanto, deve ser apresentada até o último dia útil do mês
+de abril do ano subsequente.
+
+É nesse momento em que o contribuinte realiza o ajuste anual, apurando o IRPF a pagar ou a restituir, e
+considerando o que já foi antecipado durante o curso do ano-calendário. Vejamos o que prevê o art. 70,
+caput, da IN RFB 1.500/2014:
+
+       Art. 70. As pessoas físicas devem apresentar anualmente DAA destinada a apurar o saldo do imposto
+       a pagar ou a ser restituído, observados forma, prazo e condições estabelecidos pela Secretaria da
+       Receita Federal do Brasil.
+
+A pergunta é a seguinte: como se apura o imposto anual?
+
+Inicialmente, devemos saber qual será a base de cálculo do IRPF anual, que consiste na soma de todos os
+rendimentos recebidos durante o ano-calendário, exceto os isentos, os não tributáveis, os tributados
+exclusivamente na fonte e os sujeitos à tributação definitiva.
+
+Ainda para fins de determinação da base de cálculo, devemos subtrair as deduções legais, que se resumem
+nas seguintes:
+
+       1.  Pensão Alimentícia;
+       2.  Valor Fixo por Dependente;
+       3.  Contribuições para Previdência Oficial;
+       4.  Contribuições para Previdência Complementar (inclusive a PGBL) e para os FAPI;
+       5.  Contribuições para o Regime de Previdência Complementar dos Servidores Públicos Titulares
+          de Cargo Efetivo;
+       6. Despesas Escrituradas em Livro Caixa;
+       7. Despesas com Instrução;
+       8. Despesas Médicas.
+
+
+
+        Observação: A parcela isenta dos aposentados e pensionistas que tiverem 65 anos de
+        idade ou mais é dedutível apenas da base de cálculo mensal do IRPF, quando houver
+        retenção na fonte.
+
+        Na apuração anual, tal parcela não compõe a soma dos rendimentos tributáveis recebidos
+        no ano-calendário, conforme expressa disposição no art. 8º, § 1º da Lei 9.250/95. É assim
+        que funciona na prática, ao preencher a DIRPF no Programa Gerador da Declaração.
+
+        Faz todo sentido, afinal de contas, estão sujeitos ao IRPF anual todos os rendimentos
+        recebidos durante o ano-calendário, exceto os isentos (como ocorre com essa parcela dos
+        proventos recebidos pelos que tiverem 65 de idade ou mais), os não tributáveis, os
+        tributados exclusivamente na fonte e os sujeitos à tributação definitiva.
+
+
+
+
+É facultado ao contribuinte optar pelo desconto simplificado, hipótese em que poderá reduzir a base de
+cálculo do IRPF em até 20% do seu valor, independentemente do valor das despesas dedutíveis. Contudo,
+esse percentual está limitado a um teto legalmente definido, razão pela qual dissemos “em até 20%” e não
+apenas 20%.
+
+Apurada, finalmente, a base de cálculo do IRPF, deve-se aplicar a tabela progressiva anual, apurando, assim,
+o valor do IRPF anual. Ressalte-se que a legislação permite também que o contribuinte deduza algumas
+contribuições e doações específicas a título de incentivo.
+
+        Observação: As deduções do imposto não se confundem com as deduções da base de
+        cálculo do imposto, já que estas são deduzidas antes de se aplicar a tabela progressiva
+        anual.
+
+Feitas tais deduções, encontramos o valor do IRPF a pagar. No entanto, é chegado o momento de se
+descontar todas as antecipações já estudadas anteriormente. É nesse momento que o contribuinte pode
+descontar o que já foi pago durante o ano-calendário, seja pela retenção na fonte, pelo carnê-leão, pelo
+recolhimento complementar, pelo imposto pago no exterior ou até mesmo o imposto pago em operações
+relativas aos ganhos líquidos e rendimentos recebidos acumuladamente, conforme estudado como “outras
+antecipações”.
+
+Em suma, o cálculo do IRPF anual deve ser feito da seguinte forma:
+
+
+                                                    (-)
+                Soma dos Rendimentos                               Deduções Legais ou Opção por
+             Tributáveis (Apenas Sujeitos                             Desconto Simplificado
+                  ao Imposto Anual)
+                                                                                      =
+
+                                                                      Base de Cálculo IRPF
+
+                              Aplicação da Tabela
+                               Progressiva Anual
+
+                                                                               IRPF Apurado
+
+                                                                                      (-)
+           IRPF Anual Devido                          Incentivos
+
+                                        =
+                         (-)
+
+
+                                           =
+             Antecipações                                   IRPF a Pagar ou a Restituir
+
+
+Já estudamos todas as antecipações que ocorrem durante o ano-calendário, correto? Eis o momento,
+portanto, de estudarmos as deduções da base de cálculo anual e, logo a seguir, as deduções do imposto
+devido.
+
+Vamos lá!
+
+2.1 – Determinação da Base de Cálculo Anual do IRPF
+
+Não custa repetir que a base de cálculo anual do IRPF consiste na diferença entre a soma de todos os
+rendimentos recebidos durante o ano-calendário, exceto os isentos, os não tributáveis, os tributados
+exclusivamente na fonte e os sujeitos à tributação definitiva, e a soma das deduções permitidas pela lei.
+
+
+
+
+Esse parágrafo deve ficar no “sangue”, para utilizar sempre que for necessário na hora da prova!
+
+
+
+
+Já foram citadas as deduções da base de cálculo anual. Contudo, é necessário nos aprofundarmos em alguns
+detalhes essenciais para enfrentar a prova, razão pela qual estudaremos separadamente cada uma das
+deduções novamente elencadas a seguir:
+
+       1.  Pensão Alimentícia;
+       2.  Valor Fixo por Dependente;
+       3.  Contribuições para Previdência Oficial;
+       4.  Contribuições para Previdência Complementar (inclusive a PGBL) e para os FAPI;
+       5.  Contribuições para o Regime de Previdência Complementar dos Servidores Públicos Titulares
+          de Cargo Efetivo;
+       6. Despesas Escrituradas em Livro Caixa;
+       7. Despesas com Instrução;
+       8. Despesas Médicas.
+Destaque-se, de antemão, que todas as deduções estão sujeitas a comprovação ou justificação, a juízo da
+autoridade lançadora, conforme prevê o art. 66, do RIR/2018. Assim, o sujeito passivo será intimado a
+apresentar, no prazo estabelecido na intimação, esclarecimentos ou documentos sobre inconsistências ou
+indícios de irregularidade fiscal detectados nas revisões de declarações, exceto quando a autoridade fiscal
+dispuser de elementos suficientes para a constituição do crédito tributário.
+
+Isso significa que o contribuinte pode ser intimado pela autoridade fiscal para comprovar certas deduções, a
+fim de averiguar se realmente são legalmente permitidas. Pode ocorrer ainda de a autoridade fiscal dispor
+de elementos suficientes para definir que as deduções foram incorretamente utilizadas pelo contribuinte.
+
+Em tais casos, ocorrerá a sua glosa, com a constituição do crédito tributário de ofício, para fins de cobrança.
+As deduções glosadas por falta de comprovação ou de justificação não poderão ser restabelecidas depois
+que o ato se tornar irrecorrível na esfera administrativa.
+
+         Observação: Glosar significa o mesmo que anular ou rejeitar, ou seja, a autoridade fiscal
+         pode rejeitar o valor declarado pelo contribuinte como dedução.
+
+
+
+
+2.1.1 – Pensão Alimentícia
+
+Dispõe o art. 101 da IN RFB 1.500/2014 o seguinte:
+
+       Art. 101. Podem ser deduzidas as importâncias pagas em dinheiro a título de pensão alimentícia em
+       face das normas do direito de família, quando em cumprimento de decisão judicial, inclusive a
+       prestação de alimentos provisionais, acordo homologado judicialmente, ou de escritura pública.
+
+Assim sendo, o contribuinte pode deduzir o valor pago em dinheiro a título de pensão alimentícia, inclusive
+a prestação de alimentos provisionais, desde que em cumprimento de decisão judicial, acordo homologado
+judicialmente ou escritura pública.
+
+
+
+
+É vedada a dedução cumulativa de pensão alimentícia e a de dependente, quando se referirem à mesma
+pessoa.
+
+
+
+
+2.1.2 – Valor Fixo por Dependente
+
+A legislação tributária permite a dedução de um valor fixo para cada dependente que o contribuinte tiver,
+sem limitação. Assim, independentemente de quaisquer despesas que ele venha arcar com o dependente,
+é permitido deduzir esse valor. A partir do ano-calendário de 2015, por exemplo, o valor dedutível para cada
+dependente é de R$ 2.275.08.
+
+Até aí tudo bem. Mas quem pode ser considerado dependente, professor?
+
+Determina o art. 90, da IN RFB 1.500/2014, com base na Lei 9.250/1995, que podem ser considerados
+dependentes as seguintes pessoas:
+
+       I - o cônjuge;
+
+       II - o companheiro ou a companheira, desde que haja vida em comum por mais de 5 anos, ou por
+       período menor se da união resultou filho;
+
+             Observação: Conforme consta no art. 90, § 8°, da IN RFB 1.500/2014, considera-se
+             também dependente o companheiro ou companheira de união homoafetiva.
+
+       III - a filha, o filho, a enteada ou o enteado, até 21 anos, ou de qualquer idade quando incapacitado
+       física ou mentalmente para o trabalho;
+
+       IV - o menor pobre, até 21 anos, que o contribuinte crie e eduque e do qual detenha a guarda judicial;
+
+       V - o irmão, o neto ou o bisneto, sem arrimo dos pais, até 21 anos, desde que o contribuinte detenha
+       a guarda judicial, ou de qualquer idade quando incapacitado física ou mentalmente para o trabalho;
+
+       VI - os pais, os avós ou os bisavós, desde que não aufiram rendimentos, tributáveis ou não, superiores
+       ao limite de isenção mensal;
+
+       VII - o absolutamente incapaz, do qual o contribuinte seja tutor ou curador.
+
+
+
+
+        Observação: As pessoas elencadas nos incisos III e V podem ser consideradas dependentes
+        quando maiores até 24 anos de idade, se estiverem cursando estabelecimento de ensino
+        superior ou escola técnica de 2º grau (IN RFB 1.500/2014, art. 90, § 1°).
+
+
+
+
+Em se tratando de sociedade conjugal, os dependentes comuns podem ser considerados por qualquer um,
+mas apenas um, dos cônjuges.
+Vale destacar que, no caso de filhos de pais separados, o contribuinte pode considerar, como dependentes,
+os que ficarem sob sua guarda em cumprimento de decisão judicial ou acordo homologado judicialmente.
+
+É importante relembrar que é vedada a dedução concomitante de pensão alimentícia e a de dependente,
+quando se referirem à mesma pessoa, exceto nos casos de alteração na relação de dependência no ano-
+calendário.
+
+
+
+2.1.3 – Contribuições Previdenciárias
+
+Conforme já foi dito anteriormente, são admitidas, a título de dedução da base de cálculo anual do IRPF, as
+seguintes contribuições previdenciárias:
+
+           1. Contribuições para Previdência Oficial;
+           2. Contribuições para Previdência Complementar (inclusive a PGBL) e para os FAPI;
+           3. Contribuições para o Regime de Previdência Complementar dos Servidores Públicos
+              Titulares de Cargo Efetivo;
+
+No que se refere às contribuições oficiais, assim entendidas como as que são destinadas ao regime geral de
+previdência social (RGPS) e aos regimes próprios de previdência de servidores públicos (RPPS), não há
+qualquer limite de dedução.
+
+Dessa forma, por exemplo, um servidor público que contribua com 11%, 13% ou 15% sobre sua remuneração
+de R$ 25.000, a título de contribuição previdenciária para o RPPS, pode deduzir completamente esse valor
+da base de cálculo do IRPF.
+
+Contudo, no que concerne às contribuições para previdência complementar, inclusive aquelas destinadas
+aos FAPI e PGBL, a dedução possui limites e condições.
+
+Assim, tal dedução está limitada a 12% do total dos rendimentos computados na determinação da base de
+cálculo do imposto anual. Isso significa que qualquer contribuição acima de 12% não pode ser deduzida
+para fins de IRPF.
+
+
+
+Ademais, tais contribuições ficam condicionadas ao recolhimento, também, de contribuições para o regime
+geral de previdência social ou, quando for o caso, para o regime próprio de previdência social dos servidores
+titulares de cargo efetivo da União, dos estados, do Distrito Federal ou dos municípios.
+
+Sendo assim, para deduzir as contribuições destinadas à previdência complementar, o contribuinte deve
+recolher, obrigatoriamente, contribuições para o RGPS ou RPPS, no caso de servidores públicos.
+
+        Observação: Percebe-se, portanto, que, além da contribuição previdenciária oficial, o
+        contribuinte também pode deduzir 12%, a título de previdência complementar.
+Excetuam-se, contudo, da referida condição os beneficiários de aposentadoria ou pensão concedidas por
+regime próprio de previdência ou pelo regime geral de previdência social, mantido, entretanto, o limite de
+12% do total dos rendimentos computados na determinação da base de cálculo do imposto devido na DAA.
+
+Cabe destacar que, em relação às Contribuições para o Regime de Previdência Complementar dos Servidores
+Públicos Titulares de Cargo Efetivo, o limite de 12% deve ser entendido com certa ressalva! Vamos explicar
+melhor!
+
+Por se tratar de um regime de previdência complementar, existe uma contribuição por parte do beneficiário,
+que é o servidor público, e também uma contribuição por parte do patrocinador, que é o ente ao qual está
+vinculado o referido servidor.
+
+O limite de 12% não será aplicável caso a contribuição do patrocinador ultrapasse tal percentual. Assim, por
+exemplo, digamos que o ente estabeleça sua contribuição em 15%. O servidor público que contribuir com
+15% do seu salário, poderá deduzir a totalidade desta contribuição, uma vez que está limitada à alíquota de
+contribuição do ente público patrocinador.
+
+
+
+
+A limitação de 12% somente se aplica na DAA. É ilimitada a dedutibilidade na base de cálculo do imposto
+mensal a ser retido pela fonte pagadora.
+
+
+
+
+2.1.4 – Despesas Escrituradas em Livro Caixa
+
+Nós já estudamos que as despesas escrituradas em livro caixa são dedutíveis da base de cálculo do IRPF, na
+forma de recolhimento mensal obrigatório (carnê-leão).
+
+Naquela ocasião, vimos que a dedução de tais despesas é permitida ao contribuinte que receber
+rendimentos provenientes do trabalho não assalariado, inclusive os titulares dos serviços notariais e de
+registro e os leiloeiros.
+
+Nesse momento, importa-nos apenas saber que as despesas deduzidas mensalmente também são levadas
+ao ajuste anual, a fim de que o contribuinte apure o IRPF, segundo esse regime de tributação.
+
+
+
+
+2.1.5 – Despesas com Instrução
+
+A legislação tributária permite que, na determinação da base de cálculo do imposto devido na DAA, possam
+ser deduzidos, a título de despesas com instrução do contribuinte e de seus dependentes incluídos na
+declaração, os pagamentos efetuados a instituições de ensino até determinado limite anual individual. A
+partir do ano-calendário de 2015, esse limite é de R$ 3.561,50.
+
+Nessa linha, é possível ao contribuinte deduzir despesas com instrução relativas:
+
+              I - à educação infantil, compreendendo as creches e as pré-escolas;
+
+              II - ao ensino fundamental;
+
+              III - ao ensino médio;
+
+              IV - à educação superior, compreendendo os cursos de graduação e de pós-graduação
+              (mestrado, doutorado e especialização);
+
+              V - à educação profissional, compreendendo o ensino técnico e o tecnológico.
+
+Com o objetivo de elucidar quaisquer dúvidas sobre o tema, o art. 92 da IN RFB 1.500/2014 previu o seguinte:
+
+       Art. 92. Não se enquadram no conceito de despesas com instrução:
+
+       I - as despesas com uniforme, material e transporte escolar, as relativas à elaboração de dissertação
+       de mestrado ou tese de doutorado, contratação de estagiários, computação eletrônica de dados,
+       papel, fotocópia, datilografia, digitação, tradução de textos, impressão de questionários e de tese
+       elaborada, gastos postais e de viagem;
+
+       II - as despesas com aquisição de enciclopédias, livros, revistas e jornais;
+
+       III - o pagamento de aulas de música, dança, natação, ginástica, tênis, pilotagem, dicção, corte e
+       costura, informática e assemelhados;
+
+       IV - o pagamento de cursos preparatórios para concursos ou vestibulares;
+
+       V - o pagamento de aulas de idiomas estrangeiros;
+
+       VI - os pagamentos feitos a entidades que tenham por objetivo a criação e a educação de menores
+       desvalidos e abandonados;
+
+       VII - as contribuições pagas às Associações de Pais e Mestres e às associações voltadas para a
+       educação; e
+
+       VIII - o valor despendido para pagamento do crédito educativo.
+       Guarde que os gastos com o curso de inglês e com as aulas de natação, de música ou informática não
+       são dedutíveis.
+
+
+
+Além disso, as despesas relativas a cursos de especialização são passíveis de dedução somente quando
+comprovadamente realizadas com cursos inerentes à formação profissional daquele com quem foram
+efetuadas.
+
+Acrescentamos que é vedado o aproveitamento de valor de despesas superior ao limite individual de uma
+pessoa física para outra, ainda que integrantes de uma mesma declaração. Isso significa que se o
+contribuinte possui despesas com um dependente em valor superior ao limite anual previsto, não pode
+compensar o excesso com outro dependente que esteja abaixo do limite.
+
+No que se refere às despesas de educação dos alimentandos, quando realizadas pelo alimentante em virtude
+de cumprimento de decisão judicial, de acordo homologado judicialmente ou de escritura pública, poderão
+ser deduzidas pelo alimentante na determinação da base de cálculo do imposto sobre a renda na declaração,
+respeitando, evidentemente, o limite anual fixado.
+
+Antes de finalizarmos o estudo dessa dedução, saiba que as despesas com instrução (ou educação) apenas
+são dedutíveis da base de cálculo anual do IRPF. Afinal, elas não foram citadas entre as deduções permitidas
+da base de cálculo mensal.
+
+2.1.6 – Despesas Médicas
+
+O art. 94, da IN RFB 1.500/2014, estabelece que, na Declaração de Ajuste Anual, podem ser deduzidos os
+pagamentos efetuados, no ano-calendário, a médicos, dentistas, psicólogos, fisioterapeutas,
+fonoaudiólogos, terapeutas ocupacionais e hospitais, bem como as despesas com exames laboratoriais,
+serviços radiológicos, aparelhos ortopédicos e próteses ortopédicas e dentárias.
+
+Além disso, a referida dedução alcança, também, os pagamentos efetuados a empresas domiciliadas no País
+destinados a coberturas de despesas médicas, odontológicas, de hospitalização e a entidades que assegurem
+direito de atendimento ou ressarcimento de despesas da mesma natureza. Dessa forma, concluímos que a
+dedução abrange os pagamentos efetuados aos planos de saúde.
+
+Diferentemente do que ocorre com as despesas com instrução, não há qualquer restrição quanto ao valor
+das despesas médicas, ou seja, não há limite dedutível.
+
+
+
+
+A dedução das despesas médicas restringe-se aos pagamentos efetuados pelo contribuinte, relativos ao seu
+próprio tratamento ou a de seus dependentes.
+É importante memorizar também as seguintes observações retiradas do site da RFB2:
+
+     As despesas com exame de DNA não são consideradas dedutíveis;
+     Gastos com medicamente não são dedutíveis, salvo se integrarem a conta emitida pelo estabelecimento
+      hospitalar.
+     É dedutível a despesa com internação hospitalar efetuada em residência, somente se essa despesa
+      integrar a fatura emitida por estabelecimento hospitalar.
+     Quando os cônjuges e os filhos do contribuinte declararem IRPF em separado, não é permitido deduzir
+      os gastos daqueles com plano de saúde, pois deixam de ser dependentes.
+
+Se as despesas médicas foram ressarcidas por alguma entidade ao contribuinte, ou forem cobertas por
+contrato de seguro, não serão dedutíveis. Na hipótese de ressarcimento parcial, considera-se como dedução
+apenas o montante não ressarcido.
+
+É relevante dizer também que as despesas médicas dos alimentandos, quando realizadas pelo alimentante,
+em virtude de cumprimento de decisão judicial, ou de acordo homologado judicialmente ou de escritura
+pública, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto sobre a
+renda na declaração.
+
+Por fim, você deve ter percebido que as despesas médicas também não foram incluídas na lista das deduções
+permitidas na retenção mensal pela fonte pagadora. Isso ocorre porque tais despesas apenas são dedutíveis
+da base de cálculo anual do IRPF, algo que deve ficar completamente memorizado!
+
+
+
+2.1.7 – Desconto Simplificado
+
+Já foi dito que é facultado ao contribuinte optar pelo desconto simplificado, hipótese em que poderá
+reduzir a base de cálculo do IRPF em até 20% do seu valor, independentemente do valor das despesas
+dedutíveis. Contudo, esse percentual está limitado a um teto legalmente definido, razão pela qual dissemos
+“em até 20%” e não apenas 20%.
+
+           Observação: O limite previsto para o desconto simplificado, a partir do ano-calendário de
+           2015, é de R$ 16.754,34.
+
+A opção pelo desconto simplificado implica a substituição de todas as deduções da base de cálculo, previstas
+na legislação tributária. Isso significa que as despesas informadas pelo contribuinte não serão levadas em
+consideração, para fins de cálculo do IRPF.
+
+Ademais, ao optar pelo desconto simplificado, o contribuinte também fica impedido de utilizar as deduções
+do imposto apurado (incentivos, que serão estudadas adiante).
+
+
+
+
+2
+    Disponível em: http://www.receita.fazenda.gov.br/publico/perguntao/Irpf2014/PerguntaseRespostasIRPF2014.pdf.
+Destaque-se que o contribuinte pode fazer essa opção, independentemente do montante dos seus
+rendimentos tributáveis. Ou seja, ainda que aufira no curso do ano-calendário R$ 1.000.000,00, pode fazer
+essa opção, se lhe aprouver.
+
+Por último, deve ser ressaltado que o valor utilizado a título de desconto simplificado não justifica a variação
+patrimonial do contribuinte. Desse modo, conforme dispõe o art. 10, par. único, da Lei 9.250/1995, o valor
+deduzido não poderá ser utilizado para comprovação de acréscimo patrimonial, sendo considerado
+rendimento consumido.
+
+Resumindo, temos o seguinte:
+
+
+
+
+    Opcional para o Contribuite
+                                                   Substitui as Deduções da Base
+                                                             de Cálculo
+
+    Desconto Simplificado (20%)
+
+                                                     Impede as Deduções do IRPF
+                                                              Apurado
+
+      Há limite fixado em lei.
+
+
+
+
+2.2 – Apuração do IRPF Devido
+
+Após a determinação da base de cálculo do IRPF, seja por meio das deduções legais ou pela opção pelo
+desconto simplificado, é o momento de se apurar o imposto devido, com base na tabela progressiva anual,
+transcrita abaixo:
+
+
+
+      Base de cálculo anual em R$          Alíquota %          Parcela a deduzir do imposto em R$
+           Até 22.499,13                        -                              -
+     De 22.499,14 até 33.477,72                7,5                         1.687,43
+     De 33.477,73 até 44.476,74               15,0                         4.198,26
+     De 44.476,75 até 55.373,55               22,5                         7.534,02
+        Acima de 55.373,55                    27,5                         10.302,70
+
+
+
+
+         Observação: A tabela acima se aplica à DIRPF 2020.
+     Para a sua correta aplicação, deve-se seguir os seguintes passos:
+
+       1º – Enquadrar a base de cálculo em uma das faixas da tabela progressiva;
+
+       2º – Multiplicar a base de cálculo pela alíquota correspondente à respectiva faixa;
+
+       3º – Subtrair do valor encontrado da multiplicação o valor fixo da terceira coluna, correspondente à
+       parcela a deduzir do imposto.
+
+A subtração dessa parcela do imposto tem como objetivo escalonar a tributação, conforme o valor dos
+rendimentos e suas respectivas alíquotas na tabela, tendo em vista o critério da progressividade.
+
+Se ela não existisse, o nosso cálculo seria bem mais trabalhoso. Tomemos como exemplo um contribuinte
+que tenha auferido no decorrer do ano-calendário R$ 116.754,34 de rendimentos tributáveis, optando pelo
+desconto simplificado. Desconsideramos qualquer dedução do imposto apurado, bem como qualquer
+antecipação.
+
+Nesse caso, com base na tabela progressiva, o cálculo do imposto seria o seguinte:
+
+116.754,34 – 16754,34 = R$ 100.000,00 (Base de Cálculo)
+
+100.000 x 27,5% - 10.302,70 = R$ 17.197,30 (IRPF Apurado)
+
+Dispensando a parcela a deduzir do imposto, inserida na tabela progressiva anual, nosso cálculo deveria ser
+o seguinte:
+
+
+
+              Base de cálculo anual em R$                    Alíquota %          IRPF Apurado
+ 22.499,13                                                       -                     -
+ 33.477,72 - 22.499,14 = 10.978,58                              7,5                823,39
+ 44.476,74 - 33.477,73 = 10.999,01                             15,0               1.649,85
+ 55.373,55 - 44.476,75 = 10.896,80                             22,5               2.451,78
+ 100.000,00 - 55.373,55 = 44.626,45                            27,5              12.272,28
+                                                              TOTAL:             R$ 17.197,30
+
+Perceba que a parcela a deduzir do imposto faz com que o IRPF seja progressivo (cada limite de rendimento
+seja tributado na sua correspondente alíquota da tabela), sem que tenhamos que fazer todo o cálculo
+realizado acima.
+
+2.3 – Deduções do IRPF Apurado
+
+Além das deduções legalmente previstas para determinação da base de cálculo do IRPF, a legislação também
+permite que o contribuinte realize algumas deduções a título de incentivo.
+        Observação: Lembre-se de que só é possível efetuar tais deduções se o contribuinte tiver
+        optado pelo modelo completo de DAA, isto é, aquele que permite a utilização das deduções
+        legais da base de cálculo do IRPF.
+
+
+
+
+2.3.1 – Deduções a Título de Incentivo
+
+São deduções do imposto apurado a título de incentivo:
+
+   1. As doações efetuadas aos Fundos dos Direitos da Criança e do Adolescente nacional, distrital,
+      estaduais ou municipais;
+   2. As contribuições feitas aos Fundos controlados pelos Conselhos Municipais, Estaduais e Nacional do
+      Idoso;
+   3. As contribuições efetivamente realizadas em favor de projetos culturais, aprovados na forma da
+      regulamentação do Programa Nacional de Apoio à Cultura (Pronac);
+   4. As quantias referentes:
+
+       a) a investimentos feitos na produção de obras audiovisuais cinematográficas brasileiras de produção
+       independente, mediante a aquisição de quotas representativas de direitos de comercialização sobre
+       as referidas obras, desde que esses investimentos sejam realizados no mercado de capitais, em ativos
+       previstos em lei e autorizados pela Comissão de Valores Mobiliários (CVM), e os projetos de produção
+       tenham sido aprovados pela Agência Nacional do Cinema (Ancine), até o exercício de 2018, ano-
+       calendário de 2017 (sim, já está expirado, leia até o fim deste tópico);
+
+       b) ao patrocínio à produção de obras cinematográficas brasileiras de produção independente cujos
+       projetos tenham sido previamente aprovados pela Ancine, até o exercício de 2018, ano-calendário
+       de 2017 (sim, já está expirado, leia até o fim deste tópico); e
+
+       c) à aquisição de cotas dos Fundos de Financiamento da Indústria Cinematográfica Nacional
+       (Funcines), até o exercício de 2018, ano-calendário de 2017 (sim, já está expirado, leia até o fim
+       deste tópico);
+
+   5. Os valores despendidos a título de patrocínio ou doação, no apoio direto a projetos desportivos e
+      paradesportivos previamente aprovados pelo Ministério do Esporte (ME), até o exercício 2023, ano-
+      calendário 2022;
+   6. Os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e
+      serviços relativos ao Programa Nacional de Apoio à Atenção Oncológica (Pronon), até o exercício
+      2021, ano-calendário 2020;
+   7. Os valores correspondentes às doações e aos patrocínios diretamente efetuados em prol de ações e
+      serviços relativos ao Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência
+      (Pronas/PCD), até o exercício 2021, ano-calendário 2020;
+
+Podemos resumir da seguinte forma:
+
+          1. Doações aos Fundos dos Direitos da Criança e do Adolescente
+          2. Contribuições aos Fundos do Idoso
+           3.   Contribuições em Favor de Projetos Culturais
+           4.   Investimentos e Patrocínios às Atividades Audiovisuais (cuidado!)
+           5.   Patrocínio ou Doação como incentivo ao Desporto
+           6.   Patrocínio ou Doação ao Pronon
+           7.   Patrocínio ou Doação ao Pronas/PCD
+
+
+
+
+Alguns alunos talvez se questionem o porquê de eu ter incluído algumas deduções do imposto apurado a
+título de incentivos que não mais estão vigentes. A razão é que, no fim do ano 2018, tivemos a alteração do
+Regulamento do Imposto de Renda (RIR/2018), e nele constam tais deduções (com a ressalva do fim da
+vigência também). Por essa razão, se eu não fizesse tal inclusão, talvez você, ao ler o RIR, não tomasse o
+cuidado de lembrar que essas deduções não mais estão vigentes, salvo se houver nova norma prorrogando
+o benefício.
+
+
+
+No que se refere especificamente às doações destinadas aos fundos dos direitos da criança e do adolescente,
+é importante saber que, para serem dedutíveis, é necessário que as doações tenham sido efetuadas
+diretamente aos Fundos de assistência da criança e do adolescente que são controlados pelos Conselhos
+Municipais, Estaduais ou Nacional dos Direitos das Crianças e dos Adolescentes. Dessa forma, se o Sr.
+Tributino realizar doações a orfanatos, por exemplo, não poderá deduzi-las na DAA.
+
+
+
+
+        Observação: Os fundos de assistência estão limitados a um por município, um por estado
+        e um nacional.
+
+        Além disso, após a doação, o contribuinte deve obter comprovante, especificando o seu
+        nome, o seu CPF, a data da doação e o valor recebido em dinheiro, além do número de
+        ordem do comprovante, o nome, o CNPJ, o endereço do emitente, e ser firmado por pessoa
+        competente para dar a quitação da operação.
+
+
+
+
+É necessário, ainda, memorizar os seguintes detalhes:
+
+    A soma das deduções previstas nos itens 1 a 5 não pode reduzir o imposto apurado na DAA em mais
+     de 6%;
+    As deduções do item 1, caso efetuadas diretamente na DAA, não poderão exceder a 3% do valor do
+     imposto sobre a renda devido, nela apurado.
+    As deduções previstas nos itens 6 e 7 estão cada uma delas limitada a 1% do imposto apurado na
+     DAA, mas não estão sujeitas ao limite global de 6% a que estão sujeitas as demais.
+
+2.4 – Cálculo do IRPF a Pagar ou a Restituir
+
+Após a subtração das deduções tratadas no tópico anterior, o contribuinte encontra o valor do IRPF a pagar.
+Contudo, deve, ainda, subtrair as antecipações do IRPF anual, realizadas no curso do ano-calendário. Com
+isso, chega-se ao valor final, que tanto pode ser positivo, imposto a pagar, ou negativo, imposto a restituir.
+
+Quando positivo, o saldo do imposto deverá ser pago até o último dia útil do mês de abril, que coincide com
+a data fixada para a entrega da declaração de rendimentos.
+
+Opcionalmente, o saldo do imposto a pagar pode ser pago em até 08 quotas iguais, mensais e sucessivas,
+observado o seguinte:
+
+       a) nenhuma quota será inferior a R$ 50,00 e o imposto de valor inferior a R$ 100,00 deve ser pago de
+       uma só vez;
+
+       b) a 1ª quota ou quota única deve ser paga até a data fixada para a entrega da declaração de
+       rendimentos;
+
+       c) as demais quotas vencem no último dia útil de cada mês e são acrescidas de juros equivalentes à
+       taxa Selic para títulos federais, acumulada mensalmente, calculados a partir do 1º dia do mês
+       subsequente ao previsto para entrega tempestiva da declaração de rendimentos até o mês anterior
+       ao do pagamento e de 1% no mês do pagamento.
+  REGIME DE TRIBUTAÇÃO EXCLUSIVA NA FONTE
+O regime de tributação exclusiva na fonte é aquele em que o contribuinte fica totalmente excluído da
+obrigação de pagar o imposto. Dessa forma, compete à fonte pagadora, apurar o imposto, efetuar a sua
+retenção, e providenciar o posterior recolhimentos aos cofres públicos.
+
+A fonte pagadora torna-se, portanto, a responsável pelo imposto, não obstante o ônus seja suportado pelo
+contribuinte, já que há retenção na fonte do valor do imposto devido.
+
+No que concerne aos rendimentos submetidos a essa sistemática, vamos citar abaixo os principais deles,
+fazendo os devidos comentários quando for pertinente:
+
+
+
+1. Gratificação Natalina (13º salário);
+
+        Observação: A respeito do 13°salário, é importante ressaltar o seguinte:
+
+        • É integralmente tributado, com base na tabela mensal vigente no mês de quitação
+        (dezembro);
+
+        • A tributação ocorre exclusivamente na fonte e separadamente dos demais rendimentos
+        recebidos no mês pelo beneficiário;
+
+        • Não há retenção na fonte pelo pagamento de sua antecipação;
+
+        • Na apuração de sua base de cálculo deve ser considerado o valor total desse rendimento,
+        inclusive antecipações, sendo permitidas as deduções da base de cálculo mensal, desde
+        que a ele correspondente.
+
+2. Participação nos Lucros ou Resultados das Empresas;
+
+3. Valores pagos, creditados, entregues, empregados ou remetidos por contratante pessoa jurídica
+   domiciliada no País, autorizada a operar transporte rodoviário internacional de carga, a beneficiário
+   transportador autônomo pessoa física residente na República do Paraguai, quando decorrentes da
+   prestação de serviços de transporte rodoviário internacional de carga;
+
+4. Rendimentos produzidos por aplicação financeira de renda fixa ou de renda variável, inclusive
+   operações de swap;
+
+5. Rendimentos produzidos por aplicações em fundos de investimento financeiro, em fundos de aplicação
+   em quotas de fundos de investimento, em fundos de investimento em ações ou fundos de investimento
+   em quotas de fundos de investimentos em ações;
+
+6. Rendimentos distribuídos pelos Fundos de Investimento Cultural e Artístico (Ficart);
+7. Rendimentos produzidos por aplicações em Fundos de Investimento Imobiliário, exceto os isentos, cujas
+   quotas sejam admitidas à negociação exclusivamente em bolsas de valores ou no mercado de balcão
+   organizado;
+
+8. Rendimentos obtidos em operação de mútuo ou operação de compra vinculada à revenda, no mercado
+   secundário, tendo por objeto ouro, ativo financeiro;
+
+9. As importâncias recebidas de pessoa jurídica a título de juros que não tenham tributação específica, bem
+   como os juros pagos pelas cooperativas a seus associados como remuneração do capital social;
+
+10. Prêmios distribuídos por meio de concursos e sorteios em geral, sob a forma de bens e serviços, e os
+    pagos em dinheiro, exceto vale-brinde;
+
+
+
+
+Cuidado: Não são apenas os prêmios pagos em dinheiro, mas também os bens e serviços recebidos em
+sorteios.
+
+
+
+11. Prêmios pagos a proprietários e criadores de cavalo de corrida;
+
+12. Benefícios líquidos, resultantes ou não de amortização antecipada, mediante sorteio, dos títulos de
+    capitalização, rendimentos auferidos com títulos de capitalização, no caso de resgate, sem sorteio, e
+    benefícios atribuídos a portadores de títulos de capitalização com base nos lucros da empresa emitente;
+
+13. Juros pagos ou creditados individualmente a titular, sócio ou acionista, a título de remuneração do
+    capital próprio;
+
+14. Rendimentos decorrentes dos pagamentos efetuados pelas pessoas                jurídicas a beneficiário não
+    identificado, inclusive recursos entregues a terceiros ou a sócios, acionistas ou titular, contabilizados ou
+    não, quando não for comprovada a operação ou sua causa;
+
+15. Rendimentos recebidos no Brasil por não residentes, exceto os ganhos que estiverem sujeitos ao regime
+    de tributação anual;
+Vamos entender melhor este assunto, pois já caiu na prova de AFRFB/2014! 
+
+Os rendimentos recebidos no Brasil por não residentes são tributados exclusivamente na fonte, conforme
+estabelece o art. 35, da IN SRF 208/2002.
+
+No art. 36 da referida instrução normativa, ficou estipulada a alíquota de 25% incidente sobre os
+rendimentos do trabalho, com ou sem vínculo empregatício, e os da prestação de serviços.
+
+Lembre-se de que o não residente não está obrigado a apresentar a DAA. Logo, a ideia é estabelecer uma
+forma de tributação que não dependa de apuração posterior. Além disso, a atribuição à fonte pagadora é
+uma forma de prevenir a inadimplência pelo não residente.
+
+
+
+
+16. Pagamentos efetuados pelas pessoas jurídicas a título de remuneração indireta a beneficiário não
+    identificado;
+
+17. Rendimentos de operações de mútuo entre pessoa jurídica e pessoa física;
+
+18. Rendimentos predeterminados auferidos por meio de operações conjugadas, realizadas em bolsa ou fora
+    de bolsa;
+
+19. Rendimentos líquidos pagos ou creditados decorrentes da aquisição de títulos ou contratos de
+    investimento coletivo;
+
+20. Rendimentos Recebidos Acumuladamente (RRA) correspondentes a anos-calendário anteriores ao do
+    recebimento;
+
+
+
+
+Existe a opção de o contribuinte levar tais rendimentos ao ajuste anual, hipótese em que o imposto retido
+na fonte passa a ser considerado como antecipação.
+
+
+
+
+21. Valores pagos aos participantes ou assistidos de planos de benefícios de caráter previdenciário,
+    estruturados nas modalidades de contribuição definida ou contribuição variável, das entidades de
+   previdência complementar e das sociedades seguradoras, a título de benefícios ou resgates de valores
+   acumulados que tenham optado pelo regime de tributação regressiva do imposto de renda, previsto na
+   Lei 11.053/2004.
+
+Destaque-se que tais rendimentos submetidos à tributação exclusivamente na fonte, embora não estejam
+submetidos ao imposto anual, devem ser declarados na DIRPF, a fim de justificar a variação no patrimônio
+do contribuinte.
+              REGIME DE TRIBUTAÇÃO DEFINITIVA
+
+
+       De acordo com o art. 20, da IN RFB 1.500/2014, consideram-se rendimentos sujeitos à tributação
+definitiva os não sujeitos a antecipação para fins de ajuste anual, cujo recolhimento tenha sido efetuado
+pelo próprio sujeito passivo.
+
+Assim, relembrando o que já foi estudado, no regime de tributação definitiva, a obrigação de efetuar o
+recolhimento do imposto devido recai sobre o contribuinte.
+
+Ademais, tal como ocorre com o regime de tributação exclusiva, os rendimentos submetidos a esse regime
+de tributação não integram a base de cálculo do regime de tributação anual, razão pela qual o IRPF pago
+com base nesse regime não constitui antecipação mensal do imposto anual. São regimes distintos, embora
+nada impeça que haja antecipações dentro desse regime, como o IRRF (Imposto de Renda Retido na Fonte)
+em relação aos ganhos nas operações em bolsa de valores.
+
+Estão sujeitos ao regime de tributação definitiva do IRPF (IN RFB 1.500/2014, art. 21):
+
+1. Ganhos de capital auferidos na alienação de bens e direitos;
+
+2. Ganhos de capital decorrentes da alienação de bens e direitos e da liquidação e resgate de aplicações
+    financeiras, adquiridos em moeda estrangeira;
+
+3. Ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie;
+
+4. Ganhos de capital referentes à diferença a maior entre o valor da integralização e o constante da
+    declaração de bens, na transferência de bens e direitos da pessoa física a pessoa jurídica a título de
+    integralização de capital;
+
+5. Ganhos de capital apurados na transferência de propriedade de bens e direitos, por sucessão, a herdeiros,
+    legatários ou donatários como adiantamento da legítima, bem como a cada ex-cônjuge ou ex-
+    companheiro, na hipótese de dissolução da sociedade conjugal ou da união estável, quando o sucessor
+    optar pela inclusão dos referidos bens e direitos, na sua declaração de rendimentos, por valor superior
+    àquele pelo qual constavam da declaração do de cujus, do doador ou do ex-cônjuge ou ex-companheiro
+    declarante, antes da dissolução da sociedade conjugal ou da união estável;
+
+6. Ganhos líquidos auferidos nas operações realizadas em bolsas de valores, de mercadorias, de futuros e
+    assemelhadas;
+
+7. Ganhos líquidos auferidos na alienação de ouro, ativo financeiro; e
+
+8. Ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa.
+
+Basicamente, estão sujeitos ao regime de tributação definitiva os ganhos de capital e os ganhos líquidos.
+Portanto, não vai ser tão complicado discernir os rendimentos sujeitos a esse regime e aos demais, na hora
+da prova!
+Assim, por exemplo, imagine que você decide investir em ações na Bolsa de Valores, comprando e vendendo
+ao longo do mês de julho. Finalizando esse mês, você procederá à apuração dos seus ganhos no mercado
+financeiro, e irá recolher, por conta própria, o IRPF devido, descontando o IRRF (Imposto de Renda Retido
+em Fonte) já pago antecipadamente na fonte.
+
+Veja que se trata de uma apuração em separado, isto é, você não pode confundir o IR devido no regime de
+tributação definitiva com o IR devido no regime de tributação anual ou exclusiva na fonte.
+
+Portanto, tais ganhos serão apurados no mês em que forem auferidos e tributados em separado, não
+integrando a base de cálculo do imposto na declaração de rendimentos, e o valor do imposto pago não
+poderá ser deduzido do devido na DIRPF.
+
+
+
+
+         Observação: Estão também sujeitos à tributação definitiva os ganhos de capital e os ganhos
+         líquidos referidos nos itens 1, 6, 7 e 8, quando recebidos por pessoas não residentes no
+         País. (IN RFB 1.500/2014, art. 21, par. único)
+
+
+
+
+O prazo para pagamento do imposto é o último dia útil do mês subsequente àquele em que os rendimentos
+foram percebidos.
+
+Entretanto, é importante relembrar que tais rendimentos devem ser informados na DIRPF, a fim de que o
+contribuinte justifique a variação que o seu patrimônio sofreu no decorrer do ano-calendário.
+
+Vale citarmos, ainda que a título de curiosidade, as alíquotas do IRPF aplicáveis ao ganho de capital auferidos
+pelas pessoas físicas em decorrência da alienação de bens e direitos de qualquer natureza. Tais regras foram
+alteradas pela Lei 13.259/2016 (RIR/2018, art. 153):
+
+        Alíquota                                         Base de Cálculo
+          15%         Parcela dos ganhos que não exceder R$ 5 milhões
+         17,5%        Parcela dos ganhos maior que R$ 5 milhões e menor que R$ 10 milhões
+          20%         Parcela dos ganhos maior que R$ 10 milhões e menor que R$ 30 milhões
+         22,5%        Parcela dos ganhos que ultrapassar R$ 30 milhões
+
+
+
+
+     Veja que foi estabelecida uma forma de progressividade para os ganhos de capital, iniciando-se pela
+alíquota de 15% e finalizando com a alíquota de 22,5%.
+                   SISTEMA DE BASES CORRENTES
+O sistema de bases correntes, instituído pela Lei 7.713/1988 não existe mais. Trata-se, pois, de história do
+IRPF. De qualquer forma, como consta no edital, devemos estuda-lo!
+
+        Observação: O texto abaixo foi retirado do site da Receita Federal, realizadas algumas
+        modificações a fim de direcioná-lo ao estudo para concursos públicos.
+
+A Lei 7.713/1988 promoveu profundas alterações na legislação do imposto de renda. A partir de 1º de janeiro
+de 1989, o imposto de renda das pessoas físicas passou a ser devido, mensalmente, à medida que os
+rendimentos e ganhos de capital fossem percebidos. O imposto incidia sobre o rendimento bruto, sem
+qualquer dedução. Foi desmontada a estrutura tributária instituída em 1926.
+
+A ideia era substituir a base anual do imposto pelo sistema de bases correntes, com o ajuste mensal do
+imposto. No regime de bases correntes o objeto e o período de incidência coincidem com o próprio exercício
+financeiro em curso e não se referem ao ano anterior como no sistema de antecipação do desconto na fonte.
+Era a introdução no Brasil do pay as you earn – pague à medida que você receba.
+
+
+
+
+A regra no sistema de bases correntes era realizar o ajuste mensal.
+
+
+
+A tabela progressiva que no exercício de 1989, ano-base de 1988, comportava nove classes e alíquotas
+variáveis de 10% a 45% passou no ano seguinte para três classes, inclusive a de isenção, e duas alíquotas:
+10% e 25%. No exercício de 1990, o contribuinte tinha dois modelos de declaração: Informações e Ajuste. A
+Declaração de Informações era muito fácil de preencher e apenas informativa, sem calcular o saldo de
+imposto a pagar nem a restituir.
+
+O contribuinte que recebeu rendimentos tributáveis de mais de uma fonte pagadora em um mesmo mês
+devia apresentar a Declaração de Ajuste. Para cada mês do ano de 1989, devia ser preenchido um “Roteiro
+de Apuração Mensal”, que exigia do contribuinte muitos cálculos. O resultado do imposto a recolher obtido
+no Roteiro devia ser transportado para a Declaração de Ajuste, para cálculo do saldo remanescente a pagar.
+
+A instituição do sistema de bases correntes não teve o resultado esperado, sobretudo pela complexidade
+dos cálculos para apuração do saldo a pagar na Declaração de Ajuste.
+
+Dessa forma, o sistema de bases correntes foi inutilizado, com a publicação da Lei 8.134/1990, que
+restabeleceu a sistemática de antecipações mensais e ajuste anual. Portanto, o sistema de bases correntes
+durou apenas um ano.
+                            LANÇAMENTO DO IRPF
+O IRPF, ao contrário do que muitos pensam, não é lançado por declaração, muito embora o contribuinte
+esteja obrigado a prestar uma declaração anualmente à RFB, denominada DIRPF ou DAA.
+
+Trata-se de tributo lançado por homologação, pois o contribuinte deve apurar o imposto devido e efetuar
+o recolhimento deste sem prévio exame da autoridade administrativa, o que se amolda perfeitamente ao
+que prescreve o art. 150 do CTN, cuja redação é a seguinte:
+
+       Art. 150. O lançamento por homologação, que ocorre quanto aos tributos cuja legislação atribua ao
+       sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa,
+       opera-se pelo ato em que a referida autoridade, tomando conhecimento da atividade assim exercida
+       pelo obrigado, expressamente a homologa.
+
+No entanto, há situações que ensejam o lançamento de ofício por parte da autoridade administrativa, com
+base no que prevê o art. 149 do CTN. Desse modo, o art. 902 do RIR/2018 estabeleceu como hipóteses de
+lançamento de ofício as seguintes:
+
+ Não apresentar declaração a que esteja obrigado;
+ Deixar de atender ao pedido de esclarecimentos que lhe for dirigido, recusar-se a prestá-los ou não os
+   prestar satisfatoriamente;
+ Fizer declaração inexata, considerando-se como tal a que contiver ou omitir, inclusive em relação a
+   incentivos fiscais, qualquer elemento que implique redução do imposto a pagar ou restituição indevida;
+ Não efetuar ou efetuar com inexatidão o pagamento ou recolhimento do imposto devido, inclusive na
+   fonte;
+ Estiver sujeito, por ação ou omissão, a aplicação de penalidade pecuniária;
+ Omitir receitas ou rendimentos.
+ Apresentar declaração de compensação considerada não declarada e o débito não tenha sido confessado.
+
+        Observação: Caracteriza-se omissão de receitas quando a pessoa física estiver obrigada a
+        emitir documento fiscal ou documento equivalente e não o faz, bem como os valores
+        creditados em conta de depósito ou de investimento mantida junto a instituição financeira,
+        em relação aos quais a pessoa física, regularmente intimada, não comprove, mediante
+        documentação hábil ou idônea, a origem dos recursos utilizados nessas operações.
+
+
+
+
+No que se refere à base para a realização do lançamento de ofício, o art. 845 do RIR estabeleceu que tal
+lançamento deve ser feito, inclusive:
+
+ Arbitrando-se os rendimentos mediante os elementos de que se dispuser, nos casos de falta de
+   declaração;
+ Abandonando-se as parcelas que não tiverem sido esclarecidas e fixando os rendimentos tributáveis de
+   acordo com as informações de que se dispuser, quando os esclarecimentos deixarem de ser prestados,
+   forem recusados ou não forem satisfatórios;
+ Computando-se as importâncias não declaradas, ou arbitrando o rendimento tributável de acordo com
+   os elementos de que se dispuser, nos casos de declaração inexata.
+
+De acordo com o art. 910, do RIR/2018, o lançamento de ofício também será efetuado, arbitrando-se os
+rendimentos com base na renda presumida, mediante utilização dos sinais exteriores de riqueza, que
+consistem na realização de gastos incompatíveis com a renda disponível do contribuinte.
+
+
+
+
+         Observação: Constitui renda disponível, a receita auferida pelo contribuinte, diminuída das
+         deduções admitidas, e do imposto de renda pago pelo contribuinte.
+
+         As deduções devem ser subtraídas das receitas, pois são basicamente as despesas com as
+         quais o contribuinte arcou no durante o ano-calendário.
+
+
+        OBRIGATORIEDADE DE ENTREGA DE DIRPF
+         Está obrigada a apresentar a Declaração de Ajuste Anual referente ao exercício de 2018, a pessoa
+física residente no Brasil que:
+
+I - recebeu rendimentos tributáveis, sujeitos ao ajuste na declaração, cuja soma foi superior a R$ 28.559,70;
+
+II - recebeu rendimentos isentos, não tributáveis ou tributados exclusivamente na fonte, cuja soma foi
+superior a R$ 40.000,00 (quarenta mil reais);
+
+III - obteve, em qualquer mês, ganho de capital na alienação de bens ou direitos, sujeito à incidência do
+imposto, ou realizou operações em bolsas de valores, de mercadorias, de futuros e assemelhadas;
+
+IV - relativamente à atividade rural:
+
+       a) obteve receita bruta em valor superior a R$ 142.798,50;
+
+       b) pretenda compensar, no ano-calendário de 2016 ou posteriores, prejuízos de anos-calendário
+       anteriores ou do próprio ano-calendário de 2016;
+
+V - teve, em 31 de dezembro, a posse ou a propriedade de bens ou direitos, inclusive terra nua, de valor total
+superior a R$ 300.000,00 (trezentos mil reais);
+
+VI - passou à condição de residente no Brasil em qualquer mês e nessa condição encontrava-se em 31 de
+dezembro; ou
+
+VII - optou pela isenção do Imposto sobre a Renda incidente sobre o ganho de capital auferido na venda de
+imóveis residenciais, cujo produto da venda seja aplicado na aquisição de imóveis residenciais localizados no
+País, no prazo de 180 (cento e oitenta) dias contado da celebração do contrato de venda, nos termos do art.
+39 da Lei nº 11.196, de 21 de novembro de 2005.
+                                     RESUMO DA AULA
+
+
+Regimes de Tributação do IRPF
+
+
+
+          Reg. de Tributação Anual                          Retenção Por Antecipação
+
+
+        Reg. de Tributação Definitiva                       Retenção Por Antecipação
+
+
+    Reg. de Tributação Exclusiva na Fonte                  Retenção Exclusiva na Fonte
+
+
+
+
+   A fonte pagadora é a terceira pessoa vinculada ao fato gerador do imposto de renda, a quem a lei
+    atribui a responsabilidade de reter e recolher o tributo.
+
+
+
+   No caso do regime de retenção exclusiva na fonte, a responsabilidade é apenas da fonte pagadora.
+    Havendo a devida retenção, sem que seja efetuado o recolhimento à Fazenda Nacional, a fonte pagadora
+    enquadra-se no crime de apropriação indébita
+
+
+
+
+Regime de Tributação Anual
+
+   A base de cálculo do imposto, na DAA (Declaração de Ajuste Anual), é a diferença entre as somas de
+    todos os rendimentos recebidos durante o ano-calendário, exceto os isentos, os não tributáveis, os
+    tributados exclusivamente na fonte e os sujeitos à tributação definitiva.
+
+   O resultado positivo da atividade rural integra a base de cálculo do imposto na declaração de
+    rendimentos.
+
+   As antecipações do imposto anual se resumem assim:
+
+           1. Retenções na Fonte;
+           2. Recolhimentos Mensais Obrigatórios (carnê-leão);
+           3. Recolhimentos Complementares Facultativos (mensalão);
+               4. Imposto Pago no Exterior;
+               5. Outras Antecipações;
+
+
+
+
+Retenções na Fonte
+
+                                                                         Pagos por PJ ou por PF
+          Rendimentos do Trabalho Assalariado
+
+
+         Demais Rendimentos (Reg. Tribut. Anual)                            Pagos por PJ a PF
+
+
+
+
+    Rendimentos Tributáveis pelos regimes:
+                                                                      Não são antecipações do IRPF
+                                                                          devido anualmente.
+         Tributação Definitiva;
+         Tributação Exclusiva na Fonte.
+
+
+
+
+Recolhimento Mensal Obrigatório
+
+       O carnê-leão é mais uma das formas de antecipação do IRPF, apurado segundo o regime de tributação
+        anual.
+
+       Principais situações que ensejam o recolhimento antecipado pelo próprio contribuinte:
+                Rendimentos recebidos de outras pessoas físicas que não tenham sido tributados na fonte no
+                    País;
+                Rendimentos ou quaisquer outros valores de fontes do exterior
+                Emolumentos e custas dos serventuários da Justiça
+                Importância paga em dinheiro, a título de pensão alimentícia em face das normas do Direito
+                    de Família
+
+
+
+Recolhimento Complementar Facultativo
+
+       A legislação tributária federal faculta ao contribuinte antecipar o imposto devido na DAA mediante o
+        recolhimento complementar do imposto.
+   Prazo para efetuar o recolhimento facultativo: no curso do ano-calendário, até o último dia útil do mês
+    de dezembro.
+
+   O cálculo dessa antecipação deve utilizar as mesmas deduções permitidas no ajuste anual, aplicando a
+    tabela progressiva anual.
+
+
+
+Imposto Pago no Exterior
+
+   A legislação permite que o contribuinte deduza, a título de antecipação, o imposto que foi pago no
+    exterior, desde que respeitadas, cumulativamente, as seguintes condições (RIR/2018, art. 115):
+
+          Haja acordo, tratado ou convenção para evitar a dupla tributação entre o Brasil e o país de origem
+           dos rendimentos ou haja reciprocidade de tratamento;
+          O valor do imposto pago no país de origem não pode ter sido restituído ou compensado no
+           exterior.
+
+Outras Antecipações
+
+   De acordo com a legislação tributária, do imposto devido podem ser deduzidos:
+
+          O valor do IRRF incidente sobre ganhos líquidos;
+
+          O valor do imposto retido na fonte sobre os rendimentos recebidos acumuladamente.
+
+
+   São valores relativos ao IR que se referem a outros regimes de tributação, mas que podem, atendidas
+    as regras previstas na legislação tributária, ser levados ao ajuste anual, ou seja, ao regime de tributação
+    anual.
+
+
+
+Apuração do Imposto na DAA ou DIRPF:
+
+   As pessoas físicas devem apresentar anualmente DAA destinada a apurar o saldo do imposto a pagar ou
+    a ser restituído, observados forma, prazo e condições estabelecidos pela Secretaria da Receita Federal
+    do Brasil.
+
+
+
+   Base de Cálculo: soma de todos os rendimentos recebidos durante o ano-calendário, exceto os isentos,
+    os não tributáveis, os tributados exclusivamente na fonte e os sujeitos à tributação definitiva.
+
+   Para fins de determinação da base de cálculo, devemos subtrair do valor acima as deduções legais, que
+    se resumem nas seguintes:
+       9. Pensão Alimentícia;
+       10. Valor Fixo por Dependente;
+       11. Contribuições para Previdência Oficial;
+       12. Contribuições para Previdência Complementar (inclusive a PGBL) e para os FAPI;
+       13. Contribuições para o Regime de Previdência Complementar dos Servidores Públicos Titulares
+          de Cargo Efetivo;
+       14. Despesas Escrituradas em Livro Caixa;
+       15. Despesas com Instrução;
+       16. Despesas Médicas.
+
+
+
+   Cálculo Resumido do IRPF Anual:
+
+
+                                                     (-)
+
+                Soma dos Rendimentos                                Deduções Legais ou Opção por
+             Tributáveis (Apenas Sujeitos                              Desconto Simplificado
+                  ao Imposto Anual)
+                                                                                       =
+
+                                                                       Base de Cálculo IRPF
+
+                               Aplicação da Tabela
+                                Progressiva Anual
+
+                                                                                IRPF Apurado
+
+                                                                                       (-)
+           IRPF Anual Devido                           Incentivos
+
+
+                         (-)            =
+
+                                            =
+             Antecipações                                      IRPF a Pagar ou a Restituir
+   Quem pode ser considerado dependente:
+
+       I - o cônjuge;
+
+       II - o companheiro ou a companheira, desde que haja vida em comum por mais de 5 anos, ou por
+       período menor se da união resultou filho;
+
+             Observação: Considera-se também dependente o companheiro ou companheira de
+             união homoafetiva.
+
+       III - a filha, o filho, a enteada ou o enteado, até 21 anos, ou de qualquer idade quando incapacitado
+       física ou mentalmente para o trabalho;
+
+       IV - o menor pobre, até 21 anos, que o contribuinte crie e eduque e do qual detenha a guarda judicial;
+
+       V - o irmão, o neto ou o bisneto, sem arrimo dos pais, até 21 anos, desde que o contribuinte detenha
+       a guarda judicial, ou de qualquer idade quando incapacitado física ou mentalmente para o trabalho;
+
+       VI - os pais, os avós ou os bisavós, desde que não aufiram rendimentos, tributáveis ou não, superiores
+       ao limite de isenção mensal;
+
+       VII - o absolutamente incapaz, do qual o contribuinte seja tutor ou curador.
+
+
+
+   Contribuições Previdenciárias
+
+
+
+   São admitidas, a título de dedução da base de cálculo anual do IRPF, as seguintes contribuições
+    previdenciárias:
+           4. Contribuições para Previdência Oficial;
+           5. Contribuições para Previdência Complementar (inclusive a PGBL) e para os FAPI;
+           6. Contribuições para o Regime de Previdência Complementar dos Servidores Públicos
+               Titulares de Cargo Efetivo;
+   Contribuições para Previdência Oficial: sem limite de dedução.
+
+   Contribuições para Previdência Complementar (inclusive FAPI): até 12% do total dos rendimentos
+    computados na determinação da base de cálculo do imposto anual.
+
+
+
+   Despesas com Instrução:
+
+   É possível ao contribuinte deduzir despesas com instrução relativas:
+                I - à educação infantil, compreendendo as creches e as pré-escolas;
+
+                II - ao ensino fundamental;
+
+                III - ao ensino médio;
+
+                IV - à educação superior, compreendendo os cursos de graduação e de pós-graduação
+                (mestrado, doutorado e especialização);
+
+                V - à educação profissional, compreendendo o ensino técnico e o tecnológico.
+
+         Atenção 1: cursos de línguas estrangeiras, preparatórios para concursos ou vestibulares
+         não são dedutíveis.
+
+         Atenção 2: existe um limite por pessoa para dedução dessas despesas.
+
+
+
+
+      Despesas Médicas:
+
+Pagamentos efetuados a/por: médicos, dentistas, psicólogos, fisioterapeutas, fonoaudiólogos, terapeutas
+ocupacionais e hospitais, bem como as despesas com exames laboratoriais, serviços radiológicos, aparelhos
+ortopédicos e próteses ortopédicas e dentárias.
+
+
+
+
+         Atenção 1: a dedução abrange os pagamentos efetuados aos planos de saúde.
+
+         Atenção 2: não há qualquer restrição quanto ao valor das despesas médicas, ou seja, não
+         há limite dedutível.
+
+
+
+
+      Desconto Simplificado: é facultado ao contribuinte optar pelo desconto simplificado, hipótese em
+       que poderá reduzir a base de cálculo do IRPF em até 20% do seu valor, respeitado o teto previsto
+       na legislação tributária.
+
+    Opcional para o Contribuite
+                                                  Substitui as Deduções da Base
+                                                            de Cálculo
+
+
+   Desconto Simplificado (20%)
+
+                                                  Impede as Deduções do IRPF
+                                                           Apurado
+
+       Há limite fixado em lei.
+       Deduções do Imposto Devido Permitidas Atualmente:
+
+           8. Doações aos Fundos dos Direitos da Criança e do Adolescente
+           9. Contribuições aos Fundos do Idoso
+           10. Contribuições em Favor de Projetos Culturais
+           11. Patrocínio ou Doação como incentivo ao Desporto
+           12. Patrocínio ou Doação ao Pronon
+           13. Patrocínio ou Doação ao Pronas/PCD
+
+
+
+
+Regime de Tributação Exclusiva na Fonte
+
+   O regime de tributação exclusiva na fonte é aquele em que o contribuinte fica totalmente excluído da
+    obrigação de pagar o imposto. Apenas a fonte pagadora é que tem a obrigação de efetuar o recolhimento.
+
+
+
+Principais rendimentos sujeitos à tributação exclusiva:
+
+     1. Gratificação Natalina (13º salário);
+
+    2. Participação nos Lucros ou Resultados das Empresas;
+
+    3. Rendimentos produzidos por aplicação financeira de renda fixa ou de renda variável, inclusive
+       operações de swap;
+
+    4. Prêmios distribuídos por meio de concursos e sorteios em geral, sob a forma de bens e serviços, e
+        os pagos em dinheiro, exceto vale-brinde;
+
+    5. Prêmios pagos a proprietários e criadores de cavalo de corrida;
+
+    6. Juros pagos ou creditados individualmente a titular, sócio ou acionista, a título de remuneração do
+        capital próprio;
+
+    7. Rendimentos recebidos no Brasil por não residentes, exceto os ganhos que estiverem sujeitos ao
+        regime de tributação anual;
+
+    8. Rendimentos de operações de mútuo entre pessoa jurídica e pessoa física;
+
+    9. Rendimentos Recebidos Acumuladamente (RRA) correspondentes a anos-calendário anteriores ao
+        do recebimento;
+
+         Atenção 1: esses rendimentos não integram a base de cálculo do imposto no regime de
+         tributação anual.
+
+         Atenção 2: esses rendimentos são informados na DAA.
+Regime de Tributação Definitiva
+
+   Consideram-se rendimentos sujeitos à tributação definitiva os não sujeitos a antecipação para fins de
+    ajuste anual, cujo recolhimento tenha sido efetuado pelo próprio sujeito passivo.
+
+
+
+Principais rendimentos sujeitos à tributação definitiva:
+
+    1. Ganhos de capital auferidos na alienação de bens e direitos;
+
+    2. Ganhos de capital decorrentes da alienação de bens e direitos e da liquidação e resgate de aplicações
+        financeiras, adquiridos em moeda estrangeira;
+
+    3. Ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie;
+
+    4. Ganhos líquidos auferidos nas operações realizadas em bolsas de valores, de mercadorias, de
+        futuros e assemelhadas;
+
+    5. Ganhos líquidos auferidos na alienação de ouro, ativo financeiro; e
+
+    6. Ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa.
+
+         Atenção 1: esses rendimentos não integram a base de cálculo do imposto no regime de
+         tributação anual.
+
+         Atenção 2: esses rendimentos são informados na DAA.
+    QUESTÕES COMPLEMENTARES COMENTADAS
+1.QUESTÃO INÉDITA
+Apenas os rendimentos tributáveis segundo o regime de tributação anual devem ser informados na DIRPF.
+
+Comentário: Todos os rendimentos auferidos pelo contribuinte devem ser informados na DIRPF,
+independentemente do regime de tributação a que estejam sujeitos.
+
+Gabarito: Errada
+
+2.QUESTÃO INÉDITA
+Os aluguéis pagos por pessoas físicas estão sujeitos à retenção mensal do imposto na fonte
+
+Comentário: Como os alugueis não são rendimentos do trabalho assalariado, só ocorre retenção na fonte se
+forem pagos por pessoa jurídica a pessoa física.
+
+Gabarito: Errada
+
+3.QUESTÃO INÉDITA
+O recolhimento complementar facultativo, embora seja feito em momento anterior ao ajuste anual, utiliza
+como base a tabela progressiva anual.
+Gabarito: Correta
+
+4.QUESTÃO INÉDITA
+As contribuições destinadas ao seguro de vida com cobertura por sobrevivência podem ser deduzidas do
+IRPF.
+
+Comentário: As contribuições destinadas ao seguro de vida com cobertura por sobrevivência (VGBL) não
+podem ser deduzidas do IRPF.
+
+Gabarito: Errada
+
+5.ESAF/Auditor-Fiscal da Receita Federal/2014
+Considere a situação hipotética narrada:
+“Pablo é brasileiro e vive no exterior há alguns anos, em país que tributa a renda da pessoa física em
+percentual muito superior à tributação brasileira. Pablo mantém fortes laços como Brasil, para onde envia,
+mensalmente, os produtos artesanais por ele desenvolvidos, recebendo justa contraprestação da Jeremias
+Artesanato Mundial Ltda., revendedora exclusiva de sua produção, com sede no município de Salvador. Além
+disso, Pablo possui imóvel na cidade de Manaus, em razão do qual recebe aluguéis mensais, e presta serviços
+de consultoria para Matias Turismo Pantanal Ltda., empresa sediada no município de Campo Grande. Ano
+passado, os pais de Pablo faleceram, deixando joias e imóveis no Rio de Janeiro, tudo vendido pela sua irmã,
+Paola, que, em acordo como irmão, enviou-lhe a metade da herança que lhe cabia."
+De acordo com a legislação tributária em vigor, assinale a opção correta.
+a) Desde que Pablo tenha quitado os tributos devidos até a data de sua saída definitiva do Brasil, deve
+receber todos os rendimentos acima descritos livres de Imposto de Renda, já que não é domiciliado nem
+residente no Brasil.
+b) Independentemente de ser ou não domiciliado ou residente no Brasil, Pablo está obrigado ao Imposto de
+Renda no Brasil tanto quanto e tal como aqueles cidadãos que aqui residem, por ser brasileiro e porque está
+auferindo riqueza produzida no Brasil.
+c) Os valores enviados por Jeremias Artesanato Mundial Ltda., em razão da venda do artesanato, assim como
+os valores dos aluguéis e aqueles decorrentes da prestação de serviços à Matias Turismo Pantanal S.A., que
+forem remetidos a Pablo no exterior, devem sofrer incidência do Imposto de Renda na fonte, ficando a
+remessa do quinhão da herança pertencente a Pablo dispensada do recolhimento desse tributo.
+d) Os rendimentos acima descritos que tiverem sido recebidos por Pablo após requerimento e saída
+definitiva e regular do País ficam todos sujeitos à tributação exclusiva na fonte a título de Imposto de Renda
+Pessoa Física.
+e) Deve ser retido pelas fontes o valor correspondente ao Imposto de Renda incidente sobre a herança e
+sobre os aluguéis, ficando os valores enviados por Jeremias Artesanato Mundial Ltda., em razão da venda do
+artesanato, e os enviados em razão dos serviços prestados à Matias Turismo Pantanal S.A., livres de Imposto
+de Renda no Brasil por não consubstanciarem rendimento de trabalho realizado neste País.
+
+Comentário: Existem quatro situações a serem analisadas na questão em comento. Vejamos:
+
+Situação 01 – Pablo auferiu renda com a venda de seus produtos à empresa Jeremias Artesanato Mundial
+Ltda., situada no Brasil  Como se trata de renda cuja fonte está situada no Brasil, Pablo se sujeitará ao
+imposto de renda, com base no art. 741, I, do RIR.
+
+Situação 02 – Pablo recebeu aluguéis mensais de imóveis situados no Brasil  Como a fonte do rendimento
+está situada no País, mesmo que Pablo não seja residente no Brasil, submeter-se-á ao imposto de renda.
+
+Situação 03 – Pablo auferiu renda pela prestação serviços de consultoria para Matias Turismo Pantanal Ltda.,
+empresa situada no Brasil  Como se trata de renda cuja fonte está situada no Brasil, Pablo se sujeitará ao
+imposto de renda, com base no art. 741, I, do RIR.
+
+Situação 04 – Pablo recebeu herança de seus pais falecidos no Brasil  A legislação tributária isenta o
+recebimento de herança do pagamento do imposto de renda.
+
+Alternativa A: Em relação aos rendimentos cujas fontes estejam situadas no País, mesmo sendo não
+residente, Pablo continua a sofrer a incidência do imposto de renda. Alternativa errada.
+
+Alternativa B: Em relação aos rendimentos cujas fontes estejam situadas no País, mesmo sendo não
+residente, Pablo continua a sofrer a incidência do imposto de renda. Porém, a incidência é distinta, por meio
+da aplicação de uma alíquota de 25%, tributada exclusivamente na fonte. Alternativa errada.
+
+Alternativa C: De fato, como comentamos, em relação como aos valores dos aluguéis e aqueles decorrentes
+da prestação de serviços à Matias Turismo Pantanal S.A., haverá tributação, pois as fontes dos rendimentos
+estão situadas no País. Porém, quanto à herança, há dispensa legal do pagamento do imposto. Alternativa
+correta.
+Alternativa D: Embora a tributação, quando devida, seja feita pelo regime de tributação exclusivamente na
+fonte, nem todos os rendimentos estão sujeitos ao imposto de renda. Alternativa errada.
+
+Alternativa E: Em relação aos rendimentos cujas fontes estejam situadas no País, mesmo sendo não
+residente, Pablo continua a sofrer a incidência do imposto de renda. Alternativa errada.
+
+Gabarito: Letra C
+
+6.QUESTÃO INÉDITA
+São regimes de tributação do Imposto de Renda Pessoa Física (IRPF):
+( ) Regime de Tributação Anual
+( ) Regime de Tributação Definitiva
+( ) Regime de Tributação Exclusiva na Fonte
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) F, V, V
+
+Comentário: Há três regimes de tributação do IRPF: regime de tributação anual, regime de tributação
+definitiva e regime de tributação exclusiva na fonte. Portanto, todas os itens estão corretos, e o gabarito da
+questão é a Letra B.
+
+Gabarito: Letra B
+
+7.QUESTÃO INÉDITA
+Estão sujeitos ao regime de tributação anual:
+a) Rendimentos isentos;
+b) Rendimentos não tributáveis;
+c) Rendimentos tributáveis exclusivamente na fonte;
+d) Rendimentos sujeitos à tributação definitiva;
+e) Todos os demais rendimentos.
+
+Comentário: Estão sujeitos ao regime de tributação anual todos os rendimentos percebidos durante o ano-
+calendário, exceto os isentos, os não-tributáveis, os tributáveis exclusivamente na fonte e os sujeitos à
+tributação definitiva. Assim sendo, a alternativa correta é a Letra E.
+
+Gabarito: Letra E
+
+8.QUESTÃO INÉDITA
+Estão sujeitos ao regime de tributação definitiva os seguintes rendimentos, exceto:
+a) juros pagos ou creditados individualmente a titular, sócio ou acionista, a título de remuneração do capital
+próprio;
+b) ganhos de capital auferidos na alienação de bens e direitos;
+c) ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie;
+d) ganhos líquidos auferidos na alienação de ouro, ativo financeiro;
+e) ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa.
+
+Comentário: De imediato, podemos “matar” a questão, já que a Letra A apresenta os juros pagos ou
+creditados, a título de remuneração do capital próprio como submetidos à tributação definitiva, quando, na
+realidade, estão sujeitos ao regime de tributação exclusiva na fonte. As demais alternativas tratam de
+ganhos líquidos e ganhos de capital, todos eles previstos no art. 21, da IN RFB 1.500/2014. Portanto, a
+resposta correta é a Letra A.
+
+Gabarito: Letra A
+
+9.QUESTÃO INÉDITA
+A respeito do regime de tributação exclusiva na fonte, julgue os itens abaixo e, ao final, aponte a alternativa
+correta:
+( ) A tributação da gratificação natalina ocorre exclusivamente na fonte e separadamente dos demais
+rendimentos recebidos no mês pelo beneficiário.
+( ) Os prêmios obtidos em loterias ou concursos e sorteios em geral, desde que pagos em dinheiro, estão
+sujeitos à tributação exclusiva na fonte.
+( ) Não há retenção na fonte pelo pagamento de antecipação do 13º salário.
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) F, V, V
+
+
+
+Comentário:
+
+Item I: A tributação desse rendimento ocorre exclusivamente na fonte e separadamente dos demais
+rendimentos. Item correto.
+
+Item II: Não são apenas os prêmios pagos em dinheiro, mas também os bens e serviços recebidos em
+sorteios. Item errado.
+
+Item II: De fato, a retenção somente ocorre quando da quitação do 13º, no mês de dezembro. Portanto, item
+correto.
+
+Sendo assim, a sequência correta é a seguinte: V, F, V.
+Gabarito: Letra A
+
+10.QUESTÃO INÉDITA
+A participação dos trabalhadores nos lucros ou resultados das empresas é tributada pelo regime anual do
+IRPF.
+
+Comentário: A participação dos trabalhadores nos lucros ou resultados das empresas constitui rendimento
+tributado exclusivamente na fonte. Portanto, a questão está errada.
+
+Gabarito: Errada
+
+11.ESAF/TTN/1998
+Assinale a opção correta:
+a) Os ganhos de capital auferidos na alienação de bens ou direitos integram a
+base de cálculo da declaração de rendimentos, admitida, contudo, a exclusão de seu custo.
+b) Os ganhos de capital auferidos na alienação de bens ou direitos não integram a base de cálculo da
+declaração de rendimentos.
+c) Os gastos com alimentação fornecida pelo empregador integram os rendimentos do empregado
+assalariado.
+d) Os rendimentos relativos à gratificação natalina (13º salário), em qualquer montante, não são tributáveis.
+e) Os rendimentos relativos à gratificação natalina (13º salário) são tributados na declaração de rendimentos
+do exercício subseqüente, destacados dos demais rendimentos.
+
+Comentário:
+
+Alternativa A: Conforme previsto no art. 21, I, da IN RFB 1.500/2014, os ganhos de capital auferidos na
+alienação de bens e direitos são rendimentos sujeitos a o regime de tributação definitiva. Item errado.
+
+Alternativa B: Exatamente. Tais rendimentos não integram a base de cálculo na declaração de rendimentos,
+pois já foram tributados de forma definitiva (não há ajuste, nesse caso). Item correto.
+
+Alternativa C: De acordo com o art. 35, I, a, do RIR, não entrarão no cômputo do rendimento bruto a
+alimentação, o transporte e os uniformes ou vestimentas especiais de trabalho, fornecidos gratuitamente
+pelo empregador a seus empregados, ou a diferença entre o preço cobrado e o valor de mercado. Trata-se,
+pois, de rendimento isento. Item errado.
+
+
+
+Alternativa D: Na realidade, os rendimentos relativos ao 13º salário são tributados exclusivamente na fonte.
+Aplica-se a tabela progressiva mensal, sendo que, a depender do valor do 13º, pode estar isento (caso não
+ultrapasse a primeira faixa de valores da tabela progressiva). Item errado.
+
+Alternativa E: Os rendimentos relativos ao 13º são tributados exclusivamente na fonte, não compondo,
+portanto, a base de cálculo da declaração de rendimentos. Item errado.
+Gabarito: Letra B
+
+12.QUESTÃO INÉDITA
+Para se calcular o imposto devido, por ocasião do ajuste anual, é necessário que se determine precisamente
+a base de cálculo sobre a qual o imposto irá incidir. Nesse sentido, aponte a assertiva que não corresponde
+a uma despesa dedutível da base de cálculo anual do IRPF:
+a) Contribuições para o regime de previdência complementar dos servidores públicos titulares de cargo
+efetivo;
+b) Despesas escrituradas em Livro Caixa;
+c) Valor anual fixo por dependente;
+d) Despesas médicas;
+e) Parcela isenta de aposentadoria, a partir do mês em que o contribuinte completar 65 anos de idade.
+
+Comentário:
+
+Alternativa A: Constitui dedução da base de cálculo anual do IRPF. Item correto.
+
+Alternativa B: Constitui dedução da base de cálculo anual do IRPF. Item correto.
+
+Alternativa C: Constitui dedução da base de cálculo anual do IRPF. Item correto.
+
+Alternativa D: Constitui dedução da base de cálculo anual do IRPF. Item correto.
+
+Alternativa E: Não constitui dedução da base de cálculo anual do IRPF. Na realidade, ela não compõe a soma
+dos rendimentos percebidos no ano-calendário, conforme expressa disposição no art. 8º, § 1º da Lei
+9.250/95. Item errado.
+
+Gabarito: Letra E
+
+13.QUESTÃO INÉDITA
+Após a apuração do valor do imposto, por meio da aplicação da tabela progressiva anual sobre a base de
+cálculo, a legislação permite algumas deduções do imposto calculado, a título de incentivo fiscal. São elas:
+( ) Contribuições feitas aos Fundos controlados pelos Conselhos Municipais, Estaduais e Nacional dos Direito
+da Criança e do Adolescente e pelos Conselhos Municipais, Estaduais e Nacional do Idoso, entre outros,
+estando limitado a 6% do imposto sobre a renda apurado na Declaração de Ajuste Anual.
+( ) A pessoa física, se empregador doméstico, pode deduzir do imposto apurado na Declaração de Ajuste
+Anual, a contribuição do segurado paga à Previdência Social incidente sobre o valor da remuneração do
+empregado.
+( ) A legislação tributária permite que se faça dedução das despesas com instrução, desde que obedecido o
+limite fixado para cada dependente e para o contribuinte.
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) V, V, F
+
+Comentário:
+
+Item I: Exatamente. Há previsão legal para tal dedução de imposto e o limite mencionado na assertiva está
+certo. Item correto.
+
+Item II: O que era possível deduzir é a contribuição patronal, e não a contribuição do segurado. No exercício
+2020 não será possível deduzir tais despesas. Item errado.
+
+Item III: A assertiva está em desacordo com o comando da questão, que pede dedução do imposto, e não
+dedução da base de cálculo do imposto. Item errado.
+
+Portanto, a sequência é: V, F, F.
+
+Gabarito: Letra D
+
+14.QUESTÃO INÉDITA
+Constituem antecipações do imposto devido no regime de tributação anual, exceto:
+a) Retenções na fonte;
+b) Imposto pago no exterior;
+c) Recolhimentos mensais obrigatórios (carnê-leão);
+d) Imposto tributado exclusivamente na fonte;
+e) Recolhimentos complementares facultativos.
+
+Comentário: O imposto pago pelo regime de tributação exclusiva na fonte não constitui antecipação do
+imposto apurado na DIRPF. Trata-se de regimes distintos. O gabarito da questão, portanto, é a Letra D.
+
+Gabarito: Letra D
+
+15.ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: As deduções
+admitidas no cálculo do Imposto de Renda são, unicamente, as relativas aos dependentes que tenham sido
+declarados.
+
+Comentário: Existem outras despesas dedutíveis, além das relativas aos dependentes. Por exemplo, é
+possível ao contribuinte deduzir suas despesas médicas e com instrução.
+
+Gabarito: Errada
+
+16.ESAF/TTN/1998 – Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Segundo o
+Regulamento do Imposto sobre a Renda, as contribuições e doações feitas às instituições filantrópicas que
+atendam às condições legais são dedutíveis, desde que comprovadas através de recibos ou cheques
+nominativos.
+
+Comentário: As doações não podem ser feitas a qualquer instituição filantrópica. Um exemplo permitido
+pela legislação tributária são as contribuições feitas aos Fundos controlados pelos Conselhos Municipais,
+Estaduais e Nacional dos Direitos da Criança e do Adolescente e pelos Conselhos Municipais, Estaduais e
+Nacional do Idoso. Há que se destacar que não se trata de dedução da base de cálculo do IRPF, mas sim do
+próprio imposto devido e apurado anualmente.
+
+Gabarito: Errada
+
+17.ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Os pagamentos
+em dinheiro a título de alimentos ou pensões, em cumprimento de acordo ou decisão judicial são dedutíveis.
+
+Comentário: São dedutíveis as importâncias pagas em dinheiro a título de prestação de alimentos
+provisionais ou a título de pensão alimentícia. Trata-se de despesa dedutível na base de cálculo anual.
+
+Gabarito: Correta
+
+18.ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Os gastos feitos
+em benefício do contribuinte ou de dependentes, ainda que não sejam de exclusiva responsabilidade de
+instituições de ensino, como cursos de natação, esportes, línguas, etc. são dedutíveis, desde que respeitados
+os limites.
+
+Comentário: Somente são dedutíveis a título de despesas com instrução os gastos com educação infantil
+(inclusive creches e pré-escolas), ensino fundamental, ensino médio, educação superior (incluindo pós-
+graduações) e educação profissional (ensino técnico).
+
+Gabarito: Errada
+
+19.ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: As despesas com
+instrução de menor pobre que o contribuinte apenas eduque são dedutíveis.
+
+Comentário: É necessário que o contribuinte detenha a guarda judicial do menor pobre.
+
+Gabarito: Errada
+
+
+
+
+20.ESAF/TTN/1998
+Na declaração das pessoas físicas, o menor de 21 anos, pobre, que o contribuinte crie e eduque, pode ser
+considerado como dependente, desde que o contribuinte detenha a guarda judicial do menor.
+Comentário: É necessário que o contribuinte detenha a guarda judicial do menor pobre.
+
+Gabarito: Correta
+
+21.ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução de despesas médicas não compreende os gastos com hospitais,
+mas inclui os gastos com dentistas.
+
+Comentário: Os gastos com hospitais estão incluídos no rol de despesas médicas.
+
+Gabarito: Errada
+
+22.ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução relativa a dependentes está limitada a cinco pessoas,
+considerados o cônjuge, os filhos e menores que o contribuinte crie.
+
+Comentário: Foi dito durante a aula que não há limitação quanto ao número de dependentes que o
+contribuinte possua.
+
+Gabarito: Errada
+
+23.ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução com despesas de instrução não poderá exceder a 10% dos
+rendimentos brutos.
+
+Comentário: O valor das despesas com instrução possui limite legalmente fixado, e não corresponde a 10%
+dos rendimentos brutos.
+
+Gabarito: Errada
+
+24.QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: O prazo para entrega da DIRPF é o último dia útil do mês de abril do ano-calendário
+subsequente ao da percepção dos rendimentos.
+
+Comentário: A declaração de ajuste anual (DIRPF) deve ser entregue anualmente, até o último dia útil do
+mês de abril do ano subsequente ao da percepção dos rendimentos (art. 7º da Lei 9.250/95).
+
+Gabarito: Correta
+
+
+
+
+25.QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: A data de vencimento para pagamento do saldo de imposto apurado na
+declaração de ajuste anual é o último dia útil do mês de abril do ano subsequente ao ano-calendário a que
+se refere.
+
+Comentário: O pagamento do imposto porventura apurado nessa declaração deve ser realizado até a mesma
+data de entrega da declaração (art. 13, parágrafo único, da Lei 9.250/95). Como sabemos, na declaração de
+ajuste, o contribuinte verifica se as antecipações ocorridas durante o ano foram suficientes para quitar todo
+imposto devido. Então, esse pagamento a que nos referimos somente ocorrerá se houver saldo a pagar na
+apuração do imposto anual. Item correto.
+
+Gabarito: Correta
+
+26.QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: Estão sujeitos à retenção na fonte os rendimentos recebidos de pessoa física,
+ainda que não decorram do trabalho assalariado.
+
+Comentário: Estão sujeitos à retenção na fonte os rendimentos do trabalho assalariado pagos por pessoa
+física ou jurídica, e também os demais rendimentos pagos por pessoa jurídica a pessoa física. Evidentemente,
+os rendimentos tributados pelo regime de tributação definitiva e exclusiva na fonte não estão entre eles.
+Portanto, quando a fonte pagadora for pessoa física, o rendimento deve se referir ao trabalho assalariado.
+
+Gabarito: Errada
+
+27.ESAF/TRF/2000
+Na declaração de rendimentos não poderão ser deduzidas as contribuições para o Fundo de Aposentadoria
+Programada Individual – FAPI, cujo ônus seja da pessoa física.
+
+Comentário: Cabe sim essa dedução, estando limitada a 12% do total dos rendimentos computados na base
+de cálculo do IRPF anual. Além disso, destaque-se que somente será dedutível se também houver
+contribuição ao RGPS ou RPPS.
+
+Gabarito: Errada
+
+28.ESAF/TRF/2000
+Independentemente do montante dos rendimentos tributáveis na declaração, recebidos no ano-calendário,
+o contribuinte poderá optar por desconto simplificado na Declaração de Ajuste Anual, dispensada a
+comprovação da despesa e a indicação de sua espécie.
+
+Comentário: De acordo com o art. 15, da Lei 9.250/95, é permitido que o contribuinte opte pelo desconto
+simplificando (20% sobre o total dos rendimentos tributáveis), independentemente do montante desses
+rendimentos. Contudo, há um teto legalmente definido para essa dedução simplificado.
+
+Gabarito: Correta
+
+29.ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidas as contribuições para a Previdência Social da União.
+
+Comentário: Deveras, na base de cálculo mensal do imposto de renda retido na fonte, as contribuições para
+a Previdência Social da União poderão ser deduzidas.
+
+Gabarito: Correta
+
+30.ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidas as importâncias pagas em cumprimento de decisão judicial, a título de pensão
+alimentícia, em face das normas do Direito de Família.
+
+Comentário: As importâncias pagas em cumprimento de decisão judicial, a título de pensão alimentícia,
+podem ser deduzidas da base de cálculo mensal do IRPF.
+
+Gabarito: Correta
+
+31.ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidos os pagamentos a título de despesas médicas com o contribuinte e seus dependentes.
+
+Comentário: As despesas médicas somente são dedutíveis da base de cálculo anual, ao efetuar o ajuste. A
+mesmo regra se aplica às despesas com instrução.
+
+Gabarito: Errada
+
+32.ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas
+poderão ser deduzidos os pagamentos efetuados a estabelecimentos de ensino relativamente à educação
+pré-escolar, de 1º, 2º e 3º graus feitos com o contribuinte e seus dependentes.
+
+
+
+Comentário: As despesas com instrução somente podem ser deduzidas da base de cálculo anual do IRPF.
+Portanto, a questão está errada.
+
+Gabarito: Errada
+
+33. QUESTÃO INÉDITA
+Aluguéis pagos por pessoa física a outra pessoa física estão sujeitos ao regime de tributação definitiva.
+
+Comentário: De acordo com a IN RFB 1.500/2014, os rendimentos de aluguéis recebidos de pessoa física
+estão sujeitos ao recolhimento mensal obrigatório, por meio do carnê-leão. Como sabemos, o recolhimento
+por meio de carnê-leão constitui antecipação do imposto apurado anualmente. Ou seja, o contribuinte paga
+mensalmente, e desconta do valor que deveria ser pago na Declaração de Ajuste Anual. Portanto, submete-
+se ao regime de tributação anual, e não definitiva.
+Gabarito: Errada
+
+34.QUESTÃO INÉDITA
+Aluguéis pagos por pessoa jurídica a pessoa física estão sujeitos à retenção exclusiva na fonte.
+
+Comentário: Essa questão possui uma pegadinha! Na realidade, os aluguéis que as pessoas físicas recebem
+de pessoas jurídicas estão sujeitos à retenção na fonte, mas são aqueles submetidos ao regime anual de
+tributação. O erro da assertiva é mencionar o regime de tributação exclusiva na fonte.
+
+Sabemos que estão sujeitos à retenção na fonte, a título de antecipação, os rendimentos do trabalho
+assalariado pagos por pessoa física ou jurídica e os demais rendimentos pagos por pessoa jurídica a pessoa
+física. Dentre esse demais rendimentos, estão os rendimentos de aluguéis, royalties e arrendamento de bens
+ou direitos.
+
+Gabarito: Errada
+
+35.QUESTÃO INÉDITA
+O contribuinte que trabalha com vínculo empregatício para pessoa física deve, mensalmente, recolher, a
+depender do montante dos seus rendimentos, o imposto devido por meio do carnê-leão.
+
+Comentário: Lembre-se de que os rendimentos de trabalho assalariado pagos por pessoa física devem ser
+retidos na fonte, não sendo a antecipação feita pelo próprio contribuinte, por meio do carnê-leão.
+
+Gabarito: Errada
+
+36.QUESTÃO INÉDITA
+No ___________________, é permitido que o contribuinte opte pelo desconto simplificado. Ao realizar tal
+opção, a dedução ________________ se limita a _____ do total dos rendimentos tributáveis,
+independentemente do montante desses rendimentos. O desconto ________ limitado a um teto estipulado
+em lei.
+a) regime de tributação anual / da base de cálculo / 20% / está;
+b) regime de tributação definitiva / do imposto devido / 15% / não está;
+c) regime de tributação anual / do imposto devido / 15% / está;
+d) regime de tributação definitiva / da base de cálculo / 20% / está;
+e) regime de tributação anual / da base de cálculo / 15% / não está.
+
+Comentário: Trata-se de uma questão bastante simples sobre o desconto simplificado. A grosso modo, você
+deve saber que o desconto simplificado é uma forma de substituir as despesas dedutíveis pelo percentual
+de 20% sobre o total dos rendimentos tributáveis, estando este desconto limitado a um valor estipulado em
+lei. Portanto, trata-se de uma forma simplificada de apurar a base de cálculo do imposto de renda, no regime
+de tributação anual. A resposta correta é a Letra A.
+
+Gabarito: Letra A
+
+37.ESAF/AFRFB/2012
+As seguintes hipóteses de rendimentos estão sujeitas ao recolhimento mensal do Imposto sobre a Renda
+devido pelas pessoas físicas, exceto:
+a) os emolumentos e custas dos serventuários da Justiça, como tabeliães, notários, oficiais públicos e outros,
+quando não forem remunerados exclusivamente pelos cofres públicos.
+b) os rendimentos recebidos em dinheiro, a título de alimentos ou pensões, em cumprimento de decisão
+judicial, ou acordo homologado judicialmente, inclusive alimentos provisionais.
+c) os rendimentos recebidos por residentes ou domiciliados no Brasil que prestem serviços a embaixadas,
+repartições consulares, missões diplomáticas ou técnicas ou a organismos internacionais de que o Brasil faça
+parte.
+d) os ganhos de capital auferidos pela pessoa física na alienação de bens ou direitos de qualquer natureza.
+e) os rendimentos de aluguéis recebidos de pessoas físicas.
+
+Comentário: Trata-se de uma questão que cobra as hipóteses de rendimentos sujeitas ao recolhimento
+mensal.
+
+Alternativa A: Estão sujeitos ao recolhimento pelo carnê-leão, com base no art. 53, III, da IN RFB 1.500/2014.
+Item correto.
+
+Alternativa B: Estão sujeitos ao recolhimento pelo carnê-leão, com base no art. 53, IV, da IN RFB 1.500/2014.
+Item correto.
+
+Alternativa C: Estão sujeitos ao recolhimento pelo carnê-leão, com base no art. 53, V, da IN RFB 1.500/2014.
+Item correto.
+
+Alternativa D: Trata-se de ganho de capital, que está sujeito ao regime de tributação definitiva. Item errado.
+
+Alternativa E: Estão sujeitos ao recolhimento pelo carnê-leão, com base no art. 53, I, da IN RFB 1.500/2014.
+Item correto.
+
+Gabarito: Letra D
+
+38.ESAF/TRF/2003
+De acordo com a Lei 10.637/2002, o imposto de renda devido na declaração de rendimentos das pessoas
+físicas deve ser calculado mediante utilização da seguinte tabela:
+       Base de cálculo (R$)                  Alíquota (%)                   Parcela a deduzir
+          Até 12.696,00                            -                                -
+     De 12.696,01 a 25.380,00                     15                            1.904,40
+       Acima de 25.380,00                        27,5                           5.076,90
+
+
+
+Sabe-se que, de acordo com a lei, essa foi a tabela utilizada para cálculo do imposto devido na declaração
+apresentada em 2003, relativa ao ano-calendário de 2002.
+Suponha que em 10 de dezembro de 2003 seja publicada uma lei com a seguinte redação:
+Art. 1º O imposto de renda devido na declaração de rendimentos das pessoas físicas deve ser calculado
+mediante utilização da seguinte tabela:
+       Base de cálculo (R$)                  Alíquota (%)                   Parcela a deduzir
+          Até 10.000,00                            -                                -
+     De 10.000,01 a 20.000,00                     15                            1.500,00
+     De20.000,01 a 30.000,00                      20                            2.500,00
+       Acima de 30.000,00                         30                            5.500,00
+
+
+
+Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+As informações a respeito do contribuinte João da Silva são as seguintes:
+Ano-calendário de 2003
+Rendimentos do trabalho assalariado: R$ 60.000,00
+Contribuição para a Previdência Social da União: R$ 6.600,00
+Despesas de locomoção, escrituradas em Livro Caixa: R$ 2.500,00
+Despesas médicas: R$ 3.400,00
+Despesas com aluguel: R$ 3.720,00
+Isto posto, assinale a seguir a opção que indica corretamente o valor do imposto de renda devido na
+declaração de João da Silva, relativa ao ano-calendário de 2003 (data de entrega, até 30/04/2004):
+a) R$ 9.500,00
+b) R$ 8.750,00
+c) R$ 8.673,10
+d) R$ 6.962,60
+e) R$ 7.634,00
+
+Comentário:
+
+Data de publicação da lei: 10 de dezembro de 2003 (com vigência imediata)
+
+Ano-calendário: 2003 (ocorrência do fato gerador em 31/12/2003)
+
+Exercício: 2004 (entrega da declaração até 30/04/2004)
+
+Observação: Embora considera-se ocorrido o fato gerador do imposto de renda apenas em 31/12, ele
+decorre de vários fatos isolados ocorridos no curso do ano-calendário.
+
+Estando o imposto de renda sujeito ao princípio da anterioridade, a lei que majore tal imposto só produz
+efeitos no exercício seguinte ao que foi publicada. Perceba que ela só produzirá efeitos sobre os fatos
+geradores ocorridos a partir do exercício seguinte. Então, a lei majoradora publicada em 2003 só produzirá
+efeitos em relação ao imposto de 2004, que será objeto de declaração em 2005.
+Analisando a situação sob a ótica da irretroatividade, chegamos à mesma conclusão: se a lei foi publicada no
+final do ano-calendário de 2003, não faz sentido ela incidir sobre os fatos isolados ocorridos durante todo o
+ano de 2003, pois isso ofenderia o princípio da irretroatividade. Sendo assim, a lei só poderia produzir efeitos
+nos fatos ocorridos no próximo ano-calendário.
+
+Nesse sentido, utilizaremos a primeira tabela, que é a que estará vigente no ano-calendário de 2003.
+
+Repare que, como João da Silva é trabalhador assalariado, não poderá deduzir as despesas escrituradas em
+Livro Caixa. Por esse mesmo motivo, não poderá deduzir as despesas de aluguel, pois essas são dedutíveis
+apenas quando necessárias à percepção dos rendimentos, em caso de rendimentos do trabalho não
+assalariado (escrituradas no próprio Livro Caixa).
+
+Sendo assim, as deduções possíveis são as relativas às despesas médicas e previdência oficial.
+
+Calculemos:
+
+Rendimentos: R$ 60.000,00 (Rendimentos do trabalho assalariado)
+
+(-) R$ 6.600,00 (Contribuição para a Previdência Social da União)
+
+(-) R$ 3.400,00 (Despesas médicas)
+
+(=) R$ 50.000,00 (Base de Cálculo)
+
+50.000 x 27,5% = 13.750 – 5.076,90 = 8.673,10 (Letra C)
+
+
+
+“A questão não informa se ele optou ou não pelo desconto simplificado, professor. E aí?”
+
+Façamos o teste! Se tivermos outra resposta, a questão poderia ser anulada, caro candidato.
+
+
+
+60.000 – 12.000 = 48.000 x 27,5% = 13.200 – 5.076,90 = 8.123,10 (Não há resposta)
+
+Gabarito: Letra C
+         LISTA DAS QUESTÕES COMPLEMENTARES
+     1. QUESTÃO INÉDITA
+Apenas os rendimentos tributáveis segundo o regime de tributação anual devem ser informados na DIRPF.
+
+
+2.      QUESTÃO INÉDITA
+Os aluguéis pagos por pessoas físicas estão sujeitos à retenção mensal do imposto na fonte
+
+
+3.      QUESTÃO INÉDITA
+O recolhimento complementar facultativo, embora seja feito em momento anterior ao ajuste anual, utiliza
+como base a tabela progressiva anual.
+
+
+4.      QUESTÃO INÉDITA
+As contribuições destinadas ao seguro de vida com cobertura por sobrevivência podem ser deduzidas do
+IRPF.
+
+
+5.      ESAF/Auditor-Fiscal da Receita Federal/2014
+Considere a situação hipotética narrada:
+“Pablo é brasileiro e vive no exterior há alguns anos, em país que tributa a renda da pessoa física em
+percentual muito superior à tributação brasileira. Pablo mantém fortes laços como Brasil, para onde envia,
+mensalmente, os produtos artesanais por ele desenvolvidos, recebendo justa contraprestação da Jeremias
+Artesanato Mundial Ltda., revendedora exclusiva de sua produção, com sede no município de Salvador. Além
+disso, Pablo possui imóvel na cidade de Manaus, em razão do qual recebe aluguéis mensais, e presta serviços
+de consultoria para Matias Turismo Pantanal Ltda., empresa sediada no município de Campo Grande. Ano
+passado, os pais de Pablo faleceram, deixando joias e imóveis no Rio de Janeiro, tudo vendido pela sua irmã,
+Paola, que, em acordo como irmão, enviou-lhe a metade da herança que lhe cabia."
+De acordo com a legislação tributária em vigor, assinale a opção correta.
+a) Desde que Pablo tenha quitado os tributos devidos até a data de sua saída definitiva do Brasil, deve
+receber todos os rendimentos acima descritos livres de Imposto de Renda, já que não é domiciliado nem
+residente no Brasil.
+b) Independentemente de ser ou não domiciliado ou residente no Brasil, Pablo está obrigado ao Imposto de
+Renda no Brasil tanto quanto e tal como aqueles cidadãos que aqui residem, por ser brasileiro e porque está
+auferindo riqueza produzida no Brasil.
+c) Os valores enviados por Jeremias Artesanato Mundial Ltda., em razão da venda do artesanato, assim como
+os valores dos aluguéis e aqueles decorrentes da prestação de serviços à Matias Turismo Pantanal S.A., que
+forem remetidos a Pablo no exterior, devem sofrer incidência do Imposto de Renda na fonte, ficando a
+remessa do quinhão da herança pertencente a Pablo dispensada do recolhimento desse tributo.
+d) Os rendimentos acima descritos que tiverem sido recebidos por Pablo após requerimento e saída
+definitiva e regular do País ficam todos sujeitos à tributação exclusiva na fonte a título de Imposto de Renda
+Pessoa Física.
+e) Deve ser retido pelas fontes o valor correspondente ao Imposto de Renda incidente sobre a herança e
+sobre os aluguéis, ficando os valores enviados por Jeremias Artesanato Mundial Ltda., em razão da venda do
+artesanato, e os enviados em razão dos serviços prestados à Matias Turismo Pantanal S.A., livres de Imposto
+de Renda no Brasil por não consubstanciarem rendimento de trabalho realizado neste País.
+
+
+6.      QUESTÃO INÉDITA
+São regimes de tributação do Imposto de Renda Pessoa Física (IRPF):
+( ) Regime de Tributação Anual
+( ) Regime de Tributação Definitiva
+( ) Regime de Tributação Exclusiva na Fonte
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) F, V, V
+
+
+7.      QUESTÃO INÉDITA
+Estão sujeitos ao regime de tributação anual:
+a) Rendimentos isentos;
+b) Rendimentos não tributáveis;
+c) Rendimentos tributáveis exclusivamente na fonte;
+d) Rendimentos sujeitos à tributação definitiva;
+e) Todos os demais rendimentos.
+
+
+8.      QUESTÃO INÉDITA
+Estão sujeitos ao regime de tributação definitiva os seguintes rendimentos, exceto:
+a) juros pagos ou creditados individualmente a titular, sócio ou acionista, a título de remuneração do capital
+próprio;
+b) ganhos de capital auferidos na alienação de bens e direitos;
+c) ganhos de capital decorrentes da alienação de moeda estrangeira mantida em espécie;
+d) ganhos líquidos auferidos na alienação de ouro, ativo financeiro;
+e) ganhos líquidos auferidos em operações realizadas nos mercados de liquidação futura, fora de bolsa.
+9.      QUESTÃO INÉDITA
+A respeito do regime de tributação exclusiva na fonte, julgue os itens abaixo e, ao final, aponte a alternativa
+correta:
+( ) A tributação da gratificação natalina ocorre exclusivamente na fonte e separadamente dos demais
+rendimentos recebidos no mês pelo beneficiário.
+( ) Os prêmios obtidos em loterias ou concursos e sorteios em geral, desde que pagos em dinheiro, estão
+sujeitos à tributação exclusiva na fonte.
+( ) Não há retenção na fonte pelo pagamento de antecipação do 13º salário.
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) F, V, V
+
+
+10.     QUESTÃO INÉDITA
+A participação dos trabalhadores nos lucros ou resultados das empresas é tributada pelo regime anual do
+IRPF.
+
+
+11.     ESAF/TTN/1998
+Assinale a opção correta:
+a) Os ganhos de capital auferidos na alienação de bens ou direitos integram a
+base de cálculo da declaração de rendimentos, admitida, contudo, a exclusão de seu custo.
+b) Os ganhos de capital auferidos na alienação de bens ou direitos não integram a base de cálculo da
+declaração de rendimentos.
+c) Os gastos com alimentação fornecida pelo empregador integram os rendimentos do empregado
+assalariado.
+d) Os rendimentos relativos à gratificação natalina (13º salário), em qualquer montante, não são tributáveis.
+e) Os rendimentos relativos à gratificação natalina (13º salário) são tributados na declaração de rendimentos
+do exercício subseqüente, destacados dos demais rendimentos.
+
+
+12.     QUESTÃO INÉDITA
+Para se calcular o imposto devido, por ocasião do ajuste anual, é necessário que se determine precisamente
+a base de cálculo sobre a qual o imposto irá incidir. Nesse sentido, aponte a assertiva que não corresponde
+a uma despesa dedutível da base de cálculo anual do IRPF:
+a) Contribuições para o regime de previdência complementar dos servidores públicos titulares de cargo
+efetivo;
+b) Despesas escrituradas em Livro Caixa;
+c) Valor anual fixo por dependente;
+d) Despesas médicas;
+e) Parcela isenta de aposentadoria, a partir do mês em que o contribuinte completar 65 anos de idade.
+
+
+13.     QUESTÃO INÉDITA
+Após a apuração do valor do imposto, por meio da aplicação da tabela progressiva anual sobre a base de
+cálculo, a legislação permite algumas deduções do imposto calculado, a título de incentivo fiscal. São elas:
+( ) Contribuições feitas aos Fundos controlados pelos Conselhos Municipais, Estaduais e Nacional dos Direito
+da Criança e do Adolescente e pelos Conselhos Municipais, Estaduais e Nacional do Idoso, entre outros,
+estando limitado a 6% do imposto sobre a renda apurado na Declaração de Ajuste Anual.
+( ) A pessoa física, se empregador doméstico, pode deduzir do imposto apurado na Declaração de Ajuste
+Anual, a contribuição do segurado paga à Previdência Social incidente sobre o valor da remuneração do
+empregado.
+( ) A legislação tributária permite que se faça dedução das despesas com instrução, desde que obedecido o
+limite fixado para cada dependente e para o contribuinte.
+a) V, F, V
+b) V, V, V
+c) F, F, V
+d) V, F, F
+e) V, V, F
+
+
+14.     QUESTÃO INÉDITA
+Constituem antecipações do imposto devido no regime de tributação anual, exceto:
+a) Retenções na fonte;
+b) Imposto pago no exterior;
+c) Recolhimentos mensais obrigatórios (carnê-leão);
+d) Imposto tributado exclusivamente na fonte;
+e) Recolhimentos complementares facultativos.
+
+
+15.     ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: As deduções
+admitidas no cálculo do Imposto de Renda são, unicamente, as relativas aos dependentes que tenham sido
+declarados.
+16.    ESAF/TTN/1998 – Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Segundo o
+Regulamento do Imposto sobre a Renda, as contribuições e doações feitas às instituições filantrópicas que
+atendam às condições legais são dedutíveis, desde que comprovadas através de recibos ou cheques
+nominativos.
+
+
+17.    ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Os pagamentos
+em dinheiro a título de alimentos ou pensões, em cumprimento de acordo ou decisão judicial são dedutíveis.
+
+
+18.    ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: Os gastos feitos
+em benefício do contribuinte ou de dependentes, ainda que não sejam de exclusiva responsabilidade de
+instituições de ensino, como cursos de natação, esportes, línguas, etc. são dedutíveis, desde que respeitados
+os limites.
+
+
+19.    ESAF/TTN/1998 - Adaptada
+Considerando a apuração do IRPF na declaração anual de ajuste, julgue a assertiva a seguir: As despesas com
+instrução de menor pobre que o contribuinte apenas eduque são dedutíveis.
+
+
+
+20.    ESAF/TTN/1998
+Na declaração das pessoas físicas, o menor de 21 anos, pobre, que o contribuinte crie e eduque, pode ser
+considerado como dependente, desde que o contribuinte detenha a guarda judicial do menor.
+
+
+21.    ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução de despesas médicas não compreende os gastos com hospitais,
+mas inclui os gastos com dentistas.
+
+
+22.    ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução relativa a dependentes está limitada a cinco pessoas,
+considerados o cônjuge, os filhos e menores que o contribuinte crie.
+
+
+23.    ESAF/TTN/1998
+Na declaração das pessoas físicas, a dedução com despesas de instrução não poderá exceder a 10% dos
+rendimentos brutos.
+24.    QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: O prazo para entrega da DIRPF é o último dia útil do mês de abril do ano-calendário
+subsequente ao da percepção dos rendimentos.
+
+
+
+25.    QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: A data de vencimento para pagamento do saldo de imposto apurado na
+declaração de ajuste anual é o último dia útil do mês de abril do ano subsequente ao ano-calendário a que
+se refere.
+
+
+26.    QUESTÃO INÉDITA
+No que se refere às obrigações pertinentes ao regime de tributação anual do Imposto de Renda Pessoa Física,
+julgue a assertiva a seguir: Estão sujeitos à retenção na fonte os rendimentos recebidos de pessoa física,
+ainda que não decorram do trabalho assalariado.
+
+
+
+
+27.    ESAF/TRF/2000
+Na declaração de rendimentos não poderão ser deduzidas as contribuições para o Fundo de Aposentadoria
+Programada Individual – FAPI, cujo ônus seja da pessoa física.
+
+
+28.    ESAF/TRF/2000
+Independentemente do montante dos rendimentos tributáveis na declaração, recebidos no ano-calendário,
+o contribuinte poderá optar por desconto simplificado na Declaração de Ajuste Anual, dispensada a
+comprovação da despesa e a indicação de sua espécie.
+
+
+29.    ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidas as contribuições para a Previdência Social da União.
+
+
+30.    ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidas as importâncias pagas em cumprimento de decisão judicial, a título de pensão
+alimentícia, em face das normas do Direito de Família.
+31.    ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas,
+poderão ser deduzidos os pagamentos a título de despesas médicas com o contribuinte e seus dependentes.
+
+
+32.    ESAF/TRF/2003
+Na determinação da base de cálculo sujeita à incidência mensal do imposto de renda das pessoas físicas
+poderão ser deduzidos os pagamentos efetuados a estabelecimentos de ensino relativamente à educação
+pré-escolar, de 1º, 2º e 3º graus feitos com o contribuinte e seus dependentes.
+
+
+
+33.    QUESTÃO INÉDITA
+Aluguéis pagos por pessoa física a outra pessoa física estão sujeitos ao regime de tributação definitiva.
+
+
+
+
+34.    QUESTÃO INÉDITA
+Aluguéis pagos por pessoa jurídica a pessoa física estão sujeitos à retenção exclusiva na fonte.
+
+
+35.    QUESTÃO INÉDITA
+O contribuinte que trabalha com vínculo empregatício para pessoa física deve, mensalmente, recolher, a
+depender do montante dos seus rendimentos, o imposto devido por meio do carnê-leão.
+
+
+36.    QUESTÃO INÉDITA
+No ___________________, é permitido que o contribuinte opte pelo desconto simplificado. Ao realizar tal
+opção, a dedução ________________ se limita a _____ do total dos rendimentos tributáveis,
+independentemente do montante desses rendimentos. O desconto ________ limitado a um teto estipulado
+em lei.
+a) regime de tributação anual / da base de cálculo / 20% / está;
+b) regime de tributação definitiva / do imposto devido / 15% / não está;
+c) regime de tributação anual / do imposto devido / 15% / está;
+d) regime de tributação definitiva / da base de cálculo / 20% / está;
+e) regime de tributação anual / da base de cálculo / 15% / não está.
+
+
+37.    ESAF/AFRFB/2012
+As seguintes hipóteses de rendimentos estão sujeitas ao recolhimento mensal do Imposto sobre a Renda
+devido pelas pessoas físicas, exceto:
+a) os emolumentos e custas dos serventuários da Justiça, como tabeliães, notários, oficiais públicos e outros,
+quando não forem remunerados exclusivamente pelos cofres públicos.
+b) os rendimentos recebidos em dinheiro, a título de alimentos ou pensões, em cumprimento de decisão
+judicial, ou acordo homologado judicialmente, inclusive alimentos provisionais.
+c) os rendimentos recebidos por residentes ou domiciliados no Brasil que prestem serviços a embaixadas,
+repartições consulares, missões diplomáticas ou técnicas ou a organismos internacionais de que o Brasil faça
+parte.
+d) os ganhos de capital auferidos pela pessoa física na alienação de bens ou direitos de qualquer natureza.
+e) os rendimentos de aluguéis recebidos de pessoas físicas.
+
+
+
+
+38.    ESAF/TRF/2003
+De acordo com a Lei 10.637/2002, o imposto de renda devido na declaração de rendimentos das pessoas
+físicas deve ser calculado mediante utilização da seguinte tabela:
+
+
+        Base de cálculo (R$)                 Alíquota (%)                   Parcela a deduzir
+           Até 12.696,00                           -                                -
+      De 12.696,01 a 25.380,00                    15                            1.904,40
+        Acima de 25.380,00                       27,5                           5.076,90
+
+
+
+Sabe-se que, de acordo com a lei, essa foi a tabela utilizada para cálculo do imposto devido na declaração
+apresentada em 2003, relativa ao ano-calendário de 2002.
+Suponha que em 10 de dezembro de 2003 seja publicada uma lei com a seguinte redação:
+Art. 1º O imposto de renda devido na declaração de rendimentos das pessoas físicas deve ser calculado
+mediante utilização da seguinte tabela:
+
+
+        Base de cálculo (R$)                 Alíquota (%)                   Parcela a deduzir
+           Até 10.000,00                           -                                -
+      De 10.000,01 a 20.000,00                    15                            1.500,00
+      De20.000,01 a 30.000,00                     20                            2.500,00
+        Acima de 30.000,00                        30                            5.500,00
+
+
+
+Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+As informações a respeito do contribuinte João da Silva são as seguintes:
+Ano-calendário de 2003
+Rendimentos do trabalho assalariado: R$ 60.000,00
+Contribuição para a Previdência Social da União: R$ 6.600,00
+Despesas de locomoção, escrituradas em Livro Caixa: R$ 2.500,00
+Despesas médicas: R$ 3.400,00
+Despesas com aluguel: R$ 3.720,00
+Isto posto, assinale a seguir a opção que indica corretamente o valor do imposto de renda devido na
+declaração de João da Silva, relativa ao ano-calendário de 2003 (data de entrega, até 30/04/2004):
+a) R$ 9.500,00
+b) R$ 8.750,00
+c) R$ 8.673,10
+d) R$ 6.962,60
+e) R$ 7.634,00
+        GABARITO DAS QUESTÕES COMENTADA
+
+
+
+
+1. E               13. D        26. E
+2. E               14. D        27. E
+3. C               15. E        28. C
+4. E               16. E        29. C
+5. C               17. C        30. C
+6. B               18. E        31. E
+7. E               19. E        32. E
+8. A               20. C        33. E
+9. A               21. E        34. E
+10. E              22. E        35. E
+11. B              23. E        36. A
+12. E              24. C        37. D
+                   25. C        38. C
+

@@ -1,0 +1,935 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 12_002_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '12'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Administração Geral – Gestão
+
+de Processos. Trata-se de um material pensado para lhe ajudar em todo esse processo, visando,
+
+inclusive, uma economia de tempo de confecção de materiais, tempo que é o bem mais
+
+precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                      1
+
+                    **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                    
+
+
+---
+
+     Esse é um material resumido. Em momento algum ele substitui o estudo do material completo.
+     Trata-se de um complemento aos estudos e um facilitador de revisões!
+
+               RESUMO DE ADMINISTRAÇÃO GERAL
+
+  Gestão de Processos
+
+     Processo é um conjunto de atividades inter-relacionadas, sequencialmente e
+
+logicamente estruturadas e encadeadas, por meio das quais as entradas/inputs
+
+(insumos) são transformadas (processamento) em saídas/outputs (produtos / serviços).
+
+
+     Em outras palavras, um processo consiste em “dividir” o trabalho em diversas
+
+“etapas” sequenciais e lógicas (estruturar uma cadeia de valor), com o objetivo de
+
+agregar valor aos insumos (entradas) produzindo produtos e serviços (saídas) que
+
+atendam e satisfaçam às necessidades de clientes internos e externos.
+
+                                                                                                    2
+
+                  **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                  
+
+
+---
+
+Estrutura dos Processos
+
+      Entradas (inputs / insumos): correspondem aos recursos utilizados, insumos,
+
+matérias-primas, etc. Tratam-se dos elementos que serão “transformados”.
+
+
+      Processamento (throughput / transformação): corresponde às diversas
+
+atividades inter-relacionadas que são realizadas com o objetivo de transformar as
+
+“entradas” (insumos) em saídas (resultados). As atividades são realizadas com o objetivo
+
+de agregar valor às “entradas”.
+
+
+Vale destacar que essas atividades são interdependentes. Ou seja, as etapas dependem
+
+umas das outras. Portanto, caso ocorra algum “problema” em uma das etapas, o
+
+resultado final (saídas) será afetado.
+
+
+Saídas (outputs / resultados): correspondem aos produtos e serviços gerados. É o
+
+resultado final do processo.
+
+                                                                                                   3
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                 
+
+
+---
+
+Gestão Funcional (tradicional) x Gestão por Processos
+
+Características Analisadas        Gestão Funcional                         Gestão por Processos
+
+Alocação de pessoas               Agrupadas junto aos seus pares           Times de processos envolvendo
+                                  em áreas funcionais                      diferentes perfis e habilidades
+
+Autonomia operacional             Tarefas executadas sob rígida            Fortalece a individualidade
+                                  supervisão hierárquica                   dando autoridade para tomada
+                                                                           de decisões. A supervisão
+                                                                           hierárquica é flexibilizada.
+
+Avaliação de desempenho           Centrada no desempenho                   Centrada nos resultados do
+                                  funcional do indivíduo                   processo de negócio
+
+Cadeia de comando                 Forte supervisão de níveis               Fundamentada na negociação e
+                                  hierárquicos superpostos
+                                                                           colaboração
+
+Capacitação dos                   Voltada ao ajuste da função              Dirigida às múltiplas
+indivíduos                        que desempenham/                         competências da
+                                  especialização                           multifuncionalidade requerida
+
+Escala de valores da              Metas exclusivas de áreas                Comunicação e transparência no
+                                  geram desconfiança e                     trabalho gerando clima de
+                                  competição entre elas                    colaboração mútua
+organização
+
+Estrutura organizacional          Estrutura hierárquica,                   Fundamentada em equipes de
+
+                                  departamentalização/vertical             processos/horizontal
+
+Medidas de desempenho             Foco no desempenho de                    Visão integrada do processo de
+                                  trabalhos fragmentados das               forma a manter uma linha de
+                                  áreas funcionais                         agregação constante de valor
+
+Natureza do trabalho              Repetitivo e com escopo                  Bastante diversificado, voltado
+                                  bastante restrito/mecanicista            ao conhecimento / evolutivo-
+                                                                           adaptativo
+
+Organização do trabalho           Em procedimentos de áreas                Por meio de processos
+                                  funcionais/mais linear                   multifuncionais / mais
+
+                                                                           sistêmico
+
+                                                                                                         4
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                              
+
+
+---
+
+Relacionamento externo             Pouco direcionado, maior                 Forte incentivo por meio de
+                                   concentração no âmbito                   processos colaborativos de
+                                   interno                                  parcerias
+
+Utilização da tecnologia           Sistemas de informação com               Integração e “orquestração” dos
+                                   foco em áreas funcionais                 sistemas de informação
+
+Guia BPM CBOK
+
+     O Guia BPM CBOK é um “corpo comum de conhecimento” sobre gerenciamento
+
+de processos de negócio. Em outras palavras, é um guia de “boas práticas”, que foi
+
+produzido com o objetivo de auxiliar os profissionais de Gerenciamento de Processos
+
+de Negócio (profissionais de BPM).
+
+
+     O Guia BPM CBOK não é uma metodologia!
+
+
+     O Guia BPM CBOK é um “guia de boas práticas”.
+
+                                                                                                          5
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                               
+
+
+---
+
+Áreas de Conhecimento do Guia BPM CBOK
+
+Guia BPM CBOK Versão 3.0
+
+                                                                                              6
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                            
+
+
+---
+
+Guia BPM CBOK Versão 4.0
+
+                                                                                              7
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                            
+
+
+---
+
+Áreas de Conhecimento BPM CBOK 3.0                   Áreas de Conhecimento BPM CBOK 4.0
+
+                                                                                             8
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                           
+
+
+---
+
+  Gerenciamento de Processos de Negócio                      Gerenciamento de Processos de Negócio
+
+             Modelagem de Processos                                     Modelagem de Processos
+
+               Análise de Processos                                         Análise de Processos
+
+              Desenho de Processos                                         Desenho de Processos
+
+     Gerenciamento de Desempenho de                           Medição do Desempenho de Processos
+               Processos
+
+            Transformação de Processos                       Transformação de Processos de Negócio
+
+     Organização do Gerenciamento de                                  Tecnologia e Transformação
+                Processos
+
+       Gerenciamento Corporativo de                                   Organização e Cultura de
+                Processos                                            Gerenciamento de Processos
+
+     Tecnologias de Gerenciamento de                                Gerenciamento Corporativo de
+             Processos (BPM)                                              Processos (EPM)
+
+Gestor de Processos
+
+
+      De acordo com o Guia BPM CBOK87, o “dono de processos pode ser uma pessoa
+
+ou um grupo de pessoas com a responsabilidade e a prestação de contas pelo
+
+desenho, execução e desempenho de um ou mais processos de negócio. A
+
+propriedade dos processos pode ser uma responsabilidade em tempo integral ou
+
+parcial.”
+
+                                                                                                     9
+
+                   **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                   
+
+
+---
+
+                          Gestor de Processos x Gerente de Processos
+
+      O Guia COM CBPOK destaca que em organizações mais maduras, o Gestor do
+
+Processo (Dono do Processo) tem um subordinado, chamado de Gerente do Processo.
+
+      O Gerente de Processos é responsável por coordenar e gerenciar o desempenho
+
+dos processos no dia a dia, bem como liderar as iniciativas de transformação dos
+
+processos. Ou seja, ao Gerente de Processos compete apoiar a rotina dos processos no
+
+dia a dia.
+
+Processo x Projeto
+
+
+      Os processos são perenes (constantes). Trata-se de um conjunto de atividades
+
+rotineiras. Os processos possuem um ciclo de vida contínuo.
+
+                                                                                                  10
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+     Os projetos, por sua vez, são atividades temporárias, com início, meio e fim
+
+previamente definidos, que têm por objetivo a produção de um serviço ou produto
+
+“unitário/único”, ou seja, um produto “novo/exclusivo”.
+
+Tipos de Processos
+
+Tipos de mudança
+
+                                                                                                  11
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+                                                                                  12
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+Tipos de Processos
+
+                             Macroprocesso (Megaprocesso)
+
+Corresponde à visão “macro”. Consiste em um conjunto de processos que geram alto
+impacto na organização.
+
+O macroprocesso está relacionado à missão organizacional. Normalmente, envolve
+diversas unidades e funções organizacionais. É o “nível hierárquico” mais alto. O
+macroprocesso traz o menor nível de detalhamento.
+
+                                              Processo
+
+É um conjunto de atividades inter-relacionadas (ou conjunto de subprocessos),
+sequencialmente e logicamente estruturadas e encadeadas, por meio das quais as
+
+                                                                                                13
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                              
+
+
+---
+
+entradas/inputs (insumos) são transformadas (processamento) em saídas/outputs
+(produtos / serviços).
+
+                                            Subprocesso
+
+É um “processo menor” que está “dentro” de um processo. O subprocesso é um
+conjunto de atividades “correlacionadas”, referentes a uma parte específica de um
+processo. Corresponde a um nível maior de detalhamento de uma parte específica
+do processo.
+
+                                               Atividade
+
+Corresponde ao conjunto de ações, operações ou tarefas que são realizadas dentro
+de um subprocesso ou dentro de um processo. As atividades indicam “o que” deve ser
+feito para o alcance de algum objetivo específico. A atividade é um conjunto de
+tarefas.
+
+Tarefa (Operação / Procedimento)
+
+É o maior nível de detalhamento. É uma parte específica da atividade. A tarefa indica
+de forma mais detalhada como a atividade deve ser executada. Corresponde a uma
+sequência de etapas que devem ser executadas para a realização da tarefa. As tarefas
+
+                                                                                                 14
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                               
+
+
+---
+
+indicam “como” deve ser feito. É um conjunto de trabalhos a serem executados. É o
+“nível hierárquico” mais baixo. A tarefa traz o maior nível de detalhamento.
+
+      Alguns autores não consideram o “subprocesso” como parte dos níveis de
+
+detalhamento. Portanto, na sua prova poderá aparecer apenas 04 níveis: Macroprocesso
+
+> Processo > Atividade > Tarefa.
+
+
+      É por esse motivo que o processo pode ser considerado tanto um conjunto de
+
+subprocessos, quanto um conjunto de atividades inter-relacionadas (situação em que
+
+não foi levada em consideração a existência do “subprocesso”).
+
+Níveis de Maturidade dos Processos
+
+                                                                                                   15
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                 
+
+
+---
+
+                                                                                  16
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+                                                                                  17
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+   Nível de
+
+ Maturidade        BPM CBOK                 BPM CBOK 3.0                 BPM CBOK                    SDPS
+dos Processos         2.0                                                   4.0
+
+   Nível 1              Inicial                   Inicial                    Inicial               Processos
+                                                                                                   Modelados
+
+   Nível 2         Gerenciado                 Gerenciado                   Repetível               Processos
+                                                                                                   Simulados
+
+   Nível 3         Padronizado                  Definido                   Definido                Processos
+                                                                                                   Emulados
+
+   Nível 4           Previsível             Gerenciado                   Gerenciado                Processos
+                                         Quantitativamente                                         Encenados
+
+   Nível 5          Otimizado              Em Otimização                  Otimizado                 Processos
+                                                                                                  Interoperados
+
+   Nível 6                 -                          -                   Integrado                     -
+
+
+Ciclo de Vida de Gerenciamento de Processos (Guia BPM CBOK
+Versões 2.0 e 3.0)
+
+                                                                                                               18
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+Ciclo de Vida de Gerenciamento de Processos (Guia BPM CBOK
+Versão 4.0)
+
+                                                                                             19
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                           
+
+
+---
+
+Ciclo de Vida de Gerenciamento de Processos (SDPS)
+
+                                                                                             20
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                           
+
+
+---
+
+Ciclo de Vida de Gerenciamento de Processos (Guia BPM CBOK
+x SDPS)
+
+Ciclo de Vida de Gerenciamento de Processos
+
+                                                                                              21
+
+            **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                            
+
+
+---
+
+                                                                                  22
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+                                                                                  23
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+Ciclo de Vida dos Processos Guia BPM CBOK (versão 4.0)
+
+                                                                                               24
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                             
+
+
+---
+
+Mapeamento e Modelagem de Processos
+
+
+     O mapeamento de processos tem por objetivo descrever o “fluxo” atual do
+
+processo, com o objetivo de auxiliar na “visualização” de todo o processo. Ou seja,
+
+busca-se entender o “passo a passo” do processo atual.
+
+
+     A modelagem de processo, por sua vez, tem por objetivo compreender a
+
+situação atual (“as-is”) que foi identificada pelo mapeamento, e “desenhar” a situação
+
+futura desejada (“to-be”). Ou seja, busca-se entender o processo atual, e desenhar
+
+novas situações, com o objetivo de otimizar (aprimorar, melhorar) o processo.
+
+
+     O profissional responsável pelo mapeamento dos processos deve ser capaz de
+
+entender e compreender os seguintes elementos: Fornecedor, Entrada, Processo,
+
+Saída e Cliente (FEPSC).
+
+                                                                                                  25
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+Técnicas de Mapeamento e Modelagem de Processos
+
+                                                                                            26
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                          
+
+
+---
+
+                                                                                  27
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+Fluxograma
+
+BPMN
+
+                                                                                               28
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                             
+
+
+---
+
+Melhoria de Processos
+
+
+      De acordo com o Guia BPM CBOK88, a “melhoria de processos de negócio (BPI –
+
+Business Process Improvement) é uma iniciativa específica ou um projeto para
+
+melhorar o alinhamento e o desempenho de processos com a estratégia
+
+organizacional e as expectativas do cliente”.
+
+
+      A melhoria dos processos se dá de forma contínua. Busca-se realizar “ajustes”
+
+específicos (melhorias específicas) nos processos com o objetivo de aprimorar o
+
+desempenho dos processos e o alinhamento dos processos com a estratégia
+
+organizacional e com as expectativas dos clientes.
+
+                                                                                                  29
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+     Em outras palavras, de acordo com o Guia BPM CBOK89, “a melhoria contínua é
+
+uma evolução incremental de um processo utilizando uma abordagem disciplinada
+
+para assegurar que o processo continue atingindo seus objetivos”.
+
+
+     Portanto, a melhoria contínua dos processos se dá de forma incremental. Ou seja,
+
+de forma gradual, buscando apenas acrescentar, agregar ou somar melhorias.
+
+Técnicas de Melhoria de Processo
+
+                                                                                                  30
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+Lean Management
+
+                                                                                            31
+
+          **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                          
+
+
+---
+
+                                                                                  32
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---
+
+Ciclo PDCA
+
+  ● Plan (Planejar): Consiste em estabelecer os objetivos e os planos para alcançá-
+
+    los.
+
+  ● Do (Executar): Trata-se de executar aquilo que foi planejado. Essa etapa também
+
+    envolve o treinamento dos funcionários e a coleta de dados do que está sendo
+
+    executado.
+
+                                                                                                 33
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                               
+
+
+---
+
+● Check (Verificar): Consiste em verificar (checar) os resultados daquilo que foi
+
+  executado.
+
+● Act (Agir corretivamente): Trata-se de atuar corretivamente. Ou seja, se os
+
+  resultados forem negativos, deve-se realizar ações corretivas. Ou seja, busca-se
+
+  encontrar as falhas do processo e corrigi-lás, com o objetivo de evitar que os
+
+  problemas ocorram novamente. Após essa etapa, o ciclo recomeça.
+
+                                                                                               34
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                             
+
+
+---
+
+Passos/Etapas                Visão 1                Visão 2 (Scartezini             Visão 3 (Scartezini
+                                                       Simplificado)                  Destrinchado)
+
+      1               Identificação do               Mapeamento dos                Mapeamento do
+                         Problema                       processos                  processo
+
+     2                   Observação                 Monitoramento dos Elaboração do
+                                                    processos e de seus fluxograma
+
+                                                           resultados
+
+     3               Análise de causas                Identificação e              Monitoramento do
+                                                      priorização de               Processo
+                                                     problemas e suas
+                                                          causas
+
+     4                  Plano de Ação                 Ações corretivas,            Identificação dos
+                                                      preventivas e de             problemas
+                                                         melhoria
+
+     5              Execução do Plano                   Sistema de                 Priorização dos
+                         de Ação                      documentação e               problemas
+
+                                                       procedimentos
+                                                        operacionais
+
+     6                   Verificação e                            -                Identificação das
+                           Controle                                                causas dos
+                                                                                   problemas
+
+     7                 Padronização /                             -                Priorização das
+                       Normatização                                                causas dos
+                                                                                   problemas
+
+                                                                                                       35
+
+           **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                           
+
+
+---
+
+          8                Encerramento /                             -                Identificação de
+                             Conclusão                                                 soluções
+                                                                                       alternativas
+
+          9                           -                               -                Normatização do
+                                                                                       processo
+
+Redesenho e Processos
+
+
+     O Redesenho tem por base uma perspectiva holística dos processos. Ou seja, o
+
+Redesenho busca entender e modificar o processo de forma integral (e não apenas
+
+através da implementação de mudanças incrementais, como ocorre na Melhoria de
+
+Processos).
+
+                                                                                                          36
+
+               **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                               
+
+
+---
+
+     De acordo com o Guia BPM CBOK90, o “redesenho de processos é o repensar
+
+ponta a ponta sobre o que o processo está realizando atualmente”.
+
+
+     Embora o redesenho de processos envolva mudanças mais significativas e
+
+abrangentes, as mudanças implementadas continuam a ser baseadas nos conceitos
+
+fundamentais do processo existente. É exatamente isso que diferencia o “redesenho”
+
+da “reengenharia” (que estudaremos a seguir).
+
+Reengenharia
+
+
+     A Reengenharia é uma técnica que foi criada com o objetivo de que as
+
+organizações fossem capazes de se adaptar e se ajustar a grandes e intensas
+
+mudanças ambientais.
+
+
+     A Reengenharia consiste em realizar uma nova e diferente “engenharia” da
+
+estrutura organizacional. Ou seja, trata-se de uma reconstrução total dos processos
+
+fundamentais da organização. A reengenharia descarta todos os processos existentes
+
+e vai em busca de outros totalmente novos. A reengenharia “parte do zero”.
+
+                                                                                                  37
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+     De acordo com o Guia BPM CBOK91, a “reengenharia de processos (BRP –
+
+Business Process Reengineering) é um repensar fundamental e um redesenho radical
+
+de processos para obter melhorias dramáticas no negócio”.
+
+
+     A Reengenharia é uma mudança organizacional drástica, radical e com foco nos
+
+processos e na agregação de valor para o cliente (ou seja, o foco não está nas tarefas
+
+ou funções).
+
+Mudança de Paradigma
+
+     A mudança de paradigma é uma abordagem que defende a ideia de que as
+
+organizações devem ser capazes de se reinventarem (e melhorarem) continuamente
+
+e permanentemente (e não apenas quando surgem crises).
+
+
+     Assim, em vez de competir, a organização deve buscar “não competir”. Ou seja,
+
+em vez de otimizar seus processos para competir melhor, a mudança de paradigma em
+
+processos busca posicionar a organização como a “única opção”, sem concorrentes, com
+
+um “monopólio temporário”.
+
+                                                                                                  38
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                
+
+
+---
+
+        De acordo com o Guia BPM CBOK92, “mudança de paradigma, em vez de
+
+competição por fricção, requer um compromisso e estabelecimento de um ambiente
+
+organizacional que encoraje interações criativas entre pessoas e mobilização de
+
+conhecimento tático. Requer capacitação, perseverança, dedicação à causa, bem como
+
+conhecimento do negócio, com foco no cliente, pensamento centrado em processos,
+
+tecnologia, gerenciamento de mudança, gerenciamento de projetos, suporte gerencial,
+
+patrocínio e financiamento”.
+
+Processos e a Certificação ISO 9000
+
+        A ISO 9000 é um conjunto de normas técnicas internacionais, que definem
+
+modelo de gestão da qualidade para as organizações.
+
+
+        A obtenção do certificado ISO 9000 não garante a qualidade dos produtos!
+
+Quando a organização obtém a certificação ISO 9000, significa dizer apenas que a
+
+organização está adotando a padronização e os princípios previstos pela norma ISO
+
+9000.
+
+                                                                                                   39
+
+                 **Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                                 
+
+
+---
+
+                                                                                  40
+
+**Este material contempla assuntos dispostos no livro digital (pdf) da aula 12.
+
+                
+
+
+---

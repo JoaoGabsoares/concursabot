@@ -1,0 +1,368 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ADMINISTRAÇÃO DE RECURSOS
+---
+
+# ADMINISTRAÇÃO DE RECURSOS
+
+---
+
+---
+
+ADMINISTRAÇÃO DE RECURSOS
+
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Administração de Recursos
+       Alocação correta como meta principal do gestor
+
+       ❑ A gestão de recursos dentro de uma organização é uma das mais importantes, senão
+         a principal, função dos gestores.
+       ❑ Conseguir alocar os recursos corretos, nos locais corretos e na hora correta é a meta
+         principal de quem tem responsabilidade pela gestão de processos, sejam eles na
+         área industrial ou de serviços e na iniciativa pública ou privada.
+       ❑ Não estamos falando apenas dos recursos materiais e patrimoniais, que iremos
+         estudar ao longo desse curso. Mas qualquer tipo de recurso.
+       ❑ Alocar o funcionário correto, que tem determinadas competências e interesses, em
+         um trabalho no qual ele desempenhará no máximo de sua capacidade e estará
+         motivado, por exemplo, é um desafio à gestão de recursos humanos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Administração de Recursos
+       Maximizar receitas e diminuir custos
+
+
+       ❑ Nessa direção teríamos dezenas de exemplos a respeito da alocação correta de
+         recursos dentro de uma instituição. Resumindo a história, podemos dizer que,
+         conseguindo otimizar essa alocação, o gestor atingirá os dois maiores objetivos de
+         qualquer empresa que visa o lucro: maximizar suas receitas e diminuir os seus custos.
+       ❑ Aí você pode perguntar: Ah, mas então essa abordagem não se aplica ao mundo
+         público? Não é verdade. Não é porque órgãos públicos da administração direta e
+         indireta não tenham o lucro como principal objetivo que, por exemplo, possam se
+         dar ao luxo de desperdiçar recursos ou eventuais oportunidades de mercado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Administração de Recursos
+       Busca da eficiência e maximização do uso!
+
+       ❑ É importante que o gestor público tenha a ciência e atue também na direção de
+         poupar os recursos públicos, evitando desperdícios e maximizando as oportunidades
+         de prestação de serviços à população, seja por meio de processos mais ágeis, mais
+         baratos, com altos níveis de qualidade e que não empreguem recursos acima do
+         necessário, além de maximizar os seus aproveitamentos.
+       ❑ Tudo isso tem um nome: eficiência.
+       ❑ E é basicamente isso que tanto a administração de materiais como a administração
+         de patrimônio buscam o tempo todo, ou seja, maximizar o uso dos recursos
+         necessários em atividades meio da organização, permitindo que todo o processo seja
+         cada vez mais eficiente e gere lucros e satisfação aos seus clientes com o menor custo
+         possível, sejam esses clientes consumidores, cidadãos, contribuintes, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Fatores de Produção
+       Recursos que geram riqueza
+
+
+       ❑ O universo dos recursos administráveis é bastante amplo.
+       ❑ Chamamos de recurso tudo aquilo que gera ou tem capacidade de gerar riqueza, no
+         sentido econômico do termo.
+       ❑ São também conhecidos por fatores de produção.
+       ❑ Nesse curso abordaremos os recursos materiais e patrimoniais, mas veja a seguir que
+         há uma gama de recursos com a qual o administrador deve estar apto a lidar.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Fatores de Produção
+       Principais Recursos
+
+                                                                 RECURSOS
+
+                         Humanos            Financeiros         Tecnológicos            Materiais   Patrimoniais
+
+        ❑ Essa é a primeira coisa que você precisa saber e levar para a prova!
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Fatores de Produção
+       Principais Recursos
+       ❑ Os recursos humanos são as pessoas, suas competências, habilidades e atitudes. É o capital
+         intelectual e humano da organização. Alocar pessoas nos lugares em que possam gerar os
+         melhores resultados para a organização e para o próprio indivíduo é tarefa das mais complexas,
+         seja no mundo público ou privado.
+
+       ❑ Os recursos financeiros dizem respeito ao capital, a disponibilidade financeira da organização. É o
+         recurso mais facilmente reconhecido, por sua característica de liquidez. Pode e deve ser utilizado
+         na aquisição de outros recursos que de forma direta ou indireta colaborem na cadeia produtiva
+         da organização.
+
+       ❑ Os recursos tecnológicos são compostos pelo corpo de conhecimentos com o qual a organização
+         conta para a produção de seus produtos ou serviços (patentes, tecnologias, máquinas,
+         equipamentos, etc.). Atualmente, instituições que se encontram defasadas em relação aos seus
+         recursos tecnológicos perdem sua competitividade de maneira muito rápida e significativa.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Fatores de Produção
+       Recursos Materiais x Patrimoniais
+       ❑ Por fim, temos os recursos materiais e patrimoniais, que dizem respeito a disciplina de
+         Administração de Materiais e Patrimônio.
+
+                  Os recursos materiais podem ser definidos como os elementos físicos que servem
+                  para a construção do produto final e funcionamento da organização, sempre
+                  caracterizados por não serem permanentes.
+
+       ❑ Esses recursos são transformados ou consumidos, tornando-se produtos acabados ao final da
+         cadeia de produção. Isso diferencia claramente o que é material do que é patrimônio.
+
+                  Já os recursos patrimoniais são definidos como o conjunto de bens, valores, direitos e
+                  obrigações que possuam valor monetário quantificável e possam ser utilizados para
+                  gerar riqueza. Nesse contexto, o foco da atividade de administração patrimonial
+                  recai sobre os bens patrimoniais de caráter permanente (ao contrário dos materiais)
+                  que incluem instalações, veículos, móveis, equipamentos, etc.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Bens e Patrimônio
+       Diferenças mais cobradas
+
+       ❑ Saindo um pouco da questão dos recursos, mas ainda dentro desse cenário temos os
+         bens e o patrimônio, outra forma de endereçar esse mesmo tema.
+       ❑ Bens também têm a capacidade de produzir produtos ou serviços e, por isso, são
+         muitas vezes considerados como sinônimos de recursos. Como exemplo observe um
+         automóvel. É tipicamente um bem móvel porém, como pode ser usado na prestação
+         de serviços, acaba sendo visto também como recurso.
+       ❑ Já o patrimônio, segundo Martins e Alt é o:
+
+                “Conjunto de bens, valores, direitos e obrigações de uma pessoa física ou
+                jurídica que possa ser avaliado monetariamente e que seja utilizado na
+                realização de seus objetivos sociais".
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+     diferencia um recurso material de um recurso patrimonial?
+     a) O recurso patrimonial é de natureza permanente.
+     b) O recurso material é de natureza permanente.
+     c) O recurso patrimonial é um material de consumo.
+     d) O recurso material é um equipamento de produção.
+     e) O recurso patrimonial é bem de estoque.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (Instituto AOCP/Pref. Mun. João Pessoa-PB/Assistente Administrativo/2021) O que
+     diferencia um recurso material de um recurso patrimonial?
+     a) O recurso patrimonial é de natureza permanente.
+     b) O recurso material é de natureza permanente.
+     c) O recurso patrimonial é um material de consumo.
+     d) O recurso material é um equipamento de produção.
+     e) O recurso patrimonial é bem de estoque.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRP14-MS/Auxiliar Administrativo/2021) O maior objetivo de um gestor de
+     recursos materiais é utilizar os recursos da melhor forma possível, sem gastos
+     desnecessários, sem perdas, sem desperdícios e sem afetar negativamente a operação da
+     instituição.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRP14-MS/Auxiliar Administrativo/2021) O maior objetivo de um gestor de
+     recursos materiais é utilizar os recursos da melhor forma possível, sem gastos
+     desnecessários, sem perdas, sem desperdícios e sem afetar negativamente a operação da
+     instituição.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/Pref. Mun. Ibirité-MG/Técnico Material/2016) Eficiência é um princípio da administração de recursos, é mais
+     que uma simples medida numérica de desempenho.
+     Com relação à abordagem, a produtividade e o desempenho nas organizações, analise as afirmativas a seguir e assinale
+     com V as verdadeiras e com F as falsas.
+     ( ) Eficiência significa realizar as tarefas de modo inteligente, com o mínimo de esforço e com o melhor aproveitamento
+     possível de recursos.
+     ( ) O oposto da eficiência é o desperdício e é o que ocorre, por exemplo, quando se consomem recursos e nenhum
+     objetivo é realizado.
+     ( ) A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os mesmos resultados
+     anteriores, mas com o uso de menos recursos.
+     ( ) A eficiência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade dos produtos e serviços
+     e são critérios de grande importância para a avaliação de desempenho.
+     Assinale a sequência CORRETA.
+     a) F V F V
+     b) V V F V
+     c) F F V V
+     d) V V V F
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/Pref. Mun. Ibirité-MG/Técnico Material/2016) Eficiência é um princípio da administração de recursos, é mais
+     que uma simples medida numérica de desempenho.
+     Com relação à abordagem, a produtividade e o desempenho nas organizações, analise as afirmativas a seguir e assinale
+     com V as verdadeiras e com F as falsas.
+     ( ) Eficiência significa realizar as tarefas de modo inteligente, com o mínimo de esforço e com o melhor aproveitamento
+     possível de recursos.
+     ( ) O oposto da eficiência é o desperdício e é o que ocorre, por exemplo, quando se consomem recursos e nenhum
+     objetivo é realizado.
+     ( ) A produtividade cresce com o aumento de recursos aplicados numa atividade que gera os mesmos resultados
+     anteriores, mas com o uso de menos recursos.
+     ( ) A eficiência no uso dos recursos e a satisfação dos funcionários relacionam-se com a qualidade dos produtos e serviços
+     e são critérios de grande importância para a avaliação de desempenho.
+     Assinale a sequência CORRETA.
+     a) F V F V
+     b) V V F V
+     c) F F V V
+     d) V V V F
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (IDCAP/CM Boa Esperança-MG/Técnico Administrativo/2019) “Trata-se de conceito, no
+     qual incluem-se os recursos materiais e os recursos patrimoniais. Enquanto o primeiro são
+     materiais que têm vida útil estipulada, como o caso de materiais físicos que são utilizados
+     pela empresa, o segundo são bens que são permanentes. Em ambos os casos, o objetivo
+     dessa área é evitar o desperdício do material e maximizar o seu uso.”
+     O trecho acima diz respeito à:
+     a) Arquivologia.
+     b) Protocolo.
+     c) Direito Administrativo.
+     d) Administração de materiais.
+     e) Distribuição.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (IDCAP/CM Boa Esperança-MG/Técnico Administrativo/2019) “Trata-se de conceito, no
+     qual incluem-se os recursos materiais e os recursos patrimoniais. Enquanto o primeiro são
+     materiais que têm vida útil estipulada, como o caso de materiais físicos que são utilizados
+     pela empresa, o segundo são bens que são permanentes. Em ambos os casos, o objetivo
+     dessa área é evitar o desperdício do material e maximizar o seu uso.”
+     O trecho acima diz respeito à:
+     a) Arquivologia.
+     b) Protocolo.
+     c) Direito Administrativo.
+     d) Administração de materiais.
+     e) Distribuição.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

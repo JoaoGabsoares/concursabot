@@ -1,0 +1,465 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 01_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 13.
+- Art. 4º.
+- Art. 5º
+- art. 16
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                          Profª. Nelma Fontana
+
+     
+
+
+---
+
+   Professora Nelma
+        Fontana
+
+               @nelmafontan
+               a
+
+---
+
+Constitucionalismo e Neoconstitucionalismo
+
+               
+
+
+---
+
+---
+
+Constitucionalismo Antigo
+
+                            
+
+
+---
+
+Constitucionalismo Moderno
+
+                             
+
+
+---
+
+---
+
+Constitucionalismo Contemporâneo
+
+Segundo Daniel Sarmento, três são os marcos fundamentais do
+neoconstitucionalismo:
+
+1. Histórico: coincide com o surgimento do Estado Constitucional de
+Direito, pós a Segunda Guerra Mundial.
+
+2. Filosóﬁco: pós-positivismo; a integração entre direito e ética e a
+valorização dos direitos fundamentais.
+
+3. Teórico: pensamento de Konrad Hesse, encontrado na obra Força
+Normativa da Constituição.
+
+                          
+
+
+---
+
+Segundo Pedro Lenza, as principais características
+do neoconstitucionalismo são:
+
+
+a) positivação e concretização de um catálogo de direitos fundamentais;
+b) onipresença dos princípios e das regras;
+c) inovações hermenêuticas;
+d) densificação da força normativa do Estado;
+e) desenvolvimento da justiça distributiva.
+
+                              
+
+
+---
+
+Principais críticas ao neoconstitucionalismo:
+
+
+1) excesso de protagonismo judicial;
+2) excesso de ativismo judicial;
+3) insegurança jurídica;
+4) descompromisso metodológico das decisões judiciais;
+5) desvalorização da política e dos representantes eleitos pelo povo.
+
+                               
+
+
+---
+
+1. (2023/CESPE/CEBRASPE/AGU/Advogado da União) De acordo com a doutrina,
+em geral, a origem da constitucionalização do direito encontra-se na primeira
+Constituição Federal Brasileira, haja vista o seu conteúdo analítico e casuístico.
+
+                             
+
+
+---
+
+2. (2023/CESPE/CEBRASPE/AGU/Advogado da União) O marco histórico do
+neoconstitucionalismo no direito brasileiro data do reconhecimento dos preceitos
+democráticos e dos direitos básicos à liberdade, a propriedade e à segurança pela
+Constituição Federal de 1946.
+
+                             
+
+
+---
+
+3. (2022/CESPE/CEBRASPE/FUNPRESP-EXE/Analista) São características do
+neoconstitucionalismo teórico o reconhecimento da normatividade dos
+dispositivos da Constituição de forma integral e a restrição ao uso das regras
+constitucionais para resolução de conflitos nas demais áreas do direito.
+
+                            
+
+
+---
+
+4. (2022/CESPE/CEBRASPE/PC-RJ/Delegado) O triunfo do liberalismo, movimento
+econômico, político e filosófico surgido durante o século XVIII, inspirado no
+Iluminismo, levou a uma significativa alteração nas feições do modelo estatal
+absolutista até então em vigor. Em especial no campo econômico, passou-se a
+difundir a não intervenção do Estado (laissez-faire), além de, na seara política,
+considerá-la como necessária, devendo o poder ser repartido e limitado com o
+objetivo de evitar quaisquer abusos em seu exercício. A respeito das diversas fases
+na evolução do constitucionalismo, assinale a opção correta.
+A) O constitucionalismo clássico não teve nenhuma vinculação com os ideais
+liberais, em especial no que se refere ao poder estatal, já que defendia as pautas
+impostas pelo Estado, adotando o modelo clássico greco-romano. Nessa fase
+inicial, chamada de constitucionalismo clássico, pregava-se a concentração do
+poder político com o objetivo de atender a nobreza detentora do poder
+econômico.
+                              
+
+
+---
+
+B) Uma análise mais aprofundada dos movimentos sociais ocorridos no século XV,
+que deram sustentação política ao constitucionalismo, permite afirmar que o
+Estado decidiu assumir uma postura mais permissiva na fase de produção e
+distribuição de bens, buscando intervir nas relações laborais, econômicas e
+sociais, o que fez surgir a noção de Estado social.
+C) As chamadas revoluções burguesas se identificavam com o Estado absolutista,
+refutando a ideia de constituições escritas, que acabariam por comprometer suas
+pretensões, sintonizadas com a intervenção do Estado na economia.
+
+                            
+
+
+---
+
+D) A Revolução Francesa pode ser considerada uma referência para o surgimento
+das constituições escritas, ao ter defendido, de maneira expressa, que o Estado
+estivesse formalizado em um documento escrito que previsse a separação do
+poder estatal e uma declaração de direitos do homem.
+E) A partir do século XX, em especial no pós-guerra, o constitucionalismo
+estabeleceu uma vinculação mais estreita como a ideologia absolutista,
+consolidando os postulados iluministas e resgatando ideais ainda mais
+conservadores.
+
+                            
+
+
+---
+
+5. (2021/Quadrix/CRO-GO/Advogado) Embora a doutrina sustente ser o
+neoconstitucionalismo refratário a voluntarismos e personalismos, sua base
+axiológica, inspirada em uma teoria da justiça, não raro é cooptada por
+discricionariedades, arbitrariedades e ativismos.
+
+                           
+
+
+---
+
+6. (2022/IADES/ADASA/Técnico em Regulação de Serviços Públicos) Constitucionalismo
+democrático do pós-guerra, desenvolvido em uma cultura filosófica pós-positivista,
+marcado pela força normativa da Constituição, pela expansão da jurisdição constitucional e
+por uma nova hermenêutica.
+BARROSO, L. R. Curso de Direito Constitucional Contemporâneo - Os conceitos
+fundamentais. 10. ed. São Paulo: Saraiva Jur, 2022.
+O conceito apresentado identifica o
+A) neoconstitucionalismo.
+B) panconstitucionalismo.
+C) constitucionalismo moderno.
+D) transconstitucionalismo.
+E) constitucionalismo ascendente.
+                                 
+
+
+---
+
+7. (2022/FCC/DPE-MT/Defensor) Os principais retrocessos democráticos, no mundo atual,
+decorrem de alterações normativas pontuais, as quais podem ser consideradas
+constitucionais sob o ponto de vista formal, mas que podem ser questionadas quanto à sua
+constitucionalidade concreta. Essa definição representa o constitucionalismo
+A) pluralista.
+B) autoritário.
+C) abusivo.
+D) democrático.
+E) popular.
+
+                                
+
+
+---
+
+---
+
+Constituição Federal de 1988
+
+       
+
+
+---
+
+Estrutura da Constituição Federal de 1988
+
+a) Preâmbulo
+b) Parte dogmática
+
+      Título I - Princípios Fundamentais
+      Título II - Direitos e Garantias Fundamentais
+      Título III - Organização do Estado
+      Título IV - Organização dos Poderes
+      Título V - Defesa do Estado e das Instituições
+      Título VI - Tributação e Orçamento
+      Título VII - Ordem Econômica e Financeira
+      Título VIII - Ordem Social
+      Título IX - Disposições Gerais
+                             
+
+
+---
+
+                                 TÍTULO II
+                 DOS DIREITOS E GARANTIAS FUNDAMENTAIS
+
+                                CAPÍTULO I
+              DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza,
+garantindo-se aos brasileiros e aos estrangeiros residentes no País a
+inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+propriedade, nos termos seguintes:
+I - homens e mulheres são iguais em direitos e obrigações, nos termos desta
+Constituição;
+(...)
+
+                           
+
+
+---
+
+XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
+a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra
+ilegalidade ou abuso de poder;
+b) a obtenção de certidões em repartições públicas, para defesa de direitos e
+esclarecimento de situações de interesse pessoal;
+
+(...)
+
+§ 1º As normas definidoras dos direitos e garantias fundamentais têm aplicação
+imediata.
+
+§ 2º Os direitos e garantias expressos nesta Constituição não excluem outros
+decorrentes do regime e dos princípios por ela adotados, ou dos tratados
+internacionais em que a República Federativa do Brasil seja parte.
+                            
+
+
+---
+
+---
+
+Preâmbulo
+
+Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional
+Constituinte para instituir um Estado Democrático, destinado a assegurar o
+exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o
+desenvolvimento, a igualdade e a justiça como valores supremos de uma
+sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e
+comprometida, na ordem interna e internacional, com a solução pacífica das
+controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO
+DA REPÚBLICA FEDERATIVA DO BRASIL.
+
+                               
+
+
+---
+
+---
+
+1. (2023/CESPE/CEBRASPE/TJ-ES/Analista Judiciário) As normas da CF alusivas aos
+direitos fundamentais, assim como as normas do preâmbulo do texto
+constitucional, são preceitos de reprodução obrigatória nas Constituições
+estaduais.
+
+                            
+
+
+---
+
+2. (2022/FCM/FAMES/Técnico de Nível Superior) Sobre o preâmbulo da
+Constituição de 1988, é correto afirmar que (,)
+A) a invocação da proteção de Deus contida no preâmbulo da Constituição de
+1988 tem força normativa.
+B) a invocação a Deus no preâmbulo da Constituição de 1988 é norma de
+reprodução obrigatória nas constituições estaduais.
+C) segundo o Supremo Tribunal Federal, a invocação a Deus, presente no
+preâmbulo, reflete um sentimento religioso e por isso o Brasil não pode ser
+classificado como o Estado laico.
+D) o preâmbulo tem status de direito fundamental.
+E) o preâmbulo não é norma central da Constituição e por isso não é de
+reprodução obrigatória nas constituições estaduais.
+
+
+                           
+
+
+---
+
+3. (2022/INSTITUTO AOCP/Governo do Distrito Federal/Policial Penal) O
+preâmbulo da CF não é norma de reprodução obrigatória nos Estados. Contudo,
+diante de sua plena eficácia, pode ser utilizado como parâmetro para o controle
+de constitucionalidade.
+
+                            
+
+
+---
+
+---
+
+Ato das Disposições Constitucionais Transitórias
+
+(...)
+
+Art. 4º. O mandato do atual Presidente da República terminará em 15 de março de 1990.
+§ 1º A primeira eleição para Presidente da República após a promulgação da Constituição
+será realizada no dia 15 de novembro de 1989, não se lhe aplicando o disposto no art. 16
+da Constituição.
+
+(...)
+
+Art. 13. É criado o Estado do Tocantins, pelo desmembramento da área descrita
+neste artigo, dando-se sua instalação no quadragésimo sexto dia após a eleição
+prevista no § 3º, mas não antes de 1º de janeiro de 1989.
+                                
+
+
+---
+
+---
+
+1. (2022/IBFC/SESACRE/Agente Administrativo) O ADCT (Ato das Disposições
+Constitucionais) é a parte transitória da Constituição Federal (CF/88). Sobre qual é
+a finalidade do ADCT, assinale a alternativa correta.
+A) Englobar as normas constitucionais que possuem máximo valor normativo
+B) Judicialização das coisas
+C) Regulamentar a transição entre Constituições
+D) Expressar a ideologia do Poder Constituinte Originário
+
+                              
+
+
+---
+
+Elementos da Constituição
+
+      
+
+
+---
+
+                                                 Regulam a estrutura do estado e
+                       ORGÂNICOS
+                                                           do poder
+ESTRUTURA NORMATIVA
+  DA CONSTITUIÇÃO
+                                                   São as normas protetoras dos
+    ELEMENTOS DA
+                       LIMITATIVOS
+                                                 direitos e garantias fundamentais
+
+                      SOCIOIDEOLÓGIC            Expressam o compromisso entre o
+                            OS                       estado liberal e o social
+
+                                               Normas de defesa do estado e das
+                      ESTABILIZAÇÃO
+                                                   instituições democráticas
+
+                                                  Preâmbulo, ADCT e Art. 5º, §1º,
+                      APLICABILIDADE
+                                                          da CRFB/88
+
+                              
+
+
+---
+
+1. (2022/INSTITUTO AOCP/PC-GO/Papiloscopista) Sobre a classificação dos
+elementos da Constituição Federal, assinale a alternativa correta.
+A) Os elementos limitativos são aqueles que correlacionam o Estado individualista
+e o Estado social, intervencionista.
+B) Os elementos compostos pelas normas que regulam a estrutura do Estado e do
+Poder são chamados socioideológicos.
+C) Elementos formais de aplicabilidade são aqueles que compõem os direitos e as
+garantias fundamentais.
+D) Os elementos como “preâmbulo”, ou “disposições constitucionais transitórias”,
+são chamados elementos orgânicos.
+E) São chamados elementos de estabilização constitucional aqueles relacionados
+aos instrumentos de defesa do Estado e que buscam garantir a paz social.
+
+
+                             
+
+
+---
+
+2. (2021/MPM/MPM/Promotor) O Ato das Disposições Constitucionais
+Transitórias pode ser conceituado como um elemento da constituição com
+caráter:
+A) Orgânico.
+B) De estabilização constitucional.
+C) Socioideológico.
+D) Formal de aplicabilidade.
+
+                         
+
+
+---
+
+---
+
+GRATA!
+                                          Profª.: Nelma Fontana
+
+     
+
+
+---

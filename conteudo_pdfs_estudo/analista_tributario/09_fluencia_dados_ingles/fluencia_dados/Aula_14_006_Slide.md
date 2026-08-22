@@ -1,0 +1,885 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 14_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: TECNOLOGIA DA INFORMAÇÃO
+---
+
+# TECNOLOGIA DA INFORMAÇÃO
+
+---
+
+---
+
+TECNOLOGIA DA INFORMAÇÃO
+
+                               Profa. Emannuelle Gouveia
+                               @Emannuellegouveia
+
+
+       
+
+
+---
+
+APACHE SPARK
+
+                      Prof. Emannuelle Gouveia
+                      @Emannuelle Gouveia
+
+
+   
+
+
+---
+
+Conceitos Básicos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+
+      Desenvolvido em Scala(linguagem de programação multiparadigma) , o
+ Apache Spark é um framework de processamento distribuído em larga
+ escala de código aberto, cujo objetivo principal é lidar com grandes
+ quantidades de dados gerados em tempo real.
+      Foi construído para rodar na memória principal (Memória RAM),
+ enquanto o Hadoop MapReduce grava dados em discos rígidos, dessa forma
+ é capaz de processar dados muito mais rapidamente do que outras
+ ferramentas.
+      É uma plataforma de computação em cluster projetada para ser rápida
+ e de uso geral.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+        No lado da rapidez, o Spark estende o popular modelo MapReduce para
+   oferecer suporte eficiente a mais tipos de cálculos, incluindo consultas
+   interativas e processamento de fluxo, oferecendo a capacidade de executar
+   cálculos na memória, mas também sendo mais eficiente que o Hadoop
+   MapReduce para aplicações complexas executadas em disco.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Conceitos Básicos
+
+      Do lado da generalidade, o Spark foi projetado para cobrir uma ampla
+ gama de cargas de trabalho que anteriormente exigiam sistemas
+ distribuídos separados, incluindo aplicações em batch (lote), algoritmos
+ iterativos, consultas interativas e streaming, o que torna fácil e barato
+ combinar diferentes tipos de processamento, necessidade comum em
+ pipelines de análise de dados de produção.
+      Outra vantagem, mas não menos importante, é a redução da carga de
+ gerenciamento de manutenção de ferramentas separadas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Conceitos Básicos
+
+     O Spark foi projetado para ser altamente acessível, oferecendo APIs
+ simples em Python, Java, R, Scala e SQL, além de ricas bibliotecas integradas,
+ possui uma grande biblioteca de ferramentas e algoritmos de
+ processamento de dados, aprendizado de máquina, processamento de
+ grafos, processamento em tempo real, entre outros e também se integra
+ estreitamente com outras ferramentas de Big Data: em particular, o Apache
+ Spark pode ser executado em clusters Hadoop e acessar qualquer fonte de
+ dados Hadoop, incluindo Cassandra.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Conceitos Básicos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+        O Spark é utilizado em muitos setores, incluindo finanças,
+   telecomunicações, saúde, varejo e outros, em que grandes volumes de
+   dados precisam ser processados de forma rápida e eficiente:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+     O Spark contém vários componentes estreitamente integrados.
+     Em sua essência, ele é um mecanismo computacional responsável por
+ agendar, distribuir e monitorar aplicações que consistem em muitas tarefas
+ computacionais em um cluster.
+     Como o mecanismo principal do Spark é rápido e de uso geral, ele
+ alimenta vários componentes de nível superior especializados para várias
+ cargas de trabalho, como SQL ou aprendizado de máquina, que são
+ projetados para interoperar estreitamente, permitindo que sejam
+ combinados como bibliotecas em um projeto de software.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Conceitos Básicos
+        Filosofias de forte integração tem vários benefícios: primeiro, todas as
+   bibliotecas e componentes de nível superior na pilha se beneficiam de
+   melhorias nas camadas inferiores, por exemplo, quando o mecanismo
+   principal adiciona uma otimização, as bibliotecas SQL e de aprendizado de
+   máquina também aceleram automaticamente; segundo, os custos
+   associados à execução da pilha são minimizados porque, em vez de executar
+   de 5 a 10 sistemas de software independentes, uma organização precisa
+   executar apenas um.
+        Isso também significa que cada vez que um novo componente é
+   adicionado à pilha do Spark, todas as organizações que o utilizam poderão
+   experimentar imediatamente esse novo recurso.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Conceitos Básicos
+        Por fim, uma das maiores vantagens da integração rígida é a capacidade
+   de criar aplicações que combinam perfeitamente diferentes modelos de
+   processamento.
+        Ex: pode-se escrever uma aplicação que usa ML para classificar dados
+   em tempo real à medida que são ingeridos de fontes de streaming e
+   simultaneamente, os analistas podem consultar os dados resultantes,
+   também em tempo real, via SQL e, enquanto isso, engenheiros e cientistas
+   de dados mais sofisticados podem acessar os mesmos dados por meio do
+   shell de Python para análises ad-hoc ou podem acessar os dados em
+   aplicações de lote independentes.
+        E, apesar de tudo isso, a equipe de TI precisa manter apenas um
+   sistema.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Conceitos Básicos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+     Antes de iniciarmos o estudo da arquitetura, vamos ver uma tabela que
+  compara as características do Apache Spark e do Hadoop MapReduce.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Conceitos Básicos
+      Caching é o processo de armazenar em cache (memória) os resultados
+  de uma computação para que eles possam ser reutilizados em operações
+  futuras.
+      Quando um conjunto de dados é lido a partir de uma fonte de dados,
+  como um sistema de arquivos Hadoop, o Spark pode armazenar em cache
+  esses dados, em um nó do cluster, para que as operações subsequentes
+  possam acessar esses dados mais rapidamente, em vez de ter que ler
+  novamente a partir da fonte de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Conceitos Básicos
+
+        O Spark é uma plataforma de processamento de dados distribuída e,
+   portanto, pode ser usado para ler e gravar dados de várias fontes de dados,
+   incluindo HDFS, SGBDRs, SGBD NoSQL, Amazon S3 e outros sistemas de
+   arquivos distribuídos, assim sendo as operações de I/O podem ser
+   executadas em paralelo em um cluster de computadores, o que significa que
+   ele pode ler e gravar grandes volumes de dados de maneira eficiente.
+        Ele também fornece recursos de otimização de I/O, como o
+   particionamento de dados para distribuir o processamento de dados em
+   diferentes nós do cluster e a compressão de dados para reduzir o tamanho
+   dos dados armazenados e transmitidos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+
+      Basicamente, ele utiliza uma arquitetura mestre-escravo, sendo que o
+ cluster consiste em um único mestre e vários escravos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+      Vamos analisar como a arquitetura apresentada na imagem funciona.
+ Para tal, vamos imaginar que estamos realizando o processamento de logs
+ em tempo real.
+      Logs são registros gerados pelo sistema durante a execução de uma
+ aplicação Spark, e contêm informações detalhadas sobre as operações
+ realizadas, configuração do cluster, o desempenho da aplicação e eventuais
+ erros.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+      Dito isso, iniciamos pelo Driver Manager que é o componente
+ responsável por definir a lógica de processamento de logs em tempo real.
+      Ele poderia ser escrito em Python ou Scala, por exemplo, e seria
+ executado no cluster Spark.
+      Dentro dele, está o SparkContext, que é o objeto central que representa
+ a conexão do programa com o cluster e é usado para criar RDDs (veremos
+ adiante) e para controlar as operações de processamento de dados no
+ cluster.
+      No exemplo, ele seria responsável por criar os RDDs que contêm logs a
+ serem processados e por controlar as operações de processamento de
+ dados no cluster.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+
+      Passamoos para o Cluster Manager que é responsável por gerenciar os
+ recursos do cluster e alocar recursos para as tarefas (Ex: Apache YARN ou
+ Apache Mesos).
+       E em seguida, temos setas para os Worker Nodes que são os nós de
+ processamento que executam as tarefas atribuídas a ele pelo Executor, no
+ exemplo, os Worker Nodes seriam os nós do cluster que processariam os
+ logs em tempo real.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+      Nos Worker Nodes, nós temos o Executor e o Cache.
+      O Executor é um processo em um nó de trabalho do cluster que é
+ responsável por executar as tarefas atribuídas a ele pelo Driver Program, no
+ exemplo, os Executors seriam responsáveis por processar os logs em tempo
+ real.
+      No Executor, nós temos tasks (tarefas) que são unidades de trabalho
+ executadas por um Executor em um Worker Node do cluster. No exemplo,
+ elas seriam responsáveis por processar os logs em tempo real, fazendo
+ verificações de segurança e procurando padrões maliciosos.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+
+     Ao lado do Executor, nós temos o Cache que é um mecanismo de
+ armazenamento em cache do Spark que permite armazenar dados em
+ memória para acesso rápido e eficiente.
+     No exemplo, o cache poderia ser usado para armazenar informações de
+ referência, como uma lista de IPs de máquinas maliciosas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+         Resilient Distributed Datasets (RDD)
+
+      RDD é o conceito central dentro da estrutura do Apache Spark e se trata
+ de uma abstração de dados para realização do processamento distribuído
+ resiliente, sendo uma coleção de elementos divididos em várias partições,
+ que podem ser processadas em paralelo em um cluster de computadores e
+ ajudam a reorganizar os cálculos e otimizar o processamento de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+Arquitetura do Spark
+         Vejamos na tabela seguinte as principais características do RDD:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+      Transformações são operações que criam um novo RDD a partir de um
+ RDD existente, aplicando alguma forma de transformação aos elementos do
+ RDD original, ou seja, são operações que não modificam diretamente os
+ dados em si, e sim criam um novo RDD com os resultados da transformação
+ aplicada.
+      Isso ocorre porque RDDs são imutáveis: uma vez criado um RDD, não é
+ possível modificar seus elementos diretamente.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+         Alguns exemplos de transformações em RDDs incluem:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             
+
+
+---
+
+Arquitetura do Spark
+        Transformações em RDDs são chamadas de Lazy Operations, pois a
+    execução real da transformação é adiada até que uma ação seja realizada no
+    RDD resultante, ou seja, as transformações são executadas apenas quando
+    necessário, o que ajuda a otimizar o desempenho e reduzir o consumo de
+    recursos computacionais.
+        Trata-se de uma estratégia de avaliação que permite que o
+    processamento de dados seja postergado até que os resultados sejam
+    necessários.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Arquitetura do Spark
+
+      Isso significa que, ao invés de processar imediatamente todas as
+ transformações aplicadas em um RDD, o RDD irá armazenar todas as
+ operações aplicadas em um Directed Acyclic Graph (DAG), que representa o
+ fluxo de transformações, e somente executa essas operações quando um
+ resultado concreto for requisitado pelo usuário ou aplicação.
+      É uma abordagem vantajosa porque permite que o sistema RDD
+ minimize a quantidade de dados processados e armazenados em memória.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+        Há também as ações.
+        Uma ação é uma operação que desencadeia a computação real dos
+   dados em um RDD. Na prática, ela é capaz de produzir um resultado ou
+   efeito colateral, como a exibição de resultados na tela ou a gravação de
+   dados em um arquivo.
+        Diferentemente das transformações, que apenas criam um RDD com os
+   resultados da transformação, ações exigem que o RDD execute o real cálculo
+   dos dados e produza um resultado concreto, logo ações podem ser
+   computacionalmente mais intensivas e podem envolver a transferência de
+   grandes quantidades de dados.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+       É importante notar que cada ação pode desencadear várias
+   transformações em cascata, dependendo das operações aplicadas ao RDD.
+   Dessa forma, a escolha de quais ações e transformações usar em um
+   programa RDD pode afetar significativamente o desempenho e a eficiência
+   da computação distribuída.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+      Vejamos alguns exemplos de ações que podem ser executados sobre
+   um RDD:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+         O QUE É UM DAG?
+
+     Um grafo é um conceito frequentemente usado em matemática e
+ ciência da computação. Trata-se basicamente de uma estrutura em que nós
+ são conectados uns aos outros com arestas em uma determinada ordem.
+     Já um DAG é uma maneira de definir relacionamentos e dependências
+ entre diferentes eventos e mostra a ordem em que eles devem ser
+ executados e quais eventos dependem um do outro.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+     Olhando para a imagem seguinte, os eventos 1, 2 e 3 são executados
+ em paralelo e devem ser concluídos antes que o evento 4 possa ser
+ executado. O evento 4 depende dos eventos 1, 2 e 3. Após a execução e
+ conclusão do evento 4, os eventos 5, 6 e 7 podem ser executados em
+ paralelo. Por fim, quando esses 3 eventos terminarem, o evento 8 poderá
+ ser executado. O evento 8 depende do sucesso dos eventos 1–8 para ser
+ executado com sucesso.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+       O DAG é um grafo direcionado acíclico: é direcionado porque implica
+  que os links entre os nós tenham a mesma direção e é acíclico porque os
+  ciclos não são possíveis, de modo que as transações não podem retornar a si
+  mesmas após a vinculação a outras transações.
+       No Apache Spark: DAG é uma representação visual das etapas ou
+  operações que o Spark precisa executar para processar os dados em um
+  cluster distribuído.
+       No DAG, cada nó representa uma etapa de processamento e as arestas
+  representam as dependências entre essas etapas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+        Agora vamos detalhar mais o que são Operações Granulares: trata-se do
+   tamanho ou escala da transformação aplicada a um RDD. Em geral, existem
+   dois tipos de granularidade:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           
+
+
+---
+
+Arquitetura do Spark
+       Em regra, operações de granulação fina são preferíveis, pois permitem o
+   processamento mais eficiente e paralelo dos dados em um RDD, no entanto,
+   em alguns casos, operações de granulação grossa podem ser necessárias
+   para realizar cálculos mais complexos ou agregações em grandes conjuntos
+   de dados.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Arquitetura do Spark
+        Por fim, vamos detalhar a Tolerância a Falhas: trata-se da capacidade da
+   plataforma de lidar com falhas em um cluster sem interromper o
+   processamento ou perder dados, ou seja, continuar executando em caso de
+   falhas em um ou mais nós do cluster, mantendo a integridade dos dados e
+   os resultados das operações.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            
+
+
+---
+
+Arquitetura do Spark
+           Vejamos as técnicas:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               
+
+
+---
+
+Arquitetura do Spark
+      A linhagem é uma técnica interessante: trata-se do registro das
+ transformações aplicadas a um RDD que permite que ele seja reconstruído
+ em caso de falha.
+      Cada RDD mantém um ponteiro para seu RDD pai e uma transformação
+ aplicada a esse RDD pai. Isso permite que, em caso de falha em um nó do
+ cluster que contém uma ou mais partições de um RDD, essas partições
+ possam ser reconstruídas a partir do RDD pai e das transformações
+ subsequentes.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+     É uma técnica eficiente para lidar com falhas em RDDs, pois evita a
+ necessidade de replicar os dados várias vezes em um cluster de
+ computadores, e, em vez disso, o Spark pode simplesmente reconstruir as
+ partições perdidas a partir do RDD pai e das transformações subsequentes,
+ garantindo a integridade dos resultados das operações.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+      Hoje em dia, há duas estruturas que são consideradas evoluções do
+ RDD: DataFrames e Datasets.
+      Ambos são estruturas de dados tabulares distribuídas no Spark. A
+ principal diferença entre eles é que o Dataset é tipado e fornece uma
+ interface mais forte para programação orientada a objeto; já o DataFrame é
+ uma estrutura de dados tabular não tipada que representa um conjunto de
+ dados organizados em colunas nomeadas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+      O DataFrame é semelhante a uma tabela em um banco de dados
+ relacional e é otimizado para consultas de dados. O Spark fornece suporte
+ nativo para leitura e gravação de dados em diversos formatos, incluindo
+ CSV, JSON, Avro e Parquet, etc.
+      Por outro lado, o Dataset é uma estrutura de dados tabular tipada que
+ fornece uma interface mais forte para programação orientada a objetos. São
+ uma evolução dos Dataframes, introduzido no Spark 1.6 e permitem a
+ aplicação de operações de alto nível em dados estruturados e não
+ estruturados com a execução de consultas mais complexas e análises de
+ dados, além de oferecer melhores recursos de validação de tipo em tempo
+ de compilação.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+      Em resumo: DataFrame é mais indicado para consultas de dados e
+ análises exploratórias; Dataset é mais indicado para aplicações com
+ requisitos mais rigorosos de validação de tipo e programação orientada a
+ objetos.
+      No entanto, ambos são úteis e podem ser usados de forma
+ intercambiável em muitos casos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+     Os RDDs ainda são usados em muitos casos, especialmente quando há
+ necessidade de um controle mais granular sobre a execução do programa ou
+ quando se trabalha com dados não estruturados ou sem esquema definido,
+ no entanto, para trabalhar com dados estruturados e realizar operações
+ comuns de processamento de dados, os DataFrames e Datasets são mais
+ convenientes, pois fornecem uma interface de programação de alto nível e
+ otimizações avançadas para melhorar a performance com validação de tipo
+ em tempo de compilação e tipagem estática, o que ajuda a reduzir erros de
+ programação e melhorar a qualidade do código.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Arquitetura do Spark
+         Variáveis Compartilháveis
+
+    O Apache Spark oferece suporte a dois tipos de variáveis
+ compartilháveis restritas: Broadcast e Accumulator.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              
+
+
+---
+
+Spark Streaming
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Spark Streaming
+      O Spark Streaming é uma extensão da API principal do Spark que
+ permite o processamento de fluxo escalonável, de alto rendimento e
+ tolerante a falhas de fluxos de dados em tempo real. Os dados podem ser
+ consumidos de várias fontes, como Kafka, Kinesis ou soquetes TCP, e podem
+ ser processados usando algoritmos complexos expressos com funções de
+ alto nível, como mapear, reduzir, unir e janela.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Spark Streaming
+      Os dados processados podem ser enviados para sistemas de arquivos,
+ bancos de dados e painéis dinâmicos.
+      É possível aplicar os algoritmos de aprendizado de máquina e
+ processamento de grafos do Spark em fluxos de dados (data streams).
+      Internamente, funciona da seguinte maneira: o ele recebe fluxos de
+ dados de entrada em tempo real e divide os dados em lotes, que são então
+ processados pelo mecanismo Spark para gerar o fluxo final de resultados em
+ lotes.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Spark Streaming
+      O Spark Streaming fornece uma abstração de alto nível chamada fluxo
+ discreto ou DStream, que representa um fluxo contínuo de dados (ela tem
+ substituído cada vez mais o Spark Streaming).
+      Os DStreams podem ser criados a partir de fluxos de dados de entrada
+ de fontes como Kafka e Kinesis ou aplicando operações de alto nível em
+ outros DStreams. Internamente, um DStream é representado como uma
+ sequência de RDDs exibido na imagem seguinte:
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          
+
+
+---
+
+Spark Streaming
+     Ele representa um fluxo contínuo de dados, seja o fluxo de dados de
+ entrada recebido da fonte ou o fluxo de dados processados gerados pela
+ transformação do fluxo de entrada.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+Spark Streaming
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         
+
+
+---
+
+OBRIGADA
+                            Prof. Emannuelle Gouveia
+                            @emannuellegouveia
+
+
+    
+
+
+---
+
+---

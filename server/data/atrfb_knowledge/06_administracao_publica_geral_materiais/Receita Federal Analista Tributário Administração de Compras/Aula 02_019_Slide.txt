@@ -1,0 +1,603 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+CLASSIFICAÇÃO DE MATERIAIS
+QUESTÕES COMENTADAS
+BANCAS DIVERSAS - XI
+
+                                                Prof. Ricardo Campanario
+
+
+
+
+           https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PGDF/2021) Acerca da gestão de recursos materiais, julgue o item que se
+     segue. Viabilizar a padronização de materiais, de forma a evitar que existam itens
+     duplicados ou variedades desnecessárias no estoque, é parte do processo de classificação
+     dos materiais.
+     C) Certo
+     E) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas da Classificação
+       Padronização
+       ❑ A padronização procura estabelecer padrões idênticos de medidas de peso, formato e outras correlatas e está
+         diretamente ligada ao processo de simplificação pois, obtida a padronização, um dos seus grandes benefícios é a
+         diminuição do número de itens em estoque, evitando ou minimizando a variedade de itens dentro de uma mesma
+         classe de materiais utilizados para o mesmo fim.
+
+       ❑ A etapa de padronização gera algumas vantagens à organização:
+
+       ✓    Redução do risco de falta de materiais no estoque por meio da redução da variedade, o que permite maior
+            volume em menor número de itens.
+
+       ✓    Compras em maiores lotes: menos itens levam a compras de maior volume, gerando ganhos de escala e descontos
+            na aquisição. Note que a ideia não é comprar "mais". O volume é provavelmente o mesmo porém, agora não se
+            distribui em diversos itens provavelmente de fornecedores diferentes, mas concentra-se em menos itens,
+            padronizados, que podem ser adquiridos juntos a um mesmo fornecedor.
+
+       ✓    Redução da quantidade de itens em estoque: a redução do número e da variedade de itens permite reduzir os
+            custos de armazenamento pois leva à melhoria do layout e provável diminuição do espaço físico utilizado.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (CEBRASPE/PGDF/2021) Acerca da gestão de recursos materiais, julgue o item que se
+     segue. Viabilizar a padronização de materiais, de forma a evitar que existam itens
+     duplicados ou variedades desnecessárias no estoque, é parte do processo de classificação
+     dos materiais.
+     C) Certo
+     E) Errado
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Potim-SP/2021) Diferentemente da metodologia de codificação
+     utilizada para identificar, rastrear e gerenciar produtos sem contato e sem a necessidade
+     de um campo visual, baseada em etiquetas eletrônicas para guardar as informações de
+     identificação do produto e sinais de rádio para transmiti-las ao leitor, existe também a
+     metodologia baseada na representação gráfica de uma sequência numérica utilizada para
+     identificar um produto, por meio dos Códigos Barcodes que é denominada:
+     A) Sistema decimal.
+     B) Sistema numérico.
+     C) Sistema alfanumérico.
+     D) Código de barras.
+     E) RFID.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Codificação de Materiais
+       Códigos de Barras
+       ❑ Os códigos de barras são formas de representação gráfica de dígitos numéricos ou caracteres
+         alfanuméricos feita por número variável de barras paralelas, cuja combinação compõe uma
+         determinada informação.
+
+       ❑ A decodificação (leitura) dos dados é realizada por scanner. Os dados capturados nessa leitura
+         óptica são convertidos em letras ou números humano-legíveis. Sua utilização é muito comum em
+         diversas áreas, desde a indústria é largamente utilizado no comércio e serviços.
+
+       ❑ Entre os tipos de códigos de barra, os mais cobrados são:
+
+
+
+
+  EAN-13 (ou EAN-8)                    DUN-14      Data Matrix                   GS1-128 ou EAN-128   QR Code
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Potim-SP/2021) Diferentemente da metodologia de codificação
+     utilizada para identificar, rastrear e gerenciar produtos sem contato e sem a necessidade
+     de um campo visual, baseada em etiquetas eletrônicas para guardar as informações de
+     identificação do produto e sinais de rádio para transmiti-las ao leitor, existe também a
+     metodologia baseada na representação gráfica de uma sequência numérica utilizada para
+     identificar um produto, por meio dos Códigos Barcodes que é denominada:
+     A) Sistema decimal.
+     B) Sistema numérico.
+     C) Sistema alfanumérico.
+     D) Código de barras.
+     E) RFID.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (COPEVE/UFMG/2021) A gestão de materiais, na administração pública, possui como objetivo
+     maximizar o uso dos recursos materiais, ou seja, evitar desperdícios. Como os materiais são recursos
+     públicos, há o dever do agente de empregá-los da melhor forma. No que se refere às etapas e
+     princípios que regem a classificação de materiais, assinale a alternativa CORRETA.
+     A) Na etapa de catalogação, são arrolados todos os itens de material existentes em estoque,
+     contribuindo para que se tenha uma ideia geral do conjunto.
+     B) Na etapa de codificação, é atribuída uma série de números e/ou letras a cada item de material, que,
+     quando compilados, formam um código, sendo permitido ter códigos diferentes para o mesmo item.
+     C) Na etapa de padronização, é realizada a redução da diversidade de itens de material em estoque
+     que se destinam a um mesmo fim.
+     D) Na etapa simplificação, é realizada uma descrição minuciosa do material, possibilitando a
+     individualização em uma linguagem familiar ao mercado.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas da Classificação
+       Resumo Geral!
+
+
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (COPEVE/UFMG/2021) A gestão de materiais, na administração pública, possui como objetivo
+     maximizar o uso dos recursos materiais, ou seja, evitar desperdícios. Como os materiais são recursos
+     públicos, há o dever do agente de empregá-los da melhor forma. No que se refere às etapas e
+     princípios que regem a classificação de materiais, assinale a alternativa CORRETA.
+     A) Na etapa de catalogação, são arrolados todos os itens de material existentes em estoque,
+     contribuindo para que se tenha uma ideia geral do conjunto.
+     B) Na etapa de codificação, é atribuída uma série de números e/ou letras a cada item de material, que,
+     quando compilados, formam um código, sendo permitido ter códigos diferentes para o mesmo item.
+     C) Na etapa de padronização, é realizada a redução da diversidade de itens de material em estoque
+     que se destinam a um mesmo fim.
+     D) Na etapa simplificação, é realizada uma descrição minuciosa do material, possibilitando a
+     individualização em uma linguagem familiar ao mercado.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (QUADRIX/CRMV-RO/2021) Uma etapa da classificação, a identificação, também
+     chamada de especificação, é a descrição minuciosa do material que possibilita a
+     individualização em uma linguagem familiar ao mercado.
+     C) Certo
+     E) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas da Classificação
+       Especificação
+
+       ❑ Realizados os trabalhos de listagem dos materiais e posterior simplificação, vamos
+         para a especificação, etapa um pouco mais complexa.
+       ❑ Em linhas gerais a especificação significa uma minuciosa descrição do material.
+         Também chamada de identificação, nessa fase os materiais catalogados e
+         simplificados serão descritos de forma detalhada, incluindo seu peso, medida, forma,
+         finalidade e demais atributos.
+       ❑ Tudo isso vai possibilitar um melhor entendimento entre o usuário e o fornecedor
+         quanto ao tipo de material a ser requisitado, facilitando o processo de consulta,
+         compra e controle dos materiais em estoque e, sobretudo, evitando a compra de
+         materiais em desacordo com as necessidades da organização.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (QUADRIX/CRMV-RO/2021) Uma etapa da classificação, a identificação, também
+     chamada de especificação, é a descrição minuciosa do material que possibilita a
+     individualização em uma linguagem familiar ao mercado.
+     C) Certo
+     E) Errado
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (NOSSO RUMO/CEASA Campinas-SP/2021) Estabelecimento de normas técnicas para
+     os itens de material em si, ou para seu emprego com segurança. Trata-se do(a):
+     A) catalogação.
+     B) padronização.
+     C) normalização.
+     D) identificação.
+     E) codificação.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas da Classificação
+       Normalização
+
+       ❑ A normalização refere-se, objetivamente, às normas de utilização de cada item. É importante que
+         a organização estabeleça como cada item deverá ser utilizado ao longo do processo produtivo ou
+         de seu emprego em qualquer outra atividade operacional.
+
+       ❑ De acordo com a ABNT (Associação Brasileira de Normas Técnicas), norma é "um conjunto
+         metódico e preciso de preceitos destinados a estabelecer regras para execução de cálculos,
+         projetos, fabricação, obras, serviços ou instalações, prescrever condições mínimas de segurança
+         na execução ou utilização de obras, máquinas ou instalações, recomendar regras para elaboração
+         de outras normas e demais documentos normativos".
+
+       ❑ Importante salientar que a norma também é um ato de simplificação visto que delimita as
+         possibilidades de uso e emprego dos itens em questão, também minimizando a complexidade do
+         processo e auxiliando o próprio processo de especificação, como vimos acima.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (NOSSO RUMO/CEASA Campinas-SP/2021) Estabelecimento de normas técnicas para
+     os itens de material em si, ou para seu emprego com segurança. Trata-se do(a):
+     A) catalogação.
+     B) padronização.
+     C) normalização.
+     D) identificação.
+     E) codificação.
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CETAP/AGE-PA/2022) A curva ABC é um instrumento de avaliação de estoques que identifica os itens de maior
+     importância ou impacto para a organização, permitindo, assim, um tratamento mais adequado do estoque. A técnica
+     calcula o consumo de cada tipo de material em valor monetário para que eles possam ser classificados:
+     A) em ordem decrescente de importância em: itens de classe A (50% do total de estoques, mas responsáveis por 65%
+     do valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe
+     C (20% do total dos estoques, responsáveis por 10% do valor os estoques).
+     B) em ordem crescente de importância em: itens de classe A (50% do total de estoques, mas responsáveis por 65% do
+     valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe C
+     (20% do total dos estoques, responsáveis por 10% do valor os estoques).
+     C) em ordem decrescente de importância em: itens de classe A (20% do total de estoques, mas responsáveis por 65%
+     do valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe
+     C (50% do total dos estoques, responsáveis por 10% do valor os estoques).
+     D) em ordem crescente de importância em: itens de classe A (20% do total de estoques, mas responsáveis por 65% do
+     valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe C
+     (50% do total dos estoques, responsáveis por 10% do valor os estoques).
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Tipos de Classificação
+       Valor de Consumo ou Método ABC
+       ❑ A classificação com base no método ABC segmenta os itens que trazem muito ou pouco impacto para a
+         organização em relação ao seu processo produtivo. Permite que o administrador de materiais foque seus esforços
+         em número reduzido de itens que são os mais importantes para a organização.
+
+       ❑ Esse princípio da concentração da importância em setores que acolhem poucos itens (ou cidadãos ou qualquer
+         outra unidade a ser considerada) forma a base do Princípio de Pareto e foi adaptado ao processo de controle de
+         estoques, batizado como Curva ABC.
+
+       ❑ Note na figura abaixo que, de acordo com o Princípio de Pareto, 80% do valor dos estoques e de todo o esforço
+         empregado ao longo da cadeia (eixo Y) está concentrado em apenas cerca de 20% dos itens (eixo X), formando a
+         área A no gráfico.
+
+         Classe dos Materiais               % em Número de Itens (eixo x)     % em Importância (eixo y)
+                  A                                   20%                              80%
+                  B                                   30%                              15%
+                  C                                   50%                               5%
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CETAP/AGE-PA/2022) A curva ABC é um instrumento de avaliação de estoques que identifica os itens de maior
+     importância ou impacto para a organização, permitindo, assim, um tratamento mais adequado do estoque. A técnica
+     calcula o consumo de cada tipo de material em valor monetário para que eles possam ser classificados:
+     A) em ordem decrescente de importância em: itens de classe A (50% do total de estoques, mas responsáveis por 65%
+     do valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe
+     C (20% do total dos estoques, responsáveis por 10% do valor os estoques).
+     B) em ordem crescente de importância em: itens de classe A (50% do total de estoques, mas responsáveis por 65% do
+     valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe C
+     (20% do total dos estoques, responsáveis por 10% do valor os estoques).
+     C) em ordem decrescente de importância em: itens de classe A (20% do total de estoques, mas responsáveis por 65%
+     do valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe
+     C (50% do total dos estoques, responsáveis por 10% do valor os estoques).
+     D) em ordem crescente de importância em: itens de classe A (20% do total de estoques, mas responsáveis por 65% do
+     valor do estoque); itens de classe B (30% do total, mas responsáveis por 25% do valor do estoque); itens de classe C
+     (50% do total dos estoques, responsáveis por 10% do valor os estoques).
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CETREDE/UFC/2022) Vários são os tipos de classificação de materiais (recursos),
+     determinados em função das informações gerenciais desejadas pelo gestor de materiais.
+     Marque a alternativa que define “Perecibilidade”, de acordo com a classificação de
+     materiais.
+     A) Classificação segundo a qual os itens de material em estoque são classificados de
+     acordo com seu risco potencial.
+     B) São aqueles que oferecem risco, em especial durante as atividades de manuseio e
+     transporte.
+     C) Classificação de quais materiais poderão ser produzidos pela organização e quais
+     deverão ser adquiridos no mercado.
+     D) Classificação que leva em conta o desaparecimento das propriedades físico-químicas
+     do material.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Classificação
+       Quanto à Perecibilidade
+
+     ❑ Em relação à Perecibilidade os materiais se classificam em perecíveis e não perecíveis.
+     ❑ Os materiais perecíveis são aqueles que podem perder suas características de
+       performance esperadas, sejam elas físicas ou químicas, estragando ou se
+       deteriorando. Isso pode acontecer pela ação natural do tempo, pela ação de
+       contaminantes, contato com outros materiais, umidade, oxidação, poeira, choque
+       mecânicos, pressão, entre outros fatores.
+     ❑ Esse tipo de material deve receber tratamento diferenciado em relação a sua
+       frequência de compra e armazenamento (inclusive em relação à embalagem
+       adequada), evitando desperdícios ou falta de material na hora em que são
+       necessários para a atividade produtiva.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Classificação
+       Quanto à Perecibilidade
+       ❑ Por fim (isso é mais difícil cair em prova, mas vale dar uma olhada) os materiais perecíveis podem ser classificados
+         em diferentes categorias:
+                                                  Categoria de Perecibilidade                      Características
+                                            Ação higroscópica                       Afinidade com o vapor d’água. Ex.: sal marinho
+                                            Limitação do tempo                      Prazo de validade. Ex.: medicamentos e alimentos
+                                            Instáveis                               Produtos químicos que se decompõem
+                                            Voláteis                                Reduzem a gás ou vapor, evaporam. Ex.: Amoníaco
+                                            Contaminação pela água                  Degradam-se pela adição de água. Ex.: óleos
+                                                                                    diversos
+                                            Contaminação por partículas sólidas     Perdem partes de suas características. Ex.: graxas
+                                            Ação da gravidade                       Deformam-se em razão de estocagem incorreta.
+                                                                                    Ex.: Eixos longos
+                                            Queda, colisão ou vibração              Frágeis e sensíveis. Ex.: cristais e vidros
+                                            Mudança de temperatura                  Perdem suas características. Ex.: selantes para
+                                                                                    vedação
+                                            Ação da luz                             Degradam-se com a luminosidade. Ex.: filmes
+                                                                                    fotográficos
+                                            Ação da atmosfera                       Corrosão por vapores d’água, ácidos, etc.
+                                            Ação de animais                         Ataques de insetos. Ex.: grãos, madeira, etc.
+
+
+
+       ❑ Já os materiais não perecíveis são os demais materiais, que não necessitam de cuidados especiais em relação a
+         essa condição específica.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (CETREDE/UFC/2022) Vários são os tipos de classificação de materiais (recursos),
+     determinados em função das informações gerenciais desejadas pelo gestor de materiais.
+     Marque a alternativa que define “Perecibilidade”, de acordo com a classificação de
+     materiais.
+     A) Classificação segundo a qual os itens de material em estoque são classificados de
+     acordo com seu risco potencial.
+     B) São aqueles que oferecem risco, em especial durante as atividades de manuseio e
+     transporte.
+     C) Classificação de quais materiais poderão ser produzidos pela organização e quais
+     deverão ser adquiridos no mercado.
+     D) Classificação que leva em conta o desaparecimento das propriedades físico-químicas
+     do material.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/FUB/2022) Os itens cujos valores unitários são mais significativos
+     compõem o grupo A de uma curva ABC.
+     C) Certo
+     E) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Classificação
+       Valor de Consumo ou Método ABC
+       ❑ A classificação com base no método ABC segmenta os itens que trazem muito ou pouco impacto para a
+         organização em relação ao seu processo produtivo. Permite que o administrador de materiais foque seus esforços
+         em número reduzido de itens que são os mais importantes para a organização.
+
+       ❑ Esse princípio da concentração da importância em setores que acolhem poucos itens (ou cidadãos ou qualquer
+         outra unidade a ser considerada) forma a base do Princípio de Pareto e foi adaptado ao processo de controle de
+         estoques, batizado como Curva ABC.
+
+       ❑ Note na figura abaixo que, de acordo com o Princípio de Pareto, 80% do valor dos estoques e de todo o esforço
+         empregado ao longo da cadeia (eixo Y) está concentrado em apenas cerca de 20% dos itens (eixo X), formando a
+         área A no gráfico.
+
+         Classe dos Materiais               % em Número de Itens (eixo x)     % em Importância (eixo y)
+                  A                                   20%                              80%
+                  B                                   30%                              15%
+                  C                                   50%                               5%
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (CEBRASPE/FUB/2022) Os itens cujos valores unitários são mais significativos
+     compõem o grupo A de uma curva ABC.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/FUB/2022) A classificação ABC utiliza critérios de perecibilidade para
+     majorar ou não a importância relativa de materiais em uma organização.
+     C) Certo
+     E) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Classificação
+       Valor de Consumo ou Método ABC
+       ❑ A classificação com base no método ABC segmenta os itens que trazem muito ou pouco impacto para a
+         organização em relação ao seu processo produtivo. Permite que o administrador de materiais foque seus esforços
+         em número reduzido de itens que são os mais importantes para a organização.
+
+       ❑ Esse princípio da concentração da importância em setores que acolhem poucos itens (ou cidadãos ou qualquer
+         outra unidade a ser considerada) forma a base do Princípio de Pareto e foi adaptado ao processo de controle de
+         estoques, batizado como Curva ABC.
+
+       ❑ Note na figura abaixo que, de acordo com o Princípio de Pareto, 80% do valor dos estoques e de todo o esforço
+         empregado ao longo da cadeia (eixo Y) está concentrado em apenas cerca de 20% dos itens (eixo X), formando a
+         área A no gráfico.
+
+         Classe dos Materiais               % em Número de Itens (eixo x)     % em Importância (eixo y)
+                  A                                   20%                              80%
+                  B                                   30%                              15%
+                  C                                   50%                               5%
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                         https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (CEBRASPE/FUB/2022) A classificação ABC utiliza critérios de perecibilidade para
+     majorar ou não a importância relativa de materiais em uma organização.
+     C) Certo
+     E) Errado
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (QUADRIX/CRP-6-SP/2022) A simplificação e a especificação do material possibilitam
+     melhor entendimento entre o consumidor e o fornecedor.
+     C) Certo
+     E) Errado
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Etapas da Classificação
+       Resumo Geral!
+
+
+
+                  CATALOGAÇÃO - Listagem completa de 100% dos itens existentes.
+
+                  SIMPLIFICAÇÃO - Reduzir a diversidade de itens empregados para o mesmo fim.
+
+                  ESPECIFICAÇÃO/IDENTIFICAÇÃO - Minuciosa descrição do material e suas características.
+
+                  NORMALIZAÇÃO - Definição das normas de utilização de cada item.
+
+                  PADRONIZAÇÃO - Estabelece padrões idênticos de peso, formato e outras medidas de itens
+                  destinados a um mesmo fim.
+
+                  CODIFICAÇÃO - Atribuição de códigos aos itens que representem todas as características
+                  capturadas ao longo do processo de classificação.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (QUADRIX/CRP-6-SP/2022) A simplificação e a especificação do material possibilitam
+     melhor entendimento entre o consumidor e o fornecedor.
+     C) Certo
+     E) Errado
+     GABARITO - CORRETA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,71 @@
+    @canetas.pretas
+
+
+
+
+HIERÁRQUICOS
+
+
+
+
+               https://t.me/KakashiAssinaturasBot
+       Clustering
+
+
+
+
+                                                             Hierarchical clustering explained | by Prasad
+                                                             Pai | Towards Data Science
+Prof. Raphael Lacerda
+                        https://t.me/KakashiAssinaturasBot
+       Aglomerativo (AGNES)
+
+
+
+
+Prof. Raphael Lacerda
+                        https://t.me/KakashiAssinaturasBot
+       Single Linkage
+         ● método alglomerativo
+         ● bottom-up (juntado)
+         ● elimina           linhas            e          colunas           da
+           matriz                        de                       similaridade
+           conforme                          grupos                        vão
+           sendo fundidos
+         ● Distância               entre              novo               grupo
+           e         os      demais         é       igual       a       menor
+           distância              entre              os             elementos
+           do              novo              grupo            e             os
+           grupos restantes
+         ● Não querer definição inicial de quantidade de grupos
+Prof. Raphael Lacerda
+                                https://t.me/KakashiAssinaturasBot
+       Complete Linkage
+         ● Análogo       ao     single    linkage     porém    a         distância
+           do       novo     grupo       aos       demais    é       igual       a
+           distância        máxima            entre       os           elementos
+           do novo grupo e os grupos restantes
+
+
+
+
+Prof. Raphael Lacerda
+                                https://t.me/KakashiAssinaturasBot
+       Divisível (DIANA)
+         ● top-down (separando)
+         ● Nó raiz
+
+
+
+
+Prof. Raphael Lacerda
+                                  https://t.me/KakashiAssinaturasBot
+       exemplo
+
+
+
+
+                                                             Clustering with Scikit with GIFs -
+Prof. Raphael Lacerda                                        dashee87.github.io
+                        https://t.me/KakashiAssinaturasBot
+

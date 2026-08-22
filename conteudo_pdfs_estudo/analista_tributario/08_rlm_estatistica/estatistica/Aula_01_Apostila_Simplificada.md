@@ -1,0 +1,1606 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 01_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Estatística
+---
+
+# Estatística
+
+Aula 00
+                          Receita Federal (Analista Tributário)
+                                                   Estatística
+
+                                                        Autor:
+                                     Equipe Exatas Estratégia
+                                                  Concursos
+
+
+                                             23 de Maio de 2025
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 00
+
+                                                                                     Índice
+1) Introdução à estatística.
+
+
+2) Noções Iniciais sobre Estatística.
+
+
+3) Método Experimental x Método Estatístico.
+
+
+4) Dados Estatísticos.
+
+
+5) Variáveis Estatísticas.
+
+
+6) Séries Estatísticas.
+
+
+7) Distribuição de Frequências.
+
+
+8) Representação Gráfica das Distribuições de Frequências.
+
+
+9) Outros Gráficos e Representações.
+
+
+10) Questões Comentadas - Distribuições de Frequência - FGV
+
+
+11) Questões Comentadas - Outros Gráficos e Representações - FGV
+
+
+12) Lista de Questões - Distribuições de Frequência - FGV
+
+
+13) Lista de Questões - Outros Gráficos e Representações - FGV
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           38
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                               INTRODUÇÃO À ESTATÍSTICA
+A Estatística pode ser definida como a ciência que estuda os processos de coleta, organização,
+análise e interpretação de dados numéricos variáveis referentes a qualquer fenômeno. Podemos
+conceituá-la como um conjunto de técnicas de coleta, organização, análise e interpretação de
+dados, aplicáveis a várias áreas do conhecimento, que auxiliam no processo de tomada de
+decisão.
+
+A Estatística se divide em três grandes ramos:
+
+   •   Estatística Descritiva (ou Dedutiva): responsável pela coleta, organização, descrição e
+       resumo dos dados observados. A partir de um determinado conjunto de dados, a Estatística
+       Descritiva busca organizá-los em tabelas (ou gráficos) e estabelecer um sumário por meio
+                                                            ==219a34==
+
+       de medidas descritivas como a média, os valores mínimo e máximo, o desvio padrão, entre
+       outras.
+
+   •   Estatística Probabilística: responsável por estabelecer o modelo matemático probabilístico
+       adotado para explicar os fenômenos aleatórios investigados pela Estatística. Os resultados
+       desses fenômenos aleatórios podem variar de uma observação para outra, o que dificulta
+       muito a previsão de um resultado futuro. Por isso, a Teoria da Probabilidade é usada para
+       medir a chance de ocorrência de determinados eventos.
+
+   •   Estatística Inferencial (ou Indutiva): responsável pela análise e interpretação dos dados. A
+       partir da análise de dados de uma amostra, a Estatística Indutiva estabelece inferências e
+       previsões sobre a população, auxiliando na tomada decisões. Além disso, busca generalizar
+       conclusões a respeito da população a partir de uma amostra, analisando a
+       representatividade, a significância e a confiabilidade dos resultados obtidos.
+
+       É responsável pela coleta,             É responsável por estabelecer o   É responsável pela análise e
+  organização, descrição e resumo dos        modelo matemático adotado para      interpretação dos dados.
+           dados observados.                  explicar fenômenos aleatórios.
+
+        Receita Federal (Analista Tributário) Estatística                                                      3
+        www.estrategiaconcursos.com.br                                                                         38
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                        CONCEITOS INICIAIS
+Alguns conceitos iniciais da estatística costumam ser abordados em provas de concursos públicos,
+dentre os quais podemos citar:
+
+   •   População: conjunto que contém todos os indivíduos, objetos ou elementos a serem
+       estudados, que apresentam uma ou mais características em comum. A população pode ser
+       finita, quando apresenta um número pequeno ou limitado de observações; ou infinita,
+       quando apresenta um número muito grande ou ilimitado de observações.
+
+   •   Amostra: subconjunto extraído da população para análise, devendo ser representativo
+       daquele grupo. A partir das informações colhidas da amostra, os resultados obtidos podem
+       ser utilizados para generalizar, inferir ou tirar conclusões acerca da população.
+
+   •   Censo (ou recenseamento): estudo dos dados relativos a todos os elementos de uma
+       população. O censo pode custar muito caro e demandar um tempo considerável, de forma
+       que um estudo considerando apenas uma parcela da população pode ser uma alternativa
+       mais simples, rápida e menos onerosa.
+
+   •   Amostragem: processo que consiste na seleção criteriosa dos elementos a serem
+       submetidos à investigação. Se forem cometidos erros no processo de seleção da amostra,
+       muito provavelmente, o estudo ficará comprometido e os resultados serão tendenciosos.
+       Portanto, devemos garantir que a amostra seja representativa da população.
+
+   •   Parâmetros: descrições numéricas de características populacionais que raramente são
+       conhecidas. Em geral, é muito caro ou demorado obter os dados da população inteira.
+       Assim, algumas medidas precisam ser estimadas a partir de critérios ou métodos definidos
+       pelo pesquisador, para representar características desconhecidas de uma população.
+       Normalmente, os parâmetros populacionais são constantes para uma população.
+
+   •   Estatística (ou estimador): medidas numéricas obtidas de amostras representativas
+       extraídas da população. A partir das informações colhidas da amostra, as estatísticas
+       amostrais podem ser utilizadas para inferir ou tirar conclusões acerca dos parâmetros
+       populacionais, como a proporção de homens e mulheres na população brasileira.
+
+        Receita Federal (Analista Tributário) Estatística                                     4
+        www.estrategiaconcursos.com.br                                                       38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+        MÉTODO EXPERIMENTAL X MÉTODO ESTATÍSTICO
+Para a investigação de um fenômeno, temos a nossa disposição dois métodos:
+
+   •   Método Experimental: consiste em manter constantes as causas (fatores), com exceção de
+       uma, que é variada para que seus efeitos sejam descobertos. Contudo, nem sempre
+       poderemos aplicar o método experimental, pois os fatores que afetam um fenômeno
+       podem não permanecer constantes enquanto variamos a causa que nos interessa. Por
+       exemplo, para analisarmos a queda nas vendas de uma empresa que produz chocolates,
+       teríamos que considerar vários fatores que não necessariamente permanecerão constantes
+       durante toda a investigação do fenômeno, tais como o fluxo de turistas na localidade; a
+       temperatura média; o preço do concorrente; etc.
+
+   •   Método Estatístico: admite e registra todas as possíveis variações das causas presentes,
+       procurando determinar a influência de cada fator no resultado final. Dessa forma, o método
+       estatístico busca descobrir relações entre os fatores, como, por exemplo, a influência da
+       temperatura média e do fluxo de turistas na venda de chocolates.
+
+              As CAUSAS são mantidas CONSTANTES,                Admite e REGISTRA TODAS AS POSSÍVEIS
+             COM EXCEÇÃO DE UMA, que é VARIADA                    VARIAÇÕES DAS CAUSAS PRESENTES,
+             para que seus efeitos sejam descobertos.            procurando determinar a influência de
+                                                                        cada fator no resultado.
+
+        Receita Federal (Analista Tributário) Estatística                                                5
+        www.estrategiaconcursos.com.br                                                                   38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                      DADOS ESTATÍSTICOS
+Os dados estatísticos constituem os valores resultantes do processo de coleta de dados. Os dados
+referem-se a um conjunto de valores, observações de um fenômeno de interesse, que
+denominamos de variável. Eles são organizados por meio de variáveis (a característica está sendo
+medida) e observações (elementos da amostra/população).
+
+Uma variável é um atributo cujo valor pode variar de uma unidade de investigação para outra. Por
+exemplo, a unidade de investigação pode ser um morador de uma determinada cidade e a variável
+a sua altura. As observações são os valores assumidos por uma variável em uma das unidades
+investigadas.
+                                                            ==219a34==
+
+Com relação ao número de observações coletadas, os dados são classificados em univariados,
+bivariados ou multivariados:
+
+   a) dados univariados: quando uma única observação de cada unidade de investigação é
+       registrada. Por exemplo: peso;
+
+   b) dados bivariados: quando duas observações de cada unidade de investigação são
+       registradas. Por exemplo: peso e altura;
+
+   c) dados multivariados: quando mais de duas observações acerca de cada unidade de
+       investigação são registradas. Por exemplo: peso, altura, sexo e idade.
+
+Quanto à forma de apresentação, os dados podem ser classificados em dados brutos ou rol.
+
+Dados Brutos
+Os dados brutos são aqueles que não foram numericamente organizados em ordem crescente ou
+decrescente, ou seja, estão na forma como foram coletados. A tabela na qual os elementos não
+aparecem numericamente ordenados é denominada de tabela primitiva. Em geral, ela oferece
+pouca ou nenhuma informação ao leitor, sendo necessária uma organização dos dados, a fim de
+torná-los mais expressivos.
+
+Rol
+O rol é a organização dos dados brutos em ordem de grandeza crescente ou decrescente. Com
+os dados organizados em rol, podemos saber, com facilidade, qual o menor e o maior elemento
+de um conjunto de dados.
+
+        Receita Federal (Analista Tributário) Estatística                                     6
+        www.estrategiaconcursos.com.br                                                       38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                  VARIÁVEIS ESTATÍSTICAS
+A variável estatística consiste no conjunto de características que desejamos averiguar
+estatisticamente, podendo ser definida como o objeto da pesquisa estatística. As variáveis
+estatísticas podem ser classificadas em duas categorias: qualitativas e quantitativas.
+
+Variáveis Qualitativas
+
+As variáveis qualitativas (ou categóricas) são as características que não podem ser descritas de
+forma numérica, mas que podem ser definidas por meio de qualidades (atributos ou categorias)
+do indivíduo pesquisado. Elas podem ser classificadas em nominais ou ordinais:
+                                                            ==219a34==
+
+  a) variável qualitativa nominal, as possíveis categorias não podem ser ordenadas. Por exemplo,
+  a cor dos olhos dos moradores de uma determinada cidade (pretos, castanhos, azuis e verdes);
+
+  b) variável qualitativa ordinal, as possíveis categorias podem ser ordenadas de alguma forma.
+  Por exemplo, o grau de instrução dos funcionários de um determinado órgão (fundamental,
+  médio, superior).
+
+Variáveis Quantitativas
+
+As variáveis quantitativas são características que podem ser descritas em termos de quantidades
+(valores numéricos), obtidas por meio de contagem ou mensuração. Elas podem ser classificadas
+em discretas e contínuas:
+
+  a) variáveis quantitativas discretas, os possíveis valores formam um conjunto finito ou
+  enumerável de números e, geralmente, resultam de um processo de contagem. O número de
+  ocorrências da característica em análise pode ser contado. Por exemplo, número de leitos
+  disponíveis em um município.
+
+  b) variáveis quantitativas contínuas, os possíveis valores formam um intervalo de números reais
+  e, normalmente, resultam de um processo de mensuração. A característica pode ser medida
+  em uma escala contínua, a qual podem ser associados um número infinito de possíveis valores.
+  Por exemplo, altura dos habitantes de uma cidade.
+
+        Receita Federal (Analista Tributário) Estatística                                      7
+        www.estrategiaconcursos.com.br                                                        38
+
+                                      
+
+
+---
+
+Equipe Exatas Estratégia Concursos
+Aula 00
+
+                                                           Os    resultados    obtidos       não      podem   ser
+                                                           ordenados/hierarquizados.
+                                           Nominais
+
+                                                           Ex: cor dos olhos; esporte praticado.
+
+
+                    Qualitativas
+
+                                                           Os     resultados      obtidos            podem    ser
+                                                           ordenados/hierarquizados.
+                                            Ordinais
+
+                                                           Ex: nível de escolaridade.
+
+Variáveis
+
+
+                                                           Os possíveis valores formam um conjunto finito ou
+                                                           enumerável; resultam de contagem.
+                                           Discretas
+
+                                                           Ex: número de leitos por cidade; idade.
+
+
+                   Quantitativas
+
+                                                           Os possíveis valores formam um intervalo de números
+                                                           reais; resultam de mensuração.
+                                           Contínuas
+
+                                                           Ex: peso; altura.
+
+      Receita Federal (Analista Tributário) Estatística                                                         8
+      www.estrategiaconcursos.com.br                                                                           38
+
+                                    
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                       SÉRIES ESTATÍSTICAS
+Uma série estatística consiste em um conjunto de dados organizado com base em uma
+característica comum, ou seja, uma mesma variável. Ela normalmente é representada por meio de
+tabelas ou gráficos, conforme ficar melhor representada, a fim de sintetizar os dados estatísticos
+observados e torná-los mais compreensíveis.
+
+Uma tabela é um quadro que resume um conjunto de observações, sendo composta de:
+
+   a) corpo – conjunto de linhas e colunas com as informações sobre a variável em estudo;
+   b) cabeçalho – parte superior que especifica o conteúdo das colunas;
+   c) coluna indicadora – parte que indica o conteúdo das linhas;
+   d) linhas – traços que facilitam a leitura dos dados;
+   e) célula – espaço onde os dados são armazenados;
+   f) título – identificação da tabela, contendo as informações sobre seu conteúdo;
+   g) fonte – referência de onde os dados foram obtidos, localizada no rodapé.
+
+Um gráfico é uma forma clara e objetiva de
+apresentar uma série estatística. Seu objetivo é
+proporcionar uma compreensão mais rápida do
+fenômeno em estudo. O gráfico deve ser destituído
+de detalhes sem importância (ser simples); permitir
+a correta intepretação dos valores representativos
+do fenômeno (ser claro); e transmitir a verdade
+sobre o fenômeno (ser verossímil). A tabela anterior
+pode ser representada por meio do gráfico ao lado.
+
+Finalmente, podemos verificar a presença de três elementos nas séries estatística: o tempo, o
+espaço e a espécie. Conforme os elementos variem, a série pode ser classificada em três
+categorias: temporal (ou cronológica), geográfica (ou territorial) e específica.
+
+        Receita Federal (Analista Tributário) Estatística                                       9
+        www.estrategiaconcursos.com.br                                                         38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+Séries Temporais (ou Cronológicas)
+
+É a série cujos dados são dispostos segundo a                            População brasileira no período de 1970 a
+época de ocorrência. Enquanto o tempo varia, o                                        2010 (x1000)
+
+fato e o local permanecem constantes. Também                                     Anos         População
+são chamadas de séries históricas ou evolutivas.                                 1970          93.134
+                                                                                 1980          119.011
+A principal característica é o fator cronológico
+                                                                                 1991          146.825
+variável. Ao lado temos a série histórica da
+                                                                                 2000          169.799
+população residente no Brasil no período de                                      2010          190.755
+1970 a 2010, com frequência decenal.                                         Fonte: Censo Demográfico (2010)
+
+Séries Geográficas (ou Territoriais)                        ==219a34==
+
+É a série cujos dados são dispostos segundo a                               População Urbana em 2010 (x1000)
+localidade de ocorrência. Enquanto o local varia,                                Região              População
+o fato e o tempo permanecem constantes.                                           Norte               11.664
+Também são chamadas de séries espaciais ou de                                   Nordeste              38.821
+localização. A principal característica é o fator                                Sudeste              74.696
+                                                                                    Sul               23.260
+geográfico variável. Ao lado temos a série
+                                                                               Centro-Oeste           12.482
+geográfica da população urbana residente em
+                                                                             Fonte: Censo Demográfico (2010)
+cada uma das regiões brasileiras no ano de 2010.
+
+Séries Específicas
+
+É a série cujos dados são dispostos segundo a                            População Urbana e Rural em 2010 (x1000)
+modalidade de ocorrência. Enquanto o fato                                          Zona       População
+varia, a época e o local permanecem constantes.                                   Urbana        93.134
+Também são chamadas de séries categóricas. A                                       Rural       119.011
+principal característica é o fator especificativo                                  Total       190.755
+                                                                             Fonte: Censo Demográfico (2010)
+variável. Ao lado temos uma série específica das
+populações urbana e rural residentes no Brasil no
+ano de 2010.
+
+        Receita Federal (Analista Tributário) Estatística                                                            10
+        www.estrategiaconcursos.com.br                                                                               38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+Séries Mistas (ou Compostas)
+
+Muitas vezes, podemos ter a necessidade de apresentar, em uma única tabela, a variação de
+valores de mais de uma variável, isto é, combinar duas ou mais séries. As séries resultantes desse
+processo de combinação são chamadas de séries mistas (ou compostas) e apresentadas por meio
+de tabelas de dupla entrada.
+
+O nome da nova série deve levar em População do Brasil por Sexo de 1970 a 2010 (x1000)
+consideração pelo menos dois elementos. Assim,                 Sexo
+                                                  Anos
+                                                         Homens Mulheres
+se for uma série mista de fato e tempo,
+                                                  1970 46.327      46.807
+denominaremos de série específico-temporal.       1980 59.142      59.868
+Ao lado temos uma série específico-temporal       1991 72.485      74.340
+representando as populações de homens e           2000   83.602    86.270
+mulheres residentes no brasil, no período de      2010 93.406      97.348
+                                               Fonte: Censo Demográfico (2010)
+1970 a 2010, com variação decenal.
+
+Por sua vez, se tivermos uma série mista de local População do Brasil por Região de 1970 a 2010 (x1000)
+e tempo, denominaremos de série geográfica- Anos                            Regiões
+                                                             N         NE      SE       S        CO
+temporal. Ao lado temos uma série geográfico-
+                                                    1970 3.603 28.111 39.850 16.496 5.072
+temporal     representando     as    populações 1980 5.880 34.815 51.737 19.031 7.545
+residentes em cada região brasileira, no período 1991 10.030 42.497 62.740 22.129 9.427
+de 1970 a 2010, com variação decenal.               2000 12.900 47.741 72.412 25.107 11.636
+                                                              2010   15.864 53.081 80.364 27.386 14.058
+                                                                      Fonte: Censo Demográfico (2010)
+
+
+Por fim, devemos notar que podem existir séries compostas de três ou mais entradas, embora isso
+raramente aconteça, por conta da dificuldade de representação.
+
+        Receita Federal (Analista Tributário) Estatística                                                 11
+        www.estrategiaconcursos.com.br                                                                    38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                           DISTRIBUIÇÃO DE FREQUÊNCIAS
+Logo após a coleta de dados, temos o que chamamos de dados brutos. Os dados brutos fornecem
+pouca informação ao leitor, sendo necessário organizá-los. A simples organização dos dados em
+um rol crescente já ajuda bastante nesse sentido. Por exemplo, com os dados organizados em rol,
+facilmente identificamos os valores mínimo e máximo do conjunto de dados.
+
+                                                     Rol Crescente
+                                             85     115 129 143 161
+                                             89     115 129 143 165
+                                             96     123 134 148 168
+                                             98     123 135 153 170
+                                             99     124 135 154 171
+                                             103 126 135 155 171
+                                             104 126 137 157 171
+                                             105 126 137 158 173
+                                             113 127 137 159 175
+                                             114 128 142 161 175
+
+Outra informação que conseguimos extrair dos dados organizados em rol crescente é que alguns
+tempos, como 126 min, 135 min, 137 min e 171 min, foram mais frequentes, ou seja, apareceram
+mais vezes durante a pesquisa.
+Uma maneira mais concisa de mostrar os dados do rol é apresentar cada valor juntamente com o
+número de ocorrências (frequência), em vez de repeti-los. A tabela que contém todos os valores
+com suas respectivas frequências é denominada de distribuição de frequências.
+Uma distribuição de frequências também pode ser definida como uma série estatística na qual
+permanecem constantes o fato, o local e a época. Ela pode ser classificada em dois tipos: pontual
+(ou discreta) e intervalar (ou contínua).
+Na distribuição de frequências pontual, são apresentados todos os dados coletados juntamente
+com suas respectivas frequências, não havendo perda de valores. Esse processo pode exigir muito
+espaço, especialmente quando o número de valores da variável tende a aumentar.
+
+     Tempo                         Tempo                      Tempo                Tempo
+                     Freq.                         Freq.                   Freq.            Freq.
+      (min)                         (min)                      (min)                (min)
+
+        85             1             114              1         135         3       158      1
+        89             1             115              2         137         3       159      1
+        96             1             123              2         142         1       161      2
+        98             1             124              1         143         2       165      1
+        99             1             126              3         148         1       168      1
+
+        Receita Federal (Analista Tributário) Estatística                                           12
+        www.estrategiaconcursos.com.br                                                              38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+       103             1             127              1         153              1         170         1
+       104             1             128              1         154              1         171         3
+       105             1             129              2         155              1         173         1
+       113             1             134              1         157              1         175         2
+
+Quando a variável é contínua, o mais recomendável é agrupar os valores por intervalos de classe.
+Em vez de listar cada um dos valores, utilizamos uma distribuição de frequências intervalar,
+apresentando os intervalos de classe e as frequências correspondentes. Dessa forma, perdemos a
+informação detalhada dos tempos médios, mas ganhamos em termos de praticidade,
+simplificando o processo de análise de dados:
+
+                                        Tempo médio (𝑿𝒊 )     Frequência (𝒇𝒊 )
+                                           𝟖𝟓 ≤ 𝒙 < 𝟏𝟎𝟎               5
+                                           𝟏𝟎𝟎 ≤ 𝒙 < 𝟏𝟏𝟓              5
+                                           𝟏𝟏𝟓 ≤ 𝒙 < 𝟏𝟑𝟎              12
+                                           𝟏𝟑𝟎 ≤ 𝒙 < 𝟏𝟒𝟓              10
+                                           𝟏𝟒𝟓 ≤ 𝒙 < 𝟏𝟔𝟎              7
+                                           𝟏𝟔𝟎 ≤ 𝒙 < 𝟏𝟕𝟓              9
+                                           𝟏𝟕𝟓 ≤ 𝒙 < 𝟏𝟗𝟎              2
+
+Para identificar uma classe, temos que conhecer os valores dos limites inferior e superior da classe,
+que delimitam um intervalo de classe. Desse modo, precisamos definir a natureza do intervalo de
+classe, se aberto ou fechado. Portanto, temos as seguintes notações para os diferentes tipos de
+intervalos:
+
+                                            Notação          Notação
+            Tipo de Intervalo                                                         Significado
+                                           matemática       estatística
+                                                                           Engloba todos os elementos entre 𝑎
+            Intervalo aberto                𝑎<𝑥<𝑏
+                                                                           e 𝑏, mas não engloba 𝑎 nem 𝑏.
+   Intervalo fechado à esquerda                                            Engloba todos os elementos entre 𝑎
+                                            𝑎≤𝑥<𝑏
+         e aberto à direita                                                e 𝑏, inclusive 𝑎 mas não 𝑏.
+   Intervalo aberto à esquerda e                                           Engloba todos os elementos entre 𝑎
+                                            𝑎<𝑥≤𝑏
+          fechado à direita                                                e 𝑏, inclusive 𝑏 mas não 𝑎.
+                                                                           Engloba todos os elementos entre 𝑎
+            Intervalo fechado               𝑎≤𝑥≤𝑏
+                                                                           e 𝑏, inclusive 𝑎 e 𝑏.
+
+
+Em análises estatísticas, é comum encontramos distribuições de frequências intervalares, pois o
+objetivo da estatística é justamente fazer um apanhado geral das características de um conjunto
+de dados, sem adentrar em detalhes de casos particulares.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                       13
+        www.estrategiaconcursos.com.br                                                                          38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+Elementos de uma Distribuição de Frequências
+
+Agora, analisaremos cada elemento de uma distribuição de frequências, tomando como referência
+a tabela apresentada anteriormente:
+
+                                        Tempo médio (𝑿𝒊 )     Frequência (𝒇𝒊 )
+                                          𝟖𝟓 ≤ 𝒙 < 𝟏𝟎𝟎               5
+                                          𝟏𝟎𝟎 ≤ 𝒙 < 𝟏𝟏𝟓              5
+                                          𝟏𝟏𝟓 ≤ 𝒙 < 𝟏𝟑𝟎             12
+                                          𝟏𝟑𝟎 ≤ 𝒙 < 𝟏𝟒𝟓             10
+                                          𝟏𝟒𝟓 ≤ 𝒙 < 𝟏𝟔𝟎              7
+                                          𝟏𝟔𝟎 ≤ 𝒙 < 𝟏𝟕𝟓              9
+                                          𝟏𝟕𝟓 ≤ 𝒙 < 𝟏𝟗𝟎              2
+
+Classe
+As classes são os intervalos nos quais o fenômeno é subdividido. Podemos dizer que as classes
+são os intervalos ou subdivisões dos elementos que compõem um conjunto de dados. Na tabela
+anterior, a primeira classe é representada pelo intervalo 85 ≤ 𝑥 < 100; a segunda, pelo intervalo
+100 ≤ 𝑥 < 115, e assim sucessivamente.
+Existem duas maneiras de determinar o número "ideal" de classes, 𝑘, em função do número de
+dados da tabela, 𝑛. A primeira consiste em utilizar a fórmula de Sturges: 𝑘 = 1 + 3,3 × 𝑙𝑜𝑔 𝑛. A
+outra, utilizada quando o número de dados é menor ou igual a 50, é por meio da fórmula: 𝑘 = √𝑛.
+
+
+Limite de Classe
+Cada classe tem um limite inferior de classe (𝒍𝒊𝒏𝒇 ), que é o menor número que pode pertencer à
+classe, e um limite superior de classe (𝒍𝒔𝒖𝒑 ), que é o maior número que pode pertencer à classe.
+Os limites de uma classe são seus valores extremos. Por exemplo, o limite inferior da primeira
+classe é 85, enquanto o limite superior é 100.
+
+
+Amplitude de um Intervalo de Classe
+A amplitude de um intervalo de classe, ou simplesmente intervalo de classe, é a diferença entre
+os limites inferiores (ou superiores) de classes consecutivas: ℎ = 𝑙𝑠𝑢𝑝 − 𝑙𝑖𝑛𝑓 , em que 𝑙𝑖𝑛𝑓 é o limite
+inferior do intervalo de classe e 𝑙𝑠𝑢𝑝 é o limite superior do intervalo de classe. Embora desejável,
+a amplitude do intervalo de classe nem sempre será constante ao longo de toda a distribuição de
+frequências intervalar. Para exemplificar, a amplitude da primeira classe é 100 − 85 = 15.
+
+        Receita Federal (Analista Tributário) Estatística                                           14
+        www.estrategiaconcursos.com.br                                                              38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+Amplitude Total
+A amplitude total é a diferença entre o limite superior da última classe (limite superior máximo) e
+o limite inferior da primeira classe (limite inferior mínimo): 𝐴𝑇 = 𝑙𝑚á𝑥 − 𝑙𝑚í𝑛 . Quando todas as
+classes possuem a mesma amplitude, também podemos determinar o valor da amplitude total
+multiplicando o valor do intervalo de classe (ℎ) pela quantidade de classes da distribuição (𝑘): 𝐴𝑇 =
+ℎ × 𝑘. Em nosso exemplo, a amplitude total é calculada da seguinte maneira: 𝐴𝑇 = 𝑙𝑚á𝑥 − 𝑙𝑚í𝑛 =
+190 − 85 = 105.
+
+Ponto médio de classe
+O ponto médio é a média aritmética simples dos valores extremos de uma classe, ou seja, a soma
+dos limites inferior e superior dividida por dois: 𝑃𝑀 = (𝑙𝑖𝑛𝑓 + 𝑙𝑠𝑢𝑝 )⁄2. Esse ponto também costuma
+ser chamado de marca ou representante da classe. Para praticar, vamos calcular os pontos médios
+                                                            ==219a34==
+
+de nossa distribuição de frequências: 𝑃𝑀 = (𝑙𝑖𝑛𝑓 + 𝑙𝑠𝑢𝑝 )⁄2 = (85 + 100)⁄2 = 92,5.
+
+
+Frequência
+Ao longo dessa aula, em várias oportunidades abordamos conceitos relacionados à frequência,
+isto é, ao número de ocorrências de um determinado valor ou de uma certa classe. Esse conceito
+é de grande relevância para a estatística descritiva e deve ser estudado de forma mais
+aprofundada. Existem quatro tipos de frequência, os quais serão analisados nas subseções
+seguintes:
+       a) frequência absoluta simples (𝑓𝑖 );
+       b) frequência absoluta acumulada (𝑓𝑎𝑐 );
+       c) frequência relativa simples (𝐹𝑖 );
+       d)frequência relativa acumulada (𝐹𝑎𝑐 ).
+
+
+Frequência Absoluta Simples
+A frequência absoluta simples corresponde ao número de observações correspondentes a uma
+determinada classe ou a um determinado valor. A frequência simples é simbolizada por 𝑓𝑖 . Para a
+tabela em análise, temos que a frequência absoluta da primeira classe é 𝑓1 = 5; da segunda classe
+é 𝑓2 = 5.
+A soma de todas as frequências corresponde ao número total de dados analisados: ∑𝑘𝑖=1 𝑓𝑖 = 𝑛,
+sendo que a notação ∑𝑘𝑖=1 𝑓𝑖 representa o somatório das frequências de cada uma das 𝑘 classes.
+Para o exemplo, temos:
+               7
+
+              ∑ 𝑓𝑖 = 𝑓1 + 𝑓2 + 𝑓3 + 𝑓4 + 𝑓5 + 𝑓6 + 𝑓7 = 5 + 5 + 12 + 10 + 7 + 9 + 2 = 50
+              𝑖=1
+
+        Receita Federal (Analista Tributário) Estatística                                         15
+        www.estrategiaconcursos.com.br                                                            38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+Frequência Absoluta Acumulada
+A frequência absoluta acumulada crescente (𝑓𝑎𝑐 ) é a soma das frequências de todos os valores
+inferiores ao limite superior do intervalo de uma determinada classe: 𝑓𝑎𝑐 𝑖 = 𝑓1 + 𝑓2 + 𝑓3 + ⋯ + 𝑓𝑖 .
+No exemplo anterior, a frequência acumulada correspondente à quarta classe é: 𝑓𝑎𝑐 4 = 𝑓1 + 𝑓2 +
+𝑓3 + 𝑓4 = 5 + 5 + 12 + 10 = 32, significando que 32 alunos estudam por um período igual ou
+superior a 85 minutos e inferior a 145 minutos (limite superior da quarta classe).
+
+
+Frequência Relativa Simples
+A frequência relativa simples corresponde à proporção de dados existentes em uma determinada
+classe. Para calcular a frequência relativa de uma classe, dividimos a frequência absoluta simples
+                                                                           𝑓       𝑓
+𝑓𝑖 pela frequência total (isto é, dividimos a parte pelo todo): 𝐹𝑖 = ∑ 𝑓𝑖 = 𝑛𝑖 . Em nosso exemplo, a
+                                                                               𝑖
+                                                        5                              5
+frequência relativa da primeira classe é 𝐹1 = 50 = 0,10; e da segunda classe, 𝐹2 = 50 = 0,10. A soma
+de todas as frequências relativas deve ser igual a 100%:
+
+
+Frequência Relativa Acumulada
+A frequência relativa acumulada crescente (𝐹𝑎𝑐 ) é a proporção de valores inferiores ao limite
+superior do intervalo de uma dada classe: 𝐹𝑎𝑐 𝑖 = 𝐹1 + 𝐹2 + 𝐹3 + ⋯ + 𝐹𝑖 . No exemplo anterior,
+a frequência acumulada correspondente à quarta classe é: 𝐹𝑎𝑐 4 = 𝐹1 + 𝐹2 + 𝐹3 + 𝐹4 = 10% + 10% +
+24% + 20% = 64%, significando que 64% dos alunos estudam por um período igual ou superior a
+85 minutos e inferior a 145 minutos (limite superior da quarta classe).
+
+
+Densidade de Frequência
+A densidade de frequência de uma classe consiste no quociente entre a frequência da classe
+                                                            𝑓
+(absoluta ou relativa) e sua amplitude: 𝑑𝑖 = 𝑖 . Para a primeira classe do nosso exemplo, a
+                                                            ℎ𝑖
+                                        𝑓      5
+densidade de frequência é 𝑑1 = ℎ1 = 15 = 0,33
+                                         1
+
+        Receita Federal (Analista Tributário) Estatística                                         16
+        www.estrategiaconcursos.com.br                                                            38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+     REPRESENTAÇÕES GRÁFICAS DAS DISTRIBUIÇÕES DE
+                     FREQUÊNCIA
+Gráfico de Hastes ou Bastões
+
+O gráfico de hastes ou bastões é muito utilizado para representar dados não agrupados em
+classes, o que normalmente ocorre com dados discretos. Nesse caso, não há perda de informação
+pois os valores da variável aparecem individualmente, conforme constam da amostra. Com relação
+a sua construção, basta representarmos as frequências simples absolutas ou relativas de cada
+elemento do conjunto de dados.
+
+
+            𝑿𝒊      Frequência (𝒇𝒊 )
+
+            0                4
+            1               10
+            2               25
+            3               15
+            4               10
+            5                5
+            6                1
+
+
+Repare que podemos reconstruir facilmente a tabela de frequências a partir do gráfico de hastes.
+De igual modo, conhecendo a tabela de frequências, podemos construir rapidamente o gráfico
+de hastes.
+
+Histogramas
+
+O histograma é um gráfico destinado a representar dados agrupados em classes, sendo composto
+por um conjunto de retângulos contíguos (justapostos) cujas bases estão situadas sobre o eixo
+horizontal (eixo x), de forma que os seus pontos médios devem coincidir com os pontos médios
+dos intervalos de classe e seus limites devem coincidir com os limites da classe.
+
+A quantidade de retângulos em um histograma é equivalente ao número de intervalos de classe.
+A largura de cada retângulo deve ser igual à amplitude do intervalo de classe, enquanto a altura
+precisa ser proporcional à frequência do intervalo de classe. Além disso, a área do histograma é
+proporcional ao somatório das frequências.
+
+
+        Receita Federal (Analista Tributário) Estatística                                    17
+        www.estrategiaconcursos.com.br                                                       38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+     Tempo médio (𝑿𝒊 )            Frequência (𝒇𝒊 )
+
+       𝟖𝟓 ≤ 𝒙 < 𝟏𝟎𝟎                      5
+       𝟏𝟎𝟎 ≤ 𝒙 < 𝟏𝟏𝟓                     5
+       𝟏𝟏𝟓 ≤ 𝒙 < 𝟏𝟑𝟎                    12
+       𝟏𝟑𝟎 ≤ 𝒙 < 𝟏𝟒𝟓                    10
+       𝟏𝟒𝟓 ≤ 𝒙 < 𝟏𝟔𝟎                     7
+       𝟏𝟔𝟎 ≤ 𝒙 < 𝟏𝟕𝟓                     9
+       𝟏𝟕𝟓 ≤ 𝒙 < 𝟏𝟗𝟎                     2
+
+
+A diferença visual entre um histograma e um gráfico de colunas (estudaremos na próxima seção)
+é a inexistência de separação entre os retângulos adjacentes. Dito isso, é importante
+mencionarmos a existência do gráfico denominado de poligonal característica, que construímos
+utilizando apenas os contornos do histograma.
+
+Por fim, o histograma pode ocasionar um certo nível de perda de informações, pois os elementos
+da distribuição de frequência não são representados de forma individualizada, mas sim por meio
+de suas classes.
+
+Polígono de Frequências
+
+O polígono de frequências é um gráfico em linha obtido por meio da ligação, por segmentos de
+reta, dos pontos médios das bases superiores dos retângulos de um histograma. Também é
+necessário considerar a existência de uma classe anterior à primeira e outra posterior à última,
+ambas com a frequência nula.
+
+Assim como o histograma, o polígono de frequências apresenta área proporcional ao somatório
+das frequências.
+
+        Receita Federal (Analista Tributário) Estatística                                    18
+        www.estrategiaconcursos.com.br                                                       38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                             Ponto
+            Tempo médio                Frequência
+                             médio
+                (𝑿𝒊 )                      (𝒇𝒊 )
+                             (𝑷𝑴𝒊 )
+             𝟕𝟎 ≤ 𝒙 < 𝟖𝟓      77,5          0
+
+            𝟖𝟓 ≤ 𝒙 < 𝟏𝟎𝟎      92,5          5
+
+            𝟏𝟎𝟎 ≤ 𝒙 < 𝟏𝟏𝟓    107,5          5
+
+            𝟏𝟏𝟓 ≤ 𝒙 < 𝟏𝟑𝟎    122,5         12
+
+            𝟏𝟑𝟎 ≤ 𝒙 < 𝟏𝟒𝟓    137,5         10
+
+            𝟏𝟒𝟓 ≤ 𝒙 < 𝟏𝟔𝟎    152,5          7
+
+            𝟏𝟔𝟎 ≤ 𝒙 < 𝟏𝟕𝟓    167,5          9
+
+            𝟏𝟕𝟓 ≤ 𝒙 < 𝟏𝟗𝟎    182,5          2
+            𝟏𝟗𝟎 ≤ 𝒙 < 𝟐𝟎𝟓    197,5          0
+
+Curva de Frequências
+
+A curva de frequências é obtida a partir do polimento de um polígono de frequências. Em sentido
+geométrico, o polimento corresponde à eliminação dos vértices (cantos) da linha poligonal. Esse
+processo suaviza os contornos do polígono de frequências, o que evidencia a verdadeira natureza
+dos dados em análise.
+
+O polígono de frequências fornece a imagem real do fenômeno investigado, enquanto a curva de
+frequência mostra sua tendência. Naturalmente, quando o conjunto de dados é grande, a linha
+poligonal se torna curva. Por isso, podemos afirmar que a curva de frequência antecipa o
+comportamento da distribuição para um número maior de dados.
+
+O processo de polimento é realizado por meio da seguinte fórmula:
+
+
+                                                    𝒇𝒂𝒏𝒕 + 𝟐 × 𝒇𝒊 + 𝒇𝒑𝒐𝒔𝒕
+                                         𝒇𝒄𝒊 =
+                                                             𝟒
+
+em que 𝑓𝑐𝑖 é a frequência calculada da classe considerada (freq. polida); 𝑓𝑖 é a frequência simples
+da classe considerada; 𝑓𝑎𝑛𝑡 é a frequência simples da classe anterior à da classe considerada; e
+𝑓𝑝𝑜𝑠𝑡 é a frequência simples da classe posterior à da classe considerada.
+
+Vejamos como utilizá-la:
+
+        Receita Federal (Analista Tributário) Estatística                                       19
+        www.estrategiaconcursos.com.br                                                          38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                Ponto
+   Tempo                  Frequência
+                médio                     Frequência Calculada (𝒇𝒄𝒊 )
+  médio (𝑿𝒊 )                 (𝒇𝒊 )
+                (𝑷𝑴𝒊 )
+
+   𝟕𝟎 ≤ 𝒙                                         0+2×0+5
+                 77,5         0           𝑓𝑐0 =           = 1,25
+   < 𝟖𝟓                                              4
+   𝟖𝟓 ≤ 𝒙                                      0+2×5+5
+                 92,5         5           𝑓𝑐1 =              = 3,75
+   < 𝟏𝟎𝟎                                             4
+   𝟏𝟎𝟎 ≤ 𝒙                                     5 + 2 × 5 + 12
+                107,5         5          𝑓𝑐2 =                = 6,75
+   < 𝟏𝟏𝟓                                             4
+   𝟏𝟏𝟓 ≤ 𝒙                                       5 + 2 × 12 + 10
+                122,5         12         𝑓𝑐3 =                   = 9,75
+   < 𝟏𝟑𝟎                                                4
+   𝟏𝟑𝟎 ≤ 𝒙                                       12 + 2 × 10 + 7
+                137,5         10         𝑓𝑐4 =                   = 9,75
+   < 𝟏𝟒𝟓                                                4
+   𝟏𝟒𝟓 ≤ 𝒙                                        10 + 2 × 7 + 9
+                152,5         7          𝑓𝑐5 =                   = 8,75
+   < 𝟏𝟔𝟎                                                4
+                                                             ==219a34==
+
+   𝟏𝟔𝟎 ≤ 𝒙                                      7+2×9+2
+                167,5         9           𝑓𝑐6 =         = 6,75
+   < 𝟏𝟕𝟓                                           4
+   𝟏𝟕𝟓 ≤ 𝒙                                        9+2×2+0
+                182,5         2           𝑓𝑐7 =           = 3,25
+   < 𝟏𝟗𝟎                                             4
+   𝟏𝟗𝟎 ≤ 𝒙                                        2+2×0+0
+                197,5         0           𝑓𝑐8 =           = 0,50
+   < 𝟐𝟎𝟓                                             4
+
+
+As curvas de frequências podem assumir as seguintes formas características:
+
+a) curvas em forma de sino: são curvas que apresentam concentração de valores em torno da
+região central da distribuição, podendo ser simétricas ou assimétricas. Quando assimétricas, as
+curvas ainda podem apresentar uma cauda mais alongada à esquerda (assimetria à esquerda) ou
+mais alongada à direita (assimetria à direita). Vejamos as possíveis configurações:
+
+      Curva assimétrica à direita.                       Curva Simétrica.              Curva assimétrica à esquerda.
+
+
+b) curvas em forma de jota: são curvas que apresentam o ponto de ordenada máxima em uma das
+extremidades, representando distribuições extremamente assimétricas. As possíveis
+configurações são:
+
+                 Curva em formato de J.                                     Curva em formato de J invertido.
+
+         Receita Federal (Analista Tributário) Estatística                                                             20
+         www.estrategiaconcursos.com.br                                                                                38
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+c) curvas em forma de U: são curvas que apresentam as ordenadas máximas em ambas as
+extremidades.
+
+                                                  Curva em formato de U.
+
+Ogiva (Polígono de Frequências Acumuladas)
+
+O gráfico de ogiva corresponde a um polígono de frequências acumuladas. Esse gráfico é
+empregado na representação de distribuições de frequências acumuladas, sejam elas crescentes
+ou decrescentes. No eixo horizontal, colocamos as extremidades de cada classe e no eixo vertical
+as frequências acumuladas.
+
+Ao contrário do polígono de frequências, a ogiva utiliza os pontos extremos das classes, e não os
+pontos médios. Na construção do polígono de frequências acumuladas, devemos considerar a
+existência de uma classe anterior à primeira, com frequência nula.
+
+                                         Frequência
+      Tempo médio       Frequência
+                                         Acumulada
+          (𝑿𝒊 )             (𝒇𝒊 )
+                                            (𝒇𝒂𝒄 )
+
+       𝟕𝟎 ≤ 𝒙 < 𝟖𝟓           0                0
+
+      𝟖𝟓 ≤ 𝒙 < 𝟏𝟎𝟎           5                5
+
+      𝟏𝟎𝟎 ≤ 𝒙 < 𝟏𝟏𝟓          5               10
+
+      𝟏𝟏𝟓 ≤ 𝒙 < 𝟏𝟑𝟎          12              22
+
+      𝟏𝟑𝟎 ≤ 𝒙 < 𝟏𝟒𝟓          10              32
+
+      𝟏𝟒𝟓 ≤ 𝒙 < 𝟏𝟔𝟎          7               39
+
+      𝟏𝟔𝟎 ≤ 𝒙 < 𝟏𝟕𝟓          9               48
+
+      𝟏𝟕𝟓 ≤ 𝒙 < 𝟏𝟗𝟎          2               50
+
+        Receita Federal (Analista Tributário) Estatística                                     21
+        www.estrategiaconcursos.com.br                                                        38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                   OUTROS GRÁFICOS E REPRESENTAÇÕES
+O principal objetivo dos gráficos estatísticos é proporcionar uma visualização mais rápida dos
+dados estatísticos ou do fenômeno sob investigação. A seguir vamos ver as principais formas de
+representação de dados estatísticos.
+
+Gráficos em Linhas
+
+Os gráficos em linha normalmente são usados para representar dados de séries temporais, com
+a finalidade de mostrar a variação dos valores de uma variável ao longo do tempo. Esse tipo de
+gráfico permite-nos comparar duas variáveis: uma é traçada no eixo x (horizontal) e a outra no
+eixo y (vertical). O eixo y geralmente indica uma quantidade, enquanto o eixo x representa uma
+unidade de tempo.
+                                                                População da região Norte, de 1970 a 2010
+                                                                                 (x1000)
+O gráfico ao lado mostra a evolução da
+população residente na Região Norte do Brasil
+no período de 1970 a 2010. O eixo horizontal
+indica a variação do tempo, enquanto o eixo
+vertical apresenta a população residente na
+região.
+
+                                                                 Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+
+                                                              População brasileira, por Grandes Regiões, de
+                                                                          1970 a 2010 (x1000)
+Também podemos elaborar um gráfico de
+linhas múltiplas para comparar a evolução da
+população residente nas Grandes Regiões do
+Brasil em diferentes períodos:
+
+                                                                 Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+        Receita Federal (Analista Tributário) Estatística                                                     22
+        www.estrategiaconcursos.com.br                                                                        38
+
+                                      
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+Gráficos em Barras
+
+Os gráficos em barra são usados para representar distribuições de dados categóricos ou
+qualitativos. Uma série estatística é representada por um conjunto de retângulos dispostos
+horizontalmente, cada um indicando uma categoria particular, os quais possuem a mesma altura
+e comprimentos proporcionais aos respectivos dados.
+
+                                                                        População brasileira, por região, em 2010 (x1000)
+
+A distribuição da população residente em cada
+região brasileira, no ano de 2010, pode ser
+representada por meio do gráfico de barras
+mostrado ao lado.                                          ==219a34==
+
+                                                                            Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+
+                                                                        População brasileira, por região, de 1970 a 2010
+                                                                                             (x1000)
+Para representar a evolução da população
+residente em cada região brasileira, podemos
+utilizar um gráfico de barras justapostas, como
+o apresentado ao lado.
+
+                                                                            Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+Gráficos em Colunas
+
+Os gráficos em coluna também são usados para distribuições de dados categóricos ou
+qualitativos. A diferença básica é que, agora, uma série estatística é representada por um
+conjunto de retângulos dispostos verticalmente, cada um indicando uma categoria particular,
+todos com a mesma largura e alturas proporcionais aos respectivos dados.
+
+       Receita Federal (Analista Tributário) Estatística                                                                23
+       www.estrategiaconcursos.com.br                                                                                   38
+
+                                     
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+                                                           População brasileira, por região, em 2010 (x1000)
+Por exemplo, a distribuição da população
+residente em cada região brasileira, no ano
+de 2010, pode ser representada por meio do
+gráfico ao lado:
+
+                                                               Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+                                                           População brasileira, por região, de 1970 a 2010
+                                                                                (x1000)
+Também podemos utilizar um gráfico de
+colunas justapostas para representar a
+evolução da população residente em cada
+região brasileira, no período de 1970 a 2010.
+Dessa maneira, conseguimos apresentar mais
+informações         em       um       espaço
+consideravelmente menor.
+
+                                                               Fonte: Censo Demográfico 1970/2010 (IBGE)
+
+                                                           População brasileira, por região, de 1970 a 2010
+Adicionalmente, essas informações também                                        (x1000)
+podem ser representadas por meio de um
+gráfico de colunas sobrepostas (ou gráfico de
+colunas empilhadas). Esse tipo de gráfico é
+considerado uma extensão do formato
+tradicional, pois permite analisarmos duas
+dimensões de uma variável categórica, em
+vez de apenas uma. Cada coluna é dividida
+em várias partes que ficam empilhadas umas
+sobre as outras, cada uma correspondendo a
+                                                               Fonte: Censo Demográfico 1970/2010 (IBGE)
+um nível da segunda variável categórica.
+
+       Receita Federal (Analista Tributário) Estatística                                                       24
+       www.estrategiaconcursos.com.br                                                                          38
+
+                                     
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+Gráfico em Setores
+
+O gráfico em setores (também conhecido como gráfico de pizza) é usado para representar a
+frequência relativa (porcentagem) de uma variável categórica. Ele é formado por um círculo
+dividido em setores circulares, cada um representando uma categoria, cujos ângulos centrais
+são proporcionais às frequências relativas da categoria.
+
+                                                              População Urbana e Rural do Brasil em 2010
+Para a construção do gráfico de setores,
+utilizaremos uma regra de três simples, em que
+as frequências relativas de cada categoria
+correspondem ao ângulo central que
+desejamos representar em relação à
+frequência total, que corresponde ao ângulo
+de 360°.
+
+                                                           Fonte: Sinopse do Censo Demográfico de 2010 (IBGE)
+
+Gráfico Polar
+
+O gráfico polar consiste em uma sequência de                        Precipitação pluviométrica média
+eixos igualmente espaçados (ângulos iguais),
+cada um representando uma das variáveis.
+Uma linha é desenhada ligando os valores de
+cada eixo. Esse tipo de gráfico é usado para
+representar séries temporais cíclicas, que
+apresentam uma determinada periodicidade,
+como é o caso da precipitação pluviométrica
+mensal de uma determinada cidade.
+
+                                                                    Fonte: Atlas Pluviométrico do Brasil
+
+       Receita Federal (Analista Tributário) Estatística                                                    25
+       www.estrategiaconcursos.com.br                                                                       38
+
+                                     
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+Cartograma
+
+O cartograma é empregado com a finalidade População residente no Brasil por Estado em 2010
+de apresentar dados estatísticos diretamente                  (x1000)
+relacionados com áreas geográficas. As áreas
+do cartograma podem ser preenchidas por
+pontos, hachuras ou cores. O significado do
+preenchimento será indicado em uma legenda.
+Vejamos a população residente em cada
+Estado brasileiro:
+
+                                                           Fonte: Sinopse do Censo Demográfico de 2010 (IBGE)
+
+
+Pictograma
+
+O pictograma substitui valores por ícones,                 População residente no Brasil por Estado em 2010
+tornando os dados mais atraentes e                                             (x1000)
+facilitando o entendimento acerca de um
+determinado fenômeno. Normalmente, uma
+legenda é utilizada para indicar o que cada
+ícone representa. Os ícones devem possuir o
+mesmo tamanho, mas podem aparecer
+fracionados para mostrar a respectiva fração
+de uma determinada quantidade. A
+proporção de homens e mulheres na
+população brasileira é apresentada no
+                                                           Fonte: Sinopse do Censo Demográfico de 2010 (IBGE)
+pictograma ao lado.
+
+Gráfico de Dispersão
+
+O gráfico de dispersão é uma representação                  Municípios criados e instalados na região Norte.
+de pares ordenados em um plano cartesiano,
+composto por um eixo vertical (ordenada) e um
+eixo horizontal (abcissa). Os dados são
+representados como uma coleção de pontos,
+cada um com o valor de uma variável
+determinando a posição no eixo horizontal e o
+valor da outra variável determinando a posição
+no eixo vertical. É uma ferramenta poderosa
+para estudar a relação entre duas variáveis.
+                                                           Fonte: Sinopse do Censo Demográfico de 2010 (IBGE)
+
+       Receita Federal (Analista Tributário) Estatística                                                       26
+       www.estrategiaconcursos.com.br                                                                          38
+
+                                     
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+Diagrama de Ramos e Folhas
+
+O diagrama de ramos e folhas fornece uma maneira rápida de representar graficamente a
+distribuição dos dados. Nesse diagrama, cada número é separado em duas partes. Em geral, de
+um lado ficam as unidades do número e do outro lado fica o restante desse número.
+Consideremos o seguinte rol crescente:
+
+
+    85, 89, 96, 98, 99, 103, 104, 105, 113, 114, 115, 115, 123, 123, 124, 126, 126, 126, 127,
+    128, 129, 129, 134, 135, 135, 135, 137, 137, 137, 142, 143, 143, 148, 153, 154, 155,
+    157, 158, 159, 161, 161, 165, 168, 170, 171, 171, 171, 173, 175, 175
+
+
+Ao utilizarmos um diagrama de ramos e folhas
+para representar essa distribuição, no lado
+esquerdo, teremos as centenas e as dezenas
+indicando os ramos. Enquanto, no lado direito,
+teremos as unidades representando as folhas.
+As folhas, portanto, estão vinculadas aos
+ramos. Dessa maneira, a chave “9 | 6 8 9”
+significa que, no rol original, havia os números
+96, 98 e 99.
+
+
+Também é comum encontrarmos diagramas de
+ramos e folhas em que as unidades são
+separadas em dois grupos: de 0 a 4 e de 5 a 9.
+Nesse caso, teríamos o seguinte diagrama:
+
+Não existe uma regra única para a construção
+do diagrama de ramos e folhas. O formato
+mais comumente encontrado é o que separa o
+número em duas partes, porém, a depender da
+chave escolhida, o número pode ser separado
+em mais partes.
+
+       Receita Federal (Analista Tributário) Estatística                                        27
+       www.estrategiaconcursos.com.br                                                           38
+
+                                     
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 00
+
+                           QUESTÕES COMENTADAS – FGV
+
+Distribuições de Frequência
+
+1. (FGV/TRT-PB/2022) Considere o lançamento aleatório de dois dados honestos. Se X é a variável aleatória
+que calcula o módulo da diferença entre os dois números obtidos, então o valor mais provável de X é igual
+a
+a) 0.
+b) 1.
+c) 2.
+d) 3.
+e) 4.
+
+
+Comentários:
+Para responder essa questão, basta montarmos a tabela contendo todas as diferenças possíveis entre os dois
+dados:
+                                                                     Dj
+                                             |Di - Dj|
+                                                         1   2   3        4   5   6
+                                                     1   0   1   2        3   4   5
+                                                     2   1   0   1        2   3   4
+                                                     3   2   1   0        1   2   3
+                                              Di
+                                                     4   3   2   1        0   1   2
+                                                     5   4   3   2        1   0   1
+                                                     6   5   4   3        2   1   0
+Feito isso, verificamos a frequência de cada valor de diferença:
+                                                   Diferença Frequência
+                                                       0         6
+                                                       1         10
+                                                       2         8
+                                                       3         6
+                                                       4         4
+                                                       5         2
+Logo, o valor mais provável de X é 1.
+Gabarito: B.
+
+         Receita Federal (Analista Tributário) Estatística                                             28
+         www.estrategiaconcursos.com.br                                                                38
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+2. (FGV/AL-BA/2014) Observe a tabela de frequências a seguir, que se refere aos saldos em conta, num
+determinado dia, de duzentas contas‐correntes:
+
+                                  Saldos em conta (R$)                                  Frequência
+
+                                  Até 100,00                                                   8
+
+                                  De mais de 100,00 a 300,00                                   28
+
+                                  De mais de 300,00 a 500,00                                   46
+
+                                  De mais de 500,00 a 700,00  ==219a34==
+                                                                                               54
+
+                                  De mais de 700,00 a 900,00                                   44
+
+                                  De mais de 900,00 a 1.100,00                                 13
+
+                                  De mais de 1.100,00 a 1.300,00                               6
+
+                                  Acima de 1.300,00                                            1
+
+A frequência relativa acumulada de saldos em R$ 900,00 é igual a
+a) 22%.
+b) 36%.
+c) 54%.
+d) 90%.
+e) 97%.
+
+
+Comentários:
+Para resolvermos a questão, precisamos saber a frequência acumulada, da seguinte forma:
+
+                    Saldos em conta (R$)                                   Frequência     Frequência acumulada
+
+                    Até 100,00                                                  8         =8
+
+                    De mais de 100,00 a 300,00                                 28         = 8 + 28 = 36
+
+                    De mais de 300,00 a 500,00                                 46         = 36 + 46 = 82
+
+          Receita Federal (Analista Tributário) Estatística                                                      29
+          www.estrategiaconcursos.com.br                                                                         38
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                  De mais de 500,00 a 700,00                    54         = 82 + 54 = 136
+
+                  De mais de 700,00 a 900,00                    44         = 136 + 44 =180
+
+                  De mais de 900,00 a 1.100,00                  13
+
+                  De mais de 1.100,00 a 1.300,00                 6
+
+                  Acima de 1.300,00                              1
+
+                  Total                                        200
+
+Não é necessário preencher toda a tabela, tendo em vista que a questão pede o saldo em 900,00.
+Portanto, verificamos que a frequência absoluta acumulada até 900 é 180. Para determinar a frequência
+relativa acumulada, basta dividir este valor (180) por 200, pois são 200 observações (soma das frequências):
+                                                  180
+                                                      = 0,9 = 90%
+                                                  200
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                                                30
+        www.estrategiaconcursos.com.br                                                                   38
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                           QUESTÕES COMENTADAS – FGV
+
+Outros Gráficos e Representações
+
+1. (FGV/CGE-MA/2014) No setor A de uma empresa foi feita uma auditoria para descobrir quantas vezes
+cada pessoa fazia ligações pessoais do seu celular no período de trabalho de 14 às 17 horas de um único
+dia. O resultado está no gráfico a seguir.
+
+                                                             ==219a34==
+
+O número de pessoas que trabalham no setor A dessa empresa é
+a) 15.
+b) 22.
+c) 27.
+d) 29.
+e) 42.
+
+
+Comentários:
+Ao analisarmos o gráfico, percebemos a existência de um eixo horizontal, que nos mostra o número de
+ligações feitas no período; e um eixo vertical, que nos apresenta o número de pessoas. Assim, podemos
+montar uma tabela atribuindo os valores do gráfico:
+
+                                            Nº de ligações Nº de pessoas
+
+                                                    0                     2
+
+                                                    1                     5
+
+                                                    2                     10
+
+         Receita Federal (Analista Tributário) Estatística                                          31
+         www.estrategiaconcursos.com.br                                                             38
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                                   3              7
+
+                                                   4              3
+
+                                                   5              2
+
+Logo, somando todos os valores que representam o número de pessoas, temos:
+                                      2 + 5 + 10 + 7 + 3 + 2 = 29 𝑝𝑒𝑠𝑠𝑜𝑎𝑠
+Gabarito: D.
+
+        Receita Federal (Analista Tributário) Estatística                    32
+        www.estrategiaconcursos.com.br                                       38
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 00
+
+                                  LISTA DE QUESTÕES – FGV
+
+Distribuições de Frequência
+
+1. (FGV/TRT-PB/2022) Considere o lançamento aleatório de dois dados honestos. Se X é a variável aleatória
+que calcula o módulo da diferença entre os dois números obtidos, então o valor mais provável de X é igual
+a
+a) 0.
+b) 1.
+c) 2.
+d) 3.
+e) 4.
+
+
+2. (FGV/AL-BA/2014) Observe a tabela de frequências a seguir, que se refere aos saldos em conta, num
+determinado dia, de duzentas contas‐correntes:
+
+                                  Saldos em conta (R$)                   Frequência
+
+                                  Até 100,00                                  8
+
+                                  De mais de 100,00 a 300,00                 28
+
+                                  De mais de 300,00 a 500,00                 46
+
+                                  De mais de 500,00 a 700,00                 54
+
+                                  De mais de 700,00 a 900,00                 44
+
+                                  De mais de 900,00 a 1.100,00               13
+
+                                  De mais de 1.100,00 a 1.300,00              6
+
+                                  Acima de 1.300,00                           1
+
+A frequência relativa acumulada de saldos em R$ 900,00 é igual a
+a) 22%.
+b) 36%.
+c) 54%.
+
+
+          Receita Federal (Analista Tributário) Estatística                                           33
+          www.estrategiaconcursos.com.br                                                              38
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+d) 90%.
+e) 97%.
+
+                                                              ==219a34==
+
+          Receita Federal (Analista Tributário) Estatística                  34
+          www.estrategiaconcursos.com.br                                     38
+
+                                        
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+                                         GABARITO – FGV
+
+Distribuições de Frequência
+
+  1. LETRA B                                  2. LETRA D
+
+       Receita Federal (Analista Tributário) Estatística                  35
+       www.estrategiaconcursos.com.br                                     38
+
+                                     
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 00
+
+                                 LISTA DE QUESTÕES – FGV
+
+Outros Gráficos e Representações
+
+1. (FGV/CGE-MA/2014) No setor A de uma empresa foi feita uma auditoria para descobrir quantas vezes
+cada pessoa fazia ligações pessoais do seu celular no período de trabalho de 14 às 17 horas de um único
+dia. O resultado está no gráfico a seguir.
+
+O número de pessoas que trabalham no setor A dessa empresa é
+a) 15.
+b) 22.
+c) 27.
+d) 29.
+e) 42.
+
+         Receita Federal (Analista Tributário) Estatística                                          36
+         www.estrategiaconcursos.com.br                                                             38
+
+                                       
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 00
+
+                                         GABARITO – FGV
+
+Outros Gráficos e Representações
+
+  1. LETRA D
+
+                                                           ==219a34==
+
+       Receita Federal (Analista Tributário) Estatística                  37
+       www.estrategiaconcursos.com.br                                     38
+
+                                     
+
+
+---
+
+---

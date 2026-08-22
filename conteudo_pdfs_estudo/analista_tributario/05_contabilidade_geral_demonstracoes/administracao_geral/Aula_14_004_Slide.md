@@ -1,0 +1,350 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 14_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Contabilidade Geral
+---
+
+# Contabilidade Geral
+
+Contabilidade Geral
+
+                                           Prof. Gilmar Possati
+                                           Instagram: @profgilmarpossati
+                                           Telegram: @canalcontabilizando
+                                           Canal You Tube: Contabilizando
+
+      
+
+
+---
+
+Demonstração do Valor
+  Adicionado (DVA)
+
+        
+
+
+---
+
+Questões CESPE
+
+                                          Prof. Gilmar Possati
+
+     
+
+
+---
+
+   (CESPE / MPE-CE / 2020)
+   Com relação à elaboração de demonstrações contábeis de acordo
+   com a legislação societária, os princípios fundamentais da
+   contabilidade e os pronunciamentos contábeis do Comitê de
+   Pronunciamentos Contábeis (CPC), julgue o próximo item.
+
+   Valor adicionado é definido como a riqueza criada por uma empresa,
+   sendo geralmente medido pela diferença entre o valor das vendas e
+   os insumos adquiridos de terceiros, incluindo-se, também, o valor
+   adicionado recebido em transferência, ou seja, aquele produzido por
+   terceiros e transferido à entidade.
+
+Contabilidade
+Prof. Gilmar Possati
+                              
+
+
+---
+
+   (CESPE / SEFAZ-RS / 2019)
+   Informações a respeito da riqueza econômica gerada por
+   uma entidade e sobre a forma de distribuição dessa riqueza
+   podem ser obtidas mediante a análise do(a)
+   a) balanço patrimonial.
+   b) demonstração das mutações do patrimônio líquido.
+   c) demonstração do resultado do exercício.
+   d) demonstração dos fluxos de caixa.
+   e) demonstração do valor adicionado.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / EMAP / 2018)
+   Com relação à elaboração das principais demonstrações
+   contábeis previstas na normatização vigente, julgue o item
+   seguinte.
+
+   A demonstração do valor agregado visa apresentar, em uma
+   perspectiva microeconômica, a contribuição da empresa na
+   formação da renda nacional.
+
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / EBSERH / 2018)
+   Julgue o item seguinte, a respeito da elaboração das
+   demonstrações contábeis segundo os pronunciamentos do
+   CPC e a legislação vigente.
+
+   Uma empresa que tenha adquirido insumos de terceiros para
+   seu processo produtivo deve apresentar esses valores na
+   seção da demonstração do valor adicionado destinada à
+   demonstração da riqueza criada pela entidade.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+      (CESPE / STM / 2018)
+   Tendo como referência a legislação societária e os
+   pronunciamentos do Comitê de Pronunciamentos Contábeis,
+   julgue o item a seguir, relativo à elaboração de
+   demonstrações contábeis.
+
+   Na demonstração do valor adicionado, a receita com vendas
+   e prestação de serviços deve ser apresentada líquida de seus
+   efeitos tributários, uma vez que tributos não constituem
+   receitas efetivas da empresa.
+Contabilidade
+Prof. Gilmar Possati
+                           
+
+
+---
+
+   (CESPE / SEDF / 2017)
+   Com referência à elaboração de demonstrações contábeis,
+   julgue o item seguinte à luz da legislação societária, dos
+   princípios  fundamentais    da   contabilidade    e    dos
+   pronunciamentos contábeis do CPC.
+
+   O custo dos serviços de terceiros recebidos para a execução
+   da atividade fim da entidade representa um valor adicionado
+   recebido em transferência, visto ser uma riqueza criada por
+   terceiros.
+Contabilidade
+Prof. Gilmar Possati
+                           
+
+
+---
+
+      (CESPE / FUB / 2015)
+      Julgue o item a seguir, com relação aos fatos descritos e
+      seus efeitos nas demonstrações contábeis, elaboradas
+      conforme a Lei n.º 6.404/1976 (e alterações posteriores) e
+      os    pronunciamentos     técnicos    do    Comitê     de
+      Pronunciamentos Contábeis (CPC).
+
+      O reconhecimento de amortização, depreciação e exaustão
+      aumenta o valor adicionado líquido produzido pela
+      entidade.
+Contabilidade
+Prof. Gilmar Possati
+                             
+
+
+---
+
+   (CESPE / FUB / 2015)
+   Na demonstração do valor adicionado, o reconhecimento de
+   resultado positivo de equivalência patrimonial aumenta o
+   valor adicionado recebido em transferência.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / MPU / 2015)
+   Com relação à divulgação e análise das demonstrações
+   contábeis, julgue o próximo item.
+
+   Os recursos aplicados na construção de ativos para uso da
+   entidade correspondem a fato permutativo do ativo e não
+   serão evidenciados na demonstração do valor adicionado
+   (DVA).
+
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / ANTAQ / 2014)
+   Acerca da elaboração de demonstrações contábeis, julgue o
+   item.
+
+   O valor adicionado por uma empresa é obtido pela diferença
+   entre a receita líquida obtida e o custo dos insumos
+   fornecidos por terceiros.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+     A tabela a seguir reúne dados referentes à formação e
+     distribuição de riqueza de determinada empresa nos
+     exercícios de 2012 e 2013.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / ANATEL / 2014)
+   Com base nesses dados, julgue os itens seguintes, referente
+   à demonstração do valor adicionado.
+
+   O total do valor adicionado a distribuir no ano de 2013 é
+   igual a R$ 15.700.000.
+
+Contabilidade
+Prof. Gilmar Possati
+                           
+
+
+---
+
+     (CESPE / ANATEL / 2014)
+
+     O total do valor adicionado líquido produzido pela entidade
+     no ano de 2012 foi superior a R$ 13.000.000.
+
+Contabilidade
+Prof. Gilmar Possati
+                            
+
+
+---
+
+   (CESPE / CADE / 2014)
+   No que concerne a demonstrações contábeis, julgue o item
+   seguinte.
+
+   Na segunda parte da demonstração do valor adicionado, em
+   que são apresentadas as destinações da riqueza obtida pela
+   entidade, um dos componentes desse grupo é o pagamento
+   de impostos, taxas e contribuições por parte tanto da
+   empresa quanto a parcela retida dos empregados.
+
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+   (CESPE / MTE / 2014)
+   Considerando a legislação vigente e os pronunciamentos do
+   Comitê de Pronunciamentos Contábeis, julgue o item que se
+   segue, relativo aos procedimentos utilizados para a
+   elaboração das demonstrações contábeis.
+
+   A demonstração do valor adicionado apresenta a posição
+   estática da empresa, integra o balanço social e visa
+   demonstrar a riqueza gerada pela entidade e a sua
+   distribuição no encerramento de determinado período.
+Contabilidade
+Prof. Gilmar Possati
+                          
+
+
+---
+
+    (CESPE / ANTT / 2013)
+      Julgue o seguinte item, relativo às demonstrações contábeis
+      previstas na Lei das Sociedades por Ações e nos
+      pronunciamentos do CPC.
+
+      Para fins de levantamento da demonstração de valor
+      adicionado, o valor do FGTS deverá integrar o valor
+      distribuído aos empregados (pessoal), mas o valor da cota
+      patronal do INSS deverá integrar o montante de impostos,
+      taxas e contribuições.
+Contabilidade
+Prof. Gilmar Possati
+                             
+
+
+---
+
+   (CESPE / TRT17 / 2013)
+   Com relação à avaliação de itens patrimoniais e ao
+   levantamento das demonstrações de resultado previstas na
+   legislação societária, julgue o item seguinte.
+
+   Se uma empresa apurou, em determinado período,
+   faturamento bruto total de R$ 300 mil, tendo gasto R$ 30 mil
+   com IPI e R$ 50 mil com ICMS, reconhecerá, em sua DVA, na
+   linha venda de mercadorias, produtos e serviços o valor de
+   R$ 250.000.
+Contabilidade
+Prof. Gilmar Possati
+                           
+
+
+---
+
+Contabilidade
+Prof. Gilmar Possati
+                       
+
+
+---
+
+   (CESPE / SEFAZ-ES / 2010)
+
+   Julgue o item a seguir, acerca da forma de apresentação da
+   demonstração do resultado do exercício pelas companhias.
+
+   O valor do lucro bruto é determinado por meio da dedução do valor
+   do custo das mercadorias e serviços do valor da receita líquida do
+   período.
+
+Contabilidade
+Prof. Gilmar Possati
+                              
+
+
+---
+
+        Prof. Possati
+      @profgilmarpossati
+Canal You Tube Contabilizando
+Telegram: @canalcontabilizando
+
+            
+
+
+---

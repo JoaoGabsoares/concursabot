@@ -1,0 +1,66 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ ESTRUTURAS LÓGICAS
+
+                                     Prof. Brunno Lima
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+VALOR LÓGICO E PRINCÍPIOS
+BÁSICOS
+
+                                             Prof. Brunno Lima
+
+
+
+
+        https://t.me/KakashiAssinaturasBot
+       Valor lógico de uma proposição
+       Se a proposição for verdadeira seu valor lógico é V e se for falsa seu valor
+       lógico será F.
+
+       Exemplos:
+       A: A palavra escola apresenta três vogais distintas. (V)
+       Indica-se por: V(A) = V
+
+
+
+       B: Santos é a capital do estado de São Paulo. (F)
+       Indica-se por: V(B) = F
+
+Valor lógico e princípios básicos
+Prof. Brunno Lima
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+       Princípios básicos da lógica
+       1º) Princípio da identidade: Uma proposição verdadeira é sempre
+       verdadeira e uma proposição falsa é sempre falsa.
+
+       2º) Princípio do terceiro excluído: Toda proposição só pode ser V ou F,
+       excluindo-se qualquer outra possibilidade.
+
+       3º) Princípio da não-contradição: Uma proposição não pode ser verdadeira
+       e falsa ao mesmo tempo.
+
+
+
+Valor lógico e princípios básicos
+Prof. Brunno Lima
+
+
+
+
+                                    https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

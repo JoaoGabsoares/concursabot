@@ -1,0 +1,2596 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 17_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '17'
+titulo_aula: pdf)
+---
+
+# pdf)
+
+Aula 16 (somente em
+                                                     pdf)
+                          Receita Federal (Analista Tributário)
+                                                      Estatística
+
+                                                           Autor:
+                                       Equipe Exatas Estratégia
+                                                     Concursos
+
+
+                                             08 de Janeiro de 2025
+
+---
+
+      Equipe Exatas Estratégia Concursos
+      Aula 16 (somente em pdf)
+
+                                                                                     Índice
+1) Regressão Logística.
+
+
+2) Questões Comentadas - Regressão Logística - Multibancas
+
+
+3) Lista de Questões - Regressão Logística - Multibancas
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           53
+
+                                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                    REGRESSÃO LOGÍSTICA
+A regressão logística é uma técnica utilizada quando o fenômeno a ser estudado apresenta-se de forma
+qualitativa e, portanto, representado por uma variável categórica, frequentemente binária (dicotômica),
+indicando, por exemplo, 1 ou 0; sim ou não; falha ou sucesso; presença ou ausência de uma característica;
+possíveis valores ou categorias; em função de uma ou mais variáveis independentes, contínuas ou binárias
+(dummies).
+Vamos supor que um médico tenha interesse em avaliar a probabilidade de ocorrência de uma determinada
+doença em um grupo de indivíduos, com base em suas características físicas (peso, altura, idade,
+circunferência da cintura); em seus hábitos alimentares (ingestão de água; dieta equilibrada); e em seus
+hábitos de saúde (exercícios físicos regulares, consumo de álcool, tabagismo).
+Agora, imaginemos que um analista de crédito imobiliário deseje avaliar a probabilidade de seus clientes se
+tornarem inadimplentes após um determinado período, levando em consideração o emprego, a renda, o
+estado civil e o nível de escolaridade de cada um deles.
+Nos dois cenários, as variáveis dependentes são a doença e a inadimplência, que podem ocorrer ou não
+(variáveis qualitativas dicotômicas), em função das variáveis explicativas inseridas nos modelos. O objetivo,
+portanto, é estimar a probabilidade de ocorrência destes fenômenos e, para tanto, podemos usar a
+regressão logística binária.
+Imaginemos, agora, que um analista de crédito esteja investigando a probabilidade de obtenção de crédito
+por parte de empresas, podendo classificá-las em três categorias: crédito integral; crédito com restrição; não
+receber crédito. Nesse cenário, a variável dependente que representa o fenômeno também é qualitativa,
+mas oferece três níveis de resposta, portanto, devemos usar a regressão logística multinomial.
+Logo, a técnica de regressão logística binária é utilizada quando o fenômeno se apresenta por meio de
+apenas duas categorias, isto é, quando pode ser representado por apenas uma única variável binária, 𝑌, em
+que a primeira categoria serve como referência e indica o evento de não interesse (𝑌 = 0); e a outra indica
+o evento de interesse (𝑌 = 1).
+Por outro lado, a técnica de regressão logística multinomial é utilizada quando o fenômeno é representado
+por mais de duas categorias, situação em que precisamos definir uma categoria de referência.
+Ao utilizarmos uma variável qualitativa para representar o fenômeno sob investigação, inviabilizamos a
+estimação do modelo por meio do método dos mínimos quadrados ordinários (utilizado na regressão linear),
+uma vez que a variável dependente não apresenta média e variância, não havendo como minimizarmos a
+soma dos termos de erro ao quadrado. Por isso, nas técnicas de regressão logística binária e multinomial, a
+estimação é feita por meio da máxima verossimilhança.
+A seguir, abordaremos os dois tipos de regressão logística: binária e a multinomial. Também aprenderemos
+a obter os parâmetros do modelo logístico e a utilizar os principais testes estatísticos para avaliar a
+significância do modelo estimado.
+
+        Receita Federal (Analista Tributário) Estatística                                                   3
+        www.estrategiaconcursos.com.br                                                                     53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Regressão Logística Binária
+
+A regressão logística binária investiga a probabilidade de ocorrência de um evento, definido por Y, que se
+apresenta de forma qualitativa e dicotômica (𝒀 = 𝟎, representa a não ocorrência do evento; e 𝒀 = 𝟏,
+representa a ocorrência), com base no comportamento de variáveis explicativas. Assim, podemos definir
+uma combinação linear de variáveis explicativas, com respectivos parâmetros estimados, da seguinte forma:
+                                      𝑍𝑖 = 𝛼 + 𝛽1𝑋1𝑖 + 𝛽2 𝑋2𝑖 + ⋯ + 𝛽𝑘 𝑋𝑘𝑖
+em que 𝑍 é conhecido por 𝒍𝒐𝒈𝒊𝒕𝒐; 𝛼 representa a constante; 𝛽𝑗 (𝑗 = 1, 2, ⋯ , 𝑘) são os parâmetros
+estimados de cada variável explicativa; 𝑋𝑗 são as variáveis explicativas; e o índice 𝑖 representa cada
+observação da amostra (𝑖 = 1, 2, ⋯ , 𝑛), sendo 𝑛 o tamanho da amostra.
+No modelo logístico, 𝑍 não representa a variável dependente, que é simbolizada por 𝑌. Assim, precisamos
+expressar de algum modo a probabilidade 𝑝𝑖 de ocorrência do evento de interesse para cada observação,
+em função do 𝑙𝑜𝑔𝑖𝑡𝑜 de 𝑍𝑖 , ou seja, em função dos parâmetros estimados para o modelo.
+A regressão logística binária define o 𝑙𝑜𝑔𝑖𝑡𝑜 𝑍 como o logaritmo natural da 𝑐ℎ𝑎𝑛𝑐𝑒, de modo que
+                                                𝑙𝑛(𝑐ℎ𝑎𝑛𝑐𝑒𝑌𝑖 =1 ) = 𝑍𝑖
+de onde vem que:
+                                                        𝑝𝑖
+                                                  𝑙𝑛 (       ) = 𝑍𝑖
+                                                      1 − 𝑝𝑖
+Essa expressão é capaz de mapear a combinação linear de variáveis que pode retornar qualquer valor em
+uma distribuição de probabilidades de Bernoulli, com um domínio de 0 a 1
+Dando sequência, isolaremos a probabilidade de ocorrência do evento, 𝑝𝑖 , da seguinte maneira:
+                                                       𝑝𝑖
+                                                            = 𝑒 𝑍𝑖
+                                                     1 − 𝑝𝑖
+Em seguida, obtemos:
+                                                 𝑝𝑖 = (1 − 𝑝𝑖 ) × 𝑒 𝑍𝑖
+                                                𝑝𝑖 × (1 + 𝑒 𝑍𝑖 ) = 𝑒 𝑍𝑖
+Portanto, a probabilidade de ocorrência do evento é expressa por:
+
+                                                    𝒆𝒁𝒊       𝟏
+                                             𝒑𝒊 =        =
+                                                  𝟏 + 𝒆𝒁𝒊 𝟏 + 𝒆−(𝒁𝒊 )
+
+Já a probabilidade de não ocorrência do evento é descrita por:
+
+                                                              𝒆𝒁𝒊      𝟏
+                                          𝟏 − 𝒑𝒊 = 𝟏 −              =
+                                                            𝟏 + 𝒆 𝒊 𝟏 + 𝒆𝒁𝒊
+                                                                  𝒁
+
+        Receita Federal (Analista Tributário) Estatística                                               4
+        www.estrategiaconcursos.com.br                                                                 53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Chegamos, portanto, à equação da regressão estimada, que representa o objetivo do modelo de regressão
+logística, pois 𝑝𝑖 é a probabilidade estimada para quaisquer valores de coeficientes e variáveis que venhamos
+a substituir nesta equação.
+A partir da expressão anterior, podemos elaborar uma tabela com valores de 𝑝𝑖 em função dos valores de 𝑍.
+Como 𝑍 varia de −∞ a +∞, utilizaremos apenas os valores inteiros entre −5 e +5:
+
+                                                                 𝟏
+                                            𝒁𝒊         𝒑𝒊 =
+                                                             𝟏 + 𝒆−(𝒁𝒊 )
+                                             -5             0,00669
+                                             -4             0,01799
+                                             -3             0,04743
+                                             -2             0,11920
+                                             -1             0,26894
+                                             0              0,50000
+                                             1              0,73106
+                                             2              0,88080
+                                             3              0,95257
+                                             4              0,98201
+                                             5              0,99331
+
+A partir da tabela, podemos elaborar o gráfico das probabilidades estimadas em função dos diversos valores
+assumidos por 𝑍. Os valores estão situados no intervalo entre 0 e 1, pois o 𝑙𝑜𝑔𝑖𝑡𝑜 é igual ao logaritmo natural
+da 𝑐ℎ𝑎𝑛𝑐𝑒:
+
+Assim, tendo os parâmetros estimados do modelo e os valores das variáveis explicativas para uma dada
+observação 𝑖, podemos calcular o valor de 𝑍; e, por meio da curva logística (também conhecida por curva 𝑺,
+ou sigmoide), estimar a probabilidade de ocorrência do evento para essa observação.
+
+        Receita Federal (Analista Tributário) Estatística                                                   5
+        www.estrategiaconcursos.com.br                                                                      53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+A probabilidade de ocorrência de um evento que se apresenta de forma dicotômica é expressa, no formato
+expandido, da seguinte maneira:
+
+                                                                 𝟏
+                                        𝒑𝒊 =
+                                                𝟏 + 𝒆−(𝜶+𝜷𝟏 𝑿𝟏𝒊+𝜷𝟐 𝑿𝟐𝒊 +⋯+𝜷𝒌𝑿𝒌𝒊 )
+
+Portanto, a regressão logística binária não estima os valores previstos da variável dependente, mas, sim, a
+probabilidade de ocorrência do evento em estudo para cada observação.
+
+Estimação da Regressão Logística Binária
+
+Para estimarmos os parâmetros 𝛼, 𝛽1 , 𝛽2 , ⋯ , 𝛽𝑘 do modelo, vamos utilizar o método da máxima
+verossimilhança. A partir do conjunto de observações, este método busca os estimadores, isto é, os valores
+𝛼̂, 𝛽̂1 , 𝛽̂2 , ⋯ , 𝛽̂𝑘 , que maximizam o logaritmo da função de máxima verossimilhança.
+
+Na regressão logística binária, a variável dependente segue uma distribuição de Bernoulli, ou seja, podemos
+considerar como um ensaio de Bernoulli a incidência (ou não) de determinada observação no evento de
+interesse, sendo que a probabilidade de ocorrência do evento é 𝑝𝑖 e a probabilidade de não ocorrência do
+evento é (1 − 𝑝𝑖 ):
+
+                                           𝑝(𝑌𝑖 ) = 𝑝𝑖 𝑌𝑖 × (1 − 𝑝𝑖 )1−𝑌𝑖
+
+Sendo uma amostra com 𝑛 observações, a função de verossimilhança (likelihood function) é definida da
+seguinte forma:
+
+                                                   𝑛
+
+                                          𝐿 = ∏[𝑝𝑖 𝑌𝑖 × (1 − 𝑝𝑖 )1−𝑌𝑖 ]
+                                                  𝑖=1
+
+
+Retomando as probabilidades calculadas anteriormente, temos que:
+
+                                            𝑛                𝑌      1−𝑌𝑖
+                                               𝑒 𝑍𝑖    𝑖
+                                                             1
+                                     𝐿 = ∏ [(         ) ×(         )     ]
+                                             1 + 𝑒 𝑍𝑖     1 + 𝑒 𝑍𝑖
+                                           𝑖=1
+
+
+Como é mais simples de se trabalhar com o logaritmo da função de verossimilhança, podemos chegar à
+função de log-verossimilhança (log likelihood function) aplicando o logaritmo natural em ambos os lados da
+equação:
+
+                                                 𝑛               𝑌      1−𝑌𝑖
+                                                  𝑒 𝑍𝑖    𝑖
+                                                                 1
+                               𝑙𝑛(𝐿) = 𝑙𝑛 (∏ [(          ) ×(          )     ])
+                                                1 + 𝑒 𝑍𝑖      1 + 𝑒 𝑍𝑖
+                                                 𝑖=1
+
+        Receita Federal (Analista Tributário) Estatística                                                6
+        www.estrategiaconcursos.com.br                                                                  53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                 𝑛
+                                                  𝑒 𝑍𝑖                            1
+                         𝐿𝐿 = ∏ {[𝑌𝑖 × 𝑙𝑛 (            𝑍
+                                                         )] + [(1 − 𝑌𝑖 ) × 𝑙𝑛 (         )]}
+                                                 1+𝑒 𝑖                         1 + 𝑒 𝑍𝑖
+                                 𝑖=1
+
+
+O objetivo da estimação por máxima verossimilhança é de identificar os valores dos parâmetros do 𝑙𝑜𝑔𝑖𝑡𝑜
+que maximizam o valor de 𝐿𝐿. Para isso, são utilizadas ferramentas de programação não linear, buscando-se
+estimar os parâmetros 𝛼̂, 𝛽̂1 , 𝛽̂2 , ⋯ , 𝛽̂𝑘 com base na seguinte função-objetivo:
+
+                             𝒏
+                                         𝒆𝒁𝒊                             𝟏
+                    𝑳𝑳 = ∏ {[𝒀𝒊 × 𝒍𝒏 (         )] + [(𝟏 − 𝒀𝒊 ) × 𝒍𝒏 (         )]} = 𝒎á𝒙
+                                       𝟏 + 𝒆𝒁𝒊                        𝟏 + 𝒆𝒁𝒊
+                           𝒊=𝟏
+
+
+Os valores que maximizam 𝐿𝐿 podem são obtidos por meio da função de log-verossimilhança em relação aos
+parâmetros (𝛼, 𝛽1 , 𝛽2 , ⋯ , 𝛽𝑘 ):
+
+                                                            𝑛
+                                                 𝜕𝐿𝐿
+                                                     = ∑[𝑦𝑖 − 𝑝𝑖 ]
+                                                 𝜕𝛼
+                                                            𝑖=1
+
+                                                             𝑛
+                                               𝜕𝐿𝐿
+                                                      = ∑ 𝑥𝑖 [𝑦𝑖 − 𝑝𝑖 ]
+                                              𝜕𝛽1,⋯,𝑘
+                                                            𝑖=1
+
+
+Os estimadores (𝛼̂, 𝛽̂1 , 𝛽̂2 , ⋯ , 𝛽̂𝑘 ) são as soluções das equações anteriores quando igualadas a 0. Os
+estimadores medem a taxa de variação do 𝒍𝒐𝒈𝒊𝒕𝒐 para uma unidade de variação na variável
+independente, isto é, a inclinação da reta de regressão entre a variável dependente 𝒀𝒊 e a sua variável
+independente 𝑿𝒊 .
+
+Como essas equações são não lineares, utilizamos programas computacionais para encontrar mais
+rapidamente os estimadores que maximizam a função log-verossimilhança. Esses programas computacionais
+normalmente fazem uso de métodos iterativos para resolução de equações, como o de Newton-Raphson.
+
+O algoritmo de Newton-Raphson escolhe, sucessivamente, novos conjuntos de parâmetros que produzam
+maiores log-verossimilhança e ajustes melhores aos dados observados. O processo continua por meio de
+uma série de iterações ou ciclos, até a maximização da função log-verossimilhança.
+
+Durante muito tempo, a estimação por máxima verossimilhança não foi utilizada por não existirem recursos
+computacionais que pudessem realizar cálculos complexos. Atualmente, esses cálculos podem ser realizados
+facilmente por meio de programas estatísticos.
+
+        Receita Federal (Analista Tributário) Estatística                                               7
+        www.estrategiaconcursos.com.br                                                                 53
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Um analista de crédito está investigando a probabilidade de liberação de crédito para seus clientes,
+com base em suas rendas. Os clientes podem são classificados em: liberar crédito sem restrição (2);
+liberar crédito com restrição (1); não liberar crédito (0). Os dados utilizados na estimação do modelo
+de regressão logística serão os seguintes:
+                                    Cliente       Análise     de Renda (𝑿𝟏 )
+                                                  Crédito (Y)
+                                        1                   0          1000
+                                        2                   0          1300
+                                        3                   0          1800
+                                        4                   0          2100
+                                        5                   1          5000
+                                        6                   1          5400
+                                        7                   1          6000
+                                        8                   1          6100
+                                        9                   2          11300
+                                        10                  2          12500
+                                        11                  2          13400
+                                        12                  2          14800
+
+Um professor está analisando a probabilidade de seus alunos chegarem atrasados tomando como
+base a distância de suas residências até a escola. A variável dependente Y responde com 0 quando
+o aluno não chega atrasado e com 1 quando ele se atrasa. A variável independente 𝑋1 diz a distância
+da residência do aluno até a escola.
+                                    Estudante Atrasado (𝒀) Distância (𝑿1 )
+                                          1                 0              2,1
+                                          2                 0              3,4
+                                          3                 0              3,8
+                                          4                 0              3,5
+                                          5                 1              7,8
+                                          6                 1              8,6
+                                          7                 1              8,1
+                                          8                 1              8,3
+Inserindo esses dados em uma ferramenta de análise estatística, teremos como resposta as
+seguintes estimativas para os valores dos parâmetros:
+                                           𝛼 = −42,39
+
+
+        Receita Federal (Analista Tributário) Estatística                                           8
+        www.estrategiaconcursos.com.br                                                             53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                      𝛽1 = 7,31
+
+A expressão do 𝑙𝑜𝑔𝑖𝑡𝑜 será:
+                                            𝑍 = −42,39 + 7,31 × 𝑋1
+
+As probabilidades estimadas de ocorrência serão expressas por:
+                                                 1
+                                  𝑝=
+                                      1 + 𝑒 −(−42,39+7,31×𝑋1)
+
+O gráfico das probabilidade estimada de ocorrência de atraso em relação à distância é apresentado
+a seguir:
+
+Qual a probabilidade de um aluno que mora a 6km de distância se atrasar?
+                                                 1
+                                   𝑝=        −(−42,39+7,31×6)
+                                       1+𝑒
+                                                 1
+                                    𝑝=
+                                        1 + 𝑒 −(−42,39+43,86)
+                                                 1
+                                       𝑝=
+                                            1 + 𝑒 −(1,47)
+                                            1
+                                     𝑝=            = 0,813
+                                         1 + 0,23
+Ou seja, a probabilidade de um aluno que mora a 6km chegar atrasado é de 81,3%.
+
+        Receita Federal (Analista Tributário) Estatística                                      9
+        www.estrategiaconcursos.com.br                                                        53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Regressão Logística Multinomial
+
+A regressão logística multinomial é utilizada quando a variável dependente é qualitativa, porém oferece
+mais de duas possibilidades de resposta (categorias), com a finalidade de estimar as probabilidades de
+ocorrência de cada alternativa. Para tanto, precisamos definir inicialmente uma categoria de referência.
+
+Em um cenário com apenas 3 categorias, escolhendo a categoria 0 como referência, teremos duas outras
+possibilidades de evento em relação a esta categoria, representadas pelas categorias 1 e 2. Dessa forma, são
+definidas duas combinações lineares de variáveis explicativas com os respectivos parâmetros estimados, isto
+é, dois 𝑙𝑜𝑔𝑖𝑡𝑜𝑠, como segue:
+
+                                   𝑍𝑖 1 = 𝛼1 + 𝛽11 𝑋1𝑖 + 𝛽21 𝑋2𝑖 + ⋯ + 𝛽𝑘1 𝑋𝑘𝑖
+
+                                   𝑍𝑖 2 = 𝛼2 + 𝛽12 𝑋1𝑖 + 𝛽22 𝑋2𝑖 + ⋯ + 𝛽𝑘2 𝑋𝑘𝑖
+
+em que o número do 𝑙𝑜𝑔𝑖𝑡𝑜 aparece agora no índice de cada parâmetro a ser estimado.
+
+Se o fenômeno a ser estudado apresentar 𝑀 categorias de resposta, o número de 𝑙𝑜𝑔𝑖𝑡𝑜𝑠 estimados será
+(𝑀 − 1) e, a partir deles, poderemos estimar as probabilidades de ocorrência de cada uma das categorias.
+
+A expressão geral do 𝑙𝑜𝑔𝑖𝑡𝑜 𝑍 (𝑚 = 0, 1, ⋯ , 𝑀 − 1) para um modelo em que a variável dependente assume
+𝑀 categorias de resposta é:
+
+
+                                 𝒁𝒊 𝒎 = 𝜶𝒎 + 𝜷𝟏𝒎 𝑿𝟏𝒊 + 𝜷𝟐𝒎 𝑿𝟐𝒊 + ⋯ + 𝜷𝒌𝒎 𝑿𝒌𝒊
+
+
+em que 𝑍𝑖 0 = 0 e, portanto, 𝑒 𝑍𝑖 0 = 1.
+
+Para três categorias, podemos estimar a probabilidade de ocorrência da categoria de referência 0 e as
+probabilidades de ocorrência dos dois eventos distintos, representados pelas categorias 1 e 2. Dessa forma,
+a probabilidade de ocorrência da categoria 𝟎 é:
+
+                                                                 𝟏
+                                                𝒑𝒊 𝟎 =
+                                                         𝟏 + 𝒆 𝒁𝒊 𝟏 + 𝒆𝒁𝒊 𝟐
+
+A probabilidade de ocorrência da categoria 1 é:
+
+
+                                                              𝒆𝒁𝒊 𝟏
+                                                𝒑𝒊 𝟏 =
+                                                         𝟏 + 𝒆 𝒁𝒊 𝟏 + 𝒆𝒁𝒊 𝟐
+
+A probabilidade de ocorrência da categoria 2 é:
+
+        Receita Federal (Analista Tributário) Estatística                                                10
+        www.estrategiaconcursos.com.br                                                                   53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                               𝒆𝒁𝒊 𝟐
+                                                 𝒑𝒊 𝟐 =
+                                                          𝟏 + 𝒆 𝒁𝒊 𝟏 + 𝒆𝒁𝒊 𝟐
+
+A soma das probabilidades de ocorrência dos eventos, para as várias categorias, será sempre 1.
+
+As expressões das probabilidades de ocorrência também podem ser escritas, na forma expandida, como
+segue:
+
+                                                                  𝟏
+                   𝒑𝒊 𝟎 =
+                            𝟏 + 𝒆(𝜶𝟏 +𝜷𝟏𝟏 𝑿𝟏𝒊 +𝜷𝟐𝟏 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟏 𝑿𝒌𝒊 ) + 𝒆(𝜶𝟐 +𝜷𝟏𝟐 𝑿𝟏𝒊+𝜷𝟐𝟐 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟐 𝑿𝒌𝒊 )
+
+                                              𝒆(𝜶𝟏 +𝜷𝟏𝟏 𝑿𝟏𝒊 +𝜷𝟐𝟏 𝑿𝟐𝒊+⋯+𝜷𝒌𝟏 𝑿𝒌𝒊 )
+                   𝒑𝒊 𝟏 =
+                          𝟏 + 𝒆(𝜶𝟏 +𝜷𝟏𝟏 𝑿𝟏𝒊 +𝜷𝟐𝟏 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟏 𝑿𝒌𝒊 ) + 𝒆(𝜶𝟐 +𝜷𝟏𝟐 𝑿𝟏𝒊+𝜷𝟐𝟐 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟐 𝑿𝒌𝒊 )
+
+                                                𝒆(𝜶𝟐 +𝜷𝟏𝟐 𝑿𝟏𝒊 +𝜷𝟐𝟐 𝑿𝟐𝒊+⋯+𝜷𝒌𝟐 𝑿𝒌𝒊 )
+                   𝒑𝒊 𝟐 =
+                            𝟏 + 𝒆(𝜶𝟏 +𝜷𝟏𝟏 𝑿𝟏𝒊 +𝜷𝟐𝟏 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟏 𝑿𝒌𝒊 ) + 𝒆(𝜶𝟐 +𝜷𝟏𝟐 𝑿𝟏𝒊+𝜷𝟐𝟐 𝑿𝟐𝒊 +⋯+𝜷𝒌𝟐 𝑿𝒌𝒊 )
+
+Para um modelo em que a variável dependente assume 𝑀 categorias de resposta, podemos escrever a
+expressão geral das probabilidades 𝑝𝑖 𝑚 (𝑚 = 0, 1, ⋯ , 𝑀 − 1) da seguinte forma:
+
+
+                                                               𝒆𝒁𝒊 𝒎
+                                                   𝒑𝒊 𝒎 =           𝒁𝒊 𝒎
+                                                             ∑𝑴−𝟏
+                                                              𝒎=𝟎 𝒆
+
+Estimação da Regressão Logística Multinomial
+
+Na regressão logística multinomial, também utilizaremos o método da máxima verossimilhança. Dessa
+vez, contudo, consideramos que a variável dependente segue uma distribuição binomial. Significa dizer
+que uma observação 𝑖 pode incidir em um determinado evento, dados 𝑀 possíveis, logo, a probabilidade de
+ocorrência 𝑝𝑖 𝑚 (𝑚 = 0, 1, ⋯ , 𝑀 − 1) deste evento pode ser definida como:
+
+                                                            𝑀−1
+                                                                        𝑌𝑖𝑚
+                                               𝑝(𝑌𝑖𝑚 ) = ∏(𝑝𝑖 𝑚 )
+                                                            𝑚=0
+
+
+Para uma amostra com 𝑛 observações, podemos definir a função de verossimilhança (likelihood function) da
+seguinte forma:
+
+        Receita Federal (Analista Tributário) Estatística                                                  11
+        www.estrategiaconcursos.com.br                                                                     53
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                      𝑛 𝑀−1
+                                                                  𝑌𝑖𝑚
+                                               𝐿 = ∏ ∏(𝑝𝑖 𝑚 )
+                                                     𝑖=1 𝑚=0
+
+
+De onde decorre que:
+
+                                                  𝑛 𝑀−1                 𝑌
+                                                      𝑒 𝑍𝑖 𝑚  𝑖𝑚
+
+                                           𝐿 = ∏ ∏ ( 𝑀−1 𝑍𝑖 )
+                                                    ∑𝑚=0 𝑒 𝑚
+                                                𝑖=1 𝑚=0
+
+
+Novamente trabalharemos com o logaritmo da função de verossimilhança. Assim, aplicando o logaritmo
+natural em ambos os lados da equação, chegamos à função de log-verossimilhança (log likelihood function):
+
+                                             𝑛 𝑀−1
+                                                              𝑒 𝑍𝑖 𝑚
+                                     𝐿𝐿 = ∏ ∏ [(𝑌𝑖𝑚 ) ∙ 𝑙𝑛 ( 𝑀−1 𝑍𝑖 )]
+                                                            ∑𝑚=0 𝑒 𝑚
+                                            𝑖=1 𝑚=0
+
+
+Agora, precisamos descobrir os valores dos parâmetros dos 𝑙𝑜𝑔𝑖𝑡𝑜𝑠 𝑍𝑖 𝑚 (𝑚 = 0, 1, ⋯ , 𝑀 − 1) que
+maximizam o valor de 𝐿𝐿. Em virtude da complexidade do problema, precisamos recorrer a ferramentas de
+programação não linear capazes de solucionar a seguinte função-objetivo:
+
+                                         𝒏 𝑴−𝟏
+                                                         𝒆𝒁𝒊 𝒎
+                                𝑳𝑳 = ∏ ∏ [(𝒀𝒊𝒎 ) ∙ 𝒍𝒏 ( 𝑴−𝟏 𝒁𝒊 )] = 𝒎á𝒙
+                                                       ∑𝒎=𝟎 𝒆 𝒎
+                                        𝒊=𝟏 𝒎=𝟎
+
+        Receita Federal (Analista Tributário) Estatística                                             12
+        www.estrategiaconcursos.com.br                                                                53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Um analista de crédito está investigando a probabilidade de liberação de crédito para seus clientes,
+com base em suas rendas. Os clientes podem são classificados em: liberar crédito sem restrição (2);
+liberar crédito com restrição (1); não liberar crédito (0). Os dados utilizados na estimação do modelo
+de regressão logística serão os seguintes:
+                                    Cliente       Análise     de Renda (𝑿𝟏 )
+                                                  Crédito (Y)
+                                        1                   0          1000
+                                        2                   0          1300
+                                        3                   0          1800
+                                        4                   0          2100
+                                        5                   1          5000
+                                        6                   1          5400
+                                        7                   1          6000
+                                        8                   1          6100
+                                        9                   2          11300
+                                        10                  2          12500
+                                        11                  2          13400
+                                        12                  2          14800
+Inserindo esses dados em uma ferramenta de análise estatística, teremos como resposta as
+seguintes estimativas para os valores dos parâmetros:
+                                         𝛼1 = −31,1758
+                                        𝛽11 = 0,008778
+
+                                                  𝛼2 = −76,8812
+                                                  𝛽21 = 0,01399
+
+As expressões do 𝑙𝑜𝑔𝑖𝑡𝑜 serão:
+                              𝑍𝑖1 = −31,1758 + 0,008778 × 𝑋1𝑖
+
+                                        𝑍𝑖2 = −76,88 + 0,01399 × 𝑋1i
+
+As probabilidades estimadas de ocorrência de cada categoria serão expressas por:
+                                                   1
+                               𝑝𝑖0 =
+                                     1 + 𝑒 (−31,1758+0,008778×𝑋1)
+
+                                               𝑒 (−31,1758+0,008778×𝑋1)
+                        𝑝𝑖1 =
+                                1 + 𝑒 (−31,1758+0,008778×𝑋1) + 𝑒 (−76,8812+0,01399×𝑋1)
+
+
+        Receita Federal (Analista Tributário) Estatística                                          13
+        www.estrategiaconcursos.com.br                                                             53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                              𝑒 (−76,8812+0,01399×𝑋1)
+                        𝑝𝑖2 =
+                              1 + 𝑒 (−31,1758+0,008778×𝑋1) + 𝑒 (−76,8812+0,01399×𝑋1)
+
+Os gráficos das probabilidades estimadas em relação à renda são apresentados a seguir:
+
+Qual a probabilidade de um cliente com renda de 8.000 reais ter acesso ao crédito com restrição?
+                                        𝑒 (−31,1758+0,008778×8.000)
+                  𝑝𝑖1 =
+                        1 + 𝑒 (−31,1758+0,008778×8.000) + 𝑒 (−76,8812+0,01399×8.000)
+
+        Receita Federal (Analista Tributário) Estatística                                      14
+        www.estrategiaconcursos.com.br                                                         53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                             𝑒 (−31,1758+70,224)
+                          𝑝𝑖1 =
+                                1 + 𝑒 (−31,1758+70,224) + 𝑒 (−76,8812+111,92)
+                                                  𝑒 (39,0482)
+                                 𝑝𝑖1 =
+                                        1 + 𝑒 (39,0482) + 𝑒 (35,0388)
+                                            𝑝𝑖1 = 0,9821
+Ou seja, a probabilidade de um cliente com renda de R$ 8.000,00 receber um crédito com restrições
+é de 98,21%.
+
+Qual a probabilidade de um cliente com renda de 9.000 reais ter acesso ao crédito sem restrição?
+                                         𝑒 (−76,8812+0,01399×9.000)
+                  𝑝𝑖2 =
+                        1 + 𝑒 (−31,1758+0,008778×9.000) + 𝑒 (−76,8812+0,01399×9.000)
+                                             𝑒 (−76,8812+125,91)
+                         𝑝𝑖2 =
+                               1 + 𝑒 (−31,1758+79,002) + 𝑒 (−76,8812+125,91)
+                                                  𝑒 (49,0288)
+                                 𝑝𝑖2 =
+                                        1 + 𝑒 (47,8262) + 𝑒 (49,0288)
+                                            𝑝𝑖2 = 0,7689
+Logo, a probabilidade de um cliente com renda de R$ 9.000,00 receber um crédito sem restrições é
+de 76,89%.
+
+        Receita Federal (Analista Tributário) Estatística                                     15
+        www.estrategiaconcursos.com.br                                                        53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Métodos de Avaliação do Modelo Logístico
+
+Após estimar os coeficientes, temos que analisar a significância das variáveis no modelo. Normalmente, essa
+tarefa exige a formulação e teste de uma hipótese estatística para determinar se as variáveis independentes
+no modelo são significativamente relacionadas com a variável dependente. Há testes para avaliar o modelo
+logístico, como o teste da razão de verossimilhança, o teste de Wald e a estatística 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 de Cox e Snell.
+Veremos a seguir cada um deles.
+
+Teste da Razão de Verossimilhança
+O teste da razão de verossimilhança verifica, simultaneamente, se todos os coeficientes da regressão
+logística são nulos, com de exceção 𝜶. A comparação entre os valores observados e esperados usando a
+                                                            ==219a34==
+
+função de verossimilhança é expressa da seguinte forma:
+                                           𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑑𝑜 𝑚𝑜𝑑𝑒𝑙𝑜 𝑎𝑗𝑢𝑠𝑡𝑎𝑑𝑜
+                             𝐷 = −2 𝑙𝑛 [                                      ]
+                                           𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑑𝑜 𝑚𝑜𝑑𝑒𝑙𝑜 𝑠𝑎𝑡𝑢𝑟𝑎𝑑𝑜
+                                             𝒏
+                                                 𝒑𝒊                 𝟏 − 𝒑𝒊
+                                𝑫 = −𝟐 ∑ [𝒚𝒊 𝒍𝒏 ( ) + (𝟏 − 𝒚𝒊 )𝒍𝒏 (        )]
+                                                 𝒚𝒊                 𝟏 − 𝒚𝒊
+                                            𝒊=𝟏
+
+
+O modelo saturado é o que contém todas as variáveis, enquanto o modelo ajustado contém apenas as
+variáveis desejadas para o estudo. A função 𝑫, também chamada de deviance (desvio), é sempre positiva
+e, quanto menor, melhor é o ajuste do modelo.
+Sendo assim, estamos realizando o seguinte teste de hipóteses:
+                                                  𝐻0 : 𝛽1 = ⋯ = 𝛽𝑡 = 0
+                                                 {
+                                                   𝐻1 : ∃𝑗=1,⋯,𝑝 𝛽𝑗 ≠ 0
+Na hipótese nula 𝐻0 , os parâmetros do modelo são todos igualados a 0. O modelo saturado, no qual os
+valores dos coeficientes são mantidos, é representado pela hipótese alternativa 𝐻1 .
+Com o propósito de estimar a significância de uma variável independente, comparamos o valor de 𝐷 com e
+sem a variável independente na equação. A alteração no valor de 𝐷 esperada pela inclusão da variável
+independente no modelo é obtida por meio de:
+                      𝐺 = 𝐷(𝑚𝑜𝑑𝑒𝑙𝑜 𝑠𝑒𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙) − 𝐷(𝑚𝑜𝑑𝑒𝑙𝑜 𝑐𝑜𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙)
+Então, podemos definir a estatística 𝐺 como:
+                                              𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑠𝑒𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙
+                                𝐺 = −2𝑙𝑛 [                                   ]
+                                              𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑐𝑜𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙
+Ao rejeitar a hipótese nula, temos que a variável independente testada, é significativa para o modelo.
+
+        Receita Federal (Analista Tributário) Estatística                                                   16
+        www.estrategiaconcursos.com.br                                                                      53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Teste de Wald
+O teste de Wald é utilizado na regressão logística para determinar a significância dos coeficientes do
+modelo estimado, verificando se cada coeficiente é significativamente diferente de zero. Deste modo, o
+teste de Wald analisa se uma determinada variável independente possui uma relação estatisticamente
+significativa com a variável dependente.
+Se os coeficientes logísticos forem estatisticamente significativos, podemos interpretá-los em termos de seu
+impacto na probabilidade estimada, deste modo, na predição do objeto de estudo no grupo respectivo, isto
+é, no grupo do evento de interesse (𝑌 = 1); ou no grupo da não ocorrência do evento (𝑌 = 0).
+O teste de Wald é obtido comparando a estimativa de máxima verossimilhança de um coeficiente e a
+estimativa do seu erro padrão:
+
+                                                      ̂𝒋
+                                                      𝜷             ̂𝒋
+                                                                    𝜷
+                                             𝑾𝒋 =            =
+                                                    𝒔𝒆(𝜷̂ 𝒋)
+                                                                      ̂ 𝒋)
+                                                                 √𝑽𝒂𝒓(𝜷
+
+O teste de Wald pode se comportar de maneira inconsistente, falhando em não rejeitar a hipótese nula
+mesmo quando o coeficiente é significativo.
+
+𝑷𝒔𝒆𝒖𝒅𝒐 𝑹𝟐
+A estatística 𝑅 2 é uma medida que avalia, em termos percentuais, a qualidade do ajuste de um modelo de
+regressão linear aos dados observados. Na regressão logística, não existe uma estatística equivalente ao 𝑅 2 ,
+vez que a variável dependente é categórica, por isso a estatística 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 foi desenvolvida.
+Embora seja parecido com o 𝑅 2 do modelo de regressão linear, o 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 não pode ser interpretado da
+mesma forma como se interpreta um 𝑅 2 . Além disso, há várias maneiras de se calcular o 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 , não
+havendo um consenso sobre qual a melhor.
+Normalmente, o 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 de Cox e Snell é o mais utilizado pelos softwares estatísticos:
+
+                                                                           𝟐
+                                                            𝟐        𝑳 𝒏
+                                             𝒑𝒔𝒆𝒖𝒅𝒐 𝑹 =         𝟏 − ( 𝟎)
+                                                                     𝑳𝑴
+
+
+em que 𝑛 o tamanho da amostra, 𝐿0 o valor da função verossimilhança para um modelo sem preditores
+(apenas o intercepto); e 𝐿𝑀 a verossimilhança do modelo sendo estimado.
+O 𝒑𝒔𝒆𝒖𝒅𝒐 𝑹𝟐 de Cox e Snell resulta em um valor que varia de 𝟎 a 𝟏, que indica a relação entre as variáveis
+independentes e a variável dependente. De maneira simples, podemos dizer que o 𝒑𝒔𝒆𝒖𝒅𝒐 𝑹𝟐 informa o
+quanto as variáveis independentes explicam as variações da variável dependente.
+Essa medida estatística pode ser utilizada para comparar o desempenho de modelos concorrentes. Dados
+dois modelos logísticos, vamos escolher o que apresentar o valor de 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 mais elevado.
+Outra forma de se calcular o 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 é por meio da expressão proposta por McFadden:
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  17
+        www.estrategiaconcursos.com.br                                                                     53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                        −2 × 𝐿𝐿0 − (−𝐿𝐿𝑚á𝑥 )
+                                      𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 =
+                                                              2 × 𝐿𝐿0
+em que 𝐿𝐿𝑚á𝑥 é o valor máximo da somatória do logaritmo da função de verossimilhança; 𝐿𝐿0 representa o
+valor máximo da somatória do logaritmo da função de verossimilhança para um modelo que só apresenta a
+constante 𝛼 e nenhuma variável explicativa.
+A utilidade do 𝑝𝑠𝑒𝑢𝑑𝑜 𝑅 2 de McFadden é bastante limitada, restringindo-se a casos em que o pesquisador
+tenha interesse em comparar dois ou mais modelos distintos.
+
+Construção dos Intervalos de Confiança dos Parâmetros da
+Regressão Logística
+
+Os intervalos de confiança dos coeficientes da expressão, para os parâmetros 𝛼 e 𝛽𝑗 (𝑗 = 1, 2, ⋯ , 𝑘), ao
+nível de confiança de 95%, podem ser escritos, respectivamente, da seguinte forma:
+
+                                                𝜶 ± 𝟏, 𝟗𝟔 × [𝒔. 𝒆. (𝜶)]
+
+                                               𝜷𝒋 ± 𝟏, 𝟗𝟔 × [𝒔. 𝒆. (𝜷𝒋 )]
+
+em que 1,96 é o 𝑧𝑐 para q nível de confiança de 95% (nível de significância de 5%).
+
+
+O intervalo de confiança da chance de ocorrência do evento de interesse para cada parâmetro 𝛽𝑗
+(𝑗 = 1, 2, ⋯ , 𝑘), ao nível de confiança de 95%, pode ser escrito da seguinte forma:
+
+                                                  𝒆𝜷𝒋 ±𝟏,𝟗𝟔×[𝒔.𝒆.(𝜷𝒋)]
+
+Reparem que não apresentamos a expressão do intervalo de confiança da 𝑐ℎ𝑎𝑛𝑐𝑒 para o parâmetro 𝛼, pois
+só faz sentido discutirmos a mudança na 𝑐ℎ𝑎𝑛𝑐𝑒 de ocorrência do evento em estudo quando a variável
+explicativa é alterada em uma unidade
+
+        Receita Federal (Analista Tributário) Estatística                                             18
+        www.estrategiaconcursos.com.br                                                                53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                  QUESTÕES COMENTADAS
+
+Regressão Logística
+
+1. (Instituto Consulplan/TJ-MA/2024) A respeito de um modelo de regressão logística para uma variável
+resposta Y considerando a função de ligação canônica associada ao modelo Bernoulli, chamada de logit, é
+INCORRETO afirmar que:
+a) A variável resposta indica se cada unidade amostral tem ou não uma característica específica.
+b) A função logit fornece uma predição para Y, denotando pelo valor 1 a presença da característica estudada
+(sucesso) e pelo valor 0 a sua ausência (fracasso).
+c) A razão de chances (odds ratio) associada a uma variável explicativa contínua 1 mensura a mudança na
+chance (odds) de ocorrência de Y devido a uma mudança unitária em 1, fixadas as demais variáveis
+explicativas do modelo.
+d) O coeficiente 1 de uma variável explicativa contínua 1 fornece a mudança no logaritmo natural da chance
+(odds) de ocorrência de Y associada a uma mudança de uma unidade em 1, assumindo que as outras variáveis
+explicativas sejam mantidas fixas.
+
+
+Comentários:
+Vamos analisar cada uma das alternativas:
+Alternativa A: Correta. A variável resposta indica se cada unidade amostral tem ou não uma característica
+específica.
+No modelo de regressão logística, a variável resposta Y é binária e indica a presença (1) ou ausência (0) de
+uma característica específica.
+
+
+Alternativa B: Incorreta. A função logit fornece uma predição para Y, denotando pelo valor 1 a presença da
+característica estudada (sucesso) e pelo valor 0 a sua ausência (fracasso).
+A função logit fornece a predição da probabilidade de Y ser 1 (presença da característica) dado um conjunto
+de variáveis explicativas, não diretamente a predição de Y. A predição de Y como 0 ou 1 é feita comparando
+a probabilidade prevista com um limiar, tipicamente 0,5.
+
+
+Alternativa C: Correta. A razão de chances (odds ratio) associada a uma variável explicativa contínua mensura
+a mudança na chance (odds) de ocorrência de Y devido a uma mudança unitária em 𝑋1, fixadas as demais
+variáveis explicativas do modelo.
+
+        Receita Federal (Analista Tributário) Estatística                                                 19
+        www.estrategiaconcursos.com.br                                                                    53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+A razão de chances (odds ratio) mede o fator pelo qual as chances (odds) de ocorrência de 𝑌 mudam com
+uma unidade de aumento em 𝑋1, mantendo as outras variáveis constantes.
+
+
+Alternativa D: Correta. O coeficiente β1 de uma variável explicativa contínua 𝑋1 fornece a mudança no
+logaritmo natural da chance (odds) de ocorrência de Y associada a uma mudança de uma unidade em 𝑋1,
+assumindo que as outras variáveis explicativas sejam mantidas fixas.
+No modelo de regressão logística, o coeficiente 𝛽1 representa a mudança no logaritmo das chances (odds)
+de Y ocorrer para uma mudança de uma unidade em 𝑋1, mantendo as outras variáveis constantes.
+Gabarito: B.
+
+
+2. (FGV/TJ-AP/2024) Um departamento de recursos humanos está conduzindo um estudo sobre a
+probabilidade de os funcionários serem promovidos. Foram coletados dados sobre o desempenho, nível
+educacional e anos de experiência de uma amostra de funcionários. Ao realizar uma análise estatística,
+eles identificaram que a técnica mais apropriada para prever a probabilidade de promoção é a Regressão
+Logística.
+Nesse contexto, essa técnica é utilizada para:
+a) calcular a média de promoções nos últimos anos dentro da empresa;
+b) prever o salário dos funcionários com base em suas características pessoais;
+c) calcular a correlação entre variáveis como desempenho, educação e experiência;
+d) identificar funcionários mais antigos na empresa com chances elevadas de promoção;
+e) prever a probabilidade de promoção dos funcionários, considerando variáveis independentes.
+
+
+Comentários:
+Nesse contexto, a técnica de Regressão Logística é utilizada para prever a probabilidade de promoção dos
+funcionários, considerando variáveis independentes.
+A regressão logística é uma técnica estatística usada para modelar a relação entre uma variável dependente
+binária (como sim ou não, sucesso ou fracasso, promoção ou não promoção) e uma ou mais variáveis
+independentes (como desempenho, nível educacional, anos de experiência).
+Ela é especialmente útil quando a variável dependente é categórica. Portanto, é uma escolha adequada para
+prever a probabilidade de promoção dos funcionários com base em suas características pessoais, como
+desempenho, nível educacional e anos de experiência.
+Gabarito: E.
+
+
+3. (FGV/CGE SC/2023) Considere o modelo de regressão estimado:
+
+
+        Receita Federal (Analista Tributário) Estatística                                              20
+        www.estrategiaconcursos.com.br                                                                 53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                      𝑾𝒊 = 𝟎, 𝟓 + 𝟎, 𝟏 ∗ 𝑬𝒊 + 𝟎, 𝟐 ∗ 𝑫𝒊 + 𝒖𝒊,
+em que wi é o logaritmo neperiano do salário, Ei é o logaritmo neperiano dos anos de estudo e Di é uma
+variável binária igual a 1 se homem e a 0 se mulher.
+Considere que todas as estimativas são estatisticamente significativas a 1%.
+A partir das estimativas acima, é possível concluir que, em média,
+a) para cada ano adicional de estudo, o salário cresce 10%.
+b) para cada aumento de 1% nos anos de estudo, o salário cresce 0,1%.
+c) os homens ganham 0,2% a mais do que as mulheres.
+d) os homens ganham 20% a mais do que as mulheres.
+e) as mulheres ganham 0,1% a mais do que os homens para cada ano adicional de estudo.
+
+
+Comentários:
+Nessa questão, temos um modelo de regressão logística do tipo 𝑙𝑜𝑔 − 𝑙𝑜𝑔, em que tanto a variável resposta
+quanto a variável independente estão expressas em logaritmo neperiano. Sabendo disso, vamos transformar
+as variáveis 𝑊𝑖 e 𝐸𝑖 do modelo de regressão original nas variáveis 𝑦𝑖 , correspondente ao salário; e 𝑥𝑖 , relativa
+aos anos de estudo:
+                                           𝑊𝑖 = 0,5 + 0,1𝐸𝑖 + 0,2𝐷𝑖 + 𝑢𝑖
+                                      𝑙𝑛(𝑦𝑖 ) = 0,5 + 0,1𝑙𝑛(𝑥𝑖 ) + 0,2𝐷𝑖 + 𝑢𝑖
+                                             𝑦𝑖 = 𝑒 (0,5+0,1𝑙𝑛(𝑥𝑖 )+0,2𝐷𝑖+𝑢𝑖 )
+Então, nosso modelo passa a ser:
+                                             𝑦𝑖 = 𝑒 (0,5+0,2𝐷𝑖+𝑢𝑖 ) × 𝑥𝑖 0,1
+Quando 𝑥 aumenta em 1%, passamos a ter 1,01𝑥, e a razão, em relação a situação anterior, fica:
+                                           𝑒 (0,5+0,2𝐷𝑖 +𝑢𝑖) × (1,01𝑥𝑖 )0,1
+                                                                            =
+                                                𝑒 (0,5+0,2𝐷𝑖 +𝑢𝑖 ) × 𝑥𝑖 0,1
+                                          (1,01𝑥𝑖 )0,1
+                                                       = (1,01)0,1 ≅ 1,001
+                                             𝑥𝑖 0,1
+Ou seja, para cada aumento de 1% nos anos de estudo (em 𝑥𝑖 ), o salário cresce 0,1%.
+
+
+Agora vamos analisar o efeito da binária 𝐷𝑖 no salário. Comparando-se o que ocorre no salário dos homens
+(𝐷𝑖 = 1) com relação ao salário das mulheres (𝐷𝑖 = 0).
+                                               𝑒 (0,5+0,2×𝟏+𝑢𝑖 ) × 𝑥𝑖 0,1
+                                                                          =
+                                               𝑒 (0,5+0,2×𝟎+𝑢𝑖 ) × 𝑥𝑖 0,1
+                                                     𝑒 (0,5+0,2+𝑢𝑖 )
+                                                                     =
+                                                        𝑒 (0,5+𝑢𝑖 )
+                                            𝑒 (0,5+0,2+𝑢𝑖 )−(0,5+𝑢𝑖 ) = 𝑒 (0,2)
+Logo, os homens ganham, em média, 𝑒 (0,2) − 1 = 22% a mais do que as mulheres.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                      21
+        www.estrategiaconcursos.com.br                                                                         53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Gabarito: B.
+
+
+4. (IBFC/Pref. Cuiabá/2023) Assinale a alternativa incorreta.
+a) No caso de uma regressão logística, a variável resposta binária (0 ou 1) apresenta uma relação linear com
+a variável explicativa contínua
+b) Num modelo de regressão logística com variável resposta binária, a suposição de variância constante é
+violada
+c) No modelo de regressão logística binária, o interesse é calcular o risco de ocorrer o evento em relação a
+não ocorrência do evento
+d) A estimação dos parâmetros envolvidas num modelo de regressão logística não é direto
+
+
+Comentários:
+A regressão logística é utilizada para variáveis dependentes qualitativas, geralmente, binárias. É comumente
+utilizada quando queremos calcular probabilidades de eventos que se resumem a estados dicotômicos:
+"sucesso" ou "fracasso"; "sim" ou "não"; "positivo" ou "negativo". Na regressão logística, a variável
+dependente é categórica.
+Esse modelo não satisfaz as premissas básicas do modelo de regressão linear, pois os erros não são normais
+e existe heterocedasticidade. A regressão logística é utilizada para representar probabilidades de ocorrência
+de um determinado evento, sendo essa probabilidade mapeada no intervalo real [0,1].
+Analisando as alternativas, temos:
+Alternativa A: Incorreta. No caso de uma regressão logística, a variável resposta binária (0 ou 1) apresenta
+uma relação linear com a variável explicativa contínua. Conforme vimos, na regressão logística, não existe
+uma relação linear entre as variáveis.
+Alternativa B: Correta. Num modelo de regressão logística com variável resposta binária, a suposição de
+variância constante é violada. Diferentemente da regressão linear, a regressão logística não pressupõe
+normalidade dos resíduos, também não pressupõe a homogeneidade de variância.
+Alternativa C: Correta. No modelo de regressão logística binária, o interesse é calcular o risco de ocorrer o
+evento em relação a não ocorrência do evento. A regressão logística é um recurso que nos permite estimar
+a probabilidade associada à ocorrência de determinado evento com base em um conjunto de variáveis
+explanatórias.
+Alternativa D: Correta. A estimação dos parâmetros envolvidas num modelo de regressão logística não é
+direto. Na regressão logística, a probabilidade de ocorrência de um evento pode ser estimada diretamente,
+entretanto, a estimação dos parâmetros envolvidos não é feita diretamente, por meio de uma fórmula, como
+ocorre na regressão linear.
+Gabarito: A.
+
+        Receita Federal (Analista Tributário) Estatística                                                 22
+        www.estrategiaconcursos.com.br                                                                    53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+5. (CESPE/PETROBRAS/2022) Uma determinada repartição pública fez um levantamento do tempo 𝒚𝒊 , em
+minutos, que os cinco funcionários de uma sessão gastam para chegar ao trabalho em função da distância
+𝒙𝒊 , em quilômetros, de suas residências. O resultado da pesquisa realizada com cada um deles é
+                                       ̅e𝒙
+apresentado na tabela a seguir, em que 𝒙   ̅ são, respectivamente, as médias amostrais das variáveis x e
+y.
+
+     𝒊         Tempo (𝒚𝒊 )       Distância (𝒙𝒊 )           ̅
+                                                      𝒙𝒊 − 𝒙          ̅
+                                                                 𝒚𝒊 − 𝒚            ̅) × (𝒚𝒊 − 𝒚
+                                                                             (𝒙𝒊 − 𝒙          ̅)         ̅) 𝟐
+                                                                                                   (𝒙𝒊 − 𝒙
+
+     1              10                  5                -4        -7                28               16
+
+     2              20                  5                -4         3               -12               16
+
+     3              15                 10                1         -2                -2                1
+
+     4              10                 10                1         -7                -7                1
+
+     5              30                 15                6         13                78               36
+
+   édia             17                  9
+
+Com base nos dados dessa tabela, julgue o próximo item.
+Uma forma de melhorar o modelo de regressão linear para a situação em questão é utilizar o modelo de
+regressão logística, uma vez que a variável dependente se apresenta de forma quantitativa.
+
+
+Comentários:
+A regressão logística é utilizada para variáveis dependentes qualitativas e, geralmente, binárias. É
+comumente utilizada quando queremos calcular as probabilidades de eventos que se resumem a estados
+dicotômicos: sucesso ou fracasso; sim ou não; presença ou ausência; positivo ou negativo. Não é o caso da
+presente questão, vez que a regressão busca analisar a relação entre duas variáveis quantitativas, tempo
+(resposta) e distância (explicativa).
+Gabarito: Errado.
+
+
+6. (FGV/TJDFT/2022) A chance de um evento que ocorre com probabilidade p é definida como c = p/(1-p).
+Quando queremos entender a associação de um fator com um evento de interesse, em geral computamos
+a razão de chances, r = 𝒄𝟎 /𝒄𝟏 , onde 𝒄𝟎 é a chance sem a exposição e 𝒄𝟏 é a chance com a exposição.
+Suponha que um analista dispõe de um conjunto de dados binários Y = (𝒀𝟏 ,..., 𝒀𝒏 ), com Y_i tomando
+valores em {0, 1} contendo o resultado de um teste de Covid-19 em n pacientes e que X = (𝑿𝟏 , ..., 𝑿𝒏 ) é um
+
+
+          Receita Federal (Analista Tributário) Estatística                                                     23
+          www.estrategiaconcursos.com.br                                                                        53
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+conjunto de covariáveis também binárias que indicam se o indivíduo foi (𝑿𝒊 = 1) ou não (𝑿𝒊 = 0) a uma
+festa nos últimos dez dias.
+O analista quer determinar se a variável X está significativamente associada com o resultado do teste, Y.
+Para tanto, ajusta um modelo de regressão logística utilizando Y como variável resposta, um termo de
+intercepto e X como covariável.
+Ele obtém uma estimativa b0 para o intercepto, com erro padrão s0 e, para o coeficiente de X, uma
+estimativa b1 erro padrão s1.
+O intervalo de confiança de 90% para a razão de chances é:
+a) (exp(b1 - 1.64*s1), exp(b1 + 1.64*s1));
+b) (invlogit(b1-b0 - 1.64*(s0 + s1), invlogit(b1-b0 + 1.64*(s0 + s1)));
+c) (invlogit(b1 - 1.96*s1), invlogit(b1 + 1.96*s1));
+d) (invlogit(b1-b0 - 1.96*(s0 + s1), invlogit(b1-b0 + 1.96*(s0 + s1)));
+e) (exp(b1 - 1.96*s1), exp(b1 + 1.96*s1)).
+
+
+Comentários:
+O intervalo de confiança da chance de ocorrência do evento de interesse para cada parâmetro 𝛽𝑗
+(𝑗 = 1, 2, ⋯ , 𝑘), ao nível de confiança de 95%, pode ser escrito da seguinte forma:
+
+                                                    𝑒 𝛽𝑗±1,64×[𝑠.𝑒.(𝛽𝑗)]
+em que 1,64 é o 𝑧𝑐 para q nível de confiança de 90% (nível de significância de 10%); e 𝑠. 𝑒. (𝛽𝑗 ) é o erro
+padrão para a estimativa do parâmetro 𝛽𝑗 .
+Gabarito: A.
+
+
+7. (VUNESP/EsFECx/2022) Um modelo de regressão logística foi usado na identificação de fatores de risco
+para mortalidade de pacientes submetidos à cirurgia de revascularização do miocárdio com circulação
+sanguínea extracorpórea. Os seguintes fatores foram significativos no modelo: idade do paciente (em
+anos), necessidade de diálise no pós-operatório (0 – não; 1 – sim), lesão neurológica tipo I (0 – não; 1 –
+sim), CEC – tempo de circulação extracorpórea (0 – menor que 90 minutos; 1 – maior que 90 minutos) e o
+tempo entre a admissão hospitalar e a cirurgia (em dias). A tabela a seguir apresenta o resultado do ajuste
+do modelo logístico binário para a variável resposta Y (0 – não óbito; 1 – óbito), com as estimativas dos
+coeficientes e a razão de chances (odds ratio):
+                                 𝒆𝜷𝟎 +𝜷𝟏 "𝒊𝒅𝒂𝒅𝒆"+𝜷𝟐"𝒅𝒊á𝒍𝒊𝒔𝒆"+𝜷𝟑 "𝒍𝒆𝒔ã𝒐 𝑰"+𝜷𝟒"𝑪𝑬𝑼"+𝜷𝟓 "𝒕𝒆𝒎𝒑𝒐 𝒂𝒅𝒎𝒊𝒔𝒔ã𝒐"
+                𝑷(𝒀 = 𝟏) =
+                               𝟏 + 𝒆𝜷𝟎 +𝜷𝟏 "𝒊𝒅𝒂𝒅𝒆"+𝜷𝟐 "𝒅𝒊á𝒍𝒊𝒔𝒆"+𝜷𝟑"𝒍𝒆𝒔ã𝒐 𝑰"+𝜷𝟒 "𝑪𝑬𝑼"+𝜷𝟓"𝒕𝒆𝒎𝒑𝒐 𝒂𝒅𝒎𝒊𝒔𝒔ã𝒐"
+                                       Tabela: Resultado do modelo ajustado
+
+         Receita Federal (Analista Tributário) Estatística                                                24
+         www.estrategiaconcursos.com.br                                                                   53
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                 Fatores              Coeficientes (𝜷)       Razão de chances
+
+                               Constante                      - 2,996              0,05
+
+                                  Idade                       0,470                1,60
+
+                                Diálise (*)                   2,015                7,50
+
+                               Lesão I (*)                    1,335                3,80
+
+                                 CEC (*)                      1,065                2,90
+
+                           Tempo admissão                     0,182                1,09
+
+               (*)As categorias de referência em todos os fatores binários foi a categoria zero.
+Considere as seguintes afirmativas sobre o resultado do modelo ajustado.
+I. A idade do paciente e o tempo entre a admissão hospitalar e a cirurgia têm uma associação inversa ao
+óbito, ou seja, valores maiores diminuem a probabilidade de o paciente vir a óbito.
+II. Com relação à necessidade de diálise, a chance relativa de óbito nos pacientes com necessidade desse
+tratamento no pós-operatório é 650% maior do que aqueles não submetidos à diálise
+III. O aumento de um dia no tempo entre a admissão no hospital e a cirurgia aumenta a chance relativa de
+óbito do paciente em cerca de 9%.
+IV. O aumento de 3 anos na idade do paciente aumenta em cerca de 310% (1,6³=4,10) a chance relativa de
+óbito do paciente.
+Avaliando as afirmações I, II, III e IV como verdadeiras (V) ou falsas (F), tem-se respectivamente:
+a) VFVF
+b) VVFV
+c) FVVF
+d) FFVV
+e) FVVV
+
+
+Comentários:
+Considere as seguintes afirmativas sobre o resultado do modelo ajustado.
+I. A idade do paciente e o tempo entre a admissão hospitalar e a cirurgia têm uma associação inversa ao
+óbito, ou seja, valores maiores diminuem a probabilidade de o paciente vir a óbito.
+
+          Receita Federal (Analista Tributário) Estatística                                           25
+          www.estrategiaconcursos.com.br                                                              53
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Incorreto. Como os coeficientes da variável idade e da variável tempo de admissão são positivos, a variação
+será no mesmo sentido, isto é, valores maiores aumentarão a probabilidade de óbito de pacientes
+submetidos à cirurgia de revascularização do miocárdio com circulação sanguínea extracorpórea. Essa
+probabilidade é representada por meio da seguinte expressão:
+                                       𝑒 −2,996+0,470×"𝑖𝑑𝑎𝑑𝑒"+0,182×"𝑡𝑒𝑚𝑝𝑜 𝑎𝑑𝑚𝑖𝑠𝑠ã𝑜"
+                          𝑃(𝑌 = 1) =
+                                     1 + 𝑒 −2,996+0,470×"𝑖𝑑𝑎𝑑𝑒"+0,182×"𝑡𝑒𝑚𝑝𝑜 𝑎𝑑𝑚𝑖𝑠𝑠ã𝑜"
+
+
+II. Com relação à necessidade de diálise, a chance relativa de óbito nos pacientes com necessidade desse
+tratamento no pós-operatório é 650% maior do que aqueles não submetidos à diálise
+Correto. Para encontrarmos a razão de chance, dividimos a probabilidade de ocorrência do evento (p) pela
+probabilidade de não ocorrência (1-p). Depois, dividimos pela categoria de referência, no caso a constante.
+Matematicamente, isso pode ser representado da seguinte forma:
+                          𝑒 −2,996+2,015×1                 𝑒 −2,996+2,015×1
+                        1+𝑒    −2,996+2,015×1            1 + 𝑒 −2,996+2,015×1
+                             𝑒 −2,996+2,015×1    1+𝑒 −2,996+2,015×1   − 𝑒 −2,996+2,015×1
+                       1−
+                  𝑅𝐶 =    1 + 𝑒 −2,996+2,015×1 =         1 + 𝑒 −2,996+2,015×1
+                               𝑒 −2,996                         𝑒 −2,996
+                            1+𝑒     −2,996                   1 + 𝑒 −2,996
+                                  𝑒 −2,996             1 + 𝑒 −2,996 − 𝑒 −2,996
+                          1−
+                               1 + 𝑒 −2,996                  1 + 𝑒 −2,996
+                                                    𝑒 −2,996+2,015×1
+                                                  1 + 𝑒 −2,996+2,015×1
+                                                             1
+                                                  1 +  𝑒 −2,996+2,015×1
+                                             𝑅𝐶 =
+                                                         𝑒 −2,996
+                                                      1 + 𝑒 −2,996
+                                                             1
+                                                      1 + 𝑒 −2,996
+                                          𝑒 −2,996+2,015×1
+                                     𝑅𝐶 =        −2,996
+                                                           = 𝑒 2,015×1 = 7,50
+                                               𝑒
+Portanto, a chance de o evento ocorrer é 7,5 vezes maior do que a chance de não ocorrer. Assim, a chance
+relativa de óbito nos pacientes com necessidade desse tratamento no pós-operatório é 650% maior do que
+aqueles não submetidos à diálise.
+
+
+III. O aumento de um dia no tempo entre a admissão no hospital e a cirurgia aumenta a chance relativa de
+óbito do paciente em cerca de 9%.
+Correto. Como no item II, a razão de chances indica o número de vezes que a probabilidade de ocorrência
+do evento (p) é maior que probabilidade de não ocorrência (1-p), em relação à categoria de referência. Como
+a razão de chances foi de 1,09, significa dizer que o aumento de um dia no tempo entre a admissão no
+hospital e a cirurgia aumenta a chance relativa de óbito do paciente em cerca de 9%.
+
+        Receita Federal (Analista Tributário) Estatística                                               26
+        www.estrategiaconcursos.com.br                                                                  53
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+IV. O aumento de 3 anos na idade do paciente aumenta em cerca de 310% (1,6³=4,10) a chance relativa de
+óbito do paciente.
+Correto. Como no item II, para encontrarmos a razão de chance, dividimos a probabilidade de ocorrência do
+evento (p) pela probabilidade de não ocorrência (1-p). Depois, dividimos pela categoria de referência, no
+caso a constante. Matematicamente, isso pode ser representado da seguinte forma:
+                               𝑒 −2,996+0,470×3                  𝑒 −2,996+0,470×3
+                             1 + 𝑒 −2,996+0,470×3              1 + 𝑒 −2,996+0,470×3
+                                  𝑒 −2,996+0,470×3     1+𝑒 −2,996+0,470×3   − 𝑒 −2,996+0,470×3
+                            1−        −2,996+0,470×3                 −2,996+0,470×3
+                       𝑅𝐶 =    1+𝑒                   =         1+𝑒
+                                    𝑒 −2,996                          𝑒 −2,996
+                                 1 + 𝑒 −2,996                      1 + 𝑒 −2,996
+                                       𝑒 −2,996              1 + 𝑒 −2,996 − 𝑒 −2,996
+                               1−          −2,996
+                                    1+𝑒                            1 + 𝑒 −2,996
+                                                                 𝑒 −2,996+0,470×3
+                                                               1 + 𝑒 −2,996+0,470×3
+                                                                         1
+                                                                     −2,996+0,470×3
+                                                          𝑅𝐶 = 1 + 𝑒 −2,996
+                                                                      𝑒
+                                                                   1 + 𝑒 −2,996
+                                                                         1
+                                                                   1 + 𝑒 −2,996
+                                                                   𝑒 −2,996+0,470×3
+                                                              𝑅𝐶 =
+                                                                        𝑒 −2,996
+                                 𝑅𝐶 = 𝑒 +2,996−2,996+0,470×3 = 𝑒 0,470×3 = (𝑒 0,470 )3 = (1,6)3
+Gabarito: D.
+
+
+8. (VUNESP/EsFECx/2022) Considere o seguinte modelo de regressão entre as variáveis X e Y:
+                                                          𝒀𝒊 = 𝜶𝒆𝜷𝑿𝒊 +∈𝒊 , 𝒊 = 𝟏, … , 𝒏
+         ∑𝒏
+          𝒊=𝟏 𝑿𝒊             ∑𝒏
+                              𝒊=𝟏 𝒀𝒊
+   ̅=
+Se 𝑿                ̅=
+                   e𝒀                  são as médias amostrais, os estimadores de mínimos quadrados dos parâmetros
+              𝒏                𝒏
+α e β são dados por:
+                         ∑      𝑛               𝑛         𝑛
+                             𝑋 𝑌 −(∑    𝑋 )(∑   𝐼𝑛𝑌 )
+a) 𝑎̂ = 𝑌̅ − 𝛽̂ 𝑋̅ e 𝛽̂ = 𝑖=1 𝑖 𝑖 ∑𝑛𝑖=1 𝑋 𝑖2 𝑖=1 𝑖
+                                                𝑖=1 𝑖
+
+                              ∑𝑛          ̅ 𝑛
+                               𝑖=1 𝑋𝑖 𝑌𝑖 −𝑋 ∑𝑖=1 𝐼𝑛𝑌𝑖
+b) 𝑎̂ = 𝑌̅ − 𝛽̂ 𝑋̅ e 𝛽̂ =                   𝑛
+            ∑𝑛          ̂̅
+             𝑖=1 𝐼𝑛𝑌𝑖 −𝑛𝛽𝑋             ∑𝑛             ̅ 𝑛
+                                        𝑖=1 𝑋𝑖 𝐼𝑛𝑌𝑖 −𝑋 ∑𝑖=1 𝐼𝑛𝑌𝑖
+c) 𝑎̂ = 𝑒          𝑛         e 𝛽̂ =         ∑𝑛      2   ̅2
+                                               𝑖=1 𝑋𝑖 −𝑛𝑋
+
+               ̂             ∑𝑛             ̅̅
+                              𝑖=1 𝑋𝑖 𝐼𝑛𝑌𝑖 −𝑛𝑋 𝑌
+d) 𝑎̂ = 𝑒 𝑌̅−𝛽𝑋̅ e 𝛽̂ =                𝑛
+            ∑𝑛          ̂̅
+             𝑖=1 𝐼𝑛𝑌𝑖 −𝑛𝛽𝑋             ∑𝑛 𝐼𝑛𝑌 −𝑛𝑋̅ 𝑌̅
+e) 𝑎̂ = 𝑒          𝑛         e 𝛽̂ = ∑𝑖=1    𝑖
+                                      𝑛 𝑋 2 −𝑛𝑋
+                                              ̅2
+                                           𝑖=1 𝑖
+
+            Receita Federal (Analista Tributário) Estatística                                                  27
+            www.estrategiaconcursos.com.br                                                                     53
+
+                                                    
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+Comentários:
+Essa questão pede os estimadores mínimos quadrados dos parâmetros 𝛼 e 𝛽. Já sabemos que os parâmetros
+da regressão linear são estimados pelo método dos mínimos quadrados. Podemos tentar transformar o
+modelo descrito no enunciado em um modelo linear, para, então, calcularmos os estimadores dos
+parâmetros.
+Para isso, começamos aplicando o logaritmo natural nos dois lados do modelo de regressão:
+                                                          𝑌𝑖 = 𝛼𝑒 𝛽𝑋𝑖
+                                                  𝑙𝑛(𝑌𝑖 ) = 𝑙𝑛(𝛼𝑒 𝛽𝑋𝑖 +𝜀𝑖 )
+
+                                               𝑙𝑛(𝑌𝑖 ) = 𝑙𝑛(𝛼) + 𝑙𝑛(𝑒 𝛽𝑋𝑖 +𝜀𝑖 )
+                                           𝑙𝑛(𝑌𝑖 ) = 𝑙𝑛(𝛼) + (𝛽𝑋𝑖 + 𝜀𝑖 ) × 𝑙𝑛(𝑒)
+Obtemos, portanto, um modelo de regressão linear:
+
+                                                ⏟ 𝑖 ) = 𝑙𝑛(𝛼)
+                                                𝑙𝑛(𝑌    ⏟     + 𝛽𝑋𝑖 + 𝜀𝑖
+                                                  𝑊𝑖          𝛿
+
+                                                     𝑊𝑖 = 𝛿 + 𝛽𝑋𝑖 + 𝜀𝑖
+Agora, podemos obter a estimativa do parâmetro 𝛽̂ por meio da fórmula:
+                                               𝑛 ∑𝑛𝑖=1 𝑋𝑖 𝑊𝑖 − (∑𝑛𝑖=1 𝑋𝑖 )(∑𝑛𝑖=1 𝑊𝑖 )
+                                        𝛽̂ =
+                                                     𝑛 ∑𝑛𝑖=1 𝑋𝑖2 − (∑𝑛𝑖=1 𝑋𝑖 )2
+Substituindo 𝑊𝑖 por 𝑙𝑛(𝑌𝑖 ), temos:
+                                           𝑛 ∑𝑛𝑖=1 𝑋𝑖 𝑙𝑛(𝑌𝑖 ) − (∑𝑛𝑖=1 𝑋𝑖 )(∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 ))
+                                    𝛽̂ =
+                                                     𝑛 ∑𝑛𝑖=1 𝑋𝑖2 − (∑𝑛𝑖=1 𝑋𝑖 )2
+                                             𝑛 ∑𝑛𝑖=1 𝑋𝑖 𝑙𝑛(𝑌𝑖 ) − 𝑛𝑋̅ × (∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 ))
+                                      𝛽̂ =
+                                                        𝑛 ∑𝑛𝑖=1 𝑋𝑖2 − (𝑛𝑋̅)2
+                                               ∑𝑛𝑖=1 𝑋𝑖 𝑙𝑛(𝑌𝑖 ) − 𝑋̅ × (∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 ))
+                                        𝛽̂ =
+                                                          ∑𝑛𝑖=1 𝑋𝑖2 − 𝑛𝑋̅ 2
+
+Para o nosso modelo linear, o parâmetro 𝛿̂ pode ser estimado por meio da fórmula:
+
+                                                        𝛿̂ = 𝑊
+                                                             ̅ − 𝛽̂ 𝑋̅
+                                                ̅ vamos usar a média dos logaritmos naturais de 𝑌𝑖 , isto é,
+Como 𝑙𝑛(𝑌𝑖 ) está substituindo 𝑊𝑖 , no lugar de 𝑊
+∑𝑛
+ 𝑖=1 𝑙𝑛(𝑌𝑖 )
+           . Além disso, em nosso modelo linear, o parâmetro 𝛿̂ assume a forma de 𝑙𝑛(𝛼̂). Portanto, temos:
+     𝑛
+
+                                                         ∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 )
+                                                 𝑙𝑛(𝛼̂) =              − 𝑋̅
+                                                               𝑛
+                                                        ∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 ) 𝑛𝛽̂ 𝑋̅
+                                               𝑙𝑛(𝛼̂) =              −
+                                                             𝑛           𝑛
+                                                          ∑𝑛𝑖=1 𝑙𝑛(𝑌𝑖 ) − 𝑛𝛽̂ 𝑋̅
+                                               𝑙𝑛(𝛼̂) =
+                                                                   𝑛
+
+          Receita Federal (Analista Tributário) Estatística                                              28
+          www.estrategiaconcursos.com.br                                                                 53
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                         ∑𝑛            ̂̅
+                                                          𝑖=1 𝑙𝑛(𝑌𝑖 )−𝑛𝛽 𝑋
+                                                  𝛼̂ = 𝑒         𝑛
+
+Gabarito: C.
+
+
+9. (CESPE/SEFAZ AL/2021) Acerca de regressão linear e regressão logística, julgue o item seguinte.
+A regressão logística é um modelo de regressão no qual a relação entre as variáveis independentes e a
+variável dependente é representada por uma função degrau, a qual, por sua vez, pode ser representada por
+uma spline.
+
+
+Comentários:
+Utilizamos a regressão logística para analisar as probabilidades de ocorrência de um determinado evento,
+sendo essa probabilidade mapeada no intervalo de 0 a 1. A representação gráfica da função que descreve a
+probabilidade estimada é a curva S ou sigmoide, que é contínua; e não uma função degrau, utilizada para
+representar valores discretos.
+
+Gabarito: Errado.
+
+
+10. (FUNDEP/CRM MG/2021) A seguir, tem-se a saída de um programa estatístico com os resultados de
+uma regressão logística. As variáveis estudadas são Y = “Câncer de Próstata” (1=tem e 0=não tem) e X =
+“Fumante” (1=sim e 0=não).
+
+                                                                                        IC de 95%
+                Termo        Coef.    EP de coef.       Valor Z       Valor - P   RC
+                                                                                         para RC
+
+               Constante     -3,55        0,359             -9,8       0,000
+
+               Fumante       1,75         0,407             4,3        0,000      5,8   (2,6;12,8)
+
+        Receita Federal (Analista Tributário) Estatística                                            29
+        www.estrategiaconcursos.com.br                                                               53
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+Dado: 𝒆−𝟏,𝟖𝟑 ≈ 𝟎, 𝟏𝟔
+Analisando os resultados apresentados, analise as afirmativas a seguir.
+I. O modelo de regressão logístico ajustado foi p = –3,55 + 1,75*X, em que p é probabilidade de um homem
+ter câncer de próstata.
+II. A chance de um homem fumante vir a ter câncer de próstata é quase 6 vezes a chance de um homem
+não fumante.
+III. O intervalo de confiança de 95% na última coluna mostra que a razão de chance (RC) não é
+estatisticamente significativa.
+IV. A probabilidade de um homem fumante vir a ter câncer de próstata é 0,14.
+Está(ão) correta(s) a(s) afirmativa(s)
+a) II, apenas.
+b) II e IV, apenas.
+c) I e III, apenas.
+d) I, III e IV, apenas.
+
+
+Comentários:
+Vamos analisar cada item:
+                                                                                  1
+Item I. Incorreto. O modelo de regressão logístico ajustado foi 𝑝 = 1+𝑒 −(−3,55+1,75×𝑋) , em que p é
+probabilidade de um homem ter câncer de próstata.
+Item II. Correto. A razão de chance de um homem fumante vir a ter câncer de próstata é de 5,8 vezes a
+chance de um homem não fumante.
+Item III. Incorreto. O intervalo de confiança de 95% apenas representa o intervalo numérico no qual, com
+95% de confiança, o verdadeiro valor da razão de chances da população pode ser encontrado. Portanto, não
+diz nada sobre a razão de chance ser ou não estatisticamente significativa.
+Item III. Correto. A probabilidade de um homem fumante vir a ter câncer de próstata é:
+
+                                                        𝑒 (−3,55+1,75×1)
+                                                𝑝=
+                                                      1 + 𝑒 (−3,55+1,75×1)
+                                                              𝑒 (−1,8)
+                                                        =
+                                                            1 + 𝑒 (−1,8)
+                                                               0,16
+                                                        =
+                                                             1 + 0,16
+                                                        0,16
+                                                    =        = 0,1379
+                                                        1,16
+
+         Receita Federal (Analista Tributário) Estatística                                           30
+         www.estrategiaconcursos.com.br                                                              53
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+Gabarito: B.
+
+
+11. (COMPERVE/ UFRN/2019) O Diabetes Mellitus é uma doença caracterizada pela elevação da glicose no
+sangue e tem sido alvo de muita atenção nos programas de saúde e qualidade de vida. Em dezembro de
+2018, foi realizado um estudo utilizando regressão logística com uma amostra de pacientes atendidos
+numa unidade de saúde de um município X, tendo como variável resposta a presença ou não do Diabetes
+e como variáveis explicativas o sexo do paciente (Feminino; Masculino) e o Índice de massa corporal - IMC
+(Normal - 𝟏𝟖, 𝟓 ⊢ 𝟐𝟓; Excesso de peso - 𝟐𝟓 ⊢ 𝟑𝟎; Obesidade ≥ 30). A tabela abaixo apresenta o resultado
+dos ajustes da regressão logística, em que não houve interação significativa entre as variáveis SEXO e IMC.
+
+                                                                             Intervalo de confiança
+                                Variáveis          Razão de chances (OR)
+                                                                                     (95%)
+
+                                   Sexo
+                                Feminino                      1,0                 [Referência]
+                               Masculino                      0,5                  [0,20-0,8]
+
+                                   IMC
+                               18,5 ⊢ 25                      1,0                 [Referência]
+                                 25 ⊢ 30                      2,8                 [1,30-3,78]
+                                  ≥ 30                        5,2                 [3,25-5,85]
+
+Com base nesses resultados, afirma-se:
+I. A chance de um paciente do sexo feminino ter diabetes é 2 vezes maior do que um paciente do sexo
+masculino.
+II. A chance de um paciente com "obesidade" ter o diabetes é 5,2 vezes maior do que um paciente com
+"excesso de peso".
+III. A chance de um paciente com "excesso de peso" ter o diabetes é aproximadamente 3 vezes maior do
+que a de um paciente com "obesidade".
+IV. As mulheres com 𝑰𝑴𝑪 ≥ 𝟑𝟎 apresentam maior chance de ter diabetes do que os homens obesos.
+Estão corretas as afirmações,
+a) III e IV.
+b) I e IV.
+c) II e III.
+d) I e II.
+
+               Receita Federal (Analista Tributário) Estatística                                        31
+               www.estrategiaconcursos.com.br                                                           53
+
+                                             
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Comentários:
+Vamos analisar cada item:
+Item I. Correto. A chance de um paciente do sexo feminino ter diabetes é 2 vezes maior do que um paciente
+do sexo masculino.
+                                               𝑐ℎ𝑎𝑛𝑐𝑒𝑓𝑒𝑚.   1,0
+                                                          =     =2
+                                               𝑐ℎ𝑎𝑛𝑐𝑒𝑚𝑎𝑠𝑐. 0,5
+Item II. Incorreto. A chance de um paciente com "obesidade" ter o diabetes é 1,86 vezes maior do que um
+paciente com "excesso de peso".
+                                         𝑐ℎ𝑎𝑛𝑐𝑒𝑜𝑏𝑒𝑠𝑖𝑑𝑎𝑑𝑒      5,2
+                                                            =     = 1,857
+                                       𝑐ℎ𝑎𝑛𝑐𝑒𝑒𝑥𝑐𝑒𝑠𝑠𝑜 𝑑𝑒 𝑝𝑒𝑠𝑜 2,8
+Item III. Incorreto. A chance de um paciente com "excesso de peso" ter o diabetes é aproximadamente 3
+vezes maior do que a de um paciente com "normal".
+                                            𝑐ℎ𝑎𝑛𝑐𝑒𝑜𝑏𝑒𝑠𝑖𝑑𝑎𝑑𝑒 2,8
+                                                           =     = 2,8
+                                             𝑐ℎ𝑎𝑛𝑐𝑒𝑛𝑜𝑟𝑚𝑎𝑙    1,0
+Item IV. Correto. Recai na chance calculada no item I, pois estamos comparando mulheres obesas contra
+homens obesos.
+Gabarito: B.
+
+
+12. (CESGRANRIO/PETROBRAS/2018) Uma empresa de marketing contrata um estatístico para analisar a
+eficiência de uma propaganda de TV na divulgação de um novo sorvete. O estatístico mostra a propaganda
+em um bairro específico, por um período de tempo. Após este período, ele escolhe adultos,
+aleatoriamente, quando saem de um supermercado local, para perguntar se eles “viram a propaganda” e
+se “compraram o novo sorvete”. O consultor também pergunta qual a “renda familiar anual” e se eles
+“tinham filhos”. O estatístico precisa determinar como a propaganda, o ter filhos e a renda anual estão
+relacionadas à compra do sorvete pelos adultos amostrados. Um primeiro modelo de regressão logística
+binária foi estimado e apresentou os seguintes resultados.
+                              Coeficiente Estimado           Erro Padrão         Estatística Z
+    Termo Constante                   -3,04                      0,95               -3,20
+         Renda                        0,014                      0,02                0,70
+       Filhos SIM                     1,740                      0,87                2,00
+    Viu Anúncio SIM                   1,044                      0,40                2,61
+Considerando a Tabela da distribuição normal e um nível de significância de 5%, verifica-se que as variáveis
+preditoras
+a) renda, filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra
+do sorvete, indicando que há evidência suficiente para concluir que o modelo se ajusta aos dados.
+b) renda, filhos e viu anúncio não possuem uma relação estatisticamente significativa com a variável
+resposta compra do sorvete, indicando que há evidência suficiente para concluir que o modelo não se
+ajusta aos dados.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                32
+        www.estrategiaconcursos.com.br                                                                   53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+c) renda e filhos têm uma relação estatisticamente significativa com a variável resposta compra do sorvete
+e viu anúncio não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+d) renda e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e filhos não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+e) filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e renda não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+
+Comentários:
+Primeiramente, vamos calcular o 𝑝-𝑣𝑎𝑙𝑜𝑟 de cada parâmetro estimado, sendo
+                                         𝑝-𝑣𝑎𝑙𝑜𝑟 = 𝑃(𝑍 > 𝑡).
+
+Assim, temos que:                                           ==219a34==
+
+                                Termo Constante: 𝑃(𝑍 > −3,20) ≅ 1
+                                     Renda: 𝑃(𝑍 > 0,70) = 0,242
+                                    Filhos: 𝑃(𝑍 > 2,00) = 0,0228
+                                 Viu Anúncio: 𝑃(𝑍 > 2,61) = 0,0045
+Desse modo, ficamos com a seguinte tabela:
+                             Coeficiente
+                                                    Erro Padrão            Estatística Z   p-valor
+                              Estimado
+  Termo Constante               -3,04                   0,95                  -3,20           1
+       Renda                    0,014                   0,02                   0,70        0,242
+     Filhos SIM                 1,740                   0,87                   2,00        0,0228
+  Viu Anúncio SIM               1,044                   0,40                   2,61        0,0045
+
+Um parâmetro estimado é significativo quando seu p-valor é inferior ao nível de significância proposto para
+o modelo. De posse dos p-valores, podemos analisar cada alternativa:
+a) renda, filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra
+do sorvete, indicando que há evidência suficiente para concluir que o modelo se ajusta aos dados.
+b) renda, filhos e viu anúncio não possuem uma relação estatisticamente significativa com a variável
+resposta compra do sorvete, indicando que há evidência suficiente para concluir que o modelo não se
+ajusta aos dados.
+c) renda e filhos têm uma relação estatisticamente significativa com a variável resposta compra do sorvete
+e viu anúncio não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+d) renda e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e filhos não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+e) filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e renda não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+
+As alternativas A, C e D estão erradas, pois a variável renda não é significante ao modelo, visto que seu p-
+valor (24,2%) é superior à significância de 5% do modelo. Para a alternativa B ocorre o contrário, pois as
+variáveis “filhos SIM” e “viu anúncio SIM” possuem relação significativa para o modelo. A letra E está correta.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                   33
+        www.estrategiaconcursos.com.br                                                                      53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Gabarito: E.
+
+
+13. (CESPE/FUNPRESP-EXE/2016)
+
+          Adesão ao
+                              1        1        0           1   0      0   1   0      1      0
+            plano
+
+        Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+Um modelo de regressão logística só aceita variáveis categóricas; um modelo de regressão linear só aceita
+variáveis quantitativas.
+
+
+Comentários:
+Em um modelo de regressão logística, a variável dependente (resposta) deve ser qualitativa, porém, as
+variáveis explicativas (independentes) podem ser quantitativas ou qualitativas. Em um modelo de regressão
+linear, a variável dependente (resposta) é quantitativa e as variáveis explicativas (independentes) são
+quantitativas ou qualitativas, ou uma combinação delas.
+Gabarito: Errado.
+
+
+14. (CESPE/FUNPRESP-EXE/2016)
+
+          Adesão ao
+                              1        1        0           1   0      0   1   0      1      0
+            plano
+
+        Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+Os parâmetros de um modelo de regressão linear e logística podem ser estimados por meio da técnica de
+máxima verossimilhança.
+
+
+Comentários:
+A técnica de máxima verossimilhança consiste na estimação dos parâmetros do modelo de regressão
+logística de modo que o logaritmo da função de verossimilhança seja maximizado, isto é, obter os valores
+dos parâmetros desconhecidos de forma que a probabilidade de observar os dados Y (variável resposta) seja
+
+
+        Receita Federal (Analista Tributário) Estatística                                             34
+        www.estrategiaconcursos.com.br                                                                53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+a mais elevada possível. Essa técnica também pode ser utilizada para estimação dos parâmetros da regressão
+linear.
+Gabarito: Certo.
+
+
+15. (CESPE/FUNPRESP-EXE/2016)
+
+          Adesão ao
+                              1        1        0           1   0      0   1   0       1      0
+            plano
+
+        Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+O método de Newton Raphson é uma forma numérica que pode ser utilizada para estimar os parâmetros
+em um modelo de regressão logística, visto que os estimadores não possuem forma fechada. O mesmo pode
+ser feito em um modelo de regressão linear, apesar de a forma deste ser fechada para o estimador dos
+parâmetros.
+
+
+Comentários:
+Como essas equações do modelo de regressão logística são não-lineares, precisamos recorrer a programas
+computacionais para identificar mais rapidamente os estimadores que maximizam a função log-
+verossimilhança. Esses programas computacionais normalmente fazem uso de métodos iterativos para
+resolução das equações do modelo, como o de Newton-Raphson.
+O algoritmo de Newton-Raphson escolhe, sucessivamente, novos conjuntos de parâmetros que produzam
+maiores log-verossimilhança e ajustes melhores aos dados observados. O processo continua por meio de
+uma série de iterações ou ciclos, até a maximização da função log-verossimilhança. Esse método também
+pode ser aplicado ao modelo de regressão linear, embora existam fórmulas para se calcular os parâmetros
+da regressão.
+Gabarito: Certo.
+
+
+16. (IBFC/EBSERH-HUAP/2016) Em bioestatística, seria possível dizer que o número de horas de sono é
+fator preditivo independente para a presença ou ausência de hipertensão arterial em uma amostra de
+trabalhadores, se usássemos o seguinte teste:
+a) Teste do Qui quadrado
+b) Teste de regressão de Pearson
+c) Análise de variância de dupla via
+
+
+        Receita Federal (Analista Tributário) Estatística                                              35
+        www.estrategiaconcursos.com.br                                                                 53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+d) Regressão logística múltipla
+e) Teste t pareado
+
+
+Comentários:
+A regressão logística é uma técnica utilizada quando o fenômeno a ser estudado apresenta-se de forma
+qualitativa e, portanto, representado por uma variável categórica, frequentemente binária (dicotômica),
+indicando, por exemplo, presença ou ausência de hipertensão arterial; em função de uma ou mais variáveis
+independentes, como o número de horas de sono.
+Gabarito: D.
+
+
+17. (ESMARN/TJ RN/2014) Em um modelo de regressão logística, é CORRETO afirmar que o que indica se
+o modelo se ajusta bem aos dados é:
+a) A função logito.
+b) A razão de chances.
+c) O coeficiente de correlação de Pearson.
+d) O coeficiente de determinação.
+e) A estatística deviance.
+
+
+Comentários:
+O teste da razão de verossimilhança investiga se os coeficientes da regressão logística são todos nulos, com
+exceção de 𝛼. A comparação entre os valores observados e esperados usando a função de verossimilhança
+é expressa por meio da função 𝐷, também chamada de deviance (desvio):
+                                              𝑛
+                                                  𝑝𝑖                1 − 𝑝𝑖
+                                 𝐷 = −2 ∑ [𝑦𝑖 𝑙𝑛 ( ) + (1 − 𝑦𝑖 )𝑙𝑛 (       )]
+                                                  𝑦𝑖                1 − 𝑦𝑖
+                                             𝑖=1
+
+Gabarito: E.
+
+
+18. (PRÓ-MUNICÍPIO/Pref. SGDA/2014) A regressão logística é considerada uma técnica de análise
+multivariada que permite estimar a probabilidade associada a ocorrência de determinado evento em face
+de um conjunto de variáveis explanatória. De acordo com essa técnica julgue as assertivas abaixo:
+I. A regressão logística é recomendada para situações em que a variável dependente é de natureza
+dicotômica ou binária(qualitativa);
+II. A regressão logística é recomendada para situações em que as variáveis explicativas ou independentes
+sejam de natureza apenas dicotômica ou binária (qualitativa);
+
+        Receita Federal (Analista Tributário) Estatística                                                36
+        www.estrategiaconcursos.com.br                                                                   53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+III. O objetivo da regressão logística é encontrar uma função logística formada por meio de ponderações
+das variáveis (atributos) cuja resposta permita estabelecer a probabilidade de ocorrência de cada evento
+e a importância das variáveis para esta ocorrência.
+Assinale a correta:
+a) Apenas I está correta;
+b) Apenas I e II estão corretas;
+c) Apenas III está correta;
+d) Apenas I e III estão corretas;
+e) Apenas II e III estão corretas.
+
+
+Comentários:
+Analisando as alternativas temos:
+Item I: Correto. O modelo de regressão logística é semelhante ao modelo de regressão linear. No modelo
+logístico, contudo, a variável resposta 𝑌𝑖 normalmente é binária, assumindo um comportamento dicotômico,
+como, por exemplo, 𝑌𝑖 = 0 (fracasso) e 𝑌𝑖 = 1 (sucesso).
+Item II: Incorreto. A regressão logística é recomendada para situações em que as variáveis de resposta ou
+dependentes sejam de natureza apenas dicotômica ou binária (qualitativa);
+Item III: Coreto. O objetivo da regressão logística é encontrar uma função logística, o logito, formada por
+meio de ponderações das variáveis (atributos) cuja resposta permita estabelecer a probabilidade de
+ocorrência de cada evento e a importância das variáveis para esta ocorrência.
+Gabarito: D.
+
+
+19. (CONSULPLAN/TRE MG/2013) O modelo de regressão logística é um caso particular de um modelo
+linear generalizado em que o componente aleatório tem distribuição Bernoulli e a função de ligação é a
+logito. Diante do exposto, marque V para as afirmativas verdadeiras e F para as falsas.
+( ) Para uma variável explicativa numérica, o modelo logístico tem uma forma linear para o logito da
+                                           𝝅(𝒙)
+probabilidade: 𝒍𝒐𝒈𝒊𝒕[𝝅(𝒙)] = 𝒍𝒐𝒈 [𝟏−𝝅(𝒙)] = 𝜶 + 𝜷𝒙, ou seja, π(x) aumenta ou diminui como uma função
+linear de x.
+( ) A chance ou odds é a razão entre as probabilidades de sucesso e fracasso e pode ser expressa como
+𝒆𝜶 (𝒆𝜷 )𝒙 . Quando a variável explicativa aumenta em uma unidade, a chance é aumentada
+multiplicativamente por β.
+( ) Para a avaliação do modelo de regressão com variáveis explicativas numéricas pode-se utilizar a
+estatística 𝑿𝟐 de Pearson ou a estatística 𝑮𝟐 do teste da razão de verossimilhança dadas, respectivamente,
+por:
+
+
+         Receita Federal (Analista Tributário) Estatística                                              37
+         www.estrategiaconcursos.com.br                                                                 53
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+             (𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐−𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐)𝟐
+𝑿𝟐 = ∑ (                             );
+                    𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐
+
+                                     𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐
+𝑮𝟐 = 𝟐 ∑(𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐)𝒍𝒐𝒈 ( 𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐 ) .
+
+( ) Para a análise de resíduos de um modelo de regressão logística com variáveis explicativas numéricas
+pode-se utilizar o resíduo de Pearson ou o resíduo ajustado de Pearson, dados, respectivamente, por:
+𝒆𝒊 = (𝒚𝒊 − 𝒏𝒊 𝝅
+              ̂ 𝒊)
+                 ⁄                      ;
+                         ̂ 𝒊 (𝟏 − 𝝅
+                   (√[𝒏𝒊 𝝅        ̂ 𝒊 )]
+  𝒆𝒊
+        .
+√𝟏−𝒉𝒊
+
+( ) O modelo de regressão logística multicategorizada é uma generalização do modelo de regressão
+logística, onde a variável resposta assume mais de duas categorias. Quando as categorias são nominais,
+escolhe-se uma como sendo a base para se construir as chances e fazer as análises necessárias. No caso de
+categorias ordinais, a ordenação pode ser incorporada ao modelo na forma de probabilidades acumuladas,
+obtendo-se, então, o modelo logito acumulativo.
+A sequência está correta em
+a) F, V, F, V, F
+b) V, V, F, V, F
+c) V, F, V, F, V
+d) F, F, V, V, V
+e) F, V, V, V, V
+
+
+Comentários:
+Analisando-se cada uma das afirmativas, temos:
+Item I: Incorreto. Usamos o logito para fazer a ligação entre o modelo linear e o logístico:
+                                                          𝜋(𝑥𝑖 )
+                                                 𝑙𝑛 (              ) = 𝛼 + 𝛽1 𝑥𝑖
+                                                        1 − 𝜋(𝑥𝑖 )
+Logo, a probabilidade de ocorrência do evento é expressa por:
+                                                                  𝑒 𝛼+𝛽1𝑥𝑖
+                                                     𝜋(𝑥𝑖 ) =
+                                                                1 + 𝑒 𝛼+𝛽1𝑥𝑖
+Podemos perceber, a partir dessa expressão, que 𝜋(𝑥) aumenta ou diminui como uma função de 𝑥, mas não
+é linear, vez que é definida por meio de uma função exponencial.
+
+
+Item II: Incorreto. Sendo a chance definida por 𝑒 𝛼 (𝑒 𝛽 )𝑥 , o aumento de uma unidade na variável explicativa
+provoca um aumento multiplicativo por 𝑒 𝛽 :
+
+            Receita Federal (Analista Tributário) Estatística                                              38
+            www.estrategiaconcursos.com.br                                                                 53
+
+                                          
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                                       𝑒 𝛼 (𝑒 𝛽 )𝑥+1
+                                                      𝑒 𝛼 (𝑒 𝛽 )𝑥 𝑒 𝛽
+
+
+Item III: Correto. Após estimar os coeficientes, temos que garantir a significância das variáveis incluídas no
+modelo. Em geral, isso envolve a formulação e o teste de hipóteses para determinar se a variável
+independente no modelo é significativamente relacionada com a variável dependente. Para isso, utilizamos
+os testes da razão da Verossimilhança e o teste de Wald.
+O teste de Wald avalia o modelo de regressão Logística como um todo, buscando aferir o grau de significância
+de cada coeficiente da equação logística, inclusive da constante.
+O teste da razão de verossimilhança faz a comparação dos observados com os valores preditos usando a
+função de verossimilhança é baseada na seguinte expressão:
+                                           𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑑𝑜 𝑚𝑜𝑑𝑒𝑙𝑜 𝑎𝑗𝑢𝑠𝑡𝑎𝑑𝑜
+                             𝐷 = −2𝑙𝑛 [                                       ]
+                                           𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑑𝑜 𝑚𝑜𝑑𝑒𝑙𝑜 𝑠𝑎𝑡𝑢𝑟𝑎𝑑𝑜
+Com o propósito de estimar a significância de uma variável independente, comparamos o valor de 𝐷 com e
+sem a variável independente na equação. A alteração no valor de 𝐷 esperada pela inclusão da variável
+independente no modelo é obtida por meio de:
+                      𝐺 = 𝐷(𝑚𝑜𝑑𝑒𝑙𝑜 𝑠𝑒𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙) − 𝐷(𝑚𝑜𝑑𝑒𝑙𝑜 𝑐𝑜𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙)
+Então, podemos definir a estatística 𝐺 como:
+                                               𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑠𝑒𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙
+                                 𝐺 = −2𝑙𝑛 [                                   ]
+                                               𝑣𝑒𝑟𝑜𝑠𝑠𝑖𝑚𝑖𝑙ℎ𝑎𝑛ç𝑎 𝑐𝑜𝑚 𝑎 𝑣𝑎𝑟𝑖á𝑣𝑒𝑙
+Item IV: Correto. O coeficiente de Pearson pode ser utilizado na análise de resíduos da regressão logística:
+                                                               (𝑦𝑗 − 𝑛𝑗 𝜋̂𝑗 )
+                                             𝑟(𝑦𝑗 , 𝜋̂𝑗 ) =                        ,
+                                                              √𝑛𝑗 𝜋̂𝑗 (1 − 𝜋̂𝑗 )
+em que 𝑦𝑗 representa o número de indivíduos em 𝑗 com 𝑦 = 1, 𝑛𝑗 é o número de observações; e 𝜋̂𝑗 é a
+probabilidade ajustada dos indivíduos em 𝑗.
+Já o resíduo de Pearson Studentizado tem a seguinte forma:
+                                                                   𝑟
+                                                    𝑟𝑆𝑃𝑖 =
+                                                               √1 − ℎ𝑖
+em que ℎ𝑖 é a diagonal da matriz chapéu encontrada na regressão logística múltipla.
+Item V: Correto. O modelo de regressão logística multicategorizada (ou multinomial) é uma generalização
+do modelo de regressão logística, onde a variável resposta assume mais de duas categorias. Quando as
+categorias são nominais, escolhe-se uma como sendo a base para se construir as chances e fazer as análises
+necessárias. No caso de categorias ordinais, a ordenação pode ser incorporada ao modelo na forma de
+probabilidades acumuladas, obtendo-se, então, o modelo logito acumulativo.
+Gabarito: D.
+
+
+        Receita Federal (Analista Tributário) Estatística                                                  39
+        www.estrategiaconcursos.com.br                                                                     53
+
+                                      
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+20. (COPEV/UF AL/2013) Dadas as afirmativas seguintes sobre a regressão logística a ser usada em estudos
+epidemiológicos,
+I. Estima-se a probabilidade de ocorrência da doença, conhecendo-se como se dá a exposição.
+II. Para uma dada pessoa Y a doença real é um evento dicotômico, que pode ser entendido como 1 quando
+a doença ocorre e 0 quando a doença não ocorre.
+III. Os parâmetros da função logística alfa e beta serão estimados por mínimos quadrados ordinários.
+IV. No modelo logístico, usa-se uma série de variáveis dependentes para prever a ocorrência da doença
+(variável independente).
+assinale a opção que representa a(s) afirmativa(s) verdadeira(s).
+a) I, apenas.
+b) I e II, apenas.
+c) I, II e III, apenas.
+d) III e IV, apenas.
+e) I, II, III e IV.
+
+
+Comentários:
+Analisando-se cada uma das afirmativas, temos que:
+Item I. Correto. Um dos principais objetivos dos estudos epidemiológicos é determinar o risco de um
+indivíduo adoecer sob determinadas condições de exposição a uma doença.
+Item II. Correto. Simbolizamos por 𝑌 a variável aleatória binária (dicotômica) que indica se o 𝑖-ésimo
+indivíduo adoece ou não durante a observação. Esta variável assume o valor 0 caso o indivíduo não fique
+doente e 1 no caso de ocorrência da doença.
+Item III. Incorreto. Utilizamos o método da máxima verossimilhança para encontrar os estimadores dos
+parâmetros do modelo logístico. O método dos mínimos quadrados ordinários é utilizado para estimar os
+parâmetros da regressão linear.
+Item IV. Incorreto. É o contrário, no modelo logístico, usamos uma série de variáveis independentes para
+prever a ocorrência da doença (variável dependente).
+Gabarito: B.
+
+           Receita Federal (Analista Tributário) Estatística                                           40
+           www.estrategiaconcursos.com.br                                                              53
+
+                                         
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                        LISTA DE QUESTÕES
+
+Regressão Logística
+
+1. (Instituto Consulplan/TJ-MA/2024) A respeito de um modelo de regressão logística para uma variável
+resposta Y considerando a função de ligação canônica associada ao modelo Bernoulli, chamada de logit, é
+INCORRETO afirmar que:
+a) A variável resposta indica se cada unidade amostral tem ou não uma característica específica.
+b) A função logit fornece uma predição para Y, denotando pelo valor 1 a presença da característica estudada
+(sucesso) e pelo valor 0 a sua ausência (fracasso).
+c) A razão de chances (odds ratio) associada a uma variável explicativa contínua 1 mensura a mudança na
+chance (odds) de ocorrência de Y devido a uma mudança unitária em 1, fixadas as demais variáveis
+explicativas do modelo.
+d) O coeficiente 1 de uma variável explicativa contínua 1 fornece a mudança no logaritmo natural da chance
+(odds) de ocorrência de Y associada a uma mudança de uma unidade em 1, assumindo que as outras variáveis
+explicativas sejam mantidas fixas.
+
+
+2. (FGV/TJ-AP/2024) Um departamento de recursos humanos está conduzindo um estudo sobre a
+probabilidade de os funcionários serem promovidos. Foram coletados dados sobre o desempenho, nível
+educacional e anos de experiência de uma amostra de funcionários. Ao realizar uma análise estatística,
+eles identificaram que a técnica mais apropriada para prever a probabilidade de promoção é a Regressão
+Logística.
+Nesse contexto, essa técnica é utilizada para:
+a) calcular a média de promoções nos últimos anos dentro da empresa;
+b) prever o salário dos funcionários com base em suas características pessoais;
+c) calcular a correlação entre variáveis como desempenho, educação e experiência;
+d) identificar funcionários mais antigos na empresa com chances elevadas de promoção;
+e) prever a probabilidade de promoção dos funcionários, considerando variáveis independentes.
+
+
+3. (FGV/CGE SC/2023) Considere o modelo de regressão estimado:
+                                      𝑾𝒊 = 𝟎, 𝟓 + 𝟎, 𝟏 ∗ 𝑬𝒊 + 𝟎, 𝟐 ∗ 𝑫𝒊 + 𝒖𝒊,
+em que wi é o logaritmo neperiano do salário, Ei é o logaritmo neperiano dos anos de estudo e Di é uma
+variável binária igual a 1 se homem e a 0 se mulher.
+Considere que todas as estimativas são estatisticamente significativas a 1%.
+
+        Receita Federal (Analista Tributário) Estatística                                               41
+        www.estrategiaconcursos.com.br                                                                  53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+A partir das estimativas acima, é possível concluir que, em média,
+a) para cada ano adicional de estudo, o salário cresce 10%.
+b) para cada aumento de 1% nos anos de estudo, o salário cresce 0,1%.
+c) os homens ganham 0,2% a mais do que as mulheres.
+d) os homens ganham 20% a mais do que as mulheres.
+e) as mulheres ganham 0,1% a mais do que os homens para cada ano adicional de estudo.
+
+
+4. (IBFC/Pref. Cuiabá/2023) Assinale a alternativa incorreta.
+a) No caso de uma regressão logística, a variável resposta binária (0 ou 1) apresenta uma relação linear com
+a variável explicativa contínua
+b) Num modelo de regressão logística com variável resposta binária, a suposição de variância constante é
+violada
+c) No modelo de regressão logística binária, o interesse é calcular o risco de ocorrer o evento em relação a
+não ocorrência do evento
+d) A estimação dos parâmetros envolvidas num modelo de regressão logística não é direto
+
+
+5. (CESPE/PETROBRAS/2022) Uma determinada repartição pública fez um levantamento do tempo 𝒚𝒊 , em
+minutos, que os cinco funcionários de uma sessão gastam para chegar ao trabalho em função da distância
+𝒙𝒊 , em quilômetros, de suas residências. O resultado da pesquisa realizada com cada um deles é
+                                       ̅e𝒙
+apresentado na tabela a seguir, em que 𝒙   ̅ são, respectivamente, as médias amostrais das variáveis x e
+y.
+
+     𝒊         Tempo (𝒚𝒊 )       Distância (𝒙𝒊 )           ̅
+                                                      𝒙𝒊 − 𝒙          ̅
+                                                                 𝒚𝒊 − 𝒚            ̅) × (𝒚𝒊 − 𝒚
+                                                                             (𝒙𝒊 − 𝒙          ̅)         ̅) 𝟐
+                                                                                                   (𝒙𝒊 − 𝒙
+
+     1              10                  5                -4        -7                28               16
+
+     2              20                  5                -4         3               -12               16
+
+     3              15                 10                1         -2                -2                1
+
+     4              10                 10                1         -7                -7                1
+
+     5              30                 15                6         13                78               36
+
+   édia             17                  9
+
+Com base nos dados dessa tabela, julgue o próximo item.
+
+
+          Receita Federal (Analista Tributário) Estatística                                                     42
+          www.estrategiaconcursos.com.br                                                                        53
+
+                                        
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Uma forma de melhorar o modelo de regressão linear para a situação em questão é utilizar o modelo de
+regressão logística, uma vez que a variável dependente se apresenta de forma quantitativa.
+
+
+6. (FGV/TJDFT/2022) A chance de um evento que ocorre com probabilidade p é definida como c = p/(1-p).
+Quando queremos entender a associação de um fator com um evento de interesse, em geral computamos
+a razão de chances, r = 𝒄𝟎 /𝒄𝟏 , onde 𝒄𝟎 é a chance sem a exposição e 𝒄𝟏 é a chance com a exposição.
+Suponha que um analista dispõe de um conjunto de dados binários Y = (𝒀𝟏 ,..., 𝒀𝒏 ), com Y_i tomando
+valores em {0, 1} contendo o resultado de um teste de Covid-19 em n pacientes e que X = (𝑿𝟏 , ..., 𝑿𝒏 ) é um
+conjunto de covariáveis também binárias que indicam se o indivíduo foi (𝑿𝒊 = 1) ou não (𝑿𝒊 = 0) a uma
+festa nos últimos dez dias.
+O analista quer determinar se a variável X está significativamente associada com o resultado do teste, Y.
+                                                             ==219a34==
+
+Para tanto, ajusta um modelo de regressão logística utilizando Y como variável resposta, um termo de
+intercepto e X como covariável.
+Ele obtém uma estimativa b0 para o intercepto, com erro padrão s0 e, para o coeficiente de X, uma
+estimativa b1 erro padrão s1.
+O intervalo de confiança de 90% para a razão de chances é:
+a) (exp(b1 - 1.64*s1), exp(b1 + 1.64*s1));
+b) (invlogit(b1-b0 - 1.64*(s0 + s1), invlogit(b1-b0 + 1.64*(s0 + s1)));
+c) (invlogit(b1 - 1.96*s1), invlogit(b1 + 1.96*s1));
+d) (invlogit(b1-b0 - 1.96*(s0 + s1), invlogit(b1-b0 + 1.96*(s0 + s1)));
+e) (exp(b1 - 1.96*s1), exp(b1 + 1.96*s1)).
+
+
+7. (VUNESP/EsFECx/2022) Um modelo de regressão logística foi usado na identificação de fatores de risco
+para mortalidade de pacientes submetidos à cirurgia de revascularização do miocárdio com circulação
+sanguínea extracorpórea. Os seguintes fatores foram significativos no modelo: idade do paciente (em
+anos), necessidade de diálise no pós-operatório (0 – não; 1 – sim), lesão neurológica tipo I (0 – não; 1 –
+sim), CEC – tempo de circulação extracorpórea (0 – menor que 90 minutos; 1 – maior que 90 minutos) e o
+tempo entre a admissão hospitalar e a cirurgia (em dias). A tabela a seguir apresenta o resultado do ajuste
+do modelo logístico binário para a variável resposta Y (0 – não óbito; 1 – óbito), com as estimativas dos
+coeficientes e a razão de chances (odds ratio):
+                                 𝒆𝜷𝟎 +𝜷𝟏 "𝒊𝒅𝒂𝒅𝒆"+𝜷𝟐"𝒅𝒊á𝒍𝒊𝒔𝒆"+𝜷𝟑 "𝒍𝒆𝒔ã𝒐 𝑰"+𝜷𝟒"𝑪𝑬𝑼"+𝜷𝟓 "𝒕𝒆𝒎𝒑𝒐 𝒂𝒅𝒎𝒊𝒔𝒔ã𝒐"
+                𝑷(𝒀 = 𝟏) =
+                               𝟏 + 𝒆𝜷𝟎 +𝜷𝟏 "𝒊𝒅𝒂𝒅𝒆"+𝜷𝟐 "𝒅𝒊á𝒍𝒊𝒔𝒆"+𝜷𝟑"𝒍𝒆𝒔ã𝒐 𝑰"+𝜷𝟒 "𝑪𝑬𝑼"+𝜷𝟓"𝒕𝒆𝒎𝒑𝒐 𝒂𝒅𝒎𝒊𝒔𝒔ã𝒐"
+                                       Tabela: Resultado do modelo ajustado
+
+                                Fatores              Coeficientes (𝜷)       Razão de chances
+
+         Receita Federal (Analista Tributário) Estatística                                                43
+         www.estrategiaconcursos.com.br                                                                   53
+
+                                       
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+                                    Constante                  - 2,996              0,05
+
+                                      Idade                     0,470               1,60
+
+                                    Diálise (*)                 2,015               7,50
+
+                                    Lesão I (*)                 1,335               3,80
+
+                                     CEC (*)                    1,065               2,90
+
+                             Tempo admissão                     0,182               1,09
+
+                (*)As categorias de referência em todos os fatores binários foi a categoria zero.
+Considere as seguintes afirmativas sobre o resultado do modelo ajustado.
+I. A idade do paciente e o tempo entre a admissão hospitalar e a cirurgia têm uma associação inversa ao
+óbito, ou seja, valores maiores diminuem a probabilidade de o paciente vir a óbito.
+II. Com relação à necessidade de diálise, a chance relativa de óbito nos pacientes com necessidade desse
+tratamento no pós-operatório é 650% maior do que aqueles não submetidos à diálise
+III. O aumento de um dia no tempo entre a admissão no hospital e a cirurgia aumenta a chance relativa de
+óbito do paciente em cerca de 9%.
+IV. O aumento de 3 anos na idade do paciente aumenta em cerca de 310% (1,6³=4,10) a chance relativa de
+óbito do paciente.
+Avaliando as afirmações I, II, III e IV como verdadeiras (V) ou falsas (F), tem-se respectivamente:
+a) VFVF
+b) VVFV
+c) FVVF
+d) FFVV
+e) FVVV
+
+
+8. (VUNESP/EsFECx/2022) Considere o seguinte modelo de regressão entre as variáveis X e Y:
+                                                    𝒀𝒊 = 𝜶𝒆𝜷𝑿𝒊 +∈𝒊 , 𝒊 = 𝟏, … , 𝒏
+          ∑𝒏
+           𝒊=𝟏 𝑿𝒊         ∑𝒏
+                           𝒊=𝟏 𝒀𝒊
+   ̅=
+Se 𝑿                 ̅=
+                    e𝒀              são as médias amostrais, os estimadores de mínimos quadrados dos parâmetros
+            𝒏               𝒏
+α e β são dados por:
+                         ∑   𝑛            𝑛         𝑛
+                             𝑋 𝑌 −(∑    𝑋 )(∑   𝐼𝑛𝑌 )
+a) 𝑎̂ = 𝑌̅ − 𝛽̂ 𝑋̅ e 𝛽̂ = 𝑖=1 𝑖 𝑖 ∑𝑛𝑖=1 𝑋 𝑖2 𝑖=1 𝑖
+                                          𝑖=1 𝑖
+
+          Receita Federal (Analista Tributário) Estatística                                                 44
+          www.estrategiaconcursos.com.br                                                                    53
+
+                                              
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+                              ∑𝑛          ̅ 𝑛
+                               𝑖=1 𝑋𝑖 𝑌𝑖 −𝑋 ∑𝑖=1 𝐼𝑛𝑌𝑖
+b) 𝑎̂ = 𝑌̅ − 𝛽̂ 𝑋̅ e 𝛽̂ =                  𝑛
+            ∑𝑛          ̂̅
+             𝑖=1 𝐼𝑛𝑌𝑖 −𝑛𝛽𝑋            ∑𝑛             ̅ 𝑛
+                                       𝑖=1 𝑋𝑖 𝐼𝑛𝑌𝑖 −𝑋 ∑𝑖=1 𝐼𝑛𝑌𝑖
+c) 𝑎̂ = 𝑒          𝑛         e 𝛽̂ =        ∑𝑛      2   ̅2
+                                              𝑖=1 𝑋𝑖 −𝑛𝑋
+
+               ̂             ∑𝑛             ̅̅
+                              𝑖=1 𝑋𝑖 𝐼𝑛𝑌𝑖 −𝑛𝑋 𝑌
+d) 𝑎̂ = 𝑒 𝑌̅−𝛽𝑋̅ e 𝛽̂ =               𝑛
+            ∑𝑛          ̂̅
+             𝑖=1 𝐼𝑛𝑌𝑖 −𝑛𝛽𝑋            ∑𝑛 𝐼𝑛𝑌 −𝑛𝑋̅ 𝑌̅
+e) 𝑎̂ = 𝑒          𝑛         e 𝛽̂ = ∑𝑖=1    𝑖
+                                      𝑛 𝑋 2 −𝑛𝑋
+                                              ̅2
+                                          𝑖=1 𝑖
+
+9. (CESPE/SEFAZ AL/2021) Acerca de regressão linear e regressão logística, julgue o item seguinte.
+A regressão logística é um modelo de regressão no qual a relação entre as variáveis independentes e a
+variável dependente é representada por uma função degrau, a qual, por sua vez, pode ser representada por
+uma spline.
+
+
+10. (FUNDEP/CRM MG/2021) A seguir, tem-se a saída de um programa estatístico com os resultados de
+uma regressão logística. As variáveis estudadas são Y = “Câncer de Próstata” (1=tem e 0=não tem) e X =
+“Fumante” (1=sim e 0=não).
+
+                                                                                                IC de 95%
+                    Termo          Coef.          EP de coef.     Valor Z     Valor - P   RC
+                                                                                                 para RC
+
+                   Constante       -3,55             0,359         -9,8        0,000
+
+                   Fumante            1,75           0,407         4,3         0,000      5,8   (2,6;12,8)
+
+Dado: 𝒆−𝟏,𝟖𝟑 ≈ 𝟎, 𝟏𝟔
+Analisando os resultados apresentados, analise as afirmativas a seguir.
+I. O modelo de regressão logístico ajustado foi p = –3,55 + 1,75*X, em que p é probabilidade de um homem
+ter câncer de próstata.
+II. A chance de um homem fumante vir a ter câncer de próstata é quase 6 vezes a chance de um homem
+não fumante.
+III. O intervalo de confiança de 95% na última coluna mostra que a razão de chance (RC) não é
+estatisticamente significativa.
+IV. A probabilidade de um homem fumante vir a ter câncer de próstata é 0,14.
+Está(ão) correta(s) a(s) afirmativa(s)
+a) II, apenas.
+b) II e IV, apenas.
+
+
+            Receita Federal (Analista Tributário) Estatística                                                45
+            www.estrategiaconcursos.com.br                                                                   53
+
+                                                  
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+c) I e III, apenas.
+d) I, III e IV, apenas.
+
+
+11. (COMPERVE/ UFRN/2019) O Diabetes Mellitus é uma doença caracterizada pela elevação da glicose no
+sangue e tem sido alvo de muita atenção nos programas de saúde e qualidade de vida. Em dezembro de
+2018, foi realizado um estudo utilizando regressão logística com uma amostra de pacientes atendidos
+numa unidade de saúde de um município X, tendo como variável resposta a presença ou não do Diabetes
+e como variáveis explicativas o sexo do paciente (Feminino; Masculino) e o Índice de massa corporal - IMC
+(Normal - 𝟏𝟖, 𝟓 ⊢ 𝟐𝟓; Excesso de peso - 𝟐𝟓 ⊢ 𝟑𝟎; Obesidade ≥ 30). A tabela abaixo apresenta o resultado
+dos ajustes da regressão logística, em que não houve interação significativa entre as variáveis SEXO e IMC.
+
+                                                                             Intervalo de confiança
+                                Variáveis          Razão de chances (OR)
+                                                                                     (95%)
+
+                                   Sexo
+                                Feminino                      1,0                 [Referência]
+                               Masculino                      0,5                  [0,20-0,8]
+
+                                   IMC
+                               18,5 ⊢ 25                      1,0                 [Referência]
+                                 25 ⊢ 30                      2,8                 [1,30-3,78]
+                                  ≥ 30                        5,2                 [3,25-5,85]
+
+Com base nesses resultados, afirma-se:
+I. A chance de um paciente do sexo feminino ter diabetes é 2 vezes maior do que um paciente do sexo
+masculino.
+II. A chance de um paciente com "obesidade" ter o diabetes é 5,2 vezes maior do que um paciente com
+"excesso de peso".
+III. A chance de um paciente com "excesso de peso" ter o diabetes é aproximadamente 3 vezes maior do
+que a de um paciente com "obesidade".
+IV. As mulheres com 𝑰𝑴𝑪 ≥ 𝟑𝟎 apresentam maior chance de ter diabetes do que os homens obesos.
+Estão corretas as afirmações,
+a) III e IV.
+b) I e IV.
+c) II e III.
+
+               Receita Federal (Analista Tributário) Estatística                                        46
+               www.estrategiaconcursos.com.br                                                           53
+
+                                             
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+d) I e II.
+
+
+12. (CESGRANRIO/PETROBRAS/2018) Uma empresa de marketing contrata um estatístico para analisar a
+eficiência de uma propaganda de TV na divulgação de um novo sorvete. O estatístico mostra a propaganda
+em um bairro específico, por um período de tempo. Após este período, ele escolhe adultos,
+aleatoriamente, quando saem de um supermercado local, para perguntar se eles “viram a propaganda” e
+se “compraram o novo sorvete”. O consultor também pergunta qual a “renda familiar anual” e se eles
+“tinham filhos”. O estatístico precisa determinar como a propaganda, o ter filhos e a renda anual estão
+relacionadas à compra do sorvete pelos adultos amostrados. Um primeiro modelo de regressão logística
+binária foi estimado e apresentou os seguintes resultados.
+                                   Coeficiente Estimado              Erro Padrão       Estatística Z
+      Termo Constante                      -3,04                         0,95             -3,20
+           Renda                           0,014                         0,02              0,70
+         Filhos SIM                        1,740                         0,87              2,00
+      Viu Anúncio SIM                      1,044                         0,40              2,61
+Considerando a Tabela da distribuição normal e um nível de significância de 5%, verifica-se que as variáveis
+preditoras
+a) renda, filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra
+do sorvete, indicando que há evidência suficiente para concluir que o modelo se ajusta aos dados.
+b) renda, filhos e viu anúncio não possuem uma relação estatisticamente significativa com a variável
+resposta compra do sorvete, indicando que há evidência suficiente para concluir que o modelo não se
+ajusta aos dados.
+c) renda e filhos têm uma relação estatisticamente significativa com a variável resposta compra do sorvete
+e viu anúncio não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+d) renda e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e filhos não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+e) filhos e viu anúncio têm uma relação estatisticamente significativa com a variável resposta compra do
+sorvete e renda não tem, indicando que há evidência suficiente para concluir que o modelo não se ajusta aos
+dados.
+
+
+13. (CESPE/FUNPRESP-EXE/2016)
+
+               Adesão ao
+                                   1        1        0           1    0      0     1   0       1       0
+                 plano
+
+             Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+
+             Receita Federal (Analista Tributário) Estatística                                             47
+             www.estrategiaconcursos.com.br                                                                53
+
+                                           
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+Um modelo de regressão logística só aceita variáveis categóricas; um modelo de regressão linear só aceita
+variáveis quantitativas.
+
+
+14. (CESPE/FUNPRESP-EXE/2016)
+
+          Adesão ao
+                              1        1        0           1   0      0   1   0      1      0
+            plano
+
+        Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+Os parâmetros de um modelo de regressão linear e logística podem ser estimados por meio da técnica de
+máxima verossimilhança.
+
+
+15. (CESPE/FUNPRESP-EXE/2016)
+
+          Adesão ao
+                              1        1        0           1   0      0   1   0      1      0
+            plano
+
+        Salário (em R$) 5.000 8.000 4.000 6.000 2.000 3.000 4.000 4.000 4.500 7.000
+
+Considerando que os dados na tabela mostram salários de diferentes servidores que aderiram (1) ou não
+aderiram (0) a determinado plano de previdência complementar, julgue o item subsecutivo.
+O método de Newton Raphson é uma forma numérica que pode ser utilizada para estimar os parâmetros
+em um modelo de regressão logística, visto que os estimadores não possuem forma fechada. O mesmo pode
+ser feito em um modelo de regressão linear, apesar de a forma deste ser fechada para o estimador dos
+parâmetros.
+
+
+16. (IBFC/EBSERH-HUAP/2016) Em bioestatística, seria possível dizer que o número de horas de sono é
+fator preditivo independente para a presença ou ausência de hipertensão arterial em uma amostra de
+trabalhadores, se usássemos o seguinte teste:
+a) Teste do Qui quadrado
+b) Teste de regressão de Pearson
+c) Análise de variância de dupla via
+d) Regressão logística múltipla
+e) Teste t pareado
+
+        Receita Federal (Analista Tributário) Estatística                                             48
+        www.estrategiaconcursos.com.br                                                                53
+
+                                      
+
+
+---
+
+  Equipe Exatas Estratégia Concursos
+  Aula 16 (somente em pdf)
+
+17. (ESMARN/TJ RN/2014) Em um modelo de regressão logística, é CORRETO afirmar que o que indica se
+o modelo se ajusta bem aos dados é:
+a) A função logito.
+b) A razão de chances.
+c) O coeficiente de correlação de Pearson.
+d) O coeficiente de determinação.
+e) A estatística deviance.
+
+
+18. (PRÓ-MUNICÍPIO/Pref. SGDA/2014) A regressão logística é considerada uma técnica de análise
+multivariada que permite estimar a probabilidade associada a ocorrência de determinado evento em face
+de um conjunto de variáveis explanatória. De acordo com essa técnica julgue as assertivas abaixo:
+I. A regressão logística é recomendada para situações em que a variável dependente é de natureza
+dicotômica ou binária(qualitativa);
+II. A regressão logística é recomendada para situações em que as variáveis explicativas ou independentes
+sejam de natureza apenas dicotômica ou binária (qualitativa);
+III. O objetivo da regressão logística é encontrar uma função logística formada por meio de ponderações
+das variáveis (atributos) cuja resposta permita estabelecer a probabilidade de ocorrência de cada evento
+e a importância das variáveis para esta ocorrência.
+Assinale a correta:
+a) Apenas I está correta;
+b) Apenas I e II estão corretas;
+c) Apenas III está correta;
+d) Apenas I e III estão corretas;
+e) Apenas II e III estão corretas.
+
+
+19. (CONSULPLAN/TRE MG/2013) O modelo de regressão logística é um caso particular de um modelo
+linear generalizado em que o componente aleatório tem distribuição Bernoulli e a função de ligação é a
+logito. Diante do exposto, marque V para as afirmativas verdadeiras e F para as falsas.
+( ) Para uma variável explicativa numérica, o modelo logístico tem uma forma linear para o logito da
+                                           𝝅(𝒙)
+probabilidade: 𝒍𝒐𝒈𝒊𝒕[𝝅(𝒙)] = 𝒍𝒐𝒈 [𝟏−𝝅(𝒙)] = 𝜶 + 𝜷𝒙, ou seja, π(x) aumenta ou diminui como uma função
+linear de x.
+
+         Receita Federal (Analista Tributário) Estatística                                           49
+         www.estrategiaconcursos.com.br                                                              53
+
+                                       
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+( ) A chance ou odds é a razão entre as probabilidades de sucesso e fracasso e pode ser expressa como
+𝒆𝜶 (𝒆𝜷 )𝒙 . Quando a variável explicativa aumenta em uma unidade, a chance é aumentada
+multiplicativamente por β.
+( ) Para a avaliação do modelo de regressão com variáveis explicativas numéricas pode-se utilizar a
+estatística 𝑿𝟐 de Pearson ou a estatística 𝑮𝟐 do teste da razão de verossimilhança dadas, respectivamente,
+por:
+             (𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐−𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐)𝟐
+𝑿𝟐 = ∑ (                             );
+                    𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐
+
+                                     𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐
+𝑮𝟐 = 𝟐 ∑(𝒐𝒃𝒔𝒆𝒓𝒗𝒂𝒅𝒐)𝒍𝒐𝒈 (                         ).
+                                      𝒂𝒋𝒖𝒔𝒕𝒂𝒅𝒐
+
+( ) Para a análise de resíduos de um modelo de regressão logística com variáveis explicativas numéricas
+pode-se utilizar o resíduo de Pearson ou o resíduo ajustado de Pearson, dados, respectivamente, por:
+𝒆𝒊 = (𝒚𝒊 − 𝒏𝒊 𝝅
+              ̂ 𝒊)
+                 ⁄                      ;
+                         ̂ 𝒊 (𝟏 − 𝝅
+                   (√[𝒏𝒊 𝝅        ̂ 𝒊 )]
+  𝒆𝒊
+        .
+√𝟏−𝒉𝒊
+
+( ) O modelo de regressão logística multicategorizada é uma generalização do modelo de regressão
+logística, onde a variável resposta assume mais de duas categorias. Quando as categorias são nominais,
+escolhe-se uma como sendo a base para se construir as chances e fazer as análises necessárias. No caso de
+categorias ordinais, a ordenação pode ser incorporada ao modelo na forma de probabilidades acumuladas,
+obtendo-se, então, o modelo logito acumulativo.
+A sequência está correta em
+a) F, V, F, V, F
+b) V, V, F, V, F
+c) V, F, V, F, V
+d) F, F, V, V, V
+e) F, V, V, V, V
+
+
+20. (COPEV/UF AL/2013) Dadas as afirmativas seguintes sobre a regressão logística a ser usada em estudos
+epidemiológicos,
+I. Estima-se a probabilidade de ocorrência da doença, conhecendo-se como se dá a exposição.
+II. Para uma dada pessoa Y a doença real é um evento dicotômico, que pode ser entendido como 1 quando
+a doença ocorre e 0 quando a doença não ocorre.
+III. Os parâmetros da função logística alfa e beta serão estimados por mínimos quadrados ordinários.
+IV. No modelo logístico, usa-se uma série de variáveis dependentes para prever a ocorrência da doença
+(variável independente).
+
+
+            Receita Federal (Analista Tributário) Estatística                                          50
+            www.estrategiaconcursos.com.br                                                             53
+
+                                          
+
+
+---
+
+   Equipe Exatas Estratégia Concursos
+   Aula 16 (somente em pdf)
+
+assinale a opção que representa a(s) afirmativa(s) verdadeira(s).
+a) I, apenas.
+b) I e II, apenas.
+c) I, II e III, apenas.
+d) III e IV, apenas.
+e) I, II, III e IV.
+
+           Receita Federal (Analista Tributário) Estatística                  51
+           www.estrategiaconcursos.com.br                                     53
+
+                                         
+
+
+---
+
+ Equipe Exatas Estratégia Concursos
+ Aula 16 (somente em pdf)
+
+                                                 GABARITO
+
+Regressão Logística
+
+  1.   LETRA B                                8. LETRA C                  15. CERTO
+  2.   LETRA E                                9. ERRADO                   16. LETRA D
+  3.   LETRA B                                10. LETRA B                 17. LETRA E
+  4.   LETRA A                                11. LETRA B                 18. LETRA D
+  5.   ERRADO                                 12. LETRA E                 19. LETRA D
+  6.   LETRA A                                13. ERRADO                  20. LETRA B
+  7.   LETRA D                                14. CERTO
+
+       Receita Federal (Analista Tributário) Estatística                                52
+       www.estrategiaconcursos.com.br                                                   53
+
+                                     
+
+
+---
+
+---

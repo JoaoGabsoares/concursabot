@@ -1,0 +1,2385 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 14_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Língua Portuguesa
+---
+
+# Língua Portuguesa
+
+Aula 13
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                                10 de Julho de 2025
+
+---
+
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 13
+
+                                                                                     Índice
+1) Noções Iniciais de Semântica
+
+
+2) Campo Semântico
+
+
+3) Sentido Denotativo e Sentido Conotativo
+
+
+4) Sinônimos e Antônimos
+
+
+5) Hiperônimo e Hipônimo
+
+
+6) Homônimos e Parônimos
+
+
+7) Polissemia
+
+
+8) Ambiguidade
+
+
+9) Homonímia, Polissemia e Ambiguidade
+
+
+10) Questões Comentadas - Campo Semântico - FGV
+
+
+11) Questões Comentadas - Sentido Denotativo e Sentido Conotativo - FGV
+
+
+12) Questões Comentadas - Sinônimo e Antônimo - FGV
+
+
+13) Questões Comentadas - Hiperônimo e Hipônimo - FGV
+
+
+14) Questões Comentadas - Parônimo e Homônimo - FGV
+
+
+15) Questões Comentadas - Polissemia - FGV
+
+
+16) Questões Comentadas - Ambiguidade - FGV
+
+
+17) Lista de Questões - Campo Semântico - FGV
+
+
+18) Lista de Questões - Sentido Denotativo e Sentido Conotativo - FGV
+
+
+19) Lista de Questões - Sinônimo e Antônimo - FGV
+
+
+20) Lista de Questões - Hiperônimo e Hipônimo - FGV
+
+
+21) Lista de Questões - Parônimo e Homônimo - FGV
+
+
+22) Lista de Questões - Polissemia - FGV
+
+
+23) Lista de Questões - Ambiguidade - FGV
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           62
+
+                                                             
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                   CONSIDERAÇÕES INICIAIS
+Olá, pessoal!
+Professora e Coach Patrícia Manzato aqui para darmos continuidade nos nossos estudos de
+Língua Portuguesa!
+Em primeiro lugar, PARABÉNS a você que perseverou até aqui. Foi um longo caminho, muito
+conteúdo e centenas de questões comentadas. Agora, vamos concluir nossa missão!
+Nesta aula, nosso foco é em Semântica, que é o estudo do sentido de palavras ou de textos. É
+um assunto muito amplo. Para se entender plenamente um texto, cada palavra é relevante.
+Na prática, estamos estudando Semântica desde o início, subjacente ao sentido de toda parte de
+morfologia que vimos: o sentido dos conectores, dos tempos e modos verbais, das circunstâncias
+adverbiais, dos verbos regidos por determinadas preposições, das regras de pontuação, tudo
+isso tem aspectos “Semântica” e vai ser fundamental na hora de ler e decifrar o que está sendo
+comunicado.
+Agora vamos trabalhar algumas questões mais específicas, como vocabulário, sinônimos,
+antônimos, ambiguidade, interpretação, bem como outros detalhes da gramática que vêm sendo
+cobrados em prova.
+Pessoal, muito carinho com esta aula! Destaco que o conteúdo dela também complementa muito
+o conhecimento de Interpretação de Texto e de Redação.
+Vamos seguir! Estaremos prontos para tudo!!!
+Por fim, se quiser conhecer melhor meu trabalho e ter ainda mais dicas de Estudos e de Língua
+Portuguesa, me siga nas redes sociais
+Grande abraço e ótimos estudos!
+Profª Patrícia Manzato
+
+     @prof.patriciamanzato
+
+     Prof. Patrícia Manzato
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             3
+        www.estrategiaconcursos.com.br                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                         CAMPO SEMÂNTICO
+As palavras podem ter estreitas relações de sentido entre si, como de semelhança, equivalência,
+diferença, oposição, pertinência.
+Palavras que se associam de uma forma direta e previsível, de modo que uma pessoa consiga
+facilmente pensar nas outras quando pensa na primeira, formam um “campo semântico”.
+
+                                                       ==219a34==
+
+Em termos simples, podemos dizer que vocábulos como bola, chuteira, trave, rede, gol,
+artilheiro, goleiro, campeonato, pênalti, formam o campo semântico de “Futebol”. Quando
+pensamos em um elemento desses, geralmente há uma associação intuitiva aos outros elementos
+desse conjunto.
+Evidentemente, as associações são infinitas e não existe um número definido de elementos que
+pertencem a um campo semântico fixo e previsível. Essas associações se formam no contexto e
+dependem da experiência e conhecimento de mundo de cada um. Nada impede que faça parte
+desse campo palavra como Messi, juiz, ingresso, artilheiro, cartão, patrocínio, uniforme, luva ou
+outra que também se relacione de algum modo à ideia geral sugerida por “futebol”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                4
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+              SENTIDO DENOTATIVO X SENTIDO CONOTATIVO
+As palavras geralmente têm um sentido mais direto, mais clássico, mais primário, que
+imediatamente se manifesta quando ouvimos ou lemos aquela sequência de sons ou letras. Esse
+é o sentido denotativo, o sentido direto, primário, principal do dicionário.
+Cuidado que o dicionário também traz os possíveis sentidos figurados de um termo, mas o
+sentido denotativo é aquele mais clássico, mais imediato, do mundo real, não figurado. Os
+sentidos figurados listados no dicionário geralmente são extensão semântica do primeiro sentido,
+do sentido real.
+      Ex: o leão é o animal mais visitado do zoológico.
+Veja que “leão” está sendo usado em sua acepção mais clássica, como animal.
+                                                       ==219a34==
+
+Por outro lado, num determinado contexto, a palavra pode assumir um novo sentido, figurado,
+metafórico, especial, não óbvio.
+      Ex: Esse lutador batendo é um leão; apanhando, é um gatinho.
+Agora a palavra “leão” deixou de designar o animal para indicar figuradamente uma pessoa que
+tem a característica da ferocidade. Já o gatinho tem a característica de ser pequeno, inofensivo.
+Esse é um sentido figurado, metafórico, conotativo.
+
+Observe que “devorando” tem sentido figurado. Não é possível “comer” o planeta. Mas esse
+uso se torna perfeitamente coerente porque a matéria fala sobre o consumo “desenfreado” dos
+alimentos do mundo.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                5
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+(PC-AM / 2022)
+Muitos escritores reformulam imagens bastante repetidas em nosso idioma, dando-lhes novos
+valores. Assinale a frase a seguir em que isso ocorre.
+(A) A polícia prendeu o gastrônomo em flagrante delícia.
+(B) O ouro negro do petróleo jorrou no Kuwait.
+(C) Para todos a água é um precioso líquido.
+(D) Todos foram à praia em pleno verão.
+(E) Os elefantes mostram uma força descomunal.
+Comentários:
+Pessoal, atenção ao enunciado: "novos valores". O candidato deve buscar a frase em que o
+sentido seja diferente do esperado. Isso apenas ocorre na letra A: "flagrante" significa notório,
+evidente; "em flagrante" é expressão utilizada para situações em que a polícia prende o
+criminoso no ato ou logo após o ato, deixando sua "autoria" óbvia, indiscutível. Então, aqui, "em
+flagrante delícia" não se refere literalmente ao crime de autoria óbvia, mas sim que a "delícia" da
+comida do gastrônomo era óbvia.
+Nas demais alternativas, o sentido é exatamente o direto, evidente; não há "novos valores".
+Gabarito letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  6
+        www.estrategiaconcursos.com.br                                                          62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                  SINÔNIMOS E ANTÔNIMOS
+Sinônimos
+São palavras que se aproximam semanticamente por uma relação de equivalência ou
+semelhança.
+Não existem sinônimos perfeitos, mas, em um dado contexto, palavras com sentido próximo,
+embora não idênticos, podem ser utilizadas para se referir e retomar o mesmo ser no texto.
+As questões de sinonímia dependem de um bom vocabulário e de uma boa captação do que a
+palavra significa no contexto em que aparece.
+Por exemplo, “marcar” e “agendar” são sinônimos, certo? Marcar uma consulta = Agendar uma
+consulta. Certo?
+Errado! Depende do contexto!
+Veja que não é mais possível trocar um verbo pelo outro no exemplo abaixo:
+      Ex: O jogador marcou um gol.
+            Aquele momento me marcou para sempre.
+Então, nunca olhe as palavras isoladamente.
+
+     Muitas questões são de vocabulário puro, secas, ou você conhece a palavra ou não
+     conhece. Nesses casos, não há escapatória, você precisará tentar inferir o sentido da
+     palavra pelo contexto, por palavras semelhantes, por prefixos e claro, sempre tentar
+     fortalecer seu vocabulário com leitura regular de textos variados.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              7
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+(TRT 4ª REGIÃO / 2022)
+                                     [Ritmos da civilização]
+Se um camponês espanhol tivesse adormecido no ano 1.000 e despertado quinhentos anos
+depois, ao som dos marinheiros de Colombo a bordo das caravelas Nina, Pinta e Santa Maria, o
+mundo lhe pareceria bastante familiar. Esse viajante da Idade Média ainda teria se sentido em
+casa. Mas se um dos marinheiros de Colombo tivesse caído em letargia similar e despertado ao
+toque de um iPhone do século XXI, se encontraria num mundo estranho, para além de sua
+compreensão. “Estou no Céu?”, ele poderia muito bem se perguntar, “Ou, talvez, no Inferno?”
+Os últimos quinhentos anos testemunharam um crescimento fenomenal e sem precedentes no
+poderio humano. Suponha que um navio de batalha moderno fosse transportado de volta à
+época de Colombo. Em questão de segundos, poderia destruir as três caravelas e em seguida
+afundar as esquadras de cada uma das grandes potências mundiais. Cinco navios de carga
+modernos poderiam levar a bordo o carregamento das frotas mercantes do mundo inteiro. Um
+computador moderno poderia facilmente armazenar cada palavra e número de todos os
+documentos de todas as bibliotecas medievais, com espaço de sobra. Qualquer grande banco
+                                                       ==219a34==
+
+de hoje tem mais dinheiro do que todos os reinos do mundo pré-moderno reunidos.
+Durante a maior parte da sua história, os humanos não sabiam nada sobre 99,99% dos
+organismos do planeta – em especial, os micro-organismos. Foi só em 1674 que um olho humano
+viu um micro-organismo pela primeira vez, quando Anton van Leeuwenhock deu uma espiada
+através de seu microscópio caseiro e ficou impressionado ao ver um mundo inteiro de criaturas
+minúsculas dando volta em uma gota d’água. Hoje, projetamos bactérias para produzir
+medicamentos, fabricar biocombustível e matar parasitas.
+Mas o momento mais notável e definidor dos últimos 500 anos ocorreu às 5h29m45s da manhã
+de 16 de julho de 1945. Naquele segundo exato, cientistas norte-americanos detonaram a
+primeira bomba atômica em Alamogordo, Novo México. Daquele ponto em diante, a
+humanidade teve a capacidade não só de mudar o curso da história como também de colocar
+um fim nela. O processo histórico que levou a Alamogordo e à Lua é conhecido como Revolução
+Científica. Ao longo dos últimos cinco séculos, os humanos passaram a acreditar que poderiam
+aumentar suas capacidades se investissem em pesquisa científica. O que ninguém poderia
+imaginar era em que aceleração frenética tudo se daria.
+ (Adaptado de: HARARI, Yuval Noah. Uma breve história da humanidade. Trad. Janaína Marcoantonio. Porto Alegre:
+                                                                              L&PM, 2018, p. 257-259, passim)
+
+Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:
+(A) em que aceleração frenética tudo se daria (4º parágrafo) = em que ritmo ousado ocorreriam.
+(B) tivesse caído em letargia (1º parágrafo) = entrasse num estado letárgico
+(C) sem precedentes no poderio humano (2º parágrafo) = sem previsão nos dotes humanitários.
+(D) Durante a maior parte da sua história (3º parágrafo) = Ao longo da sua história mais típica
+(E) o momento mais notável e definidor (4º parágrafo) = a instância mais solene e consumada
+Comentários:
+Letargia e Letárgico foi uma mera mudança de substantivo para adjetivo. São basicamente a
+mesma palavra.
+Sejamos objetivos nas demais:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                             8
+        www.estrategiaconcursos.com.br                                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Frenético é diferente de ousado.
+Humano é diferente de humanitário.
+Maior é diferente de mais típica.
+Notável é diferente de solene.
+Gabarito letra B.
+
+Antônimos
+São palavras que se aproximam semanticamente por uma relação de antagonismo ou oposição.
+      Ex: Gosto de silêncio: não tolero barulho. (silêncio x barulho)
+
+
+Em alguns casos, duas palavras podem não ser exatamente antônimos em seu sentido clássico,
+mas podem aparecer como opostas no contexto em que se dá aquele contraste. A relação de
+antonímia se dá no contexto.
+      Ex: Não fale nada, acalme-se e respire. (falar x se acalmar e respirar)
+
+(PREF. SÃO CRISTÓVÃO (SE) / 2020)
+Texto 9A2-I
+Em tempos pré-modernos, os humanos experimentaram uma espantosa variedade de modelos
+econômicos. Boiardos russos, marajás indianos, mandarins chineses e caciques de tribos
+ameríndias tinham ideias muito diferentes sobre dinheiro, comércio, impostos e emprego. Hoje
+em dia, em contraste, quase todo mundo acredita em pequenas variações sobre o mesmo tema
+capitalista, e somos engrenagens de uma única linha de produção global. Se os ministros da
+Fazenda de Israel e do Irã se encontrassem num almoço, eles teriam uma linguagem econômica
+comum e poderiam facilmente compartilhar agruras.
+Porém a homogeneidade contemporânea é mais evidente quando se trata de nossa maneira de
+ver o nosso corpo. Se você ficasse doente mil anos atrás, importaria muito o lugar onde vivesse.
+Médicos europeus ou chineses, xamãs siberianos, médicos feiticeiros africanos, curandeiros
+ameríndios — todo império, reino e tribo tinha suas próprias tradições e seus especialistas, cada
+um adotando uma visão diferente do corpo humano e da natureza da doença, cada um
+oferecendo seu próprio manancial de rituais, preparados e curas. A única coisa que unia todas
+essas práticas médicas era que, em toda parte, no mínimo um terço das crianças morriam antes
+de se tornarem adultas, e a expectativa de vida média era bem abaixo de cinquenta anos de
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                9
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+idade. Hoje, se você adoecer, faz muito menos diferença o lugar onde vive. Em Toronto, Tóquio,
+Teerã ou Tel Aviv, será levado a hospitais parecidos, onde médicos com aventais brancos
+seguirão protocolos idênticos e farão exames idênticos para chegar a diagnósticos muito
+semelhantes. Ao que tudo indica, todos acreditam que o corpo é formado por células, que
+doenças são causadas por patógenos e que antibióticos matam bactérias.
+  Yuval Noah Harari. 21 lições para o século 21. Trad. Paulo Geiger. 1.ª ed. São Paulo: Companhia
+                                                    das Letras, 2018, p. 138-41 (com adaptações).
+A respeito das propriedades linguísticas do texto , julgue o item subsecutivo.
+Na linha 25, as palavras “muito” e “menos” são antônimas no contexto em que foram
+empregadas..
+Comentários:
+As palavras "muito" e "menos" de modo geral são antônimas. Porém, no contexto, "muito" foi
+usado como um elemento para reforçar uma negação. Portanto, neste contexto, não são
+antônimas. Questão incorreta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               10
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                HIPERÔNIMOS E HIPÔNIMOS
+Hiperônimos
+São palavras de sentido amplo que indicam, em termos semânticos, um conjunto abrangente de
+elementos, um “gênero”. Esse “gênero” tem unidades menores, “espécies” (hipônimos), que
+fazem parte daquele conjunto maior.
+
+     Atleta é um hiperônimo. Nadador, corredor e goleiro são hipônimos, porque são
+     espécies de atleta. Logo, “Atleta” é hiperônimo de “nadador”.
+     Animal é um hiperônimo. Cachorro, macaco, jabuti são hipônimos, porque são
+     espécies de animal. Então, “Animal” é hiperônimo de “macaco”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         11
+        www.estrategiaconcursos.com.br                                                  62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Hipônimos
+O conceito de hipônimo decorre da explicação acima. Trata-se de um elemento com sentido
+mais específico, contido em um grupo maior, ou seja, de uma espécie contida em um gênero.
+
+                                                       ==219a34==
+
+                                 Gato é hipônimo de Felino (hiperônimo).
+                                Cavalo é hipônimo de Equino (hiperônimo).
+
+
+Essas relações de inclusão e pertinência se constroem num contexto.
+Mesmo antes de conhecer esses conceitos, sempre nos valemos de hiperônimos bem genéricos,
+como “coisa”, “pessoa”, “ser”, “acontecimento”, “fato”, “evento”, “elemento” para retomar
+outro termo mais específico.
+Às vezes fazemos o contrário: anunciamos o termo geral primeiro, depois o especificamos com
+um hipônimo:
+      Ex: Tragédia: queda de avião mata 56 pessoas em Paris. A cidade organizou um evento de
+      condolências. Milhares de pessoas compareceram à solenidade.
+Observe que tragédia é hiperônimo de “queda de avião”, pois a “queda” está dentro de um
+grupo maior de “tragédias”. Paris é hipônimo de “cidade”. “Solenidade” é hipônimo de evento
+e assim por diante...
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           12
+        www.estrategiaconcursos.com.br                                                    62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+(PC-AM / 2022)
+Nos dicionários, as palavras dos verbetes são geralmente definidas e essas definições começam
+por um termo de valor geral (hiperônimo).
+Identifique a definição a seguir em que o termo inicial de caráter geral foi bem escolhido.
+(A) O caderno é um utensílio escolar.
+(B) O jogador é um personagem do futebol.
+(C) O martelo é um objeto do carpinteiro.
+(D) O cachorro é um réptil muito amado.
+(E) O grafiteiro é um escultor mal compreendido.
+Comentários:
+Uma relação semântica muito cobrada em prova é: hiperônimo (termo geral) > hipônimo (termo
+específico). Parece muito uma relação gênero-espécie, em sentido amplo:
+hiperônimo (termo geral) > hipônimo (termo específico)
+felino > gato
+cão > labrador
+carro > gol
+eletrodoméstico > televisão
+embarcação > navio
+A banca pediu o termo geral "adequado". Vejamos:
+(A) O caderno é um material/item escolar.
+(C) O martelo é um utensílio/uma ferramenta do carpinteiro.
+(D) O cachorro é um animal muito amado.
+(E) O grafiteiro é um artista/pintor mal compreendido.
+Por exclusão, chegaríamos à letra B:
+(B) O jogador é um personagem (ator/agente participante) do futebol.
+Aqui, teríamos de perceber que a banca não quis dizer "personagem" no sentido restrito de uma
+obra de ficção, mas no sentido de um "papel social". Gabarito letra B.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               13
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                 HOMÔNIMOS E PARÔNIMOS
+Homônimos
+Homônimos homógrafos: palavras que têm a mesma grafia, mas trazem sentidos diferentes.
+Homônimos homófonos: palavras que têm a mesma pronúncia, mesmo som, mas trazem sentidos
+diferentes.
+Homônimos perfeitos: São palavras que têm som e grafia idênticos, diferenciando-se somente
+pelo sentido. Quase sempre, são palavras de classes diferentes.
+
+Parônimos
+São pares de palavras parecidas na pronúncia ou na grafia.
+Muitas vezes, essa semelhança conduz a erros ortográficos. O conhecimento dessas palavras
+também é muito importante para interpretação de texto e questões de vocabulário.
+
+                                     Exemplos clássicos de parônimos:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          14
+        www.estrategiaconcursos.com.br                                                   62
+
+                                     
+
+
+---
+
+ Equipe Português Estratégia Concursos, Felipe Luccas
+ Aula 13
+
+absolver (perdoar, inocentar)                                      absorver (aspirar, sorver)
+
+apóstrofe (figura de linguagem)                                    apóstrofo (sinal gráfico)
+
+aprender (tomar conhecimento)                                      apreender (capturar, assimilar)
+
+ascensão (subida)                                                  assunção (elevação a um cargo)
+
+bebedor (aquele que bebe)                                          bebedouro (local onde se bebe)
+
+cavaleiro (que cavalga)                                            cavalheiro (homem gentil)
+
+comprimento (extensão)                                             cumprimento (saudação)
+
+deferir (atender)                                     ==219a34==
+
+                                                                   diferir (distinguir-se, divergir)
+
+delatar (denunciar)                                                dilatar (alargar)
+
+descrição (ato de descrever)                                       discrição (reserva, prudência)
+
+descriminar (tirar a culpa)                                        discriminar (distinguir)
+
+despensa   (local         onde       se     guardam dispensa (ato de dispensar)
+mantimentos)
+
+docente (relativo a professores)                                   discente (relativo a alunos)
+
+emigrar (deixar um país)                                           imigrar (entrar num país)
+
+eminência (elevado)                                                iminência (qualidade do que está iminente)
+
+esbaforido (ofegante, apressado)                                   espavorido (apavorado)
+
+estada (permanência em um lugar)                                   estadia (permanência temporária em um lugar)
+
+flagrante (evidente)                                               fragrante (perfumado)
+
+imergir (afundar)                                                  emergir (vir à tona)
+
+inflação (alta dos preços)                                         infração (violação)
+
+infligir (aplicar pena)                                            infringir (violar, desrespeitar)
+
+mandado (ordem judicial)                                           mandato (procuração)
+
+peão (aquele que anda a pé, domador de                             pião (tipo de brinquedo)
+cavalos)
+
+       Receita Federal (Analista Tributário) Língua Portuguesa                                                    15
+       www.estrategiaconcursos.com.br                                                                             62
+
+                                    
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+ precedente (que vem antes)                                procedente             (proveniente;   que     tem
+                                                           fundamento)
+
+ ratificar (confirmar)                                     retificar (corrigir)
+
+ recrear (divertir)                                        recriar (criar novamente)
+
+ soar (produzir som)                                       suar (transpirar)
+
+ tráfego (trânsito)                                        tráfico (comércio ilegal)
+
+                                                         (http://www.soportugues.com.br/secoes/seman/seman7.php)
+A melhor forma de estudar esses pares é marcar a parte da palavra que se diferencia e anotar o
+sentido, como exemplifico abaixo:
+Cavaleiro​     ​         x ​   Cavalheiro
+Comprimento​             x ​   Cumprimento
+Descriminar ​ ​          x ​   Discriminar
+Descrição ​    ​         x ​   Discrição
+
+(TCE-SC / 2016 - Adaptada)
+      A observância do dever de cuidado e do de cooperação — traduzida, portanto, na atuação
+comprometida e concertada das estruturas orientadas para a função de controle da gestão
+pública — deve promover, entre os agentes e órgãos de controle, comportamentos de
+responsabilidade e responsividade. Por responsabilidade entenda-se o genuíno compromisso
+com a integralidade do ordenamento jurídico, o que pressupõe, acima de tudo, o
+reconhecimento de um regime de vedação da omissão. Responsividade, por sua vez, traduz o
+comportamento orientado a oferecer respostas rápidas e proativas, impregnadas de verdadeiro
+compromisso com a ideia-chave de promover o bom funcionamento do Estado.
+Com relação às estruturas linguísticas do texto, julgue o item a seguir.
+A coerência do texto seria preservada caso os vocábulos “comprometida” (l.2) e “concertada”
+(l.2) fossem substituídos, respectivamente, por responsável e reparada.
+Comentários:
+Fora do contexto, as palavras “reparada” e “consertada” até podem ser sinônimas, no sentido de
+algo que estava quebrado e foi recomposto à forma original. No entanto, a palavra trazida pela
+questão foi “conCertada”, que é um parônimo: tem grafia parecida e sentido diferente. No
+contexto, “concertada” tem sentido de “orquestrada”, “organizada”. Lembre-se de “conCerto
+de música”. Questão incorreta.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              16
+        www.estrategiaconcursos.com.br                                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                               POLISSEMIA
+Uma mesma palavra pode ter múltiplos sentidos.
+É diferente de um homônimo perfeito, pois a polissemia se refere a vários sentidos de uma única
+palavra. Homônimos são palavras diferentes, geralmente de classes diferentes, que têm sentidos
+diferentes. A palavra polissêmica é uma só, mas se reveste de novos sentidos, muitas vezes por
+associações figuradas. A diferença na prática é bem sutil.
+Vejamos alguns exemplos:
+      Quero um suco de laranja natural (feito da fruta)
+      Sou natural da Argentina (originário)
+      Água é um recurso natural (da natureza)          ==219a34==
+
+Veja uma charge que explora os múltiplos sentidos da palavra “vendo”:
+
+Agora, você pode me perguntar: Ah, professora! Então, qual a diferença entre “polissemia” e
+“homônimo perfeito”?
+Não há uma resposta definitiva. A língua não é uma ciência exata.
+            “A distinção entre homonímia e polissemia é indeterminada e arbitrária” (Lyons).
+Então, sem querer resolver enigmas acadêmicos, temos que adotar um critério prático:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                17
+        www.estrategiaconcursos.com.br                                                         62
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 13
+
+   Homonímia: há “duas” palavras, quase sempre de classes diferentes, cada uma com
+   seu sentido, mas que apresentam uma “coincidência” de forma.
+   Polissemia: há uma única palavra, que apresenta dois ou mais sentidos, normalmente
+   com alguma relação.
+
+   Normalmente, a Questão apenas cobra o conceito:
+
+                           “Palavra com mais de um sentido” – Polissemia
+
+   “Palavras diferentes, com sentidos diferentes, mas que apresentam mesma grafia e/ou
+                                 pronúncia” – Homônimos
+
+      Receita Federal (Analista Tributário) Língua Portuguesa                            18
+      www.estrategiaconcursos.com.br                                                     62
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                                             AMBIGUIDADE
+Ambiguidade é a possibilidade de dupla leitura de um enunciado. É o bom e velho duplo
+sentido. Pode ser estrutural ou polissêmica.
+Nem sempre é um problema, pois pode ser proposital e está presente na literatura, nas piadas,
+nas propagandas. Porém, deve ser evitada, porque é considerada vício de linguagem, porque
+prejudica a clareza.
+
+A expressão “rede social” está difundida no campo semântico da maioria das pessoas como
+estruturas, principalmente dentro da internet, formada por pessoas e organizações que se
+conectam a partir de interesses ou valores comuns. O que vem à nossa cabeça, quase que
+imediato, são as redes Facebook, Instagram, Twitter etc.
+Por outro lado, essa mesma expressão pode ser entendida em seu sentido literal: um local de
+descanso coletivo, onde mais de uma pessoa pode se sentar.
+
+Ambiguidade estrutural
+Veja a tira abaixo e observe como a posição do termo “com pouca gordura” causa dupla
+possibilidade de leitura:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            19
+        www.estrategiaconcursos.com.br                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Essa é a ambiguidade estrutural. Ocorre quando a estrutura, a organização e a construção da
+frase dão margem a mais de uma possibilidade de sentido.
+                                                       ==219a34==
+
+No exemplo da tira, se o autor tivesse mudado a posição do termo, “comida com pouca gordura
+para gato”, a ambiguidade se desfaria.
+Vejamos outros exemplos:
+      Ex: Peguei o ônibus correndo.
+      Sentido 1: Eu estava correndo quando peguei o ônibus.
+      Sentido 2: O ônibus estava correndo quando o peguei.
+
+
+      Ex: Pedro encontrou Maria e lhe disse que sua mãe foi ao cinema.
+      Sentido 1: A mãe de Pedro foi ao cinema.
+      Sentido 2: A mãe de Maria foi ao cinema. ​
+
+Ambiguidade polissêmica
+Ambiguidade polissêmica é aquela inerente ao próprio vocábulo ou à expressão que traz
+múltiplos sentidos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          20
+        www.estrategiaconcursos.com.br                                                   62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+     Na charge acima, a palavra “bala” é a responsável pela ambiguidade e consequente
+     efeito de humor.
+     Então, observe que, no exemplo acima, “bala” pode ser compreendida como o
+     “doce” ou como “munição de arma de fogo”, em referência a um tiroteio. Portanto, o
+     humor da charge reside na polissemia da palavra “bala”.
+
+(PREF. MANAUS / 2022)
+“O doutor fez um raio X da minha cabeça e não encontrou nada.”
+Essa frase pode mostrar um sentido informativo e um sentido irônico. O sentido irônico é que o
+cliente
+(A) não sofre de qualquer grave enfermidade.
+(B) desfruta de uma saúde de ferro.
+(C) não possui qualquer inteligência.
+(D) não possui um cérebro totalmente formado.
+(E) apresenta uma inteligência privilegiada.
+Comentários:
+Aqui temos uma análise de ambiguidade.
+Sentido informativo, literal, direto, primário: não encontrou problemas de saúde.
+Sentido irônico, simbólico, figurado: não encontrou conteúdo, a cabeça é vazia, a pessoa não
+tem ideias, inteligência.
+Gabarito letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            21
+        www.estrategiaconcursos.com.br                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                  HOMONÍMIA X POLISSEMIA X AMBIGUIDADE
+A diferença é sutil e controversa, objeto de muitas discussões acadêmicas.
+Manteremos um enfoque prático, para que você possa acertar as questões da prova. E nada
+melhor, do que trazer um exemplo prático:
+
+(STJ / 2018)
+A um coronel que se queixava da vida de quartel, um jornalista disse:
+— E o senhor não sabe como é chato militar na imprensa.
+Na construção do sentido do texto, destaca-se a ambiguidade do vocábulo “militar”, que, no
+contexto em que aparece, pode ser classificado ora como substantivo, ora como verbo.
+Comentários:
+Aqui, temos caso de homonímia perfeita, que gera uma ambiguidade no texto.
+é chato militar (trabalhar, atuar no ramo) na imprensa.
+é chato militar (pessoa militar, militares em geral) na imprensa. Questão correta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         22
+        www.estrategiaconcursos.com.br                                                  62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+         QUESTÕES COMENTADAS - CAMPO SEMÂNTIVO - FGV
+    1. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Observe o texto a seguir, retirado de uma revista de computação. “Por mais poderoso que seja,
+um computador sem programas adequados tem pouca utilidade. E um ‘programa adequado’
+com certeza não é aquele aplicativo profissional, caro e sofisticado que, às vezes, já vem
+instalado. De nada adiantam funções, botões e janelas, se você não conseguir fazer alguma coisa
+com eles”.
+Um dos elementos que dá coerência aos textos é a ocorrência de vocábulos que estão dentro de
+um mesmo campo semântico; nesse texto, as palavras que pertencem ao mesmo bloco
+conceitual são:
+A) computador, programas, aplicativo, janelas;
+B) computador, programa, aplicativo, sofisticado;
+C) programas, aplicativo, caro, instalado;
+D) caro, sofisticado, instalado, funções;
+E) poderoso, aplicativo, instalado, funções.
+Comentários:
+Vejamos as alternativas:
+A) CERTA. Todas as palavras fazem da parte do mesmo campo semântico de “computador”.
+B) ERRADA. “Sofisticado" não faz parte do mesmo campo semântico.
+C) ERRADA. “Caro” não faz parte do mesmo campo semântico.
+D) ERRADA. Não conseguimos identificar uma relação de significado entre as palavras.
+E) ERRADA. “Poderoso” não faz parte do mesmo campo semântico. Gabarito letra A.
+
+
+    2. (FGV/ PREF. SALVADOR (BA) / AGENTE DE FISCALIZAÇÃO / 2019)
+“A ideia de que a natureza existe para servir o homem seria apenas ingênua, se não fosse
+perigosamente pretensiosa. Essa crença lançou raízes profundas no espírito humano, reforçada
+por doutrinas que situam corretamente o Homo Sapiens no ponto mais alto da evolução, mas
+incidem no equívoco de fazer dele uma espécie de finalidade da criação. Pode-se dizer com
+segurança que nada na natureza foi feito para alguma coisa, mas pode-se crer em permuta e
+equilíbrio entre seres e coisas”.
+Lisboa, Luiz Carlos, Olhos de ver; ouvidos de ouvir. Ed. DIFEL. 2013.
+
+As opções a seguir apresentam uma série de palavras e expressões do campo semântico da
+religiosidade, à exceção de uma. Assinale-a.
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                            23
+         www.estrategiaconcursos.com.br                                                     62
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+A) Olhos de ver; ouvidos de ouvir.
+B) Essa crença lançou raízes profundas.
+C) ... uma espécie de finalidade da criação.
+D) ... reforçada por doutrinas.
+E) ... nada na natureza foi feito para alguma coisa.
+Comentários:
+A única alternativa que não traz uma relação com a religiosidade é a Letra (E): ao afirmar que
+“nada na natureza foi feito para alguma coisa”, a sentença está se opondo ao pensamento
+religioso de que há razão de ser e existir em tudo. Portanto, Gabarito letra E.
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             24
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+  QUESTÕES COMENTADAS - DENOTAÇÃO E CONOTAÇÃO - FGV
+
+   1. (FGV / PGM-NITERÓI / 2023)
+Observe o seguinte pensamento do humorista Millôr Fernandes: “A economia compreende
+todas as atividades do país, mas nenhuma atividade do país compreende a economia”. O
+pensamento é composto por duas orações; sobre a sua estruturação, é correto afirmar que:
+A) a frase mostra uma rigorosa inversão dos termos nas duas orações que a compõem;
+B) enquanto a primeira oração mostra sentido lógico, a segunda mostra sentido figurado;
+                                                       ==219a34==
+
+C) o verbo “compreender” é empregado com significados distintos nas duas orações;
+D) enquanto a primeira oração é construída na voz ativa, a segunda é construída na voz passiva;
+E) o pensamento é estruturado sobre uma oposição entre presente X futuro.
+Comentários:
+O autor fez um jogo de palavras com o verbo "compreender":
+“A economia compreende (engloba/abrange) todas as atividades do país, mas nenhuma
+atividade do país compreende (entende) a economia”
+C) o verbo “compreender” é empregado com significados distintos nas duas orações;
+Vejamos as demais:
+A) Incorreto. não é "rigorosa", temos diferenças: "todas as atividades" x "nenhuma atividade".
+B) Incorreto. Nas duas o sentido é "lógico" (denotativo/literal).
+D) Incorreto. Ambas estão na voz ativa.
+E) Incorreto. O pensamento é construído entre dois sentidos do verbo compreender.
+Gabarito letra C.
+
+
+2. (FGV / PGM-NITERÓI / 2023)
+Observe como foi construído o humor na seguinte frase: “A maneira mais segura de você dobrar
+o seu dinheiro, é pegar as notas, dobrá-las e guardá-las no bolso”. Como sabemos, o humor é
+construído pela quebra de uma expectativa; nesse caso, essa quebra provém:
+A) da inutilidade de ensinar-se como dobrar o dinheiro;
+B) do destaque dado a uma situação que é feita por todos;
+C) dos sentidos diversos do verbo “dobrar”;
+D) da impossibilidade de dobrar o dinheiro, pondo-o no bolso;
+E) da proposta inviável contida na frase.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   25
+        www.estrategiaconcursos.com.br                                                            62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Comentários:
+Questão bem direta. Podemos "dobrar" no sentido físico, amassar no meio, alinhando as
+metades; ou podemos "dobrar" no sentido financeiro, o dinheiro passando a valer duas vezes
+mais.
+O humor vem dessa quebra de expectativa no uso do verbo "dobrar" em sentidos diferentes.
+Gabarito letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              26
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+       QUESTÕES COMENTADAS - SINÔNIMO E ANTÔNIMO - FGV
+   1. (FGV / CGE-PB / 2024)
+Na língua portuguesa há um grande número de locuções ou frases feitas amplamente usadas;
+entre as opções abaixo, aquela que NÃO tem o seu sentido indicado de forma correta, mas o
+oposto, é:
+A) arrepiar caminho / afastar-se;
+B) ter as costas quentes / sentir-se protegido;
+C) ser fogo de palha / entusiasmo passageiro;
+D) andar num cortado / estar em dificuldades;
+E) pôr alguém nas nuvens / exaltar uma pessoa.
+Comentários:
+Aqui temos questão de sinonímia frasal, ou seja, de equivalência de expressões.
+"Arrepiar caminho" significa: a) voltar, reaproximar-se, retroceder, retornar para o local (ou
+posição) de partida; b) fugir, desaparecer.
+Portanto, é o contrário de "afastar-se".
+Nas demais, como o próprio enunciado expressamente declara, o sentido está indicado
+corretamente.
+Gabarito letra A.
+
+
+   2. (FGV / TJ-RJ / 2024)
+As frases a seguir mostram vocábulos idênticos repetidos. Assinale a frase em que esses
+vocábulos mostram significados diferentes.
+A) Quando faço o bem, sinto-me bem.
+B) Toda alegria é uma vitória, e uma vitória é uma vitória, por menor que seja.
+C) Ambos se prejudicam: quem promete demais e quem espera demais.
+D) Quem cede sua liberdade em troca de um pouco de segurança temporária não merece nem
+liberdade nem segurança.
+E) É verdade que a liberdade é preciosa. Tão preciosa que é preciso racioná-la.
+Comentários:
+Em " A) Quando faço o bem, sinto-me bem", o primeiro "bem" é substantivo: fazer o bem, é
+fazer coisas boas, ter atitudes nobres, altruístas.
+O segundo bem é "advérbio" de modo: sentir-se "bem" é o contrário de não se sentir mal.
+Para reforçar, vale registrar os diversos sentidos do advérbio "bem":
+adv.
+1. De modo bom e conveniente: um homem bem vestido: empregar bem o tempo
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             27
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+2. Sem falhas, com acerto, em alto nível de qualidade: Ela canta bem.: Ele joga bem vôlei
+3. Com saúde, bem-estar: Não me sinto bem hoje
+4. Com nitidez, distintamente: Desta janela vê-se bem o Corcovado
+5. Com comodidade; à vontade: Você está bem aí?
+6. De forma correta, justa: Penso que você agiu bem.
+7. Muito, bastante: A prova foi bem difícil
+8. Exatamente: Eles chegaram bem na hora
+sm.
+9. O que é bom, o que traz felicidade: Só quero o seu bem.
+10. Pessoa querida: "Meu amor meu bem me leve de ultraleve" (Zeca Baleiro)
+11. O que pertence a uma pessoa e para ela tem valor material; POSSE: Não possuía um único
+bem, que pudesse vender para pagar as dívidas. [Mais us. no pl.]
+Gabarito letra A.
+
+
+   3. (FGV / TJ-RJ / 2024)
+Nas frases a seguir há expressões populares sublinhadas. Assinale a frase em que o significado de
+uma expressão foi corretamente indicado.
+A) Cada vez que o Brasil tira a cabeça fora d’água e mostra que é competitivo, vem bomba. /
+passa a ver melhor as coisas.
+B) Os estrangeiros terão de comer muito feijão para chegar à posição de maior banco do mundo.
+/ terão de trabalhar muito.
+C) Se abrirmos a porteira, passa uma boiada e o país pode quebrar. / deixarmos de progredir.
+D) Se sinto que estou deixando o sucesso subir à cabeça, vou ao banheiro, pego minha cueca e
+lavo; enxáguo e deixo lá secando. / atingir o seu ponto máximo.
+E) Tem-se que dar muito murro para chegar a comprar um casarão na Flórida. / superar
+obstáculos.
+Comentários:
+Estas são questões práticas de vocabulário. Vejamos.
+A) Cada vez que o Brasil tira a cabeça fora d’água e mostra que é competitivo, vem bomba. / se
+mostra, se expõe.
+B) Os estrangeiros terão de comer muito feijão para chegar à posição de maior banco do mundo.
+/ terão de trabalhar muito.
+C) Se abrirmos a porteira, passa uma boiada e o país pode quebrar. / deixarmos uma brecha,
+permitirmos entrada/saída indesejada.
+D) Se sinto que estou deixando o sucesso subir à cabeça, vou ao banheiro, pego minha cueca e
+lavo; enxáguo e deixo lá secando. / sucesso causar deslumbramento.
+E) Tem-se que dar muito murro para chegar a comprar um casarão na Flórida. / lutar muito.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                28
+        www.estrategiaconcursos.com.br                                                         62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Gabarito letra B.
+
+
+   4. (FGV – Agente de Segurança Penitenciário (DEPEN MG)/2022)
+Assinale a opção que apresenta a substituição adequada dos termos sublinhados por um só
+vocábulo de significado equivalente.
+A) Mais um verão e mais uma vez a dengue está de volta / repentinamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / frequentemente.
+C) Ele trabalha doze horas todos os dias / continuamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / progressivamente.
+Comentários:
+Vejamos a substituição adequada:
+A) Mais um verão e mais uma vez a dengue está de volta / novamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / ocasionalmente,
+esporadicamente ou de vez em quando.
+C) Ele trabalha doze horas todos os dias / diariamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / até onde sei, não existe um advérbio
+perfeitamente equivalente a “de hora em hora”; mas “progressivamente” certamente não tem
+esse sentido.
+Gabarito Letra D
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Um problema da língua escrita é a polissemia das palavras, que pode gerar mais de um
+entendimento da frase.
+A frase abaixo em que isso ocorre com o termo sublinhado é:
+A) Comprou um romance de estilo moderno;
+B) Após dois anos, perdeu os óculos;
+C) Vi o automóvel importado por meu tio;
+D) Comprou uma caixa de ovos;
+E) Adquiriu um terno na semana passada.
+Comentários:
+Polissemia é a propriedade que uma mesma palavra tem de apresentar mais de um significado
+nos múltiplos contextos em que aparece. Ex: Banco: Assento / Instituição Financeira; Manga:
+Fruta / Parte da camisa).
+Vejamos as alternativas:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                          29
+        www.estrategiaconcursos.com.br                                                   62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+A) ERRADA. Nesse contexto, só temos um significado coerente para "romance": literatura
+narrativa em prosa, ou seja, a pessoa comprou um livro.
+B) CERTA. No contexto, o verbo "perder" pode assumir os seguintes sentidos:
+1. "não localizar": A pessoa perdeu os óculos após dois anos, ou seja, não consegue localizá-los
+mais.
+2. "deixar de ser útil": A pessoa perdeu os óculos após dois anos porque seu grau aumentou, por
+exemplo.
+C) ERRADA. A palavra "automóvel" apresenta apenas um significado: carro.
+D) ERRADA. Nesse contexto, só temos um significado coerente para "caixa": embalagem.
+E) ERRADA. Nesse contexto, só temos um significado coerente para "adquirir": passar a ser
+proprietário de algo. Gabarito letra B.
+
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. “Disposição” não tem o mesmo sentido de “dedicação”.
+B) ERRADA. “Ter vontade” está relacionado a desejar, e não gostar.
+C) ERRADA. “Ter necessidade" não pode ser substituído por "exigir".
+D) ERRADA. "Não ter serventia" não tem relação de sentido com "deteriorar".
+E) CERTA. Gabarito letra E.
+
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase a seguir em que os termos sublinhados podem ser considerados sinônimos é:
+A) A batata está custando caro, como, aliás, todo cereal;
+B) A educação é tarefa dos pais, e a cultura, do Estado;
+C) A maior greve ocorreu em 1950; a paralisação durou um mês;
+D) A operação e o tratamento foram demasiadamente caros;
+E) As crianças adoram doce, principalmente chocolate.
+Comentários:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              30
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Para resolver essa questão temos que ter os conceitos de sinônimo, hipônimo e hiperônimo em
+mente.
+A) ERRADA. Os termos "batata" e cereal" foram utilizados como hiperônimo ("cereal") e
+hipônimo ("batata").
+B) ERRADA. Os termos "educação" e "cultura" não são sinônimos.
+C) CERTA. "Greve" e "paralisação" possuem o mesmo significado, podendo ser substituídos
+entre si sem nenhum prejuízo semântico.
+D) ERRADA. Os termos "operação" e "tratamento" não são sinônimos.
+E) ERRADA. Os termos "doce" e "chocolate" foram utilizados como hiperônimo ("doce") e
+hipônimo ("chocolate"). Gabarito letra C.
+
+
+   8. (FGV/ IBGE / COORDENADOR CENSITÁRIO / 2019)
+Prisão de traficante mostra eficácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os termos que mostram a mesma relação semântica (antônimos) entre compra e venda são:
+A) comprovação / falsificação;
+B) hipocrisia / demonstração;
+C) certeza / dúvida;
+D) inteligência / esperteza;
+E) subordinação / coordenação.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. “Comprovação” e “falsificação” não são antônimos.
+B) ERRADA. Não há relação de sentido entre “hipocrisia” e “demonstração”
+C) CERTA. “Certeza” e “dúvida” são antônimos.
+D) ERRADA. “Inteligência” e “esperteza” remetem ao mesmo campo semântico.
+E) ERRADA. “Subordinação” e “coordenação” fazem parte do mesmo campo semântico.
+Gabarito: Letra C.
+
+
+   9. (FGV/ TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+A frase abaixo que NÃO se estrutura com base numa oposição é:
+A) A tortura é um meio seguro de absolver os criminosos robustos e condenar os fracos
+inocentes;
+B) Muitos primeiros virão a ser os últimos;
+C) A glória deve ser conquistada; a honra, por sua vez, basta que não seja perdida;
+D) Nenhuma lei se adapta igualmente bem a todos;
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            31
+        www.estrategiaconcursos.com.br                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+E) Infeliz é aquele discípulo que não supera seu mestre.
+Comentários:
+Vejamos as alternativas:
+A) CERTA. Há oposição entre "criminosos robustos" e "fracos inocentes".
+B) CERTA. Há oposição entre "primeiros" e "últimos".
+C) CERTA. Há oposição entre "glória - conquistada" e "honra – não seja perdida".
+D) ERRADA. Não há oposição na frase.
+E) CERTA Há oposição entre “discípulo" e "mestre". Gabarito letra D.
+
+
+   10. (FGV/ MPE-RJ / OFICIAL / 2019)
+A psicóloga Fernanda Furia escreveu uma reportagem sobre Inteligência Digital, que dizia o
+                                                       ==219a34==
+
+seguinte: Nas últimas décadas a nossa vida vem se tornando digital. Estamos a todo momento
+não somente usando diversas tecnologias como também sendo, sem perceber, profundamente
+influenciados por elas. Vivemos rodeados de tecnologias digitais acessíveis, intuitivas, disruptivas
+e extremamente atraentes, o que nos coloca em uma posição ao mesmo tempo de poder e de
+vulnerabilidade.
+Sobre o vocabulário empregado nesse texto, a única indicação de significado equivocada é:
+A) década = espaço de dez anos;
+B) diversas tecnologias = tecnologias diferentes;
+C) acessíveis = disponíveis;
+D) disruptivas = que mostram quebra, interrupção;
+E) vulnerabilidade = fraqueza.
+Comentários:
+A) CERTA. De fato, “década” significa o período de dez anos.
+B) ERRADA. “Diversas” e “diferentes” não são sinônimas
+C) CERTA.
+D) CERTA. “Disruptivas” tem o sentido de ruptura com os padrões.
+E) CERTA. “Vulnerabilidade” indica um estado de fraqueza. Gabarito letra C.
+
+
+   11. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que o termo sublinhado tem um sinônimo indicado corretamente é:
+A) “A razão nos é dada para discernir o bem e o mal” / julgar;
+B) “Quem decide praticar o mal, encontra sempre um pretexto” / castigo;
+C) “Poucas vezes falta engenho à maldade” / trabalho;
+D) “A educação seria a arte de parecer inofensivo” / inocente;
+E) “Não pode haver educação onde não há discrição” / reserva.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  32
+        www.estrategiaconcursos.com.br                                                           62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Comentários:
+Podemos sim dizer que “ser discreto” pode equivaler a “ser reservado”, mas no contexto da letra
+E, com a frase solta, não parece haver essa equivalência, porque “reserva” pode ter outros
+sentidos. Contudo, novamente deveríamos tentar fazer por eliminação. Vou então marcar um
+possível sinônimo correto para as demais alternativas:
+Discernir – diferenciar, distinguir
+Pretexto – motivo, alegação
+Engenho – criação, inventividade
+Aí, na letra D, temos “inofensivo” e “inocente”, que são palavras muito próximas do que
+“reserva” e “discrição”:
+Inclusive, segundo o consagrado dicionário Aulete, são sinônimas:
+inofensivo
+(i.no.fen.si.vo)
+1. Que não ofende, que não escandaliza: Parece uma pessoa inofensiva.
+2. Que não produz mau resultado, que não prejudica; INOCENTE; INÓCUO: A água é uma
+bebida inofensiva.
+3. Que não faz mal, que não tem qualquer fim malévolo: A chupeta é inofensiva quando usada só
+para dormir.
+O melhor gabarito seria a letra D; contudo, a banca entendeu “inocente” como “não culpado” e
+“inofensivo” como “quem não ofende, não faz mal”. É uma leitura possível, mas a D também era
+razoável. O problema é sempre a falta de um contexto maior. Gabarito definitivo letra E.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             33
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   QUESTÕES COMENTADAS - HIPERÔNIMO E HIPÔNIMO - FGV
+   1. (FGV / TJ-RN / 2023)
+Um dos problemas continuamente apontados em textos escritos é o da repetição de termos
+idênticos; em todas as frases abaixo, esse problema foi combatido por meio de substituições.
+A opção em que a substituição foi realizada por meio de um processo diferente dos demais, é:
+A) O coronel tinha muito orgulho da farda, como ocorre com a grande maioria dos militares;
+B) Essa noite relampejou e trovejou muito, e os pobres cachorros, com medo desses fenômenos,
+latiram desesperadamente;
+C) Subir e descer escadas, caminhar uma hora por dia foram exercícios recomendados pelo
+médico do idoso;
+D) Os alunos pretendiam homenagear a professora, mas nem todos os alunos concordaram com
+a homenagem;
+E) Era muito simpático, característica que todos admiravam nele.
+Comentários:
+O processo utilizado foi a substituição semântica entre um termo geral (hiperônimo) e um
+específico (hipônimo)
+Militar > coronel
+Fenômenos > trovejar/relampejar
+Exercícios > subir e descer escadas, caminhar
+Característica > ser simpático/simpatia
+Isso só não ocorre em:
+D) Os alunos pretendiam homenagear a professora, mas nem todos os alunos concordaram com
+a homenagem;
+Nessa alternativa, o mecanismo de coesão foi a reiteração, a mera repetição.
+Gabarito letra D.
+
+
+   2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Ao escrever um texto, o autor enfrenta várias dificuldades. Uma delas é evitar a repetição de
+palavras e um dos meios para isso é substituir uma palavra de valor específico por outra de
+conteúdo geral, como no exemplo a seguir.
+O sargento foi atropelado; depois de alguns minutos, chegou uma ambulância que levou o
+militar para o hospital.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                34
+        www.estrategiaconcursos.com.br                                                         62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Assinale os vocábulos abaixo que mostram, respectivamente, esse mesmo tipo de relação:
+A) selvagens / índios;
+B) músicos / sambistas;
+C) embalagens / caixas;
+D) bananeira / bananal;
+E) quarto / cômodo.
+Comentários:
+Temos uma relação de substituição que ocorre da seguinte forma: Específico => Geral, ou seja,
+Hipônimo => Hiperônimo.
+A única alternativa em que essa relação, nessa ordem, ocorre é na Letra E. Perceba que aqui
+temos uma relação de Específico => Geral: cômodo é mais geral que quarto, pois pode ser
+qualquer espaço na casa (quarto, cozinha, sala etc).   ==219a34==
+
+Na alternativa C temos uma relação invertida, Geral => Específico, por isso não pode ser nosso
+gabarito. Gabarito letra E.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             35
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+    QUESTÕES COMENTADAS - PARÔNIMO E HOMÔNIMO - FGV
+   1. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Parônimos são vocábulos de forma semelhante, mas com distintos significados; assim, as palavras
+destacadas são parônimas de outras bem semelhantes.
+Assinale a frase em que a palavra destacada está bem empregada.
+A) O despertador é um acidente de tráfego do sono.
+B) O motorista não pagou a inflação de trânsito.
+C) O tráfego de drogas está ficando muito frequente.
+D) O juiz não diferiu o pedido de revogação da prisão.
+E) O paciente não conseguia aspirar direito no quarto abafado.
+Comentários:
+Está correta a letra A:
+Acidente: Evento ou acontecimento imprevisto e geralmente com efeitos relevantes ou
+prejudiciais.
+Incidente: Evento ou acontecimento imprevisto e desprovido de maior importância.
+A) O despertador é um acidente de tráfego do sono.
+Nas demais, houve troca pelo parônimo:
+B) O motorista não pagou a infração de trânsito. (delito, violação)
+"inflação"=perda do valor da moeda, que acarreta aumento de preços.
+C) O tráfico de drogas está ficando muito frequente. (comércio criminoso)
+"tráfego"=movimento
+D) O juiz não deferiu o pedido de revogação da prisão. (acatou)
+"diferir"=adiar, postergar
+E) O paciente não conseguia respirar direito no quarto abafado. (inalar oxigênio e expelir gás
+carbônico)
+"aspirar"=puxar ar, sugar.
+Gabarito letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              36
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu parônimo;
+a única das frases cuja forma do vocábulo sublinhado está correta é:
+A) O motorista infligiu as leis do trânsito;
+B) O prisioneiro dilatou os comparsas do assalto;
+C) Nada há que desabone a sua conduta imoral;
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+E) Os cumprimentos devem ser dados na entrada da festa.
+Comentários:
+Questão bem "casca de banana". Para respondê-la, devemos ter em mente os pares mais
+conhecidos de parônimos.
+Vejamos as alternativas:
+A) INCORRETO. O correto seria "O motorista infringiu as leis de trânsito".
+B) INCORRETO. O correto seria "O prisioneiro delatou os comparsas do assalto".
+C) INCORRETO.O correto seria "Nada há que desabone a sua conduta moral".
+D) INCORRETO. O correto seria "A cobrança é bimensal, ou seja, duas vezes por mês."
+E) CORRETO. "Cumprimentos" tem o sentido de saudação. Gabarito letra E.
+
+
+   3. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+A) O mandado de senador dura 8 anos;
+B) Impetrou mandato de segurança com pedido de liminar;
+C) Não tinha mandado de busca para entrar na casa;
+D) Todos desejavam que seu mandado de diretor acabasse;
+E) O mandato de apreensão não havia sido expedido.
+Comentários:
+Mandato: período de uma concessão de poderes, incumbência de uma missão, por exemplo, o
+mandato de um político.
+Mandado: ordem judicial/administrativa, por exemplo, o mandato de prisão. Por isso, está correta
+a letra C e as demais foram trocadas:
+(A) O mandaTo de senador dura 8 anos;
+(B) Impetrou mandaDo de segurança com pedido de liminar;
+(D) Todos desejavam que seu mandaTo de diretor acabasse;
+(E) O mandaDo de apreensão não havia sido expedido. Gabarito letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              37
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   4. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+Há uma série de palavras em língua portuguesa que modificam o seu sentido em função de uma
+troca vocálica; esse fato só NÃO ocorre em:
+A) deferir / diferir;
+B) infarte / infarto;
+C) emergir / imergir;
+D) descrição / discrição;
+E) eminente / iminente.
+Comentários:
+(A) deferir (conceder) / diferir (divergir/adiar);
+(B) infarte / infarto (são variantes da mesma palavra, o sentido não muda)
+                                                        ==219a34==
+
+(C) emergir (subir à tona) / imergir (descer, submergir);
+(D) descrição (ato de descrever) / discrição (ser discreto, reservado);
+(E) eminente (excelso, destacado) / iminente (imediato, próximo no tempo, algo que está por
+ocorrer).
+Gabarito letra B.
+
+
+   5. (FGV / CÂMARA DE SALVADOR / ANALISTA LEG. / 2018)
+“tratados e declarações internacionais ratificadas pelos países”; nesse segmento do texto 1 está
+sublinhada uma palavra denominada parônimo, por ter uma forma semelhante no idioma
+(retificadas), com significado distinto.
+A frase abaixo em que está correto o emprego da forma sublinhada é:
+A) As organizações aguardam o diferimento de seus pedidos para que possam começar a atuar
+nos conflitos;
+B) Alguns Estados cometem fragrantes delitos contra a segurança de seus cidadãos;
+C) Devido a conflitos violentos, alguns cidadãos imigram para outros países em busca de
+segurança;
+D) Houve um vultuoso comércio de mercadorias contrabandeadas no momento dos conflitos;
+E) As organizações procedentes de países mais desenvolvidos são normalmente mais confiáveis.
+Comentários:
+a) “Diferimento” significa atraso, adiamento. “Deferimento” seria a palavra adequada, no sentido
+de “anuência, aprovação, concordância”.
+b) “Fragrante” significa é cheiroso, perfumado. “Flagrante” significa evidente, visível, óbvio; esta
+deveria ter sido a palavra utilizada.
+c) Se você vai para outro país, você “emigra”. Imigrante é quem “entra” no país estrangeiro, do
+ponto de vista de quem está dentro.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                 38
+         www.estrategiaconcursos.com.br                                                          62
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+d) A ideia é de volume, vulto, então devemos usar “vultoso”, volumoso, abundante. “Vultuoso” é
+quem está com a cara inchada e vermelha, com olhos salientes.
+e) Esta é correta. Procedente significa “originário”. Precedente é aquilo que precede, que vem
+antes.
+Gabarito letra E.
+
+
+   6. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que houve troca indevida entre parônimos ou homônimos é:
+A) “A evolução da técnica chegou ao ponto de tornar-nos inermes diante da técnica” / inertes;
+B) “Quem aspira a grandes coisas também deve sofrer muito” / expira;
+C) “Aquele que não deixa nada ao acaso raramente fará coisas de modo errado, mas fará
+pouquíssimas coisas” / ocaso;
+D) “Fala como sábio a um ignorante e este te dirá que tens pouco bom senso” / censo;
+E) “Ao entrar em um restaurante, todo cliente espera satisfazer desejos de ordem física e
+emocional. Os cardápios devem vir de encontro a essas necessidades” / ao encontro de.
+Comentários:
+Essa questão tem sérios problemas de elaboração na minha opinião. Entendo que a banca queria
+saber em qual opção o termo usado está equivocado e deveria ser trocado pela expressão que
+está sublinhada.
+No entanto, as expressões “de encontro A” ou “ao encontro DE”, nosso gabarito, não são
+parônimos, não se encaixam na definição de parônimo:
+Veja a definição:
+(pa.rô.ni.mo)
+a. Gram. Ling.Diz-se da palavra que tem pronúncia e/ou grafia semelhante à de outra palavra
+(p.ex.: recriar e recrear). [Us. tb. como adj.]
+Então, um parônimo é uma palavra parecida com outra, como os exemplos clássicos que
+menciono abaixo e constam em quase todas as gramáticas:
+avaleiro (que cavalga)         cavalheiro (homem gentil)
+comprimento (extensão)         cumprimento (saudação)
+deferir (atender)      diferir (distinguir-se, divergir)
+delatar (denunciar) dilatar (alargar)
+descrição (ato de descrever)            discrição (reserva, prudência)
+descriminar (tirar a culpa) discriminar (distinguir)
+despensa (local onde se guardam mantimentos)                      dispensa (ato de dispensar)
+docente (relativo a professores)        discente (relativo a alunos)
+emigrar (deixar um país)       imigrar (entrar num país)
+eminência (elevado)iminência (qualidade do que está iminente)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 39
+        www.estrategiaconcursos.com.br                                                          62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+eminente (elevado) iminente (prestes a ocorrer)
+Vejam a definição de Cegalla:
+Parônimos
+Registramos alguns parônimos (palavras parecidas na pronúncia e na escrita) que se diferenciam
+pela oposição das vogais /e/ e li/, /oi e /ui.
+As expressões “de encontro A” (ideia de choque, oposição, ir contra, discordar) e “Ao encontro
+DE” (ideia de ir no mesmo sentido, concordar) são apenas combinações diferentes de palavras,
+cujo núcleo é uma mesma palavra (encontro). Não se encaixa na definição de parônimo que vejo
+nas gramáticas. A FGV não vai anular por causa disso, mas não deixa de ser um defeito da
+questão.
+Gabarito letra E.
+Vejamos as demais palavras:
+Inerme – desarmado, indefeso.
+Inerte – que não se movimenta, estático.
+Ocaso – Lado ou momento em que o sol se põe. Em sentido figurado, significa “ruína,
+decadência”.
+Senso – sentido, faculdade mental, razão.
+Censo – contagem estatística.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            40
+        www.estrategiaconcursos.com.br                                                     62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                QUESTÕES COMENTADAS - POLISSEMIA - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Nas frases abaixo há um termo sublinhado, empregado com duplicidade de sentido; assinale o
+termo que, apesar de significados diversos, conserva uma base de sentido comum aos dois
+empregos.
+A) As raízes de uma árvore não são gregas nem latinas.
+B) O cabo da faca nunca passa a sargento.
+C) O sonho acabou, mas ainda tem pão-doce.
+D) A maioria dos percussionistas não bate bem da bola.
+E) A boca da noite não mostra cárie nos dentes.        ==219a34==
+
+Comentário:
+Aqui, temos uma questão de polissemia, a propriedade de uma palavra ter mais de um sentido.
+Em “As raízes de uma árvore não são gregas nem latinas”, raízes tem sentido de “base, origem,
+fundamento”, tanto considerando a árvore literal, quanto considerando a árvore genealógica de
+uma palavra.
+Nas demais opções, os dois sentidos possíveis de cada palavra não têm relação alguma.
+Cabo da faca não tem relação com cabo do exército.
+Sonho com sentido de aspiração não tem relação com sonho de padaria.
+Bater na bateria não tem relação com “bater bem da bola” (ser louco).
+A boca da noite não tem relação com a boca literal, com dentes e cáries.
+Gabarito Letra A
+
+
+    2. (FGV / CGU / 2022)
+Muitos que escrevem exploram a riqueza da polissemia, ou seja, a possibilidade de um vocábulo
+mostrar mais de um significado.
+A frase abaixo em que a polissemia NÃO está presente é:
+A) Os espelhos fariam muito bem em refletir um pouco antes de reenviar as imagens;
+B) Dentro das cápsulas de viagens interplanetárias, o espaço é cada vez maior;
+C) Nos exames finais, o mestre teve uma prova do pouco estudo do aluno;
+D) Muitas das aldeias portuguesas estão quase desabitadas;
+E) O ator declarava que a sua vida tinha sido um teatro.
+Comentários:
+A) "refletir" possui mais de um sentido, espelhar ou pensar, por exemplo.
+B) "espaço" possui mais de um sentido, a área física do universo não ocupada por corpos
+celestes ou a área dentro da capsula.
+C) "prova" possui mais de um sentido, teste de conhecimento ou evidência de um fato, por
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           41
+        www.estrategiaconcursos.com.br                                                    62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+exemplo.
+E) "teatro" possui mais de um sentido, um teatro de fato, físico, ou uma farsa, uma encenação,
+figuradamente.
+Gabarito letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             42
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+             QUESTÕES COMENTADAS - AMBIGUIDADE - FGV
+   1. (FGV / PC-SP / 2024)
+Assinale a frase abaixo em que o enunciador jogou com a dupla possibilidade de sentido do
+termo sublinhado.
+A) Não se vê o futuro através da parte opaca do espelho.
+B) O problema de ser pontual é que não há ninguém lá para elogiar você.
+C) O tempo perdido não se encontra nunca mais.
+D) Eu fiz um acordo de coexistência pacífica com o tempo.
+E) O moinho não moe com águas passadas.
+Comentários:
+O vocábulo "perdido" pode ser interpretado de duas formas:
+1) tempo desperdiçado, gasto em vão
+2) tempo sem direção, sem rumo.
+Essa ambiguidade foi proposital, por isso a banca diz que o autor "jogou" com essa dupla
+possibilidade de sentido.
+Gabarito letra C.
+
+
+   2. (FGV / CGE-PB / 2024)
+"Inicialmente, era feito de grãos de cereais triturados com pedras, amassado com água e
+colocado sobre pedras quentes ou debaixo de cinzas para assar, o que resultava em um pão
+achatado, duro e seco.”
+O problema de escritura que ocorre nesse segmento do texto 3, é:
+A) uma possível ambiguidade;
+B) a ocorrência de um erro de ortografia;
+C) a presença de oralidade na língua escrita;
+D) o excesso de adjetivos, alguns dispensáveis;
+E) a existência de redundâncias desnecessárias.
+Comentários:
+O problema é a falta de clareza. Vejamos as possíveis ambiguidades:
+No segmento "era feito de grãos de cereais triturados com pedras": os grão eram triturados
+junto com a pedra ou usavam a pedra para triturar o grão?
+O mesmo vale para "amassado com água": a água amassava o grão ou era misturado junto com
+a água para amassar?
+Gabarito letra A.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         43
+        www.estrategiaconcursos.com.br                                                  62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   3. (FGV / TJ-RN / 2023)
+A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir agente e
+paciente, é:
+A) O chefe encontrou o funcionário em seu gabinete;
+B) A criação da instituição demorou mais do que se esperava;
+C) João e Maria se casaram ontem;
+D) Encontrei o assaltante andando pela rua;
+E) Chamar os bombeiros já ficou na moda.
+Comentários:
+                                                       ==219a34==
+
+Atenção, essa é clássica. A banca sempre trabalha a diferença entre sintático-semântica entre
+adjunto adnominal e complemento nominal.
+B) A criação da instituição demorou mais do que se esperava;
+Sentido 1) A instituição criou. Sentido de agente. Função sintática de adjunto adnominal.
+Sentido 2) A instituição foi criada. Sentido de paciente. Função sintática de Complemento
+nominal.
+O contexto não permite distinguir entre os dois sentidos.
+Nas demais, temos ambiguidade, mas não entre agente e paciente.
+A) O chefe encontrou o funcionário em seu gabinete (gabinete de quem?)
+C) João e Maria se casaram ontem; (Casaram-se um com o outro ou cada um casou com outra
+pessoa, formando dois casais?)
+D) Encontrei o assaltante andando pela rua (quem estava andando?)
+E) Chamar os bombeiros já ficou na moda. (O "já" modifica "chamar" ou "ficar na moda":
+chamar "já", imediatamente, ficou na moda; ou chamar ficou na moda já, ficou na moda agora?)
+Gabarito letra B.
+
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe a seguinte frase, dita pelo proprietário de um restaurante sofisticado:
+“Meu restaurante deve comprar somente carne fresca.”
+Assinale o problema de construção encontrado nessa frase.
+A) O mau emprego do adjetivo “fresca”, que não especifica claramente o significado
+   pretendido.
+B) A ambiguidade contida no segmento “deve comprar somente carne fresca”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             44
+        www.estrategiaconcursos.com.br                                                      62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+C) A construção pouco simpática de destacar-se o proprietário do restaurante por meio do
+   possessivo “meu”.
+D) O uso inadequado da forma “deve”, já que mostra a ação de comprar como obrigatória.
+E) O advérbio “somente” deveria ser deslocado para o final da frase.
+Comentário:
+O problema é que há duas leituras possíveis em “deve comprar somente carne fresca”:
+1) vai comprar apenas carne fresca, isto é, excluindo todos os demais alimentos. Não vai ter nada
+que não seja carne fresca.
+2) vai comprar carne apenas fresca, sempre que comprar carne, ela será fresca, nunca comprará
+carne que não seja fresca.
+Gabarito Letra B
+
+
+   5. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Uma editora acaba de lançar o livro “Os Meninos da Caverna”, que conta a dramática história do
+resgate de um time de futebol juvenil que ficou dezoito dias preso em uma caverna na Tailândia.
+A capa do livro traz o seguinte texto:
+“O passeio de um sábado à tarde que durou dezoito dias preocupou o mundo e mobilizou mil
+pessoas em um resgate quase impossível na Tailândia”.
+O problema estrutural desse pequeno texto da capa é:
+A) a má seleção vocabular do termo “passeio”;
+B) a possível ambiguidade do termo “na Tailândia”;
+C) a inclusão de exageros evidentes para atrair o leitor;
+D) a presença de várias formas verbais com o mesmo sujeito;
+E) a ausência de vírgula após “mil pessoas”.
+Comentários:
+Questão direta: na expressão “impossível na Tailândia”, temos a possibilidade de ler que aquele
+resgate é impossível apenas na Tailândia, quando sentido original não era esse. Gabarito letra B.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               45
+        www.estrategiaconcursos.com.br                                                        62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+              LISTA DE QUESTÕES - CAMPO SEMÂNTICO - FGV
+    1. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+É claro que somos livres para falar ou escrever como quisermos, como soubermos, como
+pudermos. Mas é também evidente que devemos adequar o uso da língua à situação, o que
+contribui efetivamente para a maior eficiência comunicativa.
+Observe o texto a seguir, retirado de uma revista de computação. “Por mais poderoso que seja,
+um computador sem programas adequados tem pouca utilidade. E um ‘programa adequado’
+com certeza não é aquele aplicativo profissional, caro e sofisticado que, às vezes, já vem
+instalado. De nada adiantam funções, botões e janelas, se você não conseguir fazer alguma coisa
+com eles”.
+                                                        ==219a34==
+
+Um dos elementos que dá coerência aos textos é a ocorrência de vocábulos que estão dentro de
+um mesmo campo semântico; nesse texto, as palavras que pertencem ao mesmo bloco
+conceitual são:
+A) computador, programas, aplicativo, janelas;
+B) computador, programa, aplicativo, sofisticado;
+C) programas, aplicativo, caro, instalado;
+D) caro, sofisticado, instalado, funções;
+E) poderoso, aplicativo, instalado, funções.
+
+
+    2. (FGV/ PREF. SALVADOR (BA) / AGENTE DE FISCALIZAÇÃO / 2019)
+“A ideia de que a natureza existe para servir o homem seria apenas ingênua, se não fosse
+perigosamente pretensiosa. Essa crença lançou raízes profundas no espírito humano, reforçada
+por doutrinas que situam corretamente o Homo Sapiens no ponto mais alto da evolução, mas
+incidem no equívoco de fazer dele uma espécie de finalidade da criação. Pode-se dizer com
+segurança que nada na natureza foi feito para alguma coisa, mas pode-se crer em permuta e
+equilíbrio entre seres e coisas”.
+Lisboa, Luiz Carlos, Olhos de ver; ouvidos de ouvir. Ed. DIFEL. 2013.
+
+As opções a seguir apresentam uma série de palavras e expressões do campo semântico da
+religiosidade, à exceção de uma. Assinale-a.
+A) Olhos de ver; ouvidos de ouvir.
+B) Essa crença lançou raízes profundas.
+C) ... uma espécie de finalidade da criação.
+D) ... reforçada por doutrinas.
+E) ... nada na natureza foi feito para alguma coisa.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                            46
+         www.estrategiaconcursos.com.br                                                     62
+
+                                      
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 13
+
+                                               GABARITO
+                                                   1. LETRA A
+                                                   2. LETRA E
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           47
+      www.estrategiaconcursos.com.br                                    62
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+     LISTA DE QUESTÕES - DENOTAÇÃO E CONOTAÇÃO - FGV
+
+   1. (FGV / PGM-NITERÓI / 2023)
+Observe o seguinte pensamento do humorista Millôr Fernandes: “A economia compreende
+todas as atividades do país, mas nenhuma atividade do país compreende a economia”. O
+pensamento é composto por duas orações; sobre a sua estruturação, é correto afirmar que:
+A) a frase mostra uma rigorosa inversão dos termos nas duas orações que a compõem;
+B) enquanto a primeira oração mostra sentido lógico, a segunda mostra sentido figurado;
+C) o verbo “compreender” é empregado com significados distintos nas duas orações;
+D) enquanto a primeira oração é construída na voz ativa, a segunda é construída na voz passiva;
+E) o pensamento é estruturado sobre uma oposição entre presente X futuro.
+
+
+2. (FGV / PGM-NITERÓI / 2023)
+Observe como foi construído o humor na seguinte frase: “A maneira mais segura de você dobrar
+o seu dinheiro, é pegar as notas, dobrá-las e guardá-las no bolso”. Como sabemos, o humor é
+construído pela quebra de uma expectativa; nesse caso, essa quebra provém:
+A) da inutilidade de ensinar-se como dobrar o dinheiro;
+B) do destaque dado a uma situação que é feita por todos;
+C) dos sentidos diversos do verbo “dobrar”;
+D) da impossibilidade de dobrar o dinheiro, pondo-o no bolso;
+E) da proposta inviável contida na frase.
+
+                                                 GABARITO
+
+
+                                                     1. LETRA C
+                                                     2. LETRA C
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   48
+        www.estrategiaconcursos.com.br                                                            62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+            LISTA DE QUESTÕES - SINÔNIMO E ANTÔNIMO - FGV
+   1. (FGV / CGE-PB / 2024)
+Na língua portuguesa há um grande número de locuções ou frases feitas amplamente usadas;
+entre as opções abaixo, aquela que NÃO tem o seu sentido indicado de forma correta, mas o
+oposto, é:
+A) arrepiar caminho / afastar-se;
+B) ter as costas quentes / sentir-se protegido;
+C) ser fogo de palha / entusiasmo passageiro;
+D) andar num cortado / estar em dificuldades;
+E) pôr alguém nas nuvens / exaltar uma pessoa.
+
+
+   2. (FGV / TJ-RJ / 2024)
+As frases a seguir mostram vocábulos idênticos repetidos. Assinale a frase em que esses
+vocábulos mostram significados diferentes.
+A) Quando faço o bem, sinto-me bem.
+B) Toda alegria é uma vitória, e uma vitória é uma vitória, por menor que seja.
+C) Ambos se prejudicam: quem promete demais e quem espera demais.
+D) Quem cede sua liberdade em troca de um pouco de segurança temporária não merece nem
+liberdade nem segurança.
+E) É verdade que a liberdade é preciosa. Tão preciosa que é preciso racioná-la.
+
+
+   3. (FGV / TJ-RJ / 2024)
+Nas frases a seguir há expressões populares sublinhadas. Assinale a frase em que o significado de
+uma expressão foi corretamente indicado.
+A) Cada vez que o Brasil tira a cabeça fora d’água e mostra que é competitivo, vem bomba. /
+passa a ver melhor as coisas.
+B) Os estrangeiros terão de comer muito feijão para chegar à posição de maior banco do mundo.
+/ terão de trabalhar muito.
+C) Se abrirmos a porteira, passa uma boiada e o país pode quebrar. / deixarmos de progredir.
+D) Se sinto que estou deixando o sucesso subir à cabeça, vou ao banheiro, pego minha cueca e
+lavo; enxáguo e deixo lá secando. / atingir o seu ponto máximo.
+E) Tem-se que dar muito murro para chegar a comprar um casarão na Flórida. / superar
+obstáculos.
+
+
+   4. (FGV – Agente de Segurança Penitenciário - DEPEN-MG / 2022)
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                49
+        www.estrategiaconcursos.com.br                                                         62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+Assinale a opção que apresenta a substituição adequada dos termos sublinhados por um só
+vocábulo de significado equivalente.
+A) Mais um verão e mais uma vez a dengue está de volta / repentinamente.
+B) Vamos continuar de tempos em tempos a precisar de vacinação / frequentemente.
+C) Ele trabalha doze horas todos os dias / continuamente.
+D) João, dia após dia progrediu no emprego / paulatinamente.
+E) O paciente devia tomar remédios de hora em hora / progressivamente.
+
+
+   5. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Um problema da língua escrita é a polissemia das palavras, que pode gerar mais de um
+entendimento da frase.
+A frase abaixo em que isso ocorre com o termo sublinhado é:
+A) Comprou um romance de estilo moderno;
+B) Após dois anos, perdeu os óculos;
+C) Vi o automóvel importado por meu tio;
+D) Comprou uma caixa de ovos;
+E) Adquiriu um terno na semana passada.
+
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+A frase a seguir em que os termos sublinhados podem ser considerados sinônimos é:
+A) A batata está custando caro, como, aliás, todo cereal;
+B) A educação é tarefa dos pais, e a cultura, do Estado;
+C) A maior greve ocorreu em 1950; a paralisação durou um mês;
+D) A operação e o tratamento foram demasiadamente caros;
+E) As crianças adoram doce, principalmente chocolate.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                       50
+        www.estrategiaconcursos.com.br                                                62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   8. (FGV/ IBGE / COORDENADOR CENSITÁRIO / 2019)
+Prisão de traficante mostra eficácia da inteligência policial – Compra e venda de lanchas por
+chefe de facção criminosa chamaram atenção da polícia.
+Os termos que mostram a mesma relação semântica (antônimos) entre compra e venda são:
+A) comprovação / falsificação;
+B) hipocrisia / demonstração;
+C) certeza / dúvida;
+D) inteligência / esperteza;
+E) subordinação / coordenação.
+
+
+   9. (FGV/ TJ-CE / TÉCNICO JUDICIÁRIO / 2019)
+A frase abaixo que NÃO se estrutura com base numa oposição é:
+A) A tortura é um meio seguro de absolver os criminosos robustos e condenar os fracos
+inocentes;
+B) Muitos primeiros virão a ser os últimos;
+C) A glória deve ser conquistada; a honra, por sua vez, basta que não seja perdida;
+D) Nenhuma lei se adapta igualmente bem a todos;
+E) Infeliz é aquele discípulo que não supera seu mestre.
+
+
+   10. (FGV/ MPE-RJ / OFICIAL / 2019)
+A psicóloga Fernanda Furia escreveu uma reportagem sobre Inteligência Digital, que dizia o
+seguinte: Nas últimas décadas a nossa vida vem se tornando digital. Estamos a todo momento
+não somente usando diversas tecnologias como também sendo, sem perceber, profundamente
+influenciados por elas. Vivemos rodeados de tecnologias digitais acessíveis, intuitivas, disruptivas
+e extremamente atraentes, o que nos coloca em uma posição ao mesmo tempo de poder e de
+vulnerabilidade.
+Sobre o vocabulário empregado nesse texto, a única indicação de significado equivocada é:
+A) década = espaço de dez anos;
+B) diversas tecnologias = tecnologias diferentes;
+C) acessíveis = disponíveis;
+D) disruptivas = que mostram quebra, interrupção;
+E) vulnerabilidade = fraqueza.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  51
+        www.estrategiaconcursos.com.br                                                           62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   11. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que o termo sublinhado tem um sinônimo indicado corretamente é:
+A) “A razão nos é dada para discernir o bem e o mal” / julgar;
+B) “Quem decide praticar o mal, encontra sempre um pretexto” / castigo;
+C) “Poucas vezes falta engenho à maldade” / trabalho;
+D) “A educação seria a arte de parecer inofensivo” / inocente;
+E) “Não pode haver educação onde não há discrição” / reserva.
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                     52
+        www.estrategiaconcursos.com.br                                              62
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 13
+
+                                               GABARITO
+                                                   1. LETRA A
+                                                   2. LETRA A
+                                                   3. LETRA B
+                                                   4. LETRA D
+                                                   5. LETRA B
+                                                   6. LETRA E
+                                                   7. LETRA C
+                                                   8. LETRA C
+                                                   9. LETRA D
+                                                   10. LETRA C
+                                                   11. LETRA E
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           53
+      www.estrategiaconcursos.com.br                                    62
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+            LISTA DE QUESTÕES - HIPERÔNIMO E HIPÔNIMO - FGV
+   1. (FGV / TJ-RN / 2023)
+Um dos problemas continuamente apontados em textos escritos é o da repetição de termos
+idênticos; em todas as frases abaixo, esse problema foi combatido por meio de substituições.
+A opção em que a substituição foi realizada por meio de um processo diferente dos demais, é:
+A) O coronel tinha muito orgulho da farda, como ocorre com a grande maioria dos militares;
+B) Essa noite relampejou e trovejou muito, e os pobres cachorros, com medo desses fenômenos,
+latiram desesperadamente;
+                                                       ==219a34==
+
+C) Subir e descer escadas, caminhar uma hora por dia foram exercícios recomendados pelo
+médico do idoso;
+D) Os alunos pretendiam homenagear a professora, mas nem todos os alunos concordaram com
+a homenagem;
+E) Era muito simpático, característica que todos admiravam nele.
+
+
+   2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Ao escrever um texto, o autor enfrenta várias dificuldades. Uma delas é evitar a repetição de
+palavras e um dos meios para isso é substituir uma palavra de valor específico por outra de
+conteúdo geral, como no exemplo a seguir.
+O sargento foi atropelado; depois de alguns minutos, chegou uma ambulância que levou o
+militar para o hospital.
+Assinale os vocábulos abaixo que mostram, respectivamente, esse mesmo tipo de relação:
+A) selvagens / índios;
+B) músicos / sambistas;
+C) embalagens / caixas;
+D) bananeira / bananal;
+E) quarto / cômodo.
+
+                                                 GABARITO
+                                                     1. LETRA D
+                                                     2. LETRA E
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                54
+        www.estrategiaconcursos.com.br                                                         62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+        LISTA DE QUESTÕES - PARÔNIMO E HOMÔNIMO - FGV
+   1. (FGV / Prefeitura de Caraguatatuba - SP / 2024)
+
+Parônimos são vocábulos de forma semelhante, mas com distintos significados; assim, as palavras
+destacadas são parônimas de outras bem semelhantes.
+Assinale a frase em que a palavra destacada está bem empregada.
+A) O despertador é um acidente de tráfego do sono.
+B) O motorista não pagou a inflação de trânsito.
+C) O tráfego de drogas está ficando muito frequente.
+D) O juiz não diferiu o pedido de revogação da prisão.
+E) O paciente não conseguia aspirar direito no quarto abafado.
+
+
+   2. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Em todas as frases abaixo ocorre uma troca indevida do vocábulo sublinhado por seu parônimo;
+a única das frases cuja forma do vocábulo sublinhado está correta é:
+A) O motorista infligiu as leis do trânsito;
+B) O prisioneiro dilatou os comparsas do assalto;
+C) Nada há que desabone a sua conduta imoral;
+D) A cobrança é bimestral, ou seja, duas vezes por mês;
+E) Os cumprimentos devem ser dados na entrada da festa.
+
+
+   3. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+A frase em que está correto o emprego de um dos parônimos mandado/mandato é:
+A) O mandado de senador dura 8 anos;
+B) Impetrou mandato de segurança com pedido de liminar;
+C) Não tinha mandado de busca para entrar na casa;
+D) Todos desejavam que seu mandado de diretor acabasse;
+E) O mandato de apreensão não havia sido expedido.
+
+
+   4. (FGV / DPE-RJ / TÉCNICO MÉDIO DE DEFENSORIA / 2019)
+Há uma série de palavras em língua portuguesa que modificam o seu sentido em função de uma
+troca vocálica; esse fato só NÃO ocorre em:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              55
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+A) deferir / diferir;
+B) infarte / infarto;
+C) emergir / imergir;
+D) descrição / discrição;
+E) eminente / iminente.
+
+
+   5. (FGV / CÂMARA DE SALVADOR / ANALISTA LEG. / 2018)
+“tratados e declarações internacionais ratificadas pelos países”; nesse segmento do texto 1 está
+sublinhada uma palavra denominada parônimo, por ter uma forma semelhante no idioma
+(retificadas), com significado distinto.
+A frase abaixo em que está correto o emprego da forma sublinhada é:
+                                                        ==219a34==
+
+A) As organizações aguardam o diferimento de seus pedidos para que possam começar a atuar
+nos conflitos;
+B) Alguns Estados cometem fragrantes delitos contra a segurança de seus cidadãos;
+C) Devido a conflitos violentos, alguns cidadãos imigram para outros países em busca de
+segurança;
+D) Houve um vultuoso comércio de mercadorias contrabandeadas no momento dos conflitos;
+E) As organizações procedentes de países mais desenvolvidos são normalmente mais confiáveis.
+
+
+   6. (FGV / BANESTES / TÉC. BANCÁRIO / 2018)
+A frase abaixo em que houve troca indevida entre parônimos ou homônimos é:
+A) “A evolução da técnica chegou ao ponto de tornar-nos inermes diante da técnica” / inertes;
+B) “Quem aspira a grandes coisas também deve sofrer muito” / expira;
+C) “Aquele que não deixa nada ao acaso raramente fará coisas de modo errado, mas fará
+pouquíssimas coisas” / ocaso;
+D) “Fala como sábio a um ignorante e este te dirá que tens pouco bom senso” / censo;
+E) “Ao entrar em um restaurante, todo cliente espera satisfazer desejos de ordem física e
+emocional. Os cardápios devem vir de encontro a essas necessidades” / ao encontro de.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                56
+         www.estrategiaconcursos.com.br                                                         62
+
+                                      
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 13
+
+                                               GABARITO
+                                                   1.   LETRA A
+                                                   2.   LETRA E
+                                                   3.   LETRA C
+                                                   4.   LETRA B
+                                                   5.   LETRA E
+                                                   6.   LETRA E
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           57
+      www.estrategiaconcursos.com.br                                    62
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                    LISTA DE QUESTÕES - POLISSEMIA - FGV
+   1. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Nas frases abaixo há um termo sublinhado, empregado com duplicidade de sentido; assinale o
+termo que, apesar de significados diversos, conserva uma base de sentido comum aos dois
+empregos.
+A) As raízes de uma árvore não são gregas nem latinas.
+B) O cabo da faca nunca passa a sargento.
+C) O sonho acabou, mas ainda tem pão-doce.
+D) A maioria dos percussionistas não bate bem da bola.
+E) A boca da noite não mostra cárie nos dentes.
+
+
+    2. (FGV / CGU / 2022)
+Muitos que escrevem exploram a riqueza da polissemia, ou seja, a possibilidade de um vocábulo
+mostrar mais de um significado.
+A frase abaixo em que a polissemia NÃO está presente é:
+A) Os espelhos fariam muito bem em refletir um pouco antes de reenviar as imagens;
+B) Dentro das cápsulas de viagens interplanetárias, o espaço é cada vez maior;
+C) Nos exames finais, o mestre teve uma prova do pouco estudo do aluno;
+D) Muitas das aldeias portuguesas estão quase desabitadas;
+E) O ator declarava que a sua vida tinha sido um teatro.
+
+                                                 GABARITO
+
+                                                     1. LETRA A
+                                                     2. LETRA D
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                           58
+        www.estrategiaconcursos.com.br                                                    62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+                 LISTA DE QUESTÕES - AMBIGUIDADE - FGV
+   1. (FGV / PC-SP / 2024)
+Assinale a frase abaixo em que o enunciador jogou com a dupla possibilidade de sentido do
+termo sublinhado.
+A) Não se vê o futuro através da parte opaca do espelho.
+B) O problema de ser pontual é que não há ninguém lá para elogiar você.
+C) O tempo perdido não se encontra nunca mais.
+D) Eu fiz um acordo de coexistência pacífica com o tempo.
+E) O moinho não moe com águas passadas.
+Comentários:
+O vocábulo "perdido" pode ser interpretado de duas formas:
+1) tempo desperdiçado, gasto em vão
+2) tempo sem direção, sem rumo.
+Essa ambiguidade foi proposital, por isso a banca diz que o autor "jogou" com essa dupla
+possibilidade de sentido.
+Gabarito letra C.
+
+
+   2. (FGV / CGE-PB / 2024)
+"Inicialmente, era feito de grãos de cereais triturados com pedras, amassado com água e
+colocado sobre pedras quentes ou debaixo de cinzas para assar, o que resultava em um pão
+achatado, duro e seco.”
+O problema de escritura que ocorre nesse segmento do texto 3, é:
+A) uma possível ambiguidade;
+B) a ocorrência de um erro de ortografia;
+C) a presença de oralidade na língua escrita;
+D) o excesso de adjetivos, alguns dispensáveis;
+E) a existência de redundâncias desnecessárias.
+Comentários:
+O problema é a falta de clareza. Vejamos as possíveis ambiguidades:
+No segmento "era feito de grãos de cereais triturados com pedras": os grão eram triturados
+junto com a pedra ou usavam a pedra para triturar o grão?
+O mesmo vale para "amassado com água": a água amassava o grão ou era misturado junto com
+a água para amassar?
+Gabarito letra A.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         59
+        www.estrategiaconcursos.com.br                                                  62
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 13
+
+   3. (FGV / TJ-RN / 2023)
+A frase abaixo que mostra ambiguidade em função de NÃO se poder distinguir agente e
+paciente, é:
+A) O chefe encontrou o funcionário em seu gabinete;
+B) A criação da instituição demorou mais do que se esperava;
+C) João e Maria se casaram ontem;
+D) Encontrei o assaltante andando pela rua;
+E) Chamar os bombeiros já ficou na moda.
+
+                                                       ==219a34==
+
+   4. (FGV – Contador Legislativo - Câmara Taubaté-SP / 2022)
+Observe a seguinte frase, dita pelo proprietário de um restaurante sofisticado:
+“Meu restaurante deve comprar somente carne fresca.”
+Assinale o problema de construção encontrado nessa frase.
+A) O mau emprego do adjetivo “fresca”, que não especifica claramente o significado
+   pretendido.
+B) A ambiguidade contida no segmento “deve comprar somente carne fresca”.
+C) A construção pouco simpática de destacar-se o proprietário do restaurante por meio do
+   possessivo “meu”.
+D) O uso inadequado da forma “deve”, já que mostra a ação de comprar como obrigatória.
+E) O advérbio “somente” deveria ser deslocado para o final da frase.
+
+
+   5. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Uma editora acaba de lançar o livro “Os Meninos da Caverna”, que conta a dramática história do
+resgate de um time de futebol juvenil que ficou dezoito dias preso em uma caverna na Tailândia.
+A capa do livro traz o seguinte texto:
+“O passeio de um sábado à tarde que durou dezoito dias preocupou o mundo e mobilizou mil
+pessoas em um resgate quase impossível na Tailândia”.
+
+
+O problema estrutural desse pequeno texto da capa é:
+A) a má seleção vocabular do termo “passeio”;
+B) a possível ambiguidade do termo “na Tailândia”;
+C) a inclusão de exageros evidentes para atrair o leitor;
+D) a presença de várias formas verbais com o mesmo sujeito;
+E) a ausência de vírgula após “mil pessoas”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              60
+        www.estrategiaconcursos.com.br                                                       62
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 13
+
+                                               GABARITO
+                                                   1.   LETRA C
+                                                   2.   LETRA A
+                                                   3.   LETRA B
+                                                   4.   LETRA B
+                                                   5.   LETRA B
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           61
+      www.estrategiaconcursos.com.br                                    62
+
+                                   
+
+
+---
+
+---

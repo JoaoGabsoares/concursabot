@@ -1,0 +1,1070 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 16_014_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: RETA FINAL PETROBRAS
+---
+
+# RETA FINAL PETROBRAS
+
+RETA FINAL PETROBRAS
+Noções de Contabilidade
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+CPC 00 – ESTRUTURA CONCEITUAL
+    QUESTÕES CEBRASPE
+
+                                              Prof. Gilmar Possati
+
+         
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+
+A respeito das características qualitativas de informações financeiras úteis, julgue o próximo
+item.
+
+A aplicação das características qualitativas de melhoria é um processo iterativo que segue
+uma ordem prescrita, de maneira que nem excepcionalmente se pode diminuir uma
+característica qualitativa de melhoria para maximizar outra característica qualitativa de
+melhoria.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+A respeito das características qualitativas de informações financeiras úteis, julgue o próximo
+item.
+
+Uma das características qualitativas da informação contábil é sua capacidade de proporcionar
+ao gestor poder preditivo na tomada de decisões.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+A respeito das características qualitativas de informações financeiras úteis, julgue o próximo
+item.
+
+Para que a representação dos fenômenos econômicos nos relatórios financeiros seja
+perfeitamente fidedigna, ela deve, necessariamente, obedecer às normas vigentes no país, ter
+a menor quantidade de erros possível e ser isenta de tendências econômicas.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+A respeito das características qualitativas de informações financeiras úteis, julgue o próximo
+item.
+
+As avaliações de custos e benefícios sempre justificam os mesmos requisitos de relatório para
+toda e qualquer entidade.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+Considerando as convenções contábeis, julgue o item subsequente.
+
+O julgamento quanto à materialidade se relaciona com a necessidade de divulgação de todas
+as informações da empresa, sem exceção; assim, o leitor não será levado a tirar conclusões
+inadequadas sobre os resultados e as tendências da empresa.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+ (CEBRASPE/FUNPRESP-EX/2022)
+Considerando as convenções contábeis, julgue o item subsequente.
+
+A Convenção do Conservadorismo modifica o princípio geral do custo como base de valor, ao
+estabelecer que o contador, sempre que se defrontar com alternativas igualmente válidas de
+atribuir valores diferentes a um elemento do passivo, deverá optar pelo valor mais alto.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Considerando a mais recente Estrutura Conceitual da Contabilidade estabelecida pelo Comitê
+de Pronunciamentos Contábeis (CPC), assinale a opção correta.
+
+a) Foi mantida, na íntegra, a estrutura conceitual constante da Lei n.º 6.404/1976.
+b) As demonstrações contábeis elaboradas no pressuposto da premissa da continuidade
+foram alteradas, considerando-se o denominado princípio da continuidade.
+c) Os ativos e os passivos devem ser reconhecidos na mesma linha dentro do relatório
+contábil.
+d) Os ativos e os passivos são classificados em circulante e não circulante.
+e) Os ativos de longo prazo deixaram de ser classificados dentro das demonstrações
+contábeis.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Assinale a opção que corresponde ao conjunto de demonstrações contábeis segundo a vigente Estrutura
+Conceitual da Contabilidade estabelecida pelo CPC.
+
+a) balanço patrimonial, demonstração do resultado do exercício, demonstração do fluxo de caixa,
+demonstração das mutações do patrimônio líquido, demonstração do resultado abrangente
+b) balanço patrimonial, demonstração do resultado abrangente, demonstração dos fluxos de caixa,
+demonstração das mutações do patrimônio líquido, demonstração de lucros ou prejuízos acumulados e
+notas explicativas
+c) demonstração da posição financeira, demonstração do resultado abrangente, demonstração dos fluxos
+de caixa, demonstração das mutações do patrimônio líquido, balanço social e notas explicativas
+d) demonstração da posição financeira, balanço patrimonial, demonstração do resultado do exercício,
+demonstração das mutações do patrimônio líquido, demonstração de lucros ou prejuízos acumulados e
+notas explicativas
+e) demonstração da posição financeira, demonstração do resultado abrangente, demonstração dos fluxos
+de caixa, demonstração das mutações do patrimônio líquido, demonstração das origens e aplicações de
+recursos e notas explicativas
+
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Segundo a vigente Estrutura Conceitual da Contabilidade estabelecida pelo CPC, o ativo, além de ter
+capacidade de geração de benefícios futuros e ser resultado de eventos passados, deve ser
+
+I. de propriedade da entidade.
+II. controlado pela entidade.
+III. de uso da entidade.
+
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item II está certo.
+c) Apenas os itens I e III estão certos.
+d) Apenas os itens II e III estão certos.
+e) Todos os itens estão certos.
+
+ @profgilmarpossati      @canalcontabilizando
+                                          
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Com relação às características qualitativas da informação contábil, julgue os próximos itens.
+
+I. As características qualitativas da informação contábil são os atributos que tornam as demonstrações
+contábeis úteis para os usuários de suas informações.
+II. São características qualitativas da contabilidade a verificabilidade, a compreensibilidade, a relevância, a
+tempestividade, a representação fidedigna e a comparabilidade.
+III. Para serem úteis, as informações devem ser relevantes para as necessidades dos usuários na tomada de
+decisões, devendo-se atingir adequado equilíbrio entre a relevância e a confiabilidade das informações
+contábeis.
+
+Assinale a opção correta.
+a) Apenas o item I está certo.
+b) Apenas o item II está certo.
+c) Apenas os itens I e III estão certos.
+d) Apenas os itens II e III estão certos.
+e) Todos os itens estão certos.
+
+
+ @profgilmarpossati      @canalcontabilizando
+                                          
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+De acordo com a vigente Estrutura Conceitual da Contabilidade estabelecida pelo CPC, é objetivo do
+relatório contábil-financeiro
+
+a) fornecer informações confiáveis e tempestivas aos administradores de companhias.
+b) fornecer informações sobre a posição patrimonial e financeira da entidade que sejam úteis ao maior
+número possível de usuários.
+c) fornecer aos governos informações confiáveis sobre os impostos devidos e a recolher.
+d) fornecer informações confiáveis e tempestivas aos fornecedores de companhias.
+e) fornecer aos empregados informações sobre a possibilidade de demissões e(ou) reduções de salários.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+Um passivo exigível deve ser reconhecido caso
+
+a) surja uma obrigação resultado de eventos passados que provavelmente exigirá a entrega futura de
+montante conhecido de ativos para sua satisfação.
+b) eventos passados originem uma obrigação presente que deverá ser satisfeita no futuro com a entrega
+de ativos de valor incalculável.
+c) a entidade tome conhecimento de que uma perda poderá ocorrer como resultado de ação judicial
+desconhecida.
+d) seja criada uma obrigação presente com remota possibilidade de exigir um sacrifício de ativos.
+e) uma obrigação se torne possível, como resultado de ações passadas da entidade, podendo exigir
+pagamento.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DPE-RO/2022)
+De acordo com o Pronunciamento Técnico 00 (R2) – Estrutura Conceitual para Relatório Financeiro, a
+existência de controle é requisito necessário para que se possa enquadrar recurso econômico no conceito
+de ativo. Nesse sentido, assinale a opção que apresenta condição que, de acordo com o referido
+pronunciamento técnico, é suficiente para configurar existência de controle de recurso econômico por parte
+de uma entidade.
+
+a) A entidade deter a propriedade do recurso econômico.
+b) A entidade deter a custódia do recurso econômico.
+c) A entidade deter os direitos em relação aos benefícios econômicos gerados pelo recurso econômico.
+ d) A entidade deter a capacidade presente de direcionar o uso do recurso econômico e obter os recursos
+econômicos que possam dele fluir.
+e) A entidade ter o direito de empregar o recurso econômico em suas atividades.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/TCE-SC/2022)
+Quanto à estrutura conceitual para elaboração e divulgação de relatório contábil-financeiro, julgue o item
+seguinte.
+
+Os relatórios econômico-financeiros de propósitos gerais podem atender a um público bastante
+diversificado, mas seu público preferencial é aquele que financia a entidade que os elabora.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/TCE-ES/2022)
+Quanto à estrutura conceitual para elaboração e divulgação de relatório contábil-financeiro, julgue o item
+seguinte.
+
+Todo aumento de ativo ou redução de passivo que resulte em aumento no patrimônio líquido é uma
+receita.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/TCE-SC/2022)
+Quanto à estrutura conceitual para elaboração e divulgação de relatório contábil-financeiro, julgue o item
+seguinte.
+
+Para que uma informação financeira seja relevante, ela deve ser dotada de valor preditivo e de valor
+confirmatório.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/DP-DF/2022)
+Considerando os procedimentos, as interpretações e as orientações do Comitê de Pronunciamentos
+Contábeis (CPC), julgue o item subsequente.
+
+A materialidade é uma das qualidades fundamentais da informação contábil.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/DP-DF/2022)
+Com relação aos critérios de reconhecimento, mensuração e avaliação de itens patrimoniais diversos, julgue
+o item seguinte.
+
+Uma exigibilidade é reconhecida caso, como resultado de eventos passados, a entidade esteja obrigada, no
+presente, a entregar um recurso econômico no futuro, independentemente de eventos futuros fora do seu
+controle.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/DP-DF/2022)
+Com relação aos critérios de reconhecimento, mensuração e avaliação de itens patrimoniais diversos, julgue
+o item seguinte.
+
+Atende-se aos critérios de mensuração a valor justo quando passivos são mantidos, pelos seus montantes
+de liquidação, em caixa ou equivalentes de caixa — não descontados — que se espera pagar para liquidá-
+los no curso normal das operações.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+No que se refere a receitas e despesas, julgue o item subsequente.
+
+Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos no patrimônio
+líquido, exceto aqueles referentes a contribuições de detentores de direitos sobre o patrimônio.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/Telebras/2022)
+Com relação aos critérios de mensuração e avaliação de itens patrimoniais, julgue o item que se segue.
+
+Quando a compra de um ativo ocorre no mercado em que esse ativo habitualmente é vendido, o valor justo
+desse ativo pode coincidir com o seu custo histórico.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Acerca da apresentação das demonstrações financeiras, julgue o próximo item.
+
+Segundo o Pronunciamento Técnico CPC 00 — Estrutura Conceitual para Relatório Financeiro, a informação
+financeira atinge a qualidade fundamental de ser representação perfeitamente fidedigna quando é
+completa, neutra e isenta de erros, dessa forma, segundo o CPC, obtém-se a perfeição na representação
+dos fatos reportados.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item subsequente, a respeito de ativos e passivos.
+
+A definição de ativo compreende os direitos que uma entidade possui, mas que não correspondem à
+obrigação de outra parte; por exemplo, direitos de receber caixa ou produtos e serviços.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item subsequente, a respeito de ativos e passivos.
+
+Segundo o Pronunciamento Técnico CPC 00 — Estrutura Conceitual para Relatório Financeiro, ativo é um
+item que deve ter a capacidade de gerar benefícios econômicos no presente, sendo originário de
+transações futuras, exista ou não a propriedade do ativo em termos legais.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item que se segue, com base no disposto no Pronunciamento Técnico CPC 00 — Estrutura
+Conceitual para Relatório Financeiro.
+
+Uma das principais finalidades dos relatórios financeiros para fins gerais é apresentar o valor da entidade
+que reporta.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item que se segue, com base no disposto no Pronunciamento Técnico CPC 00 — Estrutura
+Conceitual para Relatório Financeiro.
+
+Um relatório financeiro para fins gerais tem por objetivo fornecer informações financeiras sobre a entidade
+que reporta e que sejam úteis para a sociedade em geral bem como para o Estado na tomada de decisões
+de como direcionar recursos econômicos para a entidade.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item que se segue, com base no disposto no Pronunciamento Técnico CPC 00 — Estrutura
+Conceitual para Relatório Financeiro.
+
+No pronunciamento técnico em questão, foi estabelecido que o objetivo das demonstrações contábeis é
+diferente do objetivo dos relatórios financeiros para fins gerais.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item que se segue, com base no disposto no Pronunciamento Técnico CPC 00 — Estrutura
+Conceitual para Relatório Financeiro.
+
+O referido pronunciamento técnico considera que a forma legal e a essência econômica são sempre as
+mesmas, por isso, é possível que a representação fidedigna seja plenamente atingida.
+
+ @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/FUB/2022)
+Julgue o item que se segue, com base no disposto no Pronunciamento Técnico CPC 00 — Estrutura
+Conceitual para Relatório Financeiro.
+
+Os relatórios financeiros para fins gerais têm capacidade de fornecer as informações de que necessitam os
+investidores, os credores por empréstimos e outros credores, existentes e potenciais, não sendo necessário
+que estes considerem outras informações de outras fontes, ainda que pertinentes.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/POLITEC/2022)
+À luz dos processos responsáveis por informações, dos Princípios Fundamentais de Contabilidade e das
+normas contábeis que balizam as demonstrações financeiras e o controle patrimonial das instituições e das
+sociedades empresariais, assinale a opção correta.
+
+ a) Ao elaborar relatórios financeiros para fins gerais, o gestor contábil visa reportar o valor da entidade
+como unidade contábil; contudo, tais relatórios não fornecem nem podem fornecer todas as informações
+de que necessitam os usuários existentes e potenciais. Dessa forma, os investidores, os credores por
+empréstimos e outros interessados precisam considerar, para auxiliar na sua tomada de decisão, colher
+informações pertinentes de outras fontes.
+
+ b) Para que informações prospectivas sobre possíveis transações futuras e outros possíveis eventos futuros
+integrem as demonstrações contábeis que estão sendo elaboradas para um período de tempo específico
+(período de relatório), é necessário que esse conjunto de demonstrações registre informações comparativas
+de, pelo menos, um período de relatório anterior.
+
+ @profgilmarpossati    @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/POLITEC/2022)
+c) Os relatórios financeiros para fins gerais, ao fornecerem informações sobre as reivindicações da entidade,
+registram alterações que afetam o desempenho financeiro, já que as alterações de cunho econômico
+afetam as receitas e despesas e, por conseguinte, a demonstração do resultado.
+
+d) Patrimônio líquido é a participação nos ativos da entidade após a dedução de todo o capital de terceiros
+ou, didaticamente, é o conjunto das reivindicações da entidade suportadas por passivo reconhecido
+contabilmente, mesmo que tais reivindicações não estejam legitimadas por contrato, por legislação ou
+outros meios similares, mas que, ainda assim, constituam direitos que devam ser honrados, como forma de
+garantir a saúde financeira da entidade perante os credores.
+
+e) Ativo é um direito que tem o potencial de produzir benefícios econômicos no presente, o qual é
+controlado pela entidade como resultado de eventos passados, sem prejuízo de que nem todos os direitos
+da entidade sejam ativos dessa entidade e de que não seja permissível obter benefícios econômicos de si
+mesma.
+
+ @profgilmarpossati     @canalcontabilizando
+                                         
+
+
+---
+
+(CEBRASPE/POLITEC/2022)
+Ainda à luz dos processos responsáveis por informações, dos Princípios Fundamentais de Contabilidade e
+das normas contábeis que balizam as demonstrações financeiras e o controle patrimonial das instituições e
+das sociedades empresariais, assinale a opção correta.
+
+a) As despesas constituem reduções nos ativos ou aumentos nos passivos que provocam reduções no
+patrimônio líquido, mesmo para reconhecimentos mais complexos, como é o caso das despesas
+decorrentes das distribuições de reservas financeiras a detentores de direitos sobre o patrimônio.
+
+b) Enquanto o capital financeiro se reverte em ativo líquido ou patrimônio líquido, o capital físico converge
+para a capacidade produtiva ou operacional da entidade.
+
+ c) Reconhecimento é o processo concebido para incluir item no balanço patrimonial, na demonstração do
+resultado e na demonstração do resultado abrangente que atenda à definição de um dos elementos das
+demonstrações contábeis − ativo, passivo, patrimônio líquido, receita ou despesa. O valor contábil pelo
+qual o item é registrado no balanço patrimonial é referenciado como o seu valor econômico.
+
+
+ @profgilmarpossati     @canalcontabilizando
+                                         
+
+
+---
+
+(CEBRASPE/POLITEC/2022)
+d) No desreconhecimento, os ativos ou passivos retidos devem estar alocados em unidade de conta
+separada do componente transferido para mantença dos requisitos que suportaram a mensuração aplicada
+ao componente retido. Tal requisito é condicionante para que as receitas ou despesas do exercício
+continuem sendo reconhecidas no componente retido como resultado do desreconhecimento do
+componente transferido. Contudo, tal procedimento não exime o gestor contábil de apresentar a
+informação separadamente na demonstração do resultado ou fornecer detalhamento do procedimento nas
+notas explicativas.
+
+e) Os ativos e os passivos, o patrimônio líquido e as receitas ou despesas podem ser consolidados na
+mesma classificação, desde que possuam as mesmas características.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PC-RO/2022)
+As características qualitativas fundamentais de informações financeiras úteis são
+
+a) a relevância e a representação fidedigna.
+b) a comparabilidade e a verificabilidade.
+c) a tempestividade e a compreensibilidade.
+d) a consistência e a confiabilidade.
+e) a materialidade e o custo-benefício.
+
+@profgilmarpossati     @canalcontabilizando
+                                        
+
+
+---
+
+(CEBRASPE/PC-RO/2022)
+São elementos das demonstrações contábeis que se referem ao desempenho financeiro de uma entidade:
+
+a) ativos, passivos e patrimônio líquido.
+b) receitas e despesas.
+c) custo das mercadorias vendidas ou dos serviços prestados.
+d) ativo financeiro e passivo financeiro.
+e) variações patrimoniais qualitativas e quantitativas.
+
+@profgilmarpossati    @canalcontabilizando
+                                       
+
+
+---
+
+(CEBRASPE/TCE-RJ/2021)
+Com base no Pronunciamento Técnico CPC 00 (R2) — Estrutura Conceitual para Relatório
+Financeiro, julgue o item subsecutivo.
+
+Natureza e magnitude são os elementos que servem de base para se determinar a
+materialidade dos itens que compõem o relatório financeiro, devendo tais elementos ser
+analisados no contexto da entidade que reporta a informação.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/TCE-RJ/2021)
+O custo amortizado é uma base de mensuração contábil aplicável a ativos e passivos
+financeiros cujo valor deve refletir estimativas de fluxos de caixa futuros, descontados a uma
+taxa determinada por ocasião do reconhecimento inicial dos referidos instrumentos
+financeiros.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/TCE-RJ/2021)
+O valor em uso de um ativo não contempla os custos de transação que a entidade que detém
+o controle do referido ativo espera incorrer no futuro, caso venha a negociar esse ativo ao
+final de sua vida útil.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PGDF/2021)
+Ao considerar a nova perspectiva do conservadorismo contábil, as decisões dos gestores
+devem fundamentar-se nas informações que geram valor confirmatório. Desse modo, a
+relevância das informações financeiras não se vincula a informações que tenham valor
+preditivo.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PGDF/2021)
+A utilidade da informação divulgada no relatório financeiro está diretamente relacionada à
+relevância e à fidedignidade daquilo que elas pretendem representar. Assim, quanto mais
+compreensível for a informação divulgada, mais útil ela será ao usuário interessado.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PGDF/2021)
+No que se refere à divulgação, os relatórios financeiros de empresas que têm participação em
+outra empresa (controladora) apresentam elementos e estrutura específicos. Por esse motivo,
+mesmo que a empresa que divulga a informação tenha participação em outras empresas —
+sem que estas sejam caracterizadas como controladas —, a denominação das demonstrações
+que englobam informação de todas as empresas será denominada “demonstrações contábeis
+consolidadas”.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-AL/2021)
+Os recursos econômicos de uma entidade são itens que devem compor o seu ativo, enquanto
+as reivindicações contra a entidade são itens que devem fazer parte do seu passivo ou do seu
+patrimônio líquido.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-AL/2021)
+Quando a apresentação e a classificação dos itens que compõem as demonstrações contábeis
+são mantidas de um período para outro, a consistência de apresentação está presente nas
+referidas demonstrações.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/PC-SE/2021)
+Ainda que de grande valia para a mensuração de passivos que serão liquidados nos termos
+estabelecidos em contrato, os custos históricos são de difícil aplicação para passivos atuariais.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-RR/2021)
+Julgue os itens seguintes, relativos aos itens patrimoniais e à sua forma de avaliação em geral.
+
+I. Um direito controlado pela entidade como resultado de eventos passados é um ativo,
+independentemente de outros condicionantes.
+II. Avaliam-se a valor justo os ativos biológicos que integrem o ativo da entidade.
+III. Passivo é a obrigação presente de transferir recursos econômicos, como resultado de
+eventos passados.
+IV. Ativos contingentes só devem ser registrados se for possível sua adequada mensuração.
+
+Estão certos apenas os itens
+a) I e II.
+b) II e III.
+c) III e IV.
+d) I, II e IV.
+e) I, III e IV.
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/ALECE/2021)
+De acordo com o Pronunciamento Técnico CPC 00(R2) – Estrutura Conceitual para Relatório
+Financeiro, a elaboração do relatório financeiro, para fins gerais, deve priorizar a prestação de
+informações financeiras que sejam úteis para a tomada de decisões de
+
+a) investidores e credores, existentes e potenciais.
+b) administradores e membros de conselhos fiscais.
+c) órgãos reguladores e fiscalizadores.
+d) profissionais da contabilidade e auditores independentes.
+e) pessoas do público em geral, sem distinção.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/ALECE/2021)
+Maximizar a qualidade da informação contábil, para torná-la, o quanto for possível, mais
+completa, neutra e isenta de erros, permitirá o melhor atingimento da característica
+qualitativa da informação contábil denominada de
+
+a) relevância.
+b) comparabilidade.
+c) representação fidedigna.
+d) compreensibilidade.
+e) capacidade de verificação.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/ALECE/2021)
+De acordo com o CPC 00(R2) – Estrutura Conceitual para Relatório Financeiro, as
+reivindicações contra os recursos econômicos da entidade que reporta são compostas
+exclusivamente pelo(s) elemento(s) das demonstrações contábeis da referida entidade
+denominado(s) de
+
+a) ativo.
+b) ativo e passivo.
+c) passivo.
+d) patrimônio líquido.
+e) passivo e patrimônio líquido.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-AL/2020)
+
+Uma das características qualitativas fundamentais da informação financeira é a representação
+fidedigna, que preconiza que as informações financeiras sejam representações fieis da forma
+legal dos fenômenos que ela se propõe a representar.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-DF/2020)
+
+Para ser útil, a informação contábil deve, concomitantemente, ser relevante e representar com
+fidedignidade a realidade reportada: nem a representação fidedigna de fenômeno irrelevante,
+nem a representação não fidedigna de fenômeno relevante auxiliam os usuários a tomarem
+boas decisões.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-DF/2020)
+
+Ao avaliar se um item se enquadra na definição de ativo, passivo ou patrimônio líquido, deve-
+se atentar para a sua essência subjacente e sua realidade econômica, e não apenas para sua
+forma legal.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEFAZ-DF/2020)
+
+Ganhos representam outros itens que se enquadram na definição de receita e podem ou não
+surgir no curso das atividades usuais da entidade, representando aumentos nos benefícios
+econômicos, e, como tais, não diferem, em natureza, das receitas.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/TRE-BA/2017)
+
+De acordo com a estrutura conceitual do CPC, assinale a opção que apresenta as
+características qualitativas fundamentais da informação contábil.
+a) conservadorismo e neutralidade
+b) relevância e representação fidedigna
+c) comparabilidade e verificabilidade
+d) tempestividade e compreensibilidade
+e) confiabilidade e prudência
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/TRE-BA/2017)
+
+Previstas na estrutura conceitual, as características qualitativas de melhoria da informação
+contábil incluem, além de comparabilidade,
+a) materialidade, representação fidedigna e verificabilidade.
+b) compreensibilidade, relevância, representação fidedigna.
+c) compreensibilidade, verificabilidade e tempestividade.
+d) compreensibilidade, representação fidedigna e representatividade.
+e) confiabilidade, tempestividade e verificabilidade
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/TRE-TO/2017)
+
+De acordo com a estrutura conceitual para elaboração e divulgação de relatório contábil-
+financeiro, emitida pelo Comitê de Pronunciamentos Contábeis (CPC), todo e qualquer
+elemento patrimonial que se enquadre na definição de ativo deve
+a) ter a forma legal de um bem ou direito.
+b) ter custo ou valor mensurável monetariamente.
+c) estar associado a um direito de propriedade.
+d) resultar de transações ou eventos passados.
+e) ter forma física.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/Perito/2016)
+
+As decisões dos usuários da informação contábil implicam, muitas vezes, a escolha entre
+alternativas, como vender ou manter um investimento, ou, ainda, investir em uma entidade ou
+em outra. Conforme a Estrutura Conceitual, essa necessidade dos usuários reforça, em
+especial, a importância da característica qualitativa de melhoria denominada
+a) comparabilidade.
+b) compreensibilidade.
+c) representação fidedigna.
+d) relevância.
+e) verificabilidade.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/DPU/2016)
+
+Deve-se reconhecer um passivo caso haja uma obrigação futura da entidade, derivada de
+eventos passados, cuja liquidação resultará na saída de recursos da entidade capazes de gerar
+benefícios econômicos.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/DPU/2016)
+
+Perdas são decréscimos nos benefícios econômicos durante o período contábil, portanto não
+são enquadradas como despesas, visto que despesas têm origem em atividades usuais da
+entidade e perdas, em atividades não usuais.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/DPU/2016)
+
+Um imóvel arrendado poderá ser reconhecido como ativo contábil pela empresa arrendatária
+caso a entidade passe a controlar os benefícios econômicos esperados desse bem.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/FUB/2013)
+
+A propriedade é uma característica indispensável para que um elemento patrimonial com
+potencialidade de gerar benefícios econômicos futuros para uma entidade seja considerado
+um ativo pela contabilidade.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SESA-ES/2011)
+
+Ao avaliar se um item se enquadra na definição de ativo, passivo ou patrimônio líquido, o
+contador deve considerar a essência, em detrimento da forma.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/MPE-PI/2012)
+
+A possibilidade de ocorrência de um evento futuro que afete negativamente o patrimônio de
+uma entidade deve ser registrado como um passivo dessa entidade.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SESA-ES/2011)
+
+Se a empresa tem uma obrigação presente, derivada de eventos já ocorridos, de cuja
+liquidação se espera que resulte saída de recursos capazes de gerar benefícios econômicos,
+tal obrigação deve ser enquadrada como um passivo da entidade.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/STM/2010)
+
+Patrimônio líquido é o conjunto de recursos controlados e utilizados pela entidade, fruto de
+suas transações passadas e cujo objetivo é a geração de benefícios futuros.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SESA-ES/2011)
+
+Receitas são definidas como aumentos nos benefícios econômicos, durante o período
+contábil, que resultem em aumento do patrimônio líquido, sob a forma de entrada de
+recursos provenientes de aumento de ativos ou de diminuição de passivos ou, ainda, de
+aporte dos proprietários da empresa.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SESA-ES/2011)
+
+Considerando-se determinados conceitos de manutenção de capital, os aumentos e as
+diminuições do patrimônio líquido decorrentes de reavaliações ou de atualizações de ativos e
+passivos enquadram-se nas definições de receita e de despesa; por isso, devem ser incluídos
+na demonstração de resultados.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/MEC/2014)
+
+De acordo com a estrutura conceitual para elaboração e divulgação de relatório contábil-
+financeiro, a definição de patrimônio líquido corresponde à equação fundamental do
+patrimônio, ou seja, representa o valor das contas patrimoniais devedoras, deduzidos os
+valores das contas patrimoniais credoras.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/FUB/2013)
+
+A consistência é uma prática que tem auxiliado a contabilidade a alcançar a comparabilidade,
+que representa uma das características qualitativas recomendadas para a melhoria da
+utilidade da informação contábil.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/MPE-PI/2012)
+
+A aplicação da orientação de prevalência da essência sobre a forma implica analisar se a
+natureza administrativa dos eventos a contabilizar está devidamente representada pelo
+instrumento formal.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEDUC-AM/2011)
+
+Segundo o conceito financeiro de capital, o capital de uma empresa é representado pela sua
+situação patrimonial líquida.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+(CEBRASPE/SEDUC-AM/2011)
+
+De acordo com o conceito físico de capital, capital é a capacidade produtiva fundamentada,
+por exemplo, nas unidades de produtos finalizadas diariamente.
+
+@profgilmarpossati   @canalcontabilizando
+                                      
+
+
+---
+
+ Instagram: @profgilmarpossati
+ Telegram: @canalcontabilizando
+ Canal You Tube: Contabilizando
+
+---

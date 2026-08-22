@@ -1,0 +1,518 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 02_010_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '02'
+titulo_aula: QUESTÕES COMENTADAS
+artigos_citados:
+- Art. 3º
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+CLASSIFICAÇÃO DE MATERIAIS
+BANCAS DIVERSAS - II
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRO AC/Analista/2019) No que se refere aos atributos para a
+     classificação de materiais, aos tipos de classificação e à metodologia de cálculo da curva
+     ABC, julgue o item. De acordo com o atributo da flexibilidade, a classificação deve ser
+     simples e direta, sem demandar procedimentos complexos.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (QUADRIX/CRO AC/Analista/2019) No que se refere aos atributos para a
+     classificação de materiais, aos tipos de classificação e à metodologia de cálculo da curva
+     ABC, julgue o item. De acordo com o atributo da flexibilidade, a classificação deve ser
+     simples e direta, sem demandar procedimentos complexos.
+     a) Certo
+     b) Errado                                         ATRIBUTOS DA CLASSIFICAÇÃO DE
+     GABARITO - ERRADA                                           MATERIAIS
+
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRO AC/Analista/2019) No que se refere aos atributos para a
+     classificação de materiais, aos tipos de classificação e à metodologia de cálculo da curva
+     ABC, julgue o item. A classificação de materiais de acordo com a sua criticidade não
+     leva em consideração os custos com armazenagem ou transporte.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (QUADRIX/CRO AC/Analista/2019) No que se refere aos atributos para a
+     classificação de materiais, aos tipos de classificação e à metodologia de cálculo da curva
+     ABC, julgue o item. A classificação de materiais de acordo com a sua criticidade não
+     leva em consideração os custos com armazenagem ou transporte.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+              São considerados materiais críticos
+     aqueles materiais de reposição específica de
+     um equipamento ou de um grupo de
+     equipamentos iguais, cuja demanda não é
+     previsível e cuja decisão de estocar é tomada
+     com base na análise de risco ao qual a
+     empresa está sujeita caso esses materiais não
+     estejam disponíveis quando necessário.
+              Aplica-se especialmente à empresas
+     industriais.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRO AM/Assistente Administrativo/2019) No que diz respeito à
+     administração de recursos materiais, julgue o item. A praticidade é o atributo da
+     classificação de materiais que preconiza que a classificação deve ser simples e direta,
+     sem demandar do gestor procedimentos complexos.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (QUADRIX/CRO AM/Assistente Administrativo/2019) No que diz respeito à
+     administração de recursos materiais, julgue o item. A praticidade é o atributo da
+     classificação de materiais que preconiza que a classificação deve ser simples e direta,
+     sem demandar do gestor procedimentos complexos.
+     a) Certo
+     b) Errado                                    ATRIBUTOS DA CLASSIFICAÇÃO DE
+     GABARITO - CORRETA                                      MATERIAIS
+
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     04. (OBJETIVA CONCURSOS/FHSTE/Auxiliar/2019) A classificação de materiais é o processo de
+     aglutinação de materiais por características semelhantes. Uma classificação eficiente deve considerar
+     alguns atributos. Sobre esses atributos, analisar os itens abaixo:
+     I. Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais para
+     serem classificados.
+     II. Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que se
+     obtenha ampla visão do gerenciamento de estoques.
+     III. Praticidade: a classificação deve ser longa e complexa.
+     Estão CORRETOS:
+     a) Somente os itens I e II.
+     b) Somente os itens I e III.
+     c) Somente os itens II e III.
+     d) Todos os itens.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (OBJETIVA CONCURSOS/FHSTE/Auxiliar/2019) A classificação de materiais é o processo de
+     aglutinação de materiais por características semelhantes. Uma classificação eficiente deve considerar
+     alguns atributos. Sobre esses atributos, analisar os itens abaixo:
+     I. Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais para
+     serem classificados.
+     II. Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que se
+     obtenha ampla visão do gerenciamento de estoques.
+     III. Praticidade: a classificação deve ser longa e complexa.            ATRIBUTOS DA
+     Estão CORRETOS:                                                       CLASSIFICAÇÃO  DE
+                                                                                               MATERIAIS
+     a) Somente os itens I e II.
+     b) Somente os itens I e III.
+     c) Somente os itens II e III.                                        Abrangência        Flexibilidade         Praticidade
+     d) Todos os itens.
+     GABARITO - A                •               Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     05. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) A classificação de
+     materiais busca uma organização que permita a melhor gestão dos materiais em um
+     dado processo. Um bom sistema de classificação deve possuir os seguintes atributos:
+     a) simplicidade, precisão e abrangência;
+     b) abrangência, flexibilidade e praticidade;
+     c) praticidade, durabilidade e precisão;
+     d) durabilidade, simplicidade e precisão;
+     e) precisão, praticidade e maneabilidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) A classificação de
+     materiais busca uma organização que permita a melhor gestão dos materiais em um
+     dado processo. Um bom sistema de classificação deve possuir os seguintes atributos:
+     a) simplicidade, precisão e abrangência;
+     b) abrangência, flexibilidade e praticidade;
+     c) praticidade, durabilidade e precisão;     ATRIBUTOS DA CLASSIFICAÇÃO DE
+     d) durabilidade, simplicidade e precisão;              MATERIAIS
+     e) precisão, praticidade e maneabilidade.
+     GABARITO - B
+                                                            Abrangência                   Flexibilidade          Praticidade
+
+                                            •    Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+                                            para serem classificados;
+                                            •    Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+                                            se obtenha ampla visão do gerenciamento de estoques.
+                                            •    Praticidade: a classificação deve ser direta e simples.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     
+
+
+---
+
+       Questão Comentada
+     06. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) O departamento de
+     compras de uma fábrica adquiriu chapas de aço que serão empregadas na construção
+     de carenagens de grupos geradores silenciados. O departamento de compras
+     classificou essas chapas como material de consumo, por terem sido enquadradas no
+     critério excludente:
+     a) durabilidade;
+     b) fragilidade;
+     c) perecibilidade;
+     d) incorporabilidade;
+     e) transformabilidade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Permanentes ou de Consumo
+       ❑ Os critérios para a identificação de um material como permanente são, de acordo com a Portaria
+         448/2002 da Secretaria do Tesouro Nacional:
+
+                  Art. 3º - Na classificação da despesa serão adotados os seguintes parâmetros excludentes,
+                  tomados em conjunto, para a identificação do material permanente:
+
+                  I - Durabilidade, quando o material em uso normal perde ou tem reduzidas as suas condições de
+                  funcionamento, no prazo máximo de dois anos;
+
+                  II - Fragilidade, cuja estrutura esteja sujeita a modificação, por ser quebradiço ou deformável,
+                  caracterizando-se pela irrecuperabilidade e/ou perda de sua identidade;
+
+                  III - Perecibilidade, quando sujeito a modificações (químicas ou físicas) ou que se deteriora ou
+                  perde sua característica normal de uso;
+
+                  IV - Incorporabilidade, quando destinado à incorporação a outro bem, não podendo ser retirado
+                  sem prejuízo das características do principal; e
+
+                  V - Transformabilidade, quando adquirido para fim de transformação.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     06. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) O departamento de
+     compras de uma fábrica adquiriu chapas de aço que serão empregadas na construção
+     de carenagens de grupos geradores silenciados. O departamento de compras
+     classificou essas chapas como material de consumo, por terem sido enquadradas no
+     critério excludente:
+     a) durabilidade;
+     b) fragilidade;
+     c) perecibilidade;
+     d) incorporabilidade;
+     e) transformabilidade.
+     GABARITO - E
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) A classificação de
+     materiais é um procedimento necessário a fim de racionalizar o controle de materiais em
+     estoque. Trata-se de um procedimento de aglutinação de materiais por características
+     semelhantes. Classificar itens de materiais tem o objetivo de prover informação
+     gerencial ao tomador de decisão, tornando possível elencar prioridades e estabelecer
+     rotinas operacionais eficientes. Um dos atributos de um sistema de classificação de
+     materiais é a Abrangência, que:
+     a) deve demandar procedimentos complexos;
+     b) refere-se à comunicação entre os tipos de classificação, bem como à possibilidade de
+     adaptar e melhorar o sistema de classificação sempre que desejável;
+     c) deve considerar aspectos físicos, financeiros e contábeis, apresentando diversas
+     facetas de um item de material;
+     d) deve ser simples e direta;
+     e) permite interface entre diversos tipos de classificação, de modo a apresentar uma
+     visão ampla da gestão de estoque.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Atributos em Resumo
+                                                          ATRIBUTOS DA CLASSIFICAÇÃO DE
+                                                                    MATERIAIS
+
+                                            Abrangência               Flexibilidade       Praticidade
+
+            •   Abrangência: deve tratar de uma gama de características em vez de reunir apenas materiais
+            para serem classificados;
+            •   Flexibilidade: deve permitir interfaces entre os diversos tipos de classificação, de modo que
+            se obtenha ampla visão do gerenciamento de estoques.
+            •   Praticidade: a classificação deve ser direta e simples.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             
+
+
+---
+
+       Questão Comentada
+     07. (FGV/CM Salvador-BA/Analista Legislativo Municipal/2018) A classificação de
+     materiais é um procedimento necessário a fim de racionalizar o controle de materiais em
+     estoque. Trata-se de um procedimento de aglutinação de materiais por características
+     semelhantes. Classificar itens de materiais tem o objetivo de prover informação
+     gerencial ao tomador de decisão, tornando possível elencar prioridades e estabelecer
+     rotinas operacionais eficientes. Um dos atributos de um sistema de classificação de
+     materiais é a Abrangência, que:
+     a) deve demandar procedimentos complexos;
+     b) refere-se à comunicação entre os tipos de classificação, bem como à possibilidade de
+     adaptar e melhorar o sistema de classificação sempre que desejável;
+     c) deve considerar aspectos físicos, financeiros e contábeis, apresentando diversas
+     facetas de um item de material;
+     d) deve ser simples e direta;
+     e) permite interface entre diversos tipos de classificação, de modo a apresentar uma
+     visão ampla da gestão de estoque.
+     GABARITO - C
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE- CESPE/ EBSERH/ Analista Administrativo/2018) Julgue o item seguinte,
+     relativo a classificação de materiais e gestão de estoques. A classificação de um de
+     material hospitalar como permanente é considerado um atributo de flexibilidade em
+     razão das características desse material.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (CEBRASPE- CESPE/ EBSERH/ Analista Administrativo/2018) Julgue o item seguinte,
+     relativo a classificação de materiais e gestão de estoques. A classificação de um de
+     material hospitalar como permanente é considerado um atributo de flexibilidade em
+     razão das características desse material.
+     a) Certo
+     b) Errado
+     GABARITO - ERRADA
+
+     ❑ Este é um conceito herdado da contabilidade. Os materiais podem ser segmentados em duas
+       categorias:
+     ✓ Material de Consumo: utilização limitada a 2 anos. Após isso perde sua identidade física ou tem a
+       utilização limitada.
+     ✓ Material Permanente: durabilidade maior que 2 anos e/ou não perde sua identidade física quando
+       incorporado a outro bem.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE-CESPE/ EBSERH/ Analista Administrativo/2018) Julgue o item seguinte,
+     relativo a classificação de materiais e gestão de estoques. Estoques de vacinas de um
+     ambulatório devem ser classificados por perecibilidade devido às alterações físico-
+     químicas que esses produtos podem sofrer.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Perecibilidade
+       ❑ Em relação à Perecibilidade os materiais se classificam em perecíveis e não perecíveis.
+
+       ❑ Os materiais perecíveis são aqueles que podem perder suas características de performance esperadas, sejam elas
+         físicas ou químicas, estragando ou se deteriorando. Isso pode acontecer pela ação natural do tempo, pela ação
+         de contaminantes, contato com outros materiais, umidade, oxidação, poeira, choque mecânicos, pressão, entre
+         outros fatores.
+                                           Categoria de Perecibilidade                      Características
+                                            Ação higroscópica                           Afinidade com o vapor d’água. Ex.: sal marinho
+                                            Limitação do tempo                          Prazo de validade. Ex.: medicamentos e alimentos
+                                            Instáveis                                   Produtos químicos que se decompõem
+                                            Voláteis                                    Reduzem a gás ou vapor, evaporam. Ex.: Amoníaco
+                                            Contaminação pela água                      Degradam-se pela adição de água. Ex.: óleos
+                                                                                        diversos
+                                            Contaminação por partículas sólidas         Perdem partes de suas características. Ex.: graxas
+                                            Ação da gravidade                           Deformam-se em razão de estocagem incorreta.
+                                                                                        Ex.: Eixos longos
+                                            Queda, colisão ou vibração                  Frágeis e sensíveis. Ex.: cristais e vidros
+                                            Mudança de temperatura                      Perdem suas características. Ex.: selantes para
+                                                                                        vedação
+                                            Ação da luz                                 Degradam-se com a luminosidade. Ex.: filmes
+                                                                                        fotográficos
+                                            Ação da atmosfera                           Corrosão por vapores d’água, ácidos, etc.
+Administração de Materiais para Concursos
+                                            Ação de animais                             Ataques de insetos. Ex.: grãos, madeira, etc.
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Questão Comentada
+     09. (CEBRASPE-CESPE/ EBSERH/ Analista Administrativo/2018) Julgue o item seguinte,
+     relativo a classificação de materiais e gestão de estoques. Estoques de vacinas de um
+     ambulatório devem ser classificados por perecibilidade devido às alterações físico-
+     químicas que esses produtos podem sofrer.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (COPESE-UFT/CM Palmas-TO/Assistente/2018) É CORRETO afirmar que uma das
+     regras básicas de classificação de materiais no estoque é:
+     a) estocar materiais de movimentação constante em locais de fácil acesso.
+     b) codificar materiais levando em consideração o tempo de reposição.
+     c) verificar as notas fiscais e de recebimento no ato do inventário.
+     d) qualificar o tipo de material que deverá ser comprado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (COPESE-UFT/CM Palmas-TO/Assistente/2018) É CORRETO afirmar que uma das
+     regras básicas de classificação de materiais no estoque é:
+     a) estocar materiais de movimentação constante em locais de fácil acesso.
+     b) codificar materiais levando em consideração o tempo de reposição.
+     c) verificar as notas fiscais e de recebimento no ato do inventário.
+     d) qualificar o tipo de material que deverá ser comprado.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

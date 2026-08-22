@@ -1,0 +1,341 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+DISTRIBUIÇÃO DE BERNOULLI
+
+
+                                                Prof. Jhoni Zini
+
+
+
+           https://t.me/KakashiAssinaturasBot
+  DISTRIBUIÇÃO DE BERNOULLI
+
+            Experimento dual
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                                https://t.me/KakashiAssinaturasBot
+  DISTRIBUIÇÃO DE BERNOULLI
+
+            Experimento dual
+
+
+
+
+                   X   Probabilidade
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                                       https://t.me/KakashiAssinaturasBot
+  DISTRIBUIÇÃO DE BERNOULLI
+EM UMA REVENDA DE CARROS A PROBABILIDADE DE UM CARRO
+APRESENTAR DEFEITO É 20%.
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                    https://t.me/KakashiAssinaturasBot
+  DISTRIBUIÇÃO DE BERNOULLI
+Um praticante tiro tem probabilidade de 60% de acertar um tiro.
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                          https://t.me/KakashiAssinaturasBot
+  ESPERANÇA E VARIÂNCIA
+E(X)= p
+
+
+VARIÂNCIA = p.q
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                   https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Jhoni Zini
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+DISTRIBUIÇÃO BINOMIAL
+
+
+                                                 Prof. Jhoni Zini
+
+
+
+            https://t.me/KakashiAssinaturasBot
+     DISTRIBUIÇÃO BINOMIAL
+      REPETIÇÃO DA DISTRIBUIÇÃO DE BERNOULLI
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                         https://t.me/KakashiAssinaturasBot
+     ESPERANÇA
+     E(X)= n.p
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                   https://t.me/KakashiAssinaturasBot
+     ESPERANÇA
+Um praticante tiro tem probabilidade de 80% de acertar um tiro.
+Atirando 20 vezes, qual a esperança?
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                        https://t.me/KakashiAssinaturasBot
+     ESPERANÇA
+Um jogador tem tido aproveitamento de 60% dos pênaltis batidos.
+Em uma série de 5 chutes qual a esperança?
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                        https://t.me/KakashiAssinaturasBot
+     VARIÂNCIA
+  VAR(X)= n.p.q
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                   https://t.me/KakashiAssinaturasBot
+     VARIÂNCIA
+Um praticante tiro tem probabilidade de 80% de acertar um tiro.
+Atirando 20 vezes, qual a esperança?
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                        https://t.me/KakashiAssinaturasBot
+     VARIÂNCIA
+Um jogador tem tido aproveitamento de 60% dos pênaltis batidos.
+Em uma série de 5 chutes qual a esperança?
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                        https://t.me/KakashiAssinaturasBot
+     QUESTÃO 1
+  Considere as seguintes afirmações:
+I. as distribuições de Bernoulli e Binomial apresentam as mesmas
+características e, portanto, os mesmos parâmetros;
+II. repetições independentes de um ensaio de Bernoulli, com a mesma
+probabilidade de ocorrência de “sucesso”, dão origem ao modelo
+Binomial;
+III. o Teorema do Limite Central garante que, para n suficientemente
+grande, a distribuição de Bernoulli pode ser aproximada pela
+distribuição de Poisson.
+
+
+
+Estatística
+Prof. Jhoni Zini
+                            https://t.me/KakashiAssinaturasBot
+     QUESTÃO 1
+
+Pode-se afirmar que
+A. somente II está correta.
+B. I e II estão corretas.
+C. II e III estão corretas.
+D. somente III está correta.
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                               https://t.me/KakashiAssinaturasBot
+     QUESTÃO 2
+Seja X o resultado de um experimento aleatório que tem distribuição
+binomial (100, 0,02). A média de X é:
+A. 200.
+B. 20.
+C. 2.
+D. 0,2.
+E. 100.
+
+
+
+
+Estatística
+Prof. Jhoni Zini
+                          https://t.me/KakashiAssinaturasBot
+     QUESTÃO 3
+Uma alergia pode ser curada através de uma vacina em 80% dos casos.
+Dentre os que têm essa alergia, sorteamos 15 pacientes que serão
+submetidos à vacinação. O número esperado de pacientes curados
+após a vacina é:
+A. 12
+B. 3
+C. 15
+D. 2,4
+E. 20
+
+
+Estatística
+Prof. Jhoni Zini
+                          https://t.me/KakashiAssinaturasBot
+ QUESTÃO 4
+Quando um pesquisador vai a campo e aborda pessoas na rua para
+serem entrevistadas, o número de pessoas que aceita responder à
+pesquisa segue uma distribuição binomial.
+Se o valor esperado dessa distribuição é 8, e sua variância é 1,6, então
+a probabilidade de uma pessoa aceitar responder à pesquisa é de
+A. 1,6%
+B. 16%
+C. 20%
+D. 50%
+E. 80%
+
+                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Jhoni Zini
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+DISTRIBUIÇÃO BINOMIAL
+
+
+                                                 Prof. Jhoni Zini
+
+
+
+            https://t.me/KakashiAssinaturasBot
+FÓRMULA PARA QUANTIDADE ESPECÍFICA DE SUCESSOS
+
+
+𝑃 𝑋 = 𝑘 = 𝐶𝑘𝑛 . 𝑝𝑘 . 𝑞𝑛−𝑘
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+FÓRMULA PARA QUANTIDADE ESPECÍFICA DE SUCESSOS
+
+Um jogador tem tido aproveitamento de 80% dos pênaltis batidos. Em uma
+série de 5 chutes a chance dele acertar apenas 2, aproximadamente será:
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+FÓRMULA PARA QUANTIDADE ESPECÍFICA DE SUCESSOS
+
+Ao arremessar uma moeda 8 vezes, qual a probabilidade de sair exatamente
+5 caras?
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+Considere que numa família, a chance de nascer um bebê menino é de 30
+% e a chance de nascer uma menina é 70%. Nesta família o casal tem 3
+filhos, uma menina e dois meninos. A probabilidade dessa configuração
+familiar segundo as chances acima é de:
+A. 21 %
+B. 49 %
+C. 18,9 %
+D. 44,1 %
+E. 6,3 %
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+QUESTÃO 1
+
+
+
+
+            https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+Considere um experimento aleatório que consiste em contar o número de
+sucessos k em um total de n repetições de eventos Bernoulli. Se a
+probabilidade de resultar sucesso em uma repetição qualquer é p = 0.2, a
+probabilidade de se obter dois sucessos em quatro repetições do
+experimento é igual a de:
+A. 15,36 %.
+B. 4 %.
+C. 6,4 %.
+D. 0,64 %.
+E. 16 %.
+
+
+                         https://t.me/KakashiAssinaturasBot
+QUESTÃO 2
+
+
+
+
+            https://t.me/KakashiAssinaturasBot
+QUESTÃO 3
+Um candidato resolveu contar com a sorte, ele respondeu aleatoriamente
+as cinco questões de raciocínio lógico dessa prova, compostas de cinco
+opções com uma única opção correta cada. A probabilidade de acertar
+exatamente duas questões é:
+A. 10,24 %
+B. 20,48 %
+C. 12,42 %
+D. 40,00 %
+E. 18,60 %
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+QUESTÃO 3
+
+
+
+
+            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Jhoni Zini
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                          Prof. Jhoni Zini
+
+
+
+
+     https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

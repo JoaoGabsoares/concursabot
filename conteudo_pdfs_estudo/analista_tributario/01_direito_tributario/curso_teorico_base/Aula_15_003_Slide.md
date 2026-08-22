@@ -1,0 +1,223 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 15_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: IMPOSTOS DOS ESTADOS
+artigos_citados:
+- Art. 155.
+- art. 153
+- art. 155
+---
+
+# IMPOSTOS DOS ESTADOS
+
+IMPOSTOS DOS ESTADOS
+ICMS – PARTE 3
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+ICMS
+    ❑ O ICMS não incidirá sobre operações que destinem a outros Estados petróleo,
+      inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e
+      energia elétrica; (CF/88, art. 155, § 2º, X, “b”)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                              
+
+
+---
+
+ICMS
+     Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
+     (...)
+     § 3º À exceção dos impostos de que tratam o inciso II do caput deste artigo e os arts.
+     153, I e II, e 156-A, nenhum outro imposto poderá incidir sobre operações relativas
+     a energia elétrica e serviços de telecomunicações e, à exceção destes e do previsto
+     no art. 153, VIII, nenhum outro imposto poderá incidir sobre operações relativas a
+     derivados de petróleo, combustíveis e minerais do País. (Redação dada pela Emenda
+     Constitucional nº 132, de 2023)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                      @ProfFabioDutra
+                                    
+
+
+---
+
+ICMS
+
+    1. À exceção do II, IE, ICMS e do IBS, nenhum outro imposto poderá incidir sobre
+       operações relativas a energia elétrica, serviços de telecomunicações.
+
+
+    2. À exceção do II, IE, ICMS, IBS e do Imposto Seletivo (CF, art. 153, VIII), nenhum outro
+       imposto poderá incidir sobre operações relativas a derivados de petróleo,
+       combustíveis e minerais do País.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                   
+
+
+---
+
+ICMS
+    ❑ Cabe à lei complementar definir os combustíveis e lubrificantes sobre os quais
+      o imposto incidirá uma única vez, qualquer que seja a sua finalidade, hipótese
+      em que não se aplicará o disposto no inciso X, b; (CF/88, art. 155, § 2º, X, “h”)
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                 
+
+
+---
+
+ICMS
+    ❑ Para os combustíveis e lubrificantes sujeitos ao ICMS-Monofásico:
+
+
+    ❑ Nas operações com os lubrificantes e combustíveis derivados de petróleo, o
+      imposto caberá ao Estado onde ocorrer o consumo;
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+ICMS
+    ❑ Para os combustíveis e lubrificantes sujeitos ao ICMS-Monofásico:
+
+    ❑ nas operações interestaduais, entre contribuintes, com gás natural e seus
+      derivados, e lubrificantes e combustíveis não derivados de petróleo, o
+      imposto será repartido entre os Estados de origem e de destino, mantendo-
+      se a mesma proporcionalidade que ocorre nas operações com as demais
+      mercadorias;
+
+
+    ❑ nas operações interestaduais com gás natural e seus derivados, e lubrificantes
+      e combustíveis não derivados de petróleo, destinadas a não contribuinte, o
+      imposto caberá ao Estado de origem;
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                               
+
+
+---
+
+ICMS
+❑ Alíquotas do ICMS-Monofásico:
+
+    ❑ Serão definidas mediante deliberação dos Estados e Distrito Federal
+      (convênios no âmbito do CONFAZ);
+
+    ❑     serão uniformes em todo o território nacional, podendo ser
+        diferenciadas por produto;
+
+    ❑    poderão ser específicas, por unidade de medida adotada, ou ad
+        valorem;
+
+    ❑ poderão ser reduzidas e restabelecidas, não se lhes aplicando o
+      princípio da anterioridade anual.
+                                                                  @ProfFabioDutra
+                         
+
+
+---
+
+ICMS
+❑ LC 192/2022: definiu quais seriam os combustíveis que teriam incidência
+  monofásica:
+
+❑ I - gasolina e etanol anidro combustível;
+
+❑ II - diesel e biodiesel; e
+
+❑ III - gás liquefeito de petróleo, inclusive o derivado do gás natural.
+
+                                                                           @ProfFabioDutra
+                               
+
+
+---
+
+ICMS
+❑ LC 192/2022: alíquotas do ICMS-Monofásico:
+
+❑ Serão definidas pelo CONFAZ;
+
+❑ Serão uniformes em todo o território nacional e poderão ser diferenciadas por
+  produto;
+
+❑ Serão específicas (ad rem), por unidade de medida adotada;
+
+❑ Poderão ser reduzidas e restabelecidas no mesmo exercício financeiro;
+
+                                                                          @ProfFabioDutra
+                            
+
+
+---
+
+ICMS
+     ❑ Cabe à Lei Complementar:
+
+              a) definir seus contribuintes;
+
+              b) dispor sobre substituição tributária;
+
+              c) disciplinar o regime de compensação do imposto;
+
+              d) fixar, para efeito de sua cobrança e definição do estabelecimento
+              responsável, o local das operações relativas à circulação de mercadorias e das
+              prestações de serviços;
+
+              e) excluir da incidência do imposto, nas exportações para o exterior, serviços e
+              outros produtos além dos mencionados no inciso X, "a";
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                                        
+
+
+---
+
+ICMS
+   ❑ Cabe à Lei Complementar:
+
+         f) prever casos de manutenção de crédito, relativamente à remessa para outro Estado
+         e exportação para o exterior, de serviços e de mercadorias;
+
+         g) regular a forma como, mediante deliberação dos Estados e do Distrito Federal,
+         isenções, incentivos e benefícios fiscais serão concedidos e revogados.
+
+         h) definir os combustíveis e lubrificantes sobre os quais o imposto incidirá uma única
+         vez, qualquer que seja a sua finalidade, hipótese em que não se aplicará o disposto no
+         inciso X, b;
+
+         i) fixar a base de cálculo, de modo que o montante do imposto a integre, também na
+         importação do exterior de bem, mercadoria ou serviço.
+Direito Tributário
+Prof. Fábio Dutra                                                                       @ProfFabioDutra
+                                      
+
+
+---
+
+---

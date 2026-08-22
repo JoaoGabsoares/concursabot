@@ -1,0 +1,102 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+ESTRUTURAS LÓGICAS
+
+                                      Prof. Brunno Lima
+
+
+
+
+ https://t.me/KakashiAssinaturasBot
+TABELA-VERDADE DO “OU...OU...”
+
+
+
+                                           Prof. Brunno Lima
+
+
+
+
+      https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou...ou...”
+       Disjunção Exclusiva (  )
+
+
+                                                                          
+                        OU...OU..                           V         V
+                            .                               V         F
+                                                            F         V
+                                                            F         F
+
+
+
+TABELA-VERDADE DO “OU...OU...”
+Prof. Brunno Lima
+
+
+
+
+                                 https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou...ou...”
+       Exemplo:
+
+
+
+       A: Ou Daniela é goiana ou Daniela é paranaense.
+
+
+
+
+TABELA-VERDADE DO “OU...OU...”
+Prof. Brunno Lima
+
+
+
+
+                                 https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou...ou...”
+       P             Q           PQ                           Exemplos:
+       V             V                                   É goiana / É paranaense
+
+       V              F                                É goiana / Não é paranaense
+
+       F              V                                Não é goiana / É paranaense
+
+       F              F                             Não é goiana / Não é paranaense
+
+
+
+TABELA-VERDADE DO “OU...OU...”
+Prof. Brunno Lima
+
+
+
+
+                                   https://t.me/KakashiAssinaturasBot
+      Tabela-verdade do “ou...ou...”
+       Determine o valor lógico em cada caso:
+       (A) F ou F ou F ou V ou F ou V
+
+
+       (B) F ou F ou F ou F ou V ou F
+
+
+       (C) Ou F ou F ou F ou F ou V ou F
+
+
+       (D) F ou F ou F ou V ou F ou V
+TABELA-VERDADE DO “OU...OU...”
+Prof. Brunno Lima
+
+
+
+
+                                 https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                        Prof. Brunno Lima
+
+
+
+
+   https://t.me/KakashiAssinaturasBot
+

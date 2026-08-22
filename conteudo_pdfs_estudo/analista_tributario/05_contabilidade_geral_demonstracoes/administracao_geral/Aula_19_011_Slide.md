@@ -1,0 +1,613 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 19_011_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '19'
+titulo_aula: CPC 16 – ESTOQUES
+---
+
+# CPC 16 – ESTOQUES
+
+CPC 16 – ESTOQUES
+ QUESTÕES FCC
+
+                                        Prof. Gilmar Possati
+
+   
+
+
+---
+
+(FCC/TRT1/2025)
+Em 01/12/2022, a empresa Comércio de Produtos para PET S.A. adquiriu mercadorias para
+revenda. O valor total pago, à vista, foi R$ 600.000,00, sendo que nesse valor estavam
+incluídos tributos recuperáveis de R$ 60.000,00 e tributos não recuperáveis de R$ 120.000,00.
+A empresa arcou, adicionalmente, com o custo do transporte dessas mercadorias até o seu
+depósito, cujo valor foi R$ 40.000,00.
+Sabendo que a empresa vendeu, ainda no ano de 2022, setenta por cento (70%) do estoque
+de mercadorias adquirido em 01/12/2022, o valor que a empresa Comércio de Produtos para
+PET S.A. reconheceu como Custo da Mercadoria Vendida, especificamente em relação a essa
+compra, foi:
+a) R$ 322.000,00
+b) R$ 448.000,00
+c) R$ 378.000,00
+d) R$ 406.000,00
+e) R$ 364.000,00
+
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+Passo 1. Identificação dos Componentes do Custo:
+Valor Total Pago: R$ 600.000,00
+Tributos Recuperáveis (Devem ser excluídos): (R$ 60.000,00)
+Tributos Não Recuperáveis: Já estão incluídos no valor pago. Por serem não
+recuperáveis, eles permanecem no custo (não faça nada com eles).
+Frete (Custo Adicional): + R$ 40.000,00
+
+
+Passo 2. Cálculo do Custo de Aquisição Total:
+Custo Total = R$600.000 – R$60.000 + R$40.000 = R$580.000
+Passo 3. Cálculo do CMV (70% do estoque vendido):
+CMV = R$580.000 x 70% = R$406.000
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(FCC/SEFAZ-PI/2025)
+Em 02/12/2022, a empresa Compra e Venda S.A. adquiriu determinada mercadoria para
+revenda e pagou, à vista, os seguintes valores:
+- Para o fornecedor das mercadorias: R$ 300.000,00.
+- Para a empresa que transportou as mercadorias do depósito do fornecedor até seu depósito:
+R$ 20.000,00.
+O valor total dos tributos recuperáveis incluídos nos valores pagos foi R$ 40.000,00.
+Em 22/12/2022, a empresa vendeu 80% das mercadorias que haviam sido adquiridas e pagou
+R$ 30.000,00 para a transportadora que fez a entrega das mercadorias vendidas.
+
+O saldo contábil da conta Estoques, após a venda e entrega das mercadorias vendidas,
+registrado no Balanço Patrimonial de 31/12/2022 da empresa Compra e Venda S.A.,
+especificamente em relação às mercadorias citadas, era
+a) R$ 52.000,00
+b) R$ 60.000,00
+c) R$ 64.000,00
+d) R$ 56.000,00
+e) R$ 62.000,00
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Passo 1. Cálculo do Custo de Aquisição Total:
+Valor do Fornecedor: R$ 300.000
+(+) Frete sobre Compras: R$ 20.000
+(-) Tributos Recuperáveis: (R$ 40.000)
+Total Ativado em Estoques: R$ 280.000
+
+Passo 2. Apuração do Saldo Remanescente:
+A empresa vendeu 80% das mercadorias. Portanto, restaram 20% no estoque
+(100% - 80% = 20%).
+
+Passo 3. Cálculo Final:
+Saldo em 31/12 = R$ 280.000,00 x 20% = R$ 56.000,00
+
+                                                                  @profgilmarpossati   @canalcontabilizando
+                             
+
+
+---
+
+(FCC/SEFAZ-PI/2025)
+O valor do Custo das Mercadorias Vendidas registrado no resultado de 2022 da empresa
+Compra e Venda S.A., especificamente em relação à venda das mercadorias citadas, foi
+a) R$ 248.000,00
+b) R$ 208.000,00
+c) R$ 240.000,00
+d) R$ 256.000,00
+e) R$ 224.000,00
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Passo 1. Determinação do Custo de Aquisição (Total do Estoque):
+Valor do Fornecedor: R$ 300.000
+(+) Frete de Compra: R$ 20.000
+(–) Tributos Recuperáveis: (R$ 40.000)
+Total do Estoque Adquirido: R$ 280.000
+
+
+Passo 2. Cálculo do CMV:
+Como a empresa vendeu 80% das mercadorias adquiridas, temos:
+CMV = 280.000,00 x 80% = R$224.000
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+(FCC/SEFAZ-PI/2025)
+Durante a análise das demonstrações contábeis de um contribuinte do setor atacadista, o
+Auditor Fiscal observa que os estoques foram registrados pelo custo histórico, mesmo diante
+de evidente deterioração dos preços de venda no mercado. Considerando os princípios de
+contabilidade, bem como os eleitos da prática mencionada sobre a confiabilidade dos
+relatórios financeiros e sobre a base de cálculo tributária,
+a) o ajuste de valor de estoque ao valor liquido de realização, quando leito, deve ser
+desconsiderado para fins fiscais, pois se trata de despesa de natureza não dedutível.
+b) a manutenção do estoque pelo custo histórico, mesmo diante da queda no valor de
+realização, é uma prática aceitável, pois evita o reconhecimento de prejuízos meramente
+estimados.
+c) a ausência de ajuste para o menor valor entre custo e valor líquido de realização pode inflar
+artificialmente os indicadores de liquidez e comprometer a análise da real capacidade
+financeira da entidade.
+d) o auditor deve recomendar que os estoques sejam ajustados apenas apôs a alienação das
+mercadorias, momento em que se realiza a efetiva perda de valor.
+e) o valor líquido de realização não apresenta qualquer interesse para a auditoria fiscal.
+                                                                         @profgilmarpossati   @canalcontabilizando
+                                    
+
+
+---
+
+(FCC/Pref. J. Guararapes/2024)
+A Pé na Jaca Ltda é uma empresa do segmento de higiene e limpeza. Em março de 2022, a
+empresa adquiriu dois lotes de sua principal mercadoria, o desinfetante. Os detalhes das
+transações são apresentados a seguir:
+
+- Em 06/03/2022, houve a aquisição de um lote de 200 unidades de seu Fornecedor 1 pelo
+valor total líquido de impostos recuperáveis de R$ 1.800,00. A transação também envolveu
+custos de transporte no valor R$ 150,00, seguro de R$ 200,00 e manuseio de R$ 400,00.
+
+- Em 17/03/2022, houve a aquisição de outro lote de 100 unidades de seu Fornecedor 2, cujo
+valor total líquido de impostos recuperáveis foi de R$ 2.000,00, mas a empresa Pé na Jaca
+Ltda, conseguiu obter um desconto comercial de RS 200,00 e, em virtude de atraso na entrega
+das mercadorias. obteve também um abatimento de R$ 150,00.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(FCC/Pref. J. Guararapes/2024)
+- Em 28/03/2022, a empresa Pê na Jaca ltda, realizou uma venda de 220 unidades de
+desinfetantes ao seu principal cliente pelo valor total de R$ 4.400,00.
+
+Com base nas informações fornecidas e admitindo-se que não havia saldo de estoque
+remanescente do mês de fevereiro, o critério de avaliação de estoque de desinfetantes
+utilizado pela empresa Pê na Jaca ltda, e o custo unitário das mercadorias vendidas, de acordo
+com a NBC TG 16 (R2) - Estoques, são, respectivamente,
+a) Custo médio ponderado - R$ 11.50.
+b) Custo médio ponderado - R$ 14,00.
+c) Custo específicos - R$ 12,75 para as unidades do primeiro lote e RS 16,50 para as unidades
+do segundo lote.
+d) Último a entrar, primeiro a sair - R$ 16,50 para as unidades do segundo lote e R$10,75 para
+as unidades do primeiro lote.
+e) Primeiro a entrar, primeiro a sair - R$ 10, 75 para as unidades do primeiro lote e RS 20,00
+para as unidades do segundo lote.
+
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+Passo 1: Calcular o Custo do Lote 1 (06/03)
+Valor Líquido: R$ 1.800
+(+) Transporte: R$ 150
+(+) Seguro: R$ 200
+(+) Manuseio: R$ 400
+Total Lote 1: R$ 2.550 (para 200 unidades)
+Custo Unitário Lote 1: R$2.550 / 200 = R$ 12,75
+
+Passo 2: Calcular o Custo do Lote 2 (17/03)
+Valor Líquido: R$ 2.000
+(-) Desconto Comercial: (R$ 200)
+(-) Abatimento: (R$ 150)
+Total Lote 2: R$ 1.650 (para 100 unidades)
+Custo Unitário Lote 2: R$1.650/100 = R$ 16,50
+
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Passo 3: Testar o Custo Médio Ponderado (CMP)
+Custo Total Acumulado: R$2.550 + 1.650 = R$ 4.200
+Quantidade Total: 200 + 100 = 300 unidades
+Custo Médio Unitário: R$4.200,00/300 = R$ 14
+
+Como a venda de 220 unidades ocorreu após as duas compras, no Custo Médio,
+cada unidade vendida sairá por R$ 14,00.
+
+                                                                    @profgilmarpossati   @canalcontabilizando
+                               
+
+
+---
+
+(FCC/Copergás/2023)
+A empresa Crystal S.A. adquiriu mercadorias para revenda no valor de R$ 150.000 à vista,
+sendo que dentro desse valor estão inclusos tributos recuperáveis de R$ 15.000. A empresa
+Crystal S.A. também teve que desembolsar R$ 5.000 de frete, e R$ 1.500 para uma
+seguradora, para garantir o transporte das mercadorias até o seu depósito. Com base no
+Pronunciamento Técnico CPC 16 – Estoques, o valor a ser registrado na conta de Estoques da
+empresa Crystal S.A. é, em reais:
+a)141.500.
+b)156.500.
+c)140.000.
+d)155.000.         Custo = Valor da Compra - Tributos Recuperáveis + Frete + Seguro
+e)150.000.         Custo = 150.000 - 15.000 + 5.000 + 1.500 = R$141.500
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(FCC/Copergás/2023)
+O estoque da empresa Pureza S.A. estava registrado na contabilidade em 31/12/X0 pelo custo
+de aquisição de R$ 250.000. Ao final do ano de X1 a empresa não havia vendido o estoque,
+mas verificou que o valor de venda era R$ 230.000 e as despesas para concretizar a venda
+totalizavam R$ 10.000. Ao final do ano de X2 o estoque ainda não tinha sido vendido e seu
+valor realizável líquido era 260.000.
+Os valores a serem apresentados para a conta Estoques, nos Balanços Patrimoniais da
+empresa Pureza S.A. em 31/12/X1 e em 31/12/X2, são, respectivamente, em reais:
+a) 230.000 e 250.000.
+b) 220.000 e 260.000.
+c) 220.000 e 250.000.
+d) 230.000 e 260.000.
+e) 220.000 e 220.000.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+Passo 1. Posição em 31/12/X0 (Início):
+Estoque registrado pelo Custo: R$ 250.000.
+
+
+Passo 2. Análise em 31/12/X1:
+Custo original: R$ 250.000; Valor de venda: R$ 230.000; Despesas de venda: R$
+10.000.
+Cálculo do VLR: R$230.000 – R$10.000 = R$ 220.000
+Aplicação da Regra: Comparamos Custo (R$250k) vs VLR (R$220k). O menor é R$
+220.000.
+Assim, o estoque será apresentado por R$ 220.000 (houve uma perda de R$ 30.000).
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Passo 3. Análise em 31/12/X2:
+
+O estoque ainda não foi vendido.
+
+Novo VLR: R$ 260.000. Custo Original: R$ 250.000.
+
+Aplicação da Regra: Comparamos Custo (R$250k) vs Novo VLR (R$260k). O
+menor é R$ 250.000.
+
+                                                                @profgilmarpossati   @canalcontabilizando
+                           
+
+
+---
+
+(FCC/TJ-BA/2023)
+Em abril de 20X1, a tapeçaria Noronha adquiriu insumos para sua produção, especificamente,
+novelos de lã natural premium tingidos artificialmente. A mercadoria foi adquirida pelo valor
+de R$ 360.000,00, o qual inclui 15% de impostos não recuperáveis e considera um desconto
+comercial aplicado de 10%.
+A empresa arcou ainda com gastos com transporte de R$ 10.000,00, seguro de R$ 20.000,00 e
+manuseio para colocá-lo em condições de uso de R$ 2.400,00. A tapeçaria Noronha também
+incorreu em gastos com mão de obra direta no valor de R$ 5.000,00 para separar os fios para
+a produção de uma encomenda de tapetes.
+A tapeçaria Noronha é uma empresa que segue as normas internacionais para a elaboração de
+suas demonstrações contábeis. Assim, os estoques de fios de lã natural premium adquiridos
+em abril de 20X1 foram registrados inicialmente no ativo da empresa pelo valor, em reais, de
+a) 400.000,00
+b) 343.400,00
+c) 306.000,00
+d) 437.400,00
+e) 392.400,00
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+Passo 1. Analisando o Preço de Compra:
+O enunciado informa que o valor é de R$ 360.000.
+Impostos não recuperáveis (15%): Já estão inclusos no valor. Como são não recuperáveis,
+eles devem permanecer no custo. Não se faz ajuste.
+Desconto Comercial (10%): O texto diz que o valor de R$ 360.000 já "considera um
+desconto aplicado". Ou seja, esse já é o valor líquido da nota após o desconto. Não
+devemos subtrair novamente.
+
+
+Passo 2. Adicionando Custos Diretamente Atribuíveis (Entrada):
+(+) Transporte: R$ 10.000,00
+(+) Seguro: R$ 20.000,00
+(+) Manuseio (para colocá-lo em condições de uso): R$ 2.400,00
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+Passo 3. Analisando a Mão de Obra:
+Gasto com mão de obra direta para separar fios (R$ 5.000): Este valor não integra o
+registro inicial do estoque de fios (insumo). Ele é um custo de transformação que será
+agregado ao custo do produto em elaboração (tapetes), mas a questão pede o registro
+inicial dos fios adquiridos.
+
+
+Passo 4. Cálculo Final:
+Custo = 360.000 + 10.000 + 20.000 + 2.400 = R$392.400
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+(FCC/TRT15/2023)
+Uma empresa comercial adquiriu, de estabelecimento de empresa fornecedora localizada no
+mesmo Município, mercadorias para serem revendidas a consumidores finais. Na Nota Fiscal
+do seu fornecedor, constavam os seguintes dados:
+I. Valor das mercadorias: R$ 2.500,00.
+II. Valor do frete cobrado do adquirente: R$ 500,00.
+III. Alíquota de ICMS: 18%.
+IV. Valor total da Nota Fiscal: R$ 3.000,00.
+Considerando que o ICMS é um imposto recuperável para a empresa comercial adquirente, o
+valor do ICMS a recuperar e o valor contábil dos estoques das mercadorias adquiridas são,
+respectivamente, de:
+a) R$ 450,00 e de R$ 2.550,00
+b) R$ 630,00 e de R$ 3.500,00
+c) R$ 540,00 e de R$ 3.000,00
+d) R$ 450,00 e de R$ 3.000,00
+e) R$ 540,00 e de R$ 2.460,00
+
+                                                                      @profgilmarpossati   @canalcontabilizando
+                                 
+
+
+---
+
+1. Determinação da Base de Cálculo do ICMS:
+A alíquota de 18% incide sobre o valor total da operação constante na nota (Mercadoria + Frete).
+Valor das Mercadorias: R$ 2.500
+(+) Frete Cobrado: R$ 500
+Base de Cálculo: R$ 3.000
+
+
+2. Cálculo do ICMS a Recuperar:
+ICMS = R$3.000 x 18% → R$540
+
+3. Cálculo do Valor Contábil do Estoque:
+O estoque é o valor total da nota fiscal menos o imposto recuperado:
+           Estoque = Valor Total da Nota - ICMS a Recuperar
+                 Estoque = R$3.000 – R$540 = R$2.460
+
+                                                                            @profgilmarpossati   @canalcontabilizando
+                                       
+
+
+---
+
+(FCC/TRT23/2022)
+NÃO deve ser reconhecido como custo dos estoques de produtos adquiridos ou produzidos
+a) Imposto de importação da mercadoria adquirida no exterior.
+b) Gastos com transporte da mercadoria adquirida.
+c) Gastos com comercialização do produto produzido.
+d) Valor a pagar do preço de aquisição da mercadoria.
+e) Gastos relativos à transformação da mercadoria em um novo produto.
+
+                                                                     @profgilmarpossati   @canalcontabilizando
+                                
+
+
+---
+
+Itens que INTEGRAM o Custo:
+✓   Custo de Aquisição: Preço de compra, impostos de importação, tributos não
+    recuperáveis, fretes e seguros de compra, manuseio.
+✓   Custo de Transformação: Mão de obra direta e custos indiretos de fabricação
+    (fixos e variáveis).
+
+Itens que NÃO INTEGRAM o Custo (Devem ser Despesas):
+✓ Valor anormal de desperdício de materiais ou mão de obra.
+✓ Gastos com armazenamento, a menos que sejam necessários ao processo
+    produtivo entre uma etapa e outra.
+✓ Despesas Administrativas que não contribuem para colocar o estoque em sua
+    condição atual.
+✓ Despesas de Comercialização (Venda): Gastos com publicidade, comissões de
+    vendedores e fretes de entrega ao cliente.
+                                                                 @profgilmarpossati   @canalcontabilizando
+                            
+
+
+---
+
+(FCC/TRT5/2022)
+A empresa TecnoInfo S.A. vende o produto Tech, o qual está registrado em estoque pelo
+custo de R$ 250.000. Entretanto, no final do ano de 20X1, surgiu no mercado uma nova
+tecnologia mais moderna, que fez com que a empresa TecnoInfo S.A. tivesse que reduzir o
+preço de venda do Tech para R$ 220.000. Além disso, para que a venda se concretize, a
+empresa TecnoInfo S.A. incorrerá em custos adicionais de R$ 10.000.
+Com base nessas informações, o valor em Reais (R$) do ajuste a ser reconhecido nos estoques
+ao final de 20X1, bem como o lançamento contábil correspondente, são:
+a) 30.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+b) 40.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+c) 10.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+d) 40.000; débito na conta de estoques e crédito em caixa.
+e) 30.000; débito na conta de estoques e crédito em caixa.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+1. Cálculo do Valor Líquido de Realização (VLR):
+VLR = 220.000 - 10.000 = R$210.000
+
+2. Determinação do Ajuste:
+Comparamos o Custo (R$250.000) com o VLR (R$210.000). Como o VLR é
+menor, o estoque deve ser reduzido até esse valor.
+Ajuste = R$250.000 – R$210.000 = R$40.000
+
+3. Lançamento Contábil:
+D - Despesa com Perda em Estoques (Resultado)
+C - Perdas Estimadas com Redução ao VLR (Conta Redutora) ... - R$ 40.000
+
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+(FCC/TRT5/2022)
+A empresa TecnoInfo S.A. vende o produto Tech, o qual está registrado em estoque pelo
+custo de R$ 250.000. Entretanto, no final do ano de 20X1, surgiu no mercado uma nova
+tecnologia mais moderna, que fez com que a empresa TecnoInfo S.A. tivesse que reduzir o
+preço de venda do Tech para R$ 220.000. Além disso, para que a venda se concretize, a
+empresa TecnoInfo S.A. incorrerá em custos adicionais de R$ 10.000.
+Com base nessas informações, o valor em Reais (R$) do ajuste a ser reconhecido nos estoques
+ao final de 20X1, bem como o lançamento contábil correspondente, são:
+a) 30.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+b) 40.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+c) 10.000; débito em conta de resultado e crédito em conta redutora da conta de estoques.
+d) 40.000; débito na conta de estoques e crédito em caixa.
+e) 30.000; débito na conta de estoques e crédito em caixa.
+
+                                                                       @profgilmarpossati   @canalcontabilizando
+                                  
+
+
+---
+
+(FCC/ALAP/2020)
+Em 10/Janeiro/X3, a Bolacha&Biscoito, uma distribuidora de alimentos, sofreu uma inundação em um dos seus centros de
+distribuição, por conta das fortes chuvas de verão. Na mesma data, os estoques estavam avaliados no Balanço Patrimonial da
+companhia no montante de R$ 200.000,00.
+Entretanto, a partir da avaliação do estoque feita por engenheiros nos dias posteriores à calamidade, estimou-se que o valor
+máximo que esse estoque poderá ser vendido é de R$ 50.000,00.
+A luz do CPC 16 (R1) − Estoques, o lançamento contábil a ser feito pela Bolacha&Biscoito referente aos estoques do centro
+de distribuição avariado é
+a) Débito: Estoques (ativo) = R$ 150.000,00.
+Crédito: Perdas por redução ao valor realizável líquido de estoques (resultado) = R$ 150.000,00
+b)
+Débito: Perdas por redução ao valor realizável líquido de estoques (resultado) = R$ 150.000,00
+Crédito: Estoques (ativo) = R$ 150.000,00
+c)
+Débito: Estoques (ativo) = R$ 150.000,00.
+Crédito: Perdas por redução ao valor realizável líquido de estoques (conta redutora de ativo) = R$ 150.000,00
+d)
+Débito: Perdas por redução ao valor realizável líquido de estoques (conta redutora de ativo) = R$ 150.000,00
+Crédito: Caixa (ativo) = R$ 150.000,00
+e)
+Débito: Caixa (ativo) = R$ 150.000,00
+Crédito: Estoques (ativo) = R$ 150.000,00
+
+                                                                                   @profgilmarpossati   @canalcontabilizando
+                                              
+
+
+---
+
+(FCC/ALAP/2020)
+São critérios de valoração de estoques, previstos no CPC 16 − Estoques:
+a) Valor de mercado atualizado contra resultado, PEPS e custo de reposição.
+b) PEPS, UEPS e custo médio ponderado.
+c) Identificação específica dos custos individuais, UEPS, custo médio ponderado.
+d) PEPS, custo médio ponderado e identificação específica dos custos individuais.
+e) Custo médio ponderado, custo de reposição e valor de mercado atualizado contra
+resultado.
+
+                                                                   @profgilmarpossati   @canalcontabilizando
+                              
+
+
+---
+
+Segundo o CPC 16, os critérios permitidos para atribuição de custo aos estoques são:
+
+▪   Identificação Específica: Utilizado para itens que não são intercambiáveis (ex: obras de
+    arte, carros de luxo com chassis específicos, projetos sob encomenda). O custo atribuído
+    é exatamente o que foi pago por aquele item específico.
+
+▪   PEPS (Primeiro a Entrar, Primeiro a Sair): Também conhecido como FIFO (First-In, First-
+    Out). Pressupõe que os itens que foram comprados primeiro sejam os primeiros a serem
+    vendidos. O estoque final fica avaliado pelos preços mais recentes.
+
+▪   Custo Médio Ponderado: O custo de cada item é determinado a partir da média
+    ponderada dos custos de itens semelhantes no início do período e do custo dos itens
+    comprados durante o período. Utiliza-se a Média Ponderada Móvel (calculada a cada nova
+    compra).
+O "Proibido": UEPS (Último a Entrar, Primeiro a Sair) O método UEPS (LIFO) é proibido pelo
+CPC 16 e pela legislação tributária brasileira.
+                                                                        @profgilmarpossati   @canalcontabilizando
+                                   
+
+
+---
+
+(FCC/ALAP/2020)
+Uma certa empresa divulgou a seguinte Demonstração do Resultado do Exercício para o ano de
+20X7, com valores em reais, Receita de Vendas         175.000,00
+                               (−) Custo da Mercadoria Vendida              105.000,00
+                               Lucro Bruto                                  70.000,00
+                               (−) Despesas de vendas                        8.750,00
+                               (−) Despesas administrativas                 28.000,00
+                               (−) Outras Despesas Operacionais              8.750,00
+                               Lucro antes do Imposto de Renda              24.500,00
+                               (−) Imposto de Renda                          5.250,00
+                               Lucro Líquido                                19.250,00
+A empresa iniciou o ano de 20X7 com um saldo de estoque no valor de R$ 25.000,00. Durante o
+exercício fiscal, foram feitas compras no montante de R$ 125.000,00. O saldo final de estoque em
+31/12/20X7 para essa empresa é, em reais,
+a) 45.000,00.
+b) 150.000,00.
+                                    CMV = Ei + C – Ef → Ef = Ei + C - CMV
+c) 125.000,00.
+d) 105.000,00.
+                                    Ef = 25.000 + 125.000 - 105.000 = R$45.000
+e) 5.000,00.                                                 @profgilmarpossati  @canalcontabilizando
+                                       
+
+
+---
+
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+---

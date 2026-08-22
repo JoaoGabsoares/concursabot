@@ -1,0 +1,405 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 07_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: MODAIS DE TRANSPORTE - I
+---
+
+# MODAIS DE TRANSPORTE - I
+
+---
+
+---
+
+MODAIS DE TRANSPORTE - I
+
+
+                                               Prof. Ricardo Campanario
+
+          
+
+
+---
+
+       Gerenciamento dos Transportes
+       Complexidade e Custos
+     ❑ O sistema de transportes e distribuição de produtos de uma empresa é naturalmente
+       complexo e é considerado um elemento de custo em toda a atividade industrial e
+       comercial.
+
+      No Brasil cerca de 60-70% das mercadorias são transportadas por via rodoviária,
+      fazendo com que a racionalização desta operação seja vital para a estrutura econômica
+      financeira das empresas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Gerenciamento dos Transportes
+       Planejamento e decisões internas (frotas, rotas, etc)
+     ❑ A decisão entre o uso de frota própria ou contratação de transportadores terceirizados é também
+       complexa. Cada situação exige análise do cenário específico e uma escolha que pode ser vantajosa para
+       uma organização e pode representar a geração de custos desnecessários para outra.
+
+     ❑ As empresas transportadoras remuneram seus serviços mediante cobrança do frete e seus adicionais. Ao
+       estipular os valores do frete a transportadora considera todos seus custos diretos e indiretos.
+
+     ❑ Por outro lado a organização pode optar por realizar o próprio transporte de suas mercadorias porém,
+       para isso, deverá ter frota própria e gerenciar toda a complexidade gerada por esta decisão como os
+       custos de aquisição, manutenção, os profissionais envolvidos e toda a complexidade relativa a
+       operacionalização da atividade, sua roteirização e adaptação as mudanças de cenários.
+
+     ❑ Em função disso, o responsável pelo planejamento dos transportes e distribuição dos produtos acabados
+       deve ser um especialista. Ele é quem decidirá qual ou quais dos modais deverão ser escolhidos e/ou
+       conjugados para a realização do transporte dos produtos da empresa até o cliente da maneira mais
+       rentável possível, minimizando o incremento de custos ao longo da cadeia e evitando a majoração dos
+       preços do produto entregue ou a diminuição de sua rentabilidade.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Gerenciamento dos Transportes
+       Planejamento e decisões internas (frotas, rotas, etc)
+     ❑ No caso em que a empresa possui frota própria deverá também equacionar toda a operação, inclusive
+       conjugando-a ao uso de terceiros quando necessário.
+
+     ❑ Nesse cenário o responsável pelo Departamento de Transportes e Logística deve focar em três itens principais,
+       com o objetivo de maximizar sua performance: custos, prazos e qualidade de atendimento. Estes elementos são
+       os três pilares críticos na criação de vantagens competitivas ou diferencias de mercado para a organização.
+
+                Custos - custos de transportes (sejam eles próprios ou terceirizados junto a transportadores) maiores
+                que os do mercado podem inviabilizar a operação, tornando o produto acabado menos competitivo
+                pois acabará sendo mais caro ou menos rentável à organização.
+
+                Prazos - para produtos específicos (como os perecíveis, por exemplo) os prazos de entrega são
+                críticos. Extensões ou atrasos podem gerar perdas de vendas futuras. Periódicos, produtos
+                alimentícios ou farmacêuticos podem perder completamente seu valor em um dia.
+
+                Qualidade - aqui a embalagem exerce papel fundamental pois estamos falando na garantia da
+                preservação das características do produto até sua chegada ao cliente final, sem qualquer tipo de
+                avaria. Alguns pontos críticos devem ser avaliados ao longo do processo como: carga/descarga,
+                percurso, transbordos e movimentos ao longo do transporte (no marítimo isso é mais relevante).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Os transportes rodoviário, ferroviário e dutoviário
+     são classificados como
+     a) um modal de transporte
+     b) os modais de transporte
+     c) a estrutura física nacional
+     d) as variedades de veículos motores
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Os transportes rodoviário, ferroviário e dutoviário
+     são classificados como
+     a) um modal de transporte
+     b) os modais de transporte
+     c) a estrutura física nacional
+     d) as variedades de veículos motores
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Rodoviário
+       “Monopólio”, flexível e custos relativos elevados
+     ❑ Hoje temos praticamente um monopólio do transporte rodoviário no país. Cerca de 70% de toda a carga gerada
+       no país é transportada por este modal, enquanto as ferrovias movimentam cerca de 15%, a cabotagem próximo
+       de 10% e a aviação 1%.
+
+     ❑ É representado pelo transporte de cargas que utiliza estradas e rodovias para levar os produtos acabados do
+       depósito da empresa até o cliente que os adquiriu.
+
+     ❑ Como principais características do transporte rodoviário temos:
+
+      •      Modal mais flexível. Caminhão pode entrar ou sair do depósito da empresa e chegar até ao cliente
+             diretamente. É o chamado transporte porta a porta ou "door to door (D2D)".
+
+      •      Custos operacionais elevados. Cada veículo leva quantidade limitada de carga e requer um motorista e,
+             as vezes, um ajudante.
+
+      •      Dependência da infraestrutura disponível e impacto nos custos: condição das estradas, pagamento de
+             pedágios, combustíveis, riscos de assaltos e roubos, etc.
+
+      •      Destinado a volumes menores ou cargas com prazos de entrega relativamente curtos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Questão Comentada
+     (FGV/MPE-AL/Técnico Ministério Público/2018) Apesar da diversidade de modais utilizados para a
+     distribuição de mercadorias no Brasil, ocorre a predominância do tipo rodoviário. Dentre as vantagens
+     do modal rodoviário, assinale a opção correta.
+     a) Exige uma infraestrutura uniforme.
+     b) Opera com custo econômico elevado.
+     c) Mostra agilidade na entrega.
+     d) Utiliza veículos não poluidores.
+     e) Oferece amplo limite de carregamento.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/MPE-AL/Técnico Ministério Público/2018) Apesar da diversidade de modais utilizados para a
+     distribuição de mercadorias no Brasil, ocorre a predominância do tipo rodoviário. Dentre as vantagens
+     do modal rodoviário, assinale a opção correta.
+     a) Exige uma infraestrutura uniforme.
+     b) Opera com custo econômico elevado.
+     c) Mostra agilidade na entrega.
+     d) Utiliza veículos não poluidores.
+     e) Oferece amplo limite de carregamento.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Ferroviário
+       Pouca flexibilidade, custo reduzido e baixa velocidade
+     ❑ O transporte ferroviário utiliza a malha ferroviária disponível no país e essa é justamente uma de suas maiores
+       limitações quando comparado ao transporte rodoviário e os milhões de quilômetros de estradas.
+
+     ❑ No transporte ferroviário a tração pode ser elétrica, a diesel ou a vapor e os vagões podem ter várias estruturas e
+       formatos com o objetivo de abrigar diferentes tipos de cargas sólidas, a granel ou líquidas.
+
+     ❑ Principais características do transporte ferroviário:
+
+       •      Custo reduzido em relação ao rodoviário pelo grande número de vagões de uma única composição.
+
+       •      Velocidade homogênea e, geralmente, mais baixa.
+
+       •      Traçado pré-fixado (ferrovias), com maior limitação que o deslocamento rodoviário.
+
+       •      Menor flexibilidade de embarque/desembarque, limitados aos terminais ferroviários.
+
+       •      Destinado a cargas de maior volume e grande peso, porém, com prazos de entrega mais amplos.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRO-MT/Assistente Administrativo/2018) Em comparação com o transporte aquaviário, o
+     transporte ferroviário apresenta a desvantagem de possuir uma maior flexibilidade em relação ao
+     trajeto a ser percorrido.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRO-MT/Assistente Administrativo/2018) Em comparação com o transporte aquaviário, o
+     transporte ferroviário apresenta a desvantagem de possuir uma maior flexibilidade em relação ao
+     trajeto a ser percorrido.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRQ-4/Técnico Administrativo/2018) O transporte ferroviário possui um custo de
+     implantação elevado, embora possua alta flexibilidade operacional e baixo custo operacional.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRQ-4/Técnico Administrativo/2018) O transporte ferroviário possui um custo de
+     implantação elevado, embora possua alta flexibilidade operacional e baixo custo operacional.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Aquaviário
+       Baixo custo, muito lento, condições meteorológicas
+
+     ❑ É o transporte efetuado por meio de navios, barcos, barcaças, etc. Pode ser marítimo,
+       fluvial ou lacustre.
+     ❑ Principais características do transporte aquaviário:
+
+
+      •      Baixo custo unitário. Um dos modais mais baratos.
+      •      Fator tempo (prazos de entrega) deve ser secundário. Muito lento.
+      •      Dependente de condições meteorológicas.
+      •      Destinado a cargas de grandes volumes com longos prazos de entrega.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Transporte Aquaviário
+       Divide-se em Marítimo, Fluvial e Lacustre
+
+     ❑ TRANSPORTE MARÍTIMO
+     ✓     Realizado por navios a motor e de grande porte. É classificado em diferentes categorias de acordo com sua
+           finalidade como a cabotagem (navegação nacional) e longo curso (internacional). Os navios utilizados para o
+           transporte dos mais diversos tipos de cargas e passageiros têm vários tamanhos e características, de acordo com
+           a necessidade da operação, da carga e dos portos onde atracam.
+     ❑ TRANSPORTE FLUVIAL
+     ✓     O transporte fluvial é realizado em rios e ainda possui utilização muito pequena no país, considerando o potencial
+           de nossas bacias hidrográficas. O grande volume transportado por esse modal refere-se a produtos agrícolas,
+           minérios, derivados de petróleo, álcool, entre outros.
+     ❑ TRANSPORTE LACUSTRE
+     ✓     O modal lacustre tem as mesmas características do fluvial, porém o transporte ocorre em lagos. O modal também
+           é muito pouco utilizado no Brasil e não possui participação relevante no cenário nacional de transporte de cargas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAÚDE-CE/Analista Administrativo/2021) O gestor de uma fábrica, após a análise dos efeitos
+     da pandemia da Covid-19 na empresa e em seus negócios, verificou que, desde que tornou o uso de
+     álcool gel parte do protocolo da organização, o número de funcionários acometidos por outras doenças
+     reduziu-se drasticamente. Em razão disso, ele decide comprar um grande volume do produto para o
+     ano de 2022. Considerando que não existem limitações para a localização, que a entrega não tem
+     urgência e é crucial a utilização de um frete de baixo custo, o modal adequado para essa entrega será o
+     a) aquaviário
+     b) aeroviário
+     c) dutoviário
+     d) rodoviário
+     e) infoviário
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (FGV/FUNSAÚDE-CE/Analista Administrativo/2021) O gestor de uma fábrica, após a análise dos efeitos
+     da pandemia da Covid-19 na empresa e em seus negócios, verificou que, desde que tornou o uso de
+     álcool gel parte do protocolo da organização, o número de funcionários acometidos por outras doenças
+     reduziu-se drasticamente. Em razão disso, ele decide comprar um grande volume do produto para o
+     ano de 2022. Considerando que não existem limitações para a localização, que a entrega não tem
+     urgência e é crucial a utilização de um frete de baixo custo, o modal adequado para essa entrega será o
+     a) aquaviário
+     b) aeroviário
+     c) dutoviário
+     d) rodoviário
+     e) Infoviário
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRQ-4/Técnico Administrativo/2018) O transporte hidroviário possui um baixo custo de
+     implantação e um baixo custo operacional, mas possui um alcance limitado devido à necessidade de via
+     natural e perene para navegação.
+     a) CERTO
+     b) ERRADO
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CRQ-4/Técnico Administrativo/2018) O transporte hidroviário possui um baixo custo de
+     implantação e um baixo custo operacional, mas possui um alcance limitado devido à necessidade de via
+     natural e perene para navegação.
+     a) CERTO
+     b) ERRADO
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

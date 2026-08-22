@@ -1,0 +1,3393 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 13_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Fluência em Dados
+---
+
+# Fluência em Dados
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                                             Fluência em Dados
+
+                                                           Autor:
+                                     Diego Carvalho, Emannuelle
+                        Gouveia Rolim, Equipe Informática
+                                           e TI, Renato da Costa
+
+                                               30 de Junho de 2025
+
+---
+
+      Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+      Aula 10
+
+                                                                                     Índice
+1) Análise de Informações - Big Data
+
+
+2) Questões Comentadas - Análise de Informações - Big Data - Multibancas
+
+
+3) Lista de Questões - Análise de Informações - Big Data - Multibancas
+
+                Receita Federal (Analista Tributário) Fluência em Dados                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           74
+
+                                                             
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                             APRESENTAÇÃO DA AULA
+Fala, galera! O assunto da nossa aula de hoje é Big Data! Sim... as bancas começaram a cobrar esse
+tema recentemente de forma até bastante frequente. Nós vamos estudar seu conceito, suas
+premissas e algumas particularidades. Galera, considerando tudo que nós já estudamos
+anteriormente, esse é um tema bem tranquilo e pequeno. Além disso, essa aula possui quase todos
+os exercícios que já caíram sobre o tema, então tá sussa...
+
+       PROFESSOR DIEGO CARVALHO - www.instagram.com/professordiegocarvalho
+
+Galera, todos os tópicos da aula possuem Faixas de Incidência, que indicam se o assunto cai
+muito ou pouco em prova. Diego, se cai pouco para que colocar em aula? Cair pouco não significa
+que não cairá justamente na sua prova! A ideia aqui é: se você está com pouco tempo e precisa ver
+somente aquilo que cai mais, você pode filtrar pelas incidências média, alta e altíssima; se você tem
+tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssimas. Fechado?
+
+                                             INCIDÊNCIA EM PROVA: baixíssima
+                                                INCIDÊNCIA EM PROVA: baixa
+                                               INCIDÊNCIA EM PROVA: média
+                                                INCIDÊNCIA EM PROVA: ALTA
+                                              INCIDÊNCIA EM PROVA: Altíssima
+
+Além disso, essas faixas não são por banca – é baseado tanto na quantidade de vezes que caiu em
+prova independentemente da banca e também em minhas avaliações sobre cada assunto...
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                    3
+        www.estrategiaconcursos.com.br                                                            74
+
+                                    
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 10
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        4
+      www.estrategiaconcursos.com.br                                                 74
+
+                                  
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 10
+
+      Receita Federal (Analista Tributário) Fluência em Dados                        5
+      www.estrategiaconcursos.com.br                                                 74
+
+                                  
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                                                BIG DATA
+Conceitos Básicos
+                                                                                                INCIDÊNCIA EM PROVA: ALTA
+
+Sabe aquele vídeo insuportável com um anúncio de visualizar um vídeo no Youtube? Ou quando você
+está navegando pelo Facebook e aparece uma propaganda nos eu feed? Esses anúncios são ótimos
+exemplos de como é utilizado o Big Data. Por diversas vezes, ele é escolhido especificamente para
+você com base nos sites que você frequenta, sua idade aproximada, seu sexo, onde você mora, além
+de um monte de outras variáveis.
+
+Deixa eu contar uma historinha para vocês: vocês sabem qual é a maior e melhor banda de rock de
+todos os tempos? Ora... para o bem da nossa relação, eu espero que vocês tenham respondido
+Pink Floyd! Acertei??? Ela é a minha banda favorita, eu já ouvi todas as músicas, já li todos os livros,
+possuo todos os discos e... tenho várias camisetas! Certo dia, estava eu fuçando em meu Instagram
+quando apareceu o seguinte anúncio:
+
+                                                                  Galera, essa camisa diz: “Nunca subestime
+                                                                  um fã de Pink Floyd que tenha nascido em
+                                                                  outubro”. Eu pensei ingenuamente: “Meu
+                                                                  pai do céu, não é possível que eu esteja com
+                                                                  tanta sorte hoje!” Apareceu justamente no
+                                                                  meu feed do Instagram uma camiseta à
+                                                                  venda da minha banda favorita falando de
+                                                                  pessoas que nasceram em outubro e...
+
+                                                                         vocês não vão acreditar, mas...
+
+                                                                                        sabe
+                                                                                         em
+                                                                                        qual
+                                                                                        mês
+                                                                                         eu
+                                                                                       nasci?
+
+                                                                                 EM OUTUBRO!!!
+
+Eu sou retardado, não é? É claro que não havia coincidência alguma! O Instagram sabe meus dados
+pessoais e conhece todos os meus interesses. Dessa forma, ele consegue direcionar melhor os
+anúncios. Fim da história: eu quaaaase comprei a camiseta e depois passei dias me achando um
+completo trouxa por pensar que era coincidência. Mané, né? Prosseguindo... os dados são parte
+de um conjunto gigantesco de dados sobre você e outras pessoas.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                       6
+        www.estrategiaconcursos.com.br                                                                               74
+
+                                    
+
+
+---
+
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 10
+
+Quase todas as vezes você clica (ou não clica) em um anúncio, dados são armazenados em
+algum lugar. Toda vez que você assiste a um vídeo do Youtube – como as aulas do Estratégia
+Concursos – são mantidos registros. Existem registros de todos os cliques de todas as pessoas que
+já acessaram o Twitter, todos os likes e comentários de todas as fotos do Instagram, todas as
+compras que você fez com seu cartão de crédito, todo filme assistido no Netflix e quanto tempo!
+
+Com 7,5 bilhões de pessoas no planeta, muitos (mas muitos meeeeeesmo) dados são criados a cada
+segundo. Basicamente, apenas de existir, você já estará criando dados – é tanto dado, mas
+tanto dado que nós chamamos isso de Big Data. Galera, antes do surgimento de smartphones,
+notebooks e computadores, era muito trabalhoso e demorado registrar medições e armazenar
+dados. Aliás, nem existia uma preocupação de se armazenar dados sobre essas coisas.
+
+Só existem dados climatológicos sobre a cidade de São Paulo a partir de 1961. Antes disso, não
+havia nenhum registro oficial. Dados sobre o censo dos Estados Unidos – que ocorre a cada dez anos
+– frequentemente demoravam justamente dez anos para ficar pronto. Dessa forma, se ele
+começasse a ser medido em 1950, ele demoraria dez anos para terminar. Assim, as pessoas só
+descobririam qual era o tamanho da população de 1950 em 1960 1!
+
+O termo Big Data – na forma como o utilizamos hoje – surgiu na década de 1990! O autor, John
+Mashey, usou o termo para descrever dados que são tão grandes e complexos que ferramentas para
+trabalhar e interpretar dados simplesmente não davam conta do recado. Galera, seu telefone
+registra a sua localização, registra os aplicativos que você usa e registra quanto tempo você os
+usa, então todos os aplicativos que você usa coletam dados sobre você.
+
+Eu vou me casar em breve e já estou olhando alguns eletrodomésticos! Por conta disso, eu não paro
+de receber ofertas de geladeira, fogão e televisores em meu e-mail. Galera, a sociedade está criando
+um mundo interconectado – às vezes chamado de Internet of Things (IoT) ou Internet das Coisas.
+Considerem a rede de dispositivos inteligentes que coletam dados e podem potencialmente se
+comunicar entre si, desde sua geladeira até seu carro, relógio, luzes, etc.
+
+Vocês acreditam que já há cientistas que equipam algumas mudas de espinafre para poderem enviar e-
+mails via wireless em determinados eventos? O grande lance do Big Data é que há muita coisa para
+se discutir ainda, então vamos analisar um pequeno aspecto dele: Likes no Facebook! Por anos,
+esses likes pareciam bem inúteis. Ninguém entra nas redes sociais para ver no que o amigo tem
+dado like. Vocês concordam?
+
+No entanto, essas informações são mais reveladoras do que você imagina! Em 2013, a PNAS
+(Proceedings of National Academy of Sciences) publicou um estudo da Universidade de Cambridge
+em que 58.000 usuários do Facebook participaram de uma pesquisa de personalidade em um
+
+1
+  Computadores ajudaram a reduzir o tempo necessário para coletar, resumir e armazenar dados. No entanto, quanto mais aumenta o poder dos
+computadores de coletar e analisar dados, mais aumentam também... os próprios dados!
+
+          Receita Federal (Analista Tributário) Fluência em Dados                                                                     7
+          www.estrategiaconcursos.com.br                                                                                             74
+
+                                           
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+aplicativo. Em seguida, eles pediram permissão para ver os likes dos usuários. Eles descobriram
+que traços e atributos individuais podem ser previstos com um alto grau de precisão!
+
+Como, professor? Com base apenas em registros de likes! Olha que coisa interessante: likes em fotos
+de raios e tempestades ou em postagens sobre ciência apontam para pessoas altamente
+inteligentes; likes em postagens sobre rap e Lionel Messi apontam para homens heterossexuais.
+Esta é uma minúscula peça do quebra-cabeça que pode lhe dar uma pequena noção sobre o que
+é, na prática, o Big Data.
+
+Se um pouquinho de informação sobre uma pessoa pode revelar muito, podemos imaginar o
+que toneladas e toneladas de outros dados produzidos diariamente a cada dia podem fornecer.
+Galera, vocês compreendem o poder disso? Durante as últimas eleições presidenciais americanas, a
+campanha de Donald Trump escolheu grupos particulares de apoiadores de Hillary Clinton para ver
+anúncios contra ela em mídias sociais, tentando torná-los menos propensos a votar nela.
+
+Por outro lado, há uma boa chance de o Big Data impactar positivamente a sua vida. Ele pode
+ser usado para criar um remédio personalizado, para prever quais jogadores de futebol uma equipe
+deve contratar, e para criar carros sem motorista. Sabe quando você está perdido e precisa utilizar o
+Google Maps? Pois é, você está consumindo e servido ao Big Data! Se você habilitar sua localização,
+informações sobre local e velocidade são continuamente transferidas ao Google.
+
+Essa informação por si só não é útil para alguém, mas inúmeras pessoas ao seu redor também
+estão usando o Google Maps. Então, o Google possui uma tonelada de dados sobre onde as
+pessoas estão e quão rápido elas estão se movendo. Como eles vêm trabalhando com esses dados
+a algum tempo, eles conseguem prever como estará o trânsito de uma cidade com base em coisas
+como: dia da semana, horários, feriados, entre outros dados.
+
+Com essa quantidade massiva de dados, eles conseguem te dizer se há muito trânsito em uma rota
+específica. Em 2013, o Google adquiriu o aplicativo Waze, que deu eles ainda mais dados para
+trabalhar. Usuários do Waze informam o aplicativo sobre trânsito e acidentes e o Google Maps é
+capaz de acessar essas informações também. Ademais, ele é capaz de manter o registro sobre o
+seu histórico e te auxiliar de diversas maneiras.
+
+Hoje em dia, eu acho normal, mas eu me lembro da primeira vez que eu recebi uma notificação do
+Google me informando sobre o tempo até o meu trabalho. Eu acordei, tomei banho, escovei os
+dentes, desci para a garagem e assim que eu entrei no carro... o Google me enviou uma notificação
+informando que eu chegaria no trabalho em 15 minutos! Eu fiquei igual a esse bebê do meme ao
+lado... achando que havia um drone me vigiando!
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                    8
+        www.estrategiaconcursos.com.br                                                            74
+
+                                    
+
+
+---
+
+    Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+    Aula 10
+
+Por fim, vamos falar sobre como a Netflix utiliza o Big Data para melhorar a sua experiência de
+entretenimento. Quando você acessa a Netflix, ela te dá uma lista de recomendações 2 em sua
+página inicial. Para dar essas recomendações, o algoritmo da Netflix aprende – a partir de infinitas
+fontes de dados – se você gosta de filmes estrelados, por exemplo, por Matt Damon. Enfim, há
+diversas informações que ela pode cruzar para te recomendar o filme ideal.
+
+Uma das revelações mais interessantes trata do poster. Sabe aquelas imagens que aparecem na hora
+que você vai escolher o filme? Pois é, muitas pessoas escolhem um filme simplesmente baseado
+nessa imagem. Uma vez que o título e a imagem são a primeira exposição ao conteúdo, escolher
+as imagens mais atrativas para pessoas específicas pode afetar na sua decisão de assistir um
+filme ou não. Observem a imagem abaixo:
+
+Há um filme chamado Good Will Hunting (em português, Gênio Indomável). Ele é interpretado por
+Matt Damon e Robin Williams. Observem que há duas imagens diferentes para o mesmo filme!
+No entanto, se você gosta mais de assistir filmes românticos, ele mostrará uma imagem do filme
+com o Matt Damon beijando uma mulher; se você gosta mais de assistir filmes de comédia, ele
+mostrará uma imagem do mesmo filme, porém com Robin Williams.
+
+De ambas as formas, ele consegue atrair a pessoa certa a assistir ao filme! Possuir uma quantidade
+absurda de dados à disposição permite que a Netflix torne sua experiência melhor. Por meio do
+Big Data, seria possível personalizar remédios com base no genoma de um paciente e prever qual
+remédio terá menos efeitos colaterais ou até mesmo qual tratamento possui a menor probabilidade
+de causar um ataque cardíaco.
+
+Em suma: Big Data chegou para ficar e você está ajudando a criá-lo nesse instante ao ler essa aula!
+Não existe uma definição singular sobre a terminologia Big Data. Vejamos algumas:
+
+2
+ O Sistema de Recomendações combina várias técnicas computacionais para selecionar itens personalizados com base nos interesses dos usuários
+conforme o contexto em que estão inseridos, com o intuito de obter vantagem competitiva. As recomendações são cada vez mais otimizadas por
+meio de técnicas de Inteligência Artificial, como Machine Learning.
+
+          Receita Federal (Analista Tributário) Fluência em Dados                                                                        9
+          www.estrategiaconcursos.com.br                                                                                                74
+
+                                            
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+ Por Oxford English Dictionary
+ Big Data é um dado de grande tamanho, tipicamente ao nível que sua manipulação e gerenciamento apresenta
+ desafios significativos a logística.
+
+ Por Dumbill e Edd
+ Big Data é o dado que excede a capacidade de processamento convencional dos sistemas de bancos de dados.
+
+
+ Por Mayer-Schönberger e Cukier’s
+ Big Data é a habilidade da sociedade de aproveitar a informação por novas maneiras para produzir introspecção úteis
+ ou bens e serviços de valor significante.
+
+ Por International Data Corporation
+ Big Data é uma nova geração de tecnologias e arquiteturas, projetadas economicamente para extrair valor de volumes
+ muito grandes e vastos de dados, permitindo alta velocidade de captura, descoberta e análise.
+
+
+Trata-se de um termo amplo para conjuntos de dados muito grandes ou complexos que aplicativos
+de processamento de dados tradicionais são insuficientes. Os desafios incluem análise, captura,
+curadoria de dados, pesquisa, compartilhamento, armazenamento, transferência, visualização
+e informações sobre privacidade. Esse termo – por vezes – se refere ao uso de análise preditiva e
+outros métodos avançados para extrair valor de dados.
+
+Por fim, minha definição favorita o define como a captura, gerenciamento e a análise de um grande
+volume de dados estruturados ou não estruturados que não podem ser consultados e pesquisados
+através de bancos de dados relacionais. Frequentemente são dados obtidos de arquivos não
+estruturados como vídeo digital, imagens, dados de sensores, arquivos de logs e de qualquer
+tipo de dados não contidos em registros típicos com campos que podem ser pesquisados.
+
+      TIPOS DE DADOS DESCRIÇÃO
+                       São dados que podem ser armazenados, acessados e processados em formato fixo e
+              DADOS padronizado de acordo com alguma regra específica. Esta organização é geralmente feita
+       ESTRUTURADOS por colunas e linhas (semelhante a planilhas do Excel), mas pode variar de acordo com a fonte
+                       de dados. Exemplo: Planilhas Eletrônicas, Bancos de Dados Relacionais, etc.
+                       São dados estruturados que não estão de acordo com a estrutura formal dos modelos de
+         DADOS SEMI-   dados como em tabelas, mas que possuem marcadores para separar elementos semânticos
+       ESTRUTURADOS    e impor hierarquias de registros e campos dentro dos dados Exemplo: Dados de E-mail,
+                       Arquivos XML, Arquivos JSON e Banco de Dados NoSQL.
+                       São dados que apresentam formato ou estrutura desconhecidos, em que não se sabe extrair
+          DADOS NÃO-   de forma simples os valores desses dados em forma bruta. Exemplo: Documentos, Imagens,
+       ESTRUTURADOS    Vídeos, Arquivos de Texto, Posts em Redes Sociais.
+
+Professor, onde esses dados são armazenados? Podem ser armazenados em um Data Warehouse ou
+em um Data Lake (Lago de Dados). O Data Lake é um grande repositório capaz de armazenar
+dados estruturados, semi-estruturados e não-estruturados, assim como um método para
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                   10
+        www.estrategiaconcursos.com.br                                                                            74
+
+                                      
+
+
+---
+
+     Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+     Aula 10
+
+organizar grandes volumes de dados de diversos formatos e de diversas fontes diferentes.
+Professor, qual seria a diferença entre Data Warehouse e Data Lake?
+
+                           DATA WAREHOUSE                                                               DATA LAKE
+    Dados geralmente são tratados (limpos, combinados,                     Dados geralmente são armazenados da maneira que
+    organizados, etc) antes de serem armazenados.                          foram capturados – brutos, sem nenhum tratamento.
+    Podem armazenar todos os tipos de dados, mas o foco                    Armazenam dados estruturados, semi-estruturados e
+    é nos dados estruturados.                                              não-estruturados.
+    Ideal para usuários operacionais visto que as                          Ideal para cientistas de dados visto que as ferramentas
+    ferramentas analíticas são mais fáceis de usar.                        analíticas são mais difíceis de usar.
+    Armazenamento de dados custam geralmente mais                          Armazenamento de dados custam geralmente mais
+    caro e consome mais tempo.                                             barato e consome menos tempo.
+    Um esquema é definido antes dos dados serem                            Um esquema é definido após os dados serem
+    armazenados.                                                           armazenados (esquema dinâmico).
+    Armazenam um grande volume de dados.                                   Armazenam um gigantesco volume de dados.
+
+Antes de ver algumas curiosidades, eu acho bacana falar um pouco sobre a infraestrutura para
+suportar Big Data! Sim, pessoal... eu falei que se trata de uma quantidade absurda de dados. Isso
+implica a necessidade de uma infraestrutura também absurda. Professor, o que você quer dizer com
+infraestrutura? Galera, eu me refiro ao conjunto de hardware, software e outras tecnologias
+capazes de suportar serviços de TI (Ex: Servidor, Firewall, Rede, etc).
+
+Hoje em dia, você pode utilizar serviços fornecidos pela computação em nuvem ou ter uma
+infraestrutura própria. Para o primeiro caso, existem inúmeras possibilidades de negócio para
+quem confia na combinação de Computação em Nuvem e Big Data! De forma geral, as empresas
+utilizam o Big Data para se tornarem mais competitivas. Além disso, espera-se com esse uso algo
+essencial para o sucesso: errar menos. E, quando inevitável, aprender com o erro.
+
+Ter um sistema de computação em nuvem é condição para se trabalhar bem com um grande
+volume de dados, uma vez que isso envolve coleta, armazenamento e compartilhamento de um
+número gigantesco de informações. Além disso, a constante necessidade de conhecer o
+resultado das ações de um negócio, muitas vezes, imediatamente, torna essa relação entre
+Cloud Computing e Big Data extremamente harmoniosa. Entendido?
+
+Premissas
+                                                                                                                         INCIDÊNCIA EM PROVA: ALTA
+
+Podemos afirmar que a definição de Big Data pode ser quebrada em cinco dimensões, quais sejam:
+Volume, Velocidade, Variedade, Veracidade e Valor3.
+
+3
+  O Big Data foi inicialmente conceituado a partir de três premissas básicas: Volume, Velocidade e Variedade (3 V’s). Atualmente, já há autores que
+tratam de 10V’s (+Variabilidade, Validade, Vulnerabilidade, Volatilidade e Visualização), apesar de não cair em prova.
+
+           Receita Federal (Analista Tributário) Fluência em Dados                                                                             11
+           www.estrategiaconcursos.com.br                                                                                                      74
+
+                                              
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Volume
+
+Big Data trata de uma grande quantidade de dados gerada a cada segundo. Pense em todos os
+e-mails, mensagens de Twitter, fotos e vídeos que circulam na rede a cada instante. Não são
+terabytes e, sim, zetabytes ou brontobytes. A tecnologia do Big Data serve exatamente para lidar
+com esse volume massivo de dados, guardando-os em diferentes localidades e juntando-os através
+de software.
+
+Em outras palavras, nós podemos dizer que o volume de dados atualmente já é grande, mas a
+tendência é que continue a crescer ainda mais nas próximas décadas. Dessa forma, é preciso
+buscar ferramentas e formas de tratar esses dados de maneira que possam se converter – de fato –
+em informação que seja útil para o crescimento e desenvolvimentos das organizações e, não
+apenas, um grande volume de dados.
+
+Velocidade
+
+Refere-se à velocidade com que os dados são criados. São mensagens de redes sociais se
+viralizando em segundos, transações de cartão de crédito sendo verificadas a cada instante ou os
+milissegundos necessários para calcular o valor de compra e venda de ações. Quem tem Twitter aí?
+Hoje em dia, informações surgem primeiro no Twitter! O Big Data serve para analisar os dados no
+instante em que são criados, em tempo real, sem ter de armazená-los.
+
+Não apenas o volume de dados é gigantesco, mas a velocidade em que esses dados são produzidos
+(e se tornam desatualizados é vertiginosa). Justamente por isso o segundo desafio do Big Data é o
+timing do processamento desses dados: para que possuam valor real e aplicabilidade no
+mercado, é preciso utilizar os dados antes que se tornem desatualizados. O objetivo, portanto,
+é alcançar formas de trabalhar o processamento dessas informações em tempo real.
+
+Variedade
+
+No passado, a maior parte dos dados utilizados por organizações era estruturado e podia ser
+facilmente armazenado em tabelas de bancos de dados relacionais. No entanto, a maioria dos
+dados do mundo não se comporta dessa forma. Com o Big Data, mensagens, fotos, mídia social, e-
+mail, vídeos e sons – que são dados não-estruturados – podem ser administrados juntamente com
+dados tradicionais.
+
+Os dados de que dispomos atualmente são provenientes das mais diversas fontes: redes sociais,
+aplicativos, cookies, IoT, e-mails, etc. Isso significa que não seguem um único padrão e nem
+fornecem todos o mesmo tipo de informações, tornando a tarefa de compilar esses dados em
+um banco de dados tradicional inviável. É preciso desenvolver novas ferramentas de análise que
+respondam à heterogeneidade dos dados.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               12
+        www.estrategiaconcursos.com.br                                                        74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Veracidade
+
+Um dos pontos mais importantes de qualquer informação é que ela seja verdadeira. Com o Big
+Data, não é possível controlar cada hashtag do Twitter ou notícia falsa na internet, mas com análises
+e estatísticas de grandes volumes de dados é possível compensar as informações incorretas. Dentre
+a massa de dados que circula, é preciso estabelecer quais os dados que são verídicos e que ainda
+correspondem ao momento atual.
+
+Dados desatualizados podem ser considerados inverídicos, mas não porque tenham sido
+gerados com segundas intenções, mas porque não correspondem mais à realidade e podem
+guiar uma empresa a decisões equivocadas. O desafio posto pelo Big Data é, então, determinar a
+relevância dos dados disponíveis para uma empresa, de forma que essas informações possam servir
+de guia para o seu planejamento com maior segurança.
+
+Valor
+
+O último V é o que torna Big Data relevante: tudo bem ter acesso a uma quantidade massiva de
+informação a cada segundo, mas isso não adianta nada se não puder gerar valor algum para um
+órgão ou uma empresa. É importante que organizações entrem no negócio do Big Data, mas é
+sempre importante lembrar dos custos e benefícios, além de tentar agregar valor ao que se está
+fazendo. Bacana?
+
+O quinto desafio posto pelo Big Data pelas empresas é o de definir a abordagem que será feita
+dessa massa de dados que está circulando. Afinal, para que um dado se converta em informação
+útil e utilizável é preciso o olho do analisador, é preciso colocar uma pergunta a esse dado que
+permita orientar a análise de dados para o objetivo de uma empresa. Não é toda a informação que
+está circulando que é relevante ou útil para os objetivos específicos de uma empresa.
+
+
+Big Data Analytics
+                                                                                       INCIDÊNCIA EM PROVA: baixa
+
+Nós já sabemos que a imensa parte dos dados disponíveis no mundo hoje foram criados apenas
+nos últimos dois anos. Estes dados são caracterizados por sua velocidade, volume, variedade,
+veracidade e valor – conforme vimos anteriormente. Mais de 2.5 trilhões de bytes são gerados todos
+os dias por meio de nossos smartphones, tablets, sensores, redes sociais e cartões de crédito, mas
+o que pode ser feito com todos esses dados é que é a pergunta relevante.
+
+É aí que entra o conceito de Big Data Analytics: o estudo e interpretação de grandes
+quantidades de dados armazenados com a finalidade de extrair padrões de comportamento.
+Em outras palavras, utiliza-se uma combinação de sistemas de softwares matemáticos de alta
+tecnologia que juntos são capazes de tratar dados estruturados e não-estruturados, analisá-los e
+extrair um significado de alto valor para organizações.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                              13
+        www.estrategiaconcursos.com.br                                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Dessa forma, o Big Data Analytics poderá auxiliar empresas privadas ou administradores de
+órgãos públicos a entender seus usuários, encontrar oportunidades não percebidas
+anteriormente, fornecer um serviço melhor e mitigar possíveis fraudes – são bastante utilizados
+em órgãos fazendários – como a Receita Federal – para evitar sonegação de tributos. Ué, professor...
+isso não seria Business Intelligence? Não, vamos ver a diferença...
+
+O objetivo de ambos é ajudar uma organização a tomar boas decisões por meio da análise de
+dados. No entanto, o Business Intelligence ajuda a encontrar as respostas para as perguntas de
+negócios que já conhecemos, enquanto o Big Data Analytics nos ajuda a encontrar as perguntas e
+respostas que nem sequer sabíamos que existiam – tudo isso por meio de padrões, correlações
+desconhecidas, tendências de mercado e preferências de consumidores.
+
+Em outras palavras, o Business Intelligence trata de encontrar respostas que explicam o
+passado, já o Big Data Analytics trata de encontrar as perguntas que explicam o futuro. Ambos
+possuem grande importância, complementam-se e devem ser bem entendidos para que as
+empresas possam aproveitá-los da melhor forma, agregando e alcançando os valores e resultados
+desejados aos negócios. Professor, como eu vou encontrar perguntas que explicam o futuro?
+
+Prever o futuro é um desejo comum entre as pessoas! Se você fosse capaz de saber com seis meses
+de antecedência que uma grande crise econômica iria assolar o seu país, o que faria? Será que você
+conseguiria criar um plano para prevenir ou diminuir o impacto daquele grande problema? Poderia
+mudar o rumo da história? Com a ajuda de estratégias de Análise Preditiva, você pode conseguir
+(sim, é sério!).
+
+A Análise Preditiva não é bola de cristal, nem obra da Mãe Dináh! Trata-se, na verdade, do trabalho
+de analisar um cenário específico e traçar possíveis tendências e mudanças capazes de afetar seu
+planejamento estratégico. É óbvio que, muitas das vezes, esse tipo de trabalho lida com volumes
+gigantescos de dados e, por isso, exige o uso de ferramentas de inteligência artificial para
+analisar a correlação entre os dados. Viram como tudo se encaixa?
+
+A Análise Preditiva é capaz de identificar o relacionamento existente entre os componentes de um
+conjunto de dados, utilizando algoritmos sofisticados, com o intuito de identificar padrões de
+comportamento ao examinar automaticamente grandes quantidades de dados. Dessa forma,
+permite-se que estatísticas e dados armazenados sejam agrupados, fornecendo previsões e
+indicando padrões e tendências comportamentais.
+
+Galera, esse tema não é novo, mas só recentemente tem ganhado notoriedade como uma
+ferramenta de negócio. Com o avanço de tecnologias que possibilitam a mineração de dados, a
+Análise Preditiva conta com cada vez mais segurança e precisão para descobrir padrões e avaliar a
+probabilidade de um resultado ou acontecimento futuro, diferentemente da simples análise
+descritiva de dados, que apenas mede e apresenta resultados passados.
+
+  TIPO DE ANÁLISE                                                  DESCRIÇÃO
+
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                 14
+         www.estrategiaconcursos.com.br                                                          74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                   Em vez de se focar no futuro, busca fazer uma fotografia do presente, para que decisões de
+     ANÁLISE       cunho imediato possam ser tomadas com segurança. Ela trabalha com histórico de dados,
+                   cruzando informações com o objetivo de gerar um panorama claro e preciso dos temas
+    DESCRITIVA     relevantes para a empresa no presente momento. Exemplo: por meio do cruzamento de dados,
+                   conclui-se que determinada pessoa atualmente é identificada como má pagadora.
+                   O foco está na relação de causas e consequências percebidas ao longo do tempo, dentro de um
+     ANÁLISE       determinado tema. Assim, a análise diagnóstica funciona baseada na coleta de dados
+                   relacionados a um determinado assunto, cruzando informações com o objetivo de entender
+   DIAGNÓSTICA     quais fatores influenciaram o resultado atual. Exemplo: determinada pessoa nunca havia sido
+                   identificada como má pagadora – somente é agora porque ficou viúva recentemente.
+                   Este tipo de análise é o mais indicado para quem precisa prever algum tipo de comportamento
+     ANÁLISE       ou resultado. Esta técnica busca analisar dados relevantes ao longo do tempo, buscando
+                   padrões comportamentais e suas variações de acordo com cada contexto, a fim de prever como
+    PREDITIVA      será o comportamento de seu público ou mercado no futuro, dadas as condições atuais.
+                   Exemplo: quanto estará o valor do dólar no ano que vem?
+                   Segue um modelo similar à Análise Preditiva, no entanto com objetivos ligeiramente diferentes.
+     ANÁLISE       Em vez de tentar prever um determinado acontecimento, esta análise busca prever as
+                   consequências deste acontecimento. Exemplo: dado um aumento do valor do dólar no ano que
+   PRESCRITIVA     vem, como isso poderá afetar as importações de matéria prima, consequentemente, o
+                   faturamento das vendas de determinada empresa.
+
+
+Uma dúvida comum é sobre a diferença entre Business Intelligence, Big Data Analytics e Data
+Mining! Alguns autores consideram um é a evolução do anterior, abrangendo mais dados e
+ferramentas matemáticas/estatísticas; outros afirmam que – na verdade – é tudo a mesma coisa e
+que possuem nomes diferentes apenas por uma questão de marketing: vende mais dizer que uma
+ferramenta de software é uma solução de Big Data Analytics do que uma solução de Data Mining.
+
+                  Big data analytics é:                                    Big data analytics não é:
+ Uma estratégia baseada em tecnologia que permite Somente tecnologia – no nível empresarial, refere-se a
+ coletar insights mais profundos e relevantes de clientes, explorar fontes amplamente melhoradas de dados para
+ parceiros e negócio, ganhando assim uma vantagem adquirir insights.
+ competitiva.
+
+ Trabalhar com conjuntos de dados cujo porte e              Somente volume – também se refere à variedade e à
+ variedade estão além da habilidade de captura,             velocidade, mas – talvez mais importante – refere-se ao
+ armazenamento e análise de softwares de banco de           valor derivado dos dados.
+ dados típicos.
+
+ Processamento de um fluxo contínuo de dados em         Mais gerada ou mais utilizada somente por grandes
+ tempo real, possibilitando a tomada de decisões        empresas online como Google ou Amazon. Embora as
+ sensíveis ao tempo mais rápido do que em qualquer      empresas de internet possam ter sido pioneiras no Big
+ outra época.                                           Data na escala web, aplicativos chegam a todas as
+                                                        indústrias.
+ Distribuído na natureza, isto é, o processamento de Uso de bancos de dados relacionais tradicionais de
+ análise vai aonde estão os dados para maior velocidade “tamanho único” criados com base em disco
+ e eficiência.                                          compartilhado e arquitetura de memória. Análise de Big
+                                                        Data usa uma rede de recursos de computação para
+                                                        processamento massivamente paralelo e escalável.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  15
+        www.estrategiaconcursos.com.br                                                                           74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+ Um novo paradigma no qual a tecnologia da informação       Um substituto de bancos de dados relacionais – dados
+ colabora com usuários empresariais e “cientistas de        estruturados continuam a ser de importância crítica
+ dados” para identificar e implementar análises que         para as empresas. No entanto, sistemas tradicionais
+ ampliam a eficiência operacional e resolvem novos          podem não ter capacidade de manipular as novas fontes
+ problemas empresariais.                                    e contextos do Big Data.
+ Transferir a tomada de decisão dentro da empresa e
+ permitir que pessoas tomem decisões melhores, mais
+ rápidas e em tempo real.                                                              -
+
+Perfis Profissionais
+                                                                                              INCIDÊNCIA EM PROVA: baixa
+
+O Big Data envolve a análise e o processamento de grandes volumes de dados para extrair insights
+valiosos, exigindo equipes multidisciplinares com diferentes perfis profissionais. Os profissionais de
+Big Data desempenham papéis complementares dentro de uma organização. Enquanto cientistas
+e engenheiros de dados lidam com a coleta, processamento e análise, arquitetos e DBAs garantem
+a infraestrutura necessária para suportar grandes volumes de dados.
+
+Já os analistas de negócios e mineradores de dados extraem valor dessas informações para
+melhorar as estratégias da empresa. Existem diversos perfis e eventualmente eles possuem
+interseções em suas responsabilidades, mas aqui vamos nos focar em sete perfis profissionais
+diferentes. Vejamos...
+
+Cientista de Dados (Data Scientist)
+
+O cientista de dados é um dos perfis mais requisitados em projetos de Big Data. Ele combina
+conhecimentos de estatística, machine learning, programação e análise de dados para transformar
+grandes volumes de informações em insights estratégicos. Suas principais funções incluem: criar e
+treinar modelos preditivos e algoritmos de inteligência artificial; analisar padrões e tendências nos
+dados para ajudar na tomada de decisões; utilizar linguagens como Python, R e SQL para análise
+de dados; trabalhar com bibliotecas como TensorFlow, Scikit-Learn e Pandas.
+
+Engenheiro de Dados (Data Engineer)
+
+O engenheiro de dados é responsável por projetar, construir e manter a infraestrutura de
+armazenamento e processamento de dados. Ele trabalha com pipelines de dados, garantindo que
+a informação esteja disponível para análise. Suas funções incluem: criar ETL (Extract, Transform,
+Load) para integrar diferentes fontes de dados; desenvolver e gerenciar bancos de dados escaláveis,
+como Hadoop, Apache Spark, AWS Redshift e Google BigQuery; e otimizar a arquitetura de dados
+para garantir alta performance.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                     16
+        www.estrategiaconcursos.com.br                                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Arquiteto de Soluções (Solutions Architect)
+
+O arquiteto de soluções é quem define padrões, frameworks, protocolos e requisitos técnicos para
+projetos de Big Data. Ele toma decisões estratégicas sobre infraestrutura, garantindo
+escalabilidade e eficiência. Suas responsabilidades incluem: definir quais tecnologias serão
+utilizadas no projeto (como storages, CPUs, licenças de software); garantir que a infraestrutura de
+dados atenda às necessidades da empresa; e trabalhar com cloud computing (AWS, Azure, Google
+Cloud) e soluções distribuídas.
+
+Analista de Dados (Data Analyst)
+
+O analista de dados trabalha na interpretação dos dados para gerar insights acionáveis. Ele não cria
+modelos preditivos como o cientista de dados, mas usa técnicas analíticas para relatórios e
+dashboards. Suas funções incluem: criar painéis de visualização em ferramentas como Power BI e
+Tableau; analisar dados estruturados para apoiar decisões de negócios; e trabalhar com SQL para
+consultas em bancos de dados.
+
+Minerador de Dados (Data Miner)
+
+O minerador de dados é um especialista em descobrir padrões escondidos em grandes volumes de
+dados. Ele utiliza técnicas de machine learning e estatística para encontrar correlações e insights
+ocultos. Suas funções incluem: explorar e encontrar tendências e anomalias nos dados; utilizar
+técnicas de clustering, regressão e classificação; e trabalhar com ferramentas como WEKA,
+RapidMiner e Python (Scikit-Learn).
+
+Administrador de Banco de Dados (DBA)
+
+O DBA (DataBase Administrator) gerencia os bancos de dados que armazenam os dados de Big
+Data. Suas funções incluem: garantir a segurança, integridade e disponibilidade dos bancos de
+dados; otimizar a performance de consultas SQL e NoSQL; e monitorar e gerenciar backups,
+escalabilidade e recuperação de desastres.
+
+Analista de Negócios (Business Analyst)
+
+O analista de negócios é responsável por traduzir dados em estratégias empresariais. Ele atua na
+interface entre a área técnica e os gestores da empresa, garantindo que os dados sejam usados para
+impulsionar o crescimento do negócio. Suas funções incluem: entender os desafios da empresa e
+propor soluções baseadas em dados; criar relatórios e previsões de mercado baseadas em análises
+de Big Data; trabalhar junto com cientistas e analistas de dados para definir métricas estratégicas.
+
+ Perfil Profissional                      Responsabilidades                            Principais Ferramentas
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                 17
+        www.estrategiaconcursos.com.br                                                                          74
+
+                                    
+
+
+---
+
+Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+Aula 10
+
+         CIENTISTA  Desenvolver modelos preditivos, machine                          Python, R, TensorFlow,
+         DE DADOS        learning e análises estatísticas.                             Scikit-Learn, SQL
+    ENGENHEIRO DE    Construir e manter pipelines de dados,                      Hadoop, Apache Spark,
+            DADOS       gerenciar armazenamento e ETL.                           AWS Redshift, BigQuery
+     ARQUITETO DE Definir infraestrutura, padrões e frameworks                 AWS, Azure, Google Cloud,
+         SOLUÇÕES           para projetos de Big Data.                               Kubernetes
+         ANALISTA Criar relatórios e dashboards para análise de                  Power BI, Tableau, SQL,
+         DE DADOS              tendências e insights.                                     Excel
+       MINERADOR Identificar padrões ocultos nos dados usando                  RapidMiner, WEKA, Python
+         DE DADOS  técnicas estatísticas e de machine learning.                      (Scikit-Learn)
+ ADMINISTRADOR DE Gerenciar bancos de dados, otimizar consultas                      MySQL, PostgreSQL,
+   BANCO DE DADOS    e garantir segurança e disponibilidade.                         MongoDB, Cassandra
+      ANALISTA DE Traduzir dados em estratégias empresariais e                   Power BI, Tableau, SQL,
+         NEGÓCIOS          apoiar a tomada de decisões.                                   Excel
+
+      Receita Federal (Analista Tributário) Fluência em Dados                                                 18
+      www.estrategiaconcursos.com.br                                                                          74
+
+                                  
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                                 CONCEITOS AVANÇADOS
+NoSQL (Not Only SQL)
+                                                                                       INCIDÊNCIA EM PROVA: baixa
+
+Antes de falar sobre NoSQL, precisamos falar o que é SQL (Structured Query Language). O SQL
+é uma linguagem de consulta estruturada utilizada para manipular bancos de dados relacionais
+(tabelas). Por meio dela, um usuário pode executar comandos para inserir, pesquisar, atualizar ou
+deletar registros em um banco de dados relacionais, criar ou excluir tabelas, conceder ou revogar
+permissões para acessar o banco de dados, entre outros recursos.
+
+É interessante, mas notem que agora estamos falando em um contexto de Big Data! E nós já
+sabemos que grande parte dos dados armazenados e processados dentro desse conceito são não-
+estruturados e/ou semi-estruturados, logo não se adequam bem a bases de dados relacionais. Foi
+então que surgiu o NoSQL (Not Only SQL)! Observe que a sigla significa Não Apenas SQL – logo
+ela suporta outras linguagens de recuperação de dados e não apenas SQL.
+
+Bancos de Dados NoSQL são cada vez mais utilizados em aplicações web de tempo real (online)
+com a finalidade de atender aos requisitos de gerenciamento de grandes volumes de dados que
+necessitam de alta disponibilidade e escalabilidade. Aliás, eles geralmente são orientados a
+documentos, isto é, são capazes de manipular dados semiestruturados (Ex: XML e JSON). Ora, mas
+por que não continuar utilizando bancos de dados relacionais? Vejamos...
+
+Nos dias de hoje, o volume de dados de certas organizações (Ex: Facebook, que atingiu o nível de
+300 petabytes ou 300 mil terabytes) atingiu valores nunca antes imaginados. No caso destes tipos
+de organizações, a utilização de bancos de dados relacionais tem se mostrado muito problemática
+e até ineficiente. Os principais problemas estão relacionados à dificuldade de conciliar o tipo de
+modelo com a demanda da escalabilidade que está cada vez mais frequente.
+
+Vamos tomar como exemplo o próprio Facebook! Caso o sistema esteja rodando sobre um banco
+de dados relacional e haja um crescimento do número de usuários, haverá consequentemente uma
+queda de performance. Para superar este problema, seria necessário fazer um upgrade na
+potência do servidor atual (também chamado de escalabilidade vertical) ou aumentar o número
+de servidores (também chamado de escalabilidade horizontal).
+
+No entanto, em organizações que tratam de uma quantidade massiva de dados que nunca param
+de crescer, chega um momento em que o banco de dados não consegue mais atender todas as
+requisições em um tempo hábil. A escalabilidade vertical é mais fácil, mas é mais limitada; a
+escalabilidade horizontal é ilimitada, mas é mais complexa – é necessário realizar uma série de
+configurações e alterações nas aplicações para que tudo funcione em uma arquitetura distribuída.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                              19
+        www.estrategiaconcursos.com.br                                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Galera, bancos de dados relacionais estão mais focados nos relacionamentos entre as entidades.
+Como vantagem, isso mantém a integridade dos dados; como desvantagem, torna mais
+burocráticas alterações e implementações de novas funcionalidades. Como esse intenso volume
+de dados vem aumentando e pela sua natureza não-estruturada ou semiestruturada,
+desenvolvedores perceberam a dificuldade ao se organizar dados no modelo relacional.
+
+Pensando em solucionar diversos problemas relacionados à escalabilidade, performance e
+disponibilidade, projetistas de bancos de dados não-relacionais promoveram uma alternativa de
+alto armazenamento com alta velocidade e alta disponibilidade, procurando se livrar de certas
+regras e estruturas inflexíveis que norteiam o modelo relacional de armazenamento de dados.
+Que legaaaaaaal, professor...
+
+A proposta dos bancos de dados não-relacionais não é substituir os bancos de dados
+relacionais, mas serem utilizados nos casos em que é necessária uma maior flexibilidade na
+estrutura do banco de dados. Dito isso, eu gostaria de apresentar para vocês uma tabela que
+contém uma comparação com as diferenças fundamentais entre NoSQL e SQL quanto ao modelo,
+armazenamento, flexibilidade, adequação, escalabilidade e exemplos de aplicações.
+
+              CRITÉRIO                     NOSQL                                          SQL
+               Modelo                 Não-Relacional                                   Relacional
+      ARMAZENAMENTO         Variados (Grafos, Documentos, etc)                          Tabelas
+         Flexibilidade    Alta flexibilidade (Esquema indefinido)        Baixa flexibilidade (Esquema definido)
+           ADEQUAÇÃO     Mais adequado a dados não-estruturados          Mais adequado a dados estruturados
+       ESCALABILIDADE       Em geral, escalabilidade horizontal             Em geral, escalabilidade vertical
+                  Sgbd   MongoDB, Cassandra, HBase, Neo4J, etc           Oracle, MySQL, DB2, SQL Server, etc
+
+
+Dentro desse contexto, eu gostaria de enfatizar alguns pontos! Primeiro: NoSQL é um termo que
+funciona como um guarda-chuva para bancos de dados não-relacionais. Isso significa que todos
+esses bancos de dados não-relacionais terão características semelhantes? Não, esse é um termo
+genérico para absolutamente todas as variedades de bancos de dados que não sejam relacionais,
+abarcando bancos de dados com algumas características completamente díspares entre si.
+
+Segundo: apesar do nome sugerir o contrário, bancos de dados não-relacionais podem – sim –
+armazenar relacionamentos entre dados, no entanto eles o farão de maneira diferente de
+bancos de dados relacionais. Lembrando que bancos de dados relacionais, em geral, utilizam
+chaves (primárias e estrangeiras) para armazenar o relacionamento entre dados, já os bancos de
+dados não-relacionais utilizam cada um o seu modelo/forma de armazená-los.
+
+Terceiro: bancos de dados relacionais e não-relacionais possuem uma grande diferença em
+relação ao esquema de dados. Vocês ainda se lembram o que é esquema ou já esqueceram? Esquema
+é uma descrição do banco de dados, que informa qual estrutura/organização será utilizada para
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                   20
+        www.estrategiaconcursos.com.br                                                                            74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+suportar os dados que serão manipulados. Ora, bancos de dados relacionais possuem esquema
+inflexíveis enquanto bancos de dados não-relacionais possuem esquemas flexíveis.
+
+Diego, não saquei essa parte! Galera, quando eu era criança um número de telefone possuía apenas
+sete números (eu até me lembro do primeiro número da minha casa: 354-8915). Um desenvolvedor
+de sistemas daquela época, ao criar o esquema de banco de dados que descreveria os dados
+que seriam armazenados, especificou que a coluna TELEFONE de uma determinada tabela
+receberia um número com exatos sete algarismos.
+
+No entanto, o tempo passou e os números de telefone brasileiros ganharam mais um número. Esse
+tipo de alteração é bastante problemático e trabalhoso para o desenvolvedor de sistemas porque
+ele tem que alterar todo o esquema que havia sido estabelecido inicialmente. Alguns anos atrás, os
+números de telefone ganharam mais um número, fazendo com que desenvolvedores xingassem
+até a última geração de quem teve essa ideia, porque novamente tiveram que alterar o esquema.
+
+Em outras palavras, bancos de dados tradicionais possuem esquemas extremamente
+inflexíveis. Eu mencionei um caso bastante simples, mas há alterações que podem realmente ser
+extremamente complexas, ainda mais em bancos de dados antigos. Pois bem, os bancos de dados
+não-relacionais são diferentes: eles se caracterizam pela ausência parcial ou total de esquemas que
+definem uma estrutura de dados – também chamado de esquema flexível ou ausência de esquema.
+
+Dessa forma, dados armazenados em um banco de dados não-relacional podem ter características,
+tipos, estruturas e organizações completamente diferentes até mesmo entre um mesmo conjunto
+de dados. É justamente essa ausência de esquema que facilita uma alta escalabilidade e alta
+disponibilidade, mas em contrapartida não há a garantia de integridade dos dados, fato que
+não ocorre em bancos de dados relacionais.
+
+Professor, se bancos de dados não-relacionais não armazenam dados em tabelas, como eles
+armazenam seus dados? Bancos de dados não-relacionais utilizam modelos diferentes de
+armazenamento de dados, os quais podem ser divididos em quatro categorias principais:
+Chave-Valor, Orientado a Documentos, Orientado a Grafos e Orientado a Colunas (Colunar).
+Alguns bancos de dados podem implementar mais de um desses modelos.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                 21
+        www.estrategiaconcursos.com.br                                                          74
+
+                                    
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 10
+
+                               CARACTERÍSTICAS DE BANCOS DE DADOS NÃO RELACIONAIS
+                                                      ==219a34==
+
+Bancos de dados não relacionais não usam a estrutura tradicional baseada em tabela de bancos de dados
+relacionais como tabela, chave e valor.
+Bancos de dados não relacionais geralmente são mais escaláveis horizontalmente do que os bancos de dados
+relacionais – é possível adicionar uma nova máquina ao cluster para aumentar a capacidade do sistema distribuído.
+Bancos de dados não relacionais geralmente usam modelos de dados mais simples, como pares chave-valor ou
+documentos, para lidar melhor com dados complexos não estruturados.
+Bancos de dados não relacionais geralmente usam arquiteturas distribuídas, que permitem processamento de
+consultas mais rápido e maior disponibilidade.
+Bancos de dados não relacionais geralmente usam estruturas de dados mais flexíveis, como JSON, que permite
+uma integração de dados mais dinâmica.
+Bancos de dados não relacionais geralmente fornecem melhor desempenho e escalabilidade do que os bancos de
+dados relacionais tradicionais para diversas atividades.
+Bancos de dados não relacionais geralmente fornecem mais flexibilidade na modelagem de dados, permitindo que
+os desenvolvedores modifiquem sua estrutura de dados com mais rapidez e facilidade.
+Bancos de dados não relacionais geralmente usam linguagens de consulta NoSQL, que – em regra – são mais fáceis
+de aprender do que SQL.
+Bancos de dados não relacionais geralmente requerem menos manutenção do que os bancos de dados relacionais
+tradicionais.
+Bancos de dados não relacionais geralmente usam diferentes tecnologias de armazenamento, como
+armazenamento baseado em nuvem, para lidar melhor com grandes conjuntos de dados.
+Bancos de dados não relacionais geralmente fornecem diferentes recursos de pesquisa do que os bancos de dados
+relacionais tradicionais, mas eventualmente podem ser mais ineficientes.
+Bancos de dados não relacionais geralmente oferecem melhor suporte para processamento e streaming de dados
+em tempo real.
+Bancos de dados não relacionais podem frequentemente ser usados em conjunto com bancos de dados relacionais
+tradicionais para lidar melhor com dados complexos.
+Bancos de dados não relacionais permitem a inserção de dados a qualquer momento sem a necessidade de definir
+previamente um esquema ou por meio de um esquema flexível.
+Bancos de dados não relacionais normalmente não impõem regras de integridade de dados, o que pode levar a
+erros e inconsistência de dados – o que geralmente não ocorre com bancos de dados relacionais.
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                                 22
+       www.estrategiaconcursos.com.br                                                                          74
+
+                                   
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+A tabela apresentada a seguir exibe diversas técnicas ou recursos existentes na maioria dos bancos
+de dados não relacionais:
+
+        TÉCNICAS                                                  DESCRIÇÃO
+                 Trata-se da cópia de dados de um banco de dados para múltiplos servidores. Isso aumenta a
+                 disponibilidade, pois o banco de dados ainda está disponível se um dos servidores falhar. Além
+      REPLICAÇÃO disso, a replicação também aumenta a escalabilidade, pois permite que o banco de dados seja
+                 acessado por mais usuários simultaneamente.
+
+                   Trata-se da divisão lógica de uma tabela de banco de dados em partições. Isso significa que a
+                   tabela é dividida em partes menores que são armazenadas em diferentes servidores físicos, mas
+ Particionamento   são tratadas como uma única tabela. O objetivo é melhorar a performance, permitindo que cada
+                   partição seja processada em paralelo e reduzindo a quantidade de dados que precisam ser
+                   processados. O particionamento pode ser vertical (por coluna) ou horizontal (por linha).
+                   Trata-se da divisão de um banco de dados em partições ou pedaços menores, conhecidos como
+                   shards. Isso significa que os dados são armazenados em vários servidores separados, ao invés
+        Sharding   de um único servidor. O objetivo é melhorar a performance e a escalabilidade do banco de
+                   dados, permitindo que vários servidores trabalhem em conjunto para processar os dados. O
+                   sharding é considerado um tipo de particionamento horizontal.
+                   Trata-se de uma técnica que usa um algoritmo de hashing para distribuir dados entre os
+         Hashing   servidores. Isso significa que os dados são distribuídos de forma balanceada e consistente entre
+                   os servidores. Isso aumenta a tolerância a falhas, pois significa que os dados ainda estão
+     consistente   acessíveis mesmo se um servidor falhar. Os dados são mapeados para um identificador
+                   exclusivo (processo chamado de hash) e distribuídos por vários nós.
+                   Trata-se de exibições predefinidas de dados que são armazenadas em bancos de dados NoSQL.
+           Views   Essas exibições são usadas para acelerar a recuperação de dados, pois os dados já estão prontos
+                   para uso e não precisam ser recuperados e processados a partir de fontes de dados originais.
+  materializadas
+
+                 Trata-se do processo de armazenamento de dados que permite a execução rápida de consultas.
+                 Ele usa índices para criar uma estrutura de dados que é mais fácil de navegar. Em outras
+       Indexação palavras, os dados são indexados para permitir pesquisas rápidas e recuperação de dados.
+
+
+                   Trata-se de um mecanismo de armazenamento de dados temporário usado para acelerar o
+            cache acesso aos dados. Os dados são armazenados temporariamente em um local de memória,
+                   como RAM, para que eles possam ser acessados rapidamente.
+
+Vamos detalhar um pouco melhor a diferença entre replicação, particionamento e sharding.
+Particionamento é um termo genérico utilizado para representar a divisão de dados sobre tabelas
+ou bancos de dados. Ele pode ser dividido em particionamento horizontal (quando cada nó
+armazena um conjunto das linhas de tabelas de um banco de dados) ou particionamento vertical
+(quando cada nó armazena um subconjunto das colunas de tabelas de um banco de dados).
+
+Para entender isso melhor, vamos considerar a tabela abaixo que contém cinco colunas e oito
+linhas. Vejam só...
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  23
+        www.estrategiaconcursos.com.br                                                                           74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+      COLUNA A                COLUNA B                COLUNA C              COLUNA D   COLUNA E
+      1111111                 1111111                 1111111               1111111    1111111
+      222222                  222222                  222222                222222     222222
+      3333333                 3333333                 3333333               3333333    3333333
+      444444                  444444                  444444                444444     444444
+      555555                  555555                  555555                555555     555555
+      666666                  666666                  666666                666666     666666
+      7777777                 7777777                 7777777               7777777    7777777
+      888888                  888888                  888888                888888     888888
+
+O particionamento vertical divide a tabela original verticalmente (por colunas), logo a estrutura da
+tabela original se modifica nas tabelas derivadas. Ele é usado quando se deseja melhorar o
+desempenho de uma base de dados NoSQL ao separar dados de diferentes entidades em diferentes
+servidores. O particionamento vertical pode ser usado para reduzir o tempo de resposta ao acessar
+dados em diferentes entidades em uma base de dados NoSQL.
+
+Um cenário ideal para esse tipo de partição é quando você não precisa de todas as informações da
+tabela em sua consulta. Por exemplo, imagine uma tabela que possua dados como nome e
+endereços. Se algumas consultas solicitarem apenas nomes e outras solicitarem apenas endereços,
+os nomes e endereços poderão ser particionados em servidores separados. Nesse caso, cada nó
+armazenará um subconjunto das colunas da tabela.
+
+            COLUNA A      COLUNA B
+            1111111       1111111
+            222222        222222
+            3333333       3333333
+            444444        444444
+            555555        555555
+            666666        666666
+            7777777       7777777
+            888888        888888
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   24
+        www.estrategiaconcursos.com.br                                                            74
+
+                                     
+
+
+---
+
+                                                                  COLUNA C   COLUNA D   COLUNA E
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10                                                         1111111    1111111    1111111
+                                                                  222222     222222     222222
+                                                                  3333333    3333333    3333333
+                                                                  444444     444444     444444
+Já particionamento horizontal (também
+                                                                  555555     555555     555555
+chamado de sharding) divide a tabela original
+                                                                  666666     666666     666666
+horizontalmente (por linhas), logo a estrutura da                                     tabela
+original se mantém nas tabelas derivadas (com o                   7777777    7777777    7777777
+mesmo número de colunas). Ele é usado quando                      888888     888888     888888
+                                                                                          se
+deseja distribuir os dados entre várias instâncias                                       de
+servidores, de forma a melhorar a escalabilidade e o desempenho da aplicação. A ideia aqui é
+colocar linhas diferentes em tabelas derivadas diferentes.
+
+      COLUNA A                COLUNA B                COLUNA C               COLUNA D        COLUNA E
+      1111111                 1111111                 1111111                1111111         1111111
+      222222                  222222                  222222                 222222          222222
+      3333333                 3333333                 3333333                3333333         3333333
+      444444                  444444                  444444                 444444          444444
+
+      COLUNA A                COLUNA B                COLUNA C               COLUNA D        COLUNA E
+      555555                  555555                  555555                 555555          555555
+      666666                  666666                  666666                 666666          666666
+      7777777                 7777777                 7777777                7777777         7777777
+      888888                  888888                  888888                 888888          888888
+
+Um cenário ideal para esse tipo de partição é quando as consultas tendem a retornar um
+subconjunto de linhas que geralmente são agrupadas e, não, espalhadas. Por exemplo, consultas
+que filtram dados com base em intervalos curtos de datas são ideais para particionamento
+horizontal, pois o intervalo de datas necessariamente limitará a consulta a apenas um subconjunto
+dos servidores. Nesse caso, cada nó armazenará um subconjunto das linhas da tabela.
+
+Professor, para que utilizar essas técnicas? Porque – quando uma base de dados possui 1 trilhão de
+dados – elas ajudam a melhorar o desempenho e a escalabilidade. Agora tem um problema que
+essas técnicas não resolvem: tolerância a falhas! Note que temos tabelas distribuídas em diversos
+nós, mas – se um nó falhar – nós perdemos os dados. Muito cuidado: bancos de dados distribuídos
+não são necessariamente tolerantes a falhas.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                         25
+        www.estrategiaconcursos.com.br                                                                  74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Veja na imagem anterior que pegamos dados que estavam em uma única máquina, dividimos os
+dados em nove partições e distribuímos por três máquinas. No entanto, se uma das máquinas
+falhar, nós vamos perder dados de três partições. Logo, esse banco de dados distribuídos é tolerante
+a falhas? Não! Por quê? Porque não há redundância de dados, portanto, a falha de uma máquina
+impede o acesso normal aos dados.
+
+Para termos bases de dados tolerantes a falhas, temos que utilizar a técnica de replicação! A
+replicação é o processo de criar cópias dos dados e armazená-los em máquinas diferentes – cada
+uma dessas cópias é normalmente chamada de réplica. Como os dados são replicados de forma
+redundante em várias máquinas, todo o sistema pode tolerar falhas de uma ou mais máquinas, pois
+os usuários podem acessar os dados de uma máquina diferente que funciona normalmente
+
+Orientado a Chave-Valor
+
+Dentre os sistemas de bancos de dados conhecidos como NoSQL, o modelo chave-valor (Key-
+Value) é o mais simples. Sua estrutura constitui-se basicamente de uma lista de pares de valores
+compostos por uma chave e um valor. Esse modelo pode ser comparado com a estrutura de dados
+chamada Tabela Hash, onde valores são associados às chaves de busca que permitem um rápido
+acesso ao seu conteúdo.
+
+Esse modelo de banco de dados não costuma permitir que consultas sejam realizadas sobre os seus
+dados, mas apenas sobre as chaves de busca. Assim, todo o acesso é feito por meio das chaves de
+busca e, apenas com a chave, é possível se ter acesso ao valor. Ele também não agrupa os dados
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  26
+        www.estrategiaconcursos.com.br                                                           74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+por entidades como pode ser visto no modelo relacional. Todo o conteúdo está em apenas uma
+única cadeia.
+
+Em relação ao modelo relacional o modelo chave-valor pode ser comparado da seguinte maneira:
+em ambos os casos eles funcionam em estrutura tabular (forma de tabela) sendo que este último é
+formado por uma única tabela composta por duas colunas: uma correspondente à chave e a outra
+ao valor associado. O campo de chave corresponderia à chave primária no modelo relacional,
+também apresentando a propriedade de unicidade.
+
+Diferentemente do que acontece no modelo relacional, os valores no modelo chave-valor não são
+agrupados por tipos de dados. Neste modelo, os dados estão armazenados em uma única coluna
+de uma mesma tabela. Essas características dos sistemas de dados chave-valor impossibilitam a
+definição de esquemas de dados, apenas os metadados que podem ser incorporados por meio das
+chaves. Logo, guardem essa informação: ele não requer um esquema!
+
+Também não existe a possibilidade ou mesmo necessidade de uso de junções (joins). Essa
+perspectiva torna esse modelo de dados mais simples e com menores tempos de resposta
+permitindo que a capacidade de armazenamento de suas bases de dados seja uma das maiores dos
+sistemas enquadrados no conceito NoSQL. Para ficar mais claro, vamos ver um exemplo de uma
+possível tabela de chave-valor:
+
+                                         CHAVE                       VALOR
+                                          CPF1                111.222.333-44
+                                         NOME1                      Diego
+                                       TELEFONE1                  99999-8888
+                                         LIVRO              Irmãos Karamázov
+                                          ISBN                9788573264098
+                                        QTD_PGS                      1040
+                                          CPF2                555.666.777-88
+                                         NOME2                     Renato
+                                       TELEFONE2                  99999-7777
+
+
+Note que temos dados sobre duas pessoas e dados sobre um livro – e não há distinção explícita
+entre as pessoas ou livros. Além disso, não existe referência de chaves e, consequentemente,
+também não há integridade referencial. Assim, o modelo não dá suporte a relacionamentos entre
+os itens de dados como, por exemplo, o relacionamento de compra de um livro. Somando-se a isso,
+não existe uma linguagem de consulta, ocasionando algumas limitações na capacidade de busca.
+
+Esse modelo também não oferece as propriedades ACID e exigem que os implementadores pensem
+no posicionamento, replicação e tolerância a falhas dos dados, pois não são expressamente
+controlados pela própria tecnologia. Em suma: é um sistema que funciona de forma semelhante
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             27
+        www.estrategiaconcursos.com.br                                                      74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+a um dicionário de palavras, onde os dados são endereçados por uma chave (palavra). Os valores
+são isolados e independentes, e o relacionamento é tratado pela lógica da aplicação.
+
+Este tipo de banco de dados é considerado útil para aplicações em que o processamento das
+transações é baseado em chaves e para aplicações que realizam constantes leituras nos dados.
+Trata-se de uma solução adequada para aplicações simples que funcionam com um único tipo de
+objeto, e esses objetos são baseados em um único atributo. Esse modelo oferece grande
+flexibilidade e escalabilidade e seus principais exemplos são: Redis, Voldemort e BerkeleyDB.
+
+ características                   DESCRIÇÃO de modelos de bancos de dados orientados a chave-valor
+              Sem    Modelos de chave-valor não necessitam definir uma estrutura de tabela ou colunas antes que
+         esquema     os dados sejam armazenados.
+             Fácil   Devido à simplicidade do banco de dados, os dados podem aceitar qualquer tipo de dados, até
+          de usar    mesmo tipos diferentes, quando necessário.
+ rápido tempo de     Seu tempo de resposta é rápido devido à sua simplicidade, visto que o restante ambiente
+        resposta     próximo a ele é muito construído e aprimorado.
+ Escalabilidade e    Os dados são distribuídos em vários nós, o que fornece escalabilidade e melhor disponibilidade.
+  disponibilidade
+
+Orientado a Colunas
+
+Conceitualmente esse modelo é o que mais se assemelha ao modelo relacional, dado que também
+é organizado em linhas e colunas. Por outro lado, essa abordagem é projetada para tratar os
+dados de maneira não normalizada, normalmente não privilegiando a consistência das
+informações. Ainda em oposição ao modelo relacional, o modelo orientado a colunas, como o
+próprio nome sugere, faz uma inversão na organização de seus dados.
+
+Nessa abordagem, os atributos que compõem uma instância são organizados em colunas e as
+linhas passam a conter as ocorrências de determinado atributo para cada instância de dados.
+Dessa forma, as linhas não mais armazenam uma tupla, mas – sim – um conjunto de atributos de
+mesmo tipo, enquanto o conjunto de atributos de uma coluna contém a informação de uma
+instância por completo. Como assim, Diego? Vejam um exemplo...
+
+                                          ARMAZENAMENTO ORIENTADO à LINHA
+ 111.222.333-44, Diego, 99999-8888; 555.666.777-88, Renato, 99999-7777
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                   28
+        www.estrategiaconcursos.com.br                                                                            74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                                        ARMAZENAMENTO ORIENTADO à coluna
+ 111.222.333-44, 555.666.777-88; Diego, Renato; 99999-8888, 99999-7777
+
+
+Note que existe uma inversão na orientação de armazenamento dos dados do modelo relacional
+para o modelo em colunas. Enquanto no modelo relacional os atributos referentes a uma tupla
+de dados são organizados juntos (CPF, Nome, Telefone), no modelo orientado a colunas os
+atributos de uma mesma categoria são priorizados – vejam que temos dois CPFs, depois dois
+nomes e depois dois números de telefone.
+
+Na prática isso permite que consultas que façam análises em subconjuntos de dados possam
+ser mais eficientes, porém a obtenção de itens inteiros passa a ser mais custosa. Essa diferença
+ocorre pelo esforço necessário para se percorrer as informações necessárias. Para analisar os
+valores de determinado atributo, o banco de dados efetua uma consulta semelhante à obtenção
+dos atributos de uma linha no modelo relacional.
+
+Já para resgatar uma instância de dados seria equivalente a consultar no modelo relacional se em
+cada linha de dados existe uma coluna com determinado valor. Além da inversão na orientação dos
+dados, o modelo em colunas também apresenta nomenclaturas diferentes para alguns conceitos.
+Nesse modelo, as instâncias de uma entidade fazem parte da mesma família de colunas e não
+de tabelas como é conhecido no relacional.
+
+Em uma família de colunas, é possível a existência de atributos não atômicos, quando são
+possíveis mais de um valor por meio de listas. Além disso, nas famílias de colunas, as instâncias
+podem apresentar quantidades de atributos diferentes, não sendo necessário reservar espaços de
+armazenamento para valores nulos.
+
+Apesar do modelo em colunas facilitar a execução de consultas em um subconjunto de dados, os
+sistemas dessa abordagem não permitem consultas com a junção de famílias de colunas. Nesses
+casos, é preferível que informações que necessitem ser resgatadas unidas estejam na mesma
+família de coluna. Isso se deve ao fato desse modelo de dados não dar suporte ao uso de chaves
+estrangeiras, não sendo possível fazer referências de uma instância para outra.
+
+Em suma: cada linha de dados não necessita possuir o mesmo grau, ou seja, pode ter um número
+variável de colunas, e devido a esta característica, esse modelo tem dados espaçados. As colunas
+de uma tabela estão divididas sobre os nós usando o conceito de grupos de colunas. Grupos de
+colunas são uma maneira simples dos usuários indicarem quais colunas devem ser armazenadas
+juntas.
+
+Este modelo é adequado para aplicações que tratam com grandes volumes de dados, de modo
+que o modelo de dados pode ser eficientemente particionado. Trata-se de um modelo adequado
+quando se deseja otimizar a leitura de dados estruturados, pois mantém dados de forma contígua
+
+        Receita Federal (Analista Tributário) Fluência em Dados                               29
+        www.estrategiaconcursos.com.br                                                        74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+por coluna. Ademais, são apropriados para propósitos analíticos porque eles podem tratar com
+colunas específicas. Os principais exemplos desse modelo são: Cassandra, HBase e BigTable.
+
+ características                     DESCRIÇÃO de modelos de bancos de dados orientados a colunas
+  Otimizado para    Modelos orientados a colunas são otimizados para legibilidade, permitindo leituras mais rápidas
+     legibilidade   e eficientes.
+      Altamente     Modelos orientados a colunas são altamente escaláveis e podem acomodar grandes conjuntos
+       escalável    de dados de forma rápida e fácil.
+ Modelo de dados    A flexibilidade do modelo de dados de um modelo orientado a colunas permite alterações de
+         flexível   esquema mais rápidas e fáceis.
+            Baixa   Os modelos orientados a colunas oferecem baixa latência ao consultar dados, pois os dados
+        latência    podem ser armazenados em várias colunas em vez de uma longa linha.
+             Alta   Os modelos orientados a colunas geralmente são projetados para alta disponibilidade e podem
+  disponibilidade   ser replicados em vários nós.
+
+
+Orientado a Documentos
+
+Assim como o modelo em chave-valor, o modelo em documentos também faz uso de associações
+entre pares chaves e valores, porém, nesse último, os dados não são dispostos em uma única
+estrutura de dados. Neste modelo, os dados de uma entidade são agrupados em documentos
+que podem seguir, por exemplo, a codificação XML (Extensible Markup Language) ou JSON
+(JavaScript Object Notation).
+
+Podemos afirmar que um documento é uma coleção de chaves e valores que está relacionado a uma
+instância de dados. As chaves dentro dos documentos são únicas e cada documento contém um
+identificador, que é único dentro do conjunto. Em geral, o banco de dados orientado a documentos
+não possui esquema: o documento não precisa ter uma estrutura comum. Esse modelo permite que
+documentos de uma mesma coleção de dados possam apresentar campos distintos uns dos outros.
+
+Vamos ver um exemplo: temos um arquivo em formato JSON. Note que temos um campo e seu
+valor correspondente separados por dois-pontos. Perceba também que esse modelo permite
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                  30
+        www.estrategiaconcursos.com.br                                                                           74
+
+                                    
+
+
+---
+
+     Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+     Aula 10
+
+representar campos multivalorados (com mais de um valor), como o campo Telefones. O modelo
+orientado a documentos geralmente suporta índices e diversos tipos de documentos (objetos) por
+banco de dados, além de documentos aninhados ou listas.
+
+Ele é de fácil manutenção, sendo adequado para aplicações web que precisam executar
+consultas dinâmicas, tais como aplicações de análise em tempo real e blogs. O que seria uma
+consulta dinâmica, Diego? Um exemplo é quando se tem diferentes tipos de objetos e é necessário
+pesquisar objetos com base em múltiplos campos. Os principais bancos de dados orientados a
+documentos são: MongoDB, CouchDB e Riak.
+
+{
+          cpf: “11122233344”,
+          nome: “Diego”,
+          telefone: “999998888”
+}
+{
+          cpf: “55566677788”,
+          nome: “Renato”,
+          Telefones: [
+               {telefone: “999997777”},
+               {telefone: “999996666”}
+          ]
+}
+
+    características                   DESCRIÇÃO de modelos de bancos de dados orientados a documentos
+    Modelo de dados   Modelos orientados a documentos são mais flexíveis do que os bancos de dados relacionais
+           flexível   tradicionais, pois não têm esquemas e podem acomodar dados com estruturas variadas.
+               Alta   Modelos orientados a documentos são altamente escaláveis e podem acomodar conjuntos de
+     escalabilidade   dados maiores com facilidade.
+               Alto   Modelos orientados a documentos são muito eficientes em termos de recuperação de dados e
+       desempenho     fornecem alto desempenho.
+
+           Receita Federal (Analista Tributário) Fluência em Dados                                          31
+           www.estrategiaconcursos.com.br                                                                   74
+
+                                       
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+             Alta Modelos orientados a documentos são altamente disponíveis e podem lidar com várias
+  disponibilidade solicitações simultâneas.
+                    Modelos orientados a documentos são relativamente fáceis de usar, pois usam uma linguagem
+    Fácil de usar
+                    de consulta simples para manipulação de dados.
+
+
+Orientado a Grafos
+
+Dentre os modelos classificados como NoSQL, o orientado a grafo é o que mais se distancia dos
+demais. Enquanto as outras abordagens têm seu foco no armazenamento dos dados, esse
+modelo tem como destaque principal os relacionamentos que ocorrem entre as entidades de
+sua base. Os bancos de dados que seguem essa abordagem possuem três tipos de informações: os
+nós, arestas (também chamadas de arcos) e propriedades.
+
+Os nós correspondem às instâncias de dados (como as tuplas para o modelo relacional), as arestas
+se referem aos relacionamentos mantidos entre as instâncias dos nós, enquanto as propriedades
+dizem respeito aos valores de dados contidos nas instâncias, podendo assumir valores como:
+booleanos, inteiros, caracteres e conjunto de valores. O uso desses conceitos se deve ao fato
+dessa abordagem estar baseada na teoria dos grafos.
+
+Com isso, o banco de dados permite que as instâncias de dados (nós) possam estabelecer
+relacionamentos uns com os outros por meio das arestas que assim como os nós também podem
+conter propriedades que o descrevem. Além das propriedades, os nós e arestas podem conter
+rótulos que os classificam em grupos mais específicos. Esses rótulos poderiam funcionar como um
+metadado. Como assim, Diego?
+
+Imagine que temos dados de um vendedor e de um cliente. Como saber se os dados se referem a um
+ou a outro? Os rótulos podem ser usados para diferenciarem as instâncias em vendedor ou
+cliente e, nas arestas, eles servem para determinar o tipo de relacionamento que está
+ocorrendo como, por exemplo, a venda ou o aluguel de um livro. Vejam na imagem seguinte um
+exemplo de um grafo com seus nós, arestas e propriedades:
+
+Diferentemente dos demais modelos, o modelo em grafo, além de dar suporte a referências,
+também garante a integridade referencial, assegurando que o nó de entrada sempre faça
+referência ao nó de saída. As chaves de acesso aos nós são definidas automaticamente pelo
+sistema de banco de dados. No entanto, é possível estabelecer restrições de unicidade para demais
+propriedades do nó. Os principais exemplos desse modelo são: Neo4j, AllegroGraph e Virtuoso.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                            32
+        www.estrategiaconcursos.com.br                                                                     74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+ características                     DESCRIÇÃO de modelos de bancos de dados orientados a grafos
+             Sem    São projetados para armazenar dados sem esquema predefinido, permitindo modelos de dados
+        esquema     flexíveis e evolução do esquema.
+      Altamente     Seguindo as relações entre os dados, os bancos de dados orientados a grafos podem facilmente
+      conectado     percorrer e consultar dados conectados de maneiras complexas.
+      Altamente     Permitem o dimensionamento de dados com facilidade e a capacidade de adicionar
+       escalável    rapidamente mais nós e relacionamentos.
+  Desempenho de     Projetados para consultar rapidamente dados com relacionamentos complexos e acessar os
+ consulta rápida    dados em uma fração do tempo dos bancos de dados tradicionais.
+                    Podem acessar dados rapidamente e responder em um ambiente de baixa latência, permitindo
+   Baixa latência
+                    aplicações em tempo real.
+
+
+Propriedades ACID/BASE
+                                                                                         INCIDÊNCIA EM PROVA: baixíssima
+
+Edgar Codd introduziu o modelo relacional na década de 70 com o objetivo principal de superar
+questões relativas ao suporte, à independência e integridade dos dados nos Sistemas
+Gerenciadores de Banco de Dados (SGBD). Naquela época, devido aos problemas de falta de
+integridade dos dados era necessário desenvolver programas complexos para responder a uma
+simples consulta.
+
+Assim, houve uma boa aceitação dos usuários e da comunidade acadêmica, devido a simplicidade
+e praticidade do modelo relacional e o seu embasamento teórico, que engloba conceitos como as
+propriedades de atomicidade, consistência, isolamento e durabilidade das transações. Por outro
+lado, há um trade-off: se todas as transações precisarem ser confirmadas e verificadas quanto à
+consistência, bancos de dados serão lentos na leitura e gravação de dados.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                     33
+        www.estrategiaconcursos.com.br                                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Além disso, eles exigem mais esforço para armazenar novos dados em novos formatos. Na química,
+a base (BASE) é o oposto do ácido (ACID). Aqui é semelhante: o BASE oferece vários benefícios
+em relação aos bancos de dados compatíveis com ACID, pois eles se concentram mais
+intensamente na disponibilidade de dados de sistemas de banco de dados sem garantia de
+segurança contra falhas ou inconsistências de rede. Vamos ver um pouco melhor os dois:
+
+ACID (Atomicity, Consistency, Isolation, Durability) é um conjunto de propriedades que as transações
+do banco de dados devem seguir para garantir a integridade/confiabilidade dos dados.
+
+  Propriedades acid                                               descrição
+                      Requer que todas as operações de banco de dados que formam uma transação sejam todas
+        Atomicidade
+                      bem-sucedidas ou todas falhem.
+                      Requer que qualquer transação leve o banco de dados de um estado válido para outro.
+       Consistência
+                      Garante que a execução simultânea de transações não afete os resultados de nenhuma das
+         Isolamento
+                      transações.
+                      Afirma que os resultados de uma transação devem persistir mesmo se o sistema falhar.
+       durabilidade
+
+
+De acordo com o livro Geomar André Schreiner (Banco de Dados para Big Data), as propriedades
+de transações ACID tornam o trabalho do desenvolvedor de aplicações muito mais simples. No
+entanto, apesar de muito desejáveis, essas propriedades criam dificuldades ao se distribuir o
+banco de dados. Quando um banco de dados relacional cresce além da capacidade de um único
+nó, é preciso se optar por escalabilidade vertical ou horizontal.
+
+A escalabilidade vertical não é uma opção para sistemas que lidam com grandes volumes de
+dados. Assim, a opção é escalar horizontalmente, e nesse caso há duas formas de se particionar os
+dados. A primeira é o particionamento funcional, que consiste em distribuir as tabelas pelos nós de
+acordo com as funcionalidades do sistema que elas atendem, por exemplo, um nó pode conter as
+tabelas relacionadas a usuários e outro pode conter as tabelas relacionadas à cobrança.
+
+O segundo tipo, chamado sharding, ocorre quando uma tabela está dividida em mais de um nó.
+Quando essa técnica é utilizada, os dados são espalhados por nós de acordo com um critério
+arbitrário qualquer, como a inicial do nome do usuário em uma tabela de usuários, por exemplo. Ao
+se aplicar sharding em um banco de dados, mesmo com a falha de um nó, o sistema continua
+funcionando para todas as operações que não dependam dos dados contidos naquele nó.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                           34
+        www.estrategiaconcursos.com.br                                                                    74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+A desvantagem dessa estratégia é que o banco de dados perde parte da sua capacidade de lidar
+com restrições dos dados, além de não serem mais capazes de realizar joins transparentemente.
+Com isso, os bancos de dados relacionais deixam de oferecer algumas de suas principais
+funcionalidades para o desenvolvedor de aplicações, que passa a ter que fazer esses
+tratamentos no nível da aplicação.
+
+Partições de rede são raras, mas ocorrem de tempos em tempos em sistemas largamente
+distribuídos (sistemas distribuídos por vários datacenters, por exemplo). A partir dessa
+constatação, para essa categoria de sistemas, é necessário escolher entre disponibilidade e
+consistência. Dada a natureza das aplicações Web 2.0, elas costumam optar por disponibilidade
+quando for possível tolerar alguma inconsistência temporária. Aí é que entra o BASE!
+
+BASE (Basically Available, Soft State, Eventually Consistent): trata-se de um conjunto de
+propriedades utilizadas em bancos de dados não relacionais de sistemas distribuídos. Ele significa
+Basicamente Disponível, Estado Suave e Eventualmente Consistente, mas o termo não descreve
+exatamente as propriedades como as definidas pelo ACID – ele apenas indica que se deve planejar
+sistemas de forma a tolerar inconsistências temporárias quando se quer priorizar disponibilidade.
+
+  Propriedades base                                               descrição
+       Basicamente    Significa que o sistema sempre aceitará solicitações, mesmo que não seja capaz de processá-
+         disponível   las imediatamente.
+             Estado   Significa que o sistema não precisa manter um estado constante e pode eventualmente
+              suave   convergir para um estado consistente.
+     Eventualmente    Significa que o sistema pode não responder a uma solicitação imediatamente, mas
+        consistente   eventualmente convergirá para um estado consistente.
+
+Teorema CAP
+                                                                                         INCIDÊNCIA EM PROVA: baixíssima
+
+Uma vez introduzidos os modelos de dados NoSQL, muitos são induzidos a pensar que a proposta
+desses novos sistemas de bancos de dados vem em substituição aos baseados no Modelo
+Relacional. Porém, é de extrema importância mencionar que os bancos de dados NoSQL vêm para
+solucionar uma nova e diferente demanda de necessidades de manipulação de dados. Cada modelo
+NoSQL trata os dados de maneira pontual e não devem ser usados indistintamente.
+
+Baseado nesses estudos foi desenvolvida uma teoria conhecida como Teorema CAP (sigla em
+inglês para Consistency, Availability, Partition Tolerance). Nesse teorema, é admitida a
+inviabilidade de que um sistema de computação possa oferecer a consistência, disponibilidade e
+tolerância de partição ao mesmo tempo em um dado momento, sendo apenas possível a garantia
+de duas das propriedades por vez. Atenção a esse ponto...
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                     35
+        www.estrategiaconcursos.com.br                                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+As estratégias de manipulação de dados dos bancos de dados tentam englobar três conceitos
+fundamentais. Vejamos...
+
+     CARACTERÍSTICA                                               descrição
+                     Significa que todos os clientes veem os mesmos dados ao mesmo tempo, não importa em
+                     qual nó eles se conectem. Para que isso aconteça, sempre que os dados forem gravados em
+        Consistência
+                     um nó, ele deve ser instantaneamente encaminhado ou replicado para todos os outros nós
+                     do sistema antes que a gravação seja considerada "bem-sucedida".
+                     Significa que qualquer cliente que fizer uma solicitação de dados obterá uma resposta,
+                     mesmo que um ou mais nós estejam desativados. Ou seja, todos os nós em funcionamento
+     Disponibilidade
+                     no sistema distribuído retornam uma resposta válida para qualquer solicitação, sem exceção.
+
+                      A partição é uma quebra de comunicações dentro de um sistema distribuído, uma conexão
+      Tolerância de perdida ou temporariamente lenta entre dois nós. Tolerância de partição significa que o
+    partição (falha) cluster deve continuar a funcionar mesmo de ocorrer uma ou mais falhas de comunicação
+                      entre os nós no sistema.
+
+
+Ao longo dos anos, os sistemas computacionais funcionavam em sua maioria em ambientes únicos
+(ou distribuídos em poucos servidores). Além disso, esses sistemas tratavam de dados quantitativos
+dos quais situações como dois usuários obterem valores diferentes para a mesma informação não
+poderia ser admitida em hipótese alguma. A garantia de que as informações não sofreriam
+mutações era mais relevante do que o prejuízo da queda do sistema por uma eventual falha.
+
+Os sistemas de bancos de dados NoSQL que vêm como soluções para as novas demandas de
+problemas, assumem posturas diferentes para resolverem os problemas propostos. Enquanto os
+sistemas de bancos de dados relacionais seguem os padrões do modelo relacional, no domínio
+NoSQL é possível perceber que mesmo ferramentas pertencentes a modelos de dados
+semelhantes podem oferecer princípios diferentes.
+
+Algumas soluções de sistemas gerenciadores de banco de dados orientados a chave valor aplicam
+um maior esforço para garantir a disponibilidade (CAP) sobre as requisições recebidas e a tolerância
+de partição (CAP) em casos de problemas. Um exemplo de implementação dessa abordagem seria
+o SGBD DynamoDB – ele é geralmente utilizado com aplicações que precisam estar disponíveis em
+tempo oportuno.
+
+Em muitos casos, bancos de dados distribuídos sacrificam a consistência, permitindo que as
+transações ocorram e que a sincronização dos dados venha a ser estabelecida em um momento
+posterior. Outra vertente do modelo chave-valor (Ex: Redis) está focada em oferecer alta
+consistência (CAP) e tolerância de partição (CAP). Essa perspectiva faz com que um sistema
+particionado possa suspender a escrita em um de seus nós caso haja um conflito.
+
+Isso garante o funcionamento da aplicação e evita inconsistências. Se dentro do mesmo modelo
+de dados os sistemas NoSQL podem divergir de tal forma, pondo em perspectiva modelos
+diferentes, essas mudanças são ainda maiores. Atualmente, os sistemas de bancos de dados
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                               36
+        www.estrategiaconcursos.com.br                                                                        74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+NoSQL são classificados com base nas duas características do CAP que oferecem. Vejamos abaixo
+a descrição desses tipos junto com o diagrama que representa o Teorema CAP:
+
+    Bancos de dados                                               descrição
+                    Entrega consistência e tolerância de partição em detrimento da disponibilidade. Quando
+     Banco de dados uma partição ocorre entre dois nós quaisquer, o sistema deverá desativar o nó não
+                    consistente (ou seja, torná-lo indisponível) até que a partição seja resolvida.
+                 cp
+
+                    Entrega disponibilidade e tolerância de partição em detrimento da consistência. Quando
+     Banco de dados ocorre uma partição, todos os nós permanecem disponíveis, exceto aqueles na extremidade
+                    errada de uma partição podem retornar uma versão mais antiga de dados do que outros.
+                 ap Quando a partição é resolvida, os bancos de dados AP geralmente ressincronizam os nós
+                    para corrigir todas as inconsistências no sistema.
+                    Entrega consistência e disponibilidade em todos os nós. Porém, isso não é possível se houver
+     Banco de dados uma partição entre dois nós quaisquer no sistema, no entanto, e, portanto, não poderá
+                    entregar tolerância a falhas.
+                 ca
+
+Atenção: em um sistema distribuído, partições não podem ser evitadas. Por isso, enquanto
+podemos discutir um banco de dados distribuído CA em teoria, para todos os efeitos práticos, um
+banco de dados distribuído CA não pode existir. No entanto, isso não significa que você não pode
+ter um banco de dados CA para a sua aplicação distribuída se você precisar de um. Muitos bancos
+de dados relacionais, como o PostgreSQL, entregam consistência e disponibilidade e podem ser
+implementados em múltiplos nós usando replicação.
+
+
+Arquitetura de Big Data
+                                                                                        INCIDÊNCIA EM PROVA: baixíssima
+
+Uma arquitetura de Big Data é projetada para lidar com a ingestão (consumo), processamento
+e análise de dados que são muito grandes ou complexos para sistemas de banco de dados
+tradicionais. O limite no qual as organizações entram no domínio do Big Data é diferente,
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                    37
+        www.estrategiaconcursos.com.br                                                                             74
+
+                                    
+
+
+---
+
+      Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+      Aula 10
+
+dependendo dos recursos dos usuários e de suas ferramentas. Para alguns, pode significar centenas
+de gigabytes de dados, enquanto para outros significa centenas de terabytes.
+
+À medida que as ferramentas para trabalhar com grandes conjuntos de dados avançam, o mesmo
+acontece com o significado de Big Data. Cada vez mais, esse termo se relaciona com o valor que
+você pode extrair de seus conjuntos de dados por meio de análises avançadas, em vez de
+estritamente o tamanho dos dados, embora nesses casos eles tendam a ser bem grandes. Ao longo
+dos anos, o que você pode fazer, ou espera-se que faça, com os dados mudou.
+
+O custo do armazenamento caiu drasticamente, enquanto os meios pelos quais os dados são
+coletados continuam crescendo. Alguns dados chegam em ritmo acelerado, exigindo
+constantemente serem coletados e observados. Outros dados chegam mais lentamente, mas em
+pedaços muito grandes, muitas vezes na forma de décadas de dados históricos. Você pode estar
+enfrentando um problema de análise avançada ou um que exija aprendizado de máquina.
+
+Esses são desafios que as arquiteturas de Big Data buscam resolver. As soluções de Big Data
+geralmente envolvem um ou mais dos seguintes tipos de carga de trabalho: processamento em
+lote de fontes de Big Data em repouso; processamento em tempo real de Big Data em
+movimento; exploração interativa de Big Data; análise preditiva e aprendizado de máquina.
+Considere arquiteturas de big data quando precisar:
+
+▪ Armazenar e processar dados em volumes muito grandes para um banco de dados tradicional.
+▪ Transformar dados não estruturados para análise e emissão de relatórios.
+▪ Capturar, processar e analisar fluxos ilimitados de dados em tempo real ou com baixa latência.
+
+O diagrama anterior mostra os componentes lógicos que se encaixam em uma arquitetura de Big
+Data4. A maioria das arquiteturas de Big Data inclui alguns ou todos os seguintes componentes:
+
+4
+    Soluções individuais podem não conter todos os itens deste diagrama
+
+             Receita Federal (Analista Tributário) Fluência em Dados                          38
+             www.estrategiaconcursos.com.br                                                   74
+
+                                                
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 10
+
+  COMPONENTES                                                    DESCRIÇÃO
+                Todas as soluções de big data começam com uma ou mais fontes de dados, tais como:
+                armazenamentos de dados de aplicações, como bancos de dados relacionais; arquivos estáticos
+Fontes de Dados produzidos por aplicações, como arquivos de log do servidor web; fontes de dados em tempo
+                real, como dispositivos IoT.
+
+              Os dados para operações de processamento em lote geralmente são armazenados em um
+              armazenamento de arquivos distribuído que pode conter grandes volumes de arquivos grandes
+              em vários formatos estruturados ou não – esse tipo de armazenamento geralmente é chamado
+Armazenamento de Data Lake.
+      de dados
+                 As opções para implementar esse armazenamento incluem o Repositório Azure Data Lake ou
+                 contêineres de BLOB no Armazenamento do Azure.
+
+                 Como os conjuntos de dados são gigantescos, geralmente uma solução de Big Data deve
+                 processar arquivos de dados em lote de longa duração para filtrar, agregar e, de outra forma,
+                 preparar os dados para análise. Normalmente, esses trabalhos envolvem a leitura de arquivos de
+Processamento    origem, processá-los e gravar a saída em novos arquivos.
+       em Lote As opções incluem a execução de trabalhos U-SQL no Azure Data Lake Analytics, o uso de
+                 trabalhos Hive, Pig ou Map/Reduce personalizados em um cluster Hadoop do HDInsight ou o uso
+                 de programas Java, Scala ou Python em um cluster HDInsight Spark.
+
+               Se a solução incluir fontes em tempo real (real-time), a arquitetura deverá incluir uma maneira
+               de capturar e armazenar mensagens online para processamento de fluxo. Isso pode ser um
+               armazenamento de dados simples, onde as mensagens de entrada são descartadas em uma
+               pasta para processamento. No entanto, muitas soluções precisam de um armazenamento de
+   Ingestão de ingestão (consumo) de mensagens para atuar como um buffer para mensagens e para oferecer
+ mensagens em suporte ao processamento de expansão, entrega confiável e outras semânticas de
+    tempo real enfileiramento de mensagens. Essa parte de uma arquitetura de streaming é geralmente
+               chamada de buffer de fluxo.
+
+                 As opções incluem Hubs de Eventos do Azure, Hub IoT do Azure e Kafka.
+
+                 Depois de capturar mensagens em tempo real, a solução deve processá-las, filtrando, agregando
+                 e preparando os dados para análise – os dados de fluxo processados são gravados em um coletor
+                 de saída.
+Processamento
+               O Azure Stream Analytics fornece um serviço de processamento de fluxo gerenciado com base
+      em Fluxo em consultas SQL em execução perpétua que operam em fluxos ilimitados. Você também pode
+                 usar tecnologias de streaming Apache de código aberto, como Storm e Spark Streaming, em um
+                 cluster HDInsight.
+
+              Muitas soluções de Big Data preparam dados para análise e, em seguida, servem os dados
+              processados em um formato estruturado que pode ser consultado usando ferramentas
+Armazenamento analíticas.
+      de Dados
+     Analíticos O armazenamento de dados analíticos usado para atender a essas consultas pode ser em um
+                 Data Warehouse Relacional no estilo Kimball ou, como alternativa, os dados podem ser
+                 apresentados por meio de uma tecnologia NoSQL de baixa latência, como o HBase, ou um banco
+
+       Receita Federal (Analista Tributário) Fluência em Dados                                               39
+       www.estrategiaconcursos.com.br                                                                        74
+
+                                   
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                  de dados Hive interativo que fornece uma abstração de metadados sobre arquivos de dados no
+                  armazenamento de dados distribuído. O Azure Synapse Analytics fornece um serviço
+                  gerenciado para Data Warehouse baseado em nuvem em larga escala. O HDInsight oferece
+                  suporte ao Interactive Hive, HBase e Spark SQL, que também podem ser usados para fornecer
+                  dados para análise.
+
+                  O objetivo da maioria das soluções de big data é fornecer insights sobre os dados por meio de
+                  análises e relatórios.
+
+                 Para capacitar os usuários a analisar os dados, a arquitetura pode incluir uma camada de
+                 modelagem de dados, como um cubo OLAP multidimensional ou um modelo de dados tabular
+       Análise e no Azure Analysis Services. Ele também pode oferecer suporte a BI de autoatendimento, usando
+                 as tecnologias de modelagem e visualização no Microsoft Power BI ou no Microsoft Excel. A
+     Relatórios análise e os relatórios também podem assumir a forma de exploração interativa de dados por
+                 cientistas de dados ou analistas de dados. Para esses cenários, muitos serviços do Azure dão
+                 suporte a blocos de anotações analíticos, como o Jupyter, permitindo que esses usuários
+                 aproveitem suas habilidades existentes com Python ou R. Para exploração de dados em larga
+                 escala, você pode usar o Microsoft R Server, autônomo ou com o Spark.
+
+                  A maioria das soluções de big data consiste em operações repetidas de processamento de dados,
+                  encapsuladas em fluxos de trabalho, que transformam dados de origem, movem dados entre
+                  várias fontes e coletores, carregam os dados processados em um armazenamento de dados
+                  analíticos ou enviam os resultados diretamente para um relatório ou painel.
+  Orquestração
+                  Para automatizar esses fluxos de trabalho, você pode usar uma tecnologia de orquestração,
+                  como o Azure Data Factory ou o Apache Oozie e o Sqoop.
+
+Arquitetura Lambda
+
+Ao trabalhar com conjuntos de dados muito grandes, pode-se levar muito tempo para executar o
+tipo de consultas de que os clientes precisam. Essas consultas não podem ser executadas em tempo
+real e geralmente exigem algoritmos como o MapReduce, que operam em paralelo em todo o
+conjunto de dados. Os resultados são, então, armazenados separadamente dos dados brutos e
+usados para consulta.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                              40
+        www.estrategiaconcursos.com.br                                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Uma desvantagem dessa abordagem é que ela introduz latência: se o processamento levar
+algumas horas, uma consulta poderá retornar resultados com várias horas. Idealmente, obtêm-se
+alguns resultados em tempo real (talvez com alguma perda de precisão) e combinam-se esses
+resultados com os resultados da análise em lote. A arquitetura lambda aborda esse problema
+criando dois caminhos para o fluxo de dados em que passam todos os dados que entram no sistema:
+
+                 Responsável por armazenar e processar todos os dados do sistema em sua forma bruta. Trata-se
+     Camada de   de um armazenamento distribuído, tolerante a falhas, imutável (append-only) que armazena
+                 todos os dados no sistema, incluindo dados históricos – o resultado é armazenado como uma
+          LOTE   exibição em lote. Ele é usado para gerar um conjunto de dados mestre atualizado que pode ser
+                 consultado pelas camadas de velocidade e serviço.
+                 Responsável por processar pequenos fluxos de dados e consultas em tempo real. Essa camada é
+    Camada de    responsável por fornecer acesso quase em tempo real aos dados usando tecnologias de
+                 processamento de fluxo. Ela é normalmente usada para processar eventos à medida que ocorrem
+    VELOCIDADE   e disponibilizar os resultados para consulta ou análise. Por fim, pode-se afirmar que ela reduz a
+                 latência em detrimento da precisão dos dados.
+                 Responsável por fornecer acesso de baixa latência às visualizações de dados pré-processadas
+     Camada de   para realização de consultas mais eficientes. É a camada que fornece os resultados da consulta
+                 aos consumidores de dados. Ela é normalmente um sistema somente leitura que responde com
+       SERVIÇO   eficiência às consultas. As tecnologias comuns usadas nas camadas de serviço são índices de
+                 pesquisa, caches distribuídos e bancos de dados na memória.
+
+
+Conforme é possível ver no diagrama apresentado, a camada de lote alimenta uma camada de
+serviço que indexa a exibição em lote para consultas eficientes. A camada de velocidade atualiza
+a camada de serviço com atualizações incrementais com base nos dados mais recentes. Os dados
+que fluem para o caminho quente são limitados pelos requisitos de latência impostos pela camada
+de velocidade, para que possam ser processados o mais rápido possível.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                 41
+        www.estrategiaconcursos.com.br                                                                          74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Muitas vezes, isso requer uma troca de algum nível de precisão em favor de dados que estejam
+prontos o mais rápido possível. Por exemplo: considere um cenário de IoT (Internet of Things ou
+Internet das Coisas) em que um grande número de sensores de temperatura está enviando dados
+de telemetria. A camada de velocidade pode ser usada para processar os dados recebidos pelo
+caminho quente (hot path).
+
+Por outro lado, os dados que fluem para o caminho frio (cold path) não estão sujeitos aos mesmos
+requisitos de baixa latência. Isso permite a computação de alta precisão em grandes conjuntos de
+dados, o que pode consumir muito tempo. Eventualmente, os caminhos quentes e frios convergem
+para a aplicação cliente de análise. Se o cliente precisar exibir dados oportunos, mas
+potencialmente menos precisos em tempo real, ele adquirirá seu resultado do caminho quente.
+
+Caso contrário, ele selecionará os resultados do caminho frio para exibir dados menos oportunos,
+mas mais precisos. Em outras palavras, o caminho quente tem dados para uma janela de tempo
+relativamente pequena, após a qual os resultados podem ser atualizados com dados mais precisos
+do caminho frio. Os dados brutos armazenados na camada de lote são imutáveis. Dados de
+entrada são sempre acrescentados aos dados existentes e dados anteriores nunca são substituídos.
+
+Quaisquer alterações no valor de um dado específico são armazenadas como um novo registro de
+evento com carimbo de data/hora. Isso permite o recálculo a qualquer momento ao longo do
+histórico dos dados coletados. A capacidade de recalcular a exibição em lote a partir dos dados
+brutos originais é importante, pois permite que novas exibições sejam criadas à medida que o
+sistema evolui. Uma outra forma de visualizar a Arquitetura Lambda:
+
+Arquitetura Kappa
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              42
+        www.estrategiaconcursos.com.br                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Uma desvantagem da arquitetura lambda é a sua complexidade. A lógica de processamento
+aparece em dois lugares diferentes — os caminhos frios e quentes — usando estruturas diferentes.
+Isso leva à lógica de computação duplicada e à complexidade do gerenciamento da arquitetura para
+ambos os caminhos. É nesse momento que surge a Arquitetura Kappa: proposta por Jay Kreps, é
+como uma alternativa à arquitetura lambda.
+
+Ela tem os mesmos objetivos básicos que a arquitetura lambda, mas com uma distinção
+importante: todos os dados fluem através de um único caminho, usando um sistema de
+processamento de fluxo. Existem algumas semelhanças com a camada de lote da arquitetura
+lambda, na medida em que os dados do evento são imutáveis e todos eles são coletados, em vez de
+um subconjunto. No entanto, ela não realiza processamento em lote (batch).
+
+Os dados são consumidos como um fluxo de eventos em um log unificado distribuído e tolerante a
+falhas. Esses eventos são ordenados e o estado atual de um evento é alterado somente por um novo
+evento que esteja sendo acrescentado. Semelhante à camada de velocidade de uma arquitetura
+lambda, todo o processamento de eventos é executado no fluxo de entrada e persiste como
+uma exibição em tempo real.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              43
+        www.estrategiaconcursos.com.br                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Para recalcular todo o conjunto de dados (como a camada de lote faz no lambda), basta reproduzir
+o fluxo, normalmente usando paralelismo para concluir a computação em tempo hábil. A
+arquitetura Kappa veio para resolver alguns problemas da Arquitetura Lambda por meio da
+eliminação da Camada de Lote (Batch). Essa camada, diferentemente da camada de lote, não tem
+começo nem fim do ponto de vista temporal.
+
+Ela está continuamente processando novos dados à medida que chegam. Como um processo
+em lote pode ser entendido como um fluxo (streaming) limitado, poderíamos dizer que o
+processamento em lote é um subconjunto do processamento de streaming. Essa evolução consiste
+em uma simplificação da Arquitetura Lambda, que dá suporte tanto ao processamento batch
+quanto ao processamento em tempo real. Uma outra forma de visualizar a Arquitetura Kappa:
+
+A Arquitetura Lambda é mais adequada para tarefas que podem lidar com atrasos e não exigem
+processamento em tempo real, enquanto a Arquitetura Kappa é mais adequada para tarefas
+que exigem processamento em tempo real. Além disso, com diferentes camadas na Arquitetura
+Lambda (Speed Layer, Batch Layer e Presentation Layer), você precisa usar diferentes ferramentas
+e linguagens de programação.
+
+Isso leva à complexidade do código e ao risco de você acabar tendo versões inconsistentes de seus
+recursos de processamento. Uma alteração na lógica em uma camada também requer alterações
+na outra camada. A complexidade é algo que queremos remover de nossa arquitetura em todos os
+momentos – inclusive no processamento de dados. Já a Arquitetura Kappa veio com a promessa
+de colocar tudo em um único sistema: o Apache Kafka.
+
+A velocidade com que os dados podem ser processados é tremenda e a simplicidade é maior.
+Você só precisa alterar o código uma vez e diversas em comparação com o Lambda. Isso também
+leva a custos de mão-de-obra mais baratos, já que menos pessoas são necessárias para manter e
+produzir código. Além disso, todos os nossos dados estão disponíveis rapidamente, sem grandes
+atrasos, como acontece com o processamento em lote.
+
+Arquitetura IoT
+
+Do ponto de vista prático, a Internet das Coisas (IoT) representa qualquer dispositivo conectado
+à Internet. Isso inclui seu PC, telefone celular, relógio inteligente, termostato inteligente, geladeira
+inteligente, automóvel conectado, implantes de monitoramento cardíaco e qualquer outra coisa
+que se conecte à Internet e envie ou receba dados. O número de dispositivos conectados cresce a
+cada dia, assim como a quantidade de dados coletados deles.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      44
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Muitas vezes, esses dados estão sendo coletados em ambientes altamente restritos, às vezes de
+alta latência. Em outros casos, os dados são enviados de ambientes de baixa latência por milhares
+ou milhões de dispositivos, exigindo a capacidade de consumir rapidamente os dados e processá-
+los de acordo. Logo, o planejamento adequado é necessário para lidar com essas restrições e
+requisitos exclusivos. As arquiteturas orientadas a eventos são fundamentais para soluções de IoT.
+
+O diagrama a seguir mostra uma possível arquitetura lógica para IoT e enfatiza os componentes de
+fluxo de eventos da arquitetura:
+
+O gateway de nuvem consome eventos de dispositivo no limite da nuvem, usando um sistema de
+mensagens confiável e de baixa latência. Os dispositivos podem enviar eventos diretamente para
+o gateway de nuvem ou por meio de um gateway de campo. Um gateway de campo é um
+dispositivo ou um software especializado, geralmente colocado com os dispositivos, que recebe
+eventos e os encaminha para o gateway de nuvem.
+
+O gateway de campo também pode pré-processar os eventos brutos do dispositivo,
+executando funções como filtragem, agregação ou transformação de protocolo. Após a
+ingestão (consumo), os eventos passam por um ou mais processadores de fluxo que podem rotear
+os dados (por exemplo, para o armazenamento) ou executar análises e outros processamentos. A
+seguir estão alguns tipos comuns de processamento:
+
+▪ Gravação de dados de eventos no armazenamento a frio, para arquivamento ou análise em lote.
+
+▪ Análise de caminho quente, analisando o fluxo de eventos em (quase) tempo real, para detectar
+  anomalias, reconhecer padrões ao longo de janelas de tempo de rolagem ou acionar alertas
+  quando uma condição específica ocorre no fluxo.
+
+▪ Manipulação de tipos especiais de mensagens não telemétricas de dispositivos, como
+  notificações e alarmes.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                45
+        www.estrategiaconcursos.com.br                                                         74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+▪ Aprendizado de máquina.
+
+As caixas cinzas no diagrama mostram componentes de um sistema IoT que não estão diretamente
+relacionados ao streaming de eventos, mas estão incluídos aqui para uma representação completa.
+
+▪ O registro do dispositivo é um banco de dados dos dispositivos provisionados, incluindo as IDs
+  do dispositivo e, geralmente, os metadados do dispositivo, como a localização.
+
+▪ A API de provisionamento é uma interface externa comum para provisionamento e registro de
+  novos dispositivos.
+
+▪ Algumas soluções de IoT permitem que mensagens de comando e controle sejam enviadas para
+  dispositivos.
+
+
+Inteligência Artificial
+                                                                                       INCIDÊNCIA EM PROVA: baixa
+
+Galera, um dos problemas do Big Data é que ele é... muito grande! No passado, as pessoas
+tentavam evitar formatos como imagens, vídeo ou voz porque não podiam fazer muita coisa com
+eles e seu custo de armazenamento era alto. Hoje em dia, esse custo foi reduzido
+substancialmente e já existem tecnologias capazes de manipular uma quantidade absurda com
+eficiência. Do que você está falando, Diego?
+
+Atualmente, tem sido cada vez mais comum a vigilância por vídeo em todos os lugares. Pensem em
+100 câmeras operando 24 horas por dia, 7 dias por semana, 365 dias por ano. Isso resulta em um
+total de 2400 horas de vídeo por dia. Se um ser humano fosse revisar esses dados em busca de
+eventuais atividades suspeitas, por exemplo, seria necessária uma equipe de 60 pessoas – e isso
+simplesmente não vale a pena economicamente.
+
+É nesse ponto que a Inteligência Artificial e o Big Data trabalham juntos! Uma maneira de lidar de
+forma eficiente com essa quantidade de dados é gerenciá-los com uma varredura de dados e
+utilizar algoritmos de software de Inteligência Artificial. Vocês se lembram do Big Data Analytics?
+Pois é, ele comumente utiliza ferramentas de Inteligência Artificial para ajudar a analisar e
+compreender uma quantidade massiva de dados.
+
+Vejam como eles se complementam bem: Big Data lida com uma quantidade absurda de dados!
+Agora adivinhem quem se dá super bem quando possui uma quantidade absurda de dados? A
+Inteligência Artificial! Quanto mais dados ela possuir, mais “inteligente” será! Essa combinação
+está ajudando as organizações a entenderem seus clientes muito melhor – até mesmo de
+maneiras que eram impossíveis no passado.
+
+O Big Data, por si só, é inútil sem uma ferramenta para analisar os dados e humanos não
+conseguem fazer isso de forma eficiente. A Inteligência Artificial pode ser extremamente útil para
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                              46
+        www.estrategiaconcursos.com.br                                                                       74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+detectar anomalias, para calcular probabilidades de sucessos, para reconhecimento de padrões,
+para reconhecimento de imagens, para reconhecimento de palavras (discursos), para as tecnologias
+de carros autônomos, entre outros.
+
+Alguns autores dividem as possíveis aplicações de Inteligência Artificial em três grupos: (1) Ciência
+Cognitiva: sistemas especialistas, lógica difusa, algoritmos genéticos e redes neurais; (2) Robótica:
+percepção visual, locomoção, condução, tatilidade; (3) Interfaces Naturais: linguagens naturais,
+reconhecimento de discurso, interfaces multissensoriais e realidade virtual. No entanto, eu gostaria
+de falar sobre uma aplicação muito comum em órgãos públicos e empresas atualmente: Chatbots!
+
+O ChatBot é um programa de computador que tenta simular um ser humano na conversação
+com as pessoas. O objetivo é responder as perguntas de tal forma que as pessoas tenham a
+impressão de estar conversando com outra pessoa e não com um programa de computador. Após
+o envio de perguntas em linguagem natural, o programa consulta uma base de conhecimento e em
+seguida fornece uma resposta que tenta imitar o comportamento humano.
+
+Com toda certeza, vocês já foram atendidos por um robô quando precisavam de alguma informação
+específica. O Bradesco – por exemplo – possui uma assistente virtual chamada Bia para auxiliar
+correntistas com o aplicativo do banco. O Tesouro Nacional – órgão em que trabalho – possui
+uma assistente virtual chamada Jaque que responde sobre informações contábeis e fiscais de
+municípios. E isso tem sido cada vez mais comum em órgãos públicos...
+
+A inteligência artificial permitiu que a Jaque realizasse mais de 2000 interações mensais em 2020.
+Ao mesmo tempo, a equipe do Tesouro Nacional que apoiava essa missão, foi reduzida em
+50%, permitindo um deslocamento para atuação em papeis mais analíticos e de atendimento
+mais especializado. Eu sei o que vocês estão pensando: vários desses robôs ainda não satisfazem
+as necessidades dos usuários.
+
+Em suma, a Inteligência artificial é uma nova disciplina técnica que pesquisa e desenvolve teorias,
+métodos, tecnologias e sistemas de aplicação para simular a extensão e expansão da inteligência
+humana. O objetivo da pesquisa de inteligência artificial é permitir que as máquinas realizem
+algumas tarefas complexas que requerem atualmente humanos inteligentes para que sejam
+concluídas.
+
+Em outras palavras, esperamos que a máquina possa nos substituir para resolver algumas tarefas
+complicadas. Não apenas atividades mecânicas repetitivas, mas algumas atividades que
+requerem conhecimento humano para que sejam concluídas com sucesso. A intersecção entre
+Big Data e Inteligência Artificial é considerada uma revolução capaz de moldar o futuro de como as
+empresas agregam valor aos negócios a partir de seus dados e recursos analíticos.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                   47
+        www.estrategiaconcursos.com.br                                                            74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                        QUESTÕES COMENTADAS – CESPE
+
+1. (CESPE / SECONT-ES - 2022) Kappa, uma arquitetura de software usada para processar dados,
+   fornece acesso a métodos de processamento em lote e processamento de fluxo com uma
+   abordagem em quatro camadas.
+
+Comentários:
+
+A arquitetura Kappa é uma arquitetura de processamento de dados projetada para lidar com
+grandes volumes de dados em tempo real – ela não suporta processamento em lote (batch). Além
+disso, temos duas camadas: Camada de Real-Time (Velocidade) e Camada de Serviço.
+
+                                                                                       Gabarito: Errado
+
+2. (CESPE / SEFAZ-SE – 2022) Com relação a noções de big data, julgue os itens que se seguem.
+
+   I Como qualquer tecnologia, soluções de big data também apresentam algumas restrições. Por
+   exemplo, elas não podem ser utilizadas na área da saúde para determinar a causa de uma
+   doença, porque esse é um procedimento complexo que somente pode ser executado por
+   pessoas devidamente capacitadas — nesse caso, os médicos.
+
+   II Big data é qualquer tipo de fonte de dados que possui, no mínimo, as seguintes três
+   características: volume de dados extremamente grande; velocidade de dados extremamente
+   alta; e variedade de dados extremamente ampla.
+
+   III Para que as organizações obtenham os conhecimentos corretos, a tecnologia big data não
+   permite que elas executem as operações de armazenar e administrar as grandes quantidades de
+   dados de si próprias.
+
+   IV Big data é uma combinação de tecnologias de gestão de dados que evoluíram ao longo dos
+   anos, razão por que não é considerado um mercado único.
+
+   Estão certos apenas os itens:
+
+   a) I e III
+   b) I e IV
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     48
+        www.estrategiaconcursos.com.br                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   c) II e IV
+   d) II e V
+   e) III e V
+
+Comentários:
+
+(I) Errado. Que viagem! Big Data não só pode como já é muito utilizado na área de saúde; (II)
+Correto. Há versões que consideram tanto 3V’s quanto 5V’s; (III) Errado. Não há restrições para que
+organizações executem operações de armazenamento e administração; (IV) Correto. Atualmente
+é considerado um grande conjunto de tecnologias que envolve diversas áreas de conhecimento.
+
+                                                                                       Gabarito: Letra C
+
+3. (CESPE / PETROBRAS – 2022) Em sistemas NoSQL baseados em armazenamento de
+   chavevalor, a chave é multidimensional e composta pela combinação do nome de tabela com a
+   chave linha-coluna e com o rótulo de data e hora.
+
+Comentários:
+
+No modelo chave-valor, a chave é bidimensional e composta pela combinação de um identificador
+alfanumérico único (chave) e um valor associado em uma tabela (valor). Em outras palavras, esse
+modelo armazena dados por meio de uma estrutura de mapeamento ou dicionário, em que todo
+dado armazenado possui uma chave identificadora e seu valor em si – para cada chave de entrada,
+é retornado um valor de saída.
+
+                                                                                       Gabarito: Errado
+
+4. (CESPE / TCE-RJ - 2021) Os fatores críticos de sucesso da análise de Big Data incluem uma sólida
+   infraestrutura de dados, além de ferramentas analíticas e pessoal habilitado para lidar com elas.
+
+Comentários:
+
+Questão com interpretação bem ampla e genérica. É claro que é necessário ter infraestrutura de
+dados, ferramentas e pessoas para que a análise de Big Data tenha sucesso! Uma infraestrutura de
+dados fornece o armazenamento, o poder de processamento e a tecnologia necessários para
+coletar, armazenar, gerenciar, analisar e visualizar dados. Sem uma forte infraestrutura de dados,
+seria difícil adquirir, gerenciar e analisar grandes quantidades de dados. As ferramentas analíticas
+são usadas para coletar, armazenar e processar dados para gerar insights e responder a perguntas,
+tais como Apache Hadoop, Apache Spark, Tableau e Microsoft Azure. Por fim, requer pessoas que
+tenham habilidades e conhecimentos para entender e analisar grandes quantidades de dados.
+Pessoas com experiência em ciência de dados, estatística, programação e inteligência de negócios
+são necessárias para entender os dados e usá-los para fundamentar decisões.
+
+                                                                                       Gabarito: Correto
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      49
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+5. (CESPE / SEFAZ-AL - 2021) Sistemas NoSQL com fundamento em documentos possuem um
+   modelo de dados simples embasado no acesso rápido pela palavra; os resultados estão
+   relacionados à informação e podem ser encontrados percorrendo-se os textos usando-se
+   expressões regulares.
+
+Comentários:
+
+Em um modelo de banco de dados orientado a documentos, as pesquisas funcionam comparando
+os valores nos documentos com os critérios de consulta. Os documentos no banco de dados podem
+ser pesquisados usando uma variedade de critérios, incluindo conteúdo, rótulos e propriedades.
+Quando uma pesquisa é realizada, o banco de dados pesquisa todos os documentos, extraindo os
+documentos que correspondem aos critérios da consulta. Os resultados da pesquisa são retornados
+ao usuário na forma de uma lista de documentos que correspondem à consulta. Logo, não há
+nenhuma relação com expressões regulares, que são basicamente padrões de pesquisa usados para
+procurar e manipular texto.
+
+                                                                                               Gabarito: Errado
+
+6. (CESPE / ISS-Aracaju – 2021) Big data ajudou a sedimentar o cargo de cientista de dados. Entre
+   as funções desse cargo inclui-se:
+
+   a) a modelagem estruturada.
+   b) a análise retrospectiva.
+   c) a modelagem não estruturada.
+   d) a modelagem relacional.
+   e) o processamento comparativo.
+
+Comentários:
+
+Questão bizarra! Todos os itens podem ser executados por um cientista de dados. Ele não pode fazer
+uma modelagem relacional? Claro que pode! De toda forma, essa questão foi retirada do livro do
+Taurion (2013), em que ele diferencia Analista de BI e Cientista de Dados.
+
+                     ANALISTA DE BI                                           CIENTISTA DE DADOS
+ Cognos, Modelo Relacional,           Banco   deDados Hadoop, Modelos Relacionais e NoSQL, bancos e dados
+ SQLServer, Oracle, DB2.                               não relacionais e in-memory.
+                                                       Inclui também modelagem não estruturada.
+ Modelagem Relacional/Estruturada.
+                                                       Modelagem analítica é essencial.
+                                                       Cria perguntas e busca relacionamentos entre fatos
+ Desenvolve queries estruturadas sobre dados passados.
+                                                       aparentemente desconexos.
+
+
+Em primeiro lugar, o autor não é uma unanimidade; em segundo lugar, o autor não disse que essas
+eram atividades exclusivas de cada papel. Logo, não se trata de atividades taxativas!
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                             50
+        www.estrategiaconcursos.com.br                                                                      74
+
+                                      
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                                                                                       Gabarito: Letra C
+
+7. (CESPE / SERPRO – 2021) MapReduce divide o conjunto de dados de entrada em blocos
+   independentes que são processados pelas tarefas de mapa de uma maneira completamente
+   paralela. Essa estrutura classifica as saídas dos mapas, as quais são, então, inseridas nas tarefas
+   de redução.
+
+Comentários:
+
+Perfeito! O MapReduce é um modelo de programação que permite reduzir problemas grandes em
+problemas menores, mapeando cada subproblema para máquinas diferentes (ou processadores
+diferentes de uma mesma máquina) e, em seguida, reduzindo cada resposta intermediária à única
+resposta final que você está procurando.
+
+                                                                                       Gabarito: Correto
+
+8. (CESPE / SERPRO – 2021) No que se refere aos três Vs do Big Data, o termo volume refere-se a
+   dados que, atualmente, não são estruturados nem armazenados em tabelas relacionais, o que
+   torna sua análise mais complexa.
+
+Comentários:
+
+Na verdade, referem-se à quantidade de dados de quaisquer tipos (estruturados, semiestruturados
+ou não estruturados) armazenados em fontes de estruturas diversas.
+
+                                                                                       Gabarito: Errado
+
+9. (CESPE / SERPRO – 2021) Big data caracteriza-se, principalmente, por volume, variedade e
+   velocidade, o que se justifica devido ao fato de os dados serem provenientes de sistemas
+   estruturados, que são maioria, e de sistemas não estruturados, os quais, embora ainda sejam
+   minoria, vêm, ao longo dos anos, crescendo consideravelmente.
+
+Comentários:
+
+Pelo contrário, os dados provenientes de sistemas não estruturados são maioria e os dados
+provenientes de sistemas estruturados são minoria.
+
+                                                                                       Gabarito: Errado
+
+10. (CESPE / SERPRO – 2021) MapReduce divide o conjunto de dados de entrada em blocos
+    independentes que são processados pelas tarefas de mapa de uma maneira completamente
+    paralela. Essa estrutura classifica as saídas dos mapas, as quais são, então, inseridas nas tarefas
+    de redução.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      51
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Comentários:
+
+Perfeito! O MapReduce é um modelo de programação que permite reduzir problemas grandes em
+problemas menores, mapeando cada subproblema para máquinas diferentes (ou processadores
+diferentes de uma mesma máquina) e, em seguida, reduzindo cada resposta intermediária à única
+resposta final que você está procurando. O processo de decomposição dos dados é chamado de
+Mapeamento/Mapa (Map); e o processo de consolidação do resultado dos mapeamentos é
+chamado de Redução (Reduce). De fato, as saídas dos mapas são inseridas como entradas na etapa
+de redução, sendo essa responsável por consolidar os resultados de cada mapa, gerando um
+resultado agregado.
+
+                                                                                       Gabarito: Correto
+
+11. (CESPE / SERPRO – 2021) Uma das principais características de big data é que seu custo de
+    armazenamento de dados é relativamente baixo se comparado a um data warehouse.
+
+Comentários:
+
+Pode parecer contraintuitivo, mas o Data Warehouse possui um custo de armazenamento
+realmente maior em relação ao Big Data – esse é mais otimizado para armazenar gigantescos
+volumes de dados do que aquele.
+
+                                                                                       Gabarito: Correto
+
+12. (CESPE / SERPRO – 2021) O Hadoop consiste em um único produto, ou seja, um software
+    monolítico, que possibilita análise de logs e outros dados da Web.
+
+Comentários:
+
+Na verdade, ele é mais do que um software – ele é uma plataforma, um framework, um ecossistema
+de computação distribuída orientada a clusters e voltado para armazenamento e processamento
+de grandes volumes de dados, com alta escalabilidade, grande confiabilidade e tolerância a falhas.
+
+                                                                                       Gabarito: Errado
+
+13. (CESPE / SERPRO – 2021) Apesar de ser uma tecnologia de código aberto disponibilizada pela
+    ASF (Apache Software Foundation), o Hadoop também é oferecido por distribuidores
+    comerciais, de maneira que fornecedores oferecem distribuições específicas que incluem não só
+    ferramentas administrativas adicionais, mas também suporte técnico.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      52
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Perfeito! Isso é bastante comum no mundo da tecnologia da informação. A Apache Software
+Foundation (ASF) é uma organização sem fins lucrativos criada para suportar projetos de código
+aberto. O Hadoop é oferecido por ela, mas também pode ser distribuída por outros fornecedores
+comerciais que incluem também ferramentas administrativas – além de suporte técnico.
+
+                                                                                       Gabarito: Correto
+
+14. (CESPE / TCE-RJ – 2021) Em Big Data, a premissa volume refere-se à capacidade de processar,
+    em um ambiente computacional, diferentes tipos e formatos de dados, como fotos, vídeos e
+    geolocalização.
+
+Comentários:
+
+Na verdade, essa é a premissa de variedade e, não, volume.
+
+                                                                                       Gabarito: Errado
+
+15. (CESPE / TCE-RJ – 2021) Volume, variedade e visualização são as três características,
+    conhecidas como 3 Vs, utilizadas para definir Big Data.
+
+Comentários:
+
+Visualização não é uma característica do Big Data!
+
+                                                                                       Gabarito: Errado
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      53
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                           QUESTÕES COMENTADAS – FCC
+
+16. (FCC / SEFAZ-SC - 2018) Como não existe um modelo de armazenamento de dados único
+    adequado para atender a todos os cenários e necessidades das aplicações de Big Data, em
+    complemento ao modelo relacional, foram criados quatro novos tipos de armazenamento
+    NoSQL (Not only SQL). Dentre esses, aqueles que modelam os dados usando o formato de
+    linhas e colunas são APENAS os tipos de bancos de dados orientados a colunas,
+
+   a) chave-valor e grafos.
+   b) chave-valor e documentos.
+   c) documentos e grafos.
+   d) chave-valor.
+   e) grafos.
+
+Comentários:
+
+Todos os modelos podem usar o formato de linhas e colunas, exceto o modelo orientado a grafos
+– que usa uma estrutura composta de nós, arestas e propriedades para representar e armazenar
+dados.
+
+                                                                                       Gabarito: Letra B
+
+17. (FCC / SEFAZ-SC – 2018) No âmbito da ciência de dados na definição de Big Data, utilizam-se
+    características ou atributos que alguns pesquisadores adotam como sendo os cinco Vs. Porém,
+    a base necessária para o reconhecimento de Big Data é formada por três propriedades:
+
+   a) valor, velocidade e volume.
+   b) valor, veracidade e volume.
+   c) variedade, velocidade e volume.
+   d) variedade, valor e volume.
+   e) velocidade, veracidade e volume.
+
+Comentários:
+
+As três propriedades principais são variedade, velocidade e volume.
+
+                                                                                       Gabarito: Letra C
+
+18. (FCC / SEFAZ-SC – 2018) As soluções em Big Data Analytics, usadas, por exemplo, pela Fazenda
+    Pública principalmente para evitar sonegações de tributos, trabalham com algoritmos
+    complexos, agregando dados de origens diversas, relacionando-os e gerando conclusões
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      54
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   fundamentais para a tomada de decisões. Na execução dessas análises pelos auditores,
+   considere:
+
+   I. Dados estruturados.
+   II. Dados semiestruturados.
+   III. Dados não estruturados.
+   IV. Dados brutos, não processados.
+   V. Esquemas de dados gerados no momento da gravação.
+
+   Sobre um repositório de armazenamento, que contenha uma grande quantidade de dados a ser
+   examinada, deverão ser utilizados APENAS os que constam de:
+
+   a) I, III e IV.
+   b) I, II, III e V.
+   c) III, IV e V.
+   d) I, II, III e IV.
+   e) I, II, IV e V.
+
+Comentários:
+
+Devem ser utilizados apenas Dados Estruturados, Dados Semiestruturados, Dados Não-
+Estruturados e Dados Brutos. Os Dados Brutos designam os dados/valores recolhidos e
+armazenados tal qual foram adquiridos, sem terem sofrido o menor tratamento. Apresentam-se
+como um conjunto de números, caracteres, imagens ou outros dispositivos de saídas para converter
+quantidades físicas em símbolos, num sentido muito extenso. No entanto, esquemas de dados
+gerados no momento da gravação são dados temporários e, normalmente, não são úteis como
+fonte de dados para Big Data Analytics.
+
+                                                                                       Gabarito: Letra D
+
+19. (FCC / TCE-RS – 2018) Um sistema de Big Data costuma ser caracterizado pelos chamados 3 Vs,
+    ou seja, volume, variedade e velocidade. Por variedade entende-se que:
+
+   a) há um grande número de tipos de dados suportados pelo sistema.
+   b) há um grande número de usuários distintos acessando o sistema.
+   c) os tempos de acesso ao sistema apresentam grande variação.
+   d) há um grande número de tipos de máquinas acessando o sistema.
+   e) os tamanhos das tabelas que compõem o sistema são muito variáveis.
+
+Comentários:
+
+(a) Correto. A Variedade é a propriedade de os dados serem gerados em inúmeros formatos
+diferentes – estruturados e não-estruturados; (b) Errado. Não há limitação de usuários distintos
+acessando o sistema na definição; (c) Errado. Tempos de acesso não entram na definição de
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                     55
+         www.estrategiaconcursos.com.br                                                              74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+variedade dos 3V’s; (d) Errado. Quantidade de tipos de máquinas acessando o sistema não entram
+na definição de variedade dos 3V’s; (e) Errado. Tamanhos das tabelas que compõem o sistema não
+entram na definição de variedade dos 3V’s.
+
+Lembrando que o Big Data foi inicialmente conceituado com base apenas em três premissas
+básicas: Volume, Velocidade e Variedade (3 V’s).
+
+                                                                                       Gabarito: Letra A
+
+20. (FCC / Câmara Legislativa do Distrito Federal – 2018) A proposta de uma solução de Big Data,
+    oferecendo uma abordagem consistente no tratamento do constante crescimento e da
+    complexidade dos dados, deve considerar os 5 V’s do Big Data que envolvem APENAS os
+    conceitos de:
+
+   a) volume, versionamento, variedade, velocidade e visibilidade.
+   b) velocidade, visibilidade, volume, veracidade e vencimento do dado
+   c) volume, velocidade, variedade, veracidade e valor
+   d) variedade, vencimento do dado, veracidade, valor e volume
+   e) vulnerabilidade, velocidade, visibilidade, valor e veracidade
+
+Comentários:
+
+(a) Errado, não envolve versionamento e visibilidade; (b) Errado, não envolve visibilidade e
+vencimento do dado; (c) Correto; (d) Errado, não envolve vencimento do dado; (e) Errado, não
+envolve vulnerabilidade e visibilidade.
+
+                                                                                       Gabarito: Letra C
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      56
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                           QUESTÕES COMENTADAS – FGV
+
+21. (FGV / IBGE - 2017) Observe a figura a seguir que ilustra relações entre colegas e seus interesses.
+
+   O tipo de Banco de Dados NoSQL, não relacional, que armazena tais informações, utilizando
+   estruturas de vértices e arestas, com propriedades associadas, é o:
+
+   a) Colunar;
+   b) Documento;
+   c) Grafo;
+   d) Chave-valor;
+   e) Tabular.
+
+Comentários:
+
+Estrutura de vértices e arestas com propriedades associadas? Trata-se do modelo orientado a grafos.
+Dentre os modelos classificados como NoSQL, o orientado a grafo é o que mais se distancia dos
+demais. Enquanto as outras abordagens têm seu foco no armazenamento dos dados, esse modelo
+tem como destaque principal os relacionamentos que ocorrem entre as entidades de sua base. Os
+bancos de dados que seguem essa abordagem possuem três tipos de informações: os nós, arestas
+e propriedades.
+
+                                                                                       Gabarito: Letra C
+
+22. (FGV / IBGE - 2017) Bancos de Dados NoSQL podem armazenar dados em diversos formatos
+    não relacionais, como documentos compostos por pares de campo-e-valor (field-and-value),
+    conforme a estrutura exemplificada a seguir.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      57
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   O Banco de Dados NoSQL utilizado para armazenar documentos compostos por pares campo-
+   e-valor, no formato BSON (JSON-like), é o:
+
+   a) OpenLink Virtuoso;
+   b) Neo4j;
+   c) Apache HBase;
+   d) MongoDB;
+   e) Titan.
+
+Comentários:
+
+BSON (Binary JSON) é uma serialização codificada em binário de documentos do tipo JSON. É
+usado principalmente como um formato de armazenamento de dados e transferência de rede no
+MongoDB, mas também pode ser usado em outros locais. BSON estende o modelo JSON para
+fornecer tipos de dados adicionais e para ser eficiente para codificação e decodificação em
+diferentes idiomas.
+
+(a) Errado, trata-se de um SGBD híbrido (relacional, objeto-relacional, etc); (b) Errado, trata-se de
+um SGBD orientado a grafos; (c) Errado, trata-se de um SGBD orientado a coluna; (d) Correto, trata-
+se de um SGBD orientado a documentos; (e) Errado, trata-se de um SGBD orientado a grafos.
+
+                                                                                       Gabarito: Letra D
+
+23. (FGV / IBGE - 2016) Considere as seguintes características de um projeto de banco de dados.
+
+   I. O modelo de dados é conhecido a priori e é estável;
+   II. A integridade dos dados deve ser rigorosamente mantida;
+   III. Velocidade e escalabilidade são preponderantes.
+
+   Dessas características, o emprego de bancos de dados NoSQL é favorecido somente por:
+
+   a) I;
+   b) I e II;
+   c) II;
+   d) II e III;
+   e) III.
+
+Comentários:
+
+(I) Errado, bancos de dados NoSQL permitem a inserção de dados a qualquer momento sem a
+necessidade de definir previamente um esquema ou por meio de um esquema flexível; (II) Errado,
+normalmente não impõem regras de integridade de dados, o que pode levar a erros e inconsistência
+de dados – o que geralmente não ocorre com bancos de dados relacionais; (III) Correto, A velocidade
+
+         Receita Federal (Analista Tributário) Fluência em Dados                                     58
+         www.estrategiaconcursos.com.br                                                              74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+é importante no processamento de grandes conjuntos de dados, pois significa a diferença entre
+explorar os dados interativamente e esperar minutos ou horas e a escalabilidade também é
+importante para acomodar cargas de trabalho em larga escala, permitindo que os usuários
+aumentem ou diminuam a capacidade de armazenamento de acordo com as necessidades de
+negócios.
+
+                                                                                       Gabarito: Letra E
+
+24. (FGV / TJ-SC – 2015) Os termos Business Intelligence (BI) e Big Data confundem-se em certos
+    aspectos. Uma conhecida abordagem para identificação dos pontos críticos de cada paradigma
+    é conhecida como 3V, e destaca:
+
+   a) variedade, visualização, volume;
+   b) velocidade, virtualização, volume;
+                                                       ==219a34==
+
+   c) variedade, velocidade, volume;
+   d) virtualização, visualização, volume;
+   e) variedade, visualização, virtualização.
+
+Comentários:
+
+O Big Data pode ser rapidamente identificado através das premissas: Variedade, Velocidade e
+Volume.
+
+                                                                                       Gabarito: Letra C
+
+25. (FGV / TJ-BA - 2015) Analise as afirmativas a respeito da classe de gerenciadores de bancos de
+    dados, surgida em anos recentes, conhecida como NoSQL.
+
+   I. Mesmo sem suportar tabelas relacionais, baseiam-se em esquemas de dados previamente
+   definidos;
+   II. Suas estruturas não permitem o uso de linguagens do tipo do SQL para recuperação de dados;
+   III. Garantem operações com as propriedades conhecidas pela sigla ACID;
+   IV. Privilegiam a rapidez de acesso e a disponibilidade dos dados em detrimento das regras de
+   consistência das transações.
+
+   O número de afirmativas corretas é:
+
+   a) uma;
+   b) duas;
+   c) três;
+   d) quatro;
+   e) cinco.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      59
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Comentários:
+
+(I) Errado, eles permitem a inserção de dados a qualquer momento sem a necessidade de definir
+previamente um esquema ou por meio de um esquema flexível;
+
+(II) Errado, a sigla significa Not Only SQL (Não Apenas SQL). Logo, ele suporta outras linguagens de
+recuperação de dados e não apenas SQL;
+
+(III) Errado, eles não garantem as propriedades ACID e, sim, as propriedades BASE (Basicamente
+Disponível, Estado Suave e Eventualmente Consistente);
+
+(IV) Correto, eles realmente privilegiam a maior disponibilidade e rapidez nas consultas dado que
+precisam tratar de volumes gigantescos de dados com alta disponibilidade escalabilidade.
+
+                                                                                       Gabarito: Letra A
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      60
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+             QUESTÕES COMENTADAS – DIVERSAS BANCAS
+
+26. (SELECON / EMGEPRON – 2021) Trata-se de uma infinidade de informações não estruturadas
+    que, quando usadas com inteligência, se tornam uma arma poderosa para empresas tomarem
+    decisões cada vez melhores. As soluções tecnológicas que trabalham com esse conceito
+    permitem analisar um enorme volume de dados de forma rápida e ainda oferecem total controle
+    ao gestor das informações. E as fontes de dados são as mais diversas possíveis: de textos e fotos
+    em rede sociais, passando por imagens e vídeos, até jogadas específicas no esporte e até
+    tratamentos na medicina.
+
+                                                                  (http://olhardigital. uol. com.br/pro/video/39376/39376).
+
+
+   O conceito definido no texto é:
+
+   a) Governança de TI.
+   b) QoS.
+   c) Big Data.
+   d) Data Center.
+   e) ITIL.
+
+Comentários:
+
+Infinidade de informações não estruturadas? Arma poderosa para empresas tomarem decisões?
+Permitem analisar um enorme volume de dados de forma rápida? Oferecem total controle ao gestor
+das informações? As fontes de dados são as mais diversas possíveis? Todas essas são características
+de Big Data!
+
+                                                                                                   Gabarito: Letra C
+
+27. (COMPERVE / TJ/RN – 2020) Embora Big Data tenha diferentes definições, há um consenso
+    sobre o modelo dos 3 V’s que correspondem a 3 características. Duas dessas características são:
+
+   a) Volume e Velocity.
+   b) Variety e Value.
+   c) Viable e Vast.
+   d) Valid e Verbose.
+
+Comentários:
+
+Na verdade, atualmente já existe um consenso sobre os 5V’s. No entanto, o Big Data foi
+inicialmente conceituado com base apenas em três premissas: Volume, Velocidade e Variedade
+(Volume, Velocity e Variety).
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                        61
+        www.estrategiaconcursos.com.br                                                                                 74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                                                                                       Gabarito: Letra A
+
+28. (CCV-UFC / UFC – 2019) Sobre os banco de dados NoSQL, assinale a afirmativa correta:
+
+   a)Bancos de dados NoSQL não podem ser indexados.
+   b)Bancos de dados NoSQL são considerados banco de dados relacionais.
+   c) Nos bancos de dados NoSQL devem ser definidos um esquema de dados fixo antes de
+   qualquer operação.
+   d) São exemplos de bancos de dados NoSQL: MongoDB, Firebird, DynamoDB, SQLite,
+   Microsoft Access e Azure Table Storage.
+   e) Os bancos de dados NoSQL usam diversos modelos para acessar e gerenciar dados, como
+   documento, gráfico, chave-valor, em memória e, pesquisa.
+
+Comentários:
+
+(a) Errado, podem – sim – ser indexados; (b) Errado, são considerados não-relacionais; (c) Errado,
+não é necessário definir um esquema fixo prévio; (d) Errado, FireBird, SQLite e Microsoft Access são
+exemplos de bancos de dados relacionais; (e) Correto, eles realmente usam modelos para acessar e
+gerenciar dados como documento, gráfico, chave-valor, em memória e pesquisa. Algumas
+ressalvas: (1) o termo mais correto é grafo; (2) em memória e pesquisa não são modelos
+consagrados.
+
+                                                                                       Gabarito: Letra E
+
+29. (IADES / APEX BRASIL – 2018) Assinale a alternativa que apresenta o conceito de Big Data.
+
+   a) Conjuntos de dados de grande volume que se utilizam de ferramentas especiais de
+   processamento, pesquisa e análise, e que podem ser aproveitados no tempo necessário, com
+   precisão e grande velocidade.
+
+   b) São bancos de dados de fácil acesso e rápida velocidade, operados como computadores
+   pessoais.
+
+   c) Manuseio de informações necessárias às empresas e aos negócios do mundo moderno, que
+   podem ser armazenadas em computadores pessoais, utilizando-se a técnica de nuvem de
+   dados.
+
+   d) São apenas grandes volumes de dados que precisam ainda ser mais bem aproveitados pelo
+   mundo corporativo.
+
+   e) Refere-se a um grande número de computadores pessoais (PC) interligados entre si em uma
+   grande rede de informação.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      62
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+Comentários:
+
+(a) Correto. Trata-se de um enorme conjunto de dados que utiliza softwares especiais para o
+processamento e transformação de dados em informações com precisão em uma velocidade
+absurdamente alta; (b) Errado. Não são de fácil acesso e rápida velocidade, muito menos operados
+como computadores pessoais; (c) Errado. Não há nada que faça sentido nesse item; (d) Errado.
+Atualmente eles são muito bem aproveitados pelo mundo corporativo; (e) Errado. Essa é a
+definição de uma rede de computadores.
+
+                                                                                       Gabarito: Letra A
+
+30. (CESGRANRIO / PETROBRAS – 2018) A principal definição de Big Data parte de três
+    características, conhecidas como 3 V do Big Data, a saber: velocidade, variedade e volume. O
+    termo velocidade refere-se, principalmente, à:
+
+   a) necessidade das aplicações de gerar respostas rapidamente, a partir de grandes massas de
+   dados.
+
+   b) existência de um alto fluxo de dados na entrada.
+
+   c) necessidade de gerar aplicações rapidamente, em função da demanda do negócio.
+
+   d) importância da facilidade de manipular cubos de visualização de dados, rapidamente.
+
+   e) rapidez com que os dados se tornam inválidos com o tempo.
+
+Comentários:
+
+O termo velocidade refere-se à velocidade com que os dados são criados. Em outras palavras, trata-
+se da existência de um alto fluxo de dados na entrada. São mensagens de redes sociais se
+viralizando em segundos, transações de cartão de crédito sendo verificadas a cada instante ou os
+milissegundos necessários para calcular o valor de compra e venda de ações.
+
+                                                                                       Gabarito: Letra B
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                      63
+        www.estrategiaconcursos.com.br                                                               74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                        QUESTÕES COMENTADAS – CESPE
+
+1. (CESPE / SECONT-ES - 2022) Kappa, uma arquitetura de software usada para processar dados,
+   fornece acesso a métodos de processamento em lote e processamento de fluxo com uma
+   abordagem em quatro camadas.
+
+2. (CESPE / SEFAZ-SE – 2022) Com relação a noções de big data, julgue os itens que se seguem.
+
+   I Como qualquer tecnologia, soluções de big data também apresentam algumas restrições. Por
+   exemplo, elas não podem ser utilizadas na área da saúde para determinar a causa de uma
+   doença, porque esse é um procedimento complexo que somente pode ser executado por
+   pessoas devidamente capacitadas — nesse caso, os médicos.
+
+   II Big data é qualquer tipo de fonte de dados que possui, no mínimo, as seguintes três
+   características: volume de dados extremamente grande; velocidade de dados extremamente
+   alta; e variedade de dados extremamente ampla.
+
+   III Para que as organizações obtenham os conhecimentos corretos, a tecnologia big data não
+   permite que elas executem as operações de armazenar e administrar as grandes quantidades de
+   dados de si próprias.
+
+   IV Big data é uma combinação de tecnologias de gestão de dados que evoluíram ao longo dos
+   anos, razão por que não é considerado um mercado único.
+
+   Estão certos apenas os itens:
+
+   a) I e III
+   b) I e IV
+   c) II e IV
+   d) II e V
+   e) III e V
+
+3. (CESPE / PETROBRAS – 2022) Em sistemas NoSQL baseados em armazenamento de
+   chavevalor, a chave é multidimensional e composta pela combinação do nome de tabela com a
+   chave linha-coluna e com o rótulo de data e hora.
+
+4. (CESPE / TCE-RJ - 2021) Os fatores críticos de sucesso da análise de Big Data incluem uma sólida
+   infraestrutura de dados, além de ferramentas analíticas e pessoal habilitado para lidar com elas.
+
+5. (CESPE / SEFAZ-AL - 2021) Sistemas NoSQL com fundamento em documentos possuem um
+   modelo de dados simples embasado no acesso rápido pela palavra; os resultados estão
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                  64
+        www.estrategiaconcursos.com.br                                                           74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   relacionados à informação e podem ser encontrados percorrendo-se os textos usando-se
+   expressões regulares.
+
+6. (CESPE / ISS-Aracaju – 2021) Big data ajudou a sedimentar o cargo de cientista de dados. Entre
+   as funções desse cargo inclui-se:
+
+   a) a modelagem estruturada.
+   b) a análise retrospectiva.
+   c) a modelagem não estruturada.
+   d) a modelagem relacional.
+   e) o processamento comparativo.
+
+7. (CESPE / SERPRO – 2021) MapReduce divide o conjunto de dados de entrada em blocos
+   independentes que são processados pelas tarefas de mapa de uma maneira completamente
+   paralela. Essa estrutura classifica as saídas dos mapas, as quais são, então, inseridas nas tarefas
+   de redução.
+
+8. (CESPE / SERPRO – 2021) No que se refere aos três Vs do Big Data, o termo volume refere-se a
+   dados que, atualmente, não são estruturados nem armazenados em tabelas relacionais, o que
+   torna sua análise mais complexa.
+
+9. (CESPE / SERPRO – 2021) Big data caracteriza-se, principalmente, por volume, variedade e
+   velocidade, o que se justifica devido ao fato de os dados serem provenientes de sistemas
+   estruturados, que são maioria, e de sistemas não estruturados, os quais, embora ainda sejam
+   minoria, vêm, ao longo dos anos, crescendo consideravelmente.
+
+10. (CESPE / SERPRO – 2021) MapReduce divide o conjunto de dados de entrada em blocos
+    independentes que são processados pelas tarefas de mapa de uma maneira completamente
+    paralela. Essa estrutura classifica as saídas dos mapas, as quais são, então, inseridas nas tarefas
+    de redução.
+
+11. (CESPE / SERPRO – 2021) Uma das principais características de big data é que seu custo de
+    armazenamento de dados é relativamente baixo se comparado a um data warehouse.
+
+12. (CESPE / SERPRO – 2021) O Hadoop consiste em um único produto, ou seja, um software
+    monolítico, que possibilita análise de logs e outros dados da Web.
+
+13. (CESPE / SERPRO – 2021) Apesar de ser uma tecnologia de código aberto disponibilizada pela
+    ASF (Apache Software Foundation), o Hadoop também é oferecido por distribuidores
+    comerciais, de maneira que fornecedores oferecem distribuições específicas que incluem não só
+    ferramentas administrativas adicionais, mas também suporte técnico.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     65
+        www.estrategiaconcursos.com.br                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+14. (CESPE / TCE-RJ – 2021) Em Big Data, a premissa volume refere-se à capacidade de processar,
+    em um ambiente computacional, diferentes tipos e formatos de dados, como fotos, vídeos e
+    geolocalização.
+
+15. (CESPE / TCE-RJ – 2021) Volume, variedade e visualização são as três características,
+    conhecidas como 3 Vs, utilizadas para definir Big Data.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                             66
+        www.estrategiaconcursos.com.br                                                      74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                            QUESTÕES COMENTADAS – FCC
+
+16. (FCC / SEFAZ-SC - 2018) Como não existe um modelo de armazenamento de dados único
+    adequado para atender a todos os cenários e necessidades das aplicações de Big Data, em
+    complemento ao modelo relacional, foram criados quatro novos tipos de armazenamento
+    NoSQL (Not only SQL). Dentre esses, aqueles que modelam os dados usando o formato de
+    linhas e colunas são APENAS os tipos de bancos de dados orientados a colunas,
+
+   a) chave-valor e grafos.
+   b) chave-valor e documentos.
+   c) documentos e grafos.
+   d) chave-valor.                                      ==219a34==
+
+   e) grafos.
+
+17. (FCC / SEFAZ-SC – 2018) No âmbito da ciência de dados na definição de Big Data, utilizam-se
+    características ou atributos que alguns pesquisadores adotam como sendo os cinco Vs. Porém,
+    a base necessária para o reconhecimento de Big Data é formada por três propriedades:
+
+   a) valor, velocidade e volume.
+   b) valor, veracidade e volume.
+   c) variedade, velocidade e volume.
+   d) variedade, valor e volume.
+   e) velocidade, veracidade e volume.
+
+18. (FCC / SEFAZ-SC – 2018) As soluções em Big Data Analytics, usadas, por exemplo, pela Fazenda
+    Pública principalmente para evitar sonegações de tributos, trabalham com algoritmos
+    complexos, agregando dados de origens diversas, relacionando-os e gerando conclusões
+    fundamentais para a tomada de decisões. Na execução dessas análises pelos auditores,
+    considere:
+
+   I. Dados estruturados.
+   II. Dados semiestruturados.
+   III. Dados não estruturados.
+   IV. Dados brutos, não processados.
+   V. Esquemas de dados gerados no momento da gravação.
+
+   Sobre um repositório de armazenamento, que contenha uma grande quantidade de dados a ser
+   examinada, deverão ser utilizados APENAS os que constam de:
+
+   a) I, III e IV.
+   b) I, II, III e V.
+   c) III, IV e V.
+
+
+         Receita Federal (Analista Tributário) Fluência em Dados                             67
+         www.estrategiaconcursos.com.br                                                      74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   d) I, II, III e IV.
+   e) I, II, IV e V.
+
+19. (FCC / TCE-RS – 2018) Um sistema de Big Data costuma ser caracterizado pelos chamados 3 Vs,
+    ou seja, volume, variedade e velocidade. Por variedade entende-se que:
+
+   a) há um grande número de tipos de dados suportados pelo sistema.
+   b) há um grande número de usuários distintos acessando o sistema.
+   c) os tempos de acesso ao sistema apresentam grande variação.
+   d) há um grande número de tipos de máquinas acessando o sistema.
+   e) os tamanhos das tabelas que compõem o sistema são muito variáveis.
+
+20. (FCC / Câmara Legislativa do Distrito Federal – 2018) A proposta de uma solução de Big Data,
+    oferecendo uma abordagem consistente no tratamento do constante crescimento e da
+    complexidade dos dados, deve considerar os 5 V’s do Big Data que envolvem APENAS os
+    conceitos de:
+
+   a) volume, versionamento, variedade, velocidade e visibilidade.
+   b) velocidade, visibilidade, volume, veracidade e vencimento do dado
+   c) volume, velocidade, variedade, veracidade e valor
+   d) variedade, vencimento do dado, veracidade, valor e volume
+   e) vulnerabilidade, velocidade, visibilidade, valor e veracidade
+
+         Receita Federal (Analista Tributário) Fluência em Dados                             68
+         www.estrategiaconcursos.com.br                                                      74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+                           QUESTÕES COMENTADAS – FGV
+
+21. (FGV / IBGE - 2017) Observe a figura a seguir que ilustra relações entre colegas e seus interesses.
+
+   O tipo de Banco de Dados NoSQL, não relacional, que armazena tais informações, utilizando
+   estruturas de vértices e arestas, com propriedades associadas, é o:
+
+   a) Colunar;
+   b) Documento;
+   c) Grafo;
+   d) Chave-valor;
+   e) Tabular.
+
+22. (FGV / IBGE - 2017) Bancos de Dados NoSQL podem armazenar dados em diversos formatos
+    não relacionais, como documentos compostos por pares de campo-e-valor (field-and-value),
+    conforme a estrutura exemplificada a seguir.
+
+   O Banco de Dados NoSQL utilizado para armazenar documentos compostos por pares campo-
+   e-valor, no formato BSON (JSON-like), é o:
+
+   a) OpenLink Virtuoso;
+   b) Neo4j;
+   c) Apache HBase;
+   d) MongoDB;
+   e) Titan.
+
+23. (FGV / IBGE - 2016) Considere as seguintes características de um projeto de banco de dados.
+
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                     69
+        www.estrategiaconcursos.com.br                                                              74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   I. O modelo de dados é conhecido a priori e é estável;
+   II. A integridade dos dados deve ser rigorosamente mantida;
+   III. Velocidade e escalabilidade são preponderantes.
+
+   Dessas características, o emprego de bancos de dados NoSQL é favorecido somente por:
+
+   a) I;
+   b) I e II;
+   c) II;
+   d) II e III;
+   e) III.
+
+24. (FGV / TJ-SC – 2015) Os termos Business Intelligence (BI) e Big Data confundem-se em certos
+    aspectos. Uma conhecida abordagem para identificação dos pontos críticos de cada paradigma
+    é conhecida como 3V, e destaca:
+
+   a) variedade, visualização, volume;
+   b) velocidade, virtualização, volume;
+   c) variedade, velocidade, volume;
+   d) virtualização, visualização, volume;
+   e) variedade, visualização, virtualização.
+
+25. (FGV / TJ-BA - 2015) Analise as afirmativas a respeito da classe de gerenciadores de bancos de
+    dados, surgida em anos recentes, conhecida como NoSQL.
+
+   I. Mesmo sem suportar tabelas relacionais, baseiam-se em esquemas de dados previamente
+   definidos;
+   II. Suas estruturas não permitem o uso de linguagens do tipo do SQL para recuperação de dados;
+   III. Garantem operações com as propriedades conhecidas pela sigla ACID;
+   IV. Privilegiam a rapidez de acesso e a disponibilidade dos dados em detrimento das regras de
+   consistência das transações.
+
+   O número de afirmativas corretas é:
+
+   a) uma;
+   b) duas;
+   c) três;
+   d) quatro;
+   e) cinco.
+
+         Receita Federal (Analista Tributário) Fluência em Dados                               70
+         www.estrategiaconcursos.com.br                                                        74
+
+                                     
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+             QUESTÕES COMENTADAS – DIVERSAS BANCAS
+
+26. (SELECON / EMGEPRON – 2021) Trata-se de uma infinidade de informações não estruturadas
+    que, quando usadas com inteligência, se tornam uma arma poderosa para empresas tomarem
+    decisões cada vez melhores. As soluções tecnológicas que trabalham com esse conceito
+    permitem analisar um enorme volume de dados de forma rápida e ainda oferecem total controle
+    ao gestor das informações. E as fontes de dados são as mais diversas possíveis: de textos e fotos
+    em rede sociais, passando por imagens e vídeos, até jogadas específicas no esporte e até
+    tratamentos na medicina.
+
+                                                                  (http://olhardigital. uol. com.br/pro/video/39376/39376).
+
+
+   O conceito definido no texto é:
+
+   a) Governança de TI.
+   b) QoS.
+   c) Big Data.
+   d) Data Center.
+   e) ITIL.
+
+27. (COMPERVE / TJ/RN – 2020) Embora Big Data tenha diferentes definições, há um consenso
+    sobre o modelo dos 3 V’s que correspondem a 3 características. Duas dessas características são:
+
+   a) Volume e Velocity.
+   b) Variety e Value.
+   c) Viable e Vast.
+   d) Valid e Verbose.
+
+28. (CCV-UFC / UFC – 2019) Sobre os banco de dados NoSQL, assinale a afirmativa correta:
+
+   a)Bancos de dados NoSQL não podem ser indexados.
+   b)Bancos de dados NoSQL são considerados banco de dados relacionais.
+   c) Nos bancos de dados NoSQL devem ser definidos um esquema de dados fixo antes de
+   qualquer operação.
+   d) São exemplos de bancos de dados NoSQL: MongoDB, Firebird, DynamoDB, SQLite,
+   Microsoft Access e Azure Table Storage.
+   e) Os bancos de dados NoSQL usam diversos modelos para acessar e gerenciar dados, como
+   documento, gráfico, chave-valor, em memória e, pesquisa.
+
+29. (IADES / APEX BRASIL – 2018) Assinale a alternativa que apresenta o conceito de Big Data.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                                                        71
+        www.estrategiaconcursos.com.br                                                                                 74
+
+                                    
+
+
+---
+
+  Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+  Aula 10
+
+   a) Conjuntos de dados de grande volume que se utilizam de ferramentas especiais de
+   processamento, pesquisa e análise, e que podem ser aproveitados no tempo necessário, com
+   precisão e grande velocidade.
+
+   b) São bancos de dados de fácil acesso e rápida velocidade, operados como computadores
+   pessoais.
+
+   c) Manuseio de informações necessárias às empresas e aos negócios do mundo moderno, que
+   podem ser armazenadas em computadores pessoais, utilizando-se a técnica de nuvem de
+   dados.
+
+   d) São apenas grandes volumes de dados que precisam ainda ser mais bem aproveitados pelo
+   mundo corporativo.
+
+   e) Refere-se a um grande número de computadores pessoais (PC) interligados entre si em uma
+   grande rede de informação.
+
+30. (CESGRANRIO / PETROBRAS – 2018) A principal definição de Big Data parte de três
+    características, conhecidas como 3 V do Big Data, a saber: velocidade, variedade e volume. O
+    termo velocidade refere-se, principalmente, à:
+
+   a) necessidade das aplicações de gerar respostas rapidamente, a partir de grandes massas de
+   dados.
+
+   b) existência de um alto fluxo de dados na entrada.
+
+   c) necessidade de gerar aplicações rapidamente, em função da demanda do negócio.
+
+   d) importância da facilidade de manipular cubos de visualização de dados, rapidamente.
+
+   e) rapidez com que os dados se tornam inválidos com o tempo.
+
+        Receita Federal (Analista Tributário) Fluência em Dados                              72
+        www.estrategiaconcursos.com.br                                                       74
+
+                                    
+
+
+---
+
+ Diego Carvalho, Emannuelle Gouveia Rolim, Equipe Informática e TI, Renato da Costa
+ Aula 10
+
+                                               GABARITO
+
+1. ERRADO
+2. LETRA C
+3. ERRADO
+4. CORRETO
+5. ERRADO
+6. LETRA C
+7. CORRETO
+8. ERRADO
+9. ERRADO
+10. CORRETO
+11. CORRETO
+12. ERRADO
+13. CORRETO
+14. ERRADO
+15. ERRADO
+16. LETRA B
+17. LETRA C
+18. LETRA D
+19. LETRA A
+20. LETRA C
+21. LETRA C
+22. LETRA D
+23. LETRA E
+24. LETRA C
+25. LETRA A
+26. LETRA C
+27. LETRA A
+28. LETRA E
+29. LETRA A
+30. LETRA B
+
+       Receita Federal (Analista Tributário) Fluência em Dados                        73
+       www.estrategiaconcursos.com.br                                                 74
+
+                                   
+
+
+---
+
+---

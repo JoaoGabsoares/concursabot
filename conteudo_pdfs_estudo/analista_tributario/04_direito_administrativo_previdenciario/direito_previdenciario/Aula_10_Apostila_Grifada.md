@@ -1,0 +1,4307 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: Índice
+artigos_citados:
+- Art 158
+- Art. 125-A.
+- art. 11
+- art. 125-A
+- art. 138
+- art. 6o
+- artigo 15
+- artigo 9º
+sumulas_citadas:
+- súmula 439
+---
+
+# Índice
+
+Índice
+1)  Origem e Evolução Legislativa da Seguridade Social no Mundo
+
+
+)  Origem e Evolução Legislativa da Seguridade Social no Brasil                                                                                                                              8
+
+3)  Competência do INSS e da RFB                                                                                                                                                            51
+)  Questões                                                                                                                                                                                55
+..............................................................................................................................................................................................
+
+)  Resumo                                                                                                                                                                                110
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA SEGURIDADE
+SOCIAL NO MUNDO
+Vamos começar nossa aula conhecendo um pouco sobre a evolução da seguridade
+social no mundo. Este é um tema que não precisamos conhecer a fundo, mas as
+bancas as vezes resgatam uma questão sobre isso e não queremos perder esse
+ponto, certo?
+
+POOR RELIEF ACT
+
+Essa foi uma das primeiras manifestações estatais de ordem social de que se tem
+conhecimento. O Poor Relief Act foi criado em 1601 na Inglaterra e basicamente,
+tratava de uma complementação do salário das famílias em situação de
+miserabilidade. Esse ato foi um dos precursores da assistência social, e não da
+previdência social.
+
+LEI DE BISMARCK
+
+Em 1883 houve a edição da Lei dos Seguros Sociais na Alemanha, a qual foi
+instituída pelo chanceler Otto Von Bismarck e é considerada o marco da
+previdência social. O plano de previdência de Bismarck protegia os segurados em
+caso de doença e era financiado por contribuições dos trabalhadores, dos
+empregadores e do Estado. Logo depois, surgiram leis que protegiam os
+trabalhadores em caso de acidente de trabalho, invalidez e idade.
+
+No modelo bismarckiano, somente aqueles que contribuem com o sistema
+possuem direito aos benefícios, como ocorre hoje com a previdência social.
+
+                                                                      1
+                                                                       5
+
+
+---
+
+CONSTITUIÇÃO DO MÉXICO DE 1917
+
+A Constituição Mexicana de 1917 foi a primeira a trazer a nível constitucional a
+proteção social do estado, prevendo em seu texto a expressão “previdência
+social”.
+
+CONSTITUIÇÃO DE WEIMAR - ALEMANHA
+
+Em 1919, dois anos após a promulgação da Constituição Mexicana, entrou em vigor
+a Constituição de Weimar, na Alemanha. Essa constituição é considerada um marco
+mundial da transição do Estado Liberal para o Estado Social (Welfare State). Nessa
+constituição vieram consagrados direitos sociais de segunda geração, incluindo
+direitos trabalhistas e previdenciários.
+
+ATENÇÃO: Pela importância dessa Constituição, a banca pode tentar fazer uma
+pegadinha afirmando que ela foi a primeira constituição a tratar de previdência
+social. Não caiam nessa, como já comentamos, a primeira constituição a tratar
+desse tema foi a do México de 1917.
+
+SOCIAL SECURITY ACT
+
+Editado nos Estados Unidos, em 1935, durante o governo de Roosevelt, foi o marco
+da seguridade social no país. Essa lei criou um plano de Seguro Social no país e
+também o seguro desemprego.
+
+
+---
+
+PLANO BEVERIDGE
+
+O Plano Beveridge, de 1942, foi a reestruturação do sistema inglês de previdência
+em meio a Segunda Guerra Mundial. Esse plano foi a manifestação do Welfare State
+(Estado do Bem Estar Social) na Inglaterra e tinha a pretensão de estender a
+proteção social para trabalhadores, universalizando o seguro social.
+
+O sistema beveridgiano inclui o acesso aos benefícios não só daqueles que
+contribuem, sendo observado atualmente, no sistema brasileiro, na assistência
+social e na saúde.
+
+Existem dois regimes de financiamento de previdência: regime de repartição
+simples e regime de capitalização.
+Atualmente, o Regime Geral de Previdência Social é organizado na forma de
+Repartição Simples (beveridgiano), em que os pagamentos dos benefícios em
+manutenção são financiados pelas contribuições dos trabalhadores que estão na
+ativa. A ideia básica é calcular quanto dinheiro é necessário para financiar todos
+benefícios e dividir esse montante entre as pessoas que estão contribuindo.
+
+Já no Regime de Capitalização (bismarckiano), cada segurado financia o seu próprio
+benefício, ou seja, o próprio trabalhador deverá contribuir, durante toda a sua vida
+laboral, com o montante exatamente necessário para financiamento de seu
+benefício. Esse é o regime atualmente empregado nos planos de previdência
+complementar.
+
+ (CESPE – SLU DF - 2019) Acerca da história da seguridade social, da política social e das políticas
+setoriais, considerando suas respectivas legislações, julgue o item subsecutivo.
+
+
+---
+
+Os direitos da seguridade social, seja no modelo bismarckiano, seja no modelo beveridgiano, têm
+como parâmetro histórico central os direitos do trabalho.
+( ) Certo
+( ) Errado
+C
+OMENTÁRIOS:
+
+
+CORRETA. Os modelos apresentados durante a evolução da seguridade social no mundo tinham,
+entre os objetivos base, garantir benefícios aos trabalhadores que estavam impossibilitados de
+trabalhar. Neste contexto, podemos citar tanto os planos que seguiram o modelo bismarckiano
+quanto os que seguiram o modelo beveridgiano.
+
+
+Gabarito: CERTO
+
+ (CESPE – PGE AM - 2016) A respeito do surgimento e da evolução da seguridade social, julgue o
+item a seguir.
+A Constituição Mexicana de 1917 e a Constituição de Weimar de 1919, ao constitucionalizar um
+conjunto de direitos sociais, colocando-os no mesmo plano dos direitos civis, marcaram o início da
+fase de consolidação da seguridade social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+CORRETA. Tanto a Constituição Mexicana de 1917 quanto a Constituição de Weimar de 1919
+surgiram em um contexto histórico de evolução de um estado liberal para um estado de proteção
+social. Essas foram as primeiras constituições a inserirem em seus textos direitos de segunda
+geração, incluindo direitos trabalhistas e de previdência social. Desta forma, ambas as constituições
+marcaram o início da fase de consolidação da seguridade social.
+
+
+Gabarito: CERTO
+
+(CESPE – Câmara dos Deputados - 2014) Com relação à evolução histórica e à organização
+institucional da previdência social, julgue o item a seguir.
+
+
+---
+
+A Constituição de Weirmar, de 1919, foi o primeiro diploma legal de magnitude constitucional em
+que se tratou de tema previdenciário.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+ERRADA. a primeira constituição a tratar de previdência social em seu texto foi a do México de 1917.
+
+
+Gabarito: ERRADO.
+
+(CESPE – Câmara dos Deputados - 2014) Acerca da seguridade social, julgue o item que se segue.
+Entre os principais marcos legislativos referentes à seguridade social incluem-se a edição do Poor
+Relief Act (lei dos Pobres), em 1601, na Inglaterra, e a criação do seguro-doença, em 1883, na
+Alemanha.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+CORRETA. O Poor Relief Act foi criado em 1601 na Inglaterra e propunha uma complementação do
+salário das famílias em situação de miserabilidade, sendo um dos precursores da assistência social.
+Em 1883, houve a edição da Lei dos Seguros Sociais na Alemanha, a qual foi instituída pelo chanceler
+Otto Von Bismarck e é considerada o marco da previdência social, tendo instituído uma seguro-
+doença.
+
+
+Gabarito: CORRETO.
+
+
+---
+
+ORIGEM E EVOLUÇÃO LEGISLATIVA DA SEGURIDADE
+SOCIAL NO BRASIL
+
+PRIMEIRAS MANIFESTAÇÕES DE MECANISMO PROTETIVO EM
+TERRITÓRIO NACIONAL
+
+Santas Casas de Misericórdia
+
+Iniciamos o estudo da origem e evolução legislativa da Previdência Social no Brasil
+pelas mais antigas formas de proteção social de que temos notícia no território
+nacional, que são as Santas Casas de Misericórdia.
+
+No Brasil, a Irmandade da Santa Casa de Misericórdia surgiu ainda no período
+colonial, instalando-se em Olinda, na Capitania de Pernambuco, em 1539 e em
+Santos, em 1543. Consideram-se as primeiras instituições hospitalares do país,
+destinadas a atender os enfermos dos navios dos portos e moradores das cidades.
+A Santa Casa de Misericórdia de Olinda funcionou ininterruptamente até a invasão
+holandesa, quando foi saqueada e incendiada. Chegou a ser reconstruída depois
+da expulsão dos flamengos, mas foi extinta.
+
+Braz Cubas, auxiliado pelos prósperos moradores da região, iniciou em 1542 a
+construção de um hospital, que inaugurou em 1543, provavelmente no primeiro dia
+de novembro. Chamou-o de Hospital de Todos os Santos, inspirando-se no nome
+do grande hospital de Lisboa.
+
+A Santa Casa de Misericórdia de Todos os Santos foi o segundo hospital do Brasil,
+numa região que se tornaria mais tarde a cidade de Santos, no estado de São Paulo.
+Inclusive uma das versões para a origem do nome desta cidade, é a construção
+desse hospital. É a mais antiga instituição assistencial e hospitalar em
+funcionamento do Brasil, uma vez que o Hospital da Santa Casa de Misericórdia de
+Olinda foi extinto.
+
+Depois do Hospital da Santa Casa de Misericórdia de Olinda e de Santos, surgiram
+as Santas Casas da Bahia, do Espírito Santo, do Rio de Janeiro e de São Paulo.
+Nesse período, entretanto, não se pode destacar nenhuma prática como científica,
+porque esses saberes só emergiram no país a partir da vinda da Corte portuguesa
+e da criação das faculdades de Medicina e de Direito.
+
+                                                                          1
+                                                                          43
+
+
+---
+
+O vocábulo “misericórdia” tem sua origem no latim e significa em sentido estrito
+“doar seu coração a outrem” (“misere” e “cordis”). Em sentido mais amplo quer
+dizer “doar a quem necessita”. As Santas Casas de Misericórdia trabalham com o
+objetivo de atender este princípio, recebendo os mais necessitados.
+
+Uma vez criadas, passaram a se dedicar ao atendimento aos enfermos e, em alguns
+casos, em mais de uma direção, ou seja, no amparo à velhice, à criança, aos
+hansenianos, à educação entre outras.
+
+Desde sua origem, até o início das relações com os governos (especialmente na
+década de 1960), as Santas Casas foram criadas e mantidas pelas doações das
+comunidades, vivendo períodos áureos, em que construíram seus patrimônios,
+sendo boa parte destes tombados como patrimônio histórico.
+
+Plano de Benefícios dos Órfãos e Viúvas dos Oficiais da Marinha
+
+No Século XVIII, em 23 de setembro de 1795, foi criado o Plano de Benefícios dos
+Órfãos e Viúvas dos Oficiais da Marinha, por meio do Montepio Militar dos Oficiais
+do Corpo da Marinha, legislação pioneira de amparo financeiro aos oficiais
+reformados e seus herdeiros, os quais, inclusive os pensionistas habilitados,
+contribuíam com um dia de soldo até o fim de suas vidas. As contribuições
+sustentavam o próprio sistema implantado. Esse talvez seja a primeira ideia de
+pensão por morte no ordenamento jurídico brasileiro, na medida em que tinha por
+objetivo estabelecer proteção aos citados dependentes dos oficiais da Marinha
+contra o risco social morte. Para muitos doutrinadores esse plano é considerado
+como a mais antiga experiência previdenciária brasileira.
+
+Aquele Plano estipulava que os beneficiários do montepio seriam as viúvas dos
+oficiais e, na falta delas, as filhas "donzelas ou viúvas", que dividiriam igualmente a
+pensão, mesmo que mudassem de estado civil após a concessão.
+
+O Montepio da Marinha abrangia apenas os oficiais, não incluindo as praças da
+Marinha e nem os militares do Exército. Estes, para receberem benefícios, usavam
+petições como recurso, ou, no caso dos oficiais do Exército, a Lei de Remuneração
+de Oficiais do Exército de 16 de dezembro de 1790.
+
+A necessidade da existência de instituições militares genuinamente brasileiras para
+lutar pelas causas nacionais levou o Governo Imperial a conceder, por Decreto de
+
+
+---
+
+4 de janeiro de 1823, às viúvas ou órfãs de oficiais do Exército mortos nas lutas pela
+Independência do Brasil, o benefício de meio soldo das patentes de seus
+respectivos maridos ou pais. Aos herdeiros de cabos e soldados o valor do
+benefício era de um soldo por inteiro. Em 15 de janeiro de 1823, outro Decreto
+estendeu aos militares da Armada estes mesmos direitos.
+
+Em novembro de 1823 foi estabelecia o Montepio Militar dos Oficiais do Exército,
+no qual as viúvas, filhas solteiras, filhos menores de 18 anos e mães viúvas, nesta
+ordem, passaram a ter direito à percepção de meio soldo da patente que o militar
+possuísse ao falecer. A responsabilidade pelo pagamento deste montepio do
+Exército era toda do Estado, não havendo contribuição por parte dos oficiais ou
+dos beneficiários, ao contrário do Plano de Montepio dos Oficiais da Marinha.
+
+A partir de 1841 o Governo, reconhecendo a necessidade de regular, ordenar e
+equiparar as duas instituições militares, baixou algumas normas procurando
+uniformizar os seus procedimentos. Começou com o Decreto nº 260, de 1841, que
+mandou organizar os quadros dos oficiais do Exército e da Armada no prazo de um
+ano, com designação do número de oficiais que devia haver em cada posto, soldos,
+etc. A partir daí, até 1895, apesar das grandes mudanças vividas pela nação neste
+período, ocorreram alterações de pequena importância quanto às legislações dos
+pensionistas militares.
+
+Em 1847, o Decreto nº 521 estabeleceu que as filhas solteiras continuariam a
+receber o meio soldo, mesmo depois de casadas, uniformizando os Planos do
+Exército e da Marinha.
+
+Em 11 de junho de 1890, o Decreto nº 475 concedeu às viúvas e órfãs dos oficiais
+da Armada o meio soldo devido ao pessoal do Exército, sem invalidar o montepio
+do Plano da Marinha de 1795.
+
+O Decreto nº 695, de 28 de agosto de 1890, criou o montepio similar ao da marinha
+para as famílias dos oficiais do Exército, sem invalidar o meio soldo concedido pela
+lei de 6 de novembro de 1827.
+
+O Decreto nº 1.054, de 20 de setembro de 1892, estabeleceu regras de
+contribuição para o meio soldo e o montepio dos Oficiais do Exército.
+
+Finalmente a Lei nº 288, de 6 de agosto de 1895, equiparou o montepio dos Oficiais
+da Armada, de 1795, ao dos Oficiais do Exército, unificando as vantagens
+concedidas às duas instituições quanto ao meio soldo e ao montepio, corrigindo
+
+
+---
+
+algumas distorções existentes nas legislações anteriores, e estabelecendo a
+universalidade das contribuições.
+
+Leis e Decretos sobre o assunto continuaram sendo emitidos no princípio do século
+XX, sendo destacável o Decreto nº 816, de 10 de janeiro de 1902, que estendeu às
+filhas casadas o direito à percepção do meio soldo e do montepio (antes recebiam
+apenas o montepio).
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+(CESPE - Analista de Administração Pública - TC-DF - Serviços Técnicos e Administrativos - Serviços
+Técnicos e Administrativos – 2014). Com relação à origem, à evolução legislativa, aos princípios
+constitucionais e à organização da seguridade social no Brasil, julgue o item.
+O plano de benefícios dos órfãos e viúvas dos oficiais da Marinha consubstancia exemplo histórico
+da proteção social brasileira.
+( ) CERTO
+( ) ERRADO
+COMENTÁRIOS:
+
+
+De fato, o plano de benefícios dos órfãos e viúvas dos oficiais da Marinha, criado no século XVIII,
+mais especificamente em 1795, é considerado por diversos doutrinadores como a mais antiga
+experiência previdenciária brasileira, sendo um claro exemplo histórico da proteção social no Brasil.
+
+
+Gabarito: CERTO.
+
+Montepios
+
+Também temos em nossa história, como algumas das primeiras formas de proteção
+social, o Montepio para a Guarda Pessoal de D. João VI, de 1808, bem como o
+Montepio Geral dos Servidores do Estado, conhecido como Mongeral, de 1835.
+
+O século XIX foi marcado pelo surgimento da "previdência privada" brasileira. Em
+10 de janeiro de 1835 criou-se o MONGERAL - Montepio Geral de Economia dos
+Servidores do Estado, proposto pelo então Ministro da Justiça, Barão de Sepetiba,
+
+
+---
+
+que, pela primeira vez, oferecia planos com características de facultatividade e
+mutualismo.
+
+Montepios são instituições em que, mediante o pagamento de cotas, cada membro
+adquire direitos como o de subsídio em caso de doença e o de deixar pensão
+pagável a alguém de sua escolha. São essas as manifestações mais antigas de
+Previdência Social. A palavra "montepio" provém de “monte de pietá”, podendo
+ser traduzida livremente como caixa de piedade, de ajuda ou de caridade.
+
+Eram instituições de caridade e sociedades privadas de ingresso voluntário, para
+fornecer empréstimos de pequena escala em condições mais favoráveis que as do
+mercado em troca de uma promessa, onde os pobres poderiam obter uma
+quantidade de dinheiro e penhorar seus pertences para satisfazer as suas
+necessidades mais básicas que pudessem usufruir no futuro, como o de ser
+subsidiado em caso de doença, prisão ou impossibilidade de ganhar, e o de deixar
+uma pensão após a morte para sua família.
+
+Como já dito, o surgimento da previdência complementar brasileira, pelas
+características de facultatividade e do mutualismo, pode ser fixado em 10/01/1835,
+com a criação do MONGERAL - Montepio Geral de Economia dos Servidores do
+Estado, proposto pelo Ministro da Justiça, Barão de Sepetiba.
+
+Juntamente com o mutualismo, elas podem ser consideradas como representantes
+de uma parte destacada da pré-história da previdência social. O ingresso num
+montepio sempre foi totalmente facultativo e a clientela protegida era universal.
+Podia entrar qualquer pessoa juridicamente capaz.
+
+A Previdência Social só viria a ser instituída através da Lei n° 4.682 (Lei Eloy Chaves),
+de 24/01/1923, considerada formalmente como o marco inicial da Previdência
+Social no Brasil, como estudaremos adiante.
+
+SEGURO DE ACIDENTE DO TRABALHO – SAT
+
+Devemos ressaltar o Decreto-Legislativo n.º 3.724, de 15/01/1919, importante
+aquisição legislativa, na medida em que promulgou a consagração do Seguro de
+Acidente do Trabalho (SAT), tornando obrigatório o pagamento de indenização
+pelos empregadores em decorrência dos acidentes de trabalho sofridos por seus
+
+
+---
+
+empregados. Não obstante, determinou a responsabilidade objetiva do
+empregador, ou seja, independe de culpa ou dolo.
+
+Tratava-se, contudo, de um benefício privado, sendo pago pelo empregador ao
+trabalhador acidentado, sem participação do Estado.
+
+
+                Vejamos como tais assuntos já foram cobrados em prova:
+
+
+(CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada). Considerando a evolução
+histórico-legislativa e os princípios da seguridade social no Brasil, julgue a assertiva a seguir:
+Desde 1919, já havia legislação sobre acidente de trabalho no Brasil, entretanto, somente com a
+publicação da Lei Eloy Chaves, em 1946, foram implementadas as primeiras experiências
+previdenciárias, tendo a referida lei criado caixas de aposentadorias e pensões para os empregados
+das empresas ferroviárias e aeroferroviárias brasileiras.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Aqui há uma tentativa de o examinador induzir o candidato mais apressado ao erro. De fato, desde
+1919, já havia legislação sobre acidente de trabalho no Brasil. Ademais, a doutrina majoritária
+atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682 como o primeiro marco da previdência social no
+Brasil. Contudo, o referido decreto é de 1923, e não 1946, conforme afirma o examinador. Além
+disso, não eram empresas aeroferroviárias e sim ferroviárias somente.
+
+
+Gabarito: ERRADO
+
+LEI ELOY CHAVES - MARCO INICIAL DA PREVIDÊNCIA SOCIAL NO
+BRASIL
+
+Considerada pela maioria dos doutrinadores e pelas bancas de concursos como o
+marco inicial da Previdência Social no Brasil, a Lei Eloy Chaves (Decreto Legislativo
+nº 4.682, de 24 de janeiro de 1923) foi a primeira norma a estruturar o sistema
+                     previdenciário brasileiro, instituindo as Caixas de
+                     Aposentadoria e Pensões (CAP´s) para a categoria dos
+                     ferroviários.
+
+
+---
+
+Atualmente comemora-se o aniversário da Previdência Social Brasileira todo dia 24
+de janeiro, em referência à Lei Eloy Chaves, que é de 24/01/1923.
+
+Apesar de não ser o primeiro diploma legal a tratar de Previdência Social no Brasil,
+a Lei Eloy Chaves ganhou o honroso título de marco inicial da Previdência Social
+em nosso país em virtude da estrutura e do desenvolvimento obtidos na
+Previdência Social decorrentes de sua publicação e advento.
+
+Como já estudado, antes da Lei Eloy Chaves já havia sido publicado o Decreto
+Legislativo nº 3.724/1919, que tratava de seguro de acidente do trabalho – SAT.
+Além disso, já estavam em vigor algumas leis concedendo aposentadorias para
+determinadas categorias de trabalhadores, como, por exemplo, professores,
+servidores públicos, empregados dos Correios, etc. No entanto, apesar destas
+                  normas legais específicas terem sido implementadas antes da Lei
+                  Eloy Chaves, apenas com a lei Eloy Chaves houve, de fato, a
+                  criação de um sistema organizado e estruturado de proteção
+                  social.
+
+Apesar da Lei Eloy Chaves ser considerada como marco inicial da previdência
+brasileira, não foi o primeiro diploma legal a tratar de Previdência Social no Brasil.
+
+Vamos detalhar, no tópico seguinte, as Caixas de Aposentadoria e Pensões – CAP´s,
+normatizadas pela Lei Eloy Chaves.
+
+
+               Marco inicial: LEI ELOY CHAVES
+               Decreto legislativo 4.682, de 24/01/1923
+
+               Eloy Marcondes de Miranda Chaves
+               (Deputado Federal pelo PRP/SP)
+
+               Instituiu as Caixas de Aposentadorias e Pensões – CAP´s para a
+               categoria dos ferroviários.
+
+
+---
+
+                 A Lei Eloy Chaves não foi a 1ª norma jurídica a tratar de assunto
+                 previdenciário.
+                 Antes da Lei Eloy Chaves, existiam normas isoladas, sem um
+                 sistema previdenciário organizado, criando aposentadorias
+                 para determinadas categorias, tais como professores,
+                 servidores públicos e funcionários dos correios.
+                 A Lei Eloy Chaves é considerada como marco inicial da
+                 Previdência Social no Brasil porque “estruturou” o sistema
+                 previdenciário através das Caixas de Aposentadorias e
+                 Pensões – CAP´s
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+ (CESPE - Analista Judiciário – STJ – Judiciária – 2018). Tendo como referência a doutrina e a
+jurisprudência a respeito da organização e dos princípios do sistema de seguridade social brasileiro,
+julgue o item a seguir.
+O período de implantação da seguridade social foi marcado, entre outros, pelo advento da Lei Eloy
+Chaves, que instituiu as caixas de aposentadorias e pensões exclusivamente para ferroviários.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves (Decreto-Lei n. 4682 de 1923) como o
+primeiro marco da previdência social no Brasil, por ter criado as Caixas de Aposentadoria e Pensões
+(CAP) para os ferroviários. Posteriormente, esses Caixas foram estendidos a outras categorias de
+trabalhadores. Assertiva correta
+
+
+Gabarito: CERTO.
+
+ (CESPE - Técnico do Seguro Social – INSS – 2016). No que se refere à seguridade social no Brasil,
+julgue o item seguinte.
+A Lei Eloy Chaves, que criou em cada uma das empresas de estradas de ferro existentes no país uma
+caixa de aposentadoria e pensões para os respectivos empregados, foi o primeiro ato normativo a
+tratar de seguridade social no Brasil.
+( ) CERTO
+
+
+---
+
+( ) ERRADO
+
+
+COMENTÁRIOS:
+
+
+A assertiva está incorreta, pois a Lei Eloy Chaves, apesar de ser considerado o marco inicial da
+Previdência Social no Brasil, não é o primeiro ato normativo a tratar de Seguridade Social em nosso
+país. Antes dela, tivemos disposições normativas apresentadas na Constituição de 1891. Cumpre
+observar ainda que a Seguridade Social, como conjunto de ações, só passou a ser tratada, sob esta
+forma de organização, depois da Constituição de 1988. Ademais, antes da Lei Eloy Chaves, já havia
+sido publicado o Decreto Legislativo nº 3.724/1919, que tratava de seguro de acidente do trabalho
+– SAT. Além disso, já estavam em vigor algumas leis concedendo aposentadorias para determinadas
+categorias de trabalhadores, como, por exemplo, professores, servidores públicos, empregados dos
+Correios, etc. No entanto, apesar destas normas legais específicas terem sido implementadas antes
+da Lei Eloy Chaves, apenas com a lei Eloy Chaves houve, de fato, a criação de um sistema organizado
+e estruturado de proteção social
+
+
+Gabarito: ERRADO.
+
+(CESPE - Procurador do Estado do Amazonas – 2016). A respeito do surgimento e da evolução da
+seguridade social, julgue o item a seguir.
+No Brasil, iniciou-se o regime próprio de previdência dos servidores públicos com o advento da Lei
+Eloy Chaves, em 1923, que determinou a criação das caixas de aposentadorias e pensões para os
+ferroviários.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois a previdência dos servidores públicos nascera antes da Lei Eloy
+Chaves, em 1835 com a criação do MONGERAL (Montepio Geral dos Servidores do Estado). No que
+tange a Lei Eloy Chaves, a doutrina majoritária atribui à esta Lei (Decreto-Lei nº 4.682 de 1923) como
+o primeiro marco da previdência social no Brasil, por ter criado os Caixas de Aposentadoria e Pensão
+(CAP) para os trabalhadores ferroviários.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+(CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do conceito, da origem e
+da evolução legislativa da seguridade social brasileira, julgue a assertiva a seguir:
+Apesar de não ser a primeira norma a tratar de seguridade social, a Lei Eloy Chaves (Decreto
+Legislativo nº 4.682/1923) é considerada pela doutrina majoritária o marco inicial da previdência
+social brasileira.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Correto. Apesar de não ser unânime entre todos os especialistas, a Lei Eloy Chaves (Decreto-Lei n.
+4682 de 1923) é considerada, pela doutrina majoritária, o marco inicial da previdência social no
+Brasil. Esta lei criou as Caixas de Aposentadorias e Pensões para empregados de empresas
+ferroviárias, iniciando a consolidação da base do sistema previdenciário no país, a qual,
+posteriormente, foi seguida por outras categorias.
+Gabarito: CERTO
+
+(CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da evolução histórica do
+direito previdenciário brasileiro, julgue a assertiva a seguir:
+O Decreto Legislativo n.º 4.682/1923, também conhecido como Lei Eloy Chaves, é considerado um
+marco do direito previdenciário brasileiro, devido ao fato de, por meio dele, ter sido criado o
+Ministério da Previdência e Assistência Social.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei n. 4682 de 1923 como o marco
+inicial da previdência social no Brasil, por ter criado as Caixas de Aposentadoria e Pensões (CAP)
+para cada uma das empresas ferroviárias do Brasil. Contudo, o primeiro ministério voltado
+especificamente à Previdência nasceu somente em 1960, o então chamado Ministério do Trabalho
+e Previdência Social.
+
+
+Gabarito: ERRADO
+
+(INÉDITA). No tocante a origem e a evolução da seguridade social brasileira, julgue a assertiva a
+seguir:
+
+
+---
+
+A Lei Eloy Chaves (Decreto Legislativo nº 4.682/1923) é considerada um marco, por ser o primeiro
+movimento histórico no país no que tange à Seguridade Social.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682 de 1923, como o
+primeiro marco da previdência social no Brasil, por ter criado os Caixas de Aposentadoria e Pensão
+(CAP) para os ferroviários. Contudo, bem antes disso, pode-se observar movimentos que
+historicamente contribuíram para o nascimento e a evolução da seguridade social no país. É o caso,
+por exemplo, das Santas Casas de Misericórdia, criadas a partir de 1543, as quais já visavam à
+entrega de prestações assistenciais, bem como os Plano de Benefícios dos Órfãos e Viúvas dos
+Oficiais da Marinha, os Montepios para algumas categorias, etc. Assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+CAIXAS DE APOSENTADORIAS E PENSÕES – CAP´S
+
+As Caixas de Aposentadoria e Pensões – CAP´s, instituídas originalmente em 1923
+pela Lei Eloy Chaves, para a categoria dos ferroviários, assegurava, aos respectivos
+trabalhadores (empregados e diaristas) que executavam serviços de caráter
+permanente em cada uma das empresas de estradas de ferro existentes no país, os
+seguintes benefícios:
+
+   • Aposentadoria por invalidez;
+   • Aposentadoria Ordinária (equivalente à aposentadoria por tempo de
+     contribuição);
+   • Pensão por morte; e
+   • Assistência médica.
+
+As respectivas Caixas de Aposentadoria e Pensões – CAP´s eram organizadas POR
+EMPRESA e tinha natureza PRIVADA. Ou seja, cada uma das empresas ferroviárias
+do país deveria criar sua própria Caixa de Aposentadoria e Pensões - CAP. A
+administração de cada Caixa de Aposentadoria e Pensões ficava a cargo dos
+                      respectivos empregadores sendo que o poder público
+
+
+---
+
+apenas estabelecia, mediante atos legais, suas regras de funcionamento.
+
+A primeira empresa a criar uma CAP foi a Great Western do Brasil. No total, foram
+criadas 183 CAP´s no Brasil na década de 20 (entre 01/01/1920 e 31/12/1929).
+
+O custeio das Caixas, conforme previsão do artigo 3º do Decreto Legislativo nº
+4.682, de 24 de janeiro de 1923 (Lei Eloy Chaves), era feito da seguinte forma:
+
+    a) uma contribuição mensal dos empregados, correspondente a 3% dos respectivos
+    vencimentos;
+
+    b) uma contribuição anual da empresa, correspondente a 1% da sua renda bruta;
+
+    c) uma contribuição equivalente ao aumento de 1,5% sobre as tarifas das estradas de ferro;
+
+    d) as importâncias das joias pagas pelos empregados na data da criação da caixa e pelos
+    admitidos posteriormente, equivalentes a um mês de vencimentos e pagas em 24
+    prestações mensais;
+
+    e) as importâncias pagas pelos empregados correspondentes à diferença do primeiro mês
+    de vencimentos, quando promovidos ou aumentados de ordenado, pagas também em 24
+    prestações mensais;
+
+    f) o importe das somas pagas a maior e não reclamadas pelo público, dentro do prazo de
+    um ano;
+
+    g) as multas que atingiam o público ou o pessoal;
+
+    h) as verbas sob rubrica de venda de papel velho e varreduras;
+
+    i) os donativos legados à caixa;
+
+    j) os juros dos fundos acumulados.
+
+Além da aposentadoria por invalidez, a Lei Eloy Chaves previa, no seu artigo 12, a
+aposentadoria ordinária nas seguintes situações:
+
+    a) integral, ao empregado ou operário que tenha prestado, pelo menos, 30 (trinta) anos de
+    serviço e tenha 50 (cinquenta) anos de idade;
+
+    b) com 25% de redução, ao empregado ou operário que, tendo prestado 30 (trinta) anos de
+    serviço, tenha menos de 50 (cinquenta) anos de idade;
+
+
+---
+
+    c) com tantos trinta avos quanto forem os anos de serviço, até o máximo de 30 (trinta), ao
+    empregado ou operário que, tendo 60 (sessenta) ou mais anos de idade, tenha prestado 25
+    (vinte e cinco) ou mais, até 30 (trinta) anos de serviço.
+
+Imperioso ressaltar que a Lei Eloy Chaves instituiu, no seu artigo 9º, item 3º, a
+pensão por morte para os dependentes dos segurados. O benefício seria extinto,
+nos termos do artigo 33, para a viúva, o viúvo ou pais, quando contraíssem novas
+núpcias, para os filhos, ao completarem 18 (dezoito) anos, para as filhas ou irmãs
+solteiras, ao contraírem matrimônio e, para todos, em caso de vida desonesta ou
+vagabundagem.
+
+Com a edição da Lei Eloy Chaves, outras categorias mobilizaram na busca pelos
+mesmos direitos, provocando uma extensão dessa medida protetiva. São exemplos
+dessa situação a Lei nº 5.109 (1926), que estendeu a incidência da Lei Eloy Chaves
+aos portuários e marítimos, e a Lei nº 5.485 (1928), referente ao pessoal das
+empresas de serviços telegráficos e radiotelegráficos, dentro outras, conforme
+segue:
+
+   • 1926: Empregados portuários e marítimos;
+   • 1928: Empregados de empresas de Serviços Telegráficos                                   e
+     Radiotelegráficos;
+   • 1930: Empregados de empresas de Serviços de Força, Luz e Bondes.
+
+Considerando o elevado número de CAP´s em funcionamento no Brasil, gerou-se a
+necessidade de ser implementada uma reforma previdenciária, pois ficou
+constatado, dentre outros, dois grandes problemas neste formato de Caixas de
+Aposentadoria e Pensões:
+
+   • Muitas delas eram inviáveis: Quando as empresas eram pequenas e tinhas
+     poucos funcionários, a fonte de custeio era muito pouco expressiva e,
+     quando alguns dos seus empregados ficavam doentes ou morriam, a
+     respectiva CAP entrava em colapso, ficando sem recursos para pagar os
+     benefícios.
+
+   • Problemas nas mudanças de empregos: Quando o empregado trocava de
+     empresa durante sua vida profissional, havia muita dificuldade em transferir
+     de uma CAP para outra suas contribuições já pagas, dificultando
+     enormemente a manutenção de seus direitos protetivos.
+
+
+---
+
+   Por tal razão, o país encontrou-se diante de uma necessidade de transferir a
+   administração da previdência social para o estado, bem como criar institutos
+   mais sólidos e com mais empregados, aumentando, desta forma, a proteção
+   social do trabalhador.
+
+   Diante desta necessidade, houve a unificação das CAP´s em Institutos de
+   Aposentadorias e Pensões – IAP´s, organizados por categoria profissional (e não
+   mais por empresa), conforme estudaremos no próximo típico.
+
+
+                               Caixas de Aposentadorias e Pensões
+                                        CAP´s (1923)
+                As CAP´s foram instituídas, inicialmente, para a categoria dos
+                ferroviários, e tinham as seguintes características principais:
+
+                - Início em 1923.
+                - Eram organizadas por empresa;
+                - Tinham natureza PRIVADA.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+(CESPE - Analista Judiciário – STJ – 2018). Com relação à organização e aos princípios do sistema
+de seguridade social brasileiro, julgue o item a seguir.
+Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores buscaram a proteção social
+que aquela legislação garantiu, o que provocou a expansão dos direitos protetivos pelo país.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei n. 4682 de 1923, como o
+primeiro marco da previdência social no Brasil, por ter criado as Caixas de Aposentadoria e Pensões
+(CAP) para os ferroviários, sendo que, posteriormente, diversas categorias de trabalhadores
+buscaram tal proteção social. Destra forma, essas Caixas foram estendidas a outras categorias de
+trabalhadores, tais como:
+• 1926: Empregados portuários e marítimos;
+
+
+---
+
+• 1928: Empregados de empresas de Serviços Telegráficos e Radiotelegráficos;
+• 1930: Empregados de empresas de Serviços de Força, Luz e Bondes.
+
+
+Portanto, assertiva correta.
+
+
+Gabarito: CERTO.
+
+(ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em relação à trajetória
+da previdência social no Brasil, julgue o item a seguir:
+As Caixas de Aposentadorias e Pensões (CAP´s) eram organizações de natureza privada financiadas
+pelas contribuições das empresas e dos empregados.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A doutrina atribui à Lei Eloy Chaves (Decreto-Lei nº 4.682 de 1923), como o primeiro marco
+da previdência social brasileiro. À época, foi criada a Caixa de Aposentadoria e Pensão – CAP em
+favor dos empregados de empresas do setor ferroviário. Contudo, as respectivas CAP´s eram
+organizadas pelas empresas (inicialmente somente as empresas do setor ferroviário) e cada uma
+delas possuía sua própria caixa. As CAP´s tinham natureza privada e eram financiadas pelas
+contribuições das empresas e dos empregados. Assertiva correta.
+
+
+Gabarito: CERTO.
+
+ (CESPE – Defensor Público Federal – Defensoria Pública da União – 2010). Em relação aos
+institutos de direito previdenciário, julgue o item que se segue.
+A Lei Eloy Chaves (Decreto Legislativo n.º 4.682/1923), considerada o marco da Previdência Social
+no Brasil, criou as caixas de aposentadoria e pensões das empresas de estradas de ferro, sendo esse
+sistema mantido e administrado pelo Estado.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+
+
+---
+
+Esta questão pode pegar o candidato que está com um pouco de pressa na hora de fazer a prova. A
+Lei Eloy Chaves realmente foi um marco na história da Previdência Social do Brasil e ao Estado cabia
+a regulamentação. Contudo, tanto a manutenção quanto a administração cabiam aos
+empregadores, que no caso eram as empresas ferroviárias, possuindo, portanto, natureza privada.
+Portanto assertiva errada.
+
+
+Gabarito: ERRADA.
+
+ (QUESTÃO INÉDITA). Com relação à evolução do sistema de Seguridade Social brasileiro, julgue o
+item a seguir:
+Somente após a década de 40 diversas categorias de trabalhadores conquistaram a proteção social
+que as empresas do setor ferroviário obtiveram quando da edição da Lei Eloy Chaves.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682 de 1923, como o primeiro
+marco da previdência social no Brasil, por ter criado os Caixas de Aposentadoria e Pensão (CAP) para
+os ferroviários. Contudo, já na década de 30, do século passado, essas caixas foram estendidas a
+outras categorias de trabalhadores. Assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+INSTITUTOS DE APOSENTADORIA E PENSÃO – IAP´S
+
+Diante das necessidades já estudadas e dos problemas apresentados pelas CAP´s,
+as Caixas de Aposentadoria e Pensões – CAP´s foram unificadas por categoria
+profissional, dando origem aos Institutos de Aposentadorias e Pensões – IAP´s, na
+década de 30 do século passado.
+
+Os IAP´s eram autarquias de abrangência nacional, centralizadas no governo
+federal e subordinadas ao recém-criado Ministério do Trabalho.
+
+Os Institutos de Aposentadorias e Pensões – IAP´s surgiram em 1933, inicialmente
+com a criação do IAPM (Instituto de Aposentadoria e Pensões dos Marítimos).
+
+
+---
+
+Enquanto as CAP´s eram organizadas por empresas, os IAP´s eram organizados por
+CATEGORIAS PROFISSIONAIS, abrangendo classe de trabalhadores no âmbito
+nacional.
+
+Nos anos seguintes, a partir de 1933, outros IAP´s surgiram, além dos Marítimos,
+conforme segue:
+
+   • 1934: IAPC - Instituto de Aposentadoria e Pensões dos Comerciários;
+   • 1934: IAPB - Instituto de Aposentadoria e Pensões dos Bancários;
+   • 1936: IAPI - Instituto de Aposentadoria e Pensões dos Industriários;
+   • 1938: IPASE - Instituto de Pensões e Assistência dos Servidores do Estado;
+   • 1938: IAPETEC - Instituto de Aposentadoria e Pensões dos Empregados em
+     Transportes e Cargas;
+   • 1939: Instituto de Aposentadoria e Pensões dos Operários Estivadores;
+   • 1945: o Instituto de Aposentadoria e Pensões dos Operários Estivadores foi
+     incorporado ao IAPTEC, passando a se denominar Instituto de Aposentadoria
+     e Pensões dos Estivadores e Transportes de Cargas;
+   • 1953: IAPFESP - Foram unificadas todas as CAP´s de empresas ferroviárias e
+     serviços públicos, desde seu surgimento com a Lei Eloy Chaves, dando
+     origem ao Instituto dos Trabalhadores de Ferrovias e Serviços Públicos -
+     IAPFESP
+
+                      Antes de 1960, a grande maioria dos trabalhadores brasileiros
+                      com vínculo empregatício já estava filiada a um Instituto de
+                      Aposentadoria e Pensões – IAP, coberto por plano de
+Previdência Social.
+
+Ocorre, porém, que cada Instituto de Aposentadoria e Pensão – IAP tinha um
+diploma legal próprio, com regras diferenciadas.
+
+Em 1954, no entanto, o Decreto 35.448/54 aprovou o Regulamento Geral dos
+Institutos de Aposentadorias e Pensões, uniformizando os princípios gerais
+aplicáveis a todos os IAP´s. Apesar disso, mesmo com regras e princípios gerais a
+seguir, cada IAP mantinha, ainda, um diploma legal próprio.
+
+A existência de diversos Institutos de Aposentadorias e Pensões – IAP´s e as
+diversas normas aplicáveis a cada um dos IAP, incentivaram uma grande mudança
+na previdência social brasileira, com o surgimento da Lei Orgânica da Previdência
+
+
+---
+
+Social, uniformizando toda a legislação previdenciária e preparando a futura
+unificação de todos os IAP´s numa única autarquia.
+
+                              Institutos de Aposentadoria e Pensão
+
+                                        IAP´s (1933)
+               - Início em 1933;
+               - Unificação das CAP´s em IAP´s;
+               - IAP´s: Autarquias Federais subordinadas ao Ministério do Trabalho;
+               - Organizadas em torno de CATEGORIAS PROFISSIONAIS.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+(CESPE - Defensor – Defensoria Pública do Estado do Espírito Santo - 2012). No tocante à
+Seguridade Social, julgue o item subsequente.
+A publicação, em 1954, do Decreto n.º 35.448, que aprovou o Regulamento Geral dos Institutos de
+Aposentadorias e Pensões, é considerada, pela doutrina majoritária, o marco inicial da previdência
+social brasileira.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Apesar de não ser unânime entre todos os especialistas, a Lei Eloy Chaves (Decreto-Lei nº 4.682
+de 1923) é considerada o marco inicial da previdência social no Brasil. Esta lei criou as Caixas de
+Aposentadorias e Pensões para empregados de empresas ferroviárias, iniciando a consolidação da
+base do sistema previdenciário no país, a qual, posteriormente, foi seguida por outras categorias.
+Portanto, assertiva incorreta.
+
+
+Gabarito: ERRADO
+
+(ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em relação à trajetória
+da previdência social no Brasil, julgue o item a seguir:
+
+
+---
+
+Na década de 1930, as CAP´s foram transformadas e substituídas progressivamente pelos Institutos
+de Aposentadoria e Pensões (IAP´s), organizados por ramos de atividade e de natureza estatal.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Diante das necessidades e dos problemas apresentados pelas CAP´s, estas foram unificadas por
+categoria profissional, dando origem aos Institutos de Aposentadorias e Pensões – IAP´s, na década
+de 30 do século passado. Os IAP´s eram autarquias de abrangência nacional, centralizadas no
+governo federal e subordinadas ao recém-criado Ministério do Trabalho. Os Institutos de
+Aposentadorias e Pensões – IAP´s surgiram em 1933, inicialmente com a criação do IAPM (Instituto
+de Aposentadoria e Pensões dos Marítimos). Enquanto as CAP´s eram organizadas por empresas,
+os IAP´s eram organizados por CATEGORIAS PROFISSIONAIS, abrangendo classe de trabalhadores
+no âmbito nacional. Assertiva correta.
+
+
+Gabarito: CERTO.
+
+(CESPE - Procurador do Ministério Público de Contas - TCE/ BA – 2010). Julgue o próximo item,
+a respeito da seguridade social.
+Na evolução da previdência social brasileira, o modelo dos institutos de aposentadoria e pensão,
+que abrangiam determinadas categorias profissionais, foi posteriormente substituído pelo modelo
+das caixas de aposentadoria e pensão, que eram criadas na estrutura de cada empresa.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Em realidade é exatamente o contrário. A origem da previdência social brasileira foi com as Caixas
+de Aposentadoria e Pensão – CAP, que eram criadas na estrutura de cada empresa. Depois os
+modelos de CAP´s foram substituídos pelos Institutos de Aposentadoria e Pensão – IAP. Assertiva
+incorreta.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+(CESPE – Defensor Público Federal – Defensoria Pública da União - 2004). Em relação à
+origem, organização e evolução legislativa da seguridade social no Brasil, julgue o item a
+seguir.
+O falecimento recente de Leonel Brizola recordou uma das correntes ideológicas mais
+importantes na história brasileira: o trabalhismo, resultante da política adotada pelo
+governo Vargas a partir de 1930 e cujo ideário constituiu um conjunto de políticas no
+fortalecimento do sindicalismo, na criação da justiça do trabalho e na política
+previdenciária caracterizada pela organização de caixas de aposentadoria e pensão
+segmentadas por empresas e de natureza privada.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Quase certa! O conceito apresentado pelo examinador não está equivocado. Contudo, na
+realidade, na década de 30 as Caixas de Aposentadoria e Pensão foram substituídas pelos
+Institutos de Aposentadoria. Ou seja, em 1930, as CAP’s já existiam, o que torna a questão
+errada.
+Gabarito: ERRADO.
+
+LEI ORGÂNICA DA PREVIDÊNCIA SOCIAL – LOPS (UNIFORMIZAÇÃO
+E UNIFICAÇÃO)
+
+Em 1960 foi publicada a Lei 3.807/60, conhecida como Lei Orgânica da Previdência
+Social (LOPS), por meio da qual se uniformizou e padronizou o sistema assistencial,
+a legislação previdenciária dos diversos IAP´s então existentes, bem como criou
+outros benefícios (auxílio-natalidade, auxílio-funeral e auxílio-reclusão).
+
+Apesar de não ter unificado os próprios Institutos de Aposentadorias e Pensões -
+IAP´s (mas tão somente unificado e padronizado a legislação dos IAP´s existentes)
+a LOPS já estava preparando o ordenamento jurídico brasileiro para a posterior
+unificação dos IAP´s em uma única autarquia federal, o que ocorreu em 1967 com
+a criação do INPS, como estudaremos a seguir.
+
+
+---
+
+                                   Uniformização e Unificação
+                               Lei Orgânica da Previdência Social
+                                        LOPS (1960)
+              - 1960: Publicada a Lei 3.807/60 – Lei Orgânica da Previdência
+              Social;
+              - Unificou toda a legislação previdenciária;
+
+              - Preparação para a unificação final dos IAP´s.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+(CESPE - Analista Legislativo - CAM DEP – 2014). Com relação à evolução histórica e à organização
+institucional da previdência social, julgue o item a seguir.
+Embora a Lei Eloy Chaves, de 1923, seja considerada, na doutrina majoritária, o marco da
+previdência social no Brasil, apenas em 1960, com a aprovação da Lei Orgânica da Previdência Social,
+houve a uniformização do regramento de concessão dos benefícios pelos diversos institutos de
+aposentadoria e pensão então existentes.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva correta. A doutrina majoritária considera a Lei Eloy Chaves (Decreto-Lei n. 4682 de 1923),
+como o primeiro marco da previdência social no Brasil. A Lei Eloy Chaves criou a Caixa de
+Aposentadoria e Pensões – CAP para os empregados ferroviários, mediante contribuição dos
+empregados, empregadores e Estado. Em 1926 essas CAP´s foram estendida aos portuários e
+marítimos e, mais adiante, para outras categorias.
+Contudo, conforme afirma a banca examinadora, somente em 1960, com a Lei Orgânica da
+Previdência Social (LOPS), houve a uniformização do regramento de concessão dos benefícios pelos
+diversos institutos de aposentadorias e pensões então existentes. A LOPS já estava preparando o
+ordenamento jurídico brasileiro para a posterior unificação dos IAP´s em uma única autarquia
+federal, o que ocorreu em 1967 com a criação do INPS.
+
+
+---
+
+Gabarito: CERTO
+
+
+FUNRURAL
+
+No Brasil, a proteção social na área rural teve início em 1963, por meio da Lei
+4.214/63, que criou o Fundo de Assistência ao Trabalhador Rural – FUNRURAL.
+
+Posteriormente, em 1971, foi criado o Programa de Assistência ao Trabalhador
+Rural – PRORURAL, por meio da Lei Complementar 11/71.
+
+Por meio do PRORURAL, o trabalhador rural tinha direito aos benefícios abaixo,
+todas no valor de um salário mínimo:
+
+   •   Aposentadoria por velhice;
+   •   Aposentadoria por invalidez;
+   •   Pensão; e
+   •   Auxílio Funeral.
+
+Tratava-se de um programa assistencial não contributivo por parte do trabalhador,
+ou seja, não exigia contribuição prévia para ter direito aos benefícios.
+
+O FUNRURAL se tornou uma autarquia federal, ficando responsável pela
+administração do PRORURAL.
+
+                  Vejamos como tais assuntos já foram cobrados em prova:
+
+(CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da evolução histórica do
+direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ocorreram inúmeras modificações na organização administrativa previdenciária brasileira ao longo
+de seu desenvolvimento, tais como a transformação do Fundo de Assistência e Previdência do
+Trabalhador Rural em INPS e, em seguida, mediante a CF, a transformação deste em INSS.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+
+
+---
+
+A transformação citada pelo examinador nunca ocorreu. O FUNRURAL – Fundo de Assistência e
+Previdência do Trabalhador Rural foi criado em 1963, pela Lei 4.214 e foi extinto em 1991, pelo art.
+138 da Lei 8.213/91. O INPS – Instituto Nacional de Previdência Social foi criado em 1966, por
+intermédio do Decreto Lei nº 72/66, que unificou os Institutos de Aposentadoria e Pensão existentes
+à época em um único órgão. Contudo cumpre observar que, mesmo com a criação do INPS, os
+trabalhadores rurais continuaram no próprio FUNRURAL. Assertiva incorreta.
+
+
+Gabarito: ERRADO
+
+INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL - INPS
+
+Um dos passos mais importantes para chegarmos no atual sistema previdenciário
+foi a criação, em 1967, do Instituto Nacional da Previdência Social – INPS.
+
+O INPS foi criado pelo Decreto-Lei nº 72/66, publicado em 21/11/1966, mas tendo
+entrado em vigor apenas em 01/01/1967.
+
+Com a criação do Instituto Nacional da Previdência Social - INPS, todos os Institutos
+de Aposentadorias e Pensões – IAP´s foram unificados numa única autarquia
+federal, qual seja, o INPS.
+
+
+                        INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL
+                                           INPS (1967)
+
+                 - INPS criado pelo Decreto-Lei nº 72/1966
+
+                 - Início em 02/01/1967;
+
+                 - Unificação dos IAP´s em uma ÚNICA AUTARQUIA.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(CESPE - Defensor Público Federal – 2017). Acerca da seguridade social no Brasil, de sua evolução
+histórica e de seus princípios, julgue o item a seguir.
+A Lei Eloy Chaves, de 1923, foi um marco na legislação previdenciária no Brasil, pois unificou os
+diversos institutos de aposentadoria e criou o INPS.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois apesar de a Lei Eloy Chaves realmente ter sido um marco na
+legislação previdenciária, não foi essa Lei que unificou institutos de aposentadoria, pois estes sequer
+existiam à época. No caso, O INPS foi criado pelo Decreto-Lei nº 72/66, publicado em 21/11/1966,
+mas tendo entrado em vigor apenas em 01/01/1967. Com a criação do Instituto Nacional da
+Previdência Social - INPS, todos os Institutos de Aposentadorias e Pensões – IAP´s foram unificados
+numa única autarquia federal, qual seja, o INPS. Muito tempo depois da edição da lei Eloy Chaves.
+
+
+Gabarito: ERRADO.
+
+(CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da evolução histórica do
+direito previdenciário brasileiro, julgue a assertiva a seguir:
+O ordenamento jurídico brasileiro coexistiu com inúmeros regimes previdenciários específicos até
+a edição do Decreto-lei n.º 72/1966, mediante o qual foram unificados os institutos de
+aposentadorias e centralizada a organização previdenciária no INPS.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, o INPS – Instituto Nacional de Previdência Social foi criado em 1966, por intermédio do
+Decreto Lei nº 72/66, unificando-se os Institutos de Aposentadoria e Pensão existentes à época em
+uma única autarquia federal. Assertiva correta.
+
+
+Gabarito: CERTO
+
+
+---
+
+SISTEMA NACIONAL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL -
+SINPAS
+
+Em 1977, por meio da Lei nº 6.439/77, foi instituído o Sistema Nacional de
+Previdência e Assistência Social – SINPAS, cujo objetivo era agregar e integrar as
+diversas atividades relacionadas com:
+
+   • Previdência Social;
+   • Assistência Médica (saúde); e
+   • Assistência Social.
+
+As entidades agregadas pelos SINPAS e suas respectivas finalidades estão
+relacionadas abaixo:
+
+   • INPS: Instituto Nacional de Previdência Social. Era responsável pela
+     concessão e manutenção dos benefícios e outras prestações em dinheiro,
+     inclusive aquelas que estavam a cargo do Fundo de Assistência ao
+     Trabalhador Rural (Funrural);
+   • IAPAS: Instituto de Administração Financeira da Previdência e Assistência
+     Social. Era responsável pela fiscalização, arrecadação e cobrança das
+     contribuições previdenciárias;
+   • INAMPS: Instituto Nacional de Assistência Médica da Previdência Social. Era
+     responsável por prestar assistência médica aos que contribuíam. Possuía,
+     portanto, caráter contributivo.
+   • LBA: Fundação Legião Brasileira de Assistência. Era responsável pela
+     assistência social à população carente.
+   • FUNABEM: Fundação Nacional do Bem-Estar do Menor. Era responsável por
+     executar políticas voltadas para o bem-estar do menor.
+   • DATAPREV: Empresa de processamento de dados da Previdência Social. É a
+     única entidade que fazia parte do SINPAS e que existe até hoje.
+   • CEME: Central de Medicamentos. Responsável por distribuir medicamentos
+     gratuitamente ou a baixo custo.
+
+Por meio da lei 6.439/77, vigente à época, ficava o Poder Executivo autorizado a
+promover a transferência, de uma para outra entidade do SINPAS, de bens imóveis
+e de direitos a eles relativos.
+
+
+---
+
+Foram extintos o INAMPS, a LBA, a FUNABEM e a CEME. Houve fusão do INPS e
+IAPAS, dando origem ao INSS. A Dataprev permanente em atividade até os dias
+atuais, sendo uma empresa pública.
+
+                      Sistema Nacional de Previdência e
+                      Assistência Social (lei nº 6.439/77)
+                             SINPAS (1977)
+          Objetivo: agregar diversas entidades relacionadas com:
+          - saúde
+          - assistência social
+          - previdência social
+
+                       Entidades Agregadas pelo SINPAS
+
+         - INPS: Conceder Benefícios;
+         - IAPAS: Arrecadar e Fiscalizar as Contribuições Previdenciárias;
+         - INAMPS: Assistência Médica Contributiva (hoje não-contributiva)
+         - LBA: Legião Brasileira de Assistência;
+         - FUNABEM: Fundação Nacional do Bem-Estar do Menor;
+         - DATAPREV: Processamento de Dados (único que ainda existe);
+         - CEME: Central de Medicamentos.
+
+            Vejamos como tais assuntos já foram cobrados em prova:
+
+
+---
+
+(ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Acerca do Sistema
+Nacional de Assistência e Previdência Social (SINPAS), que agrupou o Instituto Nacional de
+Previdência Social (INPS) e o Instituto Nacional de Administração da Previdência Social (IAPAS),
+julgue o item a seguir:
+A Empresa de Processamento de Dados da Previdência Social (Dataprev) passou a integrar o SINPAS,
+na condição de órgão autônomo da estrutura do Ministério da Previdência e Assistência Social
+(MPAS).
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+
+
+A DATAPREV, de fato integrou o SINPAS. Contudo, não era um órgão autônomo vinculado ao MPAS.
+Tratava-se de uma das entidades integrantes do SINPAS, responsável pelo processamento de dados
+da Previdência Social. É a única entidade que fazia parte do SINPAS e que existe até hoje. Assertiva
+incorreta.
+
+
+Gabarito: ERRADO.
+
+ (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Acerca do Sistema
+Nacional de Assistência e Previdência Social (SINPAS), que agrupou o Instituto Nacional de
+Previdência Social (INPS) e o Instituto Nacional de Administração da Previdência Social (IAPAS),
+julgue o item a seguir:
+Entre outras competências, cabia ao Instituto Nacional de Previdência Social (INPS), como entidade
+do SINPAS, a concessão e manutenção de benefícios e outras prestações em dinheiro, inclusive
+aquelas que estavam a cargo do Fundo de Assistência ao Trabalhador Rural (Funrural).
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva correta, de fato era o que ocorria. Quando da vigência do SINPAS, era de competência do
+INPS gerir tais questões administrativas.
+
+
+Gabarito: CERTO.
+
+
+---
+
+ (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Acerca do Sistema
+Nacional de Assistência e Previdência Social (SINPAS), que agrupou o Instituto Nacional de
+Previdência Social (INPS) e o Instituto Nacional de Administração da Previdência Social (IAPAS),
+julgue o item a seguir:
+As entidades integrantes do SINPAS preservaram seus bens móveis e imóveis, não sendo permitido
+ao MPAS a promover a transferência, de uma para outra entidade do SINPAS, de bens imóveis e de
+direitos a eles relativos.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva incorreta. Era permitida a transferência, inclusive prevista na legislação. Mais
+especificamente na lei 6. 439/77, vigente à época, que em seu artigo 15, assim dispunha:
+Art 15 - Fica o Poder Executivo autorizado a promover a transferência, de uma para outra entidade
+do SINPAS, de bens imóveis e de direitos a eles relativos.
+
+
+Gabarito: ERRADO.
+
+INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+
+A Lei 8.029, de 12 de abril de 1990, autorizou o Poder Executivo a instituir o
+Instituto Nacional do Seguro Social - INSS, como autarquia federal, mediante fusão
+do Instituto de Administração da Previdência e Assistência Social - IAPAS, com o
+Instituto Nacional de Previdência Social – INPS.
+
+Como dito acima, o INSS é uma autarquia federal e atualmente está vinculado ao
+Ministério da Economia.
+
+Nos termos da Lei 8.029/90, o Instituto Nacional do Seguro Social – INSS foi criado
+pelo Poder executivo por meio do Decreto n° 99.350, de 27 de junho de 1990,
+vigente a partir de 02/07/1990. Tal decreto, além de criar o Instituto Nacional do
+Seguro Social - INSS, também definiu sua estrutura básica e o quadro distributivo
+de cargos e funções do grupo-direção e assessoramento superiores de suas
+unidades centrais, além de dar outras providências.
+
+
+---
+
+Com a fusão do IAPAS com o INPS, o INSS passou a arrecadar, fiscalizar e conceder
+benefícios no mesmo órgão.
+
+Atualmente, como estudaremos adiante, a competência para arrecadar e fiscalizar
+as contribuições previdenciárias passou a ser da Receita Federal do Brasil – RFB,
+ficando o INSS com a concessão e manutenção de benefícios previdenciários.
+
+
+                  INSTITUTO NACIONAL DO SEGURO SOCIAL
+                                     INSS (1990)
+             - Criado pela Lei nº 8.029, de 12/04/1990;
+             - Extinguiu o SINPAS;
+             - Fusão do INPS com IAPAS.
+             - Passou a Arrecadar, Fiscalizar e Conceder Benefício
+             no mesmo Órgão.
+
+                Vejamos como tais assuntos já foram cobrados em prova:
+
+(CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada). Considerando a evolução
+histórico-legislativa e os princípios da seguridade social no Brasil, julgue a assertiva a seguir:
+O INSS, importante órgão na estrutura da seguridade social brasileira, foi instituído no Brasil na
+década de noventa do século XX, como autarquia federal, mediante fusão do Instituto de
+Administração da Previdência e Assistência Social com o Instituto Nacional de Previdência Social.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva correta. Com o advento da CF/88 inicia-se um novo formato de organização do sistema de
+Seguridade Social, dividida entre: saúde, assistência e previdência social; mas somente com o
+decreto 99.350/90 (portanto, na década de 90, conforme afirma o examinador), cria-se o INSTITUTO
+NACIONAL DO SEGURO SOCIAL - INSS que unifica os antigos INPS (Instituto Nacional de Previdência
+
+
+---
+
+Social, responsável por conceder benefícios previdenciários) com o IAPAS (Instituto Administração
+Financeira da Previdência e Assistência Social, responsável pela arrecadação e fiscalização das
+contribuições previdenciárias).
+
+
+Gabarito: CERTO
+
+
+---
+
+(FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da previdência social
+brasileira, nos dias atuais, está composta com diferentes regimes. São eles:
+Regime Geral, administrado por IAP, os Regimes dos servidores públicos das três esferas de governo
+(União, estados e municípios) e previdência privada.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A assertiva está incorreta. O Regime Geral não é, atualmente, administrado por IAP’s (Institutos de
+Aposentadorias e Pensões), já extintos. Com a criação do Instituto Nacional da Previdência Social -
+INPS, todos os Institutos de Aposentadorias e Pensões – IAP´s foram unificados numa única
+autarquia federal, qual seja, o INPS. Hoje, o Regime Geral é de responsabilidade do INSS para a
+concessão de benefícios e da Receita Federal do Brasil - RFB para o custeio previdenciário. Portanto,
+assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+(FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da previdência social
+brasileira, nos dias atuais, está composta com diferentes regimes. São eles: Regime Geral,
+administrado pelo Instituto Nacional do Seguro Social − INSS, os Regimes Próprios dos Servidores
+Públicos e Militares e a Previdência Complementar.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+De fato, são três os regimes da previdência social no Brasil: Regime Geral de Previdência Social –
+RGPS, Regime Próprio de Previdência Social - RPPS e o Regime de Previdência Complementar.
+Portanto a assertiva está correta. Obs: O INSS cuida da parte de concessão e manutenção de
+benefícios previdenciários. Contudo, o custeio é de responsabilidade da RFB.
+
+
+Gabarito: CERTO.
+
+
+---
+
+(CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto Nacional do Seguro Social,
+a seu histórico e estrutura, julgue o item a seguir.
+O Instituto Nacional do Seguro Social, autarquia federal atualmente vinculada ao Ministério da
+Previdência Social, surgiu, em 1990, como resultado da fusão do Instituto Nacional de Assistência
+Médica da Previdência Social (INAMPS) e o Instituto de Administração Financeira da Previdência e
+Assistência Social (IAPAS).
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois o examinador troca o Instituto Nacional de Previdência Social - INPS
+pelo INAMPS. Em realidade a fusão que deu origem ao INSS foi do IAPAS com o INPS (e não INAMPS).
+
+
+Gabarito: ERRADO.
+
+ (CESPE - Juiz Federal - TRF 5ª Região – 2007). Acerca da legislação aplicável à seguridade social e
+sua gestão, julgue o seguinte item.
+O Instituto Nacional do Seguro Social (INSS) é a autarquia previdenciária cuja principal atribuição é
+a administração do regime geral de previdência social.
+( ) CERTO
+( ) ERRADO
+COMENTÁRIOS:
+
+
+Assertiva incorreta. O INSS não tem como principal atribuição a administração do RGPS. A principal
+atribuição do INSS é a concessão e manutenção dos benefícios previdenciários. Essa autarquia
+federal (INSS) não mais atua na arrecadação e cobrança das contribuições previdenciárias, uma vez
+que tal atribuição foi transferida para a Secretaria da Receita Previdenciária e, posteriormente, para
+a Receita Federal do Brasil.
+
+
+Assim sendo, não cabe ao INSS administrar o RGPS, mas apenas operacionalizar o
+reconhecimento dos direitos dos segurados do Regime Geral de Previdência Social –
+RGPS, nos termos da legislação previdenciária. Outrossim, a parte de custeio do RGPS
+está sob responsabilidade da RFB.
+
+
+---
+
+Gabarito: ERRADO.
+
+
+A PREVIDÊNCIA SOCIAL NAS CONSTITUIÇÕES
+
+Segue histórico das Constituições Federais no Brasil e sua relação com a
+Previdência Social:
+
+  • 1891: foi a primeira Constituição a trazer a expressão “aposentadoria”, ao
+    instituir a aposentadoria para os funcionários públicos, em caso de invalidez.
+    Era um benefício de caráter não contributivo, sendo custeada integralmente
+    pelo Estado;
+
+  • 1934: foi a primeira Constituição a instituir, em texto constitucional, o custeio
+    tripartite, com contribuições da União, empregador e empregado, em favor
+    da velhice, invalidez, maternidade, acidentes de trabalho e morte;
+
+  • 1937: foi a primeira Constituição a utilizar a expressão “seguro social”;
+
+  • 1946: foi a primeira Constituição a utilizar a expressão “Previdência Social”;
+
+  • 1965: A Emenda Constitucional 11 acrescentou na CF/46 a necessidade de
+    preexistência de custeio em relação aos benefícios ou serviços, sendo
+    mantido tal princípio nos textos constitucionais seguintes;
+
+  • 1967: Acrescentou a doença e o desemprego como riscos sociais a se
+    proteger pela Previdência Social. Foi a primeira a primeira Constituição a
+    prever o seguro-desemprego;
+
+  • 1981: A Emenda Constitucional 18 alterou a CF/67, passando a conceder
+    aposentadoria privilegiada a professor e professora, com redução de 5 anos
+    de serviço em relação aos demais trabalhadores, aos 30 anos se professor e
+    25 anos se professora;
+
+  • 1988: aos 5 dias de outubro de 1988, foi promulgada a Constituição Federal
+    atual. Foi a primeira Constituição a utilizar a expressão “Seguridade Social”,
+    englobando saúde (de caráter universal); assistência social (de caráter
+    seletivo, uma vez que este direito é ofertado somente a quem dele precisar);
+    e previdência social (direitos derivados do trabalho). As políticas de
+
+
+---
+
+  previdência, saúde e assistência social foram reorganizadas e reestruturadas
+  com novos princípios e diretrizes e passaram a compor o sistema de
+  seguridade social brasileiro.
+
+• 1998: A Emenda Constitucional 20, de 15/12/1998, estabeleceu mudanças
+  importantes da Previdência Social, dentre as quais podemos destacar:
+
+     o Salário-família e auxílio-reclusão apenas para segurados de baixa
+       renda;
+
+     o Novas regras foram estabelecidas para a aposentadoria dos servidores
+       públicos;
+
+     o A redução no tempo de contribuição em 5 anos para aposentadoria
+       por tempo de contribuição para professores(as) passou a ser limitado
+       a professores do ensino infantil, fundamental e médio;
+
+     o Possibilidade de cobertura do risco de acidente do trabalho de forma
+       concorrente entre RGPS e setor privado, mediante regulamentação em
+       lei ordinária;
+
+     o Extinção da aposentadoria proporcional a partir da publicação da
+       emenda, respeitando-se uma regra de transição com pedágio.
+
+• 2003: A Emenda Constitucional 41, de 19/12/2003, estabeleceu mudanças
+  importantes nas regras dos Regimes Próprios de Previdência Social – RPPS,
+  destinados aos servidores públicos ocupantes de cargos efetivos, dentre as
+  quais podemos destacar:
+
+     o Incidência de contribuição sobre os proventos das aposentadorias e
+       pensões do RPPS, quando superem o limite máximo (teto) dos
+       benefícios do RGPS, sujeitando aos mesmos percentuais dos
+       servidores titulares de cargos efetivos;
+
+     o Alterou forma de cálculo da pensão por morte no RPPS;
+
+     o Excluiu a paridade entre servidores ativos e inativos;
+
+     o Fim da integralidade dos proventos de aposentadoria para os novos
+       servidores ocupantes de cargo efetivo, em exercício a partir da
+       vigência da EC 41/2003.
+
+
+---
+
+   • 2005: A Emenda Constitucional 47, de 05/07/2005, modificou, entre outras
+     coisas:
+
+            o as regras de transição trazidas pela EC 41/2003;
+            o Em relação ao RGPS, a EC 47/2005 autorizou a lei a criar um sistema
+              de inclusão previdenciária para atender trabalhadores de baixa renda
+              ou sem renda própria, reduzindo base de cálculo e alíquota de alguns
+              segurados e garantindo-lhes acesso a benefícios no valor de um salário
+              mínimo.
+
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+
+ (CESPE - Oficial Técnico de Inteligência - ABIN – 2018). Em relação à organização, à origem e ao
+custeio do sistema de seguridade social, julgue o item a seguir.
+A seguridade social nos moldes como é atualmente conhecida é fruto da evolução legislativa quanto
+à garantia dos direitos sociais no Brasil e foi introduzida no ordenamento jurídico pátrio pela
+Constituição Federal de 1988.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Historicamente, a Seguridade social teve diversas iniciativas ao longo do tempo, tais como, em 1543,
+com a criação das Santas Casas de Misericórdia, a qual visava à entrega de prestações assistenciais.
+Mesmo já existindo serviços públicos relacionados à saúde, previdência e assistência social, eles
+existiam de forma isolada e sem integrar a Seguridade Social. A sistematização desses serviços e sua
+integração como Seguridade Social, realmente só veio com o surgimento da Constituição Federal
+em 1988, que foi a primeira Constituição a utilizar a expressão “Seguridade Social”, englobando
+Saúde, Assistência e Previdência.
+
+
+Gabarito: CERTO.
+
+(CESPE - Auditor de Controle Externo – TC/ DF – 2014). Com relação à origem e à evolução
+legislativa da Seguridade Social no Brasil, julgue o item abaixo.
+O seguro-desemprego veio previsto pela primeira vez na CF/1988.
+( ) CERTO
+
+
+---
+
+( ) ERRADO
+
+
+COMENTÁRIOS:
+
+
+Assertiva incorreta. A primeira aparição do Seguro Desemprego é na Constituição de 1967.
+
+
+Art 158 - A Constituição assegura aos trabalhadores os seguintes direitos, além de outros que, nos termos da
+lei, visem à melhoria, de sua condição social: [...]
+XVI - previdência social, mediante contribuição da União, do empregador e do empregado, para seguro-
+desemprego, proteção da maternidade e, nos casos de doença, velhice, invalidez e morte;
+(Destaque Nosso).
+
+
+Gabarito: ERRADO.
+
+(CESPE - Analista Legislativo - CAM DEP - Área XXI - Consultor Legislativo – 2014). Com relação à
+evolução histórica e à organização institucional da previdência social, julgue o item a seguir.
+A Constituição Federal de 1934 inovou a ordem constitucional brasileira no que se refere à fonte do
+custeio previdenciário, que passou a ser tríplice, provinda de contribuições do Estado, do
+trabalhador e do empregador.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva correta, pois a Constituição Federal de 1934 foi a primeira a instituir, em texto
+constitucional, o custeio tripartite, com contribuições da União, empregador e empregado, em favor
+da velhice, invalidez, maternidade, acidentes de trabalho e morte. Esta Constituição, por fatores
+como este, dentre outros, foi considerada evolucionista, no que tange aspectos do tema Seguridade
+Social.
+
+
+Gabarito: CERTO.
+
+(CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do conceito, da origem e
+da evolução legislativa da seguridade social brasileira, julgue a assertiva a seguir:
+
+
+---
+
+A Constituição de 1934 foi a primeira a dispor sobre aposentadoria, instituindo-a para os
+funcionários públicos em caso de invalidez no serviço.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Diferentemente do que coloca o examinador, a primeira Constituição a dispor sobre aposentadoria
+é a Constituição de 1891 (Constituição Republicana), sendo a primeira a trazer a expressão
+“aposentadoria”, ao instituir a aposentadoria para os funcionários públicos, em caso de invalidez.
+Assertiva incorreta.
+
+
+Gabarito: ERRADO
+
+
+---
+
+(CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do conceito, da origem e
+da evolução legislativa da seguridade social brasileira, julgue a assertiva a seguir:
+A Constituição de 1937 foi a primeira a prever a forma tripartite de custeio da previdência, realizada
+com contribuições do Estado, do empregado e do empregador.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva incorreta. A Constituição de 1934 ( e não a de 1937) foi a primeira a instituir, em texto
+constitucional, o custeio tripartite, com contribuições da União, empregador e empregado, em favor
+da velhice, invalidez, maternidade, acidentes de trabalho e morte.
+A Constituição Federal de1937, contudo, foi a primeira Constituição a utilizar a expressão “seguro
+social”.
+
+
+Gabarito: ERRADO
+
+(CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da evolução histórica do
+direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ao longo de décadas, o Estado brasileiro deixou de conceder diversos direitos sociais a seus
+cidadãos, tendo sido instituídos benefícios previdenciários ao trabalhador apenas com a
+promulgação da CF.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva incorreta. Apenas para trazermos alguns exemplos, em 1795 foi criado o Plano de
+Benefícios dos Órfãos e Viúvas dos Oficiais da Marinha. 40 anos depois, em 1835, surge o
+MONGERAL – Montepio Geral dos Servidores do Estado, um plano previdenciário de abrangência
+ampla. Enfim, não procede a assertiva proposta pelo examinador. Ademais, antes da promulgação
+da Constituição Federal, já havia sido publicado o Decreto Legislativo nº 3.724/1919, que tratava de
+seguro de acidente do trabalho – SAT. Além disso, já estavam em vigor algumas leis concedendo
+aposentadorias para determinadas categorias de trabalhadores, como, por exemplo, professores,
+servidores públicos, empregados dos Correios, etc.
+
+
+---
+
+Gabarito: ERRADO
+
+(CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da evolução histórica do
+direito previdenciário brasileiro, julgue a assertiva a seguir:
+A Constituição Federal de 1934 é considerada retrocedente quanto à proteção ao trabalhador, haja
+vista terem sido dela excluídos os benefícios de proteção à maternidade e os provenientes de
+acidente de trabalho.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Assertiva incorreta, pois a Constituição de 1934 é reconhecida pelo seu aspecto evolutivo no que
+tange a aspectos previdenciários. Foi a primeira Constituição a instituir, em texto constitucional, o
+custeio tripartite, com contribuições da União empregador e empregado, em favor da velhice,
+invalidez, maternidade, acidentes de trabalho e morte. Vejamos a transcrição de trechos do seu
+artigo 121, para que observemos como tal CF evolui no tema em questão:
+Art 121 - A lei promoverá o amparo da produção e estabelecerá as condições do trabalho, na cidade e nos
+campos, tendo em vista a proteção social do trabalhador e os interesses econômicos do País.
+§ 1º - A legislação do trabalho observará os seguintes preceitos, além de outros que colimem melhorar as
+condições do trabalhador: [...]
+h) assistência médica e sanitária ao trabalhador e à gestante, assegurando a esta descanso antes e depois
+do parto, sem prejuízo do salário e do emprego, e instituição de previdência, mediante contribuição igual da
+União, do empregador e do empregado, a favor da velhice, da invalidez, da maternidade e nos casos de
+acidentes de trabalho ou de morte;
+Gabarito: ERRADO
+
+ (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Com a Constituição
+Federal de 1988, as políticas de previdência, saúde e assistência social foram reorganizadas e
+reestruturadas com novos princípios e diretrizes e passaram a compor o sistema de seguridade
+social brasileiro. Sobre essa temática, julgue o item a seguir:
+A seguridade social pode garantir mais, ou menos, acesso a direitos, quanto mais se desvencilhar
+da lógica do seguro e quanto mais assumir a lógica social.
+( ) CERTO
+( ) ERRADO
+COMENTÁRIOS:
+
+
+---
+
+Correto. Na lógica do seguro a proteção seria realizada pela própria iniciativa privada e, portanto,
+para a minoria da população. Já na lógica social, mais moderna, busca-se abranger cada vez mais
+riscos sociais e pessoas cobertas pelo sistema.
+Gabarito: CERTO.
+
+ (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Com a Constituição
+Federal de 1988, as políticas de previdência, saúde e assistência social foram reorganizadas e
+reestruturadas com novos princípios e diretrizes e passaram a compor o sistema de seguridade
+social brasileiro. Sobre essa temática, julgue o item a seguir:
+A seguridade social brasileira terminou por conjugar direitos derivados do trabalho, com direitos de
+caráter universal e direitos seletivos.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+Correto. Tanto isso é verdade que a seguridade social, abarca direitos relacionados à saúde (de
+caráter universal); assistência social (de caráter seletivo, uma vez que este direito é ofertado
+somente a quem dele precisar); e direitos derivados do trabalho (previdência social propriamente
+dita).
+
+
+Gabarito: CERTO.
+
+ (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Com a Constituição
+Federal de 1988, as políticas de previdência, saúde e assistência social foram reorganizadas e
+reestruturadas com novos princípios e diretrizes e passaram a compor o sistema de seguridade
+social brasileiro. Sobre essa temática, julgue o item a seguir:
+No Brasil implantou-se um padrão de seguridade social homogêneo, com forte tendência a lógica
+da assistência e da universalidade, inclusive na previdência social.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+A seguridade social abrange áreas diferentes, quais sejam: previdência social, saúde e assistência
+social. Claramente não se trata de um padrão homogêneo, pois há tratamentos diferenciados. Por
+exemplo, a assistência social é de caráter seletivo, uma vez que é ofertada somente a quem dela
+
+
+---
+
+necessitar. Já a previdência social é orientada apenas aos beneficiários (segurados e dependentes),
+mediante contribuição, fugindo da lógica assistencialista e universal. Portanto, assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+ (CESPE - Técnico do Seguro Social – 2008). Acerca da seguridade social no Brasil, de suas
+características, contribuições e atuação, julgue o item a seguir.
+A seguridade social brasileira, apesar de ser fortemente influenciada pelo modelo do Estado do
+bem-estar social, não abrange todas as políticas sociais do Estado brasileiro.
+( ) CERTO
+( ) ERRADO
+
+
+COMENTÁRIOS:
+É isso mesmo. A seguridade social no Brasil é composta de três pilares: Previdência, Saúde e
+Assistência Social. Abrange muitos benefícios. Contudo, existem políticas sociais que não estão
+neste “guarda-chuva”. Por exemplo: educação, trabalho, saneamento, meio ambiente, lazer, etc.
+Apesar de sua importância, tais políticas sociais estão fora da área de atuação da Seguridade Social.
+
+
+Gabarito: CERTO.
+
+SECRETARIA DA RECEITA PREVIDENCIÁRIAS - SRP
+
+A Lei 11.098, de 13/01/2005:
+
+   • Atribuiu ao Ministério da Previdência Social competências relativas à
+     arrecadação, fiscalização, lançamento e normatização de receitas
+     previdenciárias;
+   • Autorizou a criação da Secretaria da Receita Previdenciária – SRP, no âmbito
+     do Ministério da Previdência Social.
+
+
+A SRP não era uma autarquia, mas sim órgão integrante do Ministério da
+Previdência Social.
+
+
+---
+
+Com a criação da Secretaria da Receita Previdenciária, as competências passaram
+a ser:
+
+   • INSS: competente pela concessão e manutenção dos benefícios;
+   • SRP: arrecadação, fiscalização, lançamento e normatização de receitas
+     previdenciárias.
+
+Obs: O INSS deixou de ter competência para arrecadar, fiscalizar, lançar e
+normatizar as contribuições previdenciárias.
+
+                     Criação da Secretaria da Receita Previdenciária
+                                     SRP (2005)
+          - Criado pela Lei nº 11.098, de 13/01/2005;
+          - Atribuiu ao Ministério da Previdência Social competências relativas a
+            arrecadação, fiscalização, lançamento e normatização das receitas
+            previdenciárias (custeio);
+          - Autorizou a criação da SRP no âmbito do Minist. da Previdência
+            Social.
+          - INSS passa a ser responsável pelos Benefícios.
+          - SRP não era uma autarquia (como o INSS).
+
+RECEITA FEDERAL DO BRASIL - RFB
+
+A Lei 11.457, de 16/03/2007:
+
+   • Extinguiu a Secretaria da Receita Previdenciária - SRP;
+   • Criou a Secretaria da Receita Federal do Brasil - RFB;
+Assim que a lei 11.457/2007 entrou em vigor, todas as contribuições, inclusive as
+previdenciárias, passaram a ser arrecadadas, fiscalizadas, lançadas e normatizadas
+pela Secretaria da receita Federal do Brasil. A RFB também passou a ser
+responsável pela fiscalização e arrecadação em favor de outras entidades e fundos,
+também conhecidas como terceiros, tais como SESC, SENAC, SESI, SENAI,
+SEBRAE, FNDE, etc.
+
+
+---
+
+                               Criação da Receita Federal do Brasil
+                                         RFB (2007)
+                          Fusão da Secretaria da Receita Previdenciária
+                              com a Secretaria da Receita Federal
+
+               - Lei 11.457, de 16/03/2007.
+               - Extinguiu a Secretaria da Receita Previdenciária e criou a RFB
+               - Todas as contribuições, inclusive as previdenciárias, passaram a ser
+               arrecadadas pela RECEITA FEDERAL DO BRASIL - RFB.
+
+                 Vejamos como tais assuntos já foram cobrados em prova:
+
+(CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto Nacional do Seguro Social,
+a seu histórico e estrutura, julgue o item a seguir.A fusão da Secretaria da Receita Federal com a
+Secretaria da Receita Previdenciária centralizou em apenas um órgão a arrecadação da maioria dos
+tributos federais. Contudo, a fiscalização e a arrecadação das contribuições sociais destinadas aos
+chamados terceiros - SESC, SENAC, SESI, SENAI e outros - permanecem a cargo do INSS.
+( ) CERTO
+( ) ERRADO
+COMENTÁRIOS:
+
+
+Assertiva incorreta, pois com o advento da Lei 11.457/2007 a Receita Federal do Brasil passou a ser
+responsável pela fiscalização e arrecadação das contribuições sociais, inclusive aquelas em favor de
+outras entidades e fundos, também conhecidas como contribuições para terceiros. Exemplo:
+“Sistema S” (SESC, SENAC, SESI, SENAI, etc.), FNDE, INCRA, etc.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+COMPETÊNCIA DO INSS E DA RECEITA FEDERAL DO
+BRASIL - RFB
+
+COMPETÊNCIA DO INSS
+
+Conforme estudado nos capítulos anteriores, o INSS, autarquia federal prestadora
+de serviços previdenciários para a sociedade brasileira, reduziu sua atuação
+somente ao ato de conceder e verificar aspectos ligados a concessão e manutenção
+de benefícios previdenciários, bem como de um benefício assistencial conhecido
+como Benefício de Prestação Continuada – BPC previsto na Lei Orgânica da
+Assistência Social - LOAS. Essa autarquia federal (INSS) não mais atua na
+arrecadação e cobrança das contribuições previdenciárias, uma vez que tal
+atribuição foi transferida para a Secretaria da Receita Previdenciária e,
+posteriormente, para a Receita Federal do Brasil.
+
+Destaca-se o fato do artigo art. 125-A da Lei n° 8213/91 ter dado maiores poderes
+de investigação ao servidor do INSS, conforme a seguir transcrito:
+
+    Art. 125-A. Compete ao Instituto Nacional do Seguro Social – INSS realizar, por meio dos
+    seus próprios agentes, quando designados, todos os atos e procedimentos necessários à
+    verificação do atendimento das obrigações não tributárias impostas pela legislação
+    previdenciária e à imposição da multa por seu eventual descumprimento.
+
+    § 1º A empresa disponibilizará a servidor designado por dirigente do INSS os documentos
+    necessários à comprovação de vínculo empregatício, de prestação de serviços e de
+    remuneração relativos a trabalhador previamente identificado.
+
+    (...)
+
+    § 3º O disposto neste artigo não abrange as competências atribuídas em caráter privativo
+    aos ocupantes do cargo de Auditor-Fiscal da Receita Federal do Brasil previstas no inciso I
+    do caput do art. 6o da Lei no 10.593, de 6 de dezembro de 2002.
+
+Veja que a lei é bem específica ao determinar que o servidor do INSS pode efetuar
+diligências em empresas para verificar assuntos de interesse dos segurados da
+Previdência Social previamente determinado. Além disso, o servidor do INSS não
+poderá exercer atividades que são privativas dos Auditores-Fiscais da Receita
+Federal do Brasil - AFRFB.
+
+                                                                                     1
+                                                                                     4
+
+
+---
+
+Assim sendo, um funcionário do INSS, devidamente designado por autoridade
+competente, poderá ir, por exemplo, a certa empresa com a finalidade de verificar
+se o segurado previamente determinado está trabalhando ou já trabalhou na
+respectiva empresa, para comprovar o seu tempo de contribuição, o vínculo
+empregatício e outras informações de interesse do INSS, para fins de concessão de
+benefício previdenciário.
+
+Em resumo, podemos dizer que compete ao INSS a operacionalização do
+reconhecimento dos direitos dos segurados do Regime Geral de Previdência Social
+– RGPS, abrangendo mais de 50 milhões de segurados e aproximadamente 33
+milhões de beneficiários (valores apurados em 2017).
+
+Nos termos do art. 5º da Lei 11.457/2007, além das demais competências
+estabelecidas na legislação que lhe é aplicável, cabe ao INSS:
+
+   • emitir certidão relativa a tempo de contribuição;
+   • gerir o Fundo do Regime Geral de Previdência Social;
+   • calcular o montante das contribuições previdenciárias e emitir o
+     correspondente documento de arrecadação, com vistas no atendimento
+     conclusivo para concessão ou revisão de benefício requerido.
+
+COMPETÊNCIA DA RECEITA FEDERAL DO BRASIL
+
+Originalmente, quando criado, o INSS era o encarregado por cuidar de todos os
+aspectos operacionais referentes aos assuntos previdenciários (benefícios,
+arrecadação, fiscalização e cobrança das contribuições previdenciárias, etc.).
+
+No entanto, as funções de arrecadar, fiscalizar e cobrar as contribuições
+previdenciárias foram repassadas, como estudamos, para o Ministério da
+Previdência Social, por meio da criação da Secretaria da Receita Previdenciária –
+SRP, no âmbito da administração direta. Ou seja, surgiu um órgão do Ministério da
+Previdência Social cujo o nome era SRP.
+
+Em março de 2007, com a publicação da Lei no 11.457/2007, que passou a vigorar
+desde 02 de maio do mesmo ano, houve uma fusão entre a Secretaria da Receita
+Previdenciária - SRP e a Secretaria da Receita Federal – SRF, dando origem à
+
+
+---
+
+Secretaria da Receita Federal do Brasil – SRFB (ou apenas RFB), incorporando as
+atribuição de arrecadar, fiscalizar e cobrar contribuições previdenciárias, além dos
+outros tributos que já eram de sua competência.
+
+Atualmente o artigo 33, caput, da Lei 8212/91, diz:
+
+    À Secretaria da Receita Federal do Brasil compete planejar, executar, acompanhar e avaliar
+    as atividades relativas à tributação, à fiscalização, à arrecadação, à cobrança e ao
+    recolhimento das contribuições sociais previstas no parágrafo único do art. 11 desta Lei, das
+    contribuições incidentes a título de substituição e das devidas a outras entidades e fundos.
+
+As contribuições acima mencionadas são chamadas de contribuições
+previdenciárias. É responsabilidade da Receita Federal do Brasil, por meio dos
+Auditores-Fiscais da Receita Federal do Brasil, examinar a contabilidade das
+empresas, bem como folha de pagamento e todas as demais obrigações principais
+e acessórias relacionadas com a arrecadação e recolhimento das contribuições
+previdenciárias. A RFB também é responsável pela fiscalização e cobrança das
+contribuições devidas a outras entidades e fundos (conhecidas como terceiros, tais
+como SESI, SESC, SENAI, SEBRAE, FNDE, etc., de acordo com o ramo de
+atividade).
+
+O STF, por meio da súmula 439, decidiu que estão sujeitos a fiscalização tributária
+ou previdenciárias quaisquer livros comerciais, limitado o exame aos pontos objeto
+da investigação.
+
+O artigo 33, §2º, da lei 8212/91 diz que: “A empresa, o segurado da Previdência
+Social, o serventuário da Justiça, o síndico ou seu representante, o comissário e o
+liquidante de empresa em liquidação judicial ou extrajudicial são obrigados a exibir
+todos os documentos e livros relacionados com as contribuições previstas nesta
+Lei”.
+
+Se houver recusa ou sonegação de qualquer documento ou informação, ou ainda
+apresentação deficiente, a Secretaria da Receita Federal do Brasil pode, sem
+prejuízo da penalidade cabível, lançar de ofício a importância que acha devida. O
+contribuinte, caso isso ocorra, terá para si o ônus da prova em contrário. Essa forma
+de apuração trata-se do chamado arbitramento (modalidade de aferição indireta),
+que só será aplicada quando for constatada a falta ou inadequação da
+documentação que impeça o trabalho da auditoria fiscal.
+
+
+---
+
+Os Auditores-Fiscais da Receita Federal do Brasil - AFRFB possuem livre acesso a
+todas as dependências ou estabelecimentos da empresa, podendo efetuar a
+verificação física dos segurados em serviço para confrontar registros e documentos
+da empresa, podendo requisitar e apreender livros, notas técnicas e quaisquer
+outros documentos necessários à verificação das informações e exercício de suas
+funções. Será caracterizado como embaraço a imposição de qualquer dificuldade
+oposta ao objetivo.
+
+O crédito da Seguridade Social será constituído através de notificação de
+lançamento, de auto de infração e de confissão de valores devidos e não recolhidos
+pelo contribuinte.
+
+
+---
+
+QUESTÕES COMENTADAS
+
+1 - (CESPE – Oficial Técnico de Inteligência - ABIN – 2018) Em relação à
+organização, à origem e ao custeio do sistema de seguridade social, julgue o item
+a seguir.
+A seguridade social nos moldes como é atualmente conhecida é fruto da evolução
+legislativa quanto à garantia dos direitos sociais no Brasil e foi introduzida no
+ordenamento jurídico pátrio pela Constituição Federal de 1988.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A Constituição Federal de 1988 foi a primeira a utilizar o tempo "Seguridade
+Social", o qual engloba saúde, assistência social e previdência social. As
+constituições anteriores não haviam implantado essas ações conjuntas de proteção
+social, mas apenas ações pontuais. Portanto, o enunciado está correto ao afirmar
+que houve uma evolução legislativa quanto à garantia dos direitos sociais no Brasil
+e que, a Seguridade Social como é atualmente, foi inovação da Constituição
+Federal de 1988.
+
+
+Gabarito: CERTO.
+
+2- (CESPE – Residência Multiprofissional – HUB – 2017) Acerca da seguridade social
+e do trabalho, julgue o item subsequente.
+É consenso entre os estudiosos da área que, no Brasil, a implementação da
+seguridade social — isto é, do sistema de proteção social — ocorreu conforme o
+que está disposto na Constituição Federal de 1988.
+
+                                                                          1
+                                                                          55
+
+
+---
+
+( ) Certo
+( ) Errado
+COMENTÁRIOS:
+
+A Constituição Federal de 1988 foi a primeira a utilizar o tempo "Seguridade
+Social", o qual engloba saúde, assistência social e previdência social. As
+constituições anteriores não haviam implantado essas ações conjuntas de proteção
+social, mas apenas ações pontuais.
+Além disso, na implementação da Seguridade Social, não havia um regime geral de
+previdência social, que englobava a maior parte dos trabalhadores. Um exemplo
+são as Caixas de Aposentadorias e Pensões, criadas em 1923, que incialmente eram
+disponíveis apenas para os ferroviários e organizadas por empresas.
+Portanto, a implementação da Seguridade Social no Brasil não ocorreu conforme
+está disposto na Constituição Federal de 1988.
+
+
+Gabarito: ERRADA.
+
+
+ 3 - (CESPE – Analista Judiciário – STJ – 2018) Tendo como referência a doutrina e
+a jurisprudência a respeito da organização e dos princípios do sistema de
+seguridade social brasileiro, julgue o item a seguir.
+O período de implantação da seguridade social foi marcado, entre outros, pelo
+advento da Lei Eloy Chaves, que instituiu as caixas de aposentadorias e pensões
+exclusivamente para ferroviários.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+O enunciado está correto, uma vez que a Lei Eloy Chaves instituiu as Caixas de
+Aposentadorias e Pensões (CAP’s) exclusivamente para os ferroviários. As CAP’s
+eram organizadas por empresas e tinham natureza privada. Em momento
+
+
+---
+
+posterior, as CAP’s foram unificadas por categoria profissional, dando origem aos
+IAP’s. Os IAP’s eram autarquias de abrangência nacional.
+
+
+Gabarito: CERTA.
+
+4 - (CESPE – Analista Judiciário – STJ – 2018) Com relação à organização e aos
+princípios do sistema de seguridade social brasileiro, julgue o item a seguir.
+Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores buscaram
+a proteção social que aquela legislação garantiu, o que provocou a expansão dos
+direitos protetivos pelo país.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A questão trata corretamente dos fatos históricos. A Lei Eloy Chaves, de 1923,
+instituiu as Caixas de Aposentadorias e Pensões (CAP’s) exclusivamente para os
+ferroviários. As CAP’s eram organizadas por empresas e tinham natureza privada.
+Após a publicação da Lei Eloy Chaves, outras categorias profissionais se
+interessaram pelos modelos das CAPS e foram em busca da mesma proteção,
+provocando uma extensão dessa medida protetiva. São exemplos dessa situação a
+Lei nº 5.109 (1926), que estendeu a incidência da Lei Eloy Chaves aos portuários e
+marítimos, e a Lei nº 5.485 (1928).
+Com a multiplicação das CAP’s, houve a unificação destas em Institutos de
+Aposentadorias e Pensões – IAP´s, organizados por categoria profissional (e não
+mais por empresa).
+
+Gabarito: CERTA.
+
+5 – (Inédita) Quanto à evolução da Seguridade Social no Brasil, podemos afirmar
+que as formas mais antigas de proteção social que são relatadas no território
+nacional são as Santas Casas de Misericórdia, as quais foram instituídas pela
+primeira norma a estruturar o sistema previdenciário brasileiro.
+
+
+---
+
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A afirmação de que as Santas Casas de Misericórdia são as formas mais antigas de
+proteção social relatadas no território nacional está correta. No Brasil, a Irmandade
+da Santa Casa de Misericórdia surgiu ainda no período colonial, instalando-se em
+Olinda, na Capitania de Pernambuco, em 1539 e em Santos, em 1543.
+Entretanto, a questão incorre em erro ao afirmar que as Santas Casas de
+Misericórdia foram instituídas pela primeira lei a tratar sobre Seguridade Social no
+Brasil, uma vez que a primeira norma a estruturar o sistema previdenciário brasileiro
+é a Lei Eloy Chaves, que veio em 1923, muito depois da criação das Santas Casas
+de Misericórdia.
+A Lei Eloy Chaves instituiu as Caixas de Aposentadorias e Pensões para os
+ferroviários.
+
+
+GABARITO: ERRADA.
+
+6- (Inédita) O conceito de Seguridade Social foi introduzido no ordenamento
+jurídico pátrio com a promulgação da Constituição Federal de 1988, também
+conhecida como Constituição Cidadã.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A Seguridade Social é o conjunto integrado de ações de inciativa dos poderes
+públicos e da sociedade destinado a garantir os direitos relativos à saúde, à
+previdência e à assistência social é fruto da evolução legislativa quanto à garantia
+de direitos sociais no Brasil.
+Antes da Constituição Federal de 1988, já existiam isoladamente ações de Saúde,
+Assistência Social e também de Previdência Social, entretanto, a sistematização
+
+
+---
+
+dessas três áreas em um conjunto denominado Seguridade Social só surgiu com a
+CF 88.
+
+GABARITO: CERTO.
+
+7- (Inédita) As Caixas de Aposentadoria e Pensão foram instituídas originalmente
+pela Lei Eloy Chaves para a categoria dos ferroviários. As CAP’s eram administradas
+pelo poder público e organizadas por empresa. Com o decorrer do tempo, outras
+categorias se mobilizaram e formaram novas Caixas de Aposentadoria e Pensões.
+( ) Certo
+( ) Errado
+COMENTÁRIOS:
+
+
+A Lei Eloy Chaves (Decreto-Lei nº 4.682 de 1923) é apontada como primeiro marco
+da previdência social brasileiro. A lei criou a Caixa de Aposentadoria e Pensão –
+CAP em favor dos empregados de empresas do setor ferroviário. Após o
+surgimento das Caixas de Aposentadoria e Pensão dos ferroviários, outras
+categorias também criaram suas CAPs.
+As respectivas CAPs eram administradas e organizadas pelas empresas e cada uma
+delas possuía sua própria caixa. As CAPs tinham natureza privada e eram
+financiadas pelas contribuições das empresas e dos empregados.
+A questão afirma que as CAPs eram administradas pelo poder público, mas na
+verdade eram organizadas pelas empresas. Portanto, está incorreta.
+
+Gabarito: ERRADA.
+
+8- (Inédita) Sobre a origem e evolução da Seguridade Social no Brasil, podemos
+afirmar que a entidade integrante do Sistema Nacional de Previdência e Assistência
+Social (SINPAS) responsável pela concessão e manutenção dos benefícios
+previdenciários era o Instituto Nacional de Previdência Social (INPS).
+( ) Certo
+( ) Errado
+
+
+---
+
+COMENTÁRIOS:
+O enunciado da questão está perfeito. Realmente, o INPS era a entidade integrante
+do SINPAS que era responsável pela concessão e manutenção dos benefícios
+previdenciários. Só para nos recordarmos, vamos lembrar quais eram as entidades
+integrantes do SINPAS:
+              o INPS: Conceder Benefícios;
+              o IAPAS: Arrecadar e Fiscalizar as Contribuições Previdenciárias;
+              o INAMPS: Assistência Médica Contributiva (hoje não-contributiva)
+              o LBA: Legião Brasileira de Assistência;
+              o FUNABEM: Fundação Nacional do Bem-Estar do Menor;
+              o DATAPREV: Processamento de Dados (único que ainda existe);
+              o CEME: Central de Medicamentos.
+
+Gabarito: CERTA.
+
+9- (Inédita) Acerca da origem e evolução da Seguridade Social no Brasil, podemos
+afirmar que a Lei Eloy Chaves criou os Institutos de Aposentadorias e Pensões
+(IAP’s) para os ferroviários.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A questão está incorreta ao relacionar os Institutos de Aposentadorias e Pensões à
+Lei Eloy Chaves.
+A Lei Eloy Chaves instituiu as Caixas de Aposentadorias e Pensões (CAP’s) para os
+ferroviários. As CAP’s eram organizadas por empresas e tinham natureza privada.
+Em momento posterior, as CAP’s foram unificadas por categoria profissional,
+dando origem aos IAP’s. Os IAP’s eram autarquias de abrangência nacional.
+Portanto, a Lei Eloy Chaves criou as CAP’s e não os IAP’s.
+
+
+---
+
+Gabarito: Errado.
+
+10 – (Inédita) A proteção previdenciária aos trabalhadores rurais iniciou-se com o
+FUNRURAL, na década de 60, entretanto, a previsão de uniformidade de benefícios
+entre trabalhadores urbanos e rurais somente surgiu com a Constituição Federal de
+1988.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A questão trata corretamente da evolução da proteção social aos trabalhadores
+rurais. Realmente, a proteção social na área rural teve início em 1963, ano em que
+foi criado o Fundo de Assistência ao Trabalhador Rural – FUNRURAL.
+Entretanto, sempre houveram diferenças na proteção social oferecida aos
+trabalhadores urbanos e rurais. A CF 88 veio para mudar isso, trazendo o princípio
+da uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+rurais.
+A uniformidade preconiza que a seguridade social deve oferecer cobertura aos
+mesmos riscos sociais a todos, em outras palavras, a proteção à doença,
+maternidade, morte, invalidez e idade avançada deve ser oferecida tanto à
+população urbana quanto à população rural.
+Já a equivalência se refere ao valor pecuniário dos benefícios oferecidos. O valor
+não deverá necessariamente ser igual, mas deverá ser equivalente.
+
+Gabarito: CERTO.
+
+11 –(Inédita) Sobre a origem e evolução da Seguridade Social no Brasil, é correto
+afirmar:
+a)     A Eloy Chaves instituiu as caixas de aposentadorias e pensões para os
+ferroviários e servidores públicos.
+
+
+---
+
+b)     As caixas de aposentadorias e pensões eram organizadas por categoria
+profissional e tinham natureza privada.
+c)    Com a criação dos Institutos de Aposentadoria e Pensão, a organização da
+Previdência Social passou a se dar em âmbito estadual.
+d)    A proteção previdenciária aos trabalhadores rurais se iniciou com o
+FUNRURAL, na década de 60, entretanto, a previsão de uniformidade de benefícios
+entre trabalhadores urbanos e rurais somente surgiu com a Constituição Federal de
+1988.
+e)     O Instituto Nacional de Previdência Social (INPS) era responsável pela
+concessão e manutenção dos benefícios previdenciários, além de ser responsável
+pela fiscalização, arrecadação e cobrança das contribuições previdenciárias.
+
+
+COMENTÁTIOS:
+Vamos em busca da alternativa CORRETA.
+a)     A Eloy Chaves instituiu as caixas de aposentadorias e pensões para os
+ferroviários e servidores públicos.
+A Lei Eloy Chaves instituiu as Caixas de Aposentadorias e Pensões (CAP’s)
+exclusivamente para os ferroviários, portanto, a alternativa erra ao incluir os
+servidores públicos. Alternativa ERRADA.
+
+
+b)     As caixas de aposentadorias e pensões eram organizadas por categoria
+profissional e tinham natureza privada.
+A alternativa está incorreta, uma vez que as caixas de aposentadoria e pensão eram
+organizadas por empresa, e não por categoria profissional. Cada empresa
+ferroviária do país deveria criar sua própria CAP sendo que a administração ficava
+a cargo dos respectivos empregadores. Alternativa ERRADA.
+
+c)    Com a criação dos Institutos de Aposentadoria e Pensão, a organização da
+Previdência Social passou a se dar em âmbito estadual.
+Como unificação das CAPs por categoria profissional, surgiram os Institutos de
+Aposentadoria e Pensão foram, que organizados em autarquias com abrangência
+nacional. Portanto, os IAPS eram centralizados no governo federal, e não âmbito
+estadual, como afirmado. Alternativa ERRADA.
+
+
+---
+
+d)    A proteção previdenciária aos trabalhadores rurais se iniciou com o
+FUNRURAL, na década de 60, entretanto, a previsão de uniformidade de benefícios
+entre trabalhadores urbanos e rurais somente surgiu com a Constituição Federal de
+1988.
+A questão trata corretamente da evolução da proteção social aos trabalhadores
+rurais. Realmente, a proteção social na área rural teve início em 1963, ano em que
+foi criado o Fundo de Assistência ao Trabalhador Rural – FUNRURAL.
+Entretanto, sempre houveram diferenças na proteção social oferecida aos
+trabalhadores urbanos e rurais. A CF 88 veio para mudar isso, trazendo o princípio
+da uniformidade e equivalência dos benefícios e serviços às populações urbanas e
+rurais. Alternativa CORRETA.
+
+e)     O Instituto Nacional de Previdência Social (INPS) era responsável pela
+concessão e manutenção dos benefícios previdenciários, além de ser responsável
+pela fiscalização, arrecadação e cobrança das contribuições previdenciárias.
+A alternativa está equivocada porque concentra somente no INPS as funções que
+cabiam ao INPS e ao IAPAS. Estas duas entidades eram agregadas pelo SINPAS,
+Sistema Nacional de Previdência e Assistência Social. A função precípua do INPS
+era a concessão e manutenção de benefícios previdenciários, mas a
+responsabilidade pela fiscalização, arrecadação e cobrança das contribuições
+previdenciárias era do IAPAS (Instituto de Administração Financeira da Previdência
+e Assistência Social). Alternativa ERRADA.
+
+Gabarito: D.
+
+12 – (Inédita) A respeito da origem e evolução da Seguridade Social no Brasil,
+assinale a afirmativa correta:
+a)    A Constituição Federal de 1967 foi a primeira a prever o sistema de
+Seguridade Social como o conhecemos hoje.
+b)   O Montepio Geral dos Servidores do Estado, conhecido como Mongeral, é
+uma das formas mais antigas em que se manifestou a Assistência Social no Brasil.
+c)   Antes da publicação da Lei Eloy Chaves já havia diplomas normativos
+concedendo aposentadorias para determinadas categorias profissionais, como é o
+
+
+---
+
+caso da Constituição de 1891, que previa aposentadoria para funcionários públicos
+em caso de invalidez.
+d)    Com a reforma previdenciária que foi realizada em 1998, durante o governo
+do presidente Fernando Henrique Cardoso, por meio da Emenda Constitucional
+20, surgiu a obrigação de idade mínima para aposentadorias concedidas tanto no
+âmbito do RGPS quanto do RPPS.
+e)   O sistema previdenciário brasileiro se baseia no conceito bismarckiano,
+também conhecido como de capitalização.
+
+
+COMENTÁTIOS:
+a)    A Constituição Federal de 1967 foi a primeira a prever o sistema de
+Seguridade Social como o conhecemos hoje.
+A Constituição Federal de 1988 foi a primeira a utilizar o tempo "Seguridade
+Social", o qual engloba saúde, assistência social e previdência social. As
+constituições anteriores não haviam implantado essas ações conjuntas de proteção
+social, mas apenas ações pontuais. Alternativa ERRADA.
+
+
+b)   O Montepio Geral dos Servidores do Estado, conhecido como Mongeral, é
+uma das formas mais antigas em que se manifestou a Assistência Social no Brasil.
+Os montepios, como é o caso do Mongeral, eram instituições que, mediante o
+pagamento de cotas, cada membro possuía direito aos benefícios parecidos com o
+que hoje são o auxílio-doença e a pensão por morte. São essas as manifestações
+mais antigas de Previdência Social, e não da Assistência Social, como afirmado.
+Alternativa ERRADA.
+
+
+c)    Antes da publicação da Lei Eloy Chaves já havia diplomas normativos
+concedendo aposentadorias para determinadas categorias profissionais, como é o
+caso da Constituição de 1891, que previa aposentadoria para funcionários públicos
+em caso de invalidez.
+Essa é a alternativa correta. A Lei Eloy Chaves, apesar de ser considerada o marco
+da Seguridade no Brasil, por ser a primeira norma a estruturar o sistema
+previdenciário, não foi o primeiro diploma normativo a tratar sobre o tema. De fato,
+
+
+---
+
+a Constituição Federal de 1891 previu aposentadoria por invalidez para os
+funcionários públicos. Alternativa CORRETA.
+
+
+d)    Com a reforma previdenciária que foi realizada em 1998, durante o governo
+do presidente Fernando Henrique Cardoso, por meio da Emenda Constitucional
+20, surgiu a obrigação de idade mínima para aposentadorias concedidas tanto no
+âmbito do RGPS quanto do RPPS.
+A afirmação está errada, uma vez que a reforma instituída pela Emenda
+Constitucional 20/1998 não estabeleceu idade mínima para as aposentadorias no
+âmbito do RGPS. Atualmente, para um segurado se aposentar por tempo de
+contribuição, não se exige idade mínima, mas 35 anos de contribuição, para
+homens, e 30 anos, para mulheres. Alternativa ERRADA.
+
+
+e)   O sistema previdenciário brasileiro se baseia no conceito bismarckiano,
+também conhecido como de capitalização.
+O sistema previdenciário brasileiro não segue o modelo bismarckiano de
+capitalização, no qual o fundo para financiamento dos benefícios é criado somente
+com as contribuições daquele segurado, assemelhando-se a uma poupança. O
+modelo que seguimos é o beveridgeano, ou de repartição, no qual os benefícios
+são sustentados com os recursos das contribuições dos segurados em ativa.
+Alternativa ERRADA.
+
+Gabarito: C.
+
+
+---
+
+    Lista dos exercícios utilizados nesta aula (resolvidos e comentados em seguida)
+
+13 - (CESPE – SLU DF - 2019) Acerca da história da seguridade social, da política social e das
+políticas setoriais, considerando suas respectivas legislações, julgue o item subsecutivo.
+
+Os direitos da seguridade social, seja no modelo bismarckiano, seja no modelo beveridgiano,
+têm como parâmetro histórico central os direitos do trabalho.
+
+( ) Certo
+
+( ) Errado
+
+COMENTÁRIOS:
+    CORRETA. Os modelos apresentados durante a evolução da seguridade social no
+    mundo tinham, entre os objetivos base, garantir benefícios aos trabalhadores que
+    estavam impossibilitados de trabalhar. Neste contexto, podemos citar tanto os planos
+    que seguiram o modelo bismarckiano quanto os que seguiram o modelo
+    beveridgiano.
+
+Gabarito: CERTO
+
+14 - (CESPE – PGE AM - 2016) A respeito do surgimento e da evolução da seguridade social,
+julgue o item a seguir.
+
+A Constituição Mexicana de 1917 e a Constituição de Weimar de 1919, ao constitucionalizar
+um conjunto de direitos sociais, colocando-os no mesmo plano dos direitos civis, marcaram
+o início da fase de consolidação da seguridade social.
+
+( ) Certo
+
+( ) Errado
+
+COMENTÁRIOS:
+
+
+---
+
+CORRETA. Tanto a Constituição Mexicana de 1917 quanto a Constituição de Weimar de 1919
+surgiram em um contexto histórico de evolução de um estado liberal para um estado de proteção
+social. Essas foram as primeiras constituições a inserirem em seus textos direitos de segunda
+geração, incluindo direitos trabalhistas e de previdência social. Desta forma, ambas as constituições
+marcaram o início da fase de consolidação da seguridade social.
+
+Gabarito: CERTO
+
+15 - (CESPE – Câmara dos Deputados - 2014) Com relação à evolução histórica e à
+organização institucional da previdência social, julgue o item a seguir.
+
+A Constituição de Weirmar, de 1919, foi o primeiro diploma legal de magnitude
+constitucional em que se tratou de tema previdenciário.
+
+( ) Certo
+
+( ) Errado
+
+COMENTÁRIOS:
+
+ERRADA. a primeira constituição a tratar de previdência social em seu texto foi a do México de 1917.
+
+Gabarito: ERRADO.
+
+16 - (CESPE – Câmara dos Deputados - 2014) Acerca da seguridade social, julgue o item que
+se segue.
+
+Entre os principais marcos legislativos referentes à seguridade social incluem-se a edição do
+Poor Relief Act (lei dos Pobres), em 1601, na Inglaterra, e a criação do seguro-doença, em
+1883, na Alemanha.
+
+( ) Certo
+
+( ) Errado
+
+COMENTÁRIOS:
+
+
+---
+
+  CORRETA. O Poor Relief Act foi criado em 1601 na Inglaterra e propunha uma
+  complementação do salário das famílias em situação de miserabilidade, sendo um dos
+  precursores da assistência social.
+  Em 1883, houve a edição da Lei dos Seguros Sociais na Alemanha, a qual foi instituída
+  pelo chanceler Otto Von Bismarck e é considerada o marco da previdência social, tendo
+  instituído uma seguro-doença.
+
+Gabarito: CORRETO.
+
+17. (CESPE - Analista de Administração Pública - TC-DF - Serviços Técnicos e
+Administrativos - Serviços Técnicos e Administrativos – 2014). Com relação à
+origem, à evolução legislativa, aos princípios constitucionais e à organização da
+seguridade social no Brasil, julgue o item.
+O plano de benefícios dos órfãos e viúvas dos oficiais da Marinha consubstancia
+exemplo histórico da proteção social brasileira.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+De fato, o plano de benefícios dos órfãos e viúvas dos oficiais da Marinha, criado
+no século XVIII, mais especificamente em 1795 é considerado por muitos
+doutrinadores como a mais antiga experiência previdenciária brasileira, portanto,
+um claro exemplo histórico da proteção social no Brasil.
+
+Gabarito: CERTO.
+
+18. (CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada).
+Considerando a evolução histórico-legislativa e os princípios da seguridade social
+no Brasil, julgue a assertiva a seguir:
+
+
+---
+
+Desde 1919, já havia legislação sobre acidente de trabalho no Brasil, entretanto,
+somente com a publicação da Lei Eloy Chaves, em 1946, foram implementadas
+as primeiras experiências previdenciárias, tendo a referida lei criado caixas de
+aposentadorias e pensões para os empregados das empresas ferroviárias e
+aeroferroviárias brasileiras.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Aqui há uma tentativa de o examinador induzir o candidato mais apressado ao erro.
+De fato, desde 1919, já havia legislação sobre acidente de trabalho no Brasil.
+Ademais, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682
+como o primeiro marco da previdência social no Brasil. Contudo, o referido decreto
+é de 1923, e não 1946, conforme afirma o examinador. Além disso, não eram
+empresas aeroferroviárias e sim ferroviárias somente.
+
+
+Gabarito: ERRADO
+
+
+19. (CESPE - Analista Judiciário – STJ – Judiciária – 2018). Tendo como referência
+a doutrina e a jurisprudência a respeito da organização e dos princípios do
+sistema de seguridade social brasileiro, julgue o item a seguir.
+O período de implantação da seguridade social foi marcado, entre outros, pelo
+advento da Lei Eloy Chaves, que instituiu as caixas de aposentadorias e pensões
+exclusivamente para ferroviários.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves (Decreto-Lei n. 4682 de
+1923) como o primeiro marco da previdência social no Brasil, por ter criado as
+Caixas de Aposentadoria e Pensões (CAP) para os ferroviários. Posteriormente,
+
+
+---
+
+esses Caixas foram estendidos a outras categorias de trabalhadores. Assertiva
+correta
+Gabarito: CERTO.
+20. (CESPE - Técnico do Seguro Social – INSS – 2016). No que se refere à
+seguridade social no Brasil, julgue o item seguinte.
+A Lei Eloy Chaves, que criou em cada uma das empresas de estradas de ferro
+existentes no país uma caixa de aposentadoria e pensões para os respectivos
+empregados, foi o primeiro ato normativo a tratar de seguridade social no Brasil.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois a Lei Eloy Chaves, apesar de ser considerado o
+marco inicial da Previdência Social no Brasil, não é o primeiro ato normativo a tratar
+de Seguridade Social em nosso país. Antes dela, tivemos disposições normativas
+apresentadas na Constituição de 1891. Cumpre observar ainda que a Seguridade
+Social, como conjunto de ações, só passou a ser tratada, sob esta forma de
+organização, depois da Constituição de 1988. Ademais, antes da Lei Eloy Chaves,
+já havia sido publicado o Decreto Legislativo nº 3.724/1919, que tratava de seguro
+de acidente do trabalho – SAT. Além disso, já estavam em vigor algumas leis
+concedendo aposentadorias para determinadas categorias de trabalhadores,
+como, por exemplo, professores, servidores públicos, empregados dos Correios,
+etc.     No entanto, apesar destas normas legais específicas terem sido
+implementadas antes da Lei Eloy Chaves, apenas com a lei Eloy Chaves houve, de
+fato, a criação de um sistema organizado e estruturado de proteção social
+
+
+Gabarito: ERRADO.
+
+
+21. (CESPE - Procurador do Estado do Amazonas – 2016). A respeito do
+surgimento e da evolução da seguridade social, julgue o item a seguir.
+No Brasil, iniciou-se o regime próprio de previdência dos servidores públicos
+com o advento da Lei Eloy Chaves, em 1923, que determinou a criação das caixas
+de aposentadorias e pensões para os ferroviários.
+
+
+---
+
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois a previdência dos servidores públicos nascera antes
+da Lei Eloy Chaves, em 1835 com a criação do MONGERAL (Montepio Geral dos
+Servidores do Estado). No que tange a Lei Eloy Chaves, a doutrina majoritária
+atribui à esta Lei (Decreto-Lei nº 4.682 de 1923) como o primeiro marco
+da previdência social no Brasil, por ter criado os Caixas de Aposentadoria e Pensão
+(CAP) para os trabalhadores ferroviários.
+
+
+Gabarito: ERRADO.
+
+22. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+Apesar de não ser a primeira norma a tratar de seguridade social, a Lei Eloy
+Chaves (Decreto Legislativo nº 4.682/1923) é considerada pela doutrina
+majoritária o marco inicial da previdência social brasileira.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Correto. Apesar de não ser unânime entre todos os especialistas, a Lei Eloy Chaves
+(Decreto-Lei n. 4682 de 1923) é considerada, pela doutrina majoritária, o marco
+inicial da previdência social no Brasil. Esta lei criou as Caixas de Aposentadorias e
+Pensões para empregados de empresas ferroviárias, iniciando a consolidação da
+base do sistema previdenciário no país, a qual, posteriormente, foi seguida por
+outras categorias.
+Gabarito: CERTO
+
+
+---
+
+23. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+O Decreto Legislativo n.º 4.682/1923, também conhecido como Lei Eloy Chaves,
+é considerado um marco do direito previdenciário brasileiro, devido ao fato de,
+por meio dele, ter sido criado o Ministério da Previdência e Assistência Social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei n. 4682 de
+1923 como o marco inicial da previdência social no Brasil, por ter criado as Caixas
+de Aposentadoria e Pensões (CAP) para cada uma das empresas ferroviárias do
+Brasil. Contudo, o primeiro ministério voltado especificamente à Previdência
+nasceu somente em 1960, o então chamado Ministério do Trabalho e Previdência
+Social.
+
+
+Gabarito: ERRADO
+
+
+24. (INÉDITA). No tocante a origem e a evolução da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Lei Eloy Chaves (Decreto Legislativo nº 4.682/1923) é considerada um marco,
+por ser o primeiro movimento histórico no país no que tange à Seguridade Social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682 de
+1923, como o primeiro marco da previdência social no Brasil, por ter criado os
+Caixas de Aposentadoria e Pensão (CAP) para os ferroviários. Contudo, bem antes
+disso, pode-se observar movimentos que historicamente contribuíram para o
+nascimento e a evolução da seguridade social no país. É o caso, por exemplo, das
+Santas Casas de Misericórdia, criadas a partir de 1543, as quais já visavam à entrega
+
+
+---
+
+de prestações assistenciais, bem como os Plano de Benefícios dos Órfãos e Viúvas
+dos Oficiais da Marinha, os Montepios para algumas categorias, etc. Assertiva
+incorreta.
+Gabarito: ERRADO.
+
+
+25. (CESPE - Analista Judiciário – STJ – 2018). Com relação à organização e aos
+princípios do sistema de seguridade social brasileiro, julgue o item a seguir.
+Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores
+buscaram a proteção social que aquela legislação garantiu, o que provocou a
+expansão dos direitos protetivos pelo país.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+De fato, a doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei n. 4682 de
+1923, como o primeiro marco da previdência social no Brasil, por ter criado as
+Caixas de Aposentadoria e Pensões (CAP) para os ferroviários, sendo que,
+posteriormente, diversas categorias de trabalhadores buscaram tal proteção social.
+Destra forma, essas Caixas foram estendidas a outras categorias de trabalhadores,
+tais como:
+• 1926: Empregados portuários e marítimos;
+• 1928: Empregados de empresas de Serviços Telegráficos e Radiotelegráficos;
+• 1930: Empregados de empresas de Serviços de Força, Luz e Bondes.
+
+
+Portanto, assertiva correta.
+
+
+Gabarito: CERTO.
+
+
+---
+
+26. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em
+relação à trajetória da previdência social no Brasil, julgue o item a seguir:
+As Caixas de Aposentadorias e Pensões (CAP´s) eram organizações de natureza
+privada financiadas pelas contribuições das empresas e dos empregados.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+A doutrina atribui à Lei Eloy Chaves (Decreto-Lei nº 4.682 de 1923), como o
+primeiro marco da previdência social brasileiro. À época, foi criada a Caixa de
+Aposentadoria e Pensão – CAP em favor dos empregados de empresas do setor
+ferroviário. Contudo, as respectivas CAP´s eram organizadas pelas empresas
+(inicialmente somente as empresas do setor ferroviário) e cada uma delas possuía
+sua própria caixa. As CAP´s tinham natureza privada e eram financiadas pelas
+contribuições das empresas e dos empregados. Assertiva correta.
+
+
+Gabarito: CERTO.
+
+
+27. (CESPE – Defensor Público Federal – Defensoria Pública da União – 2010).
+Em relação aos institutos de direito previdenciário, julgue o item que se segue.
+A Lei Eloy Chaves (Decreto Legislativo n.º 4.682/1923), considerada o marco da
+Previdência Social no Brasil, criou as caixas de aposentadoria e pensões das
+empresas de estradas de ferro, sendo esse sistema mantido e administrado pelo
+Estado.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Esta questão pode pegar o candidato que está com um pouco de pressa na hora
+de fazer a prova. A Lei Eloy Chaves realmente foi um marco na história da
+
+
+---
+
+Previdência Social do Brasil e ao Estado cabia a regulamentação. Contudo, tanto a
+manutenção quanto a administração cabiam aos empregadores, que no caso eram
+as empresas ferroviárias, possuindo, portanto, natureza privada. Portanto assertiva
+errada.
+
+
+Gabarito: ERRADA.
+
+
+28. (QUESTÃO INÉDITA). Com relação à evolução do sistema de Seguridade
+Social brasileiro, julgue o item a seguir:
+Somente após a década de 40 diversas categorias de trabalhadores
+conquistaram a proteção social que as empresas do setor ferroviário obtiveram
+quando da edição da Lei Eloy Chaves.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A doutrina majoritária atribui à Lei Eloy Chaves, Decreto-Lei nº 4.682 de 1923, como
+o primeiro marco da previdência social no Brasil, por ter criado os Caixas de
+Aposentadoria e Pensão (CAP) para os ferroviários. Contudo, já na década de 30,
+do século passado, essas caixas foram estendidas a outras categorias de
+trabalhadores. Assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+
+29. (CESPE - Defensor – Defensoria Pública do Estado do Espírito Santo - 2012).
+No tocante à Seguridade Social, julgue o item subsequente.
+A publicação, em 1954, do Decreto n.º 35.448, que aprovou o Regulamento
+Geral dos Institutos de Aposentadorias e Pensões, é considerada, pela doutrina
+majoritária, o marco inicial da previdência social brasileira.
+( ) Certo
+( ) Errado
+
+
+---
+
+COMENTÁRIOS:
+Apesar de não ser unânime entre todos os especialistas, a Lei Eloy Chaves (Decreto-
+Lei nº 4.682 de 1923) é considerada o marco inicial da previdência social no Brasil.
+Esta lei criou as Caixas de Aposentadorias e Pensões para empregados de
+empresas ferroviárias, iniciando a consolidação da base do sistema previdenciário
+no país, a qual, posteriormente, foi seguida por outras categorias. Portanto,
+assertiva incorreta.
+
+
+Gabarito: ERRADO
+
+
+30. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em
+relação à trajetória da previdência social no Brasil, julgue o item a seguir:
+Na década de 1930, as CAP´s foram transformadas e substituídas
+progressivamente pelos Institutos de Aposentadoria e Pensões (IAP´s),
+organizados por ramos de atividade e de natureza estatal.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Diante das necessidades e dos problemas apresentados pelas CAP´s, estas foram
+unificadas por categoria profissional, dando origem aos Institutos de
+Aposentadorias e Pensões – IAP´s, na década de 30 do século passado. Os IAP´s
+eram autarquias de abrangência nacional, centralizadas no governo federal e
+subordinadas ao recém-criado Ministério do Trabalho. Os Institutos de
+Aposentadorias e Pensões – IAP´s surgiram em 1933, inicialmente com a criação do
+IAPM (Instituto de Aposentadoria e Pensões dos Marítimos). Enquanto as CAP´s
+eram organizadas por empresas, os IAP´s eram organizados por CATEGORIAS
+PROFISSIONAIS, abrangendo classe de trabalhadores no âmbito nacional.
+Assertiva correta.
+
+
+Gabarito: CERTO.
+
+
+---
+
+31. (CESPE - Procurador do Ministério Público de Contas - TCE/       BA – 2010).
+Julgue o próximo item, a respeito da seguridade social.
+Na evolução da previdência social brasileira, o modelo dos institutos de
+aposentadoria e pensão, que abrangiam determinadas categorias profissionais,
+foi posteriormente substituído pelo modelo das caixas de aposentadoria e
+pensão, que eram criadas na estrutura de cada empresa.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Em realidade é exatamente o contrário. A origem da previdência social brasileira
+foi com as Caixas de Aposentadoria e Pensão – CAP, que eram criadas na estrutura
+de cada empresa. Depois os modelos de CAP´s foram substituídos pelos Institutos
+de Aposentadoria e Pensão – IAP. Assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+
+32. (CESPE – Defensor Público Federal – Defensoria Pública da União - 2004).
+Em relação à origem, organização e evolução legislativa da seguridade social no
+Brasil, julgue o item a seguir.
+O falecimento recente de Leonel Brizola recordou uma das correntes ideológicas
+mais importantes na história brasileira: o trabalhismo, resultante da política
+adotada pelo governo Vargas a partir de 1930 e cujo ideário constituiu um
+conjunto de políticas no fortalecimento do sindicalismo, na criação da justiça do
+trabalho e na política previdenciária caracterizada pela organização de caixas de
+aposentadoria e pensão segmentadas por empresas e de natureza privada.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+---
+
+Quase certa! O conceito apresentado pelo examinador não está equivocado.
+Contudo, na realidade, na década de 30 as Caixas de Aposentadoria e Pensão
+foram substituídas pelos Institutos de Aposentadoria. Ou seja, em 1930, as CAP’s
+já existiam, o que torna a questão errada.
+Gabarito: ERRADO.
+
+
+33. (CESPE - Analista Legislativo - CAM DEP – 2014). Com relação à evolução
+histórica e à organização institucional da previdência social, julgue o item a
+seguir.
+Embora a Lei Eloy Chaves, de 1923, seja considerada, na doutrina majoritária, o
+marco da previdência social no Brasil, apenas em 1960, com a aprovação da Lei
+Orgânica da Previdência Social, houve a uniformização do regramento de
+concessão dos benefícios pelos diversos institutos de aposentadoria e pensão
+então existentes.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva correta. A doutrina majoritária considera a Lei Eloy Chaves (Decreto-Lei
+n. 4682 de 1923), como o primeiro marco da previdência social no Brasil. A Lei Eloy
+Chaves criou a Caixa de Aposentadoria e Pensões – CAP para os empregados
+ferroviários, mediante contribuição dos empregados, empregadores e Estado. Em
+1926 essas CAP´s foram estendida aos portuários e marítimos e, mais adiante, para
+outras categorias.
+Contudo, conforme afirma a banca examinadora, somente em 1960, com a Lei
+Orgânica da Previdência Social (LOPS), houve a uniformização do regramento de
+concessão dos benefícios pelos diversos institutos de aposentadorias e pensões
+então existentes. A LOPS já estava preparando o ordenamento jurídico brasileiro
+para a posterior unificação dos IAP´s em uma única autarquia federal, o que ocorreu
+em 1967 com a criação do INPS.
+
+
+Gabarito: CERTO
+
+
+---
+
+34. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ocorreram inúmeras modificações na organização administrativa previdenciária
+brasileira ao longo de seu desenvolvimento, tais como a transformação do Fundo
+de Assistência e Previdência do Trabalhador Rural em INPS e, em seguida,
+mediante a CF, a transformação deste em INSS.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A transformação citada pelo examinador nunca ocorreu. O FUNRURAL – Fundo de
+Assistência e Previdência do Trabalhador Rural foi criado em 1963, pela Lei 4.214
+e foi extinto em 1991, pelo art. 138 da Lei 8.213/91. O INPS – Instituto Nacional de
+Previdência Social foi criado em 1966, por intermédio do Decreto Lei nº 72/66, que
+unificou os Institutos de Aposentadoria e Pensão existentes à época em um único
+órgão. Contudo cumpre observar que, mesmo com a criação do INPS, os
+trabalhadores rurais continuaram no próprio FUNRURAL. Assertiva incorreta.
+Gabarito: ERRADO
+35. (CESPE - Defensor Público Federal – 2017). Acerca da seguridade social no
+Brasil, de sua evolução histórica e de seus princípios, julgue o item a seguir.
+A Lei Eloy Chaves, de 1923, foi um marco na legislação previdenciária no Brasil,
+pois unificou os diversos institutos de aposentadoria e criou o INPS.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois apesar de a Lei Eloy Chaves realmente ter sido um
+marco na legislação previdenciária, não foi essa Lei que unificou institutos de
+aposentadoria, pois estes sequer existiam à época. No caso, O INPS foi criado pelo
+Decreto-Lei nº 72/66, publicado em 21/11/1966, mas tendo entrado em vigor
+apenas em 01/01/1967. Com a criação do Instituto Nacional da Previdência Social
+- INPS, todos os Institutos de Aposentadorias e Pensões – IAP´s foram unificados
+
+
+---
+
+numa única autarquia federal, qual seja, o INPS. Muito tempo depois da edição da
+lei Eloy Chaves.
+
+
+Gabarito: ERRADO.
+
+
+36. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+O ordenamento jurídico brasileiro coexistiu com inúmeros regimes
+previdenciários específicos até a edição do Decreto-lei n.º 72/1966, mediante o
+qual foram unificados os institutos de aposentadorias e centralizada a
+organização previdenciária no INPS.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+De fato, o INPS – Instituto Nacional de Previdência Social foi criado em 1966, por
+intermédio do Decreto Lei nº 72/66, unificando-se os Institutos de Aposentadoria
+e Pensão existentes à época em uma única autarquia federal. Assertiva correta.
+
+
+Gabarito: CERTO
+7. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+A Empresa de Processamento de Dados da Previdência Social (Dataprev) passou
+a integrar o SINPAS, na condição de órgão autônomo da estrutura do Ministério
+da Previdência e Assistência Social (MPAS).
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+---
+
+A DATAPREV, de fato integrou o SINPAS. Contudo, não era um órgão autônomo
+vinculado ao MPAS. Tratava-se de uma das entidades integrantes do SINPAS,
+responsável pelo processamento de dados da Previdência Social. É a única
+entidade que fazia parte do SINPAS e que existe até hoje. Assertiva incorreta.
+Gabarito: ERRADO.
+
+
+38. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+Entre outras competências, cabia ao Instituto Nacional de Previdência Social
+(INPS), como entidade do SINPAS, a concessão e manutenção de benefícios e
+outras prestações em dinheiro, inclusive aquelas que estavam a cargo do Fundo
+de Assistência ao Trabalhador Rural (Funrural).
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva correta, de fato era o que ocorria. Quando da vigência do SINPAS, era de
+competência do INPS gerir tais questões administrativas.
+Gabarito: CERTO.
+
+
+39. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+As entidades integrantes do SINPAS preservaram seus bens móveis e imóveis,
+não sendo permitido ao MPAS a promover a transferência, de uma para outra
+entidade do SINPAS, de bens imóveis e de direitos a eles relativos.
+( ) Certo
+( ) Errado
+
+
+---
+
+COMENTÁRIOS:
+Assertiva incorreta. Era permitida a transferência, inclusive prevista na legislação.
+Mais especificamente na lei 6. 439/77, vigente à época, que em seu artigo 15, assim
+dispunha:
+Art 15 - Fica o Poder Executivo autorizado a promover a transferência, de uma para outra entidade
+do SINPAS, de bens imóveis e de direitos a eles relativos.
+
+Gabarito: ERRADO.
+
+
+40. (CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada).
+Considerando a evolução histórico-legislativa e os princípios da seguridade social
+no Brasil, julgue a assertiva a seguir:
+O INSS, importante órgão na estrutura da seguridade social brasileira, foi
+instituído no Brasil na década de noventa do século XX, como autarquia federal,
+mediante fusão do Instituto de Administração da Previdência e Assistência Social
+com o Instituto Nacional de Previdência Social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva correta. Com o advento da CF/88 inicia-se um novo formato de
+organização do sistema de Seguridade Social, dividida entre: saúde, assistência e
+previdência social; mas somente com o decreto 99.350/90 (portanto, na década de
+90, conforme afirma o examinador), cria-se o INSTITUTO NACIONAL
+DO SEGURO SOCIAL - INSS que unifica os antigos INPS (Instituto Nacional de
+Previdência Social, responsável por conceder benefícios previdenciários) com o
+IAPAS (Instituto Administração Financeira da Previdência e Assistência Social,
+responsável pela arrecadação e fiscalização das contribuições previdenciárias).
+
+
+Gabarito: CERTO
+
+
+---
+
+41. (FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da
+previdência social brasileira, nos dias atuais, está composta com diferentes
+regimes. São eles:
+Regime Geral, administrado por IAP, os Regimes dos servidores públicos das três
+esferas de governo (União, estados e municípios) e previdência privada.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A assertiva está incorreta. O Regime Geral não é, atualmente, administrado por
+IAP’s (Institutos de Aposentadorias e Pensões), já extintos. Com a criação do
+Instituto Nacional da Previdência Social - INPS, todos os Institutos de
+Aposentadorias e Pensões – IAP´s foram unificados numa única autarquia federal,
+qual seja, o INPS. Hoje, o Regime Geral é de responsabilidade do INSS para a concessão
+de benefícios e da Receita Federal do Brasil - RFB para o custeio previdenciário. Portanto,
+assertiva incorreta.
+
+
+Gabarito: ERRADO.
+
+
+42. (FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da
+previdência social brasileira, nos dias atuais, está composta com diferentes
+regimes. São eles:
+Regime Geral, administrado pelo Instituto Nacional do Seguro Social − INSS, os
+Regimes Próprios dos Servidores Públicos e Militares e a Previdência
+Complementar.
+( ) Certo
+( ) Errado
+COMENTÁRIOS:
+De fato, são três os regimes da previdência social no Brasil: Regime Geral de
+Previdência Social – RGPS, Regime Próprio de Previdência Social - RPPS e o Regime
+de Previdência Complementar. Portanto a assertiva está correta. Obs: O INSS cuida
+
+
+---
+
+da parte de concessão e manutenção de benefícios previdenciários. Contudo, o custeio é de
+responsabilidade da RFB.
+
+Gabarito: CERTO.
+
+
+43. (CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto
+Nacional do Seguro Social, a seu histórico e estrutura, julgue o item a seguir.
+O Instituto Nacional do Seguro Social, autarquia federal atualmente vinculada ao
+Ministério da Previdência Social, surgiu, em 1990, como resultado da fusão do
+Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) e o
+Instituto de Administração Financeira da Previdência e Assistência Social (IAPAS).
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A assertiva está incorreta, pois o examinador troca o Instituto Nacional de
+Previdência Social - INPS pelo INAMPS. Em realidade a fusão que deu origem ao
+INSS foi do IAPAS com o INPS (e não INAMPS).
+
+
+Gabarito: ERRADO.
+
+
+44. (CESPE - Juiz Federal - TRF 5ª Região – 2007). Acerca da legislação aplicável
+à seguridade social e sua gestão, julgue o seguinte item.
+O Instituto Nacional do Seguro Social (INSS) é a autarquia previdenciária cuja
+principal atribuição é a administração do regime geral de previdência social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva incorreta. O INSS não tem como principal atribuição a administração do
+RGPS. A principal atribuição do INSS é a concessão e manutenção dos benefícios
+
+
+---
+
+previdenciários. Essa autarquia federal (INSS) não mais atua na arrecadação e
+cobrança das contribuições previdenciárias, uma vez que tal atribuição foi
+transferida para a Secretaria da Receita Previdenciária e, posteriormente, para a
+Receita Federal do Brasil.
+
+
+Assim sendo, não cabe ao INSS administrar o RGPS, mas apenas operacionalizar o
+reconhecimento dos direitos dos segurados do Regime Geral de Previdência Social
+– RGPS, nos termos da legislação previdenciária. Outrossim, a parte de custeio do
+RGPS está sob responsabilidade da RFB.
+
+
+Gabarito: ERRADO.
+
+
+45. (CESPE - Oficial Técnico de Inteligência - ABIN – 2018). Em relação à
+organização, à origem e ao custeio do sistema de seguridade social, julgue o
+item a seguir.
+A seguridade social nos moldes como é atualmente conhecida é fruto da
+evolução legislativa quanto à garantia dos direitos sociais no Brasil e foi
+introduzida no ordenamento jurídico pátrio pela Constituição Federal de 1988.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Historicamente, a Seguridade social teve diversas iniciativas ao longo do tempo,
+tais como, em 1543, com a criação das Santas Casas de Misericórdia, a qual visava
+à entrega de prestações assistenciais.
+Mesmo já existindo serviços públicos relacionados à saúde, previdência e
+assistência social, eles existiam de forma isolada e sem integrar a Seguridade Social.
+A sistematização desses serviços e sua integração como Seguridade Social,
+realmente só veio com o surgimento da Constituição Federal em 1988, que foi a
+primeira Constituição a utilizar a expressão “Seguridade Social”, englobando
+Saúde, Assistência e Previdência.
+
+
+Gabarito: CERTO.
+
+
+---
+
+46. (CESPE - Auditor de Controle Externo – TC/ DF – 2014). Com relação à
+origem e à evolução legislativa da Seguridade Social no Brasil, julgue o item
+abaixo.
+O seguro-desemprego veio previsto pela primeira vez na CF/1988.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva incorreta. A primeira aparição do Seguro Desemprego é na Constituição
+de 1967.
+Art 158 - A Constituição assegura aos trabalhadores os seguintes direitos, além de outros que,
+nos termos da lei, visem à melhoria, de sua condição social: [...]
+XVI - previdência social, mediante contribuição da União, do empregador e do empregado,
+para seguro-desemprego, proteção da maternidade e, nos casos de doença, velhice, invalidez e
+morte;
+
+
+Gabarito: ERRADO.
+
+
+47. (CESPE - Analista Legislativo - CAM DEP - Área XXI - Consultor Legislativo –
+2014). Com relação à evolução histórica e à organização institucional da
+previdência social, julgue o item a seguir.
+A Constituição Federal de 1934 inovou a ordem constitucional brasileira no que
+se refere à fonte do custeio previdenciário, que passou a ser tríplice, provinda de
+contribuições do Estado, do trabalhador e do empregador.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva correta, pois a Constituição Federal de 1934 foi a primeira a instituir, em
+texto constitucional, o custeio tripartite, com contribuições da União, empregador
+e empregado, em favor da velhice, invalidez, maternidade, acidentes de trabalho e
+
+
+---
+
+morte. Esta Constituição, por fatores como este, dentre outros, foi considerada
+evolucionista, no que tange aspectos do tema Seguridade Social.
+
+
+Gabarito: CERTO.
+48. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Constituição de 1934 foi a primeira a dispor sobre aposentadoria, instituindo-
+a para os funcionários públicos em caso de invalidez no serviço.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Diferentemente do que coloca o examinador, a primeira Constituição a dispor
+sobre aposentadoria é a Constituição de 1891 (Constituição Republicana), sendo a
+primeira a trazer a expressão “aposentadoria”, ao instituir a aposentadoria para os
+funcionários públicos, em caso de invalidez. Assertiva incorreta.
+
+
+Gabarito: ERRADO
+
+
+49. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Constituição de 1937 foi a primeira a prever a forma tripartite de custeio da
+previdência, realizada com contribuições do Estado, do empregado e do
+empregador.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+
+
+---
+
+Assertiva incorreta. A Constituição de 1934 ( e não a de 1937) foi a primeira a
+instituir, em texto constitucional, o custeio tripartite, com contribuições da União,
+empregador e empregado, em favor da velhice, invalidez, maternidade, acidentes
+de trabalho e morte.
+A Constituição Federal de1937, contudo, foi a primeira Constituição a utilizar a
+expressão “seguro social”.
+
+
+Gabarito: ERRADO
+50. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ao longo de décadas, o Estado brasileiro deixou de conceder diversos direitos
+sociais a seus cidadãos, tendo sido instituídos benefícios previdenciários ao
+trabalhador apenas com a promulgação da CF.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva incorreta. Apenas para trazermos alguns exemplos, em 1795 foi criado o
+Plano de Benefícios dos Órfãos e Viúvas dos Oficiais da Marinha. 40 anos depois,
+em 1835, surge o MONGERAL – Montepio Geral dos Servidores do Estado, um
+plano previdenciário de abrangência ampla. Enfim, não procede a assertiva
+proposta pelo examinador. Ademais, antes da promulgação da Constituição
+Federal, já havia sido publicado o Decreto Legislativo nº 3.724/1919, que tratava
+de seguro de acidente do trabalho – SAT. Além disso, já estavam em vigor algumas
+leis concedendo aposentadorias para determinadas categorias de trabalhadores,
+como, por exemplo, professores, servidores públicos, empregados dos Correios,
+etc.
+
+
+Gabarito: ERRADO
+
+
+51. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+
+
+---
+
+A Constituição Federal de 1934 é considerada retrocedente quanto à proteção
+ao trabalhador, haja vista terem sido dela excluídos os benefícios de proteção à
+maternidade e os provenientes de acidente de trabalho.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva incorreta, pois a Constituição de 1934 é reconhecida pelo seu
+aspecto evolutivo no que tange a aspectos previdenciários. Foi a primeira
+Constituição a instituir, em texto constitucional, o custeio tripartite, com
+contribuições da União, empregador e empregado, em favor da velhice, invalidez,
+maternidade, acidentes de trabalho e morte. Vejamos a transcrição de trechos do
+seu artigo 121, para que observemos como tal CF evolui no tema em questão:
+Art 121 - A lei promoverá o amparo da produção e estabelecerá as condições do trabalho, na
+cidade e nos campos, tendo em vista a proteção social do trabalhador e os interesses econômicos
+do País.
+§ 1º - A legislação do trabalho observará os seguintes preceitos, além de outros que colimem
+melhorar as condições do trabalhador: [...]
+h) assistência médica e sanitária ao trabalhador e à gestante, assegurando a esta descanso antes
+e depois do parto, sem prejuízo do salário e do emprego, e instituição de previdência, mediante
+contribuição igual da União, do empregador e do empregado, a favor da velhice, da invalidez,
+da maternidade e nos casos de acidentes de trabalho ou de morte;
+
+Gabarito: ERRADO
+
+
+52. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+A seguridade social pode garantir mais, ou menos, acesso a direitos, quanto mais
+se desvencilhar da lógica do seguro e quanto mais assumir a lógica social.
+( ) Certo
+( ) Errado
+
+
+---
+
+COMENTÁRIOS:
+Correto. Na lógica do seguro a proteção seria realizada pela própria iniciativa
+privada e, portanto, para a minoria da população. Já na lógica social, mais
+moderna, busca-se abranger cada vez mais riscos sociais e pessoas cobertas pelo
+sistema.
+
+
+Gabarito: CERTO.
+
+
+53. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+A seguridade social brasileira terminou por conjugar direitos derivados do
+trabalho, com direitos de caráter universal e direitos seletivos.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Correto. Tanto isso é verdade que a seguridade social, abarca direitos relacionados
+à saúde (de caráter universal); assistência social (de caráter seletivo, uma vez que
+este direito é ofertado somente a quem dele precisar); e direitos derivados do
+trabalho (previdência social propriamente dita).
+
+
+Gabarito: CERTO.
+
+
+54. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+
+
+---
+
+No Brasil implantou-se um padrão de seguridade social homogêneo, com forte
+tendência a lógica da assistência e da universalidade, inclusive na previdência
+social.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+A seguridade social abrange áreas diferentes, quais sejam: previdência social,
+saúde e assistência social. Claramente não se trata de um padrão homogêneo, pois
+há tratamentos diferenciados. Por exemplo, a assistência social é de caráter
+seletivo, uma vez que é ofertada somente a quem dela necessitar. Já a previdência
+social é orientada apenas aos beneficiários (segurados e dependentes), mediante
+contribuição, fugindo da lógica assistencialista e universal. Portanto, assertiva
+incorreta.
+
+
+Gabarito: ERRADO.
+
+
+55. (CESPE - Técnico do Seguro Social – 2008). Acerca da seguridade social no
+Brasil, de suas características, contribuições e atuação, julgue o item a seguir.
+A seguridade social brasileira, apesar de ser fortemente influenciada pelo
+modelo do Estado do bem-estar social, não abrange todas as políticas sociais do
+Estado brasileiro.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+É isso mesmo. A seguridade social no Brasil é composta de três pilares: Previdência,
+Saúde e Assistência Social. Abrange muitos benefícios. Contudo, existem políticas
+sociais que não estão neste “guarda-chuva”. Por exemplo: educação, trabalho,
+saneamento, meio ambiente, lazer, etc. Apesar de sua importância, tais políticas
+sociais estão fora da área de atuação da Seguridade Social.
+Gabarito: CERTO.
+
+
+---
+
+56. (CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto
+Nacional do Seguro Social, a seu histórico e estrutura, julgue o item a seguir.
+A fusão da Secretaria da Receita Federal com a Secretaria da Receita
+Previdenciária centralizou em apenas um órgão a arrecadação da maioria dos
+tributos federais. Contudo, a fiscalização e a arrecadação das contribuições
+sociais destinadas aos chamados terceiros - SESC, SENAC, SESI, SENAI e outros
+- permanecem a cargo do INSS.
+( ) Certo
+( ) Errado
+
+
+COMENTÁRIOS:
+Assertiva incorreta, pois com o advento da Lei 11.457/2007 a Receita Federal do
+Brasil passou a ser responsável pela fiscalização e arrecadação das contribuições
+sociais, inclusive aquelas em favor de outras entidades e fundos, também
+conhecidas como contribuições para terceiros. Exemplo: “Sistema S” (SESC,
+SENAC, SESI, SENAI, etc.), FNDE, INCRA, etc.
+
+
+Gabarito: ERRADO.
+
+
+---
+
+LISTA DE EXERCÍCIOS
+
+1 - (CESPE – Oficial Técnico de Inteligência - ABIN – 2018) Em relação à
+organização, à origem e ao custeio do sistema de seguridade social, julgue o item
+a seguir.
+ A seguridade social nos moldes como é atualmente conhecida é fruto da evolução
+legislativa quanto à garantia dos direitos sociais no Brasil e foi introduzida no
+ordenamento jurídico pátrio pela Constituição Federal de 1988.
+( ) Certo
+( ) Errado
+
+
+2- (CESPE – Residência Multiprofissional – HUB – 2017) Acerca da seguridade social
+e do trabalho, julgue o item subsequente.
+É consenso entre os estudiosos da área que, no Brasil, a implementação da
+seguridade social — isto é, do sistema de proteção social — ocorreu conforme o
+que está disposto na Constituição Federal de 1988.
+( ) Certo
+( ) Errado
+
+
+3 - (CESPE – Analista Judiciário – STJ – 2018) Tendo como referência a doutrina e
+a jurisprudência a respeito da organização e dos princípios do sistema de
+seguridade social brasileiro, julgue o item a seguir.
+O período de implantação da seguridade social foi marcado, entre outros, pelo
+advento da Lei Eloy Chaves, que instituiu as caixas de aposentadorias e pensões
+exclusivamente para ferroviários.
+( ) Certo
+( ) Errado
+
+
+---
+
+4 - (CESPE – Analista Judiciário – STJ – 2018) Com relação à organização e aos
+princípios do sistema de seguridade social brasileiro, julgue o item a seguir.
+Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores buscaram
+a proteção social que aquela legislação garantiu, o que provocou a expansão dos
+direitos protetivos pelo país.
+( ) Certo
+( ) Errado
+
+
+5 – (Inédita) Quanto à evolução da Seguridade Social no Brasil, podemos afirmar
+que as formas mais antigas de proteção social que são relatadas no território
+nacional são as Santas Casas de Misericórdia, as quais foram instituídas pela
+primeira norma a estruturar o sistema previdenciário brasileiro.
+( ) Certo
+( ) Errado
+
+
+6- (Inédita) O conceito de Seguridade Social foi introduzido no ordenamento
+jurídico pátrio com a promulgação da Constituição Federal de 1988, também
+conhecida como Constituição Cidadã.
+( ) Certo
+( ) Errado
+
+
+7- (Inédita) As Caixas de Aposentadoria e Pensão foram instituídas originalmente
+pela Lei Eloy Chaves para a categoria dos ferroviários. As CAP’s eram administradas
+pelo poder público e organizadas por empresa. Com o decorrer do tempo, outras
+categorias se mobilizaram e formaram novas Caixas de Aposentadoria e Pensões.
+( ) Certo
+( ) Errado
+
+
+8- (Inédita) Sobre a origem e evolução da Seguridade Social no Brasil, podemos
+afirmar que a entidade integrante do Sistema Nacional de Previdência e Assistência
+Social (SINPAS) responsável pela concessão e manutenção dos benefícios
+previdenciários era o Instituto Nacional de Previdência Social (INPS).
+
+
+---
+
+( ) Certo
+( ) Errado
+
+
+9- (Inédita) Acerca da origem e evolução da Seguridade Social no Brasil, podemos
+afirmar que a Lei Eloy Chaves criou os Institutos de Aposentadorias e Pensões
+(IAP’s) para os ferroviários.
+( ) Certo
+( ) Errado
+
+
+10 – (Inédita) A proteção previdenciária aos trabalhadores rurais iniciou-se com o
+FUNRURAL, na década de 60, entretanto, a previsão de uniformidade de benefícios
+entre trabalhadores urbanos e rurais somente surgiu com a Constituição Federal de
+1988.
+( ) Certo
+( ) Errado
+
+
+11 –(Inédita) Sobre a origem e evolução da Seguridade Social no Brasil, é correto
+afirmar:
+   a) A Eloy Chaves instituiu as caixas de aposentadorias e pensões para os
+      ferroviários e servidores públicos.
+   b) As caixas de aposentadorias e pensões eram organizadas por categoria
+      profissional e tinham natureza privada.
+   c) Com a criação dos Institutos de Aposentadoria e Pensão, a organização da
+      Previdência Social passou a se dar em âmbito estadual.
+   d) A proteção previdenciária aos trabalhadores rurais se iniciou com o
+      FUNRURAL, na década de 60, entretanto, a previsão de uniformidade de
+      benefícios entre trabalhadores urbanos e rurais somente surgiu com a
+      Constituição Federal de 1988.
+   e) O Instituto Nacional de Previdência Social (INPS) era responsável pela
+      concessão e manutenção dos benefícios previdenciários, além de ser
+      responsável pela fiscalização, arrecadação e cobrança das contribuições
+      previdenciárias.
+
+
+---
+
+12 – (Inédita) A respeito da origem e evolução da Seguridade Social no Brasil,
+assinale a afirmativa correta:
+   a) A Constituição Federal de 1967 foi a primeira a prever o sistema de
+      Seguridade Social como o conhecemos hoje.
+   b) O Montepio Geral dos Servidores do Estado, conhecido como Mongeral, é
+      uma das formas mais antigas em que se manifestou a Assistência Social no
+      Brasil.
+   c) Antes da publicação da Lei Eloy Chaves já havia diplomas normativos
+      concedendo aposentadorias para determinadas categorias profissionais,
+      como é o caso da Constituição de 1891, que previa aposentadoria para
+      funcionários públicos em caso de invalidez.
+   d) Com a reforma previdenciária que foi realizada em 1998, durante o governo
+      do presidente Fernando Henrique Cardoso, por meio da Emenda
+      Constitucional 20, surgiu a obrigação de idade mínima para aposentadorias
+      concedidas tanto no âmbito do RGPS quanto do RPPS.
+   e) O sistema previdenciário brasileiro se baseia no conceito bismarckiano,
+      também conhecido como de capitalização.
+
+
+13 - (CESPE – SLU DF - 2019) Acerca da história da seguridade social, da política social e das
+políticas setoriais, considerando suas respectivas legislações, julgue o item subsecutivo.
+Os direitos da seguridade social, seja no modelo bismarckiano, seja no modelo beveridgiano,
+têm como parâmetro histórico central os direitos do trabalho
+( ) Certo
+( ) Errado
+
+
+14 - (CESPE – PGE AM - 2016) A respeito do surgimento e da evolução da seguridade social,
+julgue o item a seguir.
+A Constituição Mexicana de 1917 e a Constituição de Weimar de 1919, ao constitucionalizar
+um conjunto de direitos sociais, colocando-os no mesmo plano dos direitos civis, marcaram
+o início da fase de consolidação da seguridade social.
+( ) Certo
+( ) Errado
+
+
+---
+
+15 - (CESPE – Câmara dos Deputados - 2014) Com relação à evolução histórica e à
+organização institucional da previdência social, julgue o item a seguir.
+A Constituição de Weirmar, de 1919, foi o primeiro diploma legal de magnitude
+constitucional em que se tratou de tema previdenciário.
+( ) Certo
+( ) Errado
+
+
+16 - (CESPE – Câmara dos Deputados - 2014) Acerca da seguridade social, julgue o item que
+se segue.
+Entre os principais marcos legislativos referentes à seguridade social incluem-se a edição do
+Poor Relief Act (lei dos Pobres), em 1601, na Inglaterra, e a criação do seguro-doença, em
+1883, na Alemanha.
+( ) Certo
+( ) Errado
+
+
+17. (CESPE - Analista de Administração Pública - TC-DF - Serviços Técnicos e
+Administrativos - Serviços Técnicos e Administrativos – 2014). Com relação à
+origem, à evolução legislativa, aos princípios constitucionais e à organização da
+seguridade social no Brasil, julgue o item.
+O plano de benefícios dos órfãos e viúvas dos oficiais da Marinha consubstancia
+exemplo histórico da proteção social brasileira.
+( ) Certo
+( ) Errado
+
+
+18. (CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada).
+Considerando a evolução histórico-legislativa e os princípios da seguridade social
+no Brasil, julgue a assertiva a seguir:
+Desde 1919, já havia legislação sobre acidente de trabalho no Brasil, entretanto,
+somente com a publicação da Lei Eloy Chaves, em 1946, foram implementadas
+as primeiras experiências previdenciárias, tendo a referida lei criado caixas de
+aposentadorias e pensões para os empregados das empresas ferroviárias e
+aeroferroviárias brasileiras.
+( ) Certo
+
+
+---
+
+( ) Errado
+
+
+19. (CESPE - Analista Judiciário – STJ – Judiciária – 2018). Tendo como referência
+a doutrina e a jurisprudência a respeito da organização e dos princípios do
+sistema de seguridade social brasileiro, julgue o item a seguir.
+O período de implantação da seguridade social foi marcado, entre outros, pelo
+advento da Lei Eloy Chaves, que instituiu as caixas de aposentadorias e pensões
+exclusivamente para ferroviários.
+( ) Certo
+( ) Errado
+
+
+20. (CESPE - Técnico do Seguro Social – INSS – 2016). No que se refere à
+seguridade social no Brasil, julgue o item seguinte.
+A Lei Eloy Chaves, que criou em cada uma das empresas de estradas de ferro
+existentes no país uma caixa de aposentadoria e pensões para os respectivos
+empregados, foi o primeiro ato normativo a tratar de seguridade social no Brasil.
+( ) Certo
+( ) Errado
+
+
+21. (CESPE - Procurador do Estado do Amazonas – 2016). A respeito do
+surgimento e da evolução da seguridade social, julgue o item a seguir.
+No Brasil, iniciou-se o regime próprio de previdência dos servidores públicos
+com o advento da Lei Eloy Chaves, em 1923, que determinou a criação das caixas
+de aposentadorias e pensões para os ferroviários.
+( ) Certo
+( ) Errado
+
+
+22. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+
+
+---
+
+Apesar de não ser a primeira norma a tratar de seguridade social, a Lei Eloy
+Chaves (Decreto Legislativo nº 4.682/1923) é considerada pela doutrina
+majoritária o marco inicial da previdência social brasileira.
+( ) Certo
+( ) Errado
+
+
+23. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+O Decreto Legislativo n.º 4.682/1923, também conhecido como Lei Eloy Chaves,
+é considerado um marco do direito previdenciário brasileiro, devido ao fato de,
+por meio dele, ter sido criado o Ministério da Previdência e Assistência Social.
+( ) Certo
+( ) Errado
+
+
+24. (INÉDITA). No tocante a origem e a evolução da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Lei Eloy Chaves (Decreto Legislativo nº 4.682/1923) é considerada um marco,
+por ser o primeiro movimento histórico no país no que tange à Seguridade Social.
+( ) Certo
+( ) Errado
+
+
+25. (CESPE - Analista Judiciário – STJ – 2018). Com relação à organização e aos
+princípios do sistema de seguridade social brasileiro, julgue o item a seguir.
+Após a edição da Lei Eloy Chaves, diversas categorias de trabalhadores
+buscaram a proteção social que aquela legislação garantiu, o que provocou a
+expansão dos direitos protetivos pelo país.
+( ) Certo
+( ) Errado
+
+
+---
+
+26. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em
+relação à trajetória da previdência social no Brasil, julgue o item a seguir:
+As Caixas de Aposentadorias e Pensões (CAP´s) eram organizações de natureza
+privada financiadas pelas contribuições das empresas e dos empregados.
+( ) Certo
+( ) Errado
+
+
+27. (CESPE – Defensor Público Federal – Defensoria Pública da União – 2010).
+Em relação aos institutos de direito previdenciário, julgue o item que se segue.
+A Lei Eloy Chaves (Decreto Legislativo n.º 4.682/1923), considerada o marco da
+Previdência Social no Brasil, criou as caixas de aposentadoria e pensões das
+empresas de estradas de ferro, sendo esse sistema mantido e administrado pelo
+Estado.
+( ) Certo
+( ) Errado
+
+
+28. (QUESTÃO INÉDITA). Com relação à evolução do sistema de Seguridade
+Social brasileiro, julgue o item a seguir:
+Somente após a década de 40 diversas categorias de trabalhadores
+conquistaram a proteção social que as empresas do setor ferroviário obtiveram
+quando da edição da Lei Eloy Chaves.
+( ) Certo
+( ) Errado
+
+
+29. (CESPE - Defensor – Defensoria Pública do Estado do Espírito Santo - 2012).
+No tocante à Seguridade Social, julgue o item subsequente.
+A publicação, em 1954, do Decreto n.º 35.448, que aprovou o Regulamento
+Geral dos Institutos de Aposentadorias e Pensões, é considerada, pela doutrina
+majoritária, o marco inicial da previdência social brasileira.
+( ) Certo
+( ) Errado
+
+
+---
+
+30. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada). Em
+relação à trajetória da previdência social no Brasil, julgue o item a seguir:
+Na década de 1930, as CAP´s foram transformadas e substituídas
+progressivamente pelos Institutos de Aposentadoria e Pensões (IAP´s),
+organizados por ramos de atividade e de natureza estatal.
+( ) Certo
+( ) Errado
+
+
+31. (CESPE - Procurador do Ministério Público de Contas - TCE/       BA – 2010).
+Julgue o próximo item, a respeito da seguridade social.
+Na evolução da previdência social brasileira, o modelo dos institutos de
+aposentadoria e pensão, que abrangiam determinadas categorias profissionais,
+foi posteriormente substituído pelo modelo das caixas de aposentadoria e
+pensão, que eram criadas na estrutura de cada empresa.
+( ) Certo
+( ) Errado
+
+
+32. (CESPE – Defensor Público Federal – Defensoria Pública da União - 2004).
+Em relação à origem, organização e evolução legislativa da seguridade social no
+Brasil, julgue o item a seguir.
+O falecimento recente de Leonel Brizola recordou uma das correntes ideológicas
+mais importantes na história brasileira: o trabalhismo, resultante da política
+adotada pelo governo Vargas a partir de 1930 e cujo ideário constituiu um
+conjunto de políticas no fortalecimento do sindicalismo, na criação da justiça do
+trabalho e na política previdenciária caracterizada pela organização de caixas de
+aposentadoria e pensão segmentadas por empresas e de natureza privada.
+( ) Certo
+( ) Errado
+
+
+33. (CESPE - Analista Legislativo - CAM DEP – 2014). Com relação à evolução
+histórica e à organização institucional da previdência social, julgue o item a
+seguir.
+
+
+---
+
+Embora a Lei Eloy Chaves, de 1923, seja considerada, na doutrina majoritária, o
+marco da previdência social no Brasil, apenas em 1960, com a aprovação da Lei
+Orgânica da Previdência Social, houve a uniformização do regramento de
+concessão dos benefícios pelos diversos institutos de aposentadoria e pensão
+então existentes.
+( ) Certo
+( ) Errado
+
+
+34. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ocorreram inúmeras modificações na organização administrativa previdenciária
+brasileira ao longo de seu desenvolvimento, tais como a transformação do Fundo
+de Assistência e Previdência do Trabalhador Rural em INPS e, em seguida,
+mediante a CF, a transformação deste em INSS.
+( ) Certo
+( ) Errado
+
+
+35. (CESPE - Defensor Público Federal – 2017). Acerca da seguridade social no
+Brasil, de sua evolução histórica e de seus princípios, julgue o item a seguir.
+A Lei Eloy Chaves, de 1923, foi um marco na legislação previdenciária no Brasil,
+pois unificou os diversos institutos de aposentadoria e criou o INPS.
+( ) Certo
+( ) Errado
+
+
+36. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+O ordenamento jurídico brasileiro coexistiu com inúmeros regimes
+previdenciários específicos até a edição do Decreto-lei n.º 72/1966, mediante o
+qual foram unificados os institutos de aposentadorias e centralizada a
+organização previdenciária no INPS.
+( ) Certo
+( ) Errado
+
+
+---
+
+37. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+A Empresa de Processamento de Dados da Previdência Social (Dataprev) passou
+a integrar o SINPAS, na condição de órgão autônomo da estrutura do Ministério
+da Previdência e Assistência Social (MPAS).
+( ) Certo
+( ) Errado
+
+
+38. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+Entre outras competências, cabia ao Instituto Nacional de Previdência Social
+(INPS), como entidade do SINPAS, a concessão e manutenção de benefícios e
+outras prestações em dinheiro, inclusive aquelas que estavam a cargo do Fundo
+de Assistência ao Trabalhador Rural (Funrural).
+( ) Certo
+( ) Errado
+
+
+39. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Acerca do Sistema Nacional de Assistência e Previdência Social (SINPAS), que
+agrupou o Instituto Nacional de Previdência Social (INPS) e o Instituto Nacional
+de Administração da Previdência Social (IAPAS), julgue o item a seguir:
+As entidades integrantes do SINPAS preservaram seus bens móveis e imóveis,
+não sendo permitido ao MPAS a promover a transferência, de uma para outra
+entidade do SINPAS, de bens imóveis e de direitos a eles relativos.
+( ) Certo
+( ) Errado
+
+
+---
+
+40. (CESPE - Procurador - Banco Central do Brasil - 2013) (Adaptada).
+Considerando a evolução histórico-legislativa e os princípios da seguridade social
+no Brasil, julgue a assertiva a seguir:
+O INSS, importante órgão na estrutura da seguridade social brasileira, foi
+instituído no Brasil na década de noventa do século XX, como autarquia federal,
+mediante fusão do Instituto de Administração da Previdência e Assistência Social
+com o Instituto Nacional de Previdência Social.
+( ) Certo
+( ) Errado
+
+
+41. (FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da
+previdência social brasileira, nos dias atuais, está composta com diferentes
+regimes. São eles:
+Regime Geral, administrado por IAP, os Regimes dos servidores públicos das três
+esferas de governo (União, estados e municípios) e previdência privada.
+( ) Certo
+( ) Errado
+
+
+42. (FCC - Analista Judiciário - TRT 6ª Região - 2012) (Adaptada). A estrutura da
+previdência social brasileira, nos dias atuais, está composta com diferentes
+regimes. São eles:
+Regime Geral, administrado pelo Instituto Nacional do Seguro Social − INSS, os
+Regimes Próprios dos Servidores Públicos e Militares e a Previdência
+Complementar.
+( ) Certo
+( ) Errado
+
+
+43. (CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto
+Nacional do Seguro Social, a seu histórico e estrutura, julgue o item a seguir.
+O Instituto Nacional do Seguro Social, autarquia federal atualmente vinculada ao
+Ministério da Previdência Social, surgiu, em 1990, como resultado da fusão do
+
+
+---
+
+Instituto Nacional de Assistência Médica da Previdência Social (INAMPS) e o
+Instituto de Administração Financeira da Previdência e Assistência Social (IAPAS).
+( ) Certo
+( ) Errado
+
+
+44. (CESPE - Juiz Federal - TRF 5ª Região – 2007). Acerca da legislação aplicável
+à seguridade social e sua gestão, julgue o seguinte item.
+O Instituto Nacional do Seguro Social (INSS) é a autarquia previdenciária cuja
+principal atribuição é a administração do regime geral de previdência social.
+( ) Certo
+( ) Errado
+
+
+45. (CESPE - Oficial Técnico de Inteligência - ABIN – 2018). Em relação à
+organização, à origem e ao custeio do sistema de seguridade social, julgue o
+item a seguir.
+A seguridade social nos moldes como é atualmente conhecida é fruto da
+evolução legislativa quanto à garantia dos direitos sociais no Brasil e foi
+introduzida no ordenamento jurídico pátrio pela Constituição Federal de 1988.
+( ) Certo
+( ) Errado
+
+
+46. (CESPE - Auditor de Controle Externo – TC/ DF – 2014). Com relação à
+origem e à evolução legislativa da Seguridade Social no Brasil, julgue o item
+abaixo.
+O seguro-desemprego veio previsto pela primeira vez na CF/1988.
+( ) Certo
+( ) Errado
+
+
+47. (CESPE - Analista Legislativo - CAM DEP - Área XXI - Consultor Legislativo –
+2014). Com relação à evolução histórica e à organização institucional da
+previdência social, julgue o item a seguir.
+
+
+---
+
+A Constituição Federal de 1934 inovou a ordem constitucional brasileira no que
+se refere à fonte do custeio previdenciário, que passou a ser tríplice, provinda de
+contribuições do Estado, do trabalhador e do empregador.
+( ) Certo
+( ) Errado
+48. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Constituição de 1934 foi a primeira a dispor sobre aposentadoria, instituindo-
+a para os funcionários públicos em caso de invalidez no serviço.
+( ) Certo
+( ) Errado
+
+
+49. (CESPE - Analista do Executivo – ES – Direito – 2013) (Adaptada). Acerca do
+conceito, da origem e da evolução legislativa da seguridade social brasileira,
+julgue a assertiva a seguir:
+A Constituição de 1937 foi a primeira a prever a forma tripartite de custeio da
+previdência, realizada com contribuições do Estado, do empregado e do
+empregador.
+( ) Certo
+( ) Errado
+
+
+50. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+Ao longo de décadas, o Estado brasileiro deixou de conceder diversos direitos
+sociais a seus cidadãos, tendo sido instituídos benefícios previdenciários ao
+trabalhador apenas com a promulgação da CF.
+( ) Certo
+( ) Errado
+
+
+---
+
+51. (CESPE - Analista Judiciário - TRT 8ª Região - 2013) (Adaptada). Acerca da
+evolução histórica do direito previdenciário brasileiro, julgue a assertiva a seguir:
+A Constituição Federal de 1934 é considerada retrocedente quanto à proteção
+ao trabalhador, haja vista terem sido dela excluídos os benefícios de proteção à
+maternidade e os provenientes de acidente de trabalho.
+( ) Certo
+( ) Errado
+
+
+52. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+A seguridade social pode garantir mais, ou menos, acesso a direitos, quanto mais
+se desvencilhar da lógica do seguro e quanto mais assumir a lógica social.
+( ) Certo
+( ) Errado
+
+
+53. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+A seguridade social brasileira terminou por conjugar direitos derivados do
+trabalho, com direitos de caráter universal e direitos seletivos.
+( ) Certo
+( ) Errado
+
+
+54. (ESAF - Analista Técnico de Políticas Sociais – MPOG – 2012) (Adaptada).
+Com a Constituição Federal de 1988, as políticas de previdência, saúde e
+assistência social foram reorganizadas e reestruturadas com novos princípios e
+
+
+---
+
+diretrizes e passaram a compor o sistema de seguridade social brasileiro. Sobre
+essa temática, julgue o item a seguir:
+No Brasil implantou-se um padrão de seguridade social homogêneo, com forte
+tendência a lógica da assistência e da universalidade, inclusive na previdência
+social.
+( ) Certo
+( ) Errado
+
+
+55. (CESPE - Técnico do Seguro Social – 2008). Acerca da seguridade social no
+Brasil, de suas características, contribuições e atuação, julgue o item a seguir.
+A seguridade social brasileira, apesar de ser fortemente influenciada pelo
+modelo do Estado do bem-estar social, não abrange todas as políticas sociais do
+Estado brasileiro.
+( ) Certo
+( ) Errado
+
+
+56. (CESPE - Técnico do Seguro Social – INSS - 2008). Em relação ao Instituto
+Nacional do Seguro Social, a seu histórico e estrutura, julgue o item a seguir.
+A fusão da Secretaria da Receita Federal com a Secretaria da Receita
+Previdenciária centralizou em apenas um órgão a arrecadação da maioria dos
+tributos federais. Contudo, a fiscalização e a arrecadação das contribuições
+sociais destinadas aos chamados terceiros - SESC, SENAC, SESI, SENAI e outros
+- permanecem a cargo do INSS.
+( ) Certo
+( ) Errado
+
+
+---
+
+GABARITO GERAL
+
+   1 – Certo     2 – Errado    3 – Certo     4 – Certo
+
+   5 – Errado    6 – Certo     7 – Errado    8 – Certo
+
+   9 – Errado    10 – Certo    11 – D        12 – C
+
+   13 – Certo    14 – Certo    15 – Errado   16 – Correto
+
+   17 – Certo    18 – Errado   19 – Certo    20 – Certo
+
+   21 – Errado   22 – Certo    23 – Errado   24 – Errado
+
+   25 – Certo    26 – Certo    27 – Errado   28 – Errado
+
+   29 – Errado   30 – Certo    31 – Errado   32 – Errado
+
+   33 – Certo    34 – Errado   35 – Errado   36 – Certo
+
+   37 – Errado   38 – Certo    39 – Errado   40 – Certo
+
+   41 – Errado   42 – Certo    43 – Errado   44 – Errado
+
+   45 – Certo    46 – Errado   47 – Certo    48 – Errado
+
+   49 – Errado   50 – Errado   51 – Errado   52 – Certo
+
+   53 – Certo    54 – Errado   55 – Certo    56 – Errado
+
+
+---
+
+RESUMO DA AULA
+
+✓ MARCO INICIAL:
+
+
+      •   Lei Eloy Chaves
+              o Instituiu as Caixas de Aposentadorias e Pensões – CAP´s para a
+                 categoria dos Ferroviários.
+             o A Lei Eloy Chaves não foi a 1ª norma jurídica a tratar de assunto
+               previdenciário.
+             o A Lei Eloy Chaves é considerada como marco inicial da Previdência
+               Social no Brasil porque “estruturou” o sistema previdenciário através
+                das Caixas de Aposentadorias e Pensões – CAP´s.
+
+✓ CAIXAS DE APOSENTADORIAS E PENSÕES - CAP´s (1923)
+
+
+      •   As CAP´s foram instituídas, inicialmente, para a categoria dos FERROVIÁRIOS,
+          e tinham as seguintes características principais:
+              o Início em 1923.
+             o Eram organizadas POR EMPRESA;
+             o Tinham natureza PRIVADA.
+
+✓ INSTITUTOS DE APOSENTADORIA E PENSÃO - IAP´s (1933)
+
+
+             o Início em 1933;
+             o Unificação das CAP´s em IAP´s;
+             o IAP´s: Autarquias Federais subordinadas ao Ministério do Trabalho;
+             o Organizadas em torno de CATEGORIAS PROFISSIONAIS.
+
+                                                                             1
+                                                                             6
+
+
+---
+
+✓ UNIFORMIZAÇÃO E UNIFICAÇÃO - LEI ORGÂNICA DA PREVIDÊNCIA SOCIAL -
+  LOPS (1960)
+
+
+              o 1960: Publicada a Lei 3.807/60 – Lei Orgânica da Previdência Social;
+              o Unificou toda a legislação previdenciária;
+              o Preparação para a unificação final dos IAP´s;
+
+✓ INSTITUTO NACIONAL DE PREVIDÊNCIA SOCIAL - INPS (1967)
+
+
+              o INPS criado pelo Decreto-Lei nº 72/1966
+              o Início em 02/01/1967;
+                  Unificação dos IAP´s em uma única autarquia;
+
+✓ SISTEMA NACIONAL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL (Lei nº 6.439/77) -
+  SINPAS (1977)
+
+
+      •    Entidades Agregadas pelo SINPAS
+              o INPS: Conceder Benefícios;
+              o IAPAS: Arrecadar e Fiscalizar as Contribuições Previdenciárias;
+              o INAMPS: Assistência Médica Contributiva (hoje não-contributiva)
+              o   LBA: Legião Brasileira de Assistência;
+              o   FUNABEM: Fundação Nacional do Bem-Estar do Menor;
+              o   DATAPREV: Processamento de Dados (único que ainda existe);
+              o   CEME: Central de Medicamentos.
+
+✓ A PREVIDÊNCIA SOCIAL NAS CONSTITUIÇÕES
+
+
+  • 1891:
+          o foi a primeira Constituição a trazer a expressão “aposentadoria”, ao
+            instituir a aposentadoria para os funcionários públicos, em caso de
+            invalidez. Era um benefício de caráter não contributivo, sendo custeada
+            integralmente pelo Estado;
+
+
+---
+
+• 1934:
+    o foi a primeira Constituição a instituir, em texto constitucional, o custeio
+      tripartite, com contribuições da União, empregador e empregado, em
+      favor da velhice, invalidez, maternidade, acidentes de trabalho e
+      morte;
+
+
+• 1937:
+    o foi a primeira Constituição a utilizar a expressão “seguro social”;
+
+
+• 1946:
+    o foi a primeira Constituição a utilizar a expressão “Previdência Social”;
+
+
+• 1965:
+    o A Emenda Constitucional 11 acrescentou na CF/46 a necessidade de
+      preexistência de custeio em relação aos benefícios ou serviços, sendo
+      mantido tal princípio nos textos constitucionais seguintes;
+
+
+• 1967:
+    o Acrescentou a doença e o desemprego como riscos sociais a se
+      proteger pela Previdência Social. Foi a primeira a primeira Constituição
+      a prever o seguro-desemprego;
+
+• 1981:
+    o A Emenda Constitucional 18 alterou a CF/67, passando a conceder
+      aposentadoria privilegiada a professor e professora, com redução de
+      5 anos de serviço em relação aos demais trabalhadores, aos 30 anos se
+      professor e 25 anos se professora;
+
+
+---
+
+• 1988:
+    o aos 5 dias de outubro de 1988, foi promulgada a Constituição Federal
+      atual. Foi a primeira Constituição a utilizar a expressão “Seguridade
+      Social”, englobando saúde (de caráter universal); assistência social (de
+      caráter seletivo, uma vez que este direito é ofertado somente a quem
+      dele precisar); e previdência social (direitos derivados do trabalho). As
+      políticas de previdência, saúde e assistência social foram reorganizadas
+      e reestruturadas com novos princípios e diretrizes e passaram a
+      compor o sistema de seguridade social brasileiro.
+
+
+• 1998:
+    o A Emenda Constitucional 20, de 15/12/1998, estabeleceu mudanças
+      importantes da Previdência Social, dentre as quais podemos destacar:
+          ▪ Salário-família e auxílio-reclusão apenas para segurados de baixa
+            renda;
+          ▪ Novas regras foram estabelecidas para a aposentadoria dos
+            servidores públicos;
+          ▪ A redução no tempo de contribuição em 5 anos para
+            aposentadoria por tempo de contribuição para professores(as)
+            passou a ser limitado a professores do ensino infantil,
+            fundamental e médio;
+          ▪ Possibilidade de cobertura do risco de acidente do trabalho de
+            forma concorrente entre RGPS e setor privado, mediante
+            regulamentação em lei ordinária;
+          ▪ Extinção da aposentadoria proporcional a partir da publicação
+            da emenda, respeitando-se uma regra de transição com
+            pedágio.
+
+
+---
+
+  • 2003:
+       o A Emenda Constitucional 41, de 19/12/2003, estabeleceu mudanças
+         importantes nas regras dos Regimes Próprios de Previdência Social –
+         RPPS, destinados aos servidores públicos ocupantes de cargos
+         efetivos, dentre as quais podemos destacar:
+             ▪ Incidência de contribuição sobre os proventos das
+               aposentadorias e pensões do RPPS, quando superem o limite
+               máximo (teto) dos benefícios do RGPS, sujeitando aos mesmos
+               percentuais dos servidores titulares de cargos efetivos;
+             ▪ Alterou forma de cálculo da pensão por morte no RPPS;
+             ▪ Excluiu a paridade entre servidores ativos e inativos;
+             ▪ Fim da integralidade dos proventos de aposentadoria para os
+               novos servidores ocupantes de cargo efetivo, em exercício a
+               partir da vigência da EC 41/2003.
+
+
+  • 2005:
+       o A Emenda Constitucional 47, de 05/07/2005, modificou, entre outras
+         coisas:
+            ▪ as regras de transição trazidas pela EC 41/2003;
+            ▪ Em relação ao RGPS, a EC 47/2005 autorizou a lei a criar um
+               sistema de inclusão previdenciária para atender trabalhadores
+               de baixa renda ou sem renda própria, reduzindo base de cálculo
+               e alíquota de alguns segurados e garantindo-lhes acesso a
+               benefícios no valor de um salário mínimo.
+
+✓ INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS (1990)
+
+
+            o Criado pela Lei nº 8.029, de 12/04/1990;
+            o Extinguiu o SINPAS;
+            o Fusão do INPS com IAPAS.
+            o Passou a Arrecadar, Fiscalizar e Conceder Benefício no mesmo Órgão
+
+
+---
+
+✓ CRIAÇÃO DA SECRETARIA DA RECEITA PREVIDENCIÁRIA – SRP (2005)
+
+
+            o Criado pela Lei nº 11.098, de 13/01/2005;
+            o  Atribuiu ao Ministério da Previdência Social competências relativas a
+              arrecadação, fiscalização, lançamento e normatização das receitas
+              previdenciárias (custeio);
+            o Autorizou a criação da SRP no âmbito do Minist. da Previdência Social.
+            o   INSS passa a ser responsável pelos Benefícios.
+            o   SRP não era uma autarquia (como o INSS).
+
+✓ CRIAÇÃO DA RECEITA FEDERAL DO BRASIL - RFB (2007)
+
+
+      •   FUSÃO DA SECRETARIA DA RECEITA                PREVIDENCIÁRIA    COM     A
+          SECRETARIA DA RECEITA FEDERAL:
+
+
+            o Lei 11.457, de 16/03/2007.
+            o Extinguiu a Secretaria da Receita Previdenciária e criou a RFB
+            o Todas as contribuições, inclusive as previdenciárias, passaram a ser
+              arrecadadas pela Receita Federal do Brasil – RFB.
+
+
+---

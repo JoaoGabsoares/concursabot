@@ -1,0 +1,2414 @@
+                                                    Aula 14
+                          Receita Federal (Analista Tributário)
+                                         Direito Constitucional
+
+
+
+
+                                                         Autor:
+                                 Equipe Direito Constitucional
+                                        Estratégia Concursos
+
+
+                                           05 de Outubro de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Direito Constitucional Estratégia Concursos
+      Aula 14
+
+
+
+
+                                                                                     Índice
+1) Ministério Público (art. 127 - art. 130, CF/88)
+..............................................................................................................................................................................................3
+
+2) Conselho Nacional do Ministério Público (art. 130-A, CF/88)
+..............................................................................................................................................................................................
+                                                                                                                                                                                            22
+
+3) Questões Comentadas - Ministério Público - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            26
+
+4) Lista de Questões - Ministério Público - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            40
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional                                                                                                              2
+                www.estrategiaconcursos.com.br                                                                                                                                           48
+
+                                                             https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 14
+
+
+
+
+                                FUNÇÕES ESSENCIAIS À JUSTIÇA
+Ministério Público
+Conceito e Natureza Jurídica
+Segundo o art. 127, CF/88, “o Ministério Público é instituição permanente, essencial à função
+jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e
+dos interesses sociais e individuais indisponíveis”.
+Para melhor fixar o seu conceito, interessa saber que a palavra “ministério” deriva do latim
+“manus”, que significa mão. Desde seus primórdios, o Ministério Público era considerado “a mão
+do rei”, sendo exercido por procuradores que defendiam os interesses do monarca. A partir do
+século XVIII, passou a ser conhecido, também, como Parquet, palavra em francês que significa
+“assoalho”. A explicação é que seus representantes se sentavam no assoalho da sala de
+audiência, para não serem confundidos com os magistrados.
+Segundo a doutrina dominante, o Ministério Público não integra a estrutura de nenhum dos três
+Poderes.1 Trata-se de instituição autônoma e independente, que não está subordinada a nenhum
+dos poderes estatais. A própria Constituição Federal de 1988, ao tratar do Ministério Público, o
+faz em capítulo separado do Poder Executivo, Legislativo e Judiciário.
+Não é sem polêmica, todavia, que a doutrina posiciona o Ministério Público como entidade não
+integrante dos três Poderes. Para o Prof. José Afonso da Silva, por exemplo, o Ministério Público
+é uma instituição vinculada ao Poder Executivo.2 Há, ainda, quem defenda a tese de que o
+Ministério Público seria um “quarto poder”. Para fins de concurso público, a posição mais segura
+é a de que se trata de instituição autônoma e independente, que não está vinculada a nenhum
+poder.
+O Ministério Público teve sua competência significativamente ampliada pela Constituição Federal
+de 1988. Segundo Gilmar Mendes, essa instituição teve seus poderes alargados, voltando-se
+para a “defesa dos interesses mais elevados da convivência social e política, não apenas perante
+o Judiciário, mas também na ordem administrativa”.3
+A doutrina considera que o Ministério Público, por ser guardião do regime democrático, é uma
+cláusula pétrea implícita do texto constitucional, não podendo ser abolido por emenda
+constitucional.
+
+Organização e Estrutura do Ministério Público
+O Ministério Público abrange o Ministério Público da União (MPU) e os Ministérios Públicos dos
+Estados - MPE (art. 128, I e II, CF).
+O Ministério Público da União (MPU) abrange:
+
+1
+   Nesse sentido: MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª
+edição. São Paulo Editora Atlas: 2010
+2
+  SILVA, José Afonso da. Curso de Direito Constitucional Positivo, 35ª edição, Ed. Malheiros, São Paulo, 2012,
+pp. 598.
+3
+  MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet, COELHO, Inocência Mártires. Curso de Direito
+Constitucional, 5ª edição. São Paulo: Saraiva, 2010, pp. 1041.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                                      3
+          www.estrategiaconcursos.com.br                                                                   48
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+          a) O Ministério Público Federal (MPF);
+          b) O Ministério Público do Trabalho (MPT);
+          c) O Ministério Público Militar (MPM);
+          d) O Ministério Público do Distrito Federal e Territórios (MPDFT).
+Existe, ainda, o Ministério Público Eleitoral (MP Eleitoral), que não tem estrutura própria, sendo
+composto de membros do MPE e do MPF.
+
+
+
+
+           O Ministério Público do Distrito Federal e Territórios (MPDFT), ao contrário do
+           que muitos podem ser levados a pensar, integra o Ministério Público da União
+           (MPU). Não se trata, portanto, de um Ministério Público Estadual. Assinale-se que
+           compete exclusivamente à União organizar e manter o Ministério Público do DF e
+           Territórios (art. 21, XIII, CF/88).
+
+
+
+
+A organização do Ministério Público da União (MPU) e do Ministério Público dos Estados (MPE) é
+efetuada com base em leis complementares (art. 128, § 5º, CF/88). No primeiro caso
+(organização do MPU), uma lei complementar federal versa sobre o tema; no segundo caso
+(organização dos MPEs), cada estado edita lei complementar para organizar seu próprio
+Ministério Público.
+A lei de organização do Ministério Público da União é da iniciativa concorrente do Presidente da
+República e do Procurador-Geral da República. Já as leis de organização dos Ministérios Públicos
+Estaduais são de iniciativa do respectivo Procurador-Geral de Justiça.
+Nesse sentido, o STF já julgou inconstitucionais dispositivos legais que tratavam de atribuições
+do Ministério Público de iniciativa do Poder Legislativo.4 Também foi julgada inconstitucional
+emenda à Constituição estadual que cuidava tanto de normas gerais para a organização do
+
+4
+    ADI 5351/DF, Rel. Min. Cármen Lúcia, julgamento virtual finalizado em 18.06.2021.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                         4
+           www.estrategiaconcursos.com.br                                                      48
+
+                                         https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 14
+
+
+
+Ministério Público dos Estados quanto de atribuições dos órgãos e membros do parquet
+estadual.5 No mesmo sentido, a atribuição de iniciativa privativa ao Governador do Estado para
+leis que disponham sobre a organização do Ministério Público Estadual é considerada
+inconstitucional pelo STF.6
+
+
+
+
+          É inconstitucional lei estadual que prevê movimentação funcional entre membros
+          do Ministério Público, mediante procedimentos e critérios diversos dos
+          estabelecidos pelo modelo federal [ADI 6328/GO, relator Min. Alexandre de
+          Moraes, julgamento virtual finalizado em 15.8.2022].
+
+Há, ainda, a previsão constitucional de uma lei federal sobre normas gerais de organização do
+Ministério Público dos Estados, Distrito Federal e Territórios. Para isso, não há a exigência de lei
+complementar, bastando lei ordinária para tratar do tema.
+Em resumo, temos:
+         a) Organização do MPU: matéria de lei complementar federal
+         b) Organização dos MPEs: matéria de lei complementar estadual.
+         c) Normas gerais de organização dos MPEs e MPDFT: lei ordinária federal.
+
+
+
+
+          Em virtude de sua autonomia administrativa, o Ministério Público dispõe de
+          competência própria para estruturar administrativamente e designar membros
+          para atuarem como dirigentes de grupos especialmente criados para combater a
+          criminalidade organizada (GAECO). A jurisprudência firmada pelo STF reconhece
+          ao Ministério Público poder concorrente para realizar investigações, desde que
+          respeitados os direitos e garantias que assistem a qualquer pessoa sob
+          investigação do Estado. Precedentes. No julgamento conjunto das ADIs 2.943,
+          3.309 e 3.318 (DJe 06.05.2024), o Plenário fixou os parâmetros para instauração e
+
+5
+   ADI 5281/RO e ADI 5324/RO, Rel. Min. Cármen Lúcia, julgamento virtual finalizado em 11.05.2021
+(terça-feira), às 23:59
+6
+  ADI 400/ES, Rel. Min. Nunes Marques, Red. Ac. Min. Roberto Barroso, julgamento virtual finalizado em
+20.06.2022.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                              5
+          www.estrategiaconcursos.com.br                                                           48
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+           tramitação de procedimento investigatório criminal no âmbito do Ministério
+           Público [ADI 7.715, Rel. Min. Edson Fachin, j. 16/12/2024, p. 18/02/2025].
+
+Por fim, enfatizamos que não há hierarquia entre o Ministério Público da União (MPU) e os
+Ministérios Públicos Estaduais (MPEs). O Procurador-Geral da República (PGR) exerce a chefia do
+Ministério Público da União, mas não a dos Ministérios Públicos Estaduais (MPEs).
+Apesar disso, segundo o STF, eventual conflito de atribuições entre um membro do Ministério
+Público Estadual (MPE) e um membro do Ministério Público Federal (MPF) será resolvido pelo
+Conselho Nacional do Ministério Público.7 Pode-se afirmar, por analogia, que o conflito de
+atribuições entre membros de diferentes Ministérios Públicos Estaduais também será solucionado
+pelo Conselho Nacional do Ministério Público.
+Segundo o STF, "a solução de conflitos de atribuições entre ramos diversos dos Ministérios
+Públicos pelo CNMP, nos termos do artigo 130-A, § 2º, e incisos I e II, da Constituição Federal e
+no exercício do controle da atuação administrativa do Parquet, é a mais adequada, pois reforça o
+                                                            ==219a34==
+
+
+
+
+mandamento constitucional que lhe atribuiu o controle da legalidade das ações administrativas
+dos membros e órgãos dos diversos ramos ministeriais, sem ingressar ou ferir a independência
+funcional".
+
+
+
+
+           1) Conflito de atribuições entre membros do Ministério Público do mesmo
+           estado: é solucionado pelo Procurador-Geral de Justiça (PGJ) daquele estado
+           (art. 10, X, da Lei nº 8.625/93)
+           2) Conflito de atribuições entre membros de ramos distintos do Ministério
+           Público da União (MPU): como exemplo, imagine um conflito de atribuições entre
+           um Procurador do Trabalho (membro do MPT) e um Procurador da República
+           (membro do MPF). Esse conflito é solucionado pelo Procurador-Geral da
+           República (art. 26, VII, da Lei Complementar nº 75/93).
+           3) Conflito de atribuições entre dois membros do Ministério Público Federal
+           (MPF): é solucionado pelas Câmaras de Coordenação e Revisão, que são órgãos
+           do MPF responsáveis pela coordenação, integração e revisão do exercício
+           funcional na instituição. Da decisão da Câmara de Coordenação e Revisão que
+           soluciona o conflito de atribuições, é cabível recurso para o Procurador-Geral da
+           República (PGR).
+           4) Conflito de atribuições entre um membro do Ministério Público Estadual
+           (MPE) e um membro do Ministério Público Federal (MPF), ou entre membros de
+           Ministérios Públicos Estaduais diferentes: nas petições nº 5.235 e 5.577, o STF
+
+
+7
+    Pet. 5235 AgR, Rel. Min. Alexandre de Moraes, julgado em 21.12.2020.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                        6
+           www.estrategiaconcursos.com.br                                                      48
+
+                                         https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 14
+
+
+
+          decidiu que ele será solucionado pelo CNMP (Conselho Nacional do Ministério
+          Público).
+
+Princípios Institucionais do Ministério Público
+De acordo com o art. 127, § 1º, da Constituição, são princípios institucionais do Ministério
+Público a unidade, a indivisibilidade e a independência funcional.
+
+
+
+
+a) O princípio da unidade impõe que o Ministério Público deve ser considerado um único órgão
+(uma única instituição), sob a direção de uma única pessoa (um único Procurador-Geral). O
+Ministério Público é uno, composto por um só corpo institucional, que visa promover o interesse
+público e o bem comum.8
+É claro que, para atender ao princípio federativo, o Ministério Público está organicamente
+dividido. Há o Ministério Público da União (MPU) e os Ministérios Públicos Estaduais (MPEs), cada
+um deles com seu chefe. Essa divisão existe em razão da repartição constitucional de
+competências entre os entes federativos e não impede que consideremos a existência de um MP
+nacional.
+Em razão dessa divisão orgânica, a doutrina considera que a unidade somente se aplica dentro
+de cada um dos Ministérios Públicos. Enfatizando: não existe unidade entre o Ministério Público
+da União e os Estaduais; a unidade dá-se no âmbito de cada Ministério Público.
+b) O princípio da indivisibilidade permite que os integrantes do Ministério Público possam ser
+substituídos uns pelos outros ao longo do processo, desde que sejam da mesma carreira. Por
+esse princípio, os membros do Ministério Público não estão vinculados a um processo e,
+justamente por isso, podem ser substituídos.
+É importante salientar que o princípio da indivisibilidade está intimamente relacionado ao
+princípio da unidade, sendo verdadeiro corolário (consequência) desse. Explico: pelo princípio da
+unidade, a atuação de um membro do Ministério Público representa a atuação da própria
+
+
+8
+  CANOTILHO, J.J. Gomes; MENDES, Gilmar Ferreira; SARLET, Ingo Wolfgang; STRECK, Lenio Luiz.
+Comentários à Constituição do Brasil. Ed. Saraiva, São Paulo: 2013, pp. 1521.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                         7
+          www.estrategiaconcursos.com.br                                                      48
+
+                                        https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 14
+
+
+
+instituição do Ministério Público. Como decorrência lógica disso, não há qualquer consequência
+para o processo quando um membro do MP é substituído por outro.
+c) O princípio da independência funcional manifesta-se em duas acepções: independência
+externa ou orgânica (referindo-se ao Ministério Público como um todo) e independência interna
+(referindo-se a cada membro individualmente).
+Na primeira acepção, o Ministério Público deve ser compreendido como uma instituição que não
+está sujeita a qualquer interferência de outro órgão ou Poder da República. O Ministério Público
+deve buscar a satisfação do interesse social e do bem comum (e não o cumprimento de ordens
+desse ou daquele Poder!).
+Na segunda acepção, fica claro que os membros do Ministério Público se vinculam apenas ao
+ordenamento jurídico e à sua convicção. Os membros do Ministério Público não estão
+subordinados a qualquer hierarquia funcional. A hierarquia que existe dentro do Ministério
+Público é meramente administrativa. Nem mesmo o Procurador-Geral da República poderá
+ordenar a um membro do Ministério Público Federal que atue num ou noutro sentido. Cada
+membro do Ministério Público é livre para agir, dentro dos limites da lei, segundo a sua própria
+consciência.
+A independência funcional limita o princípio da indivisibilidade. Explico: a independência
+funcional impõe a necessidade de que existam regras preestabelecidas para a substituição de
+membros do Ministério Público no curso de um processo. Isso busca evitar que algum membro
+do Ministério Público seja arbitrariamente afastado do processo por estar atuando em
+determinado sentido.
+
+Princípio do “promotor natural”
+O princípio do promotor natural está implícito em nosso ordenamento jurídico, tendo sido
+concebido pela doutrina e pela jurisprudência. Sua concepção deriva do conhecido princípio do
+juiz natural, segundo o qual “ninguém será processado nem sentenciado senão pela autoridade
+competente” (art. 5º, LIII, CF/88).
+Pelo princípio do promotor natural, a designação de um membro do Ministério Público para
+atuar em determinado processo deve obedecer a regras objetivas, segundo critérios
+preestabelecidos. Com isso, busca-se evitar designações casuísticas e arbitrárias, impedindo-se,
+dessa maneira, a figura do “acusador de exceção”.
+A jurisprudência do STF já está firmada no sentido de reconhecer a existência do princípio do
+promotor natural. Segundo a Corte, “o postulado do promotor natural consagra uma garantia de
+ordem jurídica, destinada tanto a proteger o membro do Ministério Público, na medida em que
+lhe assegura o exercício pleno e independente do seu ofício, quanto a tutelar a própria
+coletividade, a quem se reconhece o direito de ver atuando, em quaisquer causas, apenas o
+Promotor cuja intervenção se justifique a partir de critérios abstratos e predeterminados,
+estabelecidos em lei”. 9
+O posicionamento do STF nem sempre foi nesse sentido. Entre os anos de 2008 e 2011, a Corte
+não reconhecia que o princípio do promotor natural estava implícito no nosso ordenamento
+jurídico, uma vez que violaria o princípio da indivisibilidade (princípio que admite a substituição
+de um membro do MP no decorrer do processo). Atualmente, o entendimento do STF é o de que
+
+9
+    HC 103.038/PA. Segunda Turma. Rel. Min. Joaquim Barbosa. Julgamento em 11.10.2011.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                           8
+          www.estrategiaconcursos.com.br                                                        48
+
+                                        https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+o princípio do promotor natural está, sim, implícito no ordenamento jurídico e não viola o
+princípio da indivisibilidade. O membro do Ministério Público pode ser substituído no decorrer
+do processo, mas tal substituição não poderá ser arbitrária.
+As bases sobre as quais se assenta o princípio do promotor natural são a independência funcional
+e a garantia de inamovibilidade dos membros do Ministério Público. Nesse sentido, o STF já
+reconheceu que “a matriz constitucional desse princípio assenta-se nas cláusulas da
+independência funcional e da inamovibilidade dos membros da instituição”.10
+Autonomia funcional, administrativa e orçamentário-financeira
+A Constituição Federal de 1988 reconhece autonomia funcional, administrativa e
+orçamentário-financeira ao Ministério Público. São garantias institucionais do Ministério Público,
+destinadas a permitir que esse órgão possa atuar com independência e sem interferência de
+nenhum outro Poder. Juntas, essas garantias institucionais asseguram o autogoverno do
+Ministério Público.11
+A autonomia administrativa do Ministério Público materializa-se na sua competência para propor
+ao Poder Legislativo a criação e a extinção de seus cargos e serviços auxiliares, provendo-os por
+concurso público de provas ou de provas e títulos, a política remuneratória e os planos de
+carreira. Assim, o Ministério Público tem iniciativa privativa para propor projetos de leis sobre
+essas matérias. Nesse sentido, o STF entende que “o Ministério Público pode deflagrar o
+processo legislativo de lei concernente à política remuneratória e aos planos de carreira de seus
+membros e servidores”.
+Ainda no campo da autonomia administrativa, o Procurador-Geral da República e os
+Procuradores-Gerais de Justiça têm iniciativa para propor projeto de lei complementar que
+estabeleça a organização, as atribuições e o estatuto de cada Ministério Público.
+A autonomia orçamentário-financeira, por sua vez, manifesta-se pela prerrogativa de que o
+Ministério Público elabore a sua proposta orçamentária, encaminhando-a ao Poder Executivo.
+Cabe destacar que a proposta orçamentária do Ministério Público deverá ser elaborada em
+conformidade com os limites definidos pela lei de diretrizes orçamentárias (LDO).
+Indo ao encontro desse entendimento, o STF decidiu ser constitucional dispositivo de lei estadual
+que prevê a autonomia financeira do Ministério Público. Decorre da própria sistemática
+constitucional a possibilidade de o Ministério Público gerir-se sob o ângulo financeiro, inclusive
+apresentando proposta orçamentária, como corolário da independência funcional assegurada no
+artigo 127, § 1º, da Constituição Federal. O tratamento é simétrico àquele conferido ao Poder
+Judiciário, sem qualquer distinção, no artigo 99, § 1º, da CF.12
+E se o Ministério Público não encaminhar ao Poder Executivo a proposta orçamentária dentro do
+prazo definido pela LDO?
+
+
+
+
+10
+ HC 67.759, Rel. Min. Celso de Mello. Julgamento em 06.08.1992.
+11
+  CANOTILHO, J.J. Gomes; MENDES, Gilmar Ferreira; SARLET, Ingo Wolfgang; STRECK, Lenio Luiz.
+Comentários à Constituição do Brasil. Ed. Saraiva, São Paulo: 2013, pp. 1522-1523.
+12
+  ADI 2381/RJ, Rel. Min. Marco Aurélio, Red. p/ Ac. Min. Alexandre de Moraes, julgamento virtual finalizado
+em 30.04.2021 (sexta-feira), às 23:59.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                  9
+           www.estrategiaconcursos.com.br                                                               48
+
+                                         https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+Nesse caso, devido à inércia do Ministério Público, o Poder Executivo deverá considerar, para
+fins de consolidação da proposta orçamentária anual, os valores aprovados na lei orçamentária
+vigente, ajustados de acordo com os limites estipulados na LDO.
+Outra pergunta: e se o Ministério Público encaminhar a proposta orçamentária em desacordo
+com os limites estipulados pela LDO?
+Se isso acontecer, o Poder Executivo deverá “cortar” despesas da proposta orçamentária do
+Ministério Público para adequá-la à LDO. Em outras palavras, o Poder Executivo procederá aos
+ajustes necessários para fins de consolidação da proposta orçamentária anual.
+Por fim, durante a execução orçamentária do exercício, não poderá haver a realização de
+despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de
+diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos
+suplementares ou especiais.
+
+Funções Institucionais do Ministério Público
+Segundo a doutrina, o Ministério Público assume o importante papel de custos societatis
+(“guardião da sociedade”) e de custos legis (“guardião da lei”). Para desempenhar essa
+importante missão, a Constituição atribui ao Ministério Público uma série de funções.
+As funções institucionais do Ministério Público estão relacionadas no art. 129, CF/88. Trata-se de
+rol não exaustivo, uma vez que o art. 129, IX, dispõe que podem ser atribuídas outras funções ao
+Ministério Público, desde que sejam compatíveis com sua finalidade institucional.
+Segundo Dirley da Cunha Jr., a Constituição consagra o monopólio institucional das funções do
+Ministério Público13 ao dispor, no art. 129, § 2º, que “as funções do Ministério Público só podem
+ser exercidas por integrantes da carreira”. Os membros do Ministério Público deverão residir na
+comarca da respectiva lotação, salvo autorização do chefe da instituição.
+Vejamos, a seguir, as funções institucionais do Ministério Público:
+
+           Art. 129. São funções institucionais do Ministério Público:
+           I - promover, privativamente, a ação penal pública, na forma da lei;
+           II - zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância
+           pública aos direitos assegurados nesta Constituição, promovendo as medidas
+           necessárias a sua garantia;
+           III - promover o inquérito civil e a ação civil pública, para a proteção do
+           patrimônio público e social, do meio ambiente e de outros interesses difusos e
+           coletivos;
+           IV - promover a ação de inconstitucionalidade ou representação para fins de
+           intervenção da União e dos Estados, nos casos previstos nesta Constituição;
+           V - defender judicialmente os direitos e interesses das populações indígenas;
+           VI - expedir notificações nos procedimentos administrativos de sua competência,
+           requisitando informações e documentos para instruí-los, na forma da lei
+           complementar respectiva;
+13
+     CUNHA JÚNIOR, Dirley da. Curso de Direito Constitucional. 6ª edição. Ed. Juspodivm, 2012, pp. 1187.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                                    10
+           www.estrategiaconcursos.com.br                                                                  48
+
+                                         https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+           VII - exercer o controle externo da atividade policial, na forma da lei
+           complementar mencionada no artigo anterior;
+           VIII - requisitar diligências investigatórias e a instauração de inquérito policial,
+           indicados os fundamentos jurídicos de suas manifestações processuais;
+           IX - exercer outras funções que lhe forem conferidas, desde que compatíveis com
+           sua finalidade, sendo-lhe vedada a representação judicial e a consultoria jurídica
+           de entidades públicas.
+
+O Ministério Público é responsável por promover, privativamente, a ação penal pública (art. 129,
+I). Todavia, existe também a ação penal privada subsidiária da pública, que poderá ser ajuizada
+quando a ação penal pública não tiver sido intentada dentro do prazo legal.
+O Ministério Público também tem como função promover o inquérito civil e a ação civil pública
+(art. 129, III), cujo objetivo é a proteção do patrimônio público e social, do meio ambiente e de
+outros interesses difusos e coletivos. O inquérito civil é conduzido pelo Ministério Público com
+vistas a obter elementos que subsidiem a ação civil pública. Destaque-se que a ação civil pública
+não é exclusiva do Ministério Público, podendo ser apresentada por diversos outros legitimados.
+Segundo o STF, a Defensoria Pública possui competência para ajuizar ação civil pública para a
+tutela de interesses transindividuais (direitos difusos e coletivos) e individuais homogêneos. Ao
+propor ação civil pública, a Defensoria Pública deve buscar a tutela dos interesses dos
+economicamente necessitados, ou seja, deve haver pertinência temática entre o objeto da ação e
+as funções institucionais da Defensoria Pública.14
+Muito se questiona se o poder de investigação criminal é ou não exclusivo da polícia. Segundo a
+teoria dos poderes implícitos, quando a Constituição outorga competência explícita a
+determinado órgão estatal, implicitamente atribui, a esse mesmo órgão, os meios necessários
+para a efetiva e completa realização de suas funções.
+Com base nessa teoria, o STF, ao analisar a temática dos poderes investigatórios do Ministério
+Público, entendeu que a denúncia poderia ser fundamentada em peças de informação obtidas
+pelo próprio Parquet, não havendo necessidade de prévio inquérito policial.
+Nas palavras da Ministra Ellen Gracie:
+
+           “é princípio basilar da hermenêutica constitucional o dos poderes implícitos,
+           segundo o qual, quando a Constituição Federal concede os fins, dá os meios. Se
+           a atividade-fim – promoção da ação penal pública – foi outorgada ao Parquet em
+           foro de privatividade, não haveria como não lhe oportunizar a colheita de prova
+           para tanto, já que o CPP autoriza que peças de informação embasem a denúncia.
+           Assim, reconheço a possibilidade de, em algumas hipóteses, ser reconhecida a
+           legitimidade da promoção de atos de investigação por parte do Ministério
+           Público, mormente quando se verifique algum motivo que se revele autorizador
+           de tal investigação”.15
+
+Essa competência do Ministério Público é plenamente aceita pela doutrina e pode ser ilustrada
+pelo art. 129, VI, segundo o qual o Ministério Público pode “expedir notificações nos
+
+14
+     ADI 3943, Rel. Min. Carmen Lúcia. 07.05.2015.
+15
+     RE 535.478, Rel. Min. Ellen Gracie, j. 28.10.2008, DJE de 21.11.2008.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           11
+           www.estrategiaconcursos.com.br                                                         48
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+procedimentos administrativos de sua competência, requisitando informações e documentos
+para instruí-los, na forma da lei complementar respectiva”.
+Caso não queira conduzir a investigação criminal, o Ministério Público pode requisitar diligências
+investigatórias e a instauração de inquérito policial (art. 129, VIII). O inquérito policial é
+procedimento administrativo conduzido por Delegado de Polícia com vistas a subsidiar uma ação
+penal. Assim, o Ministério Público pode requisitar que a Polícia Civil instaure um inquérito
+policial.
+O Ministério Público, no desempenho da sua função de custos societatis, é responsável pelo
+controle externo da atividade policial. O art. 129, VII, que confere tal competência ao Ministério
+Público, é norma constitucional de eficácia limitada, dependente de regulamentação por lei
+complementar. O controle externo da atividade policial consiste na fiscalização da Polícia pelo
+Ministério Público. É denominado “externo” porque o Ministério Público não integra a estrutura
+da Polícia.
+Por fim, há que se destacar que o Ministério Público tem competência para defender
+judicialmente os direitos e interesses das populações indígenas (art. 129, V).
+
+Ingresso na carreira
+Determina a Carta Magna (art. 129, § 3º) que o ingresso na carreira do Ministério Público se fará
+mediante concurso público de provas e títulos, assegurada a participação da Ordem dos
+Advogados do Brasil (OAB) em sua realização, exigindo-se do bacharel em Direito, no mínimo,
+três anos de atividade jurídica, observando-se, nas nomeações, a ordem de classificação.
+
+
+
+
+Com base no art. 129, § 3º, da Constituição, o STF considerou constitucional resolução que
+determina que a inscrição do concurso público para a carreira do Ministério Público só pode ser
+feita por bacharel em Direito com, no mínimo, três anos de atividade jurídica, cuja comprovação
+se dá no momento da inscrição definitiva no concurso. O Pretório Excelso entendeu que essa
+exigência atendeu ao objetivo da EC no 45/2004, que pretendeu selecionar profissionais
+experientes para o exercício das funções do Ministério Público (ADI, 3.460/DF, decisão de
+31.08.2006).
+Outro ponto que merece um destaque é o seguinte: os 3 anos de atividade jurídica somente
+podem ser contados após a obtenção do título de bacharel em Direito.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                           12
+        www.estrategiaconcursos.com.br                                                         48
+
+                                      https://t.me/KakashiAssinaturasBot
+Equipe Direito Constitucional Estratégia Concursos
+Aula 14
+
+
+
+
+      Há algumas jurisprudências do STF relevantes em torno da carreira dos membros
+      do Ministério Público. Vejamos algumas delas:
+      1) Critérios de desempate na promoção e remoção de membro do Ministério
+      Público Estadual. Inobservância dos critérios estabelecidos na Lei Orgânica do
+      Ministério Público. Impossibilidade de reconhecimento do número de filhos ou
+      do tempo de serviço público no Estado. Inconstitucionalidade formal:
+      contrariedade à alínea “d” do inciso II do § 1º do art. 61, ao § 4º do art. 129 e ao
+      art. 93 da Constrituição da República. Inconstitucionalidade material: ofensa ao
+      princípio da isonomia (ADI 7283, Rel. Min. Cármen Lúcia, j. 03.05.2023, p.
+      10.05.2023).
+      2) É formalmente inconstitucional lei ordinária estadual, aprovada na vigência da
+      atual ordem constitucional, que organiza e disciplina as atribuições e regulamenta
+      o Estatuto dos respectivos membros do Ministério Público. Há vício de
+      inconstitucionalidade porque o art. 128, § 5º da CF/88 exige lei complementar
+      neste caso (ADI 3.194/RS, Rel. Min. Nunes Marques, j. 10/11/2023, p.
+      11.12.2023).
+      3) É materialmente inconstitucional norma estadual que permite a integração de
+      membro do Ministério Público em comissão de sindicância ou processo
+      administrativo estranho ao órgão ministerial mediante autorização do
+      Procurador-Geral de Justiça, ouvido o Conselho Superior do órgão ministerial.
+      Trata-se de condição incompatível com o disposto no art. 128, § 5º, II, “d”, da
+      CF/88 c/c o art. 29, § 3º do ADCT (ADI 3.194/RS, Rel. Min. Nunes Marques, j.
+      10/11/2023, p. 11.12.2023).
+      4) É inconstitucional — por violar o regime constitucional de subsídio (art. 39, §
+      4º, CF/88) e os princípios republicano e da moralidade — norma de Resolução
+      do Conselho Nacional do Ministério Público (CNMP) que autoriza o pagamento
+      de subsídio aos membros do “Parquet” acumulado com:
+      i) a incorporação de vantagens pessoais decorrentes do exercício anterior de
+      função de direção, chefia ou assessoramento; e
+      ii) o acréscimo de 20% da remuneração do cargo efetivo aos proventos de
+      aposentadoria que se dê no último nível da carreira.
+      (ADI 3834, Rel. Min. Luís Roberto Barroso, j. 21.11.2023, p. 06.02.2024)
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional                           13
+      www.estrategiaconcursos.com.br                                                         48
+
+                                    https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+
+Garantias funcionais
+Além das garantias institucionais do Ministério Público (autonomia funcional, administrativa e
+orçamentário-financeira), existem garantias próprias dos seus membros, as quais denominamos
+garantias funcionais. As garantias funcionais não podem ser consideradas privilégios, mas sim
+prerrogativas que possuem os membros do Ministério Público para lhes preservar a liberdade de
+convicção, com o objetivo de resguardar a autonomia da instituição.
+Segundo Alexandre de Moraes, esse é um objetivo tão importante que o art. 85, II, da CF/88
+considera crime de responsabilidade do Presidente da República a prática de atos atentatórios
+ao livre exercício do Ministério Público.16
+São três as garantias funcionais dos membros do Ministério Público: i) vitaliciedade; ii)
+inamovibilidade; e iii) irredutibilidade de subsídio.
+A vitaliciedade garante que o membro do Parquet não poderá perder o cargo senão por
+sentença judicial transitada em julgado. É adquirida após 2 (dois) anos de exercício, uma vez
+concluído o estágio probatório.
+A inamovibilidade é garantia que impede que o membro do Ministério Público seja removido de
+ofício, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente
+do Ministério Público, pelo voto da maioria absoluta de seus membros, assegurada ampla defesa.
+Assim, a remoção de um membro do Ministério Público deverá ocorrer, em regra, por sua própria
+iniciativa.
+Segundo o art. 130-A, § 2º, III, o Conselho Nacional do Ministério Público (CNMP) tem
+competência para determinar a remoção de membro do Ministério Público. Nesse caso, trata-se
+de verdadeira sanção administrativa aplicada pelo CNMP, que não viola a garantia de
+inamovibilidade.
+A irredutibilidade de subsídio, por sua vez, visa proteger os ganhos dos membros do Ministério
+Público contra ingerências políticas. Destaque-se que essa irredutibilidade é nominal (e não real),
+ou seja, não leva em consideração a inflação.
+
+
+
+
+Vedações aos membros do Ministério Público
+A Constituição Federal, além de estabelecer as garantias do Ministério Público, também prevê
+certas vedações aos seus membros, com o objetivo de preservar a própria instituição. A doutrina
+considera que essas vedações são verdadeiras garantias de imparcialidade.
+Segundo o art. 128, § 5º, III, as vedações aos membros do Ministério Público são as seguintes:
+16
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São
+Paulo Editora Atlas: 2010, pp. 1623.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                             14
+           www.estrategiaconcursos.com.br                                                           48
+
+                                         https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+          a) Receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas
+          processuais;
+          b) Exercer a advocacia;
+          c) Participar de sociedade comercial, na forma da lei;
+          d) Exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de
+          magistério;
+          e) Exercer atividade político-partidária;
+          f) Receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas,
+          entidades públicas ou privadas, ressalvadas as exceções previstas em lei.
+É relevante comentarmos acerca da vedação ao exercício da advocacia. Quando em exercício, os
+membros do Ministério Público estão absolutamente impedidos de exercer a advocacia. No
+entanto, após terem se afastado do cargo (por aposentadoria ou exoneração), a CF/88 permite
+que eles exerçam a advocacia. Porém, deverão observar a chamada “quarentena de saída”.
+Assim, o membro do Ministério Público não poderá exercer a advocacia no juízo ou tribunal junto
+ao qual atuava antes de decorridos três anos do afastamento do cargo por aposentadoria ou
+exoneração. Veja: no dia seguinte ao afastamento, o membro do Ministério Público já pode
+exercer a advocacia; no entanto, para exercer a advocacia junto ao tribunal perante o qual
+oficiava, precisará aguardar um período de três anos, ou seja, deverá observar a “quarentena de
+saída”.
+Por último, vale ressaltar o que dispõe o art. 29, § 3º, do ADCT. Segundo esse dispositivo, os
+membros do Ministério Público admitidos antes da promulgação da CF/88 poderiam optar pelo
+regime anterior, no que diz respeito às garantias e vedações. Com isso, os integrantes da carreira
+do MPU17 que nela ingressaram antes da Constituição Federal e que optaram pelo regime
+anterior podem exercer a advocacia.
+O quadro-resumo a seguir reúne as garantias e vedações dos membros do Ministério Público:
+
+
+
+
+17
+  Essa possibilidade somente existe para os integrantes do MPU. Os integrantes dos MPEs e do MPDFT já
+estavam, mesmo antes da CF/88, submetidos à vedação ao exercício da advocacia.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           15
+           www.estrategiaconcursos.com.br                                                         48
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+
+Chefia do Ministério Público
+Procurador-Geral da República
+O Ministério Público da União (MPU) tem por chefe o Procurador-Geral da República (PGR),
+nomeado pelo Presidente da República dentre integrantes da carreira, maiores de trinta e cinco
+anos, após a aprovação de seu nome pela maioria absoluta dos membros do Senado Federal,
+para mandato de dois anos, permitida a recondução (art. 128, § 1º, CF).
+Explicando de maneira esquematizada:
+       a) O PGR é nomeado pelo Presidente da República.
+       b) O PGR deve ter mais de 35 anos e deve ser integrante do MPU.
+       c) O PGR, antes de ser nomeado pelo Presidente, deve ser aprovado pelo Senado Federal
+       (votação secreta).
+       d) O mandato do PGR é de 2 (dois) anos, sendo permitida a recondução.
+É importante observar que a Constituição não limita o número de reconduções. Contudo, o art.
+25 da Lei Complementar no 75/93 determina que a recondução deverá ser precedida de nova
+aprovação do Senado Federal. A recondução assemelha-se, assim, a uma nova nomeação.
+Destaca-se, ainda, que o Presidente da República poderá escolher qualquer membro do
+Ministério Público da União (ou seja, do Ministério Público Federal, do Trabalho, Militar ou do
+Distrito Federal e Territórios) para o cargo de PGR. Nesse sentido, entende o STF que o
+Procurador-Geral pode provir de quaisquer das carreiras do Ministério Público da União (MS
+21.239, DJ de 23.04.1993).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                        16
+        www.estrategiaconcursos.com.br                                                      48
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+O Procurador-Geral da República (PGR) poderá ser destituído por iniciativa do Presidente da
+República, desde que haja autorização do Senado Federal, por maioria absoluta.
+
+
+
+
+Procuradores-Gerais de Justiça
+Os Procuradores-Gerais de Justiça são os Chefes dos Ministérios Públicos dos Estados (MPEs). O
+Chefe do Ministério Público do Distrito Federal e Territórios (MPDFT) também é denominado
+Procurador-Geral de Justiça. Vejamos o que determina a CF/88 sobre o tema:
+
+           Art. 128....................................................
+           § 3º - Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios
+           formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva,
+           para escolha de seu Procurador-Geral, que será nomeado pelo Chefe do Poder
+           Executivo, para mandato de dois anos, permitida uma recondução.
+
+Assim como o Procurador-Geral da República, os Procuradores-Gerais de Justiça também são
+nomeados pelo Chefe do Poder Executivo. O Governador nomeia os Chefes dos MPEs e o
+Presidente da República nomeia o Chefe do MPDFT. A nomeação do Chefe do MPDFT pelo
+Presidente da República deve-se ao fato de que a União é competente para organizar e manter o
+MPDFT (art. 21, XIII, CF/88).
+Os Procuradores-Gerais de Justiça são nomeados para mandato de 2 (dois) anos, sendo
+permitida apenas uma recondução. É diferente do que ocorre com o Procurador-Geral da
+República, que pode ser reconduzido múltiplas vezes. Não incidirá, nesse caso, o princípio da
+simetria.18
+No processo de nomeação dos Procuradores-Gerais de Justiça, não há qualquer participação do
+Poder Legislativo. Será elaborada lista tríplice pela própria instituição (MPE ou MPDFT), a qual
+será enviada ao Chefe do Poder Executivo, que escolherá um nome para ser nomeado como
+Procurador-Geral de Justiça. Segundo o STF, é inconstitucional lei que exija prévia aprovação do
+nome do Procurador-Geral de Justiça pela maioria absoluta do Legislativo local, por força do art.
+128, § 3o, da CF/88, que estabelece como única exigência a lista tríplice, na forma da lei.19
+Já no processo de destituição dos Procuradores-Gerais de Justiça, haverá participação do Poder
+Legislativo. Segundo o art. 128, § 4º, CF/88, os Procuradores-Gerais nos estados poderão ser
+18
+     STF, ADI 452, DJ de 31.10.2002
+19
+     ADI 1.228-MC/AP, DJU de 02.06.1995; ADU 1.506-SE, DJU de 12.11.1999; ADI 1.962-RO, 08.11.2001.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                               17
+           www.estrategiaconcursos.com.br                                                             48
+
+                                             https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+destituídos por deliberação da maioria absoluta da Assembleia Legislativa. Por sua vez, a
+destituição do Procurador-Geral de Justiça do Distrito Federal e Territórios depende de
+deliberação da maioria absoluta do Senado Federal.
+Questão relevante que surge diz respeito à vacância do cargo de Procurador-Geral no curso do
+mandato. Deverá, nesse caso, o novo Procurador-Geral assumir pelo tempo que falta para
+completar os dois anos (mandato-tampão) ou cumprir um novo mandato de dois anos
+completos?
+Nesse caso, o Procurador-Geral deverá cumprir um novo período de dois anos. Nesse sentido,
+decidiu o STF que é inconstitucional, por ofensa ao art. 128, § 3o, da Carta Magna, lei que
+preveja, no caso de vacância do cargo de Procurador-Geral de Justiça, a eleição e a nomeação
+de novo Procurador-Geral para que complete o período restante do mandato do seu
+antecessor.20
+Procurador-Geral do Trabalho e Procurador-Geral da Justiça Militar
+Segundo a LC nº 75/93, o Estatuto do MPU, o Procurador-Geral do Trabalho (PGT) será o Chefe
+do Ministério Público do Trabalho, nomeado pelo PGR, dentre membros da Instituição, com mais
+de 35 anos de idade e 5 anos na carreira, integrantes de lista tríplice escolhida mediante voto
+plurinominal, facultativo e secreto, pelo Colégio de Procuradores, para um mandato de 2 anos,
+permitida uma recondução, observado o mesmo processo.
+Caso não haja número de candidatos (três) com mais de 5 anos de carreira, poderão concorrer ao
+cargo os Procuradores com mais de 2 anos na carreira. A exoneração do PGT, antes do término
+do mandato, será proposta ao PGR pelo Conselho Superior, mediante deliberação obtida com
+base em voto secreto de 2/3 de seus integrantes.
+Já os arts. 120 e 121 da LC no 75/93 estabelecem regra semelhante para a nomeação do
+Procurador-Geral da Justiça Militar, Chefe do Ministério Público da Justiça Militar. Ele será
+igualmente nomeado pelo PGR, dentre membros da instituição com mais de 35 anos de idade e
+5 anos na carreira, integrantes de lista tríplice escolhida mediante voto plurinominal, facultativo e
+secreto, pelo Colégio de Procuradores, para um mandato de 2 anos, permitida uma recondução,
+observado o mesmo processo.
+Caso não haja número de candidatos (três) com mais de 5 anos de carreira, poderão concorrer ao
+cargo os Procuradores com mais de 2 anos na carreira. A sua exoneração, antes do término do
+mandato, será proposta ao PGR pelo Conselho Superior, mediante deliberação obtida com base
+em voto secreto de 2/3 de seus integrantes.
+Por fim, o chefe do Ministério Público Eleitoral é o próprio PGR.
+
+Ministério Público junto às Cortes de Contas
+Quando se fala em Cortes de Contas, estamos nos referindo ao Tribunal de Contas da União
+(TCU) e aos Tribunais de Contas dos Estados e dos Municípios (TCEs e TCMs). Perante esses
+órgãos, atua um Ministério Público “especial”: o Ministério Público junto ao TCU e os Ministérios
+Públicos junto aos TCEs e TCMs.
+O Ministério Público junto ao Tribunal de Contas da União (TCU) não integra o MPU; ao
+contrário, integra a própria estrutura orgânica do TCU. Isso porque o rol de órgãos que
+
+20
+     ADI 1.783-BA, rel. Min. Sepúlveda Pertence, 11.10.2001.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                           18
+           www.estrategiaconcursos.com.br                                                         48
+
+                                         https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+compõem o MPU, previsto no art. 128, I, da CF/88 é taxativo. Assim, um membro do Ministério
+Público da União (MPU) não pode ser designado para exercer suas funções junto ao TCU. O
+mesmo vale para os estados: um membro do Ministério Público do Estado (MPE) não pode ser
+designado para atuar perante o Tribunal de Contas daquele ente federativo.
+Os Ministérios Públicos que atuam perante as Cortes de Contas não possuem as atribuições do
+art. 129 da CF/88. Sua atuação dá-se exclusivamente na área de competência dos Tribunais de
+Contas. Trata-se, conforme já afirmamos, de um Ministério Público “especial”.
+A lei que regulamenta a estrutura orgânica do Ministério Público que atua junto ao TCU é de
+iniciativa do próprio TCU, conforme se deduz do art. 73, caput, da CF/88. Por simetria, é de
+iniciativa do TCE a lei de organização do Ministério Público que atua junto à Corte de Contas
+estadual.
+Para firmar nosso entendimento, transcrevemos trecho de julgado do STF:21
+
+           “O Ministério Público junto ao Tribunal de Contas da União não dispõe de
+           fisionomia institucional própria e, não obstante as expressivas garantias de ordem
+           subjetiva concedidas aos seus Procuradores pela própria Constituição (art. 130),
+           encontra-se consolidado na 'intimidade estrutural' dessa Corte de Contas, que
+           se acha investida – 'até mesmo em função do poder de autogoverno que lhe
+           confere a Carta Política (art. 73, caput, in fine)' – da prerrogativa de fazer instaurar
+           o processo legislativo concernente à sua organização, à sua estruturação interna,
+           à definição do seu quadro de pessoal e à criação dos cargos respectivos. Só cabe
+           lei complementar, no sistema de direito positivo brasileiro, quando formalmente
+           reclamada a sua edição por norma constitucional explícita. A especificidade do
+           Ministério Público que atua perante o TCU, e cuja existência se projeta num
+           domínio institucional absolutamente diverso daquele em que se insere o
+           Ministério Publico da União, faz com que a regulação de sua organização, a
+           discriminação de suas atribuições e a definição de seu estatuto sejam passíveis
+           de veiculação mediante simples lei ordinária, eis que a edição de lei
+           complementar é reclamada, no que concerne ao Parquet, tão somente para a
+           disciplinação normativa do Ministério Público comum (CF, art. 128, § 5º)”.
+
+
+
+
+(Pref. Pires do Rio-GO – 2022) Entre os princípios institucionais do Ministério Público, o princípio
+da unidade assegura a integração de seus membros a um só órgão, sob a chefia de um
+procurador-geral.
+Comentários:
+
+
+
+21
+     ADI, 789, Rel. Min. Celso de Mello. Julgamento em 26.05.2004.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                               19
+           www.estrategiaconcursos.com.br                                                             48
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+Segundo o princípio da unidade, o Ministério Público atua a partir de um único Chefe (nesse
+caso, o Procurador-Geral), uma vez que se trata de uma instituição única em cada Estado e em
+relação ao Ministério Público Federal. Questão correta.
+(PGE-RJ – 2022) A CF assegura a juízes e promotores vitaliciedade após dois anos de exercício
+do cargo.
+Comentários:
+É exatamente o que determina o art. 95 e o art. 128, § 5º, inciso I, alínea "a", da CF/88. Questão
+correta.
+(Procurador de Salvador – 2015) A chefia do MPU cabe ao procurador-geral da República, que
+será escolhido pelo presidente da República entre os integrantes da carreira, maiores de trinta e
+cinco anos, a partir de lista tríplice fornecida pelo Conselho Nacional do Ministério Público.
+Comentários:
+O Procurador-Geral da República é mesmo o Chefe do Ministério Público da União. Ele é
+nomeado pelo Presidente da República dentre integrantes da carreira, não havendo que se falar
+em lista tríplice fornecida pelo CNMP. Questão errada.
+(TCE-CE – 2015) Os Ministérios Públicos dos Estados e o do Distrito Federal e Territórios
+formarão lista tríplice dentre integrantes da carreira, na forma da lei respectiva, para escolha de
+seu Procurador-Geral, que será nomeado pelo Chefe do Poder Executivo, para mandato de dois
+anos, permitida uma única recondução.
+Comentários:
+É isso mesmo! A nomeação dos Procuradores-Gerais de Justiça é feita pelo Governador, a partir
+de lista tríplice elaborada pelo Ministério Público Estadual. O mandato do Procurador-Geral de
+Justiça é de 2 anos, sendo permitida uma única recondução. Questão correta.
+(TRF 1ª Região – 2015) Dado o princípio da indivisibilidade, o MP é uma instituição una, podendo
+seus membros, que não se vinculam aos processos nos quais atuam, ser substituídos uns pelos
+outros de acordo com as normas legais.
+Comentários:
+Pelo princípio da indivisibilidade, os membros do Ministério Público não estão vinculados aos
+processos nos quais atuam, podendo, assim, ser substituídos uns pelos outros, de acordo com as
+normas legais. Questão correta.
+(TCE-CE – 2015) Os Procuradores-Gerais nos Estados e no Distrito Federal e Territórios não
+poderão ser destituídos por deliberação do Poder Legislativo respectivo.
+Comentários:
+Os Procuradores-Gerais nos estados poderão ser destituídos por deliberação da maioria absoluta
+da Assembleia Legislativa. Por sua vez, a destituição do Procurador-Geral de Justiça do Distrito
+Federal e Territórios depende de deliberação da maioria absoluta do Senado Federal. Questão
+errada.
+(TRT 3ª Região – 2015) A destituição do Procurador-Geral da República, por iniciativa do Senado
+Federal, deverá ser precedida de autorização da maioria absoluta da Câmara dos Deputados.
+Comentários:
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            20
+        www.estrategiaconcursos.com.br                                                          48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+O Procurador-Geral da República (PGR) poderá ser destituído por iniciativa do Presidente da
+República, desde que haja autorização do Senado Federal, por maioria absoluta. Questão errada.
+(SEFAZ-BA – 2014) É função institucional do Ministério Público exercer o controle interno da
+atividade policial, na forma da sua lei orgânica.
+Comentários:
+O Ministério Público exerce o controle externo da atividade policial, na forma de lei
+complementar. Questão errada.
+(MPE-SC – 2014) É função institucional do Ministério Público promover o inquérito civil e a ação
+civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros
+interesses difusos e coletivos
+Comentários:
+O Ministério Público tem competência para promover o inquérito civil e a ação civil pública, para
+a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e
+coletivos. Questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                          21
+        www.estrategiaconcursos.com.br                                                        48
+
+                                      https://t.me/KakashiAssinaturasBot
+    Equipe Direito Constitucional Estratégia Concursos
+    Aula 14
+
+
+
+
+Conselho Nacional do Ministério Público (CNMP)
+O Conselho Nacional do Ministério Público (CNMP) foi criado pela EC nº 45/2004. Trata-se de
+órgão de controle externo do Ministério Público, com atuação em todo o território nacional.1 Ao
+contrário do CNJ (que integra o Poder Judiciário), o CNMP não integra o Ministério Público.
+No exercício de sua missão institucional, o CNMP tem competência para efetuar o controle da
+atuação administrativa e financeira do Ministério Público e do cumprimento dos deveres
+funcionais de seus membros.
+O CNMP é composto de 14 (quatorze) membros, os quais são nomeados pelo Presidente da
+República, depois de aprovada a escolha pela maioria absoluta do Senado Federal. O mandato
+dos membros do CNMP é de 2 (dois) anos, sendo admitida uma recondução.
+
+
+
+
+          O texto constitucional não estabelece idades mínima e máxima para a nomeação
+          dos membros do Conselho Nacional do Ministério Público (CNMP).
+
+E quais são os membros do CNMP?
+Os membros do CNMP são os seguintes (art. 130-A):
+         a) O Procurador-Geral da República, que o preside;
+         b) 4 (quatro) membros do Ministério Público da União, assegurada a representação de
+         cada uma de suas carreiras;
+         c) 3 (três) membros do Ministério Público dos Estados;
+         d) 2 (dois) juízes, indicados um pelo Supremo Tribunal Federal e outro pelo Superior
+         Tribunal de Justiça;
+         e) 2 (dois) advogados, indicados pelo Conselho Federal da Ordem dos Advogados do
+         Brasil;
+         f) Dois cidadãos de notável saber jurídico e reputação ilibada, indicados um pela Câmara
+         dos Deputados e outro pelo Senado Federal.
+Perceba que, na composição do CNMP, há representantes do MPU, dos MPEs, do Poder
+Judiciário, da Advocacia e da sociedade. Todos eles serão nomeados pelo Presidente da
+República, após aprovação do Senado Federal.
+Algumas observações são importantes acerca da composição dos membros do CNMP:
+
+1
+ Há autores que consideram que o CNMP é “órgão de controle interno democratizado”, uma vez que a maior
+parte de seus membros integra o Ministério Público. Preferimos, aqui, apontá-lo como órgão de controle
+externo, por ser essa a posição oficial da instituição.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional                             22
+          www.estrategiaconcursos.com.br                                                           48
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+       a) O Procurador-Geral da República é o Presidente do CNMP.
+       b) Os membros do CNMP oriundos do Ministério Público (4 do MPU e 3 dos MPEs) são
+       indicados pelo respectivo Ministério Público, na forma da lei.
+       c) O CNMP deverá escolher, em votação secreta, um Corregedor nacional. O Corregedor
+       nacional deverá ser escolhido entre os membros do Ministério Público que integram o
+       Conselho, vedada sua recondução. As competências do Corregedor nacional são as
+       seguintes:
+               - receber reclamações e denúncias, de qualquer interessado, relativas aos membros
+               do Ministério Público e dos seus serviços auxiliares;
+               - exercer funções executivas do Conselho, de inspeção e correição geral;
+               - requisitar e designar membros do Ministério Público, delegando-lhes atribuições, e
+               requisitar servidores de órgãos do Ministério Público.
+                                                         ==219a34==
+
+
+
+
+Para complementar a atuação do Corregedor nacional, a CF/88 prevê que leis da União e dos
+Estados criarão ouvidorias do Ministério Público. O objetivo é receber reclamações e denúncias
+de qualquer interessado contra membros ou órgãos do Ministério Público, inclusive contra seus
+serviços auxiliares, representando diretamente ao Conselho Nacional do Ministério Público.
+       d) O Presidente do Conselho Federal da OAB oficiará junto ao CNMP. Logo, ele não
+       poderá ser membro do Conselho.
+O Conselho Nacional do Ministério Público (CNMP), conforme já comentamos, é responsável por
+efetuar o controle da atuação administrativa e financeira do Ministério Público e do cumprimento
+dos deveres funcionais de seus membros. Suas competências estão enumeradas no art. 130-A, §
+2º, CF/88:
+       a) Zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir
+       atos regulamentares, no âmbito de sua competência, ou recomendar providências.
+       b) Zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a
+       legalidade dos atos administrativos praticados por membros ou órgãos do Ministério
+       Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que
+       se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da
+       competência dos Tribunais de Contas.
+
+
+
+
+        Exemplos de atos administrativos praticados por membro ou órgão do Ministério
+        Público e que estão sujeitos ao controle do CNMP são a assinatura de um
+        contrato administrativo, a realização de uma licitação ou mesmo a concessão de
+        férias a servidores.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                            23
+        www.estrategiaconcursos.com.br                                                          48
+
+                                      https://t.me/KakashiAssinaturasBot
+     Equipe Direito Constitucional Estratégia Concursos
+     Aula 14
+
+
+
+           Segundo o STF, o CNMP também tem competência para apreciar ato de
+           vitaliciamento de membro do Ministério Público, que é uma espécie de ato
+           administrativo.2
+           Além disso, ainda segundo o STF, cabe ao CNMP resolver eventual conflito de
+           atribuições entre um membro de Ministério Público Estadual (MPE) e um membro
+           do Ministério Público Federal (MPF).3
+
+        c) Receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da
+        União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência
+        disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso,
+        determinar a remoção ou a disponibilidade e aplicar outras sanções administrativas,
+        assegurada ampla defesa.
+        (*) A Reforma da Previdência excluiu a previsão constitucional da aplicação de
+        aposentadoria compulsória como forma de sanção disciplinar a membros do Ministério
+        Público. Isso não quer dizer que essa sanção disciplinar não possa existir, mas apenas que
+        não tem mais previsão constitucional.
+
+
+
+
+           O MPU e os MPEs possuem competência disciplinar e correcional. Mas o CNMP
+           tem competência para avocar (“chamar para si”) processos disciplinares e aplicar
+           sanções administrativas aos membros do Ministério Público.
+
+        d) Rever, de ofício ou mediante provocação, os processos disciplinares de membros do
+        Ministério Público da União ou dos Estados julgados há menos de um ano.
+
+           As bancas examinadoras adoram fazer uma pegadinha sobre essa competência
+           do CNMP!
+           Elas dizem que o CNMP pode rever processos disciplinares julgados há “mais de
+           um ano”. Isso está ERRADO! Ora, se passar muito tempo do julgamento (mais de
+           um ano), o CNMP não poderá, em nome da segurança jurídica, rever um
+           processo disciplinar. O CNMP somente poderá rever processos disciplinares
+           julgados há menos de um ano.
+
+          e) Elaborar relatório anual, propondo as providências que julgar necessárias sobre a
+          situação do Ministério Público no País e as atividades do Conselho, o qual deve integrar a
+          mensagem prevista no art. 84, XI.
+
+
+
+
+2
+    MS 27542/DF, Rel. Min. Dias Toffoli, julgamento em 04.10.2016
+3
+    Pet. 5235 AgR, Rel. Min. Alexandre de Moraes, julgado em 21.12.2020.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional                          24
+           www.estrategiaconcursos.com.br                                                        48
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+Por fim, destaca-se que os membros do Conselho Nacional do Ministério Público deverão ser
+processados e julgados, nos crimes de responsabilidade, pelo Senado Federal. Além disso,
+compete ao STF julgar as ações contra o CNMP (art. 102, I, “r”).
+
+
+
+
+(TCE-RJ – 2022) A composição do Conselho Nacional do Ministério Público tem vagas destinadas
+a procuradores do Ministério Público junto aos tribunais de contas.
+Comentários:
+De acordo com o art. 130-A da CF/88, não há previsão de vagas no CNMP para integrantes do
+Ministério Público junto aos Tribunais de Contas. Questão errada.
+(MPE-SC – 2014) O Conselho Nacional do Ministério Público compõe-se de quinze membros
+nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do
+Senado Federal, para um mandato de três anos, admitida uma recondução.
+Comentários:
+O CNMP é composto de 14 membros nomeados pelo Presidente da República após aprovada a
+escolha pela maioria absoluta do Senado Federal. O mandato é de 2 (dois) anos, admitida uma
+recondução. Questão errada.
+(MPE-MG – 2014) O Conselho Nacional do Ministério Público é presidido pelo Procurador-Geral
+da República, e o Presidente do Conselho Federal da Ordem dos Advogados oficiará junto ao
+Conselho.
+Comentários:
+É isso mesmo. O Procurador-Geral da República é o Presidente do CNMP. O Presidente do
+Conselho Federal da OAB oficiará junto ao CNMP. Questão correta.
+(MPE-MG – 2014) Ao Conselho Nacional do Ministério Público compete rever, de ofício ou
+mediante provocação, os processos disciplinares de membros do Ministério Público da União ou
+dos Estados julgados há menos de um ano.
+Comentários:
+É competência do CNMP rever os processos disciplinares de membros do Ministério Público
+julgados há menos de um ano. Questão correta.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                      25
+        www.estrategiaconcursos.com.br                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+
+                                  QUESTÕES COMENTADAS
+
+Ministério Público
+
+1.     (FGV/TJ-DFT – 2022) A estrutura administrativa do Estado brasileiro possui peculiaridades
+constitucionalmente definidas considerando-se os poderes independentes, suas atribuições e funções. A
+esse respeito, é uma atribuição do Ministério Público:
+
+a) defender a ordem jurídica, o regime democrático e os interesses no âmbito dos direitos sociais e coletivos,
+independentemente de provocação;
+
+b) propor leis ao Congresso, entre elas o orçamento anual, editar, em casos de emergência, medidas
+provisórias que têm de imediato o valor de leis;
+
+c) realizar atividade jurisdicional de resolução de conflitos mediante provocação das partes;
+
+d) representar o país internacionalmente e manter relações e tratados com países estrangeiros;
+
+e) ser o guardião da Constituição, julgando ações diretas de inconstitucionalidade ou ações contra membros
+dos demais Poderes da União.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão.
+
+A questão cobrou do candidato o conhecimento sobre as funções do Ministério Público. Segundo a CF/88, é
+atribuição do Ministério Público defender a ordem jurídica, o regime democrático e os interesses no âmbito
+dos direitos sociais e coletivos, independentemente de provocação.
+
+Vejamos:
+
+        Art. 127. O Ministério Público é instituição permanente, essencial à função jurisdicional do
+        Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses
+        sociais e individuais indisponíveis.
+
+        Art. 129. São funções institucionais do Ministério Público:
+
+        III - promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público
+        e social, do meio ambiente e de outros interesses difusos e coletivos.
+
+A alternativa B está incorreta.
+
+A alternativa citou funções do Presidente da República, vejamos:
+
+        Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       26
+        www.estrategiaconcursos.com.br                                                                     48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+         I - o plano plurianual;
+
+         II - as diretrizes orçamentárias;
+
+         III - os orçamentos anuais.
+
+         Art. 166, § 6º Os projetos de lei do plano plurianual, das diretrizes orçamentárias e do
+         orçamento anual serão enviados pelo Presidente da República ao Congresso Nacional, nos
+         termos da lei complementar a que se refere o art. 165, § 9º.
+
+         Art. 62 Em caso de relevância e urgência, o Presidente da República poderá adotar medidas
+         provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.
+
+A alternativa C está incorreta. A atividade jurisdicional será exercida por órgãos do Poder Judiciário nos
+limites territoriais previstos no ordenamento jurídico, de acordo com o Art. 92 e seguintes da CF/88.
+
+A alternativa D está incorreta. A alternativa citou competências do Presidente da República, Vejamos:
+
+         Art. 84. Compete privativamente ao Presidente da República:
+
+         VII - manter relações com Estados estrangeiros e acreditar seus representantes
+         diplomáticos;
+
+         VIII - celebrar tratados, convenções e atos internacionais, sujeitos a referendo do
+         Congresso Nacional.
+
+A alternativa E está incorreta.
+
+A alternativa trouxe atribuições do Supremo Tribunal Federal, vejamos:
+
+         Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição,
+         cabendo-lhe:
+
+         I - processar e julgar, originariamente:
+
+         a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a
+         ação declaratória de constitucionalidade de lei ou ato normativo federal;
+
+         b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros
+         do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República.
+
+2.    (FGV/MP-GO – 2022) Analisando o Ministério Público de Goiás sob a ótica da organização
+administrativa, temática que estuda a estrutura da Administração Pública, é correto afirmar que ele é
+um exemplo de:
+
+a) órgão público.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                    27
+        www.estrategiaconcursos.com.br                                                                  48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+b) poder constitucional.
+
+c) secretaria de governo.
+
+d) entidade administrativa.
+
+e) pessoa jurídica de direito público externo.
+
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão.
+
+Costuma-se dizer que órgão público é uma unidade com funções específicas dentro da organização do
+Estado. É composto por agentes públicos que dirigem e compõem o órgão, voltado para o cumprimento de
+uma atividade estatal.
+
+Portanto, segundo a CF/88 em seu art. 127, o Ministério Público é instituição (órgão) permanente, essencial
+à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos
+interesses sociais e individuais indisponíveis.
+
+3.     (FGV/MP-GO – 2022) O Governador do Estado Alfa consultou sua assessoria a respeito da
+possibilidade de encaminhar uma proposição à Assembleia Legislativa visando à alteração da Lei Orgânica
+do Ministério Público do respectivo Estado. A assessoria respondeu corretamente que o Governador
+do Estado:
+
+a) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei complementar nacional.
+
+b) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+c) não está legitimado, de modo que apenas o Procurador-Geral de Justiça pode apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+d) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei ordinária,
+que deve se harmonizar às normas gerais veiculadas na lei complementar nacional.
+
+e) não está legitimado, de modo que apenas o Procurador-Geral de Justiça pode apresentar o projeto de lei
+ordinária, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+Comentários:
+
+A alternativa C está correta e é o gabarito da questão.
+
+Vejamos o que diz a Constituição Federal sobre o assunto:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      28
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+
+        Art. 128, §5º - Leis complementares da União e dos Estados, cuja iniciativa é facultada aos
+        respectivos Procuradores-Gerais, estabelecerão a organização, as atribuições e o estatuto
+        de cada Ministério Público.
+
+4.     (FGV/TCE-AM – 2021) O Ministério Público do Estado Alfa, após regular tramitação interna,
+elaborou a sua proposta orçamentária e encaminhou o respectivo projeto de lei à Assembleia Legislativa,
+que deliberou pela sua rejeição por vício de iniciativa.
+
+À luz da sistemática constitucional, a deliberação da Assembleia Legislativa foi:
+
+a) incorreta, desde que a iniciativa, pelo Ministério Público, tenha sido autorizada pelo Poder Executivo;
+
+b) correta, pois a iniciativa do processo legislativo, na temática descrita na narrativa, é privativa do Poder
+Executivo;
+
+c) correta, considerando que o Ministério Público é órgão do Poder Executivo, logo, apenas este último
+detém o poder de iniciativa legislativa;
+
+d) incorreta, pois a iniciativa do processo legislativo somente é transferida ao Poder Executivo caso o
+Ministério Público não observe o prazo constitucional;
+
+e) incorreta, pois o Ministério Público possui autonomia financeira, logo, tem legitimidade para submeter
+sua proposta orçamentária ao Poder Legislativo.
+
+Comentários:
+
+A alternativa B está correta e é o gabarito da questão.
+
+A questão cobrou do candidato o conhecimento sobre a autonomia financeira do Ministério Público.
+
+Segundo o art. 127, § 2º da CF/88, o MP possui autonomia funcional e administrativa, devendo o candidato
+acrescentar também em seus estudos que o MP também possui autonomia financeira devido à interpretação
+sistemática da CF/88.
+
+O art. 127, § 3º da CF/88 determina que o Ministério Público elaborará sua proposta orçamentária dentro
+dos limites estabelecidos na lei de diretrizes orçamentárias.
+
+A elaboração da proposta deverá ser encaminhada ao Chefe do Poder Executivo, porém, caso não seja a
+proposta encaminhada, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária
+anual, os valores aprovados na lei orçamentária vigente, ajustados de acordo com os limites estipulados na
+forma do § 3º.
+
+Repare que a questão informa que o MP encaminhou a proposta orçamentária diretamente à Assembleia
+Legislativa, quando na verdade deveria ter encaminhada ao Chefe do Poder Executivo, por força de
+mandamento constitucional.
+
+Por fim, a Lei nº 8.625/93, que instituiu a Lei Orgânica Nacional do Ministério Público, ensina que:
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                         29
+        www.estrategiaconcursos.com.br                                                                       48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+
+         Art. 4º O Ministério Público elaborará sua proposta orçamentária dentro dos limites
+         estabelecidos na Lei de Diretrizes Orçamentárias, encaminhando-a diretamente ao
+         Governador do Estado, que a submeterá ao Poder Legislativo.
+
+5.    (FGV / DPE-RJ – 2019) Adélia praticou uma infração penal e, após amplas investigações, a instituição
+com atribuição constitucional ajuizou uma ação penal em face dela. Essa instituição é:
+a) o Ministério Público;
+b) a Defensoria Pública;
+c) a Procuradoria-Geral do Estado;
+d) a Polícia Judiciária;
+e) o Poder Judiciário.
+
+Comentários:
+
+A ação penal foi ajuizada pelo Ministério Público, ao qual compete, privativamente, promover a ação penal
+pública, na forma da lei (art. 129, I, CF). O gabarito é a letra A.
+
+6.     (FGV / AL-RO – 2018) O Juiz de Direito da Comarca Alfa, ao receber a denúncia oferecida pelo
+Ministério Público em face de Antônio, pela prática de crime contra o patrimônio, entendeu que as provas
+colhidas na investigação criminal apontavam para a existência de um coautor para a infração penal, João,
+sobre o qual a inicial acusatória não fazia qualquer menção. Por tal razão, expediu determinação para que
+o Promotor de Justiça aditasse a denúncia para nela incluir João.
+
+À luz da sistemática constitucional afeta ao Ministério Público, é correto afirmar que a referida
+determinação
+a) não está em harmonia com a ordem constitucional, por força do princípio da inamovibilidade.
+b) está em harmonia com a ordem constitucional, desde que confirmada pelo Tribunal de Justiça.
+c) está em harmonia com a ordem constitucional, por força do direito fundamental de acesso à justiça.
+d) não está em harmonia com a ordem constitucional, por força do princípio da independência funcional.
+e) não está em harmonia com a ordem constitucional, por força do princípio do convencimento motivado.
+
+Comentários:
+
+O Poder Judiciário não pode determinar que o Ministério Público adite uma denúncia, uma vez que o Parquet
+goza de independência funcional (art. 127, § 1º, CF). Desse modo, o Ministério Público é uma instituição que
+não está sujeita a qualquer interferência de outro órgão ou Poder da República. O Ministério Público deve
+buscar a satisfação do interesse social e do bem comum (e não o cumprimento de ordens deste ou daquele
+Poder!). O gabarito é a letra D.
+
+7.     (FGV / ALE-RJ–Procurador – 2017) CWW, político de grande prestígio em certo Município do Estado,
+não concordava com a forma de atuação do Promotor de Justiça da Comarca, já que ela resultara no
+ajuizamento de diversas ações que estavam comprometendo a sua imagem. O caso foi levado ao
+
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                    30
+         www.estrategiaconcursos.com.br                                                                  48
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+conhecimento do Procurador-Geral de Justiça, que recebeu de CWW a solicitação de que o Promotor de
+Justiça, titular há vários anos na Comarca, fosse dela removido compulsoriamente.
+
+À luz dos dados fornecidos e da sistemática constitucional, é correto afirmar que a solicitação formulada:
+a) deve ser apreciada pelo órgão colegiado competente, que só pode deferi-la por motivo de interesse
+público;
+b) jamais poderia ser atendida, pois a ordem constitucional assegura a garantia da inamovibilidade;
+c) poderia ser livremente apreciada pelo Procurador-Geral de Justiça, Chefe do Ministério Público estadual;
+d) deveria ser endereçada diretamente ao Conselho Nacional do Ministério Público, único órgão competente
+para apreciá-la;
+e) é livremente apreciada pelo órgão ao qual a normatização infraconstitucional atribuiu competência.
+
+Comentários:
+
+Os membros do Ministério gozam da garantia da inamovibilidade, segundo a qual não poderão ser removidos
+de ofício. A inamovibilidade, todavia, não é absoluta. É possível a remoção de ofício por razões de interesse
+público, mediante decisão do órgão colegiado do Ministério Público.
+
+O gabarito é a letra A.
+
+8.      (FGV / MPE-RJ – 2016) Pedro e Arnaldo estavam insatisfeitos com a atuação de determinado
+membro do Ministério Público, lotado há muitos anos na Comarca, que frequentemente se contrapunha
+aos interesses prestigiados pelas oligarquias locais. Procuraram, portanto, um influente político do Estado
+e solicitaram que o referido Promotor de Justiça fosse removido, sob o argumento de que sua atuação era
+prejudicial ao interesse público. À luz da sistemática constitucional e dos dados informados, esse membro
+do Ministério Público:
+a) pode ser removido, por decisão do colegiado competente do Ministério Público, se presentes os requisitos
+constitucionais;
+b) não pode ser removido em nenhuma hipótese, o que decorre da garantia da inamovibilidade;
+c) pode ser livremente removido, o que decorre do princípio hierárquico, que caracteriza a Administração
+Pública;
+d) somente pode ser removido por decisão do Poder Judiciário, o que decorre da inafastabilidade da tutela
+jurisdicional;
+e) somente pode ser removido por decisão do Procurador-Geral de Justiça, que chefia a instituição.
+
+Comentários:
+
+Os membros do Ministério Público possuem garantias funcionais: a vitaliciedade, a inamovibilidade e a
+independência funcional.
+
+Pela inamovibilidade, os membros do Ministério Público não poderão ser removidos de ofício, salvo por
+motivo de interesse público, por decisão de órgão colegiado competente do Ministério Público, pelo voto da
+maioria absoluta dos membros. Também é possível a remoção de ofício de membro do Ministério Público
+por decisão da maioria absoluta dos membros do CNMP.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      31
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+O gabarito é a letra A.
+
+9.      (FGV / MPE-RJ – 2016) Odésio, servidor do Ministério Público Estadual, apesar de plenamente
+realizado em sua profissão, tinha o sonho de ser vereador. Para realizá-lo, filiou-se a um partido político e
+participou regularmente de inúmeras reuniões. Na eleição, o seu esforço foi compensado e o sonho
+realizado, sendo eleito vereador do seu Município. Apesar da sua alegria, foi informado por um amigo que,
+para tomar posse como vereador, teria que pedir exoneração do cargo público que ocupava, informação
+esta que, no seu entender, não estaria correta.
+
+À luz dessa narrativa e da sistemática adotada pela Constituição da República Federativa do Brasil, é
+correto afirmar que Odésio, caso não pedisse exoneração do Ministério Público Estadual:
+a) teria que, necessariamente, ser afastado do cargo efetivo assim que tomasse posse como vereador;
+b) poderia tomar posse no cargo de vereador, mas teria que, necessariamente, optar pela remuneração de
+um dos cargos;
+c) poderia ser empossado vereador e, havendo compatibilidade de horários, receberia ambas as
+remunerações;
+d) não poderia tomar posse no cargo de vereador, já que vedada a acumulação de cargos;
+e) não poderia tomar posse como vereador, exceto se renunciasse à remuneração do cargo efetivo.
+
+Comentários:
+
+A CF/88 proíbe que os membros do Ministério Público exerçam atividade político-partidária. No entanto, tal
+vedação não alcança os servidores do Ministério Público.
+
+Quando um servidor público é eleito para o mandato de Vereador, há 2 (duas) possibilidades:
+
+       a) se houver compatibilidade de horários, poderá acumular o cargo efetivo e o mandato de Vereador,
+       recebendo ambas remunerações.
+
+       b) se não houver compatibilidade de horários, será afastado do cargo efetivo, tomando posse como
+       Vereador. Nesse caso, poderá optar pela remuneração do cargo efetivo ou do mandato de Vereador.
+
+O gabarito é a letra C.
+
+10.    (FGV / ISS-Cuiabá – 2016) Arnaldo, cidadão brasileiro, narrou ao órgão com atribuição do Ministério
+Público três situações fáticas listadas a seguir, cujos efeitos se projetavam sobre ele e solicitou a adoção
+das providências necessárias à sua superação.
+Fato I: o único vizinho de Arnaldo, uma vez por semana, escutava, por trinta minutos, músicas com o som
+elevado, que superava em muito os limites tidos como toleráveis;
+Fato II: uma indústria existente na cidade de Arnaldo despejou resíduos tóxicos no único rio da região,
+causando grande mortandade de peixes e impedindo o uso da água pela população;
+Fato III: outra indústria havia comercializado, exclusivamente na cidade de Arnaldo, um produto impróprio
+para o consumo, causando danos variados a todos os seus adquirentes.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      32
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+Com base no caso descrito, à luz das atribuições constitucionais de natureza extrapenal do Ministério Público
+e das características dos interesses envolvidos, assinale a afirmativa correta.
+a) Todos os fatos poderiam ser investigados pelo Ministério Público, isso por se enquadrarem sob a epígrafe
+dos interesses individuais e coletivos de natureza indisponível.
+b) Somente os fatos II e III poderiam ser investigados pelo Ministério Público, pois têm, respectivamente,
+natureza de interesses difusos e de interesses coletivos.
+c) Nenhum dos fatos poderia ser investigado pelo Ministério Público, já que Arnaldo, por ser cidadão, teria
+legitimidade para o ajuizamento da ação popular.
+d) Somente os fatos I e II, isso por violarem o meio ambiente, tendo natureza essencialmente difusa,
+poderiam ser investigados pelo Ministério Público.
+e) Somente os fatos I e III poderiam ser investigados pelo Ministério Público, pois somente nesses casos seria
+possível identificar as vítimas dos ilícitos.
+
+Comentários:
+
+Segundo o art. 129, III, CF/88, são funções institucionais do Ministério Público promover o inquérito civil e a
+ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses
+difusos e coletivos.
+
+Na situação apresentada pelo enunciado, os fatos II e III podem ser investigados pelo Ministério Público, uma
+vez que têm a natureza de interesses difusos e coletivos. Entretanto, o fato I está fora do âmbito de atuação
+do Ministério Público, uma vez que “escutar música com o som elevado” está prejudicando apenas Arnaldo
+(e não os interesses da coletividade!).
+
+O gabarito é a letra B.
+
+11.    (FGV / Prefeitura de Cuiabá – 2015) Adenílton e Ismênio, estudantes de Direito, travaram intenso
+debate a respeito das atribuições constitucionais do Ministério Público. Apesar de ambos defenderem a
+importância da Instituição e a amplitude de suas atribuições, não chegaram a um consenso a respeito das
+situações concretas em que a atuação seria possível.
+Adenílton sustentava que o Ministério Público, como guardião da ordem jurídica, poderia defender os
+interesses dos necessitados, ajuizando ações judiciais em nome daqueles que não pudessem pagar
+advogado. Ismênio, por sua vez, entendia que o Ministério Público poderia defender interesses
+individuais, desde que fossem indisponíveis.
+À luz da sistemática constitucional, é correto afirmar que
+a) ambos estão corretos, já que, no exercício da atribuição de “defesa da ordem jurídica", está incluída a
+tutela dos interesses individuais, disponíveis ou indisponíveis.
+b) somente Adenílton está correto, pois o Ministério Público pode defender interesses individuais dos
+necessitados, mas não interesses de pessoas não necessitadas.
+c) ambos estão incorretos, já que o Ministério Público somente pode defender interesses difusos e coletivos,
+não interesses individuais, quaisquer que sejam eles.
+d) somente Ismênio está correto, pois o Ministério Público apenas pode defender interesses individuais de
+natureza indisponível.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                        33
+        www.estrategiaconcursos.com.br                                                                      48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+e) ambos estarão corretos caso seja demonstrada a relevância social dos interesses e os respectivos titulares
+tiverem outorgado procuração ao Ministério Público.
+
+Comentários:
+
+I) Adenílton está errado. O Ministério Público não pode ajuizar ações judiciais para defender os interesses
+dos necessitados. Essa é uma competência da Defensoria Pública.
+
+II) Ismênio está correto. Segundo o art. 127, CF/88, “o Ministério Público é instituição permanente, essencial
+à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos
+interesses sociais e individuais indisponíveis”.
+
+O gabarito é a letra D.
+
+12.    (FGV / TJ-RJ – 2014) As funções essenciais à Justiça:
+a) estão subordinadas ao Poder Judiciário no plano funcional;
+b) são autônomas em relação ao Poder Judiciário;
+c) estão subordinadas ao Poder Judiciário no plano administrativo;
+d) são autônomas em relação ao Poder Judiciário e subordinadas ao Ministério da Justiça;
+e) estão subordinadas ao Poder Executivo exclusivamente no plano financeiro.
+
+Comentários:
+
+As funções essenciais à Justiça, desempenhadas por Ministério Público, Advocacia Pública, Advocacia e
+Defensoria Pública são autônomas. Não integram o Judiciário e não estão subordinadas a ele. O gabarito é
+a letra B.
+
+13.    (FGV / MPE-RJ – 2014) O Ministério Público, como órgão que desempenha funções fundamentais
+em um Estado Democrático de Direito, é incumbido da defesa da ordem jurídica, do regime democrático
+e dos interesses sociais e individuais indisponíveis. Como consequência da presente assertiva, fruto de
+interpretação literal do caput do artigo 127 da Constituição da República Brasileira, é INCORRETO afirmar
+que:
+a) o Ministério Público pode ser considerado como o guardião da sociedade, diante do perfil que lhe foi
+traçado constitucionalmente;
+b) na defesa dos interesses acima mencionados, o Ministério Público pode atuar judicial e
+extrajudicialmente, já que, além de outras razões, quem detém os fins, detém também os meios;
+c) as funções institucionais elencadas nos incisos constantes do caput do artigo 129 da Constituição da
+República Brasileira não devem apresentar incompatibilidades materiais com a norma estabelecida no citado
+artigo 127, caput, também da nossa Lex Fundamentalis;
+d) ao Ministério Público é autorizado também exercer a representação judicial e consultoria jurídica de
+outras entidades públicas, vez que este papel estaria em consonância com os termos do artigo 127, caput da
+Constituição da República Brasileira;
+e) em virtude dos interesses que protege, o Ministério Público deve obrigatoriamente atuar em ações penais
+e ações civis públicas.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       34
+        www.estrategiaconcursos.com.br                                                                     48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+Comentários:
+
+A letra A está correta. De fato, o Ministério Público pode ser considerado um guardião da sociedade. O art.
+127 da CF/88 prevê que o Ministério Público é instituição permanente, essencial à função jurisdicional do
+Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e
+individuais indisponíveis.
+
+A letra B está correta. Na defesa dos interesses da sociedade, o Ministério Público pode atuar tanto judicial
+quanto extrajudicialmente.
+
+A letra C está correta. As competências do Ministério Público previstas no art. 129 da CF/88 têm como
+fundamento a função do Parquet de defesa da ordem jurídica, do regime democrático e dos interesses sociais
+e individuais indisponíveis.
+
+A letra D está incorreta. O inciso IX do art. 129 da Constituição veda que o Ministério Público exerça a
+representação judicial e a consultoria jurídica de entidades públicas.
+
+A letra E está correta. Essas competências estão previstas nos incisos I e III do art. 129 da CF/88.
+
+A letra D é o gabarito da questão.
+
+14.    (FGV / PROCEMPA – 2014) O Presidente da República, após receber a proposta de previsão
+orçamentária do Ministério Público, verifica que ela não atende às regras de previsibilidade de despesas
+acoplada as receitas previstas e, ao enviar a proposta consolidada ao Congresso Nacional, realiza diversos
+cortes nas despesas previstas no projeto do Ministério Público.
+
+Nos termos da Constituição Federal, o Ministério Público
+a) poderá propor sua previsão orçamentária sem quaisquer limitações.
+b) terá como limite à sua proposta a Lei de Diretrizes Orçamentárias.
+c) será controlado pelo Poder Executivo, que, não concordando com a proposta, poderá seccioná-la.
+d) controlará o seu orçamento pela decisão da sua Chefia.
+e) apresentará sua proposta orçamentária em audiência pública.
+
+Comentários:
+
+A Carta Magna prevê, em seu art. 127, § 4º, que o Ministério Público elaborará sua proposta orçamentária
+dentro dos limites estabelecidos na lei de diretrizes orçamentárias. Não poderia ser diferente, uma vez que
+todo o orçamento deve obediência a esses limites. O gabarito é a letra B.
+
+15.    (FGV / SUDENE – 2013) O Ministério Público exerce função essencial à Justiça. Nos termos da
+Constituição Federal, o Chefe do Ministério Público da União é escolhido, dentre integrantes da carreira:
+a) pela maioria absoluta da Câmara dos Deputados com sanção do Presidente da República.
+b) por votação direta e secreta dos membros do Ministério Público, com aprovação do Senado Federal.
+c) por indicação dos órgãos de classe do Ministério Público, com nomeação do Presidente da República.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      35
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+d) por indicação do plenário do Senado, com aprovação do Presidente da República.
+e) pela Presidência da República, após aprovação do Senado Federal.
+
+Comentários:
+
+O Chefe do Ministério Público da União é o Procurador-Geral da República (PGR). O PGR é nomeado pelo
+Presidente da República dentre integrantes da carreira, maiores de 35 anos, após aprovação de seu nome
+pela maioria absoluta do Senado Federal. A resposta, portanto, é a letra E.
+
+16.    (FGV / TJ-AM – 2013) Junto ao Tribunal de Contas da União atua um Ministério Público
+especializado, com membros nomeados pelo Presidente da República após concurso público específico de
+provas e títulos, dotado de fisionomia institucional própria, submetido exclusivamente ao Procurador-
+Geral da República.
+
+Comentários:
+                                                         ==219a34==
+
+
+
+
+Segundo o STF, o Ministério Público junto ao TCU não possui fisionomia institucional própria. Ele integra a
+estrutura do próprio TCU e seus membros não estão submetidos ao Procurador-Geral da República. Questão
+errada.
+
+17.    (FGV / SEFAZ-RJ – 2011) A Constituição Brasileira dispõe que “o ministério público é instituição
+permanente, essencial à função jurisdicional do estado, incumbindo-lhe a defesa da ordem jurídica, do
+regime democrático e dos interesses sociais e individuais indisponíveis” (art. 127). Dentre os cargos abaixo,
+não integra o Ministério Público o:
+a) Procurador do estado.
+b) Procurador da república.
+c) Procurador de justiça.
+d) Promotor de justiça.
+e) Procurador do trabalho.
+
+Comentários:
+
+Dentre os cargos acima relacionados, o único que não faz parte do Ministério Público é o de Procurador do
+Estado, que é membro da Advocacia Pública. O Procurador da República é membro do MPF; o Promotor de
+Justiça, do MPE e MPDFT e; o Procurador do Trabalho, do MPT. A resposta é a letra A.
+
+18.    (FGV / BADESC – 2010) Considerando o estatuto constitucional do Ministério Público, analise as
+afirmativas a seguir.
+I. Os membros do Ministério Público gozam da garantia da vitaliciedade, após dois anos de exercício, não
+podendo perder o cargo, salvo por sentença transitada em julgado, ou por decisão do Conselho Nacional do
+Ministério Público em processo administrativo, garantido o contraditório e a ampla defesa.
+II. Algumas das vedações previstas na Constituição aos membros do Ministério Público são: o exercício de
+atividade político partidária; o exercício, ainda que em disponibilidade, de qualquer outra função pública,
+salvo uma de magistério; e a participação em sociedade comercial, na forma da lei.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      36
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+III. São funções institucionais do Ministério Público, dentre outras, o exercício do controle externo da
+atividade policial, na forma da lei complementar respectiva, e a requisição à polícia judiciária de diligências
+investigatórias e de instauração de inquérito policial, indicados os fundamentos jurídicos de suas
+manifestações processuais.
+Assinale:
+a) se somente a afirmativa I estiver correta.
+b) se somente as afirmativas I e II estiverem corretas.
+c) se somente as afirmativas I e III estiverem corretas.
+d) se somente as afirmativas II e III estiverem corretas.
+e) se todas as afirmativas estiverem corretas.
+
+Comentários:
+
+A primeira assertiva está errada. A vitaliciedade é garantia dos membros do Ministério Público, adquirida
+após 2 anos de efetivo exercício. Uma vez tendo adquirido a vitaliciedade, o membro do Ministério Público
+somente pode perder o seu cargo mediante sentença judicial transitada em julgado. O CNMP não pode
+decidir pela perda do cargo.
+
+A segunda assertiva está correta. Todas essas são vedações aplicáveis aos membros do Ministério Público,
+conforme art. art. 128, § 5º, III.
+
+A terceira assertiva está correta. Compete ao Ministério Público exercer o controle externo da atividade
+policial e requisitar à polícia judiciária diligências investigatórias e instauração de inquérito policial.
+
+19.     (FGV / TJ-AM – 2013) A Constituição da República Federativa do Brasil estabelece o Ministério
+Público, a Advocacia Pública, a Advocacia e a Defensoria Pública como funções essenciais à Justiça. Em
+relação ao Ministério Público, a Constituição reconhece, explicitamente, como seus princípios
+institucionais:
+a) a indivisibilidade, a soberania e a imparcialidade.
+b) a unidade, a imparcialidade e o sigilo de suas deliberações e decisões.
+c) a unidade, a indivisibilidade e a independência funcional.
+d) a independência funcional, a imparcialidade e a unidade.
+e) a soberania, a imparcialidade e a unidade.
+
+Comentários:
+
+São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional
+(art. 127, § 1º). A resposta é a letra C.
+
+20.   (FGV / OAB – 2012) A respeito dos Procuradores-Gerais de Justiça nos Estados e no Distrito Federal,
+é INCORRETO afirmar que
+a) podem ser destituídos pela Assembleia Legislativa (nos Estados) e pela Câmara Legislativa (no Distrito
+Federal).
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                        37
+        www.estrategiaconcursos.com.br                                                                      48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+b) podem ser reconduzidos somente uma vez.
+c) devem ser integrantes da carreira e exercem o cargo por mandato de dois anos.
+d) são nomeados pelo Governador (nos Estados) e pelo Presidente da República (no Distrito Federal).
+
+Comentários:
+
+Letra A: errada. A destituição do Procurador-Geral de Justiça no Distrito Federal depende de deliberação da
+maioria absoluta do Senado Federal. Isso porque o MPDFT integra o Ministério Público da União.
+
+Letra B: correta. De fato, os Procuradores-Gerais de Justiça podem ser reconduzidos apenas uma vez. É
+diferente do Procurador-Geral da República, que pode ser reconduzido sucessivas vezes.
+
+Letra C: correta. Os Procuradores-Gerais de Justiça são integrantes da carreira e exercem o mandato por 2
+anos.
+
+Letra D: correta. A nomeação dos Procuradores-Gerais de Justiça nos Estados compete aos Governadores. A
+nomeação dos Procuradores-Gerais de Justiça no Distrito Federal é competência do Presidente da República.
+
+21.    (FGV / TJ-PA – 2009) As alternativas a seguir apresentam funções institucionais do Ministério
+Público, à exceção de uma. Assinale-a.
+a) Exercer o controle externo da atividade policial, podendo avocar a presidência de inquérito policial,
+quando verificado desvio de poder por parte da autoridade policial competente.
+b) Promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos
+Estados, nos casos previstos na Constituição.
+c) Expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e
+documentos para instruí-los, na forma da lei complementar respectiva.
+d) Promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio
+ambiente e de outros interesses difusos e coletivos.
+e) Defender judicialmente os direitos e interesses das populações indígenas.
+
+Comentários:
+
+Letra A: errada. De fato, o Ministério Público tem como atribuição exercer o controle externo da atividade
+policial. No entanto, essa instituição não pode avocar a presidência de inquérito policial.
+
+Letra B: correta. É exatamente o que dispõe o art. 129, IV, CF. O Procurador-Geral da República é um dos
+legitimados para ingressar com Ação Direta de Inconstitucionalidade e Ação Declaratória de
+Constitucionalidade junto ao STF. O Procurador-Geral da República também pode promover representação
+interventiva junto ao STF.
+
+Letra C: correta. Essa é uma atribuição prevista no art. 129, VI, CF.
+
+Letra D: correta. O Ministério Público tem competência para promover o inquérito civil e a ação civil pública
+(art. 129, III, CF).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      38
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+Letra E: correta. Segundo o art. 129, V, é atribuição do Ministério Público defender judicialmente os direitos
+e interesses das populações indígenas.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       39
+        www.estrategiaconcursos.com.br                                                                     48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+
+                                       LISTA DE QUESTÕES
+
+Ministério Público
+
+1.     (FGV/TJ-DFT – 2022) A estrutura administrativa do Estado brasileiro possui peculiaridades
+constitucionalmente definidas considerando-se os poderes independentes, suas atribuições e funções. A
+esse respeito, é uma atribuição do Ministério Público:
+
+a) defender a ordem jurídica, o regime democrático e os interesses no âmbito dos direitos sociais e coletivos,
+independentemente de provocação;
+
+b) propor leis ao Congresso, entre elas o orçamento anual, editar, em casos de emergência, medidas
+provisórias que têm de imediato o valor de leis;
+
+c) realizar atividade jurisdicional de resolução de conflitos mediante provocação das partes;
+
+d) representar o país internacionalmente e manter relações e tratados com países estrangeiros;
+
+e) ser o guardião da Constituição, julgando ações diretas de inconstitucionalidade ou ações contra membros
+dos demais Poderes da União.
+
+2.    (FGV/MP-GO – 2022) Analisando o Ministério Público de Goiás sob a ótica da organização
+administrativa, temática que estuda a estrutura da Administração Pública, é correto afirmar que ele é
+um exemplo de:
+
+a) órgão público.
+
+b) poder constitucional.
+
+c) secretaria de governo.
+
+d) entidade administrativa.
+
+e) pessoa jurídica de direito público externo.
+
+3.     (FGV/MP-GO – 2022) O Governador do Estado Alfa consultou sua assessoria a respeito da
+possibilidade de encaminhar uma proposição à Assembleia Legislativa visando à alteração da Lei Orgânica
+do Ministério Público do respectivo Estado. A assessoria respondeu corretamente que o Governador
+do Estado:
+
+a) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei complementar nacional.
+
+b) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       40
+        www.estrategiaconcursos.com.br                                                                     48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+c) não está legitimado, de modo que apenas o Procurador-Geral de Justiça pode apresentar o projeto de lei
+complementar, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+d) está legitimado, juntamente com o Procurador-Geral de Justiça, para apresentar o projeto de lei ordinária,
+que deve se harmonizar às normas gerais veiculadas na lei complementar nacional.
+
+e) não está legitimado, de modo que apenas o Procurador-Geral de Justiça pode apresentar o projeto de lei
+ordinária, que deve se harmonizar às normas gerais veiculadas na lei ordinária nacional.
+
+4.     (FGV/TCE-AM – 2021) O Ministério Público do Estado Alfa, após regular tramitação interna,
+elaborou a sua proposta orçamentária e encaminhou o respectivo projeto de lei à Assembleia Legislativa,
+que deliberou pela sua rejeição por vício de iniciativa.
+
+À luz da sistemática constitucional, a deliberação da Assembleia Legislativa foi:
+
+a) incorreta, desde que a iniciativa, pelo Ministério Público, tenha sido autorizada pelo Poder Executivo;
+
+b) correta, pois a iniciativa do processo legislativo, na temática descrita na narrativa, é privativa do Poder
+Executivo;
+
+c) correta, considerando que o Ministério Público é órgão do Poder Executivo, logo, apenas este último
+detém o poder de iniciativa legislativa;
+
+d) incorreta, pois a iniciativa do processo legislativo somente é transferida ao Poder Executivo caso o
+Ministério Público não observe o prazo constitucional;
+
+e) incorreta, pois o Ministério Público possui autonomia financeira, logo, tem legitimidade para submeter
+sua proposta orçamentária ao Poder Legislativo.
+
+5.    (FGV / DPE-RJ – 2019) Adélia praticou uma infração penal e, após amplas investigações, a instituição
+com atribuição constitucional ajuizou uma ação penal em face dela. Essa instituição é:
+
+a) o Ministério Público;
+
+b) a Defensoria Pública;
+
+c) a Procuradoria-Geral do Estado;
+
+d) a Polícia Judiciária;
+
+e) o Poder Judiciário.
+
+6.     (FGV / AL-RO – 2018) O Juiz de Direito da Comarca Alfa, ao receber a denúncia oferecida pelo
+Ministério Público em face de Antônio, pela prática de crime contra o patrimônio, entendeu que as provas
+colhidas na investigação criminal apontavam para a existência de um coautor para a infração penal, João,
+sobre o qual a inicial acusatória não fazia qualquer menção. Por tal razão, expediu determinação para que
+o Promotor de Justiça aditasse a denúncia para nela incluir João.
+
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional                                        41
+         www.estrategiaconcursos.com.br                                                                      48
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+À luz da sistemática constitucional afeta ao Ministério Público, é correto afirmar que a referida
+determinação
+
+a) não está em harmonia com a ordem constitucional, por força do princípio da inamovibilidade.
+
+b) está em harmonia com a ordem constitucional, desde que confirmada pelo Tribunal de Justiça.
+
+c) está em harmonia com a ordem constitucional, por força do direito fundamental de acesso à justiça.
+
+d) não está em harmonia com a ordem constitucional, por força do princípio da independência funcional.
+
+e) não está em harmonia com a ordem constitucional, por força do princípio do convencimento motivado.
+
+7.      (FGV / ALE-RJ–Procurador – 2017) CWW, político de grande prestígio em certo Município do Estado,
+não concordava com a forma de atuação do Promotor de Justiça da Comarca, já que ela resultara no
+ajuizamento de diversas ações que estavam comprometendo a sua imagem. O caso foi levado ao
+conhecimento do Procurador-Geral de Justiça, que recebeu de CWW a solicitação de que o Promotor de
+Justiça, titular há vários anos na Comarca, fosse dela removido compulsoriamente.
+
+À luz dos dados fornecidos e da sistemática constitucional, é correto afirmar que a solicitação formulada:
+
+a) deve ser apreciada pelo órgão colegiado competente, que só pode deferi-la por motivo de interesse
+público;
+
+b) jamais poderia ser atendida, pois a ordem constitucional assegura a garantia da inamovibilidade;
+
+c) poderia ser livremente apreciada pelo Procurador-Geral de Justiça, Chefe do Ministério Público estadual;
+
+d) deveria ser endereçada diretamente ao Conselho Nacional do Ministério Público, único órgão competente
+para apreciá-la;
+
+e) é livremente apreciada pelo órgão ao qual a normatização infraconstitucional atribuiu competência.
+
+8.      (FGV / MPE-RJ – 2016) Pedro e Arnaldo estavam insatisfeitos com a atuação de determinado
+membro do Ministério Público, lotado há muitos anos na Comarca, que frequentemente se contrapunha
+aos interesses prestigiados pelas oligarquias locais. Procuraram, portanto, um influente político do Estado
+e solicitaram que o referido Promotor de Justiça fosse removido, sob o argumento de que sua atuação era
+prejudicial ao interesse público. À luz da sistemática constitucional e dos dados informados, esse membro
+do Ministério Público:
+
+a) pode ser removido, por decisão do colegiado competente do Ministério Público, se presentes os requisitos
+constitucionais;
+
+b) não pode ser removido em nenhuma hipótese, o que decorre da garantia da inamovibilidade;
+
+c) pode ser livremente removido, o que decorre do princípio hierárquico, que caracteriza a Administração
+Pública;
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     42
+        www.estrategiaconcursos.com.br                                                                   48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+d) somente pode ser removido por decisão do Poder Judiciário, o que decorre da inafastabilidade da tutela
+jurisdicional;
+
+e) somente pode ser removido por decisão do Procurador-Geral de Justiça, que chefia a instituição.
+
+9.      (FGV / MPE-RJ – 2016) Odésio, servidor do Ministério Público Estadual, apesar de plenamente
+realizado em sua profissão, tinha o sonho de ser vereador. Para realizá-lo, filiou-se a um partido político
+e participou regularmente de inúmeras reuniões. Na eleição, o seu esforço foi compensado e o sonho
+realizado, sendo eleito vereador do seu Município. Apesar da sua alegria, foi informado por um amigo
+que, para tomar posse como vereador, teria que pedir exoneração do cargo público que ocupava,
+informação esta que, no seu entender, não estaria correta.
+
+À luz dessa narrativa e da sistemática adotada pela Constituição da República Federativa do Brasil, é
+correto afirmar que Odésio, caso não pedisse exoneração do Ministério Público Estadual:
+
+a) teria que, necessariamente, ser afastado do cargo efetivo assim que tomasse posse como vereador;
+
+b) poderia tomar posse no cargo de vereador, mas teria que, necessariamente, optar pela remuneração de
+um dos cargos;
+
+c) poderia ser empossado vereador e, havendo compatibilidade de horários, receberia ambas as
+remunerações;
+
+d) não poderia tomar posse no cargo de vereador, já que vedada a acumulação de cargos;
+
+e) não poderia tomar posse como vereador, exceto se renunciasse à remuneração do cargo efetivo.
+
+10.     (FGV / ISS-Cuiabá – 2016) Arnaldo, cidadão brasileiro, narrou ao órgão com atribuição do
+Ministério Público três situações fáticas listadas a seguir, cujos efeitos se projetavam sobre ele e
+solicitou a adoção das providências necessárias à sua superação.
+
+Fato I: o único vizinho de Arnaldo, uma vez por semana, escutava, por trinta minutos, músicas com o som
+elevado, que superava em muito os limites tidos como toleráveis;
+
+Fato II: uma indústria existente na cidade de Arnaldo despejou resíduos tóxicos no único rio da região,
+causando grande mortandade de peixes e impedindo o uso da água pela população;
+
+Fato III: outra indústria havia comercializado, exclusivamente na cidade de Arnaldo, um produto impróprio
+para o consumo, causando danos variados a todos os seus adquirentes.
+
+Com base no caso descrito, à luz das atribuições constitucionais de natureza extrapenal do Ministério Público
+e das características dos interesses envolvidos, assinale a afirmativa correta.
+
+a) Todos os fatos poderiam ser investigados pelo Ministério Público, isso por se enquadrarem sob a epígrafe
+dos interesses individuais e coletivos de natureza indisponível.
+
+b) Somente os fatos II e III poderiam ser investigados pelo Ministério Público, pois têm, respectivamente,
+natureza de interesses difusos e de interesses coletivos.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                          43
+        www.estrategiaconcursos.com.br                                                                        48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+c) Nenhum dos fatos poderia ser investigado pelo Ministério Público, já que Arnaldo, por ser cidadão, teria
+legitimidade para o ajuizamento da ação popular.
+
+d) Somente os fatos I e II, isso por violarem o meio ambiente, tendo natureza essencialmente difusa,
+poderiam ser investigados pelo Ministério Público.
+
+e) Somente os fatos I e III poderiam ser investigados pelo Ministério Público, pois somente nesses casos seria
+possível identificar as vítimas dos ilícitos.
+
+11.    (FGV / Prefeitura de Cuiabá – 2015) Adenílton e Ismênio, estudantes de Direito, travaram
+intenso debate a respeito das atribuições constitucionais do Ministério Público. Apesar de ambos
+defenderem a importância da Instituição e a amplitude de suas atribuições, não chegaram a um
+consenso a respeito das situações concretas em que a atuação seria possível.
+
+Adenílton sustentava que o Ministério Público, como guardião da ordem jurídica, poderia defender os
+interesses dos necessitados, ajuizando ações judiciais em nome daqueles que não pudessem pagar
+advogado. Ismênio, por sua vez, entendia que o Ministério Público poderia defender interesses
+individuais, desde que fossem indisponíveis.
+
+À luz da sistemática constitucional, é correto afirmar que
+
+a) ambos estão corretos, já que, no exercício da atribuição de “defesa da ordem jurídica", está incluída a
+tutela dos interesses individuais, disponíveis ou indisponíveis.
+
+b) somente Adenílton está correto, pois o Ministério Público pode defender interesses individuais dos
+necessitados, mas não interesses de pessoas não necessitadas.
+
+c) ambos estão incorretos, já que o Ministério Público somente pode defender interesses difusos e coletivos,
+não interesses individuais, quaisquer que sejam eles.
+
+d) somente Ismênio está correto, pois o Ministério Público apenas pode defender interesses individuais de
+natureza indisponível.
+
+e) ambos estarão corretos caso seja demonstrada a relevância social dos interesses e os respectivos titulares
+tiverem outorgado procuração ao Ministério Público.
+
+12.    (FGV / TJ-RJ – 2014) As funções essenciais à Justiça:
+
+a) estão subordinadas ao Poder Judiciário no plano funcional;
+
+b) são autônomas em relação ao Poder Judiciário;
+
+c) estão subordinadas ao Poder Judiciário no plano administrativo;
+
+d) são autônomas em relação ao Poder Judiciário e subordinadas ao Ministério da Justiça;
+
+e) estão subordinadas ao Poder Executivo exclusivamente no plano financeiro.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                       44
+        www.estrategiaconcursos.com.br                                                                     48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+13.     (FGV / MPE-RJ – 2014) O Ministério Público, como órgão que desempenha funções
+fundamentais em um Estado Democrático de Direito, é incumbido da defesa da ordem jurídica, do
+regime democrático e dos interesses sociais e individuais indisponíveis. Como consequência da
+presente assertiva, fruto de interpretação literal do caput do artigo 127 da Constituição da República
+Brasileira, é INCORRETO afirmar que:
+
+a) o Ministério Público pode ser considerado como o guardião da sociedade, diante do perfil que lhe foi
+traçado constitucionalmente;
+
+b) na defesa dos interesses acima mencionados, o Ministério Público pode atuar judicial e
+extrajudicialmente, já que, além de outras razões, quem detém os fins, detém também os meios;
+
+c) as funções institucionais elencadas nos incisos constantes do caput do artigo 129 da Constituição da
+República Brasileira não devem apresentar incompatibilidades materiais com a norma estabelecida no citado
+artigo 127, caput, também da nossa Lex Fundamentalis;
+
+d) ao Ministério Público é autorizado também exercer a representação judicial e consultoria jurídica de
+outras entidades públicas, vez que este papel estaria em consonância com os termos do artigo 127, caput da
+Constituição da República Brasileira;
+
+e) em virtude dos interesses que protege, o Ministério Público deve obrigatoriamente atuar em ações penais
+e ações civis públicas.
+
+14.     (FGV / PROCEMPA – 2014) O Presidente da República, após receber a proposta de previsão
+orçamentária do Ministério Público, verifica que ela não atende às regras de previsibilidade de
+despesas acoplada as receitas previstas e, ao enviar a proposta consolidada ao Congresso Nacional,
+realiza diversos cortes nas despesas previstas no projeto do Ministério Público.
+
+Nos termos da Constituição Federal, o Ministério Público
+
+a) poderá propor sua previsão orçamentária sem quaisquer limitações.
+
+b) terá como limite à sua proposta a Lei de Diretrizes Orçamentárias.
+
+c) será controlado pelo Poder Executivo, que, não concordando com a proposta, poderá seccioná-la.
+
+d) controlará o seu orçamento pela decisão da sua Chefia.
+
+e) apresentará sua proposta orçamentária em audiência pública.
+
+15.    (FGV / SUDENE – 2013) O Ministério Público exerce função essencial à Justiça. Nos termos da
+Constituição Federal, o Chefe do Ministério Público da União é escolhido, dentre integrantes da
+carreira:
+
+a) pela maioria absoluta da Câmara dos Deputados com sanção do Presidente da República.
+
+b) por votação direta e secreta dos membros do Ministério Público, com aprovação do Senado Federal.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                     45
+        www.estrategiaconcursos.com.br                                                                   48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+c) por indicação dos órgãos de classe do Ministério Público, com nomeação do Presidente da República.
+
+d) por indicação do plenário do Senado, com aprovação do Presidente da República.
+
+e) pela Presidência da República, após aprovação do Senado Federal.
+
+16.    (FGV / TJ-AM – 2013) Junto ao Tribunal de Contas da União atua um Ministério Público
+especializado, com membros nomeados pelo Presidente da República após concurso público específico
+de provas e títulos, dotado de fisionomia institucional própria, submetido exclusivamente ao
+Procurador-Geral da República.
+17.    (FGV / SEFAZ-RJ – 2011) A Constituição Brasileira dispõe que “o ministério público é instituição
+permanente, essencial à função jurisdicional do estado, incumbindo-lhe a defesa da ordem jurídica, do
+regime democrático e dos interesses sociais e individuais indisponíveis” (art. 127). Dentre os cargos
+abaixo, não integra o Ministério Público o:
+                                                         ==219a34==
+
+
+
+
+a) Procurador do estado.
+
+b) Procurador da república.
+
+c) Procurador de justiça.
+
+d) Promotor de justiça.
+
+e) Procurador do trabalho.
+
+18.    (FGV / BADESC – 2010) Considerando o estatuto constitucional do Ministério Público, analise as
+afirmativas a seguir.
+
+I. Os membros do Ministério Público gozam da garantia da vitaliciedade, após dois anos de exercício, não
+podendo perder o cargo, salvo por sentença transitada em julgado, ou por decisão do Conselho Nacional do
+Ministério Público em processo administrativo, garantido o contraditório e a ampla defesa.
+
+II. Algumas das vedações previstas na Constituição aos membros do Ministério Público são: o exercício de
+atividade político partidária; o exercício, ainda que em disponibilidade, de qualquer outra função pública,
+salvo uma de magistério; e a participação em sociedade comercial, na forma da lei.
+
+III. São funções institucionais do Ministério Público, dentre outras, o exercício do controle externo da
+atividade policial, na forma da lei complementar respectiva, e a requisição à polícia judiciária de diligências
+investigatórias e de instauração de inquérito policial, indicados os fundamentos jurídicos de suas
+manifestações processuais.
+
+Assinale:
+
+a) se somente a afirmativa I estiver correta.
+
+b) se somente as afirmativas I e II estiverem corretas.
+
+c) se somente as afirmativas I e III estiverem corretas.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                        46
+        www.estrategiaconcursos.com.br                                                                      48
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Direito Constitucional Estratégia Concursos
+  Aula 14
+
+
+
+d) se somente as afirmativas II e III estiverem corretas.
+
+e) se todas as afirmativas estiverem corretas.
+
+19.     (FGV / TJ-AM – 2013) A Constituição da República Federativa do Brasil estabelece o Ministério
+Público, a Advocacia Pública, a Advocacia e a Defensoria Pública como funções essenciais à Justiça. Em
+relação ao Ministério Público, a Constituição reconhece, explicitamente, como seus princípios
+institucionais:
+
+a) a indivisibilidade, a soberania e a imparcialidade.
+
+b) a unidade, a imparcialidade e o sigilo de suas deliberações e decisões.
+
+c) a unidade, a indivisibilidade e a independência funcional.
+
+d) a independência funcional, a imparcialidade e a unidade.
+
+e) a soberania, a imparcialidade e a unidade.
+
+20.   (FGV / OAB – 2012) A respeito dos Procuradores-Gerais de Justiça nos Estados e no Distrito
+Federal, é INCORRETO afirmar que
+
+a) podem ser destituídos pela Assembleia Legislativa (nos Estados) e pela Câmara Legislativa (no Distrito
+Federal).
+
+b) podem ser reconduzidos somente uma vez.
+
+c) devem ser integrantes da carreira e exercem o cargo por mandato de dois anos.
+
+d) são nomeados pelo Governador (nos Estados) e pelo Presidente da República (no Distrito Federal).
+
+21.    (FGV / TJ-PA – 2009) As alternativas a seguir apresentam funções institucionais do Ministério
+Público, à exceção de uma. Assinale-a.
+
+a) Exercer o controle externo da atividade policial, podendo avocar a presidência de inquérito policial,
+quando verificado desvio de poder por parte da autoridade policial competente.
+
+b) Promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos
+Estados, nos casos previstos na Constituição.
+
+c) Expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e
+documentos para instruí-los, na forma da lei complementar respectiva.
+
+d) Promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio
+ambiente e de outros interesses difusos e coletivos.
+
+e) Defender judicialmente os direitos e interesses das populações indígenas.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional                                      47
+        www.estrategiaconcursos.com.br                                                                    48
+
+                                      https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,338 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 07_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Maurício
+---
+
+# Maurício
+
+Aula 06
+                          Receita Federal (Analista Tributário)
+                         Direito Previdenciário - Prof. Rubens
+                                                      Maurício
+
+                                                        Autor:
+                                     Rubens Mauricio Corrêa
+
+                                         08 de Setembro de 2025
+
+---
+
+      Rubens Mauricio Corrêa
+      Aula 06
+
+                                                                                     Índice
+1) Dependentes do RGPS - Simplificado
+
+                Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício                                                                                      2
+                www.estrategiaconcursos.com.br                                                                                                                                           16
+
+                                                             
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    DEPENDENTES DO REGIME GERAL DE PREVIDÊNCIA
+
+    INTRODUÇÃO
+
+          •
+
+          •
+
+
+          •
+
+    PRESTAÇÕES DEVIDAS AOS DEPENDENTES
+
+
+          •
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício   1   3
+      www.estrategiaconcursos.com.br                                                         13 16
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          •
+          •
+
+    DEPENDENTES DE CLASSE I (PREFERENCIAIS)
+
+    CÔNJUGE
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             2   4
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPANHEIROS
+
+          •
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             3   5
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPANHEIROS HOMOSSEXUAIS
+
+    CONCUBINATO
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             4   6
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    FILHOS
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             5   7
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             6   8
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    EQUIPARADOS A FILHOS
+
+          •
+          •
+          •
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             7   9
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+          •
+          •
+          •
+
+    PENDENTES DE CLASSE II (PAIS)
+
+    PAIS
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             8 10
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+    DEPENDENTES DE CLASSE III (IRMÃOS)
+
+    IRMÃOS
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             9 11
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    COMPROVAÇÃO DO VÍNCULO E DEPENDÊNCIA ECONÔMICA
+
+                                                       ==219a34==
+
+    REGRAS APLICÁVEIS AOS DEPENDENTES
+
+          •
+
+
+                 o
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             10 12
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+                 o
+
+          •
+
+                 o
+
+
+                 o
+
+                 o
+
+          •
+
+
+          •
+
+
+                 o
+
+          •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             11 13
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    PERDA DA QUALIDADE DE DEPENDENTE
+
+
+          •
+
+          •
+
+          •
+
+                  o
+                  o
+                  o
+
+
+                  o
+
+          •
+
+                  o
+
+                  o
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             12 14
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Rubens Mauricio Corrêa
+Aula 06
+
+    INSCRIÇÃO DOS DEPENDENTES
+
+              •
+                       o
+                       o
+
+                       o
+
+              •
+
+              •
+
+      Receita Federal (Analista Tributário) Direito Previdenciário - Prof. Rubens Maurício
+                                                                                             13 15
+                                                                                             13 16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+---

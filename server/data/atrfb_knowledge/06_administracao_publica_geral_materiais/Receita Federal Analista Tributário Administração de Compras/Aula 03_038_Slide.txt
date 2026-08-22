@@ -1,0 +1,366 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+COMPRAS
+VUNESP - I
+
+                                                  Prof. Ricardo Campanario
+
+
+
+
+             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (VUNESP/TJ SP/Administrador Judiciário/2019) Para a adequada aplicação de
+     técnicas de previsões, é importante identificar a sua natureza. Quando são observados
+     produtos que estão entrando ou saindo de uma linha de produção, que são procurados
+     por poucos clientes, divididos, entre um número excessivo de localizações de tal forma
+     que a demanda em cada uma delas é baixa, sendo considerada intermitente. Essa
+     natureza é classificada como demanda:
+     a) independente.
+     b) temporal.
+     c) dependente.
+     d) irregular.
+     e) espacial.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Consumo Irregular
+       ❑ O consumo irregular tem por característica a utilização de materiais em quantidades aleatórias,
+         por meio de grande variação entre sucessivos intervalos de tempo.
+
+       ❑ Observe na figura abaixo o comportamento de consumo de dois materiais (consumo efetivo),
+         ambos de caráter irregular ao longo do mesmo período observado não permitindo sequer a
+         observação de um consumo médio regular ou tendencial.
+
+
+
+
+             Quando o material ou produto tem
+             procura baixa e por poucos clientes,
+             dividida em diferentes localizações e
+             de caráter intermitente, é considerada
+             irregular.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (VUNESP/TJ SP/Administrador Judiciário/2019) Para a adequada aplicação de
+     técnicas de previsões, é importante identificar a sua natureza. Quando são observados
+     produtos que estão entrando ou saindo de uma linha de produção, que são procurados
+     por poucos clientes, divididos, entre um número excessivo de localizações de tal forma
+     que a demanda em cada uma delas é baixa, sendo considerada intermitente. Essa
+     natureza é classificada como demanda:
+     a) independente.
+     b) temporal.             Quando o material ou produto tem procura baixa e por poucos
+     c) dependente.           clientes, dividida em diferentes localizações e de caráter intermitente,
+     d) irregular.            é considerada irregular.
+
+     e) espacial.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Municipal de São José dos Campos-SP/Analista em Gestão
+     Municipal/2012) A qualificação de fornecedores, com o fim de facilitar o julgamento de
+     seu empenho, envolve conhecimentos técnicos e comerciais a respeito do assunto. Para
+     qualificar fornecedores, é preciso verificar as seguintes condições: a estrutura
+     organizacional do fornecedor; o planejamento, o controle e as melhorias da qualidade
+     do fornecedor, o processo, as instalações e os laboratórios do fornecedor; a capacidade
+     de atendimento comercial do fornecedor; os recursos de pessoal do fornecedor; e:
+     a) o interesse dos acionistas na negociação com o fornecedor.
+     b) o planejamento estratégico do fornecedor.
+     c) a situação financeira do fornecedor.
+     d) a situação produtiva dos fornecedores do fornecedor.
+     e) a aceitação das regras impostas pelo fornecedor.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (VUNESP/Pref. Municipal de São José dos Campos-SP/Analista em Gestão
+     Municipal/2012) A qualificação de fornecedores, com o fim de facilitar o julgamento de
+     seu empenho, envolve conhecimentos técnicos e comerciais a respeito do assunto. Para
+     qualificar fornecedores, é preciso verificar as seguintes condições: a estrutura
+     organizacional do fornecedor; o planejamento, o controle e as melhorias da qualidade
+     do fornecedor, o processo, as instalações e os laboratórios do fornecedor; a capacidade
+     de atendimento comercial do fornecedor; os recursos de pessoal do fornecedor; e:
+     a) o interesse dos acionistas na negociação com o fornecedor.
+     b) o planejamento estratégico do fornecedor.
+     c) a situação financeira do fornecedor.
+     d) a situação produtiva dos fornecedores do fornecedor.
+     e) a aceitação das regras impostas pelo fornecedor.
+     GABARITO - C              Há inúmeras formas de como se deve avaliar um fornecedor. De forma geral todas se dividem em relação a avaliação
+                                            técnica (corpo técnico, recursos, capacidade produtiva, máquinas e equipamentos, etc.) e a avaliação administrativa
+                                            (staff do fornecedor, procedimentos, reputação no mercado, etc.).
+
+                                            Entre os itens da avaliação administrativa certamente está a capacidade financeira ou a confiabilidade do fornecedor, ou
+                                            seja, a verificação da solidez financeira no fornecedor a ponto de inspirar confiança na manutenção de relacionamento
+Administração de Materiais para Concursos   duradouro. Lembre-se que um dos objetivos da área de compras é prover fornecimento contínuo e trocar de
+Prof. Ricardo Campanario                    fornecedor a todo momento não é indicado.
+                                                       https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (VUNESP/UFABC/Assistente Administração/2019) Avaliar a necessidade de aquisição
+     de suprimentos e equipamentos, evitando a compra de bens desnecessários ou
+     inadequados, é função da:
+     a) Avaliação Contábil.
+     b) Auditoria Patrimonial.
+     c) Análise Financeira.
+     d) Análise Patrimonial.
+     e) Auditoria Contábil.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Cuidado com os conceitos!
+       Avaliação Patrimonial Contábil: baseia-se nas demonstrações financeiras da empresa, na sua contabilidade ou nos
+       seus números contábeis, que resultam no balanço patrimonial da instituição.
+       Auditoria Patrimonial: tem por objetivo na verdade, examinar os controles administrativos e contábeis, a situação e
+       condições existentes, bem como a verificação física e localização dos bens móveis e imóveis.
+       Análise Patrimonial Financeira: baseia-se nos dados econômico e financeiros da empresa/organização, com o
+       objetivo de oferecer um diagnóstico sobre a real situação econômica e financeira da instituição.
+       Análise Patrimonial: é uma das principais ferramentas para auxiliar a tomadas de decisões de gestores, investidores
+       e credores. Por meio desta análise avalia-se a necessidade de aquisição de suprimentos e equipamentos. Ainda
+       nesse contexto, é possível evitar a aquisição desnecessária e inadequada de novos ativos, atuando na direção da
+       eficiência geral da organização. A gestão de toda a cadeia de suprimentos e, portanto, a avaliação da necessidade
+       de aquisição de suprimentos e equipamentos, evitando a compra de bens desnecessários ou inadequados, é função
+       típica da análise patrimonial.
+       Auditoria Contábil: compreende o exame de documentos, livros contábeis, registros, além de realização de
+       inspeções e obtenção de informações de fontes internas e externas, tudo relacionado com o controle do patrimônio
+       da entidade auditada. Permite atestar a precisão dos registros contábeis, identificar falhas de controle ou mesmo
+       fraudes e irregularidades na gestão.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (VUNESP/UFABC/Assistente Administração/2019) Avaliar a necessidade de aquisição
+     de suprimentos e equipamentos, evitando a compra de bens desnecessários ou
+     inadequados, é função da:
+     a) Avaliação Contábil.
+     b) Auditoria Patrimonial.
+     c) Análise Financeira.
+     d) Análise Patrimonial.
+     e) Auditoria Contábil.
+     GABARITO - D
+
+        A gestão de toda a cadeia de suprimentos e, portanto, a
+        avaliação da necessidade de aquisição de suprimentos e
+        equipamentos, evitando a compra de bens desnecessários ou
+        inadequados, é função típica da análise patrimonial.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) A requisição de compra é utilizada para:
+     a) solicitar a aquisição de um determinado item para a reposição de estoque.
+     b) negociar estoque em consignação sempre que possível.
+     c) adotar técnicas de produção e desburocratizar o serviço de compras.
+     d) detectar o estoque de segurança e o tempo de reposição do material.
+     e) apontar a rotatividade do estoque e o custo de armazenagem do material.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Solicitação (ou Requisição) de Compras
+
+        Algumas etapas constituem o processo de Operação de Compras. São elas:
+        solicitação de compras, a coleta de preços (cotações), e o pedido e acompanhamento
+        das compras.
+
+       ❑ A solicitação de compras é o documento que autoriza o comprador a executar uma
+         compra, aplicando-se tanto a materiais produtivos como improdutivos.
+       ❑ É o documento que informa o que se deve comprar, a quantidade, o prazo e o local
+         de entrega e, eventualmente, prováveis fornecedores.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Solicitação (ou Requisição) de Compras
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) A requisição de compra é utilizada para:
+     a) solicitar a aquisição de um determinado item para a reposição de estoque.
+     b) negociar estoque em consignação sempre que possível.
+     c) adotar técnicas de produção e desburocratizar o serviço de compras.
+     d) detectar o estoque de segurança e o tempo de reposição do material.
+     e) apontar a rotatividade do estoque e o custo de armazenagem do material.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Aumento repentino de demanda, demora
+     no procedimento de pedido de compra e atrasos de entrega pelo fornecedor são falhas
+     mais críticas no procedimento de:
+     a) inventário anual.
+     b) inventário rotativo.
+     c) contabilização do produto.
+     d) reposição de estoque.
+     e) avaliação de custos.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (VUNESP/Pref. Arujá-SP/Almoxarife/2015) Aumento repentino de demanda, demora
+     no procedimento de pedido de compra e atrasos de entrega pelo fornecedor são falhas
+     mais críticas no procedimento de:
+     a) inventário anual.
+     b) inventário rotativo.               São todas variáveis que impactam o processo de reposição do
+                                           estoque.
+     c) contabilização do produto.
+     d) reposição de estoque.              Demandas inesperadas, demoras na colocação dos pedidos de
+                                           compra ou atrasos na entrega dos fornecedores são potenciais
+     e) avaliação de custos.
+                                           problemas para a continuidade da atividade produtiva da
+     GABARITO - D                          organização pois podem levar a “quebra” de estoque (fim dos
+                                                        materiais ou matérias primas disponíveis), paralisando a
+                                                        produção.
+                                                        Nestes casos o estoque de segurança é provavelmente
+                                                        acionado.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (VUNESP/FITO/Técnico em Gestão/2020) A nota fiscal__________ simplifica o
+     controle de movimentação_______ e permite comprovar__________ em caso de
+     fiscalização da Receita Federal. Assinale a alternativa que completa, respectivamente, as
+     lacunas do texto com os conceitos corretos:
+     a) de remessa … de mercadorias … a procedência da carga.
+     b) de exportação … de estoque … o imposto devido.
+     c) de devolução … de serviços … o ICMS.
+     d) de compra … de produtos acabados … o ISS.
+     e) complementar … de produtos em trânsito … o pagamento de imposto já realizado.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (VUNESP/FITO/Técnico em Gestão/2020) A nota fiscal__________ simplifica o
+     controle de movimentação_______ e permite comprovar__________ em caso de
+     fiscalização da Receita Federal. Assinale a alternativa que completa, respectivamente, as
+     lacunas do texto com os conceitos corretos:
+     a) de remessa … de mercadorias … a procedência da carga.
+     b) de exportação … de estoque … o imposto devido.
+     c) de devolução … de serviços … o ICMS.
+     d) de compra … de produtos acabados … o ISS.
+     e) complementar … de produtos em trânsito … o pagamento de imposto já realizado.
+     GABARITO - A
+                                                                                  A nota fiscal de remessa simplifica o controle de
+                                                                                  movimentação das mercadorias pois é o documento
+        A nota fiscal DE REMESSA simplifica o controle de movimentação DE         fiscal emitido quando há circulação de mercadorias
+        MERCADORIAS e permite comprovar A PROCEDÊNCIA DA                          sem o objetivo de venda. É fonte confiável na
+        CARGA em caso de fiscalização da Receita Federal.                         comprovação da origem da carga no caso de
+                                                                                  fiscalização de qualquer um dos fiscos responsáveis
+                                                                                  pela checagem do transporte da carga em
+                                                                                  referência e garante a não incidência de impostos
+                                                                                  sobre o transporte e a própria mercadoria
+Administração de Materiais para Concursos                                         transportada. É também conhecida por nota fiscal
+Prof. Ricardo Campanario                                                          de transportes.
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (VUNESP/EBSERH HC-UFU/Analista Administrativo/2020) A Engenharia Clínica é uma área dentro das unidades de
+     saúde, responsável pela avaliação, manutenção e aquisição de materiais e equipamentos eletro médicos. Desta forma,
+     a qualidade e o bom funcionamento destes equipamentos dependem da organização adequada desta área, por meio
+     da programação de manutenções regulares. Com base nesta afirmativa, assinale a alternativa que representa a
+     resposta correta.
+     a) O setor de Engenharia Clínica tem se envolvido significativamente na aquisição dos equipamentos médicos,
+     podendo apresentar repercussões nos gastos das unidades de saúde.
+     b) A Engenharia Clínica possui como papel secundário viabilizar compras adequadas visando a relação custos x
+     benefícios, refletindo na qualidade do serviço prestado.
+     c) O envolvimento da Engenharia Clínica ao hospital pode demonstrar que a implantação e utilização das tecnologias
+     voltadas a área da saúde tem ocorrido inadequadamente.
+     d) A manutenção preventiva nas organizações de saúde otimiza os custos e a qualidade das peças, por isso é um setor
+     que precisa ser atuante dentro dos estabelecimentos de saúde.
+     e) A gestão hospitalar precisa caminhar junto ao setor financeiro para organizar e planejar estratégias que visem à
+     melhoria das manutenções e da qualidade de assistência ao usuário.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (VUNESP/EBSERH HC-UFU/Analista Administrativo/2020) A Engenharia Clínica é uma área dentro das unidades de
+     saúde, responsável pela avaliação, manutenção e aquisição de materiais e equipamentos eletro médicos. Desta forma,
+     a qualidade e o bom funcionamento destes equipamentos dependem da organização adequada desta área, por meio
+     da programação de manutenções regulares. Com base nesta afirmativa, assinale a alternativa que representa a
+     resposta correta.
+     a) O setor de Engenharia Clínica tem se envolvido significativamente na aquisição dos equipamentos médicos,
+     podendo apresentar repercussões nos gastos das unidades de saúde.
+     b) A Engenharia Clínica possui como papel secundário viabilizar compras adequadas visando a relação custos x
+     benefícios, refletindo na qualidade do serviço prestado.
+     c) O envolvimento da Engenharia Clínica ao hospital pode demonstrar que a implantação e utilização das tecnologias
+     voltadas a área da saúde tem ocorrido inadequadamente.
+     d) A manutenção preventiva nas organizações de saúde otimiza os custos e a qualidade das peças, por isso é um setor
+     que precisa ser atuante dentro dos estabelecimentos de saúde.
+     e) A gestão hospitalar precisa caminhar junto ao setor financeiro para organizar e planejar estratégias que visem à
+     melhoria das manutenções e da qualidade de assistência ao usuário.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

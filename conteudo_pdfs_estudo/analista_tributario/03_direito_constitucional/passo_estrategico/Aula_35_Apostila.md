@@ -1,0 +1,2863 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 35_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '35'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- 'art.
+
+  22'
+- art. 130
+- art. 24
+- art. 2º
+- art. 44
+- art. 7º
+- artigo 14
+- artigo 231
+sumulas_citadas:
+- Súmula 667
+- Súmula 692
+- Súmula Vinculante 36
+- Súmula Vinculante 45
+- Súmula Vinculante 49
+- Súmula Vinculante 58
+---
+
+# Passo Estratégico de Direito
+
+Aula Extra
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Constitucional
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             30 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula Extra
+
+                                                                                     Índice
+1) _____________________CADERNO DE JURISPRUDÊNCIA (CJ): COMECE POR AQUI!_____________________3
+) Administração Pública (CJ)
+
+
+3) Direitos e Deveres Individuais e Coletivos (CJ)
+
+
+4) Direitos Políticos (CJ)
+
+
+5) Direitos Sociais (CJ)
+
+
+6) Fiscalização Contábil, Financeira e Orçamentária (CJ)
+
+
+7) Funções Essenciais à Justiça (CJ)
+
+
+8) Ordem Econômica e Financeira (CJ)
+
+
+9) Ordem Social (CJ)
+
+
+10) Organização do Estado (CJ)
+
+
+11) Poder Judiciário (CJ)
+
+
+12) Princípios Fundamentais (CJ)
+
+
+13) Processo Legislativo (CJ)
+
+
+14) Sistema Tributário Nacional (CJ)
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           55
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+                           CADERNO DE JURISPRUDÊNCIA
+                                       COMECE POR AQUI!
+O presente caderno contém a jurisprudência que julgamos ser interessante o aluno levar à prova,
+considerando o nível de dificuldade do concurso.
+
+Recomendamos o estudo da presente jurisprudência não apenas por terem chances de cair em
+prova, mas, principalmente, por serem uma forma de o aluno entender e fixar melhor o próprio
+teor da literalidade dos dispositivos normativos e os conceitos doutrinários.
+
+Lembramos que a jurisprudência mais básica já se encontra no roteiro de revisão, então no
+presente caderno é disponibilizada uma jurisprudência de segundo nível de importância.
+
+Portanto, orientamos que o estudo da presente jurisprudência ocorra em uma fase mais
+avançada, quando o aluno já efetuou algumas revisões da matéria. Inclusive, um bom
+conhecimento das normas, da doutrina e da jurisprudência básica será necessário para que o
+estudo da jurisprudência presente neste caderno seja eficiente.
+
+Bons estudos!
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional    3
+        www.estrategiaconcursos.com.br                                                      55
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                   ADMINISTRAÇÃO PÚBLICA
+                              CADERNO DE JURISPRUDÊNCIA
+
+Princípios expressos da Administração Pública
+
+Publicidade
+
+Divulgação da remuneração de servidores públicos em sítio eletrônico da internet
+
+O Supremo Tribunal Federal entende que a divulgação nominal da remuneração de autoridades
+e servidores públicos em sítio eletrônico da internet não viola sua intimidade, vida privada e
+segurança pessoal e familiar a ponto de ser considerada ilícita, devendo prevalecer o princípio da
+publicidade1.
+
+                                                    JURISPRUDÊNCIA
+    "A divulgação da remuneração bruta dos cargos e funções titularizados por servidores públicos, com seu
+    nome e lotação, consubstancia informação de interesse coletivo ou geral, “sem que a intimidade deles,
+    vida privada e segurança pessoal e familiar se encaixem nas exceções de que trata a parte derradeira do
+    mesmo dispositivo constitucional (inciso XXXIII do art. 5º)”2.
+
+Cumpre destacar que a Corte considerou lícita a divulgação do nome e da remuneração do agente
+público, mas não de seu CPF, identidade e endereço residencial.
+
+
+Agentes Públicos
+
+Forma e requisitos de acesso a cargos, empregos e funções públicas
+
+- Os requisitos de acesso aos cargos, empregos e funções públicas (art. 37, inciso I da CF/88)
+devem estar previstos em lei, ou seja, o edital de um concurso público não pode inovar e exigir
+determinados requisitos como, por exemplo, limite de idade, sem previsão legal. Nesse sentido:
+
+                                                    JURISPRUDÊNCIA
+    "O limite de idade para a inscrição em concurso público só se legitima em face do art. 7º, XXX, da
+    Constituição, quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido"3.
+
+1
+  STF, SS 3.902 AgR segundo, rel. min. Ayres Britto, j. 9/6/2011, P, DJE de 3/10/2011; = RE 586.424 ED, rel. min.
+Gilmar Mendes, j. 24-2-2015, 2ª T, DJE de 12-3-2015.
+2
+  STF – SS 3.902 AgR.
+3
+  STF – Súmula 683.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  4
+           www.estrategiaconcursos.com.br                                                                     55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    "a imposição de discrímen de gênero, para fins de concurso público, só é compatível com a Constituição
+    nos excepcionais casos em que reste inafastável a fundamentação proporcional e a legalidade da
+    imposição"4.
+
+    “Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público”5.
+
+    Não é admissível, por ato administrativo, restringir, em razão da idade, inscrição em concurso para cargo
+    público.6
+
+    "... somente se afigura constitucional a fixação de idade mínima em edital de concursos públicos quando
+    respaldada por lei e justificada pela natureza das atribuições do cargo."7
+
+- O STF entende que é admissível política de reserva de vagas em concurso público para
+candidatas do sexo feminino, desde que não se incorra em restrição à sua participação, sendo-
+lhes assegurado o direito de concorrer à totalidade das vagas oferecidas nos certames, para além
+da reserva percentual (por exemplo: 10%) de vagas exclusivas8.
+
+Caso ocorra restrição à participação de candidatas do sexo feminino, há inconstitucionalidade da
+lei. Nesse sentido, o STF entendeu que é inconstitucional lei federal que limita em até 10% do
+efetivo o número de mulheres na Polícia Militar do DF e permite que o comandante-geral da PM
+fixe o percentual de mulheres para cada concurso, em razão de afrontar os ditames constitucionais
+quanto à igualdade de gênero e o princípio da igualdade, que garante os mesmos direitos e
+obrigações aos homens e mulheres (art. 5°, I, da CF/1988), proibindo a diferenciação de salários,
+de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil
+(art. 7°, XXX, da CF/1988).9
+
+- O STF entendeu que é constitucional lei distrital que estabelece a obrigatoriedade de: (i) serem
+mantidas, no mínimo, 5% (cinco por cento) de pessoas com idade acima de quarenta anos,
+obedecido o princípio do concurso público, nos quadros da Administração Pública direta e
+indireta; e (ii) ser firmada cláusula, nas licitações para contratação de serviços com fornecimento
+de mão de obra, que assegure o mínimo de 10% (dez por cento) das vagas a pessoas com mais
+de quarenta anos.
+
+Na mesma ocasião, o Supremo entendeu que:
+
+4
+  STF – RE 528.684/MS.
+5
+  STF – Súmula Vinculante 44.
+6
+  STF – Súmula 14
+7
+  STF - ARE nº 678.112/MG
+8
+  STF – ADI 7492
+9
+  STF - ADI 7433 MC-Ref / DF
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                5
+           www.estrategiaconcursos.com.br                                                                  55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+      a) não há invasão à seara do regramento geral sobre licitações e contratos estabelecido pela
+         União, mas se trata precipuamente de política pública de pleno emprego, através da reserva
+         de vagas, visando o desenvolvimento social e econômico do Distrito Federal;
+      b) se trata de regra que personaliza o procedimento licitatório do Distrito Federal, obrigando
+         a inclusão de determinada cláusula em suas contratações, a partir do que se encontra
+         dentro do espaço de conformação legislativa dos Estados-membros;
+      c) a fixação de um percentual mínimo de contração pelo poder público de empregados com
+         mais de quarenta anos não é matéria relativa à relação empregatícia e, portanto, não se
+         encontra regida pela Consolidação das Leis Trabalhistas;
+      d) ações afirmativas antidiscriminatórias e a elaboração de políticas públicas que promovam o
+         pleno emprego estão compreendidas no plexo de competências comuns dos entes
+         federativos;
+      e) se verifica presente a correlação lógica entre o fator de discrime e o fim perseguido, qual
+                                                           ==219a34==
+
+         seja, o desenvolvimento econômico e social em âmbito local, eis que visa minimização do
+         desemprego entre os adultos na faixa dos quarenta anos, os quais seriam pouco
+         aproveitados pela iniciativa privada e não contemplados pelas políticas de incentivo à
+         contratação jovem nem pelas políticas de proteção às pessoas idosas10.
+
+- A regra geral é que será no ato da posse, e não da inscrição do concurso público, a exigência de
+habilitação para o exercício do cargo (entendimento do STF e STJ)11, tendo como exceções as
+seguintes:
+
+     a) será na data da inscrição definitiva no concurso público a comprovação de 3 anos de atividade
+     jurídica para os cargos de juiz e membros do Ministério Público (art. 23, § 1º da Resolução CNJ
+     nº 75/2009);
+
+     b) em concurso para policial militar, "a comprovação do requisito etário deve ocorrer no
+     momento da inscrição do certame"12.
+
+- Um percentual dos cargos e empregos públicos deve ser reservado para as pessoas portadoras
+de deficiência (art. 37, inciso VIII da CF/88). Nesse sentido:
+
+                                                    JURISPRUDÊNCIA
+ “O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos
+ deficientes”13.
+
+10
+   STF - ADI 4082
+11
+   STF – ARE-AgR 728.049/RJ. STJ – Súmula 266.
+12
+   STF – ARE 685870 MG.
+13
+   STF – Súmula 377.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         6
+           www.estrategiaconcursos.com.br                                                           55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Concurso público
+
+                                                    JURISPRUDÊNCIA
+ “é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia
+ aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na
+ qual anteriormente investido”14.
+
+ "A transformação de carreira de nível médio em outra de nível superior, com atribuições distintas,
+ constitui forma de provimento derivado vedada pelo art. 37, II, da CF/88."15
+
+ "É materialmente inconstitucional dispositivo de Constituição Estadual que estabeleça a possibilidade
+ de contratação direta e genérica de serviços de representação judicial e extrajudicial, por ferir a regra
+ constitucional de concurso público. (...) Realizada a opção política municipal de instituição de órgão
+ próprio de procuradoria, a composição de seu corpo técnico está vinculada à incidência das regras
+ constitucionais, dentre as quais o inafastável dever de promoção de concurso público (artigo 37, inciso
+ II, da Constituição Federal) [ressalvadas as situações excepcionais situações em que também à União, aos
+ Estados e ao Distrito Federal pode ser possível a contratação de advogados externos, conforme os
+ parâmetros reconhecidos pela jurisprudência do STF].16"
+
+ É inconstitucional, por dispensar o concurso público, a reestruturação de quadro funcional por meio de
+ aglutinação, em uma única carreira, de cargos diversos, quando a nova carreira tiver atribuições e
+ responsabilidades diferentes dos cargos originais.17
+
+ É inconstitucional o aproveitamento de servidor, aprovado em concurso público a exigir formação de
+ nível médio, em cargo que pressuponha escolaridade superior.18
+
+ É constitucional a regra inserida no edital de concurso público, denominada cláusula de barreira, com o
+ intuito de selecionar apenas os candidatos mais bem classificados para prosseguir no certame.19
+
+Direitos de associação sindical e de greve dos servidores públicos
+
+                                                    JURISPRUDÊNCIA
+
+14
+   STF – Súmula 685.
+15
+   STF – ADI 7229/AC
+16
+   STF - ADI 6331/PE
+17
+   STF – Tema 667
+18
+   STF – Tema 697
+19
+   STF – RE 635739 / AL
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             7
+           www.estrategiaconcursos.com.br                                                               55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ "A administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício
+ do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela
+ decorre, permitida a compensação em caso de acordo. O desconto será, contudo, incabível se ficar
+ demonstrado que a greve foi provocada por conduta ilícita do Poder Público”20.
+
+ "1 - O exercício do direito de greve, sob qualquer forma ou modalidade, é vedado aos policiais civis e a
+ todos os servidores públicos que atuem diretamente na área de segurança pública.
+
+ 2 - É obrigatória a participação do Poder Público em mediação instaurada pelos órgãos classistas das
+ carreiras de segurança pública, nos termos do art. 165 do CPC, para vocalização dos interesses da
+ categoria"21.
+
+Remuneração dos agentes públicos e acumulação de cargos públicos
+
+                                                    JURISPRUDÊNCIA
+ São inconstitucionais leis estaduais de iniciativa do Poder Judiciário, da Defensoria Pública, da
+ Procuradoria-Geral de Justiça, do Tribunal de Contas e da Mesa da Assembleia Legislativa que têm como
+ objetivo aumento remuneratório visando recuperar a perda do poder aquisitivo da moeda, por vício de
+ iniciativa, já que tal competência é do Chefe do Poder Executivo (art. 38 inciso X, c/c alínea “a”, do inciso
+ II, do § 1º, do art. 61 da CF/1988).22
+
+ “Salvo nos casos previstos na Constituição, o salário-mínimo não pode ser usado como indexador de
+ base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão
+ judicial”23.
+
+ “Não cabe ao poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores
+ públicos sob o fundamento de isonomia”24.
+
+ "O direito ao auxílio-alimentação não se estende aos servidores inativos"25.
+
+ “Não ofende a Constituição a correção monetária no pagamento com atraso dos vencimentos de
+ servidores públicos26”.
+
+ “No que respeita ao subteto dos servidores estaduais, a Constituição estabeleceu a possibilidade de o
+ Estado optar entre: a definição de um subteto por poder, hipótese em que o teto dos servidores da
+ Justiça corresponderá ao subsídio dos Desembargadores do Tribunal de Justiça (art. 37, XI, CF, na
+ redação da Emenda Constitucional 41/2003); e a definição de um subteto único, correspondente ao
+
+20
+   STF – RE 693.456/RJ.
+21
+   STF – ARE 654.432.
+22
+   STF - ADI 5.562/RS
+23
+   STF – Súmula Vinculante 4.
+24
+   STF – Súmula Vinculante 37.
+25
+   STF – Súmula Vinculante 55.
+26
+   STF – Súmula 682.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 8
+           www.estrategiaconcursos.com.br                                                                   55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ subsídio mensal dos Desembargadores do Tribunal de Justiça, para todo e qualquer servidor de qualquer
+ poder, ficando de fora desse subteto apenas o subsídio dos Deputados (art. 37, § 12, CF, conforme
+ redação da Emenda Constitucional 47/2005). Inconstitucionalidade da desvinculação entre o subteto dos
+ servidores da Justiça e o subsídio mensal dos Desembargadores do Tribunal de Justiça. Violação ao art.
+ 37, XI e § 12, CF. Incompatibilidade entre a opção pela definição de um subteto único, nos termos do
+ art. Art. 37, § 12, CF, e definição de "subteto do subteto", em valor diferenciado e menor, para os
+ servidores do Judiciário. Tratamento injustificadamente mais gravoso para esses servidores. Violação à
+ isonomia”27.
+
+ “Nos casos autorizados, constitucionalmente, de acumulação de cargos, empregos e funções, a
+ incidência do artigo 37, inciso XI, da Constituição Federal, pressupõe consideração de cada um dos
+ vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos
+ do agente público”28.
+
+ "As hipóteses excepcionais autorizadoras de acumulação de cargos públicos previstas na Constituição
+ Federal sujeitam-se, unicamente, a existência de compatibilidade de horários, verificada no caso
+ concreto, ainda que haja norma infraconstitucional que limite a jornada semanal"29.
+
+ A fixação de vencimentos dos servidores públicos não pode ser objeto de convenção coletiva30. O STF
+ vem determinando, em sede de mandado de injunção, a aplicação temporária ao setor público, no que
+ couber, da lei de greve vigente no setor privado, em razão da inexistência, até hoje, da lei
+ regulamentadora do direito de greve dos servidores públicos31.
+
+Estabilidade dos servidores efetivos
+
+                                                    JURISPRUDÊNCIA
+ “Funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as
+ formalidades legais de apuração de sua capacidade”32.
+
+ ”O estágio probatório não protege o funcionário contra a extinção do cargo”33.
+
+- Ainda que os empregados públicos concursados não gozem da estabilidade prevista no art. 41
+da CF/88, a sua demissão deve ser devidamente motivada, não sendo necessário procedimento
+administrativo, mas apenas ato formal que indique claramente, ainda que de forma simples, as
+razões da demissão34:
+
+27
+   STF – ADI 4.900.
+28
+   STF – REs 602043 e 612975.
+29
+   STF – ARE 1.246.685/RJ.
+30
+   STF – Súmula 679.
+31
+   STF – MI 670/ES, dentre outros.
+32
+   STF – Súmula 21.
+33
+   STF – Súmula 22.
+34
+   STF – RE 688267
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          9
+           www.estrategiaconcursos.com.br                                                            55
+
+                                        
+
+
+---
+
+ Tulio Lages
+ Aula Extra
+
+                                                JURISPRUDÊNCIA
+"As empresas públicas e as sociedades de economia mista, sejam elas prestadoras de serviço público ou
+exploradoras de atividade econômica, ainda que em regime concorrencial, têm o dever jurídico de
+motivar, em ato formal, a demissão de seus empregados concursados, não se exigindo processo
+administrativo. Tal motivação deve consistir em fundamento razoável, não se exigindo, porém, que se
+enquadre nas hipóteses de justa causa da legislação trabalhista".
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           10
+       www.estrategiaconcursos.com.br                                                              55
+
+                                    
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+              DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+                              CADERNO DE JURISPRUDÊNCIA
+Catálogo dos direitos e deveres individuais e coletivos – art. 5º, caput e incisos
+I a LXXIX da CF/88
+
+Direitos fundamentais básicos (caput)
+
+                                                    JURISPRUDÊNCIA
+    "(I) A vacinação compulsória não significa vacinação forçada, facultada a recusa do usuário, podendo,
+    contudo, ser implementada por meio de medidas indiretas, as quais compreendem, dentre outras, a
+    restrição ao exercício de certas atividades ou à frequência de determinados lugares, desde que previstas
+    em lei, ou dela decorrentes, e tenham como base evidências científicas e análises estratégicas
+    pertinentes, venham acompanhadas de ampla informação sobre a eficácia, segurança e contraindicações
+    dos imunizantes, respeitem a dignidade humana e os direitos fundamentais das pessoas; atendam aos
+    critérios de razoabilidade e proporcionalidade; e sejam as vacinas distribuídas universal e gratuitamente.
+
+    (II) Tais medidas, com as limitações expostas, podem ser implementadas tanto pela União como pelos
+    estados, pelo Distrito Federal e pelos municípios, respeitadas as respectivas esferas de competência"1.
+
+    “A busca pessoal independente de mandado judicial deve estar fundada em elementos indiciários
+    objetivos de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam
+    corpo de delito, não sendo lícita a realização da medida com base na raça, sexo, orientação sexual, cor
+    da pele ou aparência física.”2
+
+Princípio da igualdade (caput e inciso I)
+
+                                                    JURISPRUDÊNCIA
+    “Não viola a Constituição o estabelecimento de remuneração inferior ao salário mínimo para as praças
+    prestadoras de serviço militar inicial”3.
+
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores
+    públicos sob o fundamento de isonomia”4.
+
+1
+    STF – ADIs 6586 e 6587.
+2
+  STF - HC 208240 / SP
+3
+  STF – Súmula Vinculante 6.
+4
+  STF – Súmula Vinculante 37.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                11
+           www.estrategiaconcursos.com.br                                                                   55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Vedação à tortura e ao tratamento desumano ou degradante (inciso III)
+
+                                                    JURISPRUDÊNCIA
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à
+    integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade
+    por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de
+    nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do
+    Estado”5.
+
+Liberdade de expressão (incisos IV, V, IX e XIV)
+
+                                                    JURISPRUDÊNCIA
+    “São cumuláveis as indenizações por dano material e dano moral oriundos do mesmo fato”6.
+
+    Não caracteriza censura resolução do TSE que proíbe a divulgação ou compartilhamento de informações
+    falsas ou gravemente descontextualizadas (combate à desinformação – “fake news”), quando o controle
+    feito pelo ato normativo é realizado após a constatação do fato e a aplicação é restrita ao período
+    eleitoral7.
+
+
+Liberdade de crença religiosa e convicção política e filosófica (incisos VI a VIII)
+
+                                                    JURISPRUDÊNCIA
+    “É constitucional a obrigatoriedade de imunização por meio de vacina que, registrada em órgão de
+    vigilância sanitária, tenha sido incluída no plano nacional de imunizações; ou tenha sua aplicação
+    obrigatória decretada em lei; ou seja objeto de determinação da União, dos estados, do Distrito Federal
+    ou dos municípios com base em consenso médico-científico. Em tais casos, não se caracteriza violação à
+    liberdade de consciência e de convicção filosófica dos pais ou responsáveis, nem tampouco ao poder
+    familiar”8.
+
+    "É inconstitucional, por ofensa aos princípios da isonomia, da liberdade religiosa e da laicidade do
+    Estado, norma que obrigue a manutenção de exemplar de determinado livro de cunho religioso em
+    unidades escolares e bibliotecas públicas estaduais"9.
+
+    "É constitucional a utilização de vestimentas ou acessórios relacionados a crença ou religião nas fotos de
+    documentos oficiais desde que não impeçam a adequada identificação individual, com rosto visível."10
+
+5 STF – Súmula Vinculante 11.
+
+6
+    STJ – Súmula 37.
+7
+  STF – ADI 7261 MC / DF
+8
+  STF – ARE 1267879
+9
+  STF – ADI 2530/DF
+10
+   STF - RE 859376
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                12
+           www.estrategiaconcursos.com.br                                                                   55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas (inciso X)
+
+                                                    JURISPRUDÊNCIA
+ São constitucionais normas editadas pelo Conselho Nacional de Política Fazendária (Confaz) que obrigam
+ instituições financeiras a fornecerem aos estados informações relacionadas às transferências e aos
+ pagamentos realizados por clientes em operações eletrônicas com recolhimento do ICMS (como “pix” e
+ cartões de débito e crédito), pois não se caracteriza quebra de sigilo bancário o acesso, pelas autoridades
+ fiscais, a dados de caráter sigiloso fornecidos por instituições financeiras e de pagamento, no interesse
+ da arrecadação e fiscalização tributária. Ausência de violação aos direitos fundamentais à intimidade, à
+ privacidade e ao sigilo de dados pessoais (CF/1988, art. 5º, X e XII) .11
+
+
+Inviolabilidade das correspondências e das comunicações (inciso XII)
+
+                                                    JURISPRUDÊNCIA
+                                                           ==219a34==
+
+ "No processo eleitoral, é ilícita a prova colhida por meio de gravação ambiental clandestina, sem
+ autorização judicial e com violação à privacidade e à intimidade dos interlocutores, ainda que realizada
+ por um dos participantes, sem o conhecimento dos demais. - A exceção à regra da ilicitude da gravação
+ ambiental feita sem o conhecimento de um dos interlocutores e sem autorização judicial ocorre na
+ hipótese de registro de fato ocorrido em local público desprovido de qualquer controle de acesso, pois,
+ nesse caso, não há violação à intimidade ou quebra da expectativa de privacidade"12
+
+ São constitucionais as normas do Código do Processo Penal (CPP) que autorizam delegados de polícia e
+ membros do Ministério Público a requisitarem o repasse de dados cadastrais a operadoras de celular,
+ mesmo sem autorização judicial, e regra que permite a requisição, mediante autorização judicial, às
+ empresas prestadoras de serviço de telecomunicações e/ou telemática para que disponibilizem
+ imediatamente sinais, informações e outros dados que permitam a localização da vítima ou dos suspeitos,
+ enfatizando que tais dados devem ser utilizados exclusivamente em investigações sobre os crimes de
+ cárcere privado, redução à condição análoga à de escravo, tráfico de pessoas, sequestro-relâmpago,
+ extorsão mediante sequestro e envio ilegal de criança ao exterior, já que os crimes relacionados ao tráfico
+ de pessoas são graves e precisam ser investigados de forma rápida, já que há risco de que a vítima perca
+ a vida ou seja levada para fora do país.13
+
+Liberdade de atividade profissional (inciso XIII)
+
+O STF14 entendeu ser inconstitucional resolução do Conselho Federal de Enfermagem que exigia
+a quitação de anuidades para que profissionais obtivessem a inscrição, segunda via e renovação
+da carteira profissional, por restar entendido que a medida criou punição política como meio
+coercitivo indireto para pagamento de tributo e representava violação ao direito constitucional do
+
+
+11
+     STF - ADI 7276 / DF
+12
+     STF - RE 1040515
+13
+     STF - ADI 5.642
+14
+     STF - RE 647885/RS
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              13
+           www.estrategiaconcursos.com.br                                                                 55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+livre exercício de trabalho, uma vez que a inscrição no Conselho é um requisito indispensável para
+o exercício regular da enfermagem e de suas atividades auxiliares.
+
+Liberdade de locomoção (inciso XV)
+
+                                                    JURISPRUDÊNCIA
+ “É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo”15.
+
+ “É inadmissível a apreensão de mercadorias como meio coercitivo para pagamento de tributos”16.
+
+
+Liberdade de reunião (inciso XVI)
+
+                                                    JURISPRUDÊNCIA
+ “A exigência constitucional de aviso prévio relativamente ao direito de reunião é satisfeita com a
+ veiculação de informação que permita ao poder público zelar para que seu exercício se dê de forma
+ pacífica ou para que não frustre outra reunião no mesmo local17”.
+
+Direito de associação (incisos XVII a XXI)
+
+                                                    JURISPRUDÊNCIA
+ “A impetração de mandado de segurança coletivo por entidade de classe em favor dos associados
+ independe da autorização destes”18.
+
+Direito à informação (inciso XXXIII)
+
+                                                    JURISPRUDÊNCIA
+ “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já
+ documentados em procedimento investigatório realizado por órgão com competência de polícia
+ judiciária, digam respeito ao exercício do direito de defesa”19.
+
+ “O Verbete 14 da Súmula Vinculante do Supremo não alcança sindicância administrativa objetivando
+ elucidar fatos sob o ângulo do cometimento de infração administrativa”20.
+
+Direito de petição (inciso XXXIV, alínea “a”)
+
+                                                    JURISPRUDÊNCIA
+
+15 STF – Súmula 70.
+
+16 STF – Súmula 323.
+
+17
+     STF – RE 806.339.
+18 STF – Súmula 629.
+
+19
+     STF – Súmula Vinculante 14.
+20
+     STF – Rcl 10.771 AgR.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         14
+           www.estrategiaconcursos.com.br                                                            55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ “É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para
+ admissibilidade de recurso administrativo”21.
+
+Princípio da inafastabilidade de jurisdição (inciso XXXV)
+
+                                                    JURISPRUDÊNCIA
+ “É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na
+ qual se pretenda discutir a exigibilidade de crédito tributário”22.
+
+ “Viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem limite sobre o valor
+ da causa”23.
+
+Proteção ao direito adquirido, à coisa julgada e ao ato jurídico perfeito – garantia da
+irretroatividade das leis (inciso XXXVI)
+
+                                                    JURISPRUDÊNCIA
+ “A garantia da irretroatividade da lei, prevista no art. 5º, XXXVI, da Constituição da República, não é
+ invocável pela entidade estatal que a tenha editado”24.
+
+Júri popular (inciso XXXVIII)
+
+                                                    JURISPRUDÊNCIA
+ “A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função
+ estabelecido exclusivamente pela Constituição estadual”25.
+
+ “A competência para o processo e julgamento de latrocínio é do juiz singular e não do tribunal do júri”26.
+
+ “A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta
+ pelo corpo de jurados, independentemente do total da pena aplicada”.27
+
+Princípios da irretroatividade da lei penal e da retroatividade da lei penal mais favorável (inciso XL)
+
+                                                    JURISPRUDÊNCIA
+ “A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é
+ anterior à cessação da continuidade ou da permanência”28.
+
+21
+   STF – Súmula Vinculante 21.
+22
+   STF – Súmula Vinculante 28.
+23
+   STF – Súmula 667.
+24
+   STF – Súmula 654.
+25
+   STF – Súmula Vinculante 45.
+26
+   STF – Súmula 603.
+27
+   STF – RE 1235340. Tema 1068.
+28
+   STF – Súmula 711.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               15
+           www.estrategiaconcursos.com.br                                                                  55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Mandados de criminalização (incisos XLI a XLIV)
+
+- Maconha: entendimento do STF sobre a diferenciação entre usuário e traficante
+
+O STF29 entende que embora seja probido, não comete infração penal quem adquirir, guardar,
+tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, a substância cannabis
+sativa, sem prejuízo do reconhecimento da ilicitude extrapenal da conduta, com apreensão da
+droga e aplicação de sanções de advertência sobre os efeitos dela e medida educativa de
+comparecimento a programa ou curso educativo.
+
+Deve ser presumido usuário quem, para consumo próprio, adquirir, guardar, tiver em depósito,
+transportar ou trouxer consigo até 40 gramas de cannabis sativa ou seis plantas-fêmeas, até que
+o Congresso Nacional venha a legislar a respeito, nos termos do § 2º do artigo 28 da Lei
+11.343/2006 (Lei de Drogas).
+
+Além disso, essa presunção (de usuário) é relativa, não estando a autoridade policial e seus agentes
+impedidos de realizar a prisão em flagrante por tráfico de drogas, mesmo para quantidades
+inferiores ao limite acima estabelecido, quando presentes elementos que indiquem intuito de
+mercancia, como a forma de acondicionamento da droga, as circunstâncias da apreensão, a
+variedade de substâncias apreendidas, a apreensão simultânea de instrumentos como balança,
+registros de operações comerciais e aparelho celular contendo contatos de usuários ou traficantes.
+
+Por outro lado, a apreensão de quantidades superiores aos limites ora fixados não impede o juiz
+de concluir que a conduta é atípica, apontando nos autos prova suficiente da condição de usuário.
+
+Princípio da individualização da pena (inciso XLVI)
+
+                                                    JURISPRUDÊNCIA
+ “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o
+ juízo da execução observará a inconstitucionalidade do art. 2º da Lei nº 8.072, de 25 de julho de 1990,
+ sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do
+ benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame
+ criminológico”30.
+
+
+Penas inaplicáveis (inciso XLVII)
+
+                                                    JURISPRUDÊNCIA
+
+ STF - RE 635.659 (Tema 506)
+29
+
+30
+  STF – Súmula Vinculante 26.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          16
+           www.estrategiaconcursos.com.br                                                             55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime
+ prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS31.
+
+ Admite-se a progressão de regime de cumprimento da pena ou a aplicação imediata de regime menos
+ severo nela determinada, antes do trânsito em julgado da sentença condenatória32.
+
+ É inconstitucional lei estadual que impede militares estaduais afastados pela prática de falta grave de
+ prestarem concurso público sem estipular prazo máximo para a sanção, uma vez que se caracterizaria
+ penalidade administrativa de caráter perpétuo, o que é inadmissível à luz do art. 5º, XLVII, “b”, da
+ Constituição Federal.33
+
+Garantias do contraditório e da ampla defesa (inciso LV)
+
+                                                    JURISPRUDÊNCIA
+ “Nos processos perante o TCU asseguram-se o contraditório e a ampla defesa quando da decisão puder
+ resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a
+ apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão”34.
+
+ “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a
+ Constituição”35.
+
+ "É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já
+ documentados em procedimento investigatório realizado por órgão com competência de polícia
+ judiciária, digam respeito ao exercício do direito de defesa"36.
+
+ “É inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para
+ admissibilidade de recurso administrativo”37.
+
+ “É inconstitucional a exigência de depósito prévio como requisito de admissibilidade de ação judicial na
+ qual se pretenda discutir a exigibilidade de crédito tributário”38.
+
+31
+   STF – Súmula Vinculante 56.
+32
+   STF – Súmula 716.
+33
+   STF – ADI 2893/PE
+34
+   STF – Súmula Vinculante 3.
+35
+   STF – Súmula Vinculante 5.
+36
+   STF – Súmula Vinculante 14.
+37
+   STF – Súmula Vinculante 21.
+38
+   STF – Súmula Vinculante 28.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           17
+           www.estrategiaconcursos.com.br                                                              55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Inadmissibilidade das provas ilícitas (inciso LVI)
+
+Excepcionalmente, é possível a admissão no processo de provas obtidas por meios ilícitos, em
+situações em que se mostra necessário garantir-se as liberdades públicas, a dignidade da pessoa
+humana e a legitima defesa.
+
+Nesse sentido, como já exposto, o STF entendeu ser válida a prova obtida mediante a violação de
+encomenda postada pelo Correio, desde que haja indícios de prática de atividades ilícitas, uma
+vez que o direito ao sigilo da correspondência não é absoluto e deve ser equilibrado com o
+interesse do poder público de reprimir condutas criminosas. No caso, foi firmada a seguinte tese
+de repercussão geral39:
+
+                                                    JURISPRUDÊNCIA
+ “1. Sem autorização judicial ou fora das hipóteses legais, é ilícita a prova obtida mediante abertura de
+ carta, telegrama, pacote ou meio análogo, salvo se ocorrida em estabelecimento penitenciário, quando
+ houver fundados indícios da prática de atividades ilícitas.
+
+ 2. Em relação à abertura de encomendas postadas nos Correios, a prova somente será lícita quando
+ houver fundados indícios da prática de atividades ilícitas, formalizando-se as providências adotadas para
+ fins de controle administrativo ou judicial.”
+
+Demais direitos dos presos (incisos LXII a LXV)
+
+                                                    JURISPRUDÊNCIA
+ “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à
+ integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade
+ por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de
+ nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do
+ Estado”40.
+
+Prisão civil por dívida (inciso LXVII)
+
+                                                    JURISPRUDÊNCIA
+ “É ilícita a prisão civil do depositário infiel, qualquer que seja a modalidade de depósito”41.
+
+Gratuidade do habeas corpus, habeas data e dos atos de exercício da cidadania (inciso LXXVII)
+
+                                                    JURISPRUDÊNCIA
+
+39
+   STF – RE 1116949 ED/PR.
+40
+   STF – Súmula Vinculante 11.
+41
+   STF – Súmula Vinculante 25.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional            18
+           www.estrategiaconcursos.com.br                                                               55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ "É imune ao pagamento de taxas para registro da regularização migratória o estrangeiro que demonstre
+ sua condição de hipossuficiente, nos termos da legislação de regência"42.
+
+Remédios constitucionais (art. 5º, incisos LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII e
+LXXVII)
+
+Habeas corpus (inciso LXVIII)
+
+- Outras situações em que não é cabível HC (além das mencionadas no roteiro de revisão):
+
+     a) em favor de pessoa jurídica43;
+
+     b) para impugnar decisões do STF (Plenários, Turma e até decisões monocráticas) 44;
+
+     c) para impugnar determinação de suspensão de direitos políticos ou discutir a condenação
+     imposta em processo de impeachment;
+
+     d) para impugnar pena em processo administrativo disciplinar ou para sustar o andamento do
+     correspondente processo administrativo45;
+
+     e) para impugnar quebra de sigilo bancário, fiscal ou telefônico, caso pena privativa de
+     liberdade não seja o possível resultado de tais medidas;
+
+     f) para discutir o mérito das punições disciplinares militares (mas a legalidade de tais punições
+     pode ser questionada)46;
+
+     g) contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração
+     penal a que a pena pecuniária seja a única cominada47;
+
+     h) contra a imposição da pena de exclusão de militar ou de perda de patente ou de função
+     pública48;
+
+     i) quando já extinta a pena privativa de liberdade49;
+
+42
+     STF – RE1018911/RR
+43 STF – HC 92.921/BA.
+
+44 STF – HC 10.959/DF.
+
+45 STF – HC 100.664/DF.
+
+46 STF – HC 70.648/RJ.
+
+47 STF – Súmula 693.
+
+48 STF – Súmula 694.
+
+49 STF – Súmula 695.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       19
+           www.estrategiaconcursos.com.br                                                          55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+     j) contra omissão de relator de extradição, se fundado em fato ou direito estrangeiro cuja prova
+     não constava dos autos, nem foi ele provocado a respeito50.
+
+Mandados de segurança individual e coletivo (incisos LXIX e LXX)
+
+                                                    JURISPRUDÊNCIA
+ “Controvérsia sobre matéria de direito não impede concessão de mandado de segurança”51.
+
+ “Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de
+ segurança ou a medida judicial”52.
+
+ “Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de
+ segurança”53.
+
+ “Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra
+ atos de outros tribunais”54.
+
+ “O mandado de segurança não é substitutivo de ação de cobrança”55.
+
+ “Concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito,
+ os quais devem ser reclamados administrativamente ou pela via judicial própria”56.
+
+ “Não cabe condenação em honorários de advogado na ação de mandado de segurança”57.
+
+50 STF – Súmula 692.
+
+51
+   STF – Súmula 625.
+52
+   STF – Súmula 510.
+53
+   STF – Súmula 430.
+54
+   STF – Súmula 624.
+55
+   STF – Súmula 269.
+56
+   STF – Súmula 271.
+57
+   STF – Súmula 512.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional      20
+           www.estrategiaconcursos.com.br                                                         55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                         DIREITOS POLÍTICOS
+                              CADERNO DE JURISPRUDÊNCIA
+                                                    JURISPRUDÊNCIA
+    “A dissolução da sociedade ou do vínculo conjugal, no curso do mandato, não afasta a inelegibilidade
+    prevista no § 7º, do artigo 14 da Constituição Federal”1.
+
+    O enunciado da Súmula Vinculante 18 não é aplicável no caso de extinção do vínculo conjugal pela morte
+    de um dos cônjuges2.
+
+    A Lei Complementar 135/2010 (“Lei da Ficha Limpa”) é constitucional e pode ser aplicada a atos e fatos
+    ocorridos anteriormente à sua vigência3.
+                                                           ==219a34==
+
+    São inconstitucionais as disposições legais que permitem contribuições de pessoas jurídicas a campanhas
+    eleitorais e partidos políticos4.
+
+    A expressão “sem individualização dos doadores”, constante do parágrafo 12 do artigo 28 da Lei
+    Eleitoral, acrescentado pelo artigo 2º da Lei Federal 13.165/2015 (que instituiu as chamadas “doações
+    ocultas”, aquelas em que não é possível identificar o vínculo entre doadores e candidatos) retira
+    transparência do processo eleitoral, frustra o exercício adequado das funções da Justiça Eleitoral e
+    impede que o eleitor exerça com pleno esclarecimento seus direitos políticos5.
+
+    A regra de suspensão dos direitos políticos prevista no art. 15, III, é autoaplicável, pois trata-se de
+    consequência imediata da sentença penal condenatória transitada em julgado. A autoaplicação
+    independe da natureza da pena imposta. A opção do legislador constituinte foi no sentido de que os
+    condenados criminalmente, com trânsito em julgado, enquanto durar os efeitos da sentença
+    condenatória, não exerçam os seus direitos políticos6.
+
+    "Não contraria o § 7º do art. 14 da Constituição da República a prática de ocupação do cargo de
+    Presidente das Casas Legislativas (Federal, Estadual, Distrital e Municipal) por cônjuge, companheiro ou
+    parente direto ou colateral, até o segundo grau, do Chefe do Poder Executivo do respectivo ente
+    federado pela ausência de previsão constitucional nesse sentido."7
+
+    “A suspensão dos direitos políticos prevista no artigo 15 inciso III da Constituição Federal - condenação
+    criminal transitada em julgado enquanto durarem seus efeitos - não impede a nomeação e posse de
+
+
+1
+  STF – Súmula Vinculante 18.
+2
+  STF – RE 758.461/PB.
+3
+  STF – ADC 29/DF.
+4
+  STF – ADI 4.650/DF.
+5
+  STF – ADI 5394.
+6
+  STF – RE 601182
+7
+  STF – ADPF 1.089
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               21
+           www.estrategiaconcursos.com.br                                                                  55
+
+                                        
+
+
+---
+
+ Tulio Lages
+ Aula Extra
+
+candidato aprovado em concurso público, desde que não incompatível com a infração penal praticada,
+em respeito aos princípios da dignidade da pessoa humana e do valor social do trabalho (Constituição
+Federal, artigo 1°, incisos III e IV) e do dever do Estado em proporcionar as condições necessárias para
+harmônica integração social do condenado, objetivo principal da execução penal, nos termos do artigo
+1° da Lei de Execuções Penais (Lei 7.210/84). O início do efetivo exercício do cargo ficará condicionado
+ao regime da pena ou à decisão judicial do Juízo de Execuções, que analisará a compatibilidade de
+horários”.
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              22
+       www.estrategiaconcursos.com.br                                                                 55
+
+                                    
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                            DIREITOS SOCIAIS
+                              CADERNO DE JURISPRUDÊNCIA
+Direitos dos trabalhadores urbanos e rurais (art. 7º da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Não viola a Constituição o estabelecimento de remuneração inferior ao salário mínimo para as praças
+    prestadoras de serviço militar inicial”1.
+
+    “Salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de
+    base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão
+    judicial”2.
+
+    “A exigência constitucional de lei formal para fixação do valor do salário mínimo está atendida pela Lei
+    12.382/2011. A utilização de decreto presidencial, definida pela Lei 12.382/2011 como instrumento de
+    anunciação e divulgação do valor nominal do salário mínimo de 2012 a 2015, não desobedece ao
+    comando constitucional posto no inciso IV do art. 7º da Constituição do Brasil. A Lei 12.382/2011 definiu
+    o valor do salário mínimo e sua política de afirmação de novos valores nominais para o período indicado
+    (arts. 1º e 2º). Cabe ao presidente da República, exclusivamente, aplicar os índices definidos legalmente
+    para reajuste e aumento e divulgá-los por meio de decreto, pelo que não há inovação da ordem jurídica
+    nem nova fixação de valor”3.
+
+    “É devido o adicional de serviço noturno, ainda que sujeito o empregado ao regime de revezamento”4.
+
+    “A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos morais
+    e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra empregador,
+    inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando da promulgação
+    da EC 45/2004”5.
+
+    “Os prazos da licença adotante não podem ser inferiores ao prazo da licença gestante, o mesmo valendo
+    para as respectivas prorrogações. Em relação à licença adotante, não é possível fixar prazos diversos em
+    função da idade da criança adotada”6.
+
+    "É inconstitucional norma que passou a exigir carência de 10 meses de contribuição para a concessão do
+    salário-maternidade para as trabalhadoras autônomas (contribuintes individuais), para as trabalhadoras
+
+1
+  STF – Súmula Vinculante 6.
+2
+  STF – Súmula Vinculante 4.
+3
+  STF – ADI 4.568.
+4
+  STF – Súmula 213.
+5
+  STF – Súmula Vinculante 22.
+6
+  STF – RE 788.889/PE.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               23
+           www.estrategiaconcursos.com.br                                                                  55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    rurais (seguradas especiais) e para as contribuintes facultativas, uma vez que a exigência de cumprimento
+    de carência apenas para algumas categorias de trabalhadoras viola o princípio da isonomia7".
+
+    “A mãe servidora ou trabalhadora não gestante em união homoafetiva tem direito ao gozo de licença-
+    maternidade. Caso a companheira tenha utilizado o benefício, fará jus à licença pelo período equivalente
+    ao da licença-paternidade”8.
+
+    É inconstitucional lei estadual que restringe o número de vagas às mulheres em concursos para Polícia
+    Militar e Bombeiros, uma vez que é proibida expressamente a diferenciação de critérios de admissão em
+    postos do mercado de trabalho por motivo de sexo (art. 7º, XXX), estendendo esta proibição à admissão
+    de servidores públicos, a qual só pode ser excepcionada quando a natureza do cargo o exigir (art. 39, §
+    3º), sendo que a reserva do número de vagas a serem preenchidas por mulheres deve ser interpretado
+    como uma cota mínima, ficando as demais vagas sujeitas à ampla concorrência de homens e mulheres
+    indistintamente.9
+                                                           ==219a34==
+
+Liberdade de associação profissional ou sindical (art. 8º da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “A contribuição confederativa de que trata o art. 8º, IV, da Constituição Federal, só é exigível dos filiados
+    ao sindicato respectivo”10.
+
+    “É constitucional a instituição, por acordo ou convenção coletivos, de contribuições assistenciais a serem
+    impostas a todos os empregados da categoria, ainda que não sindicalizados, desde que assegurado o
+    direito de oposição”11.
+
+
+Direito de greve (art. 9º da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “A simples adesão à greve não constitui falta grave”12.
+
+
+Geração dos direitos sociais. Reserva do possível. Mínimo existencial. Vedação ao
+retrocesso. Escolhas trágicas.
+
+                                                    JURISPRUDÊNCIA
+
+7
+  STF - ADIs 2.110 e ADI 2.111
+8
+  STF – RE 1211446/SP.
+9
+  STF - ADI 7484/PI
+10
+   STF – Súmula Vinculante 40.
+11
+   STF – ARE 1018459
+12
+   STF – Súmula 316.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   24
+           www.estrategiaconcursos.com.br                                                                      55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ Embora seja dos Poderes Legislativo e Executivo, de modo primário, a prerrogativa de formular e
+ executar políticas públicas, é possível que o Poder Judiciário determine, excepcionalmente, que tais
+ políticas sejam implementadas pelos órgãos estatais inadimplentes13.
+
+ Não é razoável exigir do Estado a imediata efetivação de direitos econômicos, sociais e culturais previstos
+ na CF, quando comprovada de maneira objetiva a incapacidade econômico-financeira da pessoa estatal.
+ Por outro lado, não pode o Poder Público manipular sua atividade financeira e/ou político administrativa
+ de maneira a criar um obstáculo artificial para se esquivar de disponibilizar condições materiais mínimas
+ de existência aos indivíduos14.
+
+ É lícito ao Poder Judiciário impor à Administração Pública que execute obras emergenciais em
+ estabelecimentos prisionais (presídios) a fim de proteger os direitos fundamentais dos detentos,
+ assegurando-lhes o respeito à sua integridade física e moral, dando efetividade ao postulado da
+ dignidade da pessoa humana15.
+
+13
+   STF – RE 436.996.
+14
+   STF – ADPF 45.
+15
+   STF – RE 592.581.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              25
+           www.estrategiaconcursos.com.br                                                                 55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+     FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA
+                              CADERNO DE JURISPRUDÊNCIA
+
+Competências do TCU
+
+                                                    JURISPRUDÊNCIA
+    “Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa
+    quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o
+    interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria,
+    reforma e pensão”1.
+    "Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão
+                                                           ==219a34==
+
+    sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de
+    aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas"2.
+    “O TCU tem legitimidade para expedição de medidas cautelares, a fim de prevenir a ocorrência de
+    lesão ao erário ou a direito alheio, bem como garantir a efetividade de suas decisões”3.
+    O TCU não tem competência para decretar quebra de sigilo bancário4.
+    O TCU tem competência para requisitar informações relativas a operações de crédito originárias de
+    recursos públicos5.
+    “São imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na
+    Lei de Improbidade Administrativa”6.
+    “É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas"7.
+    "É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil"8.
+    Não compete ao Tribunal de Contas da União a fiscalização da destinação de recursos oriundos de
+    prestações pecuniárias pagas em virtude de condenações criminais, surgidas da atuação jurisdicional,
+    uma vez que viola as garantias de autonomia administrativa e financeira do Poder Judiciário (CF, arts.
+    96 e 99). Isso porque foram atribuídas ao Conselho Nacional de Justiça, entre outras competências, a
+    de controlar a atuação administrativa e financeira desse Poder (CF, art. 103-B, § 4º) e também ao
+    Conselho da Justiça Federal (órgão com poderes correicionais, cujas decisões possuem caráter
+    vinculante), nos termos do art. 105, § 1º, II, da Constituição Federal, a supervisão administrativa e
+    orçamentária da Justiça Federal de primeiro e segundo grau.9
+
+1
+  STF – Súmula Vinculante 3.
+2
+  STF – RE 636553.
+3
+  STF – MS 26.547/DF.
+4
+  STF – MS 22.801.
+5
+  STF – MS 33.340/DF.
+6
+  STC – RE 852475
+7
+  STF – RE 636886
+8
+  STF – RE 669069
+9
+  STF – MS 39821
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              26
+           www.estrategiaconcursos.com.br                                                                 55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+TCU e demais Tribunais/Conselhos de Contas
+
+                                                    JURISPRUDÊNCIA
+ “No Tribunal de Contas Estadual, composto por sete conselheiros, quatro devem ser escolhidos pela
+ Assembleia Legislativa e três pelo chefe do Poder Executivo estadual, cabendo a este indicar um
+ dentre auditores e outro dentre membros do Ministério Público, e um terceiro a sua livre escolha”10.
+
+ “O Ministério Público junto ao Tribunal de Contas da União não dispõe de fisionomia institucional
+ própria e, não obstante as expressivas garantias de ordem subjetiva concedidas aos seus Procuradores
+ pela própria Constituição (art. 130), encontra-se consolidado na 'intimidade estrutural' dessa Corte de
+ Contas, que se acha investida – 'até mesmo em função do poder de autogoverno que lhe confere a
+ Carta Política (art. 73, caput, in fine)' – da prerrogativa de fazer instaurar o processo legislativo
+ concernente à sua organização, à sua estruturação interna, à definição do seu quadro de pessoal e à
+ criação dos cargos respectivos. Só cabe lei complementar, no sistema de direito positivo brasileiro,
+ quando formalmente reclamada a sua edição por norma constitucional explícita. A especificidade do
+ Ministério Público que atua perante o TCU, e cuja existência se projeta num domínio institucional
+ absolutamente diverso daquele em que se insere o Ministério Público da União, faz com que a
+ regulação de sua organização, a discriminação de suas atribuições e a definição de seu estatuto sejam
+ passíveis de veiculação mediante simples lei ordinária, eis que a edição de lei complementar é
+ reclamada, no que concerne ao Parquet, tão somente para a disciplinação normativa do Ministério
+ Público comum (CF, art. 128, § 5º)”11.
+
+ “O Ministério Público de Contas não tem legitimidade para impetrar mandado de segurança em face
+ de acórdão do Tribunal de Contas perante o qual atua”12.
+
+ É inconstitucional lei estadual que concede autonomia financeira e administrativa aos ministérios
+ públicos especiais que atuam junto aos Tribunais de Contas do estado e dos municípios, uma vez que a
+ Constituição determina que as normas estabelecidas para a organização do Tribunal de Contas da
+ União também se aplicam aos Tribunais de Contas dos Estados e do Distrito Federal (art. 75),
+ possuindo o Ministério Público especial que atua junto ao TCU apenas autonomia funcional
+ (independência para o exercício de suas funções).13
+
+10
+   STF – Súmula 653.
+11
+   STF – ADI 789.
+12 STF - RE 1178617
+
+13
+     STF - ADI 5254
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          27
+           www.estrategiaconcursos.com.br                                                             55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                             FUNÇÕES ESSENCIAIS À JUSTIÇA
+                              CADERNO DE JURISPRUDÊNCIA
+
+Ministério Público (arts. 127 a 130-A da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    É inconstitucional lei estadual que atribui ao Procurador-Geral de Justiça prerrogativas próprias dos
+    Chefes de Poder, uma vez que o artigo 2º da CF/88 define como Poder apenas os Poderes Legislativo,
+    Executivo e Judiciário, não havendo menção ao Ministério Público como Poder do Estado nem
+    assegura ao procurador-geral prerrogativas típicas dos chefes dos Poderes.1
+
+    É inconstitucional lei estadual que atribui ao Procurador-Geral de Justiça prerrogativas próprias dos
+    Chefes de Poder, uma vez que o artigo 2º da CF/88 define como Poder apenas os Poderes Legislativo,
+    Executivo e Judiciário, não havendo menção ao Ministério Público como Poder do Estado nem
+    assegura ao procurador-geral prerrogativas típicas dos chefes dos Poderes.2
+
+Abrangência do Ministério Público
+
+                                                    JURISPRUDÊNCIA
+    “O Ministério Público junto ao Tribunal de Contas da União não dispõe de fisionomia institucional
+    própria e, não obstante as expressivas garantias de ordem subjetiva concedidas aos seus Procuradores
+    pela própria Constituição (art. 130), encontra-se consolidado na 'intimidade estrutural' dessa Corte de
+    Contas, que se acha investida – 'até mesmo em função do poder de autogoverno que lhe confere a
+    Carta Política (art. 73, caput, in fine)' – da prerrogativa de fazer instaurar o processo legislativo
+    concernente à sua organização, à sua estruturação interna, à definição do seu quadro de pessoal e à
+    criação dos cargos respectivos. Só cabe lei complementar, no sistema de direito positivo brasileiro,
+    quando formalmente reclamada a sua edição por norma constitucional explícita. A especificidade do
+    Ministério Público que atua perante o TCU, e cuja existência se projeta num domínio institucional
+    absolutamente diverso daquele em que se insere o Ministério Público da União, faz com que a
+    regulação de sua organização, a discriminação de suas atribuições e a definição de seu estatuto sejam
+    passíveis de veiculação mediante simples lei ordinária, eis que a edição de lei complementar é
+    reclamada, no que concerne ao Parquet, tão somente para a disciplinação normativa do Ministério
+    Público comum (CF, art. 128, § 5º)”3.
+
+    “O Ministério Público de Contas não tem legitimidade para impetrar mandado de segurança em face
+    de acórdão do Tribunal de Contas perante o qual atua”4.
+
+1
+  STF - ADI 7219 / RS
+2
+  STF - ADI 7219 / RS
+3
+  STF – ADI 789.
+4 STF - RE 1178617
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             28
+           www.estrategiaconcursos.com.br                                                                55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Advocacia Pública (arts. 131 e 132 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    A representação judicial e a consultoria jurídica no âmbito dos estados e no Distrito Federal é única e
+    deve ser conduzida pela Procuradoria-Geral do ente federado5.
+
+    É inconstitucional dispositivo de Constituição Estadual que prevê a descentralização da Procuradoria
+    Geral do Estado, uma vez que a Constituição Federal não autoriza a descentralização funcional da
+    Procuradoria-Geral do Estado, ocorrendo, no caso, usurpação da competência da Procuradoria
+    Estadual6.
+
+    É inconstitucional o diploma normativo editado pelo Estado-membro, ainda que se trate de emenda à
+    Constituição estadual, que outorgue a exercente de cargo em comissão ou de função de confiança,
+    estranho aos quadros da Advocacia de Estado, o exercício, no âmbito do Poder Executivo local, de
+                                                           ==219a34==
+
+    atribuições inerentes à representação judicial e ao desempenho da atividade de consultoria e de
+    assessoramento jurídicos, pois tais encargos traduzem prerrogativa institucional outorgada, em caráter
+    de exclusividade, aos Procuradores do Estado pela própria Constituição da República.7
+
+    É inconstitucional Dispositivo da Constituição Estadual que confere inamovibilidade aos procuradores
+    estaduais, uma vez que os procuradores são advogados que representam a parte do processo, e, como
+    tal, não têm essa garantia constitucional8.
+
+    É inconstitucional lei estadual que atribui à Procuradoria Geral do Estado a competência para controle
+    dos serviços jurídicos de empresas públicas e sociedades de economia mista, uma vez que o artigo 132
+    da CF/88 confere às procuradorias atribuição para representação judicial e a consultoria jurídica nos
+    estados, aí compreendidas a administração pública direta, as autarquias e as fundações, mas não às
+    empresas públicas e sociedades de economia mista9.
+
+    “A expressão ‘procuradores’ contida na parte final do inciso XI do artigo 37 da Constituição da
+    República compreende os procuradores municipais, uma vez que estes se inserem nas funções
+    essenciais à Justiça, estando, portanto, submetidos ao teto de 90,75% do subsídio mensal em espécie
+    dos ministros do Supremo Tribunal Federal”10.
+
+    “Os Procuradores da Fazenda Nacional não possuem direito a férias de 60 dias, nos termos da
+    legislação infraconstitucional e constitucional vigentes”11.
+
+    "1. A instituição de Procuradorias municipais depende da escolha política autônoma de cada município,
+
+5 STF - ADIs 5262, 5215 e 4449
+
+6 STF - ADI 241
+
+7
+    STF – ADI 4843/PB
+8 STF - ADI 1246
+
+9 STF – ADI 3536
+
+10 STF - RE 663696
+
+11
+     STF – RE 594481
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             29
+           www.estrategiaconcursos.com.br                                                                55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ no exercício da prerrogativa de sua auto-organização.
+ 2. É inconstitucional a interpretação de norma estadual que conduza à obrigatoriedade de
+ implementação de Procuradorias municipais, eis que inexiste norma constitucional de reprodução
+ obrigatória que vincule o poder legislativo municipal à criação de órgãos próprios de advocacia pública.
+ Precedentes.
+ 3. É materialmente inconstitucional dispositivo de Constituição Estadual que estabeleça a possibilidade
+ de contratação direta e genérica de serviços de representação judicial e extrajudicial, por ferir a regra
+ constitucional de concurso público.
+ 4. Realizada a opção política municipal de instituição de órgão próprio de procuradoria, a composição
+ de seu corpo técnico está vinculada à incidência das regras constitucionais, dentre as quais o inafastável
+ dever de promoção de concurso público (artigo 37, inciso II, da Constituição Federal) [ressalvadas as
+ situações excepcionais situações em que também à União, aos Estados e ao Distrito Federal pode ser
+ possível a contratação de advogados externos, conforme os parâmetros reconhecidos pela
+ jurisprudência do STF].12"
+
+
+Defensoria Pública (arts. 134 e 135 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+ É inconstitucional norma estadual que estabeleça a vinculação da Defensoria Pública Estadual a alguma
+ Secretaria de Estado13.
+
+12
+     STF - ADI 6331/PE
+13
+     STF – ADI 4056.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             30
+           www.estrategiaconcursos.com.br                                                                55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                          ORDEM ECONÔMICA E FINANCEIRA
+                              CADERNO DE JURISPRUDÊNCIA
+
+Princípios da ordem econômica (CF/88, art. 170)
+
+                                                    JURISPRUDÊNCIA
+    “Ofende o princípio da livre concorrência lei municipal que impede a instalação de estabelecimentos
+    comerciais do mesmo ramo em determinada área” 1.
+
+    “É constitucional lei municipal que fixa distanciamento mínimo entre postos de revenda de
+    combustíveis, por motivo de segurança”2.
+                                                           ==219a34==
+
+    “O princípio da livre iniciativa não pode ser invocado para afastar regras de regulamentação do
+    mercado e de defesa do consumidor”3.
+
+
+Serviços públicos (CF/88, art. 175)
+
+                                                    JURISPRUDÊNCIA
+    É inconstitucional lei estadual que prorroga automaticamente as permissões para empresas operarem
+    serviço de transporte alternativo intermunicipal de passageiros, uma vez que nas modalidades
+    de contratação por concessão ou permissão, a delegação de serviço público deve ser obrigatoriamente
+    precedida de procedimento licitatório, nos termos do artigo 175 da Constituição Federal4.
+    “A execução do serviço público de loteria por agentes privados depende de delegação estatal
+    precedida de licitação.”5
+
+
+Exploração de recursos minerais e potenciais de energia
+hidráulica (CF/88, art. 176)
+
+                                                    JURISPRUDÊNCIA
+
+1
+  STF – Súmula Vinculante 49.
+2
+  STF – RE 566.836.
+3
+  STF – Re 349.686.
+4
+  STF - ADI 7241
+5
+  STF – RE 1498128. Tema 1323.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         31
+           www.estrategiaconcursos.com.br                                                            55
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+ São inconstitucionais normas de lei estadual que permitem ao Estado definir condições de
+ recolhimento das compensações financeiras decorrentes da exploração de recursos hídricos e minerais
+ em seu território e arrecadá-las diretamente por intermédio da Secretaria Estadual da Fazenda, por
+ usurpar competência da União para dispor sobre a exploração de recursos energéticos, hídricos e
+ minerais. Embora sejam receitas originárias dos entes e dos órgãos da administração direta da União,
+ as suas condições de recolhimento e repartição são definidas por regras da União, que tem dupla
+ autoridade normativa na matéria, pois cabe a ela definir as condições legislativas gerais de exploração
+ de potenciais e recursos hídricos e minerais.6
+
+6 STF – ADI 4606
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             32
+        www.estrategiaconcursos.com.br                                                                55
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                              ORDEM SOCIAL
+                              CADERNO DE JURISPRUDÊNCIA
+
+Ordem Social – disposições gerais (art. 193 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Deve ser, ao final, enfatizado que o direito dos idosos à gratuidade de transporte coletivo urbano não
+    está incluído no rol de benefícios da seguridade social. A despeito de estarem dispostas no Título VIII da
+    Constituição da República, que trata da Ordem Social, as disposições relativas à seguridade social (saúde,
+    previdência e assistência social), previstas no Capítulo II, não se confundem com aquelas afeitas aos
+    idosos, situadas no Capítulo VI, sendo correto, por isso mesmo, afirmar que as normas constitucionais
+    atinentes à seguridade social (arts. 194 a 204) não são aplicáveis à específica disciplina do direito dos
+    idosos (art. 230)”1
+
+
+Seguridade Social (arts. 194 e 195 da CF/88)
+
+Financiamento da seguridade social (art. 195 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da
+    anterioridade”2.
+
+    “É legítima a incidência da contribuição previdenciária sobre o 13º salário”3
+
+    "É constitucional a incidência da contribuição para o PIS e da Cofins sobre as receitas auferidas com a
+    locação de bens móveis ou imóveis quando constituir atividade empresarial do contribuinte,
+    considerando que o resultado econômico dessa operação coincide com o conceito de faturamento ou
+    receita bruta tomados como a soma das receitas oriundas do exercício das atividades empresariais,
+    pressuposto desde a redação original do artigo 195, I, da Constituição Federal"4.
+
+
+Previdência Social (arts. 201 a 202 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+
+1
+  STF – ADI 3.768.
+2
+  STF – Súmula Vinculante 50.
+3
+  STF – Súmula 688.
+4
+    STF - RE 599.658 / RE 659.412
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                33
+           www.estrategiaconcursos.com.br                                                                   55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    O segurado do INSS que se enquadre em dispositivo declarado constitucional de nova lei previdenciária
+    não pode optar pela regra definitiva prevista em lei previdenciária anterior, independentemente de esta
+    lhe ser mais favorável. Como a Constituição Federal veda a aplicação de critérios diferenciados para a
+    concessão de benefícios, não é possível que o segurado escolha uma forma de cálculo que lhe seja mais
+    benéfica5.
+
+
+Educação (arts. 205 a 214 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “A cobrança de taxa de matrícula nas universidades públicas viola o disposto no art. 206, IV, da
+    Constituição Federal”6.
+    O conteúdo do direito à educação necessariamente abarca a obrigação estatal de capacitar todas as
+    pessoas a participar efetivamente de uma sociedade livre, justa e igualitária, sendo inconstitucional lei
+    municipal que proíbe conteúdo pedagógico relativas a identidade de gênero nos currículos escolares da
+    rede pública7.
+
+
+Comunicação Social (arts. 220 a 224 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “1. A plena proteção constitucional à liberdade de imprensa é consagrada pelo binômio liberdade com
+    responsabilidade, vedada qualquer espécie de censura prévia. Admite-se a possibilidade posterior de
+    análise e responsabilização, inclusive com remoção de conteúdo, por informações comprovadamente
+    injuriosas, difamantes, caluniosas, mentirosas, e em relação a eventuais danos materiais e morais. Isso
+    porque os direitos à honra, intimidade, vida privada e à própria imagem formam a proteção constitucional
+    à dignidade da pessoa humana, salvaguardando um espaço íntimo intransponível por intromissões ilícitas
+    externas.
+
+    2. Na hipótese de publicação de entrevista em que o entrevistado imputa falsamente prática de crime a
+    terceiro, a empresa jornalística somente poderá ser responsabilizada civilmente se: (i) à época da
+    divulgação, havia indícios concretos da falsidade da imputação; e (ii) o veículo deixou de observar o dever
+    de cuidado na verificação da veracidade dos fatos e na divulgação da existência de tais indícios.” 8
+
+
+Meio Ambiente (art. 225 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+
+5
+  STF - ADIs 2.110 e ADI 2.111
+6
+  STF – Súmula Vinculante 12.
+7
+  STF – ADPF 462
+8
+  STF – RE 1.075.412/PE
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 34
+           www.estrategiaconcursos.com.br                                                                    55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    "É imprescritível a pretensão de reparação civil de dano ambiental"9.
+
+    “É imprescritível a pretensão de ressarcimento ao erário decorrente da exploração irregular do
+    patrimônio mineral da União, porquanto indissociável do dano ambiental causado”10.
+
+
+Família, Criança, Adolescente, Jovem e Idoso (arts. 226 a 230 da
+CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Após a promulgação da EC nº 66/2010, a separação judicial não é mais requisito para o divórcio nem
+    subsiste como figura autônoma no ordenamento jurídico. Sem prejuízo, preserva-se o estado civil das
+    pessoas que já estão separadas, por decisão judicial ou escritura pública, por se tratar de ato jurídico
+    perfeito (art. 5º, XXXVI, da CF).” 11
+
+    São inconstitucionais decretos municipais que dispensam a apresentação de comprovante de vacinação
+    contra a Covid-19 para matrículas em escolas, uma vez que o direito assegurado a todos os brasileiros
+    de conviver em um ambiente sanitariamente seguro [art. 196 da CF/88], em especial a garantia à criança,
+    ao adolescente e ao jovem o direito à saúde e à educação definido [art. 227 da CF/88], sobrepõe-se a
+    eventuais pretensões individuais de não se vacinar e os municípios não podem desobrigar a vacinação
+    contra a covid-19, já que esta foi incluída no Plano Nacional de Imunização (PNI), sob pena de desrespeito
+    à distribuição de competências legislativas.12
+
+
+Índios (arts. 231 e 232 da CF/88)
+
+- O STF fixou a seguinte tese de repercussão geral em Recurso Extraordinário em que o Tribunal
+rejeitou a possibilidade de adotar a data da promulgação da Constituição Federal (5/10/1988)
+como marco temporal para definir a ocupação tradicional da terra pelas comunidades indígenas:
+
+                                                    JURISPRUDÊNCIA
+    “I - A demarcação consiste em procedimento declaratório do direito originário territorial à posse das
+    terras ocupadas tradicionalmente por comunidade indígena;
+
+    II - A posse tradicional indígena é distinta da posse civil, consistindo na ocupação das terras habitadas
+    em caráter permanente pelos indígenas, das utilizadas para suas atividades produtivas, das
+    imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar e das necessárias a
+    sua reprodução física e cultural, segundo seus usos, costumes e tradições, nos termos do §1º do artigo
+    231 do texto constitucional;
+
+9
+  STF – RE 654.833.
+10
+   STF – RE 1427694.
+11
+   STF – RE 1.167.478/RJ
+12
+   STF – ADPF 1123
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                35
+           www.estrategiaconcursos.com.br                                                                   55
+
+                                        
+
+
+---
+
+ Tulio Lages
+ Aula Extra
+
+III - A proteção constitucional aos direitos originários sobre as terras que tradicionalmente ocupam
+independe da existência de um marco temporal em 5 de outubro de 1988 ou da configuração do
+renitente esbulho, como conflito físico ou controvérsia judicial persistente à data da promulgação da
+Constituição;
+
+IV – Existindo ocupação tradicional indígena ou renitente esbulho contemporâneo à promulgação da
+Constituição Federal, aplica-se o regime indenizatório relativo às benfeitorias úteis e necessárias, previsto
+no art. 231, §6º, da CF/88;
+
+V – Ausente ocupação tradicional indígena ao tempo da promulgação da Constituição Federal ou
+renitente esbulho na data da promulgação da Constituição, são válidos e eficazes, produzindo todos os
+seus efeitos, os atos e negócios jurídicos perfeitos e a coisa julgada relativos a justo título ou posse de
+boa-fé das terras de ocupação tradicional indígena, assistindo ao particular direito à justa e prévia
+indenização das benfeitorias necessárias e úteis, pela União; e quando inviável o reassentamento dos
+particulares, caberá a eles indenização pela União (com direito de regresso em face do ente federativo
+                                                       ==219a34==
+
+que titulou a área) correspondente ao valor da terra nua, paga em dinheiro ou em títulos da dívida agrária,
+se for do interesse do beneficiário, e processada em autos apartados do procedimento de demarcação,
+com pagamento imediato da parte incontroversa, garantido o direito de retenção até o pagamento do
+valor incontroverso, permitidos a autocomposição e o regime do art. 37, §6º da CF;
+
+VI – Descabe indenização em casos já pacificados, decorrentes de terras indígenas já reconhecidas e
+declaradas em procedimento demarcatório, ressalvados os casos judicializados e em andamento;
+
+VII – É dever da União efetivar o procedimento demarcatório das terras indígenas, sendo admitida a
+formação de áreas reservadas somente diante da absoluta impossibilidade de concretização da ordem
+constitucional de demarcação, devendo ser ouvida, em todo caso, a comunidade indígena, buscando-se,
+se necessário, a autocomposição entre os respectivos entes federativos para a identificação das terras
+necessárias à formação das áreas reservadas, tendo sempre em vista a busca do interesse público e a paz
+social, bem como a proporcional compensação às comunidades indígenas (art. 16.4 da Convenção 169
+OIT);
+
+VIII – A instauração de procedimento de redimensionamento de terra indígena não é vedada em caso de
+descumprimento dos elementos contidos no artigo 231 da Constituição da República, por meio de
+procedimento demarcatório até o prazo de cinco anos da demarcação anterior, sendo necessário
+comprovar grave e insanável erro na condução do procedimento administrativo ou na definição dos
+limites da terra indígena, ressalvadas as ações judiciais em curso e os pedidos de revisão já instaurados
+até a data de conclusão deste julgamento;
+
+IX - O laudo antropológico realizado nos termos do Decreto nº 1.775/1996 é um dos elementos
+fundamentais para a demonstração da tradicionalidade da ocupação de comunidade indígena
+determinada, de acordo com seus usos, costumes e tradições, na forma do instrumento normativo citado;
+
+X - As terras de ocupação tradicional indígena são de posse permanente da comunidade, cabendo aos
+indígenas o usufruto exclusivo das riquezas do solo, dos rios e lagos nelas existentes;
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   36
+       www.estrategiaconcursos.com.br                                                                      55
+
+                                    
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ XI - As terras de ocupação tradicional indígena, na qualidade de terras públicas, são inalienáveis,
+ indisponíveis e os direitos sobre elas imprescritíveis;
+
+ XII – A ocupação tradicional das terras indígenas é compatível com a tutela constitucional ao meio
+ ambiente, sendo assegurados o exercício das atividades tradicionais dos indígenas;
+
+ XIII – Os povos indígenas possuem capacidade civil e postulatória, sendo partes legítimas nos processos
+ em que discutidos seus interesses, sem prejuízo, nos termos da lei, da legitimidade concorrente da FUNAI
+ e da intervenção do Ministério Público como fiscal da lei”13.
+
+13
+     STF – RE 1017365.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           37
+           www.estrategiaconcursos.com.br                                                              55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                  ORGANIZAÇÃO DO ESTADO
+                              CADERNO DE JURISPRUDÊNCIA
+
+Repartição de competências entre os entes federativos
+
+Competências privativas da União (art. 22 da CF/88)
+
+- O STF1 entende que compete exclusivamente à União autorizar e fiscalizar a produção e o
+comércio de material bélico (art. 21, VI, da CF), bem como legislar sobre a mesma temática
+(matéria bélico) (art. 22, XXI, da CF).
+
+Além disso, o STF2 entende que é vedada a edição de leis estaduais ou municipais, contra ou a
+favor da linguagem neutra em sistemas de ensino, uma vez que qualquer mudança jurídica no
+ensino do idioma oficial brasileiro, tal como atualmente disciplinado pela União, depende do
+exercício de sua competência privativa para legislar sobre diretrizes e bases da educação (CF, art.
+22, XXIV), bem como sobre normas de uso da língua portuguesa editadas em consonância com o
+art. 13 da Constituição Federal.
+
+- Outros precedente(s) e/ou entendimento(s) jurisprudencial(is) importante(s):
+
+                                                  JURISPRUDÊNCIA
+    “É inconstitucional a lei ou ato normativo estadual ou distrital que disponha sobre sistemas de
+    consórcios e sorteios, inclusive bingos e loterias”3. [isso porque é competência privativa da União
+    legislar sobre sistemas de consórcios e sorteios – CF, art. 22, XX].
+    “A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo
+    e julgamento são da competência legislativa privativa da União”4. [isso porque é competência privativa
+    da União legislar sobre direito penal – CF, art. 22, I].
+    “Compete privativamente à União legislar sobre vencimentos dos membros das polícias civil e militar
+    e do corpo de bombeiros militar do Distrito Federal”5.
+    É inconstitucional norma estadual que cria responsabilização penal para a conduta de causar incêndio
+    em florestas, matas e demais formas de vegetação no âmbito local e fixa hipótese de inafiançabilidade
+    ao delito, por violar a competência privativa da União para legislar sobre direito penal e processual
+    penal [CF/1988, art. 22, I]6.
+
+1
+  STF – ADI 7.450, ADI 7.269, dentre outros.
+2
+  STF – ADI 7644
+3
+  STF – Súmula Vinculante 2.
+4
+  STF – Súmula Vinculante 46.
+5
+  STF – Súmula Vinculante 39.
+6
+  STF – ADI 7712.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 38
+           www.estrategiaconcursos.com.br                                                                    55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    É inconstitucional lei estadual que facilita o porte de armas de fogo por atiradores desportivos, uma
+    vez que é de competência da União autorizar e fiscalizar a produção e o comércio de material bélico
+    e editar normais gerais sobre a matéria [art. 21, VI e art. 22, XXI]7.
+    É inconstitucional lei municipal que proíbe conteúdo pedagógico relativas a identidade de gênero nos
+    currículos escolares da rede pública, uma vez que são exaustivas as diretrizes editadas pela União
+    [Competência privativa da União – inciso XXIV, art. 24 da CF/88]8.
+    É inconstitucional lei estadual que trata de porte de arma a servidores da área administrativa da polícia
+    penal estadual, uma vez que cabe apenas à União autorizar e fiscalizar o uso de material bélico e
+    legislar sobre a matéria e sobre direito penal, em razão da necessidade de previsão uniforme sobre o
+    uso de arma de fogo no território nacional, matéria que afeta a segurança de toda a coletividade. 9
+    “São constitucionais as leis dos Estados, Distrito Federal e Municípios que, no procedimento
+    licitatório, antecipam a fase da apresentação das propostas à da habilitação dos licitantes, em razão
+    da competência dos demais entes federativos de legislar sobre procedimento administrativo”10 (não
+    havendo de se falar, portanto, de afronta à competência da União para legislar sobre normas gerais
+    de licitações prevista no art. 22, inciso XXVII, da CF/88 por parte daquelas normas).
+
+Competência legislativa concorrente (art. 24 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    Ainda que os Estados tenham legitimidade para legislar sobre direito do consumidor, é inconstitucional
+    lei estadual que dispõe além do equilíbrio da relação de consumo, ingressando em definições próprias
+    dos serviços de telecomunicações, como a regulação de acesso à rede e a imposição de ajustes técnicos
+    e operacionais, por invadir a competência da União privativa para legislar sobre telecomunicações
+    (CF/1988, art. 22, IV) e exclusiva para definir a forma e o modo da exploração desses serviços (CF/1988,
+    art. 21, XI c/c o art. 175)" 11.
+
+Competência dos Estados-membros (art. 25, § 1º, da CF/88)
+
+                                                    JURISPRUDÊNCIA
+    “Os Estados-membros são competentes para explorar e regulamentar a prestação de serviços de
+    transporte intermunicipal”12.
+
+7
+  STF - ADIs 7072, 7570, 7080 e 7090.
+8
+  STF – ADPF 462.
+9
+  STF – ADI 7450/MS
+10
+   STF – RE 1.188.352 – Tema 1036
+11
+   STF – ADI 7404/RJ
+12
+   STF – ADI 2.349.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                    39
+           www.estrategiaconcursos.com.br                                                                       55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Competência dos Municípios (art. 30 da CF/88)
+
+- O STF entende que os municípios têm legitimidade para aprovar leis que proíbam a soltura de
+fogos de artifício e artefatos pirotécnicos que produzam estampido13.
+
+No caso, o Supremo entendeu que “o Município é competente para legislar concorrentemente
+sobre meio ambiente, no limite de seu interesse local e desde que esse regramento seja harmônico
+com a disciplina estabelecida pelos demais entes federados, assim como detém competência
+legislativa suplementar quanto ao tema afeto à proteção à saúde (art. 24, VI e XII, da CRFB/88)”.
+
+Assim, entendeu-se “constitucionalmente válida a opção legislativa municipal de proibir o uso de
+fogos de artifício de efeito sonoro ruidoso, ao promover um padrão mais elevado de proteção à
+saúde e ao meio ambiente, nos limites razoáveis do regular exercício de competência legislativa
+pelo ente estatal”.
+
+Foi aprovada, por fim, a seguinte tese de repercussão geral14:
+
+                                                    JURISPRUDÊNCIA
+ “É constitucional – formal e materialmente – lei municipal que proíbe a soltura de fogos de artifício e
+ artefatos pirotécnicos produtores de estampidos”
+
+- Outros precedente(s) e/ou entendimento(s) jurisprudencial(is) importante(s):
+
+                                                    JURISPRUDÊNCIA
+ “É competente o Município para fixar o horário de funcionamento de estabelecimento comercial”.15
+
+Municípios (arts. 29 a 31 da CF/88)
+
+                                                    JURISPRUDÊNCIA
+ “Compete à Justiça Federal processar e julgar prefeito municipal por desvio de verba sujeita a prestação
+ de contas perante órgão federal”16.
+
+ “Compete à Justiça Estadual processar e julgar prefeito por desvio de verba transferida e incorporada
+ ao patrimônio municipal”17.
+
+Territórios (art. 33 da CF/88)
+
+Art. 33. A lei disporá sobre a organização administrativa e judiciária dos Territórios.
+
+13
+   STF – RE 1210727.
+14
+   STF – RE 1210727.
+15
+   STF – Súmula Vinculante 38.
+16
+   STJ – Súmula 208.
+17
+   STJ – Súmula 209.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           40
+           www.estrategiaconcursos.com.br                                                              55
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+§ 1º Os Territórios poderão ser divididos em Municípios, aos quais se aplicará, no que couber, o disposto
+no Capítulo IV deste Título.
+§ 2º As contas do Governo do Território serão submetidas ao Congresso Nacional, com parecer prévio do
+Tribunal de Contas da União.
+§ 3º Nos Territórios Federais com mais de cem mil habitantes, além do Governador nomeado na forma
+desta Constituição, haverá órgãos judiciários de primeira e segunda instância, membros do Ministério
+Público e defensores públicos federais; a lei disporá sobre as eleições para a Câmara Territorial e sua
+competência deliberativa.
+
+- Os Territórios não são entes federativos, mas podem ser divididos em Municípios (§ 1º).
+
+- O chefe do Poder Executivo do Território é o Governador, nomeado pelo Presidente da
+República após ter seu nome aprovado pelo Senado Federal, mediante voto secreto, após
+arguição pública (CF, arts. 52, III, “c” e 84, XIV).
+
+- As contas do Governo do Território são submetidas ao Congresso Nacional, com parecer prévio
+do TCU (§ 2º).
+
+- A Câmara Territorial (Poder Legislativo do Território) possui competência apenas deliberativa,
+legislativa (§ 3º), mas a função de controle externo é de incumbência do Congresso Nacional,
+como o auxílio do TCU.
+
+- O Poder Judiciário, o Ministério Público e a Defensoria Pública, nos Territórios, são organizados
+e mantidos pela União (art. 21, XIII) e, no caso de o Territórios contar com mais de 100 mil
+habitantes, haverá representações desses órgãos em tais Territórios (§ 3º).
+
+- Cada Território elege 4 Deputados Federais (art. 44, § 2º).
+
+Bens da União e dos Estados (arts. 20 e 26 da CF/88)
+
+Art. 20. São bens da União:
+I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
+II - as terras devolutas indispensáveis à defesa das fronteiras, das fortificações e construções militares, das
+vias federais de comunicação e à preservação ambiental, definidas em lei;
+III - os lagos, rios e quaisquer correntes de água em terrenos de seu domínio, ou que banhem mais de um
+Estado, sirvam de limites com outros países, ou se estendam a território estrangeiro ou dele provenham,
+bem como os terrenos marginais e as praias fluviais;
+IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as praias marítimas; as ilhas oceânicas
+e as costeiras, excluídas, destas, as que contenham a sede de Municípios, exceto aquelas áreas afetadas
+ao serviço público e a unidade ambiental federal, e as referidas no art. 26, II;
+V - os recursos naturais da plataforma continental e da zona econômica exclusiva;
+VI - o mar territorial;
+VII - os terrenos de marinha e seus acrescidos;
+VIII - os potenciais de energia hidráulica;
+IX - os recursos minerais, inclusive os do subsolo;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                    41
+        www.estrategiaconcursos.com.br                                                                       55
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+X - as cavidades naturais subterrâneas e os sítios arqueológicos e pré-históricos;
+XI - as terras tradicionalmente ocupadas pelos índios.
+§ 1º É assegurada, nos termos da lei, à União, aos Estados, ao Distrito Federal e aos Municípios a
+participação no resultado da exploração de petróleo ou gás natural, de recursos hídricos para fins de
+geração de energia elétrica e de outros recursos minerais no respectivo território, plataforma continental,
+mar territorial ou zona econômica exclusiva, ou compensação financeira por essa exploração.
+§ 2º A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada
+como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e
+utilização serão reguladas em lei.
+(...)
+Art. 26. Incluem-se entre os bens dos Estados:
+I - as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na
+forma da lei, as decorrentes de obras da União;
+II - as áreas, nas ilhas oceânicas e costeiras, que estiverem no seu domínio, excluídas aquelas sob domínio
+da União, Municípios ou terceiros;
+                                                        ==219a34==
+
+III - as ilhas fluviais e lacustres não pertencentes à União;
+IV - as terras devolutas não compreendidas entre as da União.
+
+- Os bens da União foram previstos de modo exemplificado, já que pertencerão também a tal ente
+os bens que “lhe vierem a ser atribuídos” (art. 20, I).
+
+- As terras devolutas que não forem indispensáveis à defesa das fronteiras, das fortificações ou
+construções militares, das vias federais de comunicação ou à preservação ambiental, definidas em
+lei, serão bens do Estado (CF, arts. 20, II e 26, IV).
+
+- O rio que banhe apenas um Estado e não sirva de limite com outro país, bem como não se
+estenda a território estrangeiro ou dele provenha, será bem daquele Estado (e não da União), por
+não entrar na regra do art. 20, III.
+
+- As ilhas fluviais e lacustres que não estejam nas zonas limítrofes com outros país pertencerão aos
+Estados (arts. 20, IV e 26, III).
+
+- Os potenciais de energia hidráulica, mesmo contidos em rios que banhem apenas um Estado e
+não se estenda a território estrangeiro ou dele provenha, será bem da União (art. 20, VIII).
+
+- Mesmo se recursos minerais forem encontrados em uma propriedade particular (ex: uma fazenda
+privada), tais recursos pertencerão à União, por força do art. 20, IX.
+
+Intervenção (arts. 34 a 36 da CF/88)
+
+- Cabe ao Procurador-Geral de Justiça efetuar a representação prevista no art. 35, IV. Contra a
+decisão do TJ que negue provimento à referida representação não cabe recurso extraordinário no
+STF, porque tal decisão não é essencialmente jurídica, mas sim político-administrativa. Precedente
+importante:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               42
+        www.estrategiaconcursos.com.br                                                                  55
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                                    JURISPRUDÊNCIA
+ “Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de
+ intervenção estadual em Município”18.
+
+18
+     STF – Súmula 637.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   43
+           www.estrategiaconcursos.com.br                                                      55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                           PODER JUDICIÁRIO
+                              CADERNO DE JURISPRUDÊNCIA
+
+Garantias dos juízes
+
+- O STF entende que, embora o inciso I do parágrafo único do art. 95 da CF/88 fale em “uma de
+magistério”, é permitido o exercício da magistratura em conjunto com mais de uma função de
+magistério, desde que não prejudique a atividade judicante1.
+
+
+Autonomia organizacional e administrativa do Poder Judiciário
+
+                                                    JURISPRUDÊNCIA
+    É inconstitucional dispositivo de Constituição Estadual que trata do número de desembargadores do
+    Tribunal de Justiça Estadual, por violação ao princípio da simetria e da autonomia administrativa e
+    financeira do Poder Judiciário2.
+
+    É inconstitucional norma de Constituição Estadual de iniciativa parlamentar que, a pretexto de
+    assegurar a efetiva democracia no processo de escolha dos dirigentes dos tribunais, estabeleceu novo
+    universo de eleitores, em desrespeito ao princípio da separação dos Poderes [CF/1988, art. 2º] e a
+    autonomia dos tribunais em eleger seus órgãos diretivos [CF/1988, arts. 96, I, “a”].3
+
+
+Autonomia financeira do Poder Judiciário
+
+Encaminhando o Judiciário sua proposta orçamentária ao Executivo obedecendo os limites da
+LDO e demais requisitos previstos no art. 99, § 2º, o chefe do Poder Executivo não pode reduzir
+unilateralmente o orçamento proposto, cabendo a ele remetê-lo ao Poder Legislativo e, se
+entender pertinente, solicitar a redução pretendida, conforme entendimento do STF:
+
+                                                    JURISPRUDÊNCIA
+    “É inconstitucional a redução unilateral pelo Poder Executivo dos orçamentos propostos pelos outros
+    Poderes e por órgãos constitucionalmente autônomos, como o Ministério Público e a Defensoria
+    Pública, na fase de consolidação do projeto de lei orçamentária anual, quando tenham sido elaborados
+    em obediência às leis de diretrizes orçamentárias e enviados conforme o art. 99, § 2º, da CRFB/88,
+    cabendo-lhe apenas pleitear ao Poder Legislativo a redução pretendida, visto que a fase de apreciação
+
+1
+    STF – 3.126/DF.
+2 STF – ADI 170.
+
+3
+    STF - ADI 5303
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional           44
+           www.estrategiaconcursos.com.br                                                              55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+    legislativa é o momento constitucionalmente correto para o debate de possíveis alterações no Projeto
+    de Lei Orçamentária”4.
+
+
+STF
+
+Competência originária do STF
+
+                                                    JURISPRUDÊNCIA
+    Compete ao Procurador-Geral da República, e não ao STF, dirimir conflitos de competência entre o
+    Ministério Público federal e os Ministérios Públicos dos estados5, mas cabe ao Supremo decidir,
+    originalmente, sobre os conflitos de competência entre Ministérios Públicos de estados-membros
+    diferentes6.
+                                                           ==219a34==
+
+    Compete ao STF julgar mandado de segurança contra ato de Comissão Parlamentar de Inquérito7
+
+Competência recursal extraordinária do STF
+
+                                                    JURISPRUDÊNCIA
+    “É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de
+    alçada, ou por turma recursal de juizado especial cível e criminal8.
+
+
+Conselho Nacional de Justiça (CNJ)
+
+- Ao rever o processo disciplinar de magistrados, o CNJ pode, inclusive, agravar, abrandar,
+cancelar ou reformar a decisão revista9;
+
+- Os estados-membros não podem criar conselho que funcione como órgão de controle interno
+ou externo do seu Poder Judiciário (entendimento do STF);
+
+- Outros entendimentos jurisprudenciais importantes:
+
+                                                   JURISPRUDÊNCIA
+    “É inconstitucional, por Constituição Estadual, de órgão de controle administrativo do Poder
+    Judiciário do qual participem representantes de outros Poderes ou entidades”10.
+
+4
+  STF – ADI 5287.
+5
+  STF – ACO/924.
+6
+  STF – ACO 889/RJ.
+7
+  STF – MS 23.619/DF.
+8
+  STF – Súmula 640.
+9
+  STF – MS 33565/DF.
+10
+   STF – Súmula 649.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          45
+           www.estrategiaconcursos.com.br                                                             55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ “O Conselho Nacional de Justiça, embora integrando a estrutura constitucional do Poder Judiciário
+ como órgão interno de controle administrativo, financeiro e disciplinar da magistratura – excluídos,
+ no entanto, do alcance de referida competência o próprio Supremo Tribunal Federal e seus Ministros
+ (ADI 3.367/DF) –, qualifica-se como instituição de caráter eminentemente administrativo, não
+ dispondo de atribuições funcionais que lhe permitam, quer colegialmente, quer mediante atuação
+ monocrática de seus Conselheiros ou, ainda, do Corregedor Nacional de Justiça, fiscalizar,
+ reexaminar e suspender os efeitos decorrentes de atos de conteúdo jurisdicional emanados de
+ magistrados e Tribunais em geral, razão pela qual mostra-se arbitrária e destituída de legitimidade
+ jurídico-constitucional a deliberação do Corregedor Nacional de Justiça que, agindo ‘ultra vires’,
+ paralise a eficácia de decisão que tenha concedido mandado de segurança”11.
+
+ “os estados-membros carecem de competência constitucional para instituir, como órgão interno ou
+ externo do Judiciário, conselho destinado ao controle da atividade administrativa, financeira ou
+ disciplinar da respectiva justiça”12.
+
+ Não compete ao Tribunal de Contas da União a fiscalização da destinação de recursos oriundos de
+ prestações pecuniárias pagas em virtude de condenações criminais, surgidas da atuação jurisdicional,
+ uma vez que viola as garantias de autonomia administrativa e financeira do Poder Judiciário (CF, arts.
+ 96 e 99). Isso porque foram atribuídas ao Conselho Nacional de Justiça, entre outras competências, a
+ de controlar a atuação administrativa e financeira desse Poder (CF, art. 103-B, § 4º) e também ao
+ Conselho da Justiça Federal (órgão com poderes correicionais, cujas decisões possuem caráter
+ vinculante), nos termos do art. 105, § 1º, II, da Constituição Federal, a supervisão administrativa e
+ orçamentária da Justiça Federal de primeiro e segundo grau.13
+
+
+Justiça Federal
+
+                                                    JURISPRUDÊNCIA
+ “Compete à Justiça Federal comum processar e julgar civil denunciado pelos crimes de falsificação e
+ de uso de documento falso quando se tratar de falsificação da Caderneta de Inscrição e Registro (CIR)
+ ou de Carteira de Habilitação de Amador (CHA), ainda que expedidas pela Marinha do Brasil”14.
+
+ "Compete à Justiça Federal processar e julgar o crime de violação de direito autoral de caráter
+ transnacional".15
+
+
+Justiça do Trabalho
+
+                                                    JURISPRUDÊNCIA
+
+11
+   STF – MS 28.611 MC-AgR/DF.
+12
+   STF – ADI 3.367.
+13
+   STF – MS 39821
+14
+   STF – Súmula Vinculante 36.
+15
+   STF - RE 702362/RG
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              46
+           www.estrategiaconcursos.com.br                                                                 55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+ “A Justiça do Trabalho é competente para processar e julgar as ações de indenização por danos
+ morais e patrimoniais decorrentes de acidente de trabalho propostas por empregado contra
+ empregador, inclusive aquelas que ainda não possuíam sentença de mérito em primeiro grau quando
+ da promulgação da Emenda Constitucional nº 45/04”16.
+
+ “A Justiça do Trabalho é competente para processar e julgar ação possessória ajuizada em decorrência
+ do exercício do direito de greve pelos trabalhadores da iniciativa privada”17.
+
+ “A competência da Justiça do Trabalho prevista no art. 114, VIII, da Constituição Federal alcança a
+ execução de ofício das contribuições previdenciárias relativas ao objeto da condenação constante das
+ sentenças que proferir e acordos por ela homologados”18.
+
+
+Justiça Estadual
+
+                                                    JURISPRUDÊNCIA
+ É constitucional lei estadual iniciada pelo Poder Judiciário que cria novos registros de títulos e
+ documentos e civis das pessoas jurídicas, uma vez que os Tribunais de Justiça têm competência
+ privativa para propor leis que disponham sobre serventias judiciais e extrajudiciais19.
+
+ “O art. 125, § 3º, da Constituição da República é norma de reprodução obrigatória, cabendo à lei
+ estadual, mediante proposta do Tribunal de Justiça, criar a Justiça Militar estadual e o Tribunal de
+ Justiça Militar” 20
+
+
+Precatórios
+
+- O STF21 entende que o Judiciário não pode aumentar hipóteses de sequestro de verbas para
+pagamento de precatório, tendo firmado a seguinte tese de repercussão geral:
+
+                                                    JURISPRUDÊNCIA
+ "O deferimento de sequestro de rendas públicas para pagamento de precatório deve se restringir às
+ hipóteses enumeradas taxativamente na Constituição Federal de 1988.”
+
+- As estatais, ainda que integrantes da administração pública indireta, se submetem ao regime
+de execução típico de direito privado, em que o patrimônio é destinado à quitação da dívida
+não paga, e não se sujeitam ao regime dos precatórios.
+
+
+16
+   STF – Súmula Vinculante 22.
+17
+   STF – Súmula Vinculante 23.
+18
+   STF – Súmula Vinculante 53.
+19 STF - ADI 2127
+
+20
+   STF - ADI 4360 / RS
+21
+     STF – RE 840435 / RS
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        47
+           www.estrategiaconcursos.com.br                                                           55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Logo, é inconstitucional lei estadual que crie a possibilidade de se utilizar para pagamento de
+precatórios, ou qualquer outra finalidade, valores de depósitos judiciais e administrativos
+decorrentes de processos em que empresas públicas e sociedades de economia mista da
+administração indireta sejam parte.22
+
+- Outros precedentes e entendimentos jurisprudenciais importantes:
+
+                                                    JURISPRUDÊNCIA
+ É necessário o “uso de precatórios no pagamento de dívidas da Fazenda Pública, independente de o
+ débito ser proveniente de decisão concessiva de mandado de segurança, ressalvada a exceção prevista
+ no § 3º do art. 100 da Constituição da República”23.
+
+ “Não se mostra admissível a restituição administrativa do indébito reconhecido na via judicial, sendo
+ indispensável a observância do regime constitucional de precatórios, nos termos do art. 100 da
+ Constituição Federal”24.
+
+22
+     STF - ADI 5457/AM
+23 STF – ADPF 250.
+
+24
+     STF – RE 1420691.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        48
+           www.estrategiaconcursos.com.br                                                           55
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+                                 PRINCÍPIOS FUNDAMENTAIS
+                              CADERNO DE JURISPRUDÊNCIA
+Fundamentos da República Federativa do Brasil (art. 1º, incisos I a V)
+
+                                                    JURISPRUDÊNCIA
+    A tese da legítima defesa da honra é inconstitucional, por contrariar os princípios constitucionais da
+    dignidade da pessoa humana (art. 1º, III, da CF), da proteção à vida e da igualdade de gênero (art. 5º,
+    caput, da CF)1.
+
+    [A tese da legítima defesa da honra era utilizada em casos de feminicídio ou agressões contra mulher
+    para justificar o comportamento do acusado. O argumento era de que o assassinato ou a agressão eram
+    aceitáveis quando a conduta da vítima supostamente ferisse a honra do agressor.2]
+    “A utilização, por qualquer ente estatal, de recursos públicos para promover comemorações alusivas ao
+    Golpe de 1964 atenta contra a Constituição [arts. 1º e 37, caput e § 1º] e consiste em ato lesivo ao
+    patrimônio imaterial da União3”.
+    É inconstitucional, por violação aos princípios da dignidade da pessoa humana e da igualdade, lei
+    municipal que proíbe conteúdo pedagógico relativas a identidade de gênero nos currículos escolares da
+    rede pública, uma vez que a identidade de gênero é manifestação da própria personalidade da pessoa
+    humana e, como tal, cabe ao Estado apenas o papel de reconhecê-la, nunca de constituí-la. Além disso,
+    o direito à igualdade não se esgota com a previsão normativa de acesso igualitário a bens jurídicos, mas
+    engloba também medidas que efetivamente possibilitem tal acesso e sua efetivação concreta4.
+    Em atenção aos direitos sexuais e reprodutivos da população LGBTI+, o Estado [no caso, o Ministério da
+    Saúde] deve ser garantir o acesso ao agendamento de consultas e exames, independentemente do
+    gênero declarado da pessoa, bem como adequação do formulário da Declaração de Nascido Vivo, em
+    conformidade com a autodeclarada identidade de gênero dos genitores [ou seja, o SUS deve garantir
+    atendimento a pessoas trans também em relação ao sexo biológico].5
+
+1
+  STF – ADPF 779
+2
+  https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=511556&tip=UN.
+3
+  STF – RE 1429329 AgR (Tema 1322)
+4
+  STF – ADPF 462
+5
+  STF – ADPF 787
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              49
+           www.estrategiaconcursos.com.br                                                                 55
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula Extra
+
+                PROCESSO LEGISLATIVO E MODIFICAÇÃO DA
+                            CONSTITUIÇÃO
+                           CADERNO DE JURISPRUDÊNCIA
+Iniciativa das leis
+
+- Como mencionado no roteiro de revisão, por simetria, as matérias previstas no § 1º do art. 61
+da CF/88 que são de iniciativa privativa do Presidente da República, serão de iniciativa privativa
+do chefe do Poder Executivo também nos Estados e Municípios. Sobre este ponto, cabe trazer
+um precedente jurisprudencial importante:
+                                                        ==219a34==
+
+                                                 JURISPRUDÊNCIA
+ Lei estadual de iniciativa parlamentar que exige a presença de professor extra em classe da rede básica
+ de ensino com aluno pessoa com deficiência é inconstitucional, uma vez que cabe somente ao
+ governador a iniciativa de propor leis que disponham sobre servidores públicos1.
+
+- Como mencionado no roteiro de revisão, os outros Poderes não podem obrigar o Chefe do
+Poder Executivo a exercer a iniciativa privativa de lei: em matéria orçamentária, ele é
+constitucionalmente obrigado a exercê-la (ADCT, art. 35, § 2º, I a III) e, nos demais casos, possui
+a conveniência e a oportunidade para decidir quanto ao seu exercício. Sobre este ponto, cabe
+trazer um precedente jurisprudencial importante:
+
+                                                 JURISPRUDÊNCIA
+ Regra de lei estadual de iniciativa parlamentar que impunha ao Poder Executivo a concessão de
+ estímulos financeiros às cooperativas, com a criação de um fundo financeiro, é inconstitucional por
+ afrontar o princípio da separação dos poderes2.
+
+- Outros entendimentos jurisprudenciais importantes:
+
+                                                 JURISPRUDÊNCIA
+ "É comum aos poderes Executivo (decreto) e Legislativo (lei formal) a competência destinada a
+ denominação de próprios, vias e logradouros públicos e suas alterações, cada qual no âmbito de suas
+ atribuições"3.
+
+1 STF – ADI 5786
+
+2 STF – ADI 2811
+
+3 STF – RE 1151237
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             50
+        www.estrategiaconcursos.com.br                                                                55
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Emendas aos projetos de lei
+
+                                                    JURISPRUDÊNCIA
+    “o projeto de lei sobre organização judiciaria pode sofrer emendas parlamentares de que resulte, até
+    mesmo, aumento da despesa prevista”4.
+    É inconstitucional lei complementar decorrente de emenda parlamentar que não guarda estrita
+    pertinência com o objeto do projeto de lei de iniciativa privativa do Tribunal de Contas, originalmente
+    encaminhado à Casa Legislativa (prática conhecida como "contrabando legislativo")5.
+
+Medidas Provisórias (MPs)
+
+                                                    JURISPRUDÊNCIA
+    “É inconstitucional medida provisória ou lei decorrente da conversão de medida provisória, cujo
+    conteúdo normativo caracterize a reedição, na mesma sessão legislativa, de medida provisória anterior
+    rejeitada, de eficácia exaurida por decurso do prazo ou que ainda não tenha sido apreciada pelo
+    Congresso Nacional dentro do prazo estabelecido pela Constituição Federal”6.
+
+    O regime de urgência previsto no art. 62, § 6º, da Constituição da República – que impõe o
+    sobrestamento das deliberações legislativas das Casas do Congresso Nacional – incide, tão-somente,
+    sobre aquelas matérias que se mostram passíveis de regramento por medida provisória, excluídos, em
+    consequência, do bloqueio procedimental imposto pelo mencionado preceito constitucional as
+    propostas de emenda à Constituição e os projetos de lei complementar, de decreto legislativo, de
+    resolução e, até mesmo, tratando-se de projetos de lei ordinária, aqueles que veiculem temas pré-
+    excluídos do âmbito de incidência das medidas provisórias (CF, art. 62, § 1º, I, II e IV)7.
+
+4
+  STF – ADI 1.201-1/RO
+5
+  STF – ADI 7230
+6 STF - ADIs 5709, 5716, 5717 e 5727
+
+7
+  STF - MS 27931
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             51
+           www.estrategiaconcursos.com.br                                                                55
+
+                                        
+
+
+---
+
+    Tulio Lages
+    Aula Extra
+
+                            SISTEMA TRIBUTÁRIO NACIONAL
+                             CADERNO DE JURISPRUDÊNCIA
+
+Princípios Gerais (CF, art. 145 a 149-A)
+
+Taxas
+
+                                                   JURISPRUDÊNCIA
+“A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e
+tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o artigo 145, II,
+da Constituição Federal”1.
+
+“É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de
+cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base
+e outra”2.
+
+“O serviço de iluminação pública não pode ser remunerado mediante taxa”3.
+
+“É constitucional a taxa de fiscalização dos mercados de títulos e valores mobiliários instituída
+pela Lei 7.940/1989”4.
+
+“O Estado-membro é competente para a instituição de taxa pelo exercício regular do poder de
+polícia sobre as atividades de pesquisa, lavra, exploração ou aproveitamento de recursos
+minerários, realizada no Estado. 2. É inconstitucional a instituição de taxa de polícia que exceda
+flagrante e desproporcionalmente os custos da atividade estatal de fiscalização” 5.
+
+
+Limitações do poder de tributar (CF, art. 150 a 152)
+
+Irretroatividade (CF, art. 150, III, “a”), anterioridade (CF, art. 150, III, “b”) e noventena -
+ou anterioridade nonagesimal, ou carência (CF, art. 150, III, “c”)
+
+                                                  JURISPRUDÊNCIA
+
+1
+  STF – Súmula Vinculante 19.
+2
+  STF – Súmula Vinculante 29.
+3
+  STF – Súmula Vinculante 41.
+4
+  STF – Súmula 665.
+5
+  STF – ADI 7400
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional    52
+          www.estrategiaconcursos.com.br                                                       55
+
+                                       
+
+
+---
+
+    Tulio Lages
+    Aula Extra
+
+“1. As decisões do STF em controle incidental de constitucionalidade, anteriores à instituição
+do regime de repercussão geral, não impactam automaticamente a coisa julgada que se tenha
+formado, mesmo nas relações jurídicas tributárias de trato sucessivo. 2. Já as decisões
+proferidas em ação direta ou em sede de repercussão geral interrompem automaticamente os
+efeitos temporais das decisões transitadas em julgado nas referidas relações, respeitadas a
+irretroatividade, a anterioridade anual e a noventena ou a anterioridade nonagesimal, conforme
+a natureza do tributo”6.
+
+Não-discriminação baseada em procedência ou destino (CF, art. 152)
+
+                                                  JURISPRUDÊNCIA
+"É inconstitucional dispositivo de norma estadual que prevê benefícios fiscais relativos ao
+Imposto sobre Circulação de Mercadorias e Serviços (ICMS) relativos a produtos lácteos e
+                                                          ==219a34==
+
+carnes apenas aos residentes no estado, uma vez que, ao limitar o gasto tributário aos produtos
+com base na sua origem, a norma estadual criou distinção inadmissível entre entes federados e
+entre contribuintes, violando assim o artigo 152 da CF".7
+
+Vedação às isenções heterônomas (CF, art. 151, III)
+
+                                                  JURISPRUDÊNCIA
+“A imunidade a que se refere o art. 155, § 2º, X, “a”, CF/88, não alcança, nas operações de
+exportação, o aproveitamento de créditos de ICMS decorrentes de aquisições de bens
+destinados ao ativo fixo e uso e consumo da empresa, que depende de lei complementar para
+sua efetivação”8.
+
+
+Imunidades Tributárias
+
+Imunidade tributária cultural (CF, art. 150, VI, “d”)
+
+                                                  JURISPRUDÊNCIA
+"A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se à importação e
+comercialização, no mercado interno, do livro eletrônico (e-book) e dos suportes
+exclusivamente utilizados para fixá-los, como leitores de livros eletrônicos (e-readers), ainda que
+possuam funcionalidades acessórias"9.
+
+6
+  STF – RE 949297/CE.
+7
+  STF - ADI 5363 / MG
+8
+  STF - RE 704815 / SC
+9
+  STF – Súmula Vinculante 57.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional      53
+          www.estrategiaconcursos.com.br                                                         55
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula Extra
+
+Imunidade tributária dos fonogramas e videofonogramas musicais (CF,
+art. 150, VI, “e”).
+
+                                                   JURISPRUDÊNCIA
+"A imunidade tributária prevista no art. 150, inciso VI, alínea e, da Constituição Federal não se
+aplica às importações de suportes materiais produzidos fora do Brasil, ainda que contenham
+obra musical de artista brasileiro."10.
+
+
+Repartição de Competências Tributárias (CF, art. 153 a 156-B)
+
+Impostos de competência da União
+
+                                                   JURISPRUDÊNCIA
+"Inexiste direito a crédito presumido de IPI relativamente à entrada de insumos isentos, sujeitos
+à alíquota zero ou não tributáveis, o que não contraria o princípio da não cumulatividade"11.
+
+"É constitucional a incidência do IOF sobre operações de crédito correspondentes a mútuo de
+recursos financeiros entre pessoas jurídicas ou entre pessoa jurídica e pessoa física, não se
+restringindo às operações realizadas por instituições financeiras."12
+
+10
+   STF – ARE 1244302. Tema 1083
+11
+   STF – Súmula Vinculante 58.
+12
+   STF – RE 590186
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional    54
+           www.estrategiaconcursos.com.br                                                       55
+
+                                        
+
+
+---
+
+---

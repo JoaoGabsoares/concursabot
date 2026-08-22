@@ -1,0 +1,556 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: RECEBIMENTO DE MATERIAIS
+---
+
+# RECEBIMENTO DE MATERIAIS
+
+---
+
+---
+
+RECEBIMENTO DE MATERIAIS
+
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Recebimento
+       Principais Atribuições
+     ❑ A atividade de Recebimento localiza-se entre as tarefas de compra e pagamento ao fornecedor (atenção com isso
+       pois é uma perguntinha típica de prova). Tem sob sua responsabilidade todo o processo de conferência de
+       materiais, devendo assegurar que o que foi entregue é exatamente aquilo que foi contratado tanto em relação ao
+       volume quanto em relação a qualidade e/ou outras características acordadas.
+
+     ❑ As principais atribuições da atividade de recebimento são:
+
+         •     Coordenar as atividades de recebimento e devolução de materiais.
+         •     Analisar a documentação da operação verificando se a aquisição está autorizada.
+         •     Comparar os volumes entregues aos declarados em Nota Fiscal e/ou Manifesto de Transporte.
+         •     Executar a conferência visual em relação à embalagem e eventuais avarias na carga recebida,
+               registrando ressalvas nos documentos fiscais quando for o caso.
+         •     Conduzir as conferências quantitativas e qualitativas do material entregue.
+         •     Tomar a decisão em relação ao aceite, recusa ou devolução do material.
+         •     Providenciar a regularização do pagamento, recusa ou devolução junto ao fornecedor.
+         •     Liberar o material recém chegado para encaminhamento e estoque no almoxarifado.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 
+
+
+---
+
+       Nota Fiscal
+       Emitida pelo vendedor e fundamental no Recebimento
+     ❑ A Nota Fiscal é um documento fundamental para o processo de recebimento.
+     ❑ Algumas das atribuições do processo de recebimento baseiam-se na análise dos
+       documentos fiscais e confrontação entre o declarado e o, de fato, entregue.
+     ❑ São os documentos fiscais emitidos pelo fornecedor que desencadeiam o processo
+       de recebimento junto ao comprador.
+     ❑ Entendendo um pouco mais da nota fiscal, é um documento emitido pelo vendedor,
+       no qual notifica ao fisco os respectivos impostos que deverão ser recolhidos em
+       relação à transação: Imposto sobre Produtos Industrializados (IPI), Imposto sobre
+       Circulação de Mercadorias e Serviços (ICMS) e Imposto Sobre Serviços de Qualquer
+       Natureza (ISS).
+     ❑ Serve também como documento que acompanha o transporte da mercadoria do
+       fornecedor até a sua entrega no destinatário.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Outros Documentos
+       Fatura, Duplicata e Nota Fiscal Fatura
+
+     ❑ A nota fiscal não tem valor como instrumento de cobrança e, por isso, há a necessidade de
+       estudarmos outros documentos como a Fatura, a Duplicata e a Nota Fiscal Fatura.
+
+                  FATURA
+                  Nas vendas a prazo o vendedor deve emitir uma fatura que, com base no valor da nota fiscal,
+                  conterá dados adicionais como prazos e valores das parcelas de cobrança e respectivo banco. A
+                  fatura não é título hábil para cobrança, como a duplicata.
+                  DUPLICATA
+                  É uma cópia da fatura quando se tratar de cobrança única. Caso a fatura possua mais de um
+                  pagamento, teremos tantas duplicatas quanto o número de parcelas (valores parciais). A duplicata
+                  por sua vez é um título de crédito cuja quitação comprova a liquidação da obrigação. É emitida
+                  pelo vendedor contra o comprador.
+                  NOTA FISCAL FATURA
+                  Algumas empresas aglutinam todas as faturas em uma única peça, a nota fiscal fatura, fazendo a
+                  cobrança por intermédio de duplicatas.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Toda vez que for efetivada uma nova compra de
+     material em uma dada instituição, o setor de compras deverá informar sobre os empenhos
+     e seus respectivos responsáveis. Para o recebimento desses materiais, alguns documentos
+     hábeis podem ser a nota fiscal e(ou) a fatura.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) Toda vez que for efetivada uma nova compra de
+     material em uma dada instituição, o setor de compras deverá informar sobre os empenhos
+     e seus respectivos responsáveis. Para o recebimento desses materiais, alguns documentos
+     hábeis podem ser a nota fiscal e(ou) a fatura.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       A Entrada dos Materiais
+
+     ❑ O início do processo de recebimento se dá com a entrada dos materiais e tem como objetivo
+       recepcionar os veículos transportadores, checar a respectiva documentação, direcioná-los a
+       descarga e cadastrar os dados necessários em diferentes sistemas de controle que integram as
+       áreas de Administração de Materiais, Contas a Pagar, Compras e Gestão de Estoques.
+
+     ❑ O processo de entrada dos materiais acontece em dois locais distintos: a portaria e o
+       almoxarifado. Vejamos:
+
+     ✓ PORTARIA: Na portaria da organização o foco da checagem é a documentação. Nessa checagem
+       inicial verifica-se: autorização da compra, cumprimento do prazo de entrega, correspondência
+       entre o documento de compra e a nota fiscal e cadastramento de informações. Feita essa
+       checagem inicial, o material deve ser encaminhado para entrada no almoxarifado (caso tudo esteja
+       em ordem) ou recusado (caso a compra não esteja autorizada ou entregue fora do prazo, neste
+       caso incluindo-se observação no verso da nota fiscal).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       Início pelo Almoxarifado
+
+     ✓ ALMOXARIFADO: No almoxarifado o foco da conferência passa a ser a própria
+       mercadoria, inicialmente confrontando-se a nota fiscal do fornecedor com os registros
+       de compras, checando a adequação entre as duas fontes de dados. Nesta primeira
+       checagem não só os volumes são primariamente conferidos como as condições das
+       embalagens e da carga em geral. É nessa primeira avaliação na entrada do
+       almoxarifado que diferentes tipos de violações ou avarias nas embalagens (sinais de
+       quebras, umidade, amassados ou outros danos) são detectados e registrados no
+       verso da nota fiscal para futuro ressarcimento ou mesmo resultando em recusa do
+       recebimento. Finalizada esta etapa, o transportador é encaminhado à descarga em
+       espaço reservado de acordo com o layout do almoxarifado e dispensado ou, no caso
+       de recusa, retorna ao fornecedor com a carga devolvida em função de divergências
+       apuradas ao longo do processo de entrada de materiais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) No momento do descarregamento e do
+     recebimento, se o recebedor identificar que houve danos nas embalagens, ele deverá
+     alertar, por escrito, no verso do recibo do frete, para que o solicitante realize uma futura
+     conferência e peça uma possível indenização.
+     a) Certo
+     b) Errado
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (QUADRIX/CREFITO-4/Almoxarife/2021) No momento do descarregamento e do
+     recebimento, se o recebedor identificar que houve danos nas embalagens, ele deverá
+     alertar, por escrito, no verso do recibo do frete, para que o solicitante realize uma futura
+     conferência e peça uma possível indenização.
+     a) Certo
+     b) Errado
+     GABARITO - CORRETA
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       A Conferência Quantitativa
+
+     ❑ A conferência quantitativa nada mais é do que uma checagem entre as quantidades contratadas e as
+       efetivamente recebidas.
+
+     ❑ Geralmente utiliza-se a técnica da contagem cega, na qual um funcionário conferente que não sabe qual
+       o real volume adquirido faz a contagem e informa o volume apurado para que seja feita a confrontação
+       do recebido em relação ao que foi faturado.
+
+     ❑ A contagem do material recebido pode se dar de diversas formas como: manual (pequenas quantidades),
+       cálculos (embalagens padronizadas em grandes quantidades), balanças pesadoras (grande quantidade de
+       pequenas peças como parafusos e porcas), pesagem (materiais de maior peso ou volume pesados em
+       balanças rodoviárias ou ferroviárias), medição (geralmente com o uso de trenas).
+
+     ❑ Em todas as modalidades acima a empresa poderá adotar critérios de tolerância que permitiriam o
+       recebimento das mercadorias encaminhadas com pequenos desvios em relação à quantidade esperada.
+
+     ❑ Tal liberalidade é aceitável considerando-se que a devolução ou mesmo os procedimentos de ajustes por
+       variações muito pequenas acabam sendo mais custosos do que vantajosos à organização, exigindo o
+       emprego de recursos como pessoas, tempo e equipamentos para correções muito pouco significativas.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Recebimento
+       A Conferência Qualitativa
+
+     ❑ A conferência qualitativa visa checar e garantir a adequação do material adquirido ao fim a que se
+       destina. Esta etapa é também conhecida por Inspeção Técnica e visa confrontar as condições
+       contratadas com as de fato entregues, examinando especialmente as seguintes variáveis:
+
+        •     Características dimensionais
+        •     Características específicas
+        •     Restrições de especificações
+
+
+     ❑ A inspeção pode ser feita ao longo de diferentes etapas (definidas pelo comprador e variando de
+       acordo com o fornecedor ou com a criticidade do material adquirido):
+
+        •     Acompanhamento ao longo do processo de fabricação (no fornecedor)
+        •     Inspeção do produto acabado ainda no fornecedor (no fornecedor)
+        •     Inspeção do material adquirido no recebimento (no comprador)
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Recebimento
+       Uniformização via Roteiro de Inspeção
+
+     ❑ A fim de criar uma uniformidade no processo de inspeção, costuma-se seguir os seguintes passos
+       ao longo da atividade:
+
+        •     Documentos para inspeção: especificação de compra, desenhos ou catálogos técnicos, definição do padrão da
+              inspeção.
+        •     Tipo de inspeção: total ou amostragem e critérios de aceitação ou recusa.
+        •     Preparação do material para inspeção: retirada de proteção ou embalagem e definição de local adequado.
+        •     Análise visual: sem utilização de instrumentos, busca problemas de acabamento como respingos, rebarbas,
+              riscos, avarias, etc.
+        •     Análise dimensional: com utilização de instrumentos checa as dimensões de acordo com as especificações e
+              tolerâncias acordadas.
+        •     Ensaios: podem ser de natureza mecânica (destrutivos) ou elétricos (isolamento, curto circuito, vibração,
+              capacitância, etc.).
+        •     Testes: caráter não destrutivo como ultra sons, radiografia, líquido penetrante, dureza, etc.
+        •     Consulta ao usuário: no caso de divergência mínima, usuário do material deve ser consultado antes de se iniciar
+              eventual processo de devolução.
+        •     Resultado Final: liberação ou recusa apontada no formulário Relatório Técnico de Inspeção.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Recebimento
+       Regularização: a etapa final
+     ❑ A regularização caracteriza-se pelo controle do processo de recebimento, após todas as checagens de volume e
+       qualidade, e pela aceitação ou recusa/devolução do material entregue, caminhando para a finalização do
+       processo.
+     ❑ Para esta decisão o profissional responsável levará em conta os níveis de tolerância de variação adotados pela
+       organização.
+     ❑ O processo de regularização dará origem a uma das seguintes situações:
+
+      •      Liberação de pagamento ao fornecedor (quando não houver qualquer ressalva em relação ao material recebido).
+      •      Liberação parcial do pagamento (quando houver alguma ressalva).
+      •      Devolução do material ao fornecedor (irregularidade insanável). Prazo de 10 dias a contar do recebimento, exceto em
+             casos de problemas no posterior desempenho do material ao ser empregado no processo produtivo, por exemplo.
+      •      Reclamação de falta ao fornecedor (as reclamações são sempre acompanhadas do documento Comunicação de
+             Divergência, que esclarece a razão da manifestação de insatisfação do comprador, geralmente quantidade ou
+             qualidade).
+      •      Entrada de material no estoque (nos casos de devolução por solicitação em excesso de usuários internos. Nestes
+             casos o material devolvido passa por todo o processo de recebimento, como se fosse material recém entregue por
+             fornecedor externo).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   
+
+
+---
+
+       Recebimento
+       Resumo Geral
+
+                                                           RECEBIMENTO
+
+                                            Conferência                    Conferência
+             Entrada de materiais                                                         Regularização
+                                            quantitativa                    qualitativa
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (CPCON/UEPB/Almoxarife/2021) Uma das responsabilidades do setor do almoxarifado é o recebimento
+     e conferência de novos materiais e, quando se trata de bens patrimoniais (bens móveis), é indicado que
+     o recebimento seja realizado em conjunto com o setor de controle patrimonial. Considerando o
+     recebimento completo do material, assinale a única alternativa que envolve as fases de execução desse
+     processo.
+     a) Compra de materiais, análise de viabilidade de estocagem, recusa de materiais e pagamento das
+     compras.
+     b) Entrada de materiais, conferência quantitativa, conferência qualitativa e regularização.
+     c) Conferência quantitativa, regularização, compra de materiais e pagamento das compras.
+     d) Conferência qualitativa, regularização, compra de materiais e pagamento das compras.
+     e) Entrada de materiais, análise de viabilidade de estocagem, recusa de materiais e conferência
+     qualitativa.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CPCON/UEPB/Almoxarife/2021) Uma das responsabilidades do setor do almoxarifado é o recebimento
+     e conferência de novos materiais e, quando se trata de bens patrimoniais (bens móveis), é indicado que
+     o recebimento seja realizado em conjunto com o setor de controle patrimonial. Considerando o
+     recebimento completo do material, assinale a única alternativa que envolve as fases de execução desse
+     processo.
+     a) Compra de materiais, análise de viabilidade de estocagem, recusa de materiais e pagamento das
+     compras.
+     b) Entrada de materiais, conferência quantitativa, conferência qualitativa e regularização.
+     c) Conferência quantitativa, regularização, compra de materiais e pagamento das compras.
+     d) Conferência qualitativa, regularização, compra de materiais e pagamento das compras.
+     e) Entrada de materiais, análise de viabilidade de estocagem, recusa de materiais e conferência
+     qualitativa.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (CETREDE/Pref. Mun. Frecheirinha-CE/Agente Patrimonial/2021) Analise e enumere a coluna B de acordo com a coluna A. A
+     atividade de recebimento, no almoxarifado, compreende quatro fases. As atividades de recebimento abrangem desde a recepção
+     do material na entrega pelo fornecedor até a entrada nos estoques.
+     COLUNA A
+     I. 1ª fase.
+     II. 2ª fase.
+     III. 3ª fase.
+     IV. 4ª fase.
+     COLUNA B
+     ( ) Entrada de materiais.
+     ( ) Conferência qualitativa.
+     ( ) Conferência quantitativa.
+     ( ) Regularização.
+     Marque a opção que apresenta a sequência CORRETA.
+     a) I-II-III-IV
+     b) II-III-IV-I
+     c) I-IV-III-II
+     d) I-III-II-IV
+     e) II-I-III-IV
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (CETREDE/Pref. Mun. Frecheirinha-CE/Agente Patrimonial/2021) Analise e enumere a coluna B de acordo com a coluna A. A
+     atividade de recebimento, no almoxarifado, compreende quatro fases. As atividades de recebimento abrangem desde a recepção
+     do material na entrega pelo fornecedor até a entrada nos estoques.
+     COLUNA A
+     I. 1ª fase.
+     II. 2ª fase.
+     III. 3ª fase.
+     IV. 4ª fase.
+     COLUNA B
+     ( ) Entrada de materiais.
+     ( ) Conferência qualitativa.
+     ( ) Conferência quantitativa.
+     ( ) Regularização.
+     Marque a opção que apresenta a sequência CORRETA.
+     a) I-II-III-IV
+     b) II-III-IV-I
+     c) I-IV-III-II
+     d) I-III-II-IV
+     e) II-I-III-IV
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) De acordo com Júnior (2019), entre os
+     documentos usados no almoxarifado para atender às diversas rotinas de trabalho,
+     encontra-se:
+     a) a comunicação de irregularidades.
+     b) o relatório de localização.
+     c) a ficha de suprimentos.
+     d) o controle de pesagem.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (SELECON/EMGEPRON/Almoxarife/2021) De acordo com Júnior (2019), entre os
+     documentos usados no almoxarifado para atender às diversas rotinas de trabalho,
+     encontra-se:
+     a) a comunicação de irregularidades.
+     b) o relatório de localização.
+     c) a ficha de suprimentos.
+     d) o controle de pesagem.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) A Nota Fiscal é um documento exigido para
+     a) levar produtos até a linha de produção.
+     b) retirada de mercadoria em estoque.
+     c) conferência no recebimento de materiais.
+     d) enviar mercadoria da produção para a expedição.
+     e) transferência interna e para terceiro.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) A Nota Fiscal é um documento exigido para
+     a) levar produtos até a linha de produção.
+     b) retirada de mercadoria em estoque.
+     c) conferência no recebimento de materiais.
+     d) enviar mercadoria da produção para a expedição.
+     e) transferência interna e para terceiro.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) Assinale a alternativa que apresenta corretamente o conceito
+     de recebimento.
+     a) A atividade intermediária entre as tarefas de compra e pagamento ao fornecedor, sendo de
+     responsabilidade do almoxarife a conferência dos materiais destinados à empresa.
+     b) A tomada de conhecimento do setor, ao entrar a mercadoria, pela conferência da nota fiscal e
+     distribuição aos usuários.
+     c) Um segmento intermediário que antecede os procedimentos de compra, estocagem e distribuição
+     dos materiais.
+     d) Um roteiro intermediário entre o planejamento, compra e venda de mercadorias e distribuição a
+     todos usuários.
+     e) A atividade entre as tarefas de faturamento e pagamento ao fornecedor.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     (VUNESP/Pref. Poá-SP/Almoxarife/2015) Assinale a alternativa que apresenta corretamente o conceito
+     de recebimento.
+     a) A atividade intermediária entre as tarefas de compra e pagamento ao fornecedor, sendo de
+     responsabilidade do almoxarife a conferência dos materiais destinados à empresa.
+     b) A tomada de conhecimento do setor, ao entrar a mercadoria, pela conferência da nota fiscal e
+     distribuição aos usuários.
+     c) Um segmento intermediário que antecede os procedimentos de compra, estocagem e distribuição
+     dos materiais.
+     d) Um roteiro intermediário entre o planejamento, compra e venda de mercadorias e distribuição a
+     todos usuários.
+     e) A atividade entre as tarefas de faturamento e pagamento ao fornecedor.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+    
+
+
+---
+
+---

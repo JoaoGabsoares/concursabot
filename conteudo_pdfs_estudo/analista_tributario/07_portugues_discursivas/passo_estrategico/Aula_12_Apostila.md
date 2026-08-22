@@ -1,0 +1,1502 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 12_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '12'
+titulo_aula: Simulado 04
+---
+
+# Simulado 04
+
+Simulado 04
+                          Receita Federal (Analista Tributário)
+                                Passo Estratégico de Português
+
+                                                        Autor:
+                                       Carlos Roberto Correa
+
+                                             19 de Maio de 2023
+
+---
+
+  Carlos Roberto Correa
+  Simulado 04
+
+1 – Introdução                                                                 2
+
+2 – Simulado                                                                   2
+
+  2.1 Linguagem                                                                2
+
+  2.2 Tipologia textual                                                         5
+
+  2.3 Pontuação                                                                 7
+
+  2.4 Relação de coordenação e subordinação das orações                        9
+
+3 – Questões Comentadas                                                        12
+
+  3.1 Linguagem                                                                12
+
+  3.2 Tipologia textual                                                        18
+
+  3.4 Pontuação                                                                21
+
+  3.6 Relação de coordenação e subordinação das orações                        27
+
+4 – Gabarito                                                                   33
+
+                                                                                1
+        Receita Federal (Analista Tributário) Passo Estratégico de Português   33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 04
+
+                                          1 – INTRODUÇÃO
+Olá, caros alunos. Como estão? Neste momento, vocês terão a oportunidade de exercitar o que aprenderam
+nas aulas anteriores através da resolução das questões de um simulado.
+
+É importante que vocês tentem simular também a situação de realização da prova, dispensando a consulta
+ao material, uma vez que assim a preparação será ainda mais eficiente.
+
+Desejo um excelente treino a vocês. Grande abraço!
+
+
+                                            2 – SIMULADO
+
+2.1 Linguagem
+
+ 1. Leia o texto a seguir.
+ Obra de Adoniran Barbosa torna-se patrimônio histórico e cultural paulistano
+ A Câmara de Vereadores de São Paulo aprovou projeto de lei que declara como patrimônio histórico e cultural
+ a obra do sambista Adoniran Barbosa. A proposta do vereador Toninho Paiva (PR) foi enviada para sanção do
+ prefeito.
+ O modo de falar simples e com pequenos erros gramaticais é uma das marcas da obra de Adoniran, conforme
+ destaca a justificativa do projeto de lei. Em alguns casos, aparece em um jogo de palavras, como o apaixonado
+ Álvaro, que também é um jogo de palavras com “alvo” em Tiro ao Álvaro. O personagem é o destino certo das
+ frechadas [flechadas] disparadas pelo olhar da moça, mais mortíferas do que veneno estriquinina e bala de
+ “revorver”.
+ A partir dessa poesia, identificada com as camadas menos favorecidas da população, Adoniran contava
+ histórias de eventos diários que, às vezes, chegavam à crítica social, como no despejo de Saudosa Maloca.
+ “Peguemos todas nossas coisas e fumo pro meio da rua, apreciá a demolição / Que tristeza que nós sentia /
+ Cada tauba que caía doía no coração”, compôs Adoniran, dando voz aos sem-teto que observam a derrubada
+ do imóvel onde tinham vivido nos últimos anos.
+                                        Disponível em: <http://www.redebrasilatual.com.br/entretenimento/2016/11/obra-de-
+                                        adoniran-barbosa-torna-se-patrimonio-historico-e-cultural-3500.html>. Acesso em:
+                                        08/02/2017.
+
+ No trecho transcrito de Saudosa Maloca, podemos perceber exemplos dos desvios gramaticais em relação
+ à norma-padrão, como já antecipava o parágrafo anterior. Quais das análises a seguir encontram
+ exemplificação nos versos transcritos no último parágrafo?
+ 1. Apagamento da desinência de infinitivo em forma verbal.
+
+
+                                                                                                                       2
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                          33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 04
+
+2. Ausência de marca de concordância verbal padrão.
+3. Substituição de forma verbal por variante coloquial.
+4. Supressão da marcação de concordância nominal.
+a) Apenas 1, 3 e 4.
+b) Apenas 2, 3 e 4.
+c) Apenas 1, 2 e 4.
+d) Apenas 1, 2, e 3.
+e) 1, 2, 3 e 4.
+
+2. A questão refere-se ao texto seguinte.
+− Ã-hã, quer entrar, pode entrar... Mecê sabia que eu moro aqui? Como é que sabia? Hum, hum...Cavalo seu é
+esse só? Ixe! Cavalo tá manco, aguado. Presta mais não.
+          (João Guimarães Rosa. Trecho de "Meu tio o Iauaretê", adaptado. Estas estórias, Rio de Janeiro, José
+                                                                                       Olympio, 1969, p.126)
+Observando-se a variedade linguística de que se vale o falante do trecho acima, percebe-se uso de
+a) linguagem marcada por construções sintáticas complexas e inapropriadas para o contexto, responsáveis
+por truncar a comunicação e dificultar o entendimento.
+b) linguagem formal, utilizada pelas pessoas que dominam o nível culto da linguagem, sendo, portanto,
+adequada à situação em que o falante se encontra.
+c) gírias e interjeições, como ixe e aguado, prioritariamente utilizadas entre os jovens, sendo, assim,
+incompatíveis com a situação em que o falante se encontra.
+d) coloquialismos e linguagem informal, como mecê e tá, apropriados para a situação de informalidade em
+que o falante se encontra.
+
+3. Analise a charge e a reportagem a seguir:
+
+[...]
+
+
+                                                                                                            3
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                               33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+ Para contar o drama de quem precisa conviver com a violência física e psicológica, o Terra ouviu relatos de
+educadores de todo o Brasil. Eles já levaram tapas, socos, chutes, foram ofendidos por alunos e pais. Alguns
+superaram o trauma, outros não conseguem voltar para a escola. Eles não querem assumir o papel de vítimas,
+e reconhecem que a escola precisa mudar. Mas pedem respeito, e principalmente, querem ser valorizados como
+professores. (Angela Chagas, para especial Terra)
+“Professores sem autoridade e desmotivados com o quadro de abandono da carreira, pais que repassam para
+a escola a tarefa de educar, alunos inquietos uma sala de aula que parece ter parado no tempo e governos
+omissos formam a bomba-relógio da violência.”
+No trecho sublinhado, podemos dizer que se trata de qual figura de linguagem?
+a) Comparação.
+b) Metáfora.
+c) Aliteração.
+d) Paranomásia.
+
+4. Leia a tira a seguir para responder à questão.
+
+                                                    Disponível   em:      <http://www.opera10.com.br/2012/10/vicios-de-
+                                                   linguagem.html>. Acesso em: 12 fev. 2015.
+
+A ambiguidade gerada na tira se deve à
+a) impossibilidade prática de se vender o pôr do sol em qualquer circunstância.
+b) coincidência entre as formas do verbo “ver”, no gerúndio, e do verbo “vender”, na primeira pessoa do
+presente do indicativo.
+c) incompreensão dos adultos em relação às crianças que ainda se mantêm inocentes no que diz respeito
+às práticas comerciais extremas.
+d) habilidade inata das crianças de perceberem que a língua é guiada pelo princípio da economia das
+formas.
+
+5. A questão refere-se ao texto seguinte.
+"Além de parecer não ter rotação, a Terra parece também estar imóvel no meio dos céus. Ptolomeu dá
+argumentos astronômicos para tentar mostrar isso. Para entender esses argumentos, é necessário lembrar
+
+
+                                                                                                                     4
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                         33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+que, na Antiguidade, imaginava-se que todas as estrelas (mas não os planetas) estavam distribuídas sobre
+uma superfície esférica, cujo raio não parecia ser muito superior a distância da Terra aos planetas. Suponhamos
+agora que a Terra esteja no centro da esfera das estrelas. Neste caso, o céu visível à noite deve abranger, de
+cada vez, exatamente a metade da esfera das estrelas. E assim parece realmente ocorrer: em qualquer noite,
+de horizonte a horizonte, é possível contemplar, a cada instante, a metade do zodíaco. Se, no entanto, a Terra
+estivesse longe do centro da esfera estelar, então o campo de visão à noite não seria, em geral, a metade da
+esfera: algumas vezes poderíamos ver mais da metade, outras vezes poderíamos ver menos da metade do
+zodíaco, de horizonte a horizonte. Portanto, a evidência astronômica parece indicar que a Terra está no centro
+da esfera de estrelas. E se ela está sempre nesse centro, ela não se move em relação às estrelas."
+                                        MARTINS, Roberto de A. Introdução geral ao Commentariolus, de Nicolau Copérnico.
+
+Sabendo-se qual das funções de linguagem foi privilegiada neste texto, marque a opção que traz o
+elemento da comunicação a que está relacionada tal função?
+a) mensagem.
+b) código.
+c) referente.
+d) emissor.
+e) suporte.
+
+
+2.2 Tipologia textual
+
+6. Considere o texto abaixo para responder à questão.
+Pesquisa realizada pela PROTESTE Associação de Consumidores e divulgada dia 23 de agosto, revela que
+a população confia nos genéricos e chega a pedir para os médicos prescrevê-los.
+Mas parte da classe médica ainda tem dúvidas sobre esses remédios por conta do processo de avaliação
+da qualidade e falsificação.
+Para 45% dos médicos que participaram da pesquisa o processo de avaliação e controle de qualidade dos
+genéricos é menos exigente do que o que ocorre com os medicamentos de marca. E 44% deles acreditam
+que esses remédios sofrem mais falsificações. Ainda assim, 92% deles afirmaram ter recomendado o
+medicamento no último ano para reduzir o custo de tratamento ou a pedido do paciente.
+Uma boa parte dessa parcela de profissionais da saúde não concordou com a ideia de os genéricos serem
+tão eficazes (30%), nem de terem a mesma segurança (23%) que os remédios de referência. Quase metade
+(42%) afirmou não ter o hábito de prescrevê-los.
+Os farmacêuticos influenciam os consumidores na hora de comprar os genéricos, pois, segundo 88% dos
+entrevistados, pelo menos uma vez, esses profissionais sugeriram a substituição do remédio prescrito por
+um genérico.
+
+                                                                                                                      5
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                          33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+O texto deve ser classificado como:
+a) descritivo, pois enumera as qualidades dos genéricos.
+b) narrativo, pois relata a evolução dos medicamentos genéricos.
+c) dissertativo informativo, pois informa os leitores das novas pesquisas sobre medicamentos.
+d) dissertativo didático, pois ensina os consumidores a diferençar medicamentos genéricos e de marca.
+e) dissertativo argumentativo, pois defende implicitamente uma tese.
+
+7. A questão refere-se à crônica que segue.
+Céu da Boca
+Uma das sedes da nostalgia da infância, e das mais profundas, é o céu da boca.
+A memória do paladar recompõe com precisão instantânea, através daquilo que comemos quando
+meninos, o menino que fomos. O cronista, se fosse escrever um livro de memórias, daria nele a maior
+importância à mesa de família, na cidade de interior onde nasceu e passou a meninice. A mesa funcionaria
+como personagem ativa, pessoa da casa, dotada do poder de reunir todas as outras, e também de separá-
+las, pelo jogo de preferências e idiossincrasias do paladar − que digo? da alma, pois é no fundo da alma que
+devemos pesquisar o mistério de nossas inclinações culinárias.
+A mesa mineira era grande, inteiriça e de madeira clara. À esquerda e à direita, estiravam-se dois bancos
+compridos, em que irmãos e parentes em visita se sentavam por critério hierárquico. À cabeceira, na
+cadeira de jacarandá e palhinha, o pai presidia.
+A comida, imune a influências no meio ilhado entre montanhas, era simples, simples a lembrança que
+deixou; e quem dela se nutriu quase sempre torce o nariz aos requintes, excentricidades ou meras
+variedades culinárias de outras terras.
+                                                    (Adaptado de: ANDRADE, Carlos Drummond de. A bolsa e a vida. São
+                                                                        Paulo, Companhia das Letras, 2012, p. 91-92.)
+
+a) a linguagem rigorosamente formal e impessoal.
+b) o relato objetivo e imparcial de um evento do passado.
+c) o discurso reivindicatório, expresso por verbos no imperativo.
+d) a reflexão a partir de uma experiência cotidiana.
+e) a argumentação pautada na recorrência de perguntas retóricas.
+
+8. Observe a charge:
+
+                                                                                                                   6
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                       33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Sobre a charge, é correto afirmar que se trata de um texto:
+a) narrativo, pois apresenta fatos do cotidiano.
+b) expositivo, pois se limita a mostrar fatos.
+c) descritivo, pois mostra os personagens por inteiro.
+d) argumentativo, pois defende uma tese sobre o problema.
+e) informativo, pois revela fatos desconhecidos pelos leitores.
+
+
+2.3 Pontuação
+
+9. Assinale a alternativa correta quanto ao emprego da vírgula, de acordo com a norma-padrão da
+língua portuguesa.
+a) Os países ricos objetivam diminuir principalmente, a desigualdade interna.
+
+b) Sem sombra de dúvidas as sociedades menos desiguais, funcionam melhor.
+
+c) Contudo está, claro que a redução das desigualdades pode trazer benefícios.
+
+d) Em uma sociedade livre pessoas mais esforçadas, poderão acumular mais bens.
+
+e) Caso a liberdade seja a prioridade, a tendência é uma maior geração de riquezas.
+
+10. Assinale o trecho inteiramente correto quanto ao emprego dos sinais de pontuação.
+a) A partir desta semana, os políticos que usam o dinheiro público, de forma irresponsável e demagógica
+podem, ser recolhidos àquele recinto onde o sol nasce quadrado.
+b) Numa votação ocorrida, na última quarta-feira no Senado, foram definidas as punições aos
+administradores públicos, que transgredirem a Lei da Responsabilidade Fiscal.
+
+                                                                                                     7
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                          33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+c) O texto condena práticas até outro dia consideradas aceitáveis na condução das coisas do Estado tais
+como; gastar mais do que arrecada, aumentar despesas sem compensá-las com cortes; iniciar obras sem
+ter dinheiro para concluí-las, gastar em excesso com funcionalismo; não divulgar metas fiscais.
+d) De tão banais, essas condutas acabaram sendo encaradas com certa benevolência, como se fossem
+parte do jogo do poder. Com a votação do Senado, tais expedientes passam a ser punidos rigorosamente.
+e) Estudiosos da gestão pública, dizem que a lei carrega consigo aspectos inovadores − , pois Brasília dá
+um sinal forte de que decidiu legislar contra os próprios políticos.
+
+11. Na questão, indique a opção que corresponde a emprego incorreto de sinal de pontuação.
+Considerado um dos mais promissores mercados do mundo para a previdência privada,(A) com pelo menos 12
+milhões de clientes em potencial ainda não atendidos,(B) o Brasil tem atraído as grandes seguradoras
+multinacionais,(C) que iniciaram operação própria no país ou se associaram a empresas maiores que já atuam
+no mercado. O ritmo anual de crescimento desde 1908,(D) é de 40%. Até então,(E) os planos ofereciam um
+rendimento pré-definido para o futuro.
+                                                                              (Adaptado de Veja - seu Investimento)
+a) A
+b) B
+c) C
+d) D
+e) E
+
+12. Assinale a opção em que foram empregados corretamente os sinais de pontuação.
+a) As pessoas, que dão valor, apenas, ao lado material da vida, não sabem, o que de valor há na vida.
+b) Propõem-se situações semelhantes às do cotidiano nas quais o estudante terá a experiência, próxima
+da realidade, com que irá deparar-se.
+c) A riqueza de um povo se revela por sua cultura pois, por meio dela podem-se perceber os valores que
+fundamentam as práticas de uma comunidade.
+d) Os artefatos produzidos, têm seu valor econômico, mas é preciso também, levar em consideração seu
+valor simbólico.
+e) De fato, enfrentaremos uma situação constrangedora, que será difícil de ser contornada; contamos,
+pois, com a colaboração de todos para superarmos este desafio.
+
+13. Considere o texto abaixo para responder à questão.
+Nos últimos dez anos, o Brasil passou por grandes transformações e crescimento econômico contínuo(a) que o
+induziu a figurar entre os países em desenvolvimento acelerado. Com a expansão(b) formou-se uma nova classe
+média, composta por trabalhadores vindos das classes D e E. Atualmente (c) o país possui 105 milhões de
+
+
+                                                                                                                 8
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                      33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+pessoas com renda mensal entre R$ 1.700 e R$ 7.400(e) e a tendência é que esses números cresçam nos
+próximos anos. Em uma entrevista à revista PLANETA, o economista Marcelo Neri analisa o impacto da nova
+classe média no consumo, no ambiente e na sociedade e mostra os desafios à frente dos brasileiros.
+[...]
+PLANETA – O fenômeno é passageiro?
+NERI – Não, a nova classe média veio para ficar. O crescimento é contínuo, apesar das crises financeiras.
+Planos assistenciais e o aumento do crédito ao consumidor contribuíram. Mas o principal é que o número de
+trabalhadores(d) que saíram da informalidade e passaram a ter carteira assinada dobrou desde 2004.
+                                                                              (Adaptado de Milton Correia Júnior, Cigarras e
+                                                                                                      formigas. PLANETA)
+
+Desrespeitam-se as regras de pontuação do padrão de prestígio da língua portuguesa ao inserir uma
+vírgula:
+a) depois de “contínuo”.
+b) depois de “expansão”.
+c) depois de “Atualmente”.
+d) depois de “trabalhadores”.
+e) depois de “e R$ 7.400”.
+
+14. Considere o fragmento abaixo para responder à questão.
+Um carro comumente significa sucesso, um cigarro, auto-afirmação; as praias oferecem um paraíso perdido, e
+as roupas de um estilista definem a identidade.
+A frase em que se nota emprego de vírgula determinado pelo mesmo motivo que definiu sua presença no
+segmento destacado acima é:
+a) Suas ligações eram sempre frequentes, ainda que breves.
+b) Se és feliz, escreve; se és infeliz, escreve também.
+c) Os meus hábitos quietos, o bom humor e a idade, principalmente esta, me favoreceram.
+d) Ela perdeu o fiel companheiro; a menina, um pai amoroso.
+e) Não é novo nada disto, nem eu estou aqui para dizer coisas novas.
+
+
+2.4 Relação de coordenação e subordinação das orações
+
+15. Texto para responder à questão.
+
+                                                                                                                          9
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                              33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Na charge, a oração introduzida pela conjunção MAS classifica-se como:
+a) subordinada substantiva completiva nominal.
+b) subordinada adverbial comparativa.
+c) coordenada sindética conclusiva.
+d) coordenada sindética adversativa.
+e) subordinada substantiva apositiva.
+
+16. Texto para responder à questão.
+Até que o beneficiário do plano complete 18 anos, os pais, como responsáveis pelos aportes, têm liberdade
+para interromper as contribuições e realizar saques. Mas essas medidas vão distanciá-los do objetivo inicial.
+ “É importante que o compromisso seja mantido. Certa vez um cliente nos disse que resgatar o valor investido
+seria o mesmo que assaltar o cofrinho do filho”, lembra João Batista Mendes Angelo, da Brasilprev.
+                                                                              (Veja, 9 de maio 2012. Com adaptações)
+
+O período “É importante que o compromisso seja mantido.” é composto por:
+a) duas orações coordenadas.
+b) duas orações subordinadas.
+c) oração principal e oração adjetiva.
+d) oração principal e oração subordinada completiva nominal.
+e) oração principal e oração subordinada substantiva subjetiva.
+
+17. Texto para responder à questão.
+Atualmente no Brasil ocorrem eleições a cada dois anos, sempre nos anos pares. À exceção do cargo de
+senador, que tem mandatos com duração de oito anos, os demais cargos eletivos têm mandatos de quatro
+
+                                                                                                                 10
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                      33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+anos. Como as eleições ocorrem a cada dois anos, os cargos eletivos são disputados em dois grupos, da
+seguinte forma: eleições federais e estaduais – para os cargos de: Presidente da República (e vice), Senador,
+Deputado Federal, Governador (e vice) e Deputado Estadual; eleições municipais – para os cargos de Prefeito
+(e vice) e Vereadores.
+
+Em “À exceção do cargo de senador, que tem mandatos com duração de oito anos, os demais cargos
+eletivos têm mandatos de quatro anos.”, é correto afirmar que, sintaticamente, o referido período é
+composto por oração subordinada
+a) adjetiva restritiva.
+b) adjetiva explicativa.
+c) substantiva predicativa.
+d) substantiva completiva nominal.
+
+18. A questão baseia no texto apresentado abaixo.
+Experiências parisienses
+Rubinstein apoiou fortemente VillaLobos na realização de seu sonho de longa data: ir a Paris para poder, lá,
+dedicar-se exclusivamente a seu trabalho de composição. Para fundar o projeto em uma base realista,
+Rubinstein sugeriu estabelecer um plano de financiamento que foi adotado por alguns amigos de Villa-Lobos.
+A imprensa relatou sobre isso: “Tudo indica que é chegado o momento de encaminhar para a Europa esse
+formoso talento que ontem foi delirantemente aplaudido”.
+Para colocar à disposição os meios necessários, o deputado Arthur Lemos apresentou uma proposta na câmara
+municipal de vereadores em julho de 1922 sob o título: “Para a divulgação de nossa música no exterior”. Foram
+pedidos 108 contos de réis – segundo a moeda de hoje, aproximadamente, 30 mil reais – para que pudessem
+ser realizados, ao total, 24 concertos com obras de compositores brasileiros nas capitais musicais da
+Europa. Já em 1912, Nepomuceno, Oswald, Braga e Nascimento haviam encaminhado uma iniciativa
+semelhante para o jovem compositor, muito promissor, Glauco Velásquez. O projeto contudo, fracassou, e
+Velásquez morreu dois anos mais tarde.
+A fim de propagar seu objetivo, Villa-Lobos realizou uma série de oito concertos – quatro no Rio de Janeiro,
+quatro em São Paulo –, os quais ele dedicou a algumas personalidades de destacada posição social: ao
+presidente Epitácio Pessoa, ao vice-presidente Estácio Coimbra, ao senador Marcílio Lacerda e ao milionário
+Arnaldo Guinle. [...]
+Apesar de todos os esforços, VillaLobos não conseguiu influenciar o ambiente no sentido intencionado. Não
+houve número considerável de público nem uma ressonância notável por parte da imprensa, e as
+personalidades importantes solicitadas também se mantiveram reservadas. O quarto concerto no Rio de
+Janeiro teve até mesmo de ser cancelado, já que não houve venda suficiente de ingressos. Ronald de Carvalho
+censurou, por conseguinte, em um artigo de jornal, a “decadência” do público no Rio de Janeiro. [...]
+                                                         NEGWER, M. Villa-Lobos. O florescimento da música brasileira. São
+                                                                     Paulo: Martins Fontes, 2009. p. 141-142. (adaptado)
+
+                                                                                                                       11
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                           33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Assinale a alternativa correta.
+a) O primeiro período do primeiro parágrafo é um período simples.
+b) O último período do segundo parágrafo apresenta oração subordinada.
+c) O primeiro período dos segundo e terceiro parágrafos são iniciados pelo mesmo tipo de oração.
+d) O terceiro parágrafo apresenta mais de um período.
+e) No quarto parágrafo, a expressão “apesar de” introduz uma oração subordinada adverbial concessiva.
+
+19. Ao analisar o progresso da humanidade, percebe-se que o desenvolvimento social e econômico foi
+possível porque o homem sistematizou formas de organização entre os povos.
+A oração sublinhada no período acima tem valor
+a) causal.
+b) concessivo.
+c) comparativo.
+d) temporal.
+e) consecutivo.
+
+                            3 – QUESTÕES COMENTADAS
+
+3.1 Linguagem
+
+1. Leia o texto a seguir.
+Obra de Adoniran Barbosa torna-se patrimônio histórico e cultural paulistano
+A Câmara de Vereadores de São Paulo aprovou projeto de lei que declara como patrimônio histórico e cultural
+a obra do sambista Adoniran Barbosa. A proposta do vereador Toninho Paiva (PR) foi enviada para sanção do
+prefeito.
+O modo de falar simples e com pequenos erros gramaticais é uma das marcas da obra de Adoniran, conforme
+destaca a justificativa do projeto de lei. Em alguns casos, aparece em um jogo de palavras, como o apaixonado
+Álvaro, que também é um jogo de palavras com “alvo” em Tiro ao Álvaro. O personagem é o destino certo das
+frechadas [flechadas] disparadas pelo olhar da moça, mais mortíferas do que veneno estriquinina e bala de
+“revorver”.
+A partir dessa poesia, identificada com as camadas menos favorecidas da população, Adoniran contava
+histórias de eventos diários que, às vezes, chegavam à crítica social, como no despejo de Saudosa Maloca.
+“Peguemos todas nossas coisas e fumo pro meio da rua, apreciá a demolição / Que tristeza que nós sentia /
+
+                                                                                                          12
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                               33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Cada tauba que caía doía no coração”, compôs Adoniran, dando voz aos sem-teto que observam a derrubada
+do imóvel onde tinham vivido nos últimos anos.
+                                        Disponível em: <http://www.redebrasilatual.com.br/entretenimento/2016/11/obra-de-
+                                        adoniran-barbosa-torna-se-patrimonio-historico-e-cultural-3500.html>. Acesso em:
+                                        08/02/2017.
+
+No trecho transcrito de Saudosa Maloca, podemos perceber exemplos dos desvios gramaticais em relação
+à norma-padrão, como já antecipava o parágrafo anterior. Quais das análises a seguir encontram
+exemplificação nos versos transcritos no último parágrafo?
+1. Apagamento da desinência de infinitivo em forma verbal.
+2. Ausência de marca de concordância verbal padrão.
+3. Substituição de forma verbal por variante coloquial.
+4. Supressão da marcação de concordância nominal.
+a) Apenas 1, 3 e 4.
+b) Apenas 2, 3 e 4.
+c) Apenas 1, 2 e 4.
+d) Apenas 1, 2, e 3.
+e) 1, 2, 3 e 4.
+Comentário:
+Analisemos cada item.
+1. Há desvios gramaticais em relação à norma-padrão. Ocorre o apagamento da desinência de infinitivo -r
+quando a forma coloquial “apreciá” é usada em substituição à forma verbal padrão “apreciar”.
+2. Há desvios gramaticais em relação à norma-padrão pela ausência de marca de concordância verbal no
+trecho “nós sentia”, e, de acordo com a norma-padrão, deve-se dizer “nós sentíamos”.
+3. Em “peguemos”, a forma verbal coloquial foi empregada em substituição à forma padrão “pegamos”.
+4. A concordância nominal dos termos utilizados na poesia é feita de acordo com a norma-padrão da
+língua, como pode ser observado nos fragmentos “todas nossas coisas” e “últimos anos”.
+Assim, há no texto os eventos mencionados nos itens 1, 2 e 3.
+Gabarito: letra D.
+
+2. A questão refere-se ao texto seguinte.
+− Ã-hã, quer entrar, pode entrar... Mecê sabia que eu moro aqui? Como é que sabia? Hum, hum...Cavalo seu é
+esse só? Ixe! Cavalo tá manco, aguado. Presta mais não.
+                                                      (João Guimarães Rosa. Trecho de "Meu tio o Iauaretê", adaptado.
+                                                      Estas estórias, Rio de Janeiro, José Olympio, 1969, p.126)
+
+
+                                                                                                                      13
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                                          33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Observando-se a variedade linguística de que se vale o falante do trecho acima, percebe-se uso de
+a) linguagem marcada por construções sintáticas complexas e inapropriadas para o contexto, responsáveis
+por truncar a comunicação e dificultar o entendimento.
+b) linguagem formal, utilizada pelas pessoas que dominam o nível culto da linguagem, sendo, portanto,
+adequada à situação em que o falante se encontra.
+c) gírias e interjeições, como ixe e aguado, prioritariamente utilizadas entre os jovens, sendo, assim,
+incompatíveis com a situação em que o falante se encontra.
+d) coloquialismos e linguagem informal, como mecê e tá, apropriados para a situação de informalidade em
+que o falante se encontra.
+Comentário:
+Vejamos cada uma das opções.
+a) A linguagem do texto não apresenta construções sintáticas complexas que possam dificultar a
+comunicação ou que sejam inapropriadas para o contexto de utilização. Pelo contrário, a linguagem é
+simples, objetiva e adequada à situação informal de interação social. Item errado.
+b) Ao contrário do que afirma a alternativa b, há o emprego de linguagem informal da língua portuguesa,
+como pode ser percebido por meio da utilização de expressões da linguagem da linguagem coloquial, tais
+como “ixe”, “ãh-ã” e “tá”. Item errado.
+c) As expressões “Ixe” e “aguado” não são questões prioritariamente usadas por jovens nem são
+incompatíveis com a situação informal em que foram empregadas pelo falante. Item errado.
+d) Os coloquialismos e a linguagem informal, como “mecê” e “tá” são usos adequados à situação de
+informalidade em que o falante em questão se encontra. Item certo.
+Gabarito: letra D.
+
+3. Analise a charge e a reportagem a seguir:
+
+Quando a tarefa de ensinar vira caso de polícia
+
+                                                                                                    14
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                          33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+  Carlos Roberto Correa
+  Simulado 04
+
+[...]
+ Para contar o drama de quem precisa conviver com a violência física e psicológica, o Terra ouviu relatos de
+educadores de todo o Brasil. Eles já levaram tapas, socos, chutes, foram ofendidos por alunos e pais. Alguns
+superaram o trauma, outros não conseguem voltar para a escola. Eles não querem assumir o papel de vítimas,
+e reconhecem que a escola precisa mudar. Mas pedem respeito, e principalmente, querem ser valorizados como
+professores. (Angela Chagas, para especial Terra)
+“Professores sem autoridade e desmotivados com o quadro de abandono da carreira, pais que repassam para
+a escola a tarefa de educar, alunos inquietos uma sala de aula que parece ter parado no tempo e governos
+omissos formam a bomba-relógio da violência.”
+No trecho sublinhado, podemos dizer que se trata de qual figura de linguagem?
+a) Comparação.
+b) Metáfora.
+c) Aliteração.
+d) Paranomásia.
+Comentário:
+Vejamos as opções.
+a) A comparação é uma figura de linguagem caracterizada pela utilização de elementos linguísticos
+capazes de estabelecer uma relação de semelhança entre os seres comparados, empregando, para isso,
+palavras como “assim como”, “como”, “tal qual”, “parece” etc. Dessa maneira, podemos afirmar que não
+há uma comparação no fragmento da expressão destacada. Item errado.
+b) A metáfora é uma figura de linguagem que estabelece relação de semelhança entre elementos,
+utilizando uma linguagem conotativa, isto é figurada, de maneira direta, sem apoio de elementos
+linguísticos comparativos. Isso é o que acontece quando, no texto, professores, pais, alunos e governos
+são colocados como formadores da “bomba-relógio da violência”. Item certo.
+c) A aliteração ocorre quando há a repetição proposital de fonemas consonantais, o que não ocorre no
+termo em destaque. Item errado.
+d) Diferente do que foi apresentado na expressão sublinhada, a paranomásia acontece quando há a
+utilização de palavras que apresentam semelhança na grafia e na fonética. Item errado.
+Gabarito: letra B.
+
+4. Leia a tira a seguir para responder à questão.
+
+                                                                                                         15
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+                                                            Disponível em: <http://www.opera10.com.br/2012/10/vicios-de-
+                                                           linguagem.html>. Acesso em: 12 fev. 2015.
+
+A ambiguidade gerada na tira se deve à
+a) impossibilidade prática de se vender o pôr do sol em qualquer circunstância.
+b) coincidência entre as formas do verbo “ver”, no gerúndio, e do verbo “vender”, na primeira pessoa do
+presente do indicativo.
+c) incompreensão dos adultos em relação às crianças que ainda se mantêm inocentes no que diz respeito
+às práticas comerciais extremas.
+d) habilidade inata das crianças de perceberem que a língua é guiada pelo princípio da economia das
+formas.
+Comentário:
+Vejamos as alternativas.
+a) A impossibilidade prática de se vender o pôr do sol em qualquer circunstância não é o que gera a
+possibilidade de dupla interpretação do conteúdo da tira. Item errado.
+b) A ambiguidade da tira é gerada por ser possível interpretar o verbo “vendo”, escrito na placa segurada
+por Armandinho, de duas maneiras: verbo “vender” conjugado na primeira pessoa do singular do tempo
+presente do modo indicativo – eu vendo; ou verbo “ver” na forma nominal gerúndio – estou vendo. Item
+certo.
+c) A incompreensão dos adultos em relação às crianças que ainda se mantêm inocentes no que diz respeito
+às práticas comerciais extremas não tem nada a ver com a ambiguidade linguística gerada na tira. Item
+errado.
+d) O duplo sentido gerado pela escolha das palavras usadas na tira não se justiça pela habilidade inata das
+crianças de perceberem que a língua é guiada pelo princípio da economia das formas. Item errado.
+Gabarito: letra B.
+
+5. A questão refere-se ao texto seguinte.
+"Além de parecer não ter rotação, a Terra parece também estar imóvel no meio dos céus. Ptolomeu dá
+argumentos astronômicos para tentar mostrar isso. Para entender esses argumentos, é necessário lembrar
+que, na Antiguidade, imaginava-se que todas as estrelas (mas não os planetas) estavam distribuídas sobre
+uma superfície esférica, cujo raio não parecia ser muito superior a distância da Terra aos planetas. Suponhamos
+
+
+                                                                                                                    16
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                          33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+agora que a Terra esteja no centro da esfera das estrelas. Neste caso, o céu visível à noite deve abranger, de
+cada vez, exatamente a metade da esfera das estrelas. E assim parece realmente ocorrer: em qualquer noite,
+de horizonte a horizonte, é possível contemplar, a cada instante, a metade do zodíaco. Se, no entanto, a Terra
+estivesse longe do centro da esfera estelar, então o campo de visão à noite não seria, em geral, a metade da
+esfera: algumas vezes poderíamos ver mais da metade, outras vezes poderíamos ver menos da metade do
+zodíaco, de horizonte a horizonte. Portanto, a evidência astronômica parece indicar que a Terra está no centro
+da esfera de estrelas. E se ela está sempre nesse centro, ela não se move em relação às estrelas."
+                                        MARTINS, Roberto de A. Introdução geral ao Commentariolus, de Nicolau Copérnico.
+
+Sabendo-se qual das funções de linguagem foi privilegiada neste texto, marque a opção que traz o
+elemento da comunicação a que está relacionada tal função?
+a) mensagem.
+b) código.
+c) referente.
+d) emissor.
+e) suporte.
+Comentário:
+Analisemos cada item.
+a) O elemento “mensagem” é priorizado em textos com “função poética”, os quais utilizam linguagem
+subjetiva, o que não é o caso do texto em análise. Item errado.
+b) O "código" é priorizado na “função metalinguística”, em que a linguagem se refere a ela mesma, de
+forma que o emissor comenta o ato de escrever através de seu texto. Os referidos código e função não têm
+relação com o texto estudado. Item errado.
+c) O elemento “referente” é aquele enfatizado nos textos em que o objetivo principal é transmitir
+informações, referenciar algo com linguagem objetiva, privilegiando-se a “função referencial”. No texto,
+há a exposição de informações objetivas sobre o planeta Terra, tendo sido priorizado o referente. Item
+certo.
+d) O elemento “emissor” apresenta caráter pessoal, uma vez que o texto tem “função emotiva”, com a
+expressão escrita de sentimentos e emoções apresentados por quem escreve o texto, caracterizando-se
+assim uma linguagem subjetiva. Em contrapartida, o texto da questão não apresenta caráter pessoal. Item
+errado.
+e) O elemento “suporte” é o centro da mensagem na função fática, a qual estabelece ou encerra o contato
+entre emissor e receptor, relevando o canal de comunicação. Essa função não pode ser observada no texto
+em estudo. Item errado.
+Gabarito: opção C.
+
+                                                                                                                     17
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                          33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+3.2 Tipologia textual
+
+6. Considere o texto abaixo para responder à questão.
+Pesquisa realizada pela PROTESTE Associação de Consumidores e divulgada dia 23 de agosto, revela que a
+população confia nos genéricos e chega a pedir para os médicos prescrevê-los.
+Mas parte da classe médica ainda tem dúvidas sobre esses remédios por conta do processo de avaliação da
+qualidade e falsificação.
+Para 45% dos médicos que participaram da pesquisa o processo de avaliação e controle de qualidade dos
+genéricos é menos exigente do que o que ocorre com os medicamentos de marca. E 44% deles acreditam que
+esses remédios sofrem mais falsificações. Ainda assim, 92% deles afirmaram ter recomendado o medicamento
+no último ano para reduzir o custo de tratamento ou a pedido do paciente.
+Uma boa parte dessa parcela de profissionais da saúde não concordou com a ideia de os genéricos serem tão
+eficazes (30%), nem de terem a mesma segurança (23%) que os remédios de referência. Quase metade (42%)
+afirmou não ter o hábito de prescrevê-los.
+Os farmacêuticos influenciam os consumidores na hora de comprar os genéricos, pois, segundo 88% dos
+entrevistados, pelo menos uma vez, esses profissionais sugeriram a substituição do remédio prescrito por um
+genérico.
+ O texto deve ser classificado como:
+a) descritivo, pois enumera as qualidades dos genéricos.
+b) narrativo, pois relata a evolução dos medicamentos genéricos.
+c) dissertativo informativo, pois informa os leitores das novas pesquisas sobre medicamentos;
+d) dissertativo didático, pois ensina os consumidores a diferençar medicamentos genéricos e de marca;
+e) dissertativo argumentativo, pois defende implicitamente uma tese.
+Comentário:
+Vejamos cada item.
+a) O texto lido não faz a enumeração das qualidades dos genéricos. Não podemos, portanto, considerá-lo
+descritivo, porque ele não faz nenhuma descrição detalhada, como ocorre em descrições. Item errado.
+b) Não há uma narrativa da evolução dos medicamentos genéricos. Também não temos nesse texto um
+narrador apresentando uma sequência de fatos, com personagens envolvidos em um enredo, em
+determinado espaço de tempo e lugar, elementos essenciais de um texto narrativo. Item errado.
+c) Esse texto não informa sobre novas pesquisas que envolvam medicamentos, trazendo apenas dados de
+pesquisas já realizadas. Além disso, não se pode afirmar que o texto é informativo, visto que o seu objetivo
+específico não é simplesmente transmitir informações sobre o tema confiabilidade dos medicamentos
+genéricos. Item errado.
+
+
+                                                                                                         18
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                              33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+d) O texto lido não é didático, pois não apresenta o objetivo de instruir, tampouco ensina os consumidores
+a diferençar medicamentos genéricos e de marca. Item errado.
+e) O texto em estudo é considerado dissertativo-argumentativo, pois o autor, a partir de dados da pesquisa
+PROTESTE, discorre sobre o tema confiabilidade dos medicamentos genéricos e acaba argumentando, de
+maneira implícita, contra essa confiabilidade por parte da população. Isso pode ser percebido quando o
+autor destaca, no terceiro parágrafo do texto, a informação “Uma boa parte dessa parcela de profissionais
+da saúde não concordou com a ideia de os genéricos serem tão eficazes (30%) (...)”, mesmo tendo acabado
+de informar, no parágrafo anterior, que mais 92% dos médicos afirmaram ter prescrito medicamentos
+genéricos no último ano para redução do custo de tratamento ou a pedido do paciente. Assim, pode-se
+entender que o autor defende a ideia de que os genéricos não são absolutamente seguros, tendo como
+sustentação para sua tese a parcela de médicos que desconfia da eficácia de tais medicamentos. Item
+correto.
+Gabarito: alternativa E.
+
+7. A questão refere-se à crônica que segue.
+Céu da Boca
+Uma das sedes da nostalgia da infância, e das mais profundas, é o céu da boca.
+A memória do paladar recompõe com precisão instantânea, através daquilo que comemos quando meninos, o
+menino que fomos. O cronista, se fosse escrever um livro de memórias, daria nele a maior importância à mesa
+de família, na cidade de interior onde nasceu e passou a meninice. A mesa funcionaria como personagem ativa,
+pessoa da casa, dotada do poder de reunir todas as outras, e também de separá-las, pelo jogo de preferências
+e idiossincrasias do paladar − que digo? da alma, pois é no fundo da alma que devemos pesquisar o mistério de
+nossas inclinações culinárias.
+A mesa mineira era grande, inteiriça e de madeira clara. À esquerda e à direita, estiravam-se dois bancos
+compridos, em que irmãos e parentes em visita se sentavam por critério hierárquico. À cabeceira, na cadeira
+de jacarandá e palhinha, o pai presidia.
+A comida, imune a influências no meio ilhado entre montanhas, era simples, simples a lembrança que deixou;
+e quem dela se nutriu quase sempre torce o nariz aos requintes, excentricidades ou meras variedades culinárias
+de outras terras.
+                                                      (Adaptado de: ANDRADE, Carlos Drummond de. A bolsa e a vida. São
+                                                                          Paulo, Companhia das Letras, 2012, p. 91-92.)
+
+a) a linguagem rigorosamente formal e impessoal.
+b) o relato objetivo e imparcial de um evento do passado.
+c) o discurso reivindicatório, expresso por verbos no imperativo.
+d) a reflexão a partir de uma experiência cotidiana.
+e) a argumentação pautada na recorrência de perguntas retóricas.
+
+                                                                                                                   19
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                         33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Comentário:
+Analisemos as opções.
+a) O texto da questão, assim como qualquer outra crônica, não é caracterizado por linguagem
+rigorosamente formal e impessoal. Item errado.
+b) Não podemos dizer que texto mostra um relato objetivo e imparcial de um evento do passado, pois ele
+fala sobre a memória do paladar como forma de nostalgia da infância, o que demonstra subjetivismo e
+pessoalidade na narrativa. Item errado.
+c) O discurso reivindicatório, expresso por verbos no imperativo, não acontece nessa crônica nem é
+característica desse tipo de texto. Item errado.
+d) Nessa crônica está presente a reflexão a partir de uma experiência cotidiana, quando o autor relembra,
+através do paladar de alimentos que comia em sua infância, a sua própria infância e se põe a refletir sobre
+ela. Item certo.
+e) A pergunta retórica acontece quando há questionamentos com a finalidade de despertar a reflexão por
+parte do leitor. Nesse texto não há perguntas, muito menos perguntas retóricas, as quais caracterizam o
+texto dissertativo-argumentativo. Item errado.
+Gabarito: opção D.
+
+8. Observe a charge:
+
+Sobre a charge, é correto afirmar que se trata de um texto:
+a) narrativo, pois apresenta fatos do cotidiano.
+b) expositivo, pois se limita a mostrar fatos.
+c) descritivo, pois mostra os personagens por inteiro.
+d) argumentativo, pois defende uma tese sobre o problema.
+e) informativo, pois revela fatos desconhecidos pelos leitores.
+Comentário:
+
+
+                                                                                                        20
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                              33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+Vejamos cada item.
+a) O texto não é narrativo, pois não apresenta uma história composta por uma sequência de fatos
+sucedidos, característica essencial da narração. Item errado.
+b) O texto em estudo não é expositivo, porque não faz a exposição de informações sobre algum assunto.
+Item errado.
+c) A charge não descreve seres, objetos ou lugares para ser classificada como um texto descritivo. Item
+errado.
+d) A charge demonstra um ponto de vista sobre um problema: a violência. No texto, autor culpa o eleitor
+pela onda violenta que assola o país, uma vez que aquele que elege os políticos não cobra desses o
+cumprimento das promessas feitas em campanha relativas à segurança pública. Essa tese pode ser
+entendida pela união da linguagem verbal, em que o político expressa a acusação, e da linguagem não
+verbal, através do dedo da autoridade pública apontado para a direção do leitor, o qual provavelmente é
+eleitor, tendo em vista que o público que acessa charges como essa é, normalmente, composto por
+adultos. Com base na crítica e nos argumentos dispostos pelo autor, pode-se considerar que a charge é um
+texto argumentativo. Item certo.
+e) A charge não é um texto informativo, porque não traz informações a respeito de fatos de interesse
+público. Item errado.
+Gabarito: opção D.
+
+
+3.4 Pontuação
+
+9. Assinale a alternativa correta quanto ao emprego da vírgula, de acordo com a norma-padrão da língua
+portuguesa.
+a) Os países ricos objetivam diminuir principalmente, a desigualdade interna.
+
+b) Sem sombra de dúvidas as sociedades menos desiguais, funcionam melhor.
+
+c) Contudo está, claro que a redução das desigualdades pode trazer benefícios.
+
+d) Em uma sociedade livre pessoas mais esforçadas, poderão acumular mais bens.
+
+e) Caso a liberdade seja a prioridade, a tendência é uma maior geração de riquezas.
+
+Comentário:
+Analisemos cada uma das alternativas:
+a) O adverbio “principalmente”, intercalado entre o verbo e o complemento, deve ser isolado por vírgulas.
+Reescrevendo: “Os países ricos objetivam diminuir, principalmente, a desigualdade interna.” Item errado.
+
+                                                                                                      21
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                           33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+b) Expressão de valor adverbial “Sem sombra de dúvidas” está anteposta à oração principal, motivo pelo
+qual deveria haver uma vírgula após “dúvidas”. Além disso, há vírgula separando o sujeito (“as sociedades
+menos desiguais”) do predicado (“funcionam melhor”). Reescrevendo: “Sem sombra de dúvidas, as
+sociedades menos desiguais funcionam melhor.” Item errado.
+c) Há o emprego de vírgula inadequada, separando o verbo de ligação (“está”) do predicativo do sujeito
+(“claro”). A vírgula após “contudo” é opcional, visto que se trata de adjunto adverbial deslocado de pequena
+extensão (até três palavras). Item errado.
+d) Há o emprego de vírgula inadequada, separando o sujeito (“pessoas mais esforçadas”) do predicado
+(“poderão acumular mais bens”). Item errado.
+e) Finamente! A vírgula justifica-se por separar corretamente a oração subordinada condicional anteposta
+(“Caso a liberdade seja a prioridade”) da oração principal posposta (“a tendência é uma maior geração de
+riquezas”). Item certo.
+Gabarito: letra E.
+
+10. Assinale o trecho inteiramente correto quanto ao emprego dos sinais de pontuação.
+a) A partir desta semana, os políticos que usam o dinheiro público, de forma irresponsável e demagógica
+podem, ser recolhidos àquele recinto onde o sol nasce quadrado.
+b) Numa votação ocorrida, na última quarta-feira no Senado, foram definidas as punições aos
+administradores públicos, que transgredirem a Lei da Responsabilidade Fiscal.
+c) O texto condena práticas até outro dia consideradas aceitáveis na condução das coisas do Estado tais
+como; gastar mais do que arrecada, aumentar despesas sem compensá-las com cortes; iniciar obras sem
+ter dinheiro para concluí-las, gastar em excesso com funcionalismo; não divulgar metas fiscais.
+d) De tão banais, essas condutas acabaram sendo encaradas com certa benevolência, como se fossem
+parte do jogo do poder. Com a votação do Senado, tais expedientes passam a ser punidos rigorosamente.
+e) Estudiosos da gestão pública, dizem que a lei carrega consigo aspectos inovadores − , pois Brasília dá
+um sinal forte de que decidiu legislar contra os próprios políticos.
+Comentário:
+Vejamos item a item.
+a) Há dois erros nos empregos das vírgulas. O primeiro ocorre pela separação do verbo “podem” de seu
+complemento “ser recolhidos àquele recinto onde o sol nasce quadrado”. O outro erro é a vírgula antes de
+“de forma irresponsável e demagógica”. Trata-se de expressão com caráter restritivo (são somente os
+políticos que usam o dinheiro público de forma irresponsável e demagógica que podem ser recolhidos à
+cadeia). Por isso, essa vírgula não existe.
+Reescrevendo: “A partir desta semana, os políticos que usam o dinheiro público de forma irresponsável e
+demagógica podem ser recolhidos àquele recinto onde o sol nasce quadrado.” Item errado.
+
+                                                                                                         22
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                               33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+b) Há duas vírgulas inadequadas. A primeira é a aplicada depois de “ocorrida”, separando o adjunto
+adverbial no interior de oração subordinada adjetiva restritiva reduzida de particípio. A outra é a que separa
+a oração “que transgredirem a Lei da Responsabilidade Fiscal”, cujo sentido é restritivo e não explicativo,
+caso em que se justificaria a vírgula.
+Reescrevendo: “Numa votação ocorrida na última quarta-feira no Senado, foram definidas as punições aos
+administradores públicos que transgredirem a Lei da Responsabilidade Fiscal.” Item errado.
+c) Após o termo “tais como”, o correto é o uso dos dois pontos, haja vista o início de uma enumeração.
+Além disso, há a mistura de vírgula e ponto e na enumeração, o que não é recomendável. Por fim, deveria
+haver uma vírgula antes da expressão “tais como”.
+Efetuando as correções, a frase fica: “O texto condena práticas até outro dia consideradas aceitáveis na
+condução das coisas do Estado, tais como: gastar mais do que arrecada, aumentar despesas sem compensá-
+las com cortes, iniciar obras sem ter dinheiro para concluí-las, gastar em excesso com funcionalismo, não
+divulgar metas fiscais.” Item errado.
+d) É o nosso gabarito. As vírgulas separam corretamente as expressões deslocadas: “De tão banais” e “Com
+a votação do Senado”. Também correta é a vírgula que separa a oração com sentido comparativo “como
+se fossem parte do jogo do poder”. Item certo.
+e) O primeiro erro é a vírgula que separa o sujeito (“Estudiosos da gestão pública”) do predicado (“dizem
+que a lei carrega consigo aspectos inovadores”). Outro erro é o uso cumulativo do travessão e da vírgula.
+O correto seria, apenas, o uso da vírgula antecedendo a oração com sentido causa. Item errado.
+Reescrevendo: “Estudiosos da gestão pública dizem que a lei carrega consigo aspectos inovadores, pois
+Brasília dá um sinal forte de que decidiu legislar contra os próprios políticos.”
+Gabarito: letra D.
+
+11. Na questão, indique a opção que corresponde a emprego incorreto de sinal de pontuação.
+Considerado um dos mais promissores mercados do mundo para a previdência privada,(A) com pelo menos 12
+milhões de clientes em potencial ainda não atendidos,(B) o Brasil tem atraído as grandes seguradoras
+multinacionais,(C) que iniciaram operação própria no país ou se associaram a empresas maiores que já atuam
+no mercado. O ritmo anual de crescimento desde 1908,(D) é de 40%. Até então,(E) os planos ofereciam um
+rendimento pré-definido para o futuro.
+                                                                              (Adaptado de Veja - seu Investimento)
+a) A
+b) B
+c) C
+d) D
+e) E
+Comentário:
+
+                                                                                                                23
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                      33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+A: a vírgula está correta. A expressão “Considerado um dos mais promissores mercados do mundo para
+a previdência privada” é classificada como oração subordinada adjetiva explicativa reduzida de particípio.
+Vejam a frase escrita de outra foma: “O Brasil, que é considerado um dos mais promissores mercados do
+mundo para a previdência privada, tem atraído...”
+B: a vírgula também está correta. A expressão “com pelo menos 12 milhões de clientes em potencial ainda
+não atendidos” tem sentido explicativo, razão que justifica estar intercalada por vírgulas.
+C: Da mesma forma, a expressão “que iniciaram operação própria no país ou se associaram a empresas
+maiores que já atuam no mercado”, tem função explicativa. Trata-se de oração subordinada adjetiva
+explicativa, a qual é separada por vírgula da oração principal.
+D: Essa você não erra mais. O adjunto adverbial intercalado deve estar separado por vírgulas. Assim, o
+correto é: “O ritmo anual de crescimento, desde 1908, é de 40%”. Vírgula incorreta.
+E: O adjunto adverbial deslocado “Até então” receberá vírgula, separando-a do restante da oração. Correta
+a proposta apresentada pela questão.
+Gabarito: letra D.
+
+12. Assinale a opção em que foram empregados corretamente os sinais de pontuação.
+a) As pessoas, que dão valor, apenas, ao lado material da vida, não sabem, o que de valor há na vida.
+b) Propõem-se situações semelhantes às do cotidiano nas quais o estudante terá a experiência, próxima
+da realidade, com que irá deparar-se.
+c) A riqueza de um povo se revela por sua cultura pois, por meio dela podem-se perceber os valores que
+fundamentam as práticas de uma comunidade.
+d) Os artefatos produzidos, têm seu valor econômico, mas é preciso também, levar em consideração seu
+valor simbólico.
+e) De fato, enfrentaremos uma situação constrangedora, que será difícil de ser contornada; contamos,
+pois, com a colaboração de todos para superarmos este desafio.
+Comentário:
+Analisemos cada uma das alternativas:
+a) Já vimos que não há vírgula entre o verbo e o complemento. Assim, é equivocada a inserção da vírgula
+após o verbo “sabem”. Item errado.
+b) Não deve ser empregada vírgula separando o adjunto adnominal do nome a que se refere. Assim, é
+equivocada a ocorrência em “experiência, próxima”. Outrossim, a expressão “com que irá deparar-se” tem
+sentido restritivo, razão pela qual não deve ser introduzida por vírgula. Item errado.
+c) Faltou uma vírgula antes da conjunção explicativa “pois”. Além disso, a vírgula após esse termo somente
+seria apropriada se houvesse vírgula após a expressão adverbial deslocada “por meio dela”. Item errado.
+
+                                                                                                        24
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                             33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+d) A oração já começa mal, com o seu sujeito separado do verbo por vírgula. Além disso, o advérbio
+“também” ou deveria estar separado por vírgula ou não deveria ter nenhuma vírgula, visto ser de pequena
+extensão. Enfim, item errado.
+e) Finamente! Inicialmente, adjunto adverbial deslocado de curta extensão “De fato” pode ser separado do
+restante da oração por vírgula. A próxima vírgula separa, corretamente, uma oração subordinada adjetiva
+explicativa. O ponto e vírgula indica uma pausa maior e separa orações coordenadas. Por fim, tratando-se
+de “pois” com sentido conclusivo deverá ser separado por vírgulas. Item certo.
+Gabarito: letra E.
+
+13. Considere o texto abaixo para responder à questão.
+Nos últimos dez anos, o Brasil passou por grandes transformações e crescimento econômico contínuo(a) que o
+induziu a figurar entre os países em desenvolvimento acelerado. Com a expansão(b) formou-se uma nova classe
+média, composta por trabalhadores vindos das classes D e E. Atualmente (c) o país possui 105 milhões de
+pessoas com renda mensal entre R$ 1.700 e R$ 7.400(e) e a tendência é que esses números cresçam nos
+próximos anos. Em uma entrevista à revista PLANETA, o economista Marcelo Neri analisa o impacto da nova
+classe média no consumo, no ambiente e na sociedade e mostra os desafios à frente dos brasileiros.
+[...]
+PLANETA – O fenômeno é passageiro?
+NERI – Não, a nova classe média veio para ficar. O crescimento é contínuo, apesar das crises financeiras.
+Planos assistenciais e o aumento do crédito ao consumidor contribuíram. Mas o principal é que o número de
+trabalhadores(d) que saíram da informalidade e passaram a ter carteira assinada dobrou desde 2004.
+                                                                              (Adaptado de Milton Correia Júnior, Cigarras e
+                                                                                                      formigas. PLANETA)
+
+Desrespeitam-se as regras de pontuação do padrão de prestígio da língua portuguesa ao inserir uma
+vírgula:
+a) depois de “contínuo”.
+b) depois de “expansão”.
+c) depois de “Atualmente”.
+d) depois de “trabalhadores”.
+e) depois de “e R$ 7.400”.
+Comentário:
+Inseri essa questão para que você perceba que, muitas vezes, não se fala em mudança de sentido, somente
+em regra de pontuação. Assim, você deve se “desapegar” quanto a eventuais alterações de sentido. Agora,
+vejamos cada uma das opções:
+a) A inserção de uma vírgula depois de “contínuo” torna a oração subordinada adjetiva em explicativa. Isso
+em nada ofende as regras de pontuação; afeta somente o sentido da frase. Item errado.
+
+
+                                                                                                                        25
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                              33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+b) A inserção da vírgula separa corretamente o adjunto adverbial deslocado “Com a expansão”, do
+restante da oração. Logo, essa mudança alinha-se às regras de pontuação. Item errado.
+c) A inserção da vírgula separa corretamente o adjunto adverbial deslocado “Atualmente”, do restante da
+oração. Logo, essa mudança alinha-se às regras de pontuação. Frise-se que, por ser um adjunto adverbial
+de pequena extensão, essa vírgula é facultativa. Item errado.
+d) A inserção da vírgula ficou estranha, certo? São duas as possibilidades: mantem-se a frase do jeito que
+está ou inserem-se duas vírgulas, tornando a oração explicativa: “Mas o principal é que o número de
+trabalhadores, que saíram da informalidade e passaram a ter carteira assinada, dobrou desde 2004”.
+Enfim, item certo.
+e) A vírgula após “R$ 7.400” é possível, separando orações coordenadas aditivas com sujeitos diferentes.
+Item errado
+Gabarito: letra D.
+
+14. Considere o fragmento abaixo para responder à questão.
+Um carro comumente significa sucesso, um cigarro, auto-afirmação; as praias oferecem um paraíso perdido, e
+as roupas de um estilista definem a identidade.
+A frase em que se nota emprego de vírgula determinado pelo mesmo motivo que definiu sua presença no
+segmento destacado acima é:
+a) Suas ligações eram sempre frequentes, ainda que breves.
+b) Se és feliz, escreve; se és infeliz, escreve também.
+c) Os meus hábitos quietos, o bom humor e a idade, principalmente esta, me favoreceram.
+d) Ela perdeu o fiel companheiro; a menina, um pai amoroso.
+e) Não é novo nada disto, nem eu estou aqui para dizer coisas novas.
+Comentário:
+A vírgula, no trecho em destaque, justifica-se pela omissão (elipse) do termo “significa”. Acompanhe: “Um
+carro comumente significa sucesso, um cigarro (significa) auto-afirmação”.
+Dito isso, vejamos cada uma das opções.
+a) A vírgula justifica-se pelo fato de introduzir uma oração subordinada adverbial concessiva. Item errado.
+b) A vírgula justifica-se, nos dois casos, pelo fato de introduzir uma oração subordinada adverbial
+condicional. Item errado.
+c) No primeiro caso a vírgula separa termos de uma enumeração. No segundo caso, pela ocorrência de
+adjunto adverbial intercalado. Item errado.
+d) A vírgula justifica-se pela omissão da palavra “perdeu”. Como essa razão é a mesma que justifica a do
+enunciado, o item está correto.
+
+                                                                                                        26
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                              33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+e) Não se aplica a vírgula para separar orações coordenadas sindéticas aditivas ligadas por “e” ou “nem”.
+Item errado.
+Gabarito: letra D.
+
+
+3.6 Relação de coordenação e subordinação das orações
+
+15. Texto para responder à questão.
+
+Na charge, a oração introduzida pela conjunção MAS classifica-se como:
+a) subordinada substantiva completiva nominal.
+b) subordinada adverbial comparativa.
+c) coordenada sindética conclusiva.
+d) coordenada sindética adversativa.
+e) subordinada substantiva apositiva.
+Comentário:
+Analisemos as alternativas.
+a) Para termos uma oração subordinada, precisamos ter orações que dependem uma da outra para
+apresentar sentido, entretanto as orações da frase “Doutor, estou com dengue,” “mas quero muito ir ao
+baile funk” são independentes, já que possuem sentido próprio se isoladas. Item errado.
+b) A oração introduzida por “mas” não é subordinada, uma vez que as orações que a conjunção em questão
+interliga são independentes. Item errado.
+
+                                                                                                      27
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                            33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+c) O “mas” expressa ideia de contrariedade ou adversidade. Por conseguinte, não é possível classificar a
+oração como conclusiva. Item errado.
+d) As orações “Doutor, estou com dengue” e “mas quero muito ir ao baile funk” apresentam uma relação
+de sentido entre si, contudo elas não são dependentes uma da outra, o que permite a classificação
+“coordenada”. Uma vez que as orações se ligam por conjunção, temos uma “oração coordenada sindética”.
+A conjunção que interliga as orações é o “mas”, que indica oposição entre os termos relacionados, uma vez
+que “estar doente” não condiz com “querer ir ao baile”, por conseguinte classificamos a oração introduzida
+pelo “mas” como “oração coordenada sindética adversativa”. Item certo.
+e) Mais uma vez, a oração introduzida por “mas” não é subordinada, uma vez que as orações que
+interligadas são independentes. Item errado.
+Gabarito: opção D.
+
+16. Texto para responder à questão.
+Até que o beneficiário do plano complete 18 anos, os pais, como responsáveis pelos aportes, têm liberdade para
+interromper as contribuições e realizar saques. Mas essas medidas vão distanciá-los do objetivo inicial.
+ “É importante que o compromisso seja mantido. Certa vez um cliente nos disse que resgatar o valor investido
+seria o mesmo que assaltar o cofrinho do filho”, lembra João Batista Mendes Angelo, da Brasilprev.
+                                                                              (Veja, 9 de maio 2012. Com adaptações)
+
+O período “É importante que o compromisso seja mantido.” é composto por
+a) duas orações coordenadas.
+b) duas orações subordinadas.
+c) oração principal e oração adjetiva.
+d) oração principal e oração subordinada completiva nominal.
+e) oração principal e oração subordinada substantiva subjetiva.
+Comentário:
+Vejamos cada item.
+a) Não temos duas orações independentes na frase, pois a oração principal “é importante” não possui
+sentido completo, necessitando de outra oração que a complete. Logo, as orações em questão não são
+coordenadas, já que orações coordenadas são independentes. Item errado.
+b) Não há duas orações subordinadas, porque a oração que necessita de complemento de sentido “é
+importante” é classificada como oração principal, sendo subordinada somente aquela que completa o seu
+sentido. Item errado.
+c) Não há oração adjetiva na frase, visto que esse tipo de oração possui função de adjetivo, o qual restringe
+ou explica termo anteriormente citado. Item errado.
+
+                                                                                                                28
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                      33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+d) Não há uma oração subordinada completiva nominal, pois esse tipo de oração completa o sentido de
+um nome, além de ser preposicionada. Item errado.
+e) Há na frase a oração principal “é importante” e uma oração subordinada que completa o seu sentido. Na
+ordem direta, teremos: “Que o compromisso seja mantido é importante”, de modo que a oração destacada
+exerce a função sintática de sujeito do verbo “é”, assim a oração subordinada em destaque receberá a
+classificação substantiva, por exercer função sintática própria de substantivo, e subjetiva, já que funciona
+como sujeito da oração principal. A oração subordinada substantiva subjetiva, normalmente, é iniciada por
+conjunção integrante “se” ou “que”, como acontece na frase analisada. Item certo.
+Gabarito: opção E.
+
+17. Texto para responder à questão.
+Atualmente no Brasil ocorrem eleições a cada dois anos, sempre nos anos pares. À exceção do cargo de
+                                                       ==219a34==
+
+senador, que tem mandatos com duração de oito anos, os demais cargos eletivos têm mandatos de quatro
+anos. Como as eleições ocorrem a cada dois anos, os cargos eletivos são disputados em dois grupos, da
+seguinte forma: eleições federais e estaduais – para os cargos de: Presidente da República (e vice), Senador,
+Deputado Federal, Governador (e vice) e Deputado Estadual; eleições municipais – para os cargos de Prefeito
+(e vice) e Vereadores.
+
+Em “À exceção do cargo de senador, que tem mandatos com duração de oito anos, os demais cargos
+eletivos têm mandatos de quatro anos.”, é correto afirmar que, sintaticamente, o referido período é
+composto por oração subordinada
+a) adjetiva restritiva.
+b) adjetiva explicativa.
+c) substantiva predicativa.
+d) substantiva completiva nominal.
+Comentário:
+a) A oração subordinada adjetiva restritiva é introduzida pelo pronome relativo “que”, assim como
+acontece na frase em foco, e restringe o termo antecedente ao qual se refere, particularizando-o. Na frase,
+não ocorre particularização do termo “cargo de senador”, uma vez que todos os senadores têm o mesmo
+tempo de duração do mandato. Além disso, é importante lembrar que a oração subordinada adjetiva
+restritiva não pode ser separada por pontuação, como a vírgula. Item errado.
+b) A oração subordinada adjetiva explicativa é introduzida pelo pronome relativo “que”, assim como
+acontece na frase em foco, e explica o termo antecedente ao qual se refere, caracterizando-o. Na frase em
+questão, ocorre especificação do termo “cargo de senador”, já que todos os senadores têm o mesmo
+tempo de duração do mandato. Ademais, ressalta-se que a oração subordinada adjetiva explicativa será
+sempre separada por pontuação, mais comumente a vírgula. Item certo.
+
+                                                                                                          29
+        Receita Federal (Analista Tributário) Passo Estratégico de Português                              33
+        www.estrategiaconcursos.com.br
+
+                                    
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+c) A oração subordinada substantiva predicativa é introduzida por conjunção integrante, e não por
+pronome relativo, como acontece na frase da questão. Ressalta-se que essas orações desempenham
+função de predicativo do sujeito. Item errado.
+d) A oração subordinada substantiva nominal é aquela que exerce função de complemento do nome, o que
+não é verificado na frase em escopo. Item errado.
+Gabarito: opção B.
+
+18. A questão baseia no texto apresentado abaixo.
+Experiências parisienses
+Rubinstein apoiou fortemente VillaLobos na realização de seu sonho de longa data: ir a Paris para poder, lá,
+dedicar-se exclusivamente a seu trabalho de composição. Para fundar o projeto em uma base realista,
+Rubinstein sugeriu estabelecer um plano de financiamento que foi adotado por alguns amigos de Villa-Lobos.
+A imprensa relatou sobre isso: “Tudo indica que é chegado o momento de encaminhar para a Europa esse
+formoso talento que ontem foi delirantemente aplaudido”.
+Para colocar à disposição os meios necessários, o deputado Arthur Lemos apresentou uma proposta na câmara
+municipal de vereadores em julho de 1922 sob o título: “Para a divulgação de nossa música no exterior”. Foram
+pedidos 108 contos de réis – segundo a moeda de hoje, aproximadamente, 30 mil reais – para que pudessem
+ser realizados, ao total, 24 concertos com obras de compositores brasileiros nas capitais musicais da
+Europa. Já em 1912, Nepomuceno, Oswald, Braga e Nascimento haviam encaminhado uma iniciativa
+semelhante para o jovem compositor, muito promissor, Glauco Velásquez. O projeto contudo, fracassou, e
+Velásquez morreu dois anos mais tarde.
+A fim de propagar seu objetivo, Villa-Lobos realizou uma série de oito concertos – quatro no Rio de Janeiro,
+quatro em São Paulo –, os quais ele dedicou a algumas personalidades de destacada posição social: ao
+presidente Epitácio Pessoa, ao vice-presidente Estácio Coimbra, ao senador Marcílio Lacerda e ao milionário
+Arnaldo Guinle. [...]
+ Apesar de todos os esforços, VillaLobos não conseguiu influenciar o ambiente no sentido intencionado. Não
+houve número considerável de público nem uma ressonância notável por parte da imprensa, e as
+personalidades importantes solicitadas também se mantiveram reservadas. O quarto concerto no Rio de
+Janeiro teve até mesmo de ser cancelado, já que não houve venda suficiente de ingressos. Ronald de Carvalho
+censurou, por conseguinte, em um artigo de jornal, a “decadência” do público no Rio de Janeiro. [...]
+                                                        NEGWER, M. Villa-Lobos. O florescimento da música brasileira. São
+                                                                    Paulo: Martins Fontes, 2009. p. 141-142. (adaptado)
+
+Assinale a alternativa correta.
+a) O primeiro período do primeiro parágrafo é um período simples.
+b) O último período do segundo parágrafo apresenta oração subordinada.
+c) O primeiro período dos segundo e terceiro parágrafos são iniciados pelo mesmo tipo de oração.
+d) O terceiro parágrafo apresenta mais de um período.
+
+                                                                                                                      30
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                                           33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+e) No quarto parágrafo, a expressão “apesar de” introduz uma oração subordinada adverbial concessiva.
+Comentário:
+Analisemos cada item.
+a) O primeiro período do primeiro parágrafo é uma frase formada por período composto, já que apresenta
+mais de uma oração. Item errado.
+b) O último período do segundo parágrafo não apresenta oração subordinada, mas sim orações
+coordenadas, uma vez que possuem relações de sentido, todavia são independentes. Item errado.
+c) O primeiro período do segundo e do terceiro parágrafos são iniciados pelo mesmo tipo de oração. No
+segundo parágrafo, temos “Para colocar à disposição os meios necessários”; já no segundo, “A fim de
+propagar seu objetivo”. Ambas preposições destacadas possuem sentido de finalidade, por isso as orações
+são “subordinadas adverbiais finais”, e classificam-se também como “reduzidas de infinitivo” por
+apresentarem verbo na forma infinitiva. Item certo.
+d) O terceiro parágrafo apresenta um só período. Item errado.
+e) No quarto parágrafo, a expressão “apesar de” não introduz uma oração subordinada adverbial
+concessiva, porque, no segmento, não há verbo, característica essencial de uma oração. Logo, temos
+apenas um adjunto adverbial concessivo. Item errado.
+Gabarito: opção C.
+
+19. Ao analisar o progresso da humanidade, percebe-se que o desenvolvimento social e econômico foi
+possível porque o homem sistematizou formas de organização entre os povos.
+A oração sublinhada no período acima tem valor
+a) causal.
+b) concessivo.
+c) comparativo.
+d) temporal.
+e) consecutivo.
+Comentário:
+Pensemos. A oração subordinada “Ao analisar o progresso da humanidade” apresenta-se na forma
+reduzida de infinitivo, por apresentar a forma nominal “analisar”. Ao desenvolvermos essa oração, temos:
+“Quando se analisa o progresso da humanidade”. Agora, vejamos as questões.
+a) A oração sublinhada na questão não apresenta nenhum valor de causa. Item errado.
+b) A oração em análise não possui expressão que lhe confira valor concessivo. Item errado.
+c) A oração não apresenta ideia de comparação. Item errado.
+
+                                                                                                     31
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                           33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+ Carlos Roberto Correa
+ Simulado 04
+
+d) A oração em estudo expressa valor de tempo, o que pode ser comprovado pelo uso do termo em
+destaque “quando”. Item certo.
+e) A oração não apresenta elemento que expresse ideia consecutiva. Item errado.
+Gabarito: opção D.
+
+                                                                                          32
+       Receita Federal (Analista Tributário) Passo Estratégico de Português                33
+       www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Carlos Roberto Correa
+Simulado 04
+
+                                          4 – GABARITO
+                                  1      D           16     E
+                                  2      D           17     B
+                                   3     B           18     C
+                                  4      B           19     D
+                                   5     C           20
+                                  6      E           21
+                                   7     D           22
+                                  8      D           23
+                                  9      E           24
+                                  10     D           25
+                                  11     D           26
+                                  12     E           27
+                                  13     D           28
+                                  14     D
+                                  15     D
+
+                                                                             33
+      Receita Federal (Analista Tributário) Passo Estratégico de Português   33
+      www.estrategiaconcursos.com.br
+
+                                  
+
+
+---
+
+---

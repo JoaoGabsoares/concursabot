@@ -1,0 +1,652 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 18_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: ESTATÍSTICA PARA
+---
+
+# ESTATÍSTICA PARA
+
+ESTATÍSTICA PARA
+  DESESPERADOS –
+GABARITANDO FGV
+
+                                         Prof. Carlos Henrique
+
+    
+
+
+---
+
+APRESENTAÇÃO DE DADOS –
+GRÁFICOS E REPRESENTAÇÕES
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+   (FGV/TCU - 2022) O histograma a seguir mostra a quantidade de refeições para cada faixa
+   de preço, em uma determinada área do Rio de Janeiro.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+   O conjunto de dados consistente com o histograma é:
+  a) 25, 27, 27, 28, 29, 34, 34, 34, 35, 35, 35, 35, 36, 36, 37;
+  b) 26, 27, 27, 28, 29, 34, 34, 34, 35, 35, 36, 36, 37;
+  c) 26, 27, 27, 28, 29, 34, 34, 34, 35, 35, 35, 35, 36, 36, 39;
+  d) 26, 27, 27, 28, 29, 34, 34, 34, 35, 35, 35, 35, 36, 36, 37;
+  e) 26, 27, 27, 28, 29, 31, 34, 34, 34, 35, 35, 35, 36, 36, 37.
+
+Prof. Carlos Henrique
+                                     
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+MÉDIAS – MÉDIA ARITMÉTICA
+SIMPLES
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+   (FGV/FunSaúde CE - 2021) Em um conjunto de 12 números, a média de 4 deles é 15 e a
+   média dos outros 8 é 18.
+   A média dos 12 números é:
+   a) 17.
+   b) 16,8.
+   c) 16,5.
+   d) 16.
+   e) 15,5.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+        (FGV/Pref. Paulínia - 2021) Um grupo de 10 amigos, em que o mais novo tem 55 anos,
+        constatou que a média de suas idades é 64 anos. Se o mais novo e o mais velho saírem
+        do grupo, a média das idades dos oito restantes continua sendo 64.
+        A idade do mais velho é:
+        a) 69.
+        b) 70.
+        c) 71.
+        d) 72.
+        e) 73.
+
+Prof. Carlos Henrique
+                                    
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+   (FGV/IMBEL - 2021) A média de 6 números é 33. Um deles foi retirado e a média dos
+   outros passou a ser 31.
+   Assinale a opção que indica o número que foi retirado.
+   a) 35.
+   b) 37.
+   c) 39.
+   d) 41.
+   e) 43.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+MEDIDAS SEPARATRIZES OU
+QUANTIS – MEDIANA
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+   (FGV/SEFAZ-ES - 2022) As notas de nove candidatos num certo exame foram:
+   54, 48, 46, 51, 38, 50, 44, 58, 32.
+   A mediana dessas notas é igual a:
+   a) 44.
+   b) 46.
+   c) 48.
+   d) 50.
+   e) 51.
+
+Prof. Carlos Henrique
+                                
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     (FGV/FunSaúde CE - 2021) A mediana dos sete números 9, 2, 5, 3, 13, x, 5 é x.
+     A média desses números é:
+     a) 5.
+     b) 5,5.
+     c) 6.
+     d) 6,5.
+     e) 7.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+       (FGV/FunSaúde CE - 2021) Sabe-se que x é maior do que 11 e que a diferença entre a
+       média e a mediana dos cinco números 2, x, 11, 16, 5 é igual a 2.
+       O valor de x é
+       a) 12.
+       b) 16.
+       c) 21.
+       d) 26.
+       e) 31.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      (FGV/CBM-AM - 2022) A soma de 11 números inteiros estritamente positivos, não
+      necessariamente distintos, é 2022.
+      O maior valor que a mediana desses 11 números pode ter é:
+      a) 335.
+      b) 336.
+      c) 337.
+      d) 338.
+      e) 339.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+  (FGV/IMBEL - 2021) Considere a lista de cinco números reais: 2, 9, 4, 10, x.
+  Sabe-se que a mediana desses números é igual à média deles.
+  A soma dos possíveis valores de x é:
+  a) 22,5.
+  b) 21,25.
+  c) 20,75.
+  d) 19,5.
+  e) 17,5.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     (FGV/SSP-AM - 2022) Considere o conjunto dos números 15, X, 2, 11, 6.
+     Sabe-se que a mediana desse conjunto de números é 11 e que a média é a menor
+     possível.
+     A diferença entre a mediana e a média é:
+     a) 0.
+     b) 1.
+     c) 2.
+     d) 3.
+     e) 4.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+  (FGV/IMBEL - 2022) A lista a seguir representa a quantidade de itens de certo produto
+  vendidos por uma loja nos 6 dias de certa semana, organizados em ordem crescente:
+  N, 14, 15, 17, 20, 2N.
+  Sabe-se que a média desses números é 1 unidade maior que a mediana deles.
+  O número N é elemento do conjunto:
+  a) {1, 2, 3}.
+  b) {4, 5, 6}.
+  c) {7, 8, 9}.
+  d) {10, 11}.
+  e) {12, 13}.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     (FGV/BANESTES - 2021) A média e a mediana de 5 números reais são, respectivamente,
+     17 e 23.
+     A diferença entre o maior e o menor desses 5 números é, no mínimo, igual a:
+     a) 11;
+     b) 12;
+     c) 13;
+     d) 14;
+     e) 15.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+MODA – MODA PARA DADOS
+NÃO-AGRUPADOS
+
+                                              Prof. Carlos Henrique
+
+         
+
+
+---
+
+      (FGV/SEFAZ-AM - 2022) Uma amostra de idades de usuários de determinado serviço
+      forneceu os seguintes dados: 23; 34; 30; 22; 34; 53; 34; 28; 30; 22. A soma dos valores
+      da média, da moda e da mediana desses dados é igual a:
+      a) 93.
+      b) 94.
+      c) 95.
+      d) 96.
+      e) 97.
+
+Prof. Carlos Henrique
+                                    
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+     (FGV/IMBEL - 2021) Uma lista de 2021 números inteiros positivos tem uma única moda
+     (estatística) que ocorre exatamente 15 vezes. O número mínimo de inteiros distintos
+     que ocorre nessa lista é:
+     a) 141.
+     b) 142.
+     c) 143.
+     d) 144.
+     e) 145.
+
+Prof. Carlos Henrique
+                                 
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+  (FGV/CBM-AM - 2022) Os resultados de certo experimento estão na lista abaixo:
+  x - 6 – 8 - 4 - x – 14 - 6 - y - 6
+  onde x ≠ y. O número y é a única moda, e também é a mediana da lista.
+  A média da lista é 8.
+  A média dos três maiores números dessa lista é:
+  a) 10.
+  b) 10,5.
+  c) 11.
+  d) 11,5.
+  e) 12.
+
+Prof. Carlos Henrique
+                                
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+      (FGV/MPE-GO - 2022) Considere a lista de números:
+      2, 1, 5, 3, 5, 8, 2, 7, x, 4, 6.
+      Sabe-se que essa lista tem moda única igual a 2.
+      A mediana dessa lista de números é:
+      a) 2.
+      b) 3.
+      c) 4.
+      d) 5.
+      e) 6.
+
+Prof. Carlos Henrique
+                                  
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+MEDIDAS DE VARIABILIDADE OU
+DISPERSÃO – VARIÂNCIA
+
+                                               Prof. Carlos Henrique
+
+          
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+    FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
+    A função que representa um fenômeno físico é y = 10+ 4x.
+    Sabendo-se que x é uma variável aleatória com variância igual a 10, a variância de y é:
+    a) 40;
+    b) 50;
+    c) 160;
+    d) 170;
+    e) 400.
+
+Prof. Carlos Henrique
+                                   
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---
+
+Prof. Carlos Henrique
+                        
+
+
+---

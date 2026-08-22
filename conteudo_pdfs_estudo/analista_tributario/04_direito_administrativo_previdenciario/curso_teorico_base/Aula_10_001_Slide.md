@@ -1,0 +1,2009 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 10_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: NOVA LEI DE LICITAÇÕES
+artigos_citados:
+- Art. 1º
+- Art. 45.
+- Art. 81.
+- art. 22
+- art. 30
+- art. 34
+- art. 36
+- art. 80
+---
+
+# NOVA LEI DE LICITAÇÕES
+
+NOVA LEI DE LICITAÇÕES
+            E CONTRATOS
+                         Lei 14.133/2021
+
+                                                                Prof. Antonio Daud
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                           
+
+
+---
+
+NOÇÕES INTRODUTÓRIAS
+
+      
+
+
+---
+
+                     O que é “licitação” ?
+
+Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+            COMPETÊNCIAS LEGISLATIVAS
+
+                                                               UNIÃO                           Normas gerais
+                                        (CF, art. 22, XXVII)
+
+                                                               E, DF, M                   Normas específicas
+
+Licitações
+Prof. Antonio Daud
+                                                                      
+
+
+---
+
+                                  norma nacional
+
+
+                                   normas gerais
+                                                                                 Lei 8.666/1993*
+
+                             fixou prazo de 2 anos p/                            Lei 10.520/2002
+                             revogação das seguintes                                  (pregão)
+                                     normas:
+          Lei 14.133/2021
+                                                                              Lei 12.462/2011 (RDC)
+
+
+                                                                 Admin. Podia escolher o regime
+                            Durante 2 anos
+                                                                      não pode mesclar regimes
+
+
+                            Aplica-se às situações em que a legislação faça
+Licitações
+Prof. Antonio Daud
+                                 referência expressa a estas 3 normas
+                                 
+
+
+---
+
+                           Quem está alcançado pela NLL?
+
+                          nova lei alcança                                                       não alcança
+
+                      administração direta                                                 estatais (regras constam da Lei
+            (inclusive Legislativo e Judiciário no exercício                           13.303/2016, exceto crimes da NLL)
+                       da função administrativa)
+                art. 1º
+                                                                                            repartições no exterior
+                              autarquias                                               (regul. próprio, mas "princípios
+                                                                                               básicos" da NLL)
+                          fundações públicas                                          contratações que envolvam
+                                                                                         recursos estrangeiros
+                           fundos especiais                                                      (regras próprias)
+                                                                                            reservas internacionais
+                     entidades controladas                                                  (ato normativo do Bacen)
+Licitações
+Prof. Antonio Daud
+                                                      
+
+
+---
+
+            A quais contratações aplica-se a NLL?
+                         compra (inclusive por encomenda)
+
+                         prestação de serviços, inclusive os técnico-profissionais especializados
+
+                         obras e serviços de arquitetura e engenharia
+
+       Nova lei de       contratações de tecnologia da informação e de comunicação (TIC)
+       licitações
+             art. 1º
+                     -
+        aplicação        alienação de bens
+
+                         locação
+
+                         concessão e permissão de uso de bens públicos
+
+                         concessão de direito real de uso de bens
+Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+A quais contratações não se aplica a NLL?
+
+
+                       Contratações que tenham por objeto operações de crédito (interno ou
+                       externo)
+
+       Nova lei de     gestão da dívida pública (como a venda de títulos financeiros pelo Tesouro
+    licitações - não   Nacional)
+        aplicação
+            art. 1º     incluídas contratações de agente financeiro e a concessão de garantias
+                       relacionadas a estes contratos
+                       Contratações sujeitas à legislação própria
+
+Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                             Disposições Preliminares                      Art. 1º - 10
+
+                                     Licitações                           arts. 11 - 88
+
+              Nova lei de
+              licitações -           Contratos                           arts. 89 – 154
+               topologia
+
+
+                               Responsabilidades,
+                             recursos, fiscalização e                 arts. 155 e seguintes
+                               demais disposições
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+OBJETIVOS DA LICITAÇÃO
+               (ART. 11)
+
+       
+
+
+---
+
+                            Objetivos da licitação
+
+                         Seleção da proposta apta a gerar o resultado mais vantajoso
+
+                                                Tratamento isonômico
+
+         Objetivos                  Desenvolvimento nacional sustentável
+        da licitação
+               art. 3º                              Justa competição
+
+                                                            Inovação
+
+                           Evitar sobrepreço, inexequibilidade ou superfaturamento
+
+Licitações
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                                            Sobrepreço
+                                                 (art. 6º, LVI)
+
+                                               Distorções
+                                              no valor dos
+                                               contratos
+
+                     inexequibilidade                                        Superfaturamento
+                                                                                 (art. 6º, LVII)
+
+Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+Obras e serviços de engenharia:
+
+                                               Orçamento da Administração
+
+                      85%
+                                                   exigência de garantia
+                      75%
+
+
+                                                   Inexequível
+
+ Licitações
+ Prof. Antonio Daud
+                              
+
+
+---
+
+ Questão para fixação
+Ocorre superfaturamento quando os preços orçados para a licitação ou os preços
+contratados são expressivamente superiores aos preços referenciais de mercado
+
+-- Licitações
+  Prof. Antonio Daud
+                               
+
+
+---
+
+                         Objetivos da licitação
+
+
+   Art. 11, parágrafo único. A alta administração do órgão ou entidade é
+   responsável pela governança das contratações e deve implementar processos e
+   estruturas, inclusive de gestão de riscos e controles internos, para avaliar,
+   direcionar e monitorar os processos licitatórios e os respectivos contratos, com
+   o intuito de alcançar os objetivos estabelecidos no caput deste artigo,
+   promover um ambiente íntegro e confiável, assegurar o alinhamento das
+   contratações ao planejamento estratégico e às leis orçamentárias e promover
+   eficiência, efetividade e eficácia em suas contratações.
+
+Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                     art. 3º
+
+Licitações
+Prof. Antonio Daud
+                               
+
+
+---
+
+PRINCÍPIOS
+        (ART. 5º)
+
+
+                                      Prof. Antonio Daud
+
+ 
+
+
+---
+
+                          impessoalida
+ legalidade                                moralidade               publicidade             eficiência    eficácia
+                              de
+
+
+                                                                      desenv.
+economicidad              competitivida                                                                   interesse
+                                           celeridade                nacional               igualdade
+     e                        de                                                                           público
+                                                                    sustentável
+
+                                                                  razoabilidade
+ probidade                                                                  e               segurança    segregação
+                          planejamento    transparência           proporcionali
+administrativa                                                                               jurídica    de funções
+                                                                     dade
+
+                                                     vinculação ao                  julgamento
+                                   motivação
+                                                         edital                       objetivo
+
+
+ Nova Lei de Licitações
+ Prof. Antonio Daud
+                                               
+
+
+---
+
+                  Cerveja, licor, espumante, pinga e destilados pro suco de morango
+                           Celeridade
+
+                           Eficácia
+                                                                                          Planejamento
+                           Razoabilidade e                                       PInGA
+                           Proporc.                                                       Interesse público
+    CERVEJA
+                           Vinculação ao edital
+                                                                                          Desenvolvimento sust.
+                           Economicidade
+                                                                           DesTILADOS     Transparência
+                           Julgamento objetivo
+                                                                                          Impessoalidade
+                           Legalidade
+
+       LICoR               Igualdade                                               Pro    Probidade administrativa
+                           Competitividade
+
+
+                           Eficiência                                                     Segregação de funções
+                                                                                Suco de
+                           Segregação de funções                                Morango   Motivação
+ESPuMANTE
+                           Pubilicidade
+Nova Lei de Licitações
+Prof. Antonio Daud         Moralidade
+                                                  
+
+
+---
+
+                         L-I-M-P-E
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+Princípios da Publicidade e Transparência
+
+                                            regra                   atos do processo licitatório são públicos
+
+                   Publicidade e                                  informações cujo sigilo seja imprescindível
+                   transparência           exceção
+                                                                    à segurança da sociedade e do Estado
+                        nas
+                   contratações                                    conteúdo das propostas, até a respectiva
+                                                                                  abertura
+                                           diferida
+                                                                             orçamento da Administração
+                                                                                    (se for sigiloso)
+
+                         Principal local   Portal Nacional de Contratações Públicas
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                              
+
+
+---
+
+                             público (regra)
+
+   Orçamento da                                                     ato justificado
+      licitação
+                                                       deve divulgar quantitativos e
+                                                     demais informações p/ propostas
+                         sigiloso
+                                                                                 sigilo não prevalece para
+                                                                                    órgãos de controle
+                                                        exceções
+                                                                                Critério “maior desconto”
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                   Proíbe preferências indevidas
+
+
+                                                            exigências impertinentes ou irrelevantes
+                               Vedações ao
+                   Princ. da                                distinções em razão da naturalidade, da
+                                 agente
+                  igualdade                                 sede ou do domicílio dos licitantes (regra)
+                                 público
+                                  (art. 9º)
+                                                            distinção entre brasileiros e estrangeiros
+                                                                               (regra)
+
+
+                               Vedações a participação de determinados agentes na
+                                                     licitação
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                          
+
+
+---
+
+                              vedado estabelecer tratamento diferenciado
+
+             Empresas
+            empresas vs.                                         critério de desempate em favor
+            estrangeiras                                              de empresas brasileiras
+                           Exceções
+                                                                  margem de preferência para
+                                                                 produtos/serviços nacionais +
+                                                                  normas técnicas brasileiras
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                            
+
+
+---
+
+                         Margem de preferência (art. 26)
+
+                               bens manufaturados e serviços nacionais que atendam a
+                                            normas técnicas brasileiras
+
+
+                                     bens reciclados, recicláveis ou biodegradáveis
+                                                         (conforme regulamento)
+
+
+               margem de                                                   10% (regra)
+              preferência da
+                   NLL            limites
+                                                               total de 20% p/ desenvolvimento e
+                                                                  inovação tecnológica no País
+
+                                 extensível a países do Mercosul (reciprocidade)
+
+                               não aplicável a itens com capacidade de produção
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                    insuficiente
+                                     
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+                                Planejamento
+                                Aumentar as chances de sucesso da contratação
+
+
+                                                  Não é mera faculdade
+
+                 Princ. do                   Durante a fase preparatória
+               planejamento
+                                                       Estudo técnico preliminar da contratação
+                                                                             (ETP)
+
+                              Exemplos:                           Plano de contratações anual
+
+                                                        Antes de uma compra: expectativa anual
+                                                                     de consumo
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Desenvolvimento nacional sustentável
+ Art. 25, § 9º O edital poderá, na forma disposta em regulamento, exigir que percentual mínimo da
+ mão de obra responsável pela execução do objeto da contratação seja constituído por:
+ I - mulheres vítimas de violência doméstica;
+ II - oriundos ou egressos do sistema prisional.
+
+ Art. 45. As licitações de obras e serviços de engenharia devem respeitar, especialmente, as normas
+ relativas a:
+ I - disposição final ambientalmente adequada dos resíduos sólidos gerados pelas obras contratadas;
+ II - mitigação por condicionantes e compensação ambiental, que serão definidas no procedimento
+ de licenciamento ambiental;
+
+ Art. 60, § 1º Em igualdade de condições, se não houver desempate, será assegurada preferência,
+ sucessivamente, aos bens e serviços produzidos ou prestados por:
+ I - empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da
+ Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou
+ entidade de Município, no território do Estado em que este se localize;
+ II - empresas brasileiras;
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                         
+
+
+---
+
+                                      Celeridade
+
+                                           Ligado à ideia de eficiência
+
+                          Princ. da                                        Inversão de fases
+                         celeridade
+                                                                              Catálogo
+                                         Exemplos:
+                                                                              eletrônico
+
+                                                                            Reg. cadastral
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                         Razoabilidade e Proporcionalidade
+
+
+    Art. 12, III - o desatendimento de exigências meramente formais que não
+    comprometam a aferição da qualificação do licitante ou a compreensão do
+    conteúdo de sua proposta não importará seu afastamento da licitação ou a
+    invalidação do processo;
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                         Segregação de funções
+
+
+        Art. 7º, § 1º A autoridade referida no caput deste artigo [autoridade máxima
+        do órgão] deverá observar o princípio da segregação de funções,
+
+        vedada a designação do mesmo agente público para atuação simultânea em
+        funções mais suscetíveis a riscos,
+
+        de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de
+        fraudes na respectiva contratação.
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                    Virtualização
+
+        Art. 12, VI – os atos [da licitação] serão preferencialmente digitais, de forma
+        a permitir que sejam produzidos, comunicados, armazenados e validados
+        por meio eletrônico
+
+
+        Art. 17, § 2º As licitações serão realizadas preferencialmente sob a forma
+        eletrônica, admitida a utilização da forma presencial, desde que motivada,
+        devendo a sessão pública ser registrada em ata e gravada mediante
+        utilização de recursos tecnológicos de áudio e vídeo.
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+DEFINIÇÕES IMPORTANTES
+
+                                            Prof. Antonio Daud
+
+       
+
+
+---
+
+                                              Objetos
+
+
+                                   alienação de
+                         compra                                     serviços           obras
+                                       bens
+
+
+                              locações           concessões                   permissões
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                         
+
+
+---
+
+                                       aquisição remunerada de bens
+
+
+                         compra imediata = prazo de entrega de até 30 dias da
+         compras                       ordem de fornecimento
+
+
+                                                              comuns       pregão
+                            bens
+
+                                                             especiais   concorrência
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                                                     arquiteto
+                               Atividade
+                           privativa por lei a
+                                                                     engenheiro
+
+                                                                      Intervenção no meio
+                    obra        implica
+                                                                            ambiente
+
+
+                                                                      Inovam o espaço físico
+                             Por meio de                                         ou
+                              ações que                                Acarretam alteração
+                                                                      substancial do imóvel
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                
+
+
+---
+
+                                      Serviços
+
+
+     Art. 6º, XI - serviço: atividade ou conjunto de atividades destinadas a obter
+     determinada utilidade, intelectual ou material, de interesse da Administração;
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                           quanto à                serviços comuns
+                                                               vs.
+                           natureza                      especiais
+                                                                         com dedicação
+                                                                       exclusiva de mão de
+                                                                               obra
+                                                  serviços contínuos
+                            quanto à                                     sem dedicação
+               serviços                                                exclusiva de mão de
+                          continuidade               não contínuos
+                                                                               obra
+                                                   (ou "por escopo")
+
+                                                       serviços de
+                                                                       comuns vs. especiais
+                                                       engenharia
+                           quanto ao
+                            objeto                  outros serviços
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                         Serviços de engenharia
+
+                                                       ações, objetivamente padronizáveis em
+                                                      termos de desempenho e qualidade, de
+                                                     manutenção, de adequação e de adaptação
+                                                     de bens móveis e imóveis, com preservação
+                           comuns
+                                                        das características originais dos bens
+
+
+       serviços de                                    admite modalidade pregão ou concorrência
+       engenharia
+
+                                                          alta heterogeneidade ou complexidade
+                          especiais
+
+                                                              apenas modalidade concorrência
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                 
+
+
+---
+
+                                                    Alienações
+
+                         interesse público devidamente
+                                    justificado
+  alienação - imóveis
+
+                                 avaliação prévia
+                                                                                                   procedimentos
+                                                                                                      judiciais
+                         autorização legislativa, inclusive              dispensada se imóvel
+                          para autarquias e fundações                         oriundo de
+                                                                                                 dação em pagamento
+                                                                          admitida a dispensa
+                        licitação na modalidade de leilão                 nos casos do art. 76
+                                                                              da nova Lei
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                    
+
+
+---
+
+                                                 Alienações
+              alienação - móveis
+
+
+                                   interesse público devidamente
+                                              justificado
+
+
+                                          avaliação prévia
+
+
+                                                                                      admitida a dispensa nos casos
+                                   licitação na modalidade leilão
+                                                                                         do art. 76 da nova Lei
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                 
+
+
+---
+
+ Anteprojeto, Projeto Básico e Projeto Executivo
+
+                                                               Projeto
+              Anteprojeto   Projeto Básico                                 Execução
+                                                              Executivo
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                           Utilizado para definir e dimensionar a obra ou o
+                                                serviço
+
+                             elaborado com base nos “estudos técnicos
+                                          preliminares”
+
+                                                       avaliação do custo da obra
+                Projeto    possibilita
+                                                      definição dos métodos e do
+                básico
+                                                           prazo de execução
+
+                                               Anexo do edital
+
+                                Orçamento detalhado da obra (regra)
+
+                          Na contratação integrada: elaborado pelo próprio
+                                             contratado
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                              Permite a execução completa da obra
+
+
+                                    Detalha o projeto básico
+
+                                                                           Exceto obras e serviços
+          Projeto        exigido para realização de obras                   comuns de engenharia
+         Executivo           e serviços de engenharia                    realizados apenas com base
+                                                                                 no TR ou PB
+
+                                          Anexo do edital                                Contratação
+                                                                                          integrada
+                               Elaborado pelo próprio contratado
+                                                                                        Semi-integrada
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                                  subsídios necessários à elaboração do projeto básico
+
+
+                                        elaborado a partir dos “estudos técnicos
+                    Anteprojeto
+                                                     preliminares”
+
+
+                                             Utilizado na contratação integrada
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                             Anteprojeto                    Projeto Básico                  Projeto Executivo
+      Regra geral           Não é exigido                                    Administração elabora
+    Contratação
+                            Não é exigido             Administração elabora                Contratado elabora
+   semi-integrada
+    Contratação
+                         Administração elabora                                Contratado elabora
+     integrada
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                         Outras definições importantes
+
+                               R$ 200 milhões
+
+                                                                             contratada implantar um
+       Grande vulto                                                          programa de integridade
+                                                      obrigatoriedade
+                                                            de:
+                                                                           matriz de alocação de riscos
+                                                                                (obras e serviços)
+                            Consequências
+
+                                                                           seguro-garantia para até 30%
+                                                      Possibilidade de:
+                                                                             (obras e serv. engenharia)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                                                                divisão de responsabilidades
+                          características
+                                                         equilíbrio econômico-financeiro inicial
+                         regra: facultativa
+                                                             obras e serviços de grande vulto
+                                                                               (200 mi)
+          matriz de
+                          obrigatória se:                            contratação integrada
+           riscos
+                                                                           semi-integrada
+
+                                                           de meio: sem liberdade para inovar
+                            obrigações
+                                                            de resultado: com liberdade para
+                                                                          inovar
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+                                      Repositórios de dados de licitações e
+                                                    contratos
+                                                                     Centralizado
+                                    Características
+                                                                           Nacional
+
+                                                                          editais de licitação e anexos
+
+               Portal Nacional de                                         contratos e termos aditivos
+                 Contratações
+                    Públicas           Principais                         avisos de contratação direta
+                                     informações
+                                                                      planos de contratação anuais
+
+
+                                                                           atas de registro de preços
+
+
+                                        gestão                     Comitê, com 7 representantes
+Nova Lei de Licitações                                                             (3U, 2E, 2M)
+Prof. Antonio Daud
+                                     
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+AGENTES PÚBLICOS QUE
+ ATUAM NA LICITAÇÃO
+
+                                           Prof. Antonio Daud
+
+      
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+                         regra geral                         agente de contratação
+
+                                                                             pode ser substituído
+                                                    bens ou serviços
+       condução da                                                            pela comissão de
+                                                      especiais
+         licitação                                                               contratação
+                                                        diálogo              deve ser substituído
+                                                      competitivo              pela comissão
+                         exceções
+
+                                                          pregão                 “pregoeiro”
+
+                                                                              leiloeiro ou servidor
+                                                            leilão
+                                                                                   designado
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                                  regra geral
+
+
+                                                                        Servidores efetivos
+                         Obrigatoriamente
+                         designado entre:                           Empregados públicos dos
+                                                                     quadros permanentes
+           Agente de
+          contratação
+                               Auxiliado por equipe de apoio
+
+
+                                                                         Regra: individual
+
+                         Responsabilidade:
+                                                                   Exceção: induzido a erro pela
+                                                                         equipe de apoio
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                                                     na modalidade diálogo
+                                    obrigatória
+                                                                          competitivo
+
+                                                                   na contratação de bens ou
+                                    facultativa                        serviços especiais
+                                                                     (modalidade concorrência)
+
+                                                                       Regra: preferencialmente dos
+                     comissão de                                          quadros permanentes
+                     contratação     No mínimo 3
+                                      membros                               Diálogo competitivo:
+                                                                        obrigatoriamente efetivos ou
+                                                                         dos quadros permanentes
+
+                                                                              Regra: solidária
+
+                                   Responsabilidade                    Exceção: posição divergente
+                                                                      fundamentada e registrada em
+                                                                                   ata
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                                p/ o leilão (ou servidor designado)
+
+                Leiloeiro
+
+                            Contratado                    credenciamento
+                            mediante:                                           maior
+                                                                           desconto para
+                                                                 pregão    as comissões a
+                                                                               serem
+                                                                              cobradas
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                         Licitações com critérios de                     Melhor técnica
+                                 julgamento
+                                                                         Técnica e preço
+
+
+                            No mínimo 3                                                    dispensa de
+             Banca                                                  Servidores ou não        licitação
+                             membros                                                        (art. 74, XIII)
+
+                         Não substitui a comissão
+                             ou o agente de
+                               contratação
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                         Defesa de servidores ou autoridades
+
+
+                                                                  promovida por advogados públicos
+                                  regra
+                             (seguindo parecer                     mesmo se já tiver deixado o cargo
+      defesa de                   jurídico)
+    autoridades e                                                               judicial ou extrajudicial
+     servidores
+
+                                                                                prova de atos dolosos
+                                exceções
+                                                            ato praticado sem observar parecer jurídico
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                           
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+MODALIDADES
+
+                                       Prof. Antonio Daud
+
+  
+
+
+---
+
+          modalidades mantidas         nova modalidade                   Modalidades extintas
+
+                   Concorrência                                           Tomada de preços
+                          Leilão              Diálogo
+                                                                               Convite
+                         Concurso           competitivo
+
+                         Pregão                                             RDC (Lei 12.462)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+           Modalidades (art. 28)
+
+           • pregão
+           • concorrência
+           • concurso
+           • leilão
+           • diálogo competitivo
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                          OBRIGATÓRIO                           bens e serviços comuns
+
+                          FACULTATIVO                    serviços comuns de engenharia
+
+                                                              bens e serviços especiais
+
+                                                        Serviços técnicos especializados
+                                                          de nat. predominantemente
+                                                                   intelectual
+                          NÃO APLICÁVEL
+                 PREGÃO                                                    obras
+                                                         serviços de engenharia, exceto
+                                                                     comuns
+                                                                         alienações
+
+                            critérios de                      Menor preço
+                            julgamento                      Maior desconto
+                           condução por pregoeiro
+Nova Lei de Licitações
+Prof. Antonio Daud          procedimento comum
+                                    
+
+
+---
+
+                                                   bens e serviços especiais
+                         hipóteses de
+                                                                  obras
+                            adoção                                                    especiais
+                                                    serviços de engenharia          (só concorrência)
+                                                                                       comuns
+                                                           Menor preço           (concorrência ou pregão)
+
+                                                         Maior desconto
+                         critérios de                    Técnica&Preço
+  CONCORRÊNCIA           julgamento                     melhor técnica ou
+                                                       conteúdo artístico
+                                                 maior retorno econômico
+                              procedimento comum
+
+                                                   agente de contratação
+                                                                 (regra)
+                         condução                                                bens e serviços
+                                                             comissão
+Nova Lei de Licitações                                                         especiais (facultativo)
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                         concorrência                                                      pregão
+
+
+            - bens e serviços especiais
+            - obras                                                                  bens e serviços comuns
+            - serv. de engenharia, comuns e especiais
+
+                 critérios: todos, exceto maior                               critérios: menor preço ou maior
+                               lance                                                      desconto
+
+
+                     agente de contratação ou                                             “pregoeiro”
+                            comissão
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                
+
+
+---
+
+                                                                            escolha de trabalho T-C-A
+
+                              características
+                                                             concessão de prêmios ou remuneração aos
+                                                                           vencedores
+
+                                critério de
+                                                                 melhor técnica ou conteúdo artístico
+                               julgamento
+           CONCURSO
+                  (art. 30)   antecedência
+                                                             35 dias úteis
+                                 mínima
+
+                                                                autor deverá ceder todos os direitos
+                                                                patrimoniais e autorizar sua utilização
+                              elaboção de
+                                 projeto
+                                                             uso futuro é livre e não depende de nova
+Nova Lei de Licitações
+Prof. Antonio Daud                                                     autorização do autor
+                                       
+
+
+---
+
+                                               Leilão
+
+     Art. 6º, XL - leilão: modalidade de licitação para alienação de bens imóveis ou de bens
+     móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance;
+
+       Art. 76. A alienação de bens da Administração Pública, subordinada à existência de
+       interesse público devidamente justificado, será precedida de avaliação e obedecerá às
+       seguintes normas:
+       I - tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações,
+       exigirá autorização legislativa e dependerá de licitação na modalidade leilão, dispensada
+       a realização de licitação nos casos de:
+       (..)
+       II - tratando-se de bens móveis, dependerá de licitação na modalidade leilão, dispensada
+       a realização de licitação nos casos de:
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                                                                   venda de bens móveis ou
+                                        adoção
+                                                                          imóveis
+                                       critério de
+                                                                             maior lance!
+                                      julgamento
+                                                                   não possui fase de habilitação
+                                                                     não exige registro cadastral
+                                                                               prévio
+                     LEILÃO          procedimento
+                         (art. 31)                              homologado assim que concluída
+                                                                        fase de lances
+                                                                       edital afixado na sede da
+                                                                             Administração
+                                     antecedência
+                                                                            15 dias úteis
+                                        mínima
+                                                                       servidor designado
+                                      condução                                     ou
+
+                                                                           leiloeiro oficial
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                              
+
+
+---
+
+                                   Diálogo competitivo
+
+
+                         • diálogos com fornecedores (p/ definir a solução a ser contratada)
+              1ª fase
+
+                         • competição entre os licitantes (p/ definir o vencedor da
+              2º fase     licitação)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                           
+
+
+---
+
+                          Diálogo competitivo
+
+     Art. 6º, XLII - diálogo competitivo: modalidade de licitação para contratação
+     de obras, serviços e compras em que a Administração Pública realiza diálogos
+     com licitantes previamente selecionados mediante critérios objetivos, com o
+     intuito de desenvolver uma ou mais alternativas capazes de atender às suas
+     necessidades, devendo os licitantes apresentar proposta final após o
+     encerramento dos diálogos;
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                                                                            inovação tecnológica ou técnica
+
+                                                                          impossibilidade de o órgão ter sua
+                                                                             necessidade satisfeita sem a
+                            objeto que envolva as                        adaptação de soluções disponíveis no
+                            seguintes condições:                                       mercado
+
+                                                                             impossibilidade de definir as
+                                                                         especificações com precisão suficiente
+                                                                                   pela Administração
+  hipóteses - diálogo
+     competitivo                                                            solução técnica mais adequada
+                           necessidade de definir e
+                         identificar as alternativas que                     os requisitos técnicos aptos a
+                            possam satisfazer suas                          concretizar a solução já definida
+                         necessidades, com destaque
+                          para os seguintes aspectos:
+                                                                           estrutura jurídica ou financeira do
+                                                                                        contrato
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+                                        critérios empregados
+                Edital da pré-
+                                 »»     para pré-seleção dos               »»   25 dias úteis
+                   seleção
+                                               licitantes
+
+
+                Edital da fase        critérios para a seleção
+                                 »»                                        »»   60 dias úteis
+                 competitiva          da proposta vencedora
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                      
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+             Concorrência                                  Pregão                            Diál. competitivo
+  bens e serviços especiais                 obrigatório p/ obj. comuns                     inovação / adaptação de
+            obras                           facult. p/ serv. eng. comuns                            soluções
+   serviços de engenharia                             serv. tec.    especi                   edital de pré-seleção:
+                                           obras                                                  25 dias úteis
+     especiais (obrigatória)                            espec.        ais
+   serviços de engenharia                                                                 edital da fase competitiva:
+                                           menor preço maior desconto
+                                                              ou
+
+      comuns (facultativa)                                                                        60 dias úteis
+                                              procedimento comum                         participam da f. competitiva
+  todos os critérios, exceto
+                                                     pregoeiro                                só pré-selecionados
+         maior lance
+    procedimento comum                                                                     comissão de 3 efetivos /
+  agente de contratação ou                                                                   empregados perman.
+     comissão (facultativo)
+                                   Concurso                                         Leilão
+                          escolha de trabalho T-C-A                       Alienações de bens
+                              vencedor recebe                         leiloeiro ou servidor desig.
+                            prêmio/remuneração                                maior lance
+                         melhor técn. ou cont. artístico
+                                                                            sem habilitação
+                         antecedência: 35 dias úteis
+                                                                    sem registro cadastral prévio
+Nova Lei de Licitações
+Prof. Antonio Daud                                                   antecedência: 15 dias úteis
+                                               
+
+
+---
+
+                         Adoção da modalidade licitatória
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                     obras                          • concorrência
+
+                                                                    • especiais: concorrência
+                         serviços de engenharia
+                                                                    • comuns: pregão ou concorrência
+                                                                    • especiais: concorrência
+                            serviços em geral
+                                                                    • comuns: pregão
+                                                                    • bens especiais: concorrência
+                                   compras
+                                                                    • bens comuns: pregão
+
+                                 alienações                         • leilão
+
+                 trabalho técnico, científico ou
+                                                                    • concurso
+                            artístico
+              inovação tecnológica (Obras, serviços • diálogo competitivo
+                         e compras - atendidos requisitos)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                             
+
+
+---
+
+CRITÉRIOS DE JULGAMENTO
+
+                                             Prof. Antonio Daud
+
+        
+
+
+---
+
+                                     NLL - critérios de julgamento
+
+   menor                  maior      melhor técnica ou             técnica e    maior   maior retorno
+   preço                 desconto   conteúdo artístico               preço      lance    econômico
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                           
+
+
+---
+
+                         Menor preço e maior desconto (art. 34)
+                                             Variantes do “menor dispêndio”
+
+                                     Únicos que podem ser adotados no pregão
+
+              Menor preço e      Possibilidade de considerar custos indiretos do ciclo
+                                                   de vida produto
+             maior desconto
+                                                         aplicado sobre preço de
+                                                                referência
+                                                    aplicado sobre o preço global
+                                   Maior                   fixado no edital
+                                 desconto:                aplicado sobre aditivos
+                                                                contratuais
+                                                   não compatível com orçamento
+                                                             sigiloso
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+        Melhor técnica ou conteúdo artístico (art. 35)
+                         Propostas apenas com teor                       Prêmio/remuneração já consta
+                             técnico ou artístico                                 do edital
+
+                                                                         projetos
+                          Destinado a                 trabalhos de natureza técnica,
+                                                           científica ou artística
+ Melhor técnica ou
+ conteúdo artístico                                      concurso
+                         Modalidades:
+                                                      concorrência
+
+                                                                             mínimo de 3 membros
+                          Banca atribui as notas do
+                              “índice técnico”                            pode ser composta por “não
+                                                                                  servidores”
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                         Técnica e Preço (art. 36)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                              
+
+
+---
+
+                                    Média do Índice técnico com índice de preço
+
+                                      Máximo de 70% para a pontuação técnica
+
+                                              Apenas na concorrência
+
+     Técnica e                  Desempenho pretérito em contratos com a Admin.
+      preço
+                                                     serviços técnicos especializados de natureza
+                                                 predominantemente intelectual (critério preferencial)
+
+                                                       tecnologia sofisticada e de domínio restrito
+
+                         Hipóteses
+                                                               bens e serviços especiais de TIC
+                         (justificativa):
+
+                                                         obras e serviços especiais de engenharia
+
+                                             objetos que admitam soluções específicas e alternativas e
+Nova Lei de Licitações
+Prof. Antonio Daud                                           variações de execução
+                                            
+
+
+---
+
+                            Maior Lance
+    ❑ Alienações de bens
+    ❑ Exclusivo do leilão
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                            
+
+
+---
+
+                         Maior retorno econômico (art. 39)
+    ❑ objetivo = gerar maior economia para a administração pública
+    ❑ Redução de despesas da Administração
+    ❑ contratos de eficiência
+    ❑ apenas na concorrência
+
+
+     Art. 6º, LIII - contrato de eficiência: contrato cujo objeto é a prestação de serviços, que
+     pode incluir a realização de obras e o fornecimento de bens, com o objetivo de
+     proporcionar economia ao contratante, na forma de redução de despesas correntes,
+     remunerado o contratado com base em percentual da economia gerada;
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                         Maior retorno econômico (art. 39)
+    ❑ Proposta de trabalho:
+             - obras, serviços, bens
+             - economia estimada (em unidade monetária)
+    ❑ proposta de preço:
+             - percentual sobre a economia que se estima
+
+
+    ❑ Julgamento = economia – propostaDePreço
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                         Modalidade                                          Tipo(s)
+                                                                        menor preço
+                           Pregão
+                                                                      maior desconto
+                                                                        menor preço
+                                                                      maior desconto
+                         Concorrência                melhor técnica ou conteúdo artístico
+                                                                      técnica e preço
+                                                             maior retorno econômico
+                          Concurso                   melhor técnica ou conteúdo artístico
+                            Leilão                                       maior lance
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                        
+
+
+---
+
+                                   xxxx
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+PROCEDIMENTOS
+  AUXILIARES
+
+
+   
+
+
+---
+
+                   Procedimentos auxiliares (art. 78)
+
+                   • Credenciamento
+                   • SRP – sistema de registro de preços
+                   • Pré-qualificação
+                   • PMI – Procedimento de manifestação de interesse
+                   • Registro cadastral
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                         
+
+
+---
+
+                          1) Credenciamento (art. 79)
+    ❑ Utilizado mesmo antes da NLL
+    ❑ Inexigibilidade de licitação (art. 74, IV)
+
+
+    ❑ Exemplos:
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+        Art. 6º, XLIII - credenciamento: processo administrativo de chamamento
+        público em que a Administração Pública convoca interessados em prestar
+        serviços ou fornecer bens para que, preenchidos os requisitos necessários,
+        se credenciem no órgão ou na entidade para executar o objeto quando
+        convocados;
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+                                      • caso em que é viável e vantajosa para a
+        contratação paralela e não      Administração a realização de contratações
+               excludente               simultâneas em condições padronizadas
+
+                                      • caso em que a seleção do contratado está a
+         com seleção a critério de      cargo do beneficiário direto da prestação
+                terceiros
+
+                                      • caso em que a flutuação constante do valor da
+                                        prestação e das condições de contratação
+              em mercados fluidos
+                                        inviabiliza a seleção de agente por meio de
+                                        processo de licitação
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                         Credenciamento: fixação de preços
+
+                                                                            contratação paralela e não
+                                                                                    excludente
+                                preço fixado em edital
+                                                                               seleção a critério de
+                                                                                     terceiros
+    credenciamento
+                                preço não é fixado em
+                                        edital
+                                 (registradas as cotações                       mercados fluidos
+                                     do momento da
+                                       contratação)
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                       
+
+
+---
+
+                                       Pré-qualificação (art. 80)
+
+
+                              pré-qualificação                                             habilitação
+
+                         proced. auxiliar (ocorre fora                                  fase da licitação
+                           de um processo licitatório)
+
+                                                                                       apenas durante uma
+                         permanentemente aberta
+                                                                                            licitação
+
+                              licitantes e bens                                             licitantes
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                  
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+Procedimento de manifestação de interesse (art. 81)
+
+
+      Art. 81. A Administração poderá solicitar à iniciativa privada, mediante
+      procedimento aberto de manifestação de interesse a ser iniciado com a publicação
+      de edital de chamamento público, a propositura e a realização de estudos,
+      investigações, levantamentos e projetos de soluções inovadoras que contribuam
+      com questões de relevância pública, na forma de regulamento.
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                            elaboração de estudos,                     questões de
+                         levantamentos e projetos de                    relevância
+                              soluções inovadoras                        pública
+
+                                                     não tem preferência em futuro processo
+                                                                   licitatório
+     procedimento de
+     manifestação de     autor dos                 não é remunerado ou ressarcido pelo poder
+      interesse (PMI)     estudos                                  público
+
+                                                        caso aproveitados, será remunerado
+                                                        somente pelo vencedor da licitação
+
+                         estudos não obrigarão poder público a realizar licitação
+                                       para execução do projeto
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                               
+
+
+---
+
+                          5) Registro de Preços (arts. 82-86)
+    ❑ Listagem de produtos e fornecedores, previamente selecionados, para futuras
+      contratações
+    ❑ objetos:
+               - bens
+             - serviços
+             - obras
+             - serv. engenharia
+    ❑ Exemplos
+
+
+    ❑ Benefícios
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---
+
+                             SRP antes da NLL                                          SRP na NLL
+
+                            prazo máximo de 1 ano                          prazo de 1 ano, prorrogável por
+                          (já incluídas as prorrogações)                            igual período
+
+
+                                                                          seleção do fornecedor mediante
+                          obrigatória licitação nas
+                                                                           dispensa ou inexigibilidade ou
+                         modalidades concorrência ou
+                                                                              licitação nas modalidades
+                                  pregão
+                                                                                concorrência ou pregão
+
+                                                                           utilizado para obras, serviços de
+                         utilizado para bens e serviços*                    engenharia, locações e bens e
+                                                                                        serviços
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                                  
+
+
+---
+
+                                                                          Concorrência
+
+                            Seleção do
+                         fornecedor a ser                                        Pregão
+                            registrado
+
+                                                                      Contratação direta
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                            
+
+
+---
+
+                                                                        Menor preço
+                           Critérios de
+                         julgamento das
+                            propostas
+                                                                      Maior desconto
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                          
+
+
+---
+
+                                 “Documento
+                                 vinculativo e                         Para o fornecedor
+                                 obrigacional”
+                     Ata de
+                   registro de     Não obriga Administração a contratar
+                     preços
+                                                                            1 ano
+
+                                    Validade
+                                                                       Prorrogação por
+                                                                        igual período
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                  
+
+
+---
+
+                           Órgão gerenciador
+
+           atores          Órgão participante
+
+                         Órgão não participante
+                                  (carona)
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                             
+
+
+---
+
+                                      limite
+                                                                          metade
+                                    individual                                     da quantidade
+                                                                                   total registrada
+            adesões ao registro
+                                   limite global                          dobro
+               de preço por
+             "caronas" - limites
+                                                                     excecução descentralizada de
+                                                                          programas federais
+                                    exceções
+                                                                     emergência na área de saúde
+
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                     
+
+
+---
+
+                         Adesão a ARPs de outros entes
+
+                            ARP estadual, distrital ou municipal
+                            • Ente federal não pode aderir
+
+                            ARP federal
+                            • Estados e municípios podem aderir?
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                   
+
+
+---
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                         
+
+
+---
+
+    Procedimento                                                  Características
+                          - contratação paralela e
+                                                                                         Preço fixado em edital
+                               não excludente
+                                                                                       (contratação paralela e não
+   Credenciamento          - seleção a critério de      Inexigibilidade de licitação
+                                                                                         excludente / seleção a
+                                  terceiros
+                                                                                          critério de terceiros)
+                             - mercados fluidos
+                                 - licitantes                    - permanente           Licitação pode ser restrita a
+    Pré-qualificação
+                                    - bens                    - Máximo de 1 ano                pré-qualificados
+                                                                                        Licitação pode ser restrita a
+                                                               - permanente
+                          Cadastro unificado de                                        cadastrados (admitido cadastro
+  Registro cadastral                                     - chamamento público ao
+                                licitantes                                             dentro do prazo das propostas)
+                                                             menos a cada ano
+                                                                                          Leilão: não exige R.C.
+
+                                                   Autor não tem preferência
+                                                       em futuro processo
+                         elaboração de estudos,
+PMI – proced. manif. de                          licitatório; não é remunerado estudos não obrigarão poder
+                        levantamentos e projetos
+       interesse                                    pelo poder público; caso     público a realizar licitação
+                         de soluções inovadoras
+                                                   aproveitados, remunerado
+                                                   pelo vencedor da licitação
+
+                                                                                       Existência da ata não obriga
+                           Seleção via pregão,
+ SRP – sist. de reg. de                                   Validade 1 ano (prorrog.       a contratar; mas obriga
+ Nova Lei depreços
+                             concorrência ou
+             Licitações                                        igual período)           particular a fornecer, caso
+ Prof. Antonio Daud         contratação direta
+                                                              convocado
+
+
+---
+
+                         OBRIGADO
+                          @professordaud
+
+
+                          t.me/professordaud
+
+Nova Lei de Licitações
+Prof. Antonio Daud
+                                    
+
+
+---

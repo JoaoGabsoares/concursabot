@@ -1,0 +1,3948 @@
+                                                     Aula 11
+                          Receita Federal (Analista Tributário)
+                               Direito Constitucional (Prof. João
+                                                       Trindade)
+
+
+
+                                                          Autor:
+                             João Trindade Cavalcante Filho
+
+
+
+
+                                               25 de Maio de 2026
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      João Trindade Cavalcante Filho
+      Aula 11
+
+
+
+
+                                                                                     Índice
+1) Processo Legislativo - Introdução
+..............................................................................................................................................................................................3
+
+2) Análise do Princípio Hierárquico das Normas
+..............................................................................................................................................................................................4
+
+3) Procedimentos Legislativos
+..............................................................................................................................................................................................6
+
+4) Procedimento Comum Ordinário
+..............................................................................................................................................................................................8
+
+5) Procedimento Comum Sumário
+..............................................................................................................................................................................................
+                                                                                                                                                                                            35
+
+6) Procedimento Comum Abreviado
+..............................................................................................................................................................................................
+                                                                                                                                                                                            37
+
+7) Processo Legislativo - Procedimentos Especiais
+..............................................................................................................................................................................................
+                                                                                                                                                                                            39
+
+8) Questões Comentadas - Processo Legislativo - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            59
+
+9) Lista de Questões - Processo Legislativo - Multibancas
+..............................................................................................................................................................................................
+                                                                                                                                                                                            67
+
+
+
+
+                Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                                                        2
+                www.estrategiaconcursos.com.br                                                                                                                                           72
+
+                                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                     PROCESSO LEGISLATIVO
+
+Introdução e objeto do processo legislativo
+
+Olá, meus caros.
+Nesta aula, estudaremos o processo legislativo, previsto nos arts. 59 a 69 da Constituição (e,
+como você verá, em muitos outros artigos dispersos, além de ser um assunto que tem muita
+doutrina e jurisprudência).
+Trata-se – nada mais, nada menos – do processo constitucional de formação das leis, da maneira
+como as leis são propostas, formadas e discutidas, para assegurar que sejam elaboradas da
+forma mais democrática possível.
+Este é um dos assuntos de longe mais cobrados em prova: dependendo do certame, quase
+sempre integra o “top 3” dos temas mais presentes em provas de concursos, desde questões
+mais simples até àquelas muito avançadas.
+Então, vamos lá?
+Primeiramente, temos que entender o objeto do processo legislativo, ou seja, quais as normas
+que são produzidas por meio dele. Isso porque existem atos com força de lei, mas que não
+seguem o processo legislativo, uma vez que são elaborados no Poder Executivo – é o caso dos
+chamados “decretos autônomos”, previstos no art. 84, VI, a e b, da CF. Da mesma maneira, os
+atos infralegais (abaixo da lei) geralmente são elaborados no âmbito interno do Poder Executivo,
+não integrando, assim, o processo legislativo (são os decretos regulamentares, as portarias
+ministeriais, as instruções normativas, as resoluções das agências reguladoras, etc.).
+De acordo com o art. 59 da Constituição, o processo legislativo compreende a elaboração dos
+seguintes atos:
+- emendas à Constituição
+- leis complementares
+- leis ordinárias
+- leis delegadas
+- medidas provisórias
+- decretos legislativos
+- resoluções (da Câmara e do Senado).
+
+Cuidado!!!
+O termo “resolução” é bastante ambíguo: pode ser usado para referir-se aos atos infralegais
+elaborados por órgãos colegiados (como resoluções das agências reguladoras, dos Conselhos,
+etc.), mas também pode referir-se às resoluções que têm força de lei, isto é, aquelas produzidas
+por meio do processo legislativo (Resoluções da Câmara dos Deputados, do Senado Federal e,
+com menor frequência, do Congresso Nacional).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    3
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                     PROCESSO LEGISLATIVO
+
+
+Análise do princípio hierárquico das normas
+
+
+Para que possamos compreender melhor o funcionamento do ordenamento jurídico, e como as
+normas se relacionam umas com as outras, é preciso estudar o chamado “princípio hierárquico
+das normas”.
+
+Trata-se de um princípio que foi pioneiramente sistematizado por Hans Kelsen, especialmente no
+                                                         ==5460==
+
+
+
+
+capítulo 2 de sua Teoria Pura do Direito. De acordo com o autor austríaco, o ordenamento
+jurídico é baseado numa relação hierarquizada e escalonada entre as normas, de modo que cada
+norma só é válida (=lícita) se for produzida conforme os mandamentos da norma que lhe é
+imediatamente superior. Todas as normas, então, encontram seu fundamento de validade
+(=justificativa jurídica) em uma norma que lhe é superior – exceto a Constituição, que, por ser a
+norma máxima do ordenamento, encontra seu fundamento em si mesma (ou, como defendeu
+Kelsen em alguns momentos de sua obra, na “norma hipotética fundamental”, mas isso já é
+outro papo).
+
+Pois bem. Nesse contexto, é absolutamente indispensável saber “qual norma manda em qual”,
+ou seja, conhecer o chamado princípio hierárquico das normas, até mesmo para saber, em caso
+de conflito, qual delas deve prevalecer.
+
+Vamos ver então como esse “exército de normas” está escalonado?
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     4
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+João Trindade Cavalcante Filho
+Aula 11
+
+
+
+
+      Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   5
+      www.estrategiaconcursos.com.br                                                       72
+
+                                    https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                     PROCESSO LEGISLATIVO
+
+Procedimentos Legislativos
+O processo legislativo – assim entendido como o processo de formação das leis – tem sua matriz
+prevista na Constituição Federal (CF, arts. 59 a 69). Todavia, não se esgota nos procedimentos
+mencionados na Carta Magna, uma vez que é regulamentado por diversos outros instrumentos
+normativos, tais como os regimentos internos das Casas legislativas e a Lei Complementar nº
+95/1998.
+
+O procedimento é o modo como se desenrola o processo, ou seja, são os vários caminhos que
+podem ser tomados. Assim, o processo legislativo é o mecanismo de formação das leis, que, por
+                                                         ==5460==
+
+
+
+
+sua vez, abrange vários procedimentos legislativos (caminhos que o projeto de lei pode tomar).
+
+Os procedimentos dividem-se em comum e especiais. O procedimento comum é a regra, o
+padrão, o standard. No nosso contexto, procedimento comum é o procedimento de aprovação
+das leis ordinárias. O procedimento comum pode ainda subdividir-se em:
+
+        a) procedimento ordinário;
+
+        b) procedimento sumário;
+
+        c) procedimento abreviado.
+
+O procedimento comum ordinário constitui a tramitação completa do projeto de lei ordinária, ou
+seja, em todas as fases possíveis (inclusive discussão em Plenário) e sem prazo definido. Já o
+procedimento sumário (ou procedimento da urgência constitucional) caracteriza-se por ter as
+mesmas fases do procedimento ordinário, mas prevê a existência de prazos para a deliberação
+do Congresso Nacional (CF, art. 64, §§ 1º e seguintes). Por fim, o procedimento abreviado
+dispensa a apreciação do projeto de lei ordinária pelo Plenário da Câmara ou do Senado,
+considerando-se aprovado se for aceito pelas comissões de cada Casa (diz-se que o projeto
+tramita em caráter terminativo ou conclusivo: CF, art. 58, § 2º, I).
+
+Por outro lado, os chamados procedimentos especiais regulam a tramitação que não segue
+totalmente os padrões da aprovação de uma lei ordinária comum. Desse modo, qualquer
+diferenciação substancial no trâmite de uma proposição legislativa significa que se trata de um
+procedimento especial. Temos, então, como procedimentos especiais:
+
+        a)   leis orçamentárias (embora sejam leis ordinárias, a matéria de que tratam é tão
+específica que determina várias diferenças de tramitação, previstas principalmente no art. 166 da
+CF);
+
+        b)     emendas constitucionais;
+
+        c)     leis complementares;
+
+        d)     leis delegadas;
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     6
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+        e)     medidas provisórias;
+
+        f)     decretos legislativos;
+
+        g)     resoluções.
+
+Em resumo:
+
+
+
+
+A partir de agora, nós estudaremos detalhadamente o procedimento comum ordinário (padrão).
+Depois dele, veremos as peculiaridades do procedimento comum sumário e do abreviado.
+Depois disso, serão nosso objeto de estudo os procedimentos especiais, sobre os quais
+falaremos apenas em suas peculiaridades. Isso quer dizer que, quando não tratarmos de um
+assunto dentro do procedimento especial, você pode presumir que é porque ele segue, naquele
+ponto, as mesmas regras que se aplicam ao procedimento comum.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   7
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                     PROCESSO LEGISLATIVO
+
+
+Procedimento Comum Ordinário
+
+
+O procedimento comum ordinário é o procedimento-padrão de aprovação das leis ordinárias.
+Trata-se de um procedimento complexo, completo e demorado. A elaboração de leis, como se
+sabe, é algo sério, que demanda longo tempo de maturação, sob pena de se editarem atos com
+defeitos, ou mal redigidos, etc. No procedimento comum ordinário (ou, simplesmente,
+procedimento ordinário), não há prazo para a deliberação do Congresso Nacional, e o projeto
+precisa passar tantos pelas comissões (órgãos fracionários que analisam aspectos específicos)
+quanto pelo Plenário.
+
+O procedimento comum ordinário compõe-se de três fases básicas:
+
+        a)     fase pré-parlamentar, ou preliminar, composta pela etapa da iniciativa;
+
+        b)   fase constitutiva, em que a lei é efetivamente produzida, por meio de decisões
+(deliberações):
+
+               b.1) deliberação legislativa (discussão e votação);
+
+               b.2) deliberação executiva (sanção ou veto);
+
+        c)   fase complementar, que serve para dar eficácia a uma lei já existente (promulgação
+e publicação).
+
+
+
+CUIDADO!!!
+
+A lei nasce (passa a ter existência no mundo jurídico) com a sanção (ou com a rejeição do veto,
+que a substitui), mas não pode ainda entrar em vigor, porque isso só pode acontecer após a
+publicação (que é condição para a eficácia da lei).
+
+A promulgação é ato meramente formal e declaratório, que apenas confirma que uma nova lei
+nasceu (o que já ocorreu, no momento da sanção). Para usarmos uma metáfora, poderíamos dizer
+que a sanção é o parto (nascimento da lei), ao passo que a promulgação é a certidão de
+nascimento dela.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   8
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                                         ==5460==
+
+
+
+
+Iniciativa
+A iniciativa é o ato que dá início à tramitação do projeto de lei – PL (que recebe número quando
+é protocolado na Mesa da Casa respectiva – Câmara ou Senado). É o ato que deflagra o
+processo legislativo. A iniciativa geralmente se desenvolve na Câmara dos Deputados; apenas no
+caso de projeto proposto por Senador ou Comissão do Senado é que a tramitação terá início no
+Senado (CF, arts. 64 e 65).
+Dessa forma, a Casa Iniciadora é, geralmente, a Câmara dos Deputados.
+
+O poder de iniciativa é o poder de provocar o Congresso Nacional para que delibere sobre uma
+determinada proposição legislativa.
+
+A iniciativa pode ser classificada segundo a titularidade, ou seja, de acordo com quem pode
+suscitar a deliberação do Congresso Nacional. Assim, a iniciativa pode ser:
+
+        a) geral (ou comum);
+
+        b) privativa (ou reservada ou exclusiva);
+
+        c) popular.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    9
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+Iniciativa “privativa” (ou reservada ou exclusiva)
+
+Verifica-se quando a Constituição determina que uma matéria específica só pode ser suscitada ao
+Congresso Nacional por uma autoridade específica. Nessas hipóteses, o Legislativo não pode
+deliberar sobre o tema mediante proposta de um parlamentar, sob pena de o projeto ser
+considerado formalmente inconstitucional (pelo chamado vício de iniciativa que, segundo o STF,
+não se convalida nem mesmo com a sanção presidencial1).
+
+
+
+ATENÇÃO!!!
+
+No processo legislativo, são usadas como sinônimas as expressões “iniciativa exclusiva” ou
+“iniciativa privativa” ou “iniciativa reservada”, uma vez que a propositura de um projeto de lei
+nunca pode ser delegada. Assim, quando falamos em iniciativa privativa, exclusiva ou reservada
+se está a dizer uma coisa só: que o projeto de lei sobre aquele determinado tema só pode ser
+apresentado ao Legislativo por uma autoridade específica.
+
+
+
+A iniciativa reservada é atribuída ao Presidente da República, aos Tribunais, ao Ministério Público
+e até mesmo à própria Câmara dos Deputados e ao Senado Federal. Vale ainda ressaltar que,
+segundo a jurisprudência, as hipóteses de iniciativa privativa previstas na CF aplicam-se por
+simetria aos Estados, DF e Municípios. Assim, por exemplo, os casos em que a CF atribui a
+iniciativa privativamente ao Presidente da República serão, na esfera estadual, de iniciativa
+privativa do governador.
+
+Passaremos agora a analisar os principais casos de iniciativa privativa para provas de concursos:
+
+
+
+Presidente da República
+
+        De acordo com o § 1º do art. 61, são de iniciativa privativa do Presidente da República
+(na condição de Chefe de Governo, isto é, de Chefe do Poder Executivo) as leis que:
+
+          I – fixem ou modifiquem os efetivos das Forças Armadas;
+
+          II – disponham sobre:
+
+      a) criação de cargos, funções ou empregos públicos na Administração direta e autárquica
+ou aumento de sua remuneração;
+
+        b) organização administrativa e judiciária, matéria tributária e orçamentária, serviços
+públicos e pessoal da Administração dos territórios;
+
+         c) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos,
+estabilidade e aposentadoria;
+
+1
+ Por isso a Súmula nº 5 (segundo a qual a sanção convalidaria o vício de iniciativa), apesar de não formalmente
+cancelada, não é mais aplicada pelo STF: Pleno, ADI 2.867, Relator Ministro Celso de Mello, DJ de 09.02.2007.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      10
+          www.estrategiaconcursos.com.br                                                                          72
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+         d) organização do Ministério Público e da Defensoria Pública da União, bem como
+normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do
+Distrito Federal e dos Territórios;
+
+        e) criação e extinção de ministérios e órgãos da Administração Pública, observado o
+disposto no art. 84, VI;
+
+         f) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções,
+estabilidade, remuneração, reforma e transferência para a reserva.
+
+
+
+Vamos estudar agora, uma a uma, essas diversas matérias que só podem ser propostas pelo
+Presidente da República.
+
+        A) Fixação ou modificação dos efetivos das Forças Armadas
+
+As Forças Armadas são o Exército, a Marinha e a Aeronáutica. O Presidente da República é seu
+Comandante Supremo – até por ser o Chefe de Estado. Dessa forma, qualquer lei que altere o
+efetivo dessas forças (= número de homens que integram cada uma das Forças) será votada pelo
+Congresso, por meio de lei, mas esse projeto de lei só pode ser proposto pelo Presidente da
+República.
+
+       B) Criação de cargos, funções ou empregos públicos na administração direta e
+autárquica ou aumento de sua remuneração
+
+Cargos públicos são geralmente criados por meio de lei de iniciativa reservada ao Poder
+respectivo. Trata-se de uma decorrência do princípio da separação de poderes. Assim, a criação e
+extinção de cargos no Poder Executivo (bem como a fixação da respectiva remuneração) serão
+votadas pelo Congresso, mas por meio de lei que só pode ser proposta pelo Presidente da
+República.
+
+Ressalte-se que a expressão “administração direta e autárquica” deve ser entendida em sentido
+estrito: refere-se apenas à administração do Poder Executivo.
+
+        C) Organização administrativa e judiciária, matéria tributária e orçamentária, serviços
+públicos e pessoal da administração dos Territórios
+
+Os Territórios Federais (que atualmente não existem, mas podem vir a ser criados por lei
+complementar: art. 33) não são entes federativos, não possuem autonomia política. Integram a
+União, são meras autarquias territoriais da União. Por isso mesmo, as leis que tratam sobre as
+matérias básicas relativas aos Territórios só podem ser votadas pelo Congresso Nacional a pedido
+do Presidente da República.
+
+Perceba-se, porém, que as matérias aqui citadas só dependem de iniciativa reservada do
+Presidente da República quando se referirem aos Territórios. Tais matérias, no âmbito da União,
+não são de iniciativa reservada, mas geral (comum): podem ser propostas por qualquer
+legitimado citado no art. 61, caput.
+
+De todas as matérias citadas nesse dispositivo (art. 61, § 1º, II, b) a única que é de iniciativa
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    11
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+privativa do Presidente tanto na esfera dos Territórios quanto da União é a matéria orçamentária,
+nos termos do art. 165.
+
+Numa tabela, teríamos:
+
+
+  Matéria                Territórios                        União
+
+
+
+                                                            Iniciativa privativa do Presidente da
+  Organização            Iniciativa privativa do
+                                                            República, quando se referir a órgãos do
+  administrativa         Presidente da República
+                                                            Executivo
+
+
+
+  Organização            Iniciativa privativa do
+                                                            Iniciativa privativa dos Tribunais (art. 96)
+  judiciária             Presidente da República
+
+
+
+  Serviços               Iniciativa privativa do
+                                                            Iniciativa geral (comum)
+  públicos               Presidente da República
+
+
+
+  Matéria                Iniciativa privativa do
+                                                            Iniciativa geral (comum)
+  tributária             Presidente da República
+
+
+
+  Matéria                Iniciativa privativa do            Iniciativa privativa         do   Presidente   da
+  orçamentária           Presidente da República            República (art. 165)
+
+
+
+
+Uma repetição é necessária. Matéria tributária da União NÃO É de iniciativa privativa do
+Presidente da República; a iniciativa reservada prevista no art. 61, § 1º, II, b, trata da matéria
+tributária DOS TERRITÓRIOS. Em outras palavras: MATÉRIA TRIBUTÁRIA DA UNIÃO É
+CONTEÚDO DE INICIATIVA GERAL, E NÃO PRIVATIVA. O Supremo Tribunal Federal já decidiu
+que “a Constituição de 1988 admite a iniciativa parlamentar na instauração do processo
+legislativo em tema de direito tributário” (STF, Pleno, ADI 724/RS, Relator Ministro Celso de
+Mello, DJ de 27.04.2001).
+
+
+
+         D) Servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos,
+estabilidade e aposentadoria
+
+Cabe ao Presidente da República propor ao Congresso Nacional projetos de lei que
+regulamentem o regime jurídico dos servidores públicos, pois a administração pública é função
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                      12
+        www.estrategiaconcursos.com.br                                                                          72
+
+                                       https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+típica do Poder Executivo. Violaria a separação de poderes a alteração do regime
+jurídico-administrativo aplicável aos agentes públicos sem a participação do Chefe do Executivo.
+
+Note-se que, nessa hipótese, é de iniciativa privativa do Presidente projetos de lei sobre o
+regime jurídico dos servidores da União – de todos os poderes e Ministério Público, e não apenas
+do Executivo (como ocorre na alínea a). Assim, uma lei que altere a Lei nº 8.112/90 só pode ser
+votada pelo Congresso caso haja a solicitação do Presidente da República.2
+
+         E) Organização do Ministério Público e da Defensoria Pública da União, bem como
+normas gerais para a organização do Ministério Público e da Defensoria Pública dos Estados, do
+Distrito Federal e dos Territórios
+
+Aqui é preciso distinguir quatro temas diferentes.
+
+           E.1) Organização do Ministério Público da União
+
+Projeto de lei complementar sobre organização (estruturação) e funcionamento (atribuições) do
+MPU pode ser proposto ao Legislativo pelo Presidente da República (sozinho), ou pelo
+Procurador-Geral da República (sozinho) ou por ambos em conjunto. Trata-se de um caso de
+iniciativa legislativa concorrente.
+
+Realmente, se lêssemos o art. 61 isoladamente, poderíamos pensar que só o Presidente da
+República poderia propor tais projetos de lei. Todavia, a Constituição deve ser interpretada com
+base no princípio hermenêutico da unidade, e o art. 128, § 5º, permite ao Procurador-Geral da
+República exercer tal poder de iniciativa3.
+
+       Interpretando conjuntamente o art. 61, § 1º, II, d, e o art. 128, § 5º, chegamos à
+conclusão de que a iniciativa de leis complementares sobre organização e funcionamento do
+MPU é compartilhada. Não se trata de iniciativa conjunta, pois não é necessário que o Presidente
+e o PGR atuem juntos; a iniciativa pode ser exercida também pelas autoridades isoladas.
+
+Não custa lembrar que essa concorrência só existe quanto ao projeto de lei complementar para a
+organização do MPU. Quanto à lei ordinária sobre criação de cargos dessa instituição e fixação
+das suas remunerações, o STF já afirmou que se trata de iniciativa privativa do PGR (STF, MS
+21.239).
+
+Por simetria, projetos de lei complementar sobre organização e funcionamento dos Ministérios
+Públicos Estaduais são de iniciativa concorrente entre o Governador do Estado e o
+Procurador-Geral de Justiça (Chefe do MP Estadual). Quanto ao Ministério Público do Distrito
+Federal e Territórios, faz parte do MPU (art. 128).
+
+
+
+2
+    É preciso ter cuidado, porém, para diferenciar as leis sobre o regime jurídico dos servidores federais - caso em que o projeto é de
+    iniciativa privativa do Presidente da República (art. 61, § 1º, II, c), das outras leis que tratam igualmente de servidores públicos, mas são
+    válidas para todas as esferas da Federação (as leis nacionais). Nesse último caso, a tendência doutrinária e jurisprudencial é em
+    considerar que, se a lei for aplicável a todos os entes da Federação, não há que se falar em iniciativa privativa presidencial. É o caso, por
+    exemplo, das leis que tratam de regime de aposentadoria dos servidores públicos (art. 40, especialmente §§ 1º e 4º da CF).
+3
+    “Leis complementares da União e dos Estados, cuja iniciativa é facultada aos respectivos Procuradores-Gerais, estabelecerão a organização,
+    as atribuições e o estatuto de cada Ministério Público”.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                 13
+          www.estrategiaconcursos.com.br                                                                                                     72
+
+                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+        VEJA BEM!
+
+
+         Projeto de lei complementar sobre organização
+(estruturação) e funcionamento (atribuições) do MPU pode
+ser proposto ao Legislativo pelo Presidente da República
+(sozinho), ou pelo Procurador-Geral da República (sozinho),
+ou por ambos em conjunto. Trata-se de um caso de
+iniciativa legislativa concorrente (arts. 61, § 1º, II, d, e 128, §
+5º).
+
+
+
+
+            ATENÇÃO!
+
+
+        Quanto à criação de cargos dessa instituição, o STF
+já afirmou que se trata de iniciativa privativa do PGR (STF,
+MS nº 21.239).
+
+
+
+
+Interessante anotar que boa parte da doutrina critica a atribuição ao Presidente da República da
+iniciativa de lei complementar sobre o MPU, pois tal instituição não é mais, segundo a opinião
+majoritária, vinculada ao Poder Executivo.
+
+        E.2) Defensoria Pública da União
+
+A regulamentação da DPU (organização e funcionamento) se dava por lei complementar (art. 134,
+§ 1º) de iniciativa privativa do Presidente da República. Porém, com a promulgação da EC nº
+80/14, que deu autonomia às Defensorias Públicas, a mesma prerrogativa do PGR passou a ser
+aplicável ao Defensor Público-Geral Federal. Dessa forma, a iniciativa de lei complementar para
+tratar do regime jurídico da DPU passa a ser concorrente entre o PR (art. 61, § 1º, I, d, ainda
+vigente) e o chefe da DPU (art. 134, § 4º, c/c art. 96).
+
+        E.3) Ministérios Públicos Estaduais
+
+Aqui, é preciso fazer a distinção entre a iniciativa para tratar de normas gerais e a para cuidar de
+normas específicas (organização e funcionamento) dos MPEs.
+
+Com efeito, a regulamentação de normas gerais sobre os Ministério Públicos Estaduais se dá por
+lei ordinária federal, de iniciativa privativa do Presidente da República. Essa lei já existe: é a Lei
+Orgânica Nacional dos Ministérios Públicos Estaduais (Lei Federal nº 8.625/93).
+
+Já as leis específicas sobre organização e funcionamento dos MPEs são leis complementares
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         14
+        www.estrategiaconcursos.com.br                                                             72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+estaduais, cuja iniciativa é concorrente entre o Governador do Estado e o Procurador-Geral de
+Justiça, por simetria com a regra federal.
+
+Num esquema:
+
+
+                                  Co                   Instr
+                                                                          Inici
+            Matéria       mpetência          umento
+                                                                ativa
+                          para legislar      legislativo
+
+
+
+          Organiza
+  ção             e
+                                                   Lei                  Con
+  funcionamento                      Uniã
+                                             Complemen          corrente (PR
+  do MPU (normas          o
+                                             tar                e PGR)
+  gerais          e
+  específicas)
+
+
+
+          Normas
+  gerais      sobre
+                                     Uniã            Lei                Priv
+  Ministérios
+                          o                  Ordinária          ativa do PR
+  Públicos
+  Estaduais
+
+
+
+          Normas
+  específicas sobre
+                                                                         Con
+  Ministérios                                      Lei
+                                     Esta                       corrente
+  Públicos                                   Complemen
+                          dos                                   (Governado
+  Estaduais                                  tar
+                                                                r e PGJ)
+  (organização    e
+  funcionamento)
+
+
+
+
+        E.4) Defensorias Públicas Estaduais
+
+Nesses casos, há também duas leis: uma lei complementar com normas gerais sobre as
+Defensorias Públicas Estaduais – lei essa elaborada pela União e de iniciativa privativa do
+Presidente da República.
+
+Já as normas específicas (organização e funcionamento) das Defensorias Públicas Estaduais são
+regulamentadas em lei complementar estadual, de iniciativa privativa do Governador do Estado
+(por simetria com o modelo federal).
+
+        F) Criação e extinção de Ministérios e órgãos da administração pública, observado o
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   15
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+disposto no art. 84, VI
+
+Pelos mesmos motivos já expostos quando comentamos o art. 61, § 1º, II, a, qualquer lei que crie
+ou extinga órgãos do Poder Executivo ou Ministérios só pode partir da iniciativa presidencial.
+
+A observação quanto ao art. 84, VI, diz respeito à figura dos chamados decretos autônomos, atos
+de competência exclusiva do Presidente da República com força de lei, mas que apenas podem
+alterar o funcionamento, mas não a estrutura da Administração Pública, uma vez que a
+criação/extinção de órgãos ou ministérios está sob reserva legal (art. 884).
+
+
+
+Cuidado!!!
+
+O STF já decidiu – e isso tem despencado em prova – que lei de iniciativa parlamentar pode,
+sim, criar despesas para o Executivo, ou criar políticas públicas a serem implementadas pelo
+Executivo, desde que não seja criado um novo órgão (Ministério ou Secretaria).
+
+
+
+         G) Militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções,
+estabilidade, remuneração, reforma e transferência para a reserva
+
+         Valem, nesse ponto, as mesmas observações que fizemos em relação ao inciso I do § 1º
+do art. 61 e à alínea c do inciso II do mesmo dispositivo.
+
+           H) Leis orçamentárias (plano plurianual, diretrizes orçamentárias e orçamento anual)
+
+Por tradição constitucional, as finanças públicas são matérias reservadas à gerência do Poder
+Executivo, desde o instituto da Coroa Real até a Fazenda Pública dos dias atuais. Mas essa tarefa,
+no Estado de Direito, será exercida com o controle (=fiscalização) do Poder Legislativo.
+
+Por conta disso, as leis orçamentárias são votadas pelo Congresso (CF, art. 166), mas este só
+pode deliberar sobre projetos de lei nesse tema se for provocado pelo Presidente da República,
+que tem a iniciativa privativa dos projetos de lei (ordinária) que disponham sobre o plano
+plurianual (PPA), a lei de diretrizes orçamentárias (LDO) e a lei orçamentária anual (LOA).
+
+Observe-se que tal regra é aplicável, por simetria, nas demais esferas federativas.
+
+
+
+Tribunais
+
+A iniciativa do projeto de lei complementar sobre as garantias, deveres e vedações da
+magistratura nacional (LOMAN) é privativa do Supremo Tribunal Federal, nos termos do art. 93,
+caput.
+
+
+
+4
+    “A lei disporá sobre a criação e extinção de Ministérios e órgãos da administração pública”.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       16
+          www.estrategiaconcursos.com.br                                                           72
+
+                                              https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+VEJA BEM!!!
+
+Os juízes – ainda que federais – não são regidos pelo estatuto dos servidores públicos (Lei nº
+8.112, de 1990, na esfera federal), a não ser de forma subsidiária. Seu regime jurídico especial é
+previsto em lei complementar nacional (e jamais estadual!), cuja iniciativa cabe apenas ao STF.
+
+
+
+São de iniciativa privativa dos Presidentes dos Tribunais Superiores e do TCU os projetos de
+autoadministração, nos termos do art. 96 da CF. Segue-se, então, a regra geral já exposta: a
+criação/extinção de cargos, bem como a fixação das respectivas remunerações, dá-se por lei
+votada pelo Congresso, mas de iniciativa privativa de cada Poder (no caso, o Judiciário). Essa
+regra se aplica também à criação de cargos no TCU, por expressa previsão constitucional (art. 73,
+que, por sua vez, manda aplicar ao TCU as regras do já estudado art. 96 da CF).
+
+
+
+Ministério Público da União
+
+A iniciativa de projetos de lei complementar sobre organização e funcionamento do MPU é
+concorrente entre o Presidente da República e o chefe da instituição (Procurador-Geral da
+República). Não é disso, contudo, que agora tratamos. O que aqui se estuda é a iniciativa para
+propor ao Congresso a criação/extinção de cargos no MPU e a fixação das respectivas
+remunerações ou subsídios. Nesse caso, a iniciativa é privativa do próprio MPU, por meio do
+chefe da instituição: o Procurador-Geral da República.
+
+Com efeito, o § 2º do art. 127 assim dispõe: “Ao Ministério Público é assegurada autonomia
+funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder
+Legislativo a criação e a extinção de seus cargos e serviços auxiliares [...]”.
+
+Então, temos o seguinte:
+
+
+
+
+Conteúdo                                 Espécie normativa                        Iniciativa
+
+
+Funcionamento e atribuições Lei complementar                                      PR e/ou PGR
+do MPU
+
+
+Cargos e remuneração do Lei ordinária                                             PGR
+MPU
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      17
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Câmara dos Deputados e Senado Federal
+
+A criação e a extinção de cargos públicos da Câmara e do Senado se dá por resolução de cada
+Casa, e não por lei, como é a regra geral. No entanto, mesmo nesses casos, embora a criação
+não exija lei em sentido formal, a fixação da remuneração dos servidores tem que ser feita por
+meio de lei, votada pelo Congresso (ambas as Casas) e sancionada pelo Presidente da
+República, mas cuja iniciativa é reservada à Câmara dos Deputados ou ao Senado Federal,
+respectivamente (essa iniciativa é exercida pela Mesa da Casa respectiva). A fixação dos
+vencimentos dos membros (parlamentares) é feita por decreto legislativo (art. 49, VI).
+
+Podemos, então, resumir a iniciativa para projetos de lei sobre criação/extinção de cargos e
+fixação de remunerações nos diversos Poderes da República:
+
+
+
+
+            Objeto                              Iniciativa                    Instrumen
+                                                                   to
+
+
+        Criação de cargos        Presidente da                                Lei
+ no Executivo             República
+
+
+         Criação de cargos        Mesa de cada                                Resolução
+ no Legislativo            uma das Casas
+
+
+         Criação de cargos                      Tribunais                     Lei
+ no Judiciário
+
+
+         Aumento       dos        Presidente da                               Lei
+ vencimentos dos cargos do República
+ Executivo
+
+
+         Aumento           dos     Mesa de cada                               Lei
+ vencimentos dos cargos dos uma das Casas
+ servidores do Legislativo
+
+
+         Aumento       dos          Tribunais                                 Lei
+ vencimentos dos cargos do superiores     (âmbito
+ Judiciário                federal)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   18
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+        Revisão geral anual        Presidente da                              Lei
+ dos servidores de todos os República
+ Poderes (art. 37, X)
+
+
+         Criação de cargos       Procurador-G                                 Lei
+ no Ministério Público e eral da República
+ respectivo aumento dos
+ vencimentos
+
+
+
+
+Iniciativa geral ou comum
+
+Todos os casos que não sejam de iniciativa reservada ou concorrente (em sentido estrito) são de
+iniciativa geral, ou comum, ou seja: podem ser propostos pelo Presidente da República, ou por
+qualquer Senador, ou qualquer Deputado Federal, ou por alguma das comissões da Câmara, do
+Senado ou do Congresso Nacional. É a regra do art. 61, caput, de modo que as hipóteses de
+inciativa comum são encontradas por exclusão.
+
+         Os principais exemplos de matérias de iniciativa geral ou comum são: a) direito penal; b)
+direito tributário (tributos da União); c) direito do consumidor; d) direito administrativo (no que
+não disser respeito ao regime jurídico dos servidores ou à organização administrativa); e) direito
+ambiental; f) saúde; g) educação; h) trânsito, etc.
+
+
+
+Iniciativa popular
+
+A iniciativa popular é um instituto da democracia semidireta (Constituição Federal – CF, art. 14,
+III; art. 27, § 4º; art. 29, XIII; art. 61, § 2º). Consiste no direito de que dispõem os cidadãos de
+propor um projeto de lei para a apreciação do Poder Legislativo.
+
+Controverte-se, porém, acerca dos limites que essa iniciativa impõe ao Poder Legislativo. Há
+alguns ordenamentos jurídicos em que a soberania popular é mais valorizada, chegando-se
+mesmo a estabelecer que, uma vez apresentado o projeto por proposta do eleitorado, não
+poderá o Legislativo rejeitá-lo, sem consultar a população, mediante referendo. Outros países há
+em que a prerrogativa popular não passa de mera provocação ao Parlamento, a fim de que ele
+delibere, como entender de direito, acerca do tema objeto da provocação.
+
+O Brasil, assim como a Itália, a Argentina e a Espanha, adota o modelo da iniciativa popular não
+vinculante. Logo, entre nós a iniciativa popular nada mais é que uma provocação, uma exortação
+ao Legislativo para que delibere sobre determinado tema. Não há vinculação do Congresso
+Nacional, que pode inclusive rejeitar ou emendar o projeto.
+
+Na esfera federal, a iniciativa popular será exercida mediante a apresentação à Câmara dos
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       19
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Deputados de projeto de lei (ordinária ou complementar), desde que subscrito por 1% do
+eleitorado nacional, distribuídos em pelo menos cinco Estados, e com não menos do que 0,3%
+do eleitorado de cada Estado.
+
+
+
+APROFUNDAMENTO
+
+Na experiência pós-1988, o único projeto de iniciativa popular a tramitar dessa forma, na esfera
+federal, foi o que pretendia criar o Fundo Nacional de Moradia Popular – PL nº 2710, de 1992
+(Diário do Congresso Nacional de 8 de abril de 1992, p. 6355). Aprovado na forma de
+substitutivo, o Projeto deu origem à Lei nº 11.124, de 2005 (que cria o Sistema Nacional de
+Habitação de Interesse Social).
+
+Talvez por darem um sentido muito lato ao termo “iniciativa popular”, ou mesmo por confusão
+factual, parte da doutrina aponta também como exemplos de leis oriundas da iniciativa popular
+as Leis nºs 8.930, de 6 de setembro de 1994 (que inseriu o homicídio qualificado no rol dos
+crimes hediondos); 9.840, de 18 de setembro de 1999, que inseriu a compra de votos (“captação
+ilícita de sufrágios”) entre as hipóteses de cassação do mandato eletivo pela Justiça Eleitoral; e a
+Lei Complementar nº 135, de 4 de junho de 2010 (“Lei da Ficha Limpa”), que criou novas
+hipóteses de inelegibilidade. Nenhum desses três, porém, decorreu tecnicamente de iniciativa
+popular. Senão, vejamos.
+
+A Lei nº 8.930, de 1994, derivou da aprovação do PL nº 4.146, de 1993, que foi autuado como de
+autoria do Poder Executivo. Assim, embora a legislação tenha derivado de inspiração popular,
+não se pode afirmar tecnicamente ser um caso de exercício da prerrogativa do § 2º do art. 61 da
+CF. Quanto à Lei nº 9.840, de 1999, o sítio da Câmara registra como autor o Deputado Albérico
+Cordeiro. Talvez o caso mais lembrado seja o da chamada “Lei da Ficha Limpa” (Lei
+Complementar nº 135, de 2010). Na tentativa de moralizar o exercício da atividade política, a
+sociedade civil organizou-se para propor ao Congresso Nacional um projeto de lei
+(complementar) impondo a inelegibilidade das pessoas que fossem condenadas por um órgão
+colegiado, tanto pela prática de improbidade administrativa, quanto pelo cometimento de
+determinados delitos. Na verdade, o Projeto foi apresentado em nome de um Deputado
+(Antonio Carlos Biscaia – PT/RJ) e outros 21 Deputados (Projeto de Lei Complementar – PLP nº
+518, de 2009), para não ser preciso conferir todas as assinaturas populares e, assim, acelerar a
+tramitação. No sítio eletrônico da Câmara dos Deputados, consta a imagem da versão original do
+PLP, subscrito por 22 Deputados; que não faz referência à inspiração popular; e que não contém
+sequer justificação. Recentemente, no caso das chamadas “10 Medidas contra a Corrupção”,
+aconteceu fenômeno semelhante aos casos anteriormente analisados. O PL nº 4.850, de 2016,
+tem como autores formais os Deputados Mendes Thame e outros. Mas, diante de decisão liminar
+do Ministro Luiz Fux no MS nº 34.530/DF (depois extinto sem resolução do mérito), resolveu-se
+contar todas as mais de 2 milhões de assinaturas, a fim de que o PL tramite como de iniciativa
+popular).
+
+
+
+Poucos lembram, mas é preciso ressaltar que a Constituição Federal previu a iniciativa legislativa
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       20
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+também em âmbito estadual (art. 27, § 4º5) e municipal (art. 29, XIII6).
+
+Na esfera municipal, a CF, em nítida norma de preordenação, já estabeleceu que a iniciativa
+popular será exercida mediante a apresentação de projeto subscrito por 5% do eleitorado
+municipal. Não há espaço, portanto, para regulamentação distinta por parte da Lei Orgânica
+municipal.
+
+Situação distinta ocorre em relação à esfera dos Estados. Nesse caso, o § 4º do art. 27 da CF
+prevê apenas que a iniciativa popular será regulada na forma da lei. “Lei” de qual ente
+federativo? Federal ou estadual? Entendemos que deva ser de cada Estado, tanto por privilegiar
+a autonomia estadual – valor básico de uma federação –, mas também pelo fato de o dispositivo
+estar incluído no artigo que trata da estrutura dos poderes estaduais. Cada Estado-membro será
+livre, portanto, para definir as regras de iniciativa popular em seu âmbito, o que leva alguns deles
+até a – de forma diversa do que ocorre na esfera federal – prevê iniciativa popular até de
+propostas de emenda à Constituição. O que se tem, com o § 4º do art. 27, é uma verdadeira
+exceção constitucional expressa ao princípio da simetria.
+
+E o DF? Enquadra-se na regra municipal (5%) ou estadual (livre definição)? Entendemos que,
+nesse caso, deva o DF ser equiparado a Estado, podendo definir livremente os percentuais para
+o exercício da iniciativa popular na esfera distrital.
+
+
+
+CUIDADO!!!
+
+Na esfera federal, não existe iniciativa popular de emendas à Constituição (PEC). Nada impede,
+porém, que os estados e o DF adotem, em seus respectivos âmbitos, essa forma de propositura
+para emenda à constituição estadual (ou lei orgânica, no caso do DF).
+
+
+
+ATENÇÃO!!!
+
+A iniciativa popular, em qualquer esfera da federação, só pode ser usada quando a matéria não
+seja de iniciativa privativa. Pode-se dizer, então, que a iniciativa popular é aplicável nas mesmas
+hipóteses da iniciativa geral ou comum.
+
+
+
+Discussão
+Nessa fase, o projeto será analisado pelas duas Casas do Congresso Nacional (ou apenas por
+uma delas, se for rejeitado, pois não precisa, nesse caso, seguir à
+
+5
+    “A lei disporá sobre a iniciativa popular no processo legislativo estadual”.
+
+6
+    “O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos
+    membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo
+    Estado e os seguintes preceitos: (...) XIII – iniciativa popular de projetos de lei de interesse específico do Município, da cidade ou de bairros,
+    através de manifestação de, pelo menos, cinco por cento do eleitorado”.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                                      21
+          www.estrategiaconcursos.com.br                                                                                                          72
+
+                                               https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+deliberação da Casa Revisora). É o momento em que o projeto de lei é encaminhado para que o
+Poder Legislativo possa apreciá-lo, analisá-lo.
+
+Primeiramente, o projeto será encaminhado à análise das comissões, órgãos fracionários de cada
+uma das Casas Legislativas (existem, portanto, comissões tanto da Câmara dos Deputados
+quanto do Senado Federal).
+
+Antes, porém, é preciso analisar em qual das Casas o projeto iniciará sua tramitação. Isso será
+determinado pela iniciativa do projeto. Com efeito, o art. 64, caput, dispõe: “A discussão e
+votação dos projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal
+Federal e dos Tribunais Superiores terão início na Câmara dos Deputados”.
+
+Como se vê, a regra geral é que a Casa Iniciadora seja a Câmara, atuando, então, o Senado
+Federal como Casa Revisora. Essa regra, porém, admite exceções: iniciam sua tramitação pelo
+Senado Federal (que, nesses casos, atuará como Casa Iniciadora) os projetos de lei propostos
+por Senador ou por comissão do Senado Federal.
+
+
+
+
+            Iniciativa                            Casa Iniciadora
+
+
+            Deputado                          Câmara                    dos
+                                        Deputados
+
+
+            Comissão da Câmara                Câmara                    dos
+                                        Deputados
+
+
+        Presidente                 da         Câmara                    dos
+ República                              Deputados
+
+
+        Procurador-Geral da       Câmara                                dos
+ República                  Deputados
+
+
+            STF                               Câmara                    dos
+                                        Deputados
+
+
+            Iniciativa popular                Câmara                    dos
+                                        Deputados
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   22
+        www.estrategiaconcursos.com.br                                                       72
+
+                                        https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+
+              Iniciativa                               Casa Iniciadora
+
+
+              Senador                                  Senado Federal
+
+
+              Comissão do Senado                       Senado Federal
+
+
+
+
+O poder de emendas
+
+Na etapa da discussão, poderão as comissões oferecer pareceres ao projeto (esses pareceres,
+em geral, não vinculam, salvo se o PL tramitar no procedimento abreviado). Também é nessa
+etapa que o PL é debatido. No entanto, em nível constitucional, o que de mais importante
+acontece nessa etapa é o emendamento (apresentação de emendas ao PL).
+
+Com efeito, é no momento da discussão que o Poder Legislativo poderá propor modificações ao
+projeto. Emendas (ao PL) são proposições legislativas acessórias ao projeto principal, e que
+buscam, de alguma forma, alterá-lo (não confunda com as Propostas de Emenda à Constituição,
+que são proposições principais que visam a alterar a CF).
+
+          As emendas podem ser de vários tipos, entre elas (RICD, art. 118):
+
+          a) Supressiva: é a que suprime qualquer parte do projeto (§ 2º);
+
+          b) Aglutinativa: funde dois ou mais projetos ou duas ou mais emendas numa só (§ 3º);
+
+       c) Substitutiva: é a emenda que altera o projeto na essência, no conjunto, formal ou
+substancialmente (§ 4º); quando altera todo o projeto, ganha o nome de substitutivo.
+
+          d) Modificativa: altera parte do projeto, mas não altera o conjunto (§ 5º);
+
+          e) Aditiva: adiciona algo ao projeto (§ 6º);
+
+          f) De Redação: visa a corrigir erro ou impropriedade linguística no projeto (§ 8º)7;
+
+          g) Subemenda: é a emenda a uma emenda (§ 7º).
+
+
+
+O poder de emendar um projeto é, em regra, atribuído exclusivamente aos parlamentares e às
+comissões. Com efeito, mesmo nos casos de iniciativa privativa, uma vez proposto o projeto, não
+mais pode ser alterado pela autoridade iniciadora.
+
+7
+    É fundamental conhecer o conceito de emendas de redação, pois, segundo a jurisprudência do STF, se a emenda apresentada não modificar
+    o conteúdo do projeto, mas apenas questões formais de redação, não fica afetada a sua tramitação, como veremos adiante.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                          23
+          www.estrategiaconcursos.com.br                                                                                              72
+
+                                           https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Limitações ao poder de emenda
+
+Existe, porém, uma limitação ao poder do Congresso de emendar projetos de lei (art. 63), assim
+redigido:
+
+        Não será admitido aumento da despesa prevista:
+
+         I – nos projetos de iniciativa exclusiva do Presidente da República, ressalvado o disposto
+no art. 166, §§ 3º e 4º;
+
+      II – nos projetos sobre organização dos serviços administrativos da Câmara dos
+Deputados, do Senado Federal, dos Tribunais Federais e do Ministério Público.
+
+Dessa forma, não poderão sofrer aumento das despesas previstas os projetos:
+
+        a)   de iniciativa exclusiva do Presidente da República, a não ser as modificações no
+projeto de Lei Orçamentária Anual (desde que compatíveis com o PPA e com a LDO compensem
+o aumento com o corte de outras despesas ou emendas de redação ou meramente modificativas)
+ou de Lei de Diretrizes Orçamentárias (desde que respeitado o PPA); ou
+
+        b)   sobre organização dos serviços administrativos da Câmara, do Senado, dos
+Tribunais Federais (STF, STJ, TSE, TST e STM) e do Ministério Público.
+
+Perceba-se que, nessas hipóteses, o poder de emenda não é suprimido, mas restringido. Em
+outras palavras: não é que não se admitam emendas, mas que não são possíveis emendas para
+aumentar a despesa prevista.
+
+Questiona-se, então, quais os tipos de projeto de lei que podem ser modificados pelo
+Congresso. Todos os tipos de projeto de lei, toda e qualquer proposição legislativa em
+tramitação no Congresso Nacional podem ser modificados, porque o Congresso é o titular da
+função legislativa. Por outro lado, até que ponto pode haver emendas em projetos de lei? Não
+poderá haver para aumentar despesas nos projetos de iniciativa privativa (CF, art. 63). Perceba-se,
+uma vez mais: tais projetos poderão sofrer emendas, desde que não se aumente a despesa
+prevista.
+
+Outra limitação ao poder de emenda parlamentar, aplicável aos projetos de iniciativa privativa,
+diz respeito à chamada pertinência temática. Dessa forma, são inadmissíveis emendas que não
+guardem relação com o objeto original da proposição, sob pena de inconstitucionalidade da
+emenda e, se aprovada, da parte indevidamente incluída na lei. Foi o que decidiu o STF, ao
+julgar a ADI nº 5.127/DF, relator para o acórdão Ministro Luiz Fux, em decisão que abordou a
+temática em relação às medidas provisórias, mas que se aplica, pelas mesmas razões, aos
+projetos de lei de iniciativa privativa. São vedados, portanto, os jabutis ou contrabando
+legislativos, isto é, as emendas sobre temas totalmente estranhos ao objeto original da
+proposição.
+
+
+
+Cuidado!!!
+
+Segundo o STF, a proibição do aumento de despesas (art. 63 da CF) e a vedação dos “jabutis”
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      24
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+ou contrabando legislativo só ocorrem nos PLs de iniciativa privativa!!! Logo, se o PL for de
+iniciativa geral ou comum admite-se até mesmo o aumento de despesa ou a inovação temática
+por meio de emenda parlamentar.
+
+
+
+        Quer ver um exemplo prático de “jabuti” ou “contrabando legislativo”? Vamos lá:
+
+
+
+
+Sim, é isso mesmo, você não leu errado: numa MPV que tratava do setor elétrico, foi apresentada
+uma emenda para... extinguir o exame da OAB! Claro que, nesses casos gritantes, a emenda não
+consegue ser aprovada. Mas às vezes se consegue “embutir” num PL temas nem tão conexos
+assim...
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   25
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+Uma vez encerrada a discussão (nos termos regimentais, pois a CF não detalha esse tema),
+pode-se passar à fase decisiva, a de votação.
+
+Votação
+Terminada a discussão do projeto, com a apresentação das emendas (se for o caso), o projeto
+entra na fase de votação (deliberação propriamente dita, decisão).
+
+Para saber se o PL foi aprovado ou não, é preciso observar o quórum (número mínimo exigido).
+
+No processo legislativo, é preciso distinguir dois tipos de quórum:
+
+        a)   o quórum de presença, número mínimo de parlamentares presentes para que a
+sessão de votação tenha início;
+
+       b)   o quórum de aprovação, número mínimo de votos sim para que se considere
+aprovado o projeto.
+
+Quanto às leis ordinárias, vale a regra geral do art. 47 da CF, que assim dispõe: “Salvo disposição
+constitucional em contrário, as deliberações de cada Casa e de suas Comissões serão tomadas
+por maioria dos votos, presente a maioria absoluta de seus membros”.
+
+Perceba-se que a Constituição separou claramente o quórum de aprovação do projeto (maioria
+simples, também chamada maioria relativa, isto é, a maioria dos votos) do quórum de presença
+(maioria absoluta, ou seja, a sessão de votação em uma Casa só se inicia se estiver presente a
+maioria absoluta de seus membros).
+
+Maioria simples (ou relativa) é a maioria dos votos. Trata-se de um número variável, que depende
+da quantidade de parlamentares que compareceram à sessão. Por isso chama-se relativa. Para a
+aprovação da lei ordinária, o quórum necessário é essa maioria simples, isto é, basta que o
+número de votos sim suplante os votos não.
+
+Perceba-se que, ao menos em teoria, existe a possibilidade de uma lei ser aprovada com apenas
+um voto favorável. Basta que todos os demais parlamentares presentes à sessão se abstenham. A
+abstenção é uma espécie de “voto branco”.
+
+Por exemplo: numa sessão do Senado (total de 81 membros), compareceram 50 Senadores (mais
+que a metade=maioria absoluta=quórum de instalação preenchido). Desses 50 membros, 49 se
+abstiveram de votar e um votou “sim”. A lei está aprovada, pois o número de votos “sim” foi
+maior que o de votos “não”. Por isso dizemos que a abstenção é uma espécie de “voto branco”,
+é o parlamentar “abrir mão” do seu voto8.
+
+
+
+          Isso significa que a noção corrente de que a maioria simples é a “maioria dos presentes”
+8
+    É o que explica, também, Sérgio Valladão Ferraz: Se apenas 40 Senadores tentaram impedir a formação de quorum de instalação da sessão,
+    os 41 presentes são o suficiente para sua instauração. Dos 41 presentes, é possível que dez tenham votado pela abstenção, porque não
+    querem se comprometer com nenhuma das linhas, conquanto não tivessem o desejo de postergar a deliberação. Haverá, no caso, apenas 31
+    votos para o sim e o não, somados. Digamos que, destes, 16 tenham votado sim e 15 tenham escolhido não. Nesta hipótese, a matéria foi
+    aprovada por maioria simples, já que a maioria dos presentes votantes (presentes que não se abstiveram) escolheram aprovar a matéria” . Cf.
+    FERRAZ, Sérgio Valladão. Curso de Direito Legislativo. Rio de Janeiro: Elsevier, 2007, p. 93.
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                               26
+          www.estrategiaconcursos.com.br                                                                                                   72
+
+                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+não é necessariamente verdadeira, já que os presentes podem abster-se. Mais correto é definir a
+maioria simples como faz o art. 47 da CF: “maioria dos votos”.
+
+           Da votação na Casa Iniciadora podem surgir dois resultados: aprovação ou rejeição do
+projeto.
+
+           a) Projeto rejeitado
+
+Se o projeto de lei for rejeitado, será arquivado. Perceba-se que, nesse caso, o projeto não
+precisa ser encaminhado à Casa Revisora.
+
+
+           CUIDADO!
+
+
+
+        O conteúdo de um projeto de lei que foi rejeitado pode ser objeto de novo
+projeto de lei? Essa questão é respondida pelo art. 67 da CF, que dispõe:
+
+
+
+       A matéria constante de projeto de lei rejeitado somente poderá constituir objeto
+de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta
+dos membros de qualquer das Casas do Congresso Nacional.
+
+
+
+         Trata-se do chamado princípio da irrepetibilidade. De acordo com esse princípio,
+um projeto de lei rejeitado não pode ser reapresentado na mesma sessão legislativa (=
+ano parlamentar). O projeto rejeitado só pode ser reapresentado na mesma sessão
+legislativa se o for por iniciativa da maioria absoluta dos membros de uma das Casas do
+Congresso.
+
+
+
+
+            ATENÇÃO!
+
+
+
+         A irrepetibilidade do conteúdo do projeto de lei rejeitado é limitada à sessão
+legislativa (= ano parlamentar) e, mesmo assim, é uma proibição relativa, pois pode
+ser derrubada pela manifestação da maioria absoluta dos membros de qualquer das
+Casas Legislativas.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   27
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+                         Divergência doutrinária!
+
+                       Há uma questão polêmica a ser resolvida: quando a Constituição fala em
+               sessão legislativa, ela está se referindo a todo o ano parlamentar ou apenas à
+               sessão legislativa ordinária (2 de fevereiro a 22 de dezembro)? Em outras palavras:
+               em caso de convocação extraordinária do Congresso (sessão legislativa
+               extraordinária), poderia um projeto ser reapresentado mesmo sem a iniciativa da
+               maioria absoluta de uma das Casas?
+
+                        Pontes de Miranda entendia que sim, pois “não se trata da mesma sessão
+               legislativa”. No entanto, o Supremo Tribunal Federal decidiu de forma um pouco
+               mais restritiva. Realmente, no julgamento do pedido de medida cautelar na ADI
+               nº 2.010/DF, a Corte Suprema decidiu que o projeto de lei rejeitado em uma sessão
+               legislativa ordinária poderia ser objeto de nova proposta na sessão legislativa
+               extraordinária desde que fosse apresentado no mês de janeiro, pois estaria em
+               outro ano parlamentar (sessão legislativa). Perceba-se: o STF não afirmou que a
+               sessão legislativa extraordinária é outra sessão; afirmou que o projeto poderia ser
+               reapresentado (mesmo sem a maioria absoluta) no mês de janeiro, por se tratar de
+               outra sessão legislativa (outro ano parlamentar).
+
+
+
+        b) Projeto aprovado
+
+Se o projeto atingir a maioria simples de votos “sim”, será, então, encaminhado à outra Casa
+Legislativa, para a revisão (nova discussão e nova votação, desta vez na Casa Revisora).
+
+O projeto de lei aprovado por uma Casa será revisado pela outra, em turno único de discussão e
+de votação (art. 65). Trata-se de uma regra decorrente do próprio regime bicameral adotado no
+Brasil. Com isso, vigora a regra de que um projeto de lei só se transforma em lei com a
+concordância de ambas as Casas do Congresso.
+
+Na fase de revisão, o projeto será novamente discutido e votado, só que, dessa vez, pela outra
+Casa Legislativa (denominada, então, Casa Revisora). Por óbvio, quando a Casa Iniciadora for a
+Câmara dos Deputados (essa é a regra geral), a Casa Revisora será o Senado Federal – e
+vice-versa.
+
+Na Casa Revisora, o projeto poderá ser aprovado ou rejeitado. Mesmo a aprovação, porém,
+pode ocorrer com ou sem emendas, em relação ao teor do projeto que veio da Casa Iniciadora.
+Vejamos o que acontece em cada uma dessas hipóteses.
+
+
+
+        b.1) Projeto rejeitado na Casa Revisora
+
+Caso o projeto seja rejeitado na Casa Revisora, as consequências serão as mesmas da rejeição na
+Casa Iniciadora: a proposição será arquivada, e a matéria dela constante só poderá ser objeto de
+novo projeto de lei na próxima sessão legislativa (= próximo ano parlamentar), ou, na mesma
+sessão legislativa, apenas por iniciativa da maioria absoluta dos membros de uma das Casas do
+Congresso Nacional. Em outras palavras: incide, normalmente, o princípio da irrepetibilidade (art.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     28
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+67).
+
+        b.2) Projeto aprovado na Casa Revisora
+
+Se o projeto for aprovado pela Casa Revisora, duas situações podem ocorrer: ou o projeto foi
+aprovado do jeito que veio da Casa Iniciadora (aprovado sem emendas da Casa Revisora), ou, ao
+contrário, a Casa Revisora aprovou o projeto, mas com modificações (com emendas em relação
+ao que foi aprovado pela Casa Iniciadora).
+
+        b.1.1) Projeto aprovado pela Casa Revisora sem emendas
+
+Nessa hipótese, o projeto seguirá para a próxima fase, qual seja, a deliberação executiva (sanção
+ou veto). Será remetido, portanto, ao Presidente da República, sendo desnecessário o retorno da
+proposição à Casa Iniciadora.
+
+        b.1.2) Projeto aprovado pela Casa Revisora com emendas
+
+Se a Casa Revisora aprovar o projeto, mas com modificações de conteúdo, será preciso que ele
+retorne à deliberação da Casa Iniciadora, para que se colha a manifestação sobre se concorda ou
+não com as modificações feitas ao projeto de lei, tal como fora por ela aprovado.
+
+É dizer: se houver emendas por parte da Casa Revisora, o projeto deverá ser remetido de volta à
+Casa Iniciadora, para resolver esse conflito bicameral. A Casa Iniciadora, nessa hipótese, não irá
+apreciar novamente todo o conteúdo do projeto de lei, mas apenas aquilo que foi alterado pela
+Revisora, ou seja, apenas as emendas. Ao apreciá-las, a Casa Iniciadora pode acatá-las ou
+rejeitá-las. Em qualquer caso, o projeto não retornará à Casa Revisora (sob pena de tornar
+infindável sua tramitação): seguirá, com o texto final aprovado pela Casa Iniciadora, à sanção ou
+ao veto do Presidente da República.
+
+
+
+CUIDADO!!!
+
+Se houver emendas meramente redacionais – assim entendidas aquelas que apenas corrigem
+erro gramatical, desfazem ambiguidade ou corrigem erro de técnica legislativa –, não há
+necessidade de retorno do projeto à Casa Iniciadora. Cf. art. 135 do Regimento Comum do
+Congresso Nacional. No mesmo sentido: STF, Pleno, ADI 2.238-MC, Relator para o acórdão
+Ministro Ayres Britto, DJE de 12-9-2008.
+
+        ATENÇÃO!!!
+
+A Casa Iniciadora não poderá rever outro ponto a não ser os que foram alterados na Casa
+Revisora. A Casa Iniciadora, quanto às emendas, somente poderá aceitar ou rejeitar, não pode
+fazer mais qualquer alteração.
+
+EM RESUMO:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     29
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+             1 Projeto é rejeitado pela Casa Iniciadora: arquivado.
+
+            1.1 Pode ser proposto novamente na próxima sessão
+ legislativa (ano parlamentar)? Sim
+
+            1.2 Pode ser proposto novamente na mesma sessão legislativa
+ (ano parlamentar)? Em regra, não, a não ser que a iniciativa decorra da
+ maioria absoluta dos membros de uma das Casas (princípio da
+ irrepetibilidade: art. 67).
+
+
+
+             2 Projeto é aprovado pela Casa Iniciadora: segue para a
+ revisão.
+
+             2.1 Na Casa Revisora, o projeto é rejeitado: arquivado.
+
+            2.1.1 Pode ser proposto novamente na próxima sessão
+ legislativa (ano parlamentar)? Sim.
+
+            2.1.2 Pode ser proposto novamente na mesma sessão
+ legislativa (ano parlamentar)? Em regra, não, a não ser que a iniciativa
+ decorra da maioria absoluta dos membros de uma das Casas (princípio
+ da irrepetibilidade: art. 67).
+
+         2.2 Na Casa Revisora, o projeto é aprovado sem emendas:
+ segue para sanção ou veto.
+
+           2.3 Na Casa Revisora, o projeto é aprovado com emendas
+ (que alterem o conteúdo): o projeto volta para a Casa Iniciadora.
+
+          2.3.1 Casa Iniciadora acata as emendas: o projeto segue para
+ sanção ou veto com a nova redação sugerida pela Casa Revisora.
+
+          2.3.2 Casa Iniciadora rejeita as emendas: o projeto segue para
+ sanção ou veto com a redação antiga.
+
+
+
+
+Sanção e veto
+Aprovado o projeto de lei pelo Congresso, a Casa em que tiver sido concluída a votação enviará
+o texto final aprovado para o Presidente da República, na forma de autógrafos. A partir do
+recebimento dos autógrafos, o Chefe do Executivo terá o prazo de 15 dias (úteis) para enunciar
+concordância ou não com o conteúdo do projeto de lei, sob pena de ocorrer a sanção tácita.
+
+Sanção designa o ato de competência exclusiva do Chefe de Governo por meio do qual ele
+declara sua concordância com o conteúdo do projeto de lei, transformando-o em lei
+propriamente dita. Bem se vê, desde logo, que a sanção é o divisor de águas entre o projeto e a
+lei: o Presidente sanciona um projeto de lei, integrando a vontade do Legislativo, transformando
+o projeto em lei já existente. É a sanção que transforma o projeto de lei em lei.
+
+
+            Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   30
+            www.estrategiaconcursos.com.br                                                       72
+
+                                          https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+A sanção pode ser classificada em expressa ou tácita. Realmente, a sanção demonstra
+aquiescência do Presidente com o entendimento do Legislativo, seja de forma expressa, seja de
+forma tácita, deixando transcorrer em branco o prazo constitucional.
+
+Já o veto – que designa a discordância do Chefe do Executivo em relação ao PL, no todo ou em
+parte - pode ser classificado quanto à extensão e aos motivos. De acordo com o primeiro critério,
+o veto pode ser classificado em total ou parcial. O veto parcial só pode atingir texto inteiro de
+artigo, inciso, alínea ou parágrafo. Perceba-se: ainda se adota o veto parcial no Brasil? Sim. Esse
+poder é ilimitado? Não. Se o Presidente desejar vetar apenas um inciso, poderá fazê-lo? Sim, mas
+terá que vetar todo o inciso, e não apenas as palavras ou expressões que lhe desagradem.
+
+Quanto aos motivos, o veto pode ser classificado em veto político ou veto jurídico. O veto (por
+motivo) jurídico se verifica quando o Presidente nega sanção a um projeto de lei por entendê-lo
+inconstitucional. Já o veto (por motivo) político é aquele em que o Chefe do Executivo nega sua
+sanção ao projeto por achá-lo contrário ao interesse público (ou seja, por motivo de mérito –
+conveniência e oportunidade).
+
+
+
+
+É preciso registrar, porém, que nem toda proposição legislativa submete-se à sanção (ou ao veto)
+do Presidente da República. Algumas espécies normativas produzem-se (ou podem produzir-se)
+sem a aquiescência (e até sem a participação) do Chefe do Executivo. Só há sanção ou veto para
+projetos de lei (ordinária ou complementar). Não existe essa fase (o Presidente não é consultado)
+para emendas constitucionais, leis delegadas, medidas provisórias (a não ser que sofram
+emendas no Congresso), decretos legislativos e resoluções.
+
+
+
+O principal efeito da sanção é transformar o projeto de lei em lei. Como vimos, contudo, esse ato
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      31
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+não convalida eventuais vícios do projeto, nem mesmo vício de iniciativa.
+
+O principal efeito do veto, no Brasil, é devolver a matéria à análise do Congresso Nacional
+(efeito meramente suspensivo). Realmente, o § 1º do art. 66 impõe ao Presidente da República a
+tarefa de, no prazo de até quarenta e oito horas depois de vetar o projeto, comunicar sua decisão
+– e os respectivos motivos – ao Presidente da Mesa do Congresso Nacional (que é o Presidente
+do Senado Federal).
+
+Ciente do veto, o Presidente do Senado deverá convocar sessão conjunta (Câmara + Senado)
+para deliberar sobre a manifestação presidencial. O que acontece se o Congresso não apreciar o
+veto no prazo de 30 dias? Sobrestar-se-ão todas as demais tramitações do Plenário do Congresso
+Nacional (CF, art. 66, § 3º). Trata-se do conhecidíssimo fenômeno do trancamento de pauta. O
+veto não apreciado tranca a pauta do Plenário do Congresso Nacional, e não das comissões do
+Congresso, nem do Plenário da Câmara dos Deputados ou do Senado Federal.
+
+Percebe-se, então, que o veto devolve a matéria para a deliberação do Poder Legislativo. Se o
+parlamento concordar com as razões do Presidente e acatar o veto, o projeto estará rejeitado.
+Se, porém, o Legislativo derrubar o veto presidencial, o projeto estará mantido, e nesse
+momento transformado em lei, seguindo para a próxima fase do procedimento comum ordinário
+(promulgação pelo Presidente da República).
+
+
+
+ATENÇÃO!!!
+
+A rejeição do veto pelo Congresso exige que assim se posicione a maioria absoluta dos
+Deputados E dos Senadores (se não for alcançada a maioria absoluta entre os membros de
+ambas as Casas, o veto estará mantido).
+
+
+
+Vale lembrar, ainda, que, após a EC nº 76/2013, a deliberação sobre o veto passou a ocorrer pelo
+voto aberto, e não mais voto secreto, de Deputados e Senadores.
+
+
+
+Características do veto
+
+
+
+        a) Relativo
+
+Diz-se que o veto, no Brasil, é relativo, porque pode ser derrubado pelo Congresso Nacional (por
+maioria absoluta). Aliás, isso é relevante até mesmo para definir em que momento o projeto de
+lei transforma-se em lei propriamente dita: se for sancionado, vira lei nesse exato momento; se
+for vetado, converte-se em lei no momento em que o veto for derrubado pelo Congresso.
+
+
+
+        b) Motivado
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    32
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Todos os atos têm que ter motivo (= causa), embora nem sempre seja exigida a motivação (=
+explicação, explicitação dos motivos). O veto deve ter motivo e motivação, pois o Presidente é
+vinculado a apontar os motivos pelos quais está vetando a deliberação legislativa.
+
+
+
+        c) Irretratável
+
+Diz-se que o veto é irretratável porque, uma vez aposto, não pode mais ser desfeito. Assim,
+quando o Presidente da República veta um projeto de lei, não mais é possível desvetá-lo. O
+máximo que pode fazer é rogar ao Congresso para que rejeite o veto do qual ele (Presidente) se
+arrependeu.
+
+No mesmo sentido, Pontes de Miranda ensinava que “o fato de se comunicar ao Senado Federal
+o veto, por si só, exaure o poder de aquiescer e integrar o projeto”.
+
+
+
+        d) Expresso
+
+Como o silêncio do Presidente da República, no prazo de quinze dias úteis, importa a sanção
+tácita do projeto de lei, chega-se à lógica conclusão de que o veto só pode ser exercido de
+forma expressa. Ademais, como o Presidente é obrigado a expor os motivos do veto, outra
+característica não poderia ser mais apropriada.
+
+
+
+        ATENÇÃO!!!
+
+Quando ocorre o veto parcial, a parte não vetada considera-se sancionada. Logo, ocorre uma
+cisão, uma separação do PL em dois “pedaços”: a parte sancionada vai ser logo promulgada e
+publicada, podendo até entrar em vigor (não precisa “esperar” que o Congresso delibere sobre
+a parte vetada). Já a parte vetada segue para uma nova análise do Congresso Nacional: se este
+aceitar o veto, a Lei continuará em vigor sem essas partes; se, porém, o Congresso Nacional
+rejeitar o veto (o que, lembre-se, ocorre por maioria absoluta), então essas partes originalmente
+vetadas serão transformadas em lei e enviadas ao Presidente da República para promulgação,
+passando a integrar a mesma lei original.
+
+
+
+Promulgação
+
+É o ato que declara que a ordem jurídica foi inovada. Em outras palavras: é o ato que declara (faz
+saber) que surgiu uma nova lei no ordenamento. Pode-se, para ter uma ideia mais concreta do
+que é a promulgação, dizer que se trata da própria montagem do texto final da lei, inclusive com
+a respectiva cláusula de sanção (“O Presidente da República faço saber [...]”). Assim, quando o
+Presidente recebe o projeto do Congresso, trata-se ainda de um projeto de lei. Com a sanção,
+surge uma nova lei, que terá seu texto final montado por meio da promulgação. Justamente por
+isso, a promulgação antecede a publicação.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     33
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+O Presidente dispõe de 48 horas para promulgar a lei. E se o Presidente da República recusar-se
+a promulgar o projeto de lei? A atribuição passará para o Presidente do Senado Federal, que
+disporá, igualmente, de 48 horas. E se ele também não promulgar a lei? Então, a competência
+passará para o Vice-Presidente do Senado Federal, que terá a obrigação constitucional de efetuar
+a promulgação.
+
+
+
+Publicação
+
+É a divulgação oficial do conteúdo da lei, verdadeira condição para que a norma possa ser
+conhecida, cumprida e exigida. A publicação é o ato que torna a lei potencialmente obrigatória.
+Diz-se potencialmente porque a lei pode ser obrigatória desde a sua publicação (vigência
+imediata), mas pode, também, começar a vigorar num momento posterior (vigência diferida ou
+adiada). Nesse último caso, o período em que a lei já publicada ainda não está em vigor
+chama-se vacatio legis.
+
+O período de vacatio legis é definido pelo próprio legislador, geralmente no último ou nos
+últimos artigos da lei (é a chamada “cláusula de vigência”), reservando-se a entrada em vigor
+imediata (“esta Lei entra em vigor na data de sua publicação”) às leis de pequena repercussão,
+como prevê a Lei Complementar nº 95, de 1998.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   34
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                      PROCESSO LEGISLATIVO
+
+Procedimento Comum Sumário (Urgência Constitucional)
+Depois de analisarmos como se dá a tramitação dos projetos de lei pelo procedimento comum
+ordinário (padrão), é hora de estudarmos outro caminho (procedimento) que os projetos de lei
+ordinária podem tomar dentro do Congresso Nacional: o procedimento da urgência
+constitucional (procedimento comum sumário).
+
+Legitimidade para requerer a urgência
+De acordo com o texto constitucional, somente o Presidente da República (na esfera federal,
+                                                          ==5460==
+
+
+
+
+obviamente) está autorizado a requerer ao Congresso Nacional que determinado projeto de lei
+tramite em caráter de urgência constitucional.
+
+Projetos em que pode ser requerida urgência
+Segundo a Constituição Federal (art. 64, § 1º), o Presidente da República só pode solicitar
+urgência nos projetos de lei de sua iniciativa, isto é, dele mesmo, Presidente. Assim, o Chefe do
+Executivo não pode requerer, por exemplo, que tramite em caráter de urgência projeto de lei de
+autoria de um Deputado Federal ou de um Senador.
+
+Também não é admitida a urgência em relação a projetos de código, em virtude da
+complexidade e extensão do seu objeto.
+
+Prazos
+Nos termos do art. 64, §§ 2º e 3º, da CF, os prazos aplicáveis para a discussão e votação de
+projetos de lei, quando há requerimento de urgência apresentado pelo Presidente da República,
+são de :
+
+       a)   45 dias para apreciação do projeto na Casa Iniciadora (que, nessa hipótese, será
+necessariamente a Câmara, pois se trata de projeto de iniciativa do Presidente da República);
+
+        b)      45 dias para apreciação na Casa Revisora (que, nesse caso, será sempre o Senado
+Federal);
+
+       c)  10 dias para apreciação, na Câmara, de eventuais emendas apresentadas pelo
+Senado Federal.
+
+Desde já, nota-se que o prazo constitucional máximo para a tramitação do projeto de lei em
+regime de urgência, no Congresso Nacional, é de 90 dias (45+45), se não houver emendas no
+Senado, ou 100 dias (45+45+10), caso haja tais modificações na Casa Revisora.
+
+E qual a consequência jurídica em caso de desrespeito, por parte do Congresso, a esses prazos
+constitucionais? Como não existe mais (felizmente) aprovação por decurso de prazo, a
+consequência será o trancamento de pauta da Casa responsável pelo descumprimento (isto é, da
+
+
+         Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   35
+         www.estrategiaconcursos.com.br                                                       72
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Casa que violou os prazos constitucionais).
+
+
+
+NÃO CONFUNDA!!!
+
+No caso de projeto de lei em regime de urgência constitucional, cada Casa tem 45 dias para
+apreciar a proposição, diferentemente do que ocorre com as medidas provisórias, em que o
+prazo de 45 dias refere-se à apreciação em ambas as Casas do Congresso Nacional.
+
+Atenção!!!
+
+A urgência constitucional (que tem esse nome porque é prevista na própria Constituição, art. 64,
+§§) não se confunde com as hipóteses de urgência regimental (previstas apenas nos regimentos
+internos das Casas, por vezes também referidas como “urgência urgentíssima”). O STF já foi
+questionado sobre a constitucionalidade (validade) da previsão dessas urgências regimentais, o
+que terminou sendo julgado constitucional.
+
+Vejamos as diferenças:
+
+
+                                         Urgência Constitucional                  Urgência Regimental
+
+
+Previsão                                 Constituição (art. 64, §§)               Regimentos internos de cada
+                                                                                  Casa
+
+
+Legitimidade para requerer               Chefe do Executivo                       Líderes partidários (depende
+                                                                                  da    previsão     de   cada
+                                                                                  regimento interno)
+
+
+Consequência                       do Estabelecimento de prazo Dispensam-se os pareceres
+requerimento                          para o Legislativo discutir e das comissões, de modo que
+                                      votar a matéria               o PL segue diretamente à
+                                                                    apreciação    em      Plenário
+                                                                    (depende     do    regimento
+                                                                    interno de cada Casa)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                   36
+        www.estrategiaconcursos.com.br                                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                     PROCESSO LEGISLATIVO
+
+Procedimento Comum Sumário (Urgência Constitucional)
+
+Característica
+O procedimento abreviado, previsto no inciso I do § 2º do art. 58 da CF, tem como principal
+característica dispensar a apreciação em Plenário, de modo que o projeto é discutido e votado
+apenas nas comissões.
+
+Veja a diferença: no procedimento ordinário, o projeto é discutido nas comissões (que emitem
+pareceres meramente opinativos) e depois discutido e votado em Plenário. Isso, porém, demora
+muito, em especial porque a pauta do Plenário de cada Casa (a chamada “Ordem do Dia”) é
+muito cheia de matérias. Por isso, quando um projeto tramita em caráter abreviado, ele pega um
+“atalho”, passando apenas pelas comissões.
+
+Objeto
+O chamado procedimento abreviado – chamado de “poder terminativo” pelo Regimento Interno
+do Senado Federal (RISF, art. 91) ou de “poder conclusivo” no Regimento Interno da Câmara dos
+Deputados (RICD, art. 28, II) – é utilizado nos casos previstos no Regimento Interno de cada Casa
+Legislativa. Por exemplo: no Senado Federal, tramitam em procedimento abreviado os projetos
+de lei de autoria de Senador (RISF, art. 91, III).
+
+Como isso é uma matéria que depende de cada regimento interno, pode até mesmo acontecer
+de que um projeto tramite em procedimento abreviado em uma Casa e em procedimento
+ordinário em outra.
+
+Pode um projeto que tramita em caráter de urgência constitucional ser submetido ao poder
+terminativo das comissões? Sim, nada impede a cumulação dos procedimentos sumário (fixação
+de prazo) com o abreviado (dispensa da discussão e votação em Plenário).
+
+No procedimento abreviado, a decisão tomada pela comissão (aprovação ou rejeição) se tornará
+definitiva, sem necessidade de apreciação do projeto em Plenário. Se, porém, no prazo
+regimental, houver recurso apresentado por 1/10 (10%) dos membros da Casa, a matéria
+precisará ser votada em Plenário, saindo do procedimento abreviado.
+
+Recurso
+Se alguns parlamentares da Casa em que o PL estiver tramitando discordarem da decisão das
+comissões (seja a decisão pela aprovação, seja pela rejeição), poderão, no prazo previsto no
+regimento interno, apresentar recurso. Esse recurso precisa ser assinado (subscrito) por 1/10 dos
+membros da Casa (9 Senadores ou 52 Deputados, conforme o caso), e seu pedido é de que a
+matéria seja apreciada em Plenário.
+
+Sendo apresentado recurso, o PL, na prática, “sai” do procedimento abreviado, voltando ao
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    37
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+procedimento comum ordinário.
+
+Em resumo: após a manifestação das comissões, abre-se para recurso, que pode ser interposto
+por 1/10 dos membros da Casa; se não houver recurso, a decisão das comissões (seja pela
+aprovação, seja pela rejeição) torna-se definitiva; se, porém, houver recurso, a matéria segue para
+nova apreciação no Plenário da Casa (“sai” do procedimento abreviado).
+
+
+
+Curiosidade:
+
+Você sabia que alguns regimentos internos não admitem o procedimento abreviado? Na Câmara
+Legislativa do Distrito Federal, por exemplo, não se prevê o procedimento abreviado, de modo
+que naquela Casa todas as matérias precisam ser apreciadas em Plenário. Como se trata de uma
+faculdade, uma possibilidade, mas não uma imposição constitucional, não há problema algum
+nisso.                                                   ==5460==
+
+
+
+
+Aprofundamento:
+
+É pelo fato de as comissões poderem até mesmo aprovar ou rejeitar projetos de lei
+(procedimento abreviado) que se diz que no Brasil se adota o sistema das comissões super-fortes,
+ou deliberantes, com inspiração no modelo italiano.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      38
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+     João Trindade Cavalcante Filho
+     Aula 11
+
+
+
+
+                                        PROCESSO LEGISLATIVO
+
+Procedimentos Especiais
+
+Emendas à Constituição
+O procedimento abreviado, previsto no inciso I do § 2º do art. 58 da CF, tem como principal
+característica dispensar a apreciação em Plenário, de modo que o projeto é discutido e votado
+apenas nas comissões.
+
+Iniciativa
+
+A iniciativa de leis ordinárias é atribuída, em geral, a qualquer Deputado (isoladamente), Senador
+(idem) ou Comissão (da Câmara, do Senado ou do Congresso Nacional), ao Presidente da
+República, aos Tribunais Superiores, ao Procurador-Geral da República e até mesmo ao povo (CF,
+art. 61, caput).
+
+Esse procedimento não acontece com a iniciativa de propostas de emendas à Constituição (PEC).
+De acordo com o rol taxativo (fechado) do art. 60, podem propor emendas à Constituição
+Federal:
+
+           a)      1/3 dos Deputados (=171 Deputados);
+
+           b)      1/3 dos Senadores (= 27 Senadores);
+
+           c)      o Presidente da República;
+
+         d)   a maioria absoluta (= mais da metade) das Assembleias Legislativas estaduais
+(incluindo a Câmara Legislativa do DF1), manifestando-se, cada uma delas, pela maioria relativa
+(= maioria simples) dos seus membros.
+
+
+
+
+               CUIDADO!
+
+
+
+               Não há iniciativa popular de emenda constitucional!
+
+            Realmente, por absoluta falta de previsão
+    constitucional, não há iniciativa popular de emendas à
+    Constituição Federal. Há doutrinadores – como José Afonso
+    da Silva – que defendem essa possibilidade, mas a corrente
+
+1
+  14 Assembleias, portanto. Há, até hoje, um só caso de PEC apresentada pelas assembleias estaduais; trata-se da
+PEC nº 47, de 2012, que buscava ampliar as competências legislativas estaduais, mas foi arquivada ao final da
+legislatura por não ter sido aprovada em tempo.
+
+
+           Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                39
+           www.estrategiaconcursos.com.br                                                                    72
+
+                                         https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+é francamente minoritária.
+
+
+
+            ATENÇÃO!!!
+
+         Ainda sobre o tema da iniciativa de PEC, o STF já
+decidiu, diversas vezes, que as hipóteses de iniciativa
+privativa não se aplicam às propostas de emenda à CF: o
+leading case foi a ADI nº 3.367/DF, em que se questionava a
+criação de órgão do Poder Judiciário (Conselho Nacional de
+Justiça) por PEC de iniciativa parlamentar.
+
+        Na     esfera    estadual/distrital,   contudo,    a
+jurisprudência do STF considera que não se pode, por meio
+de PEC, “driblar” a iniciativa privativa do Governador para
+criar órgãos no Executivo ou dispor sobre regime jurídico
+dos servidores públicos (ex: STF, Pleno, ADI nº 5.075/DF).
+
+
+
+
+Definição da Casa Iniciadora
+
+Assim como ocorre com os projetos de lei, as propostas de emenda à Constituição tramitam por
+ambas as Casas do Congresso Nacional, podendo ser propostas em qualquer uma delas, de
+acordo com o legitimado que a inicia.
+
+Assim, se a proposta nascer da vontade de 1/3 dos Deputados, terá início, obviamente, na
+Câmara dos Deputados, funcionando o Senado Federal como Casa Revisora. Ao revés, se for
+proposta de 1/3 dos Senadores, a situação se inverte, e a PEC começará a tramitar no Senado
+Federal, funcionando a Câmara dos Deputados como Casa Revisora. No caso de PEC de
+iniciativa do Presidente da República, a Casa Iniciadora será a Câmara, ao passo que, no caso de
+PEC proposta pelas Assembleias Legislativas, caberá ao Senado o papel de se pronunciar
+primeiramente sobre a PEC.
+
+
+
+Número de turnos
+Enquanto as demais proposições legislativas só precisam, em regra, ser aprovadas em um turno
+em cada Casa do Congresso, as propostas de emenda à Constituição devem ser apreciadas por
+cada Casa duas vezes (dois turnos), totalizando quatro votações. A proposta será considerada
+aprovada se for acatada em todas as quatro votações. Perdendo em uma delas, estará rejeitada e
+será arquivada, expondo-se à limitação do § 5º do art. 60, adiante explicada.
+
+Perceba-se que os turnos devem ser consecutivos, isto é, primeiro vota-se a PEC em dois turnos
+na Casa Iniciadora; se for aprovada, segue para votação também em dois turnos na Casa
+Revisora.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   40
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+A PEC pode sofrer emendas? Sim, como qualquer proposição legislativa, a PEC também pode
+sofrer emendas. Elas precisam, porém, ser subscritas por 1/3 dos Deputados (se a proposição
+estiver tramitando na Câmara dos Deputados) ou por 1/3 dos Senadores (caso a PEC esteja no
+Senado Federal).
+
+
+
+APROFUNDAMENTO – os interstícios
+
+Não há, na Constituição, exigência de um lapso temporal – interstício – entre os turnos de
+votação, mas essa salutar providência é prevista em sede regimental2.
+
+Questiona-se sobre a possibilidade de superação dessa norma regimental, com a chamada
+“quebra de interstício” ou “calendário especial” (votação dos dois turnos da PEC sem respeitar o
+intervalo regimental). Há quem sustente tratar-se a questão de tema meramente regimental,
+verdadeira matéria interna corporis, sobre a qual o Parlamento seria soberano para deliberar.
+Com essa tese, aliás, alinhou-se o STF, no julgamento da ADI nº 4.425/DF, quando ficou decidido
+que:
+
+                  “A Constituição Federal de 1988 não fixou um intervalo temporal mínimo entre
+          os dois turnos de votação para fins de aprovação de emendas à Constituição (CF, art. 62,
+          § 2º), de sorte que inexiste parâmetro objetivo que oriente o exame judicial do grau de
+          solidez da vontade política de reformar a Lei Maior. A interferência judicial no âmago do
+          processo político, verdadeiro locus da atuação típica dos agentes do Poder Legislativo,
+          tem de gozar de lastro forte e categórico no que prevê o texto da Constituição Federal.
+          Inexistência de ofensa formal à Constituição brasileira.”3.
+
+Dessa forma, pode-se dizer que, à luz da jurisprudência do STF, não há inconstitucionalidade em
+aprovar uma PEC em dois turnos na mesma sessão, por exemplo, sendo isso uma questão interna
+corporis. Na doutrina, porém, há quem sustente que o intervalo mínimo entre os dois turnos
+(interstício) é norma constitucional implícita (posição de Gabriel Dezen Júnior e Heraldo Pereira
+de Carvalho), ou até mesmo uma norma “interposta” (norma do Regimento, mas que concretiza
+a Constituição, posição de Leonardo Augusto Barbosa).
+
+Para fins de provas de concurso, não há dúvidas: siga a posição do STF, de que eventual
+desrespeito ao interstício não gera inconstitucionalidade, tratando-se de mera questão interna
+corporis.
+
+
+
+Quórum
+
+O quórum exigido para a aprovação de emendas à Constituição é substancialmente maior que o
+necessário para aprovar as demais proposições legislativas. Enquanto para as leis ordinárias basta
+o apoio da maioria dos votos dos presentes (maioria simples ou relativa), e para aprovar leis
+2
+    O Regimento Interno do Senado Federal dispõe que o “interstício entre o primeiro e o segundo turno será de, no mínimo, cinco dias úteis”
+    (art. 362). Já o Regimento da Câmara prevê que: “A proposta será submetida a dois turnos de discussão e votação, com interstício de cinco
+    sessões” (art. 202, § 6º).
+3
+    STF, Pleno, ADI nº 4.425/DF, Relator Ministro Luiz Fux, DJe de 18.12.2013.
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                                             41
+          www.estrategiaconcursos.com.br                                                                                                 72
+
+                                             https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+complementares exige-se a maioria do total de membros da Casa (maioria absoluta, mais de 50%
+do total), as PECs só podem ser consideradas aprovadas se obtiverem pelo menos 3/5 (=60%) do
+total de votos dos membros da Casa em que se dá a votação.
+
+Isso significa que são necessários votos favoráveis de pelo menos 49 Senadores e 308
+Deputados, sem o que a proposta será considerada rejeitada, ainda que não haja nenhum voto
+“não”.
+
+Essa exigência de quórum explica-se pela necessidade de evitar que maiorias eventuais tenham o
+poder de alterar a Constituição.
+
+
+
+Irrepetibilidade absoluta na mesma sessão legislativa
+
+A PEC rejeitada ou havida por prejudicada não pode ter seu conteúdo objeto de nova proposta
+na mesma sessão legislativa. É o que se depreende do § 5º do art. 60: “A matéria constante de
+proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta
+na mesma sessão legislativa”.
+
+Trata-se de uma aplicação do princípio da irrepetibilidade que se aplica aos projetos de lei
+rejeitados (art. 67), só que muito mais rígida: aqui, a PEC não pode ser reeditada na mesma
+sessão legislativa em hipótese alguma. A irrepetibilidade na mesma sessão legislativa é absoluta,
+ao contrário do que ocorre com os projetos de lei, em que se cuida de uma proibição relativa,
+que pode ser derrubada com o apoio da maioria absoluta dos membros de qualquer das Casas
+do Congresso.
+
+
+                                      Projeto de Lei                      PEC
+
+
+
+          Irrepetibilida              Sim                                 Sim
+ de na mesma sessão
+ legislativa
+
+
+
+            Previsão                  Art. 67                             Art. 60, § 5º
+
+
+
+          Característic         Relativa (pode ser                        Absoluta
+ a da irrepetibilidade derrubada com o apoio da
+                        maioria    absoluta   dos
+                        membros de qualquer das
+                        Casas)
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    42
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+CUIDADO!!!
+
+O STF já decidiu, todavia, que a irrepetibilidade se aplica apenas à proposta de emenda que foi
+rejeitada ou tida por prejudicada (a PEC principal), e não àquela que foi objeto de substitutivo
+que restou rejeitado. Com efeito, se é proposta uma emenda, na forma de um substitutivo, e
+este é rejeitado, a PEC original volta a tramitar normalmente, podendo ser imediatamente
+votada. Não se aplica a irrepetibilidade, já que esta só incide quando a PEC principal é rejeitada.
+Por exemplo: foi apresentada a PEC A, que recebe o Substitutivo B; em Plenário, o Substitutivo B
+é rejeitado; a PEC A pode ser votada na mesma sessão? Sim. Eis o precedente: STF, Pleno, MS
+22.503/DF, Relator Ministro Marco Aurélio, DJ de 06.06.1997.
+
+
+
+Inexistência da fase de deliberação executiva
+
+Como já afirmamos, ao tratar do procedimento comum ordinário, a fase de deliberação executiva
+(sanção ou veto) só existe na tramitação de projetos de lei (ordinária ou complementar). Logo,
+não existe a fase de sanção ou veto no caso das propostas de emenda à Constituição – que, uma
+vez aprovadas, seguem direto à promulgação e publicação.
+
+
+
+Promulgação
+
+Como a PEC não é encaminhada ao Presidente da República (pois não há sanção nem veto), a
+promulgação não será tarefa do Chefe de Governo. Na verdade, segundo o texto constitucional,
+a “emenda à Constituição será promulgada pelas Mesas da Câmara dos Deputados e do Senado
+Federal, com o respectivo número de ordem” (art. 60, § 3º). A CF silencia sobre quem deve
+publicar a EC, por isso entendemos que deva ser essa competência atribuída à mesma
+autoridade que a promulga (Mesas da CD e do SF).
+
+
+
+Leis complementares
+Objeto (matéria)
+
+Não é qualquer matéria que pode ser regulamentada por meio de lei complementar. É dizer: o
+legislador não é livre para definir quais os casos em que regulamentará o tema por meio de lei
+complementar. Só se deve aprovar lei complementar nas hipóteses taxativamente previstas no
+texto da Constituição.
+
+Assim, por exemplo, o § 3º do art. 14 da CF prevê que “são condições de elegibilidade, na forma
+da lei (...)”: então, a lei a regulamentar essa matéria deve ser ordinária. Ao revés, o mesmo art. 14
+(já no § 9º) dispõe que “lei complementar estabelecerá outros casos de inelegibilidade [...]”:
+nesse caso, a matéria é tratada por lei complementar, pois há expressa previsão constitucional.
+Realmente, o STF já decidiu que, “quando a Constituição exige lei complementar para disciplinar
+determinada matéria, essa disciplina só pode ser feita por essa modalidade normativa” (Pleno,
+ADI nº 2.436-MC/DF, Relator Ministro Moreira Alves, DJ de 9/5/2003).
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        43
+        www.estrategiaconcursos.com.br                                                            72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Quórum
+
+O quórum exigido para a aprovação de leis complementares é substancialmente mais elevado
+que o necessário para se aprovar uma lei ordinária. Na realidade, no procedimento comum
+ordinário, o quórum de aprovação é de maioria simples (relativa) – art. 47 –, ao passo que, na
+tramitação dos projetos de lei complementar, exige-se a aprovação por maioria absoluta. A
+maioria absoluta não varia de acordo com o número de presentes. E é um número sempre maior
+que a maioria simples, ou pelo menos igual a ele.
+
+Isso significa que, se uma lei foi aprovada como complementar (maioria absoluta),
+necessariamente também conseguiria ser aprovada se fosse uma lei ordinária (maioria simples),
+mas a recíproca não é verdadeira.
+
+Façamos uma tabela comparando as duas votações (lei ordinária, maioria simples; lei
+complementar, maioria absoluta) em situações hipotéticas no Senado Federal
+
+(lembrando que o total de Senadores, atualmente, é igual a 81, e imaginando que todos os votos
+sejam sim ou não, isto é, caso não haja abstenções):
+
+
+
+
+         Senadore          Maioria simples         Maioria
+ s presentes      (relativa)               absoluta
+
+
+            50                     26                             41
+
+
+            60                     31                             41
+
+
+            70                     36                             41
+
+
+            81                     41                             41
+
+
+Como se percebe, a maioria absoluta não varia de acordo com o número de presentes. E é um
+número sempre maior que a maioria simples, ou pelo menos igual a ele. Simbolicamente: MA ≥
+MS
+
+Isso significa que, se uma lei foi aprovada como complementar (maioria absoluta),
+necessariamente também conseguiria ser aprovada se fosse uma lei ordinária (maioria simples),
+mas a recíproca não é verdadeira.
+
+
+
+        Divergência doutrinária!
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   44
+        www.estrategiaconcursos.com.br                                                       72
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Quanto à hierarquia das leis complementares, existe grande controvérsia na doutrina. Uma
+corrente clássica defende que as leis ordinárias seriam inferiores às leis complementares. Já a
+corrente mais moderna, capitaneada por Celso Bastos, considera que tanto as leis
+complementares quanto as ordinárias encontram-se no mesmo patamar hierárquico, apenas
+tratam de matérias distintas.
+
+Defendem a teoria clássica, por exemplo: Pontes de Miranda, Manoel Gonçalves Ferreira Filho,
+Geraldo Ataliba, Alexandre de Moraes. Já a favor da teoria moderna posicionam-se, entre outros;
+Michel Temer e Celso Bastos.
+
+
+
+
+                                                         ==5460==
+
+
+
+
+O STF perfilhou a teoria moderna (não há hierarquia entre leis complementares e leis ordinárias),
+como se pode concluir a partir do julgamento do RE nº 377.457/PR (Pleno, Relator Ministro
+Gilmar Mendes).
+
+
+
+Conflitos entre lei ordinária e lei complementar
+
+Primeiro conflito: lei ordinária invade o assunto de lei complementar
+
+Pode acontecer (e acontece!) de o Congresso Nacional (por erro ou por má interpretação)
+aprovar uma lei ordinária para tratar de um assunto que a Constituição reserva para a lei
+complementar. Nesse caso, a lei ordinária será inválida, inconstitucional, porque violou a regra
+constitucional que reserva a matéria ao tratamento por lei complementar (na teoria clássica, a lei
+ordinária seria declarada ilegal).
+
+Deverá, então, ser declarada inconstitucional pelo Poder Judiciário, por provocação de qualquer
+prejudicado pela legislação, ou, especificamente, pelo STF, em ação direta de
+inconstitucionalidade (CF, art. 102, I, a), por provocação de qualquer dos legitimados para tanto
+(CF, art. 103, I a IX).
+
+Então veja: se uma lei ordinária tratar de um assunto reservado à lei complementar, não há saída:
+essa parte da lei será inconstitucional.
+
+Segundo conflito: lei complementar invade assunto de lei ordinária
+
+Também pode ocorrer de o Congresso regulamentar por meio de lei complementar um assunto a
+ela não reservado pelo constituinte, ou seja, aprovar uma lei complementar que invade o assunto
+de lei ordinária. Ao se adotar a lógica geral citada no item anterior, a lei complementar deveria
+ser declarada inconstitucional, por violar a regra constitucional que deixou o assunto à disposição
+da lei ordinária.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      45
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Todavia, por uma questão de utilidade, a lei complementar será aproveitada. Realmente, se a
+normatização foi aprovada por maioria absoluta, então fatalmente também teria sido aprovada
+por maioria simples. Nada impede, portanto, que se aproveite a manifestação de vontade do
+Legislativo em aprovar aquela normatização. A lei complementar, nesse caso, será considerada
+válida, constitucional.
+
+Entretanto, caso a lei ficasse valendo como complementar, estar-se-ia permitindo ao legislador
+dar maior estabilidade a um assunto ao qual o constituinte não desejou conferir tal atributo. Por
+isso, a lei complementar aprovada com invasão de assunto reservado à lei ordinária é válida (é
+constitucional), mas com força de lei ordinária (com status de lei ordinária): será uma lei
+formalmente complementar (terá nome e número de lei complementar), mas materialmente
+ordinária (terá status
+de lei ordinária, valerá como se fosse uma lei ordinária, podendo até ser revogada por outra lei
+ordinária).
+
+Essa é a única hipótese em que uma lei ordinária pode revogar uma lei (formalmente)
+complementar: quando esta (complementar) tiver invadido o assunto da lei ordinária. E poderá
+revogar porque, em tais hipóteses, a lei é apenas formalmente complementar: na prática, vale
+como se fosse uma lei ordinária, podendo ser revogada por outra lei ordinária (STF, RE nº
+377.457/PR).
+
+
+
+Diferenças entre lei complementar e lei ordinária:
+
+
+
+
+                                   MATÉRI
+            LEI                                           QUÓRUM                     INVASÃO
+                        A
+
+
+       Lei                         Taxativa            Maioria            Lei     complementar
+ complementar                                  absoluta           que invade assunto de lei
+                                                                  ordinária é válida, mas com
+                                                        Mais   da força de lei ordinária
+                                               metade do total de
+                                               membros
+                                               (invariável)
+
+
+         Lei                       Residual            Maioria             Lei ordinária que
+ ordinária                                     simples ou relativa invade    assunto de lei
+                                               – maioria dos votos complementar é inválida e
+                                               dos presentes       inconstitucional
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       46
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+Leis delegadas
+A elaboração das leis delegadas é responsabilidade do Presidente da República, por delegação
+do Congresso Nacional, verdadeiro detentor da função legislativa ordinária. Assim, a delegação
+legislativa deve ser solicitada pelo Chefe do Executivo, por meio de mensagem enviada ao Poder
+Legislativo. A delegação legislativa – como qualquer forma de legislação pelo Executivo – é
+tingida pela marca da excepcionalidade. Isso induz duas características: a temporariedade (afinal,
+a delegação se exaure na elaboração da lei objeto de transferência temporária de competência,
+e o Legislativo pode sempre, a qualquer momento, legislar sobre a matéria) e a restrição material.
+
+Com efeito, a delegação de função típica não é a regra no esquema constitucional de separação
+dos Poderes (CF, art. 2º). Por isso, há determinadas matérias que não podem ser objeto de
+delegação, assim como existem temas que não podem ser veiculados por medida provisória (art.
+62, § 1º, entre outros dispositivos).
+
+Segundo o § 1º do art. 68 da CF, não podem ser objeto de delegação as matérias a seguir
+enumeradas.
+
+         1. Matérias de competência exclusiva do Congresso Nacional ou de competência
+privativa da Câmara dos Deputados ou do Senado Federal (art. 68, § 1º, caput).
+
+        2. Matérias reservadas à regulamentação por lei complementar (art. 68, § 1º, caput).
+
+      3. Organização do Poder Judiciário e do Ministério Público e as garantias dos seus
+membros (art. 68, § 1º, I).
+
+        4. Nacionalidade, cidadania, direitos individuais, políticos e eleitorais (art. 68, § 1º, II).
+
+        5. Planos plurianuais, diretrizes orçamentárias e orçamentos (art. 68, § 1º, III).
+
+Segundo o § 3º do art. 68, a delegação legislativa “terá a forma de resolução do Congresso
+Nacional, que especificará seu conteúdo e os termos de seu exercício”. Assim sendo, a
+mensagem presidencial solicitando a delegação converter-se-á em verdadeira iniciativa de
+resolução do Congresso, que será votada em sessão conjunta do Congresso.
+
+Quando aprova a resolução, o Congresso Nacional deverá especificar os termos e limites da
+delegação, isto é, quando delega a tarefa de legislar ao Presidente da República, o Legislativo
+deverá especificar: a) sobre qual matéria o Chefe do Executivo poderá legislar por delegação; b)
+qual o prazo que o Presidente terá para editar a lei delegada; c) se elaborada a lei delegada, será
+necessária a aprovação posterior do Congresso.
+
+Há dois tipos de delegação:
+
+        a) delegação própria (ou típica): o Congresso Nacional, ao delegar a tarefa de legislar ao
+Presidente da República, poderá prever que a lei delegada deva, antes de ser promulgada, ser
+aprovada pelo Plenário do Parlamento. Quando essa exigência não constar expressamente da
+resolução, não será necessária a apreciação da lei delegada pelo Congresso. Nesses casos, uma
+vez elaborada a lei delegada pelo Presidente, ela será diretamente promulgada e publicada, sem
+necessidade de votação nova no Congresso Nacional. É a chamada delegação própria (= típica);
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               47
+        www.estrategiaconcursos.com.br                                                                   72
+
+                                      https://t.me/KakashiAssinaturasBot
+    João Trindade Cavalcante Filho
+    Aula 11
+
+
+
+       b) delegação imprópria (ou atípica): o Congresso pode exigir que a lei delegada só seja
+promulgada se for aprovada pelo Plenário do Parlamento. Nesses casos, fala-se em delegação
+imprópria. Para tanto, será preciso que tal necessidade de aprovação pelo Congresso esteja
+expressamente prevista na resolução. Sobre o tema, a Constituição dispõe que: “Se a resolução
+determinar a apreciação do projeto pelo Congresso Nacional, este a fará em votação única,
+vedada qualquer emenda”. Como se vê, ao deliberar sobre o projeto, o Congresso não pode
+emendar o projeto: ou o aprova ou o rejeita4.
+
+
+
+Decretos legislativos e resoluções
+Os decretos legislativos e as resoluções guardam entre si várias semelhanças e algumas
+diferenças. Por isso mesmo, preferimos tratar de ambas as espécies conjuntamente, deixando
+para depois as distinções mais relevantes.
+
+É importante notar que a Constituição nada estabelece acerca da tramitação dos decretos
+legislativos e das resoluções, de modo que a regulamentação da matéria é dada de forma quase
+exclusiva, pela doutrina e pelos regimentos internos das Casas Legislativas e do Congresso
+Nacional.
+
+Normalmente, decretos legislativos e resoluções possuem hierarquia legal, isto é, situam-se no
+mesmo patamar hierárquico das leis (ordinárias, complementares e delegadas). A distinção entre
+decretos legislativos e resoluções e as leis é apenas a matéria de que cada espécie trata, mas o
+status que ocupam na hierarquia do ordenamento jurídico é igual.
+
+Tanto no caso de decreto legislativo quanto em relação à resolução não existe a fase de
+deliberação executiva. Não há sanção nem veto em nenhuma das duas espécies normativas.
+Realmente, só cabe ao Presidente da República sancionar ou vetar projetos de lei (arts. 84, IV e V,
+e 66), o que não abrange os decretos legislativos e resoluções, que, uma vez aprovados, seguem
+direto para a promulgação.
+
+Distinções entre decretos legislativos e resoluções
+
+É tradicional na doutrina definir o decreto legislativo como sendo o ato normativo primário
+editado pelo Congresso Nacional, sem a participação do Presidente da República, para
+regulamentar as matérias de competência exclusiva do Poder Legislativo, e geralmente com
+efeitos externos. Já as resoluções são normalmente definidas como atos normativos primários de
+cada Casa do Congresso Nacional, isoladamente, com efeitos internos (interna corporis), que
+servem para regulamentar as matérias de competência privativa da Câmara dos Deputados ou do
+Senado Federal.
+
+Competência
+
+Enquanto os decretos legislativos são editados pelo Congresso Nacional, como um todo (ambas
+as Casas, conjuntamente), as resoluções são atos de cada Casa do Congresso, isoladamente (atos
+da Câmara dos Deputados, sozinha, ou do Senado Federal, sozinho).
+
+4
+ Existe a possibilidade, porém, de destaques supressivos, a fim de excluir do projeto de lei delegada algum tema
+que extrapolou os limites da delegação.
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                       48
+          www.estrategiaconcursos.com.br                                                                           72
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Embora haja exceções a essa regra, é um parâmetro seguro para diferenciar, num primeiro
+momento, essas duas espécies normativas.
+
+Matéria
+
+Essa diferença já apontada traz, por conseguinte, outra distinção: a matéria
+(conteúdo) a ser tratada individualmente por esses dois instrumentos normativos.
+
+
+
+Efeitos
+
+Mais uma vez, estamos diante de uma regra geral, que admite exceções, é verdade, mas que
+pode ser útil no estudo da matéria.
+
+
+                           Decretos
+                                                   Resoluções
+                  Legislativos
+
+
+       Co         Congres          Câmara ou Senado (exceto nos casos de delegação
+ mpetência so Nacional    legislativa, em que a resolução é do Congresso)
+
+
+            Ma             Art. 49 e          Arts. 51 e 52; art. 68; art. 155, § 1º, IV, e
+ téria            art. 62, § 3º      § 2º, V, b
+
+
+            Efe            Externos             Internos (interna corporis), exceto alguns casos, como
+ itos                                   delegação legislativa, matéria tributária, suspensão da eficácia
+                                        da lei declarada inconstitucional pelo STF em controle difuso
+                                        etc.
+
+
+        *     Observação. Há casos excepcionais de resoluções que possuem efeitos externos:
+delegação legislativa (art. 68, § 2º); matéria tributária (art. 155, § 1º, IV; § 2º, IV e V, b); suspensão
+da eficácia de lei declarada inconstitucional pelo STF em controle difuso (art. 52, X), entre outras.
+
+
+
+Medidas provisórias
+Pode-se conceituar medida provisória como um ato normativo primário, excepcional no quadro
+da separação de Poderes, editado pelo Presidente da República em matérias relevantes e
+situações de urgência, e sujeita a condição resolutiva (aprovação do Congresso Nacional).
+Primeiramente, fica claro que a medida provisória é um ato normativo primário, isto é, retira seu
+fundamento de validade diretamente da Constituição; pode criar direitos e obrigações; tem, no
+dizer da Constituição, força de lei (art. 62, caput). Não é lei, pois nela só se transformará se for
+aprovada pelo Congresso Nacional; mas, enquanto isso, vale como se lei fosse. Dito de outra
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)               49
+          www.estrategiaconcursos.com.br                                                                   72
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+forma: é um projeto de lei que já vale como lei.
+
+Ademais, está sujeita a condição resolutiva. Editada pelo Presidente da República, deve ser
+imediatamente publicada e remetida ao Congresso para apreciação. A partir daí, começará a
+correr o prazo de validade (ou melhor, de vigência) da MP (sessenta dias, prorrogáveis por mais
+sessenta). Se, nesse período, o Congresso rejeitar a medida ou não a apreciar, o ato deixará de
+produzir efeitos (condição resolutiva). Caso, porém, a medida seja votada e aprovada pelo
+Congresso, pode-se dizer, grosso modo, que deixará de ser uma medida provisória para se
+transformar em lei, definitivamente (quer dizer, até que seja revogada por outra lei).
+
+Por fim, deve ficar claro que a medida provisória, uma espécie de legislação pelo Executivo, não
+é a regra no esquema da separação de Poderes. Realmente, a função de legislar é prerrogativa
+principal do Legislativo. Qualquer ato editado pelo Presidente da República no exercício da
+função legislativa, ou com força de lei (lei delegada, medida provisória, decreto autônomo),
+configura uma exceção, e como exceção deve ser interpretado (ou seja, deve ser encarado de
+forma restritiva).
+
+Pressupostos de validade
+
+A medida provisória, com a natureza excepcional que tem, só deve (ou deveria) ser utilizada pelo
+Presidente da República em situações absolutamente (permita-se a repetição) excepcionais.
+
+Por isso mesmo, as medidas provisórias, no Brasil, só podem ser utilizadas para tratar de matérias
+relevantes, importantes, fundamentais. É inconstitucional, por violação ao art. 62 da Constituição,
+medida provisória que trate, por exemplo, de matérias secundárias, como instituição de loteria
+para auxiliar os clubes de futebol (como infelizmente já tivemos).
+
+Contudo, existe outro pressuposto constitucional para a edição de MPs que deve ser preenchido
+cumulativamente com aquele já citado (relevância): é a urgência. Com efeito, o normal é que o
+Presidente da República, como detentor da iniciativa de projetos de lei (art. 61, caput e § 1º),
+remeta as matérias que julgar pertinentes, de regulamentação ao Congresso, por meio de
+projeto de lei. Nos casos em que considere essa aprovação absolutamente urgente, poderá
+remeter o projeto com a mensagem de urgência, o que fará com que o Legislativo delibere sobre
+o projeto no prazo máximo de 100 dias (descontados os períodos de recesso) – ver art. 64, §§ 2º
+a 4º. Apenas nos casos em que nem mesmo esse prazo de 100 dias pudesse ser respeitado é que
+o Presidente estaria autorizado a editar medidas provisórias, com vigência imediata.
+
+Em um primeiro momento, o Supremo Tribunal Federal entendeu que, por se tratar de ato
+político, a medida provisória não se submeteria à análise do Judiciário, quanto aos pressupostos
+de relevância e urgência. Numa evolução jurisprudencial, a Corte passou a entender que, embora
+os conceitos de relevância e urgência sejam discricionários, pode a medida provisória ser
+declarada inconstitucional, quando evidentemente não preenchesse os pressupostos
+constitucionais. Porém, essa apreciação deve resguardar-se a casos excepcionais (cf. Pleno,
+ADI-MC nº 4.048/DF, Relator Ministro Gilmar Mendes).
+
+Competência
+
+A edição de medidas provisórias é atribuição exclusiva do Presidente da República, na qualidade
+de chefe de governo (Chefe do Executivo). Segundo a doutrina majoritária e a jurisprudência
+predominante, governadores e prefeitos podem editar MP, desde que haja previsão expressa na
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      50
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+respectiva constituição estadual ou lei orgânica municipal (e desde que respeitado o mesmo
+regramento previsto na Constituição Federal).
+
+Limitações materiais
+
+Como ato de natureza excepcional que é, a MP não pode tratar de quaisquer temas. Ao
+contrário, há uma série de restrições materiais esparsas na CF, ou até mesmo implícitas:
+
+
+                                              Regulamentação do Fundo Social de         ADCT,
+                                        Emergência                              art. 73
+
+
+
+                                               Exploração de gás canalizado pelos                                  Art. 25, §
+                                        Estados-membros                           2º
+
+
+         Matéri
+ as em que não                 Veda             Regulamentação      de     artigo    da                            Art. 246
+ pode        ser ções                   Constituição cuja redação foi alterada entre 1º
+ editada                                de janeiro de 1995 e 11 de setembro de 2001
+                               explí
+ medida          citas
+ provisória
+                                                Nacionalidade, cidadania,                    partidos              Art. 62, §
+                                        políticos e Direito Eleitoral                                   1º, I, a
+
+
+
+                                               Direito Penal,           Processual       Penal     e               Art. 62, §
+                                        Processual Civil                                                1º, I, b
+
+                                                 Observação: Direito Civil pode!
+
+
+
+                                                 Garantias dos membros do Judiciário e                             Art. 62, §
+                                        do MP                                                           1º, I, c
+
+
+
+                                                Matéria    orçamentária    (só    pode           Art. 62, §
+                                        autorizar    a     abertura     de     créditos 1º, I, d
+                                        extraordinários: ADI nº 4.048/DF)
+                                                                                                 Art. 167,
+                                                                                        § 3º
+
+
+
+                                                 Matéria reservada a lei complementar                              Art. 62, §
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                               51
+        www.estrategiaconcursos.com.br                                                                                   72
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                                                                                      1º, III
+
+
+
+                                                Detenção         ou    sequestro      de     ativos             Art. 62, §
+                                        financeiros                                                   1º, II
+
+
+
+                                              Matéria constante de projeto de lei                               Art. 62, §
+                                        pendente de sanção ou veto do Presidente  1º, IV
+
+
+
+                               Veda            Matérias de iniciativa exclusiva dos          Arts. 96,
+                    ções                demais Poderes                              93, 51, IV, e 127
+
+                               Implí
+                    citas
+
+
+
+                                                Matérias de decreto legislativo ou         Arts. 49,
+                                        resolução                                  51 e 52
+
+
+
+
+CUIDADO!!!
+
+Há doutrinadores de direito penal que defendem poder uma MP tratar de matéria penal, caso o
+regramento seja benéfico ao réu. Esse entendimento é inaceitável, do ponto de vista
+constitucional. Em primeiro lugar, porque fere frontalmente a alínea b do inciso I do § 1º do art.
+62 da CF. E, além disso, porque traz indevidamente para a lógica da validade dos atos
+normativos uma questão que só diz respeito à sua aplicabilidade temporal. Expliquemos: uma
+coisa é uma lei válida ser retroativa porque benéfica ao réu (CF, art. 5º, XL); outra coisa, inviável, é
+uma lei inválida ser aceita porque benéfica ao réu. Há até mesmo autores que citam um
+precedente do STF admitindo essa possibilidade (STF, Pleno, RE 254.818, Relator Ministro
+Sepúlveda Pertence, julgado em 08.11.2000), mas que é anterior a existência dessa vedação
+expressa, que foi incluída pela EC nº 32, de 2001. Costuma-se citar, como pretenso exemplo de
+MP em matéria penal, a chamada “abolitio criminis temporária” trazida pelas diversas MPs que
+alteraram o Estatuto do Desarmamento (Lei nº 10.826/03), para prorrogar o prazo de entrega de
+armas de fogo, com garantia de não punição. Apesar disso, não se trata de MP em matéria penal.
+O que as MPs alteraram foi a parte administrativa do Estatuto (prazo de regularização das armas
+de fogo, constantes dos arts. 30 e 32), e não os dispositivos penais dessa norma (o Capítulo IV da
+Lei, cujos arts. 12 a 21 tratam dos crimes e das penas, não foi alterado). Logo, não se pode citar
+esse exemplo como um pretenso precedente de MP em matéria penal. O que se tem, na
+verdade, é um caso de MP sobre matéria administrativa, mas com reflexos penais, e não uma MP
+sobre direito penal.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)                            52
+        www.estrategiaconcursos.com.br                                                                                72
+
+                                       https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Medida provisória pode criar tributos ou majorar-lhes a alíquota?
+
+Sim, exceto para aqueles tributos que tenham de ser instituídos por lei complementar (CF, art.
+154, c/c/ art. 62, § 1º, III). O § 2º do art. 62 afirma que “Medida provisória que implique
+instituição ou majoração de impostos, exceto os previstos nos arts. 153, I, II, IV, V, e 154, II, só
+produzirá efeitos no exercício financeiro seguinte se houver sido convertida em lei até o último
+dia daquele em que foi editada”.
+
+Efeitos
+
+A medida provisória é, ao mesmo tempo, ato normativo (tem força de lei) e proposição legislativa
+(submetida à apreciação do Congresso Nacional, que pode aprová-la com ou sem emendas, ou
+rejeitá-la). Logo, produz, segundo a explicação de Paulo Gustavo Gonet Branco, dois efeitos
+básicos: inova a ordem jurídica imediatamente (tem força de lei, vale como lei imediatamente), e
+provoca o Congresso Nacional a deliberar sobre o assunto (tramita como proposição legislativa,
+sujeita inclusive a emendas).
+
+Prazos
+
+Quanto às medidas provisórias, é preciso destacar a existência de dois prazos diferentes que
+correm em paralelo:
+
+          a)     um prazo de vigência, que é de 60 dias, prorrogáveis automaticamente por mais
+60;
+
+       b)   um prazo de trancamento de pauta do Congresso, que corresponde a 45 dias
+improrrogáveis.
+
+
+
+Esses dois prazos correm em paralelo, de forma independente, e têm o mesmo termo inicial: a
+edição da MP. O término de cada um deles produz diferentes efeitos jurídicos:
+
+        a)   escoado o prazo de vigência da MP, sem apreciação do Congresso, considera-se
+que ela perdeu os efeitos: foi tacitamente rejeitada pelo Legislativo;
+
+        b)  esgotado o prazo de trancamento de pauta, a Casa Legislativa em que a MP esteja
+tramitando sofrerá o sobrestamento das demais deliberações, enquanto não apreciar a MP
+(trancamento de pauta).
+
+
+
+
+          Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     53
+          www.estrategiaconcursos.com.br                                                         72
+
+                                        https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+            Dia 1: MP está em vigor e não tranca a pauta
+
+            Dia 46: MP está em vigor, mas já tranca a pauta
+
+        Dia 90: MP ainda está em vigor e ainda está
+ trancando a pauta
+
+         Dia 121: MP deixa de vigorar e, consequentemente,
+ de trancar a pauta
+
+
+
+
+Vale registrar que tais prazos não correm durante o recesso do Congresso Nacional. Também
+merece advertência o fato de que existe medida provisória sem prazo: as que estavam em vigor
+quando da edição da EC nº 32, de 11 de setembro de 2001, foram atingidas pelo art. 2º desta
+EC: permanecerão em vigor até que sejam revogadas, ou até que o Congresso sobre elas
+delibere.
+
+Extensão do trancamento de pauta e “solução Temer”
+
+O art. 62, § 6º, dispõe o seguinte: “Se a medida provisória não for apreciada em até quarenta e
+cinco dias contados de sua publicação, entrará em regime de urgência, subseqüentemente, em
+cada uma das Casas do Congresso Nacional, ficando sobrestadas, até que se ultime a votação,
+todas as demais deliberações legislativas da Casa em que estiver tramitando”.
+
+Embora o dispositivo diga que ficam sobrestadas “todas as demais deliberações legislativas”, foi
+(e é) adotada no Congresso a interpretação, capitaneada pelo então Presidente da Câmara dos
+Deputados, Michel Temer, de que só ficam sobrestados os projetos de lei ordinária – e, mesmo
+assim, apenas em relação a matérias que possam ser tratadas por medida provisória. As demais
+espécies normativas poderiam ser discutidas e votadas mesmo com medida provisória trancando
+a pauta da Casa Legislativa.
+
+        Essa foi a interpretação adotada também pelo STF (MS nº 27.931/DF).
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   54
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Tramitação
+
+A medida provisória, uma vez editada, deve ser imediatamente submetida pelo Presidente da
+República à apreciação do Congresso Nacional. A apreciação se dá pela Câmara dos Deputados
+e pelo Senado Federal, isolada e sucessivamente. Entre as Casas do Congresso, fica claro que a
+função de Casa Iniciadora caberá à Câmara dos Deputados (art. 62, § 8º), até mesmo por se tratar
+de ato do Presidente da República (art. 64, caput).
+
+Antes mesmo do encaminhamento à Câmara, porém, a MP precisa ser apreciada por uma
+comissão mista do Congresso Nacional. A própria Constituição estabelece que a “deliberação de
+cada uma das Casas do Congresso Nacional sobre o mérito das medidas provisórias dependerá
+de juízo prévio sobre o atendimento de seus pressupostos constitucionais” (art. 62, § 5º). Esse
+parecer prévio é dado por uma comissão mista de Deputados e Senadores, designada, caso a
+caso, para analisar se a medida provisória preenche os requisitos de relevância e urgência (e, nos
+termos da Resolução nº 1/2002-CN, também sobre o mérito da MP e sua compatibilidade
+financeira).
+
+No julgamento da ADI nº 4.029/DF, o STF considerou inconstitucional a aprovação de MP sem
+que a Comissão Mista emita parecer. Logo, pode-se afirmar que o parecer da comissão mista
+sobre as medidas provisórias não é vinculante, mas a sua existência é obrigatória.
+
+As medidas provisórias podem, como as proposições em geral, sofrer emendas (propostas de
+alteração). Porém, essas emendas precisam tratar do mesmo tema objeto da MP. Ou seja:
+exige-se pertinência temática entre a emenda e o objeto da MP. Foi o que o STF decidiu no
+julgamento da ADI nº 5.127/DF, ocorrido em 15/10/2015, em que se considerou, dali por diante,
+inconstitucional a prática (até então comum no Congresso) de se inserirem matérias estranhas à
+MP por meio de emendas (os chamados jabutis ou contrabandos legislativos).
+
+Após o parecer da comissão mista, a MP será encaminhada diretamente ao Plenário da Câmara
+dos Deputados (sem passar pelas comissões desta Casa, portanto) e, se aprovada, ao Plenário do
+Senado Federal (também sem passar pelas comissões no Senado). Sua tramitação segue, em
+linhas gerais, a lógica dos projetos de lei: se rejeitada em qualquer Casa, será arquivada; se
+aprovada em ambas as Casas na mesma versão, seguirá à próxima fase (veja os itens seguintes);
+se aprovada pelo Senado com alteração em relação ao que foi aprovado na Câmara, retornará a
+esta Casa, que decidirá a respeito.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     55
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+VEJA BEM!!!
+
+Estas são as principais peculiaridades da tramitação de uma MP em relação a um PL: a) não há
+apreciação nas comissões da Câmara e do Senado (esse papel é exercido com exclusividade pela
+Comissão Mista); b) a discussão e votação no Plenário de cada Casa é feita em duas etapas:
+primeiro vota-se a admissibilidade (relevância e urgência, não tratar de matéria vedada, etc.) e só
+depois, se for o caso, o mérito da MP (aprovação ou rejeição); c) as emendas à MP são votadas
+no Plenário de cada Casa, mas são apresentadas (propostas) na Comissão Mista.
+
+
+
+CUIDADO!!!
+
+Se um Deputado ou Senador quiser apresentar emendas à MP quando ela já estiver no Plenário,
+não conseguirá, pois terá havido a preclusão. O momento adequado à apresentação das
+emendas à MP é quando da sua análise na Comissão Mista.
+
+Rejeição
+
+Se a medida provisória for rejeitada pela Câmara ou pelo Senado, estará definitivamente
+arquivada, nos termos do que ocorre com os projetos de lei. Quanto às MPs, porém, a rejeição
+pode ser expressa ou tácita: esta última se verifica quando o Congresso deixa escoar o prazo de
+60+60 dias sem votar o ato. Nesse caso, a medida perderá seus efeitos, isto é, será tida como
+rejeitada tacitamente.
+
+Uma vez rejeitada a MP (repita-se, seja de forma tácita ou expressa), deixará imediatamente de
+produzir efeitos. Deixará de existir. E mais: a matéria constante da MP rejeitada não poderá ser
+objeto de nova medida provisória na mesma sessão legislativa, em hipótese alguma. Confira-se o
+§ 10 do art. 62 da CF: “É vedada a reedição, na mesma sessão legislativa, de medida provisória
+que tenha sido rejeitada ou que tenha perdido sua eficácia por decurso de prazo”.
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      56
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+            1    PROJETO DE LEI REJEITADO
+
+             1.1    A matéria dele constante pode ser
+ objeto de nova proposição:
+
+                         1.1.1 Em outra sessão legislativa? sim.
+
+                         1.1.2 Na mesma sessão legislativa (ano
+ parlamentar)?
+
+                                   1.1.2.1 Em regra: não.
+
+                          1.1.2.2 Existe                 exceção:       sim
+ (maioria absoluta dos membros de
+
+                                   uma Casa).
+
+
+
+
+            2    MEDIDA PROVISÓRIA REJEITADA
+
+             2.1    A matéria dele constante pode ser
+ objeto de nova proposição:
+
+                         2.1.1 Em outra sessão legislativa? sim.
+
+                         2.1.2 Na mesma sessão legislativa (ano
+ parlamentar)?
+
+                                   2.1.2.1 Em regra: não.
+
+                          2.1.2.2 Existe                 exceção:       não
+ (vedação absoluta na mesma sessão
+
+                                        legislativa).
+
+
+
+
+LEMBRE-SE!!!
+
+A irrepetibilidade da MP rejeitada é igual à da PEC (CF, art. 60, § 5º, e art. 62, § 10).
+
+Efeitos da rejeição
+
+O que acontece com os efeitos que a MP já produziu?
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   57
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Rejeitada a medida provisória (ou perdida a eficácia pelo escoamento do prazo, o que equivale a
+uma rejeição tácita), deixa imediatamente de produzir novos efeitos. Quanto aos efeitos já
+produzidos, a regra geral é que a MP continuará aplicável, a não ser que o Congresso, em 60 dias
+(a contar da rejeição), edite decreto legislativo dispondo de forma diversa.
+
+A rejeição (expressa ou tácita) da MP pelo Congresso produz, em regra, efeitos ex nunc (de agora
+em diante, daqui para frente), a não ser que o Congresso resolva dar efeitos retroativos à rejeição
+(efeitos ex tunc) – para tanto, deverá, em até 60 dias, editar um decreto legislativo específico.
+
+Outros efeitos que decorrem da rejeição de MP são: a) sua imediata perda de vigência; b) a volta
+automática da legislação anterior, o que a doutrina tem chamado de “efeito repristinatório”; e c)
+a irrepetibilidade (art. 62, § 10).
+
+Aprovação
+
+Aprovação sem emendas (de conteúdo)
+
+Uma vez aprovada a medida provisória sem emendas que alterem a essência, o conteúdo do ato
+originalmente editado pelo Presidente da República, a MP estará automaticamente convertida
+em lei. Não é necessário retornar à Presidência para sanção ou veto. A MP foi confirmada, e
+deixará, então, de existir, para dar lugar à lei objeto de sua conversão.
+
+Aprovação com emendas (de conteúdo)
+
+Se a medida provisória for aprovada, na essência, mas o Congresso fizer emendas (de conteúdo)
+ao texto originalmente editado pelo Presidente da República, a MP não estará definitiva e
+automaticamente convertida em lei. Nesse caso, a
+MP se transforma num projeto de lei de conversão (PLV), que deverá ser encaminhado (como
+qualquer projeto de lei) à sanção ou ao veto do Presidente da República.
+
+Entretanto, deve ser lembrado que o prazo para sanção ou veto é de 15 dias úteis. Durante esse
+tempo, o que acontece com a MP? O texto originalmente editado pelo Presidente continua a
+valer (ainda que ultrapasse os 120 dias de vigência!), enquanto o Chefe do Executivo não se
+manifestar sobre o PLV, sancionando-o ou vetando-o. A partir da sanção ou veto, o texto original
+da MP deixa definitivamente de vigorar, e o PLV seguirá a tramitação normal de um projeto de
+lei.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      58
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                    QUESTÕES COMENTADAS
+
+Cespe/Cebraspe
+
+1.​    (Cebraspe/MPO/GERAL/2024) - A sanção de uma lei pelo presidente da República não
+afasta possíveis defeitos jurídicos do projeto que a tenha originado.
+
+Comentário:
+
+A sanção presidencial do projeto de lei tem o efeito jurídico de transformar o projeto de lei (PL)
+em lei, ou seja, de conferir existência à norma jurídica (que não está, porém, ainda em vigor).
+Contudo, a sanção não convalida, não corrige, não saneia, não supera qualquer tipo de vícios
+(defeitos) jurídicos do PL, tais como vício de iniciativa, de quórum, etc. O STF, na década de 60,
+entendia que havia essa convalidação, contudo, desde a década de 1980, reverteu-se esse
+entendimento, tornando-se superada a antiga Súmula nº 5 (“A sanção do projeto supre a falta de
+iniciativa do Poder Executivo.”). Dessa forma, a sanção presidencial não afasta possíveis vícios do
+PL.
+
+Gabarito: Correto
+
+
+
+2.​     (Cebraspe-MPE-TO/Administrador/2024) - Lei de iniciativa do governador do estado pode
+criar cargos no âmbito do Ministério Público estadual.
+
+Comentário:
+
+A criação de cargos e funções no Ministério Público (da União ou Estadual), bem como a fixação
+da respectiva remuneração, é matéria de iniciativa de cada Ministério Público, por intermédio de
+cada Procurador-Geral (da República, no caso do MPU; de Justiça, no caso do MPE), nos termos
+do art. 127, § 2º, da CF, e da jurisprudência do STF. Dessa forma, o Governador de Estado só
+pode propor projeto de lei sobre cargos do Poder Executivo, não possuindo tal poder de
+iniciativa em relação aos cargos do Ministério Público.
+
+Nesse sentido, o STF já decidiu o seguinte:
+
+“A iniciativa legislativa prevista no art. 127, § 2º, da Constituição para a criação de cargos e
+serviços auxiliares, a política remuneratória e os planos de carreira do Ministério Público é
+privativa do procurador-geral de justiça, no âmbito estadual, e do PGR, na esfera federal.” (STF,
+Pleno, ADI 1.757, rel. min. Alexandre de Moraes, j. 20-9-2018, DJE de 8-10-2018).
+
+Gabarito: Errado
+
+
+
+3.​   (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) - Os projetos de lei propostos pelo
+presidente da República iniciam-se no Senado Federal.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)      59
+        www.estrategiaconcursos.com.br                                                          72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Comentário:
+
+Só se iniciam no Senado Federal os projetos de lei propostos por Senador, por comissão do
+Senado Federal ou por comissão mista (quando, nos termos do Regimento Comum do
+Congresso Nacional, a iniciativa é exercida de forma alternada entre Câmara e Senado). Os
+projetos de lei (PEC tem regras distintas) de todas as outras autoridades ou órgãos iniciam sua
+tramitação pela Câmara dos Deputados, nos termos do art. 64, caput, da CF: “A discussão e
+votação dos projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal
+Federal e dos Tribunais Superiores terão início na Câmara dos Deputados.”.
+
+Gabarito: Errado
+
+
+
+4.​   (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) - O prazo constitucional para o
+presidente da República sancionar ou vetar um projeto de lei, total ou parcialmente, é de trinta
+dias úteis contados da data do recebimento, após esse prazo, o silêncio do presidente da
+República importará sanção.
+
+Comentário:
+
+O único erro da afirmativa está no prazo constitucional para a sanção ou veto, que é de quinze
+dias úteis, e não de trinta dias úteis (CF, art. 66, §§ 1º e 3º). Realmente, decorrido esse prazo, o
+silêncio do Presidente da República importará sanção, e o veto oposto dentro do prazo pode
+mesmo ser total ou parcial. O único erro, repita-se, é o prazo.
+
+Gabarito: Errado
+
+
+
+5.​    (CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Direito
+Língua Espanhola – 2024) É possível a abertura de crédito extraordinário por meio de medida
+provisória, desde que atendidas as condições de relevância, urgência e imprevisibilidade da
+despesa.
+
+Comentário:
+
+Medida provisória não pode, ordinariamente, tratar de temas orçamentários, com uma única
+exceção: a abertura de créditos extraordinários (CF, art. 62, § 1º, I, d), justamente porque, nesses
+casos, faz-se frente a despesas imprevisíveis e urgentes (CF, art. 167, § 3º). Logo, atendido os
+requisitos de relevância e urgência para a edição da medida provisória (CF, art. 62, caput) e da
+imprevisibilidade da despesa, admite-se a edição de tal instrumento para a abertura de crédito
+extraordinário.
+
+Gabarito: Correto
+
+
+
+6.​    (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) O presidente da República, ante
+relevância e urgência, pode editar medida provisória para abertura de crédito extraordinário,
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       60
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+visando atender a despesas imprevisíveis decorrentes de catástrofe ambiental caracterizadora de
+calamidade pública.
+
+Comentário:
+
+Medida provisória não pode, ordinariamente, tratar de temas orçamentários, com uma única
+exceção: a abertura de créditos extraordinários (CF, art. 62, § 1º, I, d), justamente porque, nesses
+casos, faz-se frente a despesas imprevisíveis e urgentes (CF, art. 167, § 3º). Logo, atendido os
+requisitos de relevância e urgência para a edição da medida provisória (CF, art. 62, caput) e da
+imprevisibilidade da despesa, admite-se a edição de tal instrumento para a abertura de crédito
+extraordinário.
+
+Gabarito: Correto
+
+
+
+7.​    (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) O Congresso Nacional deve discutir e
+votar a Proposta de Emenda Constitucional (PEC) apresentada por onze assembleias legislativas
+das unidades da Federação com o objetivo de estender o denominado orçamento secreto aos
+estados.
+
+Comentário:
+
+Uma Proposta de Emenda à Constituição (PEC) pode ser apresentada por 1/3 dos Deputados
+Federais (171 Deputados), por 1/3 dos Senadores (27 Senadores), pelo Presidente da República
+ou pela maioria absoluta das assembleias legislativas (14 Assembleias), manifestando-se cada
+uma delas por maioria relativa (CF, art. 60, I a III). Dessa forma, a PEC citada na questão não deve
+ser objeto de deliberação, não apenas por violar a separação de poderes (uma cláusula pétrea),
+estabelecendo um orçamento secreto (CF, art. 60, § 4º, III), mas também por não contar com o
+número mínimo de assembleias signatárias constitucionalmente exigidas.
+
+Gabarito: Errado
+
+
+FGV
+
+8.​   (FGV - CAGE - RS - Auditor Tarde – 2025) Em reunião realizada com seus ministros, o
+Presidente da República recebeu a sugestão de que três matérias fossem disciplinadas por meio
+de medida provisória. A primeira matéria diz respeito à abertura de créditos orçamentários de
+natureza extraordinária.
+
+A segunda matéria está consubstanciada nos conflitos de competência em matéria tributária que
+surjam entre os entes federativos. Por fim, a terceira matéria diz respeito aos critérios a serem
+utilizados para distribuição de recursos públicos aos partidos políticos por meio do denominado
+fundo partidário.
+
+Ao fim da reunião, os participantes concluíram corretamente, em relação à possibilidade de
+disciplina das três matérias por meio de medida provisória, que isso é possível
+
+A) em relação às três.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       61
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+B) somente em relação à primeira.
+
+C) somente em relação à segunda.
+
+D) somente em relação à primeira e à terceira.
+
+E) somente em relação à segunda e à terceira.
+
+Comentário:
+
+Medida provisória não pode, ordinariamente, tratar de temas orçamentários, com uma única
+exceção: a abertura de créditos extraordinários (CF, art. 62, § 1º, I, d), justamente porque, nesses
+casos, faz-se frente a despesas imprevisíveis e urgentes (CF, art. 167, § 3º). Logo, atendido os
+requisitos de relevância e urgência para a edição da medida provisória (CF, art. 62, caput) e da
+imprevisibilidade da despesa, admite-se a edição de tal instrumento para a abertura de crédito
+extraordinário. Logo, a primeira matéria é possível de ser veiculada por medida provisória.
+
+A segunda matéria, não, pois se trata de tema reservado à lei complementar (CF, art. 146, I),
+sendo, portanto, vedada a edição de medida provisória sobre esse tema (CF, art. 62, § 1º, III).
+
+A terceira matéria também não pode ser objeto de medida provisória, já que esse instrumento
+não pode tratar de temas de “nacionalidade, cidadania, direitos políticos, partidos políticos e
+direito eleitoral” (CF, art. 62, § 1º, I, a).
+
+Gabarito: B
+
+
+
+9.​    (FGV - CAGE - RS - Auditor Tarde – 2025) Um grupo de deputados federais apresentou
+proposta de emenda constitucional que tem por objetivo afastar a vedação de aumento de
+determinado imposto, com grande influência no equilíbrio macroeconômico, no mesmo
+exercício financeiro de edição da respectiva lei. Apesar de o país estar passando por uma grave
+comoção de repercussão nacional, o grupo entendeu que isso não seria óbice à apresentação da
+proposta, que foi subscrita por 175 deputados federais, número de integrantes do referido
+grupo.
+
+À luz da sistemática constitucional, é correto afirmar que a proposta de emenda constitucional a
+ser apresentada
+
+A) apenas apresenta vício de iniciativa.
+
+B) não apresenta nenhum vício de inconstitucionalidade.
+
+C) apenas afronta um limite material de reforma constitucional.
+
+D) apenas afronta um limite circunstancial de reforma constitucional.
+
+E) afronta um limite material e um limite circunstancial de reforma constitucional, além de
+apresentar vício de iniciativa.
+
+Comentário:
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)       62
+        www.estrategiaconcursos.com.br                                                           72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+175 Deputados perfazem mais que o mínimo constitucionalmente exigido para a apresentação
+de uma Proposta de Emenda à Constituição, que seria de 171, ou seja, 1/3 dos Deputados (CF,
+art. 60, I), não havendo, portanto, vício de iniciativa.
+
+O fato de o país estar passando por instabilidade não impede a apresentação de uma PEC, salvo
+se houvesse referência expressa à decretação de estado de defesa, estado de sítio ou
+intervenção federal (CF, art. 60, § 1º). Não há, portanto, violação a qualquer limite circunstancial.
+
+Há, contudo, uma violação ao limite material (cláusula pétrea). Com efeito, o STF reconhece que
+a anterioridade tributária (não se poder cobrar imposto no mesmo exercício em que a alíquota é
+majorada), apesar de fora do art. 5º (está no art. 150, III, b, da CF), configura uma garantia
+individual – e, portanto, cláusula pétrea, não podendo ser abolida nem por emenda
+constitucional.
+
+Gabarito: C
+
+
+
+10.​ (FGV/Tribunal Regional Federal (1ª Região)Analista Judiciário - Área Administrativa/2024) -
+Com o objetivo de atender às necessidades urgentes do Poder Judiciário federal, o Presidente
+da República editou a Medida Provisória nº X, dispondo sobre a organização dos Tribunais
+Regionais Federais, o que foi muito comemorado por seus membros. Após o trâmite regular, a
+medida provisória teve sua votação iniciada na Câmara dos Deputados, sendo aprovada nessa
+Casa Legislativa e, posteriormente, no Senado Federal, sem alterações. Daí decorreu a
+promulgação da Lei nº Y, o que foi feito pelo Presidente da Mesa do Congresso Nacional.
+
+À luz da sistemática constitucional, é correto afirmar que essa narrativa:
+
+A) não apresenta incorreção;
+
+B) somente apresenta incorreção em relação à casa iniciadora;
+
+C) somente apresenta incorreção em relação ao objeto da medida provisória;
+
+D) somente apresenta incorreção em relação à promulgação no âmbito do Poder Legislativo;
+
+E) somente apresenta incorreção em relação à votação em separado nas Casas Legislativas.
+
+Comentário:
+
+Medida provisória não pode tratar de estrutura e organização do Judiciário (CF, art. 62, § 1º, I, c),
+sendo esse o único erro na situação, já que a tramitação foi correta (iniciando-se pela Câmara dos
+Deputados, nos termos do art. 62, § 8º). Além disso, tendo sido a medida provisória aprovada
+sem emendas, deve mesmo ser promulgada pelo Congresso Nacional, não sendo necessário o
+envio à Presidência da República (CF, art. 62, § 12).
+
+Gabarito: C
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)        63
+        www.estrategiaconcursos.com.br                                                            72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+11.​ (FGV - Prefeitura de Caraguatatuba - Fiscal Municipal – 2024) A sanção ou veto é uma das
+etapas de um processo legislativo comum, refletindo o sistema de freios e contrapesos
+constitucionais ao conferir ao presidente o poder de concordar ou discordar do projeto de lei.
+
+Nesse sentido, para sancionar ou vetar uma lei, o presidente tem um prazo de
+
+A) 7 dias úteis.
+
+B) 7 dias corridos.
+
+C) 15 dias úteis.
+
+D) 15 dias corridos.
+
+E) 20 dias úteis.
+
+Comentário:
+
+de acordo com o art. 66, § 1º, da CF, “Se o Presidente da República considerar o projeto, no
+todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou
+parcialmente, no prazo de quinze dias úteis, contados da data do recebimento, e comunicará,
+dentro de quarenta e oito horas, ao Presidente do Senado Federal os motivos do veto.”. Logo, a
+resposta correta é mesmo a letra C.
+
+Gabarito: C
+
+
+
+12.​ (FGV - DATAPREV - Analista - Área Advocacia – 2024) Parlamentares resolvem alterar o
+texto de uma medida provisória editada pelo executivo.
+
+Diante do exposto e de acordo com a Constituição, é correto afirmar que
+
+A) não é permitida a alteração do texto pelo legislativo, pois a conversão em lei depende apenas
+do juízo prévio dos pressupostos constitucionais.
+
+B) é permitida a alteração do texto pelo legislativo, que promulgará a nova Lei sem necessidade
+de sanção ou veto do chefe do executivo.
+
+C) não é permitida a alteração do texto pelo Senado, pois a comissão de aprovação é mista
+composta de deputados e senadores.
+
+D) é permitida a alteração do texto pelo legislativo, havendo necessidade de sanção ou veto pelo
+chefe do poder executivo.
+
+E) não é permitida a alteração do texto pela Câmara dos Deputados, pois a aprovação da
+conversão é realizada pela maioria absoluta dos Senadores.
+
+Comentário:
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   64
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Admite-se a apresentação de emendas parlamentares ao texto da medida provisória, que, uma
+vez aprovadas as emendas, passa a constituir o chamado projeto de lei de conversão (CF, art. 62,
+§ 12), o qual deve ser encaminhado à sanção ou veto do Presidente da República. A condição
+para serem admitidas as emendas é que não gerem aumento de despesa (CF, art. 63, I) e que
+não tratem sobre tema estranho ao conteúdo da MP (STF, Pleno, ADI 5127/DF).
+
+Gabarito: D
+
+
+FCC
+
+13.​ (FCC - TRT 7 - Analista Judiciário - Área Judiciária - Oficial de Justiça Avaliador Federal -
+2024) - De acordo com a Constituição Federal, são de iniciativa privativa do Presidente da
+República, dentre outras, as leis que disponham sobre
+
+A) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções,
+                                                         ==5460==
+
+
+
+
+estabilidade, remuneração, reforma e transferência para a reserva.
+
+B) criação de cargos, funções ou empregos públicos na administração direta e autárquica, não
+sendo de sua iniciativa as leis que disponham sobre o aumento da remuneração referente a esses
+cargos.
+
+C) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos e
+estabilidade, não sendo de sua iniciativa as leis que disponham sobre aposentadoria desses
+servidores.
+
+D) organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais
+para a organização do Ministério Público e da Defensoria Pública somente do Distrito Federal e
+dos Territórios.
+
+E) criação de cargos, funções ou empregos públicos exclusivamente na administração direta.
+
+Comentário:
+
+A alternativa A corresponde ao que está previsto no art. 61, § 1º, I, da CF, sendo a resposta da
+questão.
+
+A alternativa B está errada, porque são também de iniciativa privativa do Presidente da República
+as leis sobre fixação da remuneração dos cargos do Executivo (CF, art. 61, § 1º, II, a).
+
+Da mesma forma, a alternativa C também está errada porque as regras de aposentadoria dos
+servidores públicos são de iniciativa privativa do Presidente da República (CF, art. 61, § 1º, II, c).
+
+Na alternativa D, o erro está em que o Presidente da República tem iniciativa privativa das leis
+sobre normas gerais do Ministério Público e da Defensoria Pública dos Estados e do DF, e não
+apenas do DF (CF, art. 61, § 1º, II, d).
+
+Finalmente, a alternativa E está errada porque essa iniciativa privativa presidencial estende-se aos
+cargos ou empregos da administração direta ou indireta (CF, art. 61, § 1º, II, a).
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)         65
+        www.estrategiaconcursos.com.br                                                             72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+Gabarito: A
+
+
+
+14.​ (FCC - TRT 7 - Analista Judiciário - Área: Judiciária - 2024) - De acordo com a Constituição
+Federal, não havendo qualquer limitação à sua reforma, a emenda à Constituição Federal, que
+trate de matéria passível de deliberação, proposta por um terço dos membros da Câmara dos
+Deputados que for discutida e votada em cada Casa do Congresso Nacional, em dois turnos,
+será considerada
+
+A) aprovada se obtiver, em ambos, dois quintos dos votos dos respectivos membros, e será
+promulgada pelo Presidente da República.
+
+B) rejeitada se não obtiver, em ambos, dois terços dos votos dos respectivos membros, sendo,
+nesse caso, possível que a matéria dela constante seja objeto de nova proposta na mesma sessão
+legislativa.
+
+C) aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros, e será
+promulgada pelo Presidente da República.
+
+D) aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros, e será
+promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo
+número de ordem.
+
+E) rejeitada se não obtiver, em ambos, dois quintos dos votos dos respectivos membros, sendo,
+nesse caso, possível que a matéria dela constante seja objeto de nova proposta na mesma sessão
+legislativa.
+
+Comentário:
+
+De acordo com o art. 60, § 2º, da CF, “A proposta será discutida e votada em cada Casa do
+Congresso Nacional, em dois turnos, considerando-se aprovada se obtiver, em ambos, três
+quintos dos votos dos respectivos membros”. Além disso, o § 3º dispõe que “A emenda à
+Constituição será promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com
+o respectivo número de ordem.”
+
+Na alternativa A, está errado o quórum (o correto seria 3/5, e não 2/5), além de não haver
+promulgação pelo Presidente da República. Na alternativa B, também está errado o quórum (não
+é de 2/3, e sim de 3/5). Na alternativa C, o erro é a promulgação pelo Presidente da República.
+Na alternativa E, mais uma vez um erro quanto ao quórum.
+
+Gabarito: D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    66
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+                                         LISTA DE QUESTÕES
+
+Cespe/Cebraspe
+
+1.​    (Cebraspe/MPO/GERAL/2024) - A sanção de uma lei pelo presidente da República não
+afasta possíveis defeitos jurídicos do projeto que a tenha originado.
+
+
+
+2.​     (Cebraspe-MPE-TO/Administrador/2024) - Lei de iniciativa do governador do estado pode
+criar cargos no âmbito do Ministério Público estadual.
+
+
+
+3.​   (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) - Os projetos de lei propostos pelo
+presidente da República iniciam-se no Senado Federal.
+
+
+
+4.​   (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) - O prazo constitucional para o
+presidente da República sancionar ou vetar um projeto de lei, total ou parcialmente, é de trinta
+dias úteis contados da data do recebimento, após esse prazo, o silêncio do presidente da
+República importará sanção.
+
+
+
+5.​    (CESPE/CEBRASPE - INPI - Analista de Planejamento - Área: Gestão e Suporte - Direito
+Língua Espanhola – 2024) É possível a abertura de crédito extraordinário por meio de medida
+provisória, desde que atendidas as condições de relevância, urgência e imprevisibilidade da
+despesa.
+
+
+
+6.​    (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) O presidente da República, ante
+relevância e urgência, pode editar medida provisória para abertura de crédito extraordinário,
+visando atender a despesas imprevisíveis decorrentes de catástrofe ambiental caracterizadora de
+calamidade pública.
+
+
+
+7.​    (CESPE/CEBRASPE - CAU - Analista Técnico – 2024) O Congresso Nacional deve discutir e
+votar a Proposta de Emenda Constitucional (PEC) apresentada por onze assembleias legislativas
+das unidades da Federação com o objetivo de estender o denominado orçamento secreto aos
+estados.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   67
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+
+FGV
+
+8.​   (FGV - CAGE - RS - Auditor Tarde – 2025) Em reunião realizada com seus ministros, o
+Presidente da República recebeu a sugestão de que três matérias fossem disciplinadas por meio
+de medida provisória. A primeira matéria diz respeito à abertura de créditos orçamentários de
+natureza extraordinária.
+
+A segunda matéria está consubstanciada nos conflitos de competência em matéria tributária que
+surjam entre os entes federativos. Por fim, a terceira matéria diz respeito aos critérios a serem
+utilizados para distribuição de recursos públicos aos partidos políticos por meio do denominado
+fundo partidário.
+
+Ao fim da reunião, os participantes concluíram corretamente, em relação à possibilidade de
+disciplina das três matérias por meio de medida provisória, que isso é possível
+
+A) em relação às três.
+
+B) somente em relação à primeira.
+
+C) somente em relação à segunda.
+
+D) somente em relação à primeira e à terceira.
+
+E) somente em relação à segunda e à terceira.
+
+
+
+9.​    (FGV - CAGE - RS - Auditor Tarde – 2025) Um grupo de deputados federais apresentou
+proposta de emenda constitucional que tem por objetivo afastar a vedação de aumento de
+determinado imposto, com grande influência no equilíbrio macroeconômico, no mesmo
+exercício financeiro de edição da respectiva lei. Apesar de o país estar passando por uma grave
+comoção de repercussão nacional, o grupo entendeu que isso não seria óbice à apresentação da
+proposta, que foi subscrita por 175 deputados federais, número de integrantes do referido
+grupo.
+
+À luz da sistemática constitucional, é correto afirmar que a proposta de emenda constitucional a
+ser apresentada
+
+A) apenas apresenta vício de iniciativa.
+
+B) não apresenta nenhum vício de inconstitucionalidade.
+
+C) apenas afronta um limite material de reforma constitucional.
+
+D) apenas afronta um limite circunstancial de reforma constitucional.
+
+E) afronta um limite material e um limite circunstancial de reforma constitucional, além de
+apresentar vício de iniciativa.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)    68
+        www.estrategiaconcursos.com.br                                                        72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+10.​ (FGV/Tribunal Regional Federal (1ª Região)Analista Judiciário - Área Administrativa/2024) -
+Com o objetivo de atender às necessidades urgentes do Poder Judiciário federal, o Presidente
+da República editou a Medida Provisória nº X, dispondo sobre a organização dos Tribunais
+Regionais Federais, o que foi muito comemorado por seus membros. Após o trâmite regular, a
+medida provisória teve sua votação iniciada na Câmara dos Deputados, sendo aprovada nessa
+Casa Legislativa e, posteriormente, no Senado Federal, sem alterações. Daí decorreu a
+promulgação da Lei nº Y, o que foi feito pelo Presidente da Mesa do Congresso Nacional.
+
+À luz da sistemática constitucional, é correto afirmar que essa narrativa:
+
+A) não apresenta incorreção;
+
+B) somente apresenta incorreção em relação à casa iniciadora;
+
+C) somente apresenta incorreção em relação ao objeto da medida provisória;
+                                                         ==5460==
+
+
+
+
+D) somente apresenta incorreção em relação à promulgação no âmbito do Poder Legislativo;
+
+E) somente apresenta incorreção em relação à votação em separado nas Casas Legislativas.
+
+
+
+11.​ (FGV - Prefeitura de Caraguatatuba - Fiscal Municipal – 2024) A sanção ou veto é uma das
+etapas de um processo legislativo comum, refletindo o sistema de freios e contrapesos
+constitucionais ao conferir ao presidente o poder de concordar ou discordar do projeto de lei.
+
+Nesse sentido, para sancionar ou vetar uma lei, o presidente tem um prazo de
+
+A) 7 dias úteis.
+
+B) 7 dias corridos.
+
+C) 15 dias úteis.
+
+D) 15 dias corridos.
+
+E) 20 dias úteis.
+
+
+
+12.​ (FGV - DATAPREV - Analista - Área Advocacia – 2024) Parlamentares resolvem alterar o
+texto de uma medida provisória editada pelo executivo.
+
+Diante do exposto e de acordo com a Constituição, é correto afirmar que
+
+A) não é permitida a alteração do texto pelo legislativo, pois a conversão em lei depende apenas
+do juízo prévio dos pressupostos constitucionais.
+
+B) é permitida a alteração do texto pelo legislativo, que promulgará a nova Lei sem necessidade
+de sanção ou veto do chefe do executivo.
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   69
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+C) não é permitida a alteração do texto pelo Senado, pois a comissão de aprovação é mista
+composta de deputados e senadores.
+
+D) é permitida a alteração do texto pelo legislativo, havendo necessidade de sanção ou veto pelo
+chefe do poder executivo.
+
+E) não é permitida a alteração do texto pela Câmara dos Deputados, pois a aprovação da
+conversão é realizada pela maioria absoluta dos Senadores.
+
+
+FCC
+
+13.​ (FCC - TRT 7 - Analista Judiciário - Área Judiciária - Oficial de Justiça Avaliador Federal -
+2024) - De acordo com a Constituição Federal, são de iniciativa privativa do Presidente da
+República, dentre outras, as leis que disponham sobre
+
+A) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções,
+estabilidade, remuneração, reforma e transferência para a reserva.
+
+B) criação de cargos, funções ou empregos públicos na administração direta e autárquica, não
+sendo de sua iniciativa as leis que disponham sobre o aumento da remuneração referente a esses
+cargos.
+
+C) servidores públicos da União e Territórios, seu regime jurídico, provimento de cargos e
+estabilidade, não sendo de sua iniciativa as leis que disponham sobre aposentadoria desses
+servidores.
+
+D) organização do Ministério Público e da Defensoria Pública da União, bem como normas gerais
+para a organização do Ministério Público e da Defensoria Pública somente do Distrito Federal e
+dos Territórios.
+
+E) criação de cargos, funções ou empregos públicos exclusivamente na administração direta.
+
+
+
+14.​ (FCC - TRT 7 - Analista Judiciário - Área: Judiciária - 2024) - De acordo com a Constituição
+Federal, não havendo qualquer limitação à sua reforma, a emenda à Constituição Federal, que
+trate de matéria passível de deliberação, proposta por um terço dos membros da Câmara dos
+Deputados que for discutida e votada em cada Casa do Congresso Nacional, em dois turnos,
+será considerada
+
+A) aprovada se obtiver, em ambos, dois quintos dos votos dos respectivos membros, e será
+promulgada pelo Presidente da República.
+
+B) rejeitada se não obtiver, em ambos, dois terços dos votos dos respectivos membros, sendo,
+nesse caso, possível que a matéria dela constante seja objeto de nova proposta na mesma sessão
+legislativa.
+
+C) aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros, e será
+promulgada pelo Presidente da República.
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)     70
+        www.estrategiaconcursos.com.br                                                         72
+
+                                      https://t.me/KakashiAssinaturasBot
+  João Trindade Cavalcante Filho
+  Aula 11
+
+
+
+D) aprovada se obtiver, em ambos, três quintos dos votos dos respectivos membros, e será
+promulgada pelas Mesas da Câmara dos Deputados e do Senado Federal, com o respectivo
+número de ordem.
+
+E) rejeitada se não obtiver, em ambos, dois quintos dos votos dos respectivos membros, sendo,
+nesse caso, possível que a matéria dela constante seja objeto de nova proposta na mesma sessão
+legislativa.
+
+
+                                                  GABARITO
+   1.​ Correto
+   2.​ Errado
+   3.​ Errado
+   4.​ Errado
+   5.​ Correto
+   6.​ Correto
+   7.​ Errado
+   8.​ B
+   9.​ C
+   10.​C
+   11.​C
+   12.​D
+   13.​A
+   14.​D
+
+
+
+
+        Receita Federal (Analista Tributário) Direito Constitucional (Prof. João Trindade)   71
+        www.estrategiaconcursos.com.br                                                       72
+
+                                      https://t.me/KakashiAssinaturasBot
+

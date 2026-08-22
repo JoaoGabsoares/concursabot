@@ -1,0 +1,1853 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 11_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Passo Estratégico de Direito Tributário
+artigos_citados:
+- Art. 103
+- Art. 105.
+- Art. 106.
+- Art. 110
+- Art. 110.
+- Art. 146-A.
+- Artigo 102
+- Artigo 105
+---
+
+# Passo Estratégico de Direito Tributário
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                       Passo Estratégico de Direito Tributário
+
+                                                         Autor:
+                                     Fernando Mauricio Correa
+
+                                              19 de Maio de 2023
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    LEGISLAÇÃO TRIBUTÁRIA, VIGÊNCIA, APLICAÇÃO,
+    INTERPRETAÇÃO E INTEGRAÇÃO DA
+    LEGISLAÇÃO TRIBUTÁRIA
+
+
+    1. Palavras do Professor 
+    2. Importância do Assunto 
+          O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+    3. Roteiro de Revisão e Pontos que merecem Destaque 
+    4. Aposta Estratégica 
+    5. Questões Estratégicas 
+          QUESTÕES FGV
+    6. Questionário de Revisão 
+    7. Questões de Aula 
+          QUESTÕES FGV
+          GABARITO 
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                                            1
+      www.estrategiaconcursos.com.br
+
+                                        
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    1. PALAVRAS DO PROFESSOR
+
+
+                           Olá, amigo(a) concursando(a). Neste relatório vamos ver os
+                           principais pontos sobre Legislação Tributária, Vigência,
+                           Aplicação,        Interpretação         e    Integração    da   Legislação
+                           Tributária.
+
+                           Vamos ver as características, especificidades e jurisprudência
+    a respeito dos instrumentos da Legislação Tributária, assim como as questões
+    mais relevantes de Vigência, Aplicação, Interpretação e Integração da
+    Legislação Tributária, sempre mirando o que tem sido cobrado em prova.
+
+    Assim, como vocês poderão ver, esta aula é extremamente importante para a
+    sua prova, pois aborda diversos conceitos fundamentais para o entendimento
+    não só do que aqui será explicado, mas como de diversos assuntos que
+    veremos nas próximas aulas.
+
+    Tentaremos manter a metodologia com uma abordagem clara, objetiva e
+    diagramada, para facilitar a captação das informações mais cobradas em prova
+    e sua necessária fixação.
+
+              “Sem o esforço da busca, é impossível a alegria do
+                                 encontro”
+
+                           @proffernandoM                                    Tributário FM
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                     2
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    2. IMPORTÂNCIA DO ASSUNTO
+
+    Com base na análise estatística das questões de Concursos da Área Fiscal dos
+    últimos anos, temos o seguinte resultado para o(s) assunto(s) que serão
+    tratados neste relatório:
+
+                            Assunto do Edital                                            FGV
+
+                            Legislação Tributária                                     3,06%
+
+    Com base na tabela acima, é possível verificar que, no contexto das provas
+    para concursos da Área Fiscal, que o assunto “Legislação Tributária” possui
+    importância Intermediária, tendo aparecido em pouco mais de 3% das
+    questões da Banca.
+
+                    % de Cobrança                                  Importância do Assunto
+
+                         Até 1,9%                                     Baixa a Intermediária
+
+                     De 2% a 3,9%                                           Intermediária
+
+                     De 4% a 5,9%                                      Intermediária a Alta
+
+                     De 6% a 8,9%                                                 Alta
+
+                       9% ou mais                                             Muito Alta
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            3
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+
+    Considerando os tópicos que compõem o nosso assunto, possuímos a
+    seguinte distribuição percentual, em ordem decrescente de cobrança:
+
+                                       Tópico                                         FGV
+           Vigência e Aplicação da Legislação Tributária                              32,51%
+
+           Disposições Gerais da Legislação                                           50,54%
+
+           Interpretação e Integração da Legislação Trib.                             16,95%
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            4
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    3. ROTEIRO DE REVISÃO E PONTOS QUE MERECEM
+    DESTAQUE
+
+    A ideia desta seção é apresentar quais pontos o aluno não pode deixar de
+    saber para chegar com segurança em uma prova de Concurso. Vamos começar
+    com os principais pontos da matéria, e a seguir vamos apresentar os textos
+    Legais fundamentais para prova, assim como as principais súmulas referentes
+    aos assuntos tratados neste relatório.             ==219a34==
+
+    Legislação Tributária
+
+    1. A expressão "legislação tributária" compreende as leis, os tratados e as
+    convenções internacionais, os decretos e as normas complementares que
+    versem, no todo ou em parte, sobre tributos e relações jurídicas a eles
+    pertinentes.
+
+    2. Todos os Atos Normativos possuem a generalidade e abstração como
+    características.
+
+          ▪ Generalidade diz respeito ao fato de as normas não possuírem um
+             destinatário específico, mas sim, abrangência geral.
+
+          ▪ Abstração diz respeito às hipóteses de incidência poderem vir a ocorrer
+             no mundo concreto ou não.
+
+    3. São fontes formais principais do Direito Tributário: Constituição Federal e
+    Emendas à Constituição, Leis Complementares e Ordinárias, Leis Delegadas,
+    Medidas Provisórias, Decretos Legislativos e Resoluções.
+
+    4. São fontes formais secundárias: Decretos e Normas Complementares.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   5
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    5. Compete à Lei Complementar:
+
+          ▪ Instituição de alguns tributos:
+                           ▪ Empréstimos Compulsórios;
+                           ▪ Imposto sobre Grandes Fortunas (IGF);
+                           ▪ Impostos Residuais (IResid);
+                           ▪ Contribuições Sociais Residuais.
+          ▪ Dispor sobre conflitos de competência em matéria tributária;
+          ▪ Regular as limitações constitucionais ao poder de tributar;
+          ▪ Estabelecer normas gerais em matéria de legislação tributária,
+             especialmente sobre:
+                           ▪ definição de tributos e de suas espécies, bem como, em
+                              relação aos impostos discriminados nesta Constituição, a
+                              dos respectivos fatos geradores, bases de cálculo e
+                              contribuintes (somente para os impostos);
+                           ▪ obrigação, lançamento, crédito, prescrição e decadência
+                              tributários;
+                           ▪ adequado tratamento tributário ao ato cooperativo
+                              praticado pelas sociedades cooperativas.
+                           ▪ definição de tratamento diferenciado e favorecido para as
+                              microempresas e para as empresas de pequeno porte,
+                              inclusive regimes especiais ou simplificados
+
+
+          ▪ Lei complementar poderá estabelecer critérios especiais de tributação,
+             com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo
+             da competência de a União, por lei, estabelecer normas de igual
+             objetivo
+
+    6. Somente a lei (ordinária) pode estabelecer:
+
+          ▪ Instituição de tributos, ou a sua extinção;
+          ▪ Majoração de tributos, ou sua redução, ressalvado o disposto nos
+             artigos 21, 26, 39, 57 e 65;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      6
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                           ▪ Equipara-se à majoração do tributo a modificação da sua
+                              base de cálculo, que importe em torná-lo mais oneroso.
+                           ▪ Não constitui majoração de tributo, para os fins do disposto
+                              no inciso II deste artigo, a atualização do valor monetário da
+                              respectiva base de cálculo.
+          ▪ Definição do fato gerador da obrigação tributária principal, ressalvado
+             o disposto no inciso I do § 3º do artigo 52, e do seu sujeito passivo;
+          ▪ Fixação de alíquota do tributo e da sua base de cálculo, ressalvado o
+             disposto nos artigos 21, 26, 39, 57 e 65;
+          ▪ Cominação de penalidades para as ações ou omissões contrárias a seus
+             dispositivos, ou para outras infrações nela definidas;
+          ▪ Hipóteses de exclusão, suspensão e extinção de créditos tributários, ou
+             de dispensa ou redução de penalidades.
+
+    7. Leis Delegadas são elaboradas pelo Presidente da República e possuem a
+    mesma força de uma lei ordinária.
+
+    8. Resoluções do Senado irão tratar de:
+
+          ▪ Alíquotas Máximas de ITCMD;
+          ▪ Alíquotas Mínimas de IPVA
+          ▪ E as seguintes Alíquotas do ICMS:
+
+                                                                                   QUÓRUM
+                RESOLUÇÃO
+                                                   INICIATIVA                        PARA
+                DO SENADO
+                                                                                  APROVAÇAO
+                     ALÍQUOTAS
+                INTERESTADUAIS E DE             PRESIDENTE OU 1/3 DOS
+                                                                                      MAIORIA ABSOLUTA
+                    EXPORTAÇÃO                       SENADORES
+                   (OBRIGATÓRIO)
+
+                 ALÍQUOTAS MÍNIMAS
+                                                  1/3 DOS SENADORES                   MAIORIA ABSOLUTA
+               INTERNAS (FACULTADO)
+
+                ALÍQUOTAS MÁXIMAS
+                                                   MAIORIA ABSOLUTA                   2/3 DOS SENADORES
+               INTERNAS (FACULTADO)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       7
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    9.        Segundo CTN, os tratados e as convenções internacionais revogam ou
+    modificam a legislação tributária interna, e serão observados pela que lhes
+    sobrevenha.
+
+    10.        Os tratados ou convenções internacionais, uma vez regularmente
+    incorporados ao direito interno, situam-se, no sistema jurídico brasileiro, nos
+    mesmos planos de validade, de eficácia e de autoridade em que se posicionam
+    as leis ordinárias, havendo, em consequência, entre estas e os atos de direito
+    internacional público, mera relação de paridade normativa (ADI 1.480/DF).
+
+    11. Segundo o STF, tratados internacionais não podem tratar de matéria
+    reservada a lei complementar, pois possuem o mesmo status das Leis
+    Ordinárias.
+
+    12. O decreto regulamentar não inova no ordenamento jurídico (criando
+    deveres e obrigações), mas apenas regulamenta assuntos já previstos em lei.
+
+    13. O conteúdo e o alcance dos decretos restringem-se aos das leis em função
+    das quais sejam expedidos, determinados com observância das regras de
+    interpretação estabelecidas nesta Lei.
+
+    14. Segundo o CTN, são normas complementares das leis, dos tratados e das
+    convenções internacionais e dos decretos:
+
+          ▪ os atos normativos expedidos pelas autoridades administrativas;
+          ▪ as decisões dos órgãos singulares ou coletivos de jurisdição
+               administrativa, a que a lei atribua eficácia normativa (Súmulas de órgãos
+               de julgamento na esfera administrativa, por exemplo);
+          ▪     as   práticas        reiteradamente            observadas             pelas   autoridades
+               administrativas;
+          ▪ os convênios que entre si celebrem a União, os Estados, o Distrito
+               Federal e os Municípios.
+
+    15.        A observância das normas complementares exclui a imposição de
+    penalidades, a cobrança de juros de mora e a atualização do valor monetário
+    da base de cálculo do tributo.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                         8
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Vigência da Legislação Tributária
+    16. Vigência é, via de regra, o momento a partir do qual um ato normativo
+    começa a impor suas regras aos destinatários. Em outras palavras, é o
+    momento a partir do qual começa a produzir seus efeitos (regra geral).
+
+    17. O período entre a data da publicação da lei e o início de sua vigência é
+    chamado de vacatio legis.
+
+    18. No caso de lei instituindo ou majorando tributos, tendo em vista os
+    princípios da anterioridade e da noventena, pode ocorrer de a lei já estar
+    vigente, mas ainda não ser eficaz (a lei é dada como vigente, mas ainda não
+    cumpriu os prazos de Anterioridade e/ou Noventena, não produzindo,
+    portanto, seus efeitos).
+
+    19. No caso de uma lei já revogada, pode ocorrer dela não estar mais vigente,
+    porém ainda assim ser eficaz em relação aos Fatos Geradores ocorridos
+    durante a sua vigência. (É o caso da lei já revogada, que produz efeitos
+    especificamente para os Fatos Geradores ocorridos à época em que ela era
+    vigente)
+
+    20. Segundo o Art. 103 do CTN, Salvo disposição em contrário, entram em
+    vigor:
+
+          ▪ os atos administrativos a que se refere o inciso I do artigo 100, na data
+             da sua publicação;
+          ▪ as decisões a que se refere o inciso II do artigo 100, quanto a seus efeitos
+             normativos, 30 (trinta) dias após a data da sua publicação;
+          ▪ os convênios a que se refere o inciso IV do artigo 100, na data neles
+             prevista.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        9
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    De forma esquematizada:
+
+    21. A legislação tributária dos Estados, do Distrito Federal e dos Municípios
+    vigora, no País, fora dos respectivos territórios, nos limites em que lhe
+    reconheçam extraterritorialidade os convênios de que participem, ou do que
+    disponham esta ou outras leis de normas gerais expedidas pela União.
+
+    22. Salvo disposição de lei em contrário, a pessoa jurídica de direito público,
+    que       se     constituir        pelo      desmembramento                territorial   de   outra
+    (desmembramento de Municípios, por exemplo), subroga-se nos direitos
+    desta, cuja legislação tributária aplicará até que entre em vigor a sua própria.
+
+    Aplicação da Legislação Tributária
+
+
+    23. A legislação tributária aplica-se imediatamente aos fatos geradores
+    futuros e aos pendentes, assim entendidos aqueles cuja ocorrência tenha tido
+    início, mas não esteja completa.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       10
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    24. A CF/88 não prevê nenhuma exceção ao princípio da irretroatividade,
+    porém o CTN prevê duas hipóteses em que a lei pode retroagir:
+
+          ▪ Lei expressamente interpretativa (neste caso a Lei interpretativa
+             retroage à data da Lei interpretada).
+          ▪ Lei mais benéfica ao infrator (apenas no caso de se tratar de infração, e
+             de o ato não estar definitivamente julgado).
+
+    25.      A lei aplica-se a ato ou fato pretérito, tratando-se de ato não
+    definitivamente julgado:
+
+          ▪ quando deixe de defini-lo como infração;
+          ▪ quando deixe de tratá-lo como contrário a qualquer exigência de ação
+             ou omissão, desde que não tenha sido fraudulento e não tenha
+             implicado em falta de pagamento de tributo;
+          ▪ quando lhe comine penalidade menos severa que a prevista na lei
+             vigente ao tempo da sua prática.
+
+    26. Não há que se falar em aplicação retroativa de lei mais benéfica sobre
+    tributos, mas apenas sobre infração.
+
+    Assim, lei posterior que venha reduzir alíquota de determinado tributo não
+    pode ser aplicada retroativamente, sob o argumento de beneficiar o
+    contribuinte. Nesse caso, aplica-se normalmente a alíquota em vigor na data
+    de ocorrência do fato gerador (FG).
+
+    Interpretação e Integração da Legislação Tributária
+
+
+    27. Interpreta-se literalmente a legislação tributária que disponha sobre:
+
+          ▪ suspensão ou exclusão do crédito tributário;
+          ▪ outorga de isenção (que é um tipo de exclusão);
+          ▪ dispensa do cumprimento de obrigações tributárias acessórias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     11
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    28. “A interpretação literal da norma não pode levar o aplicador do direito à
+    absurda conclusão de que esteja ele impedido, no seu mister de apreciar e
+    aplicar as normas de direito, de valer-se de uma equilibrada ponderação dos
+    elementos lógico-sistemático, histórico e finalístico ou teleológico, os quais
+    integram a moderna metodologia de interpretação das normas jurídicas”.
+    (STJ, REsp 192.531)
+
+    29. Lei tributária que define infrações, ou lhe comina penalidades, interpreta-
+    se da maneira mais favorável ao acusado, em caso de dúvida quanto (reparem
+    que a interpretação mais favorável é apenas no caso de infração, na hipótese
+    de existir dúvida em um dos pontos abaixo):
+
+          ▪ à capitulação legal do fato;
+          ▪ à natureza ou às circunstâncias materiais do fato, ou à natureza ou
+             extensão dos seus efeitos;
+          ▪ à autoria, imputabilidade ou punibilidade;
+          ▪ à natureza da penalidade aplicável, ou à sua graduação.
+
+    30.     Os princípios gerais de direito privado utilizam-se para pesquisa da
+    definição, do conteúdo e do alcance de seus institutos, conceitos e formas,
+    mas não para definição dos respectivos efeitos tributários.
+
+    31. A lei tributária não pode alterar a definição, o conteúdo e o alcance de
+    institutos, conceitos e formas de direito privado, utilizados, expressa ou
+    implicitamente, pela Constituição Federal, pelas Constituições dos Estados, ou
+    pelas Leis Orgânicas do Distrito Federal ou dos Municípios, para definir ou
+    limitar competências tributárias.
+
+    32. Na ausência de disposição expressa, a autoridade competente para aplicar
+    a     legislação tributária          utilizará sucessivamente,               na   ordem   indicada:
+    (memorizem a ORDEM)
+
+          1. a analogia; (busca por norma aplicável a caso similar)
+          2. os princípios gerais de direito tributário;
+          3. os princípios gerais de direito público;
+          4. a equidade. (criar a solução mais justa)
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       12
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    33. O emprego da analogia não poderá resultar na exigência de tributo não
+    previsto em lei.
+
+    34. O emprego da equidade não poderá resultar na dispensa do pagamento
+    de tributo devido.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   13
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Seguem agora os Dispositivos Legais mais relevantes:
+
+                                          Constituição Federal de 1988:
+
+                        Artigo 146:
+                        Art. 146. Cabe à lei complementar:
+
+                        I - dispor sobre conflitos de competência, em matéria tributária,
+                        entre a União, os Estados, o Distrito Federal e os Municípios;
+
+                        II - regular as limitações constitucionais ao poder de tributar;
+
+                        III - estabelecer normas gerais em matéria de legislação
+                        tributária, especialmente sobre:
+
+                        a) definição de tributos e de suas espécies, bem como, em
+                        relação aos impostos discriminados nesta Constituição, a dos
+                        respectivos fatos geradores, bases de cálculo e contribuintes;
+
+                        b) obrigação, lançamento, crédito, prescrição e decadência
+                        tributários;
+
+                        c) adequado tratamento tributário ao ato cooperativo praticado
+                        pelas sociedades cooperativas.
+
+                        d) definição de tratamento diferenciado e favorecido para as
+                        microempresas e para as empresas de pequeno porte, inclusive
+                        regimes especiais ou simplificados no caso do imposto previsto
+                        no art. 155, II, das contribuições previstas no art. 195, I e §§ 12
+                        e 13, e da contribuição a que se refere o art. 239.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário           14
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Parágrafo único. A lei complementar de que trata o inciso III, d,
+                        também poderá instituir um regime único de arrecadação dos
+                        impostos e contribuições da União, dos Estados, do Distrito
+                        Federal e dos Municípios, observado que:
+
+                        I - será opcional para o contribuinte;
+
+                        II - poderão ser estabelecidas condições de enquadramento
+                        diferenciadas por Estado;
+
+                        III - o recolhimento será unificado e centralizado e a distribuição
+                        da parcela de recursos pertencentes aos respectivos entes
+                        federados será imediata, vedada qualquer retenção ou
+                        condicionamento;
+
+                        IV - a arrecadação, a fiscalização e a cobrança poderão ser
+                        compartilhadas pelos entes federados, adotado cadastro
+                        nacional único de contribuintes.
+
+                        Artigo 146-A:
+                        Art. 146-A. Lei complementar poderá estabelecer critérios
+                        especiais       de     tributação,       com      o    objetivo   de   prevenir
+                        desequilíbrios da concorrência, sem prejuízo da competência
+                        de a União, por lei, estabelecer normas de igual objetivo.
+
+                        Artigo 147:
+                        Art. 147. Competem à União, em Território Federal, os
+                        impostos estaduais e, se o Território não for dividido em
+                        Municípios, cumulativamente, os impostos municipais; ao
+                        Distrito Federal cabem os impostos municipais.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                       15
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                                                           CTN:
+
+                        Artigo 97:
+                        Art. 97. Somente a lei pode estabelecer:
+                        I - a instituição de tributos, ou a sua extinção;
+                        II - a majoração de tributos, ou sua redução, ressalvado o
+                        disposto nos artigos 21, 26, 39, 57 e 65;
+                        III - a definição do fato gerador da obrigação tributária principal,
+                        ressalvado o disposto no inciso I do § 3º do artigo 52, e do seu
+                        sujeito passivo;
+                        IV - a fixação de alíquota do tributo e da sua base de cálculo,
+                        ressalvado o disposto nos artigos 21, 26, 39, 57 e 65;
+                        V - a cominação de penalidades para as ações ou omissões
+                        contrárias a seus dispositivos, ou para outras infrações nela
+                        definidas;
+                        VI - as hipóteses de exclusão, suspensão e extinção de créditos
+                        tributários, ou de dispensa ou redução de penalidades.
+                        § 1º Equipara-se à majoração do tributo a modificação da sua
+                        base de cálculo, que importe em torná-lo mais oneroso.
+                        § 2º Não constitui majoração de tributo, para os fins do disposto
+                        no inciso II deste artigo, a atualização do valor monetário da
+                        respectiva base de cálculo.
+
+                        Artigo 98:
+                        Art. 98. Os tratados e as convenções internacionais revogam ou
+                        modificam a legislação tributária interna, e serão observados
+                        pela que lhes sobrevenha.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário            16
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Artigo 100:
+                        Art. 100. São normas complementares das leis, dos tratados e
+                        das convenções internacionais e dos decretos:
+
+                        I   -    os    atos     normativos         expedidos          pelas   autoridades
+                        administrativas;
+
+                        II - as decisões dos órgãos singulares ou coletivos de jurisdição
+                        administrativa, a que a lei atribua eficácia normativa;
+
+                        III - as práticas reiteradamente observadas pelas autoridades
+                        administrativas;
+
+                        IV - os convênios que entre si celebrem a União, os Estados, o
+                        Distrito Federal e os Municípios.
+
+                        Parágrafo único. A observância das normas referidas neste
+                        artigo exclui a imposição de penalidades, a cobrança de juros
+                        de mora e a atualização do valor monetário da base de cálculo
+                        do tributo.
+
+                        Artigo 101:
+                        Art. 101. A vigência, no espaço e no tempo, da legislação
+                        tributária rege-se pelas disposições legais aplicáveis às normas
+                        jurídicas em geral, ressalvado o previsto neste Capítulo.
+
+                        Artigo 102:
+                        Art. 102. A legislação tributária dos Estados, do Distrito Federal
+                        e dos Municípios vigora, no País, fora dos respectivos
+                        territórios,        nos      limites       em       que       lhe     reconheçam
+                        extraterritorialidade os convênios de que participem, ou do que
+                        disponham esta ou outras leis de normas gerais expedidas pela
+                        União.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                         17
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Artigo 103:
+                        Art. 103. Salvo disposição em contrário, entram em vigor:
+
+                        I - os atos administrativos a que se refere o inciso I do artigo
+                        100, na data da sua publicação;
+
+                        II - as decisões a que se refere o inciso II do artigo 100, quanto
+                        a seus efeitos normativos, 30 (trinta) dias após a data da sua
+                        publicação;
+
+                        III - os convênios a que se refere o inciso IV do artigo 100, na
+                        data neles prevista.
+
+                        Artigo 104:
+                        Art. 104. Entram em vigor no primeiro dia do exercício seguinte
+                        àquele em que ocorra a sua publicação os dispositivos de lei,
+                        referentes a impostos sobre o patrimônio ou a renda:
+
+                        I - que instituem ou majoram tais impostos;
+
+                        II - que definem novas hipóteses de incidência;
+
+                        III - que extinguem ou reduzem isenções, salvo se a lei dispuser
+                        de maneira mais favorável ao contribuinte, e observado o
+                        disposto no artigo 178.
+
+                        Artigo 105:
+                        Art. 105. A legislação tributária aplica-se imediatamente aos
+                        fatos geradores futuros e aos pendentes, assim entendidos
+                        aqueles cuja ocorrência tenha tido início, mas não esteja
+                        completa nos termos do artigo 116.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          18
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Artigo 106:
+                        Art. 106. A lei aplica-se a ato ou fato pretérito:
+
+                        I - em qualquer caso, quando seja expressamente interpretativa,
+                        excluída a aplicação de penalidade à infração dos dispositivos
+                        interpretados;
+
+                        II - tratando-se de ato não definitivamente julgado:
+
+                        a) quando deixe de defini-lo como infração;
+
+                        b) quando deixe de tratá-lo como contrário a qualquer
+                        exigência de ação ou omissão, desde que não tenha sido
+                        fraudulento e não tenha implicado em falta de pagamento de
+                        tributo;
+
+                        c) quando lhe comine penalidade menos severa que a prevista
+                        na lei vigente ao tempo da sua prática.
+
+                        Artigo 107:
+                        Art. 107. A legislação tributária será interpretada conforme o
+                        disposto neste Capítulo.
+
+                        Artigo 108:
+                        Art. 108. Na ausência de disposição expressa, a autoridade
+                        competente para aplicar a legislação tributária utilizará
+                        sucessivamente, na ordem indicada:
+
+                        I - a analogia;
+
+                        II - os princípios gerais de direito tributário;
+
+                        III - os princípios gerais de direito público;
+
+                        IV - a equidade.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       19
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        § 1º O emprego da analogia não poderá resultar na exigência
+                        de tributo não previsto em lei.
+
+                        § 2º O emprego da equidade não poderá resultar na dispensa
+                        do pagamento de tributo devido.
+
+                        Artigo 109:
+                        Art. 109. Os princípios gerais de direito privado utilizam-se para
+                        pesquisa da definição, do conteúdo e do alcance de seus
+                        institutos, conceitos e formas, mas não para definição dos
+                        respectivos efeitos tributários.
+
+                        Artigo 110:
+                        Art. 110. A lei tributária não pode alterar a definição, o
+                        conteúdo e o alcance de institutos, conceitos e formas de
+                        direito privado, utilizados, expressa ou implicitamente, pela
+                        Constituição Federal, pelas Constituições dos Estados, ou pelas
+                        Leis Orgânicas do Distrito Federal ou dos Municípios, para
+                        definir ou limitar competências tributárias.
+
+                        Artigo 111:
+                         Art. 111. Interpreta-se literalmente a legislação tributária que
+                        disponha sobre:
+
+                         I - suspensão ou exclusão do crédito tributário;
+
+                        II - outorga de isenção;
+
+                        III - dispensa do cumprimento de obrigações tributárias
+                        acessórias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          20
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Artigo 112:
+                        Art. 112. A lei tributária que define infrações, ou lhe comina
+                        penalidades, interpreta-se da maneira mais favorável ao
+                        acusado, em caso de dúvida quanto:
+
+                        I - à capitulação legal do fato;
+
+                        II - à natureza ou às circunstâncias materiais do fato, ou à
+                        natureza ou extensão dos seus efeitos;
+
+                        III - à autoria, imputabilidade ou punibilidade;
+
+                        IV - à natureza da penalidade aplicável, ou à sua graduação.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      21
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    4. APOSTA ESTRATÉGICA
+
+    A ideia desta seção é apresentar os pontos do conteúdo que mais possuem
+    chances de serem cobrados em prova, considerando o histórico de questões
+    da banca em provas de nível semelhante à nossa.
+    Assim, a aposta estratégica é especialmente importante na sua reta final de
+    estudos.
+    Vamos ao conteúdo da nossa aposta?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   22
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    5. QUESTÕES ESTRATÉGICAS
+
+    Nesta seção, apresentamos e comentamos uma amostra de questões objetivas
+    selecionadas estrategicamente: são questões com nível de dificuldade
+    semelhante ao que você deve esperar para a sua prova e que, em conjunto,
+    abordam os principais pontos do assunto.
+    A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa
+    de questões, mas que você faça uma boa revisão global do assunto a partir
+    de, relativamente, poucas questões.
+
+    QUESTÕES FGV
+
+    1-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) A
+    expressão “legislação tributária” compreende as leis, os tratados e as
+    convenções internacionais, os decretos e as normas complementares que
+    versem sobre tributos e relações jurídicas a eles pertinentes.
+
+    Sobre a legislação tributária, assinale a afirmativa incorreta.
+
+    (A) A lei tributária não se aplica a ato ou fato pretérito, ainda que seja
+    expressamente interpretativa, sob pena de violação do princípio da
+    irretroatividade.
+
+    (B) Somente a lei pode estabelecer a cominação de penalidades para ações e
+    omissões contrárias a seus dispositivos.
+
+    (C) Os tratados e convenções internacionais podem revogar ou modificar a
+    legislação tributária interna.
+
+    (D) O Poder Executivo pode, nas condições e nos limites estabelecidos em lei,
+    alterar as alíquotas do imposto de Importação, Imposto de Exportação,
+    Imposto sobre Produtos Industrializados e Imposto sobre Operações
+    Financeiras.
+
+    (E) A lei tributária não pode alterar a definição, o conteúdo e o alcance de
+    institutos, conceitos e formas de direito privado, utilizados pela Constituição
+    Federal, para definir ou limitar competências tributárias.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   23
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Comentários: Temos aqui uma questão sobre Legislação Tributária, em que o
+    examinador pede para assinalarmos a alternativa incorreta. Vamos às
+    alternativas:
+
+    Alternativa A (Incorreta): O CTN, em seu Artigo 106, afirma que no caso de Lei
+    meramente interpretativa, e/ou no caso beneficiar o réu na hipótese de ele ter
+    cometido uma infração (em ato não definitivamente julgado), a lei poderá ser
+    aplicada a ato ou fato pretérito.
+
+    Vejamos o texto legal:
+
+                        Art. 106. A lei aplica-se a ato ou fato pretérito:
+
+                        I - em qualquer caso, quando seja expressamente interpretativa,
+                        excluída a aplicação de penalidade à infração dos dispositivos
+                        interpretados;
+
+                        II - tratando-se de ato não definitivamente julgado:
+
+                        a) quando deixe de defini-lo como infração;
+
+                        b) quando deixe de tratá-lo como contrário a qualquer
+                        exigência de ação ou omissão, desde que não tenha sido
+                        fraudulento e não tenha implicado em falta de pagamento de
+                        tributo;
+
+                        c) quando lhe comine penalidade menos severa que a prevista
+                        na lei vigente ao tempo da sua prática.
+
+    Alternativa B (Correta): Perfeito! É o que determina o Artigo 97, V, do CTN:
+
+                        Art. 97. Somente a lei pode estabelecer:
+
+                        V - a cominação de penalidades para as ações ou omissões
+                        contrárias a seus dispositivos, ou para outras infrações nela
+                        definidas;
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       24
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Alternativa C (Correta): Exato! É o que determina o Artigo 98 do CTN:
+
+                        Art. 98. Os tratados e as convenções internacionais revogam ou
+                        modificam a legislação tributária interna, e serão observados
+                        pela que lhes sobrevenha.
+
+    Aqui cabe uma observação: Apesar de o CTN afirmar que “Os tratados e as
+    convenções internacionais revogam ou modificam a legislação tributária
+    interna”, na verdade eles SUSPENDEM a legislação interna no que forem
+    contrários. Assim, caso um tratado ou convenção internacional venha a ser
+    desfeito, a legislação interna volta automaticamente a valer.
+
+    Alternativa D (Correta): Isso mesmo! É um assunto que vimos ao estudar os
+    Impostos Federais.
+
+    Assim, observadas as condições e limites previsto em lei, o Poder Executivo
+    pode alterar as alíquotas dos seguintes impostos: II, IE, IPI e IOF.
+
+    Alternativa E (Correta): Temos aqui uma alternativa literal, conforme o Art. 110
+    do CTN. Aqui vale a dica de sempre ler mais de uma vez a lei seca, pois as
+    bancas adoram cobrar a literalidade.
+
+                        Art. 110. A lei tributária não pode alterar a definição, o
+                        conteúdo e o alcance de institutos, conceitos e formas de
+                        direito privado, utilizados, expressa ou implicitamente, pela
+                        Constituição Federal, pelas Constituições dos Estados, ou pelas
+                        Leis Orgânicas do Distrito Federal ou dos Municípios, para
+                        definir ou limitar competências tributárias.
+
+
+    Gabarito: A
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       25
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    2-) (FGV - Agente Fazendário - Niterói/2015) Quanto ao Imposto sobre
+    propriedade predial e territorial urbana - IPTU, a matéria que poderá ser
+    veiculada por decreto é a:
+
+    (A) redução das alíquotas;
+
+    (B) majoração da base de cálculo;
+
+    (C) atualização da base de cálculo, desde que por índice oficial de correção
+    monetária;
+
+    (D) redução da base de cálculo;
+
+    (E) atualização da base de cálculo, por qualquer dos índices de preço adotados
+    pelo mercado.
+
+    Comentários: Como via de regra, a quase totalidade de tributos são instituídos
+    por meio de Lei Ordinária, com raras exceções que exigem Lei Complementar
+    para suas instituições, como é o caso do Imposto sobre Grandes Fortunas,
+    Empréstimos compulsórios, Impostos Residuais, etc. (Princípio da Legalidade).
+
+    Ocorre que no caso de Atualização do Valor Monetário da Base de Cálculo,
+    não está se instituindo e nem mesmo majorando o tributo, apenas atualizando
+    o “dinheiro no tempo”. Esse entendimento se confirma no § 2º do Artigo 97
+    do CTN, conforme abaixo:
+
+                        Art. 97 § 2º Não constitui majoração de tributo, para os fins do
+                        disposto no inciso II deste artigo, a atualização do valor
+                        monetário da respectiva base de cálculo.
+
+    Assim, atualização da base de cálculo por índice oficial de correção monetária,
+    como não se trata de majoração de tributo, pode ser realizada através de ato
+    do Poder Executivo.
+
+    Gabarito: C
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        26
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    3-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2014) Por
+    meio de decreto, o Prefeito do Município de Cuiabá atualiza o valor monetário
+    da base de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana
+    (IPTU), ajustando-o ao valor de mercado dos imóveis, sem ultrapassar a
+    inflação acumulada desde o último reajuste. O Decreto prevê que os novos
+    valores serão observados a partir da data de sua publicação.
+
+    Tal mudança é
+
+    (A) inconstitucional, por violar o princípio da irretroatividade, apenas.
+
+    (B) inconstitucional, por violar o princípio da legalidade, apenas.
+
+    (C) inconstitucional, por violar os princípios da legalidade e da irretroatividade.
+
+    (D) legítima, pois a atualização do valor monetário da base de cálculo não
+    constitui majoração de tributo.
+
+    (E) legítima, pois a majoração do IPTU pode ser promovida por decreto.
+
+    Comentários: O enunciado afirma que o Decreto em questão atualiza o Valor
+    da Base de Cálculo do IPTU em valor inferior à inflação acumulada no período.
+    Conforme vemos no § 2º do Artigo 97 do CTN, neste caso não há que se falar
+    em majoração de tributo, e desta forma não há necessidade de Lei para a
+    atualização.
+
+                        Art. 97 § 2º Não constitui majoração de tributo, para os fins do
+                        disposto no inciso II deste artigo, a atualização do valor
+                        monetário da respectiva base de cálculo
+
+    Desta forma o decreto é legitimo, pois sua atualização, por não ser superior à
+    inflação do período, não constitui majoração do tributo.
+
+    Gabarito: D
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        27
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) A lei tributária será aplicada a
+    fatos que venham a ocorrer após sua vacatio legis, se houver, e também a fato
+    pretérito quando:
+
+    (A) aumentar a alíquota do tributo;
+
+    (B) cominar pena mais severa à infração tributária;
+
+    (C) deixar de tratar o fato como contrário a qualquer exigência de ação ou
+    omissão, mesmo que tenha sido fraudulento e não tenha implicado falta de
+    pagamento de tributo;
+
+    (D) diminuir o percentual da multa aplicável em relação à lei vigente ao tempo
+    da sua prática e o fato ainda não tiver sido definitivamente julgado;
+
+    (E) for meramente interpretativa, mesmo para a aplicação de penalidade à
+    infração dos dispositivos interpretados.
+
+    Comentários: Temos aqui uma questão que pergunta, basicamente, quando
+    que a lei tributária pode se aplicar a fato pretérito.
+
+    Conforme o Artigo 106 do CTN a lei se aplica a ato ou fato pretérito:
+
+          ▪ em qualquer caso, quando seja expressamente interpretativa, excluída
+             a aplicação de penalidade à infração dos dispositivos interpretados;
+
+
+          ▪ tratando-se de ato não definitivamente julgado:
+                 ▪ quando deixe de defini-lo como infração;
+                 ▪ quando deixe de tratá-lo como contrário a qualquer exigência de
+                     ação ou omissão, desde que não tenha sido fraudulento e não
+                     tenha implicado em falta de pagamento de tributo;
+                 ▪ quando lhe comine penalidade menos severa que a prevista na lei
+                     vigente ao tempo da sua prática.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   28
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Assim, entre as alternativas apresentadas, apenas na diminuição do percentual
+    de multa relativo a fato ainda não definitivamente julgado, é que poderá haver
+    a retroação da lei tributária.
+
+    Gabarito: D
+
+    5-) (FGV - Auditor do Tesouro Municipal - Recife/2014 - Adaptada) Considere
+    os enunciados a seguir.
+
+    I. Vacatio legis é o período em que a norma jurídica não tem eficácia, embora
+    esteja vigente.
+
+    II. O Código Tributário Nacional veda a extraterritorialidade da legislação
+    tributária, como forma de proteger a Federação.
+
+    III. Na hipótese dos tratados e convenções internacionais, o decreto que os
+    promulga suspende a eficácia da legislação que é anterior a eles.
+
+    Assinale:
+
+    (A) se somente as afirmativas I e III estiverem corretas.
+
+    (B) se somente as afirmativas I e II estiverem corretas.
+
+    (C) se somente as afirmativas II e III estiverem corretas.
+
+    (D) se somente a afirmativa II estiver correta.
+
+    (E) se somente a afirmativa III estiver correta.
+
+    Comentários: Vamos analisar cada uma das assertivas:
+
+    Assertiva I (Incorreta): Vacatio Legis é o período entre a data da publicação da
+    lei e o início de sua vigência.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    29
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Assertiva II (Incorreta): Apesar de a regra ser a territorialidade (a Lei do Ente
+    Federativo vale, em regra, em seu território, o CTN prevê a possibilidade da
+    extraterritorialidade no seu texto, no Artigo 102:
+
+                        Art. 102. A legislação tributária dos Estados, do Distrito Federal
+                        e dos Municípios vigora, no País, fora dos respectivos
+                        territórios,        nos      limites       em       que       lhe       reconheçam
+                        extraterritorialidade os convênios de que participem, ou do que
+                        disponham esta ou outras leis de normas gerais expedidas pela
+                        União.
+
+    Assertiva III (Correta): Apesar de o CTN afirmar em seu Artigo 98 que “Os
+    tratados e as convenções internacionais revogam ou modificam a legislação
+    tributária interna, e serão observados pela que lhes sobrevenha”, na verdade
+    o que ocorre é a SUSPENSÃO da legislação interna naquilo que for contrária
+    aos tratados e as convenções internacionais.
+
+    Aqui cabe apenas uma ressalva sobre o texto da assertiva: O mais correto seria
+    o examinador afirmar que “Na hipótese dos tratados e convenções
+    internacionais, o decreto que os promulga suspende a eficácia da legislação
+    anterior      que      lhe     seja    contrária”,       e    não      colocando        a    suspensão
+    indiscriminadamente.
+
+    Apesar desta observação, a Banca considerou a assertiva como correta.
+
+    Gabarito: E
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                          30
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    6-) (FGV - Auditor do Tesouro Municipal - Recife/2014) A respeito da
+    interpretação e da integração da legislação tributária, assinale V para a
+    afirmativa verdadeira e F para a falsa.
+
+
+    ( ) Os princípios gerais de direito privado são utilizados no direito tributário
+    para definir os efeitos, conteúdo e alcance de seus institutos.
+
+    ( ) O intérprete deve fazer uso, em casos de suspensão ou exclusão do crédito
+    tributário, da exegese literal.
+
+    ( ) A legislação tributária que defina infrações deve ser interpretada, quanto à
+    capitulação legal do fato, de forma mais favorável ao acusado.
+
+    ( ) O princípio da legalidade funciona como limite à integração da legislação
+    tributária, quando se trata de usar a equidade.
+
+
+    As afirmativas são, respectivamente,
+
+    (A) F, V, F e V.
+
+    (B) V, F, F e V.
+
+    (C) F, V, V e F.
+
+    (D) V, V, F e F.
+
+    (E) F, F, V e V.
+
+    Comentários: Temos aqui uma questão sobre a Interpretação e Integração da
+    Legislação Tributária.
+
+    Vamos analisar cada um dos itens:
+
+    Item I (Falso): Conforme o Artigo 109 do CTN, os princípios gerais de direito
+    privado não podem ser utilizados para definição dos respectivos efeitos
+    tributários.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    31
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                        Art. 109. Os princípios gerais de direito privado utilizam-se para
+                        pesquisa da definição, do conteúdo e do alcance de seus
+                        institutos, conceitos e formas, mas não para definição dos
+                        respectivos efeitos tributários”.
+
+
+    Item II (Verdadeiro): Perfeito! Conforme o Artigo 111 do CTN, a interpretação
+    da norma deve ser literal no caso de suspensão ou exclusão do crédito
+    tributário.
+
+                        Art. 111. Interpreta-se literalmente a legislação tributária que
+                        disponha sobre:
+                         I - suspensão ou exclusão do crédito tributário;
+                        II - outorga de isenção;
+                        III - dispensa do cumprimento de obrigações tributárias
+                        acessórias.
+
+
+    Item III (Falso): Muito Cuidado! A lei tributária que define infrações só deve ser
+    interpretada de forma mais favorável ao acusado no caso de dúvida quanto à
+    capitulação legal do fato, e não em todas as hipóteses.
+
+                        Art. 112. A lei tributária que define infrações, ou lhe comina
+                        penalidades, interpreta-se da maneira mais favorável ao
+                        acusado, em caso de dúvida quanto:
+
+                        I - à capitulação legal do fato;
+
+
+    Item IV (Verdadeiro): Exato! Conforme o Artigo 108, § 2º, do CTN, O emprego
+    da equidade não poderá resultar na dispensa do pagamento de tributo
+    devido, ou seja, a equidade não pode sobrepor o que a lei determina.
+
+
+    Assim chegamos às respostas F, V, F, V.
+
+    Gabarito: A
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário          32
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    6. QUESTIONÁRIO DE REVISÃO
+    A seguir, apresentamos um questionário por meio do qual é possível realizar
+    uma revisão dos principais pontos da matéria.
+    É possível utilizar o questionário de revisão de diversas maneiras. O leitor
+    pode, por exemplo:
+    1. ler cada pergunta e realizar uma autoexplicação mental da resposta;
+    2. ler as perguntas e respostas em sequência, para realizar uma revisão mais
+    rápida;
+    3. eleger algumas perguntas para respondê-las de maneira discursiva.
+
+                                  Questionário – Somente perguntas
+
+    1-) Qual o meio normativo legítimo para estabelecer Normas Gerais em
+    matéria de legislação tributária?
+
+
+    2-) Qual o meio normativo legítimo para dispor sobre adequado tratamento
+    tributário ao ato cooperativo praticado pelas sociedades cooperativas?
+
+
+    3-) É considerada majoração de tributo a modificação da sua base de cálculo,
+    que importe em torná-lo mais oneroso? E a hipótese de atualização do valor
+    monetário da respectiva base de cálculo, é considerada majoração de tributo?
+
+
+    4-) Tratados internacionais podem tratar de matéria reservada a lei
+    complementar?
+
+
+    5-) Segundo o CTN, quais são as normas complementares das leis, dos
+    tratados e das convenções internacionais e dos decretos?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   33
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    6-) O que significa vacatio legis?
+
+
+    7-) É possível uma lei estar vigente, mas sem efeito? E uma lei não vigente,
+    porém com efeito, é possível?
+
+
+    8-) Segundo o CTN, salvo disposição em contrário, quando entram em vigor
+    os atos administrativos? E as decisões dos órgãos singulares ou coletivos de
+    jurisdição administrativa, a que a lei atribua eficácia normativa? E os convênios
+    que entre si celebrem a União, os Estados, o Distrito Federal e os Municípios?
+
+
+    9-) Segundo o CTN, quando a lei pode retroagir?
+
+
+    10-) Quando se deve interpretar a legislação tributária de forma literal?
+
+
+    11-) Em quais situações deve-se interpretar a lei mais favoravelmente ao
+    acusado?
+
+
+    12-) Qual a ordem de integração deve ser obedecida, no caso de ausência de
+    disposição expressa?
+
+
+    13-) Quais as observações em relação à utilização da analogia e da equidade
+    na integração da Legislação Tributária?
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário     34
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                                Questionário – Perguntas e Respostas
+
+    1-) Qual o meio normativo legítimo para estabelecer Normas Gerais em
+    matéria de legislação tributária?
+    Resposta: Cabe à lei Complementar Estabelecer normas gerais em matéria de
+    legislação tributária, especialmente sobre:
+
+                           ▪ definição de tributos e de suas espécies, bem como, em
+                              relação aos impostos discriminados nesta Constituição, a
+                              dos respectivos fatos geradores, bases de cálculo e
+                              contribuintes (somente para os impostos);
+                           ▪ obrigação, lançamento, crédito, prescrição e decadência
+                              tributários;
+                           ▪ adequado tratamento tributário ao ato cooperativo
+                              praticado pelas sociedades cooperativas.
+                           ▪ definição de tratamento diferenciado e favorecido para as
+                              microempresas e para as empresas de pequeno porte,
+                              inclusive regimes especiais ou simplificados
+
+    2-) Qual o meio normativo legítimo para dispor sobre adequado tratamento
+    tributário ao ato cooperativo praticado pelas sociedades cooperativas?
+    Resposta: Também é através de Lei Complementar.
+
+
+    3-) É considerada majoração de tributo a modificação da sua base de cálculo,
+    que importe em torná-lo mais oneroso? E a hipótese de atualização do valor
+    monetário da respectiva base de cálculo, é considerada majoração de tributo?
+    Resposta: Equipara-se à majoração do tributo a modificação da sua base de
+    cálculo, que importe em torná-lo mais oneroso. Já no caso de atualização do
+    valor monetário da respectiva base de cálculo, este Não constitui majoração
+    de tributo, desde que até o limite da inflação apurada no período.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário      35
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    4-) Tratados internacionais podem tratar de matéria reservada a lei
+    complementar?
+    Resposta: Não! Os Tratados ou Convenções internacionais possuem o mesmo
+    status das Leis Ordinárias.
+
+
+    5-) Segundo o CTN, quais são as normas complementares das leis, dos
+    tratados e das convenções internacionais e dos decretos?
+    Resposta: Segundo o CTN, são normas complementares das leis, dos tratados
+    e das convenções internacionais e dos decretos:
+
+          ▪ os atos normativos expedidos pelas autoridades administrativas;
+          ▪ as decisões dos órgãos singulares ou coletivos de jurisdição
+              administrativa, a que a lei atribua eficácia normativa (Súmulas de órgãos
+              de julgamento na esfera administrativa, por exemplo);
+          ▪   as     práticas        reiteradamente            observadas             pelas   autoridades
+              administrativas;
+          ▪ os convênios que entre si celebrem a União, os Estados, o Distrito
+              Federal e os Municípios.
+
+    6-) O que significa vacatio legis?
+    Resposta: vacatio legis é o período entre a data da publicação da lei e o início
+    de sua vigência.
+
+
+    7-) É possível uma lei estar vigente, mas sem efeito? E uma lei não vigente,
+    porém com efeito, é possível?
+    Resposta: Sim para as duas perguntas. No caso de lei instituindo ou majorando
+    tributos, tendo em vista os princípios da anterioridade e da noventena, pode
+    ocorrer de a lei já estar vigente, mas ainda não ser eficaz (a lei é dada como
+    vigente, mas ainda não cumpriu os prazos de Anterioridade e/ou Noventena,
+    não produzindo, portanto, seus efeitos).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                         36
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    Já no caso de uma lei revogada, pode ocorrer dela não estar mais vigente,
+    porém ainda assim ser eficaz em relação aos Fatos Geradores ocorridos
+    durante a sua vigência. (É o caso da lei já revogada, que produz efeitos
+    especificamente para os Fatos Geradores ocorridos à época em que ela era
+    vigente)
+
+    8-) Segundo o CTN, salvo disposição em contrário, quando entram em vigor
+    os atos administrativos? E as decisões dos órgãos singulares ou coletivos de
+    jurisdição administrativa, a que a lei atribua eficácia normativa? E os convênios
+    que entre si celebrem a União, os Estados, o Distrito Federal e os Municípios?
+    Resposta: Segundo o Art. 103 do CTN, Salvo disposição em contrário, entram
+    em vigor:
+
+          ▪ os atos administrativos a que se refere o inciso I do artigo 100, na data
+             da sua publicação;
+          ▪ as decisões a que se refere o inciso II do artigo 100, quanto a seus efeitos
+             normativos, 30 (trinta) dias após a data da sua publicação;
+          ▪ os convênios a que se refere o inciso IV do artigo 100, na data neles
+             prevista.
+
+    9-) Segundo o CTN, quando a lei pode retroagir?
+    Resposta: O CTN prevê duas hipóteses em que a lei pode retroagir:
+
+          ▪ Lei expressamente interpretativa (neste caso a Lei interpretativa
+             retroage à data da Lei interpretada).
+          ▪ Lei mais benéfica ao infrator (apenas no caso de se tratar de infração, e
+             de o ato não estar definitivamente julgado).
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário        37
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    10-) Quando se deve interpretar a legislação tributária de forma literal?
+    Resposta: Interpreta-se literalmente a legislação tributária que disponha
+    sobre:
+
+          ▪ suspensão ou exclusão do crédito tributário;
+          ▪ outorga de isenção (que é um tipo de exclusão);
+          ▪ dispensa do cumprimento de obrigações tributárias acessórias.
+
+    11-) Em quais situações deve-se interpretar a lei mais favoravelmente ao
+    acusado?
+    Resposta: Lei tributária que define infrações, ou lhe comina penalidades,
+    interpreta-se da maneira mais favorável ao acusado, em caso de dúvida quanto
+    (reparem que a interpretação mais favorável é apenas no caso de infração, na
+    hipótese de existir dúvida em um dos pontos abaixo):
+
+          ▪ à capitulação legal do fato;
+          ▪ à natureza ou às circunstâncias materiais do fato, ou à natureza ou
+             extensão dos seus efeitos;
+          ▪ à autoria, imputabilidade ou punibilidade;
+          ▪ à natureza da penalidade aplicável, ou à sua graduação.
+
+    12-) Qual a ordem de integração deve ser obedecida, no caso de ausência de
+    disposição expressa?
+    Resposta: Na ausência de disposição expressa, a autoridade competente para
+    aplicar a legislação tributária utilizará sucessivamente, na ordem indicada:
+    (memorizem a ORDEM)
+
+          1º: a analogia; (busca por norma aplicável a caso similar)
+
+          2º: os princípios gerais de direito tributário;
+
+          3º: os princípios gerais de direito público;
+
+          4º: a equidade. (criar a solução mais justa)
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   38
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    13-) Quais as observações em relação à utilização da analogia e da equidade
+    na integração da Legislação Tributária?
+    Resposta: Em relação à analogia e equidade, dois pontos devem ser
+    observados:
+          ▪ O emprego da analogia não poderá resultar na exigência de tributo não
+              previsto em lei.
+          ▪   O emprego da equidade não poderá resultar na dispensa do
+              pagamento de tributo devido.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   39
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    7. QUESTÕES DE AULA
+
+    Trazemos aqui apenas os enunciados das questões tratadas nesta aula, no
+    tópico “Análise de Questões”:
+
+    QUESTÕES FGV
+
+    1-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2016) A
+    expressão “legislação tributária” compreende as leis, os tratados e as
+    convenções internacionais, os decretos e as normas complementares que
+    versem sobre tributos e relações jurídicas a eles pertinentes.
+
+    Sobre a legislação tributária, assinale a afirmativa incorreta.
+
+    (A) A lei tributária não se aplica a ato ou fato pretérito, ainda que seja
+    expressamente interpretativa, sob pena de violação do princípio da
+    irretroatividade.
+
+    (B) Somente a lei pode estabelecer a cominação de penalidades para ações e
+    omissões contrárias a seus dispositivos.
+
+    (C) Os tratados e convenções internacionais podem revogar ou modificar a
+    legislação tributária interna.
+
+    (D) O Poder Executivo pode, nas condições e nos limites estabelecidos em lei,
+    alterar as alíquotas do imposto de Importação, Imposto de Exportação,
+    Imposto sobre Produtos Industrializados e Imposto sobre Operações
+    Financeiras.
+
+    (E) A lei tributária não pode alterar a definição, o conteúdo e o alcance de
+    institutos, conceitos e formas de direito privado, utilizados pela Constituição
+    Federal, para definir ou limitar competências tributárias.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   40
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    2-) (FGV - Agente Fazendário - Niterói/2015) Quanto ao Imposto sobre
+    propriedade predial e territorial urbana - IPTU, a matéria que poderá ser
+    veiculada por decreto é a:
+
+    (A) redução das alíquotas;
+
+    (B) majoração da base de cálculo;
+
+    (C) atualização da base de cálculo, desde que por índice oficial de correção
+    monetária;
+
+    (D) redução da base de cálculo;
+
+    (E) atualização da base de cálculo, por qualquer dos índices de preço adotados
+    pelo mercado.
+
+    3-) (FGV - Auditor Fiscal Tributário da Receita Municipal - Cuiabá/2014) Por
+    meio de decreto, o Prefeito do Município de Cuiabá atualiza o valor monetário
+    da base de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana
+    (IPTU), ajustando-o ao valor de mercado dos imóveis, sem ultrapassar a
+    inflação acumulada desde o último reajuste. O Decreto prevê que os novos
+    valores serão observados a partir da data de sua publicação.
+
+    Tal mudança é
+
+    (A) inconstitucional, por violar o princípio da irretroatividade, apenas.
+
+    (B) inconstitucional, por violar o princípio da legalidade, apenas.
+
+    (C) inconstitucional, por violar os princípios da legalidade e da irretroatividade.
+
+    (D) legítima, pois a atualização do valor monetário da base de cálculo não
+    constitui majoração de tributo.
+
+    (E) legítima, pois a majoração do IPTU pode ser promovida por decreto.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário       41
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    4-) (FGV - Agente Fazendário - Niterói/2015) A lei tributária será aplicada a
+    fatos que venham a ocorrer após sua vacatio legis, se houver, e também a fato
+    pretérito quando:
+
+    (A) aumentar a alíquota do tributo;
+
+    (B) cominar pena mais severa à infração tributária;
+
+    (C) deixar de tratar o fato como contrário a qualquer exigência de ação ou
+    omissão, mesmo que tenha sido fraudulento e não tenha implicado falta de
+    pagamento de tributo;
+
+    (D) diminuir o percentual da multa aplicável em relação à lei vigente ao tempo
+    da sua prática e o fato ainda não tiver sido definitivamente julgado;
+
+    (E) for meramente interpretativa, mesmo para a aplicação de penalidade à
+    infração dos dispositivos interpretados.
+
+    5-) (FGV - Auditor do Tesouro Municipal - Recife/2014 - Adaptada) Considere
+    os enunciados a seguir.
+
+    I. Vacatio legis é o período em que a norma jurídica não tem eficácia, embora
+    esteja vigente.
+
+    II. O Código Tributário Nacional veda a extraterritorialidade da legislação
+    tributária, como forma de proteger a Federação.
+
+    III. Na hipótese dos tratados e convenções internacionais, o decreto que os
+    promulga suspende a eficácia da legislação que é anterior a eles.
+
+    Assinale:
+
+    (A) se somente as afirmativas I e III estiverem corretas.
+
+    (B) se somente as afirmativas I e II estiverem corretas.
+
+    (C) se somente as afirmativas II e III estiverem corretas.
+
+    (D) se somente a afirmativa II estiver correta.
+
+    (E) se somente a afirmativa III estiver correta.
+
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário   42
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    6-) (FGV - Auditor do Tesouro Municipal - Recife/2014) A respeito da
+    interpretação e da integração da legislação tributária, assinale V para a
+    afirmativa verdadeira e F para a falsa.
+
+
+    ( ) Os princípios gerais de direito privado são utilizados no direito tributário
+    para definir os efeitos, conteúdo e alcance de seus institutos.
+
+    ( ) O intérprete deve fazer uso, em casos de suspensão ou exclusão do crédito
+    tributário, da exegese literal.
+
+    ( ) A legislação tributária que defina infrações deve ser interpretada, quanto à
+    capitulação legal do fato, de forma mais favorável ao acusado.
+
+    ( ) O princípio da legalidade funciona como limite à integração da legislação
+    tributária, quando se trata de usar a equidade.
+
+
+    As afirmativas são, respectivamente,
+
+    (A) F, V, F e V.
+
+    (B) V, F, F e V.
+
+    (C) F, V, V e F.
+
+    (D) V, V, F e F.
+
+    (E) F, F, V e V.
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário    43
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+    GABARITO
+
+          1-A                  2-C                  3-D                  4-D          5-E
+          6-A
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário         44
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+Fernando Mauricio Correa
+Aula 10
+
+                           Meu amigo(a) concurseiro(a), finalizamos mais uma etapa
+                       rumo à sua aprovação.
+
+
+                                No estudo de hoje vimos os principais pontos sobre
+    Legislação Tributária, Vigência, Aplicação, Interpretação e Integração da
+    Legislação Tributária
+
+          “O sucesso é a soma de pequenos esforços repetidos dia após dia”
+                                                                                      Robert Collier
+
+                     Um grande abraço e que Deus os abençoe.
+
+                                        Até a próxima aula!!!
+
+                           @proffernandoM                                    Tributário FM
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Tributário                    45
+      www.estrategiaconcursos.com.br
+
+                                   
+
+
+---
+
+---

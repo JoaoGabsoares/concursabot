@@ -1,0 +1,2066 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 14_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '14'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 13
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 13
+
+     RECRUTAMENTO E SELEÇÃO DE PESSOAS.
+  TREINAMENTO E DESENVOLVIMENTO. ANÁLISE E
+           DESCRIÇÃO DE CARGOS.
+
+Considerações Iniciais 
+Análise Estatística 
+  Análise geral 
+  O que é mais cobrado dentro do assunto? 
+Roteiro de revisão e pontos do assunto que merecem destaque 
+Aposta estratégica 
+Questões estratégicas 
+Questionário de revisão e aperfeiçoamento 
+  Perguntas 
+  Perguntas com respostas 
+Lista de Questões Estratégicas Sem Comentários 
+  Gabarito 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+             Inserir aqui o nome do Curso
+             www.estrategiaconcursos.com.br
+                                       
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                              CONSIDERAÇÕES INICIAIS
+Seguimos nosso processo de revisão de Administração Geral.
+Na aula de hoje traremos os seguintes tópicos:
+    •   Gestão do Desempenho
+    •   Gestão por Competências
+Vamos iniciar!
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                                     ANÁLISE ESTATÍSTICA
+Análise geral
+
+Inicialmente, convém destacar os percentuais de incidência de todos os assuntos previstos no
+nosso curso – quanto maior o percentual de cobrança de um dado assunto, maior sua
+importância:
+
+
+                                                                                           Grau de incidência em
+                                     Assunto
+                                                                                              provas da FGV
+
+          Planejamento (Estratégico, Tático e Operacional)                                        18,9%
+
+                              Gestão de Projetos                                                  12,6%
+
+             Teoria da administração e das organizações.                                          10,1%
+
+ Organização. Estrutura organizacional; departamentalização.                                       7,0%
+
+                                    Liderança                                                      6,1%
+
+                             Gestão de Processos                                                   5,1%
+
+                          Gestão do Desempenho                                                     4,7%
+
+                              Gestão de Pessoas                                                    4,4%
+
+                              Processo Decisório                                                   4,4%
+
+     Comportamento organizacional: cultura organizacional;                                         3,2%
+
+                                 Recrutamento                                                      3,2%
+
+                      Treinamento e Desenvolvimento                                                3,1%
+
+      O processo administrativo. Funções de administração.                                         2,8%
+
+                       Análise e descrição de cargos                                               2,6%
+
+                             Equipes de Trabalho                                                   2,6%
+
+                         Gestão por Competências                                                   2,2%
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                       Indicadores de desempenho                                           2,2%
+
+                                     Controle                                              2,1%
+
+                  Papéis e habilidades do administrador                                    1,5%
+
+                               Gestão de Riscos                                            0,9%
+
+                  Administração de compras e materiais                                     N/A
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+O que é mais cobrado dentro do assunto?
+
+Assim, considerando os tópicos que compõem essa aula possuímos a seguinte distribuição
+percentual, em ordem decrescente de cobrança.
+
+                                                                                           Grau de incidência em
+                                      Tópico
+                                                                                              provas da FGV
+
+                                 Recrutamento                                                     50.00%
+
+                       Análise e Desenho de Cargos                                                26.67%
+
+                                     Seleção                                                      23.33%
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+        ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                      MERECEM DESTAQUE
+Para revisar e ficar preparado no assunto, você precisa, basicamente, seguir os passos a
+seguir:
+
+
+Recrutamento
+De início, lembre-se da definição de recrutamento:
+
+
+O recrutamento consiste em estratégias e métodos empregados para atrair indivíduos com
+qualificações adequadas às necessidades de uma organização.
+
+Segundo Chiavenato, trata-se de uma etapa crucial para garantir que o processo de seleção
+posterior seja eficiente. Essa atividade pode ser conduzida internamente pelo departamento de
+RH ou delegada a consultorias especializadas
+
+O processo de recrutamento é estruturado em quatro etapas principais:
+
+     Coleta de
+    Informações
+                                     Planejamento                  Implementação           Avaliação
+
+É importante entender mais sobre essas 4 etapas:
+
+1. Coleta de Informações:
+
+    •   Nesta fase inicial, o objetivo é entender e documentar as necessidades da vaga. O setor
+        responsável avalia quais competências são essenciais para o cargo e define o perfil ideal
+        do candidato.
+    •   Além disso, é necessário determinar os prazos para preenchimento, analisar os recursos
+        financeiros disponíveis para o processo, e considerar o cenário do mercado de trabalho,
+        como a oferta de candidatos qualificados.
+
+2. Planejamento:
+
+    •   Após a coleta de dados, é preciso organizar o processo de recrutamento. Isso envolve
+        decidir:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+             o   Tipo de Recrutamento: Será interno (aproveitando os talentos existentes na
+                 empresa), externo (busca no mercado de trabalho) ou misto (uma combinação de
+                 ambos)?
+
+             o   Fontes de Recrutamento: Quais serão os alvos para atrair candidatos? Exemplos
+                 incluem redes sociais, consultorias, universidades ou funcionários internos.
+
+             o   Canais de Divulgação: Definir onde e como divulgar as vagas, como anúncios,
+                 mídias digitais ou eventos.
+
+    •   O planejamento também prevê os custos associados e estabelece cronogramas claros.
+
+3. Implementação (Execução):
+
+    •   Nesta etapa, o plano se torna realidade. As vagas são anunciadas nos canais escolhidos,
+        conforme o planejamento.
+    •   A divulgação deve ser atraente e informativa, especificando os requisitos do cargo e os
+        benefícios oferecidos para maximizar o alcance e atrair candidatos qualificados.
+    •   É essencial monitorar continuamente o andamento dessa etapa para garantir a eficácia da
+        comunicação.
+
+4. Avaliação do Recrutamento:
+
+    •   Finalizada a divulgação, é hora de mensurar os resultados:
+
+             o   Quantidade e Qualidade dos Candidatos: Quantas pessoas se candidataram e
+                 quantas atendem ao perfil exigido?
+
+             o   Eficiência dos Meios de Divulgação: Identificar quais canais trouxeram os melhores
+                 resultados.
+
+             o   Satisfação do Processo: Verificar se o recrutamento alcançou o objetivo de
+                 preencher a vaga no prazo e com o candidato adequado.
+
+    •   Com base nesses dados, ajustes podem ser feitos para aprimorar os processos futuros.
+
+Essas etapas ajudam a garantir que o recrutamento seja eficiente, estratégico e alinhado às
+necessidades da organização.
+
+Lembre-se que as fontes utilizadas no recrutamento são os lugares ou canais onde a organização
+busca atrair candidatos.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                                                                             Internas
+
+                      Fontes de Recrutamento                                 Externas
+
+                                                                          Combinadas
+
+Elas podem ser divididas em:
+
+    •   Internas: Baseiam-se na movimentação de funcionários já contratados pela organização.
+
+    •   Externas: Envolvem redes sociais, parcerias com instituições educacionais, bancos de
+        currículos, consultorias especializadas, anúncios em mídia tradicional, entre outros.
+
+    •   Combinadas: Integram tanto fontes internas quanto externas, otimizando a captação de
+        talentos.
+
+Observe ainda que os meios de recrutamento correspondem aos métodos utilizados para buscar
+e atrair candidatos às vagas disponíveis na organização. Eles são classificados de acordo com o
+tipo de público-alvo e o local de busca:
+
+1. Recrutamento Interno
+
+O foco está nos funcionários que já fazem parte da organização. Nesse método, a empresa
+busca preencher a vaga por meio de promoções, transferências ou redistribuição de
+responsabilidades. Ele valoriza os colaboradores atuais e oferece oportunidades de crescimento
+dentro da organização.
+
+Vantagens:
+
+    •   Redução de custos: Evita gastos com anúncios e honorários de empresas externas.
+
+    •   Rapidez: Movimentações internas ocorrem mais rapidamente, já que os funcionários já
+        estão integrados à organização.
+
+    •   Alinhamento cultural: Os colaboradores já conhecem os valores, políticas e práticas da
+        empresa.
+
+    •   Motivação e fidelização: Promove engajamento ao oferecer perspectivas de crescimento.
+
+Desvantagens:
+
+    •   Limitação de ideias novas: Não contribui para a renovação da organização.
+
+    •   Risco de frustrações internas: Colaboradores que não forem escolhidos podem se sentir
+        desmotivados.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    •   Princípio de Peter: O funcionário pode ser promovido além de sua competência.
+
+2. Recrutamento Externo
+
+Busca-se atrair candidatos do mercado de trabalho, tanto desempregados quanto profissionais
+que já estão empregados em outras empresas. É ideal para trazer novos talentos e ideias à
+organização.
+
+Vantagens:
+
+    •   Renovação de habilidades e ideias: Introduz diversidade de experiências e competências.
+
+    •   Inovação organizacional: Profissionais externos podem contribuir para mudanças e
+        melhorias.
+
+    •   Aproveitamento de investimentos externos: A empresa pode contratar candidatos já
+        treinados e experientes.
+
+Desvantagens:
+
+    •   Custos elevados: Envolve despesas com anúncios, consultorias ou agências de emprego.
+
+    •   Processo mais demorado: Inclui etapas como divulgação, seleção e integração.
+
+    •   Incertezas culturais: O novo funcionário pode não se adaptar à cultura organizacional.
+
+Os meios de recrutamento correspondem aos métodos utilizados para buscar e atrair candidatos
+às vagas disponíveis na organização. Eles são classificados de acordo com o tipo de público-alvo
+e o local de busca. A seguir, uma explicação detalhada sobre cada tipo:
+
+3. Recrutamento Misto
+
+Combina o recrutamento interno e externo, buscando o equilíbrio entre os dois métodos. Nesse
+modelo, a empresa explora tanto os talentos internos quanto os recursos do mercado.
+
+Formas de aplicação:
+
+    •   Primeiro interno, depois externo: Prioriza os colaboradores internos, buscando no
+        mercado apenas se não houver candidatos adequados na organização.
+
+    •   Simultâneo: Busca candidatos internos e externos ao mesmo tempo, aumentando as
+        chances de encontrar o perfil ideal.
+
+Vantagens:
+
+    •   Combina as vantagens dos dois métodos, promovendo equilíbrio.
+
+    •   Garante a seleção do melhor candidato, seja interno ou externo.
+
+Desvantagens:
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    •   Pode ser mais complexo de gerenciar, exigindo maior planejamento.
+
+Seleção
+De início, entenda que a seleção é o processo pelo qual a organização avalia e escolhe os
+candidatos mais adequados às vagas disponíveis. O objetivo é alinhar as características dos
+candidatos com as exigências do cargo, aumentando as chances de sucesso no desempenho.
+Segundo Chiavenato, trata-se de comparar as demandas do cargo (variável X) com o perfil do
+candidato (variável Y).
+Lembre-se que perfil profissiográfico é um documento ou conjunto de informações que descreve
+as exigências, competências e características necessárias para ocupar um cargo. Ele é essencial
+para o processo de seleção, pois orienta as decisões e garante que o candidato escolhido tenha
+o perfil adequado. As principais formas de levantamento do perfil são:
+    1. Descrição e Análise do Cargo: Identificação de características intrínsecas (conteúdo do
+       cargo) e extrínsecas (requisitos).
+    2. Técnica de Incidentes Críticos: Avaliação de comportamentos que geraram resultados
+       positivos ou negativos.
+    3. Requisição de Pessoal: Documento emitido pelo gestor, especificando as competências
+       necessárias.
+    4. Análise de Mercado: Pesquisa sobre cargos similares em outras organizações.
+    5. Hipótese de Trabalho: Utilizada para cargos novos, baseando-se em previsões sobre o
+       que será necessário.
+Já as etapas do processo de seleção podem variar, mas geralmente incluem:
+    1. Seleção Inicial:
+             o   Triagem preliminar para verificar se o candidato atende aos requisitos básicos do
+                 cargo.
+             o   Exemplo: análise de currículos.
+    2. Seleção Substantiva:
+             o   Identificação dos candidatos mais qualificados entre os que passaram pela triagem
+                 inicial.
+             o   Exemplo: testes escritos, entrevistas ou provas práticas.
+    3. Seleção Contingente:
+             o   Verificação final antes da contratação, como exames médicos ou checagem de
+                 antecedentes.
+Cada etapa visa eliminar candidatos até que reste o mais adequado à vaga.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Lembre-se, também, que os tipos de processo de seleção referem-se à maneira como as etapas
+e decisões são organizadas no recrutamento de candidatos. A estrutura varia conforme a
+complexidade da vaga, o número de candidatos e os recursos disponíveis.
+Seguem os detalhes mais importantes sobre cada tipo:
+Os tipos de processo de seleção referem-se à maneira como as etapas e decisões são
+organizadas no recrutamento de candidatos. A estrutura varia conforme a complexidade da
+vaga, o número de candidatos e os recursos disponíveis. Seguem detalhes sobre cada tipo:
+
+
+1. Seleção de Estágio Único
+Nesse modelo, apenas uma etapa ou técnica é usada para tomar a decisão final sobre o
+candidato.
+Características:
+    •   Simples e rápido.
+    •   Adequado para cargos de menor complexidade.
+    •   Focado em uma única técnica, como entrevista ou prova prática.
+Exemplo:
+    •   Realizar uma entrevista com o candidato e, se aprovado, ele é contratado.
+Vantagens:
+    •   Reduz custos e tempo.
+    •   Adequado para situações em que há urgência no preenchimento da vaga.
+Desvantagens:
+    •   Limita a profundidade da avaliação, aumentando o risco de erro na escolha.
+
+
+2. Seleção Sequencial de Dois Estágios
+Nesse processo, são aplicadas duas técnicas de avaliação, onde cada etapa é eliminatória.
+Características:
+    •   O primeiro estágio é uma triagem inicial, e o segundo aprofunda a análise dos candidatos
+        aprovados na primeira etapa.
+    •   Exemplo clássico de "filtro progressivo".
+Exemplo:
+    •   Análise de currículo seguida por uma entrevista detalhada.
+Vantagens:
+    •   Permite uma análise mais criteriosa do candidato.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    •   Equilibra custo e profundidade de avaliação.
+Desvantagens:
+    •   Pode excluir bons candidatos por falhas em uma única etapa.
+
+
+3. Seleção Sequencial de Três Estágios
+Inclui três etapas de avaliação, permitindo uma análise mais abrangente e aprofundada.
+Características:
+    •   Cada técnica busca avaliar diferentes competências ou características.
+    •   Cada etapa elimina candidatos, reduzindo o número de concorrentes progressivamente.
+Exemplo:
+    1. Análise curricular.
+    2. Prova prática ou teste de conhecimento.
+    3. Entrevista final com gestores.
+Vantagens:
+    •   Permite uma decisão mais segura ao avaliar múltiplos aspectos do candidato.
+    •   Aumenta a chance de selecionar o candidato ideal.
+Desvantagens:
+    •   Mais demorado e caro do que os modelos anteriores.
+    •   Pode causar desgaste nos candidatos.
+
+
+4. Seleção Sequencial com Quatro ou Mais Estágios
+Esse processo aplica várias técnicas, cada uma representando uma etapa de decisão. É ideal
+para cargos de alta complexidade ou níveis estratégicos.
+Características:
+    •   Etapas podem incluir provas escritas, testes psicológicos, dinâmicas de grupo e
+        entrevistas finais.
+    •   Cada técnica visa capturar informações diferentes sobre o candidato.
+Exemplo:
+    1. Triagem curricular.
+    2. Teste técnico.
+    3. Dinâmica de grupo.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    4. Entrevista com executivos.
+Vantagens:
+    •   Oferece uma avaliação extremamente detalhada e abrangente.
+    •   Reduz o risco de erros de contratação.
+Desvantagens:
+    •   Exige recursos significativos (tempo, custo e logística).
+    •   Pode desmotivar candidatos por ser um processo longo.
+
+
+Agora, entenda a diferença entre os modelos: Colocação x Seleção x Classificação
+
+                                                                  Colocação
+
+
+                                             Modelos               Seleção
+
+
+                                                                Classificação
+
+Estes modelos descrevem como os candidatos são avaliados em relação às vagas disponíveis:
+    1. Colocação:
+             o   Uma vaga para um candidato.
+             o   O candidato é aprovado ou rejeitado sem comparação.
+    2. Seleção:
+             o   Diversos candidatos para uma vaga.
+             o   Comparação entre candidatos para escolher o mais qualificado.
+    3. Classificação:
+             o   Diversos candidatos para diversas vagas.
+             o   Alocação conforme as qualificações e compatibilidade com as vagas.
+Por fim, lembre-se dos métodos utilizados para avaliar os candidatos. As principais técnicas
+incluem:
+    1. Entrevistas:
+             o   Interação direta para entender as características do candidato.
+             o   Podem ser estruturadas, semiestruturadas ou livres.
+    2. Provas/Testes de Conhecimento:
+             o   Avaliam conhecimentos gerais ou específicos, de forma prática ou teórica.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    3. Testes Psicológicos:
+             o   Medem aptidões e traços de personalidade.
+             o   Exigem validade e precisão para serem eficazes.
+    4. Dinâmicas de Grupo:
+             o   Avaliam habilidades interpessoais, liderança e trabalho em equipe.
+    5. Técnicas de Simulação:
+             o   Cenários práticos onde o candidato demonstra suas competências.
+
+
+Treinamento
+De início, lembre-se da definição de treinamento:
+
+
+O treinamento é um processo educacional de curto ou médio prazo que visa melhorar o
+desempenho dos indivíduos em suas funções atuais. Ele é essencial para alinhar as competências
+dos funcionários às necessidades organizacionais, contribuindo para o alcance dos objetivos
+estratégicos
+
+De acordo com Chiavenato, o treinamento promove cinco tipos de mudanças comportamentais:
+
+    1. Transmissão de Informações: Amplia o conhecimento dos colaboradores sobre a
+       organização e suas operações.
+
+    2. Desenvolvimento de Habilidades: Melhora a destreza para executar tarefas específicas.
+
+    3. Modificação de Atitudes: Trabalha a mudança de atitudes negativas para positivas,
+       promovendo a sensibilização.
+
+    4. Desenvolvimento de Conceitos: Eleva a capacidade de pensamento abstrato e global.
+
+    5. Desenvolvimento           de     Competências:         Cria    habilidades      alinhadas     aos   objetivos
+       organizacionais.
+
+Memorize:
+
+
+                                              Mudanças Comportamentais
+
+    Transmissão de         Desenvolvimento          Modificação de         Desenvolvimento         Desenvolvimento
+     Informações            de Habilidades            Atitudes              de Conceitos           de Competências
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Quanto aos tipos de treinamento, lembre-se dos seguintes:
+
+    •   Técnico-Operacional: Focado em tarefas específicas, com objetivo de capacitar para
+        atividades práticas.
+    •   De Integração: Facilita a adaptação de novos funcionários à cultura e aos processos da
+        organização.
+    •   Gerencial: Desenvolve competências técnicas, administrativas e comportamentais de
+        longo prazo.
+    •   Comportamental: Promove mudanças nas atitudes dos indivíduos
+
+Observe que o treinamento é um processo contínuo composto por quatro etapas principais:
+
+                                      Desenho ou
+    Diagnóstico
+                                     Planejamento
+                                                                   Implementação           Avaliação
+
+Entenda cada um:
+
+- Diagnóstico: Identifica as lacunas de competências (gap) e as necessidades de treinamento.
+
+- Desenho/Planejamento: Define objetivos, conteúdo, público-alvo, métodos e cronograma.
+
+- Implementação: Execução do programa, com aplicação das técnicas selecionadas.
+
+- Avaliação: Mede a eficácia e os resultados, verificando se os objetivos foram alcançados.
+
+Lembre-se das Técnicas de Treinamento:
+
+    1. Orientadas para o Conteúdo: Transmissão de informações (leitura, instrução programada).
+
+    2. Orientadas para o Processo: Mudança de comportamento (dramatizações, dinâmicas de
+       grupo).
+
+    3. Mistas: Combinam conteúdo e processo (estudos de caso, simulações).
+
+Por fim, observe que modelo ADDIE guia a estruturação do treinamento em cinco etapas:
+
+    1. Análise: Identifica necessidades e define objetivos.
+
+    2. Desenho: Planeja as estratégias, conteúdo e avaliação.
+
+    3. Desenvolvimento: Cria os materiais e conteúdos.
+
+    4. Implementação: Realiza o treinamento.
+
+    5. Avaliação: Mede os resultados para melhoria contínua.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Desenvolvimento
+Lembre-se que o desenvolvimento é um conjunto de experiências e oportunidades
+proporcionadas pela organização com o objetivo de apoiar o crescimento profissional e pessoal
+dos indivíduos.
+É orientado para o futuro, buscando preparar os colaboradores para ocuparem funções de maior
+complexidade ou responsabilidade.
+Características principais:
+    •   Foco: Competências futuras e crescimento individual.
+    •   Ferramentas: Inclui programas de autodesenvolvimento, gestão de carreira e qualidade
+        de vida.
+    •   Exemplos de ações: Oficinas, cursos, seminários e palestras.
+Os métodos e técnicas de desenvolvimento variam conforme os objetivos organizacionais e o
+perfil dos indivíduos.
+As principais são:
+    1. Rotação de Cargos (Job Rotation):
+             o   Objetivo: Ampliar a visão do colaborador sobre diferentes funções da empresa.
+             o   Benefícios: Desenvolve habilidades diversificadas e aumenta a adaptabilidade.
+    2. Treinamento no Cargo (On-the-Job Training):
+             o   Objetivo: Desenvolvimento prático durante a execução das atividades.
+             o   Benefícios: Integra aprendizado com produtividade.
+    3. Programas de Educação Corporativa:
+             o   Incluem cursos, workshops, e-learning e universidades corporativas.
+             o   Benefícios: Promovem aprendizado contínuo alinhado aos objetivos estratégicos.
+    4. Treinamento Fora do Local de Trabalho (Off-the-Job Training):
+             o   Realizado em ambientes externos, como seminários e congressos.
+             o   Benefícios: Permite foco exclusivo no aprendizado.
+    5. Aconselhamento e Feedback (Feedback Sessions):
+             o   Envolve feedback contínuo e estruturado.
+             o   Benefícios: Ajuda no autoconhecimento e no desenvolvimento de competências
+                 específicas.
+    6. Desafios e Projetos Específicos (Stretch Assignments):
+             o   Designação de tarefas complexas para expandir as capacidades do colaborador.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+             o   Benefícios: Desenvolvimento de habilidades críticas para a liderança.
+Por fim, observe que existem três ferramentas de desenvolvimento de pessoas, cada um com
+características e propósitos específicos:
+Coaching
+    •   Definição: Processo estruturado que visa ao desenvolvimento de competências
+        específicas, com foco em metas e resultados.
+    •   Orientador: Coach (profissional capacitado).
+    •   Foco: Habilidades específicas, crescimento no desempenho e alcance de objetivos
+        concretos.
+    •   Duração: Geralmente curto e com metas delimitadas.
+    •   Exemplo: Desenvolvimento de habilidades de liderança em um período específico.
+Mentoring
+    •   Definição: Relacionamento de orientação em que um profissional experiente (mentor)
+        compartilha conhecimento e experiência com um aprendiz (mentorado).
+    •   Orientador: Mentor (geralmente da mesma área do mentorado).
+    •   Foco: Desenvolvimento de carreira, experiência e aprendizado a longo prazo.
+    •   Duração: Relação contínua e de médio a longo prazo.
+    •   Exemplo: Mentor orientando um jovem profissional sobre os caminhos na carreira.
+Counseling
+    •   Definição: Processo de suporte emocional e aconselhamento, muitas vezes voltado para
+        questões pessoais ou comportamentais.
+    •   Orientador: Conselheiro ou profissional qualificado.
+    •   Foco: Resolver problemas emocionais ou comportamentais que impactam o desempenho.
+    •   Duração: Dependendo da necessidade, pode ser pontual ou contínuo.
+    •   Exemplo: Aconselhamento para lidar com dificuldades interpessoais no trabalho.
+
+
+Educação Corporativa
+Lembre-se que a educação corporativa é uma estratégia de aprendizagem contínua promovida
+pela organização para alinhar os conhecimentos e competências dos colaboradores às suas
+metas estratégicas. Ela abrange programas formais e informais e é projetada para fortalecer a
+competitividade organizacional.
+Para que a educação corporativa seja eficaz, alguns princípios devem ser seguidos:
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    •   Alinhamento Estratégico: O conteúdo e as ações devem estar conectados aos objetivos
+        da organização.
+    •   Acessibilidade e Inclusão: Garantir que todos os colaboradores possam participar dos
+        programas.
+    •   Aprendizado Contínuo: O foco é criar uma cultura de aprendizado ao longo da carreira
+        dos funcionários.
+    •   Avaliação e Métricas: Monitorar os resultados para ajustar os programas conforme
+        necessário.
+    •   Flexibilidade: Adaptação             a     diferentes     perfis    de    colaboradores    e   mudanças
+        organizacionais.
+Já as fases do projeto de educação corporativa incluem:
+    •   Diagnóstico: Identificação das lacunas de conhecimento e competências.
+    •   Planejamento: Estruturação do currículo e definição de recursos.
+    •   Implementação: Execução das ações educacionais.
+    •   Avaliação: Monitoramento dos resultados e ajustes necessários.
+Por fim, os principais objetivos são:
+    •   Desenvolver Competências Estratégicas: Capacitar os colaboradores em áreas essenciais
+        para o sucesso organizacional.
+    •   Promover a Cultura Organizacional: Alinhar valores e comportamentos ao propósito da
+        empresa.
+    •   Melhorar a Retenção de Talentos: Oferecer oportunidades de aprendizado e crescimento.
+    •   Aumentar a Competitividade: Garantir que os colaboradores estejam preparados para os
+        desafios do mercado.
+
+
+Cargos
+Lembre-se um cargo é definido como um conjunto de tarefas, deveres e responsabilidades
+atribuídos a uma posição específica na estrutura organizacional. É a unidade básica do
+organograma, que conecta os objetivos organizacionais às competências humanas.
+Observe que cargo não se confunde com tarefa ou função!!
+
+                      TAREFA                           FUNÇÃO                              CARGO
+
+             • Atividade específcia              • Conjunto de tarefas            • Posição formal que
+               realizada com prazo                  inter-relacionadas             integra uma ou mais
+                     e esforço                                                           funções
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+O desenho de cargos organiza as tarefas, métodos de trabalho e responsabilidades, com o
+objetivo de atender tanto às necessidades organizacionais quanto às dos empregados.
+Modelo Clássico:
+    •   Ênfase na eficiência por meio da racionalização e fragmentação do trabalho.
+    •   Baseado na repetição de tarefas simples e padronizadas.
+    •   Vantagens: Redução de custos, alta produtividade.
+    •   Desvantagens: Monotonia, desmotivação.
+Modelo Humanístico:
+    •   Foco nas pessoas e nas condições sociais do trabalho.
+    •   Busca a eficiência por meio da interação e satisfação dos empregados.
+    •   Vantagens: Incentivos sociais, dinâmicas de grupo.
+    •   Desvantagens: Menor ênfase na estrutura e tarefas.
+Modelo Contingencial:
+    •   Abordagem dinâmica, adaptada às pessoas, tarefas e estrutura organizacional.
+    •   Inclui autonomia, feedback e significado das tarefas.
+    •   Vantagens: Alta motivação, adaptabilidade.
+    •   Desvantagens: Complexidade de implementação.
+Já o enriquecimento de cargos adapta e amplia tarefas, aumentando a complexidade e a
+autonomia, visando à satisfação intrínseca do colaborador:
+
+                                  VERTICAL
+                                 Novas                                 HORIZONTAL
+                         responsabilidades com
+                          maior complexidade                   Variação nas tarefas para
+                                                               aumentar a amplitude do
+                                                                        cargo
+
+Lembre-se ainda que a descrição detalha as atividades e responsabilidades do cargo (aspectos
+intrínsecos), enquanto a análise define as características necessárias ao ocupante (aspectos
+extrínsecos).
+Temos três Métodos de Coleta de Dados:
+    1. Entrevista: Permite aprofundar informações, mas pode gerar vieses.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    2. Questionário: Custo baixo, mas depende da clareza e qualidade das respostas.
+    3. Observação Direta: Alta fidedignidade, ideal para tarefas repetitivas.
+Já a descrição de cargos relaciona o que o ocupante faz, como, quando, onde e por quê. A
+título de exemplo:
+    •    O que faz: Arquivar documentos.
+    •    Como faz: Por meio de softwares e processos específicos.
+Memorize também que a análise de cargos determina os requisitos físicos, mentais,
+responsabilidades e condições de trabalho. Ela tem como principais objetivos:
+    •    Subsidiar recrutamento, seleção e treinamento.
+    •    Base para avaliação de desempenho e programas de remuneração.
+Sobre Desenho x Descrição x Análise, memorize a tabela abaixo:
+
+                                      DESENHO                      DESCRIÇÃO                     ANÁLISE
+
+                                Estrutura e conteúdo                Tarefas e                  Requisitos do
+          FOCO
+                                      do cargo                  responsabilidades                ocupante
+
+                                    Posicionar no                Detalhar o que e
+        OBJETIVO                                                                           Definir perfil desejado
+                                    organograma                    como fazer
+
+                                   Organização do                  Alinhamento                  Seleção e
+        APLICAÇÃO
+                                      trabalho                    organizacional             desenvolvimento
+
+Cargos
+Lembre-se que carreira se refere ao percurso profissional de um indivíduo ao longo de sua vida.
+Ela engloba as experiências, cargos e aprendizados adquiridos, podendo variar conforme
+objetivos pessoais e oportunidades organizacionais.
+Podemos dividir em dois tipos principais:
+    •    Tradicional: Trajetória linear dentro de uma organização, com foco em promoções e
+         estabilidade.
+    •    Moderna: Ênfase em habilidades, experiências e flexibilidade, considerando múltiplos
+         empregadores ao longo da carreira.
+Já os planos de carreira são estruturados pelas organizações para guiar o crescimento dos
+colaboradores, alinhando suas aspirações aos objetivos da empresa. Memorize os tipos de
+planos:
+1. Plano de Carreira em Linha:
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    •   Progressão vertical, com promoções em hierarquias bem definidas.
+    •   Exemplo: De analista para coordenador e, em seguida, gerente.
+2. Plano de Carreira em Y:
+    •   Oferece caminhos alternativos para o crescimento.
+    •   Divisão entre áreas técnicas e gerenciais.
+    •   Exemplo: Um engenheiro pode progredir como especialista técnico ou assumir um cargo
+        gerencial.
+3. Plano de Carreira Horizontal:
+    •   Enfoque no desenvolvimento de competências em diferentes áreas, sem mudanças
+        hierárquicas significativas.
+    •   Exemplo: Movimentação para projetos em outras equipes.
+4. Plano de Carreira em Rede:
+    •   Combinação de movimentos verticais, horizontais e diagonais.
+    •   Favorece a mobilidade e o aprendizado contínuo.
+Por fim, lembre-se que as ferramentas ajudam no planejamento e execução das estratégias de
+desenvolvimento profissional. Principais exemplos:
+- Plano de Desenvolvimento Individual (PDI):
+    •   Documento que define as metas e ações para o crescimento do colaborador.
+    •   Inclui treinamentos, cursos e objetivos de curto e longo prazo.
+- Mentoring:
+    •   Orientação de um profissional mais experiente para guiar o desenvolvimento de carreira.
+- Avaliações de Desempenho:
+    •   Identificam pontos fortes e áreas de melhoria.
+             o   Ajudam a alinhar os esforços de desenvolvimento às demandas organizacionais.
+- Job Rotation:
+    •   Movimentação por diferentes áreas da empresa para ampliar competências e visão
+        sistêmica.
+- Coaching:
+    •   Processo estruturado para desenvolver habilidades específicas e alcançar metas
+        profissionais.
+
+
+Chegamos ao fim do nosso Roteiro de Revisão. Vamos à nossa Aposta Estratégica!
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                                     APOSTA ESTRATÉGICA
+Na nossa aposta estratégica de hoje vamos destacar os modelos de cargos, incluindo suas
+vantagens e desvantagens:
+
+  MODELO                     VANTAGENS                        DESVANTAGENS                      APLICAÇÃO
+
+                                                                                           Ambientes industriais e
+                       Alta eficiência, repetição         Pode gerar monotonia,
+                                                                                            repetitivos com alta
+   Clássico              de tarefas aumenta a                 alta rotatividade,
+                                                                                              necessidade de
+                      produtividade, baixo custo          resistência às mudanças
+                                                                                               padronização
+
+                                                                                             Organizações que
+                       Maior foco no bem-estar                Menor ênfase na
+                                                                                           buscam foco em clima
+Humanístico           do colaborador, melhora a               produtividade e
+                                                                                           organizacional e bem-
+                        satisfação e motivação                eficiência técnica
+                                                                                                   estar
+
+                       Adaptável a diferentes                                                    Organizações
+                                                            Complexidade na
+                        contextos, promove                                                      dinâmicas que
+Contingencial                                             implementação, requer
+                      autonomia e alinhamento                                                     demandam
+                                                               maior gestão
+                            estratégico                                                    flexibilidade e inovação
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+                                 QUESTÕES ESTRATÉGICAS
+    1) FGV – Auditor de Controle Interno (Prefeitura de BH) - 2024
+Ao verificar a necessidade de pessoal, a sociedade empresária deve, antes da contratação,
+conduzir um estudo para analisar qual o tipo de recrutamento que mais se adequa à sua
+estratégia.
+Com base nisso, analise as afirmativas a seguir.
+I. Apresenta-se como a solução ideal para cenários de estabilidade e pouca mudança ambiental.
+II. Apesar de ser considerado rápido, tende a ser mais custoso que outros tipos de
+recrutamento.
+III. Poder ter, como desvantagem, a redução da fidelidade dos funcionários da organização.
+A respeito das características do processo de recrutamento interno, está correto o que se afirma
+em:
+a) I, apenas.
+b) II, apenas.
+c) I e II, apenas.
+d) II e III, apenas.
+COMENTÁRIOS
+Vamos analisar as afirmações:
+Alternativa I – CORRETA – O recrutamento interno é mais adequado em ambientes estáveis,
+pois prioriza funcionários já integrados à cultura organizacional, reduzindo a necessidade de
+adaptação a mudanças frequentes.
+
+Alternativa II – INCORRETA – O recrutamento interno é geralmente mais econômico, pois evita
+custos relacionados à divulgação da vaga e ao treinamento de novos colaboradores.
+
+Alternativa II – INCORRETA – O recrutamento interno, na verdade, tende a aumentar a
+fidelidade dos funcionários, pois oferece oportunidades de crescimento dentro da própria
+organização, o que pode fortalecer o comprometimento e a motivação.
+
+Gabarito: A
+
+    2) FGV – Analista Administrativo (DNIT) - 2024
+
+O recrutamento é o conjunto de ações destinadas a atrair candidatos qualificados capazes de
+ocupar cargos em uma organização, podendo ser interno ou externo.
+Nesse sentido, relacione o tipo de recrutamento ao respectivo ponto forte.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+1. Recrutamento Interno
+
+2. Recrutamento Externo
+
+( ) Renova a cultura organizacional.
+
+( ) Probabilidade de melhor seleção.
+
+( ) Aumenta o capital intelectual.
+
+( ) Pouca mudança ambiental.
+
+Assinale a opção que indica relação correta, na ordem apresentada
+
+a) 2 – 1 – 1 – 2.
+
+b) 2 – 1 – 2 – 2.
+
+c) 1 – 2 – 1 – 2.
+
+d) 2 – 1 – 2 – 1.
+
+e) 1 – 2 – 2 – 1.
+COMENTÁRIOS
+Vamos analisar as afirmações:
+Renova a cultura organizacional.
+
+    •   Relacionado ao Recrutamento Externo (2): Esse tipo de recrutamento traz novos talentos
+        de fora da organização, contribuindo para a renovação de ideias e cultura.
+
+Probabilidade de melhor seleção.
+
+    •   Relacionado ao Recrutamento Interno (1): Como os candidatos já fazem parte da
+        organização, é mais fácil avaliar seu desempenho, comportamento e potencial.
+
+Aumenta o capital intelectual.
+
+    •   Relacionado ao Recrutamento Externo (2): Traz novos conhecimentos e habilidades,
+        ampliando a base intelectual da organização.
+
+Pouca mudança ambiental.
+
+    •   Relacionado ao Recrutamento Interno (1): O recrutamento interno não altera
+        significativamente a cultura ou o ambiente organizacional, garantindo maior estabilidade.
+
+Gabarito: D
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+    3) FGV – Analista da CVM (CVM) / 2024
+
+Um determinado banco quer promover diversidade e alcançar os parâmetros da bolsa de valores
+brasileira (B3). Assim, a empresa pretende contratar no mercado novos integrantes para seu
+conselho de administração e diretoria estatutária, a fim de ampliar a composição dos assentos
+em termos de raça e gênero. Para tal, o banco decidiu que um consultor externo, especializado
+no setor, deverá identificar talentos do mercado que atendam aos critérios de diversidade e, ao
+mesmo tempo, possuam competências para o cargo. O banco não se importa que o processo
+envolva maior dispêndio financeiro, pois entende que este trará oxigenação aos quadros e foco
+no nível estratégico pretendido, por não serem vagas de amplo espectro. Considerando-se as
+características do processo e os resultados pretendidos, o recrutamento deve:
+
+a) buscar progressões verticais de carreira;
+
+b) consultar o dirigente máximo;
+
+c) designar um headhunter;
+
+d) postar a vaga em redes sociais;
+
+e) realizar recrutamento misto.
+COMENTÁRIOS:
+O cenário apresentado indica um foco em:
+
+    1. Recrutamento externo: O objetivo é contratar profissionais de fora da organização para
+       trazer diversidade e oxigenação ao conselho e à diretoria.
+
+    2. Critérios específicos: A busca é por candidatos que atendam a requisitos de diversidade e
+       possuam competências estratégicas para cargos de alta relevância.
+
+    3. Dispêndio financeiro não sendo um problema: O banco está disposto a investir em um
+       processo seletivo mais custoso para garantir que os profissionais contratados estejam
+       alinhados com os objetivos estratégicos
+
+Agora, analisando as alternativas:
+
+Alternativa A – INCORRETA – Buscar progressões verticais de carreira está relacionado ao
+recrutamento interno, no qual funcionários da própria organização são promovidos ou
+transferidos. O caso apresentado é sobre recrutamento externo, visando oxigenação e
+diversidade.
+
+Alternativa B – INCORRETA – Consultar o dirigente máximo pode ser uma etapa no processo de
+recrutamento, mas não é o método utilizado para identificar e atrair talentos específicos para
+vagas estratégicas e com critérios de diversidade.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Alternativa C – CORRETA – A designação de um headhunter é a estratégia mais apropriada para
+atender às necessidades descritas. Headhunters são especializados em identificar talentos para
+posições estratégicas, como a composição do conselho de administração e diretoria,
+especialmente em situações que envolvem critérios específicos como diversidade.
+
+Alternativa D – INCORRETA – Postar a vaga em redes sociais é mais adequado para vagas de
+amplo espectro e para alcançar um grande número de candidatos, mas não para posições
+estratégicas e de alta especificidade, como as mencionadas na questão.
+
+Alternativa E – INCORRETA – O recrutamento misto combina candidatos internos e externos,
+mas a questão trata exclusivamente de recrutamento externo para trazer novos talentos ao
+mercado e atender aos parâmetros estratégicos de diversidade.
+
+Gabarito: C
+
+    4) FGV – Auditor do Estado (CGE SC) - 2024
+
+No passado, em plena Era Industrial, o conceito de organizações manteve-se ao longo do tempo
+como um conjunto integrado e articulado de recursos utilizados para se alcançarem objetivos
+organizacionais. O mundo mudou, os negócios também, e muitas organizações ficaram para trás
+nesse processo de corrida e transformação contínua e progressiva. Na administração pública não
+é diferente. Existe hoje expressiva e urgente necessidade de se buscar talentos e estimular
+competências humanas. Assim, no mundo moderno, a administração pública precisa equipar-se
+com talentos e competências para poder acompanhar a forte mudança e a rápida evolução.
+
+Sobre o recrutamento e seleção de pessoas, analise os itens a seguir:
+
+I. No recrutamento interno, a organização oferece uma carreira de oportunidades ao funcionário.
+
+II. O recrutamento é uma atividade de atração, divulgação e comunicação – portanto, uma
+atividade tipicamente positiva e obstativa.
+
+III. A seleção busca preservar ou enriquecer o capital intelectual da organização.
+
+Está correto o que se afirma em:
+
+a) I e II, apenas.
+
+b) I e III, apenas.
+
+c) III, apenas.
+
+d) II e III apenas.
+
+e) I, II e III.
+COMENTÁRIOS:
+Agora, analisando as alternativas:
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+           www.estrategiaconcursos.com.br
+            Inserir aqui o nome do Curso
+            www.estrategiaconcursos.com.br
+                                      
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Afirmativa I – CORRETA – O recrutamento interno oferece aos funcionários uma oportunidade
+de desenvolvimento dentro da organização. Essa prática é comum em empresas que valorizam
+planos de carreira, pois permite alinhar o crescimento profissional dos colaboradores às
+necessidades organizacionais.
+
+Afirmativa II – INCORRETA – O recrutamento, como atividade de atração e comunicação, tem
+um caráter positivo e integrador, buscando atrair talentos para as oportunidades disponíveis. O
+termo "obstativo" não é adequado, pois o recrutamento visa facilitar o acesso de candidatos às
+vagas, e não restringir.
+
+Afirmativa III – CORRETA – A seleção busca preservar ou enriquecer o capital intelectual da
+organização, identificando os candidatos mais alinhados às competências necessárias para
+contribuir com os objetivos estratégicos e agregar valor à empresa.
+
+Gabarito: B
+
+    5) FGV – Analista Administrativo (DNIT) / 2024
+
+Acerca das técnicas de seleção existentes, os testes psicológicos são baseados em uma amostra
+do comportamento referente às aptidões e personalidades das pessoas e apresentam três
+características não presentes nos testes de seleção tradicionais.
+
+Entre essas características, aquela que oferece resultados que servem como prognósticos para o
+desempenho no cargo denomina-se
+
+a) validade.
+
+b) preditor.
+
+c) precisão.
+
+d) diretiva.
+
+e) psicodrama.
+COMENTÁRIOS:
+Agora, analisando as alternativas:
+Alternativa A – INCORRETA – Validade refere-se à capacidade do teste de medir o que se
+propõe, ou seja, garantir que ele avalie corretamente as aptidões ou características pretendidas,
+mas não está diretamente ligada ao prognóstico de desempenho.
+
+Alternativa B – CORRETA – Preditor é a característica dos testes psicológicos que permite utilizar
+os resultados como uma antecipação ou prognóstico do desempenho do candidato no cargo.
+Ele indica a probabilidade de sucesso do candidato com base no comportamento avaliado.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Alternativa C – INCORRETA – Precisão (ou fidedignidade) está relacionada à consistência dos
+resultados do teste, garantindo que as avaliações sejam replicáveis e confiáveis, mas não implica
+previsão de desempenho.
+
+Alternativa D – INCORRETA – Diretiva está relacionada à condução de entrevistas e não à
+característica de testes psicológicos.
+
+Alternativa E – INCORRETA – Psicodrama é uma técnica de desenvolvimento ou intervenção
+psicoterapêutica, não relacionada diretamente aos testes psicológicos de seleção.
+
+Gabarito: B
+
+    6) FGV – Auditor de Controle Externo (TCE-PA) - 2024
+
+A seleção de talentos é o processo de identificar e recrutar os candidatos mais qualificados para
+preencher vagas em uma organização. Esse processo compara duas variáveis: a variável
+independente x que representa os requisitos exigidos pela organização, e a variável dependente
+y que simboliza as características dos candidatos.
+Assim sendo, quando x e y são iguais,
+a) o candidato não atinge as condições ideais para ocupar determinado cargo e, portanto, é
+rejeitado no processo seletivo.
+b) o candidato reúne as condições ideais e, portanto, é aprovado no processo seletivo.
+c) o candidato reúne mais do que as condições exigidas pelo trabalho e, portanto, torna-se
+superdotado para a posição oferecida.
+d) o candidato não atinge as condições ideais para ocupar determinado cargo e, portanto, é
+aprovado no processo seletivo.
+e) o candidato reúne as condições ideais e, portanto, mas é rejeitado no processo seletivo por
+conta de fatores outros, não implicados na análise.
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Alternativa A – INCORRETA – Se as variáveis x e y são iguais, o candidato atende às condições
+exigidas e não é rejeitado.
+Alternativa B – CORRETA – Quando a variável independente (x), que representa os requisitos
+exigidos pela organização, é igual à variável dependente (y), que simboliza as características dos
+candidatos, significa que o candidato reúne as condições ideais para ocupar o cargo. Nesse
+caso, ele é aprovado no processo seletivo, pois atende plenamente às exigências.
+Alternativa C – INCORRETA – Caso o candidato possua mais do que as condições exigidas, a
+relação entre x e y não será de igualdade, mas sim de superioridade da variável y em relação à x.
+Alternativa D – INCORRETA – Se o candidato não atinge as condições ideais, ou seja, se x for
+maior do que y, ele não seria aprovado no processo seletivo.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Alternativa E – INCORRETA – Se as variáveis são iguais, o candidato é ideal para o cargo. A
+rejeição por outros fatores não está relacionada à análise das variáveis em questão.
+Gabarito: B
+
+     7) FGV – Analista de Gestão Municipal (Prefeitura de SJC) - 2024
+
+O conceito de cargo se refere ao conjunto de atividades realizados por um indivíduo em
+determinada posição na organização.
+
+Avalie se os itens a seguir se relacionam com o processo conhecido como análise de cargos:
+
+I. Aborda os aspectos intrínsecos do cargo.
+
+II. Apresenta os requisitos do ocupante do cargo.
+
+III. Elenca o conteúdo do cargo, detalhando atividades e responsabilidades.
+
+Está correto apenas o que se apresenta em
+
+a) I.
+
+b) II.
+
+c) III.
+
+d) I e II.
+
+e) II e II.
+COMENTÁRIOS:
+Vamos analisar as alternativas:
+Afirmativa I – INCORRETA – A análise de cargos não aborda especificamente os aspectos
+intrínsecos do cargo, como tarefas e responsabilidades, pois isso está mais relacionado à
+descrição de cargos. A análise de cargos foca em determinar os requisitos necessários para o
+ocupante desempenhar o cargo.
+Afirmativa II – CORRETA – A análise de cargos apresenta os requisitos do ocupante do cargo,
+como competências, habilidades e qualificações necessárias para desempenhar as funções
+atribuídas.
+Afirmativa III – INCORRETA – O detalhamento do conteúdo do cargo, incluindo atividades e
+responsabilidades, está relacionado à descrição de cargos, e não diretamente à análise de
+cargos.
+Gabarito: B
+
+     8) FGV – Auditor de Controle Interno (Prefeitura de BH) - 2024
+A respeito dos conceitos relacionados à análise e à descrição de cargos, analise os itens a
+seguir.
+
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+             www.estrategiaconcursos.com.br
+              Inserir aqui o nome do Curso
+              www.estrategiaconcursos.com.br
+                                        
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+I. Grau de instrução do funcionário.
+II. Condições do ambiente físico de trabalho.
+III. Riscos de acidentes inerentes à atividade.
+São exemplos de aspectos abrangidos especificamente pelo processo de análise de cargos,
+aqueles expressos nos itens
+a) I e II, apenas.
+b) I e III, apenas.
+c) II e III, apenas.
+d) I, II e I.
+COMENTÁRIOS:
+Afirmativa I – CORRETA – O grau de instrução do funcionário está relacionado às exigências do
+cargo e faz parte da análise de cargos, que foca nos requisitos necessários ao ocupante.
+Afirmativa II – CORRETA – As condições do ambiente físico de trabalho também são analisadas
+no processo de análise de cargos, pois influenciam diretamente as demandas e características do
+cargo.
+Afirmativa III – CORRETA – Os riscos de acidentes inerentes à atividade são considerados na
+análise de cargos, especialmente para garantir que as condições de trabalho sejam seguras e
+adequadas
+Gabarito: D
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+            Inserir aqui o nome do Curso
+            www.estrategiaconcursos.com.br
+                                      
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+       QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+Vamos ao nosso questionário:
+
+Perguntas
+
+1. O que é recrutamento interno?
+
+2. Quais as vantagens do recrutamento externo?
+
+3. Como o recrutamento misto combina características de outros tipos de recrutamento?
+
+4. Qual a principal desvantagem do recrutamento interno?
+
+5. Qual a diferença entre seleção substantiva e contingente?
+
+6. O que é preditor em testes psicológicos?
+
+7. Como a entrevista estruturada difere da entrevista livre?
+
+8. Quais são as principais técnicas de seleção orientadas ao conteúdo?
+
+9. Qual o objetivo da etapa de diagnóstico no processo de treinamento?
+
+10. O que são técnicas mistas de treinamento?
+
+11. Como funciona o modelo ADDIE no desenho de treinamento?
+
+12. Quais as vantagens do treinamento fora do local de trabalho (off-the-job)?
+
+13. O que é um plano de carreira em Y?
+
+14. Qual a função do mentoring no desenvolvimento de carreiras?
+
+15. Como o Job Rotation contribui para o desenvolvimento de carreiras?
+
+16. O que é um Plano de Desenvolvimento Individual (PDI)?
+
+17. Qual é o objetivo do enriquecimento vertical de cargos?
+
+18. Como o modelo clássico de desenho de cargos é caracterizado?
+
+19. Quais métodos podem ser utilizados na coleta de dados para análise de cargos?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+20. O que é análise de cargos?
+
+21. Qual a diferença entre educação corporativa e treinamento?
+
+22. Quais os principais objetivos de uma universidade corporativa?
+
+23. O que são princípios fundamentais da educação corporativa?
+
+24. Como a fase de avaliação contribui para a educação corporativa?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Perguntas com respostas
+
+1. O que é recrutamento interno?
+
+É o processo de preencher uma vaga utilizando candidatos que já são colaboradores da
+organização, promovendo oportunidades de crescimento e desenvolvimento interno.
+
+2. Quais as vantagens do recrutamento externo?
+
+Ele traz novos talentos, renova a cultura organizacional, promove inovação e amplia o capital
+intelectual da organização.
+
+3. Como o recrutamento misto combina características de outros tipos de recrutamento?
+
+Ele integra os benefícios do recrutamento interno e externo, permitindo a escolha do candidato
+mais adequado, equilibrando inovação e estabilidade.
+
+4. Qual a principal desvantagem do recrutamento interno?
+
+A limitação de ideias e a perpetuação da cultura organizacional existente, que pode dificultar a
+inovação.
+
+5. Qual a diferença entre seleção substantiva e contingente?
+
+A seleção substantiva avalia os candidatos em profundidade, enquanto a seleção contingente
+verifica critérios finais, como exames médicos ou antecedentes, antes da contratação.
+
+6. O que é preditor em testes psicológicos?
+
+É a característica que permite usar os resultados do teste como uma previsão do desempenho
+futuro do candidato no cargo.
+
+7. Como a entrevista estruturada difere da entrevista livre?
+
+A entrevista estruturada segue um roteiro padronizado, garantindo comparabilidade entre
+candidatos, enquanto a entrevista livre é mais flexível e espontânea.
+
+8. Quais são as principais técnicas de seleção orientadas ao conteúdo?
+
+Leitura, instrução programada, testes de conhecimento e estudos de caso.
+
+9. Qual o objetivo da etapa de diagnóstico no processo de treinamento?
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Identificar lacunas de competências e determinar as necessidades de treinamento alinhadas às
+metas organizacionais.
+
+10. O que são técnicas mistas de treinamento?
+
+São métodos que combinam a transmissão de conteúdo e a modificação de comportamento,
+como estudos de caso e simulações.
+
+11. Como funciona o modelo ADDIE no desenho de treinamento?
+
+Ele é composto por cinco etapas: Análise, Desenho, Desenvolvimento, Implementação e
+Avaliação, estruturando o processo de treinamento.
+
+12. Quais as vantagens do treinamento fora do local de trabalho (off-the-job)?
+
+Ele permite um foco exclusivo no aprendizado, sem interrupções das atividades diárias.
+
+13. O que é um plano de carreira em Y?
+
+É um modelo que permite ao colaborador progredir em uma trajetória técnica ou gerencial,
+conforme suas habilidades e interesses.
+
+14. Qual a função do mentoring no desenvolvimento de carreiras?
+
+Orientar o colaborador, compartilhando experiências e conhecimento para seu crescimento
+profissional a longo prazo.
+
+15. Como o Job Rotation contribui para o desenvolvimento de carreiras?
+
+Promove a movimentação entre áreas, ampliando a visão sistêmica e desenvolvendo habilidades
+diversificadas.
+
+16. O que é um Plano de Desenvolvimento Individual (PDI)?
+
+É um documento que define ações e metas específicas para o crescimento profissional do
+colaborador, alinhado aos objetivos organizacionais.
+
+17. Qual é o objetivo do enriquecimento vertical de cargos?
+
+Aumentar a complexidade e as responsabilidades do cargo, promovendo maior autonomia e
+desafio ao colaborador.
+
+18. Como o modelo clássico de desenho de cargos é caracterizado?
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Por tarefas simples e repetitivas, com foco na eficiência e na redução de custos.
+
+19. Quais métodos podem ser utilizados na coleta de dados para análise de cargos?
+
+Entrevistas, questionários e observação direta.
+
+20. O que é análise de cargos?
+
+É o processo de determinar os requisitos necessários para o ocupante desempenhar o cargo de
+forma eficiente.
+
+21. Qual a diferença entre educação corporativa e treinamento?
+
+A educação corporativa tem um foco mais amplo e estratégico, preparando colaboradores para
+o futuro, enquanto o treinamento é mais específico e voltado ao presente.
+
+22. Quais os principais objetivos de uma universidade corporativa?
+
+Desenvolver competências estratégicas, promover a cultura organizacional e aumentar a
+retenção de talentos.
+
+23. O que são princípios fundamentais da educação corporativa?
+
+São diretrizes que garantem a eficácia do programa, como alinhamento estratégico,
+acessibilidade e avaliação contínua.
+
+24. Como a fase de avaliação contribui para a educação corporativa?
+
+Permite medir a eficácia das ações educacionais e identificar ajustes necessários para melhorar
+os resultados futuros.
+
+Pessoal, qualquer dúvida, mandem um DM pelo instagram!! Respondemos a todos!
+
+                                                Abraão Pereira
+                                                  Insta: @abraapdp
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+LISTA DE QUESTÕES ESTRATÉGICAS SEM COMENTÁRIOS
+    1) FGV – Auditor de Controle Interno (Prefeitura de BH) - 2024
+Ao verificar a necessidade de pessoal, a sociedade empresária deve, antes da contratação,
+conduzir um estudo para analisar qual o tipo de recrutamento que mais se adequa à sua
+estratégia.
+Com base nisso, analise as afirmativas a seguir.
+I. Apresenta-se como a solução ideal para cenários de estabilidade e pouca mudança ambiental.
+II. Apesar de ser considerado rápido, tende a ser mais custoso que outros tipos de
+recrutamento.
+III. Poder ter, como desvantagem, a redução da fidelidade dos funcionários da organização.
+A respeito das características do processo de recrutamento interno, está correto o que se afirma
+em:
+a) I, apenas.
+b) II, apenas.
+c) I e II, apenas.
+d) II e III, apenas.
+
+
+    2) FGV – Analista Administrativo (DNIT) - 2024
+
+O recrutamento é o conjunto de ações destinadas a atrair candidatos qualificados capazes de
+ocupar cargos em uma organização, podendo ser interno ou externo.
+
+Nesse sentido, relacione o tipo de recrutamento ao respectivo ponto forte.
+
+1. Recrutamento Interno
+
+2. Recrutamento Externo
+( ) Renova a cultura organizacional.
+
+( ) Probabilidade de melhor seleção.
+
+( ) Aumenta o capital intelectual.
+
+( ) Pouca mudança ambiental.
+
+Assinale a opção que indica relação correta, na ordem apresentada
+a) 2 – 1 – 1 – 2.
+b) 2 – 1 – 2 – 2.
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+c) 1 – 2 – 1 – 2.
+
+d) 2 – 1 – 2 – 1.
+
+e) 1 – 2 – 2 – 1.
+
+    3) FGV – Analista da CVM (CVM) / 2024
+
+Um determinado banco quer promover diversidade e alcançar os parâmetros da bolsa de valores
+brasileira (B3). Assim, a empresa pretende contratar no mercado novos integrantes para seu
+conselho de administração e diretoria estatutária, a fim de ampliar a composição dos assentos
+em termos de raça e gênero. Para tal, o banco decidiu que um consultor externo, especializado
+no setor, deverá identificar talentos do mercado que atendam aos critérios de diversidade e, ao
+mesmo tempo, possuam competências para o cargo. O banco não se importa que o processo
+envolva maior dispêndio financeiro, pois entende que este trará oxigenação aos quadros e foco
+no nível estratégico pretendido, por não serem vagas de amplo espectro. Considerando-se as
+características do processo e os resultados pretendidos, o recrutamento deve:
+
+a) buscar progressões verticais de carreira;
+
+b) consultar o dirigente máximo;
+
+c) designar um headhunter;
+
+d) postar a vaga em redes sociais;
+
+e) realizar recrutamento misto.
+
+    4) FGV – Auditor do Estado (CGE SC) - 2024
+
+No passado, em plena Era Industrial, o conceito de organizações manteve-se ao longo do tempo
+como um conjunto integrado e articulado de recursos utilizados para se alcançarem objetivos
+organizacionais. O mundo mudou, os negócios também, e muitas organizações ficaram para trás
+nesse processo de corrida e transformação contínua e progressiva. Na administração pública não
+é diferente. Existe hoje expressiva e urgente necessidade de se buscar talentos e estimular
+competências humanas. Assim, no mundo moderno, a administração pública precisa equipar-se
+com talentos e competências para poder acompanhar a forte mudança e a rápida evolução.
+
+Sobre o recrutamento e seleção de pessoas, analise os itens a seguir:
+
+I. No recrutamento interno, a organização oferece uma carreira de oportunidades ao funcionário.
+II. O recrutamento é uma atividade de atração, divulgação e comunicação – portanto, uma
+atividade tipicamente positiva e obstativa.
+III. A seleção busca preservar ou enriquecer o capital intelectual da organização.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Está correto o que se afirma em:
+
+a) I e II, apenas.
+
+b) I e III, apenas.
+
+c) III, apenas.
+
+d) II e III apenas.
+
+e) I, II e III.
+
+    5) FGV – Analista Administrativo (DNIT) / 2024
+
+Acerca das técnicas de seleção existentes, os testes psicológicos são baseados em uma amostra
+                                                          ==219a34==
+
+do comportamento referente às aptidões e personalidades das pessoas e apresentam três
+características não presentes nos testes de seleção tradicionais.
+
+Entre essas características, aquela que oferece resultados que servem como prognósticos para o
+desempenho no cargo denomina-se
+
+a) validade.
+
+b) preditor.
+
+c) precisão.
+
+d) diretiva.
+
+e) psicodrama.
+
+    6) FGV – Auditor de Controle Externo (TCE-PA) - 2024
+
+A seleção de talentos é o processo de identificar e recrutar os candidatos mais qualificados para
+preencher vagas em uma organização. Esse processo compara duas variáveis: a variável
+independente x que representa os requisitos exigidos pela organização, e a variável dependente
+y que simboliza as características dos candidatos.
+Assim sendo, quando x e y são iguais,
+a) o candidato não atinge as condições ideais para ocupar determinado cargo e, portanto, é
+rejeitado no processo seletivo.
+b) o candidato reúne as condições ideais e, portanto, é aprovado no processo seletivo.
+c) o candidato reúne mais do que as condições exigidas pelo trabalho e, portanto, torna-se
+superdotado para a posição oferecida.
+d) o candidato não atinge as condições ideais para ocupar determinado cargo e, portanto, é
+aprovado no processo seletivo.
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+           www.estrategiaconcursos.com.br
+            Inserir aqui o nome do Curso
+            www.estrategiaconcursos.com.br
+                                      
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+e) o candidato reúne as condições ideais e, portanto, mas é rejeitado no processo seletivo por
+conta de fatores outros, não implicados na análise.
+
+
+     7) FGV – Analista de Gestão Municipal (Prefeitura de SJC) - 2024
+
+O conceito de cargo se refere ao conjunto de atividades realizados por um indivíduo em
+determinada posição na organização.
+
+Avalie se os itens a seguir se relacionam com o processo conhecido como análise de cargos:
+
+I. Aborda os aspectos intrínsecos do cargo.
+
+II. Apresenta os requisitos do ocupante do cargo.
+
+III. Elenca o conteúdo do cargo, detalhando atividades e responsabilidades.
+
+Está correto apenas o que se apresenta em
+
+a) I.
+
+b) II.
+
+c) III.
+
+d) I e II.
+
+e) II e II.
+
+     8) FGV – Auditor de Controle Interno (Prefeitura de BH) - 2024
+
+A respeito dos conceitos relacionados à análise e à descrição de cargos, analise os itens a
+seguir.
+I. Grau de instrução do funcionário.
+II. Condições do ambiente físico de trabalho.
+III. Riscos de acidentes inerentes à atividade.
+São exemplos de aspectos abrangidos especificamente pelo processo de análise de cargos,
+aqueles expressos nos itens
+a) I e II, apenas.
+b) I e III, apenas.
+c) II e III, apenas.
+d) I, II e I.
+
+             Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+             www.estrategiaconcursos.com.br
+              Inserir aqui o nome do Curso
+              www.estrategiaconcursos.com.br
+                                        
+
+
+---
+
+   Abraão
+Prof.       Pereira
+      Túlio Lages
+   Aula
+Aula  00 13
+
+Gabarito
+
+                               1       2       3        4       5       6        7         8
+
+                              A        D       C       B        B       B       B          D
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral
+          www.estrategiaconcursos.com.br
+           Inserir aqui o nome do Curso
+           www.estrategiaconcursos.com.br
+                                     
+
+
+---
+
+---

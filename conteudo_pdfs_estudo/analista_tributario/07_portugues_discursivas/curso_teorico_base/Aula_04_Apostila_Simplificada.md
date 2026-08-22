@@ -1,0 +1,2428 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 04_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '04'
+titulo_aula: Língua Portuguesa
+---
+
+# Língua Portuguesa
+
+Aula 03
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                              24 de Outubro de 2025
+
+---
+
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 03
+
+                                                                                     Índice
+1) Pronomes
+
+
+2) Colocação Pronominal
+
+
+3) Questões Comentadas - Pronomes - FGV
+
+
+4) Questões Comentadas - Colocação pronominal - FGV
+
+
+5) Lista de Questões - Pronomes - FGV
+
+
+6) Lista de Questões - Colocação pronominal - FGV
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           54
+
+                                                             
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+                                               PRONOMES
+Os pronomes são palavras que representam (substituem) ou acompanham (determinam) um termo
+substantivo. Esses pronomes vão poder indicar pessoas, relações de posse, indefinição, quantidade,
+familiaridade, localização no tempo, no espaço e no texto, entre outras.
+Quando acompanham um substantivo, são classificados como “pronomes adjetivos” e quando substituem
+um substantivo, são classificados como “pronomes substantivos”.
+
+
+                                Ex: Estes livros são do Mario, aqueles são do Ricardo.
+Verificamos que “estes” é um pronome adjetivo, pois modifica o substantivo “livros”.
+Por outro lado, o pronome “aqueles” é classificado como pronome substantivo, pois não está ligado a um
+substantivo, mas sim “na própria posição” do substantivo “livros”, que não aparece na oração, estando
+apenas implícito, representado pelo pronome.
+Vamos aos apontamentos principais sobre essa importante classe que lhe garantirá mais pontos em sua
+prova.
+
+Pronomes Interrogativos
+Servem basicamente para fazer frases interrogativas diretas (com ponto de interrogação) ou indiretas (sem
+ponto de interrogação, mas com “sentido/intenção de pergunta”).
+São eles: “Que, Quem, Qual(is), Quantos”.
+              Ex:      (O) que é aquilo? => nessa frase, “o” é expletivo e pode ser retirado
+                       Qual a sua idade? / Quantos anos você tem?
+Nas interrogativas indiretas, não temos o (?), mas a frase tem uma intenção interrogativa e normalmente
+envolve verbos com sentido de dúvida “perguntar, indagar, desconhecer, ignorar”...
+              Ex:      Perguntei o que era aquilo. Indaguei quem era ele.
+                       Não sei qual sua idade. Desconheço quantos anos você tem.
+Observe a frase “O que é que ele fez”. Nesse caso apenas o primeiro “que” é pronome interrogativo. Os
+termos sublinhados são expletivos, com finalidade de realce.
+
+Pronomes Indefinidos
+Os pronomes indefinidos são classes variáveis que se referem à 3ª pessoa do discurso e indicam quantidade,
+sempre de maneira vaga.
+São eles: ninguém, nenhum, alguém, algum, algo, todo, outro, tanto, quanto, muito, bastante, certo, cada,
+vários, qualquer, tudo, qual, outrem, nada, menos, que, quem.
+              Ex:      Recebi mais propostas e tantos elogios.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         3
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+                       Muita gente não chegou a tempo de fazer a prova.
+                       Nada é por acaso, tudo estava escrito.
+Há também expressões de valor indefinido, as locuções pronominais indefinidas: qualquer um, cada um /
+qual, quem quer que seja quem / qual for, tudo o mais, todo (o) mundo.
+As palavras certo e bastante são pronomes indefinidos quando vêm antes do substantivo.
+Quando vierem depois do substantivo, certo e bastante e serão adjetivos. Veja a diferença:
+              Ex: Quero certo modelo de carro x Quero o modelo certo de carro
+                       (determinado)                                      (adequado)
+                  Tenho bastante dinheiro X Tenho dinheiro bastante
+                        (muito)                                       (suficiente)
+Atenção à palavra bastante, que pode ser confundida com um advérbio:
+
+                                        Tenho bastante talento.
+                                       Já temos bastantes aliados
+                 (modifica substantivo => pronome indefinido. Tem sentido de "muito").
+                                                    X
+                                       Já temos aliados bastantes
+                    (modifica substantivo => adjetivo. Tem sentido de “suficientes”).
+                                                    X
+                                         Sou bastante talentoso
+                                     (modifica adjetivo => advérbio)
+                                            Estudei bastante
+                                      (modifica verbo => advérbio)
+
+(DPE-RS / 2022)
+O direito, o processo decisório e os julgamentos são eminentemente de natureza humana e dependem do ser
+humano para serem bem realizados. Assim, mesmo que os avanços tecnológicos sejam inevitáveis, todas as
+inovações eletrônicas e virtuais devem sempre ser implementadas com parcimônia e vistas com muito
+cuidado, não apenas para sempre permitirem o exercício de direitos e garantias, mas também para não
+restringirem — e, sim, ampliarem — o acesso à justiça e, sobretudo, para manterem a insubstituível
+humanidade da justiça.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                      4
+        www.estrategiaconcursos.com.br                                                              54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+No último parágrafo do texto, o emprego dos vocábulos “muito” e “sempre” enfatizam a opinião expressa
+pelo autor.
+Comentários:
+Em “muito cuidado”, “muito” é pronome indefinido, pois modifica substantivo, com ideia de quantidade
+vaga, imprecisa.
+Por definição, advérbio é palavra invariável que modifica verbo (trabalho muito), adjetivo (muito bonito) ou
+outro advérbio (muito bem); não pode modificar substantivo. Questão incorreta.
+
+Pronomes Possessivos
+Esses pronomes têm sentido de posse e geralmente aparecem em questões sobre ambiguidade ou
+referência, pois podem se referir à:
+              Primeira pessoa do discurso: meu(s), minha(s), nosso(s) nossa(s);
+              Segunda pessoa do discurso: teu(s), tua(s), vosso(s), vossa(s);
+              Terceira pessoa do discurso: seu(s), sua(s).
+É importante salientar que o pronome pessoal oblíquo (me, te, se, lhe, o, a, nos, vos) também pode ter
+“valor” possessivo, ou seja, sentido de posse:
+              Ex:      Apertou-lhe a mão (= sua mão);
+                       Beijou-me a testa (= minha testa);
+                       Penteou-lhes os cabelos (= cabelos delas).
+
+     É importante saber que pronomes possessivos:
+           - Concordam em gênero e número om o substantivo que vem depois dele.
+           - Vêm junto ao substantivo, são acessórios e têm função de adjunto adnominal.
+                         Eu respeito o Português por sua importância na prova.
+                                     (importância “do Português")
+     Observe que “sua” é adjunto adnominal, pois vem junto ao nome "importância" e concorda com
+     ele em gênero (feminino), apesar de seu referente ser “Português”, palavra no masculino.
+
+(TCE-RJ / 2022)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           5
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Agora, novas melhorias na IA, viabilizadas por operações massivas de coleta de dados, aperfeiçoadas ao
+máximo por grupos digitais, contribuíram para a retomada de uma velha corrente positivista do pensamento
+político. Extremamente tecnocrata em seu âmago, essa corrente sustenta que a democracia talvez tenha tido
+sua época, mas que hoje, com tantos dados à nossa disposição, afinal estamos prestes a automatizar e
+simplificar muitas daquelas imperfeições que teriam sido — deliberadamente — incorporadas ao sistema
+político.
+Com relação a aspectos linguísticos do texto CB1A1-I, julgue o seguinte item.
+
+No segundo período do terceiro parágrafo, a forma pronominal “sua” tem como referente o termo “essa
+corrente”.
+Comentários:
+Vejamos o trecho e seus elementos:
+a democracia talvez tenha tido sua época. Note que "sua", pronome pessoal, refere-se a "democracia" e está
+flexionado no feminino por causa do termo que o acompanha, "época". Questão incorreta.
+
+(SEFAZ-RS / 2018)
+Mesmo agora, quando já diviso a brumosa porta da casa dos setenta, um convite à viagem tem ainda o poder
+de incendiar-me a fantasia.
+Com relação ao trecho “incendiar-me a fantasia”, é correto interpretar a partícula “me” como o possuidor
+de “fantasia”.
+Comentários:
+Aqui, temos exemplo clássico de pronome pessoal com sentido possessivo:
+Incendiar-me a fantasia equivale a “incendiar minha fantasia”. Questão correta.
+
+Pronomes Demonstrativos
+São pronomes demonstrativos: este(s), esta(s), esse(s), essa(s), aquele(s), aquela(s), isto, isso, aquilo, o(s),
+a(s), mesmo(s), mesma(s), próprio(s), própria(s), tal, tais, semelhante(s).
+
+Pronomes demonstrativos apontam, demonstram a posição dos elementos a que se referem em relação às
+pessoas do discurso (1ª pessoa: que fala; 2ª pessoa: para quem se fala / que ouve; 3ª pessoa: de quem se
+fala), no tempo, no espaço e no texto.
+
+Outros pronomes demonstrativos:
+As palavras o, a, os, as também podem ser pronomes demonstrativos, geralmente quando antecedem um
+pronome relativo ou a preposição “DE”. Veja:
+               Ex:     Entre as cuecas, comprei a de algodão. (aquela)
+                       Quero o que estiver em promoção. (aquilo)
+                       Sabia que devia estudar, mas não o fiz. (isso - estudar)
+Não confunda!! Essas palavras também podem ser artigos definidos (a menina caiu) ou pronomes pessoais
+(encontrei-as na praia).
+Além desses, há outros pronomes demonstrativos. Vejamos:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              6
+        www.estrategiaconcursos.com.br                                                                       54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+              Não diga tais/semelhantes besteiras. (essas besteiras)
+              Sei que está triste, mas não diga tal. (não diga isso)
+              Ele próprio se demitiu. (ele em pessoa, sozinho; valor reforçativo)
+              Eu mesma cozinho a comida/ Cozinho do mesmo modo que minha mãe. (próprio, em pessoa
+              / exato, igual).
+
+(MPE-GO / 2022) - Adaptada
+“Este livro é sobre uma das ideias mais importantes da humanidade – a ideia do alfabeto – e a sua forma
+mais difundida: o sistema de letras que você está lendo neste momento.”
+
+Analise a afirmação sobre o elemento sublinhado nesse pequeno fragmento do texto 1:
+O demonstrativo “neste” indica o momento em que foi escrito o texto.
+Comentários:
+Note que o pronome demonstrativo “neste” indica o momento em que o leitor está lendo o texto, e não em
+que foi escrito. Questão incorreta.
+
+(STM / 2018)
+Aqui, neste escritório onde a verdade não pode ser mais do que uma cara sobreposta às infinitas máscaras
+variantes, estão os costumados dicionários da língua e vocabulários, os Morais e Aurélios, os Morenos e
+Torrinhas, algumas gramáticas, o Manual do Perfeito Revisor, vademeco de ofício [...].
+Na linha 1, o emprego de “neste” decorre da presença do vocábulo “Aqui”, de modo que sua substituição
+por nesse resultaria em incorreção gramatical.
+Comentários:
+O autor fala em primeira pessoa, em referência ao próprio escritório em que está, o escritório próximo.
+Então, a forma correta é “neste”. O pronome “nesse” faria referência a um escritório próximo de quem
+ouve. Questão correta.
+
+Pronomes Relativos
+Os principais são: que, o qual, cujo, quem, onde.
+Esses pronomes retomam substantivos antecedentes, coisa ou pessoa, e, por isso, têm função coesiva
+(retomar ou anunciar informação) e se prestam a evitar repetição.
+Podem ser variáveis, quando se flexionam (gênero, número), ou invariáveis, quando trazem forma única:
+                                    VARIÁVEIS                                       INVARIÁVEIS
+             MASCULINOS                                FEMININOS
+            o qual (os quais)                        a qual (as quais)                 quem
+              cujo (cujos)                              cuja (cujas)                    que
+            quanto (quantos)                         quanta (quantas)                  onde
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                         7
+        www.estrategiaconcursos.com.br                                                                  54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Como disse, são ferramentas para evitar a repetição. Vejamos um parágrafo escrito num mundo sem
+pronomes relativos:
+
+      O aluno foi aprovado. O aluno é primo de João. João tem mãe. A mãe de João é professora. A mãe
+      do João foi professora da menina. A menina roubava livros. Os livros eram caríssimos. Os livros foram
+      comprados numa loja distante. Havia muitos enfeites na loja. Perguntaram a várias pessoas a
+      localização da loja. As pessoas não souberam responder.
+
+Agora vamos usar pronomes relativos para retomar os antecedentes e evitar toda essa repetição de termos:
+
+        O aluno que foi aprovado é primo de João, cuja mãe foi professora daquela menina que
+        roubava livros, os quais eram caríssimos e foram compradas numa loja onde havia muitos
+        enfeites. As pessoas a quem perguntaram a localização da loja não souberam responder.
+
+Muito melhor, não acha?!
+Vamos aos pontos mais importantes, que você deve saber para sua prova:
+1- Os pronomes relativos introduzem orações subordinadas adjetivas, que levam esse nome por terem a
+função de um adjetivo e, muitas vezes, podem ser substituídas diretamente por um adjetivo equivalente:
+              Ex:      O menino estudioso passa = O menino que estuda muito passa.
+2- Como o “que” faz referência a um termo anterior, podemos dizer que tem função anafórica.
+3- Os pronomes “que”, “o qual”, “os quais”, “a qual”, “as quais” são utilizados quando o antecedente for
+coisa ou pessoa.
+Destaco também que o pronome relativo “o qual” e suas variações muitas vezes é usado para desfazer
+ambiguidades. Como ele varia, a concordância em gênero e número denuncia a que termo ele se refere.
+Vejamos o exemplo:
+       Ex: A representante do partido, que é popular, foi elogiada.
+       Quem é popular? O “que” pode retomar representante ou partido. Fica a dúvida.
+
+        Antes do relativo “que”, devemos usar preposição monossilábica (“a, com, de, em, por;
+        exceto sem e sob”).
+        Com preposições maiores (ou locuções prepositivas), usaremos os pronomes variáveis (o
+        qual, os quais, a qual, as quais).
+        Compare:
+                    Este é o livro de que gostamos x Este é o livro sobre o qual falamos
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           8
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+(PGE-AM / 2022)
+Saberia Rubião que o nosso Quincas Borba trazia aquele grãozinho de sandice, que um médico supôs achar-
+lhe? (2º parágrafo).
+Os pronomes sublinhados referem-se, respectivamente, a
+(A) um médico                 e grãozinho de sandice.
+(B) Quincas Borba             e Rubião.
+(C) Quincas Borba             e grãozinho de sandice.
+(D) grãozinho de sandice      e Rubião.
+(E) grãozinho de sandice     e Quincas Borba
+Comentários:
+O que o médico achou? Um grão de sandice. Em quem? No Quincas Borba. Então, podemos dizer que o
+pronome relativo "que" tem como antecedente o "grãozinho de sandice" e o "lhe" retoma "Quincas Borba".
+Gabarito letra E.
+
+(MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+Nas Américas, estima-se que 77 milhões de pessoas sofram um episódio de doenças transmitidas por
+alimentos a cada ano — metade delas são crianças com menos de 5 anos de idade. Os dados disponíveis
+indicam que as doenças transmitidas por alimentos geram de US$ 700 mil a US$ 19 milhões em custos anuais
+de saúde nos países do Caribe e mais de US$ 77 milhões nos Estados Unidos da América.
+A substituição da expressão “metade delas” por cuja metade manteria a correção gramatical e a coesão do
+texto.
+Comentários:
+Por regra, o pronome “cujo” deve vir entre substantivos, ligando possuidor e coisa possuída; então, não pode
+ficar “solto” no texto, sem ligar esses dois elementos.
+Em “cuja metade”, fica a dúvida: metade do quê? Metade de quem? Então, o pronome não está bem
+utilizado. Poderia haver a leitura: metade do ano, metade dos alimentos, metade dos milhões...Questão
+incorreta.
+4- O pronome “quem” se refere a pessoa ou ente personificado (visto como pessoa) e é precedido por
+preposição (monossilábica ou não).
+              Ex: A pessoa de quem falei chegou.
+Em sentenças interrogativas, “quem” é pronome interrogativo: Quem gosta de acordar cedo?
+5- O pronome “cujo” tem como principais características:
+
+   ✓ Indicar posse e sempre vir entre dois substantivos, possuidor e possuído;
+   ✓ Não poder ser seguido nem precedido de artigo, mas poder ser antecedido por preposição; (Para
+       lembrar: nada de cujo o, cuja a, cujo os, cuja as...)
+   ✓ Não pode ser diretamente substituído por outro pronome relativo.
+Para achar o referente, pergunte ao termo seguinte: “de quem?”.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          9
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+              Ex:      Vi o filme cujo diretor ganhou o Oscar. (diretor de quem? Do filme!)
+
+(DPE-RO / 2022)
+        Com a derrota de Hitler em 1945 e, portanto, o fim da Segunda Guerra Mundial, da qual o Brasil
+participou contra as ditaduras nazifascistas — devido à entrada dos Estados Unidos da América no conflito,
+liderando e coordenando os esforços de guerra dos países do Eixo dos Aliados —, o mundo foi tomado pelas
+ideias democráticas, e o regime autoritário do Estado Novo (iniciado em 1937) já não se podia manter.
+A correção gramatical e os sentidos do texto CG2A1-I seriam preservados com a substituição de “da qual”
+por cuja.                                              ==219a34==
+
+Comentários:
+O pronome “cujo” e suas variações não admitem substituição direta por nenhum outro. Além disso, não
+admite artigo. Feita a substituição proposta pela banca, teríamos: “cuja o Brasil”, o que traz ainda erro de
+concordância no gênero. Questão incorreta.
+6- O pronome relativo “onde” deve ser usado quando o antecedente indicar lugar físico (ainda que virtual,
+figurativo), com sentido de “posicionamento em”. Como preposição “em” também indica uma referência
+locativa, podemos substituir “onde” por “em que” e por “no qual” e variações.
+              Ex:      A academia onde treino não tem aulas de MMA.
+                       A academia na qual/em que treino não tem aulas de MMA.
+Veja que é inadequado usar "onde" para outra referência que não seja lugar físico.
+
+             Ex: Essa é a hora onde o aluno se desespera.
+     ✓        Ex: Essa é a hora em que/na qual o aluno se desespera.
+O pronome relativo “aonde” é usado nos casos em que o verbo pede a preposição “a”, com sentido de “em
+direção a”.
+              Ex: Gosto da cidade aonde irei.
+O pronome relativo arcaico “donde”, que equivale a “de onde”, é usado nos casos em que o verbo pede a
+preposição “de”, com sentido de “procedência”.
+              Ex: O lugar donde você voltou é distante.
+7- O pronome relativo “como” é usado quando o antecedente for palavra como forma, modo, maneira, jeito,
+ou outra, com sentido de “modo”.
+              Ex: Não aceito o jeito como você fala comigo.
+8- O pronome relativo “quando” é usado nos casos em que antecedente tiver sentido de “tempo”.
+              Ex: Sinto saudade da época quando eu não tinha preocupações.
+9- O pronome relativo “quanto” é usado nos casos em que antecedente tiver sentido de “quantidade”.
+              Ex: Consegui tudo/tanto quanto queria, exceto tempo para desfrutar.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                          10
+        www.estrategiaconcursos.com.br                                                                   54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Reforçando: temos que ter atenção à preposição que o verbo/nome vai pedir, pois ela não deve ser
+suprimida e vai aparecer antes do pronome relativo.
+Lembre-se: temos que enxergar sintaticamente o pronome relativo como se fosse o próprio termo a que se
+refere:
+              Ex:      O menino a que me referi morreu. (referi-me “a” que => ao menino)
+                         O escritor de cujos poemas gosto morreu. (gosto “de” cujos => dos poema
+
+(SEFAZ-AL / AUDITOR FISCAL / 2020)
+Tem meia dúzia de atendentes, conheço dois ou três pelo nome, e o dono do lugar é sempre simpático comigo.
+Sabe que gosto do seu negócio, que, se me mudasse de novo para lá, seria seu freguês. Mas também sei que
+me vê como um tipo que há vinte anos vive na capital, que a essa altura é mais metropolitano que interiorano,
+um cara talvez meio esquisito, ou apenas ridículo, que se interessa por coisas de que não precisa, coisas das
+quais não entende.
+A substituição da expressão “das quais” (3º parágrafo) por que preservaria tanto o sentido quanto a correção
+gramatical do período.
+Comentário
+Note que na reescritura, a preposição é suprimida e o pronome “as quais” é substituído por “que”:
+Entender as coisas => as coisas que entende.
+Gramaticalmente, é possível.
+Contudo, ocorre mudança de sentido:
+"entender de alguma coisa" é o mesmo que dominar um conhecimento, ser um especialista.
+"entender alguma coisa" significa saber o que algo é, ser capaz de compreender o que é alguma coisa.
+Perceba essa diferença. Por isso, a reescrita não é possível. Questão incorreta.
+
+Pronomes de Tratamento
+Os pronomes de tratamento são formas de cortesia e reverência no trato com determinadas autoridades.
+A cobrança normalmente se baseia no pronome adequado a cada autoridade ou aspectos de concordância
+com as formas de tratamento.
+Abaixo, registro os principais pronomes de tratamento, com suas abreviaturas. Normalmente o plural da
+abreviatura é feito com acréscimo de um “s”.
+Se quiser estudar esse tema a fundo e ler as dezenas de outros pronomes, recomendo consultar os Manuais
+de Redação Oficial dos órgãos públicos, em especial da Presidência da República, do Senado Federal e do
+Superior Tribunal de Justiça. Aqui, focaremos nos mais incidentes em prova:
+
+        Vossa Senhoria (V. S.a ou V. S.as): usado para pessoas com um grau de prestígio maior e em textos
+        escritos, como: correspondências, ofícios, requerimentos etc.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           11
+        www.estrategiaconcursos.com.br                                                                    54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+        Vossa Excelência (V. Ex.a V. Ex.as): usado para autoridades de alto escalão:
+        Presidente da República, Senadores, Deputados, Embaixadores, Oficiais de Patente Superior à de
+        Coronel, Juízes de Direito, Ministros, Chefes de Poder.
+
+        Vossa Excelência Reverendíssima (V. Ex.a Rev.ma V. Ex.as Rev.mas): usado para bispos e
+        arcebispos.
+
+        Vossa Eminência (V. Em.a V. Em.as): usado para cardeais.
+
+        Vossa Alteza (V. A. VV. AA.): usado para autoridades monárquicas em geral, príncipes, duques e
+        arquiduques. Para Imperador, Rei ou Rainha, usa-se Vossa Majestade.
+
+        Vossa Santidade (V.S.): usado para o Papa.
+
+        Vossa Reverendíssima (V. Rev.ma V. Rev.mas ): usado para sacerdotes em geral.
+
+        Vossa Paternidade (V. P. VV. PP): usado para abades, superiores de conventos.
+
+        Vossa Magnificência (V. Mag.a V. Mag.as): usado para Reitores de universidades, acompanhado
+        pelo vocativo: Magnífico Reitor.
+
+Aqui nos interessa principalmente saber sobre a concordância.
+Embora os pronomes de tratamento se refiram à segunda pessoa gramatical (pessoa com quem se fala:
+"vós"), a concordância é feita com a terceira pessoa, ou seja, com o núcleo sintático. Por essa razão, não
+usamos pronome possessivo “vossa” com Vossa Excelência, usamos apenas o possessivo “seu” ou “sua”, por
+exemplo.
+Como assim?
+O macete é pensar na concordância com o pronome “Você”.
+Vejamos o exemplo do próprio Manual de Redação da Presidência:
+                                    Vossa senhoria nomeará seu substituto.
+                (E não Vosso ou Vossa. Concordância com senhoria, o núcleo da expressão.)
+Os Adjetivos e Locuções de voz passiva concordam com o gênero (masculino/feminino) da pessoa a que se
+refere, não com a o substantivo que compõe a locução (Excelência, Senhoria).
+               Ex: Maria, Vossa Excelência está muito cansada.
+
+Pronomes Pessoais
+Vamos às principais informações relevantes:
+
+              PESSOAS DO DISCURSO               PRONOMES RETOS            PRONOMES OBLÍQUOS
+            1ª pessoa do singular                      Eu                    me, mim, comigo
+            2ª pessoa do singular                      Tu                     te, ti, contigo
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                        12
+        www.estrategiaconcursos.com.br                                                                 54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+            3ª pessoa do singular                    Ele/Ela                se, si, o, a, lhe, consigo
+             1ª pessoa do plural                       Nós                         nos, conosco
+             2ª pessoa do plural                       Vós                         vos, convosco
+             3ª pessoa do plural                    Eles/Elas              se, si, os, as, lhes, consigo
+Pronomes pessoais retos (eu, tu, ele, nós, vós, eles) costumam substituir sujeito.
+              Ex: João é magro => Ele é magro.
+Pronomes pessoais oblíquos átonos (me, te, se, lhe, o, a, nos, vos) substituem complementos verbais: o, a,
+os, as substituem somente objetos diretos (complemento sem preposição); me, te, se, nos, vos podem ser
+objetos diretos ou indiretos (complemento com preposição), a depender da regência do verbo. Já o pronome
+–lhe (s) tem função somente de objeto indireto.
+              Ex:      Já lhe disse tudo. (disse a ele)
+                       Informei-o de tudo. (informei a pessoa)
+                       Você me agradou, mas não me convenceu. (agradou a mim)
+Os pronomes oblíquos tônicos são pronunciados com força e precedidos de preposição. Costumam ter
+função de complemento. São eles:
+        1a pessoa:                         mim, comigo (singular); nós, conosco (plural).
+        2a pessoa:                          ti, contigo (singular); vós, convosco (plural).
+        3a pessoa:                  si, consigo (singular ou plural); ele(a/s) (singular ou plural).
+
+        Após a preposição “entre” em estrutura de reciprocidade, devemos usar pronomes
+        oblíquos tônicos, não retos.
+             Ex: Entre mim e ela não há segredos.
+                 É melhor que não pairem dúvidas entre ti e ele.
+
+        Se o pronome for sujeito, podemos usar pronome reto:
+              Ex: Entre eu sair e você ficar, prefiro sair.
+
+        Após preposições acidentais e palavras denotativas, podemos também usar pronome
+        reto:
+              Ex: Com raiva, minha mãe maltrata até eu.
+                  (até: palavra denotativa de inclusão)
+                  A aprovação não virá até mim de graça. (até: preposição essencial)
+
+Regras para a união de pronomes oblíquos
+Como substituem substantivos, os pronomes oblíquos poderão ser usados como complementos. Ao unir o
+pronome ao verbo por hífen, há alterações na grafia:
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                            13
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Quando os verbos são terminados em /r/, /s/, /z/ + o, os, a, as, teremos: lo, los, la, las.
+               Ex:     Não pude dissuadir a menina = > dissuadi-la
+                       Vamos pôr o menino de castigo => pô-lo de castigo
+Quando os verbos são terminados em som nasal, como /m/, /ão/, /aos/, /õe/, /ões/ + o, os, a, as, teremos
+simples acréscimo de /n/: no, nos, na, nas.
+               Ex:     Viram a barata e mataram-na /
+Lembre-se: após verbos na primeira pessoa do plural (nós: amamos, bebemos, cantamos), seguidos do
+pronome -nos, corta-se o /s/ final:
+               Ex: Alistamo-nos no quartel. Animemo-nos!
+
+(IBAMA / 2022)
+Assim como cidadania e cultura formam um par integrado de significações, cultura e territorialidade são, de
+certo modo, sinônimos. A cultura, forma de comunicação do indivíduo e do grupo com o universo, é herança,
+mas também um reaprendizado das relações profundas entre o ser humano e o seu meio, um resultado obtido
+por intermédio do próprio processo de viver. Incluindo o processo produtivo e as práticas sociais, a cultura é
+o que nos dá a consciência de pertencer a um grupo, do qual é o cimento. É por isso que as migrações agridem
+o indivíduo, roubando-lhe parte do ser, obrigando-o a uma nova e dura adaptação em seu novo lugar.
+Desterritorialização é frequentemente outra palavra para significar alienação, estranhamento, que são,
+também, desculturização.
+
+Em “roubando-lhe parte do ser”, a forma pronominal “lhe” transmite ideia de posse, indicando que as
+migrações roubam parte do ser dos indivíduos.
+Comentários:
+Exatamente, o pronome oblíquo átono foi usado com valor/sentido possessivo: roubando parte dele/do
+indivíduo. Questão correta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                            14
+        www.estrategiaconcursos.com.br                                                                     54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+                                  COLOCAÇÃO PRONOMINAL
+
+Colocação pronominal é o tópico em que estudamos regras para posicionamento de pronomes
+pessoais e também do pronome demonstrativo “o”.
+
+
+Vamos finalmente aprender isso? Relembremos o básico:
+
+
+As posições onde o pronome aparece recebem alguns nomes:
+                         Pronome antes do verbo: Próclise (Hoje me escondi na mata)
+                            Pronome depois do verbo: Ênclise (Escondi-me na mata)
+                     Pronome no meio dos verbos: Mesóclise (Esconder-me-ia na mata)
+
+
+Regra geral: palavra invariável (advérbios, conjunções subordinativas, alguns pronomes) antes do
+verbo geralmente atrai pronome proclítico. Não vou listar aqui todas as palavras invariáveis da
+galáxia. Basta lembrar que invariável significa que aquela palavra não se flexiona, não vai ao
+feminino, nem ao plural...
+
+Em suma, são palavras atrativas, exigindo pronome ANTES DO VERBO:
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              15
+        www.estrategiaconcursos.com.br                                                       54
+
+                                     
+
+
+---
+
+ Equipe Português Estratégia Concursos, Felipe Luccas
+ Aula 03
+
+                                                         ==219a34==
+
+                       Ex: Quando se precisa de ajuda, os amigos verdadeiros aparecem.
+                           Ex: Embora me dedique à matéria, ainda tenho dificuldades.
+
+Proibições gerais
+  ●   1
+      iniciar período com pronome oblíquo átono ou
+  ●   2
+      inserir pronome oblíquo átono após futuros (do presente e do pretérito) e particípio.
+  ● além disso, recomenda-se não utilizar pronome átono para iniciar oração após vírgula ou
+    ponto e vírgula. (Ex. Ele não virá amanhã; me disse disse-me que estará ocupado.)
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                             16
+          www.estrategiaconcursos.com.br                                                      54
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+O que não for proibido, será aceito, simples assim. Veja abaixo construções inadequadas e
+adequadas:
+
+ 🗶 Me dá um cigarro?                                      ✔ Dá-me um cigarro.
+ 🗶 Darei-te um presente.                                  ✔ Dar-te-ei um presente.
+ 🗶 Daria-te um presente                                   ✔ Dar-te-ia um presente
+ 🗶 Tinha emprestado-lhe um dinheiro.                      ✔ Tinha-lhe/lhe emprestado um dinheiro.
+
+(PETROBRAS / 2022)
+Estaria mantida a correção gramatical do trecho “Os sacerdotes indianos se recusavam a escrever
+as histórias sagradas por medo de perder o controle sobre elas. Professores carismáticos (como
+Sócrates) se recusaram a escrever”, caso a posição do pronome “se”, em suas duas ocorrências,
+fosse alterada de proclítica — como está no texto — para enclítica.
+Comentários:
+Nas duas ocorrências, não há palavra atrativa, nem proibição à ênclise. Portanto, é livre a posição
+do pronome. As duas formas, proclítica ou enclítica, são corretas:
+Os sacerdotes indianos se recusavam/recusavam-se a escrever
+Professores carismáticos (como Sócrates) se recusaram/recusaram-se a escrever
+Questão correta.
+
+
+(MP-CE / 2020)
+No trecho “É verdade que não se poderia contar com ela para nada”, o uso da próclise
+justifica-se pela presença da palavra negativa “não”.
+Comentários:
+Exatamente. As palavras negativas (não, nunca, jamais, nem…) obrigam a próclise, isto é, o
+pronome oblíquo átono deve ficar antes do verbo. Questão correta.
+
+(CGE-CE / 2019)
+Julgue a proposta de reescrita para o trecho “Ainda hoje, em muitos rincões do nosso país, são
+encontrados administradores públicos cujas as ações em muito se assemelham às de
+Nabucodonosor, rei do império babilônico”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                     17
+        www.estrategiaconcursos.com.br                                                              54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Ainda hoje, administradores públicos com ações que muito assemelham-se aquelas de
+Nabucodonosor, rei do império babilônico são encontradas em muitos rincões do nosso país.
+Comentários:
+…cujas as ações… (não há artigo após cujas).
+"Muito" é advérbio, portanto atrai o pronome átono (muito se assemelham).
+Faltou acento indicativo de crase em "às ações". Questão incorreta.
+
+
+Regras especiais
+Por segurança, vamos ver aqui algumas “regrinhas” que fogem da lógica geral aplicável à maioria
+das questões.
+Embora a preferência da língua portuguesa seja a próclise, para verbo no infinitivo e verbos
+separados por conjunções coordenativas, é livre a posição do pronome, antes ou depois.
+
+
+                                      Ex: Prefiro não te convidar/ convidar-te.
+                         Ex: Cheguei ao local e me sentei e preparei-me para a prova.
+
+
+              Contudo, alguns conectivos aditivos e alternativos têm próclice recomendada:
+                                Ex: Ora me expulsa, ora não me deixa ir embora.
+                          Ex: Ricardo não só me incentiva, como também me inspira.
+                              Ex: João não respeitou o horário nem se desculpou.
+
+
+Em frases optativas (que expressam desejo, apelo, sentimento), a próclise é obrigatória:
+                                                  Ex: Deus lhe pague.
+                                               Ex: Bons ventos o levem.
+                        Entre a preposição em e o verbo no gerúndio, usa-se próclise:
+                                            Ex: Em se plantando tudo dá.
+                              Ex: Em se tratando de vinhos, ele é uma autoridade.
+
+
+Trata-se de uma expressão já cristalizada na língua.
+
+
+Por motivo de eufonia (boa pronúncia), usa-se próclise com formas verbais monossilábicas ou
+proparoxítonas:
+                                                   Ex: Eu a vi ontem.
+                                       Ex: Nós lhes obedecíamos por medo.
+Tais colocações soam melhor que “*eu vi-a ontem” e “*obedecíamos-lhes...”
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              18
+        www.estrategiaconcursos.com.br                                                       54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Obs: Nas orações subordinadas, se houver um sujeito entre a palavra atrativa e o pronome,
+entende-se que pode haver “atração remota”, isto é, a força atrativa se mantém e deve haver
+próclise:
+
+
+      Ex: Enquanto protestos violentos se espalham pelas ruas, eu sigo acreditando.
+
+
+Mesmo havendo um termo (protestos violentos) entre a conjunção temporal enquanto — palavra
+atrativa — e o verbo, a atração se mantém e ocorre a próclise. A verdade é que, em orações
+subordinadas, usa-se próclise.
+Por outro lado, se houver pausa, uma intercalação, esse distanciamento torna possível também a
+ênclise:
+      Ex: ...Jamais, segundo pensam os economistas, se fizeram tantas despesas desnecessárias.
+      (também caberia ênclise: fizeram-se.)
+      Ex: ...Ele que, ao ver o cachorro brincando, se emocionou muito... (também caberia
+      ênclise: emocionou-se.)
+
+(CFO / TÉCNICO / 2020)
+Quem usa aparelho ortodôntico deve se preocupar mais com a limpeza dos dentes e da gengiva
+e o uso do flúor, pois o aparelho retém muito restos de alimentos.
+Com relação à correção gramatical e à coerência das substituições propostas para vocábulos e
+trechos destacados do texto, julgue o item.
+“deve se preocupar” por deve preocupar‐se
+Comentário:
+Após verbo no infinitivo, a ênclise é permitida também, mesmo se houver palavra atrativa.
+Questão correta.
+
+Colocação pronominal na locução verbal
+A locução verbal é formada de VERBO AUXILIAR + VERBO PRINCIPAL EM FORMA NOMINAL
+(infinitivo, particípio, gerúndio). Só para relembrar:
+
+
+                      Ex: Posso lhe dizer tudo. (locução com verbo no infinitivo – dizer)
+                 Ex: Haviam-me enganado. (locução com verbo no particípio – enganado)
+             Ex: Ele estava testando-me sempre. (locução com verbo no gerúndio – testando)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              19
+        www.estrategiaconcursos.com.br                                                       54
+
+                                     
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+Todas as regras e probições continuam válidas. Sem desrespeitar nenhuma das proibições
+anteriores, o pronome pode vir antes, depois ou no meio1 da locução. Porém, se houver palavra
+atrativa, o pronome não pode estar no meio com hífen, pois isso indicaria que estaria em ênclise
+com o verbo auxiliar, quando, na verdade, ele só pode estar no meio por estar em próclise ao
+verbo principal.
+
+
+Não entendeu? Grave que nas locuções, se o pronome vier no meio, não pode ter hífen.
+
+
+Vamos elucidar essa regra com alguns exemplos:
+      ✔ Ex: Eu lhe estou emprestando dinheiro.
+      ✔ Ex: Eu estou lhe emprestando dinheiro.
+      ✔ Ex: Eu estou-lhe emprestando dinheiro.
+      ✔ Ex: Eu estou emprestando-lhe dinheiro.
+      ✔ Ex: Eu não lhe estou emprestando dinheiro. (o pronome está proclítico a “estou", verbo
+        auxiliar)
+      ✔ Ex: Eu não estou lhe emprestando dinheiro. (o pronome está proclítico a “emprestando”,
+        verbo principal)
+      🗶 Ex: Eu não estou-lhe emprestando dinheiro. (Errado porque o pronome, com hífen, estaria
+        em ênclise com palavra atrativa obrigando próclise)
+
+
+1-
+  A gramática tradicional mais rígida recomenda evitar o pronome no meio da locução.
+Contudo,“ a próclise ao verbo principal tem abono recente nas gramáticas brasileiras”.
+O renomado gramático Celso Cunha oferece exemplos de pronome no meio da locução, com
+hífen, quando NÃO HÁ PALAVRA ATRATIVA.
+         Ex: “Vão-me buscar, sem mastros e sem velas...”
+         Ex: “Ia-me esquecendo dela”
+         Ex: “A cidade ia-se perdendo à medida que o veleiro rumava para São Pedro.
+         Ex: “Tenho-o trazido sempre...”
+
+
+         Cegalla traz os seguintes exemplos:
+         Ex: “Os presos tinham-se revoltado”.
+         Ex: “Não devo calar-me, ou não me devo calar, ou não devo me calar.” (no meio, sem
+         hífen!)
+         Ex: “Vou-me arrastando, ou vou me arrastando, ou vou arrastando-me.” (no meio, sem
+         hífen!)
+
+
+Portanto, é possível que algumas questões não considerem correta a colocação do pronome
+antes do verbo principal. Procure a melhor resposta!
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           20
+           www.estrategiaconcursos.com.br                                                    54
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Por fim, saliento que há muitas regrinhas e divergências nesse tema, mas o que realmente é
+fundamental para a prova é MEMORIZAR AS PROIBIÇÕES E PALAVRAS ATRATIVAS.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         21
+        www.estrategiaconcursos.com.br                                                  54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+               QUESTÕES COMENTADAS - PRONOMES - FGV
+   1. (FGV / DNIT / 2024)
+A coerência de um texto é construída também por meio de retomadas, de tipos variados, de
+outros elementos.
+Assinale a opção em que a retomada do termo sublinhado é feita por meio de um elemento de
+classe gramatical diferente dos demais.
+A) No verão ou no inverno, quem deixa o seu lugar, perde-o.
+B) Poucos prazeres há aos quais o homem possa entregar-se tão inocentemente como o de
+ganhar dinheiro.
+C) Mas é bonito ver o que o dinheiro é capaz de fazer.
+D) Um contrato verbal não vale o papel no qual está escrito.
+E) No fundo das gavetas encontram-se segredos importantes de família e aí também nos
+deparamos com fotos antigas.
+Comentários:
+Na letra E, "aí" é advérbio e retoma "fundo das gavetas". Nas demais alternativas, a retomada é
+feita por um pronome.
+A) O pronome pessoal oblíquo átono "o" retoma "lugar"
+B) O pronome demonstrativo "o" retoma "prazer"
+C) O pronome relativo "que" retoma o demonstrativo "o"
+D) A construção com relativo "no qual" retoma "papel".
+Gabarito letra E.
+
+
+   2. (FGV / TJ-RN / 2023)
+Um livro intitulado A Língua Portuguesa e o Modernismo traz algumas modificações ocorridas na
+norma culta de nossa língua na época moderna; a opção abaixo que mostra uma dessas
+modificações seguida de um exemplo que a comprove, de forma adequada, é:
+A) uso do pronome “ele/ela” como objeto direto, em lugar de “o/a”: “Nós vimos que ele não
+chegaria a tempo”;
+B) uso do pronome “mim” em lugar de “eu”: “Para mim, trabalhar lá deve ser um sacrifício”;
+C) emprego de pronome oblíquo solto entre dois verbos: “Ele foi se pentear no espelho do
+banheiro”;
+D) utilização do verbo “ter” em lugar de “haver”: “Ele não tinha mais o que fazer no trabalho”;
+E) uso da forma “lhe” em lugar de “o/a”: “Eu lhe entreguei os livros prometidos”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   22
+        www.estrategiaconcursos.com.br                                                            54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Comentários:
+Atenção ao enunciado: " modificações seguida de um exemplo que a comprove, de forma
+adequada"
+A) Incorreto. Não há uso do pronome “ele/ela” como objeto direto, em lugar de “o/a”. Em “Nós
+vimos que ele não chegaria a tempo”, "ele" é pronome pessoal reto, sujeito de "chegaria".
+B) Incorreto. Não houve uso do pronome “mim” como sujeito. "Para mim" é uma expressão
+adverbial de opinião. Não haveria como usar “eu”:
+“Para mim, trabalhar lá deve ser um sacrifício”
+“Para eu, trabalhar lá deve ser um sacrifício”;
+C) Correto.
+Entendam que o Modernismo é um movimento artístico-literário que chegou ao Brasil por volta
+dos anos 20. Nas gramáticas mais antigas, clássicas, havia restrição de uso do pronome oblíquo
+átono solto no meio de locuções verbais. Atualmente, diversos gramáticos consagrados aceitam
+esse uso, o que faz ser correto também em provas de concursos.
+Em suma, a gramática tradicional mais rígida recomenda evitar o pronome no meio da locução.
+Contudo, “a próclise ao verbo principal tem abono recente nas gramáticas brasileiras”.
+O renomado gramático Celso Cunha oferece exemplos de pronome no meio da locução, com
+hífen, quando NÃO HÁ PALAVRA ATRATIVA.
+Ex: “Vão-me buscar, sem mastros e sem velas...”
+Ex: “Ia-me esquecendo dela”
+Ex: “A cidade ia-se perdendo à medida que o veleiro rumava para São Pedro.
+Ex: “Tenho-o trazido sempre...”
+Cegalla traz os seguintes exemplos:
+Ex: “Os presos tinham-se revoltado”.
+Ex: “Não devo calar-me, ou não me devo calar, ou não devo me calar.” (no meio, sem hífen!)
+Ex: “Vou-me arrastando, ou vou me arrastando, ou vou arrastando-me.” (no meio, sem hífen!)
+Por isso, o emprego de pronome oblíquo solto entre dois verbos: “Ele foi se pentear no espelho
+do banheiro” é um exemplo adequado de uma modificação na norma culta;
+D) Incorreto.
+O verbo "haver" é impessoal, portanto, invariável (não vai ao plural) quando tem sentido de
+tempo decorrido (Há dois anos não bebo), é sinônimo de existir (Há muitos problemas sociais no
+Brasil) ou ocorrer (Houve imprevistos).
+Pois bem...
+É comum na língua falada informal/coloquial o uso do verbo "ter" como substituto do "haver"
+impessoal:
+Ex: Não tem (há) mais cerveja.
+Ex: É péssimo ser demitido, mas tem (existem) coisas piores.
+Ex: Vou me atrasar, porque teve (houve/ocorreu) um acidente na rodovia.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              23
+        www.estrategiaconcursos.com.br                                                       54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Isso não ocorre em “Ele não tinha mais o que fazer no trabalho”, "ter" não nenhum dos sentidos
+do "haver" impessoal.
+E) Incorreto. O pronome oblíquo átono "lhe" equivale a "a ele" e substitui termos
+preposicionados. O uso da forma “lhe”, como objeto indireto, em lugar de “o/a” é perfeito: “Eu
+lhe (a ele) entreguei os livros prometidos”.
+"o,a, os, as" são usados para substituir termos não preposicionados, objetos diretos.
+Gabarito letra C.
+
+
+   3. (FGV / BANESTES / 2023)
+Em todas as frases abaixo há um termo sublinhado que serve de elemento de coesão com um
+termo anterior.
+Assinale a frase em que esse antecedente está corretamente identificado.
+                                                       ==219a34==
+
+A) Não é filósofo quem sabe onde está o tesouro, mas quem trabalha e o desenterra / onde.
+B) A personalidade do homem determina antecipadamente o grau de sua fortuna /
+personalidade.
+C) Pode-se dar os primeiros impulsos nos negócios; depois eles mesmos nos arrastam / impulsos.
+D) Quem compra e mente em seu bolso sente / quem.
+E) As cadeias de ouro são mais fortes que as de ferro / fortes.
+Comentários:
+Aqui, a FGV explora uma zona cinzenta da morfologia, palavras com classificações não
+consensuais entre os gramáticos. Vejamos:
+Alguns pronomes relativos são usados de maneira "absoluta", isto é, sem retomar um referente
+expresso na sentença. Vejam:
+Ex: Fico onde me tratam bem.
+Ex: Ando onde há espaço.
+A sentença tem sentido de: "fico no lugar em que me tratam bem"; "onde" representa
+genericamente "o lugar em que".
+Esse uso também ocorre com o "quem":
+Ex: Quem acredita sempre alcança.
+Ex: A necessidade era quem o motivava.
+A sentença tem sentido de: "aquele que acredita/ qualquer um que acredite sempre alcança".
+Para Bechara, esse "quem" é pronome indefinido; para Celso Cunha, é pronome relativo. Isso só
+para citar alguns.
+Felizmente, a FGV não vai perguntar a classificação, mas analisar o uso. Vejamos:
+A) Incorreto. "Onde" aqui foi usado sem antecedente. Ele não retoma ninguém! A gramática o
+classifica como relativo indefinido.
+B) Incorreto. "Sua" retoma "homem".
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             24
+        www.estrategiaconcursos.com.br                                                      54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+C) Incorreto. "Eles" retoma "negócios"
+D) Correto. "Quem" é pronome de valor genérico, equivale a "aquele que", "a pessoa que
+compra". Então, o "seu" retoma esse sujeito.
+E) Incorreto. O pronome demonstrativo "as” retoma "cadeias".
+Já que falamos de divergências doutrinárias, saibam também que, nessa sentença, Bechara
+considera o "as" um artigo definido diante de uma palavra implícita:
+Ex: As cadeias de ouro são mais fortes que as (cadeias) de ferro.
+Gabarito letra D.
+
+
+   4. (FGV / MPE-SP / 2023)
+As frases abaixo mostram exemplos de demonstrativos; assinale a frase em que o emprego desse
+demonstrativo está correto.
+A) O melhor sinal de ser bom é este: não temer nem dever, e o maior da maldade é não temer
+nem pagar.
+B) Não se envolva com seu chefe. Se acontecer, não conte aquilo a pessoa alguma.
+C) Nesta terra em que você está não há segurança, apenas oportunidades.
+D) No mundo existem aqueles que choram e esses que vendem lenços.
+E) Não é ignorante este que faz tolice, e sim esse que, feita, não a sabe encobrir.
+Comentários:
+Na letra A, temos o uso correto e clássico do demonstrativo catafórico "este": anunciar
+informação futura no texto:
+A) O melhor sinal de ser bom é este: não temer nem dever, e o maior da maldade é não temer
+nem pagar.
+Corrijamos as demais:
+B) Não se envolva com seu chefe. Se acontecer, não conte isso a pessoa alguma. ("isso" retoma
+a informação da oração anterior: envolver-se com o chefe.
+C) Nessa terra (aí) em que você está não há segurança, apenas oportunidades. (é a terra próxima
+ao ouvinte, utiliza-se o "essa")
+D) No mundo existem aqueles que choram e aqueles que vendem lenços. (com esse valor
+genérico, equivalente ao pronome indefinido "quem", utiliza-se "aquele que": Tudo é possível
+para quem/aquele que acredita.)
+E) Não é ignorante este que faz tolice, e sim aquele que, feita, não a sabe encobrir. (novamente,
+com esse valor genérico, equivalente ao pronome indefinido "quem", utiliza-se "aquele que":
+Tudo é possível para quem/aquele que acredita.)
+Gabarito letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               25
+        www.estrategiaconcursos.com.br                                                        54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+   5. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Os pronomes demonstrativos mostram empregos bem definidos em língua portuguesa; a opção
+abaixo em que o emprego do demonstrativo está adequado, é:
+A) Esta é a verdade: ninguém é totalmente honesto;
+B) José e Maria vieram à festa: este, de ônibus, aquele, de táxi;
+C) Este cigarro que você está fumando, faz mal à sua saúde;
+D) Os tempos atuais são diferentes destes tempos de outrora;
+E) Aquela sala que você vê na foto é bastante ampla.
+Comentários:
+A letra A está correta, pois o pronome “esta” (a família dos demonstrativos de primeira pessoa) é
+utilizado para uma referência catafórica, isto é, para o anúncio de uma informação nova, ainda
+não mencionada no texto. A verdade é dita logo após o pronome.
+Façamos as correções nas demais:
+b) José e Maria vieram à festa: aquele (mais distante), de ônibus, esta (mais próxima), de táxi;
+c) Esse cigarro que você está fumando, faz mal à sua saúde (usa-se “esse” para objeto próximo
+ao ouvinte);
+d) Os tempos atuais são diferentes daqueles tempos de outrora (tempos remotos, mais distantes,
+daí a primeira pessoa);
+e) essa sala que você vê na foto é bastante ampla. (usa-se “esse” para objeto próximo ao
+ouvinte)
+Gabarito Letra A
+
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Observe as frases a seguir.
+Comprei calças de lã na Europa.
+O preço das calças foi baixo.
+A forma adequada de juntar essas duas frases numa só, de modo a evitar a repetição da palavra
+"calças", é:
+A) Comprei calças de lã na Europa, que o preço foi baixo;
+B) Comprei calças de lã na Europa, onde o preço foi baixo;
+C) Comprei calças de lã na Europa, cujo preço foi baixo;
+D) Comprei calças de lã na Europa em que o preço foi baixo;
+E) Comprei calças de lã na Europa em onde o preço foi baixo.
+Comentários:
+Note que na segunda oração, há uma relação de posse entre "calças" e "preço". Tal relação é
+uma característica do pronome "cujo". Por isso, a melhor forma de juntar as duas orações sem
+repetição é: Comprei calças de lã na Europa, cujo preço foi baixo.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    26
+        www.estrategiaconcursos.com.br                                                             54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Em (B), (D) e (E) os pronomes "onde" e "em que" denotam lugar e em (A), o pronome "que"
+estaria retomando "Europa", o que torna a oração incoerente. Portanto, gabarito letra C.
+
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Também pode evitar-se a repetição de palavras idênticas, substituindo a segunda ocorrência do
+vocábulo por um pronome demonstrativo; a frase abaixo em que isso foi feito de forma
+adequada é:
+A) Amazonas e Sergipe são estados brasileiros; este tem enorme território e aquele, pequeno;
+B) Meu carro é mais elegante que esse que você está comprando;
+C) Teu jornal abordou o tema de forma interessante, mas aquele, em minhas mãos, é mais justo;
+D) Brasil e Rússia jogaram várias vezes, mas aqueles jogos nunca foram violentos;
+E) O terremoto de Lisboa foi violentíssimo, mas aquele de agora matou mais gente.
+Comentários:
+Vejamos as alternativas:
+A) ERRADA. O uso de "este" e "aquele" está invertido: "este" se refere ao termo mais próximo
+(Sergipe) e "aquele" ao termo mais distante (Amazonas).
+B) CERTA. O pronome "esse" indica termo já mencionado no texto.
+C) ERRADA. O pronome "aquele" indica termo mais distante do falante. O correto seria "este".
+D) ERRADA. O pronome "aquele" indica termo mais distante do falante. Como os "jogos" já
+foram mencionados, o correto seria "esses".
+E) ERRADA. O pronome "aquele" indica referência no passado. O correto seria "este". Gabarito:
+Letra B.
+
+   8. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Uma outra estratégia para evitar-se a repetição de palavras consiste na substituição da segunda
+ocorrência da palavra por um pronome pessoal.
+A frase em que isso foi feito de forma adequada é:
+A) Os meninos procederam mal, por isso lhes condenaram;
+B) Comprei o livro ontem, mas vou revendê-lo;
+C) Os chefes deram as ordens, por isso os obedeci;
+D) João estava na festa, mas não no viram sair;
+E) As meninas estavam no shopping, mas não encontrei-las.
+Comentários:
+Para responder a questão, devemos lembrar que:
+Quando os verbos são terminados em /r/, /s/, /z/ + o, os, a, as, teremos: lo, los, la, las.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                27
+        www.estrategiaconcursos.com.br                                                         54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Ex: Comprei o livro – vou revendê-lo (Letra B)
+Quando os verbos são terminados em som nasal, como /m/, /ão/, /aos/, /õe/, /ões/ + o, os, a, as,
+teremos simples acréscimo de /n/: no, nos, na, nas.
+Assim, "no viram" (Letra D) e "encontrei-las" (Letra E) não são formas possíveis.
+Além disso, em (A) há complemento verbal direto (condenar alguém), ou seja, a substituição
+correta é pelo pronome "os". Já em (C), o verbo "obedeci" pede complemento verbal indireto
+(obedecer a alguém), ou seja, a substituição é feito pelo pronome "lhe". Gabarito: Letra B.
+
+
+   9. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Texto 2
+“Nós conhecemos você tanto quanto você nos conhece.
+E não há nada melhor que isso: confiança.
+O que nos move é você. Seu jeito de ser, o que valoriza.
+Faz sentido pra você, faz sentido pra gente.
+A gente veste a sua camisa”.
+Esse texto está fixado na parede de uma loja de roupas masculinas e funciona como um texto
+publicitário da loja.
+Sobre a estruturação geral do texto 2, a afirmação INADEQUADA é:
+A) os pronomes “Nós” e “você” (linha 1) se referem, respectivamente, à loja e ao cliente
+potencial;
+B) na linha 2, o pronome “isso” deveria ser substituído por “isto”;
+C) o vocábulo “confiança” mostra a referência do pronome “isso”;
+D) a frase final do texto mostra ambiguidade intencional;
+E) a expressão “a gente” equivale perfeitamente ao pronome “nós”.
+Comentários:
+Vejamos:
+A) Correto. “Nós”=loja; “você”=cliente hipotético.
+B) Correto. Pela regra rígida da norma culta, “isto” deve ser utilizado para o que será dito depois,
+e “isso” para o que já foi dito anteriormente no texto.
+C) Correto. Logo após do “isso” vem sua referência. Ah, Felipe, mas o “isso” não é catafórico (faz
+referência ao que já apareceu antes)?
+Cuidado, ser anafórico ou não é algo do texto: se a referência é algo que já apareceu, a palavra é
+um recurso coesivo anafórico, se a palavra remete a algo ainda a ser dito, é catafórico,
+independentemente de ser “isso” ou “isto. Não é o pronome que faz ser anafórico ou não, o
+pronome não muda a posição da referência; o que gramática orienta é usar “isso” para o que já
+foi dito e “isto” para o que virá depois, então, primeiro você observa a referência no texto,
+depois usa o pronome adequadamente, não é o pronome que define. Tanto é assim que, nesse
+caso, o “isso” foi usado cataforicamente. De forma contrária à orientação da norma culta? Sim,
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                                28
+          www.estrategiaconcursos.com.br                                                         54
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+mas não foi isso que a questão perguntou nessa alternativa. Esse raciocínio se confirma na letra
+B.
+D) “Vestir a camisa” pode ser entendido de duas formas: a primeira leitura é literal (denotativa) e
+remete à peça de roupa propriamente dita; a segunda é figurada (conotativa) e constitui uma
+figura de linguagem no sentido de “abraçar suas ideias”, “seguir seus projetos”... Gabarito letra
+E.
+
+
+   10. (FGV / PREF. ANGRA DOS REIS-RJ / INSPETOR / 2019)
+“Quanto menos tempo tenho para praticar as coisas, menos curiosidade sinto de aprendê-las.”
+Nessa frase, o pronome -las
+A) retoma o termo “coisas”.
+B) enfatiza com redundância um termo anterior.
+C) destaca o termo mais importante da frase.
+D) antecipa um termo a ser citado.
+E) refere-se ao vocábulo “curiosidade” para dar coesão.
+Comentários:
+Note que o pronome oblíquo átono -las está retomando "as coisas". Como o termo já foi
+mencionado, o pronome está sendo utilizado como recurso coesivo para evitar repetições no
+texto. Portanto, Gabarito Letra A.
+
+
+   11. (FGV / AL-RO / ADVOGADO / 2018)
+“No primeiro semestre deste ano, 80 mil alunos deixaram de ingressar em faculdades particulares
+de todo o país...”
+Assinale a opção em que o emprego do pronome demonstrativo sublinhado tem o mesmo valor
+do apresentado no segmento inicial.
+A) Muitos alunos deixaram de matricular-se em 2018; este dado se torna preocupante.
+B) Esta semana o Globo publicou uma notícia preocupante sobre as matrículas em universidades
+privadas.
+C) Rio, Minas Gerais e Espírito Santo são estados onde houve redução do número de matrículas e
+neste último estado a situação/o é mais grave.
+D) Neste texto da prova, o jornal mostra preocupação com a redução de calouros nas
+universidades privadas.
+E) Na terceira semana de julho o jornal publicou uma notícia sobre matrículas universitárias; neste
+momento a preocupação era grande com a redução do número de calouros"
+Comentários:
+O exemplo do enunciado é o uso do pronome demonstrativo para se referir a tempo ("o
+presente ano"), ou seja, uma referência dêitica. O mesmo ocorre na Letra (B), "esta semana".
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 29
+        www.estrategiaconcursos.com.br                                                          54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Nas alternativas (A), (C) e (E), há referência anafórica (algo já mencionado); em (D) há a referência
+ao próprio texto que está sendo lido. Gabarito letra B.
+
+
+   12. (FGV / CÂMARA DE SALVADOR-BA / ANALISTA LEGISLATIVO / 2018)
+                                                      Texto 2
+                                           Intercâmbio de alimentos
+A chegada dos europeus à América foi o começo de uma das transformações mais
+revolucionárias nos hábitos alimentares dos seres humanos.
+Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal. Todavia, os espanhóis enviavam à
+Europa todos os alimentos exóticos que os nativos lhes ofereciam para, de alguma forma,
+apaziguar a Coroa pelas dificuldades que tinham de encontrar os tão desejados metais preciosos.
+Progressivamente, por meio dessa troca entre América e Europa, a flora e a fauna de ambos os
+continentes foram modificadas, pois diversas plantas e animais adaptaram-se aos novos climas.
+Com isso, a dieta dos habitantes das duas regiões foi enriquecida.
+                    (Renato Mocelline/Rosiane de Camargo, História em debate. São Paulo: Editora do Brasil, p. 72).
+
+
+Observe os três segmentos abaixo, retirados do texto 2.
+“por isso trouxeram consigo plantas e animais de sua terra natal”
+“Progressivamente, por meio dessa troca entre América e Europa...”
+“Com isso, a dieta dos habitantes das duas regiões foi enriquecida”.
+Nessas ocorrências, os pronomes demonstrativos empregados:
+A) têm sempre por antecedente uma oração;
+B) referem-se sempre a termos imediatamente anteriores;
+C) mostram sempre referências a um de dois termos citados;
+D) prendem-se sempre a elementos distantes no tempo;
+E) ligam-se semanticamente a elementos já citados.
+Comentários:
+I- “isso" refere-se a “os espanhóis resistiram a comer produtos nativos americanos”, ou seja, a
+algo já mencionado.
+II- “dessa” refere-se a todo o conteúdo do 2º parágrafo, ou seja, é uma referência anafórica.
+III- “isso" refere-se a “diversas plantas e animais adaptaram-se aos novos climas”. Também é uma
+referência anafórica.
+Dessa forma, os três pronomes demonstrativos ligam-se semanticamente a elementos já citados.
+Portanto, gabarito letra E.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                 30
+        www.estrategiaconcursos.com.br                                                                          54
+
+                                     
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+     QUESTÕES COMENTADAS - COLOCAÇÃO PRONOMINAL - FGV
+1.        (FGV / Câmara dos Deputados / 2023)
+
+Quanto à colocação do pronome pessoal oblíquo, assinale a frase incorreta.
+
+A) Espero não perturbá-lo com essa interrupção.
+
+B) Que a terra lhe seja leve.
+
+C) Ao sentirem-no pulsar, choraram de emoção.
+
+D) As compras, me disse ela, só chegaram à tarde.
+
+E) Convém que cumpra-se a lei.
+
+Comentários:
+
+Conjunções subordinativas atraem próclise; "que" é conjunção subordinativa integrante.
+
+Portanto, a forma correta obrigatoriamente seria: Convém que SE cumpra a lei.
+
+Vejamos as demais:
+
+A) Espero não perturbá-lo com essa interrupção.
+
+Correto. O infinitivo admite ênclise mesmo havendo palavra atrativa.
+
+B) Que a terra lhe seja leve.
+
+Correto. Em frases optativas, que indicam desejos, a próclise é obrigatória. O "que" é conjunção
+integrante, o que confirma a obrigatoriedade da próclise.
+
+C) Ao sentirem-no pulsar, choraram de emoção.
+
+Correto. Verbo terminado em som nasal exige o acréscimo de "n" ao pronome. Aqui, não temos
+locução verbal, "pulsar" inicia uma segunda oração, que funciona como objeto direto de
+"sentir": sentirem que ele pulsava.
+
+D) As compras, me disse ela, só chegaram à tarde.
+
+Correto*. De maneira geral, após pausa, a próclise e a ênclise são corretas.
+
+Contudo, sendo rigoroso, temos uma oração interferente ou intercalada, então a próclise deveria
+ser proibida no início da oração.
+
+D) As compras, disse-me ela, só chegaram à tarde.
+
+Vejam a lição da professora Maria Regina Rocha do Ciberdúvidas:
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           31
+           www.estrategiaconcursos.com.br                                                    54
+
+                                        
+
+
+---
+
+   Equipe Português Estratégia Concursos, Felipe Luccas
+   Aula 03
+
+'Em Portugal, a frase correcta seria: “O Paulo vai passar – disse-me o professor.” Também seria
+admissível, embora menos usada, a seguinte construção: “O Paulo – disse-me o professor – vai
+passar.”
+
+A colocação normal do pronome em frase neutra intercalada é a enclítica.
+
+No Brasil, no entanto, assiste-se à preferência pela próclise nas orações absolutas, iniciando-se
+mesmo as frases com o clítico, especialmente no caso da forma “me”.
+
+Gabarito letra E.
+
+
+2.   (GESTOR DE SANEAMENTO ENGENHARIA CIVIL - SEMAE SÃO JOSÉ DO RIO
+PRETO-SP / 2020)
+Leia um trecho do romance “A Madona de Cedro”, de Antonio
+Callado, para responder à questão.
+No primeiro dia no Rio de Janeiro, Delfino Montiel quase se afogou. Ele tinha aprendido a nadar
+menino ainda no rio das Velhas, na fazenda de seu tio Dilermando. Mas a corrente dos rios é
+honesta e determinada, vai reta e sempre se disciplina pelas margens. O mar... Ora, quem vai
+entender o mar? Delfino largou-se para o mar no mesmo dia em que chegara ao Rio. Atravessou
+a areia e foi entrando no mar numa espécie de exaltação. Queria chorar com aquela frescura de
+água azul, queria abraçar e beijar o mar. A primeira onda que lhe veio ao encontro, Delfino a
+recebeu de braços abertos. Ela o derrubou numa cascata de areia e espuma. Ele bebeu água,
+muita, mas estava embriagado de mar.
+Só quando já se achava sentado na areia, arquejante, entre uma súcia de curiosos, é que Delfino
+compreendeu que quase tinha morrido afogado. Um dos que o havia salvo era um rapagão
+simpático que lhe perguntou:
+– Você donde é que veio, patrício, de Cabrobó¹ ou Caixa Prego² ?
+– De Congonhas do Campo, respondeu Delfino ingenuamente.
+Muita gente riu em torno dele.
+– Pois, se você ainda quer rever Congonhas, trate o mar com mais desconfiança.
+Enquanto o rapaz se afastava, Delfino notou principalmente o riso de uma menina de cabelos cor
+de mel. Ele a notou porque a menina não queria exatamente rir, com pena dele que estava, mas
+sua companheira ria tão à vontade que ela não podia deixar de acompanhá-la.
+Com os olhos fitos nela, Delfino a foi acompanhando com a vista enquanto a menina entrava no
+mar. Viu logo que era uma amiga íntima do mar. Viu-a furar uma primeira onda, ligeira e exata
+como uma agulha mergulhando na dobra azul de um pano. Quando ela se levantou do
+mergulho, o cabelo cor de mel estava preto e grudado ao pescoço, preto-esverdeado, como se
+ela tivesse voltado mais marinha do fundo do mar.
+                                                                                    (Record/Altaya. Adaptado)
+¹Cabrobó é uma cidade pernambucana no sertão do São Francisco.
+²Caixa Prego significa lugar muito distante, longínquo.
+
+A colocação do pronome no trecho original do texto pode ser alterada, seguindo a
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                        32
+           www.estrategiaconcursos.com.br                                                                 54
+
+                                               
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+norma-padrão, como indicado na alternativa:
+A) ... é honesta e determinada, vai reta e sempre disciplina-se pelas margens.
+B) A primeira onda que veio-lhe ao encontro, Delfino recebeu-a de braços abertos.
+C) Só quando já achava-se sentado na areia, arquejante...
+D) Um dos que havia salvo-o era um rapagão simpático...
+E) Com os olhos fitos nela, Delfino foi acompanhando-a com a vista...
+Comentários:
+A - Essa colocação está inadequada, pois o vocábulo "sempre" é um advérbio, e advérbio é
+palavra atrativa. Deve-se, portanto, utilizar a próclise. O correto seria: "... é honesta e
+determinada, vai reta e sempre se disciplina pelas margens.".
+B - Essa colocação está inadequada, pois o vocábulo "que" é um pronome relativo e é, portanto,
+uma palavra atrativa. Deve-se, então, utilizar a próclise. O correto seria: "A primeira onda que lhe
+veio ao encontro, Delfino recebeu-a de braços abertos.".
+C - Essa colocação está inadequada, pois o vocábulo "já" é um advérbio e é, portanto, uma
+palavra atrativa. Deve-se, então, utilizar a próclise. O correto seria: "Só quando já se achava
+sentado na areia, arquejante...".
+D - Essa colocação está inadequada, pois o verbo "salvo" está conjugado no particípio e não se
+pode colocar pronomes átonos após verbo no particípio. Além disso, o pronome relativo "que" é
+palavra atrativa de próclise.
+E - Essa colocação está adequada, pois o verbo está no gerúndio e, portanto, a ênclise é
+obrigatória.
+Atenção: A ênclise é obrigatória com verbo no gerúndio, desde que não seja precedido da
+preposição "em".
+Gabarito: letra E.
+
+
+3.        (TÉCNICO EM GESTÃO ASSISTÊNCIA ADMINISTRATIVA (FITO SP) / 2020)
+É só sair da estação Osasco da CPTM para chegar ao principal polo varejista de rua do Estado de
+São Paulo – descontada a 25 de Março, claro.
+Os quatro quarteirões fechados para carros que compõem o calçadão da rua Antônio Agú, em
+Osasco, concentram 250 lojas e recebem 350 mil pessoas por dia.
+ Preços competitivos, fácil acesso e alternativa ao trânsito de São Paulo são chamarizes para
+consumidores locais, de cidades vizinhas (Barueri, Itapevi e Cotia) e de bairros da zona oeste
+paulistana (Butantã e Jaguaré).
+ A locutora Sonia De Piere, 53, é uma paulistana que prefere comprar em Osasco a enfrentar o
+trânsito em direção ao centro de São Paulo. “O estacionamento é mais barato, os preços são
+bons, e os supermercados distribuem sacolinha plástica”, resume.
+ De acordo com a Associação Comercial e Empresarial de Osasco, na época do Natal, o lugar
+recebe 1,5 milhão de consumidores/dia. “A posição geográfica ajuda. Osasco era bairro de São
+Paulo, e isso colaborou para que o comércio crescesse de maneira vertiginosa”, diz André
+Menezes, presidente da entidade.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                               33
+           www.estrategiaconcursos.com.br                                                        54
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+Ao longo do caminho, uma série de lojas lado a lado supre demandas que vão de flores a
+eletrônicos. Há produtos naturais a granel, moda, bijuterias e utensílios para casa, entre outros
+itens.
+Mas o forte são os calçados. “A cidade é um dos berços da comunidade armênia, que domina
+esse mercado”, explica Menezes.
+          (Amanda Nogueira. Calçadão de Osasco só perde para a 25 de Março em número de lojas. http://especial.folha.uol.com.br, 13.03.2016.
+                                                                                                                                  Adaptado)
+
+Assinale a alternativa em que o termo entre parênteses substitui corretamente a expressão.
+A) chegar ao principal polo varejista de rua (chegá-lo)
+B) recebem 350 mil pessoas (recebem-as)
+C) prefere comprar em Osasco (prefere comprar-lhe)
+D) distribuem sacolinha plástica (distribuem-na)
+                                                                  ==219a34==
+
+E) supre demandas (supre-lhes)
+Comentários:
+A - O pronome átono "o" não pode exercer a função de objeto indireto, apenas de objeto
+direto. "ao principal polo varejista de rua" é objeto indireto. Portanto, a substituição seria
+incorreta.
+B - Após som nasal, deve-se acrescentar "n" antes do pronome átono (recebem-nas).
+C - 'Comprar' é um verbo transitivo direto; 'lhe' exerce a função de objeto indireto. Além disso,
+esse pronome oblíquo não pode substituir um adjunto adverbial ("em Osasco").
+D - Substituição correta: Distribuem ISSO = distribuem-na.
+E - "Demandas" é objeto direto; o correto seria "supre-as".
+Gabarito: letra D.
+
+
+4.        (TÉCNICO EM GESTÃO ASSISTÊNCIA ADMINISTRATIVA (FITO SP) / 2020)
+Encontra-se em conformidade com a norma-padrão da língua quanto à colocação dos pronomes
+a seguinte frase:
+A) … uma dádiva dos deuses que, infelizmente, não encontramos-a por aqui.
+B) … o suco abundante escorre pelo queixo e o doce naturalmente mescla-se ao sal em sua
+língua.
+C) … manipulando suas características até que transformaram-nos nesse tímido vegetal…
+D) Me dou conta de que há questões mais urgentes a serem tratadas em nosso país…
+E) A vida é curta, meus caros, e não podemos medir esforços para a deixar mais doce…
+Comentários:
+A - 'Não' é palavra atrativa. O correto seria 'não a encontramos'.
+B - O advérbio 'naturalmente' é palavra atrativa. O correto seria 'naturalmente se mescla'.
+C - 'Que' é palavra atrativa. O correto seria 'que nos transformaram'.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                                                      34
+           www.estrategiaconcursos.com.br                                                                                               54
+
+                                            
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+D - Não se inicia período com pronome átono. O correto seria 'Dou-me conta'
+E - Em 'para a deixar', o pronome 'a' pode vir antes ou após o verbo. Alternativa correta.
+Gabarito: letra E.
+
+
+5.        (AGENTE ADMINISTRATIVO (VALIPREV SP) / 2020)
+Assinale a alternativa que reescreve a passagem – Hoje, convém poupar primeiro para a
+indenização que eles nos vão pedir. – de acordo com a norma-padrão de emprego dos verbos e
+colocação pronominal.
+A) Futuramente, até convinha-nos poupar primeiro para a indenização que eles irão nos pedir.
+B) Antigamente, sempre nos conviera poupar primeiro para a indenização que eles nos irão pedir.
+C) Antigamente, talvez nos conviesse poupar primeiro para a indenização que eles iam nos pedir.
+D) Antigamente, por certo conveio-nos poupar primeiro para a indenização que eles irão nos
+pedir.
+E) Futuramente, é possível que convirá-nos poupar primeiro para a indenização que eles iam
+pedir-nos.
+Comentários:
+A - Diante do advérbio "até", é necessário utilizar próclise, e há uma incoerência de tempos
+verbais, uma vez que o verbo "convir" está no passado e a oração faz referência ao futuro.
+B - A conjugação do verbo "convir" está inadequada, uma vez que o tempo verbal adequado à
+ocasião é o pretérito imperfeito, não o mais-que-perfeito, tendo em vista que o fato ocorrido no
+passado dá ideia de continuidade, não de que ocorreu antes de outra ação.
+C - A ação, que ocorre no passado e dá ideia de continuidade, é representada pelo pretérito
+imperfeito. Como indica imprecisão, é utilizado o modo subjuntivo.
+D - As expressões "antigamente" e "conveio" sugerem tempo passado, o que não admite o
+verbo "ir" no futuro (irão).
+E - O advérbio "futuramente" indica tempo futuro, ou seja, o verbo "iam" está inadequado
+quanto ao tempo, uma vez que este está no pretérito imperfeito do indicativo. Outro problema é
+que a colocação pronominal está inadequada, uma vez que, diante do pronome "que", deve
+ocorrer próclise em vez de ênclise.
+Gabarito: letra C.
+
+
+6.    (ANALISTA EM GESTÃO MUNICIPAL - DIREITO (PREF SÃO JOSÉ DOS CAMPOS-SP /
+2020)
+Encontra-se em conformidade com a norma-padrão da língua, quanto à colocação dos
+pronomes, a seguinte frase:
+A) … o educador que levaria-nos até aquele emaranhado de endereços desencontrados…
+B) Se passou muito tempo, talvez quase uma hora de silêncios entre nós…
+C) Mas ainda não olhava-me.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             35
+           www.estrategiaconcursos.com.br                                                      54
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+D) Frequentemente deparei-me com essa fome…
+E) O menino leu-me muito antes de eu a ele…
+Comentários:
+A - Temos um caso de próclise obrigatória, visto que o pronome relativo "que" atrai o pronome
+oblíquo "nos". Logo, deveria ser "... o educador que nos levaria até....".
+B - Não se usa pronome oblíquo no início de frase, sempre se deve iniciar o período de forma
+enclítica (verbo+pronome), nesses casos.
+C - Este caso é de próclise obrigatória, por isso, o erro do item. O pronome "me" deveria
+acompanhar o advérbio de Negação "não".
+D - Estamos diante de um caso de próclise obrigatória, porque "advérbio atrai os pronomes
+oblíquos". A palavra "frequentemente" é um advérbio e, quando temos a apresentação do
+advérbio anterior ao verbo, o pronome que companha o verbo deve vir antes do verbo
+(PRÓCLISE).
+E - Na frase, temos hipótese de colocação pronominal facultativa, logo, pode-se colocar o
+pronome tanto proclítico (antes do verbo) como enclítico (frente ao verbo). Na alternativa, a
+questão está correta, pois está enclítico.
+Gabarito: letra E.
+
+
+7.        (CGE-CE–Conhec. Básicos – 2019)
+E no meio daquele povo todo sempre se encontrava uma alma boa como a de sua mãe, uma
+moça bonita, um amigo animado. Candeia era morta.
+O vocábulo “se”
+A) poderia ser suprimido, sem alteração dos sentidos do texto.
+B) encontra-se em próclise devido à presença do advérbio “sempre”.
+C) indetermina o sujeito da forma verbal “encontrava”.
+D) retoma a palavra “povo” (L.10).
+E) indica reciprocidade.
+Comentários:
+Em “sempre se encontrava” temos o pronome antes do verbo sendo atraído pelo advérbio de
+tempo “sempre”, temos caso de próclise obrigatória. A propósito da sintaxe, esse “SE” é
+apassivador: sempre era encontrada uma alma boa. Gabarito letra B.
+
+
+8.        (UNIRIO/Assistente em Administração/2019)
+Considere a frase: “Com preguiça, o sol começava a esconder-se atrás dos edifícios”.
+A reescritura que obedece à norma-padrão quanto à colocação pronominal é a seguinte:
+A) Atrás dos edifícios, com preguiça, o sol tinha escondido-se.
+B) O sol se a esconder começou com preguiça atrás dos edifícios.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                         36
+           www.estrategiaconcursos.com.br                                                  54
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+C) Começaria o sol se a esconder atrás dos edifícios com preguiça.
+D) Se começava o sol, com preguiça, a esconder atrás dos edifícios.
+E) Com preguiça, começava o sol a se esconder atrás dos edifícios.
+Comentários:
+A) É proibido o uso do pronome após verbos no particípio "escondido". A forma adequada é "o
+sol tinha SE escondido" (próclise). Incorreta.
+B) Basicamente, existem três possibilidades no que se refere à colocação pronominal, sendo elas:
+próclise (pronome ANTES do verbo), mesóclise (pronome no MEIO do verbo) e ênclise (pronome
+DEPOIS do verbo). Entretanto, aqui temos o pronome antes da preposição "a" e não se
+relacionando diretamente com o verbo "esconder". Incorreta.
+C) Exatamente o mesmo caso do item B, ou seja, não devemos colocar o pronome antes da
+preposição "a". Incorreta.
+D) É proibido iniciar a oração com pronome oblíquo átono . Incorreta.
+E) Com verbos no infinitivo "esconder", é livre a posição do pronome, antes ou depois do verbo
+(a SE esconder ou a esconder-SE). Alternativa correta. Gabarito letra E.
+
+
+9.        (UNIRIO/Assistente em Administração/2019)
+A frase em que a colocação do pronome oblíquo obedece aos ditames da norma-padrão é:
+A) Abri o estojo, cheirando-o por um longo tempo.
+B) Seria-lhe útil ter um notebook de última geração.
+C) Me fascinou reviver o tempo de minha primeira infância.
+D) O que lembrou-lhe o estojo escolar foi o novo notebook.
+E) Conforme abria-o, sentia seu cheiro agradável cada vez mais forte.
+Comentários:
+A) Temos um caso no qual a colocação pronominal está perfeita, pois é proibido posicionar o
+pronome oblíquo átono logo após a vírgula, ou seja, a ÊNCLISE foi usada corretamente
+"cheirando-O". Alternativa correta.
+B) É proibido o uso do pronome após verbos no futuro "seria" e também não podemos usar a
+forma "LHE seria". A forma mais adequada é "seria útil A ELE(A) ter...". Incorreta.
+C) É proibido iniciar oração com pronome oblíquo átono. A forma adequada é "fascinou-ME".
+Incorreta.
+D) O "que" é um pronome relativo cuja função é retomar o pronome demonstrativo "o" (O que
+= AQUILO que), ou seja, o pronome relativo é uma clássica palavra atrativa e a forma adequada
+é "o que LHE lembrou". Incorreta.
+E) A conjunção "conforme" também é uma palavra atrativa, uma vez que as conjunções
+subordinativas são palavras atrativas. A forma adequada é "conforme O abria". Incorreta.
+Gabarito letra A.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           37
+           www.estrategiaconcursos.com.br                                                    54
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+10.    (MÉDICO (PREF AUGUSTO PESTANA/RS) /2019)
+Em relação à colocação do pronome oblíquo átono, marcar C para as sentenças Certas, E para as
+Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:
+( ) Me conta o que ouviste.
+( ) Ninguém me visitou.
+A) E - C.
+B) C - C.
+C) C - E.
+D) E - E.
+Comentários:
+(E) Me conta o que ouviste.
+ERRADO.
+Pessoal, na língua culta não se inicia oração com pronome oblíquo. O correto seria o pronome
+estar enclítico, isto é, depois do verbo → Conta-me o que ouviste.
+(C) Ninguém me visitou.
+CERTA.
+Nesse caso, a colocação pronominal está correta. O pronome indefinido "ninguém" é
+uma palavra atrativa, portanto o pronome "me" é atraído para antes do verbo, ou seja,
+fica proclítico.
+Gabarito: letra A.
+
+
+11.    (AUDITOR DE CONTROLE INTERNO (PREF CHAPECÓ/SC) / 2019)
+Em relação à colocação do pronome oblíquo átono, assinalar a alternativa INCORRETA:
+A) Isso nos deixa confiantes.
+B) Diga-me a verdade.
+C) Não disseram-nos o assunto da reunião.
+D) Nada me faz ir àquela festa.
+Comentários:
+Não disseram-nos o assunto da reunião.
+A ênclise é incorreta neste caso, pois há a presença da partícula atrativa (a palavra "não" atrai o
+pronome) que atrai o pronome. O correto seria: "Não nos disseram o assunto da reunião”.
+Gabarito: letra C.
+
+
+12.    (FISCAL DE PROTEÇÃO AO CONSUMIDOR - SSPC (PREF VALINHOS/SP) / 2019)
+A colocação pronominal está de acordo com a norma-padrão em:
+A) Não importa de onde o torcedor vem, é preciso que aproximemo-lo do seu clube do coração.
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                                38
+         www.estrategiaconcursos.com.br                                                         54
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+B) O torcedor, ao não aproximar-se do clube, é alijado do seu pleno direito de torcida.
+C) Os preços impeditivos assustam os torcedores e geralmente mantêm-nos longe dos estádios.
+D) Iniciativas de redução de preço das entradas são bem-vistas, e mais clubes estão copiando-as.
+E) A entrada com preço reduzido parece ser uma tendência e quem usa-as mais é o torcedor
+mais carente.
+Comentários:
+A - 'Que' é palavra atrativa. O correto seria 'é preciso que o aproximemos'.
+B - 'Não' é palavra atrativa. A banca não considera a possibilidade de ênclise ao verbo no
+infinitivo. Portanto, o correto seria 'ao não o aproximar'.
+C - 'Geralmente' é palavra atrativa (advérbio). O correto seria 'geralmente nos mantêm'.
+D - Não há nada que proíba próclise ou ênclise ('estão copiando-as'). Alternativa correta.
+E - 'Quem' é palavra atrativa. O correto seria 'e quem as usa'.
+Gabarito: letra D.
+
+
+13.    (PREFEITURA MUNICIPAL DE CERQUILHO (SP) / 2019)
+Nos parênteses, encontra-se expressão equivalente ao trecho antecedente sem prejuízo da
+norma-padrão quanto ao emprego e à colocação dos pronomes:
+A) o dono, que comprava brioches (o dono, que comprava-lhes)
+B) todos admiravam a beleza do animal (todos admiravam-a)
+C) murmurou palavras ternas ao pobre bicho (murmurou-lhe palavras ternas)
+D) é uma dádiva que não falem de política (é uma dádiva que não fale-se de política)
+E) o homem ainda mantinha seus gestos (o homem ainda mantinha-os)
+Comentários:
+A - Aqui, há dois erros: trata-se de um caso de próclise por haver pronome relativo antes do
+verbo e, além disso, o pronome LHE só é usado para verbos transitivos indiretos.
+B - Aqui também é possível perceber dois erros: trata-se de um caso de próclise por haver
+pronome indefinido antes do verbo e, mesmo que não houvesse a condição proclítica de atração,
+o correto no caso de ênclise seria admiravam-NA pelo fato do verbo terminar em M.
+C - Pronome oblíquo átono "lhe" foi usado corretamente como objeto indireto do verbo
+"murmurou" (algo a alguém).
+D - Trata de um caso de próclise por haver palavra negativa antes do verbo. O correto seria 'que
+não se fale'.
+E - Trata-se de um caso de próclise, pois há advérbio antes do verbo. O correto seria 'ainda os
+mantinha'.
+Gabarito: letra C.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               39
+        www.estrategiaconcursos.com.br                                                        54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+14.    (CÂMARA MUNICIPAL DE MAUÁ (SP) / 2019)
+Assinale a alternativa em que a colocação dos pronomes atende à norma-padrão da língua
+portuguesa.
+A) Sempre nos iludiram com a ideia de felicidade absoluta.
+B) As pessoas que limitam-se ao consumismo não são felizes.
+C) Embora iludissem-me com aquelas promessas, não acreditei.
+D) Nunca deve-se acreditar na ideia de felicidade constante.
+E) Quem perde-se em ilusões a respeito de felicidade, sofre mais.
+Comentários:
+A - 'Sempre' é advérbio e, portanto, palavra atrativa. A próclise é obrigatória ("Sempre nos...").
+Alternativa correta.
+B - 'Que' é palavra atrativa. O correto seria 'que se limitam'.
+C - 'Embora' é palavra atrativa. O correto seria 'embora me iludissem'.
+D - 'Nunca' é palavra atrativa. O correto seria 'Nunca se deve'.
+E - 'Quem' é palavra atrativa. O correto seria 'Quem se perde'.
+Gabarito: letra A.
+
+
+15.    (PREFEITURA MUNICIPAL DE CERQUILHO (SP) / 2019)
+Em conformidade com a norma-padrão da língua, o trecho equivalente ao destacado em – ... o
+segundo macaco não conseguia alcançar a Lua. –, com a expressão a Lua substituída pelo
+pronome correspondente, é:
+A) conseguia alcançar-la
+B) lhe conseguia alcançar
+C) conseguia-na alcançar
+D) conseguia-lhe alcançar
+E) a conseguia alcançar
+Comentários:
+Observando a oração, notamos a presença da palavra negativa "não", que atrai próclise do
+pronome átono. Note também que o verbo "alcançar", com o sentido de "chegar a", é um verbo
+transitivo direto. Dessa forma, o pronome que substitui corretamente o complemento "a Lua" é
+"a".
+Gabarito: letra E.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 40
+        www.estrategiaconcursos.com.br                                                          54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+                    LISTA DE QUESTÕES - PRONOMES - FGV
+   1. (FGV / DNIT / 2024)
+A coerência de um texto é construída também por meio de retomadas, de tipos variados, de
+outros elementos.
+Assinale a opção em que a retomada do termo sublinhado é feita por meio de um elemento de
+classe gramatical diferente dos demais.
+A) No verão ou no inverno, quem deixa o seu lugar, perde-o.
+B) Poucos prazeres há aos quais o homem possa entregar-se tão inocentemente como o de
+ganhar dinheiro.
+C) Mas é bonito ver o que o dinheiro é capaz de fazer.
+D) Um contrato verbal não vale o papel no qual está escrito.
+E) No fundo das gavetas encontram-se segredos importantes de família e aí também nos
+deparamos com fotos antigas.
+
+
+   2. (FGV / TJ-RN / 2023)
+Um livro intitulado A Língua Portuguesa e o Modernismo traz algumas modificações ocorridas na
+norma culta de nossa língua na época moderna; a opção abaixo que mostra uma dessas
+modificações seguida de um exemplo que a comprove, de forma adequada, é:
+A) uso do pronome “ele/ela” como objeto direto, em lugar de “o/a”: “Nós vimos que ele não
+chegaria a tempo”;
+B) uso do pronome “mim” em lugar de “eu”: “Para mim, trabalhar lá deve ser um sacrifício”;
+C) emprego de pronome oblíquo solto entre dois verbos: “Ele foi se pentear no espelho do
+banheiro”;
+D) utilização do verbo “ter” em lugar de “haver”: “Ele não tinha mais o que fazer no trabalho”;
+E) uso da forma “lhe” em lugar de “o/a”: “Eu lhe entreguei os livros prometidos”.
+
+
+   3. (FGV / BANESTES / 2023)
+Em todas as frases abaixo há um termo sublinhado que serve de elemento de coesão com um
+termo anterior.
+Assinale a frase em que esse antecedente está corretamente identificado.
+A) Não é filósofo quem sabe onde está o tesouro, mas quem trabalha e o desenterra / onde.
+B) A personalidade do homem determina antecipadamente o grau de sua fortuna /
+personalidade.
+C) Pode-se dar os primeiros impulsos nos negócios; depois eles mesmos nos arrastam / impulsos.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   41
+        www.estrategiaconcursos.com.br                                                            54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+D) Quem compra e mente em seu bolso sente / quem.
+E) As cadeias de ouro são mais fortes que as de ferro / fortes.
+
+
+   4. (FGV / MPE-SP / 2023)
+As frases abaixo mostram exemplos de demonstrativos; assinale a frase em que o emprego desse
+demonstrativo está correto.
+A) O melhor sinal de ser bom é este: não temer nem dever, e o maior da maldade é não temer
+nem pagar.
+B) Não se envolva com seu chefe. Se acontecer, não conte aquilo a pessoa alguma.
+C) Nesta terra em que você está não há segurança, apenas oportunidades.
+D) No mundo existem aqueles que choram e esses que vendem lenços.
+E) Não é ignorante este que faz tolice, e sim esse que, feita, não a sabe encobrir.
+
+   5. (FGV – Assistente de Controle Externo - TCE-TO / 2022)
+Os pronomes demonstrativos mostram empregos bem definidos em língua portuguesa; a opção
+abaixo em que o emprego do demonstrativo está adequado, é:
+A) Esta é a verdade: ninguém é totalmente honesto;
+B) José e Maria vieram à festa: este, de ônibus, aquele, de táxi;
+C) Este cigarro que você está fumando, faz mal à sua saúde;
+D) Os tempos atuais são diferentes destes tempos de outrora;
+E) Aquela sala que você vê na foto é bastante ampla.
+
+
+   6. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Observe as frases a seguir.
+Comprei calças de lã na Europa.
+O preço das calças foi baixo.
+A forma adequada de juntar essas duas frases numa só, de modo a evitar a repetição da palavra
+"calças", é:
+A) Comprei calças de lã na Europa, que o preço foi baixo;
+B) Comprei calças de lã na Europa, onde o preço foi baixo;
+C) Comprei calças de lã na Europa, cujo preço foi baixo;
+D) Comprei calças de lã na Europa em que o preço foi baixo;
+E) Comprei calças de lã na Europa em onde o preço foi baixo.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            42
+        www.estrategiaconcursos.com.br                                                     54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+   7. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+Também pode evitar-se a repetição de palavras idênticas, substituindo a segunda ocorrência do
+vocábulo por um pronome demonstrativo; a frase abaixo em que isso foi feito de forma
+adequada é:
+A) Amazonas e Sergipe são estados brasileiros; este tem enorme território e aquele, pequeno;
+B) Meu carro é mais elegante que esse que você está comprando;
+C) Teu jornal abordou o tema de forma interessante, mas aquele, em minhas mãos, é mais justo;
+D) Brasil e Rússia jogaram várias vezes, mas aqueles jogos nunca foram violentos;
+E) O terremoto de Lisboa foi violentíssimo, mas aquele de agora matou mais gente.
+
+
+   8. (FGV / TJ-RS / OFICIAL DE JUSTIÇA / 2020)
+                                                         ==219a34==
+
+Uma outra estratégia para evitar-se a repetição de palavras consiste na substituição da segunda
+ocorrência da palavra por um pronome pessoal.
+A frase em que isso foi feito de forma adequada é:
+A) Os meninos procederam mal, por isso lhes condenaram;
+B) Comprei o livro ontem, mas vou revendê-lo;
+C) Os chefes deram as ordens, por isso os obedeci;
+D) João estava na festa, mas não no viram sair;
+E) As meninas estavam no shopping, mas não encontrei-las.
+
+
+   9. (FGV / DPE-RJ / TÉCNICO SUPERIOR JURÍDICO / 2019)
+Texto 2
+“Nós conhecemos você tanto quanto você nos conhece.
+E não há nada melhor que isso: confiança.
+O que nos move é você. Seu jeito de ser, o que valoriza.
+Faz sentido pra você, faz sentido pra gente.
+A gente veste a sua camisa”.
+Esse texto está fixado na parede de uma loja de roupas masculinas e funciona como um texto
+publicitário da loja.
+Sobre a estruturação geral do texto 2, a afirmação INADEQUADA é:
+A) os pronomes “Nós” e “você” (linha 1) se referem, respectivamente, à loja e ao cliente
+potencial;
+B) na linha 2, o pronome “isso” deveria ser substituído por “isto”;
+C) o vocábulo “confiança” mostra a referência do pronome “isso”;
+D) a frase final do texto mostra ambiguidade intencional;
+E) a expressão “a gente” equivale perfeitamente ao pronome “nós”.
+
+
+          Receita Federal (Analista Tributário) Língua Portuguesa                              43
+          www.estrategiaconcursos.com.br                                                       54
+
+                                       
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+   10. (FGV / PREF. ANGRA DOS REIS-RJ / INSPETOR / 2019)
+“Quanto menos tempo tenho para praticar as coisas, menos curiosidade sinto de aprendê-las.”
+Nessa frase, o pronome -las
+A) retoma o termo “coisas”.
+B) enfatiza com redundância um termo anterior.
+C) destaca o termo mais importante da frase.
+D) antecipa um termo a ser citado.
+E) refere-se ao vocábulo “curiosidade” para dar coesão.
+
+
+   11. (FGV / AL-RO / ADVOGADO / 2018)
+“No primeiro semestre deste ano, 80 mil alunos deixaram de ingressar em faculdades particulares
+de todo o país...”
+Assinale a opção em que o emprego do pronome demonstrativo sublinhado tem o mesmo valor
+do apresentado no segmento inicial.
+A) Muitos alunos deixaram de matricular-se em 2018; este dado se torna preocupante.
+B) Esta semana o Globo publicou uma notícia preocupante sobre as matrículas em universidades
+privadas.
+C) Rio, Minas Gerais e Espírito Santo são estados onde houve redução do número de matrículas e
+neste último estado a situação/o é mais grave.
+D) Neste texto da prova, o jornal mostra preocupação com a redução de calouros nas
+universidades privadas.
+E) Na terceira semana de julho o jornal publicou uma notícia sobre matrículas universitárias; neste
+momento a preocupação era grande com a redução do número de calouros".
+
+
+   12. (FGV / CÂMARA DE SALVADOR-BA / ANALISTA LEGISLATIVO / 2018)
+                                                      Texto 2
+                                           Intercâmbio de alimentos
+A chegada dos europeus à América foi o começo de uma das transformações mais
+revolucionárias nos hábitos alimentares dos seres humanos.
+Nos primeiros anos da conquista, os espanhóis resistiram a comer produtos nativos americanos,
+por isso trouxeram consigo plantas e animais de sua terra natal. Todavia, os espanhóis enviavam à
+Europa todos os alimentos exóticos que os nativos lhes ofereciam para, de alguma forma,
+apaziguar a Coroa pelas dificuldades que tinham de encontrar os tão desejados metais preciosos.
+Progressivamente, por meio dessa troca entre América e Europa, a flora e a fauna de ambos os
+continentes foram modificadas, pois diversas plantas e animais adaptaram-se aos novos climas.
+Com isso, a dieta dos habitantes das duas regiões foi enriquecida.
+                     Renato Mocelline/Rosiane de Camargo, História em debate. São Paulo: Editora do Brasil, p. 72.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                44
+        www.estrategiaconcursos.com.br                                                                         54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+Observe os três segmentos abaixo, retirados do texto 2.
+“por isso trouxeram consigo plantas e animais de sua terra natal”
+“Progressivamente, por meio dessa troca entre América e Europa...”
+“Com isso, a dieta dos habitantes das duas regiões foi enriquecida”.
+Nessas ocorrências, os pronomes demonstrativos empregados:
+A) têm sempre por antecedente uma oração;
+B) referem-se sempre a termos imediatamente anteriores;
+C) mostram sempre referências a um de dois termos citados;
+D) prendem-se sempre a elementos distantes no tempo;
+E) ligam-se semanticamente a elementos já citados.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa           45
+        www.estrategiaconcursos.com.br                                    54
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 03
+
+                                               GABARITO
+                                                   1. LETRA E
+                                                   2. LETRA C
+                                                   3. LETRA D
+                                                   4. LETRA A
+                                                   5. LETRA A
+                                                   6. LETRA C
+                                                   7. LETRA B
+                                                   8. LETRA B
+                                                   9. LETRA E
+                                                   10. LETRA A
+                                                   11. LETRA B
+                                                   12. LETRA E
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           46
+      www.estrategiaconcursos.com.br                                    54
+
+                                   
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+          LISTA DE QUESTÕES - COLOCAÇÃO PRONOMINAL - FGV
+1.        (FGV / Câmara dos Deputados / 2023)
+
+Quanto à colocação do pronome pessoal oblíquo, assinale a frase incorreta.
+
+A) Espero não perturbá-lo com essa interrupção.
+
+B) Que a terra lhe seja leve.
+
+C) Ao sentirem-no pulsar, choraram de emoção.
+
+D) As compras, me disse ela, só chegaram à tarde.
+
+E) Convém que cumpra-se a lei.
+
+
+2.   (GESTOR DE SANEAMENTO ENGENHARIA CIVIL - SEMAE SÃO JOSÉ DO RIO
+PRETO-SP / 2020)
+Leia um trecho do romance “A Madona de Cedro”, de Antonio
+Callado, para responder à questão.
+No primeiro dia no Rio de Janeiro, Delfino Montiel quase se afogou. Ele tinha aprendido a nadar
+menino ainda no rio das Velhas, na fazenda de seu tio Dilermando. Mas a corrente dos rios é
+honesta e determinada, vai reta e sempre se disciplina pelas margens. O mar... Ora, quem vai
+entender o mar? Delfino largou-se para o mar no mesmo dia em que chegara ao Rio. Atravessou
+a areia e foi entrando no mar numa espécie de exaltação. Queria chorar com aquela frescura de
+água azul, queria abraçar e beijar o mar. A primeira onda que lhe veio ao encontro, Delfino a
+recebeu de braços abertos. Ela o derrubou numa cascata de areia e espuma. Ele bebeu água,
+muita, mas estava embriagado de mar.
+Só quando já se achava sentado na areia, arquejante, entre uma súcia de curiosos, é que Delfino
+compreendeu que quase tinha morrido afogado. Um dos que o havia salvo era um rapagão
+simpático que lhe perguntou:
+– Você donde é que veio, patrício, de Cabrobó¹ ou Caixa Prego² ?
+– De Congonhas do Campo, respondeu Delfino ingenuamente.
+Muita gente riu em torno dele.
+– Pois, se você ainda quer rever Congonhas, trate o mar com mais desconfiança.
+Enquanto o rapaz se afastava, Delfino notou principalmente o riso de uma menina de cabelos cor
+de mel. Ele a notou porque a menina não queria exatamente rir, com pena dele que estava, mas
+sua companheira ria tão à vontade que ela não podia deixar de acompanhá-la.
+Com os olhos fitos nela, Delfino a foi acompanhando com a vista enquanto a menina entrava no
+mar. Viu logo que era uma amiga íntima do mar. Viu-a furar uma primeira onda, ligeira e exata
+como uma agulha mergulhando na dobra azul de um pano. Quando ela se levantou do
+mergulho, o cabelo cor de mel estava preto e grudado ao pescoço, preto-esverdeado, como se
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                          47
+           www.estrategiaconcursos.com.br                                                   54
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+ela tivesse voltado mais marinha do fundo do mar.
+(Record/Altaya. Adaptado)
+
+¹Cabrobó é uma cidade pernambucana no sertão do São Francisco.
+²Caixa Prego significa lugar muito distante, longínquo.
+
+A colocação do pronome no trecho original do texto pode ser alterada, seguindo a
+norma-padrão, como indicado na alternativa:
+A) ... é honesta e determinada, vai reta e sempre disciplina-se pelas margens.
+B) A primeira onda que veio-lhe ao encontro, Delfino recebeu-a de braços abertos.
+C) Só quando já achava-se sentado na areia, arquejante...
+D) Um dos que havia salvo-o era um rapagão simpático...
+E) Com os olhos fitos nela, Delfino foi acompanhando-a com a vista…
+
+
+3.        (TÉCNICO EM GESTÃO ASSISTÊNCIA ADMINISTRATIVA (FITO SP) / 2020)
+É só sair da estação Osasco da CPTM para chegar ao principal polo varejista de rua do Estado de
+São Paulo – descontada a 25 de Março, claro.
+Os quatro quarteirões fechados para carros que compõem o calçadão da rua Antônio Agú, em
+Osasco, concentram 250 lojas e recebem 350 mil pessoas por dia.
+ Preços competitivos, fácil acesso e alternativa ao trânsito de São Paulo são chamarizes para
+consumidores locais, de cidades vizinhas (Barueri, Itapevi e Cotia) e de bairros da zona oeste
+paulistana (Butantã e Jaguaré).
+ A locutora Sonia De Piere, 53, é uma paulistana que prefere comprar em Osasco a enfrentar o
+trânsito em direção ao centro de São Paulo. “O estacionamento é mais barato, os preços são
+bons, e os supermercados distribuem sacolinha plástica”, resume.
+ De acordo com a Associação Comercial e Empresarial de Osasco, na época do Natal, o lugar
+recebe 1,5 milhão de consumidores/dia. “A posição geográfica ajuda. Osasco era bairro de São
+Paulo, e isso colaborou para que o comércio crescesse de maneira vertiginosa”, diz André
+Menezes, presidente da entidade.
+Ao longo do caminho, uma série de lojas lado a lado supre demandas que vão de flores a
+eletrônicos. Há produtos naturais a granel, moda, bijuterias e utensílios para casa, entre outros
+itens.
+Mas o forte são os calçados. “A cidade é um dos berços da comunidade armênia, que domina
+esse mercado”, explica Menezes.
+(Amanda Nogueira. Calçadão de Osasco só perde para a 25 de Março em número de lojas. http://especial.folha.uol.com.br, 13.03.2016.
+Adaptado)
+
+Assinale a alternativa em que o termo entre parênteses substitui corretamente a expressão.
+A) chegar ao principal polo varejista de rua (chegá-lo)
+B) recebem 350 mil pessoas (recebem-as)
+C) prefere comprar em Osasco (prefere comprar-lhe)
+D) distribuem sacolinha plástica (distribuem-na)
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                                             48
+           www.estrategiaconcursos.com.br                                                                                      54
+
+                                               
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+E) supre demandas (supre-lhes)
+
+
+4.        (TÉCNICO EM GESTÃO ASSISTÊNCIA ADMINISTRATIVA (FITO SP) / 2020)
+Encontra-se em conformidade com a norma-padrão da língua quanto à colocação dos pronomes
+a seguinte frase:
+A) … uma dádiva dos deuses que, infelizmente, não encontramos-a por aqui.
+B) … o suco abundante escorre pelo queixo e o doce naturalmente mescla-se ao sal em sua
+língua.
+C) … manipulando suas características até que transformaram-nos nesse tímido vegetal…
+D) Me dou conta de que há questões mais urgentes a serem tratadas em nosso país…
+E) A vida é curta, meus caros, e não podemos medir esforços para a deixar mais doce…
+
+
+5.        (AGENTE ADMINISTRATIVO (VALIPREV SP) / 2020)
+Assinale a alternativa que reescreve a passagem – Hoje, convém poupar primeiro para a
+indenização que eles nos vão pedir. – de acordo com a norma-padrão de emprego dos verbos e
+colocação pronominal.
+A) Futuramente, até convinha-nos poupar primeiro para a indenização que eles irão nos pedir.
+B) Antigamente, sempre nos conviera poupar primeiro para a indenização que eles nos irão pedir.
+C) Antigamente, talvez nos conviesse poupar primeiro para a indenização que eles iam nos pedir.
+D) Antigamente, por certo conveio-nos poupar primeiro para a indenização que eles irão nos
+pedir.
+E) Futuramente, é possível que convirá-nos poupar primeiro para a indenização que eles iam
+pedir-nos.
+
+
+6.    (ANALISTA EM GESTÃO MUNICIPAL - DIREITO (PREF SÃO JOSÉ DOS CAMPOS-SP /
+2020)
+Encontra-se em conformidade com a norma-padrão da língua, quanto à colocação dos
+pronomes, a seguinte frase:
+A) … o educador que levaria-nos até aquele emaranhado de endereços desencontrados…
+B) Se passou muito tempo, talvez quase uma hora de silêncios entre nós…
+C) Mas ainda não olhava-me.
+D) Frequentemente deparei-me com essa fome…
+E) O menino leu-me muito antes de eu a ele…
+
+
+7.        (CGE-CE–Conhec. Básicos – 2019)
+E no meio daquele povo todo sempre se encontrava uma alma boa como a de sua mãe, uma
+moça bonita, um amigo animado. Candeia era morta.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             49
+           www.estrategiaconcursos.com.br                                                      54
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 03
+
+O vocábulo “se”
+a) poderia ser suprimido, sem alteração dos sentidos do texto.
+b) encontra-se em próclise devido à presença do advérbio “sempre”.
+c) indetermina o sujeito da forma verbal “encontrava”.
+d) retoma a palavra “povo” (L.10).
+e) indica reciprocidade.
+
+
+8.        (UNIRIO/Assistente em Administração/2019)
+Considere a frase: “Com preguiça, o sol começava a esconder-se atrás dos edifícios”.
+A reescritura que obedece à norma-padrão quanto à colocação pronominal é a seguinte:
+A) Atrás dos edifícios, com preguiça, o sol tinha escondido-se.
+B) O sol se a esconder começou com preguiça atrás dos edifícios.
+C) Começaria o sol se a esconder atrás dos edifícios com preguiça.
+D) Se começava o sol, com preguiça, a esconder atrás dos edifícios.
+E) Com preguiça, começava o sol a se esconder atrás dos edifícios.
+
+
+9.        (UNIRIO/Assistente em Administração/2019)
+A frase em que a colocação do pronome oblíquo obedece aos ditames da norma-padrão é:
+A) Abri o estojo, cheirando-o por um longo tempo.
+B) Seria-lhe útil ter um notebook de última geração.
+C) Me fascinou reviver o tempo de minha primeira infância.
+D) O que lembrou-lhe o estojo escolar foi o novo notebook.
+E) Conforme abria-o, sentia seu cheiro agradável cada vez mais forte.
+
+
+10.       (MÉDICO (PREF AUGUSTO PESTANA/RS) /2019)
+Em relação à colocação do pronome oblíquo átono, marcar C para as sentenças Certas, E para as
+Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:
+( ) Me conta o que ouviste.
+( ) Ninguém me visitou.
+A) E - C.
+B) C - C.
+C) C - E.
+D) E - E.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                         50
+           www.estrategiaconcursos.com.br                                                  54
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+11.    (AUDITOR DE CONTROLE INTERNO (PREF CHAPECÓ/SC) / 2019)
+Em relação à colocação do pronome oblíquo átono, assinalar a alternativa INCORRETA:
+A) Isso nos deixa confiantes.
+B) Diga-me a verdade.
+C) Não disseram-nos o assunto da reunião.
+D) Nada me faz ir àquela festa.
+
+
+12.    (FISCAL DE PROTEÇÃO AO CONSUMIDOR - SSPC (PREF VALINHOS/SP) / 2019)
+A colocação pronominal está de acordo com a norma-padrão em:
+A) Não importa de onde o torcedor vem, é preciso que aproximemo-lo do seu clube do coração.
+B) O torcedor, ao não aproximar-se do clube, é alijado do seu pleno direito de torcida.
+C) Os preços impeditivos assustam os torcedores e geralmente mantêm-nos longe dos estádios.
+D) Iniciativas de redução de preço das entradas são bem-vistas, e mais clubes estão copiando-as.
+E) A entrada com preço reduzido parece ser uma tendência e quem usa-as mais é o torcedor
+mais carente.
+
+
+13.    (PREFEITURA MUNICIPAL DE CERQUILHO (SP) / 2019)
+Nos parênteses, encontra-se expressão equivalente ao trecho antecedente sem prejuízo da
+norma-padrão quanto ao emprego e à colocação dos pronomes:
+A) o dono, que comprava brioches (o dono, que comprava-lhes)
+B) todos admiravam a beleza do animal (todos admiravam-a)
+C) murmurou palavras ternas ao pobre bicho (murmurou-lhe palavras ternas)
+D) é uma dádiva que não falem de política (é uma dádiva que não fale-se de política)
+E) o homem ainda mantinha seus gestos (o homem ainda mantinha-os)
+
+
+14.    (CÂMARA MUNICIPAL DE MAUÁ (SP) / 2019)
+Assinale a alternativa em que a colocação dos pronomes atende à norma-padrão da língua
+portuguesa.
+A) Sempre nos iludiram com a ideia de felicidade absoluta.
+B) As pessoas que limitam-se ao consumismo não são felizes.
+C) Embora iludissem-me com aquelas promessas, não acreditei.
+D) Nunca deve-se acreditar na ideia de felicidade constante.
+E) Quem perde-se em ilusões a respeito de felicidade, sofre mais.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               51
+        www.estrategiaconcursos.com.br                                                        54
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 03
+
+15.    (PREFEITURA MUNICIPAL DE CERQUILHO (SP) / 2019)
+Em conformidade com a norma-padrão da língua, o trecho equivalente ao destacado em – ... o
+segundo macaco não conseguia alcançar a Lua. –, com a expressão a Lua substituída pelo
+pronome correspondente, é:
+A) conseguia alcançar-la
+B) lhe conseguia alcançar
+C) conseguia-na alcançar
+D) conseguia-lhe alcançar
+E) a conseguia alcançar
+
+                                                       ==219a34==
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                         52
+        www.estrategiaconcursos.com.br                                                  54
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 03
+
+                                               GABARITO
+                                                   1. LETRA E
+                                                   2. LETRA E
+                                                   3. LETRA D
+                                                   4. LETRA E
+                                                   5. LETRA C
+                                                   6. LETRA E
+                                                   7. LETRA B
+                                                   8. LETRA E
+                                                   9. LETRA A
+                                                   10. LETRA A
+                                                   11. LETRA C
+                                                   12. LETRA D
+                                                   13. LETRA C
+                                                   14. LETRA A
+                                                   15. LETRA E
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           53
+      www.estrategiaconcursos.com.br                                    54
+
+                                   
+
+
+---
+
+---

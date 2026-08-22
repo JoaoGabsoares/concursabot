@@ -1,0 +1,86 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 05_006_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: ESCRITURAÇÃO
+---
+
+# ESCRITURAÇÃO
+
+ESCRITURAÇÃO
+
+
+                                      Prof. Gilmar Possati
+
+ 
+
+
+---
+
+(FGV/PC-RN/2021)
+Em 01/07/2020, a Cia. Alfa contratou um seguro para a sua frota de veículos, com cobertura de
+um ano a partir da contratação, no valor de R$ 90.000,00, que foram pagos à vista na assinatura
+do contrato.
+No registro dessa transação, o lançamento a débito será em uma conta de:
+a) ajustes patrimoniais;
+b) ativo;
+c) despesa;
+d) passivo;
+e) perda.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-RN/2021)
+O contador de uma empresa registrou diretamente em uma conta de resultado (despesa) a
+aquisição de material de expediente para estoque, que só deveria ser baixado como despesa
+quando requisitado.
+Para efetuar a retificação do lançamento contábil, deve-se realizar um(a):
+a) compensação;
+b) complementação;
+c) estorno total;
+d) estorno parcial;
+e) transferência.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TJ-PI/2015)
+Com relação à escrituração contábil de uma entidade, analise as afirmativas abaixo:
+I - O registro contábil deve conter o número de identificação do lançamento em ordem
+sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta,
+em elementos que comprovem ou evidenciem fatos contábeis.
+II - Lançamento de complementação é aquele que promove a regularização de conta
+indevidamente debitada ou creditada, por meio da transposição do registro para a conta
+adequada.
+III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas
+uma conta a crédito.
+Está correto o que se afirma em:
+a) somente I.
+b) somente I e II;
+c) somente I e III;
+d) somente II e III;
+e) I, II e III;
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---

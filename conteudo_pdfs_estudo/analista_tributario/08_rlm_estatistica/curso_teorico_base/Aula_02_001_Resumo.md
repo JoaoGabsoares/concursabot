@@ -1,0 +1,96 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 02_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '02'
+titulo_aula: RESUMO DE RACIOCÍNIO LÓGICO
+---
+
+# RESUMO DE RACIOCÍNIO LÓGICO
+
+RESUMO DE RACIOCÍNIO LÓGICO
+
+Equivalências Lógicas
+
+  ● Duas proposições A e B são equivalentes quando todos os valores lógicos (V ou
+
+    F) assumidos por elas são iguais para todas as combinações de valores lógicos
+
+    atribuídos às proposições simples que as compõem.
+
+  ● Equivalências Fundamentais:
+
+  ● Equivalências provenientes da negação de proposições:
+
+
+       ○ Dupla negação da proposição simples:
+
+       ○ Negação da conjunção e da disjunção inclusiva (leis de De Morgan):
+
+                         
+
+
+---
+
+Para negar "e": negar ambas as proposições e trocar o conectivo por "ou".
+
+Para negar "ou": negar ambas as proposições e trocar o conectivo por "e".
+
+        ○ Negação da condicional:
+
+        ○ Negação da disjunção exclusiva:
+
+        ○ Negação da bicondicional:
+
+  ● Outras equivalências:
+
+
+        ○ Equivalência do conectivo bicondicional
+
+                            
+
+
+---
+
+        ○ Negação da conjunção para a forma condicional
+
+        ○ Conjunção de condicionais
+
+
+Quando o termo comum é o consequente, a equivalência apresenta uma disjunção
+
+inclusiva no antecedente.
+
+Quando o termo comum é o antecedente, a equivalência apresenta uma conjunção
+
+no consequente.
+
+Introdução à álgebra de proposições
+
+  ● Propriedade comutativa:
+
+Todos os conectivos, exceto o condicional "se...então", apresentam propriedade
+
+comutativa.
+
+                            
+
+
+---
+
+● Propriedade associativa:
+
+● Propriedade distributiva:
+
+                        
+
+
+---

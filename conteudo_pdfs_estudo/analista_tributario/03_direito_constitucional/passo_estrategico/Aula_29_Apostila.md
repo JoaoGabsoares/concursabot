@@ -1,0 +1,2232 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 29_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '29'
+titulo_aula: Passo Estratégico de Direito
+artigos_citados:
+- art. 102.
+- art. 103-A.
+- art. 103.
+- art. 11
+- art. 21
+- art. 34
+- art. 36.
+- art. 7º
+sumulas_citadas:
+- Súmula 637
+- Súmula 640
+- Súmula Vinculante 10
+- súmula 347
+---
+
+# Passo Estratégico de Direito
+
+Aula 26
+                          Receita Federal (Analista Tributário)
+                                     Passo Estratégico de Direito
+                                                   Constitucional
+
+                                                           Autor:
+                                                    Tulio Lages
+
+                                             23 de Outubro de 2025
+
+---
+
+      Tulio Lages
+      Aula 26
+
+                                                                                     Índice
+1) O que é mais cobrado no assunto - Controle de Constitucionalidade - FGV
+
+
+2) Roteiro de Revisão - Controle de Constitucionalidade
+
+
+3) Aposta Estratégica - Controle de Constitucionalidade - ADI
+
+
+4) Questões Estratégicas - Controle de Constitucionalidade - FGV - Único
+
+
+5) Questionário de Revisão - Controle de Constitucionalidade
+
+
+6) Referências Bibliográficas
+
+                Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           46
+
+                                                             
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+            O QUE É MAIS COBRADO DENTRO DO ASSUNTO?
+A análise refere-se ao período de 2020 a 2025, abrangendo provas realizadas pela banca FGV.
+
+Considerando os tópicos que compõem o nosso assunto, possuímos a seguinte distribuição percentual:
+
+                                                                                            % de cobrança
+                                      Tópico
+                                                                                                FGV
+     Introdução, pressupostos e tipos de inconstitucionalidade                                 11,38%
+ Controle de Constitucionalidade no mundo e histórico do Controle
+                                                                                                0,81%
+                    de Constitucionalidade no Brasil
+   Formas de Controle: Sistemas, Momentos, Modelos e Vias de
+                                                                                               15,45%
+                               Controle
+           Controle Difuso (incidental ou incidenter tantum)                                   13,82%
+                              Ação Direta de Inconstitucionalidade –
+                                                        ==219a34==
+
+                                                                                               18,70%
+                                                ADI
+                               Ação Direta de Inconstitucionalidade
+                                                                                                0,81%
+                                  por omissão (ADI por omissão)
+                                       Ação Declaratória de
+                                                                                                8,94%
+  Controle Concentrado              Constitucionalidade – ADC
+         (abstrato)              Arguição de descumprimento de
+                                                                                               24,39%
+                                   preceito fundamental – ADPF
+                              Controle de Constitucionalidade pelos
+                                                                                                0,81%
+                                 Tribunais de Justiça dos Estados
+                               Ação Direta de Inconstitucionalidade
+                                                                                                4,88%
+                                            Interventiva
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                   3
+        www.estrategiaconcursos.com.br                                                                      46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+           ROTEIRO DE REVISÃO E PONTOS DO ASSUNTO QUE
+                                         MERECEM DESTAQUE
+
+A ideia desta seção é apresentar um roteiro para que você realize uma revisão completa do assunto e, ao mesmo
+tempo, destacar aspectos do conteúdo que merecem atenção.
+
+Ler a CF, arts. 52, X, 93, XI, 97, 102, inciso III e § 3º, 103, 103-A, os arts. 1º a 28 da Lei
+9.868/1999, bem como a Lei 9.882/1999 na íntegra, observando os pontos a seguir, aos quais
+deve ser dada ênfase em seu estudo:
+
+
+Aspectos iniciais
+
+- Princípio da supremacia da Constituição: todas as normas do ordenamento jurídico devem
+guardar compatibilidade vertical com a Carta Magna. Assim, o controle de constitucionalidade
+busca aferir a validade das normas face à Constituição, garantindo a força normativa e a
+efetividade do texto constitucional.
+- Teoria da nulidade: a lei declarada inconstitucional é nula desde o seu nascimento (diz-se que a
+lei já “nasceu morta”) e opera efeitos retroativos (efeitos “ex tunc”, o que não impede o STF de
+poder modular os efeitos da decisão por razões de segurança jurídica ou de excepcional
+interesse social).
+- Pressupostos do controle de constitucionalidade: a) Constituição escrita e rígida; e b)
+mecanismo de fiscalização das leis, com previsão de órgão com competência para o exercício do
+controle.
+- Matéria interna corporis no âmbito do Poder Legislativo: o STF entende que, em respeito ao
+princípio da separação dos poderes, “quando não caracterizado o desrespeito às normas
+constitucionais pertinentes ao processo legislativo, é defeso [ou seja, proibido] ao Poder
+Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de
+normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna
+corporis”1.
+
+
+Espécies de inconstitucionalidade
+
+Por ação x por omissão
+
+Por ação: a afronta à Constituição ocorre a partir de uma conduta positiva de um órgão estatal.
+
+1
+    STF – RE 1.297.884/DF
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               4
+           www.estrategiaconcursos.com.br                                                                 46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Por omissão: a afronta à Constituição decorre da inércia do legislador em regulamentar um
+dispositivo constitucional dependente de regulamentação.
+
+Material x formal x vício de decoro
+
+Material ou nomoestática - ocorre quando:
+
+  a) o conteúdo da lei contraria a CF, mesmo que tenham sido respeitadas as regras do
+  processo legislativo em sua elaboração; ou
+
+  b) há excesso do poder legislativo, que ocorre quando a lei não é compatível com os fins
+  constitucionalmente previstos ou quando há violação ao princípio da proporcionalidade.
+
+Formal ou nomodinâmica: caracteriza-se pelo desrespeito ao processo de elaboração da norma.
+Poderá ser de três tipos: i) orgânica (inobservância da competência legislativa); ii) formal
+propriamente dita (inobservância do processo legislativo) ou; iii) formal por violação a
+pressupostos objetivos do ato normativo (inobservância de pressupostos essenciais, por
+exemplo: urgência e relevância para medida provisória).
+
+Vício de decoro: vício na formação da vontade do parlamentar, que votou em determinado
+sentido em troca do recebimento de propina (tese foi desenvolvida em razão do esquema de
+compra de votos apurado pelo STF na Ação Penal nº 470, que tratou do “Mensalão”).
+
+Total x parcial
+
+Total: a totalidade do ato é inconstitucional.
+
+Parcial: apenas parte do ato é considerada inconstitucional. Pode recair sobre palavra ou
+expressão isoladas, mas isso não poderá subverter por completo o sentido da norma.
+
+Direta x indireta
+
+Direta: quando um ato normativo primário viola a Constituição.
+
+Indireta ou reflexa: quando um ato normativo secundário viola a Constituição.
+
+Originária x superveniente
+
+Originária: quando a norma-parâmetro é anterior à impugnada.
+
+Superveniente: quando a norma-parâmetro é posterior à impugnada (o STF considera que não
+existe inconstitucionalidade superveniente, tratando-se de caso de não recepção).
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   5
+        www.estrategiaconcursos.com.br                                                      46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+Sistemas de Controle de Constitucionalidade
+
+Sistema de controle judicial: o Poder Judiciário é o competente para declarar a
+inconstitucionalidade das leis.
+
+Sistema de controle político: controle é realizado por um órgão político, sem natureza
+jurisdicional.
+
+Sistema de controle misto: a aferição da constitucionalidade de uma parte das normas cabe ao
+Poder Judiciário e, da outra parte, cabe a um órgão político.
+
+
+Momentos de Controle:
+
+- Controle preventivo (a priori): incide sobre norma ainda em fase de elaboração. No Brasil, o
+controle preventivo pode ser de 2 (dois) tipos:
+
+     a) Controle político-preventivo: realizado pelo Poder Legislativo (Comissões de Constituição e
+     Justiça, que analisam as proposições legislativas quanto à sua constitucionalidade) e pelo
+     Poder Executivo (veto presidencial a um projeto de lei em razão de sua inconstitucionalidade
+     – "veto jurídico").
+
+     b) Controle judicial-preventivo: realizado pelo STF, provocado por mandado de segurança
+     impetrado por parlamentar, nas duas situações a seguir: i) projeto de lei que desrespeita o
+     processo legislativo constitucional; ii) PEC que viola cláusula pétrea ou que desrespeita o
+     processo legislativo constitucional.
+
+- Controle repressivo (a posteriori): aferição quanto à constitucionalidade sobre a norma já
+pronta (adotado no Brasil), pode ser de 2 (dois) tipos.
+
+     1. Controle político-repressivo -> ocorre em 3 situações:
+
+        a) Poder Legislativo pode sustar os atos normativos do Executivo que exorbitem do poder
+        regulamentar ou dos limites da delegação legislativa (art. 49, V, CF/88);
+
+        b) Rejeição de MP considerada inconstitucional pelo Congresso (art. 62 da CF/88);
+
+        c) o Chefe do Poder Executivo pode deixar de aplicar uma lei que considere
+        inconstitucional (entendimento do STF)2.
+
+2
+    ADI MC 221/DF, rei. Min. Moreira Alves, 29.03.1990
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     6
+           www.estrategiaconcursos.com.br                                                       46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+  2. Controle judicial-repressivo: caberá aos juízes e Tribunais do Poder Judiciário efetuar o
+  controle de constitucionalidade das normas prontas, já integrantes do ordenamento jurídico.
+
+
+Modelos de Controle
+
+- Controle difuso ou aberto: a competência para o exercício do controle de constitucionalidade é
+de todos os órgãos do judiciários – multiplicidade de órgãos (modelo americano).
+
+- Controle concentrado: a competência para o exercício do controle de constitucionalidade é de
+um único órgão jurisdicional, ou de um número bastante limitado de órgãos (modelo europeu).
+
+- Controle misto: o Poder Judiciário atua tanto de forma concentrada (por meio do STF e dos
+Tribunais de Justiça) quanto de forma difusa (por qualquer juiz ou tribunal do país), no exercício
+do controle de constitucionalidade. Modelo adotado no Brasil.
+
+
+Vias de Controle
+
+- Via incidental (de defesa ou de exceção): aferição diante de um caso concreto em que uma das
+partes requer a declaração de inconstitucionalidade de uma lei, mas esse não é o objeto
+principal do pedido.
+
+- Via principal (abstrata ou de ação direta): a aferição da inconstitucionalidade é o pedido
+principal do autor.
+
+
+Interpretação conforme à Constituição x Declaração parcial de
+nulidade sem redução de texto
+
+- Interpretação conforme à Constituição: técnica aplicável para a interpretação de normas
+infraconstitucionais        que tenham mais de um sentido possível (polissêmicas ou
+plurissignificativas), situação em que será preferida aquela interpretação que for compatível com
+a Constituição. Pode ser de dois tipos:
+  a) Interpretação conforme com redução do texto: a parte viciada é considerada
+  inconstitucional, suspendendo-se sua eficácia.
+  b) Interpretação conforme sem redução do texto: exclui-se ou se atribui à norma um
+  determinado sentido, tornando-a compatível com a Constituição (dá-se ênfase à declaração
+  de constitucionalidade de determinado sentido da norma).
+- Declaração parcial de nulidade sem redução de texto: quando se constata a existência de uma
+regra legal inconstitucional que, em razão da redação adotada pelo legislador, não tem como
+ser excluída do texto da lei sem que a supressão acarrete um resultado indesejado. Dá-se ênfase
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       7
+        www.estrategiaconcursos.com.br                                                         46
+
+                                     
+
+
+---
+
+    Tulio Lages
+    Aula 26
+
+na declaração de inconstitucionalidade de determinadas aplicações da lei, sem retirá-la (seja
+total, ou parcialmente) do mundo jurídico.
+
+
+Controle Difuso
+
+- Objetivo: “tutela de um determinado direito concreto, que esteja sofrendo lesão ou ameaça de
+lesão por alguém (a outra parte na ação)”3.
+
+- Legitimação ativa: partes do processo, eventuais terceiros intervenientes e o Ministério Público.
+
+- A inconstitucionalidade da lei pode ser declarada de ofício pelo Poder Judiciário, no âmbito do
+processo.
+
+- Parâmetro de controle: qualquer norma constitucional, inclusive pretérita, desde que estivesse
+em vigor no momento da edição do ato normativo questionado.
+
+- Objeto de controle: qualquer lei ou ato normativo, emanado por qualquer ente federativo,
+inclusive anterior à Constituição (no caso de norma anterior à atual CF, o parâmetro de controle
+é a Constituição pretérita que estava em vigor quando da edição da norma).
+
+- Órgão competente: pode ser realizado por juiz monocrático ou por tribunal, a depender da
+tramitação da ação.
+
+No caso de tribunal, deve ser obedecida a “cláusula de reserva de plenário” (art. 97 da CF/88):
+
+CF/88, art. 97. Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo
+órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder
+Público.
+
+Assim, os órgãos fracionários dos tribunais não podem declarar a inconstitucionalidade de leis,
+mas tão somente reconhecer a constitucionalidade de normas (Código de Processo Civil, arts.
+948 e 949).
+
+Destaca-se que o órgão especial a que se refere o dispositivo é o previsto no art. 93, inciso XI,
+da CF/88.
+
+CF/88, art. 93, XI - nos tribunais com número superior a vinte e cinco julgadores, poderá ser constituído
+órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das
+atribuições administrativas e jurisdicionais delegadas da competência do tribunal pleno, provendo-se
+metade das vagas por antigüidade e a outra metade por eleição pelo tribunal pleno;
+
+3
+ Paulo, Vicente. Marcelo Alexandrino. Direito Constitucional Descomplicado. 20. ed. Rio de Janeiro: Forense;
+Método, 2021.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               8
+          www.estrategiaconcursos.com.br                                                                 46
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+Ainda, é importante mencionar que a cláusula de reserva de plenário deverá ser observada tanto
+no controle difuso quanto no controle concentrado.
+
+Precedente importante sobre este ponto:
+
+                                                    JURISPRUDÊNCIA
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que,
+    embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público,
+    afasta sua incidência, no todo ou em parte”4.
+
+
+Cumpre destacar, ainda, que a reserva de plenário vale somente para a declaração de
+inconstitucionalidade, e não para a de recepção/revogação de direito pré-constitucional.
+
+Além disso, a cláusula de reserva de plenário também não se aplica quando é utilizada a técnica
+de “interpretação conforme a Constituição”.
+
+- Mitigação da cláusula de reserva de plenário pelo Código de Processo Civil:
+
+Caso o órgão especial, o Plenário do Tribunal ou o Plenário do STF já tenham se pronunciado
+sobre a inconstitucionalidade da norma, o órgão fracionário do Tribunal não necessita observar a
+cláusula de reserva de plenário, podendo declarar ele próprio a inconstitucionalidade da lei ou
+ato normativo (Código de Processo Civil, art. 949, parágrafo único).
+
+Se, eventualmente, houver divergência entre o entendimento do Plenário ou Órgão Especial do
+Tribunal e o Plenário do STF, deve prevalecer o entendimento deste último.
+
+- Efeitos da decisão: eficácia inter partes, com efeitos ex tunc (retroativos). Se a ação tramitar no
+STF, é possível que ele realize modulação de efeitos, por decisão de 2/3 de seus membros, para
+conferir efeitos ex nunc (prospectivos) à decisão, ou fixar outro momento para que seja iniciada
+sua eficácia (art. 27 da Lei 9.868/99 – embora esta Lei trate de controle concentrado, doutrina e
+jurisprudência entendem que a modulação de efeitos é cabível no controle difuso).
+
+A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a
+inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das
+decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será
+indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação
+rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial
+(CPC, art. 495)5.
+
+4
+    STF – Súmula Vinculante 10.
+5
+    STF – RE 730462.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               9
+           www.estrategiaconcursos.com.br                                                                 46
+
+                                        
+
+
+---
+
+    Tulio Lages
+    Aula 26
+
+- A jurisprudência do STF6 traz uma exceção à regra geral de eficácia "inter partes" da decisão,
+quando, em controle incidental, há uma revisão de jurisprudência pelo Plenário da Corte. Nessa
+hipótese excepcional (revisão de jurisprudência), a decisão em sede de Recurso Extraordinário
+(RE) ou reclamação constitucional irá substituir a anterior decisão em ADI e, portanto, irá
+produzir eficácia erga omnes e efeito vinculante.
+
+- O Senado Federal pode, discricionariamente7, a qualquer tempo e, de maneira irretratável,
+conferir eficácia erga omnes (geral) a uma decisão tomada em sede de controle difuso pelo STF
+(CF, art. 52, X):
+
+CF/88, art. 52. Compete privativamente ao Senado Federal: (...)
+X - suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva
+do Supremo Tribunal Federal;
+
+Trata-se de um ato discricionário e político. Não tem um prazo para ocorrer.
+
+A resolução do Senado que suspende a execução da lei declarada inconstitucional pelo STF em
+sede de controle difuso deve seguir exatamente o que prevê a decisão do Supremo, não
+podendo ampliá-la, restringi-la ou interpretá-la. Além disso, a referida resolução possui efeitos
+ex nunc (doutrina majoritária) e pode ser objeto de controle de constitucionalidade.8
+
+- CUIDADO! A súmula 347 do STF preceitua que “o Tribunal de Contas, no exercício de suas
+atribuições, pode apreciar a constitucionalidade das leis e dos atos do Poder Público”, o que era
+entendido como possibilidade de controle concreto de constitucionalidade.
+
+Entretanto, o STF vem proferindo entendimentos no sentido de que os chamados “órgãos
+administrativos autônomos” (TCU, CNJ e CNMP, por exemplo) podem, no caso concreto, afastar
+a aplicação de lei ou ato normativo violador da CF, porém, esta atividade não seria espécie de
+controle de constitucionalidade, uma vez que tais órgãos não exercem atividade jurisdicional.
+
+Vale destacar que recentemente o STF reafirmou a compatibilidade da súmula 347 com a
+Constituição Federal, assegurando aos Tribunais de Contas a possibilidade de afastar de maneira
+incidental (ou seja, apenas no caso concreto) normas cuja aplicação no caso expressaria um
+resultado inconstitucional (seja por violação patente a dispositivo da Constituição ou por
+contrariedade à jurisprudência do Supremo Tribunal Federal sobre a matéria), porém também
+
+6
+  Rcl 18.636, Rel. Min. Celso de Mello. 10.11.2015.
+7
+  Mendes, Gilmar Ferreira; Cavalcante Filho, Joao Trindade. Manual Didático de Direito Constitucional - 10ª
+Edição 2025 (Portuguese Edition) (p. 1309). (Function). Kindle Edition.
+8
+  Paulo, Vicente. Marcelo Alexandrino. Direito Constitucional Descomplicado. 20. ed. Rio de Janeiro: Forense;
+Método, 2021.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional               10
+          www.estrategiaconcursos.com.br                                                                  46
+
+                                       
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+reafirmando a jurisprudência do próprio Supremo Tribunal Federal quanto à inviabilidade de
+realização de controle abstrato de constitucionalidade por parte de Tribunal de Contas9.
+
+- Precedentes importantes:
+
+                                                    JURISPRUDÊNCIA
+    O Conselho Nacional de Justiça, embora seja órgão do Poder Judiciário, nos termos do art. 103-B, § 4º,
+    II, da Constituição Federal, possui, tão somente, atribuições de natureza administrativa e, nesse
+    sentido, não lhe é permitido apreciar a constitucionalidade dos atos administrativos, mas somente sua
+    legalidade.10
+
+    O Tribunal de Contas da União, órgão sem função jurisdicional, não pode declarar a
+    inconstitucionalidade de lei federal com efeitos erga omnes e vinculantes no âmbito de toda a
+    Administração Pública Federal.11
+
+
+Súmula Vinculante (CF, art. 103-A)
+
+CF/88, art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão
+de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula
+que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos
+do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal,
+bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+§ 1º A súmula terá por objetivo a validade, a interpretação e a eficácia de normas determinadas, acerca
+das quais haja controvérsia atual entre órgãos judiciários ou entre esses e a administração pública que
+acarrete grave insegurança jurídica e relevante multiplicação de processos sobre questão idêntica.
+§ 2º Sem prejuízo do que vier a ser estabelecido em lei, a aprovação, revisão ou cancelamento de súmula
+poderá ser provocada por aqueles que podem propor a ação direta de inconstitucionalidade.
+§ 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a
+aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato
+administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou
+sem a aplicação da súmula, conforme o caso.
+
+- Três pressupostos devem ser atendidos para que seja editada súmula vinculante (caput e § 1º):
+i) reiteradas decisões sobre matéria constitucional; ii) controvérsia atual que acarrete grave
+insegurança jurídica e multiplicação de processos sobre questão idêntica; iii) aprovação de 2/3
+dos membros do STF.
+
+- Efeitos da súmula vinculante (§ 1º): efeito vinculante em relação aos demais órgãos do Poder
+Judiciário e à toda Administração Pública (direta e indireta), de todas as esferas de governo
+(federal, estadual e municipal).
+
+
+9
+  STF – MS 25888 AgR/DF.
+10
+   STF – MS 28.872/DF
+11
+   STF – MS 35.410
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional            11
+           www.estrategiaconcursos.com.br                                                               46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+- A súmula vinculante não vincula o STF, a atividade legislativa (função típica) do Poder
+Legislativo e a função atípica de legislar do Poder Executivo (ex: medida provisória).
+
+- Objetivo da súmula vinculante: a validade, a interpretação e a eficácia de normas determinadas
+(§ 1º).
+
+- A súmula vinculante possui validade a partir de sua publicação na imprensa oficial (caput). É
+possível a modulação de efeitos, por decisão de 2/3 dos membros do STF.
+
+- A edição, revisão ou cancelamento de súmula vinculante pode ser iniciada de ofício pelo STF
+ou pela iniciativa dos legitimados arrolados na Lei 11.417/2006: o Presidente da República, a
+Mesa do Senado Federal; a Mesa da Câmara dos Deputados; o Procurador-Geral da República;
+o Conselho Federal da Ordem dos Advogados do Brasil; o Defensor Público-Geral da União;
+partido político com representação no Congresso Nacional; confederação sindical ou entidade
+de classe de âmbito nacional; a Mesa de Assembleia Legislativa ou da Câmara Legislativa do
+Distrito Federal; o Governador de Estado ou do Distrito Federal; os Tribunais Superiores, os
+Tribunais de Justiça de Estados ou do Distrito Federal e Territórios, os Tribunais Regionais
+Federais, os Tribunais Regionais do Trabalho, os Tribunais Regionais Eleitorais e os Tribunais
+Militares.
+
+Além deles, também poderão fazê-lo: os Municípios que são legitimados a propor,
+incidentalmente, no curso de um processo em que sejam parte, a edição, a revisão ou o
+cancelamento de enunciado de Súmula Vinculante.
+
+- A aprovação, revisão ou cancelamento de súmula vinculante exige decisão de 2/3 dos
+membros do STF (oito Ministros), em sessão plenária.
+
+- Instrumento jurídico próprio para impugnar ato administrativo ou decisão judicial que contrarie
+o enunciado de súmula vinculante ou a aplique de maneira indevida: reclamação ao STF (§ 3º).
+
+Efeitos da procedência da reclamação do § 3º: o STF anulará o ato administrativo ou cassará a
+decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da
+súmula, conforme o caso.
+
+Recurso Extraordinário (CF/88, art. 102, inciso III e § 3º)
+
+CF/88, art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição,
+cabendo-lhe: (...)
+III - julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a
+decisão recorrida:
+a) contrariar dispositivo desta Constituição;
+b) declarar a inconstitucionalidade de tratado ou lei federal;
+c) julgar válida lei ou ato de governo local contestado em face desta Constituição.
+d) julgar válida lei local contestada em face de lei federal. (...)
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             12
+        www.estrategiaconcursos.com.br                                                                46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+§ 3º No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões
+constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do
+recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+
+- Só cabe recurso extraordinário (RE) contra decisão de única ou última instância (inciso III) –
+portanto, não precisa ser proveniente de tribunal, pode ser de juiz de primeira instância.
+
+- O RE é cabível quando a decisão recorrida: contrariar dispositivo da CF/88, declarar a
+inconstitucionalidade de tratado ou lei federal, julgar válida lei ou ato de governo local
+contestado em face desta Constituição, julgar válida lei local contestada em face de lei federal
+(conflito constitucional de competências).
+
+Todas essas hipóteses envolvem controvérsia constitucional, daí a importância do STF em atuar.
+
+- O recorrente deve demonstrar a existência de repercussão geral.
+
+- O RE só poderá ser recusado pelo STF por decisão com quórum de 2/3 dos membros (§ 3º) ->
+guarde este quórum!
+
+- Precedente importante:
+
+                                                    JURISPRUDÊNCIA
+ “É cabível recurso extraordinário contra decisão proferida por juiz de primeiro grau nas causas de
+ alçada, ou por turma recursal de juizado especial cível e criminal12.
+
+
+Controle Abstrato
+
+- A constitucionalidade da lei ou ato normativo é arguida na via principal, por meio de ação
+direta.
+
+- O controle é efetuado de modo concentrado, pelo Supremo Tribunal Federal (tendo como
+parâmetro a Constituição Federal) ou pelos Tribunais de Justiça (tendo como parâmetro as
+respectivas Constituições Estaduais)
+
+Ação Direta de Inconstitucionalidade (ADI) – CF, art. 103 e arts. 2º a 12 e 22
+a 28 da Lei 9.868/1999.
+
+- Competência: STF (competência exclusiva).
+
+- Parâmetro de controle: qualquer norma em vigor da Constituição atual (mesmo que implícita.
+Ex: princípio da razoabilidade), bem como os tratados sobre direitos humanos incorporados ao
+
+
+12
+     STF – Súmula 640.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     13
+           www.estrategiaconcursos.com.br                                                        46
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+ordenamento jurídico com força de emenda constitucional (CF, art. 5º, § 3º) – normas que
+integram o chamado “bloco de constitucionalidade”.
+
+- Não podem ser parâmetro (não integram o bloco de constitucionalidade): o preâmbulo,
+normas do ADCT com eficácia exaurida e normas das constituições pretéritas.
+
+- Caso ocorra alteração da norma constitucional parâmetro de controle deve ser adotado o
+entendimento de que não existe constitucionalidade superveniente (a constitucionalidade da lei
+ou ato normativo deve ser analisada segundo o parâmetro vigente à época de sua publicação).
+
+- Objeto de controle: lei ou ato normativo federal ou estadual (incluindo as leis e atos normativos
+editados pelo DF no exercício de sua competência estadual – municipal não!), editados na
+vigência da Constituição atual.
+
+- Com relação aos atos normativos, é necessário que sejam dotados de generalidade e abstração
+(não entram os atos normativos de efeitos concretos, portanto). Porém, se o ato de efeito
+concreto for aprovado sob a forma de lei em sentido estrito, é possível seu questionamento via
+ADI.
+
+- Atos normativos que podem ser objeto de controle via ADI: espécies normativas do art. 59 da
+CF (emendas à Constituição, leis complementares, leis ordinárias, leis delegadas, medidas
+provisórias, decretos legislativos e resoluções), decretos autônomos, tratados internacionais,
+regimentos internos dos Tribunais e Casas Legislativas e Constituições e leis estaduais.
+
+- Atos normativos que não podem ser objeto de controle via ADI: normas constitucionais
+originárias, leis e atos normativos revogados ou cuja eficácia tenha se exaurido, direito pré-
+constitucional, súmulas, súmulas vinculantes e atos normativos secundários.
+
+Inclusive, o STF entende que a ADI “é instrumento de controle repressivo, não preventivo, razão
+pela qual não pode ser utilizada para inviabilizar a aprovação de projetos de lei, pois tal prática,
+além de estar em desacordo com a sua função, viola o princípio da separação de poderes”13.
+
+- Legitimação ativa: rol constante dos incisos I a IX do art. 103 da CF/88.
+
+CF/88, art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade:
+I - o Presidente da República;
+II - a Mesa do Senado Federal;
+III - a Mesa da Câmara dos Deputados;
+IV - a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal;
+V - o Governador de Estado ou do Distrito Federal;
+
+13
+     STF – ADI 7081
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     14
+           www.estrategiaconcursos.com.br                                                        46
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+VI - o Procurador-Geral da República;
+VII - o Conselho Federal da Ordem dos Advogados do Brasil;
+VIII - partido político com representação no Congresso Nacional;
+IX - confederação sindical ou entidade de classe de âmbito nacional.
+
+Os legitimados previstos nos incisos IV, V e IX são denominados “legitimados especiais” e
+precisam demonstrar a pertinência temática para agir. Os demais legitimados são considerados
+“legitimados universais”, não sendo necessário que haja pertinência temática para agirem.
+Somente os legitimados previstos nos incisos VIII e IX necessitam de advogado para a
+propositura da ADI.
+
+No caso das entidades de classe de âmbito nacional, o STF entende que a legitimidade deve
+observar três condicionantes procedimentais14:
+
+a) homogeneidade entre os membros integrantes da entidade;
+
+b) representatividade da categoria em sua totalidade e comprovação do caráter nacional da
+entidade, pela presença efetiva de associados em, pelo menos, nove estados-membros; e
+
+c) pertinência temática entre os objetivos institucionais da entidade postulante e a norma objeto
+da impugnação.
+
+- Processo e julgamento da ADI
+
+i) a petição inicial deve observar: o pedido (declaração de inconstitucionalidade de determinados
+dispositivos de uma lei) e a fundamentação jurídica do pedido (a causa de pedir). O autor não
+pode desistir da ação (processo objetivo).
+
+- Princípio do pedido: STF é vinculado ao pedido, mas não à causa de pedir. A Corte não está
+vinculada à fundamentação jurídica apresentada pelo proponente da ADI.
+
+ii) intervenção de terceiros: não admitida, mas é possível a manifestação de outros órgãos ou
+entidade na condição de amicus curiae (Lei 9.868/99, art. 7º, § 2º).
+
+A decisão quanto à admissibilidade ou não de “amicus curiae” cabe ao relator, que avalia 3 (três)
+requisitos: relevância da matéria; representatividade dos postulantes e; pertinência temática.
+
+iii) atuação do AGU: atuação obrigatória e, em regra, defendendo a constitucionalidade da
+norma impugnada (art. 103, § 3º, da CF/88).
+
+14
+     STF – ADI 5524/DF.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   15
+           www.estrategiaconcursos.com.br                                                      46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+CF/88, art. 103, § 3º Quando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de
+norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou
+texto impugnado.
+
+iv) atuação do PGR: atuação obrigatória, como “fiscal da Constituição”, opinando com
+independência (art. 103, § 1º, da CF/88).
+
+CF/88, art. 103, § 1º O Procurador-Geral da República deverá ser previamente ouvido nas ações de
+inconstitucionalidade e em todos os processos de competência do Supremo Tribunal Federal.
+
+v) medida cautelar: é possível, presentes os requisitos fumus boni juris e periculum in mora.
+Efeitos da concessão cautelar: ex nunc e erga omnes. Se a cautelar não for concedida, não
+possui efeito vinculante.
+
+É possível que haja efeito repristinatório, já que a norma impugnada fica suspensa até a decisão
+de mérito, tornando aplicável a legislação anterior revogada pela norma cauterlamente
+suspensa. O STF pode, por outro lado, afastar o efeito repristinatório, conforme art. 11, § 2º da
+Lei 9.868/1999.
+
+vi) prazo para propositura de ADI: não há.
+
+vii) deliberação: sujeita a dois quóruns: a) quórum de presença: pelo menos 8 (oito) Ministros do
+STF; e b) quórum de votação: pelo menos 6 (seis) ministros (maioria absoluta).
+
+viii) efeitos da decisão de mérito que reconhece a inconstitucionalidade: erga omnes, ex tunc e
+vinculante (porém o STF pode modular e/ou restringir os efeitos da decisão, por voto de 2/3 dos
+seus membros – art. 27 da Lei 9.868/1999).
+
+A decisão possui natureza dúplice (ou ambivalente – produz efeito tanto quando o pedido é
+concedido, como negado): se julgado procedente o pedido, a lei ou ato normativo objeto de
+controle é considerado inconstitucional. Caso contrário, é considerado constitucional.
+
+A decisão tem efeito vinculante aos demais órgãos do Poder Judiciário e à Administração
+Pública direta e indireta de todas as esferas de governo (art. 28, parágrafo único da Lei
+9.868/1999), mas não alcança o STF nem o Poder Legislativo.
+
+Ação Direta de Inconstitucionalidade por Omissão (ADO) – CF, art. 103, §
+2º e arts. 12-A a 12-H da Lei 9.868/1999.
+
+- Objetivo: garantir a efetividade das normas constitucionais, impedindo a inércia do órgão
+encarregado de elaborar a norma regulamentadora de dispositivo constitucional não-
+autoaplicável.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         16
+        www.estrategiaconcursos.com.br                                                            46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+- Visa impugnar a omissão constitucional “em tese”, trata-se de controle abstrato. O mandado
+de injunção, por sua vez, é utilizado em um caso concreto.
+
+- Em geral, as regras aplicáveis à ADI são aplicáveis também à ADO.
+
+- Legitimação ativa: mesmos legitimados a propor ADI (art. 12-A da Lei 9.868/1999 e art. 103, I a
+IX da CF).
+
+- Legitimação passiva: órgãos ou autoridades omissos (observar, no caso concreto, a quem
+compete a iniciativa de lei).
+
+- Objeto: omissão, total ou parcial, legislativa ou administrativa, da União ou dos Estados (e do
+DF no exercício de competências estaduais), relacionada a norma constitucional de eficácia
+limitada de caráter mandatório, derivada da falta de edição de atos normativos primários ou
+mesmo secundários (art. 12-B da Lei 9.868/1999).
+
+Portanto, a aplicação da ADO não se restringe à omissão legislativa; ela alcança, também, a
+omissão da Administração Pública em editar atos administrativos necessários à concretização de
+dispositivos constitucionais.
+
+Ainda, o STF entende que a inércia na deliberação das Casas Legislativas pode ser objeto de
+ADO quando superarem um prazo razoável15.
+
+- Atuação do AGU: não é obrigatória, o Ministro Relator poderá solicitar a manifestação do AGU,
+que deverá ser encaminhada no prazo de 15 (quinze) dias.
+
+- Atuação do PGR: obrigatória (CF, art. 103, § 1º).
+
+- Medida cautelar: é possível, por decisão da maioria dos membros do STF, presentes à sessão
+de julgamento pelo menos 8 (oito ministros), podendo consistir i) na suspensão da aplicação da
+lei ou do ato normativo questionado, no caso de omissão parcial; ii) na suspensão de processos
+judiciais ou de procedimentos administrativos; ou iii) em outra providência a ser fixada pelo
+Tribunal (art. 12-F, § 1º da Lei 9.868/1999).
+
+- Efeitos da decisão que reconhece a omissão (CF, art. 103, § 2º): se for omissão de um dos
+Poderes, o STF dará ciência ao Poder competente para a adoção das providências necessárias.
+Se for omissão imputável a órgão administrativo, o STF notificará o órgão para que adote as
+providências necessárias em 30 (trinta) dias a partir da ciência da decisão ou em outro prazo
+razoável.
+
+- Observar que o STF não edita a norma omissa!
+
+15
+     ADI 3.682/MT , 09/05/2007.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   17
+           www.estrategiaconcursos.com.br                                                      46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Ação Declaratória de Constitucionalidade (ADC) – CF, art. 103 e arts. 13 a
+28 da Lei 9.868/1999.
+
+- Em geral, as regras aplicáveis à ADI são aplicáveis também à ADC.
+
+- Legitimação ativa: rol constante dos incisos I a IX do art. 103 da CF (mesmo rol de legitimados
+para propor ADI).
+
+- Objeto de controle: leis e atos normativos federais, que estejam sendo objeto de controvérsia
+judicial (não basta que a controvérsia seja doutrinária) relevante.
+
+Na ADI, não há necessidade de que seja demonstrada a existência de controvérsia judicial
+relevante. É possível, portanto, que seja proposta ADI tão logo uma lei seja publicada.
+
+- Não há participação do AGU.
+
+- Atuação do PGR: atuação obrigatória (CF, art. 103, § 1º).
+
+- Medida cautelar: é possível, por decisão da maioria dos membros do STF, e consistirá na
+determinação de que os juízes e os Tribunais suspendam o julgamento dos processos que
+envolvam a aplicação da lei ou do ato normativo objeto da ação até seu julgamento definitivo
+(art. 21, caput da Lei 9.868/1999).
+
+Tem eficácia “erga omnes” e efeitos vinculante e “ex nunc”. O STF tem 180 dias para julgar a
+ação, sob pena de perda de sua eficácia.
+
+- Assim como ocorre na ADI e na ADO, não é admissível a desistência da ADC já proposta.
+
+- Intervenção de terceiros: assim como na ADI, não é permitida, mas é possível a manifestação
+de outros órgãos ou entidade na condição de amicus curiae (Lei 9.868/99, art. 7º, caput e § 2º).
+
+- Prazo para propositura de ADC: não há.
+
+- Efeitos da decisão de mérito que reconhece a constitucionalidade: erga omnes, ex tunc e
+vinculante (se for reconhecida a inconstitucionalidade, o STF pode modular e/ou restringir os
+efeitos da decisão, por voto de 2/3 dos seus membros – art. 27 da Lei 9.868/1999).
+
+A decisão possui natureza dúplice (ou ambivalente – produz efeito tanto quando o pedido é
+concedido, como negado): se julgado procedente o pedido, a lei ou ato normativo objeto de
+controle é considerado constitucional. Caso contrário, é considerado inconstitucional.
+
+A decisão tem efeito vinculante aos demais órgãos do Poder Judiciário e à Administração
+Pública direta e indireta de todas as esferas de governo (art. 28, parágrafo único da Lei
+9.868/1999).
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     18
+        www.estrategiaconcursos.com.br                                                        46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+A decisão que declara a constitucionalidade ou a inconstitucionalidade da lei ou do ato
+normativo em ADC é irrecorrível, ressalvada a interposição de embargos declaratórios. Além
+disso, a decisão em ADC não pode ser objeto de ação rescisória.
+
+Arguição de Descumprimento de Preceito Fundamental (ADPF) – CF, art.
+102, § 1º e Lei 9.882/1999.
+
+- Cabe ao STF definir quais normas devem ser consideradas “preceitos fundamentais”
+(parâmetro mais restrito).
+
+O STF já se manifestou reconhecendo que são preceitos fundamentais: i) os direitos e garantias
+individuais; ii) as cláusulas pétreas; iii) os princípios constitucionais sensíveis (art. 34, VII); iv) o
+direito à saúde e; v) o direito ao meio ambiente.
+
+- Legitimação ativa: mesmos legitimados a propor a ADI (art. 2º da Lei 9.882/1999 e art. 103, I a
+IX da CF).
+
+- Objeto de controle: a ADPF possui caráter residual/subsidiário no âmbito do controle de
+constitucionalidade, sendo cabível nos casos em que não é possível a utilização de ADI, ADO e
+ADC (art. 4º, § 1º da Lei 9.882/1999). Assim, podem ser objeto de ADPF:
+
+i) direto pré-constitucional.
+
+ii) direito municipal em relação à CF.
+
+iii) interpretações judiciais violadoras de preceitos fundamentais.
+
+iv) direito pós-constitucional já revogado ou de efeitos exauridos.
+
+- A ADPF alcança atos normativos e não normativos, porém, não alcança atos políticos (ex: veto
+do Chefe do Poder Executivo a projeto de lei), enunciados das súmulas do STF, nem, em regra,
+questões controvertidas derivadas de normas secundárias e de caráter tipicamente regulamentar
+(excepcionalmente, é possível o controle dessas normas).
+
+- Modalidades de ADPF: 1) arguição autônoma: tem como objetivo evitar (caráter preventivo) ou
+reparar (caráter repressivo) lesão a preceito fundamental resultante de ato do Poder Público; e 2)
+arguição incidental: cabível contra ato normativo primário ou secundário. Exige a demonstração
+da relevância de controvérsia judicial.
+
+- Medida liminar: é possível, por decisão da maioria absoluta dos membros do STF.
+
+Em caso de extrema urgência ou perigo de lesão grave, ou ainda, em período de recesso,
+poderá o relator conceder a liminar, ad referendum do Tribunal Pleno.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional             19
+        www.estrategiaconcursos.com.br                                                                46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+Na ADPF incidental, a liminar “poderá consistir na determinação de que juízes e tribunais
+suspendam o andamento de processo ou os efeitos de decisões judiciais, ou de qualquer outra
+medida que apresente relação com a matéria objeto da argüição de descumprimento de
+preceito fundamental, salvo se decorrentes da coisa julgada” (art. 5º, caput e § 3º da Lei
+9.882/1999).
+
+Já em ADPF autônoma, a liminar suspende o ato do Poder Público que fere o preceito
+fundamental.
+
+- Amicus curiae: é admitido.
+
+- Prazo para propositura de ADPF: não há.
+
+- Princípio da Fungibilidade: A ADI e a ADPF são consideradas ações fungíveis, o que significa
+que uma pode ser substituída pela outra.
+
+Em razão disso, uma ADPF ajuizada perante o STF poderá ser conhecida como ADI. O STF fixou
+alguns parâmetros para que ADPF seja conhecida como ADI, e vice-versa:16 a) dúvida razoável
+sobre o caráter autônomo de atos infralegais e b) alteração superveniente de norma
+constitucional utilizada como parâmetro de controle.
+
+- Quórum para decisão: presentes na sessão pelo menos 2/3 (dois terços) dos Ministros (oito
+Ministros), sendo necessários os votos da maioria absoluta dos Ministros da Corte (seis votos),
+
+- Efeitos da decisão de mérito: erga omnes, ex tunc e vinculante (se for reconhecida a
+inconstitucionalidade, o STF pode modular e/ou restringir os efeitos da decisão, por voto de 2/3
+dos seus membros – art. 11 da Lei 9.882/1999).
+
+A decisão tem efeito vinculante aos demais órgãos do Poder Público (art. 10, § 3º Lei
+9.882/1999).
+
+Caso tenha objeto direito pré-constitucional, a decisão reconhecerá a recepção ou a revogação
+da lei ou do ato normativo impugnado, tendo como parâmetro de compatibilidade a CF/88.
+
+A decisão de mérito em ADPF produz efeitos imediatos, independentemente da publicação do
+acórdão.
+
+16
+  ADI 4.180-MC. Rel. Min. Cezar Peluso. Julgamento em 10.03.2010. ADPF 314/DF. Rel. Min. Marco Aurélio.
+11.12.2014.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        20
+           www.estrategiaconcursos.com.br                                                           46
+
+                                        
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+Controle Abstrato de Constitucionalidade do Direito Estadual e Municipal
+– CF, art. 125, § 2º.
+
+- Objeto: lei estadual ou municipal, face à Constituição Estadual.
+
+- Competência: competência exclusiva do TJ local (CF, art. 125, § 2º).
+
+CF/88, art. 125, § 2º Cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou
+atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da
+legitimação para agir a um único órgão.
+
+- Legitimação ativa: a CF/88 não estabelece o rol de legitimados, mas apenas proíbe que seja
+atribuição de um único órgão (CF, art. 125, § 2º). De acordo com o STF, a Constituição Estadual
+pode, inclusive, alargar o rol previsto no art. 103 da CF17.
+                                                           ==219a34==
+
+Precedente importante:
+
+                                                    JURISPRUDÊNCIA
+ “Os Estados-membros da Federação, no exercício da competência outorgada pela Constituição
+ Federal (art. 25, caput, c/c art. 125, § 2º, CF), não podem afastar a legitimidade ativa do Chefe do
+ Ministério Público estadual para propositura de ação direta de inconstitucionalidade perante o Tribunal
+ de Justiça local”18.
+
+- Parâmetro de controle: Constituição Estadual (e Lei Orgânica do DF, no caso do Distrito
+Federal). Excepcionalmente, o TJ pode utilizar como parâmetro norma da Constituição Federal,
+caso seja norma de reprodução obrigatória pelas Constituições Estaduais19.
+
+- Duplo Controle de Constitucionalidade: ocorre quando uma mesma lei (que deve ser estadual)
+é alvo de controle no TJ (face à Constituição Estadual) e no STF (face à CF).
+
+i) Se as ações forem ajuizadas simultaneamente, deverá ocorrer a suspensão do processo no TJ
+até a deliberação do STF. Caso este considere a norma inconstitucional, a ADI interposta na
+Justiça Estadual perde o objeto20. Caso o STF considere compatível com a CF a norma estadual,
+o TJ pode continuar o julgamento da ADI estadual se houver fundamento diverso que justifique
+a possível inconstitucionalidade da norma face à Constituição Estadual.
+
+ii) Se as ações não forem ajuizadas simultaneamente:
+
+17
+   STF – RE 261.677.
+18
+   STF – ADI 5693/CE.
+19
+   STF – RE 650.898/RS.
+20
+   STF – Pet. 2101, Agr.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional          21
+           www.estrategiaconcursos.com.br                                                             46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+ii.i) e a lei estadual for declarada inconstitucional pelo TJ, será expurgada do ordenamento
+jurídico (não havendo de se falar em controle posterior pelo STF).
+
+ii.ii) e a lei estadual tiver sua constitucionalidade declarada pelo TJ, não há impedimento de ser
+contestada via ADI no STF, que pode, inclusive, declará-la inconstitucional, prevalecendo, nesta
+situação, a decisão do Supremo sobre a do TJ.
+
+- Da decisão do TJ cabe recurso extraordinário para o STF no caso de o parâmetro constitucional
+for norma de reprodução obrigatória pelos Estados-membros. A decisão do Supremo, neste
+caso, terá os mesmos efeitos de uma ADI (erga omnes, ex tunc e vinculante), sendo possível
+ainda a modulação de efeitos. Se a lei impugnada for municipal, será um caso excepcional de
+apreciação da constitucionalidade de lei municipal por parte do STF.
+
+Ação Direta de Inconstitucionalidade Interventiva
+
+- A ADI interventiva é uma das formas pelas quais a intervenção federal e a intervenção estadual
+é viabilizada.
+
+Assim, embora se trate de uma forma de controle concentrado, em geral, não se trata de
+controle abstrato de constitucionalidade pois, muitas vezes não se trata de apreciação da
+constitucionalidade, em tese, de lei ou ato normativo.
+
+- Em nenhuma hipótese o Judiciário decreta a intervenção: trata-se de competência do Chefe do
+Poder Executivo.
+
+- Tem como objetos: i) lei ou ato normativo; ii) omissão ou incapacidade das autoridades locais
+para preservar os princípios constitucionais sensíveis; ou iii) ato governamental estadual que
+desrespeite os princípios sensíveis.
+
+- ADI interventiva federal
+
+CF/88, art. 36. A decretação da intervenção dependerá: (...)
+III - de provimento, pelo Supremo Tribunal Federal, de representação do Procurador-Geral da República,
+na hipótese do art. 34, VII, e no caso de recusa à execução de lei federal. (...)
+§ 1º O decreto de intervenção, que especificará a amplitude, o prazo e as condições de execução e que,
+se couber, nomeará o interventor, será submetido à apreciação do Congresso Nacional ou da Assembléia
+Legislativa do Estado, no prazo de vinte e quatro horas.
+§ 2º Se não estiver funcionando o Congresso Nacional ou a Assembléia Legislativa, far-se-á convocação
+extraordinária, no mesmo prazo de vinte e quatro horas.
+§ 3º Nos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação pelo Congresso Nacional ou
+pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa
+medida bastar ao restabelecimento da normalidade.
+§ 4º Cessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo
+impedimento legal.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              22
+        www.estrategiaconcursos.com.br                                                                 46
+
+                                     
+
+
+---
+
+     Tulio Lages
+     Aula 26
+
+A ADI interventiva federal é proposta exclusiva e discricionariamente pelo Procurador-Geral da
+República, perante o STF (CF, art. 36, III), com a finalidade de assegurar a observância dos
+princípios constitucionais sensíveis (art. 34, VII da CF - memorizar este rol). São eles: i) forma
+republicana, sistema representativo e regime democrático; ii) direitos da pessoa humana; iii)
+autonomia municipal; iv) prestação de contas da Administração Pública direta e indireta e; v)
+aplicação do mínimo exigido da receita resultante de impostos estaduais, proveniente de
+transferências, na manutenção e desenvolvimento do ensino.
+
+Caso a ADI interventiva seja julgada procedente pelo STF, será requisitada a intervenção federal
+ao Presidente da República. O Presidente deverá, então, promover a intervenção federal: não
+poderá ele descumprir a ordem do STF.
+
+- A ADI interventiva estadual é proposta pelo Procurador-Geral de Justiça perante o TJ no caso
+do art. 35, IV da CF/88.
+
+Art. 35. O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território
+Federal, exceto quando: (...)
+IV - o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios
+indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial.
+
+Contra a decisão do TJ que negue provimento à referida representação não cabe recurso
+extraordinário no STF, porque tal decisão não é essencialmente jurídica, mas sim político-
+administrativa. Precedente importante:
+
+                                                    JURISPRUDÊNCIA
+ “Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça que defere pedido de
+ intervenção estadual em Município”21.
+
+- A intervenção decretada pelo chefe do Poder Executivo em decorrência de ADI interventiva
+fica dispensada do controle político (por parte do Congresso Nacional ou da Assembleia
+Legislativa), e o decreto de intervenção, ao invés de conter o conteúdo previsto no § 1º do art.
+36, limitar-se-á a suspender a execução do ato impugnado, se isso for suficiente para
+restabelecer a normalidade (art. 36, § 3º).
+
+Porém, se não for suficiente, o decreto deverá conter as providências necessárias e ser
+submetido ao controle político do Poder Legislativo, segundo as regras do art. 36, § 1º.
+
+21
+     STF – Súmula 637.
+
+
+           Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         23
+           www.estrategiaconcursos.com.br                                                            46
+
+                                        
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+                                                                 APOSTA ESTRATÉGICA
+A ideia desta seção é apresentar os pontos do conteúdo que mais possuem chances de serem cobrados em prova, considerando o histórico de questões da banca em provas
+de nível semelhante à nossa, bem como a experiência do professor.
+
+Dentro do assunto “Controle de Constitucionalidade" o tópico “Ação Direta de Inconstitucionalidade" é o ponto que acreditamos ser o que
+possui mais chances de ser cobrado pela banca, conforme análise realizada no tópico “O que é mais cobrado dentro do assunto?”.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                                                                       24
+        www.estrategiaconcursos.com.br                                                                                                                          46
+
+                                                                  
+
+
+---
+
+Tulio Lages
+Aula 26
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              25
+      www.estrategiaconcursos.com.br                                                                 46
+
+                                                                
+
+
+---
+
+Tulio Lages
+Aula 26
+
+                                                      ==219a34==
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                 26
+      www.estrategiaconcursos.com.br                                                                    46
+
+                                                                   
+
+
+---
+
+Tulio Lages
+Aula 26
+
+      Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional              27
+      www.estrategiaconcursos.com.br                                                                 46
+
+                                                                
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+                                 QUESTÕES ESTRATÉGICAS
+Nesta seção, apresentamos e comentamos uma amostra de questões objetivas selecionadas
+estrategicamente: são questões com nível de dificuldade semelhante ao que você deve esperar
+para a sua prova e que, em conjunto, abordam os principais pontos do assunto.
+
+A ideia, aqui, não é que você fixe o conteúdo por meio de uma bateria extensa de questões,
+mas que você faça uma boa revisão global do assunto a partir de, relativamente, poucas
+questões.
+
+1. (FGV/2024/ADAB/Técnico em Fiscalização Agropecuária) A inconstitucionalidade de Lei
+Municipal pode ser declarada diretamente via:
+
+a) Ação Direta de Inconstitucionalidade perante o Supremo Tribunal Federal.
+
+b) Ação de Descumprimento de Preceito Fundamental perante o Supremo Tribunal Federal.
+
+c) Ação Popular perante o Supremo Tribunal Federal.
+
+d) Ação Direta de Constitucionalidade perante o Supremo Tribunal Federal.
+
+e) Ação Civil Pública perante o Supremo Tribunal Federal.
+
+Comentários
+
+Letra A - incorreta. Conforme alínea a do inciso I do artigo 102 da Constituição Federal, cabe ao
+Supremo Tribunal Federal processar e julgar a ação direta de inconstitucionalidade de lei ou ato
+normativo federal ou estadual, não de lei municipal.
+
+     Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+     Constituição, cabendo-lhe:
+
+     I - processar e julgar, originariamente:
+
+     a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e
+     a ação declaratória de constitucionalidade de lei ou ato normativo federal;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional      28
+        www.estrategiaconcursos.com.br                                                         46
+
+                                     
+
+
+---
+
+    Tulio Lages
+    Aula 26
+
+Letra B - correta. Conforme § 1º do artigo 102 da Constituição Federal e o inciso I, parágrafo
+único, do artigo 1º da Lei nº 9.882/99, a inconstitucionalidade de lei municipal poderá ser
+declarada pelo Supremo Tribunal Federal mediante Ação de Descumprimento de Preceito
+Fundamental.
+
+       Art. 1º A argüição prevista no § 1º do art. 102 da Constituição Federal será proposta
+       perante o Supremo Tribunal Federal, e terá por objeto evitar ou reparar lesão a
+       preceito fundamental, resultante de ato do Poder Público.
+
+       Parágrafo único. Caberá também argüição de descumprimento de preceito
+       fundamental:
+
+       I - quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato
+       normativo federal, estadual ou municipal, incluídos os anteriores à Constituição;
+
+Letra C - incorreta. Disposta no inciso LXXIII do artigo 5º da Constituição Federal, a ação popular
+tem por finalidade anular atos administrativos lesivos ao Estado, e não a anulação de atos
+normativos genéricos. 1
+
+       Art. 5º, LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a
+       anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à
+       moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural,
+       ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da
+       sucumbência;
+
+Letra D - incorreta. A Constituição Federal prevê na alínea a do inciso I do artigo 102 da
+Constituição Federal a ação declaratória de constitucionalidade, não ação direta de
+constitucionalidade. Ademais, a ADC não seria cabível por ter como objeto apenas lei ou ato
+normativo federal, não lei municipal.
+
+       Art. 102, I, a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou
+       estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal;
+
+Letra E - incorreta. Conforme entendimento do Supremo Tribunal Federal, RE 411.156, a ação
+civil pública poderia ser um instrumento para promover o controle difuso de constitucionalidade
+de ato emanado do poder público, se este não fosse o objetivo principal da ação. Contudo, a
+alternativa ainda estaria errada, pois com base na Lei nº 7.347/85, compete ao foro do local
+onde ocorrer o dano, processar e julgar a causa. Portanto, sendo uma lei municipal, não
+compete ao Supremo Tribunal Federal julgar.
+
+1
+    STF - AO 1.725 AgR.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional        29
+          www.estrategiaconcursos.com.br                                                           46
+
+                                       
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+     Se, contudo, o ajuizamento da ação civil pública visar, não à apreciação da validade
+     constitucional de lei em tese, mas objetivar o julgamento de uma específica e
+     concreta relação jurídica, aí, então, tornar-se-á lícito promover, incidenter tantum, o
+     controle difuso de constitucionalidade de qualquer ato emanado do poder público.
+     (...) É por essa razão que o magistério jurisprudencial dos tribunais – inclusive o do STF
+     (Rcl 554/MG, rel. min. Maurício Corrêa – Rcl 611/PE, rel. min. Sydney Sanches, v.g.) –
+     tem reconhecido a legitimidade da utilização da ação civil pública como instrumento
+     idôneo de fiscalização incidental de constitucionalidade, desde que, nesse processo
+     coletivo, a controvérsia constitucional, longe de identificar-se como objeto único da
+     demanda, qualifique-se como simples questão prejudicial, indispensável à resolução
+     do litígio principal (...). [RE 411.156, rel. min. Celso de Mello, j. 19-11-2009, dec.
+     monocrática, DJE de 3-12-2009.]
+
+Gabarito: Letra B.
+
+2. (FGV/2024/ADAB/Técnico em Fiscalização Agropecuária) De acordo com a Constituição,
+pode propor a ação direta de inconstitucionalidade perante o Supremo Tribunal Federal
+
+a) a Mesa de Assembleia Legislativa.
+
+b) o Vereador.
+
+c) o Prefeito.
+
+d) o Conselho Estadual da OAB.
+
+e) o Procurador-Geral de Justiça.
+
+Comentários
+
+A alternativa correta é a letra A, pois a Mesa de Assembleia Legislativa compõe o rol de
+legitimados a propor ação direta de inconstitucionalidade, disposto no artigo 103 da
+Constituição Federal.
+
+     Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória
+     de constitucionalidade:
+
+      I - o Presidente da República;
+
+     II - a Mesa do Senado Federal;
+
+     III - a Mesa da Câmara dos Deputados;
+
+     IV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         30
+        www.estrategiaconcursos.com.br                                                            46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+     V - o Governador de Estado ou do Distrito Federal;
+
+     VI - o Procurador-Geral da República; (Letra E – incorreta)
+
+     VII - o Conselho Federal da Ordem dos Advogados do Brasil; (Letra D – incorreta)
+
+     VIII - partido político com representação no Congresso Nacional;
+
+     IX - confederação sindical ou entidade de classe de âmbito nacional.
+
+Gabarito: Letra A.
+
+3. (FGV/2024/STN/Auditor Federal de Finanças e Controle) No âmbito do Estado Alfa, foi
+editada a Lei nº X, que dispôs sobre o exercício do poder de polícia por esse ente federativo e
+que cominou a sanção de multa àqueles que incorressem nas infrações ali previstas. Apesar
+desse diploma normativo estadual ter sido muito elogiado na perspectiva administrativa, era
+grande a resistência dos seus destinatários em observá-lo, tendo sido proferidos diversos
+provimentos judiciais, em sede de tutela individual e coletiva, reconhecendo a sua
+incompatibilidade com a Constituição da República. À luz desse quadro, a Mesa da Assembleia
+Legislativa do Estado Alfa solicitou que sua procuradoria se manifestasse sobre a possibilidade
+de a questão ser levada à apreciação do Supremo Tribunal Federal, em sede de controle
+concentrado de constitucionalidade, de modo que seja requerido o reconhecimento da
+conformidade constitucional da Lei nº X. Foi corretamente informado à Mesa que
+
+a) deve ser interposto recurso extraordinário.
+
+b) deve ser ajuizada reclamação constitucional.
+
+c) deve ser ajuizada ação declaratória de constitucionalidade.
+
+d) deve ser ajuizada arguição de descumprimento de preceito fundamental.
+
+e) a Mesa de Assembleia Legislativa não tem legitimidade para deflagrar o controle alvitrado.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. O enunciado da questão busca solução em sede de controle concentrado, e
+o recurso extraordinário é exemplo de controle difuso, que corresponde ao controle de
+constitucionalidade de lei ou ato normativo realizado por qualquer juiz ou órgão do Poder
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       31
+        www.estrategiaconcursos.com.br                                                          46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Judiciário. Ocorre diante de um caso concreto, em que há a declaração de inconstitucionalidade
+de forma incidental.
+
+Letra B - incorreta. A Reclamação Constitucional também ocorre em sede de controle difuso,
+tendo como conceito dado por Humberto Theodoro o de que se trata de remédio
+processual que, na dicção dos arts. 102, I, “l”, e 105, I, “f”, da Lei Maior, se presta a aparelhar a
+parte com um mecanismo processual adequado para denunciar àquelas Cortes Superiores atos
+ou decisões ofensivas à sua competência ou à autoridade de suas decisões.
+
+Letra C - incorreta. Apesar da ação declaratória de constitucionalidade ser de controle
+concentrado, conforme alínea a, inciso I, artigo 102 da Constituição Federal, terá como objeto
+de análise apenas lei ou ato normativo federal.
+
+     Art. 102, I, a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou
+     estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal;
+
+Letra D - correta. A arguição de descumprimento de preceito fundamental possui caráter
+residual/subsidiário no âmbito do controle de constitucionalidade, sendo cabível nos casos em
+que não é possível a utilização de ADI, ADO e ADC, conforme artigo 4º, § 1º da Lei 9.882/1999 e
+§ 1º, artigo 102 da Constituição Federal.
+
+     Art. 102, § 1.º A argüição de descumprimento de preceito fundamental, decorrente
+     desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei.
+
+Letra E - incorreta. Conforme inciso I, artigo 2º da Lei 9.882/1999, podem propor arguição de
+descumprimento de preceito fundamental os legitimados para a ação direta de
+inconstitucionalidade. Assim, conforme inciso IV, artigo 103 da Constituição Federal, a Mesa de
+Assembleia Legislativa teria legitimidade para propor ADPF no caso em tela.
+
+     Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória
+     de constitucionalidade:
+
+      (...)
+
+     IV a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;
+
+Gabarito: Letra D.
+
+4. (FGV/2024/TCE-PA/Auditor de Controle Externo) Determinado legitimado à deflagração do
+controle abstrato de constitucionalidade perante o Tribunal de Justiça do Estado Alfa ajuizou
+representação de inconstitucionalidade tendo por objeto a Lei Estadual nº X. O relator da ação,
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional         32
+        www.estrategiaconcursos.com.br                                                            46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+antes de solicitar as informações de estilo, constatou que o legitimado utilizou, como paradigma
+de confronto, normas da Constituição da República, que entendia terem sido violadas. Por tal
+razão, o relator concluiu corretamente que a representação de inconstitucionalidade
+
+a) não pode ser conhecida, sob pena de usurpação de competência do Supremo Tribunal
+Federal.
+
+b) somente pode ser conhecida se a norma da Constituição da República tiver sido reproduzida
+na Constituição Estadual.
+
+c) pode ser conhecida, considerando a unidade sistêmica da ordem constitucional brasileira,
+presente na simetria constitucional.
+
+d) somente pode ser conhecida se a Constituição Estadual autorizou a utilização de normas da
+                                                        ==219a34==
+
+Constituição da República na representação de inconstitucionalidade.
+
+e) pode ser conhecida caso as normas da Constituição da República sejam de reprodução
+obrigatória na Constituição Estadual, ainda que isto não tenha ocorrido.
+
+Comentários
+
+A alternativa correta é a letra E, pois conforme entendimento do Supremo Tribunal Federal,
+tema 484, os Tribunais de Justiça poderão utilizar como parâmetro as normas da Constituição
+Federal, caso seja norma de reprodução obrigatória pelas Constituições Estaduais.
+
+     1) Tribunais de Justiça podem exercer controle abstrato de constitucionalidade de leis
+     municipais utilizando como parâmetro normas da Constituição Federal, desde que se
+     trate de normas de reprodução obrigatória pelos Estados; e 2) O art. 39, § 4º, da
+     Constituição Federal não é incompatível com o pagamento de terço de férias e
+     décimo terceiro salário.
+
+Gabarito: Letra E.
+
+5. (FGV/2024/TCE-PA/Auditor de Controle Externo) A denominada “reserva do possível”
+condiciona a possibilidade de atuação do Estado na satisfação das necessidades públicas à
+existência de recursos públicos disponíveis. Com base na jurisprudência dos Tribunais Superiores
+sobre o tema, analise as afirmativas a seguir.
+
+I. Não incide o princípio da reserva do possível na hipótese de eventual indisponibilidade
+orçamentária, devidamente comprovada, quando a obrigação já foi constituída e reconhecida
+por ato formal da autoridade competente devidamente comprovada, caso em que há apenas o
+impedimento do pagamento imediato da obrigação.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     33
+        www.estrategiaconcursos.com.br                                                        46
+
+                                     
+
+
+---
+
+   Tulio Lages
+   Aula 26
+
+II. O Estado pode invocar a reserva do possível ou a insuficiência de recursos financeiros para
+não ressarcir danos materiais e morais efetivamente causados por agentes estatais a particulares.
+
+III. A exigência da presença de enfermeiro nas Ambulâncias SAMU, que demandaria a
+contratação de milhares de profissionais, não sendo factível nas condições orçamentárias,
+ofende o princípio da reserva do possível.
+
+Está correto o que se afirma em
+
+a) I e III, apenas.
+
+b) I e II, apenas.
+
+c) II e III, apenas.
+
+d) I, II e III.
+
+e) II, apenas.
+
+Comentários
+
+Item I – correto. Conforme entendimento do Superior Tribunal de Justiça, MS 27696/DF.
+
+       Não incide o princípio da reserva do possível na hipótese de eventual
+       indisponibilidade orçamentária, devidamente comprovada, apenas há o impedimento
+       do pagamento imediato da obrigação. Isso porque a obrigação já foi devidamente
+       constituída e reconhecida por ato formal do Ministro da Justiça.
+
+Item II – incorreto. Conforme entendimento do Superior Tribunal de Justiça, REsp 1.051.023/RJ.
+
+       CONSTITUCIONAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO.
+       DETENTO. ENCARCERAMENTO EM CONDIÇÕES TIDAS COMO CAÓTICAS.
+       DANOS MORAIS. PRINCÍPIO DA RESERVA DO POSSÍVEL. INVIABILIDADE DA
+       INVOCAÇÃO NAS SITUAÇÕES PREVISTAS NO ART. 37, § 6º, DA CF. 1. O dever de
+       ressarcir danos, inclusive morais, efetivamente causados por ato dos agentes estatais
+       ou pela inadequação dos serviços públicos decorre diretamente do art. 37 § 6º da
+       Constituição, dispositivo auto-aplicável, não sujeito a intermediação legislativa ou
+       administrativa para assegurar o correspondente direito subjetivo à indenização. Não
+       cabe invocar, para afastar tal responsabilidade, o princípio da reserva do possível ou a
+       insuficiência de recursos. (REsp n. 1.051.023/RJ, relator Ministro Francisco Falcão,
+       relator para acórdão Ministro Teori Albino Zavascki, Primeira Turma, julgado em
+       11/11/2008, DJe de 1/12/2008.)
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       34
+          www.estrategiaconcursos.com.br                                                          46
+
+                                       
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Item III – correto. Conforme entendimento do Superior Tribunal de Justiça, REsp n.
+1.828.993/RS.
+
+     ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL SOB O RITO DOS
+     RECURSOS REPETITIVOS. INCIDENTE DE RESOLUÇÃO DE DEMANDAS
+     REPETITIVAS - IRDR. COMPOSIÇÃO DA TRIPULAÇÃO DAS AMBULÂNCIAS DE
+     SUPORTE BÁSICO - TIPO B E DAS UNIDADES DE SUPORTE BÁSICO DE VIDA
+     TERRESTRE (USB) DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA - SAMU.
+     PRESENÇA DE PROFISSIONAL DE ENFERMAGEM. DESNECESSIDADE. LEI Nº
+     7.498/1986. PORTARIAS Nº 2.048/2002 E 1.010/2012 DO MINISTÉRIO DA SAÚDE.
+     RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO. RECURSO JULGADO SOB A
+     SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015, C/C O ART. 256-N E
+     SEGUINTES DO REGIMENTO INTERNO DO STJ. 11. A exigência de enfermeiro nas
+     Ambulâncias de Suporte Básico - Tipo B e nas Unidades de Suporte Básico de Vida
+     Terrestre (USB) do Serviço de Atendimento Móvel de Urgência - SAMU, em vez de
+     trazer benefícios, findaria por prejudicar o sistema de saúde, pois esses veículos - que
+     compõem 80% da frota do SAMU, segundo informações prestadas como amicus
+     curiae pelo CONSELHO NACIONAL DE SECRETARIAS MUNICIPAIS DE SAÚDE -
+     CONASEMS - não poderiam circular sem a contratação de milhares de enfermeiros
+     em todos os rincões do país, o que não é factível nas condições orçamentárias atuais,
+     em clara ofensa ao princípio da reserva do possível. (REsp n. 1.828.993/RS, relator
+     Ministro Og Fernandes, Primeira Seção, julgado em 12/8/2020, DJe de 20/8/2020.)
+
+Gabarito: Letra A.
+
+6. (FGV/2024/TCE-PA/Auditor de Controle Externo) João, ordenador de despesas, ao
+apresentar suas considerações em processo de tomada de conta especial instaurado pelo
+Tribunal de Contas do Estado Alfa, sustentou que a interpretação de determinado dispositivo
+constitucional era distinta daquela que estava sendo adotada nos autos. De acordo com João, o
+significado a ser atribuído pelo intérprete ao dispositivo interpretado é influenciado pelas
+vicissitudes da realidade. Os argumentos de João
+
+a) não se ajustam ao realismo jurídico.
+
+b) são compatíveis com o originalismo constitucional.
+
+c) são compatíveis com a declaração de inconstitucionalidade sem redução de texto.
+
+d) indicam a existência de uma relação de sobreposição entre texto e norma constitucional.
+
+e) embora se ajustem à mutação constitucional, não se compatibilizam com a interpretação
+conforme a constituição.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       35
+        www.estrategiaconcursos.com.br                                                          46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Comentários
+
+A alternativa correta é a letra C, pois os argumentos de João condizem com uma declaração
+parcial de nulidade sem redução de texto. Esta ocorre quando se constata a existência de uma
+regra legal inconstitucional que, em razão da redação adotada pelo legislador, não tem como
+ser excluída do texto da lei sem que a supressão acarrete um resultado indesejado. Assim
+ocorrerá uma declaração de inconstitucionalidade de determinadas aplicações da lei, sem retirá-
+la, seja total, ou parcialmente, do mundo jurídico.
+
+Gabarito: Letra C.
+
+7. (FGV/2023/Prefeitura do Rio de Janeiro/Fiscal de Rendas) O Partido Político Alfa, com
+representação no Congresso Nacional, foi instado, por seus correligionários, a ajuizar arguição
+de descumprimento de preceito fundamental (ADPF), considerando três situações que
+alegadamente eram colidentes com normas estruturantes da Constituição da República de 1988.
+Almejava-se o ajuizamento da ADPF para: (1) insurgir-se contra veto a projeto de lei ordinária
+aprovado pela Assembleia Legislativa, aposto por governador do Estado, que invocara
+argumentos descabidos para sustentar a inconstitucionalidade do projeto; (2) reconhecer a
+constitucionalidade da Lei estadual nº X, que não vinha sendo cumprida pelas estruturas
+orgânicas dos distintos Poderes sob o argumento de ser incompatível com a Constituição da
+República de 1988; e (3) impugnar decreto presidencial que concedera graça a um condenado
+em particular, por razões tidas como contrárias aos princípios regentes da atividade estatal.
+
+Ao ser consultada, a assessoria de Alfa respondeu, corretamente, em relação à possibilidade de
+as situações descritas serem objeto de ADPF, que:
+
+a) todas podem ser objeto de ADPF;
+
+b) nenhuma delas pode ser objeto de ADPF;
+
+c) apenas as situações 2 e 3 podem ser objeto de ADPF;
+
+d) apenas as situações 1 e 2 podem ser objeto de ADPF;
+
+e) apenas a situação 3 pode ser objeto de ADPF.
+
+Comentários
+
+Vamos analisar cada caso:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   36
+        www.estrategiaconcursos.com.br                                                      46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+1- A ADPF alcança atos normativos e não normativos, porém, não alcança atos políticos, como
+por exemplo o veto do Chefe do Poder Executivo a projeto de lei.
+
+2- No caso é cabível a ADPF em seu caráter residual, conforme § 1º do artigo 4º da Lei nº
+9.882/1991, uma vez que a Ação Declaratória de Constitucionalidade é cabível apenas para leis
+federais:
+
+     Art. 4º A petição inicial será indeferida liminarmente, pelo relator, quando não for o
+     caso de argüição de descumprimento de preceito fundamental, faltar algum dos
+     requisitos prescritos nesta Lei ou for inepta.
+
+     § 1º Não será admitida arguição de descumprimento de preceito fundamental quando
+     houver qualquer outro meio eficaz de sanar a lesividade.
+
+3- Nesse caso é cabível, sendo jurisprudência firmada pelo STF no ADPF 964:
+
+     A jurisprudência desta Suprema Corte reconhece possível a utilização da arguição de
+     descumprimento de preceitos fundamentais para impugnar atos de efeitos concretos,
+     sempre que – diante da inexistência de outro meio capaz de sanar a controvérsia de
+     forma geral, imediata, eficaz – acarretarem grave violação da ordem constitucional,
+     justificando a intervenção judicial para a tutela de direitos fundamentais ou de
+     interesses políticos e jurídicos socialmente relevantes. Precedentes.
+
+Dessa forma, apenas as situações 2 e 3 são passíveis de serem objeto de uma ADPF, sendo o
+gabarito a alternativa C.
+
+Gabarito: Letra C.
+
+8. (FGV/2023/Receita Federal do Brasil/Analista Tributário) O Partido Político Zeta ajuizou Ação
+Direta de Inconstitucionalidade (ADI) almejando que fosse reconhecida a incompatibilidade
+formal e material da Lei nº X com a Constituição da República de 1988. Em razão dos interesses
+envolvidos, questionou o seu advogado em relação aos efeitos de eventual decisão que julgasse
+procedente o pedido, a ser proferida pelo Supremo Tribunal Federal (STF).
+
+O advogado respondeu corretamente que a referida decisão
+
+a) produzirá efeitos ex tunc, caso seja formada a maioria de dois terços dos membros do STF
+nesse sentido.
+
+b) em regra, produz efeitos ex nunc, ressalvada a modulação de efeitos pelo voto da maioria
+absoluta dos membros do STF.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     37
+        www.estrategiaconcursos.com.br                                                        46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+c) não apresenta efeitos pré-estabelecidos, o que deve ser objeto de pronunciamento expresso
+do STF por ocasião do julgamento.
+
+d) produzirá efeitos ex nunc, caso a decisão seja proferida pela totalidade dos Ministros
+presentes à sessão, que não pode ser inferior ao quantitativo de 8 (oito).
+
+e) em regra, produz efeitos ex tunc, sendo que a decisão de procedência do pedido, no
+julgamento da ADI, deve contar com o voto de pelo menos seis Ministros.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. Será tomada tal decisão pelo voto de 6 Ministros do STF, maioria absoluta,
+conforme artigo 23 da Lei nº 9.868/1999:
+
+     Art. 23. Efetuado o julgamento, proclamar-se-á a constitucionalidade ou a
+     inconstitucionalidade da disposição ou da norma impugnada se num ou noutro
+     sentido se tiverem manifestado pelo menos seis Ministros, quer se trate de ação
+     direta de inconstitucionalidade ou de ação declaratória de constitucionalidade.
+
+Letra B - incorreta. Em regra, a decisão produz efeitos ex tunc (retroativos), porém é admitida
+modulação desses, exigindo-se o quórum de 2/3 dos votos dos ministros do STF, conforme
+artigo 27 da Lei nº 9.868/1999:
+
+     Art. 27. Ao declarar a inconstitucionalidade de lei ou ato normativo, e tendo em vista
+     razões de segurança jurídica ou de excepcional interesse social, poderá o Supremo
+     Tribunal Federal, por maioria de dois terços de seus membros, restringir os efeitos
+     daquela declaração ou decidir que ela só tenha eficácia a partir de seu trânsito em
+     julgado ou de outro momento que venha a ser fixado.
+
+Letra C - incorreta. Seus efeitos em regra são ex tunc (retroativos), admitindo-se modulação,
+conforme comentários na alternativa B.
+
+Letra D - incorreta. Para modulação é necessário atender os requisitos do artigo 27 da Lei nº
+9.868/1999, acima transcrito.
+
+Letra E - correta. Está de acordo com os preceitos legais acima explicados.
+
+Gabarito: Letra E.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     38
+        www.estrategiaconcursos.com.br                                                        46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+9. (FGV/2023/Receita Federal do Brasil/Auditor Fiscal) O Partido Político Alfa, que contava com
+representantes apenas na Câmara dos Deputados, ajuizou Ação Direta de Inconstitucionalidade
+(ADI) da Medida Provisória nº X. No curso do processo de controle concentrado de
+constitucionalidade, a Medida Provisória nº X foi convertida, sem qualquer alteração de forma e
+conteúdo, na Lei nº Y. Apesar dessa conversão, o Partido Político Alfa não promoveu o
+aditamento da petição inicial, o que não configurou óbice a que o Supremo Tribunal Federal
+(STF) apreciasse o mérito da causa.
+
+À luz da sistemática afeta ao controle concentrado de constitucionalidade, é correto afirmar que
+a narrativa acima
+
+a) não apresenta qualquer irregularidade;
+
+b) apresenta irregularidade apenas em relação à legitimidade ativa para o ajuizamento da ADI, o
+que não poderia ter sido feito por Alfa;
+
+c) apresenta irregularidade apenas em relação ao não aditamento da inicial, que deveria ter
+ocorrido, e ao julgamento pelo STF, que não deveria ser realizado;
+
+d) apresenta irregularidade apenas em relação à apreciação do mérito pelo STF, pois, em se
+tratando de medida provisória, a análise deveria permanecer adstrita ao plano liminar;
+
+e) apresenta irregularidade em relação ao objeto inicial, já que a medida provisória, em razão da
+precariedade da sua vigência, não pode ser impugnada por esse meio, e, de modo correlato, em
+relação aos desdobramentos subsequentes.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - correta. Esse é o gabarito, já que o Partido Político Alfa possui legitimidade ativa para
+propor a ADI, conforme inciso VIII do artigo 103 da Constituição Federal, além de não ter
+ocorrido qualquer alteração de forma e conteúdo na conversão da Medida Provisória n° X na Lei
+n° Y, não se fazendo necessário o aditamento da petição inicial para fins de apreciação do
+mérito da demanda pelo Supremo Tribunal Federal:
+
+     Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória
+     de constitucionalidade:
+
+     (...)
+
+     VIII - partido político com representação no Congresso Nacional;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional       39
+        www.estrategiaconcursos.com.br                                                          46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+Letra B - incorreta. O Partido Político Alfa possui legitimidade ativa para propor a ADI, conforme
+comentários da alternativa A.
+
+Letra C - incorreta. O STF já firmou entendimento que caso não ocorram alterações na Medida
+Provisória que é convertida em Lei, não é necessário qualquer aditamento e o processo pode
+seguir normalmente o julgamento, conforme voto do Ministro Sepúlveda Pertence na ADI 1.896:
+
+     Sr. Presidente, na ADIN 691, de 22.4.92 (RTJ 140/797), que relatei, o Tribunal firmou
+     que a conversão em lei sem alterações da medida provisória permite a continuação do
+     processo da ação direta de inconstitucionalidade proposta contra a medida provisória,
+     dispensando mesmo o aditamento
+
+Letra D - incorreta. As Medidas Provisórias, por constituírem ato normativo com força de lei,
+fazem parte dos objetos passíveis de apreciação do STF no controle concentrado de
+constitucionalidade.
+
+Letra E - incorreta. Além dos comentários feitos em relação à alternativa D, a conversão da MP
+em Lei não afasta a apreciação pelo STF, podendo ser necessário aditamento na representação
+inicial caso tenha ocorrido alterações em seu conteúdo.
+
+Gabarito: Letra A.
+
+10. (FGV/2023/Receita Federal do Brasil/Analista Tributário) Determinado legitimado à
+deflagração do controle concentrado de constitucionalidade ingressou com Ação Direta de
+Inconstitucionalidade, perante o Supremo Tribunal Federal (STF), com o objetivo de que fosse
+declarada a inconstitucionalidade da Lei nº X/1987, do Município Alfa, considerando a manifesta
+afronta às normas da Constituição da República.
+
+À luz da sistemática vigente, é correto afirmar que o STF
+
+a) deve processar e julgar o feito como ação direta de inconstitucionalidade;
+
+b) deve remeter os autos ao Tribunal de Justiça do Estado em cujo território esteja situado o
+Município Alfa;
+
+c) deve processar e julgar o feito caso a relevância social assumida pela Lei nº X/1987 assim o
+aconselhe;
+
+d) pode receber a ação como arguição de descumprimento de preceito fundamental, caso sejam
+preenchidos os requisitos exigidos;
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional      40
+        www.estrategiaconcursos.com.br                                                         46
+
+                                     
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+e) pode receber a ação como reclamação constitucional, considerando a transcendência dos
+motivos adotados em outra causa, com objeto similar.
+
+Comentários
+
+Vamos analisar as alternativas:
+
+Letra A - incorreta. A Ação Direta de Inconstitucionalidade tem como objeto de controle lei ou
+ato normativo federal ou estadual, editados na vigência da Constituição atual. Ou seja, não é o
+instrumento cabível frente a lei municipal.
+
+Letra B - incorreta. Conforme entendimento do STF (ADI 4.163), caso atendidos todos os
+requisitos legais, o pedido de ADI pode ser convertido em ADPF (arguição de descumprimento
+de preceito fundamental), não havendo que se falar em remeter os autos ao Tribunal de Justiça
+Estadual, já que está se questionando a compatibilidade com a Constituição Federal:
+
+     É lícito conhecer de ação direta de inconstitucionalidade como arguição de
+     descumprimento de preceito fundamental, quando coexistentes todos os requisitos
+     de admissibilidade desta, em caso de inadmissibilidade daquela.
+
+Letra C - incorreta. Não há essa previsão legal.
+
+Letra D - correta. Está de acordo com a jurisprudência firmado pelo STF já mencionada na
+alternativa B.
+
+Letra E - incorreta. Não há previsão legal sobre o que alega a alternativa, sendo que a
+reclamação constitucional é cabível para a preservação da competência e garantia da autoridade
+das decisões perante o Supremo Tribunal Federal, conforme alínea "l" do inciso I do artigo 102
+da Constituição Federal:
+
+     Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+     Constituição, cabendo-lhe:
+
+     I - processar e julgar, originariamente:
+
+     (...)
+
+     l) a reclamação para a preservação de sua competência e garantia da autoridade de
+     suas decisões;
+
+Gabarito: Letra D.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional   41
+        www.estrategiaconcursos.com.br                                                      46
+
+                                     
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 26
+
+         QUESTIONÁRIO DE REVISÃO E APERFEIÇOAMENTO
+A ideia do questionário é elevar o nível da compreensão e da retenção do assunto estudado a partir de perguntas
+que exigem respostas subjetivas, estimulando a conexão entre diversos pontos do conteúdo, bem como a
+memorização da matéria, e, consequentemente, facilitando a resolução de questões objetivas (e discursivas
+também).
+
+
+Perguntas
+
+1. Aponte o princípio que justifica a existência do controle de constitucionalidade.
+
+2. Quando ocorre a inconstitucionalidade por omissão?
+
+3. No ordenamento jurídico brasileiro é possível realizar o controle constitucional preventivo (a
+priori)?
+
+4. Qual a diferença entre as vias incidental e principal de controle da constitucionalidade?
+
+5. Qual hipótese de exceção da “cláusula de reserva de plenário” prevista pelo Código de
+Processo Civil?
+
+6. Quais órgãos do Poder Judiciário, segundo a jurisprudência do STF, não precisam observar a
+cláusula de reserva de plenário?
+
+7. A partir de qual momento uma súmula vinculante possui validade?
+
+8. Como se dá a eficácia da resolução do senado que suspende a execução, no todo ou em
+parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal?
+
+9. Qual é o parâmetro de constitucionalidade suscetível de ser invocado em sede de ADI?
+
+10. Qual o prazo para propositura de uma ADI?
+
+11. Quem possui competência para realizar o controle abstrato de Constitucionalidade do
+Direito Estadual e Municipal?
+
+12. A quem compete propor uma ADI interventiva federal? E a quem compete decretar a
+intervenção?
+
+
+Perguntas com respostas
+
+1. Aponte o princípio que justifica a existência do controle de constitucionalidade.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional                  42
+         www.estrategiaconcursos.com.br                                                                     46
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 26
+
+Princípio da supremacia da Constituição.
+
+2. Quando ocorre a inconstitucionalidade por omissão?
+
+Esse tipo de inconstitucionalidade ocorre quando a afronta à Constituição decorre da inércia do
+legislador em regulamentar um dispositivo constitucional dependente de regulamentação.
+
+3. No ordenamento jurídico brasileiro é possível realizar o controle constitucional preventivo (a
+priori)?
+
+Sim! No Brasil, o controle preventivo pode ser de dois tipos:
+
+   a) Controle político-preventivo: realizado pelo Poder Legislativo (Comissões de Constituição e
+   Justiça, que analisam as proposições legislativas quanto à sua constitucionalidade) e pelo
+   Poder Executivo (veto presidencial a um projeto de lei em razão de sua inconstitucionalidade
+                                                         ==219a34==
+
+   – "veto jurídico").
+
+   b) Controle judicial-preventivo: realizado pelo STF, provocado por mandado de segurança
+   impetrado por parlamentar, nas duas situações a seguir: i) projeto de lei que desrespeita o
+   processo legislativo constitucional; ii) PEC que viola cláusula pétrea ou que desrespeita o
+   processo legislativo constitucional.
+
+4. Qual a diferença entre as vias incidental e principal de controle da constitucionalidade?
+
+Na via incidental (de defesa ou de exceção) ocorre a aferição diante de um caso concreto em
+que uma das partes requer a declaração de inconstitucionalidade de uma lei, mas esse não é o
+objeto principal do pedido.
+
+Na via principal (abstrata ou de ação direta) a aferição da inconstitucionalidade é o pedido
+principal do autor.
+
+5. Qual hipótese de exceção da “cláusula de reserva de plenário” prevista pelo Código de
+Processo Civil?
+
+A hipótese prevê que um órgão fracionário poderá declarar a inconstitucionalidade da norma
+observando decisão no mesmo sentido já proferida por órgão especial, o Plenário do Tribunal ou
+Plenário do STF.
+
+6. Quais órgãos do Poder Judiciário, segundo a jurisprudência do STF, não precisam observar a
+cláusula de reserva de plenário?
+
+Turmas Recursais dos Juizados Especiais e Turmas do STF.
+
+7. A partir de qual momento uma súmula vinculante possui validade?
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional     43
+         www.estrategiaconcursos.com.br                                                        46
+
+                                      
+
+
+---
+
+. Túlio Lages
+Aula  00 Lages
+   Tulio
+  Aula 26
+
+A partir de sua publicação na imprensa oficial (art. 103-A, caput, da CF/88). Contudo, é possível
+a modulação de efeitos, por decisão de 2/3 dos membros do STF.
+
+8. Como se dá a eficácia da resolução do senado que suspende a execução, no todo ou em
+parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal?
+
+Eficácia erga omnes (geral) com efeitos ex nunc (doutrina majoritária).
+
+9. Qual é o parâmetro de constitucionalidade suscetível de ser invocado em sede de ADI?
+
+Qualquer norma em vigor da Constituição atual, ainda que implícita, e tratados sobre direitos
+humanos incorporados ao ordenamento jurídico com força de emenda constitucional.
+
+10. Qual o prazo para propositura de uma ADI?
+
+Não há.
+
+11. Quem possui competência para realizar o controle abstrato de Constitucionalidade do
+Direito Estadual e Municipal?
+
+Essa competência é exclusiva do TJ local (CF, art. 125, § 2º).
+
+12. A quem compete propor uma ADI interventiva federal? E a quem compete decretar a
+intervenção?
+
+A ADI interventiva federal é proposta exclusiva e discricionariamente pelo Procurador-Geral da
+República, perante o STF (art. 36, III, da CF/88).
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional    44
+         www.estrategiaconcursos.com.br                                                       46
+
+                                      
+
+
+---
+
+  Tulio Lages
+  Aula 26
+
+                           REFERÊNCIAS BIBLIOGRÁFICAS
+ALEXANDRINO, Marcelo. DIAS, Frederico. PAULO, Vicente. Aulas de direito constitucional para
+concursos. 2. ed. Rio de Janeiro: Forense; São Paulo: MÉTODO, 2013.
+
+BRASIL. Supremo Tribunal Federal (STF). A Constituição e o Supremo. 5. ed. Brasília: STF, Secretaria de
+Documentação, 2016.
+
+CARVALHO FILHO, José dos Santos. Manual de Direito Administrativo. 30. ed. São Paulo: Atlas, 2016.
+
+DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 29. ed. Rio de Janeiro: Forense, 2016.
+
+FURTADO, Lucas Rocha. Curso de direito administrativo. 5. ed. Belo Horizonte: Fórum, 2016.
+
+JUSTEN FILHO, Marçal. Curso de direito administrativo. 10. ed. São Paulo: Revista dos Tribunais, 2014.
+
+LIMA, Gustavo Augusto F. de. Agências reguladoras e o poder normativo. 1. ed. São Paulo: Baraúna, 2013.
+
+LENZA, Pedro. Direito Constitucional Esquematizado. 20. ed. São Paulo: Saraiva, 2016.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 40. ed. São Paulo: Malheiros, 2014.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Direito Constitucional            45
+        www.estrategiaconcursos.com.br                                                               46
+
+                                     
+
+
+---
+
+---

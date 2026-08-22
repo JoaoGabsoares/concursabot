@@ -1,0 +1,656 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 01_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: 28/05/2020
+artigos_citados:
+- Art. 6
+- art. 6
+---
+
+# 28/05/2020
+
+28/05/2020
+
+                               IPI
+       CONCEITO DE INDUSTRIALIZAÇÃO
+
+
+                                                        Prof. Fábio Dutra
+
+31
+
+     Prof Fábio Dutra
+
+                    @proffabiodutra       Fábio Dutra       Fábio Dutra
+
+32
+
+                                                  1
+
+
+---
+
+                                                                                    28/05/2020
+
+     IPI – Industrialização
+            ❑ Produto industrializado é aquele resultante             de uma
+              industrialização, mesmo que incompleta parcial ou intermediária.
+
+
+            ❑ Considera-se industrialização qualquer operação que aperfeiçoe o
+              produto para consumo ou modifique:
+                      Natureza do produto;
+                      Acabamento do produto;
+                      Funcionamento do produto;
+                      Apresentação do produto;
+                      Finalidade do produto;
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+33
+
+     IPI – Industrialização
+            São irrelevantes, para caracterizar a operação como industrialização:
+
+                     ❑ O processo utilizado para obtenção do produto;
+
+                     ❑ A localização e condições das instalações ou equipamentos
+                       empregados.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+34
+
+                                                          2
+
+
+---
+
+                                                                                    28/05/2020
+
+     ATRFB/2012
+
+            Para fins da incidência do Imposto sobre Produtos Industrializados, a
+            industrialização é caracterizada como qualquer operação que
+            modifique a natureza, o funcionamento, o acabamento, a
+            apresentação ou a finalidade do produto.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Correta
+35
+
+     ATRFB/2012
+
+            O aperfeiçoamento para consumo é considerado como
+            industrialização, para fins da incidência do Imposto sobre Produtos
+            Industrializados, dependendo do processo utilizado para obtenção do
+            produto       e da localização e condições das instalações ou
+            equipamentos empregados.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Errada
+36
+
+                                                          3
+
+
+---
+
+                                                                                    28/05/2020
+
+     IPI – Industrialização
+            ❑ Operações definidas como industrialização no RIPI:
+
+            I - a que, exercida sobre matérias-primas ou produtos intermediários,
+            importe na obtenção de espécie nova (transformação);
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+37
+
+     IPI – Industrialização
+            ❑ Operações definidas como industrialização no RIPI:
+
+            II - a que importe em modificar, aperfeiçoar ou, de qualquer forma,
+            alterar o funcionamento, a utilização, o acabamento ou a aparência
+            do produto (beneficiamento);
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+38
+
+                                                          4
+
+
+---
+
+                                                                                    28/05/2020
+
+     IPI – Industrialização
+            ❑ Operações definidas como industrialização no RIPI:
+
+            III - a que consista na reunião de produtos, peças ou partes e de que
+            resulte um novo produto ou unidade autônoma, ainda que sob a
+            mesma classificação fiscal (montagem);
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+39
+
+     IPI – Industrialização
+            ❑ Operações definidas como industrialização no RIPI:
+
+            IV - a que importe em alterar a apresentação do produto, pela
+            colocação da embalagem, ainda que em substituição da original,
+            salvo quando a embalagem colocada se destine apenas ao transporte
+            da mercadoria (acondicionamento ou reacondicionamento); ou
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+40
+
+                                                          5
+
+
+---
+
+                                                                               28/05/2020
+
+     IPI – Industrialização
+            ❑ Operações definidas como industrialização no RIPI:
+
+            V - a que, exercida sobre produto usado ou parte remanescente de
+            produto deteriorado ou inutilizado, renove ou restaure o produto
+            para utilização (renovação ou recondicionamento).
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+41
+
+     IPI – Industrialização
+              Art. 6° Quando a incidência do imposto estiver condicionada à
+              forma de embalagem do produto, entender-se-á:
+
+              I - como acondicionamento para transporte, o que se destinar
+              precipuamente a tal fim; e
+
+              II - como acondicionamento de apresentação, o que não estiver
+              compreendido no inciso I.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+42
+
+                                                     6
+
+
+---
+
+                                                                                       28/05/2020
+
+     IPI – Industrialização
+            ❑ Considera-se embalagem de transporte aquelas que atendam às
+              seguintes condições (art. 6°, § 1°):
+
+                     I - ser feita em caixas, caixotes, engradados, barricas, latas,
+                     tambores, sacos, embrulhos e semelhantes, sem acabamento e
+                     rotulagem de função promocional e que não objetive valorizar o
+                     produto em razão da qualidade do material nele empregado, da
+                     perfeição do seu acabamento ou da sua utilidade adicional; e
+
+                     II - ter capacidade acima de vinte quilos ou superior àquela em
+                     que o produto é comumente vendido, no varejo, aos
+                     consumidores.
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+43
+
+     ATRFB/2012
+
+            A alteração da apresentação do produto pela colocação de
+            embalagem, ainda que em substituição da original, salvo quando a
+            embalagem colocada se destine apenas ao transporte da mercadoria,
+            é caracterizado como industrialização para fins da incidência do
+            Imposto sobre Produtos Industrializados.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Correta
+44
+
+                                                             7
+
+
+---
+
+                                                                                  28/05/2020
+
+     TRF/2000
+            Não se considera industrialização a operação
+            a) Definida como tal, mas que esteja incompleta, ou seja parcial ou
+            intermediária.
+            b) Que, exercida sobre matéria-prima ou produto intermediário,
+            importe na obtenção de espécie nova.
+            c) que apenas modifique, aperfeiçoe ou altere o funcionamento, a
+            utilização, o acabamento ou a aparência do produto.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+45
+
+     TRF/2000
+            Não se considera industrialização a operação
+            d) que altere a apresentação do produto, pela colocação da
+            embalagem, quando esta se destine apenas ao transporte da
+            mercadoria.
+            e) que consista na reunião de produtos, peças ou partes e de que
+            resulte um novo produto ou unidade autônoma, sob a mesma
+            classificação fiscal.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Letra D
+46
+
+                                                        8
+
+
+---
+
+                                                                                   28/05/2020
+
+     IPI – Industrialização
+       ❑ Não se considera industrialização:
+       I - o preparo de produtos alimentares, não acondicionados em embalagem de
+       apresentação:
+
+       a) na residência do preparador ou em restaurantes, bares, sorveterias,
+       confeitarias, padarias, quitandas e semelhantes, desde que os produtos se
+       destinem a venda direta a consumidor; ou
+
+       b) em cozinhas industriais, quando destinados a venda direta a pessoas
+       jurídicas e a outras entidades, para consumo de seus funcionários,
+       empregados ou dirigentes;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+47
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            II - o preparo de refrigerantes, à base de extrato concentrado, por
+            meio de máquinas, automáticas ou não, em restaurantes, bares e
+            estabelecimentos similares, para venda direta a consumidor;
+
+                                                   Máquina de Refrigerantes denominada
+                                                                Post Mix.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+48
+
+                                                         9
+
+
+---
+
+                                                                                    28/05/2020
+
+     QUESTÃO INÉDITA
+            Considera-se industrialização, nos termos do Regulamento do IPI –
+            RIPI - o preparo de refrigerantes, à base de extrato concentrado, por
+            meio de máquinas, automáticas ou não, em restaurantes, bares e
+            estabelecimentos similares, para venda direta ao consumidor.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Errada
+49
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            III - a confecção ou preparo de produto de artesanato;
+
+
+             Observação:
+             Produto de artesanato é o proveniente de trabalho manual realizado
+             por pessoa natural, nas seguintes condições:
+             a) quando o trabalho não contar com o auxílio ou a participação de
+             terceiros assalariados; e
+             b) quando o produto for vendido a consumidor, diretamente ou por
+             intermédio de entidade de que o artesão faça parte ou seja assistido;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+50
+
+                                                         10
+
+
+---
+
+                                                                                28/05/2020
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            IV - a confecção de vestuário, por encomenda direta do consumidor
+            ou usuário, em oficina ou na residência do confeccionador;
+
+            V - o preparo de produto, por encomenda direta do consumidor ou
+            usuário, na residência do preparador ou em oficina, desde que, em
+            qualquer caso, seja preponderante o trabalho profissional;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+51
+
+     IPI – Industrialização
+           Observação:
+
+           a) oficina é o estabelecimento que empregar, no máximo, cinco
+           operários e, quando utilizar força motriz não dispuser de potência
+           superior a cinco quilowatts; e
+
+           b) trabalho preponderante é o que contribuir no preparo do produto,
+           para formação de seu valor, a título de mão de obra, no mínimo com
+           60%.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+52
+
+                                                     11
+
+
+---
+
+                                                                                 28/05/2020
+
+     QUESTÃO INÉDITA
+
+            Não se considera industrialização o preparo de produto, por
+            encomenda direta do consumidor ou usuário, na residência do
+            preparador ou em oficina, desde que, em qualquer caso, seja
+            preponderante o trabalho profissional, sendo considerado assim o
+            trabalho em que contribuir no preparo do produto, para formação de
+            seu valor, a título de mão de obra, no mínimo com cinquenta por
+            cento.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Errada
+53
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            VI - a manipulação em farmácia, para venda direta a consumidor, de
+            medicamentos oficinais e magistrais, mediante receita médica;
+
+            VII - a moagem de café torrado, realizada por estabelecimento
+            comercial varejista como atividade acessória;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+54
+
+                                                      12
+
+
+---
+
+                                                                                  28/05/2020
+
+     QUESTÃO INÉDITA
+
+            A manipulação em farmácia, para venda direta a consumidor, de
+            medicamentos oficinais e magistrais, mediante receita médica, não é
+            considerada operação de industrialização.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Correta
+55
+
+     IPI – Industrialização
+          ❑ Não se considera industrialização:
+
+          VIII - a operação efetuada fora do estabelecimento industrial,
+          consistente na reunião de produtos, peças ou partes e de que
+          resulte:
+          a) edificação (casas, edifícios, pontes, hangares, galpões e
+          semelhantes, e suas coberturas);
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+56
+
+                                                       13
+
+
+---
+
+                                                                                       28/05/2020
+
+     IPI – Industrialização
+          ❑ Não se considera industrialização:
+
+          VIII - a operação efetuada fora do estabelecimento industrial, consistente
+          na reunião de produtos, peças ou partes e de que resulte:
+          b) instalação de oleodutos, usinas hidrelétricas, torres de refrigeração,
+          estações e centrais telefônicas ou outros sistemas de telecomunicação e
+          telefonia, estações, usinas e redes de distribuição de energia elétrica e
+          semelhantes; ou
+          c) fixação de unidades ou complexos industriais ao solo;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+57
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            IX - a montagem de óculos, mediante receita médica;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+58
+
+                                                            14
+
+
+---
+
+                                                                                  28/05/2020
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            X - o acondicionamento de produtos classificados nos Capítulos 16 a
+            22 da TIPI, adquiridos de terceiros, em embalagens confeccionadas
+            sob a forma de cestas de natal e semelhantes;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+59
+
+     IPI – Industrialização
+        Observação:
+        16 - Preparações de carne, de peixes ou de crustáceos, de moluscos ou de
+        outros invertebrados aquáticos.
+        17 - Açúcares e produtos de confeitaria.
+        18 - Cacau e suas preparações.
+        19 - Preparações à base de cereais, farinhas, amidos, féculas ou leite;
+        produtos de pastelaria.
+        20 - Preparações de produtos hortícolas, de frutas ou de outras partes de
+        plantas.
+        21 - Preparações alimentícias diversas.
+        22 - Bebidas, líquidos alcoólicos e vinagres.
+
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+60
+
+                                                       15
+
+
+---
+
+                                                                                       28/05/2020
+
+     IPI – Industrialização
+       ❑ Não se considera industrialização:
+
+       XI - o conserto, a restauração e o recondicionamento de produtos usados,
+       nos casos:
+          ❑ Produtos destinados ao uso da própria empresa executora; ou
+
+              ❑ Quando essas operações sejam executadas por encomenda de
+                terceiros não estabelecidos com o comércio de tais produtos, bem
+                como o preparo, pelo consertador, restaurador ou recondicionador, de
+                partes ou peças empregadas exclusiva e especificamente naquelas
+                operações;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+61
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            XII - o reparo de produtos com defeito de fabricação, inclusive mediante
+            substituição de partes e peças, quando a operação for executada
+            gratuitamente, ainda que por concessionários ou representantes, em
+            virtude de garantia dada pelo fabricante;
+
+
+            XIII - a restauração de sacos usados, executada por processo rudimentar,
+            ainda que com emprego de máquinas de costura;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+62
+
+                                                            16
+
+
+---
+
+                                                                                    28/05/2020
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            XIV - a mistura de tintas entre si, ou com concentrados de pigmentos,
+            sob encomenda do consumidor ou usuário, realizada em
+            estabelecimento comercial varejista, efetuada por máquina
+            automática ou manual, desde que fabricante e varejista não sejam
+            empresas interdependentes, controladora, controlada ou coligadas;
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+63
+
+     IPI – Industrialização
+            ❑ Não se considera industrialização:
+
+            XV - a operação de que resultem os produtos relacionados na
+            Subposição 2401.20 da TIPI (tabaco destalado), quando exercida por
+            produtor rural pessoa física.
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+
+
+64
+
+                                                         17
+
+
+---
+
+                                                                              28/05/2020
+
+     TTN/1998
+            Caracteriza-se produto industrializado:
+            a) produto do reino vegetal, in natura
+            b) produto alimentar preparado em estabelecimento comercial,
+            exposto à venda, não acondicionado em embalagem de apresentação
+            c) produto isento do imposto e que tenha sido parcialmente
+            industrializado
+            d) óculos montados mediante receita médica
+            e) água mineral natural
+
+     Legislação Tributária
+     Prof. Fábio Dutra
+                             Gabarito: Letra C
+65
+
+                                                   18
+
+
+---

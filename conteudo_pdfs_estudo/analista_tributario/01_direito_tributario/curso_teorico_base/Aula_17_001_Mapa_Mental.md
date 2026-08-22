@@ -1,0 +1,91 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 17_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '17'
+titulo_aula: •    CRIADO PARA SUBSTITUIR O ICMS E O ISS.
+---
+
+# •    CRIADO PARA SUBSTITUIR O ICMS E O ISS.
+
+•    CRIADO PARA SUBSTITUIR O ICMS E O ISS.
+                                                                                         •    INSTITUÍDO POR LEI COMPLEMENTAR NACIONAL.
+                                                                                         •    COMPETÊNCIA COMPARTILHADA ENTRE ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS.
+                      CARACTERÍSTICAS                                                    •    INFORMADO PELO PRINCÍPIO DA NEUTRALIDADE.
+                                                                                         •    É NÃO CUMULATIVO.
+                                                                                                                            ➢ Aquisições de uso ou consumo pessoal.
+                                                                                                    EXCETO NOS CASOS DE:
+                                                                                                                            ➢ Outras hipóteses previstas na constituição.
+
+
+  IMPOSTO SOBRE BENS E SERVIÇOS (IBS)                                                    • LEGISLAÇÃO ÚNICA E UNIFORME NO TERRITÓRIO NACIONAL, EXCETO QUANTO À
+                                                                                           ALÍQUOTA, QUE SERÁ FIXADA EM LEI ESPECÍFICA DE CADA ENTE FEDERATIVO.
+                                                                                         • SERÁ ARRECADADO E DISTRIBUÍDO POR MEIO DO COMITÊ GESTOR DO IBS.
+                                                                                         • CASHBACK SERÁ REGULAMENTADO POR LEI COMPLEMENTAR.
+
+                                                                                                        É OBRIGATÓRIO PARA OPERAÇÕES DE FORNECIMENTO DE ENERGIA ELÉTRICA E
+                  CAMPO DE INCIDÊNCIA                                                                   DE GÁS LIQUEFEITO DE PETRÓLEO AO CONSUMIDOR DE BAIXA RENDA.
+
+• OPERAÇÕES COM BENS MATERIAIS OU IMATERIAIS, INCLUSIVE DIREITOS,
+  OU COM SERVIÇOS.
+• IMPORTAÇÃO DE BENS MATERIAIS OU IMATERIAIS, INCLUSIVE DIREITOS, OU DE                                                      IMUNIDADES
+  SERVIÇOS REALIZADA POR PESSOA FÍSICA OU JURÍDICA, AINDA QUE NÃO                        • EXPORTAÇÕES.
+  SEJA SUJEITO PASSIVO HABITUAL DO IMPOSTO, QUALQUER QUE SEJA A SUA                      • SERVIÇO DE COMUNICAÇÃO NAS MODALIDADES DE RADIODIFUSÃO SONORA E DE
+  FINALIDADE.                                                                              SONS E IMAGENS DE RECEPÇÃO LIVRE E GRATUITA.
+
+
+                                                                                                                      • NÃO INTEGRA SUA PRÓPRIA BASE DE CÁLCULO (POR FORA).
+                                                                                                                      • TAMBÉM NÃO COMPÕE A BASE DE CÁLCULO DO IMPOSTO
+                                                              BASE DE CÁLCULO                                           SELETIVO, DO ICMS, DO ISS, DAS CONTRIBUIÇÕES
+                                                                                                                        PIS/COFINS, INCLUSIVE IMPORTAÇÃO, E DA CBS.
+
+                                                                                                                                                        DIREITO TRIBUTÁRIO
+                                                                                                                    ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                                                     • A REGRA É O PRÓPRIO ENTE FIXAR A SUA ALÍQUOTA DE IBS.
+
+                                                                                     • A ALÍQUOTA FIXADA PELO ENTE FEDERATIVO SERÁ A MESMA PARA TODAS AS
+                         ALÍQUOTAS                                                     OPERAÇÕES COM BENS MATERIAIS OU IMATERIAIS, INCLUSIVE DIREITOS, OU COM
+                                                                                       SERVIÇOS, RESSALVADAS AS HIPÓTESES PREVISTAS NO TEXTO CONSTITUCIONAL.
+
+
+                                                                                     • A ALÍQUOTA DO IBS SERÁ CALCULADA PELO SOMATÓRIO DA ALÍQUOTA ESTADUAL E
+                                                                                       ALÍQUOTA MUNICIPAL DE DESTINO DA OPERAÇÃO.
+
+  IMPOSTO SOBRE BENS E SERVIÇOS (IBS)                                                • CASO O ENTE FEDERATIVO NÃO ESTABELEÇA SUA ALÍQUOTA, SERÁ UTILIZADA A
+                                                                                       ALÍQUOTA DE REFERÊNCIA FIXADA PELO SENADO FEDERAL, NOS TERMOS DE LEI
+                                                                                       COMPLEMENTAR.
+
+
+                                                                                     • O ENTE PODE OPTAR POR VINCULAR SUAS ALÍQUOTAS À ALÍQUOTA DE REFERÊNCIA.
+                       CONTRIBUINTE
+• LEI COMPLEMENTAR PODERÁ DEFINIR COMO SUJEITO PASSIVO DO IMPOSTO A                  • AS ALÍQUOTAS DE REFERÊNCIA SERÃO FIXADAS PELO SENADO FEDERAL NO ANO
+  PESSOA QUE CONCORRER PARA A REALIZAÇÃO, A EXECUÇÃO OU O                              ANTERIOR AO DE SUA VIGÊNCIA, NÃO SE APLICANDO O PRINCÍPIO DA NOVENTENA
+
+  PAGAMENTO DA OPERAÇÃO, AINDA QUE RESIDENTE OU DOMICILIADA NO                         (ANTERIORIDADE NONAGESIMAL).
+  EXTERIOR
+                                                                                     • AS ALÍQUOTAS DE REFERÊNCIA SERÃO DEFINIDAS COMO PATAMAR MÍNIMO PARA O IBS
+                                                                                       DURANTE O PERÍODO DE TRANSIÇÃO (2029 A 2077).
+
+         REGRAS COMUNS ENTRE IBS E CBS
+• FATOS GERADORES, BASES DE CÁLCULO, HIPÓTESES DE NÃO INCIDÊNCIA E
+  SUJEITOS PASSIVOS.
+• IMUNIDADES.
+• REGIMES ESPECÍFICOS, DIFERENCIADOS OU FAVORECIDOS DE TRIBUTAÇÃO.
+• REGRAS DE NÃO CUMULATIVIDADE E DE CREDITAMENTO.
+                                                                                                                                                 DIREITO TRIBUTÁRIO
+                                                                                                             ESTRATÉGIA CONCURSOS
+
+
+---

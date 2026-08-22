@@ -1,0 +1,234 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 01_001_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '01'
+titulo_aula: ESTADO X GOVERNO X ADMINISTRAÇÃO PÚBLICA
+---
+
+# ESTADO X GOVERNO X ADMINISTRAÇÃO PÚBLICA
+
+ESTADO X GOVERNO X ADMINISTRAÇÃO PÚBLICA
+
+                                                DEFINIÇÃO: ENTIDADE QUE POSSUI PODER EXTROVERSO.
+                                                                     ❑ GOVERNO SOBERANO.
+                                                                     ❑ TERRITÓRIO.
+       ESTADO           ELEMENTOS BÁSICOS:
+                                                                     ❑ POVO.
+
+                                                                     ❑ ENTE INTANGÍVEL.
+                         CARACTERÍSTICAS:                            ❑ DETÉM O PODER.
+                                                                     ❑ BEM-COMUM.
+
+
+                                                              DEFINIÇÃO: É QUEM CONDUZ O ESTADO.
+
+      GOVERNO                                                        ❑ CONCRETIZA FUNÇÕES DO ESTADO.
+                                                                     ❑ AGENTE POLÍTICO.
+                         CARACTERÍSTICAS:                            ❑ EXERCE O PODER.
+                                                                     ❑ INSTRUMENTO DO ESTADO.
+
+
+                                                              DEFINIÇÃO: É O APARELHO DO ESTADO.
+
+ADMINISTRAÇÃO PÚBLICA
+                                                                     ❑ COLOCAR EM PRÁTICA FUNÇÕES POLÍTICAS.
+                                                                     ❑ EXECUTAR SERVIÇOS.
+                         CARACTERÍSTICAS:                            ❑ MÁQUINA DO ESTADO (“APARELHO”).
+                                                                     ❑ INSTRUMENTO DO GOVERNO.
+
+                                                                                                         ADMINISTRAÇÃO PÚBLICA
+                                                                        ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                  MODELO ONDE OS PODERES ESTAVAM CONCENTRADOS NAS MÃOS DO REI.
+     ESTADO ABSOLUTISTA                                                ❑ PODERES ABSOLUTOS.
+                                                                       ❑ ORIGEM DIVINA.
+                             CARACTERÍSTICAS:                          ❑ HEREDITARIEDADE.
+                                                                       ❑ REI CONFUNDIDO COM O ESTADO.
+
+
+                                                         MODELO BASEADO NA LIBERDADE DO INDIVÍDUO.
+
+       ESTADO LIBERAL                                             LIMITES AO PODER DO SOBERANO.
+
+                                                                       ❑ VALORIZAÇÃO DO INDIVÍDUO.
+                                                                       ❑ DIREITOS DE 1ª GERAÇÃO.
+                             CARACTERÍSTICAS:                          ❑ RESTRINGIR ATUAÇÃO DO ESTADO.
+                                                                       ❑ INEFICIENTE EM PROBLEMAS SOCIAIS.
+MODELOS DE ESTADO
+
+
+                                                 MODELO BASEADO NO PROVIMENTO DE DIREITOS SOCIAIS.
+     ESTADO DE BEM-ESTAR
+                                                                       ❑ GARANTIR DIREITOS SOCIAIS.
+    SOCIAL (WELFARE STATE)                                             ❑ DIREITOS DE 2ª GERAÇÃO.
+                             CARACTERÍSTICAS:                          ❑ INTERVENCIONISTA.
+                                                                       ❑ CRISE FISCAL.
+
+                                            MODELO BASEADO NA REGULAÇÃO E NOS PRINCÍPIOS LIBERAIS.
+                                                                       ❑ RESTABELECER O ESTADO MÍNIMO.
+      ESTADO NEOLIBERAL
+                                                                       ❑ ESTADO REGULADOR.
+                                                                       ❑ DELEGAÇÃO DE ATIVIDADES.
+                              CARACTERÍSTICAS:
+                                                                       ❑ PARTICIPAÇÃO DO SETOR PRIVADO.
+                                                                       ❑ ESTADO PRESTA SERVIÇOS              ADMINISTRAÇÃO PÚBLICA
+                             
+                                                                         ESSENCIAIS.                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                           DEFINIÇÃO GERAL: É O EXERCÍCIO DO PODER PELOS GOVERNANTES ATRAVÉS DA ACEITAÇÃO
+TIPOS DE DOMINAÇÃO         POR PARTE DOS INDIVÍDUOS GOVERNADOS.
+
+                                                           DEFINIÇÃO: É A DOMINAÇÃO BASEADA NA TRADIÇÃO.
+   DOMINAÇÃO TRADICIONAL
+                                                                         ❑ TRADIÇÃO.
+                                                                         ❑ COSTUMES.
+                                   CARACTERÍSTICAS:                      ❑ ARBITRARIEDADE.
+                                                                         ❑ ESTADOS ABSOLUTISTAS.
+
+                                                            DEFINIÇÃO: É A DOMINAÇÃO BASEADA NO CARISMA.
+                                                                            ❑ QUALIDADES DO LÍDER.
+                                                                            ❑ LÍDER VISTO COMO HERÓI.
+   DOMINAÇÃO CARISMÁTICA           ELEMENTOS BÁSICOS:
+                                                                            ❑ CARISMA.
+
+                                             DEFINIÇÃO: É A DOMINAÇÃO BASEADA NA LEGALIDADE DAS NORMAS.
+                                                                            ❑ LEIS E NORMAS.
+    DOMINAÇÃO RACIONAL-                                                     ❑ REGRAS E DISCIPLINA.
+                                      CARACTERÍSTICAS:
+           LEGAL                                                            ❑ PODER ESTÁ NO CARGO.
+
+
+                                                                                                           ADMINISTRAÇÃO PÚBLICA
+                                                                          ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                               É AQUELE EM QUE SE CONFUNDE A COISA PÚBLICA COM A PRIVADA.
+
+     PATRIMONIALISMO                                                    ❑ EXTENSÃO DO PODER DO SOBERANO.
+                                                                        ❑ ARBITRARIEDADE.
+                                                                        ❑ CLIENTELISMO.
+                                   CARACTERÍSTICAS:                     ❑ NEPOTISMO.
+                                                                        ❑ CORRUPÇÃO.
+                                                                        ❑ DOMINAÇÃO TRADICIONAL.
+
+                              É AQUELE PROPOSTO POR MAX WEBER QUE PROCURA COMBATER O PATRIMONIALISMO.
+       BUROCRACIA                                                       ❑ MERITOCRACIA.
+                                                                        ❑ PROFISSIONALIZAÇÃO.
+                                                                        ❑ PADRONIZAÇÃO.
+                                                                        ❑ NORMAS
+                                   CARACTERÍSTICAS:                     ❑ HIERARQUIA FUNCIONAL.
+                                                                        ❑ IMPESSOALIDADE.
+                                                                        ❑ FORMALIDADE.
+                                                                        ❑ DIVISÃO DO TRABALHO.
+
+                                     DISFUNÇÕES DA BUROCRACIA (PROBLEMAS DA BUROCRACIA)
+
+                                                                        ❑ EXCESSO DE FORMALISMO.
+                                                                        ❑ DIFICULDADE COM MUDANÇAS.
+                                                                        ❑ APEGO EXTREMO ÀS NORMAS.
+                                                                        ❑ LENTIDÃO
+                                   CARACTERÍSTICAS:
+                                                                        ❑ EXCESSO DE RIGIDEZ.
+                                                                        ❑ PERDA DA VISÃO MACRO.
+                                                                        ❑ CONTROLE DOS PROCESSOS (A PRIORI).
+                                                                        ❑ RESULTADOS EM SEGUNDO PLANO.
+MODELOS DE ADMINISTRAÇÃO PÚBLICA
+                                                                                                               ADMINISTRAÇÃO PÚBLICA
+                                                                              ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                              NASCEU COM O INTUITO DE COMBATER AS DISFUNÇÕES BUROCRÁTICAS.
+                                                                                        ❑ GERENCIALISMO PURO.
+   ADMINISTRAÇÃO PÚBLICA
+                                      É DIVIDIDA EM TRÊS MOVIMENTOS:                    ❑ CONSUMERISM.
+        GERENCIAL                                                                       ❑ PUBLIC SERVICE ORIENTATION (PSO).
+
+
+                                                                                  ❑ COMBATE À CRISE FISCAL.
+                                                                                  ❑ VISA REDUÇÃO DE CUSTOS.
+                                                                                  ❑ FOCO NA EFICIÊNCIA.
+            ATENÇÃO!!                 CARACTERÍSTICAS GERAIS:                     ❑ PDRAE (REFORMA 1995).
+ NÃO É UM ROMPIMENTO ABSOLUTO COM A                                               ❑ CONTROLE NOS RESULTADOS (A POSTERIORI).
+            BUROCRACIA.                                                           ❑ DESCENTRALIZAÇÃO DAS DECISÕES.
+                                                                                  ❑ FLEXIBILIDADE.
+
+
+                                                      NASCEU COM O INTUITO DE DIMINUIR CUSTOS DA CRISE FISCAL.
+
+                                                    PRIMEIRAS REFORMAS OCORRERAM NA INGLATERRA E NOS EUA.
+
+     GERENCIALISMO PURO                                                           ❑ REDUÇÃO DE GASTOS PÚBLICOS.
+                                                                                  ❑ PRIVATIZAÇÕES EM MASSA.
+                                                                                  ❑ DESREGULAMENTAÇÃO.
+                                             CARACTERÍSTICAS:                     ❑ REDUÇÃO DE CARGOS.
+                                                                                  ❑ UTILIZAÇÃO DE FERRAMENTAS GERENCIAIS.
+                                                                                  ❑ USUÁRIO: CONTRIBUINTE.
+                                                                                  ❑ FOCO NA EFICIÊNCIA.
+
+                                                                                  ❑ FALTA DE EFETIVIDADE DAS AÇÕES.
+                                                     CRÍTICAS:                    ❑ FOCO EXCESSIVO EM REDUÇÃO DE CUSTOS.
+                                                                                  ❑ USUÁRIO É MERO CONTRIBUINTE.
+
+MODELOS DE ADMINISTRAÇÃO PÚBLICA
+                                                                                                            ADMINISTRAÇÃO PÚBLICA
+                                                                           ESTRATÉGIA CONCURSOS
+
+
+---
+
+                                                            NASCEU COM A VISÃO DE QUE O CUSTO NÃO É TUDO.
+       CONSUMERISM
+                                                                   FOCO DEVERIA SER NO USUÁRIO DO SERVIÇO.
+
+                                                                                    ❑ SATISFAÇÃO DO USUÁRIO (CLIENTE-USUÁRIO).
+                                                                                    ❑ FOCO NA QUALIDADE DOS SERVIÇOS.
+                                                                                    ❑ ESTÍMULO À CONCORRÊNCIA (COMPETIÇÃO)
+                                          CARACTERÍSTICAS:                          ❑ DESCENTRALIZAÇÃO ADMINISTRATIVA.
+                                                                                    ❑ CRIAÇÃO DE EMPRESAS PÚBLICAS E AUTARQUIAS.
+                                                                                    ❑ USUÁRIO: CLIENTE.
+                                                                                    ❑ FOCO NA EFETIVIDADE.
+
+
+                                                                                   ❑ NEM TODOS SERVIÇOS PODEM TER COMPETIÇÃO.
+                                              CRÍTICAS:                            ❑ USUÁRIO NÃO PODE SER TRATADO COMO CLIENTE.
+
+
+                                                                           É O MOVIMENTO VIGENTE.
+
+ PUBLIC SERVICE ORIENTATION
+                                                  SUPERAR A IDEIA DE TRATAR USUÁRIOS APENAS COMO CLIENTES.
+           (PSO)
+                                                                        O TERMO CIDADÃO GANHA FORÇA.
+
+                                                                                      ❑ FOCO NA TRANSPARÊNCIA.
+                                                                                      ❑ FISCALIZAÇÃO DA MÁQUINA PÚBLICA.
+                                                                                      ❑ PARTICIPAÇÃO POPULAR.
+                                          CARACTERÍSTICAS:                            ❑ ACCOUNTABILITY E CIDADANIA.
+                                                                                      ❑ DESCENTRALIZAÇÃO
+                                                                                      ❑ USUÁRIO: CIDADÃO.
+MODELOS DE ADMINISTRAÇÃO PÚBLICA                                                      ❑ FOCO NA EQUIDADE (ISONOMIA).
+
+                                                                                                                ADMINISTRAÇÃO PÚBLICA
+                                                                               ESTRATÉGIA CONCURSOS
+
+
+---

@@ -1,0 +1,528 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+QUESTÕES COMENTADAS
+ESTOQUES - II
+BANCAS DIVERSAS - IV
+                                               Prof. Ricardo Campanario
+
+
+
+
+          https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) São problemas muito comuns no
+     controle de estoques, exceto:
+     a) Falta de estoques.
+     b) Excesso de material estocado.
+     c) Atraso nos pagamentos de materiais já recebidos.
+     d) Desorganização e falta de controle de estoque na entrada e saída de produtos.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     01. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) São problemas muito comuns no
+     controle de estoques, exceto:
+     a) Falta de estoques.
+     b) Excesso de material estocado.
+     c) Atraso nos pagamentos de materiais já recebidos.
+     d) Desorganização e falta de controle de estoque na entrada e saída de produtos.
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Todo item do estoque, sujeito a
+     _______________, será contado necessariamente duas vezes. A primeira contagem será
+     realizada pela 1ª equipe, a qual poderá efetuá-la imediatamente após ter fixado ao lote
+     o cartão de ________________. E, tratando-se do _______________, existem dois tipos: os
+     gerais, que são efetuados ao final do exercício fiscal, e os rotativos, que visam a
+     distribuir, com maior frequência, as contagens ao longo do ano porém dirigidas a uma
+     menor quantidade de itens. Assinale a alternativa que completa corretamente as lacunas
+     apresentadas.
+     a) registro.
+     b) inventário.
+     c) controle empírico.
+     d) controle de qualidade.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Inventário
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente
+         efetuado uma vez ao ano e no qual todos os itens são contados de uma única vez. Em
+         seguida são efetuadas as comparações com os sistemas gerenciais e contábeis da
+         organização.
+       ✓ Rotativo: nesta modalidade alguns itens (os mais significativos, que representam os
+         maiores valores de estoque e são estratégicos e imprescindíveis para a produção) são
+         inventariados mais de uma vez por ano ou sempre que necessário. Não exigem a
+         completa paralização da área inventariada.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     02. (FUNDEP/Pref. Mun. Ervália-MG/Almoxarife/2019) Todo item do estoque, sujeito a
+     _______________, será contado necessariamente duas vezes. A primeira contagem será
+     realizada pela 1ª equipe, a qual poderá efetuá-la imediatamente após ter fixado ao lote
+     o cartão de ________________. E, tratando-se do _______________, existem dois tipos: os
+     gerais, que são efetuados ao final do exercício fiscal, e os rotativos, que visam a
+     distribuir, com maior frequência, as contagens ao longo do ano porém dirigidas a uma
+     menor quantidade de itens. Assinale a alternativa que completa corretamente as lacunas
+     apresentadas.
+     a) registro.
+     b) inventário.                        Todo item do estoque, sujeito a INVENTÁRIO, será contado
+     c) controle empírico.                 necessariamente duas vezes. A primeira contagem será realizada pela
+                                           1ª equipe, a qual poderá efetuá-la imediatamente após ter fixado ao
+     d) controle de qualidade.             lote o cartão de INVENTÁRIO. E, tratando-se do INVENTÁRIO,
+     GABARITO - B                          existem dois tipos: os gerais, que são efetuados ao final do exercício
+                                                    fiscal, e os rotativos, que visam a distribuir, com maior frequência, as
+                                                    contagens ao longo do ano porém dirigidas a uma menor quantidade
+                                                    de itens.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FUNDATEC/CM Seberi-RS/Oficial Legislativo/2019) O Sistema Just In Time surgiu na década de
+     70 no Japão, sendo gradativamente adotado pelas indústrias ocidentais a partir do início dos anos
+     80. O Just In Time é uma filosofia relacionada à gestão de materiais, cujo conceito principal é:
+     a) Possuir estoques em nível intermediário, pois nessa filosofia as empresas trabalham de acordo com
+     a ideia de produção empurrada de produtos para o mercado.
+     b) Manter estoques altos, tendo em vista reduzir os riscos de desabastecimento dos pedidos dos
+     clientes por falta de materiais para produção.
+     c) Manter estoques baixos, nada além do necessário, pois existe a ideia de produção puxada, de
+     acordo com a demanda pelo produto a ser fabricado.
+     d) Possuir estoques baixos se a matéria-prima for de grande abundância no mercado, mantendo
+     estoques altos apenas se o material apresentar pouca oferta de parte dos fornecedores.
+     e) Trabalhar com a ideia de baixos estoques somente se a empresa possuir no mínimo três
+     fornecedores para cada tipo de matéria-prima.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Just in Time
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que já tem demanda
+         assegurada. É popularmente conhecido por aquele sistema em que a demanda "puxa" a produção (ao contrário
+         dos sistemas que vimos até agora, inclusive o MRP), ou seja, a fábrica apenas se mobiliza, planeja e produz aquilo
+         que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de 80, trazendo a
+         meta do "estoque zero". O JIT é comumente associado a expressões (que aparecem muito em provas!) como
+         "produção sem estoques", "eliminação do desperdício", "melhora contínua de processos", etc.
+
+       ❑ Veja a seguir alguns dos principais objetivos do JIT:
+
+                    - minimização dos prazos de fabricação
+                    - manutenção de inventários mínimos
+                    - flexibilização da produção com redução do tempo de preparação de máquinas
+                    - redução ao mínimo do tamanho dos lotes
+                    - produção "puxada" e não empurrada
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     03. (FUNDATEC/CM Seberi-RS/Oficial Legislativo/2019) O Sistema Just In Time surgiu na década de
+     70 no Japão, sendo gradativamente adotado pelas indústrias ocidentais a partir do início dos anos
+     80. O Just In Time é uma filosofia relacionada à gestão de materiais, cujo conceito principal é:
+     a) Possuir estoques em nível intermediário, pois nessa filosofia as empresas trabalham de acordo com
+     a ideia de produção empurrada de produtos para o mercado.
+     b) Manter estoques altos, tendo em vista reduzir os riscos de desabastecimento dos pedidos dos
+     clientes por falta de materiais para produção.
+     c) Manter estoques baixos, nada além do necessário, pois existe a ideia de produção puxada, de
+     acordo com a demanda pelo produto a ser fabricado.
+     d) Possuir estoques baixos se a matéria-prima for de grande abundância no mercado, mantendo
+     estoques altos apenas se o material apresentar pouca oferta de parte dos fornecedores.
+     e) Trabalhar com a ideia de baixos estoques somente se a empresa possuir no mínimo três
+     fornecedores para cada tipo de matéria-prima.
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (INAZ DO PARÁ/CRF AC/Auxiliar Administrativo/2019) Dentro do cenário da gestão
+     de material, no que se fundamenta e análise ABC?
+     a) Em uma verificação entre os itens estocados, de quais apresentam uma maior ou
+     menor variação na qualidade dos seus respectivos insumos.
+     b) Trata-se de uma análise gráfica que demonstra, em um determinado período de
+     tempo, quais os fornecedores cadastrados que mais ou que menos atenderam a
+     empresa.
+     c) Uma análise feita através de quadros demonstrativos que identifica o desempenho de
+     comercialização de insumos e produtos acabados num determinado espaço de tempo.
+     d) Consiste na verificação, em determinado espaço de tempo, do consumo, em valor
+     monetário ou quantidade, dos itens constantes em estoque.
+     e) Se fundamenta em determinar o nível de qualidade de insumos utilizados na produção,
+     identificando como “A” aqueles de melhor qualidade e “C” de pior qualidade.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+Classificação ABC
+❑ A curva ABC é um instrumento fundamental para o administrador. Permite identificar
+  aqueles itens que merecem foco e tratamento adequado em relação a sua
+  administração. A curva ABC é obtida por meio da ordenação dos itens conforme sua
+  importância relativa em valor.
+
+
+
+
+     Classe dos Materiais     % em Número de Itens (eixo x)       % em Importância (eixo y)
+              A                         20%                                80%
+              B                         30%                                15%
+              C                         50%                                 5%
+                             https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     04. (INAZ DO PARÁ/CRF AC/Auxiliar Administrativo/2019) Dentro do cenário da gestão
+     de material, no que se fundamenta e análise ABC?
+     a) Em uma verificação entre os itens estocados, de quais apresentam uma maior ou
+     menor variação na qualidade dos seus respectivos insumos.
+     b) Trata-se de uma análise gráfica que demonstra, em um determinado período de
+     tempo, quais os fornecedores cadastrados que mais ou que menos atenderam a
+     empresa.
+     c) Uma análise feita através de quadros demonstrativos que identifica o desempenho de
+     comercialização de insumos e produtos acabados num determinado espaço de tempo.
+     d) Consiste na verificação, em determinado espaço de tempo, do consumo, em valor
+     monetário ou quantidade, dos itens constantes em estoque.
+     e) Se fundamenta em determinar o nível de qualidade de insumos utilizados na produção,
+     identificando como “A” aqueles de melhor qualidade e “C” de pior qualidade.
+     GABARITO - D
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/MPC TCE PA/Assistente Ministerial/2019) A secretaria de transportes de
+     determinado estado da Federação optou por manter em estoque pneus de veículos
+     para manutenção da frota estadual pelo período de dois anos. Essa decisão foi tomada
+     em razão de o preço do produto estar sujeito à variação do preço do petróleo, que tem
+     aumentado constantemente. Nesse caso, a opção da secretaria representa uma
+     vantagem para o estado porque:
+     a) a manutenção de grandes estoques implica economia de escala.
+     b) os estoques protegem as organizações dos atrasos nas entregas por erros de
+     fabricação.
+     c) os estoques podem proteger as organizações de eventuais oscilações de mercado.
+     d) os custos de manutenção dos estoques sempre compensam as oscilações de preços.
+     e) a manutenção do estoque de pneus é uma oportunidade de investimento para a
+     secretaria de transportes.
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Tipos de Estoques
+     ✓     ESTOQUE DE SEGURANÇA (OU MÍNIMO): Quantidade mínima possível capaz de suportar um tempo de ressuprimento (ou
+           tempo de reposição) superior ao programado ou um consumo desproporcional . Ligado ao Nível de Atendimento.
+
+     ✓     ESTOQUE REAL (ER): É a quantidade de material existente em estoque no almoxarifado da empresa.
+
+     ✓     ESTOQUE VIRTUAL (EV): É o estoque real acrescido das quantidades de encomendas em andamento, sejam os
+           fornecimentos em atraso, os dentro do prazo mas ainda não entregues e os entregues porém ainda em inspeção.
+
+     ✓     ESTOQUE DE ANTECIPAÇÃO: São criados antecipando-se uma demanda futura como, por exemplo, uma época de pico de
+           vendas (sazonalidade), um programa de promoções, férias coletivas ou ameaça de greve, etc.
+
+     ✓     ESTOQUE DE TAMANHO DO LOTE: Composto por itens comprados ou fabricados em quantidades maiores que o
+           necessário.
+
+     ✓     ESTOQUE DE TRANSPORTE: Existem pela necessidade de se transportar itens de um local ao outro, por exemplo, da fábrica
+           ao centro de distribuição ou mesmo a um cliente.
+
+     ✓     ESTOQUE HEDGE: Envolve produtos que possam sofrer bruscas variações de preço de acordo com a oferta e demanda
+           mundiais.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                 https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     05. (CEBRASPE/MPC TCE PA/Assistente Ministerial/2019) A secretaria de transportes de
+     determinado estado da Federação optou por manter em estoque pneus de veículos
+     para manutenção da frota estadual pelo período de dois anos. Essa decisão foi tomada
+     em razão de o preço do produto estar sujeito à variação do preço do petróleo, que tem
+     aumentado constantemente. Nesse caso, a opção da secretaria representa uma
+     vantagem para o estado porque:
+     a) a manutenção de grandes estoques implica economia de escala.
+     b) os estoques protegem as organizações dos atrasos nas entregas por erros de
+     fabricação.
+     c) os estoques podem proteger as organizações de eventuais oscilações de mercado.
+     d) os custos de manutenção dos estoques sempre compensam as oscilações de preços.
+     e) a manutenção do estoque de pneus é uma oportunidade de investimento para a
+     secretaria de transportes.
+     GABARITO - C
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEFETMINAS/IFNMG/Assistente/2019) Para receber, conferir, armazenar e
+     conservar materiais e outros suprimentos, é necessária, inicialmente, a definição de
+     funções principais do controle de estoques, dentre as quais:
+     a) determinar o número de itens, a periodicidade e a quantidade de compra.
+     b) acionar os departamentos organizacionais para compras e solicitações de estoque.
+     c) selecionar os materiais para descarte, além de equipamentos e suprimentos obsoletos.
+     d) aumentar o nível de compra para sempre atender às necessidades dos clientes
+     internos.
+     e) manter no estoque itens obsoletos e danificados, a fim de proceder um controle
+     efetivo.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     06. (CEFETMINAS/IFNMG/Assistente/2019) Para receber, conferir, armazenar e
+     conservar materiais e outros suprimentos, é necessária, inicialmente, a definição de
+     funções principais do controle de estoques, dentre as quais:
+     a) determinar o número de itens, a periodicidade e a quantidade de compra.
+     b) acionar os departamentos organizacionais para compras e solicitações de estoque.
+     c) selecionar os materiais para descarte, além de equipamentos e suprimentos obsoletos.
+     d) aumentar o nível de compra para sempre atender às necessidades dos clientes
+     internos.
+     e) manter no estoque itens obsoletos e danificados, a fim de proceder um controle
+     efetivo.                   Entre as principais funções do controle de estoques estão a determinação do volume, a periodicidade da compra e o tamanho
+     GABARITO - A               do lote.
+                                De acordo com Marco Aurélio Dias para organizar um setor de controle de estoques, a organização deve inicialmente
+                                              descrever suas funções principais. Vejamos quais são elas:
+
+                                              •      1.Determinar “o que” deve permanecer em estoque: número de itens;
+                                              •      2.Determinar “quando” se devem reabastecer os estoques: periodicidade;
+                                              •      3.Determinar “quanto” de estoque será necessário para um período predeterminado: quantidade de compra;
+                                              •      4. Acionar o departamento de compras para executar aquisição de estoque: solicitação de compras;
+                                              •      5. Receber, armazenar e guardar os materiais estocados de acordo com as necessidades;
+                                              •      6. Controlar os estoques em termos de quantidade e valor; fornecer informações sobre a posição do estoque;
+                                              •      7.Manter inventários periódicos para avaliação das quantidades e estados dos materiais estocados;
+Administração de Materiais para Concursos     •      8. Identificar e retirar do estoque os itens obsoletos e danificados.
+Prof. Ricardo Campanario
+                                                          https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O nível de serviço garante uma
+     boa gestão de estoque. Dessa forma, o IBGE admite que um determinado item com
+     frequência de 35 reposições anuais possa ter 7 faltas. Assinale a alternativa que
+     representa o nível de serviço desse item.
+     a) 28%.
+     b) 20%.
+     c) 80%.
+     d) 42%.
+     e) 55%.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Nível de Serviço
+       Fómula
+
+        O Nível de Serviço nada mais é do que o percentual de pedidos/requisições de
+        materiais que são atendidos de maneira satisfatória pela área de administração de
+        materiais.
+
+
+       ❑ A fórmula é bastante simples, veja abaixo:
+
+
+                   Nível de Serviço = Pedidos Atendidos Satisfatoriamente / Pedidos Totais
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     07. (INSTITUTO AOCP/IBGE/Analista Censitário/2019) O nível de serviço garante uma
+     boa gestão de estoque. Dessa forma, o IBGE admite que um determinado item com
+     frequência de 35 reposições anuais possa ter 7 faltas. Assinale a alternativa que
+     representa o nível de serviço desse item.
+     a) 28%.
+     b) 20%.
+     c) 80%.                   Dessa forma, o nível de serviço no caso trazido pelo enunciado é:
+     d) 42%.                   Nível de Serviço = Pedidos atendidos satisfatoriamente / Pedidos Totais
+     e) 55%.                   Nível de Serviço = (35-7)/35 = 28/35 = 80%
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Cerquilho-SP/Almoxarife/2019) O documento “nota fiscal de
+     entrada” serve para:
+     a) aumentar a classificação ABC do estoque.
+     b) diminuir o estoque físico e contábil.
+     c) aumentar o estoque físico e contábil.
+     d) diminuir o estoque físico e financeiro.
+     e) aumentar o estoque contábil e fiscal.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Cerquilho-SP/Almoxarife/2019) O documento “nota fiscal de
+     entrada” serve para:
+     a) aumentar a classificação ABC do estoque.
+     b) diminuir o estoque físico e contábil.
+     c) aumentar o estoque físico e contábil.
+     d) diminuir o estoque físico e financeiro.
+     e) aumentar o estoque contábil e fiscal.
+     GABARITO - C
+
+     A nota fiscal de entrada é o documento fiscal emitido pelo fornecedor por meio do
+     qual comprova a entrada do material na organização.
+     Dessa forma, com o recebimento dos materiais ocorrerá um aumento do estoque físico e
+     assim consequentemente do valor contábil em estoque.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Mogi das Cruzes-SP/Administrador Hospitalar/2019) Just in time é um
+     método muito difundido no setor de gestão de materiais e logística, com a finalidade de eliminar as
+     perdas e os desperdícios de materiais por meio da constante melhoria na produtividade. Leia as
+     afirmações a seguir e selecione a que corretamente expressa a filosofia do método mencionado.
+     a) Busca incessante pela qualidade todas as vezes que a requisição de materiais chega à área de
+     gestão dos estoques.
+     b) Manutenção do estoque mínimo necessário para cada item existente no estoque e melhoria da
+     qualidade, tendendo a defeito zero.
+     c) Verificação contínua dos estoques mínimos com a finalidade de não zerar nenhum item requisitado,
+     para além da elaboração de relatórios de custo.
+     d) Trabalho estatístico avançado do setor de materiais e logística, com o objetivo de obter a maior
+     quantidade possível de cada item, no momento de chegada ao estoque.
+     e) Uma filosofia de trabalho do setor de materiais e logística fortemente influenciada pelos ideais
+     orientais de equilíbrio de custos, em particular para serviços de saúde.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Just in Time
+       ❑ O sistema Just in Time (ou JIT ou mesmo "sistema Toyota") consiste em produzir somente o que já tem demanda
+         assegurada. É popularmente conhecido por aquele sistema em que a demanda "puxa" a produção (ao contrário
+         dos sistemas que vimos até agora, inclusive o MRP), ou seja, a fábrica apenas se mobiliza, planeja e produz aquilo
+         que o mercado está demandando.
+
+       ❑ A ideia surgiu no Japão nos anos 70 e foi assimilada no mundo ocidental ao longo da década de 80, trazendo a
+         meta do "estoque zero". O JIT é comumente associado a expressões (que aparecem muito em provas!) como
+         "produção sem estoques", "eliminação do desperdício", "melhora contínua de processos", etc.
+
+       ❑ Veja a seguir alguns dos principais objetivos do JIT:
+
+                    - minimização dos prazos de fabricação
+                    - manutenção de inventários mínimos
+                    - flexibilização da produção com redução do tempo de preparação de máquinas
+                    - redução ao mínimo do tamanho dos lotes
+                    - produção "puxada" e não empurrada
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                  https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Mogi das Cruzes-SP/Administrador Hospitalar/2019) Just in time é um
+     método muito difundido no setor de gestão de materiais e logística, com a finalidade de eliminar as
+     perdas e os desperdícios de materiais por meio da constante melhoria na produtividade. Leia as
+     afirmações a seguir e selecione a que corretamente expressa a filosofia do método mencionado.
+     a) Busca incessante pela qualidade todas as vezes que a requisição de materiais chega à área de
+     gestão dos estoques.
+     b) Manutenção do estoque mínimo necessário para cada item existente no estoque e melhoria da
+     qualidade, tendendo a defeito zero.
+     c) Verificação contínua dos estoques mínimos com a finalidade de não zerar nenhum item requisitado,
+     para além da elaboração de relatórios de custo.
+     d) Trabalho estatístico avançado do setor de materiais e logística, com o objetivo de obter a maior
+     quantidade possível de cada item, no momento de chegada ao estoque.
+     e) Uma filosofia de trabalho do setor de materiais e logística fortemente influenciada pelos ideais
+     orientais de equilíbrio de custos, em particular para serviços de saúde.
+     GABARITO - B
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (FEPESE/Pref. Mun. Caxambu do Sul-SC/Assistente Administrativo/2019) Assinale a
+     alternativa que aponta rotina administrativa típica em organizações públicas.
+     a) Organização e controle de estoque.
+     b) Organização de eventos de integração dos servidores públicos com os usuários de
+     serviços públicos nos finais de semana.
+     c) Organização de horário para prática e culto religioso durante o expediente.
+     d) Realização de revista física nos funcionários.
+     e) Realização de exercícios físicos durante o expediente.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     10. (FEPESE/Pref. Mun. Caxambu do Sul-SC/Assistente Administrativo/2019) Assinale a
+     alternativa que aponta rotina administrativa típica em organizações públicas.
+     a) Organização e controle de estoque.
+     b) Organização de eventos de integração dos servidores públicos com os usuários de
+     serviços públicos nos finais de semana.
+     c) Organização de horário para prática e culto religioso durante o expediente.
+     d) Realização de revista física nos funcionários.
+     e) Realização de exercícios físicos durante o expediente.
+     GABARITO - A
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

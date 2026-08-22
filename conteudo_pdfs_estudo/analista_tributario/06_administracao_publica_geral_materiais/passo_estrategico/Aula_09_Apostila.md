@@ -1,0 +1,1009 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 09_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 08
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                         Geral
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 08
+
+                                                 SIMULADO
+Considerações iniciais 
+Simulado 
+  Simulado - sem comentários 
+  Questão desafio – Sem comentário 
+  Gabarito do simulado 
+  Simulado - com comentários 
+  Questão desafio – Comentada 
+  Considerações Finais 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                                           1
+          www.estrategiaconcursos.com.br                                                                                          24
+                                          
+
+
+---
+
+ Abraão Pereira
+ Aula 08
+
+                                CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+Prontos para o nosso terceiro simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+                                                                                        Bom simulado!!!
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                2
+       www.estrategiaconcursos.com.br                                                               24
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+1. (Administração Geral / Passo Estratégico / 2024)
+Considerando o processo de controle organizacional, analise as seguintes afirmações e
+selecione a alternativa correta:
+I. O controle eficaz em uma organização deve ser baseado em critérios como precisão,
+flexibilidade e rapidez, sendo aplicável apenas ao nível operacional e estratégico.
+II. O controle simultâneo é aquele que ocorre durante a execução das atividades,
+permitindo ajustes imediatos quando há desvios em relação ao plano.
+III. O controle preventivo busca evitar problemas antes que eles ocorram, sendo aplicado
+principalmente em atividades de produção, onde a padronização é essencial para
+minimizar erros.
+a) Apenas a afirmativa II está correta.
+b) Apenas as afirmativas I e III estão corretas.
+c) Apenas as afirmativas II e III estão corretas.
+d) Todas as afirmativas estão corretas.
+e) Nenhuma das afirmativas está correta.
+
+
+2. (Administração Geral / Passo Estratégico / 2024)
+Sobre os indicadores de desempenho organizacional, assinale a alternativa que melhor
+descreve os componentes essenciais e suas finalidades:
+a) Indicadores de desempenho devem se restringir a medidas qualitativas, uma vez que os
+aspectos quantitativos são inadequados para avaliar o desempenho organizacional de
+forma aprofundada.
+b) A seletividade dos indicadores significa que a organização deve escolher os parâmetros
+que representem toda a diversidade de atividades organizacionais, sem exclusões.
+c) Indicadores de desempenho devem incluir uma fórmula de cálculo, um padrão de
+comparação e uma meta clara, permitindo avaliar se o desempenho atual está alinhado
+com os objetivos organizacionais esperados.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    3
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+d) Os indicadores de desempenho devem ser modificados com frequência para manter a
+flexibilidade do sistema, mesmo que isso afete sua comparabilidade ao longo do tempo.
+e) A representatividade dos indicadores é menos relevante do que sua economicidade,
+visto que os custos associados ao monitoramento precisam ser minimizados.
+
+
+3. (Administração Geral / Passo Estratégico / 2024)
+Considerando o impacto da cultura organizacional sobre o comportamento dos
+funcionários, selecione a alternativa correta:
+a) A cultura organizacional de uma empresa sempre deve ser mantida estável ao longo do
+tempo para preservar a identidade da organização e evitar a necessidade de adaptações a
+novas realidades de mercado.
+b) A cultura organizacional reflete valores e normas explícitos, sendo um fenômeno visível
+e concreto que influencia exclusivamente o comportamento das lideranças.
+c) Subculturas, embora possam existir dentro de uma organização, são sempre nocivas ao
+ambiente de trabalho, pois geram conflitos e comprometem a coesão entre os
+colaboradores.
+d) A contracultura pode surgir como uma resposta à cultura dominante, representando
+valores contrários aos predominantes na organização e, às vezes, questionando normas e
+comportamentos vigentes.
+e) Artefatos culturais, como cerimônias e símbolos, são os elementos mais profundos e
+duradouros da cultura organizacional, determinando o comportamento dos funcionários de
+forma inconsciente.
+
+
+4. (Administração Geral / Passo Estratégico / 2024)
+Sobre o controle organizacional e seu efeito no comportamento organizacional, considere
+as alternativas a seguir e assinale a correta:
+a) O controle formal, exercido por regras e procedimentos, é mais eficaz do que o controle
+social, uma vez que a autoridade institucional é o único meio legítimo de controle dentro
+das organizações.
+b) O controle social, exercido pela conformidade com normas e valores compartilhados,
+pode ser tão poderoso quanto o controle formal, influenciando o comportamento de
+maneira sutil e promovendo o autocontrole.
+c) A supervisão direta é uma prática de controle organizacional que deve ser evitada, pois
+impede o desenvolvimento de autonomia e independência dos colaboradores.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    4
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+d) Em estruturas de controle organizacional, a flexibilidade deve ser reduzida ao mínimo
+para garantir que os procedimentos sejam seguidos de maneira uniforme e previsível.
+e) O controle preventivo deve ocorrer após a realização das atividades para avaliar a
+eficácia dos processos e corrigir eventuais desvios.
+
+
+5. (Administração Geral / Passo Estratégico / 2024)
+Em relação aos fatores que influenciam o clima organizacional, selecione a alternativa
+correta:
+a) O clima organizacional é definido pela estrutura formal e pelos processos de controle da
+organização, sendo diretamente determinado pelas normas e políticas corporativas.
+b) O clima organizacional é estável e reflete os valores centrais da organização, alterando-
+se apenas com grandes mudanças estruturais ou culturais.
+c) Indicadores de clima organizacional, como a rotatividade de pessoal e o índice de
+absenteísmo, são utilizados para avaliar a satisfação dos colaboradores e identificar
+possíveis áreas de melhoria no ambiente de trabalho.
+d) A percepção coletiva dos funcionários sobre o ambiente de trabalho é menos relevante
+para o clima organizacional do que as diretrizes estabelecidas pela alta administração.
+e) O clima organizacional é determinado exclusivamente pelas características pessoais dos
+funcionários, refletindo suas atitudes e motivações individuais.
+
+
+6. (Administração Geral / Passo Estratégico / 2024)
+Sobre os estilos de tomada de decisão e sua aplicação em ambientes organizacionais,
+analise as alternativas e assinale a opção correta:
+a) O estilo analítico caracteriza-se por uma abordagem meticulosa e adaptável, sendo ideal
+para gestores que avaliam muitas alternativas e buscam a solução que maximize os
+resultados, principalmente em situações de alta complexidade.
+b) O estilo diretivo é considerado o mais adequado em ambientes dinâmicos, pois privilegia
+a análise detalhada e busca a resolução de longo prazo, envolvendo múltiplas alternativas.
+c) O estilo conceitual, embora tenha foco em inovação e visão de longo prazo, é
+frequentemente associado a uma abordagem centralizadora, o que limita sua aplicação em
+empresas de tecnologia e inovação.
+d) O estilo comportamental prioriza a eficiência, sendo indicado para contextos em que a
+análise rápida e a execução eficiente são requisitos centrais.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    5
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+e) O estilo analítico evita explorar múltiplas alternativas e é caracterizado por um foco em
+decisões rápidas, sem adaptação ao ambiente.
+
+
+7. (Administração Geral / Passo Estratégico / 2024)
+Em relação ao BPM (Business Process Management) e suas fases, assinale a alternativa
+correta sobre o ciclo de vida dos processos de acordo com a versão 4.0 do BPM CBOK:
+a) O ciclo de vida do BPM inicia-se com a fase de Alinhamento à Estratégia e Metas, onde
+os processos são ajustados para atender ao cliente e alinhar-se aos objetivos
+organizacionais.
+b) A fase de Medição do Sucesso ocorre antes da Implantação de Mudanças, assegurando
+que todas as métricas estejam configuradas e em conformidade com o planejamento
+estratégico.
+c) Na fase de Desenvolvimento de Iniciativas, são implementadas as mudanças planejadas,
+assegurando-se que os processos atinjam os resultados esperados.
+d) A Medição do Sucesso é uma etapa final onde são implementadas ações corretivas para
+garantir que os processos estejam completamente padronizados.
+e) O ciclo de vida do BPM encerra-se após a Implantação de Mudanças, momento em que
+os processos são estabilizados e as operações passam a se concentrar na rotina.
+
+
+8. (Administração Geral / Passo Estratégico / 2024)
+A Sobre o uso da Matriz GUT (Gravidade, Urgência e Tendência) como ferramenta de
+priorização no gerenciamento de processos, analise as afirmativas e assinale a correta:
+a) A matriz GUT é uma ferramenta exclusivamente qualitativa, pois utiliza critérios subjetivos
+para avaliar problemas organizacionais com foco em decisões intuitivas.
+b) A aplicação da matriz GUT é restrita a processos de produção, pois ela requer análises
+complexas que não se aplicam a atividades de apoio administrativo.
+c) A Matriz GUT permite a priorização de problemas baseando-se em uma análise
+quantitativa dos custos envolvidos em cada possível ação.
+d) A Matriz GUT utiliza critérios de gravidade, urgência e tendência para classificar e
+priorizar problemas, sendo aplicável em diversas áreas organizacionais, além do
+gerenciamento de processos.
+e) A Matriz GUT mede a eficiência de processos, destacando os resultados que mais
+contribuem para o desempenho financeiro da organização.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     6
+        www.estrategiaconcursos.com.br                                                    24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+9. (Administração Geral / Passo Estratégico / 2024)
+No que diz respeito ao modelo de racionalidade limitada na tomada de decisão, assinale
+a alternativa correta sobre suas características e implicações no processo decisório:
+a) O modelo de racionalidade limitada considera que os tomadores de decisão possuem
+todas as informações necessárias para escolher a melhor alternativa, permitindo decisões
+totalmente otimizadas.
+b) A racionalidade limitada implica que os gestores devem maximizar os resultados,
+utilizando todos os recursos disponíveis para avaliar exaustivamente cada opção de
+decisão.
+c) A principal limitação do modelo é o tempo de decisão, que pode ser excessivamente
+prolongado quando as alternativas são reduzidas.
+d) O modelo de racionalidade limitada reconhece que os decisores têm capacidade
+cognitiva e informações limitadas, o que os leva a buscar soluções satisfatórias e não
+necessariamente ideais.
+e) No modelo de racionalidade limitada, a escolha é sempre baseada em critérios objetivos
+e indicadores de desempenho que maximizam os resultados da organização.
+
+
+10.    (Administração Geral / Passo Estratégico / 2024)
+Em relação ao Método de Análise e Solução de Problemas (MASP) e suas etapas, analise
+as afirmativas abaixo e escolha a alternativa correta sobre o papel da etapa de
+padronização:
+a) A padronização visa analisar a causa raiz do problema, permitindo que os gestores
+definam ações preventivas de forma recorrente.
+b) Durante a padronização, o problema é verificado e suas causas são removidas através
+de um sistema contínuo de análise de falhas e correção.
+c) A padronização consiste em implementar as soluções e avaliar os resultados para garantir
+que o problema não ocorra em atividades futuras.
+d) O objetivo da padronização é unificar procedimentos para manter as melhores práticas,
+evitando que o problema solucionado volte a ocorrer no futuro.
+e) Na etapa de padronização, os resultados são descartados para que novas abordagens
+possam ser experimentadas em problemas similares, promovendo inovação contínua.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    7
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+Questão desafio – Sem comentário
+
+(Administração Geral / Passo Estratégico / 2024)
+A empresa XPTO, do setor de tecnologia, está passando por uma fase de crescimento
+acelerado, o que aumentou a complexidade de seus processos internos. Para responder
+ao novo cenário, a empresa decidiu implementar o BPM (Business Process Management)
+visando otimizar seus processos e, ao mesmo tempo, alinhar a cultura organizacional às
+demandas de inovação e agilidade. No entanto, no meio do projeto, surgiram conflitos
+entre diferentes áreas da organização. A equipe de TI, responsável pela implementação
+técnica do BPM, está enfrentando resistência da equipe de operações, que considera a
+nova abordagem um entrave ao ritmo de trabalho.
+Para contornar esses desafios, a diretoria criou um comitê interdisciplinar, que adotou a
+Matriz GUT (Gravidade, Urgência e Tendência) como ferramenta de priorização dos
+problemas e o método MASP (Método de Análise e Solução de Problemas) para a
+resolução dos mesmos. A expectativa é que, ao final do projeto, os processos estejam
+padronizados e que a cultura organizacional se adapte aos novos padrões de agilidade e
+inovação:
+   1. Como a abordagem BPM pode beneficiar a empresa XPTO, considerando o contexto
+      de crescimento e a necessidade de agilidade e inovação? Justifique com base nos
+      princípios do BPM e na gestão de processos.
+   2. De que forma a Matriz GUT e o MASP, quando aplicados em conjunto, podem ajudar
+      o comitê interdisciplinar a resolver os problemas de resistência e conflitos entre as
+      áreas? Explique como cada método contribui para a solução desses problemas.
+   3. Como a cultura organizacional pode influenciar a implementação do BPM na
+      empresa XPTO? Em sua resposta, considere os desafios culturais e de
+      comportamento organizacional envolvidos na adoção de novos processos.
+
+
+RESPOSTA:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    8
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 08
+
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral    9
+       www.estrategiaconcursos.com.br                                                   24
+                                   
+
+
+---
+
+ Abraão Pereira
+ Aula 08
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  C                                      6                  A
+
+           2                  C                                      7                  A
+
+           3                  D                                      8                  D
+
+           4                  B                                      9                  D
+
+           5                  C                                     10                  E
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral                10
+       www.estrategiaconcursos.com.br                                                                24
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+Simulado - com comentários
+
+   1. (Administração Geral / Passo Estratégico / 2024)
+Considerando o processo de controle organizacional, analise as seguintes afirmações e
+selecione a alternativa correta:
+I. O controle eficaz em uma organização deve ser baseado em critérios como precisão,
+flexibilidade e rapidez, sendo aplicável apenas ao nível operacional e estratégico.
+II. O controle simultâneo é aquele que ocorre durante a execução das atividades,
+permitindo ajustes imediatos quando há desvios em relação ao plano.
+III. O controle preventivo busca evitar problemas antes que eles ocorram, sendo aplicado
+principalmente em atividades de produção, onde a padronização é essencial para
+minimizar erros.
+a) Apenas a afirmativa II está correta.
+b) Apenas as afirmativas I e III estão corretas.
+c) Apenas as afirmativas II e III estão corretas.
+d) Todas as afirmativas estão corretas.
+e) Nenhuma das afirmativas está correta.
+Comentários:
+I) Incorreta. O controle organizacional é aplicável em todos os níveis (estratégico, tático e
+operacional), e não exclusivamente ao operacional e estratégico.
+
+II) Correta. O controle simultâneo ocorre durante a execução, permitindo ajustes imediatos para
+corrigir desvios em tempo real.
+
+III) Correta. O controle preventivo visa evitar problemas antes que surjam, sendo muito utilizado
+em atividades que requerem padronização, como na produção.
+
+Gabarito: C
+
+
+   2. (Administração Geral / Passo Estratégico / 2024)
+Sobre os indicadores de desempenho organizacional, assinale a alternativa que melhor
+descreve os componentes essenciais e suas finalidades:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       11
+        www.estrategiaconcursos.com.br                                                       24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+a) Indicadores de desempenho devem se restringir a medidas qualitativas, uma vez que os
+aspectos quantitativos são inadequados para avaliar o desempenho organizacional de
+forma aprofundada.
+b) A seletividade dos indicadores significa que a organização deve escolher os parâmetros
+que representem toda a diversidade de atividades organizacionais, sem exclusões.
+c) Indicadores de desempenho devem incluir uma fórmula de cálculo, um padrão de
+comparação e uma meta clara, permitindo avaliar se o desempenho atual está alinhado
+com os objetivos organizacionais esperados.
+d) Os indicadores de desempenho devem ser modificados com frequência para manter a
+flexibilidade do sistema, mesmo que isso afete sua comparabilidade ao longo do tempo.
+e) A representatividade dos indicadores é menos relevante do que sua economicidade,
+visto que os custos associados ao monitoramento precisam ser minimizados.
+Comentários:
+a) Incorreta. Indicadores de desempenho incluem tanto medidas qualitativas quanto quantitativas,
+pois ambos os aspectos são necessários para uma avaliação abrangente.
+
+b) Incorreta. A seletividade implica escolher variáveis estratégicas específicas, e não todas as
+atividades, focando nas mais relevantes para o desempenho.
+
+c) Correta. Indicadores de desempenho eficazes contêm uma fórmula de cálculo, um padrão de
+comparação e uma meta, proporcionando uma referência clara para avaliação.
+
+d) Incorreta. Embora a flexibilidade seja importante, a frequência de modificações nos indicadores
+deve ser controlada para não prejudicar a comparabilidade.
+
+e) Incorreta. A representatividade é essencial para garantir que o indicador reflete etapas críticas,
+e economicidade, embora importante, não é prioritária sobre isso.
+
+Gabarito: C
+
+
+   3. (Administração Geral / Passo Estratégico / 2024)
+Considerando o impacto da cultura organizacional sobre o comportamento dos
+funcionários, selecione a alternativa correta:
+a) A cultura organizacional de uma empresa sempre deve ser mantida estável ao longo do
+tempo para preservar a identidade da organização e evitar a necessidade de adaptações a
+novas realidades de mercado.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral           12
+        www.estrategiaconcursos.com.br                                                           24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+b) A cultura organizacional reflete valores e normas explícitos, sendo um fenômeno visível
+e concreto que influencia exclusivamente o comportamento das lideranças.
+c) Subculturas, embora possam existir dentro de uma organização, são sempre nocivas ao
+ambiente de trabalho, pois geram conflitos e comprometem a coesão entre os
+colaboradores.
+d) A contracultura pode surgir como uma resposta à cultura dominante, representando
+valores contrários aos predominantes na organização e, às vezes, questionando normas e
+comportamentos vigentes.
+e) Artefatos culturais, como cerimônias e símbolos, são os elementos mais profundos e
+duradouros da cultura organizacional, determinando o comportamento dos funcionários de
+forma inconsciente.
+Comentários:
+a) Incorreta. A cultura organizacional pode precisar de adaptações para responder a novas
+demandas e desafios do mercado.
+
+b) Incorreta. A cultura organizacional envolve valores e normas que podem ser tanto explícitos
+quanto implícitos e afeta o comportamento de todos os membros, não só das lideranças.
+
+c) Incorreta. Subculturas nem sempre são nocivas; elas podem enriquecer a organização ao refletir
+perspectivas específicas de diferentes departamentos ou grupos.
+
+d) Correta. A contracultura surge em oposição à cultura dominante, promovendo questionamentos
+e desafiando normas estabelecidas.
+
+e) Incorreta. Artefatos são os elementos visíveis da cultura, mas os valores e pressuposições básicas
+são os elementos mais profundos.
+
+Gabarito: D
+
+
+   4. (Administração Geral / Passo Estratégico / 2024)
+Sobre o controle organizacional e seu efeito no comportamento organizacional, considere
+as alternativas a seguir e assinale a correta:
+a) O controle formal, exercido por regras e procedimentos, é mais eficaz do que o controle
+social, uma vez que a autoridade institucional é o único meio legítimo de controle dentro
+das organizações.
+b) O controle social, exercido pela conformidade com normas e valores compartilhados,
+pode ser tão poderoso quanto o controle formal, influenciando o comportamento de
+maneira sutil e promovendo o autocontrole.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral           13
+        www.estrategiaconcursos.com.br                                                           24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+c) A supervisão direta é uma prática de controle organizacional que deve ser evitada, pois
+impede o desenvolvimento de autonomia e independência dos colaboradores.
+d) Em estruturas de controle organizacional, a flexibilidade deve ser reduzida ao mínimo
+para garantir que os procedimentos sejam seguidos de maneira uniforme e previsível.
+e) O controle preventivo deve ocorrer após a realização das atividades para avaliar a
+eficácia dos processos e corrigir eventuais desvios.
+Comentários:
+
+a) Incorreta. O controle social também é legítimo e pode ser tão eficaz quanto o controle formal,
+influenciando o comportamento por meio de normas e valores.
+
+b) Correta. O controle social exerce influência sutil e incentiva o autocontrole por meio da
+conformidade com normas e valores, sendo eficaz na promoção de comportamentos alinhados
+aos objetivos organizacionais.
+
+c) Incorreta. A supervisão direta pode ser uma prática necessária em determinadas situações,
+embora a autonomia dos colaboradores deva ser valorizada.
+
+d) Incorreta. A flexibilidade é importante para permitir que o controle se adapte a mudanças e
+seja eficaz em situações imprevistas.
+
+e) Incorreta. O controle preventivo ocorre antes da realização das atividades para evitar
+problemas, não após.
+
+Gabarito: B
+
+   5. (Administração Geral / Passo Estratégico / 2024)
+Em relação aos fatores que influenciam o clima organizacional, selecione a alternativa
+correta:
+a) O clima organizacional é definido pela estrutura formal e pelos processos de controle da
+organização, sendo diretamente determinado pelas normas e políticas corporativas.
+b) O clima organizacional é estável e reflete os valores centrais da organização, alterando-
+se apenas com grandes mudanças estruturais ou culturais.
+c) Indicadores de clima organizacional, como a rotatividade de pessoal e o índice de
+absenteísmo, são utilizados para avaliar a satisfação dos colaboradores e identificar
+possíveis áreas de melhoria no ambiente de trabalho.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       14
+        www.estrategiaconcursos.com.br                                                       24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+d) A percepção coletiva dos funcionários sobre o ambiente de trabalho é menos relevante
+para o clima organizacional do que as diretrizes estabelecidas pela alta administração.
+e) O clima organizacional é determinado exclusivamente pelas características pessoais dos
+funcionários, refletindo suas atitudes e motivações individuais.
+Comentários:
+
+a) Incorreta. O clima organizacional é influenciado por diversos fatores, incluindo as percepções
+dos colaboradores e as relações interpessoais, e não apenas pela estrutura formal e normas.
+
+b) Incorreta. O clima organizacional é mais dinâmico e pode mudar rapidamente em resposta a
+fatores internos e externos, não sendo estável como a cultura organizacional.
+
+c) Correta. Indicadores como rotatividade e absenteísmo ajudam a medir a satisfação e o
+engajamento dos funcionários, refletindo o clima organizacional.
+
+d) Incorreta. A percepção dos funcionários sobre o ambiente de trabalho é crucial para o clima
+organizacional, muitas vezes superando as diretrizes formais.
+
+e) Incorreta. O clima organizacional é uma percepção coletiva e não se resume às características
+individuais dos funcionários.
+
+Gabarito: C
+
+   6. (Administração Geral / Passo Estratégico / 2024)
+Sobre os estilos de tomada de decisão e sua aplicação em ambientes organizacionais,
+analise as alternativas e assinale a opção correta:
+a) O estilo analítico caracteriza-se por uma abordagem meticulosa e adaptável, sendo ideal
+para gestores que avaliam muitas alternativas e buscam a solução que maximize os
+resultados, principalmente em situações de alta complexidade.
+b) O estilo diretivo é considerado o mais adequado em ambientes dinâmicos, pois privilegia
+a análise detalhada e busca a resolução de longo prazo, envolvendo múltiplas alternativas.
+c) O estilo conceitual, embora tenha foco em inovação e visão de longo prazo, é
+frequentemente associado a uma abordagem centralizadora, o que limita sua aplicação em
+empresas de tecnologia e inovação.
+d) O estilo comportamental prioriza a eficiência, sendo indicado para contextos em que a
+análise rápida e a execução eficiente são requisitos centrais.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral       15
+        www.estrategiaconcursos.com.br                                                       24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+e) O estilo analítico evita explorar múltiplas alternativas e é caracterizado por um foco em
+decisões rápidas, sem adaptação ao ambiente.
+Comentários:
+
+a) Correta. O estilo analítico é focado em avaliar diversas alternativas, adaptando-se às mudanças
+do ambiente e visando maximizar o resultado em cenários complexos.
+
+b) Incorreta. O estilo diretivo é caracterizado pela rapidez e objetividade em decisões de curto
+prazo, não pela análise profunda de alternativas.
+
+c) Incorreta. O estilo conceitual é associado à inovação e visão de longo prazo, sem centralização,
+sendo comum em empresas voltadas para a criatividade.
+
+d) Incorreta. O estilo comportamental é orientado para as relações interpessoais, valorizando a
+colaboração e a harmonia, e não para a eficiência operacional.
+
+e) Incorreta. O estilo analítico é detalhado e adaptável, considerando múltiplas alternativas, o
+oposto de decisões rápidas sem adaptação.
+
+Gabarito: A
+
+   7. (Administração Geral / Passo Estratégico / 2024)
+Em relação ao BPM (Business Process Management) e suas fases, assinale a alternativa
+correta sobre o ciclo de vida dos processos de acordo com a versão 4.0 do BPM CBOK:
+a) O ciclo de vida do BPM inicia-se com a fase de Alinhamento à Estratégia e Metas, onde
+os processos são ajustados para atender ao cliente e alinhar-se aos objetivos
+organizacionais.
+b) A fase de Medição do Sucesso ocorre antes da Implantação de Mudanças, assegurando
+que todas as métricas estejam configuradas e em conformidade com o planejamento
+estratégico.
+c) Na fase de Desenvolvimento de Iniciativas, são implementadas as mudanças planejadas,
+assegurando-se que os processos atinjam os resultados esperados.
+d) A Medição do Sucesso é uma etapa final onde são implementadas ações corretivas para
+garantir que os processos estejam completamente padronizados.
+e) O ciclo de vida do BPM encerra-se após a Implantação de Mudanças, momento em que
+os processos são estabilizados e as operações passam a se concentrar na rotina.
+Comentários:
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral         16
+        www.estrategiaconcursos.com.br                                                         24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+a) Correta. O ciclo de vida do BPM CBOK versão 4.0 começa com a fase de Alinhamento à
+Estratégia e Metas, que ajusta os processos às necessidades dos clientes e aos objetivos
+organizacionais.
+
+b) Incorreta. A Medição do Sucesso ocorre após a implantação das mudanças, avaliando o impacto
+e o sucesso das iniciativas implementadas.
+
+c) Incorreta. A fase de Desenvolvimento de Iniciativas é focada no planejamento de mudanças,
+não na implementação.
+
+d) Incorreta. A Medição do Sucesso não se resume a ações corretivas, mas avalia a aderência dos
+resultados aos objetivos estratégicos.
+
+e) Incorreta. O ciclo de vida do BPM continua após a Implantação de Mudanças, com
+monitoramento e transformação contínua.
+
+Gabarito: A
+
+   8. (Administração Geral / Passo Estratégico / 2024)
+A Sobre o uso da Matriz GUT (Gravidade, Urgência e Tendência) como ferramenta de
+priorização no gerenciamento de processos, analise as afirmativas e assinale a correta:
+a) A matriz GUT é uma ferramenta exclusivamente qualitativa, pois utiliza critérios subjetivos
+para avaliar problemas organizacionais com foco em decisões intuitivas.
+b) A aplicação da matriz GUT é restrita a processos de produção, pois ela requer análises
+complexas que não se aplicam a atividades de apoio administrativo.
+c) A Matriz GUT permite a priorização de problemas baseando-se em uma análise
+quantitativa dos custos envolvidos em cada possível ação.
+d) A Matriz GUT utiliza critérios de gravidade, urgência e tendência para classificar e
+priorizar problemas, sendo aplicável em diversas áreas organizacionais, além do
+gerenciamento de processos.
+e) A Matriz GUT mede a eficiência de processos, destacando os resultados que mais
+contribuem para o desempenho financeiro da organização.
+Comentários:
+
+a) Incorreta. A matriz GUT utiliza critérios específicos e quantificáveis para gravidade,
+urgência e tendência, não se baseando exclusivamente em subjetividade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     17
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+b) Incorreta. A aplicação da matriz GUT não é restrita a processos produtivos; ela pode ser
+usada em qualquer área que necessite de priorização de problemas.
+
+c) Incorreta. A matriz GUT não faz análise de custos diretamente, mas foca na priorização
+de problemas com base nos três critérios.
+
+d) Correta. A matriz GUT utiliza gravidade, urgência e tendência como critérios de análise,
+sendo versátil e aplicável em diferentes áreas.
+
+e) Incorreta. A matriz GUT não mede diretamente a eficiência de processos nem o
+desempenho financeiro.
+
+Gabarito: D
+
+   9. (Administração Geral / Passo Estratégico / 2024)
+No que diz respeito ao modelo de racionalidade limitada na tomada de decisão, assinale
+a alternativa correta sobre suas características e implicações no processo decisório:
+a) O modelo de racionalidade limitada considera que os tomadores de decisão possuem
+todas as informações necessárias para escolher a melhor alternativa, permitindo decisões
+totalmente otimizadas.
+b) A racionalidade limitada implica que os gestores devem maximizar os resultados,
+utilizando todos os recursos disponíveis para avaliar exaustivamente cada opção de
+decisão.
+c) A principal limitação do modelo é o tempo de decisão, que pode ser excessivamente
+prolongado quando as alternativas são reduzidas.
+d) O modelo de racionalidade limitada reconhece que os decisores têm capacidade
+cognitiva e informações limitadas, o que os leva a buscar soluções satisfatórias e não
+necessariamente ideais.
+e) No modelo de racionalidade limitada, a escolha é sempre baseada em critérios objetivos
+e indicadores de desempenho que maximizam os resultados da organização.
+Comentários:
+
+a) Incorreta. No modelo de racionalidade limitada, os tomadores de decisão não possuem
+todas as informações, e as decisões são satisfatórias, não otimizadas.
+
+b) Incorreta. O modelo de racionalidade limitada não exige maximização de resultados;
+busca-se uma solução que seja “boa o suficiente” dentro das limitações.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   18
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+c) Incorreta. A racionalidade limitada envolve restrições de informação e recursos, não o
+tempo excessivo de decisão.
+
+d) Correta. A racionalidade limitada reflete a busca por soluções satisfatórias devido às
+limitações cognitivas e de informação.
+
+e) Incorreta. A escolha no modelo de racionalidade limitada é baseada em informações
+incompletas e critérios práticos, não necessariamente objetivos.
+
+Gabarito: B
+
+   10.          (Administração Geral / Passo Estratégico / 2024)
+Em relação ao Método de Análise e Solução de Problemas (MASP) e suas etapas, analise
+as afirmativas abaixo e escolha a alternativa correta sobre o papel da etapa de
+padronização:
+a) A padronização visa analisar a causa raiz do problema, permitindo que os gestores
+definam ações preventivas de forma recorrente.
+b) Durante a padronização, o problema é verificado e suas causas são removidas através
+de um sistema contínuo de análise de falhas e correção.
+c) A padronização consiste em implementar as soluções e avaliar os resultados para garantir
+que o problema não ocorra em atividades futuras.
+d) O objetivo da padronização é unificar procedimentos para manter as melhores práticas,
+evitando que o problema solucionado volte a ocorrer no futuro.
+e) Na etapa de padronização, os resultados são descartados para que novas abordagens
+possam ser experimentadas em problemas similares, promovendo inovação contínua.
+Comentários:
+a) Incorreta. A análise de causa raiz ocorre na etapa de análise, não na padronização.
+
+b) Incorreta. A padronização não remove diretamente as causas, mas visa estabelecer
+procedimentos que evitem a recorrência do problema.
+
+c) Incorreta. A implementação e avaliação dos resultados ocorrem em outras etapas, e não
+exclusivamente na padronização.
+
+d) Incorreta. Embora a padronização promova melhores práticas, o foco está na
+consolidação dos resultados, e não apenas na unificação de procedimentos.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   19
+         www.estrategiaconcursos.com.br                                                   24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+e) Correta. A etapa de padronização no MASP visa consolidar as soluções como práticas
+padrão, garantindo que as melhorias sejam mantidas a longo prazo.
+
+Gabarito: E
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   20
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+Questão desafio – Comentada
+
+(Administração Geral / Passo Estratégico / 2024)
+A empresa XPTO, do setor de tecnologia, está passando por uma fase de crescimento
+acelerado, o que aumentou a complexidade de seus processos internos. Para responder
+ao novo cenário, a empresa decidiu implementar o BPM (Business Process Management)
+visando otimizar seus processos e, ao mesmo tempo, alinhar a cultura organizacional às
+demandas de inovação e agilidade. No entanto, no meio do projeto, surgiram conflitos
+entre diferentes áreas da organização. A equipe de TI, responsável pela implementação
+técnica do BPM, está enfrentando resistência da equipe de operações, que considera a
+nova abordagem um entrave ao ritmo de trabalho.
+                                                       ==219a34==
+
+Para contornar esses desafios, a diretoria criou um comitê interdisciplinar, que adotou a
+Matriz GUT (Gravidade, Urgência e Tendência) como ferramenta de priorização dos
+problemas e o método MASP (Método de Análise e Solução de Problemas) para a
+resolução dos mesmos. A expectativa é que, ao final do projeto, os processos estejam
+padronizados e que a cultura organizacional se adapte aos novos padrões de agilidade e
+inovação:
+   1. Como a abordagem BPM pode beneficiar a empresa XPTO, considerando o contexto
+      de crescimento e a necessidade de agilidade e inovação? Justifique com base nos
+      princípios do BPM e na gestão de processos.
+   2. De que forma a Matriz GUT e o MASP, quando aplicados em conjunto, podem ajudar
+      o comitê interdisciplinar a resolver os problemas de resistência e conflitos entre as
+      áreas? Explique como cada método contribui para a solução desses problemas.
+   3. Como a cultura organizacional pode influenciar a implementação do BPM na
+      empresa XPTO? Em sua resposta, considere os desafios culturais e de
+      comportamento organizacional envolvidos na adoção de novos processos.
+
+
+RESPOSTA:
+
+
+1. Como a abordagem BPM pode beneficiar a empresa XPTO, considerando o contexto de
+crescimento e a necessidade de agilidade e inovação? Justifique com base nos princípios
+do BPM e na gestão de processos.
+O BPM (Business Process Management) pode trazer diversos benefícios para a empresa XPTO,
+especialmente em um contexto de crescimento e necessidade de inovação e agilidade.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   21
+        www.estrategiaconcursos.com.br                                                   24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+Primeiramente, o BPM promove uma visão ampla e integrada dos processos, o que permite
+identificar gargalos e redundâncias, reduzindo ineficiências e otimizando o fluxo de trabalho. No
+caso da XPTO, que enfrenta um aumento na complexidade dos processos, o BPM pode ajudar a
+padronizar e estruturar as operações, garantindo que o crescimento ocorra de forma organizada
+e sustentável.
+
+Além disso, o BPM é uma abordagem flexível e adaptável, alinhada às necessidades de inovação,
+pois permite ajustes e melhorias contínuas nos processos, facilitando a adaptação a novas
+demandas do mercado. Por meio do BPM, a empresa pode, ainda, criar uma base sólida para
+implementar práticas ágeis, essencial para o setor de tecnologia, onde a inovação é constante.
+
+2. De que forma a Matriz GUT e o MASP, quando aplicados em conjunto, podem ajudar o
+comitê interdisciplinar a resolver os problemas de resistência e conflitos entre as áreas?
+Explique como cada método contribui para a solução desses problemas.
+A Matriz GUT e o MASP, quando utilizados em conjunto, oferecem uma metodologia estruturada
+para priorizar e resolver problemas.
+
+A Matriz GUT permite ao comitê interdisciplinar classificar e priorizar os problemas de resistência
+e conflitos entre as áreas, considerando a gravidade, urgência e tendência de cada questão. Isso
+ajuda a identificar quais conflitos têm maior impacto na organização e que precisam de atenção
+imediata.
+
+Já o MASP oferece uma abordagem sistemática para entender as causas dos problemas, buscando
+soluções adequadas e implementáveis. Com o MASP, o comitê pode analisar as causas da
+resistência da equipe de operações, desenvolver e testar soluções específicas, e, por fim,
+padronizar os novos procedimentos para garantir a adaptação ao BPM.
+
+A combinação dos métodos auxilia na resolução dos problemas de forma organizada e justificada,
+reduzindo a resistência ao promover um entendimento claro e racional sobre as mudanças
+necessárias.
+
+3. Como a cultura organizacional pode influenciar a implementação do BPM na empresa
+XPTO? Em sua resposta, considere os desafios culturais e de comportamento
+organizacional envolvidos na adoção de novos processos.
+A cultura organizacional tem um papel fundamental na implementação de BPM, especialmente
+em empresas que estão promovendo mudanças significativas nos processos, como a XPTO. Uma
+cultura que valoriza a inovação e a flexibilidade facilita a aceitação de novos métodos e a
+adaptação às mudanças.
+
+No entanto, desafios culturais podem surgir quando a implementação do BPM exige a
+padronização de processos que, para algumas áreas, parecem comprometer a agilidade. A
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral         22
+        www.estrategiaconcursos.com.br                                                         24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 08
+
+resistência da equipe de operações, por exemplo, pode refletir uma cultura mais orientada à
+autonomia e ao ritmo próprio de trabalho. Para o sucesso do BPM, é essencial que a cultura
+organizacional apoie a colaboração e o entendimento dos benefícios de processos mais
+estruturados e otimizados.
+
+A empresa precisa promover uma visão compartilhada sobre a importância do BPM, reforçando
+valores de adaptação e melhoria contínua, e trabalhar para que todos os colaboradores se sintam
+parte da transformação, minimizando os impactos negativos da mudança e incentivando
+comportamentos alinhados aos novos padrões.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral     23
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+ Abraão Pereira
+ Aula 08
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Vamos nos preparando sempre para uma prova bastante difícil e as nossas questões
+tentaram, ao máximo, seguir o nível da banca organizadora.
+
+Grande Abraço a todos!!
+
+Prof. Abraão Pereira
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Geral   24
+       www.estrategiaconcursos.com.br                                                   24
+                                   
+
+
+---
+
+---

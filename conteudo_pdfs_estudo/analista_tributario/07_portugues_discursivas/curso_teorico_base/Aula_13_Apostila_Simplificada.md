@@ -1,0 +1,2982 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 13_Apostila_Simplificada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '13'
+titulo_aula: Língua Portuguesa
+---
+
+# Língua Portuguesa
+
+Aula 12
+                          Receita Federal (Analista Tributário)
+                                              Língua Portuguesa
+
+                                                            Autor:
+                                     Equipe Português Estratégia
+                                       Concursos, Felipe Luccas
+
+
+                                                10 de Julho de 2025
+
+---
+
+      Equipe Português Estratégia Concursos, Felipe Luccas
+      Aula 12
+
+                                                                                     Índice
+1) Noções Iniciais de Coesão e Coerência
+
+
+2) Coesão Textual
+
+
+3) Coerência
+
+
+4) Reescritura
+
+
+5) Questões Comentadas - Coesão - FGV
+
+
+6) Questões Comentadas - Coerência - FGV
+
+
+7) Questões Comentadas - Reescritura - FGV
+
+
+8) Lista de Questões - Coesão - FGV
+
+
+9) Lista de Questões - Coerência - FGV
+
+
+10) Lista de Questões - Reescritura - FGV
+
+                Receita Federal (Analista Tributário) Língua Portuguesa                                                                                                                   2
+                www.estrategiaconcursos.com.br                                                                                                                                           68
+
+                                                             
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+                                   CONSIDERAÇÕES INICIAIS
+Fala, meus jovens! Aqui é o professor Luiz Felipe. Você certamente já percorreu um longo
+caminho até chegar neste ponto do conteúdo... ENTÃO VAMOS COM TUDO!!! Neste livro,
+vamos trabalhar questões de coesão e coerência, ou seja, questões que envolvem valor
+semântico de conectivos, referenciação (anáfora e catáfora) e progressão textual.
+Além disso, abordaremos um assunto de extrema relevância para a sua prova: a reescritura de
+frases. Na prática, a maioria das questões de gramática são de "análise de redação de trechos e
+reescrita", ou seja, são de transformação e equivalência de estruturas. Quando se pede a troca
+de uma expressão por outra, inserção ou supressão de um acento, de uma vírgula, de uma
+palavra, tudo isso é questão de reescritura. O que varia é apenas o objeto da análise: ortografia,
+vocabulário, verbo, concordância, regência, conjunção, sintaxe, pontuação...
+Não é possível abordar em uma única aula toda a teoria de reescritura, pois, em uma questão
+assim, qualquer conteúdo de Língua Portuguesa pode aparecer. No entanto, precisamos estar
+atentos a alguns pontos, e são esses pontos que vamos destacar nesta aula.
+
+                                                 @luizfelipedu
+                                                      rval
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 3
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+                                          COESÃO TEXTUAL
+Quando ler a palavra coesão, pense essencialmente na “ligação” entre palavras e partes do
+texto. A coesão também se refere à retomada e adiantamentos de elementos e informações do
+texto por meio de palavras coesivas ou artifícios textuais.
+Portanto, há dois tipos de coesão:
+Coesão referencial é aquela em que os recursos são utilizados para evitar repetições dentro do
+texto. Ela trabalha na base da retomada ou da antecipação de informações. São utilizadas
+inúmeras estratégias, como a reescritura (paráfrase), os pronomes, os advérbios e outras palavras
+remissivas.
+Coesão sequencial é responsável por estabelecer nexos (conexões) entre palavras, frases e
+parágrafos, com a finalidade de dar continuidade e lógica à estrutura de um texto. São utilizados
+as conjunções, as preposições e os pronome relativos, que dão sequência ao texto e
+estabelecem relações de “antes e depois”, “causa e consequência”.
+Embora os elementos utilizados para a coesão sejam geralmente palavras, até mesmo a omissão
+de termos pode ser utilizada como artifício de coesão.
+
+Coesão Anafórica x Coesão Catafórica
+A coesão estabelece relação entre partes do texto. Quando o mecanismo de coesão retoma um
+termo ou informação que veio antes dele, diz-se que há coesão anafórica.
+Quando “anuncia” um termo ou informação que aparecerá depois, diz-se que há coesão
+catafórica.
+
+Isso tudo está detalhado na função referencial dos pronomes demonstrativos.
+
+
+      Ex: Estudo todo dia. Isso faz a diferença. (anafórico)
+
+
+      Ex: Desejo isto diariamente: ser aprovado logo. (catafórico)
+
+Referências Fora do Texto: Exofórica/Dêitica
+Quando os elementos coesivos se referem a elementos fora do texto, como tempo e espaço, a
+gramática diz que eles têm função dêitica, ou exofórica (fora).
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                4
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+         Ex: Esse texto foi escrito aqui (aqui onde? Esse sentido dependerá de onde foi escrito.
+         Essa localização é um elemento externo ao texto, fora dele.)
+
+                                             Esse texto foi escrito aqui.
+        Aqui onde? Esse sentido dependerá de onde foi escrito.
+
+
+                                              Vamos almoçar amanhã.
+        Que dia é amanhã? Depende de que dia é tomado como referência no momento da
+        escrita.
+
+                      O Rio de Janeiro anda muito violento, quem poderá nos ajudar?
+        “nos” se refere a “nós”, mas quem é esse “nós”?
+
+
+        Perceba que as três referências (“aqui”, “amanhã” e “nós”) estão fora do texto.
+
+
+Coesão Referencial
+Parafraseando Agostinho Dias Carneiro1, um bom texto se articula fundamentalmente com
+repetição de ideias (coesão) e com apresentação de informação nova (progressão). Um texto que
+só repete é redundante; um texto que só apresenta novidade, sem dialogar com o que já foi dito,
+é incoerente.
+A repetição de ideias é muitas vezes necessária para o desenvolvimento linear de um texto.
+Porém, a repetição excessiva de palavras pode tornar um texto problemático. Nesse sentido, os
+
+1
+    In “Redação em construção: a escritura do texto”. São Paulo: Moderna, 1997.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            5
+           www.estrategiaconcursos.com.br                                                    68
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+mecanismos de coesão vão oferecer alternativas para a retomada de ideias sem a repetição
+viciosa das mesmas palavras.
+Veremos aqui algumas estratégias para evitar repetição viciosa.
+Essas técnicas são fundamentais para:
+
+   ✔​ identificar paráfrases em questões de interpretação e reescrituras.
+
+   ✔​ Desenvolver o texto em eventual prova discursiva.
+
+Uso de Pronomes
+O pronome serve exatamente para isto: retomar e substituir um nome. Então, essa deve ser uma
+das técnicas mais intuitivas para evitar repetição.    ==219a34==
+
+      Ex: Meu pai era um gênio, mas nunca o reconheceram.
+      Ex: O leão foi sacrificado. Ele não teve a menor chance.
+      Ex: Ninguém vencia Silvério na sinuca quando ele estava inspirado.
+      Ex: O livro que comprei é esse.
+      Ex: Ninguém tem uma força de vontade maior que a sua.
+      Ex: Ela deve seu sucesso ao estudo.
+      Ex: Isto é o atalho para ser aprovado: estudar, revisar, fazer questões.
+      Ex: Entre as camisas, comprei a que era mais cara.
+      Ex: O menino, que era estrábico, tinha excelente pontaria.
+      Ex: A vida de concurseiro é difícil. Muitos desistem, alguns logo no início.
+
+     O artigo definido também pode ser usado como referência a termo citado.
+
+     Nesse caso, o artigo definido vai indicar que o termo mencionado já é conhecido, por
+     ter já aparecido antes no texto:
+
+        Lá na praça, havia vários policiais. Os assaltantes, quando chegaram, não viram os
+       policiais ali (“policiais” já foi citado no texto e já é um termo conhecido pelo leitor).
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                    6
+        www.estrategiaconcursos.com.br                                                             68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+(IBGE / 2022)
+Na frase “Para salvar os búfalos, a melhor coisa que podemos fazer é comê-los. Os animais que o
+ser humano come não se extinguem. É por isso que temos mais galinhas que águias nos Estados
+Unidos”.
+Nessa frase, há cinco termos sublinhados que se referem a outros elementos da mesma frase.
+Assinale a opção em que a referência que está erradamente indicada.
+(A) a melhor coisa / comer os animais.
+(B) los / os búfalos.
+(C) animais / os búfalos.
+(D) que / animais.
+(E) isso / os animais que o ser humano come não se extinguem.
+Comentários:
+Questão de coesão com pronomes e outros recursos. No segundo período, "animais" não
+retoma "búfalos", na verdade remete aos animais que o ser humano come, como se exemplifica
+logo adiante com as "galinhas". As demais referências estão corretas e autoevidentes.
+Gabarito letra C.
+
+
+(MP-CE / 2020)
+Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas relações com a
+argumentação e a retórica. Porém, tal como a retórica e a argumentação podem ser postas ao
+serviço da mentira e da manipulação, também em relação à liberdade de expressão se coloca a
+questão dos seus limites.
+A expressão “suas relações” refere-se às relações da “democracia ateniense”.
+Comentários:
+“suas” é pronome possessivo e sugere a pergunta: “relação de quem”? “relação do que com a
+argumentação”?
+Aqui temos a relação “da democracia ateniense” com a retórica e a argumentação.
+Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas relações com a
+argumentação e a retórica... Questão correta.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              7
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Coesão com pronomes demonstrativos
+Por serem importantíssimos macanismos de coesão, relembramos aqui os aspectos semânticos
+do uso referencial dos pronomes demonstrativos.
+Pronomes demonstrativos apontam, isto é, demonstram a posição dos elementos a que se
+referem no tempo, no espaço e no texto.
+Tempo:
+✔​ este(s), esta (s), isto: indicam tempo presente, período corrente
+   Ex: Este domingo vai ter jogo do Barcelona.
+   Ex: Neste verão viajarei para o Caribe.
+✔​ esse(s), essa (s), isso: indicam passado recente ou futuro próximo
+   Ex: Esse domingo haverá jogo do Barcelona.
+   Ex: Nesse verão sofri demais com o calor.
+
+
+✔​ aquele(s), aquela (s), aquilo: indicam passado ou futuro distante
+   Ex: Aquela década de 70 foi completamente perdida.
+   Ex: Aquele intercâmbio que faremos em 10 anos será caríssimo.
+
+
+Espaço:
+✔​ este(s), esta (s), isto: apontam para referente perto do falante
+   Ex: Este violão aqui na minha mão é de madeira maçiça.
+   Ex: Estes meus cabelos estão uma verdadeira palha.
+✔​ esse(s), essa (s), isso: apontam para perto do ouvinte
+   Ex: Esse violão aí na sua mão é de madeira maciça.
+   Ex: Isso é roupa que se vista num casamento? Troque-a já!
+✔​ aquele(s), aquela (s), aquilo: apontam para longe do falante/ouvinte
+   Ex: Aquela pintura lá em cima é um afresco.
+   Ex: Aquilo não é um pássaro, nem um avião; é só um balão caindo.
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                      8
+         www.estrategiaconcursos.com.br                                               68
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Quando apontam para o espaço, o referente está fora do texto, então dizemos que o pronome
+tem uso “dêitico”.
+
+
+Texto:
+✔​ este(s), esta (s), isto: apontam ao que será mencionado (anuncia)
+   Ex: Esta é sua nova senha: ynot.xp$%; memorize-a.
+   Ex: Isto era importante para ela: dinheiro, sucesso, prestígio.
+✔​ esse(s), essa (s), isso: apontam para o que já foi mencionado
+   Ex: João passou em primeiro lugar, esse cara é bom.
+   Ex: Dinheiro, sucesso, prestígio, isso tudo é sim importante (resumitivo).
+✔​ aquele(s), aquela (s), aquilo: apontam para o antecedente mais distante, enquanto este
+   aponta para o mais próximo:
+   Ex: João e Maria são concursados, esta do Bacen, aquele do TCU.
+   Ex: Aquilo não é um pássaro, nem um avião; é só um balão caindo.
+
+
+     Entre três seres mencionados no texto, este se refere ao mais próximo, ao último;
+     aquele se refere ao mais distante, ao primeiro.
+     Nesse caso, recomenda-se o uso de numerais: o primeiro, o segundo, o terceiro. Fique
+     atento.
+         Xuxa, Pelé e Senna são famosos. A primeira é a rainha dos baixinhos, o segundo é o
+                        rei do futebol e o terceiro foi o maior piloto brasileiro.
+
+(PRF / 2019)
+As atividades pertinentes ao trabalho relacionam-se intrinsecamente com a satisfação das
+necessidades dos seres humanos — alimentar-se, proteger-se do frio e do calor, ter o que calçar
+etc. Estas colocam os homens em uma relação de dependência com a natureza, pois no mundo
+natural estão os elementos que serão utilizados para atendê-las.
+As formas pronominais “Estas” (ℓ.2) e “las” (ℓ.4) referem-se a “necessidades dos seres humanos”
+(ℓ.1-2).
+Comentários:
+
+
+         Receita Federal (Analista Tributário) Língua Portuguesa                              9
+         www.estrategiaconcursos.com.br                                                       68
+
+                                      
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Sim, “estas” foi usado anaforicamente para retomar “necessidades dos seres humanos”, pois são
+as necessidades que colocamos homens....
+“atende-las” = atender as necessidades dos seres humanos
+Antes que alguém pergunte: “estas pode ser anafórico?”. Pode sim! Basta que esteja retomando
+algo que apareceu antes. Ser anafórico quer dizer essencialmente “retomar informação anterior”.
+Questão correta.
+
+
+Uso de numerais
+Vamos relembrar o uso dos numerais como recurso coesivo por meio de exemplos.
+      Ex: Eu e minha esposa fomos lá. Nós dois detestamos a comida.
+      "Nós dois” retoma “eu e minha esposa”.
+
+
+      Ex: João e José foram ao shopping. O primeiro foi comprar charutos; o segundo foi
+      comprar discos de vinil.
+      O numeral “primeiro” se refere ao termo mais distante “João”; “segundo” se refere a
+      quem apareceu por último, “José”.
+
+
+      Ex: Comprei um fogão e uma geladeira. Ambos deram defeito.
+      Ambos é considerado numeral e retoma “fogão” e “geladeira”.
+
+Uso de advérbios
+Da mesma forma que fizemos com os numerais, vamos relembrar o uso dos advérbios como
+recurso coesivo por meio de exemplos.
+      Ex: Estamos no Brasil; muita gente considera fraude esperteza aqui.
+      “Aqui” faz coesão anafórica com lugar que apareceu antes: “Brasil”.
+
+
+      Ex: Sinto saudades de lá; a Califórnia é muito bela!
+      “Lá” faz coesão catafórica com o lugar que aparecerá depois: “Califórnia”.
+
+Termos resumitivos e sintéticos
+Algumas palavras, como pronomes indefinidos, tem o poder de sintetizar e resumir um grupo de
+elementos.
+      Ex: Estudar, revisar, fazer questões: tudo isso é indispensável.
+      “Tudo isso” retoma “Estudar, revisar, fazer questões”.
+
+
+      Ex: João, Jose, Manoel e Joaquim vieram. Os outros faltaram.
+      “Os outros” de refere a quem não veio, pessoas não mencionadas por nome.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             10
+        www.estrategiaconcursos.com.br                                                      68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+      Ex: Acordo às 6h, vou para a faculdade, depois para a natação. Ao final do dia, pego as
+      crianças no colégio, antes de ir para o curso de inglês. No dia seguinte, repito a rotina.
+      O termo “a rotina” sintetiza toda a sequência de ações habituais mencionada.
+
+(PGE-PE / 2019)
+Raras vezes na história humana, o trabalho, a riqueza, o poder e o saber mudaram
+simultaneamente. Quando isso ocorre, sobrevêm verdadeiras descontinuidades que marcam
+época, pedras miliares no caminho da humanidade. A invenção das técnicas para controlar o
+fogo, o início da agricultura e do pastoreio na Mesopotâmia, a organização da democracia na
+Grécia, as grandes descobertas científicas e geográficas entre os séculos XII e XVI, o advento da
+sociedade industrial no século XIX, tudo isso representa saltos de época, que desorientaram
+gerações inteiras.
+A expressão “tudo isso” (L.5) retoma, por coesão, todos os termos que a precedem no período.
+Comentários:
+Sim. Esse é um termo “resumitivo”, sintetiza toda a lista anterior: A invenção das técnicas para
+controlar o fogo, o início da agricultura e do pastoreio na Mesopotâmia, a organização da
+democracia na Grécia, as grandes descobertas científicas e geográficas entre os séculos XII e
+XVI, o advento da sociedade industrial no século XIX. Questão correta.
+
+
+Sinônimos, Hiperônimos e Hipônimos
+São palavras de sentido amplo que indicam, em termos semânticos, um conjunto abrangente de
+elementos, um “gênero”. Esse “gênero” tem unidades menores, “espécies” (hipônimos), que
+fazem parte daquele conjunto maior.
+O conceito de hipônimo decorre da explicação acima. Trata-se de um elemento com sentido
+mais específico, contido em um grupo maior, ou seja, de uma espécie contida em um gênero.
+
+
+      Ex: Meu cão era bipolar. O animal às vezes atacava sem razão.
+      “Animal” é hiperônimo de “cão”, pois o “cão” pertence ao conjunto “animais”.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               11
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+      Ex: Tive um carro a diesel e achava barato o combustível.
+     “Combustível”         é hiperônimo de “diesel”, pois “diesel” pertence ao conjunto
+“combustíveis”.
+
+
+Uma outra técnica muito utilizada é a substituição de um nome próprio por um comum ou
+vice-versa. Geralmente consiste em aludir uma pessoa por uma característica que a distinga. Esta
+técnica se chama substituição por antonomásia. Calma, o nome é feio, mas é simples.
+
+         Bono Vox e Ivete Sangalo estão namorando. O roqueiro foi visto saindo de um
+       restaurante com a beldade. Indagada, a baiana negou estar em um relacionamento
+         com o Irlandês. No entanto, os artistas foram vistos juntos muitas outras vezes.
+
+
+     “Bono Vox” é um nome próprio e foi retomado várias vezes por nomes comuns, como
+     “roqueiro”, “irlandês”, “artista”.
+     Já “Ivete” foi aludida como “beldade”, “baiana”, “artista”.
+     Não precisa gravar o nome, mas a técnica é fundamental!!!
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              12
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+(PGE-PE / 2019)
+É como se você tivesse baixado algum software e ele te solicitasse assinar um contrato com
+dezenas de páginas em “juridiquês”; você dá uma olhada nele, passa imediatamente para a
+última página, tica em “concordo” e esquece o assunto.
+No trecho “tica em ‘concordo’” (L.2-3), o verbo ticar é sinônimo de clicar, mas difere deste por
+ser de uso informal.
+Comentários:
+Sim, “ticar” vem do inglês “to tick”, que significa justamente clicar numa caixinha virtual para
+aceitar, ou marcar um sinal de concordância, um “tique”, um x, um visto ou algo assim. No caso,
+“ticar” é clicar para aceitar o contrato. Ticar é uma palavra oficial, não é considerada de uso
+informal. Questão incorreta.
+
+
+Simbolização
+Consiste em substituir uma entidade por um símbolo que a represente.
+      Ex: O Rei era autoridade máxima. A verdade da Coroa sempre prevalecia.
+      Ex: A Cruz de Malta cobriu as arquibancadas. Torcedores vascaínos ocuparam 80% dos
+      assentos.
+
+Nominalização
+Basicamente, é substituir um adjetivo ou verbo por substantivo ou uma forma nominal.
+      Ex: Recolheram os impostos. Esse recolhimento foi menor que o ano passado.
+      Ex: As provas são difíceis hoje em dia. Essa dificuldade também envolve o fator tempo.
+      Ex: Muito se discutiu sobre a polêmica. Esse constante debater do tema é cansativo para
+      os envolvidos.
+
+Redução e Ampliação
+Uma técnica muito utilizada é a redução, ou seja, usar uma forma mais longa do termo e alternar
+com formas mais curtas.
+      Ex: ​    O compositor Paul McCartney virá ao Brasil em 2017.
+               Paul McCartney já esteve no país em outras ocasiões.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                13
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+               O compositor ama o público Brasileiro.
+               McCartney tem inclusive diversos amigos aqui.
+               Paul ainda não informou a data de sua passagem.
+      Também poderia ser chamado de “o ex-Beatle”, “o músico”, “o artista”, “o cantor”...
+
+Sigla
+Técnica muito importante em discursivas.
+Primeiro se usa o nome por extenso, seguido pela sigla entre parênteses. A partir daí, pode-se
+usar a sigla no lugar do nome completo.
+Não se deve usar a sigla antes de o nome completo aparecer no texto.
+
+
+      Ex: A Agência Nacional da Aviação Civil (ANAC) divulgou hoje o resultado provisório da
+      prova discursiva. Milhares visitaram o site da ANAC hoje.
+
+Coesão por justaposição de orações
+Como vimos, pode haver “coesão” mesmo sem palavra ou conector “explícito”: quando há uma
+relação clara entre partes do texto, ainda que não tenham sido “materializadas” por uma palavra.
+Essa ligação coesa também opera por simples justaposição (inserção de unidades juntas, uma do
+lado da outra) de sentenças.
+Então, no lugar de um conector poderá vir apenas um sinal de pontuação (: ; , .)
+      Ex: Tenho que sair agora: estou atrasado.
+      Ex: tenho que sair agora, porque estou atrasado
+Poderíamos trocar os dois-pontos por uma conjunção que retomasse a relação de explicação que
+existe entre as sentenças.
+
+
+      Ex: Estudou tanto; não passou.
+      Ex: Estudou tanto, mas não passou.
+Novamente, como a relação lógica entre as orações justapostas é de oposição, podemos
+substituir o ponto e vírgula por um elemento coesivo “adversativo”.
+
+
+Nesses casos, cabe ao leitor interpretar a relação de sentido e pensar na conjunção adequada ao
+contexto.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               14
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+(SEFAZ-RS / 2019 - Adaptada)
+Pixis foi um músico medíocre, mas teve o seu dia de glória no distante ano de 1837.
+Em um concerto em Paris, Franz Liszt tocou uma peça do (hoje) desconhecido compositor, junto
+com outra, do admirável, maravilhoso e extraordinário Beethoven (os adjetivos aqui podem ser
+verdadeiros, mas — como se verá — relativos). A plateia, formada por um público refinado, culto
+e um pouco bovino, como são, sempre, os homens em ajuntamentos, esperava com impaciência.
+No segundo parágrafo do texto 1A11-I, o termo “adjetivos” remete às palavras “admirável”,
+“maravilhoso” e “extraordinário”.
+Comentários:
+Questão direta. O termo geral “adjetivos” inclui todas as qualidades atribuídas a Beethoven.
+Temos um termo geral “adjetivos”, que inclui: admirável, maravilhoso, extraordinário...
+Esses adjetivos atribuídos a ele são chamados de “relativos” justamente porque a peça tocada,
+na verdade, era de um outro compositor, considerado “medíocre”. Questão correta
+Em um concerto em Paris, Franz Liszt tocou uma peça do (hoje) desconhecido compositor, junto
+com outra, do admirável, maravilhoso e extraordinário Beethoven (os adjetivos aqui podem ser
+verdadeiros, mas — como se verá — relativos). A plateia, formada por um público refinado, culto
+e um pouco bovino, como são, sempre, os homens em ajuntamentos, esperava com impaciência.
+
+
+Coesão sequencial
+Conforme estudamos, a coesão estabelece o fluxo de leitura do texto. Vamos ver nesse
+momento as estratégias utilizadas para dar “sequência” a um texto, adicionando novas orações,
+novos trechos, ordenando logicamente a estrutura de suas partes, de modo que haja
+“continuidade” coesa e coerente, isto é, de modo que haja progressão textual.
+
+
+O maior instrumento desse tipo de coesão são os “conectivos”, especialmente a conjunção.
+Por exemplo, se uma oração se inicia por “mas”, já se subentende uma continuidade de algo que
+foi dito antes, em outra oração, e que vai sofrer uma oposição agora.
+      Ex: Eu gosto de esportes, mas não pratico nenhum.
+Esse, “mas” tanto dá sequência ao texto quanto retoma uma informação anterior para quebrar a
+expectativa gerada por ela. Esse “movimento” do texto é que dá continuidade coesa a ele.
+Se iniciarmos uma oração por “portanto”, vamos dar continuidade ao texto anunciando que o
+que será dito decorre das informações anteriores, isto é, é conclusão do que foi apresentado.
+Se um parágrafo se inicia com “por outro lado”, sabemos que há outro com “o primeiro lado”.
+Se a oração se inicia com um pronome anafórico como “esse”, “desse”, “isso”, sabemos que há
+informação anterior.
+Pessoal, o que eu quero dizer aqui é que certas palavras, especialmente as conjunções, fazem o
+texto avançar em relação ao que foi dito.
+Esse conhecimento é essencial para a interpretação de texto, pois essas relações de
+“progressão” e “retomada” não são gratuitas: elas são propositais e servem para que o autor
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               15
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+transmita sua mensagem, sua tese, sua informação.
+
+
+A melhor maneira de entender isso é vendo na prática, em uma questão que cobra essa
+percepção de “continuidade” e “sequência coesa”. Nem todas as Bancas cobram diretamente
+dessa forma, com essa nomenclatura, mas esse tipo de exercício é perfeito para aprender a
+identificar a progressão de um texto.
+
+(PGE-PE / 2019)
+Ela fazia um para cada dia da semana, assim, eu podia me esbaldar e me sujar à vontade, porque
+sempre teria um macacão limpo para usar no dia seguinte.
+A substituição do conectivo “porque” por pois manteria os sentidos originais do texto.
+Comentários:
+Sim, o “pois” assume valor causal, sendo equivalente a “porque”. Questão correta. Então, saber
+os conectivos equivalentes é também uma questão de semântica.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             16
+        www.estrategiaconcursos.com.br                                                      68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+                                                COERÊNCIA
+A coerência observa as relações de sentido e lógica que um texto oferece. O texto tem uma
+lógica própria, arquitetada pelo autor.
+Quando se fala em sequência lógica das ideias, refere-se a um tipo específico de coerência, que
+é a coerência interna. A coerência interna está ligada ao conjunto de ideias e à articulação dos
+argumentos utilizados pelo autor para a construção do texto. Diz respeito às partes do texto.
+O outro tipo de coerência é a coerência externa. A coerência externa consiste na ligação do
+texto ao contexto, ou seja, as ideias expostas não podem contrariar a realidade que se apresenta,
+a história, os dados da realidade.
+
+
+Você não tem que necessariamente concordar com aquele sentido, mas deve ser capaz de ver a
+                        relação de lógica que se tenta construir ali.
+A coerência se constrói pela manutenção da expectativa que o uso de certas palavras traz ao
+leitor. Nesse sentido, a contradição gera incoerência.
+Vejamos alguns exemplos:
+      Ex: Nós temos que tomar medidas urgentes, imediatas e drásticas para resolver o
+      problema da educação. Portanto, é fundamental que paremos para pensar, sem pressa, e
+      formemos comissões para estudos e estratégias de longo prazo.
+      Observe que o texto se inicia com tom de “urgência” e “imediatismo” e prossegue com
+      um tom de “calma”. Há visível contradição entre “urgente” e “sem pressa” e “longo
+      prazo”.
+      Esse é um texto incoerente, contraditório.
+
+
+      Ex: Aquela menina sempre foi a mais dedicada da classe. Estudou com muito afinco e
+      disciplina para o concurso e, mesmo assim, foi aprovada.
+      Observe que a conjunção concessiva “mesmo assim” quebra a expectativa criada antes,
+      pois, após a conjunção, cria-se a expectativa de que ela não passou.
+      É incoerente usar um sentido de concessão para algo que seguiu o efeito esperado sem
+      obstáculos. A conjunção coerente aqui seria uma conclusiva (“logo”, “portanto”).
+
+
+      Ex: Todos me odeiam, mas ninguém gosta de mim.
+      Novamente, há incoerência, pois foi usada uma conjunção adversativa (“mas”), que indica
+      contraste e oposição, para relacionar partes que tem o mesmo sentido. Se não há
+      oposição, não é lógico usar uma conjunção adversativa.
+
+
+Qualquer tipo de contradição gera incoerência, seja temporal, argumentativa, espacial, de nível
+de formalidade... Fique atento!
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               17
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+                                              REESCRITURA
+Muitos de vocês têm dificuldade em analisar apenas o que está sendo pedido no comando de
+questão em que há propostas de reescritura de trechos. Há questões que pedem para que seja
+analisada a manutenção da correção gramatical; outras pedem para que se analise a manutenção
+do sentido original do texto; e há ainda aquelas que pedem para analisar a coerência.
+Na maior parte das questões, o que encontramos é um conjugado de dois desses tópicos:
+gramática e sentido, sentido e coerência, gramática e coerência. Nessa hora, surgem muitas
+dúvidas: o que a Banca quer de mim? O que eu preciso analisar em uma questão como essa?
+Erro gramatical implica incoerência? Mudança de sentido implica erro gramatical? Fiquem
+calmos! Vamos esclarecer todos esses pontos para vocês.
+Antes de qualquer coisa, ‘sentido’ e ‘coerência’ NÃO são palavras sinônimas! Portanto, cada uma
+te orientará para um tipo de análise.
+Mudança de sentido não resulta necessariamente em um texto incoerente; pode haver mudança
+de sentido e o texto continuar coerente. Então, o que seria mudança de sentido?
+Se no texto original há uma relação lógica de adição (ex.: Os alunos estudaram e não jogaram
+bola), e na proposta a relação estabelecida é de oposição (ex.: Os alunos estudaram, mas não
+jogaram bola), podemos dizer que aí houve mudança de sentido. A reescritura está incoerente?
+Não!
+Em questões que pedem a análise de sentido, você precisa ficar atento a quatro pontos:
+   ●​ uso de palavras sinônimas
+   ●​ relação de sentido estabelecida pelos conectivos (preposições e conjunções)
+   ●​ tempo e modo verbais (mudança de tempo e modo geralmente altera o sentido original)
+   ●​ orações adjetivas: mudança de uma restritiva para uma explicativa (ou vice-versa) altera o
+      sentido, mas normalmente mantém a correção gramatical.
+Mas, professor, quando haverá então quebra de coerência?
+Lembre-se de que a coerência é a relação lógica entre as ideias veiculadas no texto e também
+entre essas ideias e a realidade. Logo, se eu afirmo “Comprei um carro caro porque estava com
+pouco dinheiro”, a frase estaria incoerente. O que se espera na realidade é que alguém com
+pouco dinheiro não compre um carro caro ou, ainda, que ande de transporte coletivo.
+Por fim, quando a questão cobrar a manutenção da correção gramatical, atente-se
+principalmente aos seguintes pontos:
+   ●​ Ortografia: dígrafos, acentuação gráfica, palavras com ‘x’, ‘ch’, ‘z’, ‘s’, ‘g’ e ‘j’.
+   ●​ Correlação entre tempos verbais
+   ●​ Concordância verbal e nominal: entre sujeito e verbo, verbos impessoais, casos especiais...
+   ●​ Regência verbal e nominal
+   ●​ Ocorrência de crase
+   ●​ Pontuação (separação de sujeito e predicado, substituições de sinais...)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                18
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+(IBGE / 2022)
+Observe a frase: “Os moradores dos campos são melhores que os das cidades”.
+                                                       ==219a34==
+
+A maneira de reescrever essa frase que modifica o seu sentido original é
+(A) Os moradores das cidades são piores que os moradores dos campos.
+(B) Os moradores dos campos são menos bons que os das cidades.
+(C) São melhores os moradores dos campos em relação aos moradores das cidades.
+(D) Em relação aos moradores das cidades, os moradores dos campos são melhores.
+(E) Os moradores dos campos, com referência aos moradores das cidades, são melhores.
+Comentários:
+Questão direta, o texto original diz que os moradores dos campos são "melhores"; a alternativa
+diz que são "menos bons", justamente o antônimo. As demais alternativas apenas invertem a
+ordem se mudança de sentido.
+Gabarito letra B.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                            19
+        www.estrategiaconcursos.com.br                                                     68
+
+                                     
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+                     QUESTÕES COMENTADAS - COESÃO - FGV
+1.        (FGV / Câmara Municipal de São Paulo / 2024)
+Em todas as frases abaixo ocorre a repetição de termos idênticos; para evitá-la, foram utilizados
+meios diferentes. Assinale a opção em que a forma de substituição do segundo termo repetido
+está corretamente identificada.
+A) Uma vez na caverna, o gato começa a procurar o rato de que lhe havia falado a raposa. O gato
+levanta as caixas, que caem fazendo um grande barulho. / substituição pelo pronome relativo
+“que”.
+B) O proprietário entra imediatamente na caverna com uma vara na mão. O gato de esconde
+para poder escapar do proprietário. / substituição pelo pronome pessoal “dele”.
+C) O gato encontrou, no entanto, um local escuro e se escondeu no lugar escuro. / substituição
+pelo advérbio “onde”.
+D) O proprietário acende uma tocha e se aproxima do esconderijo do gato. O gato mostrou
+todas as suas unhas e fugiu. / substituição pelo pronome demonstrativo “aquele”.
+E) O gato compreendeu que a raposa lhe fizera uma cilada. Ele fará a raposa pagar por essa
+cilada. / substituição por pronome pessoal “lhe”.
+Comentários:
+Questão pura de coesão! Vejamos...
+Temos de analisar a repetição do segundo termo repetido.
+A) Uma vez na caverna, o gato começa a procurar o rato de que lhe havia falado a raposa. O gato
+levanta as caixas, que caem fazendo um grande barulho. / substituição pelo pronome relativo
+“que”.
+Incorreto. O pronome relativo "que" retoma caixas, não o gato, que é o segundo termo repetido.
+B) O proprietário entra imediatamente na caverna com uma vara na mão. O gato de esconde
+para poder escapar do proprietário. / substituição pelo pronome pessoal “dele”.
+Correto. Para substituir "o proprietário", bastaria usar o pronome "ele":
+O gato de esconde para poder escapar dele.
+C) O gato encontrou, no entanto, um local escuro e se escondeu no lugar escuro. / substituição
+pelo advérbio “onde”.
+"onde" seria pronome relativo, não advérbio.
+O gato encontrou, no entanto, um local escuro, onde/no qual/em que se escondeu.
+D) O proprietário acende uma tocha e se aproxima do esconderijo do gato. O gato mostrou
+todas as suas unhas e fugiu. / substituição pelo pronome demonstrativo “aquele”.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            20
+           www.estrategiaconcursos.com.br                                                     68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+Incorreto. Entre dois referentes discriminados, utiliza-se "este" para o mais próximo e "aquele"
+para retomar o termo mais distante. Logo, "aquele" não seria o pronome adequado para
+substituir o gato, que é o termo mais próximo.
+O proprietário acende uma tocha e se aproxima do esconderijo do gato. Este mostrou todas as
+suas unhas e fugiu (daquele).
+E) O gato compreendeu que a raposa lhe fizera uma cilada. Ele fará a raposa pagar por essa
+cilada. / substituição por pronome pessoal “lhe”.
+Incorreto. Para retomar "a raposa", termo não preposicionado, objeto direto, devemos usar "a":
+Ele a fará pagar por essa cilada.
+Gabarito letra B.
+                                                          ==219a34==
+
+2.        (FGV / CGE-PB / 2024)
+Todas as frases abaixo mostram um termo sublinhado, que é retomado no decorrer do texto; a
+opção em que essa retomada é identificada corretamente, é:
+A) Toninho vem de contar-nos uma história estranha. Essa história se passa no início do século
+passado. / retomada por meio de um mesmo nome com um determinante demonstrativo;
+B) Bruna mostra neste momento um grande entusiasmo por seu novo trabalho. Seu engajamento
+favorece, sem dúvida, seu progresso profissional na empresa. / retomada por meio de um termo
+genérico, acompanhado de um pronome possessivo;
+C) A neve começou a cair e algumas horas mais tarde tudo estava coberto. Um imenso tapete
+branco se estendia a perder de vista. / retomada por meio de um termo sintético, precedido de
+um indefinido;
+D) João acabou de comprar duas canetas, três lápis e um caderno pautado. Ele necessita desses
+artigos para o trabalho que está fazendo. / retomada por meio de um sinônimo, precedido de um
+demonstrativo;
+E) A escrita data de muitos séculos. Sabem vocês a que data se localiza o primeiro alfabeto? /
+retomada por meio de termo relacionado.
+Comentários:
+A) Toninho vem de contar-nos uma história estranha. Essa história se passa no início do século
+passado. / retomada por meio de um mesmo nome com um determinante demonstrativo;
+Correto. Como a história já havia sido mencionada, utilizou-se adequadamente o pronome
+demonstrativo anafórico "essa".
+Corrijamos as demais:
+B) Bruna mostra neste momento um grande entusiasmo por seu novo trabalho. Seu engajamento
+favorece, sem dúvida, seu progresso profissional na empresa. / retomada por meio de um
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           21
+           www.estrategiaconcursos.com.br                                                    68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+sinônimo;
+C) A neve começou a cair e algumas horas mais tarde tudo estava coberto. Um imenso tapete
+branco se estendia a perder de vista. / retomada por meio de um termo menos sintético, mais
+longo, de valor descritivo;
+D) João acabou de comprar duas canetas, três lápis e um caderno pautado. Ele necessita desses
+artigos para o trabalho que está fazendo. / retomada por meio de um hiperônimo, termo mais
+geral; "artigos" inclui canetas, lápis e caderno.
+E) A escrita data de muitos séculos. Sabem vocês a que data se localiza o primeiro alfabeto? /
+retomada por meio de um termo mais específico, dentro do geral. "Escrita" é um termo amplo,
+que inclui "alfabetos", mas não se limita a eles. Há diversos tipos de escrita.
+Gabarito letra A.
+
+
+3.        (FGV / CGM de Belo Horizonte - MG / 2024)
+As frases a seguir mostram termos sublinhados que retomam termos anteriores. Assinale a frase
+em que o tipo de retomada está corretamente identificado.
+A) Luís Filipe acaba de comprar três esferográficas, dois lápis e folhas de papel pautado. Ele
+necessita desses artigos para suas anotações arqueológicas. / Sinônimo.
+B) Cristiane comprou recentemente novos patins. Os seus velhos já não cabiam mais. /
+Hiperônimo.
+C) Desde alguns anos, nos foram indicados vários produtos para substituírem a aspirina.
+Entretanto esse medicamento permanece eficaz em muitas circunstâncias. / Grupo nominal.
+D) A mulher ocupa mais e mais seu lugar em nossa sociedade. Não é raro ver mulheres ocupando
+cargos de chefia. / Repetição de termos com flexão diferente.
+Comentários:
+Vejamos a estratégia de reescritura/coesão utilizada:
+A) Luís Filipe acaba de comprar três esferográficas, dois lápis e folhas de papel pautado. Ele
+necessita desses artigos para suas anotações arqueológicas. / hiperônimo, termo geral.
+B) Cristiane comprou recentemente novos patins. Os seus velhos já não cabiam mais. / elipse do
+nome "patins".
+C) Desde alguns anos, nos foram indicados vários produtos para substituírem a aspirina.
+Entretanto esse medicamento permanece eficaz em muitas circunstâncias. / hiperônimo, termo
+geral.
+D) A mulher ocupa mais e mais seu lugar em nossa sociedade. Não é raro ver mulheres ocupando
+cargos de chefia. / Repetição de termos com flexão diferente, "mulher" estava no singular e foi
+repetido no plural.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                          22
+           www.estrategiaconcursos.com.br                                                   68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+Gabarito letra D.
+
+
+4.        (FGV / TJ-RN / 2023)
+Entre as opções abaixo há um termo destacado cujo referente se encontra após a sua
+enunciação, exemplificando o que se chama de “catáfora”; a opção em que isso ocorre, é:
+A) Todos aqueles que os citam são admiradores dos ministros;
+B) O quadro, ele foi adquirido ontem;
+C) Choveu muito e isso não surpreende mais;
+D) Não vi o buraco onde caíram os óculos;
+E) A semana em que ele chegou foi no início do mês.
+Comentários:
+Vale a pena revisar alguns conceitos de coesão:
+Coesão Anafórica x Coesão Catafórica:
+
+A coesão faz relação entre partes do texto. Quando o mecanismo de coesão retoma um termo
+ou informação que veio antes dele, diz-se que há coesão anafórica.
+
+Quando “anuncia” um termo ou informação que aparecerá depois, diz-se que há coesão
+catafórica.
+
+Isso tudo está detalhado na função referencial dos pronomes demonstrativos.
+
+         Ex: Estudo todo dia. Isso faz a diferença. (anafórico)
+
+
+         Ex: Desejo isto diariamente: ser aprovado logo. (catafórico)
+Referências Fora do Texto: Exofórica/Dêitica
+Quando os elementos coesivos se referem a elementos fora do texto, como tempo e espaço, a
+gramática diz que eles têm função dêitica, ou exofórica (fora), nesse caso o valor semântica vai
+depender da situação de produção do texto, de onde foi escrito, quando, por quem...
+         Ex: Esse texto foi escrito aqui (aqui onde? Esse sentido dependerá de onde foi escrito.
+         Essa localização é elemento externo ao texto, fora dele.)
+         Ex: Vamos almoçar amanhã (Que dia é amanhã? Depende de que dia é tomado como
+         referência no momento da escrita. Esse elemento está “fora” do texto.)
+         Ex: O Rio de Janeiro anda muito violento, quem poderá nos ajudar? ( “nos” se refere a
+         “nós”, mas quem é esse “nós”. Essa referência está fora do texto, na pessoa de quem fala
+         e de quem ele deseja incluir usando “nós”, a população do RJ)
+Voltando à questão...
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             23
+           www.estrategiaconcursos.com.br                                                      68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+Como o próprio enunciado explica, a catáfora, ou referência catafórica, é a retomada de um
+termo/informação que é "futuro" no texto, que não foi mencionado ainda e será trazido depois.
+Observem:
+
+
+A) Todos aqueles que os citam são admiradores dos ministros;
+"os" é pronome oblíquo átono e se refere a "ministros", termo que só aparece ao final da
+sentença, após o próprio pronome que o retoma. Temos aqui um exemplo de catáfora.
+Nas demais, temos "anáfora", ou referência anafórica, isto é, a retomada de um
+termo/informação que já apareceu anteriormente:
+
+
+B) O quadro, ele foi adquirido ontem;
+
+
+C) Choveu muito e isso não surpreende mais;
+
+
+D) Não vi o buraco onde caíram os óculos;
+
+
+E) A semana em que ele chegou foi no início do mês.
+Gabarito letra A.
+
+
+5.        (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Uma marca da textualidade é a coesão, a ligação formal entre termos. Assinale a frase abaixo em
+que os termos sublinhados não estão ligados por coesão.
+A) O melhor meio de guardar boas ações na memória é refrescá-la com novas.
+B) Gratidão é o sentimento que mais depressa envelhece.
+C) A caridade é a única virtude que precisa da injustiça.
+D) Não há prazer em possuir algo e não o partilhar.
+E) Perdoar é um presente de alto valor, mas seu custo é nenhum.
+Comentários:
+Em “A caridade é a única virtude que precisa da injustiça.”, o pronome relativo “que” tem como
+referente “virtude”, NÃO retoma “caridade”.
+Nas demais, o pronome corretamente retoma o referente sublinhado, como se extrai do modelo
+da questão.
+Gabarito Letra C
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           24
+           www.estrategiaconcursos.com.br                                                    68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+6.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+O número de cadastros das chaves para o Pix, novo sistema de pagamentos instantâneos do
+Banco Central, encerrou esta terça-feira (6), em seu segundo dia de adesão, com 10,1 milhões de
+registros.
+Apenas hoje foram cadastradas cerca de 6,6 milhões de chaves, quase o dobro dos registros
+desta segunda-feira (5), que teve 3,5 milhões (primeiro dia).
+O Pix começa a funcionar em 16 de novembro, mas o cadastro dos usuários começou ontem.
+O registro das chaves é quando o cliente vincula ao número do celular ou ao endereço de e-mail,
+por exemplo, as informações pessoais e bancárias dele.
+Na prática, quem fizer o cadastramento das chaves não vai precisar informar todos os seus dados
+na hora de transferir dinheiro ou pagar conta pelo Pix, ela precisará apenas falar a chave
+cadastrada (CPF, e-mail ou número de celular, por exemplo).
+Segundo o BC, uma pessoa pode fazer até 5 chaves por conta corrente e uma empresa, pode até
+20.
+No primeiro dia, a quantidade de acessos simultâneos gerou instabilidade nos aplicativos de
+bancos e muitos consumidores reclamaram em redes sociais que não conseguiram acessar a
+conta corrente pelo celular.
+(Larissa Garcia. Em dois dias, cadastros no Pix chegam a 10,1 milhões. Disponível em folha.uol.com.br. Acessado em:
+                                                                                             07.10.2020. Adaptado)
+
+A passagem em que há uma expressão compatível com a noção de consequência é:
+A) e muitos consumidores reclamaram em redes sociais
+B) a quantidade de acessos simultâneos gerou instabilidade
+C) quem fizer o cadastramento das chaves
+D) mas o cadastro dos usuários começou ontem.
+E) quando o cliente vincula ao número do celular ou ao endereço de e-mail
+Comentários:
+Letra A: correta. O trecho estabelece relação de consequência de uma informação dada
+imediatamente antes, que é ‘a quantidade de acessos simultâneos gerou instabilidade’.
+Letra B: errada. O trecho destacado veicula um valor de causa.
+Letra C: errada. O trecho possui valor semântico de condição.
+Letra D: errada. O trecho estabelece uma relação de oposição em relação ao que se afirmou
+imediatamente antes no texto.
+Letra E: errada. O trecho possui valor de tempo.
+Gabarito: letra A.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                              25
+           www.estrategiaconcursos.com.br                                                                       68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+7.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+O número de cadastros das chaves para o Pix, novo sistema de pagamentos instantâneos do
+Banco Central, encerrou esta terça-feira (6), em seu segundo dia de adesão, com 10,1 milhões de
+registros.
+Apenas hoje foram cadastradas cerca de 6,6 milhões de chaves, quase o dobro dos registros
+desta segunda-feira (5), que teve 3,5 milhões (primeiro dia).
+O Pix começa a funcionar em 16 de novembro, mas o cadastro dos usuários começou ontem.
+O registro das chaves é quando o cliente vincula ao número do celular ou ao endereço de e-mail,
+por exemplo, as informações pessoais e bancárias dele.
+Na prática, quem fizer o cadastramento das chaves não vai precisar informar todos os seus dados
+na hora de transferir dinheiro ou pagar conta pelo Pix, ela precisará apenas falar a chave
+cadastrada (CPF, e-mail ou número de celular, por exemplo).
+Segundo o BC, uma pessoa pode fazer até 5 chaves por conta corrente e uma empresa, pode até
+20.
+No primeiro dia, a quantidade de acessos simultâneos gerou instabilidade nos aplicativos de
+bancos e muitos consumidores reclamaram em redes sociais que não conseguiram acessar a
+conta corrente pelo celular.
+(Larissa Garcia. Em dois dias, cadastros no Pix chegam a 10,1 milhões. Disponível em folha.uol.com.br. Acessado em: 07.10.2020.
+                                                                                                                     Adaptado)
+
+A passagem em que há uma expressão compatível com a noção de oposição é:
+A) a quantidade de acessos simultâneos gerou instabilidade
+B) quem fizer o cadastramento das chaves
+C) e muitos consumidores reclamaram em redes sociais
+D) mas o cadastro dos usuários começou ontem.
+E) quando o cliente vincula ao número do celular ou ao endereço de e-mail
+Comentários:
+Letra A: errada. O trecho destacado veicula um valor de causa.
+Letra B: errada. O trecho possui valor semântico de condição.
+Letra C: errada. O trecho estabelece relação de consequência de uma informação dada
+imediatamente antes, que é ‘a quantidade de acessos simultâneos gerou instabilidade’.
+Letra D: correta. O trecho estabelece uma relação de oposição em relação ao que se afirmou
+imediatamente antes no texto (o Pix começa a funcionar em 16 de novembro).
+Letra E: errada. O trecho possui valor de tempo.
+Gabarito: letra D.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                                          26
+           www.estrategiaconcursos.com.br                                                                                   68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+8.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+A educação pressupõe a utilização de meios de comunicação social (as mídias). Quando os
+alunos e professores estão distantes, pelo menos uma tecnologia de comunicação é necessária
+para fazer o contato. A integração dos meios de comunicação gera também uma progressiva
+fusão das atividades intelectuais e industriais do campo da informação. Jornalistas das redações
+dos grandes jornais e agências de informação, artistas, comunidade estudantil e pesquisadores
+trabalham diante de uma tela de computador (FONSECA FILHO, 2007).
+Diga-se de passagem, que as mudanças ocorridas com o advento do computador na vida da
+humanidade contribuíram para o crescimento de diversos setores da economia mundial.
+Centenas de pessoas usam o computador na força de trabalho, na escola, instituições públicas e
+privadas. Além disso, houve integração entre várias mídias no campo comercial, industrial,
+cultural e social.
+O papel da escola no século XXI, diante dessas mudanças com advento da informática, é fazer
+com que os meios de comunicação disponíveis na escola estejam em condições de sustentar as
+necessidades dos alunos e professores e mantê-los interessados pelos assuntos pedagógicos e
+científicos, inseridos no contexto escolar, com a utilização de instrumentos capazes de transmitir
+os acontecimentos do mundo real no momento em que estes acontecem.
+Desse modo, o computador deve estar inserido em atividades essenciais, tais como aprender a
+ler, escrever, compreender textos, entender gráficos, contar, desenvolver noções espaciais etc.
+Nesse sentido, a Informática na escola passa a ser parte da resposta a questões ligadas à
+cidadania.
+Foram investigadas práticas de docentes de História na utilização da internet como recurso
+pedagógico durante as aulas realizadas no Laboratório de Informática Educacional-LIED.
+Constatou-se que esse recurso desperta maior interesse dos alunos por diversos temas de
+conhecimento histórico e possibilita a utilização de diversos dispositivos com materiais lúdicos,
+livros digitais, atividades on-line, sites e aplicativos educacionais. De forma geral, os profissionais
+da área consideram o uso da internet como uma proposta pedagógica fundamental para a
+melhoria do ensino e do rendimento escolar.
+A partir das investigações feitas in loco LIED da Escola Estadual Professor Antonio Ferreira Lima
+Neto em Macapá, foi possível constatar que a internet é um recurso que apresenta auxílio ao
+professor e alunos. A maioria dos profissionais usam a rede mundial de computadores para seu
+planejamento de aula; os discentes estão utilizando as ferramentas interativas on-line e
+publicadas em sites de interação social, como youtube, MySpace, Facebook, Orkut e Google
+durante as atividades de História.
+Nesse contexto, a figura do docente é despertar o interesse do aluno pelo saber histórico. As
+justificativas para a utilização da internet nas aulas de História são fundamentais para o
+aprendizado. Verificou-se nas observações in loco que o profissional precisa estar preparado para
+o uso da internet e deve ter apoio da escola para sua formação científica e técnica destinada à
+informática educacional.
+         (Francinei A. da Costa e Clarice C. da Silva. O Uso da Internet como recurso pedagógico para os docentes de
+        História, na Escola Estadual Professor Antonio Ferreira Lima Neto em Macapá-AP. Disponível em partes.com.br.
+                                                                                 Acessado em: 07.10.2020. Adaptado)
+
+Leia as frases a seguir:
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                               27
+           www.estrategiaconcursos.com.br                                                                        68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+·Desse modo, o computador deve estar inserido em atividades essenciais
+·A maioria dos profissionais usam a rede mundial de computadores para seu planejamento
+·Quando os alunos e professores estão distantes
+
+
+Os termos em destaque estabelecem, respectivamente, as seguintes relações de sentido com os
+demais elementos:
+A) moderação, finalidade, tempo
+B) causa, finalidade, circunstância
+C) conclusão, motivo, tempo
+D) ênfase, finalidade, circunstância
+E) conclusão, finalidade, tempo
+Comentários:
+Letra A: errada. ‘Moderação’ está incorreta.
+Letra B: errada. ‘Causa’ e ‘circunstância’ estão incorretas.
+Letra C: errada. ‘Motivo’ está incorreta.
+Letra D: errada. Ênfase e circunstância estão incorretas.
+Letra E: certa. Essas são as relações de sentido estabelecidas.
+Gabarito: letra E.
+
+
+9.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+Foi realizada nessa quinta-feira (1º/10) uma Mesa Técnica com ___ presença de representantes do
+Tribunal de Contas do Município de São Paulo (TCMSP) e da Secretaria Municipal de Educação
+(SME) para discutir o edital de Pregão Eletrônico nº 47/SME/2020, voltado ___ escolha das
+empresas fornecedoras de 465.500 tablets ___ serem distribuídos aos alunos da rede municipal
+de ensino. O encontro virtual durou três horas e contou com a participação do Conselheiro
+Maurício Faria, relator da matéria, de seus assessores, da Auditoria e da Assessoria Jurídica do
+TCMSP, do secretário municipal de Educação de São Paulo, Bruno Caetano, e de representantes
+de sua equipe técnica e jurídica. (...)
+No trecho “de representantes de sua equipe técnica e jurídica” (l. 9 e 10), o pronome destacado
+refere-se à seguinte informação:
+A) participação
+B) relator da matéria
+C) auditoria e Assessoria Jurídica
+D) Secretário municipal de Educação de São Paulo
+E) equipe jurídica
+Comentários:
+O período traz uma série de complementos ao termo “participação”. Vamos focar apenas na
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           28
+           www.estrategiaconcursos.com.br                                                    68
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+parte final, que se refere à pergunta da questão:
+do secretário municipal de Educação de São Paulo, Bruno Caetano, e de representantes de sua
+equipe técnica e jurídica.
+O pronome possessivo “sua” está se referindo ao Secretário municipal de Educação.
+Gabarito: letra D.
+
+
+10.    (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+Uma outra estratégia para evitar-se a repetição de palavras consiste na substituição da segunda
+ocorrência da palavra por um pronome pessoal.
+A frase em que isso foi feito de forma adequada é:
+A) Os meninos procederam mal, por isso lhes condenaram;
+B) Comprei o livro ontem, mas vou revendê-lo;
+C) Os chefes deram as ordens, por isso os obedeci;
+D) João estava na festa, mas não no viram sair;
+E) As meninas estavam no shopping, mas não encontrei-las.
+Comentários:
+A - CONDENAR é verbo transitivo direto. O correto, nesse caso, seria utilizar o pronome "os".
+B - REVENDER é verbo transitivo direto. O forma pronominal "lo" foi corretamente empregada.
+C - OBEDECER é verbo transitivo indireto. O correto, nesse caso, seria utilizar o pronome "lhes".
+D - Não existe o emprego da forma "no" antes do verbo. O correto, nesse caso, seria utilizar o
+pronome "o".
+E - Não existe o emprego da forma "la" nesse caso. O correto, nesse caso, seria utilizar o
+pronome "as".
+Gabarito: letra B.
+
+
+11.    (ASSISTENTE DE GESTÃO PÚBLICA (SEPLAG RECIFE/PE)/ 2019)
+Desde 2016, registra-se queda na cobertura vacinal de crianças menores de dois anos. Segundo
+o Ministério da Saúde, entre janeiro e agosto, nenhuma das nove principais vacinas bateu a meta
+estabelecida — imunizar 95% do público-alvo. O percentual alcançado oscila entre 50% e 70%.
+As autoridades atribuem o desleixo a duas causas. Uma: notícias falsas alarmantes espalhadas
+pelas redes sociais. Segundo elas, vacinas seriam responsáveis pelo autismo e outras
+enfermidades. A outra: a população apagou da memória as imagens de pessoas acometidas por
+coqueluche, catapora, sarampo. Confirmar-se-ia, então, o dito de que o que os olhos não veem o
+coração não sente.
+Trata-se de comportamento irresponsável que tem consequências. De um lado, ao impedir que o
+infante indefeso fique protegido contra determinada doença, os pais lhe comprometem a saúde
+(e até a vida). De outro, contribuem para que a enfermidade continue a se propagar pela
+população. Em bom português: apunhalam o individual e o coletivo. Põem a perder décadas de
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 29
+        www.estrategiaconcursos.com.br                                                          68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+esforço governamental de proteger os brasileiros de doenças evitáveis.
+O Brasil, vale lembrar, é citado como modelo pela Organização Mundial de Saúde. As campanhas
+de vacinação exigiram esforço hercúleo. Para cobrir o território nacional e cumprir o calendário,
+enfrentaram selvas, secas, tempestades. Tiveram êxito. Deixaram relegada para as páginas da
+história a revolta da vacina, protagonizada pela população do Rio de Janeiro que, no início do
+século passado, se rebelou contra a mobilização de Oswaldo Cruz para reduzir as mazelas do Rio
+de Janeiro. O médico quis resolver a tragédia da varíola com a Lei da Vacina Obrigatória.
+Tal fato seria inaceitável hoje. A sociedade evoluiu e se educou. O calendário de vacinação
+tornou-se rotina. Graças ao salto civilizatório, o país conseguiu erradicar males que antes
+assombravam a infância. O retrocesso devolverá o Brasil ao século 19. Há que reverter o
+processo. Acerta, pois, o Ministério da Saúde ao deflagrar nova campanha de adesão para evitar
+a marcha rumo à barbárie. O reforço na equipe de agentes de imunização deve merecer atenção
+especial.
+                       (Adaptado de: “Vacina: avanço civilizatório”. Diário de Pernambuco. Editorial. Disponível em:
+                                                                                  www.diariodeper-nambuco.com.br)
+
+Considerado o contexto, ao reescrever o trecho Tal fato seria inaceitável hoje. A sociedade
+evoluiu e se educou (5º parágrafo) em um único período, com o sentido e a correção
+preservados, tem-se:
+Tal fato seria inaceitável hoje,
+A) uma vez que a sociedade evoluiu e se educou.
+B) conquanto a sociedade evoluiu e se educou.
+C) ainda que a sociedade evoluiu e se educou.
+D) antes que a sociedade evoluiu e se educou.
+E) todavia a sociedade evoluiu e se educou.
+Comentários:
+A - Correto. Veja que o conectivo empregado tem ideia de causa, que é a relação existente entre
+as duas orações.
+B - Incorreto. Veja que a utilização da conjunção concessiva "conquanto" introduz uma ideia não
+presente originalmente entre os períodos, de modo que não se pode usá-la.
+C - Incorreto. Veja que a utilização da conjunção concessiva "ainda que" introduz uma ideia não
+presente originalmente entre os períodos, de modo que não se pode usá-la.
+D - Incorreto. Veja que a utilização da conjunção temporal "antes que" introduz uma ideia não
+presente originalmente entre os períodos, de modo que não se pode usá-la.
+E - Incorreto. Veja que a utilização da conjunção adversativa "todavia" introduz uma ideia não
+presente originalmente entre os períodos, de modo que não se pode usá-la.
+Gabarito: letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                  30
+        www.estrategiaconcursos.com.br                                                                           68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+12.    (ASSISTENTE DE GESTÃO PÚBLICA (SEPLAG RECIFE/PE)/ 2019)
+Mais da metade dos seres humanos hoje vivem em cidades, e esse número deve aumentar para
+70% até 2050. Em termos econômicos, os resultados da urbanização foram notáveis. As cidades
+representam 80% do Produto Interno Bruto (PIB) global. Nos Estados Unidos, o corredor
+Boston-Nova York-Washington gera mais de 30% do PIB do país.
+Mas o sucesso tem sempre um custo – e as cidades não são exceção, segundo análise do Fórum
+Econômico Mundial. Padrões insustentáveis de consumo, degradação ambiental e desigualdade
+persistente são alguns dos problemas das cidades modernas. Recentemente, entraram na
+equação as consequências da transformação digital. Há quem fale sobre uma futura
+desurbanização. Mas os especialistas consultados pelo Fórum descartam essa possibilidade.
+Preferem discorrer sobre como as cidades vão se adaptar à era da digitalização e como vão
+moldar a economia mundial.
+A digitalização promete melhorar a vida das pessoas nas cidades. Em cidades inteligentes como
+Tallinn, na Estônia, os cidadãos podem votar nas eleições nacionais e envolver-se com o governo
+local via plataformas digitais, que permitem a assinatura de contratos e o pagamento de
+impostos, por exemplo. Programas similares em Cingapura e Amsterdã tentam criar uma espécie
+de “governo 4.0”.
+Além disso, a tecnologia vai permitir uma melhora na governança. Plataformas digitais
+possibilitam acesso, abertura e transparência às operações de governos locais e provavelmente
+irão mudar a forma como os governos interagem com as pessoas.
+        (Adaptado de:“5 previsões para a cidade do futuro, segundo o Fórum Econômico Mundial”. Disponível em:
+                                                                             https://epocanegocios.globo.com)
+
+Plataformas digitais possibilitam acesso, abertura e transparência às operações de governos
+locais / e provavelmente irão mudar a forma como os governos interagem com as pessoas. (4º
+parágrafo)
+Entre as ideias separadas por barra nessa passagem do texto, se estabelece relação de,
+respectivamente,
+A) causa e consequência.
+B) condição e conformidade.
+C) finalidade e comparação.
+D) concessão e adição.
+E) modo e tempo.
+Comentários:
+A relação que se observa no trecho destacado é de causa e consequência. Gabarito: letra A.
+
+
+13.    (FGV / TRIBUNAL DE JUSTIÇA DO CEARÁ / 2019)
+A frase abaixo em que o termo sublinhado repete ou se refere a um termo anterior é:
+A) O justo é tranquilíssimo, o injusto é sempre muito solícito;
+B) Raspai o juiz, encontrareis o carrasco;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           31
+        www.estrategiaconcursos.com.br                                                                    68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+C) Não pretendas ser juiz se não tens força para desenraizar as injustiças;
+D) É natural desejar que se faça justiça; a maior de todas as almas não ficaria insensível ao prazer
+de ser conhecida como tal;
+E) Causam menos dano cem delinquentes do que um mau juiz.
+Comentários:
+A - Injusto não se refere a nenhum termo anterior.
+B - "Carrasco" não se refere a nenhum termo anterior.
+C - "Injustiças" não se refere a nenhum termo anterior.
+D - "Tal" é um pronome demonstrativo, usado para se referir a "a maior de todas as almas".
+E - "Mau" não faz referência a nenhum termo anterior.
+Gabarito: letra D.
+
+
+14. (SECRETARIA MUNICIPAL DE FINANÇAS,                            TECNOLOGIA       DE    INFORMAÇÃO          E
+CONTROLE INTERNO DE MANAUS (AM) / 2019)
+1 - Por boa parte da história humana, a privacidade estava pouco presente na vida da maioria
+das pessoas. Não existiam expectativas de que uma porção significativa da vida transcorresse
+distante dos olhares alheios.
+2 - A difusão da privacidade em escala maciça, com certeza uma das realizações mais
+impressionantes da civilização moderna, dependeu de outra realização, ainda mais
+impressionante: a criação da classe média. Só nos últimos 300 anos, quando a maior parte das
+pessoas obtiveram os meios financeiros para controlar o ambiente físico, as normas, e
+eventualmente os direitos, de privacidade vieram a surgir.
+3 - A conexão histórica entre a privacidade e a riqueza ajuda a explicar por que a privacidade está
+sob ataque hoje. A situação nos faz recordar que ela não é um traço básico da existência
+humana, mas sim um produto de determinado arranjo econômico - e portanto um estado de
+coisas transitório.
+4 - Hoje as forças da criação de riqueza já não favorecem a expansão da privacidade, mas
+trabalham para solapá-la. Testemunhamos a ascensão daquilo que a socióloga Shoshanna Zuboff
+define como "capitalismo de vigilância" - a transformação de nossos dados pessoais em
+mercadoria por gigantes da tecnologia. Encaramos um futuro no qual a vigilância ativa é uma
+parte tão rotineira das transações que se tornou praticamente inescapável.
+5 - Como nossas experiências com a mídia social têm deixado claro, agimos diferente quando
+sabemos estar sendo observados. A privacidade é a liberdade de agir sem ser observado, e
+assim, em certo sentido, de sermos quem realmente somos - não o que desejamos que os outros
+pensem que somos. A maioria deseja maior proteção à sua privacidade. Porém, isso requererá a
+criação de diversas leis.
+            (Adaptado de: The New York Times. Tradução de Paulo Migliacci. Disponível em: www.folha.uol.com.br)
+
+Hoje as forças da criação de riqueza já não favorecem a expansão da privacidade, mas trabalham
+para solapá-la.- (4º parágrafo)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                             32
+        www.estrategiaconcursos.com.br                                                                      68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Encaramos um futuro no qual a vigilância ativa é uma parte tão rotineira das transações... (4º
+parágrafo)
+A situação nos faz recordar que ela não é um traço básico da existência humana... (3º parágrafo)
+No contexto, os elementos sublinhados acima referem-se, respectivamente, a:
+A) riqueza - vigilância - existência humana.
+B) privacidade - futuro - privacidade.
+C) privacidade - futuro - existência humana.
+D) riqueza - futuro - privacidade.
+E) privacidade - vigilância - privacidade.
+Comentários:
+I. privacidade.
+As forças da criação de riqueza trabalham para solapar o quê? A resposta é a "privacidade".
+II. futuro.
+A quem (ou a que) "qual" se refere? Observe que foi utilizada a expressão "no qual", retomando
+o termo anterior "futuro", pois a vigilância ativa é uma parte tão rotineira das transações no
+futuro.
+III. privacidade.
+Mas a quem (ou a que) "ela" se refere? Quem (ou o que) não é um traço básico da existência
+humana?
+A resposta pode ser encontrada no trecho completo: "A conexão histórica entre a privacidade e
+a riqueza ajuda a explicar por que a privacidade está sob ataque hoje. A situação nos faz recordar
+que ela não é um traço básico da existência humana (...)"
+Portanto, trata-se da "privacidade".
+Gabarito: letra B.
+
+
+15.     (FGV / TJ-AL / ANALISTA JUD. / 2018)
+“A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão de quarta
+feira e esclareceu que elas mostram dois ‘assessores de deputados’ trocando figurinhas durante a
+sessão. ‘O comportamento não é justificável. Os gabinetes dos deputados aos quais os
+assessores pertencem, já foram informados, e cabe aos parlamentares decidir como proceder’”.
+Nesse segmento do texto 2, o componente sublinhado que NÃO se refere ou repete nenhum
+termo anterior é:
+A) que;
+B) elas;
+C) sessão;
+D) comportamento;
+E) deputados.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             33
+           www.estrategiaconcursos.com.br                                                      68
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Comentários:
+a) que – trata-se de conjunção integrante, não retoma nenhum termo anterior, apenas funciona
+como conectivo da oração substantiva.
+b) elas – retoma “imagens”
+c) sessão – refere-se à sessão dos deputados, à sessão parlamentar de quarta-feira.
+d) comportamento – refere-se a “trocar figurinhas”
+e) deputados – repete e retoma os deputados que estavam trocando figurinhas. Gabarito letra A.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                             34
+        www.estrategiaconcursos.com.br                                                      68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+               QUESTÕES COMENTADAS - COERÊNCIA - FGV
+   1. (FGV / TJ-RJ / 2024)
+Assinale a frase que se mostra inteiramente coerente.
+A) É raro alguém querer ouvir aquilo que não quer ouvir.
+B) Às vezes ganha-se mais fazendo os trabalhos que pagam menos.
+C) Disseram-me que metade dos sócios estaria ansiosa para envolver-se, e a outra metade seria
+apática. Depois de quatro anos descobri que é exatamente o contrário.
+D) Um bom arqueiro acerta o alvo antes de ter disparado.
+E) Vendeu a empresa. Deixou de ser rico, agora só tem dinheiro.
+Comentários:
+A incoerência é o conflito de informações contraditórias, é a falta de harmonia lógica entre as
+informações. Em uma palavra, incoerência é "contradição".
+Vejamos a incoerência:
+A) É raro alguém querer ouvir aquilo que não quer ouvir.
+há contradição entre "querer ouvir" e não querer ouvir.
+C) Disseram-me que metade dos sócios estaria ansiosa para envolver-se, e a outra metade seria
+apática. Depois de quatro anos descobri que é exatamente o contrário.
+Se são duas metades, o contrário seria a mesma coisa: metade apática e metade ansiosa, o
+contrário seria igual, então não seria exatamente "o contrário"; daí a incoerência.
+D) Um bom arqueiro acerta o alvo antes de ter disparado.
+É impossível acertar sem disparar.
+E) Vendeu a empresa. Deixou de ser rico, agora só tem dinheiro.
+Aqui, vale uma ressalva: a banca usou esse "ter dinheiro" como sinônimo de ser rico, conforme o
+sentido popular da expressão. Ele "tem dinheiro", ou seja, é rico. Com essa leitura, há
+contradição.
+B) Às vezes ganha-se mais fazendo os trabalhos que pagam menos.
+Na letra B, não há incoerência, pois "ganhar mais" não foi usado no sentido financeiro, então não
+há contradição com o sentido de "pagam menos", este, sim, literalmente financeiro.
+Portanto, apesar de uma possível confusão entre B e E, o gabarito foi a letra E, por "ganhar mais"
+não ser necessariamente dinheiro. Aliás, sempre dizemos: "eu ganharia mais se tivesse ido
+dormir", no sentido de ter mais vantagem ou benefício, não financeiro.
+Gabarito letra E.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                35
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+   2. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Uma das marcas da textualidade é a coerência; assinale a frase abaixo que está integralmente
+coerente.
+A) A cura da monotonia é a curiosidade. Não há cura para a curiosidade.
+B) Ficar triste por um minuto equivale a ficar 120 segundos sem alegria.
+C) O turista visitou o Pão de Açúcar no Rio de Janeiro e disse que vai repetir a experiência em
+outros países.
+D) Se você se deparar com uma encruzilhada em seu caminho, entre por ela.
+E) Era uma obra impossível; foi lá e fez.
+Comentário:
+                                                       ==219a34==
+
+Coerência é harmonia lógica, ausência de contradição ou incongruência. A afirmação “faz
+sentido”, tem cabimento, não menciona nada impossível, nada contrário à ordem natural da
+realidade, por assim dizer.
+Por exemplo:
+a) A cura da monotonia é a curiosidade. Não há cura para a curiosidade.
+Agora vejamos exemplos de incoerência:
+b) Ficar triste por um minuto equivale a ficar 120 segundos sem alegria.
+Incoerente: um minuto tem apenas 60 segundos.
+c) O turista visitou o Pão de Açúcar no Rio de Janeiro e disse que vai repetir a experiência em
+outros países.
+Incoerente: não há como repetir essa experiência em outros países, pois só há o Pão de Açúcar
+no Brasil.
+d) Se você se deparar com uma encruzilhada em seu caminho, entre por ela.
+Incoerente: por ela onde? Encruzilhadas trazem mais de um caminho.
+e) Era uma obra impossível; foi lá e fez.
+Incoerente: se era impossível, não poderia ter feito.
+Gabarito letra A
+
+   3. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Uma das marcas da textualidade é a coerência; assinale a frase abaixo que não exemplifica a
+incoerência.
+A) A história é um profeta que faz previsões sobre o passado.
+B) Deixe para amanhã o que você já fez ontem.
+C) Vivemos em paz pela imposição de nossa vontade.
+D) Quando você chegar aos 80 já terá aprendido tudo. Você só precisará lembrar disso.
+E) O personagem de Guimarães Rosa vivia na terceira margem do rio.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              36
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Comentário:
+Incoerência é ausência de harmonia lógica interna do texto, é contradição, incongruência.
+Cuidado, que, nas questões da FGV, muitas vezes a incoerência é apenas aparente, derivada do
+sentido das palavras, mas tem sentido figurado e pode muitas vezes ser explicada com uma
+análise mais profunda. Na prática, devemos procurar as contradições. Vejamos.
+a) Incorreto. Previsão é sobre o futuro, não sobre o passado.
+b) Incorreto. Se já fez ontem, não há como deixar para amanhã.
+c) Incorreto. Se é nossa vontade, como pode haver “imposição”?
+d) Correto. Quando você chegar aos 80 já terá aprendido tudo. Você só precisará lembrar disso
+(referência à memória falha dos idosos).
+e) Incorreto. Um rio só tem duas margens. Como eu mencionei, numa linguagem figurada,
+literária, é até possível mergulhar no texto e buscar um sentido coerente, mas não deve ser assim
+nossa análise das alternativas.
+Gabarito letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                               37
+        www.estrategiaconcursos.com.br                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+              QUESTÕES COMENTADAS - REESCRITURA - FGV
+   1. (FGV / ALESC / 2024)
+
+Observe a frase a seguir.
+
+“Há sempre tempo para se dizer alguma coisa, mas não para se ficar em silêncio”.
+
+Assinale a modificação estrutural dessa frase que não está adequada.
+
+A) Mudar formas reduzidas para formas desenvolvidas: “Há sempre tempo para que se diga
+alguma coisa, mas não para que se fique em silêncio”.
+
+B) Mudança de voz passiva para voz ativa: “Há sempre tempo para que digamos alguma coisa,
+mas não para que fiquemos em silêncio”.
+
+C) Inversão na posição de termos: “Nem sempre há tempo para se ficar em silêncio, mas há
+sempre tempo para se dizer alguma coisa”.
+
+D) Troca de forma impessoal por forma personalizada: “Há sempre tempo para que digamos
+alguma coisa, mas não para que fiquemos em silêncio”.
+
+E) Mudança de tempo da frase para o passado: “Houve sempre tempo para que disséssemos
+algo, mas não para que ficássemos em silêncio”.
+
+Comentários:
+
+Nesta questão de reescritura, a banca ignorou totalmente as regras de uso das conjunções
+adversativas, que além da oposição, têm valor argumentativo: mostram a informação mais
+importante, predominante no período.
+
+A reescrita na letra C altera o sentido; ao inverter a posição do "mas", perde-se a noção original
+de "parte mais forte do argumento", que será invertida.
+
+Além disso, o "nem sempre há tempo para se ficar em silêncio" significa que há ocasiões em que
+se pode ficar em silêncio e outras não. É o contrário do que diz o texto.
+
+Sobre a posição do "mas", segue a lição de Platão e Fiorin
+
+      7. os que assinalam uma relação de contrajunção, isto é, ligam enunciados com orientação
+      argumentativa contrária: conjunções adversativas (mas, contudo, todavia, no entanto,
+      entretanto, porém) e concessivas (embora, apesar de, apesar de que, conquanto, ainda
+      que, posto que, se bem que). Qual é a diferença entre as adversativas e as concessivas, se
+      ambas ligam enunciados com orientação argumentativa contrária? Nas adversativas,
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                38
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+      prevalece a orientação do segmento introduzido pela conjunção. Ao longo dos dois
+      últimos séculos de luta pela democracia, as tendências de esquerda podem ter-se
+      colocado algumas vezes contra a liberdade política, mas têm sido sempre vanguardeiras
+      das igualdades política e social. (Brasílio Sallum Jr.) Nesse caso, a oração não iniciada por
+      mas conduz a uma conclusão negativa sobre o papel das esquerdas, enquanto a
+      começada pela conjunção leva a uma conclusão positiva. Essa segunda orientação é a
+      mais forte.
+
+      Compare- 150 se, por exemplo,
+
+      Ele é inteligente, mas não é trabalhador
+
+       com
+
+      Ele não é trabalhador, mas é inteligente.
+
+      No primeiro caso, o que se quer dizer é que o fato de ser inteligente acaba sendo
+      suplantado pela falta de trabalho. No segundo, que não ser trabalhador perde relevância
+      diante do fato de ser inteligente. Quando se usam as conjunções adversativas, introduz-se
+      um argumento com vistas a determinada conclusão, para, em seguida, apresentar um
+      argumento decisivo para uma conclusão contrária. A estratégia discursiva é a de orientar
+      para uma dada conclusão e, imediatamente, introduzir um argumento para anulá-la.
+
+      https://obarao.damasio.com.br/wp-content/uploads/2021/02/Manual-do-Candidato-Lingu
+      a-Portuguesa-2001-Francisco-Platao-Savioli-e-Jose-Luiz-Fiorin.pdf
+
+A letra C traz clara mudança de sentido; a B não traz nenhum erro na voz passiva. Mesmo assim,
+a banca não admitiu.
+
+Gabarito letra *B.
+
+   2. (FGV / RECEITA FEDERAL / 2023)
+O conteúdo programático desta prova inclui operações de re-escritura da frase. Assinale a opção
+em que a modificação ocorrida da primeira frase está corretamente indicada.
+A) A inteligência é uma construção do sujeito para enriquecer os objetos externos / A inteligência
+é uma construção do sujeito para o enriquecimento dos objetos externos = transformação de
+uma oração reduzida em oração desenvolvida.
+B) Errar é humano. Culpar o computador é ainda mais humano / Errar é humano, embora culpar o
+computador seja ainda mais humano = substituir um sinal de pontuação por um conector
+adequado.
+C) Não há exceções à regra de que todos gostam de ser a exceção da regra / Não há exceções à
+regra de que todos gostam de ser a exceção dela = substituição de um termo repetido por um
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 39
+        www.estrategiaconcursos.com.br                                                          68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+hiperônimo.
+D) O arquiteto deseja sempre realizar o projeto e o pagamento do serviço / O arquiteto deseja
+sempre realizar o projeto e receber o pagamento = modificar um termo para restabelecer o
+paralelismo na frase.
+E) Não basta fugir, é preciso fugir na direção certa / Não basta fugir, é preciso fazê-lo na direção
+certa = substituição de um termo repetido por um sinônimo.
+Comentários:
+Vejamos:
+A) Incorreto. A inteligência é uma construção do sujeito para enriquecer os objetos externos / A
+inteligência é uma construção do sujeito para o enriquecimento dos objetos externos
+Houve transformação de uma oração reduzida em um nome. Não há oração, pois
+"enriquecimento" é uma nominalização, é um substantivo. Oração deve ter verbo.
+B) Incorreto. O conector não é adequado, pois o sentido é de soma, não de concessão.
+C) Incorreto.
+Não há exceções à regra de que todos gostam de ser a exceção da regra / Não há exceções à
+regra de que todos gostam de ser a exceção dela = substituição de um termo repetido por um
+pronome.
+Hiperônimo é um termo de sentido geral. Hipônimo é um termo de sentido específico. E possível
+trocar um pelo outro como recurso coesivo, numa relação "gênero-espécie".
+Ex: Messi foi o herói da copa. O jogador marcou dois gols na final.
+Ex: O diesel é um vilão ambiental. Tornou-se combustível mais poluente.
+D) Correto. Paralelismo é o uso de estruturas paralelas, simétricas, idênticas.
+Em "O arquiteto deseja sempre [realizar o projeto] e [o pagamento do serviço]", os termos não
+estão com a mesma forma
+[realizar o projeto] é oração.
+[o pagamento do serviço] é estrutura nominal.
+Para reestabelecer o paralelismo, os dois termos assumiram forma de oração:
+O arquiteto deseja sempre [realizar o projeto] e [receber o pagamento]
+E) Incorreto. Em "Não basta fugir, é preciso fazê-lo na direção certa", houve substituição de um
+termo por um verbo vicário: "fazer" tem sentido de "fugir":
+Fazê-lo = Fazer Isso (fugir)
+Gabarito letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                  40
+        www.estrategiaconcursos.com.br                                                           68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+   3. (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+A educação pressupõe a utilização de meios de comunicação social (as mídias). Quando os
+alunos e professores estão distantes, pelo menos uma tecnologia de comunicação é necessária
+para fazer o contato. A integração dos meios de comunicação gera também uma progressiva
+fusão das atividades intelectuais e industriais do campo da informação. Jornalistas das redações
+dos grandes jornais e agências de informação, artistas, comunidade estudantil e pesquisadores
+trabalham diante de uma tela de computador (FONSECA FILHO, 2007).
+Diga-se de passagem, que as mudanças ocorridas com o advento do computador na vida da
+humanidade contribuíram para o crescimento de diversos setores da economia mundial.
+Centenas de pessoas usam o computador na força de trabalho, na escola, instituições públicas e
+privadas. Além disso, houve integração entre várias mídias no campo comercial, industrial,
+cultural e social.
+O papel da escola no século XXI, diante dessas mudanças com advento da informática, é fazer
+com que os meios de comunicação disponíveis na escola estejam em condições de sustentar as
+necessidades dos alunos e professores e mantê-los interessados pelos assuntos pedagógicos e
+científicos, inseridos no contexto escolar, com a utilização de instrumentos capazes de transmitir
+os acontecimentos do mundo real no momento em que estes acontecem.
+Desse modo, o computador deve estar inserido em atividades essenciais, tais como aprender a
+ler, escrever, compreender textos, entender gráficos, contar, desenvolver noções espaciais etc.
+Nesse sentido, a Informática na escola passa a ser parte da resposta a questões ligadas à
+cidadania.
+Foram investigadas práticas de docentes de História na utilização da internet como recurso
+pedagógico durante as aulas realizadas no Laboratório de Informática Educacional-LIED.
+Constatou-se que esse recurso desperta maior interesse dos alunos por diversos temas de
+conhecimento histórico e possibilita a utilização de diversos dispositivos com materiais lúdicos,
+livros digitais, atividades on-line, sites e aplicativos educacionais. De forma geral, os profissionais
+da área consideram o uso da internet como uma proposta pedagógica fundamental para a
+melhoria do ensino e do rendimento escolar.
+A partir das investigações feitas in loco LIED da Escola Estadual Professor Antonio Ferreira Lima
+Neto em Macapá, foi possível constatar que a internet é um recurso que apresenta auxílio ao
+professor e alunos. A maioria dos profissionais usam a rede mundial de computadores para seu
+planejamento de aula, e que os discentes estão utilizando as ferramentas interativas on-line e
+publicadas em sites de interação social, como youtube, MySpace, Facebook, Orkut e Google
+durante as atividades de História.
+Nesse contexto, a figura do docente é despertar o interesse do aluno pelo saber histórico. As
+justificativas para a utilização da internet nas aulas de História são fundamentais para o
+aprendizado. Verificou-se nas observações in loco que, o profissional precisa estar preparado
+para o uso da internet e deve ter apoio da escola para sua formação científica e técnica
+destinado a informática educacional.
+     (Francinei A. da Costa e Clarice C. da Silva. O Uso da Internet como recurso pedagógico para os docentes de
+    História, na Escola Estadual Professor Antonio Ferreira Lima Neto em Macapá-AP. Disponível em partes.com.br.
+                                                                             Acessado em: 07.10.2020. Adaptado)
+Assinale a alternativa que apresenta a reescrita do trecho “Desse modo, o computador deve
+estar inserido em atividades essenciais” sem alteração de sentido.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                              41
+        www.estrategiaconcursos.com.br                                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+A) Conquanto, o computador deve estar inserido em atividades essenciais
+B) Além disso, o computador deve estar inserido em atividades essenciais
+C) O computador deve, dessarte, estar inserido em atividades essenciais
+D) O computador deve, todavia, estar inserido em atividades essenciais
+E) Porquanto, o computador deve estar inserido em atividades essenciais
+Comentários:
+O trecho original é inserido por uma conjunção que carrega a noção de conclusão em relação ao
+que foi dito anteriormente.
+Letra A: errada. ‘Conquanto’ carrega o valor semântico adversativo.
+Letra B: errada. O conectivo ‘além disso’ é usado com valor de adição, para acrescentar uma
+informação.
+                                                       ==219a34==
+
+Letra C: correta. ‘Dessarte’ é sinônimo de ‘desse modo’, ’assim’, e expressa valor de conclusão.
+Portanto, a alternativa está correta.
+Letra D: errada. ‘Todavia’ carrega o valor semântico adversativo.
+Letra E: errada. ‘Porquanto’ possui valor semântico de causa.
+Gabarito: letra C.
+
+
+   4. (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+A frase em que a substituição do segmento sublinhado por um particípio de valor equivalente foi
+feita de forma adequada é:
+A) O terreno que está sob as águas do rio / submetido às;
+B) Um edifício que está sobre duas rochas / construído;
+C) Os restos que estão na lata do lixo / acolhidos;
+D) O estado que está entre Amazonas e Maranhão / posto;
+E) Um carro que está na garagem / paralisado.
+Comentários:
+A - Note que se o terreno está embaixo das águas do rio, um particípio equivalente para o trecho
+seria SUBMERSO.
+B - Pessoal, o termo "que está" possui sentido de localizado, situado. Nesse contexto, podemos
+considerar que temos o mesmo sentido de construído.
+Percebam: se o edifício está localizado sobre duas rochas, ele foi construído sobre as duas
+rochas.
+C - Ao dizer que os restos estão na lata de lixo, não temos sentido de proteção. Repare que um
+particípio equivalente para o trecho seria LOCALIZADOS.
+D - Note que dizer que o estado foi "colocado" é incoerente. Um particípio equivalente para o
+trecho seria SITUADO.
+E - Pessoal, "paralisado" tem sentido de interrupção, dessa forma, não é a melhor opção de
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              42
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+substituição para o trecho. Um particípio adequado seria ESTACIONADO.
+Gabarito: letra B.
+
+
+   5. (AUDITOR FISCAL TRIBUTÁRIO MUNICIPAL (PREF SÃO JOSÉ DO RIO PRETO/SP) / 2020)
+                                                 [Laços antigos]
+Na Idade da Pedra, os amigos dependiam uns dos outros para sua própria sobrevivência. Os
+humanos viviam em comunidades solidárias e os amigos eram pessoas com quem se ia à caça
+dos mamutes. Juntos, sobreviviam a longas jornadas e a invernos rigorosos. Cuidavam um do
+outro quando um deles ficava doente, e compartilhavam a última porção de comida em épocas
+de necessidade.
+Tais amigos conheciam uns aos outros mais intimamente do que muitos casais de nossos dias.
+Quantos maridos podem dizer que sabem qual será o comportamento da esposa se eles forem
+atacados por um mamute enfurecido?
+Substituir as redes tribais precárias pela segurança das economias e dos Estados paternalistas
+modernos obviamente tem vantagens enormes, mas é provável que a qualidade e a
+profundidade das relações íntimas tenha sido afetada.
+(HARARI, Yuval Noah. Sapiens - Uma breve história da humanidade. Trad. Janaína Marcoantonio. 38 ed. Porto Alegre:
+                                                                                             L&PM, 2018, p. 393)
+Uma expressão do texto é traduzida por outra de sentido equivalente em:
+A) dependiam uns dos outros para sua própria sobrevivência (1º parágrafo) = a dependência era
+compartilhada em recíproca sobrevivência
+B) sobreviviam a longas jornadas e a invernos rigorosos (1º parágrafo) = enfrentavam
+rigorosamente as excursões e a estiagem
+C) compartilhavam a última porção de comida (1º parágrafo) = nutriam-se com o derradeiro
+bocado de alimento
+D) Substituir as redes tribais precárias (3º parágrafo) = Alternar as parcas relações familiares
+E) obviamente tem vantagens enormes (3º parágrafo) = com toda a evidência é grandemente
+vantajoso
+Comentários:
+A - A primeira parte do texto original ("dependiam uns dos outros") foi bem traduzida, com
+sentido equivalente, pela alternativa. Vejamos:
+"A dependência era compartilhada".
+O erro se encontra na segunda parte. Analisemos:
+"em recíproca sobrevivência".
+O que era recíproca não era a sobrevivência, e sim a dependência um do outro. Eles dependiam
+uns dos outros para SUA PRÓPRIA sobrevivência, e não para garantir a mútua.
+B - Primeiramente, podemos notar que a palavra "jornadas" não foi bem substituída pela palavra
+"excursões" e, além disso, o adjetivo que acompanhava a primeira era "longas", enquanto a
+segunda foi antecipada pelo advérbio "rigorosamente", que, na verdade, deveria se referir ao
+inverno.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                               43
+        www.estrategiaconcursos.com.br                                                                        68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+No mais, muito menos a frase "invernos rigorosos" foi bem substituída pela palavra "estiagem",
+que significa tempo seco.
+C - Nessa alternativa o erro é apenas um: o verbo.
+É nítida a diferença, uma vez que o verbo usado no texto "compartilhavam" dá sentido de que a
+última porção de comida era compartilhada entre eles (amigos/comunidades) em épocas de
+necessidade.
+Enquanto o verbo usado na alternativa "nutriam-se" dá sentido de que cada um nutria a si
+mesmo com um último pedaço de alimento.
+Assim, o verbo da alternativa não deu a mesma essência que o texto desejava.
+D - A expressão trazida pela alternativa "alternar as parcas relações familiares" não traduz o
+sentido da sentença produzida pelo texto "substituir as redes tribais precárias".
+A frase do texto, ao dizer "redes tribais precárias" refere-se às relações profundas e íntimas que
+os humanos tinham para sobreviver na Idade da Pedra.
+Já a citação da alternativa "parcas relações familiares" não dá o mesmo sentido, uma vez que
+condiciona à relação familiar, o que não ocorria nos vínculos vividos em comunidade na Idade da
+Pedra, pois estas não eram necessariamente familiares.
+E - Podemos observar que a frase da alternativa tem palavras correspondentes para todas as
+da citação do enunciado, trazendo sentido equivalente. Assim, observemos, qual palavra
+concorda com qual:
+"obviamente" = "com toda a evidência"
+"tem vantagens" = "vantajoso"
+"enormes" = "é grandemente"
+Gabarito: letra E.
+
+
+   6. (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+Comentários:
+A - Os termos destacados não possuem o mesmo sentido.
+Disposição = tendência natural que leva alguém a fazer alguma coisa.
+Dedicação = devotamento, entrega.
+B - Os termos destacados não possuem o mesmo sentido.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                44
+        www.estrategiaconcursos.com.br                                                         68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Ter vontade = desejar.
+Gostar = achar agradável.
+C - Os termos destacados não possuem o mesmo sentido.
+"ter necessidade" = precisar / "exigir" = solicitar
+D - Os termos destacados não possuem o mesmo sentido.
+"não ter serventia" = não possuir utilidade / "deteriorar" = estragar.
+E - "Ter a intenção" possui o mesmo sentido de "pretender".
+Dessa forma, a substituição está adequada.
+Gabarito: letra E.
+
+
+   7. (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+Algumas vezes, para reduzir-se a extensão do texto, ocorre a substituição de uma forma negativa
+por uma positiva equivalente.
+A frase abaixo em que isso foi feito de forma semanticamente adequada é:
+A) Os projetos não avançaram nas Comissões / recuaram;
+B) Vejo que os candidatos não foram chamados / desistiram;
+C) Os turistas não foram bem recebidos / foram expulsos;
+D) Os estudantes não continuaram no curso / fracassaram;
+E) O presidente não aceitou o convite / declinou do.
+Comentários:
+A - Os termos destacados não apresentam o mesmo sentido.
+"não avançar" = permanecer inerte / "recuar" = retroceder
+B - Os termos destacados não apresentam o mesmo sentido.
+"não ser chamado" = não ser convocado / "desistir" = abdicar
+C - Os termos destacados não apresentam o mesmo sentido.
+"não ser bem recebido" = ser mal recebido / "ser expulso" = ser retirado
+D - Os termos destacados não apresentam o mesmo sentido.
+"não continuar" = não prosseguir / "fracassar" = falhar
+E - Um dos sinônimos do verbo "declinar" é exatamente "recusar".
+Gabarito: letra E.
+
+
+   8. (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+A frase abaixo em que a substituição do segmento sublinhado por um advérbio foi feita de forma
+adequada é:
+A) Sem que se entendesse o motivo, o convidado aborreceu-se na festa / irresponsavelmente;
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              45
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+B) Ia à academia poucas vezes / habitualmente;
+C) Dirigia com toda a atenção / atenciosamente;
+D) Mesmo sem estudo realizou a tarefa a contento / Intuitivamente;
+E) Enfrentou as dificuldades com coragem / ferozmente.
+Comentários:
+A - Não é correto o emprego do advérbio “irresponsavelmente”, porque é formado a partir do
+adjetivo “irresponsável” que, conforme o dicionário Michaelis Online, se refere àquele que não
+pode, não está obrigado ou não tem condições de responder pelos seus atos, acrescido do
+sufixo “mente”.
+B - Não é correto o emprego do advérbio “habitualmente”. Isso porque é formado a partir do
+adjetivo “habitual” que, conforme o dicionário Michaelis Online, se refere àquilo que costuma
+ocorrer com frequência, costumeira, usual, acrescido do sufixo “mente”.
+C - Não é correto o emprego do advérbio “atenciosamente”. Isso porque este é usualmente
+empregado na despedida de um documento formal (carta, e-mail, ofício, mensagem), com o
+objetivo de o remetente expressar estima, cortesia, gentileza em relação ao destinatário.
+D - Está correto o emprego do advérbio “intuitivamente”. Isso porque, mesmo sem
+conhecimento teórico, técnico, ou seja, sem estudo, realizou a tarefa a contento. Isso significa
+que o indivíduo realizou a tarefa intuitivamente, a partir de sua intuição, de sua percepção
+instintiva, espontânea, conforme a sua aptidão natural.
+E - Não é correto o emprego do advérbio “ferozmente”. Isso porque, é formado a partir do
+adjetivo “feroz” que, conforme o dicionário Michaelis Online, é a característica daquele que
+apresenta instinto de fera (ou selvagem), acrescido do sufixo “mente”.
+Gabarito: letra D.
+
+
+   9. (ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              46
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+Cada uma das opções a seguir apresenta proposta de reescrita para o seguinte trecho do texto:
+“Embora os números absolutos estejam caindo, o tema ainda é um dos mais delicados da
+agenda internacional.” (linha. 36 e 37). Assinale a opção em que a proposta de reescrita
+apresentada mantém os sentidos e a correção gramatical do texto.
+A) Visto que os números absolutos estão caindo, o tema ainda é um dos mais delicados da
+agenda internacional.
+B) O tema ainda é um dos mais delicados da agenda internacional contanto que os números
+absolutos estejam caindo.
+C) À medida que os números absolutos caiam, o tema ainda será um dos mais delicados da
+agenda internacional.
+D) Apesar de os números absolutos estarem caindo, o tema ainda é um dos mais delicados da
+agenda internacional.
+E) O tema ainda será um dos mais delicados da agenda internacional consoante os números
+absolutos estejam caindo.
+Comentários:
+"Embora" é uma conjunção concessiva.
+A - Incorreta, pois "visto que" é uma conjunção que possui o sentido de causa.
+B - Incorreta, pois contanto que é uma locução conjuncional condicional, enquanto o sentido da
+oração original é de concessão.
+C - Incorreta, pois à medida que é uma locução que possui sentido de proporção.
+D - Correta, pois apesar de possui sentido de concessão, da mesma forma que o texto original.
+E - Incorreta, pois consoante é uma conjunção que possui sentido de conformidade.
+Gabarito: letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                 47
+        www.estrategiaconcursos.com.br                                                          68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+   10. (ANALISTA DE PLANEJAMENTO, ORÇAMENTO E GESTÃO (SEPLAG RECIFE/PE) / 2019)
+A correção do segmento dado é preservada caso se substitua o elemento sublinhado pelo que
+está entre parênteses no seguinte caso:
+A) Os chineses inventaram o primeiro relógio mecânico de que se tem notícia (de cujo se sabe).
+B) Os missionários portugueses introduziram na China seu relógio mecânico (deram origem à
+China).
+C) Os relógios europeus foram um estímulo à meditação dos chineses (impulso da).
+D) Jamais lhes ocorreu a ideia de tirar outro proveito daquele artefato (se apresentou a eles).
+E) O ritmo que o relógio impôs aos negócios mantém-se até hoje. (subordinou dos).
+Comentários:
+A - CUJO é pronome relativo que tem ideia de posse.
+SABER é verbo transitivo direto, logo, seu complemento não é preposicionado.
+B - A substituição altera o sentido da frase:
+“Os missionários portugueses deram origem à China” = Eles criaram a China.
+C - Os relógios estimularam a meditação dos chineses, eles não foram o impulso dela, ou
+seja, não foram consequência dela.
+D - O pronome pessoal oblíquo átono “lhes” pode ser substituído pelo oblíquo tônico “eles”
+antecedido de preposição (a eles). O pronome “se” foi deslocado para antes do verbo devido à
+palavra atrativa de valor negativo “jamais”.
+E - O verbo subordinar é transitivo direto ou bitransitivo, de forma que não é correta a expressão
+“subordinar dos”.
+Gabarito: letra D.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   48
+        www.estrategiaconcursos.com.br                                                            68
+
+                                     
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+                          LISTA DE QUESTÕES - COESÃO - FGV
+1.        (FGV / Câmara Municipal de São Paulo / 2024)
+Em todas as frases abaixo ocorre a repetição de termos idênticos; para evitá-la, foram utilizados
+meios diferentes. Assinale a opção em que a forma de substituição do segundo termo repetido
+está corretamente identificada.
+A) Uma vez na caverna, o gato começa a procurar o rato de que lhe havia falado a raposa. O gato
+levanta as caixas, que caem fazendo um grande barulho. / substituição pelo pronome relativo
+“que”.
+B) O proprietário entra imediatamente na caverna com uma vara na mão. O gato de esconde
+para poder escapar do proprietário. / substituição pelo pronome pessoal “dele”.
+C) O gato encontrou, no entanto, um local escuro e se escondeu no lugar escuro. / substituição
+pelo advérbio “onde”.
+D) O proprietário acende uma tocha e se aproxima do esconderijo do gato. O gato mostrou
+todas as suas unhas e fugiu. / substituição pelo pronome demonstrativo “aquele”.
+E) O gato compreendeu que a raposa lhe fizera uma cilada. Ele fará a raposa pagar por essa
+cilada. / substituição por pronome pessoal “lhe”.
+
+
+2.        (FGV / CGE-PB / 2024)
+Todas as frases abaixo mostram um termo sublinhado, que é retomado no decorrer do texto; a
+opção em que essa retomada é identificada corretamente, é:
+A) Toninho vem de contar-nos uma história estranha. Essa história se passa no início do século
+passado. / retomada por meio de um mesmo nome com um determinante demonstrativo;
+B) Bruna mostra neste momento um grande entusiasmo por seu novo trabalho. Seu engajamento
+favorece, sem dúvida, seu progresso profissional na empresa. / retomada por meio de um termo
+genérico, acompanhado de um pronome possessivo;
+C) A neve começou a cair e algumas horas mais tarde tudo estava coberto. Um imenso tapete
+branco se estendia a perder de vista. / retomada por meio de um termo sintético, precedido de
+um indefinido;
+D) João acabou de comprar duas canetas, três lápis e um caderno pautado. Ele necessita desses
+artigos para o trabalho que está fazendo. / retomada por meio de um sinônimo, precedido de um
+demonstrativo;
+E) A escrita data de muitos séculos. Sabem vocês a que data se localiza o primeiro alfabeto? /
+retomada por meio de termo relacionado.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                            49
+           www.estrategiaconcursos.com.br                                                     68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+3.        (FGV / CGM de Belo Horizonte - MG / 2024)
+As frases a seguir mostram termos sublinhados que retomam termos anteriores. Assinale a frase
+em que o tipo de retomada está corretamente identificado.
+A) Luís Filipe acaba de comprar três esferográficas, dois lápis e folhas de papel pautado. Ele
+necessita desses artigos para suas anotações arqueológicas. / Sinônimo.
+B) Cristiane comprou recentemente novos patins. Os seus velhos já não cabiam mais. /
+Hiperônimo.
+C) Desde alguns anos, nos foram indicados vários produtos para substituírem a aspirina.
+Entretanto esse medicamento permanece eficaz em muitas circunstâncias. / Grupo nominal.
+D) A mulher ocupa mais e mais seu lugar em nossa sociedade. Não é raro ver mulheres ocupando
+cargos de chefia. / Repetição de termos com flexão diferente.
+
+
+4.        (FGV / TJ-RN / 2023)
+Em todas as frases abaixo há termos que estabelecem relações de coesão com termos anteriores;
+a frase que estabelece essa coesão com um termo que pertence a uma classe gramatical
+diferente das demais, é:
+A) O deputado e o senhor viajaram juntos, mas os dois voltaram após três dias;
+B) Adquiriu vários livros; o primeiro, um romance policial;
+C) O ônibus aproximou-se, mas o veículo não parou;
+D) Fiz cinco redações, mas meu primo fez o dobro;
+E) Trouxe vinte bananas e milha filha comeu um terço.
+
+
+5.        (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Uma marca da textualidade é a coesão, a ligação formal entre termos. Assinale a frase abaixo em
+que os termos sublinhados não estão ligados por coesão.
+A) O melhor meio de guardar boas ações na memória é refrescá-la com novas.
+B) Gratidão é o sentimento que mais depressa envelhece.
+C) A caridade é a única virtude que precisa da injustiça.
+D) Não há prazer em possuir algo e não o partilhar.
+E) Perdoar é um presente de alto valor, mas seu custo é nenhum.
+
+
+6.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+O número de cadastros das chaves para o Pix, novo sistema de pagamentos instantâneos do
+Banco Central, encerrou esta terça-feira (6), em seu segundo dia de adesão, com 10,1 milhões de
+registros.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                           50
+           www.estrategiaconcursos.com.br                                                    68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+Apenas hoje foram cadastradas cerca de 6,6 milhões de chaves, quase o dobro dos registros
+desta segunda-feira (5), que teve 3,5 milhões (primeiro dia).
+O Pix começa a funcionar em 16 de novembro, mas o cadastro dos usuários começou ontem.
+O registro das chaves é quando o cliente vincula ao número do celular ou ao endereço de e-mail,
+por exemplo, as informações pessoais e bancárias dele.
+Na prática, quem fizer o cadastramento das chaves não vai precisar informar todos os seus dados
+na hora de transferir dinheiro ou pagar conta pelo Pix, ela precisará apenas falar a chave
+cadastrada (CPF, e-mail ou número de celular, por exemplo).
+Segundo o BC, uma pessoa pode fazer até 5 chaves por conta corrente e uma empresa, pode até
+20.
+No primeiro dia, a quantidade de acessos simultâneos gerou instabilidade nos aplicativos de
+bancos e muitos consumidores reclamaram em redes sociais que não conseguiram acessar a
+conta corrente pelo celular.
+(Larissa Garcia. Em dois dias, cadastros no Pix chegam a 10,1 milhões. Disponível em folha.uol.com.br. Acessado em: 07.10.2020.
+                                                                                                                     Adaptado)
+
+A passagem em que há uma expressão compatível com a noção de consequência é:
+A) e muitos consumidores reclamaram em redes sociais
+B) a quantidade de acessos simultâneos gerou instabilidade
+C) quem fizer o cadastramento das chaves
+D) mas o cadastro dos usuários começou ontem
+E) quando o cliente vincula ao número do celular ou ao endereço de e-mail
+
+
+7.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+O número de cadastros das chaves para o Pix, novo sistema de pagamentos instantâneos do
+Banco Central, encerrou esta terça-feira (6), em seu segundo dia de adesão, com 10,1 milhões de
+registros.
+Apenas hoje foram cadastradas cerca de 6,6 milhões de chaves, quase o dobro dos registros
+desta segunda-feira (5), que teve 3,5 milhões (primeiro dia).
+O Pix começa a funcionar em 16 de novembro, mas o cadastro dos usuários começou ontem.
+O registro das chaves é quando o cliente vincula ao número do celular ou ao endereço de e-mail,
+por exemplo, as informações pessoais e bancárias dele.
+Na prática, quem fizer o cadastramento das chaves não vai precisar informar todos os seus dados
+na hora de transferir dinheiro ou pagar conta pelo Pix, ela precisará apenas falar a chave
+cadastrada (CPF, e-mail ou número de celular, por exemplo).
+Segundo o BC, uma pessoa pode fazer até 5 chaves por conta corrente e uma empresa, pode até
+20.
+No primeiro dia, a quantidade de acessos simultâneos gerou instabilidade nos aplicativos de
+bancos e muitos consumidores reclamaram em redes sociais que não conseguiram acessar a
+conta corrente pelo celular.
+(Larissa Garcia. Em dois dias, cadastros no Pix chegam a 10,1 milhões. Disponível em folha.uol.com.br. Acessado em:
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                                          51
+           www.estrategiaconcursos.com.br                                                                                   68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+                                                                                  07.10.2020. Adaptado)
+
+A passagem em que há uma expressão compatível com a noção de oposição é:
+A) a quantidade de acessos simultâneos gerou instabilidade
+B) quem fizer o cadastramento das chaves
+C) e muitos consumidores reclamaram em redes sociais
+D) mas o cadastro dos usuários começou ontem
+E) quando o cliente vincula ao número do celular ou ao endereço de e-mail
+
+
+8.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+A educação pressupõe a utilização de meios de comunicação social (as mídias). Quando os
+alunos e professores estão distantes, pelo menos uma tecnologia de comunicação é necessária
+para fazer o contato. A integração dos meios de comunicação gera também uma progressiva
+fusão das atividades intelectuais e industriais do campo da informação. Jornalistas das redações
+dos grandes jornais e agências de informação, artistas, comunidade estudantil e pesquisadores
+trabalham diante de uma tela de computador (FONSECA FILHO, 2007).
+Diga-se de passagem, que as mudanças ocorridas com o advento do computador na vida da
+humanidade contribuíram para o crescimento de diversos setores da economia mundial.
+Centenas de pessoas usam o computador na força de trabalho, na escola, instituições públicas e
+privadas. Além disso, houve integração entre várias mídias no campo comercial, industrial,
+cultural e social.
+O papel da escola no século XXI, diante dessas mudanças com advento da informática, é fazer
+com que os meios de comunicação disponíveis na escola estejam em condições de sustentar as
+necessidades dos alunos e professores e mantê-los interessados pelos assuntos pedagógicos e
+científicos, inseridos no contexto escolar, com a utilização de instrumentos capazes de transmitir
+os acontecimentos do mundo real no momento em que estes acontecem.
+Desse modo, o computador deve estar inserido em atividades essenciais, tais como aprender a
+ler, escrever, compreender textos, entender gráficos, contar, desenvolver noções espaciais etc.
+Nesse sentido, a Informática na escola passa a ser parte da resposta a questões ligadas à
+cidadania.
+Foram investigadas práticas de docentes de História na utilização da internet como recurso
+pedagógico durante as aulas realizadas no Laboratório de Informática Educacional-LIED.
+Constatou-se que esse recurso desperta maior interesse dos alunos por diversos temas de
+conhecimento histórico e possibilita a utilização de diversos dispositivos com materiais lúdicos,
+livros digitais, atividades on-line, sites e aplicativos educacionais. De forma geral, os profissionais
+da área consideram o uso da internet como uma proposta pedagógica fundamental para a
+melhoria do ensino e do rendimento escolar.
+A partir das investigações feitas in loco LIED da Escola Estadual Professor Antonio Ferreira Lima
+Neto em Macapá, foi possível constatar que a internet é um recurso que apresenta auxílio ao
+professor e alunos. A maioria dos profissionais usam a rede mundial de computadores para seu
+planejamento de aula; os discentes estão utilizando as ferramentas interativas on-line e
+publicadas em sites de interação social, como youtube, MySpace, Facebook, Orkut e Google
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                  52
+           www.estrategiaconcursos.com.br                                                           68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+durante as atividades de História.
+Nesse contexto, a figura do docente é despertar o interesse do aluno pelo saber histórico. As
+justificativas para a utilização da internet nas aulas de História são fundamentais para o
+aprendizado. Verificou-se nas observações in loco que o profissional precisa estar preparado para
+o uso da internet e deve ter apoio da escola para sua formação científica e técnica destinada à
+informática educacional.
+         (Francinei A. da Costa e Clarice C. da Silva. O Uso da Internet como recurso pedagógico para os docentes de
+        História, na Escola Estadual Professor Antonio Ferreira Lima Neto em Macapá-AP. Disponível em partes.com.br.
+                                                                                 Acessado em: 07.10.2020. Adaptado)
+Leia as frases a seguir:
+·Desse modo, o computador deve estar inserido em atividades essenciais
+·A maioria dos profissionais usam a rede mundial de computadores para seu planejamento
+·Quando os alunos e professores estão distantes           ==219a34==
+
+Os termos em destaque estabelecem, respectivamente, as seguintes relações de sentido com os
+demais elementos:
+A) moderação, finalidade, tempo
+B) causa, finalidade, circunstância
+C) conclusão, motivo, tempo
+D) ênfase, finalidade, circunstância
+E) conclusão, finalidade, tempo
+
+
+9.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+Foi realizada nessa quinta-feira (1º/10) uma Mesa Técnica com ___ presença de representantes do
+Tribunal de Contas do Município de São Paulo (TCMSP) e da Secretaria Municipal de Educação
+(SME) para discutir o edital de Pregão Eletrônico nº 47/SME/2020, voltado ___ escolha das
+empresas fornecedoras de 465.500 tablets ___ serem distribuídos aos alunos da rede municipal
+de ensino. O encontro virtual durou três horas e contou com a participação do Conselheiro
+Maurício Faria, relator da matéria, de seus assessores, da Auditoria e da Assessoria Jurídica do
+TCMSP, do secretário municipal de Educação de São Paulo, Bruno Caetano, e de representantes
+de sua equipe técnica e jurídica. (...)
+No trecho “de representantes de sua equipe técnica e jurídica” (l. 9 e 10), o pronome destacado
+refere-se à seguinte informação:
+A) participação
+B) relator da matéria
+C) auditoria e Assessoria Jurídica
+D) Secretário municipal de Educação de São Paulo
+E) equipe jurídica
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                               53
+           www.estrategiaconcursos.com.br                                                                        68
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+10.    (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+Uma outra estratégia para evitar-se a repetição de palavras consiste na substituição da segunda
+ocorrência da palavra por um pronome pessoal.
+A frase em que isso foi feito de forma adequada é:
+A) Os meninos procederam mal, por isso lhes condenaram;
+B) Comprei o livro ontem, mas vou revendê-lo;
+C) Os chefes deram as ordens, por isso os obedeci;
+D) João estava na festa, mas não no viram sair;
+E) As meninas estavam no shopping, mas não encontrei-las.
+
+
+11.    (ASSISTENTE DE GESTÃO PÚBLICA (SEPLAG RECIFE/PE)/ 2019)
+Desde 2016, registra-se queda na cobertura vacinal de crianças menores de dois anos. Segundo
+o Ministério da Saúde, entre janeiro e agosto, nenhuma das nove principais vacinas bateu a meta
+estabelecida — imunizar 95% do público-alvo. O percentual alcançado oscila entre 50% e 70%.
+As autoridades atribuem o desleixo a duas causas. Uma: notícias falsas alarmantes espalhadas
+pelas redes sociais. Segundo elas, vacinas seriam responsáveis pelo autismo e outras
+enfermidades. A outra: a população apagou da memória as imagens de pessoas acometidas por
+coqueluche, catapora, sarampo. Confirmar-se-ia, então, o dito de que o que os olhos não veem o
+coração não sente.
+Trata-se de comportamento irresponsável que tem consequências. De um lado, ao impedir que o
+infante indefeso fique protegido contra determinada doença, os pais lhe comprometem a saúde
+(e até a vida). De outro, contribuem para que a enfermidade continue a se propagar pela
+população. Em bom português: apunhalam o individual e o coletivo. Põem a perder décadas de
+esforço governamental de proteger os brasileiros de doenças evitáveis.
+O Brasil, vale lembrar, é citado como modelo pela Organização Mundial de Saúde. As campanhas
+de vacinação exigiram esforço hercúleo. Para cobrir o território nacional e cumprir o calendário,
+enfrentaram selvas, secas, tempestades. Tiveram êxito. Deixaram relegada para as páginas da
+história a revolta da vacina, protagonizada pela população do Rio de Janeiro que, no início do
+século passado, se rebelou contra a mobilização de Oswaldo Cruz para reduzir as mazelas do Rio
+de Janeiro. O médico quis resolver a tragédia da varíola com a Lei da Vacina Obrigatória.
+Tal fato seria inaceitável hoje. A sociedade evoluiu e se educou. O calendário de vacinação
+tornou-se rotina. Graças ao salto civilizatório, o país conseguiu erradicar males que antes
+assombravam a infância. O retrocesso devolverá o Brasil ao século 19. Há que reverter o
+processo. Acerta, pois, o Ministério da Saúde ao deflagrar nova campanha de adesão para evitar
+a marcha rumo à barbárie. O reforço na equipe de agentes de imunização deve merecer atenção
+especial.
+                       (Adaptado de: “Vacina: avanço civilizatório”. Diário de Pernambuco. Editorial. Disponível em:
+                                                                                  www.diariodeper-nambuco.com.br)
+
+Considerado o contexto, ao reescrever o trecho Tal fato seria inaceitável hoje. A sociedade
+evoluiu e se educou (5º parágrafo) em um único período, com o sentido e a correção
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                  54
+        www.estrategiaconcursos.com.br                                                                           68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+preservados, tem-se:
+Tal fato seria inaceitável hoje,
+A) uma vez que a sociedade evoluiu e se educou.
+B) conquanto a sociedade evoluiu e se educou.
+C) ainda que a sociedade evoluiu e se educou.
+D) antes que a sociedade evoluiu e se educou.
+E) todavia a sociedade evoluiu e se educou.
+
+
+12.    (ASSISTENTE DE GESTÃO PÚBLICA (SEPLAG RECIFE/PE)/ 2019)
+Mais da metade dos seres humanos hoje vivem em cidades, e esse número deve aumentar para
+70% até 2050. Em termos econômicos, os resultados da urbanização foram notáveis. As cidades
+representam 80% do Produto Interno Bruto (PIB) global. Nos Estados Unidos, o corredor
+Boston-Nova York-Washington gera mais de 30% do PIB do país.
+Mas o sucesso tem sempre um custo – e as cidades não são exceção, segundo análise do Fórum
+Econômico Mundial. Padrões insustentáveis de consumo, degradação ambiental e desigualdade
+persistente são alguns dos problemas das cidades modernas. Recentemente, entraram na
+equação as consequências da transformação digital. Há quem fale sobre uma futura
+desurbanização. Mas os especialistas consultados pelo Fórum descartam essa possibilidade.
+Preferem discorrer sobre como as cidades vão se adaptar à era da digitalização e como vão
+moldar a economia mundial.
+A digitalização promete melhorar a vida das pessoas nas cidades. Em cidades inteligentes como
+Tallinn, na Estônia, os cidadãos podem votar nas eleições nacionais e envolver-se com o governo
+local via plataformas digitais, que permitem a assinatura de contratos e o pagamento de
+impostos, por exemplo. Programas similares em Cingapura e Amsterdã tentam criar uma espécie
+de “governo 4.0”.
+Além disso, a tecnologia vai permitir uma melhora na governança. Plataformas digitais
+possibilitam acesso, abertura e transparência às operações de governos locais e provavelmente
+irão mudar a forma como os governos interagem com as pessoas.
+        (Adaptado de:“5 previsões para a cidade do futuro, segundo o Fórum Econômico Mundial”. Disponível em:
+                                                                             https://epocanegocios.globo.com)
+
+Plataformas digitais possibilitam acesso, abertura e transparência às operações de governos
+locais / e provavelmente irão mudar a forma como os governos interagem com as pessoas. (4º
+parágrafo)
+Entre as ideias separadas por barra nessa passagem do texto, se estabelece relação de,
+respectivamente,
+A) causa e consequência.
+B) condição e conformidade.
+C) finalidade e comparação.
+D) concessão e adição.
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                           55
+        www.estrategiaconcursos.com.br                                                                    68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+E) modo e tempo.
+
+
+13.    (FGV / TRIBUNAL DE JUSTIÇA DO CEARÁ / 2019)
+A frase abaixo em que o termo sublinhado repete ou se refere a um termo anterior é:
+A) O justo é tranquilíssimo, o injusto é sempre muito solícito;
+B) Raspai o juiz, encontrareis o carrasco;
+C) Não pretendas ser juiz se não tens força para desenraizar as injustiças;
+D) É natural desejar que se faça justiça; a maior de todas as almas não ficaria insensível ao prazer
+de ser conhecida como tal;
+E) Causam menos dano cem delinquentes do que um mau juiz.
+
+
+14. (SECRETARIA MUNICIPAL DE FINANÇAS,                               TECNOLOGIA           DE     INFORMAÇÃO             E
+CONTROLE INTERNO DE MANAUS (AM) / 2019)
+1 - Por boa parte da história humana, a privacidade estava pouco presente na vida da maioria
+das pessoas. Não existiam expectativas de que uma porção significativa da vida transcorresse
+distante dos olhares alheios.
+2 - A difusão da privacidade em escala maciça, com certeza uma das realizações mais
+impressionantes da civilização moderna, dependeu de outra realização, ainda mais
+impressionante: a criação da classe média. Só nos últimos 300 anos, quando a maior parte das
+pessoas obtiveram os meios financeiros para controlar o ambiente físico, as normas, e
+eventualmente os direitos, de privacidade vieram a surgir.
+3 - A conexão histórica entre a privacidade e a riqueza ajuda a explicar por que a privacidade está
+sob ataque hoje. A situação nos faz recordar que ela não é um traço básico da existência
+humana, mas sim um produto de determinado arranjo econômico - e portanto um estado de
+coisas transitório.
+4 - Hoje as forças da criação de riqueza já não favorecem a expansão da privacidade, mas
+trabalham para solapá-la. Testemunhamos a ascensão daquilo que a socióloga Shoshanna Zuboff
+define como "capitalismo de vigilância" - a transformação de nossos dados pessoais em
+mercadoria por gigantes da tecnologia. Encaramos um futuro no qual a vigilância ativa é uma
+parte tão rotineira das transações que se tornou praticamente inescapável.
+5 - Como nossas experiências com a mídia social têm deixado claro, agimos diferente quando
+sabemos estar sendo observados. A privacidade é a liberdade de agir sem ser observado, e
+assim, em certo sentido, de sermos quem realmente somos - não o que desejamos que os outros
+pensem que somos. A maioria deseja maior proteção à sua privacidade. Porém, isso requererá a
+criação de diversas leis.
+                       (Adaptado de: The New York Times. Tradução de Paulo Migliacci. Disponível em: www.folha.uol.com.br)
+
+Hoje as forças da criação de riqueza já não favorecem a expansão da privacidade, mas trabalham
+para solapá-la.- (4º parágrafo)
+Encaramos um futuro no qual a vigilância ativa é uma parte tão rotineira das transações... (4º
+
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                                        56
+        www.estrategiaconcursos.com.br                                                                                 68
+
+                                     
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+parágrafo)
+A situação nos faz recordar que ela não é um traço básico da existência humana... (3º parágrafo)
+No contexto, os elementos sublinhados acima referem-se, respectivamente, a:
+A) riqueza - vigilância - existência humana.
+B) privacidade - futuro - privacidade.
+C) privacidade - futuro - existência humana.
+D) riqueza - futuro - privacidade.
+E) privacidade - vigilância - privacidade.
+
+
+15.    (FGV / TJ-AL / ANALISTA JUD. / 2018)
+“A direção da casa legislativa confirmou que as imagens foram feitas durante a sessão de quarta
+feira e esclareceu que elas mostram dois ‘assessores de deputados’ trocando figurinhas durante a
+sessão. ‘O comportamento não é justificável. Os gabinetes dos deputados aos quais os
+assessores pertencem, já foram informados, e cabe aos parlamentares decidir como proceder’”.
+Nesse segmento do texto 2, o componente sublinhado que NÃO se refere ou repete nenhum
+termo anterior é:
+A) que;
+B) elas;
+C) sessão;
+D) comportamento;
+E) deputados.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             57
+           www.estrategiaconcursos.com.br                                                      68
+
+                                        
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 12
+
+                                               GABARITO
+                                                   1. LETRA B
+                                                   2. LETRA A
+                                                   3. LETRA D
+                                                   4. LETRA A
+                                                   5. LETRA C
+                                                   6. LETRA A
+                                                   7. LETRA D
+                                                   8. LETRA E
+                                                   9. LETRA D
+                                                   10. LETRA B
+                                                   11. LETRA A
+                                                   12. LETRA A
+                                                   13. LETRA D
+                                                   14. LETRA B
+                                                   15. LETRA A
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           58
+      www.estrategiaconcursos.com.br                                    68
+
+                                   
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+                    LISTA DE QUESTÕES - COERÊNCIA - FGV
+   1. (FGV / TJ-RJ / 2024)
+Assinale a frase que se mostra inteiramente coerente.
+A) É raro alguém querer ouvir aquilo que não quer ouvir.
+B) Às vezes ganha-se mais fazendo os trabalhos que pagam menos.
+C) Disseram-me que metade dos sócios estaria ansiosa para envolver-se, e a outra metade seria
+apática. Depois de quatro anos descobri que é exatamente o contrário.
+D) Um bom arqueiro acerta o alvo antes de ter disparado.
+E) Vendeu a empresa. Deixou de ser rico, agora só tem dinheiro.
+                                                       ==219a34==
+
+   2. (FGV – Recepcionista Legislativo - Câmara Taubaté-SP / 2022)
+Uma das marcas da textualidade é a coerência; assinale a frase abaixo que está integralmente
+coerente.
+A) A cura da monotonia é a curiosidade. Não há cura para a curiosidade.
+B) Ficar triste por um minuto equivale a ficar 120 segundos sem alegria.
+C) O turista visitou o Pão de Açúcar no Rio de Janeiro e disse que vai repetir a experiência em
+outros países.
+D) Se você se deparar com uma encruzilhada em seu caminho, entre por ela.
+E) Era uma obra impossível; foi lá e fez.
+
+
+   3. (FGV – Consultor Legislativo - Câmara Taubaté-SP / 2022)
+Uma das marcas da textualidade é a coerência; assinale a frase abaixo que não exemplifica a
+incoerência.
+A) A história é um profeta que faz previsões sobre o passado.
+B) Deixe para amanhã o que você já fez ontem.
+C) Vivemos em paz pela imposição de nossa vontade.
+D) Quando você chegar aos 80 já terá aprendido tudo. Você só precisará lembrar disso.
+E) O personagem de Guimarães Rosa vivia na terceira margem do rio.
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                              59
+        www.estrategiaconcursos.com.br                                                       68
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 12
+
+                                               GABARITO
+                                                   1. LETRA E
+                                                   2. LETRA A
+                                                   3. LETRA D
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           60
+      www.estrategiaconcursos.com.br                                    68
+
+                                   
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+                      LISTA DE QUESTÕES - REESCRITURA - FGV
+1.        (FGV / ALESC / 2024)
+
+Observe a frase a seguir.
+
+“Há sempre tempo para se dizer alguma coisa, mas não para se ficar em silêncio”.
+
+Assinale a modificação estrutural dessa frase que não está adequada.
+
+A) Mudar formas reduzidas para formas desenvolvidas: “Há sempre tempo para que se diga
+alguma coisa, mas não para que se fique em silêncio”.
+
+B) Mudança de voz passiva para voz ativa: “Há sempre tempo para que digamos alguma coisa,
+mas não para que fiquemos em silêncio”.
+
+C) Inversão na posição de termos: “Nem sempre há tempo para se ficar em silêncio, mas há
+sempre tempo para se dizer alguma coisa”.
+
+D) Troca de forma impessoal por forma personalizada: “Há sempre tempo para que digamos
+alguma coisa, mas não para que fiquemos em silêncio”.
+
+E) Mudança de tempo da frase para o passado: “Houve sempre tempo para que disséssemos
+algo, mas não para que ficássemos em silêncio”.
+
+2.        (FGV / RECEITA FEDERAL / 2023)
+O conteúdo programático desta prova inclui operações de re-escritura da frase. Assinale a opção
+em que a modificação ocorrida da primeira frase está corretamente indicada.
+A) A inteligência é uma construção do sujeito para enriquecer os objetos externos / A inteligência
+é uma construção do sujeito para o enriquecimento dos objetos externos = transformação de
+uma oração reduzida em oração desenvolvida.
+B) Errar é humano. Culpar o computador é ainda mais humano / Errar é humano, embora culpar o
+computador seja ainda mais humano = substituir um sinal de pontuação por um conector
+adequado.
+C) Não há exceções à regra de que todos gostam de ser a exceção da regra / Não há exceções à
+regra de que todos gostam de ser a exceção dela = substituição de um termo repetido por um
+hiperônimo.
+D) O arquiteto deseja sempre realizar o projeto e o pagamento do serviço / O arquiteto deseja
+sempre realizar o projeto e receber o pagamento = modificar um termo para restabelecer o
+paralelismo na frase.
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                             61
+           www.estrategiaconcursos.com.br                                                      68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+E) Não basta fugir, é preciso fugir na direção certa / Não basta fugir, é preciso fazê-lo na direção
+certa = substituição de um termo repetido por um sinônimo.
+
+
+3.        (QUESTÃO INÉDITA / ESTRATÉGIA CONCURSOS / 2021)
+A educação pressupõe a utilização de meios de comunicação social (as mídias). Quando os
+alunos e professores estão distantes, pelo menos uma tecnologia de comunicação é necessária
+para fazer o contato. A integração dos meios de comunicação gera também uma progressiva
+fusão das atividades intelectuais e industriais do campo da informação. Jornalistas das redações
+dos grandes jornais e agências de informação, artistas, comunidade estudantil e pesquisadores
+trabalham diante de uma tela de computador (FONSECA FILHO, 2007).
+Diga-se de passagem, que as mudanças ocorridas com o advento do computador na vida da
+humanidade contribuíram para o crescimento de diversos setores da economia mundial.
+Centenas de pessoas usam o computador na força de trabalho, na escola, instituições públicas e
+privadas. Além disso, houve integração entre várias mídias no campo comercial, industrial,
+cultural e social.
+O papel da escola no século XXI, diante dessas mudanças com advento da informática, é fazer
+com que os meios de comunicação disponíveis na escola estejam em condições de sustentar as
+necessidades dos alunos e professores e mantê-los interessados pelos assuntos pedagógicos e
+científicos, inseridos no contexto escolar, com a utilização de instrumentos capazes de transmitir
+os acontecimentos do mundo real no momento em que estes acontecem.
+Desse modo, o computador deve estar inserido em atividades essenciais, tais como aprender a
+ler, escrever, compreender textos, entender gráficos, contar, desenvolver noções espaciais etc.
+Nesse sentido, a Informática na escola passa a ser parte da resposta a questões ligadas à
+cidadania.
+Foram investigadas práticas de docentes de História na utilização da internet como recurso
+pedagógico durante as aulas realizadas no Laboratório de Informática Educacional-LIED.
+Constatou-se que esse recurso desperta maior interesse dos alunos por diversos temas de
+conhecimento histórico e possibilita a utilização de diversos dispositivos com materiais lúdicos,
+livros digitais, atividades on-line, sites e aplicativos educacionais. De forma geral, os profissionais
+da área consideram o uso da internet como uma proposta pedagógica fundamental para a
+melhoria do ensino e do rendimento escolar.
+A partir das investigações feitas in loco LIED da Escola Estadual Professor Antonio Ferreira Lima
+Neto em Macapá, foi possível constatar que a internet é um recurso que apresenta auxílio ao
+professor e alunos. A maioria dos profissionais usam a rede mundial de computadores para seu
+planejamento de aula, e que os discentes estão utilizando as ferramentas interativas on-line e
+publicadas em sites de interação social, como youtube, MySpace, Facebook, Orkut e Google
+durante as atividades de História.
+Nesse contexto, a figura do docente é despertar o interesse do aluno pelo saber histórico. As
+justificativas para a utilização da internet nas aulas de História são fundamentais para o
+aprendizado. Verificou-se nas observações in loco que, o profissional precisa estar preparado
+para o uso da internet e deve ter apoio da escola para sua formação científica e técnica
+destinado a informática educacional.
+(Francinei A. da Costa e Clarice C. da Silva. O Uso da Internet como recurso pedagógico para os docentes de História, na Escola Estadual
+Professor Antonio Ferreira Lima Neto em Macapá-AP. Disponível em partes.com.br. Acessado em: 07.10.2020. Adaptado)
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                                                   62
+           www.estrategiaconcursos.com.br                                                                                            68
+
+                                           
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+Assinale a alternativa que apresenta a reescrita do trecho “Desse modo, o computador deve
+estar inserido em atividades essenciais” sem alteração de sentido.
+A) Conquanto, o computador deve estar inserido em atividades essenciais
+B) Além disso, o computador deve estar inserido em atividades essenciais
+C) O computador deve, dessarte, estar inserido em atividades essenciais
+D) O computador deve, todavia, estar inserido em atividades essenciais
+E) Porquanto, o computador deve estar inserido em atividades essenciais
+
+
+4.        (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+A frase em que a substituição do segmento sublinhado por um particípio de valor equivalente foi
+                                                          ==219a34==
+
+feita de forma adequada é:
+A) O terreno que está sob as águas do rio / submetido às;
+B) Um edifício que está sobre duas rochas / construído;
+C) Os restos que estão na lata do lixo / acolhidos;
+D) O estado que está entre Amazonas e Maranhão / posto;
+E) Um carro que está na garagem / paralisado.
+
+
+5.        (AUDITOR FISCAL TRIBUTÁRIO MUNICIPAL (PREF SÃO JOSÉ DO RIO PRETO/SP) / 2020)
+                                                    [Laços antigos]
+Na Idade da Pedra, os amigos dependiam uns dos outros para sua própria sobrevivência. Os
+humanos viviam em comunidades solidárias e os amigos eram pessoas com quem se ia à caça
+dos mamutes. Juntos, sobreviviam a longas jornadas e a invernos rigorosos. Cuidavam um do
+outro quando um deles ficava doente, e compartilhavam a última porção de comida em épocas
+de necessidade.
+Tais amigos conheciam uns aos outros mais intimamente do que muitos casais de nossos dias.
+Quantos maridos podem dizer que sabem qual será o comportamento da esposa se eles forem
+atacados por um mamute enfurecido?
+Substituir as redes tribais precárias pela segurança das economias e dos Estados paternalistas
+modernos obviamente tem vantagens enormes, mas é provável que a qualidade e a
+profundidade das relações íntimas tenha sido afetada.
+(HARARI, Yuval Noah. Sapiens - Uma breve história da humanidade. Trad. Janaína Marcoantonio. 38 ed. Porto Alegre:
+                                                                                             L&PM, 2018, p. 393)
+Uma expressão do texto é traduzida por outra de sentido equivalente em:
+A) dependiam uns dos outros para sua própria sobrevivência (1º parágrafo) = a dependência era
+compartilhada em recíproca sobrevivência
+B) sobreviviam a longas jornadas e a invernos rigorosos (1º parágrafo) = enfrentavam
+rigorosamente as excursões e a estiagem
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                            63
+           www.estrategiaconcursos.com.br                                                                     68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+C) compartilhavam a última porção de comida (1º parágrafo) = nutriam-se com o derradeiro
+bocado de alimento
+D) Substituir as redes tribais precárias (3º parágrafo) = Alternar as parcas relações familiares
+E) obviamente tem vantagens enormes (3º parágrafo) = com toda a evidência é grandemente
+vantajoso
+
+
+6.        (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+O segmento composto pelo verbo ter + substantivo foi substituído de forma semanticamente
+adequada em:
+A) A velhinha tem disposição para o trabalho / se dedica ao;
+B) A jovem tinha vontade de sair / gostava;
+C) Os imigrantes tinham necessidade dos documentos / exigiam;
+D) As cortinas não tinham serventia / se deterioravam;
+E) O assaltante não teve intenção de fugir / pretendeu.
+
+
+7.        (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+Algumas vezes, para reduzir-se a extensão do texto, ocorre a substituição de uma forma negativa
+por uma positiva equivalente.
+A frase abaixo em que isso foi feito de forma semanticamente adequada é:
+A) Os projetos não avançaram nas Comissões / recuaram;
+B) Vejo que os candidatos não foram chamados / desistiram;
+C) Os turistas não foram bem recebidos / foram expulsos;
+D) Os estudantes não continuaram no curso / fracassaram;
+E) O presidente não aceitou o convite / declinou do.
+
+
+8.        (FGV / TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL / 2020)
+A frase abaixo em que a substituição do segmento sublinhado por um advérbio foi feita de forma
+adequada é:
+A) Sem que se entendesse o motivo, o convidado aborreceu-se na festa / irresponsavelmente;
+B) Ia à academia poucas vezes / habitualmente;
+C) Dirigia com toda a atenção / atenciosamente;
+D) Mesmo sem estudo realizou a tarefa a contento / Intuitivamente;
+E) Enfrentou as dificuldades com coragem / ferozmente.
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                                 64
+           www.estrategiaconcursos.com.br                                                          68
+
+                                        
+
+
+---
+
+     Equipe Português Estratégia Concursos, Felipe Luccas
+     Aula 12
+
+9.        (ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+
+Cada uma das opções a seguir apresenta proposta de reescrita para o seguinte trecho do texto:
+“Embora os números absolutos estejam caindo, o tema ainda é um dos mais delicados da
+agenda internacional.” (linha. 36 e 37). Assinale a opção em que a proposta de reescrita
+apresentada mantém os sentidos e a correção gramatical do texto.
+A) Visto que os números absolutos estão caindo, o tema ainda é um dos mais delicados da
+agenda internacional.
+B) O tema ainda é um dos mais delicados da agenda internacional contanto que os números
+
+
+           Receita Federal (Analista Tributário) Língua Portuguesa                         65
+           www.estrategiaconcursos.com.br                                                  68
+
+                                        
+
+
+---
+
+  Equipe Português Estratégia Concursos, Felipe Luccas
+  Aula 12
+
+absolutos estejam caindo.
+C) À medida que os números absolutos caiam, o tema ainda será um dos mais delicados da
+agenda internacional.
+D) Apesar de os números absolutos estarem caindo, o tema ainda é um dos mais delicados da
+agenda internacional.
+E) O tema ainda será um dos mais delicados da agenda internacional consoante os números
+absolutos estejam caindo.
+
+
+10.    (ANALISTA DE PLANEJAMENTO, ORÇAMENTO E GESTÃO (SEPLAG RECIFE/PE) / 2019)
+A correção do segmento dado é preservada caso se substitua o elemento sublinhado pelo que
+está entre parênteses no seguinte caso:
+A) Os chineses inventaram o primeiro relógio mecânico de que se tem notícia (de cujo se sabe).
+B) Os missionários portugueses introduziram na China seu relógio mecânico (deram origem à
+China).
+C) Os relógios europeus foram um estímulo à meditação dos chineses (impulso da).
+D) Jamais lhes ocorreu a ideia de tirar outro proveito daquele artefato (se apresentou a eles).
+E) O ritmo que o relógio impôs aos negócios mantém-se até hoje. (subordinou dos).
+
+        Receita Federal (Analista Tributário) Língua Portuguesa                                   66
+        www.estrategiaconcursos.com.br                                                            68
+
+                                     
+
+
+---
+
+Equipe Português Estratégia Concursos, Felipe Luccas
+Aula 12
+
+                                               GABARITO
+                                                   1. LETRA B*
+                                                   2. LETRA D
+                                                   3. LETRA C
+                                                   4. LETRA B
+                                                   5. LETRA E
+                                                   6. LETRA E
+                                                   7. LETRA E
+                                                   8. LETRA D
+                                                   9. LETRA D
+                                                   10. LETRA D
+
+      Receita Federal (Analista Tributário) Língua Portuguesa           67
+      www.estrategiaconcursos.com.br                                    68
+
+                                   
+
+
+---
+
+---

@@ -1,0 +1,1441 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 01_008_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: ASPECTOS INTRODUTÓRIOS
+---
+
+# ASPECTOS INTRODUTÓRIOS
+
+ASPECTOS INTRODUTÓRIOS
+
+                                         Prof. Gilmar Possati
+
+    
+
+
+---
+
+(FGV/PC-AM/2022)
+
+O objeto da Contabilidade é o patrimônio, que é formado pelos ativos e pelos passivos.
+Assinale a afirmativa correta sobre os ativos e os passivos de uma entidade.
+a) Os ativos representam os bens, e os passivos, as obrigações e os direitos.
+b) Os ativos se referem à posição financeira, e os passivos, ao desempenho financeiro.
+c) Os ativos são evidenciados em ordem de liquidez, e os passivos, em ordem de solvência.
+d) Os ativos são mensurados de acordo com o valor justo, e os passivos, de acordo com o custo
+histórico.
+e) Os ativos mostram como são aplicados os recursos da entidade, e os passivos, quais as
+origens dos recursos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TCE-PI/2021)
+
+Os registros de operações realizadas em uma empresa têm o objetivo de gerar informações
+úteis para a gestão organizacional. Embora seja fornecida uma diversidade de informações nos
+relatórios contábeis, o objeto da contabilidade é o:
+a) controle de receitas e despesas;
+b) fluxo de caixa das entidades;
+c) lucro das entidades;
+d) patrimônio das entidades;
+e) valor de mercado das entidades.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+
+O campo de atuação da Contabilidade é muito amplo e abrange diferentes segmentos. Com
+relação às finalidades de cada segmento, assinale a afirmativa correta.
+a) A Contabilidade de Custos é utilizada exclusivamente pela Contabilidade Gerencial.
+b) A Contabilidade Gerencial abrange as informações a serem fornecidas aos tomadores de
+decisão, isto é, às pessoas internas à organização.
+c) A Contabilidade Fiscal tem como objetivo orientar investidores e credores na decisão de
+onde alocar seus recursos.
+d) A Contabilidade Financeira é utilizada internamente para decisões sobre a produção de
+novos produtos.
+e) A Contabilidade Pública objetiva fornecer informação ao Governo, principalmente à
+Secretaria da Receita Federal do Brasil.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/AL-BA/2014)
+
+Assinale a opção que indica o objeto da Contabilidade.
+a) Os ativos.
+b) As receitas.
+c) O patrimônio.
+d) As demonstrações contábeis.
+e) O balanço patrimonial.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/ALEMA/2013)
+Com relação aos conceitos básicos da Contabilidade Geral, relacione os tópicos a seguir.
+1. Objeto de estudo
+2. Campo de aplicação
+3. Finalidade econômica
+4. Usuário Externo
+5. Técnica Contábil
+
+( ) Escrituração ( ) Fornecedor ( ) Entidade                    ( ) Resultado    ( ) Patrimônio
+
+Assinale a alternativa que apresenta a sequência correta.
+a) 1 – 3 – 2 – 4 – 5
+b) 3 – 4 – 1 – 5 – 2
+c) 2 – 1 – 4 – 5 – 3
+d) 5 – 4 – 2 – 3 – 1
+e) 1 – 2 – 4 – 3 – 5
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/Pref. Recife/2014)
+As opções a seguir apresentam objetivos da Contabilidade, à exceção de uma. Assinale-a.
+a) A medição dos recursos que determinada entidade possui.
+b) A evidenciação dos direitos e interesses de uma entidade.
+c) A medição das variações ocorridas nos recursos, direitos e interesses.
+d) A administração dos recursos escassos, buscando compatibilizá-la com as necessidades da
+sociedade.
+e) O fornecimento de um conjunto básico de informações a diferentes usuários.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+PATRIMÔNIO
+
+
+                                      Prof. Gilmar Possati
+
+ 
+
+
+---
+
+(FGV/FunSaúde/2021)
+Uma entidade apresenta passivo a descoberto.
+Em relação à equação fundamental nesta entidade, assinale a opção correta.
+a) Passivo = Patrimônio Líquido – Ativo.
+b) Passivo = Ativo + Patrimônio Líquido.
+c) Patrimônio Líquido = Ativo + Passivo.
+d) Ativo = Patrimônio Líquido – Passivo.
+e) Ativo + Passivo + Patrimônio Líquido = 0.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/IMBEL/2021)
+O valor contábil do patrimônio líquido de uma entidade equivale ao
+a) valor disponibilizado pelos sócios da entidade.
+b) valor de mercado total de direitos sobre o patrimônio na entidade.
+c) valor contábil de todos os ativos reconhecidos menos o valor contábil de todos os passivos
+reconhecidos.
+d) valor que poderia ser levantado, vendendo todos os ativos da entidade e liquidando todos os
+seus passivos.
+e) valor que poderia ser levantado, vendendo a entidade como um todo em regime de
+continuidade operacional.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+Os recursos econômicos presentes controlados por uma entidade como resultado de eventos
+passados são denominados
+a) ativos.
+b) passivos.
+c) receitas.
+d) despesas.
+e) reservas.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/IMBEL/2021)
+Os elementos das demonstrações contábeis, definidos na Estrutura Conceitual da
+Contabilidade, são ativos, passivos, patrimônio líquido, receitas e despesas.
+Assinale a opção que indica os elementos que se referem à posição financeira da entidade que
+reporta.
+a) Ativos, passivos e patrimônio líquido, apenas.
+b) Receitas e despesas, apenas.
+c) Ativos e receitas, apenas.
+d) Ativos, patrimônio líquido e receitas, apenas.
+e) Passivos e despesas, apenas.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/Banestes/2018)
+Ao analisar diversos Balanços Patrimoniais de empresas, um analista percebe que tanto o lado
+esquerdo como o lado direito desse tipo de relatório contábil sempre apresentam o mesmo
+total em unidades monetárias.
+Uma maneira de entender essa constatação é que tanto as aplicações como as origens de
+recursos da empresa são sempre retratadas, respectivamente, como:
+a) “Ativo” e “Passivo + Patrimônio Líquido”;
+b) “Passivo + Patrimônio Líquido” e “Ativo”;
+c) “Patrimônio Líquido” e “Ativo”;
+d) “Patrimônio Líquido” e “Passivo”;
+e) “Passivo” e “Patrimônio Líquido”.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MRE/2016)
+Um dos objetivos da Contabilidade é o controle patrimonial, que se dá a partir do registro
+adequado dos fatos que alteram os seus elementos.
+No controle do patrimônio, a riqueza líquida de uma entidade ao final de um período pode ser
+obtida pelo confronto de:
+a) ativos, receitas e provisões;
+b) ativos e passivos financeiros;
+c) bens, direitos e obrigações;
+d) receitas e despesas;
+e) obrigações exigíveis e não exigíveis.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+    CONTAS
+
+
+                                     Prof. Gilmar Possati
+
+---
+
+(FGV/FunSaúde/2021)
+Na elaboração das demonstrações contábeis, assinale a conta de origem devedora.
+a) Depreciação acumulada.
+b) Perdas estimadas com créditos de liquidação duvidosa.
+c) Reversão da despesa com perdas por teste de recuperabilidade.
+d) Ajuste a valor presente na conta clientes.
+e) Adiantamento a fornecedores.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TCE-PI/2021)
+Ao elaborar um plano de contas para uma entidade é necessário considerar as características
+das operações próprias da entidade e também alguns conceitos básicos de contabilidade. No
+que tange à natureza do saldo, por exemplo, as contas podem ser credoras ou devedoras. Um
+exemplo de conta que tem saldo de natureza devedora é:
+a) capital social;
+b) estoques;
+c) empréstimos;
+d) impostos a pagar;
+e) receita de vendas.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-RN/2021)
+A elaboração de um plano de contas para uma entidade requer a definição de elementos
+considerados essenciais para a definição da conta, tais como nome, função, funcionamento e
+natureza.
+Quanto à natureza, um exemplo de conta devedora é:
+a) fornecedores;
+b) estoque;
+c) capital social;
+d) impostos a pagar;
+e) financiamentos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+FATOS CONTÁBEIS
+
+
+                                        Prof. Gilmar Possati
+
+   
+
+
+---
+
+(FGV/TCE-PI/2021)
+A empresa Alfa foi constituída em 02/01/2020 por dois sócios, Sr. X e Sr. Y. O capital social da
+empresa foi subscrito no valor de R$ 100.000,00. O capital foi constituído de quotas igualmente
+divididas entre os dois sócios. O Sr. X integralizou a sua parte em dinheiro no ato de
+constituição da empresa, que foi depositada no banco em que a empresa abriu uma conta. Já o
+Sr. Y integralizou a parte dele com um veículo no valor de R$ 30.000,00 e o restante ficou para
+ser integralizado em espécie em 90 dias.
+
+Considere as informações apresentadas no texto 1 sobre a empresa Alfa e também que os
+sócios decidiram tomar um empréstimo no banco no valor de R$ 50.000,00 para dar mais
+liquidez ao negócio e iniciar as atividades operacionais da empresa. A realização dessa
+operação financeira com o banco constitui um fato contábil:
+a) modificativo aumentativo;
+b) modificativo diminutivo;
+c) misto aumentativo;
+d) misto diminutivo;
+e) permutativo.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-RN/2021)
+Na lógica patrimonial, a aquisição de material de expediente para estoque, com pagamento à
+vista, é considerada como um fato contábil:
+a) modificativo aumentativo;
+b) modificativo diminutivo;
+c) misto;
+d) misto aumentativo;
+e) permutativo.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MRE/2016)
+Os sistemas de contabilidade registram fatos que podem afetar o patrimônio das entidades
+quantitativa ou qualitativamente. Quando do registro de um fato contábil modificativo, uma das
+contrapartidas será necessariamente uma conta:
+a) de receita ou de passivo;
+b) de despesa ou de ativo;
+c) de receita ou de despesa;
+d) de patrimônio líquido;
+e) retificadora do ativo ou do passivo.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TJ-PI/2015)
+A Fit Alimentos Saudáveis adquiriu em 30/06/14, da Farinhas & Farinhas, 5 kg de Farinha de
+arroz, 4 kg de farinha de amêndoas e 3 kg de polvilho doce, sendo que cada um dos itens
+custaram R$35, R$480 e R$20, respectivamente. A data de vencimento da compra realizada
+pela Fit Alimentos era 30/07/14. No dia 02/08/14 o Contas a Pagar informou que não havia sido
+feito o pagamento a Farinha & farinhas, e que o mesmo estaria sujeito a multa de 10%. O
+Gerente Financeiro da Fit Alimentos solicitou que fosse realizado o pagamento no dia seguinte.
+As operações realizadas nos dias 30/06 e 03/08 configuram, respectivamente, os fatos
+contábeis:
+a) Permutativo e Modificativo Diminutivo;
+b) Permutativo e Misto Diminutivo;
+c) Permutativo e Misto Aumentativo;
+d) Modificativo Aumentativo e Misto Diminutivo;
+e) Modificativo Aumentativo e Permutativo.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/ALMA/2013)
+Assinale a alternativa que apresenta o registro de um fato misto aumentativo.
+a) D = Caixa; C = Clientes; C = Juros Ativos
+b) D = Caixa; D = Descontos Concedidos; C = Clientes
+c) D = Banco; C = Fornecedores; C = Juros Passivos
+d) D = Clientes; C = Caixa; C = Juros Passivos
+e) D = Caixa; C = Receita de Vendas pelo valor de custo
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/INEA-RJ/2013)
+Analise as informações a seguir e responda à questão.
+I. Aquisição de mercadorias a prazo no valor de $10.000;
+II. Apropriação de despesa com energia no valor de $2.000;
+III. Venda à vista de 80% do estoque de mercadorias por $15.000;
+IV. Adiantamento de salários no valor de $3.000;
+V. Aquisição financiada de equipamentos no valor de $6.000;
+VI. Pagamento de fornecedores no valor do título de $3.000 com desconto ainda de $300 sobre
+o mesmo;
+VII. Recebimento de direitos de clientes no valor de $3.000 mais juros do período de $100.
+São fatos do tipo permutativos os descritos
+a) somente nos itens I, III e VI.
+b) somente nos itens II, III e V.
+c) somente nos itens IV, VI e VII.
+d) somente nos itens I, IV e V.
+e) somente nos itens III, VI e VII.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+ESCRITURAÇÃO
+
+
+                                      Prof. Gilmar Possati
+
+ 
+
+
+---
+
+(FGV/PC-RN/2021)
+Em 01/07/2020, a Cia. Alfa contratou um seguro para a sua frota de veículos, com cobertura de
+um ano a partir da contratação, no valor de R$ 90.000,00, que foram pagos à vista na assinatura
+do contrato.
+No registro dessa transação, o lançamento a débito será em uma conta de:
+a) ajustes patrimoniais;
+b) ativo;
+c) despesa;
+d) passivo;
+e) perda.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-RN/2021)
+O contador de uma empresa registrou diretamente em uma conta de resultado (despesa) a
+aquisição de material de expediente para estoque, que só deveria ser baixado como despesa
+quando requisitado.
+Para efetuar a retificação do lançamento contábil, deve-se realizar um(a):
+a) compensação;
+b) complementação;
+c) estorno total;
+d) estorno parcial;
+e) transferência.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TJ-PI/2015)
+Com relação à escrituração contábil de uma entidade, analise as afirmativas abaixo:
+I - O registro contábil deve conter o número de identificação do lançamento em ordem
+sequencial relacionado ao respectivo documento de origem externa ou interna ou, na sua falta,
+em elementos que comprovem ou evidenciem fatos contábeis.
+II - Lançamento de complementação é aquele que promove a regularização de conta
+indevidamente debitada ou creditada, por meio da transposição do registro para a conta
+adequada.
+III - Segunda Fórmula: são os lançamentos que envolvem mais de uma conta a débito e apenas
+uma conta a crédito.
+Está correto o que se afirma em:
+a) somente I.
+b) somente I e II;
+c) somente I e III;
+d) somente II e III;
+e) I, II e III;
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+BALANÇO PATRIMONIAL
+
+
+                                          Prof. Gilmar Possati
+
+     
+
+
+---
+
+(FGV/PC-AM/2022)
+Uma sociedade empresária apresentava os seguintes saldos em 31/12/X0:
+•       Caixa e equivalente de caixa: R$ 50.000.
+•       Empréstimo a diretor com recebimento em 60 dias: R$ 25.000.
+•       Receita de vendas recebida antecipadamente com prazo de realização de 70 dias:
+55.000.
+•       Estoques previstos para serem vendidos em 120 dias: 40.000,00.
+•       Clientes, com recebimento em 180 dias: 60.000,00.
+•       Aluguel pago antecipadamente, com apropriação linear e mensal por 24 meses: R$
+48.000.
+•       Terreno destinado à valorização: R$ 100.000.
+•       Perdas estimadas com teste de recuperabilidade do terreno: R$ 10.000.
+•       Perdas estimadas com desvalorização de estoques: R$ 4.000.
+•       Perdas estimadas com crédito de liquidação duvidosa: R$ 3.000.
+Com base nos saldos acima, assinale a opção que indica o ativo circulante da empresa em
+31/12/X0.
+a) R$ 143.000. b) R$ 167.000. c) R$ 174.000. d) R$ 192.000. e) R$ 223.000.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma sociedade empresária apresentava os seguintes saldos em seu balanço patrimonial, em
+31/12/X0.
+•       Caixa: R$20.000;
+•       Estoque previsto para ser vendido em 390 dias: R$50.000;
+•       Despesa de seguros dos veículos paga antecipadamente em 31/12/X0 e que será
+apropriada mensalmente de forma linear por dois anos: R$12.000;
+•       Contas a receber em 120 dias: R$60.000;
+•       Empréstimo a acionista com prazo de recebimento de 180 dias: R$15.000;
+•       Veículos utilizados no transporte de funcionários com vida útil estimada em 5 anos:
+R$80.000;
+•       Depreciação acumulada dos veículos: R$54.000;
+•       Perdas estimadas nos estoques: R$5.000; e
+•       Perdas estimadas com crédito de liquidação duvidosa: R$3.000.
+Assinale a opção que indica o ativo realizável a longo prazo da sociedade empresária, em
+31/12/X0:
+a) R$51.000.    b) R$66.000.    c) R$72.000.   d) R$77.000.   e) R$92.000.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-GO/2022)
+Em 01/01/X0, uma sociedade empresária tomou um empréstimo bancário no valor de R$6
+milhões, sendo que R$3 milhões foram recebidos em 01/01/X0 e o restante será recebido em
+01/01/X1. O pagamento do empréstimo será feito em parcelas semestrais ao longo de cinco
+anos, a partir de 01/01/X2.
+
+Assinale a opção que indica, respectivamente, o aumento no passivo circulante e no passivo não
+circulante da sociedade empresária na data da contração do empréstimo.
+
+a) Zero e zero.
+b) Zero e R$3 milhões.
+c) R$3 milhões e zero.
+d) R$3 milhões e R$3 milhões.
+e) Zero e R$6 milhões.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/IMBEL/2021)
+No balanço patrimonial de uma empresa devem ser considerados diversos tipos de bens. As
+máquinas industriais utilizadas nos processos produtivos são exemplos de bens
+a) de investimento.
+b) imobilizados.
+c) de venda.
+d) de renda.
+e) intangíveis.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/TCE-PI/2021)
+Na apresentação do Balanço Patrimonial, as contas que compõem o grupo do Ativo
+representam:
+a) aplicações de recursos e devem ter saldo total igual ao Passivo mais Patrimônio Líquido;
+b) aplicações de recursos e a riqueza líquida da entidade;
+c) aplicações de recursos financiadas por capital de terceiros;
+d) origens de recursos e devem ter saldo total igual ao Passivo;
+e) origens de recursos para uso nas atividades operacionais.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-ES/2021)
+Uma entidade que presta serviços de consultoria apresentava os seguintes saldos em seu ativo,
+em 31/12/X0.
+• Disponibilidades: R$ 50.000;
+• Empréstimo concedido a sócio da entidade para pagamento em 3 meses: R$ 20.000;
+• Crédito Fiscal: R$ 15.000;
+• Automóveis utilizados no negócio: R$ 30.000;
+• Depreciação Acumulada dos automóveis: R$ 10.000;
+• Seguro antecipado dos automóveis, com vigência de dois anos: R$ 24.000.
+Assinale a opção que indica o valor do ativo realizável a longo prazo, em 31/12/X0.
+a) R$ 27.000
+b) R$ 32.000
+c) R$ 47.000
+d) R$ 59.000
+e) R$ 79.000
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+   Na questão, o crédito fiscal diz respeito ao imposto de renda diferido, de acordo com o
+   Pronunciamento Técnico CPC 32 - Tributos sobre o Lucro.
+   De acordo com o Pronunciamento Técnico CPC 26 - Apresentação das Demonstrações Contábeis,
+   estes não devem ser classificados como ativo circulante.
+   Na literatura contábil (ALMEIDA, 2014; GELBCKE et. al.2018), os impostos a recuperar, tais como
+   ICMS, IPI, PIS e CONFINS, são evidenciados no balanço patrimonial como impostos a recuperar
+   (como “ICMS a recuperar”, “IPI a recuperar”).
+   Portanto, o gabarito deve ser mantido.
+   Logo, para a FGV, "Crédito Fiscal" equivale ao Imposto de Renda Diferido e deve ser classificado no
+   Ativo Não Circulante - Realizável a Longo Prazo.
+
+@profgilmarpossati    @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/FunSaúde/2021)
+O Balanço Patrimonial apresenta os ativos, os passivos e o patrimônio líquido de uma
+entidade.O Ativo não Circulante é subdividido em
+a) Realizável a Longo Prazo, Investimentos, Imobilizado e Intangível.
+b) Realizável a Longo Prazo, Investimentos, Imobilizado e Diferido.
+c) Exigível a Longo Prazo, Permanente, Imobilizado e Diferido.
+d) Exigível a Longo Prazo, Permanente, Imobilizado e Intangível.
+e) Financeiro, Investimentos, Permanente e Diferido.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/IMBEL/2021)
+Em 01/01/X1, uma entidade adquiriu um carro, para ser utilizado por seu diretor, por R$ 50.000,
+para pagamento no mês seguinte. No mesmo dia, ela pagou R$ 6.000 a título do seguro anual
+do carro.
+Assinale a opção que indica a movimentação no balanço patrimonial da entidade, na data.
+a) Ativo Imobilizado: +R$ 50.000; Passivo Circulante: +50.000.
+b) Passivo Circulante: +R$ 50.000; Patrimônio Líquido: +R$ 50.000.
+c) Ativo Circulante: +R$ 6.000; Ativo Imobilizado: +R$ 50.000; Passivo Circulante: +56.000.
+d) Ativo Circulante: +R$ 6.000; Ativo Imobilizado: +R$ 50.000; Passivo Circulante: +50.000;
+Patrimônio Líquido: +R$ 6.000.
+e) Ativo Circulante: -R$ 6.000; Ativo Imobilizado: +R$ 50.000; Passivo Circulante: +50.000;
+Patrimônio Líquido: -R$ 6.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/IMBEL/2021)
+No balanço patrimonial de uma entidade, nos casos apresentados a seguir o ativo deve ser
+classificado como circulante, à exceção de um. Assinale-o.
+a) É mantido essencialmente com o propósito de ser negociado.
+b) É utilizado na atividade operacional da empresa.
+c) Espera-se que, após a data do balanço, seja realizado em até doze meses.
+d) Espera-se que seja realizado ou vendido ou consumido no decurso normal do ciclo
+operacional da entidade.
+e) É caixa ou equivalente de caixa, a menos que sua troca ou uso para liquidação de passivo seja
+vedada durante os doze meses após a data do balanço.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+De acordo com o Pronunciamento Técnico CPC 26 (R1)- Apresentação das Demonstrações
+Contábeis, quando o ciclo operacional de uma entidade não for claramente identificável,
+pressupõe-se que sua duração seja de
+a) 30 dias.
+b) 90 dias.
+c) 12 meses.
+d) 18 meses.
+e) 4 anos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+Uma sociedade empresária adquiriu ações próprias, com o objetivo de mantê-las em tesouraria.
+No ano seguinte, parte das ações foi vendida por um valor superior ao valor pago na compra
+efetuada no ano anterior.
+Assinale a opção que indica a conta em que deve ser creditada a diferença entre o preço de
+venda e o valor da compra.
+a) Reserva de capital.
+b) Reserva de lucros.
+c) Ajuste de avaliação patrimonial.
+d) Receitas operacionais.
+e) Outras receitas operacionais.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+As ações de uma sociedade empresária devem ser apresentadas em seu balanço patrimonial, na
+conta Capital Social, por seu valor nominal.
+A diferença entre o preço de subscrição que os acionistas pagaram pelas ações e seu valor
+nominal, deve ser contabilizada na conta
+a) receita operacional.
+b) receita financeira.
+c) reserva de capital.
+d) reserva legal.
+e) reserva de lucros a realizar.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+No Balanço Patrimonial de uma entidade, as aplicações de recursos representam
+a) o ativo.
+b) o passivo.
+c) o patrimônio líquido.
+d) o ativo e o patrimônio líquido.
+e) o passivo e o patrimônio líquido.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+Assinale a opção que indica, no patrimônio líquido de uma sociedade empresária, o item que
+faz parte da reserva de lucro.
+a) O ágio na emissão de ações.
+b) A reserva especial de ágio na incorporação.
+c) A reserva de incentivos fiscais.
+d) A alienação de bônus de subscrição.
+e) A alienação de partes beneficiárias.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+Assinale a opção que indica, na elaboração do Balanço Patrimonial de uma sociedade
+empresária, o que deve ser contabilizado como Disponibilidades.
+a) O numerário em trânsito decorrente de remessas para filiais.
+b) Os saldos de contas mantidas em bancos em liquidação.
+c) Os saldos de contas mantidas em bancos sob intervenção.
+d) Os depósitos vinculados à liquidação de empréstimos.
+e) Os depósitos com restrição de movimentação por força de cláusula contratual de
+financiamento.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEDUC-AM/2014)
+A Cia X é uma empresa de consultoria. Em seu balanço patrimonial, de 31/12/2013, deve estar
+contabilizado como ativo circulante:
+a) Empréstimo bancário obtido com prazo de 05 de outubro de 2014.
+b) Saldo a receber de clientes em 10 de janeiro de 2015.
+c) Contas a receber por um serviço de consultoria prestado à empresa controlada, para
+recebimento em julho de 2014.
+d) Adiantamento a acionista que deverá ser recebido em maio de 2014.
+e) O saldo de dividendos a ser distribuído referente ao ano de 2013.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEDUC-AM/2014)
+Determinada companhia efetuou uma captação de recursos por meio de aumento de capital. As
+ações foram emitidas com ágio.
+A companhia deve reconhecer a diferença entre o preço de subscrição que os acionistas
+pagaram pela ação e seu valor nominal no Patrimônio Líquido, na conta
+a) Reserva de Capital.
+b) Reserva de Lucros.
+c) Ajuste de Avaliação Patrimonial.
+d) Reserva Legal.
+e) Reserva de Lucros a Realizar.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/ALBA/2014)
+A Cia. W, em 31/12/2013, apresentou as informações a seguir:
+Financiamentos                                        R$ 12.000,00
+Dividendos a pagar                                    R$ 3.000,00
+Fornecedores                                          R$ 7.000,00
+Máquinas                                              R$ 100.000,00
+Depreciação acumulada                                 R$ 30.000,00
+Provisão para perda dos estoques                      R$ 3.000,00
+Marcas                                                R$ 30.000,00
+Caixa e equivalentes de caixa                         R$ 10.000,00
+Aplicações financeiras                                R$ 20.000,00
+Salários a pagar                                      R$ 15.000,00
+Estoques                                              R$ 35.000,00
+Clientes                                              R$ 40.000,00
+Provisão para créditos de liquidação duvidosa         R$ 2.000,00
+Passivos contingentes                                 R$ 17.000,00
+Devoluções sobre vendas                               R$ 23.000,00
+Obrigações fiscais                                    R$ 23.000,00
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+Considerando apenas essas informações, o Patrimônio Líquido da Cia. W, em 31/12/2013, era
+de
+a) R$ 123.000,00.
+b) R$ 140.000,00.
+c) R$ 143.000,00.
+d) R$ 146.000,00.
+e) R$ 152.000,00.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+           DRE
+
+
+                                     Prof. Gilmar Possati
+
+---
+
+(FGV/SEFAZ-ES/2021)
+Assinale a opção que indica apenas os tributos que incidem sobre as vendas e que são
+contabilizados como dedução da Receita Bruta na Demonstração do Resultado do Exercício.
+a) PIS e CSLL.
+b) IPI e IR.
+c) ICMS e ISS.
+d) ISS e CSLL.
+e) IR e ICMS.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-AM/2022)
+Uma entidade que presta serviços de consultoria incorreu em R$ 20.000 referentes a despesa
+de juros sobre empréstimos bancários.
+Assinale a opção que indica o reconhecimento contábil dessa despesa na Demonstração do
+Resultado do Exercício.
+a) Despesas Operacionais.
+b) Outras Despesas Operacionais.
+c) Despesas Financeiras.
+d) Distribuição do lucro.
+e) Dedução da receita.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma indústria vendeu uma de suas máquinas por R$50.000, com o intuito de adquirir
+maquinário mais moderno.
+Assinale a opção que indica a contabilização da receita com a venda na Demonstração do
+Resultado do Exercício da indústria.
+a) Receitas comerciais.
+b) Receitas financeiras.
+c) Receitas operacionais.
+d) Outras receitas operacionais.
+e) Receitas não operacionais.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma sociedade empresária, que presta serviços de consultoria, apresentou os seguintes saldos
+em sua Demonstração do Resultado do Exercício, em 31/12/X0:
+Receita de serviços:                   R$500.000;
+Descontos concedidos:                  R$15.000;
+Abatimentos:                           R$10.000;
+Juros auferidos:                       R$50.000;
+Prêmio de resgate de debêntures:       R$16.000;
+Receita com equivalência patrimonial: R$20.000;
+Receita de títulos vinculados ao mercado aberto: R$21.000;
+Custo dos Serviços Prestados:          R$200.000;
+Despesas gerais:                       R$80.000;
+Comissões e despesas bancárias:        R$8.000; e
+Variações monetárias das obrigações: R$18.000.
+
+Assinale a opção que indica o resultado financeiro da sociedade empresária, em 31/12/X0.
+a) R$9.000.    b) R$32.000.     c) R$38.000.    d) R$46.000.   e) R$54.000.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Uma padaria apresentou os seguintes saldos em 31/12/X0:
+Receita de Vendas: R$100.000; Perdas estimadas com crédito de liquidação duvidosa: R$3.000;
+vendas canceladas: R$10.000; custo das mercadorias vendidas: R$50.000; Receita com a venda
+de veículo que era utilizado para entregas: R$40.000; custo do veículo vendido: R$30.000;
+impostos incidentes sobre as vendas de produtos: R$15.000.
+Assinale a opção que indica o lucro bruto da padaria em 31/12/X0, evidenciado em sua
+Demonstração do Resultado do Exercício.
+a) R$22.000.
+b) R$25.000.
+c) R$35.000.
+d) R$40.000.
+e) R$50.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+Assinale a opção que indica a contabilização na Demonstração do Resultado do Exercício que
+foi instituída a partir das alterações da Lei nº 6.404/1976.
+a) Contabilização das perdas estimadas com crédito de liquidação duvidosa como “Dedução da
+Receita Bruta”.
+b) Contabilização da despesa de depreciação como “Despesas Operacionais”.
+c) Contabilização da venda do ativo imobilizado como “Outras receitas operacionais”.
+d) Contabilização da receita de aluguel como “Receitas Financeiras”.
+e) Contabilização da distribuição dos dividendos como “Despesas não Operacionais”.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFIN-RO/2018)
+A Cia. LOL elaborou sua Demonstração do Resultado do Exercício pelo método da natureza da
+despesa.
+Assinale a opção que contém apenas as contas classificadas de acordo com esse método.
+a) Despesa com Benefícios a Empregados e Despesas Comerciais.
+b) Variação do Estoque e Custo dos Produtos Vendidos.
+c) Despesa de Depreciação e Consumo de Matéria Prima.
+d) Despesa de Vendas e Despesas Administrativas.
+e) Despesas Administrativas e Despesa de Amortização.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFIN-RO/2018)
+A Cia. X vende roupas. A sociedade empresária não é contribuinte do IPI, mas é contribuinte
+dos impostos estaduais e municipais.
+Em 31/12/2017, ela apresentava os seguintes saldos:
+• vendas brutas de vendas: R$ 200.000;
+• comissão de vendas: R$ 20.000;
+• devolução de vendas: R$ 10.000;
+• custo das mercadorias vendidas: R$ 120.000;
+• devolução de compras: R$ 15.000;
+• ajuste a valor presente de contas a pagar: R$ 5.000;
+• ajuste a valor presente de clientes: R$ 12.000;
+• ICMS sobre vendas: R$ 40.000;
+• IPI nas compras: R$ 30.000;
+• despesas com salários: R$ 35.000;
+• perdas estimadas para créditos de liquidação duvidosa: R$ 10.000;
+• perdas com a redução do valor dos estoques: R$ 4.000.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+Com base nos dados acima, assinale a opção que indica o valor da Receita Líquida de Vendas
+da Cia. X, em 31/12/2017.
+a) R$ 18.000.
+b) R$ 70.000.
+c) R$ 118.000.
+d) R$ 138.000.
+e) R$ 150.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEPOG-RO/2017)
+Uma sociedade empresária apresentava em suas contas, em 31/12/2016, os saldos listados a
+seguir.
+• Vendas Brutas: R$ 400.000;
+• Compras de mercadorias: R$ 100.000;
+• Abatimentos concedidos: R$ 20.000;
+• Descontos financeiros obtidos: R$ 22.000;
+• Descontos financeiros concedidos: R$ 28.000;
+• Devolução de vendas: R$ 15.000;
+• Devolução de compras: R$ 10.000;
+• Saldo inicial do estoque de mercadorias: R$ 25.000;
+• Saldo final do estoque de mercadorias: R$ 5.000;
+• Despesas comerciais: R$ 60.000;
+• Despesas administrativas: R$ 65.000;
+• Provisão para crédito de liquidação duvidosa: R$ 8.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+Considerando apenas as informações acima e desconsiderando a incidência de impostos, o
+valor do lucro bruto da sociedade empresária, em 31/12/2016, era de
+a) R$ 187.000.
+b) R$ 227.000.
+c) R$ 247.000.
+d) R$ 255.000.
+e) R$ 280.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/AL-RO/2018)
+As opções a seguir trazem exemplos de informações que são apresentadas na Demonstração
+do Resultado do Exercício de uma entidade, à exceção de uma. Assinale-a:
+a) Devolução de vendas.
+b) Provisão para imposto sobre a renda.
+c) Resultado de operações descontinuadas.
+d) Variação cambial.
+e) Distribuição de dividendos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/AL-RO/2018)
+Uma entidade apresentava os seguintes saldos, em 31/12/2017:
+Receita de vendas (a prazo): R$ 100.000; Custo das mercadorias vendidas: R$ 40.000; Receita
+com a venda de ativo imobilizado (à vista): R$ 50.000; Baixa de ativo imobilizado: R$ 30.000;
+Perdas estimadas com crédito de liquidação duvidosa: R$ 5.000; Despesas gerais: R$ 15.000.
+Assinale a opção que indica o valor do lucro antes do imposto sobre a renda (LAIR), em
+31/12/2017, com base nas informações acima e considerando a alíquota do ICMS de 18%.
+a) R$ 33.000.
+b) R$ 42.000.
+c) R$ 42.900.
+d) R$ 49.200.
+e) R$ 60.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/COMPESA/2018)
+Assinale a opção que indica o que é evidenciado pela Demonstração do Resultado do Exercício.
+a) A riqueza gerada pela entidade e pertencente ao acionista.
+b) A riqueza gerada pela entidade e pertencente à sociedade.
+c) As aplicações e as origens dos recursos da entidade.
+d) A movimentação ocorrida nas contas pertencentes aos sócios da entidade.
+e) A parte dos recursos financeiros gerada internamente pela entidade.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/COMPESA/2018)
+Uma entidade apresentava o seguinte balanço patrimonial em 31/12/2016:
+
+No ano de 2017, aconteceram os seguintes fatos:
+• Pagamento das despesas de 2016;
+• Venda à vista de todo o estoque, por R$ 350.000;
+• Reconhecimento e pagamento de despesas gerais, no valor de R$ 50.000.
+Assinale a opção que indica o valor do lucro antes do imposto sobre a renda (LAIR), em
+31/12/2017, considerando alíquota do ICMS de 18%.
+a) R$ 37.000.
+b) R$ 73.000.
+c) R$ 87.000.
+d) R$ 97.000.
+e) R$ 100.000.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/CODEBA/2016)
+De acordo com o Pronunciamento Contábil CPC 26 (R1) - Apresentação das Demonstrações
+Contábeis, as despesas de uma entidade devem ser subclassificadas a fim de destacar
+componentes do desempenho que podem diferir em termos de frequência, potencial de ganho
+ou de perda e previsibilidade.
+Em relação à classificação das despesas, assinale a afirmativa correta.
+a) Existem três formas de análise, o método da natureza da despesa, o método da função da
+despesa e o método do setor da despesa.
+b) Custos dos produtos vendidos, despesa com empregados e despesa com depreciação são
+exemplos de despesas classificadas pelo método da natureza da despesa.
+c) Despesas de vendas, despesas administrativas e despesas financeiras são exemplos de
+despesas classificadas pelo método do setor da despesa.
+d) As entidades que classificam seus gastos por função devem divulgar informação adicional
+sobre a natureza das despesas, que é útil ao prever os futuros fluxos de caixa.
+e) O Comitê dos Pronunciamentos Contábeis recomenda fortemente que a entidade utilize o
+método do setor da despesa.
+
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+RESERVAS E DIVIDENDOS
+
+
+                                           Prof. Gilmar Possati
+
+      
+
+
+---
+
+(FGV/PC-AM/2022)
+Assinale a opção que indica a contabilização da contrapartida do lançamento da reversão da
+reserva de lucros a realizar constituída em anos anteriores, quando os lucros nela contidos forem
+realizados financeiramente.
+a) Dividendos a pagar.
+b) Lucros acumulados.
+c) Reserva de lucros.
+d) Ações em Tesouraria.
+e) Reserva de Ágio.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFAZ-AM/2022)
+Assinale a opção que indica a reserva constituída no patrimônio líquido de uma sociedade
+empresária com o objetivo de segregar uma parcela de lucros, correspondente a prováveis
+perdas extraordinárias futuras, que deverão diminuir o resultado em exercícios futuros.
+a) Legal.
+b) Estatutárias.
+c) Para contingências.
+d) De lucros a realizar.
+e) De lucros para expansão.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-AM/2022)
+Em 05/01/X1, uma entidade declarou dividendos referentes ao período contábil de X0 aos
+detentores de instrumentos de patrimônio, em um montante superior ao valor obrigatório. A
+parcela excedente ao montante obrigatório deve ser reconhecida como
+a) passivo circulante.
+b) passivo não circulante.
+c) patrimônio líquido.
+d) redutor do patrimônio líquido.
+e) sem reconhecimento no balanço patrimonial.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/PC-AM/2022)
+Uma sociedade empresária apresentava o seguinte balanço patrimonial em 31/12/X0:
+
+No ano de X1 a sociedade empresária reconheceu os seguintes eventos:
+• Receita líquida de vendas:         R$80.000;
+• Custo das mercadorias vendidas:    R$20.000;
+• Despesas operacionais:             R$10.000;
+• Receita financeira:                R$15.000;
+• Imposto de renda e contribuição social sobre o lucro: 20% do lucro antes do imposto de
+   renda e contribuição social.
+Além disso, de acordo com o estatuto da sociedade empresária, ela deve distribuir dividendos
+mínimos obrigatórios de 25% do lucro líquido ajustado. Todas as receitas são tributáveis e as
+despesas dedutíveis.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+Assinale a opção que indica o valor dos dividendos distribuídos pela sociedade empresária em
+31/12/X1.
+a) R$12.350.
+b) R$12.500.
+c) R$12.850.
+d) R$15.438.
+e) R$16.250.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/FunSaúde/2021)
+No Patrimônio Líquido, os valores recebidos por uma entidade para reforço de capital e que
+não transitam pelo Resultado como receitas, são contabilizados como
+a) Capital Social.
+b) Reservas de Capital.
+c) Ajustes de Avaliação Patrimonial.
+d) Reservas de Lucros.
+e) Reservas de incorporação.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEFIN-RO/2018)
+Em 31/12/2015, a Cia. WWW apresentava o seguinte balanço patrimonial:
+
+No ano de 2016, a sociedade empresária auferiu receitas e incorreu em despesas, gerando um lucro
+líquido de R$ 160.000.
+Dado que a Cia. WWW distribuiu dividendos mínimos obrigatórios de 25% do lucro líquido ajustado,
+assinale a opção que indica o valor dos dividendos a pagar, em 31/12/2016.
+a) R$ 30.000.
+b) R$ 33.750.
+c) R$ 38.000.
+d) R$ 38.750.
+e) R$ 40.000.
+ @profgilmarpossati   @canalcontabilizando
+                                             
+
+
+---
+
+(FGV/AL-RO/2018)
+Uma entidade brasileira de capital fechado, especializada em pesquisas, atinge resultados
+positivos apenas em anos de eleição para presidente, portanto, de quatro em quatro anos.
+Em 2018, a direção da entidade deseja separar uma parte de seu lucro para compensar as
+perdas nos exercícios seguintes e propõe à assembleia a não distribuição de dividendos sobre
+os resultados de 2018.
+Assinale a opção que indica o procedimento contábil proposto para a assembleia.
+a) Constituição de reserva de capital.
+b) Constituição de reserva para contingências.
+c) Constituição de provisão para contingências.
+d) Constituição de passivo contingente.
+e) Constituição de ativo contingente.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/AL-RO/2018)
+Em 2017, uma entidade recebeu subvenções governamentais no valor de R$ 100.000,00.
+Assinale a opção que indica a classificação do valor no balanço patrimonial da entidade, em
+31/12/2017, considerando que a entidade não pretende distribuir o valor como dividendos.
+a) Capital social.
+b) Reserva de capital.
+c) Reserva de lucros.
+d) Reserva legal.
+e) Resultado de exercícios futuros.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+Assinale a opção que indica, no patrimônio líquido de uma sociedade empresária, o item que
+faz parte da reserva de lucro.
+a) O ágio na emissão de ações.
+b) A reserva especial de ágio na incorporação.
+c) A reserva de incentivos fiscais.
+d) A alienação de bônus de subscrição.
+e) A alienação de partes beneficiárias.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/CM Caruaru/2015)
+Assinale a opção que indica a conta que representa um exemplo de reserva de lucros.
+a) Ágio na emissão de ações.
+b) Alienação de bônus de subscrição.
+c) Alienação de partes beneficiárias.
+d) Reserva especial de ágio na incorporação.
+e) Reserva de incentivos fiscais.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/MPE-AL/2018)
+Assinale a opção que indica o objetivo da constituição da reserva de contingências.
+a) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou
+prejuízo, decorrentes de fatos extraordinários futuros.
+b) Equalizar a distribuição de dividendos quando se prevê diminuição no lucro líquido ou
+prejuízo, decorrentes de perdas de causas na justiça.
+c) Garantir o financiamento da expansão da entidade, que irá trazer lucros futuros.
+d) Evitar que a empresa apure prejuízo em um período contábil específico.
+e) Equalizar a distribuição de dividendos quando há existência de ativos contingentes não
+reconhecidos.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/DPE-MT/2015)
+Assinale a opção que indica o item do Patrimônio Líquido em que os incentivos fiscais
+decorrentes de doações ou subvenções governamentais para investimentos devem ser
+evidenciados.
+a) Capital Social.
+b) Outros resultados abrangentes.
+c) Ações em Tesouraria.
+d) Reserva de capital.
+e) Reserva de lucros.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEDUC-AM/2014)
+Uma entidade recebeu no ano de 2013, subvenções governamentais para investimentos no
+valor de R$ 50.000,00. Em 31/12/2013, a correta evidenciação desse valor é na conta
+a) Reserva de Lucros.
+b) Reserva de Capital.
+c) Reserva Legal.
+d) Reserva Especial para Dividendo Obrigatório não Distribuído.
+e) Reserva Especial de Ágio.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SEDUC-AM/2014)
+A Cia K S.A. declarou em 31/12/2013 dividendos no total de R$ 55.000. Deste montante, R$
+40.000 representavam o valor do dividendo mínimo obrigatório e o restante era adicional a esse
+montante.
+Os valores no balanço patrimonial da Cia K S.A. são reconhecidos da seguinte forma:
+a) R$ 55.000,00 no Passivo Circulante.
+b) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Passivo não Circulante.
+c) R$ 55.000,00 no Patrimônio Líquido.
+d) R$ 40.000,00 no Passivo Circulante e R$ 15.000,00 no Patrimônio Líquido.
+e) R$ 40.000,00 no Patrimônio Líquido e R$ 15.000,00 no Passivo Circulante.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+(FGV/SUSAM/2014)
+Devido ao risco de falta de energia elétrica no futuro, a direção da Cia. J S.A., de capital
+fechado, resolveu propor à assembleia a não distribuição de dividendos sobre os resultados de
+2013.
+O procedimento contábil a ser efetuado é denominado
+a) constituição de provisão para contingências.
+b) constituição de reserva para contingências
+c) constituição de passivo derivado da apropriação por competência.
+d) evidenciação em nota explicativa.
+e) constituição de reserva de capital.
+
+@profgilmarpossati   @canalcontabilizando
+                                            
+
+
+---
+
+Instagram: @profgilmarpossati
+Telegram: @canalcontabilizando
+Canal You Tube: Contabilizando
+
+ 
+
+
+---

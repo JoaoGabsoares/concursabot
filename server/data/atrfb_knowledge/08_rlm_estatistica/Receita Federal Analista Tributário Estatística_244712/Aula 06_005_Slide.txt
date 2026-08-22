@@ -1,0 +1,681 @@
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+INTRODUÇÃO
+A Análise Combinatória, ou simplesmente Combinatória, ou ainda, Princípios
+de Contagem, estuda métodos e técnicas relacionados a contagens de
+elementos em conjuntos finitos, de modo que não seja necessário enumerar
+todos os elementos.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+INTRODUÇÃO
+Vejamos um exemplo inicial para entender o que isso significa:
+Quantos números de 3 algarismos podemos formar com o conjunto {1, 3, 4},
+sem repetir os elementos em um mesmo número?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PRINCÍPIOS FUNDAMENTAIS DA CONTAGEM
+
+
+                                     Princípio Multiplicativo
+
+
+
+PRINCÍPIOS FUNDAMENTAIS
+
+
+                                     Princípio Aditivo
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PRINCÍPIO MULTIPLICATIVO
+Se um evento A ocorre de m maneiras diferentes e se, para cada uma dessas
+maneiras, um outro evento B ocorre de n maneiras diferentes, então o número
+de maneiras diferentes de ambos os eventos (A e B) ocorrerem é m x n.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PRINCÍPIO MULTIPLICATIVO
+João precisa se vestir com uma calça e uma blusa e que ele tem 3 calças e 4
+blusas.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+ VUNESP/2019
+Em um grupo de pessoas, há 12 homens e 13 mulheres.
+Com essas pessoas, uma dupla será aleatoriamente formada, com um homem
+e uma mulher, para participar de um concurso. O número total de
+possibilidades para a formação dessa dupla é igual a
+a) 12.
+b) 144.
+c) 156.
+d) 168.
+e) 288.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+ 2019 – PREFEITURA DE JACUTINGA/MG)
+Assinale a alternativa que contém a quantidade de vezes que é possível
+usar de maneiras diferentes duas blusas, três calças e quatro meias:
+a) 24 maneiras diferentes.
+b) 28 maneiras diferentes.
+c) 32 maneiras diferentes.
+d) 36 maneiras diferentes.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+ CESPE/2013 – TRT-ES)
+Os alunos de uma turma cursam 4 disciplinas que são ministradas por 4
+professores diferentes. As avaliações finais dessas disciplinas serão realizadas
+em uma mesma semana, de segunda a sexta-feira, podendo ou não ocorrerem
+em um mesmo dia. A respeito dessas avaliações, julgue o item
+seguinte.
+Se cada professor escolher o dia em que aplicará a avaliação final de sua
+disciplina de modo independente dos demais, haverá mais de 500 maneiras de
+se organizar o calendário dessas avaliações.
+
+
+
+
+                               https://t.me/KakashiAssinaturasBot
+ CESPE 2016/FUB
+Em um intervalo para descanso, a assistente em administração Marta foi a
+uma lanchonete cujo cardápio oferecia 7 tipos diferentes de salgados, 4 tipos
+diferentes de bolos, 3 espécies diferentes de tapioca, sucos de 3 sabores
+diferentes e 5 tipos diferentes de refrigerantes. A partir dessa situação
+hipotética, julgue o item que se segue.
+Se Marta desejar fazer um lanche com apenas uma opção de comida e apenas
+uma bebida, ela terá mais de 100 maneiras distintas de organizar seu lanche.
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+ FGV/2022 – PM-PB
+Cada vértice de um quadrado ABCD deverá ser pintado com uma cor. Há 5
+cores diferentes disponíveis para essa tarefa. A única restrição é que os
+vértices que estejam em extremidades opostas de qualquer diagonal do
+quadrado (AC e BD) sejam pintados com cores diferentes. O número de
+maneiras diferentes de pintar os vértices desse quadrado é:
+a) 18
+b) 60
+c) 120
+d) 240
+e) 400
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+ PRINCÍPIO ADITIVO
+Se o evento A ocorre de m maneiras diferentes e o evento B ocorre de n
+maneiras diferentes, e se A e B são mutuamente exclusivos (ou seja, se um
+ocorrer o outro não ocorre), então o número de maneiras de ocorrer um dos
+eventos (A ou B) é m + n.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+ PRINCÍPIO ADITIVO
+ João precisa se calçar e que ele possui 3 opções de tênis e 2 opções de
+sapatos.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PRINCÍPIO ADITIVO
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+2017 – CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA/CE)
+
+Numa estante encontram-se 4 dicionários de inglês, 3 de espanhol e 2 de
+francês. De quantas maneiras uma pessoa pode escolher dois dicionários
+dessa estante e que sejam de idiomas diferentes?
+a) 22
+b) 24
+c) 26
+d) 28
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+CESPE/2013 – TRT-ES
+
+Considerando que, na fruteira da casa de Pedro, haja 10 uvas, 2 maçãs, 3
+laranjas, 4 bananas e 1 abacaxi, julgue o próximo item.
+
+Se Pedro desejar comer apenas um tipo de fruta, a quantidade de
+maneiras de escolher frutas para comer será superior a 100.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PRINCÍPIO DA CASA DOS POMBOS
+
+Se n pombos devem se abrigar em m casas e se n > m, então pelo menos
+uma casa irá conter mais de um pombo.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PRINCÍPIO DA CASA DOS POMBOS
+
+
+
+
+                    https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DA SEMANA
+
+Em grupo com 8 pessoas, o que podemos afirmar em relação aos dias da
+semana?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DA SEMANA
+
+Em grupo com 14 pessoas, o que podemos afirmar em relação aos dias da
+semana?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DA SEMANA
+
+Em grupo com 15 pessoas, o que podemos afirmar em relação aos dias da
+semana?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DA SEMANA
+
+Em grupo com 16 pessoas, o que podemos afirmar em relação aos dias da
+semana?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DA SEMANA
+
+Em grupo com 21 pessoas, o que podemos afirmar em relação aos dias da
+semana?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DO MÊS
+
+Em grupo com 32 pessoas, o que podemos afirmar em relação aos dias do mês?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DO MÊS
+
+Em grupo com 70 pessoas, o que podemos afirmar em relação aos dias do mês?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PESSOAS X DIAS DO MÊS
+
+Em grupo com 160 pessoas, o que podemos afirmar em relação aos dias do
+mês?
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PESSOAS X MESES DO ANO
+
+Em um grupo com 13 pessoas, o que podemos afirmar em relação aos meses
+do ano?
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PESSOAS X MESES DO ANO
+
+Em um grupo com 24 pessoas, o que podemos afirmar em relação aos meses
+do ano?
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PESSOAS X MESES DO ANO
+
+Em um grupo com 37 pessoas, o que podemos afirmar em relação aos meses
+do ano?
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PESSOAS X MESES DO ANO
+
+Em um grupo com 80 pessoas, o que podemos afirmar em relação aos meses
+do ano?
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+ !=   × ( − ) × ( − ) × …×             ×
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+0!
+
+1!
+
+2!
+
+3!
+
+4!
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+5!
+
+6!
+
+7!
+
+8!
+
+9!
+
+10!
+
+
+                   https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+FATORIAL DE UM NÚMERO NATURAL
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO
+
+Processo que calcula o número de possibilidades de trocar elementos de lugar
+entre si.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES
+
+ Não há elementos repetidos
+
+
+
+    = !
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO
+
+Ana, Beto e Caio
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO
+
+Ana, Beto e Caio
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO
+
+Ana, Beto, Caio e Daniel
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO
+
+Ana, Beto, Caio e Daniel
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+FGV/2019 – PREFEITURA DE SALVADOR/BA
+
+Trocando-se a ordem das letras da sigla PMS de todas as maneiras possíveis,
+obtêm-se os anagramas dessa sigla. O número desses anagramas é:
+a) 16.
+b) 12.
+c) 9.
+d) 8.
+e) 6.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+VUNESP/2018 – PM/SP
+
+Em um armário, há 5 prateleiras e será preciso colocar 5 caixas, de cores
+distintas, cada uma em uma prateleira desse armário, sem que haja uma ordem
+específica. O número total de maneiras de colocar essas caixas nesse armário é
+a) 25.
+b) 60.
+c) 95.
+d) 120.
+e) 165.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+CESPE 2018/EBSERH
+Julgue o próximo item, a respeito de contagem.
+Se a enfermaria de um hospital possuir cinco leitos desocupados e se cinco
+pacientes forem ocupar esses leitos, então haverá mais de 100 formas
+diferentes de fazer essa ocupação.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+CESPE 2016/CBM-DF
+Para atender uma grave ocorrência, o comando do corpo de bombeiros
+acionou 15 homens: 3 bombeiros militares condutores de viatura e 12
+praças combatentes, que se deslocaram em três viaturas: um caminhão e
+duas caminhonetes. Cada veículo transporta até 5 pessoas, todas sentadas,
+incluindo o motorista, e somente os condutores de viatura podem dirigir
+uma viatura. Com relação a essa situação, julgue o item seguinte.
+
+A quantidade de maneiras distintas de se distribuir os condutores de viatura
+para dirigir os veículos é superior a 5.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+É possível que algumas questões de permutações imponham determinadas
+restrições.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+
+Pn–p = (n – p)!
+
+
+
+
+                   https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+por exemplo, os algarismos {1, 2, 3, 4, 5, 6, 7, 8}. Suponha que o
+número 1 esteja fixo na primeira posição e o número 8, na oitava posição:
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+Vamos considerar que há 8 elementos distintos a serem ordenados,
+por exemplo, os algarismos {1, 2, 3, 4, 5, 6, 7, 8}. Suponha que o
+número 1 e o número 8 estejam posicionados nos extremos.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+vamos supor que os 3 primeiros algarismos tenham que ocupar as 3
+primeiras posições, em qualquer ordem, e os demais algarismos nas
+demais posições:
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+suponha que os algarismos ímpares tenham que ocupar posições
+ímpares e os algarismos pares, posições pares.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+PERMUTAÇÃO SIMPLES COM RESTRIÇÃO
+ELEMENTOS FIXOS
+De modo geral, havendo n elementos, dos quais p estejam
+designados a determinadas posições, mas sem indicar a posição
+especifica de cada um, fazemos a permutação de n–p elementos e
+multiplicamos pela permutação de p elementos:
+
+
+Pn–p x Pp = (n – p)! x p!
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+ANÁLISE COMBINATÓRIA
+
+
+
+
+                 https://t.me/KakashiAssinaturasBot
+FCC/2019 – ANALISTA JUDICIÁRIO DO TRF 3ª REGIÃO
+Em um concurso com 5 vagas, os candidatos aprovados serão alocados, cada
+um, em um dos municípios A, B, C, D ou E. O primeiro colocado foi
+designado para o município A. O número de possíveis alocações dos outros
+candidatos aprovados é:
+a) 30
+b) 4
+c) 120
+d) 24
+e) 6
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+CESPE 2018/BNB
+Em um navio, serão transportados 10 animais, todos de espécies diferentes.
+Antes de serem colocados no navio, os animais deverão ser organizados em
+uma fila. Entre esses 10 animais, há um camelo, um elefante e um leão.
+
+A respeito da organização dessa fila, julgue o item subsequente.
+
+Existem 8! maneiras distintas de organizar essa fila de forma que o camelo
+fique na primeira posição e o elefante fique na sexta posição.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+CESPE 2018/BNB
+Em um navio, serão transportados 10 animais, todos de espécies diferentes.
+Antes de serem colocados no navio, os animais deverão ser organizados em
+uma fila. Entre esses 10 animais, há um camelo, um elefante e um leão.
+
+A respeito da organização dessa fila, julgue o item subsequente.
+
+Existem 3 × 7! maneiras distintas de organizar essa fila de forma que o
+elefante, o camelo e o leão fiquem nas três primeiras posições, não
+necessariamente nessa ordem.
+
+
+
+
+                             https://t.me/KakashiAssinaturasBot
+OBRIGADO
+
+
+
+
+       https://t.me/KakashiAssinaturasBot
+

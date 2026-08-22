@@ -1,0 +1,2936 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Raciocínio Lógico-Matemático e Estatística
+tags:
+- rlm
+- logica_proposicional
+- probabilidade
+- estatistica
+- inferencia
+arquivo_origem: Aula 03_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Índice
+---
+
+# Índice
+
+Índice
+1)  Introdução - Diagramas Lógicos
+
+
+)  Proposições Quantificadas e Categóricas                                                                                                                                                   6
+
+3)  Diagramas Lógicos                                                                                                                                                                       18
+)  Validade de Argumentos                                                                                                                                                                  21
+..............................................................................................................................................................................................
+
+)  Questões Comentadas - Proposição Quantificada e Catégorica - FGV                                                                                                                        23
+
+6)  Questões Comentadas - Diagramas Lógicos - FGV                                                                                                                                           48
+..............................................................................................................................................................................................
+
+)  Lista de Questões - Proposição Quantificada e Catégorica - FGV                                                                                                                          60
+
+8)  Lista de Questões - Diagramas Lógicos - FGV                                                                                                                                             70
+..............................................................................................................................................................................................
+
+
+---
+
+   PROPOSIÇÕES QUANTIFICADAS E DIAGRAMAS LÓGICOS
+
+Introdução
+
+Para introduzir o assunto da aula de hoje, falaremos um pouco sobre as sentenças abertas. De modo direto
+e simplificado, sentenças abertas são expressões que possuem um termo variável. Por possuírem esse
+termo variável, não há como atribuir-lhes valor lógico e, portanto, não são proposições. Você lembra das
+aulas anteriores? Acompanhe alguns exemplos de sentenças abertas:
+
+• 𝑥 + 10 = 50
+Sendo 𝑥 uma variável, não sabemos se a expressão acima é verdadeira ou falsa.
+
+Professor, mas o "x" nessa equação é igual a 40! Sabemos quem é sim!
+
+Em Raciocínio Lógico, quando escrevemos "𝑥 + 10 = 50", sem qualquer outra informação, teremos uma
+sentença aberta. Perceba que, se o "x" for 10, a sentença torna-se falsa. Por sua vez, se "x" for 40, a
+sentença torna-se verdadeira. Observe que o valor lógico da sentença depende de quem é "x", nossa
+variável. Por esse motivo, temos uma sentença aberta.
+
+Nesse momento, já gostaria de resolver uma questão com vocês em que esclareço situações que podem
+causar dúvidas! Galera, muita atenção nos comentários!
+
+(ISS-GUARULHOS/2019) Dentre as sentenças a seguir, aquela que é uma sentença aberta é
+A) 3𝑥 + 4– 𝑥– 3– 2𝑥 = 0
+B) 7 + 3 = 11
+C) 0 ⋅ 𝑥 = 5
+D) 13 ⋅ 𝑥 = 7
+E) 43 − 1 = 42
+
+Comentários:
+A) 3𝑥 + 4– 𝑥– 3– 2𝑥 = 0
+Muito cuidado nessa, pessoal. Devemos fazer todas as operações de cada lado, pois, algumas vezes, a
+variável "x" pode desaparecer. Se a variável desaparece, então não teremos uma sentença aberta. Quando
+resolvemos a parte esquerda da equação, encontramos que 1 = 0. Note que as variáveis somem e é possível
+dizer com precisão que a sentença é falsa. Ora, se conseguimos atribuir um valor lógico para a sentença, ela
+não é aberta.
+
+
+---
+
+B) 7 + 3 = 11
+É uma outra sentença fechada. Ao resolver a parte esquerda da equação, encontramos que 10 = 11. Dessa
+forma, vemos que não há variáveis, bem como conseguimos julgar objetivamente a sentença como falsa.
+
+C) 0 ⋅ 𝑥 = 5
+É uma sentença fechada. Quando resolvemos a parte da esquerda, encontramos 0 = 5. Observe que isso
+está claramente errado (falso) e a variável também desaparece.
+
+D) 13 ⋅ 𝑥 = 7
+Opa! Aqui está nosso gabarito. Essa é uma sentença aberta, pois não sabemos o valor de "x" e ele não some
+quando fazemos a operação do lado esquerdo. Se "x" for 1, por exemplo, a sentença será falsa. Por sua vez,
+se for igual a 7/13, ela será verdadeira. Tudo dependerá do seu valor.
+
+E) 43– 1 = 42
+É uma sentença fechada. Observe que não há variáveis e, na prática, a sentença está nos dizendo que 42=42.
+Sendo assim, trata-se de uma sentença verdadeira.
+
+Gabarito: LETRA D.
+
+Vamos avançar mais um pouco. Observe mais um exemplo de sentença aberta.
+
+• 𝑥≤ 𝜋
+O 𝑥 continua sendo uma variável e não conseguimos julgar a expressão como verdadeira ou falsa.
+
+É o mesmo pensamento aqui, pessoal. A inequação "𝑥 ≤ 𝜋", sem qualquer outra informação, é uma
+sentença aberta, pois não é possível atribuir-lhe um valor lógico. Tudo dependerá do valor de "x".
+
+Ressalto que as sentenças abertas não estão apenas relacionadas às expressões matemáticas, podemos
+também encontrá-las escritas em orações usuais. Veja alguns exemplos:
+
+• Aquele homem é careca.
+A variável aqui é "aquele homem". Não é possível atribuir um valor lógico a essa sentença por não saber a
+que homem ela está se referindo. É, portanto, uma sentença aberta.
+
+• A mulher está na praia.
+A variável aqui é "a mulher". Não sabemos quem é e dependendo de quem estamos falando, a sentença
+poderá ser verdadeira ou falsa. Trata-se de uma sentença aberta.
+
+Para não ficarmos apenas na teoria, vamos praticar o que acabamos de ver em uma questão bem completa.
+
+
+---
+
+(PREF. HULHA NEGRA/2022) Analise as sentenças a seguir e classifique as em abertas ou fechadas. A seguir,
+assinale a sequência CORRETA da classificação das sentenças.
+
+I. 𝑥 − 3 = 4.
+II. Paulo Freire foi presidente da Coreia do Norte.
+III. Ela é bonita.
+IV. Donald Trump é presidente dos EUA.
+
+A) Aberta — Aberta — Fechada — Fechada.
+B) Aberta — Fechada — Aberta — Fechada.
+C) Fechada — Fechada — Aberta — Fechada.
+D) Fechada — Aberta — Fechada — Aberta.
+E) Fechada — Fechada - Fechada - Fechada.
+
+Comentários:
+Questão para aplicarmos o que acabamos de ver! Vamos analisar cada uma as afirmativas.
+
+I. 𝑥 − 3 = 4.
+É uma sentença aberta! Não sabemos se é verdadeira ou falsa, pois isso vai depender do valor de "x".
+
+II. Paulo Freire foi presidente da Coreia do Norte.
+É uma sentença fechada! Não há variáveis aqui. Note que conseguimos atribuir um valor lógico a ela (falso)
+pois sabemos que Paulo Freire não foi presidente da Coreia do Norte.
+
+III. Ela é bonita.
+É uma sentença aberta! Ela quem?! Sem saber, não conseguimos afirmar se a sentença é falsa ou verdadeira.
+
+IV. Donald Trump é presidente dos EUA.
+É um outra sentença fechada! Observe também que, por ser fechada, conseguimos avaliá-la, já que sabemos
+que Donald Trump não é mais o presidente dos EUA (portanto, a sentença é falsa).
+
+Gabarito: LETRA B.
+
+
+---
+
+Proposições Quantificadas e Categóricas
+
+Agora que relembramos o que é uma sentença aberta, vamos descobrir como a transformamos em uma
+proposição. Para esse fim, podemos recorrer a duas alternativas:
+
+
+1) Podemos atribuir um valor para a variável.
+
+                                             20 + 10 = 50
+
+Substituímos o 𝑥 por 20 e agora é possível julgar a expressão. Temos uma proposição falsa, uma vez que o
+resultado dessa soma é 30 e não 50.
+
+Professor, então quer dizer que "x+10=50" é uma sentença aberta e "20+10=50" é uma sentença fechada
+(proposição)?
+
+Sim! Quando atribuímos um valor para a variável, passamos a poder avaliar a sentença e, por isso, ela se
+transforma em fechada.
+
+2) Podemos usar os quantificadores.
+
+Os quantificadores são palavras e/ou expressões que, ao serem usados em sentenças abertas, permitem
+transformá-las em proposições. Essas proposições passam a ser chamadas de proposições quantificadas.
+Existem dois tipos de quantificadores. Vamos detalhá-los.
+
+
+Quantificador Universal - ∀
+Matematicamente, o quantificador universal é representado pelo símbolo ∀ ("para todo", "para qualquer",
+"qualquer que seja"). Observe como ficam as sentenças abertas que usamos anteriormente transformadas
+em proposições por meio do uso dos quantificadores:
+
+
+o ∀𝒙, 𝑥 + 10 = 50
+  Lemos essa expressão da seguinte forma: "qualquer que seja 𝒙, x mais dez é igual a cinquenta.". De
+  início, já percebemos que é possível atribuir um valor lógico a essa expressão. A igualdade acima não
+  será satisfeita para qualquer valor de 𝑥 e, por esse motivo, é falsa.
+
+o ∀𝒙, 𝑥 ≤ 𝜋
+  Lemos essa expressão como: "qualquer que seja x, x é menor ou igual a pi.". Percebemos que essa
+  afirmação é falsa. Veja que, de fato, com a simples adição do quantificador, conseguimos julgar a
+  afirmação e atribuir-lhe um valor lógico.
+
+
+---
+
+o Todo homem é careca.
+  Substituímos "aquele" na expressão original pelo quantificador universal "todo". Veja que se trata de
+  uma proposição quantificada e que facilmente conseguimos julgá-la como verdadeira ou falsa.
+
+(PREF. SÃO GONÇALO/2022) Considere as 4 proposições abaixo.
+
+p: ∃𝑥, 𝑥 + 1 = 5
+q: ∀𝑥, (𝑥 + 1)² = 𝑥² + 2𝑥 + 1
+r: 𝑥 > 0 ⇔ 5𝑥 > 0
+s: 𝑥² = 4 ⇒ 𝑥 − 2 ∨ 𝑥 = −2
+
+A única proposição que apresenta o símbolo do quantificador universal está indicada na seguinte opção:
+A) p
+B) q
+C) r
+D) s
+
+Comentários:
+Questão bem direta, pessoal! Era visualizar o quantificador e marcar! Observe que a única proposição que
+contém o quantificador universal (destacado em vermelho) é a "q".
+
+
+                                𝑞: ∀𝑥, (𝑥 + 1)² = 𝑥² + 2𝑥 + 1
+Gabarito: LETRA B.
+
+
+Quantificador Existencial - ∃
+O quantificador existencial é representado pelo símbolo ∃ ("existe", "algum", "pelo menos um").
+
+o ∃𝒙 ∶ 𝑥 + 10 = 50
+  Lemos essa expressão como "existe 𝒙 tal que 𝑥 mais dez é igual a cinquenta.". Observe que, de fato,
+  existe 𝑥 tal que a equação é satisfeita (𝑥 = 40). Portanto, ao adicionarmos o quantificador existencial a
+  essa sentença aberta, obtemos uma proposição quantificada de valor lógico verdadeiro.
+
+o ∃𝒙 ∶ 𝑥 ≤ 𝜋
+  Lemos essa expressão como "existe 𝒙 tal que 𝑥 é menor ou igual a pi.". Atente-se que, mais uma vez, é
+  possível atribuir um valor lógico à expressão. De fato, existem números que são menores que pi.
+
+
+---
+
+o Algum homem é careca.
+  Podemos usar também "algum" para denotar o quantificador existencial. E aí? Está começando a
+  perceber como os quantificadores atuam? Vejam que, de fato, eles transformam sentenças abertas em
+  proposições.
+
+(PREF. DE GRAMADO-RS/2019) A alternativa que apresenta uma sentença aberta com o quantificador
+existencial é:
+A) Todos os estabelecimentos comerciais do município de Gramado têm plano de prevenção de incêndio.
+B) O cinema Palácio dos Festivais tem plano de prevenção de incêndio.
+C) Algum dos restaurantes do município de Gramado tem plano de prevenção de incêndio.
+D) Qualquer hotel do município de Gramado tem plano de prevenção de incêndio.
+E) O centro de eventos do município de Gramado tem plano de prevenção de incêndio.
+
+Comentários:
+São quantificadores existenciais: "existe", "pelo menos um", "há", "algum".
+
+A) Todos os estabelecimentos comerciais do município de Gramado têm plano de prevenção de incêndio.
+Alternativa incorreta. "Todos" é um quantificador universal.
+
+B) O cinema Palácio dos Festivais tem plano de prevenção de incêndio.
+Alternativa incorreta. Não apresenta quantificador algum.
+
+C) Algum dos restaurantes do município de Gramado tem plano de prevenção de incêndio.
+Alternativa correta. "Algum" é um quantificador existencial.
+
+D) Qualquer hotel do município de Gramado tem plano de prevenção de incêndio.
+Alternativa incorreta. "Qualquer" é um quantificador universal.
+
+E) O centro de eventos do município de Gramado tem plano de prevenção de incêndio.
+Alternativa incorreta. Não apresenta quantificador algum.
+
+Gabarito: Letra C
+
+Negação de Proposições Quantificadas
+
+Antes de aprendermos a negar proposições quantificadas, devemos conhecer alguns tipos de proposições
+que são fundamentais.
+
+
+---
+
+•   Proposição Universal Afirmativa: É toda proposição iniciada por um quantificador universal e cujo
+    predicado é uma afirmação.
+
+    - Todo marinheiro é pescador.
+    - Toda profissão é digna.
+
+•   Proposição Universal Negativa: É toda proposição iniciada por um quantificador universal e cujo
+    predicado é uma negação. Além desse caso, podemos identificar como proposições universais negativas
+    todas aquelas que utilizam o quantificador "nenhum".
+
+    - Todo brasileiro não é mentiroso.
+    - Nenhuma estudante é preguiçosa.
+
+        Pessoal, sempre que estivermos lidando com expressões do tipo "todo... não..."
+        poderemos trocá-la por "nenhum". Não há mudança de sentido ao reescrever as
+        proposições usando esse tipo de substituição:
+
+        - "Todo brasileiro não é mentiroso." = "Nenhum brasileiro é mentiroso."
+        - "Toda estudante não é preguiçosa." = "Nenhuma estudante é preguiçosa."
+        - "Todo trabalhador não acorda tarde." = "Nenhum trabalhador acorda tarde."
+
+•   Proposição Particular Afirmativa: É toda proposição iniciada por um quantificador existencial e cujo
+    predicado é uma afirmação.
+
+           o Existe um matemático que é engenheiro.
+           o Pelo menos uma empresa é honesta.
+           o Algum advogado é médico.
+
+•   Proposição Particular Negativa: É toda proposição iniciada por um quantificador existencial e cujo
+    predicado é uma negação.
+
+           o Existe um matemático que não é engenheiro.
+           o Algum advogado não é médico.
+           o Pelo menos uma empresa não é honesta.
+
+Pessoal, o primeiro passo para negar esse tipo de proposição é compreender que se temos uma sentença do
+tipo "todo brasileiro gosta de futebol", para negá-la não podemos dizer que "nenhum brasileiro gosta de
+futebol". Esse tipo de erro é bastante comum entre os alunos.
+
+
+---
+
+Para negar o fato de que "todo brasileiro gosta de futebol" devemos falar que "pelo menos um brasileiro
+não gosta de futebol". Afinal, só basta um brasileiro não gostar de futebol para que a sentença "todo
+brasileiro gosta de futebol" não seja verdade. Veja que:
+
+        p: Todo brasileiro gosta de futebol.
+       ¬p: Pelo menos um brasileiro não gosta de futebol.
+
+        r: Qualquer pessoa consegue passar.
+       ¬r: Alguma pessoa não consegue passar.
+
+        s: Todos os empregados foram demitidos.
+       ¬s: Algum empregado não foi demitido.
+
+Então, comece a perceber que para negar uma proposição quantificada, precisamos substituir o seu
+quantificador por outro. Nesse caso, estamos substituindo um quantificador universal por um quantificador
+existencial. Além de realizar essa troca, estamos negando sempre o predicado da oração.
+
+
+     Você lembra o que é predicado? Predicado é tudo na oração que se declara sobre o
+     sujeito, seja afirmando algo sobre ele ou negando. Confira alguns exemplos:
+
+     Todo brasileiro gosta de futebol.
+     [Sujeito = "todo brasileiro"; Predicado = "gosta de futebol"]
+
+     Algum engenheiro não faltou à aula.
+     [Sujeito = "algum engenheiro"; Predicado = "não faltou à aula"]
+
+Então, quando falamos que devemos negar o predicado, queremos transformar o que está sendo afirmado
+em uma negação ou que já está sendo negado em uma afirmação. Por exemplo, ao negar o predicado
+"gosta de futebol" ficamos com "não gosta de futebol", ao negar o predicado "não faltou à aula", ficamos
+com "faltou à aula".
+
+                                                            Predicado
+                                      Tudo na oração que se declara sobre o sujeito
+                                             Todo estudante alcança seus objetivos.
+                                              Qualquer auditor ganha muito bem.
+
+
+---
+
+(IPE SAÚDE/2022) Considerando a proposição “Todo professor de estatística é professor de lógica”, dizer
+que, de acordo com as regras da lógica para a negação de proposições quantificadas, a sua negação, é:
+A) Todo professor de estatística não é professor de lógica.
+B) Nenhum professor de estatística é professor de lógica.
+C) Nenhum professor de lógica é professor de estatística.
+D) Existe professor de estatística que não é professor de lógica.
+E) Existe professor de lógica que não é professor de estatística.
+
+Comentários:
+Galera, aqui temos uma proposição quantificada universal afirmativa. Para negá-la, precisamos substituir o
+quantificador universal por um quantificador existencial. Com essa afirmação, já era possível eliminar as
+alternativa A, B e C, pois todas elas apresentam quantificadores universais. Ademais, além de trocar o
+quantificador, precisamos negar o predicado da oração. Vamos esquematizar essas mudanças.
+
+        p: Todo professor de estatística é professor de lógica.
+       ¬p: Existe professor de estatística que não é professor de lógica.
+
+Gabarito: Letra D.
+
+E se for necessário negar uma proposição universal negativa, como fazemos? Realizamos exatamente a
+mesma coisa! Vamos trocar o tipo de quantificador e negar o predicado da sentença. Acompanhe alguns
+exemplos:
+
+        p: Todo brasileiro não gosta de música clássica.
+       ~p: Existe um brasileiro que gosta de música clássica.
+
+Substituímos "todo" que é um quantificador universal por "existe um" que é um quantificador existencial.
+Além disso, tínhamos o predicado "não gosta de música clássica", ao negá-lo ficamos com "gosta de música
+clássica". Vamos ver mais um exemplo?
+
+        q: Nenhum investidor quer perder dinheiro.
+       ~q: Pelo menos um investidor quer perder dinheiro.
+
+Observe que quando temos o quantificador universal "nenhum", não precisamos negar o predicado. Isso
+acontece pois quando falamos "nenhum", na verdade já temos uma negação subentendida.
+
+
+---
+
+(SEFAZ-ES/2022) A negação de “Nenhuma cobra voa” é
+A) Pelo menos uma cobra voa.
+B) Alguns animais que voam são cobras.
+C) Todas as cobras voam.
+D) Todos os animais que voam são cobras.
+E) Todas as cobras são répteis.
+
+Comentários:
+Pessoal, de um jeito mais técnico, "nenhuma cobra voa" é uma proposição universal negativa. Para negá-
+la, podemos simplesmente substituir o quantificador "nenhum" por "pelo menos uma" ou "alguma".
+Professor, mas não vamos ter que negar o predicado?
+
+Nessa situação, não precisa! Lembre-se que: "nenhuma cobra voa" = "toda cobra não voa".
+
+Ou seja, o quantificador "nenhum" já engloba a ideia de "todo (a) ... não ...". Logo, quando substituímos
+"nenhum" por "pelo menos um", automaticamente já estamos negando o predicado. Tudo bem?!
+
+Sendo assim, o gabarito é a letra A.
+
+De um jeito mais simples, poderíamos também fazer uma análise das alternativas. De imediato, é possível
+eliminar as letras "B", "D" e "E", pois vão além do que a proposição original trouxe, falando de "animais" e
+"répteis". Com isso, ficaríamos na dúvida entre as letras "A" e "C".
+
+É muito comum questões desse tipo, que tentam nos confundir ao afirmar que a negação de "nenhum(a)" é
+"todo(a)" ou vice-versa. Isso não é verdade! Cuidado aqui, moçada!
+
+Se você fala para alguém que nenhuma cobra voa, basta existir pelo menos uma cobra que voe e esse alguém
+já poderá chamá-lo de mentiroso (negar sua afirmativa). (rsrs)
+
+Gabarito: LETRA A.
+
+Para negar as proposições existenciais, devemos fazer a substituição por quantificadores universais. Não
+podemos esquecer de também negar o predicado.
+
+        p: Existem pessoas que não pegaram Covid-19.
+       ¬p: Todas as pessoas pegaram Covid-19.
+
+        r: Pelo menos uma pessoa participou do congresso.
+       ¬r: Nenhuma pessoa participou do congresso.
+
+
+---
+
+(MPE-AL/2018) Considere a afirmação: “Existem insetos que não são pretos”. Se essa afirmação é falsa,
+então é verdade que:
+A) nenhum inseto é preto.
+B) todo inseto é preto.
+C) todos os animais pretos são insetos.
+D) nenhum animal preto é inseto.
+E) nem todos os insetos são pretos.
+
+Comentários:
+Se a afirmação fornecida é falsa, a sua negação será verdadeira. A proposição quantificada do enunciado
+possui um quantificador existencial, sabemos que para negá-la basta substituí-lo por um quantificador
+universal e negar seu predicado. Lembre-se:
+
+Quantificadores existenciais: "existe", "pelo menos um", "algum";
+Quantificadores universais: "todo(s)", "toda(s)", "qualquer", "nenhum".
+
+ 𝑝: Existem insetos que não são pretos.     (F)
+~𝑝: Todo inseto é preto.                    (V)
+
+Gabarito: Letra B.
+
+Pessoal, para confundir o candidato, as bancas gostam de colocar termos "adicionais" na proposição.
+Observe uma questão bem recente:
+
+(CM TAUBATÉ/2022) O avô de Luciano disse: “Com óculos, todas as fotos são nítidas.”
+Se essa frase é FALSA é correto concluir que
+a) sem óculos todas as fotos são nítidas.
+b) com óculos todas as fotos não são nítidas.
+c) sem óculos há fotos que não são nítidas.
+d) com óculos há, pelo menos, uma foto que não é nítida.
+e) com óculos nenhuma foto é nítida.
+
+
+---
+
+Esse "com óculos" aparece cirurgicamente para confundir o candidato e deixa uma pulga atrás da orelha na
+hora de marcar a correta. O que fazer nessas situações?
+
+Galera, se você identificou que está diante de um problema de negação de proposição quantificada, você
+deve focar no que vimos aqui: substituir o quantificador e negar o predicado. O resto não muda!!!
+
+                                         "Com" não vira "sem"!
+
+                                        "Quente" não vira "frio"!
+
+                                         "Bom" não vira "ruim"!
+
+                                         "Noite" não vira "dia"!
+
+                                     "Esquerda" não vira "direita"!
+
+O examinador vai tentar te pegar jogando termos assim na proposição. Vamos ver alguns exemplos.
+
+ p: À noite, todas as estrelas aparecem no céu.
+¬p: À noite, alguma estrela não aparece no céu.
+
+ q: Todo dia quente agrada aos turistas.
+¬q: Algum dia quente não agrada aos turistas.
+
+ r: Quando virou à esquerda, todos os semáforos estavam verdes.
+¬r: Quando virou à esquerda, algum semáforo não estava verde.
+
+Observe que em nenhuma negação nós substituímos "noite" por "dia", "quente" por "frio"... O foco é a
+substituição do quantificador e a negação do predicado. Não caiam nessas pegadinhas!
+
+Proposições Categóricas
+
+Proposição categórica é um tipo especial de proposição quantificada. Essas proposições vão estabelecer
+uma relação entre termos de categorias distintas. Quando dizemos, por exemplo, que todo cachorro é
+obediente, estou estabelecendo uma relação de inclusão entre a categoria dos cachorros e a categoria dos
+obedientes. Trata-se, portanto, de uma proposição categórica.
+
+Por serem proposições quantificadas, elas podem ser classificadas nos tipos vistos nessa aula: "proposição
+universal afirmativa", "proposição universal negativa", "proposição particular positiva" e "proposição
+
+
+---
+
+particular negativa". No entanto, essa mesma classificação ganha uma nomenclatura nova no contexto das
+proposições categóricas. Acompanhe:
+
+    • Proposição Universal Afirmativa - Forma A
+    Todo engenheiro é responsável.
+
+    • Proposição Universal Negativa - Forma E
+    Nenhum engenheiro é responsável.
+
+    • Proposição Particular Afirmativa - Forma I
+    Algum engenheiro é responsável.
+
+    • Proposição Particular Negativa - Forma O
+    Algum engenheiro não é responsável.
+
+As letras que utilizamos para nomear os tipos de proposições categóricas vêm das duas primeiras vogais das
+palavras, em latim, affirmo e nego. Portanto, A e I se referem às proposições afirmativas enquanto E e O às
+proposições negativas.
+
+Um ponto muito importante que devemos entender é a diferença de duas propriedades das proposições
+categóricas, a qualidade e a quantidade. Quando falamos que uma proposição é universal ou particular,
+estamos no referindo a propriedade "quantidade". Por outro lado, quando falando que uma proposição é
+afirmativa ou negativa, estamos no referindo a "qualidade" da proposição.
+
+Sintetizando, em relação à quantidade, uma proposição pode ser universal ou particular e em relação à
+qualidade, pode ser afirmativa ou negativa. Por que saber dessas coisas é importante? Para conseguir
+entender melhor como classificamos as proposições categóricas em mais quatro tipos:
+
+•   Proposições contrárias: São proposições universais que possuem qualidades distintas, isto é, todo par
+    afirmativo-negativo de proposições universais.
+
+       Todo marinheiro é pescador.                 [Forma A]
+       Todo marinheiro não é pescador.             [Forma E]
+
+    Perceba que sempre as proposições categóricas de forma A e E serão contrárias.
+
+
+---
+
+•   Proposições subcontrárias: São proposições particulares que possuem qualidades distintas, isto é, todo
+    par afirmativo-negativo de proposições particulares.
+
+       Algum empresário é rico.                   [Forma I]
+       Algum empresário não é rico.               [Forma O]
+
+    Note, dessa vez, que as proposições categóricas de forma I e O serão sempre subcontrárias.
+
+•   Proposições subalternas: São proposições que, apesar de possuírem a mesma qualidade, diferem pela
+    quantidade.
+
+       A: Todo estudante é preparado.                            E: Nenhum cachorro é feio
+       I: Algum estudante é preparado.                           O: Algum cachorro não é feio.
+
+    Todas as proposições categóricas de forma A e I são subalternas entre si, bem como as proposições de
+    forma E e O.
+
+•   Proposições contraditórias: São proposições que diferem, simultaneamente, em qualidade e
+    quantidade.
+
+       A: Todo animal é dócil.                                E: Nenhum jogador é amigável.
+       O: Algum animal não é dócil.                           I: Algum jogador é amigável.
+
+Todas essas informações são resumidas em uma estrutura muito conhecida no mundo da Lógica, essa
+estrutura é denominada de quadrado das oposições ou simplesmente quadrado lógico. É exatamente a
+imagem representada na figura acima.
+
+Calma aí, professor! Pessoal, eu sei que essas classificações podem ser um pouco chatas! Para melhorar um
+pouco sua vida, te aviso que esse não é o tema mais cobrado dentro do tópico que estamos estudando.
+Pelo contrário, essas classificações costumam cair bem pouco. No entanto, como queremos gabaritar a
+prova, vale a pena dedicar um pouco de tempo para entendê-las.
+
+
+---
+
+Galera, um último ponto que eu gostaria de tocar antes de finalizarmos esse tópico, é uma equivalência
+bastante comum em prova. Considere a seguinte proposição: "Todo engenheiro é responsável." Vocês
+concordam comigo que a afirmativa acima equivale a dizer: "Se uma pessoa é engenheiro, então ela é
+responsável."? Note que, como todos os engenheiros são pessoas responsáveis, então, é correto concluir
+a condicional acima. Além disso, sabemos que existem mais relações de equivalência que envolvem
+condicionais, lembre-se das aulas anteriores o seguinte:
+
+                                          𝑝 ⇒ 𝑞 ⇔ ~𝑞 ⇒ ~𝑝
+
+
+Usando essa equivalência para reescrever a condicional citada anteriormente, ficamos com: "Se uma pessoa
+não é responsável, então não é engenheiro." Portanto, partindo de uma única proposição categórica
+conseguimos reescrevê-la sob duas formas igualmente válidas. Em algumas questões, teremos que realizar
+esse tipo de equivalência para podermos marcar a alternativa correta. Vamos ver na prática?
+
+(MPE-BA/2017) Considere a afirmação: “Todo baiano é um homem feliz”. Uma afirmação logicamente
+equivalente é:
+A) Todo homem feliz é baiano;
+B) Um homem que não é feliz não é baiano;
+C) Quem não é baiano não é feliz;
+D) Um homem é baiano ou é feliz;
+
+Comentários:
+O examinador está buscando uma afirmação logicamente equivalente. Se "Todo baiano é feliz", sabemos
+imediatamente que é equivalente dizer: "se é baiano então é feliz". Normalmente, essa equivalência
+imediata não é o suficiente para marcamos a alternativa correta e devemos ir mais fundo, revisitando a aula
+de Equivalências Lógicas para lembrar que: 𝑝 ⟹ 𝑞 ⇔ ~𝑞 ⟹ ~𝑝
+
+Logo, a condicional "se é baiano então é feliz" é equivalente a: "se não é feliz, então não é baiano". Essa
+conclusão está disfarçada na alternativa B: "um homem que não é feliz, não é baiano.'
+
+Gabarito: Letra B.
+
+
+---
+
+Diagramas Lógicos
+
+Com essa bagagem formada sobre proposições categóricas, agora vamos entrar finalmente no estudo dos
+diagramas lógicos. Usamos esse tipo de diagrama para representar visualmente as proposições
+categóricas. Quando fazemos isso, muitas vezes conseguimos resolver mais facilmente determinado
+exercício, pois possibilita enxergarmos situações que de outra forma não enxergaríamos. Confira alguns
+exemplos e como representá-los.
+
+•   Todo engenheiro é responsável.
+    Veja que podemos representar os engenheiros como um círculo menor,
+                                                                                    Responsáveis
+    que está dentro de outro círculo maior, o círculo dos responsáveis.
+    Formalmente, dizemos que os engenheiros são um subconjunto dos
+    responsáveis. O que eu gostaria que você prestasse atenção, é que quando
+                                                                                    Engenheiros
+    falamos que "todo engenheiro é responsável", NÃO é o mesmo que dizer
+    que "todo responsável é engenheiro".
+
+    Por isso, no diagrama ao lado, o conjunto dos engenheiros não cobre
+    totalmente o conjunto dos responsáveis, de modo que os responsáveis
+    que não são engenheiros são representados pela parte fora do conjunto
+    dos engenheiros mas ainda dentro do conjunto dos responsáveis.
+
+•   Nenhum engenheiro é responsável.                              Responsáveis
+    Nesse caso, representamos os dois conjuntos totalmente                              Engenheiros
+    separados entre si. Dessa forma, estamos mostrando
+    que não há intersecção entre eles e que, portanto, não
+    existe nenhum elemento de um que seja também
+    elemento do outro. Quando existe um grupo de
+    conjuntos que não possuem intersecção entre si,
+    dizemos que esses conjuntos são disjuntos.
+
+•   Algum engenheiro é responsável                                   Responsáveis
+                                                                                        Engenheiros
+    Quando temos uma proposição categórica de forma I,
+    devemos representar esse tipo de proposição com um
+    diagrama que mostre a intersecção entre os dois conjuntos.
+    É exatamente essa intersecção que indicará que existe algum
+    engenheiro que também é responsável, sendo ele, então, um
+    elemento comum aos dois conjuntos.
+
+
+---
+
+                                                                      Responsáveis       Engenheiros
+•   Algum engenheiro não é responsável
+    É uma situação praticamente análoga a anterior. No entanto, a
+    parte do diagrama que estaremos interessados será o
+    conjunto dos engenheiros que não é responsável, ou seja, a
+    parte do conjunto que está fora da intersecção. Veja como fica:
+
+(PREF. F. VASCONCELOS/2020) Em determinado município, alguns médicos são professores e todo professor
+é funcionário público. Sendo assim, é correto afirmar que
+(A) todo funcionário público é médico.
+(B) todo médico é funcionário público.
+(C) não existe funcionário público que é médico.
+(D) não existe médico que é funcionário público.
+(E) existe funcionário público que não é médico
+
+Comentários:
+Você deve ter começado a perceber que a Vunesp gosta muito dessas questões. Para resolvê-la, vamos
+desenhar diagramas. Se alguns médicos (M) são professores (P),
+
+Ademais, como todo professor (P) é funcionário público (FP), temos a seguinte possibilidade de diagrama:
+
+Agora, devemos analisar as alternativas.
+(A) todo funcionário público é médico.
+
+
+---
+
+Alternativa incorreta. Essa afirmativa não é necessariamente verdade. A região azul no diagrama abaixo
+representa os funcionários públicos que não são médicos. Isso contraria o que está na afirmativa.
+
+(B) todo médico é funcionário público.
+Alternativa incorreta. A região azul no diagrama abaixo representa médicos que não são funcionários
+públicos. Sendo essa uma possibilidade, a alternativa erra ao generalizar e afirmar que todo médico é
+funcionário público.
+
+(C) não existe funcionário público que é médico.
+(D) não existe médico que é funcionário público.
+Alternativas incorretas. Se alguns médicos são professores e todos os professores são funcionários públicos,
+então os médicos que são professores também são funcionários públicos. Logo, existe sim funcionário
+público que é médico.
+
+(E) existe funcionário público que não é médico
+Alternativa correta. Há professores que são funcionários públicos e não são médicos e até funcionários
+públicos que não são professores. Observe a região azul do diagrama:
+
+Gabarito: LETRA E.
+
+
+---
+
+Validade de Argumentos
+
+Pessoal, é possível também utilizar diagramas lógicos para demonstrar a validade ou não de determinados
+argumentos. Muitas vezes, os argumentos trazem uma conclusão que não é necessariamente verdadeira.
+
+Esse tipo de situação pode ser identificado de imediato com o uso de diagramas. Vamos ver um exemplo
+para entender melhor como essa ferramenta pode nos auxiliar na prática.
+
+(PC-ES/2019) Assinale a alternativa que apresenta um argumento lógico válido.
+a) Todos os mamutes estão extintos e não há elefantes extintos, logo nenhum elefante é um mamute.
+b) Todas as meninas jogam vôlei e Jonas não é uma menina, então Jonas não joga vôlei.
+c) Em São Paulo, moram muitos retirantes e João é um retirante, logo João mora em São Paulo.
+d) Não existem policiais corruptos e Paulo não é corrupto, então Paulo é policial.
+e) Todo bolo é de chocolate e Maria fez um bolo, logo Maria não fez um bolo de chocolate.
+
+Comentários:
+a) Alternativa correta. Se todos os mamutes estão extintos, então podemos desenhar o seguinte diagrama:
+
+
+                                               Animais Extintos
+
+                                                 Mamutes
+
+Se não há elefantes extintos, então:
+
+
+                                       Animais Extintos
+                                                             Elefantes
+                                        Mamutes
+
+Observe que, de fato, nenhum elefante é mamute, pois, não há intersecção entre os diagramas. Logo, a
+conclusão do argumento é verdadeira, permitindo concluir que se trata de um argumento válido.
+
+
+---
+
+b) Alternativa incorreta. Se todas as meninas jogam vôlei, então podemos desenhar o seguinte:
+
+
+                                         Jogadores(as) de Vôlei
+
+                                               Meninas
+
+Observe que existe uma região do diagrama que não é preenchido pelo conjunto das meninas. Isso significa
+que pode haver jogadores de vôlei que não são meninas. Logo, mesmo que Jonas não seja uma menina, ele
+pode ser sim um jogador de vôlei. Trata-se de um argumento inválido.
+
+c) Alternativa incorreta. Quando dizemos que "muitos retirantes vivem em São Paulo", fica implícita a ideia
+de que são alguns (apesar de muitos) e não a totalidade dos retirantes que vivem lá. Dessa forma, podemos
+usar o seguinte diagrama.
+
+
+                                  Moradores de São Paulo
+                                                              Retirantes
+
+Com isso, não podemos concluir que João, apesar de ser retirante, mora em São Paulo. Note que há uma
+pequena região no diagrama dos retirantes, que não está incluída no de pessoas que moram em São Paulo.
+
+d) Alternativa incorreta. Não existem policiais corruptos. Isso pode ser representado por meio de dois
+conjuntos disjuntos.
+                                       Policiais
+                                                              Corruptos
+
+Se Paulo não é corrupto, isso não o torna automaticamente policial. Isso simplesmente indica que ele não
+está dentro do nosso conjunto laranja. Logo, a conclusão do argumento não é verdadeira.
+
+e) Alternativa incorreta. Se todo bolo é de chocolate e Maria fez um bolo, então, necessariamente, o bolo
+de maria é de chocolate. Por esse motivo, a alternativa encontra-se errada.
+Gabarito: LETRA A.
+
+
+---
+
+                        QUESTÕES COMENTADAS - FGV
+
+Proposição Quantificada e Categórica
+
+1. (FGV/SEFAZ-ES/2022) A negação de “Nenhuma cobra voa” é
+A) Pelo menos uma cobra voa.
+B) Alguns animais que voam são cobras.
+C) Todas as cobras voam.
+D) Todos os animais que voam são cobras.
+E) Todas as cobras são répteis.
+
+Comentários:
+Pessoal, de um jeito mais técnico, "nenhuma cobra voa" é uma proposição universal negativa. Para negá-
+la, podemos simplesmente substituir o quantificador "nenhum" por "pelo menos uma" ou "alguma".
+
+Professor, mas não vamos ter que negar o predicado?
+
+Nessa situação, não precisa! Lembre-se que: "nenhuma cobra voa" = "toda cobra não voa".
+
+Ou seja, o quantificador "nenhum" já engloba a ideia de "todo (a) ... não ...". Logo, quando substituímos
+"nenhum" por "pelo menos um", automaticamente já estamos negando o predicado. Tudo bem?!
+
+Sendo assim, o gabarito é a letra A.
+
+De um jeito mais simples, poderíamos também fazer uma análise das alternativas. De imediato, é possível
+eliminar as letras "B", "D" e "E", pois vão além do que a proposição original trouxe, falando de "animais" e
+"répteis". Com isso, ficaríamos na dúvida entre as letras "A" e "C".
+
+É muito comum questões desse tipo, que tentam nos confundir ao afirmar que a negação de "nenhum(a)" é
+"todo(a)" ou vice-versa. Isso não é verdade! Cuidado aqui, moçada!
+
+Se você fala para alguém que nenhuma cobra voa, basta existir pelo menos uma cobra que voe e esse alguém
+já poderá chamá-lo de mentiroso (negar sua afirmativa). (rsrs)
+
+Gabarito: LETRA A.
+
+2. (FGV/PM-AM/2022) Considere a afirmação: “Nenhum soldado escuta mal”. A sua negação é:
+A) Há pelo menos um soldado que escuta mal.
+B) Vários soldados escutam mal.
+C) Todos os soldados escutam mal.
+D) Todos os soldados escutam bem.
+E) Todas as pessoas que escutam bem são soldados.
+
+Comentários:
+
+
+---
+
+A FGV está trazendo bastante questões com o quantificador "nenhum".
+
+Pessoal, lembre-se sempre que para negar uma proposição que traga o quantificador "nenhum", basta
+substituí-lo por "pelo menos um" ou "algum". Sendo assim,
+
+A negação de "nenhum soldado escuta mal" é "pelo menos um soldado escuta mal". Não precisamos alterar
+o predicado nessa situação.
+
+Quando olhamos para as alternativas, vemos que a letra A é a correta.
+
+Obs.: Não há problema algum em acrescentar o "há" ou o "existe", pois o sentido continua o mesmo.
+
+Gabarito: LETRA A.
+
+3. (FGV/SEFAZ-AM/2022) O diretor de uma empresa fez ao funcionário Miguel, do departamento
+financeiro, uma pergunta que foi prontamente respondida:
+
+Diretor: — João disse que todos os funcionários receberam gratificação.
+Miguel: — Não é verdade o que João disse.
+
+Se o diretor considerou que Miguel falou a verdade, é correto concluir que
+A) pelo menos um funcionário não recebeu gratificação.
+B) nenhum funcionário recebeu gratificação.
+C) um único funcionário não recebeu gratificação.
+D) mais da metade dos funcionários não receberam gratificação.
+E) somente um funcionário recebeu gratificação.
+
+Comentários:
+Vamos lá, moçada! João disse o seguinte:
+
+                             "Todos os funcionários receberam gratificação."
+
+Trata-se de uma proposição quantificada universal afirmativa. De acordo com o enunciado, João não disse
+a verdade. Logo, a proposição é falsa. Para obtermos uma conclusão correta a partir dela, devemos negá-la.
+Nesse intuito, vamos substituir o quantificador universal "todo" por um quantificador existencial como "pelo
+menos um". Além disso, devemos negar o predicado. Observe como fica a proposição!
+
+ p: "Todos os funcionários receberam gratificação."               (F)
+¬p: "Pelo menos um funcionário não recebeu gratificação."         (V)
+
+Lembre-se que temos que fazer os ajustes no português, para adequação dos plurais, principalmente.
+
+Gabarito: LETRA A.
+
+4. (FGV/SEFAZ-AM/2022) Considere as afirmativas:
+
+
+---
+
+- Alguns homens gostam de ler.
+- Quem gosta de ler vai à livraria.
+
+A partir dessas afirmativas é correto concluir que:
+A) Todos os homens vão à livraria.
+B) Mulheres não gostam de ler.
+C) Quem vai à livraria gosta de ler.
+D) Se um homem não vai à livraria então não gosta de ler.
+E) Quem não gosta de ler não vai à livraria.
+
+Comentários:
+Nessa questão, vamos comentar alternativa por alternativa!
+
+A) Todos os homens vão à livraria.
+Errado. O enunciado disse que apenas alguns homens gostam de ler. Esses homens que gostam de ler, com
+certeza vão a livraria (pois quem gosta de ler vai à livraria). No entanto, não podemos afirmar nada sobre
+aqueles que não gostam de ler.
+
+B) Mulheres não gostam de ler.
+Errado. Em nenhum momento a questão falou sobre as mulheres.
+
+C) Quem vai à livraria gosta de ler.
+Errado. Isso não é necessariamente verdade. O enunciado apenas informou que quem gosta de ler vai a
+livraria. No entanto, isso não é suficiente para concluirmos o inverso.
+
+D) Se um homem não vai à livraria então não gosta de ler.
+Correto. É o nosso gabarito. A proposição "Quem gosta de ler vai à livraria" pode ser vista como uma
+condicional "implícita": "Se gosta de ler, então vai à livraria". Com isso em mente, lembre-se do que foi visto
+na aula de Equivalências Lógicas:
+
+                                                𝑝 ⇒ 𝑞 ≡ ~𝑞 ⇒ ~𝑝
+
+Dessa forma, uma proposição equivalente à condicional acima seria "Se não vai a livraria, então não gosta
+de ler", conforma aponta a alternativa.
+
+E) Quem não gosta de ler não vai à livraria.
+Errado. Observe que o examinador reescreveu a alternativa C, mas usando a equivalência da condicional
+vista acima. Sendo assim, a alternativa continua errada.
+
+Gabarito: LETRA D.
+
+5. (FGV/SEFAZ-BA/2022) Considere a afirmação:
+
+“À noite, todos os gatos são pretos.”
+
+Se essa frase é falsa, é correto concluir que
+
+
+---
+
+A) De dia, todos os gatos são pretos.
+B) À noite, todos os gatos são brancos.
+C) De dia há gatos que não são pretos.
+D) À noite há, pelo menos, um gato que não é preto.
+E) À noite nenhum gato é preto.
+
+Comentários:
+Questão bem legal! Trata-se de uma proposição categórica. Para negá-la, devemos substituir o quantificador
+e negar o predicado. Sendo assim, não vamos nem olhar para o que não for quantificador ou predicado.
+
+ p: "À noite, todos os gatos são pretos."
+¬p: "À noite, há, pelo menos, um gato que não é preto."
+
+Perceba, pessoal, que para negar a proposição, não precisamos transformar "à noite" em "de dia".
+
+Quando você visualizar esse tipo de proposição em sua prova, foque em substituir o quantificador e negar
+o predicado. Na nossa questão, temos um quantificador universal: "todos". Devemos substituí-lo por um
+quantificador existencial: "algum", "pelo menos um", "existe".
+
+Professor, como saber qual quantificador usar? Olhe para as alternativas!!! Dê uma olhada qual quantificador
+o examinador usará. Assim, é só substituir por ele.
+
+Ademais, o predicado da proposição dada é: "são pretos". Sua negação é: "não são pretos".
+
+Como devemos ajustar a concordância também, ficamos com: "não é preto."
+
+Gabarito: LETRA D.
+
+6. (FGV/IBGE/2022) No censo de 2010 Laura foi entrevistada pelo recenseador Mário.
+
+Início da entrevista:
+Mário – Quantas pessoas moram nesta casa?
+Laura – Quatro: eu, que me chamo Laura, meu marido João e meus dois filhos Alberto e Roberto
+Mário – Todos trabalham?
+Laura – Não.
+
+É correto concluir que:
+A) nenhuma das quatro pessoas trabalha.
+B) apenas uma das quatro pessoas não trabalha.
+C) apenas uma das quatro pessoas trabalha.
+D) pelo menos uma das quatro pessoas não trabalha.
+E) nenhuma das quatro pessoas possui emprego formal, com carteira assinada.
+
+Comentários:
+"Todos trabalham" é uma proposição quantificada e sabemos que ela é falsa.
+
+
+---
+
+Para obtermos uma proposição verdadeira, devemos negá-la.
+
+Nesse intuito, é preciso trocar o quantificador e negar o predicado.
+
+ p: "Todos trabalham"                               (F)
+¬p: "Pelo menos um não trabalha."                   (V)
+
+Note que a alternativa que trouxe essa ideia foi a D.
+
+Gabarito: LETRA D.
+
+7. (FGV/IBGE/2022) A negação lógica da sentença “Toda cobra é verde ou venenosa” é:
+A) Nenhuma cobra é verde ou venenosa.
+B) Toda cobra não é verde ou não é venenosa.
+C) Existe cobra que não é verde nem é venenosa.
+D) Toda cobra verde não é venenosa.
+E) Nenhuma cobra venenosa é verde.
+
+Comentários:
+Para resolver esse exercícios, precisaríamos lembrar das Leis de De Morgan. Observe a presença do
+conectivo "ou". Na grande maioria dos casos e no contexto das proposições lógicas, sempre que precisamos
+negar uma proposição com "ou", deveremos substituir esse conectivo pelo "e". Com isso, já eliminamos as
+alternativas A e B.
+
+Além disso, a presença do "toda" nos remete a negação das proposições quantificadas. Nessa situação, é
+preciso substituir o quantificador universal por um existencial, além de negar o predicado. Com essa
+informação, também poderíamos eliminar as alternativas D e E, pois as duas apresentam quantificadores
+universais. Dito tudo isso, vamos negar a sentença!
+
+ p: Toda cobra é verde ou venenosa.
+¬p: Existe cobra que não é verde e não é venenosa.
+
+Observe que na alternativa C, o examinador preferiu usar o "nem" no lugar do "e não". Não há problema
+nisso, pois são expressões equivalentes. Tudo bem?
+
+Gabarito: LETRA C.
+
+8. (FGV/IMBEL/2021) Considere verdadeira a afirmação:
+
+“Todo vegetal verde é saudável.”
+
+É correto concluir que:
+A) Todo vegetal saudável é verde.
+B) Todo vegetal que não é saudável não é verde.
+C) Todo vegetal que não é verde não é saudável.
+D) Alguns vegetais verdes não são saudáveis.
+
+
+---
+
+E) Alguns vegetais que não são saudáveis são verdes.
+
+Comentários:
+Essa aula envolve bastante as equivalências lógicas. Por isso, é preciso que você esteja afiado nelas!
+
+Nessa questão, observe que podemos escrever a afirmação na forma da seguinte condicional:
+
+"Se o vegetal é verde, então é saudável."
+
+Ao escrever dessa forma, podemos usar uma das equivalências para a condicional:
+
+                                            𝑝 ⇒ 𝑞 ≡ ~𝑞 ⇒ ~𝑝
+
+Revisado esse ponto, podemos escrever:
+
+"Se o vegetal não é saudável, então não é verde."
+
+ou, de uma forma diferente:
+
+"Todo vegetal que não é saudável não é verde."
+
+Guardem isso: é possível transformar expressões do tipo "Todo A é B" na condicional "Se é A, então é B".
+Algumas bancas gostam de explorar isso! Fiquem atentos!
+
+Gabarito: LETRA B.
+
+9. (FGV/FUNSAÚDE-CE/2021) Considere a sentença:
+
+“Todo urso branco é amigo da onça.”
+
+A negação lógica dessa sentença é:
+A) Nenhum urso branco é amigo da onça.
+B) Algum urso branco não é amigo da onça.
+C) Todo urso marrom é amigo da onça.
+D) Nenhuma onça é amiga de urso branco.
+E) Algum urso não é branco e é amigo da onça.
+
+Comentários:
+Opa! Mais uma questão em que devemos negar uma proposição categórica!
+
+Lembre-se dos passos: substituímos o quantificador e negamos o predicado.
+
+Temos uma proposição universal afirmativa. Logo, sua negação será uma proposição particular negativa.
+
+As únicas alternativas que contêm proposições particulares são as alternativas 𝐵 e 𝐸 (observe o quantifica-
+dor existencial "algum" que caracteriza esse tipo de proposição).
+
+
+---
+
+O predicado da sentença é: "é amigo da onça". A negação desse predicado fica: "não é amigo da onça".
+
+Com isso, conseguimos marcar a alternativa B.
+
+Gabarito: LETRA B.
+
+10. (FGV/FUNSAÚDE-CE/2021) O advogado de uma empresa afirmou ao diretor que:
+
+“Todos os processos relativos à empresa X foram finalizados”
+
+Dias depois, o diretor foi informado que essa afirmação não era verdadeira. O diretor concluiu logicamente
+que
+A) nenhum processo da empresa X foi finalizado.
+B) somente um processo da empresa X não foi finalizado.
+C) pelo menos um processo da empresa X não foi finalizado.
+D) foi finalizado pelo menos um processo que não se refere à empresa X.
+E) todos os processos finalizados não se referiam à empresa X.
+
+Comentários:
+Para obter uma conclusão logicamente verdadeira, devemos negar a afirmação do advogado. Como estamos
+lidando com uma proposição universal afirmativa, sua negação será uma proposição particular negativa. Na
+prática, substituímos o quantificador existencial "todos" por um quantificador existencial tal como "existe",
+"pelo menos um", "algum". Além disso, negamos o predicado. Vejamos como vai ficar!
+
+ p: Todos os processos relativos à empresa X foram finalizados.
+¬p: Pelo menos um processo da empresa X não foi finalizado.
+
+Gabarito: LETRA C.
+
+11. (FGV/FUNSAÚDE-CE/2021) Um dos diretores de certo hospital, falando sobre as enfermeiras que lá
+trabalham disse:
+
+“Todas as enfermeiras são formadas pela UFC.”
+
+Sabendo que essa afirmação não é verdadeira, é correto concluir que
+A) nenhuma enfermeira é formada pela UFC.
+B) nenhuma enfermeira é formada.
+C) alguma enfermeira é formada na Unifor.
+D) há, pelo menos, uma enfermeira que não é formada na UFC.
+E) há, pelo menos, uma enfermeira que não é formada.
+
+Comentários:
+Para concluir corretamente sobre uma afirmação que não é verdadeira, devemos negá-la.
+
+A questão trouxe uma proposição quantificada universal positiva.
+
+
+---
+
+Sendo assim, sabemos que a sua negação será uma proposição quantificada particular negativa.
+
+É válido observar que as alternativas A e B são proposições quantificadas universais negativas.
+
+Por sua vez, a alternativa C é uma particular positiva.
+
+Apenas as alternativas D e E apresentam proposições particulares negativas.
+
+Sabemos que para negar uma proposição quantificada, substituímos o quantificador e negamos o predicado.
+
+ p: Todas as enfermeiras são formadas pela UFC.
+¬p: Pelo menos uma enfermeira não é formada na UFC.
+
+Gabarito: LETRA D.
+
+12. (FGV/PREF. PAULÍNIA/2021) Considere a sentença:
+
+“Todo advogado é bom orador.”
+
+A negação lógica dessa sentença é:
+A) Nenhum advogado é bom orador.
+B) Todo bom orador é advogado.
+C) Nenhum bom orador é advogado.
+D) Algum advogado não é bom orador.
+E) Algum bom orador não é advogado.
+
+Comentários:
+Mais uma vez, observe que temos uma proposição universal afirmativa. A FGV parece gostar bastante dela!
+Lembre-se que a negação desse tipo de proposição será uma particular negativa.
+
+Dentre as alternativas apresentadas, apenas as alternativas D e E são particulares negativas.
+
+Para negar a proposição da questão, substituímos o quantificador universal por um existencial.
+
+Ademais, não esqueça de negar o predicado.
+
+ p: Todo advogado é bom orador.
+¬p: Algum advogado não é bom orador.
+
+Gabarito: LETRA D.
+
+13. (FGV/PREF. SALVADOR/2019) Se não é verdade que “Todo soteronito é soteronoso”, então é correto
+afirmar que
+a) “Nenhum soteronito é soteronoso”.
+
+
+---
+
+b) “Todo soteronoso é soteronito”.
+c) “Algum soteronito não é soteronoso”.
+d) “Algum soteronoso não é soteronito”.
+e) “Algum soteronito é soteronoso”.
+
+Comentários:
+Temos uma proposição categórica universal afirmativa. Devemos lembrar que sua negação deve ser uma
+particular negativa. Para transformá-la, precisamos substituir o quantificador universal ("todo"), por um
+quantificador existencial ("algum", "pelo menos um", "existe"). Além disso, é preciso negar o predicado. Para
+a questão em tela, o predicado é "é soteronoso". Logo, sua negação fica "não é soteronoso". Organizando
+essas informações, ficamos com:
+
+ p: "Todo soteronito é soteronoso."
+¬p: "Algum soteronito não é soteronoso."
+
+Gabarito: LETRA C.
+
+14. (FGV/IBGE/2019) João, o dono da casa, atende Célio, o recenseador. Início da entrevista:
+
+Célio – Quantas pessoas moram nesta casa?
+João – Três: eu, que me chamo João, minha esposa Maria e meu primo Pedro.
+Célio – Todos trabalham?
+João – Não.
+
+É correto concluir que:
+a) nenhuma das três pessoas trabalha;
+b) apenas uma das três pessoas não trabalha;
+c) apenas uma das três pessoas trabalha;
+d) pelo menos uma das três pessoas não trabalha;
+e) nenhuma das três pessoas possui emprego formal, com carteira assinada.
+
+Comentários:
+Galera, essa é uma questão que envolve o que vimos na aula de uma forma mais contextualizada. Quando
+João afirma que não são todos que trabalham, então basta uma única pessoa não trabalhar para que isso
+seja verdade. Logo, a alternativa correta é aquela que diz que pelo menos uma das três pessoas não trabalha.
+Pode ser uma, pode ser duas, pode ser até que as três pessoas estejam desempregadas.
+
+Gabarito: LETRA D.
+
+15. (FGV/PREF. DE SALVADOR-BA/2019) Considere a afirmação:
+
+
+---
+
+"Todo estudante que gosta de Matemática também gosta de Ciências Biológicas."
+
+Considerando que essa sentença é falsa, é correto concluir que:
+A) "Todo estudante que não gosta de Matemática gosta de Ciências Biológicas."
+B) "Nenhum estudante que gosta de Matemática também gosta de Ciências Biológicas."
+C) "Todo estudante que gosta de Matemática não gosta de Ciências Biológicas."
+D) “Algum estudante que gosta de Matemática não gosta de Ciências Biológicas."
+E) “Algum estudante que não gosta de Matemática gosta de Ciências Biológicas.”
+
+Comentários:
+Sabemos que a afirmação dada é falsa, a sua negação, portanto, será uma sentença verdadeira. Lembre-se
+que para negar uma sentença com o quantificador universal "todo", devemos substituí-lo por uma com o
+quantificador existencial "pelo menos um", "existe", "algum". Além disso, nega-se o predicado. Das
+alternativas, percebemos que o quantificador existencial escolhido foi "algum". Ficamos então com:
+
+        p:    Todo estudante que gosta de Matemática também gosta de Ciências Biológicas.             (F)
+       ~p:    Algum estudante que gosta de Matemática não gosta de Ciências Biológicas.               (V)
+
+Gabarito: LETRA D.
+
+16. (FGV/MPE-AL/2018) Considere a afirmação: “Existem insetos que não são pretos”. Se essa afirmação
+é falsa, então é verdade que:
+A) nenhum inseto é preto.
+B) todo inseto é preto.
+C) todos os animais pretos são insetos.
+D) nenhum animal preto é inseto.
+E) nem todos os insetos são pretos.
+
+Comentários:
+Se a afirmação fornecida é falsa, a sua negação será uma sentença verdadeira. Para negar a expressão,
+devemos substituir o quantificador existencial por um quantificador universal. Além disso, devemos negar o
+predicado. Lembre-se:
+
+Quantificadores existenciais: "existe", "pelo menos um", "algum";
+Quantificadores universais: "todo(s)", "toda(s)", "qualquer".
+
+        p: Existem insetos que não são pretos.           (F)
+       ~p: Todo inseto é preto.                          (V)
+
+
+---
+
+Gabarito: LETRA B.
+
+17. (FGV/CGM Niterói/2018) A negação de “Nenhum analista é magro” é
+a) “Há pelo menos um analista magro”.
+b) “Alguns magros são analistas”.
+c) “Todos os analistas são magros”.
+d) “Todos os magros são analistas”.
+e) “Todos os analistas não são magros”.
+
+Comentários:
+Temos uma proposição categórica universal negativa. Para negá-la, devemos transformá-la em uma
+particular afirmativa. Nesse intuito, devemos substituir o quantificador universal ("nenhum") por um
+quantificador existencial ("algum", "há pelo menos um", "existe").
+
+Pessoal, nessas situações não precisamos negar o predicado, pois quando substituímos "nenhum" por
+"algum/existe/há pelo menos um", implicitamente também estamos transformando o predicado, pois,
+lembre-se que "nenhum" = "todo ... não ...". Sendo assim, quando organizamos essas informações todas,
+ficamos com:
+
+ p: "Nenhum analista é magro."
+¬p: "Há pelo menos um analista é magro."
+
+Gabarito: LETRA A.
+
+18. (FGV/TJ-SC/2018) Considere a sentença: “Todo catarinense gosta de camarão ou é torcedor do
+Figueirense”. A negação lógica da sentença dada é:
+a) Nenhum catarinense gosta de camarão ou é torcedor do Figueirense;
+b) Todo catarinense gosta de camarão, mas não é torcedor do Figueirense;
+c) Todo catarinense não gosta de camarão e não é torcedor do Figueirense;
+d) Algum catarinense não gosta de camarão e não é torcedor do Figueirense;
+e) Algum catarinense não gosta de camarão ou não é torcedor do Figueirense.
+
+Comentários:
+Temos que negar duas proposições que estão ligadas por uma disjunção ("ou"). Nessas situações, deveremos
+lembrar da lei de De Morgan que diz que além de negar as proposições individualmente, devemos substituir
+a disjunção pela conjunção. Matematicamente, ¬(𝑝 ∨ 𝑞) ≡ ¬𝑝 ∧ ¬𝑞.
+
+Note que, ao lembrar disso, podemos eliminar as alternativas A, B e E. Ficamos apenas entre as letras C e
+D. Aumentamos as chances de acertar para 50%. Ademais, se você lembrar que, ao negar uma proposição
+
+
+---
+
+quantificada, precisamos substituir o quantificador. Então, você já acertaria a questão, marcando a letra D
+(a letra C manteve o quantificador "todo").
+Dito isso, vamos aos detalhes. Temos a seguinte afirmação que devemos negar:
+
+                     “Todo catarinense gosta de camarão ou é torcedor do Figueirense”
+
+Podemos reescrevê-la assim:
+
+          “Todo catarinense gosta de camarão ou todo catarinense é torcedor do Figueirense”
+
+São duas proposições quantificadas e precisamos negá-las. Para isso, lembre-se de substituir o quantificador
+universal "todo", por um quantificador existencial como "algum". Além disso, precisamos negar o predicado.
+
+O predicado da primeira é "gosta de camarão", ao negá-lo, ficamos com "não gosta de camarão". Na
+segunda proposição, temos o predicado "é torcedor do Figueirense", ao negá-lo, ficamos com "não é torcedor
+do Figueirense". Como temos uma disjunção, não podemos esquecer de substituir "ou" por "e". Assim,
+
+     "Algum catarinense não gosta de camarão e algum catarinense não é torcedor do Figueirense"
+
+Para não ser repetitivo, o enunciado simplifica e escrever apenas como:
+
+                "Algum catarinense não gosta de camarão e não é torcedor do Figueirense"
+
+Gabarito: LETRA D.
+
+19. (FGV/ALE-RO/2018) Considere verdadeira a afirmação:
+
+                             “Todo parlamentar conhece bem a Constituição”.
+
+É correto concluir que
+a) “Se uma pessoa conhece bem a Constituição então é parlamentar.”
+b) “Se uma pessoa não é um parlamentar então não conhece bem a Constituição.”
+c) “Se uma pessoa não conhece bem a constituição então não é parlamentar.”
+d) “Existe um parlamentar que não conhece bem a Constituição.”
+e) “Não existe pessoa que conheça bem a Constituição e não seja parlamentar.”
+
+Comentários:
+Pessoal, essa é uma questão que merece bastante cuidado. Ela não quer a negação da afirmativa dada.
+Algum aluno que esteja bem acostumado a ver as questões sempre pedindo para negar, pode correr e marcar
+
+
+---
+
+a letra D (que é a negação) e vai errar. A questão quer uma afirmação equivalente, algo que seja possível
+concluir sabendo que o que foi dado é verdadeiro.
+
+Na teoria, nos vimos que algumas proposições quantificadas podem ser escritas como condicionais. No
+caso em tela, temos que "todo parlamentar conhece bem a Constituição" pode ser escrita na forma "se é
+parlamentar, então conhece bem a Constituição". Concorda?! Sendo assim, podemos usar a equivalência
+𝑝 ⇒ 𝑞 ≡ ¬𝑞 ⇒ ¬𝑝 para reescrever a condição de uma outra forma. Ao fazer isso, ficamos com "se não
+conhece bem a Constituição, então não é parlamentar". É o que temos na alternativa C.
+Gabarito: LETRA C.
+
+20. (FGV/COMPESA/2018) Considere a sentença a seguir.
+
+                         “Todo pernambucano gosta de peixe e torce pelo Náutico.”
+
+A negação lógica da sentença dada é
+a) “Nenhum pernambucano gosta de peixe e torce pelo Náutico.”
+b) “Todo pernambucano não gosta de peixe e não torce pelo Náutico.”
+c) “Algum pernambucano não gosta de peixe e não torce pelo Náutico.”
+d) “Algum pernambucano não gosta de peixe ou não torce pelo Náutico.”
+e) “Algum pernambucano gosta de peixe e não torce pelo Náutico.”
+
+Comentários:
+Aqui temos duas proposições que estão ligadas por uma conjunção ("e"). Queremos negá-la. Para essa
+tarefa, é imprescindível lembrarmos da lei de De Morgan que diz que, na negação de uma conjunção, além
+de negarmos as proposições individualmente, precisamos substituir a conjunção ("e") por uma disjunção
+("ou") ou vice-versa. Matematicamente, ¬(𝑝 ∧ 𝑞) ≡ ¬𝑝 ∨ ¬𝑞.
+
+É uma questão muito parecida com uma que já fizemos, em que tínhamos "todo catarinense" ao invés de
+"todo pernambucano". Vamos lá! Pessoal, ao lembrar que deveríamos usar De Morgan, já conseguiríamos
+marcar a alternativa correta (letra D). Veja que é a única onde houve a substituição da conjunção pela
+disjunção. No entanto, vamos detalhar mais.
+
+O enunciado disse que:
+
+                         "Todo pernambucano gosta de peixe e torce pelo Náutico.”
+
+Temos duas proposições quantificadas e unidas por uma conjunção ("e"). Queremos negá-la. Sabemos que
+ao negar as proposições quantificadas individualmente, devemos substituir o quantificador universal "todo"
+por um quantificador existencial ("algum", "pelo menos um", "existe").
+
+
+---
+
+Além disso, negamos os predicados. O primeiro predicado é "gosta de peixe", ficamos então com "não gosta
+de peixe". O segundo predicado é "torce pelo Náutico", ficamos com "não torce pelo Náutico". Assim,
+
+                  "Algum pernambucano não gosta de peixe ou não torce pelo Náutico."
+
+Gabarito: LETRA D.
+
+21. (FGV/COMPESA/2018) Considere a afirmação: "Todas as pessoas que tomam limonada não ficam
+resfriadas." Se esta afirmação não é verdadeira, é correto concluir que:
+A) “Alguma pessoa que toma limonada fica resfriada.”
+B) “Alguma pessoa que não toma limonada fica resfriada.”
+C) “Todas as pessoas que não tomam limonada ficam resfriadas.”
+D) “Todas as pessoas que não ficam resfriadas tomam limonada.”
+E) “Todas as pessoas que ficam resfriadas não tomam limonada.”
+
+Comentários:
+Se a afirmação fornecida é falsa, a sua negação será uma sentença verdadeira. Para negar a expressão,
+devemos substituir o quantificador universal por um quantificador existencial. Além disso, devemos negar o
+predicado. Com esse conhecimento, conseguimos eliminar 3 alternativas (C, D e E), restando como opções
+possíveis de resposta apenas as letras A e B.
+
+        p: Todas as pessoas que tomam limonada não ficam resfriadas.                  (F)
+       ~p: Alguma pessoa que toma limonada fica resfriada.                            (V)
+
+Gabarito: LETRA A.
+
+22. (IBGE/TRT-12/2017) Em uma caixa só pode haver bolas pretas ou brancas. Sabe-se que a caixa não está
+vazia e que não é verdade que “todas as bolas na caixa são pretas”. Então é correto concluir que:
+a) nenhuma bola na caixa é preta;
+b) todas as bolas na caixa são brancas;
+c) há pelo menos uma bola preta na caixa;
+d) há pelo menos uma bola branca na caixa;
+e) há bolas pretas e bolas brancas na caixa.
+
+Comentários:
+Sabemos que não é verdade que "todas as bolas na caixa são pretas". Para uma proposição falsa virar
+verdadeira, basta negá-la. Logo, para negar uma proposição quantificada, deve-se substituir o quantificador
+universal "todo" por um quantificador existencial "algum", "pelo menos um" ou "existe".
+
+
+---
+
+Além disso, também negamos o predicado. Para a questão em tela, temos o predicado "são pretas". Logo,
+sua negação fica "não é preta" (os ajustes necessários devem ser feitos para que concorde com o sujeito).
+Assim, ficamos com:
+
+p: "Todas as bolas na caixa são pretas."
+¬p: "Há pelo menos uma bola na caixa que não é preta."
+
+Pessoal, a escolha do quantificador existencial ("existe", "algum" ou "pelos menos um") deve ser feita
+analisando o que está nas alternativas. Ao olhar para elas, claramente vemos que o examinador optou por
+"pelo menos um".
+
+Além disso, uma coisa importante é que só existem duas cores de bola: ou é preta ou é branca. Logo, se
+estamos dizendo que pelo menos uma bola não é preta, estamos dizendo que pelo menos uma bola é
+branca. Assim, conseguimos marcar a letra D.
+
+Gabarito: LETRA D.
+
+23. (FGV/IBGE/2017) Considere como verdadeira a seguinte sentença: “Se todas as flores são vermelhas,
+então o jardim é bonito”. É correto concluir que:
+a) se todas as flores não são vermelhas, então o jardim não é bonito;
+b) se uma flor é amarela, então o jardim não é bonito;
+c) se o jardim é bonito, então todas as flores são vermelhas;
+d) se o jardim não é bonito, então todas as flores não são vermelhas;
+e) se o jardim não é bonito, então pelo menos uma flor não é vermelha.
+
+Comentários:
+Mais uma questão que, além de envolver negação de proposições categóricas, aborda equivalências lógicas.
+Assim, queremos uma alternativa que traga uma afirmação equivalente àquela do enunciado. Atenção: não
+é pedido a negação! Queremos encontrar uma equivalência. Lembre-se que,
+
+                                          𝑝 ⇒ 𝑞 ≡ ¬𝑞 ⇒ ¬𝑝
+
+Assim,
+
+ p: "Todas as flores são vermelhas."
+¬p: "Pelo menos uma flor não é vermelha."
+
+ q: "O jardim é bonito."
+¬q: "O jardim não é bonito."
+
+
+---
+
+Logo, uma maneira equivalente de escrever a mesma expressão do enunciado seria:
+
+                  "Se o jardim não é bonito, então pelo menos uma flor não é vermelha."
+
+Gabarito: LETRA E.
+
+24. (FGV/SEPOG-RO/2017) Considere a afirmação:
+
+“Toda pessoa que faz exercícios não tem pressão alta”.
+
+De acordo com essa afirmação é correto concluir que:
+A) se uma pessoa tem pressão alta então não faz exercícios.
+B) se uma pessoa não faz exercícios então tem pressão alta.
+C) se uma pessoa não tem pressão alta então faz exercícios.
+D) existem pessoas que fazem exercícios e que têm pressão alta.
+E) não existe pessoa que não tenha pressão alta e não faça exercícios.
+
+Comentários:
+Temos agora uma sentença, que, a partir dela, devemos tirar uma outra afirmação igualmente válida.
+Lembre-se que uma sentença escrita com o quantificador universal "todo/qualquer" pode ser escrita como
+uma condicional! Portanto, uma opção de reescrita da afirmação do enunciado é:
+
+                       "Se uma pessoa faz exercícios então não tem pressão alta."
+
+Perceba, no entanto, que não há essa alternativa, devemos ir mais além e buscar uma outra equivalência!
+Da aula de Equivalências Lógicas:
+
+                                          𝑝 ⟹ 𝑞 ≡ ~𝑞 ⟹ ~𝑝
+
+Portanto, também é possível escrever que:
+
+                       "Se uma pessoa tem pressão alta então não faz exercícios."
+
+Gabarito: LETRA A.
+
+25. (FGV/MPE-BA/2017) Considere a afirmação:
+
+                                    “Todo baiano é um homem feliz”.
+
+Uma afirmação logicamente equivalente é:
+
+
+---
+
+A) Todo homem feliz é baiano;
+B) Um homem que não é feliz não é baiano;
+C) Quem não é baiano não é feliz;
+D) Um homem é baiano ou é feliz;
+E) Um homem não é feliz ou não é baiano.
+
+Comentários:
+Questão muito similar a anterior, o examinador está buscando uma afirmação logicamente equivalente.
+Como "Todo baiano é feliz", sabemos imediatamente que é equivalente dizer: "se é baiano então é feliz".
+Normalmente, essa equivalência imediata não é o suficiente para marcamos a alternativa correta e devemos
+ir mais fundo, revisitando a aula de Equivalências Lógicas, para lembrar que:
+
+                                              𝑝 ⟹ 𝑞 ≡ ~𝑞 ⟹ ~𝑝
+
+Logo, a condicional "se é baiano então é feliz" é equivalente a: "se não é feliz, então não é baiano". Essa
+conclusão disfarçada está na alternativa B: "um homem que não é feliz, não é baiano.'
+
+Gabarito: LETRA B.
+
+26. (FGV/TRT-12/2017) Em um tribunal os processos possuem capas totalmente de cor cinza ou
+totalmente de cor azul. Sabe-se também que: Os processos de capa cinza não vão para o arquivo. É correto
+concluir que:
+A) todo processo de capa azul vai para o arquivo;.
+B) todo processo que vai para o arquivo tem capa azul;
+C) a capa de um processo que não é arquivado é certamente cinza;
+D) alguns processos que são arquivados têm capa cinza;
+E) nenhum processo de capa azul vai para o arquivo.
+
+Comentários:
+Pessoal, temos dois fatos a considerar nessa questão:
+
+I. Os processos possuem capas totalmente de cor cinza ou totalmente de cor azul.
+II. Os processos de capa cinza não vão para o arquivo.
+
+Vamos analisar alternativa por alternativa.
+
+A) todo processo de capa azul vai para o arquivo;.
+Alternativa incorreta. Não há como extrair essa informação de nenhuma das duas afirmativas. As únicas
+coisas que sabemos é que existem apenas os dois tipos de processo: de capa azul e de capa cinza. Ademais,
+nenhum processo de capa cinza vai para o arquivo.
+
+
+---
+
+B) todo processo que vai para o arquivo tem capa azul;
+É nossa alternativa correta, pois como sabemos que nenhum processo de capa cinza vai para o arquivo
+(afirmativa II), então necessariamente se algum processo for para o arquivo ele será o de capa azul, pois só
+existem essas duas cores de capa de processo! (afirmativa I)
+
+C) a capa de um processo que não é arquivado é certamente cinza;
+Alternativa incorreta, não necessariamente, pois não sabemos o que acontece com os processos de capa
+azul, como, por exemplo, se todos são guardados no arquivo ou se é metade no arquivo e metade fora.
+Impossível fazer essa conclusão com as informações dadas.
+
+D) alguns processos que são arquivados têm capa cinza;
+Alternativa incorreta, pois contradiz a afirmativa II, que diz que os processos de capa cinza não vão para os
+arquivos. Logo, não existem alguns processos arquivados que têm capa cinza.
+
+E) nenhum processo de capa azul vai para o arquivo.
+Alternativa incorreta. É impossível concluir isso uma vez que não foram fornecidas informações sobre os
+processos de capa azul, de modo que não podemos afirmar categoricamente o que está na alternativa.
+
+Gabarito: LETRA B.
+
+27. (FGV/TRT-12/2017) Todas as pessoas que conhecem os irmãos Bernardo e Bianca gostam de Bianca.
+Entretanto, algumas pessoas que conhecem Bianca não gostam dela. É correto concluir que:
+A) todos os que conhecem Bianca gostam dela;
+B) ninguém gosta de Bianca;
+C) alguns que conhecem Bianca não conhecem Bernardo;
+D) quem conhece Bernardo gosta de Bianca;
+E) só quem conhece Bernardo e Bianca conhece Bianca.
+
+Comentários:
+Vamos retirar as informações do enunciado:
+
+I. Todas as pessoas que conhecem os irmãos Bernardo e Bianca gostam de Bianca.
+II. Algumas pessoas que conhecem Bianca não gostam dela.
+
+A) todos os que conhecem Bianca gostam dela;
+Alternativa incorreta. Contradiz diretamente a afirmativa II, que afirma que existem pessoas que conhecem
+Bianca e não gostam dela.
+
+B) ninguém gosta de Bianca;
+
+
+---
+
+Alternativa incorreta. Contradiz diretamente a afirmativa I, que afirma que se as pessoas conhecem os
+irmãos, então gostam de Bianca.
+
+C) alguns que conhecem Bianca não conhecem Bernardo;
+É a nossa alternativa correta. Se todas as pessoas, que conhecem os irmãos, gostam de Bianca e se existem
+pessoas que conhecem Bianca mas não gostam dela, é porque essas pessoas não conhecem Bernardo!
+Perceba que se quem conhece Bianca conhecesse Bernardo, estaríamos no caso I e essa pessoa gostaria da
+Bianca.
+
+D) quem conhece Bernardo gosta de Bianca;
+Alternativa incorreta. Não é possível fazer essa conclusão partindo das informações fornecidas no enunciado
+da questão. Nada foi falado sobre as pessoas que conhecem Bernardo.
+
+E) só quem conhece Bernardo e Bianca conhece Bianca.
+Alternativa incorreta. Da afirmativa II, percebemos que existem pessoas que conhecem Bianca mas não
+conhecem Bernardo, pois essas pessoas a conhecem mas não gostam dela!
+
+Gabarito: LETRA C.
+
+28. (FGV/IBGE/2017) Marcelo foi chamado para uma reunião com seu chefe. Nessa reunião ocorreu o
+seguinte diálogo:
+
+- Chefe: Pedro disse que todos os relatórios que ele recebeu foram avaliados.
+- Marcelo: Não é verdade o que Pedro disse.
+
+Se o chefe considerou que Marcelo falou a verdade, ele pode concluir logicamente que, dos relatórios
+recebidos por Pedro:
+A) pelo menos um relatório não foi avaliado;
+B) um único relatório não foi avaliado;
+C) nenhum relatório foi avaliado;
+D) mais da metade dos relatórios não foram avaliados;
+E) somente um relatório foi avaliado.
+
+Comentários:
+Sabemos que o que Pedro afirma é falso. Logo, ao negar a sua sentença obtemos uma conclusão verdadeira.
+Observe:
+
+       p: Todos os relatórios recebidos foram avaliados.                (F)
+
+
+---
+
+Para negar essa sentença aberta, basta substituir "todos" por um quantificador existencial e negar o
+predicado. Das alternativas, retira-se que o quantificador escolhido foi "pelo menos um". Veja como fica:
+
+       ~p: Pelo menos um relatório não foi avaliado.                      (V)
+
+Gabarito: LETRA A.
+
+29. (FGV/MRE/2016) João olhou as dez bolas que havia em um saco e afirmou:
+
+                                 “Todas as bolas desse saco são pretas”.
+
+Sabe-se que a afirmativa de João é falsa. É correto concluir que:
+a) nenhuma bola desse saco é preta;
+b) pelo menos nove bolas desse saco são pretas;
+c) pelo menos uma bola desse saco é preta;
+d) pelo menos uma bola desse saco não é preta;
+e) nenhuma bola desse saco é branca.
+
+Comentários:
+Questão muito parecida com a que veio a cair no TRT-12 em 2017 e que respondemos um pouco acima.
+Sabemos que para concluir algo verdadeiro a partir de uma afirmativa falsa, devemos negar tal sentença.
+Temos uma proposição categórica. Para negá-la, devemos substituir o quantificador universal ("todo") por
+um quantificador existencial (olhando as alternativas, vemos que o examinador optou por "pelo menos um").
+
+Além disso, é preciso negar o predicado. Nessa proposição, o predicado é "são pretas". Quando o negamos,
+ficamos com "não é preta" (faça os ajustes para concordar com o sujeito). Assim,
+
+ p: "Todas as bolas desse saco são pretas".                         (F)
+¬p: "Pelo menos uma bola desse saco não é preta".                   (V)
+
+Gabarito: LETRA D.
+
+30. (FGV/DPE-RO/2015) Considere a afirmação: “Nenhum pintor é cego”. A negação dessa afirmação é:
+A) Há pelo menos um pintor cego.
+B) Alguns cegos não são pintores.
+C) Todos os pintores são cegos.
+D) Todos os cegos são pintores.
+E) Todos os pintores não são cegos.
+
+Comentários:
+
+
+---
+
+"Nenhum" é um quantificador universal. Para negar essa sentença aberta, devemos substituir esse
+quantificador por um quantificador existencial: "pelo menos um", "algum" ou "existe". Perceba que, sabendo
+disso, podemos eliminar três alternativas imediatamente: as letras C, D e E.
+
+        p: "Nenhum pintor é cego."
+       ~p: "Há pelo menos um pintor cego."
+
+OBSERVAÇÃO:
+
+                       "Nenhum pintor é cego." = "Todo pintor não é cego."
+Quando substituímos diretamente "nenhum" por um quantificador existencial, automaticamente já
+estamos fazendo a negação do predicado. Veja que na forma "padrão" o predicado muda ao obtermos a
+negação da afirmativa.
+
+Gabarito: LETRA A.
+
+31. (FGV/SSP-AM/2015) Considere a afirmação: “Todo animal de 4 patas é mamífero”. A negação dessa
+afirmação é:
+A) Nenhum animal de 4 patas é mamífero.
+B) Qualquer animal de 4 patas não é mamífero.
+C) Nenhum mamífero tem 4 patas.
+D) Existe animal mamífero que não tem 4 patas.
+E) Existe animal de 4 patas que não é mamífero.
+
+Comentários:
+A afirmação possui um quantificador universal "todo". Para negar tal assertiva, basta substituí-lo por algum
+quantificador existencial: "pelo menos um", "algum" ou "existe". Além disso, nega-se o predicado da
+sentença. Com isso, eliminamos os itens A, B e C pois apresentam quantificadores universais.
+
+        p: Todo animal de 4 patas é mamífero.
+       ~p: Existe animal de 4 patas que não é mamífero.
+
+Gabarito: LETRA E.
+
+32. (FGV/PREF. de CUIABÁ/2015) O chefe da segurança de uma empresa disse: “Todo vigilante é uma
+pessoa atenta”. O diretor respondeu: “Isso não é verdade.” É correto concluir que:
+A) nenhum vigilante é atento.
+B) a maioria dos vigilantes não são atentos.
+C) uma pessoa que não é atenta, não é vigilante.
+D) toda pessoa atenta não é vigilante.
+
+
+---
+
+E) pelo menos um vigilante não é atento.
+
+Comentários:
+Sabemos que a afirmação do chefe da segurança é falsa. Portanto, ao obtermos a negação da sentença,
+estaremos obtendo um fato verdadeiro que poderá está contemplado nas alternativas.
+
+        p: "Todo vigilante é uma pessoa atenta."                       (F)
+       ~p: "Pelo menos um vigilante não é uma pessoa atenta.           (V)
+
+Gabarito: LETRA E.
+
+33. (FGV/MPE-MS/2013) Considerando a afirmativa “Todos os lápis que estão nesta caixa são vermelhos"
+como falsa, analise as afirmativas a seguir.
+
+I. Todos os lápis que estão nesta caixa não são vermelhos.
+II. Algum lápis que está nesta caixa não é vermelho.
+III. Nenhum lápis que está nesta caixa é vermelho.
+
+Assinale:
+A) se somente a afirmativa I é obrigatoriamente correta.
+B) se somente a afirmativa II é obrigatoriamente correta.
+C) se somente a afirmativa III é obrigatoriamente correta.
+D) se somente as afirmativas I e III são obrigatoriamente corretas.
+E) se somente as afirmativas II e III são obrigatoriamente corretas.
+
+Comentários:
+A informação fornecida no enunciado foi:
+
+                "Todos os lápis que estão nesta caixa são vermelhos."                (F)
+
+Para obtermos uma afirmação verdadeira, basta negar essa proposição quantificada. Vejamos:
+
+                "Algum lápis que está nesta caixa não é vermelho."                   (V)
+
+Vamos agora analisar item a item:
+
+I. Todos os lápis que estão nesta caixa não são vermelhos.
+Afirmativa incorreta. Sabemos que apenas algum lápis na caixa não é vermelho e não todos.
+
+II. Algum lápis que está nesta caixa não é vermelho.
+
+
+---
+
+Afirmativa correta. É exatamente o que obtemos quando negamos a informação do enunciado, para obter
+uma conclusão verdadeira do que foi dado.
+
+III. Nenhum lápis que está nesta caixa é vermelho.
+Afirmativa incorreta. Perceba que o sentido dessa afirmativa é exatamente igual ao da afirmativa I. A
+justificativa, portanto, é a mesma. Sabemos apenas que algum lápis da caixa não é vermelho, não podendo
+dizer que nenhum é.
+
+Gabarito: LETRA B.
+
+34. (FGV/AL-MT/2013) Certo deputado fez a seguinte afirmação sobre os trabalhos da semana:
+
+“Todos os itens da pauta serão votados”.
+
+Na semana seguinte, verificou-se que essa afirmação foi falsa. É correto concluir que:
+A) Nenhum item da pauta foi votado.
+B) Somente um item da pauta não foi votado.
+C) Pelo menos um item da pauta não foi votado.
+D) Foi votado algum item fora da pauta.
+E) Todos os itens votados estavam fora da pauta.
+
+Comentários:
+Temos do enunciado uma afirmativa falsa, da qual queremos concluir algo correto. Vejamos:
+
+        p: Todos os itens da pauta serão votados.                       (F)
+       ~p: Pelo menos um item da pauta não foi votado.                  (V)
+
+Para concluir algo correto de uma afirmativa falsa, basta negá-la! A negação de uma proposição quantificada
+deve ser feita da seguinte maneira:
+
+      1. Se possuir o quantificador universal "qualquer" ou "todo", substituí-lo por um existencial: "pelo
+menos um", "existe", ou "algum". No exercício em pauta, substituímos "todos" por "pelo menos um".
+
+       2. Negar o predicado. No exercício em questão, temos que "serão votados" é o predicado. Negamos
+ele acrescentando um "não" no início. "não será votado". Como a conclusão ocorreu "na semana seguinte",
+fizemos os ajustes necessários ao tempo verbal.
+
+Gabarito: LETRA C.
+
+
+---
+
+35. (FGV/SUDENE-PE/2013) Supondo que a afirmativa “Todos os estados do Nordeste sofrem com a seca
+ou com o excesso de chuvas” seja falsa, analise as afirmativas a seguir:
+
+I. “Nenhum estado do Nordeste sofre com a seca ou com o excesso de chuvas”.
+II. “Algum estado do Nordeste não sofre com a seca”.
+III. “Algum estado do Nordeste sofre com o excesso de chuvas”.
+
+Assinale:
+A) se somente a afirmativa I é obrigatoriamente correta.
+B) se somente a afirmativa II é obrigatoriamente correta.
+C) se somente a afirmativa III é obrigatoriamente correta.
+D) se somente as afirmativas I e III são obrigatoriamente corretas.
+E) se somente as afirmativas II e III são obrigatoriamente corretas.
+
+Comentários:
+          Todos os estados do Nordeste sofrem com a seca ou com o excesso de chuvas. (F)
+
+Para obtermos alguma conclusão verdadeira dessa afirmativa, devemos negá-la. Veja como fica:
+
+         Algum estado do Nordeste não sofre com seca e nem com o excesso de chuvas.            (V)
+
+Perceba que a negação dessa proposição quantificada se deu substituindo o quantificador universal (todos)
+por um existencial (algum). Além disso, houve a negação do predicado, que era uma disjunção inclusiva
+(representada pelo ou). Foi necessário, portanto, utilizar a Lei de De Morgan, substituindo o "ou" por "e".
+Relembre:
+                                            ~(𝑝 ∨ 𝑞) = ~𝑝 ∧ ~𝑞
+
+I. Nenhum estado do Nordeste sofre com a seca ou com o excesso de chuvas.
+Afirmativa incorreta. Para negar o fato de que todos os estados sofrem com a seca ou com o excesso de
+chuva, não é necessário dizer que nenhum sofra. Basta, no entanto, que pelo menos um não passe por esses
+problemas de forma simultânea.
+
+II. Algum estado do Nordeste não sofre com a seca.
+Afirmativa correta. De fato, obtemos da negação do enunciado que algum estado do Nordeste não sofre
+com a seca e nem com o excesso de chuva.
+
+III. Algum estado do Nordeste sofre com o excesso de chuvas.
+Afirmativa incorreta. Algum estado do nordeste não sofre com o excesso de chuva.
+
+Gabarito: LETRA B.
+
+
+---
+
+36. (FGV/TJ-AM/2013) Se não é verdade que “Todos assistentes judiciários de determinado fórum são
+formados em advocacia”, então é necessariamente verdade que:
+A) nenhum assistente judiciário desse fórum é formado em advocacia.
+B) todos assistentes judiciários desse fórum não são formados em advocacia.
+C) ninguém formado em advocacia é assistente judiciário desse fórum.
+D) alguém formado em advocacia é assistente judiciário desse fórum.
+E) algum assistente judiciário desse fórum não é formado em advocacia.
+
+Comentários:
+Será necessariamente verdade a negação de uma afirmativa falsa. Ora, veja que se não é verdade que todos
+os assistentes judiciários de determinado fórum são formados em advocacia é porque existe pelo menos um
+assistente judiciário que não é formado em advocacia. Formalmente, para negar uma afirmativa com o
+quantificador universal "todos", basta substitui-lo por um quantificador existencial e negar o predicado da
+sentença.
+
+        p: Todos os assistentes judiciários de determinado fórum são formados em advocacia.
+       ~p: Algum assistente judiciário de determinado fórum não é formado em advocacia.
+
+Gabarito: LETRA E.
+
+
+---
+
+                          QUESTÕES COMENTADAS - FGV
+
+Diagramas Lógicos
+
+1. (FGV/MPE-SC/2022) Sabe-se que:
+
+- Todo A é B.
+- Nem todo B é C.
+
+É correto concluir que:
+A) todo A é C;
+B) nenhum A é C;
+C) algum C não é B;
+D) algum B não é C;
+E) algum C não é A.
+
+Comentários:
+Se "Todo A é B", então podemos desenhar o seguinte diagrama lógico:
+
+                                       𝐵
+                                                   𝐴
+
+Além disso, o enunciado nos informa que "nem todo B é C". Podemos ter algumas situações tais como:
+
+            𝐵                                               𝐵                            𝐶
+                          𝐴             𝐶                              𝐴
+
+
+                                       (1)                                               (2)
+
+
+                                   𝐵                              𝐶
+
+
+                                                        𝐴
+                                                                 (3)
+
+
+Pessoal, nesse tipo de questão, buscamos aquela alternativa que é necessariamente verdade. Cuidado, pois
+nas alternativas temos várias situações possíveis, demonstradas pelos diagramas desenhados acima. No
+entanto, queremos aquela que é necessariamente verdade. Tendo essas ideias em mente, vamos avaliar os
+itens.
+
+
+---
+
+A) todo A é C;
+Errado. É uma possibilidade, conforme aponta o diagrama 3, mas não é necessariamente verdade, conforme
+aponta o diagrama 2.
+
+B) nenhum A é C;
+Errado. Apesar de ser uma possibilidade, não é necessariamente verdade, vide diagramas 1 e 3.
+
+C) algum C não é B;
+Errado. Note que também podemos ter a seguinte situação:
+
+                                       𝐵        𝐶
+
+                                                            𝐴
+                                                                 (4)
+
+
+Verifique que continua sendo verdade que: (i) Todo A é B e que (ii) "Nem todo B é C". Mesmo nessa hipótese,
+é possível ter que a situação acima em que todo C é B.
+
+D) algum B não é C;
+Correto, pessoal. Aqui está uma afirmativa necessariamente verdadeira. O motivo disso é que ela significa a
+mesma coisa que já está escrita no enunciado: "nem todo B é C"!! Ora, se nem todo B é C, é por que existe
+algum B que não é C.
+
+E) algum C não é A.
+Errado. Podemos ter a possibilidade que C esteja contido inteiramente dentro de A.
+
+                                       𝐵
+                                                            𝐴
+
+                                                        𝐶        (5)
+
+
+Nessa situação, teremos que todo C é A.
+
+Gabarito: LETRA D.
+
+2. (FGV/SEFAZ-ES/2021) Considere as afirmativas a seguir:
+
+I. Todo auditor que fiscaliza a contabilidade de empresas também presta orientações sobre legislação
+tributária, mas nenhum auditor que presta orientações sobre legislação tributária instaura processos
+administrativos fiscais.
+II. Todo auditor que apreende mercadorias irregulares faz o controle aduaneiro, e alguns auditores que
+fazem controle aduaneiro, instauram processos administrativos fiscais.
+III. Nenhum auditor que faz o controle aduaneiro presta orientação tributária.
+
+
+---
+
+Sendo certo que não há auditor que execute conjuntamente as funções de controle aduaneiro, apreensão
+de mercadorias irregulares e de instauração de processos administrativos-fiscais, é correto concluir que:
+(A) nenhum auditor que apreende mercadorias irregulares também fiscaliza a contabilidade de empresas.
+(B) todo auditor que faz o controle aduaneiro também apreende mercadorias irregulares.
+(C) todo auditor que presta orientações sobre a legislação tributária também fiscaliza a contabilidade de
+empresas.
+(D) pelo menos um auditor que apreende mercadorias irregulares também instaura processos
+administrativos-fiscais.
+(E) pelo menos um auditor que fiscaliza a contabilidade de empresas também instaura processos
+administrativos-fiscais.
+
+Comentários:
+Um bom começo para essa questão é desenhar os diagramas lógicos. Para isso, vamos identificar os grupos.
+
+FC = auditores que fiscalizam a contabilidade de empresas;
+PO = auditores que prestam orientações sobre legislação tributária;
+IP = auditores que instauram processos administrativos-fiscais;
+AM = auditores que apreendem mercadorias irregulares;
+CA = auditores que fazem controle aduaneiro.
+
+Temos cinco grupos e vamos chamá-lo cada um conjunto de duas letras (FC, PO, ...) para facilitar nossa vida.
+Agora, vamos desenhar diagramas para cada uma das afirmativas que o enunciado trouxe.
+
+I. Todo auditor que fiscaliza a contabilidade de empresas também presta orientações sobre legislação
+tributária, mas nenhum auditor que presta orientações sobre legislação tributária instaura processos
+administrativos fiscais.
+
+
+                                                  PO                      IP
+                                        FC
+
+Observe que quem fiscaliza contabilidade (FC) também presta orientações (PO). Isso significa que FC está
+inteiramente contido dentro de PO. É válido perceber que podem existir pessoas que prestam orientação,
+mas não fiscalizam contabilidade. Ademais, como não há quem preste orientação e instaura processos, os
+dois conjuntos são desenhados separadamente, sem intersecção.
+
+II. Todo auditor que apreende mercadorias irregulares faz o controle aduaneiro, e alguns auditores que fazem
+controle aduaneiro, instauram processos administrativos fiscais.
+
+Com essa informação, podemos desenvolver várias possibilidades de diagramas. Vamos visualizar algumas
+
+
+---
+
+- 1ª possibilidade
+
+
+                                PO   IP                            CA
+                     FC                                       AM
+
+- 2ª possibilidade
+
+                                PO   IP                            CA
+                     FC                             AM
+
+- 3ª possibilidade
+                          PO
+                                               CA
+                                      AM                      IP
+                               FC
+
+- 4ª possibilidade
+
+                      PO
+                                           CA
+                                                         IP
+                           FC
+                                          AM
+
+
+---
+
+É importante ressaltar que existem ainda mais possibilidades. No entanto, com essas já conseguiremos
+desenrolar o restante da questão.
+
+III. Nenhum auditor que faz o controle aduaneiro presta orientação tributária.
+Essa informação nos ajuda a eliminar algumas das possibilidades que chegamos analisando as afirmativas
+anteriores. Como não há auditor que faz controle aduaneiro e presta orientação tributária, então não pode
+haver intersecção entre os dois conjuntos. Nesse caso, eliminamos qualquer possibilidade em que os dois
+conjuntos se intersectem (como a 3ª e 4ª possibilidade acima). Com isso, ainda ficam no jogo as seguintes:
+
+- 1ª possibilidade
+
+
+                                         PO           IP                             CA
+                               FC                                           AM
+
+- 2ª possibilidade
+
+                                         PO           IP                             CA
+                               FC                                  AM
+
+Nessas possibilidades, não há intersecção entre PO e CA, estando de acordo com a informação passada.
+
+Por fim, veja que o enunciado ainda diz mais uma informação relevante!
+
+“Sendo certo que não há auditor que execute conjuntamente as funções de controle aduaneiro, apreensão
+de mercadorias irregulares e de instauração de processos administrativos-fiscais...”
+
+A segunda possibilidade trouxe auditores que executam essas três funções.
+
+- 2ª possibilidade
+
+
+---
+
+                                         PO            IP                             CA
+                               FC                                   AM
+
+A região destacada acima mostra exatamente um grupo de auditores que instaura processos, apreendem
+mercadorias irregulares e fazem controle aduaneiro. O enunciado diz que isso não acontece, assim, podemos
+eliminar essa possibilidade. Veja que a única situação que passou por todos os crivos foi a primeira! É ela
+que utilizaremos para embasar nossa análise das alternativas.
+
+- 1ª possibilidade
+
+                                         PO            IP                             CA
+                               FC                                            AM
+
+(A) nenhum auditor que apreende mercadorias irregulares também fiscaliza a contabilidade de empresas.
+Correto! Note que não há intersecção entre os dois conjuntos (FC e PO). Assim, podemos concluir
+corretamente que não há auditor que apreenda mercadorias irregulares e também fiscaliza empresas.
+
+(B) todo auditor que faz o controle aduaneiro também apreende mercadorias irregulares.
+Errado. Sabemos que quem apreende mercadorias irregulares faz controle aduaneiro. No entanto, não
+podemos afirmar o inverso.
+
+(C) todo auditor que presta orientações sobre a legislação tributária também fiscaliza a contabilidade de
+empresas.
+Errado. Mesmo problema do item anterior. As bancas gostam muito de confundir o aluno nisso! Pessoal,
+quando temos que “todo A é B” não podemos concluir que “todo B é A”. Muito cuidado!!
+
+(D) pelo menos um auditor que apreende mercadorias irregulares também instaura processos
+administrativos-fiscais.
+Errado. O enunciado diz que “Sendo certo que não há auditor que execute conjuntamente as funções de
+controle aduaneiro, apreensão de mercadorias irregulares e de instauração de processos administrativos-
+fiscais.”. Com isso, não poderíamos ter um auditor que apreende mercadorias irregulares (logo, também
+executa controle aduaneiro) e instaura processos administrativos fiscais. Nessa situação, o auditor estaria
+desempenhando todas as três funções, o que não é permitido pela questão.
+
+
+---
+
+(E) pelo menos um auditor que fiscaliza a contabilidade de empresas também instaura processos
+administrativos-fiscais.
+Errado. Lembre-se que a afirmativa I termina assim: “... nenhum auditor que presta orientações sobre
+legislação tributária instaura processos administrativos fiscais.”. Como todo auditor que fiscaliza a
+contabilidade de empresas também presta orientação sobre legislação tributária, então esse auditor não
+pode instaurar processos administrativos-fiscais.
+
+Gabarito: LETRA A.
+
+3. (FGV/PREF. SALVADOR/2019) Considere as afirmativas a seguir.
+
+- “Alguns homens jogam xadrez”.
+- “Quem joga xadrez tem bom raciocínio”.
+A partir dessas afirmações, é correto concluir que
+a) “Todos os homens têm bom raciocínio”.
+b) “Mulheres não jogam xadrez”.
+c) “Quem tem bom raciocínio joga xadrez”.
+d) “Homem que não tem bom raciocínio não joga xadrez”.
+e) “Quem não joga xadrez não tem bom raciocínio”.
+Comentários:
+Vamos desenhar um configuração de diagramas em que as considerações do enunciado sejam válidas.
+
+Há apenas uma intersecção entre "homens" e "xadrez", indicando que "alguns homens jogam xadrez". Além
+disso, veja que "xadrez" está totalmente dentro do "bom raciocínio", indicando que "quem joga xadrez tem
+bom raciocínio". Uma vez que as afirmações do enunciado estão representadas, é possível avaliar as
+alternativas.
+
+a) “Todos os homens têm bom raciocínio”.
+ERRADO. No diagrama que estamos utilizando de exemplo, temos homens que não possuem um raciocínio
+bom. É bom lembrar que várias são as possibilidades de diagrama e o que for dito na alternativa deve ser
+válido para qualquer uma delas. Se existir mesmo que seja uma única configuração de diagramas que
+contradiga o que está escrito, então o que está na alternativa não é necessariamente verdade. Ok?!
+
+b) “Mulheres não jogam xadrez”.
+ERRADO. O enunciado não menciona mulheres ou algo que possibilite uma conclusão sobre elas.
+
+c) “Quem tem bom raciocínio joga xadrez”.
+
+
+---
+
+ERRADO. Veja que o conjunto de quem joga xadrez está inteiramente contido no conjunto daqueles que
+possuem um bom raciocínio. No entanto, os dois não se confundem. Esse fato indica que há pessoas com
+bom raciocínio, mas que não jogam xadrez.
+
+d) “Homem que não tem bom raciocínio não joga xadrez”.
+CERTO. De acordo com o enunciado, se joga xadrez, então possui um bom raciocínio. Logo, é verdade quando
+afirmarmos que quem não tem bom raciocínio, não joga xadrez. Para chegar nessa conclusão com facilidade,
+deveríamos lembrar a seguinte equivalência lógica: 𝑝 ⇒ 𝑞 ≡ ¬𝑞 ⇒ ¬𝑝 .
+
+e) “Quem não joga xadrez não tem bom raciocínio”.
+ERRADO. Perceba que é o que está escrito na letra C, porém, usando a equivalência 𝑝 ⇒ 𝑞 ≡ ¬𝑞 ⇒ ¬𝑝.
+Logo, podemos usar a mesma justificativa. Os dois conjuntos não se confundem.
+
+Gabarito: LETRA D.
+
+4. (FGV/BANESTES/2018) Em certa empresa são verdadeiras as afirmações:
+
+I. Qualquer gerente é mulher.
+II. Nenhuma mulher sabe trocar uma lâmpada.
+
+É correto concluir que, nessa empresa:
+A) algum gerente é homem
+B) há gerente que sabe trocar uma lâmpada
+C) todo homem sabe trocar uma lâmpada;
+D) todas as mulheres são gerentes;
+E) nenhum gerente sabe trocar uma lâmpada.
+
+Comentários:
+Quando escrevemos que "Qualquer gerente é mulher", estamos dizendo, em outras palavras, que nessa
+empresa: "toda gerente é mulher". Logo, ao escolhermos qualquer gerente, necessariamente será uma
+mulher, e da afirmativa II, nenhuma mulher sabe trocar uma lâmpada. Logo, nenhuma gerente sabe trocar
+uma lâmpada. Veja o diagrama lógico:
+
+Gabarito: LETRA E.
+
+5. (FGV/TRT-12/2017) Considere verdadeiras as afirmações:
+
+I. Todos os artistas são pessoas interessantes.
+
+
+---
+
+II. Nenhuma pessoa interessante sabe dirigir.
+
+É correto concluir que:
+A) todas as pessoas interessantes são artistas;
+B) algum artista sabe dirigir;
+C) quem não é interessante sabe dirigir;
+D) toda pessoa que não sabe dirigir é artista;
+E) nenhum artista sabe dirigir.
+
+Comentários:
+Perceba que se todos os artistas são pessoas interessantes e nenhuma pessoa interessante sabe dirigir, é
+imediata a conclusão de que nenhum artista sabe dirigir. Perceba que se algum artista soubesse dirigir,
+então a afirmativa II seria negada, pois todos os artista são interessantes e portanto, você teria alguma
+pessoa interessante sabendo dirigir. Vamos ver os erros das demais alternativas:
+
+A) todas as pessoas interessantes são artistas;
+Alternativa incorreta. Na afirmativa I temos: "todos os artistas são pessoas interessantes" ou em outras
+palavras "se é artista então é uma pessoa interessante". A "volta" de uma condicional não é necessariamente
+verdadeira. Veja um possível diagrama lógico representando a situação:
+
+B) algum artista sabe dirigir;
+Alternativa incorreta. Se algum artista soubesse dirigir, você teria alguém interessante (afirmativa I)
+dirigindo. Tal conclusão contradiz a afirmativa II, em que nenhuma pessoa interessante sabe dirigir.
+
+C) quem não é interessante sabe dirigir;
+Alternativa incorreta. A volta de uma condicional não é necessariamente verdadeira e é uma generalização
+que frequentemente leva vários alunos a erros. Muita atenção!
+
+D) toda pessoa que não sabe dirigir é artista;
+Alternativa incorreta. De acordo com a afirmativa II, nenhuma pessoa interessante sabe dirigir. Isso não
+significa que toda pessoa que não sabe dirigir é um artista, pois nem toda pessoa interessante
+necessariamente é um artista, conforme discutimos na análise do item A.
+Gabarito: LETRA E.
+
+6. (FGV/IBGE/2017) Em um jogo há fichas brancas e pretas sendo algumas redondas, outras quadradas e
+outras triangulares. Não há fichas de outras cores ou de outros formatos. Considere como verdadeira a
+afirmação:
+
+                                 “Qualquer ficha branca não é quadrada.”
+
+
+---
+
+É correto concluir que:
+A) toda ficha preta é quadrada;
+B) toda ficha quadrada é preta;
+C) uma ficha que não é redonda é certamente branca;
+D) uma ficha que não é quadrada é certamente preta;
+E) algumas fichas triangulares são pretas.
+
+Comentários:
+Do enunciado, podemos retirar duas informações cruciais:
+      I. Existe um jogo com fichas brancas e pretas.
+      II. Essas fichas podem ser redondas, quadradas ou triangulares.
+
+Depois, o examinador te passa a seguinte informação:
+
+                                 "Qualquer ficha branca não é quadrada"
+
+Veja que a afirmação acima também pode ser escrita da seguinte forma:
+
+                                    "Nenhuma ficha branca é quadrada."
+
+Ora, se nenhuma ficha branca é quadrada e se existe ficha quadrada no jogo, necessariamente todas as
+fichas quadradas serão pretas.
+
+Gabarito: LETRA B.
+
+7. (FGV/PREF. DE CUIABÁ-MT/2015) Em certa comunidade são verdadeiras as seguintes afirmações:
+
+I. Todo motorista é homem.
+II. Nenhum homem sabe cozinhar.
+
+É correto afirmar que:
+A) algum motorista é mulher.
+B) algum motorista sabe cozinhar.
+C) toda mulher sabe cozinhar.
+D) todo homem é motorista.
+E) nenhum motorista sabe cozinhar.
+
+Comentários:
+A) algum motorista é mulher.
+Alternativa incorreta. Esse item, ao dizer que existe alguma motorista que é mulher, contradiz diretamente
+a afirmativa I, que diz que todo motorista é homem.
+
+B) algum motorista sabe cozinhar.
+
+
+---
+
+Alternativa incorreta. Se esse item fosse verdade, estaríamos contradizendo a afirmativa II, veja: se algum
+motorista soubesse cozinhar, da afirmativa I, saberíamos que esse motorista seria homem. Portanto,
+teríamos um homem que sabe cozinhar, que é o oposto do que encontramos na afirmativa II.
+
+C) toda mulher sabe cozinhar.
+Alternativa incorreta. Nenhuma das afirmações nos permite fazer tal assertiva. O fato de nenhum homem
+saber cozinhar (afirmativa II) não implica necessariamente que toda mulher sabe. É uma extrapolação do
+fato.
+
+D) todo homem é motorista.
+Alternativa incorreta. De acordo com a questão, é verdade que "todo motorista é homem", mas também
+não podemos afirmar o inverso, trata-se de uma falácia da afirmação do consequente.
+
+E) nenhum motorista sabe cozinhar.
+Essa alternativa é a correta. Perceba que se todo motorista é homem e se não existe homem que sabe
+cozinhar, então, necessariamente, nenhum motorista sabe cozinhar.
+
+Gabarito: LETRA E.
+
+8. (FGV/DPE-MT/2015) Considere verdadeiras as afirmações a seguir:
+
+•   Existem advogados que são poetas.
+•   Todos os poetas escrevem bem.
+
+Com base nas afirmações, é correto concluir que
+A) se um advogado não escreve bem então não é poeta.
+B) todos os advogados escrevem bem.
+C) quem não é advogado não é poeta.
+D) quem escreve bem é poeta.
+E) quem não é poeta não escreve bem.
+
+Comentários:
+A) se um advogado não escreve bem então não é poeta.
+Alternativa correta. Perceba que se todos os poetas escrevem bem, então quem não escreve bem não pode
+ser poeta, independentemente de ser advogado ou não.
+
+B) todos os advogados escrevem bem.
+Alternativa incorreta. A afirmativa I nos informa apenas que "Existem advogados que são poetas.". Não
+conseguimos, a partir disso, dizer que todos os advogados escrevem bem.
+
+ C) quem não é advogado não é poeta.
+Alternativa incorreta. Em nenhuma das afirmativas foi afirmado que todos os poetas são advogados.
+Somente a partir de tal informação poderíamos chegar a esse item.
+
+D) quem escreve bem é poeta.
+
+
+---
+
+Alternativa incorreta. Trata-se do erro X, muito comum quando se está estudando proposições envolvendo
+condicional. Lembre-se sempre:
+
+                                         𝑝 ⟹𝑞 ⇎𝑞 ⟹𝑝
+
+De modo que se afirmarmos que todos os poetas escrevem bem, NÃO SERÁ VERDADE que todos que
+escrevem bem serão poetas!
+
+E) quem não é poeta não escreve bem.
+Alternativa incorreta. O item está errado pois parte do pressuposto que todo mundo que escreve bem são
+poetas, o que, de acordo com o discutido na letra D, não é verdade! Então, quem não é poeta pode sim
+escrever bem.
+
+Gabarito: LETRA A.
+
+
+---
+
+                              LISTA DE QUESTÕES - FGV
+
+Proposição Quantificada e Categórica
+
+1. (FGV/SEFAZ-ES/2022) A negação de “Nenhuma cobra voa” é
+A) Pelo menos uma cobra voa.
+B) Alguns animais que voam são cobras.
+C) Todas as cobras voam.
+D) Todos os animais que voam são cobras.
+E) Todas as cobras são répteis.
+
+2. (FGV/PM-AM/2022) Considere a afirmação: “Nenhum soldado escuta mal”. A sua negação é:
+A) Há pelo menos um soldado que escuta mal.
+B) Vários soldados escutam mal.
+C) Todos os soldados escutam mal.
+D) Todos os soldados escutam bem.
+E) Todas as pessoas que escutam bem são soldados.
+
+3. (FGV/SEFAZ-AM/2022) O diretor de uma empresa fez ao funcionário Miguel, do departamento
+financeiro, uma pergunta que foi prontamente respondida:
+
+Diretor: — João disse que todos os funcionários receberam gratificação.
+Miguel: — Não é verdade o que João disse.
+
+Se o diretor considerou que Miguel falou a verdade, é correto concluir que
+A) pelo menos um funcionário não recebeu gratificação.
+B) nenhum funcionário recebeu gratificação.
+C) um único funcionário não recebeu gratificação.
+D) mais da metade dos funcionários não receberam gratificação.
+E) somente um funcionário recebeu gratificação.
+
+4. (FGV/SEFAZ-AM/2022) Considere as afirmativas:
+
+- Alguns homens gostam de ler.
+- Quem gosta de ler vai à livraria.
+
+A partir dessas afirmativas é correto concluir que:
+A) Todos os homens vão à livraria.
+B) Mulheres não gostam de ler.
+C) Quem vai à livraria gosta de ler.
+D) Se um homem não vai à livraria então não gosta de ler.
+E) Quem não gosta de ler não vai à livraria.
+
+5. (FGV/SEFAZ-BA/2022) Considere a afirmação:
+
+
+---
+
+“À noite, todos os gatos são pretos.”
+
+Se essa frase é falsa, é correto concluir que
+A) De dia, todos os gatos são pretos.
+B) À noite, todos os gatos são brancos.
+C) De dia há gatos que não são pretos.
+D) À noite há, pelo menos, um gato que não é preto.
+E) À noite nenhum gato é preto.
+
+6. (FGV/IBGE/2022) No censo de 2010 Laura foi entrevistada pelo recenseador Mário.
+
+Início da entrevista:
+Mário – Quantas pessoas moram nesta casa?
+Laura – Quatro: eu, que me chamo Laura, meu marido João e meus dois filhos Alberto e Roberto
+Mário – Todos trabalham?
+Laura – Não.
+
+É correto concluir que:
+A) nenhuma das quatro pessoas trabalha.
+B) apenas uma das quatro pessoas não trabalha.
+C) apenas uma das quatro pessoas trabalha.
+D) pelo menos uma das quatro pessoas não trabalha.
+E) nenhuma das quatro pessoas possui emprego formal, com carteira assinada.
+
+7. (FGV/IBGE/2022) A negação lógica da sentença “Toda cobra é verde ou venenosa” é:
+A) Nenhuma cobra é verde ou venenosa.
+B) Toda cobra não é verde ou não é venenosa.
+C) Existe cobra que não é verde nem é venenosa.
+D) Toda cobra verde não é venenosa.
+E) Nenhuma cobra venenosa é verde.
+
+8. (FGV/IMBEL/2021) Considere verdadeira a afirmação:
+
+“Todo vegetal verde é saudável.”
+
+É correto concluir que:
+A) Todo vegetal saudável é verde.
+B) Todo vegetal que não é saudável não é verde.
+C) Todo vegetal que não é verde não é saudável.
+D) Alguns vegetais verdes não são saudáveis.
+E) Alguns vegetais que não são saudáveis são verdes.
+
+9. (FGV/FUNSAÚDE-CE/2021) Considere a sentença:
+
+“Todo urso branco é amigo da onça.”
+
+
+---
+
+A negação lógica dessa sentença é:
+A) Nenhum urso branco é amigo da onça.
+B) Algum urso branco não é amigo da onça.
+C) Todo urso marrom é amigo da onça.
+D) Nenhuma onça é amiga de urso branco.
+E) Algum urso não é branco e é amigo da onça.
+
+10. (FGV/FUNSAÚDE-CE/2021) O advogado de uma empresa afirmou ao diretor que:
+
+“Todos os processos relativos à empresa X foram finalizados”
+
+Dias depois, o diretor foi informado que essa afirmação não era verdadeira. O diretor concluiu logicamente
+que
+A) nenhum processo da empresa X foi finalizado.
+B) somente um processo da empresa X não foi finalizado.
+C) pelo menos um processo da empresa X não foi finalizado.
+D) foi finalizado pelo menos um processo que não se refere à empresa X.
+E) todos os processos finalizados não se referiam à empresa X.
+
+11. (FGV/FUNSAÚDE-CE/2021) Um dos diretores de certo hospital, falando sobre as enfermeiras que lá
+trabalham disse:
+
+“Todas as enfermeiras são formadas pela UFC.”
+
+Sabendo que essa afirmação não é verdadeira, é correto concluir que
+A) nenhuma enfermeira é formada pela UFC.
+B) nenhuma enfermeira é formada.
+C) alguma enfermeira é formada na Unifor.
+D) há, pelo menos, uma enfermeira que não é formada na UFC.
+E) há, pelo menos, uma enfermeira que não é formada.
+
+12. (FGV/PREF. PAULÍNIA/2021) Considere a sentença:
+
+“Todo advogado é bom orador.”
+
+A negação lógica dessa sentença é:
+A) Nenhum advogado é bom orador.
+B) Todo bom orador é advogado.
+C) Nenhum bom orador é advogado.
+D) Algum advogado não é bom orador.
+E) Algum bom orador não é advogado.
+
+13. (FGV/PREF. SALVADOR/2019) Se não é verdade que “Todo soteronito é soteronoso”, então é correto
+afirmar que
+
+
+---
+
+a) “Nenhum soteronito é soteronoso”.
+b) “Todo soteronoso é soteronito”.
+c) “Algum soteronito não é soteronoso”.
+d) “Algum soteronoso não é soteronito”.
+e) “Algum soteronito é soteronoso”.
+
+14. (FGV/IBGE/2019) João, o dono da casa, atende Célio, o recenseador. Início da entrevista:
+
+Célio – Quantas pessoas moram nesta casa?
+João – Três: eu, que me chamo João, minha esposa Maria e meu primo Pedro.
+Célio – Todos trabalham?
+João – Não.
+
+É correto concluir que:
+a) nenhuma das três pessoas trabalha;
+b) apenas uma das três pessoas não trabalha;
+c) apenas uma das três pessoas trabalha;
+d) pelo menos uma das três pessoas não trabalha;
+e) nenhuma das três pessoas possui emprego formal, com carteira assinada.
+
+15. (FGV/PREF. DE SALVADOR-BA/2019) Considere a afirmação:
+
+"Todo estudante que gosta de Matemática também gosta de Ciências Biológicas."
+
+Considerando que essa sentença é falsa, é correto concluir que:
+A) "Todo estudante que não gosta de Matemática gosta de Ciências Biológicas."
+B) "Nenhum estudante que gosta de Matemática também gosta de Ciências Biológicas."
+C) "Todo estudante que gosta de Matemática não gosta de Ciências Biológicas."
+D) “Algum estudante que gosta de Matemática não gosta de Ciências Biológicas."
+E) “Algum estudante que não gosta de Matemática gosta de Ciências Biológicas.”
+
+16. (FGV/MPE-AL/2018) Considere a afirmação: “Existem insetos que não são pretos”. Se essa afirmação
+é falsa, então é verdade que:
+A) nenhum inseto é preto.
+B) todo inseto é preto.
+C) todos os animais pretos são insetos.
+D) nenhum animal preto é inseto.
+E) nem todos os insetos são pretos.
+
+17. (FGV/CGM Niterói/2018) A negação de “Nenhum analista é magro” é
+
+
+---
+
+a) “Há pelo menos um analista magro”.
+b) “Alguns magros são analistas”.
+c) “Todos os analistas são magros”.
+d) “Todos os magros são analistas”.
+e) “Todos os analistas não são magros”.
+
+18. (FGV/TJ-SC/2018) Considere a sentença: “Todo catarinense gosta de camarão ou é torcedor do
+Figueirense”. A negação lógica da sentença dada é:
+a) Nenhum catarinense gosta de camarão ou é torcedor do Figueirense;
+b) Todo catarinense gosta de camarão, mas não é torcedor do Figueirense;
+c) Todo catarinense não gosta de camarão e não é torcedor do Figueirense;
+d) Algum catarinense não gosta de camarão e não é torcedor do Figueirense;
+e) Algum catarinense não gosta de camarão ou não é torcedor do Figueirense.
+
+19. (FGV/ALE-RO/2018) Considere verdadeira a afirmação:
+
+                            “Todo parlamentar conhece bem a Constituição”.
+
+É correto concluir que
+a) “Se uma pessoa conhece bem a Constituição então é parlamentar.”
+b) “Se uma pessoa não é um parlamentar então não conhece bem a Constituição.”
+c) “Se uma pessoa não conhece bem a constituição então não é parlamentar.”
+d) “Existe um parlamentar que não conhece bem a Constituição.”
+e) “Não existe pessoa que conheça bem a Constituição e não seja parlamentar.”
+
+20. (FGV/COMPESA/2018) Considere a sentença a seguir.
+
+                       “Todo pernambucano gosta de peixe e torce pelo Náutico.”
+
+A negação lógica da sentença dada é
+a) “Nenhum pernambucano gosta de peixe e torce pelo Náutico.”
+b) “Todo pernambucano não gosta de peixe e não torce pelo Náutico.”
+c) “Algum pernambucano não gosta de peixe e não torce pelo Náutico.”
+d) “Algum pernambucano não gosta de peixe ou não torce pelo Náutico.”
+e) “Algum pernambucano gosta de peixe e não torce pelo Náutico.”
+
+21. (FGV/COMPESA/2018) Considere a afirmação: "Todas as pessoas que tomam limonada não ficam
+resfriadas." Se esta afirmação não é verdadeira, é correto concluir que:
+A) “Alguma pessoa que toma limonada fica resfriada.”
+B) “Alguma pessoa que não toma limonada fica resfriada.”
+
+
+---
+
+C) “Todas as pessoas que não tomam limonada ficam resfriadas.”
+D) “Todas as pessoas que não ficam resfriadas tomam limonada.”
+E) “Todas as pessoas que ficam resfriadas não tomam limonada.”
+
+22. (IBGE/TRT-12/2017) Em uma caixa só pode haver bolas pretas ou brancas. Sabe-se que a caixa não está
+vazia e que não é verdade que “todas as bolas na caixa são pretas”. Então é correto concluir que:
+a) nenhuma bola na caixa é preta;
+b) todas as bolas na caixa são brancas;
+c) há pelo menos uma bola preta na caixa;
+d) há pelo menos uma bola branca na caixa;
+e) há bolas pretas e bolas brancas na caixa.
+
+23. (FGV/IBGE/2017) Considere como verdadeira a seguinte sentença: “Se todas as flores são vermelhas,
+então o jardim é bonito”. É correto concluir que:
+a) se todas as flores não são vermelhas, então o jardim não é bonito;
+b) se uma flor é amarela, então o jardim não é bonito;
+c) se o jardim é bonito, então todas as flores são vermelhas;
+d) se o jardim não é bonito, então todas as flores não são vermelhas;
+e) se o jardim não é bonito, então pelo menos uma flor não é vermelha.
+
+24. (FGV/SEPOG-RO/2017) Considere a afirmação:
+
+“Toda pessoa que faz exercícios não tem pressão alta”.
+
+De acordo com essa afirmação é correto concluir que:
+A) se uma pessoa tem pressão alta então não faz exercícios.
+B) se uma pessoa não faz exercícios então tem pressão alta.
+C) se uma pessoa não tem pressão alta então faz exercícios.
+D) existem pessoas que fazem exercícios e que têm pressão alta.
+E) não existe pessoa que não tenha pressão alta e não faça exercícios.
+
+25. (FGV/MPE-BA/2017) Considere a afirmação:
+
+                                    “Todo baiano é um homem feliz”.
+
+Uma afirmação logicamente equivalente é:
+A) Todo homem feliz é baiano;
+B) Um homem que não é feliz não é baiano;
+C) Quem não é baiano não é feliz;
+D) Um homem é baiano ou é feliz;
+
+
+---
+
+E) Um homem não é feliz ou não é baiano.
+
+26. (FGV/TRT-12/2017) Em um tribunal os processos possuem capas totalmente de cor cinza ou
+totalmente de cor azul. Sabe-se também que: Os processos de capa cinza não vão para o arquivo. É correto
+concluir que:
+A) todo processo de capa azul vai para o arquivo;.
+B) todo processo que vai para o arquivo tem capa azul;
+C) a capa de um processo que não é arquivado é certamente cinza;
+D) alguns processos que são arquivados têm capa cinza;
+E) nenhum processo de capa azul vai para o arquivo.
+
+27. (FGV/TRT-12/2017) Todas as pessoas que conhecem os irmãos Bernardo e Bianca gostam de Bianca.
+Entretanto, algumas pessoas que conhecem Bianca não gostam dela. É correto concluir que:
+A) todos os que conhecem Bianca gostam dela;
+B) ninguém gosta de Bianca;
+C) alguns que conhecem Bianca não conhecem Bernardo;
+D) quem conhece Bernardo gosta de Bianca;
+E) só quem conhece Bernardo e Bianca conhece Bianca.
+
+28. (FGV/IBGE/2017) Marcelo foi chamado para uma reunião com seu chefe. Nessa reunião ocorreu o
+seguinte diálogo:
+
+- Chefe: Pedro disse que todos os relatórios que ele recebeu foram avaliados.
+- Marcelo: Não é verdade o que Pedro disse.
+
+Se o chefe considerou que Marcelo falou a verdade, ele pode concluir logicamente que, dos relatórios
+recebidos por Pedro:
+A) pelo menos um relatório não foi avaliado;
+B) um único relatório não foi avaliado;
+C) nenhum relatório foi avaliado;
+D) mais da metade dos relatórios não foram avaliados;
+E) somente um relatório foi avaliado.
+
+29. (FGV/MRE/2016) João olhou as dez bolas que havia em um saco e afirmou:
+
+                                 “Todas as bolas desse saco são pretas”.
+
+Sabe-se que a afirmativa de João é falsa. É correto concluir que:
+a) nenhuma bola desse saco é preta;
+b) pelo menos nove bolas desse saco são pretas;
+
+
+---
+
+c) pelo menos uma bola desse saco é preta;
+d) pelo menos uma bola desse saco não é preta;
+e) nenhuma bola desse saco é branca.
+
+30. (FGV/DPE-RO/2015) Considere a afirmação: “Nenhum pintor é cego”. A negação dessa afirmação é:
+A) Há pelo menos um pintor cego.
+B) Alguns cegos não são pintores.
+C) Todos os pintores são cegos.
+D) Todos os cegos são pintores.
+E) Todos os pintores não são cegos.
+
+31. (FGV/SSP-AM/2015) Considere a afirmação: “Todo animal de 4 patas é mamífero”. A negação dessa
+afirmação é:
+A) Nenhum animal de 4 patas é mamífero.
+B) Qualquer animal de 4 patas não é mamífero.
+C) Nenhum mamífero tem 4 patas.
+D) Existe animal mamífero que não tem 4 patas.
+E) Existe animal de 4 patas que não é mamífero.
+
+32. (FGV/PREF. de CUIABÁ/2015) O chefe da segurança de uma empresa disse: “Todo vigilante é uma
+pessoa atenta”. O diretor respondeu: “Isso não é verdade.” É correto concluir que:
+A) nenhum vigilante é atento.
+B) a maioria dos vigilantes não são atentos.
+C) uma pessoa que não é atenta, não é vigilante.
+D) toda pessoa atenta não é vigilante.
+E) pelo menos um vigilante não é atento.
+
+33. (FGV/MPE-MS/2013) Considerando a afirmativa “Todos os lápis que estão nesta caixa são vermelhos"
+como falsa, analise as afirmativas a seguir.
+
+I. Todos os lápis que estão nesta caixa não são vermelhos.
+II. Algum lápis que está nesta caixa não é vermelho.
+III. Nenhum lápis que está nesta caixa é vermelho.
+
+Assinale:
+A) se somente a afirmativa I é obrigatoriamente correta.
+B) se somente a afirmativa II é obrigatoriamente correta.
+C) se somente a afirmativa III é obrigatoriamente correta.
+D) se somente as afirmativas I e III são obrigatoriamente corretas.
+E) se somente as afirmativas II e III são obrigatoriamente corretas.
+
+
+---
+
+34. (FGV/AL-MT/2013) Certo deputado fez a seguinte afirmação sobre os trabalhos da semana:
+
+“Todos os itens da pauta serão votados”.
+
+Na semana seguinte, verificou-se que essa afirmação foi falsa. É correto concluir que:
+A) Nenhum item da pauta foi votado.
+B) Somente um item da pauta não foi votado.
+C) Pelo menos um item da pauta não foi votado.
+D) Foi votado algum item fora da pauta.
+E) Todos os itens votados estavam fora da pauta.
+
+35. (FGV/SUDENE-PE/2013) Supondo que a afirmativa “Todos os estados do Nordeste sofrem com a seca
+ou com o excesso de chuvas” seja falsa, analise as afirmativas a seguir:
+
+I. “Nenhum estado do Nordeste sofre com a seca ou com o excesso de chuvas”.
+II. “Algum estado do Nordeste não sofre com a seca”.
+III. “Algum estado do Nordeste sofre com o excesso de chuvas”.
+
+Assinale:
+A) se somente a afirmativa I é obrigatoriamente correta.
+B) se somente a afirmativa II é obrigatoriamente correta.
+C) se somente a afirmativa III é obrigatoriamente correta.
+D) se somente as afirmativas I e III são obrigatoriamente corretas.
+E) se somente as afirmativas II e III são obrigatoriamente corretas.
+
+36. (FGV/TJ-AM/2013) Se não é verdade que “Todos assistentes judiciários de determinado fórum são
+formados em advocacia”, então é necessariamente verdade que:
+A) nenhum assistente judiciário desse fórum é formado em advocacia.
+B) todos assistentes judiciários desse fórum não são formados em advocacia.
+C) ninguém formado em advocacia é assistente judiciário desse fórum.
+D) alguém formado em advocacia é assistente judiciário desse fórum.
+E) algum assistente judiciário desse fórum não é formado em advocacia.
+
+
+---
+
+                GABARITO
+1. LETRA A    13. LETRA C   25. LETRA B
+2. LETRA A    14. LETRA D   26. LETRA B
+3. LETRA A    15. LETRA D   27. LETRA C
+4. LETRA D    16. LETRA B   28. LETRA A
+5. LETRA D    17. LETRA A   29. LETRA D
+6. LETRA D    18. LETRA D   30. LETRA A
+7. LETRA C    19. LETRA C   31. LETRA E
+8. LETRA B    20. LETRA D   32. LETRA E
+9. LETRA B    21. LETRA A   33. LETRA B
+10. LETRA C   22. LETRA D   34. LETRA C
+11. LETRA D   23. LETRA E   35. LETRA B
+12. LETRA D   24. LETRA A   36. LETRA E
+
+
+---
+
+                             LISTA DE QUESTÕES - FGV
+
+Diagramas Lógicos
+
+1. (FGV/MPE-SC/2022) Sabe-se que:
+
+- Todo A é B.
+- Nem todo B é C.
+
+É correto concluir que:
+A) todo A é C;
+B) nenhum A é C;
+C) algum C não é B;
+D) algum B não é C;
+E) algum C não é A.
+
+2. (FGV/SEFAZ-ES/2021) Considere as afirmativas a seguir:
+
+I. Todo auditor que fiscaliza a contabilidade de empresas também presta orientações sobre legislação
+tributária, mas nenhum auditor que presta orientações sobre legislação tributária instaura processos
+administrativos fiscais.
+II. Todo auditor que apreende mercadorias irregulares faz o controle aduaneiro, e alguns auditores que
+fazem controle aduaneiro, instauram processos administrativos fiscais.
+III. Nenhum auditor que faz o controle aduaneiro presta orientação tributária.
+
+Sendo certo que não há auditor que execute conjuntamente as funções de controle aduaneiro, apreensão
+de mercadorias irregulares e de instauração de processos administrativos-fiscais, é correto concluir que:
+(A) nenhum auditor que apreende mercadorias irregulares também fiscaliza a contabilidade de empresas.
+(B) todo auditor que faz o controle aduaneiro também apreende mercadorias irregulares.
+(C) todo auditor que presta orientações sobre a legislação tributária também fiscaliza a contabilidade de
+empresas.
+(D) pelo menos um auditor que apreende mercadorias irregulares também instaura processos
+administrativos-fiscais.
+(E) pelo menos um auditor que fiscaliza a contabilidade de empresas também instaura processos
+administrativos-fiscais.
+
+3. (FGV/PREF. SALVADOR/2019) Considere as afirmativas a seguir.
+
+- “Alguns homens jogam xadrez”.
+- “Quem joga xadrez tem bom raciocínio”.
+
+A partir dessas afirmações, é correto concluir que
+a) “Todos os homens têm bom raciocínio”.
+
+
+---
+
+b) “Mulheres não jogam xadrez”.
+c) “Quem tem bom raciocínio joga xadrez”.
+d) “Homem que não tem bom raciocínio não joga xadrez”.
+e) “Quem não joga xadrez não tem bom raciocínio”.
+
+4. (FGV/BANESTES/2018) Em certa empresa são verdadeiras as afirmações:
+
+I. Qualquer gerente é mulher.
+II. Nenhuma mulher sabe trocar uma lâmpada.
+
+É correto concluir que, nessa empresa:
+A) algum gerente é homem
+B) há gerente que sabe trocar uma lâmpada
+C) todo homem sabe trocar uma lâmpada;
+D) todas as mulheres são gerentes;
+E) nenhum gerente sabe trocar uma lâmpada.
+
+5. (IBGE/TRT-12/2017) Em uma caixa só pode haver bolas pretas ou brancas. Sabe-se que a caixa não está
+vazia e que não é verdade que “todas as bolas na caixa são pretas”. Então é correto concluir que:
+a) nenhuma bola na caixa é preta;
+b) todas as bolas na caixa são brancas;
+c) há pelo menos uma bola preta na caixa;
+d) há pelo menos uma bola branca na caixa;
+e) há bolas pretas e bolas brancas na caixa.
+
+6. (FGV/IBGE/2017) Em um jogo há fichas brancas e pretas sendo algumas redondas, outras quadradas e
+outras triangulares. Não há fichas de outras cores ou de outros formatos. Considere como verdadeira a
+afirmação:
+
+                               “Qualquer ficha branca não é quadrada.”
+
+É correto concluir que:
+A) toda ficha preta é quadrada;
+B) toda ficha quadrada é preta;
+C) uma ficha que não é redonda é certamente branca;
+D) uma ficha que não é quadrada é certamente preta;
+E) algumas fichas triangulares são pretas.
+
+7. (FGV/PREF. DE CUIABÁ-MT/2015) Em certa comunidade são verdadeiras as seguintes afirmações:
+
+
+---
+
+I. Todo motorista é homem.
+II. Nenhum homem sabe cozinhar.
+
+É correto afirmar que:
+A) algum motorista é mulher.
+B) algum motorista sabe cozinhar.
+C) toda mulher sabe cozinhar.
+D) todo homem é motorista.
+E) nenhum motorista sabe cozinhar.
+
+8. (FGV/DPE-MT/2015) Considere verdadeiras as afirmações a seguir:
+
+•   Existem advogados que são poetas.
+•   Todos os poetas escrevem bem.
+
+Com base nas afirmações, é correto concluir que
+A) se um advogado não escreve bem então não é poeta.
+B) todos os advogados escrevem bem.
+C) quem não é advogado não é poeta.
+D) quem escreve bem é poeta.
+E) quem não é poeta não escreve bem.
+
+
+---
+
+               GABARITO
+1.   LETRA D
+2.   LETRA A
+3.   LETRA D
+4.   LETRA E
+5.   LETRA E
+6.   LETRA B
+7.   LETRA E
+8.   LETRA A
+
+
+---

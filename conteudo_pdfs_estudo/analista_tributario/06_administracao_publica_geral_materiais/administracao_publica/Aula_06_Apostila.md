@@ -1,0 +1,3600 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 06_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '06'
+titulo_aula: Administração Pública
+---
+
+# Administração Pública
+
+Aula 05
+                          Receita Federal (Analista Tributário)
+                                       Administração Pública
+
+                                                         Autor:
+                                               Stefan Fantini
+
+                                         22 de Fevereiro de 2025
+
+---
+
+      Stefan Fantini
+      Aula 05
+
+                                                                                     Índice
+1) Gestão por Resultados
+
+
+2) Questões Gestão por Resultados
+
+                Receita Federal (Analista Tributário) Administração Pública                                                                                                               2
+                www.estrategiaconcursos.com.br                                                                                                                                           71
+
+                                                             
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Olá, amigos do Estratégia Concursos, tudo bem?
+Preparados para mais uma aula? Então vamos em frente! ☺
+Um grande abraço,
+Stefan Fantini
+
+Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, siga meu Instagram, se inscreva no
+meu Canal no YouTube e participe do meu canal no TELEGRAM:
+
+                                          @prof.stefan.fantini
+                                https://www.instagram.com/prof.stefan.fantini
+
+                                              Stefan Fantini
+                     https://www.youtube.com/channel/UCptbQWFe4xIyYBcMG-PNNrQ
+
+        Receita Federal (Analista Tributário) Administração Pública                            3
+        www.estrategiaconcursos.com.br                                                         71
+
+                                                         1
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+                                          t.me/admconcursos
+
+Os canais foram feitos especialmente para você! Então, será um enorme prazer contar com a sua
+presença nos nossos canais! ☺
+
+        Receita Federal (Analista Tributário) Administração Pública                        4
+        www.estrategiaconcursos.com.br                                                     71
+
+                                                     2
+
+
+---
+
+   Stefan Fantini
+   Aula 05
+
+Sumário
+
+Gestão para Resultados 
+
+   1 - Administração Pública Gerencial – Gerencialismo (A Nova Gestão Pública) 
+
+   2 – Introdução da Gestão para Resultados na Administração Pública Federal 
+
+   3 – Conceito e Características da Gestão para Resultados 
+
+   4 – Objetivos da Gestão para Resultados 
+
+   5 – Ciclo da gestão para resultados (Etapas da Gestão por Resultados) 
+
+   6 – Benefícios/Vantagens da Gestão por Resultados 
+
+   7 – O Paradigma do Cliente na Administração Pública 
+
+   8 – Contratualização de Resultados 
+
+   9 – Modelos de Gestão em Direção aos Resultados 
+
+Resumo Estratégico 
+
+          Receita Federal (Analista Tributário) Administração Pública                                                                 5
+          www.estrategiaconcursos.com.br                                                                                             71
+
+                                                                                               3
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                                   GESTÃO PARA RESULTADOS
+
+1 - Administração Pública Gerencial – Gerencialismo (A Nova Gestão
+Pública)
+
+Antes de adentramos especificamente ao estudo da Gestão para Resultados (GPR), é necessário
+que façamos uma breve revisão sobre o surgimento da Administração Pública Gerencial no Brasil,
+também conhecida como Nova Gestão Pública. Isso, pois, a GPR está inserida dentro do contexto
+da Administração Pública gerencial.1
+
+Na segunda metade do século XX, em meio à crise do Estado de Bem-Estar Social, e à crise fiscal
+dos Estados (os Estados não possuíam mais recursos), em um período marcado pelo
+desenvolvimento tecnológico, globalização e expansão das funções econômicas e sociais do
+Estado, surge um novo modelo de administração pública: a Administração Gerencial.
+
+A administração gerencial, inspirada na administração de empresas privadas, contrapõe-se à
+ideologia do formalismo e do rigor técnico da burocracia tradicional. Contudo, incorpora diversos
+princípios da administração burocrática. À avaliação sistemática, à recompensa pelo desempenho,
+e à capacitação permanente, que já eram características da boa administração burocrática,
+acrescentam-se os princípios da orientação para o cidadão-cliente, do controle por resultados, e
+da competição administrada.
+
+Quando falamos em Administração Pública Gerencial, não podemos deixar de mencionar o
+Ministro Bresser Pereira, responsável pela elaboração do Plano Diretor de Reforma do Aparelho
+do Estado - 1995 (PDRAE). A gestão por resultados começou a ser introduzida e implantada no
+Brasil através da Reforma de 1995 (PDRAE).
+
+A reforma do aparelho do Estado passa a ser orientada predominantemente pelos valores da
+eficiência e qualidade na prestação de serviços públicos e pelo desenvolvimento de uma cultura
+gerencial nas organizações.
+
+Diferentemente da administração pública burocrática (que tinha como foco os processos /
+“meios”), a Administração Pública Gerencial tem foco nos resultados (nos “fins”). Na
+Administração Pública Gerencial, o controle passa a ser nos resultados, e não apenas nos
+processos (controles estritamente formais).
+
+A administração pública gerencial vê o cidadão como contribuinte de impostos e como cliente dos
+seus serviços. Os resultados da ação do Estado são considerados bons não porque os processos
+administrativos estão sob rígido controle (como é na administração pública burocrática), mas
+porque as necessidades do cidadão-cliente estão sendo atendidas.
+
+
+1
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 314.
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                6
+            www.estrategiaconcursos.com.br                                                                             71
+
+                                                                                 4
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                                      BUROCRACIA
+                               Foco nos processos / "meios"
+                                                                          GERENCIALISMO
+                                     Controle a piori
+                                                                  Foco nos "resultados" / "fins"
+                                 (controle dos processos)
+                                                                       Controle a posteriori
+                                                                     (controle dos resultados)
+
+Segundo Bresser Pereira, “algumas características básicas definem a administração pública
+gerencial. É orientada para o cidadão e para a obtenção de resultados; pressupõe que os políticos
+e os funcionários públicos são merecedores de um grau real ainda que limitado de confiança;
+como estratégia, serve-se da descentralização e do incentivo à criatividade e à inovação.”2
+
+                                                            ESQUEMATIZANDO!
+
+
+                                                                          Foco nos resultados
+
+
+                                                            Controle dos resultados (controle a posteriori)
+
+
+                                                                  Orientação para o cidadão-cliente
+
+
+                                                                Incentivo à inovação e à criatividade
+                   PRINCIPAIS
+               CARACTERÍSTICAS DA
+                                                                      Competição Administrada
+                 ADMINISTRAÇÃO
+               PÚBLICA GERENCIAL
+                                                                    Preocupação com a Qualidade
+
+
+                                                                           Descentralização
+
+
+                                                                             Fexibilização
+
+
+                                                                   Horizontalização de estruturas
+
+2
+    (BRESSER-PEREIRA, 1997).
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                           7
+            www.estrategiaconcursos.com.br                                                                        71
+
+                                                                            5
+
+
+---
+
+   Stefan Fantini
+   Aula 05
+
+Carlos César Pimenta3 elenca 08 princípios inerentes às reformas gerenciais:
+
+         Foco no cidadão: O foco é atender as necessidades do cidadão-cliente.
+
+         Descentralização: A descentralização das decisões é baseada na confiança (ainda que
+         limitada) dos administradores públicos. Aí vemos também uma ideia de horizontalização de
+         estruturas (a estrutura organizacional passa a ter menos níveis hierárquicos).
+
+         Accountability: É o dever de prestar contas aliado ao dever de agir de forma ética e
+         transparente.
+
+         Desburocratização: O modelo gerencial deve buscar eliminar as disfunções da burocracia.
+         Aquelas características que “emperram” a máquina pública. Eliminar os “gargalos”
+         burocráticos.
+
+         Competitividade: A competitividade está intimamente relacionada à eficiência.
+
+         Imagine que só exista uma empresa no Brasil que venda hambúrgueres: o Mc Donald´s.
+         Todas as vezes que você vai lá para comer um lanche, fica mais de uma hora na fila, é mal
+         atendido e o lanche vem frio. Ora, como só existe o MC Donald’s, sempre que você tem
+         vontade de comer hambúrguer, acaba tendo que ir até lá; você não tem outra opção!
+
+         Um belo dia, o Burguer King e o Wendy´s decidem vir para o Brasil, e entrar na concorrência
+         dos hambúrgueres. Essas empresas começam a prestar um serviço de altíssima qualidade,
+         com atendimento rápido e hambúrgueres quentinhos. (uhmm, falar em hambúrguer está
+         me deixando com fome...)
+
+         Pois bem, o que acontece com o MC Donald´s? Certamente irá perder muita clientela. Se o
+         MC Donald´s não se reinventar, estará fadado à falência.
+
+         Agora, vamos trazer este nosso exemplo para o setor público. O gerencialismo tem por
+         objetivo criar competição, sempre que possível, entre o setor público e o setor privado. Em
+         outras palavras, deve-se “quebrar o monopólio” estatal, sempre que for possível. Tal prática
+         aumenta a eficiência e a eficácia na prestação dos serviços.
+
+         Ética: Os princípios éticos devem sempre nortear a administração.
+
+         Transparência: A transparência é uma importante ferramenta para o exercício do controle
+         social.
+
+3 PIMENTA (1998) apud PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 108.
+
+          Receita Federal (Analista Tributário) Administração Pública                                                                8
+          www.estrategiaconcursos.com.br                                                                                             71
+
+                                                                                               6
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+       Profissionalismo: O servidor deve ser capacitado para o exercício de suas funções. Busca-se
+       que o cargo ocupado pelo servidor seja sua principal atividade. Assim, poderá desempenhá-
+       la da melhor maneira possível.
+
+                                                     ESQUEMATIZANDO!
+
+                                                  Foco no cidadão
+
+
+                            Competitividade                             Descentralização
+
+                                                    PRINCÍPIOS
+                                                       DAS
+                              Ética                 REFORMAS                Accountability
+                                                    GERENCIAIS
+
+                          Transparência                               Desburocratização
+
+
+                                                  Profissionalismo
+
+O Novo Gerencialismo Público, Nova Gestão Pública ou Nova Administração Pública (NAP) consiste
+em um conjunto de doutrinas, que pretendia que os princípios gerenciais aplicados nas empresas
+privadas fossem também utilizados no setor público.
+
+Identificam-se, dentro da Nova Administração Pública, três estágios: o Gerencialismo Puro; o
+Consumerism; e o Public Servic Orientation (PSO).
+
+Cada um desses estágios possui algumas peculiaridades próprias, como a forma com que o
+“usuários de serviço público” é visto pelos órgãos governamentais. Contudo, a maior parte das
+características é comum a todos os estágios.
+
+        Receita Federal (Analista Tributário) Administração Pública                              9
+        www.estrategiaconcursos.com.br                                                           71
+
+                                                           7
+
+
+---
+
+    Stefan Fantini
+    Aula 05
+
+Faz-se necessário, ainda, relembramos os conceitos de eficiência, eficácia e efetividade:
+
+
+                                   Utilização de         Fazer de forma          Relaciona-se
+              EFICIÊNCIA                                                                               Foco Interno
+                                     recursos                correta              aos Meios
+
+                                    Alcance dos           Fazer a coisa          Relaciona-se
+               EFICÁCIA                                                                                Foco Externo
+                                    resultados               certa                 aos Fins
+
+                                                             Gerar               Relaciona-se
+                                      Impacto
+              EFETIVIDADE                                  benefícios,          aos Benefícios         Foco Externo
+                                      causado
+                                                         transformação             gerados
+
+2 – Introdução da Gestão para Resultados na Administração Pública
+Federal
+
+Conforme vimos, a Gestão para Resultados (ou Gestão por Resultados) encontra-se inserida no
+contexto administração pública gerencial, sendo caracterizada, segundo Paludo4, como uma
+poderosa ferramenta para monitoramento e avaliação das ações governamentais dentro de um
+sistema democrático.
+
+A gestão por resultados começou a ser introduzida e implantada no Brasil através da Reforma de
+1995 (PDRAE). Contudo, Paludo5 explica que a gestão por resultados foi introduzida,
+formalmente, na Administração Pública Federal, através dos “programas” do Plano Plurianual
+(PPA) 2000-2003 (conhecido como “Avança Brasil”). Este PPA estruturou as ações governamentais
+em programas que continham objetivos e metas pré-determinados.
+
+O autor destaca que programa é “o instrumento utilizado pelo Governo para organizar suas ações:
+para resolver um problema, atender uma demanda, ou aproveitar uma oportunidade. É
+mensurado por indicadores; há toda uma estrutura de gestão e avaliação do plano; e demonstra
+as realizações do governo para a sociedade”.6
+
+Além da estruturação das ações governamentais em programas, o PPA 2000-2003 introduziu um
+novo agente integrante da Administração Pública: o gerente de programa. Gerente de programa é
+o agente da Administração Pública responsável pela obtenção de resultados. O gerente de
+
+4
+  PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 314.
+5
+  Ibid
+6
+  Ibid
+
+
+          Receita Federal (Analista Tributário) Administração Pública                                                     10
+          www.estrategiaconcursos.com.br                                                                                  71
+
+                                                                                    8
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+programa compete resolver os problemas no processo de implementação dos programas
+governamentais, com foco em alcançar os objetivos pré-determinados.7
+
+O modelo de GPR mantém-se em contínua evolução e, independente de qual for o caminho
+escolhido para otimizar os resultados na gestão pública, 02 aspectos são considerados essenciais8:
+
+           -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+           integração com o orçamento;
+
+           -a motivação do servidor público para o alcance das metas e objetivos dos programas
+           governamentais.
+
+Pode-se observar que a GPR introduzida com o PPA “Avança Brasil” (PPA 2000-2003), trouxe, entre
+outros aspectos, uma maior ligação entre planejamento e o orçamento público, e o planejamento
+passa a orientar a atuação da administração.
+
+(FGV – MPE-GO - Secretária Assistente - 2022)
+
+A mudança do momento de avaliação das tarefas atribuídas foi uma das grandes inovações da
+Administração Pública, proposta durante a reforma gerencial, ocorrida no Brasil ao final do século
+passado.
+
+Esse modelo de gestão é conhecido como gestão
+
+a) por resultados.
+
+b) por processos.
+
+c) procedimental.
+
+d) por supervisão direta.
+
+e) patrimonialista.
+
+Comentários:
+
+7
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 314
+8
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 315
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                               11
+            www.estrategiaconcursos.com.br                                                                            71
+
+                                                                                9
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Trata-se da gestão por resultados.
+
+O gabarito é a letra A.
+
+(FCC - SEFAZ-PI - Analista do Tesouro Estadual - Conhecimentos Gerais – 2015)
+
+Na Administração pública federal, a gestão pública por resultados foi introduzida com o PPA 2000-
+2003, denominado Avança Brasil. Esse modelo de Administração, tem como característica
+
+a) a avaliação de desempenho dos servidores, por meio do cumprimento das metas estabelecidas
+no Orçamento por Resultados.
+
+b) o planejamento estratégico orientando a elaboração do orçamento público.
+
+c) a instituição de remuneração por resultados, mediante o estabelecimento de contratos de
+gestão com os servidores.
+
+d) o fortalecimento do planejamento orientando a atuação administrativa e sua maior integração
+com o orçamento.
+
+e) a administração por objetivos, na qual são impostos aos administradores os resultados a serem
+alcançados.
+
+Comentários:
+
+Independente de qual for o caminho escolhido para otimizar os resultados na gestão pública, dois
+aspectos são considerados essenciais9:
+
+           -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+           integração com o orçamento;
+
+           -e a motivação do servidor público para o alcance das metas e objetivos dos programas
+           governamentais.
+
+O gabarito é a letra D.
+
+3 – Conceito e Características da Gestão para Resultados
+
+A Gestão para Resultados é uma forma de administrar o negócio da organização, como foco na
+priorização dos resultados em todas as ações de todos profissionais que atuam no negócio,
+
+
+9
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, p. 315
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                               12
+            www.estrategiaconcursos.com.br                                                                            71
+
+                                                                               10
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+objetivando a elevação do desempenho organizacional. A gestão por resultados se aplica tanto à
+gestão privada quanto à gestão pública.10
+
+Conforme explica Borges, quando uma organização aplica a gestão por resultados, ela decide
+que:11
+
+          -Os resultados são a referência-chave para todo o processo de sua gestão.
+
+          -Todos são responsáveis pelos resultados obtidos e pelos resultados “não obtidos”
+          (oportunidades perdidas).
+
+          -Todas as unidades de negócio devem ser integradas a caminharem juntas para os mesmos
+          resultados, cada uma contribuindo com as suas atribuições.
+
+          -A ênfase está nos resultados obtidos (e não nos processos e procedimentos).
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são12:
+
+          - Foco nos resultados.
+
+          - Políticas públicas formuladas a partir de processo de planejamento governamental.
+
+          - Caráter descentralizado da tomada de decisões.
+
+          - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+
+          - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+          processos administrativos.
+
+          - Alterações metodológicas no processo de formulação do orçamento público.
+
+          - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem
+          os recursos na obtenção dos resultados (sistemas de apuração de custos).
+
+          - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+
+10
+   BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia. Disponível em:
+http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+11
+   BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia. Disponível em:
+http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+12
+   MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012.
+p.3
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                               13
+           www.estrategiaconcursos.com.br                                                                            71
+
+                                                                              11
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+          - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental
+          e indicar os desvios para introdução de medidas corretivas.
+
+Serra destaca que a GPR é caracterizada através de 06 elementos:13
+
+        Estratégia: onde deve ser definido quais serão os resultados esperados de determinado
+        órgão público, em relação às mudanças sociais e à produção de bens e serviços.
+
+        Cultura: associada a um conjunto de ferramentas de gestão que tenham como enfoque a
+        melhoria da eficiência, eficácia, efetividade e produtividade relacionadas à utilização dos
+        recursos do Estado, com o objetivo de potencializar os resultados no desempenho das
+        organizações púbicas e de seus servidores.
+
+        Sistemas de informação que proporcionem a monitorização das ações públicas, a
+        identificação dos serviços realizados e a informação à sociedade, gerando, assim, uma
+        melhor avaliação e transparência dos serviços públicos.
+
+        Qualidade do serviço prestado ao cidadão: a qualidade deverá ser promovida através de
+        processos contínuos de melhoramento.
+
+        Sistemas de Contratação de funcionários de gerência publica: com o intuito de aprimorar a
+        responsabilidade, o compromisso e a capacidade das ações dos funcionários de gerência.
+
+        Sistema de informação que favoreçam e auxiliem a tomada de decisão de todos os
+        servidores que participam destes processos.
+
+Utilizando como parâmetro estes elementos descritos acima, Serra define a GPR como um “marco
+conceitual cuja função é a de facilitar às organizações públicas a direção efetiva e integrada de
+seus processos de criação de valor público, a fim de otimizá-lo, assegurando a máxima eficácia,
+eficiência e efetividade de desempenho, além da consecução dos objetivos de governo e a
+melhora contínua de suas instituições.” 14
+
+Em outras palavras, a GPR busca direcionar de forma efetiva, eficaz e eficiente as ações das
+organizações públicas em direção aos resultados planejados que gerem valor público, através de
+mecanismos de monitoramento e avaliação que proporcionem maior transparência,
+responsabilização e aprendizado.
+
+13
+   Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio
+Grande do Norte, SEARH 2008, pp. 36-37
+14
+   Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio
+Grande do Norte, SEARH 2008, pp 37
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                    14
+           www.estrategiaconcursos.com.br                                                                                 71
+
+                                                                                   12
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+(FGV – FUNSAÚDE - CE - Assistente Administrativo - 2021)
+
+A gestão por resultados no setor público, que se tornou relevante no Brasil após a reforma
+administrativa de 1995, foi fundamental para a revitalização da gestão pública e para a retomada
+do equilíbrio fiscal. Sobre o conceito de gestão por resultados, assinale a afirmativa correta.
+
+a) Fundamenta-se na no princípio da centralização política, no que diz respeito à delegação de
+competências.
+
+b) Preconiza o fortalecimento processual nas políticas públicas desenvolvidas pelos gestores.
+
+c) Prioriza a hierarquia decisória na tomada de decisão em detrimento do laissez-faire.
+
+d) Privilegia a flexibilização de recursos em conjunto com a responsabilização do gestor.
+
+e) Rechaça a ideia de confiança limitada, contrária à ideia de eficiência administrativa.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são15:
+
+          - Foco nos resultados.
+          - Políticas públicas formuladas a partir de processo de planejamento governamental.
+          - Caráter descentralizado da tomada de decisões.
+          - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+          - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+          processos administrativos.
+          - Alterações metodológicas no processo de formulação do orçamento público.
+          - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+          recursos na obtenção dos resultados (sistemas de apuração de custos).
+          - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+          - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+          indicar os desvios para introdução de medidas corretivas.
+
+
+15
+  MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012.
+p.3
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                              15
+           www.estrategiaconcursos.com.br                                                                           71
+
+                                                                             13
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+O gabarito é a letra D.
+
+(CESPE – INMETRO - Analista Executivo em Metrologia e Qualidade – Adaptada)
+
+Considerando que, no atual contexto de administração pública, uma boa gestão caracteriza-se por,
+ao mesmo tempo, alcançar resultados, atender a demandas e interesses de seus beneficiários e
+criar valor público, assinale a opção correta.
+
+Entre as ações que possibilitam o alcance de resultados na administração pública, incluem-se o
+alinhamento dos arranjos de implementação e a construção de mecanismos de monitoramento e
+avaliação capazes de promover aprendizado, transparência e responsabilização.
+
+Comentários:
+
+Isso mesmo! A GPR busca direcionar de forma efetiva, eficaz e eficiente as ações das organizações
+públicas em direção aos resultados planejados que gerem valor público, através de mecanismos de
+monitoramento e avaliação que proporcionem maior transparência, responsabilização e
+aprendizado.
+
+Gabarito: correta.
+
+(CESPE – TRE-PE – Analista Judiciário – 2017)
+
+Decisões descentralizadas, flexibilização de recursos, apuração de desempenho, monitoramento
+de execução de gestão e definição de indicadores são ações típicas da estratégia de gestão pública
+denominada gestão
+
+a) da mudança.
+
+b) por competências.
+
+c) da qualidade.
+
+d) social.
+
+e) por resultados.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+
+        Receita Federal (Analista Tributário) Administração Pública                              16
+        www.estrategiaconcursos.com.br                                                           71
+
+                                                          14
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são16:
+
+          - Foco nos resultados.
+          - Políticas públicas formuladas a partir de processo de planejamento governamental.
+          - Caráter descentralizado da tomada de decisões.
+          - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+          - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+          processos administrativos.
+          - Alterações metodológicas no processo de formulação do orçamento público.
+          - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+          recursos na obtenção dos resultados (sistemas de apuração de custos).
+          - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+          - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+          indicar os desvios para introdução de medidas corretivas.
+
+O gabarito é a letra E.
+
+4 – Objetivos da Gestão para Resultados
+
+De acordo com Serra, a GPR “é uma ferramenta cultural, conceitual e operacional, que se orienta a
+priorizar o resultado em todas as ações, e que é capaz de otimizar o desempenho governamental.
+Assim, se trata de um exercício de direção dos organismos públicos que procura conhecer e atuar
+sobre todos aqueles aspectos que afetem ou modelem os resultados da organização”.17
+
+Segundo Serra, o objetivo principal da GPR é o resultado (a GPR tem como propósito melhorar o
+resultado). Contudo, o objeto de atenção da GPR (o objeto de sua ação, ou seja, o fenômeno sobre
+qual a GPR intervém), é o processo que assegure a criação de valor público.18
+
+Conforme explica Moore, o valor público é criado quando são realizadas atividades capazes de
+gerar respostas efetivas e úteis a determinadas demandas ou necessidades que: 19
+
+          -Sejam politicamente desejáveis, como consequência de um processo de legitimação
+          democrática.
+
+
+16
+   MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012.
+p.3
+17
+   Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio
+Grande do Norte, SEARH 2008, p. 27
+18
+   Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio
+Grande do Norte, SEARH 2008, p. 29
+19
+   MOORE (1995) apud Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-
+Bradley y Estayes. Rio Grande do Norte, SEARH 2008, p. 30
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                    17
+           www.estrategiaconcursos.com.br                                                                                 71
+
+                                                                                   15
+
+
+---
+
+   Stefan Fantini
+   Aula 05
+
+          -Tenham propriedade coletiva (caracterizando, assim, sua natureza pública).
+
+          -Requeiram a geração de mudanças sociais (resultados) que modifiquem certos aspectos
+          do conjunto da sociedade.
+
+Conforme vimos, o objetivo principal da GPR é o resultado. Contudo, Serra destaca outros 03
+objetivos da GPR:20
+
+          -Oferecer elementos de informação, conhecimento e intervenção aos responsáveis pela
+          administração pública que lhes permitam controlar e maximizar o processo de criação de
+          valor, a fim de atingir o melhor resultado possível a respeito do que se espera da ação do
+          governo;
+
+          -Contribuir à melhoria da capacidade de prestação de contas das autoridades e
+          organizações públicas, para assim permitir que a sociedade, os órgãos de controle e a
+          comunidade internacional possam avaliar sua gestão;
+
+          -Auxiliar à alocação descentralizada dos objetivos e responsabilidades bem como à
+          avaliação do desempenho daqueles que exercem as funções gerenciais – correspondente
+          uso de incentivos e sanções.
+
+Importante destacar que o termo “resultado” não se aplica exclusivamente ao resultado “final” da
+ação governamental, mas também a todos os “resultados parciais” (“resultados intermediários”)
+obtidos no decorrer da gestão do processo de criação de valor, tais como: satisfação do usuário,
+capacitação de capital humano, entre outros.21
+
+No setor público, a noção de gestão para resultados relaciona-se ao atendimento das demandas
+dos cidadãos e à criação de valor público por meio de um gerenciamento integrado e eficiente de
+políticas, programas e projetos públicos.22
+
+(FCC – SEFAZ-SP – Agente Fiscal de Rendas – Adaptada)
+
+Uma gestão pública baseada em resultados implica geração de valor público, ou seja, a orientação
+para objetivos que ofereçam respostas efetivas a necessidades ou demandas socialmente legítimas
+da sociedade.
+
+
+20 Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio Grande do Norte, SEARH 2008, p.
+
+31
+21 Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio Grande do Norte, SEARH 2008, p.
+
+3
+22 CESPE, 2011
+
+            Receita Federal (Analista Tributário) Administração Pública                                                                                  18
+            www.estrategiaconcursos.com.br                                                                                                               71
+
+                                                                                                                 16
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Comentários:
+
+Isso mesmo! O objeto de atenção da GPR é o processo que assegure a criação de valor público.
+
+Conforme explica Moore, o valor público é criado quando são realizadas atividades capazes de
+gerar respostas efetivas e úteis a determinadas demandas ou necessidades que: 23
+
+          -Sejam politicamente desejáveis, como consequência de um processo de legitimação
+          democrática.
+          -Tenham propriedade coletiva (caracterizando, assim, sua natureza pública).
+          -Requeiram a geração de mudanças sociais (resultados) que modifiquem certos aspectos do
+          conjunto da sociedade.
+
+Gabarito: correta.
+
+5 – Ciclo da gestão para resultados (Etapas da Gestão por Resultados)
+
+De acordo com Peter Drucker, a gestão por resultados é composta por 05 etapas:24
+
+          1 – Revisão dos objetivos organizacionais: Os gestores devem ter uma visão clara dos
+          objetivos “macros”, bem como conhecer o planejamento estratégico e as ambições da
+          empresa.
+
+          2 – Definição dos objetivos dos colaboradores: Gestores e seus liderados devem se reunir
+          para firmar acordos sobre os objetivos e os resultados esperados com seu trabalho. Eles
+          também estabelecem um prazo para a apresentação destes resultados e avaliação do
+          desempenho.
+
+          3 – Monitoramento do processo: De tempos em tempos, antes da finalização do prazo
+          acordado, gestores e liderados se reúnem para verificar se os objetivos estão sendo
+          alcançados.
+
+          4 – Avaliação de desempenho: No final do período de funcionamento normal, o
+          desempenho do trabalhador é julgado de acordo com o atingimento ou não dos objetivos.
+
+          5 – Recompensa: Na última etapa do ciclo, os colaboradores recebem recompensas pelos
+          resultados obtidos.
+
+23
+   MOORE (1995) apud Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-
+Bradley y Estayes. Rio Grande do Norte, SEARH 2008, p. 30
+24
+   DRUCKER apud BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia.
+Disponível em: http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                19
+           www.estrategiaconcursos.com.br                                                                             71
+
+                                                                               17
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+ (IBEG - Prefeitura de Resende - RJ – Administrador – 2016)
+
+O termo gestão por resultados originou-se do inglês Management by objectives (MBO), também
+conhecido por Management by Results (MBR). É um conceito muito discutido no setor público no
+Brasil, e igualmente aplicável ao setor privado. Acerca do tema, assinale a alternativa correta:
+
+a) Os gestores não necessariamente devem ter uma visão clara dos objetivos maiores da empresa,
+basta apenas conhecer o planejamento estratégico da organização.
+
+b) A etapa de definição dos objetivos dos colaboradores é realizada pela chefia imediata, que
+estabelece, sem a interferência dos subordinados, metas e objetivos individuais, sem prazos para a
+apresentação dos resultados.
+
+c) Para monitorar o processo, periodicamente após a finalização dos prazos estabelecidos, nunca
+antes, os gestores e subordinados se reúnem para verificar se os objetivos estão sendo alcançados.
+
+d) Na última etapa do ciclo da gestão por resultados, os colaboradores recebem recompensas
+pelos resultados obtidos.
+
+e) Nenhuma das alternativas.
+
+Comentários:
+
+A questão se baseou nas 05 etapas da gestão por resultados, de Peter Drucker. De acordo com
+Peter Drucker, a gestão por resultados é composta por 05 etapas:25
+
+          1 – Revisão dos objetivos organizacionais: Os gestores devem ter uma visão clara dos
+          objetivos macros, conhecer o planejamento estratégico e as ambições da empresa.
+
+          2 – Definição dos objetivos dos colaboradores: Gestores e seus liderados devem se reunir
+          para firmar acordos sobre os objetivos e os resultados esperados com seu trabalho. Eles
+          também estabelecem um prazo para a apresentação destes resultados e avaliação do
+          desempenho.
+
+          3 – Monitoramento do processo: De tempos em tempos, antes da finalização do prazo
+          acordado, gestores e liderados se reúnem para verificar se os objetivos estão sendo
+          alcançados.
+
+
+25  DRUCKER apud BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia. Disponível em:
+http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+
+           Receita Federal (Analista Tributário) Administração Pública                                                            20
+           www.estrategiaconcursos.com.br                                                                                         71
+
+                                                                                           18
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+          4 – Avaliação de desempenho: No final do período de funcionamento normal, o
+          desempenho do trabalhador é julgado de acordo com o atingimento ou não dos objetivos.
+
+          5 – Recompensa: Na última etapa do ciclo, os colaboradores recebem recompensas pelos
+          resultados obtidos.
+
+O gabarito é a letra D.
+
+6 – Benefícios/Vantagens da Gestão por Resultados
+
+Dentre as vantagens/benefícios que a organização obtém ao implantar a Gestão por Resultados
+podem-se citar26:
+
+          Melhora da Motivação dos funcionários: ao se envolverem em todo o processo de
+          definição de objetivos, os funcionários reconhecem o valor de seu trabalho e se engajam
+          mais.
+
+          Melhorias na comunicação e coordenação: há uma aproximação natural dos líderes e seus
+          liderados, com troca de informações, feedbacks e colaboração, o que contribui com a
+          harmonia organizacional.
+
+          Maior clareza de objetivos: os funcionários tendem a ter um compromisso maior com os
+          objetivos que estabeleceram para si próprios do que com aqueles objetivos que lhes são
+          impostos por outra pessoa. Além disso, a clareza de objetivos contribui com a sensação de
+          “pertencimento” e, consequentemente, com a “autoestima” dos funcionários.
+
+          Melhorias na produtividade: funcionários mais engajados, com mais informações e com os
+          objetivos bem claros, produzem mais e melhor.
+
+          Melhora a accountability (prestação de contas e responsabilização).
+
+          Melhora a Transparência.
+
+          Melhora a qualidade dos serviços públicos.
+
+          Permite a ampliação da autonomia das Entidades, por meio da contratualização.
+
+26
+   Baseado especialmente em BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da
+Estratégia. Disponível em: http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                         21
+           www.estrategiaconcursos.com.br                                                                                      71
+
+                                                                                        19
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+7 – O Paradigma do Cliente na Administração Pública
+
+O Paradigma do Cliente na administração pública surgiu com o advento da Administração Pública
+Gerencial.
+
+De acordo com Paula, o governo deve atender às necessidades dos clientes (cidadãos); e não da
+burocracia. Os cidadãos estão cansados da burocracia, e querem ser mais valorizados como
+clientes. Logo, é recomendável a utilização da administração da qualidade e a criação de sistemas
+de prestação de serviços mais simples e transparentes. 27
+
+Na gestão pública poucas pessoas utilizam o termo cliente, e grande parte das organizações
+públicas não sabe quem, de fato, são seus “clientes”. Isso acontece, pois, os órgãos públicos, via de
+regra, não obtêm seus recursos diretamente dos clientes (os órgãos públicos recebem a maior
+parte de seus recursos do Legislativo e do Executivo).
+
+Além disso, grande parte dos “clientes” da administração pública é “cativo” e tem poucas
+“alternativas” para os serviços oferecidos por seus governos.
+
+Portanto, os órgãos públicos acabam tendo por objetivo satisfazer apenas às necessidades do
+Legislativo e do Executivo (que são quem fornecem os recursos); e passam a “ignorar” os seus
+verdadeiros clientes (os cidadãos).
+
+Nesse sentido, a ideia do Paradigma do Cliente é que esse pensamento deve acabar. O governo
+deve atender às necessidades dos clientes (cidadãos).
+
+Conforme explicam Osborne e Gaebler “a única melhor maneira de fazer com que os prestadores
+de serviços públicos respondam aos seus clientes é colocar os recursos nas mãos dos clientes e
+deixá-los escolher. Se os clientes controlam os recursos, são eles que escolhem o destino e a
+rota”.28
+
+Da mesma forma, os clientes querem ser valorizados como clientes (ou seja, querem menores
+filas, menores tempo de atendimento, etc.) e querem ter serviços de qualidade. Nesse sentido, a
+gestão da qualidade total torna-se fundamental para que o poder público possa prestar serviços
+de qualidade aos seus clientes.
+
+A adoção do paradigma do cliente na gestão pública (baseado na doutrina do "Public Service
+Orientation") busca criar uma cultura que congregue funcionários públicos, cidadãos e políticos,
+de modo a obter também a accountability dos resultados obtidos.29
+
+27
+   PAULA, Ana Paula Paes. Por uma nova gestão pública. Rio de Janeiro, FGV: 2007. p.63
+28
+   OSBORNE, David. GAEBLER, Ted. Reinventando o governo. Brasília, ENAP: 1994. P.190.
+29
+   CESPE (2013)
+
+
+           Receita Federal (Analista Tributário) Administração Pública                              22
+           www.estrategiaconcursos.com.br                                                           71
+
+                                                             20
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+(FGV - AL-MT - Técnico Legislativo - Nível Superior - ADAPTADA)
+
+O paradigma do cliente está relacionado à cultura de excelência que deve existir na prestação de
+serviços aos cidadãos.
+
+Comentários:
+
+Isso mesmo!
+                                                           ==219a34==
+
+O paradigma do cliente está relacionado à ideia de que os cidadãos querem ser valorizados como
+clientes e querem ter serviços de qualidade. Portanto, deve existir uma cultura de excelência na
+prestação de serviços ao cidadão.
+
+Gabarito: correta.
+
+8 – Contratualização de Resultados
+
+A contratualização de resultados é uma ferramenta relacionada à Administração Gerencial e à
+gestão por resultados, utilizada com o objetivo de conferir maior flexibilidade e autonomia às
+Entidades.
+
+De acordo com o Governo Federal, “a contratualização é o procedimento de ajuste de condições
+específicas no relacionamento entre o Poder Público e seus órgãos e entidades de direito público e
+privado ou entre o Poder Público e entidades da sociedade civil, em que há a negociação e o
+estabelecimento de metas de desempenho. A característica central dos contratos de gestão,
+termos de parceria e outros instrumentos do gênero é o pacto que se estabelece entre o Poder
+Público e a entidade signatária da pactuação de resultados, pois os contratos de gestão, termos de
+parceira e outros instrumentos do gênero podem variar quanto às suas finalidades.”30
+
+Ou seja, a contratualização de resultados consiste em um instrumento no qual são estabelecidos
+indicadores, responsabilidades, obrigações, recursos e metas de desempenho, com o objetivo de
+buscar garantir o atingimento dos resultados no intuito de que as necessidades dos cidadãos
+sejam atendidas. Ou seja, os mecanismos de “controle dos meios” / controle dos processos
+
+
+30
+  Secretaria de Gestão do MPOG apud SCHWARZ, Letícia. A Experiência de Contratualização de Resultados no Governo Federal
+Brasileiro. MPOG. Secretaria de Gestão. Brasília: 2009ã
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                               23
+           www.estrategiaconcursos.com.br                                                                            71
+
+                                                                              21
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+(característicos do modelo burocrático) perdem espaço, e o foco passa a ser no “controle dos fins”
+(alcance dos resultados).
+
+Essa contratualização pode ser realizada através de contratos de gestão, termos de parcerias,
+acordos de desempenho, termos de compromisso e outros instrumentos congêneres. A
+característica central de todos esses instrumentos é a pactuação de resultados.
+
+Conforme explica a Secretaria de Gestão do MPOG, “quando firmada dentro do próprio Poder
+Público, a contratualização visa ampliar a capacidade interna do governo de implantar políticas
+públicas setoriais, de forma coordenada e sinérgica. Quando ocorre entre o Poder Público e
+terceiros, visa estabelecer uma relação de fomento e parceria entre Estado e sociedade civil, para
+a execução de atividades que, por sua essencialidade ou relevância para a coletividade, possam ser
+assumidas de forma compartilhada, observadas a eficácia, a eficiência e a efetividade da ação
+pública.”31
+
+De acordo com o Gespública, “o contrato de gestão é um instrumento de pactuação de
+resultados, que relaciona secretarias responsáveis pela formulação de políticas públicas e
+entidades a elas vinculadas.”32
+
+O conteúdo formal do acordo de resultados é composto pelos seguintes elementos:33
+
+          -Objeto e finalidade do Acordo.
+
+          -Direitos, obrigações e responsabilidades do Acordante e do Acordado e compromissos dos
+          intervenientes.
+
+          -Autonomias gerencial, orçamentária e financeira.
+
+          -Critérios para o cálculo de prêmios de produtividade.
+
+          -Sistemática de Acompanhamento e Avaliação.
+
+          -Condições para revisão, renovação, prorrogação, suspensão e rescisão do Acordo.
+
+          -Consequências e Penalidades do Acordo.
+
+          -Publicidade do Acordo.
+
+          -Prazo de vigência.
+
+31
+   Secretaria de Gestão do MPOG apud SCHWARZ, Letícia. A Experiência de Contratualizaçao de Resultados no Governo Federal
+Brasileiro. MPOG. Secretaria de Gestão. Brasília: 2009.
+32
+  http://www.gespublica.gov.br/content/contratualiza%C3%A7%C3%A3o-de-resultados
+33
+  http://www.gespublica.gov.br/content/contratualiza%C3%A7%C3%A3o-de-resultados
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                24
+           www.estrategiaconcursos.com.br                                                                             71
+
+                                                                               22
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Dentre os objetivos de um acordo de resultados podem-se citar: 34
+
+          -viabilizar a estratégia de governo por meio da disseminação da contratualização de
+          resultados e sua respectiva avaliação.
+
+          -alinhar o planejamento e as ações do acordado com o planejamento estratégico do
+          Governo, com as políticas públicas instituídas e os demais programas governamentais.
+
+          -melhorar a qualidade, a produtividade, a eficiência e a efetividade dos serviços prestados
+          à sociedade.
+
+          -aprimorar o desempenho.
+
+          -melhorar a qualidade e a transparência do gasto público.
+
+          -dar transparência às ações das instituições públicas envolvidas e facilitar o controle social
+          sobre a atividade pública.
+
+          -estimular, valorizar e destacar servidores, dirigentes e órgãos ou entidades que cumpram
+          suas metas e atinjam os resultados previstos.
+
+          -promover maior flexibilidade às entidades.
+
+Schwarz explica que “o processo de contratualização de desempenho é um importante
+mecanismo de apoio à descentralização administrativa – o processo de negociação e
+estabelecimento de metas favorece o alinhamento da atividade descentralizada com os objetivos
+prioritários de governo e o monitoramento e avaliação sistemáticos contribuem para o
+aperfeiçoamento da gestão e das relações entre as instâncias de formulação e implementação das
+políticas públicas.“35
+
+(FCC – TCE-CE – Procurador de Contas – 2015 - Adaptada)
+
+A contratualização de resultados tem sido apontada como uma das principais estratégias da Nova
+Gestão Pública, capaz de promover mudanças substantivas na qualidade dos serviços
+públicos. Sobre o tema, considere:
+
+ http://www.gespublica.gov.br/sites/default/files/documentos/minas_gerais_contratualizacao_de_resultados2.pdf
+34
+35
+  SCHWARZ, Letícia. A Experiência de Contratualizaçao de Resultados no Governo Federal Brasileiro. MPOG. Secretaria de
+Gestão. Brasília: 2009.
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                              25
+           www.estrategiaconcursos.com.br                                                                           71
+
+                                                                             23
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+São objetivos da contratualização de resultados: promover mais flexibilidade, transparência de
+custos, melhor desempenho, aumento da qualidade, produtividade, eficiência e efetividade na
+prestação de serviços públicos.
+
+Comentários:
+
+Isso mesmo!
+
+A assertiva elencou, corretamente, alguns dos objetivos da contratualização de resultados.
+
+Gabarito: correta.
+
+9 – Modelos de Gestão em Direção aos Resultados
+
+Paludo explica que, embora a gestão por resultados esteja centrada nos programas do PPA,
+existem 04 modelos de gestão orientada a resultados36:
+
+           Orçamento Orientado para Resultados: O orçamento por resultados é uma forma moderna
+           de perseguir resultados, e incorpora uma visão mais abrangente do orçamento público,
+           orientada para a eficiência e eficácia na alocação dos recursos. No orçamento por
+           resultados há uma maior fidelidade entre os recursos aprovados e as realizações.
+
+           Nesse tipo de orçamento, há um rompimento com o modelo tradicional de administração
+           burocrático (voltado para os meios), de forma que os resultados devem ser priorizados
+           segundo as necessidades manifestadas pelos cidadãos.
+
+           Paludo explica que o orçamento por resultados “melhora a aceitação dos governos, reforça
+           a confiança nas instituições estabelecidas e contribui tanto para o desenvolvimento
+           socioeconômico da nação quanto para a eficiência, eficácia e efetividade da gestão pública,
+           além de despertar no servidor a motivação e o orgulho de atuar numa organização pública
+           que apresenta resultados. A própria democracia se fortalece mediante a utilização desse
+           modelo de gestão”. 37
+
+           Administração por Objetivos (APO): A APO corresponde a uma espécie de contratualização,
+           em que os gestores negociam com a autoridade superior os objetivos a serem alcançados.
+
+           Trata-se de um processo no qual gestores e subordinados identificam objetivos e metas
+           comuns e definem, de forma conjunta, os resultados esperados.
+
+36
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. pp.316-320
+37
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.318
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                    26
+            www.estrategiaconcursos.com.br                                                                                 71
+
+                                                                                    24
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+          A APO tem como um de seus benefícios a motivação dos funcionários (afinal, eles são
+          ouvidos e “participam” do processo de definição dos objetivos).
+
+          A APO preconiza um sistema de remuneração variável, vinculado ao alcance dos objetivos e
+          metas. A remuneração variável funciona como uma espécie de “incentivo” aos servidores
+          (ou equipes) para que eles busquem os resultados.
+
+          Gestão pela Qualidade: Na administração pública a qualidade pode ser entendida como a
+          satisfação das necessidades e expectativas do cidadão. A aplicação dos princípios da
+          qualidade, no setor público, tem por objetivo a melhoria da qualidade de vida dos
+          cidadãos. 38
+
+          Contrato de Gestão: Trata-se de um modelo que muito se aproxima da APO. No contrato de
+          gestão, as entidades firmam compromissos para o alcance dos objetivos e, em
+          contrapartida, recebem um orçamento global para custear a realização das atividades.
+
+          Conforme explica Paludo, trata-se de um compromisso firmado entre o Poder Executivo e
+          uma entidade pública da Administração direta ou indireta a ele vinculada; ou então entre o
+          Poder Público e uma Organização Social (OS). No contrato de gestão, o controle deixa de
+          ser meramente normativo (controle jurídico) e passa a ser nos resultados/fins. 39
+
+          Paludo resume algumas características do contrato de gestão40:
+
+                  - Aumenta a autonomia dos órgãos/entidades
+
+                  - Objetiva ao aumento da eficiência e da eficácia
+
+                  - Visa à melhoria da qualidade e redução dos custos
+
+                  - Trata-se de um instrumento de planejamento estratégico
+
+                  - Estabelece objetivos e metas de resultados
+
+                  - Alinha as políticas públicas com a atuação das agências
+
+                  - Funciona como um mecanismo para controle de desempenho
+
+                  - Funciona como ferramenta de comunicação com o Ministério supervisor
+
+                  - Permite o acompanhamento do desempenho e avaliação dos resultados
+
+38
+   PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.283
+39
+   PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.321
+40
+   PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.321
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                              27
+           www.estrategiaconcursos.com.br                                                                           71
+
+                                                                             25
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                   - Permite a comparação com outros instituições
+
+                   - Funciona como um instrumento de transparência
+
+                   - Funciona como um instrumento de prestação de contas e responsabilização
+
+                   - Permite o controle político sobre a burocracia
+
+                   - Serve de subsídio para o exercício do controle social
+
+(CESPE – TCE-SC – Auditor Fiscal de Controle Externo - 2016)
+
+O orçamento por resultados melhora a aceitação dos governos, reforça a confiança nas instituições
+públicas estabelecidas e contribui para o desenvolvimento socioeconômico, bem como para a
+eficiência, a eficácia e a efetividade da gestão pública.
+
+Comentários:
+
+Isso mesmo!
+
+Paludo explica que o orçamento por resultados “melhora a aceitação dos governos, reforça a
+confiança nas instituições estabelecidas e contribui tanto para o desenvolvimento
+socioeconômico da nação quanto para a eficiência, eficácia e efetividade da gestão pública, além
+de despertar no servidor a motivação e o orgulho de atuar numa organização pública que
+apresenta resultados. A própria democracia se fortalece mediante a utilização desse modelo de
+gestão”. 41
+
+Gabarito: correta.
+
+41
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019. p.318
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                               28
+            www.estrategiaconcursos.com.br                                                                            71
+
+                                                                               26
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                                         RESUMO ESTRATÉGICO
+
+                  Administração Pública Gerencial – Gerencialismo (A Nova Gestão Pública)
+
+
+                                                                       Foco nos resultados
+
+                                                          Controle dos resultados (controle a posteriori)
+
+                                                                Orientação para o cidadão-cliente
+
+                                                               Incentivo à inovação e à criatividade
+                   PRINCIPAIS
+               CARACTERÍSTICAS DA
+                                                                    Competição Administrada
+                ADMINISTRAÇÃO
+               PÚBLICA GERENCIAL
+                                                                  Preocupação com a Qualidade
+
+                                                                          Descentralização
+
+                                                                           Fexibilização
+
+                                                                 Horizontalização de estruturas
+
+                                        BUROCRACIA
+                                Foco nos processos / "meios"              GERENCIALISMO
+                                       Controle a piori            Foco nos "resultados" / "fins"
+                                  (controle dos processos)             Controle a posteriori
+                                                                     (controle dos resultados)
+
+                Introdução da Gestão para Resultados na Administração Pública Federal
+
+A gestão por resultados começou a ser introduzida e implantada no Brasil através da Reforma de
+1995 (PDRAE). Contudo, Paludo42 explica que a gestão por resultados foi introduzida,
+formalmente, na Administração Pública Federal, através dos programas do Plano Plurianual (PPA)
+2000-2003 (conhecido como “Avança Brasil”). Este PPA estruturou as ações governamentais em
+programas que continham objetivos e metas pré-determinados.
+
+42
+     PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 314.
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                  29
+            www.estrategiaconcursos.com.br                                                                               71
+
+                                                                                  27
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                                                        o fortalecimento do planejamento orientado a atuação
+       NO MODELO DE GRP 02                              administrativa e sua maior integração com o orçamento
+          ASPECTOS SÃO
+     CONSIDERADOS ESSENCIAIS                          a motivação do servidor público para o alcance das metas
+                                                             e objetivos dos programas governamentais
+
+                            Conceito e Características da Gestão para Resultados
+
+A Gestão para Resultados é uma forma de administrar o negócio da organização, como foco na
+priorização dos resultados em todas as ações de todos profissionais que atuam no negócio,
+objetivando a elevação do desempenho organizacional. A gestão por resultados se aplica tanto à
+gestão privada quanto à gestão pública.43
+
+
+                                                                         Foco nos resultados
+
+
+                                     Políticas públicas formuladas a partir de processo de planejamento governamental
+
+
+                                                        Caráter descentralizado da tomada de decisões
+
+
+     Principais Itens que                 Flexibilização de recursos com cobrança de responsabilidade dos gestores
+      devem fazer parte
+     da agenda de ações
+                                      Utilização de planejamento estratégico nas organizações públicas e otimização dos
+           da GPR
+                                                                 processos administrativos
+         (Princípios
+       Norteadores da
+            GRP)                         Alterações metodológicas no processo de formulação do orçamento público
+
+                                       Sistemas de informação que forneçam subsídios para a tomada de decisão e
+                                     mensurem os recursos na obtenção dos resultados (sistemas de apuração de custos)
+
+                                           Sistemas de monitoramento da gestão, prestação de contas e avaliação
+
+                                          Desenvolvimento de indicadores que permitam medir o impacto da ação
+                                          governamental e indicar os desvios para introdução de medidas corretivas
+
+43
+   BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia. Disponível em:
+http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-resultados.html
+
+
+           Receita Federal (Analista Tributário) Administração Pública                                                30
+           www.estrategiaconcursos.com.br                                                                             71
+
+                                                                               28
+
+
+---
+
+    Stefan Fantini
+    Aula 05
+
+                                               Objetivos da Gestão para Resultados
+
+Segundo Serra, o objetivo principal da GPR é o resultado (a GPR tem como propósito melhorar o
+resultado). Contudo, o objeto de atenção da GPR (o objeto de sua ação, ou seja, o fenômeno sobre
+qual a GPR intervém), é o processo que assegure a criação de valor público.44
+
+
+                                                                                        Objetivo principal: resultado
+
+
+                                                           Oferecer elementos de informação, conhecimento e intervenção aos
+                                                          responsáveis pela administração pública que lhes permitam controlar e
+                                                            maximizar o processo de criação de valor a fim de atingir o melhor
+                                                            resultado possível a respeito do que se espera da ação do governo
+     OBJETIVOS DA GPR
+                                                            Contribuir à melhoria da capacidade de prestação de contas das
+                                                      autoridades e organizações públicas, para assim permitir que a sociedade, os
+                                                      órgãos de controle e a comunidade internacional possam avaliar sua gestão
+
+
+                                                       Auxiliar à alocação descentralizada dos objetivos e responsabilidades bem
+                                                          como à avaliação do desempenho daqueles que exercem as funções
+                                                                 gerenciais – correspondente uso de incentivos e sanções
+
+                      Ciclo da gestão para resultados (Etapas da Gestão por Resultados)
+
+                                                      1 - Revisão dos objetivos organizacionais
+      Os gestores devem ter uma visão clara dos objetivos “macros”, bem como conhecer o planejamento estratégico e as
+                                                    ambições da empresa
+
+
+                                                  2 - Definição dos objetivos dos colaboradores
+     Gestores e seus liderados devem se reunir para firmar acordos sobre os objetivos e os resultados esperados com seu
+       trabalho. Eles também estabelecem um prazo para a apresentação destes resultados e avaliação do desempenho
+
+
+                                                            3 - Monitoramento do processo
+       De tempos em tempos, antes da finalização do prazo acordado, gestores e liderados se reúnem para verificar se os
+                                              objetivos estão sendo alcançados
+
+
+                                                             4 – Avaliação de desempenho
+   No final do período de funcionamento normal, o desempenho do trabalhador é julgado de acordo com o atingimento ou
+                                                    não dos objetivos
+
+
+                                                                       5 - Recompensa
+                         Na última etapa do ciclo, os colaboradores recebem recompensas pelos resultados obtidos
+
+44 Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-Bradley y Estayes. Rio Grande do Norte, SEARH 2008, p. 29
+
+             Receita Federal (Analista Tributário) Administração Pública                                                                                           31
+             www.estrategiaconcursos.com.br                                                                                                                        71
+
+                                                                                                                           29
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+                             Vantagens / Benefícios da Gestão por Resultados
+
+                       Melhora da Motivação dos funcionários: ao se envolverem em todo o processo de definição de
+                             objetivos, os funcionários reconhecem o valor de seu trabalho e se engajam mais
+
+                          Melhorias na comunicação e coordenação: há uma aproximação natural dos líderes e seus
+                       liderados, com troca de informações, feedbacks e colaboração, o que contribui com a harmonia
+                                                               organizacional
+                      Maior clareza de objetivos: os funcionários tendem a ter um compromisso maior com os objetivos
+                      que estabeleceram para si próprios do que com aqueles objetivos que lhes são impostos por outra
+                         pessoa. Além disso, a clareza de objetivos contribui com a sensação de “pertencimento” e,
+                                          consequentemente, com a “autoestima” dos funcionários
+
+                         Melhorias na produtividade: funcionários mais engajados, com mais informações e com os
+                                             objetivos bem claros, produzem mais e melhor
+Vantagens /
+Benefícios da
+    GPR
+                                    Melhora a accountability (prestação de contas e responsabilização)
+
+                                                          Melhora a Transparência
+
+                                                 Melhora a qualidade dos serviços públicos
+
+                              Permite a ampliação da autonomia das Entidades, por meio da contratualização
+
+                             O Paradigma do Cliente na Administração Pública
+
+  O Paradigma do Cliente na administração pública surgiu com o advento da Administração Pública
+  Gerencial.
+
+  De acordo com Paula, o governo deve atender às necessidades dos clientes (cidadãos); e não da
+  burocracia. Os cidadãos estão cansados da burocracia, e querem ser mais valorizados como
+
+           Receita Federal (Analista Tributário) Administração Pública                                             32
+           www.estrategiaconcursos.com.br                                                                          71
+
+                                                                            30
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+clientes. Logo, é recomendável a utilização da administração da qualidade e a criação de sistemas
+de prestação de serviços mais simples e transparentes. 45
+
+Na gestão pública poucas pessoas utilizam o termo cliente, e grande parte das organizações
+públicas não sabe quem, de fato, são seus “clientes”. Isso acontece, pois, os órgãos públicos, via de
+regra, não obtêm seus recursos diretamente dos clientes (os órgãos públicos recebem a maior
+parte de seus recursos do Legislativo e do Executivo).
+
+Além disso, grande parte dos “clientes” da administração pública é “cativo” e tem poucas
+“alternativas” para os serviços oferecidos por seus governos.
+
+Portanto, os órgãos públicos acabam tendo por objetivo satisfazer apenas às necessidades do
+Legislativo e do Executivo (que são quem fornecem os recursos); e passam a “ignorar” os seus
+verdadeiros clientes (os cidadãos).
+
+Nesse sentido, a ideia do Paradigma do Cliente é que esse pensamento deve acabar. O governo
+deve atender às necessidades dos clientes (cidadãos).
+
+Os clientes querem ser valorizados como clientes (ou seja, querem menores filas, menores tempo
+de atendimento, etc.) e querem ter serviços de qualidade. Nesse sentido, a gestão da qualidade
+total torna-se fundamental para que o poder público possa prestar serviços de qualidade aos seus
+clientes.
+
+                                         Contratualização de Resultados
+
+A contratualização de resultados é uma ferramenta relacionada à Administração Gerencial e à
+gestão por resultados, utilizada com o objetivo de conferir maior flexibilidade e autonomia às
+Entidades.
+
+A contratualização de resultados consiste em um instrumento no qual são estabelecidos
+indicadores, responsabilidades, obrigações, recursos e metas de desempenho, com o objetivo de
+buscar garantir o atingimento dos resultados no intuito de que as necessidades dos cidadãos
+sejam atendidas. Ou seja, os mecanismos de “controle dos meios” / controle dos processos
+(característicos do modelo burocrático) perdem espaço, e o foco passa a ser no “controle dos fins”
+(alcance dos resultados).
+
+45
+     PAULA, Ana Paula Paes. Por uma nova gestão pública. Rio de Janeiro, FGV: 2007. p.63
+
+
+            Receita Federal (Analista Tributário) Administração Pública                             33
+            www.estrategiaconcursos.com.br                                                          71
+
+                                                             31
+
+
+---
+
+Stefan Fantini
+Aula 05
+
+                                                    Objeto e finalidade do Acordo
+
+                     Direitos, obrigações e responsabilidades do Acordante e do Acordado e compromissos dos
+                                                           intervenientes
+
+                                          Autonomias gerencial, orçamentária e financeira
+
+
+                                         Critérios para o cálculo de prêmios de produtividade
+Conteúdo
+Formal do
+                                            Sistemática de Acompanhamento e Avaliação
+Acordo de
+Resultados
+                         Condições para revisão, renovação, prorrogação, suspensão e rescisão do Acordo.
+
+
+                                               Consequências e Penalidades do Acordo
+
+
+                                                        Publicidade do Acordo
+
+
+                                                           Prazo de vigência
+
+                   viabilizar a estratégia de governo por meio da disseminação da contratualização de resultados
+                                                      e sua respectiva avaliação
+
+                   alinhar o planejamento e as ações do acordado com o planejamento estratégico do Governo,
+                            com as políticas públicas instituídas e os demais programas governamentais
+
+                    melhorar a qualidade, a produtividade, a eficiência e a efetividade dos serviços prestados à
+                                                            sociedade
+
+
+Objetivos do                                           aprimorar o desempenho
+ Acordo de
+ Resultados                           melhorar a qualidade e a transparência do gasto público
+
+                  dar transparência às ações das instituições públicas envolvidas e facilitar o controle social sobre
+                                                         a atividade pública
+
+                   estimular, valorizar e destacar servidores, dirigentes e órgãos ou entidades que cumpram suas
+                                               metas e atinjam os resultados previstos
+
+                                              promover maior flexibilidade às entidades
+
+      Receita Federal (Analista Tributário) Administração Pública                                                 34
+      www.estrategiaconcursos.com.br                                                                              71
+
+                                                                           32
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+                          Modelos de Gestão em Direção aos Resultados
+
+
+                                              Incorpora uma visão mais abrangente do orçamento público, orientada
+                                                       para a eficiência e eficácia na alocação dos recursos.
+                                                    “Melhora a aceitação dos governos, reforça a confiança nas
+                      Orçamento                 instituições estabelecidas e contribui tanto para o desenvolvimento
+                     Orientado para                 socioeconômico da nação quanto para a eficiência, eficácia e
+                       Resultados                  efetividade da gestão pública, além de despertar no servidor a
+                                                   motivação e o orgulho de atuar numa organização pública que
+                                                apresenta resultados. A própria democracia se fortalece mediante a
+                                                                 utilização desse modelo de gestão”
+
+                                              Trata-se de um processo no qual gestores e subordinados identificam
+                                                   objetivos e metas comuns e definem, de forma conjunta, os
+                                                 resultados esperados. A APO tem como um de seus benefícios a
+                     Administração
+                                              motivação dos funcionários (afinal, eles são ouvidos e “participam” do
+                     por Objetivos
+                                               processo de definição dos objetivos). A APO apregoa um sistema de
+                         (APO)
+                                              remuneração variável, vinculado ao alcance dos objetivos e metas. A
+                                              remuneração variável funciona como uma espécie de “incentivo” aos
+04 MODELOS                                         servidores (ou equipe) para que eles busquem os resultados.
+ DE GESTÃO
+ORIENTADA A
+RESULTADOS
+
+                                                 Na administração pública a qualidade pode ser entendida como a
+                      Gestão pela             satisfação das necessidades e expectativas do cidadão. A aplicação dos
+                       Qualidade               princípios da qualidade, no setor público, tem por objetivo a melhoria
+                                                                 da qualidade de vida dos cidadãos
+
+                                              Trata-se de um modelo que muito se aproxima da APO. No contrato de
+                                                  gestão, as entidades firmam compromissos para o alcance dos
+                                                objetivos e, em contrapartida, recebem um orçamento global para
+                                              custear a realização das atividades. Conforme explica Paludo, trata-se
+                      Contrato de
+                                              de um compromisso firmado entre o Poder Executivo e uma entidade
+                        Gestão
+                                               pública da Administração direta ou indireta a ele vinculada; ou então
+                                               entre o Poder Público e uma Organização Social (OS). No contrato de
+                                                  gestão, o controle deixa de ser meramente normativo (controle
+                                                             jurídico) e passa a ser nos resultados/fins.
+
+        Receita Federal (Analista Tributário) Administração Pública                                               35
+        www.estrategiaconcursos.com.br                                                                            71
+
+                                                                           33
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+                              QUESTÕES COMENTADAS
+1. (FGV – TRT - 16ª REGIÃO (MA) - Técnico Judiciário - Área Administrativa - 2022)
+
+  A competição administrada, filosofia na qual unidades internas da Administração Pública são
+  estimuladas a competirem entre si, em termos de produtividade, é uma característica do
+  modelo de gestão conhecido por
+
+  a) burocracia.
+
+  b) patrimonialismo.
+
+  c) gestão participativa.
+
+  d) administração clientelista.
+
+  e) gestão por resultado.
+
+Comentários:
+
+Trata-se de característica relacionada à gestão por resultado.
+
+O gabarito é a letra E.
+
+2. (FGV – Câmara de Taubaté - SP - Técnico Legislativo de Administração - 2022)
+
+  A gestão por resultados foi um modelo que ganhou força na Administração Pública brasileira na
+  década de 1990, impulsionada pelos ideais da época e pela conjuntura política pela qual o país
+  passava.
+
+  Avalie se são características da gestão por resultados os itens a seguir:
+
+  I. O aumento da autonomia dos gestores, pautado por valores de confiança.
+
+  II. Melhoria na economicidade do uso dos recursos públicos, assegurada pelo uso de controles
+  prévios de procedimentos.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                          36
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  III. Estabelecimento de padrões de melhores práticas, por meio de uma orientação voltada para
+  o autoreferenciamento.
+
+  Está correto o que se expõe em
+
+  a) I, apenas.
+
+  b) I e II, apenas.
+
+  c) II e III, apenas.
+
+  d) I e III, apenas.
+
+  e) I, II e III.
+
+Comentários:
+
+A primeira assertiva está correta. De fato, trata-se de característica relaciona à gestão por
+resultados.
+
+A segunda assertiva está errada. Controle prévio é característica relacionada ao modelo
+burocrático. Na gestão por resultados o foco está no controle dos resultados (controle dos fins).
+
+A terceira assertiva está errada. Autorreferenciamento é característica do modelo burocrático.
+
+O gabarito é a letra A.
+
+3. (FGV – CGU - Auditor Federal de Finanças e Controle - 2022)
+
+  Na gestão por resultados, cabe ao gestor tomar decisões com base em critérios como eficiência,
+  eficácia, viabilidade e aceitabilidade.
+
+  Sobre o papel do gestor e a gestão por resultados na administração pública, é correto afirmar
+  que:
+
+  a) é inflexível, dada a atenção elevada aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis altos de accountability gerados por objetivos mensuráveis e transparentes;
+
+  b) é flexível, dada a atenção reduzida aos processos burocráticos, ao mesmo tempo que tem
+  níveis altos de accountability gerados por objetivos mensuráveis e transparentes;
+
+  c) é flexível, dada a atenção elevada aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis baixos de accountability gerados por objetivos mensuráveis, porém opacos;
+
+         Receita Federal (Analista Tributário) Administração Pública                             37
+         www.estrategiaconcursos.com.br                                                          71
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  d) é inflexível, dada a atenção reduzida aos processos burocráticos, ao mesmo tempo que tem
+  níveis baixos de accountability gerados por objetivos não mensuráveis mesmo que
+  transparentes;
+
+  e) é flexível, dada a atenção reduzida aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis baixos de accountability gerados por objetivos mensuráveis e transparentes.
+
+Comentários:
+
+Na gestão por resultados o papel do gestor é flexível, dada a atenção reduzida aos processos
+burocráticos (uma vez que o foco está nos resultados e não nos “processos”), ao mesmo tempo
+que tem níveis altos de accountability gerados por objetivos mensuráveis e transparentes (a gestão
+por resultados melhora a accountability e a transparência).
+
+O gabarito é a letra B.
+
+4. (FGV – EPE - Analista de Gestão Corporativa - Recursos Humanos - 2022)
+
+  Acerca da gestão por resultados, modelo promovido pela reforma gerencial, assinale a opção
+  que contém somente exemplos de suas respectivas características.
+
+  a) Flexibilização de recursos, melhoria de accountability e autonomia gerencial.
+
+  b) Flexibilização de recursos, maior controle procedimental e redução da governança.
+
+  c) Formalismo decisório, aumento hierárquico e impessoalidade.
+
+  d) Autonomia gerencial, impessoalidade e redução da governança.
+
+  e) Melhoria de accountability, maior controle procedimental e formalismo decisório.
+
+Comentários:
+
+Letra A: correta. A assertiva trouxe, corretamente, características relacionadas à gestão por
+resultados.
+
+Letra B: errada. Na gestão por resultados o foco está no controle de resultados (e não no controle
+“procedimental”). O controle procedimental é característica do modelo burocrático. Além disso,
+redução da governança não é característica da gestão por resultados.
+
+Letra C: errada. A assertiva elencou características do modelo burocrático.
+
+Letra D: errada. De fato, autonomia gerencial é característica relacionada à gestão por resultados.
+Contudo, redução da governança não é característica da gestão por resultados.
+
+        Receita Federal (Analista Tributário) Administração Pública                             38
+        www.estrategiaconcursos.com.br                                                          71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  Letra E: errada. De fato, melhoria da accountability é característica relacionada à gestão por
+  resultados. Contudo, maior controle procedimental e formalismo decisório são características
+  do modelo burocrático.
+
+O gabarito é a letra A.
+
+5. (FGV – MPE-GO - Secretária Assistente - 2022)
+
+  A mudança do momento de avaliação das tarefas atribuídas foi uma das grandes inovações da
+  Administração Pública, proposta durante a reforma gerencial, ocorrida no Brasil ao final do
+  século passado.
+
+  Esse modelo de gestão é conhecido como gestão
+
+  a) por resultados.
+
+  b) por processos.
+
+  c) procedimental.
+
+  d) por supervisão direta.
+
+  e) patrimonialista.
+
+Comentários:
+
+Trata-se da gestão por resultados.
+
+O gabarito é a letra A.
+
+6. (FGV – MPE-GO - Assistente Administrativo - 2022)
+
+  A gestão por resultados foi uma das inovações que ganhou grande importância na
+  Administração Pública brasileira com o advento da reforma gerencial. Ela apresenta como
+  característica fundamental
+
+  a) a necessidade de desenvolvimento de indicadores que possibilitem mensurar o impacto das
+  ações governamentais.
+
+  b) a flexibilização dos recursos por meio da adoção da confiança ilimitada quanto às condutas
+  dos gestores.
+
+  c) a confluência de capacidade deliberativa no controle de líder único.
+
+        Receita Federal (Analista Tributário) Administração Pública                          39
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+      d) o alargamento do uso de procedimentos de controle “ex-ante” de responsabilidade de
+      atuação.
+
+      e) a eliminação da interação entre chefes de topo e gestores de linha, formalizada pelo uso de
+      normas e regulamentos.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são1:
+
+           - Foco nos resultados.
+           - Políticas públicas formuladas a partir de processo de planejamento governamental.
+           - Caráter descentralizado da tomada de decisões.
+           - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+           - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+           processos administrativos.
+           - Alterações metodológicas no processo de formulação do orçamento público.
+           - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+           recursos na obtenção dos resultados (sistemas de apuração de custos).
+           - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+           - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental
+           e indicar os desvios para introdução de medidas corretivas.
+
+O gabarito é a letra A.
+
+7. (FGV – Prefeitura de Paulínia - SP – Agente de Apoio Administrativo - 2021)
+
+      No contexto da Administração Pública, uma característica benéfica associada à Gestão por
+      Resultados é
+
+      a) o aumento do controle em insumos e recursos.
+
+      b) o aprofundamento das práticas clientelistas.
+
+      c) a previsibilidade do rígido processo relacional.
+
+      d) o respeito ao aspecto hierárquico das decisões.
+
+      e) a maior autonomia dos gestores encarregados.
+
+
+1
+    MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012. p.3
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                   40
+            www.estrategiaconcursos.com.br                                                                                71
+
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Comentários:
+
+A única alternativa que trouxe uma característica relacionada à gestão por resultados foi a letra E
+(maior autonomia dos gestores encarregados).
+
+O gabarito é a letra E.
+
+8. (FGV – FUNSAÚDE - CE - Assistente Administrativo - 2021)
+
+      A gestão por resultados no setor público, que se tornou relevante no Brasil após a reforma
+      administrativa de 1995, foi fundamental para a revitalização da gestão pública e para a
+      retomada do equilíbrio fiscal. Sobre o conceito de gestão por resultados, assinale a afirmativa
+      correta.
+
+      a) Fundamenta-se na no princípio da centralização política, no que diz respeito à delegação de
+      competências.
+
+      b) Preconiza o fortalecimento processual nas políticas públicas desenvolvidas pelos gestores.
+
+      c) Prioriza a hierarquia decisória na tomada de decisão em detrimento do laissez-faire.
+
+      d) Privilegia a flexibilização de recursos em conjunto com a responsabilização do gestor.
+
+      e) Rechaça a ideia de confiança limitada, contrária à ideia de eficiência administrativa.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são2:
+
+           - Foco nos resultados.
+           - Políticas públicas formuladas a partir de processo de planejamento governamental.
+           - Caráter descentralizado da tomada de decisões.
+           - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+           - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+           processos administrativos.
+           - Alterações metodológicas no processo de formulação do orçamento público.
+           - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+           recursos na obtenção dos resultados (sistemas de apuração de custos).
+           - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+
+
+2
+    MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012. p.3
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                   41
+            www.estrategiaconcursos.com.br                                                                                71
+
+                                         
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+       - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+       indicar os desvios para introdução de medidas corretivas.
+
+O gabarito é a letra D.
+
+9. (FGV – Prefeitura de Paulínia - SP - Cargos de Nível Fundamental - 2021)
+
+  Assinale a opção que indica o modelo de gestão que permite maior autonomia e flexibilidade
+  para o gestor público.
+
+  a) Burocrática.
+
+  b) Gestão para Resultados.
+
+  c) Mecanicista.
+
+  d) Organização Formal.
+
+  e) Administração Científica.
+
+Comentários:
+
+Trata-se da gestão por resultados (gestão para resultados).
+
+O gabarito é a letra B.
+
+10.    (FGV – DPE-RJ – Técnico Superior Especializado - 2019)
+
+  Determinado dirigente de órgão público vinculado à Defensoria Pública recebe a incumbência
+  de implementar a gestão por resultados no âmbito das atividades do órgão.
+
+  Com base no contexto e nas propostas da gestão por resultados, é correto esperar que o
+  dirigente promova, como uma de suas ações:
+
+  a) a equiparação remuneratória entre as carreiras do órgão, inibindo o conflito disfuncional;
+
+  b) a reformulação incremental da cultura organizacional, visando à verticalização da linha de
+  comando;
+
+  c) o desenvolvimento dos mecanismos de prestação de contas, permitindo aumento da
+  responsabilização dos servidores;
+
+  d) a redução das tarefas executadas no órgão, garantindo a majoração do índice de
+  produtividade;
+
+        Receita Federal (Analista Tributário) Administração Pública                               42
+        www.estrategiaconcursos.com.br                                                            71
+
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+      e) a implementação de bonificação por tempo de serviço, efetivando a utilização dos incentivos
+      procedimentais.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são3:
+
+           - Foco nos resultados.
+
+           - Políticas públicas formuladas a partir de processo de planejamento governamental.
+
+           - Caráter descentralizado da tomada de decisões.
+
+           - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+
+           - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+           processos administrativos.
+
+           - Alterações metodológicas no processo de formulação do orçamento público.
+
+           - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+           recursos na obtenção dos resultados (sistemas de apuração de custos).
+
+           - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+
+           - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+           indicar os desvios para introdução de medidas corretivas.
+
+Um dos benefícios da gestão por resultados é, inclusive, a melhoria da transparência e da
+accountability (prestação de contas e responsabilização).
+
+O gabarito é a letra C.
+
+11.        (FGV – COMPESA – Analista de Gestão - 2018)
+
+      A gestão por resultados permite maior flexibilidade aos colaboradores da organização,
+      enfatizando o alcance dos resultados finais.
+
+      Sendo assim, em um modelo de gestão por resultados, é imprescindível a presença de
+
+3
+    MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012. p.3
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                   43
+            www.estrategiaconcursos.com.br                                                                                71
+
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+      a) técnicas relativistas.
+
+      b) grades gerenciais.
+
+      c) estruturas matriciais.
+
+      d) atividades interdependentes.
+
+      e) indicadores de desempenho.
+
+Comentários:
+
+De acordo com Makón, as organizações que adotam a gestão por resultados devem incluir alguns
+itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De acordo com
+o autor, os principais itens (ou seja, os princípios norteadores de uma gestão por resultados) que
+devem fazer parte dessa agenda de ações são4:
+
+           - Foco nos resultados.
+
+           - Políticas públicas formuladas a partir de processo de planejamento governamental.
+
+           - Caráter descentralizado da tomada de decisões.
+
+           - Flexibilização de recursos com cobrança de responsabilidade dos gestores.
+
+           - Utilização de planejamento estratégico nas organizações públicas e otimização dos
+           processos administrativos.
+
+           - Alterações metodológicas no processo de formulação do orçamento público.
+
+           - Sistemas de informação que forneçam subsídios para a tomada de decisão e mensurem os
+           recursos na obtenção dos resultados (sistemas de apuração de custos).
+
+           - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+
+           - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+           indicar os desvios para introdução de medidas corretivas.
+
+O gabarito é a letra E.
+
+12.        (FGV – AL-RO – Assistente Legislativo - 2018)
+
+4
+    MAKÓN (2008) apud MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012. p.3
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                                   44
+            www.estrategiaconcursos.com.br                                                                                71
+
+                                         
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+      Nas últimas décadas, visando adaptar a Administração Pública às mudanças da sociedade, novas
+      práticas de gestão, relacionadas ao modelo gerencial, vem sendo adotadas pelos governos, à
+      exemplo da Gestão por Resultados.
+
+      Assinale a opção que indica uma premissa inerente à Gestão por Resultados.
+
+      a) A padronização dos processos de gestão.
+
+      b) A priorização da supervisão de legalidade.
+
+      c) A mentalidade mecanicista da organização pública.
+
+      d) A autonomia de responsabilidade para o gestor público.
+
+      e) A desvinculação entre planejamento e orçamento.
+
+Comentários:
+
+Letra A: errada. A gestão por resultados tem como característica a maior flexibilidade dos
+processos (e não a “padronização”), com o objetivo de permitir o alcance dos resultados.
+
+Letra B: errada. O foco (a prioridade) da GPR está nos resultados!
+
+Letra C: errada. As organizações mecanicistas estão relacionadas à administração pública
+burocrática.
+
+A administração gerencial, e a gestão por resultados, estão relacionadas a formas organizacionais
+mais flexíveis e dinâmicas.
+
+Letra D: correta. Isso mesmo! A GPR confere maior autonomia para o gestor público.
+
+Letra E: errada. Pelo contrário! O modelo de GPR mantém-se em contínua evolução e,
+independente de qual for o caminho escolhido para otimizar os resultados na gestão pública, dois
+aspectos são considerados essenciais5:
+
+           -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+           integração com o orçamento;
+
+           -e a motivação do servidor público para o alcance das metas e objetivos dos programas
+           governamentais
+
+O gabarito é a letra D.
+
+5
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, pp. 315
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                           45
+            www.estrategiaconcursos.com.br                                                                        71
+
+                                          
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+13.    (CEBRASPE/CESPE – MP-CE – Analista – 2020)
+
+  Com a gestão por resultados na produção dos serviços públicos, os controles passo a passo dos
+  processos, característicos do estado burocrático, tem sido fundamentais para as políticas
+  públicas.
+
+Comentários:
+
+Nada disso!
+
+Na gestão por resultados o “controle dos meios” / controle passo a passo dos processos
+(característicos do modelo burocrático) perdem espaço e o foco passa a ser no “controle dos fins”
+(alcance dos resultados).
+
+Gabarito: errada.
+
+14.    (CESPE - STJ - Analista Judiciário – Administrativa - 2018)
+
+  Gestão para resultados e indicadores de desempenho são aplicáveis à gestão pública e à gestão
+  privada.
+
+Comentários:
+
+De fato, a gestão para resultados e indicadores de desempenho são aplicáveis tanto à gestão
+pública quanto à gestão privada.
+
+Gabarito: correta.
+
+15.    (CESPE - Analista de Controle Externo – Administração - 2018)
+
+   A gestão por resultados preconiza na provisão de serviços públicos
+
+  a) o controle ex ante.
+
+  b) o foco nos inputs.
+
+  c) a priorização de processos.
+
+  d) a importância das parcerias.
+
+  e) a aversão a riscos.
+
+Comentários:
+
+Letra A: errada. Na gestão por resultados o controle é “a posteriori” (controle “ex post”).
+
+
+        Receita Federal (Analista Tributário) Administração Pública                           46
+        www.estrategiaconcursos.com.br                                                        71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Letra B: errada. Na gestão por resultados o foco está nos resultados.
+
+Letra C: errada. Nada disso. Na gestão por resultados o foco está nos fins/resultados (e não nos
+“processos”/”meios”).
+
+Letra D: correta. Isso mesmo! As parcerias são importantes ferramentas para a gestão por
+resultados. As parcerias são realizadas através da contratualização por resultados (utilizando-se de
+instrumentos como contratos de gestão, termos de parceria, etc.)
+
+Letra E: errada. A assertiva não traz qualquer relação com a gestão por resultados.
+
+O gabarito é a letra D.
+
+16.    (CESPE – TCE-PB – Auditor de Contas Públicas - 2018)
+
+  Entre os princípios norteadores da gestão por resultados na administração pública incluem-se a
+  tomada de decisão
+
+  a) centralizada e a cobrança de responsabilidade dos gestores, mas não dos agentes.
+
+  b) centralizada e o foco no processo de gestão.
+
+  c) descentralizada e o foco no processo de gestão.
+
+  d) descentralizada e o foco nos resultados.
+
+  e) descentralizada e a cobrança de responsabilidade dos agentes, mas não dos gestores.
+
+Comentários:
+
+Dentre os princípios norteadores de uma gestão por resultados podem-se citar o foco nos
+resultados e o caráter descentralizado da tomada de decisões.
+
+O gabarito é a letra D.
+
+17.    (CESPE – TCE-PE – Auditor de Controle Externo - 2017)
+
+  A gestão por resultados na administração pública se beneficia da existência de métricas
+  programáticas robustas e comparáveis ao longo do tempo.
+
+Comentários:
+
+De fato, métricas robustas/desenvolvidas/consistentes e “comparáveis” ao longo do tempo,
+beneficiam a gestão por resultados na administração pública.
+
+        Receita Federal (Analista Tributário) Administração Pública                              47
+        www.estrategiaconcursos.com.br                                                           71
+
+                                     
+
+
+---
+
+    Stefan Fantini
+    Aula 05
+
+Métricas robustas e comparáveis ao longo do tempo permitem o bom monitoramento dos
+resultados, beneficiando a gestão por resultados.
+
+Gabarito: correta.
+
+18.      (CESPE – TRF 1a Região – Analista Judiciário - 2017)
+
+    Nas organizações, para que a gestão por resultados alcance a eficiência desejada, o
+    planejamento deve ser realizado de maneira vinculada ao orçamento.
+
+Comentários:
+
+Isso mesmo! O modelo de GPR mantém-se em contínua evolução e, independente de qual for o
+caminho escolhido para otimizar os resultados na gestão pública, dois aspectos são considerados
+essenciais6:
+
+         -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+         integração com o orçamento;
+
+         -e a motivação do servidor público para o alcance das metas e objetivos dos programas
+         governamentais.
+
+Gabarito: correta.
+
+19.      (CESPE – TRE-PI – Analista Judiciário – 2016 - Adaptada)
+
+    A gestão por resultados na produção de serviços públicos contribui para o alinhamento entre o
+    planejamento, a execução, a avaliação e o controle das ações governamentais, bem como para a
+    melhoria do processo de accountability da gestão pública.
+
+Comentários:
+
+Isso mesmo! Assertiva perfeita!
+
+Gabarito: correta.
+
+20.      (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+    Ao adotar um modelo de gestão por resultados, a administração pública prioriza procedimentos
+    característicos de uma administração burocrática, haja vista que o planejamento passa a ser
+    orientado à ação para o alcance de resultados.
+
+6
+ PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método:
+2019, pp. 315
+
+
+          Receita Federal (Analista Tributário) Administração Pública                         48
+          www.estrategiaconcursos.com.br                                                      71
+
+                                       
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Comentários:
+
+Nada disso! Ao adotar um modelo de gestão por resultados, a administração pública prioriza
+procedimentos característicos de uma administração gerencial.
+
+Gabarito: errada.
+
+21.    (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+  Nos contratos de gestão celebrados entre a administração pública e os interessados em
+  executar determinado serviço público, o foco principal é o acompanhamento e o controle dos
+  procedimentos legais, sendo facultativa a determinação de metas e resultados a serem
+  alcançados.
+
+Comentários:
+
+Pelo contrário! Uma das principais características dos contratos de gestão é exatamente o
+estabelecimento de metas de desempenho, com o objetivo de buscar garantir o atingimento dos
+resultados e o atendimento às necessidades dos cidadãos.
+
+Gabarito: errada.
+
+22.    (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+  A administração pública burocrática, pautada na gestão por resultados, prioriza manter a
+  proporcionalidade entre a entrada de recursos e os resultados por eles gerados, a fim de
+  alcançar maior eficácia e eficiência institucional.
+
+Comentários:
+
+Nada disso!
+
+A administração pública burocrática tem foco no controle dos “processos” (foco nos meios), e não
+nos resultados.
+
+Gabarito: errada.
+
+23.     (CESPE – TCE-PR – Analista de Controle – 2016 -- Adaptada)
+
+  A gestão por resultados no serviço público tem como premissa substituir os procedimentos
+  adotados pelo modelo burocrático de administração e implantar um modelo gerencial, com foco
+  na otimização dos processos.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Pública                          49
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Nada disso! A gestão por resultados tem como foco os resultados (e não a “otimização dos
+processos”).
+
+É o modelo burocrático que tem como foco a otimização dos processos.
+
+Gabarito: errada.
+
+24.    (CESPE – TRT 8a Região – Analista Judiciário – 2016 - Adaptada)
+
+  A administração por resultados no setor público tem como foco o alcance de metas
+  orçamentárias, independentemente do grau de satisfação do cidadão.
+
+Comentários:
+
+Nada disso!
+
+O foco da GPR são os resultados para os cidadãos (“clientes”). Portanto, deve sim ser levado em
+consideração o grau de satisfação do cidadão.
+
+Gabarito: errada.
+
+25.    (CESPE – TRT 8a Região – Analista Judiciário – 2016 - Adaptada)
+
+  A gestão por resultados envolve o monitoramento e a avaliação de desempenho da instituição
+  para a verificação dos resultados almejados, bem como a retroalimentação e a adoção de
+  medidas corretivas decorrentes da avaliação.
+
+Comentários:
+
+De fato, a gestão por resultados envolve o monitoramento e avaliação de desempenho das
+instituições, com o objetivo de verificar se os resultados pretendidos estão sendo alcançados.
+Assim, é possível que os desvios sejam identificados, e medidas sejam adotadas para corrigir esses
+desvios.
+
+Nesse sentido Makón destaca que as organizações que adotam a gestão por resultados devem
+incluir alguns itens em suas “agendas de ações”, com o objetivo de alcançar os fins pretendidos. De
+acordo com o autor, dentre os principais itens (ou seja, dentre os princípios norteadores de uma
+gestão por resultados) que devem fazer parte dessa agenda de ações estão:
+
+       - Sistemas de monitoramento da gestão, prestação de contas e avaliação.
+
+       - Desenvolvimento de indicadores que permitam medir o impacto da ação governamental e
+       indicar os desvios para introdução de medidas corretivas.
+
+Gabarito: correta.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                             50
+        www.estrategiaconcursos.com.br                                                          71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+26.    (CESPE – TRT 1a Região – Analista Judiciário – Adaptada)
+
+  A adoção da gestão pública por resultados limita a autonomia do gestor público na forma como
+  implementar a produção dos serviços públicos, em função dos resultados acordados.
+
+Comentários:
+
+Pelo contrário!
+
+A adoção da GPR aumenta a autonomia e a flexibilidade do gestor público, por meio da
+contratualização, com o objetivo de que os resultados sejam alcançados.
+
+Gabarito: errada.
+
+27.    (CESPE – ABIN – Oficial Técnico de Inteligência)
+
+  A adoção da gestão por resultados na administração pública implica a realização periódica de
+  negociação e acordos que envolvam os objetivos e metas fixados, em compromisso, entre o
+  Estado e cada órgão a ele subordinado.
+
+Comentários:
+
+Isso mesmo! Assertiva perfeita.
+
+Gabarito: correta.
+
+28.    (CESPE – ABIN – Oficial Técnico de Inteligência)
+
+  Na gestão por resultados, desenvolvem-se ações contrárias às consideradas necessárias ao
+  atendimento das demandas de accountability.
+
+Comentários:
+
+Nada disso! Um dos benefícios da GPR é exatamente a melhoria da accountability.
+
+Gabarito: errada.
+
+29.    (FCC- TCE-CE - Conselheiro Substituto-Auditor – 2015 - ADAPTADA)
+
+  O conceito de gestão por resultados na Administração pública contempla o fortalecimento do
+  planejamento orientando a atuação administrativa e sua maior integração com o orçamento
+  público.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Pública                        51
+        www.estrategiaconcursos.com.br                                                     71
+
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Isso mesmo! Independente de qual for o caminho escolhido para otimizar os resultados na gestão
+pública, dois aspectos são considerados essenciais7:
+
+           -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+           integração com o orçamento;
+
+           -e a motivação do servidor público para o alcance das metas e objetivos dos programas
+           governamentais.
+
+Gabarito: correta.
+
+30.        (CESPE - TRT 1a REGIÃO - Analista Judiciário - ADAPTADA)
+
+      A adoção da gestão pública por resultados limita a autonomia do gestor público na forma como
+      implementar a produção dos serviços públicos, em função dos resultados acordados.
+
+Comentários:
+
+Pelo contrário!
+
+A adoção da gestão por resultados confere maior flexibilidade e autonomia ao gestor público.
+
+Gabarito: errada.
+
+31.        (CESPE - TRT 1a REGIÃO - Analista Judiciário - ADAPTADA)
+
+      A gestão pública por resultados desenvolveu-se como uma estratégia que tem início no
+      momento do planejamento estratégico e vai até o processo de feedback das políticas públicas.
+
+Comentários:
+
+Isso mesmo! A gestão pública começa no planejamento das ações e das metas, e vai até o processo
+de feedback (retroalimentação) dos resultados obtidos.
+
+Gabarito: correta.
+
+32.        (FCC – TRE-RR - Analista Judiciário - ADAPTADA)
+      O movimento da Nova Gestão Pública − NGP sugere novos paradigmas gerenciais para a
+      Administração pública, um dos quais é a gestão por resultados. É característica desse modelo:
+      Centralização das decisões, com confiança limitada e não desconfiança total no servidor.
+
+7
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, p. 315
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                          52
+            www.estrategiaconcursos.com.br                                                                       71
+
+                                          
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Comentários:
+
+Nada disso!
+
+Uma das características da gestão por resultados é a descentralização das decisões.
+
+Gabarito: errada.
+
+33.    (FCC – TRE-RR - Analista Judiciário - ADAPTADA)
+   O movimento da Nova Gestão Pública − NGP sugere novos paradigmas gerenciais para a
+   Administração pública, um dos quais é a gestão por resultados. É característica desse modelo:
+   Passagem de uma gestão autocentrada para uma abordagem que se orienta pela identificação
+   e atendimento às necessidades e interesses dos cidadãos.
+
+Comentários:
+
+Isso mesmo!
+
+Na gestão por resultados o foco está nos resultados, com o objetivo de atender às necessidades
+dos cidadãos.
+
+Gabarito: correta.
+
+34.    (FCC- TCE-CE - Conselheiro Substituto-Auditor – 2015 - ADAPTADA)
+   O conceito de gestão por resultados na Administração pública contempla a fixação de metas e
+   indicadores de desempenho.
+
+Comentários:
+
+De fato, a fixação de metas e indicadores de desempenho são aspectos inerentes à gestão por
+resultados.
+
+Gabarito: correta.
+
+35.    (FCC- SEFAZ-PI – Analista do Tesouro Estadual – 2015 - ADAPTADA)
+   Na Administração pública federal, a gestão pública por resultados foi introduzida com o PPA
+   2000-2003, denominado Avança Brasil. Esse modelo de Administração, tem como característica
+   o fortalecimento do planejamento orientando a atuação administrativa e sua maior integração
+   com o orçamento.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Pública                          53
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+     Stefan Fantini
+     Aula 05
+
+Isso mesmo! A gestão por resultados foi introduzida, formalmente, na Administração Pública
+Federal, através dos programas do Plano Plurianual (PPA) 2000-2003 (conhecido como “Avança
+Brasil”).
+
+Independente de qual for o caminho escolhido para otimizar os resultados na gestão pública, dois
+aspectos são considerados essenciais8:
+
+           -o fortalecimento do planejamento orientado a atuação administrativa e sua maior
+           integração com o orçamento;
+
+           -e a motivação do servidor público para o alcance das metas e objetivos dos programas
+           governamentais.
+
+Gabarito: correta.
+
+36.        (FCC - TRE-SE - Analista Judiciário - Área Judiciária – 2015)
+
+      Sobre a gestão de resultados na Administração pública, é correto afirmar:
+
+      a) O estabelecimento de metas no setor público e no setor privado são semelhantes, na medida
+      em que é orientado pelo cumprimento de procedimentos e normas.
+
+      b) A legalidade e a impessoalidade são características da administração burocrática e,
+      consequentemente, orientam a elaboração de metas e o seu alcance.
+
+      c) A contratualização de resultados é um instrumento da administração burocrática e consiste
+      no estabelecimento de parcerias público-privadas.
+
+      d) A hierarquia é essencial para o estabelecimento de um contrato de gestão, pois essa
+      característica assegura o próprio cumprimento do contrato.
+
+      e) O controle por resultados é um instrumento da administração gerencial e pode envolver a
+      contratualização de resultados e contratos de gestão.
+
+Comentários:
+
+Letra A: errada. Nada disso! O estabelecimento de metas é diferente no setor público e no setor
+privado. Via de regra, o setor privado visa ao lucro; ao passo que o setor público visa ao bem estar
+dos cidadãos. Portanto, o planejamento para estabelecimento de metas é diferente em cada caso.
+
+Letra B: errada. É o modelo de administração pública gerencial que está relacionado à elaboração
+de metas.
+
+8
+    PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019, p. 315
+
+
+            Receita Federal (Analista Tributário) Administração Pública                                          54
+            www.estrategiaconcursos.com.br                                                                       71
+
+                                          
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Letra C: errada. A contratualização de resultados é um instrumento da administração pública
+gerencial.
+
+Letra D: errada. Nada disso. Os contratos de gestão são baseados na flexibilidade e na autonomia
+(e não na “hierarquia”).
+
+Letra E: correta. Isso mesmo! Assertiva perfeita.
+
+O gabarito é a letra E.
+
+37.    (FCC – TRT 9a Região - Analista Judiciário - Área Administrativa – 2015)
+
+  O contrato de gestão é um dos instrumentos passíveis de utilização na gestão por resultados na
+  administração de serviços públicos. O cerne de tal instrumento consiste
+
+  a) no aumento de receitas próprias da entidade, em relação àquelas oriundas do Orçamento
+  Fiscal.
+
+  b) na gestão de pessoas mediante remuneração por resultados.
+
+  c) no estabelecimento de mandato para os dirigentes, que podem, contudo, ser destituídos caso
+  a entidade não alcance as metas pactuadas.
+
+  d) no comprometimento da entidade com metas de desempenho, obtendo, em contrapartida,
+  maior autonomia gerencial.
+
+  e) na implantação de técnicas de gestão da iniciativa privada, pautadas pela busca da eficiência
+  e efetividade.
+
+Comentários:
+
+A característica central de todos esses instrumentos é a pactuação de resultados. Ocorre a
+negociação e o estabelecimento de metas de desempenho entre o poder público e a Entidade, a
+qual se compromete com o atingimento dessas metas de desempenho. Em contrapartida, a
+entidade ganha maior flexibilidade e autonomia.
+
+O gabarito é a letra D.
+
+38.    (Quadrix - CRO-MT - Assistente Administrativo Fiscal- 2018)
+
+  Um fator que reforça o paradigma do cliente na gestão pública é a existência de poucas
+  alternativas para os serviços governamentais.
+
+Comentários:
+
+        Receita Federal (Analista Tributário) Administração Pública                            55
+        www.estrategiaconcursos.com.br                                                         71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Isso mesmo! Grande parte dos “clientes” da administração pública é “cativo” e tem poucas
+alternativas para os serviços oferecidos por seus governos.
+
+Esse fato, aliado ao fato de que a maior parte dos órgãos públicos não sabe quem, de fato, são
+seus “clientes”, reforçam o paradigma do cliente na gestão pública.
+
+Em outras palavras, esses fatos reforçam a ideia de que o governo deve atender às necessidades
+dos clientes (cidadãos), os quais querem ser mais valorizados como clientes e querem serviços de
+qualidade.
+
+Gabarito: correta.
+
+39.     (FUNCAB - ANS - Ciências Contábeis)
+
+  Observe as seguintes definições:
+
+  I. “A Gestão para Resultados estabelece objetivos que fazem com que os gestores públicos
+  dirijam seus esforços para a conquista de metas e gerem informações sobre o nível de sucesso
+  alcançado (...)".
+
+  II. “A Gestão para Resultados é o uso de informações (...) para ajudar a estabelecer metas de
+  resultados, alocar e priorizar recursos, informar gerenciadores tanto para confirmar quanto para
+  mudar a direção das políticas ou programas atuais".
+
+  III. “A Gestão para Resultados no ambiente de um governo (...) implica que as expectativas dos
+  resultados a serem alcançados, através dos vários programas, políticas e serviços, devem ser
+  claramente articuladas, que as medidas significativas de sucesso são escolhidas e que os feitos
+  alcançados são relatados de forma justa e crível".
+
+  A alternativa que apresenta definições adequadas para o conceito de Gestão para Resultados é:
+
+  a) Somente I e II.
+
+  b) Somente I e III.
+
+  c) Somente II e III.
+
+  d) I, II e III.
+
+  e) Somente I.
+
+Comentários:
+
+Todas as assertivas trazem conceitos corretos relacionados à gestão para resultados.
+
+         Receita Federal (Analista Tributário) Administração Pública                           56
+         www.estrategiaconcursos.com.br                                                        71
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+O gabarito é a letra D.
+
+        Receita Federal (Analista Tributário) Administração Pública       57
+        www.estrategiaconcursos.com.br                                    71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+                                      LISTA DE QUESTÕES
+1. (FGV – TRT - 16ª REGIÃO (MA) - Técnico Judiciário - Área Administrativa - 2022)
+
+  A competição administrada, filosofia na qual unidades internas da Administração Pública são
+  estimuladas a competirem entre si, em termos de produtividade, é uma característica do
+  modelo de gestão conhecido por
+
+  a) burocracia.
+
+  b) patrimonialismo.
+
+  c) gestão participativa.
+
+  d) administração clientelista.
+
+  e) gestão por resultado.
+
+2. (FGV – Câmara de Taubaté - SP - Técnico Legislativo de Administração - 2022)
+
+  A gestão por resultados foi um modelo que ganhou força na Administração Pública brasileira na
+  década de 1990, impulsionada pelos ideais da época e pela conjuntura política pela qual o país
+  passava.
+
+  Avalie se são características da gestão por resultados os itens a seguir:
+
+  I. O aumento da autonomia dos gestores, pautado por valores de confiança.
+
+  II. Melhoria na economicidade do uso dos recursos públicos, assegurada pelo uso de controles
+  prévios de procedimentos.
+
+  III. Estabelecimento de padrões de melhores práticas, por meio de uma orientação voltada para
+  o autoreferenciamento.
+
+  Está correto o que se expõe em
+
+  a) I, apenas.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                          58
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  b) I e II, apenas.
+
+  c) II e III, apenas.
+
+  d) I e III, apenas.
+
+  e) I, II e III.
+
+3. (FGV – CGU - Auditor Federal de Finanças e Controle - 2022)
+
+  Na gestão por resultados, cabe ao gestor tomar decisões com base em critérios como eficiência,
+  eficácia, viabilidade e aceitabilidade.
+
+  Sobre o papel do gestor e a gestão por resultados na administração pública, é correto afirmar
+  que:
+
+  a) é inflexível, dada a atenção elevada aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis altos de accountability gerados por objetivos mensuráveis e transparentes;
+
+  b) é flexível, dada a atenção reduzida aos processos burocráticos, ao mesmo tempo que tem
+  níveis altos de accountability gerados por objetivos mensuráveis e transparentes;
+
+  c) é flexível, dada a atenção elevada aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis baixos de accountability gerados por objetivos mensuráveis, porém opacos;
+
+  d) é inflexível, dada a atenção reduzida aos processos burocráticos, ao mesmo tempo que tem
+  níveis baixos de accountability gerados por objetivos não mensuráveis mesmo que
+  transparentes;
+
+  e) é flexível, dada a atenção reduzida aos mecanismos de mensuração, ao mesmo tempo que
+  tem níveis baixos de accountability gerados por objetivos mensuráveis e transparentes.
+
+4. (FGV – EPE - Analista de Gestão Corporativa - Recursos Humanos - 2022)
+
+  Acerca da gestão por resultados, modelo promovido pela reforma gerencial, assinale a opção
+  que contém somente exemplos de suas respectivas características.
+
+  a) Flexibilização de recursos, melhoria de accountability e autonomia gerencial.
+
+  b) Flexibilização de recursos, maior controle procedimental e redução da governança.
+
+  c) Formalismo decisório, aumento hierárquico e impessoalidade.
+
+  d) Autonomia gerencial, impessoalidade e redução da governança.
+
+         Receita Federal (Analista Tributário) Administração Pública                         59
+         www.estrategiaconcursos.com.br                                                      71
+
+                                      
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  e) Melhoria de accountability, maior controle procedimental e formalismo decisório.
+
+5. (FGV – MPE-GO - Secretária Assistente - 2022)
+
+  A mudança do momento de avaliação das tarefas atribuídas foi uma das grandes inovações da
+  Administração Pública, proposta durante a reforma gerencial, ocorrida no Brasil ao final do
+  século passado.
+
+  Esse modelo de gestão é conhecido como gestão
+
+  a) por resultados.
+
+  b) por processos.
+
+  c) procedimental.
+
+  d) por supervisão direta.
+
+  e) patrimonialista.
+
+6. (FGV – MPE-GO - Assistente Administrativo - 2022)
+
+  A gestão por resultados foi uma das inovações que ganhou grande importância na
+  Administração Pública brasileira com o advento da reforma gerencial. Ela apresenta como
+  característica fundamental
+
+  a) a necessidade de desenvolvimento de indicadores que possibilitem mensurar o impacto das
+  ações governamentais.
+
+  b) a flexibilização dos recursos por meio da adoção da confiança ilimitada quanto às condutas
+  dos gestores.
+
+  c) a confluência de capacidade deliberativa no controle de líder único.
+
+  d) o alargamento do uso de procedimentos de controle “ex-ante” de responsabilidade de
+  atuação.
+
+  e) a eliminação da interação entre chefes de topo e gestores de linha, formalizada pelo uso de
+  normas e regulamentos.
+
+7. (FGV – Prefeitura de Paulínia - SP – Agente de Apoio Administrativo - 2021)
+
+  No contexto da Administração Pública, uma característica benéfica associada à Gestão por
+  Resultados é
+
+        Receita Federal (Analista Tributário) Administração Pública                          60
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  a) o aumento do controle em insumos e recursos.
+
+  b) o aprofundamento das práticas clientelistas.
+
+  c) a previsibilidade do rígido processo relacional.
+
+  d) o respeito ao aspecto hierárquico das decisões.
+
+  e) a maior autonomia dos gestores encarregados.
+
+8. (FGV – FUNSAÚDE - CE - Assistente Administrativo - 2021)
+
+  A gestão por resultados no setor público, que se tornou relevante no Brasil após a reforma
+  administrativa de 1995, foi fundamental para a revitalização da gestão pública e para a
+  retomada do equilíbrio fiscal. Sobre o conceito de gestão por resultados, assinale a afirmativa
+  correta.
+
+  a) Fundamenta-se na no princípio da centralização política, no que diz respeito à delegação de
+  competências.
+
+  b) Preconiza o fortalecimento processual nas políticas públicas desenvolvidas pelos gestores.
+
+  c) Prioriza a hierarquia decisória na tomada de decisão em detrimento do laissez-faire.
+
+  d) Privilegia a flexibilização de recursos em conjunto com a responsabilização do gestor.
+
+  e) Rechaça a ideia de confiança limitada, contrária à ideia de eficiência administrativa.
+
+9. (FGV – Prefeitura de Paulínia - SP - Cargos de Nível Fundamental - 2021)
+
+  Assinale a opção que indica o modelo de gestão que permite maior autonomia e flexibilidade
+  para o gestor público.
+
+  a) Burocrática.
+
+  b) Gestão para Resultados.
+
+  c) Mecanicista.
+
+  d) Organização Formal.
+
+  e) Administração Científica.
+
+10.    (FGV – DPE-RJ – Técnico Superior Especializado - 2019)
+
+        Receita Federal (Analista Tributário) Administração Pública                               61
+        www.estrategiaconcursos.com.br                                                            71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  Determinado dirigente de órgão público vinculado à Defensoria Pública recebe a incumbência
+  de implementar a gestão por resultados no âmbito das atividades do órgão.
+
+  Com base no contexto e nas propostas da gestão por resultados, é correto esperar que o
+  dirigente promova, como uma de suas ações:
+
+  a) a equiparação remuneratória entre as carreiras do órgão, inibindo o conflito disfuncional;
+
+  b) a reformulação incremental da cultura organizacional, visando à verticalização da linha de
+  comando;
+
+  c) o desenvolvimento dos mecanismos de prestação de contas, permitindo aumento da
+  responsabilização dos servidores;
+
+  d) a redução das tarefas executadas no órgão, garantindo a majoração do índice de
+  produtividade;
+
+  e) a implementação de bonificação por tempo de serviço, efetivando a utilização dos incentivos
+  procedimentais.
+
+11.    (FGV – COMPESA – Analista de Gestão - 2018)
+
+  A gestão por resultados permite maior flexibilidade aos colaboradores da organização,
+  enfatizando o alcance dos resultados finais.
+
+  Sendo assim, em um modelo de gestão por resultados, é imprescindível a presença de
+
+  a) técnicas relativistas.
+
+  b) grades gerenciais.
+
+  c) estruturas matriciais.
+
+  d) atividades interdependentes.
+
+  e) indicadores de desempenho.
+
+12.    (FGV – AL-RO – Assistente Legislativo - 2018)
+
+  Nas últimas décadas, visando adaptar a Administração Pública às mudanças da sociedade, novas
+  práticas de gestão, relacionadas ao modelo gerencial, vem sendo adotadas pelos governos, à
+  exemplo da Gestão por Resultados.
+
+  Assinale a opção que indica uma premissa inerente à Gestão por Resultados.
+
+        Receita Federal (Analista Tributário) Administração Pública                               62
+        www.estrategiaconcursos.com.br                                                            71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  a) A padronização dos processos de gestão.
+
+  b) A priorização da supervisão de legalidade.
+
+  c) A mentalidade mecanicista da organização pública.
+
+  d) A autonomia de responsabilidade para o gestor público.
+
+  e) A desvinculação entre planejamento e orçamento.
+
+13.    (CEBRASPE/CESPE – MP-CE – Analista – 2020)
+
+  Com a gestão por resultados na produção dos serviços públicos, os controles passo a passo dos
+  processos, característicos do estado burocrático, tem sido fundamentais para as políticas
+  públicas.
+
+14.     (CESPE - STJ - Analista Judiciário – Administrativa - 2018)
+
+  Gestão para resultados e indicadores de desempenho são aplicáveis à gestão pública e à gestão
+  privada.
+
+15.     (CESPE - Analista de Controle Externo – Administração - 2018)
+
+  A gestão por resultados preconiza na provisão de serviços públicos
+
+  b) o controle ex ante.
+
+  b) o foco nos inputs.
+
+  c) a priorização de processos.
+
+  d) a importância das parcerias.
+
+  e) a aversão a riscos.
+
+16.     (CESPE – TCE-PB – Auditor de Contas Públicas - 2018)
+
+  Entre os princípios norteadores da gestão por resultados na administração pública incluem-se a
+  tomada de decisão
+
+  a) centralizada e a cobrança de responsabilidade dos gestores, mas não dos agentes.
+
+  b) centralizada e o foco no processo de gestão.
+
+  c) descentralizada e o foco no processo de gestão.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                          63
+        www.estrategiaconcursos.com.br                                                       71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  d) descentralizada e o foco nos resultados.
+
+  e) descentralizada e a cobrança de responsabilidade dos agentes, mas não dos gestores.
+
+17.     (CESPE – TCE-PE – Auditor de Controle Externo - 2017)
+
+  A gestão por resultados na administração pública se beneficia da existência de métricas
+  programáticas robustas e comparáveis ao longo do tempo.
+
+18.     (CESPE – TRF 1a Região – Analista Judiciário - 2017)
+
+  Nas organizações, para que a gestão por resultados alcance a eficiência desejada, o
+  planejamento deve ser realizado de maneira vinculada ao orçamento.
+
+19.     (CESPE – TRE-PI – Analista Judiciário – 2016 - Adaptada)
+
+  A gestão por resultados na produção de serviços públicos contribui para o alinhamento entre o
+  planejamento, a execução, a avaliação e o controle das ações governamentais, bem como para a
+  melhoria do processo de accountability da gestão pública.
+
+20.     (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+  Ao adotar um modelo de gestão por resultados, a administração pública prioriza procedimentos
+  característicos de uma administração burocrática, haja vista que o planejamento passa a ser
+  orientado à ação para o alcance de resultados.
+
+21.     (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+  Nos contratos de gestão celebrados entre a administração pública e os interessados em
+  executar determinado serviço público, o foco principal é o acompanhamento e o controle dos
+  procedimentos legais, sendo facultativa a determinação de metas e resultados a serem
+  alcançados.
+
+22.     (CESPE – TRE-PI – Analista Judiciário – 2016 -- Adaptada)
+
+  A administração pública burocrática, pautada na gestão por resultados, prioriza manter a
+  proporcionalidade entre a entrada de recursos e os resultados por eles gerados, a fim de
+  alcançar maior eficácia e eficiência institucional.
+
+23.    (CESPE – TCE-PR – Analista de Controle – 2016 -- Adaptada)
+
+  A gestão por resultados no serviço público tem como premissa substituir os procedimentos
+  adotados pelo modelo burocrático de administração e implantar um modelo gerencial, com foco
+  na otimização dos processos.
+
+
+        Receita Federal (Analista Tributário) Administração Pública                         64
+        www.estrategiaconcursos.com.br                                                      71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+24.     (CESPE – TRT 8a Região – Analista Judiciário – 2016 - Adaptada)
+
+  A administração por resultados no setor público tem como foco o alcance de metas
+  orçamentárias, independentemente do grau de satisfação do cidadão.
+
+25.     (CESPE – TRT 8a Região – Analista Judiciário – 2016 - Adaptada)
+
+  A gestão por resultados envolve o monitoramento e a avaliação de desempenho da instituição
+  para a verificação dos resultados almejados, bem como a retroalimentação e a adoção de
+  medidas corretivas decorrentes da avaliação.
+
+26.     (CESPE – TRT 1a Região – Analista Judiciário – Adaptada)
+
+  A adoção da gestão pública por resultados limita a autonomia do gestor público na forma como
+  implementar a produção dos serviços públicos, em função dos resultados acordados.
+
+27.     (CESPE – ABIN – Oficial Técnico de Inteligência)
+
+  A adoção da gestão por resultados na administração pública implica a realização periódica de
+  negociação e acordos que envolvam os objetivos e metas fixados, em compromisso, entre o
+  Estado e cada órgão a ele subordinado.
+
+28.     (CESPE – ABIN – Oficial Técnico de Inteligência)
+
+  Na gestão por resultados, desenvolvem-se ações contrárias às consideradas necessárias ao
+  atendimento das demandas de accountability.
+
+29.     (FCC- TCE-CE - Conselheiro Substituto-Auditor – 2015 - ADAPTADA)
+
+  O conceito de gestão por resultados na Administração pública contempla o fortalecimento do
+  planejamento orientando a atuação administrativa e sua maior integração com o orçamento
+  público.
+
+30.     (CESPE - TRT 1a REGIÃO - Analista Judiciário - ADAPTADA)
+
+  A adoção da gestão pública por resultados limita a autonomia do gestor público na forma como
+  implementar a produção dos serviços públicos, em função dos resultados acordados.
+
+31.     (CESPE - TRT 1a REGIÃO - Analista Judiciário - ADAPTADA)
+
+  A gestão pública por resultados desenvolveu-se como uma estratégia que tem início no
+  momento do planejamento estratégico e vai até o processo de feedback das políticas públicas.
+
+32.     (FCC – TRE-RR - Analista Judiciário - ADAPTADA)
+
+
+        Receita Federal (Analista Tributário) Administração Pública                        65
+        www.estrategiaconcursos.com.br                                                     71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+   O movimento da Nova Gestão Pública − NGP sugere novos paradigmas gerenciais para a
+   Administração pública, um dos quais é a gestão por resultados. É característica desse modelo:
+   Centralização das decisões, com confiança limitada e não desconfiança total no servidor.
+33.     (FCC – TRE-RR - Analista Judiciário - ADAPTADA)
+   O movimento da Nova Gestão Pública − NGP sugere novos paradigmas gerenciais para a
+   Administração pública, um dos quais é a gestão por resultados. É característica desse modelo:
+   Passagem de uma gestão autocentrada para uma abordagem que se orienta pela identificação
+   e atendimento às necessidades e interesses dos cidadãos.
+34.     (FCC- TCE-CE - Conselheiro Substituto-Auditor – 2015 - ADAPTADA)
+   O conceito de gestão por resultados na Administração pública contempla a fixação de metas e
+   indicadores de desempenho.
+35.     (FCC- SEFAZ-PI – Analista do Tesouro Estadual – 2015 - ADAPTADA)
+   Na Administração pública federal, a gestão pública por resultados foi introduzida com o PPA
+   2000-2003, denominado Avança Brasil. Esse modelo de Administração, tem como característica
+   o fortalecimento do planejamento orientando a atuação administrativa e sua maior integração
+   com o orçamento.
+36.     (FCC - TRE-SE - Analista Judiciário - Área Judiciária – 2015)
+
+  Sobre a gestão de resultados na Administração pública, é correto afirmar:
+
+  a) O estabelecimento de metas no setor público e no setor privado são semelhantes, na medida
+  em que é orientado pelo cumprimento de procedimentos e normas.
+
+  b) A legalidade e a impessoalidade são características da administração burocrática e,
+  consequentemente, orientam a elaboração de metas e o seu alcance.
+
+  c) A contratualização de resultados é um instrumento da administração burocrática e consiste
+  no estabelecimento de parcerias público-privadas.
+
+  d) A hierarquia é essencial para o estabelecimento de um contrato de gestão, pois essa
+  característica assegura o próprio cumprimento do contrato.
+
+  e) O controle por resultados é um instrumento da administração gerencial e pode envolver a
+  contratualização de resultados e contratos de gestão.
+
+37.     (FCC – TRT 9a Região - Analista Judiciário - Área Administrativa – 2015)
+
+  O contrato de gestão é um dos instrumentos passíveis de utilização na gestão por resultados na
+  administração de serviços públicos. O cerne de tal instrumento consiste
+
+
+        Receita Federal (Analista Tributário) Administração Pública                           66
+        www.estrategiaconcursos.com.br                                                        71
+
+                                     
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+  a) no aumento de receitas próprias da entidade, em relação àquelas oriundas do Orçamento
+  Fiscal.
+
+  b) na gestão de pessoas mediante remuneração por resultados.
+
+  c) no estabelecimento de mandato para os dirigentes, que podem, contudo, ser destituídos caso
+  a entidade não alcance as metas pactuadas.
+
+  d) no comprometimento da entidade com metas de desempenho, obtendo, em contrapartida,
+  maior autonomia gerencial.
+
+  e) na implantação de técnicas de gestão da iniciativa privada, pautadas pela busca da eficiência
+  e efetividade.
+                                                         ==219a34==
+
+38.     (Quadrix - CRO-MT - Assistente Administrativo Fiscal- 2018)
+
+  Um fator que reforça o paradigma do cliente na gestão pública é a existência de poucas
+  alternativas para os serviços governamentais.
+
+39.    (FUNCAB - ANS - Ciências Contábeis)
+
+  Observe as seguintes definições:
+
+  I. “A Gestão para Resultados estabelece objetivos que fazem com que os gestores públicos
+  dirijam seus esforços para a conquista de metas e gerem informações sobre o nível de sucesso
+  alcançado (...)".
+
+  II. “A Gestão para Resultados é o uso de informações (...) para ajudar a estabelecer metas de
+  resultados, alocar e priorizar recursos, informar gerenciadores tanto para confirmar quanto para
+  mudar a direção das políticas ou programas atuais".
+
+  III. “A Gestão para Resultados no ambiente de um governo (...) implica que as expectativas dos
+  resultados a serem alcançados, através dos vários programas, políticas e serviços, devem ser
+  claramente articuladas, que as medidas significativas de sucesso são escolhidas e que os feitos
+  alcançados são relatados de forma justa e crível".
+
+  A alternativa que apresenta definições adequadas para o conceito de Gestão para Resultados é:
+
+  a) Somente I e II.
+
+  b) Somente I e III.
+
+  c) Somente II e III.
+
+  d) I, II e III.
+
+
+         Receita Federal (Analista Tributário) Administração Pública                           67
+         www.estrategiaconcursos.com.br                                                        71
+
+                                      
+
+
+---
+
+Stefan Fantini
+Aula 05
+
+e) Somente I.
+
+      Receita Federal (Analista Tributário) Administração Pública       68
+      www.estrategiaconcursos.com.br                                    71
+
+                                   
+
+
+---
+
+Stefan Fantini
+Aula 05
+
+                                              GABARITO
+1. Letra E                                 14. CORRETA                  27. CORRETA
+2. Letra A                                 15. Letra D                  28. ERRADA
+3. Letra B                                 16. Letra D                  29. CORRETA
+4. Letra A                                 17. CORRETA                  30. ERRADA
+5. Letra A                                 18. CORRETA                  31. CORRETA
+6. Letra A                                 19. CORRETA                  32. ERRADA
+7. Letra E                                 20. ERRADA                   33. CORRETA
+8. Letra D                                 21. ERRADA                   34. CORRETA
+9. Letra B                                 22. ERRADA                   35. CORRETA
+10. Letra C                                23. ERRADA                   36. Letra E
+11. Letra E                                24. ERRADA                   37. Letra D
+12. Letra D                                25. CORRETA                  38. CORRETA
+13. ERRADA                                 26. ERRADA                   39. Letra D
+
+      Receita Federal (Analista Tributário) Administração Pública                     69
+      www.estrategiaconcursos.com.br                                                  71
+
+                                   
+
+
+---
+
+  Stefan Fantini
+  Aula 05
+
+Referências Bibliográficas
+
+BRESSER PEREIRA, Luiz Carlos. Plano Diretor da Reforma do Estado. Brasília, Presidência da República:
+1995.
+
+BORGES, Leandro. O que é gestão por resultados? Ministério da Infraestrutura. Portanto da Estratégia.
+Disponível em: http://portaldaestrategia.infraestrutura.gov.br/ultimas-noticias/361-o-que-e-gestao-por-
+resultados.html
+
+MATIAS-PEREIRA, José. Curso de gestão estratégica na administração pública. São Paulo, Atlas: 2012. p.3
+
+OSBORNE, David. GAEBLER, Ted. Reinventando o governo. Brasília, ENAP: 1994. P.190.
+
+PALUDO, Augustinho Vicente. Administração Pública, 8ª edição. Rio de Janeiro, Editora Método: 2019.
+
+PAULA, Ana Paula Paes. Por uma nova gestão pública. Rio de Janeiro, FGV: 2007. p.63
+
+SCHWARZ, Letícia. A Experiência de Contratualização de Resultados no Governo Federal Brasileiro. MPOG.
+Secretaria de Gestão. Brasília: 2009ã
+
+Serra, Albert. Modelo aberto de gestão para resultados no setor público, tradução de Ernesto Montes-
+Bradley y Estayes. Rio Grande do Norte, SEARH 2008, pp. 36-37
+
+http://www.gespublica.gov.br/content/contratualiza%C3%A7%C3%A3o-de-resultados
+
+        Receita Federal (Analista Tributário) Administração Pública                                   70
+        www.estrategiaconcursos.com.br                                                                71
+
+                                     
+
+
+---
+
+---

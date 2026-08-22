@@ -1,0 +1,476 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 15_115_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '15'
+titulo_aula: Curso Completo de Português
+---
+
+# Curso Completo de Português
+
+---
+
+---
+
+Curso Completo de Português
+as novas perspectivas da FGV
+                                              Profª. Adriana Figueiredo
+
+         
+
+
+---
+
+  FGV – 2023 – Câmara dos
+Deputados - Analista Legislativo
+
+                                               Profª. Adriana Figueiredo
+
+          
+
+
+---
+
+01. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+O pronome em destaque está colocado de acordo com a norma-padrão da língua
+portuguesa em:
+
+“No dia 15 de maio de 1796, o general Bonaparte fez sua entrada em Milão à frente desse
+novo exército que vinha de ultrapassar a ponte de Lodi, e de mostrar ao mundo que, após
+tantos séculos, César e Alexandre tinham um sucessor. Os milagres de bravura e de
+inteligência dos quais a Itália fora testemunha despertaram um povo adormecido; oito dias
+antes da chegada dos franceses, os milaneses só viam neles uma quadrilha de bandidos.”
+(Stendhal)
+
+Assinale a afirmação adequada sobre os componentes e a estrutura desse pequeno texto.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+01. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+(A) Não há qualquer termo que se refira ao momento em que o narrador está escrevendo o
+texto.
+
+(B) A indicação da data “15 de maio de 1796” é reforçada por outros indicadores
+cronológicos do mesmo texto.
+
+(C) A referência de que “César e Alexandre” tinham um sucessor é uma alusão pejorativa a
+Napoleão Bonaparte.
+
+(D) A expressão “povo adormecido” se refere aos franceses, que eram vistos pelos italianos
+como “quadrilha de bandidos”.
+
+(E) O texto narrativo acima mostra uma contínua evolução cronológica, construída pelos
+tempos verbais.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+02. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Avalie se as frases a seguir mostram erros:
+
+I. Devem haver muitos candidatos para este concurso.
+II. Existe muitos alunos ainda pouco dedicados ao estudo.
+III. A alguns pais, custam dar esses conselhos.
+
+No que diz respeito à concordância verbal, de fato está errado o que se apresenta em
+
+(A) I, II e III.
+(B) I, apenas.
+(C) I e II, apenas.
+(D) I e III, apenas.
+(E) II e III, apenas
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+03. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+Assinale a afirmação correta sobre a estruturação e a composição desse fragmento.
+
+(A) Alguns dos termos que fazem a retomada de termos anteriores mostram a intromissão
+do enunciador.
+
+(B) O termo sublinhado ao início do texto é explicitado nos períodos seguintes.
+
+(C) Após o título dado ao texto, há quatro períodos; dois desses períodos retomam termos
+anteriores do texto (coesão).
+
+(D) O texto se enquadra entre os textos publicitários, revelando o enredo policial de um
+filme, a fim de angariar espectadores.
+
+(E) A informação sobre a profissão da vítima tem implicações diretas com o enredo, por isso
+foi identificada.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+04. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+Todas as frases a seguir mostram formas verbais no futuro do pretérito.
+
+Assinale a frase que mostra o valor semântico desse tempo verbal de forma adequada.
+
+(A) Tens a certeza de que, passadas as primeiras semanas, não lamentaria tamanho
+sacrifício? / Indicação de incerteza.
+
+(B) Ela teria, talvez, uns treze anos. / Designação de ações posteriores à época em que se
+fala.
+
+(C) Gostaríamos ouvi-lo sobre o crime. / Forma polida de presente, em geral denotando
+desejo.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+04. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+(D) Nosso amor morreu... Quem diria? / Indicação de uma afirmação condicionada.
+
+(E) Era ela, seria ela? / Emprego em certas frases interrogativas e exclamativas para denotar
+surpresa ou indignação.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+05. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+Em todas as frases a seguir foram empregados pronomes possessivos sublinhados. Assinale a
+frase em que, de fato, esse pronome indica posse.
+
+(A) Um marido demasiadamente apaixonado está enganando sua mulher.
+
+(B) Quando eu for morar sozinho, vou levar minha mãe.
+
+(C) É com trivialidades, e quando está desprevenido, que um homem melhor revela o seu
+caráter.
+
+(D) Todas as minhas propriedades estão em meu país.
+
+(E) Meu invento pode ser explorado como uma curiosidade científica por algum tempo, mas
+não tem futuro comercial.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+06. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Leia o fragmento a seguir, retirado de um dicionário de curiosidades sobre o Rio de Janeiro.
+
+
+          “O Rio de Janeiro, de hoje, cidade abastecida de todos os gêneros alimentícios, teve, na
+sua origem, o peixe como principal elemento de abastecimento, devido à sua própria
+situação geográfica. O único local que abastecia a cidade, estava situado nas imediações do
+Mercado Velho, onde além do peixe, eram vendidos frutas, sal, mariscos, farinha e diversos
+outros alimentos. Posteriormente, com o aparecimento do primeiro empório comercial da
+cidade, na Rua da Quitanda, que deve seu nome a esse fato, o abastecimento da cidade
+passou a ter novas fontes”.
+
+Profª Adriana Figueiredo
+                                      
+
+
+---
+
+06. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Assinale o termo sintático sublinhado no fragmento acima que desempenha a função de
+complemento nominal.
+
+(A) de todos os gêneros alimentícios
+
+(B) de abastecimento
+
+(C) do Mercado Velho
+
+(D) do primeiro empório comercial da cidade
+
+(E) da cidade
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+07. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Assinale a frase em que a conjunção “e” tem valor adversativo.
+
+(A) De tigre faminto e mulher apaixonada não há quem escape.
+
+(B) Morremos em um instante, e tememos a morte por muitos anos.
+
+(C) Deus criou o mundo em seis dias e, no domingo, descansou.
+
+(D) Os homens são criaturas com duas pernas e oito mãos.
+
+(E) Homens são todos parecidos, exceto aquele um que você encontrou e é diferente.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+08. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Assinale a frase em que a preposição sublinhada tem valor gramatical, ou seja, é exigida por
+um termo anterior.
+
+(A) Você não é nada até ser odiado por todos.
+
+(B) Esse ignóbil baile de máscaras que se chama sociedade.
+
+(C) Não há nenhum grande homem para o seu criado de quarto.
+
+(D) Quem vive bem com a pobreza é rico.
+
+(E) Um homem é rico na medida do número de coisas de que ele é capaz de abrir mão
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+09. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Uma notícia de jornal dizia:
+
+“É legítimo: numerosas pessoas desejam saber como tão numerosos focos de incêndio
+puderam produzir-se. Os sinistros da Amazônia, assim como outros menos importantes, são
+talvez de origem criminosa. Mas os incêndios do Pantanal parecem dever-se exclusivamente
+a condições meteorológicas. De fato, os ventos transportavam as fagulhas às plantações de
+soja. Verdadeiros palitos de fósforo, essas mechas de fogo desempenharam o papel de
+detonadores, caindo sobre o mato seco. A psicose do piromaníaco é sem dúvida alguma
+compreensível, mas ela francamente não é justificável.”
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+09. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Nesse texto, só não deve ser considerado modalizador o seguinte termo:
+
+(A) talvez / indica probabilidade.
+
+(B) parecem / indica possibilidade.
+
+(C) criminosa / indica opinião subjetiva.
+
+(D) sem dúvida alguma / indica certeza.
+
+(E) francamente / indica certeza.
+
+Profª Adriana Figueiredo
+                                     
+
+
+---
+
+10. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Observemos o texto a seguir, escrito em 1996:
+
+     “O correio eletrônico (e-mail). Podemos enviar mensagens em alguns segundos ao
+outro extremo da Terra pelo preço de uma comunicação local. O correio eletrônico é o
+serviço mais utilizado da Internet.
+     Todo internauta digno desse nome dispõe de um endereço) eletrônico. Ele aparece nos
+cartões de visita, com a mesma importância do endereço real e do número de telefone. Um
+endereço eletrônico se apresenta em geral sob a forma: nome@domínio.país. O nome pode
+ser abreviado sob a forma de um código ou de um número; o domínio é o organismo ao qual
+está ligado o usuário ou o nome de seu fornecedor de acesso; o país está em forma
+abreviada. Os endereços eletrônicos são escritos sem espaços ou acentos.”
+
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+10. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+Sobre a estruturação e a composição desse pequeno texto, assinale a afirmativa correta.
+
+(A) Os textos explicativos, como este, focalizam prioritariamente os referentes de que
+tratam, com frequentes intromissões pessoais dos enunciadores.
+
+(B) A forma “Podemos”, no início do texto, indica um agente definido, ou seja, qualquer
+pessoa capaz de efetuar as manipulações descritas.
+
+(C) As formas verbais na voz passiva com auxiliar – o nome pode ser abreviado – permite
+que o agente das ações seja omitido.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+10. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+
+(D) A data da produção do texto foi fornecida para mostrar que se trata de informações
+bastante atualizadas.
+
+(E) As referências no texto fazem crer que ele foi produzido para adolescentes, em função
+do nível de tratamento dado ao tema.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+11. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+As frases a seguir mostram ações sem seus agentes correspondentes identificados. Assinale
+a única frase que tem a estratégia dessa marca corretamente identificada.
+
+(A) Neva bastante no sul do país quase todo inverno / verbos transitivos na forma impessoal.
+
+(B) Ocorreu um acidente na esquina da rua / verbos intransitivos, com sujeito posposto.
+
+(C) Este ano, editou-se um grande número de livros / construção com sujeito indeterminado.
+
+(D) Está mais ou menos certo que o homem de Neanderthal não é nosso ancestral / verbo
+ser, em construções clássicas.
+
+(E) Destruíram vários ônibus na cidade do Rio / sujeito indeterminado com verbo na terceira
+pessoa do plural.
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+12. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+Todos os fragmentos textuais a seguir são do tipo argumentativo. Assinale a opção em que o
+texto se apoia na construção de um estereótipo.
+
+(A) Os homens solitários estão sempre em má companhia.
+
+(B) Os cariocas vão mais ao Maracanã do que ao teatro.
+
+(C) Os livros históricos mostram somente a verdade do autor, mas não a dos fatos.
+
+(D) Os artistas mais aclamados pelo público nem sempre merecem a glória de uma estátua.
+
+(E) Como os italianos falam com as mãos, saia do lado deles quando estiverem discursando.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+13. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+Um dos problemas mais sérios na correção linguística é o tema da conjugação verbal.
+Assinale a frase que apresenta um erro de conjugação.
+
+(A) Os turistas reouveram as malas perdidas.
+
+(B) Nunca pressupomos que isso aconteceria.
+
+(C) A mulher se entreteve com as crianças.
+
+(D) Os juízes requereram muitos documentos.
+
+(E) Eles se desavieram por causa dela.
+
+Profª Adriana Figueiredo
+                                 
+
+
+---
+
+14. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+As opções a seguir apresentam palavras formadas com o auxílio do sufixo “-ADA”. Assinale a
+opção em que esse sufixo, em uma das palavras formadas, mostra valor semântico diferente
+das demais.
+
+(A) rapaziada / garotada.
+
+(B) gurizada / meninada.
+
+(C) marujada / mulherada.
+
+(D) livralhada / traquinada.
+
+(E) sujeirada / papelada.
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+15. FGV – 2023 – Câmara dos Deputados - Analista Legislativo
+As frases a seguir foram escritas sem qualquer sinal de pontuação. Assinale a frase que
+deveria incluir duas vírgulas obrigatoriamente.
+
+(A) De tudo o que você diz em português as pessoas duvidam.
+
+(B) Como dizia o esquartejador vamos por partes.
+
+(C) A imprensa mente deturpa os fatos e agride o vernáculo.
+
+(D) O presidente reina por quatro anos na América e o jornalismo por todo o sempre.
+
+(E) Eu quando tenho de enviar uma mensagem não escrevo um livro vou aos Correios.
+
+Profª Adriana Figueiredo
+                                
+
+
+---
+
+OBRIGADA!
+                                         Professora: Adriana Figueiredo
+
+    
+
+
+---
+
+Professora: Adriana Figueiredo
+
+
+                       @professoraadrianafigueiredo
+
+            https://www.youtube.com/user/professoraadrianaf
+
+                  facebook.com/prof.adriana.figueiredo
+
+               
+
+
+---
+
+---

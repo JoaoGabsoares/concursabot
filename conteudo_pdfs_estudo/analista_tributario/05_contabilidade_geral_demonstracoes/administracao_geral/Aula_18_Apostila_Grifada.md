@@ -1,0 +1,2097 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 18_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '18'
+titulo_aula: Índice
+artigos_citados:
+- Art. 177.
+- Art. 184.
+- art. 177
+- art. 187
+- art. 7º
+- art. 80
+- "artigo\n      189"
+- artigo 243
+---
+
+# Índice
+
+Índice
+1)  Tópicos Selecionados da Lei 6.404/76 - Teoria
+
+
+)  Tópicos Selecionados da Lei 6.404/76 - Questões Comentadas                                                                                                                              44
+
+3)  Lista de Questões Tópicos Selecionados da Lei 6.404/76                                                                                                                                  51
+..............................................................................................................................................................................................
+
+
+---
+
+                                      APRESENTAÇÃO
+Prezados, nesta aula vamos comentar alguns artigos da Lei n. 6.404/76 que entendemos ser interessante
+para o seu estudo. Você verá que boa parte já estudamos ao longo das aulas e, portanto, a aula não possui
+vídeo. Trata-se de uma oportunidade para revisar esses pontos e complementar com alguns dispositivos da
+Lei que não foram abordados ao longo das aulas.
+Bons estudos!
+Possati
+
+
+---
+
+                        CAPÍTULO XV DA LEI N. 6.404/76
+
+EXERCÍCIO SOCIAL E DEMONSTRAÇÕES FINANCEIRAS
+
+Exercício Social
+
+           Art. 175. O exercício social terá duração de 1 (um) ano e a data do término será fixada no
+       estatuto.
+            Parágrafo único. Na constituição da companhia e nos casos de alteração estatutária o
+       exercício social poderá ter duração diversa.
+
+
+Demonstrações Financeiras (disposições gerais)
+
+            Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração
+       mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com
+       clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício:
+            I - balanço patrimonial;
+            II - demonstração dos lucros ou prejuízos acumulados;
+            III - demonstração do resultado do exercício; e
+            IV – demonstração dos fluxos de caixa; e (Redação dada pela Lei nº 11.638,de 2007)
+            V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei nº 11.638,de
+       2007)
+
+     Segundo esse dispositivo, ao fim de cada exercício social a diretoria deve elaborar, com base na
+escrituração mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com
+clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício:
+   ▪    Balanço Patrimonial (BP);
+   ▪    Demonstração dos Lucros e Prejuízos Acumulados (DLPA);
+   ▪    Demonstração do Resultado do Exercício (DRE);
+   ▪    Demonstração dos Fluxos de Caixa (DFC);
+   ▪    Demonstração do Valor Adicionado (DVA).
+
+
+---
+
+i. A elaboração da DLPA é dispensada, desde que seja elaborada a Demonstração das Mutações do
+Patrimônio Líquido (DMPL);
+ii. A DVA somente é obrigatória para as sociedades anônimas de capital aberto1;
+iii. A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$ 2.000.000,00 (dois milhões
+de reais), está dispensada da elaboração da DFC. [vide § 6º abaixo]
+
+Aqui é importante lembrar que a NBC TG 26 descreve outras demonstrações não previstas pela legislação
+societária. O item 10 da NBC TG 26 versa sobre o “conjunto completo das demonstrações contábeis”. A
+seguir transcrevemos referido item:
+Conjunto completo de demonstrações contábeis
+10. O conjunto completo de demonstrações contábeis inclui:
+(a) balanço patrimonial ao final do período;
+(b) demonstração do resultado do período;
+(ba) demonstração do resultado abrangente do período;
+(c) demonstração das mutações do patrimônio líquido do período;
+(d) demonstração dos fluxos de caixa do período;
+(da) demonstração do valor adicionado do período, conforme NBC TG 09 – Demonstração do Valor
+Adicionado, se exigido legalmente ou por algum órgão regulador ou mesmo se apresentada
+voluntariamente;
+(e) notas explicativas, compreendendo as políticas contábeis significativas e outras informações
+elucidativas;
+(ea) informações comparativas com o período anterior, conforme especificado nos itens 38 e 38A;
+(f) balanço patrimonial do início do período mais antigo, comparativamente apresentado, quando a
+entidade aplica uma política contábil retrospectivamente ou procede à reapresentação retrospectiva de
+itens das demonstrações contábeis, ou quando procede à reclassificação de itens de suas demonstrações
+contábeis de acordo com os itens 40A a 40D.
+Perceba que a NBC TG 26 exige, além daquelas previstas na Lei n. 6.404/76, a Demonstração do Resultado
+Abrangente. Observe também que a DLPA não é prevista pela NBC TG 26.
+
+1
+  A companhia aberta é obrigada a apresentar a DVA. Os órgãos reguladores (ANTT, BACEN, PREVIC, ANATEL, etc), no entanto,
+podem exigir que as empresas a ele submetidas apresentem a DVA. Nos demais casos, a apresentação dessa demonstração é
+facultativa. A Resolução CFC 1.162/2009 afirma que "É recomendado, entretanto, a sua elaboração por todas as entidades que
+divulgam demonstrações contábeis."
+
+
+---
+
+     § 1º As demonstrações de cada exercício serão publicadas com a indicação dos valores
+     correspondentes das demonstrações do exercício anterior.
+
+A ideia aqui é a comparabilidade das informações (demonstrações comparativas). Assim, ao publicar o
+balanço do ano X2 a companhia deve apresentar os valores do balanço do ano X1.
+
+     § 2º Nas demonstrações, as contas semelhantes poderão ser agrupadas; os pequenos saldos
+     poderão ser agregados, desde que indicada a sua natureza e não ultrapassem 0,1 (um décimo)
+     do valor do respectivo grupo de contas; mas é vedada a utilização de designações genéricas,
+     como "diversas contas" ou "contas-correntes".
+
+    Atenção para o limite = 0,1, ou seja 10%.
+Exemplo de contas semelhantes: Financiamentos e Empréstimos
+Exemplo de pequenos saldos agregados: Disponibilidades (agregando-se as contas Caixa e Bancos,
+observando-se o limite de 10% do ativo circulante).
+
+     § 3º As demonstrações financeiras registrarão a destinação dos lucros segundo a proposta dos
+     órgãos da administração, no pressuposto de sua aprovação pela assembléia-geral.
+
+Observe que quem decide sobre a destinação dos lucros é a Assembleia Geral Ordinária (AGO). Como ela
+ocorre após a elaboração das demonstrações, estas devem registrar a destinação dos lucros de acordo com
+a proposta dos órgãos da administração, no pressuposto de sua aprovação pela AGO.
+
+Notas Explicativas
+
+     § 4º As demonstrações serão complementadas por notas explicativas e outros quadros analíticos
+     ou demonstrações contábeis necessários para esclarecimento da situação patrimonial e dos
+     resultados do exercício.
+
+Exemplo de demonstrações complementares: Balanço Social, Balanço Ambiental, sobretudo nos setores em
+que os fatores ambientais e sociais sejam significativos e quando os empregados são considerados um
+importante grupo de usuários. “Os relatórios e demonstrações apresentados fora das demonstrações
+contábeis estão fora do âmbito das normas emitidas pelo CFC”. (item 14 da NBC TG 26).
+Segundo o Manual de Contabilidade Societária (FIPECAFI), as notas explicativas são informações
+complementares às demonstrações contábeis, representando parte integrante dessas demonstrações.
+Podem estar expressas tanto na forma descritiva como na forma de quadros analiticos, ou mesmo englobar
+outras demonstrações contábeis que forem necessárias ao melhor e mais completo esclarecimento dos
+resultados e da situação financeira da empresa.
+O referido Manual informa que as notas podem ser usadas para descrever práticas contábeis utilizadas pela
+companhia, para explicações adicionais sobre determinadas contas ou operações específicas e ainda para
+composição e detalhes de certas contas.
+Segundo a NBC TG 26, as notas explicativas contêm informação adicional em relação à apresentada nas
+demonstrações contábeis.
+
+
+---
+
+As notas explicativas oferecem descrições narrativas ou segregações e aberturas de itens divulgados nessas
+demonstrações e informação acerca de itens que não se enquadram nos critérios de reconhecimento nas
+demonstrações contábeis.
+O § 5o abaixo descrito estabelece o que deve ser evidenciado nas notas explicativas.
+
+     § 5o As notas explicativas devem: (Redação dada pela Lei nº 11.941, de 2009)
+     I – apresentar informações sobre a base de preparação das demonstrações financeiras e das
+     práticas contábeis específicas selecionadas e aplicadas para negócios e eventos
+     significativos; (Incluído pela Lei nº 11.941, de 2009)
+     II – divulgar as informações exigidas pelas práticas contábeis adotadas no Brasil que não estejam
+     apresentadas em nenhuma outra parte das demonstrações financeiras; (Incluído pela Lei nº 11.941,
+     de 2009)
+     III – fornecer informações adicionais não indicadas nas próprias demonstrações financeiras e
+     consideradas necessárias para uma apresentação adequada; e (Incluído pela Lei nº 11.941, de 2009)
+     IV – indicar: (Incluído pela Lei nº 11.941, de 2009)
+     a) os principais critérios de avaliação dos elementos patrimoniais, especialmente estoques, dos
+     cálculos de depreciação, amortização e exaustão, de constituição de provisões para encargos ou
+     riscos, e dos ajustes para atender a perdas prováveis na realização de elementos do
+     ativo; (Incluído pela Lei nº 11.941, de 2009)
+     b) os investimentos em outras sociedades, quando relevantes (art. 247, parágrafo único); (Incluído
+     pela Lei nº 11.941, de 2009)
+     c) o aumento de valor de elementos do ativo resultante de novas avaliações (art. 182, §
+     3o ); (Incluído pela Lei nº 11.941, de 2009)
+     d) os ônus reais constituídos sobre elementos do ativo, as garantias prestadas a terceiros e outras
+     responsabilidades eventuais ou contingentes; (Incluído pela Lei nº 11.941, de 2009)
+     e) a taxa de juros, as datas de vencimento e as garantias das obrigações a longo prazo; (Incluído
+     pela Lei nº 11.941, de 2009)
+     f) o número, espécies e classes das ações do capital social; (Incluído pela Lei nº 11.941, de 2009)
+     g) as opções de compra de ações outorgadas e exercidas no exercício; (Incluído pela Lei nº 11.941,
+     de 2009)
+     h) os ajustes de exercícios anteriores (art. 186, § 1o); e (Incluído pela Lei nº 11.941, de 2009)
+     i) os eventos subsequentes à data de encerramento do exercício que tenham, ou possam vir a ter,
+     efeito relevante sobre a situação financeira e os resultados futuros da companhia. (Incluído pela
+     Lei nº 11.941, de 2009)
+          § 6o A companhia fechada com patrimônio líquido, na data do balanço, inferior a R$
+     2.000.000,00 (dois milhões de reais) não será obrigada à elaboração e publicação da
+     demonstração dos fluxos de caixa. (Redação dada pela Lei nº 11.638,de 2007)
+          § 7o A Comissão de Valores Mobiliários poderá, a seu critério, disciplinar de forma diversa o
+     registro de que trata o § 3o deste artigo. (Incluído pela Lei nº 11.941, de 2009)
+
+
+---
+
+Escrituração
+
+          Art. 177. A escrituração da companhia será mantida em registros permanentes, com
+   obediência aos preceitos da legislação comercial e desta Lei e aos princípios de contabilidade
+   geralmente aceitos, devendo observar métodos ou critérios contábeis uniformes no tempo e
+   registrar as mutações patrimoniais segundo o regime de competência.
+         § 1º As demonstrações financeiras do exercício em que houver modificação de métodos ou
+   critérios contábeis, de efeitos relevantes, deverão indicá-la em nota e ressaltar esses efeitos.
+         § 2o A companhia observará exclusivamente em livros ou registros auxiliares, sem qualquer
+   modificação da escrituração mercantil e das demonstrações reguladas nesta Lei, as disposições
+   da lei tributária, ou de legislação especial sobre a atividade que constitui seu objeto, que
+   prescrevam, conduzam ou incentivem a utilização de métodos ou critérios contábeis diferentes
+   ou determinem registros, lançamentos ou ajustes ou a elaboração de outras demonstrações
+   financeiras. (Redação dada pela Lei nº 11.941, de 2009)
+   I – (revogado); (Redação dada pela Lei nº 11.941, de 2009)
+   II – (revogado). (Redação dada pela Lei nº 11.941, de 2009)
+   § 3o As demonstrações financeiras das companhias abertas observarão, ainda, as normas
+   expedidas pela Comissão de Valores Mobiliários e serão obrigatoriamente submetidas a auditoria
+   por auditores independentes nela registrados.(Redação dada pela Lei nº 11.941, de 2009)
+         § 4º As demonstrações financeiras serão assinadas pelos administradores e por contabilistas
+   legalmente habilitados.
+         § 5o As normas expedidas pela Comissão de Valores Mobiliários a que se refere o § 3o deste
+   artigo deverão ser elaboradas em consonância com os padrões internacionais de contabilidade
+   adotados nos principais mercados de valores mobiliários. (Incluído pela Lei nº 11.638,de 2007)
+         § 6o As companhias fechadas poderão optar por observar as normas sobre demonstrações
+   financeiras expedidas pela Comissão de Valores Mobiliários para as companhias abertas. (Incluído
+   pela Lei nº 11.638,de 2007)
+         § 7o (Revogado). (Redação dada pela Lei nº 11.941, de 2009)
+
+
+---
+
+BALANÇO PATRIMONIAL
+
+Grupo de Contas
+
+            Art. 178. No balanço, as contas serão classificadas segundo os elementos do patrimônio que
+      registrem, e agrupadas de modo a facilitar o conhecimento e a análise da situação financeira da
+      companhia.
+             § 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos
+      elementos nelas registrados, nos seguintes grupos:
+            I – ativo circulante; e (Incluído pela Lei nº 11.941, de 2009)
+             II – ativo não circulante, composto por ativo realizável a longo prazo, investimentos,
+      imobilizado e intangível. (Incluído pela Lei nº 11.941, de 2009)
+           § 2º No passivo, as contas serão classificadas nos seguintes grupos:
+      I – passivo circulante; (Incluído pela Lei nº 11.941, de 2009)
+      II – passivo não circulante; e (Incluído pela Lei nº 11.941, de 2009)
+      III – patrimônio líquido, dividido em capital social, reservas de capital, ajustes de avaliação
+      patrimonial, reservas de lucros, ações em tesouraria e prejuízos acumulados. (Incluído pela Lei nº
+      11.941, de 2009)
+           § 3º Os saldos devedores e credores que a companhia não tiver direito de compensar serão
+      classificados separadamente.
+
+Em que pese a Lei não normatizar expressamente, no passivo as contas serão dispostas em ordem
+decrescente de grau de exigibilidade dos elementos nela registrados. Portanto, as obrigações vincendas até
+o término do exercício seguinte serão classificadas no Passivo Circulante. As obrigações vincendas após o
+término do exercício seguinte serão classificadas no Passivo Não Circulante.
+
+                                  Grau de Liquidez e Grau de Exigibilidade
+O “Grau de Liquidez” está associado ao prazo no qual os bens e direitos podem ser transformados em
+dinheiro. Sendo assim, quanto menor o prazo, maior a liquidez e vice-versa.
+O “Grau de Exigibilidade”, assim como o de Liquidez, está associado ao prazo no qual as obrigações devem
+ser pagas. Portanto, quanto menor o prazo maior o grau de exigibilidade e vice-versa.
+
+
+Basicamente, a classificação descrita na Lei é a seguinte:
+
+
+---
+
+                            ATIVO                                       PASSIVO
+
+        Ativo Circulante
+        Bens e Direitos (curto prazo)
+        (-) contas retificadoras2                    Passivo Circulante
+                                                     Obrigações (curto prazo)
+        Ativo Não Circulante                         (-) contas retificadoras
+
+
+        Ativo Realizável a Longo Prazo               Passivo Não Circulante
+        Bens e Direitos (longo prazo)                Obrigações de Longo Prazo
+        (-) contas retificadoras                     (-) contas retificadoras
+
+
+        Investimentos                                Patrimônio Líquido
+        Bens                                         Capital Social
+        (-) contas retificadoras                     (-) Capital a Integralizar
+                                                     (-) Gastos com Emissão de Ações
+        Imobilizado                                  Reservas de Capital
+        Bens tangíveis                               (+/-) Ajustes de Avaliação Patrimonial
+        (-) contas retificadoras                     Reservas de Lucros
+                                                     (-) Ações em Tesouraria
+        Intangível                                   (-) Prejuízos Acumulados
+        Bens Intangíveis
+        (-) contas retificadoras
+
+        Total                                        Total
+
+2 Representam incertezas quanto à quantia ou data de vencimento. A constituição das contas retificadoras
+decorre da aplicação dos princípios de contabilidade da Prudência, Oportunidade e Competência.
+
+
+---
+
+Ativo
+
+            Art. 179. As contas serão classificadas do seguinte modo:
+            I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso do exercício social
+        subsequente e as aplicações de recursos em despesas do exercício seguinte;
+
+Conforme vimos no balanço acima, o AC é composto pelos bens e direitos de curto prazo, assim considerados
+aqueles que a companhia espere que sejam realizados até doze meses após a data do Balanço Patrimonial.
+Trata-se do Capital de Giro da entidade, pois representam os bens e direitos em constante circulação.
+
+                 Data
+                  do               Ativo Circulante
+                Balanço                                                  Ativo Realizável a Longo Prazo
+
+                31/12/20X1                                 31/12/20X2
+
+Observe que os demais bens e direitos com realização prevista acima de doze meses da data do Balanço
+Patrimonial, são classificados no Ativo Realizável a Longo Prazo, a seguir estudado.
+Portanto, no AC serão classificados:
+    ▪    As disponibilidades;
+    ▪    Os direitos realizáveis no curso do exercício social subsequente;
+    ▪    As aplicações de recursos em despesas do exercício seguinte.
+As disponibilidades representam basicamente os bens numerários: caixa e equivalentes de caixa 3, bancos,
+aplicações financeiras de liquidez imediata, numerários em trânsito, entre outras contas.
+Os direitos realizáveis no curso do exercício social subsequente, por sua vez, representam os créditos da
+empresa com terceiros (direitos realizáveis pessoais) e os bens da empresa (direitos realizáveis reais).
+Exemplos:
+Direitos realizáveis pessoais: Duplicatas a Receber, Tributos a Recuperar
+Direitos realizáveis Reais: Estoques
+Por fim, as aplicações de recursos em despesas do exercício seguinte compreendem as despesas do exercício
+seguinte pagas no exercício atual, também denominadas de despesas antecipadas.
+Exemplos:
+- Contratação de um seguro com cobertura no exercício seguinte (Prêmios de Seguros a Vencer).
+- Encargos Financeiros Antecipados.
+
+3 Os equivalentes de caixa são aplicações ou investimentos a curto prazo, de alta liquidez, que sejam prontamente convertíveis
+para quantias conhecidas de dinheiro e que estejam sujeitos a um risco insignificante de alterações de valor.
+
+
+---
+
+Na empresa em que o ciclo operacional4 tiver duração maior que o exercício social, a classificação no
+circulante terá por base o prazo desse ciclo (art. 179, parágrafo único).
+
+        II - no ativo realizável a longo prazo: os direitos realizáveis após o término do exercício seguinte,
+        assim como os derivados de vendas, adiantamentos ou empréstimos a sociedades coligadas ou
+        controladas (artigo 243), diretores, acionistas ou participantes no lucro da companhia, que não
+        constituírem negócios usuais na exploração do objeto da companhia;
+
+Portanto, no ARLP serão classificados:
+    ▪    Direitos realizáveis após o término do exercício seguinte;
+    ▪    Direitos com pessoas ligadas de negócio não usual.
+Os Direitos realizáveis após o término do exercício seguinte são os direitos cujos prazos esperados para
+realização se situem após o término do exercício social seguinte, conforme já vimos no esquema abaixo:
+
+
+             Data
+              do             Ativo Circulante
+            Balanço
+                                                                 Ativo Realizável a Longo Prazo
+
+          31/12/20X1                               31/12/20X2
+
+Exemplo: Títulos a Receber (pelo prazo de realização do direito)
+Os Direitos com pessoas ligadas de negócio não usual, por sua vez, representam os direitos que,
+independentemente do prazo de vencimento, a lei assim o determine.
+Exemplo: Empréstimos a Coligadas, Diretores ou Acionistas (por força da lei).
+Para que um direito seja classificado no ARLP, independentemente do prazo, deve atender três requisitos
+cumulativamente, quais sejam:
+1º) Os direitos devem ser decorrentes de vendas, adiantamentos ou empréstimos;
+2º) Os direitos devem estar relacionados com controladas, coligadas, diretores, acionistas ou participantes
+no lucro;
+3º) A operação deve ser não usual.
+
+4 O ciclo operacional é o intervalo de tempo em que uma entidade adquire matéria-prima (no caso de indústria) ou mercadorias
+(no caso de empresa comercial) efetua a produção (indústria), vende e recebe o valor correspondente à venda.
+
+
+---
+
+Para o ARLP vale o mesmo destaque que vimos no Ativo Circulante:
+Na companhia em que o ciclo operacional tiver duração maior que o exercício social, a classificação no
+Realizável a Longo Prazo terá por base o prazo desse ciclo (art. 179, parágrafo único).
+Sendo assim, se o ciclo operacional de determinada empresa for de 18 meses, por exemplo, todos os bens e
+direitos que estiverem dentro do prazo de 18 meses serão classificados no AC. Os demais que excederem
+esse prazo serão classificados no ARLP. Vale lembrar que os empréstimos a controladas, coligadas, diretores,
+acionistas e participantes no lucro, independente do prazo, serão classificados no ARLP.
+Por fim, vale destacar que no ARLP, com exceção das disponibilidades, poderão figurar todas as demais
+contas representativas das aplicações de recursos em bens e direitos, inclusive das despesas pagas
+antecipadamente que constarem do Ativo Circulante, desde que tenham o prazo de realização superior a 12
+meses ou superior à duração do ciclo operacional. Assim, teremos a conta “Estoques – LP”, “Clientes – LP”,
+etc.
+
+           III - em investimentos: as participações permanentes em outras sociedades e os direitos de
+       qualquer natureza, não classificáveis no ativo circulante, e que não se destinem à manutenção
+       da atividade da companhia ou da empresa;
+
+Como exemplo de contas classificáveis nesse subgrupo temos:
+   ▪    Participações em Outras Empresas;
+   ▪    Ações de empresas Coligadas;
+   ▪    Ações de empresas Controladas;
+   ▪    Terrenos para Utilização Futura (terrenos não utilizados);
+   ▪    Imóvel para Aluguel*.
+
+* Os imóveis para aluguel podem ser classificados tanto no imobilizado como em investimentos, a depender
+da finalidade desse aluguel. Será classificado no imobilizado quando o aluguel estiver relacionado às
+atividades fins da empresa (veja exemplo de questão exigida nesse sentido abaixo). Caso o aluguel não esteja
+relacionado com as atividades da empresa classificamos como investimentos (propriedade para
+investimento).
+
+1. (ISS-Recife) Uma entidade adquiriu 10 apartamentos, em um prédio ao lado de sua fábrica, por R$
+500.000,00 cada. Esses apartamentos são alugados para funcionários da entidade que são originalmente, de
+fora do estado. No balanço Patrimonial dessa entidade , os apartamentos devem ser evidenciados no
+subgrupo.
+a) Ativo circulante
+b) ativo realizável a longo prazo
+c) investimentos
+d) Imobilizado;
+
+
+---
+
+e) Patrimônio líquido
+Comentários
+Nesse caso, como o aluguel é para funcionários que trabalham na empresa, devem ser classificados como
+ativo imobilizado. Veja que os funcionários são de fora do Estado e, portanto, trata-se de uma política da
+empresa necessária para o desenrolar das suas atividades, ou seja, os apartamentos são bens corpóreos
+destinados à manutenção das atividades da companhia ou exercidos com essa finalidade. Logo, devem ser
+classificados no imobilizado e não em investimentos.
+Gabarito: D
+
+            IV – no ativo imobilizado: os direitos que tenham por objeto bens corpóreos destinados à
+       manutenção das atividades da companhia ou da empresa ou exercidos com essa finalidade,
+       inclusive os decorrentes de operações que transfiram à companhia os benefícios, riscos e controle
+       desses bens; (Redação dada pela Lei nº 11.638,de 2007)
+
+  Segundo o CPC 27 – Ativo Imobilizado,
+       Ativo imobilizado é o item tangível que:
+       (a) é mantido para uso na produção ou fornecimento de mercadorias ou serviços, para aluguel a
+       outros, ou para fins administrativos; e
+       (b) se espera utilizar por mais de um período.
+Entre as contas que são classificadas nesse subgrupo destacam-se:
+   ▪    Veículos;
+   ▪    Móveis e Utensílios;
+   ▪    Máquinas e Motores;
+   ▪    Imóveis;
+   ▪    Veículos adquiridos por meio de arrendamento mercantil financeiro.
+Pessoal, aqui nesse ponto cabe destacar o que seriam os bens “decorrentes de operações que transfiram à
+companhia os benefícios, riscos e controle desses bens”. Referidos bens não são de propriedade da empresa,
+porém são classificados no ativo imobilizado. O principal exemplo desses bens são os objetos de leasing
+(arrendamento mercantil). Os arrendamentos podem ser de dois tipos: operacional e financeiro. A diferença
+fundamental entre eles reside na transferência de riscos. Caso exista a transferência de riscos teremos um
+arrendamento financeiro. Caso contrário, teremos um arrendamento operacional. Assim, temos:
+                        Riscos e benefícios ficam com o arrendatário: arrendamento financeiro.
+                        Riscos e benefícios ficam com o arrendador: arrendamento operacional.
+As principais características inerentes aos arrendamentos financeiros são:
+   ▪    Há transferência da propriedade ao final do contrato;
+   ▪    O valor residual é mais baixo que o valor justo;
+   ▪    O período do arrendamento compreende a maior parte da vida útil do ativo;
+   ▪    O valor presente dos pagamentos totaliza substancialmente todo o valor justo do ativo;
+   ▪    O ativo arrendado, por ser de alta especialização, apenas o arrendatário pode usá-lo sem grandes
+        modificações.
+
+
+---
+
+Antes da última revisão do CPC 06 essa classificação era importante para fins da contabilização pelo
+arrendatário. Agora, o entendimento é que o arrendatário contabilize ambos os tipos de arrendamentos no
+ativo.
+
+        V – (Revogado pela Lei nº 11.941, de 2009)
+        VI – no intangível: os direitos que tenham por objeto bens incorpóreos destinados à manutenção
+        da companhia ou exercidos com essa finalidade, inclusive o fundo de comércio adquirido. (Incluído
+        pela Lei nº 11.638,de 2007)
+
+O CPC 04 (item 8) define Ativo Intangível como sendo um Ativo não monetário5 identificável sem substância
+física. Perceba que o Intangível abrange as contas representativas dos recursos aplicados em bens imateriais
+(incorpóreos).
+Entre as contas que são classificadas nesse subgrupo destacam-se:
+    ▪    Direitos Autorais;
+    ▪    Marcas e patentes;
+    ▪    Fundo de Comércio (Goodwill);
+    ▪    Sistemas Aplicativos (Software).
+Por fim, vale destacar que, conforme exigência prevista no CPC 04, um ativo somente poderá ser enquadrado
+na definição de intangível quando cumulativamente:
+    ▪    seja identificável;
+    ▪    seja controlável; e
+    ▪    seja gerador de benefícios futuros.
+Um ativo satisfaz o critério de identificação, em termos de definição de um ativo intangível, quando:
+a) for separável, ou seja, puder ser separado da entidade e vendido, transferido, licenciado, alugado ou
+trocado, individualmente ou junto com um contrato, ativo ou passivo relacionado, independente da intenção
+de uso pela entidade; OU (os requisitos não são cumulativos!)
+b) resultar de direitos contratuais ou outros direitos legais, independentemente de tais direitos serem
+transferíveis ou separáveis da entidade ou de outros direitos e obrigações.
+O CPC 04 destaca que caso um item não atenda à definição de ativo intangível, o gasto incorrido na sua
+aquisição ou geração interna deve ser reconhecido como despesa quando incorrido.
+A definição de ativo intangível requer que ele seja identificável, para diferenciá-lo do ágio derivado da
+expectativa de rentabilidade futura gerado internamente (goodwill).
+Não confunda o Goodwill gerado internamente com o goodwill adquirido (abaixo explicado).
+                  Goodwill gerado internamente: não reconhecemos como ativo e sim como despesa.
+                                               Goodwill adquirido: ativo intangível.
+E o que seria esse tal de Goodwill (adquirido)?
+
+5 De acordo com o CPC 04, "Ativo monetário é aquele representado por dinheiro ou por direitos a serem recebidos em uma quantia
+
+fixa ou determinável de dinheiro". A definição de ativo não monetário, por sua vez, é residual, englobando os bens e direitos não
+enquadrados na definição de ativo monetário. Exemplo: equipamentos, veículos, etc.
+
+
+---
+
+Trata-se da diferença a maior entre o valor pago na aquisição de um empreendimento (patrimônio) e o valor
+de mercado (valor justo) dos ativos líquidos desse empreendimento. Vamos a um exemplo:
+A destemida empresa “Tchê Bagual” objetivando ampliar suas operações resolve adquirir a microempresa
+“Guanxuma Verde”, avaliada pelo valor de mercado em R$ 150.000,00. Porém, os administradores da “Tchê
+Bagual”, após sólida análise de mercado e tendo em vista outros interessados no negócio, resolvem comprar
+a promissora “Guanxuma Verde” pelo valor de R$ 200.000,00. Nesse caso, temos um goodwill de R$
+50.000,00.
+
+2. (FCC/Agente Fiscal de Rendas/ICMS SP/2009) São características necessárias para a identificação de um
+ativo Intangível
+a) apresentar a possibilidade concreta de reconhecimento futuro e ser indivisível.
+b) permitir a utilização de base confiável de controle, mesmo que a mensuração de seu custo não possa ser
+feita em bases fidedignas, e ter indivisibilidade patrimonial.
+c) ser identificável, controlado e gerar benefícios econômicos futuros.
+d) ter indivisibilidade patrimonial e financeira e utilização econômica limitada.
+e) ter indivisibilidade patrimonial e não resultar de direitos contratuais.
+Comentários
+Conforme acabamos de estudar, um ativo somente poderá ser enquadrado na definição de intangível
+quando cumulativamente:
+   ▪    seja identificável;
+   ▪    seja controlável; e
+   ▪    seja gerador de benefícios futuros.
+Gabarito: C
+
+            Parágrafo único. Na companhia em que o ciclo operacional da empresa tiver duração maior
+       que o exercício social, a classificação no circulante ou longo prazo terá por base o prazo desse
+       ciclo.
+
+
+---
+
+Passivo Exigível
+
+            Art. 180. As obrigações da companhia, inclusive financiamentos para aquisição de direitos
+       do ativo não circulante, serão classificadas no passivo circulante, quando se vencerem no
+       exercício seguinte, e no passivo não circulante, se tiverem vencimento em prazo maior, observado
+       o disposto no parágrafo único do art. 179 desta Lei. (Redação dada pela Lei nº 11.941, de 2009)
+       Resultados de Exercícios Futuros
+            Art. 181. (Revogado pela Lei nº 11.941, de 2009)
+
+No passivo circulante são classificadas as contas representativas das obrigações cujos vencimentos ocorram
+durante o exercício seguinte (art. 180, Lei 6.404/76).
+Entre as contas que são classificadas nesse grupo destacam-se:
+   ▪    Fornecedores (duplicatas a pagar);
+   ▪    Impostos a Recolher (geralmente as contas vêm discriminadas, por exemplo, “ICMS a Recolher”)
+   ▪    Salários a Pagar;
+   ▪    Dividendos a pagar.
+No passivo não circulante podem aparecer as mesmas contas representativas de obrigações classificadas no
+passivo circulante, porém vencíveis após o término do exercício social seguinte. Cabe destacar que no
+Passivo Não Circulante são classificadas as Receitas Diferidas (receitas recebidas antecipadamente, por
+exemplo, aluguéis antecipados).
+As receitas diferidas vieram substituir o grupo resultado de exercícios futuros a partir da edição da Lei n.
+11.941/2009.
+
+Patrimônio Líquido
+Nesse grupo estão incluídas as contas representativas aos capitais próprios da entidade. São recursos
+advindos dos proprietários (titular, sócios, acionistas) ou decorrentes da gestão do patrimônio
+(lucros/prejuízos apurados).
+De acordo com o art. 178 da Lei 6.404/76,
+       Art. 178. No balanço, as contas serão classificadas segundo os elementos do patrimônio que
+       registrem, e agrupadas de modo a facilitar o conhecimento e a análise da situação financeira da
+       companhia.
+       III – patrimônio líquido, dividido em capital social, reservas de capital, ajustes de avaliação
+       patrimonial, reservas de lucros, ações em tesouraria e prejuízos acumulados.
+São classificadas no PL as seguintes contas:
+   ▪    Capital Social;
+   ▪    Reservas de Capital;
+   ▪    Ajustes de Avaliação Patrimonial;
+   ▪    Ações em Tesouraria;
+   ▪    Reservas de Lucros;
+   ▪    Prejuízos Acumulados.
+
+
+---
+
+O Manual FIPECAFI destaca que além dos itens previstos na Lei n. 6.404/76, o grupo Patrimônio Líquido pode
+apresentar outras contas para melhor evidenciar a situação patrimonial da companhia, bem como para
+atender a outras normatizações que estabeleçam a necessidade da divulgação. São exemplos de outras
+contas que podem ser encontradas no Patrimônio Líquido: Opções Outorgadas Reconhecidas, Gastos na
+Emissão de Ações, Ajustes Acumulados de Conversão, assim como contas extintas, mas possuidoras de
+saldos remanescentes (Reservas de Reavaliação e Reservas de Capital: Prêmio na Emissão de Debêntures e
+Doações e Subvenções para Investimentos).
+
+          Art. 182. A conta do capital social discriminará o montante subscrito e, por dedução, a
+      parcela ainda não realizada.
+
+O montante subscrito dá origem à conta capital social integralizado e a parcela ainda não realizada comporá
+a conta capital social a integralizar (a realizar/a subscrever), redutora da conta capital social integralizado.
+
+3. (CESPE/Analista Contábil/MEC/2014) Se uma sociedade anônima tem o capital subscrito representado
+pelas contas capital autorizado e capital a subscrever, então, quando ocorrer uma subscrição de ações,
+essa sociedade anônima deverá fazer um lançamento contábil a crédito da conta capital a subscrever,
+classificada no patrimônio líquido.
+Comentários
+A conta capital a subscrever é redutora da conta capital subscrito (possui natureza devedora). Portanto,
+quando ocorrer uma subscrição de ações, deveremos creditá-la.
+Gabarito: Certo
+
+O capital social poderá ser formado com contribuições em dinheiro ou em qualquer espécie de bens
+suscetíveis de avaliação em dinheiro (art. 7º da Lei 6.404/76).
+Cabe destacar que, nos termos do art. 80 da Lei 6.404/76, a constituição da companhia depende do
+cumprimento dos seguintes requisitos preliminares:
+(i) Subscrição, pelo menos por 2 (duas) pessoas, de todas as ações em que se divide o capital social fixado no
+estatuto;
+(ii) Realização, como entrada, de 10% (dez por cento), no mínimo, do preço de emissão das ações subscritas
+em dinheiro;
+(iii) Depósito, no Banco do Brasil S/A., ou em outro estabelecimento bancário autorizado pela Comissão de
+Valores Mobiliários, da parte do capital realizado em dinheiro.
+Outro ponto importante que devemos saber é que o gasto na emissão de ações não é tratado como despesa
+do período, mas como redução do capital social.
+
+
+---
+
+         § 1º Serão classificadas como reservas de capital as contas que registrarem:
+             a) a contribuição do subscritor de ações que ultrapassar o valor nominal e a parte do preço
+        de emissão das ações sem valor nominal que ultrapassar a importância destinada à formação do
+        capital social, inclusive nos casos de conversão em ações de debêntures ou partes beneficiárias;
+             b) o produto da alienação de partes beneficiárias e bônus de subscrição;
+             c) (revogada); (Redação dada pela Lei nº 11.638,de 2007) (Revogado pela Lei nº 11.638,de 2007)
+             d) (revogada). (Redação dada pela Lei nº 11.638,de 2007) (Revogado pela Lei nº 11.638,de 2007)
+             § 2° Será ainda registrado como reserva de capital o resultado da correção monetária do
+        capital realizado, enquanto não-capitalizado.
+
+As Reservas de Capital são valores recebidos pela empresa de sócios ou terceiros que não transitam pelo
+resultado do exercício. São contabilizadas diretamente no PL, ficando acumuladas para utilização posterior.
+São classificadas como reservas de capital as contas que registrarem (art. 182, Lei n. 6.404/76):
+    ▪    a contribuição do subscritor de ações que ultrapassar o valor nominal e a parte do preço de emissão
+         das ações sem valor nominal que ultrapassar a importância destinada à formação do capital social,
+         inclusive nos casos de conversão em ações de debêntures ou partes beneficiárias;
+    ▪    o produto da alienação de partes beneficiárias e bônus de subscrição;
+O item “a” acima descrito corresponde à “Reserva para ágio na emissão de ações”.
+O ágio na emissão de ações corresponde ao valor da contribuição do subscritor que ultrapassar o valor
+nominal das ações. Vejamos um exemplo:
+A empresa “Tchê Bagual S.A” (o negócio evoluiu!) possui um capital social de R$ 1.000.000,00, composta por
+100.000 ações a R$ 10,00 cada. Como o negócio está “loco de especial”, os gestores resolvem expandir as
+operações da empresa. Para tanto, emitem mais 10.000 ações pelo valor de R$ 12,00 cada (R$ 10,00
+referente ao valor nominal + R$ 2,00 de ágio). Como a empresa está “mais conhecida que parteira em
+campanha”, as ações esgotam de imediato e, portanto, o valor de R$ 120.000,00 entra no caixa da empresa.
+Sendo assim, o registro contábil dessa operação fica:
+
+        D – Caixa ... 120.000,00
+        C – Capital Social ... 100.000,00
+        C – Reserva de Capital – Ágio na emissão de ações ... 20.000,00
+
+As partes beneficiárias são valores mobiliários (títulos negociáveis) emitidos por sociedades anônimas de
+capital fechado sem valor nominal, com a finalidade de captar recursos por um prazo máximo de 10 anos.
+Esses títulos dão ao seu titular o direito de participação no máximo em 10% dos lucros da empresa emissora.
+Os bônus de subscrição, por sua vez, são valores mobiliários emitidos no limite do capital social autorizado6
+no estatuto por sociedades anônimas que conferem aos seus titulares o direito de preferência na subscrição
+das ações da empresa, dentro de um prazo preestabelecido e por um preço prefixado.
+Tanto as partes beneficiárias como os bônus de subscrição possuem tratamento contábil similar.
+
+6
+ Se não fosse respeitado esse limite, haveria a possibilidade de o adquirente do bônus se ver impedido
+de exercer seu direito de subscrever as ações (artigos 75 e 168 da Lei 6.404).
+
+
+---
+
+Se a parte beneficiária/bônus de subscrição for alienada(o) por um determinado valor, far-se-á o seguinte
+registro contábil:
+
+      D – Banco
+      C – Reserva de Capital de Alienação de Partes Beneficiárias/Bônus de Subscrição
+
+Caso o título seja concedido sem valor (aplicável, especialmente, ao caso da parte beneficiária), a informação
+sobre sua existência deve ser incluída em notas explicativas.
+Quando abordamos o conceito de reservas de capital vimos que elas ficarão acumuladas no PL para utilização
+posterior. Pois bem... como poderão ser utilizadas essas reservas?
+A resposta está no art. 200 da Lei 6.404/76, senão vejamos:
+      Art. 200. As reservas de capital somente poderão ser utilizadas para:
+      I - absorção de prejuízos que ultrapassarem os lucros acumulados e as reservas de lucros (artigo
+      189, parágrafo único);
+      II - resgate, reembolso ou compra de ações;
+      III - resgate de partes beneficiárias;
+      IV - incorporação ao capital social;
+      V - pagamento de dividendo a ações preferenciais, quando essa vantagem lhes for assegurada
+      (artigo 17, § 5º).
+      Parágrafo único. A reserva constituída com o produto da venda de partes beneficiárias poderá ser
+      destinada ao resgate desses títulos.
+Para finalizar as reservas de capital, vale destacar a seguinte alteração na Lei n. 6.404/76:
+As doações e subvenções para investimento e os prêmios na emissão de debêntures não são mais
+classificados como reservas de capital. Atualmente, devemos registrar como receita do exercício.
+Segundo a NBC TG 07 – Subvenção e Assistência Governamentais, “uma subvenção governamental deve ser
+reconhecida como receita ao longo do período confrontada com as despesas que pretende compensar, em
+base sistemática, desde que atendidas às condições deste Pronunciamento. A subvenção governamental não
+pode ser creditada diretamente no patrimônio líquido”.
+
+4. (Analista) Deixou de ser uma reserva de capital a partir da vigência da Lei nº 11.638/2007 a Reserva
+a) de Alienação de Bônus de Subscrição.
+b) de Prêmio na Emissão de Debêntures.
+c) para Contingências.
+d) para pagamento de Dividendo Obrigatório.
+e) de Ágio na Emissão de Ações.
+Comentários
+
+
+---
+
+Conforme estudamos, as doações e subvenções para investimento e os prêmios na emissão de debêntures
+não são mais classificados como reservas de capital. Atualmente, devemos registrar como receita do
+exercício.
+Gabarito: B
+
+       § 3o Serão classificadas como ajustes de avaliação patrimonial, enquanto não computadas no
+      resultado do exercício em obediência ao regime de competência, as contrapartidas de aumentos
+      ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua
+      avaliação a valor justo, nos casos previstos nesta Lei ou, em normas expedidas pela Comissão de
+      Valores Mobiliários, com base na competência conferida pelo § 3o do art. 177 desta Lei. (Redação
+      dada pela Lei nº 11.941, de 2009)
+
+Os ajustes de avaliação patrimonial têm como contrapartida o ajuste de instrumentos financeiros disponíveis
+para venda e os valores de mercado dos Ativos e Passivos nas reorganizações societárias (incorporação, fusão
+e Cisão).
+Em regra, os valores registrados nessa conta deverão ser transferidos para o resultado do exercício à medida
+que os ativos e passivos forem sendo realizados.
+
+5. (CAGE-RS) De acordo com a Lei nº 6.404/76, com redação dada pela Lei nº 11.638/07, a conta ajustes
+de avaliação patrimonial pertence ao patrimônio líquido e recebe as contrapartidas de
+a) aumentos ou diminuições de valor atribuídos a elementos do Ativo Permanente, em decorrência da sua
+avaliação pela equivalência patrimonial.
+b) aumentos ou diminuições de valor atribuídos a elementos do Ativo e do Passivo, em decorrência da sua
+avaliação pelo valor de mercado.
+c) aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua
+avaliação a valor justo.
+d) aumentos ou diminuições de valor atribuídos a elementos do passivo circulante, em decorrência da
+precificação dos derivativos a valor de mercado.
+e) aumentos ou diminuições de valor atribuídos a elementos das dívidas em moeda estrangeira, em
+decorrência da variação cambial conjuntural.
+Comentários
+Para fixar! Segundo o art. 182, §3º da Lei 6.404/76, serão classificadas como ajustes de avaliação patrimonial,
+enquanto não computadas no resultado do exercício em obediência ao regime de competência, as
+contrapartidas de aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em
+decorrência da sua avaliação a valor justo.
+Gabarito: C
+
+
+---
+
+            § 4º Serão classificados como reservas de lucros as contas constituídas pela apropriação de
+       lucros da companhia.
+
+As reservas de lucros são extraídas do lucro líquido do exercício. Possuem o objetivo de preservar o
+patrimônio líquido. Segundo a Lei n. 6.404/76 (art. 182, §4º), serão classificadas como reservas de lucros as
+contas constituídas pela apropriação de lucros da companhia.
+As reservas de lucros previstas na Lei n. 6.404/76 são as seguintes:
+   ▪    Reserva Legal;
+   ▪    Reservas Estatutárias;
+   ▪    Reservas para Contingências;
+   ▪    Reserva de Incentivos Fiscais;
+   ▪    Reserva de Retenção de Lucros (de Lucros para Expansão);
+   ▪    Reserva de Lucros a Realizar;
+   ▪    Reserva Especial de Dividendo Obrigatório Não Distribuído;
+   ▪    Reserva Específica de Prêmio de Debêntures.
+
+            § 5º As ações em tesouraria deverão ser destacadas no balanço como dedução da conta do
+       patrimônio líquido que registrar a origem dos recursos aplicados na sua aquisição.
+
+Ações em Tesouraria
+Trata-se de uma conta do PL utilizada quando a empresa adquire as suas próprias ações, com o objetivo de
+elevar o preço delas e realizar no futuro uma nova venda, de forma a obter lucro na transação. Também tem
+o objetivo de concentrar as ações, quando estas estão muito pulverizadas nas mãos de um grande número
+de acionistas.
+Cabe destacar que na aquisição de ações em tesouraria a empresa não pode adquirir ações não
+integralizadas, o que resultaria em diminuição do capital social.
+Nos termos do art. 182, §5º, da Lei nº 6.404/76, as ações em tesouraria deverão ser destacadas no balanço
+como dedução da conta do patrimônio líquido que registrar a origem dos recursos aplicados na sua aquisição.
+Trata-se, portanto, de uma conta redutora do PL.
+Destaca-se, ainda, que o limite do saldo da conta ações em tesouraria é o saldo de lucros acumulados e
+reservas, exceto a reserva legal.
+Por fim, devemos saber que a alienação de ações em tesouraria pode gerar lucro ou prejuízo para a empresa,
+não representando receitas ou despesas. No caso de lucro a empresa deverá creditá-lo em reservas de
+capital (semelhante ao que ocorre com o ágio na emissão de ações). Se houver prejuízo, deverá debitá-lo em
+reservas de capitais.
+
+
+---
+
+CRITÉRIOS DE AVALIAÇÃO DO ATIVO
+
+       Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios:
+       I - as aplicações em instrumentos financeiros, inclusive derivativos, e em direitos e títulos de
+   créditos, classificados no ativo circulante ou no realizável a longo prazo: (Redação dada pela
+   Lei nº 11.638,de 2007)
+        a) pelo seu valor justo, quando se tratar de aplicações destinadas à negociação ou
+   disponíveis para venda; e (Redação dada pela Lei nº 11.941, de 2009)
+         b) pelo valor de custo de aquisição ou valor de emissão, atualizado conforme disposições
+   legais ou contratuais, ajustado ao valor provável de realização, quando este for inferior, no caso
+   das demais aplicações e os direitos e títulos de crédito; (Incluída pela Lei nº 11.638,de 2007)
+        II - os direitos que tiverem por objeto mercadorias e produtos do comércio da companhia,
+   assim como matérias-primas, produtos em fabricação e bens em almoxarifado, pelo custo de
+   aquisição ou produção, deduzido de provisão para ajustá-lo ao valor de mercado, quando este
+   for inferior;
+        III - os investimentos em participação no capital social de outras sociedades, ressalvado o
+   disposto nos artigos 248 a 250, pelo custo de aquisição, deduzido de provisão para perdas
+   prováveis na realização do seu valor, quando essa perda estiver comprovada como permanente,
+   e que não será modificado em razão do recebimento, sem custo para a companhia, de ações ou
+   quotas bonificadas;
+        IV - os demais investimentos, pelo custo de aquisição, deduzido de provisão para atender às
+   perdas prováveis na realização do seu valor, ou para redução do custo de aquisição ao valor de
+   mercado, quando este for inferior;
+        V - os direitos classificados no imobilizado, pelo custo de aquisição, deduzido do saldo da
+   respectiva conta de depreciação, amortização ou exaustão;
+        VI – (revogado); (Redação dada pela Lei nº 11.941, de 2009)
+        VII – os direitos classificados no intangível, pelo custo incorrido na aquisição deduzido do
+   saldo da respectiva conta de amortização; (Incluído pela Lei nº 11.638,de 2007)
+         VIII – os elementos do ativo decorrentes de operações de longo prazo serão ajustados a
+   valor presente, sendo os demais ajustados quando houver efeito relevante. (Incluído pela Lei nº
+   11.638,de 2007)
+
+
+   § 1o Para efeitos do disposto neste artigo, considera-se valor justo: (Redação dada pela Lei nº
+   11.941, de 2009)
+        a) das matérias-primas e dos bens em almoxarifado, o preço pelo qual possam ser repostos,
+   mediante compra no mercado;
+        b) dos bens ou direitos destinados à venda, o preço líquido de realização mediante venda no
+   mercado, deduzidos os impostos e demais despesas necessárias para a venda, e a margem de
+   lucro;
+        c) dos investimentos, o valor líquido pelo qual possam ser alienados a terceiros.
+       d) dos instrumentos financeiros, o valor que pode se obter em um mercado ativo, decorrente
+   de transação não compulsória realizada entre partes independentes; e, na ausência de um
+
+
+---
+
+     mercado ativo para um determinado instrumento financeiro: (Incluída pela Lei nº 11.638,de
+     2007)
+          1) o valor que se pode obter em um mercado ativo com a negociação de outro instrumento
+     financeiro de natureza, prazo e risco similares; (Incluído pela Lei nº 11.638,de 2007)
+          2) o valor presente líquido dos fluxos de caixa futuros para instrumentos financeiros de
+     natureza, prazo e risco similares; ou (Incluído pela Lei nº 11.638,de 2007)
+           3) o valor obtido por meio de modelos matemático-estatísticos de precificação de
+     instrumentos financeiros. (Incluído pela Lei nº 11.638,de 2007)
+
+     § 2o A diminuição do valor dos elementos dos ativos imobilizado e intangível será registrada
+     periodicamente nas contas de: (Redação dada pela Lei nº 11.941, de 2009)
+          a) depreciação, quando corresponder à perda do valor dos direitos que têm por objeto bens
+     físicos sujeitos a desgaste ou perda de utilidade por uso, ação da natureza ou obsolescência;
+          b) amortização, quando corresponder à perda do valor do capital aplicado na aquisição de
+     direitos da propriedade industrial ou comercial e quaisquer outros com existência ou exercício
+     de duração limitada, ou cujo objeto sejam bens de utilização por prazo legal ou contratualmente
+     limitado;
+           c) exaustão, quando corresponder à perda do valor, decorrente da sua exploração, de
+     direitos cujo objeto sejam recursos minerais ou florestais, ou bens aplicados nessa
+     exploração.
+
+     § 3o A companhia deverá efetuar, periodicamente, análise sobre a recuperação dos valores
+     registrados no imobilizado e no intangível, a fim de que sejam: (Redação dada pela Lei nº
+     11.941, de 2009)
+         I – registradas as perdas de valor do capital aplicado quando houver decisão de interromper
+     os empreendimentos ou atividades a que se destinavam ou quando comprovado que não
+     poderão produzir resultados suficientes para recuperação desse valor; ou (Incluído pela Lei nº
+     11.638,de 2007)
+          II – revisados e ajustados os critérios utilizados para determinação da vida útil econômica
+     estimada e para cálculo da depreciação, exaustão e amortização. (Incluído pela Lei nº
+     11.638,de 2007)
+
+Observe que a Lei n. 11.638/2007, que introduziu alterações na forma de elaboração e de apresentação das
+demonstrações contábeis das companhias, determinou a adoção do procedimento de redução ao valor
+recuperável dos ativos.
+Essa sistemática é abordada de forma detalhada na NBC TG 01 – Redução ao Valor Recuperável de Ativos.
+
+     § 4° Os estoques de mercadorias fungíveis destinadas à venda poderão ser avaliados pelo valor
+     de mercado, quando esse for o costume mercantil aceito pela técnica contábil.
+
+
+---
+
+Mercadorias fungíveis = commodities (soja, café, arroz, etc). Os preços das commodities são estabelecidos
+pela cotação em bolsa de valores, por isso poderão são facilmente avaliadas pelo valor do mercado.
+
+
+CRITÉRIOS DE AVALIAÇÃO DO PASSIVO
+
+           Art. 184. No balanço, os elementos do passivo serão avaliados de acordo com os seguintes
+     critérios:
+           I - as obrigações, encargos e riscos, conhecidos ou calculáveis, inclusive Imposto sobre a
+     Renda a pagar com base no resultado do exercício, serão computados pelo valor atualizado até
+     a data do balanço;
+            II - as obrigações em moeda estrangeira, com cláusula de paridade cambial, serão
+     convertidas em moeda nacional à taxa de câmbio em vigor na data do balanço;
+          III – as obrigações, os encargos e os riscos classificados no passivo não circulante serão
+     ajustados ao seu valor presente, sendo os demais ajustados quando houver efeito
+     relevante. (Redação dada pela Lei nº 11.941, de 2009)
+
+
+                                    Critérios de Avaliação do Passivo
+
+                  Passivo                                             Critério
+
+     Obrigações, encargos e riscos (PC)    Valor atualizado até a data do balanço (ajustados a valor
+                                           presente, se o valor for relevante)
+
+     Obrigações em moeda estrangeira       Convertidas em moeda nacional à taxa de câmbio em vigor
+                                           na data do balanço
+
+    Obrigações, encargos e riscos (PÑC)    Valor atualizado até a data do balanço, ajustados a valor
+                                           presente.
+
+                            Critérios de Avaliação em Operações Societárias
+                                    (Incluído pela Lei nº 11.941, de 2009)
+
+
+          Art. 184-A. A Comissão de Valores Mobiliários estabelecerá, com base na competência
+     conferida pelo § 3o do art. 177 desta Lei, normas especiais de avaliação e contabilização
+     aplicáveis à aquisição de controle, participações societárias ou negócios. (Incluído pela Lei nº
+     11.941, de 2009)
+
+
+                                            Correção Monetária
+    Art. 185. (Revogado pela Lei nº 7.730, de 1989)
+
+
+---
+
+DEMONSTRAÇÃO DE LUCROS OU PREJUÍZOS ACUMULADOS
+
+A DLPA representa uma mera transcrição, de forma ordenada e racional, da conta razão lucros ou prejuízos
+acumulados da companhia.
+A elaboração da DLPA é exigida pela Lei n. 6.404/76, a qual faculta às companhias inclui-la na Demonstração
+das Mutações do Patrimônio Líquido (DMPL). Destaca-se, contudo, que a DLPA não é contemplada pelas
+normas internacionais.
+
+          Art. 186. A demonstração de lucros ou prejuízos acumulados discriminará:
+          I - o saldo do início do período, os ajustes de exercícios anteriores e a correção monetária do
+     saldo inicial;
+          II - as reversões de reservas e o lucro líquido do exercício;
+          III - as transferências para reservas, os dividendos, a parcela dos lucros incorporada ao capital
+     e o saldo ao fim do período.
+           § 1º Como ajustes de exercícios anteriores serão considerados apenas os decorrentes de
+     efeitos da mudança de critério contábil, ou da retificação de erro imputável a determinado
+     exercício anterior, e que não possam ser atribuídos a fatos subseqüentes.
+           § 2º A demonstração de lucros ou prejuízos acumulados deverá indicar o montante do
+     dividendo por ação do capital social e poderá ser incluída na demonstração das mutações do
+     patrimônio líquido, se elaborada e publicada pela companhia.
+
+Pessoal, muitas questões simplesmente exigem conhecimentos dos dispositivos acima descritos. Portanto,
+leia e releia o art. 186, pois é fundamental para acertarmos questões teóricas sobre a DLPA.
+
+6. (CESPE/Contador/Suframa/2014) A demonstração de lucros ou prejuízos acumulados discrimina as
+reversões de reservas, as transferências para reservas, os dividendos do período e a parcela dos lucros
+incorporada ao capital.
+Comentários
+Observe que o item exige conhecimentos do disposto no art. 186, acima visto. A DLPA discriminará:
+   ▪ O saldo do início do período;
+   ▪ Os ajustes de exercícios anteriores;
+   ▪ A correção monetária do saldo inicial;
+   ▪ As reversões de reservas;
+   ▪ O lucro líquido do exercício;
+   ▪ As transferências para reservas;
+   ▪ Os dividendos;
+   ▪ A parcela dos lucros incorporada ao capital;
+   ▪ O saldo ao fim do período.
+Gabarito: Certo
+
+
+---
+
+     Observações:
+     a) Em que pese o texto da Lei n. 6.404/76 incluir entre as informações a serem discriminadas pela
+     DLPA a correção monetária do saldo inicial, cabe destacar que o regime de correção monetária
+     das demonstrações financeiras foi revogado, inclusive para fins societários, a partir de
+     1º/01/1996 (art. 4º, Lei n. 9.249/95);
+
+     b) Segundo o §2º do art. 186, acima visto, a DLPA poderá ser incluída na DMPL.
+
+     Atenção! A Lei não fala em substituição, mas sim em inclusão. Não há substituição de uma por
+     outra.
+
+O §1º do art. 186 estabelece que, como ajustes de exercícios anteriores, serão considerados apenas os
+decorrentes: (i) de efeitos da mudança de critério contábil; (ii) da retificação de erro imputável a
+determinado exercício anterior (e que não possam ser atribuídos a fatos subsequentes). A seguir seguem
+alguns exemplos:
+Mudança de critério contábil: mudança do critério de avaliação de estoques PEPS para Média Ponderada;
+mudança do método de avaliação de investimentos.
+Retificação de erro: São erros que normalmente ocorrem, justificando a retificação: erros de cálculo,
+omissão de lançamentos, erros na avaliação de estoques, erros na avaliação de investimentos, etc.
+Esse assunto está discriminado no CPC 23 - Políticas Contábeis, Mudança de Estimativa e Retificação de Erro.
+Vejamos alguns pontos que podem constar em nossa prova.
+Políticas Contábeis
+Políticas contábeis são os princípios, as bases, as convenções, as regras e as práticas específicas aplicados
+pela entidade na elaboração e na apresentação de demonstrações contábeis.
+Os usuários devem ter a possibilidade de comparar as demonstrações contábeis da entidade ao longo do
+tempo para identificar tendências. Assim, o meio de garantir essa possibilidade e aplicar as mesmas políticas
+contábeis em cada período e de um período para o outro. Entretanto, uma mudança na política contábil
+pode ser necessária.
+Segundo o CPC 23, a entidade deve alterar uma política contábil apenas se a mudança:
+a) for exigida por Pronunciamento, Interpretação ou Orientação; ou
+b) resultar em informação confiável e mais relevante nas demonstrações contábeis sobre os efeitos das
+transações, outros eventos ou condições acerca da posição patrimonial e financeira, do desempenho ou dos
+fluxos de caixa da entidade.
+Não constituem mudanças nas políticas contábeis:
+a) a adoção de política contábil para transações, outros eventos ou condições que difiram em essência
+daqueles que ocorriam anteriormente; e
+b) a adoção de nova política contábil para transações, outros eventos ou condições que não ocorriam
+anteriormente ou eram imateriais.
+Mudança na Estimativa Contábil
+
+
+---
+
+Mudança na estimativa contábil é um ajuste nos saldos contábeis de ativo ou de passivo, ou nos montantes
+relativos ao consumo periódico de ativo, que decorre da avaliação da situação atual e das obrigações e dos
+benefícios futuros esperados associados aos ativos e passivos. As alterações nas estimativas contábeis
+decorrem de nova informação ou inovações e, portanto, não são retificações de erros.
+Por exemplo, se surgir uma nova tecnologia na manutenção de um equipamento e essa tecnologia aumentar
+sua vida útil econômica originalmente estimada, a alteração das taxas de depreciação é uma mudança de
+estimativa. Perceba que não se trata de retificação de erro, já que nada tinha de errado até então.
+A estimativa envolve julgamentos baseados na última informação disponível e confiável. Por exemplo,
+podem ser exigidas estimativas de:
+a) créditos de liquidação duvidosa;
+b) obsolescência de estoque;
+c) valor justo de ativos financeiros ou passivos financeiros;
+d) vida útil de ativos depreciáveis ou o padrão esperado de consumo dos futuros benefícios econômicos
+incorporados nesses ativos; e
+e) obrigações decorrentes de garantias.
+Quando for difícil distinguir uma mudança na política contábil de uma mudança na estimativa contábil, a
+mudança é tratada como mudança na estimativa contábil.
+
+7. (CESPE/Analista Judiciário/Contabilidade/TJ-SE/2014) Se ocorrer modificação na base de avaliação de
+um ativo não monetário de determinada entidade e não for possível determinar se essa modificação
+configura uma mudança na política contábil ou na estimativa contábil, a entidade deverá considerar que
+ocorreu mudança na estimativa contábil.
+Comentários
+Conforme estudamos, quando for difícil distinguir uma mudança na política contábil de uma mudança na
+estimativa contábil, a mudança é tratada como mudança na estimativa contábil.
+Gabarito: Certo
+
+Erros de Períodos Anteriores
+Erros de períodos anteriores são omissões e incorreções nas demonstrações contábeis da entidade de um
+ou mais períodos anteriores decorrentes da falta de uso, ou uso incorreto, de informação confiável que:
+a) estava disponível quando da autorização para divulgação das demonstrações contábeis desses períodos;
+e
+b) pudesse ter sido razoavelmente obtida e levada em consideração na elaboração e na apresentação dessas
+demonstrações contábeis.
+
+
+---
+
+Tais erros incluem os efeitos de erros matemáticos, erros na aplicação de políticas contábeis, descuidos ou
+interpretações incorretas de fatos e fraudes.
+Outro ponto importante do CPC 23 são os conceitos de aplicação retrospectiva e prospectiva. Vejamos:
+Aplicação retrospectiva é a aplicação de nova política contábil a transações, a outros eventos e a condições,
+como se essa política tivesse sido sempre aplicada.
+Observe que a aplicação retrospectiva refere-se a ajustes de transações e eventos passados. Um exemplo
+citado pela doutrina é a mudança de avaliação de estoques (PEPS para Custo Médio, por exemplo). Nesse
+caso a empresa deve ajustar o estoque inicial utilizando o custo médio desde o final do exercício anterior
+como se esse método tivesse sido sempre aplicado (aplicação retrospectiva).
+A aplicação prospectiva de mudança em política contábil e de reconhecimento do efeito de mudança em
+estimativa contábil representa, respectivamente:
+a) a aplicação da nova política contábil a transações, a outros eventos e a condições que ocorram após a data
+em que a política é alterada; e
+b) o reconhecimento do efeito da mudança na estimativa contábil nos períodos corrente e futuro afetados
+pela mudança.
+As alterações (mudanças) nas Políticas Contábeis devem ter aplicação retrospectiva, a não ser que isso seja
+impraticável.
+De forma geral, o efeito da mudança em uma estimativa contábil deve ser reconhecido prospectivamente
+(aplicada a transações, a outros eventos e a condições a partir da data da mudança na estimativa), com a sua
+inclusão no período da mudança (quando afetar apenas esse) ou também em períodos futuros (quando a
+mudança também afetá-los).
+Os erros materiais devem ser ajustados de forma retrospectiva;
+Os erros decorrentes de fraudes, ou seja, os erros intencionais (materiais ou imateriais) devem ter aplicação
+retrospectiva.
+
+8. (CESPE/Analista/Contabilidade e Finanças/BACEN/2013) Julgue o item a seguir, com base no
+Pronunciamento Técnico CPC 23, que trata de políticas contábeis, mudança de estimativa e retificação de
+erros.
+Não constitui mudança nas políticas contábeis nem a adoção de política contábil para transações, outros
+eventos ou condições que difiram em essência daqueles que ocorriam anteriormente nem a adoção de nova
+política contábil para transações, outros eventos ou condições que não ocorriam anteriormente ou eram
+imateriais.
+Comentários
+Exigência do CPC 23, senão vejamos:
+
+
+---
+
+      16. Não constituem mudanças nas políticas contábeis:
+      (a) a adoção de política contábil para transações, outros eventos ou condições que difiram em
+      essência daqueles que ocorriam anteriormente; e
+      (b) a adoção de nova política contábil para transações, outros eventos ou condições que não
+      ocorriam anteriormente ou eram imateriais.
+
+Gabarito: Certo
+
+
+DEMONSTRAÇÃO DO RESULTADO DO EXERCÍCIO
+
+           Art. 187. A demonstração do resultado do exercício discriminará:
+            I - a receita bruta das vendas e serviços, as deduções das vendas, os abatimentos e os
+      impostos;
+           II - a receita líquida das vendas e serviços, o custo das mercadorias e serviços vendidos e o
+      lucro bruto;
+           III - as despesas com as vendas, as despesas financeiras, deduzidas das receitas, as despesas
+      gerais e administrativas, e outras despesas operacionais;
+           IV – o lucro ou prejuízo operacional, as outras receitas e as outras despesas; (Redação dada
+      pela Lei nº 11.941, de 2009)
+          V - o resultado do exercício antes do Imposto sobre a Renda e a provisão para o imposto;
+          VI – as participações de debêntures, empregados, administradores e partes beneficiárias,
+      mesmo na forma de instrumentos financeiros, e de instituições ou fundos de assistência ou
+      previdência de empregados, que não se caracterizem como despesa; (Redação dada pela Lei nº
+      11.941, de 2009)
+          VII - o lucro ou prejuízo líquido do exercício e o seu montante por ação do capital social.
+          § 1º Na determinação do resultado do exercício serão computados:
+           a) as receitas e os rendimentos ganhos no período, independentemente da sua realização
+      em moeda; e
+           b) os custos, despesas, encargos e perdas, pagos ou incorridos, correspondentes a essas
+      receitas e rendimentos.
+          § 2o (Revogado). (Redação dada pela Lei nº 11.638,de 2007) (Revogado pela Lei nº 11.638,de 2007)
+
+O art. 187 acima descrito estabelece a estrutura da DRE:
+                          Demonstração do Resultado do Exercício (Lei n. 6.404/76)
+Faturamento Bruto
+(-) IPI faturado
+(=) Receita Operacional Bruta
+(-) devoluções e vendas canceladas
+(-) abatimentos concedidos e descontos incondicionais
+(-) impostos e contribuições sobre as vendas e serviços (ICMS, ISS, Cofins, PIS/Pasep)
+(=) Receita Operacional Líquida
+
+
+---
+
+(-) Custo da Mercadoria Vendida e dos Serviços Prestados
+(=) Resultado Operacional Bruto
+(-) Despesas Operacionais
+- Despesas com vendas
+- Despesas gerais e administrativas
+- Despesas financeiras
+- Resultado negativo de equivalência patrimonial
+- Variações monetárias passivas
+(+) Receitas Operacionais
++ Receitas financeiras
++ Resultado positivo de equivalência patrimonial
++ Variações monetárias ativas
++ Receitas de aluguel
++ Dividendos recebidos (investimentos avaliados pelo custo)
+(=) Resultado Operacional Líquido
+(+) Outras Receitas
+(-) Outras Despesas
+(=) Resultado antes do IR e CSLL
+(-) Contribuição Social sobre o Lucro Líquido (CSLL)
+(-) Imposto de Renda (IR)
+Resultado do Exercício antes das Participações
+(-) Participações
+Debêntures
+Empregados
+Administradores
+Partes Beneficiárias
+Contribuição p/ Fundos Assistência e Previdência Social dos empregados
+(=) Lucro Líquido do Exercício
+(÷) número de ações do capital social
+(=) Lucro Líquido por Ação do Capital
+Visto a estrutura da DRE passemos à análise de cada um dos itens.
+Faturamento Bruto
+
+
+---
+
+O faturamento bruto não está descrito na Lei das S.As. No entanto, esta adaptação melhora a informação
+da demonstração, pois demonstra as diferenças entre o faturamento bruto e a receita bruta de vendas.
+Mas, afinal qual a diferença entre faturamento bruto e receita bruta?
+No faturamento bruto, além da receita bruta de vendas, inclui-se o Imposto sobre Produtos Industrializados
+(IPI) incidente na operação de venda.
+Receita Operacional Bruta
+A contabilização das receitas de vendas é realizada pelo valor bruto, ou seja, incluindo os impostos.
+Deduções da Receita Operacional Bruta
+Representam os fatos que alteram o valor das vendas, conforme discriminado a seguir:
+
+                                   Fatos que alteram o valor das Vendas
+   ▪   Vendas Anuladas ou Devolução de Vendas;
+   ▪   Abatimentos sobre Vendas;
+   ▪   Descontos Incondicionais Concedidos;
+   ▪   Impostos e contribuições sobre as vendas e serviços (ICMS, ISS, Cofins, PIS/Pasep)
+
+As vendas anuladas (devolução de vendas) representam todas as devoluções de vendas ocorridas dentro
+do exercício social. Destaca-se que as devoluções de vendas de exercícios anteriores são consideradas como
+despesas operacionais.
+O Abatimento sobre Venda representa os descontos que são concedidos posteriormente à entrega dos
+produtos. Geralmente, decorrem por defeitos de qualidade, quantidade e de transportes. Destaca-se que o
+abatimento é concedido após a emissão da nota fiscal. Assim, não afeta a base de cálculo dos impostos.
+
+Não confunda os descontos incondicionais (comerciais) com os descontos condicionais (financeiros).
+
+Descontos Incondicionais (comerciais): ocorrem no momento da compra (obtidos) ou da venda
+(concedidos), sendo destacados na própria nota fiscal. A palavra “incondicional” denota ausência de
+condições impostas ao cliente para que tivesse direito ao desconto.
+                               Descontos Incondicionais Obtidos = redutora do CMV
+                      Descontos Incondicionais Concedidos = redutora da Receita de Vendas
+
+
+---
+
+Descontos Condicionais (financeiros): ocorrem no momento da liquidação de uma dívida ou do recebimento
+de um direito, fato posterior à compra ou à venda. O desconto financeiro só ocorre mediante condição
+imposta ao devedor (geralmente quitação antes da data do vencimento). São reconhecidos como receita
+(obtidos) ou despesa financeira (concedidos).
+Os principais impostos e contribuições sobre as vendas e serviços são: ICMS, ISS, Cofins, PIS/Pasep. Destaca-
+se que o IPI não é dedução da receita bruta. Conforme vimos, o IPI é considerado antes da receita bruta por
+ser um imposto “por fora”.
+Receita Operacional Líquida
+Representa as receitas brutas deduzidas das deduções acima estudadas.
+Custo da Mercadoria Vendida (CMV)
+Para o cálculo do CMV utilizamos a seguinte equação:
+                         CMV = Estoque inicial + compras líquidas – estoque final
+Lembrando que, nos termos do CPC 16 – Estoques, o valor de custo do estoque deve incluir todos os custos
+de aquisição e de transformação, bem como outros custos incorridos para trazer os estoques à sua condição
+e localização atuais. Ademais, lembre que o custo de aquisição dos estoques compreende o preço de compra,
+os impostos de importação e outros tributos (exceto os recuperáveis junto ao fisco), bem como os custos de
+transporte, seguro, manuseio e outros diretamente atribuíveis à aquisição de produtos acabados, materiais
+e serviços. Descontos comerciais, abatimentos e outros itens semelhantes devem ser deduzidos na
+determinação do custo de aquisição.
+Nesse ponto vale destacar os fatos que alteram o valor das compras, conforme discriminado a seguir:
+
+                                  Fatos que alteram o valor das Compras
+   ▪   Devolução de Compras ou Compras Anuladas
+   ▪   Abatimentos sobre Compras
+   ▪   Fretes e Seguros sobre Compras
+   ▪   Descontos Incondicionais Obtidos.
+
+Assim, temos;
+Compras Brutas
+(-) Devolução de Compras ou Compras Anuladas
+(-) Abatimentos sobre Compras
+(+) Fretes e Seguros sobre Compras
+(-) Descontos Incondicionais Obtidos
+(=) Compras Líquidas
+
+
+---
+
+9. (CESPE/Contador/Suframa/2014) Na DRE de uma empresa comercial, para a apuração do lucro bruto
+operacional, as deduções das vendas e o custo das mercadorias vendidas são subtraídos diretamente da
+receita bruta de vendas.
+Comentários
+A dedução do CMV parte das receitas líquidas e não das receitas brutas, conforme informa o item.
+Gabarito: Errado
+
+Resultado Operacional Bruto
+Representa as receitas líquidas deduzidas do CMV acima estudado.
+Despesas Operacionais
+As principais despesas operacionais são:
+   ▪   Despesas com vendas: englobam os gastos com promoção, colocação e distribuição dos produtos
+       vendidos pela empresa.
+   ▪   Despesas gerais e administrativas: englobam os gastos com a gestão da empresa.
+   ▪   Despesas financeiras: englobam os juros passivos, descontos condicionais concedidos, comissões
+       passivas, juros sobre o capital próprio, entre outras.
+   ▪   Resultado negativo de equivalência patrimonial
+   ▪   Variações monetárias passivas
+
+10. (CESPE/Técnico Contabilidade/Suframa/2014) O conjunto de despesas administrativas e de vendas é
+também denominado despesas operacionais.
+Comentários
+Para fixar! Conforme vimos, as principais despesas operacionais são:
+   ▪   Despesas com vendas: englobam os gastos com promoção, colocação e distribuição dos produtos
+       vendidos pela empresa.
+   ▪   Despesas gerais e administrativas: englobam os gastos com a gestão da empresa.
+   ▪   Despesas financeiras: englobam os juros passivos, descontos condicionais concedidos, comissões
+       passivas, juros sobre o capital próprio, entre outras.
+   ▪   Resultado negativo de equivalência patrimonial
+   ▪   Variações monetárias passivas
+Gabarito: Certo
+
+
+---
+
+Receitas Operacionais
+As principais receitas operacionais são:
+   ▪    Receitas financeiras: englobam os juros ativos, os descontos condicionais obtidos, entre outras.
+   ▪    Resultado positivo de equivalência patrimonial
+   ▪    Variações monetárias ativas
+   ▪    Receitas de aluguel
+   ▪    Dividendos recebidos (investimentos avaliados pelo custo)
+Outras Receitas e Outras Despesas
+Compreendem os ganhos e perdas decorrentes das baixas de bens ou de direitos classificados nos grupos
+investimentos, imobilizado e intangível. Refere-se às antigas “Receitas Não Operacionais” e “Despesas Não
+Operacionais”.
+Nesse ponto, vale destacarmos o seguinte:
+Não há mais na Demonstração do Resultado do Exercício a expressão “resultados não operacionais”.
+Segundo o Manual FIPECAFI,
+
+       A antiga classificação entre Resultado Operacional e Não Operacional não existe nas normas
+       internacionais e nem mesmo mais na Lei das Sociedades por Ações; assim, deixou de existir no
+       Brasil, passando a existir a segregação entre Resultados de Operações Continuadas e Resultados
+       de Operações Descontinuadas. O art. 187 da Lei das Sociedades por Ações que antes abordava o
+       "lucro ou prejuízo operacional, as receitas e despesas não operacionais", com a nova redação
+       dada pela Lei nº 11.941/09, trata apenas do "lucro ou prejuízo operacional, outras receitas e
+       outras despesas".
+       [..]
+       No entanto, para fins tributários, a segregação entre Resultado Operacional e Não Operacional
+       continua a existir, em função de várias figuras fiscais, como lucro de exploração e outras.
+
+Portanto, os ganhos e perdas decorrentes das baixas de bens ou de direitos classificados nos grupos
+investimentos, imobilizado e intangível atualmente devem ser considerados como “outras receitas/outras
+despesas”.
+Veja a questão abaixo.
+11. (CESPE/Analista/Contabilidade/MPU/2013) Se uma empresa vender um ativo imobilizado, ela deverá
+reconhecer seu resultado — ganho ou perda — como resultado não operacional.
+Comentários
+Nesse caso, o ganho ou perda deverá ser considerado como “outras receitas/outras despesas”.
+Gabarito: Errado
+
+IR/CSLL
+O Imposto de Renda e a CSLL são calculados sobre o lucro do exercício. Destaca-se que a Contribuição Social
+sobre o Lucro Líquido (CSLL) destina-se ao financiamento da Seguridade Social.
+Participações
+
+
+---
+
+Correspondem a parcelas do resultado do exercício destinadas aos proprietários de debêntures, a
+empregados, a administradores, aos proprietários de partes beneficiárias e a instituições ou fundos de
+assistência ou previdência de empregados.
+Destaca-se que a base de cálculo das participações é o resultado do exercício após as deduções, diminuído
+dos prejuízos acumulados e acrescido dos Juros sobre Capital Próprio. Segundo a Lei nº 6.404/76,
+      Art. 190. As participações estatutárias de empregados, administradores e partes beneficiárias serão
+      determinadas, sucessivamente e nessa ordem, com base nos lucros que remanescerem depois de
+      deduzida a participação anteriormente calculada.
+Exemplo:
+Resultado do Exercício antes das participações = 600.000
+Prejuízos Acumulados = 100.000
+Participações Debêntures = 10%
+Participações Empregados = 10%
+Participações Administradores = 10%
+Participações Partes Beneficiárias = 10%
+Participações Fundos de Assistência = 10%
+Resultado do Exercício antes das participações     600.000
+(-) Prejuízos Acumulados                           (100.000)
+(=) Base de Cálculo Part. Deb.                     500.000
+(-) Participações Debêntures (10%)                 (50.000)
+(=) Base de Cálculo Part. Empr.                    450.000
+(-) Participações Empregados (10%)                 (45.000)
+(=) Base de Cálculo Part. Adm.                     405.000
+(-) Participações Administradores (10%)            (40.500)
+(=) Base de Cálculo Part. Partes Benef.            364.500
+(-) Participações Partes Beneficiárias (10%)       (36.450)
+(=) Base de Cálculo Part. Partes Benef.            328.050
+(-) Participações Fundos de Assistência (10%)      (32.805)
+Observe que apesar de todas as participações corresponderem à taxa de 10%, o valor de cada uma delas é
+diferente, haja vista que a base de cálculo é sempre o resultado que sobra após a subtração da participação
+anterior. Destaca-se que a ordem acima apresentada deve ser rigorosamente cumprida. Assim, memorize:
+
+
+               D      →          E    →        A   →       P      →      F
+Além disso, saiba que as taxas de cada participação podem ser diferentes, no entanto, não podem ser
+superiores a 10% do resultado do período.
+
+
+---
+
+Um último detalhe: no cálculo das participações, retira-se os prejuízos acumulados. Porém, na DRE o prejuízo
+não entra. Na DRE fica:
+Resultado do Exercício antes das participações     600.000
+(-) Participações Debêntures                       (50.000)
+(-) Participações Empregados                       (45.000)
+(-) Participações Administradores                  (40.500)
+(-) Participações Partes Beneficiárias             (36.450)
+(-) Participações Fundos de Assistência            (32.805)
+(=) Lucro Líquido do Exercício                     395.245
+Observe a questão abaixo:
+
+12. (CESPE/Contador/Suframa/2014) A compensação do prejuízo acumulado deverá ser demonstrada na
+apuração do resultado do exercício, após a dedução do imposto de renda e da contribuição social sobre o
+lucro.
+Comentários
+Para fixar! A compensação do prejuízo acumulado não deve constar na estrutura da DRE.
+Gabarito: Errado
+
+Lucro Líquido do Exercício
+Depois de deduzidas todas as participações chega-se ao Lucro Líquido do Exercício (LLE). O LLE, então, é
+transferido para o patrimônio líquido, pois as receitas e despesas da entidade integram o chamado capital
+próprio.
+Lucro Líquido por Ação
+O Lucro Líquido por Ação é a razão entre o LLE e o total de ações.
+Lucro Líquido por Ação = Lucro Líquido do Exercício/Total de ações
+
+
+---
+
+DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+
+          Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei
+     indicarão, no mínimo: (Redação dada pela Lei nº 11.638,de 2007)
+          I – demonstração dos fluxos de caixa – as alterações ocorridas, durante o exercício, no saldo
+     de caixa e equivalentes de caixa, segregando-se essas alterações em, no mínimo, 3 (três)
+     fluxos: (Redação dada pela Lei nº 11.638,de 2007)
+          a) das operações; (Redação dada pela Lei nº 11.638,de 2007)
+          b) dos financiamentos; e (Redação dada pela Lei nº 11.638,de 2007)
+          c) dos investimentos; (Redação dada pela Lei nº 11.638,de 2007)
+
+Observe que a DFC informa as variações (entradas e saídas) de dinheiro no disponível de uma empresa em
+determinado período segregando as informações em três fluxos: das operações, dos financiamentos e dos
+investimentos.
+Veja como isso já foi exigido em prova.
+
+13. (FCC/Contador/COPERGÁS/2011) A Demonstração dos Fluxos de Caixa tem por objetivo evidenciar as
+variações ocorridas entre o início e o final do exercício no
+a) grupo de Outros Resultados Abrangentes da companhia.
+b) Capital Circulante Líquido da companhia.
+c) Patrimônio Líquido da companhia.
+d) Ativo circulante da companhia.
+e) Disponível da companhia.
+Comentários
+Para fixar! A Demonstração dos Fluxos de Caixa tem por objetivo evidenciar as variações ocorridas entre o
+início e o final do exercício no disponível da companhia.
+Gabarito: E
+
+
+---
+
+Obrigatoriedade
+Objetivamente, devemos saber que a DFC é uma demonstração obrigatória para as Sociedades Anônimas.
+Para as Companhias fechadas com PL < 2 milhões não é obrigatória. Nesse ponto é isso.
+
+                   OBRIGATÓRIA                                          FACULTATIVA
+
+        SOCIEDADES ANÔNIMAS                                       COMPANHIAS FECHADAS
+                                                                       PL < 2 Milhões
+Essa informação é básica e costuma ser exigida, senão vejamos:
+
+14. (FCC/Analista/TCE-AM/2008/Adaptada) A apresentação da Demonstração dos Fluxos dos Caixas não
+é obrigatória para as companhias fechadas com patrimônio líquido, na data do balanço, inferior a dois
+milhões de reais.
+Comentários
+Para fixar! A DFC é uma demonstração obrigatória para as Sociedades Anônimas. Para as Companhias
+fechadas com PL < 2 milhões não é obrigatória.
+Gabarito: Certo
+
+DFC x DOAR
+Com o advento da Lei n. 11.638/07, que alterou a Lei n. 6.404/76, a DFC veio substituir a antiga
+Demonstração das Origens e Aplicações de Recursos (DOAR). Não vamos entrar no mérito da DOAR. O que
+importa é saber que a DFC veio substituir a DOAR e ponto! Isso já foi alvo de exigência:
+
+15. (FCC/Analista de Controle Externo/TCE-SE/2011) A Demonstração de Origens e Aplicações de
+Recursos, obrigatória para as companhias abertas e para as companhias fechadas com patrimônio líquido,
+
+
+---
+
+igual ou superior a R$ 2.000.000,00 (dois milhões de reais), na data do balanço, foi substituída pela
+Demonstração
+a) do Resultado Abrangente.
+b) do Valor Adicionado.
+c) de Lucros ou Prejuízos Acumulados.
+d) das Mutações Patrimoniais.
+e) dos Fluxos de Caixa.
+Comentários
+Para fixar! A DFC veio substituir a antiga Demonstração das Origens e Aplicações de Recursos (DOAR).
+Gabarito: E
+
+Fluxos de Caixa
+Atividades Operacionais: são as principais atividades geradoras de receita da entidade e outras atividades
+que não são de investimento e tampouco de financiamento.
+Atividades de Investimento: são as referentes à aquisição e à venda de ativos de longo prazo e de outros
+investimentos não incluídos nos equivalentes de caixa.
+Atividades de Financiamento: são aquelas que resultam em mudanças no tamanho e na composição do
+capital próprio e no capital de terceiros da entidade.
+
+
+---
+
+DEMONSTRAÇÃO DO VALOR ADICIONADO
+
+      II – demonstração do valor adicionado – o valor da riqueza gerada pela companhia, a sua
+     distribuição entre os elementos que contribuíram para a geração dessa riqueza, tais como
+     empregados, financiadores, acionistas, governo e outros, bem como a parcela da riqueza não
+     distribuída.
+
+A Demonstração do Valor Adicionado (DVA) não era obrigatória em nosso país, até a promulgação da Lei nº
+11.638/07. Essa Lei introduziu significativas alterações na Lei nº 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício. Nesse sentido, as companhias fechadas estão dispensadas da
+elaboração da DVA.
+Cabe destacar que a Lei das S/A não estabelece um modelo a ser seguido pelas empresas. Apenas dispõe o
+dispositivo acima transcrito.
+
+                                                               DISTRIBUIÇÃO DA RIQUEZA
+
+                                                                             Empregados
+                                               Financiadores
+
+                                                                                  Governo
+
+                                              Acionistas
+
+16. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Uma das mudanças introduzidas pela legislação
+societária no Brasil foi a DVA (Demonstração do Valor Adicionada).
+
+
+---
+
+Com relação à DVA é correto afirmar que:
+a) será obrigatória para as companhias abertas.
+b) será facultativa para as companhias abertas.
+c) será obrigatória para as companhias fechadas.
+d) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$300.000,00.
+e) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$240.000,00.
+Comentários
+Conforme acabamos de estudar, a DVA não era obrigatória em nosso país, até a promulgação da Lei n.
+11.638/07. Essa Lei introduziu significativas alterações na Lei nº 6.404/76, tornando a elaboração e
+divulgação da DVA obrigatória para as companhias abertas, como parte das demonstrações contábeis
+divulgadas ao final de cada exercício. Nesse sentido, as companhias fechadas estão dispensadas da
+elaboração da DVA.
+Veja o que dispõe o art. 176 da Lei n. 6.404/76:
+     Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na escrituração
+     mercantil da companhia, as seguintes demonstrações financeiras, que deverão exprimir com
+     clareza a situação do patrimônio da companhia e as mutações ocorridas no exercício:
+     [...]
+     V – se companhia aberta, demonstração do valor adicionado. (Incluído pela Lei n. 11.638,de 2007)
+Gabarito: A
+
+Segundo o Manual de Contabilidade Societária (FIPECAFI), a DVA tem por objetivo demonstrar o valor da
+riqueza econômica gerada pelas atividades da empresa como resultante de um esforço coletivo e sua
+distribuição entre os elementos que contribuíram para a sua criação. Desse modo, a DVA acaba por prestar
+informações a todos os agentes econômicos interessados na empresa, tais como empregados, clientes,
+fornecedores, financiadores e governo.
+Segundo o CPC 09 (item 5), a DVA deve proporcionar aos usuários das demonstrações contábeis informações
+relativas à riqueza criada pela entidade em determinado período e a forma como tais riquezas foram
+distribuídas.
+O CPC 09 destaca, ainda, que para os investidores e outros usuários, essa demonstração proporciona o
+conhecimento de informações de natureza econômica e social e oferece a possibilidade de melhor avaliação
+das atividades da entidade dentro da sociedade na qual está inserida. A decisão de recebimento por uma
+comunidade (Município, Estado e a própria Federação) de investimento pode ter nessa demonstração um
+instrumento de extrema utilidade e com informações que, por exemplo, a demonstração de resultados por
+si só não é capaz de oferecer.
+Por fim, o CPC 09 informa que a DVA elaborada por segmento (tipo de clientes, atividades, produtos, área
+geográfica e outros) pode representar informações ainda mais valiosas no auxílio da formulação de predições
+e, enquanto não houver um pronunciamento específico do CPC sobre segmentos, sua divulgação é
+incentivada.
+Bem... já estudamos quais os objetivos e benefícios da DVA. Mas, afinal... o que significa Valor Adicionado?
+Nos termos do CPC 09,
+
+
+---
+
+Valor adicionado representa a riqueza criada pela empresa, de forma geral medida pela diferença entre o
+valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado recebido em
+transferência, ou seja, produzido por terceiros e transferido à entidade.
+É claro que esse conceito é importantíssimo! Obviamente que já foi alvo de exigência, senão vejamos:
+
+17. (CESGRANRIO/Profissional Básico/Ciências Contábeis/BNDES/2009) Pode-se afirmar que valor
+adicionado é a(o)
+a) diferença entre o valor dos bens, serviços e utilidades vendidos por uma entidade e o respectivo valor dos
+insumos adquiridos de terceiros.
+b) diferença entre a receita gerada pela empresa e o resultado obtido antes de encargos financeiros,
+depreciação, amortização, exaustão, imposto de renda e resultados não operacionais.
+c) riqueza gerada pela empresa, representada pelo custo de oportunidade multiplicado pelo patrimônio
+líquido deduzido dos valores que transitam em resultado e não representam entrada de caixa.
+d) soma de todos os valores recebidos pela empresa, deduzidos dos impostos incidentes e dos encargos de
+depreciação, amortização e exaustão.
+e) conjunto de valores obtidos pela empresa, seja através de venda de produtos, seja através de ingressos
+de fontes diversas, deduzidos de impostos e encargos financeiros.
+Comentários
+Nos termos do CPC 09,
+Valor adicionado representa a riqueza criada pela empresa, de forma geral medida pela diferença entre o
+valor das vendas e os insumos adquiridos de terceiros. Inclui também o valor adicionado recebido em
+transferência, ou seja, produzido por terceiros e transferido à entidade.
+Gabarito: A
+
+
+---
+
+                                QUESTÕES COMENTADAS
+18. (CESPE/Auditor do Estado/CAGE-RS/2018) Na elaboração do balanço patrimonial relativo ao exercício
+social encerrado em 31 de dezembro de 2017, determinada sociedade anônima adotou os procedimentos
+a seguir.
+I O resultado positivo do período foi apresentado em uma conta específica do patrimônio líquido,
+denominada lucros ou prejuízos acumulados.
+II Para fins de avaliação contábil, considerou-se o valor justo das matérias-primas como o preço pelo qual
+esses ativos poderiam ter sido vendidos pela empresa na data do balanço.
+III Os saldos devedores e credores em que não havia direito de compensação foram apresentados
+separadamente.
+IV As doações e subvenções para investimentos foram classificadas no patrimônio líquido como reservas de
+capital.
+V As ações em tesouraria foram apresentadas no balanço retificando a conta de patrimônio líquido que
+registrava a origem dos recursos utilizados na sua aquisição.
+Estão em conformidade com o disposto na legislação societária apenas os procedimentos constantes dos
+itens
+a) I e II.
+b) I e III.
+c) II e IV.
+d) III e V.
+e) IV e V.
+Comentários
+Vamos analisar as assertivas.
+I – Errado. O resultado positivo (Lucros Acumulados) deve ser totalmente destinado antes do encerramento
+do balanço.
+II – Errado. Não estudamos ainda sobre avaliação do ativo. Porém, segundo o art. 183, §1º, “a”,
+Art. 183. No balanço, os elementos do ativo serão avaliados segundo os seguintes critérios
+§ 1º Para efeitos do disposto neste artigo, considera-se valor justo:
+a) das matérias-primas e dos bens em almoxarifado, o preço pelo qual possam ser repostos, mediante
+compra no mercado.
+III – Certo. Exigência específica da Lei n. 6.404/76:
+Art. 178 § 3º Os saldos devedores e credores que a companhia não tiver direito de compensar serão
+classificados separadamente
+IV – Errado. Com o advento da Lei n° 11.638/07, o prêmio recebido na emissão de debêntures e as doações
+e subvenções para investimentos não se enquadram mais como reserva de capital.
+
+
+---
+
+V – Certo. Nos termos da Lei 6.404/76,
+
+Art. 182 § 5º As ações em tesouraria deverão ser destacadas no balanço como dedução da conta do
+patrimônio líquido que registrar a origem dos recursos aplicados na sua aquisição.
+A conta “Ações em Tesouraria” é redutora do PL.
+
+Gabarito: D
+
+19. (CESPE/Auditor do Estado/CAGE-RS/2018) Na auditoria em investimentos de controladas, coligadas e
+de empreendimentos em conjunto, os ajustes de avaliação patrimonial ocorrem na área do
+a) fluxo de caixa.
+b) ativo.
+c) passivo.
+d) patrimônio líquido.
+e) ativo diferido.
+Comentários
+Para acertar a questão bastaria saber que a conta “Ajuste de Avaliação Patrimonial” é classificada no
+Patrimônio Líquido.
+Gabarito: D
+
+20. (CESPE/Auditor de Contas Públicas/TCE-PB/Adaptada/2018) A Lei n. 11.638/2007, que introduziu
+alterações na forma de elaboração e de apresentação das demonstrações contábeis das companhias,
+determinou a adoção do procedimento de redução ao valor recuperável dos ativos.
+Comentários
+Perfeito! O inciso I, §3º do art. 183 da Lei 6.404/76 foi incluído pela Lei n. 11.638/2007:
+      § 3º A companhia deverá efetuar, periodicamente, análise sobre a recuperação dos valores
+      registrados no imobilizado e no intangível, a fim de que sejam: (Redação dada pela Lei nº 11.941,
+      de 2009)
+      I – registradas as perdas de valor do capital aplicado quando houver decisão de interromper os
+      empreendimentos ou atividades a que se destinavam ou quando comprovado que não poderão
+      produzir resultados suficientes para recuperação desse valor; ou (Incluído pela Lei nº 11.638,de
+      2007)
+Gabarito: Certo
+
+21. (CESPE/Técnico em Contabilidade/FUB/2014) Um conjunto completo das demonstrações contábeis
+compreende o balanço patrimonial, a demonstração do resultado do exercício, a demonstração do
+resultado abrangente, a demonstração das mutações do patrimônio líquido, a demonstração dos fluxos
+de caixa, a demonstração do valor adicionado, quando exigida legalmente, e as notas explicativas.
+Comentários
+Lembre-se:
+Conjunto completo de demonstrações contábeis
+
+
+---
+
+10. O conjunto completo de demonstrações contábeis inclui:
+(a) balanço patrimonial ao final do período;
+(b) demonstração do resultado do período;
+(ba) demonstração do resultado abrangente do período;
+(c) demonstração das mutações do patrimônio líquido do período;
+(d) demonstração dos fluxos de caixa do período;
+(da) demonstração do valor adicionado do período, conforme NBC TG 09 – Demonstração do Valor
+Adicionado, se exigido legalmente ou por algum órgão regulador ou mesmo se apresentada
+voluntariamente;
+(e) notas explicativas, compreendendo um resumo das políticas contábeis significativas e outras
+informações explanatórias;
+(ea) informações comparativas com o período anterior, conforme especificado nos itens 38 e 38A;
+(f) balanço patrimonial do início do período mais antigo, comparativamente apresentado, quando a
+entidade aplica uma política contábil retrospectivamente ou procede à reapresentação retrospectiva de
+itens das demonstrações contábeis, ou quando procede à reclassificação de itens de suas demonstrações
+contábeis de acordo com os itens 40A a 40D.
+Gabarito: Certo
+
+22. (CESPE/Analista/Perito/Contabilidade/MPU/2010) Com base no que dispõe a legislação sobre
+sociedades por ações, julgue o item subsequente.
+No balanço patrimonial, as contas de passivo são classificadas em dois grupos: circulante e não circulante.
+No grupo não circulante, inclui-se o patrimônio líquido.
+Comentários
+Conforme estudamos, o balanço possui a seguinte estrutura básica:
+
+                           ATIVO                                        PASSIVO
+
+       Circulante                                     Circulante
+
+                                                      Não Circulante
+       Não Circulante
+                                                      Patrimônio Líquido
+
+Observe que o Balanço Patrimonial possui duas colunas: uma para o ativo e outra para o passivo. O ativo é
+subdividido em circulante e não circulante. O passivo, por sua vez, subdivide-se em circulante e não
+circulante (passivo exigível) e patrimônio líquido (passivo não exigível).
+Observe que a questão está errada, pois o patrimônio líquido não está incluído no passivo não circulante.
+Gabarito: Errado
+
+
+---
+
+23. (CESPE/Técnico em Contabilidade/SUFRAMA/2014) A conta duplicatas a receber deverá ser
+apresentada do lado esquerdo do balanço, acima da conta estoques, tendo em vista que aquela é mais
+líquida que esta.
+Comentários
+Vamos analisar por partes:
+A conta duplicatas a receber deverá ser apresentada do lado esquerdo do balanço...
+Perfeito! Duplicatas a receber representa um direito e, portanto, é um ativo. Sabemos que o ativo está no
+lado esquerdo do BP. Assim, até aqui o item está certo.
+... acima da conta estoques, tendo em vista que aquela é mais líquida que esta.
+Vimos que as contas do ativo são dispostas em ordem decrescente do grau de liquidez. Estudamos também
+que o grau de liquidez está associado ao prazo no qual os bens e direitos podem ser transformados em
+dinheiro. Sendo assim, quanto menor o prazo, maior a liquidez e vice-versa. Nesse sentido, observe que a
+conta “duplicas a receber” apresenta maior liquidez, pois a qualquer momento ela pode ser baixada, ou seja,
+o cliente efetuar o pagamento, convertendo-se em espécie (dinheiro). Já a conta “estoques” depende da
+comercialização (se for uma empresa comercial) ou utilização na produção (se for uma empresa industrial).
+Logo, a conta “duplicatas a receber” possui maior liquidez que a conta “estoques”.
+Gabarito: Certo
+
+24. (CESPE/Técnico em Contabilidade/FUB/2014) No ativo, as contas são classificadas em ordem crescente
+de grau de liquidez dos elementos nelas registrados.
+Comentários
+Pessoal, típica questão que não podemos errar! Conforme estudamos, no ativo, as contas são classificadas
+em ordem decrescente de grau de liquidez dos elementos nelas registrados.
+Gabarito: Errado
+
+25. (CESPE/Analista Judiciário/Contabilidade TRE-ES/2011) Em relação ao encerramento do exercício
+social e às normas legais aplicáveis à contabilidade, julgue o próximo item.
+A estrutura do balanço patrimonial obedece a regras rígidas, segundo as quais o grupo de realizável a longo
+prazo não pode ser demonstrado depois do ativo permanente.
+Comentários
+Questão que exige conhecimentos do art. 178 da Lei n. 6.404/76.
+     Art. 178, § 1º No ativo, as contas serão dispostas em ordem decrescente de grau de liquidez dos
+     elementos nelas registrados, nos seguintes grupos (...)
+Assim, como a liquidez do ativo não circulante realizável a longo prazo é maior do que a do ativo imobilizado,
+intangível e investimento (ativo permanente), aquele deve vir classificado antes no balanço.
+Gabarito: Certo
+
+26. (CESPE/Técnico em Contabilidade/PF/2004) A classificação dos ativos e passivos no balanço
+patrimonial pelo critério de liquidez pressupõe que o valor dos ativos mais antigos venha em primeiro
+lugar.
+
+
+---
+
+Comentários
+Para fixar! A classificação dos ativos e passivos no balanço patrimonial pelo critério de liquidez pressupõe
+que os ativos com maior liquidez sejam evidenciados antes dos demais.
+Gabarito: Errado
+
+27. (CESPE/Contador/MTE/2014) Caso os passivos sejam pagos durante o ciclo operacional normal da
+entidade, eles serão classificados como circulante.
+Comentários
+Questão interessante para fixarmos o entendimento a pouco estudado sobre o ciclo operacional. Tanto os
+ativos como o passivo caso sejam pagos durante o ciclo operacional normal da entidade serão classificados
+como circulante.
+Destaca-se que, nos termos do CPC 26, o ciclo operacional da entidade é o tempo entre a aquisição de ativos
+para processamento e sua realização em caixa ou seus equivalentes. Quando o ciclo operacional normal da
+entidade não for claramente identificável, pressupõe-se que sua duração seja de doze meses.
+Gabarito: Certo
+
+28. (CESPE/Contador/CADE/2014) As obrigações da companhia com terceiros devem ser classificadas no
+passivo circulante ou no passivo não circulante, tomando-se como referência o exercício social ou o ciclo
+operacional da empresa, se este tiver duração maior que o exercício social.
+Comentários
+O item está perfeito! Como sabemos, as obrigações da companhia com terceiros devem ser classificadas no
+passivo distinguindo-se em circulante e não circulante tendo como referência o exercício social ou ciclo
+operacional, caso este tenha duração superior ao exercício social.
+Gabarito: Certo
+
+29. (CESPE/Analista Administrativo/Ciências Contábeis/ANTAQ/2014) As obrigações exigíveis com prazo
+para liquidação dentro do ciclo operacional da entidade devem ser classificadas no grupo do passivo
+circulante.
+Comentários
+Conforme estudamos, tanto os ativos como o passivo caso sejam pagos durante o ciclo operacional normal
+da entidade serão classificados como circulante.
+Destaca-se que, nos termos do CPC 26, o ciclo operacional da entidade é o tempo entre a aquisição de ativos
+para processamento e sua realização em caixa ou seus equivalentes. Quando o ciclo operacional normal da
+entidade não for claramente identificável, pressupõe-se que sua duração seja de doze meses.
+Gabarito: Certo
+
+30. (FCC/Auditor/Contabilidade/TCE-RS/2014) Com base na Lei das Sociedades por Ações considere as
+afirmações a seguir:
+I. As notas explicativas devem fornecer informações adicionais, não indicadas nas próprias demonstrações
+financeiras e consideradas necessárias para uma apresentação adequada.
+
+
+---
+
+II. As notas explicativas devem indicar as opções de compra de ações outorgadas e exercidas no exercício.
+III. Os ajustes de exercícios anteriores, além de eventos subsequentes à data do encerramento do exercício
+que tenham, ou possam vir a ter, efeito relevante sobre a situação financeira e os resultados futuros da
+companhia, devem ser indicados em notas explicativas.
+IV. Serão indicados, em notas explicativas, os investimentos em outras sociedades, quando relevantes.
+Está correto o que se afirma em
+a) II, III e IV, apenas.
+b) I, II, III e IV.
+c) I, II e III, apenas.
+d) I e IV, apenas.
+e) I, II e IV, apenas.
+Comentários
+Trata-se de exigência literal da Lei 6.404/76, senão vejamos:
+Art. 176, § 5º As notas explicativas devem:
+I – apresentar informações sobre a base de preparação das demonstrações financeiras e das práticas
+contábeis específicas selecionadas e aplicadas para negócios e eventos significativos;
+II – divulgar as informações exigidas pelas práticas contábeis adotadas no Brasil que não estejam
+apresentadas em nenhuma outra parte das demonstrações financeiras;
+III – fornecer informações adicionais não indicadas nas próprias demonstrações financeiras e consideradas
+necessárias para uma apresentação adequada; e
+IV – indicar:
+a) os principais critérios de avaliação dos elementos patrimoniais, especialmente estoques, dos cálculos de
+depreciação, amortização e exaustão, de constituição de provisões para encargos ou riscos, e dos ajustes
+para atender a perdas prováveis na realização de elementos do ativo;
+b) os investimentos em outras sociedades, quando relevantes (art. 247, parágrafo único);
+c) o aumento de valor de elementos do ativo resultante de novas avaliações (art. 182, § 3º);
+d) os ônus reais constituídos sobre elementos do ativo, as garantias prestadas a terceiros e outras
+responsabilidades eventuais ou contingentes;
+e) a taxa de juros, as datas de vencimento e as garantias das obrigações a longo prazo;
+f) o número, espécies e classes das ações do capital social;
+g) as opções de compra de ações outorgadas e exercidas no exercício;
+h) os ajustes de exercícios anteriores (art. 186, § 1º); e
+i) os eventos subsequentes à data de encerramento do exercício que tenham, ou possam vir a ter, efeito
+relevante sobre a situação financeira e os resultados futuros da companhia.
+Do exposto, percebe-se que todas as assertivas estão corretas.
+
+
+---
+
+Gabarito: B
+
+31. (FGV/Contador/MPE-AL/2018) Uma sociedade empresária adquiriu ações próprias, com o objetivo de
+mantê-las em tesouraria. No ano seguinte, parte das ações foi vendida por um valor superior ao valor pago
+na compra efetuada no ano anterior.
+Assinale a opção que indica a conta em que deve ser creditada a diferença entre o preço de venda e o valor
+da compra.
+a) Reserva de capital.
+b) Reserva de lucros.
+c) Ajuste de avaliação patrimonial.
+d) Receitas operacionais.
+e) Outras receitas operacionais.
+Comentários
+Segundo o art. 182, § 1º, “a” da Lei n. 6.404/ 76, serão classificadas como reservas de capital as contas que
+registrarem a contribuição do subscritor de ações que ultrapassar o valor nominal e a parte do preço de
+emissão das ações sem valor nominal que ultrapassar a importância destinada à formação do capital social,
+inclusive nos casos de conversão em ações de debêntures ou partes beneficiárias.
+Gabarito: A
+
+
+---
+
+                                    LISTA DAS QUESTÕES
+1. (FCC/ISS-Recife/2014) Uma entidade adquiriu 10 apartamentos, em um prédio ao lado de sua fábrica, por
+R$ 500.000,00 cada. Esses apartamentos são alugados para funcionários da entidade que são originalmente,
+de fora do estado. No balanço Patrimonial dessa entidade , os apartamentos devem ser evidenciados no
+subgrupo.
+a) Ativo circulante
+b) ativo realizável a longo prazo
+c) investimentos
+d) Imobilizado;
+e) Patrimônio líquido
+2. (FCC/Agente Fiscal de Rendas/ICMS SP/2009) São características necessárias para a identificação de um
+ativo Intangível
+a) apresentar a possibilidade concreta de reconhecimento futuro e ser indivisível.
+b) permitir a utilização de base confiável de controle, mesmo que a mensuração de seu custo não possa ser
+feita em bases fidedignas, e ter indivisibilidade patrimonial.
+c) ser identificável, controlado e gerar benefícios econômicos futuros.
+d) ter indivisibilidade patrimonial e financeira e utilização econômica limitada.
+e) ter indivisibilidade patrimonial e não resultar de direitos contratuais.
+3. (CESPE/Analista Contábil/MEC/2014) Se uma sociedade anônima tem o capital subscrito representado
+pelas contas capital autorizado e capital a subscrever, então, quando ocorrer uma subscrição de ações, essa
+sociedade anônima deverá fazer um lançamento contábil a crédito da conta capital a subscrever, classificada
+no patrimônio líquido.
+4. (FCC/Analista Judiciário/Contadoria/2010) Deixou de ser uma reserva de capital a partir da vigência da
+Lei nº 11.638/2007 a Reserva
+a) de Alienação de Bônus de Subscrição.
+b) de Prêmio na Emissão de Debêntures.
+c) para Contingências.
+d) para pagamento de Dividendo Obrigatório.
+e) de Ágio na Emissão de Ações.
+5. (FUNDATEC/Auditor do Estado/CAGE-RS/Reaplicação/2014) De acordo com a Lei nº 6.404/76, com
+redação dada pela Lei nº 11.638/07, a conta ajustes de avaliação patrimonial pertence ao patrimônio líquido
+e recebe as contrapartidas de
+a) aumentos ou diminuições de valor atribuídos a elementos do Ativo Permanente, em decorrência da sua
+avaliação pela equivalência patrimonial.
+
+
+---
+
+b) aumentos ou diminuições de valor atribuídos a elementos do Ativo e do Passivo, em decorrência da sua
+avaliação pelo valor de mercado.
+c) aumentos ou diminuições de valor atribuídos a elementos do ativo e do passivo, em decorrência da sua
+avaliação a valor justo.
+d) aumentos ou diminuições de valor atribuídos a elementos do passivo circulante, em decorrência da
+precificação dos derivativos a valor de mercado.
+e) aumentos ou diminuições de valor atribuídos a elementos das dívidas em moeda estrangeira, em
+decorrência da variação cambial conjuntural.
+6. (CESPE/Contador/Suframa/2014) A demonstração de lucros ou prejuízos acumulados discrimina as
+reversões de reservas, as transferências para reservas, os dividendos do período e a parcela dos lucros
+incorporada ao capital.
+7. (CESPE/Analista Judiciário/Contabilidade/TJ-SE/2014) Se ocorrer modificação na base de avaliação de
+um ativo não monetário de determinada entidade e não for possível determinar se essa modificação
+configura uma mudança na política contábil ou na estimativa contábil, a entidade deverá considerar que
+ocorreu mudança na estimativa contábil.
+8. (CESPE/Analista/Contabilidade e Finanças/BACEN/2013) Julgue o item a seguir, com base no
+Pronunciamento Técnico CPC 23, que trata de políticas contábeis, mudança de estimativa e retificação de
+erros.
+Não constitui mudança nas políticas contábeis nem a adoção de política contábil para transações, outros
+eventos ou condições que difiram em essência daqueles que ocorriam anteriormente nem a adoção de nova
+política contábil para transações, outros eventos ou condições que não ocorriam anteriormente ou eram
+imateriais.
+9. (CESPE/Contador/Suframa/2014) Na DRE de uma empresa comercial, para a apuração do lucro bruto
+operacional, as deduções das vendas e o custo das mercadorias vendidas são subtraídos diretamente da
+receita bruta de vendas.
+10. (CESPE/Técnico Contabilidade/Suframa/2014) O conjunto de despesas administrativas e de vendas é
+também denominado despesas operacionais.
+11. (CESPE/Analista/Contabilidade/MPU/2013) Se uma empresa vender um ativo imobilizado, ela deverá
+reconhecer seu resultado — ganho ou perda — como resultado não operacional.
+12. (CESPE/Contador/Suframa/2014) A compensação do prejuízo acumulado deverá ser demonstrada na
+apuração do resultado do exercício, após a dedução do imposto de renda e da contribuição social sobre o
+lucro.
+13. (FCC/Contador/COPERGÁS/2011) A Demonstração dos Fluxos de Caixa tem por objetivo evidenciar as
+variações ocorridas entre o início e o final do exercício no
+a) grupo de Outros Resultados Abrangentes da companhia.
+b) Capital Circulante Líquido da companhia.
+c) Patrimônio Líquido da companhia.
+d) Ativo circulante da companhia.
+e) Disponível da companhia.
+
+
+---
+
+14. (FCC/Analista/TCE-AM/2008/Adaptada) A apresentação da Demonstração dos Fluxos dos Caixas não é
+obrigatória para as companhias fechadas com patrimônio líquido, na data do balanço, inferior a dois milhões
+de reais.
+15. (FCC/Analista de Controle Externo/TCE-SE/2011) A Demonstração de Origens e Aplicações de Recursos,
+obrigatória para as companhias abertas e para as companhias fechadas com patrimônio líquido, igual ou
+superior a R$ 2.000.000,00 (dois milhões de reais), na data do balanço, foi substituída pela Demonstração
+a) do Resultado Abrangente.
+b) do Valor Adicionado.
+c) de Lucros ou Prejuízos Acumulados.
+d) das Mutações Patrimoniais.
+e) dos Fluxos de Caixa.
+16. (FGV/Auditor da Receita Estadual/SEFAZ-AP/2010) Uma das mudanças introduzidas pela legislação
+societária no Brasil foi a DVA (Demonstração do Valor Adicionada).
+Com relação à DVA é correto afirmar que:
+a) será obrigatória para as companhias abertas.
+b) será facultativa para as companhias abertas.
+c) será obrigatória para as companhias fechadas.
+d) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$300.000,00.
+e) será obrigatória para as companhias cujo Patrimônio Líquido seja superior a R$240.000,00.
+17. (CESGRANRIO/Profissional Básico/Ciências Contábeis/BNDES/2009) Pode-se afirmar que valor
+adicionado é a(o)
+a) diferença entre o valor dos bens, serviços e utilidades vendidos por uma entidade e o respectivo valor dos
+insumos adquiridos de terceiros.
+b) diferença entre a receita gerada pela empresa e o resultado obtido antes de encargos financeiros,
+depreciação, amortização, exaustão, imposto de renda e resultados não operacionais.
+c) riqueza gerada pela empresa, representada pelo custo de oportunidade multiplicado pelo patrimônio
+líquido deduzido dos valores que transitam em resultado e não representam entrada de caixa.
+d) soma de todos os valores recebidos pela empresa, deduzidos dos impostos incidentes e dos encargos de
+depreciação, amortização e exaustão.
+e) conjunto de valores obtidos pela empresa, seja através de venda de produtos, seja através de ingressos
+de fontes diversas, deduzidos de impostos e encargos financeiros.
+18. (CESPE/Auditor do Estado/CAGE-RS/2018) Na elaboração do balanço patrimonial relativo ao exercício
+social encerrado em 31 de dezembro de 2017, determinada sociedade anônima adotou os procedimentos a
+seguir.
+I O resultado positivo do período foi apresentado em uma conta específica do patrimônio líquido,
+denominada lucros ou prejuízos acumulados.
+
+
+---
+
+II Para fins de avaliação contábil, considerou-se o valor justo das matérias-primas como o preço pelo qual
+esses ativos poderiam ter sido vendidos pela empresa na data do balanço.
+III Os saldos devedores e credores em que não havia direito de compensação foram apresentados
+separadamente.
+IV As doações e subvenções para investimentos foram classificadas no patrimônio líquido como reservas de
+capital.
+V As ações em tesouraria foram apresentadas no balanço retificando a conta de patrimônio líquido que
+registrava a origem dos recursos utilizados na sua aquisição.
+Estão em conformidade com o disposto na legislação societária apenas os procedimentos constantes dos
+itens
+a) I e II.
+b) I e III.
+c) II e IV.
+d) III e V.
+e) IV e V.
+19. (CESPE/Auditor do Estado/CAGE-RS/2018) Na auditoria em investimentos de controladas, coligadas e
+de empreendimentos em conjunto, os ajustes de avaliação patrimonial ocorrem na área do
+a) fluxo de caixa.
+b) ativo.
+c) passivo.
+d) patrimônio líquido.
+e) ativo diferido.
+20. (CESPE/Auditor de Contas Públicas/TCE-PB/Adaptada/2018) A Lei n. 11.638/2007, que introduziu
+alterações na forma de elaboração e de apresentação das demonstrações contábeis das companhias,
+determinou a adoção do procedimento de redução ao valor recuperável dos ativos.
+21. (CESPE/Técnico em Contabilidade/FUB/2014) Um conjunto completo das demonstrações contábeis
+compreende o balanço patrimonial, a demonstração do resultado do exercício, a demonstração do resultado
+abrangente, a demonstração das mutações do patrimônio líquido, a demonstração dos fluxos de caixa, a
+demonstração do valor adicionado, quando exigida legalmente, e as notas explicativas.
+22. (CESPE/Analista/Perito/Contabilidade/MPU/2010) Com base no que dispõe a legislação sobre
+sociedades por ações, julgue o item subsequente.
+No balanço patrimonial, as contas de passivo são classificadas em dois grupos: circulante e não circulante.
+No grupo não circulante, inclui-se o patrimônio líquido.
+23. (CESPE/Técnico em Contabilidade/SUFRAMA/2014) A conta duplicatas a receber deverá ser
+apresentada do lado esquerdo do balanço, acima da conta estoques, tendo em vista que aquela é mais
+líquida que esta.
+24. (CESPE/Técnico em Contabilidade/FUB/2014) No ativo, as contas são classificadas em ordem crescente
+de grau de liquidez dos elementos nelas registrados.
+
+
+---
+
+25. (CESPE/Analista Judiciário/Contabilidade TRE-ES/2011) Em relação ao encerramento do exercício social
+e às normas legais aplicáveis à contabilidade, julgue o próximo item.
+A estrutura do balanço patrimonial obedece a regras rígidas, segundo as quais o grupo de realizável a longo
+prazo não pode ser demonstrado depois do ativo permanente.
+26. (CESPE/Técnico em Contabilidade/PF/2004) A classificação dos ativos e passivos no balanço patrimonial
+pelo critério de liquidez pressupõe que o valor dos ativos mais antigos venha em primeiro lugar.
+27. (CESPE/Contador/MTE/2014) Caso os passivos sejam pagos durante o ciclo operacional normal da
+entidade, eles serão classificados como circulante.
+28. (CESPE/Contador/CADE/2014) As obrigações da companhia com terceiros devem ser classificadas no
+passivo circulante ou no passivo não circulante, tomando-se como referência o exercício social ou o ciclo
+operacional da empresa, se este tiver duração maior que o exercício social.
+29. (CESPE/Analista Administrativo/Ciências Contábeis/ANTAQ/2014) As obrigações exigíveis com prazo
+para liquidação dentro do ciclo operacional da entidade devem ser classificadas no grupo do passivo
+circulante.
+30. (FCC/Auditor/Contabilidade/TCE-RS/2014) Com base na Lei das Sociedades por Ações considere as
+afirmações a seguir:
+I. As notas explicativas devem fornecer informações adicionais, não indicadas nas próprias demonstrações
+financeiras e consideradas necessárias para uma apresentação adequada.
+II. As notas explicativas devem indicar as opções de compra de ações outorgadas e exercidas no exercício.
+III. Os ajustes de exercícios anteriores, além de eventos subsequentes à data do encerramento do exercício
+que tenham, ou possam vir a ter, efeito relevante sobre a situação financeira e os resultados futuros da
+companhia, devem ser indicados em notas explicativas.
+IV. Serão indicados, em notas explicativas, os investimentos em outras sociedades, quando relevantes.
+Está correto o que se afirma em
+a) II, III e IV, apenas.
+b) I, II, III e IV.
+c) I, II e III, apenas.
+d) I e IV, apenas.
+e) I, II e IV, apenas.
+31. (FGV/Contador/MPE-AL/2018) Uma sociedade empresária adquiriu ações próprias, com o objetivo de
+mantê-las em tesouraria. No ano seguinte, parte das ações foi vendida por um valor superior ao valor pago
+na compra efetuada no ano anterior.
+Assinale a opção que indica a conta em que deve ser creditada a diferença entre o preço de venda e o valor
+da compra.
+a) Reserva de capital.
+b) Reserva de lucros.
+c) Ajuste de avaliação patrimonial.
+d) Receitas operacionais.
+
+
+---
+
+e) Outras receitas operacionais.
+
+
+---
+
+                        GABARITO
+      2.    3.    4.     5.    6.    7.    8.    9.    10.
+1.
+D     C     C     B      C     C     C     C     E     C
+
+      12.   13.   14.    15.   16.   17.   18.   19.   20.
+11.
+E     E     E     C      E     A     A     D     D     C
+
+      22.   23.   24.    25.   26.   27.   28.   29.   30.
+21.
+C     E     C     E      C     E     C     C     C     B
+
+31.   32.
+
+A     X
+
+
+---

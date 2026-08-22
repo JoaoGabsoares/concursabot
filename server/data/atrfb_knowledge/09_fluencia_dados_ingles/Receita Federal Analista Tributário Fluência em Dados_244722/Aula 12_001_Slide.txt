@@ -1,0 +1,953 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+TECNOLOGIA DA INFORMAÇÃO
+
+                               Profa. Emannuelle Gouveia
+                               @Emannuellegouveia
+
+
+       https://t.me/KakashiAssinaturasBot
+PLN (PROGRAMAÇÃO EM
+ LINGUAGEM NATURAL)
+
+                         Prof. Emannuelle Gouveia
+                         @Emannuelle Gouveia
+
+
+      https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+
+           Processamento de Linguagem Natural (PLN): é um campo
+      interdisciplinar da inteligência artificial que combina ciência da computação
+      e estudos de linguística com o intuito de interpretar e reproduzir a
+      comunicação humana natural em todas as suas nuances e ambiguidades.
+           Através da criação de estruturas como Árvore de Análise Sintática
+      (Parse Tree) e grafos de conhecimentos em geral pode-se ensinar a máquina
+      a entender e a reproduzir a linguagem humana.
+           Muitas vezes, é utilizada a velha técnica do dividir para conquistar.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+           ChatBot-
+                Em 1964, Joseph Weizenbaum criou um software chamado Eliza –
+           considerado como primeiro chatbot do mundo e usado para simular a
+           conversa entre um paciente e sua psicóloga/terapeuta (Eliza). Ela recriava
+           frases baseadas em palavras chaves ditas pelo usuário, para estabelecer o
+           diálogo com o mesmo.
+                Essa técnica seria impraticável para atividades mais elaboradas e
+           atualmente a abordagem mais utilizada é o Machine Learning (ML).
+                Com essa técnica a própria conversa entre os humanos vai treinando a
+           máquina, gerando um feedback positivo em que ela é capaz de analisar
+           elementos e melhorar, ada vez mais, o seu retorno.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+          Muitos preveem que as tecnologias de fala se tornarão uma forma de
+     interação tão comum quanto telas, teclados, trackpads e outros dispositivos
+     físicos de entrada e saída que usamos hoje.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+           Utilizado em: corretores ortográficos, filtros de spam, ferramentas de
+      tradução, função auto-complementar, bots de mensagens e assistentes
+      virtuais.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+
+      O PLN está ligado a três aspectos da comunicação em língua natural:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+        PLN – CONCEITOS BÁSICOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+        PLN – PRÉ- PROCESSAMENTO
+           Para modelar uma linguagem e possibilitar que um computador a
+      entenda, são necessários pré-processamentos que abstraem e estruturam a
+      linguagem, deixando apenas o que é informação relevante, ou seja, busca
+      extrair de textos uma representação estruturada e manipulável que
+      identifique o subconjunto mais significativo de informações, isto é, obter
+      uma representação com qualidade melhor que a qualidade inicial.
+           O pré-processamento envolve intrinsecamente o conceito de
+      normalização que remove ruídos e transforma um texto para um formato
+      normal de forma que uma máquina possa detectar padrões.
+           Basicamente dois elementos são normalizados: estrutura e vocabulário
+      e para isso usamos técnicas de pré-processamento
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+        PLN – PRÉ- PROCESSAMENTO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+        PLN – PRÉ- PROCESSAMENTO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+  PLN – TAREFAS DA NORMALIZAÇÃO
+     Tokenization
+          A tokenização é a segmentação de palavras e quebra a sequência de
+     caracteres em um texto identificando as palavras existentes com o seu
+     respectivo inicio e fim.
+          Para fins de linguística computacional, as palavras assim identificadas
+     são frequentemente chamadas de tokens (que também podem
+     eventualmente ser frases ou parágrafos.
+          Para separar cada token, geralmente são utilizadas quebras de linhas,
+     espaços em branco ou outros delimitadores.
+          Vale lembrar que existem idiomas que não realizam separações por
+     espaços ou pontuações, logo requerem informações léxicas e morfológicas
+     adicionais (Ex: tailandês).
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+      Stemming
+
+          A stemização (do inglês, stemming) é o processo que reduz uma palavra
+      ao seu radical removendo seus afixos (prefixos, infixos e sufixos) o que
+      reduz o ruído, aleatoriedade ou variedade de informação a ser processada
+      pela máquina.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+      Lemmatization
+
+           A lematização (do inglês, lemmatization) é o processo de reduzir uma
+      palavra ao seu lema, isto é, à sua forma base, primitiva, nuclear ou canônica
+      e também agrupa diferentes formas de uma mesma palavra ou seus
+      sinônimos.
+           Geralmente verbos ficam no infinitivo e substantivos/adjetivos ficam no
+      masculino singular.
+           Note que a lematização aumenta a abstração reduzindo o vocabulário
+      ao retirar inflexões das palavras e ajuda a padronizar a palavra para um
+      significado comum estruturando o texto para o processamento de
+      linguagem natural.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+    POS Tagging
+
+         POS Tagging (Part-Of-Speech Tagging3 ) é o processo de identificar
+    classes gramaticais em um texto com o intuito de complementar o processo
+    de extração de palavras relevantes.
+         Por exemplo: “Cheguei ontem e apaguei” pode ser representada como
+    “Cheguei/V ontem/ADV e/CJ apaguei/V” (V = Verbo, ADV = Advérbio e CJ =
+    Conjunção).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+      Named Entity Recognition
+
+           O Reconhecimento de Entidades Nomeadas é o processo de reconhecer
+      entidades em um texto, tais como pessoas, datas, organizações,
+      localizações, entre outros ajudando a criar os Grafos de Conhecimento.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ PLN – TAREFAS DA NORMALIZAÇÃO
+      Stopwords Removal
+
+          Stopwords são palavras que podem ser consideradas de pouco valor
+      para o entendimento do sentido de um texto, isto é, palavras
+      semanticamente irrelevantes geralmente como: artigos, preposições,
+      pronomes e conjunções.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+PLN – TAREFAS DA NORMALIZAÇÃO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+           As palavras existem para nos prover significados, porém seus
+      significados não são únicos.
+           O postulado que fundamenta todo o ramo de semântica estatística se
+      chama Hipótese Distributiva:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+
+           Apesar de você não saber provavelmente o que é tesguino, deduziu que
+       é uma bebida alcoólica feita de milho.
+            Pesquisadores afirmam que o cérebro humano faz uma busca por
+       outras palavras e analisa se elas se encaixariam nesses contextos. Se sim,
+       elas são consideradas; se não, elas são eliminadas. Se nós pudéssemos
+       representar isso, seria mais ou menos assim:
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+           O cérebro faz uma busca rápida no vocabulário que conhece e verifica:
+      (1) a palavra alicate se encaixa em algum desses contextos? Não, então é
+      descartada;
+      (2) a palavra pamonha se encaixa em algum desses contextos? Sim, mas
+      apenas no último – então é descartada por ser improvável;
+      (3) a palavra vinho se encaixa em algum desses contextos? Sim, exceto no
+      último – então é considerada por ser provável.
+           Isso é feito rapidamente até encontrar uma palavra que se encaixe em
+      todos os contextos e aí passamos a considerar os seus sinônimos.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+          A técnica que permite que computadores compreendam o significado
+      de palavras por meio de vetores é conhecido como semântica de vetores e o
+      vetor é a estrutura de dados que armazena uma coleção de elementos que
+      podem ser identificados por meio de um índice ou uma chave.
+           Baseado nessa técnica, um computador pode capturar o significado de
+      uma palavra por meio de sua distribuição no uso da linguagem, isto é, por
+      meios das palavras ao redor (chamado de contexto ou ambiente gramatical).
+          O ato de embutir palavras dentro do espaço de um vetor é conhecido
+      como Word Embedding.
+          Vetores podem ter várias dimensões como vetores unidimensionais,
+      bidimensionais (matrizes), tridimensionais...
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+          Os vetores podem representar coordenadas e por isso é possível
+      representar quão frequentemente palavras coocorre por meio de uma
+      Matriz de Coocorrência.
+          Existem dois tipos dessa matriz: Termo-Documento e Termo-Termo.
+          No primeiro caso, cada linha da matriz representa um termo e cada
+      coluna representa um documento. Nesse contexto, uma matriz é um vetor
+      bidimensional semelhante a uma tabela; um termo é uma palavra do
+      vocabulário; e um documento é um registro escrito sobre qualquer assunto.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+      TERMO- DOCUMENTO
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+          Uma matriz é formada por um conjunto de vetores. Nós podemos dizer,
+      por exemplo, que cada coluna dessa matriz é um vetor:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+         Como uma matriz é formada por um conjunto de vetores, cada peça
+      pode ser representada por um vetor de quatro posições.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+      Pode-se pensar em um vetor para um documento como um ponto em um
+      Espaço V-Dimensional2 .
+           No esquema acima, nós temos quatro pontos/palavras para cada
+      documento, logo temos um espaço 4-Dimensional (ou tetradimensional) –
+      cada palavra é uma dimensão. Como é complicadíssimo representar
+      graficamente um espaço de quatro dimensões, vamos fazer uma pequena
+      adaptação na nossa matriz termo-documento:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+          Agora temos apenas duas dimensões, logo podemos representar essa
+      matriz como um plano cartesiano de Bobo x Batalha:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+           O que essa imagem está nos mostrando? Note que o termo bobo
+      aparece mais vezes nas peças de comédia, enquanto o termo batalha
+      aparece mais vezes nas peças de drama. Ora, isso faz todo sentido! Nós
+      sabemos que dois documentos similares tendem a possuir palavras similares
+      e se dois documentos tiverem palavras semelhantes, seus vetores de coluna
+      tenderão a ser semelhantes. Vamos tentar verificar isso...
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+        Os vetores para as comédias Como Gostais [1.114,36,20] e Noite de Reis
+   [0,80,58,15] se parecem muito mais (mais bobo e sagaz do que batalha) do
+   que Júlio César [ 7,62,1,2] ou Henrique V [13,89,4,3].
+        Isso fica claro com os números brutos: na primeira dimensão (batalha),
+   as comédias têm números baixos e os dramas têm números altos.
+        Note abaixo que os vetores em verde possuem números mais próximos
+   e estão mais próximos no espaço vetorial; ao contrário dos vermelhos.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+           Nós criamos vetores de documentos (colunas), mas também é possível
+      criar vetores de linhas (palavras) para representar seus significados.
+            A Matriz Termo-Documento, portanto, nos permite representar o
+      significado de uma palavra pela quantidade de documentos que ela tende a
+      ocorrer.
+           A Matriz Termo-Documento, portanto, nos permite representar o
+      significado de uma palavra pela quantidade de documentos que ela tende a
+      ocorrer.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+      TERMO-TERMO
+
+          A Matriz Termo-Termo (também chamada de Matriz Palavra-Palavra ou
+      Palavra-Contexto) possui ambos os eixos representando palavras.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+           Em Processamento de Linguagem Natural, textos escritos e registros
+      orais em linguagem natural que servem de base para análise é chamado de
+      corpus e um conjunto de corpus é chamado de corpora. Na prática, corpus
+      são os documentos (também chamados de datasets).
+           Essa matriz terá dimensionalidade |V| x |V| e cada célula armazenará
+      o número de vezes que a palavra da linha e a palavra da coluna coocorrem
+      no contexto de algum corpus.
+           |V| representa a quantidade de palavras distintas em um conjunto de
+      documentos. Ora, se meus documentos forem livros, imaginem a
+      quantidade de palavras distintas existirão. Logo, imaginem quão
+      absurdamente gigantesca será essa matriz...
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+            A semântica vetorial tem a vantagem de representar dados por meio de
+      vetores, mas é claro que é preciso um arcabouço de ferramentas
+      tecnológicas capazes de lidar de forma eficiente com esse tipo de estrutura
+      de dados.
+            Nesse tipo de matriz, a representação de uma palavra pode ser
+      calculada a partir da contagem de sua coocorrência com cada palavra do
+      vocabulário em um determinado contexto. Em contextos muito grandes, é
+      difícil encontrar relações relevantes entre palavras. É mais interessante
+      utilizar contextos menores, em geral em torno de uma palavra-alvo.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – SEMÂNTICA VETORIAL
+            Vocês notaram que o contexto agora é composto apenas das quatro
+      palavras anteriores e as quatro palavras posteriores? Pois é! Os dados da
+      tabela nos mostram que as palavras cereja e morango são mais similares
+      entre si do que com outras palavras como digital; já digital e informação são
+      mais similares entre si do que com outras palavras como morango.
+      Lembrando da hipótese distributiva, vemos que as palavras que aparecem
+      em contextos semelhantes têm significados semelhantes.
+           Como a hipótese de distribuição afirma que palavras que ocorrem em
+      contextos semelhantes tendem a ter significados semelhantes, a
+      comparação de vetores permite que o computador saiba fazer essa
+      distinção.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – REDUÇÃO DE DIMENSIONALIDADE
+          Um corpus real possui milhares de palavras o que nos gera matrizes
+      com muitas dimensões e a imensa maioria dos valores zerados, conhecidas
+      como matrizes esparsas. Isso exige alto poder computacional para o
+      processamento e muitas vezes, desnecessariamente.
+           A Maldição da Dimensionalidade expressa a existência um número
+      ótimo de características (também chamadas de atributos, colunas ou
+      features) que podem ser selecionadas em relação ao tamanho da amostra
+      para maximizar o desempenho do aprendizado. Nesse cenário, torna-se
+      conveniente a aplicação de algum procedimento para redução da base de
+      dados, seja pela seleção de características originais ou através de técnicas
+      de redução da dimensionalidade.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – REDUÇÃO DE DIMENSIONALIDADE
+           A redução da dimensionalidade tem o objetivo de encontrar
+      representações vetoriais menos complexas, criando novas características
+      sintéticas a partir das originais, transformando espaços de alta
+      dimensionalidade em espaços de baixa dimensionalidade (duas ou três
+      dimensões).
+           Os algoritmos mais conhecidos são PCA (Principal Component Analysis)
+      e t-SNE (t-Distributed Stochastic Neighbourhood Embedding).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – REPRESENTAÇÃO COM N-GRAMAS
+          Muitas vezes, usamos a probabilidade para descobrir qual a palavra que
+      completa corretamente uma frase ou expressão.
+          Muita usada em editores de texto em geral, sistemas de transcrição de
+      áudio, correção gramatical, tradutores.
+           Dito isso, existe um modelo de atribuição de probabilidades a
+      sequências de frases ou palavras chamado n-grama (ou n-gram). Um n-
+      grama é uma sequência de n palavras: um 2-grama (ou bigrama) é uma
+      sequência de duas palavras; um 3-grama (ou trigrama) é uma sequência de
+      três palavras; um 4-grama (ou tetragrama) é uma sequência de quatro
+      palavras; e assim por diante1 .
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – REPRESENTAÇÃO COM N-GRAMAS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+           A classificação de textos trata-se um processo de atribuição pré-definida
+      (dado que se trata de um aprendizado de máquina supervisionado) de
+      categorias a documentos baseado em seus conteúdos a fim de estruturar e
+      analisar textos de maneira automática, rápida e econômica. É uma das
+      tarefas fundamentais no Processamento de Linguagem Natural com amplas
+      aplicações em análise de sentimento, detecção de spam, rotulagem de
+      tópicos, detecção de intenção.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+      Baseada em Regras:
+
+           Textos são separados em um grupo organizado utilizando um conjunto
+      de regras definidas por um ou mais usuários que analisam uma amostra dos
+      textos manualmente e as criam para classificar dados. Essa abordagem tem
+      algumas desvantagens: exige um esforço manual que pode ser exaustivo no
+      caso de documentos extremamente grandes e pode gerar falsos-positivos,
+      principalmente por conta da polissemia (palavras com mais de um
+      significado)
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+          Por exemplo: eu desejo pegar um edital de concurso que não separou o
+      conteúdo por disciplinas e devo classificar o conteúdo programático de
+      acordo com cada matéria. Em primeiro lugar, eu devo definir quais serão
+      minhas classes.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+      Baseada em Aprendizado de Máquina:
+
+          Ao utilizar o processamento de linguagem natural, a classificação de
+      texto pode analisar automaticamente um texto e, em seguida, atribuir um
+      conjunto de categorias predefinidas (também chamadas de rótulos, classes,
+      tags ou labels) com base em seu contexto para o treinamento de um
+      algoritmo de aprendizado de máquina que tem a função de aprender com os
+      dados apresentados e predizer os rótulos de novas instâncias.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+           O processo de classificação é dividido em duas etapas: extração e teste.
+      Na etapa de extração, utiliza-se uma amostra representativa de uma base de
+      dados, conhecida como conjunto de treino, para extrair um modelo de
+      classificação. Seu objetivo é encontrar um classificador que identifique a
+      correlação entre as características (features) dos dados e suas respectivas
+      classes. Para tal, é necessário estruturar o texto como um vetor numérico.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+
+          Uma das principais abordagens para representar texto como um vetor é
+      o BOW - Bag of Words (Saco de Palavras) que é o processo de contar todas
+      as palavras de um texto.
+          O nome desse processo é vetorização, isto é, um texto é representado
+      através de um vetor numérico em que cada posição recebe a frequência
+      referente a ocorrência da palavra no texto.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+           Observe que perdemos informações contextuais, como a ordem das
+      palavras. Por outro lado, esses vetores agora podem ajudar no treinamento
+      de classificadores de texto.
+           As palavras mais frequentes serão: a, e, de, o, isso, para, que, não, na,
+      no, até, com, etc. Logo, partimos do princípio que – se uma palavra aparece
+      com muita frequência – ela é menos relevante do que palavras que
+      aparecem com baixa frequência. Para resolver esse tipo de problema,
+      existem técnicas como TF-IDF (que utiliza um peso de acordo com o inverso
+      da frequência); e PPMI (que utiliza probabilidade para o cálculo da
+      frequência).
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+           Na etapa de teste, o modelo treinado é avaliado utilizando-se uma
+      porcentagem da base de dados rotulada, conhecida como conjunto de teste.
+      Se a acurácia preditiva obtida durante a avaliação do modelo for satisfatória,
+      então ele passa a ser utilizado para fazer a predição das classes de novas
+      instâncias. Em outras palavras, se eu encontrar um conjunto de classes que
+      consiga abarcar a maioria das instâncias da minha base, essas classes vão ser
+      a base para as novas instâncias. Em suma: algoritmos de aprendizado de
+      máquina permitem inferir a classificação correta sem que usuários
+      necessitem listar todas as regras manualmente.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+PLN – CLASSIFICAÇÃO DE TEXTOS
+      TF-IDF
+
+          TF-IDF (Term Frequency – Inverse Document Frequency) é uma medida
+      estatística que busca avaliar a importância de uma palavra em um
+      documento em relação a uma coleção de documentos ou corpus.
+          Se uma palavra é muito frequente em diversos documentos,
+      provavelmente ela é pouco relevante; se uma palavra é pouco frequente em
+      diversos documentos, mas é muito frequente em um documento específico,
+      provavelmente ela é muito relevante.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – ANÁLISE DE SENTIMENTOS
+           A Análise de Sentimentos busca simplesmente utilizar técnicas de
+      aprendizado de máquina para ensinar máquinas a extrair sentimentos da
+      linguagem natural.
+           Uma análise básica de sentimentos, a partir de documentos de texto,
+      segue um processo relativamente simples:
+      1. Divide cada documento de texto em partes menores como frases ou
+      palavras;
+      2. Identifica cada sentimento associado a uma frase ou componente;
+      3. Atribui uma pontuação com a polaridade de sentimento a cada frase, de -
+      1.0 até +1.0;
+      4. Em casos avançados, há combinação dessas pontuações com camadas de
+      Deep Learning.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – ANÁLISE DE SENTIMENTOS
+           Nem toda frase pode ser classificada como positiva ou negativa, existem
+      frases completamente neutras ou puramente informativas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – ANÁLISE DE SENTIMENTOS
+
+           Existem diversas formas de classificar sentimentos, tais como:
+      classificação por polaridade; classificação por escala; classificação por
+      análise de elementos e aspectos; e classificação por análise de humor. Cada
+      uma delas é indicada para um contexto específico (Ex: gestão de crise,
+      panoramas gerais, estudos de satisfação de marcas, análise de opiniões
+      predominantes para governos, entre outros)
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+PLN – ANÁLISE DE SENTIMENTOS
+           Apesar de a análise de sentimentos ocorrer em sua maioria relacionado
+      a frases, ela pode se dar em diferentes níveis de granularidade, de forma
+      que – quanto menor a granularidade – mais específica é a classificação.
+      Dessa forma, ela pode se dar em: nível de documento (análise de um texto
+      como um todo); nível de sentença (análise de frases de um documento);
+      nível de palavra ou dicionário (análise de palavras em frases); nível de
+      aspecto (análise de aspectos dentro de uma frase)
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+PLN – ANÁLISE DE SENTIMENTOS
+          Atualmente, as aplicações de análise de sentimento são puramente
+      comerciais. Nós vemos produtores de filmes utilizando análise de
+      sentimento para avaliar o feedback do público sobre seus projetos recentes
+      e vemos empresas incluindo esta tecnologia para avaliar como os
+      consumidores estão reagindo aos seus produtos, mas futuramente,
+      conforme essa tecnologia ficar melhor, poderemos ver aplicações a uma
+      miríade de problemas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+                            QUESTÕES
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+      01.(CESPE / PETROBRAS – 2022) Stop-words constituem um conjunto de
+      palavras que proporcionam pouca informação para o significado de uma
+      frase.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+      02.(CESPE / PETROBRAS – 2022) Suponha que a palavra amor ocorra 1.000
+      vezes no último livro escrito por certo autor, que escreveu, no total, 10
+      livros. Nesse caso, se a palavra amor for encontrada em todos os livros desse
+      autor, então o valor do TF-IDF (Term Frequency-Inverse Document
+      Frequency) referente à palavra amor no último livro escrito será igual a
+      1/1.000.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+      03.(CESPE / SEFAZ-CE – 2021) Um dos desafios do processamento de
+      linguagem natural (PLN) é a polissemia, ou seja, a característica de palavras
+      e frases poderem ter mais de um significado.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+      04.(CESPE / SEFAZ-CE – 2021) Aplicações de reconhecimento de voz fazem a
+      transcrição de um áudio para texto diretamente, sem a necessidade de
+      nenhum modelo intermediário.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+      05.(CESPE / MEC – 2015) O processo de aplicação de operações em uma
+      palavra, a fim de que seja encontrada a etimologia dessa palavra, denomina-
+      se stemming.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+      06.(CESPE / MEC – 2015) Stop words integram uma lista universal de
+      palavras utilizadas para identificar as paradas ou finais de textos, de modo a
+      auxiliar na análise semântica.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+      07.(CESPE / ANATEL – 2014) A tecnologia de análise de sentimento social é
+      um intrincado algoritmo que analisa reações em torno de um tema, marca
+      ou pessoa, sem a necessidade de uma hashtag. Com imensa capacidade de
+      processamento em tempo real, o sistema consegue identificar, filtrar e
+      analisar os textos em português contidos nos comentários das mídias sociais
+      acerca de determinado tema.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+      08.(FCC / TRF4 – 2019) Um Analista necessita desenvolver uma aplicação
+      chatbot que simula um ser humano na conversação com as pessoas. Para
+      isso o Analista deve usar pesquisa em Processamento de Linguagem Natural
+      – PLN que envolve três aspectos da comunicação, quais sejam,
+      a) Som, ligado à fonologia, Estrutura que consiste em análises morfológica e
+      sintática e Significado que consiste em análises semântica e pragmática.
+      b) Áudio, ligado à fonologia, Estrutura que consiste em análises de línguas
+      estrangeiras e Significado que consiste em análises semântica e pragmática.
+      c) Conversação, ligado à tecnologia de chatbot, Semântica que consiste em
+      análises de línguas estrangeiras e Arquitetura Spelling que realiza as análises
+      sintática e pragmática.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+      d) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em
+      análises de línguas em geral e Spelling que realiza as funções de chatbot.
+      e) Business Intelligence, ligado à tecnologia OLAP, Mining que consiste em
+      análises de línguas em geral e Spelling que realiza as funções de chatbot.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+       09.(FCC / TRE-RN – 2011 – Letra E) BOW (Bag of Words) é o processo em que
+       substantivos, adjetivos, pronomes e verbos são reduzidos aos seus radicais.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+      10.(FGV / TJDFT – 2022) Considere a sentença a seguir.
+
+      s: “O acesso ao auditório também pode ser feito através de uma rampa”
+
+      Aplicando a função f à sentença, obtém-se o seguinte resultado:
+
+      f(s) = “acesso auditório pode ser feito através rampa”
+
+      A melhor descrição para a tarefa realizada pela função f é:
+      a) filtragem de conectivos;
+      b) lematização;
+      c) sumarização de sentença;
+      d) filtragem de stop words;
+      e) remoção de ruído.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+OBRIGADA
+                            Prof. Emannuelle Gouveia
+                            @emannuellegouveia
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

@@ -1,0 +1,50 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Administrativo e Previdenciário
+tags:
+- administrativo
+- previdenciario
+- lei_8112
+- lei_14133
+- rgps
+arquivo_origem: Aula 07_007_Mapa Mental.txt
+tipo_material: Mapas Mentais & Esquemas
+aula_numero: '07'
+titulo_aula: TERCEIRO SETOR
+---
+
+# TERCEIRO SETOR
+
+TERCEIRO SETOR
+
+                                  ORGANIZAÇÕES DA SOCIEDADE CIVIL
+
+                                                      PODEM SER:
+
+
+•   ENTIDADES PRIVADAS SEM FINS LUCRATIVOS QUE APLIQUEM TODO SEU RENDIMENTO NA CONSECUÇÃO DO
+    RESPECTIVO OBJETO SOCIAL;
+
+•   SOCIEDADES COOPERATIVAS PREVISTAS NA LEI NO 9.867/1999.
+
+❑ Integradas por pessoas em situação de risco ou vulnerabilidade;
+❑ Alcançadas por programas e ações de combate à pobreza e de geração de trabalho e renda;
+❑ Voltadas para fomento, educação, capacitação de trabalhadores e de agentes de assistência técnica e
+  extensão rural.
+
+
+•   ORGANIZAÇÕES RELIGIOSAS QUE SE DEDIQUEM A ATIVIDADES OU A PROJETOS DE INTERESSE PÚBLICO E DE
+    CUNHO SOCIAL.
+
+❑ Os projetos não podem se confundir com fins religiosos.
+
+
+•   TERMO DE COLABORAÇÃO;
+•   TERMO DE FOMENTO;                                           INSTRUMENTOS DE FORMALIZAÇÃO DE VÍNCULO
+•   ACORDO DE COOPERAÇÃO.
+                                                                                                          DIREITO ADMINISTRATIVO
+                                                                         ESTRATÉGIA CONCURSOS
+
+
+---

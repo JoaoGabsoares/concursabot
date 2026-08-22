@@ -1,0 +1,295 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 05_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: Língua Espanhola
+---
+
+# Língua Espanhola
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+                           SIMPLE PAST
+
+                                                               Prof. Adolfo Sá (vídeos)
+
+                                                                        @adolfo.sa.9
+
+                                                               Prof. Ena Smith (pdfs)
+
+Língua Espanhola
+Prof. Adinoél Sebastião
+                          
+
+
+---
+
+SIMPLE PAST
+                              SIMPLE PAST
+
+
+        ESTRUTURA              VERBO AUXILIAR                     ADVÉRBIOS
+
+     SUJEITO + VERB + -ED                                        Yesterday, before,
+                                              DID
+           (regular)                                                last, in 2000
+       SUJEITO + TABELA
+          (irregular)
+
+                            
+
+
+---
+
+SIMPLE PAST
+
+                    Verbos Regulares
+• acrescentar o sufixo -ed.
+to look (olhar) → looked (olhou),
+to arrive (chegar) → arrived (chegou), etc.
+
+
+He passed his exam because he studied very hard. (pass
+/study)
+Ele passou no seu teste porque ele estudou muito.
+(passar/estudar)
+                       
+
+
+---
+
+SIMPLE PAST
+                    Verbos Regulares
+• Verbos terminados em E: acrescenta-se apenas -d.
+Exemplo: to free (libertar) → freed
+• Vogal + y: acrescenta-se -ed.
+Exemplo: to play (jogar, brincar) → played
+• consoante + y: elimina-se o y e acrescenta-se -ied.
+Exemplo: to dry (enxugar)→ dried
+•     consoante + vogal tônica + consoante: repete-se a
+    consoante final e acrescenta-se -ed.
+Exemplo: to plan (planejar) → planned
+                      
+
+
+---
+
+SIMPLE PAST
+              Verbos Irregulares
+
+                
+
+
+---
+
+SIMPLE PAST
+                         Verbos Irregulares
+• Mantém a forma
+1.Put (colocar)
+2.Cut (cortar)
+3.Set (colocar, definir)
+4.Cost (custar)
+5.Hit (atingir, bater)
+
+                           
+
+
+---
+
+SIMPLE PAST
+                     Verbos Irregulares
+• Possuem 2 formas
+1.build (construir) - built
+2.buy (comprar) - bought
+3.feel (sentir) - felt
+4.hear (ouvir) - heard
+5.keep (manter) - kept
+
+                         
+
+
+---
+
+SIMPLE PAST
+                       Verbos Irregulares
+• Possuem 3 formas
+1.Go (ir) - went (foi) - gone (ido)
+2.Eat (comer) - ate (comeu) - eaten (comido)
+3.Drink (beber) - drank (bebeu) - drunk (bebido)
+4.Write (escrever) - wrote (escreveu) - written (escrito)
+5.Take (pegar, levar) - took (pegou, levou) - taken (pegado, levado)
+
+                           
+
+
+---
+
+SIMPLE PAST
+                       Verbos Irregulares
+She got up, had a shower, got dressed, made breakfast and went to work.
+Ela se levantou, tomou banho, se vestiu, tomou o café da manhã e foi
+trabalhar.
+
+
+I spent all my childhood in Fortaleza. When I was a kid, we built a house by
+the sea and I ran every day on the beach.
+Eu passei toda a minha infância em Fortaleza. Quando eu era criança, nós
+construímos uma casa à beira mar e eu corria todo dia na praia.
+
+                           
+
+
+---
+
+SIMPLE PAST
+                      Verbos Irregulares
+2.2.1. Com os verbos To Be (ser, estar) e There Be (haver, existir)
+ To Be → was (1ª e 3ª pessoas do singular), were (plural e 2ª pessoa do
+singular)
+There Be → There was (singular), There were (plural)
+
+
+ They were at home yesterday.
+Eles/Elas estavam em casa ontem.
+ There was a teacher in the classroom this morning.
+Havia um professor na sala de aula esta manhã.
+                            
+
+
+---
+
+SIMPLE PAST
+         Adjuntos Adverbiais De Tempo
+•   ontem à noite (last night),
+•   algum tempo atrás (some time ago),
+•   em 1985 (in 1985),
+•   hoje cedo (earlier today),
+•   às seis horas desta manhã (at six o’clock),
+•   a última vez (last time),
+•   a primeira vez (first time)
+
+
+                    
+
+
+---
+
+         Adjuntos Adverbiais De Tempo
+SIMPLE PAST
+
+
+The first time I ate escargot was in Italy two years ago and the last time
+was at Helen’s last Thursday.
+A primeira vez que comi escargot foi na Itália há dois anos e a última vez
+foi na casa da Helena na última Quinta-feira.
+ We bought that car when we moved to Brazil in 2001 and sold it last year.
+Compramos aquele carro quando nos mudamos para o Brasil em 2001 e o
+vendemos no ano passado.
+  When did you last speak to her? ~ I spoke to her on the phone this
+afternoon.
+Quando foi a última vez que você falou com ela? ~ Eu falei com ela pelo
+telefone essa tarde.
+ I stopped here yesterday.
+Eu parei aqui ontem.
+                          
+
+
+---
+
+SIMPLE PAST
+                     Interrogativa
+• Com os verbos To Be e There Be
+Were they at home yesterday?
+Eles/Elas estavam em casa ontem?
+ Was there a teacher in the classroom this morning?
+Havia um professor na sala de aula esta manhã?
+
+                      
+
+
+---
+
+SIMPLE PAST
+                          Interrogativa
+• Com os demais verbos
+Did they listen to pop music at home last night? (listened na afirmativa)
+Eles ouviram música popular em casa ontem à noite?
+Did you know the Russian Navy has its own dinosaur? (knew na afirmativa)
+Você sabia que a marinha russa tem seu próprio dinossauro?
+Did he stop here last night? (stopped na afirmativa)
+Ele parou aqui ontem à noite?
+
+                            
+
+
+---
+
+SIMPLE PAST
+                           Negativa
+• Com os verbos To Be e There Be
+You were not a good friend.
+Você não foi um bom amigo.
+ There wasn’t a table here yesterday.
+Não havia uma mesa aqui ontem.
+ Wasn’t there a teacher in the classroom this morning?
+Não havia um professor na sala de aula esta manhã?
+
+
+                       
+
+
+---
+
+SIMPLE PAST
+                           Negativa
+• Com os demais verbos
+You did not (didn’t) get those books.
+- Você não conseguiu aqueles livros.
+
+
+She didn’t have her dinner last night.
+- Ela não jantou ontem a noite.
+
+                       
+
+
+---
+
+SIMPLE PAST
+                     Caso enfático
+You did get those books.
+- Você REALMENTE conseguiu aqueles livros.
+
+
+She did have her dinner last night.
+- Ela REALMENTE jantou ontem a noite.
+
+                       
+
+
+---
+
+                                     @adolfo.sa.9
+
+---

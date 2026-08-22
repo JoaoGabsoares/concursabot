@@ -1,0 +1,645 @@
+https://t.me/KakashiAssinaturasBot
+CONTABILIDADE
+CPC 03 – DEMONSTRAÇÃO DOS FLUXOS DE CAIXA
+PROF. GILMAR POSSATI
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+                                CPC 03
+                           DEMONSTRAÇÃO DOS
+                            FLUXOS DE CAIXA
+
+
+Contabilidade: Demonstração dos Fluxos de Caixa (DFC)
+Prof. Gilmar Possati
+                                                        https://t.me/KakashiAssinaturasBot
+Previsão
+Art. 176. Ao fim de cada exercício social, a diretoria fará elaborar, com base na
+escrituração mercantil da companhia, as seguintes demonstrações financeiras, que
+deverão exprimir com clareza a situação do patrimônio da companhia e as mutações
+ocorridas no exercício:
+[...]
+IV に demonstração dos fluxos de caixa;
+[...]
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+Previsão
+Art. 188. As demonstrações referidas nos incisos IV e V do caput do art. 176 desta Lei
+indicarão, no mínimo:
+I に demonstração dos fluxos de caixa に as alterações ocorridas, durante o exercício,
+no saldo de caixa e equivalentes de caixa, segregando-se essas alterações em, no
+mínimo, 3 (três) fluxos:
+a) das operações;
+b) dos financiamentos; e
+c) dos investimentos;
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+(FCC/Contador/COPERGÁS/2011) A Demonstração dos Fluxos de Caixa tem
+por objetivo evidenciar as variações ocorridas entre o início e o final do
+exercício no
+a) grupo de Outros Resultados Abrangentes da companhia.
+b) Capital Circulante Líquido da companhia.
+c) Patrimônio Líquido da companhia.
+d) Ativo circulante da companhia.
+e) Disponível da companhia.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Conceito
+
+É a demonstração que evidencia as variações (entradas e saídas)
+    dinheiro     disponível      uma empresa       determinado
+período segregando          informações       três fluxos: das
+operações, dos financiamentos e dos investimentos.
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+Obrigatoriedade
+
+
+
+
+             https://t.me/KakashiAssinaturasBot
+(FCC/Analista/TCE-AM/2008/Adaptada)    A     apresentação   da
+Demonstração dos Fluxos dos Caixas não é obrigatória para as
+companhias fechadas com patrimônio líquido, na data do balanço,
+inferior a dois milhões de reais.
+
+
+
+
+                     https://t.me/KakashiAssinaturasBot
+ DFC x DOAR
+
+
+
+(FCC/Analista de Controle Externo/TCE-SE/2011) A Demonstração de Origens e
+Aplicações de Recursos, obrigatória para as companhias abertas e para as
+companhias fechadas com patrimônio líquido, igual ou superior a R$ 2.000.000,00
+(dois milhões de reais), na data do balanço, foi substituída pela Demonstração
+a) do Resultado Abrangente.
+b) do Valor Adicionado.
+c) de Lucros ou Prejuízos Acumulados.
+d) das Mutações Patrimoniais.
+e) dos Fluxos de Caixa.
+
+                            https://t.me/KakashiAssinaturasBot
+ Objetivos, utilidades e benefícios
+Proporcionar aos usuários das demonstrações contábeis uma base para
+ avaliar a capacidade de a entidade gerar caixa e equivalentes de caixa, bem
+ como as necessidades da entidade de utilização desses fluxos de caixa (CPC
+ 03);
+
+ Equacionar as entradas e saídas de recursos, dispostos no tempo;
+
+Avaliar a capacidade de a empresa gerar fluxos de caixa positivos no futuro;
+
+Visualizar os fluxos monetários (entradas e saídas de dinheiro) da entidade;
+
+Avaliar a capacidade de a empresa honrar os compromissos com os seus
+ credores;
+                            https://t.me/KakashiAssinaturasBot
+Objetivos, utilidades e benefícios
+Indicar os valores esperados de entrada e de saída de recursos financeiros,
+ ao longo de um período de tempo especificado;
+
+Identificar a parte do lucro líquido ou prejuízo líquido apurado pelo regime
+ de competência convertido em dinheiro;
+
+Avaliar os efeitos decorrentes das operações de investimentos e
+ financiamentos na posição financeira da empresa;
+
+ Avaliar o grau de precisão dos fluxos de caixa estimados no passado e a sua
+realização no futuro etc.
+
+
+                           https://t.me/KakashiAssinaturasBot
+(FCC/Analista Judiciário/Contabilidade/TRT18/2008) Um dos objetivos da
+Demonstração do Fluxo de Caixa, recém tornada obrigatória em virtude da
+modificação introduzida pela Lei nº 11.638/2007 na Lei das Sociedades por
+Ações, é
+a) permitir calcular o índice de liquidez corrente.
+b) avaliar quanto do lucro da entidade foi aplicado no seu Disponível.
+c) evidenciar a variação do Capital Circulante Líquido da entidade de um
+exercício para o outro.
+d) avaliar a situação financeira da empresa no curto prazo (até um ano).
+e) permitir a auditoria das disponibilidades da empresa com custo menor.
+
+
+                         https://t.me/KakashiAssinaturasBot
+Definições
+
+Caixa  compreende numerário em espécie e depósitos bancários disponíveis.
+
+Equivalentes de Caixa  são aplicações financeiras de curto prazo (3 meses ou
+menos), de alta liquidez, que são prontamente conversíveis em montante
+conhecido de caixa e que estão sujeitas a um insignificante risco de mudança
+de valor.
+
+Fluxos de Caixa  são as entradas e saídas de caixa e equivalentes de caixa.
+
+
+
+
+                            https://t.me/KakashiAssinaturasBot
+(CESPE/Contador/DPU/2016) São denominados equivalentes de caixa os
+investimentos conversíveis em moeda e que apresentam alto risco de alteração
+de valor, sendo necessária a exposição, no relatório de administração, dos
+critérios adotados para identificar as aplicações em equivalente de caixa.
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa
+
+
+
+
+              https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades operacionais
+
+São as principais atividades geradoras de receita
+da entidade e outras atividades que não são de
+investimento e tampouco de financiamento.
+
+
+Geralmente resultam de transações e outros eventos que entram na
+apuração do lucro do exercício.
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades operacionais
+
+
+Exemplos:
+(a) recebimentos de caixa pela venda de mercadorias e pela prestação de
+    serviços;
+(b) recebimentos de caixa decorrentes de royalties, honorários, comissões e
+outras receitas;
+(c) pagamentos de caixa a fornecedores de mercadorias e serviços;
+(d) pagamentos de caixa a empregados ou por conta de empregados;
+
+                          https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades operacionais
+
+
+Exemplos:
+(e) recebimentos e pagamentos de caixa por seguradora de prêmios e
+sinistros, anuidades e outros benefícios da apólice;
+(f) pagamentos ou restituição de caixa de impostos sobre a renda, a menos
+que possam ser especificamente identificados com as atividades de
+financiamento ou de investimento; e
+(g) recebimentos e pagamentos de caixa de contratos mantidos para
+negociação imediata ou disponíveis para venda futura.
+
+                         https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades de investimento
+
+São as referentes à aquisição e à venda de ativos de longo prazo e de outros
+investimentos não incluídos nos equivalentes de caixa.
+
+Relacionam-se normalmente com o aumento e diminuição dos ativos de
+longo prazo (não circulantes) que a empresa utiliza para produzir bens e
+serviços.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades de investimento
+
+Exemplos:
+
+(a) pagamentos em caixa para aquisição de ativo imobilizado, intangíveis e
+    outros ativos de longo prazo.
+
+(b) recebimentos de caixa resultantes da venda de ativo imobilizado,
+intangíveis e outros ativos de longo prazo;
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades de investimento
+
+(c) pagamentos em caixa para aquisição de instrumentos patrimoniais ou
+instrumentos de dívida de outras entidades;
+(d) recebimentos de caixa provenientes da venda de instrumentos
+patrimoniais ou instrumentos de dívida de outras entidades;
+(e) adiantamentos em caixa e empréstimos feitos a terceiros ;
+(f) recebimentos de caixa pela liquidação de adiantamentos ou amortização
+de empréstimos concedidos a terceiros
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades de financiamento
+
+São as referentes à aquisição e à venda de ativos de longo prazo e de outros
+investimentos não incluídos nos equivalentes de caixa.
+As atividades de financiamento relacionam-se com os empréstimos de
+credores e investidores à entidade.
+Exemplos:
+(a) caixa recebido pela emissão de ações ou outros instrumentos
+patrimoniais;
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Fluxos de Caixa das atividades de financiamento
+
+(b) pagamentos em caixa a investidores para adquirir ou resgatar ações da
+entidade;
+(c) caixa recebido pela emissão de debêntures, empréstimos, notas
+promissórias, outros títulos de dívida, hipotecas e outros empréstimos de
+curto e longo prazos;
+(d) amortização de empréstimos e financiamentos; e
+(e) pagamentos em caixa pelo arrendatário para redução do passivo relativo
+a arrendamento mercantil financeiro.
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+O CPC 03 (R2) encoraja fortemente as entidades a classificarem os juros,
+recebidos ou pagos, e os dividendos e juros sobre o capital próprio recebidos
+como fluxos de caixa das atividades operacionais, e os dividendos e juros sobre
+o capital próprio pagos como fluxos de caixa das atividades de financiamento.
+Alternativa diferente deve ser seguida de nota evidenciando esse fato.
+Assim, temos:
+Juros Recebidos ou pagos  Atividades Operacionais
+Dividendos e Juros sobre o capital próprio recebidos  Atividades
+Operacionais
+Dividendos e Juros sobre o capital próprio pagos  Atividades de
+Financiamento
+
+                           https://t.me/KakashiAssinaturasBot
+(FCC/METRÔ-SP/2008/Adaptada) Na elaboração da Demonstração dos Fluxos de
+Caixa são classificados como itens das atividades de financiamentos a venda de
+ações emitidas e o pagamento de dividendos e juros sobre o capital próprio.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+(FCC/Agente Fiscal de Rendas/SEFAZ-SP/2013) Durante o ano de 2012, a Cia.
+Desenvolvida S.A. adquiriu ações de sua própria emissão, pagou fornecedores de
+matéria-prima e pagou três prestações de um arrendamento mercantil
+financeiro referentes à aquisição de uma máquina. Estas transações devem ser
+classificadas, respectivamente, na Demonstração dos Fluxos de Caixa como
+fluxos de caixa decorrentes das atividades
+a) operacionais, de financiamento e de financiamento.
+b) de financiamento, operacionais e operacionais.
+c) de investimento, operacionais e de financiamento.
+d) de financiamento, operacionais e de investimento.
+e) de financiamento, operacionais e de financiamento.
+
+                           https://t.me/KakashiAssinaturasBot
+Métodos de elaboração
+
+
+Método Direto: as principais classes de recebimentos brutos e pagamentos
+brutos são divulgadas.
+
+Método indireto: lucro líquido ou o prejuízo é ajustado pelos efeitos de
+transações que não envolvem caixa, pelos efeitos de quaisquer diferimentos
+ou apropriações por competência sobre recebimentos de caixa ou
+pagamentos em caixa operacionais passados ou futuros, e pelos efeitos de
+itens de receita ou despesa associados com fluxos de caixa das atividades
+de investimento ou de financiamento.
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Método Direto
+Atividades Operacionais
+(+) Recebimento de clientes
+(+) Recebimento de juros
+(+) Recebimento de dividendos e juros sobre o capital próprio
+(+) Duplicatas Descontadas
+(-) Pagamentos
+     Fornecedores
+     Impostos e Contribuições
+     Salários
+     Juros
+     Despesas Operacionais
+     Despesas Pagas Antecipadamente
+(=) Fluxo de Caixa Líquido das Atividades Operacionais (I)
+                          https://t.me/KakashiAssinaturasBot
+Atividades de Investimento
+(+/-) Compra/venda de investimentos, imobilizado e intangível (parte do
+AÑC)
+(=) Fluxo de Caixa Líquido das Atividades de Investimento (II)
+
+Atividades de Financiamento
+(+) Aumento/integralização de capital (PL)
+(+) Recebimento de empréstimos e financiamentos
+(-) Pagamento de dividendos e Juros sobre o capital próprio
+(-) Pagamento de Empréstimos e Financiamentos (exceto juros)
+(=) Fluxo de Caixa Líquido das Atividades de Financiamento (III)
+
+
+                           https://t.me/KakashiAssinaturasBot
+IV - Variação Líquida do Disponível (I + II + III)
+V - Saldo inicial do Disponível
+VI - Saldo Final do Disponível (IV + V)
+
+
+
+
+                              https://t.me/KakashiAssinaturasBot
+Método Direto: macete de resolução
+
+
+
+
+    Saldo Inicial + Entradas Saídas = Saldo Final
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+Método Direto: macete de resolução
+
+             Recebimento de Clientes (duplicatas a receber)
+
+ Saldo Inicial de Clientes
+ (+) Entradas (Vendas)
+ (-) Saídas (Recebimentos)
+ (=) Saldo Final de Clientes
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+Método Direto: macete de resolução
+
+                        Pagamento de Fornecedores
+
+ Saldo Inicial de Fornecedores
+ (+) Entradas (Compras*)
+ (-) Saídas (Pagamentos)
+ (=) Saldo Final de Fornecedores
+   P
+ CMV = Estoque Inicial (EI) + Compras Estoque Final (EF)
+
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+(FCC/Auditor Fiscal Tributário Municipal/São Paulo/2007) A Cia. Novo
+Horizonte elabora a demonstração do fluxo de caixa pelo método direto.
+São dadas as seguintes informações extraídas de sua contabilidade,
+referentes ao exercício de 2005, em R$:
+
+Saldo inicial da conta Fornecedores                           200.000,00
+Saldo final da conta Estoque de Mercadorias                   400.000,00
+Custo das mercadorias vendidas                                950.000,00
+Saldo inicial da conta Estoque de Mercadorias                 380.000,00
+Saldo final da conta Fornecedores                             260.000,00
+
+
+                         https://t.me/KakashiAssinaturasBot
+O valor pago pela companhia a fornecedores no exercício de 2005
+correspondeu a, em R$:
+
+a) 950.000,00
+b) 910.000,00
+c) 890.000,00
+d) 870.000,00
+e) 840.000,00
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+(FCC/Técnico Judiciário/Contabilidade/TRT-MG/2015) Considere as
+informações extraídas do Balanço Patrimonial e da Demonstração do
+Resultado do Exercício da empresa Horizonte, empresa comercial,
+referentes ao exercício de X2:
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+Com base nestas informações, o valor recebido de clientes em X2 foi, em
+milhares de reais,
+a) 870.000,00
+b) 930.000,00
+c) 900.000,00
+d) 875.000,00
+e) 547.000,00
+
+
+
+
+                        https://t.me/KakashiAssinaturasBot
+Método Indireto
+Segundo esse método o lucro líquido ou o prejuízo é ajustado
+basicamente pelos efeitos de transações que não envolvem caixa.
+Esse método é também conhecido por método da reconciliação
+ou método da conciliação pois faz a conciliação entre o lucro
+líquido e o caixa gerado pelas operações.
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+(FCC/Analista/TCM-CE/2010) A apuração da Demonstração do Fluxo de
+Caixa que reconcilia o Lucro Líquido e o Caixa gerado pelas operações, e
+que é por isso também chamada de               de               utiliza o
+método
+a) direto.
+b) equivalente de produção.
+c) indireto.
+d) de equivalência patrimonial.
+e) de capital circulante líquido.
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+Método Indireto
+Das Operações
+Resultado Líquido do Exercício (Lucro ou Prejuízo)
+(+) Depreciação, Amortização, Exaustão;
+(+) Perda de Equivalência Patrimonial
+(+) Variação Monetária Passiva de Longo Prazo
+(+) Prejuízo nas Vendas de Bens ou Direitos do Ativo Não Circulante
+(-) Ganho de Equivalência Patrimonial
+(-) Variação Monetária Ativa de Longo Prazo
+(-) Lucro nas Vendas de Bens ou Direitos do Ativo Não Circulante
+(=) Resultado Líquido Ajustado
+
+
+                           https://t.me/KakashiAssinaturasBot
+Método Indireto
+Das Operações
+
+(+/-) Variações nos Ativos Operacionais
+(-) Aumentos das Contas do Ativo Circulante, exceto Disponível
+(+) Diminuição das Contas do Ativo Circulante, exceto Disponível
+(+/-) Variações nos Passivos Operacionais
+(+) Aumentos das Contas do Passivo Circulante
+(-) Diminuição das Contas do Passivo Circulante
+(=) Fluxo de Caixa Líquido das Atividades Operacionais (I)
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+Método Indireto
+
+Dos Investimentos
+
+(+) Valor da Alienação de Bens ou Direitos do Ativo Não Circulante
+(-) Aquisição de Bens ou Direitos do Ativo Não Circulante
+(+) Redução do Ativo Não Circulante - Realizável a Longo Prazo
+(recebimento de empréstimos ou financiamento concedidos)
+(-) Aumento do Ativo Não Circulante - Realizável a Longo Prazo
+(desembolso de empréstimos ou financiamentos concedidos)
+(=) Fluxo de Caixa Líquido das Atividades de Investimento (II)
+
+
+                           https://t.me/KakashiAssinaturasBot
+Método Indireto
+Dos Financiamentos
+(+) Realização do Capital Social e Contribuições para Reservas de Capital
+(+) Aumento do Passivo Não Circulante - Longo Prazo (recebimento de
+empréstimos)
+(-) Dividendo pagos/Resgate ou Reembolso de Ações/Resgate de Debêntures
+(-) Redução do Passivo Não Circulante - Longo Prazo (pagamento de
+empréstimos)
+(=) Fluxo de Caixa Líquido das Atividades de Financiamento (III)
+
+Variação Líquida do Disponível = I + II + III (IV)
+(+) Saldo Inicial do Disponível (V)
+(=) Saldo Final do Disponível = IV + V
+                             https://t.me/KakashiAssinaturasBot
+(FCC/Analista Judiciário/Contabilidade/TJ-AP/2009) Na elaboração do Fluxo de
+Caixa pelo método indireto, para a determinação do fluxo de caixa líquido das
+atividades operacionais, correspondem a ajustes do resultado líquido
+a) as variações cambiais não-realizadas, o resultado de equivalência patrimonial e
+as perdas com clientes.
+b) a provisão para crédito de liquidação duvidosa, as recuperações de perdas com
+clientes e as receitas eventuais recebidas.
+c) as depreciações reconhecidas no período e os resultados líquidos obtidos com
+alienação de investimentos.
+d) os dividendos recebidos, a amortização de parcelas de empréstimos de longo
+prazo e os recebimentos por alienação de imobilizados.
+e) a conversão de passivo de longo prazo em capital, os valores correspondentes a
+descontos de duplicatas e as aquisições de imobilizados.
+
+                            https://t.me/KakashiAssinaturasBot
+(ESAF/Auditor Fiscal da Receita Federal do Brasil/2014) O lucro obtido na
+Venda de Imobilizado e o Resultado de Equivalência Patrimonial
+representam, na Demonstração dos Fluxos de Caixa (DFC):
+a) ingresso de caixa na atividade de investimento.
+b) aumento de atividades operacionais.
+c) ajustes do resultado na elaboração da DFC.
+d) ingressos por Receita Operacional.
+e) aumento de investimentos.
+
+
+
+
+                         https://t.me/KakashiAssinaturasBot
+(FCC/AFRE/SEFAZ-2014) Determinada empresa comercial apresentava as
+seguintes demonstrações contábeis (valores expressos em reais):
+
+
+
+
+                       https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Com base nestas demonstrações contábeis e considerando, ainda, que os
+juros não foram pagos e foi recebido o valor da venda de terreno não
+destinado a aluguel, o fluxo de caixa gerado pelas Atividades Operacionais no
+primeiro trimestre de 2013 foi
+a) R$ 121.000,00.
+b) R$ 98.000,00.
+c) R$ 132.000,00.
+d) R$ 19.000,00.
+e) R$ 42.000,00.
+
+
+
+                          https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Método das Variações das disponibilidades
+            D                      FCO FCI FCF
+
+
+
+
+                  https://t.me/KakashiAssinaturasBot
+(FCC/Auditor do Tribunal de Contas do Estado de São Paulo/2013) A
+Empresa Corrente S.A. apresentou, em 31/12/2011, as seguintes
+demonstrações contábeis:
+
+
+
+
+                      https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+Com base nas demonstrações da Empresa Corrente S.A. e sabendo que houve
+distribuição e pagamento de dividendos de 70.000, e que as despesas financeiras
+não foram pagas, o fluxo de caixa gerado pelas Atividades Operacionais foi, em
+reais,
+a) 202.000.
+b) 274.000.
+c) 280.000.
+d) 295.000.
+e) 316.000.
+
+
+
+
+                           https://t.me/KakashiAssinaturasBot
+Fluxo das Operações                                         Fluxo dos Investimentos
+(+) Lucro Líquido                             183.000       (=) Fluxo de Caixa Líquido das Atv. de Investimento         0 (II)
+(+) Despesa de Depreciação                    10.000        Fluxo dos Financiamentos
+(-) Ganho de Equivalência Patrimonial         (6.000)       (+) Realização do Capital Social                            10.000
+(+) Despesa Financeira                        15.000        (-) Dividendo Pagos                                         (70.000)
+(=) Resultado Líquido Ajustado                202.000       (=) Fluxo de Caixa Líquido das Atv. de Financiamento        (60.000)
+(+/-) Variações nos Ativos Operacionais
+(+) Redução em Duplicatas a Receber           20.000           Variação Líquida do Disponível (I + II + III)
+(+/-) Variações nos Passivos Operacionais                      I - Fluxo de Caixa Líquido das Atv. Operacionais         274.000
+(+) Aumento em IR/CSLL a Pagar                93.000           II - Fluxo de Caixa Líquido das Atv. de Investimento 0
+(-) Redução em Fornecedores                   (41.000)         III - Fluxo de Caixa Líquido das Atv. de Financiamento   (60.000)
+(=) Fluxo de Caixa Líquido das Atv. Operacionais               Variação Líquida do Disponível                           214.000
+274.000                                                        (+) Saldo Inicial do Disponível                          100.000
+                                                               (=) Saldo Final do Disponível (IV + V)
+                                              https://t.me/KakashiAssinaturasBot
+                                                                                                                        314.000
+FCI            D                         FCO FCI FCF
+FCI = 0
+
+FCF
+Aumento do Capital Social  + 10.000
+Dividendo Pagos  - 70.000
+FCF = - 60.000
+
+  D          FCO FCI FCF
+214.000 = FCO + 0 - 60.000
+FCO = 214.000 + 60.000
+FCO = 274.000,00
+                    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

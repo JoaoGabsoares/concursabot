@@ -1,0 +1,326 @@
+                               CONCEITOS BÁSICOS DE PROCESSAMENTO DE LINGUAGEM NATURAL
+
+
+
+
+                          Área da inteligência artificial que permite ao                                           Linguagem de programação é precisa e estruturada;
+                        computador compreender, interpretar, analisar e                                                   linguagem natural não é estruturada
+                                    gerar linguagem humana
+                                                                                                      Motivação
+                                                                                                                   Computador não captura nuances, ambiguidades e
+PLN (Processamento de                                                                                                    vocabulário gigantesco do humano
+                          Campo interdisciplinar: linguística, estatística,
+  Linguagem Natural)
+                        aprendizado de máquina e ciência da computação
+
+
+
+                           Transforma texto e fala em representações
+                           estruturadas manipuláveis por algoritmos                                                    Motor de Inferência: coração dos Sistemas
+                                                                                                                    Especialistas; aplica regras lógicas à base de fatos
+
+
+
+                                                                                              Conceitos de IA          Lógica Nebulosa (Fuzzy): admite graus de
+                          Classificação de textos, análise de sentimentos,                  Clássica (Simbólica)         pertinência entre 0 e 1, para incerteza
+                                       tradução automática                                    cobrados junto
+ Tarefas viabilizadas                                                                                                   Atenção: Cuidado: a Lógica Fuzzy trata
+                        Reconhecimento de voz e interação por assistentes                                           especificamente de incerteza e verdade parcial,
+                                           virtuais                                                                           não de lógica binária (0 ou 1)
+
+
+
+
+                                                                                                                                                    TECNOLOGIA DA INFORMAÇÃO
+
+                                                                 https://t.me/KakashiAssinaturasBot                                                   ESTRATÉGIA CONCURSOS
+                                     ASPECTOS DA COMUNICAÇÃO E ETAPAS DE ANÁLISE LINGUÍSTICA
+
+
+
+
+Cinco aspectos da comunicação em linguagem                Etapas de análise (Robert Dale, 2010) - da
+                                                                                                                       Ferramentas de estrutura
+                   natural                                       superfície à profundidade
+
+
+
+Fonologia: reconhecimento dos sons que compõem             Pré-processamento: estrutura/formação de          Árvore de Análise
+                   as palavras                                   palavras; realiza a tokenização              Sintática (Parse     Grafo do Conhecimento:
+                                                                                                             Tree): marca cada       banco de fatos que
+                                                                                                              palavra com sua      conecta entidades para
+                                                                                                              provável classe          gerar respostas
+Morfologia: reconhece palavras em suas unidades           Análise Léxica: identifica classes gramaticais,       gramatical
+                   primitivas                                     radicais e flexões dos tokens
+
+
+
+  Sintaxe: define a estrutura da frase pela relação    Análise Sintática: analisa sentenças segundo regras
+                   entre palavras                                      gramaticais formais
+
+
+
+                                                           Análise Semântica: interpreta o significado,
+Semântica: associa significado à estrutura sintática
+                                                                    reduzindo ambiguidades
+
+
+
+   Pragmática: verifica se o significado é o mais         Análise Pragmática: incorpora o contexto e a
+            apropriado ao contexto                                    intenção do falante
+
+
+
+
+                                                                                                                                        TECNOLOGIA DA INFORMAÇÃO
+
+                                                                https://t.me/KakashiAssinaturasBot                                        ESTRATÉGIA CONCURSOS
+                                                     INTERAÇÃO HUMANO-MÁQUINA E SUMARIZAÇÃO
+
+
+                                                                                Evolução dos chatbots
+
+
+                                                   Eliza (1964, Weizenbaum): primeiro chatbot; baseado em regras e palavras-chave
+
+
+                                                            Abordagem atual: Machine Learning treinado com conversas reais
+
+
+
+
+ Etapas da interação linguística humano-máquina                                    Sumarização (Geração de Resumos)
+                                                                                                                                     Resumo é um subconjunto do
+                                                                                                                                       texto original (marcador
+Captação da voz: microfones convertem ondas sonoras                   Extrativa: seleciona e copia frases importantes do original,
+                                                                                                                                             automático)
+                 em sinais elétricos                                                          sem reescrita
+
+
+
+Reconhecimento de fala: converte comandos falados                    Abstrativa: interpreta o significado e reescreve com palavras       Permite mudar o tom,
+            em texto (transcrição)                                                               próprias                             condensar ideias e manter a
+                                                                                                                                     coesão, como um humano faria
+
+ Entendimento de Linguagem Natural: interpreta o
+          significado e extrai intenções
+
+
+
+Geração de Linguagem Natural: produz texto a partir
+              de dados estruturados
+
+
+
+Síntese de fala: produção artificial da fala via Text-To-
+                    Speech (TTS)
+                                                                                                                                               TECNOLOGIA DA INFORMAÇÃO
+
+                                                                           https://t.me/KakashiAssinaturasBot                                    ESTRATÉGIA CONCURSOS
+                                         PRÉ-PROCESSAMENTO E NORMALIZAÇÃO DE TEXTO
+
+
+                             Remoção de espaços, pontuação duplicada,
+                                    acentuação e stopwords
+
+
+
+Técnicas de limpeza de   Transformação maiúsculas/minúsculas (exceto para
+        dados                         extrair nomes e locais)
+                                                                                                                       Conjunto de técnicas que torna o texto bruto
+                                                                                                                           adequado à análise computacional
+                                                                                              Pré-processamento -
+                             Substituição de valores pelo tipo (Ex: R$50 →                   relevância ALTÍSSIMA
+                                       Dinheiro; 100Kg → Peso)                                      em prova
+                                                                                                                    Objetivo: reduzir ruídos e padronizar, mantendo só a
+                                                                                                                             informação relevante (abstração)
+
+
+                         Remove ruídos e leva o texto a um formato normal
+                                          e padronizado
+                                                                                                                     Quebra a sequência de caracteres localizando o
+                                                                                                                            limite de cada palavra (tokens)
+    Normalização                  Trata símbolos, numerais, pontuações,                            Tokenização
+                                  caracteres especiais, contrações e erros                       (segmentação de
+                                                                                                     palavras)
+                                                                                                                          Delimitadores comuns: espaços em branco e
+                                                                                                                                       quebras de linha
+                           Normaliza duas coisas: estrutura e vocabulário
+
+
+
+
+                           Remove palavras semanticamente irrelevantes
+ Stopwords Removal          (artigos, preposições, pronomes, conjunções)
+
+
+
+
+                                                                                                                                                    TECNOLOGIA DA INFORMAÇÃO
+
+                                                                   https://t.me/KakashiAssinaturasBot                                                 ESTRATÉGIA CONCURSOS
+                                          STEMMING, LEMATIZAÇÃO, POS TAGGING E NER
+
+
+                                                                                                                  Reduz a palavra ao lema: forma base, canônica ou
+                                                                                                                                    de dicionário
+
+                         Reduz a palavra a uma forma aproximada do
+                           radical por corte bruto de terminações                                 Lematização           Verbos ao infinitivo; substantivos/adjetivos ao
+                                                                                                (lemmatization)                      masculino singular
+
+                           Aplica regras heurísticas; não faz análise
+                                    morfológica sofisticada                                                            Também agrupa sinônimos (Ex: bom, melhor,
+                                                                                                                                   ótimo → bom)
+Stemming (stemização)
+                               Over-stemming: corta demais; palavras
+                               distintas caem no mesmo radical (Falso-
+                                               Positivo)
+                                                                                                                  Reconhece entidades: pessoas, datas, organizações,
+                            Under-stemming: corta de menos; flexões da                                                             localizações
+                            mesma palavra ficam com radicais diferentes
+
+                                                                                                                      Técnicas complementares: Resolução de
+                                                                                            NER (Named Entity       Correferência (vincula pronome à entidade) e
+                                                                                              Recognition)             Extração de Eventos/Relacionamentos
+POS Tagging (Part-Of-   Identifica e marca as classes gramaticais de cada
+      Speech)                            palavra no texto
+                                                                                                                  Atenção: Distinção clássica de prova: Stemming
+                                                                                                                    faz corte bruto no radical; Lematização usa
+                                                                                                                  contexto e chega à forma canônica do dicionário
+
+
+
+
+                                                                                                                                                  TECNOLOGIA DA INFORMAÇÃO
+
+                                                                https://t.me/KakashiAssinaturasBot                                                  ESTRATÉGIA CONCURSOS
+                                        SEMÂNTICA VETORIAL E HIPÓTESE DISTRIBUTIVA
+
+
+
+
+                                                                                                     Hipótese Distributiva:
+                                                                                                    palavras que aparecem
+ Matriz de Coocorrência       Similaridade por Cosseno             Representação de texto                 em contextos           Semântica Vetorial
+                                                                                                     semelhantes possuem
+                                                                                                   significados semelhantes
+
+
+
+
+Termo-Documento: linhas =
+                                Valor entre 0 e 1; quanto          Transforma linguagem              Contextos idênticos →      Representa palavras e
+     termos, colunas =
+                                 menor o ângulo entre               natural em estruturas             palavras podem ser      documentos como vetores
+    documentos; conta
+                              vetores, maior a similaridade      numéricas manipuláveis por         consideradas sinônimos      em espaço numérico
+        ocorrências
+                                                                         algoritmos
+
+
+
+                                                                                                                                Termos semanticamente
+  Termo-Termo (Palavra-            Índice de Jaccard:                                                                              semelhantes ficam
+Palavra): dimensionalidade      interseção dividida pela        Forma principal: vetorização                                      próximos no espaço
+|V|×|V|; conta coocorrência     união de dois conjuntos           (atribui valor numérico a                                             vetorial
+                                    (fuzzy matching)                    cada palavra)
+
+
+
+    Janela de contexto: 4
+  palavras à esquerda e 4 à
+   direita da palavra-alvo
+
+
+
+
+                                                                                                                                    TECNOLOGIA DA INFORMAÇÃO
+
+                                                              https://t.me/KakashiAssinaturasBot                                      ESTRATÉGIA CONCURSOS
+                                                  BAG OF WORDS, TF-IDF E N-GRAMAS
+
+
+                               Conta a frequência de cada palavra, ignorando a ordem e o              Vetoriza cada documento com vetor de
+                                                       contexto                                                  comprimento fixo
+ Bag of Words (BoW) - Saco
+        de Palavras
+                                                               Não captura relações sinonímicas entre palavras
+
+
+
+                                                                                                    TF: palavra frequente no documento tende a
+                                                                                                                 ser relevante para ele
+
+
+
+  TF-IDF (Term Frequency -     Pondera a importância do termo: frequência local × raridade         IDF: palavra presente em muitos documentos é
+Inverse Document Frequency)                           no corpus                                         pouco relevante (penaliza stopwords)
+
+
+
+                                                                                                      Fórmula: TF-IDF = TF × IDF; quanto mais
+                                                                                                           próximo de 1, maior o peso
+
+
+
+                               Sequências contíguas de N palavras; captura parcialmente
+                                                                                                      Bigrama (2), trigrama (3), tetragrama (4)
+                                                ordem e contexto local
+
+
+                              Propriedade de Markov: prevê a próxima palavra com base nas          N-Grama corresponde a modelo de Markov de
+         N-Gramas                                    N−1 anteriores                                               ordem N−1
+
+
+                                            Avaliação intrínseca usa perplexidade; underflow numérico evitado somando logaritmos
+
+
+
+
+                                                                                                                                              TECNOLOGIA DA INFORMAÇÃO
+
+                                                              https://t.me/KakashiAssinaturasBot                                                  ESTRATÉGIA CONCURSOS
+                                              EMBEDDINGS - WORD2VEC, GLOVE E BERT
+
+
+                      Redes neurais lineares (não profundas) que geram
+                                       vetores densos
+
+                                                                                                                      Combina matriz de coocorrência global com
+                              CBoW: prevê a palavra central a partir do                                                    aprendizado vetorial preditivo
+                                  contexto; treino mais rápido
+
+ Word2Vec (2013)                                                                           GloVe (2014) - Global            Também gera representações densas e
+                                                                                                 Vectors                                estáticas
+                               Skip-Gram: prevê o contexto a partir da
+                               palavra central; bom com poucos dados
+                                                                                                                   Modela relações vetoriais (Ex: rei − rainha = homem −
+                                                                                                                                         mulher)
+
+                        Gera embeddings estáticos: mesma palavra tem
+                                  sempre o mesmo vetor
+
+
+                                                                                                                     Avaliam todas as palavras em paralelo; captam
+                        Baseado em Transformers; gera embeddings                                                            dependências de longo alcance
+                                 dinâmicos e contextuais                                      Transformers -
+                                                                                              mecanismo de
+                                                                                             autoatenção (self-      Atenção: Word2Vec e GloVe são estáticos; não
+                              Bidirecional: considera contexto anterior e                        attention)          confundir com BERT (contextual). E o custo de
+                                         posterior da palavra                                                          atenção do Transformer cresce de forma
+                                                                                                                             quadrática com a sequência
+BERT (2018, Google)
+                               Pré-treino: modelagem de linguagem
+                             mascarada + predição de próxima sentença
+
+
+
+                      Eficaz com palavras polissêmicas; adaptado por fine-
+                                            tuning
+
+
+                                                                                                                                                   TECNOLOGIA DA INFORMAÇÃO
+
+                                                                https://t.me/KakashiAssinaturasBot                                                   ESTRATÉGIA CONCURSOS
+

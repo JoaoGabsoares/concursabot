@@ -1,0 +1,327 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 16_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: Espécies Tributárias
+artigos_citados:
+- Art 15.
+- Art. 182
+- Art. 32
+- art. 15
+- art. 32
+---
+
+# Espécies Tributárias
+
+---
+
+---
+
+   Prof. Fábio Dutra
+
+                       @proffabiodutra                Fábio Dutra     ProfFabioDutraConcursos
+
+Espécies Tributárias
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IMPOSTOS DOS MUNICÍPIOS
+IPTU
+
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+  IPTU
+  ❑ Fato Gerador: propriedade, o domínio útil ou a posse de bem imóvel por
+    natureza ou por acessão física, como definido na lei civil, localizado na zona
+    urbana do Município.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                              
+
+
+---
+
+  IPTU
+  ❑ Fato Gerador: propriedade, o domínio útil ou a posse de bem imóvel por
+    natureza ou por acessão física, como definido na lei civil, localizado na zona
+    urbana do Município.
+
+
+         ❑ Bem imóvel por natureza:
+
+         ❑ Bem imóvel por acessão física:
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+  IPTU
+         ❑ Zona Rural (ITR) x Zona Urbana (IPTU)
+
+  ❑ CTN (art. 32): critério topográfico ou localização.
+
+  ❑ DL 57/66 (art. 15): critério finalístico ou destinação econômica.
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                                 
+
+
+---
+
+  IPTU
+         ❑ Zona Rural (ITR) x Zona Urbana (IPTU)
+  Art. 32:
+  § 1º Para os efeitos deste imposto, entende-se como zona urbana a definida em lei
+  municipal; observado o requisito mínimo da existência de melhoramentos indicados
+  em pelo menos 2 (dois) dos incisos seguintes, construídos ou mantidos pelo Poder
+  Público:
+  I - meio-fio ou calçamento, com canalização de águas pluviais;
+  II - abastecimento de água;
+  III - sistema de esgotos sanitários;
+  IV - rede de iluminação pública, com ou sem posteamento para distribuição
+  domiciliar;
+  V - escola primária ou posto de saúde a uma distância máxima de 3 (três)
+  quilômetros do imóvel considerado. (CTN)
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+  IPTU
+         ❑ Zona Rural (ITR) x Zona Urbana (IPTU)
+
+  Art 15. O disposto no art. 32 da Lei nº 5.172, de 25 de outubro de 1966, não
+  abrange o imóvel de que, comprovadamente, seja utilizado em exploração
+  extrativa vegetal, agrícola, pecuária ou agro-industrial, incidindo assim, sôbre o
+  mesmo, o ITR e demais tributos com o mesmo cobrados. (DL 57/66)
+
+Direito Tributário
+Prof. Fábio Dutra                                                            @ProfFabioDutra
+                                 
+
+
+---
+
+  IPTU
+  ❑ Base de cálculo: valor venal do imóvel.
+
+         ❑ Obs.: Na determinação da base de cálculo, não se considera o valor dos bens
+                móveis mantidos, em caráter permanente ou temporário, no imóvel, para efeito
+                de sua utilização, exploração, aformoseamento ou comodidade.
+
+Direito Tributário
+Prof. Fábio Dutra                                                                    @ProfFabioDutra
+                                       
+
+
+---
+
+  IPTU
+  ❑ Majoração/Redução de Alíquotas → Aplica-se o princípio da legalidade.
+
+
+         ❑ Instituição/Majoração:
+         ❑ Aplica-se o princípio da anterioridade anual.
+         ❑ Aplica-se o princípio da anterioridade nonagesimal.
+            ❑ Exceção: Fixação da base de cálculo do IPTU.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                  
+
+
+---
+
+  IPTU
+  ❑ Contribuinte → Proprietário do imóvel, o titular de seu domínio útil, ou o seu
+    possuidor a qualquer título.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                               
+
+
+---
+
+  IPTU
+         ❑ Alíquotas do IPTU:
+
+
+  ❑ Alíquotas progressivas em razão do valor do imóvel (Progressividade fiscal);
+
+
+  ❑ Alíquotas progressivas em razão do tempo (Progressividade extrafiscal);
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+
+       Súmula STF 668 - É inconstitucional a lei municipal que tenha estabelecido,
+       antes da Emenda Constitucional 29/2000, alíquotas progressivas para o
+       IPTU, salvo se destinada a assegurar o cumprimento da função social da
+       propriedade urbana.
+
+Direito Tributário
+Prof. Fábio Dutra                                                             @ProfFabioDutra
+                                 
+
+
+---
+
+  IPTU
+         ❑ Progressividade Extrafiscal:
+
+  Art. 182: (...)
+  § 4º É facultado ao Poder Público municipal, mediante lei específica para área
+  incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo
+  urbano não edificado, subutilizado ou não utilizado, que promova seu adequado
+  aproveitamento, sob pena, sucessivamente, de:
+
+  I - parcelamento ou edificação compulsórios;
+
+  II - imposto sobre a propriedade predial e territorial urbana progressivo no tempo;
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                  
+
+
+---
+
+  IPTU
+         ❑ Progressividade Extrafiscal:
+
+  Art. 182: (...)
+  § 4º É facultado ao Poder Público municipal, mediante lei específica para área
+  incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo
+  urbano não edificado, subutilizado ou não utilizado, que promova seu adequado
+  aproveitamento, sob pena, sucessivamente, de:
+
+  III - desapropriação com pagamento mediante títulos da dívida pública de emissão
+  previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos,
+  em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os
+  juros legais.
+
+Direito Tributário
+Prof. Fábio Dutra                                                               @ProfFabioDutra
+                                  
+
+
+---
+
+  IPTU
+         ❑ Alíquotas do IPTU:
+
+  ❑ Alíquotas distintas de acordo com a localização e o uso do imóvel.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+         ❑ Base de Cálculo do IPTU:
+
+  ❑ O IPTU poderá ter sua base de cálculo atualizada pelo Poder Executivo,
+    conforme critérios estabelecidos em lei municipal (CF/88, incluída pela EC
+    132/2023).
+
+Direito Tributário
+Prof. Fábio Dutra                                                       @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+
+       Súmula STJ 160 – É defeso, ao Município, atualizar o IPTU, mediante
+       decreto, em percentual superior ao índice oficial de correção monetária.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+
+       Súmula STF 589 - É inconstitucional a fixação de adicional progressivo do
+       imposto predial e territorial urbano em função do número de imóveis do
+       contribuinte.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+
+       Súmula STF 539 - É constitucional a lei do município que reduz o imposto
+       predial urbano sobre imóvel ocupado pela residência do proprietário, que
+       não possua outro.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+  IPTU
+
+       Súmula STJ 397 - O contribuinte do IPTU é notificado do lançamento pelo
+       envio do carnê ao seu endereço.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                
+
+
+---
+
+---
+
+OBRIGADO
+                                         Prof. Fábio Dutra
+
+    
+
+
+---
+
+---

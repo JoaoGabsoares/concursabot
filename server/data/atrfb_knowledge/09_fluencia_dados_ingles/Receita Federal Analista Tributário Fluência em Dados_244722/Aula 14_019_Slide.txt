@@ -1,0 +1,833 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+TECNOLOGIA DA INFORMAÇÃO
+
+                               Profa. Emannuelle Gouveia
+                               @Emannuellegouveia
+
+
+       https://t.me/KakashiAssinaturasBot
+EXERCÍCIOS BIG DATA
+
+
+
+                         Prof. Emannuelle Gouveia
+                         @Emannuelle Gouveia
+
+
+      https://t.me/KakashiAssinaturasBot
+ 1. (CESPE / SEPLAN-RR - 2023) Variedade, em big data, refere-se à
+ quantidade de fontes que geram os dados com potencial de serem
+ altamente desestruturados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 2. (CESPE / SEPLAN-RR - 2023) Big data somente se aplica a dados não
+ estruturados.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 3. (CESPE / TCE-SC - 2022) Big data necessitam de algoritmos de computação
+ mais robustos em comparação aos algoritmos tradicionais de banco de
+ dados, que não são capazes de lidar com os volumes de dados
+ representados em big data.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 4. (CESPE / SECONT-ES - 2022) Kappa, uma arquitetura de software usada
+ para processar dados, fornece acesso a métodos de processamento em lote
+ e processamento de fluxo com uma abordagem em quatro camadas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 5. (CESPE / SEFAZ-SE – 2022) Com relação a noções de big data, julgue os
+ itens que se seguem.
+ I Como qualquer tecnologia, soluções de big data também apresentam
+ algumas restrições. Por exemplo, elas não podem ser utilizadas na área da
+ saúde para determinar a causa de uma doença, porque esse é um
+ procedimento complexo que somente pode ser executado por pessoas
+ devidamente capacitadas — nesse caso, os médicos.
+
+ II Big data é qualquer tipo de fonte de dados que possui, no mínimo, as
+ seguintes três características: volume de dados extremamente grande;
+ velocidade de dados extremamente alta; e variedade de dados
+ extremamente ampla.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+   III Para que as organizações obtenham os conhecimentos corretos, a
+   tecnologia big data não permite que elas executem as operações de
+   armazenar e administrar as grandes quantidades de dados de si próprias.
+
+   IV Big data é uma combinação de tecnologias de gestão de dados que
+   evoluíram ao longo dos anos, razão por que não é considerado um mercado
+   único. Estão certos apenas os itens:
+
+   a) I e III
+   b) I e IV
+   c) II e IV
+   d) II e V
+   e) III e V
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 6. (CESPE / TCE-RJ - 2021) Os fatores críticos de sucesso da análise de Big
+ Data incluem uma sólida infraestrutura de dados, além de ferramentas
+ analíticas e pessoal habilitado para lidar com elas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+  7. (CESPE / ISS-Aracaju – 2021) Big data ajudou a sedimentar o cargo de
+  cientista de dados. Entre as funções desse cargo inclui-se:
+
+  a) a modelagem estruturada.
+  b) a análise retrospectiva.
+  c) a modelagem não estruturada.
+  d) a modelagem relacional.
+  e) o processamento comparativo.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 8.(CESPE / SERPRO – 2021) No que se refere aos três Vs do Big Data, o termo
+ volume refere-se a dados que, atualmente, não são estruturados nem
+ armazenados em tabelas relacionais, o que torna sua análise mais complexa.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 9.(CESPE / SERPRO – 2021) Big data caracteriza-se, principalmente, por
+ volume, variedade e velocidade, o que se justifica devido ao fato de os
+ dados serem provenientes de sistemas estruturados, que são maioria, e de
+ sistemas não estruturados, os quais, embora ainda sejam minoria, vêm, ao
+ longo dos anos, crescendo consideravelmente.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+   10.(CESPE / SERPRO – 2021) Uma das principais características de big data é
+   que seu custo de armazenamento de dados é relativamente baixo se
+   comparado a um data warehouse.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 11.(CESPE / TCE-RJ – 2021) Em Big Data, a premissa volume refere-se à
+ capacidade de processar, em um ambiente computacional, diferentes tipos
+ e formatos de dados, como fotos, vídeos e geolocalização.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 12.(CESPE / TCE-RJ – 2021) Volume, variedade e visualização são as três
+ características, conhecidas como 3 Vs, utilizadas para definir Big Data.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 13.(CESPE / Polícia Federal – 2021) As aplicações de bigdata caracterizam-se
+ exclusivamente pelo grande volume de dados armazenados em tabelas
+ relacionais.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 14.(CESPE / PRF – 2021) A Internet das Coisas (IoT) aumenta a quantidade e
+ a complexidade dos dados por meio das novas formas e novas fontes de
+ informações, influenciando diretamente em uma ou mais das características
+ do Big Data, a exemplo de volume, velocidade e variedade.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+    15.(CESPE / AL-AP – 2020) Atualmente, diversos dados são coletados pelos
+    sistemas digitais de empresas na internet para constituir Big Data com
+    conteúdo sobre os resultados alcançados por seus produtos e serviços,
+    prestígio da imagem da organização e seus representantes. Porém, parte
+    desses dados pode ser falsa ou manipulada por internautas. O tratamento
+    dos dados, a fim de qualificá-los antes de disponibilizá-los para a tomada de
+    decisão na empresa, segundo o conceito das cinco dimensões “V” de
+    avaliação de um Big Data, se refere:
+    a) ao valor.
+    b) à variedade.
+    c) à veracidade.
+    d) à velocidade.
+    e) ao volume.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+16.(CESPE / TCE-RO – 2019) Com relação a fundamentos e conceitos de Big Data,
+julgue os itens a seguir.
+I. O volume de dados é uma característica importante de Big Data.
+II. Em Big Data, a qualidade do dado não tem importância, porque a transformação
+dos dados não impacta os negócios.
+III. A característica de velocidade de entrada dos dados impacta o modelo de
+processamento e armazenamento.
+IV. A variedade dos dados não é característica intrínseca nos fundamentos de Big
+Data.
+Estão certos apenas os itens:
+a) I e II.
+b) I e III.
+c) II e IV.
+d) I, III e IV.
+e)   II, III e IV.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+        17.(FCC / SEFAZ-SC – 2018) No âmbito da ciência de dados na definição de
+        Big Data, utilizam-se características ou atributos que alguns pesquisadores
+        adotam como sendo os cinco Vs. Porém, a base necessária para o
+        reconhecimento de Big Data é formada por três propriedades:
+
+        a) valor, velocidade e volume.
+        b) valor, veracidade e volume.
+        c) variedade, velocidade e volume.
+        d) variedade, valor e volume.
+        e) velocidade, veracidade e volume.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+     18.(FCC / SEFAZ-SC – 2018) As soluções em Big Data Analytics, usadas, por
+     exemplo, pela Fazenda Pública principalmente para evitar sonegações de
+     tributos, trabalham com algoritmos complexos, agregando dados de origens
+     diversas, relacionando-os e gerando conclusões fundamentais para a
+     tomada de decisões.
+     Na execução dessas análises pelos auditores, considere:
+     I. Dados estruturados.
+     II. Dados semiestruturados.
+     III. Dados não estruturados.
+     IV. Dados brutos, não processados.
+     V. Esquemas de dados gerados no momento da gravação
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+  Sobre um repositório de armazenamento, que contenha uma grande
+  quantidade de dados a ser examinada, deverão ser utilizados APENAS os que
+  constam de:
+
+  a) I, III e IV.
+  b) I, II, III e V.
+  c) III, IV e V.
+  d) I, II, III e IV.
+  e) I, II, IV e V.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 19.(FCC / TCE-RS – 2018) Um sistema de Big Data costuma ser caracterizado
+ pelos chamados 3 Vs, ou seja, volume, variedade e velocidade. Por
+ variedade entende-se que:
+
+ a) há um grande número de tipos de dados suportados pelo sistema.
+ b) há um grande número de usuários distintos acessando o sistema.
+ c) os tempos de acesso ao sistema apresentam grande variação.
+ d) há um grande número de tipos de máquinas acessando o sistema.
+ e) os tamanhos das tabelas que compõem o sistema são muito variáveis.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+   20.(FCC / Câmara Legislativa do Distrito Federal – 2018) A proposta de uma
+   solução de Big Data, oferecendo uma abordagem consistente no tratamento
+   do constante crescimento e da complexidade dos dados, deve considerar os
+   5 V’s do Big Data que envolvem APENAS os conceitos de:
+   a) volume, versionamento, variedade, velocidade e visibilidade.
+   b) velocidade, visibilidade, volume, veracidade e vencimento do dado
+   c) volume, velocidade, variedade, veracidade e valor
+   d) variedade, vencimento do dado, veracidade, valor e volume
+   e) vulnerabilidade, velocidade, visibilidade, valor e veracidade
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+      21.(FGV / TJ-RN - 2023) Os bancos de dados massivos possuem
+      características que precisam ser consideradas no desenvolvimento de
+      soluções para analisar os dados armazenados. Nesse tipo de ambiente de
+      bancos de dados, a capacidade de minimizar os ruídos dos dados oriundos
+      de múltiplas fontes heterogêneas, identificar o que é irrelevante e
+      redundante, e apoiar a limpeza dos dados, contribuindo para sua qualidade,
+      corresponde à característica Big Data:
+      a) valor;
+      b) volume;
+      c) variedade;
+      d) veracidade;
+      e) velocidade.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+ 22).(FGV / TJ-SC – 2015) Os termos Business Intelligence (BI) e Big Data
+ confundem-se em certos aspectos. Uma conhecida abordagem para
+ identificação dos pontos críticos de cada paradigma é conhecida como 3V, e
+ destaca:
+
+ a) variedade, visualização, volume;
+ b) velocidade, virtualização, volume;
+ c) variedade, velocidade, volume;
+ d) virtualização, visualização, volume;
+ e) variedade, visualização, virtualização.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+   23.(CP-T / Marinha - 2022) De acordo com Elmasri (2018), em projetos de
+   bancos de dados distribuídos, é possível dividir os dados em unidades
+   lógicas de acordo com as técnicas de:
+   a) disjunção inclusiva ou shardíng, na qual as tuplas são separadas de acordo
+   com suas semelhanças de chave primária; disjunção exclusiva, na qual a
+   condição de separação se dá por meio das colunas da relação; disjunção
+   condicional, na qual as tuplas são separadas por meio de uma condição
+   definida de acordo com um ou mais atributos da relação; e disjunção mista,
+   que integra os demais tipos de disjunção.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+    b) disjunção exclusiva, na qual as tuplas são separadas de acordo com suas
+    semelhanças de chave primária; disjunção inclusiva ou shardíng, onde a
+    condição de separação se dá por meio das colunas da relação; disjunção
+    condicional, na qual as tuplas são separadas por meio de uma condição
+    definida de acordo com um ou mais atributos da relação; e disjunção mista,
+    que integra os demais tipos de disjunção.
+    c) fragmentação inclusiva ou shardíng, na qual as tuplas são separadas de
+    acordo com suas semelhanças de chave primária; fragmentação exclusiva,
+    na qual a condição de separação se dá por meio das colunas da relação;
+    fragmentação condicional, na qual as tuplas são separadas por meio de uma
+    condição definida de acordo com um ou mais atributos da relação; e
+    fragmentação mista, que integra os demais tipos de fragmentação.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+   d) fragmentação vertical ou shardíng, na qual uma relação é um subconjunto
+   das tuplas nessa relação; fragmentação horizontal, na qual o fragmento é
+   gerado a partir das colunas da relação; fragmentação híbrida, que integra os
+   outros dois tipos; alocação geral, que compreende a cópia de todos os
+   dados; alocação não redundante, que significa não ter replicação e
+   replicação parcial de dados, na qual apenas alguns fragmentos são
+   replicados.
+   e) fragmentação horizontal ou shardíng, na qual o fragmento de uma
+   relação é um subconjunto das tuplas nessa relação; fragmentação vertical,
+   na qual o fragmento é gerado a partir das colunas da relação; e
+   fragmentação híbrida, que mistura os outros dois tipos.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+   24.(SELECON / EMGEPRON – 2021) Trata-se de uma infinidade de
+   informações não estruturadas que, quando usadas com inteligência, se
+   tornam uma arma poderosa para empresas tomarem decisões cada vez
+   melhores. As soluções tecnológicas que trabalham com esse conceito
+   permitem analisar um enorme volume de dados de forma rápida e ainda
+   oferecem total controle ao gestor das informações. E as fontes de dados são
+   as mais diversas possíveis: de textos e fotos em rede sociais, passando por
+   imagens e vídeos, até jogadas específicas no esporte e até tratamentos na
+   medicina. (http://olhardigital. uol. com.br/pro/video/39376/39376).
+
+   O conceito definido no texto é:
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+ a) Governança de TI.
+ b) QoS.
+ c) Big Data.
+ d) Data Center.
+ e) ITIL.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 25.(COMPERVE / TJ/RN – 2020) Embora Big Data tenha diferentes
+ definições, há um consenso sobre o modelo dos 3 V’s que correspondem a 3
+ características. Duas dessas características são:
+ a) Volume e Velocity.
+ b) Variety e Value.
+ c) Viable e Vast.
+ d) Valid e Verbose.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+   26. (FGV / SEFAZ-MT - 2023) No contexto do Hadoop MapReduce
+   Framework, assinale o ciclo típico de tipos de entradas e saídas (input and
+   output) em uma tarefa.
+   a) (input) -> filter -> -> sort -> -> mapreduce -> < k3, v3> (output)
+   b) (input) -> map -> -> reduce -> (output)
+   c) (input) -> map -> -> combine -> -> reduce -> (output)
+   d) (input) -> map -> -> filter -> < k3, v3> -> reduce -> (output)
+   e) (input) -> sort -> -> map -> -> reduce -> (output).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+    27. (CONSULPLAN / SEGER-ES - 2023) Dados massivos são grandes grupos de
+    dados que podem ser capturados, comunicados, agregados, armazenados e
+    analisados. Uma das plataformas de processamento de dados massivos mais
+    conhecidas é o Apache Hadoop. Sobre tal plataforma, assinale a afirmativa
+    correta.
+    a) Trata-se da implementação mais popular, de código aberto, do
+    MapReduce.
+    b) É a solução mais adequada para o processamento de arquivos pequenos.
+    c) Refere-se uma plataforma verticalmente escalável e não tolerante a
+    falhas, mas muito utilizada para processamento massivo de dados.
+    d) Sua maior desvantagem é o fato de não possibilitar a utilização de
+    máquinas e rede convencionais para realizar o processamento da sua massa
+    de dados.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ e) Somente permite a execução de aplicações desde que seja implantado
+ seu próprio aglomerado de máquinas, ou seja, não permite a utilização de
+ serviços em nuvem.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+       28. (FGV / SEFAZ-MG - 2023) O principal objetivo do Hadoop YARN foi dividir
+       as     funcionalidades      de     gerenciamento       de     recursos     e
+       agendamento/monitoramento de tarefas em daemons separados. Assinale a
+       opção que não figura como uma característica da arquitetura de Hadoop
+       YARN.
+       a) O ResourceManager é a autoridade máxima que arbitra os recursos entre
+       todas as aplicações do sistema e possui dois componentes principais:
+       Scheduler e ApplicationsManager.
+       b) O Scheduler é responsável por alocar recursos para as aplicações em
+       execução e são sujeitos a restrições de capacidade de recursos, filas etc.
+       c) O Scheduler é um scheduler puro no sentido de que não realiza nenhuma
+       ação de monitoramento ou tracking de status para o aplicativo.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+ d) O NodeManager é o agente deployado em cada máquina e não é
+ responsável pelo monitoramento de recursos (cpu, memória, disco, rede).
+ e) O ApplicationManager é responsável por aceitar envios de jobs, negociar
+ o primeiro contêiner para executar a instância ApplicationMaster para a
+ aplicação e fornecer o serviço para reiniciar o contêiner ApplicationMaster
+ em caso de falha.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 29. (CESPE / SECONT-ES – 2022) No ecossistema Apache Hadoop, as tabelas
+ HBase são distribuídas no cluster por meio de regiões, as quais são
+ automaticamente divididas e redistribuídas à medida que seus dados
+ crescem.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 30. (CESPE / MC - 2022) MapReduce é um modelo de programação
+ desenhado para processar grandes volumes de dados em paralelo, dividindo
+ o trabalho em um conjunto de tarefas independentes.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 31. (CESPE / SECONT-ES - 2022) A implementação do MapReduce é
+ responsável por quebrar os dados em pedaços, criar várias instâncias das
+ funções map e reduzi-las, alocá-las e ativá-las em máquinas disponíveis na
+ infraestrutura física, além de monitorar os cálculos para eventuais falhas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+        32. (FGV / SEFAZ-AM - 2022) Com relação às características dos
+        componentes do ecossistema Hadoop, analise as afirmativas a seguir.
+        I. Kafka é um gerenciador de armazenamento de dados do tipo colunar de
+        código aberto de fácil integração com MapReduce e Spark, que utiliza o
+        modelo de consistência forte, permite que o desenvolvedor escolha
+        requisitos de consistência por solicitação, incluindo a opção de consistência
+        estritamente serializável.
+        II. Impala, que tem forte integração com o Kudu, permite que o
+        desenvolvedor de aplicações o utilize para inserir, consultar, atualizar e
+        excluir dados no Kudu usando a sintaxe SQL do Impala. Adicionalmente,
+        permite usar JDBC ou ODBC para conectar aplicativos novos ou pré-
+        existentes escritos em qualquer linguagem, estrutura ou ferramenta de
+        inteligência de negócios.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia               https://t.me/KakashiAssinaturasBot
+  III. Kudu permite integrar seu próprio catálogo com o Hive Metastore (HMS).
+  O HMS é o provedor de metadados e catálogo padrão no ecossistema
+  Hadoop. Quando a integração está habilitada, as tabelas Kudu podem ser
+  descobertas e usadas por ferramentas externas com reconhecimento de
+  HMS, mesmo que elas não estejam integradas ao Kudu.
+  Está correto o que se afirma em
+
+  a) I, apenas.
+  b) II, apenas.
+  c) III, apenas.
+  d) I e II, apenas.
+  e) II e III, apenas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 33. (CESPE / SERPRO – 2021) O Hadoop consiste em um único produto, ou
+ seja, um software monolítico, que possibilita análise de logs e outros dados
+ da Web.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+ 34. (CESPE / SERPRO – 2021) Apesar de ser uma tecnologia de código aberto
+ disponibilizada pela ASF (Apache Software Foundation), o Hadoop também é
+ oferecido por distribuidores comerciais, de maneira que fornecedores
+ oferecem distribuições específicas que incluem não só ferramentas
+ administrativas adicionais, mas também suporte técnico.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 35.(CESPE / SEFAZ-CE - 2021) Hive e Sqoop são subprojetos do Hadoop
+ destinados a queries e data warehousing, respectivamente.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 36.(CESPE / SERPRO - 2021) O subprojeto Sqoop atua na camada funcional
+ de data warehouse e queries do Hadoop.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 37.(CESPE / SEFAZ-CE - 2021) O Apache Kafka provê serviço de mensageria e
+ integração de dados, de forma assíncrona, em que produtores e
+ consumidores ficam desacoplados e agnósticos entre si.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+ 38.(CESPE / SERPRO – 2021) MapReduce divide o conjunto de dados de
+ entrada em blocos independentes que são processados pelas tarefas de
+ mapa de uma maneira completamente paralela. Essa estrutura classifica as
+ saídas dos mapas, as quais são, então, inseridas nas tarefas de redução.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 39.(CESPE / SERPRO - 2021) A respeito do software Kafka, julgue o item a
+ seguir. Conexões entre producers e consumers suportam mecanismos de
+ autenticação capazes de criptografar com SSL.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 40.(CESPE / SERPRO - 2021) Um projeto relacionado ao Hadoop e mantido
+ pela Apache é o Hive, que é uma camada de Data Warehouse que roda em
+ cima do Hadoop e que utiliza uma linguagem similar à SQL, denominada
+ Hive SQL.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 41.(CESPE / SERPRO - 2021) A compactação, recurso para otimizar espaço de
+ armazenamento, é um processo pelo qual o HBase se utiliza das
+ probabilidades da ocorrência de símbolos e de palavras em um conjunto de
+ dados, para determinar quantos bits serão utilizados para cada símbolo.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+    42. (FGV / Receita Federal - 2023) Assinale a opção que melhor descreve a
+    diferença entre os frameworks Apache Spark e Apache Hadoop, no contexto
+    do processamento de Big Data.
+    a) O processamento de dados no Spark é mais rápido do que no Hadoop,
+    pois ele é baseado em memória e utiliza RDDs, enquanto o Hadoop é
+    baseado em disco e utiliza MapReduce.
+    b) O processamento de dados no Hadoop é mais rápido do que no Spark,
+    pois o Hadoop é mais escalável e utiliza clusters maiores, enquanto o Spark
+    é limitado pelo tamanho do cluster.
+    c) O Spark é mais adequado para cargas de trabalho mais pesadas, enquanto
+    o Hadoop é melhor para cargas de trabalho mais leves e interativas.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+ d) O Spark e o Hadoop utilizam as mesmas técnicas de processamento de
+ dados, mas o Spark é mais adequado para casos de uso em que a latência é
+ um fator crítico, enquanto o Hadoop é mais adequado para casos de uso em
+ que a capacidade de processamento em lote é mais importante.
+ e) O Hadoop é uma tecnologia mais recente que oferece melhorias, em
+ relação ao Spark, em termos de desempenho e velocidade de
+ processamento.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+   43. (FGV / SEFAZ-MG - 2023) Matei Zaharia et al. propuseram o framework
+   Spark como alternativa para processar workloads que reutilizam dados
+   através de múltiplas operações paralelas. As opções a seguir apresentam
+   características do framework Spark, à exceção de uma. Assinale-a.
+   a) Spark oferece suporte a dois tipos restritos de variáveis compartilhadas:
+   broadcast e accumulators.
+   b) Spark prove três principais abstrações para a programação paralela:
+   RDDs, operações paralelas, e operações de comunicação.
+   c) Os RDDs suportam tolerância a falhas por meio do conceito de linhagem
+   (lineage).
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia            https://t.me/KakashiAssinaturasBot
+ d) Os usuários podem explicitamente armazenar RDDs em cache na
+ memória entre um conjunto de máquinas e reutilizá-lo em várias operações
+ paralelas.
+ e) RDDs (Resilient Distributed Datasets) ou conjunto de dados distribuído
+ resiliente é uma coleção de objetos de só leitura particionados em um
+ conjunto de máquinas e pode ser reconstruído caso alguma partição for
+ perdida.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+  44. (FUNDATEC / AGERGS - 2022) A programação em Spark se baseia no
+  conceito de RDD’s. Os RDD’s são a unidade fundamental de dados no Spark
+  e têm como principal característica a propriedade de ser imutável. Sobre os
+  RDD’s, é correto afirmar que:
+  a) Os RDD’s não podem ser particionados ou divididos no cluster.
+  b) As operações em RDD são divididas em 5 tipos, transformação, ação,
+  segmentação, logarítmica e semântica.
+  c) As operações logarítmicas do RDD, são responsáveis pelas ações de
+  classificação dos modelos desenvolvidos em SPARK.
+  d) RDD’s são algoritmos desenvolvidos em JAVA para o cálculo de espaço em
+  disco para armazenamento das informações distribuídas em SPARK.
+  e) Os RDD’s podem armazenar qualquer tipo de elemento, como tipos
+  primitivos (inteiros, caracteres, booleanos, etc.), sequências (strings, listas,
+  arrays, tuples, etc.), assim como tipos mistos e objetos Scala ou Java.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+       45. (FGV / SEFAZ-MG - 2023) O Apache Spark é um framework para
+       processamento paralelo e oferece suporte ao processamento na memória
+       para aumentar o desempenho de aplicações de big data. Em relação aos
+       RDDs e a suas operações, assinale a afirmativa incorreta:
+       a) Os RDDs suportam dois tipos de operações: transformações, que criam
+       um novo conjunto de dados a partir de um existente, e ações, que retornam
+       um valor ao Driver Program após executar uma computação no conjunto de
+       dados.
+       b) Map é uma transformação que passa cada elemento do conjunto de
+       dados por uma função e retorna um novo RDD representando os resultados.
+       c) Reduce é uma ação que agrega todos os elementos do RDD usando
+       alguma função e retorna o resultado final ao Driver Program.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia             https://t.me/KakashiAssinaturasBot
+ d) Todas as transformações no Spark são lazy, pois não calculam seus
+ resultados imediatamente. Em vez disso, eles apenas lembram as
+ transformações aplicadas a algum conjunto de dados.
+ e) As transformações só são computadas quando uma ação ou
+ determinadas transformações exigem que um resultado seja retornado
+ Driver Program.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 46. (FUNDATEC / AGERGS - 2022) Sobre Apache Spark, analise as assertivas
+ abaixo e assinale a alternativa correta.
+ I. Similar a linguagem SQL, Spark SQL funciona de maneira similar ao Hive,
+ que converte códigos SQL para Map Reduce Java.
+ II. Spark Streaming é uma extensão do Spark, voltada para processamento
+ de dados em tempo real, apresentando diversas propriedades interessantes,
+ entre elas, podemos destacar a escalabilidade e a tolerância a falhas,
+ processamento único e a possível integração entre processos batch e em
+ tempo real.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+   III. O MLLib consiste em uma biblioteca de códigos de machine learning
+   prontos e disponíveis para uso, funcionando de forma muito parecida aos
+   pacotes do R ou ao numpy e ao scikit-learn do python.
+   IV. O GraphX, foi desenvolvido com o intuito de substituir os sistemas
+   especializados de grafos que foram feitos para Hadoop, permitindo a análise
+   e processamento de grafos em paralelo.
+
+   a) Todas estão corretas.
+   b) Todas estão incorretas.
+   c) Apenas I está correta.
+   d) Apenas I e II estão corretas.
+   e) Apenas III e IV estão corretas.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia              https://t.me/KakashiAssinaturasBot
+ 47. (CESPE / SEFAZ-AL – 2021) FORTRAN foi utilizado como a linguagem de
+ programação no desenvolvimento do Spark Apache.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+ 48. (IADES / ADASA - 2022) Uma das soluções de Big Data mais presentes no
+ mercado é o Apache Spark. Quanto a essa framework, assinale a alternativa
+ correta:
+ a) É de código fechado.
+ b) Suporta apenas SQL, mas não dá suporte ao HQL.
+ c) É amplamente utilizada como uma biblioteca para a disponibilização de
+ APIs em razão do seu baixo custo operacional do ponto de vista financeiro.
+ d) Não suporta processamento em tempo real.
+ e) Não possui um sistema gerenciador de arquivos próprio, dependendo de
+ outras plataformas para isso, como o Hadoop.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia          https://t.me/KakashiAssinaturasBot
+      49. (AOCP / MJSP - 2020) Assim como o Hadoop foi desenvolvido para
+      possibilitar o processamento em lote de grande volume de dados, também
+      surgiram tecnologias com suporte ao processamento em tempo real de Big
+      Data, como o:
+      a) Hadoop RTime.
+      b) Kubernetes.
+      c) Elasticsearch.
+      d) Spark.
+      e) RealStorm.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia           https://t.me/KakashiAssinaturasBot
+OBRIGADA
+                            Prof. Emannuelle Gouveia
+                            @emannuellegouveia
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

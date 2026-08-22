@@ -1,0 +1,56 @@
+                                               RESUMO
+                                           RESERVAS DE LUCROS
+Extraídas do lucro líquido do exercício. Possuem o objetivo de preservar o patrimônio líquido.
+→Reserva Legal (antes de qualquer destinação)
+(i) 5% do Lucro Líquido do Exercício;
+(ii) Limitada a 20% do capital social;
+(iii) A entidade poderá deixar de destinar recursos à reserva legal se o somatório desta reserva com as
+reservas de capital exceder o montante de 30% do capital social (limite facultativo);
+(iv) A reserva legal é a única reserva de lucro que possui constituição obrigatória para a empresa;
+(v) somente poderá ser utilizada para compensar prejuízos ou aumentar o capital social.
+→ Reserva Estatutária;                              → Reserva de Retenção de Lucros;
+→ Reserva para Contingências;                       → Reserva de Lucros a Realizar;
+→ Reserva de Incentivos Fiscais;                    → Reserva Específica de Prêmio de Debêntures.
+→ Reserva Especial de Dividendo Obrigatório Não Distribuído.
+                                                 DIVIDENDOS
+→ Dividendos obrigatórios: são contabilizados no Passivo, na data do fechamento das demonstrações
+financeiras.
+→ Dividendos adicionais:
+(i) Declarados após o período contábil: não são contabilizados, devendo ser divulgados em Nota
+Explicativa.
+(ii) Declarados antes do período contábil: são contabilizados no Patrimônio Líquido, até a aprovação pela
+assembleia, momento em que são transferidos para o Passivo.
+Lucro Líquido Ajustado (LLA) = Lucro Líquido do Exercício – Reserva Legal – Reserva para
+Contingências + Reversão de Reserva para Contingências – Reserva de Incentivos Fiscais
+(facultativo) – Reserva Específica de Prêmio na Emissão de Debêntures (facultativo).
+Regra: Distribuição de Dividendos Obrigatórios
+Percentual é definido em Estatuto.
+Estatuto Omisso = percentual deve ser 50%.
+Exceções:
+a) O dividendo obrigatório pode deixar de ser distribuído ou pode ser distribuído por valor inferior ao
+determinado no estatuto social da entidade, quando não houver lucro realizado em montante suficiente (art.
+202, II).
+
+
+
+
+                                   https://t.me/KakashiAssinaturasBot
+b) Quando o dividendo obrigatório, devido por força do estatuto social ou da própria lei, excede o montante
+do lucro líquido do exercício realizado financeiramente, pode a parcela não distribuída ser destinada à
+constituição da reserva de lucros a realizar.
+c) A lei societária ainda prevê que o dividendo obrigatório pode deixar de ser distribuído quando os órgãos
+da administração informarem à Assembleia Geral Ordinária ser ele incompatível com a situação financeira
+da companhia (art. 202, § 4º).
+d) O dividendo obrigatório pode também deixar de ser distribuído, ou pode ser distribuído por um valor
+inferior ao determinado no estatuto social da entidade ou na lei, por decisão soberana e unânime da
+Assembleia Geral de Acionistas (art. 202, § 3º).
+Além do dividendo obrigatório, existe a possibilidade de o estatuto de uma sociedade por ações prever o
+pagamento de dividendo intermediário (antecipados).
+O dividendo deverá ser pago, salvo deliberação em contrário da assembléia-geral, no prazo de 60 (sessenta)
+dias da data em que for declarado e, em qualquer caso, dentro do exercício social.
+
+
+
+
+                                  https://t.me/KakashiAssinaturasBot
+

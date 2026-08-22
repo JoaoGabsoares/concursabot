@@ -1,0 +1,314 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 11_012_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- art. 1º
+- art. 2º
+- art. 71
+---
+
+# DIREITO CONSTITUCIONAL
+
+---
+
+---
+
+DIREITO CONSTITUCIONAL
+
+                                          Prof. João Trindade
+                                          @jtrindadeprof
+
+     
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                           PODER LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                                            CONTROLE EXTERNO
+
+  A competência técnica do Tribunal de Contas do Estado, ao negar registro de admissão de pessoal, não se
+  subordina à revisão pelo Poder Legislativo respectivo. (TEMA 47/RG)
+
+
+  O parecer técnico elaborado pelo Tribunal de Contas tem natureza meramente opinativa, competindo
+  exclusivamente à Câmara de Vereadores o julgamento das contas anuais do Chefe do Poder Executivo
+  local, sendo incabível o julgamento ficto das contas por decurso de prazo. (TEMA 157/RG)
+
+
+  Em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão
+  sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria,
+  reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas. (TEMA 445/RG)
+
+
+  1. O Município prejudicado é o legitimado para a execução de crédito decorrente de multa aplicada por
+  Tribunal de Contas estadual a agente público municipal, em razão de danos causados ao erário municipal.
+  2. Compete ao Estado-membro a execução de crédito decorrente de multas simples, aplicadas por
+  Tribunais de Contas estaduais a agentes públicos municipais, em razão da inobservância das normas de
+  Direito Financeiro ou, ainda, do descumprimento dos deveres de colaboração impostos, pela legislação,
+  aos agentes públicos fiscalizados. (TEMA 642/RG)
+Prof. João Trindade
+
+                                       
+
+
+---
+
+                                            CONTROLE EXTERNO
+
+    É inconstitucional a nomeação, pelo Chefe do Executivo, de membro do Ministério Público especial para
+    preenchimento de cargo vago de Conselheiro de Tribunal de Contas local quando se tratar de vaga
+    reservada à escolha da Assembleia Legislativa, devendo-se observar a regra constitucional de divisão
+    proporcional das indicações entre os Poderes Legislativo e Executivo. (TEMA 652/RG)
+
+
+    Somente o ente público beneficiário possui legitimidade ativa para a propositura de ação executiva
+    decorrente de condenação patrimonial imposta por Tribunais de Contas (CF, art. 71, § 3º). (TEMA 768)
+
+
+    É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas. (TEMA
+    899/RG)
+
+
+    O Ministério Público de Contas não tem legitimidade para impetrar mandado de segurança em face de
+    acórdão do Tribunal de Contas perante o qual atua. (TEMA 1044/RG)
+
+
+    O Conselho Federal e os Conselhos Seccionais da Ordem dos Advogados do Brasil não estão obrigados a
+    prestar contas ao Tribunal de Contas da União nem a qualquer outra entidade externa. (TEMA 1054/RG)
+Prof. João Trindade
+
+                                       
+
+
+---
+
+                                              CONTROLE EXTERNO
+
+       No âmbito da tomada de contas especial, é possível a condenação administrativa de Chefes dos Poderes
+       Executivos municipais, estaduais e distrital pelos Tribunais de Contas, quando identificada a
+       responsabilidade pessoal em face de irregularidades no cumprimento de convênios interfederativos de
+       repasse de verbas, sem necessidade de posterior julgamento ou aprovação do ato pelo respectivo Poder
+       Legislativo. (TEMA 1287/RG)
+       = ADPF 982: “Prefeitos que ordenam despesas têm o dever de prestar contas de gestão, seja por atuarem
+       como responsáveis por dinheiros, bens e valores públicos da administração, seja na eventualidade de causa
+       a perda, extravio ou outra irregularidade que resulte em prejuízo ao erário. 3. Os Tribunais de Contas têm
+       competência para julgar contas de gestão de Prefeitos que ordenem despesas, exclusivamente para
+       imputação de débito e aplicação de sanções fora da esfera eleitoral. Congruência com a tese fixada no
+       Tema de Repercussão Geral nº 1.287 (ARE nº 1.436.197/RO, Rel. Min. Luiz Fux, julgado em 18/12/2023). 4.
+       A competência dos Tribunais de Contas para julgar contas de ordenadores de despesas, incluindo prefeitos,
+       é técnica e independente do controle político realizado pelas Casas Legislativas.”
+
+Prof. João Trindade
+
+                                         
+
+
+---
+
+                                              CONTROLE EXTERNO
+
+       Para os fins do art. 1º, inciso I, alínea "g", da Lei Complementar 64, de 18 de maio de
+       1990, alterado pela Lei Complementar 135, de 4 de junho de 2010, a apreciação das
+       contas de prefeitos, tanto as de governo quanto as de gestão, será exercida pelas
+       Câmaras Municipais, com o auxílio dos Tribunais de Contas competentes, cujo parecer
+       prévio somente deixará de prevalecer por decisão de 2/3 dos vereadores. (TEMA 835/RG)
+       É correta a interpretação conforme à Constituição no sentido de que o disposto no § 4º-A
+       do art. 1º da LC 64/90 aplica-se apenas aos casos de julgamento de gestores públicos
+       pelos Tribunais de Contas. (TEMA 1304/RG)
+
+Prof. João Trindade
+
+                                         
+
+
+---
+
+                                               CONTROLE EXTERNO
+
+       ADPF 336/AL:
+       (...) A competência do Tribunal de Contas para emissão do parecer prévio a que se refere o art. 71, I,
+       da Constituição Federal, quando extrapolado, em muito, o prazo constitucionalmente imposto, não
+       tem o condão de obstruir a competência do Poder Legislativo estadual para julgar as contas anuais
+       do Chefe do Poder Executivo estadual.
+       8. (...) Admitir que o Tribunal de Contas do Estado, após superado, de forma irrazoável, o prazo
+       mencionado, pode impedir o exercício de atribuição própria do Poder Legislativo estadual significa –
+       além de menosprezar esse Poder, diminuindo, de forma inconstitucional, seu âmbito de atuação e de
+       afetar sua própria dignidade enquanto elemento fundamental da ordem constitucional – submetê-lo
+       ao órgão (Tribunal de Contas) que, nessa específica matéria – julgamento das contas anuais do
+       Chefe do Poder Executivo –, tem função meramente auxiliar ao próprio Poder Legislativo.
+       9. (...) Permitir que a inércia do Tribunal de Contas impeça o julgamento das contas anuais do
+       Governador do Estado inibiria que, as forças políticas contemporâneas no seio do Poder Legislativo,
+       exercessem, por meio da relevante função atribuída ao Parlamento, controle direto sobre os atos
+       praticados pelo Chefe do Poder Executivo estadual na execução orçamentária, o que certamente tem
+       elevado potencial de causar danos irreparáveis aos freios e contrapesos e, portanto, de transgredir a
+       separação dos poderes (CF, art. 2º).
+
+Prof. João Trindade
+
+                                          
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+                        PROCESSO LEGISLATIVO
+
+Prof. João Trindade
+
+                      
+
+
+---
+
+OBRIGADO
+                                          Prof. João Trindade
+
+     
+
+
+---
+
+---

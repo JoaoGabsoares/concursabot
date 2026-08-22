@@ -1,0 +1,498 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 10_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '10'
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 208.
+- Art. 210.
+- "art.\n             183"
+- art. 12
+- art. 144
+- art. 208
+- art. 26
+- art. 44
+---
+
+# IRPJ
+
+IRPJ
+LUCRO PRESUMIDO
+
+   
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Considerações Básicas sobre a apuração do IPRJ:
+
+    Art. 210. A base de cálculo do imposto sobre a renda, determinada segundo a lei
+    vigente à data de ocorrência do fato gerador, é o lucro real, presumido ou arbitrado,
+    correspondente ao período de apuração ( Lei nº 5.172, de 1966 - Código Tributário
+    Nacional, art. 44 e art. 144 ; Lei nº 8.981, de 1995, art. 26; e Lei nº 9.430, de 1996, art.
+    1º ).
+
+    ❑ O IRPJ é calculado pela multiplicação da base de cálculo pela alíquota de 15%,
+      acrescido do respectivo adicional (10%). Isso ocorre em todos os regimes de
+      apuração.
+
+Legislação Tributária
+                                                                                           @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Considerações Básicas sobre a apuração do IPRJ:
+
+    ❑ No lucro presumido, o imposto é calculado em função de uma presunção do lucro
+      da pessoa jurídica.
+
+    ❑ O parâmetro de presunção do lucro é a receita bruta auferida.
+
+
+    ❑ Obs.: Pessoas jurídicas optantes pela tributação com base no lucro presumido
+      podem reconhecer suas receitas com base no regime de competência ou de caixa.
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Períodos de apuração do lucro presumido:
+
+    ❑ O lucro presumido é apurado trimestralmente.
+
+    ❑ Os períodos de apuração se encerram em: 31 de março, 30 de junho, 30 de
+      setembro e 31 de dezembro de cada ano-calendário.
+
+    ❑ A opção pelo lucro presumido será manifestada com o pagamento da primeira ou
+      única quota do imposto devido correspondente ao primeiro período de apuração
+      de cada ano-calendário.
+
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Opção pelo Lucro Presumido:
+
+             Art. 587. A pessoa jurídica cuja receita bruta total no ano-calendário anterior
+             tenha sido igual ou inferior a R$ 78.000.000,00 (setenta e oito milhões de reais)
+             ou a R$ 6.500.000,00 (seis milhões e quinhentos mil reais) multiplicado pelo
+             número de meses de atividade do ano-calendário anterior, quando inferior a doze
+             meses, poderá optar pelo regime de tributação com base no lucro presumido.
+
+    ❑ Lembre-se de que algumas atividades estão obrigadas a apurar o IRPJ pelo lucro
+      real, independentemente do montante de receita auferido ao longo do ano-
+      calendário. Exemplo:
+    ❑ PJ que obtiver lucros, rendimentos e ganhos de capital obtidos no exterior;
+    ❑ Ler art. 257 do RIR.
+
+Legislação Tributária
+                                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                       
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Cálculo do Lucro Presumido:
+
+                   Base Cálculo = (Receita Bruta Trimestral x %Atividade) + Acréscimos
+
+    ❑ Trata-se de fórmula semelhante à utilizada para o cálculo da estimativa mensal,
+      mas no caso do lucro presumido, a receita bruta é trimestral.
+
+Legislação Tributária
+                                                                                         @ProfFabioDutra
+Prof. Fábio Dutra
+                                         
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Conceito de Receita Bruta:
+
+             Art. 208. A receita bruta compreende:
+             I - o produto da venda de bens nas operações de conta própria;
+             II - o preço da prestação de serviços em geral;
+             III - o resultado auferido nas operações de conta alheia; e
+             IV - as receitas da atividade ou objeto principal da pessoa jurídica, não
+             compreendidas nos incisos I a III.
+             (...)
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Conceito de Receita Bruta:
+    § 1º A receita líquida será a receita bruta diminuída de ( Decreto-Lei nº 1.598, de
+    1977, art. 12, § 1º ):
+    I - devoluções e vendas canceladas;
+    II - descontos concedidos incondicionalmente;
+    III - tributos sobre ela incidentes; e
+    IV - valores decorrentes do ajuste a valor presente,
+
+    ❑ Este conceito pode cair em prova? Sim!
+    ❑ Este conceito de receita líquida é a base de cálculo do lucro presumido? Não!
+      Preste atenção no que será dito adiante e você perceberá isso claramente!
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Conceito de Receita Bruta:
+             Art. 208:
+             (...)
+             § 2º Na receita bruta não se incluem os tributos não cumulativos cobrados,
+             destacadamente, do comprador ou contratante pelo vendedor dos bens ou pelo
+             prestador dos serviços na condição de mero depositário.
+
+             § 3º Na receita bruta incluem-se os tributos sobre ela incidentes e os valores
+             decorrentes do ajuste a valor presente, de que trata o inciso VIII do caput do art.
+             183 da Lei nº 6.404, de 1976, das operações previstas no caput deste artigo,
+             observado o disposto no § 2º.
+
+    ❑ Obs.: Na receita bruta não podemos incluir o IPI e o ICMS, este quando destacado
+      por substituição tributária.
+Legislação Tributária
+                                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                        
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Receita Bruta na Base de Cálculo Lucro Presumido:
+
+    ❑ A base de cálculo do imposto sobre a renda e do adicional, em cada
+      trimestre, será determinada por meio da aplicação do percentual de
+      oito por cento sobre a receita bruta definida pelo art. 208, auferida no
+      período de apuração, deduzida:
+
+    ❑ das devoluções;
+    ❑ das vendas canceladas;
+    ❑ dos descontos incondicionais concedidos.
+
+
+Legislação Tributária
+                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                               
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    ❑ A regra geral é a aplicação do percentual de 8% sobre a receita bruta trimestral
+      auferida.
+
+    ❑ DICA DE PROVA: Se a questão não mencionar o segmento da empresa, dizendo
+      apenas se tratar de industrial, atacadista ou comercial, o percentual é de 8%.
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    ❑ O percentual de 8% também será aplicado sobre a receita financeira da pessoa
+      jurídica que explore atividades imobiliárias relativas a loteamento de terrenos,
+      incorporação imobiliária, construção de prédios destinados à venda e a venda de
+      imóveis construídos ou adquiridos para a revenda, quando decorrente da
+      comercialização de imóveis e for apurada por meio de índices ou coeficientes
+      previstos em contrato.
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    •     1,6% sobre a receita bruta auferida na revenda, para consumo, de combustível
+          derivado de petróleo, álcool etílico carburante e gás natural;
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    •     8% sobre a receita bruta auferida:
+
+    a) na prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia
+    clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e
+    análises e patologias clínicas, desde que a prestadora desses serviços seja organizada
+    sob a forma de sociedade empresária e atenda às normas estabelecidas pela Anvisa;
+
+    b) na prestação de serviços de transporte de carga;
+
+Legislação Tributária
+                                                                                      @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    •     16% sobre a receita bruta auferida:
+
+    a) na prestação dos serviços de transporte, exceto o de carga (8%); e
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    •     32% sobre a receita bruta auferida com as atividades de:
+
+    a) prestação de serviços em geral;
+    b) intermediação de negócios;
+    c) administração, locação ou cessão de bens imóveis, móveis e direitos de qualquer
+    natureza;
+    d) prestação de serviços de construção, recuperação, reforma, ampliação ou
+    melhoramento de infraestrutura vinculados a contrato de concessão de serviço
+    público.
+
+Legislação Tributária
+                                                                                  @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    ❑ No caso de atividades diversificadas será aplicado o percentual correspondente a
+      cada atividade.
+
+    ❑ A receita bruta auferida pela pessoa jurídica decorrente da prestação de serviços
+      em geral, como limpeza e locação de mão de obra, ainda que sejam fornecidos os
+      materiais, está sujeita à aplicação do percentual de 32%.
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Percentuais de presunção do lucro presumido:
+
+    ❑ A legislação confere tratamento diferenciado aos pequenos prestadores de
+      serviços, assim considerados aqueles com receita bruta anual abaixo de R$ 120
+      mil. Neste caso, será 16% (em vez de 32%).
+
+    ❑ Esta regra não se aplica às pessoas jurídicas que prestam serviços hospitalares e
+      de transporte nem às sociedades prestadoras de serviços de profissões
+      legalmente regulamentadas.
+
+Legislação Tributária
+                                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Acréscimos:
+
+                    Base Cálculo = (Receita Bruta Trimestral x %Atividade) + Acréscimos
+
+    ❑ Os ganhos de capital, demais receitas e resultados positivos decorrentes de
+      receitas não abrangidas no conceito de receita bruta, auferidos no mesmo
+      período;
+
+    ❑ Os rendimentos e ganhos líquidos auferidos em aplicações financeiras de renda
+      fixa e renda variável;
+
+    ❑ Os juros sobre o capital próprio auferidos;
+
+Legislação Tributária
+                                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                          
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Acréscimos:
+
+    ❑ Os valores recuperados, correspondentes a custos e despesas, inclusive com
+      perdas no recebimento de créditos, salvo se a pessoa jurídica comprovar não os
+      ter deduzido em período anterior no qual tenha se submetido ao regime de
+      tributação com base no lucro real ou que se refiram a período no qual tenha se
+      submetido ao regime de tributação com base no lucro presumido ou arbitrado;
+
+    1 – Apuração pelo lucro real no período anterior: Já foi tributado pelo lucro real.
+
+    2 - Apuração pelo lucro presumido no período anterior: Já foi tributado pelo lucro
+    presumido.
+Legislação Tributária
+                                                                                          @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Acréscimos:
+
+    ❑ O valor resultante de ajustes relativos a preços de transferência;
+
+
+    ❑ As multas ou qualquer outra vantagem paga ou creditada por pessoa jurídica,
+      ainda que a título de indenização, em virtude de rescisão de contrato.
+
+Legislação Tributária
+                                                                             @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Presumido
+    ❑ Obrigações Acessórias:
+
+    I – Manter escrituração contábil nos termos da legislação comercial;
+
+    II - Manter Livro Registro de Inventário, no qual deverão constar registrados os
+    estoques existentes no término do ano-calendário;
+
+    III - Manter em boa guarda e ordem, enquanto não decorrido o prazo decadencial e
+    não prescritas eventuais ações que lhes sejam pertinentes, todos os livros de
+    escrituração obrigatórios por legislação fiscal específica, bem como os documentos e
+    demais papéis que serviram de base para escrituração comercial e fiscal.
+
+Legislação Tributária
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+QUESTÃO INÉDITA
+       Podem optar pelo lucro presumido as pessoas jurídicas cuja receita
+       total no ano-calendário anterior seja superior a R$ 78.000.000,00.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+QUESTÃO INÉDITA
+       Para fins de cálculo do IRPJ no regime de tributação com base no lucro
+       presumido, devem ser acrescidos à base de cálculo os juros sobre o
+       capital próprio auferidos.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+QUESTÃO INÉDITA
+       O percentual de presunção para pessoas jurídicas que exerçam
+       atividade de transporte de carga é de 16%.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+QUESTÃO INÉDITA
+       O percentual de presunção para pessoas jurídicas que exerçam
+       prestação de serviços em geral é de 16%.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+QUESTÃO INÉDITA
+       O percentual de presunção para pessoas jurídicas que atuam na
+       revenda de combustíveis é de 8%.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---

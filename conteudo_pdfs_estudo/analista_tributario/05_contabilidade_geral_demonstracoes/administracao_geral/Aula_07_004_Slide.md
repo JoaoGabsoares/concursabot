@@ -1,0 +1,2898 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Contabilidade Geral e Demonstrações Contábeis
+tags:
+- contabilidade
+- cpc
+- balanco_patrimonial
+- dre
+- dfc
+- dupont
+arquivo_origem: Aula 07_004_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: Contabilidade
+artigos_citados:
+- Art. 178.
+- Art. 179.
+---
+
+# Contabilidade
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+  Começando do Zero
+  Receita Federal 2022
+PREPARAÇÃO COMPLETA
+                                           Prof. Silvio Sande
+
+      
+
+
+---
+
+                     Balanço Patrimonial
+                           Ativos
+
+
+                                                             Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                        
+
+
+---
+
+                     Balanço Patrimonial
+                       Ativo Circulante
+                      Disponibilidades
+
+                                                             Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                        
+
+
+---
+
+   Balanço Patrimonial - Ativos
+Art. 178. No balanço, as contas serão classificadas segundo os elementos do
+patrimônio que registrem, e agrupadas de modo a facilitar o conhecimento e a
+análise da situação financeira da companhia.
+
+§ 1º No ativo, as contas serão dispostas em ordem decrescente de grau de
+liquidez dos elementos nelas registrados, nos seguintes grupos:
+
+I – ativo circulante; e
+II – ativo não circulante, composto por ativo realizável a longo prazo,
+investimentos, imobilizado e intangível.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   Balanço Patrimonial – Ativo Circulante
+Art. 179. As contas serão classificadas do seguinte modo:
+I - no ativo circulante: as disponibilidades, os direitos realizáveis no curso
+do exercício social subsequente e as aplicações de recursos em despesas do
+exercício seguinte;
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+As disponibilidades são elementos que representam dinheiro ou que nele
+possam ser convertidos de forma imediata, como a conta caixa, bancos conta
+movimento.
+
+Exemplos de disponibilidades:
+- Caixa.
+- Contas bancárias
+- Numerários em trânsito, como por exemplo, remessas para filiais, depósitos,
+ordem de pagamento;
+- Aplicações financeiras de curto prazo, de alta liquidez, que são prontamente
+conversíveis em montante conhecido de caixa e que estão sujeitas a um
+insignificante risco de mudança de valor.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+Caixa.
+Inclui dinheiro, cheques em mãos recebidos e ainda não depositados, pagáveis sem
+restrição e imediatamente. Há basicamente dois tipos de controle da conta Caixa, o
+Fundo fixo e o Caixa flutuante.
+No Fundo fixo, define-se uma quantia fixa que é fornecida ao responsável pelo
+fundo, para pagamento de pequenas despesas.
+
+No Caixa flutuante, transitam pela conta caixa todos os recebimentos e
+pagamentos em dinheiro.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+Depósitos bancários a vista
+
+São representados normalmente pelas contas de livre movimentação mantidas pela
+empresa em bancos. Podem ser: conta movimento ou depósitos sem limites, contas
+especiais para pagamentos específicos (exemplo: folha de pagamento) e contas
+especiais de cobrança. Caso exista restrição ou limitação na conta bancária, está
+não deve ser classificada no disponível, devendo ser classificada nos direitos
+realizáveis no AC ou no ARLP.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+Numerário em trânsito
+
+São decorrentes de remessas para filiais, depósitos ou semelhantes, por meio de
+cheques, ordem de pagamento etc. E o recebimento desta mesma espécie, ou
+ainda de clientes ou terceiros, quando conhecidos até a data do balanço.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   Ativo Circulante - Disponibilidades
+Aplicação de liquidez imediata
+
+São aplicações de curtíssimo prazo no mercado financeiro, prontamente conversível
+em um montante conhecido de caixa e sujeitas a um insignificante risco de
+mudança de valor, mantidas para atender compromissos de caixa de curto prazo e
+não para investimentos ou outros fins.
+
+Equivalentes de caixa - são aplicações financeiras de curto prazo, de alta liquidez,
+que são prontamente conversíveis em montante conhecido de caixa e que estão
+sujeitas a um insignificante risco de mudança de valor.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   Equivalentes de Caixa
+Os equivalentes de caixa são mantidos com a finalidade de atender a
+compromissos de caixa de curto prazo e, não, para investimento ou outros
+propósitos. Para que um investimento seja qualificado como equivalente de caixa,
+ele precisa ter conversibilidade imediata em montante conhecido de caixa e estar
+sujeito a um insignificante risco de mudança de valor. Portanto, um investimento
+normalmente qualifica-se como equivalente de caixa somente quando tem
+vencimento de curto prazo, por exemplo, três meses ou menos, a contar da data da
+aquisição. Os investimentos em instrumentos patrimoniais (de patrimônio líquido)
+não estão contemplados no conceito de equivalentes de caixa, a menos que eles
+sejam, substancialmente, equivalentes de caixa, como, por exemplo, no caso de
+ações preferenciais resgatáveis que tenham prazo definido de resgate e cujo prazo
+atenda à definição de curto prazo.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   Saldo Bancário a Descoberto
+Empréstimos bancários são geralmente considerados como atividades de
+financiamento. Entretanto, saldos bancários a descoberto, decorrentes de
+empréstimos obtidos por meio de instrumentos como cheques especiais ou contas
+correntes garantidas que são liquidados em curto lapso temporal compõem parte
+integral da gestão de caixa da entidade. Nessas circunstâncias, saldos bancários a
+descoberto são incluídos como componente de caixa e equivalentes de caixa. Uma
+característica desses arranjos oferecidos pelos bancos é que frequentemente os saldos
+flutuam de devedor para credor
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Critério de Avaliação
+As Contas são registradas pelo valor nominal dos documentos originais
+correspondentes às respectivas transações.
+
+Contabilidade
+Prof. Silvio Sande
+                         
+
+
+---
+
+   Critério de Avaliação
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+                     OBRIGADO
+                                                               Prof. Silvio Sande
+
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+                     Balanço Patrimonial
+                       Ativo Circulante
+
+
+                                                             Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                        
+
+
+---
+
+   01. (CESPE/SLU-DF/2019)
+Com base nos pronunciamentos técnicos do Comitê de Pronunciamentos
+Contábeis e nas disposições da Lei n.º 6.404/1976 e suas alterações acerca de
+demonstrações contábeis, julgue o item.
+
+A classificação de ativos e passivos como circulantes ou não circulantes deve
+obedecer ao ciclo operacional da empresa
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   02. (CESPE/Técnico/EBSERH/2018)
+Julgue o próximo item, a respeito das demonstrações financeiras.
+
+Se, em determinada empresa, o prazo entre a aquisição de ativos para a
+produção e sua transformação em caixa ou equivalente for superior ao
+exercício social, a classificação no ativo circulante terá por base o ano civil.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   03. (PUC PR/ AFTM Campo Grande/2019)
+Segundo a NBC TG 26, o ativo deve ser classificado como circulante quando
+atender a alguns critérios. Analise e assinale o critério que NÃO pode ser
+classificado como ativo circulante.
+a) Está mantido essencialmente com o propósito de ser negociado.
+b) Espera-se que seja liquidado durante o ciclo operacional normal da entidade.
+c) Espera-se que seja realizado até doze meses após a data do balanço.
+d)    caixa ou equivalente de caixa (conforme definido na NBC TG 03 –
+Demonstração dos Fluxos de Caixa), a menos que sua troca ou uso para liquidação
+de passivo se encontre vedada durante pelo menos doze meses após a data do
+balanço.
+e) Espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no
+decurso normal do ciclo operacional da entidade.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   04. (FCC/Analista Contábil/TRT 4ª/2011)
+De conformidade com as Normas Internacionais de Contabilidade, são grupos do
+Balanço Patrimonial:
+
+(A) Ativo Circulante, Realizável a Longo Prazo, Ativo Diferido, Ativo Imobilizado e
+Exigível a Longo Prazo.
+(B) Ativo Imobilizado, Ativo Intangível, Ativo Diferido e o Patrimônio Líquido.
+(C) Realizável de Longo Prazo, Diferido, Investimentos, Passivo Circulante e Passivo
+Não Circulante.
+(D) Ativo Circulante, Ativo Permanente, Passivo Circulante e Passivo Não Circulante.
+(E) Passivo Não Circulante, Passivo Circulante, Patrimônio Líquido, Ativo Circulante,
+Imobilizado, Intangível e Investimentos.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   05. (CESPE/TCE-RJ/2021)
+ Com relação aos pronunciamentos técnicos do CPC a respeito do conteúdo e
+ a classificação contábil de estoques, julgue o próximo item.
+
+ Um estoque que uma entidade pretenda consumir no decurso normal do seu
+ ciclo operacional deve ser por ela classificado como ativo circulante no balanço
+ patrimonial.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   06. (CEBRASPE/ABIN/2018)
+De acordo com as normas contidas nas legislações de contabilidade aplicáveis às
+demonstrações contábeis, julgue o item que se segue.
+
+Quando a apresentação do balanço patrimonial baseada na liquidez proporcionar
+informação confiável e mais relevante, a entidade deverá apresentar seus grupos de
+contas de forma sequenciada, sem separá-los em circulante e não circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   07. (FUNDATEC/CRP/7/2019)
+A Lei nº 6.404/1976 e suas alterações, ao tratarem do Balanço Patrimonial, dispõem
+sobre a classificação dos elementos patrimoniais registrados e sobre o agrupamento das
+contas respectivas no Passivo, no Ativo e no Patrimônio Líquido. Sobre isso, é correto
+afirmar que:
+
+  a) As contas do ativo são dispostas nos grupos Circulante, Realizável a Longo Prazo e
+Não Circulante.
+b) As contas do passivo são dispostas nos grupos Exigível, Não Exigível e Patrimônio
+Líquido.
+c) No ativo, as contas são dispostas em ordem crescente de grau de exigibilidade dos
+elementos nelas registrados.
+d) No ativo, as contas são dispostas em ordem decrescente de grau de liquidez dos
+elementos nelas registrados.
+e) No passivo, as contas são dispostas em ordem decrescente de grau de exigibilidade
+dos elementos nelas registrados.
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   08. (IBFC/PREF CRUZEIRO DO SUL/2019)
+Com base na Lei nº 6.404/76, a respeito das contas contábeis, assinale a alternativa
+correta.
+ a) As contas semelhantes podem ser agrupadas nas demonstrações contábeis
+financeiras
+ b) Os pequenos saldos podem ser agregados, porém sua natureza deve ser indicada e
+seu valor não pode ultrapassar 0,2 (dois décimos) do seu grupo
+ c) São exemplos de designações permitidas para agrupamento de contas: “diversas-
+contas” ou “contas-correntes”
+ d) No ativo, as contas serão dispostas em ordem crescente de liquidez
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   09. (CESPE/Auditor de Controle Externo/TCE/SC/2016)
+A tabela anterior apresenta os saldos relativos às contas patrimoniais
+destinadas ao levantamento de balancete de encerramento de uma empresa
+hipotética, faltando registrar o resultado apurado no encerramento desse
+exercício social.
+A partir dessas informações, julgue o item a seguir.
+
+As disponibilidades totais sofrerão redução de valor sempre que a entidade
+utilizar recursos de seu caixa para aplicar em investimentos de liquidez
+imediata.
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+ 10.(Instituto AOCP/EBSERH/2014)
+Assinale a alternativa que NÃO corresponde aos bens numerários (ou
+Disponibilidades).
+a) Caixa.
+b) Bancos Conta Movimento.
+c) Duplicatas a Receber.
+d) Numerário em Trânsito.
+e) Aplicações de Liquidez Imediata.
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+ 11.(FCC/PGE-RS/2009)
+Uma empresa comercial classifica como Disponibilidades o seguinte grupo
+de contas:
+
+  a) Caixa, Aplicações de Liquidez Imediata e Clientes.
+
+  b) Caixa, Bancos e Investimentos Permanentes.
+
+  c) Caixa, Bancos e Duplicatas a Receber.
+
+  d) Caixa, Bancos e Aplicações de Liquidez Imediata.
+
+  e) Clientes, Estoques e Bancos Conta Movimento.
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+ 12. (CEBRASPE/TELEBRÁS/2015)
+Julgue o item subsecutivo, relativo ao tratamento contábil de ativos circulantes.
+
+Um título público federal indexado à variação cambial deve ser classificado
+como um equivalente de caixa.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ 13. (CEBRASPE/STM/2011)
+No que diz respeito a patrimônio, seus registros e características, julgue o item
+a seguir.
+
+Se a empresa possuir conta em banco que esteja em liquidação ou sob
+intervenção, o saldo dessa conta deverá ser reclassificado para contas a
+receber no ativo circulante ou, dependendo do caso, no ativo realizável a
+longo prazo.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+                                                          Determinada           empresa
+                                                          apresentou, em 31 de
+                                                          dezembro de 2020, um
+                                                          patrimônio          composto
+                                                          pelos seguintes elementos,
+                                                          cujo    registro     e   cuja
+                                                          avaliação contábeis estão
+                                                          de acordo com as regras
+                                                          estabelecidas na legislação
+                                                          societária       (Lei      n.º
+                                                          6.404/1976         e     suas
+                                                          alterações).
+
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+   14. (CESPE/APF/2021)
+ Considerando os elementos patrimoniais apresentados nessa situação
+ hipotética, julgue o item a seguir.
+
+ As disponibilidades da empresa totalizaram R$ 30.000 em 31 de dezembro de
+ 2020.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+ 15. (FGV/PC-AM/2022)
+Uma sociedade empresária apresentava os seguintes saldos em 31/12/X0:
+Disponibilidades: R$ 20.000.
+Aplicações financeiras resgatáveis em 60 dias, sem restrições ou penalidades: R$
+15.000.
+Banco-conta poupança: R$ 30.000.
+Saldos bancários a descoberto, decorrentes de empréstimos obtidos por meio de
+cheques especiais: R$ 8.000.
+ Assinale a opção que indica o saldo do Caixa e Equivalentes de Caixa da
+sociedade empresária em 31/12/X0.
+a) R$ 27.000.
+b) R$ 35.000.
+c) R$ 50.000.
+d) R$ 57.000.
+e) R$ 65.000.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   16. (FGV/MPE-AL/2018)
+ Assinale a opção que indica, na elaboração do Balanço Patrimonial de uma sociedade
+ empresária, o que deve ser contabilizado como Disponibilidades.
+  a) O numerário em trânsito decorrente de remessas para filiais.
+  b) Os saldos de contas mantidas em bancos em liquidação.
+  c) Os saldos de contas mantidas em bancos sob intervenção.
+  d) Os depósitos vinculados à liquidação de empréstimos.
+  e) Os depósitos com restrição de movimentação por força de cláusula contratual de
+ financiamento.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   17. (FGV/ALERO/2018)
+  Assinale a opção que indica, no Balanço Patrimonial de uma entidade, as contas
+ classificadas como Disponibilidades.
+  a) Conta especial de cobrança e numerário em trânsito decorrente de remessas para
+ filiais.
+  b) Saldos de contas em bancos em liquidação e conta movimento.
+  c) Depósitos bloqueados e depósitos vinculados à liquidação de empréstimo.
+  d) Conta especial para pagamento e saldos de contas em bancos em liquidação.
+  e) Conta movimento e depósitos vinculados para liquidação de contratos de câmbio.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+ 18. (FGV/COMPESA/2018)
+Uma entidade apresentava os seguintes saldos em seu balanço patrimonial, de
+31/12/2017:
+caixa: R$ 50.000;
+depósitos vinculados para liquidação de importações: R$15.000;
+depósitos com restrição de movimentação por força de cláusula contratual de
+financiamento: R$ 20.000;
+aplicações no mercado financeiro, com prazo de 2 meses, e com risco insignificante
+de mudança de valor: R$ 30.000.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ Assinale a opção que indica o saldo da conta Disponibilidades, em 31/12/2017.
+
+   a) R$ 80.000.
+
+   b) R$ 85.000.
+
+   c) R$ 95.000.
+
+   d) R$ 100.000.
+
+   e) R$ 115.000.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ 19. (FGV/AFTM/CUIABÁ/2016)
+Em 31/12/2015, uma entidade possuía as seguintes contas em seu ativo:
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+ Além disso, sabe-se que, na data, o Banco Beta estava em liquidação.
+
+ Com base nas contas acima, o saldo das Disponibilidades, em 31/12/2015, foi
+
+   a) R$ 150.000,00.
+
+   b) R$ 180.000,00.
+
+   c) R$ 190.000,00.
+
+   d) R$ 220.000,00.
+
+   e) R$ 250.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ 20. (FGV/AFTM/Recife/2014)
+Em 31/12/2013, uma entidade possuía entre suas contas os seguintes saldos:
+Caixa: R$ 20.000,00;
+Depósito vinculado para liquidação de contratos de câmbio: R$ 10.000,00;
+Depósito com restrição de movimentação por força de cláusula contratual de
+financiamento: R$ 15.000,00;
+Numerário em trânsito: R$ 22.000,00.
+
+Com base nessas informações, o valor da conta Disponibilidades da Entidade, em
+31/12/2013, era de
+a) R$ 20.000,00.
+b) R$ 42.000,00.
+c) R$ 47.000,00.
+d) R$ 52.000,00.
+e) R$ 67.000,00.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ 21. (NC/UFPR/2019)
+A empresa MM&Cia. possuía as seguintes contas em seu Ativo em 31/12/2017:
+
+Acerca das contas apresentadas, o Saldo das Disponibilidades em 31/12/2017 é:
+a) 10.000.000.
+b) 5.000.000.
+c) 7.800.000.
+d) 2.800.000.
+e) 12.200.000.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   22. (IBFC/EBSERH/Analista Contábil/2020)
+Em 31/12/16, a empresa Tico e Teco, apresentava as seguintes contas em seu
+Ativo:
+Conta no Banco Premium R$ 132.000,00
+Conta no Banco Paladium R$ 60.000,00
+Caixa e Disponibilidades R$ 45.000,00
+Aplicações de Curto prazo no mercado financeiro, conversíveis em caixa e com
+risco considerável de alteração de valor R$ 73.000,00
+Depósito vinculado a liquidação de empréstimo de curto prazo R$ 91.500,00
+Numerário em trânsito decorrente de remessa para filial R$ 32.800,00
+Dados:
+Sabe-se que em 31/12/16, o Banco Paladium estava sendo liquidado.
+
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+Com base nas informações apresentadas, assinale a alternativa que apresenta
+o saldo das disponibilidades da empresa Tico e Teco em 31/12/16.
+a) R$ 282.800,00
+b) R$ 209.800,00
+c) R$ 434.300,00
+d) R$ 342.800,00
+e) R$ 269.800,00
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+ 23. (CEBRASPE/TRE-ES/2011)
+No item, é apresentada uma situação hipotética, seguida de uma assertiva a
+ser julgada acerca de escrituração e análise e conciliações contábeis.
+
+Determinada empresa mantém fundo fixo de caixa. Nessa situação, a
+recomposição do fundo é feita com um lançamento contábil de primeira
+fórmula.
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+ 24. (CEBRASPE/TEC CONTABILIDADE/PF/2014)
+Para efetuar pequenos pagamentos, a empresa Planeta Vermelho resolveu trabalhar
+com a sistemática de fundo fixo de caixa. Para tanto, foi estabelecido o valor de R$
+2.000,00, por período, e de R$ 80,00, por despesa prevista. O funcionário Heitor foi
+nomeado responsável pelos recursos durante os próximos dois meses e deverá prestar
+contas quinzenalmente.
+
+Acerca dessa situação hipotética, julgue o item seguinte.
+
+
+A constituição do fundo fixo de caixa é um fato contábil modificativo diminutivo.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ 25. (CEBRASPE/TEC CONTABILIDADE/PF/2014)
+Para efetuar pequenos pagamentos, a empresa Planeta Vermelho resolveu trabalhar
+com a sistemática de fundo fixo de caixa. Para tanto, foi estabelecido o valor de R$
+2.000,00, por período, e de R$ 80,00, por despesa prevista. O funcionário Heitor foi
+nomeado responsável pelos recursos durante os próximos dois meses e deverá prestar
+contas                                                               quinzenalmente.
+
+Acerca dessa situação hipotética, julgue o item seguinte.
+
+Considere que, ao final da primeira quinzena, Heitor apresentou comprovantes de
+diversos itens de despesas, todos previstos e dentro do valor estipulado, no total de R$
+1.300,00. Nessa situação, haverá redução do disponível em R$ 1.300,00.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ 26. (CEBRASPE/TRE-ES/2011)
+No item, é apresentada uma situação hipotética, seguida de uma assertiva a
+ser julgada.
+
+Na prestação de contas pelo responsável pelo fundo fixo de caixa, em 31 de
+maio de 2010, uma empresa verificou que, em seu fundo fixo de caixa, havia
+R$ 15,00 em moeda corrente e R$ 435,00 em comprovantes de despesas.
+Nesse mesmo dia, foram feitos a reconstituição do fundo e,
+concomitantemente, o aumento do valor do fundo para R$ 500,00. Nessa
+situação, a empresa deverá fazer débito de R$ 435,00 em conta de resultado
+(despesas diversas) e de R$ 50,00 na conta do fundo fixo de caixa, com
+contrapartida de R$ 485,00 em conta banco.
+
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+ 27. (CEPS/UFPA/2018)
+Em relação ao fundo fixo de caixa, o registro contábil da ocorrência de pequenas
+despesas em contrapartida à conta bancária de livre movimento indica o(a)
+
+  a) recebimento de valores.
+
+  b) ocorrência de passivos.
+
+  c) recomposição do fundo fixo.
+
+  d) quitação de recebíveis.
+
+  e) assunção de novas dívidas.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+ 28. (CEPS/UFPA/2016)
+Quanto ao fundo fixo de caixa, é correto afirmar:
+
+  a) Deverá ter seu saldo periodicamente atualizado.
+
+  b) Não há necessidade de recomposição periódica do fundo.
+
+c) Os pagamentos efetuados por meio dele serão lançados, de imediato, na
+escrituração contábil da entidade.
+
+  d) A ele não se acrescenta qualquer valor recebido diretamente.
+
+e) Quando de sua constituição, a conta a ser debitada será a conta “Bancos conta
+movimento” e a conta a ser creditada será “fornecedores”.
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+ 29. (CEPS/UFPA/2015)
+Uma empresa comercial, a partir de suas observações, resolveu constituir um fundo
+para cobertura de seus pequenos gastos. O valor estipulado foi de R$ 900,00. No
+período da constituição do fundo, foram registrados os seguintes gastos:
+fotocópias = R$ 80,00; refeições= R$ 240,00; transporte = R$ 220,00; manutenção
+de portas = R$ 160,00. O registro contábil de recomposição do fundo fixo de caixa
+é
+
+a) D – Caixa / C – Bancos Conta Movimento
+b) D – Despesas Administrativas / C – Bancos Conta Movimento
+c) D – Despesas Administrativas / C – Despesas a Pagar
+d) D – Caixa / C – Resultado do período
+e) D – Resultado do período / C – Caixa
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ 30. (CESGRANRIO/PETROBRÁS/2012)
+Uma empresa de grande porte adota o sistema de Fundo Fixo de Caixa, também
+conhecido como Caixa Pequena, para fazer o pagamento de gastos diários referentes a
+despesas repetitivas e de pequeno valor.
+
+A prestação de contas feita pelo responsável pelo Fundo Fixo de Caixa, com relação às
+despesas pagas pelo sistema, num determinado período de tempo, com a
+correspondente reposição do valor gasto ao Fundo Fixo, mediante a emissão de cheque
+nominal ao aludido responsável, é registrada da seguinte forma:
+
+  a) Débito: Banco conta Movimento
+    Crédito: Caixa
+
+  b) Débito: Caixa
+    Crédito: Fundo Fixo de Caixa
+Contabilidade
+Prof. Silvio Sande
+                                   
+
+
+---
+
+  c) Débito: Contas das Despesas
+    Crédito: Banco conta Movimento
+
+  d) Débito: Contas das Despesas
+    Crédito: Fundo Fixo de Caixa
+
+  e) Débito: Fundo Fixo de Caixa
+    Crédito: Banco conta Movimento
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+                           Balanço Patrimonial
+                     Ativo Circulante – Direitos Realizáveis
+
+
+                                                                    Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Balanço Patrimonial - Ativos
+Art. 178. No balanço, as contas serão classificadas segundo os elementos do
+patrimônio que registrem, e agrupadas de modo a facilitar o conhecimento e a
+análise da situação financeira da companhia.
+
+§ 1º No ativo, as contas serão dispostas em ordem decrescente de grau de
+liquidez dos elementos nelas registrados, nos seguintes grupos:
+
+I – ativo circulante; e
+II – ativo não circulante, composto por ativo realizável a longo prazo,
+investimentos, imobilizado e intangível.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   Balanço Patrimonial - Ativos
+Art. 179. As contas serão classificadas do seguinte modo:
+I - no ativo circulante: as disponibilidades, os direitos realizáveis no
+curso do exercício social subsequente e as aplicações de recursos
+em despesas do exercício seguinte;
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   Ativo Circulante – Direitos Realizáveis
+
+Direitos Pessoais
+
+Direitos Reais
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+   Ativo Circulante – Valores a receber
+
+Créditos de Funcionamento
+
+Créditos de Financiamento
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   Ativo Circulante – Valores a receber
+Créditos
+Contas a Receber
+Clientes
+Duplicatas a Receber
+Duplicatas emitidas
+Nota promissória a receber
+Nota promissória aceita
+Empréstimo concedido
+Adiantamento a terceiros
+Adiantamento Salarial
+Serviços Prestados a Faturar
+ICMS a Recuperar
+Faturamento para entrega Futura
+Perdas estimadas com Créditos de Liquidação Duvidosa
+Ajuste a Valor Presente
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   Ativo Circulante – Duplicatas
+A duplicata é um título de crédito de natureza comercial, exclusivo para utilização em
+operações de venda a prazo. Sua emissão não é obrigatória por parte do detentor do
+crédito, que é a empresa vendedora. Se ela decidir emitir, a duplicata poderá:
+
+a) Permanecer em carteira;
+b) Ser enviada para cobrança simples por uma instituição financeira; ou
+c) Ser descontada em uma instituição financeira.
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   Ativo Circulante – Duplicatas
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+   Ativo Circulante – Operações com Duplicatas
+1. Cobrança Simples
+A cobrança simples consiste na remessa das duplicatas da empresa a terceiros, que pode ou
+não ser uma instituição financeira, que fará a cobrança em seu nome. A propriedade do
+título não é transferida ao cobrador que, por sua vez não efetua qualquer adiantamento de
+valor a empresa. O prestador do serviço cobra uma remuneração pelo serviço que presta à
+empresa. A empresa emitente terá que contabilizar uma despesa bancária.
+
+O custo da cobrança deve ser contabilizado quando efetivamente realizado o serviço.
+Algumas instituições financeiras, porém, cobram esse valor no ato de envio das duplicatas.
+
+Nesse caso, a empresa deve contabilizá-las como uma despesa paga antecipadamente,
+constituindo um direito a constar no Ativo Circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   Cobrança Simples
+Registro do recebimento da duplicata de R$ 100.000,00 em cobrança simples
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Cobrança Simples
+Registro do recebimento da duplicata de R$ 100.000,00 em cobrança simples com juros de
+10%.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Cobrança Simples
+Registro do recebimento da duplicata de R$ 100.000,00 em cobrança simples com
+desconto de 5%.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   Cobrança Simples – Despesa bancária
+1. Registro da despesa de cobrança após o recebimento pelo banco
+
+2.1 Registro da despesa antecipada no ato do envio das duplicatas
+
+2.2 Registro da despesa quando o banco avisa a efetiva cobrança da duplicata
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   Ativo Circulante – Operações com Duplicatas
+2. Cobrança em Carteira
+A empresa mantém as duplicatas na tesouraria, aguardando o vencimento e o pagamento
+pelo cliente diretamente á empresa. A empresa cobra seus clientes sem utilizar os serviços
+de cobrança de terceiros.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   Cobrança em Carteira
+Registro do recebimento da duplicata de R$ 100.000,00 em carteira
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Cobrança em Carteira
+Registro do recebimento da duplicata de R$ 100.000,00 em carteira com juros de 10%.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Cobrança em Carteira
+Registro do recebimento da duplicata de R$ 100.000,00 em caRteira com desconto de 5%.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Ativo Circulante – Operações com Duplicatas
+3. Desconto de Duplicatas
+Operação financeira pela qual o banco disponibiliza recursos às empresas, mediante
+entrega, por elas, de duplicatas a receber, descontando desde já, as despesas bancárias e os
+juros. O desconto de duplicatas é uma antecipação do valor.
+
+O valor líquido recebido pela empresa será o valor de face do título menos as despesas
+bancárias e os juros pactuados na operação.
+
+Não se trata de transferência de crédito ou cessão de crédito, pois a empresa emitente
+passa a ser responsável pelo pagamento do valor que lhe foi disponibilizado, caso haja
+inadimplência do devedor das duplicatas junto ao banco. Neste caso, o banco devolve as
+duplicatas para que a empresa execute a cobrança.
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   Ativo Circulante – Operações com Duplicatas
+3. Desconto de Duplicatas
+
+A Conta duplicatas descontadas, representa uma origem de recursos, devendo ser
+classificada no passivo. A diferença entre o valor descontado e o valor líquido recebido
+deve aparecer como redução do passivo correspondente, na conta Encargos Financeiros a
+Transcorrer.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Desconto de Duplicatas
+
+Contabilidade
+Prof. Silvio Sande
+                     
+
+
+---
+
+   Ativo Circulante – Operações com Duplicatas
+3. Desconto de Duplicatas
+Por ocasião do recebimento de duplicatas descontadas pelo banco, será dada baixa, tanto
+do valor das duplicatas a receber quanto do valor das duplicatas descontadas.
+
+D – Duplicatas descontadas
+C – Duplicatas a Receber
+
+Caso não haja o pagamento pelo cliente ao banco, há a devolução da duplicata pelo banco.
+Esse fato deve ser registrado, operando-se baixa nas duplicatas descontadas.
+
+D – Duplicatas descontadas
+C – Receber
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   Desconto de Duplicatas
+  Registro no desconto das duplicatas e recebimento dos valores
+
+D – Bancos (Ativo Circulante)
+D – Encargos Financeiros a Transcorrer (Conta redutora do Passivo Circulante)
+C – Duplicatas Descontadas (Passivo Circulante)
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   Desconto de Duplicatas
+Registro da liquidação da duplicata pelo cliente
+
+D – Duplicatas Descontadas (Passivo Circulante)
+C – Clientes ou Duplicatas a Receber (Ativo Circulante)
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   Desconto de Duplicatas
+Registro da operação quando não há o pagamento pelo cliente ao banco no dia do
+vencimento.
+
+D – Duplicatas Descontadas (Passivo Circulante)
+C – Bancos (Ativo Circulante)
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   Desconto de Duplicatas
+apropriação dos respectivos encargos financeiros.
+
+D – – Despesas financeira(Resultado)
+C – Encargos financeiros a transcorrer (Passivo Circulante)
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   Ativo Circulante – Factoring
+Factoring
+
+O Factoring Fomento Mercantil é uma operação financeira de atividade comercial onde a
+empresa de Fomento Mercantil, em sua operação convencional compra direitos
+creditórios de seus clientes.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   Factoring
+A empresa “A” efetuou algumas vendas no período e possui atualmente direitos
+creditórios (valor em aberto a receber) no montante de R$ 100.000,00.
+A empresa vendeu seus direitos creditórios no montante acima, para uma empresa “B” de
+factoring, onde a mesma pagou a vista R$ 92.000,00 por eles.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   Ativo Circulante – Operações com Notas Promissórias
+5. Notas promissórias
+
+É um titulo de crédito de natureza financeira, é uma relação de pagamento entre duas
+pessoas (que podem ser físicas ou jurídicas): no preenchimento do documento, o
+emitente promete pagar determinado valor ao beneficiário. Embora trate-se de um
+documento simples, é aceito legalmente e pode servir para vários tipos de acertos,
+formais ou informais, gerando maior segurança para a pessoa ou empresa que tem valor a
+receber.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+            ExercÍcios de Operações com
+            duplicatas.
+
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   01. (CEBRASPE/TRE-ES/2011)
+No item, é apresentada uma situação hipotética, seguida de uma assertiva a ser
+julgada acerca de escrituração e análise e conciliações contábeis.
+
+Um cliente liquidou antecipadamente uma duplicata em cobrança simples, valendo-
+se de um desconto financeiro. Nessa situação, a empresa comercial deverá realizar
+lançamento contábil com crédito na conta duplicata descontada, débitos nas contas
+disponíveis e desconto financeiro.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   02. (FDC/ ISS BH/ 2012)
+Em 25/09/2011, a Empresa Comercial recebeu de um cliente o pagamento de uma
+duplicata mercantil, referente a uma venda de mercadoria a prazo, no valor de R$
+5.000. Tendo em vista que o vencimento da referida duplicata ocorreu em
+30/08/2011, foi cobrado encargo financeiro no valor de R$ 800,00. O cliente efetuou
+o pagamento, com emissão de um cheque do Banco ABC. A operação foi registrada
+na contabilidade da Empresa Comercial, por meio do seguinte lançamento:
+
+A) D: Caixa 5.800
+C: Juros Ativos 800
+C: Duplicatas a Receber 5.00
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+B) D: Bancos c/ Movimento 5.800
+C: Juros Ativos 800
+C: Duplicatas a Receber 5.000
+
+C) D: Receita de Vendas 5.000
+C: Juros Passivos 800
+C: Duplicatas a Receber 5.800
+
+D) D: Duplicatas Descontadas 5.000
+C: Juros a Apropriar 800
+
+E) D: Bancos c/ Movimento 5.800
+C: Duplicatas a Receber 5.800
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   03. (ESAF/MDIC/2012)
+ O lançamento contábil apropriado para registrar o recebimento de notas
+ promissórias no valor de R$ 400,00 com descontos de 8% é o que segue abaixo:
+
+ a) Diversos
+ a Títulos a Receber
+ Caixa                      368,00
+ Descontos Passivos    32,00 400,00
+
+  b) Caixa
+ a Diversos
+ a Títulos a Receber   368,00
+ a Descontos Ativos     32,00 400,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ c) Diversos
+a Caixa
+Títulos a Receber           368,00
+Descontos Passivos    32,00 400,00
+
+ d) Caixa
+a Diversos
+a Títulos a Receber   400,00
+a Descontos Ativos     32,00 432,00
+
+ e) Diversos
+a Caixa
+Títulos a Receber           400,00
+Descontos Passivos    32,00 432,00
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   04. (ESAF/MDIC/2012)
+ A Companhia das Lavras recebeu um título de 6.500,00 fora da data de vencimento
+ e, por isso, cobrou encargos financeiros de 6%. O recebimento ocorreu em cheque
+ do Banco do Brasil S/A.
+
+ Ao contabilizar o evento, a Companhia das Lavras deverá fazer o seguinte
+ lançamento:
+
+  a) Bancos conta Movimento a Diversos
+    a Títulos a Receber 6.500,00
+    a Receitas Financeiras 390,00 6.890,00
+
+  b) Caixa a Diversos
+    a Títulos a Receber 6.500,00
+    a Receitas Financeiras 390,00 6.890,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+  c) Diversos a Bancos conta Movimento
+    Títulos a Receber 6.500,00
+    Receitas Financeiras 390,00   6.890,00
+
+  d) Diversos a Títulos a Receber
+    Caixa 6.110,00
+    Receitas Financeiras 390,00        6.500,00
+
+  e) Bancos conta Movimento
+   a Títulos a Receber      6.890,00
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   05. (FGV/IMBEL/ 2021)
+Uma empresa vendeu, em março de X0, R$ 60.000 em estoque, para recebimento
+em 90 dias. A empresa descontou as duplicatas no banco, que cobrou juros de R$
+5.000 pela antecipação. Assinale a opção que indica os lançamentos contábeis a
+serem feitos pela empresa, no momento de desconto das duplicatas.
+
+  a) D - disponibilidades: R$ 60.000;
+     C- duplicatas a receber: R$ 60.000.
+
+  b) D - disponibilidades: R$ 55.000;
+    D - despesa financeira: R$ 5.000;
+    C - duplicatas a receber: R$ 60.000.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+  c) D - disponibilidades: R$ 55.000;
+     D- despesa financeira: R$ 5.000;
+     C - duplicatas descontadas: R$ 60.000.
+
+  d) D - disponibilidades: R$ 55.000;
+    D- juros a apropriar: R$ 5.000;
+    C- duplicata a receber: R$ 60.000.
+
+  e) D - disponibilidades: R$ 55.000;
+     D - juros a apropriar: R$ 5.000;
+     C- duplicatas descontadas: R$ 60.000.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   06. (SELECON/ 2021)
+Uma entidade antecipou recebíveis, em 02.02.2021, no valor de R$ 12.300,00 por
+um prazo de 13 meses. Sabe- -se que a instituição financeira cobrou R$ 30,00
+referente à tarifa administrativa e R$ 215,57 relativos aos juros. Dessa maneira, o
+contador desta entidade deverá realizar o seguinte registro contábil na data da
+operação, em R$:
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ a) D: Caixa 12.300,00 C: Duplicatas Descontadas 12.300,00
+
+ b) D: Caixa 12.054,43 D: Despesa com juros 215,57 D: Despesa com tarifa 30,00 C:
+ Duplicatas Descontadas 12.300,00
+
+ c) D: Caixa 12.054,43 D: Encargos Financeiros a apropriar 245,57 C: Duplicatas
+ Descontadas 12.300,00
+
+  d) D: Caixa 12.054,43 D: Encargos Financeiros a apropriar 245,57 C: Clientes
+ 12.300,00
+
+   e) D: Duplicatas Descontadas 12.300,00 C: Clientes 12.300,00
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   07. (SELECON/ 2021)
+Em 30/09, uma empresa comercial revendedora de mercadorias descontou, junto a
+um banco, uma duplicata no valor de R$ 8.000,00 com vencimento para 20/12. Na
+operação, o banco cobrou juros simples de R$ 1.000,00 e na data do vencimento da
+duplicata, o banco a devolveu à empresa. Como o pagamento não foi honrado pelo
+devedor, deve ser registrada na contabilidade da empresa emitente pela duplicata,
+o lançamento a débito na seguinte conta:
+
+  a) Duplicatas Descontadas
+
+  b) Perda Provável de Crédito a Receber
+
+  c) Duplicatas a Receber
+
+  d) Duplicatas a Pagar
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   08. (Instituto AOCP / 2021)
+Uma empresa, em 01/05/2020, necessitando de capital de giro, efetuou o desconto
+de duplicatas a receber no valor de R$ 80.000,00, cujo vencimento era 30/06/2020,
+à taxa de juros de 1,5% a.m. (juros simples). As despesas bancárias foram de R$
+5.000,00.
+
+Sabe-se que, na data de 30/06/2020, o cliente não pagou a duplicata.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+ Nesse caso, a empresa, deverá apresentar o seguinte lançamento:
+
+   a) D – Duplicatas Descontadas R$ 82.400,00 C – Bancos R$ 82.400,00
+
+   b) D – Duplicatas Descontadas R$ 75.000,00 C – Cliente R$ 75.000,00
+
+   c) D – Duplicatas Descontadas R$ 80.000,00 C – Bancos R$ 80.000,00
+
+   d) D – Duplicatas Descontadas R$ 87.400,00 C – Bancos R$ 87.400,00
+
+   e) D – Duplicatas Descontadas R$ 72.600,00 C – Cliente R$ 72.600,00
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   09. (VUNESP/Pref F Vasconcelos/ 2021)
+Uma entidade antecipou recebíveis, em 02.02.2021, no valor de R$ 12.300,00 por um
+prazo de 13 meses. Sabe- -se que a instituição financeira cobrou R$ 30,00 referente à
+tarifa administrativa e R$ 215,57 relativos aos juros. Dessa maneira, o contador desta
+entidade deverá realizar o seguinte registro contábil na data da operação, em R$:
+
+ a) D: Caixa 12.300,00 C: Duplicatas Descontadas 12.300,00
+b) D: Caixa 12.054,43 D: Despesa com juros 215,57 D: Despesa com tarifa 30,00 C:
+Duplicatas Descontadas 12.300,00
+c) D: Caixa 12.054,43 D: Encargos Financeiros a apropriar 245,57 C: Duplicatas
+Descontadas 12.300,00
+d) D: Caixa 12.054,43 D: Encargos Financeiros a apropriar 245,57 C: Clientes 12.300,00
+e) D: Duplicatas Descontadas 12.300,00 C: Clientes 12.300,00
+
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   10. (VUNESP/VALIPREV/ 2020)
+A SSS S.A. contratou, junto a uma instituição financeira, antecipação de recebíveis no
+valor de R$ 500.000,00 pelo prazo de 12 meses, em 15/07/2019. Sabe-se que a
+instituição financeira depositou, na conta Bancos da SSS S.A, o valor de R$ 480.540,00.
+Neste sentido, assinale o item que contém o correto registro dessa transação
+econômica em 15/07/2019, em R$.
+
+  a) D: Bancos – 480.540,00
+     D: Despesa com juros e captação – 19.460,00
+     C: Duplicatas descontadas – 500.000,00
+
+  b) D: Bancos – 480.540,00
+    D: Encargos a apropriar – 19.460,00
+    C: Duplicatas descontadas – 500.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+  c) D: Bancos – 480.540,00
+     D: Encargos a apropriar – 19.460,00
+     C: Clientes – 500.000,00
+
+  d) D: Bancos – 480.540,00
+    C: Empréstimos – 480.540,00
+
+  e) D: Bancos – 500.000,00
+     C: Empréstimos – 500.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                                   
+
+
+---
+
+   11. (VUNESP/EBSERH/ 2020)
+Uma entidade comercial contratou antecipação de recebíveis em uma instituição
+financeira em 02.01.2019 com prazo de 8 meses. Sabe-se que foram antecipados R$
+200.000,00 em duplicatas e que a instituição financeira depositou, na conta corrente da
+entidade, o valor de R$193.767,20.
+
+Assinale a alternativa que apresenta corretamente o registro contábil inicial dessa
+operação na entidade comercial, em R$.
+
+  a) D: Bancos – 200.000,00
+     C: Duplicatas descontadas – 200.000,00
+
+  b) D: Bancos – 193.767,20
+    C: Clientes – 193.767,20
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ c) D: Bancos – 193.767,20
+    D: Despesa com juros – 6.232,80
+    C: Clientes – 200.000,00
+
+  d) D: Bancos – 193.767,20
+    D: Despesa com juros – 6.232,80
+    C: Duplicatas descontadas – 200.000,00
+
+  e) D: Bancos – 193.767,20
+     D: Encargos financeiros a apropriar – 6.232,80
+     C: Duplicatas descontadas – 200.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                                   
+
+
+---
+
+   12. (VUNESP/AFTM-Campinas/2019)
+O lançamento contábil a ser efetuado pela sociedade empresária quando um banco lhe
+devolve duplicatas descontadas de sua emissão e que não foram pagas pelos sacados,
+é:
+ a) D Duplicatas Descontadas C Bancos conta Movimento
+ b) D Duplicatas Descontadas C Duplicatas a Receber
+ c) D Duplicatas a Receber C Bancos conta Movimento
+ d) D Duplicatas Descontadas C Duplicatas a Receber
+ e) D Bancos conta Movimento C Duplicatas Descontadas
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   13. (IADES/CRF/RO/2019)
+Na contabilidade brasileira, em decorrência do processo de convergência para as
+normas internacionais, passou a prevalecer o princípio da essência sob a forma, isto é, o
+registro deve ter base na realidade econômica da transação, independentemente da
+forma jurídica. Com base nessa informação, as duplicatas descontadas classificam-se
+ a) no passivo.
+ b) no ativo circulante.
+ c) nas contas de compensação.
+ d) nas contas de resultado.
+ e) na conta redutora do ativo circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   14. (FGV/SEFIN-RO/ 2018)
+Uma sociedade empresária varejista vende um produto por R$ 100.000, emitindo uma
+duplicata com prazo de 30 dias.
+Por necessitar de recursos, a empresa desconta a duplicata em uma instituição
+financeira, recebendo R$ 98.000.
+
+Assinale a opção que indica o procedimento correto da empresa em relação ao
+desconto da duplicata.
+a) Baixar a duplicata de seu ativo por R$ 100.000.
+b) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma despesa de
+R$2.000.
+c) Baixar a duplicata de seu ativo por R$ 98.000 e reconhecer uma perda de R$2.000.
+d) Manter a duplicata em seu ativo por R$ 100.000.
+e) Manter a duplicata em seu ativo por R$ 98.000 e reconhecer uma despesa de R$
+2.000.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   15. (Instituto AOCP/ITEP/ 2019)
+Uma empresa que possui Duplicatas a Receber registradas em seu Ativo Circulante
+realiza um desconto de duplicatas em um determinado montante.
+
+Considerando que a operação de desconto foi realizada com duplicatas que tinham
+vencimentos futuros (120 dias), o valor dos juros descontados a serem reconhecidos
+no ato da operação devem ser contabilizados como
+
+a) despesas financeiras no Resultado.
+b) conta redutora das duplicatas descontadas no Ativo.
+c) conta redutora das Receitas, no Resultado.
+d) despesa antecipada, no Ativo Circulante.
+e) conta redutora das duplicatas descontadas no Passivo.
+
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   16. (FGV/MPE-AL/2018)
+Em 10/01/2018, uma entidade realizou uma venda por R$ 120, para recebimento em
+60 dias. Na data, a entidade efetuou a operação de desconto bancário por R$ 100.
+
+Assinale a opção que indica a correta contabilização da operação na data do
+desconto.
+
+a)
+D – Caixa: 100;
+D - Despesa operacional: 20;
+C - Duplicatas descontadas: 120.
+b)
+D – Caixa: 100;
+D - Despesa financeira: 20;
+C - Duplicatas descontadas: 120.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+.
+ c)
+D – Caixa: 100;
+D - Despesa financeira a apropriar: 20;
+C - Duplicatas descontadas: 120.
+ d)
+D – Clientes: 100;
+D - Redutora da Receita: 20;
+C – Receita: 120.
+ e)
+D – Clientes: 100;
+C – Receita: 100.
+
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   17. (CEPERJ/ 2018)
+A Companhia Comercial S.A., no mês de março, realizou, junto ao Banco Alvorada,
+desconto de duplicatas no montante de R$ 5.000,00. Em 15 de junho, data de
+vencimento do título, recebeu aviso do banco de que o cliente havia efetuado o
+pagamento.
+  Para registro dessa operação, foi feito, na contabilidade da Companhia, o seguinte
+lançamento contábil:
+
+ a) Banco c/Movimento a Duplicatas Descontadas 5.000,00
+b) Duplicatas Descontadas a Bancos c/Movimento 5.000,00
+c) Duplicatas a Receber a Duplicatas Descontadas 5.000,00
+d) Duplicatas Descontadas a Duplicatas a Receber 5.000,00
+e) Bancos C/Movimento a Duplicatas a Receber 5.000,00
+
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   18. (FGV/CODEBA/2016)
+Assinale a opção que apresenta um evento em que não se deve baixar a conta de
+duplicatas a receber.
+
+  a) Devolução de mercadorias.
+  b) Descontos comerciais concedidos.
+  c) Abatimentos concedidos.
+  d) Reconhecimento de perdas.
+  e) Desconto de duplicatas.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   19. (CESPE/SUFRAMA/ 2014)
+Julgue o item subsequente, relativo à contabilização de operações contábeis
+diversas.
+
+O desconto de uma duplicata em banco, além de gerar um débito em caixa ou
+equivalentes de caixa e um crédito em duplicatas descontadas, gera um débito em
+despesas do período na demonstração do resultado do exercício (DRE) relativo aos
+juros pagos na data da liberação do crédito.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   20. (FUNDATEC/ 2012)
+As duplicatas são títulos emitidos pelas empresas nas operações de venda de
+mercadorias a prazo. Uma operação que a empresa pode realizar é o desconto de
+duplicata. Nesse sentido, assinale a alternativa INCORRETA quanto a essa operação.
+
+a) Implica a transferência da posse e da propriedade do título para o banco, sendo
+que o endosso de uma duplicata não exime a empresa de responsabilidade de
+pagar o título, na eventualidade de não ser liquidada pelo devedor.
+
+b) O saldo da conta de duplicatas descontadas ou títulos descontados reflete a
+parcela daquelas duplicatas descontadas pela empresa.
+
+ c) Quando uma duplicata descontada é liquidada pelo devedor junto ao banco,
+este envia uma comunicação de tal fato à empresa.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ d) Com a implantação das novas normas de contabilidade, para representar a
+essência econômica da operação, essa conta de títulos descontados deve aparecer
+normalmente no passivo juntamente com as demais dívidas.
+
+ e) Com a aplicação das Normas Internacionais de Contabilidade, o critério que
+predominará para classificação no registro do desconto de duplicatas é como conta
+retificadora do ativo.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   21. (ESAF/ATRFB/ 2000)
+Se uma empresa mantém todas as duplicatas de sua emissão em determinado
+banco, em operação de desconto, os seus clientes serão creditados quando a(o)
+
+
+  a) duplicata for descontada no banco
+  b) duplicata for enviada ao banco para desconto
+  c) banco acusar o recebimento da duplicata
+  d) banco emitir o aviso de crédito
+  e) cliente pagar a duplicata no banco
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   22. (FADESP/MPE-PA/ 2012)
+O agrupamento de contas representativas dos clientes, abaixo destacado, possui
+somente uma conta cujo saldo é de natureza devedora. Assinale-a.
+
+  a) Serviços executados a faturar.
+
+  b) Ajuste a valor presente.
+
+  c) Faturamento para entrega futura.
+
+  d) Perdas estimadas em créditos de liquidação duvidosa.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   23. (FGV/ALERO/ 2018)
+Em 10/04/2018, uma loja realizou uma venda no valor de R$ 20.000, quando houve
+o faturamento. As mercadorias vendidas foram entregues no mês de maio.
+
+Assinale a opção que indica os lançamentos corretos feitos na loja, no mês de abril.
+A) D- contas a receber C- receita: 20.000,00
+B) D- contas a receber C- receita a apropriar: 20.000,00
+C) D- contas a receber C- faturamento para entrega futura: 20.000,00
+D) D- faturamento para entrega futura C- receita: 20.000,00
+E) D- faturamento para entrega futura C- receita a apropriar: 20.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   24. (IBFC/PCRJ/ 2013)
+Pode-se afirmar em relação aos faturamentos antecipados, por conta de futuros
+fornecimentos, que o procedimento contábil correto deve considerar que esses
+eventos:
+ a) Geram direitos, por isso devem ser contabilizados no Contas a Receber.
+ b) Geram direitos, e por isso são contabilizados em Conta Redutora.
+ c) Não geram direitos, e por isso não devem ser contabilizados.
+ d) Não geram direitos, e por isso são contabilizados em Conta Redutora.
+ e) Geram direitos contratuais, mas não geram qualquer contabilização.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+  25. (IBFC/PC-RJ/2013)
+O Balancete de 31/7/2012 da empresa Alfa, apresentava os seguintes saldos de
+contas:
+
+ Pode-se afirmar que o total do Ativo Circulante a ser evidenciado no Balanço
+ Patrimonial nessa data é de:
+   a) $ 76.000,00.
+   b) $ 80.000,00.
+   c) $ 82.000,00.
+   d) $ 77.000,00.
+   e)Silvio$Sande79.000,00.
+Contabilidade
+Prof.
+                           
+
+
+---
+
+   26. (S UFG - ATM/Pref GYN/2016)
+Considere a seguinte composição do patrimônio da empresa Beta Ltda. para
+responder à questão.
+
+O valor em R$ correspondente aos créditos com terceiros é:
+a) 44.000,00
+b) 41.800,00
+c) 30.000,00
+d) 14.000,00
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   27. (CETPS/UFPA/ 2019)
+Uma determinada entidade apresentou os seguintes elementos patrimoniais e
+respectivos saldos:
+Notas Promissórias emitidas pela entidade = R$ 1.200,00
+Notas Promissórias emitidas por terceiros = R$ 2.100,00
+Duplicatas emitidas pela entidade = R$ 3.100,00
+Duplicatas aceitas pela entidade = R$ 1.300,00
+Com base nesse elenco de contas, é correto afirmar que essa entidade apresenta
+
+a) Débitos no valor de R$ 3.300,00
+b) Créditos no valor de R$ 4.300,00
+c) Débitos no valor de R$ 3.400,00
+d) Créditos no valor de R$ 4.400,00
+e) Débitos no valor de R$ 2.500,00
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   28. (ESAF/ATRFB/ 2002)
+Observe o seguinte lançamento, constante do Diário da Firma Violetas - ME, do qual foi,
+cuidadosa e didaticamente, suprimido o histórico para fins de concurso.
+Duplicatas Descontadas a Diversos valor que se registra em decorrência .........., a saber:
+a Bancos c/ Movimento .................................... R$ 1.300,00
+a Duplicatas a Receber .................................... R$ 2.700,00 R$ 4.000,00
+
+O histórico suprimido no lançamento supra descrito deverá descrever a
+a) quitação de desconto bancário, com devolução de duplicatas não recebidas.
+b) quitação de desconto bancário, com liquidação de duplicatas recebidas.
+c) contratação de desconto bancário, com entrega de duplicatas, recebendo parte do
+dinheiro em conta corrente.
+d) quitação de desconto bancário, com devolução de duplicatas não recebidas e
+liquidação de duplicatas recebidas.
+e) quitação de desconto bancário, com liquidação de duplicatas recebidas e devolução
+de duplicatas não recebidas.
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   29. (ESAF/AFRFB/2000)
+A firma Duplititus opera com vendas a prazo alternando a cobrança em carteira e em
+bancos, mediante desconto de duplicatas. Em primeiro de abril mantinha as
+duplicatas de sua emissão nos 03, 05 e 08 em carteira de cobrança e as de nos 04,
+06 e 07, descontadas no banco. Cada uma dessas letras tinha valor de face de R$
+60,00, exceto a no 07, cujo valor era R$ 70,00.
+
+Durante o mês de abril ocorreram os seguintes fatos:
+- vendas a prazo com emissão das duplicatas nos 09, 10 e 11 (3x50): R$ 150,00
+- vendas a vista mediante notas fiscais: R$ 200,00
+- desconto bancário das duplicatas nos 09 e 10; R$ 100,00
+- recebimento em carteira das duplicatas nos 03 e 05; R$ 120,00
+- devolução pelo banco da duplicata no 04, sem cobrar; R$ 60,00
+- recebimento pelo banco da duplicata no 07.R$ 70,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+Com essas informações podemos concluir que, após a contabilização, o saldo final
+das contas Duplicatas a Receber e Duplicatas Descontadas será, respectivamente,
+de:
+
+a) R$ 160,00 e R$ 330,00
+ b) R$ 330,00 e R$ 160,00
+ c) R$ 140,00 e R$ 160,00
+ d) R$ 200,00 e R$ 220,00
+ e) R$ 330,00 e R$ 220,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   30. (CEPREJ/RIO PREVIDÊNCIA/ 2014)
+Em 01/09/2013, o saldo da conta Duplicatas a Receber de uma determinada
+empresa comercial era de R$ 108.000,00. Durante o mês, foram registradas as
+seguintes operações:
+
+ - venda de mercadorias no montante de R$ 1.170.000,00, sendo que 60% foram
+realizadas à vista;
+ - recebimento de clientes de vendas realizadas nos meses anteriores no valor de R$
+92.000,00;
+ - desconto de duplicatas no Banco Comercial no montante de R$ 240.000,00;
+ - quitação pelos clientes das duplicatas descontadas anteriormente nas datas de
+vencimento, no montante de R$ 190.000,00;
+ - devolução do Banco das duplicatas descontadas anteriormente, não quitadas
+pelos clientes.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+Com esses dados, pode-se afirmar que o saldo da conta Duplicatas a Receber, em
+30/09/2013 era de:
+
+  a) R$ 336.000,00
+
+  b) R$ 294.000,00
+
+  c) R$ 386.000,00
+
+  d) R$ 244.000,00
+
+  e) R$ 528.000,00
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   31. (CEPREJ/RIO PREVIDÊNCIA/ 2014)
+No mês de janeiro de 2011, determinada empresa registrou os seguintes fatos:
+
+Vendas à vista ...................................................................... R$ 350.000,00
+Vendas a prazo ................................................................... R$ 700.000,00
+Recebimento de duplicata ...................................................... R$ 140.000,00
+Duplicata descontada devolvida pelo banco por não recebimento.... R$ 52.500,00
+Desconto de duplicata em banco ............................................ R$ 437.500,00
+Aviso de recebimento de duplicata descontada pelo banco ..............R$ 262.500,00
+
+Contabilidade
+Prof. Silvio Sande
+                                    
+
+
+---
+
+Sabendo-se que o saldo inicial das contas Duplicatas a Receber e Duplicatas
+Descontadas era respectivamente de R$ 175.000,00 e R$ 105.000,00, pode-se
+afirmar que o saldo final dessas contas era respectivamente de:
+ a) R$ 245.000,00 e R$ 105.000,00
+ b) R$ 420.000,00 e R$ 280.000,00
+ c) R$ 472.500,00 e R$ 227.500,00
+ d) R$ 507.500,00 e R$ 280.000,00
+ e) R$ 735.000,00 e R$ 542.500,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   32. (CEBRASPE/FUB/ 2018)
+Julgue o item seguinte, relativo a conceitos básicos da contabilidade.
+
+A retenção ou não de riscos significativos é que determina o tratamento contábil
+distinto dado a um desconto de duplicata em um banco e em uma empresa de
+factoring.
+
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   33. (CEBRASPE/MCOM/ 2013)
+Com relação aos componentes patrimoniais, suas variações e sua representação
+contábil, julgue o item seguinte.
+
+ O tratamento contábil diferenciado dado a uma duplicata descontada em uma
+empresa de factoring, em relação a uma duplicata descontada em banco, justifica-se
+em função da questão da transferência de riscos e benefícios.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+            Perdas Esperadas com crédito de
+            Liquidação duvidosa.
+
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   Perdas Esperadas com Créditos de Liquidação Duvidosa
+   PECLD
+ A conta perdas esperadas com créditos de liquidação duvidosa é retificadora da
+ conta clientes/duplicatas a receber.
+
+ Um ativo representa o potencial de geração de caixa, logo qualquer ativo que tiver
+ com um valor maior que espera que gere de benefícios deve ser reduzido a esse
+ valor.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e constitui PECLD de 3%.
+
+Situação 1 - Ficou sem receber exatamente o valor esperado;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e constitui PECLD de 3%.
+
+Situação 1 - Ficou sem receber R$ 5.000;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+Uma empresa vendeu R$ 100.000,00 a prazo, e PECLD de 3%.
+
+Situação 1 - Ficou sem receber R$ 2.000;
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   PECLD - Exemplo
+No exercício seguinte a empresa terminou o exercício com duplicatas a Receber no
+valor de R$ 120.000 e deve constituir uma PECLD no valor de R$ 8.000
+
+                     Complementação                                        Reversão
+
+Contabilidade
+Prof. Silvio Sande
+                                      
+
+
+---
+
+   Recuperação de Créditos baixados
+Um Cliente que estava inadimplente e consequentemente a empresa deu
+baixa nas duplicatas a receber correspondentes ao mesmo, melhorou de
+situação e compareceu a empresa para quitar uma duplicata no valor de R$
+1.000.
+
+Contabilidade
+Prof. Silvio Sande
+                          
+
+
+---
+
+OBRIGADO
+                                          Prof. Silvio Sande
+
+     
+
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+                        Exercícios
+            Perdas Esperadas com crédito de
+            Liquidação duvidosa.
+
+                                                           Prof. Silvio Sande
+
+
+Prof. Silvio Sande
+                      
+
+
+---
+
+   01. (FGV/PERITO/PC-AM/2022)
+No ano de X0, uma entidade reconheceu receita de vendas de R$600.000. Do valor,
+20% é previsto ser recebido no primeiro trimestre de X1. A entidade estima perdas
+com créditos de liquidação duvidosa de 4%.
+
+Em janeiro de X1, a entidade decidiu realizar apenas vendas à vista. No mês, ela
+recebeu R$116.000 de seus antigos clientes.
+  Assinale a opção que indica a contabilização referente à inadimplência na
+Demonstração do Resultado do Exercício da entidade, em 31/01/X1.
+
+a) Reconhecimento de dedução da receita de R$4.000.
+b) Reconhecimento de despesa operacional de R$R$4.000.
+c) Reconhecimento de receita operacional de R$800.
+d) Reconhecimento de receita de vendas de R$800.
+e) Reconhecimento de reversão das perdas estimadas de R$800.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   02. (FGV/IMBEL/2021)
+Uma empresa atacadista apresentava R$ 100.000 em estoques em 02/01/X0. No
+mês, todo o estoque foi vendido por R$ 300.000, sendo que 20% do valor foi
+recebido no momento da venda e, o restante, deverá ser recebido em 90 dias. A
+empresa estima inadimplência de 3%. Assinale a opção que indica, na
+Demonstração do Resultado do Exercício, em 31/01/X0, a contabilização e o valor
+da conta da despesa com perdas estimadas com crédito de liquidação duvidosa.
+
+a) Redutora de vendas - R$ 9.000.
+b) Redutora de vendas - R$ 7.200.
+c) Despesa operacional - R$ 9.000.
+d) Despesa operacional - R$ 7.200.
+e) Despesa financeira - R$ 9.000.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   03. (FCM/CEFETMINAS/2021)
+É correto afirmar que uma determinada empresa, ao reconhecer perda estimada
+com crédito de liquidação duvidosa,
+
+  a) aumenta o ativo circulante e reduz o patrimônio líquido.
+
+  b) reduz o caixa e equivalente de caixa e diminui o patrimônio líquido.
+
+  c) reduz o caixa e equivalente de caixa e aumenta o patrimônio líquido.
+
+  d) reduz o ativo circulante, porém sem afetar o caixa e equivalente de caixa.
+
+ e) aumenta o lucro antes das receitas e despesas financeiras, porém sem afetar o
+caixa e equivalente de caixa.
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+   04. (CESGRANRIO/TRANSPETRO/2018)
+A Comercial Q informou que, analisada a situação da carteira de Duplicatas a
+Receber e sua experiência de inadimplência, realizou as provisões consideradas
+necessárias, resultando no saldo da conta Perdas Estimadas em Créditos de
+Liquidação Duvidosa (Ativo), no Balanço de 31/dez/2016, de R$ 150.000,00.
+
+Informou, ainda, que, em 2/fev/2017, uma Duplicata a Receber de R$200.000,00,
+depois de esgotadas todas as tentativas necessárias e indispensáveis para o seu
+recebimento, foi considerada incobrável.
+
+Em decorrência, em 2/fev/2017, a Comercial Q fez o registro contábil da baixa dessa
+duplicata considerada incobrável, como segue:
+a) D: Perdas no Recebimento de Créditos (Resultado) 150.000,00
+  C: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 150.000,00
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+  b) D: Duplicatas a Receber (Ativo) 150.000,00
+    D: Perdas no Recebimento de Crédito (Resultado) 50.000,00
+    C: Crédito de Clientes a Recuperar (Ativo) 200.000,00
+
+  c) D: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 150.000,00
+     D: Perdas no Recebimento de Créditos (Resultado) 50.000,00
+     C: Duplicatas a Receber (Ativo) 200.000,00
+
+  d) D: Perdas no Recebimento de Créditos (Resultado) 200.000,00
+    C: Duplicatas a Receber (Ativo) 200.000,00
+
+  e) D: Perdas no Recebimento de Créditos (Resultado) 200.000,00
+     C: Perdas Estimadas em Créditos de Liquidação Duvidosa (Ativo) 200.000,00
+Contabilidade
+Prof. Silvio Sande
+                               
+
+
+---
+
+   05. (QUADRIX/CRO-MT/2018)
+Com base em conceitos e aplicações da Contabilidade Geral, julgue o item.
+
+Na hipótese de recuperação de um crédito considerado como incobrável em
+exercício já encerrado, o lançamento indicado será o seguinte. D Caixa (Bancos) C
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   06. (FGV/ALBA/ 2014)
+O responsável pela contabilidade de uma empresa incorreu em um erro no
+reconhecimento da provisão para créditos de liquidação duvidosa, não
+reconhecendo o percentual estimado para a inadimplência na conta Clientes.
+
+Antes que qualquer ajuste de regularização seja efetuado, esse erro gera, no
+patrimônio da empresa, o seguinte efeito:
+
+a) subavaliação do ativo e do patrimônio líquido.
+b) subavaliação do passivo e superavaliação do patrimônio líquido.
+c) subavaliação do ativo e do passivo.
+d) superavaliação do ativo e do patrimônio líquido.
+e) superavaliação do ativo e do passivo.
+
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   07. (CEBRASPE/TRE-MS/ 2013)
+No mês de outubro, determinada empresa efetuou um lançamento contábil
+mediante o qual debitou a conta provisão para crédito de liquidação provisória
+(ativo) e creditou duplicatas a receber (ativo).
+
+Na situação acima descrita, o lançamento contábil decorreu
+
+a) da reversão da provisão de crédito de liquidação duvidosa constituída
+anteriormente.
+b) do recebimento de duplicatas que haviam sido consideradas incobráveis no
+exercício anterior.
+c) da constituição de provisão para crédito de liquidação duvidosa referente a
+vendas realizadas a prazo no mês.
+d) da baixa de duplicatas consideradas incobráveis.
+e) do reconhecimento de despesa com possíveis perdas de valores a receber.
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   08. (CEBRASPE/SESA-ES/2011)
+Julgue o item seguinte, relativo a fatos contábeis e respectivas variações
+patrimoniais, a contas patrimoniais e de resultados e a teorias, funções e estrutura
+das contas.
+
+Suponha que determinada empresa utilize duas contas para registrar as perdas com
+vendas a prazo: provisão para crédito de liquidação duvidosa e perdas incorridas.
+Nesse caso, se a empresa baixar um título considerado incobrável e houver saldo na
+conta retificadora do ativo, não é necessário fazer nenhum lançamento em conta de
+resultado.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   09. (CEBRASPE/TRE-AM/2010)
+Em setembro de X9 a empresa Xandô recebeu R$ 800,00 de um cliente que havia
+sido considerado incobrável no exercício anterior (X8). Considerando que existia
+saldo de R$ 2.000,00 na conta Provisão para Crédito de Liquidação Duvidosa (PDD),
+no momento do recebimento, a empresa deve
+
+  a) debitar PDD e creditar Reversão de PDD.
+  b) debitar Caixa e creditar Recuperação de Crédito.
+  c) debitar Caixa e creditar PDD.
+  d) debitar Caixa e creditar Reversão da despesa com PDD.
+  e) debitar PDD e creditar Recuperação de crédito.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   10. (CEBRASPE/FUNPRESP/2022)
+Tendo em vista que os usuários das demonstrações contábeis precisam de
+informações tanto sobre a posição financeira da entidade quanto de seu
+desempenho financeiro, julgue o item a seguir.
+
+Ao se contabilizar a provisão para créditos de liquidação duvidosa, aumenta o valor
+das despesas da demonstração do resultado do exercício.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   11. (CEBRASPE/APF/PF/2021)
+Considere que determinada empresa possua, entre seus ativos, alguns recebíveis
+oriundos de vendas a prazo, cujo recebimento não é considerado líquido e certo.
+Diante dessa situação hipotética, julgue o item a seguir.
+
+O procedimento contábil indicado para o caso é avaliar tais recebíveis pelo seu valor
+líquido de realização, efetuando-se os ajustes contábeis necessários para que o valor
+do patrimônio da empresa passe a refletir as perdas estimadas relacionadas aos
+recebíveis cuja liquidação tenha caráter duvidoso.
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+   12. (CEBRASPE/APF/PF/2021)
+Considere que determinada empresa possua, entre seus ativos, alguns recebíveis
+oriundos de vendas a prazo, cujo recebimento não é considerado líquido e certo.
+Diante dessa situação hipotética, julgue o item a seguir.
+
+As perdas estimadas relacionadas a recebíveis de liquidação duvidosa devem ser
+reconhecidas como despesas, em contrapartida à própria conta de ativo que
+representa esses recebíveis.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   13 (CEBRASPE/PC-DF/2021)
+No que se refere ao registro contábil e aos seus reflexos nos componentes da
+demonstração do resultado e do balanço patrimonial das empresas, julgue o item a
+seguir.
+
+A provisão para crédito de liquidação duvidosa de curto prazo é responsável pela
+evidenciação da expectativa da empresa em receber de seus clientes. A reversão do
+valor registrado na conta de provisão proporcionará um aumento no resultado do
+exercício e um aumento no saldo do ativo circulante.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   14. (FCC/TRT11/ 2017)
+Em 31/12/2015, a empresa ATP S.A. possuía R$ 520.000,00 em duplicatas a receber
+de clientes e saldo na conta Estimativa de Perdas com Créditos de Liquidação
+Duvidosa (EPCLD) no valor de R$ 20.800,00. Em fevereiro de 2016, o cliente Ônix,
+que devia R$ 22.000,00, se tornou incobrável. Ao registrar este evento na
+contabilidade, a empresa ATP S.A.
+
+a) debitou o valor de R$ 22.000,00 na conta patrimonial Duplicatas a Receber.
+b) debitou o valor de R$ 20.800,00 na conta patrimonial EPCLD.
+c) debitou o valor de R$ 1.200,00 na conta patrimonial Ajuste de Avaliação
+Patrimonial.
+d) creditou o valor de R$ 1.200,00 na conta de resultado Perda com Clientes.
+e) creditou o valor de R$ 20.800,00 na conta de resultado Reversão de EPCLD.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   15. (FCC/DPE-RS/Contabilidade/2017)
+A empresa Só Luxo S.A. possuía R$ 100.000,00 na conta de Clientes e uma
+estimativa de perda com créditos de liquidação duvidosa (EPCLD) no valor de
+R$ 10.000,00 no Balanço Patrimonial de 31/12/2016. Em março de 2017, o
+cliente A, que devia R$ 9.000,00, se tornou incobrável.
+Ao registrar este evento na contabilidade, a empresa Só Luxo S.A.
+a) reconheceu uma Perda com Clientes, no resultado, no valor de R$ 9.000,00.
+b) diminuiu em R$ 9.000,00 o total do Ativo.
+c) aumentou em R$ 9.000,00 o Passivo.
+d) diminuiu em R$ 1.000,00 o Patrimônio Líquido.
+e) diminuiu o saldo da EPCLD em R$ 9.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                           
+
+
+---
+
+   16. (FCC/ARTE-SP/ 2017)
+A empresa Só Luxo S.A. possuía R$ 100.000,00 na conta de Clientes e uma
+estimativa de perda com créditos de liquidação duvidosa (EPCLD) no valor de R$
+10.000,00 no Balanço Patrimonial de 31/12/2016. Em março de 2017, o cliente A,
+que devia R$ 9.000,00, se tornou incobrável. Ao registrar este evento na
+contabilidade, a empresa Só Luxo S.A.
+ a) reconheceu uma Perda com Clientes, no resultado, no valor de R$ 9.000,00.
+ b) diminuiu em R$ 9.000,00 o total do Ativo.
+ c) aumentou em R$ 9.000,00 o Passivo.
+ d) diminuiu em R$ 1.000,00 o Patrimônio Líquido.
+ e) diminuiu o saldo da EPCLD em R$ 9.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   17. (FCC/TRE-RO/ 2013)
+Considere os seguintes dados contábeis da Cia. DZB:
+
+Duplicatas a Receber em 31/12/2012 ............................. R$ 200.000,00
+Provisão para Crédito de Liquidação Duvidosa (PCLD) em 31/12/2012 .. R$ 4.000,00
+
+Em janeiro de 2013, um cliente considerado incobrável em outubro de 2012 pagou
+uma duplicata no valor de R$ 3.000,00. O lançamento contábil referente ao
+pagamento do cliente gerou um
+a) débito em PCLD.
+b) crédito em PCLD.
+c) crédito em Duplicatas a Receber.
+d) crédito em Receita de Vendas.
+e) crédito em Outras Receitas Operacionais.
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   18. (FCC/SEFAZ-PI/ 2015)
+A Cia. Vende a Prazo S.A. apresentava em seu Balanço Patrimonial de 31/12/2013 os
+seguintes saldos relativos às suas vendas a prazo:
+
+− Duplicatas a Receber de Clientes: R$ 500.000,00
+− Estimativa para Perdas com Créditos de Liquidação Duvidosa (EPCLD): R$
+25.000,00
+
+Em fevereiro de 2014, a Cia. Vende a Prazo S.A. foi informada de que um
+importante cliente não tinha condições de saldar a sua dívida no valor de R$
+20.000,00 que foi considerada incobrável.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+Ao reconhecer este evento, a Cia. Vende a Prazo S.A.
+
+  a) reduziu o saldo total do Ativo.
+
+  b) reconheceu uma Perda com Clientes no resultado do período.
+
+  c) creditou a conta EPCLD e debitou o Resultado do período.
+
+  d) reduziu o Patrimônio Líquido.
+
+  e) reduziu o saldo de Duplicatas a Receber de Clientes.
+
+Contabilidade
+Prof. Silvio Sande
+                                 
+
+
+---
+
+   19. (FCC/SEFAZ-SC/2018)
+A empresa Solaris possuía as seguintes contas com os respectivos saldos em
+31/12/2017: Duplicatas a Receber de Clientes: R$ 600.000,00; Estimativa de Perdas
+com Créditos de Liquidação Duvidosa: R$ 10.000,00; Caixa e Equivalentes de Caixa:
+R$ 110.000,00; Contas a Pagar: R$ 150.000,00 e Patrimônio Líquido: R$ 550.000,00.
+No entanto, antes do encerramento do período, a empresa realizou as seguintes
+transações em 31/12/2017:
+
+− Desconto de uma duplicata de R$ 150.000,00, 30 dias antes do vencimento, com
+taxa de desconto comercial de 7% ao mês.
+− Reconhecimento da estimativa de perdas com créditos de liquidação duvidosa. A
+empresa possui conhecimento de que 5% dos seus clientes nunca pagam suas
+dívidas.
+
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+   Ao elaborar o balanço patrimonial de 31/12/2017, o total do ativo e o valor do
+   passivo (capital de terceiros) da empresa Solaris eram, respectivamente, em reais,
+
+    a) 819.500,00 e 289.500,00.
+
+    b) 680.000,00 e 150.000,00.
+
+    c) 819.500,00 e 269.500,00.
+
+    d) 809.500,00 e 289.500,00.
+
+    e) 809.500,00 e 300.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                                  
+
+
+---
+
+   20. (IBFC/MGS/2015)
+Uma sociedade empresária apresentou os seguintes saldos no Ativo Circulante em
+30/09/X4:
+
+Contas a receber                                         R$ 180.000,00
+(-) Provisão para Devedores Duvidosos                      R$ 15.000,00
+
+Em 10/X4, foi recebido o valor de R$ 164.000,00, proveniente do saldo existente em
+30/09/X4, e a diferença foi considerada incobrável, sendo que não existe
+possibilidades de recebimento deste valor.
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+Com relação aos efeitos desta movimentação, pode-se afirmar que:
+ a) Deverá ser reconhecida, adicionalmente, uma perda complementar no valor de
+R$ 16.000,00.
+b) Deverá ser reconhecido um desconto financeiro no valor de R$ 16.000,00.
+c) Deverá ser reconhecido um abatimento no valor de R$ 1.000,00.
+ d) Deverá ser reconhecida, adicionalmente, uma perda complementar no valor de
+R$ 1.000,00.
+
+Contabilidade
+Prof. Silvio Sande
+                            
+
+
+---
+
+   21. (FCC/TCE-RS/2014)
+A empresa Egito & Lima S.A. estima as perdas com créditos de liquidação duvidosa
+com base no saldo a receber das vendas realizadas a prazo. Nos últimos cinco anos,
+o percentual aplicado sobre o saldo a receber foi de 8%.
+
+Os saldos de algumas contas em 31/12/2012 eram os seguintes:
+− Disponível: R$ 20.000,00
+− Clientes: R$ 200.000,00
+− Estimativa de Perdas com Créditos de Liquidação Duvidosa (EPCLD): R$ 16.000,00
+− Estoques: R$ 950.000,00
+
+Contabilidade
+Prof. Silvio Sande
+                              
+
+
+---
+
+ Durante o exercício de 2013, ocorreram os seguintes eventos:
+
+ − A Dinamarca Ltda. decretou falência e sua dívida de R$ 40.000,00 teve de ser
+ considerada incobrável.
+ − O valor de R$ 24.000,00 devido por um cliente, que havia sido considerado
+ incobrável há mais de três anos, foi recebido durante o ano.
+ − Por um grave problema financeiro, a Suécia Ltda. teve de ser considerada incobrável.
+ Sua dívida era de R$ 10.000,00.
+ − As vendas totais em 2013 foram de R$ 400.000,00, das quais, 20% foram realizadas a
+ prazo e o custo das mercadorias vendidas foi de R$ 150.000,00.
+ − O saldo remanescente da conta Clientes existente em 31/12/2012 não foi recebido
+ durante o ano.
+
+Contabilidade
+Prof. Silvio Sande
+                                
+
+
+---
+
+ Após essas operações, o saldo da conta EPCLD no balanço patrimonial de 2013
+ será, em reais,
+
+   a) 2.400,00
+
+   b) 20.320,00
+
+   c) 52.400,00
+
+   d) 34.000,00
+
+   e) 18.400,00
+
+Contabilidade
+Prof. Silvio Sande
+                             
+
+
+---
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+---
+
+@prof.silviosande
+/silvio.sande.5
+t.me/profsilviosande
+
+          
+
+
+---
+
+---

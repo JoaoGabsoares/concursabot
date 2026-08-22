@@ -1,0 +1,320 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 04_012_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (PARTE 2 / 2)
+artigos_citados:
+- art. 142
+- art. 5º
+- art. 9º
+sumulas_citadas:
+- Súmula Vinculante nº 05
+- Súmula Vinculante nº 14
+- Súmula Vinculante nº 20
+- Súmula Vinculante nº 21
+- Súmula Vinculante nº 25
+- Súmula Vinculante nº 28
+---
+
+# DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (PARTE 2 / 2)
+
+DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS (PARTE 2 / 2)
+1) “O Estado promoverá, na forma da lei, a defesa do consumidor” (art. 5º, XXXII). Trata-se de norma de
+eficácia limitada.
+
+2) Direito à informação: “todos têm direito a receber dos órgãos públicos informações de seu interesse
+particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de
+responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”
+(art. 5º, XXXIII).
+
+       (*) Segundo o STF, é constitucional a divulgação da remuneração de servidores na Internet, em
+       virtude do princípio da transparência.
+
+       (*) O remédio constitucional que protege o direito à informação é o mandado de segurança.
+
+3) O direito de petição independe do pagamento de taxas. Todas as pessoas (físicas e jurídicas) podem
+exercer o direito de petição. Não há necessidade de advogado para o exercício do direito de petição.
+
+4) O direito à obtenção de certidões independe do pagamento de taxas. É protegido por meio de mandado
+de segurança.
+
+5) Princípio da inafastabilidade de jurisdição: “a lei não excluirá da apreciação do Poder Judiciário lesão ou
+ameaça a direito” (art. 5º, XXXV). No Brasil, adota-se o sistema inglês de jurisdição. Como regra geral, não
+existe, em nosso ordenamento jurídico, a jurisdição condicionada.
+
+       (*) Há alguns casos de jurisdição condicionada, em relação aos quais exige-se o prévio
+       requerimento administrativo. São eles os seguintes: i) habeas data; ii) controvérsias desportivas; iii)
+       reclamação contra o descumprimento de Súmula Vinculante pela Administração Pública e; iv)
+       requerimento judicial de benefício previdenciário.
+
+       (*) Súmula STF nº 667: Viola a garantia constitucional de acesso à jurisdição a taxa judiciária
+       calculada sem limite sobre o valor da causa.
+
+       (*) Súmula Vinculante nº 20: É inconstitucional a exigência de depósito prévio como requisito de
+       admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.
+
+6) Segurança jurídica: “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”
+(art. 5º, XXXVI).
+
+       (*) Direito adquirido é aquele que efetivamente se incorporou ao patrimônio do particular, em
+       virtude de já terem sido cumpridos todos os requisitos aquisitivos exigidos pela lei então vigente.
+       Não se pode confundir “direito adquirido” com mera “expectativa de direito”.
+
+       (*) Não há direito adquirido face a uma nova Constituição.
+
+7) Princípio do juiz natural: Não haverá juízo ou tribunal de exceção (art. 5º, XXXVII). Ninguém será
+processado nem sentenciado senão pela autoridade competente (art. 5º, LIII).
+
+                                   
+
+
+---
+
+       (*) O princípio do juiz natural busca garantir a independência e a imparcialidade do Poder Judiciário.
+
+8) Tribunal do júri: Tem competência para julgar os crimes dolosos contra a vida.
+
+       (*) Súmula Vinculante nº 45: A competência constitucional do Tribunal do Júri prevalece sobre o
+       foro por prerrogativa de função estabelecido exclusivamente pela Constituição estadual.
+
+       (*) Segundo o STF, a soberania dos veredictos do tribunal do júri não exclui a recorribilidade de suas
+       decisões, quando manifestamente contrárias à prova dos autos.
+
+9) Princípio da reserva legal em matéria penal: Não há crime sem lei anterior que o defina, nem pena sem
+prévia cominação legal (art. 5º, XXXIX). As “normas penais em branco” não violam a reserva legal em
+matéria penal.
+
+10) A lei penal não retroagirá, salvo para beneficiar o réu. Admite-se, portanto, a retroatividade benigna.
+
+11) Mandados de criminalização: A CF/88 não tipifica crimes. Porém, estabelece normas que determinam
+a criminalização de certas condutas.
+
+       (*) 3TH não tem graça! Terrorismo, tortura, tráfico de drogas e crimes hediondos são inafiançáveis
+       e insuscetíveis de graça ou anistia.
+
+       (*) O racismo é inafiançável e imprescritível. É punido com a pena de reclusão. A apologia à
+       discriminação contra os judeus é considerada racismo. Segundo o STF, o crime de injúria racial
+       configura um dos tipos penais de racismo e também é imprescritível.
+
+       (*) A ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado
+       democrático é crime inafiançável e imprescritível.
+
+12) Intranscendência das penas: “nenhuma pena passará da pessoa do condenado, podendo a obrigação
+de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores
+e contra eles executadas, até o limite do valor do patrimônio transferido”. (art. 5º, XLV).
+
+13) Individualização da pena: A lei regulará a individualização da pena e adotará, entre outras, as
+seguintes: i) privação ou restrição de liberdade; ii) perda de bens; iii) multa; iv) prestação social alternativa
+e; v) suspensão ou interdição de direitos.
+
+14) Penas proibidas: No ordenamento jurídico, não são admitidas as seguintes penas: i) de morte, salvo em
+caso de guerra declarada; ii) de caráter perpétuo; iii) de trabalhos forçados; iv) de banimento e; v) cruéis.
+
+15) Extradição: O brasileiro nato não pode ser extraditado. O brasileiro naturalizado pode ser extraditado
+nas seguintes hipóteses: i) crime comum praticado antes da naturalização e; ii) comprovado envolvimento
+com tráfico ilícito de entorpecentes e drogas afins. Nenhum estrangeiro será extraditado por crime político
+ou de opinião.
+
+16) Devido processo legal: Ninguém será privado da liberdade ou de seus bens sem o devido processo legal
+(art. 5º, LIV).
+
+                                    
+
+
+---
+
+17) Ampla defesa/contraditório: Aos litigantes, em processo judicial ou administrativo, e aos acusados em
+geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes (art. 5º, LV).
+
+       (*) Súmula Vinculante nº 14: "É direito do defensor, no interesse do representado, ter acesso
+       amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por
+       órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa".
+
+       (*) Súmula Vinculante nº 05: “A falta de defesa técnica por advogado no processo administrativo
+       disciplinar não ofende a Constituição.”
+
+       (*) Súmula Vinculante nº 21: “É inconstitucional a exigência de depósito ou arrolamento prévios de
+       dinheiro ou bens para admissibilidade de recurso administrativo.”
+
+       (*)Súmula Vinculante nº 28: “É inconstitucional a exigência de depósito prévio como requisito de
+       admissibilidade de ação judicial na qual se pretenda discutir a exigibilidade de crédito tributário.”
+
+       (*) Segundo o STF, a ampla defesa e o contraditório não se aplicam na fase do inquérito policial.
+
+18) Vedação às provas ilícitas: São inadmissíveis, no processo, as provas obtidas por meios ilícitos (art. 5º,
+LVI). As provas ilícitas devem ser expurgadas do processo. A presença de provas ilícitas não é suficiente
+para invalidar todo o processo. No entanto, pela “Teoria dos Frutos da Árvore Envenenada”, a prova ilícita
+contamina todas as outras que sejam dela decorrentes.
+
+       (*) É lícita a prova obtida mediante gravação telefônica feita por um dos interlocutores sem a
+       autorização judicial, caso haja investida criminosa daquele que desconhece que a gravação está
+       sendo feita.
+
+       (*) É lícita a prova obtida por gravação de conversa telefônica feita por um dos interlocutores, sem
+       conhecimento do outro, quando ausente causa legal de sigilo ou de reserva da conversação.
+
+       (*) É lícita a prova consistente em gravação ambiental realizada por um dos interlocutores sem o
+       conhecimento do outro.
+
+19) Presunção de inocência: Ninguém será considerado culpado até o trânsito em julgado de sentença
+penal condenatória (art. 5º, LVII).
+
+       (*) Prisões cautelares não violam a presunção de inocência.
+
+       (*) Segundo o STF: “A execução provisória da sentença penal condenatória revela-se frontalmente
+       incompatível com o direito fundamental do réu de ser presumido inocente até que sobrevenha o
+       trânsito em julgado de sua condenação criminal”.
+
+20) Prisão: Ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de
+autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar,
+definidos em lei (art. 5º, LXI).
+
+       (*) A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao
+       juiz competente e à família do preso ou à pessoa por ele indicada (art. 5º, LXII).
+
+                                   
+
+
+---
+
+       (*) O preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe
+       assegurada a assistência da família e de advogado (art. 5º, LXIII).
+
+       (*) O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório
+       policial (art. 5º, LXIV).
+
+       (*) A prisão ilegal será imediatamente relaxada pela autoridade judiciária (art. 5º, LXV).
+
+21) Prisão civil por dívida: É ilícita a prisão civil do depositário infiel, qualquer que seja a modalidade de
+depósito (Súmula Vinculante nº 25).
+
+22) Habeas corpus: O habeas corpus é o remédio constitucional que busca proteger a liberdade de
+locomoção. Pode ser preventivo (quando há ameaça de violação à liberdade de locomoção) ou repressivo
+(quando já houve violação à liberdade de locomoção). É ação gratuita, que independe de advogado para
+ser impetrada. O habeas corpus é ação com legitimidade universal, uma vez que pode ser impetrado por
+qualquer pessoa física ou jurídica, nacional ou estrangeira, ou, ainda, pelo Ministério Público e pela
+Defensoria Pública.
+
+       (*) Pessoa jurídica pode impetrar habeas corpus, mas sempre a favor de pessoa física.
+
+       (*) É cabível habeas corpus mesmo quando a ofensa ao direito de locomoção é indireta, ou seja,
+       quando do ato impugnado possa resultar procedimento que, ao final, termine em detenção ou
+       reclusão da pessoa.
+
+       (*) Não cabe habeas corpus para impugnar decisões do STF (Plenário ou Turmas).
+
+       (*) Não cabe habeas corpus para impugnar determinação de suspensão dos direitos políticos.
+
+       (*) Não cabe habeas corpus para discutir o mérito de punições disciplinares militares (art. 142, § 2º,
+       CF).
+
+23) Mandado de segurança: O mandado de segurança é cabível para proteger direito líquido e certo, não
+amparado por habeas corpus ou habeas data. É cabível contra o chamado “ato de autoridade”, ou seja,
+ações ou omissões do Poder Público e de particulares no exercício de função pública.
+
+       (*) Súmula STF nº 625: Controvérsia sobre matéria de direito não impede concessão de mandado
+       de segurança.
+
+       (*) O mandado de segurança tem prazo decadencial de 120 (cento e vinte) dias.
+
+       (*) O impetrante do mandado de segurança pode desistir dessa ação constitucional a qualquer
+       tempo, ainda que proferida decisão de mérito a ele favorável, e sem anuência da parte contrária.
+
+       (*) Não cabe mandado de segurança contra decisão judicial transitada em julgado.
+
+       (*) Não cabe mandado de segurança contra lei em tese, exceto se produtora de efeitos concretos.
+
+                                   
+
+
+---
+
+24) Mandado de segurança coletivo: Pode ser impetrado por: i) partido político com representação no
+Congresso Nacional; ii) organização sindical, entidade de classe ou associação legalmente constituída e em
+funcionamento há pelo menos 1 (um) ano.
+
+       (*) No mandado de segurança coletivo, ocorre substituição processual.
+
+25) Mandado de injunção: É o remédio constitucional destinado a combater as omissões inconstitucionais,
+sejam elas de caráter total ou parcial. É cabível quando a “falta de norma regulamentadora torne inviável o
+exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à
+soberania e à cidadania” (art. 5º, LXXI). É aplicável diante da falta de regulamentação de norma
+constitucional de eficácia limitada.
+
+       (*) Legitimidade ativa: qualquer pessoa física ou jurídica.
+
+       (*) O mandado de injunção não é gratuito e sua impetração depende de advogado.
+
+       (*) Segundo o STF, não é cabível medida liminar em mandado de injunção.
+
+       (*) A Lei nº 13.300/2016 adotou a corrente concretista individual para o mandado de injunção. A
+       decisão terá eficácia subjetiva limitada às partes e produzirá efeitos até o advento da norma
+       regulamentadora (art. 9º, caput). É possível, entretanto, que seja conferida eficácia ultra partes ou
+       erga omnes à decisão, quando isso for inerente ou indispensável ao exercício do direito, liberdade
+       ou da prerrogativa objeto da impetração (art. 9º, § 1º).
+
+       (*) A Lei nº 13.300/2016 reconhece a possibilidade de que seja impetrado mandado de injunção
+       coletivo pelos seguintes legitimados: i) partido político com representação no Congresso Nacional;
+       ii) organização sindical, entidade de classe ou associação legalmente constituída e em
+       funcionamento há pelo menos um ano; iii) Ministério Público e; iv) Defensoria Pública.
+
+26) Habeas data: O habeas data tem 2 (duas) finalidades: i) assegurar o conhecimento de informações
+relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades
+governamentais ou de caráter público e; ii) retificação de dados, quando não se prefira fazê-lo por
+processo sigiloso, judicial ou administrativo.
+
+       (*) Para que seja impetrado o habeas data, exige-se a comprovação de negativa da autoridade
+       administrativa de garantir o acesso aos dados relativos ao impetrante. Trata-se, portanto, de um
+       caso de jurisdição condicionada no ordenamento jurídico brasileiro.
+
+       (*) O habeas data é uma ação gratuita, mas que depende de assistência de advogado.
+
+       (*) RE nº 673.707/MG: “O habeas data é a garantia constitucional adequada para a obtenção, pelo
+       próprio contribuinte, dos dados concernentes ao pagamento de tributos constantes de sistemas
+       informatizados de apoio à arrecadação dos órgãos administração fazendária dos entes estatais”.
+
+27) Ação popular: O cidadão é legitimado para propor ação popular. Tem como objetivo anular ato lesivo
+ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico-cultural.
+
+       (*) A propositura de ação popular não exige comprovação de efetivo dano material.
+
+                                  
+
+
+---
+
+       (*) Não há foro por prerrogativa de função em ação popular.
+
+       (*) A improcedência de ação popular não gera para o autor, salvo comprovada má fé, a obrigação
+       de pagar custas judiciais e o ônus da sucumbência.
+
+28) São gratuitos para os reconhecidamente pobres, na forma da lei: i) o registro civil de nascimento e; ii) a
+certidão de óbito.
+
+29) Emenda Constitucional nº 115/2022: É assegurado, nos termos da lei, o direito à proteção dos dados
+pessoais, inclusive nos meios digitais.
+
+30) Tratados internacionais de direitos humanos:
+
+Os tratados internacionais de direitos humanos possuem dois níveis hierárquicos diferentes:
+
+       a) nível supralegal: quando aprovados pelo rito ordinário.
+
+       b) nível constitucional: quando aprovados em dois turnos, em cada Casa do Congresso Nacional,
+       por 3/5 (três quintos) dos membros.
+
+31) Tribunal Penal Internacional: O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja
+criação tenha manifestado adesão (art. 5º, § 4º, CF/88).
+
+                                   
+
+
+---

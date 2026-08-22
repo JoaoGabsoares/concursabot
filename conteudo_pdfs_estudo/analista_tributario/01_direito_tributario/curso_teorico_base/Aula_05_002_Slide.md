@@ -1,0 +1,299 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Tributário & Reforma Tributária
+tags:
+- tributario
+- ctn
+- reforma_tributaria
+- stf
+- stj
+arquivo_origem: Aula 05_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: LEGISLAÇÃO TRIBUTÁRIA
+artigos_citados:
+- art. 100
+- art. 98
+- art. 99
+---
+
+# LEGISLAÇÃO TRIBUTÁRIA
+
+LEGISLAÇÃO TRIBUTÁRIA
+NOÇÕES GERAIS
+PARTE 2
+                                             Prof. Fábio Dutra
+
+        
+
+
+---
+
+Legislação Tributária
+  ❑Lei Ordinária/Complementar
+
+  ❑ Somente a lei pode estabelecer:
+
+      ❑ A instituição de tributos, ou a sua extinção;
+
+      ❑ A majoração de tributos, ou sua redução;
+
+      ❑ A definição do fato gerador da obrigação tributária principal e do seu sujeito
+        passivo;
+
+Direito Tributário
+Prof. Fábio Dutra                                                              @ProfFabioDutra
+                                  
+
+
+---
+
+Legislação Tributária
+  ❑Lei Ordinária/Complementar
+
+  ❑ Somente a lei pode estabelecer:
+
+      ❑ A fixação de alíquota do tributo e da sua base de cálculo;
+
+      ❑ A cominação de penalidades para as ações ou omissões contrárias a seus
+        dispositivos, ou para outras infrações nela definidas;
+
+      ❑ As hipóteses de exclusão, suspensão e extinção de créditos tributários, ou
+        de dispensa ou redução de penalidades.
+
+Direito Tributário
+Prof. Fábio Dutra                                                          @ProfFabioDutra
+                                 
+
+
+---
+
+Legislação Tributária
+  Somente            Instituir/Extinguir tributos.
+  Lei pode:          Majorar/Reduzir tributos.
+
+                     Definir o fato gerador da obrigação principal.
+
+                     Fixar base de cálculo e alíquotas.
+
+                     Impor penalidades.
+
+                     Estabelecer as hipóteses de suspensão/extinção/exclusão do
+                     crédito tributário.
+                     Dispensar o reduzir penalidades.
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                   
+
+
+---
+
+Legislação Tributária
+  ❑ Observações:
+
+  ❑ 1ª Obs.: Equipara-se à majoração do tributo a modificação da sua base de
+  cálculo, que importe em torná-lo mais oneroso.
+
+  ❑ 2ª Obs.: Não constitui majoração de tributo a atualização do valor monetário
+  da respectiva base de cálculo.
+
+Direito Tributário
+Prof. Fábio Dutra                                                        @ProfFabioDutra
+                              
+
+
+---
+
+Legislação Tributária
+  ❑Medidas Provisórias
+
+            ❑ Atos normativos temporários (com força de lei);
+
+            ❑ Não podem tratar de temas reservados à lei complementar;
+
+            ❑ Competência privativa do chefe do Poder Executivo;
+
+            ❑ Submetidas ao Congresso Nacional.
+
+            ❑ Prazo de validade: 60 dias + 60 dias.
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                     
+
+
+---
+
+Legislação Tributária
+  ❑Medidas Provisórias:
+
+Direito Tributário
+Prof. Fábio Dutra                                              @ProfFabioDutra
+                          
+
+
+---
+
+Legislação Tributária
+  ❑Resoluções do Senado Federal:
+
+  ❑ Senado Federal → Casa representante dos Estados-membros.
+
+
+  ❑ Ato Legislativo não sujeito à sanção presidencial.
+
+Direito Tributário
+Prof. Fábio Dutra                                                   @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+❑Resoluções do Senado Federal:
+
+                                RESOLUÇÕES DO SENADO FEDERAL
+                     TRIBUTO      ALÍQUOTA                OBSERVAÇÃO           INICIATIVA        APROVAÇÃO
+
+                     ITCMD      Alíquota Máx.                    -                  -                -
+
+                      IPVA      Alíquota Mín.                    -                  -                -
+                               Alíq. Máx. Oper.                                MAIORIA
+                      ICMS                              FACULTATIVO                              2/3 Senado
+                                   Internas                                   ABSOLUTA
+                               Alíq. Mín. Oper.
+                      ICMS                              FACULTATIVO                           MAIORIA ABSOLUTA
+                                   Internas                                    1/3 Senado
+                               Alíq. Interest. ou                             Pres. Rep. ou
+                      ICMS                                       -                            MAIORIA ABSOLUTA
+                                  exportação                                   1/3 Senado
+                                 Alíquotas de
+                     IBS/CBS                                     -                  -                -
+                                  Referência
+
+Direito Tributário
+Prof. Fábio Dutra                                                                                        @ProfFabioDutra
+                                         
+
+
+---
+
+---
+
+Legislação Tributária
+      ❑Tratados Internacionais: os tratados e as convenções internacionais
+      revogam ou modificam a legislação tributária interna, e serão observados
+      pela que lhes sobrevenha. (CTN, art. 98)
+
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+      ❑Decretos:
+
+      ❑ O conteúdo e o alcance dos decretos restringem-se aos das leis em
+        função das quais sejam expedidos, determinados com observância das
+        regras de interpretação estabelecidas nesta Lei. (CTN, art. 99)
+
+                ❑ Atos normativos secundários;
+
+                ❑ Competência privativa do chefe do Poder Executivo;
+                    ❑ Exemplos:
+                    ❑ Decreto 7.212/2010 (Regulamento do IPI)
+                    ❑ Decreto 9.580/2018 (Regulamento do IR)
+Direito Tributário
+Prof. Fábio Dutra                                                         @ProfFabioDutra
+                                     
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+      ❑ São normas complementares das leis, dos tratados e das convenções
+        internacionais e dos decretos:
+
+      I - os atos normativos expedidos pelas autoridades administrativas;
+
+      II - as decisões dos órgãos singulares ou coletivos de jurisdição
+      administrativa, a que a lei atribua eficácia normativa;
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                 
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+      ❑ São normas complementares das leis, dos tratados e das convenções
+        internacionais e dos decretos:
+
+      III - as práticas     reiteradamente                observadas   pelas   autoridades
+      administrativas;
+
+      IV - os convênios que entre si celebrem a União, os Estados, o Distrito
+      Federal e os Municípios. (CTN, art. 100)
+
+
+Direito Tributário
+Prof. Fábio Dutra                                                                     @ProfFabioDutra
+                               
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+
+      ❑ Atos normativos expedidos pelas autoridades administrativas;
+
+      ❑ Decisões com eficácia normativa;
+
+Direito Tributário
+Prof. Fábio Dutra                                                      @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária
+      ❑Normas Complementares:
+
+
+      ❑ Práticas reiteradamente observadas pelas autoridades administrativas;
+
+      ❑ Convênios celebrados entre os entes federativos.
+
+Direito Tributário
+Prof. Fábio Dutra                                                           @ProfFabioDutra
+                                
+
+
+---
+
+Legislação Tributária
+      ❑ A observância das normas complementares exclui:
+
+                     ❑ a imposição de penalidades;
+
+                     ❑ a cobrança de juros de mora; e
+
+                     ❑ a atualização do valor monetário da base de cálculo do tributo.
+                       (CTN, art. 100, par. único)
+
+Direito Tributário
+Prof. Fábio Dutra                                                                 @ProfFabioDutra
+                                        
+
+
+---

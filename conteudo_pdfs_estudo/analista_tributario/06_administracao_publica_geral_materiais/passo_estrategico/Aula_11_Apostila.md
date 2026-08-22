@@ -1,0 +1,996 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 11_Apostila.txt
+tipo_material: Curso Teórico Base
+aula_numero: '11'
+titulo_aula: Passo Estratégico de Administração
+---
+
+# Passo Estratégico de Administração
+
+Aula 10
+                          Receita Federal (Analista Tributário)
+                          Passo Estratégico de Administração
+                                                       Pública
+
+                                                        Autor:
+                                              Abraão Pereira
+
+                                        20 de Dezembro de 2024
+
+---
+
+   Abraão Pereira
+   Aula 10
+
+                                                 SIMULADO
+Considerações iniciais 
+Simulado 
+  Simulado - sem comentários 
+  Gabarito do simulado 
+  Simulado - com comentários 
+  Considerações Finais 
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública                                         1
+          www.estrategiaconcursos.com.br                                                                                          24
+                                          
+
+
+---
+
+ Abraão Pereira
+ Aula 10
+
+                                CONSIDERAÇÕES INICIAIS
+Olá, Turma!
+Prontos para o nosso último simulado?
+
+Acreditamos, veementemente, na eficiência, para a sua prova, de um simulado bem
+elaborado pelos professores e bem executado pelos alunos.
+
+Nessa linha, apresentaremos para vocês questões inéditas, que passarão pelos
+pontos mais importantes das últimas aulas do nosso curso.
+
+Bem, montamos o simulado que servirá como um bom treino e revisão para vocês
+dos tópicos pertinentes à prova, por isso, resolva todas as questões sem consulta!
+
+O ideal é que vocês façam o simulado já treinando o tempo de execução.
+
+Ao final teremos uma questão desafio, discursiva, para testar seu conhecimento
+sobre outra ótica!
+
+                                                                                          Bom simulado!!!
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública                2
+       www.estrategiaconcursos.com.br                                                                 24
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+                                                SIMULADO
+
+Simulado - sem comentários
+
+   1. (Administração Pública / Passo Estratégico / 2024)
+Em uma organização, a comunicação desempenha diferentes funções essenciais.
+Considere o seguinte cenário: Uma equipe de trabalho está implementando um novo
+sistema de gestão. Durante o processo, o líder comunica regras detalhadas para uso do
+sistema, organiza uma reunião para esclarecer dúvidas e promove um ambiente aberto
+para troca de feedbacks. Essa situação reflete:
+a) Uma falha de comunicação por não enfatizar a expressão emocional.
+b) Uma comunicação eficiente, mas não eficaz, devido ao foco em regras.
+c) A aplicação simultânea das funções de controle, motivação e expressão emocional.
+d) Exclusivamente a função informativa da comunicação.
+e) Apenas a aplicação da função de controle, sem considerar motivação ou expressão
+emocional.
+
+   2. (Administração Pública / Passo Estratégico / 2024)
+Sobre as barreiras à comunicação organizacional, analise o caso: Durante uma
+apresentação, a equipe não compreende o significado de certos termos técnicos usados
+pelo palestrante, e o som do microfone falha. Esse cenário ilustra:
+a) Barreiras físicas e semânticas.
+b) Barreiras organizacionais e psicológicas.
+c) Exclusivamente barreiras físicas.
+d) Barreiras semânticas e psicológicas.
+e) Barreiras físicas e organizacionais.
+
+   3. (Administração Pública / Passo Estratégico / 2024)
+No contexto da Gestão de Projetos, segundo o PMBOK, quais elementos são essenciais
+no ciclo de vida de um projeto bem-sucedido? Considere o seguinte caso: Uma empresa
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    3
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+iniciou um projeto de desenvolvimento de software com etapas bem definidas, desde a
+criação do termo de abertura até o encerramento com entrega de resultados ao cliente.
+a) Apenas iniciação e encerramento.
+b) Planejamento, execução, monitoramento e controle.
+c) Iniciação, planejamento, execução, monitoramento e controle, e encerramento.
+d) Execução e encerramento, pois são as etapas que materializam o projeto.
+e) Planejamento e execução, priorizando eficiência em recursos.
+
+   4. (Administração Pública / Passo Estratégico / 2024)
+Sobre os modelos de Estado, considere o seguinte cenário: Um governo está
+implementando políticas que priorizam a redução de sua atuação em setores como saúde
+e educação, delegando responsabilidades ao setor privado por meio de privatizações e
+concessões. Esse modelo se enquadra em qual tipo de Estado?
+a) Estado do Bem-Estar Social, com foco em direitos sociais.
+b) Estado Liberal, com ausência de intervenção estatal.
+c) Estado Absolutista, centralizado na figura do governante.
+d) Estado Neoliberal, com ênfase em regulação e mercado.
+e) Estado Autoritário, concentrando poder político
+
+   5. (Administração Pública / Passo Estratégico / 2024)
+No contexto da Administração Pública, o conceito de governabilidade pode ser descrito
+como:
+a) A capacidade de o governo implementar políticas públicas eficazes, independente de
+apoio social.
+b) A legitimidade para governar, baseada em apoio popular e institucional.
+c) A habilidade técnica e administrativa de gerenciar recursos públicos.
+d) A capacidade de controlar o orçamento estatal sem dependência de mercado.
+e) A integração entre poderes Legislativo e Executivo para aprovar reformas.
+
+   6. (Administração Pública / Passo Estratégico / 2024)
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    4
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+Considere a Administração Pública no Brasil e sua transição para o modelo gerencial. Quais
+foram as características centrais da reforma gerencial implementada na década de 1990?
+a) Redução do papel regulador do Estado e aumento da concentração de poder.
+b) Foco em processos burocráticos para garantir igualdade de tratamento.
+c) Ênfase na eficiência, qualidade dos serviços e atendimento ao cidadão como cliente.
+d) Implementação de práticas neoliberais sem preocupação com resultados sociais.
+e) Consolidação do modelo patrimonialista para modernizar a gestão pública.
+
+   7. (Administração Pública / Passo Estratégico / 2024)
+Um governo estadual decide criar um portal público que permite o acesso a informações
+detalhadas sobre despesas, contratos e metas de políticas públicas. Esse tipo de iniciativa
+reforça qual dos seguintes princípios da governança pública?
+a) Capacidade de resposta e probidade.
+b) Transparência e accountability.
+c) Equidade e integridade.
+d) Sustentabilidade e confiabilidade.
+e) Melhoria regulatória e eficiência.
+
+   8. (Administração Pública / Passo Estratégico / 2024)
+Um prefeito implementa um programa de controle interno para garantir que os recursos
+públicos sejam utilizados exclusivamente para os fins planejados, com monitoramento
+contínuo por órgãos independentes. Essa ação está diretamente ligada a qual tipo de
+accountability?
+a) Accountability societal.
+b) Accountability vertical.
+c) Accountability horizontal.
+d) Accountability normativa.
+e) Accountability ética.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    5
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+   9. (Administração Pública / Passo Estratégico / 2024)
+Um gestor público decide envolver associações de moradores no planejamento e execução
+de projetos de saneamento básico, promovendo reuniões regulares para coleta de
+sugestões e prestação de contas. Esse exemplo ilustra a aplicação de:
+a) Governabilidade vertical, com ênfase na democracia representativa.
+b) Governança participativa, com foco em controle social.
+c) Transparência fiscal, para garantir eficiência orçamentária.
+d) Accountability societal, restrita ao poder público.
+e) Governança corporativa, aplicada ao setor público.
+
+   10.          (Administração Pública / Passo Estratégico / 2024)
+Em uma administração pública municipal, o prefeito decide implementar uma metodologia
+de Gestão por Resultados. Para isso, estabelece indicadores claros de desempenho para
+as escolas públicas, define metas anuais e utiliza relatórios periódicos para monitorar os
+avanços. Essas ações refletem quais elementos da Gestão por Resultados?
+a) Transparência e descentralização.
+b) Cultura organizacional e integração de unidades.
+c) Sistemas de informação e qualidade do serviço.
+d) Estratégia e responsabilidade pelos resultados.
+e) Monitoramento e responsabilidade gerencial.
+
+   11.          (Administração Pública / Passo Estratégico / 2024)
+Um estado adota a Administração por Objetivos (APO) no gerenciamento de seus hospitais
+públicos. Os gestores e equipes médicas são envolvidos na definição das metas de
+atendimento e recebem bônus por alcançar resultados superiores aos esperados. Esse
+modelo é caracterizado por:
+a) Administração por controle direto, com foco em eficiência.
+b) Gestão participativa, centralizada em metas financeiras.
+c) Contratualização de resultados, com ênfase na descentralização.
+d) Administração por Objetivos, com metas negociadas e participação ativa.
+e) Planejamento estratégico, voltado para o longo prazo.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    6
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+   Abraão Pereira
+   Aula 10
+
+    12.          (Administração Pública / Passo Estratégico / 2024)
+Um secretário municipal busca modernizar a administração pública local aplicando
+princípios do empreendedorismo governamental. Nesse contexto, qual das ações abaixo
+caracteriza corretamente essa abordagem?
+a) Reduzir a atuação estatal em serviços essenciais, promovendo privatizações.
+b) Incentivar a burocracia, garantindo processos rigorosos para evitar erros.
+c) Centralizar decisões estratégicas no chefe do Executivo para garantir uniformidade.
+d) Priorizar a manutenção de processos administrativos tradicionais para estabilidade.
+e) Focar no atendimento ao cidadão como cliente, implementando práticas inovadoras.
+
+    13.          (Administração Pública / Passo Estratégico / 2024)
+Considere as seguintes formas de intermediação de interesses:
+I. Universalismo de procedimentos.
+II. Clientelismo.
+III. Insulamento burocrático.
+IV. Corporativismo.
+Qual dessas formas prioriza a igualdade de tratamento entre todos os cidadãos, eliminando
+privilégios e garantindo acesso universal aos serviços públicos?
+a) I e II.
+b) I e IV.
+c) Apenas I.
+d) II e III.
+e) Apenas IV.
+
+
+    14.          (Administração Pública / Passo Estratégico / 2024)
+Sobre os processos participativos de gestão pública, considere a seguinte situação:
+Um município promove encontros regulares entre a sociedade civil e o governo para decidir
+como investir parte do orçamento anual. Esses encontros resultam na priorização de
+projetos comunitários com ampla aprovação. Qual instrumento participativo está sendo
+utilizado?
+a) Conselhos de gestão.
+
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    7
+          www.estrategiaconcursos.com.br                                                     24
+                                      
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+b) Audiências públicas.
+c) Orçamento participativo.
+d) Conferências de políticas públicas.
+e) Pactos de gestão comunitária.
+
+   15.          (Administração Pública / Passo Estratégico / 2024)
+Durante uma discussão sobre democracia participativa, um gestor afirma que a participação
+da sociedade pode variar desde consultas simbólicas até a real tomada de decisões. Essa
+variação reflete os níveis de participação popular, conforme Carole Pateman. Quais são
+esses níveis?
+a) Democrático, semidemocrático e não democrático.
+b) Representativo, participativo e delegativo.
+c) Pseudoparticipação, participação parcial e participação plena.
+d) Consultivo, deliberativo e normativo.
+e) Inclusivo, equitativo e colaborativo.
+
+   16.          (Administração Pública / Passo Estratégico / 2024)
+Uma administração pública estadual pretende revisar suas estratégias para lidar com
+incertezas no mercado energético. Para isso, desenvolve diferentes projeções de cenários,
+considerando impactos de alterações climáticas, avanços tecnológicos e oscilações
+econômicas. Esse método de planejamento é conhecido como:
+a) Planejamento adaptativo.
+b) Planejamento conservador.
+c) Planejamento baseado em cenários.
+d) Administração por objetivos (APO).
+e) Planejamento tático.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    8
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+   17.          (Administração Pública / Passo Estratégico / 2024)
+Sobre os níveis de planejamento organizacional, considere a seguinte situação:
+Um gestor formula estratégias para a expansão de uma rede de hospitais, analisando
+tendências demográficas e econômicas para os próximos 15 anos. Esse tipo de
+planejamento é classificado como:
+a) Planejamento estratégico.
+b) Planejamento tático.
+c) Planejamento operacional.
+d) Planejamento conservador.
+e) Planejamento hierárquico.
+
+   18.          (Administração Pública / Passo Estratégico / 2024)
+Durante a avaliação de uma política pública, um analista utiliza a técnica SWOT para
+identificar forças, fraquezas, oportunidades e ameaças relacionadas ao programa. Qual o
+principal objetivo dessa análise?
+a) Realizar previsões de longo prazo sobre o impacto social da política.
+b) Identificar variáveis internas e externas para ajustar estratégias.
+c) Mensurar a eficiência econômica do programa público.
+d) Estabelecer metas operacionais específicas para curto prazo.
+e) Determinar o orçamento ideal para implementação.
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública    9
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+ Abraão Pereira
+ Aula 10
+
+Gabarito do simulado
+
+                                             MEU                                                 MEU
+  QUESTÃO               GABARITO                               QUESTÃO              GABARITO
+                                           GABARITO                                            GABARITO
+
+           1                  C                                     10                    D
+
+           2                  A                                     11                    D
+
+           3                  C                                     12                    E
+
+           4                  D                                     13                    C
+
+           5                  B                                     14                    C
+
+           6                  C                                     15                    C
+
+           7                  B                                     16                    C
+
+           8                  C                                     17                    A
+
+           9                  B                                     18                    B
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública              10
+       www.estrategiaconcursos.com.br                                                                24
+                                   
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+Simulado - com comentários
+
+   1. (Administração Pública / Passo Estratégico / 2024)
+Em uma organização, a comunicação desempenha diferentes funções essenciais.
+Considere o seguinte cenário: Uma equipe de trabalho está implementando um novo
+sistema de gestão. Durante o processo, o líder comunica regras detalhadas para uso do
+sistema, organiza uma reunião para esclarecer dúvidas e promove um ambiente aberto
+para troca de feedbacks. Essa situação reflete:
+a) Uma falha de comunicação por não enfatizar a expressão emocional.
+b) Uma comunicação eficiente, mas não eficaz, devido ao foco em regras.
+c) A aplicação simultânea das funções de controle, motivação e expressão emocional.
+d) Exclusivamente a função informativa da comunicação.
+e) Apenas a aplicação da função de controle, sem considerar motivação ou expressão
+emocional.
+Comentários:
+a) Incorreta: O líder promoveu abertura para troca de feedbacks, o que inclui expressão
+emocional.
+
+b) Incorreta: A comunicação é eficiente (clara) e eficaz (atinge o objetivo).
+
+c) Correta: O líder utilizou controle (regras), motivação (reunião) e expressão emocional
+(feedback).
+
+d) Incorreta: A função informativa não é a única evidenciada.
+
+e) Incorreta: Motivação e expressão emocional também estão presentes.
+
+Gabarito: C
+
+   2. (Administração Pública / Passo Estratégico / 2024)
+Sobre as barreiras à comunicação organizacional, analise o caso: Durante uma
+apresentação, a equipe não compreende o significado de certos termos técnicos usados
+pelo palestrante, e o som do microfone falha. Esse cenário ilustra:
+a) Barreiras físicas e semânticas.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   11
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+b) Barreiras organizacionais e psicológicas.
+c) Exclusivamente barreiras físicas.
+d) Barreiras semânticas e psicológicas.
+e) Barreiras físicas e organizacionais.
+Comentários:
+a) Correta: Barreiras físicas (som do microfone) e semânticas (uso de termos técnicos).
+b) Incorreta: Não há evidências de barreiras organizacionais ou psicológicas.
+c) Incorreta: As barreiras não são exclusivamente físicas.
+d) Incorreta: Não há indícios de barreiras psicológicas.
+e) Incorreta: Barreiras organizacionais não estão presentes.
+
+Gabarito: A
+
+   3. (Administração Pública / Passo Estratégico / 2024)
+No contexto da Gestão de Projetos, segundo o PMBOK, quais elementos são essenciais
+no ciclo de vida de um projeto bem-sucedido? Considere o seguinte caso: Uma empresa
+iniciou um projeto de desenvolvimento de software com etapas bem definidas, desde a
+criação do termo de abertura até o encerramento com entrega de resultados ao cliente.
+a) Apenas iniciação e encerramento.
+b) Planejamento, execução, monitoramento e controle.
+c) Iniciação, planejamento, execução, monitoramento e controle, e encerramento.
+d) Execução e encerramento, pois são as etapas que materializam o projeto.
+e) Planejamento e execução, priorizando eficiência em recursos.
+Comentários:
+a) Incorreta: Apenas iniciação e encerramento não cobrem todas as etapas necessárias.
+
+b) Incorreta: Falta a etapa de iniciação e encerramento.
+
+c) Correta: O ciclo de vida completo do projeto inclui iniciação, planejamento, execução,
+monitoramento e encerramento.
+
+d) Incorreta: Faltam etapas essenciais, como planejamento e monitoramento.
+
+e) Incorreta: Não considera todas as fases do ciclo de vida.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   12
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+Gabarito: C
+
+   4. (Administração Pública / Passo Estratégico / 2024)
+Sobre os modelos de Estado, considere o seguinte cenário: Um governo está
+implementando políticas que priorizam a redução de sua atuação em setores como saúde
+e educação, delegando responsabilidades ao setor privado por meio de privatizações e
+concessões. Esse modelo se enquadra em qual tipo de Estado?
+a) Estado do Bem-Estar Social, com foco em direitos sociais.
+b) Estado Liberal, com ausência de intervenção estatal.
+c) Estado Absolutista, centralizado na figura do governante.
+d) Estado Neoliberal, com ênfase em regulação e mercado.
+e) Estado Autoritário, concentrando poder político
+Comentários:
+a) Incorreta: O Bem-Estar Social enfatiza direitos sociais com intervenção estatal.
+
+b) Incorreta: O Liberalismo evita intervenção, mas não promove privatizações ativamente.
+
+c) Incorreta: O Absolutismo é incompatível com privatizações e delegação ao mercado.
+
+d) Correta: O Estado Neoliberal reduz sua atuação direta e foca em regulação e
+privatizações.
+
+e) Incorreta: O Autoritarismo concentra poder político, sem relação direta com
+privatizações.
+
+Gabarito: D
+
+   5. (Administração Pública / Passo Estratégico / 2024)
+No contexto da Administração Pública, o conceito de governabilidade pode ser descrito
+como:
+a) A capacidade de o governo implementar políticas públicas eficazes, independente de
+apoio social.
+b) A legitimidade para governar, baseada em apoio popular e institucional.
+c) A habilidade técnica e administrativa de gerenciar recursos públicos.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   13
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+d) A capacidade de controlar o orçamento estatal sem dependência de mercado.
+e) A integração entre poderes Legislativo e Executivo para aprovar reformas.
+Comentários:
+a) Incorreta: Governabilidade requer legitimidade, não apenas execução de políticas.
+
+b) Correta: Governabilidade está ligada ao apoio popular e institucional.
+
+c) Incorreta: Refere-se à governança, não à governabilidade.
+
+d) Incorreta: Controle orçamentário é parte da governança, não da governabilidade.
+
+e) Incorreta: A integração entre poderes é uma consequência possível, mas não define
+governabilidade.
+
+Gabarito: B
+
+   6. (Administração Pública / Passo Estratégico / 2024)
+Considere a Administração Pública no Brasil e sua transição para o modelo gerencial. Quais
+foram as características centrais da reforma gerencial implementada na década de 1990?
+a) Redução do papel regulador do Estado e aumento da concentração de poder.
+b) Foco em processos burocráticos para garantir igualdade de tratamento.
+c) Ênfase na eficiência, qualidade dos serviços e atendimento ao cidadão como cliente.
+d) Implementação de práticas neoliberais sem preocupação com resultados sociais.
+e) Consolidação do modelo patrimonialista para modernizar a gestão pública.
+Comentários:
+a) Incorreta: O modelo gerencial mantém o papel regulador, mas com eficiência.
+
+b) Incorreta: A reforma combate processos burocráticos excessivos.
+
+c) Correta: A reforma gerencial foca na eficiência e no atendimento ao cidadão.
+
+d) Incorreta: Apesar de influências neoliberais, o modelo busca resultados sociais.
+
+e) Incorreta: O modelo patrimonialista é incompatível com as reformas gerenciais.
+
+Gabarito: C
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   14
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+   7. (Administração Pública / Passo Estratégico / 2024)
+Um governo estadual decide criar um portal público que permite o acesso a informações
+detalhadas sobre despesas, contratos e metas de políticas públicas. Esse tipo de iniciativa
+reforça qual dos seguintes princípios da governança pública?
+a) Capacidade de resposta e probidade.
+b) Transparência e accountability.
+c) Equidade e integridade.
+d) Sustentabilidade e confiabilidade.
+e) Melhoria regulatória e eficiência.
+Comentários:
+a) Incorreta: Capacidade de resposta está relacionada à agilidade na gestão, e probidade
+à ética, não diretamente à transparência.
+
+b) Correta: O portal promove transparência (acesso à informação) e accountability
+(prestação de contas).
+
+c) Incorreta: Equidade e integridade dizem respeito a justiça e ética, não diretamente à
+disponibilização de informações.
+
+d) Incorreta: Sustentabilidade e confiabilidade têm foco em impacto e credibilidade, não
+em informações públicas.
+
+e) Incorreta: Melhoria regulatória não é o objetivo central da transparência.
+
+Gabarito: B
+
+   8. (Administração Pública / Passo Estratégico / 2024)
+Um prefeito implementa um programa de controle interno para garantir que os recursos
+públicos sejam utilizados exclusivamente para os fins planejados, com monitoramento
+contínuo por órgãos independentes. Essa ação está diretamente ligada a qual tipo de
+accountability?
+a) Accountability societal.
+b) Accountability vertical.
+c) Accountability horizontal.
+d) Accountability normativa.
+
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   15
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+e) Accountability ética.
+Comentários:
+a) Incorreta: Accountability societal é exercida por ONGs, mídia e sociedade civil, não por
+órgãos estatais.
+
+b) Incorreta: Accountability vertical envolve cidadãos controlando governantes por meio
+de eleições ou mecanismos populares.
+
+c) Correta: Accountability horizontal ocorre entre órgãos públicos que se fiscalizam
+mutuamente.
+
+d) Incorreta: Não há um tipo específico denominado "accountability normativa".
+                                                       ==219a34==
+
+e) Incorreta: Accountability ética não é uma categoria formal de accountability.
+
+Gabarito: C
+
+   9. (Administração Pública / Passo Estratégico / 2024)
+Um gestor público decide envolver associações de moradores no planejamento e execução
+de projetos de saneamento básico, promovendo reuniões regulares para coleta de
+sugestões e prestação de contas. Esse exemplo ilustra a aplicação de:
+a) Governabilidade vertical, com ênfase na democracia representativa.
+b) Governança participativa, com foco em controle social.
+c) Transparência fiscal, para garantir eficiência orçamentária.
+d) Accountability societal, restrita ao poder público.
+e) Governança corporativa, aplicada ao setor público.
+Comentários:
+a) Incorreta: Governabilidade vertical não existe; a governança participativa é mais
+adequada.
+
+b) Correta: Governança participativa envolve cidadãos diretamente na gestão pública.
+
+c) Incorreta: Transparência fiscal não abrange diretamente a participação cidadã.
+
+d) Incorreta: Accountability societal é focada em ONGs e mídia, não em associações de
+moradores.
+
+        Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   16
+        www.estrategiaconcursos.com.br                                                     24
+                                    
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+e) Incorreta: Governança corporativa no setor público tem outra aplicação, voltada para
+alinhamento interno.
+
+Gabarito: B
+
+   10.          (Administração Pública / Passo Estratégico / 2024)
+Em uma administração pública municipal, o prefeito decide implementar uma metodologia
+de Gestão por Resultados. Para isso, estabelece indicadores claros de desempenho para
+as escolas públicas, define metas anuais e utiliza relatórios periódicos para monitorar os
+avanços. Essas ações refletem quais elementos da Gestão por Resultados?
+a) Transparência e descentralização.
+b) Cultura organizacional e integração de unidades.
+c) Sistemas de informação e qualidade do serviço.
+d) Estratégia e responsabilidade pelos resultados.
+e) Monitoramento e responsabilidade gerencial.
+Comentários:
+a) Incorreta: Transparência e descentralização são objetivos da GPR, mas não representam
+os elementos destacados.
+
+b) Incorreta: Integração e cultura são aspectos gerais, não diretamente representados no
+exemplo.
+
+c) Incorreta: O foco aqui está em resultados, não em qualidade ou sistemas específicos.
+
+d) Correta: Indicadores e metas refletem estratégia e responsabilidade pelos resultados.
+
+e) Incorreta: Monitoramento é uma prática, mas não cobre o planejamento estratégico
+inicial.
+
+Gabarito: D
+
+   11.          (Administração Pública / Passo Estratégico / 2024)
+Um estado adota a Administração por Objetivos (APO) no gerenciamento de seus hospitais
+públicos. Os gestores e equipes médicas são envolvidos na definição das metas de
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   17
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+atendimento e recebem bônus por alcançar resultados superiores aos esperados. Esse
+modelo é caracterizado por:
+a) Administração por controle direto, com foco em eficiência.
+b) Gestão participativa, centralizada em metas financeiras.
+c) Contratualização de resultados, com ênfase na descentralização.
+d) Administração por Objetivos, com metas negociadas e participação ativa.
+e) Planejamento estratégico, voltado para o longo prazo.
+Comentários:
+a) Incorreta: Controle direto não implica na negociação de metas como na APO.
+
+b) Incorreta: Embora participativa, a APO não se limita a metas financeiras.
+
+c) Incorreta: Contratualização é uma técnica ampla que pode incluir, mas não se restringe
+à APO.
+
+d) Correta: A APO envolve negociação de metas e participação ativa dos envolvidos.
+
+e) Incorreta: Planejamento estratégico é mais amplo e de longo prazo, não focado em
+metas operacionais imediatas.
+
+Gabarito: D
+
+   12.          (Administração Pública / Passo Estratégico / 2024)
+Um secretário municipal busca modernizar a administração pública local aplicando
+princípios do empreendedorismo governamental. Nesse contexto, qual das ações abaixo
+caracteriza corretamente essa abordagem?
+a) Reduzir a atuação estatal em serviços essenciais, promovendo privatizações.
+b) Incentivar a burocracia, garantindo processos rigorosos para evitar erros.
+c) Centralizar decisões estratégicas no chefe do Executivo para garantir uniformidade.
+d) Priorizar a manutenção de processos administrativos tradicionais para estabilidade.
+e) Focar no atendimento ao cidadão como cliente, implementando práticas inovadoras.
+Comentários:
+a) Incorreta: Redução da atuação estatal é característica do modelo neoliberal, não do
+empreendedorismo governamental.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   18
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+   Abraão Pereira
+   Aula 10
+
+b) Incorreta: A burocracia é contrastante com os princípios de inovação e flexibilidade.
+
+c) Incorreta: Centralização excessiva não reflete os princípios de autonomia e inovação..
+
+d) Incorreta: A manutenção de processos tradicionais é contrária à modernização.
+
+e) Correta: O empreendedorismo governamental enfatiza inovação e foco no cidadão
+
+Gabarito: E
+
+    13.          (Administração Pública / Passo Estratégico / 2024)
+Considere as seguintes formas de intermediação de interesses:
+I. Universalismo de procedimentos.
+II. Clientelismo.
+III. Insulamento burocrático.
+IV. Corporativismo.
+Qual dessas formas prioriza a igualdade de tratamento entre todos os cidadãos, eliminando
+privilégios e garantindo acesso universal aos serviços públicos?
+a) I e II.
+b) I e IV.
+c) Apenas I.
+d) II e III.
+e) Apenas IV.
+Comentários:
+O clientelismo envolve troca de favores, não igualdade de tratamento.
+
+O corporativismo representa grupos específicos, não o acesso universal.
+
+Universalismo de procedimentos busca igualdade e impessoalidade.
+
+Insulamento burocrático visa proteger decisões técnicas, não igualdade.
+
+Corporativismo não elimina privilégios, mas representa interesses específicos.
+
+Gabarito: C
+
+          Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   19
+          www.estrategiaconcursos.com.br                                                     24
+                                      
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+   14.          (Administração Pública / Passo Estratégico / 2024)
+Sobre os processos participativos de gestão pública, considere a seguinte situação:
+Um município promove encontros regulares entre a sociedade civil e o governo para decidir
+como investir parte do orçamento anual. Esses encontros resultam na priorização de
+projetos comunitários com ampla aprovação. Qual instrumento participativo está sendo
+utilizado?
+a) Conselhos de gestão.
+b) Audiências públicas.
+c) Orçamento participativo.
+d) Conferências de políticas públicas.
+e) Pactos de gestão comunitária.
+Comentários:
+a) Incorreta: Conselhos de gestão têm caráter permanente e não se limitam ao orçamento.
+
+b) Incorreta: Audiências públicas visam debate e transparência, mas não decisão
+orçamentária direta.
+
+c) Correta: O orçamento participativo envolve decisões diretas sobre alocação de recursos.
+
+d) Incorreta: Conferências de políticas públicas tratam de diretrizes amplas, não do
+orçamento.
+
+e) Incorreta: Não existe um instrumento formal denominado "pacto de gestão
+comunitária".
+
+Gabarito: C
+
+   15.          (Administração Pública / Passo Estratégico / 2024)
+Durante uma discussão sobre democracia participativa, um gestor afirma que a participação
+da sociedade pode variar desde consultas simbólicas até a real tomada de decisões. Essa
+variação reflete os níveis de participação popular, conforme Carole Pateman. Quais são
+esses níveis?
+a) Democrático, semidemocrático e não democrático.
+b) Representativo, participativo e delegativo.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   20
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+c) Pseudoparticipação, participação parcial e participação plena.
+d) Consultivo, deliberativo e normativo.
+e) Inclusivo, equitativo e colaborativo.
+Comentários:
+a) Incorreta: Esses termos não correspondem aos níveis definidos por Carole Pateman.
+
+b) Incorreta: Os termos, representativo e delegativo, não se aplicam à classificação da
+autora.
+
+c) Correta: Pseudoparticipação, parcial e plena são os níveis identificados por Pateman.
+
+d) Incorreta: Consultivo e deliberativo não se referem aos níveis de participação.
+
+e) Incorreta: Inclusivo e colaborativo são princípios, não níveis de participação.
+
+Gabarito: C
+
+   16.          (Administração Pública / Passo Estratégico / 2024)
+Uma administração pública estadual pretende revisar suas estratégias para lidar com
+incertezas no mercado energético. Para isso, desenvolve diferentes projeções de cenários,
+considerando impactos de alterações climáticas, avanços tecnológicos e oscilações
+econômicas. Esse método de planejamento é conhecido como:
+a) Planejamento adaptativo.
+b) Planejamento conservador.
+c) Planejamento baseado em cenários.
+d) Administração por objetivos (APO).
+e) Planejamento tático.
+Comentários:
+a) Incorreta: O planejamento adaptativo se ajusta a mudanças, mas não utiliza cenários
+preditivos detalhados.
+
+b) Incorreta: O planejamento conservador visa manutenção do status quo, não a projeção
+de cenários.
+
+c) Correta: Planejamento baseado em cenários cria diferentes projeções para lidar com
+incertezas.
+
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   21
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+d) Incorreta: A APO concentra-se na definição e alcance de metas, sem foco em múltiplos
+cenários.
+
+e) Incorreta: O planejamento tático aborda ações específicas e não envolve cenários
+amplos.
+
+Gabarito: C
+
+   17.          (Administração Pública / Passo Estratégico / 2024)
+Sobre os níveis de planejamento organizacional, considere a seguinte situação:
+Um gestor formula estratégias para a expansão de uma rede de hospitais, analisando
+tendências demográficas e econômicas para os próximos 15 anos. Esse tipo de
+planejamento é classificado como:
+a) Planejamento estratégico.
+b) Planejamento tático.
+c) Planejamento operacional.
+d) Planejamento conservador.
+e) Planejamento hierárquico.
+Comentários:
+a) Correta: Planejamento estratégico é de longo prazo e envolve a formulação de objetivos
+amplos.
+
+b) Incorreta: O planejamento tático é de médio prazo e abrange departamentos
+específicos.
+
+c) Incorreta: O planejamento operacional é de curto prazo e altamente detalhado.
+
+d) Incorreta: O planejamento conservador visa manter o status quo, não expansão.
+
+e) Incorreta: Planejamento hierárquico não é uma categoria formal de planejamento.
+
+Gabarito: A
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   22
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+  Abraão Pereira
+  Aula 10
+
+   18.          (Administração Pública / Passo Estratégico / 2024)
+Durante a avaliação de uma política pública, um analista utiliza a técnica SWOT para
+identificar forças, fraquezas, oportunidades e ameaças relacionadas ao programa. Qual o
+principal objetivo dessa análise?
+a) Realizar previsões de longo prazo sobre o impacto social da política.
+b) Identificar variáveis internas e externas para ajustar estratégias.
+c) Mensurar a eficiência econômica do programa público.
+d) Estabelecer metas operacionais específicas para curto prazo.
+e) Determinar o orçamento ideal para implementação.
+Comentários:
+a) Incorreta: A SWOT não realiza previsões, mas avalia o presente e ajusta estratégias.
+
+b) Correta: A SWOT avalia forças e fraquezas (internas) e oportunidades e ameaças
+(externas).
+
+c) Incorreta: Mensuração econômica não é o objetivo principal da SWOT.
+
+d) Incorreta: Metas operacionais são detalhadas em outros tipos de planejamento.
+
+e) Incorreta: A análise SWOT não se destina a determinar orçamentos.
+
+Gabarito: B
+
+         Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   23
+         www.estrategiaconcursos.com.br                                                     24
+                                     
+
+
+---
+
+ Abraão Pereira
+ Aula 10
+
+Considerações Finais
+
+
+Com a prática, chegaremos à excelência, mas precisamos perder o medo de nos
+testarmos, só assim iremos evoluir a cada dia.
+
+Grande Abraço a todos!!
+
+Prof. Abraão Pereira
+
+       Receita Federal (Analista Tributário) Passo Estratégico de Administração Pública   24
+       www.estrategiaconcursos.com.br                                                     24
+                                   
+
+
+---
+
+---

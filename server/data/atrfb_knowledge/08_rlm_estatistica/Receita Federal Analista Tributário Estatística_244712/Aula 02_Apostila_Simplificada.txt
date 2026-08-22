@@ -1,0 +1,1519 @@
+                                                    Aula 01
+                          Receita Federal (Analista Tributário)
+                                                   Estatística
+
+
+
+
+                                                        Autor:
+                                     Equipe Exatas Estratégia
+                                                  Concursos
+
+
+                                            21 de Junho de 2025
+
+
+
+
+https://t.me/KakashiAssinaturasBot
+      Equipe Exatas Estratégia Concursos
+      Aula 01
+
+
+
+
+                                                                                     Índice
+1) Noções Iniciais sobre Médias e Medidas de Posição.
+..............................................................................................................................................................................................3
+
+2) Notação de Somatório.
+..............................................................................................................................................................................................5
+
+3) Média Aritmética Simples.
+..............................................................................................................................................................................................8
+
+4) Média Ponderada.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            10
+
+5) Média para Dados Agrupados.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            11
+
+6) Média Geométrica.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            15
+
+7) Média Harmônica.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            16
+
+8) Desigualdade das Médias.
+..............................................................................................................................................................................................
+                                                                                                                                                                                            17
+
+9) Questões Comentadas - Média Aritmética Simples - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            18
+
+10) Questões Comentadas - Média Ponderada - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            21
+
+11) Questões Comentadas - Média para Dados Agrupados - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            23
+
+12) Questões Comentadas - Média Geométrica - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            25
+
+13) Lista de Questões - Média Aritmética Simples - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            26
+
+14) Lista de Questões - Média Ponderada - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            28
+
+15) Lista de Questões - Média para Dados Agrupados - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            31
+
+16) Lista de Questões - Média Geométrica - FGV
+..............................................................................................................................................................................................
+                                                                                                                                                                                            33
+
+
+
+
+                Receita Federal (Analista Tributário) Estatística                                                                                                                         2
+                www.estrategiaconcursos.com.br                                                                                                                                           35
+
+                                                             https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                               INTRODUÇÃO
+A média é um número que, de algum modo, resume as características de um grupo. Os noticiários,
+com certa frequência, trazem conceitos relacionados a essa medida: expectativa de vida dos
+brasileiros; idade média da população; renda domiciliar per capita; tempo médio de
+deslocamento.
+Essa medida está, portanto, inserida em nosso cotidiano. Ao longo dessa aula, aprenderemos a
+calcular a média em diferentes cenários. Além disso, conheceremos algumas propriedades da
+média que facilitam a resolução de questões.
+
+
+                                                            ==219a34==
+
+
+
+
+Medidas de Posição
+
+As medidas de posição são estatísticas que caracterizam o comportamento dos elementos de uma
+série de dados, orientando quanto à posição da distribuição em relação ao eixo horizontal do
+gráfico da curva de frequência. Em outras palavras, podemos dizer que as medidas de posição
+indicam a tendência de concentração dos elementos de uma série, apontando o valor que melhor
+representa o conjunto de dados.
+As medidas de posição podem ser divididas em:
+  a) medidas de tendência central: representam o ponto central ou o valor típico de um conjunto
+  de dados, indicando onde está localizada a maioria dos valores de uma distribuição. As medidas
+  mais utilizadas são:
+     • média aritmética: é o valor resultante da divisão entre a soma de todos os valores de uma
+     série de observações e o número de observações;
+     • mediana: valor que ocupa a posição central de uma série de observações, quando
+     organizadas em ordem crescente ou decrescente; e
+     • moda: valor mais frequente em uma série de observações.
+  b) medidas separatrizes: dividem (ou separam) uma série em duas ou mais partes, cada uma
+  contendo a mesma quantidade de elementos. As medidas mais utilizadas são:
+     • mediana: divide uma série em duas partes iguais. Reparem que, além de ser uma medida
+     separatriz, a mediana também é uma medida de tendência central;
+     • quartis: dividem uma série em quatro partes iguais;
+     • decis: dividem uma série em dez partes iguais; e
+     • percentis: dividem uma série em cem partes iguais.
+
+
+        Receita Federal (Analista Tributário) Estatística                                     3
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      https://t.me/KakashiAssinaturasBot
+Equipe Exatas Estratégia Concursos
+Aula 01
+
+
+
+
+                                                                         Média Aritmética
+                                     Medidas de               Média      Média Geométrica
+                                     Tendência                 Moda      Média Harmônica
+                                      Central                Mediana
+          Medidas de
+           Posição
+                                                             Mediana
+                                      Medidas                 Quartis
+                                    Separatrizes               Decis
+                                                             Percentis
+
+
+
+
+      Receita Federal (Analista Tributário) Estatística                                     4
+      www.estrategiaconcursos.com.br                                                        35
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                 NOTAÇÃO DE SOMATÓRIO
+O somatório ou notação sigma é usado para expressar de uma forma simples e concisa a soma
+dos valores de uma variável. Então, em vez de usarmos vários elementos para determinarmos o
+somatório, utilizamos apenas o símbolo do somatório com a seguinte notação:
+
+                                                                           𝒏
+
+                               𝑿𝟏 + 𝑿𝟐 + 𝑿𝟑 + ⋯ + 𝑿𝒏                       ∑ 𝒙𝒊
+                                                                           𝒊=𝟏
+
+
+
+Essa notação envolve um símbolo de somatório, 𝛴, que é a letra grega maiúscula Sigma (S). Esse
+símbolo está nos instruindo a somar determinados elementos de uma sequência. Vejamos como
+isso é feito:
+
+
+
+                                Os elementos típicos da sequência que está sendo somada aparecem
+            ∑ 𝒙𝒊                à direita do símbolo de somatório: (𝒙𝒊 ).
+
+
+                                O índice que fica localizado abaixo do símbolo de somatório,
+                                frequentemente representado por 𝒊, 𝒋 ou 𝒏, indica o limite inferior (𝑎),
+            ∑                   portanto ele assume um valor inicial atribuído no lado direito da
+                                equação. Se considerarmos que 𝑖 = 1, estamos dizendo que no
+            𝒊=𝒂
+                                somatório consideraremos o primeiro elemento da sequência.
+            𝒃                   O limite superior do somatório ou condição de parada é o valor
+            ∑                   localizado acima do símbolo, no caso (𝑏). O limite superior indica o
+                                último elemento da sequência a ser considerado no somatório.
+
+
+Então, se tivermos uma sequência de 10 valores, devemos interpretar a notação a seguir como a
+soma dos valores da sequência 𝑥𝑖 , com 𝑖 variando de 1 a 10:
+
+                                                            10
+
+                                                            ∑ 𝑥𝑖
+                                                            𝑖=1
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                              5
+        www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+Agora vamos analisar outras operações aritméticas que também podem ser realizadas com as
+variáveis dentro de um somatório:
+
+
+                                   𝒏                             Multiplicamos 𝒙𝟏 por 𝒚𝟏 ; 𝒙𝟐 por 𝒚𝟐 ; e assim por
+ SOMA   DOS
+                               ∑ 𝒙 𝒊 × 𝒚𝒊                        diante, até 𝒙𝒏 por 𝒚𝒏 . Em seguida, somamos os
+ PRODUTOS
+                                𝒊=𝟏                              resultados de cada multiplicação.
+
+                              𝟏𝟎               𝟏𝟎                Primeiro somamos toda a sequência 𝒙, depois toda
+ PRODUTO DAS
+                             ∑ 𝒙 𝒊 × ∑ 𝒚𝒊                        a sequência 𝒚 e, em seguida, multiplicamos o
+ SOMAS
+                             𝒊=𝟏              𝒊=𝟏                resultado das somas.
+
+                                       𝒏         𝟐
+ QUADRADO                                                        Somamos todos os elementos a sequência e
+                                (∑ 𝒙𝒊 )
+ DA SOMA                                                         elevamos o resultado ao quadrado.
+                                                                  ==219a34==
+
+
+
+
+                                   𝒊=𝟏
+
+
+                                       𝒏
+ SOMA   DOS                                                      Cada elemento da sequência é elevado ao
+                                       ∑ 𝒙𝟐𝒊
+ QUADRADOS                                                       quadrado e depois os resultados são somados.
+                                       𝒊=𝟏
+
+
+
+
+1) A SOMA DOS PRODUTOS é diferente do PRODUTO DAS SOMAS:
+
+                                                    𝟏𝟎                             𝟏𝟎         𝟏𝟎
+
+                                                    ∑ 𝒙𝒊 × 𝒚𝒊 ≠ ∑ 𝒙𝒊 × ∑ 𝒚𝒊
+                                                    𝒊=𝟏                        𝒊=𝟏            𝒊=𝟏
+
+
+ 𝒙𝟏 × 𝒚𝟏 + 𝒙𝟐 × 𝒚𝟐 + 𝒙𝟑 × 𝒚𝟑 + ⋯ + 𝒙𝒏 × 𝒚𝒏 ≠ (𝒙𝟏 + 𝒙𝟐 + 𝒙𝟑 + ⋯ + 𝒙𝒏 ) × (𝒚𝟏 + 𝒚𝟐 + 𝒚𝟑 + ⋯ + 𝒚𝒏 )
+
+
+
+
+2) A QUADRADO DA SOMA é diferente da SOMA DOS QUADRADOS:
+
+                                                            𝒏                  𝟐        𝒏
+
+                                                          (∑ 𝒙𝒊 ) ≠ ∑ 𝒙𝟐𝒊
+                                                           𝒊=𝟏                          𝒊=𝟏
+
+
+                          (𝒙𝟏 + 𝒙𝟐 + 𝒙𝟑 + ⋯ + 𝒙𝒏 )𝟐 ≠ 𝒙𝟐𝟏 + 𝒙𝟐𝟐 + 𝒙𝟐𝟑 + ⋯ + 𝒙𝟐𝒏
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                        6
+        www.estrategiaconcursos.com.br                                                                           35
+
+                                             https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 01
+
+
+
+
+Propriedades do Somatório
+
+1ª Propriedade: o somatório de uma                               𝒏
+constante 𝑘 é igual ao produto do                               ∑𝒌 = 𝒌 + 𝒌 +⋯+ 𝒌 = 𝒌 × 𝒏
+número de termos pela constante.                                𝒊=𝟏
+
+
+
+2ª Propriedade: o somatório do
+produto de uma constante por uma
+                                                     𝒏                                           𝒏
+variável é igual ao produto da
+                                                    ∑ 𝒌 × 𝒙𝒊 = 𝒌 × 𝒙𝟏 + 𝒌 × 𝒙𝟐 + ⋯ + 𝒌 × 𝒙𝒏 = 𝒌 × ∑ 𝒙𝒊
+constante pelo somatório da variável.
+                                                    𝒊=𝟏                                          𝒊=𝟏
+Logo, a constante pode sair de dentro
+do somatório, passando a multiplicá-lo
+
+3ª Propriedade: o somatório de uma
+                                                                     𝒏        𝒏       𝒏
+soma ou subtração é igual à soma ou à
+                                                                 ∑(𝒙𝒊 ± 𝒚𝒊 ) = ∑ 𝒙𝒊 ± ∑ 𝒚𝒊
+subtração dos somatórios dessas
+                                                                 𝒊=𝟏          𝒊=𝟏    𝒊=𝟏
+variáveis.
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                                                 7
+       www.estrategiaconcursos.com.br                                                                  35
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                              MÉDIA ARITMÉTICA SIMPLES
+A média aritmética simples é definida como o quociente entre a soma de todos os elementos e o
+número de elementos. A propriedade principal da média é preservar a soma dos elementos de
+um conjunto de dados.
+A média aritmética é definida pela seguinte expressão matemática:
+
+                                                   𝒙𝟏 + 𝒙𝟐 + ⋯ + 𝒙𝒏
+                                             ̅=
+                                             𝒙
+                                                           𝒏
+Reparem que no numerador somamos todos os elementos, ao passo que no denominador temos
+a quantidade de elementos somados (𝑛).
+
+
+
+
+Se tivermos o valor da média e quantidade de elementos, seremos capazes de identificar a soma
+total dos dados de um conjunto. Isso decorre da própria definição de média aritmética:
+
+
+
+
+Propriedades da Média Aritmética
+
+                                                                                  Se 𝒏 ≥ 𝟏,
+ 1ª Propriedade: dado um conjunto com 𝑛 ≥ 1 elementos, a média
+ aritmética sempre existirá e será única.
+                                                                           a média existe e é única
+
+ 2ª Propriedade: a média aritmética 𝑥̅ de um conjunto de dados
+ satisfaz a expressão 𝑚 ≤ 𝑥̅ ≤ 𝑀: a média aritmética sempre se                      ̅ ≤ 𝑴á𝒙𝒊𝒎𝒐
+                                                                           𝒎í𝒏𝒊𝒎𝒐 ≤ 𝒙
+ encontra entre os números mínimo e máximo de um conjunto.
+
+ 3ª Propriedade: somando-se (ou subtraindo-se) uma constante 𝑐                    ̅=𝒙
+                                                                                  𝒚 ̅+𝒄
+ de todos os valores de uma variável, a média do conjunto fica
+ aumentada (ou diminuída) dessa constante.                                        ̅=𝒙
+                                                                                  𝒚 ̅−𝒄
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                             8
+        www.estrategiaconcursos.com.br                                                                35
+
+                                      https://t.me/KakashiAssinaturasBot
+Equipe Exatas Estratégia Concursos
+Aula 01
+
+
+
+
+4ª Propriedade: multiplicando-se (ou dividindo-se) uma constante                     ̅=𝒙
+                                                                                       ̅×𝒄
+                                                                                     𝒚
+c de todos os valores de uma variável, a média do conjunto fica
+multiplicada (ou dividida) por esta constante.                                     ̅=𝒙
+                                                                                   𝒚 ̅÷𝒄
+
+                                                                               𝒏
+
+                                                                                      ̅) = 𝟎
+                                                                               ∑(𝒙𝒊 − 𝒙
+5ª Propriedade: a soma algébrica dos desvios em relação à média
+                                                                               𝒊=𝟏
+é nula, ou seja, a soma dos desvios em relação à média é sempre                      𝒏
+igual a zero.
+                                                                                   ∑ 𝒅𝒊 = 𝟎
+                                                                                   𝒊=𝟏
+
+
+6ª Propriedade: A soma dos quadrados dos desvios da sequência            𝒏                   𝒏
+
+de números {𝑥𝑖 }, em relação a um número 𝑎, é mínima se 𝒂 for a
+                                                          ==219a34==
+                                                                                         𝟐
+                                                                                            ̅) 𝟐
+                                                                         ∑(𝒙𝒊 − 𝒂) ≥ ∑(𝒙𝒊 − 𝒙
+média aritmética dos números.                                            𝒊=𝟏                 𝒊=𝟏
+
+
+
+
+      Receita Federal (Analista Tributário) Estatística                                            9
+      www.estrategiaconcursos.com.br                                                               35
+
+                                    https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                       MÉDIA PONDERADA
+Em determinadas situações, alguns elementos de um conjunto são mais relevantes (mais
+importantes) que outros. Quando isso acontece, a média deve ser calculada de forma ponderada,
+justamente para levar em consideração a relevância de cada item.
+
+A média ponderada é a média de um conjunto de dados cujos valores possuem pesos variados.
+Ela é calculada a partir da expressão apresentada a seguir, em que 𝑝 é o peso de cada valor de 𝑥:
+
+                                                   ∑𝒏𝒊=𝟏(𝒙𝒊 × 𝒑𝒊 )
+                                                ̅=
+                                                𝒙
+                                                       ∑𝒏𝒊=𝟏 𝒑𝒊
+                                                            ==219a34==
+
+
+
+
+Observe que no numerador cada valor será multiplicado pelo seu respectivo peso, enquanto no
+denominador teremos a soma de todos os pesos.
+
+
+
+
+Suponha que a nota final de um aluno seja calculada como a média ponderada entre as notas de
+português e matemática. Considere também que português tenha peso 1 e matemática tenha
+peso 2. Assim, se um aluno tirar 6 em português e 9 em matemática, qual será sua nota final?
+
+                                                                                     ∑𝑛𝑖=1(𝑥𝑖 × 𝑝𝑖 )
+                                                                              𝑥̅ =
+                    PORTUGUÊS           MATEMÁTICA                                       ∑𝑛𝑖=1 𝑝𝑖
+
+                                                                                  𝑝𝑡𝑔 × 1 + 𝑚𝑡𝑚 × 2
+                                                                           𝑥̅ =
+                                                                                        1+2
+
+                                                                                     6×1+9×2
+                                                                              𝑥̅ =
+                                                                                        3
+
+                                                                                          24
+                                                                                   𝑥̅ =      =8
+                                                                                           3
+
+É importante observarmos que, caso fosse utilizada a média aritmética simples, não levando em
+consideração a importância atribuída à disciplina de matemática, a média desse candidato seria
+reduzida para:
+
+                                                  6 + 9 15
+                                                       =   = 7,5
+                                                    2    2
+
+
+        Receita Federal (Analista Tributário) Estatística                                              10
+        www.estrategiaconcursos.com.br                                                                 35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                         MÉDIA PARA DADOS AGRUPADOS
+Em estatística, os dados podem ser definidos como informações que representam os atributos
+qualitativos ou quantitativos de uma variável ou de um conjunto de variáveis. Esses dados podem
+ser classificados em agrupados e não agrupados. Normalmente, logo após a etapa de coleta,
+temos dados não agrupados ou dados brutos.
+
+Já, os dados agrupados são aqueles que passaram por algum nível de análise. Os dados agrupados
+podem ser organizados por frequência de um determinado valor ou por intervalos de classes:
+
+   •   quando organizados por valor, os dados são organizados de forma ascendente e suas
+       ocorrências são contabilizadas.
+   •   quando organizados por intervalos de classes, os dados também são organizados de forma
+       ascendente, porém, em classes preestabelecidas, e as ocorrências de cada classe são
+       contabilizadas.
+
+Para dados agrupados e apresentados como diagramas ou tabelas, a definição da média
+permanece inalterada, então, tudo o que estudamos permanece válido, mas teremos métodos
+específicos para obtenção da média. A seguir, veremos como proceder em cada caso.
+
+
+
+
+Média para Dados Agrupados por Valor
+
+Para dados agrupados por valor, a média é dada por:
+
+
+                                                   ∑𝒏𝒊=𝟏(𝑿𝒊 × 𝒇𝒊 )
+                                                ̅=
+                                                𝒙
+                                                       ∑𝒏𝒊=𝟏 𝒇𝒊
+
+O raciocínio é exatamente o mesmo adotado para a média ponderada, sendo que, agora, o peso
+é representado pela frequência (𝑓𝑖 ). Desse modo, multiplicamos cada valor por sua respectiva
+frequência, somamos tudo e dividimos pela soma das frequências.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                    11
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+A tabela a seguir apresenta os tempos de resolução de uma questão de estatística por um grupo
+de 10 alunos. Calcule o tempo médio de resolução para essa amostra.
+
+                                 Tempo de Resolução (𝑿𝒊 )           Frequência (𝒇𝒊 )
+                                                    1                       1
+                                                    3                       2
+                                                    5                       2
+                                                    6                       2
+                                                    7                       1
+                                                    9                       2
+
+Primeiro, devemos multiplicar cada valor por sua respectiva frequência (𝑋𝑖 × 𝑓𝑖 ), somar cada
+parcela e, então, dividir pela soma das frequências (∑𝑛𝑖=1 𝑓𝑖 ):
+
+                          Tempo de Resolução (𝑿𝒊 ) Frequência (𝒇𝒊 )              𝑿𝒊 × 𝒇𝒊
+
+                                         1                           1          1x1=1
+                                         3                           2          3x2=6
+                                         5                           2          5 x 2 = 10
+                                         6                           2          6 x 2 = 12
+                                         7                           1          7x1=7
+                                         9                           2          9 x 2 = 18
+                                       Total                         10            54
+
+Agora, basta dividirmos um valor pelo outro, obtendo:
+                                                    ∑𝑛𝑖=1(𝑋𝑖 × 𝑓𝑖 ) 54
+                                             𝑥̅ =                  =    = 5,4
+                                                        ∑𝑛𝑖=1 𝑓𝑖     10
+
+Portanto, a média dos dados apresentados na tabela é 5,4.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                    12
+        www.estrategiaconcursos.com.br                                                       35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+Média para Dados Agrupados por Classe
+
+Para dados agrupados por classe, a média é calculada a partir da seguinte fórmula:
+
+
+                                                  ∑𝒏𝒊=𝟏(𝑷𝑴𝒊 × 𝒇𝒊 )
+                                               ̅=
+                                               𝒙
+                                                       ∑𝒏𝒊=𝟏 𝒇𝒊
+
+A diferença em relação ao cálculo anterior consiste na substituição dos intervalos pelos seus
+respectivos pontos médios. O ponto médio (𝑷𝑴) é calculado pela média dos dois extremos do
+intervalo, pela seguinte expressão:
+
+
+                                                                         𝒍𝒊𝒏𝒇 + 𝒍𝒔𝒖𝒑
+                                                 𝑷𝑴 =
+                                                            ==219a34==
+
+
+
+
+                                                                              𝟐
+
+
+
+
+A tabela a seguir também apresenta os tempos de resolução de uma questão de estatística por
+um grupo de 10 alunos, mas agora está organizada em intervalos de classes. Calcule o tempo
+médio de resolução para essa amostra.
+
+                                      Tempo médio (𝑿𝒊 ) Frequência (𝒇𝒊 )
+                                            𝟎≤𝒙<𝟐                                      1
+                                            𝟐≤𝒙<𝟒                                      2
+                                            𝟒≤𝒙<𝟔                                      2
+                                            𝟔≤𝒙<𝟖                                      3
+                                           𝟖 ≤ 𝒙 < 𝟏𝟎                                  2
+
+O primeiro passo é o cálculo dos pontos médios de cada intervalo. Para isso, vamos incluir uma
+nova coluna:
+
+                        Tempo médio (𝑿𝒊 ) Ponto Médio (𝑷𝑴𝒊 ) Frequência (𝒇𝒊 )
+                              𝟎≤𝒙<𝟐                   (0 + 2)⁄2 = 1                        1
+                              𝟐≤𝒙<𝟒                   (2 + 4)⁄2 = 3                        2
+                              𝟒≤𝒙<𝟔                   (4 + 6)⁄2 = 5                        2
+                              𝟔≤𝒙<𝟖                   (6 + 8)⁄2 = 7                        3
+                             𝟖 ≤ 𝒙 < 𝟏𝟎               (8 + 10)⁄2 = 9                       2
+
+
+        Receita Federal (Analista Tributário) Estatística                                      13
+        www.estrategiaconcursos.com.br                                                         35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+Em seguida, vamos calcular os valores das multiplicações 𝑃𝑀𝑖 × 𝑓𝑖 . Após isso, somaremos todos
+os valores da coluna 𝑃𝑀𝑖 × 𝑓𝑖 , obtendo o termo ∑𝑛𝑖=1(𝑃𝑀𝑖 × 𝑓𝑖 ); e todos os termos da coluna 𝑓𝑖 ,
+obtendo o termo ∑𝑛𝑖=1 𝑓𝑖 . Veja a última linha da tabela:
+
+   Tempo médio (𝑿𝒊 )             Ponto Médio (𝑷𝑴𝒊 )             Frequência (𝒇𝒊 )   𝑷𝑴𝒊 × 𝒇𝒊
+        𝟎≤𝒙<𝟐                                1                             1       1x1=1
+        𝟐≤𝒙<𝟒                                3                             2       3x2=6
+        𝟒≤𝒙<𝟔                                5                             2       5 x 2 = 10
+        𝟔≤𝒙<𝟖                                7                             3       7 x 3 = 21
+       𝟖 ≤ 𝒙 < 𝟏𝟎                            9                             2       9 x 2 = 18
+            Total                                                      10             56
+
+Agora, basta dividirmos um valor pelo outro, obtendo:
+                                               ∑𝑛𝑖=1(𝑃𝑀𝑖 × 𝑓𝑖 ) 56
+                                          𝑥̅ =                 =    = 5,6
+                                                    ∑𝑛𝑖=1 𝑓𝑖     10
+Vejam que a média dos dados agrupados por classe (5,6) foi diferente da média dos dados
+agrupados por valor (5,4). Isso ocorreu porque, ao agruparmos os valores da variável em classes,
+perdemos detalhes que eram relevantes para o cálculo exato da média, embora a forma de
+apresentação tenha sido simplificada.
+
+
+
+
+Para um mesmo conjunto de dados, o resultado da média de dados agrupados por classe
+poderá ser diferente do resultado da média de dados agrupados por valor. Isso ocorre
+porque, ao agruparmos os valores em classes, perdemos informações importantes para o
+cálculo exato da média.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                       14
+        www.estrategiaconcursos.com.br                                                          35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                       MÉDIA GEOMÉTRICA
+A média geométrica é uma medida estatística muito utilizada em situações de acumulação de
+percentuais, fato muito comum em problemas financeiros. Também é encontrada na geometria
+plana, quando, por exemplo, queremos que a área de um quadrado seja igual à área de um
+retângulo.
+Essa medida é definida, para o conjunto de números positivos, como a raiz 𝒏-ésima do produto
+de 𝒏 elementos de um conjunto de dados. A propriedade principal dessa média é preservar o
+produto dos elementos de um conjunto de dados.
+Portanto, temos que:
+
+                                            𝑮 = 𝒏√𝒙𝟏 × 𝒙𝟐 × ⋯ × 𝒙𝒏
+
+Repare que a raiz varia de acordo com a quantidade de elementos da lista de números, isto é, se
+a lista contém dois números, teremos uma raiz quadrada; se a lista contém três números, teremos
+uma raiz cúbica.
+
+
+
+
+Sobre a média geométrica, podemos afirmar que:
+I – ela preserva o produto dos elementos de uma lista de números;
+II – ela é obtida por meio da raiz n-ésima do produto de n elementos de um conjunto, 𝑮 =
+√𝒙𝟏 × 𝒙𝟐 × ⋯ × 𝒙𝒏 .
+𝒏
+
+
+
+
+Somente definimos a média geométrica para números não negativos. Assim, evitamos
+situações em que a média geométrica não existe. Por exemplo, não conseguiríamos
+calcular a média geométrica de 1 e -1, pois a raiz quadrada de -1 não existe no campo dos
+números reais.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                   15
+        www.estrategiaconcursos.com.br                                                      35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                        MÉDIA HARMÔNICA
+A média harmônica é muito utilizada quando precisamos trabalhar com grandezas inversamente
+proporcionais. É o caso de problemas clássicos, como o cálculo da velocidade média de um
+automóvel ou da vazão de torneiras.
+Essa medida é definida, para o conjunto de números positivos, como o inverso da média aritmética
+dos inversos. A propriedade principal dessa média é preservar a soma dos inversos dos elementos
+de um conjunto de números.
+Portanto, a média harmônica é expressa por:
+
+                                         𝒏                                           𝟏
+                      𝑯=                                                 𝑯=
+                                                                               𝟏   𝟏       𝟏
+                                                            ==219a34==
+
+
+
+
+                             𝟏  𝟏     𝟏 ou                                    (𝒙 + 𝒙 + ⋯ + 𝒙 )
+                               + + ⋯+
+                             𝒙𝟏 𝒙𝟐    𝒙𝒏                                        𝟏   𝟐       𝒏
+                                                                                      𝒏
+em que 𝑛 corresponde à quantidade de termos que integram o conjunto.
+
+
+
+
+Sobre a média harmônica, podemos afirmar que:
+I – ela preserva a soma dos inversos de uma lista de números;
+                                                                                                     𝒏
+II – ela é definida como o inverso da média aritmética dos inversos, 𝑯 =                           𝟏 𝟏   .
+                                                                                                         𝟏
+                                                                                                 ( + +⋯+ )
+                                                                                                  𝒙𝟏 𝒙𝟐 𝒙𝒏
+
+
+
+
+Somente definimos a média harmônica para números não-negativos. Assim, evitamos
+situações em que a média harmônica não existe. Por exemplo, não conseguiríamos calcular
+a média harmônica de 1 e -1, pois a soma dos inversos resultaria em zero e, como sabemos,
+a divisão por zero é impossível de ser calculada.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                                    16
+        www.estrategiaconcursos.com.br                                                                       35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                              DESIGUALDADE DAS MÉDIAS
+Dada uma lista de 𝑛 números positivos, {𝑥1 , 𝑥2 , ⋯ , 𝑥𝑛 }, podemos afirmar que:
+
+                                                       ̅≥𝑮≥𝑯
+                                                       𝒙
+
+em que 𝑥̅ é a média aritmética; 𝐺 é a média geométrica e 𝐻 é a média harmônica.
+
+Significa dizer que a média aritmética será sempre maior ou igual à média geométrica que, por
+sua vez, será sempre maior ou igual à média harmônica.
+
+
+
+
+Tomemos como exemplo os números 4, 12 e 20. Como sabemos, a média aritmética será:
+                                                       4 + 12 + 20
+                                               𝑥̅ =                = 12
+                                                            3
+A média geométrica será:
+                                                   3
+                                             𝐺 = √4 × 12 × 20 ≅ 9,86
+E a média harmônica será:
+                                                       3
+                                              𝐻=             ≅ 7,83
+                                                    1 1    1
+                                                     +   +
+                                                    4 12 20
+Obtivemos, portanto, uma média aritmética (𝑥̅ = 12) maior que a média geométrica (𝐺 = 9,86)
+que, por sua vez, é maior que a média harmônica (𝐻 = 7,83).
+
+
+
+Por fim, a igualdade entre as médias, 𝒙
+                                      ̅ = 𝑮 = 𝑯, somente ocorrerá quando os números do
+conjunto forem todos iguais.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                 17
+        www.estrategiaconcursos.com.br                                                    35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                             QUESTÕES COMENTADAS – FGV
+
+Média Aritmética Simples
+
+1. (FGV/FunSaúde CE/2021) Em um conjunto de 12 números, a média de 4 deles é 15 e a média dos outros
+8 é 18.
+A média dos 12 números é
+a) 17.
+b) 16,8.
+c) 16,5.
+d) 16.
+e) 15,5.
+
+
+Comentários:
+Temos 12 números divididos em 2 conjuntos. O primeiro conjunto, que chamaremos de 𝐴, é formado por
+quatro números, e a média vale 15. O segundo conjunto, que chamaremos de 𝐵, é formado por oito
+números, e a média vale 18.
+Sabemos que a média é determinada pela soma dos números do conjunto dividida pela quantidade de
+termos. Então, precisamos encontrar o somatório dos números de 𝐴 e 𝐵 para depois calcularmos a média
+total dos 12 números. Assim:
+Para 𝐴:
+                                                             𝑠𝑜𝑚𝑎𝐴
+                                                         𝑥̅ =
+                                                                𝑛
+                                                              𝑠𝑜𝑚𝑎𝐴
+                                                        15 =
+                                                                 4
+                                                      𝑠𝑜𝑚𝑎𝐴 = 15 × 4
+                                                        𝑠𝑜𝑚𝑎𝐴 = 60
+Para 𝐵:
+                                                             𝑠𝑜𝑚𝑎𝐵
+                                                         𝑥̅ =
+                                                                𝑛
+                                                              𝑠𝑜𝑚𝑎𝐵
+                                                        18 =
+                                                                 8
+                                                      𝑠𝑜𝑚𝑎𝐵 = 18 × 8
+                                                        𝑠𝑜𝑚𝑎𝐵 = 144
+
+
+
+           Receita Federal (Analista Tributário) Estatística                                     18
+           www.estrategiaconcursos.com.br                                                        35
+
+                                         https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+Agora, podemos calcular a média total para os 12 números:
+                                                           𝑠𝑜𝑚𝑎𝐴 + 𝑠𝑜𝑚𝑎𝐵
+                                                    𝑥̅ =
+                                                                 𝑛
+                                                               60 + 144
+                                                       𝑥̅ =
+                                                                  12
+                                                                 204
+                                                            𝑥̅ =
+                                                                  12
+                                                             𝑥̅ = 17
+Gabarito: A.
+
+
+2. (FGV/Pref Paulínia/2021) Um grupo de 10 amigos, em que o mais novo tem 55 anos, constatou que a
+                                                              ==219a34==
+
+
+
+
+média de suas idades é 64 anos. Se o mais novo e o mais velho saírem do grupo, a média das idades dos
+oito restantes continua sendo 64.
+A idade do mais velho é
+a) 69.
+b) 70.
+c) 71.
+d) 72.
+e) 73.
+
+
+Comentários:
+Sabemos que a média aritmética é definida pela soma dos números de um conjunto dividida pela quantidade
+de termos nele existentes:
+                                                    𝑠𝑜𝑚𝑎
+                                             𝑥̅ =        ⟹ 𝑠𝑜𝑚𝑎 = 𝑥̅ × 𝑛
+                                                      𝑛
+Assim, a soma das idades dos 9 amigos (𝑠𝑜𝑚𝑎9 ) mais a idade do mais novo (55 anos) forma a soma das
+idades dos 10 amigos:
+                                                𝑠𝑜𝑚𝑎9 + 55 = 64 × 10
+                                                    𝑠𝑜𝑚𝑎9 + 55 = 640
+Então, concluímos que a soma das idades dos 10 amigos, incluindo o mais novo, é igual a 640. Se excluirmos
+a idade do mais novo, teremos a soma das idades dos 9 amigos restantes:
+                                                    𝑠𝑜𝑚𝑎9 = 640 − 55
+                                                       𝑠𝑜𝑚𝑎9 = 585
+Logo, a soma das idades dos 9 amigos é de 585 anos.
+
+
+         Receita Federal (Analista Tributário) Estatística                                             19
+         www.estrategiaconcursos.com.br                                                                35
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+Agora, descobriremos a soma das idades para apenas 8 amigos, excluindo a idade do mais velho:
+                                                     𝑠𝑜𝑚𝑎8 = 64 × 8
+                                                      𝑠𝑜𝑚𝑎8 = 512
+Por fim, para sabermos a idade do mais velho basta subtraímos:
+                                        𝑠𝑜𝑚𝑎9 − 𝑠𝑜𝑚𝑎8 = 585 − 512 = 73
+Logo, a idade do mais velho é de 73 anos.
+Gabarito: E.
+
+
+3. (FGV/IMBEL/2021) A média de 6 números é 33. Um deles foi retirado e a média dos outros passou a ser
+31.
+Assinale a opção que indica o número que foi retirado.
+a) 35.
+b) 37.
+c) 39.
+d) 41.
+e) 43.
+
+
+Comentários:
+A média aritmética simples é definida pela soma dos números do conjunto dividida pela quantidade de
+termos. Assim, temos que, para 𝑛 igual a 6:
+                                                    𝑠𝑜𝑚𝑎
+                                             𝑥̅ =        ⟹ 𝑠𝑜𝑚𝑎 = 𝑥̅ × 𝑛
+                                                      𝑛
+                                                     𝑠𝑜𝑚𝑎6 = 33 × 6
+                                                      𝑠𝑜𝑚𝑎6 = 198
+Agora, para 𝑛 igual a 5, a nova média é 31:
+                                                     𝑠𝑜𝑚𝑎5 = 31 × 5
+                                                      𝑠𝑜𝑚𝑎5 = 155
+Para descobrirmos o número que foi retirado, o qual chamaremos de 𝑥, basta subtrairmos:
+                                                     𝑥 = 198 − 155
+                                                             𝑥 = 43
+Gabarito: E.
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                         20
+         www.estrategiaconcursos.com.br                                                            35
+
+                                       https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 01
+
+
+
+
+                              QUESTÕES COMENTADAS – FGV
+
+Média Ponderada
+
+1. (FGV/TCE-TO/2022) Uma variável aleatória discreta X tem função de probabilidade dada por
+
+                                      Valores de X            -3    -1     0         1         3
+
+                                      Probabilidades 0,1 0,2 0,3 0,2 0,2
+
+A média de X é igual a:
+a) 0,1;
+b) 0,2;
+c) 0,3;
+d) 0,4;
+e) 0,5
+
+
+Comentários:
+Para calcularmos a média, precisamos inicialmente multiplicar todos os valores de X por suas respectivas
+probabilidades. Assim, teremos:
+                              (−3 × 0,1) + (−1 × 0,2) + (0 × 0,3) + (1 × 0,2) + (3 × 0,2)
+                       𝑋̅ =
+                                             0,1 + 0,2 + 0,3 + 0,2 + 0,2
+                                                               0,3
+                                                       𝑋̅ =        = 0,3
+                                                                1
+Gabarito: C.
+
+
+2. (FGV/IMBEL/2021) ATENÇÃO: tomando por base a tabela, responda a questão a seguir.
+Consumo de um produto ao longo de 4 meses.
+
+                                     Mês       Consumo             Pesos       Me        Te        P
+
+
+                                       1           100              0,1        ...       20 100
+
+                                       2           120              0,2        ...       ...       ...
+
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                              21
+          www.estrategiaconcursos.com.br                                                                 35
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                      3           132                     0,3   ...   ...   ...
+
+
+                                      4           156                     0,4   ...   ...   ...
+
+                                      5           170                     ...   ...   ...   ?
+
+Dados:
+• Me é a média exponencial;
+• Te é a tendência exponencial;
+• P é a previsão de consumo no mês.
+Considerando os métodos da média simples e da média ponderada, as previsões de consumo no mês 5
+                                                             ==219a34==
+
+
+
+
+seriam, respectivamente, de
+a) 127 e 127
+b) 127 e 136
+c) 127 e 142
+d) 136 e 127
+e) 136 e 142
+
+
+Comentários:
+A média aritmética de um conjunto de dados é definida como o quociente entre a soma de todos os
+elementos e o número de elementos do conjunto. Então, vamos calcular a média simples para o mês 5, como
+pede a questão:
+                                           100 + 120 + 132 + 156 508
+                                    𝑥̅ =                        =    = 127
+                                                     4            4
+Uma média ponderada é a média de um conjunto de dados cujos valores possuem pesos variados.
+Calculando a média ponderada para o mês 5, temos:
+                        (100 × 0,1) + (120 × 0,2) + (132 × 0,3) + (156 × 0,4) 136
+                 𝑥̅ =                                                        =    = 136
+                                        0,1 + 0,2 + 0,3 + 0,4                  1
+Logo, a média simples é 127 e a média ponderada é 136.
+Gabarito: B.
+
+
+
+
+         Receita Federal (Analista Tributário) Estatística                                          22
+         www.estrategiaconcursos.com.br                                                             35
+
+                                       https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                          QUESTÕES COMENTADAS – FGV
+
+Média para Dados Agrupados
+
+1. (FGV/BANESTES/2018) Em uma empresa, os funcionários são classificados em atendentes, técnicos ou
+gerentes. A tabela abaixo mostra a quantidade de funcionários de cada categoria e o salário que cada um
+recebe.
+
+                                                 Número de
+                                 Categoria                       Salário em reais
+                                                Funcionários
+
+                                Atendente             10               1800
+
+                                  Técnico             8                3000
+
+                                  Gerente             2                4200
+
+Nessa empresa, o salário médio dos seus funcionários é de:
+a) 2480 reais;
+b) 2520 reais;
+c) 2640 reais;
+d) 2700 reais;
+e) 3000 reais.
+
+
+Comentários:
+Para calcular a média de dados agrupados por valor, devemos multiplicar cada valor pela sua respectiva
+frequência, somar os resultados e dividir pela soma das frequências:
+                                          1.800 × 10 + 3.000 × 8 + 4.200 × 2
+                                   𝑥̅ =
+                                                       10 + 8 + 2
+                                                     50.400
+                                                𝑥̅ =        = 2.520
+                                                       20
+Gabarito: B.
+
+
+2. (FGV/CGE-MA/2014) No ano de 2013 uma empresa exportadora de grãos, exportou em cada um dos
+três primeiros meses do ano, 21.000 toneladas de soja. Em cada um dos sete meses seguintes exportou
+27.000 toneladas de soja e, em cada um dos dois últimos meses do ano exportou 15.000 toneladas de soja.
+Em 2013 essa empresa exportou por mês, em média, a quantidade de
+a) 5.250 toneladas.
+b) 15.750 toneladas.
+
+
+        Receita Federal (Analista Tributário) Estatística                                           23
+        www.estrategiaconcursos.com.br                                                              35
+
+                                      https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+c) 21.000 toneladas.
+d) 23.500 toneladas.
+e) 25.250 toneladas.
+
+
+Comentários:
+
+Para facilitar a resolução da questão, podemos organizar os dados em formato de tabela:
+
+                                    Toneladas Meses                        Toneladas x Meses
+                                        21.000        3                    21.000 x 3 = 63.000
+                                        27.000        7                   27.000 x 7 = 189.000
+                                        15.000        2     ==219a34==
+
+
+
+
+                                                                           15.000 x 2 = 30.000
+                                         Total        12                           282.000
+
+Para calcular a média dos dados agrupados por valor, devemos multiplicar cada valor pela sua respectiva
+frequência, somar todos os produtos, e dividir o resultado pela soma das frequências:
+
+                                        21.000 × 3 + 27.000 × 7 + 15.000 × 2
+                                 𝑥̅ =
+                                                         12
+
+                                                 63.000 + 189.000 + 30.000
+                                          𝑥̅ =
+                                                            12
+
+                                                                         282.000
+                                                     𝑥̅ =
+                                                                           12
+
+                                                      𝑥̅ = 23.500
+
+Gabarito: D.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                           24
+        www.estrategiaconcursos.com.br                                                              35
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                            QUESTÕES COMENTADAS – FGV
+
+Média Geométrica
+
+1. (FGV/SEFAZ-RJ/2011) Em uma repartição, foi tomada uma amostra do número de filhos de 4
+funcionários. O resultado foi {2, 1, 4, 2}. A média geométrica simples dessa amostra é
+a) 2,25
+b) 1,75
+c) 2
+d) 2,4
+e) 2,5
+                                                              ==219a34==
+
+
+
+
+Comentários:
+
+A média geométrica de 4 números é a raiz quarta do produto desses números:
+                                                 4                         4
+                                            𝐺 = √2 × 1 × 4 × 2 = √16 = 2
+
+Gabarito: C.
+
+
+
+
+          Receita Federal (Analista Tributário) Estatística                           25
+          www.estrategiaconcursos.com.br                                              35
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                   LISTA DE QUESTÕES – FGV
+
+Média Aritmética Simples
+
+1. (FGV/FunSaúde CE/2021) Em um conjunto de 12 números, a média de 4 deles é 15 e a média dos outros
+8 é 18.
+A média dos 12 números é
+a) 17.
+b) 16,8.
+c) 16,5.                                                       ==219a34==
+
+
+
+
+d) 16.
+e) 15,5.
+
+
+2. (FGV/Pref Paulínia/2021) Um grupo de 10 amigos, em que o mais novo tem 55 anos, constatou que a
+média de suas idades é 64 anos. Se o mais novo e o mais velho saírem do grupo, a média das idades dos
+oito restantes continua sendo 64.
+A idade do mais velho é
+a) 69.
+b) 70.
+c) 71.
+d) 72.
+e) 73.
+
+
+3. (FGV/IMBEL/2021) A média de 6 números é 33. Um deles foi retirado e a média dos outros passou a ser
+31.
+Assinale a opção que indica o número que foi retirado.
+a) 35.
+b) 37.
+c) 39.
+d) 41.
+e) 43.
+
+
+
+           Receita Federal (Analista Tributário) Estatística                                       26
+           www.estrategiaconcursos.com.br                                                          35
+
+                                         https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 01
+
+
+
+
+                                         GABARITO – FGV
+
+Média Aritmética Simples
+
+  1. LETRA A                                  2. LETRA E                  3. LETRA E
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                               27
+       www.estrategiaconcursos.com.br                                                  35
+
+                                     https://t.me/KakashiAssinaturasBot
+   Equipe Exatas Estratégia Concursos
+   Aula 01
+
+
+
+
+                                  LISTA DE QUESTÕES – FGV
+
+Média Ponderada
+
+1. (FGV/TCE-TO/2022) Uma variável aleatória discreta X tem função de probabilidade dada por
+
+                                      Valores de X            -3    -1     0         1         3
+
+                                      Probabilidades 0,1 0,2 0,3 0,2 0,2
+
+A média de X é igual a:
+a) 0,1;
+b) 0,2;
+c) 0,3;
+d) 0,4;
+e) 0,5
+
+
+2. (FGV/IMBEL/2021) ATENÇÃO: tomando por base a tabela, responda a questão a seguir.
+Consumo de um produto ao longo de 4 meses.
+
+                                     Mês       Consumo             Pesos       Me        Te        P
+
+
+                                       1           100              0,1        ...       20 100
+
+                                       2           120              0,2        ...       ...       ...
+
+
+                                       3           132              0,3        ...       ...       ...
+
+                                       4           156              0,4        ...       ...       ...
+
+
+                                       5           170              ...        ...       ...       ?
+
+Dados:
+• Me é a média exponencial;
+• Te é a tendência exponencial;
+
+
+
+          Receita Federal (Analista Tributário) Estatística                                              28
+          www.estrategiaconcursos.com.br                                                                 35
+
+                                        https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+• P é a previsão de consumo no mês.
+Considerando os métodos da média simples e da média ponderada, as previsões de consumo no mês 5
+seriam, respectivamente, de
+a) 127 e 127
+b) 127 e 136
+c) 127 e 142
+d) 136 e 127
+e) 136 e 142
+
+
+                                                            ==219a34==
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                   29
+        www.estrategiaconcursos.com.br                                                      35
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 01
+
+
+
+
+                                         GABARITO – FGV
+
+Média Ponderada
+
+  1. LETRA C                                  2. LETRA B
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  30
+       www.estrategiaconcursos.com.br                                     35
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                LISTA DE QUESTÕES – FGV
+
+Média para Dados Agrupados
+
+1. (FGV/BANESTES/2018) Em uma empresa, os funcionários são classificados em atendentes, técnicos ou
+gerentes. A tabela abaixo mostra a quantidade de funcionários de cada categoria e o salário que cada um
+recebe.
+
+                                                 Número de
+                                 Categoria                       Salário em reais
+                                                Funcionários
+
+                                Atendente             10               1800
+
+                                  Técnico             8                3000
+
+                                  Gerente             2                4200
+
+Nessa empresa, o salário médio dos seus funcionários é de:
+a) 2480 reais;
+b) 2520 reais;
+c) 2640 reais;
+d) 2700 reais;
+e) 3000 reais.
+
+
+2. (FGV/CGE-MA/2014) No ano de 2013 uma empresa exportadora de grãos, exportou em cada um dos
+três primeiros meses do ano, 21.000 toneladas de soja. Em cada um dos sete meses seguintes exportou
+27.000 toneladas de soja e, em cada um dos dois últimos meses do ano exportou 15.000 toneladas de soja.
+Em 2013 essa empresa exportou por mês, em média, a quantidade de
+a) 5.250 toneladas.
+b) 15.750 toneladas.
+c) 21.000 toneladas.
+d) 23.500 toneladas.
+e) 25.250 toneladas.
+
+
+
+
+        Receita Federal (Analista Tributário) Estatística                                           31
+        www.estrategiaconcursos.com.br                                                              35
+
+                                      https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 01
+
+
+
+
+                                         GABARITO – FGV
+
+Média para Dados Agrupados
+
+  1. LETRA B                                  2. LETRA D
+
+
+
+
+                                                           ==219a34==
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  32
+       www.estrategiaconcursos.com.br                                     35
+
+                                     https://t.me/KakashiAssinaturasBot
+  Equipe Exatas Estratégia Concursos
+  Aula 01
+
+
+
+
+                                  LISTA DE QUESTÕES – FGV
+
+Média Geométrica
+
+1. (FGV/SEFAZ-RJ/2011) Em uma repartição, foi tomada uma amostra do número de filhos de 4
+funcionários. O resultado foi {2, 1, 4, 2}. A média geométrica simples dessa amostra é
+a) 2,25
+b) 1,75
+c) 2
+d) 2,4
+e) 2,5
+                                                              ==219a34==
+
+
+
+
+          Receita Federal (Analista Tributário) Estatística                           33
+          www.estrategiaconcursos.com.br                                              35
+
+                                        https://t.me/KakashiAssinaturasBot
+ Equipe Exatas Estratégia Concursos
+ Aula 01
+
+
+
+
+                                         GABARITO – FGV
+
+Média Geométrica
+
+  1. LETRA C
+
+
+
+
+       Receita Federal (Analista Tributário) Estatística                  34
+       www.estrategiaconcursos.com.br                                     35
+
+                                     https://t.me/KakashiAssinaturasBot
+

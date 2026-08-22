@@ -1,0 +1,399 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+AVALIAÇÃO DE ESTOQUES
+
+
+                                              Prof. Ricardo Campanario
+
+
+
+
+         https://t.me/KakashiAssinaturasBot
+       Avaliação dos Estoques
+       Controle gerencial, tanto físico como financeiro
+       ❑ A avaliação adequada dos materiais recebidos e localizados no estoque é de suma importância
+         para a Contabilidade. Nesse contexto, todas as formas de registro de estoque objetivam
+         controlar a quantidade de materiais em estoque, tanto o volume físico como o financeiro.
+
+       ❑ Porém, a avaliação de estoque anual deverá ser realizada em termos de preço, para proporcionar
+         uma avaliação exata do material e informações financeiras atualizadas.
+
+       ❑ A avaliação dos estoques inclui o valor das mercadorias e dos produtos em fabricação ou
+         produtos acabados. Para se fazer uma avaliação desse material, deve-se tomar por base o preço
+         de custo ou de mercado, preferindo-se o menor deles.
+
+       ❑ O preço de mercado é aquele pelo qual é comprado o material e consta da nota fiscal do
+         fornecedor. No caso de materiais de fabricação da própria empresa, o preço de custo será aquele
+         da fabricação do produto.
+
+       ❑ É possível realizar a avaliação dos estoques por meio de quatro métodos diferentes. Vamos
+         conhecê-los:
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custo médio dos Estoques
+       Utiliza o preço médio e torna o cálculo mais estável
+     ❑ Esta é a forma mais frequente de avaliação. Toma por base o preço de todas as
+       retiradas, ao preço médio do suprimento total do item em estoque. O método age
+       como um grande estabilizador pois equilibra as flutuações de preços além de, no
+       longo prazo, refletir os custos reais das compras do material.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Custo médio dos Estoques
+       Vejamos um exemplo
+
+
+
+
+                1. Na coluna Entradas, note que inicialmente foram comprados 200 itens ao valor de $2, totalizando $400. Em
+                seguida uma nova compra, agora de 100 unidades, ao valor de $500. Veja agora que na coluna saldos, a soma
+                das compras de 200 e 100 unidades totalizam 300 unidades ao valor de $900 ($400 + $500), o que gera um
+                preço médio de $3/unidade.
+
+                2. Em um segundo momento tivemos a saída de 50 itens (coluna Saída). Considerando que o custo médio dos
+                itens nesse momento é de $3 (vimos no item 1 acima), os 50 itens saem do estoque a $3/cada, totalizando
+                $150.
+
+                3. Veja agora que na coluna Saldo, com a saída dos 50 itens que vimos no item 2, o saldo cai de 300 para 250.
+                O valor total dos estoques acompanha a queda e vai de $900 para $750 (saída de $150 que vimos no item 2)
+                e, por fim, a média permanece em $3 pois só tivemos saídas do estoque, o que não altera seu custo médio.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Custo médio dos Estoques
+       Vejamos um exemplo
+
+
+
+
+      Note portanto que, no cálculo do custo médio, o valor médio dos estoques varia sempre que há a
+      entrada de novos itens, a valores diferentes da média do custo atual dos estoques. Dessa forma a
+      coluna Saldos sempre é ajustada em volume, valor e custo médio quando temos a compra de novos
+      itens.
+
+      Já no momento da saída de itens, temos o ajuste do volume e do valor total para baixo (para se
+      adequar a venda que ocorreu) porém o valor médio dos estoques não se altera pois não há a
+      entrada de itens com custos diferentes para que seja necessário fazer qualquer ajuste.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Método PEPS (FIFO)
+       Sai primeiro o que entrou primeiro (mais antigo -> custo mais baixo)
+
+       ❑ Este é o método conhecido como "Primeiro a Entrar, Primeiro a Sair" ou "First In,
+         First Out".
+       ❑ A avaliação feita por esse método se baseia na ordem cronológica das entradas.
+       ❑ Sai do armazém em primeiro lugar justamente aquele material que entrou primeiro
+         lugar, tendo dessa forma o seu custo real aplicado no cálculo.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Método PEPS (FIFO)
+       Um exemplo
+
+
+
+
+                 1. Assim como no caso inicial, na coluna Entradas, note que inicialmente foram comprados 200 itens ao valor de $2,
+                 totalizando $400. Em seguida uma nova compra, agora de 100 unidades, ao valor de $500. Veja que na coluna saldos,
+                 a soma das compras de 200 e 100 unidades continuam totalizando 300 unidades ao valor de $900 ($400 + $500). Não
+                 há mais a geração de um preço médio, que não é considerado neste cálculo.
+
+                 2. Em um segundo momento tivemos a saída de 50 itens (coluna Saída). Aqui está a grande diferença entre os 2
+                 métodos. Ao invés de usarmos o preço médio do estoque (como foi feito no método anterior), agora usa-se o próprio
+                 valor do item que está saindo que, no PEPS, são os primeiros que entraram, lembra-se? Desta forma os 50 itens que
+                 estão saindo fazem parte do primeiro lote de 200 unidades que entrou, ao custo de $2/cada. Dessa forma, os 50 itens
+                 saem com o valor de $2/cada e não ao preço médio de $3 como aconteceu no exemplo anterior.
+
+                 3. Veja agora que na coluna Saldo, com a saída dos 50 itens que vimos no item 2, o saldo cai de 300 para 250. O valor
+                 total dos estoques acompanha a queda porém, ao invés de cair para $750 como no exemplo anterior (pois o preço
+                 médio do item que saía era $3), cai para $800 pois saíram 50 itens ao seu valor de entrada $2, portanto a saída
+                 representa $100.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                      https://t.me/KakashiAssinaturasBot
+       Método PEPS (FIFO)
+       Um exemplo
+
+
+
+
+       Veja que agora o custo médio do estoque sequer é calculado e o valor da saída é exatamente o valor da entrada
+       do item (no caso, $2). Como foram só 50, todos estão contidos no primeiro lote que entrou, de 200 unidades.
+
+
+
+
+        Porém, se a venda tivesse sido, por exemplo, de 250 unidades, teríamos a saída de todo o lote de 200 unidades a
+       $2/cada mais a saída de 50 unidades do segundo lote, a $5/cada, portanto teríamos uma saída total de $650, ou
+       seja, 200 unidade a $2 (=$400) e 50 unidade a $5 (=250), totalizando $650.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Método UEPS (LIFO)
+       Sai primeiro o que entrou por último (mais recente -> custo mais alto)
+
+
+       ❑ Já o método UEPS é conhecido como o "Último a Entrar, Primeiro a Sair" ou "Last In,
+         First Out". Você vai notar que a lógica é exatamente a contrária do PEPS/FIFO.
+       ❑ Esse método de avaliação considera que devem em primeiro lugar sair os itens que
+         deram entrada no estoque mais recentemente, ou seja, os último que entraram.
+       ❑ Isso faz com que o saldo seja sempre avaliado ao preço das últimas entradas, o que
+         eleva o seu valor, sendo por isso o método indicado para períodos inflacionários.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Método UEPS (LIFO)
+       Um exemplo
+
+
+
+
+       1. Mais uma vez, assim como no caso inicial, na coluna Entradas, note que inicialmente foram comprados 200 itens ao valor de $2,
+       totalizando $400. Em seguida uma nova compra, agora de 100 unidades, ao valor de $500. Na coluna saldos, a soma das compras
+       de 200 e 100 unidades continuam totalizando 300 unidades ao valor de $900 ($400 + $500). Novamente não há a geração de um
+       preço médio, que não é considerado neste cálculo.
+       2. Em um segundo momento tivemos a saída de 50 itens (coluna Saída). Aqui está a diferença, agora em relação ao método PEPS.
+       Ao invés de usarmos o preço dos primeiros itens que entraram para dar a baixa nos itens que estão saindo, o valor que é usado é
+       o custo dos últimos itens adquiridos. Note que as 50 unidades que estão saindo do estoque estão sendo avaliadas a $5 (valor do
+       último lote que entrou, de 100 unidades) e não a $2 como aconteceu no PEPS (que considera o valor dos itens que entraram
+       primeiro, ou seja, o lote de 200 unidades a $2). Nesse contexto, os 50 itens saem com o valor de $5/cada, totalizando $250.
+       3. Veja agora que na coluna Saldo, com a saída dos 50 itens que vimos no item 2, o saldo continua caindo de 300 para 250. Isso
+       não se altera pois a saída em volume é a mesma. A diferença está no valor. O valor total dos estoques acompanha a queda porém,
+       ao invés de cair para $800 como no método PEPS (que considera o valor de $2/item), cai para $650 pois saíram 50 itens ao valor
+       de entrada de $5, portanto a saída representa $250, ao contrário dos $100 do método PEPS.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                   https://t.me/KakashiAssinaturasBot
+       Método UEPS (LIFO)
+       Um exemplo
+
+
+
+
+       Mais uma vez, perceba que o custo médio do estoque sequer é calculado e o valor da saída é exatamente o valor
+       da entrada do item (neste caso, $5). Como foram só 50, todos estão contidos no último lote que entrou, de 100
+       unidades.
+
+
+
+
+       Porém, se a venda tivesse sido, por exemplo, de 250 unidades, teríamos a saída de todo o lote de 100 unidades a
+       $5/cada mais a saída de 150 unidades do primeiro lote, a $2/cada, portanto teríamos uma saída total de $800, ou
+       seja, 100 unidade a $5 (=$500) e 150 unidade a $2 (=$300), totalizando $800.
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                             https://t.me/KakashiAssinaturasBot
+       Custo de Reposição
+       Atualiza os custos da inflação
+
+       ❑ A avaliação pelo custo de reposição tem por base a elevação dos custos a curto prazo em relação
+         à inflação. Vejamos usando um exemplo prático:
+
+       ❑ Uma empresa tem um estoque de 200 unidades ao preço unitário de $10, porém, espera para os
+         próximos 6 meses uma alta de preços de 10%. Logo, para os próximos 6 meses será feito um
+         ajuste $1 no custo unitário de reposição, que passará de $10 para $11.
+
+       ❑ Podemos usar a seguinte fórmula para o cálculo:
+                         CR (custo de reposição) = PU (preço unitário) + Acréscimo esperado ao CR
+
+       Onde:
+       PU = $10
+       Acréscimo esperado = 10% ou $1.
+       Assim o custo de reposição = $10 + $1 ou $11
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/IMBEL/Analista Administrativo/2021) Relacione os métodos de avaliação de estoque listados a
+     seguir às suas respectivas características.
+     I. Custo Médio
+     II. PEPS
+     III. UEPS
+     ( ) minimiza grandes flutuações do custo.
+     ( ) os valores dos estoques estarão mais atualizados.
+     ( ) os últimos itens adquiridos sairão do estoque antes.
+     Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+     a) I, II e III
+     b) III, II e I
+     c) II, I e III
+     d) I, III e II
+     e) II, III e I
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FGV/IMBEL/Analista Administrativo/2021) Relacione os métodos de avaliação de estoque listados a
+     seguir às suas respectivas características.
+     I. Custo Médio
+     II. PEPS
+     III. UEPS
+     ( ) minimiza grandes flutuações do custo.
+     ( ) os valores dos estoques estarão mais atualizados.
+     ( ) os últimos itens adquiridos sairão do estoque antes.
+     Assinale a opção que indica a relação correta, segundo a ordem apresentada.
+     a) I, II e III
+     b) III, II e I
+     c) II, I e III
+     d) I, III e II
+     e) II, III e I
+     GABARITO - A
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/PGDF/Técnico Administrativo/2021) Com o objetivo de aumentar a eficiência dos estoques
+     e garantir a disponibilidade de itens perecíveis, o gestor de estoques deverá utilizar a técnica LIFO (last
+     in, first out), segundo a qual o último produto a entrar deve ser o primeiro a sair.
+     a) CERTO
+     b) ERRADO
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (CEBRASPE/PGDF/Técnico Administrativo/2021) Com o objetivo de aumentar a eficiência dos estoques
+     e garantir a disponibilidade de itens perecíveis, o gestor de estoques deverá utilizar a técnica LIFO (last
+     in, first out), segundo a qual o último produto a entrar deve ser o primeiro a sair.
+     a) CERTO
+     b) ERRADO
+     GABARITO - ERRADA
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) Os métodos de avaliação de estoques voltam-se à
+     verificação e ao acompanhamento de quanto capital está imobilizado em estoque. O método que adota
+     como valor de saída de um item de material os preços dos itens que deram entrada em data mais
+     remota é denominado:
+     a) LIFO.
+     b) Custo médio.
+     c) UEPS.
+     d) PEPS.
+     e) custo específico.
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (IASP/CM Mesquita-RJ/Gestor de Patrimônio/2020) Os métodos de avaliação de estoques voltam-se à
+     verificação e ao acompanhamento de quanto capital está imobilizado em estoque. O método que adota
+     como valor de saída de um item de material os preços dos itens que deram entrada em data mais
+     remota é denominado:
+     a) LIFO.
+     b) Custo médio.
+     c) UEPS.
+     d) PEPS.
+     e) custo específico.
+     GABARITO - D
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FCC/DPE-RS/Técnico Logística/2017) A fábrica de notebook NB consome a matéria prima X no seu
+     produto acabado. A tabela abaixo mostra a movimentação do material X. O custo unitário do saldo final
+     de estoque do material pelos métodos "Primeiro Entra, Primeiro Sai" (PEPS), "Último Entra, Ultimo Sai"
+     (UEPS) e Custo Médio Unitário são, respectivamente:
+     a) 15,00; 20,00; 18,00
+     b) 18,00; 20,00; 15,00
+     c) 20,00; 15,00; 18,00
+     d) 18,00; 15,00; 20,00
+     e) 15,00; 18,00; 20,00
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+
+
+
+                                            Custo médio = $18,00 ($4500 para 250 unidades).
+
+                                            Em primeiro lugar vamos calcular o valor do estoque após as duas compras realizadas: 100 unidades a $15 e 150
+                                            unidades a $20. Nesse cenário temos 100 x $15 + 150 x $20, ou seja, o estoque tem em 9/9 o valor de $4500.
+                                            PEPS - os 150 itens que saem no dia 23/09, saem ao valor de $15 (os 100 do primeiro lote) e $20 (50 do segundo lote
+                                            comprado). Dessa forma temos a saída dos 150 itens ao valor de $2500 (100 x $15 + 50 x $20). Nesse caso o estoque
+                                            passa a ter o valor total de $2000 ($4500 - $2500) e 100 unidades, portanto o custo unitário passa a ser de $20.
+                                            UEPS - pelo método UEPS, os 150 itens que saem no dia 23/09, saem todos ao valor de $20 (são os 150 itens do
+                                            segundo lote, comprados por último, em 9/9), ou seja, a um valor total de $3000. Nesse caso o estoque passa a ter o
+                                            valor total de $1500 ($4500 - $3000) e as mesmas 100 unidades do método anterior. O custo unitário passa a ser de
+                                            $15.
+                                            Por último, pelo Custo Médio Unitário, no momento da saída em 23/9 o estoque possuía 250 unidades a um valor
+                                            total de $4500. Isso gera um custo médio de $18/unidade. Como neste método o valor médio só se altera com a
+                                            entrada de novos itens a preços diferentes, o valor se mantem. Saem os 150 itens, todos a $18/unidade, restando
+                                            $100 itens, também a 18 a unidade. Para conferir, vamos fazer a conta: o estoque valia $4500. Saíram 150 itens em
+                                            23/9 a $18/cada = $2700. O valor do estoque passa a ser $1800 ($4500 - $2700). Como restaram 100 itens, o valor
+                                            médio permanece sendo de $18/item, ou $1800/100!
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                     https://t.me/KakashiAssinaturasBot
+       Questão Comentada
+     (FCC/DPE-RS/Técnico Logística/2017) A fábrica de notebook NB consome a matéria prima X no seu
+     produto acabado. A tabela abaixo mostra a movimentação do material X. O custo unitário do saldo final
+     de estoque do material pelos métodos "Primeiro Entra, Primeiro Sai" (PEPS), "Último Entra, Ultimo Sai"
+     (UEPS) e Custo Médio Unitário são, respectivamente:
+     a) 15,00; 20,00; 18,00
+     b) 18,00; 20,00; 15,00
+     c) 20,00; 15,00; 18,00
+     d) 18,00; 15,00; 20,00
+     e) 15,00; 18,00; 20,00
+     GABARITO - C
+
+
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            https://t.me/KakashiAssinaturasBot
+OBRIGADO
+                                         Prof. Ricardo Campanario
+
+
+
+
+    https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

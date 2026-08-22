@@ -1,0 +1,4384 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 03_Apostila_Grifada.txt
+tipo_material: Curso Teórico Base
+aula_numero: '03'
+titulo_aula: Índice
+artigos_citados:
+- 'art.
+
+  5º'
+- art. 1º
+- art. 210
+- art. 22
+- art. 24
+- art. 2º
+- art. 5º
+- art. 833
+sumulas_citadas:
+- Súmula 227
+- Súmula 629
+- Súmula 683
+- Súmula Vinculante nº 11
+- Súmula Vinculante nº 37
+---
+
+# Índice
+
+Índice
+1) Direitos e Deveres Individuais e Coletivos (art. 5º, I a XXXI, CF/88)
+
+
+2) Questões Comentadas - Direitos e Deveres Individuais e Coletivos - Art. 5º - I a XXXI - FGV
+
+
+3) Lista de Questões - Direitos e Deveres Individuais e Coletivos - Art. 5º - I a XXXI - FGV
+
+                                                                                                                                                                                          2
+                                                                                                                                                                                         96
+
+
+---
+
+              DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+Iniciaremos o estudo do artigo da Constituição mais cobrado em provas de concursos: o art. 5º.
+Vamos lá?
+
+        Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza,
+        garantindo-se aos brasileiros e aos estrangeiros residentes no País a
+        inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+        propriedade, nos termos seguintes: [...]
+
+O dispositivo constitucional enumera cinco direitos fundamentais – os direitos à vida, à liberdade,
+à igualdade, à segurança e à propriedade. Desses direitos é que derivam todos os outros,
+relacionados nos diversos incisos do art. 5º. A doutrina considera, inclusive, que os diversos
+incisenos do art. 5º são desdobramentos dos direitos previstos no caput desse artigo.
+Apesar de o art. 5º, caput, referir-se apenas a “brasileiros e estrangeiros residentes no país”, há
+consenso na doutrina de que os direitos fundamentais abrangem qualquer pessoa que se
+encontre em território nacional, mesmo que seja um estrangeiro residente no exterior. Um
+estrangeiro que estiver passando férias no Brasil será, portanto, titular de direitos fundamentais.
+Nesse sentido, entende o STF que o estrangeiro, mesmo aquele sem domicílio no Brasil, tem
+direito a todas as prerrogativas básicas que lhe assegurem a preservação do status libertatis e a
+observância, pelo poder público, da cláusula constitucional do due process1. O estrangeiro que
+se encontra no Brasil pode, por exemplo, impetrar habeas corpus, mesmo não residindo no país.
+Ainda sobre o tema, chamamos sua atenção para a decisão do STF segundo a qual “o direito de
+propriedade é garantido ao estrangeiro não residente”.2
+Cabe destacar, ainda, que os direitos fundamentais não têm como titular apenas as pessoas
+físicas; as pessoas jurídicas e até mesmo o próprio Estado são titulares de direitos fundamentais.
+
+1
+HC 94.016, Rel. Min. Celso de Mello, j. 16-9-2008, Segunda Turma, DJE de 27-2-2009.
+2
+RE 33.319/DF, Rel. Min. Cândido Motta, DJ 07.01.1957.
+
+                                                                                                 3
+                                                                                                101
+
+
+---
+
+           Segundo o STF, os estrangeiros residentes no país, uma vez atendidos os
+           requisitos constitucionais, são beneficiários da assistência social, fazendo jus ao
+           denominado benefício de prestação continuada (BPC). O BPC é um benefício
+           assistencial devido à pessoa portadora de deficiência e ao idoso que comprovem
+           não possuir meios de prover a própria manutenção ou de tê-la provida por sua
+           família.
+
+No que se refere ao direito à vida, a doutrina considera que é dever do Estado assegurá-lo em
+sua dupla acepção: a primeira, enquanto direito de continuar vivo; a segunda, enquanto direito
+de ter uma vida digna, uma vida boa.3 Seguindo essa linha, o STF já decidiu que assiste aos
+indivíduos o direito à busca pela felicidade como forma de realização do princípio da dignidade
+da pessoa humana.4
+O direito à vida não abrange apenas a vida extrauterina, mas também a vida intrauterina. Sem
+essa proteção, estaríamos autorizando a prática do aborto, que somente é admitida no Brasil
+quando há grave ameaça à vida da gestante ou quando a gravidez é resultante de estupro.
+Relacionado a esse tema, há um importante julgado do STF sobre a possibilidade de interrupção
+de gravidez de feto anencéfalo. O feto anencéfalo é aquele que tem uma má-formação do tubo
+neural (ausência parcial do encéfalo e da calota craniana). Trata-se de uma patologia letal: os
+fetos por ela afetados morrem, em geral, poucas horas depois de terem nascido.
+A Corte garantiu o direito à gestante de “submeter-se a antecipação terapêutica de parto na
+hipótese de gravidez de feto anencéfalo, previamente diagnosticada por profissional habilitado,
+sem estar compelida a apresentar autorização judicial ou qualquer outra forma de permissão do
+Estado”. O STF entendeu que, nesse caso, não haveria colisão real entre direitos fundamentais,
+apenas conflito aparente, uma vez que o anencéfalo, por ser inviável, não seria titular do direito à
+vida. O feto anencéfalo, mesmo que biologicamente vivo, porque feito de células e tecidos vivos,
+seria juridicamente morto, de maneira que não deteria proteção jurídica.5 Assim, a interrupção da
+gravidez de feto anencéfalo não é tipificada como crime de aborto.
+Outra controvérsia levada à apreciação do STF envolvia a pesquisa com células-tronco
+embrionárias. Segundo a Corte, é legítima e não ofende o direito à vida nem, tampouco, a
+dignidade da pessoa humana a realização de pesquisas com células-tronco embrionárias, obtidas
+de embriões humanos produzidos por fertilização in vitro e não utilizados nesse procedimento.6
+Outra informação importante é que nem mesmo o direito à vida é absoluto, sendo admitida pela
+Constituição Federal de 1988 a pena de morte em caso de guerra declarada. A doutrina
+considera que, por se tratar de cláusula pétrea, emenda constitucional não pode estabelecer, no
+Brasil, novas hipóteses de pena de morte. Essa ampliação não poderia nem mesmo ser feita por
+meio de uma nova Constituição, em respeito ao princípio da vedação ao retrocesso.7
+
+3
+  MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São Paulo
+Editora Atlas: 2010, pp. 106.
+4
+  AgR 223. Rel. Min. Celso de Mello. Decisão em 14.04.2008.
+5
+  ADPF 54/DF, Rel. Min. Marco Aurélio, decisão 11 e 12.04.2012, Informativo STF no 661.
+6
+  ADI 3510/DF, Rel. Min. Ayres Britto, DJe: 27.05.2010.
+7
+    LENZA, Pedro. Direito Constitucional Esquematizado, 22ª edição. São Paulo. Editora Saraiva: 2018, pp. 1186.
+
+                                                                                                              4
+                                                                                                             101
+
+
+---
+
+Por fim, ainda sobre o direito à vida, vale a pena observarmos a decisão do STF na ADPF 635,
+que discute o uso de força letal por parte da polícia e que exige do estado do Rio de Janeiro a
+elaboração de um plano para redução da letalidade policial. Veja um trecho relevante do julgado:
+
+           A interpretação constitucionalmente adequada do direito à vida somente
+           autorizaria o uso de força letal por agentes de Estado em casos extremos
+           quando, (i) exauridos todos os demais meios, inclusive os de armas não letais, ele
+           for (ii) necessário para proteger a vida ou prevenir um dano sério, (iii) decorrente
+           de uma ameaça concreta e iminente. Em qualquer hipótese, colocar em risco ou
+           mesmo atingir a vida de alguém somente será admissível se, após minudente
+           investigação imparcial, feita pelo Ministério Público, concluir-se ter sido a ação
+           necessária para proteger exclusivamente a vida – e nenhum outro bem – de uma
+           ameaça iminente e concreta. Cabe às forças de segurança examinarem diante das
+           situações concretas a proporcionalidade e a excepcionalidade do uso da força,
+           servindo os princípios como guias para o exame das justificativas apresentadas a
+           fortiori.8
+
+(CGM João Pessoa – 2018) Os direitos e as garantias fundamentais constitucionais estendem-se
+aos estrangeiros em trânsito no território nacional, mas não às pessoas jurídicas, por falta de
+previsão constitucional expressa.
+Comentários:
+As pessoas jurídicas também são titulares de direitos fundamentais. Questão errada.
+(MPE-RS – 2014) Ainda que o sistema jurídico-constitucional pátrio consagre o direito à vida
+como direito fundamental, ele admite excepcionalmente a pena de morte.
+Comentários:
+Nenhum direito fundamental é absoluto, inclusive o direito à vida. Em caso de guerra declarada,
+admite-se a pena de morte. Questão correta.
+
+8
+    ADPF 635 MC-ED. Rel. Min. Edson Fachin, j. 03.02.2022.
+
+                                                                                                   5
+                                                                                                  101
+
+
+---
+
+Outro aspecto importante, mas que pode passar despercebido na leitura do caput do art. 5º, diz
+respeito ao direito à segurança. Repare que o dispositivo constitucional faz expressa menção à
+segurança, evidenciando preocupação em relação à integridade física e à incolumidade das
+pessoas e do patrimônio. O art. 6º da CF/88, ao tratar dos direitos sociais, também elenca a
+segurança.
+Isso é importante de ser pontuado porque os incisos do art. 5º não fazem menção direta à
+segurança pública. No entanto, os caputs dos artigos 5º e 6º da Constituição, ao mencionarem
+expressamente, fazem com que o direito à segurança seja um direito fundamental. Isso é
+corroborado pela previsão do art. 144 da CF/88, que trata da segurança pública enquanto dever
+do Estado e direito de todos.
+Uma vez decifrado o caput do artigo 5º da Carta Magna, passaremos à análise dos seus incisos:
+
+        I - homens e mulheres são iguais em direitos e obrigações, nos termos desta
+        Constituição;
+
+Esse inciso traduz o princípio da igualdade, que determina que se dê tratamento igual aos que
+estão em condições equivalentes e desigual aos que estão em condições diversas, dentro de
+suas desigualdades. Ele obriga tanto o legislador quanto o aplicador da lei.
+O legislador fica, portanto, obrigado a obedecer à “igualdade na lei”, não podendo criar leis que
+discriminem pessoas que se encontram em situação equivalente, exceto quando houver
+razoabilidade para tal. Os intérpretes e aplicadores da lei, por sua vez, ficam limitados pela
+“igualdade perante a lei”, não podendo diferenciar, quando da aplicação do Direito, aqueles a
+quem a lei concedeu tratamento igual. Com isso, resguarda-se a igualdade na lei: de nada
+adiantaria ao legislador estabelecer um direito a todos se fosse permitido que os juízes e as
+demais autoridades tratassem as pessoas desigualmente, reconhecendo aquele direito a alguns e
+negando-o a outros.
+Vejamos, abaixo, interessante trecho de julgado do STF a respeito do assunto: 9
+
+9
+MI 58, Rel. p/ o ac. Min. Celso de Mello, j.14-12-1990, DJ de 19-4-1991.
+
+                                                                                                6
+                                                                                              101
+
+
+---
+
+           O princípio da isonomia, que se reveste de autoaplicabilidade, não é – enquanto
+           postulado fundamental de nossa ordem político-jurídica – suscetível de
+           regulamentação ou de complementação normativa. Esse princípio – cuja
+           observância vincula, incondicionalmente, todas as manifestações do Poder
+           Público – deve ser considerado, em sua precípua função de obstar discriminações
+           e de extinguir privilégios (RDA 55/114), sob duplo aspecto: (a) o da igualdade na
+           lei; e (b) o da igualdade perante a lei. A igualdade na lei – que opera numa fase
+           de generalidade puramente abstrata – constitui exigência destinada ao legislador
+           que, no processo de sua formação, nela não poderá incluir fatores de
+           discriminação, responsáveis pela ruptura da ordem isonômica. A igualdade
+           perante a lei, contudo, pressupondo lei já elaborada, traduz imposição destinada
+           aos demais poderes estatais, que, na aplicação da norma legal, não poderão
+           subordiná-la a critérios que ensejem tratamento seletivo ou discriminatório.
+
+O princípio da igualdade, conforme já comentamos, impede que pessoas que estejam na mesma
+situação sejam tratadas desigualmente; em outras palavras, poderá haver tratamento desigual
+(discriminatório) entre pessoas que estão em situações diferentes. Nesse sentido, as ações
+afirmativas, como a reserva de vagas em universidades públicas para negros e indígenas, são
+consideradas constitucionais pelo STF.10 Da mesma forma, é compatível com o princípio da
+igualdade programa concessivo de bolsa de estudos em universidades privadas para alunos de
+renda familiar de pequena monta, com quotas para negros, pardos, indígenas e portadores de
+necessidades especiais.11
+
+10
+     RE 597285/RS. Min. Ricardo Lewandowski. Decisão: 09.05.2012.
+11
+     ADI 3330/DF, Rel. Min. Ayres Britto, j. 03.05.2012.
+
+                                                                                                7
+                                                                                               101
+
+
+---
+
+        As cotas raciais em concursos públicos são admitidas pelo STF, podendo ser
+        utilizados os critérios de autodeclaração e de heteroidentificação. Na
+        autodeclaração, o próprio indivíduo declara-se como negro ou pardo. Na
+        heteroidentificação, é formada uma comissão plural responsável por entrevistar o
+        candidato e verificar se a sua declaração foi verdadeira. O objetivo é evitar
+        condutas fraudulentas e garantir que a política de cotas raciais possa
+        efetivamente realizar a igualdade material.
+
+Segundo o STF:
+
+        "o legislador constituinte não se restringira apenas a proclamar solenemente a
+        igualdade de todos diante da lei. Ele teria buscado emprestar a máxima
+        concreção a esse importante postulado, para assegurar a igualdade material a
+        todos os brasileiros e estrangeiros que viveriam no país, consideradas as
+        diferenças existentes por motivos naturais, culturais, econômicos, sociais ou até
+        mesmo acidentais. Além disso, atentaria especialmente para a desequiparação
+        entre os distintos grupos sociais. Asseverou-se que, para efetivar a igualdade
+        material, o Estado poderia lançar mão de políticas de cunho universalista – a
+        abranger número indeterminado de indivíduos – mediante ações de natureza
+        estrutural; ou de ações afirmativas – a atingir grupos sociais determinados – por
+        meio da atribuição de certas vantagens, por tempo limitado, para permitir a
+        suplantação de desigualdades ocasionadas por situações históricas
+        particulares."12
+
+A realização da igualdade material não proíbe que a lei crie discriminações, desde que estas
+obedeçam ao princípio da razoabilidade. Seria o caso, por exemplo, de um concurso para agente
+penitenciário de prisão feminina restrito a mulheres. Ora, fica claro, nessa situação, que há
+razoabilidade: em uma prisão feminina, é de todo desejável que os agentes penitenciários não
+sejam homens.
+O mesmo vale para limites de idade em concursos públicos. Segundo o STF, é legítima a
+previsão de limites de idade em concursos públicos, quando justificada pela natureza das
+atribuições do cargo a ser preenchido (Súmula 683). Cabe enfatizar, todavia, que a restrição da
+admissão a cargos públicos a partir da idade somente se justifica se prevista em lei e quando
+situações concretas exigem um limite razoável, tendo em conta o grau de esforço a ser
+desenvolvido pelo ocupante do cargo.13
+A isonomia entre homens e mulheres também é objeto da jurisprudência do STF. Segundo a
+Corte, não afronta o princípio da isonomia a adoção de critérios distintos para a promoção de
+integrantes do corpo feminino e masculino da Aeronáutica.14 Trata-se de uma hipótese em que a
+distinção entre homens e mulheres visa atingir a igualdade material, sendo, portanto, razoável.
+
+12
+   RE 597285/RS. Min. Ricardo Lewandowski. Decisão: 09.05.2012.
+13
+   RE 523737/MT – Rel. Min. Ellen Gracie, DJe: 05.08.2010.
+14
+   RE 498.900-AgR, Rel. Min. Cármen Lúcia, j. 23-10-2007, Primeira Turma, DJ de 7-12-2007.
+
+                                                                                              8
+                                                                                             101
+
+
+---
+
+Note, todavia, que, em todos os casos acima, só a lei ou a própria Constituição podem
+determinar discriminações entre as pessoas. Os atos infralegais (como edital de concurso, por
+exemplo) não podem determinar tais limitações sem que haja previsão legal.
+Segundo o STF, o princípio da igualdade também busca impedir discriminações em virtude da
+identidade de gênero e da orientação sexual do indivíduo. Com base nisso, ele reconheceu que
+os transgêneros têm o direito de alteração do nome e do gênero (sexo) diretamente no registro
+civil, independentemente da realização de cirurgia de transgenitalização ou de tratamento
+hormonal.15 Observe que a alteração do nome e do sexo pelo transgênero independe de
+qualquer processo judicial, ocorrendo diretamente no registro civil.
+Outra decisão relevante tomada pelo STF diz respeito ao que se conhece como "legítima defesa
+da honra". Alguns acusados de terem praticado crimes contra as mulheres em razão de traição
+das parceiras alegavam que praticavam feminicídio ou outra forma de violência com a justificativa
+de reprimir o adultério. No entanto, tal prática não se coaduna com a ordem constitucional
+vigente e corresponde a um ataque desproporcional, covarde e criminoso contra a mulher.
+“Legítima defesa da honra” não é, tecnicamente, legítima defesa. Com base nesse
+entendimento, o STF fixou entendimento de que a tese da "legítima defesa da honra" é
+inconstitucional16 por contrariar os princípios da dignidade da pessoa humana (art. 1º, III, da
+CF/88), da proteção à vida e da igualdade de gênero (art. 5º, caput, da CF/88).
+Do princípio da igualdade originam-se vários outros princípios da Constituição, como a vedação
+ao racismo (art. 5º, XLII, CF/88), o princípio da isonomia tributária (art. 150, II, CF/88), entre
+outros.
+Finalizando o estudo deste inciso, guarde outra jurisprudência cobrada em concursos. O STF
+entende que o princípio da isonomia não autoriza o Poder Judiciário a estender a alguns grupos
+vantagens estabelecidas por lei a outros. Isso porque, se isso fosse possível, o Judiciário estaria
+“legislando”, não é mesmo? O STF considera que, em tal situação, haveria ofensa ao princípio da
+separação dos Poderes.
+Sobre esse tema, destacamos, inclusive, a Súmula Vinculante nº 37: “Não cabe ao Poder
+Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob
+fundamento de isonomia”.
+
+15
+     ADI 4275/DF. Rel. orig. Min. Marco Aurélio, red. p/ o acórdão Min. Edson Fachin. Julgamento: 01.03.2018.
+16
+     ADPF 779-MC-Ref/DF, Rel. Min. Dias Toffoli. Julgamento: 13.03.2021.
+
+                                                                                                                 9
+                                                                                                                101
+
+
+---
+
+(PGE-RS – 2015) Ao julgar a ação direta de inconstitucionalidade em que se questionava a
+(in)constitucionalidade de lei determinando a fixação de cotas raciais em Universidades e ao
+julgar a ação declaratória de constitucionalidade em que se questionava a (in)constitucionalidade
+da Lei Maria da Penha, o STF acolheu uma concepção formal de igualdade, com o
+reconhecimento da vedação a toda e qualquer forma de discriminação, salvo a hipótese de
+discriminação indireta.
+Comentários:
+Nas duas situações, o STF acolheu uma concepção material de igualdade. No primeiro caso
+(cotas raciais), considerou-se legítimo o uso de ações afirmativas pelo Estado; no segundo, o STF
+considerou legítimas medidas especiais para coibir a violência doméstica contra as mulheres. Em
+ambos os casos, aplicou-se um tratamento desigual, mas para pessoas que estão em situações
+diferentes, o que está em conformidade com a ideia de igualdade material. Questão errada.
+(PGM-Niterói – 2014) O direito fundamental à igualdade é compatível com a existência de limite
+de idade para a inscrição em concurso público, sempre que justificado pela natureza das
+atribuições do cargo a ser preenchido.
+Comentários:
+O STF considera legítima a previsão de limites de idade em concursos públicos, quando
+justificada pela natureza das atribuições do cargo a ser preenchido. Questão correta.
+
+        II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em
+        virtude de lei;
+
+Esse inciso trata do princípio da legalidade, que se aplica de maneira diferenciada aos
+particulares e ao poder público. Para os particulares, traz a garantia de que só podem ser
+obrigados a agir ou a se omitir por lei. Tudo é permitido a eles, portanto, na falta de norma legal
+proibitiva. Já para o poder público, o princípio da legalidade consagra a ideia de que ele só
+pode fazer o que é permitido pela lei.
+É importante compreendermos a diferença entre o princípio da legalidade e o princípio da
+reserva legal.
+O princípio da legalidade apresenta-se quando a Carta Magna utiliza a palavra “lei” em um
+sentido mais amplo, abrangendo não somente a lei em sentido estrito, mas todo e qualquer ato
+normativo estatal (incluindo atos infralegais) que obedeça às formalidades que lhe são próprias e
+contenha uma regra jurídica. Por meio do princípio da legalidade, a Carta Magna determina a
+submissão e o respeito à “lei” ou a atuação dentro dos limites legais; no entanto, a referência
+que se faz é à lei em sentido material.
+Já o princípio da reserva legal é evidenciado quando a Constituição exige expressamente que
+determinada matéria seja regulada por lei formal ou atos com força de lei (decretos autônomos,
+por exemplo). O vocábulo “lei” é, aqui, usado em um sentido mais restrito.
+José Afonso da Silva classifica a reserva legal do ponto de vista do vínculo imposto ao legislador
+como absoluta ou relativa.
+
+                                                                                                10
+                                                                                                101
+
+
+---
+
+Na reserva legal absoluta, a norma constitucional exige, para sua integral regulamentação, a
+edição de lei formal, entendida como ato normativo emanado do Congresso Nacional e
+elaborado de acordo com o processo legislativo previsto pela Constituição.
+Como exemplo de reserva legal absoluta, citamos o art. 37, inciso X, da CF/88, que dispõe que a
+remuneração dos servidores públicos somente poderá ser fixada ou alterada por lei específica.
+Não há, nesse caso, qualquer espaço para regulamentação por ato infralegal; somente a lei pode
+determinar a disciplina jurídica da remuneração dos servidores públicos.
+Na reserva legal relativa, por sua vez, apesar de a Constituição exigir lei formal, esta permite que
+a lei fixe apenas parâmetros de atuação para o órgão administrativo, que poderá
+complementá-la por ato infralegal, respeitados os limites estabelecidos pela legislação.
+A doutrina também afirma que a reserva legal pode ser classificada como simples ou qualificada.
+A reserva legal simples é aquela que exige lei formal para dispor sobre determinada matéria, mas
+não especifica qual é o conteúdo ou a finalidade do ato. Haverá, portanto, maior liberdade para
+o legislador. Como exemplo, citamos o art. 5º, inciso VII, da CF/88, segundo o qual “é
+assegurada, nos termos da lei, a assistência religiosa nas entidades civis e militares de internação
+coletiva”. Fica bem claro, ao lermos esse dispositivo, que a lei terá ampla liberdade para definir
+como será implementada a prestação de assistência religiosa nas entidades de internação
+coletiva.
+A reserva legal qualificada, por sua vez, além de exigir lei formal para dispor sobre determinada
+matéria, já define, previamente, o conteúdo da lei e a finalidade do ato. O melhor exemplo de
+reserva legal qualificada, apontado pela doutrina, é o art. 5º, inciso XII, da CF/88, que dispõe que
+“é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das
+comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma
+que a lei estabelecer para fins de investigação criminal ou instrução processual penal”.
+Ao ler esse dispositivo, percebe-se que o legislador não terá grande liberdade de atuação: a
+Constituição já prevê que a interceptação telefônica somente será possível mediante ordem
+judicial e para a finalidade de realizar investigação criminal ou instrução processual penal.
+
+(PGM-Fortaleza – 2017) O princípio da legalidade diferencia-se do da reserva legal: o primeiro
+pressupõe a submissão e o respeito à lei e aos atos normativos em geral; o segundo consiste na
+necessidade de a regulamentação de determinadas matérias ser feita necessariamente por lei
+formal.
+
+                                                                                                 11
+                                                                                                 101
+
+
+---
+
+Comentários:
+É exatamente isso. O princípio da legalidade é mais amplo, pressupondo o respeito à lei e a
+outros atos normativos. Já o princípio da reserva legal é mais restrito, referindo-se tão somente à
+exigência de lei formal. Questão correta.
+
+        III - ninguém será submetido a tortura nem a tratamento desumano ou
+        degradante;
+
+Esse inciso costuma ser cobrado em sua literalidade. Memorize-o!
+Um exemplo que ilustra a aplicação desse inciso diz respeito à utilização de algemas. A utilização
+desse instrumento, por si só, poderia caracterizar tratamento desumano ou degradante. Sendo
+assim, o STF condicionou sua utilização para algumas circunstâncias específicas, conforme se
+verifica na Súmula Vinculante nº 11: “Só é lícito o uso de algemas em casos de resistência e de
+fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou
+de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar,
+civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se
+refere, sem prejuízo da responsabilidade civil do Estado”.
+
+        A Lei Federal nº 12.847/2013 instituiu o Sistema Nacional de Prevenção e
+        Combate à Tortura e criou o Comitê Nacional de Prevenção e Combate à Tortura
+        e o Mecanismo Nacional de Prevenção e Combate à Tortura.
+
+        Veja esse importante entendimento do STF acerca da possibilidade de
+        tratamento desumano e degradante, no caso de revistas em presídios,
+        especialmente quando feitas em crianças, adolescentes ou pessoas com
+        deficiência intelectual que não possam expressar seu consentimento válido:
+        1. Em visitas sociais nos presídios ou estabelecimentos de segregação é
+        inadmissível a revista íntima vexatória com o desnudamento de visitantes ou
+        exames invasivos com finalidade de causar humilhação. A prova obtida por esse
+
+                                                                                                12
+                                                                                                101
+
+
+---
+
+            tipo de revista é ilícita, salvo decisões judiciais em cada caso concreto. A
+            presente decisão tem efeitos prospectivos a partir da publicação da ata do
+            julgamento.
+            [...]
+            (i) O excesso ou o abuso da realização da revista íntima acarretarão
+            responsabilidade do agente público ou do profissional de saúde habilitado e
+            ilicitude de eventual prova obtida. (ii) Caso não haja concordância do visitante, a
+            autoridade administrativa poderá, de forma fundamentada e por escrito, impedir
+            a realização da visita. (iii) O procedimento de revista em criança, adolescente ou
+            pessoa com deficiência intelectual que não possa emitir consentimento válido
+            será substituído pela revista invertida, direcionada à pessoa a ser visitada.
+            (ARE 959.620, Tema 998, Rel. Min. Edson Fachin, j. 02/04/2025, p. 02/07/2025)
+
+            IV - é livre a manifestação do pensamento, sendo vedado o anonimato;
+
+Trata-se da liberdade de expressão, que é verdadeiro fundamento do Estado Democrático de
+Direito. O fundamento do pluralismo político viabiliza a liberdade de expressão. Todos podem
+manifestar, oralmente ou por escrito, o que pensam, desde que isso não seja feito
+anonimamente. A vedação ao anonimato visa garantir a responsabilização de quem utilizar tal
+liberdade para causar danos a terceiros.
+Com base na vedação ao anonimato, o STF veda o acolhimento a denúncias anônimas.
+Entretanto, essas delações anônimas poderão servir de base para que o poder público adote
+medidas destinadas a esclarecer, em sumária e prévia apuração, a verossimilhança das alegações
+que lhe foram transmitidas.17 Em caso positivo, poderá, então, ser promovida a formal
+instauração da "persecutio criminis", mantendo-se completa desvinculação desse procedimento
+estatal em relação às peças apócrifas.
+Perceba que as denúncias anônimas jamais poderão ser a causa única de exercício de atividade
+punitiva pelo Estado. Em outras palavras, não pode ser instaurado um procedimento formal de
+investigação com base, unicamente, em uma denúncia anônima.
+Segundo o STF, as autoridades públicas não podem iniciar qualquer medida de persecução
+(penal ou disciplinar), apoiando-se apenas em peças apócrifas ou em escritos anônimos. As peças
+apócrifas não podem ser incorporadas, formalmente, ao processo, salvo quando tais documentos
+forem produzidos pelo acusado, ou, ainda, quando constituírem, eles próprios, o corpo de delito
+(como sucede com bilhetes de resgate no delito de extorsão mediante sequestro, por exemplo).
+É por isso que o escrito anônimo não autoriza, considerado isoladamente , a imediata instauração
+de "persecutio criminis".
+Também com base no direito à manifestação do pensamento e no direito de reunião, o STF
+considerou inconstitucional qualquer interpretação do Código Penal que possa ensejar a
+criminalização da defesa da legalização das drogas ou de qualquer substância entorpecente
+
+17
+     Inq 1957/ PR, Rel. Min. Carlos Velloso, Informativo STF nº 393.
+
+                                                                                                  13
+                                                                                                  101
+
+
+---
+
+específica, inclusive através de manifestações e eventos públicos18. Esse foi um entendimento
+polêmico, que descriminalizou a chamada “Marcha da Maconha”.
+Por analogia, é possível entender que isso também se aplica àqueles que defendam
+publicamente a legalização do aborto. Assim, a defesa da legalização do aborto não deve ser
+considerada incitação à prática criminosa.
+Sabe-se, todavia, que nenhum direito fundamental é absoluto. Também não o é a liberdade de
+expressão, que, segundo o STF, “não pode abrigar, em sua abrangência, manifestações de
+conteúdo imoral que implicam ilicitude penal. O preceito fundamental de liberdade de expressão
+não consagra o direito à incitação ao racismo, dado que um direito individual não pode
+constituir-se em salvaguarda de condutas ilícitas, como sucede com os delitos contra a honra”.19
+A liberdade de expressão é ampla, mas não é absoluta, sendo proibidos os discursos de ódio. A
+Constituição garante a liberdade de expressão, com responsabilidade. A liberdade de expressão
+não pode ser usada para a prática de atividades ilícitas ou para a prática de discursos de ódio,
+contra a democracia ou contra as instituições. Nesse sentido, "são inadmissíveis manifestações
+proferidas em redes sociais que objetivem a abolição do Estado de Direito e o impedimento,
+com graves ameaças, do livre exercício de seus poderes constituídos e de suas instituições".20 No
+mesmo sentido, “a incitação ao ódio público contra quaisquer denominações religiosas e seus
+seguidores não está protegida pela cláusula constitucional que assegura a liberdade de
+expressão”.21 Seguindo a mesma linha, já decidiu o STF que configura o crime de racismo e não
+pode ser admitida a apologia de ideias preconceituosas e discriminatórias contra a comunidade
+judaica (“ideias antissemitas”).22 É claro que definir se uma determinada manifestação se
+enquadra ou não como discurso de ódio é tarefa que será realizada pelo Poder Judiciário, diante
+da análise de casos concretos.
+Outro aspecto importante é que a garantia da imunidade parlamentar a deputados e senadores,
+prevista principalmente no art. 53 da Constituição Federal, não alcança os atos praticados sem
+claro nexo de vinculação recíproca entre o discurso e o desempenho das funções parlamentares.
+Isso porque as garantias dos membros do Parlamento são vislumbradas sob uma perspectiva
+funcional, ou seja, de proteção apenas das funções consideradas essenciais aos integrantes do
+Poder Legislativo, independentemente de onde elas sejam exercidas. Nesse sentido, a liberdade
+de expressão não alcança a prática de discursos dolosos, com intuito manifestamente
+difamatório, de juízos depreciativos de mero valor, de injúrias em razão da forma ou de críticas
+aviltantes, mesmo se o discurso tiver sido proferido por parlamentar em uma das Casas do
+Congresso Nacional.23
+
+18
+     ADPF 187, Rel. Min. Celso de Mello, julgamento em 15-6-2011, Plenário.
+19
+     HC 82.424. Rel. Min. Maurício Corrêa, DJ 19.03.2004.
+20
+     AP 1044/DF, Rel. Min. Alexandre de Moraes, j. 20.04.2022.
+21
+     RHC, 146.303/RJ. Rel. Min. Edson Fachin, red. p/ acórdão: Min. Dias Toffoli. 06.03.2018.
+22
+     HC 82.424. Rel. Min. Maurício Corrêa. 17.09.2003.
+23
+  Pet 8242, 8259, 8262, 8263, 8267 e 8366/AgR/DF. Rel. Min. Celso de Mello. Red. Ac. Min. Gilmar Mendes.
+Julgamento em 03.05.2022.
+
+                                                                                                     14
+                                                                                                     101
+
+
+---
+
+Outra decisão do STF que se relaciona à livre manifestação do pensamento é a que foi tomada
+no âmbito da ADPF 722 acerca dos órgãos do Sistema Brasileiro de Inteligência. A utilização da
+máquina estatal para a colheita de informações de servidores com postura política contrária ao
+governo caracteriza desvio de finalidade e afronta aos direitos fundamentais da livre manifestação
+do pensamento, da privacidade, da reunião e da associação, aos quais deve ser conferida
+máxima efetividade, pois são essenciais ao regime democrático.24
+Também merecem destaque os julgamentos do STF que visaram combater a desinformação,
+notadamente, em relação ao processo eleitoral. Ao apreciar uma resolução do TSE que dispunha
+sobre o enfrentamento à desinformação atentatória à lisura do processo eleitoral, a Corte
+Suprema reconheceu a competência normativa do TSE para dispor a respeito do tema, aspecto
+que não impõe censura a meio de comunicação ou linha editorial da mídia impressa e eletrônica
+em relação à reconhecida proliferação de notícias falsas, com aptidão para contaminar o espaço
+público e influir indevidamente na vontade dos eleitores.25
+A liberdade de expressão dos militares é distinta daquela dos servidores públicos civis, uma vez
+que os integrantes das instituições (Forças Armadas e Polícias Militares/Corpos de Bombeiros
+Militares) submetem-se a regime disciplinar distinto. A carreira militar é singular e possui
+atribuições diferenciadas. Nesse sentido, é válido reprimir crítica de militares a ato de superior
+hierárquico, a assunto atinente à disciplina ou a qualquer resolução do governo.26 É bom
+ponderar, no entanto, que o ordenamento jurídico não limita o exercício da liberdade de
+expressão dos militares para toda e qualquer situação. Podem existir casos em que seu alcance
+não abrangerá a crítica ou a manifestação realizada pelo militar. Nesse contexto, devem ser
+analisadas e sopesadas as circunstâncias de cada caso concreto, a fim de aferir a presença de
+todas as elementares do tipo penal.
+É importante saber que, tendo como fundamento a liberdade de expressão, o STF considerou
+que a exigência de diploma de jornalismo e de registro profissional no Ministério do Trabalho
+não é condição para o exercício da profissão de jornalista. Nas palavras de Gilmar Mendes,
+relator do processo, “o jornalismo e a liberdade de expressão são atividades que estão
+imbricadas por sua própria natureza e não podem ser pensados e tratados de forma separada”.
+
+Outro entendimento importante do STF está no Tema 562 da sistemática de repercussão geral
+(RE 685493, rel. min. Marco Aurélio, j. 01.03.2021): ante conflito entre a liberdade de expressão
+de agente político, na defesa da coisa pública, e honra de terceiro, há de prevalecer o interesse
+coletivo.
+
+Por fim, concluindo a análise do inciso IV, o STF concluiu que o direito ao esquecimento, assim
+entendido como o poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou
+dados verídicos e licitamente obtidos e publicados em meios de comunicação social analógicos
+ou digitais, não é compatível com a Constituição27. Segundo a Corte, "eventuais excessos ou
+
+
+24
+     ADPF 722/DF. Rel. Min. Cármen Lúcia. Julgamento em 13.05.2022.
+25
+     ADI 7261 MC/DF. Rel. Min. Edson Fachin. Julgamento em 25.10.2022.
+26
+     ADPF 475/DF. Rel. Min. Dias Toffoli. Julgamento em 12.04.2023.
+27
+     RE 1.010.606 (Tema 786), Rel. Min. Dias Toffoli. 11.02.2021.
+
+                                                                                               15
+                                                                                               101
+
+
+---
+
+abusos no exercício da liberdade de expressão e de informação devem ser analisados caso a
+caso, a partir dos parâmetros constitucionais – especialmente os relativos à proteção da honra, da
+imagem, da privacidade e da personalidade em geral – e as expressas e específicas previsões
+legais nos âmbitos penal e cível".
+
+        V - é assegurado o direito de resposta, proporcional ao agravo, além da
+        indenização por dano material, moral ou à imagem;
+
+Essa norma traduz o direito de resposta à manifestação do pensamento de outrem, que é
+aplicável em relação a todas as ofensas, independentemente de elas configurarem ou não
+infrações penais. Essa resposta deverá ser sempre proporcional, ou seja, veiculada no mesmo
+meio de comunicação utilizado pelo agravo, com mesmo destaque, tamanho e duração.
+Salienta-se, ainda, que o direito de resposta se aplica tanto a pessoas físicas quanto a pessoas
+jurídicas ofendidas pela expressão indevida de opiniões.
+Outro aspecto importante a se considerar sobre o inciso acima é que as indenizações material,
+moral e à imagem são cumuláveis28 (podem ser aplicadas conjuntamente) e, da mesma forma que
+o direito à resposta, aplicam-se tanto a pessoas físicas (indivíduos) quanto a pessoas jurídicas
+(“empresas”) e são proporcionais (quanto maior o dano, maior a indenização). O direito à
+indenização independe de o direito à resposta ter sido, ou não, exercido, bem como de o dano
+caracterizar, ou não, infração penal.
+
+28
+   Súmula STJ nº 37: “São cumuláveis as indenizações por dano material e dano moral oriundos do mesmo
+fato”.
+
+                                                                                                  16
+                                                                                                  101
+
+
+---
+
+Relacionada a esse inciso, há jurisprudência que pode ser cobrada em seu concurso. O STF
+entende que o Tribunal de Contas da União (TCU)29 não pode manter em sigilo a autoria de
+denúncia contra administrador público a ele apresentada. Isso porque tal sigilo impediria que o
+denunciado se defendesse perante aquele Tribunal.
+
+        VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre
+        exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais
+        de culto e a suas liturgias;
+        VII - é assegurada, nos termos da lei, a prestação de assistência religiosa nas
+        entidades civis e militares de internação coletiva;
+
+Consagra-se, nesses incisos, a liberdade religiosa.
+No que se refere ao inciso VII, observe que não é o poder público o responsável pela prestação
+religiosa, pois o Brasil é um Estado laico, portanto a administração pública está impedida de
+exercer tal função. Essa assistência tem caráter privado e incumbe aos representantes habilitados
+de cada religião.
+A proteção aos locais de culto é princípio do qual deriva a imunidade tributária prevista no art.
+150, inciso VI, “b”, que veda aos entes federativos instituir impostos sobre templos de qualquer
+culto. Segundo o STF, essa imunidade alcança os cemitérios que consubstanciam extensões de
+entidade de cunho religioso abrangidas pela garantia desse dispositivo constitucional, sendo
+vedada, portanto, a incidência do IPTU sobre eles.30
+
+29
+   O TCU é um órgão de auxílio do Poder Legislativo (do Congresso Nacional), cujas principais funções são
+acompanhar a execução do orçamento (dos gastos públicos) e julgar as contas dos responsáveis por dinheiro
+ou bens públicos. Suas atribuições estão discriminadas no art. 71 da CF/88, que você pode ler para sanar sua
+curiosidade. Entretanto, não se preocupe em aprendê-las agora.
+30
+   RE 578.562. Rel. Min. Eros Grau. DJe 12.09.2008.
+
+                                                                                                         17
+                                                                                                         101
+
+
+---
+
+            Sobre a liberdade religiosa, há muitas decisões tomadas pelo STF a respeito do
+            tema. Para fins de estudos para concursos públicos, destacamos os seguintes
+            precedentes:
+            1) No Brasil, o ensino religioso é de matrícula facultativa, constituindo disciplina
+            dos horários normais das escolas públicas de ensino fundamental (art. 210, § 1º).
+            Na ADI 4439/DF, o STF decidiu que o ensino religioso em escolas públicas pode
+            ter caráter confessional, ou seja, pode estar vinculado a uma religião específica.
+            Não haverá, nesse caso, qualquer violação ao Estado laico. É possível, por
+            exemplo, que seja ministrado em escola pública o ensino religioso de matriz
+            católica.
+            2) No Brasil, convivem inúmeras religiões, algumas das quais são chamadas de
+            “religiões de matriz africana”, como é o caso do candomblé, quimbanda e
+            umbanda. No candomblé, há cultos em que há o sacrifício de animais.
+            Lei estadual do Rio Grande do Sul estabeleceu uma série de medidas
+            consideradas maus-tratos aos animais. Ressalvou, contudo, o sacrifício de animais
+            em cultos de religiões de matriz africana.
+            O STF foi chamado a apreciar a lei estadual, decidindo que “é constitucional a lei
+            de proteção animal que, a fim de resguardar a liberdade religiosa, permite o
+            sacrifício ritual de animais em cultos de religiões de matriz africana”.31 No conflito
+            entre bens jurídicos, prevaleceu a liberdade religiosa.
+            3) Não se adequa à Constituição o discurso que tem o intuito de atingir, rebaixar
+            ou desmerecer religião diferente da sua.
+            No RHC 146.303, o STF decidiu que a postagem em uma rede social que
+            desqualifique a crença alheia é conduta incompatível com a multiplicidade de
+            crenças/descrenças religiosas. "Há que se distinguir entre o discurso religioso
+            (que é centrado na própria crença e nas razões da crença) e o discurso sobre a
+            crença alheia, especialmente quando se faça com intuito de atingi-la, rebaixá-la
+            ou desmerecê-la (ou a seus seguidores). Um é tipicamente a representação do
+            direito à liberdade de crença religiosa; outro, em sentido diametralmente oposto,
+            é o ataque ao mesmo direito".
+
+31
+     RE 494.601. Rel. Min. Marco Aurélio, Rel. p/ Ac. Rel. Min. Edson Fachin, j. 28.03.2019.
+
+                                                                                                     18
+                                                                                                     101
+
+
+---
+
+       4) Em função da "guarda sabática", praticada por adventistas e judeus, é possível
+       remarcar provas de concursos públicos em razão de crença religiosa, tal como
+       decidiu o STF no RE 611.874, ocasião em que se fixou a seguinte tese de
+       repercussão geral (tema 386):
+       "Nos termos do art. 5º, VIII, da CF, é possível a realização de etapas de concurso
+       público em datas e horários distintos dos previstos em edital por candidato que
+       invoca a escusa de consciência por motivo de crença religiosa, desde que
+       presente a razoabilidade da alteração, a preservação da igualdade entre todos os
+       candidatos e que não acarrete ônus desproporcional à Administração pública,
+       que deverá decidir de maneira fundamentada".
+       5) Quanto às testemunhas de Jeová, que não aceitam a transfusão de sangue
+       mesmo em situações de risco de vida, há um notório conflito entre o direito à
+       vida e à liberdade de crença.
+       No caso de pacientes maiores e capazes, prevalece a autonomia da vontade com
+       base em um consentimento livre e genuíno informado expressamente pela
+       pessoa. Quanto aos menores, esgotados todos os tratamentos alternativos, o
+       médico pode decidir por salvar a vida da pessoa. Entretanto, o tema permanece
+       polêmico e pode ser enfrentado novamente pelo STF em decisões futuras.
+       6) É constitucional a utilização de vestimentas ou acessórios relacionados a crença
+       ou religião nas fotos de documentos oficiais, desde que não impeçam a
+       adequada identificação individual, com rosto visível [RE 859.376, Tema 953, Rel.
+       Min. Roberto Barroso, j. 17/04/2024, p. 10/12/2024].
+       7) A presença de símbolos religiosos em prédios públicos, pertencentes a
+       qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos
+       Municípios, desde que tenha o objetivo de manifestar a tradição cultural da
+       sociedade brasileira, não viola os princípios da não discriminação, da laicidade
+       estatal e da impessoalidade [ARE 1.249.095, Tema 1086, Rel. Min. Cristiano
+       Zanin, j. 27.11.2024, p. 27.02.2025].
+
+(TJ-ES – 2023) Uma pessoa vítima de notícia falsa profundamente nociva à sua honra deverá
+escolher, em eventual pleito judicial, entre o direito de resposta e a indenização pelo dano
+causado.
+Comentários:
+
+                                                                                             19
+                                                                                             101
+
+
+---
+
+De acordo com o art. 5º, inciso V, é assegurado direito de resposta além da indenização por dano
+material. Um direito não exclui o outro. Questão errada.
+(TJ-CE – 2023) Em virtude da laicidade do Estado, a CF veda a prestação de assistência religiosa
+às entidades de internação coletiva, sejam elas civis ou militares.
+Comentários:
+Ao contrário do que afirma a questão, a CF/88 assegura a prestação de assistência religiosa nas
+entidades civis e militares de internação coletiva (art. 5º, inciso VII). Questão errada.
+(TELEBRAS – 2022) A manifestação do pensamento é livre, sendo garantido, também, o
+anonimato.
+Comentários:
+Conforme determina a literalidade do art. 5º, inciso IV, da CF/88, é livre a manifestação do
+pensamento, sendo vedado o anonimato. Questão errada.
+                                                ==106d==
+
+(MPU – 2018) A liberdade de pensamento é exercida com ônus para o manifestante, que deverá
+se identificar e assumir a autoria daquilo que ele expressar.
+Comentários:
+A CF/88 garante a liberdade de manifestação do pensamento, mas veda o anonimato. Assim,
+pode-se afirmar que há um ônus para aquele que exerce sua liberdade de expressão, que é o de
+se identificar e assumir a autoria daquilo que expressar. Busca-se, por meio da vedação ao
+anonimato, garantir a possibilidade de responsabilização daquele que praticar abusos no
+exercício da liberdade de expressão. Questão correta.
+(TRE-PE – 2017) É livre a manifestação do pensamento, seja ela exercida por pessoa conhecida
+ou por pessoa anônima.
+Comentários:
+A CF/88 proíbe o anonimato. Questão errada.
+(TJ-BA– 2015) É assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades
+civis e militares de internação coletiva.
+Comentários:
+Essa questão traz a literalidade do art. 5º, VII, CF/88. Questão correta.
+
+        VIII - ninguém será privado de direitos por motivo de crença religiosa ou de
+        convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação
+        legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;
+
+O art. 5º, inciso VIII, consagra a denominada “escusa de consciência”. Essa é uma garantia que
+estabelece que, em regra, ninguém será privado de direitos por não cumprir obrigação legal a
+todos imposta devido a suas crenças religiosas ou convicções filosóficas ou políticas. Entretanto,
+havendo o descumprimento de obrigação legal, o Estado poderá impor, à pessoa que recorrer a
+esse direito, prestação alternativa fixada em lei.
+
+                                                                                               20
+                                                                                               101
+
+
+---
+
+E o que acontecerá se essa pessoa se recusar, também, a cumprir a prestação alternativa? Nesse
+caso, ela poderá excepcionalmente sofrer restrição de direitos. Veja que, para isso, são
+necessárias, cumulativamente, duas condições: recusar-se a cumprir obrigação legal alegando
+escusa de consciência e, ainda, a cumprir a prestação alternativa fixada pela lei. Nesse caso,
+poderá haver a perda de direitos políticos, na forma do art. 15, IV, da Constituição.
+Um exemplo de obrigação legal a todos imposta é o serviço militar obrigatório. Suponha que um
+indivíduo, por convicções filosóficas, recuse-se a ingressar nas Forças Armadas. Se o fizer, ele não
+será privado de seus direitos: a lei irá fixar-lhe prestação alternativa. Caso, além de se recusar a
+ingressar no serviço militar, ele, adicionalmente, recuse-se a cumprir prestação alternativa, aí, sim,
+ele poderá ser privado de seus direitos.
+O art. 5º, inciso VIII, é uma norma constitucional de eficácia contida. Todos têm o direito, afinal,
+de manifestar livremente sua crença religiosa e convicções filosóficas e políticas. Essa é uma
+garantia plenamente exercitável, mas que poderá ser restringida pelo legislador.
+Explico. Havendo uma obrigação legal a todos imposta, a regra é que ela deverá ser cumprida.
+Entretanto, em razão de imperativos da consciência, é possível que alguém deixe de obedecer a
+ela. Nesse caso, há que se perguntar: existe prestação alternativa fixada em lei?
+Não existindo lei que estabeleça prestação alternativa, aquele que deixou de cumprir a
+obrigação legal a todos imposta não poderá ser privado de seus direitos. Fica claro que o direito
+à escusa de consciência será garantido em sua plenitude.
+A partir do momento em que o legislador edita norma fixando prestação alternativa, ele está
+restringindo o direito à escusa de consciência. Aquele que, além de descumprir a obrigação legal
+a todos imposta, recusar-se a cumprir a prestação alternativa, será privado de seus direitos.
+E quanto às vacinas? Os pais têm o dever de vacinar seus filhos? O STF entende que sim, sendo
+ilegítima a recusa dos pais à vacinação compulsória de filho menor por motivo de convicção
+filosófica32. No conflito entre a liberdade de crença e de convicção filosófica com os valores da
+vida e da saúde, prevaleceram estes últimos.
+A vacina, no entanto, deve estar registrada em órgão de vigilância sanitária e deve estar incluída
+no Programa Nacional de Imunizações. A vacinação também pode ser obrigatória por lei ou por
+determinação da União, dos Estados, do Distrito Federal ou dos Municípios, desde que com
+embasamento em consenso médico-científico.
+
+32
+     ARE 1.267.879 (Tema 1.103), rel. min. Roberto Barroso, j. 17-12-2020.
+
+                                                                                                   21
+                                                                                                   101
+
+
+---
+
+           A vacinação compulsória não significa vacinação forçada, por exigir sempre o
+           consentimento do usuário, podendo, contudo, ser implementada por meio de
+           medidas indiretas, as quais compreendem, dentre outras, a restrição ao exercício
+           de certas atividades ou à frequência de determinados lugares, desde que
+           previstas em lei, ou dela decorrentes. Tais medidas, com as limitações expostas,
+           podem ser implementadas tanto pela União como pelos estados, Distrito Federal
+           e municípios, respeitadas as respectivas esferas de competência. (STF, ADPF 754
+           16ª TPI-Ref/DF, relator min. Ricardo Lewandowski, julgamento virtual finalizado
+           em 18.3.2022)
+
+(TRE-GO – 2015) Ninguém será privado de direitos por motivo de convicção política, salvo se as
+invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação
+alternativa, fixada em lei. Essa norma constitucional, que trata da escusa de consciência, tem
+eficácia contida, podendo o legislador ordinário restringir tal garantia.
+Comentários:
+Conforme explicamos acima, a norma constitucional que trata da escusa de consciência é de
+eficácia contida. A lei poderá restringir esse direito. Questão correta.
+
+           IX - é livre a expressão da atividade intelectual, artística, científica e de
+           comunicação, independentemente de censura ou licença;
+
+O que você não pode esquecer sobre esse inciso? É vedada a censura. Entretanto, a liberdade
+de expressão, como qualquer direito fundamental, é relativa. Isso porque é limitada por outros
+direitos protegidos pela Carta Magna, como a inviolabilidade da privacidade e da intimidade do
+indivíduo, por exemplo.
+Nesse sentido, entende o STF que o direito à liberdade de imprensa assegura ao jornalista o
+direito de expender críticas a qualquer pessoa, ainda que em tom áspero, contundente,
+sarcástico, irônico ou irreverente, especialmente contra as autoridades e aparelhos de Estado.
+Entretanto, esse profissional responderá, penal e civilmente, pelos abusos que cometer,
+sujeitando-se ao direito de resposta a que se refere a Constituição em seu art. 5º, inciso V. A
+liberdade de imprensa é plena em todo o tempo, lugar e circunstâncias, tanto em período não
+eleitoral quanto em período de eleições gerais33.
+Nesse mesmo sentido, considera o STF que a liberdade de manifestação do pensamento, que
+representa um dos fundamentos em que se apoia a própria noção de Estado Democrático de
+Direito, não pode ser restringida pelo exercício ilegítimo da censura estatal, ainda que praticada
+33
+     ADI 4.451-MC-REF, Rel. Min. Ayres Britto, Plenário, DJE de 24-8-2012.
+
+                                                                                               22
+                                                                                               101
+
+
+---
+
+em sede jurisdicional.34 Assim, a decisão judicial que determina a retirada de matéria jornalística
+de site da internet configura censura inadmitida, sendo possível apenas em situações extremas.
+Contra decisão judicial com esse teor, seria cabível reclamação perante o STF.35
+Vale lembrar que a liberdade de expressão tem limites (liberdade de expressão com
+responsabilidade). Para exemplificar, já houve decretação de prisão de deputado federal em
+razão de incitação ao fechamento do STF e à subversão da ordem política e social36. Nesse
+sentido, foi ultrapassado o limite de críticas dirigidas a certas autoridades públicas, restando
+configurada ameaça ao Estado Democrático de Direito, na interpretação dada pelo Supremo
+Tribunal Federal aos fatos.
+
+           Segundo o STF, a liberdade de expressão existe para a manifestação de opiniões
+           contrárias, jocosas, satíricas e até mesmo errôneas, mas não para opiniões
+           criminosas, discurso de ódio ou atentados contra o Estado Democrático de
+           Direito e a democracia.
+
+Na visão do STF, não viola o texto constitucional a imposição legal de restrições à publicidade de
+produtos fumígenos e de inserção de advertências sanitárias em suas embalagens quando se
+revelarem adequadas, necessárias e proporcionais para alcançar a finalidade de reduzir o fumo e
+o consumo do tabaco, hábitos que constituem perigo à saúde pública.37
+
+(DPU – 2015) O direito à liberdade de expressão representa um dos fundamentos do Estado
+democrático de direito e não pode ser restringido por meio de censura estatal, salvo a praticada
+em sede jurisdicional.
+Comentários:
+A liberdade de expressão não pode ser restringida por meio de censura estatal, inclusive a que
+for praticada em sede jurisdicional. Questão errada.
+
+           X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas,
+           assegurado o direito a indenização pelo dano material ou moral decorrente de
+           sua violação;
+
+34
+     Rcl 18.566 – MC/SP. Rel. Min. Celso de Mello. Julg: 12.09.2014. DJE 17.09.2014.
+35
+    A reclamação constitucional pode ser utilizada quando ato administrativo ou decisão judicial contraria súmula
+vinculante ou entendimento do STF manifestado no âmbito de ações do controle concentrado-abstrato de
+constitucionalidade (ADI, ADC, ADO e ADPF).
+36
+   Inq 4.781 e AP 1044/DF, Rel. Min. Alexandre de Moraes, julgamento em 20.04.2022.
+37
+     ADI 3311/DF. Rel. Min. Rosa Weber. Julgamento em 13.09.2022.
+
+                                                                                                              23
+                                                                                                              101
+
+
+---
+
+“Dissecando-se” esse inciso, percebe-se que ele protege:
+      a) O direito à intimidade e à vida privada. Resguarda, portanto, a esfera mais secreta da
+      vida de uma pessoa, tudo que diz respeito a seu modo de pensar e de agir.
+      b) O direito à honra. Blinda, desse modo, o sentimento de dignidade e a reputação dos
+      indivíduos, o “bom nome” que os diferencia na sociedade.
+      c) O direito à imagem. Defende a representação que as pessoas possuem perante si
+      mesmas e os outros.
+A intimidade, a vida privada, a honra e a imagem das pessoas são invioláveis: elas consistem em
+espaço íntimo intransponível por intromissões ilícitas externas.38 A violação a esses bens jurídicos
+ensejará indenização, cujo montante deverá observar o grau de reprovabilidade da conduta.39
+Destaque-se que as indenizações por dano material e por dano moral são cumuláveis, ou seja,
+diante de um mesmo fato, é possível que se reconheça o direito a ambas indenizações.
+As pessoas jurídicas também poderão ser indenizadas por dano moral40, uma vez que são
+titulares dos direitos à honra e à imagem. Segundo o STJ, a honra objetiva da pessoa jurídica
+pode ser ofendida pelo protesto indevido de título cambial, cabendo indenização pelo dano
+extrapatrimonial daí decorrente.41
+É importante que você saiba que o STF considera que, para que haja condenação por dano
+moral, não é necessário ofensa à reputação do indivíduo. Assim, a dor e o sofrimento de se
+perder um membro da família, por exemplo, podem ensejar indenização por danos morais.
+Além disso, com base nesse inciso, o STF entende que não se pode coagir suposto pai a realizar
+exame de DNA. Essa medida feriria, também, outros direitos humanos, como a dignidade da
+pessoa humana e a intangibilidade do corpo humano. Nesse caso, a paternidade só poderá ser
+comprovada mediante outros elementos constantes do processo.
+Sobre esse tema, é importante, ainda, destacar que o Supremo Tribunal Federal (STF) entende
+que é válida decisão judicial proibindo a publicação de fatos relativos a um indivíduo por
+empresa jornalística. O fundamento da decisão é a inviolabilidade constitucional dos direitos da
+personalidade, notadamente o da privacidade.
+Outra importante decisão do STF diz respeito à privacidade dos agentes políticos. Segundo a
+Corte, esta é relativa, uma vez que estes devem à sociedade as contas da atuação
+desenvolvida42. Mas isso não significa que quem se dedica à vida pública não tem direito à
+privacidade. O direito mantém-se no que diz respeito a fatos íntimos e da vida familiar, embora
+nunca naquilo que se refira à sua atividade pública.43
+
+38
+   MORAES, Alexandre de. Constituição do Brasil Interpretada e Legislação Constitucional, 9ª edição. São
+Paulo Editora Atlas: 2010, pp. 159.
+39
+   AO 1.390, Rel. Min. Dias Toffoli. DJe 30.08.2011.
+40
+   Súmula 227 STJ - A pessoa jurídica pode sofrer dano moral.
+41
+   STJ, REsp nº 60.033/MG – Rel. Min. Ruy Rosado de Aguiar, DJ 27.11.1995.
+42
+  Inq 2589 MS, Min. Marco Aurélio, j. 02.11.2009, p. 20.11.2009.
+43
+  RE 577785 RJ, Min. Ricardo Lewandowski, j. 20.05.2008, p. 30.05.2008.
+
+                                                                                                     24
+                                                                                                     101
+
+
+---
+
+No que diz respeito a servidor público que, no exercício de suas funções, é injustamente
+ofendido em sua honra e imagem, o STF entende que a indenização está sujeita a uma cláusula
+de modicidade. Isso porque todo agente público está sob permanente vigília da cidadania. E
+quando o agente estatal não prima por todas as aparências de legalidade e legitimidade no seu
+atuar oficial, atrai contra si mais fortes suspeitas de um comportamento antijurídico francamente
+sindicável pelos cidadãos44. Assim, no caso de eu, auditor-fiscal, sofrer um dano à minha honra
+por uma reportagem na TV, a indenização a mim devida será menor do que aquela que seria
+paga a um cidadão comum.
+Frise-se também que a publicação dos nomes dos servidores públicos e do valor dos
+correspondentes vencimentos e vantagens pecuniárias recebidas é legítima45, aspecto que
+reforça a vigília da sociedade sobre os agentes estatais e relativiza a vida privada destes.
+
+        O STF considera que, para que haja condenação por dano moral, não é
+        necessário haver ofensa à reputação do indivíduo. Assim, uma ofensa à dor de se
+        perder um membro da família, por exemplo, pode ensejar indenização por danos
+        morais.
+
+O direito à privacidade também foi objeto de análise do STF na ADI 4815, na qual se avaliou a
+necessidade de autorização prévia para a publicação de biografias. Em exame, estava um
+conflito entre direitos fundamentais: de um lado, a liberdade de expressão e de manifestação do
+pensamento; do outro, o direito à intimidade e à vida privada.
+Ao efetuar um juízo de ponderação, o STF concluiu pela prevalência, nessa situação, do direito à
+liberdade de expressão e de manifestação do pensamento. Decidiu a Corte que é “inexigível o
+consentimento de pessoa biografada relativamente a obras biográficas literárias ou audiovisuais,
+sendo por igual desnecessária autorização de pessoas retratadas como coadjuvantes (ou de seus
+familiares, em caso de pessoas falecidas)”.
+Com essa decisão, o STF passou a admitir as biografias não autorizadas. Entretanto, cabe
+ressaltar que a inexigibilidade do consentimento não exclui a possibilidade de indenização em
+virtude de dano material ou moral decorrente da violação da intimidade, da vida privada, da
+honra e da imagem das pessoas.
+Segundo Alexandre de Moraes, a inviolabilidade do sigilo de dados (art. 5º, XII) complementa a
+previsão do direito à intimidade e à vida privada (art. 5º, X), sendo ambas as previsões uma
+defesa da privacidade e regidas pelo princípio da exclusividade.
+
+44
+ ADPF 130, DJE de 6-11-2009.
+45
+ ARE 652.777 (Tema 483), Rel. Min. Teori Zavascki, j. 23.04.2015.
+
+                                                                                              25
+                                                                                              101
+
+
+---
+
+Também relacionado aos direitos à intimidade e à vida privada está o sigilo bancário, que é uma
+verdadeira garantia de privacidade dos dados bancários. Assim como todos os direitos
+fundamentais, o sigilo bancário não é absoluto. Nesse sentido, tem-se o entendimento do STJ de
+que “havendo satisfatória fundamentação judicial a ensejar a quebra do sigilo, não há violação a
+nenhuma cláusula pétrea constitucional” (STJ, DJ de 23.05.2005).
+A pergunta que se faz agora é a seguinte: quais autoridades podem determinar a quebra do
+sigilo bancário?
+A resposta a essa pergunta é complexa e envolve conhecimento acerca da jurisprudência do STF
+e do STJ.
+a) O Poder Judiciário pode determinar a quebra do sigilo bancário e do sigilo fiscal.
+b) As Comissões Parlamentares de Inquérito (CPIs) federais e estaduais podem determinar a
+quebra do sigilo bancário e fiscal. Isso se justifica pela previsão constitucional de que as CPIs têm
+poderes de investigação próprios das autoridades judiciais. As CPIs municipais não podem
+determinar a quebra do sigilo bancário e fiscal. Os Municípios são entes federativos que não
+possuem Poder Judiciário e, como tal, os poderes das CPIs municipais são mais limitados.
+c) A LC nº 105/2001 permite que as autoridades fiscais procedam à requisição de informações a
+instituições financeiras. Em 2016, o STF reconheceu a constitucionalidade dessa lei
+complementar, deixando consignado que as autoridades fiscais poderão requisitar informações
+às instituições financeiras, desde que:
+          - haja processo administrativo instaurado ou procedimento fiscal em curso; e
+          - as informações sejam consideradas indispensáveis pela autoridade administrativa
+          competente.
+Em sua decisão, o STF deixou claro que os dados fornecidos pelas instituições financeiras às
+autoridades fiscais continuarão sob cláusula de sigilo. Os dados, antes protegidos pelo sigilo
+bancário, passarão a estar protegidos por sigilo fiscal. Assim, não seria tecnicamente adequado
+falar-se em “quebra de sigilo bancário” pelas autoridades fiscais.
+d) Segundo o STJ, as contas correntes de entes públicos (contas públicas) não gozam de
+proteção à intimidade e à privacidade. Prevalecem, assim, os princípios da publicidade e da
+moralidade, que impõem à Administração Pública o dever de transparência.
+No caso concreto, analisado pelo STJ, um prefeito municipal havia sido denunciado pelo
+Ministério Público em razão da prática de crimes. Em razão disso, foi impetrado habeas corpus
+alegando-se que as provas que motivaram a ação penal seriam ilegais. Segundo os argumentos
+do impetrante, as provas seriam ilegais por terem sido colhidas mediante quebra de sigilo
+bancário determinado pelo Ministério Público, sem qualquer ordem judicial.
+Ao examinar o caso, o STJ decidiu que são lícitas “as provas obtidas por meio de requisição do
+Ministério Público de informações bancárias de titularidade de prefeitura municipal para fins de
+apurar supostos crimes praticados por agentes públicos contra a Administração Pública”.46
+
+
+46
+     STJ, HC 308.493 / CE. Rel. Min. Reynaldo Soares da Fonseca. 20.10.2015.
+
+                                                                                                  26
+                                                                                                  101
+
+
+---
+
+e) Na jurisprudência do STF, também se reconhece, em caráter excepcionalíssimo, a
+possibilidade de quebra de sigilo bancário pelo Ministério Público, que se dará no âmbito de
+procedimento administrativo que vise à defesa do patrimônio público (quando houver
+envolvimento de dinheiros ou verbas públicas).47
+f) É constitucional a requisição, sem prévia autorização judicial, de dados bancários e fiscais
+considerados imprescindíveis pelo Corregedor Nacional de Justiça para apurar infração de
+sujeito determinado, desde que em processo regularmente instaurado mediante decisão
+fundamentada e baseada em indícios concretos da prática do ato.48
+g) É legítimo, desde que observados alguns parâmetros, o compartilhamento de dados pessoais
+entre órgãos e entidades da Administração Pública federal, sem qualquer prejuízo da irrestrita
+observância dos princípios gerais e mecanismos de proteção elencados na Lei Geral de Proteção
+de Dados Pessoais (Lei 13.709/2018) e dos direitos constitucionais à privacidade e proteção de
+dados.49
+
+           O Tribunal de Contas da União (TCU) e os Tribunais de Contas dos Estados (TCEs)
+           não podem determinar a quebra do sigilo bancário.
+           Há que se mencionar, todavia, que o TCU tem competência para requisitar
+           informações relativas a operações de crédito originárias de recursos públicos.
+           Esse foi o entendimento firmado pelo STF no âmbito do MS 33.340/DF. No caso
+           concreto, o TCU havia requisitado ao BNDES informações relativas a operações
+           de crédito.
+           Nas palavras do STF, "operações financeiras que envolvam recursos públicos não
+           estão abrangidas pelo sigilo bancário a que alude a Lei Complementar nº
+           105/2001, visto que as operações dessa espécie estão submetidas aos princípios
+           da administração pública insculpidos no art. 37 da Constituição Federal. Em tais
+           situações, é prerrogativa constitucional do Tribunal [TCU] o acesso a informações
+           relacionadas a operações financiadas com recursos públicos".
+Devido à gravidade jurídica de que se reveste o ato de quebra de sigilo bancário, este somente
+se dará em situações excepcionais, sendo fundamental demonstrar a necessidade das
+informações solicitadas e cumprir as condições legais. Além disso, para que a quebra do sigilo
+bancário ou do sigilo fiscal seja admissível, é necessário que haja individualização do investigado
+
+
+47
+     MS nº 21.729-4/DF, Rel. Min. Francisco Rezek. Julgamento 05.10.1995.
+48
+     ADI 4709/DF, Rel. Min. Rosa Weber, julgamento em 27.05.2022.
+49
+     ADI 6649/DF, Rel. Min. Gilmar Mendes, julgamento em 15.09.2022.
+
+                                                                                                27
+                                                                                                101
+
+
+---
+
+e do objeto da investigação. Não é possível, portanto, a determinação da quebra do sigilo
+bancário para apuração de fatos genéricos.
+O STF entende que os dados bancários somente podem ser usados para os fins da investigação
+que lhes deu origem, não sendo possível seu uso quanto a terceiros estranhos à causa (STF, Inq.
+923/DF, 18.04.1996).
+Ainda neste assunto, o STF fixou a seguinte tese: É constitucional norma que permite o acesso,
+por autoridades policiais e pelo Ministério Público, a dados cadastrais de pessoas investigadas
+independentemente de autorização judicial, excluído do âmbito de incidência da norma a
+possibilidade de requisição de qualquer outro dado cadastral além daqueles referentes à
+qualificação pessoal, filiação e endereço (art. 5º, X e LXXIX, da CF). (ADI 4906, Rel. Min. Nunes
+Marques, j. 11.09.2024, p. 24.10.2024).
+Por fim, destaca-se que, para o STF, não é necessária a oitiva do investigado para a determinação
+da quebra do sigilo bancário. Isso porque o princípio do contraditório não prevalece na fase
+inquisitorial (STF, HC 55.447 e 69.372, RE 136.239, DJ de 24.03.1995).
+
+(TCU – 2022) A publicação de biografia de um político que resolveu se retirar da vida pública não
+depende da sua autorização ou mesmo de seus familiares, já que a liberdade de informação deve
+preponderar.
+Comentários:
+Segundo o STF, é inexigível o consentimento de pessoa biografada relativamente a obras
+biográficas literárias ou audiovisuais, sendo por igual desnecessária a autorização de pessoas
+retratadas como coadjuvantes ou de familiares, em caso de pessoas falecidas ou ausentes.
+Questão correta.
+(SEFAZ-CE – 2021) Admite-se exceção ao dever de sigilo bancário quando utilizado para ocultar
+a prática de crimes.
+Comentários:
+O direito ao sigilo bancário não é absoluto e não deve prevalecer diante da prática de crimes.
+Questão correta.
+(TJ-SC – 2019) Em procedimentos de fiscalização da aplicação de recursos públicos, o TCU
+poderá decretar a quebra de sigilo bancário ou empresarial de terceiros.
+Comentários:
+Segundo o STF, o TCU pode requisitar às instituições financeiras informações sobre operações de
+crédito originárias de recursos públicos. Todavia, isso não consiste em quebra de sigilo bancário.
+Tais operações, por envolverem recursos públicos, não estão protegidas por sigilo bancário,
+prevalecendo os princípios da transparência e da publicidade. Questão errada.
+
+                                                                                               28
+                                                                                               101
+
+
+---
+
+(TJ-PR – 2017) Dado o dever fundamental de pagar tributos, não é oponível o sigilo de
+informações bancárias à administração tributária.
+Comentários:
+O STF considerou constitucional a lei que prevê que as autoridades fiscais poderão requisitar às
+instituições financeiras informações protegidas por sigilo bancário. Isso se deve ao dever
+fundamental de pagar tributos. Questão correta.
+(SEFAZ-MT – 2014) A quebra do sigilo bancário ou fiscal pode ser determinada por Comissão
+Parlamentar de Inquérito.
+Comentários:
+As CPIs podem determinar a quebra do sigilo bancário ou fiscal. Questão correta.
+
+           XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem
+           consentimento do morador, salvo em caso de flagrante delito ou desastre, ou
+           para prestar socorro, ou, durante o dia, por determinação judicial;
+
+O princípio da inviolabilidade domiciliar tem por finalidade proteger a intimidade e a vida
+privada do indivíduo, bem como garantir-lhe, especialmente no período noturno, o sossego e a
+tranquilidade.
+Questão central para que se possa compreender o alcance desse dispositivo constitucional é
+saber qual é o conceito de “casa”. Para o STF, o conceito de “casa” revela-se abrangente,
+estendendo-se a: i) qualquer compartimento habitado; ii) qualquer aposento ocupado de
+habitação coletiva; e iii) qualquer compartimento privado não aberto ao público, onde alguém
+exerce profissão ou atividade pessoal.50
+Assim, o conceito de “casa” alcança não só a residência do indivíduo, mas também escritórios
+profissionais, consultórios médicos e odontológicos, trailers, barcos e aposentos de habitação
+50
+     HC 93.050, Rel. Min. Celso de Mello, j. 10-6-2008, Segunda Turma, DJE de 1º-8-2008.
+
+                                                                                              29
+                                                                                             101
+
+
+---
+
+coletiva (como o quarto de hotel). Não estão abrangidos pelo conceito de casa os bares e
+restaurantes.
+
+           Segundo o STJ, a arma apreendida no interior de um caminhão configura o crime
+           de porte ilegal de arma de fogo (não crime de posse!). Isso se deve ao fato de
+           que o caminhão não é um ambiente estático e, portanto, não pode ser
+           reconhecido como “local de trabalho”. Assim, a boleia de um caminhão não está
+           protegida pela inviolabilidade do domicílio.51
+
+O STF entende que, embora os escritórios estejam abrangidos pelo conceito de “casa”, não se
+pode invocar a inviolabilidade de domicílio como escudo para a prática de atos ilícitos em seu
+interior. Com base nessa ideia, a Corte considerou válida ordem judicial que autorizava o ingresso
+de autoridade policial no estabelecimento profissional, inclusive durante a noite, para instalar
+equipamentos de captação de som (“escuta”). Entendeu-se que tais medidas precisavam ser
+executadas sem o conhecimento do investigado, o que seria impossível durante o dia.
+Feitas essas considerações, cabe-nos fazer a seguinte pergunta: em quais hipóteses se pode
+penetrar na casa de um indivíduo?
+O ingresso na “casa” de um indivíduo poderá ocorrer nas seguintes situações:
+          a) Com o consentimento do morador.
+          b) Sem o consentimento do morador, sob ordem judicial, apenas durante o dia. Perceba
+          que, mesmo com ordem judicial, não é possível o ingresso na casa do indivíduo durante o
+          período noturno.
+          c) A qualquer hora, sem consentimento do indivíduo, em caso de flagrante delito ou
+          desastre, ou, ainda, para prestar socorro.
+Resumindo, a regra geral é que somente se pode ingressar na casa do indivíduo com o seu
+consentimento. No entanto, será possível penetrar na casa do indivíduo mesmo sem o
+consentimento, desde que amparado por ordem judicial (durante o dia) ou, a qualquer tempo,
+em caso de flagrante delito ou desastre, ou para prestar socorro.
+É recorrente a dúvida entre os alunos a respeito de qual seria o conceito de “dia” para fins de
+aplicação do art. 5º, XI, da CF/88. A doutrina sempre se dividiu sobre o tema. Há autores que
+
+
+51
+     REsp 1.362.124/MG. Rel. Min. Sebastião Reis Júnior. 19.03.2013.
+
+                                                                                               30
+                                                                                               101
+
+
+---
+
+entendem que “dia” é o período compreendido entre as 06:00 h e as 18:00 h. Outros utilizam
+um critério físico-astronômico, destacando que “dia” é o intervalo entre a aurora e o crepúsculo.
+Em setembro de 2019, todavia, foi promulgada a Lei nº 13.869/2019 (Nova Lei de Abuso de
+Autoridade), que tipificou como crime a conduta daquele que cumpre mandado de busca e
+apreensão domiciliar após as 21:00 h (vinte e uma horas) ou antes das 5:00 h (cinco horas).52
+
+            No entendimento do Superior Tribunal de Justiça, ao apreciar um processo em
+            seguredo de justiça (Informativo nº 800-STJ), o advento do art. 22, III, da Lei n.
+            13.869/2019 deu origem a uma nova corrente, no sentido de que, ao tipificar
+            como crime de abuso de autoridade o cumprimento de mandado de busca e
+            apreensão domiciliar entre 21h e 5h, o legislador haveria implicitamente
+            regulamentado o art. 5º, XI, da Constituição e o art. 245 do CPP, para definir
+            como "dia" o período entre 5h e 21h.
+            Todavia, o art. 22, III, da Lei n. 13.869/2019 não definiu os conceitos de "dia" e
+            de "noite" para fins de cumprimento do mandado de busca e apreensão
+            domiciliar. O que ocorreu foi apenas a criminalização de uma conduta que
+            representa violação tão significativa da proteção constitucional do domicílio a
+            ponto de justificar a incidência excepcional do direito penal contra aqueles que a
+            praticarem. É dizer, o fato de que o cumprimento de mandado de busca
+            domiciliar entre 21h e 5h foi criminalizado não significa que a realização da
+            diligência em qualquer outro horário seja plenamente lícita e válida para todos os
+            fins.
+            Portanto, para o STJ, embora não configure o crime de abuso de autoridade,
+            mesmo que realizada a diligência depois das 5h e antes das 21h, continua sendo
+            ilegal e sujeito à sanção de nulidade cumprir mandado de busca e apreensão
+            domiciliar se for noite.
+
+
+A inviolabilidade domiciliar também se aplica ao fisco e à polícia judiciária. Segundo o STF, “nem
+a Polícia Judiciária e nem a administração tributária podem, afrontando direitos assegurados pela
+Constituição da República, invadir domicílio alheio com o objetivo de apreender, durante o
+período diurno, e sem ordem judicial, quaisquer objetos que possam interessar ao Poder
+Público” (AP 370-3/DF, RTJ, 162:249-250).
+
+52
+     Art. 22, III, Lei nº 13.869/2019.
+
+                                                                                                 31
+                                                                                                 101
+
+
+---
+
+Como já comentamos, a entrada de autoridade policial em domicílio sem autorização judicial
+será possível nas situações de flagrante delito. Isso é particularmente relevante no caso da
+prática de crimes permanentes, nos quais a situação de flagrância estende-se no tempo. Exemplo
+de crimes desse tipo seriam o cárcere privado e o porte de drogas.
+Nesses crimes, exige-se uma pronta resposta das autoridades policiais, que devem ingressar no
+domicílio sem autorização judicial. Todavia, essa prática pode dar ensejo ao abuso de autoridade,
+uma vez que um policial pode vir a ingressar em domicílio sem que haja indícios relevantes de
+que um crime está sendo praticado em seu interior.
+Para coibir o abuso de autoridade, o STF deixou consignado o entendimento de que “a entrada
+forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando
+amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro
+da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal
+do agente ou da autoridade e de nulidade dos atos praticados”.53
+Por último, vale destacar que a doutrina admite que a força policial, tendo ingressado na casa de
+indivíduo durante o dia, com amparo em ordem judicial, prolongue suas ações durante o período
+noturno.
+
+           Não há ilegalidade na ação de policiais militares que — amparada em fundadas
+           razões sobre a existência de flagrante do crime de tráfico de drogas na
+           modalidade “ter em depósito” — ingressam, sem mandado judicial, no domicílio
+           daquele que corre, em atitude suspeita, para o interior de sua residência ao
+           notar a aproximação da viatura policial. (HC 169.788/SP, Rel. Min, Edson Fachin,
+           Red. p/ ac. Min. Alexandre de Moraes, j. 01/03/2024).
+
+53
+     RE 603.616 (Tema 280). Rel. Min. Gilmar Mendes. Julgamento: 05.11.2015.
+
+                                                                                                 32
+                                                                                                 101
+
+
+---
+
+(TJ-SC – 2019) O ingresso forçado em domicílio, sem mandado judicial, é admitido desde que a
+autoridade policial justifique previamente a ocorrência de flagrante delito.
+Comentários:
+O ingresso forçado em domicílio deve estar amparado em fundadas razões, a serem
+posteriormente justificadas. Não há que se falar, portanto, em justificativa prévia. Questão errada.
+(PC-DF – 2015) Admite-se a apreensão, pela polícia federal e pela receita federal, de livros
+contábeis e documentos fiscais de clientes localizados em escritório de advocacia, pois escritório
+não se equipara a domicílio.
+Comentários:
+Para fins de aplicação do art. 5º, XI, da CF/88, o conceito de casa também abrange os escritórios
+profissionais. Logo, o ingresso em escritório de advocacia a fim de apreender livros contábeis e
+documentos fiscais dependerá de ordem judicial. Questão errada.
+(PC-DF – 2015) É ilegal, por violação ao domicílio, a prova obtida por meio de escuta ambiental e
+exploração de local, em escritório de advocacia, realizada no período noturno, mesmo com
+ordem judicial.
+Comentários:
+O STF considera válida (legal) ordem judicial que autoriza o ingresso de autoridade policial em
+escritório de advocacia com o objetivo de instalar equipamentos de escuta ambiental. Questão
+errada.
+
+                                                                                                 33
+                                                                                                 101
+
+
+---
+
+       XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de
+       dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial,
+       nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal
+       ou instrução processual penal;
+
+Segundo Alexandre de Moraes, a inviolabilidade do sigilo de dados (art. 5º, XII) complementa a
+previsão do direito à intimidade e à vida privada (art. 5º, X), sendo ambas as previsões uma
+defesa da privacidade e regidas pelo princípio da exclusividade. Esse princípio pretende
+assegurar ao indivíduo, como ressalta Tercio Ferraz, "sua identidade diante dos riscos
+proporcionados pela niveladora pressão social e pela incontrastável impositividade do poder
+político". A privacidade é um bem exclusivo, pois está no domínio das opções pessoais de cada
+indivíduo; ela não é, enfim, guiada por normas e padrões objetivos.
+O art. 5º, inciso XII, trata da inviolabilidade das correspondências e das comunicações. A
+princípio, a leitura do inciso XII pode dar a entender que o sigilo da correspondência e das
+comunicações telegráficas e de dados não poderia ser violado; apenas haveria exceção
+constitucional para a violação das comunicações telefônicas.
+Não é esse, todavia, o entendimento que prevalece. Como não há direito absoluto no
+ordenamento jurídico brasileiro, admite-se, mesmo sem previsão expressa na Constituição, que
+lei ou decisão judicial também possam estabelecer hipóteses de interceptação das
+correspondências e das comunicações telegráficas e de dados, sempre que a norma
+constitucional esteja sendo usada para acobertar a prática de ilícitos.
+Nesse sentido, entende o STF que “a administração penitenciária, com fundamento em razões
+de segurança pública, de disciplina prisional ou de preservação da ordem jurídica, pode, sempre
+excepcionalmente, e desde que respeitada a norma inscrita no art. 41, parágrafo único, da Lei
+7.210/1984, proceder à interceptação da correspondência remetida pelos sentenciados, eis que
+
+                                                                                            34
+                                                                                            101
+
+
+---
+
+a cláusula tutelar da inviolabilidade do sigilo epistolar não pode constituir instrumento de
+salvaguarda de práticas ilícitas”.54
+Sobre a comunicação de dados, é relevante destacar uma importante jurisprudência do STF.
+Suponha que, em uma operação de busca e apreensão realizada em um escritório profissional, os
+policiais apreendam o disco rígido (HD) de um computador no qual estão armazenados os
+e-mails recebidos pelo investigado. Nesse caso, entende a Corte que não há violação do sigilo
+da comunicação de dados. Isso porque a proteção constitucional é da comunicação de dados, e
+não dos dados em si. Em outras palavras, não há, nessa situação, quebra do sigilo das
+comunicações (interceptação das comunicações), mas sim apreensão de base física na qual se
+encontram os dados.55
+Agora vamos imaginar a seguinte situação.
+Suponha que um policial realize prisão em flagrante delito, apreendendo telefone celular que
+estava de posse do preso. Na sequência, passa a verificar no celular do preso conversas pelo
+aplicativo WhatsApp. Nessa situação, as provas seriam lícitas? Não. Segundo o STJ, é ilícita a
+prova obtida por acesso ao WhatsApp sem autorização judicial.56 As mensagens armazenadas no
+aparelho estão, afinal, protegidas pelo sigilo telefônico. Sobre o assunto, o STF fixou a seguinte
+tese de repercussão geral57: “O acesso a registro telefônico, agenda de contatos e demais dados
+contidos em aparelhos celulares apreendidos no local do crime atribuído ao acusado depende de
+prévia decisão judicial que justifique, com base em elementos concretos, a necessidade e a
+adequação da medida e delimite a sua abrangência à luz dos direitos fundamentais à intimidade,
+à privacidade e ao sigilo das comunicações e dados dos indivíduos” (CF, art. 5º, X e XX).
+Por outro lado, se o celular for apreendido em operação de busca e apreensão autorizada por
+ordem judicial, admite-se que a autoridade policial verifique o conteúdo que estiver armazenado
+no aparelho, incluindo as conversas pelo WhatsApp. Não haverá necessidade, para análise
+desses dados, de nova autorização judicial.58
+Agora que já estudamos tópicos relevantes sobre o sigilo da correspondência e das
+comunicações de dados, vamos focar no estudo do sigilo das comunicações.
+De início, é importante destacar a diferença entre quebra do sigilo das comunicações e
+interceptação das comunicações telefônicas. São coisas diferentes. A quebra do sigilo das
+comunicações consiste em se ter acesso ao extrato das ligações telefônicas (grosso modo, seria
+ter acesso à conta emitida pela operadora de telefonia). Por outro lado, a interceptação das
+comunicações telefônicas consiste em se ter acesso às gravações das conversas.
+A interceptação das comunicações telefônicas é, sem dúvida, medida mais gravosa e, por isso,
+somente pode ser determinada pelo Poder Judiciário. Já a quebra do sigilo das comunicações
+telefônicas pode ser determinada pelas Comissões Parlamentares de Inquérito (CPIs), além de, é
+claro, pelo Poder Judiciário.
+
+54
+   HC 70.814. Primeira Turma, Rel. Min. Celso de Mello, DJ de 24/06/1994.
+55
+   STF, RE 418416/SC, Rel. Min. Sepúlveda Pertence, j. 10.05.2006, DJ em 19.12.2006.
+56
+   STJ, RHC 51.531-RO, Rel. Min. Nefi Cordeiro, julgamento: 19/04/2016.
+57
+     ARE 1042075 RG, Rel. Min. Dias Toffoli, julgamento: 23.11.2017.
+58
+     STJ. RHC 77.232/SC, Rel. Min. Felix Fischer, julgamento: 03/10/2017.
+
+                                                                                               35
+                                                                                               101
+
+
+---
+
+Segundo a CF/88, a interceptação das comunicações telefônicas somente será possível quando
+atendidos três requisitos:
+       a) ordem judicial;
+       b) existência de investigação criminal ou instrução processual penal;
+       c) lei que preveja as hipóteses e a forma em que ela poderá ocorrer.
+O art. 5º, inciso XII, é norma de eficácia contida. Em que pese produzir efeitos a partir da
+promulgação da Constituição, seus efeitos práticos podem ser restringidos por meio de lei. Seu
+alcance é restringível, até porque poderá haver a quebra de sigilo durante o estado de defesa ou
+estado de sítio.59
+A interceptação das comunicações telefônicas só pode ser autorizada por decisão judicial (de
+ofício ou a requerimento da autoridade policial ou do Ministério Público) e para fins de
+investigação criminal ou instrução processual penal.
+A decisão judicial deverá ser fundamentada, devendo o magistrado indicar a forma de sua
+execução, que não poderá ter prazo maior que quinze dias, renovável por igual período. O STF
+entende que pode haver renovações sucessivas desse prazo, e não apenas uma única renovação
+da medida, pois há situações extremas que o exigem.60
+Outro aspecto importante a ser estudado quando da análise da inviolabilidade das comunicações
+telefônicas diz respeito às hipóteses em que é cabível interceptação telefônica. De acordo com a
+Lei nº 9.296/1996, as interceptações telefônicas só podem ser ordenadas pelo Poder Judiciário
+se presentes, conjuntamente, 3 (três) requisitos:
+       a) se existirem razoáveis indícios de autoria ou participação na infração penal;
+       b) se a prova não puder ser obtida por outros meios disponíveis;
+       c) se o fato investigado constituir infração penal punida com reclusão.
+A interceptação telefônica autorizada pelo Poder Judiciário tem como objetivo subsidiar
+investigação de infração penal punível com reclusão. No entanto, é bastante comum que, no
+curso da efetivação da interceptação telefônica, novas infrações penais sejam descobertas,
+inclusive com autores e partícipes diferentes. Essas novas infrações penais são o que a doutrina
+chama de “crimes-achados”, que são conexos com os primeiros. As informações e provas
+levantadas por meio da interceptação telefônica poderão subsidiar a denúncia desses
+“crimes-achados”, ainda que estes sejam puníveis com a pena de detenção.61
+O STF também reconhece que “é válida a prova de um crime descoberta acidentalmente
+durante a escuta telefônica autorizada judicialmente para apuração de crime diverso”62. Assim,
+se o juiz havia autorizado uma interceptação telefônica para apurar um crime de homicídio e
+descobre-se que um dos interlocutores cometeu o crime de sequestro, a prova será válida no
+processo referente a este crime (sequestro).
+59
+   STF, HC nº 69.912-0/RS, Rel. Min. Sepúlveda Pertence, DJ. 26.11.1993.
+60
+   STF, HC 106.129, Rel. Min. Dias Toffoli. DJE de 23.11.2010.
+61
+   STF, HC 83.515/RS. Rel. Min. Nelson Jobim, Informativo STF nº 361.
+62
+   STF, HC 78098/SC, Rel. Min. Moreira Alves, j. 01.12.98.
+
+                                                                                             36
+                                                                                             101
+
+
+---
+
+A interceptação telefônica será admitida mesmo em se tratando de conversa entre acusado em
+processo penal e seu defensor. Segundo o STF, apesar de o advogado ter seu sigilo profissional
+resguardado para o exercício de suas funções, tal direito não pode servir como escudo para a
+prática de atividades ilícitas, pois nenhum direito é absoluto. O simples fato de ser advogado não
+pode conferir, ao indivíduo, imunidade na prática de delitos no exercício de sua profissão.63
+Também é importante o entendimento que se tem sobre a denominada “prova emprestada”.
+Mas o que vem a ser a prova emprestada? É uma prova que é obtida no curso de uma
+investigação criminal ou instrução processual penal e, posteriormente, é usada (“emprestada”)
+em um processo administrativo disciplinar. "Por prova emprestada entende-se aquela que foi
+produzida em outro processo e que é trasladada por meio de certidão para os autos de nova
+causa, nos quais entra sob a forma documental. Pode-se referir a qualquer uma das modalidades
+probatórias, como documentos, testemunhas, confissões, perícias ou depoimento pessoal. É,
+enfim, o aproveitamento de atividade judiciária já anteriormente praticada, em nome do princípio
+da economia processual"64.
+Segundo o STF, “dados obtidos em interceptação de comunicações telefônicas e em escutas
+ambientais, judicialmente autorizadas para produção de prova em investigação criminal ou em
+instrução processual penal, podem ser usados em procedimento administrativo disciplinar, contra
+a mesma ou as mesmas pessoas em relação às quais foram colhidos, ou contra outros servidores
+cujos supostos ilícitos teriam despontado à colheita dessa prova.”65
+Assim, caso uma interceptação telefônica resulte em prova de que um auditor-fiscal da Receita
+Federal esteja recebendo dinheiro para despachar mercadoria, além de essa prova ser usada no
+processo penal do crime referente a essa prática, poderá ser usada pela Corregedoria da Receita
+Federal quando do processo administrativo destinado a apurar o ilícito e determinar a
+correspondente penalidade administrativa.
+Há que se estabelecer, agora, a diferença entre três institutos que possuem bastante semelhança
+entre si: i) interceptação telefônica; ii) escuta telefônica; e iii) gravação telefônica.
+A interceptação telefônica, conforme já vimos, consiste na captação de conversas telefônicas
+feita por terceiro (autoridade policial) sem o conhecimento de nenhum dos interlocutores,
+devendo ser autorizada pelo Poder Judiciário, nas hipóteses e na forma que a lei estabelecer,
+para fins de investigação criminal ou instrução processual penal.
+
+A escuta telefônica, por sua vez, é a captação de conversa telefônica feita por um terceiro, com o
+conhecimento de apenas um dos interlocutores. Por sua vez, a gravação telefônica é feita por um
+dos interlocutores do diálogo, sem o consentimento ou ciência do outro.66
+
+Esses conceitos acima apresentados são baseados no entendimento do STJ e podem ser
+cobrados em prova. Todavia, o STF tem usado o termo “gravação clandestina” para se referir
+tanto à escuta telefônica (gravação de conversa feita por terceiro com o conhecimento de apenas
+
+63
+     HC 96.909/MT, Rel. Min. Ellen Gracie. J.10.12.2009, p. 11.12.2009.
+64
+   THEODORO JÚNIOR, Humberto. Curso de Direito Processual Civil 1. 63. ed. Rio de Janeiro: Forense, 2021.
+65
+   STF, Inq 2424, Rel. Min. Cesar Peluso, DJ. 24.08.2007.
+66
+   STJ, HC 161.053-SP, Rel. Min. Jorge Mussi. 23.04.2010.
+
+                                                                                                        37
+                                                                                                       101
+
+
+---
+
+um dos interlocutores) quanto à gravação telefônica (gravação feita por um dos interlocutores
+sem o conhecimento do outro). Cabe destacar que uma “gravação clandestina” pode ser oriunda
+de uma conversa telefônica, pessoal ou mesmo de uma gravação ambiental.
+
+        Segundo o STF67, são lícitas as sucessivas renovações de interceptação
+        telefônica, desde que verificados os requisitos do art. 2º da Lei nº 9.296/96 e
+        demonstrada a necessidade da medida diante de elementos concretos e a
+        complexidade da investigação, a decisão judicial inicial e as prorrogações sejam
+        devidamente motivadas, com justificativa legítima, ainda que sucinta, a embasar
+        a continuidade das investigações. São ilegais as motivações padronizadas ou
+        reproduções de modelos genéricos sem relação com o caso concreto.
+
+        Vejamos, a seguir, importantes entendimentos jurisprudenciais sobre o tema:
+        1) É possível a gravação telefônica por um dos interlocutores sem a autorização
+        judicial caso haja investida criminosa daquele que desconhece que a gravação
+        está sendo feita. De acordo com o STF, é “inconsistente e fere o senso comum
+        falar-se em violação do direito à privacidade quando interlocutor grava diálogo
+        com sequestradores, estelionatários ou qualquer tipo de chantagista”.68 Nesse
+        caso, percebe-se que a gravação clandestina foi feita em legítima defesa, sendo,
+        portanto, uma prova válida.
+
+
+67
+    RE 625263/PR, Rel. Min. Gilmar Mendes, redator do acórdão Min. Alexandre de Moraes, julgado em
+11/5/2021 (Repercussão Geral – Tema 661).
+68
+   STF,HC 75.338/RJ, Rel. Min. Nelson Jobim, j. 11.03.98, DJ de 25.09.1998.
+
+                                                                                                38
+                                                                                               101
+
+
+---
+
+        2) Segundo o STF, havendo a necessidade de coleta de prova via gravação
+        ambiental (sendo impossível a apuração do crime por outros meios) e havendo
+        ordem judicial nesse sentido, é lícita a interceptação telefônica.
+        3) São ilícitas as provas obtidas por meio de interceptação telefônica
+        determinada a partir apenas de denúncia anônima, sem investigação preliminar.
+        Com efeito, uma denúncia anônima não é suficiente para que o juiz determine a
+        interceptação telefônica; caso ele o faça, a prova obtida a partir desse
+        procedimento será ilícita.
+
+(TJ-CE – 2023) De acordo com a CF, o sigilo das comunicações telefônicas não pode ser
+quebrado em nenhuma hipótese.
+Comentários:
+Nos termos do inciso XII do art. 5º, sabe-se que é possível a interceptação telefônica, desde que
+haja autorização judicial para fins de investigação criminal ou instrução processual penal. Questão
+errada.
+(TJ-SC – 2019) É ilícito o uso de prova colhida, por via de interceptação telefônica no curso de
+inquérito policial, em processo disciplinar instaurado contra servidor não investigado pelo mesmo
+fato na seara criminal.
+Comentários:
+O STF admite a “prova emprestada”. Assim, prova colhida em interceptação telefônica no curso
+de inquérito policial, desde que devidamente autorizada por ordem judicial, em respeito ao art.
+5º, XII, poderá ser utilizada em processo administrativo disciplinar instaurado contra servidor
+público. Questão errada.
+(MPE-RS – 2014) Não se deve confundir a interceptação telefônica, esta autorizada pela
+Constituição, desde que por ordem judicial, nas hipóteses e na forma que a lei estabelecer para
+fins de investigação criminal ou instrução processual penal, com o sigilo dos registros telefônicos,
+que nada mais são do que os telefonemas registrados nos bancos de dados das operadoras de
+telefonia e que não estão sujeitos ao princípio da reserva absoluta de jurisdição, podendo as
+Comissões Parlamentares de Inquérito, segundo precedente do Supremo Tribunal Federal, ter
+acesso a tais dados sem a necessidade de ordem judicial.
+Comentários:
+O enunciado faz uma distinção acertada entre “interceptação telefônica” e “quebra de sigilo
+telefônico”. A interceptação telefônica só pode ser determinada pelo Poder Judiciário, ao passo
+
+                                                                                                 39
+                                                                                                 101
+
+
+---
+
+que a quebra de sigilo telefônico pode ser determinada pelo Poder Judiciário ou por Comissão
+Parlamentar de Inquérito (CPI). Questão correta.
+
+            XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as
+            qualificações profissionais que a lei estabelecer;
+
+Trata-se de norma constitucional de eficácia contida que trata da liberdade de atividade
+profissional. Esta dispõe que, na inexistência de lei que exija qualificações para o exercício de
+determinada profissão, qualquer pessoa poderá exercê-la. Entretanto, existente a lei, a profissão
+só poderá ser exercida por quem atender às qualificações legais.
+Segundo o STF, nem todos os ofícios ou profissões podem ser condicionados ao cumprimento de
+condições legais para o seu exercício. A regra é a liberdade. Apenas quando houver potencial
+lesivo na atividade é que pode ser exigida inscrição em conselho de fiscalização profissional. A
+atividade de músico, por exemplo, prescinde de controle. Constitui, ademais, manifestação
+artística protegida pela garantia da liberdade de expressão.69 Nesse sentido, é incompatível com
+a Constituição a exigência de inscrição na Ordem dos Músicos do Brasil, bem como de
+pagamento de anuidade para o exercício da profissão.70
+Cabe destacar ainda que o STF considerou constitucional o exame da Ordem dos Advogados do
+Brasil (OAB). Para a Corte, o exercício da advocacia traz um risco coletivo, cabendo ao Estado
+limitar o acesso à profissão e o respectivo exercício. Nesse sentido, o exame de suficiência
+discutido seria compatível com o juízo de proporcionalidade e não alcançaria o núcleo essencial
+da liberdade de ofício. No concernente à adequação do exame à finalidade prevista na
+Constituição – assegurar que as atividades de risco sejam desempenhadas por pessoas com
+conhecimento técnico suficiente, de modo a evitar danos à coletividade –, aduziu-se que a
+aprovação do candidato seria elemento a qualificá-lo para o exercício profissional.71
+Ainda com relação à liberdade do exercício profissional, destacamos entendimento do STF no
+sentido de que é inconstitucional a exigência de diploma para o exercício da profissão de
+jornalista.72 Também é inconstitucional a previsão de cancelamento automático de registro em
+conselho profissional ante a inadimplência da anuidade.73 Deve haver prévia oitiva do associado,
+em respeito ao devido processo legal e à liberdade fundamental do exercício da profissão.
+Outra importante jurisprudência é a de que não pode a Fazenda Pública obstaculizar a atividade
+empresarial com a imposição de penalidades no intuito de receber imposto atrasado.74 Nesse
+sentido, o STF editou a Súmula no 323, segundo a qual “é inadmissível a apreensão de
+mercadorias como meio coercitivo para pagamento de tributos”.
+Também não é admissível a exigência, pela Fazenda Pública, de fiança para a impressão de notas
+fiscais feita pelo contribuinte em débito com o Fisco. Segundo o STF, “a exigência, pela Fazenda
+69
+     STF, RE 414.426, Rel. Min. Ellen Gracie, julgamento em 1º-8-2011, Plenário, DJE de 10-10-2011.
+70
+   RE 795.467 (Tema 738). Rel. Min. Teori Zavascki. Julgamento em 24.06.2014.
+71
+    STF, RE 603.583, Rel. Min. Marco Aurélio, julgamento em 26-10-2011, Plenário, Informativo 646, com
+repercussão geral.
+72
+   STF, RE 511.961. Rel. Min. Gilmar Mendes. DJe 13.11.2009.
+73
+     STF, RE 808.424. Rel. Min. Marco Aurélio. DJe 30.04.2020.
+74
+     STF, RE 413.782, Rel. Min. Marco Aurélio. DJ 17.03.2005.
+
+                                                                                                      40
+                                                                                                      101
+
+
+---
+
+Pública, de prestação de fiança, garantia real ou fidejussória para a impressão de notas fiscais de
+contribuintes em débito com o Fisco viola as garantias do livre exercício do trabalho, ofício ou
+profissão (CF, art. 5º, XIII), da atividade econômica (CF, art. 170, parágrafo único) e do devido
+processo legal (CF, art. 5º, LIV)”.75
+Especificamente relacionada à profissão de motorista, o STF fixou uma tese de repercussão geral
+nos seguintes termos: "É constitucional a imposição da pena de suspensão de habilitação para
+dirigir veículo automotor ao motorista profissional condenado por homicídio culposo no
+trânsito".76 Segundo o STF, inexiste direito absoluto ao exercício de atividades profissionais (CF,
+art. 5º, XIII). É razoável e legítima a restrição imposta pelo legislador, visando proteger bens
+jurídicos relevantes de terceiros, como a vida e a integridade física.
+Por fim, vale fazer menção à Lei Federal nº 13.874/2019, que institui a declaração de direitos de
+liberdade econômica. Essa lei assegura a livre iniciativa e o livre exercício de atividades
+econômicas. A fim de respeitar a previsão constitucional quanto às qualificações profissionais, a
+lei fala em "atos públicos de liberação", tais como licença, autorização, concessão, inscrição,
+permissão, alvará, cadastro, entre outros. Desde já, é bom saber que o parágrafo único do art.
+170 da CF/88 estabelece a todos o direito ao livre exercício de atividade econômica,
+independentemente da autorização de órgãos públicos, salvo nos casos previstos em lei.
+
+(TCE/AM - 2021) Joana, motorista de ônibus profissional, foi notificada de que lhe fora imposta a
+pena de suspensão de habilitação para dirigir veículo automotor, isto em razão de sua
+condenação pela prática de homicídio culposo na condução de veículo dessa natureza. À luz da
+ordem constitucional vigente, a sanção aplicada a Joana é inconstitucional, pois afronta o direito
+fundamental ao livre exercício profissional.
+Comentários:
+No entendimento do STF, é constitucional a imposição da pena de suspensão de habilitação para
+dirigir veículo automotor ao motorista profissional condenado por homicídio culposo no trânsito
+(Tema 486 da sistemática de repercussão geral). Questão errada.
+(Prefeitura de Piraquara – 2014) É livre o exercício de qualquer trabalho, ofício ou profissão,
+sendo defeso ao legislador ordinário a criação de leis que estabeleçam qualificações profissionais
+como requisito para atuação profissional do indivíduo.
+Comentários:
+
+
+75
+     RE 565.048 / RS, Rel. Min. Marco Aurélio. Julg: 29.05.2014.
+76
+     RE 607.107, Rel. Min. Roberto Barroso, j. 12.02.2020 (Tema 486, repercussão geral).
+
+                                                                                                41
+                                                                                                101
+
+
+---
+
+Muita gente erra essa questão porque não sabe o significado da palavra “defeso”, que é
+sinônimo de “proibido”, “vedado”. Pois bem, ao contrário do que diz o enunciado, o legislador
+ordinário pode criar leis que estabeleçam qualificações profissionais como requisito para atuação
+profissional do indivíduo. Questão errada.
+
+        XIV - é assegurado a todos o acesso à informação e resguardado o sigilo da
+        fonte, quando necessário ao exercício profissional;
+
+Esse inciso tem dois desdobramentos: assegura o direito de acesso à informação (desde que não
+fira outros direitos fundamentais) e resguarda os jornalistas, possibilitando que estes obtenham
+informações sem terem que revelar sua fonte. Não há conflito, todavia, com a vedação ao
+anonimato. Caso alguém seja lesado pela informação, o jornalista responderá por isso.
+
+        XV - é livre a locomoção no território nacional em tempo de paz, podendo
+        qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com
+        seus bens;
+
+Por meio desse dispositivo, a CF/88 garante a liberdade de locomoção, no território nacional,
+nos tempos de paz e nos termos da lei. Observe que se trata de norma constitucional de eficácia
+contida, que poderá sofrer restrições referentes ao ingresso, à saída e à circulação interna de
+pessoas e patrimônio. É o caso, por exemplo, das restrições impostas por normas referentes ao
+ingresso de estrangeiros no país.
+Outro tópico bastante interessante sobre esse dispositivo é que a liberdade de locomoção só é
+assegurada a qualquer pessoa (brasileira ou não) em tempos de paz. Isso significa que, em
+tempos de guerra, a liberdade de entrada, saída e permanência no país poderá sofrer duras
+restrições, principalmente no que se refere a estrangeiros.
+Por fim, cabem algumas considerações sobre o direito de locomoção. “Locomover” significa
+“andar”, “correr”, “passear”, “parar”, “ir”, “vir”, “ficar”, “estacionar”, “transitar” etc. Em sentido
+amplo, é o mesmo que “circular”. Nesse sentido, não pode o poder público cercear o livre
+trânsito de pessoas, salvo em situações excepcionais. No estado de sítio, por exemplo, pode ser
+determinado que as pessoas sejam obrigadas a permanecer em um local específico, nos termos
+do art. 139, inciso I, da CF/88.
+O remédio constitucional adequado para proteger a liberdade de locomoção é o habeas corpus.
+Os remédios constitucionais compreendidos entre os incisos LXVIII e LXXIII do art. 5º serão
+abordados em um outro arquivo do livro digital do nosso curso.
+Lembre-se de que a locomoção é um direito fundamental de primeira geração (ou dimensão),
+cuja ameaça ou coerção podem ser remediadas por meio do habeas corpus, conforme veremos
+no estudo do inciso LXVIII.
+Sabendo que não há direito fundamental absoluto, a livre locomoção pode ser restringida diante
+de exceções constitucionais. No estado de sítio, por exemplo, pode ser determinada às pessoas
+a obrigação de permanência em uma localidade determinada (art. 139, inciso I) e a suspensão da
+liberdade de reunião (art. 139, inciso IV).
+
+                                                                                                   42
+                                                                                                   101
+
+
+---
+
+            XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao
+            público, independentemente de autorização, desde que não frustrem outra
+            reunião anteriormente convocada para o mesmo local, sendo apenas exigido
+            prévio aviso à autoridade competente;
+
+O direito de reunião é um direito típico de uma democracia, estando intimamente relacionado à
+liberdade de expressão. É um direito individual, mas que se expressa de maneira coletiva.
+Caracteriza-se como uma “liberdade-condição”, pois viabiliza o exercício de outros direitos
+individuais, tais como a liberdade de crença religiosa e política e a liberdade de expressão.
+O exercício do direito de reunião é condicionado pela Constituição Federal de 1988:
+          a) a reunião deverá ter fins pacíficos e apresentar ausência de armas;
+          b) a reunião deverá ser realizada em locais abertos ao público;
+          c) o exercício do direito de reunião não poderá frustrar outra reunião convocada
+          anteriormente para o mesmo local;
+          d) desnecessidade de autorização;
+          e) prévio aviso à autoridade competente*.
+O STF foi chamado a apreciar a “Marcha da Maconha”, tendo se manifestado no sentido de que
+é inconstitucional qualquer interpretação do Código Penal que possa ensejar a criminalização da
+defesa da legalização das drogas ou de qualquer substância entorpecente específica, inclusive
+através de manifestações e eventos públicos. Assim, admite-se que o direito de reunião seja
+exercido, inclusive, para defender a legalização de drogas; não é permitida, todavia, a incitação,
+o incentivo ou estímulo ao consumo de entorpecentes durante o evento.77
+É importante destacar, também, que o direito de reunião é protegido por mandado de
+segurança, não por habeas corpus. Cuidado com “pegadinhas” nesse sentido!
+(*) Com relação ao aviso prévio à autoridade competente como pressuposto para o exercício da
+liberdade de reunião, o STF decidiu que basta veicular informação que permita ao poder público
+zelar para que seu exercício se dê de forma pacífica ou para que não frustre outra reunião no
+mesmo local.78 Portanto, a reunião em local público independe de aviso prévio às autoridades.
+Segundo a Corte, “a inexistência de notificação não torna a reunião ilegal. Numa democracia, o
+espaço público não é só de circulação, mas de participação”.
+
+77
+     ADPF 187, Rel. Min. Celso de Mello, j. 15-6-2011.
+78
+     RE 806.339 (Tema 855), Rel. Min. Marco Aurélio, j. 19.12.2018.
+
+                                                                                               43
+                                                                                               101
+
+
+---
+
+(MPE-SP – 2023) Um cidadão espanhol que viveu durante alguns anos no território brasileiro
+pode sair livremente do território nacional, mas deve apresentar justificativa para que possa levar
+os seus bens.
+Comentários:
+De acordo com o inciso XV do art. 5º, é livre a saída do território nacional com seus bens por
+parte de qualquer pessoa, desde que sejam observadas as balizas estabelecidas pela lei.
+Questão errada.
+(UFSM – 2023) É assegurado a todos o acesso à informação e resguardado o sigilo da fonte,
+quando necessário ao exercício profissional.
+Comentários:
+A questão coincide com o art. 5º, XIV, da CF/88. Questão correta.
+(PGE-RJ – 2022) Para satisfazer a exigência constitucional de prévio aviso relativamente ao direito
+de reunião, o grupo interessado em realizar manifestação em local público poderá divulgá-la nas
+redes sociais, sem a necessidade de uma notificação formal aos órgãos públicos, desde que a
+veiculação da informação permita ao poder público zelar para que o exercício do referido direito
+se dê de forma pacífica ou para que não frustre outra reunião no mesmo local.
+Comentários:
+Ao divulgar a manifestação em local público nas redes sociais, o grupo cumpre o requisito
+necessário de aviso prévio, conforme o entendimento mais recente do STF. Questão correta.
+(TJ-BA – 2019) De acordo com o STF, o consumo de droga ilícita em passeata que reivindique a
+descriminalização do uso dessa substância é assegurado pela liberdade de expressão.
+Comentários:
+Segundo o STF, a “Marcha da Maconha” é compatível com o direito de reunião e com a
+liberdade de expressão. No entanto, não se admite o consumo de droga ilícita durante a
+realização do evento. Questão errada.
+(TCE-PE – 2017) A liberdade de reunião e o direito à livre manifestação do pensamento excluem
+a possibilidade de pessoas se reunirem em espaços públicos para protestar em favor da
+legalização do uso e da comercialização de drogas no país.
+Comentários:
+Segundo o STF, a defesa da legalização das drogas em espaços públicos (“Marcha da Maconha”)
+é compatível com a liberdade de expressão e com o direito de reunião. Questão errada.
+
+        XVII - é plena a liberdade de associação para fins lícitos, vedada a de caráter
+        paramilitar;
+        XVIII - a criação de associações e, na forma da lei, a de cooperativas independem
+        de autorização, sendo vedada a interferência estatal em seu funcionamento;
+        XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas
+        atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o
+        trânsito em julgado;
+
+                                                                                                44
+                                                                                                101
+
+
+---
+
+Para que exista uma associação, é necessária a presença de três requisitos:
+          a) Pluralidade de pessoas — a associação é uma sociedade, uma união de pessoas com
+          um fim determinado.
+          b) Estabilidade — ao contrário da reunião, que tem caráter transitório (esporádico), as
+          associações têm caráter permanente.
+          c) Surgem a partir de um ato de vontade.
+Presentes esses requisitos, restará caracterizada uma associação, a qual estará, por conseguinte,
+sujeita à proteção constitucional. Destaque-se que a existência da associação independe da
+aquisição de personalidade jurídica.
+E como a Constituição protege as associações? Da seguinte forma:
+          a) A liberdade de associação para fins lícitos é ampla, independente de autorização dos
+          poderes públicos, que também não podem interferir em seu funcionamento.
+          b) As associações só podem ser dissolvidas por decisão judicial transitada em julgado.
+          Além disso, suas atividades só podem ser suspensas por decisão judicial (nesse caso, não
+          há necessidade de trânsito em julgado). Perceba que a medida mais gravosa (dissolução
+          da associação) exige um requisito mais difícil (o trânsito em julgado de decisão judicial).
+          c) A criação de associações é livre, ou seja, independe de autorização. Já a criação de
+          cooperativas também é livre, porém há necessidade de lei que a regule. Temos, aqui, uma
+          típica norma de eficácia limitada.
+Sobre esse assunto, é importante que destaquemos a vedação às associações de caráter
+paramilitar. Segundo o Prof. Alexandre de Moraes, a nomenclatura dos postos e a utilização ou
+não de uniformes não são requisitos suficientes para definir o caráter paramilitar de uma
+associação; deve-se observar se ela se destina ao treinamento de seus membros para finalidades
+bélicas e, ainda, se existe organização hierárquica e o princípio da obediência.
+Por fim, como nenhum direito fundamental é absoluto, nem mesmo a autonomia privada das
+associações, entende o STF que79:
+
+           “A ordem jurídico-constitucional brasileira não conferiu a qualquer associação
+           civil a possibilidade de agir à revelia dos princípios inscritos nas leis e, em
+           especial, dos postulados que têm por fundamento direto o próprio texto da
+           Constituição da República, notadamente em tema de proteção às liberdades e
+           garantias fundamentais. O espaço de autonomia privada garantido pela
+           Constituição às associações não está imune à incidência dos princípios
+           constitucionais que asseguram o respeito aos direitos fundamentais de seus
+           associados. A autonomia privada, que encontra claras limitações de ordem
+           jurídica, não pode ser exercida em detrimento ou com desrespeito aos direitos e
+           garantias de terceiros, especialmente aqueles positivados em sede constitucional,
+           pois a autonomia da vontade não confere aos particulares, no domínio de sua
+           incidência e atuação, o poder de transgredir ou de ignorar as restrições postas e
+79
+     RE 201819 / RJ – 2ª Turma – Relª. Minª. Ellen Gracie – DJ 27/10/2006.
+
+                                                                                                  45
+                                                                                                  101
+
+
+---
+
+         definidas pela própria Constituição, cuja eficácia e força normativa também se
+         impõem, aos particulares, no âmbito de suas relações privadas, em tema de
+         liberdades fundamentais.”
+
+
+         XX - ninguém poderá ser compelido a associar-se ou a permanecer associado;
+
+Não há muito a se falar sobre esse inciso: apenas que ninguém pode ser obrigado a se associar
+(filiar-se a uma associação de músicos, por exemplo) ou a permanecer associado. Caso cobrado o
+inciso, isso acontecerá em sua literalidade.
+
+         Segundo o STF, condicionar a desfiliação de associado à quitação de débitos
+         e/ou multas constitui ofensa à dimensão negativa do direito à liberdade de
+         associação (direito de não se associar), cuja previsão constitucional é expressa.
+         Logo, é inconstitucional o condicionamento da desfiliação de associado à
+         quitação de débito referente a benefício obtido por intermédio da associação ou
+         ao pagamento de multa.80
+
+         XXI - as entidades associativas, quando expressamente autorizadas, têm
+         legitimidade para representar seus filiados judicial ou extrajudicialmente;
+
+Para que possamos compreender esse dispositivo, é necessário apresentar a diferença entre
+representação processual e substituição processual.
+Na representação processual, o representante não age como parte do processo; ele apenas atua
+em nome da parte, a pessoa representada. Para que haja representação processual, é necessária
+a autorização expressa do representado.
+Na substituição processual, o substituto é parte do processo, agindo em nome próprio na
+salvaguarda de direito alheio. O substituído, por sua vez, deixa de sê-lo: sofre apenas os efeitos
+da sentença. Não está no processo. A sentença, todavia, faz coisa julgada tanto para o substituto
+quanto para o substituído. Quando cabível substituição processual, não há necessidade de
+autorização expressa do substituído.
+Apresentada essa distinção, cabe-nos afirmar que o art. 5º, XXI, da CF/88 é um caso de
+representação processual. As associações poderão, desde que expressamente autorizadas,
+
+80
+  RE 820823/DF, Rel. Min. Dias Toffoli, julgamento virtual finalizado em 30.9.2022 (sexta-feira) às 23:59h. Tema
+922.
+
+                                                                                                             46
+                                                                                                             101
+
+
+---
+
+representar seus filiados judicial e extrajudicialmente. Em outras palavras, poderão atuar em
+nome de seus filiados e na defesa dos direitos destes.
+Acerca disso, é bom frisar o teor da Súmula 629, do STF, que trata especificamente de mandado
+de segurança coletivo por entidade de classe. Estudaremos esse remédio constitucional em outra
+aula, mas desde já é bom conhecer o enunciado sumulado: “A impetração de mandado de
+segurança coletivo por entidade de classe em favor dos associados independe da autorização
+destes”.
+A necessidade de autorização expressa dos filiados para que a associação os represente não
+pode ser substituída por uma autorização genérica nos estatutos da entidade. A autorização
+estatutária genérica conferida às associações por seu estatuto não é suficiente para legitimar a
+representação processual.81 É necessária autorização expressa, que pode ser obtida mediante
+deliberação em assembleia ou individualmente (filiado por filiado).
+Nesse sentido, somente os associados que manifestaram sua autorização expressa é que estarão,
+a posteriori, legitimados para a execução do título judicial decorrente da ação ajuizada pela
+associação. Aqueles associados que não manifestaram sua autorização expressa não poderão
+executar o título judicial decorrente da ação ajuizada pela associação.
+
+(DPE-SP – 2023) A criação de uma associação deverá ser precedida de autorização do Município,
+que poderá subsidiar o seu funcionamento.
+Comentários:
+Conforme o art. 5º, XVIII, a criação de associações independe de autorização, sendo vedada a
+interferência estatal em seu funcionamento. Questão errada.
+(PGM-Niterói – 2023) Uma associação de moradores que realiza fundadas críticas à gestão do
+prefeito municipal somente pode ser compulsoriamente dissolvida por decisão judicial, em
+estando presentes os requisitos exigidos.
+Comentários:
+A questão está em harmonia com o art. 5º, XIX, da CF/88, que prevê que as associações só
+poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial,
+exigindo-se, para a dissolução, o trânsito em julgado. Questão correta.
+(TCE-MG – 2015) Ninguém poderá ser compelido a se associar nem a permanecer associado.
+Comentários:
+
+
+81
+     RE 573.232/SC. Rel. Min. Ricardo Lewandowski. 14.05.2014.
+
+                                                                                             47
+                                                                                             101
+
+
+---
+
+É exatamente a literalidade do art. 5º, XX, CF/88. Questão correta.
+
+        XXII - é garantido o direito de propriedade;
+        XXIII - a propriedade atenderá a sua função social;
+        XXIV - a lei estabelecerá o procedimento para desapropriação por necessidade
+        ou utilidade pública, ou por interesse social, mediante justa e prévia indenização
+        em dinheiro, ressalvados os casos previstos nesta Constituição;
+
+Estudaremos esses três incisos em conjunto. Eles tratam do direito de propriedade, que é norma
+constitucional de eficácia contida e, portanto, está sujeita à atuação restritiva por parte do poder
+público. Como todos os direitos fundamentais, o direito de propriedade não é absoluto: é
+necessário que o proprietário dê à propriedade uma função social.
+Entretanto, mesmo sendo relativo, a Constituição não poderia deixar de estabelecer certas
+proteções a esse direito. Desse modo, no inciso XXIV do art. 5º da CF/88, garante-se que, se a
+propriedade estiver cumprindo sua função social, só poderá haver desapropriação com base na
+tutela do interesse público, em três hipóteses: necessidade pública, utilidade pública ou
+interesse social. A compensação, nesses casos, ressalvadas algumas exceções determinadas
+constitucionalmente, dar-se-á mediante prévia e justa indenização em dinheiro.
+Observe bem o que a Constituição afirma: a compensação, no caso de desapropriação, será
+mediante prévia e justa indenização em dinheiro, ressalvadas algumas exceções determinadas
+constitucionalmente. Em outras palavras, há casos em que a indenização pela desapropriação
+não será em dinheiro. E quais são esses casos?
+      a) Desapropriação para fins de reforma agrária.
+      b) Desapropriação de imóvel urbano não edificado que não cumpriu sua função social.
+      c) Desapropriação confiscatória.
+A desapropriação para fins de reforma agrária obedece ao disposto no art. 184 da Carta Magna.
+É de competência da União e tem por objeto o imóvel rural que não esteja cumprindo sua função
+social. Dar-se-á mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de
+preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua
+emissão, e cuja utilização será definida em lei. O § 1o do mesmo artigo, entretanto, faz uma
+ressalva: a de que as benfeitorias úteis e necessárias serão indenizadas em dinheiro.
+No que diz respeito à desapropriação de imóvel urbano não edificado, subutilizado ou não
+utilizado, ou seja, que descumpriu sua função social, determina a CF/88 (art. 182, § 4o, III) que a
+indenização se dará mediante títulos da dívida pública de emissão previamente aprovada pelo
+Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais e sucessivas,
+assegurados o valor real da indenização e os juros legais. A desapropriação, nessa situação, será
+de competência do município.
+Existe, ainda, a possibilidade de que haja desapropriação sem indenização. É o que ocorre na
+expropriação de propriedades urbanas e rurais de qualquer região do país onde forem
+localizadas culturas ilegais de plantas psicotrópicas ou exploração de trabalho escravo. Tem-se,
+então, a chamada “desapropriação confiscatória”, prevista no art. 243 da Constituição.
+
+                                                                                                 48
+                                                                                                 101
+
+
+---
+
+(CNMP – 2015) A lei estabelecerá o procedimento para desapropriação por necessidade ou
+utilidade pública, ou por interesse social, mediante prévia indenização, em títulos da dívida
+pública, ressalvados os casos previstos na Constituição Federal.
+Comentários:
+Essa questão cobrou a literalidade do art. 5º, XXIV, da CF/88. A indenização prévia deverá ser em
+dinheiro. Questão errada.
+(TRT 8ª Região – 2015) O direito de propriedade é garantido constitucionalmente, permitindo ao
+seu titular, o exercício livre e irrestrito do direito de gozo, uso e disposição do bem.
+Comentários:
+Não se pode falar no exercício livre e irrestrito do direito de gozo, uso e disposição da
+propriedade. Isso porque a propriedade deverá atender a sua função social. Questão errada.
+
+       XXV - no caso de iminente perigo público, a autoridade competente poderá usar
+       de propriedade particular, assegurada ao proprietário indenização ulterior, se
+       houver dano;
+
+Esse inciso trata da requisição administrativa, que ocorre quando o poder público, diante de
+perigo público iminente, utiliza seu poder de império (de coação) para usar bens ou serviços de
+particulares.
+Fatiando o artigo, para melhor compreensão, temos que:
+      a) Em caso de iminente perigo público, o Estado pode requisitar a propriedade particular.
+      Exemplo: no caso de uma enchente que destrua várias casas de uma cidade, a Prefeitura
+      pode requisitar o uso de uma casa que tenha permanecido intacta para abrigar aqueles
+      que não têm onde ficar. Qual é o perigo público iminente que justifica tal ato estatal? No
+      exemplo dado, a possibilidade de a população atingida adoecer ou morrer por falta de
+      abrigo.
+      b) A requisição é compulsória para o particular devido ao poder de império do Estado.
+      Veja que o interesse público (socorro às pessoas desabrigadas) é maior que o particular
+      (inconveniente de ter a casa cedida ao poder público gratuitamente). Por isso, o último
+      cede lugar ao primeiro.
+      c) A propriedade continua sendo do particular — é apenas cedida temporária e
+      gratuitamente ao poder público. O titular do bem somente será indenizado em caso de
+      dano. No exemplo acima, o Estado não teria que pagar aluguel ao proprietário pelo uso
+      do imóvel.
+
+                                                                                              49
+                                                                                              101
+
+
+---
+
+      d) O perigo público deve ser iminente, ou seja, deve ser algo que acontecerá em breve.
+      No exemplo dado, o Estado não poderia requisitar a casa já na estação da seca baseado
+      na possibilidade de uma enchente ocorrer vários meses depois.
+Concluindo-se a análise desse inciso, destaca-se que, segundo o STF, não é possível, devido ao
+modelo federativo adotado pelo Brasil, que um ente político requisite administrativamente bens,
+serviços e pessoal de outro. Tal prática ofenderia o pacto federativo e, além disso, o art. 5o, XXV,
+da Constituição limita o alcance da requisição administrativa à propriedade privada, não cabendo
+extrapolação para bens e serviços públicos.
+
+(PRF – 2019) Em caso de iminente perigo público, autoridade pública competente poderá usar a
+propriedade particular, desde que assegure a consequente indenização, independentemente da
+comprovação da existência de dano, que, nesse caso, é presumido.
+Comentários:
+Na requisição administrativa, o poder público poderá usar a propriedade particular, em virtude
+de iminente perigo público. A indenização será ulterior e apenas se houver dano. Questão
+errada.
+(PC-GO – 2015) Se houver iminente perigo público, a autoridade competente poderá usar de
+propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.
+Comentários:
+É o que prevê o art. 5º, XXV. No caso de iminente perigo público, a autoridade competente
+poderá usar de propriedade particular. Será devida indenização ulterior apenas se houver dano.
+Questão correta.
+(MPE-PR – 2014) A previsão constitucional de que “no caso de iminente perigo público, a
+autoridade competente poderá usar de propriedade particular, assegurada ao proprietário
+indenização ulterior, se houver dano” contempla o chamado direito de requisição.
+Comentários:
+É isso mesmo. Essa prerrogativa do poder público é denominada de requisição administrativa.
+Questão correta.
+
+        XXVI - a pequena propriedade rural, assim definida em lei, desde que trabalhada
+        pela família, não será objeto de penhora para pagamento de débitos decorrentes
+        de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu
+        desenvolvimento;
+
+                                                                                                 50
+                                                                                                 101
+
+
+---
+
+Por meio desse inciso, o legislador constituinte deu à pequena propriedade rural trabalhada pela
+família a garantia de impenhorabilidade. Com isso, visou à proteção dos pequenos trabalhadores
+rurais, que, desprovidos de seus meios de produção, não teriam condições de subsistência.
+Entretanto, a impenhorabilidade depende da cumulação de dois requisitos: i) exploração
+econômica do bem pela família; e ii) origem na atividade produtiva do débito que causou a
+penhora. Em consequência, a pequena propriedade rural, caso não trabalhada pela família, pode
+ser penhorada para pagamento de débitos decorrentes e débitos estranhos à sua atividade
+produtiva.
+
+Note, também, a exigência, pela Carta Magna, de lei que defina quais propriedades rurais
+poderão ser consideradas pequenas e como será financiado o seu desenvolvimento. Tem-se,
+aqui, reserva legal.
+
+O STF firmou entendimento de que é impenhorável a pequena propriedade rural familiar
+constituída de mais de 1 terreno, desde que contínuos e com área total inferior a 4 módulos
+fiscais do município de localização.82 Apenas como curiosidade, o módulo fiscal é uma medida
+em hectares fixada pelo INCRA para cada município. São parâmetros existentes para sabermos se
+uma área pode ou não ser considerada como uma pequena propriedade rural.
+
+           Em um entendimento ainda mais protetivo, o Superior Tribunal de Justiça (STJ) já
+           teve a oportunidade de se posicionar no sentido de que a pequena propriedade
+           rural trabalhada pela família não pode ser objeto de penhora para pagamento,
+           mesmo no caso de débitos estranhos à sua atividade produtiva (REsp
+           1.591.298/RJ). Essa decisão do STJ teve como base o art. 833 do Código de
+           Processo Civil (CPC), que dispõe, em seu inciso VIII, que a pequena propriedade
+           rural trabalhada pela família é impenhorável. O CPC não especifica a natureza da
+           dívida (se decorrente ou não da atividade produtiva), o que deu margem para a
+           interpretação de máxima efetividade ao comando constitucional em comento por
+           parte do STJ.
+
+O caput do art. 191 da CF/88 guarda uma correlação com o inciso XXVI do art. 5º. Veja a redação
+daquele artigo:
+
+           Art. 191. Aquele que, não sendo proprietário de imóvel rural ou urbano, possua
+           como seu, por cinco anos ininterruptos, sem oposição, área de terra, em zona
+
+
+82
+     ARE 1.038.507. Rel. Min. Edson Fachin, j. 21.12.2020.
+
+                                                                                              51
+                                                                                              101
+
+
+---
+
+           rural, não superior a cinquenta hectares, tornando-a produtiva por seu trabalho
+           ou de sua família, tendo nela sua moradia, adquirir-lhe-á a propriedade.
+
+A CF/88 assegura a propriedade de uma área rural não superior a 50 hectares àquele que, não
+sendo proprietário de outro imóvel, torne a área produtiva e nela resida, desde que tenha
+mantido a posse do local sem oposição por no mínimo 5 anos ininterruptos. Apesar de
+propriedade e impenhorabilidade serem institutos completamente diferentes, desde já é
+importante você conhecer o que a CF/88 diz sobre a aquisição da pequena propriedade rural.
+
+           XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou
+           reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;
+           XXVIII - são assegurados, nos termos da lei:
+           a) a proteção às participações individuais em obras coletivas e à reprodução da
+           imagem e voz humanas, inclusive nas atividades desportivas;
+           b) o direito de fiscalização do aproveitamento econômico das obras que criarem
+           ou de que participarem aos criadores, aos intérpretes e às respectivas
+           representações sindicais e associativas;
+
+Protege-se, por meio desses incisos, o direito do autor. Perceba que, enquanto viver, ele terá
+total controle sobre a utilização, publicação ou reprodução de suas obras. Só após sua morte é
+que haverá limitação temporal do direito.
+Segundo o STF, é inconstitucional lei estadual que isente o pagamento de direitos autorais pela
+execução de obras musicais em eventos sem fins lucrativos promovidos no âmbito de seu
+território.83 Logo, é uma postura incompatível com o ordenamento jurídico privar o
+aproveitamento econômico dos autores, em evidente violação ao direito fundamental de dispor,
+de modo exclusivo, sobre suas produções e de, com elas, obter proveito financeiro.
+Com efeito, o art. 5º, inciso XXVII, dispõe que o direito autoral é transmissível aos herdeiros
+apenas pelo tempo que a lei fixar. Nesse sentido, como se verá adiante, o direito autoral
+diferencia-se do direito à propriedade industrial, presente no inciso XXIX do mesmo artigo.
+
+           XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário
+           para sua utilização, bem como proteção às criações industriais, à propriedade das
+           marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o
+           interesse social e o desenvolvimento tecnológico e econômico do País;
+
+Nesse inciso, a Constituição enumera expressamente a propriedade industrial como direito
+fundamental. Chamo sua atenção para o fato de que, diferentemente dos direitos autorais, que
+pertencem ao autor até sua morte, o criador de inventos industriais tem, sobre estes, privilégio
+apenas temporário sobre sua utilização.
+
+83
+     ADI 6151/SC. Rel. Min. Edson Fachin. Julgamento em 07.10.2022.
+
+                                                                                               52
+                                                                                               101
+
+
+---
+
+(UNESP – 2022) A Constituição Federal assegura aos autores o direito exclusivo de utilização,
+publicação ou reprodução de suas obras e estabelece que esse direito cessa com a morte do
+autor.
+Comentários:
+Conforme o inciso XXVII do art. 5º, o direito exclusivo de utilização, publicação ou reprodução
+das obras dos autores é transmissível aos herdeiros pelo tempo que a lei fixar. Questão errada.
+(TJDFT – 2019) Os autores de inventos industriais terão privilégio de caráter permanente para sua
+utilização, haja vista a promoção do desenvolvimento tecnológico do país.
+Comentários:
+Os autores de inventos industriais têm privilégio apenas temporário para sua utilização. Questão
+errada.
+(Prefeitura de Piraquara – 2014) São assegurados, nos termos da lei, a proteção às participações
+individuais em obras coletivas e à reprodução da imagem e voz humanas, exceto nas atividades
+desportivas.
+Comentários:
+Pegadinha! A proteção à reprodução da imagem e da voz humana aplica-se inclusive às
+atividades desportivas. Questão errada.
+
+        XXX - é garantido o direito de herança;
+        XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei
+        brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes
+        seja mais favorável a lei pessoal do "de cujus";
+
+O direito de herança foi elevado à condição de norma constitucional pela primeira vez na CF/88.
+Até a promulgação da vigente Constituição, ele era objeto, tão somente, de normas
+infraconstitucionais. Apesar de a CF/88 assegurá-lo, a forma como esse direito se exerce é
+matéria regulada por normas de direito privado.
+Como se depreende do inciso XXXI, a fim de resguardar mais ainda esse direito, a Carta Magna
+garantiu que, no caso de bens de estrangeiros localizados no país, será aplicada a norma
+sucessória que mais beneficie os brasileiros sucessores. Assim, nem sempre será aplicada a lei
+brasileira à sucessão de bens de estrangeiros localizados no país; caso a lei estrangeira seja mais
+benéfica aos sucessores brasileiros, ela será aplicada.
+
+                                                                                                53
+                                                                                                101
+
+
+---
+
+Só para facilitar a leitura do inciso em análise, explico que “de cujus” é a pessoa que morreu, o
+defunto! Eu sei, também acho a expressão bastante engraçada.
+
+(TJ-MG – 2015) A sucessão de bens de estrangeiros situados no País será sempre regulada pela
+lei brasileira em benefício do cônjuge ou dos filhos brasileiros.
+Comentários:
+Nem sempre será regulada pela lei brasileira a sucessão de bens de estrangeiros situados no
+país. Quando a lei estrangeira (lei pessoal do “de cujus”) for mais favorável ao cônjuge e aos
+filhos, ela será aplicável. Questão errada.
+
+                                                                                              54
+                                                                                              101
+
+
+---
+
+                               QUESTÕES COMENTADAS
+Direitos e Deveres Individuais e Coletivos
+1.​   (FGV/CAGE-RS/Auditor do Estado/2025) Matheus, agente público competente no âmbito
+do Estado Alfa, em situação de iminente perigo público, causado por evento climático extremo,
+pretende utilizar o imóvel particular de Jonas, com o objetivo de atender ao interesse público
+primário. Nesse cenário, considerando as disposições da Constituição Federal, a atuação de
+Matheus caracterizará uma manifestação do instituto da
+
+(A) requisição administrativa, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização prévia, justa e em dinheiro.
+
+(B) desapropriação, modalidade de intervenção drástica do Estado na propriedade, assegurando
+ao proprietário indenização prévia, justa e em dinheiro.
+
+(C) requisição administrativa, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+(D) ocupação temporária, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+(E)   ocupação temporária, modalidade de intervenção drástica do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+Comentários:
+
+LETRA A. INCORRETA. Na verdade, no caso requisição administrativa, através da intervenção
+branda do Estado em propriedade privada, fica assegurado ao proprietário indenização ulterior
+no caso de dano ao seu patrimônio, de acordo com o art. 5º, inciso XXV da CRFB/88.
+
+LETRA B. INCORRETA. De forma alguma! O disposto no enunciado se trata de requisição
+administrativa, pela modalidade de intervenção branda do Estado e não de desapropriação. No
+caso tratado pela questão, a Constituição Federal assegura ao proprietário a indenização
+posterior, na hipótese de dano ao seu patrimônio, de acordo com o art. 5º, inciso XXV da
+CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! A requisição administrativa acontece na hipótese de
+iminente perigo público e nesse caso, a Carta Magna determina que na hipótese de intervenção
+branda do Estado na propriedade privada, é assegurado ao proprietário indenização ulterior,
+caso haja dano. É o que dispõe o art. 5º, inciso XXV da CRFB/88:
+
+                    Art.5º (...)
+
+                    XXV - no caso de iminente perigo público, a autoridade competente
+                    poderá usar de propriedade particular, assegurada ao proprietário
+                    indenização ulterior, se houver dano;
+
+                                                                                            55
+                                                                                            96
+
+
+---
+
+LETRA D. INCORRETA. Não se trata de ocupação temporária, mas sim de requisição
+administrativa, já que existe iminente perigo público e nesse caso o Estado deve indenizar o
+proprietário, se houver dano a propriedade (art. 5º, inciso XXV da CRFB/88).
+
+LETRA E. INCORRETA. Não se trata de ocupação temporária e menos ainda de intervenção
+drástica do Estado. O enunciado nos traz a situação que se enquadra na intervenção branda do
+Estado na propriedade privada, que só ocorre na iminência de perigo público. Assim, a
+Constituição garante ao proprietário a indenização em momento posterior, caso haja dano no seu
+patrimônio que foi utilizado pelo Estado.
+
+Gabarito: Letra C.
+
+2.​    (FGV/CAGE RS/Auditor Interno/2025) O diretor de uma unidade hospitalar de natureza
+pública recebeu a solicitação de que fosse oferecida assistência religiosa a determinado paciente
+praticante de religião de matriz africana. Após analisar a legislação vigente, o diretor respondeu
+corretamente que
+
+a) o caráter laico do Estado brasileiro impede a realização de cultos religiosos em repartições
+públicas.
+
+b) o recebimento da referida assistência consubstancia direito subjetivo do paciente praticante
+da religião e que almeje recebê-la.
+
+c) o deferimento da solicitação formulada está condicionado à existência de regulamento que
+discipline o exercício de igual direito em relação às demais religiões.
+
+d) o direito à assistência almejada somente é assegurado em instituições de internação coletiva
+de caráter compulsório, o que não é o caso da unidade hospitalar.
+
+e) o deferimento da solicitação formulada pressupõe a anuência dos demais pacientes e dos
+funcionários da unidade hospitalar que terão contato com a referida assistência.
+
+Comentários:
+
+LETRA A. INCORRETA. Nada disso! Nossa Constituição estabelece como direito fundamental a
+liberdade religiosa, protegendo inclusive os cultos e suas liturgias, nos termos do art. 5º, inciso VI
+da CRFB. Além disso, a assistência religiosa nas entidades civis e militares de internação coletiva
+também está protegida, de acordo com o art. 5º, inciso VII da Constituição Federal. Tais preceitos
+constitucionais não violam o princípio da laicidade ou caráter laico do Estado brasileiro.
+
+LETRA B. CORRETA. É o nosso gabarito! Nossa Constituição estabeleceu como direito
+fundamental a prestação da assistência religiosa, nos termos do art. 5º, inciso VII da CRFB/88: “é
+assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares
+de internação coletiva”. Trata-se de direito fundamental subjetivo. O hospital não pode recusar a
+solicitar, sob pena de violação a preceito fundamental.
+
+                                                                                                   56
+                                                                                                   96
+
+
+---
+
+LETRA C. INCORRETA. O deferimento da solicitação não está condicionado à existência de
+norma regulamentadora. Trata-se de direito fundamental subjetivo garantido ao indivíduo. É
+valor Constitucional.
+
+LETRA D. INCORRETA. Não há essa limitação no texto da Constituição. As entidades hospitalares
+também devem garantir o exercício desse direito fundamental para os pacientes, ainda que
+detenham caráter não compulsório.
+
+LETRA E. INCORRETA. O exercício do direito fundamental não depende da anuência de terceiros
+(demais pacientes ou funcionários).
+
+Gabarito: Letra B.
+
+3.​    (FGV/PC-MG/Investigador de Polícia/2025) De acordo com a Lei Federal nº X, a
+generalidade das pessoas maiores e capazes, que se encontrem no pleno gozo dos seus direitos
+políticos, deveria participar de determinada atividade de interesse coletivo desenvolvida pelas
+estruturas estatais de poder. A participação ocorreria mediante convocação e em caráter
+gratuito. Jonas foi convocado com base nesse diploma normativo, mas se sentiu extremamente
+desconfortável em atuar, pois a atividade a ser desenvolvida era francamente contrária à sua
+convicção política. Na situação descrita, consoante a ordem constitucional, é correto afirmar que
+Jonas
+
+a) praticará crime inafiançável, se não cumprir a obrigação legal a todos imposta.
+
+b) não pode eximir-se, em nenhuma hipótese, de cumprir obrigação legal a todos imposta.
+
+c) estará em harmonia com a juridicidade caso cumpra prestação alternativa fixada em lei.
+
+d) somente pode deixar de cumprir a obrigação legal, por motivo de crença religiosa, se a lei for
+inconstitucional.
+
+e) somente pode eximir-se de cumprir obrigação legal a todos imposta por motivo de crença
+religiosa, o que não é o caso.
+
+Comentários:
+
+LETRA A. INCORRETA. A situação descrita não se configura como crime, porque a recusa pode
+ser aceita sem gerar consequências negativas na esfera jurídica de Jonas, desde que ele cumpra
+a obrigação alternativa estabelecida pela lei, de acordo com o art. 5º, inciso VIII da CRFB/88.
+
+LETRA B. INCORRETA. A Constituição possibilita ao indivíduo se eximir da obrigação, na
+ocorrência de conflito com sua convicção religiosa, filosófica ou política, devendo nessa situação
+cumprir prestação alternativa disciplinada por lei, de acordo com o art. 5º, inciso VIII da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! É o que estabelece o artigo 5º, inciso VIII da nossa
+Carta Magna, que garante a escusa de consciência e de crença. De acordo com esse dispositivo,
+ninguém pode ser privado de seus direitos em razão de sua crença religiosa, convicção filosófica
+
+                                                                                                  57
+                                                                                                  96
+
+
+---
+
+ou política. No entanto, se alguém invocar essa justificativa para se isentar de uma obrigação
+legal imposta a todos, deverá cumprir uma obrigação alternativa determinada pela legislação, de
+acordo com o art. 5º, inciso VIII da CRFB/88: “ninguém será privado de direitos por motivo de
+crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de
+obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei”.
+
+LETRA D. INCORRETA. Totalmente equivocada, porque não é necessário que a lei seja
+inconstitucional para se escusar de cumprir obrigações a todos imposta. Na verdade, a escusa é
+possível por motivo de crença religiosa ou convicção religiosa, filosófica ou política, se cumprir
+prestação alternativa, determinada por lei.
+
+LETRA E. INCORRETA. Mais uma vez! A recusa em atender à obrigação legal pode ser
+fundamentada não apenas em crenças religiosas, mas também em razões filosóficas ou políticas,
+conforme art. 5º, inciso VIII da CFB/88.
+
+Gabarito: Letra C.
+
+4.​   (FGV/Prefeitura de São José dos Campos/Procurador/2024) O Estado Beta editou norma
+sobre regras do concurso público para ingresso na carreira da Polícia Militar, fixando limite
+máximo de vagas para candidatas do sexo feminino. Diante do e da jurisprudência
+predominante do Supremo Tribunal Federal, é correto afirmar que a referida norma é
+
+a) constitucional, por observância ao princípio da razoabilidade.
+
+b) inconstitucional, por violação ao princípio da impessoalidade.
+
+c) inconstitucional, por ofensa ao princípio da isonomia.
+
+d) constitucional, por observância ao princípio da isonomia.
+
+e) inconstitucional, por violação ao princípio da moralidade.
+
+Comentários:
+
+LETRA A. INCORRETA. A norma editada pelo Estado Beta é inconstitucional, uma vez que viola o
+princípio da isonomia e direito à proteção do trabalho da mulher, conforme entendimento
+firmado pelo STF (ADI nº 7491).
+
+LETRA B. INCORRETA. De fato, a norma estadual é inconstitucional. No entanto, a assertiva está
+equivocada ao afirmar que viola o “princípio da impessoalidade”. No caso narrado, a lei estadual
+não observou o princípio da isonomia, o qual traz a ideia que é preciso tratar de forma igual os
+iguais e tratar de forma desigual aqueles que se encontram em condições distintas. Seguindo
+essa posição, o próprio STF firmou entendimento pela inconstitucionalidade da norma que fixe
+limite máximo de vagas para candidatas do sexo feminino em concurso público.
+
+LETRA C. CORRETA. Exatamente. É o nosso gabarito! A norma estadual deve ser declarada
+inconstitucional, porque ao estabelecer número máximo de vagas para mulher em concurso
+
+                                                                                                58
+                                                                                                96
+
+
+---
+
+público da Polícia Militar violou o princípio da isonomia. O mencionado princípio estabelece que
+é necessário tratar de forma igual os iguais e de forma desigual aqueles que se encontram em
+condições distintas. Além disso, o STF, em sede de ADI nº 7492, firmou o seguinte
+entendimento:
+
+                     “O Plenário do Supremo Tribunal Federal (STF) afastou limitação de vagas
+                     para mulheres em concurso da Polícia Militar (PM) dos Estados do Amazonas
+                     e Ceará. [...] No caso do Amazonas, a decisão unânime foi proferida na Ação
+                     Direta de Inconstitucionalidade (ADI) 7492. [...] Para o ministro Cristiano
+                     Zanin, admitir interpretação da norma estadual que autorize restrição do
+                     acesso de mulheres à PM viola diversos preceitos constitucionais, tais como
+                     o direito à isonomia e à igualdade entre homens e mulheres e o direito à
+                     proteção do mercado de trabalho da mulher [...]. Sobre o mesmo tema, o
+                     Plenário referendou, por unanimidade, liminar do ministro Alexandre de
+                     Moraes, na ADI 7491 (Concurso PMCE).
+
+LETRA D. INCORRETA. De forma alguma, pessoal! A norma estadual não é constitucional, mas
+sim inconstitucional, porque violou o princípio da isonomia ao limitar o número de vagas para
+mulher em concurso público da Polícia Militar. Em virtude desse princípio é preciso tratar igual os
+iguais e de forma desigual aqueles que se encontram em condições distintas.
+
+LETRA E. INCORRETA. A norma estadual deve sim ser declarada inconstitucional, mas não por
+afronta ao princípio da moralidade e sim por violar o princípio da isonomia, cujo ideal é tratar
+igual os iguais e de forma desigual aqueles que se encontram em situação distinta.
+
+Gabarito: Letra C.
+
+5.​    (FGV/Prefeitura de São José dos Campos/Procurador/2024) José foi condenado por crime
+com base em prova obtida por meio de abertura de encomenda postada nos correios, feita sem
+autorização do juiz, em razão da existência de fortes suspeitas da prática de crimes.
+
+Diante do exposto, é correto afirmar que a referida condenação
+
+a) é nula, pois a garantia de sigilo também se aplica às encomendas postadas nos correios, que
+não podem ser abertas para a obtenção de provas, sem autorização judicial, mesmo quando
+houver fortes suspeitas da prática de crimes.
+
+b) é nula, pois sem autorização judicial é ilícita a prova obtida mediante abertura de carta,
+telegrama, pacote, encomenda ou qualquer meio análogo.
+
+c) é válida, pois é lícita a prova sempre que obtida por meio de abertura de encomenda, quando
+postada nos Correios, empresa de natureza pública, sem a necessidade de autorização do juiz.
+
+d) é nula, pois é ilícita a prova obtida em razão de violação ao sigilo das comunicações, direito
+fundamental absoluto previsto na Constituição.
+
+                                                                                                 59
+                                                                                                 96
+
+
+---
+
+e) é válida, pois a garantia de sigilo não se aplica às encomendas postadas nos correios, que
+podem ser abertas para a obtenção de provas quando houver fortes suspeitas da prática de
+crimes, sem a necessidade de autorização judicial.
+
+Comentários:
+
+LETRA A. INCORRETA. A condenação não é nula, mas sim válida, porque a garantia do sigilo
+estabelecida na Constituição Federal não abarca as emendas postadas nos correios quando
+houver fortes indícios de crime. Nesse caso, não há necessidade de autorização judicial. Esse foi
+o entendimento firmado pelo STF (RE 1116949, Tema 1041, 2023, Info 1119).
+
+LETRA B. INCORRETA. Muita atenção pessoal! No caso narrado, por haver fortes indícios da
+prática de crime, a jurisprudência entende que não se faz necessária a autorização judicial para
+abertura de encomenda, sendo considerada uma prova lícita.
+
+LETRA C. INCORRETA. De fato, no caso exposto a condenação é válida. No entanto, a
+alternativa se torna errada ao afirmar que é “lícita a prova sempre que obtida por meio de
+abertura de encomenda postada em Correios”. Nossa jurisprudência entende que apenas é
+permitido a abertura de encomenda quando houver fortes indícios da prática de crime.
+
+LETRA D. INCORRETA. Veja bem, se houver fortes indícios da prática de crime, o STF entende
+que a abertura de encomendas postadas nos Correios por funcionário não viola o sigilo de
+comunicações, sendo nesse caso uma prova lícita.
+
+LETRA E. CORRETA. É o nosso gabarito! Tanto a prova como a condenação são válidas, pois
+consiste na exceção do direito do sigilo de comunicações, já que o STF entende que é válida a
+abertura de encomenda postada nos Correios por funcionários da empresa, desde que haja
+indícios fundamentados da prática de atividade ilícita. Vejamos:
+
+                     “É válida a abertura de encomenda postada nos Correios por funcionários
+                     da empresa, desde que haja indícios fundamentados da prática de atividade
+                     ilícita. Nesse caso, é necessário formalizar as providências adotadas para
+                     permitir o posterior controle administrativo ou judicial. (...) Nos presídios,
+                     também é válida a abertura de carta, telegrama, pacote ou meio análogo
+                     quando houver indícios fundamentados da prática de atividades ilícitas.
+                     (STF, Plenário, RE 1116949, Tema 1041, 2023, Info 1119).
+
+Gabarito: Letra E.
+
+6.​    (FGV/Prefeitura de São José dos Campos/Analista de Gestão Municipal/2024) A Lei
+municipal no W, com o alegado objetivo de proteger o interesse coletivo, impôs restrições a
+determinado direito individual. Ana, titular de um direito dessa natureza e que seria alcançada
+pelas restrições impostas pelo referido diploma normativo, consultou um advogado a respeito
+da compatibilidade dessa medida com a Constituição da República.
+
+                                                                                                60
+                                                                                                96
+
+
+---
+
+Foi corretamente respondido a Ana que as referidas restrições, à luz do entendimento
+predominante na realidade brasileira
+
+a) são sempre incompatíveis com a ordem constitucional, pois a concordância prática desses
+direitos foi realizada, in abstracto, pelo Poder Constituinte.
+
+b) são sempre incompatíveis com a ordem constitucional, considerando que os direitos
+fundamentais ensejam o surgimento de posições jurídicas definitivas.
+
+c) podem se mostrar compatíveis com a ordem constitucional, devendo ser adequadas e
+necessárias, além de os benefícios auferidos apresentarem maior relevância que as restrições
+impostas.
+
+d) podem se mostrar compatíveis com a ordem constitucional, desde que a norma que
+contempla o direito fundamental tenha admitido a imposição de restrições pela legislação
+infraconstitucional.
+
+e)    são sempre compatíveis com a ordem constitucional, pois a eficácia dos direitos
+fundamentais, de primeira, segunda ou terceira dimensão, é sempre estabelecida pela legislação
+infraconstitucional, que pode estendê-los ou restringi-los.
+
+Comentários:
+
+LETRA A. INCORRETA. Resta equivocada, pois afirma que as restrições são sempre
+incompatíveis, desconsiderando a possibilidade de ser invocado o princípio da
+proporcionalidade.
+
+LETRA B. INCORRETA. A Constituição não prevê que os direitos fundamentais sejam sempre
+definitivos, na verdade eles podem ser relativizados em detrimento de outro que se adeque
+melhor ao caso específico. Trata-se de uma das características dos direitos fundamentais:
+relatividade ou limitabilidade.
+
+LETRA C. CORRETA. É o nosso gabarito! A assertiva descreve o princípio da proporcionalidade,
+o qual visa equilibrar os direitos e interesses em conflito, garantindo que as restrições a direitos
+fundamentais sejam necessárias e adequadas.
+
+LETRA D. INCORRETA. De forma alguma! Para que uma norma seja considerada compatível com
+a ordem Constitucional, deve ser levado em consideração o princípio da proporcionalidade, além
+das próprias previsões da norma infraconstitucional.
+
+LETRA E. INCORRETA. Mais uma vez, para que uma norma seja considerada compatível, é
+necessário analisar a adequação e necessidade.
+
+Gabarito: Letra C.
+
+                                                                                                  61
+                                                                                                  96
+
+
+---
+
+7.​   (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/Direito/2024) João,
+governador do Estado Alfa, consultou um assessor sobre a compatibilidade da implementação
+de uma política pública com o instituto da ação afirmativa.
+
+Ao ver desse assessor, os traços estruturais desse instituto estão presentes nos itens a seguir.
+
+I. Funcionalidade de construção da igualdade formal.
+
+II. Sua necessária continuidade, considerando os objetivos almejados, que se mostram
+incompatíveis com delimitações temporais.
+
+III. Sujeição à influência da denominada reserva do possível.
+
+Está correto, na visão do assessor, o(s) item(ns)
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+Comentários:
+
+LETRA A. INCORRETA. Nada disso, pessoal! O item I está equivocado, pois não se trata de
+igualdade formal, mas sim material, sendo o objetivo desta tratar os iguais de forma igual e os
+desiguais na medida de suas necessidades.
+
+LETRA B. INCORRETA. Na verdade, as ações afirmativas são compatíveis sim com as
+delimitações temporais, já que o tema foi objeto de análise pelo STF (ADPF 186), o qual
+entendeu pela constitucionalidade da política de cotas étnico-raciais para seleção de estudantes
+da Universidade de Brasília, pelo período de 10 anos.
+
+LETRA C. CORRETA. É o nosso gabarito! Apenas o item III está em consonância com a
+Constituição Federal, já que a reserva do possível deve ser observada no âmbito das ações
+afirmativas tendo em vista que deve haver viabilidade do Estado concretizá-las
+
+LETRA D. INCORRETA. Totalmente equivocada, porque os itens I e II estão errados. Apenas o
+item III está correto, estando as ações afirmativas sujeitas a reserva do possível.
+
+Gabarito: Letra C.
+
+8.​    (FGV/DNIT/Analista Administrativo - Administração/2024) Todos são iguais perante a lei,
+sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes
+no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade.
+
+                                                                                                   62
+                                                                                                   96
+
+
+---
+
+Entre os direitos e deveres individuais e coletivos, constantes na Constituição da República
+Federativa do Brasil de 1988, encontra-se pertinente que
+
+a) é livre a manifestação do pensamento, sendo consentido o anonimato.
+
+b) ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.
+
+c) a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar em hipótese alguma.
+
+d) é violável o sigilo da correspondência e das comunicações telegráficas, de dados e das
+comunicações telefônicas.
+
+e) é assegurado a todos o acesso à informação e divulgação da fonte.
+
+Comentários:
+
+LETRA A. INCORRETA. De forma alguma! A nossa Constituição determina que a manifestação de
+pensamento é livre, no entanto não é consentido o anonimato, conforme dispõe o art. 5º, inciso
+IV da CRFB/88: “é livre a manifestação do pensamento, sendo vedado o anonimato”.
+
+LETRA B. CORRETA. A alternativa descreve o princípio da legalidade, sendo ele um dos pilares
+do Estado de Direito e estabelece que ninguém pode ser obrigado a fazer ou deixar de fazer
+algo senão em virtude da lei. Esse princípio está consagrado no artigo 5º, inciso II da CRFB/88:
+“ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei”.
+
+LETRA C. INCORRETA. A Constituição prevê exceções para a inviolabilidade do domicílio, quais
+sejam: em caso de flagrante delito, desastre ou para prestar socorro, ou ainda através de ordem
+judicial, conforme dispõe o art. 5º, inciso XI da CRFB/88: “a casa é asilo inviolável do indivíduo,
+ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante
+delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial”.
+
+LETRA D. INCORRETA. Totalmente equivocada, porque a Constituição garante o sigilo das
+comunicações telegráficas, de dados e de comunicações telefônicas, salvo por ordem judicial, de
+acordo com o art. 5º, inciso XII da CRFB/88: “é inviolável o sigilo da correspondência e das
+comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por
+ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal
+ou instrução processual penal”.
+
+LETRA E. INCORRETA. Na verdade, a Constituição garante a todos o acesso à informação, no
+entanto é vedada a divulgação da fonte, quando necessário ao exercício profissional, de acordo
+com o art. 5º, inciso XIV da CRFB/88: “é assegurado a todos o acesso à informação e
+resguardado o sigilo da fonte, quando necessário ao exercício profissional”.
+
+Gabarito: Letra B.
+
+9.​   (FGV/DNIT/Analista Administrativo - Administração/2024) Os direitos e garantias
+fundamentais, consagrados na Constituição da República Federativa do Brasil de 1988,
+
+                                                                                                 63
+                                                                                                 96
+
+
+---
+
+representam a espinha dorsal do ordenamento jurídico nacional, conferindo proteção essencial
+aos indivíduos.
+
+Com relação aos direitos e garantias fundamentais, analise os itens a seguir.
+
+I. Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas
+obras, transmissível aos herdeiros pelo tempo que a lei fixar.
+
+II. Assegura-se a proteção às participações individuais em obras coletivas e à reprodução da
+imagem e voz humanas.
+
+III. é garantido o direito de herança.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) III, apenas.
+
+Comentários:
+
+LETRA A. CORRETA. É o nosso gabarito! Todos os itens estão corretos. Vejamos a análise a
+seguir:
+
+Item I - O Constituinte estabeleceu que, em vida, ao autor fica garantido o controle sobre a
+utilização, publicação ou reprodução de suas obras. E, no caso de morte, haverá possibilidade de
+transmissão aos herdeiros, mas com o estabelecimento de limite temporal do direito, de acordo
+com o art. 5º, inciso XXVII da CRFB/88.
+
+Item II - Podemos observar a proteção às participações individuais em obras coletivas e à
+reprodução da imagem e voz humanas, devidamente assegurada no art. 5º, inciso XXVIII, alínea
+“a” da CRFB/88.
+
+Item III – A assertiva versa sobre o direito de herança, o qual nasce como proteção fundamental
+sob o status de cláusula pétrea, já que está inserido no rol dos direitos individuais e coletivos do
+art. 5º CRFB/88):
+
+                       XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou
+                       reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei
+                       fixar;
+
+                       XXVIII - são assegurados, nos termos da lei:
+
+                                                                                                  64
+                                                                                                  96
+
+
+---
+
+                       a) a proteção às participações individuais em obras coletivas e à reprodução
+                       da imagem e voz humanas, inclusive nas atividades desportivas
+
+                       XXX - é garantido o direito de herança;
+
+LETRA B. INCORRETA. O item III também está correto, já que a Constituição Federal garante o
+direito de herança em seu art. 5º, inciso XXX da CRFB/88.
+
+LETRA C. INCORRETA. O item II traz a literalidade do art. 5º, inciso XXVIII, alínea “a” da
+CRFB/88. A nossa Carta Magna buscou proteger as participações individuais em obras coletivas e
+a reprodução da imagem e voz humana, incluindo as atividades desportivas.
+
+LETRA D. INCORRETA. O item I também está correto, tendo em vista que a Carta Magna
+assegura ao autor, quando em vida, a utilização, publicação e reprodução de suas obras. Além
+disso, na ocasião do falecimento é garantido esse direito aos herdeiros pelo tempo que a lei fixar,
+consoante art. 5º, inciso XXVII da CRFB/88.
+
+LETRA E. INCORRETA. Os itens I e II também estão em conformidade com a Constituição
+Federal, estando ambos previstos no art. 5º, incisos XXVII e XVIII, alínea “a” da CRFB/88.
+
+Gabarito: Letra A.
+
+10.​     (FGV/ENAM/2024) Em relação aos Direitos Fundamentais, analise as assertivas a seguir.
+
+I. Na Constituição brasileira, as matrizes dos direitos fundamentais são vida, liberdade,
+igualdade, segurança e propriedade.
+
+II. Direitos fundamentais constituem uma reserva mínima de justiça que as democracias devem
+assegurar a todos os seus cidadãos.
+
+III. Quando ocorre uma colisão de direitos fundamentais, a solução do problema não poderá se
+dar mediante subsunção, sendo necessário o uso da técnica da ponderação.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+Comentários:
+
+                                                                                                 65
+                                                                                                 96
+
+
+---
+
+Pessoal, para melhor resolver a questão, vamos analisar os itens separadamente:
+
+Item I – CORRETO. Quando analisamos a CRFB/88, o art. 5º estabelece como direitos individuais
+e coletivos que: “Todos são iguais perante a lei, sem distinção de qualquer natureza,
+garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à
+vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes (...).
+Lembrando que os direitos individuais e coletivos são considerados direitos fundamentais.
+
+Item II – CORRETO. Os direitos fundamentais são bens constitucionalmente protegidos e
+inerentes a cada indivíduo. Para os Estados democráticos, podemos afirmar que são valores
+fundamentais que devem ser assegurados a todos os indivíduos. De fato, constituem uma
+“reserva mínima de justiça que as democracias devem assegurar” a todos os seus cidadãos.
+
+Item III - CORRETO. O item III também está de acordo e representa uma característica marcante
+nos direitos fundamentais: a relatividade. Não existe direito fundamental absoluto! Em havendo
+colisão entre direitos, cabe ao intérprete analisar qual valor fundamental se adequa melhor à
+situação apresentada, utilizando-se do juízo de ponderação de valores ou técnica de
+harmonização de interesses.
+
+(...)
+
+LETRA A. INCORRETA. Na verdade, os itens II e III também estão corretos. Sobre o item II, os
+direitos fundamentais são bens constitucionalmente protegidos que estão intimamente
+relacionados à dignidade humana. Essa proteção é uma característica de Estados democráticos.
+Já o item III traz o instituto da ponderação que é utilizado quando há conflito entre os direitos
+fundamentais, devendo ser analisado o caso concreto e aplicar aquele direito que se adequa
+melhor à situação, já que não há direito fundamental absoluto.
+
+LETRA B. INCORRETA. O item III dispõe sobre a técnica da ponderação dos direitos
+fundamentais. Como esses direitos não são absolutos, quando ocorre colisão entre eles cabe ao
+aplicador do direito analisar aquele que se adequa melhor à situação apresentada.
+
+LETRA C. INCORRETA. O item II está em consonância com a Constituição Federal, porque
+devemos ter em mente que os direitos fundamentais são bens constitucionalmente protegidos e
+inerentes a cada indivíduo. Essa previsão é uma das características de Estados democráticos.
+
+LETRA D. INCORRETA. O item I está correto também! De fato, o art. 5º é o ponto de partida da
+Constituição Federal, servindo como a base para os direitos fundamentais que se seguem. Assim,
+todos os outros direitos fundamentais podem ser considerados, de certa forma, oriundos do
+disposto em seu caput.
+
+LETRA E. CORRETA. É o nosso gabarito! Os itens I, II e III estão em conformidade com a
+Constituição Federal. Em síntese, podemos afirmar que os direitos fundamentais possuem como
+direitos basilares: à vida, à liberdade, à igualdade, à segurança e à propriedade. Devemos
+lembrar que tais direitos são bens constitucionalmente protegidos, sendo essa uma das
+características de um Estado democrático. Por fim, vale esclarecer que os direitos fundamentais
+não são absolutos, podendo ser relativizados em detrimento de outro. Na ocorrência de colisão,
+
+                                                                                                66
+                                                                                                96
+
+
+---
+
+deve ser aplicado aquele que mais se adequa à situação proposta, utilizando-se do juízo de
+ponderação de valores.
+
+Gabarito: Letra E.
+
+11.​ (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo - Consultor Legislativo/2024)
+Acerca dos direitos fundamentais e das liberdades individuais, é correto afirmar que
+
+a) é inviolável o sigilo da correspondência, das comunicações, dos dados pessoais e das
+comunicações telefônicas, salvo, havendo ordem judicial de acesso, nas hipóteses e na forma
+que a lei estabelecer para fins de investigação administrativa ou criminal.
+
+b) ninguém será privado de direitos por motivo de crença religiosa ou de convicção científica,
+salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir
+prestação fixada em lei ou judicialmente.
+
+c) é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos
+cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.
+
+d) é assegurado a todos o acesso à informação, independentemente do sigilo da fonte e do
+sigilo profissional.
+
+e) aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas
+obras, sendo o mesmo intransmissível aos seus herdeiros.
+
+Comentários:
+
+LETRA A. INCORRETA. Muita atenção! A Constituição Federal permite a quebra de sigilo apenas
+por ordem judicial visando a investigação criminal ou instrução de processo penal. Perceba que
+não é admitida a quebra de sigilo para “investigação administrativa”, conforme art. 5º, inciso XII
+da CRFB/88:
+
+                     XII - é inviolável o sigilo da correspondência e das comunicações
+                     telegráficas, de dados e das comunicações telefônicas, salvo, no último
+                     caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer
+                     para fins de investigação criminal ou instrução processual penal;
+
+LETRA B. INCORRETA. Na verdade, a Constituição determina que ninguém será privado de
+direitos por motivo de crença religiosa ou convicção filosófica ou política e não de natureza
+científica, como disposto na alternativa. Além disso, a redação final também está errada, visto
+que a CRFB/88 diz: “recusar-se a cumprir prestação alternativa, fixada em lei” apenas. Não é uma
+prestação fixada em lei ou judicialmente!Vejamos o art. 5º, inciso VIII da CRFB/88:
+
+                     VIII - ninguém será privado de direitos por motivo de crença religiosa ou de
+                     convicção filosófica ou política, salvo se as invocar para eximir-se de
+
+                                                                                                67
+                                                                                                96
+
+
+---
+
+                      obrigação legal a todos imposta e recusar-se a cumprir prestação
+                      alternativa, fixada em lei;
+
+LETRA C. CORRETA. É o nosso gabarito! O disposto na alternativa trata da inviolabilidade da
+liberdade de consciência e crença (liberdade religiosa), sendo assegurado aos indivíduos o
+exercício de cultos e suas liturgias, consoante disciplina o art. 5º, inciso VI da CRFB/88:
+
+                      VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o
+                      livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção
+                      aos locais de culto e a suas liturgias;
+
+LETRA D. INCORRETA. Preste atenção! A nossa Constituição garante o acesso a informação, no
+entanto é preservada a fonte quando se necessário ao exercício da profissão, vejamos o que diz
+o art. 5º, inciso XIV da CRFB/88: “é assegurado a todos o acesso à informação e resguardado o
+sigilo da fonte, quando necessário ao exercício profissional”.
+
+LETRA E. INCORRETA. A Constituição prevê que os direitos autorais podem ser transmitidos aos
+herdeiros, pelo tempo que a lei estabelecer, de acordo com o art. 5º, inciso XXVII da CRFB/88:
+“aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras,
+transmissível aos herdeiros pelo tempo que a lei fixar”.
+
+Gabarito: Letra C.
+
+12.​ (FGV/PM-SP/Soldado/2024) João, após estudar muitos anos no exterior, aprendeu a
+realizar um trabalho de grande relevância social, o que lhe permitia auferir uma boa renda. Ao
+retornar ao território brasileiro, constatou, para sua surpresa, que não existia lei regulamentando
+o exercício dessa profissão.
+
+Ao consultar um especialista nessa temática, foi corretamente informado a João que
+
+(A) a ausência de lei impede o exercício da profissão.
+
+(B) a ausência de lei indica ser livre o exercício da profissão.
+
+(C) o trabalho é livre, logo, a lei não pode estabelecer qualquer requisito para o seu exercício.
+
+(D) é cabível a impetração de mandado de injunção para que lhe seja permitido o exercício da
+profissão.
+
+(E) é cabível a impetração de mandado de segurança para que lhe seja permitido o exercício da
+profissão.
+
+Comentários:
+
+LETRA A. INCORRETA. Está equivocada, porque a falta da lei não impede o exercício da
+profissão. De acordo com o art. 5º, inciso XIII da CRFB/88, é assegurado a liberdade de trabalho.
+
+                                                                                                    68
+                                                                                                    96
+
+
+---
+
+LETRA B. CORRETA. É o nosso gabarito! De acordo com a Constituição, a falta de lei
+regulamentar não impede o exercício da profissão, conforme art. 5º, inciso XIII da CRFB/88:
+
+                     Art. 5º (...)
+
+                     XIII - é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas
+                     as qualificações profissionais que a lei estabelecer.
+
+LETRA C. INCORRETA. Mesmo que a Constituição garanta o livre exercício do trabalho, pode
+surgir lei no campo infraconstitucional prevendo certos requisitos para o seu exercício.
+
+LETRA D. INCORRETA. O mandado de injunção é um remédio constitucional utilizado para sanar
+uma omissão legislativa que impede o exercício de determinado direito. Com relação à profissão,
+a Constituição determina que é livre o seu exercício (art. 5º, incisos XIII e LXXI da CRFB/88).
+
+LETRA E. INCORRETA. Não se encaixa com o caso da questão. O Mandado de Segurança é um
+remédio constitucional utilizado para proteger direito líquido e certo, não amparado por habeas
+corpus e habeas data, que foi violado por ato ilegal ou abusivo de autoridade, de acordo com
+art. 5º, inciso LXIX da CRFB/88.
+
+Gabarito: Letra B.
+
+13.​ (FGV/TJ-AP/2024) O casal de lavradores, Maria e João, é proprietário de uma pequena
+propriedade rural. Apesar de não contar com empregados, a eficiência das técnicas utilizadas na
+propriedade não só permitia que suas necessidades de subsistência fossem atendidas como
+ainda possibilitava a comercialização do excedente. Em razão dos débitos decorrentes de sua
+atividade produtiva, o que ocorrera em razão de intempéries climáticas, tinha receio da
+possibilidade de sua propriedade ser penhorada.
+
+À luz dessa narrativa, é correto afirmar que a penhora:
+
+a) é possível, já que o débito decorreu da atividade produtiva;
+
+b) é possível, considerando que a produção não é destinada apenas à subsistência;
+
+c) não é possível, considerando a natureza e a dimensão da propriedade, bem como a mão de
+obra utilizada;
+
+d) não é possível, o que decorre apenas da natureza da propriedade, independentemente da
+natureza do débito;
+
+e) é possível, desde que a propriedade tenha dimensão superior à do módulo rural, devendo ser
+assegurada a purga da mora.
+
+Comentários:
+
+                                                                                                 69
+                                                                                                 96
+
+
+---
+
+LETRA A. INCORRETA. Como o débito decorreu da atividade produtiva, não é possível a
+penhora.
+
+LETRA B. INCORRETA. O destino da produção não é um requisito para garantia da
+impenhorabilidade, nesse caso, não é possível a penhora do bem, já que preenche os requisitos
+do art. 5º, inciso XXVI da CRFB/88.
+
+LETRA C. CORRETA. É o nosso gabarito! De acordo com a Constituição em seu art. 5º, inciso
+XXVI, as pequenas propriedades rurais que são trabalhadas pela família, possuem a garantia de
+impenhorabilidade. Maria e João não terão sua propriedade penhorada, uma vez que se trata de
+pequena propriedade rural, trabalhada pela família e os débitos são decorrentes de sua atividade
+produtiva. Confira a previsão constitucional:
+
+                     Art. 5º (...)
+
+                     XXVI - a pequena propriedade rural, assim definida em lei, desde que
+                     trabalhada pela família, não será objeto de penhora para pagamento de
+                     débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os
+                     meios de financiar o seu desenvolvimento;
+
+LETRA D. INCORRETA. Não independe da natureza do débito. Em verdade, o débito precisa ser
+decorrente da atividade produtiva.
+
+LETRA E. INCORRETA. Não é possível, já que atende aos requisitos do art. 5º, inciso XXVI da
+CRFB/88.
+
+Gabarito: Letra C.
+
+14.​ (FGV/TJ-RJ/2024)Um grupo de pessoas, com padrões axiológicos semelhantes, decidiu
+constituir uma associação visando à realização dos objetivos que têm em comum. Por se tratar
+de um grupo muito zeloso, requereu autorização ao órgão competente do Município Delta para
+criar a referida associação. O requerimento, no entanto, foi denegado.
+
+À luz da Constituição da República, é correto afirmar que
+
+a) a autorização sequer deveria ter sido requerida, já que dispensada pela ordem constitucional.
+
+b) a denegação do requerimento formulado somente será lícita se forem apresentados os
+respectivos motivos.
+
+c) somente se o órgão competente demonstrar a existência de interesse público será regular a
+denegação do requerimento.
+
+d) a autorização é ato administrativo discricionário, que pode ser, ou não, concedida, conforme o
+juízo de valor do órgão competente.
+
+                                                                                               70
+                                                                                               96
+
+
+---
+
+e) tanto a autorização de criação como a dissolução compulsória da associação são atos
+vinculados do Município, caso sejam preenchidos os respectivos requisitos.
+
+Comentários:
+
+LETRA A. CORRETA. Conforme o art. 5º, XVIII da CRFB/88, a criação de associações e, na forma
+da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em
+seu funcionamento.
+
+LETRA B. INCORRETA. Na verdade, não há necessidade de autorização para a criação.
+
+LETRA C. INCORRETA. Não existe necessidade de autorização.
+
+LETRA D. INCORRETA. De acordo com a CRFB/88, não há necessidade de autorização!
+
+LETRA E. INCORRETA. Não há necessidade de autorização para a criação. Fora isso, segundo o
+art. 5º, XIX da CRFB/88, as associações só poderão ser compulsoriamente dissolvidas ou ter suas
+atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.
+
+Gabarito: Letra A.
+
+15.​ (FGV/TJ-SE/2023) Joana, residente no Município Alfa, decidiu atuar em uma profissão em
+relação à qual não havia regulamentação legal. Após dois anos de atuação, sobreveio a Lei
+federal nº X, que regulamentou a referida profissão e passou a exigir algumas qualificações
+profissionais para o seu exercício, qualificações estas que não eram atendidas por Joana.
+À luz dessa narrativa, é correto afirmar que Joana:
+a) exerceu regularmente a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, podendo continuar a exercê-la, considerando o
+direito adquirido ao regime jurídico anterior;
+b) não poderia exercer a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, também não podendo fazê-lo em momento
+posterior, por não preencher os requisitos exigidos;
+c) em momento anterior à edição da Lei federal nº X, exerceu a profissão de maneira lícita,
+considerando a ausência de disciplina legal, não podendo continuar a exercê-la após a
+superveniência desse diploma normativo, por não preencher os requisitos exigidos;
+d) não poderia exercer a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, mas poderia vir a exercê-la em momento posterior,
+pois o referido diploma normativo não pode retroagir para alterar a sua situação jurídica;
+e) exerceu regularmente a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, podendo continuar a exercê-la em momento
+posterior, considerando a inconstitucionalidade do referido diploma normativo, pois a lei não
+pode restringir o trabalho.
+
+Comentários:
+
+
+                                                                                             71
+                                                                                             96
+
+
+---
+
+LETRA A. INCORRETA. A partir do momento que a profissão foi regulamentada, Joana só
+poderá exercê-la se preencher todos os requisitos que a legislação determinou.
+
+LETRA B. INCORRETA. No momento anterior à regulamentação Joana a exerceu de forma lícita,
+não havendo que se falar em ilicitude nessa hipótese.
+
+LETRA C. CORRETA. É o nosso gabarito! O art. 5º, inciso XIII da CRFB é uma norma
+constitucional de eficácia contida, ou seja, como regra é garantido a todos o livre exercício do
+trabalho, ofício ou profissão, mas a lei pode estabelecer restrições.
+
+LETRA D. INCORRETA. A alternativa está totalmente errada, porque antes da regulamentação da
+profissão Joana podia exercê-la. No entanto, mas com a edição de lei que a regulamenta, ela só
+pode voltar a exercê-la se preencher todos os requisitos disposto na legislação.
+
+LETRA E. INCORRETA. Joana só poderá voltar a exercer a sua profissão se preencher todos os
+requisitos dispostos na legislação.
+
+Gabarito: Letra C.
+
+
+16.​ (FGV/DP- RS/2023) Na região mais pobre do Município Alfa, um caminhão desgovernado
+adentrou a residência de Ana, causando um grande desabamento no local.
+
+Ao constatar o ocorrido, Maria, vizinha de Ana, questionou sua filha a respeito da possibilidade
+de entrarem na casa para verificar se havia alguma pessoa ferida no local, sendo-lhe
+corretamente informado que o ingresso na residência, de acordo com a ordem constitucional: a)
+está condicionado à presença de duas testemunhas;
+
+b) somente seria possível com o consentimento de Ana;
+
+c) poderia ocorrer, ainda que não houvesse o consentimento de Ana;
+
+d) poderia dispensar o consentimento de Ana, mas apenas se houvesse ordem judicial;
+
+e) poderia dispensar o consentimento de Ana, mas apenas se fosse feito por policiais civis ou
+militares.
+
+Comentários:
+
+Letra A. INCORRETA. Conforme o art. 5º, inciso XI da CRFB/88, não há exigência de
+testemunhas para se adentrar na residência do indivíduo em caso de socorro.
+
+Letra B. INCORRETA. Também não há necessidade de consentimento de Ana, visto que o
+objetivo era prestar socorro. Ou seja, temos uma exceção ao princípio da inviolabilidade
+domiciliar.
+
+Letra C. CORRETA. É o nosso gabarito! Não há necessidade de consentimento do morador para
+entrar na casa de indivíduo se o objetivo for prestar socorro (art. 5º, XI da CRFB/88).
+
+                                                                                              72
+                                                                                              96
+
+
+---
+
+Letra D. INCORRETA. Na referida situação, não há necessidade de ordem judicial. Além disso,
+não existe necessidade de consentimento do morador, pois o objetivo era prestar socorro.
+
+Letra E. INCORRETA. O ingresso não precisa ser feito apenas por policiais civis ou militares.
+Qualquer um pode prestar socorro e adentrar na residência do indivíduo. É uma medida
+excepcional.
+
+Gabarito: Letra C.
+
+
+17.​ (FGV/RFB/2023) Um grupo de policiais alcançou a inferência lógica de que estariam sendo
+praticados crimes no interior de certa residência familiar. Esses policiais formaram o seu
+raciocínio a partir da constatação de que, de tempos em tempos, ali ingressavam pessoas que,
+pela sua aparência física e pelas roupas que utilizavam, muito provavelmente estariam envolvidas
+na prática de crimes. Por tal razão, decidiram ingressar no local, contra a vontade dos
+moradores, e ali encontraram centenas de quilos de substâncias entorpecentes de uso proibido.
+Considerando a sistemática constitucional, é correto afirmar que o ingresso na residência foi:
+a) ilícito, considerando a inexistência de ordem judicial e em razão da ausência de qualquer
+indício prévio de flagrante delito no local.
+b) lícito, embora inexistisse ordem judicial, o que decorria da situação de flagrante delito,
+podendo ter sido efetivado durante o dia ou durante a noite.
+c) ilícito, considerando que os policiais, em nenhuma hipótese, podem ingressar na residência
+alheia sem ordem judicial e contra a vontade dos moradores.
+d) lícito, embora inexistisse ordem judicial, o que decorria da situação de flagrante delito, cuja
+ocorrência deveria ser demonstrada em juízo em momento posterior.
+e) lícito, considerando que o flagrante delito legitima o ingresso na casa alheia ainda que sua
+descoberta seja fortuita, pois a sua existência excepciona a inviolabilidade do domicílio.
+Comentários:
+Letra A. CORRETA. O ingresso na residência foi ilícito, considerando a inexistência de ordem
+judicial e em razão da ausência de qualquer indício prévio de flagrante delito no local, nos
+termos do art. 5º, XI da CF.
+Letra B. INCORRETA. Não foi caso de situação de flagrante delito, sendo ilícito o ingresso na
+residência, segundo art. 5º, XI da CF.
+
+Letra C. INCORRETA. Há hipóteses que autorizam o ingresso na residência alheia sem ordem
+judicial e contra a vontade dos moradores, segundo o art. 5º, XI da CF.
+Letra D INCORRETA. Não foi caso de situação de flagrante delito, sendo ilícito o ingresso na
+residência, conforme art. 5º, XI da CF.
+
+                                                                                                 73
+                                                                                                 96
+
+
+---
+
+Letra E. INCORRETA. Não foi caso de situação de flagrante delito, sendo ilícito o ingresso na
+residência, de acordo com art. 5º, XI da CF.
+
+Gabarito: Letra A.
+
+18.​ (FGV/MP-SP/2023) Pablo, cidadão espanhol, viveu durante alguns anos no território
+brasileiro, ocasião em que desenvolveu diversas atividades econômicas e adquiriu inúmeras
+obras de arte. Em determinado momento, por sugestão de sua família, decidiu retornar para a
+sua pátria.
+
+Muito cioso dos seus deveres, Pablo consultou seu advogado a respeito dos requisitos a serem
+observados, consoante a Constituição da República, para que pudesse sair do território nacional,
+sendo-lhe corretamente informado que
+
+a) pode sair do território nacional com seus bens, observados os balizamentos estabelecidos pela
+lei.
+
+b) pode sair livremente do território nacional, mas deve apresentar justificativa para que possa
+levar os seus bens.
+
+c) depende de autorização da autoridade competente para que possa sair do território nacional e
+ainda levar os seus bens.
+
+d) como é estrangeiro, não sendo alcançado pelos direitos fundamentais, cabe apenas à lei
+dispor sobre a possibilidade, ou não, de sair com seus bens do território nacional.
+
+e) por expressa determinação constitucional, pode sair livremente do território nacional com seus
+bens, não sendo possível que a lei estabeleça qualquer condicionante.
+
+Comentários:
+
+Letra A. CORRETA. Nos termos do art. 5º, XV da CF, “é livre a locomoção no território nacional
+em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele
+sair com seus bens”. É o nosso gabarito!!!!
+
+Letra B. INCORRETA. A Constituição não condiciona expressamente a liberdade de locomoção e
+trânsito a uma “necessidade de apresentar justificativa”. É preciso observar o que a lei
+estabelece.
+
+Letra C. INCORRETA. Não depende de autorização da autoridade competente. O art. 5º, inciso
+XV da CRFB/88 não traz essa condicionante. Ah professor, mas não temos a alfândega (Receita
+Federal)? Sim, mas aqui estamos diante de uma questão de análise do texto da CRFB/88, sob o
+viés constitucional. O raciocínio jurídico é acerca da literalidade da norma. Cuidado!!!
+
+                                                                                               74
+                                                                                               96
+
+
+---
+
+Letra D. INCORRETA. Pegadinha!!! A doutrina e a jurisprudência do STF entendem que basta
+estar no território nacional para que a pessoa seja possuidora de direito fundamental. Não
+importando se é estrangeira ou não, residente ou não. Ou seja, estrangeiros também são titulares
+de direitos fundamentais.
+
+Letra E. INCORRETA. Segundo o art. 5º, XV da CRFB/88, “é livre a locomoção no território
+nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar,
+permanecer ou dele sair com seus bens”. A Constituição estabelece que é livre a locomoção em
+tempos de paz. Porém, em situações excepcionais a lei poderá trazer limitações. Ex: Questões de
+saúde e vigilância sanitária.
+
+Gabarito: Letra A.
+
+                                               ==8b9==
+
+19.​ (FGV/TCE-ES/2023) Após inúmeras audiências públicas realizadas na Assembleia
+Legislativa do Estado Alfa, um grupo de deputados estaduais apresentou projeto de lei, que
+veio a ser aprovado, dando origem à Lei nº XX. De acordo com esse diploma normativo,
+direcionado à proteção dos animais, era expressamente permitido o sacrifício ritual de animais
+em cultos de religiões de matriz africana. Irresignado com a permissão de sacrifício estabelecida
+na Lei nº XX, uma associação de proteção aos animais consultou um advogado a respeito de sua
+compatibilidade com a ordem constitucional, sendo-lhe corretamente respondido que o referido
+diploma normativo é:
+a) inconstitucional, pois afronta a competência privativa da União para legislar sobre a proteção
+da fauna;
+
+b) constitucional, pois resguarda a liberdade religiosa e o exercício de uma manifestação cultural;
+
+c) inconstitucional, pois afronta a laicidade do Estado, que não deve se imiscuir em questões
+religiosas;
+
+d) constitucional, pois a proteção constitucional é direcionada aos seres humanos, não aos
+animais;
+e) inconstitucional, pois é vedada a submissão dos animais a qualquer espécie de sofrimento.
+
+Comentários:
+
+Letra A. INCORRETA. O diploma normativo é constitucional e não afronta a competência da
+União para legislar sobre a proteção da fauna, tendo em vista que se trata de uma competência
+concorrente, conforme o art. 24, VI da CRFB/88.
+Letra B. CORRETA. É o nosso gabarito! O referido diploma normativo é constitucional, pois
+resguarda a liberdade religiosa e o exercício de uma manifestação cultural, conforme o art. 5º, VI
+e VIII da CRFB/88 e RE 494601.
+Letra C. INCORRETA. Está errado dizer que o diploma afronta à laicidade do Estado, tendo em
+vista que assegura a liberdade religiosa. Ou seja, mantém a laicidade estatal.
+
+                                                                                                 75
+                                                                                                 96
+
+
+---
+
+Letra D. INCORRETA. Erra ao citar que a proteção constitucional não se direciona aos animais,
+como exemplo, temos a competência comum da União, dos Estados, do Distrito Federal e dos
+Municípios para preservar a fauna (art. 23, inciso VII da CRFB/88).
+Letra E. INCORRETA. Está errada, pois a prática de sacrifício não violou o dever constitucional de
+amparo aos animais, apenas garantiu a liberdade religiosa.
+Gabarito: Letra B.
+
+
+20.​ (FGV/SEFAZ-BA - 2022) João, cientista político brasileiro, é ferrenho defensor da forma de
+governo monárquica e das ideias do Partido Político Alfa, que defende essa forma de governo.
+Por tal razão, é infenso à organização das estruturas estatais de poder com base em ideais
+republicanos, especialmente em relação à forma de provimento dos cargos afetos à Chefia do
+Poder Executivo nas distintas esferas de governo. Ao ser editada a Lei federal nº XX, que impôs
+à generalidade dos adultos, excetuados aqueles que apresentassem algum óbice de ordem física
+ou psíquica, a obrigação de desempenhar determinada atividade de interesse público em um
+curto período de tempo, João redigiu um alentado manifesto e negou-se a cumprir a obrigação
+legal. Nessa situação, João agiu de modo
+a) lícito, mas deve cumprir a prestação alternativa que estiver fixada em lei.
+b) ilícito, pois ninguém pode deixar de cumprir obrigação legal de caráter geral.
+c) lícito, pois ninguém pode ser compelido a exercer uma função pública contra a sua vontade.
+d) ilícito, pois apenas por motivo de crença religiosa poderia deixar de cumprir obrigação legal
+de caráter geral.
+e) lícito, pois a todos é assegurado o direito de não cumprir obrigação legal de caráter geral,
+desde que seja cumprida prestação alternativa fixada em regulamento.
+Comentários:
+
+A alternativa A está correta e é o gabarito da questão.
+Art. 5º, VIII – ninguém será privado de direitos por motivo de crença religiosa ou de convicção
+filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e
+recusar-se a cumprir prestação alternativa, fixada em lei.
+O inciso VIII trata do direito a “escusa de consciência” como regra. Não ocorrerá a privação de
+direitos por descumprimento da obrigação legal imposta a todos, caso o motivo decorra de suas
+crenças religiosas ou convicções filosóficas ou políticas.
+No entanto, tal fato não impede que o Estado imponha ao indivíduo, que alegou a escusa, o
+cumprimento de uma prestação alternativa, desde que esta esteja prevista em lei.
+Ressalto que na hipótese de haver a recusa no cumprimento dessa prestação alternativa, aí sim o
+indivíduo poderá sofrer restrição de direitos, como a perda de direitos políticos prevista no art.
+15, IV, da Constituição. Para ocorrer tal situação, o sujeito deve cumulativamente: “recusar-se a
+cumprir obrigação legal e também a prestação alternativa fixada pela lei”.
+Se não houver lei prevendo prestação alternativa, o indivíduo que alegou a escusa de
+consciência não pode ser privado de seus direitos. O preceito é norma constitucional de eficácia
+contida, de modo que o direito à liberdade de consciência e crença somente pode ser
+restringido pelo legislador quando fixada por lei a prestação alternativa.
+
+
+                                                                                                76
+                                                                                                96
+
+
+---
+
+21.​ (FGV/TCU - 2022) XX, renomado escritor, decidiu elaborar uma ampla pesquisa a respeito
+da vida pessoal e profissional de conhecido político, o qual, além de estar vivo, concluíra há
+pouco o seu último mandato eletivo e resolvera se retirar da vida pública. Preocupado com as
+repercussões do livro que pretendia escrever, solicitou orientação de um advogado a respeito da
+necessidade, ou não, de obter a autorização do político ou, eventualmente, de seus familiares,
+caso ele viesse a falecer durante a elaboração da obra. O advogado respondeu, corretamente, à
+luz da sistemática constitucional, que:
+a) a autorização não é exigível, caso a publicação venha a ter caráter exclusivamente imparcial,
+sem críticas à pessoa e à obra do político;
+b) não dependerá de autorização do político ou mesmo de seus familiares, já que a liberdade de
+informação deve preponderar;
+c) somente dependerá de autorização caso o político esteja vivo quando da publicação, já que a
+intimidade é um direito personalíssimo;
+d) sempre dependerá de autorização, pois, como o político retirou-se da vida pública, a sua
+intimidade prepondera sobre o direito à informação;
+e) a autorização será exigida, ou não, conforme as características da obra, devendo ser
+sopesados os direitos à informação e à honra, observados os circunstancialismos do caso
+concreto.
+Comentários:
+
+A alternativa B está correta e é o gabarito da questão.
+
+Segundo a CF/88 – Art. 5º, IX, "é livre a expressão da atividade intelectual, artística, científica e
+de comunicação, independentemente de censura ou licença".
+A questão trouxe o conhecimento do candidato sobre a ADI 4.815/DF, que restringiu-se à
+interpretação dos arts. 20 e 21 do Código Civil relativa à divulgação de escritos, à transmissão da
+palavra, à produção, publicação, exposição ou utilização da imagem de pessoa biografada.
+Na decisão, entendeu o STF que a Constituição do Brasil proíbe qualquer censura. O exercício
+do direito à liberdade de expressão não pode ser cerceado pelo Estado ou por particular, e que
+autorização prévia para biografia constitui censura prévia particular.
+A ação direta foi julgada procedente para dar interpretação conforme à Constituição aos arts. 20
+e 21 do Código Civil, sem redução de texto, para, em consonância com os direitos fundamentais
+à liberdade de pensamento e de sua expressão, de criação artística, produção científica, declarar
+inexigível autorização de pessoa biografada relativamente a obras biográficas literárias ou
+audiovisuais, sendo também desnecessária autorização de pessoas retratadas como
+coadjuvantes (ou de seus familiares, em caso de pessoas falecidas ou ausentes).
+
+
+22.​ (FGV/CGU - 2022) Maria foi convocada, pelo poder público, para desempenhar
+determinada atividade de interesse coletivo prevista em lei, uma única vez, em determinado dia
+da semana. De posse do instrumento de convocação, compareceu à repartição e comunicou que
+não iria participar da referida atividade, que considerava injustificável à luz da razão humana,
+
+                                                                                                  77
+                                                                                                  96
+
+
+---
+
+afrontando, com isso, a filosofia racionalista da qual era prosélita. À luz da sistemática
+constitucional, é correto afirmar que Maria agiu de maneira:
+a) lícita, mas deve cumprir prestação alternativa prevista em lei, sob pena de ter os direitos
+políticos suspensos em caso de recusa;
+b) lícita, mas somente se a lei prever uma prestação alternativa passível de ser cumprida, caso
+contrário, deve sofrer as sanções previstas em lei;
+c) ilícita, pois a objeção de consciência deve estar lastreada em crença religiosa, não em
+convicção filosófica, estando sujeita às sanções cominadas em lei;
+d) lícita, desde que a lei que instituiu a obrigação preveja expressamente a faculdade de não ser
+cumprida, daí decorrendo a incidência das sanções cominadas;
+e) ilícita, pois a recusa em cumprir obrigação legal a todos imposta, em qualquer caso, afronta a
+isonomia, devendo ser privada de sua cidadania nas acepções ativa e passiva.
+Comentários:
+A alternativa A é o nosso gabarito.
+A questão versa sobre a escusa de consciência. Direito garantido constitucionalmente que pode
+ser invocado por qualquer indivíduo quando uma obrigação legal entra em conflito com a sua
+crença religiosa ou convicção filosófica ou política.
+Esse direito está previsto no inciso VIII do art. 5º da CF/88, que assim dispõe: “ninguém será
+privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se
+as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação
+alternativa, fixada em lei”.
+Isso significa que Maria pode com base na escusa de consciência descumprir a obrigação legal
+imposta, sem que tenha como consequência a restrição de direitos.
+No entanto, o texto constitucional faz uma ressalva, que resulta na possibilidade de privação de
+direitos.
+Muita atenção! A exceção ocorre quando há a acumulação dos requisitos: invocar a escusa de
+consciência para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação
+alternativa, fixada em lei.
+
+Assim, se existir uma prestação alternativa prevista em lei, que também não seja cumprida por
+Maria, nesse caso, ela poderá sofrer restrição de direitos.
+
+23.​ (FGV/PC-RJ/2022) Determinada associação, direcionada ao desenvolvimento psicossocial
+da pessoa e da família, foi objeto de muitas críticas no âmbito da Secretaria de Apoio Familiar
+do Estado-membro Alfa. Argumentava-se que diversas atividades desenvolvidas pela associação
+eram moralmente reprováveis, além de representarem apologia ao crime. Em razão desses fatos,
+a assessoria jurídica foi consultada a respeito da possibilidade de a associação ter suas atividades
+suspensas, sendo respondido, corretamente, que a suspensão alvitrada:
+a) somente seria possível após a condenação em processo administrativo;
+b) somente seria possível por decisão judicial, independentemente do trânsito em julgado;
+
+
+                                                                                                  78
+                                                                                                  96
+
+
+---
+
+c) não seria possível, pois a liberdade de associação tem estatura constitucional;
+d) exige decisão transitada em julgado, quer seja proferida em processo administrativo, quer em
+processo judicial;
+e) exige o julgamento do ilícito em processo administrativo, requisito da ação judicial na qual a
+suspensão será requerida.
+Comentários:
+A alternativa B está correta e é o gabarito da questão.
+
+A questão cobrou o conhecimento da literalidade do art. 5º, XIX da CF/88, vejamos:
+
+Art. 5º, XIX - as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades
+suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.
+
+Portanto, por força constitucional a associação só poderia ter as suas atividades suspensas por
+decisão judicial, independentemente do trânsito em julgado.
+
+24.​ (FGV/TJ-DFT - 2022) A Lei federal nº XX impôs a todos os cidadãos determinada
+obrigação de caráter cívico, a ser cumprida em certos períodos por aqueles que fossem
+sorteados. João, em razão de suas convicções políticas, decidiu que não iria cumprir a
+obrigação. À luz da sistemática constitucional, João:
+a) não poderá sofrer consequência desfavorável, por ter exercido plenamente a sua liberdade de
+consciência, que não pode ser afrontada pelo poder público, sob pena de violação à dignidade
+da pessoa humana;
+b) preservará o direito de votar, mas ficará inelegível, consequência que será afastada caso
+cumpra a prestação alternativa fixada em lei;
+c) deverá cumprir a prestação alternativa fixada em lei e, caso se recuse, terá a cidadania
+suspensa em suas acepções ativa e passiva;
+d) terá os direitos políticos suspensos, os quais serão restabelecidos caso cumpra a prestação
+alternativa fixada em lei;
+e) deverá cumprir a prestação alternativa fixada em lei e, caso se recuse, ficará inelegível.
+Comentários:
+A alternativa C está correta e é o gabarito da questão.
+Vejamos o que a CF/88 traz sobre o caso:
+Art. 5º, VIII - ninguém será privado de direitos por motivos de crença religiosa, ou de convicção
+filosófica ou política, SALVO se as invocar para eximir-se de obrigação legal a todos imposta e
+recusar-se a cumprir prestação alternativa fixada em lei.
+Já o art. 15 traz o seguinte:
+Art. 15. É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos
+de:
+
+
+                                                                                                79
+                                                                                                96
+
+
+---
+
+IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º,
+VIII;
+
+Destaco que não ocorrerá a privação de direitos por descumprimento da obrigação legal imposta
+a todos, caso o motivo decorra de suas crenças religiosas ou convicções filosóficas ou políticas.
+Contudo, tal fato não impede que o Estado imponha ao indivíduo, que alegou a escusa, o
+cumprimento de uma prestação alternativa, desde que esta esteja prevista em lei.
+
+Destaque-se que, na hipótese de haver a recusa no cumprimento dessa prestação alternativa, aí
+sim, o indivíduo poderá sofrer restrição de direitos, como a perda de direitos políticos prevista no
+art. 15, IV, da Constituição. Para ocorrer tal situação, o sujeito deve cumulativamente: “recusar-se
+a cumprir obrigação legal e também a prestação alternativa fixada pela lei”.
+
+25.​ (FGV/TJ-DFT - 2022) Joana, jovem e renomada escritora de livros infantis, faleceu. O mais
+velho dos seus herdeiros, com 18 anos de idade, preocupado com a situação dos livros, que
+geravam uma elevada renda para Joana, questionou um advogado a respeito da proteção
+constitucional oferecida a direitos dessa natureza. O advogado respondeu, corretamente, que o
+direito de utilização, publicação ou reprodução das obras de Joana pertence:
+a) de modo exclusivo e em caráter perpétuo, aos herdeiros;
+b) de modo exclusivo e pelo tempo que a lei fixar, aos herdeiros;
+c) ao poder público, não aos herdeiros, que têm assegurado o direito de participação nos lucros
+obtidos;
+d) ao público em geral, não aos herdeiros, que têm assegurado o direito de participação nos
+lucros obtidos;
+e) aos herdeiros, ao poder público e ao público em geral, assegurando-se aos primeiros o direito
+de participação nos lucros.
+Comentários:
+A alternativa B está correta e é o gabarito da questão.
+A questão cobrou do candidato o conhecimento literal do Art. 5º, XXVII da CF/88, vejamos:
+Art. 5º, XXVII - aos autores pertence o direito exclusivo de utilização, publicação ou reprodução
+de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar.
+
+26.​ (FGV/TCE-AM - 2021) Joana, motorista de ônibus profissional, foi notificada de que lhe
+fora imposta a pena de suspensão de habilitação para dirigir veículo automotor, isto em razão de
+sua condenação pela prática de homicídio culposo na condução de veículo dessa natureza.
+À luz da ordem constitucional vigente, a sanção aplicada a Joana é:
+
+a) inconstitucional, pois afronta o direito fundamental ao livre exercício profissional;
+
+                                                                                                  80
+                                                                                                  96
+
+
+---
+
+b) inconstitucional, por se tratar de sanção política, que destoa da razão de ser de uma pena
+imposta em processo penal;
+
+c) inconstitucional, por destoar do princípio da proporcionalidade, considerando o bem tutelado
+e o bem restringido;
+
+d) constitucional, pois não há direito absoluto ao exercício de atividade profissional e se ajusta ao
+princípio de individualização da pena;
+
+e) constitucional, pois as sanções penais devem ser aplicadas a todos que pratiquem a conduta
+descrita no tipo penal, de modo igualitário, nos planos qualitativo e quantitativo.
+
+Comentários:
+
+A alternativa D está correta e é o gabarito da questão.
+
+Vejamos o que a jurisprudência entende sobre o caso hipotético trazido pela questão:
+Relator: MIN. ROBERTO BARROSO - RE 607107
+Descrição: Recurso Extraordinário em que se discute, à luz do artigo 5º, XIII, da Constituição
+Federal, se a imposição da penalidade de suspensão da habilitação para dirigir, prevista no art.
+302 da Lei nº 9.503/1997, quando o apenado for motorista profissional, afronta, ou não, o direito
+fundamental ao livre exercício de trabalho.
+Tese: É constitucional a imposição da pena de suspensão de habilitação para dirigir veículo
+automotor ao motorista profissional condenado por homicídio culposo no trânsito”.
+De acordo com o STF, “inexiste direito absoluto ao exercício de atividade profissional" (CF, art.
+5º, XIII). É razoável e legítima a restrição imposta pelo legislador, visando proteger bens jurídicos
+relevantes de terceiros, como a vida e a integridade física. Além disso, sustentou que a medida é
+coerente com o princípio da individualização da pena (CF, art. 5º, XLVI)”.
+
+
+27.​ (FGV/PC-RJ - 2021) O grupo “Amigos da Diversidade” decidiu realizar manifestação
+pacífica na praça mais importante da Cidade Alfa, no último domingo do próximo mês. Após a
+tomada de decisão, surgiu uma dúvida, no âmbito da liderança, a respeito dos procedimentos a
+serem adotados. João, integrante do grupo e profundo conhecedor da ordem constitucional,
+explicou, corretamente, que a manifestação:
+a) é projeção do princípio democrático, não carecendo de prévio aviso a qualquer autoridade
+pública ou mesmo de autorização;
+b) pode ser realizada na praça, desde que o requerimento seja apresentado e deferido pela
+autoridade competente até trinta dias antes;
+c) pode ser livremente realizada, mas em local privado, não na praça, isso sob pena de privar o
+restante da coletividade da fruição desse espaço;
+d) não depende de autorização de qualquer órgão público, sendo exigida apenas a realização de
+prévio aviso à autoridade competente;
+e) pode ser realizada na praça, desde que o uso seja autorizado pela autoridade competente,
+com o correlato pagamento da taxa de uso exclusivo, fixada em valores módicos.
+
+
+                                                                                                   81
+                                                                                                   96
+
+
+---
+
+Comentários:
+A alternativa D está correta e é o gabarito da questão.
+Questão tranquila e direta, bastando o candidato possuir o conhecimento do Art. 5º, XVI da
+CF/88.
+Art. 5º - XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao público,
+independentemente de autorização, desde que não frustrem outra reunião anteriormente
+convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente.
+Não se faz exigência de autorização por parte do poder público, exige-se apenas o aviso prévio,
+com o objetivo de fazer com que a Administração Pública tenha ciência daquela reunião e possa
+se planejar quanto ao trânsito, policiamento, bem como para que não frustre uma outra reunião
+que porventura já tenha sido agendada para aquele mesmo local, data e hora.
+No RE 806.339/SC, o STF estabeleceu que “a exigência constitucional de aviso prévio
+relativamente ao direito de reunião é satisfeita com a veiculação de informação que permita ao
+poder público zelar para que seu exercício se dê de forma pacífica ou para que não frustre outra
+reunião no mesmo local.”
+
+                                                                                              82
+                                                                                              96
+
+
+---
+
+                                  LISTA DE QUESTÕES
+Direitos e Deveres Individuais e Coletivos – Art. 5º, I a XXXI
+1.​   (FGV/CAGE-RS/Auditor do Estado/2025) Matheus, agente público competente no âmbito
+do Estado Alfa, em situação de iminente perigo público, causado por evento climático extremo,
+pretende utilizar o imóvel particular de Jonas, com o objetivo de atender ao interesse público
+primário. Nesse cenário, considerando as disposições da Constituição Federal, a atuação de
+Matheus caracterizará uma manifestação do instituto da
+
+(A) requisição administrativa, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização prévia, justa e em dinheiro.
+
+(B) desapropriação, modalidade de intervenção drástica do Estado na propriedade, assegurando
+ao proprietário indenização prévia, justa e em dinheiro.
+
+(C) requisição administrativa, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+(D) ocupação temporária, modalidade de intervenção branda do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+(E)   ocupação temporária, modalidade de intervenção drástica do Estado na propriedade,
+assegurando ao proprietário indenização ulterior, se houver dano.
+
+2.​    (FGV/CAGE RS/Auditor Interno/2025) O diretor de uma unidade hospitalar de natureza
+pública recebeu a solicitação de que fosse oferecida assistência religiosa a determinado paciente
+praticante de religião de matriz africana. Após analisar a legislação vigente, o diretor respondeu
+corretamente que
+
+a) o caráter laico do Estado brasileiro impede a realização de cultos religiosos em repartições
+públicas.
+
+b) o recebimento da referida assistência consubstancia direito subjetivo do paciente praticante
+da religião e que almeje recebê-la.
+
+c) o deferimento da solicitação formulada está condicionado à existência de regulamento que
+discipline o exercício de igual direito em relação às demais religiões.
+
+d) o direito à assistência almejada somente é assegurado em instituições de internação coletiva
+de caráter compulsório, o que não é o caso da unidade hospitalar.
+
+e) o deferimento da solicitação formulada pressupõe a anuência dos demais pacientes e dos
+funcionários da unidade hospitalar que terão contato com a referida assistência.
+
+3.​   (FGV/PC-MG/Investigador de Polícia/2025) De acordo com a Lei Federal nº X, a
+generalidade das pessoas maiores e capazes, que se encontrem no pleno gozo dos seus direitos
+
+
+                                                                                                83
+                                                                                                96
+
+
+---
+
+políticos, deveria participar de determinada atividade de interesse coletivo desenvolvida pelas
+estruturas estatais de poder. A participação ocorreria mediante convocação e em caráter
+gratuito. Jonas foi convocado com base nesse diploma normativo, mas se sentiu extremamente
+desconfortável em atuar, pois a atividade a ser desenvolvida era francamente contrária à sua
+convicção política. Na situação descrita, consoante a ordem constitucional, é correto afirmar que
+Jonas
+
+a) praticará crime inafiançável, se não cumprir a obrigação legal a todos imposta.
+
+b) não pode eximir-se, em nenhuma hipótese, de cumprir obrigação legal a todos imposta.
+
+c) estará em harmonia com a juridicidade caso cumpra prestação alternativa fixada em lei.
+
+d) somente pode deixar de cumprir a obrigação legal, por motivo de crença religiosa, se a lei for
+inconstitucional.
+
+e) somente pode eximir-se de cumprir obrigação legal a todos imposta por motivo de crença
+religiosa, o que não é o caso.
+
+4.​   (FGV/Prefeitura de São José dos Campos/Procurador/2024) O Estado Beta editou norma
+sobre regras do concurso público para ingresso na carreira da Polícia Militar, fixando limite
+máximo de vagas para candidatas do sexo feminino. Diante do e da jurisprudência
+predominante do Supremo Tribunal Federal, é correto afirmar que a referida norma é
+
+a) constitucional, por observância ao princípio da razoabilidade.
+
+b) inconstitucional, por violação ao princípio da impessoalidade.
+
+c) inconstitucional, por ofensa ao princípio da isonomia.
+
+d) constitucional, por observância ao princípio da isonomia.
+
+e) inconstitucional, por violação ao princípio da moralidade.
+
+5.​    (FGV/Prefeitura de São José dos Campos/Procurador/2024) José foi condenado por crime
+com base em prova obtida por meio de abertura de encomenda postada nos correios, feita sem
+autorização do juiz, em razão da existência de fortes suspeitas da prática de crimes.
+
+Diante do exposto, é correto afirmar que a referida condenação
+
+a) é nula, pois a garantia de sigilo também se aplica às encomendas postadas nos correios, que
+não podem ser abertas para a obtenção de provas, sem autorização judicial, mesmo quando
+houver fortes suspeitas da prática de crimes.
+
+b) é nula, pois sem autorização judicial é ilícita a prova obtida mediante abertura de carta,
+telegrama, pacote, encomenda ou qualquer meio análogo.
+
+c) é válida, pois é lícita a prova sempre que obtida por meio de abertura de encomenda, quando
+postada nos Correios, empresa de natureza pública, sem a necessidade de autorização do juiz.
+
+                                                                                               84
+                                                                                               96
+
+
+---
+
+d) é nula, pois é ilícita a prova obtida em razão de violação ao sigilo das comunicações, direito
+fundamental absoluto previsto na Constituição.
+
+e) é válida, pois a garantia de sigilo não se aplica às encomendas postadas nos correios, que
+podem ser abertas para a obtenção de provas quando houver fortes suspeitas da prática de
+crimes, sem a necessidade de autorização judicial.
+
+6.​    (FGV/Prefeitura de São José dos Campos/Analista de Gestão Municipal/2024) A Lei
+municipal no W, com o alegado objetivo de proteger o interesse coletivo, impôs restrições a
+determinado direito individual. Ana, titular de um direito dessa natureza e que seria alcançada
+pelas restrições impostas pelo referido diploma normativo, consultou um advogado a respeito
+da compatibilidade dessa medida com a Constituição da República.
+
+Foi corretamente respondido a Ana que as referidas restrições, à luz do entendimento
+predominante na realidade brasileira
+
+a) são sempre incompatíveis com a ordem constitucional, pois a concordância prática desses
+direitos foi realizada, in abstracto, pelo Poder Constituinte.
+
+b) são sempre incompatíveis com a ordem constitucional, considerando que os direitos
+fundamentais ensejam o surgimento de posições jurídicas definitivas.
+
+c) podem se mostrar compatíveis com a ordem constitucional, devendo ser adequadas e
+necessárias, além de os benefícios auferidos apresentarem maior relevância que as restrições
+impostas.
+
+d) podem se mostrar compatíveis com a ordem constitucional, desde que a norma que
+contempla o direito fundamental tenha admitido a imposição de restrições pela legislação
+infraconstitucional.
+
+e)    são sempre compatíveis com a ordem constitucional, pois a eficácia dos direitos
+fundamentais, de primeira, segunda ou terceira dimensão, é sempre estabelecida pela legislação
+infraconstitucional, que pode estendê-los ou restringi-los.
+
+7.​   (FGV/CGM de Belo Horizonte-BH/Auditor de Controle Interno/Direito/2024) João,
+governador do Estado Alfa, consultou um assessor sobre a compatibilidade da implementação
+de uma política pública com o instituto da ação afirmativa.
+
+Ao ver desse assessor, os traços estruturais desse instituto estão presentes nos itens a seguir.
+
+I. Funcionalidade de construção da igualdade formal.
+
+II. Sua necessária continuidade, considerando os objetivos almejados, que se mostram
+incompatíveis com delimitações temporais.
+
+III. Sujeição à influência da denominada reserva do possível.
+
+Está correto, na visão do assessor, o(s) item(ns)
+
+                                                                                                   85
+                                                                                                   96
+
+
+---
+
+a) I, apenas.
+
+b) II, apenas.
+
+c) III, apenas.
+
+d) I e II, apenas.
+
+8.​   (FGV/DNIT/Analista Administrativo - Administração/2024) Todos são iguais perante a lei,
+sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes
+no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade.
+
+Entre os direitos e deveres individuais e coletivos, constantes na Constituição da República
+Federativa do Brasil de 1988, encontra-se pertinente que
+
+a) é livre a manifestação do pensamento, sendo consentido o anonimato.
+
+b) ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei.
+
+c) a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar em hipótese alguma.
+
+d) é violável o sigilo da correspondência e das comunicações telegráficas, de dados e das
+comunicações telefônicas.
+
+e) é assegurado a todos o acesso à informação e divulgação da fonte.
+
+9.​    (FGV/DNIT/Analista Administrativo - Administração/2024) Os direitos e garantias
+fundamentais, consagrados na Constituição da República Federativa do Brasil de 1988,
+representam a espinha dorsal do ordenamento jurídico nacional, conferindo proteção essencial
+aos indivíduos.
+
+Com relação aos direitos e garantias fundamentais, analise os itens a seguir.
+
+I. Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas
+obras, transmissível aos herdeiros pelo tempo que a lei fixar.
+
+II. Assegura-se a proteção às participações individuais em obras coletivas e à reprodução da
+imagem e voz humanas.
+
+III. é garantido o direito de herança.
+
+Está correto o que se afirma em
+
+a) I, II e III.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+                                                                                                 86
+                                                                                                 96
+
+
+---
+
+e) III, apenas.
+
+10.​    (FGV/ENAM/2024) Em relação aos Direitos Fundamentais, analise as assertivas a seguir.
+
+I. Na Constituição brasileira, as matrizes dos direitos fundamentais são vida, liberdade,
+igualdade, segurança e propriedade.
+
+II. Direitos fundamentais constituem uma reserva mínima de justiça que as democracias devem
+assegurar a todos os seus cidadãos.
+
+III. Quando ocorre uma colisão de direitos fundamentais, a solução do problema não poderá se
+dar mediante subsunção, sendo necessário o uso da técnica da ponderação.
+
+Está correto o que se afirma em
+
+a) I, apenas.
+
+b) I e II, apenas.
+
+c) I e III, apenas.
+
+d) II e III, apenas.
+
+e) I, II e III.
+
+11.​ (FGV/CÂMARA DOS DEPUTADOS/Analista Legislativo - Consultor Legislativo/2024)
+Acerca dos direitos fundamentais e das liberdades individuais, é correto afirmar que
+
+a) é inviolável o sigilo da correspondência, das comunicações, dos dados pessoais e das
+comunicações telefônicas, salvo, havendo ordem judicial de acesso, nas hipóteses e na forma
+que a lei estabelecer para fins de investigação administrativa ou criminal.
+
+b) ninguém será privado de direitos por motivo de crença religiosa ou de convicção científica,
+salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir
+prestação fixada em lei ou judicialmente.
+
+c) é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos
+cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.
+
+d) é assegurado a todos o acesso à informação, independentemente do sigilo da fonte e do
+sigilo profissional.
+
+e) aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas
+obras, sendo o mesmo intransmissível aos seus herdeiros.
+
+12.​ (FGV/PM-SP/Soldado/2024) João, após estudar muitos anos no exterior, aprendeu a
+realizar um trabalho de grande relevância social, o que lhe permitia auferir uma boa renda. Ao
+
+                                                                                                87
+                                                                                                96
+
+
+---
+
+retornar ao território brasileiro, constatou, para sua surpresa, que não existia lei regulamentando
+o exercício dessa profissão.
+
+Ao consultar um especialista nessa temática, foi corretamente informado a João que
+
+(A) a ausência de lei impede o exercício da profissão.
+
+(B) a ausência de lei indica ser livre o exercício da profissão.
+
+(C) o trabalho é livre, logo, a lei não pode estabelecer qualquer requisito para o seu exercício.
+
+(D) é cabível a impetração de mandado de injunção para que lhe seja permitido o exercício da
+profissão.
+
+(E) é cabível a impetração de mandado de segurança para que lhe seja permitido o exercício da
+profissão.
+
+13.​ (FGV/TJ-AP/2024) O casal de lavradores, Maria e João, é proprietário de uma pequena
+propriedade rural. Apesar de não contar com empregados, a eficiência das técnicas utilizadas na
+propriedade não só permitia que suas necessidades de subsistência fossem atendidas como
+ainda possibilitava a comercialização do excedente. Em razão dos débitos decorrentes de sua
+atividade produtiva, o que ocorrera em razão de intempéries climáticas, tinha receio da
+possibilidade de sua propriedade ser penhorada.
+
+À luz dessa narrativa, é correto afirmar que a penhora:
+
+a) é possível, já que o débito decorreu da atividade produtiva;
+
+b) é possível, considerando que a produção não é destinada apenas à subsistência;
+
+c) não é possível, considerando a natureza e a dimensão da propriedade, bem como a mão de
+obra utilizada;
+
+d) não é possível, o que decorre apenas da natureza da propriedade, independentemente da
+natureza do débito;
+
+e) é possível, desde que a propriedade tenha dimensão superior à do módulo rural, devendo ser
+assegurada a purga da mora.
+
+14.​ (FGV/TJ-RJ/2024) Um grupo de pessoas, com padrões axiológicos semelhantes, decidiu
+constituir uma associação visando à realização dos objetivos que têm em comum. Por se tratar
+de um grupo muito zeloso, requereu autorização ao órgão competente do Município Delta para
+criar a referida associação. O requerimento, no entanto, foi denegado.
+
+À luz da Constituição da República, é correto afirmar que
+
+a) a autorização sequer deveria ter sido requerida, já que dispensada pela ordem constitucional.
+
+b) a denegação do requerimento formulado somente será lícita se forem apresentados os
+respectivos motivos.
+
+
+                                                                                                    88
+                                                                                                    96
+
+
+---
+
+c) somente se o órgão competente demonstrar a existência de interesse público será regular a
+denegação do requerimento.
+
+d) a autorização é ato administrativo discricionário, que pode ser, ou não, concedida, conforme o
+juízo de valor do órgão competente.
+
+e) tanto a autorização de criação como a dissolução compulsória da associação são atos
+vinculados do Município, caso sejam preenchidos os respectivos requisitos.
+
+15.​ (FGV/TJ SE/2023) Joana, residente no Município Alfa, decidiu atuar em uma profissão em
+relação à qual não havia regulamentação legal. Após dois anos de atuação, sobreveio a Lei
+federal nº X, que regulamentou a referida profissão e passou a exigir algumas qualificações
+profissionais para o seu exercício, qualificações estas que não eram atendidas por Joana.
+
+À luz dessa narrativa, é correto afirmar que Joana:​
+                                               ==8b9==
+
+a) exerceu regularmente a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, podendo continuar a exercê-la, considerando o
+direito adquirido ao regime jurídico anterior;
+
+b) não poderia exercer a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, também não podendo fazê-lo em momento
+posterior, por não preencher os requisitos exigidos;
+
+c) em momento anterior à edição da Lei federal nº X, exerceu a profissão de maneira lícita,
+considerando a ausência de disciplina legal, não podendo continuar a exercê-la após a
+superveniência desse diploma normativo, por não preencher os requisitos exigidos;
+
+d) não poderia exercer a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, mas poderia vir a exercê-la em momento posterior,
+pois o referido diploma normativo não pode retroagir para alterar a sua situação jurídica;
+
+e) exerceu regularmente a profissão em momento anterior à edição da Lei federal nº X,
+considerando a ausência de disciplina legal, podendo continuar a exercê-la em momento
+posterior, considerando a inconstitucionalidade do referido diploma normativo, pois a lei não
+pode restringir o trabalho.
+
+16.​ (FGV/DPE RS/2023) Na região mais pobre do Município Alfa, um caminhão desgovernado
+adentrou a residência de Ana, causando um grande desabamento no local.
+
+Ao constatar o ocorrido, Maria, vizinha de Ana, questionou sua filha a respeito da possibilidade
+de entrarem na casa para verificar se havia alguma pessoa ferida no local, sendo-lhe
+corretamente informado que o ingresso na residência, de acordo com a ordem constitucional: a)
+está condicionado à presença de duas testemunhas;
+
+b) somente seria possível com o consentimento de Ana;
+
+                                                                                              89
+                                                                                              96
+
+
+---
+
+c) poderia ocorrer, ainda que não houvesse o consentimento de Ana;
+
+d) poderia dispensar o consentimento de Ana, mas apenas se houvesse ordem judicial;
+
+e) poderia dispensar o consentimento de Ana, mas apenas se fosse feito por policiais civis ou
+militares.
+
+17.​ (FGV/RFB/2023) Um grupo de policiais alcançou a inferência lógica de que estariam sendo
+praticados crimes no interior de certa residência familiar. Esses policiais formaram o seu
+raciocínio a partir da constatação de que, de tempos em tempos, ali ingressavam pessoas que,
+pela sua aparência física e pelas roupas que utilizavam, muito provavelmente estariam envolvidas
+na prática de crimes. Por tal razão, decidiram ingressar no local, contra a vontade dos
+moradores, e ali encontraram centenas de quilos de substâncias entorpecentes de uso proibido.
+
+Considerando a sistemática constitucional, é correto afirmar que o ingresso na residência foi:
+
+a) ilícito, considerando a inexistência de ordem judicial e em razão da ausência de qualquer
+indício prévio de flagrante delito no local.
+
+b) lícito, embora inexistisse ordem judicial, o que decorria da situação de flagrante delito,
+podendo ter sido efetivado durante o dia ou durante a noite.
+
+c) ilícito, considerando que os policiais, em nenhuma hipótese, podem ingressar na residência
+alheia sem ordem judicial e contra a vontade dos moradores.
+
+d) lícito, embora inexistisse ordem judicial, o que decorria da situação de flagrante delito, cuja
+ocorrência deveria ser demonstrada em juízo em momento posterior.
+
+e) lícito, considerando que o flagrante delito legitima o ingresso na casa alheia ainda que sua
+descoberta seja fortuita, pois a sua existência excepciona a inviolabilidade do domicílio.
+
+18.​ (FGV/MPSP/2023) Pablo, cidadão espanhol, viveu durante alguns anos no território
+brasileiro, ocasião em que desenvolveu diversas atividades econômicas e adquiriu inúmeras
+obras de arte. Em determinado momento, por sugestão de sua família, decidiu retornar para a
+sua pátria.
+
+Muito cioso dos seus deveres, Pablo consultou seu advogado a respeito dos requisitos a serem
+observados, consoante a Constituição da República, para que pudesse sair do território nacional,
+sendo-lhe corretamente informado que
+
+a) pode sair do território nacional com seus bens, observados os balizamentos estabelecidos pela lei.
+
+                                                                                                 90
+                                                                                                 96
+
+
+---
+
+b) pode sair livremente do território nacional, mas deve apresentar justificativa para que possa levar
+os seus bens.
+
+c) depende de autorização da autoridade competente para que possa sair do território nacional e
+ainda levar os seus bens.
+
+d) como é estrangeiro, não sendo alcançado pelos direitos fundamentais, cabe apenas à lei dispor
+sobre a possibilidade, ou não, de sair com seus bens do território nacional.
+
+e) por expressa determinação constitucional, pode sair livremente do território nacional com seus
+bens, não sendo possível que a lei estabeleça qualquer condicionante.
+
+19.​ (FGV/TCE ES/2023) Após inúmeras audiências públicas realizadas na Assembleia
+Legislativa do Estado Alfa, um grupo de deputados estaduais apresentou projeto de lei, que veio
+a ser aprovado, dando origem à Lei nº XX. De acordo com esse diploma normativo, direcionado
+à proteção dos animais, era expressamente permitido o sacrifício ritual de animais em cultos de
+religiões de matriz africana. Irresignado com a permissão de sacrifício estabelecida na Lei nº XX,
+uma associação de proteção aos animais consultou um advogado a respeito de sua
+compatibilidade com a ordem constitucional, sendo-lhe corretamente respondido que o referido
+diploma normativo é:
+
+a) inconstitucional, pois afronta a competência privativa da União para legislar sobre a proteção
+da fauna;
+
+b) constitucional, pois resguarda a liberdade religiosa e o exercício de uma manifestação cultural;
+
+c) inconstitucional, pois afronta a laicidade do Estado, que não deve se imiscuir em questões
+religiosas;
+
+d) constitucional, pois a proteção constitucional é direcionada aos seres humanos, não aos
+animais;
+
+e) inconstitucional, pois é vedada a submissão dos animais a qualquer espécie de sofrimento.
+
+20.​ (FGV/SEFAZ-BA - 2022) João, cientista político brasileiro, é ferrenho defensor da forma de
+governo monárquica e das ideias do Partido Político Alfa, que defende essa forma de governo.
+Por tal razão, é infenso à organização das estruturas estatais de poder com base em ideais
+republicanos, especialmente em relação à forma de provimento dos cargos afetos à Chefia do
+Poder Executivo nas distintas esferas de governo. Ao ser editada a Lei federal nº XX, que impôs
+à generalidade dos adultos, excetuados aqueles que apresentassem algum óbice de ordem física
+ou psíquica, a obrigação de desempenhar determinada atividade de interesse público em um
+curto período de tempo, João redigiu um alentado manifesto e negou-se a cumprir a obrigação
+legal. Nessa situação, João agiu de modo
+
+a) lícito, mas deve cumprir a prestação alternativa que estiver fixada em lei.
+
+                                                                                                 91
+                                                                                                 96
+
+
+---
+
+b) ilícito, pois ninguém pode deixar de cumprir obrigação legal de caráter geral.
+
+c) lícito, pois ninguém pode ser compelido a exercer uma função pública contra a sua vontade.
+
+d) ilícito, pois apenas por motivo de crença religiosa poderia deixar de cumprir obrigação legal
+de caráter geral.
+
+e) lícito, pois a todos é assegurado o direito de não cumprir obrigação legal de caráter geral,
+desde que seja cumprida prestação alternativa fixada em regulamento.
+
+21.​ (FGV/TCU - 2022) XX, renomado escritor, decidiu elaborar uma ampla pesquisa a respeito
+da vida pessoal e profissional de conhecido político, o qual, além de estar vivo, concluíra há
+pouco o seu último mandato eletivo e resolvera se retirar da vida pública. Preocupado com as
+repercussões do livro que pretendia escrever, solicitou orientação de um advogado a respeito da
+necessidade, ou não, de obter a autorização do político ou, eventualmente, de seus familiares,
+caso ele viesse a falecer durante a elaboração da obra. O advogado respondeu, corretamente, à
+luz da sistemática constitucional, que:
+
+a) a autorização não é exigível, caso a publicação venha a ter caráter exclusivamente imparcial,
+sem críticas à pessoa e à obra do político;
+
+b) não dependerá de autorização do político ou mesmo de seus familiares, já que a liberdade de
+informação deve preponderar;
+
+c) somente dependerá de autorização caso o político esteja vivo quando da publicação, já que a
+intimidade é um direito personalíssimo;
+
+d) sempre dependerá de autorização, pois, como o político retirou-se da vida pública, a sua
+intimidade prepondera sobre o direito à informação;
+
+e) a autorização será exigida, ou não, conforme as características da obra, devendo ser
+sopesados os direitos à informação e à honra, observados os circunstancialismos do caso
+concreto.
+
+22.​ (FGV/CGU - 2022) Maria foi convocada, pelo poder público, para desempenhar
+determinada atividade de interesse coletivo prevista em lei, uma única vez, em determinado dia
+da semana. De posse do instrumento de convocação, compareceu à repartição e comunicou que
+não iria participar da referida atividade, que considerava injustificável à luz da razão humana,
+afrontando, com isso, a filosofia racionalista da qual era prosélita. À luz da sistemática
+constitucional, é correto afirmar que Maria agiu de maneira:
+
+a) lícita, mas deve cumprir prestação alternativa prevista em lei, sob pena de ter os direitos
+políticos suspensos em caso de recusa;
+
+b) lícita, mas somente se a lei prever uma prestação alternativa passível de ser cumprida, caso
+contrário, deve sofrer as sanções previstas em lei;
+
+c) ilícita, pois a objeção de consciência deve estar lastreada em crença religiosa, não em
+convicção filosófica, estando sujeita às sanções cominadas em lei;
+
+
+                                                                                                92
+                                                                                                96
+
+
+---
+
+d) lícita, desde que a lei que instituiu a obrigação preveja expressamente a faculdade de não ser
+cumprida, daí decorrendo a incidência das sanções cominadas;
+
+e) ilícita, pois a recusa em cumprir obrigação legal a todos imposta, em qualquer caso, afronta a
+isonomia, devendo ser privada de sua cidadania nas acepções ativa e passiva.
+
+23.​ (FGV/PC-RJ - 2022) Determinada associação, direcionada ao desenvolvimento psicossocial
+da pessoa e da família, foi objeto de muitas críticas no âmbito da Secretaria de Apoio Familiar
+do Estado-membro Alfa. Argumentava-se que diversas atividades desenvolvidas pela associação
+eram moralmente reprováveis, além de representarem apologia ao crime. Em razão desses fatos,
+a assessoria jurídica foi consultada a respeito da possibilidade de a associação ter suas atividades
+suspensas, sendo respondido, corretamente, que a suspensão alvitrada:
+
+a) somente seria possível após a condenação em processo administrativo;
+
+b) somente seria possível por decisão judicial, independentemente do trânsito em julgado;
+
+c) não seria possível, pois a liberdade de associação tem estatura constitucional;
+
+d) exige decisão transitada em julgado, quer seja proferida em processo administrativo, quer em
+processo judicial;
+
+e) exige o julgamento do ilícito em processo administrativo, requisito da ação judicial na qual a
+suspensão será requerida.
+
+24.​ (FGV/TJ-DFT - 2022) A Lei federal nº XX impôs a todos os cidadãos determinada
+obrigação de caráter cívico, a ser cumprida em certos períodos por aqueles que fossem
+sorteados. João, em razão de suas convicções políticas, decidiu que não iria cumprir a obrigação.
+À luz da sistemática constitucional, João:
+
+a) não poderá sofrer consequência desfavorável, por ter exercido plenamente a sua liberdade de
+consciência, que não pode ser afrontada pelo poder público, sob pena de violação à dignidade
+da pessoa humana;
+
+b) preservará o direito de votar, mas ficará inelegível, consequência que será afastada caso
+cumpra a prestação alternativa fixada em lei;
+
+c) deverá cumprir a prestação alternativa fixada em lei e, caso se recuse, terá a cidadania
+suspensa em suas acepções ativa e passiva;
+
+d) terá os direitos políticos suspensos, os quais serão restabelecidos caso cumpra a prestação
+alternativa fixada em lei;
+
+e) deverá cumprir a prestação alternativa fixada em lei e, caso se recuse, ficará inelegível.
+
+25.​ (FGV/TJ-DFT - 2022) Joana, jovem e renomada escritora de livros infantis, faleceu. O mais
+velho dos seus herdeiros, com 18 anos de idade, preocupado com a situação dos livros, que
+
+
+                                                                                                 93
+                                                                                                 96
+
+
+---
+
+geravam uma elevada renda para Joana, questionou um advogado a respeito da proteção
+constitucional oferecida a direitos dessa natureza. O advogado respondeu, corretamente, que o
+direito de utilização, publicação ou reprodução das obras de Joana pertence:
+
+a) de modo exclusivo e em caráter perpétuo, aos herdeiros;
+
+b) de modo exclusivo e pelo tempo que a lei fixar, aos herdeiros;
+
+c) ao poder público, não aos herdeiros, que têm assegurado o direito de participação nos lucros
+obtidos;
+
+d) ao público em geral, não aos herdeiros, que têm assegurado o direito de participação nos
+lucros obtidos;
+
+e) aos herdeiros, ao poder público e ao público em geral, assegurando-se aos primeiros o direito
+de participação nos lucros.
+
+26.​ (FGV/TCE-AM - 2021) Joana, motorista de ônibus profissional, foi notificada de que lhe
+fora imposta a pena de suspensão de habilitação para dirigir veículo automotor, isto em razão de
+sua condenação pela prática de homicídio culposo na condução de veículo dessa natureza.
+
+À luz da ordem constitucional vigente, a sanção aplicada a Joana é:
+
+a) inconstitucional, pois afronta o direito fundamental ao livre exercício profissional;
+
+b) inconstitucional, por se tratar de sanção política, que destoa da razão de ser de uma pena
+imposta em processo penal;
+
+c) inconstitucional, por destoar do princípio da proporcionalidade, considerando o bem tutelado
+e o bem restringido;
+
+d) constitucional, pois não há direito absoluto ao exercício de atividade profissional e se ajusta ao
+princípio de individualização da pena;
+
+e) constitucional, pois as sanções penais devem ser aplicadas a todos que pratiquem a conduta
+descrita no tipo penal, de modo igualitário, nos planos qualitativo e quantitativo.
+
+27.​ (FGV/PC-RJ - 2021) O grupo “Amigos da Diversidade” decidiu realizar manifestação
+pacífica na praça mais importante da Cidade Alfa, no último domingo do próximo mês. Após a
+tomada de decisão, surgiu uma dúvida, no âmbito da liderança, a respeito dos procedimentos a
+serem adotados. João, integrante do grupo e profundo conhecedor da ordem constitucional,
+explicou, corretamente, que a manifestação:
+
+a) é projeção do princípio democrático, não carecendo de prévio aviso a qualquer autoridade
+pública ou mesmo de autorização;
+
+b) pode ser realizada na praça, desde que o requerimento seja apresentado e deferido pela
+autoridade competente até trinta dias antes;
+
+                                                                                                  94
+                                                                                                  96
+
+
+---
+
+c) pode ser livremente realizada, mas em local privado, não na praça, isso sob pena de privar o
+restante da coletividade da fruição desse espaço;
+
+d) não depende de autorização de qualquer órgão público, sendo exigida apenas a realização de
+prévio aviso à autoridade competente;
+
+e) pode ser realizada na praça, desde que o uso seja autorizado pela autoridade competente,
+com o correlato pagamento da taxa de uso exclusivo, fixada em valores módicos.
+
+                                        GABARITO
+                                         1.​ LETRA C
+                                         2.​ LETRA B
+                                         3.​ LETRA C
+                                         4.​ LETRA C
+                                         5.​ LETRA E
+                                         6.​ LETRA C
+                                         7.​ LETRA C
+                                         8.​ LETRA B
+                                         9.​ LETRA A
+                                         10.​LETRA E
+                                         11.​LETRA C
+                                         12.​LETRA B
+                                         13.​LETRA C
+                                         14.​LETRA A
+                                         15.​LETRA C
+                                         16.​LETRA C
+                                         17.​LETRA A
+                                         18.​LETRA A
+                                         19.​LETRA B
+                                         20.​LETRA A
+                                         21.​LETRA B
+                                         22.​LETRA A
+                                         23.​LETRA B
+                                         24.​LETRA C
+                                         25.​LETRA B
+                                         26.​LETRA D
+                                         27.​LETRA D
+
+                                                                                             95
+                                                                                             96
+
+
+---

@@ -1,0 +1,923 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Fluência em Dados e Língua Inglesa
+tags:
+- dados
+- sql
+- nosql
+- big_data
+- ingles_fiscal
+arquivo_origem: Aula 07_015_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '07'
+titulo_aula: SPRINT DE QUESTÕES FGV - CGE SP
+---
+
+# SPRINT DE QUESTÕES FGV - CGE SP
+
+---
+
+---
+
+SPRINT DE QUESTÕES FGV - CGE SP
+
+                                              Prof. Adolfo de Sá
+                                                       @adolfo.sa.82
+
+         
+
+
+---
+
+     Read Text I and answer the questions that follow it:
+
+     Text I
+
+     Shock of the old: Believe it or not, battery-powered vehicles have been around since
+     Victorian times.
+
+     The history of the electric car is surprisingly enraging. If you imagine early electric
+     vehicles at all (full disclosure: I didn’t until recently), it will probably be as the quixotic
+     and possibly dangerous dream of a few eccentrics, maybe in the 1920s or 1930s, when
+     domestic electrification became widespread. It’s easy to imagine some stiff-collared
+     proto-Musk getting bored of hunting and affairs, eyeing his newly installed electric lights
+     speculatively, then wreaking untold havoc and mass electrocutions. The reality is
+     entirely different.
+
+Prof. Adolfo de Sá                    
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+     By 1900, a third of all cars on the road in the US were electric; we’re looking at the
+     history of a cruelly missed opportunity, and it started astonishingly early. The Scottish
+     engineer Robert Anderson had a go at an electric car of sorts way back in the 1830s,
+     though his invention was somewhat stymied by the fact rechargeable batteries were not
+     invented until 1859, making his crude carriage something of a one-trick pony (and far
+     less useful than an actual pony).
+
+     It’s debatable whether or not Scotland was ready for this brave new world anyway: in
+     1842, Robert Davidson (another Scot, who had, a few years earlier, also tried his hand at
+     an electric vehicle) saw his electric locomotive Galvani “broken by some malicious hands
+     almost beyond repair” in Perth. The contemporary consensus was that it was attacked
+     by railway workers fearful for their jobs.
+
+     Despite this unpromising start, electric vehicles had entered widespread commercial
+     circulation by the start of the 20th century, particularly in the US.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+     Electric cabs crisscrossed Manhattan, 1897’s bestselling US car was electric and, when he
+     was shot in 1901, President McKinley was taken to hospital in an electric ambulance.
+     London had Walter Bersey’s electric taxis, and Berlin’s fire engines went electric in 1908;
+     the future looked bright, clean and silent.
+
+     By the 1930s, however, the tide had definitively turned against electric, cursed by range
+     limitations and impractical charging times while petrol gained the upper hand thanks
+     partly – and ironically – to the electric starter motor. The Horseless Age magazine, which
+     vehemently backed the petrol non-horse, would have been delighted. There was a brief
+     resurgence of interest in the late 1960s, when the US Congress passed a bill promoting
+     electrical vehicle development, but nothing much actually happened until the Nissan
+     Leaf sparked interest in 2009. Electric still isn’t quite there yet, battling infrastructure
+     and battery problems that might have been familiar to Anderson and friends.
+     Adapted      from     The      Guardian,      Tuesday     24   October      2023,    p.    6
+     https://www.theguardian.com/lifeandstyle/series/shock-of-the-old/2023/oct/24/all
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+       4001751028
+
+     In “which vehemently backed” (5th paragraph) the verb is similar in meaning to:
+
+     a)              supported.
+     b)              hindered.
+     c)              resisted.
+     d)              limited.
+     e)              defied.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+     Electric cabs crisscrossed Manhattan, 1897’s bestselling US car was electric and, when he
+     was shot in 1901, President McKinley was taken to hospital in an electric ambulance.
+     London had Walter Bersey’s electric taxis, and Berlin’s fire engines went electric in 1908;
+     the future looked bright, clean and silent.
+
+     By the 1930s, however, the tide had definitively turned against electric, cursed by range
+     limitations and impractical charging times while petrol gained the upper hand thanks
+     partly – and ironically – to the electric starter motor. The Horseless Age magazine, which
+     vehemently backed the petrol non-horse, would have been delighted. There was a brief
+     resurgence of interest in the late 1960s, when the US Congress passed a bill promoting
+     electrical vehicle development, but nothing much actually happened until the Nissan
+     Leaf sparked interest in 2009. Electric still isn’t quite there yet, battling infrastructure
+     and battery problems that might have been familiar to Anderson and friends.
+     Adapted      from     The      Guardian,      Tuesday     24   October      2023,    p.    6
+     https://www.theguardian.com/lifeandstyle/series/shock-of-the-old/2023/oct/24/all
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751028
+
+     In “which vehemently backed” (5th paragraph) the verb is similar in meaning to:
+
+     a)              supported.
+     b)              hindered.
+     c)              resisted.
+     d)              limited.
+     e)              defied.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751027
+
+     The idiom in “the tide had definitively turned” (5th paragraph) implies that the course of
+     events had:
+
+     a)              shifted.
+     b)              stopped.
+     c)              hastened.
+     d)              increased.
+     e)              persevered.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751027
+
+     The idiom in “the tide had definitively turned” (5th paragraph) implies that the course of
+     events had:
+
+     a)              shifted.
+     b)              stopped.
+     c)              hastened.
+     d)              increased.
+     e)              persevered.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751026
+
+     In “Despite this unpromising start” (4th paragraph), the first word can be replaced by:
+
+     a)              Unless.
+     b)              Hardly.
+     c)              Whereas.
+     d)              Inasmuch.
+     e)              Notwithstanding.
+
+Prof. Adolfo de Sá                      
+
+
+---
+
+       4001751026
+
+     In “Despite this unpromising start” (4th paragraph), the first word can be replaced by:
+
+     a)              Unless.
+     b)              Hardly.
+     c)              Whereas.
+     d)              Inasmuch.
+     e)              Notwithstanding.
+
+Prof. Adolfo de Sá                      
+
+
+---
+
+       4001751025
+
+     The phrase “wreaking […] havoc” (1st paragraph) is similar in meaning to:
+
+     a)              stifling grief.
+     b)              feigning mirth.
+     c)              seeking respite.
+     d)              creating mayhem.
+     e)              enduring stillness.
+
+Prof. Adolfo de Sá                         
+
+
+---
+
+       4001751025
+
+     The phrase “wreaking […] havoc” [causar grandes destruições ou perturbações.] (1st
+     paragraph) is similar in meaning to:
+
+     a) stifling grief. – sufocando a dor.
+     b) feigning mirth. – fingindo alegria.
+     c) seeking respite. – buscando alívio.
+     d) creating mayhem. – criando caos.
+     e) enduring stillness. – suportando a imobilidade.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751025
+
+     The phrase “wreaking […] havoc” (1st paragraph) is similar in meaning to:
+
+     a)              stifling grief.
+     b)              feigning mirth.
+     c)              seeking respite.
+     d)              creating mayhem.
+     e)              enduring stillness.
+
+Prof. Adolfo de Sá                         
+
+
+---
+
+       4001751024
+
+     The last sentence indicates that some hurdles remain to be:
+
+     a)              raised.
+     b)              handled.
+     c)              loosened.
+     d)              contrived.
+     e)              overlooked.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751024
+
+     The last sentence indicates that some hurdles remain to be:
+
+
+     a) raised. – elevado/aumentado.
+     b) handled. – tratado.
+     c) loosened. – afrouxado.
+     d) contrived. – artificial/forjado.
+     e) overlooked. – ignorado.
+
+     Electric still isn’t quite there yet, battling infrastructure and battery problems that might
+     have been familiar to Anderson and friends.
+
+Prof. Adolfo de Sá                     
+
+
+---
+
+       4001751024
+
+     The last sentence indicates that some hurdles remain to be:
+
+     a)              raised.
+     b)              handled.
+     c)              loosened.
+     d)              contrived.
+     e)              overlooked.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751023
+
+     The author’s account discloses an evolution that can be understood as being:
+
+     a)              reckless.
+     b)              smooth.
+     c)              straight.
+     d)              erratic.
+     e)              sloppy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751023
+
+     The author’s account discloses an evolution that can be understood as being:
+
+     a) reckless. – temerário/imprudente.
+     b) smooth. – suave/liso.
+     c) straight. – reto/direto.
+     d) erratic. – errático/instável.
+     e) sloppy. – desleixado/descuidado.
+
+     Despite this unpromising start, electric vehicles had entered widespread commercial
+     circulation by the start of the 20th century, particularly in the US. Electric cabs
+     crisscrossed Manhattan, 1897’s bestselling US car was electric and, when he was shot in
+     1901, President McKinley was taken to hospital in an electric ambulance. London had
+     Walter Bersey’s electric taxis, and Berlin’s fire engines went electric in 1908; the future
+     looked bright, clean and silent.
+
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751023
+
+     The author’s account discloses an evolution that can be understood as being:
+
+     a)              reckless.
+     b)              smooth.
+     c)              straight.
+     d)              erratic.
+     e)              sloppy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751022
+
+     At the dawn of the 20th century in the United States of America, the use of electricity-
+     powered vehicles seemed to be:
+
+     a)              stalling.
+     b)              abating.
+     c)              dragging.
+     d)              slumping.
+     e)              blossoming.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751022
+
+     At the dawn of the 20th century in the United States of America, the use of electricity-
+     powered vehicles seemed to be:
+
+     a) stalling. – parando/estagnando.
+     b) abating. – diminuindo/reduzindo.
+     c) dragging. – arrastando.
+     d) slumping. – caindo/desmoronando.
+     e) blossoming. – florescendo.
+
+     Despite this unpromising start, electric vehicles had entered widespread commercial
+     circulation by the start of the 20th century, particularly in the US.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751022
+
+     At the dawn of the 20th century in the United States of America, the use of electricity-
+     powered vehicles seemed to be:
+
+     a)              stalling.
+     b)              abating.
+     c)              dragging.
+     d)              slumping.
+     e)              blossoming.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751021
+     Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+
+     ( ) The history of electric cars has been fraught with flawed assumptions.
+
+     ( ) Robert Anderson’s invention in the 1830s was triggered off by the launching of
+     rechargeable batteries.
+
+     ( ) The 19th century Scottish locomotive engineer is said to have quashed social
+     resistance.
+
+     The statements are, respectively,
+     a)       F – T – F.
+     b)       T – T – F.
+     c)       F – F – T.
+     d)       T – F – F.
+     e)       F – T – T.
+Prof. Adolfo de Sá                   
+
+
+---
+
+       4001751021
+
+
+     (T) The history of electric cars has been fraught with flawed assumptions. It’s easy to
+     imagine some stiff-collared proto-Musk getting bored of hunting and affairs, eyeing his
+     newly installed electric lights speculatively, then wreaking untold havoc and mass
+     electrocutions. The reality is entirely different.
+
+     (F) Robert Anderson’s invention in the 1830s was triggered off by the launching of
+     rechargeable batteries. The Scottish engineer Robert Anderson had a go at an electric car
+     of sorts way back in the 1830s, though his invention was somewhat stymied by the fact
+     rechargeable batteries were not invented until 1859
+
+     (F) The 19th century Scottish locomotive engineer is said to have quashed social
+     resistance. in 1842, Robert Davidson (...) saw his electric locomotive Galvani “broken by
+     some malicious hands almost beyond repair” in Perth. The contemporary consensus was
+     that it was attacked by railway workers fearful for their jobs.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+       4001751021
+     Based on the text, mark the statements below as TRUE (T) or FALSE (F).
+
+     ( ) The history of electric cars has been fraught with flawed assumptions.
+
+     ( ) Robert Anderson’s invention in the 1830s was triggered off by the launching of
+     rechargeable batteries.
+
+     ( ) The 19th century Scottish locomotive engineer is said to have quashed social
+     resistance.
+
+     The statements are, respectively,
+     a)       F – T – F.
+     b)       T – T – F.
+     c)       F – F – T.
+     d)       T – F – F.
+     e)       F – T – T.
+Prof. Adolfo de Sá                   
+
+
+---
+
+                        Artificial intelligence and the future of humanity
+
+          Thinking and learning about artificial intelligence are the mental equivalent of a
+    fission chain reaction. The questions get really big, really quickly.
+          The most familiar concerns revolve around short-term impacts: the opportunities for
+    economic productivity, health care, manufacturing, education, solving global challenges
+    such as climate change and, on the flip side, the risks of mass unemployment,
+    disinformation, killer robots, and concentrations of economic and strategic power.
+          Each of these is critical, but they’re only the most immediate considerations. The
+    deeper issue is our capacity to live meaningful, fulfilling lives in a world in which we no
+    longer have intelligence supremacy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+         As long as humanity has existed, we’ve had an effective monopoly on intelligence.
+    We have been, as far as we know, the smartest entities in the universe.
+         At its most noble, this extraordinary gift of our evolution drives us to explore,
+    discover and expand. Over the past roughly 50,000 years—accelerating 10,000 years ago
+    and then even more steeply from around 300 years ago—we’ve built a vast intellectual
+    empire made up of science, philosophy, theology, engineering, storytelling, art,
+    technology and culture.
+         If our civilisations—and in varying ways our individual lives—have meaning, it is
+    found in this constant exploration, discovery and intellectual expansion.
+
+Prof. Adolfo de Sá                
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+          Intelligence is the raw material for it all. But what happens when we’re no longer
+    the smartest beings in the universe? We haven’t yet achieved artificial general
+    intelligence (AGI)—the term for an AI that could do anything we can do. But there’s no
+    barrier in principle to doing so, and no reason it wouldn’t quickly outstrip us by orders of
+    magnitude.
+          Even if we solve the economic equality questions through something like a universal
+    basic income and replace notions of ‘paid work’ with ‘meaningful activity’, how are we
+    going to spend our lives in ways that we find meaningful, given that we’ve evolved to
+    strive and thrive and compete?
+
+    Adapted from https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-
+    humanity/
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+Prof. Adolfo de Sá   
+
+
+---
+
+    4001661827
+
+    The text ends in a note of
+
+    a)               outrage.
+    b)               appreciation.
+    c)               indebtedness.
+    d)               apprehension.
+    e)               encouragement.
+
+Prof. Adolfo de Sá                    
+
+
+---
+
+          Intelligence is the raw material for it all. But what happens when we’re no longer
+    the smartest beings in the universe? We haven’t yet achieved artificial general
+    intelligence (AGI)—the term for an AI that could do anything we can do. But there’s no
+    barrier in principle to doing so, and no reason it wouldn’t quickly outstrip us by orders of
+    magnitude.
+          Even if we solve the economic equality questions through something like a universal
+    basic income and replace notions of ‘paid work’ with ‘meaningful activity’, how are we
+    going to spend our lives in ways that we find meaningful, given that we’ve evolved to
+    strive and thrive and compete?
+
+    Adapted from https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-
+    humanity/
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+    4001661827
+
+    The text ends in a note of
+
+    a)               outrage.
+    b)               appreciation.
+    c)               indebtedness.
+    d)               apprehension.
+    e)               encouragement.
+
+Prof. Adolfo de Sá                    
+
+
+---
+
+    4001661823
+
+    The word “roughly” in “Over the past roughly 50,000 years” (5ᵗʰ paragraph)
+    indicates a(n)
+
+    a)               prevalence.
+    b)               estimation.
+    c)               exactness.
+    d)               manner.
+    e)               time.
+
+Prof. Adolfo de Sá                 
+
+
+---
+
+    4001661823
+
+    The word “roughly” in “Over the past roughly 50,000 years” (5ᵗʰ paragraph)
+    indicates a(n)
+
+    a)               prevalence.
+    b)               estimation.
+    c)               exactness.
+    d)               manner.
+    e)               time.
+
+Prof. Adolfo de Sá                 
+
+
+---
+
+    4001661818
+
+    According to the text, the word that “this extraordinary gift” (5ᵗʰ paragraph)
+    refers to is our
+
+    a)               world.
+    b)               universe.
+    c)               humanity.
+    d)               monopoly.
+    e)               intelligence.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+         As long as humanity has existed, we’ve had an effective monopoly on intelligence.
+    We have been, as far as we know, the smartest entities in the universe.
+         At its most noble, this extraordinary gift of our evolution drives us to explore,
+    discover and expand. Over the past roughly 50,000 years—accelerating 10,000 years ago
+    and then even more steeply from around 300 years ago—we’ve built a vast intellectual
+    empire made up of science, philosophy, theology, engineering, storytelling, art,
+    technology and culture.
+         If our civilisations—and in varying ways our individual lives—have meaning, it is
+    found in this constant exploration, discovery and intellectual expansion.
+
+Prof. Adolfo de Sá                
+
+
+---
+
+    4001661818
+
+    According to the text, the word that “this extraordinary gift” (5ᵗʰ paragraph)
+    refers to is our
+
+    a)               world.
+    b)               universe.
+    c)               humanity.
+    d)               monopoly.
+    e)               intelligence.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+    4001661814
+
+    The opposite of “the smartest” (4ᵗʰ paragraph) is
+
+    a)               the least naïve.
+    b)               the most clever.
+    c)               the most stupid.
+    d)               the least foolish.
+    e)               the most sensible.
+
+Prof. Adolfo de Sá                        
+
+
+---
+
+    4001661814
+
+    The opposite of “the smartest” (4ᵗʰ paragraph) is
+
+    a)               the least naïve.
+    b)               the most clever.
+    c)               the most stupid.
+    d)               the least foolish.
+    e)               the most sensible.
+
+Prof. Adolfo de Sá                        
+
+
+---
+
+    4001661809
+
+    In the second paragraph, “on the flip side” means
+
+    a)               on purpose.
+    b)               on principle.
+    c)               on behalf of.
+    d)               on no account.
+    e)               on the other hand.
+
+Prof. Adolfo de Sá                        
+
+
+---
+
+                        Artificial intelligence and the future of humanity
+
+          Thinking and learning about artificial intelligence are the mental equivalent of a
+    fission chain reaction. The questions get really big, really quickly.
+          The most familiar concerns revolve around short-term impacts: the opportunities for
+    economic productivity, health care, manufacturing, education, solving global challenges
+    such as climate change and, on the flip side, the risks of mass unemployment,
+    disinformation, killer robots, and concentrations of economic and strategic power.
+          Each of these is critical, but they’re only the most immediate considerations. The
+    deeper issue is our capacity to live meaningful, fulfilling lives in a world in which we no
+    longer have intelligence supremacy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+    4001661809
+
+    In the second paragraph, “on the flip side” means
+
+    a)               on purpose.
+    b)               on principle.
+    c)               on behalf of.
+    d)               on no account.
+    e)               on the other hand.
+
+Prof. Adolfo de Sá                        
+
+
+---
+
+    4001661804
+
+    The expression “such as” in “such as climate change” (2ⁿᵈ paragraph) can be
+    replaced without significant change in meaning by
+
+    a)               like.
+    b)               as to.
+    c)               mostly.
+    d)               except for.
+    e)               disregarding.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+                        Artificial intelligence and the future of humanity
+
+          Thinking and learning about artificial intelligence are the mental equivalent of a
+    fission chain reaction. The questions get really big, really quickly.
+          The most familiar concerns revolve around short-term impacts: the opportunities for
+    economic productivity, health care, manufacturing, education, solving global challenges
+    such as climate change and, on the flip side, the risks of mass unemployment,
+    disinformation, killer robots, and concentrations of economic and strategic power.
+          Each of these is critical, but they’re only the most immediate considerations. The
+    deeper issue is our capacity to live meaningful, fulfilling lives in a world in which we no
+    longer have intelligence supremacy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+    4001661804
+
+    The expression “such as” in “such as climate change” (2ⁿᵈ paragraph) can be
+    replaced without significant change in meaning by
+
+    a)               like.
+    b)               as to.
+    c)               mostly.
+    d)               except for.
+    e)               disregarding.
+
+Prof. Adolfo de Sá                   
+
+
+---
+
+    4001661796
+
+    The first sentence presents a
+
+    a)               consent.
+    b)               condition.
+    c)               complaint.
+    d)               comparison.
+    e)               compliment.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+                        Artificial intelligence and the future of humanity
+
+          Thinking and learning about artificial intelligence are the mental equivalent of a
+    fission chain reaction. The questions get really big, really quickly.
+          The most familiar concerns revolve around short-term impacts: the opportunities for
+    economic productivity, health care, manufacturing, education, solving global challenges
+    such as climate change and, on the flip side, the risks of mass unemployment,
+    disinformation, killer robots, and concentrations of economic and strategic power.
+          Each of these is critical, but they’re only the most immediate considerations. The
+    deeper issue is our capacity to live meaningful, fulfilling lives in a world in which we no
+    longer have intelligence supremacy.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+    4001661796
+
+    The first sentence presents a
+
+    a)               consent.
+    b)               condition.
+    c)               complaint.
+    d)               comparison.
+    e)               compliment.
+
+Prof. Adolfo de Sá                  
+
+
+---
+
+    4001661793
+
+    Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+    ( ) The author mentions the fact that AGI may supplant human faculties.
+    ( ) Ways in which we can lead meaningful lives are detailed.
+    ( ) AGI has already solved the problems of economic equality.
+    The statements are, respectively
+
+    a)               F – T – F.
+    b)               T – F – F.
+    c)               T – T – F.
+    d)               F – T – T.
+    e)               F – F – T.
+
+Prof. Adolfo de Sá                 
+
+
+---
+
+    4001661793
+      Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+      (T) The author mentions the fact that AGI may supplant human faculties.
+      We haven’t yet achieved artificial general intelligence (AGI)—the term for an AI that
+      could do anything we can do. But there’s no barrier in principle to doing so, and no
+      reason it wouldn’t quickly outstrip us by orders of magnitude.
+
+      (F) Ways in which we can lead meaningful lives are detailed.
+
+      The deeper issue is our capacity to live meaningful, fulfilling lives in a world in which we
+      no longer have intelligence supremacy.
+
+      (F) AGI has already solved the problems of economic equality.
+      Even if we solve the economic equality questions through something like a universal
+      basic income and replace notions of ‘paid work’ with ‘meaningful activity’, how are we
+      going to spend our lives in ways that we find meaningful, given that we’ve evolved to
+      strive and thrive and compete?
+Prof. Adolfo de Sá                    
+
+
+---
+
+    4001661793
+
+    Based on the text, mark the statements below as TRUE (T) or FALSE (F):
+    ( ) The author mentions the fact that AGI may supplant human faculties.
+    ( ) Ways in which we can lead meaningful lives are detailed.
+    ( ) AGI has already solved the problems of economic equality.
+    The statements are, respectively
+
+    a)               F – T – F.
+    b)               T – F – F.
+    c)               T – T – F.
+    d)               F – T – T.
+    e)               F – F – T.
+
+Prof. Adolfo de Sá                 
+
+
+---
+
+OBRIGADO
+                                         Prof. Adolfo de Sá
+                                                   @adolfo.sa.82
+
+    
+
+
+---
+
+---

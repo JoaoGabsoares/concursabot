@@ -1,0 +1,448 @@
+https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+TECNOLOGIA DA
+ INFORMAÇÃO
+                             Profa. Emannuelle Gouveia
+                             @Emannuellegouveia
+
+
+  https://t.me/KakashiAssinaturasBot
+OUTRAS SOLUÇÕES DE BIG
+        DATA
+
+                               Prof. Emannuelle Gouveia
+                               @Emannuelle Gouveia
+
+
+        https://t.me/KakashiAssinaturasBot
+Nifi
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+     O NiFi é uma aplicação criada para automatizar o fluxo de
+ dados entre os sistemas. Embora o termo fluxo de dados seja
+ usado em vários contextos, aqui ele tem o significado de
+ fluxo automatizado e gerenciado de informações entre
+ sistemas.
+     Essa gerência tem sido um problema desde que as
+ empresas tinham mais de um sistema, onde alguns dos
+ sistemas criavam dados e outros consumiam.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+     Os problemas e padrões de solução que surgiram foram
+ discutidos e articulados extensivamente.
+     Dentre os desafios de alto nível dos fluxos de dados,
+ podemos mencionar:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+     Atualmente temos uma série de movimentos ativos e em
+ rápida evolução, que estão tornando o fluxo de dados muito
+ mais interessante e vital para o sucesso de uma determinada
+ empresa como: Arquitetura Orientada a Serviços (SOA), a
+ ascensão das APIs, Internet das Coisas (IoT) e Big Data.
+     Observamos também que o nível de rigor necessário para
+ conformidade, privacidade e segurança está em constante
+ crescimento.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+    Mesmo com todos esses novos conceitos surgindo, os
+ padrões e necessidades de fluxo de dados ainda são
+ praticamente os mesmos e as principais diferenças são: o
+ escopo da complexidade, a taxa de mudança necessária para
+ se adaptar e que, em escala, o caso extremo se torna uma
+ ocorrência comum.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+        Vamos ver algumas características do Nifi:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+        A arquitetura do Nifi é composta basicamente de:
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Nifi
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+       O Solr é um servidor de pesquisa construído sobre o
+  Apache Lucene,        uma biblioteca de recuperação de
+  informações de software livre baseada em Java.
+      Ele foi projetado para conduzir aplicações poderosas de
+  recuperação de documentos, é baseado em padrões abertos
+  e altamente extensível.
+      As consultas Solr são URLs de solicitação HTTP simples e
+  a resposta é um documento estruturado: principalmente
+  JSON, mas também pode ser XML, CSV ou outros formatos, o
+  que significa uma ampla variedade de clientes podendo usar
+  o Solr como : outros aplicações da web a clientes de
+  navegador, aplicações rich client e dispositivos móveis.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+
+     Qualquer plataforma capaz de rodar HTTP pode se
+ comunicar com o Solr e configurações de esquema flexíveis
+ permitem que quase qualquer tipo de dados seja nele
+ armazenado.
+     Oferece suporte para a pesquisa de palavras-chave mais
+ simples até consultas complexas em vários campos e
+ resultados de pesquisa facetados.
+     A solução pode ser escalável, caso o volume de dados
+ seja muito grande, com o Solr Cluster Types
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+    O Solr permite que você crie um índice com muitos
+ campos diferentes ou tipos de entradas.
+    O esquema é o local onde você informa ao Solr como ele
+ deve criar índices a partir de documentos de entrada e a
+ unidade básica de informação do Solr é um documento, que é
+ um conjunto de dados que descreve algo.
+    Um documento sobre uma pessoa, por exemplo, pode
+ conter o nome da pessoa, biografia, cor favorita e tamanho
+ do sapato já um sobre um livro pode conter o título, autor,
+ ano de publicação, número de páginas e assim por diante.
+    No universo Solr, os documentos são compostos por
+ campos, que são essas informações mais específicas.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+       O tipo de campo especifica o tipo de dados armazenado
+   e como ele deve ser interpretado pela ferramenta.
+       Quando se adiciona um documento, o Solr pega as
+   informações nos campos e as adiciona a um índice e quando
+   uma consulta é feita, o Solr pode acessar rapidamente o
+   índice e retornar os documentos correspondentes.
+       A análise de campo informa ao Solr o que fazer com os
+   dados recebidos ao criar um índice e pode realizar
+   tratamento nos dados, e por fim, o Solr armazena detalhes
+   sobre os tipos de campos e campos que se espera entender
+   em um arquivo de esquema que é denominado managed-
+   schema.xml ou schema.xml.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+
+     A diferença é determinada por como você planeja
+ gerenciar o esquema do Solr em sua instalação:
+ programaticamente ou editando manualmente.
+     Um fato importante sobre o esquema é que ele é um
+ conceito Solr, mas os dados reais em seu índice são
+ armazenados em Lucene que não tem o conceito de um
+ esquema, ou seja, as alterações no arquivo de esquema não
+ terão nenhum impacto nos dados já armazenados no índice.
+     Na verdade, alterar o esquema sem reindexar seus dados
+ pode causar sérios problemas com o índice, a ponto de a
+ única solução ser reindexar totalmente seus dados.
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Solr
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+    O Apache Flink é uma estrutura e um mecanismo de
+ processamento distribuído para cálculos de estado em fluxos
+ de dados ilimitados e limitados.
+    Foi projetado para rodar em todos os ambientes de cluster
+ comuns, realizar cálculos na velocidade da memória e em
+ qualquer escala e os dados são produzidos como um fluxo de
+ eventos.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+      O controle preciso de tempo e estado permite que o
+  tempo de execução do Flink execute qualquer tipo de
+  aplicativo em fluxos ilimitados.
+        Fluxos limitados são processados internamente por
+  algoritmos e estruturas de dados que são projetados
+  especificamente para conjuntos de dados de tamanho fixo,
+  resultando em excelente desempenho.
+      Se integra a todos os gerenciadores de recursos de
+  cluster comuns, como Hadoop YARN e Kubernetes, mas
+  também pode ser configurado para ser executado como um
+  cluster autônomo.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+       O Flink foi projetado para funcionar bem em cada um dos
+   gerenciadores de recursos listados anteriormente, o que é
+   possível por modos de implantação específicos do
+   gerenciador de recursos que permitem que a interação ocorra
+   em sua maneira idiomática.
+       Ao implantar uma aplicação Flink, ele identifica
+   automaticamente os recursos necessários com base no
+   paralelismo configurado do aplicativo e os solicita do
+   gerenciador de recursos e em caso de falha, substitui o
+   contêiner com falha solicitando novos recursos.
+       Toda a comunicação para enviar ou controlar um
+   aplicativo ocorre por meio de chamadas REST o que facilita a
+Informática
+
+   integração do Flink em https://t.me/KakashiAssinaturasBot
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         muitos ambientes.
+Flink
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Flink
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+     O Apache Airflow é uma plataforma de código aberto para
+ desenvolver, agendar e monitorar fluxos de trabalho
+ orientados a lotes.
+     Sua estrutura Python extensível permite criar workflows
+ conectados a praticamente qualquer tecnologia e uma
+ interface web ajuda a gerenciar seus estados.
+     Ele pode ser implantado de várias maneiras, desde um
+ único processo no laptop a uma configuração distribuída para
+ suportar até mesmo os maiores fluxos de trabalho.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+    Os fluxos de trabalho como código servem a vários
+ propósitos:
+
+ ▪ Dinâmico: os pipelines do Airflow são configurados como
+ código Python, permitindo a geração dinâmica de pipelines;
+ ▪ Extensível: a estrutura do Airflow contém operadores para
+ conectar-se a várias tecnologias. Todos os componentes são
+ extensíveis para se ajustar facilmente ao seu ambiente;
+ ▪ Flexível: a parametrização do fluxo de trabalho é integrada,
+ aproveitando o mecanismo de modelagem Jinja.
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+     O Airflow é uma plataforma de orquestração de fluxo de
+ trabalho em lote. A estrutura do Airflow contém operadores
+ para se conectar com muitas tecnologias e é facilmente
+ extensível para se conectar com uma nova tecnologia. Se
+ seus fluxos de trabalho tiverem início e fim claros e forem
+ executados em intervalos regulares, eles poderão ser
+ programados como um Airflow DAG. Se você preferir codificar
+ a clicar, o Airflow é a ferramenta para você.
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+        Workflows são Código Python que:
+
+ ▪ podem ser armazenados no controle de versão para
+ permitir a reversão;
+ ▪   podem      ser   desenvolvidos    por    várias   pessoas
+ simultaneamente;
+ ▪ Testes podem ser escritos para validar a funcionalidade;
+ ▪ Componentes são extensíveis e se pode criar uma ampla
+ coleção deles.
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+     O agendamento avançado e a semântica de execução
+ permitem definir pipelines complexos executados em
+ intervalos regulares.
+     O preenchimento permite (re)executar pipelines em dados
+ históricos após fazer alterações em sua lógica.
+     E a capacidade de executar novamente pipelines parciais
+ após a resolução de um erro ajuda a maximizar a eficiência.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+    A interface de usuário fornece views detalhadas de
+ pipelines e tarefas individuais e uma visão ao longo do
+ tempo, nelle é possível inspecionar logs e gerenciar tarefas.
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+Airflow
+
+
+
+
+Informática
+Profa: Emannuelle Gouveia
+@Emannuelle Gouveia         https://t.me/KakashiAssinaturasBot
+OBRIGADA
+                               Prof. Emannuelle Gouveia
+                               @emannuellegouveia
+
+
+   https://t.me/KakashiAssinaturasBot
+https://t.me/KakashiAssinaturasBot
+

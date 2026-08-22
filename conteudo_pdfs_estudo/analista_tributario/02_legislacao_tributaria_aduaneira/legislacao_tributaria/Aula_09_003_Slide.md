@@ -1,0 +1,287 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 09_003_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: 09
+titulo_aula: IRPJ
+artigos_citados:
+- Art. 258.
+- Art. 259.
+- art. 16
+- art. 219
+- art. 56
+---
+
+# IRPJ
+
+IRPJ
+LUCRO REAL
+  PARTE 1
+
+                                     Prof. Fábio Dutra
+
+---
+
+IRPJ – Lucro Real
+    ❑ Regimes de Tributação do IRPJ:
+
+    ❑ Lucro Real
+
+    ❑ Lucro Presumido
+
+    ❑ Lucro Arbitrado
+
+    ❑ Simples Nacional
+
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ No regime de tributação pelo lucro real, a base de cálculo do IRPJ é o lucro líquido
+      ajustado pelas adições prescritas e pelas exclusões e compensações autorizadas
+      pela legislação do imposto sobre a renda.
+
+    ❑ No lucro real, como regra, o IRPJ é apurado trimestralmente: 31/03, 30/06, 30/09
+      e 31/12, ou anualmente, em 31/12.
+
+    ❑ Na apuração anual do lucro real, o contribuinte fica obrigado ao pagamento de
+      estimativas mensais.
+
+Legislação Tributária
+                                                                                     @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+QUESTÃO INÉDITA
+       A pessoa jurídica pode optar por apurar o imposto de renda em períodos trimestrais
+       ou, excepcionalmente, em período anual, se, neste caso, a tributação estiver sendo
+       efetuada com base no lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                          @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Lucro Real:
+
+    ❑ Dica para memorizar: “todos podem, alguns devem.”
+
+Legislação Tributária
+                                                                   @ProfFabioDutra
+Prof. Fábio Dutra
+                              
+
+
+---
+
+ATRFB/2012
+       Com relação à tributação da pessoa jurídica, pode-se afirmar que o contribuinte é
+       sempre obrigado à tributação com base no lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                          @ProfFabioDutra
+                                           
+
+
+---
+
+QUESTÃO INÉDITA
+       Uma microempresa ou empresa de pequeno porte pode optar pela
+       tributação do IRPJ com base no lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Estão obrigadas à apuração do lucro real as pessoas jurídicas:
+
+             I - cuja receita total no ano-calendário anterior seja superior ao limite de
+             R$ 78.000.000,00 (setenta e oito milhões de reais) ou proporcional ao
+             número de meses do período, quando inferior a 12 (doze) meses;
+
+Legislação Tributária
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Estão obrigadas à apuração do lucro real as pessoas jurídicas:
+
+             II - cujas atividades sejam de bancos comerciais, bancos de
+             investimentos, bancos de desenvolvimento, agências de fomento, caixas
+             econômicas, sociedades de crédito, financiamento e investimento,
+             sociedades de crédito imobiliário, sociedades corretoras de títulos,
+             valores mobiliários e câmbio, sociedades de crédito ao
+             microempreendedor e à empresa de pequeno porte, distribuidoras de
+             títulos e valores mobiliários, empresas de arrendamento mercantil,
+             cooperativas de crédito, empresas de seguros privados e de
+             capitalização e entidades abertas de previdência complementar;
+
+Legislação Tributária
+                                                                              @ProfFabioDutra
+Prof. Fábio Dutra
+                                   
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Estão obrigadas à apuração do lucro real as pessoas jurídicas:
+
+             III - que tiverem lucros, rendimentos ou ganhos de capital oriundos do
+             exterior;
+
+             IV - que, autorizadas pela legislação tributária, usufruam de benefícios
+             fiscais relativos à isenção ou redução do imposto sobre a renda;
+
+             V - que, no decorrer do ano-calendário, tenham efetuado pagamento
+             mensal pelo regime de estimativa, na forma do art. 219 do RIR;
+
+Legislação Tributária
+                                                                                 @ProfFabioDutra
+Prof. Fábio Dutra
+                                    
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Estão obrigadas à apuração do lucro real as pessoas jurídicas:
+
+             VI - que explorem as atividades de prestação cumulativa e contínua de
+             serviços de assessoria creditícia, mercadológica, gestão de crédito,
+             seleção e riscos, administração de contas a pagar e a receber, compras
+             de direitos creditórios resultantes de vendas mercantis a prazo ou de
+             prestação de serviços (factoring).
+
+             VII - que explorem as atividades de securitização de créditos imobiliários,
+             financeiros e do agronegócio.
+
+Legislação Tributária
+                                                                                    @ProfFabioDutra
+Prof. Fábio Dutra
+                                     
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Estão obrigadas à apuração do lucro real as pessoas jurídicas:
+
+             VIII - que tenham sido constituídas como sociedades de propósito
+             específico, formadas por microempresas e empresas de pequeno porte,
+             observado o disposto no art. 56 da LC 123/06;
+
+             IX - que emitam ações nos termos estabelecidos no art. 16 da nº Lei
+             13.043, de 2014;
+
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+QUESTÃO INÉDITA
+       A sociedade de propósito específico, constituída apenas de optantes do
+       SIMPLES Nacional, deve apurar o imposto de renda das pessoas jurídicas com
+       base no lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Correta                                        @ProfFabioDutra
+                                            
+
+
+---
+
+QUESTÃO INÉDITA
+       A pessoa jurídica cuja receita total no ano-calendário anterior seja superior a
+       R$ 48.000.000,00 deve apurar o imposto de renda das pessoas jurídicas com
+       base no lucro real.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                        @ProfFabioDutra
+                                           
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Conceito de Lucro Real:
+
+    ❑ Art. 258. Lucro real é o lucro líquido do período de apuração ajustado
+          pelas adições, exclusões ou compensações prescritas ou autorizadas por
+          este Regulamento.
+
+                         Lucro Líquido do Período de Apuração
+                         (+) Adições
+                         (-) Exclusões
+                         (-) Compensações
+                         (=) Lucro Real
+Legislação Tributária
+                                                                            @ProfFabioDutra
+Prof. Fábio Dutra
+                                 
+
+
+---
+
+IRPJ – Lucro Real
+    ❑ Conceito de Lucro Real:
+
+    ❑ Art. 259. O lucro líquido do período de apuração é a soma algébrica do
+          lucro operacional, das demais receitas e despesas, e das participações, e
+          deverá ser determinado em observância aos preceitos da lei comercial.
+
+               (+) Resultado Operacional Líquido (Lucro Operacional)
+               (+) Outras receitas - Outras despesas (Resultados Não
+               Operacionais)
+               (-) Despesa com Participações Estatutárias sobre o Lucro
+               (=) Lucro Líquido do Período de Apuração
+
+Legislação Tributária
+                                                                               @ProfFabioDutra
+Prof. Fábio Dutra
+                                  
+
+
+---
+
+QUESTÃO INÉDITA
+       O lucro real é o lucro líquido do exercício, sendo este o resultado do exercício
+       apurado contabilmente.
+
+Legislação Tributária
+Prof. Fábio Dutra       Gabarito: Errada                                         @ProfFabioDutra
+                                           
+
+
+---

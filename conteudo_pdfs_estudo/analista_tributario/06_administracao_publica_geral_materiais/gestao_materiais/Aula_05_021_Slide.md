@@ -1,0 +1,593 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Administração Geral, Pública, Financeira e Materiais
+tags:
+- administracao
+- afo
+- lrf
+- materiais
+- politicas_publicas
+arquivo_origem: Aula 05_021_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '05'
+titulo_aula: QUESTÕES COMENTADAS
+---
+
+# QUESTÕES COMENTADAS
+
+---
+
+---
+
+QUESTÕES COMENTADAS
+GESTÃO DE ESTOQUES
+BANCAS DIVERSAS - XV
+
+                                              Prof. Ricardo Campanario
+
+         
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/TCM-SP/Agente/2023) Para o alcance da maximização dos recursos, as
+     organizações devem tomar uma série de decisões relacionadas à administração de
+     materiais, que perpassam desde o processo de compras e recebimento, até a depreciação
+     e desfazimento dos bens. Evidentemente, a depender do tipo de materiais envolvidos, as
+     decisões serão distintas, acrescidas da análise dos impactos internos e externos do
+     processo de gestão. Considerando uma farmácia hospitalar municipal que deseja saber se
+     é vantajoso ou não estocar determinado item, cuja a demanda é sazonal e estimada,
+     assinale a alternativa que apresenta corretamente o método adequado para a tomada de
+     decisão.
+     a) Demanda Durante Lead Time.
+     b) Sistema duas gavetas.
+     c) FIFO – First in, First out.
+     d) LIFO – Last in, First out.
+     e) Lote Econômico de Compra.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Lote Econômico de Compras
+       Importante decorar a fórmula para a prova. Não tem jeito...
+       ❑ Dessa situação nascem os cenários abaixo, de cálculo de Lote Econômico de Compras, que precisamos conhecer.
+         Para este modelo é necessário assumir que:
+
+       ✓    A demanda é constante e conhecida.
+
+       ✓    A reposição é instantânea e ocorre imediatamente quando os estoques chegam ao nível zero.
+
+       ✓    Os custos com a preparação dos pedidos e com a armazenagem são conhecidos e constantes.
+
+                                                 LEC - Lote Econômico de Compras
+
+                 O LEC busca determinar qual é o lote ideal de compras, capaz de equilibrar os custos de
+                 armazenagem dos materiais com os custos do pedido, minimizando os custos totais. Lembre-se que
+                 os pedidos têm custos e uma das formas de diluir seus custos é fazê-los em volumes maiores. Veja a
+                 fórmula para cálculo do LEC.
+
+                                                     2 x Demanda x Custo do Pedido
+                                            LEC =
+                                                         Custo de Armazenagem
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                               
+
+
+---
+
+       Lote Econômico de Compras
+       Onde é possível minimizar os custos de estoque e de pedido
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     01. (VUNESP/TCM-SP/Agente/2023) Para o alcance da maximização dos recursos, as
+     organizações devem tomar uma série de decisões relacionadas à administração de
+     materiais, que perpassam desde o processo de compras e recebimento, até a depreciação
+     e desfazimento dos bens. Evidentemente, a depender do tipo de materiais envolvidos, as
+     decisões serão distintas, acrescidas da análise dos impactos internos e externos do
+     processo de gestão. Considerando uma farmácia hospitalar municipal que deseja saber se
+     é vantajoso ou não estocar determinado item, cuja a demanda é sazonal e estimada,
+     assinale a alternativa que apresenta corretamente o método adequado para a tomada de
+     decisão.
+     a) Demanda Durante Lead Time.
+     b) Sistema duas gavetas.
+     c) FIFO – First in, First out.
+     d) LIFO – Last in, First out.
+     e) Lote Econômico de Compra.
+     GABARITO - E
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Agente/2023) Considere as informações
+     sobre a movimentação de estoques do material XZ123, da empresa HJK, contidas na
+     planilha de controle de estoque apresentada a seguir para responder à questão. Em
+     27/12/2022 houve uma saída de 60 unidades. Tendo como referência o método LIFO ou
+     UEPS, o valor referente a tal saída é de:
+     a) R$ 7.000,00.
+     b) R$ 3.300,00.
+     c) R$ 7.800,00.
+     d) R$ 4.800,00.
+     e) R$ 6.000,00.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     02. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Agente/2023) Considere as informações
+     sobre a movimentação de estoques do material XZ123, da empresa HJK, contidas na
+     planilha de controle de estoque apresentada a seguir para responder à questão. Em
+     27/12/2022 houve uma saída de 60 unidades. Tendo como referência o método LIFO ou
+     UEPS, o valor referente a tal saída é de:
+     a) R$ 7.000,00.
+     b) R$ 3.300,00.
+     c) R$ 7.800,00.
+     d) R$ 4.800,00.
+     e) R$ 6.000,00.
+     GABARITO - C
+
+      Se o método utilizado é o UEPS, as 60 unidades que saíram em 27/12 fazem parte
+      do lote adquirido também em 27/12 (o último a entrar). Como em 27/12 80
+      unidades foram adquiridas, as 60 que saíram em 27/12 saem desse lote, todas a
+      $130, totalizando $7.800 (60 x $130).
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Agente/2023) Considere as informações
+     sobre a movimentação de estoques do material XZ123, da empresa HJK, contidas na
+     planilha de controle de estoque apresentada a seguir para responder à questão. Em
+     13/12/2022 houve uma saída de 100 unidades. Tendo como referência o método FIFO ou
+     PEPS, o valor referente a tal saída é de:
+     a) R$ 10.000,00.
+     b) R$ 7.500,00.
+     c) R$ 9.000,00.
+     d) R$ 8.000,00.
+     e) R$ 6.500,00.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     03. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Agente/2023) Considere as informações
+     sobre a movimentação de estoques do material XZ123, da empresa HJK, contidas na
+     planilha de controle de estoque apresentada a seguir para responder à questão. Em
+     13/12/2022 houve uma saída de 100 unidades. Tendo como referência o método FIFO ou
+     PEPS, o valor referente a tal saída é de:
+     a) R$ 10.000,00.
+     b) R$ 7.500,00.
+     c) R$ 9.000,00.
+     d) R$ 8.000,00.
+     e) R$ 6.500,00.
+     GABARITO - E
+
+
+                                            Se o método utilizado é o PEPS, as 100 unidades que saíram em 13/12 fazem parte do
+                                            primeiro e do segundo lotes adquiridos (em 03 e 07/12, respectivamente). Assim, em 13/12
+                                            temos a saída das 50 unidades adquiridas em 03/12 a $50, totalizando $2.500 (50 x $50) e
+                                            mais 50 unidades adquiridas em 7/12 a $80, totalizando $4.000 (50 x $80). Dessa forma o
+Administração de Materiais para Concursos   valor total das saídas é de $6.500 ($2.500+$4.000).
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) O princípio básico para a técnica de
+     armazenagem conhecida como LIFO ou UEPS considera que o:
+     a) primeiro item que entra será o último a ser utilizado.
+     b) primeiro item que entra será o primeiro a ser utilizado.
+     c) último item a ser estocado será o último a ser liberado.
+     d) último item que entra será o primeiro a sair.
+     e) primeiro item a expirar será o primeiro a sair.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Métodos de Avaliação dos Estoques
+       Controle gerencial, tanto físico como financeiro
+
+       ❑ CUSTO MÉDIO: Esta é a forma mais frequente de avaliação. Toma por base o preço de todas as
+         retiradas, ao preço médio do suprimento total do item em estoque. O método age como um
+         grande estabilizador pois equilibra as flutuações de preços além de, no longo prazo, refletir os
+         custos reais das compras do material.
+
+       ❑ PEPS: "Primeiro a Entrar, Primeiro a Sair" ou "First In, First Out". Baseia-se na ordem cronológica
+         das entradas. Sai do armazém em primeiro lugar justamente aquele material que entrou primeiro
+         lugar, tendo dessa forma o seu custo real aplicado no cálculo.
+
+       ❑ UEPS: "Último a Entrar, Primeiro a Sair" ou "Last In, First Out". Contrário do PEPS/FIFO.
+         Considera-se que devem em primeiro lugar sair os itens que deram entrada no estoque mais
+         recentemente, ou seja, os último que entraram. Isso faz com que o saldo seja sempre avaliado ao
+         preço das últimas entradas, o que eleva o seu valor, sendo por isso o método indicado para
+         períodos inflacionários.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     04. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) O princípio básico para a técnica de
+     armazenagem conhecida como LIFO ou UEPS considera que o:
+     a) primeiro item que entra será o último a ser utilizado.
+     b) primeiro item que entra será o primeiro a ser utilizado.
+     c) último item a ser estocado será o último a ser liberado.
+     d) último item que entra será o primeiro a sair.
+     e) primeiro item a expirar será o primeiro a sair.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) Entre os documentos usados no
+     almoxarifado para o atendimento das diversas rotinas de trabalho, a ficha de controle de
+     estoque é utilizada para:
+     a) registrar as quantidades de material devolvidas ao estoque, que, porventura, foram
+     requisitadas além do necessário.
+     b) organizar e detalhar o estoque, por meio da anotação das quantidades de entradas e
+     saídas de produtos.
+     c) indicar através de códigos, o local em que o material que deu entrada no estoque está
+     armazenado.
+     d) controlar, sob o aspecto qualitativo e quantitativo, o aceite ou a recusa do material
+     que foi adquirido pela organização.
+     e) implementar o controle provisório do estoque, assim como, o custo dos produtos que
+     deram entrada no estoque.
+
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Ficha de Controle de Estoque
+       Principais informações trazidas
+       ❑ Já de acordo com Idalberto Chiavenato, em geral a ficha de estoques deve conter as seguintes
+         informações sobre os materiais (não é uma lista exaustiva):
+
+       •      Identificação do item: nome, código, descrição, unidade de medida, tipo de utilização.
+       •      Controle do item: estoque mínimo, lote econômico, demanda, dias de espera para recebimento,
+              fornecedores, %s de perda ou rejeição.
+       •      Entrada de materiais: recebimentos em quantidade, preço do lote, valor monetário do lote.
+       •      Saídas de materiais: saídas de materiais em quantidade, preço do lote, valor monetário do lote.
+       •      Saldo em estoque: saldo do estoque, saldo disponível (em estoque + encomendado e não recebido),
+              saldo das encomendas (a receber), saldo das reservas (requisitados mas não retirados do estoque).
+       •      Valor do saldo em estoque: custo de cada lote, custo unitário médio, custo de cada saída, valor
+              monetário do saldo em estoque.
+       •      Rotação do estoque: soma das entradas, soma das saídas, porcentagem de entradas sobre as saídas.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                                
+
+
+---
+
+       Questão Comentada
+     05. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) Entre os documentos usados no
+     almoxarifado para o atendimento das diversas rotinas de trabalho, a ficha de controle de
+     estoque é utilizada para:
+     a) registrar as quantidades de material devolvidas ao estoque, que, porventura, foram
+     requisitadas além do necessário.
+     b) organizar e detalhar o estoque, por meio da anotação das quantidades de entradas e
+     saídas de produtos.
+     c) indicar através de códigos, o local em que o material que deu entrada no estoque está
+     armazenado.
+     d) controlar, sob o aspecto qualitativo e quantitativo, o aceite ou a recusa do material
+     que foi adquirido pela organização.
+     e) implementar o controle provisório do estoque, assim como, o custo dos produtos que
+     deram entrada no estoque.
+     GABARITO - B
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/DPE-SP/Agente/2023) O método de controle de materiais, no qual o último
+     material estocado é o primeiro a ser utilizado, é conhecido como método:
+     a) de Pareto.
+     b) fifo.
+     c) lifo.
+     d) pragmático.
+     e) de ordenação primária.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Métodos de Avaliação dos Estoques
+       Controle gerencial, tanto físico como financeiro
+
+       ❑ CUSTO MÉDIO: Esta é a forma mais frequente de avaliação. Toma por base o preço de todas as
+         retiradas, ao preço médio do suprimento total do item em estoque. O método age como um
+         grande estabilizador pois equilibra as flutuações de preços além de, no longo prazo, refletir os
+         custos reais das compras do material.
+
+       ❑ PEPS: "Primeiro a Entrar, Primeiro a Sair" ou "First In, First Out". Baseia-se na ordem cronológica
+         das entradas. Sai do armazém em primeiro lugar justamente aquele material que entrou primeiro
+         lugar, tendo dessa forma o seu custo real aplicado no cálculo.
+
+       ❑ UEPS: "Último a Entrar, Primeiro a Sair" ou "Last In, First Out". Contrário do PEPS/FIFO.
+         Considera-se que devem em primeiro lugar sair os itens que deram entrada no estoque mais
+         recentemente, ou seja, os último que entraram. Isso faz com que o saldo seja sempre avaliado ao
+         preço das últimas entradas, o que eleva o seu valor, sendo por isso o método indicado para
+         períodos inflacionários.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     06. (VUNESP/DPE-SP/Agente/2023) O método de controle de materiais, no qual o último
+     material estocado é o primeiro a ser utilizado, é conhecido como método:
+     a) de Pareto.
+     b) fifo.
+     c) lifo.
+     d) pragmático.
+     e) de ordenação primária.
+     GABARITO - C
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) O tipo de inventário por meio do
+     qual as empresas fazem um controle da mercadoria em seu armazém para verificar a
+     quantidade de produtos armazenados, sendo realizado ao final de um período
+     determinado, é o:
+     a) cíclico.
+     b) periódico.
+     c) anual.
+     d) rotativo.
+     e) geral.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     07. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) O tipo de inventário por meio do
+     qual as empresas fazem um controle da mercadoria em seu armazém para verificar a
+     quantidade de produtos armazenados, sendo realizado ao final de um período
+     determinado, é o:
+     a) cíclico.
+     b) periódico.
+     c) anual.
+     d) rotativo.
+     e) geral.
+     GABARITO - B
+
+       É no inventário periódico que as empresas, de tempos em tempos (ou em
+       período determinado), verificam e controlam a mercadoria em seu armazém
+       para verificar a quantidade de produtos armazenados.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Almoxarife/2023) A seguir são expostas algumas asserções em relação ao
+     inventário de estoque. Assinale a correta.
+     a) O inventário físico de estoque é o processo de contagem física das mercadorias que a empresa possui para que,
+     após essa contagem, seja feita uma comparação entre a quantidade dos produtos existentes na empresa e a
+     quantidade cadastrada no sistema de controle de estoque utilizado.
+     b) A principal desvantagem do inventário cíclico é o espaço de tempo entre um inventário e outro, o que contribui para
+     aumentar a ocorrência de divergência entre o estoque real e o sistema de controle de estoque interno.
+     c) As organizações que realizam o inventário geral de estoque conseguem identificar mais facilmente os motivos de
+     divergências, conseguindo corrigi-las com mais rapidez, além da redução de tempo para sua realização.
+     d) Um dos objetivos do inventário físico de estoque é assegurar um menor controle dos produtos, analisando os
+     registros já existentes e a quantidade real de itens, o que irá contribuir quando da necessidade de uma auditoria da
+     situação do estoque.
+     e) O inventário rotativo de estoque é um sistema de recontagem intermitente de materiais, utilizados pelas
+     organizações que não realizam grandes movimentações de estoque ou que realizam reposições elevadas de produtos
+     em conjunto com os fornecedores.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     08. (VUNESP/Pref. Mun. Pindamonhangaba-SP/Almoxarife/2023) A seguir são expostas algumas asserções em relação ao
+     inventário de estoque. Assinale a correta.
+     a) O inventário físico de estoque é o processo de contagem física das mercadorias que a empresa possui para que,
+     após essa contagem, seja feita uma comparação entre a quantidade dos produtos existentes na empresa e a
+     quantidade cadastrada no sistema de controle de estoque utilizado.
+     b) A principal desvantagem do inventário cíclico é o espaço de tempo entre um inventário e outro, o que contribui para
+     aumentar a ocorrência de divergência entre o estoque real e o sistema de controle de estoque interno.
+     c) As organizações que realizam o inventário geral de estoque conseguem identificar mais facilmente os motivos de
+     divergências, conseguindo corrigi-las com mais rapidez, além da redução de tempo para sua realização.
+     d) Um dos objetivos do inventário físico de estoque é assegurar um menor controle dos produtos, analisando os
+     registros já existentes e a quantidade real de itens, o que irá contribuir quando da necessidade de uma auditoria da
+     situação do estoque.
+     e) O inventário rotativo de estoque é um sistema de recontagem intermitente de materiais, utilizados pelas
+     organizações que não realizam grandes movimentações de estoque ou que realizam reposições elevadas de produtos
+     em conjunto com os fornecedores.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                              
+
+
+---
+
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) A contagem cíclica permite dividir os itens que
+     serão contados em grupos de acordo com seu valor e prioridade em sua operação geral, o que
+     contribui para obter dados mais consistentes e menos perdas porque:
+     a) a demanda de trabalho é maior e constante, requerendo mão de obra menos especializada.
+     b) oferece uma visão parcial, porém mais precisa e atualizada do estoque anual de matéria-prima.
+     c) reduz os custos relativos ao armazenamento, devido à contagem dos itens ocorrer em intervalos
+     irregulares.
+     d) não há espaço para que as discrepâncias se acumulem com o tempo e saiam do controle.
+     e) o critério principal para estabelecer os grupos de referências a serem contados é a taxa de
+     rotatividade.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Tipos de Inventário
+       Anual/Geral x Rotativo/Eventual
+       ✓ Anual ou Geral (chamado também de balanço geral): processo longo, geralmente
+         efetuado uma vez ao ano e no qual todos os itens são contados de uma única vez. Em
+         seguida são efetuadas as comparações com os sistemas gerenciais e contábeis da
+         organização.
+       ✓ Rotativo (ou Cíclico): nesta modalidade alguns itens (os mais significativos, que
+         representam os maiores valores de estoque e são estratégicos e imprescindíveis para
+         a produção) são inventariados mais de uma vez por ano ou sempre que necessário.
+         Não exigem a completa paralização da área inventariada.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     09. (VUNESP/Pref. Mun. Peruíbe-SP/Almoxarife/2023) A contagem cíclica permite dividir os itens que
+     serão contados em grupos de acordo com seu valor e prioridade em sua operação geral, o que
+     contribui para obter dados mais consistentes e menos perdas porque:
+     a) a demanda de trabalho é maior e constante, requerendo mão de obra menos especializada.
+     b) oferece uma visão parcial, porém mais precisa e atualizada do estoque anual de matéria-prima.
+     c) reduz os custos relativos ao armazenamento, devido à contagem dos itens ocorrer em intervalos
+     irregulares.
+     d) não há espaço para que as discrepâncias se acumulem com o tempo e saiam do controle.
+     e) o critério principal para estabelecer os grupos de referências a serem contados é a taxa de
+     rotatividade.
+     GABARITO - D
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (VUNESP/Pref. Mun. Peruíbe-SP/Agente/2023) Para que se efetive uma economia de suprimentos, é
+     importante:
+     a) ter um eficiente controle de estoques, de forma a prever necessidades, programar compras e o
+     tempo de abastecimento por parte dos fornecedores.
+     b) implementar IoT (internet das coisas), visto que estoques descentralizados são de menor custeio
+     para as organizações.
+     c) manter continuamente acompanhamento de preços de mercado, de forma a estimar valores de
+     compras e aproveitar oportunidades.
+     d) praticar continuamente análises, feitas por métricas e sistemas informatizados, que verifiquem reais
+     demandas e a logística a ser aplicada aos itens de compra.
+     e) facilitar o trabalho home work com a economia de tempo e recursos e o aprendizado de técnicas
+     modernas de liderança.
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+       Questão Comentada
+     10. (VUNESP/Pref. Mun. Peruíbe-SP/Agente/2023) Para que se efetive uma economia de suprimentos, é
+     importante:
+     a) ter um eficiente controle de estoques, de forma a prever necessidades, programar compras e o
+     tempo de abastecimento por parte dos fornecedores.
+     b) implementar IoT (internet das coisas), visto que estoques descentralizados são de menor custeio
+     para as organizações.
+     c) manter continuamente acompanhamento de preços de mercado, de forma a estimar valores de
+     compras e aproveitar oportunidades.
+     d) praticar continuamente análises, feitas por métricas e sistemas informatizados, que verifiquem reais
+     demandas e a logística a ser aplicada aos itens de compra.
+     e) facilitar o trabalho home work com a economia de tempo e recursos e o aprendizado de técnicas
+     modernas de liderança.
+     GABARITO - A
+
+Administração de Materiais para Concursos
+Prof. Ricardo Campanario
+                                            
+
+
+---
+
+OBRIGADO
+Prof. Ricardo Campanario
+
+
+                                                        Prof. Ricardo Campanario
+
+       ricardocampanario
+                   
+
+
+---
+
+---

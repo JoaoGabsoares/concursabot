@@ -1,0 +1,114 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Língua Portuguesa e Provas Discursivas
+tags:
+- portugues
+- fgv
+- gramatica
+- interpretacao
+- redacao_discursiva
+arquivo_origem: Aula 16_001_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '16'
+titulo_aula: VARIAÇÃO LINGUÍSTICA
+---
+
+# VARIAÇÃO LINGUÍSTICA
+
+VARIAÇÃO LINGUÍSTICA
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+                         Variação Linguística: O que é
+        É um fenômeno que acontece com a língua e pode ser compreendida por
+ intermédio das variações históricas e regionais. Em um mesmo país, com um
+ único idioma oficial, a língua pode sofrer diversas alterações feitas por seus
+ falantes. Como não é um sistema fechado e imutável, a língua portuguesa ganha
+ diferentes nuances. O português que é falado no Nordeste do Brasil pode ser
+ diferente do português falado no Sul do país.
+
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+                Preconceito Linguístico (uma explicação do que seria)
+        Preconceito linguístico é uma forma de discriminação social que consiste em
+ julgar o indivíduo pela forma como ele se comunica, seja oralmente, seja por
+ escrito. O parâmetro desse julgamento é a chamada norma culta: quanto mais
+ distante dela, mais criticado (e rebaixado) é o falante.
+
+Profª Adriana Figueiredo
+                                    
+
+
+---
+
+                         Tipos de Variação Linguística
+ 1. Variação geográfica ou diatópica
+ Está relacionada ao espaço físico em que é desenvolvida. Essa diferença pode ser
+ de fala ou vocabular.
+ Ex.: macaxeira / mandioca / aipim (vocabular)
+          arreda o pé daqui / se afasta daqui ( de fala)
+ 2. Variação histórica ou diacrônica
+ A variação histórica ou diacrônica ocorre com o desenvolvimento da história, tal
+ como o português medieval e o atual.
+ Ex.: encontrá-lo-ia (caiu em desuso- linguagem diacrônica)
+
+Profª Adriana Figueiredo
+                                       
+
+
+---
+
+                          Tipos de Variação Linguística
+ 3. Variação social ou diastrática
+ É percebida segundo os grupos (ou classes) sociais envolvidos.
+ Ex.: linguagem técnica usada por um advogado com uma pessoa de pouca
+ instrução.
+ 4. Variação situacional ou diafásica
+ A variação situacional ou diafásica são os usos distintos que o indivíduo faz da
+ língua de acordo com a situação / contexto em que ele se encontra. Por exemplo,
+ situações formais e informais.
+ Ex.: ambiente acadêmico (uso mais formal da língua) x conversa entre amigos
+ (conversa mais informal - uso de gírias, por exemplo)
+Profª Adriana Figueiredo
+                                  
+
+
+---
+
+EXERCÍCIOS DE FIXAÇÃO
+                                            Profª. Adriana Figueiredo
+
+       
+
+
+---
+
+Identifique o tipo de variação linguística das frases abaixo.
+ 1.Que belos movimentos elípticos fazem essa onda . Pegá-las-emos agora.
+
+ 2.De acordo com o laudo, você está com um processo de intumescência
+
+ resultante de uma lesão inflamatória e necrose subcutânea.
+
+ 3.Minha apresentação flopou.
+
+ 4.Vossa mercê merece todo meu respeito.
+
+ 5. Não vejo pobrema algum nessa fala.
+
+ 6.Comi bolachas no café da manhã.
+
+Profª Adriana Figueiredo
+                                
+
+
+---

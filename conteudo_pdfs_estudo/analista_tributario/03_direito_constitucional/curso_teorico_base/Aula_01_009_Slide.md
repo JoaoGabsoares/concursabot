@@ -1,0 +1,269 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Direito Constitucional
+tags:
+- constitucional
+- cf88
+- direitos_fundamentais
+- controle_constitucionalidade
+arquivo_origem: Aula 01_009_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: DIREITO CONSTITUCIONAL
+artigos_citados:
+- Art. 13.
+- Art. 4º.
+- Art. 5º
+- art. 16
+---
+
+# DIREITO CONSTITUCIONAL
+
+DIREITO CONSTITUCIONAL
+
+                                           Profª. Nelma Fontana
+
+      
+
+
+---
+
+ Professora Nelma
+     Fontana
+
+                @nelmafontana
+
+---
+
+Constituição Federal de 1988
+
+       
+
+
+---
+
+Estrutura da Constituição Federal de 1988
+
+a) Preâmbulo
+b) Parte dogmática
+
+      Título I - Princípios Fundamentais
+      Título II - Direitos e Garantias Fundamentais
+      Título III - Organização do Estado
+      Título IV - Organização dos Poderes
+      Título V - Defesa do Estado e das Instituições
+      Título VI - Tributação e Orçamento
+      Título VII - Ordem Econômica e Financeira
+      Título VIII - Ordem Social
+      Título IX - Disposições Gerais
+                             
+
+
+---
+
+                                 TÍTULO II
+                 DOS DIREITOS E GARANTIAS FUNDAMENTAIS
+
+                               CAPÍTULO I
+             DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
+
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza,
+garantindo-se aos brasileiros e aos estrangeiros residentes no País a
+inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+propriedade, nos termos seguintes:
+I - homens e mulheres são iguais em direitos e obrigações, nos termos desta
+Constituição;
+(...)
+
+                           
+
+
+---
+
+XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
+a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra
+ilegalidade ou abuso de poder;
+b) a obtenção de certidões em repartições públicas, para defesa de direitos e
+esclarecimento de situações de interesse pessoal;
+
+(...)
+
+§ 1º As normas definidoras dos direitos e garantias fundamentais têm aplicação
+imediata.
+
+§ 2º Os direitos e garantias expressos nesta Constituição não excluem outros
+decorrentes do regime e dos princípios por ela adotados, ou dos tratados
+internacionais em que a República Federativa do Brasil seja parte.
+                            
+
+
+---
+
+---
+
+Preâmbulo
+
+Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional
+Constituinte para instituir um Estado Democrático, destinado a assegurar o
+exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar,
+o desenvolvimento, a igualdade e a justiça como valores supremos de uma
+sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e
+comprometida, na ordem interna e internacional, com a solução pacífica das
+controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO
+DA REPÚBLICA FEDERATIVA DO BRASIL.
+
+                              
+
+
+---
+
+---
+
+1. (2023/CESPE/CEBRASPE/TJ-ES/Analista Judiciário) As normas da CF alusivas aos
+direitos fundamentais, assim como as normas do preâmbulo do texto
+constitucional, são preceitos de reprodução obrigatória nas Constituições
+estaduais.
+
+                            
+
+
+---
+
+2. (2022/FCM/FAMES/Técnico de Nível Superior) Sobre o preâmbulo da
+Constituição de 1988, é correto afirmar que (,)
+A) a invocação da proteção de Deus contida no preâmbulo da Constituição de
+1988 tem força normativa.
+B) a invocação a Deus no preâmbulo da Constituição de 1988 é norma de
+reprodução obrigatória nas constituições estaduais.
+C) segundo o Supremo Tribunal Federal, a invocação a Deus, presente no
+preâmbulo, reflete um sentimento religioso e por isso o Brasil não pode ser
+classificado como o Estado laico.
+D) o preâmbulo tem status de direito fundamental.
+E) o preâmbulo não é norma central da Constituição e por isso não é de
+reprodução obrigatória nas constituições estaduais.
+
+
+                           
+
+
+---
+
+3. (2022/INSTITUTO AOCP/Governo do Distrito Federal/Policial Penal) O
+preâmbulo da CF não é norma de reprodução obrigatória nos Estados. Contudo,
+diante de sua plena eficácia, pode ser utilizado como parâmetro para o controle
+de constitucionalidade.
+
+                            
+
+
+---
+
+---
+
+Ato das Disposições Constitucionais Transitórias
+
+(...)
+
+Art. 4º. O mandato do atual Presidente da República terminará em 15 de março de 1990.
+§ 1º A primeira eleição para Presidente da República após a promulgação da Constituição
+será realizada no dia 15 de novembro de 1989, não se lhe aplicando o disposto no art. 16
+da Constituição.
+
+(...)
+
+Art. 13. É criado o Estado do Tocantins, pelo desmembramento da área descrita
+neste artigo, dando-se sua instalação no quadragésimo sexto dia após a eleição
+prevista no § 3º, mas não antes de 1º de janeiro de 1989.
+                                
+
+
+---
+
+---
+
+1. (2022/IBFC/SESACRE/Agente Administrativo) O ADCT (Ato das Disposições
+Constitucionais) é a parte transitória da Constituição Federal (CF/88). Sobre qual é
+a finalidade do ADCT, assinale a alternativa correta.
+A) Englobar as normas constitucionais que possuem máximo valor normativo
+B) Judicialização das coisas
+C) Regulamentar a transição entre Constituições
+D) Expressar a ideologia do Poder Constituinte Originário
+
+                              
+
+
+---
+
+Elementos da Constituição
+
+      
+
+
+---
+
+                                                 Regulam a estrutura do estado e
+                       ORGÂNICOS
+                                                           do poder
+ESTRUTURA NORMATIVA
+  DA CONSTITUIÇÃO
+                                                   São as normas protetoras dos
+                       LIMITATIVOS
+   ELEMENTOS DA
+
+                                                 direitos e garantias fundamentais
+                      SOCIOIDEOLÓGIC            Expressam o compromisso entre o
+                            OS                       estado liberal e o social
+                                                Normas de defesa do estado e das
+                      ESTABILIZAÇÃO
+                                                    instituições democráticas
+                                                Preâmbulo, ADCT e Art. 5º, §1º, da
+                      APLICABILIDADE
+                                                            CRFB/88
+
+                              
+
+
+---
+
+1. (2022/INSTITUTO AOCP/PC-GO/Papiloscopista) Sobre a classificação dos
+elementos da Constituição Federal, assinale a alternativa correta.
+A) Os elementos limitativos são aqueles que correlacionam o Estado individualista
+e o Estado social, intervencionista.
+B) Os elementos compostos pelas normas que regulam a estrutura do Estado e do
+Poder são chamados socioideológicos.
+C) Elementos formais de aplicabilidade são aqueles que compõem os direitos e as
+garantias fundamentais.
+D) Os elementos como “preâmbulo”, ou “disposições constitucionais
+transitórias”, são chamados elementos orgânicos.
+E) São chamados elementos de estabilização constitucional aqueles relacionados
+aos instrumentos de defesa do Estado e que buscam garantir a paz social.
+
+
+                             
+
+
+---
+
+2. (2021/MPM/MPM/Promotor) O Ato das Disposições Constitucionais
+Transitórias pode ser conceituado como um elemento da constituição com
+caráter:
+A) Orgânico.
+B) De estabilização constitucional.
+C) Socioideológico.
+D) Formal de aplicabilidade.
+
+                         
+
+
+---
+
+---
+
+GRATA!
+                                         Profª.: Nelma Fontana
+
+    
+
+
+---

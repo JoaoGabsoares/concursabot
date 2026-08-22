@@ -1,0 +1,38 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 01_002_Slide.txt
+tipo_material: Curso Teórico Base
+aula_numero: '01'
+titulo_aula: Aula 01 002 Slide
+---
+
+# Aula 01 002 Slide
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---

@@ -1,0 +1,197 @@
+---
+cargo: Analista-Tributário da Receita Federal do Brasil (ATRFB)
+banca: FGV
+disciplina: Legislação Tributária e Aduaneira
+tags:
+- aduana
+- regulamento_aduaneiro
+- ipi
+- irpf
+- irpj
+- pis_cofins
+arquivo_origem: Aula 04_001_Resumo.txt
+tipo_material: Resumo Esquematizado
+aula_numero: '04'
+titulo_aula: APRESENTAÇÃO DO MATERIAL
+---
+
+# APRESENTAÇÃO DO MATERIAL
+
+APRESENTAÇÃO DO MATERIAL
+
+Queridos alunos!!
+
+
+Sabemos que os resumos das disciplinas são fundamentais para fixação de conteúdos e,
+
+também, para realização de revisões. Um resumo bem feito garante que os principais pontos
+
+de cada matéria sejam revisados de forma rápida, aumentando a produtividade dos estudos
+
+e a eficiência das revisões.
+
+
+      Além disso, sabemos que, principalmente para os grandes concursos, o número de
+
+matérias cobradas no edital é muito grande. Dessa forma, além de revisar os pontos marcados
+
+em seus materiais, um bom resumo pode encurtar o tempo de revisão, garantindo, assim, que
+
+todo o material possa ser revisado em um período de tempo mais curto.
+
+
+      Com isso em mente, apresentamos a vocês o Resumo de Legislação Tributária - IR -
+
+Disposições Gerais. Trata-se de um material pensado para lhe ajudar em todo esse processo,
+
+visando, inclusive, uma economia de tempo de confecção de materiais, tempo que é o bem
+
+mais precioso de um concurseiro, não é mesmo?
+
+
+      Esperamos poder ajudá-los!
+
+
+Conte sempre com o Estratégia em sua caminhada!
+
+
+Estratégia Concursos
+
+                                                                                                  1
+
+                **Este material contempla assuntos dispostos no livro digital (pdf) da aula 04.
+
+                                 
+
+
+---
+
+               RESUMO DE LEGISLAÇÃO TRIBUTÁRIA
+
+Conceitos Básicos sobre o IR
+
+  ● O IR é um imposto com marcante finalidade fiscal, isto é, o seu objetivo
+
+    principal é carrear recursos aos cofres públicos.
+
+
+  ● O IR é um tributo não contraprestacional (ou simplesmente não vinculado),
+
+    podendo ser cobrado, independentemente de o Estado ter ou não prestado
+
+    qualquer atividade em benefício do contribuinte.
+
+
+  ● O IR é um tributo de arrecadação não vinculada, ou seja, o destino dos recursos
+
+    arrecadados não está vinculado ao custeio de alguma atividade específica.
+
+                                                                                               2
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 04.
+
+                              
+
+
+---
+
+  ● O IR é um tributo que deve obedecer aos seguintes critérios: generalidade (todas
+
+    as pessoas), universalidade (todos os rendimentos) e progressividade (aumento
+
+    de alíquotas conforme o aumento da base de cálculo).
+
+Princípios Constitucionais aplicáveis ao Imposto de Renda
+
+  ● Aplica-se o princípio da legalidade, sem qualquer mitigação para alteração de
+
+    alíquotas.
+
+
+  ● Aplica-se o princípio da isonomia e capacidade contributiva.
+
+
+  ● Sempre que possível, os impostos terão caráter pessoal e serão graduados
+
+    segundo a capacidade econômica do contribuinte.
+
+
+  ● Aplica-se o princípio da vedação ao efeito de confisco (devendo ser considerada a
+
+    totalidade da carga tributária do sujeito passivo para sua averiguação, e não um
+
+    tributo isoladamente).
+
+
+  ● Aplica-se o princípio da irretroatividade: impede cobrar tributos em relação aos
+
+    fatos geradores ocorridos antes do início da vigência da lei que os instituiu ou
+
+    majorou.
+
+                                                                                               3
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 04.
+
+                              
+
+
+---
+
+  ● Aplica-se o princípio da Anterioridade Anual: impede cobrar tributos no
+
+    mesmo ano da publicação da lei que os tenha instituído ou majorado.
+
+
+  ● Não se aplica o princípio da Anterioridade Nonagesimal: que impediria cobrar
+
+    tributos antes de 90 dias a partir da publicação da lei que os tenha instituído ou
+
+    majorado.
+
+O IR e as diretrizes do CTN
+
+  ● O fato gerador do IR é a aquisição de disponibilidade econômica ou jurídica:
+
+       ○ De renda, assim entendido o produto do capital, do trabalho ou da
+
+          combinação de ambos;
+
+       ○ De proventos de qualquer natureza, assim entendidos os acréscimos
+
+          patrimoniais não compreendidos no inciso anterior.
+
+                                                                                               4
+
+             **Este material contempla assuntos dispostos no livro digital (pdf) da aula 04.
+
+                              
+
+
+---
+
+Incide IR: Independentemente da denominação, da origem e da forma de percepção
+
+da receita ou rendimento.
+
+
+Incide IR: Independentemente da localização, condição jurídica ou nacionalidade da
+
+fonte da receita ou do rendimento.
+
+
+  ● O IR incide sobre receita e rendimentos oriundos do exterior.
+
+
+  ● É a lei que estabelece as condições e o momento em que esses ganhos se
+
+     consideram disponibilizados.
+
+                                                                                                5
+
+              **Este material contempla assuntos dispostos no livro digital (pdf) da aula 04.
+
+                               
+
+
+---
